@@ -6,7 +6,10 @@ layout: post
 ---
 #### **Gretchen Liu** traces the history of this grand hotel, from its heyday of glitz and glamour to near ruin and its subsequent reincarnation into the heritage icon it is today.
 
-Jinrickshaws picking up travellers just outside Raffles Hotel, circa 1910. <i>Courtesy of Raffles Singapore.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-3/raffles/cover.jpg">
+Jinrickshaws picking up travellers just outside Raffles Hotel, circa 1910. <i>Courtesy of Raffles Singapore.</i></div>
 
 For over a century, Raffles Hotel has shared Singapore’s prosperity and endured its vicissitudes, along the way becoming one of those rare places in the world where truth, legend, myth and mystery merge effortlessly together. The very name conjures up all that is romantic in travel. Over the years, the hotel has enjoyed several incarnations: modest start-up, grand caravanserai, fable-encrusted attraction, faded dowager, national landmark and restored beauty. The story of how Raffles Hotel became so celebrated, and how it survived when so many other hotels fell by the wayside, begins over a century ago and connects with the larger story of the “Golden Age of Travel” when, for the first time in human history, people began to circumnavigate the globe for the pleasure of taking in the sights.
 
@@ -22,7 +25,10 @@ Bradshaw’s, the authoritative guidebook publisher, announced not without a tou
 
 Singapore was becoming an important coaling station for steamships. With more ships calling, decent hotel rooms were suddenly in short supply. By the 1880s, the port offered at least eight establishments – all located within a few blocks of the Padang in old bungalows to which various makeshift extensions had been added. The lack of something more elegant – a real grand hotel, which was even then a recent invention in the West – was cause for concern in the business community. An attempt was made to form a consortium to raise funds for a modern hotel but the capital investment proved too high and potential investors too few. Instead it was the Sarkies Brothers, Hotel Proprietors (as the company was called) that stepped into the void, intent on creating, in the Sarkies’ own words, “A really First Class Hotel”.
 
-The revamped lobby of Raffles Hotel still exudes the grandeur of its heyday. <i>Courtesy of Raffles Singapore.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-3/raffles/revamped_lobby.jpg">
+The revamped lobby of Raffles Hotel still exudes the grandeur of its heyday. <i>Courtesy of Raffles Singapore.</i></div>
 
 #### **Building a landmark: Raffles Hotel**
 
@@ -36,7 +42,10 @@ Eventually four brothers – Martin, Tigran, Aviet and Arshak – were involved 
 
 During Raffles Hotel’s first two decades, Tigran oversaw almost unabated construction. Three projects were completed in 1890: a pair of buildings comprising 22 suites flanking the old bungalow and the first iteration of the Billiard Room. In 1894, the Palm Court Wing was completed on the adjacent parcel of land at No 3 Beach Road, adding another 30 suites to the inventory.
 
-The Armenians behind the success of Raffles Hotel. From left: manager Joe Constantine, brothers Tigran and Martin Sarkies (seated), and accountant Martyrose Sarkies Arathoon in 1906. <i>Courtesy of Raffles Singapore.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-3/raffles/the_armenians.jpg">
+The Armenians behind the success of Raffles Hotel. From left: manager Joe Constantine, brothers Tigran and Martin Sarkies (seated), and accountant Martyrose Sarkies Arathoon in 1906. <i>Courtesy of Raffles Singapore.</i></div>
 
 #### **The Main Building Opens in 1899**
 
@@ -54,7 +63,10 @@ Raffles’ management strived to stay ahead of the competition. Refinements larg
 
 Behind the scenes, the kitchens were frequently upgraded with the latest in culinary technology. Raffles even had its own slaughterhouse, located away from the hotel, and, briefly, a dairy farm. Travellers noticed: “Raffles is one of the oldest and yet one of the most modern hotels in Singapore, for every effort is made to keep pace in all directions in the matter of building fixtures, appliances,” praised a writer in 1917.
 
-The ballroom of Raffles Hotel opened in 1921 and was reputed to be the largest hotel ballroom in the east at the time. <i>Courtesy of Raffles Singapore.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-3/raffles/ballroom.jpg">
+The ballroom of Raffles Hotel opened in 1921 and was reputed to be the largest hotel ballroom in the east at the time. <i>Courtesy of Raffles Singapore.</i></div>
 
 Tigran Sarkies did not live to read that praise. He set sail for England in November 1910 and two years later Singapore papers carried news of his death at St Leonard’son-Sea in Sussex, England. He was 51. His obituary noted that he had been ill for some time so his death was not unexpected. The business of Sarkies Brothers, Hotel Proprietors, however, continued without interruption. 
 
@@ -62,7 +74,10 @@ Aviet, now senior partner, continued to oversee Raffles from Rangoon and left th
 
 The 1920s was, on the whole, a splendid decade for Raffles. The opening of the ballroom in January 1921 was timed perfectly to usher in the “roaring twenties” with an in-house band and nightly dancing. Large groups of tourists now regularly visited Singapore on round-the-world cruises. In 1925 alone, Raffles made arrangements to entertain some 3,000 tourists from six different ships. Evenings took the form of an elegant cruise dinner and dance laid out in the spacious ballroom. When it was realised that the hotel’s best cutlery was being pocketed as souvenirs, inexpensive pieces were substituted.
 
-The New Year’s Eve Fancy Dress Ball held at Raffles Hotel was the highlight of Singapore’s social calendar until World War II. This photograph was taken in 1934. <i>Courtesy of Raffles Singapore.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-3/raffles/fancy_dress_ball.jpg">
+The New Year’s Eve Fancy Dress Ball held at Raffles Hotel was the highlight of Singapore’s social calendar until World War II. This photograph was taken in 1934. <i>Courtesy of Raffles Singapore.</i></div>
 
 #### **Raffles Falls on Hard Times**
 
@@ -96,17 +111,19 @@ In the 1960s, competition came from the international hotels making their appear
 
 For a time the very existence of the hotel seemed threatened, but fortunately a sense of history and heritage prevailed. In 1987, its centenary year, the Raffles Hotel was declared a national monument, thus ensuring its survival and the integrity of its tropical gardens and architecture. Two years later a complete restoration and redevelopment inspired by the hotel’s early heyday took place. When the new Raffles reopened on 16 September 1991, revellers raised their glasses and toasted to the Grand Old Dame’s next century.
 
-The Legacy of Syed Mohamed Alsagoff
 
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba; display:block; font-size:1rem; line-height:1.5rem;"> 
+<b>The Legacy of Syed Mohamed Alsagoff</b>
+<br><br>
 One of the key reasons why Raffles Hotel was able to survive its near closure in 1931 was the existence of a long-term lease on the land and buildings which the hotel occupied. There is an unusual story behind it. As we have seen, Raffles Hotel had opened at No 1 Beach Road, in December 1887. Its success enabled expansion into two adjacent parcels – No 3 Beach Road (Palm Court wing) and along Bras Basah Road. No 3 Beach Road was leased from the Seah family and in 1907 Tigran and Aviet Sarkies purchased the land for $125,064. 
-
+<br><br>
 Unfortunately, they could never hope to purchase the other two parcels because they were part of the estate of Syed Ahmed Alsagoff (d. 1875), a wealthy Arab trader who had left a large estate with many properties to his widow and children. In his will, he appointed his son Syed Mohamed Alsagoff (d. 1906) as executor. He also stated that none of his properties could be sold until 20 years after the death of his last surviving child (which did not occur until 1961) so the Sarkies knew they could never hope to own the main properties in which they carried out their hotel business.
-
+<br><br>
 The lease signed in 1887 was renewed periodically. Significantly, the hotel was able to secure a generous 70-year lease on good terms from the Alsagoff estate effective from 1 January 1926. Thus, when the new company of Raffles Hotel Limited was formed in 1933, the remainder of this long lease was its most important asset. 
-
+<br><br>
 It must be noted that Syed Mohamed was an outstanding landlord. He funded most of the early building projects and it is his name that appears on most of the original Raffles Hotel building plans that survive in the National Archives, Singapore.
-
-This article was adapted from the book Raffles Hotel by Gretchen Liu, Editions Didier Millet, Singapore, 2006.
+<br><br>
+This article was adapted from the book Raffles Hotel by Gretchen Liu, Editions Didier Millet, Singapore, 2006.</span>
 
 <p style="font-size:15px;"><b>Gretchen Liu</b> is a former journalist and book editor as well as the author of several illustrated books, including <i>Pastel Portraits: Singapore’s Architectural Heritage</i> and <i>Singapore: A Pictorial History</i>. As the former curator of the Raffles Hotel Collection, she oversaw all of the heritage projects during the hotel’s 1989–1992 restoration and for some years after that.</p>
 
