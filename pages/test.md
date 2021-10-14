@@ -2,19 +2,10 @@
 title: test
 permalink: /teesstt
 ---
-<style>
-    .crop {
-    display: block;
-    height: 100px;
-    position: relative;
-    overflow: hidden;
-    width: 100px;}
-.crop img {
-    left: -90px; 
-    position: absolute;
-    top: -20px; }
-</style>
+<div style="background-image:url('https://biblioasia.nlb.gov.sg/images/vol-17-issue-2/birdpark/JurongBirdPark_Main.jpg'); width:800px; height:250px; background-position:center;">&nbsp;</div>
 
-<div class="crop">
-    <img src="images/vol-17-issue-2/birdpark/JurongBirdPark_Main.jpg">
-</div>
+<hr>
+
+ <img style="width:800px;" src="/images/vol-17-issue-2/birdpark/JurongBirdPark_Main.jpg">
+
+ 
