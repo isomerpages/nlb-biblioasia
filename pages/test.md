@@ -6,6 +6,17 @@ permalink: /teesstt
 
 <hr>
 
- <img style="width:800px;" src="/images/vol-17-issue-2/birdpark/JurongBirdPark_Main.jpg">
+<style>
+    .crop {
+        width: 100%;
+        height: 270px;
+        overflow: hidden;    }
 
- 
+    .crop img {
+        width: 100%
+        height: 300px;
+        margin: -95px;  -70px; 0; -60px;    }
+	</style>
+  <div class="crop">
+        <img src="https://biblioasia.nlb.gov.sg/images/vol-17-issue-2/birdpark/JurongBirdPark_Main.jpg">     
+</div>
