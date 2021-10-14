@@ -128,3 +128,111 @@ Set up in 1979, the Oral History Centre records, documents, preserves and dissem
 <p style="font-size:15px;"><b>Fiona Tan</b> is an Assistant Archivist (Outreach) with the National Archives of Singapore. Fairly new to the occupation but not the institution, she firmly believes that archival research often yields unexpected finds for those who persevere. She continues to promote the quirky and curious nature of the archives through her work. She thanks Eric Chin, Irene Lim, June Pok, Janelle Chua, Denise Ng and Noor Fadilah Yusof for their inputs to this article.</p>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-10/issue-3/oct-dec-2014/"><center>Back to Issue</center></a>
+
+#### **REFERENCES**
+
+[23-storey hotel going up on old Pavilion site](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19690722-1.2.53). (1969, July 22). <i>The Straits Times</i>, p. 9. Retrieved from NewspaperSG.
+
+[A hawkers’ paradise](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19650202-1.2.60.2). (1965, February 2). <i>The Straits Times</i>, p. 10. Retrieved from NewspaperSG.
+
+[An old Singapore landmark to be replaced](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19591209-1.2.53). (1959, December 9). <i>The Straits Times</i>, p. 7. Retrieved from NewspaperSG.
+
+Ang, P.H. (1983, July 6). [Everything must go](http://eresources.nlb.gov.sg/newspaper). <i>Singapore Monitor</i>, p. 6. Retrieved from NewspaperSG.
+
+Ang, A. (1990, February 17). [Heeren Building has to make way for road project](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900217-1.2.32.2.2). <i>The Straits Times</i>, p. 22. Retrieved from NewspaperSG.
+
+[Babas who did much for education](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19831113-1.2.71.5). (1983, November 13). <i>The Straits Times</i>, p. 21. Retrieved from NewspaperSG.
+
+Boland, G. (1958, October 20). [Enterprise with name famous the world over](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19581020-1.2.55.2). <i>The Singapore Free Press</i>, p. 1. Retrieved from NewspaperSG.
+
+Braddell, R. (1947, April 19). [Memories of ©16 Singapore: Fun and games in sticky colonial society](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19470419-1.2.76). <i>The Straits Times</i>, p. 8. Retrieved from NewspaperSG.
+
+[Check in, check out](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20050716-1.2.101.7.2). (2005, July 16). <i>The Straits Times</i>, p. 5. Retrieved from NewspaperSG.
+
+Chew, H.M. (Interviewer). (2006, June 9). *[Oral history interview with Tan Wee Him](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/c/c5b8d5ce-1160-11e3-83d5-0050568939ad-OHC003058_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&&pn=1)* [Transcript of MP3 recording no. 003058/07/02, pp. 31–64]. Retrieved from National Archives of Singapore.
+
+[Cold storage depot](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19050406-1.2.35.2). (1905, April 6). <i>The Straits Times</i>, p. 5. Retrieved from NewspaperSG.
+
+[Cold storage plans to move out to Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19821126-1.2.180.1). (1982, November 26). <i>The Straits Times</i>, p. 22. Retrieved from NewspaperSG.
+
+[Cuppage Road stalls open in August](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19780629-1.2.31). (1978, June 29). <i>The Straits Times</i>, p. 6. Retrieved from NewspaperSG.
+
+Davidson, J. (2010). *[Singapore shophouse](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13735527)* (p. 142). Singapore: Talisman. (Call no.: RSING 720.95957 DAV)
+
+[Death of Mr R.A.J. Bidwell](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19180411-1.2.87). (1918, April 11). <i>The Singapore Free Press and Mercantile Advertiser</i>, p. 235. Retrieved from NewspaperSG.
+
+[Down goes Heeren Building](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900309-1.2.36.20.1). (1990, March 9). <i>The Straits Times</i>, p. 9. Retrieved from NewspaperSG.
+
+Edwards, n., & Keys, P. (1988). *[Singapore: A guide to buildings, street, places](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4712298)* (p. 220). Singapore: Times Books International. (Call no.: RSING 915.957 EDW)
+
+Flower, R. (2002). *[The Y: First 100 years in Singapore, 1902–2002](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11179222)* (pp. 6–8). Singapore: YMCA. (Call no.: RSING q267.395957 FLO)
+
+Fong, V. (1984, June 3). [The ‘Y’ over the years](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19840603-1.2.23.25.1). <i>Singapore Monitor</i>, p. 38. Retrieved from NewspaperSG
+
+Guevarra, V. (2000, October 5). [Landmark Cockpit Hotel to be a thing of the past soon](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20021005-1.2.64.7.46.2). <i>The Straits Times</i>, p. 32. Retrieved from NewspaperSG.
+
+[Koek Lane food stalls move out](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19761005-1.2.93). (1976, October 5). <i>The Straits Times</i>, p. 15. Retrieved from NewspaperSG.
+
+[Keok Road is now No.1 favourite among the night-out eater](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19600719-1.2.60). (1960, July 19). <i>The Singapore Free Press</i>, p. 4. Retrieved from NewspaperSG.
+
+Koh, E. (1991, February 27). [Cockpit to buy over Salvation Army HQ](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19910227-1.2.8). <i>The Business Times</i>, p.1 Retrieved from NewspaperSG.
+
+Lee, E. (1990). *[Historic buildings of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5572905)*. Singapore: Preservation of Monuments Board. (Call no.: RSING 720.95957 LEE)
+
+Lee, K.L. (2002, October 7). [Cockpit site was once Kempeitai station](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20021007-1.2.21.6). <i>The Straits Times</i>, p. 16. Retrieved from NewspaperSG.
+
+Lim, B. (Interviewer). (2012, November 1). *[Oral history interview with George Yuille Caldwell](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/1ca4571d-1163-11e3-83d5-0050568939ad?keywords=George+Yuille+Caldwell+&&keywords-type=all)* [MP3 recording no. 003776/38//15]. Retrieved from NewspaperSG.
+
+Lim, J. (Interviewer). (2002, August 13). *[Oral history interview with Pakirisamy Rajagopal](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/467d4390-1160-11e3-83d5-0050568939ad?keywords=Pakirisamy+Rajagopal+&&keywords-type=all)* [MP3 recording no. 002599/08//02]. Retrieved from National Archives of Singapore website.
+
+Lim, K.T., & Yiu, T.C. (1991). *[Cathay: 55 years of cinema](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6095688)*. Singapore: Landmark Books for Meileen Choo. (Call no.: RSING 791.43095957 LIM)
+
+Lim, P.H., & Chong, G.P. (1982, March 7). New era coming to C K Tang. <i>The Straits Times</i>, p. 9. Retrieved from NewspaperSG.
+
+Lyne, R., et al. (1992). The YMCA of Singapore: 90 years of service to the community. Singapore: YMCA.  (Call no.: RSING 267.395957 YMC)
+
+Modern entertainment: The Palladium picture palace. (1913, December 24). <i>The Singapore Free Press</i>, p. 12. Retrieved from NewspaperSG.
+
+Mok, S.P. (1971, July 9). Cockpit’s $10 million extension to open in September. <i>The Straits Times</i>, p. 16. Retrieved from NewspaperSG.
+
+Municipal action. (1933, March 31). <i>The Straits Times</i>, p. 6. Retrieved from NewspaperSG.
+
+National Heritage Board. (2015, December 7). Former Cathay Building (now The Cathay). Retrieved from Roots.sg website.
+
+National Heritage Board. (2015, December 7). Goodwood Park Hotel (Tower Block). Retrieved from Roots.sg website.
+
+Tan, J.H.S. (2016). Goodwood Park Hotel. Retrieved from Singapore Infopedia, National Library Singapore.
+
+‘New look’ plan by URA for Orchard Road. (1978, December 2). <i>The Straits Times</i>, p. 13. Retrieved from NewspaperSG.
+
+Ooi, Y.L. (1999). Pieces of jade and gold: An anecdotal history of the Singapore Chinese Girls’ School 1899–1999. Singapore: Singapore Chinese Girls’ School. (Call no.; RCLOS 373.5957 OOI)
+
+Our lost treasures. (1990, April 1). <i>The Straits Times</i>, p. 2. Retrieved from NewspaperSG.
+
+Peer, M.A. (2002). Policing Singapore in the 19th and 20th centuries. Singapore: Singapore Police Force. (Call no.: RSING 363.2095957 PEE)
+
+Pioneers of Singapore: Dr Lim Boon Keng (1869–1957). (1986, May 25). <i>The Straits Times</i>, p. 12. Retrieved from NewspaperSG.
+
+Quek, C. (2005, February 3). Building stability. The Business Times, p. 24. Retrieved from NewspaperSG.
+
+Showtime. (2006, March 21). <i>The Straits Times</i>, p. 10. Retrieved from NewspaperSG.
+
+Singapore Building Corp.: Chairman explains position of Amber Mansions. (1922, December 14). <i>The Straits Times</i>, p. 14. Retrieved from NewspaperSG.
+
+Singapore Chinese Girls’ School. (2020). SCGS Milestones. Retrieved from Singapore Chinese Girls’ School website.
+
+Singapore street directory and guide. (1957). Singapore: Survey Dept. (Not available in NLB’s holdings)
+
+Tan, J. (1982, July 10). Demolishers catch up with police station. <i>The Straits Times</i>, p. 12. Retrieved from NewspaperSG.
+
+Tan, L. (1982, May 22). The Tang Dynasty. <i>The Straits Times</i>, p. 1. Retrieved from NewspaperSG.
+
+Toh, E. (1991, July 10). Owner of Heeren site gets nod to build $300m complex. <i>The Straits Times</i>, p. 36. Retrieved from NewspaperSG.
+
+Tyers, R., & Siow, J.H. (1993). Ray Tyers’ Singapore: Then & now. Singapore: Landmark Books. (Call no.: RSING 959.57 TYE)
+
+Waiting for the beat. (1997, April 17). The Business Times, p. 1. Retrieved from NewspaperSG.
+
+Wan, M.H., & Lau, J. (2009). Heritage places of Singapore. Singapore Marshall Cavendish International. (Call no.: RSING 959.57 WAN)
+
+Yeoh, B., & Wong, T. (2007). Over Singapore: 50 years ago: An aerial view in the 1950s. Singapore: Editions Didier Millet in association with NAS. (Call no.: RSING 779.995957 YEO)
