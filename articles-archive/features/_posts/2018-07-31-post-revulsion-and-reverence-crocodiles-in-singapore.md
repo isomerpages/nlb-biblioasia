@@ -36,7 +36,7 @@ The Singapore Crocodilarium at East Coast Parkway and Jurong Reptile and Crocodi
 In 1989, Winoto, the chief trainer at the Jurong Reptile and Crocodile Paradise, had part of his left cheek torn off by a female crocodile named after the American wrestler Hulk Hogan. Winoto survived the attack but ended up with 10 stitches on his face.9 The two parks closed in the early 2000s due to dwindling visitor numbers, and as other, more contemporary, attractions in Singapore took their place.10
 
 <img src="/images/Vol-14-issue-2/revulsion-and-reverence/Croc4.JPG">
-<div style="background-color: white;">A poster from the Crocodile Paradise at Jurong advertising its performances with crocodiles.</i></div>
+<div style="background-color: white;">A poster from the Crocodile Paradise at Jurong advertising its performances with crocodiles.</div>
 
 Nevertheless, the island continues to host crocodiles in the wild, approximately 20 are known to be residents of the mangrove habitats of Sungei Buloh Wetland Reserve. Today, with over 90 percent of Singapore’s mangrove ecosystem destroyed, the reserve encompasses the largest mangrove forest – at 1.17 sq km11 – left on the island.
 
@@ -103,3 +103,21 @@ William Farquhar’s dog was not the only casualty that fell prey to crocodiles.
 <b>REFERENCE</b><br>
 [Discovery in a crocodile’s stomach](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19070813-1.2.79). (1907, August 13). <i>The Straits Times</i>, p. 7. Retrieved from NewspaperSG.
 </span>
+
+#### **1977: The Year of the White Crocodile**
+
+In 1977, a group of plucky Venture Sea Scouts set out to capture a white crocodile22 that was said to inhabit Pulau Sarimbun in the northwest coast of Singapore. Newspaper reports on this expedition were published on 2 May, 30 April, 13 June and 25 June 1977.23
+
+These scouts were following up on an unrecorded sighting of a white crocodile by another group of Venture Sea Scouts five years earlier.24 Recalling the incident, Cheong Ah Sang said that his group of 12 scouts had “caught a glimpse of the white crocodile in 1972”. Determined to trap it, he decided to lead a team of 32 scouts on a quest to search for the reportedly 13-foot-long reptile.
+
+<img src="/images/Vol-14-issue-2/revulsion-and-reverence/Croc5.JPG">
+<div style="background-color: white;">Venture Sea Scouts getting ready for one of their expeditions in search of the white crocodile at Pulau Sarimbun in April 1977. The expedition was led by Cheong Ah Sang. <i>Image reproduced from The Straits Times, 30 April 1977, p. 2.</i></div>
+
+On 30 April 1977, *The New Nation* reported that Cheong’s group embarked on a three-day expedition using 11 canoes and were escorted by a nine-metre whaler. He told the reporter:
+
+“We hope to come across the white crocodile hopefully around Sarimbun Island. We may use a net with a stick and a rope to trap it or we may bait it with chicken and fish”.25
+
+In venturing into the waters of the Straits of Johor where Pulau Sarimbun is located, these young adventurers were returning full circle to the historic Hang Tuah’s encounter with the white crocodile. Cheong’s expedition, however, failed in its bid to capture the crocodile.
+
+According to the *Hikayat Hang Tuah*, “only the pure of heart can see the white crocodile”. Taking this advice to heart, another group of scouts led by Paul Wee prepared for the hunt by vowing to fast and refrain from consuming pork. They had earlier revealed their intention to donate the captured animal to the zoo. However, after two failed attempts, the scouts were ordered to call off the hunt by the Chief Commissioner’s Office.26
+
