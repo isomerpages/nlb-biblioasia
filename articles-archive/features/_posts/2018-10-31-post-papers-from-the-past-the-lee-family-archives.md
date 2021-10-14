@@ -65,7 +65,7 @@ The collection is important for the valuable insights it provides into the Strai
 The collection also includes documents pertaining to other important Chinese business leaders in Singapore and Malaya, such as Lim Peng Siang, Chan Kang Swi and Chee Bong Quee, as well as the Lee family’s correspondences with British officials and merchants and even members of the Malay royalty.
 
 <img style="width: 650px; height: 400px;" src="/images/Vol-14-issue-3/papers-from-the-past/PastPapers5.JPG">
-<div style="background-color: white;">The original Ocean Building erected in 1866 at the corner of Collyer Quay and Raffles Quay was demolished to make way for this second Ocean Building that was completed in 1923. The StraitsnSteamship Company was located in this building, 1920s. <i>Courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;">The original Ocean Building erected in 1866 at the corner of Collyer Quay and Raffles Quay was demolished to make way for this second Ocean Building that was completed in 1923. The Straits Steamship Company was located in this building, 1920s. <i>Courtesy of National Archives of Singapore.</i></div>
 
 Apart from business documents, the collection also offers a rich resource of primary research materials on other aspects of Singapore’s history – such as the correspondences and records of the Lee family during World War II documenting the conditions, deprivation and strategies for survival during this period.
 
@@ -85,7 +85,7 @@ Featured here is a selection of items from the Lee Kip Lee and Lee Kip Lin Famil
 <img style="width: 430px; height: 350px;" src="/images/Vol-14-issue-3/papers-from-the-past/PastPapers9.JPG">A letter from Lee Chim Tuan to Run Run Shaw – who later established Shaw Brothers Studio – written during the Japanese Occupation. The letter seeks Shaw’s assistance in finding work for a Ibrahim bin Mohammad Sharif. Ibrahim was made jobless because his European employer J.S. David had been interned by the Japanese.
 <br><br>
 <b>Letter from the secretary of the Singapore Chinese Weekly Entertainment Club to Lee Chim Tuan, 24 August 1946</b>
-<img style="width: 670px; height: 370px;" src="/images/Vol-14-issue-3/papers-from-the-past/PastPapers10.JPG">This is an invitation to Lee Chim Tuan to attend a dinner hosted by “Tiger Balm King” Aw Boon How at the Singapore Chinese Weekly Entertainment Club (中华维基利俱乐部) on Club Street. The club was a private “millionaires΄ club” for the Straits Chinese community and has a history going back to 1891. Lee Choon Guan was a founding member of the club and served as the club’s president for a number of years.</div>
+<img style="width: 670px; height: 370px;" src="/images/Vol-14-issue-3/papers-from-the-past/PastPapers10.JPG">This is an invitation to Lee Chim Tuan to attend a dinner hosted by “Tiger Balm King” Aw Boon Haw at the Singapore Chinese Weekly Entertainment Club (中华维基利俱乐部) on Club Street. The club was a private “millionaires΄ club” for the Straits Chinese community and has a history going back to 1891. Lee Choon Guan was a founding member of the club and served as the club’s president for a number of years.</div>
 
 <br>
 <div style="background-color: white;">
