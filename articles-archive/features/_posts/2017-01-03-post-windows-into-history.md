@@ -203,10 +203,10 @@ The discovery of the Dobbelaere cartoons in Leuven has provided valuable insight
 The footprint of a church is typically laid out in a rectangle, Greek-cross – a square central mass with four projecting arms of equal length – or Latin-cross cruciform plan. From these basic forms, an apse, which is a semicircular recess, may be attached behind the altar to provide a visual focus.
 <br><br>
 <img style="width:700px" src="/images/Vol-12-issue-4/windows-into-history/9a-windows_into_history.jpg">
-<br><br>
+<br>
 (From left to right) Greek cross plan of Armenian Church, rectangular plan of St George’s Church (at Minden Road) and Latin cross plan of Cathedral of the Good Shepherd.<br><br>
 <img style="width:400px" src="/images/Vol-12-issue-4/windows-into-history/10-windows_into_history.jpg">
-<br><br>
+<br>
 The main body of the church, which is known as the nave, is the area where the congregation takes part in worship (called a mass in Catholic churches or service in the Protestant tradition).
 <br><br>
 A passageway to either side of the nave that is separated by a colonnade of columns or rows of pews is known as the aisle. A transept is the space that is perpendicular to the nave on either side of a cruciform.
@@ -216,15 +216,15 @@ Beyond the nave typically lies the sanctuary, usually separated from the nave by
 In the case of St Andrew’s Cathedral, the choir stalls are positioned behind the altar. In Catholic churches, the tabernacle where the Eucharist[^14] is stored, is located behind the altar. In most cases, an apse is the recess behind the sanctuary.
 <br><br>
 <img style="width:550px" src="/images/Vol-12-issue-4/windows-into-history/11-windows_into_history.jpg">
-<br><br>
+<br>
 The clerestory denotes an upper level of the nave where the walls rise above the rooflines of the lower aisles and are punctuated with windows. Windows located in this area are also known as clerestory windows.
 <br><br>
 <img style="width:300px" src="/images/Vol-12-issue-4/windows-into-history/12-windows_into_history.jpg">
-<br><br>
+<br>
 A fanlight or “lunette” is a semicircular window over a door or window. It is also sometimes known as a transom window, especially when it is rectangular in shape.
 <br><br>
 <img style="width:300px" src="/images/Vol-12-issue-4/windows-into-history/13-windows_into_history.jpg">
-<br><br>
+<br>
 The stained glass windows located at the apse are also referred to as apsidal windows.
 <br><br>
 A lancet window (above left image) is a tall, narrow window with a pointed arch at its top. Such windows are typical of Gothic and neo-Gothic architecture.
