@@ -66,3 +66,22 @@ For one, both Harriette’s and Annie’s families owned extensive libraries. An
 <img src="/images/Vol-14-issue-2/globetrotting-mums/Globetrotting5.JPG">
 <div style="background-color: white;">(Left) In July 1876, Annie Brassey departed on the Sunbeam to travel around the world with her husband, four children and pet dogs. An account of her travels was published as <i>A Voyage in the ‘Sunbeam’: Our Home on the Ocean for Eleven Months</i>. This illustration of the Sunbeam was featured on the frontispiece of the book. <i>Image reproduced from Brassey, A. (1878). A Voyage in the ‘Sunbeam’: Our Home on the Ocean for Eleven Months London: Longmans, Green. (Accession no.: B02897233A; Microfilm no.: NL25750).</i><br>
 (Right) Some children of the school at St Thomas Church in Kuching, Sarawak. Both the church and school were established by Harriette McDougall and her husband Francis McDougall. <i>Image reproduced from McDougall, H. (1882). Sketches of our Life at Sarawak (p. 194). London: Society for Promoting Christian Knowledge. (Microfilm no.: NL26013).</i></div>
+
+Besides the usual chores on deck, Annie devised games for the children to play on board. One such pastime was a soldier’s drill where the children marched up and down the deck to the music of a fiddle and the “somewhat discordant noise of their own drums”.
+
+Harriet’s orphan boys adopted English games while continuing to make their own local toys such as kites:
+
+“The children amused themselves as English boys do. There was a season for marbles, for hop-scotch, for tops, and for kites… they cut thin paper into the shapes of birds, fish, or butterflies, and stretch it over thin slips of the spine of the cocoa-nut leaf, then they ornament it with bits of red or blue paper, and fasten it together with a pinch of boiled rice”.9
+
+#### **A Mother’s Travails**
+
+Travelling on local forms of transport may seem dangerous to someone who comes from a more developed part of the world. Even so, we opted to commute as the locals do – by scooter. We experienced the harsh rays of the mid-day sun beating down on our backs, the burns from scooter exhaust pipes brushing past our calves, the desperate rush to seek shelter when the skies suddenly opened, or riding knee-deep through muddy river waters and sludge at high tide.
+
+On the flip side, it allowed us to feel the pulse of the city – inhaling the heady aroma of meat being barbecued by the roadside, and chatting with fellow riders while astride on our scooter as if we were nonchalantly walking down a road. So when we had our son Bryan, we travelled with him perched on a rattan chair affixed at the front of our scooter seat.
+
+In the 19th century, travel by sea was fraught with danger, not only from the mercurial weather and waves, but also from freak accidents. Several days into the start of Annie’s journey, the *Sunbeam* sailed into a violent storm and her son Allnutt and daughter Mabelle were almost thrown overboard:
+
+“In a second the sea came pouring over the stern, above Allnutt’s head. The boy was nearly washed overboard, but he managed to catch hold of the rail, and with great presence of mind, stuck his knees into the bulwarks”.10
+
+Meanwhile, the captain, who had instinctively coiled a rope around his own wrist, managed to grab Mabelle even as the waves threatened to sweep both of them overboard. Annie remembers that Mabelle “was perfectly self-possessed, and only said quietly, ‘Hold on, Captain Lecky, hold on!’”11 The evening did not prove restful as they were once more deluged by huge waves. With her bed drenched, Annie spent the night mopping and clearing the mess.
+
