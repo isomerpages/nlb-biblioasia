@@ -6,6 +6,12 @@ layout: post
 ---
 #### **Nor Afidah Abd Rahman** shares how the impressions the first Western travellers held of colonial Singapore were influenced by their preconceived perceptions of the exotic East.
 
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-3/19thcentury/Wallich_image.jpg">
+This scene stretches from Pearl’s Hill on the left to Tanjong Rhu on the right. In the centre is Government Hill (now Fort Canning). <i>Courtesy of National Museum of Singapore, National Heritage Boar.</i></div>
+
 From the mid-18th century onwards, Western powers enthusiastically explored the “mysterious” East through military, scientific and commercial missions. Under the flags of different imperial sponsors, the underlying aim of these expeditions was to outdo each other through the accumulation of first-hand knowledge. The broad quest for local knowledge dictated the assembly of experts; in one expedition for example “there was a naturalist, conchologist, mineralogist, botanist, horticulturalist and draughtsmen”.[^1] Their investigations were shared in travel accounts that fit into the standard narrative of scientific exploration.[^2] Steam technology empowered mass travel and the mid-19th century saw more independent travellers exploring the East.[^3] These travel writers stressed the experience of travel itself over methodical reporting of the lands visited. Unfortunately, these accounts, while still informative, have been coloured by the “meditations, reflection and reverie” of the Western traveller.[^4] 
 
 Singapore was a natural stopover for ships because of its location at the crossroad of major East-West trade routes.[^5] Steam travel elevated Singapore from port-of-call to the coal-hole of the East. Ships criss-crossing the globe would transit at the Singapore harbour to refuel before continuing to their next stop.[^6] Passengers used this respite from the sea journey to satisfy their curiosity about Singapore and recorded these encounters in their travel diaries or journals.
@@ -50,7 +56,10 @@ The native portion of the city is entirely separate from the foreign portion. Th
 
 <div style="text-align:right;">–E.W. Eberle, Lieutenant, United States Navy, taken from <i>The Washington Post, 1892</i>[^33]</div>
 
-An engraving of the port of Singapore entitled “Chinese Merchant, Malay Porter” by the official artist of the corvette <i>L’Astrolabe</i> and published in the <i>Voyage pittoresque autour du monde</i> in 1834. <i>Courtesy of National Museum of Singapore, Singapore Heritage Board.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-3/19thcentury/Chinese_merchant_Malay_porter.jpg">
+An engraving of the port of Singapore entitled “Chinese Merchant, Malay Porter” by the official artist of the corvette <i>L’Astrolabe</i> and published in the <i>Voyage pittoresque autour du monde</i> in 1834. <i>Courtesy of National Museum of Singapore, Singapore Heritage Board.</i></div>
 
 #### **The Tamed Junlge of Untapped Spoils and Curious Races Revisited**
 
