@@ -4,7 +4,8 @@ permalink: /editors-picks/people
 ---
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-4/jan-mar-2021/kunnuck" target="_blank">The Extraordinary Life of Kunnuck Mistree</a>
 <p>Indian convicts contributed much to the early infrastructural development of Singapore but their voices have rarely been heard. Vandana Aggarwal uncovers the story of one convict who made good.</p> 
-
+<div style="width: 100%; height: 210px;  overflow: hidden">
+<img src="/images/Vol-16-issue-4/Kunnuck/TheExtraordinaryLifeOfKunnuck.jpg" style="width:100%; height: 290px; float=center"></div>
 <hr> 
 
 
