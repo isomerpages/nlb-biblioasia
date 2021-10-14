@@ -4,7 +4,10 @@ date: 2014-10-01
 permalink: /vol-10/issue-3/oct-dec-2014/designed-for-use
 layout: post
 ---
-Patrons enjoying the environment and collections at the newly opened library@orchard.
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-3/library/cover.jpg">
+Patrons enjoying the environment and collections at the newly opened library@orchard.</div>
 
 Patrons who have missed the old library@ orchard at Ngee Ann City will be pleased to know that the new library@orchard opened on 23 October 2014, making it the 26th branch in the National Library Board’s (NLB) network of public libraries. Apart from a prime location in the heart of the city’s premier shopping district, library@orchard is the first public library with a collection focused on Lifestyle, Design and the Applied Arts. Located on the third and fourth levels of Orchard Gateway – a brand new shopping mall straddling both sides of Orchard Road and linked by a striking tubular glass bridge – the library not only serves the needs of those interested in design but also caters to the general public with its fiction and lifestyle collections. library@orchard complements the existing Central Public Library and library@esplanade, which focus on the Literary Arts and Performing Arts respectively. 
 
@@ -34,7 +37,10 @@ These pod-like cocoons are built to encourage learning and discovering in an int
 
 Hint: The cocoon with the best view is situated in between the People and Visual collections. It overlooks the park bound by Somerset, Exeter and Killiney roads. With vantage views of such beautiful lush greenery, you can easily spend a whole day reading in this cosy space.
 
-Bookshelves in the revamped library span floor-to-ceiling.
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-3/library/Bookshelves .jpg">
+Bookshelves in the revamped library span floor-to-ceiling.</div>
 
 #### **Walk and Wander**
 
@@ -46,7 +52,10 @@ If the upper level of the library projects the vibe of a peaceful and quiet bedr
 
 Hint: In true library fashion, library@ orchard has arranged the books to form a narrative with sections on People, Space, Product, Visual and Lifestyle. It all starts with People. One of the most basic needs besides food, air and water is shelter. People naturally want a Space to occupy and make their own. Then come Products to decorate your space and Visuals to help you to decide on the products you need. After furnishing your space, you will realise that the items you have chosen actually reflect your Lifestyle.
 
-These intimate pod-like cocoons allow undisturbed reading. There are five of such seats in the upper level.
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-3/library/intimate_pod-like_cocoons.jpg">
+These intimate pod-like cocoons allow undisturbed reading. There are five of such seats in the upper level.</div>
 
 #### **Sit and Speak**
 
@@ -80,7 +89,10 @@ Hint: If you are curious by nature, head to library@orchard on the last Friday a
 
 With so many new features available at library@ orchard, endless possibilities await. We welcome you to keep coming back for more.
 
-Visitors browsing through publications at the wall of magazines, which houses the largest collection of design and creative titles found in any public library in Singapore.
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-3/library/Visitors_browsing.jpg">
+Visitors browsing through publications at the wall of magazines, which houses the largest collection of design and creative titles found in any public library in Singapore.</div>
 
 <p style="font-size:15px;"><b>Sufyan Alimon</b> is an Associate Librarian with the National Library Board. He is part of the library@orchard team and manages the Visual and People Design Collection.</p>
 
