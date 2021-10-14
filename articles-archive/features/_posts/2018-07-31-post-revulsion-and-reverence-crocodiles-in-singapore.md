@@ -161,3 +161,24 @@ The public spaces developed for encounters with crocodiles question the notion o
 </div>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-14/issue-2/jul-sep-2018/"><center>Back to Issue</center></a>
+
+#### **NOTES**
+[^1]:Lim, M.Z. (2017, November 9). Water training will resume on Friday, with no further crocodile sightings: S’pore Sailing Federation. *The Straits Times*. Retrieved from The Straits Times website.
+[^2]:Lee, M.K. (2017, August 24). Warning signs put up at Changi Beach Park after crocodile sighting. *The Straits Times*; Tan, A. (2017, August 8). Crocodiles spotted in north-eastern Singapore. *The Straits Times*. Retrieved from The Straits Times website. [Note: One of these sightings involved the death of a 1.5-metre-long crocodile which was hit by a car at Kranji. See Wild crocodile dies from injuries after accident along Kranji Way. (2017, June 6). *The Straits Times*. Retrieved from The Straits Times website.] 
+[^3]:[A “croc” at the swimming club](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/easterndaily19060515-1.2.8). (1906, May 15). *Eastern Daily Mail and Straits Morning Advertiser*, p. 2. Retrieved from NewspaperSG.
+[^4]:Lam, L. (2018, January 22). NParks to extend barricade to pathway where crocodile was spotted at Sungei Buloh. *The Straits Times*. Retrieved from The Straits Times website.
+[^5]:[Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18561216-1.2.14). (1856, December 16). *The Straits Times*, p. 5; [Thursday, 25th August](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18700827-1.2.15). (1870, August 27). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
+[^6]:When seen from afar, monitor lizards have been mistaken as crocodiles due to their similar shape and colouration. Unlike monitor lizards, crocodiles do not have a forked tongue. See [It was just a harmless lizard…](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19570127-1.2.32) (1957, January 27). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
+[^7]:Richards, A. (1960, April 6). [Flirting with danger in croc farm](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19600406-1.2.92). *The Singapore Free Press*, p. 7. Retrieved from NewspaperSG.
+[^8]:[Page 10 Advertisements Column 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19810322-1.2.57.1). (1981, March 22). *The Straits Times*, p. 10; Chia, M. (1988, September 4). [Croc park to open soon in Jurong](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880904-1.2.14.5). *The Straits Times*, p. 12; Goh, K. (1988, December 15). [A big bite of the business](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper19881215-1.2.23.1). *The New Paper*, p. 18. Retrieved from NewspaperSG.
+[^9]:Lim, S. (1989, March 7). [Croc bites trainer during show](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19890307-1.2.27.20). *The Straits Times*, p. 18. Retrieved from NewspaperSG.
+[^10]:[Paradise lost](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20070126-1.2.9.5). (2007, January 26). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
+
+
+
+
+
+
+
+
+
