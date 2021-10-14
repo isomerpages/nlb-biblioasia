@@ -2,7 +2,7 @@
 title: Places and Buildings
 permalink: /editors-picks/places-buildings
 ---
-#### <a target="_blank" href="/vol-16/issue-2/jul-sep-2020/ghcafe" style="text-decoration: none; font-weight: bold;"> G.H. Cafe: A Dining Landmark On Battery Road</a>
+#### <a target="_blank" href="/vol-16/issue-2/jul-sep-2020/ghcafe" style="text-decoration: none; font-weight: bold;"> G.H. Cafe: A Dining Landmark on Battery Road</a>
 <p>G.H. Cafe was a fashionable eatery in the business district that was popular among Singapore’s well-heeled. Vandana Aggarwal relives the history of this landmark institution.</p> 
 <img src="/images/Vol-16-issue-2/ghcafe/GHCafe.jpg" style="width:100%;">  
 <hr clear="left"> 
