@@ -53,3 +53,34 @@ Stockard, J.E. (1989). <i>Daughters of the Canton delta: Marriage patterns and e
 Using the interviews as the basis for exploratory research, it is possible to piece together a fairly detailed profile of the festival. Firstly, it is clear that the festival involved many groups of people – formal organisers, informal organisers and their patrons, lay worshippers as well as casual visitors.
 
 The driving force behind the festival was the *amah* community of Chinatown, where several such clan organisations and sisterhoods were established. These *amahs* would have planned for the event months ahead, and their clan premises served as the primary festival sites in Chinatown.
+
+<img src="/images/Vol-14-issue-2/in-search-of-the-seven-sis/Festival3.JPG">
+<div style="background-color: white;">The driving force behind the Seven Sisters Festival in Chinatown was the <i>amah</i> or <i>majie</i> community. These women, who were sworn to celibacy, worshipped the Seven Sisters for their skills in needlework and crafts. The amahs would work on the craftworks to be displayed during the festival in their leisure time and after hours, 1962. Photograph by Wong Ken Foo. <i>Courtesy of National Archives of Singapore.</i></div>
+
+Besides these formal organisers, there were also clusters of informal organisations referred to as Seven Sisters associations (七姐会) or Milky Way associations (银河会). Such organisations were usually transient, and set up by young unmarried girls and women specifically for the purpose of the festival. The members would often comprise relatives, friends and neighbours, and tithes would be collected to cover the costs of the offerings and festivities. As many of such associations were made up of teenage girls, their patrons – usually their parents – were key figures who provided the necessary funds. The lay worshippers were generally women, both married and unmarried. These women were usually not involved in the planning and preparation for the festival, but would come together to pray and make offerings. Apart from these women, the sites would also see large crowds of visitors, who showed up just to soak in the atmosphere and enjoy the festivities.
+
+From the oral history interviews, we know that the main group of celebrants was Cantonese. While many of the interviewees emphasised that the festival was celebrated only by the Cantonese, two interviewees took pains to mention that the Hokkien and Teochew communities observed the festival too, albeit on a much smaller scale.5
+
+Ostensibly, the festival was held on the 7th day of the 7th month. All the oral history accounts, however, agree that festivities began on the eve. Foong Lai Kam, whose father was a Taoist priest and ran a business at Sago Lane, recalled that he would become exceptionally busy when the clock struck 11pm on the 6th day, as all the festival sites required a priest to conduct the necessary rites and rituals at the same auspicious time.6
+
+Chay Sheng Ern Abigail, another interviewee, said that the reason was because according to the Chinese time system, 11pm is the start of the rat hour, the first hour of the day, which marks what is effectively the start of the 7th night proper.7
+
+The recollections of the interviewees also give an idea of the scale of the festivities. Lee Oi Wah recalls the many associations organising these festivities:
+
+“In Chinatown, there were numerous such associations. Where I lived [Kreta Ayer Street], there were at least two; one at the entrance of the street above the coffee shop, and another at the other end at another clan association. At the next street, Keong Saik Street, there were a couple. At Bukit Pasoh, there were more, three or four. The whole Chinatown had more than ten, and we would go to one after another… ”.8
+
+Another interviewee, Chia Yee Kwan describes the membership composition of these associations:
+
+“This was very popular in Chinatown in the past. At Upper Chin Chew Street, and the street next to Upper Chin Chew Street, at Upper Hokkien Street, there were many stalls that could be organised by 10 or 20 over people. Those larger-scale ones like the Saa Kai Clan Association [an association for <i>amahs</i> from Shunde],… larger clan association[s] would have more than a hundred. Tens of people or perhaps more than a hundred people. Those that were of a smaller scale would have 30 or more people…”.9
+
+#### **Unravelling Beliefs and Practices**
+
+Unlike codified religions with bodies of canonical scriptures and defined tenets, Chinese folk religion rarely displays unified beliefs. Rather, rituals and practices serve as unifying activities for believers.10 This poses another challenge to the documentation of Chinese religious festivals; without canonical texts, religious beliefs and practices reported by informants often concur only to a certain degree, and occasionally contradict one another.
+
+This diversity in interpreting folk beliefs can be seen in the oral history interviews. To a large extent, lay worshippers and visitors to the festival sites, usually Chinatown residents, concur that unmarried female worshippers of the Seven Sisters were women who sought divine blessings in their search for a spouse as devoted as the mortal Cowherd, and – at the same time – expressed a desire to be as beautiful as the seven fairy sisters.
+
+Some interviewees reported that unmarried women would visit the festival sites and doll themselves up in the hope of meeting their future husbands, while other interviewees disagreed – likely because they thought such behaviour was unbecoming of decent women and inappropriate for the festival.
+
+However, granted that the main organisers were amahs who were sworn to a life of celibacy, these worshippers were clearly not in search of suitable spouses at the festival. To this end, oral history accounts with the amahs focused on descriptions of traditional practices relating to the festival rather than their personal beliefs and motivations.
+
+Judging from the actual practices – amahs and other young unmarried women members of Seven Sisters associations would spend a good part of the year creating beautiful handicrafts – it appears that the Seven Sisters were worshipped for their artistry and mastery of needle crafts. This certainly is corroborated by research on the Seven Sisters cult in Guangdong, China, where the adherents in Singapore originated from.11
