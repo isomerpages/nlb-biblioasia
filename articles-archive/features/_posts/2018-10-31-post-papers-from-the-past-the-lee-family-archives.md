@@ -97,7 +97,7 @@ Featured here is a selection of items from the Lee Kip Lee and Lee Kip Lin Famil
 
 #### **REFERENCES**
 
-Chua, A.L. (2012, March). Nation, race and language: Discussing transnational identity in colonial Singapore, circa 1930. *Modern Asian Studies*, 46(2), 282–302. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
+Chua, A.L. (2012, March). Nation, race and language: Discussing transnational identity in colonial Singapore, circa 1930. *Modern Asian Studies, 46*(2), 282–302. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
 
 Curriculum Development Institute of Singapore. Lower Secondary History Project Team. (1985). [*Social and economic history of modern Singapore. Volume 2*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4140696) (pp. 49–62). Singapore: Longman Singapore [for] Curriculum Development Institute of Singapore. (Call no.: RSING 959.57 SOC).
 
