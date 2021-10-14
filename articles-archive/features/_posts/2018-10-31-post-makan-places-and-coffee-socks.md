@@ -64,7 +64,7 @@ Foreign residents in Singapore have also learned to appreciate local coffee, and
 Tan, H.Y. (2014, September 26). [Food picks](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20140926-1.2.73.5.9). <i>The Straits Times</i>, p. 6. Retrieved from NewspaperSG.
 </span>
 <div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> 
-	<b>WHAT IS LEGAL DEPOSIT?</b><br>
+	<b>WHAT IS LEGAL DEPOSIT?</b><br><br>
 Legal Deposit is one of the statutory functions of the National Library and is supported through the provisions of the National Library Board Act. Under the act, all publishers, commercial or otherwise, are required by law to deposit two copies of every physical work and one copy of every electronic work published in Singapore, for sale or public distribution, with the National Library within four weeks of its publication. The Legal Deposit function ensures that a repository of Singapore’s published heritage is preserved for future generations. For more information, please visit www.nlb.gov.sg/Deposit.</div>
 
 <br>
