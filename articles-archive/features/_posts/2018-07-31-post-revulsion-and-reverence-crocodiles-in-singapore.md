@@ -11,7 +11,7 @@ layout: post
 
 On 6 November 2017, the National Sailing Centre suspended all water-based activities in the sea off East Coast Park for four days after an estuarine crocodile (*Crocodylus porosus*) – also known as the saltwater crocodile – was spotted in the waters there.[^1] This was one of five reported crocodile sightings in 2017, drawing both media and public attention to this elusive reptile that inhabits the rivers, reservoirs and seas around Singapore.[^2]
 
-<img src="/images/Vol-14-issue-2/revulsion-and-reverence/Croc2.JPG">
+<img style="width: 350px; height: 450px;" src="/images/Vol-14-issue-2/revulsion-and-reverence/Croc2.JPG">
 <div style="background-color: white;">A Malay boy sitting on a captured crocodile sometime in the 1920s. <i>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</i></div>
 
 Crocodiles have always been native to Singapore, but their numbers have dropped drastically due to unbridled hunting as well as destruction of their natural habitats throughout Singapore’s modern history. In their search for new habitats, these reptiles have often strayed into urban areas.
@@ -28,14 +28,14 @@ Mistaken identity aside,[^6] media reports of crocodile sightings raise alarm an
 
 Such sensational media reporting is based on the premise that people are more comfortable appreciating crocodiles from a safe distance – confined in public spaces such as zoos and farms.[^7] Those who grew up in the 1980s and 90s would remember two such attractions that promised the thrill of being “up close and personal” with crocodiles.
 
-<img src="/images/Vol-14-issue-2/revulsion-and-reverence/Croc3.JPG">
+<img style="width: 350px; height: 350px;" src="/images/Vol-14-issue-2/revulsion-and-reverence/Croc3.JPG">
 <div style="background-color: white;">The Singapore Crocodilarium at East Coast Park opened in 1981. The crocodile farm had an open-air pool and a sand pit for the crocodiles to rest. <i>Image reproduced from The Straits Times, 20 January 1980, p. 9.</i></div>
 
 The Singapore Crocodilarium at East Coast Parkway and Jurong Reptile and Crocodile Paradise, which opened in 1981 and 1988 respectively, bred crocodiles and staged performances that attracted large crowds. Stuntmen would risk life and limb as they wrestled with the reptiles as a form of entertainment.[^8]
 
 In 1989, Winoto, the chief trainer at the Jurong Reptile and Crocodile Paradise, had part of his left cheek torn off by a female crocodile named after the American wrestler Hulk Hogan. Winoto survived the attack but ended up with 10 stitches on his face.[^9] The two parks closed in the early 2000s due to dwindling visitor numbers, and as other, more contemporary, attractions in Singapore took their place.[^10]
 
-<img src="/images/Vol-14-issue-2/revulsion-and-reverence/Croc4.JPG">
+<img style="width: 350px; height: 450px;" src="/images/Vol-14-issue-2/revulsion-and-reverence/Croc4.JPG">
 <div style="background-color: white;">A poster from the Crocodile Paradise at Jurong advertising its performances with crocodiles.</div>
 
 Nevertheless, the island continues to host crocodiles in the wild, approximately 20 are known to be residents of the mangrove habitats of Sungei Buloh Wetland Reserve. Today, with over 90 percent of Singapore’s mangrove ecosystem destroyed, the reserve encompasses the largest mangrove forest – at 1.17 sq km[^11] – left on the island.
@@ -110,7 +110,7 @@ In 1977, a group of plucky Venture Sea Scouts set out to capture a white crocodi
 
 These scouts were following up on an unrecorded sighting of a white crocodile by another group of Venture Sea Scouts five years earlier.[^24] Recalling the incident, Cheong Ah Sang said that his group of 12 scouts had “caught a glimpse of the white crocodile in 1972”. Determined to trap it, he decided to lead a team of 32 scouts on a quest to search for the reportedly 13-foot-long reptile.
 
-<img src="/images/Vol-14-issue-2/revulsion-and-reverence/Croc5.JPG">
+<img style="width: 350px; height: 350px;" src="/images/Vol-14-issue-2/revulsion-and-reverence/Croc5.JPG">
 <div style="background-color: white;">Venture Sea Scouts getting ready for one of their expeditions in search of the white crocodile at Pulau Sarimbun in April 1977. The expedition was led by Cheong Ah Sang. <i>Image reproduced from The Straits Times, 30 April 1977, p. 2.</i></div>
 
 On 30 April 1977, *The New Nation* reported that Cheong’s group embarked on a three-day expedition using 11 canoes and were escorted by a nine-metre whaler. He told the reporter:
@@ -126,7 +126,7 @@ According to the *Hikayat Hang Tuah*, “only the pure of heart can see the whit
 	<br><br>
 Interestingly, crocodiles were also kept as pets or bred in the backyard of houses in Singapore. In 1948, it was possible to buy a live baby crocodile for as little as 25 to 40 Malayan dollars, and if the customer so desired, have the reptile killed and skinned, and made into a pair of custom-made shoes.[^27]
 <br><br>
-<img src="/images/Vol-14-issue-2/revulsion-and-reverence/Croc5.JPG">A baby crocodile was exported from Singapore to the London Zoo in 1936. Here, the crocodile is being fed his first morsel of meat from a pair of forceps at the zoo. <i>Image reproduced from The Malaya Tribune, 29 December 1936, p. 11.</i>
+<img src="/images/Vol-14-issue-2/revulsion-and-reverence/Croc6.JPG">A baby crocodile was exported from Singapore to the London Zoo in 1936. Here, the crocodile is being fed his first morsel of meat from a pair of forceps at the zoo. <i>Image reproduced from The Malaya Tribune, 29 December 1936, p. 11.</i>
 	<br><br>
 Keeping crocodiles as pets could sometimes lead to peculiar and troublesome consequences.
 <br><br>
