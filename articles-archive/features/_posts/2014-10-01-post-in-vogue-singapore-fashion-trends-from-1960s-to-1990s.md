@@ -85,3 +85,25 @@ Casual Fridays saw workers trade in their business attire for more casual wear. 
 <p style="font-size:15px;"><b>Sundari Balasubramaniam</b> is a Librarian with the National Library of Singapore. Her responsibilities include managing and developing content as well as providing reference and research services. She also manages the library’s Tamil collection.</p>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-10/issue-3/oct-dec-2014/"><center>Back to Issue</center></a>
+
+#### **REFERENCES**
+
+*[Cherie](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081303)*. (1983–). Singapore. Metropolitan Pub. (Call no.: R 746.9205 C)
+
+*[Female](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4192648)*. (1974–). Singapore: MPH Magazines. (Call no.: RSING 052 F)
+
+*[Her world](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4184741)*. (1960–). Singapore: Straits Times Press. (Call no.: RSING 052 HW)
+
+*[Her World Annual](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5049407)*. (1975–1994). Singapore: Times Publishing. (Call no.: R 052 HWA)
+
+Mǣnmāt Chawalit & Maneepin Phromsuthirak. (Eds.). *[Costumes in ASEAN](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11428106)*. Bangkok: The National ASEAN Committee on Culture and Information of Thailand. (Call no.: RSING 391.009595 COS)
+
+Rhodes, Z., et al. (2006). *[Vintage fashion: Collecting and wearing designer classics](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12843095)*. London: Carlton Books. (Call no.: R 391.2 VIN)
+
+Skinner, T. (1998). <i>Fashionable clothing from the Sears catalogs: Late ‘70s</i>. Atglen, PA: Schiffer Pub. Ltd. (Not available in NLB’s holdings)
+
+Skinner, T. (1999). <i>Fashionable clothing from the Sears catalogs: Early 1980s</i>. Atglen, PA: Schiffer Pub. Ltd. (Not available in NLB’s holdings)
+
+Smith, D. (1998). <i>Fashionable clothing from the Sears catalogs: Late 1960s</i>. Atglen, PA: Schiffer Pub. Ltd. (Not available in NLB’s holdings)
+
+Waterhouse, J. (2012). *[Wearable vintage fashion](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200145967)*. [London]: Vivay Publishing. (Call no.: RART 746.92 WAT)
