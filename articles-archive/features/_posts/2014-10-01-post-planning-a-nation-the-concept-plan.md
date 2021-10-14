@@ -89,3 +89,48 @@ Spanning 360 hectares, Marina Bay downtown is the extension of Singapore’s cen
 <p style="font-size:15px;"><b>Lim Tin Seng</b> is a Librarian with the National Library of Singapore. He is the co-editor of Roots: Tracing Family Histories – A Resource Guide (2013); Harmony and Development: ASEAN-China Relations (2009) and China’s New Social Policy: Initiatives for a Harmonious Society (2010).</p>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-10/issue-3/oct-dec-2014/"><center>Back to Issue</center></a>
+
+#### **REFERENCES**
+
+Buckley, C.B. (1984). *[An anecdotal history of old times in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082239)*. Singapore: Oxford University Press. (Call no.: RSING 959.57 BUC-[HIS])
+
+Colony of Singapore. (1958). *[Master plan: Written statement](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081572)*. Singapore: Tien Wah Press. (Call no.: RCLOS 711.4095957 SIN)
+Dale, O.J. (1999). Urban planning in Singapore: Transformation of a city. Shah Alam, Malaysia: Oxford University Press. (Call no.: R 307.1216 DAL)
+
+Ee. E. (2013). *[At the forefront: Leading the new downtown](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200143349)*. Singapore: Editions Didier Millet. (Call no.: RSING 307.34216095957 EE)
+
+Gwee, J. (Ed.). (2012). *[Case studies in public governance: Building institutions in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14338883)*. Abingdon: Oxon; New York: Routledge. (Call no.: RSING 307.76095957 CAS)
+
+Kong, L. (2011). *[Conserving the past, creating the future: Urban heritage in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13816245)*. Singapore: Urban Redevelopment Authority. (Call no.: RSING 363.69095957 KON)
+
+Lall, S.V. et.al. (Eds.). (2009). <i>Urban land markets: Improving land management for successful urbanisation</i>. Dordrecht: London: Springer. (Not available in NLB’s holdings)
+
+Liu, T.K., et. al. (Eds.). (2014). *[Liveable sustainable cities: A framework](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200580042)*. Singapore: Civil Service College: Centre of Liveable Cities. (Call no.: RSING 307.1216095957 LIV)
+
+Ministry of National Development. (2013). *[A high quality living environment for all Singaporeans: Land use plan to support Singapore’s future population](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200125349)*. Singapore: Ministry of National Development. (Call no.: RSING 333.77095957 HIG)
+
+Ong, K. Y., & Lee, T.Y. (2010). *[Final report of focus group on sustainability and identity: Concept plan review 2011](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200142054)*. Singapore: Urban Redevelopment Authority. (Call no.: RSING 307.76095957 SIN)
+
+Pearson, H.F. (1969, July). Lt. Jackson’s plan of Singapore. <i>Journal of the Malaysian Branch of the Royal Asiatic Society</i>, 42 (1) (215), pp. 161–165. Retrieved from JSTOR via NLB’s eResources website.
+
+Saw, S-H. (2012). *[The population of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14383911)*. Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 304.6095957 SAW)
+
+Serene, T., & Serene, T. (Eds.). (2012). *[Designing our city: Planning for a sustainable Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14621847)*. Singapore: Urban Redevelopment Authority. (Call no.: RSING 307.1216095957 DES)
+
+Singapore. Planning Department. (1970). *[Annual report 1968 & 1969](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4826216)*. Singapore: Planning Department. (Call no.: RCLOS 711.4095957 SPDAR; Microfilm no.: NL 11783)
+
+Singapore. Planning Department. (1975). <i>Revised master plan: Report of survey</i>. Singapore: Planning Department. (Not available in NLB’s holdings)
+
+Tan, C.C., & Cheng, E. (2010). *[Final report of focus group on quality of life: Concept plan review 2011](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200142053)*. Singapore: Urban Redevelopment Authority. (Call no.: RSING 307.76095957 SIN)
+
+Urban Redevelopment Authority. (1991). *[Living the next lap: Towards a tropical city of excellence](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6135902)*. Singapore: Urban Redevelopment Authority. (Call no.: RSING 307.36095957 LIV)
+
+Urban Redevelopment Authority. (2001). *[The concept plan 2001](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10404936)*. Singapore: Urban Redevelopment Authority. (Call no.: RSING 337.36095957 CON)
+
+Waller, E. (2001). *[Landscape planning in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10211980)*. Singapore: Singapore University Press. (Call no.: RSING q307.1216095957 SPA)
+
+Wong, T.C. et al. (Eds.). *[Spatial planning for a sustainable Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13005128)*. Dordrecht: London: Springer. (Call no.: RSING 307.12160959957 SPA)
+
+Yeoh, B.S.A. (2003). *[Contesting space in colonial Singapore: Power relations and the urban built environment](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11827061)*. Singapore: NUS Press. (Call no.: RSING 307.76095957 YEO)
+
+Yuen, B. (Ed.). (1998). *[Planning Singapore: From plan to implementation](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9149224)*. Singapore: Singapore Institute of Planners. (Call no.: RSING 711.4095957 PLA)
