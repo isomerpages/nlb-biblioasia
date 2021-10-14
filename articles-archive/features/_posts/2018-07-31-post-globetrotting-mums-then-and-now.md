@@ -85,3 +85,34 @@ In the 19th century, travel by sea was fraught with danger, not only from the me
 
 Meanwhile, the captain, who had instinctively coiled a rope around his own wrist, managed to grab Mabelle even as the waves threatened to sweep both of them overboard. Annie remembers that Mabelle “was perfectly self-possessed, and only said quietly, ‘Hold on, Captain Lecky, hold on!’”11 The evening did not prove restful as they were once more deluged by huge waves. With her bed drenched, Annie spent the night mopping and clearing the mess.
 
+<img src="/images/Vol-14-issue-2/globetrotting-mums/Globetrotting6.JPG">
+<div style="background-color: white;">(Left) Annie Brassey devised games to keep her children entertained on board. One such pastime was a soldier’s drill where the children marched up and down the deck to the music of their drums. <i>Image reproduced from Brassey, A. (1878). A Voyage in the ‘Sunbeam’: Our Home on the Ocean for Eleven Months (p. 256). London: Longmans, Green. (Accession no.: BO2897233A; Microfilm no.: NL25750).</i><br>
+(Right) A few days into the start of Annie Brassey’s journey, the Sunbeam sailed into a violent storm, and her son Allnutt and daughter Mabelle were almost thrown overboard. Fortunately, Allnutt managed to catch hold of the rail, while the captain grabbed Mabelle. <i>Image reproduced from Brassey, A. (1878). A Voyage in the ‘Sunbeam’: Our Home on the Ocean for Eleven Months (p. 5). London: Longmans, Green. (Accession no.: B02897233A; Microfilm no.: NL25750).</i></div>
+
+In February 1877, the Brasseys experienced another close call when a fire engulfed the Sunbeam. Flying embers from a little fire stoked in the nursery to keep the room warm sparked off a mini inferno. Annie was awakened in the middle of the night by cries of “Fire! Fire!” Her first thought was the children, but thankfully they had not been forgotten; the nurse had “seized a child under each arm, wrapped them in blankets, and carried them off to the deck-house… The children… never cried nor made the least fuss, but composed themselves”.12
+
+In the meantime, the quick-thinking crew put out the fire before it became uncontrollable with a new-fangled technology of the time – a fire extinguisher. A woman made of less sterner stuff would have buckled and returned home, but Annie was undaunted by these setbacks.
+
+*We witnessed the riots of May 2014 that swept through Ho Chi Minh City. The Vietnamese, who had been protesting against Chinese aggression in the Eastern Sea, began attacking businesses in the city that bore Chinese signages. Taiwanese, Singaporean and Malaysian institutions were all at risk. Later, we heard how fellow Singaporeans had escaped from burning factories or saw protestors stake out apartment blocks where they lived. Even so, we chose to stay put as we saw the potential benefits of living in Vietnam.*
+
+Well aware of the perils of living in the jungles of Borneo with a young family, Frank McDougall had initially opted for a position at the British Museum. Harriette, however, persuaded the director of the museum to release her husband from his obligation in favour of Sarawak. Frank understood Harriette’s reasons for choosing a location in remote Borneo:
+
+“… she dared not withdraw him from the service to which she thought that God had called him, even though it was to fill a post of danger, which, to many minds might have appeared like that of leading a forlorn hope”.13
+
+Unfortunately, in February 1857, their worst fears were realised when Chinese gold miners set fire to their settlement. In the subsequent bloody massacre, several of their English neighbours saw their children beheaded and spouses speared to death. Harriette and her family escaped the insurrection only because the Chinese needed her husband’s medical expertise. Frank attended to the wounded and told Harriette to escape downriver with the children on a small life-boat to a schooner awaiting them at the river’s mouth.
+
+Later, after being reunited with her husband, they travelled to Linga. Despite the harrowing conditions on board, Harriette felt neither hunger nor anguish because her family was safe:
+
+“The night was very dark and wet, and the deck leaked upon us, so that we and our bags and bundles were soon wet through. But we neither heeded the rain nor felt the cold. We had eaten nothing since early morning, but were not hungry; and although for several nights we could scarcely be said to have slept, we were not sleepy. A deep thankfulness took possession of my soul; all our dear ones were spared to us. My children were in my arms, my husband paced the deck over my head. I seemed to have no cares, and to be able to trust to God for the future, who had been so merciful to us hitherto”.14
+
+#### **A Mother’s Anguish**
+
+Contrary to expectations, the expatriate mother does not always lead a glamorous life, especially when she has children. Her days are less likely spent in spas and nail bars than dodging traffic while ferrying children to school or attempting to juggle work with personal time. What is little known are the challenges of a dislocated life, which could range from homesickness and loneliness to the more mundane sense of boredom as one is plucked from a sense of routine.
+
+Harriette recognised these symptoms in both herself and among her countrymen:
+
+“It is, however, a common mistake to imagine that the life of a missionary is an exciting one. On the contrary, its trial lies in its monotony. The uneventful day, mapped out into hours of teaching and study, sleep, exercise and religious duties; the constant society of natives… who do not sympathize with your English ideas; the sameness of the climate, which even precludes discourse about the weather – all this, added to the distance from relations and friends at home, combined with the enervating effects of a hot climate, causes heaviness of spirits and despondency to single men and women”.15
+
+A greater discomfort is the pain of physical separation from loved ones. This could mean leaving aged parents behind, a spouse or even children. The separation may be for weeks or months, but often it is years. The convenience of air-travel and instant communication by email, texting and video chat bridge the separation but can never take the place of extended time with a loved one.
+
+For the Victorian woman with a spouse called to travel, the woman’s first place was with the husband, even at the cost of leaving a child behind. When the McDougalls first departed England for Sarawak on 30 December 1847, Harriette left behind her eldest son Charles, just two years old then, while taking her infant child Harry with them.
