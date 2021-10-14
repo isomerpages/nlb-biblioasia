@@ -4,11 +4,12 @@ date: 2014-10-01
 permalink: /vol-10/issue-3/oct-dec-2014/explore-own-backyard
 layout: post
 ---
-
-
 #### Travel writer **Desiree Koh** shares her wanderlust and love for Southeast Asia and remembers the places that have impacted her life and the way she sees the world.
-
-Temple-trotting in Bali in 1982.
+Desiree_Koh
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-3/backyard/temple_trotting.jpg">
+Temple-trotting in Bali in 1982. <i>All photos courtesy of Desiree Koh.</i></div>
 
 My earliest travel memory is of my dad dunking me into a toddler-sized wooden barrel of warm water after a long day of building misshapen forts and castles on Tanjung Pinang beach on Bintan. I was four years old at the time, and had scraped my knees spilling and tumbling on the sand. Although the soap stung, nothing but sweet memories remain.
 
@@ -20,9 +21,16 @@ The rush of takeoff, the thrill of being enveloped by blobs of clouds and the tr
 
 I remember the desperation of a fruit peddler trying to sell us bananas through our coach window as we pulled away from a Balinese temple, my mum explaining that there were those far worse off than us. The floating Chao Phraya market was such a charming concept, until Bangkok became a clichéd weekend budget airline getaway. Siem Reap is unrecognisable to me now as there wasn’t a single resort or proper restaurant when we went; I remember a police officer hounding my dad to buy some of his rusty medals – cash before valour. Sleepy Phuket was just beginning to build its first wooden chalets on its beaches – the only other foreigners besides us were the Germans and Scandinavians, who of course were everywhere in Southeast Asia before anyone else – and so we went because it was affordable. There were no go-go bars in Patpong, no full moon parties, no hucksters and hustlers lurking around corners. It was the perfect setting for our small family; we went puttering in little boats (with no life jackets) to secluded islands, lazed on the beaches without sunscreen (the horrors of skin pigmentation unbeknownst to us), and ate food from streetside hawkers, salmonella be damned. 
 
-Sunburned and homebound from Phuket on Thai Airways in 1984.
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-3/backyard/phuket.jpg">
+Sunburned and homebound from Phuket on Thai Airways in 1984. <i>All photos courtesy of Desiree Koh.</i></div>
 
-The writer with Captain Kangaroo at Australia’s Gold Coast in 1988. <i>All photos courtesy of Desiree Koh.</i>
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-3/backyard/kangaroo.jpg">
+The writer with Captain Kangaroo at Australia’s Gold Coast in 1988. <i>All photos courtesy of Desiree Koh.</i></div>
 
 What was normal for the Koh family made me stand out at school, beyond the shenanigans I was notorious for (perhaps my roaming the classroom to play with friends in between lessons may have been an early sign of my repressed wanderlust?). When I moved from my neighbourhood primary school to a well-known one, I found myself in the company of peers who went skiing in Lake Tahoe in the US or on multi-city European tours. Although it sometimes crossed my mind that Disneyland could be fun, I didn’t feel completely deprived either – no matter how new or weird my experiences in Southeast Asia, the warmth, the smiles and humility of the people and the spicy flavours always reminded me of home. The school compositions I wrote were inspired by people, food and scenes like nothing I knew of in too quickly developing Singapore, and I learnt to empathise – by the time I first encountered a rancid outhouse in Zhengzhou, China, I didn’t turn back and run but bravely sallied forth.
 
@@ -38,6 +46,11 @@ My family still travels together at least once a year, and whenever we find ours
 
 I’ve always described Singapore as Asia Lite to friends from overseas, a place with all the comforts of a modern city while serving as a convenient launch point for explorations into the region. What my parents allowed me to see and experience from a young age has shaped my 12 years of living in the US, and my work as a travel writer with collaborators from around the world. More importantly, my work continues to inspire new explorations. When I meet people who marvel at the colonial grace of Malacca, are awestruck by majestic Borobodur or have been lulled by the charms of Luang Prabang, my first response is always, “I told you so.”
 
+
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-3/backyard/Desiree_Koh.jpg"></div>
 <p style="font-size:15px;">Born and raised in Singapore, <b>Desiree Koh</b> is a writer and editor who spent 12 years in Chicago, studying at the Medill School of Journalism and later experiencing the other side of the world. Now back home, she enjoys discovering a city that is constantly changing and travels further afield for work and adventure. She writes on popular culture, food and sports for in-flight magazines such as SilverKris, Sawasdee and enVoyage, as well as local and international publications. Her most recent work was for the Louis Vuitton City Guide: Singapore, slated for publication in November 2014.</p>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-10/issue-3/oct-dec-2014/"><center>Back to Issue</center></a>
