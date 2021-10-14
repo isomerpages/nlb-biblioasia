@@ -100,6 +100,6 @@ In the ensuing struggle with the crocodile, the raja’s crown slipped from the 
 <br><br>
 William Farquhar’s dog was not the only casualty that fell prey to crocodiles. In August 1907, people who had mysteriously lost their pet dogs in the “past few years” were told to contact the taxidermist at Middle Road to ascertain whether four dog collars retrieved from the stomach of a crocodile shot in the Punggol River belonged to them. The carcass was being prepared to be sent to England when the discovery was made.
 <br><br>
-<b>REFERENCE</b>
+<b>REFERENCE</b><br>
 [Discovery in a crocodile’s stomach](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19070813-1.2.79). (1907, August 13). <i>The Straits Times</i>, p. 7. Retrieved from NewspaperSG.
 </span>
