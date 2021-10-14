@@ -25,7 +25,7 @@ While Harriette set up home with her family – living among the local people �
 <img src="/images/Vol-14-issue-2/globetrotting-mums/Globetrotting3.JPG">
 <div style="background-color: white;">Harriette McDougall in November 1882 when she was 65. Photograph by Hughes and Mullin, Isle of Wight. <i>Image reproduced from Bunyon, C.J. (1889). Memoirs of Francis Thomas McDougall, D.C.L.F.R.C.S., Sometime Bishop of Labuan and Sarawak, and of Harriette, his Wife (p. 20). London: Longmans, Greens, and Co. (Microfilm no.: NL25423).</i></div>
 
-Harriette was married to Francis Thomas McDougall, who would later become the first Bishop of Sarawak. They initially served as missionaries among head-hunters, pirates and rioting Chinese between 1847 and 1867. Her life of hardship in the tropics is captured through three books: *Letters from Sarawak: Addressed to a Child*1 (1854), which contains letters to her eldest son; her autobiography, *Sketches of Our Life at Sarawak*2 (1882); and her husband’s biography, *Memoirs of Francis Thomas McDougall… Sometime Bishop of Labuan and Sarawak, and of Harriette, his Wife*3 (1889).
+Harriette was married to Francis Thomas McDougall, who would later become the first Bishop of Sarawak. They initially served as missionaries among head-hunters, pirates and rioting Chinese between 1847 and 1867. Her life of hardship in the tropics is captured through three books: *Letters from Sarawak: Addressed to a Child*[^1] (1854), which contains letters to her eldest son; her autobiography, *Sketches of Our Life at Sarawak*[^2] (1882); and her husband’s biography, *Memoirs of Francis Thomas McDougall… Sometime Bishop of Labuan and Sarawak, and of Harriette, his Wife*[^3] (1889).
 
 At aged 29, Harriette left the comforts of England for Sarawak in 1847 with her husband and baby son Harry, leaving behind Charles, her firstborn. She would later lay Harry to rest in Singapore when he was only three, and also lost several other children in infancy. Those who survived were raised together with orphans of various origins – Chinese, Dyaks (or Dayaks) as well as the offspring of mixed parentage – whom she and her husband had adopted.
 
@@ -33,9 +33,9 @@ Harriette lived in Sarawak for almost 20 years, returning to England several tim
 
 Annie Brassey was born into a privileged family. She married Thomas Brassey, the son of a railway industrialist at age 21 in 1860, and when her husband turned to politics, Annie dutifully supported him in his work. He was later knighted and, in 1886, elevated to the peerage as Baron Brassey. The couple maintained a firm friendship with then British Prime Minister William Gladstone. Such connections likely helped smoothen their journeys to places like the Middle East, North America and parts of Europe and subsequently their tour of the world.
 
-Annie’s well-known account – *A Voyage in the ‘Sunbeam’: Our Home on the Ocean for Eleven Months*4 – was published in 1878, barely two years after she departed in July 1876 on a world tour with her husband, four children, pet pugs and a crew of 30 men. Illustrated with drawings based on her photographs and descriptions, the book became so enormously popular that it was republished in various languages and in 19 editions altogether.
+Annie’s well-known account – *A Voyage in the ‘Sunbeam’: Our Home on the Ocean for Eleven Months*[^4] – was published in 1878, barely two years after she departed in July 1876 on a world tour with her husband, four children, pet pugs and a crew of 30 men. Illustrated with drawings based on her photographs and descriptions, the book became so enormously popular that it was republished in various languages and in 19 editions altogether.
 
-Unlike the women of her generation, Annie’s 1876 circumnavigation of the world was not borne out of an obligation to accompany her husband for his work but was something she herself had longed to do. The book was an outcome of “her painstaking desire not only to see everything thoroughly but to record her impressions faithfully and accurately”,5 as her husband writes in the preface. This became one of many such family travels she would embark on and write about thereafter, ending only with her death from malaria in 1887 while on her final journey.
+Unlike the women of her generation, Annie’s 1876 circumnavigation of the world was not borne out of an obligation to accompany her husband for his work but was something she herself had longed to do. The book was an outcome of “her painstaking desire not only to see everything thoroughly but to record her impressions faithfully and accurately”,[^5] as her husband writes in the preface. This became one of many such family travels she would embark on and write about thereafter, ending only with her death from malaria in 1887 while on her final journey.
 
 <img src="/images/Vol-14-issue-2/globetrotting-mums/Globetrotting4.JPG">
 <div style="background-color: white;">(Left) Portrait of Annie Brassey reproduced from Wikimedia Commons. <i>Original image from Brassey, T. (1917). The “Sunbeam”, R.Y.S.: Voyages and Experiences in Many Waters: Naval Reserves and other Matters. London: John Murray.</i><br>
@@ -45,19 +45,19 @@ Unlike the women of her generation, Annie’s 1876 circumnavigation of the world
 
 *The chance to be exposed to new sights, flavours and experiences is what attracts most people to venture abroad and settle in a new country. Life away from the comforts of home, however, calls for a certain amount of resilience and adaptability as well as a sense of fun, without which the inevitable culture shock can often bring the adventure to an abrupt end.*
 
-Harriette describes how a family unprepared for such changes could not last the long haul. She gives an account of a certain doctor, Mr C, who had moved to Sarawak with his family. He had ignored her advice to leave the older children in England but persisted in coming as a “party of nine, having lost one child in Singapore”. They did not last beyond a month because Mrs C was “so disgusted with the place”, complaining there were “no shops, no amusements, always hot weather, and food so dear!”6
+Harriette describes how a family unprepared for such changes could not last the long haul. She gives an account of a certain doctor, Mr C, who had moved to Sarawak with his family. He had ignored her advice to leave the older children in England but persisted in coming as a “party of nine, having lost one child in Singapore”. They did not last beyond a month because Mrs C was “so disgusted with the place”, complaining there were “no shops, no amusements, always hot weather, and food so dear!”[^6]
 
 *During our first week in Ho Chi Minh City, Vietnamese friends were eager to introduce us to their unique cuisine. Game to try new things, we were brought to a nondescript local eatery. It looked familiar, like a noisy coffeeshop from home. So we felt safe – until a large live lizard was dangled before us and we were told that it would be our lunch! Out of courtesy, the locals often try to cater to the taste buds of visitors, but often, the most prized food item on the table could be culturally discomfiting for a foreigner.*
 
 Harriette describes such an occasion when they were treated to a Dyak feast:
 
-“As we English folks could not eat fowls roasted in their feathers, nor cakes fried in cocoa-nut oil, they brought us fine joints of bamboo filled with pulut rice, which turns to a jelly in cooking and is fragrant with the scent of the young cane. I was going to eat this delicacy when my eyes fell upon three human heads standing on a large dish, freshly killed and slightly smoked, with food and sirih leaves in their mouths… But I dared say nothing. These Dyaks had killed our enemies, and were only following their own customs by rejoicing over their dead victims”.7
+“As we English folks could not eat fowls roasted in their feathers, nor cakes fried in cocoa-nut oil, they brought us fine joints of bamboo filled with pulut rice, which turns to a jelly in cooking and is fragrant with the scent of the young cane. I was going to eat this delicacy when my eyes fell upon three human heads standing on a large dish, freshly killed and slightly smoked, with food and sirih leaves in their mouths… But I dared say nothing. These Dyaks had killed our enemies, and were only following their own customs by rejoicing over their dead victims”.[^7]
 
 Food supply onboard the *Sunbeam* had its fair share of problems. Annie describes how their livestock, namely six sheep, 60 chickens, 30 ducks and four dozen pigeons, were depleted by the carelessness of the sailors. Fortunately, some spare tins of food stored under the floor of the nursery helped sustain them until the next port of call.
 
 The incident led Annie to reflect on the difficulties of travel in the days when tinned food and steam power did not exist:
 
-“We often wonder how the earlier navigators got on, when there were no such things as tinned provisions, and when the facilities for carrying water were of the poorest description, while they were often months and months at sea, without an opportunity of replenishing their stores, and with no steam-power to fall back upon in case they were becalmed”.8
+“We often wonder how the earlier navigators got on, when there were no such things as tinned provisions, and when the facilities for carrying water were of the poorest description, while they were often months and months at sea, without an opportunity of replenishing their stores, and with no steam-power to fall back upon in case they were becalmed”.[^8]
 
 *In much the same way, I’ve wondered how travelling mothers in the Victorian era kept their sanity intact and their children occupied during long stretches of boredom and monotony. Without digital toys, streaming TV and movies, and social media to keep in contact with friends and family across the oceans, how did these mothers cope?*
 
@@ -71,7 +71,7 @@ Besides the usual chores on deck, Annie devised games for the children to play o
 
 Harriet’s orphan boys adopted English games while continuing to make their own local toys such as kites:
 
-“The children amused themselves as English boys do. There was a season for marbles, for hop-scotch, for tops, and for kites… they cut thin paper into the shapes of birds, fish, or butterflies, and stretch it over thin slips of the spine of the cocoa-nut leaf, then they ornament it with bits of red or blue paper, and fasten it together with a pinch of boiled rice”.9
+“The children amused themselves as English boys do. There was a season for marbles, for hop-scotch, for tops, and for kites… they cut thin paper into the shapes of birds, fish, or butterflies, and stretch it over thin slips of the spine of the cocoa-nut leaf, then they ornament it with bits of red or blue paper, and fasten it together with a pinch of boiled rice”.[^9]
 
 #### **A Mother’s Travails**
 
@@ -81,9 +81,9 @@ On the flip side, it allowed us to feel the pulse of the city – inhaling the h
 
 In the 19th century, travel by sea was fraught with danger, not only from the mercurial weather and waves, but also from freak accidents. Several days into the start of Annie’s journey, the *Sunbeam* sailed into a violent storm and her son Allnutt and daughter Mabelle were almost thrown overboard:
 
-“In a second the sea came pouring over the stern, above Allnutt’s head. The boy was nearly washed overboard, but he managed to catch hold of the rail, and with great presence of mind, stuck his knees into the bulwarks”.10
+“In a second the sea came pouring over the stern, above Allnutt’s head. The boy was nearly washed overboard, but he managed to catch hold of the rail, and with great presence of mind, stuck his knees into the bulwarks”.[^10]
 
-Meanwhile, the captain, who had instinctively coiled a rope around his own wrist, managed to grab Mabelle even as the waves threatened to sweep both of them overboard. Annie remembers that Mabelle “was perfectly self-possessed, and only said quietly, ‘Hold on, Captain Lecky, hold on!’”11 The evening did not prove restful as they were once more deluged by huge waves. With her bed drenched, Annie spent the night mopping and clearing the mess.
+Meanwhile, the captain, who had instinctively coiled a rope around his own wrist, managed to grab Mabelle even as the waves threatened to sweep both of them overboard. Annie remembers that Mabelle “was perfectly self-possessed, and only said quietly, ‘Hold on, Captain Lecky, hold on!’”[^11] The evening did not prove restful as they were once more deluged by huge waves. With her bed drenched, Annie spent the night mopping and clearing the mess.
 
 <img src="/images/Vol-14-issue-2/globetrotting-mums/Globetrotting6.JPG">
 <div style="background-color: white;">(Left) Annie Brassey devised games to keep her children entertained on board. One such pastime was a soldier’s drill where the children marched up and down the deck to the music of their drums. <i>Image reproduced from Brassey, A. (1878). A Voyage in the ‘Sunbeam’: Our Home on the Ocean for Eleven Months (p. 256). London: Longmans, Green. (Accession no.: BO2897233A; Microfilm no.: NL25750).</i><br>
@@ -152,3 +152,5 @@ Although Annie continued her journey with her family to other far-flung outposts
 </div>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-14/issue-2/jul-sep-2018/"><center>Back to Issue</center></a>
+
+#### **NOTES**
