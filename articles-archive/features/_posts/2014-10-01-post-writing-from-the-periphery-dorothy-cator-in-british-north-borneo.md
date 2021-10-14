@@ -6,7 +6,10 @@ layout: post
 ---
 #### **Janice Loo** explains how the travel writings by women such as Dorothy Cator reveal the complex relationships between colonisers and the colonised.
 
-Sandakan, formerly known as Elopura (1889). <i>Courtesy of the Sabah Museum.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-3/dorothycator/cover.jpg">
+Sandakan, formerly known as Elopura (1889). <i>Courtesy of the Sabah Museum.</i></div>
 
 The journey was slow as the vessel steered carefully through treacherous waters riddled with corals and submerged islands. Gradually, the bay, “one of the finest harbours in the world”,[^1] came into view; its entrance guarded by “fine red sandstone cliffs backed with forest-clad hills rising to a height of about 800 feet.”[^2] Dick and Dorothy Cator had at last reached Sandakan, the capital of British North Borneo (present-day Sabah, Malaysia), where the newly wedded couple were to be based for more than two years between 1893 and 1896.[^3]
 
@@ -32,9 +35,15 @@ Female identification with imperialism typically echoed and endorsed masculine i
 
 Cator portrayed the different ethnic communities in North Borneo within the overarching paradigm of a “Pax Britannica”, emphasising the unprecedented peace and security afforded by firm but benevolent British governance. She described the Chinese as “a most industrious, law-abiding people <i>if only they are governed properly</i> [emphasis added]“[^13]; the Dayaks “make splendid soldiers and best of friends, as they are faithful and trustworthy [...] <i>Held in with an iron hand</i> [emphasis added] they are very valuable [otherwise] they are worse than wild beasts”[^14]; the Bajows, “a darkskinned, wild sea-gipsy race roving from place to place – pirates <i>until the English arrived</i> [emphasis added], and the terror of the whole coast, but now living peaceable, quiet lives”[^15]; likewise, the Dusuns “have settled down wonderfully quietly under British rule, and [gave] very little trouble.”[^16] Recounting petty disputes that her husband helped resolve, Cator remarked that “the people’s unquestioning confidence in the justice of an Englishman is very touching,”[^17] thus vindicating her conviction in the integrity and fairness of British rule. 
 
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-3/dorothycator/carte.jpg">
 The writer, Dorothy Cator. Everyday Life Among the Head-Hunters (1905).
 
-This illustration of head-hunting Dayaks was featured in the Illustrated London News in October 1887. </i>Courtesy of the Sabah Museum.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-3/dorothycator/head_hunting_Dayaks.jpg">
+This illustration of head-hunting Dayaks was featured in the Illustrated London News in October 1887. </i>Courtesy of the Sabah Museum.</i></div>
 
 Cator further underscored the superiority of British imperialism by representing the conduct of other European powers in diametric contrast as inhumane and unjust. She denounced the Spanish as “very bad colonists, cruel masters, who hate and are hated by the natives over whom they rule”18; the Dutch as being “inclined to look upon [the natives] as not merely a lower race than themselves, but lower than their animals” and they were responsible for the “most brutal cases of cruelty on the estates which [her husband] Dick and the other magistrates had to inquire into.”19 This affirmed the conventional rationalisation for British intervention in terms of a moral obligation to rescue and extend protection to populations “outside the pale of civilisation.”[^20]
 
@@ -44,9 +53,15 @@ Black races [referring to the natives] were, of course, never meant to be in the
 
 Cator assumed the paternalist (or rather, maternalist) and patronising stance of the well-meaning colonial parent who claimed full responsibility for the failings of her native charges; this implied that it was native incompetence that necessitated colonial supervision. However, there appears to be an abrupt twist in the last sentence; the idiom “standing on your two feet” suggests that the native had the capacity to be independent and self-reliant. On that note, Cator’s endorsement of British imperialism and its ideological underpinnings nevertheless does not preclude other ruminations and self-reflexive critique that potentially disrupt the hegemonic discourse.
 
-A Murut hunter. <i>Courtesy of the Sabah Museum.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-3/dorothycator/murut_hunter.jpg">
+A Murut hunter. <i>Courtesy of the Sabah Museum.</i></div>
 
-The writer crossing a swamp in British North Borneo. <i>Everyday Life Among the Head-Hunters</i> (1905).
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-3/dorothycator/borneo.jpg">
+The writer crossing a swamp in British North Borneo. <i>Everyday Life Among the Head-Hunters</i> (1905).</div>
 
 #### **Talking Back**
 
@@ -66,7 +81,10 @@ On the other hand, there were instances in which imperial rhetoric was exposed a
 
 Despite occupying a marginal position in the masculine space of the British Empire, the voices of women writing in colonial contexts, as exemplified by Cator, could be just as imperialising. However, this did not necessarily mean there was no leeway for deviating within permissible bounds, and sometimes, even for questions, reflections and provocations that chipped at the monolith of imperial rhetoric.
 
-View of Mount Kinabalu (background) from the Tempasuk River (1889). <i>Courtesy of the Sabah Museum.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-3/dorothycator/Mt_Kinabalu_from_the_Tempasuk_River.jpg">
+View of Mount Kinabalu (background) from the Tempasuk River (1889). <i>Courtesy of the Sabah Museum.</i></div>
 
 <p style="font-size:15px;"><b>Janice Loo</b> is an Associate Librarian with the National Library of Singapore. She was the author of “A Quiet Revolution: Women and Work in Industrialising Singapore”, published in BiblioAsia Vol. 10, Iss. 2</p>
 
