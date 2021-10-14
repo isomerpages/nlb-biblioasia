@@ -137,33 +137,33 @@ Yuen, B. (Ed.). (1998). *[Planning Singapore: From plan to implementation](https
 
 #### **NOTES**
 
-[^1]: Pearson, H.F. (1969, July). Lt. Jackson’s plan of Singapore. Journal of the Malaysian Branch of the Royal Asiatic Society, 42 (1) (215), 161–165. Retrieved from JSTOR via NLB’s eResources website.
+[^1]: Pearson, H.F. (1969, July). Lt. Jackson’s plan of Singapore. <i>Journal of the Malaysian Branch of the Royal Asiatic Society</i>, 42 (1) (215), 161–165. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
-[^2]: Buckley, C.B. (1984). An anecdotal history of old times in Singapore (p. 81). Singapore: Oxford University Press. (Call no.: RSING 959.57 BUC)
+[^2]: Buckley, C.B. (1984). *[An anecdotal history of old times in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082239)* (p. 81). Singapore: Oxford University Press. (Call no.: RSING 959.57 BUC)
 
-[^3]: Yeoh, B.S.A. (2003). Contesting space in colonial Singapore: Power relations and the urban built environment (pp. 22–24). Singapore: NUS Press. (Call no.: RSING 307.76095957 YEO)
+[^3]: Yeoh, B.S.A. (2003). *[Contesting space in colonial Singapore: Power relations and the urban built environment](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11827061)* (pp. 22–24). Singapore: NUS Press. (Call no.: RSING 307.76095957 YEO)
 
-[^4]: Yeoh, 2003, pp. 37–38; Saw, S-H. (2012). The population of Singapore (p. 9). Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 304.6095957 SAW)
+[^4]: [Yeoh](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11827061), 2003, pp. 37–38; Saw, S-H. (2012). *[The population of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14383911)* (p. 9). Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 304.6095957 SAW)
 
-[^5]: Municipal Singapore. (1919, November 21). The Straits Times, p. 8. Retrieved from NewspaperSG.
+[^5]: [Municipal Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19191121-1.2.22). (1919, November 21). The Straits Times, p. 8. Retrieved from NewspaperSG.
 
-[^6]: Singapore slums. (1934, August 21). The Straits Times, p. 10. Retrieved from NewspaperSG.
+[^6]: [Singapore slums](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19340821-1.2.43). (1934, August 21). <i>The Straits Times</i>, p. 10. Retrieved from NewspaperSG.
 
-[^7]: Saw, 2012, p. 9; Waller, E. (2001). Landscape planning in Singapore (p. 32). Singapore: Singapore University Press. (Call no.: RSING q307.1216095957 SPA)
+[^7]: [Saw](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14383911), 2012, p. 9; Waller, E. (2001). *[Landscape planning in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10211980)* (p. 32). Singapore: Singapore University Press. (Call no.: RSING q307.1216095957 SPA)
 
-[^8]: Waller, 2001, p. 31.
+[^8]: [Waller](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10211980), 2001, p. 31.
 
-[^9]: Singapore Improvement Trust. (1955). Annual report 1954 (p. 14). Singapore: Singapore Improvement Trust. (Call no.: RCLOS 711.4095951 SIN)
+[^9]: Singapore Improvement Trust. (1955). *[Annual report 1954](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5047432)* (p. 14). Singapore: Singapore Improvement Trust. (Call no.: RCLOS 711.4095951 SIN)
 
-[^10]: Waller, 2001, p. 32.
+[^10]: [Waller](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10211980), 2001, p. 32.
 
-[^11]: Chin, H.C. (1998). Urban transport planning in Singapore (pp. 81–132). In B. Yuen (Ed.), Planning Singapore: From plan to implementation. Singapore: Singapore Institute of Planners. (Call no.: RSING 711.4095957 PLA)
+[^11]: Chin, H.C. (1998). Urban transport planning in Singapore (pp. 81–132). In B. Yuen (Ed.), *[Planning Singapore: From plan to implementation](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9149224)*. Singapore: Singapore Institute of Planners. (Call no.: RSING 711.4095957 PLA)
 
-[^12]: Waller, 2001, p. 32.
+[^12]: [Waller](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10211980), 2001, p. 32.
 
-[^13]: Yuen, B. (2009). Guiding spatial changes: Singapore urban planning. In S.V. Lall, et.al. (Eds.), Urban land markets: Improving land management for successful urbanisation (p. 369). Dordrecht: London: Springer. (Not available in NLB’s holdings)
+[^13]: Yuen, B. (2009). Guiding spatial changes: Singapore urban planning. In S.V. Lall, et.al. (Eds.), <i>Urban land markets: Improving land management for successful urbanisation</i> (p. 369). Dordrecht: London: Springer. (Not available in NLB’s holdings)
 
-[^14]: Colony of Singapore. (1958). Master plan: Written statement (pp. 2–3). Singapore: Tien Wah Press. (Call no.: RCLOS 711.4095957 SIN)
+[^14]: Colony of Singapore. (1958). *[Master plan: Written statement](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081572)* (pp. 2–3). Singapore: Tien Wah Press. (Call no.: RCLOS 711.4095957 SIN)
 
 [^15]: Colony of Singapore, 1958, pp. 5–13.
 
@@ -269,4 +269,4 @@ Yuen, B. (Ed.). (1998). *[Planning Singapore: From plan to implementation](https
 
 [^66]: Urban Redevelopment Authority, 1991, p. 6; Ee. E. (2013). At the forefront: Leading the new downtown (p. 24). Singapore: Editions Didier Millet. (Call no.: RSING 307.34216095957 EE)
 
-[^67]: Ching & Ng, Jul–Aug 2008. 
+[^67]: Ching & Ng, Jul–Aug 2008.
