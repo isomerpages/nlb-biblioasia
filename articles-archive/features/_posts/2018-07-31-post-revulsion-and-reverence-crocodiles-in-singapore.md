@@ -144,7 +144,7 @@ While the white crocodile remains an elusive mystery, there is a local lore abou
 
 News reports and public records on crocodile sightings in Singapore over the last 200 years have enabled us to pinpoint the physical locations of these reptiles on the island as well as track encounters that have taken place between crocodiles and humans.
 
-<img src="/images/Vol-14-issue-2/revulsion-and-reverence/Croc7.JPG">
+<img style="width: 450px; height: 380px;" src="/images/Vol-14-issue-2/revulsion-and-reverence/Croc7.JPG">
 <div style="background-color: white;">A map showing the historic distribution of the saltwater crocodile population in Singapore between 1819 and 2016. This was specially created for the research project, Buaya: The Making of a Non-Myth, by NUS Museum. <i>Courtesy of NUS Museum</i></div>
 
 The idea of “public space” is frequently challenged in the various encounters between humans and crocodiles in this article. The natural human tendency is to react negatively, from shutting down activities in parks and water-based clubs to draining and poisoning lakes.
