@@ -185,21 +185,11 @@ The public spaces developed for encounters with crocodiles question the notion o
 [^20]:Abdullah Abdul Kadir. (1918). [*The autobiography of Munshi Abdullah*](http://eresources.nlb.gov.sg/printheritage/detail/86a4c1e0-0283-465e-9bfe-a334e5773db5.aspx) (W.G. Shellabear, Trans). Singapore: Printed at the Methodist Pub. House. Retrieved from BookSG.
 [^21]:Kassim Ahmad. (2010). [*The epic of Hang Tuah*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13585137). Kuala Lumpur: Institut Terjemahan Negara Malaysia. (Call no.: RSEA 398.2209595 HIK) 
 [^22]:This incident in 1977 gives room for speculation. Were the scouts searching for what they thought was the mythical white crocodile? Or were they looking for a crocodile that was possibly afflicted by a rare biological condition? One such condition could be albinism, a congenital disorder characterised by the absence of natural pigment, causing even the eyes to be of a different colour. Another cause could be hypomelanism – a reduced amount of melanin. In snakes that are affected by this condition, some coloured parts (mostly black) of their bodies are retained. There is also leucism, which is a partial loss of pigmentation that causes part or all of the crocodile to be white. 
-[^23]:[Scouts hope to bag white croc](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19770502-1.2.25). (1977, May 2). The Straits Times, p. 5; [Scouts hunt for white crocodile](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19770430-1.2.10). (1977, April 30). New Nation, p. 2; [Another hunt by scouts for white croc](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19770613-1.2.41). (1977, June 13). The Straits Times, p. 8; Tan, B. (1977, June 25). A fourth bid to catch the white croc. The Straits Times, p. 12. Retrieved from NewspaperSG.
-[^24]:
-[^25]:
-[^26]:
-[^27]:
-[^28]:
-[^29]:
-[^30]:
-
-
-
-New Nation, 30 Apr 1977, p. 2.
-New Nation, 30 Apr 1977, p. 2.
-The Straits Times, 13 Jun 1977, p. 8; The Straits Times, 25 Jun 1977, p. 12.
-The Malayan dollar was used from 1939 to 1953 in Brunei and Malaya (under British colony and protectorate). Shoes made of lizard skin were also popular. See Choose your own crocodile. (1948, May 2). The Straits Times, p. 5. Retrieved from NewspaperSG.
-Gymkhana meeting. (1889, September 4). Straits Times Weekly Issue, p. 4. Retrieved from NewspaperSG.
-The Gardens crocodile. (1892, January 23). The Straits Times, p. 2; The hunting of the crocodile. (1892, January 27). The Straits Times, p. 3. Retrieved from NewspaperSG. [Note: Before this incident, crocodiles were kept at the Singapore Botanic Gardens. Today, the Marsh Gardens has a signboard informing visitors how it was “once the location of a rhinoceros wallow and alligator [sic. crocodile] ponds when the Singapore Botanic Gardens had a zoological collection in the 1870s”.]
-Survey Department, Singapore. (1839). Map of the Island of Singapore and its Dependencies [Topographic Map]. Retrieved from National Archives of Singapore website. 
+[^23]:[Scouts hope to bag white croc](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19770502-1.2.25). (1977, May 2). *The Straits Times*, p. 5; [Scouts hunt for white crocodile](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19770430-1.2.10). (1977, April 30). *New Nation*, p. 2; [Another hunt by scouts for white croc](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19770613-1.2.41). (1977, June 13). *The Straits Times*, p. 8; Tan, B. (1977, June 25). [A fourth bid to catch the white croc](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19770625-1.2.52). *The Straits Times*, p. 12. Retrieved from NewspaperSG.
+[^24]:[*New Nation*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19770430-1.2.10), 30 Apr 1977, p. 2.
+[^25]:[*New Nation*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19770430-1.2.10), 30 Apr 1977, p. 2.
+[^26]:[*The Straits Times*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19770613-1.2.41), 13 Jun 1977, p. 8; [*The Straits Times*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19770625-1.2.52), 25 Jun 1977, p. 12.
+[^27]:The Malayan dollar was used from 1939 to 1953 in Brunei and Malaya (under British colony and protectorate). Shoes made of lizard skin were also popular. See [Choose your own crocodile](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19480502-1.2.49). (1948, May 2). *The Straits Times*, p. 5. Retrieved from NewspaperSG.
+[^28]:[Gymkhana meeting](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18890904-1.2.20). (1889, September 4). *Straits Times Weekly Issue*, p. 4. Retrieved from NewspaperSG.
+[^29]:[The Gardens crocodile](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18920123-1.2.31). (1892, January 23). *The Straits Times*, p. 2; [The hunting of the crocodile](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18920127-1.2.28). (1892, January 27). *The Straits Times*, p. 3. Retrieved from NewspaperSG. [Note: Before this incident, crocodiles were kept at the Singapore Botanic Gardens. Today, the Marsh Gardens has a signboard informing visitors how it was “once the location of a rhinoceros wallow and alligator [sic. crocodile] ponds when the Singapore Botanic Gardens had a zoological collection in the 1870s”.]
+[^30]:Survey Department, Singapore. (1839). [*Map of the Island of Singapore and its Dependencies*](http://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f9099d62-115c-11e3-83d5-0050568939ad) [Topographic Map]. Retrieved from National Archives of Singapore website.
