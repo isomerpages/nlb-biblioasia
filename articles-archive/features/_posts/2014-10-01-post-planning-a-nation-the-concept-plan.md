@@ -6,7 +6,10 @@ layout: post
 ---
 #### Singapore’s towering skyscrapers and its evolving landscape is by no means accidental. **Lim Tin Seng** walks us through the country’s various Concept Plans, each carefully put together in response to the city’s changing needs.
 
-Plan of the Town of Singapore, 1823, by Lt. Philip Jackson, which is also known as the Raffles Town Plan. <i>Jackson, L. (1822). Plan of the town of Singapore. London: J & C Walker.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-3/conceptplan/Plan_of_the_Town_of_Singapore.jpg">
+Plan of the Town of Singapore, 1823, by Lt. Philip Jackson, which is also known as the Raffles Town Plan. <i>Jackson, L. (1822). Plan of the town of Singapore. London: J & C Walker.</i></div>
 
 Since Independence, Singapore has witnessed many dramatic changes to its urban landscape. The overcrowded city centre of the 1960s characterised by slums, filthy drains, congested roads and ageing infrastructure has been replaced by a modern business and financial hub. The streets are safe and clean, and lined with buildings that provide a vibrant mix of retail and entertainment activities. Beyond the city limits lies an impressive network of self-sufficient towns. Not only do these towns provide good quality homes and ample recreational space for residents, they are also connected to the city and each other by an efficient transportation system.
 
@@ -26,7 +29,10 @@ The Master Plan also catered land for schools, infrastructural facilities and re
 
 Despite the comprehensive planning, the 1958 Master Plan was fundamentally a static concept, providing for limited and predictable change and for a city of finite size.[^18] The land use changes it proposed were based on the assumption that urban growth would be slow and steady, premised on a projected population of 2 million by 1972.[^19] The plan also assumed that the private rather than the public sector would lead the physical development of the city after Singapore achieved full internal self-government in 1959.[^20] With such a rigid and limited scope, the 1958 Master Plan was unable to respond the to the country’s land use pattern which changed dramatically after the newly elected People’s Action Party (PAP) government introduced a series of large-scale housing and industrial projects.[^21] Recognising the ineffectiveness of the Master Plan, the government decided to review the plan’s planning strategies with the intention of replacing them with a more responsive instrument to facilitate long-term planning in land use.[^22]
 
-Map 2: 1958 Master Plan © Urban Redevelopment Authority. <i>All rights reserved.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-3/conceptplan/1958_Master_Plan.jpg">
+Map 2: 1958 Master Plan © Urban Redevelopment Authority. <i>All rights reserved.</i></div>
 
 #### **From Static to Strategic: The Concept Plan**
 
@@ -40,9 +46,15 @@ Interestingly, the injection of the Concept Plan into Singapore’s land plannin
 
 Based on the planning directions set out in the Concept Plan and Master Plan, land for development is then released through the Government Land Sales (GLS) programme. Singapore’s built heritage is not forgotten in this strategy as conservation plans are also drawn up to preserve the city’s overall urban design.[^32] All these different stages of planning and implementation ensure that the country’s limited land resources are optimised to the fullest and the urban environment made attractive.[^33]
 
-1971 Concept Plan © Urban Redevelopment Authority. <i>All rights reserved.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-3/conceptplan/1971_Concept_Plan.jpg">
+1971 Concept Plan © Urban Redevelopment Authority. <i>All rights reserved.</i></div>
 
-1991 Concept Plan © Urban Redevelopment Authority. <i>All rights reserved.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-3/conceptplan/1991_Concept_Plan.jpg">
+1991 Concept Plan © Urban Redevelopment Authority. <i>All rights reserved.</i></div>
 
 #### **The 1971 Concept Plan**
 
@@ -50,7 +62,10 @@ The Concept Plan has been revised several times since its introduction in 1971. 
 
 The Ring Plan was the 1971 Concept Plan’s strategy to move the population, projected to hit 4 million by 1991, out of the overcrowded central area to outlying satellite towns. This is similar to the satellite town concept proposed in the 1958 Master Plan, albeit on a grander scale. The Ring Plan is a ring of high-density satellite residential towns encircling the central water catchment area.[^37] Populated with mostly medium-density and high-density public housing, the plan was for the towns to be linked to each other as well as to the Jurong Industrial Estate and the city area by the MRT and expressways. At the same time, the satellite towns were to be separated from each other by a system of parks and green spaces – another key feature of Singapore’s present landscape.[^38] The central area was designed to be a strong financial business district to attract foreign capital as well as local investments and expedite Singapore’s industrialisation programme.[^39]
 
-Shophouses in the Tanjong Pagar area were among the first heritage structures to be restored in 1987. <i>MITA collection, courtesy of National Archives of Singapore.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-3/conceptplan/Tanjong_Pagar.jpg">
+Shophouses in the Tanjong Pagar area were among the first heritage structures to be restored in 1987. <i>MITA collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **The 1991 Concept Plan**
 
@@ -76,21 +91,22 @@ The key findings included: the creation of more people-centric homes; incorporat
 
 It is clear that the government will continue to use the Concept Plans to express its long-term planning intentions. Through a collective consultative process with relevant government agencies and the public, the Concept Plan of the future will continue to chart the land use and infrastructure development of Singapore, create solutions to safeguard the environment, sustain the economy and improve the quality of living for future generations. The Concept Plans will also be reviewed regularly so that they can remain flexible and responsive in order to meet the changing needs of the nation.
 
-2013 Land Use Plan © Urban Redevelopment Authority. <i>All rights reserved.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-3/conceptplan/2013_land_use_plan_re.jpg">
+2013 Land Use Plan © Urban Redevelopment Authority. <i>All rights reserved.</i></div>
 
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba; display:block; font-size:1rem; line-height:1.5rem;"> 
 <b>Preserving Heritage</b>
 <br><br>
 One of the most enduring impacts of the nation’s town planning efforts was the launch of the conservation programme in the 1980s. Prior to that, the lack of an articulated conservation plan had resulted in the demolition of many buildings with historical and architectural significance such as Bukit Rose in Bukit Timah, the OId China Building and the Old Arcade in the name of progress.[^45] As noted in the 1991 Concept Plan, the aim of conservation is preserve the nation’s built heritage so that historic buildings can be used as physical landmarks that illustrate Singapore’s rich, multi-ethnic background.[^46] The first shophouses to be conserved and restored were in Tanjong Pagar in 1987. Thereafter, over 7,000 heritage buildings and structures in more than 100 locations were gazetted for conservation. These buildings were selected based on their architectural significance and rarity; cultural, social, religious and historical significance; contribution to the environment and identity; and economic impact.[^47]
-<br><br>
-<img style="width: 420px; height: 420px;" src="/images/vol-10-issue-2/ubin/Pulau_Ubin.jpg">Cover of the French record album of <i>Five Ashore in Singapore</i>, 1967. The music for the film was composed by renowned French composer Antoine Duhamel. © Barclay Editions. <i>Courtesy of Raphaël Millet.</i>
  </span>
  
  <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba; display:block; font-size:1rem; line-height:1.5rem;"> <b>Marina Bay Downtown: A Vision from 1991</b>
 <br><br>
 Spanning 360 hectares, Marina Bay downtown is the extension of Singapore’s central business district along Shenton Way. It is a waterfront business district similar to London’s Canary Wharf and Shanghai’s Pudong.[^65] Most people think of the glittering Marina Bay area as a 21st century addition to the skyline when in actual fact the new downtown plan was first proposed in the 1991 Concept Plan, and the massive land reclamation project to create Marina Bay actually started in the 1970s.[^66] Marina Bay is different from other urban areas in Singapore in that it encourages a mix of commercial, residential and entertainment activities in land usage. This is to ensure vibrancy in the area around the clock. To facilitate this, “white” site zoning was introduced to demarcate sites for mixed-use development.[^67] This different planning approach is clearly reflected in the skyline of Marina Bay as its glass and steel financial buildings stand side-by-side with high-rise luxury apartments while overlooking green spaces such as Gardens by the Bay and the entertainment and dining hub of Marina Bay Sands.
 <br><br>
-<img style="width: 420px; height: 420px;" src="/images/vol-10-issue-2/ubin/Pulau_Ubin.jpg">The development of Marina Bay downtown was first proposed in the 1991 Concept Plan. <i>Courtesy of Gardens by the Bay.</i>
+<img style="width: 100%;" src="/images/vol-10-issue-3/conceptplan/Marina_Bay.jpg">The development of Marina Bay downtown was first proposed in the 1991 Concept Plan. <i>Courtesy of Gardens by the Bay.</i>
  </span>
 
 <p style="font-size:15px;"><b>Lim Tin Seng</b> is a Librarian with the National Library of Singapore. He is the co-editor of Roots: Tracing Family Histories – A Resource Guide (2013); Harmony and Development: ASEAN-China Relations (2009) and China’s New Social Policy: Initiatives for a Harmonious Society (2010).</p>
