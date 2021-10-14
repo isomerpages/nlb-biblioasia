@@ -38,3 +38,23 @@ In 1989, Winoto, the chief trainer at the Jurong Reptile and Crocodile Paradise,
 <img src="/images/Vol-14-issue-2/revulsion-and-reverence/Croc4.JPG">
 <div style="background-color: white;">A poster from the Crocodile Paradise at Jurong advertising its performances with crocodiles.</i></div>
 
+Nevertheless, the island continues to host crocodiles in the wild, approximately 20 are known to be residents of the mangrove habitats of Sungei Buloh Wetland Reserve. Today, with over 90 percent of Singapore’s mangrove ecosystem destroyed, the reserve encompasses the largest mangrove forest – at 1.17 sq km11 – left on the island.
+
+Although Sungei Buloh’s mangrove forest makes up a mere 1.5 percent of the country’s original mangrove mass, it remains, by default, the preferred habitat of the crocodile. Urban encroachment on mangrove areas has literally squeezed the population of crocodiles into the Johor Straits, and subsequently, into this tiny patch of wetland reserve in the remote northwest of the island.
+
+In 2010, it was reported that “these [mangrove] patches have regenerated well as they are generally isolated from intrusive anthropogenic influences”12 – in other words, relatively free from human intrusion. Such stable environments provide for a healthy ecosystem where a natural equilibrium is maintained and supports a biodiversity that includes crocodiles in their natural environment.
+
+The tussle for space in land-scarce Singapore for urban development and nature represents just the tip of the iceberg in understanding how humans co-exist with crocodiles in Singapore. Sightings of crocodiles may elicit fear, shock, surprise, amusement or even indifference whenever they are reported in the media.
+
+Using specific time periods such as 1960 and 1977 as markers, the empirical collection and study of data for the research project *Buaya: The Making of a Non-Myth* threw up interesting findings. The project revealed different reactions to the crocodile that are intertwined and layered with the cultures and experiences of different communities throughout time and history in Singapore.
+
+<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> 
+	<b>BUAYA: THE MAKING OF A NON-MYTH</b>
+	<br><br>
+	Launched in October 2016, <i>Buaya: The Making of a Non-Myth</i> is a research project held in the “prep-room” of NUS Museum. Revolving around ideas of the estuarine crocodile in Singapore, the project provides a platform for presentations of research projects and interpretations by professionals in the fields of natural history, arts and cultural studies.
+<br><br>
+	The <i>Buaya</i> project is part of natural history conservator Kate Pocklington’s on-going research into the estuarine crocodile in Singapore, prompted by her conservation of a century-old specimen for permanent display at the Lee Kong Chian Natural History Museum in 2013.
+<br><br>
+	The <i>Buaya</i> project maps over 380 present and historic records of crocodiles in Singapore in response to the 1996 International Union for Conservation of Nature (IUCN) report which assessed these animals to be “regionally extinct” in Singapore.</div>
+	
+	
