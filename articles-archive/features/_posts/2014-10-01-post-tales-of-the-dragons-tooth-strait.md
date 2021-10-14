@@ -66,3 +66,26 @@ Other melodies with no lyrics composed by Duhamel include <i>Paradise Limited</i
 
 [^1]:Sam, J. (1966, October 1). [Solved-that Men from U.N.C.L.E riddle](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19661001-1.2.93). *The Straits Times*, p. 12; [When the kissing couldn’t even get started](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19661002-1.2.32). (1966, October 2). *The Straits Times*, p. 3. Retrieved from NewspaperSG.
 <a href="https://biblioasia.nlb.gov.sg/vol-10/issue-3/oct-dec-2014/"><center>Back to Issue</center></a>
+
+#### **REFERENCES**
+
+Chung, C.K. (2005). Longyamen is Singaproe: The final proof? In L. Suryadinata (Ed.), *[Admiral Zheng He & Southeast Asia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12653854)*. Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 951.026 ADM)
+
+Gibson-Hill, C.A. (1956, December). *[Singapore Old Strait & New Harbour 1300–1870.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4077989)* <i>Memoirs of the Raffles Museum, 3</i>. Singapore: G.P.O. (Call no.: RCLOS 959.52 BOG)
+
+Hsu, Y.T. (1972, January). Singapore in the remote past. <i>Journal of the Malaysian Branch of the Royal Asiatic Society, 45</i>, (1) (221), 1–9, pp. 3–4. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+
+Kwa, C.G., Heng, D., & Tan, T.Y. (2009). *[Singapore, a 700-year history: From early emporium to world city](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13205984)*. Singapore: National Archives of Singapore. (Call no.: RSING 959.5703 KWA)
+
+林我铃著 [Lin, W.Z.0]. (1999). [龙牙门新考 : 中国古代南海两主要航道要冲的历史地理研究](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84579319) <i>[Long-ya-men reidentified: A historical geography study of two important junctions in the ancient Nanhai sea routes]</i>. Singapore: South Seas Society. (Call no.: Chinese RSING 911.5 LWL)
+
+Miskic, J.N. (2013). *[Singapore & the Silk Road of the sea, 1300–1800](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123868)*. Singapore: NUS Press. (Call no.: RSING 959.57 MIK)
+
+
+Low, M.G.C–A. (2004). Singapore from the 14th to 19th century. In J.N. Miskic & M.G.C–A, Low, (Eds.), *[Early Singapore 1300s–1819: Evidence in maps, text and artefacts](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12284523)* (pp. 16–17). Singapore: Singapore History Museum. (Call no.: RSING 959.5703 EAR)
+
+Rockhill, W.W. (1915, March). Notes on the relations and trade of China with eastern archipelago and the coast of the Indian Ocean during the fourteenth century (Part II). <i>T’oung Pao, second series, 16</i> (1), 61–159, pp. 129–132. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+
+Su, J. (2000). Dao Yi Zhi Lue Jiao Shi [Annotations of Dao Yi Zhi Lue]. Beijing: Zhonghua Book Company. (Not available in NLB’s holdings)
+
+Wheatley, P. (1961). *[The Golden Khersonese: Studies in the historical geography of the Malay Peninsula before A.D.1500](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3283462). Kuala Lumpur: University of Malaya Press. (Call no.: RSING 959.5 WHE)
