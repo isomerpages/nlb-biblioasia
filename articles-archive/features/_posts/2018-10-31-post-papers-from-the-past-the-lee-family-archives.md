@@ -37,7 +37,7 @@ The Lee Kip Lee and Lee Kip Lin Family Archives contain approximately 6,000 item
 
 Spanning nearly a century between the 1890s and 1980s, the collection covers critical periods in Singapore’s history, from the colonial era to World War II and the Japanese Occupation, the subsequent return of the British, and the post-independence period.
 
-Assistant Professor Koh Keng We of Nanyang Technological University’s School of Humanities, who has a keen interest in Southeast Asian history and previewed the collection, had this to say: “The collection provides a unique window into the social, cultural, business, and political lives of members of a Chinese Peranakan family over two generations” through which “… we can obtain a detailed picture of their everyday lives, in terms of their business activities, the social and cultural organisations and events that they took part in, their networks, and the social, political, and cultural worlds they lived in”.
+Assistant Professor Koh Keng We of Nanyang Technological University’s School of Humanities, who has a keen interest in Southeast Asian history and previewed the collection, had this to say: “The collection provides a unique window into the social, cultural, business, and political lives of members of a Chinese Peranakan family over two generations” through which “… we can obtain a detailed picture of their everyday lives, in terms of their business activities, the social and cultural organisations and events that they took part in, their networks, and the social, political, and cultural worlds they lived in.”
 
 #### **Insights into the History of Business**
 
