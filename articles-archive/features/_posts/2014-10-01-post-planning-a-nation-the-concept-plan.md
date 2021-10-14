@@ -165,108 +165,108 @@ Yuen, B. (Ed.). (1998). *[Planning Singapore: From plan to implementation](https
 
 [^14]: Colony of Singapore. (1958). *[Master plan: Written statement](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081572)* (pp. 2–3). Singapore: Tien Wah Press. (Call no.: RCLOS 711.4095957 SIN)
 
-[^15]: Colony of Singapore, 1958, pp. 5–13.
+[^15]: [Colony of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081572), 1958, pp. 5–13.
 
-[^16]: Colony of Singapore, 1958, p. 5.
+[^16]: [Colony of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081572), 1958, p. 5.
 
-[^17]: Neo, B.S. (2012). Growing a city in a garden. In J. Gwee. (Ed.), Case studies in public governance: Building institutions in Singapore (p. 48). Abingdon: Oxon; New York: Routledge. (Call no.: RSING 307.76095957 CAS)
+[^17]: Neo, B.S. (2012). Growing a city in a garden. In J. Gwee. (Ed.), *[Case studies in public governance: Building institutions in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14338883)* (p. 48). Abingdon: Oxon; New York: Routledge. (Call no.: RSING 307.76095957 CAS)
 
-[^18]: Liu, T.K., et. al. (Eds.). (2014). Liveable sustainable cities: A framework (p. 53). Singapore: Civil Service College: Centre of Liveable Cities. (Call no.: RSING 307.1216095957 LIV)
+[^18]: Liu, T.K., et. al. (Eds.). (2014). *[Liveable sustainable cities: A framework](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200580042)* (p. 53). Singapore: Civil Service College: Centre of Liveable Cities. (Call no.: RSING 307.1216095957 LIV)
 
-[^19]: Liu, 2014, pp. 53–54; Colony of Singapore, 1958, p. 16.
+[^19]: [Liu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200580042), 2014, pp. 53–54; [Colony of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081572), 1958, p. 16.
 
-[^20]: Liu, 2014, pp. 53–54.
+[^20]: [Liu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200580042), 2014, pp. 53–54.
 
-[^21]: Liu, 2014, pp. 54–55.
+[^21]: [Liu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200580042), 2014, pp. 54–55.
 
-[^22]: Liu, 2014, p. 56.
+[^22]: [Liu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200580042), 2014, p. 56.
 
-[^23]: Dale, O.J. (1999). Urban planning in Singapore: Transformation of a city (pp. 79–80). Shah Alam, Malaysia: Oxford University Press. (Call no.: R 307.1216 DAL)
+[^23]: Dale, O.J. (1999). *[Urban planning in Singapore: Transformation of a city](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9146945)* (pp. 79–80). Shah Alam, Malaysia: Oxford University Press. (Call no.: R 307.1216 DAL)
 
-[^24]: Dale, 1999, pp. 80–81; Singapore. Planning Department. (1970). Annual report 1968 & 1969 (pp. 4–17). Singapore: Planning Department. (Call no.: RCLOS 711.4095957 SPDAR; Microfilm no.: NL 11783)
+[^24]: [Dale](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9146945), 1999, pp. 80–81; Singapore. Planning Department. (1970). *[Annual report 1968 & 1969](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4826216)* (pp. 4–17). Singapore: Planning Department. (Call no.: RCLOS 711.4095957 SPDAR; Microfilm no.: NL 11783)
 
-[^25]: Dale, 1999, pp. 80–81; Yuen, 2009, p. 370.
+[^25]: [Dale](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9146945), 1999, pp. 80–81; Yuen, 2009, p. 370.
 
-[^26]: Urban Redevelopment Authority. (2014, June 30). Introduction to concept plan. Retrieved from Urban Redevelopment Authority website.
+[^26]: Urban Redevelopment Authority. (2014, June 30). <i>Introduction to concept plan</i>. Retrieved from Urban Redevelopment Authority website.
 
-[^27]: Golblum, C. (2008). Planning the world metropolis on an island-city scale: Urban innovation as a constraint and tool for global change. In T.C. Wong, et al. (Eds.), Spatial planning for a sustainable Singapore (p. 18). Dordrecht: London: Springer. (Call no.: RSING 307.12160959957 SPA)
+[^27]: Golblum, C. (2008). Planning the world metropolis on an island-city scale: Urban innovation as a constraint and tool for global change. In T.C. Wong, et al. (Eds.), *[Spatial planning for a sustainable Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13005128)* (p. 18). Dordrecht: London: Springer. (Call no.: RSING 307.12160959957 SPA)
 
-[^28]: Goldblum, 2008, p. 18.
+[^28]: [Goldblum](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13005128), 2008, p. 18.
 
-[^29]: Dale, 1999, p. 83; Liu, 2014, p. 56.
+[^29]: [Dale](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9146945), 1999, p. 83; [Liu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200580042), 2014, p. 56.
 
-[^30]: Urban Redevelopment Authority. (2014, June 30). Introduction to master plan. Retrieved from Urban Redevelopment Authority website.
+[^30]: Urban Redevelopment Authority. (2014, June 30). <i>Introduction to master plan</i>. Retrieved from Urban Redevelopment Authority website.
 
 [^31]: Urban Redevelopment Authority, introduction to master plan, 30 Jun 2014.
 
-[^32]: Urban Redevelopment Authority. (2014, June 30). Our planning process. Retrieved from Urban Redevelopment Authority website.
+[^32]: Urban Redevelopment Authority. (2014, June 30). <i>Our planning process</i>. Retrieved from Urban Redevelopment Authority website.
 
 [^33]: Urban Redevelopment Authority, our planning process, 30 Jun 2014.
 
-[^34]: Urban Redevelopment Authority. (2014, June 30). Concept plan 1971. Retrieved from Urban Redevelopment Authority website.
+[^34]: Urban Redevelopment Authority. (2014, June 30). <i>Concept plan 1971</i>. Retrieved from Urban Redevelopment Authority website.
 
 [^35]: Urban Redevelopment Authority, concept plan 1971, 30 Jun 2014.
 
-[^36]: Singapore. Planning Department. (1971). Annual report (pp. 4–15). Singapore: Planning Department. (Call no.: RCLOS 711.4095957 SPDAR)
+[^36]: Singapore. Planning Department. (1971). *[Annual report](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5047432)* (pp. 4–15). Singapore: Planning Department. (Call no.: RCLOS 711.4095957 SPDAR)
 
-[^37]: Singapore. Planning Department. (1975). Revised master plan: Report of survey. Singapore: Planning Department. (Not available in NLB’s holdings)
+[^37]: Singapore. Planning Department. (1975). <i>Revised master plan: Report of survey</i>. Singapore: Planning Department. (Not available in NLB’s holdings)
 
 [^38]: Urban Redevelopment Authority, concept plan 1971, 30 Jun 2014.
 
 [^39]: Urban Redevelopment Authority, concept plan 1971, 30 Jun 2014.
 
-[^40]: Urban Redevelopment Authority. (1991). Living the next lap: Towards a tropical city of excellence (p. 9). Singapore: Urban Redevelopment Authority. (Call no.: RSING 307.36095957 LIV)
+[^40]: Urban Redevelopment Authority. (1991). *[Living the next lap: Towards a tropical city of excellence](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6135902)* (p. 9). Singapore: Urban Redevelopment Authority. (Call no.: RSING 307.36095957 LIV)
 
-[^41]: Urban Redevelopment Authority, 1991, pp. 4–7. 
+[^41]: [Urban Redevelopment Authority](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6135902), 1991, pp. 4–7. 
 
-[^42]: Urban Redevelopment Authority, 1991, pp. 28–31.
+[^42]: [Urban Redevelopment Authority](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6135902), 1991, pp. 28–31.
 
-[^43]: Urban Redevelopment Authority, 1991, pp. 22–27.
+[^43]: [Urban Redevelopment Authority](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6135902), 1991, pp. 22–27.
 
-[^44]: Urban Redevelopment Authority, 1991, p. 27.
+[^44]: [Urban Redevelopment Authority](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6135902), 1991, p. 27.
 
-[^45]: Kong, L. (2011). Conserving the past, creating the future: Urban heritage in Singapore (pp. 34–35). Singapore: Urban Redevelopment Authority. (Call no.: RSING 363.69095957 KON)
+[^45]: Kong, L. (2011). *[Conserving the past, creating the future: Urban heritage in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13816245)* (pp. 34–35). Singapore: Urban Redevelopment Authority. (Call no.: RSING 363.69095957 KON)
 
-[^46]: Urban Redevelopment Authority, 1991, p. 27.
+[^46]: [Urban Redevelopment Authority](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6135902), 1991, p. 27.
 
-[^47]: Serene, T., & Serene, T. (Eds.). (2012). Designing our city: Planning for a sustainable Singapore (p. 15). Singapore: Urban Redevelopment Authority. (Call no.: RSING 307.1216095957 DES)
+[^47]: Serene, T., & Serene, T. (Eds.). (2012). *[Designing our city: Planning for a sustainable Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14621847)* (p. 15). Singapore: Urban Redevelopment Authority. (Call no.: RSING 307.1216095957 DES)
 
-[^48]: Urban Redevelopment Authority, 1991, p. 21.
+[^48]: [Urban Redevelopment Authority](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6135902), 1991, p. 21.
 
-[^49]: Urban Redevelopment Authority. (2014, June 30). Concept plan 1991. Retrieved from Urban Redevelopment Authority website.
+[^49]: Urban Redevelopment Authority. (2014, June 30). <i>Concept plan 1991</i>. Retrieved from Urban Redevelopment Authority website.
 
 [^50]: Urban Redevelopment Authority. concept plan 1991, 30 Jun 2014.
 
-[^51]: Urban Redevelopment Authority, 1991, pp. 17, 20.
+[^51]: [Urban Redevelopment Authority](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6135902), 1991, pp. 17, 20.
 
-[^52]: Urban Redevelopment Authority, 1991, pp. 18–20.
+[^52]: [Urban Redevelopment Authority](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6135902), 1991, pp. 18–20.
 
-[^53]: Urban Redevelopment Authority, 1991, p. 14; Urban Redevelopment Authority, concept plan 1991, 30 Jun 2014.
+[^53]: [Urban Redevelopment Authority](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6135902), 1991, p. 14; Urban Redevelopment Authority, concept plan 1991, 30 Jun 2014.
 
-[^54]: Urban Redevelopment Authority. (2001). Concept plan 2001 (pp. 12–19). Singapore: Urban Redevelopment Authority. (Call no.: RSING q711.4095957 CON)
+[^54]: Urban Redevelopment Authority. (2001). *[Concept plan 2001](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10404936)* (pp. 12–19). Singapore: Urban Redevelopment Authority. (Call no.: RSING q711.4095957 CON)
 
-[^55]: Department of Statistics Singapore. (2014, July). Yearbook of Statistics Singapore, 2014 (p. 23). Singapore: Department of Statistics Singapore. (Call no.: RSING 315.957 YSS)
+[^55]: Department of Statistics Singapore. (2014, July). *[Yearbook of Statistics Singapore, 2014](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4183455)* (p. 23). Singapore: Department of Statistics Singapore. (Call no.: RSING 315.957 YSS)
 
-[^56]: Urban Redevelopment Authority, 2001, pp. 37–38.
+[^56]: [Urban Redevelopment Authority](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6135902), 2001, pp. 37–38.
 
-[^57]: Radial lines would provide direct rail links to the city centre, while orbital lines would serve those travelling from one place to another outside the city centre. See Melissa Sapuan. (2007, April 14). Managing Singapore’s land needs. Ethos, 2, p. 15.
+[^57]: Radial lines would provide direct rail links to the city centre, while orbital lines would serve those travelling from one place to another outside the city centre. See Melissa Sapuan. (2007, April 14). Managing Singapore’s land needs. *[Ethos](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7134108)*, 2, p. 15.
 
-[^58]: Urban Redevelopment Authority, 2001, pp. 20–27.
+[^58]: [Urban Redevelopment Authority](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6135902), 2001, pp. 20–27.
 
 [^59]: Urban Redevelopment Authority, concept plan 2001, 30 Jun 2014.
 
 [^60]: Urban Redevelopment Authority, concept plan 2001, 30 Jun 2014.
 
-[^61]: Urban Redevelopment Authority. (2014, June 30). Concept plan 2011. Retrieved from Urban Redevelopment Authority website.
+[^61]: Urban Redevelopment Authority. (2014, June 30). <i>Concept plan 2011</i>. Retrieved from Urban Redevelopment Authority website.
 
-[^62]: Urban Redevelopment Authority, concept plan 2011, 30 Jun 2014; Ministry of National Development. (2013). A high quality living environment for all Singaporeans: Land use plan to support Singapore’s future population (p. 3). Singapore: Ministry of National Development. (Call no.: RSING 333.77095957 HIG)
+[^62]: Urban Redevelopment Authority, concept plan 2011, 30 Jun 2014; Ministry of National Development. (2013). *[A high quality living environment for all Singaporeans: Land use plan to support Singapore’s future population](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200125349)* (p. 3). Singapore: Ministry of National Development. (Call no.: RSING 333.77095957 HIG)
 
-[^63]: Tan, C.C., & Cheng, E. (2010). Final report of focus group on quality of life: Concept plan review 2011 (pp. 25–27). Singapore: Urban Redevelopment Authority. (Call no.: RSING 307.76095957 SIN); Ong, K. Y., & Lee, T.Y. (2010). Final report of focus group on sustainability and identity: Concept plan review 2011 (pp. 32–33). Singapore: Urban Redevelopment Authority. (Call no.: RSING 307.76095957 SIN); Ministry of National Development, 2013, pp. 3–4.
+[^63]: Tan, C.C., & Cheng, E. (2010). *[Final report of focus group on quality of life: Concept plan review 2011](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200142053)* (pp. 25–27). Singapore: Urban Redevelopment Authority. (Call no.: RSING 307.76095957 SIN); Ong, K. Y., & Lee, T.Y. (2010). *[Final report of focus group on sustainability and identity: Concept plan review 2011](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200142054)* (pp. 32–33). Singapore: Urban Redevelopment Authority. (Call no.: RSING 307.76095957 SIN); [Ministry of National Development](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200125349), 2013, pp. 3–4.
 
-[^64]: Ministry of National Development, 2013, pp. 14–18, 26.
+[^64]: [Ministry of National Development](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200125349), 2013, pp. 14–18, 26.
 
-[^65]: Ching, T.Y., & Ng, B. (2008, July–August). Realising the Marine Bay vision. Skyline. Retrieved from Urban Redevelopment Authority website.
+[^65]: Ching, T.Y., & Ng, B. (2008, July–August). Realising the Marine Bay vision. <i>Skyline</i>. Retrieved from Urban Redevelopment Authority website.
 
-[^66]: Urban Redevelopment Authority, 1991, p. 6; Ee. E. (2013). At the forefront: Leading the new downtown (p. 24). Singapore: Editions Didier Millet. (Call no.: RSING 307.34216095957 EE)
+[^66]: [Urban Redevelopment Authority](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6135902), 1991, p. 6; Ee. E. (2013). *[At the forefront: Leading the new downtown](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200143349)* (p. 24). Singapore: Editions Didier Millet. (Call no.: RSING 307.34216095957 EE)
 
 [^67]: Ching & Ng, Jul–Aug 2008.
