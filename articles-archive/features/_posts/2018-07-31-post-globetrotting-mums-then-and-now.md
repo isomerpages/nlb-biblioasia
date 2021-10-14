@@ -164,12 +164,15 @@ Although Annie continued her journey with her family to other far-flung outposts
 [^8]:[Brassey](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4411354), 1878, p. 200.
 [^9]:[McDougall](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4320846), 1882, p. 115.
 [^10]:[Brassey](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4411354), 1878, pp. 5–6.
-
-
-
-
-
-
-
-
-
+[^11]:[Brassey](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4411354), 1878, p. 6
+[^12]:[Brassey](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4411354), 1878, p. 361.
+[^13]:[Bunyon](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5030878), 1889, p. 20.
+[^14]:[McDougall](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4320846), 1882, pp. 142–143.
+[^15]:[McDougall](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4320846), 1882, p. 118.
+[^16]:[Bunyon](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5030878), 1889, pp. 26, 30.
+[^17]:[McDougall](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4320843), 1854, p. iii.
+[^18]:[Brassey](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4411354), 1878, p. 65.
+[^19]:[McDougall](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4320846), 1882, p. 12.
+[^20]:[Bunyon](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5030878), 1889, p. 216.
+[^21]:[Bunyon](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5030878), 1889, p. 56. 
+[^22]:Brassey, A.  (1889). [The last voyage to India and Australia in the ‘Sunbeam’](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4411376). London: Longmans, Green. (Call no.: RRARE 915 BRA; Microfilm no.: NL8059)
