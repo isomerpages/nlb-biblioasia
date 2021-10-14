@@ -89,3 +89,43 @@ Rockhill, W.W. (1915, March). Notes on the relations and trade of China with eas
 Su, J. (2000). Dao Yi Zhi Lue Jiao Shi [Annotations of Dao Yi Zhi Lue]. Beijing: Zhonghua Book Company. (Not available in NLB’s holdings)
 
 Wheatley, P. (1961). *[The Golden Khersonese: Studies in the historical geography of the Malay Peninsula before A.D.1500](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3283462). Kuala Lumpur: University of Malaya Press. (Call no.: RSING 959.5 WHE)
+
+#### **NOTES**
+
+[^1]: Wheatley, P. (1961). *[The Golden Khersonese: Studies in the historical geography of the Malay Peninsula before A.D.1500](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3283462)* (p. 82). Kuala Lumpur: University of Malaya Press. (Call no.: RSING 959.5 WHE)
+
+[^2]: Kwa, C.G., Heng, D., & Tan, T.Y. (2009). *[Singapore, a 700-year history: From early emporium to world city](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13205984)* (p. 67). Singapore: National Archives of Singapore. (Call no.: RSING 959.5703 KWA)
+
+[^3]: Miskic, J.N. (2013). *[Singapore & the Silk Road of the sea, 1300–1800](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123868)* (p. 76). Singapore: NUS Press. (Call no.: RSING 959.57 MIK)
+
+[^4]: [Kwa, Heng & Tan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13205984), 2009, p. 66.
+
+[^5]: Gibson-Hill, C.A. (1956, December). [Singapore Old Strait & New Harbour 1300–1870](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4077989). Memoirs of the Raffles Museum, 3, plate facing, (p. 66). Singapore: G.P.O. (Call no.: RCLOS 959.52 BOG)
+
+[^6]: Also known as “red gold” from [Miskic](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123868), 2013, p. 178.
+
+[^7]: [Wheatley](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3283462), 1961, p. 83.
+
+[^8]: Low, M.G.C–A. (2004). Singapore from the 14th to 19th century. In J.N. Miskic & M.G.C–A, Low, (Eds.), *[Early Singapore 1300s–1819: Evidence in maps, text and artefacts](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12284523)* (pp. 16–17). Singapore: Singapore History Museum. (Call no.: RSING 959.5703 EAR)
+
+[^9]: [Miskic](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123868), 2013, p. 178.
+
+[^10]: [Miskic](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123868), 2013, pp. 7–8.
+
+[^11]: [Miskic](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123868), 2013, pp. 178–180.
+
+[^12]: [Miskic](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123868), 2013, pp. 7–13.
+
+[^13]: [Miskic](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123868), 2013, p. 169.
+
+[^14]: Su, J. (2000). Preface. In <i>Su Jing, Dao Yi Zhi Lue Jiao Shi</i> [Annotations of Dao Yi Zhi Lue] (pp. 2–3). Beijing: Zhonghua Book Company. (Not available in NLB’s holdings)
+
+[^15]: [Miskic](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123868), 2013, p. 169.
+
+[^16]: <u>Su</u>, 2000, pp. 5–6.
+
+[^17]: Su, J. (2000). Opening comments. In Su Jing, Dao Yi Zhi Lue Jiao Shi [Annotations of Dao Yi Zhi Lue] (pp. 10–11). Beijing: Zhonghua Book Company. (Not available in NLB’s holdings)
+
+[^18]: <u>Su</u>, 2000, pp. 1–2.
+
+[^19]: [Wheatley](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3283462), 1961, p. 81.
