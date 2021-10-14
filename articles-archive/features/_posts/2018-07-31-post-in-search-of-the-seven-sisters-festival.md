@@ -48,4 +48,8 @@ Multiple variants of the tale exist, but the characters and story are largely co
 <br><br>
 Stockard, J.E. (1989). <i>Daughters of the Canton delta: Marriage patterns and economic strategies in South China, 1860–1930</i>. Stanford, Calif.: Stanford University Press. (Not available in NLB holdings)</div>
 
+#### **Who, When and Where**
 
+Using the interviews as the basis for exploratory research, it is possible to piece together a fairly detailed profile of the festival. Firstly, it is clear that the festival involved many groups of people – formal organisers, informal organisers and their patrons, lay worshippers as well as casual visitors.
+
+The driving force behind the festival was the *amah* community of Chinatown, where several such clan organisations and sisterhoods were established. These *amahs* would have planned for the event months ahead, and their clan premises served as the primary festival sites in Chinatown.
