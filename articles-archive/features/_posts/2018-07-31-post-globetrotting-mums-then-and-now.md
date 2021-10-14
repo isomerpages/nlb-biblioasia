@@ -107,12 +107,40 @@ Later, after being reunited with her husband, they travelled to Linga. Despite t
 
 #### **A Mother’s Anguish**
 
-Contrary to expectations, the expatriate mother does not always lead a glamorous life, especially when she has children. Her days are less likely spent in spas and nail bars than dodging traffic while ferrying children to school or attempting to juggle work with personal time. What is little known are the challenges of a dislocated life, which could range from homesickness and loneliness to the more mundane sense of boredom as one is plucked from a sense of routine.
+*Contrary to expectations, the expatriate mother does not always lead a glamorous life, especially when she has children. Her days are less likely spent in spas and nail bars than dodging traffic while ferrying children to school or attempting to juggle work with personal time. What is little known are the challenges of a dislocated life, which could range from homesickness and loneliness to the more mundane sense of boredom as one is plucked from a sense of routine.*
 
 Harriette recognised these symptoms in both herself and among her countrymen:
 
 “It is, however, a common mistake to imagine that the life of a missionary is an exciting one. On the contrary, its trial lies in its monotony. The uneventful day, mapped out into hours of teaching and study, sleep, exercise and religious duties; the constant society of natives… who do not sympathize with your English ideas; the sameness of the climate, which even precludes discourse about the weather – all this, added to the distance from relations and friends at home, combined with the enervating effects of a hot climate, causes heaviness of spirits and despondency to single men and women”.15
 
-A greater discomfort is the pain of physical separation from loved ones. This could mean leaving aged parents behind, a spouse or even children. The separation may be for weeks or months, but often it is years. The convenience of air-travel and instant communication by email, texting and video chat bridge the separation but can never take the place of extended time with a loved one.
+*A greater discomfort is the pain of physical separation from loved ones. This could mean leaving aged parents behind, a spouse or even children. The separation may be for weeks or months, but often it is years. The convenience of air-travel and instant communication by email, texting and video chat bridge the separation but can never take the place of extended time with a loved one.*
 
 For the Victorian woman with a spouse called to travel, the woman’s first place was with the husband, even at the cost of leaving a child behind. When the McDougalls first departed England for Sarawak on 30 December 1847, Harriette left behind her eldest son Charles, just two years old then, while taking her infant child Harry with them.
+
+<img src="/images/Vol-14-issue-2/globetrotting-mums/Globetrotting7.JPG">
+<div style="background-color: white;">Harriette McDougall’s kitchen at her home in Kuching, Sarawak. The kitchen was in a separate hut away from the main house due to fire considerations. The family reared cows, pigs and chickens as food supplies were unreliable and expensive. <i>Image reproduced from the website of St Thomas Cathedral Kuching.</i></div>
+
+It is from Frank’s memoirs rather than Harriette’s that we see the emotional price she paid. “[N]o one can tell the pangs which that parting must have cost her” writes Frank. “Bravely as she had parted from her eldest child, he seems to have been ever in her thoughts, and her heart hungered for news of him”.16
+
+The pain of separation, however, gave birth to the book, *Letters from Sarawak; Addressed to a Child*, based on the carefully crafted letters she had written to her son, in the hope that this would help him understand their circumstances. She states in the preface:
+
+“All parents whose fate separates them from their little ones, during their early years, must feel anxious to lessen the distance which parts them, by such familiar accounts of their life and habits as shall give their children a vivid interest in their parents’ home”.17
+
+For the child from a well-to-do Victorian family, being sent away to boarding school at a young age was a familiar rite of passage. Early in their travels, while at Rio Grande do Sul in Brazil, Annie’s oldest son, then aged 13, took leave for England to continue his studies.
+
+“We knew the parting had to be made, but this did not lessen our grief: for although it is at all times hard to say good-bye for a long period to those nearest and dearest to you, it is especially so in a foreign land, with the prospect of a long voyage on both sides. Moreover, it is extremely uncertain when we shall hear of our boy’s safe arrival”.18
+
+For Harriette, leaving her older children Mab, Edith and Herbert in England when she returned to Sarawak in 1863 after a two-year absence was a pragmatic decision because she knew that “no English child can thrive in that unchangeable climate after it is six years old”.19 Yet it was not emotionally easy, as she shared with her sister-in-law:
+
+“Dear little ones, they are seldom out of our thoughts. It was very hard to go away this time. I still feel a tightness about my heart, and I cannot endure that people should say to us, ‘Did you leave any children in England? A great trial, is it not?‘ I cannot bear to talk of it, but everything reminds me of my darlings’”.20
+
+The Victorian mother, despite medical advancements of the time, often suffered the darkest separation – death.
+
+By August 1851, Harriette had lost five infants across a span of five years, besides having lost her second-born Harry early in her service in 1850 and her firstborn Charles in a freak accident in England in 1854. The losses not only devastated her emotionally but also physically. Yet, she was able to place the losses in the context of an eternal hope – “that it was better to have had them and lost them than never to have had them”. She looked on them as a sacred deposit in the hands of God, to be restored to her hereafter.21
+
+<img src="/images/Vol-14-issue-2/globetrotting-mums/Globetrotting8.JPG">
+<div style="background-color: white;">While in Sarawak, Harriette McDougall penned letters to her eldest child Charles between 1851 and 1853, The compilation was later published as <i>Letters from Sarawak; Addressed to a Child</i>. Through the letters, Harriette hoped to “lessen the distance” between them as well as provide “familiar accounts of [her] life and habits” in a foreign land. The book also contains illustrations by Harriette. Pictured here is a drawing titled “Sarawak from the Court House”. <i>Image reproduced from McDougall, H. (1854). Letters from Sarawak; Addressed to a Child (p. 19). London: Grant & Griffith. (Microfilm no.: NL25436).</i></div>
+
+Sickness would continue to plague the family in a hostile environment where cholera and various tropical diseases were rife, along with a poor diet and the stress of physical dangers from hostile tribes. In the end it would be poor health that would bring the McDougalls back to England in 1867 to recuperate and retire.
+
+Although Annie continued her journey with her family to other far-flung outposts after her first book, her final story would end tragically. She died on 14 September 1887 from malarial fever as the family sailed from Australia to Mauritius. Her publication, *The Last Voyage to India and Australia in the ‘Sunbeam’*,22 would be completed posthumously by her widowed husband and published in 1889.
