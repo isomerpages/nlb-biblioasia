@@ -175,4 +175,4 @@ Although Annie continued her journey with her family to other far-flung outposts
 [^19]:[McDougall](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4320846), 1882, p. 12.
 [^20]:[Bunyon](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5030878), 1889, p. 216.
 [^21]:[Bunyon](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5030878), 1889, p. 56. 
-[^22]:Brassey, A.  (1889). [The last voyage to India and Australia in the ‘Sunbeam’](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4411376). London: Longmans, Green. (Call no.: RRARE 915 BRA; Microfilm no.: NL8059)
+[^22]:Brassey, A.  (1889). [*The last voyage to India and Australia in the ‘Sunbeam’*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4411376). London: Longmans, Green. (Call no.: RRARE 915 BRA; Microfilm no.: NL8059)
