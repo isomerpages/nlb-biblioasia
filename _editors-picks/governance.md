@@ -17,9 +17,9 @@ permalink: /editors-picks/governance
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/gunpoint" target="_blank"> At Gunpoint: Wiping Out Illegal Firearms in Singapore</a>
 <p>Street shootouts, bank robberies and armed kidnappings used to be common here. Tan Chui Hua zeroes in on how the city’s gun-toting criminals were eliminated.</p> 	 
-<div style="width: 500px; height: 250px; overflow: hidden">
+<div style="width: autoeight: 250px; overflow: hidden">
 <img src="/images/Vol-16-issue-3/gunpoint/openinggun-tattoohand.jpg" style="width:800px; height: 300px; float=center"> </div>
-<hr clear="left">
+<hr>
 	 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/metric" target="_blank"> Vaccinating a Nation</a>
 <p>The history of vaccination in Singapore goes back to the days of William Farquhar. Ong Eng Chuan provides an overview of vaccination efforts to prevent epidemics from breaking out here.</p> <hr clear="left">
