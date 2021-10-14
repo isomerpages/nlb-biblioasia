@@ -144,3 +144,11 @@ By August 1851, Harriette had lost five infants across a span of five years, bes
 Sickness would continue to plague the family in a hostile environment where cholera and various tropical diseases were rife, along with a poor diet and the stress of physical dangers from hostile tribes. In the end it would be poor health that would bring the McDougalls back to England in 1867 to recuperate and retire.
 
 Although Annie continued her journey with her family to other far-flung outposts after her first book, her final story would end tragically. She died on 14 September 1887 from malarial fever as the family sailed from Australia to Mauritius. Her publication, *The Last Voyage to India and Australia in the ‘Sunbeam’*,22 would be completed posthumously by her widowed husband and published in 1889.
+
+<br>
+<div style="background-color: white;">
+<img src="/images/Vol-14-issue-2/globetrotting-mums/Globetrotting9.jpg" style="width: 100px; height: 100px;">
+<b>Bonny Tan</b> is a former Senior Librarian at the National Library, Singapore. She currently resides in Vietnam with her family and is a regular contributor to “BiblioAsia” magazine.
+</div>
+
+<a href="https://biblioasia.nlb.gov.sg/vol-14/issue-2/jul-sep-2018/"><center>Back to Issue</center></a>
