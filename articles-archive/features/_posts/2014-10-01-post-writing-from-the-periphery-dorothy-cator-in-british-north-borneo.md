@@ -93,3 +93,67 @@ Morgan, S. (1996). *[Place matters: Gendered geography in Victorian women’s tr
 Strobel, M. (1991). *[European women and the second British empire]*. Indianapolis: Indiana University Press. (Not available in NLB’s holdings)
 
 *[The Singapore and Straits directory for 1894, containing also directories of Sarawak, Labuan, Siam, Johor and the Protected Native States of the Malay Peninsula and an appendix](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5057490)*. (1890–1895). (1894). Singapore; The Singapore & Straits Printing Office. (Call no.: RRARE 382.09595 STR; Microfilm no.: NL1180)
+
+#### **NOTES**
+
+1 Cator, D. (1905). Everyday life among the head-hunters and other experiences east to west (p. 14). London: Longmans, Green and Co. (Call no.: RCLOS 991.11 CAT)
+
+2 Cator, 1905, p. 14.
+
+3 Background information on the Cators was sorely lacking in Everyday life among the head-hunters as the author generally omitted names of persons, dates and other biographical details. The following profile of Dick Cator in North Borneo was gleaned from the 1890 to 1895 editions of The Singapore and Straits Directory. Dick Cator began his stint in the British North Borneo Government in 1889/90 as a 3rd Class Magistrate at Province Alcock. By 1891, he had transferred to Sandakan, becoming a cadet in the East Coast District and a 3rd Class Magistrate at the Police Court & Court of Requests, Sandakan. He was appointed Acting Assistant Government Secretary in 1892. The next year he returned home to fetch Dorothy. The pair married in London and immediately left for North Borneo. By 1894, Dick was Secretary to the Governor and promoted to 2nd Class Magistrate. He continued to be Secretary in 1895 but relinquished his position as Magistrate. Dorothy Cator was listed in the “Ladies’ Directory” of British North Borneo for the years 1894 and 1895. The Cators ceased to be listed in the Directory from 1896 onwards.
+
+4 The Singapore and Straits directory for 1894, containing also directories of Sarawak, Labuan, Siam, Johor and the Protected Native States of the Malay Peninsula and an appendix (pp. 270, 272). (1894). Singapore; The Singapore & Straits Printing Office. (Call no.: RRARE 382.09595 STR; Microfilm no.: NL1180)
+
+5 Cator, 1905, p. 49.
+
+6 Morgan, S. (1996). Place matters: Gendered geography in Victorian women’s travel books about Southeast Asia (p. 13). New Jersey: Rutgers University Press. (Call no.: RSING 820.9355 MOR)
+
+7 Chakrabathy, D. (2000). Provincialising Europe: Postcolonial thought and historical difference (p. 5). Princeton: Princeton University Press. (Not available in NLB holdings), quoted in Levin, P. (2004). Introduction: Why gender and empire? (p. 6). In P. Levine, (Ed.), Gender and empire. New York: Oxford University Press. (Call no.: R 305.309171241 GEN)
+
+8 Han, M.L. (2003, October). From travelogues to guidebooks: Imagining colonial Singapore, 1819–1940. Sojourn: Journal of Social issues in Southeast Asia, 18 (2), 257–278, p. 259. Retrieved from JSTOR via NLB’s eResources website.
+
+9 Strobel, M. (1991). European women and the second British empire (p. xi). Indianapolis: Indiana University Press. (Not available in NLB holdings)
+
+10 Doran, C. (1998, June). Golden marvels and gilded monsters: two women’s accounts of colonial Malaya. Asian Studies Review, 22 (2), 175–192, p. 176. Retrieved from Taylor & Francis Online website.
+11 Cator, 1905, Introduction.
+
+12 Morgan, 1996, p. 19.
+
+13 Cator, 1905, p. 52.
+
+14 Cator, 1905, p. 26.
+
+15 Cator, 1905, p. 25.
+
+16 Cator, 1905, p. 56.
+
+17 Cator, 1905, pp. 60–61.
+
+18 Cator, 1905, p. 24.
+
+19 Cator, 1905, p. 47.
+
+20 Cator, 1905, p. 102.
+
+21 Cator, 1905, p. 47.
+
+22 Levine, 2004, p. 7.
+
+23 Levine, 2004, p. 7.
+
+24 Cator, 1905, p. 16.
+
+25 Cator, 1905, p. 15.
+
+26 Cator, 1905, p. 15.
+
+27 Meaning to adopt local ways, for example, in dress, language, mannerisms, diet and so on.
+
+28 Brownfoot, J.N. (1984). Memsahibs in colonial Malaya: A study of European wives in a British colony and protectorate 1900–1940 (pp. 189–190). In H. Callan & S. Ardener (Eds.), The incorporated wife. London: Croom Helm. (Not available in NLB holdings)
+29 Cator, 1905, p. 15.
+
+30 Cator, 1905, pp. 15–16.
+
+31 Cator, 1905, p. 61.
+
+32 Cator, 1905, pp. 105–106.
