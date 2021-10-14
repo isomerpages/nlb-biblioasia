@@ -2,24 +2,18 @@
 title: Literature
 permalink: /editors-picks/literature
 ---
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-4/jan-march-2015/on-the-trail" target="_blank">On the Trail of Francis P. Ng: Author of F.M.S.R.</a>
-<p>In her effort to republish one of our unknown literary treasures, Dr Eriko Ogihara-Schuck tracks down the elusive Francis P. Ng, author of possibly the first notable work of poetry in English by a Singapore writer.</p> 
-<img style="width:100%;" 
-		src="/images/vol-10-issue-4/francispng/The_Waste_Land_re.jpg">
-<hr>
-
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-4/jan-mar-2017/ties-that-bind" target="_blank">Ties that Bind: The Story of Two Brother Poets</a>
 <p>An American Studies scholar unravels a decades-old mystery surrounding a bone fragment and uncovers a brotherly bond from beyond the grave. Michelle Heng has the story.</p> 
 <img style="width:100%;" 
 		src="/images/Vol-12-issue-4/ties-that-bind/3-note.jpg">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-4/jan-march-2015/on-the-trail" target="_blank">On the Trail of Francis P. Ng: Author of F.M.S.R.</a>
+<p>In her effort to republish one of our unknown literary treasures, Dr Eriko Ogihara-Schuck tracks down the elusive Francis P. Ng, author of possibly the first notable work of poetry in English by a Singapore writer.</p> 
+<hr>
  
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-1/apr-jun-2021/manvsnature" target="_blank"> Man vs Nature: Speculative Fiction and the Environment</a>
 <p>Jacqueline Lee surveys the landscape of Singapore speculative fiction to see how writers address pressing environmental concerns in their novels and short stories.</p>  
-<hr>
-
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/sangnila" target="_blank"> Sang Nila Utama: Separating Myth From Reality</a>
-<p>The Malay prince who founded Singapura in the 13th-century is a controversial figure – depending on which account of the Sejarah Melayu you read, says Derek Heng.</p>  
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-1/apr-jun-2021/malay-magic" target="_blank">Finding Magic Everywhere</a>
@@ -27,6 +21,11 @@ permalink: /editors-picks/literature
 <img style="width:500px;" 
 		src="/images/Vol-17-issue-1/magic/malaymagic.png">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/sangnila" target="_blank"> Sang Nila Utama: Separating Myth From Reality</a>
+<p>The Malay prince who founded Singapura in the 13th-century is a controversial figure – depending on which account of the Sejarah Melayu you read, says Derek Heng.</p>  
+<hr>
+
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-1/apr-jun-2021/poetry" target="_blank">The Nature of Poetry: An Odyssey Across Time </a>
 <p>Michelle Heng takes us on a journey to see how poets writing in English have charted the changing contours of Singapore and Malaya over the course of the 20th century.</p> 
