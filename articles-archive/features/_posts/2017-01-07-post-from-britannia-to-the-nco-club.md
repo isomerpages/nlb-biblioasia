@@ -51,11 +51,11 @@ The offspring of British servicemen recall blissful times spent at the club. Mos
 
 <img style="height:0px" src="/images/space1.png">
 
-|**BE MY PIN-UP GIRL**|
-
-|Suddenly for a few weeks in March 1956, Wrens, Wracs and Wrafs – acronyms for British servicewomen in the army, navy and air force – at the Britannia Club started primping and preening themselves. The reason: NAAFI in Britain had launched a worldwide “Beauty in Uniform” competition, and the winner could find herself the pin-up girl for homesick British servicemen all over the world. Soldiers were encouraged to send photos of servicewomen in uniform to the NAAFI office in Britain.|
-
-|*The Straits Times* reported, rather tongue-in-cheek on 20 February 1956, that “British troops at the Britannia Club Singapore approved enthusiastically when told of the competition… Said Private James Love of the King’s Own Scottish Borderers: ‘First-class idea. I haven’t been here long, but I’ve already met a couple of lasses who could give any film star a run for her money. I am going right out to buy myself a camera!’”[^11]|
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>BE MY PIN-UP GIRL</b>
+<br><br>
+Suddenly for a few weeks in March 1956, Wrens, Wracs and Wrafs – acronyms for British servicewomen in the army, navy and air force – at the Britannia Club started primping and preening themselves. The reason: NAAFI in Britain had launched a worldwide “Beauty in Uniform” competition, and the winner could find herself the pin-up girl for homesick British servicemen all over the world. Soldiers were encouraged to send photos of servicewomen in uniform to the NAAFI office in Britain.
+<br><br>
+<i>The Straits Times</i> reported, rather tongue-in-cheek on 20 February 1956, that “British troops at the Britannia Club Singapore approved enthusiastically when told of the competition… Said Private James Love of the King’s Own Scottish Borderers: ‘First-class idea. I haven’t been here long, but I’ve already met a couple of lasses who could give any film star a run for her money. I am going right out to buy myself a camera!’”[^11]</span>
 
 #### **Exit Britannia**
 
@@ -114,13 +114,13 @@ However, with Beach Road Camp earmarked for redevelopment in the mid- 1990s, it 
 
 In 2000, the last battalion at Beach Road Camp moved out and a year later, in October 2001, the SAF WOSE Club relocated to a new clubhouse at Boon Lay Way with a new identity. The clubhouse was officially opened on 8 February 2002 by Tony Tan, who was the Deputy Prime Minister and Minister for Defence at the time. Its new identity, THE CHEVRONS, signifies the V-shaped stripes worn by all Warrant Officers and Specialists.[^22]
 
-|**SAFE SUPERMARKET FOR SUPER SAVINGS**|
-
-|In early 1973, Minister for Defence Goh Keng Swee mooted the idea of setting up a special shop where SAF personnel and their families could purchase discounted goods such as groceries and electrical items.|
-
-|The concept was inspired by the so-called PX (or Post Exchange) stores in American military bases, where both active and retired military personnel could buy food and basic household items at marked-down prices. The idea could not have been more welcome in 1973 as Singapore had been battling with runaway inflation triggered by the global oil crisis.|
-
-|A non-profit business arm of the military was set up called SAF Enterprises, or in short, SAFE. The intention was for these no-frills SAFE stores to pass on the savings accrued from rentfree premises and bulk purchases to military personnel and their families.[^23]|
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>SAFE SUPERMARKET FOR SUPER SAVINGS</b>
+<br><br>
+In early 1973, Minister for Defence Goh Keng Swee mooted the idea of setting up a special shop where SAF personnel and their families could purchase discounted goods such as groceries and electrical items.
+<br><br>
+The concept was inspired by the so-called PX (or Post Exchange) stores in American military bases, where both active and retired military personnel could buy food and basic household items at marked-down prices. The idea could not have been more welcome in 1973 as Singapore had been battling with runaway inflation triggered by the global oil crisis.
+<br><br>
+A non-profit business arm of the military was set up called SAF Enterprises, or in short, SAFE. The intention was for these no-frills SAFE stores to pass on the savings accrued from rentfree premises and bulk purchases to military personnel and their families.[^23]</span>
 
 <div style="background-color: white;"><img src="/images/Vol-12-issue-4/from-britannia-to-nco-club/7-britannia-nco.jpg">The Singapore Armed Forces (SAF) established SAFE supermarkets at the Dempsey Road Camp and NCO Club, selling food and basic household items at discounted prices to military servicemen and their families. The biggest draw was the duty-free beer, which sold at less than half the retail price. <i>Courtesy of MINDEF.</i></div>
 
