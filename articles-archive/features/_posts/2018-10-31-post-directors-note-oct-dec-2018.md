@@ -6,7 +6,7 @@ layout: post
 ---
 <img src="/images/Vol-14-issue-3/vol14_iss3.JPG">
 
-How quickly the last quarter of the year is upon us! Welcome to the final issue of BiblioAsia for 2018.
+How quickly the last quarter of the year is upon us! Welcome to the final issue of *BiblioAsia* for 2018.
 
 The first automobiles were imported into Singapore in 1896, and shortly after, print advertisements began appearing in newspapers and magazines, enticing consumers with ever creative ways to part with their money for a new set of wheels. In the cover story, [Mazelan Anuar](https://nlb-ba-staging.netlify.app/vol-14/issue-3/oct-dec-2018/wheels-of-change/) tracks the rise of the automobile scene in Singapore, from carriages drawn by horse, bullock and human to the advent of the first cars – advertised as “horseless carriages” – from the late 19th century onwards.
 
@@ -20,15 +20,15 @@ Another edifice of historical significance is the Kranji War Cemetery, the final
 
 Interestingly, the first two Western-style pharmacies established in Singapore – the Medical Hall on Battery Road and the Medical Office on North Bridge Road – were started by German émigrés in the late 19th century. [Timothy Pwee](https://nlb-ba-staging.netlify.app/vol-14/issue-3/oct-dec-2018/german-med-deity-sg/) traces the 120-year-history of the Medical Office until its fairly recent closure in 2012.
 
-Does traditional Malay medicine have more in common with science or magic and folklore? [Nadirah Norruddin](https://nlb-ba-staging.netlify.app/vol-14/issue-3/oct-dec-2018/magic-or-med-m-heal/) goes further back into our history to demystify the myths surrounding the age-old practice of Malay medicine and reports how it has evolved since colonial times when the British saw Malay village healers as little more than charlatans.
+Does traditional Malay medicine have more in common with science or magic and folklore? Nadirah Norruddin goes further back into our history to demystify the myths surrounding the age-old practice of Malay medicine and reports how it has evolved since colonial times when the British saw Malay village healers as little more than charlatans.
 
 With gender-related issues so much in the news today, [Phyllis Chew](https://nlb-ba-staging.netlify.app/vol-14/issue-3/oct-dec-2018/blazing-a-trail/) takes a look at the history of the Singapore Council of Women (SWC). Spearheaded in 1952 by activist Shirin Fodzar to break down barriers in society, the SWC was an instrumental force in the enactment of the Women’s Charter in 1961.
 
 In another, and mellower, look at women, [Robert Yeo](https://nlb-ba-staging.netlify.app/vol-14/issue-3/oct-dec-2018/an-ode-to-two-women/) pays tribute to his daughter Sha Min and the acclaimed writer Catherine Lim, in an extract from a forthcoming sequel to his memoir, *Routes: A Singaporean Memoir 1940–1975*.
 
-Finally, we showcase two collections from the National Library: [Ong Eng Chuan](https://nlb-ba-staging.netlify.app/vol-14/issue-3/oct-dec-2018/papers-from-past/) previews significant items from the Lee Kip Lee and Lee Kip Lin Family Archives of personal and business papers belonging to a prominent Peranakan family in British Malaya; while [Barbara Quek](https://nlb-ba-staging.netlify.app/vol-14/issue-3/oct-dec-2018/makan-place-coffee-s/) highlights publications featuring some of Singapore’s best hawker stalls from our Legal Deposit Collection.
+Finally, we showcase two collections from the National Library: Ong Eng Chuan previews significant items from the Lee Kip Lee and Lee Kip Lin Family Archives of personal and business papers belonging to a prominent Peranakan family in British Malaya; while Barbara Quek highlights publications featuring some of Singapore’s best hawker stalls from our Legal Deposit Collection.
 
-On the subject of Legal Deposit, I should take this opportunity to highlight the recent amendment to the National Library Board Act which now allows us to archive Singapore websites without having to seek the express permission of website owners. [Shereen Tay](https://nlb-ba-staging.netlify.app/vol-14/issue-3/oct-dec-2018/archive-sg-wide-web/) stresses the importance of systematically archiving the often ephemeral nature of web content for our future generations.
+On the subject of Legal Deposit, I should take this opportunity to highlight the recent amendment to the National Library Board Act which now allows us to archive Singapore websites without having to seek the express permission of website owners. Shereen Tay stresses the importance of systematically archiving the often ephemeral nature of web content for our future generations.
 
 We hope you enjoy reading this edition of *BiblioAsia*.
 
