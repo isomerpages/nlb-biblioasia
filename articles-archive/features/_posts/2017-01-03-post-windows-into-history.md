@@ -233,7 +233,7 @@ A triptych is typically a work of art that is divided into three sections. A tri
 <br><br>
 <i>Readers who are interested in reading more about church architecture may refer to How to Read Churches: A Crash Course in Ecclesiastical Architecture</i> by Denis Robert McNamara available at the library@orchard.[^15]</span>
 
-The authors would like to acknowledge Wee Sheau Theng, Carolyn Lim, Soon-Tzu Speechley and Martina Yeo for their invaluable help in the course of this research.
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> The authors would like to acknowledge Wee Sheau Theng, Carolyn Lim, Soon-Tzu Speechley and Martina Yeo for their invaluable help in the course of this research.</span>
 
 <div style="background-color: white;">
 <br>
