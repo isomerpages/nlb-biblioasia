@@ -12,4 +12,12 @@ layout: post
 *My son, all of six months old, months old, was on his first flight out of Singapore, ensconced in a bassinet that hung precariously in front of me. With my backpack holding both laptop and milk bottles stashed in the overhead compartment, I wondered how this journey and new living arrangement – of commuting for work between two countries with a child in tow – would pan out. Peering out of the window into the vast blue sea beneath, it struck me that for centuries, mothers and their children have made such journeys for various reasons and under more harrowing circumstances – many of whom never lived long enough to return home.*
 
 <img src="/images/Vol-14-issue-2/globetrotting-mums/Globetrotting2.JPG">
-<div style="background-color: white;"></i></div>
+<div style="background-color: white;">The writer Bonny and her son Bryan enjoying the day at Mui Ne, a beach resort town along the South China Sea in southeast Vietnam, in 2011. Bryan was about three years old then. <i>Courtesy of Bonny Tan.</i></div>
+
+#### **A Mother’s Perspective**
+
+Many of the early 19th-century travel accounts were written by men – mostly commissioned by their government, a scientific institution or a royal benefactor. Their descriptions were invariably functional, with a bias towards trade, land acquisition or research, rather than personal in nature. While adventurous women such as Isabella Bird would later gain fame for their travel writing, many were usually single and explored the world sans husband and children.
+
+Published accounts of mothers in the 19th century who travelled to new lands with their families are rare. Harriette McDougall and Anna “Annie” Brassey were two such Victorian-era mothers who penned their adventures abroad with their children. Their circumstances, however, could not have been more different.
+
+While Harriette set up home with her family – living among the local people – in the disease-ridden jungles of Sarawak in 1847, Annie travelled with her family in relative comfort on board a private schooner, the *Sunbeam*, calling in at various ports around the world. Annie’s well-documented journey began in 1876, almost three decades after Harriette’s sojourn.
