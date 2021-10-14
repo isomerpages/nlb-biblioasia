@@ -173,7 +173,7 @@ The public spaces developed for encounters with crocodiles question the notion o
 [^8]:[Page 10 Advertisements Column 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19810322-1.2.57.1). (1981, March 22). *The Straits Times*, p. 10; Chia, M. (1988, September 4). [Croc park to open soon in Jurong](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880904-1.2.14.5). *The Straits Times*, p. 12; Goh, K. (1988, December 15). [A big bite of the business](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper19881215-1.2.23.1). *The New Paper*, p. 18. Retrieved from NewspaperSG.
 [^9]:Lim, S. (1989, March 7). [Croc bites trainer during show](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19890307-1.2.27.20). *The Straits Times*, p. 18. Retrieved from NewspaperSG.
 [^10]:[Paradise lost](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20070126-1.2.9.5). (2007, January 26). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
-[^11]:
+[^11]:Yee, A.T.K., et al. (2010, June 4). The present extent of mangrove forests in Singapore. *Nature in Singapore, 3*, 139–145. Retrieved from Lee Kong Chian Natural History Museum website.
 [^12]:
 [^13]:
 [^14]:
@@ -183,7 +183,7 @@ The public spaces developed for encounters with crocodiles question the notion o
 [^18]:
 [^19]:
 [^20]:
-Yee, A.T.K., et al. (2010, June 4). The present extent of mangrove forests in Singapore. Nature in Singapore, 3, 139–145. Retrieved from Lee Kong Chian Natural History Museum website.
+
 Yee, et.al, 4 Jun 2010.
 Clerk keeps all-night vigil at creek for a 20-ft. crocodile. (1960, March 17). The Straits Times, p. 14. Retrieved from NewspaperSG.
 Croc scares fishermen. (1960, March 18). The Straits Times, p. 16. Retrieved from NewspaperSG.
@@ -192,4 +192,4 @@ Kramat, or keramat, from Arabic karama, translated as “miracle”. Whilst ofte
 They offer a silent prayer to ‘sacred’ crocodile. (1960, April 19). The Singapore Free Press, p. 7. Retrieved from NewspaperSG.
 Richards, A. (1960, June 29). Villagers to hold a feast for kramat to scare away crocs in the canal. The Singapore Free Press, p. 9. Retrieved from NewspaperSG.
 Shy croc in a flower pond spreads fear among kampong folk. (1960, August 17). The Singapore Free Press, p. 9. Retrieved from NewspaperSG.
-Abdullah Abdul Kadir. (1918). The autobiography of Munshi Abdullah (W.G. Shellabear, Trans). Singapore: Printed at the Methodist Pub. House. Retrieved from BookSG. 
+Abdullah Abdul Kadir. (1918). The autobiography of Munshi Abdullah (W.G. Shellabear, Trans). Singapore: Printed at the Methodist Pub. House. Retrieved from BookSG.
