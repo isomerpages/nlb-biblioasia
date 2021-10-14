@@ -6,7 +6,10 @@ layout: post
 ---
 #### **Lee Meiyu** offers us a glimpse of pre-colonial Singapore as seen through the eyes of the 14th-century Chinese traveller Wang Dayuan.
 
-Lot’s Wife and W. W. Ker’s house on Bukit Chermin in 1845 or 1848. <i>Courtesy of National Museum of Singapore, National Heritage Board.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-3/tales/cover.jpg">
+Lot’s Wife and W. W. Ker’s house on Bukit Chermin in 1845 or 1848. <i>Courtesy of National Museum of Singapore, National Heritage Board.</i></div>
 
 The strait runs between the two hills of the Tan-ma-hsi barbarians, which look like “dragon teeth”. Through the centre runs a waterway. The fields are barren and there is little padi. The climate is hot with very heavy rains in the fourth and fifth moons. The inhabitants are addicted to piracy. In ancient times, when digging the ground, a chief came upon a jewelled head-dress. The beginning of the year is calculated from the [first] rising of the moon, when the chief put on his head-gear and wore his [ceremonial] dress to receive the congratulations [of the people]. Nowadays this custom is still continued. The natives and the Chinese dwell side-by-side. Most [of the natives] gather their hair in chignons, and wear short cotton bajus girded about with black cotton sarong.
 
@@ -14,7 +17,10 @@ Indigenous products include coarse lakawood and tin. The goods used in trade are
 
 When junks sail to the Western Ocean, the local barbarians allow them to pass unmolested but when on their return the junks reach Chi-limen (Karimon), [then] the sailors prepare their armour and padded screens as a protection against arrows for, of a certainty, some two or three hundred pirate prahus will put out to attack them for several days. Sometimes [the junks] are fortunate enough to escape with a favouring wind; otherwise the crews are butchered and the merchandise made off with in quick time.[^1]
 
-Print from <i>Illustrated London News</i> showing Her Majesty’s ship, <i>Royalist</i>, being chased by a fleet of Malay pirates at Endeavour Straits (near Palawan Island), drawn by Captain Bate of the <i>Royalist</i>. The highland in the background is Malampaya Table (1852). <i>Courtesy of National Archives of Singapore.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-3/tales/Illustrated_London_News.jpg">
+Print from <i>Illustrated London News</i> showing Her Majesty’s ship, <i>Royalist</i>, being chased by a fleet of Malay pirates at Endeavour Straits (near Palawan Island), drawn by Captain Bate of the <i>Royalist</i>. The highland in the background is Malampaya Table (1852). <i>Courtesy of National Archives of Singapore.</i></div>
 
 Piracy, pillage, ancient rituals and barbarians – hardly a picture associated with the soaring skyscrapers and success of modern Singapore. Yet, this is how Wang Dayuan (汪大渊), the intrepid 14th-century traveller from Quanzhou (泉州), China, describes Dragon’s Tooth Strait (龙牙门or <i>Longyamen</i>), a place now identified as the western entrance of Keppel Harbour in former times.[^2]
 
@@ -40,31 +46,27 @@ Wang’s detailed observations also reveal the different attires worn by locals 
 
 Early texts such as Wang Dayuan’s travel accounts are important in the study of Singapore’s pre-colonial history. The Bugis, Siamese, Malay, Arabs and Chinese were active in Southeast Asia’s waters long before the European powers (Portuguese, Dutch and British) were involved in the power struggle for the region’s trade and hegemony. Fortunately, Chinese sources have been relatively well-documented and maintained, thus ensuring the survival of important ancient texts and offering us a glimpse into Singapore’s past.
 
-Map of the environs of ancient Singapore. Based on descriptions in the <i>Dao Yi Zhi Lue, the Sejarah Melayu,</i> and on remains still visble at the beginning of the 19th century.[^19] All rights reserved. <i>The Golden Khersonese: Studies in the historical geography of the Malay Peninsula before A.D. 1500</i>, 1961, Wheatley, P., University of Malaya Press, Kuala Lumpur.
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-3/tales/map.jpg">
+Map of the environs of ancient Singapore. Based on descriptions in the <i>Dao Yi Zhi Lue, the Sejarah Melayu,</i> and on remains still visble at the beginning of the 19th century.[^19] All rights reserved. <i>The Golden Khersonese: Studies in the historical geography of the Malay Peninsula before A.D. 1500</i>, 1961, Wheatley, P., University of Malaya Press, Kuala Lumpur.</div>
 
-Construction of the new harbour in the 1880s, which was renamed Keppel Harbour in 1900. <i>Courtesy of National Archives of Singapore.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-3/tales/Kappel_Habour.jpg">
+Construction of the new harbour in the 1880s, which was renamed Keppel Harbour in 1900. <i>Courtesy of National Archives of Singapore.</i></div>
 
-**Who Was Wang Dayuan?**
-
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba; display:block; font-size:1rem; line-height:1.5rem;"> 
+<b>Who Was Wang Dayuan?</b>
+<br><br>
 Wang Dayuan, also known as Huanzhang (焕章), was born around 1311 in Nanchang (南昌), a prosperous port in Jiangxi (江西) Province, Quanzhou, China.[^13] He was the first Chinese to write extensively about Southeast Asia based on his personal experiences and published them in <i>Dao Yi Zhi Lue</i> (《岛夷志略》or <i>Description of the Barbarians of the Isles in Brief).</i> Before Wang’s book, there were several travel accounts written by others. However, these accounts were either based on hearsay or not as extensively documented as Wang’s list of 99 locations.[^14] Furthermore, Wang’s book contains the earliest surviving eyewitness account of ancient Singapore.[^15] These factors make <i>Dao Yi Zhi Lue</i> a valuable source on the pre-colonial history of Southeast Asia and Singapore.
-
+<br><br>
 Wang’s book was originally published in 1349 as an appendix in a local gazetteer <i>Qing Yuan Xu Zhi</i> (《清源续志》or <i>A Continuation of the History and Topography of Quanzhou)</i> by Wu Jian (吴鉴). In the preface, Wu stated that Wang travelled overseas twice and the account was a result of Wang tidying his notes written during the course of his two trips.[^16] Scholars have placed the years of the trips around 1330 and 1337 respectively.[^17]
-
-In his own postscript, Wang stated that the 1349 edition was known as <i>Dao Yi Zhi</i> (《岛夷志》or <i>Description of the Barbarians of the Isles)</i>. Another preface written by Zhang Zhu (张翥) relates that the account was re-published as a standalone travel account in 1350 in Nanchang, China. This particular edition is known as <i>Dao Yi Zhi Lue.</i>[^18]
+<br><br>
+In his own postscript, Wang stated that the 1349 edition was known as <i>Dao Yi Zhi</i> (《岛夷志》or <i>Description of the Barbarians of the Isles)</i>. Another preface written by Zhang Zhu (张翥) relates that the account was re-published as a standalone travel account in 1350 in Nanchang, China. This particular edition is known as <i>Dao Yi Zhi Lue.</i>[^18]</span>
 
 <p style="font-size:15px;"><b>Lee Meiyu</b> is a Librarian with the National Library of Singapore. She is co-writer of publications such as Money by Mail to China: Dreams and Struggles of Early Migrants and Roots: Tracing Family Histories – A Resource Guide.</p>
-<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba; display:block; font-size:1rem; line-height:1.5rem;"> 
-<b>SPY MUSIC</b>
-<br><br>
-The music[^1] for <i>Five Ashore in Singapore</i> was composed by renowned French composer Antoine Duhamel, who had just begun his career by scoring French New Wave films by legendary directors Jean-Luc Godard and François Truffaut. At the request of <i>Five Ashore</i>’s director Bernard Toublanc-Michel, he composed <i>Somewhere in Singapore</i> (also known as the Marines’ March – “La marche des Marines” in French) with lyrics by Jimmy Parramore.
-<br><br>
-<img style="width: 420px; height: 420px;" src="/images/hero-banner.png">Cover of the French record album of <i>Five Ashore in Singapore</i>, 1967. The music for the film was composed by renowned French composer Antoine Duhamel. © Barclay Editions. <i>Courtesy of Raphaël Millet.</i>
-<br><br>
-Quite brazenly, the song was directly based on the melody of the now iconic <i>[Yellow Submarine](https://google.com)</i>, the Beatles’ number one hit in 1966. Indeed, Toublanc-Michel had asked his actors who played the five Marines to stride out of Clifford Pier with the Beatles’ song playing in their heads, so as to lend a certain rhythm to their swagger.
-<br><br>
-Other melodies with no lyrics composed by Duhamel include <i>Paradise Limited</i> for the club scene and <i>Thème de la drogue</i> (the drug theme) for the opium den scene. </span>
 
-[^1]:Sam, J. (1966, October 1). [Solved-that Men from U.N.C.L.E riddle](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19661001-1.2.93). *The Straits Times*, p. 12; [When the kissing couldn’t even get started](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19661002-1.2.32). (1966, October 2). *The Straits Times*, p. 3. Retrieved from NewspaperSG.
 <a href="https://biblioasia.nlb.gov.sg/vol-10/issue-3/oct-dec-2014/"><center>Back to Issue</center></a>
 
 #### **REFERENCES**
