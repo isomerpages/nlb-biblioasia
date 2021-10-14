@@ -4,6 +4,11 @@ date: 2014-10-01
 permalink: /vol-10/issue-3/oct-dec-2014/aw-boon-haw
 layout: post
 ---
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-3/tigerbalm/Aw_Boon_Haw.jpg">
+资料来源：傅无闷主编《星洲日报二周年纪念刊》（新加坡：星洲日报社,1931)</div>
+
 This article on Aw Boon Haw explores how he advertised Tiger Balm products in Singapore newspapers and their impact on the consumer. Aw Boon Haw is perhaps bestknown for establishing the Chinese cure-all ointment, Tiger Balm. He was also responsible for the construction of Haw Par Villa. The period covered by the research is from 1916–1954. This article recounts how Aw Boon Haw shaped the image of his legendary products through storytelling and promises of health and wellness to the consumer. The article concludes that Aw’s success was mainly due to his unique storytelling skills.
 
 #### **一、导言**
@@ -20,13 +25,17 @@ This article on Aw Boon Haw explores how he advertised Tiger Balm products in Si
 
 胡文虎（1882–1954）出生于缅甸仰光，是祖籍中国福建省永定县的客家人。其父胡子钦在缅甸仰光设立了永安堂国药行。因长兄早殇，仅剩他和弟弟文豹两兄弟。他在十岁时被父亲送回侨乡接受私塾教育（吴尔芬、张侃，2005）。四年后，再回到仰光随父专习业务及医术。1908年父亲过世后，胡氏兄弟便继承了永安堂。在两人同心合作下，业务日渐发展。后来，鉴于仰光地处偏僻，不利于业务发展，于是胡氏回中国考察，并到香港、暹罗、日本等地游历，考察各大中西药房。返回仰光后，便着手扩充药行，最后制成万金油、头痛粉、清快水、八卦丹问世。由于药效显著，因此畅销印度、缅甸和马来亚等地，并于1926年正式将虎标永安堂总行与药厂迁至新加坡（关楚璞，1940）。除了在马来亚及南洋各地设立分行外，又到香港设立分行；后来为了供应中国及海外市场，又于汕头设立药厂，并在中国各大城市及南洋各属广设分行。
 
-Source: <i>Malayan Saturday Post</i>, 21 May 1927 ,p. 32.
-
-资料来源：傅无闷主编《星洲日报二周年纪念刊》（新加坡：星洲日报社,1931)
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-3/tigerbalm/Malayan_Saturday_Post.jpg">
+Source: <i>Malayan Saturday Post</i>, 21 May 1927 ,p. 32.</div>
 
 胡文虎不仅在商业上有卓越的成就，亦特别致力于文化、教育、慈善与卫生等事业。对于财富，始终秉持着“取之社会，用之社会”的宗旨，并以建立学校、创办医院、设立报馆，为服务社会的三大事业（关楚璞，1940）。1954年9月4日，因心脏病爆发而逝世，享年72岁（Straits Times , 6 September , 1954）。他离世时，也是一名银行家、金融家、实业家和多家报馆的老板，当时他名下的星系报业有限公司，在东南亚共有13家报馆（古玉梁，2005）。他的慈善事业遍布中国、香港、马来亚以及东南亚各地，有人估计他一生中总共捐出超过一千万元；他曾获颁大英帝国勋章（O.B.E.）和圣约翰骑士勋章（Straits Times, 6 September, 1954）。
 
-Source: <i>The Straits Times</i>, 13 August 1946, p.3. All rights reserved, Singapore Press Holdings.
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-3/tigerbalm/micky_makes_magic.jpg">
+Source: <i>The Straits Times</i>, 13 August 1946, p.3. All rights reserved, Singapore Press Holdings.</div>
 
 #### **三、虎标四大良药的故事**
 
@@ -40,7 +49,10 @@ Source: <i>The Straits Times</i>, 13 August 1946, p.3. All rights reserved, Sing
 
 万金油的“万能”也体现在“跨越古今、横跨中西”这一方面。《星中日报》，1936年2月4日的广告将古代的仕女和现代的女泳将并列，以中英文强调它的疗效是经得起时间考验的。另外一则广告所描绘的则是来自全球的各族一同指着万金油，再以中英双语标出“全球人士无不公认虎标万金油为治病最有效之圣药/虎标万金油能治百病，用法简便，且又经济”（《星中日报》，1936年5月25日）。这暗示了它的功效是跨越国界的。二战后，最受欢迎的卡通人物米奇老鼠还成为万金油广告的主角。在某种程度上，这不仅反映了新加坡40年代的次文化，也显示出胡文虎对时代潮流的敏锐。
 
-资料来源：《新国民日报》，1923年5月1日，第16版。
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-3/tigerbalm/fai_di_sek.jpg">
+资料来源：《新国民日报》，1923年5月1日，第16版。</div>
 
 **（二）虎标头痛粉**
 
@@ -58,7 +70,10 @@ Source: <i>The Straits Times</i>, 13 August 1946, p.3. All rights reserved, Sing
 
 这则广告不仅强调八卦丹能促进夫妻间的感情，还强调其价格廉宜，能解决男女口臭的根本问题（《新国民日报》，1923年9月15日）。在之后的广告中，八卦丹还成了解决离婚案的“圣药”（《叻报》，1923年11月1日）。广告中表示这些夫妻关系间的障碍，归根结底皆是由口臭所造成的，因此只要服用八卦丹，问题就能迎刃而解。演变到后来，此一好消息就连动物界（老鼠）也知晓（《总汇新报》，1924年10月11日）。这类似动物寓言的情节，甚至比迪斯尼更早出现，不得不佩服胡文虎天马行空的想象力。八卦丹的传奇也延伸至其他人际关系以及各行各业：因为口臭不仅拦阻了夫妻间的感情，也阻碍了个人事业的发展，而八卦丹能解决口臭问题，因此继而能促进商业和生意兴隆（《叻报》，1923年12月28日）。这其实也在暗示着八卦丹等于幸福美满的人生，是造福人群的灵丹妙药。由此可见，其实胡文虎卖的不只是药品，而是一种生活方式和理想生活的美好愿景。
 
-资料来源：《新国民日报》，1923年9月15日，第15版。
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-3/tigerbalm/ba_gua_dan.jpg">
+资料来源：《新国民日报》，1923年9月15日，第15版。</div>
 
 除了以上的功效外，八卦丹还宣称可帮助戒除鸦片、烟酒，并重整人生（《新国民日报》，1924年2月1日；《叻报》，1924年6月6日）。这不仅反映了当时华侨社会中还普遍存在着吸鸦片的恶习，也反映了胡文虎致力倡导禁烟运动。胡氏就曾慷慨捐助新加坡的戒烟（Singapore Free Press, 18 March 1937; Straits Times, 20 March 1934）。
 
@@ -100,7 +115,10 @@ Source: <i>The Straits Times</i>, 13 August 1946, p.3. All rights reserved, Sing
 
 以上的分析虽然只是冰山一角，然而却足以说明胡文虎善用各种现代广告语言来促销虎标药品。相比之下，同时期其他同类广告的表达方式则乏善可陈，十年如一日。例如：20、30年代，市面上曾出现一种与虎标万金油类似的西式止痛药膏——德国鹰标万安油（《总汇新报》，1933年8月16日）。
 
-资料来源：《新国民日报》，1923年5月1日，第16版
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-3/tigerbalm/de_guo_wan_an_you.jpg">
+资料来源：《新国民日报》，1923年5月1日，第16版</div>
 
 #### **五、结论**
 
