@@ -103,3 +103,33 @@ The Lee Kip Lin collection can be accessed on PictureSG at http://eresources.nlb
 <p style="font-size:15px;"><b>Bonny Tan</b> is a Senior Librarian with the National Library of Singapore. She has researched the Lee Kip Lee Collection over several years since it was first donated to the National Library Board. Her published work on the Baba Bibliography and the Gibson-Hill Collection amply qualify her to write on Lee’s life and his collection.</p>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-10/issue-3/oct-dec-2014/"><center>Back to Issue</center></a>
+
+#### **REFERENCES**
+
+Durai, J. (2011, July 15). [Architect Lee Kip Lin dies](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20110715-1.2.77.3). <i>The Straits Times</i>, p. 3. Retrieved from NewspaperSG.
+
+Gibson-Hill, C.A. (1954, May). Singapore: Notes on the history of the Old Strait, 1580–1850. <i>Journal of the Malayan Branch of the Royal Asiatic Society</i>, 27 (1) (165), 163–214. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+
+Lee, K.L. (1995). *[Amber sands: A boyhood memoir](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7481472)*. Singapore: Federal Publications. (Call no.: RSING 920.71 LEE)
+
+Low, L.L. (Interviewer). (1984, May 29). *[Oral history interview with Lee Kip Lin](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/d/decabba1-115d-11e3-83d5-0050568939ad-OHC000016_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&&pn=15)* (Transcript of MP3 recording no. 000016/16/01, p. 1). Retrieved from National Archives of Singapore website.
+
+NUS Department of Architecture. (2011). *[NUS design](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13765047)* (p. 322). Singapore: Department of Architecture, School of Design and Environment, National University of Singapore. (Call no.: RSING 720.7115957 NUSDA)
+
+Lim, L., & Humphrey, N. (2005, October 26). [One mad life story](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20051026-1.2.57.1). <i>Today</i>, p. 46. Retrieved from NewspaperSG.
+
+National Library. (2011). *[Lee Kip Lin](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1824_2011-08-03.html)* written by Tan, Joanna Hwang Soo. Retrieved from Singapore Infopedia website.
+
+Tay, K.S. (1985, June 26). Oral history interview with Lee Kip Lin.
+
+Tan, B. (2011, December 20). Oral history interview with Tay Kheng Soon.
+
+Tan, B. (2011, December 22). Oral history interview with David Lim.
+
+Tan, B. (2012, June 6). Oral history interview with Bobby Wong.
+
+Tan, B. (2012, June 6). Oral history interview with Tse Swee Ling
+
+Tay, S.C. (2010, June 12). [A happy man of many words](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20100612-1.2.110.4.3). <i>The Straits Times</i>, p. 8. Retrieved from NewspaperSG.
+
+Taylor, T.G. (1951). *[Urban geography: A study of site, evolution, pattern and classification in villages, towns and cities](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13220036)*. London, Methuen; New York, Dutton. (Call no.: RDLKL 323.35 TAY)
