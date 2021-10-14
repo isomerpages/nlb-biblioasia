@@ -236,3 +236,83 @@ Tyers, R., & Siow, J.H. (1993). *[Ray Tyers’ Singapore: Then & now](https://es
 Wan, M.H., & Lau, J. (2009). *[Heritage places of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13220774)*. Singapore Marshall Cavendish International. (Call no.: RSING 959.57 WAN)
 
 Yeoh, B., & Wong, T. (2007). *[Over Singapore: 50 years ago: An aerial view in the 1950s](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12823429)*. Singapore: Editions Didier Millet in association with NAS. (Call no.: RSING 779.995957 YEO)
+
+#### **NOTES**
+
+[^1]: Chew, H.M. (Interviewer). (2006, June 9). Oral history interview with Tan Wee Him [Transcript of MP3 recording no. 003058/07/02, pp. 31–64]. Retrieved from National Archives of Singapore.
+
+[^2]: Tan, J. (1982, July 10). Demolishers catch up with police station. The Straits Times, p. 12. Retrieved from NewspaperSG.
+
+[^3]: The Straits Times, 10 Jul 1982, p. 12; Peer, M.A. (2002). Policing Singapore in the 19th and 20th centuries (p. 109). Singapore: Singapore Police Force. (Call no.: RSING 363.2095957 PEE)
+
+[^4]: Lim, P.H., & Chong, G.P. (1982, March 7). New era coming to C K Tang. The Straits Times, p. 9. Retrieved from NewspaperSG.
+
+[^5]: Tan, L. (1982, May 22). The Tang Dynasty. The Straits Times, p. 1. Retrieved from NewspaperSG.
+
+[^6]: Boland, G. (1958, October 20). Enterprise with name famous the world over. The Singapore Free Press, p. 1. Retrieved from NewspaperSG.
+
+[^7]: The Straits Times, 22 May 1982, p. 1.
+
+[^8]: Down goes Heeren Building. (1990, March 9). The Straits Times, p. 9. Retrieved from NewspaperSG.
+
+[^9]: Edwards, n., & Keys, P. (1988). Singapore: A guide to buildings, street, places (p. 220). Singapore: Times Books International. (Call no.: RSING 915.957 EDW)
+
+[^10]: Chew, H.M. (Interviewer). (2006, June 9). Oral history interview with Tan Wee Him [Transcript of MP3 recording no. 003058/07/01, pp. 1–30]. Retrieved from National Archives of Singapore
+
+[^11]: Ang, A. (1990, February 17). Heeren Building has to make way for road project. The Straits Times, p. 22. Retrieved from NewspaperSG.
+
+[^12]: Toh, E. (1991, July 10). Owner of Heeren site gets nod to build $300m complex. The Straits Times, p. 36; Waiting for the beat. (1997, April 17). The Business Times, p. 1. Retrieved from NewspaperSG.
+
+[^13]: Singapore Chinese Girls’ School. (2020). SCGS Milestones. Retrieved from Singapore Chinese Girls’ School website.
+
+[^14]: Ooi, Y.L. (1999). Pieces of jade and gold: An anecdotal history of the Singapore Chinese Girls’ School 1899–1999 (pp. 15, 21). Singapore: Singapore Chinese Girls’ School. (Call no.; RCLOS 373.5957 OOI)
+
+[^15]: Pioneers of Singapore: Dr Lim Boon Keng (1869–1957). (1986, May 25). The Straits Times, p. 12; Babas who did much for education. (1983, November 13). The Straits Times, p. 21. Retrieved from NewspaperSG.
+
+[^16]: Ooi, 1999, p. 43.
+
+[^17]: Ooi. 1999, p. 43.
+
+[^18]: Cold storage depot. (1905, April 6). The Straits Times, p. 5. Retrieved from NewspaperSG.
+
+[^19]: Oral history interview with Tan Wee Him, 9 Jun 2006.
+
+[^20]: Cold storage plans to move out to Singapore. (1982, November 26). The Straits Times, p. 22. Retrieved from NewspaperSG.
+
+[^21]: Modern entertainment: The Palladium picture palace. (1913, December 24). The Singapore Free Press, p. 12. Retrieved from NewspaperSG.
+
+[^22]: Lim, B. (Interviewer). (2012, November 1). Oral history interview with George Yuille Caldwell [MP3 recording no. 003776/38//15]. Retrieved from NewspaperSG.
+
+[^23]: 23-storey hotel going up on old Pavilion site. (1969, July 22). The Straits Times, p. 9. Retrieved from NewspaperSG.
+
+[^24]: Lim, J. (Interviewer). (2002, August 13). Oral history interview with Pakirisamy Rajagopal [MP3 recording no. 002599/08//02]. Retrieved from National Archives of Singapore website.
+
+[^25]: Municipal action. (1933, March 31). The Straits Times, p. 6. Retrieved from NewspaperSG.
+
+[^26]: Keok Road is now No.1 favourite among the night-out eater. (1960, July 19). The Singapore Free Press, p. 4; A hawkers’ paradise. (1965, February 2). The Straits Times, p. 10. Retrieved from NewspaperSG.
+
+[^27]: Koek Lane food stalls move out. (1976, October 5). The Straits Times, p. 15; Cuppage Road stalls open in August. (1978, June 29). The Straits Times, p. 6; ‘New look’ plan by URA for Orchard Road. (1978, December 2). The Straits Times, p. 13. Retrieved from NewspaperSG.
+
+[^28]: Our lost treasures. (1990, April 1). The Straits Times, p. 2; Quek, C. (2005, February 3). Building stability. The Business Times, p. 24. Retrieved from NewspaperSG.
+
+[^29]: Singapore Building Corp.: Chairman explains position of Amber Mansions. (1922, December 14). The Straits Times, p. 14. Retrieved from NewspaperSG.
+
+[^30]: The Straits Times, 1 Apr 1990, p. 2.
+
+[^31]: Davidson, J. (2010). Singapore shophouse (p. 142). Singapore: Talisman. (Call no.: RSING 720.95957 DAV)
+
+[^32]: Ang, P.H. (1983, July 6). Everything must go. Singapore Monitor, p. 6. Retrieved from NewspaperSG.
+
+[^33]: Tyers, R., & Siow, J.H. (1993). Ray Tyers’ Singapore: Then & now (p. 67). Singapore: Landmark Books. (Call no.: RSING 959.57 TYE)
+
+[^34]: Lim, K.T., & Yiu, T.C. (1991). Cathay: 55 years of cinema (p. 98). Singapore: Landmark Books for Meileen Choo. (Call no.: RSING 791.43095957 LIM)
+
+[^35]: Lim & Yiu, 1991, p. 98
+
+[^36]: National Heritage Board. (2015, December 7). Former Cathay Building (now The Cathay). Retrieved from Roots.sg website.
+
+[^37]: Showtime. (2006, March 21). The Straits Times, p. 10. Retrieved from NewspaperSG.
+
+[^38]: Flower, R. (2002). The Y: First 100 years in Singapore, 1902–2002 (pp. 6–8). Singapore: YMCA. (Call no.: RSING q267.395957 FLO); Fong, V. (1984, June 3). The ‘Y’ over the years. Singapore Monitor, p. 38. Retrieved from NewspaperSG. (39 Lyne, R., et al. (1992). The YMCA of Singapore: 90 years of service to the community (p. 59). Singapore: YMCA.  (Call no.: RSING 267.395957 YMC)
+
+[^40]: Flower, 2002, p. 88.
