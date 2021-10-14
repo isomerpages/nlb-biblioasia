@@ -121,3 +121,32 @@ In venturing into the waters of the Straits of Johor where Pulau Sarimbun is loc
 
 According to the *Hikayat Hang Tuah*, “only the pure of heart can see the white crocodile”. Taking this advice to heart, another group of scouts led by Paul Wee prepared for the hunt by vowing to fast and refrain from consuming pork. They had earlier revealed their intention to donate the captured animal to the zoo. However, after two failed attempts, the scouts were ordered to call off the hunt by the Chief Commissioner’s Office.26
 
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
+	<b>PET CROCS</b>
+	<br><br>
+Interestingly, crocodiles were also kept as pets or bred in the backyard of houses in Singapore. In 1948, it was possible to buy a live baby crocodile for as little as 25 to 40 Malayan dollars, and if the customer so desired, have the reptile killed and skinned, and made into a pair of custom-made shoes.27
+<br><br>
+<img src="/images/Vol-14-issue-2/revulsion-and-reverence/Croc5.JPG">A baby crocodile was exported from Singapore to the London Zoo in 1936. Here, the crocodile is being fed his first morsel of meat from a pair of forceps at the zoo. <i>Image reproduced from The Malaya Tribune, 29 December 1936, p. 11.</i>
+	<br><br>
+Keeping crocodiles as pets could sometimes lead to peculiar and troublesome consequences.
+<br><br>
+In 1899, a 70-yard “menagerie race” took place in which a “young crocodile driven by Captain Lucy” competed against a goose, a goat, a monkey and two donkeys (the crocodile did not win the race).28
+<br><br>
+In the late 1800s, the pet crocodile of a Captain Gamble that became too big as an adult was released into the Botanic Gardens Lake only to later bite one of the gardeners. In order to capture the crocodile, the lake had to be drained and poisoned with tuba roots, unfortunately killing every living thing residing in the waters. The crocodile, however, was nowhere to be found, the creature having presumably left the confines of the freshwater lake.29</span>
+
+#### **The Crocodile Lives On**
+
+Leaving the sightings of the elusive white crocodile aside, it is worth examining early maps of Singapore and drawing logical connections between the names of the surrounding islands and their geography.30 Place names can be a useful key in identifying local terrain, and can indicate the presence of certain species of animals.
+
+The names Pulau Buaya (near Jurong Island) and Alligator Island (Pulau Pawai today), which appear off the southwestern coast of Singapore on maps dating back to the early 1800s, suggest the presence of crocodile populations (as well as abundant mangrove habitats) at some point in the islands’ history. These indicators, along with references in the *Hikayat Hang Tuah*, imply that from north to south, Singapore was once home to a sizeable population of crocodiles.
+
+While the white crocodile remains an elusive mystery, there is a local lore about such a creature appearing in the Kallang River every 20 years. Although no actual encounters of white crocodiles have been recorded at the river, the reptile still looms large in the public imagination.
+
+News reports and public records on crocodile sightings in Singapore over the last 200 years have enabled us to pinpoint the physical locations of these reptiles on the island as well as track encounters that have taken place between crocodiles and humans.
+
+<img src="/images/Vol-14-issue-2/revulsion-and-reverence/Croc7.JPG">
+<div style="background-color: white;">A map showing the historic distribution of the saltwater crocodile population in Singapore between 1819 and 2016. This was specially created for the research project, Buaya: The Making of a Non-Myth, by NUS Museum. <i>Courtesy of NUS Museum</i></div>
+
+The idea of “public space” is frequently challenged in the various encounters between humans and crocodiles in this article. The natural human tendency is to react negatively, from shutting down activities in parks and water-based clubs to draining and poisoning lakes.
+
+The public spaces developed for encounters with crocodiles question the notion of for whom or for what they were controlled for – zoos and marine parks are regulated spaces that allow encounters (or “non-encounters” in reality) with crocodiles within a safe setting for humans, while reserves are spaces controlled for the mobility of wildlife. Yet, the making of these spaces is constantly reconfigured when crocodile sightings take place. In the myriad encounters with these reptiles, whether from actual documentation or from cultural memory, the crocodile’s existence still escapes being understood in public history.
