@@ -154,13 +154,22 @@ Although Annie continued her journey with her family to other far-flung outposts
 <a href="https://biblioasia.nlb.gov.sg/vol-14/issue-2/jul-sep-2018/"><center>Back to Issue</center></a>
 
 #### **NOTES**
-[^1]:
-[^2]:
-[^3]:
-[^4]:
-[^5]:
-[^6]:
-[^7]:
-[^8]:
-[^9]:
-[^10]:
+[^1]:McDougall, H. (1854). [*Letters from Sarawak: Addressed to a child*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4320843). London: Grant & Griffith. (Call no.: RRARE 991.12 MAC; Microfilm no.: NL25436)
+[^2]:McDougall, H. (1882). [*Sketches of our life at Sarawak*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4320846). London: Society for Promoting Christian Knowledge. (Call no.: RRARE 991.12 MAC; Microfilm no.: NL26013)
+[^3]:Bunyon, C.J. (1889). [*Memoirs of Francis Thomas McDougall, D.C.L.F.R.C.S., sometime bishop of Labuan and Sarawak, and of Harriette, his wife*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5030878). London: Longmans, Greens, and Co. (Call no.: RRARE 266.0230924 MAC.B; Microfilm no.: NL25423)
+[^4]:Brassey, A. (1878). [*A voyage in the ‘Sunbeam’: Our home on the ocean for eleven months*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4411354). London: Longmans, Green. (Call no.: RRARE 910.41 BRA; Microfilm no.: NL25750)
+[^5]:[Brassey](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4411354), 1878, pp. vii.
+[^6]:[McDougall](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4320846), 1882, pp. 165–166.
+[^7]:[McDougall](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4320846), 1882, p. 149.
+[^8]:[Brassey](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4411354), 1878, p. 200.
+[^9]:[McDougall](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4320846), 1882, p. 115.
+[^10]:[Brassey](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4411354), 1878, pp. 5–6.
+
+
+
+
+
+
+
+
+
