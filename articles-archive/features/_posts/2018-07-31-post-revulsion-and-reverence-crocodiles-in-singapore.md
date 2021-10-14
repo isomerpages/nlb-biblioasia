@@ -83,14 +83,23 @@ In August 1960, for instance, a crocodile suspected of escaping from a crocodile
 
 #### **Early Records of the Crocodile**
 
-Crocodile records in Singapore go back to the early days of its colonial history. The earliest documented encounter of a crocodile in Singapore is found in the autobiography of Malacca-born Munshi Abdullah, who was employed by Stamford Raffles as a scribe and interpreter. Hikayat Abdullah, published in 1849, documents an incident about William Farquhar when he was Resident of Singapore between 1819 and 1823.
+Crocodile records in Singapore go back to the early days of its colonial history. The earliest documented encounter of a crocodile in Singapore is found in the autobiography of Malacca-born Munshi Abdullah, who was employed by Stamford Raffles as a scribe and interpreter. *Hikayat Abdullah*, published in 1849, documents an incident about William Farquhar when he was Resident of Singapore between 1819 and 1823.
 
 Farquhar’s dog had playfully waded into the “Rochore River” when it was suddenly seized by a gigantic crocodile measuring at least “3 fathoms” (5.5 metres). In anger, Farquhar ordered for the river to be barricaded and the crocodile speared to death. Its carcass was later hung on a fig tree by the “Beras Basah River” for all to see.20
 
-Although Munshi Abdullah claimed that the attack on Farquhar’s dog was the first time people knew of crocodiles in Singapore, a text predating the Hikayat Abdullah disputes this.
+Although Munshi Abdullah claimed that the attack on Farquhar’s dog was the first time people knew of crocodiles in Singapore, a text predating the *Hikayat Abdullah* disputes this.
 
-One of the accounts in Hikayat Hang Tuah, a Malay text written between 1641 and 1739, tells the story of the legendary white crocodile and the Raja of Malacca. One day, the raja, or king, was on board his vessel bound for Singapore when his crown fell into the sea. When he asked for the crown to be salvaged from the water, none of his men stepped forward, knowing full well that the Straits of Singapura (the Straits of Johor today) was “infested with man-eating crocodiles”.
+One of the accounts in *Hikayat Hang Tuah*, a Malay text written between 1641 and 1739, tells the story of the legendary white crocodile and the Raja of Malacca. One day, the *raja*, or king, was on board his vessel bound for Singapore when his crown fell into the sea. When he asked for the crown to be salvaged from the water, none of his men stepped forward, knowing full well that the Straits of Singapura (the Straits of Johor today) was “infested with man-eating crocodiles”.
 
 A high-ranking Laksamana (or admiral), most likely Hang Tuah himself, courageously stepped forward to carry out the raja’s bidding. Valiantly, he dove into the water to retrieve the crown, but when he resurfaced, a white crocodile appeared and clamped its jaws onto his keris, a traditional bladed weapon that is said to be imbued with spirits and energies.
 
-In the ensuing struggle with the crocodile, the raja’s crown slipped from the Laksamana’s grasp. He managed to grab the tail of the crocodile, but was pulled deeper underwater, forcing him to let go of the reptile. Although the Laksamana’s precious keris was lost, the crown, fortunately, was safely retrieved. Perceiving this entire incident as an ill omen, the raja ordered his fleet of ships to turn back to Malacca at once.21
+In the ensuing struggle with the crocodile, the raja’s crown slipped from the Laksamana’s grasp. He managed to grab the tail of the crocodile, but was pulled deeper underwater, forcing him to let go of the reptile. Although the Laksamana’s precious *keris* was lost, the crown, fortunately, was safely retrieved. Perceiving this entire incident as an ill omen, the raja ordered his fleet of ships to turn back to Malacca at once.21
+
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
+<b>Of DOGS AND CROCS</b>
+<br><br>
+William Farquhar’s dog was not the only casualty that fell prey to crocodiles. In August 1907, people who had mysteriously lost their pet dogs in the “past few years” were told to contact the taxidermist at Middle Road to ascertain whether four dog collars retrieved from the stomach of a crocodile shot in the Punggol River belonged to them. The carcass was being prepared to be sent to England when the discovery was made.
+<br><br>
+<b>REFERENCE</b>
+[Discovery in a crocodile’s stomach](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19070813-1.2.79). (1907, August 13). <i>The Straits Times</i>, p. 7. Retrieved from NewspaperSG.
+</span>
