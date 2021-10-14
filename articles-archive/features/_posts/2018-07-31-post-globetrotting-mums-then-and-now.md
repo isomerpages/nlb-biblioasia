@@ -85,7 +85,7 @@ In the 19th century, travel by sea was fraught with danger, not only from the me
 
 Meanwhile, the captain, who had instinctively coiled a rope around his own wrist, managed to grab Mabelle even as the waves threatened to sweep both of them overboard. Annie remembers that Mabelle “was perfectly self-possessed, and only said quietly, ‘Hold on, Captain Lecky, hold on!’”[^11] The evening did not prove restful as they were once more deluged by huge waves. With her bed drenched, Annie spent the night mopping and clearing the mess.
 
-<img src="/images/Vol-14-issue-2/globetrotting-mums/Globetrotting6.JPG">
+<img style="width: 650px; height: 380px;" src="/images/Vol-14-issue-2/globetrotting-mums/Globetrotting6.JPG">
 <div style="background-color: white;">(Left) Annie Brassey devised games to keep her children entertained on board. One such pastime was a soldier’s drill where the children marched up and down the deck to the music of their drums. <i>Image reproduced from Brassey, A. (1878). A Voyage in the ‘Sunbeam’: Our Home on the Ocean for Eleven Months (p. 256). London: Longmans, Green. (Accession no.: BO2897233A; Microfilm no.: NL25750).</i><br>
 (Right) A few days into the start of Annie Brassey’s journey, the Sunbeam sailed into a violent storm, and her son Allnutt and daughter Mabelle were almost thrown overboard. Fortunately, Allnutt managed to catch hold of the rail, while the captain grabbed Mabelle. <i>Image reproduced from Brassey, A. (1878). A Voyage in the ‘Sunbeam’: Our Home on the Ocean for Eleven Months (p. 5). London: Longmans, Green. (Accession no.: B02897233A; Microfilm no.: NL25750).</i></div>
 
@@ -117,7 +117,7 @@ Harriette recognised these symptoms in both herself and among her countrymen:
 
 For the Victorian woman with a spouse called to travel, the woman’s first place was with the husband, even at the cost of leaving a child behind. When the McDougalls first departed England for Sarawak on 30 December 1847, Harriette left behind her eldest son Charles, just two years old then, while taking her infant child Harry with them.
 
-<img src="/images/Vol-14-issue-2/globetrotting-mums/Globetrotting7.JPG">
+<img style="width: 650px; height: 370px;" src="/images/Vol-14-issue-2/globetrotting-mums/Globetrotting7.JPG">
 <div style="background-color: white;">Harriette McDougall’s kitchen at her home in Kuching, Sarawak. The kitchen was in a separate hut away from the main house due to fire considerations. The family reared cows, pigs and chickens as food supplies were unreliable and expensive. <i>Image reproduced from the website of St Thomas Cathedral Kuching.</i></div>
 
 It is from Frank’s memoirs rather than Harriette’s that we see the emotional price she paid. “[N]o one can tell the pangs which that parting must have cost her” writes Frank. “Bravely as she had parted from her eldest child, he seems to have been ever in her thoughts, and her heart hungered for news of him”.[^16]
@@ -138,7 +138,7 @@ The Victorian mother, despite medical advancements of the time, often suffered t
 
 By August 1851, Harriette had lost five infants across a span of five years, besides having lost her second-born Harry early in her service in 1850 and her firstborn Charles in a freak accident in England in 1854. The losses not only devastated her emotionally but also physically. Yet, she was able to place the losses in the context of an eternal hope – “that it was better to have had them and lost them than never to have had them”. She looked on them as a sacred deposit in the hands of God, to be restored to her hereafter.[^21]
 
-<img src="/images/Vol-14-issue-2/globetrotting-mums/Globetrotting8.JPG">
+<img style="width: 650px; height: 370px;" src="/images/Vol-14-issue-2/globetrotting-mums/Globetrotting8.JPG">
 <div style="background-color: white;">While in Sarawak, Harriette McDougall penned letters to her eldest child Charles between 1851 and 1853, The compilation was later published as <i>Letters from Sarawak; Addressed to a Child</i>. Through the letters, Harriette hoped to “lessen the distance” between them as well as provide “familiar accounts of [her] life and habits” in a foreign land. The book also contains illustrations by Harriette. Pictured here is a drawing titled “Sarawak from the Court House”. <i>Image reproduced from McDougall, H. (1854). Letters from Sarawak; Addressed to a Child (p. 19). London: Grant & Griffith. (Microfilm no.: NL25436).</i></div>
 
 Sickness would continue to plague the family in a hostile environment where cholera and various tropical diseases were rife, along with a poor diet and the stress of physical dangers from hostile tribes. In the end it would be poor health that would bring the McDougalls back to England in 1867 to recuperate and retire.
