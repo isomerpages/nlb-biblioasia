@@ -241,67 +241,67 @@ Yeoh, B., & Wong, T. (2007). *[Over Singapore: 50 years ago: An aerial view in t
 
 [^1]: Chew, H.M. (Interviewer). (2006, June 9). *[Oral history interview with Tan Wee Him](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/c/c5b8d5ce-1160-11e3-83d5-0050568939ad-OHC003058_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&&pn=1)* [Transcript of MP3 recording no. 003058/07/02, pp. 31–64]. Retrieved from National Archives of Singapore.
 
-[^2]: Tan, J. (1982, July 10). [Demolishers catch up with police station](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820710-1.2.69). The Straits Times, p. 12. Retrieved from NewspaperSG.
+[^2]: Tan, J. (1982, July 10). [Demolishers catch up with police station](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820710-1.2.69). <i>The Straits Times</i>, p. 12. Retrieved from NewspaperSG.
 
 [^3]: *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820710-1.2.69)*, 10 Jul 1982, p. 12; Peer, M.A. (2002). *[Policing Singapore in the 19th and 20th centuries](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11732855)* (p. 109). Singapore: Singapore Police Force. (Call no.: RSING 363.2095957 PEE)
 
-[^4]: Lim, P.H., & Chong, G.P. (1982, March 7). [New era coming to C K Tang](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820307-1.2.49). The Straits Times, p. 9. Retrieved from NewspaperSG.
+[^4]: Lim, P.H., & Chong, G.P. (1982, March 7). [New era coming to C K Tang](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820307-1.2.49). <i>The Straits Times</i>, p. 9. Retrieved from NewspaperSG.
 
-[^5]: Tan, L. (1982, May 22). [The Tang Dynasty](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820522-1.2.130.2). The Straits Times, p. 1. Retrieved from NewspaperSG.
+[^5]: Tan, L. (1982, May 22). [The Tang Dynasty](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820522-1.2.130.2). <i>The Straits Times</i>, p. 1. Retrieved from NewspaperSG.
 
-[^6]: Boland, G. (1958, October 20). [Enterprise with name famous the world over](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19581020-1.2.55.2). The Singapore Free Press, p. 1. Retrieved from NewspaperSG.
+[^6]: Boland, G. (1958, October 20). [Enterprise with name famous the world over](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19581020-1.2.55.2). <i>The Singapore Free Press</i>, p. 1. Retrieved from NewspaperSG.
 
 [^7]: *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820522-1.2.130.2)*, 22 May 1982, p. 1.
 
-[^8]: [Down goes Heeren Building](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900309-1.2.36.20.1). (1990, March 9). The Straits Times, p. 9. Retrieved from NewspaperSG.
+[^8]: [Down goes Heeren Building](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900309-1.2.36.20.1). (1990, March 9). <i>The Straits Times</i>, p. 9. Retrieved from NewspaperSG.
 
 [^9]: Edwards, n., & Keys, P. (1988). *[Singapore: A guide to buildings, street, places](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4712298)* (p. 220). Singapore: Times Books International. (Call no.: RSING 915.957 EDW)
 
 [^10]: Chew, H.M. (Interviewer). (2006, June 9). *[Oral history interview with Tan Wee Him](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/c/c5abd7ab-1160-11e3-83d5-0050568939ad-OHC003058_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&&pn=34)* [Transcript of MP3 recording no. 003058/07/01, pp. 1–30]. Retrieved from National Archives of Singapore
 
-[^11]: Ang, A. (1990, February 17). [Heeren Building has to make way for road project](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900217-1.2.32.2.2). The Straits Times, p. 22. Retrieved from NewspaperSG.
+[^11]: Ang, A. (1990, February 17). [Heeren Building has to make way for road project](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900217-1.2.32.2.2). <i>The Straits Times</i>, p. 22. Retrieved from NewspaperSG.
 
-[^12]: Toh, E. (1991, July 10). [Owner of Heeren site gets nod to build $300m complex](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19910710-1.2.55.6). The Straits Times, p. 36; [Waiting for the beat](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19970417-1.2.7). (1997, April 17). The Business Times, p. 1. Retrieved from NewspaperSG.
+[^12]: Toh, E. (1991, July 10). [Owner of Heeren site gets nod to build $300m complex](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19910710-1.2.55.6). <i>The Straits Times</i>, p. 36; [Waiting for the beat](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19970417-1.2.7). (1997, April 17). The Business Times, p. 1. Retrieved from NewspaperSG.
 
 [^13]: Singapore Chinese Girls’ School. (2020). <i>SCGS Milestones</i>. Retrieved from Singapore Chinese Girls’ School website.
 
 [^14]: Ooi, Y.L. (1999). *[Pieces of jade and gold: An anecdotal history of the Singapore Chinese Girls’ School 1899–1999](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9654045)* (pp. 15, 21). Singapore: Singapore Chinese Girls’ School. (Call no.; RCLOS 373.5957 OOI)
 
-[^15]: [Pioneers of Singapore: Dr Lim Boon Keng (1869–1957)](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19860525-1.2.46.7.2). (1986, May 25). The Straits Times, p. 12; [Babas who did much for education](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19831113-1.2.71.5). (1983, November 13). The Straits Times, p. 21. Retrieved from NewspaperSG.
+[^15]: [Pioneers of Singapore: Dr Lim Boon Keng (1869–1957)](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19860525-1.2.46.7.2). (1986, May 25). <i>The Straits Times</i>, p. 12; [Babas who did much for education](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19831113-1.2.71.5). (1983, November 13). <i>The Straits Times</i>, p. 21. Retrieved from NewspaperSG.
 
 [^16]: [Ooi](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9654045), 1999, p. 43.
 
 [^17]: [Ooi](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9654045). 1999, p. 43.
 
-[^18]: [Cold storage depot](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19050406-1.2.35.2). (1905, April 6). The Straits Times, p. 5. Retrieved from NewspaperSG.
+[^18]: [Cold storage depot](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19050406-1.2.35.2). (1905, April 6). <i>The Straits Times</i>, p. 5. Retrieved from NewspaperSG.
 
 [^19]: *[Oral history interview with Tan Wee Him](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/c/c5abd7ab-1160-11e3-83d5-0050568939ad-OHC003058_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&&pn=34)*, 9 Jun 2006.
 
-[^20]: [Cold storage plans to move out to Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19821126-1.2.180.1). (1982, November 26). The Straits Times, p. 22. Retrieved from NewspaperSG.
+[^20]: [Cold storage plans to move out to Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19821126-1.2.180.1). (1982, November 26). <i>The Straits Times</i>, p. 22. Retrieved from NewspaperSG.
 
-[^21]: [Modern entertainment: The Palladium picture palace](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19131224-1.2.70). (1913, December 24). The Singapore Free Press, p. 12. Retrieved from NewspaperSG.
+[^21]: [Modern entertainment: The Palladium picture palace](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19131224-1.2.70). (1913, December 24). <i>The Singapore Free Press</i>, p. 12. Retrieved from NewspaperSG.
 
 [^22]: Lim, B. (Interviewer). (2012, November 1). *[Oral history interview with George Yuille Caldwell](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/1ca4571d-1163-11e3-83d5-0050568939ad?keywords=George+Yuille+Caldwell+&&keywords-type=all)* [MP3 recording no. 003776/38//15]. Retrieved from NewspaperSG.
 
-[^23]: [23-storey hotel going up on old Pavilion site](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19690722-1.2.53). (1969, July 22). The Straits Times, p. 9. Retrieved from NewspaperSG.
+[^23]: [23-storey hotel going up on old Pavilion site](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19690722-1.2.53). (1969, July 22). <i>The Straits Times</i>, p. 9. Retrieved from NewspaperSG.
 
 [^24]: Lim, J. (Interviewer). (2002, August 13). *[Oral history interview with Pakirisamy Rajagopal](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/467d4390-1160-11e3-83d5-0050568939ad?keywords=Pakirisamy+Rajagopal+&&keywords-type=all)* [MP3 recording no. 002599/08//02]. Retrieved from National Archives of Singapore website.
 
-[^25]: [Municipal action](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19330331-1.2.19). (1933, March 31). The Straits Times, p. 6. Retrieved from NewspaperSG.
+[^25]: [Municipal action](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19330331-1.2.19). (1933, March 31). <i>The Straits Times</i>, p. 6. Retrieved from NewspaperSG.
 
-[^26]: [Keok Road is now No.1 favourite among the night-out eater](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19600719-1.2.60). (1960, July 19). The Singapore Free Press, p. 4; [A hawkers’ paradise](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19650202-1.2.60.2). (1965, February 2). The Straits Times, p. 10. Retrieved from NewspaperSG.
+[^26]: [Keok Road is now No.1 favourite among the night-out eater](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19600719-1.2.60). (1960, July 19). <i>The Singapore Free Press</i>, p. 4; [A hawkers’ paradise](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19650202-1.2.60.2). (1965, February 2). <i>The Straits Times</i>, p. 10. Retrieved from NewspaperSG.
 
-[^27]: [Koek Lane food stalls move out](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19761005-1.2.93). (1976, October 5). The Straits Times, p. 15; [Cuppage Road stalls open in August](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19780629-1.2.31). (1978, June 29). The Straits Times, p. 6; [‘New look’ plan by URA for Orchard Road](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19781202-1.2.44). (1978, December 2). The Straits Times, p. 13. Retrieved from NewspaperSG.
+[^27]: [Koek Lane food stalls move out](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19761005-1.2.93). (1976, October 5). <i>The Straits Times</i>, p. 15; [Cuppage Road stalls open in August](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19780629-1.2.31). (1978, June 29). <i>The Straits Times</i>, p. 6; [‘New look’ plan by URA for Orchard Road](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19781202-1.2.44). (1978, December 2). <i>The Straits Times</i>, p. 13. Retrieved from NewspaperSG.
 
-[^28]: [Our lost treasures](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900401-1.2.48.3.1). (1990, April 1). The Straits Times, p. 2; Quek, C. (2005, February 3). [Building stability](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes20050203-1.2.36.3). The Business Times, p. 24. Retrieved from NewspaperSG.
+[^28]: [Our lost treasures](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900401-1.2.48.3.1). (1990, April 1). <i>The Straits Times</i>, p. 2; Quek, C. (2005, February 3). [Building stability](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes20050203-1.2.36.3). The Business Times, p. 24. Retrieved from NewspaperSG.
 
-[^29]: [Singapore Building Corp.: Chairman explains position of Amber Mansions](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19221214-1.2.70). (1922, December 14). The Straits Times, p. 14. Retrieved from NewspaperSG.
+[^29]: [Singapore Building Corp.: Chairman explains position of Amber Mansions](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19221214-1.2.70). (1922, December 14). <i>The Straits Times</i>, p. 14. Retrieved from NewspaperSG.
 
 [^30]: *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900401-1.2.48.3.1)*, 1 Apr 1990, p. 2.
 
 [^31]: Davidson, J. (2010). *[Singapore shophouse](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13735527)* (p. 142). Singapore: Talisman. (Call no.: RSING 720.95957 DAV)
 
-[^32]: Ang, P.H. (1983, July 6). [Everything must go](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19830706-1.2.6.12). Singapore Monitor, p. 6. Retrieved from NewspaperSG.
+[^32]: Ang, P.H. (1983, July 6). [Everything must go](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19830706-1.2.6.12). <i>Singapore Monitor</i>, p. 6. Retrieved from NewspaperSG.
 
 [^33]: Tyers, R., & Siow, J.H. (1993). *[Ray Tyers’ Singapore: Then & now](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6442235)* (p. 67). Singapore: Landmark Books. (Call no.: RSING 959.57 TYE)
 
@@ -311,8 +311,8 @@ Yeoh, B., & Wong, T. (2007). *[Over Singapore: 50 years ago: An aerial view in t
 
 [^36]: National Heritage Board. (2015, December 7). <i>Former Cathay Building</i> (now The Cathay). Retrieved from Roots.sg website.
 
-[^37]: [Showtime](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20060321-1.2.130.9.1). (2006, March 21). The Straits Times, p. 10. Retrieved from NewspaperSG.
+[^37]: [Showtime](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20060321-1.2.130.9.1). (2006, March 21). <i>The Straits Times</i>, p. 10. Retrieved from NewspaperSG.
 
-[^38]: Flower, R. (2002). *[The Y: First 100 years in Singapore, 1902–2002](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11179222)* (pp. 6–8). Singapore: YMCA. (Call no.: RSING q267.395957 FLO); Fong, V. (1984, June 3). [The ‘Y’ over the years](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19840603-1.2.23.25.1). Singapore Monitor, p. 38. Retrieved from NewspaperSG. (39 Lyne, R., et al. (1992). *[The YMCA of Singapore: 90 years of service to the community](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6377686)* (p. 59). Singapore: YMCA.  (Call no.: RSING 267.395957 YMC)
+[^38]: Flower, R. (2002). *[The Y: First 100 years in Singapore, 1902–2002](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11179222)* (pp. 6–8). Singapore: YMCA. (Call no.: RSING q267.395957 FLO); Fong, V. (1984, June 3). [The ‘Y’ over the years](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19840603-1.2.23.25.1). <i>Singapore Monitor</i>, p. 38. Retrieved from NewspaperSG. (39 Lyne, R., et al. (1992). *[The YMCA of Singapore: 90 years of service to the community](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6377686)* (p. 59). Singapore: YMCA.  (Call no.: RSING 267.395957 YMC)
 
 [^40]: [Flower](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11179222), 2002, p. 88.
