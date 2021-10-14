@@ -187,52 +187,52 @@ Lim, J. (Interviewer). (2002, August 13). *[Oral history interview with Pakirisa
 
 Lim, K.T., & Yiu, T.C. (1991). *[Cathay: 55 years of cinema](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6095688)*. Singapore: Landmark Books for Meileen Choo. (Call no.: RSING 791.43095957 LIM)
 
-Lim, P.H., & Chong, G.P. (1982, March 7). New era coming to C K Tang. <i>The Straits Times</i>, p. 9. Retrieved from NewspaperSG.
+Lim, P.H., & Chong, G.P. (1982, March 7). [New era coming to C K Tang](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820307-1.2.49). <i>The Straits Times</i>, p. 9. Retrieved from NewspaperSG.
 
-Lyne, R., et al. (1992). The YMCA of Singapore: 90 years of service to the community. Singapore: YMCA.  (Call no.: RSING 267.395957 YMC)
+Lyne, R., et al. (1992). *[The YMCA of Singapore: 90 years of service to the community](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6377686)*. Singapore: YMCA.  (Call no.: RSING 267.395957 YMC)
 
-Modern entertainment: The Palladium picture palace. (1913, December 24). <i>The Singapore Free Press</i>, p. 12. Retrieved from NewspaperSG.
+[Modern entertainment: The Palladium picture palace](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19131224-1.2.70). (1913, December 24). <i>The Singapore Free Press</i>, p. 12. Retrieved from NewspaperSG.
 
-Mok, S.P. (1971, July 9). Cockpit’s $10 million extension to open in September. <i>The Straits Times</i>, p. 16. Retrieved from NewspaperSG.
+Mok, S.P. (1971, July 9). [Cockpit’s $10 million extension to open in September](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710709-1.2.112). <i>The Straits Times</i>, p. 16. Retrieved from NewspaperSG.
 
-Municipal action. (1933, March 31). <i>The Straits Times</i>, p. 6. Retrieved from NewspaperSG.
+[Municipal action](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19330331-1.2.19). (1933, March 31). <i>The Straits Times</i>, p. 6. Retrieved from NewspaperSG.
 
-National Heritage Board. (2015, December 7). Former Cathay Building (now The Cathay). Retrieved from Roots.sg website.
+National Heritage Board. (2015, December 7). <i>Former Cathay Building (now The Cathay)</i>. Retrieved from Roots.sg website.
 
-National Heritage Board. (2015, December 7). Goodwood Park Hotel (Tower Block). Retrieved from Roots.sg website.
+National Heritage Board. (2015, December 7). <i>Goodwood Park Hotel (Tower Block)</i>. Retrieved from Roots.sg website.
 
-Tan, J.H.S. (2016). Goodwood Park Hotel. Retrieved from Singapore Infopedia, National Library Singapore.
+Tan, J.H.S. (2016). *[Goodwood Park Hotel](https://eresources.nlb.gov.sg/infopedia/articles/SIP_767_2004-12-15.html)*. Retrieved from Singapore Infopedia, National Library Singapore.
 
-‘New look’ plan by URA for Orchard Road. (1978, December 2). <i>The Straits Times</i>, p. 13. Retrieved from NewspaperSG.
+[‘New look’ plan by URA for Orchard Road](D:\Veronica\BA_2014\BA_Oct-Dec 2014\New look plan by URA for Orchard Road). (1978, December 2). <i>The Straits Times</i>, p. 13. Retrieved from NewspaperSG.
 
-Ooi, Y.L. (1999). Pieces of jade and gold: An anecdotal history of the Singapore Chinese Girls’ School 1899–1999. Singapore: Singapore Chinese Girls’ School. (Call no.; RCLOS 373.5957 OOI)
+Ooi, Y.L. (1999). *[Pieces of jade and gold: An anecdotal history of the Singapore Chinese Girls’ School 1899–1999](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9654045)*. Singapore: Singapore Chinese Girls’ School. (Call no.; RCLOS 373.5957 OOI)
 
-Our lost treasures. (1990, April 1). <i>The Straits Times</i>, p. 2. Retrieved from NewspaperSG.
+[Our lost treasures](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900401-1.2.48.3.1). (1990, April 1). <i>The Straits Times</i>, p. 2. Retrieved from NewspaperSG.
 
-Peer, M.A. (2002). Policing Singapore in the 19th and 20th centuries. Singapore: Singapore Police Force. (Call no.: RSING 363.2095957 PEE)
+Peer, M.A. (2002). *[Policing Singapore in the 19th and 20th centuries](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11732855)*. Singapore: Singapore Police Force. (Call no.: RSING 363.2095957 PEE)
 
-Pioneers of Singapore: Dr Lim Boon Keng (1869–1957). (1986, May 25). <i>The Straits Times</i>, p. 12. Retrieved from NewspaperSG.
+[Pioneers of Singapore: Dr Lim Boon Keng (1869–1957)](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19860525-1.2.46.7.2). (1986, May 25). <i>The Straits Times</i>, p. 12. Retrieved from NewspaperSG.
 
-Quek, C. (2005, February 3). Building stability. The Business Times, p. 24. Retrieved from NewspaperSG.
+Quek, C. (2005, February 3). [Building stability](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes20050203-1.2.36.3). <i>The Business Times</i>, p. 24. Retrieved from NewspaperSG.
 
-Showtime. (2006, March 21). <i>The Straits Times</i>, p. 10. Retrieved from NewspaperSG.
+[Showtime](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20060321-1.2.130.9.1). (2006, March 21). <i>The Straits Times</i>, p. 10. Retrieved from NewspaperSG.
 
-Singapore Building Corp.: Chairman explains position of Amber Mansions. (1922, December 14). <i>The Straits Times</i>, p. 14. Retrieved from NewspaperSG.
+[Singapore Building Corp.: Chairman explains position of Amber Mansions](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19221214-1.2.70). (1922, December 14). <i>The Straits Times</i>, p. 14. Retrieved from NewspaperSG.
 
-Singapore Chinese Girls’ School. (2020). SCGS Milestones. Retrieved from Singapore Chinese Girls’ School website.
+Singapore Chinese Girls’ School. (2020). <i>SCGS Milestones</i>. Retrieved from Singapore Chinese Girls’ School website.
 
-Singapore street directory and guide. (1957). Singapore: Survey Dept. (Not available in NLB’s holdings)
+<i>Singapore street directory and guide</i>. (1957). Singapore: Survey Dept. (Not available in NLB’s holdings)
 
-Tan, J. (1982, July 10). Demolishers catch up with police station. <i>The Straits Times</i>, p. 12. Retrieved from NewspaperSG.
+Tan, J. (1982, July 10). [Demolishers catch up with police station](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820710-1.2.69). <i>The Straits Times</i>, p. 12. Retrieved from NewspaperSG.
 
-Tan, L. (1982, May 22). The Tang Dynasty. <i>The Straits Times</i>, p. 1. Retrieved from NewspaperSG.
+Tan, L. (1982, May 22). [The Tang Dynasty](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820522-1.2.130.2). <i>The Straits Times</i>, p. 1. Retrieved from NewspaperSG.
 
-Toh, E. (1991, July 10). Owner of Heeren site gets nod to build $300m complex. <i>The Straits Times</i>, p. 36. Retrieved from NewspaperSG.
+Toh, E. (1991, July 10). [Owner of Heeren site gets nod to build $300m complex](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19910710-1.2.55.6). <i>The Straits Times</i>, p. 36. Retrieved from NewspaperSG.
 
-Tyers, R., & Siow, J.H. (1993). Ray Tyers’ Singapore: Then & now. Singapore: Landmark Books. (Call no.: RSING 959.57 TYE)
+Tyers, R., & Siow, J.H. (1993). *[Ray Tyers’ Singapore: Then & now](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6442235)*. Singapore: Landmark Books. (Call no.: RSING 959.57 TYE)
 
-Waiting for the beat. (1997, April 17). The Business Times, p. 1. Retrieved from NewspaperSG.
+[Waiting for the beat](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19970417-1.2.7). (1997, April 17). The Business Times, p. 1. Retrieved from NewspaperSG.
 
-Wan, M.H., & Lau, J. (2009). Heritage places of Singapore. Singapore Marshall Cavendish International. (Call no.: RSING 959.57 WAN)
+Wan, M.H., & Lau, J. (2009). *[Heritage places of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13220774)*. Singapore Marshall Cavendish International. (Call no.: RSING 959.57 WAN)
 
-Yeoh, B., & Wong, T. (2007). Over Singapore: 50 years ago: An aerial view in the 1950s. Singapore: Editions Didier Millet in association with NAS. (Call no.: RSING 779.995957 YEO)
+Yeoh, B., & Wong, T. (2007). *[Over Singapore: 50 years ago: An aerial view in the 1950s](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12823429)*. Singapore: Editions Didier Millet in association with NAS. (Call no.: RSING 779.995957 YEO)
