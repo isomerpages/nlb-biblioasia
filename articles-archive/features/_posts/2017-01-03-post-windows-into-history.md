@@ -38,7 +38,7 @@ Relatively little is known about the studio of Martin Peintre in Angers, France,
 
 Of the three studios, Vitrail St Georges is by far the youngest. Founded by Joël Mône in 1979, the French studio claims its lineage from the studio of Jean-Baptiste Barrelon in Grigny, Lyon, which was established in 1852. Since 2010, the studio has been headed by Joël’s son, Jean.[^3] This was the studio that undertook the stained glass restoration when the CHIJ complex underwent extensive restoration between 1991 and 1996 and reopened as CHIJMES. The project was jointly overseen by the French architect Didier Repellin, and Ong and Ong Architects of Singapore.[^4]
 
-<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"><b>JULES DOBBELAERE STUDIO: A TIMELINE</b>
+<div style="background-colour:#fdf5e6; padding:20px; margin: 20px; background: #fdf5e6"><b>JULES DOBBELAERE STUDIO: A TIMELINE</b>
 <br><br>
 <b>Henri Dobbelaere (fl. 1860–85)</b>
 <br><br>
@@ -198,41 +198,40 @@ The Dobbelaere cartoon fits the form and thematic outline with what we can see i
 
 The discovery of the Dobbelaere cartoons in Leuven has provided valuable insights into the lineage of Singapore’s historic stained glass windows and sheds new light on their provenance.
 
-|**UNDERSTANDING CHURCH ARCHITECTURE**|
-
-|The footprint of a church is typically laid out in a rectangle, Greek-cross – a square central mass with four projecting arms of equal length – or Latin-cross cruciform plan. From these basic forms, an apse, which is a semicircular recess, may be attached behind the altar to provide a visual focus.|
-
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> <b>UNDERSTANDING CHURCH ARCHITECTURE</b>
+<br><br>
+The footprint of a church is typically laid out in a rectangle, Greek-cross – a square central mass with four projecting arms of equal length – or Latin-cross cruciform plan. From these basic forms, an apse, which is a semicircular recess, may be attached behind the altar to provide a visual focus.
+<br><br>
 <img style="width:700px" src="/images/Vol-12-issue-4/windows-into-history/9a-windows_into_history.jpg">
-
-|(From left to right) Greek cross plan of Armenian Church, rectangular plan of St George’s Church (at Minden Road) and Latin cross plan of Cathedral of the Good Shepherd.|
-
+<br><br>
+(From left to right) Greek cross plan of Armenian Church, rectangular plan of St George’s Church (at Minden Road) and Latin cross plan of Cathedral of the Good Shepherd.<br><br>
 <img style="width:400px" src="/images/Vol-12-issue-4/windows-into-history/10-windows_into_history.jpg">
-
-|The main body of the church, which is known as the nave, is the area where the congregation takes part in worship (called a mass in Catholic churches or service in the Protestant tradition).|
-
-|A passageway to either side of the nave that is separated by a colonnade of columns or rows of pews is known as the aisle. A transept is the space that is perpendicular to the nave on either side of a cruciform.|
-
-|Beyond the nave typically lies the sanctuary, usually separated from the nave by a step or altar rail, within which only the priests and their attendants are allowed. In Singapore, there are no churches with chancels – the space between the nave and the sanctuary that contain choir stalls or seats for the clergy.|
-
-|In the case of St Andrew’s Cathedral, the choir stalls are positioned behind the altar. In Catholic churches, the tabernacle where the Eucharist[^14] is stored, is located behind the altar. In most cases, an apse is the recess behind the sanctuary.|
-
+<br><br>
+The main body of the church, which is known as the nave, is the area where the congregation takes part in worship (called a mass in Catholic churches or service in the Protestant tradition).
+<br><br>
+A passageway to either side of the nave that is separated by a colonnade of columns or rows of pews is known as the aisle. A transept is the space that is perpendicular to the nave on either side of a cruciform.
+<br><br>
+Beyond the nave typically lies the sanctuary, usually separated from the nave by a step or altar rail, within which only the priests and their attendants are allowed. In Singapore, there are no churches with chancels – the space between the nave and the sanctuary that contain choir stalls or seats for the clergy.
+<br><br>
+In the case of St Andrew’s Cathedral, the choir stalls are positioned behind the altar. In Catholic churches, the tabernacle where the Eucharist[^14] is stored, is located behind the altar. In most cases, an apse is the recess behind the sanctuary.
+<br><br>
 <img style="width:550px" src="/images/Vol-12-issue-4/windows-into-history/11-windows_into_history.jpg">
-
-|The clerestory denotes an upper level of the nave where the walls rise above the rooflines of the lower aisles and are punctuated with windows. Windows located in this area are also known as clerestory windows.|
-
+<br><br>
+The clerestory denotes an upper level of the nave where the walls rise above the rooflines of the lower aisles and are punctuated with windows. Windows located in this area are also known as clerestory windows.
+<br><br>
 <img style="width:300px" src="/images/Vol-12-issue-4/windows-into-history/12-windows_into_history.jpg">
-
-|A fanlight or “lunette” is a semicircular window over a door or window. It is also sometimes known as a transom window, especially when it is rectangular in shape.|
-
+<br><br>
+A fanlight or “lunette” is a semicircular window over a door or window. It is also sometimes known as a transom window, especially when it is rectangular in shape.
+<br><br>
 <img style="width:300px" src="/images/Vol-12-issue-4/windows-into-history/13-windows_into_history.jpg">
-
-|The stained glass windows located at the apse are also referred to as apsidal windows.|
-
-|A lancet window (above left image) is a tall, narrow window with a pointed arch at its top. Such windows are typical of Gothic and neo-Gothic architecture.|
-
-|A triptych is typically a work of art that is divided into three sections. A triptych window (above right image) likewise has a set of three window panels.|
-
-|*Readers who are interested in reading more about church architecture may refer to How to Read Churches: A Crash Course in Ecclesiastical Architecture* by Denis Robert McNamara available at the library@orchard.[^15]|
+<br><br>
+The stained glass windows located at the apse are also referred to as apsidal windows.
+<br><br>
+A lancet window (above left image) is a tall, narrow window with a pointed arch at its top. Such windows are typical of Gothic and neo-Gothic architecture.
+<br><br>
+A triptych is typically a work of art that is divided into three sections. A triptych window (above right image) likewise has a set of three window panels.
+<br><br>
+<i>Readers who are interested in reading more about church architecture may refer to How to Read Churches: A Crash Course in Ecclesiastical Architecture</i> by Denis Robert McNamara available at the library@orchard.[^15]</span>
 
 The authors would like to acknowledge Wee Sheau Theng, Carolyn Lim, Soon-Tzu Speechley and Martina Yeo for their invaluable help in the course of this research.
 
