@@ -18,7 +18,7 @@ permalink: /editors-picks/people
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/doggett" target="_blank"> Marjorie Doggett: Photographer of Singapore </a>
 <p>Edward Stokes reflects on Characters of Light by Marjorie Doggett, first published in 1957, and on his own recent book, Marjorie Doggett’s Singapore, which portrays her life and work here.</p> 
-<img style="width:500px;" src="/images/Vol-16-issue-1/marjorie/Majorie-title.png"> 
+<img style="width:600px;" src="/images/Vol-16-issue-1/marjorie/Majorie-title.png"> 
 <hr> 
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/sangnila" target="_blank">Sang Nila Utama: Separating Myth From Reality</a>
