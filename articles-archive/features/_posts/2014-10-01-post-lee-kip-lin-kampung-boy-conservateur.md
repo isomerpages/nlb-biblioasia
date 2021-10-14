@@ -133,3 +133,39 @@ Tan, B. (2012, June 6). Oral history interview with Tse Swee Ling
 Tay, S.C. (2010, June 12). [A happy man of many words](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20100612-1.2.110.4.3). <i>The Straits Times</i>, p. 8. Retrieved from NewspaperSG.
 
 Taylor, T.G. (1951). *[Urban geography: A study of site, evolution, pattern and classification in villages, towns and cities](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13220036)*. London, Methuen; New York, Dutton. (Call no.: RDLKL 323.35 TAY)
+
+#### **NOTES**
+
+[^1]: He had an older brother, Lee Kip Lee who had lived with an aunt at Cairnhill during his early childhood. Thus Lee Kip Lin was effectively the only son until his older brother returned to live with the family. Lee, K.L. (1995). *[Amber sands: A boyhood memoir](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7481472)* (p. 23). Singapore: Federal Publications. (Call no.: RSING 920.71 LEE)
+
+[^2]: [Lee](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7481472), 1995, chapter 1.
+
+[^3]: He could distinguish the different types of sea vessels merely through their silhoutttes. [Lee](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7481472), 1995, pp. 22–23.
+
+[^4]: [Lee](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7481472), 1995, pp. 22–23.
+
+[^5]: [Lee](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7481472), 1995, p. 11.
+
+[^6]: [Lee](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7481472), 1995, p. 20.
+
+[^7]: Tay, oral interview
+
+[^8]: This was the building Lee was most familiar with as he had ferried his sister to medical school regularly. The building in post-war Singapore was the Medical Faculty of the University of Malaya. [Tay, oral interview).
+
+[^9]: Lee claimed the invigilator was David Aberdeen who had recently won a competition to design the Trade Union Congress building in London. He had sensed Aberdeen observing him sketching for at least 5 minutes during the exam (Tay oral interview)
+
+[^10]: Derived from an article on Richardson, Albert Edward from a book he co-authored with Hector Cofiato. Retrieved from encyclopedia.com website. 
+
+[^11]: Tay, oral interview
+
+[^12]: Silat is actually an acronym for Singapore, Lee Kip Lin and Architect Team 3 (Tse oral interview)
+
+[^13]: Tay, S.C. (2010, June 12). [A happy man of many words](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20100612-1.2.110.4.3). <i>The Straits Times</i>, p. 8. Retrieved from NewspaperSG.
+
+[^14]: These are cigarettes out of Canada, a much sought after foreign brand in that time (Tay, oral interview)
+
+[^15]: As seen in the personally signed books. Hall-John, J. (1995). *[The Horsburgh Lighthouse](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7481919)*. Invercargill, N.Z.: John Hall-Jones. (Call no.: RSING 623.8942 HAL)
+
+[^16]: Previous references that Joannes Theodore de Bry’s 1603 map of Singapore is the earliest in Lee’s collection is mistaken as the referred map is a reprint of the original. Even so, this map is an 18th century reprint of the original likely to have been made some time between 1766 and 1770 (Gibson-Hill, C.A. (1954, May). Singapore: Notes on the history of the Old Strait, 1580–1850. <i>Journal of the Malayan Branch of the Royal Asiatic Society</i>, 27 (1) (165), 163–214, p. 187. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.)
+
+[^17]: Gibson-Hill, May 1954, pp. 163–214.
