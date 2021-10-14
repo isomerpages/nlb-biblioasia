@@ -126,7 +126,7 @@ According to the *Hikayat Hang Tuah*, “only the pure of heart can see the whit
 	<br><br>
 Interestingly, crocodiles were also kept as pets or bred in the backyard of houses in Singapore. In 1948, it was possible to buy a live baby crocodile for as little as 25 to 40 Malayan dollars, and if the customer so desired, have the reptile killed and skinned, and made into a pair of custom-made shoes.[^27]
 <br><br>
-<img src="/images/Vol-14-issue-2/revulsion-and-reverence/Croc6.JPG">A baby crocodile was exported from Singapore to the London Zoo in 1936. Here, the crocodile is being fed his first morsel of meat from a pair of forceps at the zoo. <i>Image reproduced from The Malaya Tribune, 29 December 1936, p. 11.</i>
+<img style="width: 550px; height: 350px;" src="/images/Vol-14-issue-2/revulsion-and-reverence/Croc6.JPG">A baby crocodile was exported from Singapore to the London Zoo in 1936. Here, the crocodile is being fed his first morsel of meat from a pair of forceps at the zoo. <i>Image reproduced from The Malaya Tribune, 29 December 1936, p. 11.</i>
 	<br><br>
 Keeping crocodiles as pets could sometimes lead to peculiar and troublesome consequences.
 <br><br>
