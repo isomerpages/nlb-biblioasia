@@ -113,3 +113,71 @@ Source: <i>The Straits Times</i>, 13 August 1946, p.3. All rights reserved, Sing
 <p style="font-size:15px;"><b>Sin Yee Theng</b> (沈仪婷) was a Lee Kong Chian Research Fellow in 2011. Her PhD dissertation, <i>A Study of Aw Boon Haw and his Entrepreneurship: A Perspective of Cultural History</i> (《谱写虎标传奇：胡文虎及其创业 文化史》), was jointly published by NUS Department of Chinese Studies, Singapore Char Yong (Dabu) Association and Global Publishing in 2013.</p>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-10/issue-3/oct-dec-2014/"><center>Back to Issue</center></a>
+
+#### **REFERENCES**
+
+Boorman, H.L. (1968). *[Biographical dictionary of Republican China](https://eservice.nlb.gov.sg/item_holding.aspx?bid=669289)* (Vol. 2). New York: Columbia University Press. (Call no.: RCLOS 920.051 BIO)
+
+Brandel, J., & Turbeville, T. (1998). *[Tiger Balm Gardens: A Chinese billionaire’s fantasy environments](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9366974)*. Hongkong: Aw Boon Haw Foundation. (Call no.: RSING 959.57 BRA)
+
+Cochran, S. (2000). Marketing medicine and advertising dreams in China, 1900–1950 (pp. 62–67). In W-H, Yeh, (Ed.), *[Becoming Chinese: Passages to modernity and beyond](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9426550)*. Berkeley: University of California Press. (Call no.: R 951.05 BEC)
+
+Falk, P. (1994). <i>The consuming body</i>. London: Sage. (Not available in NLB holdings)
+
+Fernandez, W. (1992, August 9). [A-Z guide to people & things Singaporean](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19920809-1.2.91.3.15). <i>The Straits Times</i>, p. 18. Retrieved from NewspaperSG. 
+
+Gerth, K. (2003). *[China made: Consumer culture and the creation of the nation](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12322017)*. Cambridge, MA: Harvard University Asian Center. (Call no.: RBUS 339.4709510904 GER)
+
+King, S. (1992). *[Tiger Balm king](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84559822)*. Singapore: Times Books International. (Call no.: RSING 338.04092 KIN)
+
+<i>Malayan Saturday Post.</i>
+
+Pope, D. (2003, June). Making sense of advertisements. <i>History matters: The U.S. survey on the web</i>. Retrieved from History matters website.
+
+Richards, T. (1990). <i>The commodity culture of Victorian England: Advertising and spectacle, 1815–1914</i>. London: Verso. (Not available in NLB’s holdings)
+
+Stewart, L. (1992). *[Tiger Balm: Travels in Laos, Vietnam & Cambodia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6327069)*. London: Chatto & Windus. (Call no.: RSEA 959.404 STE)
+
+<i>The Singapore Free Press.</i>
+
+<i>The Straits Times.</i>
+
+Toh, S.P.C. (1994). *[Legend from a jar: The story of Haw Par: Haw Par Brothers International Limited's 25th anniversary commemorative book](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7201626)*. Singapore: Haw Par Brothers International. (Call no.: RSING 339.8809 HAW)
+
+Wong, W.S. (2000). Establishing the modern advertising language: Patent medicine newspaper advertisements in Hong Kong, 1945–1969. <i>Journal of Design History</i>, 13 (3), 213–226. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+
+Yeh, W. (2000). Introduction: Chinese modernity, 1900–1950. In W-H, Yeh (Ed), *[Becoming Chinese: Passages to modernity and beyond, 1900–1950](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9426550)*. Berkeley: University of California Press. (Call no.: R 951.05 BEC)
+
+关楚璞 (1940)。《胡氏事业史略》。《星洲十年》。新加坡:星洲日报社。(Call no.: RRARE Chinese 959.57 SIN; Microfilm no.: NL 7549)
+
+《南洋商报》。
+
+古玉梁. (2005)。《胡文虎报业王国:从兴盛到衰落》。 八打灵:文运企业公司。(Call no.: RSING Chinese 338.47070172 GYL)
+
+《叻报》。
+
+吴尔芬、张侃 (2005)。《商业巨子胡文虎》。
+
+北京:当代中国出版社。(Call no.: R CO Chinese 338.04095957 WEF)
+
+康吉父 (1984)。《胡文虎传》。九龙:文艺书屋。(Call no.: RSEA Chinese 959.57 HWH.K-[HIS])
+
+《总汇新报》。
+
+《新国民日报》。
+
+《星中日报》。
+
+《星洲日报》。
+
+杨祥银 (2008)。〈卫生(健康)与近代中国现代性 –– 以 近代上海医疗卫生广告为中心的分析 (1927–1937年)〉。《史学集刊》第5期。页  52–59。
+
+罗竹风(1993)。《汉语大词典》。第九卷。香港:三联书店(香港)有限公司、汉语大词典出版社。页 465。
+
+邹红梅、王省民(2006)。〈黑白世界的斑斓 –– 20世纪 初《申报》广告表达形式分析〉。《电影评介》第21期。页 107–108。
+
+黄克武 (1988),〈从申报医药广告看民初上海的医疗文 化与社会生活,1912–1926〉。《中央研究院近代史研 究所集刊》,第17期下册。页 141–194。
+
+#### **NOTES**
+
+[^1]: http://www.creatingthe21stcentury.org/Intro5-Why-storytelling.html 
