@@ -71,3 +71,25 @@ View of Mount Kinabalu (background) from the Tempasuk River (1889). <i>Courtesy 
 <p style="font-size:15px;"><b>Janice Loo</b> is an Associate Librarian with the National Library of Singapore. She was the author of “A Quiet Revolution: Women and Work in Industrialising Singapore”, published in BiblioAsia Vol. 10, Iss. 2</p>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-10/issue-3/oct-dec-2014/"><center>Back to Issue</center></a>
+
+#### **REFERENCES**
+
+Brownfoot, J.N. (1984). Memsahibs in colonial Malaya: A study of European wives in a British colony and protectorate 1900–1940 (pp. 189–210). In H. Callan & S. Ardener (Eds.), <i>The incorporated wife</i>. London: Croom Helm. (Not available in NLB’s holdings)
+
+Cator, D. (1905). *[Everyday life among the head-hunters and other experiences east to west](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4403170)*. London: Longmans, Green and Co. (Call no.: RCLOS 991.11 CAT)
+
+Chakrabathy, D. (2000). <i>Provincialising Europe: Postcolonial thought and historical difference</i> (p. 5). Princeton: Princeton University Press. (Not available in NLB’s holdings)
+
+Doran, C. (1998, June). Golden marvels and gilded monsters: two women’s accounts of colonial Malaya. <i>Asian Studies Review</i>, 22 (2), 175–192. Retrieved from Taylor & Francis Online website.
+
+Han, M.L. (2003, October). From travelogues to guidebooks: Imagining colonial Singapore, 1819–1940. <i>Sojourn: Journal of Social issues in Southeast Asia</i>, 18 (2), 257–278. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+
+Levine, P. (Ed.). (2004). *[Gender and empire](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12343875)*. New York: Oxford University Press. (Call no.: R 305.309171241 GEN)
+
+Mills, S. (1991). <i>Discourses of difference: An analysis of women’s travel writing and colonialism</i>. London: Routledge. (Not available in NLB’s holdings)
+
+Morgan, S. (1996). *[Place matters: Gendered geography in Victorian women’s travel books about Southeast Asia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7548761)*. New Jersey: Rutgers University Press. (Call no.: RSING 820.9355 MOR)
+
+Strobel, M. (1991). *[European women and the second British empire]*. Indianapolis: Indiana University Press. (Not available in NLB’s holdings)
+
+*[The Singapore and Straits directory for 1894, containing also directories of Sarawak, Labuan, Siam, Johor and the Protected Native States of the Malay Peninsula and an appendix](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5057490)*. (1890–1895). (1894). Singapore; The Singapore & Straits Printing Office. (Call no.: RRARE 382.09595 STR; Microfilm no.: NL1180)
