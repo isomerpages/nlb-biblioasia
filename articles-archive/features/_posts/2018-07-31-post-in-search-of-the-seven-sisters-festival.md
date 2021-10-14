@@ -81,6 +81,9 @@ This diversity in interpreting folk beliefs can be seen in the oral history inte
 
 Some interviewees reported that unmarried women would visit the festival sites and doll themselves up in the hope of meeting their future husbands, while other interviewees disagreed – likely because they thought such behaviour was unbecoming of decent women and inappropriate for the festival.
 
-However, granted that the main organisers were amahs who were sworn to a life of celibacy, these worshippers were clearly not in search of suitable spouses at the festival. To this end, oral history accounts with the amahs focused on descriptions of traditional practices relating to the festival rather than their personal beliefs and motivations.
+However, granted that the main organisers were *amahs* who were sworn to a life of celibacy, these worshippers were clearly not in search of suitable spouses at the festival. To this end, oral history accounts with the *amahs* focused on descriptions of traditional practices relating to the festival rather than their personal beliefs and motivations.
 
-Judging from the actual practices – amahs and other young unmarried women members of Seven Sisters associations would spend a good part of the year creating beautiful handicrafts – it appears that the Seven Sisters were worshipped for their artistry and mastery of needle crafts. This certainly is corroborated by research on the Seven Sisters cult in Guangdong, China, where the adherents in Singapore originated from.11
+Judging from the actual practices – *amahs* and other young unmarried women members of Seven Sisters associations would spend a good part of the year creating beautiful handicrafts – it appears that the Seven Sisters were worshipped for their artistry and mastery of needle crafts. This certainly is corroborated by research on the Seven Sisters cult in Guangdong, China, where the adherents in Singapore originated from.11
+
+<img src="/images/Vol-14-issue-2/in-search-of-the-seven-sis/Festival4.JPG">
+<div style="background-color: white;">Known as cat cheh poon in Cantonese (Seven Sisters Basin), this big paper basin is one of the key offerings burnt during the Seven Sisters Festival, 1954. <i>Image source: The Straits Times © Singapore Press Holdings Limited. Reprinted with permission.</i></div>
