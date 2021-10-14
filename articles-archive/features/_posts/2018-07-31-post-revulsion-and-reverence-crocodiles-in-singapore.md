@@ -174,22 +174,30 @@ The public spaces developed for encounters with crocodiles question the notion o
 [^9]:Lim, S. (1989, March 7). [Croc bites trainer during show](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19890307-1.2.27.20). *The Straits Times*, p. 18. Retrieved from NewspaperSG.
 [^10]:[Paradise lost](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20070126-1.2.9.5). (2007, January 26). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
 [^11]:Yee, A.T.K., et al. (2010, June 4). The present extent of mangrove forests in Singapore. *Nature in Singapore, 3*, 139–145. Retrieved from Lee Kong Chian Natural History Museum website.
-[^12]:
-[^13]:
-[^14]:
-[^15]:
-[^16]:
-[^17]:
-[^18]:
-[^19]:
-[^20]:
+[^12]:Yee, et.al, 4 Jun 2010.
+[^13]:[Clerk keeps all-night vigil at creek for a 20-ft. crocodile](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19600317-1.2.116). (1960, March 17). *The Straits Times*, p. 14. Retrieved from NewspaperSG.
+[^14]:[Croc scares fishermen](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19600318-1.2.154). (1960, March 18). *The Straits Times*, p. 16. Retrieved from NewspaperSG.
+[^15]:[*The Straits Times*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19600318-1.2.154), 18  Mar 1960, p. 16; [Ponggol croc returns with a mate](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19600326-1.2.37). (1960, March 26). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
+[^16]:*Kramat*, or *keramat*, from Arabic *karama*, translated as “miracle”. Whilst often deemed as a material shrine, *kramat* is not exclusive to a physical space nor spiritual entity, but a complex sacred “shrine” to both, visible and invisible, and applied to the mobile or immobile physicality of a spirit.
+[^17]:[They offer a silent prayer to ‘sacred’ crocodile](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19600419-1.2.107). (1960, April 19). *The Singapore Free Press*, p. 7. Retrieved from NewspaperSG.
+[^18]:Richards, A. (1960, June 29). [Villagers to hold a feast for kramat to scare away crocs in the canal](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19600629-1.2.113). *The Singapore Free Press*, p. 9. Retrieved from NewspaperSG.
+[^19]:[Shy croc in a flower pond spreads fear among kampong folk](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19600817-1.2.132). (1960, August 17). *The Singapore Free Press*, p. 9. Retrieved from NewspaperSG.
+[^20]:Abdullah Abdul Kadir. (1918). [*The autobiography of Munshi Abdullah*](http://eresources.nlb.gov.sg/printheritage/detail/86a4c1e0-0283-465e-9bfe-a334e5773db5.aspx) (W.G. Shellabear, Trans). Singapore: Printed at the Methodist Pub. House. Retrieved from BookSG.
+[^21]:
+[^22]:
+[^23]:
+[^24]:
+[^25]:
+[^26]:
+[^27]:
+[^28]:
+[^29]:
+[^30]:
 
-Yee, et.al, 4 Jun 2010.
-Clerk keeps all-night vigil at creek for a 20-ft. crocodile. (1960, March 17). The Straits Times, p. 14. Retrieved from NewspaperSG.
-Croc scares fishermen. (1960, March 18). The Straits Times, p. 16. Retrieved from NewspaperSG.
-The Straits Times, 18  Mar 1960, p. 16; Ponggol croc returns with a mate. (1960, March 26). The Straits Times, p. 4. Retrieved from NewspaperSG.
-Kramat, or keramat, from Arabic karama, translated as “miracle”. Whilst often deemed as a material shrine, kramat is not exclusive to a physical space nor spiritual entity, but a complex sacred “shrine” to both, visible and invisible, and applied to the mobile or immobile physicality of a spirit.
-They offer a silent prayer to ‘sacred’ crocodile. (1960, April 19). The Singapore Free Press, p. 7. Retrieved from NewspaperSG.
-Richards, A. (1960, June 29). Villagers to hold a feast for kramat to scare away crocs in the canal. The Singapore Free Press, p. 9. Retrieved from NewspaperSG.
-Shy croc in a flower pond spreads fear among kampong folk. (1960, August 17). The Singapore Free Press, p. 9. Retrieved from NewspaperSG.
-Abdullah Abdul Kadir. (1918). The autobiography of Munshi Abdullah (W.G. Shellabear, Trans). Singapore: Printed at the Methodist Pub. House. Retrieved from BookSG.
+
+
+
+
+
+
+
