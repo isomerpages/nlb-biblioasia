@@ -6,12 +6,12 @@ layout: post
 ---
 #### **Bonny Tan** interweaves her own experiences as a modern Singaporean mother travelling and living abroad with those of two Victorian-era Englishwomen.
 
-<img src="/images/Vol-14-issue-2/globetrotting-mums/Globetrotting1.JPG">
+<img style="width: 650px; height: 380px;" src="/images/Vol-14-issue-2/globetrotting-mums/Globetrotting1.JPG">
 <div style="background-color: white;">Women travelling abroad with their husbands and children in 19th-century England were rare, but two Victorian-era women – Harriette McDougall and Annie Brassey – did and wrote books about their adventures overseas. <i>Image reproduced from Crane, T.F., & Houghton, E.E. (1882). Abroad (p. 11). London, Belfast, New York: Marcus Ward & Co.</i></div>
 
 *My son, all of six months old, months old, was on his first flight out of Singapore, ensconced in a bassinet that hung precariously in front of me. With my backpack holding both laptop and milk bottles stashed in the overhead compartment, I wondered how this journey and new living arrangement – of commuting for work between two countries with a child in tow – would pan out. Peering out of the window into the vast blue sea beneath, it struck me that for centuries, mothers and their children have made such journeys for various reasons and under more harrowing circumstances – many of whom never lived long enough to return home.*
 
-<img src="/images/Vol-14-issue-2/globetrotting-mums/Globetrotting2.JPG">
+<img style="width: 650px; height: 360px;" src="/images/Vol-14-issue-2/globetrotting-mums/Globetrotting2.JPG">
 <div style="background-color: white;">The writer Bonny and her son Bryan enjoying the day at Mui Ne, a beach resort town along the South China Sea in southeast Vietnam, in 2011. Bryan was about three years old then. <i>Courtesy of Bonny Tan.</i></div>
 
 #### **A Mother’s Perspective**
@@ -22,7 +22,7 @@ Published accounts of mothers in the 19th century who travelled to new lands wit
 
 While Harriette set up home with her family – living among the local people – in the disease-ridden jungles of Sarawak in 1847, Annie travelled with her family in relative comfort on board a private schooner, the *Sunbeam*, calling in at various ports around the world. Annie’s well-documented journey began in 1876, almost three decades after Harriette’s sojourn.
 
-<img src="/images/Vol-14-issue-2/globetrotting-mums/Globetrotting3.JPG">
+<img style="width: 370px; height: 400px;" src="/images/Vol-14-issue-2/globetrotting-mums/Globetrotting3.JPG">
 <div style="background-color: white;">Harriette McDougall in November 1882 when she was 65. Photograph by Hughes and Mullin, Isle of Wight. <i>Image reproduced from Bunyon, C.J. (1889). Memoirs of Francis Thomas McDougall, D.C.L.F.R.C.S., Sometime Bishop of Labuan and Sarawak, and of Harriette, his Wife (p. 20). London: Longmans, Greens, and Co. (Microfilm no.: NL25423).</i></div>
 
 Harriette was married to Francis Thomas McDougall, who would later become the first Bishop of Sarawak. They initially served as missionaries among head-hunters, pirates and rioting Chinese between 1847 and 1867. Her life of hardship in the tropics is captured through three books: *Letters from Sarawak: Addressed to a Child*[^1] (1854), which contains letters to her eldest son; her autobiography, *Sketches of Our Life at Sarawak*[^2] (1882); and her husband’s biography, *Memoirs of Francis Thomas McDougall… Sometime Bishop of Labuan and Sarawak, and of Harriette, his Wife*[^3] (1889).
@@ -37,7 +37,7 @@ Annie’s well-known account – *A Voyage in the ‘Sunbeam’: Our Home on the
 
 Unlike the women of her generation, Annie’s 1876 circumnavigation of the world was not borne out of an obligation to accompany her husband for his work but was something she herself had longed to do. The book was an outcome of “her painstaking desire not only to see everything thoroughly but to record her impressions faithfully and accurately”,[^5] as her husband writes in the preface. This became one of many such family travels she would embark on and write about thereafter, ending only with her death from malaria in 1887 while on her final journey.
 
-<img src="/images/Vol-14-issue-2/globetrotting-mums/Globetrotting4.JPG">
+<img style="width: 650px; height: 400px;" src="/images/Vol-14-issue-2/globetrotting-mums/Globetrotting4.JPG">
 <div style="background-color: white;">(Left) Portrait of Annie Brassey reproduced from Wikimedia Commons. <i>Original image from Brassey, T. (1917). The “Sunbeam”, R.Y.S.: Voyages and Experiences in Many Waters: Naval Reserves and other Matters. London: John Murray.</i><br>
 (Right) Harriette McDougall in November 1882 when she was 65. Photograph by Hughes and Mullin, Isle of Wight. <i>Image reproduced from Bunyon, C.J. (1889). Memoirs of Francis Thomas McDougall, D.C.L.F.R.C.S., Sometime Bishop of Labuan and Sarawak, and of Harriette, his Wife (p. 20). London: Longmans, Greens, and Co. (Microfilm no.: NL25423).</i></div>
 
