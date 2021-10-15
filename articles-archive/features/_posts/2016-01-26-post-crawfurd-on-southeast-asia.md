@@ -28,7 +28,7 @@ The National Library holds three copies of the 1856 edition. One is from the Ya 
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>ABOUT THE BOOK</b>
 <br><br>
-<b>Title:</b> A Descriptive Dictionary of the Indian Islands & Adjacent Countries
+	<b>Title:</b> <i><a href="https://eresources.nlb.gov.sg/printheritage/detail/2f493163-969c-482a-aa4d-982efd9c5e7b.aspx">A Descriptive Dictionary of the Indian Islands & Adjacent Countries</a></i>
 <br>
 <b>Author:</b> John Crawfurd (1783–1868)
 <br>
