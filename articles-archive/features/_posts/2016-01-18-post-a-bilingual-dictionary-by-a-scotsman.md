@@ -4,3 +4,42 @@ date: 2016-01-18
 permalink: /vol-11/issue-4/jan-mar-2016/bilingual-dictionary
 layout: post
 ---
+A dictionary written more than 150 years ago bears testimony to how Malay – the predominant language in the Straits Settlements at the time – was of interest to Europeans in the region. The fact that it was written by a Scotsman speaks volumes about the linguistic ability of the author and his abiding interest in the people and culture of the region.
+
+The National Library has three sets of *A Grammar and Dictionary of the Malay Language with a Preliminary Dissertation*, one of which bears stamps from both the Raffles Library and the Syonan Library (Syonan Tosyokan), the name it was known as during the Japanese Occupation of Singapore.
+
+In the book’s preface, the author, John Crawfurd, claimed to have spent 40 years working on the dictionary, 12 years of which he lived in Southeast Asia learning the language, and another 10 spent compiling relevant materials.[^1] He acknowledged receiving help from William Marsden, a pioneering orientalist who fuelled the growing interest in languages and philology at the turn of the 19th century.[^2] Marsden produced one of the earliest English-Malay dictionaries, entitled *A Dictionary of the Malayan Language in Two Parts, Malayan and English and English and Malayan*, in 1812.
+
+Crawfurd also sought advice from other contemporary language experts of the time, including Horace Hayman Wilson from Oxford University as well as people like James Richardson Logan, Thomas Bramber Gascoign, Robert Brown, George Bentham, Nathaniel Wallich and Thomas Horsfield.[^3]
+
+This dictionary comprises two volumes. The first volume contains two sections: a 291-page essay entitled “A Dissertation on the Affinities of the Malayan Languages”, and a shorter 84-page essay on “A Grammar of the Malay Language”. The second volume consists of two sections of about 200 pages each: “A Dictionary of the Malay and English Languages”, followed by the complementary “A Dictionary of the English and Malay Languages”. Scholars regard this as an extensive dictionary as it contains no less than 15,000 words.
+
+A *Straits Times* article dated 15 June 1852 lauded Crawfurd’s dissertation on the affinities of the Malayan and Polynesian languages for offering much originality in the systematic study of the Malay language. Though it was widely believed that most of the languages spoken from Madagascar to Easter Island in the Pacific were derived from one common source, Crawfurd examined the physical characters of the races speaking these languages, as well as the nature and extent of the action and reaction of these languages on one another during that era, and proved that a “far greater part of them bear traces of original independent syntactical or logical structure”.[^4]
+
+Crawfurd also documented the number of foreign words in the languages and the sources these words were derived from, deducing that trade and politics had led to the adoption of certain words and phrases. For example, he listed words and phrases that had been influenced and modified by those speaking Arabic and languages from the Sanskrit family.[^5]
+
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>WHO WAS JOHN CRAWFURD?</b>
+<br><br>
+John Crawfurd (1783–1868) was the second British Resident of Singapore from 1823 to 1826. A medical doctor by training, Crawfurd completed his medical studies in Edinburgh in 1803 at the age of 20. In the same year, he joined the medical service of the British East India Company in India and worked there for five years before being transferred to Penang, where he first became interested in Malay language and culture.[^6]
+<br><br>
+Crawfurd met Stamford Raffles in Penang and in 1811, joined him on a successful British invasion of Java led by Lord Minto, the Governor-General of India.[^7] During the period of British administration in Java, Crawfurd served as the British Resident at the Court of Yogyakarta from 1811 until 1816 when Java was restored to Dutch rule.[^8]
+<br><br>
+Crawfurd subsequently returned to England and took up writing, documenting his experiences and findings gleaned from working in the Far East. In 1820, he published his magnum opus the three-volume *History of the Indian Archipelago*, which was praised for being a significant piece of work that established the “Indian Archipelago” as an intelligible field of historical study, and for bringing the term “Indian Archipelago” into prominence. The term was used in the titles of a number of English books that were published soon afterward.[^9]
+<br><br>
+In 1821, Crawfurd was sent on a diplomatic mission to Siam (now Thailand) and Cochin China (South Vietnam), and visited Singapore forthe first time in 1822.[^10] He succeeded William Farquhar as the second British Resident of Singapore on 9 June 1823.[^11] As Resident, Crawfurd was instrumental in concluding the Treaty of Friendship and Alliance signed between Sultan Hussein Shah and Temenggong Abdul Rahman on 2 August 1824. The treaty officially ceded Singapore and all seas, straits and islands within 10 geographical miles (about 18.6 km) of her shores in perpetuity to the British East India Company and its heirs.[^12]
+<br><br>
+After a successful stint as Singapore’s Resident, Crawfurd was again sent as an envoy, this time to Ava, Burma (now Myanmar), in 1826. He retired in 1827 and returned to England where he tried unsuccessfully to enter the British Parliament. In his retirement years, Crawfurd maintained an active interest in Eastern affairs and contributed to the promotion and understanding of the region as the first President of the Straits Settlements Association, which was formed in London to protect the Settlements’ interests.
+<br><br>
+Crawfurd spent the remaining years of his life writing books and papers on Eastern subjects. Some of his better-known publications include *A Descriptive Dictionary of the Indian Islands & Adjacent Countries* (1856), *A Grammar and Dictionary of the Malay Language with a Preliminary Dissertation* (1852) and J*ournal of an Embassy from the Governor-General of India to the Courts of Siam and Cochin China* (1828).</span>
+
+**Written by:** Ang Seow Leng
+
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>ABOUT THE BOOK</b>
+<br><br>
+<b>Title:</b> A Grammar and Dictionary of the Malay Language with a Preliminary Dissertation
+Author: John Crawfurd (1783–1868)
+Year published: 1852
+Publisher: Smith, Elder, and Co. (London)
+Language: English
+Type: Book (2 volumes); 595 pages in total
+Location: Call no.: RRARE 499.15 CRA; Microfilm nos.: NL25912 (v. 1); NL26266 (v. 1–2)</span>
