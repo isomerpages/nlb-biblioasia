@@ -37,9 +37,15 @@ Crawfurd spent the remaining years of his life writing books and papers on Easte
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>ABOUT THE BOOK</b>
 <br><br>
 <b>Title:</b> A Grammar and Dictionary of the Malay Language with a Preliminary Dissertation
-Author: John Crawfurd (1783–1868)
-Year published: 1852
-Publisher: Smith, Elder, and Co. (London)
-Language: English
-Type: Book (2 volumes); 595 pages in total
-Location: Call no.: RRARE 499.15 CRA; Microfilm nos.: NL25912 (v. 1); NL26266 (v. 1–2)</span>
+<br>
+<b>Author:</b> John Crawfurd (1783–1868)
+<br>
+<b>Year published:</b> 1852
+<br>
+<b>Publisher:</b> Smith, Elder, and Co. (London)
+<br>
+<b>Language:</b> English
+<br>
+<b>Type:</b> Book (2 volumes); 595 pages in total
+<br>
+<b>Location:</b> Call no.: RRARE 499.15 CRA; Microfilm nos.: NL25912 (v. 1); NL26266 (v. 1–2)</span>
