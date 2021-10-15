@@ -6,9 +6,13 @@ layout: post
 ---
 Love it or hate it, most people find expatriates’ accounts of Singapore endlessly fascinating. One of the earliest newspaper columnists was Charles Burton Buckley, whose writings on Singapore were published as early as 1902 – the first of its kind at the time.
 
+<div style="background-color: white;"><br><img src="/images/vol-11-issue-4/an-expat-impression-of-sg/02_expatimpression.jpg">Charles Burton Buckley in his Mercedes Benz, the first car brand imported into Singapore. <i>All rights reserved, Makepeace, W., Brooke, G. E., & Braddell, R. St. J. (1921). One Hundred Years of Singapore (Vol. 2). London: John Murray.</i></div>
+
 This two-volume work spans 48 years of Singapore history from its founding in 1819 to the transfer from the British East India Company to the Colonial Office in 1867. There are a total of six complete sets in the National Library. One set is part of the Gibson-Hill Collection, two sets belong to the Ya Yin Kwan Collection and another set was donated by Yeh Sui-Yen.
 
 Organised in a chronological order, the publication is not so much a serious academic work but a collection of Buckley’s lighthearted columns aimed at entertaining the local reading public.[^1] The columns were written by Buckley for the *Singapore Free Press*, along with some new information.[^2] *An Anecdotal History of Old Times in Singapore* is nevertheless an important publication as it offers a selected archive of historical documents that may no longer be available besides acting as a useful reference guide to the who’s who in the Singapore of the time.[^3]
+
+<div style="background-color: white;"><br><img src="/images/vol-11-issue-4/an-expat-impression-of-sg/01_expatimpression.jpg">Title page of <i>An Anecdotal History of Old Times in Singapore</i>, with the frontispiece featuring the last page of the treaty Stamford Raffles signed with Sultan Hussein Shah of Johor and Temenggong Abdul Rahman on 6 February 1819 to establish a trading post on the island of Singapore. <i>All rights reserved, National Library Board, Singapore.</i></div>
 
 Buckley, who spent all his adult life in Singapore  almost 50 years – came to Singapore in 1893 when he was only 20 years old, following the advice of William Henry Macleod Read, who gave him a job at A. L. Johnston & Company. Buckley worked there for 11 years, and then spent a short time at the Chendras Gold Mine near Malacca. He returned to Singapore to study law after that and was appointed assistant to Thomas Braddell, the Attorney-General. Subsequently, he became a partner in Rodyk & Davidson until his retirement in 1904.[^4]
 
@@ -17,6 +21,8 @@ In 1884, Buckley and 32 subscribers bought the over the *Singapore Free Press* a
 It was then that Buckley had the idea of compiling an anecdotal account of the past from the archives of the *Singapore Free Press* to fill up the content in the newspaper. But as there was no lack of current news to write about, the newspaper became so successful that it was converted into a daily paper within three years, and was eventually handed over to professionals to manage.[^6]
 
 Buckley wrote about how he got started on his book in the preface. He “had columns of the history [articles] cut out of the [*Singapore Free Press*] newspaper, sewn into a book, and interleaved. This was sent to Mr W. H. Read, who passed it on to Mr James Guthrie… Their remarks, additions, and corrections were added to others which came in from various quarters, owing to the publicity in the newspaper”.[^7]
+
+<div style="background-color: white;"><img style="width:400px" src="/images/vol-11-issue-4/an-expat-impression-of-sg/03_expatimpression.jpg">An advertisement of the book in <i>The Straits Times</i> dated 6 February 1903. The book was on sale at the department store John Little & Company in Commercial Square (present-day Raffles Place). <i>© The Straits Times.</i></div>
 
 These newspaper clippings and Buckley’s own personal reminiscences contain much information on Singapore affairs and personalities between 1819 and 1867.[^8] As an amateur actor and musician, Buckley was a popular figure in the European community’s social circles and would perform in local music and theatre groups. He was also active in charity work, and from the year he arrived in Singapore until his last Christmas in 1911, he threw Christmas parties for children every year on Boxing Day.[^9]
 
