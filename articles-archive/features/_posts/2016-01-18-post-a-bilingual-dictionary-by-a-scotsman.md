@@ -52,26 +52,26 @@ Crawfurd spent the remaining years of his life writing books and papers on Easte
 
 #### **NOTES**
 
-[^1]:Crawfurd, J. (1852). Preface. In A grammar and dictionary of the Malay language with a preliminary dissertation (Vol. I, p. viii). London: Smith, Elder. Retrieved from BookSG.
+[^1]:Crawfurd, J. (1852). Preface. In *[A grammar and dictionary of the Malay language with a preliminary dissertation](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202671788)* (Vol. I, p. viii). London: Smith, Elder. Retrieved from BookSG.
 
-[^2]:European Association for Lexicography. (2012, July 19). A catalogue of dictionaries, vocabularies, grammars and alphabets – William Marsden. Retrieved from European Association for Lexicography website.
+[^2]:European Association for Lexicography. (2012, July 19). *A catalogue of dictionaries, vocabularies, grammars and alphabets – William Marsden*. Retrieved from European Association for Lexicography website.
 
-[^3]:Crawfurd, 1852, vol. 1, p. viii.
+[^3]:[Crawfurd](https://eresources.nlb.gov.sg/printheritage/detail/74df255c-8dbb-42f1-b381-97c04752b32d.aspx), 1852, vol. 1, p. viii.
 
-[^4]:Untitled. (1852, June 15). The Straits Times, p. 3. Retrieved from NewspaperSG.
+[^4]:[Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18520615-1.2.6). (1852, June 15). The Straits Times, p. 3. Retrieved from NewspaperSG.
 
-[^5]:The Straits Times, 15 Jun 1852, p. 3.
+[^5]:*[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18520615-1.2.6)*, 15 Jun 1852, p. 3.
 
-[^6]:Chew, E.C.T. (2002, October 12). Dr John Crawfurd (1783–1868): The Scotsman who made Singapore British. Retrieved from Contemporary Postcolonial & Postimperial Literature in English website.
+[^6]:Chew, E.C.T. (2002, October 12). *Dr John Crawfurd (1783–1868): The Scotsman who made Singapore British*. Retrieved from Contemporary Postcolonial & Postimperial Literature in English website.
 
 [^7]:Chew, 12 Oct 2002.
 
-[^8]:Douglas, B., & Ballard, C. (Eds.). (2008). Foreign bodies: Oceania and the science of race, 1750–1940 (p. 167). Canberra: ANU Press. (Not available in NLB holdings)
+[^8]:Douglas, B., & Ballard, C. (Eds.). (2008). *Foreign bodies: Oceania and the science of race, 1750–1940* (p. 167). Canberra: ANU Press. (Not available in NLB holdings)
 
-[^9]:Soedjatmoko (Ed.). (2007). An introduction to Indonesian historiography (p. 266). Jakarta: Equinox Pub. (Call no.: RSEA 959.8 INT) 
+[^9]:Soedjatmoko (Ed.). (2007). *[An introduction to Indonesian historiography](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12876930)* (p. 266). Jakarta: Equinox Pub. (Call no.: RSEA 959.8 INT) 
 
-[^10]:Turnbull, C.M. (2009). A history of modern Singapore 1819–2005 (p. 44). Singapore: NUS Press. (Call no.: RSING 959.57 TUR) 
+[^10]:Turnbull, C.M. (2009). *[A history of modern Singapore 1819–2005](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13206047)* (p. 44). Singapore: NUS Press. (Call no.: RSING 959.57 TUR) 
 
-[^11]:Bastin, J. (1981). The letters of Sir Stamford Raffles to Nathaniel Wallich 1819–1824. Journal of the Malaysian Branch of the Royal Asiatic Society, 54 (2) (240), 1–73, p. 58, note 166. Retrieved from JSTOR via NLB’s eResources website.
+[^11]:Bastin, J. (1981). The letters of Sir Stamford Raffles to Nathaniel Wallich 1819–1824. *Journal of the Malaysian Branch of the Royal Asiatic Society, 54* (2) (240), 1–73, p. 58, note 166. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
 [^12]:[Turnbull](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13206047), 2009, p. 47.
