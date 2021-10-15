@@ -36,7 +36,7 @@ Crawfurd spent the remaining years of his life writing books and papers on Easte
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>ABOUT THE BOOK</b>
 <br><br>
-<b>Title:</b> A Grammar and Dictionary of the Malay Language with a Preliminary Dissertation
+<b>Title:</b> <i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4515189">A Grammar and Dictionary of the Malay Language with a Preliminary Dissertation</a></i>
 <br>
 <b>Author:</b> John Crawfurd (1783–1868)
 <br>
@@ -74,4 +74,4 @@ Crawfurd spent the remaining years of his life writing books and papers on Easte
 
 [^11]:Bastin, J. (1981). The letters of Sir Stamford Raffles to Nathaniel Wallich 1819–1824. Journal of the Malaysian Branch of the Royal Asiatic Society, 54 (2) (240), 1–73, p. 58, note 166. Retrieved from JSTOR via NLB’s eResources website.
 
-[^12]:Turnbull, 2009, p. 47.
+[^12]:[Turnbull](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13206047), 2009, p. 47.
