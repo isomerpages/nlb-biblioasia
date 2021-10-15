@@ -45,9 +45,9 @@ Comprising 57 chapters and about 400 pages per volume, the title was first publi
 <b>Publisher:</b> Fraser & Neave (Singapore)
 <br>
 <b>Language:</b> English
-
+<br>
 <b>Type:</b> Book (2 volumes); 812 pages in total
-
+<br>
 <b>Location:</b> Call no.: RRARE 959.57 BUC; Microfilm no.: NL269
 <br>
 	<b>Copies donated by:</b> Mrs Loke Yew, Tan Yeok Seong and Yeh Sui-Yen</span>
