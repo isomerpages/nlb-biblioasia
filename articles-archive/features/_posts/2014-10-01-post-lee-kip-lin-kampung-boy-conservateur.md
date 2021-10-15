@@ -4,7 +4,10 @@ date: 2014-10-01
 permalink: /vol-10/issue-3/oct-dec-2014/lee-kip-lin
 layout: post
 ---
-Lee Kip Lin in the early 1960s. <i>Courtesy of Mrs Lee Li-Ming.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-3/leekiplin/Lee_Kip_Lin.jpg">
+Lee Kip Lin in the early 1960s. <i>Courtesy of Mrs Lee Li-Ming.</i></div>
 
 The late Lee Kip Lin was a man who wore manyhats as student, educator and mentor, but isperhaps best remembered for his passion forconserving Singapore’s pre-war architecturein his writings and teaching. 
 
@@ -20,15 +23,30 @@ Lee came into his profession almost by accident. His academic records were poor 
 
 During his six-year study at Bartlett, Lee was influenced by architectural greats such as William Holford (1907–1975), a noteworthy town planner; A. E. Richardson (1880–1964), an expert in the art of architecture especially of the Renaissance period; and Hector Corfiato (1893–1963?)[^10], Richardson’s protégé who later took over as Bartlett’s Professor of Architecture. Lee had expressed regret that much of his time was spent socialising at bars rather than drinking in Europe’s architectural heritage.[^11]
 
-Lee Kip Lin’s sketch of Carcasonne, France, copied from Taylor, G.‘s <i>Urban Geography</i> (1951), which shows off some of his drawing skills. <i>From the Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-3/leekiplin/sketch_of_Carcasonne.jpg">
+Lee Kip Lin’s sketch of Carcasonne, France, copied from Taylor, G.‘s <i>Urban Geography</i> (1951), which shows off some of his drawing skills. <i>From the Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009.</i></div>
 
-Lee Kip Lin (centre) with his brother Kip Lee (right) and a neighbour on a boat just off their family home in Amber Road, Katong, circa 1935. <i>Courtesy of Mrs Lee Li-Ming.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-3/leekiplin/boat.jpg">
+Lee Kip Lin (centre) with his brother Kip Lee (right) and a neighbour on a boat just off their family home in Amber Road, Katong, circa 1935. <i>Courtesy of Mrs Lee Li-Ming.</i></div>
 
-Lee Kip Lin (right) with friends in Paris circa 1950s. <i>Courtesy of Mrs Lee Li-Ming.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-3/leekiplin/Lee_Kip_Lin_with_friends.jpg">
+Lee Kip Lin (right) with friends in Paris circa 1950s. <i>Courtesy of Mrs Lee Li-Ming.</i></div>
 
-Lee and his architecture students at his Binjai Park home. <i>Courtesy of Mrs Lee Li-Ming.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-3/leekiplin/Lee_Kip_Lin_with_students.jpg">
+Lee and his architecture students at his Binjai Park home. <i>Courtesy of Mrs Lee Li-Ming.</i></div>
 
-Lee Kip Lin and his wife, Ong Li-Ming, married in 1959. <i>Courtesy of Mrs Lee Li-Ming.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-3/leekiplin/Lee_Kip_Lin_with_wife.jpg">
+	Lee Kip Lin and his wife, Ong Li-Ming, married in 1959. <i>Courtesy of Mrs Lee Li-Ming.</i></div>
 
 #### **Lee the Architect**
 
@@ -50,11 +68,20 @@ Lee threw himself into the research and conservation of the local architecture h
 
 After Lee retired, he began systematically photographing, neighbourhood by neighbourhood and street by street, all the buildings that lined the roads in the city as well as landmarks in the outlying areas of the island. By this time, Lee had accumulated an extensive collection of heritage photographs, maps and postcards which he purchased over many years from antique dealers in London and other parts of the world. Lee battled ill health in his later years and passed away in 2011 after a bout of pneumonia. He was 86 years old when he died.
 
-The Straits of Singapore with those of Durion, Sabon and Mandol by Thomas Jefferys, Geographer to the King. <i>From the Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-3/leekiplin/The_Straits_of_Singapore.jpg">
+The Straits of Singapore with those of Durion, Sabon and Mandol by Thomas Jefferys, Geographer to the King. <i>From the Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009.</i></div>
 
-A navigational chart showing the Straits of Malacca and Malaya. Created by Bellin, Jacques Nicolas in 1775. <i>From the Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-3/leekiplin/The_Straits_of_Malacca_and_Malaya.jpg">
+A navigational chart showing the Straits of Malacca and Malaya. Created by Bellin, Jacques Nicolas in 1775. <i>From the Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009.</i></div>
 
-Report on Empress Place by Preservation of Monuments Board, 1973. A unique typescript publication in the Lee Kip Lin collection. <i>From the Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009.</i>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-3/leekiplin/Report_on_Empress_Place.jpg">
+Report on Empress Place by Preservation of Monuments Board, 1973. A unique typescript publication in the Lee Kip Lin collection. <i>From the Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009.</i></div>
 
 #### **The Lee Kip Lin Collection**
 
