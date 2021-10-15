@@ -24,7 +24,7 @@ Charles Darwin (1809—1882) is one of the most intensely studied scientists in 
 
 ##### **Darwin in Cambridge** 
 
-Darwin entered the books as an undergraduate student at Christ's College, Cambridge, on 15 October 1827, but as he had forgotten most of his schoolboy Greek he had to be tutored at home before entering Cambridge. (Why this mattered is explained in <i>Darwin in Cambridge: The Most Joyful years.</i>[^2]) This meant he did not arrive in Cambridge until January 1828 – and by then all the rooms in the college were filled. So he took lodgings above the tobacconist shop across the street. The owner had an arrangement with Christ's College so that its students could rent rooms there, though this sometimes led to complaints. For instance, the shop owner across the street from the tobacconist would complain to the Master of the College that students kept knocking the hats off unwary passers-by along the street by flicking a long horsewhip from their first floor windows. 
+Darwin entered the books as an undergraduate student at Christ's College, Cambridge, on 15 October 1827, but as he had forgotten most of his schoolboy Greek he had to be tutored at home before entering Cambridge. (Why this mattered is explained in <i>Darwin in Cambridge: The Most Joyful Years.</i>[^2]) This meant he did not arrive in Cambridge until January 1828 – and by then all the rooms in the college were filled. So he took lodgings above the tobacconist shop across the street. The owner had an arrangement with Christ's College so that its students could rent rooms there, though this sometimes led to complaints. For instance, the shop owner across the street from the tobacconist would complain to the Master of the College that students kept knocking the hats off unwary passers-by along the street by flicking a long horsewhip from their first floor windows. 
 	
 For many years it has been repeated that Darwin was a theology student at Cambridge. This is not true. There was no such undergraduate degree. Instead, Darwin was registered for an ordinary Bachelor of Arts (BA) degree. It was his intention to become a clergyman, but such training could take place only after receiving the prerequisite B.A. In the end, Darwin never undertook any divinity training. 
 
@@ -93,7 +93,7 @@ Over the next eight years Wallace made dozens of expeditions. His voyage corresp
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-4/darwinandwallace/wallace_assistant_re.jpg">
+<img src="/images/vol-10-issue-4/darwinandwallace/wallace_assistant_res.jpg">
 <i>Wallace's faithful Malay assistant Ali.</i> 
 </div>
 
@@ -131,7 +131,7 @@ On his return to Britain in 1862, Wallace was no longer an obscure collector. He
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-4/darwinandwallace/Dispelling_the_darkness_cover_large_re.jpg">
+<img src="/images/vol-10-issue-4/darwinandwallace/Dispelling_the_darkness_cover_large_res.jpg">
 <i>Dispelling the Darkness</i> uncovers the true story of Darwin and Wallace and the theory of evolution. <i>Published by World Scientific Publishing Co., 2013.</i>
 </div>
 

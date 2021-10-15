@@ -98,45 +98,43 @@ The ABCFM had ambitious plans for printing in the region, and thus their acquisi
 
 Thomsen had set the foundations for a printing press in Singapore, producing works in the local languages at a time when many of his contemporaries had switched their attention to China. His grammar books, vocabulary guides, Bugis-language works and Malay scriptural translations, although not perfect, were reprinted beyond his lifetime and paved the way for similar works to be published under pioneers such as Keasberry, and later, Shellabear. More importantly, the humble printing press stirred in the locals an interest for the printed word, and opened up new vistas for them to explore.
 
-<img style="width:0px;" src="/images/space1.png">
-
-|**SOME KEY PUBLICATIONS BY CLAUDIUS HENRY THOMSEN**|
-
-|***Bustan Arifin: Malay Magazine*** (1821–22)|
-
-|This is the first Malay magazine to be published in the Malay Peninsula. A quarterly edition with about 30 pages per issue, it was written for a Malay readership and covers a wide range of subjects such as history, biography, philosophy and religion. It followed the framework set by an earlier periodical – *the Indo-Chinese Gleaner*. Missionaries Samuel Milton and Thomas Beighton regularly wrote columns for the magazine, the former on astronomy while the latter profiled heroes of history and the Christian faith. It became popular and was even read by the royal families in the Malay Peninsula. However, only six issues were published between January 1821 and April 1822 as Thomsen left for Singapore soon after.[^37]|
-
-|**The Psalter, or Psalms of David, with the Order for Morning and Evening Prayer, Daily Throughout the Year** *(Puji-pujian iaitu Segala Zabur Daud Terbahagi atas Jalan Seperti yang Dipakai oleh Sidang Perhimpunan dalam Gereja lagipun Beberapa Doa yang Dipakai Sehari-hari Pagi dan Petang)* (1824) [Call no.: RCLOS 221 PUJ]|
-
-|Thomsen was recorded as the translator in this publication printed at the Institution Press in 1824. The homily and prayer book in Malay was used during Sunday services in Singapore, and is a translation of the one commonly used in Anglican church services. A sample of this published translation was given to Raffles who commended Thomsen for the quality of its translation.[^38]|
-
-|***A Vocabulary of the English and Malayan Languages*** (1827) [Call no.: RCLOS 428.1 VOC (photocopy of an incomplete version)]|
-
-|The word-list of 2,000 words is one of the earliest collaborative works by Munshi Abdullah and Thomsen, compiled sometime between 1815 and 1816.[^39] It was first published in Malacca in 1820 to aid visiting foreigners in communicating with the locals and used as a teaching tool by Thomsen at his Malay school. The second edition was published in Singapore in 1827, likely the first vocabulary guide printed in Singapore. It provides insights into how Malay was used in Malacca and Singapore in the early 19th century. The only known complete set is found at the National University of Singapore Library’s Singapore/Malaysia Collection.|
-
-|The third edition published in Singapore in 1833, entitled *A Vocabulary of the English, Bugis, and Malay Languages: Containing About 2000 Words*, is one of the last works Thomsen would print in Singapore. The Bugis manuscript had languished for several years until a donation of 30 Spanish dollars was made by a friend of Thomsen’s to defray the printing cost.[^40] An enlarged and improved edition was printed by Evans in Malacca and Penang in 1837,[^41] with the profits used to raise 400 Spanish dollars for building a new wing for the Anglo-Chinese College in Malacca. The vocabulary continued to be printed in Singapore as late as 1860.[^42]|
-
-|***The Substance of our Saviour’s Sermon on the Mount Contained in the 5th, 6th &amp; c. 7th Chapters of the Gospel According to St Matthew*** (1829) [Call no.: RRARE 226.9059923 SER; Microfilm no.: NL 21277]|
-
-|This is a Malay translation of Jesus’s core teachings as found in his *Sermon on the Mount in the Gospel of Matthew*. The booklet begins with a single-page orthography of the Malay language as used in the text and concludes with a non-biblical six-stanza poem on the means to salvation.|
-
-|Thomsen is believed to be the translator of the booklet and author of the poem, having completed a translation of the Gospel of Matthew in 1821 while in Malacca.[^43]|
-
-|This booklet is the earliest extant Malay publication printed in Singapore and is found in the National Library, Singapore.|
-
-|<img style="width:500px;" src="/images/Vol-12-issue-4/claudius-henry-thomsen/5-claudies-henry-thomsen.png">*The Sermon on the Mount* is the longest and one of the most often quoted teachings of Jesus from the Gospel of Matthew in the Bible. The translation by Claudius Henry Thomsen is one of the earliest extant Malay publications printed in Singapore.|
-
-|***The New Testament of our Lord and Saviour Jesus Christ in Malay*** *(Kitab Al-Kudus, ia-itu, Injil Isa Al- Masihi atau Segala Surat Testament Bahru)* (1831) [Call no.: RRARE 225.59928 BIB; Microfilm no.: NL 27664, NL 9717]|
-
-|Thomsen began work on translating the New Testament of the Bible into Malay when he realised that the stocks of his Calcutta edition was running low. He devoted 12 to 15 months of fulltime work to carry out the translation, and finally printed 1,500 copies in June 1831, noting that this event “will form an era in the Malay Mission”. The British and Foreign Bible Society contributed 800 sicca Rupees for its publication.[^44] The National Library, Singapore, has the first edition of this rare publication.|
-
-|<img style="width:500px;" src="/images/Vol-12-issue-4/claudius-henry-thomsen/6-claudies-henry-thomsen.png">The National Library’s copy of *The New Testament of our Lord and Saviour Jesus Christ in Malay*. Thomsen spent 12 to 15 months translating the New Testament into Malay, and printed 1,500 copies in June 1831.|
-
-|***A Code of Bugis Maritime Laws*** (1832) [Call no.: RRARE 343.5984096 COD; Microfilm no.: NL 6400]|
-
-|The National Library, Singapore, has a copy of this publication edited by Thomsen and published in 1832. It contains the Bugis maritime laws in the Bugis script with English translations as well as an appendix of vocabulary terms. Although Thomsen’s translation was criticised as not being accurate, the publication was well received as far away as Bengal and was subsequently translated and published in French in 1845, German in 1854 and Dutch in 1856.[^45]|
-
-<div style="background-color: white;"><img style="width:300px;" src="/images/Vol-12-issue-4/claudius-henry-thomsen/7-claudies-henry-thomsen.png">The National Library holds a copy of <i>A Code of Bugis Maritime Laws</i>, which was edited by Thomsen and published in 1832. The publication was subsequently translated into French, German and Dutch.</div>
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>SOME KEY PUBLICATIONS BY CLAUDIUS HENRY THOMSEN</b>
+<br><br>
+<b><i>Bustan Arifin: Malay Magazine</i></b> (1821–22)
+<br><br>
+This is the first Malay magazine to be published in the Malay Peninsula. A quarterly edition with about 30 pages per issue, it was written for a Malay readership and covers a wide range of subjects such as history, biography, philosophy and religion. It followed the framework set by an earlier periodical – <i>the Indo-Chinese Gleaner</i>. Missionaries Samuel Milton and Thomas Beighton regularly wrote columns for the magazine, the former on astronomy while the latter profiled heroes of history and the Christian faith. It became popular and was even read by the royal families in the Malay Peninsula. However, only six issues were published between January 1821 and April 1822 as Thomsen left for Singapore soon after.[^37]
+<br><br>
+<b><i>The Psalter, or Psalms of David, with the Order for Morning and Evening Prayer, Daily Throughout the Year</b> (Puji-pujian iaitu Segala Zabur Daud Terbahagi atas Jalan Seperti yang Dipakai oleh Sidang Perhimpunan dalam Gereja lagipun Beberapa Doa yang Dipakai Sehari-hari Pagi dan Petang)</i> (1824) [Call no.: RCLOS 221 PUJ]
+<br><br>
+Thomsen was recorded as the translator in this publication printed at the Institution Press in 1824. The homily and prayer book in Malay was used during Sunday services in Singapore, and is a translation of the one commonly used in Anglican church services. A sample of this published translation was given to Raffles who commended Thomsen for the quality of its translation.[^38]
+<br><br>
+	<b><i>A Vocabulary of the English and Malayan Languages</i></b> (1827) [Call no.: RCLOS 428.1 VOC (photocopy of an incomplete version)]
+<br><br>
+The word-list of 2,000 words is one of the earliest collaborative works by Munshi Abdullah and Thomsen, compiled sometime between 1815 and 1816.[^39] It was first published in Malacca in 1820 to aid visiting foreigners in communicating with the locals and used as a teaching tool by Thomsen at his Malay school. The second edition was published in Singapore in 1827, likely the first vocabulary guide printed in Singapore. It provides insights into how Malay was used in Malacca and Singapore in the early 19th century. The only known complete set is found at the National University of Singapore Library’s Singapore/Malaysia Collection.
+<br><br>
+The third edition published in Singapore in 1833, entitled <i>A Vocabulary of the English, Bugis, and Malay Languages: Containing About 2000 Words</i>, is one of the last works Thomsen would print in Singapore. The Bugis manuscript had languished for several years until a donation of 30 Spanish dollars was made by a friend of Thomsen’s to defray the printing cost.[^40] An enlarged and improved edition was printed by Evans in Malacca and Penang in 1837,[^41] with the profits used to raise 400 Spanish dollars for building a new wing for the Anglo-Chinese College in Malacca. The vocabulary continued to be printed in Singapore as late as 1860.[^42]
+<br><br>
+<b><i>The Substance of our Saviour’s Sermon on the Mount Contained in the 5th, 6th &amp; c. 7th Chapters of the Gospel According to St Matthew</i></b> (1829) [Call no.: RRARE 226.9059923 SER; Microfilm no.: NL 21277]
+<br><br>
+This is a Malay translation of Jesus’s core teachings as found in his <i>Sermon on the Mount in the Gospel of Matthew</i>. The booklet begins with a single-page orthography of the Malay language as used in the text and concludes with a non-biblical six-stanza poem on the means to salvation.
+<br><br>
+Thomsen is believed to be the translator of the booklet and author of the poem, having completed a translation of the Gospel of Matthew in 1821 while in Malacca.[^43]
+<br><br>
+This booklet is the earliest extant Malay publication printed in Singapore and is found in the National Library, Singapore.
+<br><br>
+<img style="width:500px;" src="/images/Vol-12-issue-4/claudius-henry-thomsen/5-claudies-henry-thomsen.png">*The Sermon on the Mount* is the longest and one of the most often quoted teachings of Jesus from the Gospel of Matthew in the Bible. The translation by Claudius Henry Thomsen is one of the earliest extant Malay publications printed in Singapore.
+<br><br>
+	<b><i>The New Testament of our Lord and Saviour Jesus Christ in Malay</i></b> <i>(Kitab Al-Kudus, ia-itu, Injil Isa Al- Masihi atau Segala Surat Testament Bahru)</i> (1831) [Call no.: RRARE 225.59928 BIB; Microfilm no.: NL 27664, NL 9717]
+<br><br>
+Thomsen began work on translating the New Testament of the Bible into Malay when he realised that the stocks of his Calcutta edition was running low. He devoted 12 to 15 months of fulltime work to carry out the translation, and finally printed 1,500 copies in June 1831, noting that this event “will form an era in the Malay Mission”. The British and Foreign Bible Society contributed 800 sicca Rupees for its publication.[^44] The National Library, Singapore, has the first edition of this rare publication.
+<br><br>
+<img style="width:500px;" src="/images/Vol-12-issue-4/claudius-henry-thomsen/6-claudies-henry-thomsen.png">The National Library’s copy of *The New Testament of our Lord and Saviour Jesus Christ in Malay*. Thomsen spent 12 to 15 months translating the New Testament into Malay, and printed 1,500 copies in June 1831.
+<br><br>
+	<b><i>A Code of Bugis Maritime Laws</i></b> (1832) [Call no.: RRARE 343.5984096 COD; Microfilm no.: NL 6400]
+<br><br>
+The National Library, Singapore, has a copy of this publication edited by Thomsen and published in 1832. It contains the Bugis maritime laws in the Bugis script with English translations as well as an appendix of vocabulary terms. Although Thomsen’s translation was criticised as not being accurate, the publication was well received as far away as Bengal and was subsequently translated and published in French in 1845, German in 1854 and Dutch in 1856.[^45]
+<br><br>
+<img style="width:300px;" src="/images/Vol-12-issue-4/claudius-henry-thomsen/7-claudies-henry-thomsen.png">The National Library holds a copy of <i>A Code of Bugis Maritime Laws</i>, which was edited by Thomsen and published in 1832. The publication was subsequently translated into French, German and Dutch.</span>
 
 The author wishes to thank Dr John Bastin and Reverend Malcolm Tan for reviewing this article and sharing their valuable insights.
 

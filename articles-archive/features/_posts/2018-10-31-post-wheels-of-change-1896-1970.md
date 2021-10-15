@@ -53,11 +53,11 @@ Up until the 1920s, car advertisements in the United States and Europe tended to
 
 It was a similar scenario in Singapore. Distributors and agents highlighted both the reliability and affordability of their vehicles by touting the technology behind the cars and their attractive prices. There were also attempts at associating prestige with the advertised cars, but this was meant to build brand reputation and reflected the manufacturers’ ambitions rather than consumers’ desire for high-end luxury vehicles.
 
-###### Ford in Singapore
+##### **Ford in Singapore**
 
 In 1909, just a year after Henry Ford’s iconic Model T was introduced in America and took the world by storm, Ford cars entered the Singapore market.[^21] Initially imported by Gadelius & Company, Ford’s presence grew in Singapore when the Ford Motor Company of Malaya was established in 1926 to supervise the supply and distribution of its products in Malaya, the Dutch East Indies, Siam and Borneo.[^22] It initially carried out car assembly work in a garage on Enggor Street before expanding to larger premises on nearby Prince Edward Road in 1930. In 1941, the company moved to a newly built factory in Bukit Timah.[^23]
 
-<img style="width: 320px; height: 420px;" src="/images/Vol-14-issue-3/wheels-of-change/Wheelsy.JPG">
+<img style="width: 320px; height: 420px;" src="/images/Vol-14-issue-3/wheels-of-change/xy.JPG">
 <div style="background-color: white;">The Ford Factory building along Bukit Timah Road, which was designed in the Art Deco style, opened in 1941. According to this advertisement, the factory was producing an impressive seven models of cars and trucks, and capable of churning out 20 chassis and eight passenger car bodies per day. <i>Image reproduced from AAM News Bulletin, November 1949.</i></div>
 
 Throughout this time, as well as in the decade following the end of World War II, Ford’s advertisements in Singapore rarely departed from its marketing tactic of playing up the efficiency of its cars and competitive pricing.
@@ -65,13 +65,13 @@ Throughout this time, as well as in the decade following the end of World War II
 <img style="width: 320px; height: 420px;" src="/images/Vol-14-issue-3/wheels-of-change/Wheelsx.JPG">
 <div style="background-color: white;">Ford’s Consul Cortina was marketed as a woman’s “dream car”. The target customer as depicted in the advertisement here is a young, modern woman, suggesting the rising status of Singapore women in the 1960s. <i>Image reproduced from The Straits Times Annual, 1964, p. xxvii.</i></div>
 
-###### Japanese Marques
+##### **Japanese Marques**
 
 From the late 1950s, Japanese-made cars became available in Singapore. By 1970, one in two cars purchased in Singapore was a Japanese model.[^24] The main reason for their popularity? Value for money.
 
 Japanese cars were much cheaper than their American and European counterparts, and were winning races in both local and international motor competitions in the late 1960s. The advertisements cleverly highlighted these achievements and, at the same time, banked on the tried-and-tested formula of good value, efficiency as well as reliability to attract buyers.
 
-<img style="width: 320px; height: 420px;" src="/images/Vol-14-issue-3/wheels-of-change/Wheelsz.JPG">
+<img style="width: 320px; height: 420px;" src="/images/Vol-14-issue-3/wheels-of-change/xx.JPG">
 <div style="background-color: white;">Japanese marques like Datsun and Nissan scored successes at local and international races and rallies, and these achievements were regularly trumpeted in their advertisements. <i>Image reproduced from The Straits Times, 29 March 1967, p. 15.</i></div>
 
 <center><b>
@@ -127,34 +127,34 @@ Horse- and pony-drawn carriages were a common form of transportation throughout 
 <div style="background-color: white;">(Left) An advertisement touting the various features of the Mercedes Benz 250S, such as its powerful 6-cylinder engine, the ergonomically built seats, the reliable breaking system, and the light and quick steering. <i>Image reproduced from The Straits Times Annual, 1968, p. 136.</i><br>
 (Right) This advertisement portrays car ownership as a happy family ideal, with a picture perfect modern family admiring their brand new Morris motorcar. <i>Image reproduced from Her World, November 1960.</i></div><br>
 
-|**TAXI! TAXI!**
-
-|First introduced in 1910, the taxi-cab service in Singapore was the brainchild of C.F.F. Wearne and Company. Singapore became the second city in Asia after Calcutta, India, to have such a service and it was lauded as being modern and affordable. Two Rover cars were fitted with “taximeters” and were initially used to provide a reservations-only private taxi service before obtaining the licence to ply the streets for public hire. At a charge of 40 cents per mile and with a seating capacity of five passengers, taxi-cab services worked out to be no more expensive than hiring a first-class rickshaw.
-
-|<img style="width: 600px; height: 400px;" src="/images/Vol-14-issue-3/wheels-of-change/Wheels7.JPG">A fleet of taxis along North Bridge Road, 1968. Meters were made compulsory for all licensed taxis by 1953. However, many private cars were used by unlicensed taxi drivers to ply the streets for hire. People negotiated fares with the driver and strangers could be picked up along the way to share the fare. <i>George W. Porter Collection, courtesy of National Archives of Singapore.</i>
-
-|In 1919, the Singapore Motor Taxi Cab and Transport Company Limited was incorporated in the Straits Settlements (comprising Singapore, Penang and Malacca) and published its prospectus in the local newspapers to raise $350,000 as capital. The company proposed starting a taxi service comprising a fleet of 40 Ford Landaulettes as taxi-cabs. The 20-horsepower six-seater Landaulette was distributed by C.F.F. Wearne and Company.
-
-|<img src="/images/Vol-14-issue-3/wheels-of-change/Wheels8.JPG">(Left) The four-seater Trojan was promoted as a “private car, taxi or bus” that could halve the usual running expenses for a car. <i>Image reproduced from The Singapore Free Press, 9 September 1925, p. 5.</i><br> (Right) Yellow Top Cabs first appeared in Singapore in 1933 and soon became a familiar sight on the streets. <i>Image reproduced from The Straits Times, 6 November 1933, p. 16.</i>
-
-|By the end of 1920, the Singapore Taxicab Co. was advertising a “Call a Taxi” service in *The Straits Times*. Its black-and-yellow taxis were stationed at Raffles Place, General Post Office, Grand Hotel de l’Europe, Adelphi Hotel, Raffles Hotel and the company’s garage at 1 Orchard Road, ready to pick up passengers. The fare was 40 cents per mile – the same as when taxi services were introduced a decade earlier.
-
-|Abrams’ Motor Transport Company started a vehicle-for-hire scheme in the mid-1920s. Customers could hire a car or lorry at $3 per hour, which was touted as being cheaper than a taxi. Among the car models available for hire was the five-seater Gardner.
-
-|In 1930, Borneo Motors Limited imported a new type of taximeter that could calculate fares automatically. Apparently there had been disputes between drivers and passengers over the correct fare to be paid (taximeters became compulsory only in 1953). The new taximeter had been used in other Asian cities such as Rangoon and Calcutta.
-
-|Yellow Top Cabs – launched by Universal Cars Limited which claimed to have the lowest metered rates for closed cabs – made its debut in Singapore in 1933. Advertisements for Yellow Top Cabs between 1933 and 1934 sang praises of their cleanliness, efficiency and reliability. The cabs were available at taxi stands – at Raffles Place, Collyer Quay, Battery Road, Raffles Hotel, Stamford Road and Orchard Road – and could also be booked by telephone.
-
-|After World War II, many private cars were used by unlicensed taxi drivers to ply the streets for hire. These illegal “pirate taxis” caused problems for both licensed taxi drivers as well as the authorities, although it was argued that they provided a much-needed public service.
-
-|In 1970, the National Trades Union Congress started its Comfort taxi service and offered pirate taxi drivers the opportunity to join its operations. A total ban on pirate taxis came into force in July the following year.
-
-<br>
-
-|This essay is reproduced from the book, <i>Between the Lines: Early Print Advertising in Singapore 1830s-1960s</i>. Published by the National Library Board and Marshall Cavendish International Asia, it retails at major bookshops, and is also available for reference and loan at the Lee Kong Chian Reference Library and selected public libraries [[Call nos.: RSING 659.1095957 BET and SING 659.1095957 BET](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203150558)].
-
-|The exhibition “Selling Dreams: Early Advertising in Singapore” takes place at  level 10 of the National Library Building on Victoria Street. A variety of print advertisements from the 1830s on subjects such as food, fashion, entertainment, travel and more are on display until 24 February 2019.
-
+<div style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba"> 
+<b>TAXI! TAXI!</b>
+<br><br>
+First introduced in 1910, the taxi-cab service in Singapore was the brainchild of C.F.F. Wearne and Company. Singapore became the second city in Asia after Calcutta, India, to have such a service and it was lauded as being modern and affordable. Two Rover cars were fitted with “taximeters” and were initially used to provide a reservations-only private taxi service before obtaining the licence to ply the streets for public hire. At a charge of 40 cents per mile and with a seating capacity of five passengers, taxi-cab services worked out to be no more expensive than hiring a first-class rickshaw.
+<br><br>
+<img style="width: 600px; height: 400px;" src="/images/Vol-14-issue-3/wheels-of-change/Wheels7.JPG">A fleet of taxis along North Bridge Road, 1968. Meters were made compulsory for all licensed taxis by 1953. However, many private cars were used by unlicensed taxi drivers to ply the streets for hire. People negotiated fares with the driver and strangers could be picked up along the way to share the fare. <i>George W. Porter Collection, courtesy of National Archives of Singapore.</i>
+<br><br>
+In 1919, the Singapore Motor Taxi Cab and Transport Company Limited was incorporated in the Straits Settlements (comprising Singapore, Penang and Malacca) and published its prospectus in the local newspapers to raise $350,000 as capital. The company proposed starting a taxi service comprising a fleet of 40 Ford Landaulettes as taxi-cabs. The 20-horsepower six-seater Landaulette was distributed by C.F.F. Wearne and Company.
+<br><br>
+<img src="/images/Vol-14-issue-3/wheels-of-change/Wheels8.JPG">(Left) The four-seater Trojan was promoted as a “private car, taxi or bus” that could halve the usual running expenses for a car. <i>Image reproduced from The Singapore Free Press, 9 September 1925, p. 5.</i><br> (Right) Yellow Top Cabs first appeared in Singapore in 1933 and soon became a familiar sight on the streets. <i>Image reproduced from The Straits Times, 6 November 1933, p. 16.</i>
+<br><br>
+By the end of 1920, the Singapore Taxicab Co. was advertising a “Call a Taxi” service in *The Straits Times*. Its black-and-yellow taxis were stationed at Raffles Place, General Post Office, Grand Hotel de l’Europe, Adelphi Hotel, Raffles Hotel and the company’s garage at 1 Orchard Road, ready to pick up passengers. The fare was 40 cents per mile – the same as when taxi services were introduced a decade earlier.
+<br><br>
+Abrams’ Motor Transport Company started a vehicle-for-hire scheme in the mid-1920s. Customers could hire a car or lorry at $3 per hour, which was touted as being cheaper than a taxi. Among the car models available for hire was the five-seater Gardner.
+<br><br>
+In 1930, Borneo Motors Limited imported a new type of taximeter that could calculate fares automatically. Apparently there had been disputes between drivers and passengers over the correct fare to be paid (taximeters became compulsory only in 1953). The new taximeter had been used in other Asian cities such as Rangoon and Calcutta.
+<br><br>
+Yellow Top Cabs – launched by Universal Cars Limited which claimed to have the lowest metered rates for closed cabs – made its debut in Singapore in 1933. Advertisements for Yellow Top Cabs between 1933 and 1934 sang praises of their cleanliness, efficiency and reliability. The cabs were available at taxi stands – at Raffles Place, Collyer Quay, Battery Road, Raffles Hotel, Stamford Road and Orchard Road – and could also be booked by telephone.
+<br><br>
+After World War II, many private cars were used by unlicensed taxi drivers to ply the streets for hire. These illegal “pirate taxis” caused problems for both licensed taxi drivers as well as the authorities, although it was argued that they provided a much-needed public service.
+<br><br>
+In 1970, the National Trades Union Congress started its Comfort taxi service and offered pirate taxi drivers the opportunity to join its operations. A total ban on pirate taxis came into force in July the following year.
+</div>
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba; display:block; font-size:1rem; line-height:1.5rem;"> 
+This essay is reproduced from the book, <i>Between the Lines: Early Print Advertising in Singapore 1830s-1960s</i>. Published by the National Library Board and Marshall Cavendish International Asia, it retails at major bookshops, and is also available for reference and loan at the Lee Kong Chian Reference Library and selected public libraries [[Call nos.: RSING 659.1095957 BET and SING 659.1095957 BET](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203150558)].
+<br><br>
+The exhibition “Selling Dreams: Early Advertising in Singapore” takes place at  level 10 of the National Library Building on Victoria Street. A variety of print advertisements from the 1830s on subjects such as food, fashion, entertainment, travel and more are on display until 24 February 2019.
+</span>
 <br>
 <div style="background-color: white;">
 <img src="/images/Vol-14-issue-3/wheels-of-change/MA.JPG" style="width: 100px; height: 100px;">

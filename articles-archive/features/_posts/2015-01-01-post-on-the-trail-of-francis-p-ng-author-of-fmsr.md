@@ -8,7 +8,7 @@ layout: post
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-4/francispng/FMSR_train.jpg">
+<img src="/images/vol-10-issue-4/francispng/FMSR_train_re.jpg">
 An “S” Class Express engine of the Federated Malay States Railways (FMSR), which was a rail operator that serviced British Malaya in the first half of the 20th century. The poem <i>F.M.S.R.</i> (published in 1937) describes a train journey from Singapore to Kuala Lumpur. <i>Lee Kip Lin Collection, courtesy of National Archives of Singapore. </i>
 </div>
 
@@ -19,7 +19,7 @@ Yet, many things had changed. Unfamiliar apartments and buildings had sprung up 
 I had come back to Singapore to trace the footsteps of Francis P. Ng, a forgotten Singapore poet who disappeared at the outset of the Japanese invasion in 1942. Before arriving in Singapore, I had discovered that Francis P. Ng was a pseudonym for Teo Poh Leng, a local Chinese and the author of <i>F.M.S.R.</i> (1937),[^1] a poem that describes a train journey from Singapore to Kuala Lumpur on the Federated Malay States Railways (FMSR). <i>F.M.S.R.</i> has been claimed to be the first published book-length English poem by a Singapore author. 
 
 
-#### **T.S. Eliot and The Singapore Connection** 
+#### **T.S. Eliot and the Singapore Connection** 
 
 <i>F.M.S.R. </i> first came to my attention when I was preparing for a conference presentation on the poet T.S. Eliot (1888–1965), who was born in the United States and emigrated to Britain in 1914 at age 25. Eliot is well known for his modernist masterpiece <i>The Waste Land</i> (1922). Beginning with the unconventional phrase. “April is the cruellest month”, the poem caused a sensation in the world of Western poetry by introducing new styles of writing and perception. After teaching Eliot in an undergraduate American Studies course in Germany for many years, I wanted to make a scholarly contribution to the study of this poet by exploring the extent of his literary influence in Asia. 
 
@@ -116,7 +116,7 @@ On 14 September 1931, in a letter addressed from 700 Serangoon Road (presumably 
 Section VII of <i>F.M.S.R.</i> retitled as "The Song of the Night Express" by Teo Poh Leng, was published in the 1937 spring issue of <i>Life and Letters To-day</i>, a British literary magazine. <i>Life and To-day</i>. (Vol. 16, No. 7)
 </div>
 
-All these poems commonly engage with the theme of life's journey. <i>F.M.S.R.</i>, epitomised by "The Song of the Night Express", is about a train ride and simultaneously the spiritual salvation of the self, with the travelling narrator aiming "to meet flesh of my flesh’ neath the station dome"[^27] once he reaches his destination. "Time is Past" is about the journey from birth to death. Starting with “Time was when life began,/ When Space was infinite",[^28] the poem narrates one's childhood, adulthood and afterlife in the light of Albert Einstein's theory of relativity.[^29] "The Spider" approaches life as a repetitive circle, narrating a spider's weaving of a web as an incessant repetition of creation and destruction. 
+All these poems commonly engage with the theme of life's journey. <i>F.M.S.R.</i>, epitomised by "The Song of the Night Express", is about a train ride and simultaneously the spiritual salvation of the self, with the travelling narrator aiming "to meet flesh of my flesh ’neath the station dome"[^27] once he reaches his destination. "Time is Past" is about the journey from birth to death. Starting with “Time was when life began,/ When Space was infinite",[^28] the poem narrates one's childhood, adulthood and afterlife in the light of Albert Einstein's theory of relativity.[^29] "The Spider" approaches life as a repetitive circle, narrating a spider's weaving of a web as an incessant repetition of creation and destruction. 
 
 What also unites these poems is their modernist outlook. The poems clearly carry the dark, pessimistic tones of the so-called "Lost Generation" authors who were disillusioned by the unprecedented mass destruction of World War I and became enamoured with the theme of the living dead. From “Singapura Lion-City”,[^30] <i>F.M.S.R.</i> laments, “The world is bad, / The world is mad, / The world is sad".[^31] In "Time is Past", the narrator seems to have entered the afterlife as “I move upon an earthless plane, / At last!” yet “perplexing and profound I seem” and this mental state is like "the ravine" which “makes me pale”.[^32] In "The Spider", the narrator deplores his “deathless discipline” of continuously weaving a web only to be blown away as it “deadens me” and "I sigh".[^33]
 
@@ -157,11 +157,10 @@ With this news, my laborious and slightly futile one-year search suddenly took o
 Teo Poh Leng listed as missing in <i>The Register of Graduates</i> (1968) belonging to the University of Malaya’s King Edward VII College of Medicine and Raffles College.
 </div>
 
-|<i>If the name Teo Poh Leng is even remotely familiar to you, please contact the author of this article at eriko.ogiharaf@udo.edu </i>|
-
-|<i>The National Library Board, Singapore holds two copies of </i> F.M.S.R.<i> which are kept at the Lee Kong Chian Reference Library on level 11 of the National Library. A microfilm copy shelved at NL 16347 is available for reference. Note: only four other libraries in the world hold copies of this book. </i>|
-
-|<i>The writer would like to thank Ruth Chia, Joe Conceicao, Robbie Goh, Philip Holden, Koh Tai Ann, Catherine Lim, Janet Lim, Juliana Lim, Lim Su Min, Ng Ching Huei, Rajeev S. Patke, Valerie Siew, Peggy Tan, Edwin Thumboo, Medona Walter, Wang Gungwu, Richard Angus Whitehead and Ina Zhang Xing Hong – for their inputs in this project, and Harold Johnson for assisting her through the research process. </i>|
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">
+If the name Teo Poh Leng is even remotely familiar to you, please contact the author of this article at eriko.ogiharaf@udo.edu
+<br><br>The National Library Board, Singapore holds two copies of <i> F.M.S.R.</i> which are kept at the Lee Kong Chian Reference Library on level 11 of the National Library. A microfilm copy shelved at NL 16347 is available for reference. Note: only four other libraries in the world hold copies of this book.
+<br><br>The writer would like to thank Ruth Chia, Joe Conceicao, Robbie Goh, Philip Holden, Koh Tai Ann, Catherine Lim, Janet Lim, Juliana Lim, Lim Su Min, Ng Ching Huei, Rajeev S. Patke, Valerie Siew, Peggy Tan, Edwin Thumboo, Medona Walter, Wang Gungwu, Richard Angus Whitehead and Ina Zhang Xing Hong – for their inputs in this project, and Harold Johnson for assisting her through the research process.</div>
 
 <p style="font-size:15px;"><b>Dr Eriko Ogihara-Schuck</b>, originally from Japan, is a lecturer in American Studies at the Technische Universität Dortmund, Germany. She is the author of <i>Miyazaki s Animism Abroad: The Reception of Japanese Religious Themes by American and German Audiences</i> (2014). Motivated by her research on Francis P. Ng, she is launching a larger project on Singapore-US relations in the area of literature and popular culture.</p>
 

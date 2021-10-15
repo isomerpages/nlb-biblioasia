@@ -9,40 +9,39 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/vol-17-issue-2/Hero%20Banner2.jpg
+      background: /images/vol-17-issue-3/Hero%20Banner.jpg
       key_highlights:
         - title: ""
-          description: Learn about the forgotten murals, the evolution of Mulan's story,
-            early printing in the Philippines, and more!
+          description: Be enthralled by the comics collection at the National Library,
+            ancient gold in Southeast Asia and more!
           url: /vol-17/issue-2/jul-sep-2021/
       button: Read the current issue
-      url: /vol-17/issue-2/jul-sep-2021/
+      url: /vol-17/issue-3/oct-dec-2021/
   - infopic:
-      title: The Forgotten Murals of Paya Lebar Airport
+      title: "Singapore Comics: Panels Past and Present"
       subtitle: highlights
       button: Read more
-      url: /vol-17/issue-2/jul-sep-2021/murals
-      image: /images/vol-17-issue-2/murals/mural%20highlight%20homepage%20520x320.jpg
+      url: /vol-17/issue-3/oct-dec-2021/singapore-comics
+      image: /images/vol-17-issue-3/singapore-comics/pythongang3.jpg
       alt: Sample of murals
-      description: Three large murals used to grace the walls of Paya Lebar Airport.
-        Dahlia Shamsuddin has the inside story of how they came to be.
+      description: Singapore has its own comic superheroes too, as Jacqueline Lee and
+        Chiang Yu Xiang discover.
   - infopic:
-      title: Vaccinating a Nation
+      title: Unravelling the Mystery of Ubin’s German Girl Shrine
       subtitle: highlights
       button: Read more
-      url: /vol-17/issue-2/jul-sep-2021/vaccinating-nation
-      image: /images/vol-17-issue-2/vaccination/vacc%20highlight%20homepage%20520x320.jpg
+      url: /vol-17/issue-3/oct-dec-2021/ubinsgermangirlshrine
+      image: /images/vol-17-issue-3/ubin-shrine/Cover2.jpg
       alt: sample of vaccination
-      description: Ong Eng Chuan looks at how the authorities have been trying to
-        vaccinate the residents of Singapore since 1819.
+      description: William L. Gibson makes many trips to Pulau Ubin to uncover the
+        origin of the mysterious shrine.
   - infopic:
-      title: How Jurong Bird Park Was Hatched
+      title: The Modern Girls of Pre-war Singapore
       subtitle: highlights
-      description: A stolen cassowary. A questionable waterfall. A lack of falconers.
-        The opening of Jurong Bird Park in 1971 was rife with challenges, as Zoe
-        Yeo discovers.
+      description: Andrea Kee explores how the Modern Girl asserted her new-found
+        identity in interwar Singapore.
       button: Read more
-      url: /vol-17/issue-2/jul-sep-2021/jurong-bird-park
-      image: /images/vol-17-issue-2/birdpark/cassowary%20highlight%20homepage%20520x320.jpg
+      url: /vol-17/issue-3/oct-dec-2021/moderngirl
+      image: /images/vol-17-issue-3/modern-girl/moderngirlhome2.jpg
       alt: sample of JBP
 ---

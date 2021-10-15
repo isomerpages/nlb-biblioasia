@@ -4,7 +4,6 @@ date: 2020-01-21
 permalink: /vol-15/issue-4/jan-mar-2020/theatres-of-bangsw/
 layout: post
 ---
-
 #### In the days before cinema, *bangsawan* performances entertained the masses. **Tan Chui Hua** looks at the rise and fall of *bangsawan* venues in Singapore.
 
 <img src="/images/Vol-15-issue-4/theatres-of-bangsawan/small%20royal.JPG" width="50" height="50">
@@ -125,24 +124,25 @@ The gradual conversion of *bangsawan* venues to movie theatres sounded the death
 
 Diamond Theatre and Royal Theatre continued with their new leases of life as Tamil cinemas until the late 1970s. In 1970, the government announced its land acquisition plans in the Rochor area, which included the sites of both theatres. By the end of the 1970s, the chapter on theatres specially built for *bangsawan* performances finally came to a close when these venues were demolished, making way for urban redevelopment.[^39]
 
-|**THE ALLURE OF BANGSAWAN**
-
-|<img style="width: 450px; height: 300px;" src="/images/Vol-15-issue-4/theatres-of-bangsawan/production.JPG">A scene from a bangsawan production, c. 1900s. <i>Mohd Amin bin Kadarisman Collection, courtesy of National Archives of Singapore</i>.|
-
-|It is believed that the first *bangsawan* troupes made their appearance in Singapore in the late 19th century, inspired by the travelling Parsi theatre groups from Gujarat, India, which started touring Malaya and the Dutch East Indies in the 1870s.[^12]
-
-|The first recorded*bangsawan* troupe, or at least the first known to use the term *bangsawan*, which means “nobility” in Malay, is Wayang Pusi or Indra Bangsawan troupe from Penang. The troupe was also known as The Queen Alexandra Theatrical Company and the Empress Victoria Jawi Peranakan Theatrical Company.[^13]
-
-|By the turn of the 20th century, a number of *bangsawan* companies had been established in Malaya, such as Opera Yap Chow Thong, Wayang Kassim and the Star Opera Company. A *Straits Times* article in 1903 described *bangsawan* as follows:
-
-|“The origin of these plays [Malay drama] may be dated from the early part of the 18th century, for records exist in Java of such plays as having been performed there, and these indicate that playhouses similar to the present Malay theatre commonly known as *Bangsawan*, existed at that time in a crude form. The *Bangsawan* is an opera of Indian origin conducted in the Malay language. The tunes are mostly borrowed from European operas and songs which at first seems a little odd to the listener, but the Malay – a born improvisator – makes the best of them and seems to adapt these in a truly wonderful manner to his own tongue. The Chinese actors and performers spring from the lowest classes of the population, whereas the Malay actor comes from a highly educated class and is greatly esteemed and liked by his countrymen to whom the *Bangsawan* is a source of great enjoyment. At first the actors were almost exclusively Jawi Pakans (Kling and Malay descent),[^14] but in latter years Singapore Malays and Dutch Eurasians of a good class joined the profession and consequently a much higher standard of perfection and culture has been reached.”[^15]
-
-|*Bangsawan* theatre in the pre-war years was primarily a form of commercial mass entertainment, catering to a wide audience in order to compete with other forms of entertainment such as plays, dances, revues and circuses. In 1932, a European who had attended an adaptation of *Cinderella* by the Starlight Opera Company described the people he saw:
-
-|“The audience was composed of a motley crowd – Malays, dressed in all colours of the rainbow, which somehow never seem to clash, predominating. Among the rest of the audience I counted a large number of Chinese, Japanese, Sikhs, Bengalis, Tamils, Eurasians, and one European – myself.”[^16]
-
-|Stories in *bangsawan* theatre were usually adapted from the *Sejarah Melayu* (Malay Annals), the two great Indian epics the *Mahabharata* and the *Ramayana*, Arabic tales, Chinese classics, European stories and even Shakespearean plays. Each act was interspersed with performances consisting of orchestral music, songs, dances, comedy skits and novelty acts. It was not uncommon for *bangsawan* productions to include exotic songs from the Americas, Middle East and India. Musical instruments from different cultures, such as the piano, violin and tabla, were also featured.[^17]
-
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
+<b>THE ALLURE OF BANGSAWAN</b>
+<br><br>
+<img style="width: 450px; height: 300px;" src="/images/Vol-15-issue-4/theatres-of-bangsawan/production.JPG">A scene from a bangsawan production, c. 1900s. <i>Mohd Amin bin Kadarisman Collection, courtesy of National Archives of Singapore</i>.
+<br><br>
+	It is believed that the first <i>bangsawan</i> troupes made their appearance in Singapore in the late 19th century, inspired by the travelling Parsi theatre groups from Gujarat, India, which started touring Malaya and the Dutch East Indies in the 1870s.[^12]
+<br><br>
+The first recorded <i>bangsawan</i> troupe, or at least the first known to use the term <i>bangsawan</i>, which means “nobility” in Malay, is Wayang Pusi or Indra Bangsawan troupe from Penang. The troupe was also known as The Queen Alexandra Theatrical Company and the Empress Victoria Jawi Peranakan Theatrical Company.[^13]
+<br><br>
+By the turn of the 20th century, a number of <i>bangsawan</i> companies had been established in Malaya, such as Opera Yap Chow Thong, Wayang Kassim and the Star Opera Company. A <i>Straits Times</i> article in 1903 described <i>bangsawan</i> as follows:
+<br><br>
+“The origin of these plays [Malay drama] may be dated from the early part of the 18th century, for records exist in Java of such plays as having been performed there, and these indicate that playhouses similar to the present Malay theatre commonly known as <i>Bangsawan</i>, existed at that time in a crude form. The <i>Bangsawan</i> is an opera of Indian origin conducted in the Malay language. The tunes are mostly borrowed from European operas and songs which at first seems a little odd to the listener, but the Malay – a born improvisator – makes the best of them and seems to adapt these in a truly wonderful manner to his own tongue. The Chinese actors and performers spring from the lowest classes of the population, whereas the Malay actor comes from a highly educated class and is greatly esteemed and liked by his countrymen to whom the <i>Bangsawan</i> is a source of great enjoyment. At first the actors were almost exclusively Jawi Pakans (Kling and Malay descent),[^14] but in latter years Singapore Malays and Dutch Eurasians of a good class joined the profession and consequently a much higher standard of perfection and culture has been reached.”[^15]
+<br><br>
+<i>Bangsawan</i> theatre in the pre-war years was primarily a form of commercial mass entertainment, catering to a wide audience in order to compete with other forms of entertainment such as plays, dances, revues and circuses. In 1932, a European who had attended an adaptation of <i>Cinderella</i> by the Starlight Opera Company described the people he saw:
+<br><br>
+“The audience was composed of a motley crowd – Malays, dressed in all colours of the rainbow, which somehow never seem to clash, predominating. Among the rest of the audience I counted a large number of Chinese, Japanese, Sikhs, Bengalis, Tamils, Eurasians, and one European – myself.”[^16]
+<br><br>
+Stories in <i>bangsawan</i> theatre were usually adapted from the<i>Sejarah Melayu</i> (Malay Annals), the two great Indian epics the <i>Mahabharata</i> and the <i>Ramayana</i>, Arabic tales, Chinese classics, European stories and even Shakespearean plays. Each act was interspersed with performances consisting of orchestral music, songs, dances, comedy skits and novelty acts. It was not uncommon for <i>bangsawan</i> productions to include exotic songs from the Americas, Middle East and India. Musical instruments from different cultures, such as the piano, violin and tabla, were also featured.[^17]
+</span>
 
 <div style="background-color: white;">
 <br>

@@ -1,0 +1,13 @@
+collections:
+  editors-picks:
+    output: true
+    order:
+      - art.md
+      - culture.md
+      - food.md
+      - governance.md
+      - literature.md
+      - medicine.md
+      - nature-and-the-environment.md
+      - people.md
+      - places-and-buildings.md

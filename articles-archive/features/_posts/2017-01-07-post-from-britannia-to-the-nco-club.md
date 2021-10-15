@@ -51,11 +51,11 @@ The offspring of British servicemen recall blissful times spent at the club. Mos
 
 <img style="height:0px" src="/images/space1.png">
 
-|**BE MY PIN-UP GIRL**|
-
-|Suddenly for a few weeks in March 1956, Wrens, Wracs and Wrafs – acronyms for British servicewomen in the army, navy and air force – at the Britannia Club started primping and preening themselves. The reason: NAAFI in Britain had launched a worldwide “Beauty in Uniform” competition, and the winner could find herself the pin-up girl for homesick British servicemen all over the world. Soldiers were encouraged to send photos of servicewomen in uniform to the NAAFI office in Britain.|
-
-|*The Straits Times* reported, rather tongue-in-cheek on 20 February 1956, that “British troops at the Britannia Club Singapore approved enthusiastically when told of the competition… Said Private James Love of the King’s Own Scottish Borderers: ‘First-class idea. I haven’t been here long, but I’ve already met a couple of lasses who could give any film star a run for her money. I am going right out to buy myself a camera!’”[^11]|
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>BE MY PIN-UP GIRL</b>
+<br><br>
+Suddenly for a few weeks in March 1956, Wrens, Wracs and Wrafs – acronyms for British servicewomen in the army, navy and air force – at the Britannia Club started primping and preening themselves. The reason: NAAFI in Britain had launched a worldwide “Beauty in Uniform” competition, and the winner could find herself the pin-up girl for homesick British servicemen all over the world. Soldiers were encouraged to send photos of servicewomen in uniform to the NAAFI office in Britain.
+<br><br>
+<i>The Straits Times</i> reported, rather tongue-in-cheek on 20 February 1956, that “British troops at the Britannia Club Singapore approved enthusiastically when told of the competition… Said Private James Love of the King’s Own Scottish Borderers: ‘First-class idea. I haven’t been here long, but I’ve already met a couple of lasses who could give any film star a run for her money. I am going right out to buy myself a camera!’”[^11]</span>
 
 #### **Exit Britannia**
 
@@ -114,37 +114,33 @@ However, with Beach Road Camp earmarked for redevelopment in the mid- 1990s, it 
 
 In 2000, the last battalion at Beach Road Camp moved out and a year later, in October 2001, the SAF WOSE Club relocated to a new clubhouse at Boon Lay Way with a new identity. The clubhouse was officially opened on 8 February 2002 by Tony Tan, who was the Deputy Prime Minister and Minister for Defence at the time. Its new identity, THE CHEVRONS, signifies the V-shaped stripes worn by all Warrant Officers and Specialists.[^22]
 
-|**SAFE SUPERMARKET FOR SUPER SAVINGS**|
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>SAFE SUPERMARKET FOR SUPER SAVINGS</b>
+<br><br>
+In early 1973, Minister for Defence Goh Keng Swee mooted the idea of setting up a special shop where SAF personnel and their families could purchase discounted goods such as groceries and electrical items.
+<br><br>
+The concept was inspired by the so-called PX (or Post Exchange) stores in American military bases, where both active and retired military personnel could buy food and basic household items at marked-down prices. The idea could not have been more welcome in 1973 as Singapore had been battling with runaway inflation triggered by the global oil crisis.
+<br><br>
+A non-profit business arm of the military was set up called SAF Enterprises, or in short, SAFE. The intention was for these no-frills SAFE stores to pass on the savings accrued from rentfree premises and bulk purchases to military personnel and their families.[^23]
+<br><br>
+<img src="/images/Vol-12-issue-4/from-britannia-to-nco-club/7-britannia-nco.jpg">The Singapore Armed Forces (SAF) established SAFE supermarkets at the Dempsey Road Camp and NCO Club, selling food and basic household items at discounted prices to military servicemen and their families. The biggest draw was the duty-free beer, which sold at less than half the retail price. <i>Courtesy of MINDEF.</i>
+<br><br>
+Within months of the announcement, two SAFE supermarkets opened, one at Dempsey Road Camp and the other at the NCO Club. Apart from air-conditioning, the supermarkets had none of the luxuries one would find in an Orchard Road store. SAFE did give the downtown stores a run for their money though – selling groceries, basic furniture like PVC sofas and dining chairs as well as small electrical items like hairdryers and fans at significantly discounted prices.[^24]
+<br><br>
+Soldiers and their families descended on the supermarkets in droves on the weekends. Snaking queues also formed for the duty-free beer, which sold at less than half the retail price. In the 1970s and 80s, the NCO Club became synonymous with cheap beer.[^25]
+<br><br>
+Richard Chung, who was a national service guardsman in 1980, recalls having to show his SAF 11-B (the military identity card) before making his purchase: “We bought beer even if we didn’t drink beer. It was that cheap. Some rascals would buy the beer, sell it off to friends and relatives at a higher price and pocket the difference. Of course it was illegal, but who was to know?”[^26] The SAFE people must have figured this out, which was why each soldier was only allowed to buy one carton a month.
+<br><br>
+In July 1974, as the oil crisis worsened, the Dempsey Road outlet was opened to all civil servants, but without access to the cheap beer. Over the years, the grocery sales were eclipsed by sales of electrical goods. In the late 1970s, Setron and Grundig television sets, Hotpoint and Acma refrigerators, Singer sewing machines, Akai and Telefunken hi-fi stereo sets – brands that have vanished over the years – were all the rage, and getting these items for that new HDB flat was a much-cherished dream.[^27]
+<br><br>
+To make the electrical products affordable, SAFE introduced a low-interest credit scheme for public sector employees and military personnel. They only had to agree to pay a small initial downpayment and the balance in 12, 18 or 24 instalments, and they could cart home a brand new 24-inch Grundig colour television set from Germany.
+<br><br>
+In 1977, the SAFE supermarket in Dempsey closed, and the outlet at the NCO Club was rebranded as SAFE Centre, stopping its sales of groceries altogether to focus on electrical goods and furniture.
+<br><br>
+In the early 1980s, SAFE closed its NCO Club store and opened a SAFE Centre in Chin Swee Road. The company would eventually be sold and renamed SAFE Superstore in 1989, expanding perhaps too quickly over the years before it went out of business in 2003.[^28]
+<br><br>
+<img style="width:300px" src="/images/Vol-12-issue-4/from-britannia-to-nco-club/8-britannia-nco.jpg">Deputy Prime Minister and Minister for Defence Goh Keng Swee visits the SAF Enterprises (SAFE) supermarket at the NCO Club during its official opening on 20 December 1973. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></span>
 
-|In early 1973, Minister for Defence Goh Keng Swee mooted the idea of setting up a special shop where SAF personnel and their families could purchase discounted goods such as groceries and electrical items.|
-
-|The concept was inspired by the so-called PX (or Post Exchange) stores in American military bases, where both active and retired military personnel could buy food and basic household items at marked-down prices. The idea could not have been more welcome in 1973 as Singapore had been battling with runaway inflation triggered by the global oil crisis.|
-
-|A non-profit business arm of the military was set up called SAF Enterprises, or in short, SAFE. The intention was for these no-frills SAFE stores to pass on the savings accrued from rentfree premises and bulk purchases to military personnel and their families.[^23]|
-
-<div style="background-color: white;"><img src="/images/Vol-12-issue-4/from-britannia-to-nco-club/7-britannia-nco.jpg">The Singapore Armed Forces (SAF) established SAFE supermarkets at the Dempsey Road Camp and NCO Club, selling food and basic household items at discounted prices to military servicemen and their families. The biggest draw was the duty-free beer, which sold at less than half the retail price. <i>Courtesy of MINDEF.</i></div>
-
-<img style="height:0px" src="/images/space1.png">
-
-|Within months of the announcement, two SAFE supermarkets opened, one at Dempsey Road Camp and the other at the NCO Club. Apart from air-conditioning, the supermarkets had none of the luxuries one would find in an Orchard Road store. SAFE did give the downtown stores a run for their money though – selling groceries, basic furniture like PVC sofas and dining chairs as well as small electrical items like hairdryers and fans at significantly discounted prices.[^24]|
-
-|Soldiers and their families descended on the supermarkets in droves on the weekends. Snaking queues also formed for the duty-free beer, which sold at less than half the retail price. In the 1970s and 80s, the NCO Club became synonymous with cheap beer.[^25]|
-
-|Richard Chung, who was a national service guardsman in 1980, recalls having to show his SAF 11-B (the military identity card) before making his purchase: “We bought beer even if we didn’t drink beer. It was that cheap. Some rascals would buy the beer, sell it off to friends and relatives at a higher price and pocket the difference. Of course it was illegal, but who was to know?”[^26] The SAFE people must have figured this out, which was why each soldier was only allowed to buy one carton a month.|
-
-|In July 1974, as the oil crisis worsened, the Dempsey Road outlet was opened to all civil servants, but without access to the cheap beer. Over the years, the grocery sales were eclipsed by sales of electrical goods. In the late 1970s, Setron and Grundig television sets, Hotpoint and Acma refrigerators, Singer sewing machines, Akai and Telefunken hi-fi stereo sets – brands that have vanished over the years – were all the rage, and getting these items for that new HDB flat was a much-cherished dream.[^27]|
-
-|To make the electrical products affordable, SAFE introduced a low-interest credit scheme for public sector employees and military personnel. They only had to agree to pay a small initial downpayment and the balance in 12, 18 or 24 instalments, and they could cart home a brand new 24-inch Grundig colour television set from Germany.|
-
-|In 1977, the SAFE supermarket in Dempsey closed, and the outlet at the NCO Club was rebranded as SAFE Centre, stopping its sales of groceries altogether to focus on electrical goods and furniture.|
-
-|In the early 1980s, SAFE closed its NCO Club store and opened a SAFE Centre in Chin Swee Road. The company would eventually be sold and renamed SAFE Superstore in 1989, expanding perhaps too quickly over the years before it went out of business in 2003.[^28]|
-
-<div style="background-color: white;"><img style="width:300px" src="/images/Vol-12-issue-4/from-britannia-to-nco-club/8-britannia-nco.jpg">Deputy Prime Minister and Minister for Defence Goh Keng Swee visits the SAF Enterprises (SAFE) supermarket at the NCO Club during its official opening on 20 December 1973. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
-
-![Alt text for image on Isomer site](/images/space1.png)
-
-|This is an abridged version of the chapter “1854–2001: History of Beach Road Camp and NCO Club” from the book *South Beach: From Sea to Sky: The Evolution of Beach Road* by Francis Dorai and published by Editions Didier Millet for South Beach Consortium in 2012. The South Beach development, designed by the British architecture firm Foster + Partners, was launched in December 2015 and comprises a luxury hotel, offices, apartments and retail space.|
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;">This is an abridged version of the chapter “1854–2001: History of Beach Road Camp and NCO Club” from the book <i>South Beach: From Sea to Sky: The Evolution of Beach Road</i> by Francis Dorai and published by Editions Didier Millet for South Beach Consortium in 2012. The South Beach development, designed by the British architecture firm Foster + Partners, was launched in December 2015 and comprises a luxury hotel, offices, apartments and retail space.</span>
 
 <div style="background-color: white;">
 <br>

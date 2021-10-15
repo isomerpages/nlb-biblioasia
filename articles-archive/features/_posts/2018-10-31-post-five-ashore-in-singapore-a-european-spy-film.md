@@ -4,26 +4,25 @@ date: 2018-10-31
 permalink: /vol-14/issue-3/oct-dec-2018/five-ashore-in-sg/
 layout: post
 ---
-
 #### **Raphaël Millet** sits through a B-grade movie dismissed by critics as belonging to the genre of Eurospy flicks that parody James Bond – and discovers a slice of Singaporean celluloid history.
 
 <img style="width: 650px; height: 390px;" src="/images/Vol-14-issue-3/five-ashore-in-singapore/FiveAshore1.JPG">
-<div style="background-color: white;">The French-Dutch poster for Five Ashore in Singapore, 1967. After its initial premiere in France, the film was released in other parts of Europe and North America, where it was screened in cinemas right into 1968. <i>Courtesy of Raphaël Millet.</i></div>
+<div style="background-color: white;">The French-Dutch poster for <i>Five Ashore in Singapore</i>, 1967. After its initial premiere in France, the film was released in other parts of Europe and North America, where it was screened in cinemas right into 1968. <i>Courtesy of Raphaël Millet.</i></div>
 
-Few foreign films, especially Western ones, have ever been shot completely on location in Singapore. In the latter half of the 1960s, a handful of low-budget commercial European films – or B-grade movies, to borrow a term from the film industry – were produced with the Lion City as an exotic backdrop. These “Eurospy films”, a variation of the broader “super spy” genre, were obvious rip-offs of the James Bond series by Ian Fleming and were especially popular in Germany, Italy, France and Spain. When the first Bond movie Dr No was released in 1962, it was swiftly followed up by a string of copycat European films based on Secret Agent 007.
+Few foreign films, especially Western ones, have ever been shot completely on location in Singapore. In the latter half of the 1960s, a handful of low-budget commercial European films – or B-grade movies, to borrow a term from the film industry – were produced with the Lion City as an exotic backdrop. These “Eurospy films”, a variation of the broader “super spy” genre, were obvious rip-offs of the James Bond series by Ian Fleming and were especially popular in Germany, Italy, France and Spain. When the first Bond movie *Dr No* was released in 1962, it was swiftly followed up by a string of copycat European films based on Secret Agent 007.
 
-The “super spy” craze peaked between 1966 and 1968 and included a few shot-in-Singapore films like *So Darling So Deadly* (1966),[^1] *Suicide Mission to Singapore* (1966)[^2] and *Five Ashore in Singapore* (1967). Apart from rare mentions in articles or books,[^3] Precious little has been written about these films, even though they all captured Singapore at a time of change in the first few months or years following its independence in 1965. Of these three films, the most outstanding is *Five Ashore in Singapore*.
+The “super spy” craze peaked between 1966 and 1968 and included a few shot-in-Singapore films like *So Darling So Deadly* (1966),[^1] *Suicide Mission to Singapore* (1966)[^2] and *Five Ashore in Singapore* (1967). Apart from rare mentions in articles or books,[^3] precious little has been written about these films, even though they all captured Singapore at a time of change in the first few months or years following its independence in 1965. Of these three films, the most outstanding is *Five Ashore in Singapore*.
 
 #### **OSS 117, the “French Bond”**
 
-*Five Ashore in Singapore* (see text box) was a French-Italian collaboration between producers Pierre Kalfon and Georges Chappedelaine of Les Films Number One in Paris, and Franco Riganti and Antonio Cervi of Franco Riganti Productions in Rome. The international distribution of the film was handled by Rank Organisation, a British conglomerate created in the late 1930s.
+*Five Ashore in Singapore* (see text box below) was a French-Italian collaboration between producers Pierre Kalfon and Georges Chappedelaine of Les Films Number One in Paris, and Franco Riganti and Antonio Cervi of Franco Riganti Productions in Rome. The international distribution of the film was handled by Rank Organisation, a British conglomerate created in the late 1930s.
 
 Two versions of the film were produced simultaneously: one in English and the other in French, which is why the producers took pains to cast as many actors as possible who were bilingual so that they could play their parts in both languages. Only the few main actors who were not conversant in French had to be dubbed along with all the Singaporean extras.
 
+Based on the 1959 novel *Cinq gars pour* Singapour by the prolific French writer Jean Bruce (1921–63), the film was initially titled *OSS 117 Goes to Singapore* after the spy novel series, *OSS 117*, which Bruce created in 1949. The story centres around the secret agent Hubert Bonnisseur de la Bath, who worked for the Office of Strategic Services, or OSS, during World War II. Like his spy novelist counterpart Ian Fleming, Bruce set his adventures in cities such as Tokyo, Bangkok, Caracas and Istanbul for the “exoticism” these places evoked in the minds of Western audiences. Naturally, Singapore was selected as the setting for *Five Ashore in Singapore*.
+
 <img style="width: 300px; height: 400px;" src="/images/Vol-14-issue-3/five-ashore-in-singapore/FiveAshore2.JPG">
 <div style="background-color: white;"><i>Five Ashore in Singapore</i> is the film adaptation of the 1959 French novel, <i>Cinq gars pour Singapour</i>, by the prolific French writer Jean Bruce. Literally translated as “Five Guys for Singapore”, the title is a clever pun on the name of the city because <i>cinq-gars-pour</i>, when said quickly, sounds exactly like “Singapour”. Pictured here is the cover of the first edition of the book published by Presses de la Cité in 1959. <i>Courtesy of Raphaël Millet.</i></div>
-
-Based on the 1959 novel *Cinq gars pour* Singapour by the prolific French writer Jean Bruce (1921–63), the film was initially titled *OSS 117 Goes to Singapore* after the spy novel series, *OSS 117*, which Bruce created in 1949. The story centres around the secret agent Hubert Bonnisseur de la Bath, who worked for the Office of Strategic Services, or OSS, during World War II. Like his spy novelist counterpart Ian Fleming, Bruce set his adventures in cities such as Tokyo, Bangkok, Caracas and Istanbul for the “exoticism” these places evoked in the minds of Western audiences. Naturally, Singapore was selected as the setting for *Five Ashore in Singapore*.
 
 In real-life, the code number 117 was assigned to William L. Langer, chief of the OSS Research and Analysis Branch whom Bruce had reportedly met during World War II when the latter was involved with the French Resistance. Interestingly, while OSS 117 has been called the “French Bond” after the famous British Secret Service agent, Bruce’s French agent actually pre-dates James Bond by four years (Ian Fleming’s first Bond novel *Casino Royale* was published only in 1953). Furthermore, the archetypal three-digit code name 117 existed long before Fleming decided to call  his character  Agent 007.[^4]
 
@@ -36,9 +35,6 @@ On the other hand, *Dr No*, the first James Bond film, was produced in 1962. In 
 It is within the context of the successful Eurospy craze that French producer Pierre Kalfon offered director Bernard Toublanc-Michel the chance to adapt another OSS 117 story, *Cinq gars pour Singapour*. Due to copyright issues, unresolvable because Jean Bruce had died a few years earlier, neither the character Hubert Bonnisseur de la Bath nor his codename OSS 117 could be used in the film.
 
 Hence in the movie, the hero is renamed Art Smith. A clear playful allusion is nevertheless made at the beginning of the movie when a car waiting for him at Singapore’s old Paya Lebar Airport is numbered 117.
-
-<img style="width: 330px; height: 450px;" src="/images/Vol-14-issue-3/five-ashore-in-singapore/FiveAshore3.JPG">
-<div style="background-color: white;">The lead character, Captain Art Smith of the Central Intelligence Agency, is played by Sean Flynn, son of legendary Hollywood actor Errol Flynn and French actress Lili Damita. The younger Flynn was then taking a break from his photojournalism stint in Vietnam during the war. French lobby card, 1967. <i>Courtesy of Raphaël Millet.</i></div>
 
 *Five Ashore in Singapore*, like so many similar B-flicks, has a very simple plot that closely follows that of the original novel. Captain Art Smith of the Central Intelligence Agency is sent to Singapore to investigate the whereabouts of several US Marines who mysteriously disappear while on shore leave. Upon his arrival, Smith meets four Marines who volunteer to assist him. Together, the five men pretend to be a group of Marines looking for a good time, but in fact hoping to be caught in the same trap as their missing colleagues.
 
@@ -54,9 +50,6 @@ By the time director Bernard Toublanc-Michel adapted Bruce’s novel into a movi
 
 Soldiers nicknamed these breaks “I&I”, or “Intoxication and Intercourse”, as these outings were invariably fuelled by plenty of alcohol, drugs and sex. Singapore, true to its form then, was depicted as a rather seedy and dangerous city in publicity materials that were issued when *Cinq gars pour Singapour* was released in France in March 1967. The press release took pains to highlight the fact that American Marines are routinely warned to behave with discretion when they are in Singapore for R&R, including dressing as civilians when travelling in the city, because there has been cases where local boys had tried to pick a fight.[^7]
 
-<img style="width: 650px; height: 400px;"  src="/images/Vol-14-issue-3/five-ashore-in-singapore/FiveAshore4.JPG">
-<div style="background-color: white;">Accident scene in Chinatown. French lobby card, 1967. <i>Courtesy of Raphaël Millet.</i></div>
-
 In an interview given at his apartment near Paris on 1 June 2018, Toublanc-Michel said that the geopolitical context of Singapore against the backdrop of the Vietnam War was what made the adaptation of Bruce’s OSS 117 novel *Cinq gars pour Singapour* so interesting to him: it gave him the opportunity to explore and expose what he calls “les à-côtés de la guerre” (“extra income and activities”) that was generated on the sidelines of the war.[^8]
 
 In this sense, Bruce’s novel and its film adaptation by Toublanc-Michel also pre-date Paul Theroux’s 1973 novel *Saint Jack* and its subsequent 1979 film adaptation by Peter Bogdanovich depicting American soldiers in Singapore on R&R during the Vietnam War and the pimps who provide them with the necessary “entertainment”.[^9]
@@ -65,16 +58,22 @@ Direct mention of the Vietnam War is made in *Five Ashore in Singapore* when the
 
 The background setting of the Vietnam War is made even more significant by the fact that the lead character Art Smith is played by Sean Flynn, son of legendary Hollywood actor Errol Flynn (and Hollywood-based French actress Lili Damita). The younger Flynn was taking a break from his photojournalism stint in Vietnam, where he had arrived in January 1966 as a freelance photo-reporter, working occasionally for magazines like *Paris Match*, *Time*, *Life* and the *Daily Telegraph*. Flynn quickly made a name for himself and earned the reputation of being a high-octane risk-taking photojournalist along the likes of British photographer Tim Page and American photojournalist Dana Stone, both of whom Flynn had befriended in Vietnam.
 
-<img style="width: 340px; height: 450px;"  src="/images/Vol-14-issue-3/five-ashore-in-singapore/FiveAshore5.JPG">
-<div style="background-color: white;">Sean Flynn (standing), who plays Captain Art Smith of the Central Intelligence Agency, in action with an unnamed Singaporean actor. French lobby card, 1967. <i>Courtesy of Raphaël Millet.</i></div>
+<img style="width: 330px; height: 450px;" src="/images/Vol-14-issue-3/five-ashore-in-singapore/FiveAshore3.JPG">
+<div style="background-color: white;">The lead character, Captain Art Smith of the Central Intelligence Agency, is played by Sean Flynn, son of legendary Hollywood actor Errol Flynn and French actress Lili Damita. The younger Flynn was then taking a break from his photojournalism stint in Vietnam during the war. French lobby card, 1967. <i>Courtesy of Raphaël Millet.</i></div>
 
 As freelance photojournalism did not pay well, Flynn went back to acting – something he had done from time to time since his teen years – to earn a fast buck. As Flynn had been in Vietnam and witnessed real action there, his sheer presence lent the film an added layer of authenticity.[^11] As it turned out, *Five Ashore* was to be Flynn’s last screen appearance before he returned to Vietnam to cover the war. He mysteriously disappeared in the spring of 1970 near the frontier between Cambodia and Vietnam, never to be found again. Flynn’s mother would reluctantly declare him dead in absentia in 1984.
+
+<img style="width: 340px; height: 450px;"  src="/images/Vol-14-issue-3/five-ashore-in-singapore/FiveAshore5.JPG">
+<div style="background-color: white;">Sean Flynn (standing), who plays Captain Art Smith of the Central Intelligence Agency, in action with an unnamed Singaporean actor. French lobby card, 1967. <i>Courtesy of Raphaël Millet.</i></div>
 
 #### **Singapore in the Summer of 1966**
 
 *Five Ashore in Singapore* was filmed on Eastmancolor, a colour film technology introduced in 1950, and shot entirely on location in Singapore between August and October 1966. When Bernard Toublanc-Michel was first approached by producer Pierre Kalfon to direct the screen adaptation of Bruce’s book, he had insisted that the entire film be shot on location in Singapore.[^12]
 
 The rest is history: a total of 52 locations were used in the film,[^13] such as the Cathay Hotel (where Captain Art Smith stays), Change Alley, Clifford Pier, the Majestic Theatre at Eu Tong Sen Street, the old Paya Lebar Airport, Boat Quay, Telok Blangah, Keppel Golf Club and some very rare footage of the long-gone Kampong Telok Saga on Pulau Brani. This tour of the Lion City allows viewers today to travel back in time to 1966 “… wishing … [they] were in the company of less brutal, more appreciative tourists“[^14] than this wild bunch of hard-drinking and brawling Marines.
+
+<img style="width: 650px; height: 400px;"  src="/images/Vol-14-issue-3/five-ashore-in-singapore/FiveAshore4.JPG">
+<div style="background-color: white;">Accident scene in Chinatown. French lobby card, 1967. <i>Courtesy of Raphaël Millet.</i></div>
 
 The story begins on 5 August 1966, as indicated in the visa stamped on Art Smith’s passport on his arrival in Singapore. It was just a few days before the fledgling republic celebrated its first National Day on 9 August, a week-long calendar of festivities that included a parade, fireworks displays and cultural shows. In the film, numerous glimpses of the national flag can be seen on the streets and on buildings, as well as billboards and banners with the words “Majulah Singapura”, which had been officially adopted as Singapore’s national anthem in 1965.
 
@@ -102,7 +101,7 @@ Sean Flynn – in what would be his final and, in this writer’s opinion, his b
 The main female lead went to Swedish-French model and actress Marika Green, who had recently gained fame for her role in Robert Bresson’s 1959 film, *Pickpocket*.[^23] With her shapely figure and requisite long legs, the actress was the perfect “Bond Girl”. All these performers were bilingual with the exception of Briton Terry Downes, whose lines had to be dubbed in French.
 
 <img style="width: 550px; height: 340px;" src="/images/Vol-14-issue-3/five-ashore-in-singapore/FiveAshore7.JPG">
-<div style="background-color: white;">The main female lead was played by Swedish-French model and actress Marika Green. With her blonde hair and shapely long legs, the actress was the perfect “Bond Girl”. French lobby card, 1967. Courtesy of Raphaël Millet.</i></div>
+<div style="background-color: white;">The main female lead was played by Swedish-French model and actress Marika Green. With her blonde hair and shapely long legs, the actress was the perfect “Bond Girl”. French lobby card, 1967. <i>Courtesy of Raphaël Millet.</i></div>
 
 Several of the film’s key Asian supporting roles unfortunately followed in the tradition of “yellowface”, an early practice in the West (mostly on Broadway and in Hollywood) that saw Asian roles played by white actors. Hence, the mad scientist Ta Chouen was played by the Italian Andrea Aureli (credited by his Americanised stage name Andrew Ray); mama-san Tchin Saw by Trudy Connor; treacherous middleman Ten Sin, an improbable “Chinese” wearing a cap that resembles more a Muslim *songkok*, and played by Italian actor Jessy Greek (whose real name was Enzo Musumeci Greco); and odd-job man Kafir played by William Brix. All either wore terrible make-up, or appeared sans make-up, which only exaggerates the stereotyping to the point where one wonders if the yellowfacing was deliberate.
 
@@ -125,32 +124,32 @@ As for Singapore, the film was retitled as *Our Five Men in Singapore* and opene
 <img src="/images/Vol-14-issue-3/five-ashore-in-singapore/FiveAshore10.JPG">
 <div style="background-color: white;">Action scenes filmed in Chinatown. French lobby card, 1967. <i>Courtesy of Raphaël Millet.</i></div><br>
 
-|**A MOVIE BY ANY OTHER NAME**
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba; display:block; font-size:1rem; line-height:1.5rem;"> 
+<b>A MOVIE BY ANY OTHER NAME</b>
+<br><br>
+Like similar B-movies of the era, the film went by several different titles. The English version in the United Kingdom was called <i>Five Ashore in Singapore</i>, and in the United States as the double-barrelled <i>Singapore, Singapore</i>.[^26] Inexplicably, in Singapore it was first announced as <i>Singapore Mission for Five</i>,[^27] before being eventually retitled and released as <i>Our Five Men in Singapore</i> in February 1968.
+<br><br>
+Its original title <i>Cinq gars pour Singapour</i> is French, as this is the title of the French novel it is adapted from. <i>Cinq gars pour Singapour</i>, when literally translated, means “Five guys for Singapore” – <i>cinq</i> is “five”, <i>gars</i> is “guys” and <i>pour</i> is “for” – and is a clever phonetic pun on the name of the city, since <i>cinq-gars-pour</i> (when said quickly) sounds exactly like “Singapour”.
+<br><br>
+<img style="width: 600px; height: 630px;" src="/images/Vol-14-issue-3/five-ashore-in-singapore/FiveAshore11.JPG">(Top) A Yugoslavian lobby card with the film title translated into Serbian – <i>Pet Momaka za Singapour. Courtesy of Raphaël Millet.</i><br>(Left) The French press kit of <i>Five Ashore in Singapore</i>. The film was commercially released in March 1967 in France, where it enjoyed a long run at the Balzac Theatre in Paris. <i>Courtesy of Raphaël Millet.</i><br>(Right) The Italian film poster for Five Ashore in Singapore, 1967. <i>Courtesy of Raphaël Millet.</i>
+<br><br>
+The pun is lost in translation of course, but details such as the number of male protagonists and location were kept intact in most of the titles of the foreign-language versions that were either dubbed or subtitled, for example <i>Cinco Marinos en Singapur</i> in Spanish (also <i>Cinco Muchachos en Singapur</i> in Argentina), <i>Cinque Marines per Singapore</i> in Italian, <i>Vijf Kerels Voor Singapore</i> in Dutch, and <i>Pet Momaka za Singapour</i> in Serbian for the Yugoslavian version of the film.</span>
 
-|Like similar B-movies of the era, the film went by several different titles. The English version in the United Kingdom was called *Five Ashore in Singapore*, and in the United States as the double-barrelled *Singapore, Singapore*.[^26] Inexplicably, in Singapore it was first announced as *Singapore Mission for Five*,[^27] before being eventually retitled and released as *Our Five Men in Singapore* in February 1968.
-
-|Its original title *Cinq gars pour Singapour* is French, as this is the title of the French novel it is adapted from. *Cinq gars pour Singapour*, when literally translated, means “Five guys for Singapore” – *cinq* is “five”, *gars* is “guys” and *pour* is “for” – and is a clever phonetic pun on the name of the city, since *cinq-gars-pour* (when said quickly) sounds exactly like “Singapour”.
-
-|<img style="width: 600px; height: 630px;" src="/images/Vol-14-issue-3/five-ashore-in-singapore/FiveAshore11.JPG">(Top) A Yugoslavian lobby card with the film title translated into Serbian – <i>Pet Momaka za Singapour. Courtesy of Raphaël Millet.</i><br>(Left) The French press kit of Five Ashore in Singapore. The film was commercially released in March 1967 in France, where it enjoyed a long run at the Balzac Theatre in Paris. <i>Courtesy of Raphaël Millet.</i><br>(Right) The Italian film poster for Five Ashore in Singapore, 1967. <i>Courtesy of Raphaël Millet.</i>
-
-|The pun is lost in translation of course, but details such as the number of male protagonists and location were kept intact in most of the titles of the foreign-language versions that were either dubbed or subtitled, for example *Cinco Marinos en Singapur* in Spanish (also *Cinco Muchachos en Singapur* in Argentina), *Cinque Marines per Singapore* in Italian, *Vijf Kerels Voor Singapore* in Dutch, and *Pet Momaka za Singapour* in Serbian for the Yugoslavian version of the film.
-
-<br>
-
-|**SPY MUSIC**
-
-|The music for *Five Ashore in Singapore* was composed by renowned French composer Antoine Duhamel, who had just begun his career by scoring French New Wave films by legendary directors Jean-Luc Godard and François Truffaut. At the request of *Five Ashore*’s director Bernard Toublanc-Michel, he composed *Somewhere in Singapore* (also known as the Marines’ March – “La marche des Marines” in French) with lyrics by Jimmy Parramore.
-
-|<img style="width: 420px; height: 420px;" src="/images/Vol-14-issue-3/five-ashore-in-singapore/FiveAshore12.JPG">Cover of the French record album of Five Ashore in Singapore, 1967. The music for the film was composed by renowned French composer Antoine Duhamel. © Barclay Editions. <i>Courtesy of Raphaël Millet.</i>
-
-|Quite brazenly, the song was directly based on the melody of the now iconic *Yellow Submarine*, the Beatles’ number one hit in 1966. Indeed, Toublanc-Michel had asked his actors who played the five Marines to stride out of Clifford Pier with the Beatles’ song playing in their heads, so as to lend a certain rhythm to their swagger.
-
-|Other melodies with no lyrics composed by Duhamel include *Paradise Limited* for the club scene and *Thème de la drogue* (the drug theme) for the opium den scene.
+<div style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba"> 
+<b>SPY MUSIC</b>
+<br><br>
+The music for <i>Five Ashore in Singapore</i> was composed by renowned French composer Antoine Duhamel, who had just begun his career by scoring French New Wave films by legendary directors Jean-Luc Godard and François Truffaut. At the request of <i>Five Ashore</i>’s director Bernard Toublanc-Michel, he composed <i>Somewhere in Singapore</i> (also known as the Marines’ March – “La marche des Marines” in French) with lyrics by Jimmy Parramore.
+<br><br>
+<img style="width: 420px; height: 420px;" src="/images/Vol-14-issue-3/five-ashore-in-singapore/FiveAshore12.JPG">Cover of the French record album of <i>Five Ashore in Singapore</i>, 1967. The music for the film was composed by renowned French composer Antoine Duhamel. © Barclay Editions. <i>Courtesy of Raphaël Millet.</i>
+<br><br>
+Quite brazenly, the song was directly based on the melody of the now iconic <i>Yellow Submarine</i>, the Beatles’ number one hit in 1966. Indeed, Toublanc-Michel had asked his actors who played the five Marines to stride out of Clifford Pier with the Beatles’ song playing in their heads, so as to lend a certain rhythm to their swagger.
+<br><br>
+Other melodies with no lyrics composed by Duhamel include <i>Paradise Limited</i> for the club scene and <i>Thème de la drogue</i> (the drug theme) for the opium den scene. </div>
 
 <br>
 <div style="background-color: white;">
-<img src="/images/Vol-14-issue-3/five-ashore-in-singapore/FiveAshore13.jpg" style="width: 100px; height: 100px;">
-<b>Raphaël Millet</b> is a film director, producer and critic with a passion for early cinema. He has published two books, "Le Cinéma de Singapour" (2004) and "Singapore Cinema" (2006), as well as directed documentaries such as "Gaston Méliès and His Wandering Star Film Company" (2015), screened as part of the 2015 Singapore International Film Festival, and "Chaplin in Bali" (2017), which opened the Bali International Film Festival in 2017.
+<img src="/images/Vol-14-issue-3/five-ashore-in-singapore/FiveAshore13.JPG" style="width: 100px; height: 100px;">
+<b>Raphaël Millet</b> is a film director, producer and critic with a passion for early cinema. He has published two books, <i>Le Cinéma de Singapour</i> (2004) and <i>Singapore Cinema</i> (2006), as well as directed documentaries such as <i>Gaston Méliès and His Wandering Star Film Company</i> (2015), screened as part of the 2015 Singapore International Film Festival, and <i>Chaplin in Bali</i> (2017), which opened the Bali International Film Festival in 2017.
 </div>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-14/issue-3/oct-dec-2018/"><center>Back to Issue</center></a>
@@ -158,7 +157,7 @@ As for Singapore, the film was retitled as *Our Five Men in Singapore* and opene
 #### **NOTES**
 [^1]:*So Darling So Deadly* (1966; original title *Kommissar X – In den Klauen des goldenen Drachen*) is a co-production between Austria, Italy, West Germany, Yugoslavia and Singapore, and directed by Italian filmmaker Gianfranco Parolini under his American pseudonym Frank Kramer. It was set – but not entirely filmed – in Singapore; some images of Hong Kong were inserted.
 [^2]:*Suicide Mission to Singapore* (1966; original title *Goldsnake: Anonima Killers*, but also known in German as *Goldsnake*, *Das Geheimnis der goldenen Schlange*) is a co-production between France, Spain and Italy. Also set and shot in Singapore, the film, directed by the Italian filmmaker Ferdinando Baldi, tells of a secret agent who travels to the island-city to solve a mystery.
-[^3]:Slater, B. (2012, September). *Cinq gars pour Singapour*. *Cinematheque Quarterly, 1*(1), 48–56; Slater, B. (2015, Apr–Jun). Spies, virgins, pimps and hitmen: Singapore through the Western lens. [*BiblioAsia*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12585942), 11(1), 20–23, p. 21. (Call no.: RSING 027.495957 SNBBA-[LIB]); Millet, R. (2006). [*Singapore Cinema*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12716044) (p. 147). Singapore: Editions Didier Millet. (Call no.: RSING q791.43095957 MIL). Codelli, L. (2014). Five Ashore in Singapore aka Cinq gars pour Singapour aka Cinque Marines per Singapore (1966). In L. Codelli (Ed.), [*World film locations: Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201060966) (p. 42). Bristol: Intellect Books. (Call no.: RSING 791.43025095957 WOR)
+[^3]:Slater, B. (2012, September). *Cinq gars pour Singapour*. *Cinematheque Quarterly, 1*(1), 48–56; Slater, B. (2015, Apr–Jun). Spies, virgins, pimps and hitmen: Singapore through the Western lens. [*BiblioAsia*](https://biblioasia.nlb.gov.sg/vol-11/issue-1/apr-jun-2015/svph)*, 11*(1), 20–23, p. 21. (Call no.: RSING 027.495957 SNBBA-[LIB]); Millet, R. (2006). [*Singapore Cinema*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12716044) (p. 147). Singapore: Editions Didier Millet. (Call no.: RSING q791.43095957 MIL). Codelli, L. (2014). Five Ashore in Singapore aka Cinq gars pour Singapour aka Cinque Marines per Singapore (1966). In L. Codelli (Ed.), [*World film locations: Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201060966) (p. 42). Bristol: Intellect Books. (Call no.: RSING 791.43025095957 WOR)
 [^4]:Bond spin-offs, spoofs and parodies often used three-digit prefixes, such as 008, 077, X77, S3S, and because of that it has often been easy to mistake OSS 117 for another pale copy of the original. However, it is far from the truth. By the time the first James Bond book was published in 1953, Jean Bruce had already published several OSS 117 novels. He was such a prolific writer that he wrote about 90 books altogether (including the OSS 117 series) before his untimely death in a car accident in 1963 at age 43.
 [^5]:In the mid-2000s, the character of OSS 117 was revived on screen by filmmaker Michel Hazanavicius as a French spy working for the French secret service and turned into a comic character, portrayed by French actor Jean Dujardin as an arrogant and blatantly politically incorrect imbecile (far from the original OSS 117 character and his previous screen incarnations).
 [^6]:This would lead to the Second Indochina War, better known as the Vietnam War (1955–1975), fought between North Vietnam (supported by communist China and the Soviet Union) and South Vietnam (supported by anti-communist allies, including the United States, Australia, South Korea and Thailand).
@@ -169,7 +168,7 @@ As for Singapore, the film was retitled as *Our Five Men in Singapore* and opene
 [^11]:Bernard Toublanc-Michel also thought of offering the role of Art Smith to Joe Dassin, son of Hollywood director Jules Dassin and a French woman. Like Sean Flynn, Joe Dassin was Franco-American and fluent in both English and French. In the end, Toublanc-Michel decided to cast Sean Flynn as he had experience working and living in Southeast Asia, and a better understanding of the geopolitical context of the plot. Interview with the author, 1 June 2018.
 [^12]:Bernard Toublanc-Michel’s interview with the author, 1 June 2018.
 [^13]:French press kit of *Cinq gars pour Singapour*, 1967, p. 14.
-[^14]:Slater, Srp 2012, p. 55
+[^14]:Slater, Sep 2012, p. 55
 [^15]:Bernard Toublanc-Michel recalls having thought of Raoul Coutard, the most famous of all New Wave cinematographers, whom he had previously worked with, to shoot *Five Ashore in Singapore*, but this did not happen as Coutard was already hired for another film. Interview with the author, 1 June 2018.
 [^16]:Interview with the author, 1 June 2018.
 [^17]:Lombard, P. (2011). *Sean Flynn: L’instinct de l’aventure* (pp. 86–87). Paris: Editions du Rocher. (Not available in NLB holdings)

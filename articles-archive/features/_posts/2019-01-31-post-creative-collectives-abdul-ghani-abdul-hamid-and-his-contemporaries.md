@@ -57,18 +57,18 @@ Here is a glimpse of exhibition catalogues and collaterals – published between
 |<img style="width: 300px; height: 400px;" src="/images/Vol-14-issue-4/creative-collectives/MA.JPG"><b>Malay Artists Singapore (1995)</b><br> N. Parameswaran, the organiser and curator of this exhibition held at Galeri Petronas in Kuala Lumpur, Malaysia, in 1995 wrote in the introduction of the publication that it was a “reunion exhibition” of sorts for Singaporean Malay artists and provided an opportunity for them to exhibit their works outside of their usual circles.
 
 <br>
-
-|**ABDUL GHANI ABDUL HAMID: THE MAN AND HIS ART**
-
-|Abdul Ghani Abdul Hamid (1933–2014) was a prolific and award-winning writer, poet and artist. Writing primarily in Malay, he penned hundreds of poems, short stories, essays, newspaper articles and plays in his lifetime. His series of abstract paintings, “Lalang”, were the most famous in his oeuvre.
-
-|Abdul Ghani was an active member of the literary and visual arts scenes in Singapore. He was a founding member of Angkatan Pelukis Aneka Daya (APAD; Association of Artists of Various Resources) and served as its president between 1962 and 1983. He was also a member of the National Arts Council from 2000 to 2002 and the recipient of three prestigious literary awards: Anugerah Tan Seri Lanang (1998), Southeast Write Award for Malay Poetry (1998) and the Cultural Medallion (1999).
-
-|The Abdul Ghani Abdul Hamid Collection at the National Library comprises letters and literary manuscripts as well as publications and ephemera related to the visual and literary arts. Included in the collection are letters and notes that document Abdul Ghani’s involvement with art associations, exhibitions and various events in Singapore.
-
-|Catalogued by subject matter and time period, the collection provides rich insights into the development of the Malay visual arts scene in Singapore.
-
-|<img style="width: 350px; height: 450px;" src="/images/Vol-14-issue-4/creative-collectives/image.JPG">Portrait of Abdul Ghani Abdul Hamid. All rights reserved, Eric Foo Chee Meng 1979–2001. <i>Courtesy of National Arts Council.</i>
+<div style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba"> 
+	<b>ABDUL GHANI ABDUL HAMID: THE MAN AND HIS ART</b>
+<br><br>
+Abdul Ghani Abdul Hamid (1933–2014) was a prolific and award-winning writer, poet and artist. Writing primarily in Malay, he penned hundreds of poems, short stories, essays, newspaper articles and plays in his lifetime. His series of abstract paintings, “Lalang”, were the most famous in his oeuvre.
+<br><br>
+Abdul Ghani was an active member of the literary and visual arts scenes in Singapore. He was a founding member of Angkatan Pelukis Aneka Daya (APAD; Association of Artists of Various Resources) and served as its president between 1962 and 1983. He was also a member of the National Arts Council from 2000 to 2002 and the recipient of three prestigious literary awards: Anugerah Tan Seri Lanang (1998), Southeast Write Award for Malay Poetry (1998) and the Cultural Medallion (1999).
+<br><br>
+The Abdul Ghani Abdul Hamid Collection at the National Library comprises letters and literary manuscripts as well as publications and ephemera related to the visual and literary arts. Included in the collection are letters and notes that document Abdul Ghani’s involvement with art associations, exhibitions and various events in Singapore.
+<br><br>
+Catalogued by subject matter and time period, the collection provides rich insights into the development of the Malay visual arts scene in Singapore.
+<br><br>
+<img style="width: 350px; height: 450px;" src="/images/Vol-14-issue-4/creative-collectives/image.JPG">Portrait of Abdul Ghani Abdul Hamid. All rights reserved, Eric Foo Chee Meng 1979–2001. <i>Courtesy of National Arts Council.</i></div>
 
 <br>
 <div style="background-color: white;">

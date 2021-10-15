@@ -16,8 +16,6 @@ Since 1 August 2000, exemplary nurses have received the President’s Award for 
 
 When Stamford Raffles arrived in Singapore in January 1819, a skeletal medical team accompanied his troops. This all-male detachment consisted of military doctors, apothecaries (equivalent to modern-day pharmacists), orderlies as well as dressers (who specialised in wound dressing and bandaging).
 
-<div style="background-color: white;"><img style="width:700px" src="/images/Vol-12-issue-2/angels-in-white/01-angelsinwhite.jpg">A male attendant in a ward of the old Tan Tock Seng Hospital. As the first professionally trained nurses did not arrive in Singapore till 1900, male attendants took care of patients. <i>Courtesy of National Archives of Singapore.</i></div>
-
 In the same year, a wooden shed was erected near the junction of Bras Basah Road and Stamford Road to treat as well as house sick soldiers. This rudimentary shed, which was rebuilt in 1821, served as a general hospital staffed by army surgeons and is regarded today as the predecessor of the Singapore General Hospital.[^2]
 
 Unfortunately, access to early healthcare back then was mostly a privilege that only colonial administrators and the military enjoyed; the indigenous people and immigrants were largely left to fend for themselves.
@@ -52,7 +50,7 @@ The following years saw many public letters, newspaper editorials and meetings t
 
 The minimum entry requirement for nursing school in the early 1900s was the completion of the Junior Cambridge Examination. The very fact that trained nurses had to be recruited from overseas highlighted the dismal state of education among local women in Singapore. Most women in those days were confined to traditional domestic roles – as daughters, wives and mothers – and generally did not receive much education.
 
-<div style="background-color: white;"><img style="width:700px" src="/images/Vol-12-issue-2/angels-in-white/03-angelsinwhite.jpg">A nun from the Franciscan Missionaries of the Divine Motherhood conducting an anatomy class for nurses at the Mandalay Road Hospital in 1950. <i>School of Nursing Collection, courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;"><img style="width:700px" src="/images/Vol-12-issue-2/angels-in-white/01-angelsinwhite.jpg">A male attendant in a ward of the old Tan Tock Seng Hospital. As the first professionally trained nurses did not arrive in Singapore till 1900, male attendants took care of patients. <i>Courtesy of National Archives of Singapore.</i></div>
 
 However, by the end of 1903, all the four qualified nurses from England had left their posts for various reasons: a transfer out of Singapore, marriage, ill health or completion of their three-year contracts. Although they were replaced by other expatriates, the pool of trained nurses remained largely stagnant. Subsequent arrivals succumbed to illnesses such as tuberculosis and malaria as they were unused to working in a tropical country. In 1911, for instance, seven out of 10 Sisters and six out of 13 Nurse Probationers were admitted to hospital.
 
@@ -62,17 +60,17 @@ In 1908, the infant mortality rate was 347.8 per one thousand live births, with 
 
 With rising concerns over the high infant mortality rate, Miss J. E. Blundell from England was appointed as Municipal Nurse[^8] early life conditions of infants. The findings confirmed that poor infant feeding was the main contributor to infant mortality. Miss Blundell was subsequently asked to instruct local mothers on the proper care of their infants and young children. Her findings led to the start of a regular midwifery course for local women in 1910, with proper instruction and licensing of midwives. That year marked the beginning of the Maternal and Child Health Service in Singapore.
 
-|**SINGLETON NURSES OF THE 1920S**|
-
-|The nursing profession, as most people will readily admit, is one of the toughest in the world; it is a calling that requires dedication and a certain steadfastness of spirit. While nurses today face many challenges on a daily basis, it was much worse back in the 1920s. Nurses were expected to perform six weeks of continuous morning and afternoon shifts, followed by two weeks of night duty. Rest days were scant: student nurses were given one off day per month, while staff nurses had two days. Nurses were also required to live in hospital quarters and have their meals there. Each staff nurse was entitled to her own bedroom, whereas student nurses had to share a room with two other fellow students. Perhaps the most draconian ruling was that nurses working in government hospitals in the 1920s were not allowed to get married. We do not know how long this rule was enforced, but it is little wonder that the profession had difficulties attracting women.|
-
-|<br>**EARLY MIDWIFERY AND THE BIDAN**|
-
-|Prior to the arrival of the British, women in Singapore had their own birth rituals and customs. As the population was mainly Malay, home births were handled by the* bidan*, usually a well-respected female member of the community. These traditional Malay midwives acquired their skills and knowledge from older, more experienced *bidan*, and in turn, imparted their knowledge to other women. It was expected of a practising *bidan* to have gone through pregnancy and childbirth herself.|
-
-|<br><img style="width:650px"  src="/images/Vol-12-issue-2/angels-in-white/04-angelsinwhite.jpg">This 1950 photo shows a midwife weighing a newborn baby at home. As hospital beds in maternity hospitals were in short supply in the 1950s, women were discharged 24 hours after their babies were born. Midwives would visit these new mothers at their homes to provide postnatal care. <i>School of Nursing Collection, courtesy of National Archives of Singapore.</i>|
-
-|<br>In Singapore, midwifery training started earlier and advanced more rapidly than general nursing. Commencing in 1896, midwifery training was reserved only for married women until 1901, when three unmarried midwives passed the examination. In the early days, all midwives and probationers were of European ancestry; it was not until 1910 that the first course for Asian midwives kicked off. Malay *bidan*, however, preferred to stick to their own training programme that followed time-honoured Malay customs and traditions.|
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"><b>SINGLETON NURSES OF THE 1920S</b>
+<br><br>
+The nursing profession, as most people will readily admit, is one of the toughest in the world; it is a calling that requires dedication and a certain steadfastness of spirit. While nurses today face many challenges on a daily basis, it was much worse back in the 1920s. Nurses were expected to perform six weeks of continuous morning and afternoon shifts, followed by two weeks of night duty. Rest days were scant: student nurses were given one off day per month, while staff nurses had two days. Nurses were also required to live in hospital quarters and have their meals there. Each staff nurse was entitled to her own bedroom, whereas student nurses had to share a room with two other fellow students. Perhaps the most draconian ruling was that nurses working in government hospitals in the 1920s were not allowed to get married. We do not know how long this rule was enforced, but it is little wonder that the profession had difficulties attracting women.
+<br><br>
+<b>EARLY MIDWIFERY AND THE BIDAN</b>
+<br><br>
+Prior to the arrival of the British, women in Singapore had their own birth rituals and customs. As the population was mainly Malay, home births were handled by the <i>bidan</i>, usually a well-respected female member of the community. These traditional Malay midwives acquired their skills and knowledge from older, more experienced <i>bidan</i>, and in turn, imparted their knowledge to other women. It was expected of a practising <i>bidan</i> to have gone through pregnancy and childbirth herself.
+<br><br>
+<img style="width:650px"  src="/images/Vol-12-issue-2/angels-in-white/04-angelsinwhite.jpg">This 1950 photo shows a midwife weighing a newborn baby at home. As hospital beds in maternity hospitals were in short supply in the 1950s, women were discharged 24 hours after their babies were born. Midwives would visit these new mothers at their homes to provide postnatal care. <i>School of Nursing Collection, courtesy of National Archives of Singapore.</i>
+<br><br>
+In Singapore, midwifery training started earlier and advanced more rapidly than general nursing. Commencing in 1896, midwifery training was reserved only for married women until 1901, when three unmarried midwives passed the examination. In the early days, all midwives and probationers were of European ancestry; it was not until 1910 that the first course for Asian midwives kicked off. Malay <i>bidan</i>, however, preferred to stick to their own training programme that followed time-honoured Malay customs and traditions.</div>
 
 One of the earliest records of a healthcare outreach programme in Singapore was in 1911 when infant welfare nurses made house visits to inspect the living conditions of infants and to advise young mothers. The results were significant: Singapore’s infant mortality rate fell to 267 per one thousand live births in 1912. In 1915, the Midwives Ordinance was passed to recognise certified midwives and require their compulsory registration in the Straits Settlements by the Central Midwives Board.
 
@@ -90,7 +88,7 @@ In 1924, the General Hospital at Sepoy Lines commenced its four-year General Nur
 
 <div style="background-color: white;"><img style="width:600px" src="/images/Vol-12-issue-2/angels-in-white/05-angelsinwhite.jpg">To bring festive cheer to the patients, wards at the General Hospital were decorated with Christmas trimmings, circa 1930s. <i>Courtesy of National Archives of Singapore.</i></div>
 
-In 1926, Singapore’s first public health nurse, Miss I. M. M. Simmons from Scotland, was employed to provide infant and maternal health services to mothers and infants in rural areas. As a result of her recommendations, a mobile dispensary was introduced the following year. The medical team consisted of a doctor, dresser and nurse who made daily trips to rural areas. In addition, nurses were involved in various outreach activities to educate school children and the general public on hygiene and basic health. Local nurses also gained recognition when the first Asian nursing sister in Singapore, Mrs. M. E. Perera, was appointed in 1937 by the St Andrew’s Mission Hospital. This was the first time an Asian was deemed to be on par with expatriate nurses and qualified to lead.
+In 1926, Singapore’s first public health nurse, Miss Ida M. M. Simmons (see text box below) from Scotland, was employed to provide infant and maternal health services to mothers and infants in rural areas. As a result of her recommendations, a mobile dispensary was introduced the following year. The medical team consisted of a doctor, dresser and nurse who made daily trips to rural areas. In addition, nurses were involved in various outreach activities to educate school children and the general public on hygiene and basic health. Local nurses also gained recognition when the first Asian nursing sister in Singapore, Mrs. M. E. Perera, was appointed in 1937 by the St Andrew’s Mission Hospital. This was the first time an Asian was deemed to be on par with expatriate nurses and qualified to lead.
 
 #### **World War II to Independence: 1940s–65**
 
@@ -99,6 +97,8 @@ The outbreak of World War II and the fall of Singapore on 15 February 1942 broug
 World War II helped to change public perception of local nurses. In January 1947, the government promoted locally trained nurses to the rank of Sister, creating opportunities for them to rise to supervisory and administrative posts. The nurses, many of whom made positive contributions during the Occupation years and survived the war, were more confident of their abilities now and lobbied for their certification to be recognised in the UK and the Commonwealth as well as internationally. In February 1949, the Nursing Registration Ordinance was passed, requiring all nurses to be registered or admitted by examination.
 
 While the post-war demands for nurses soared, the recruitment of student nurses was still abysmal mainly due to the lack of local women with the required level of education. To ease the shortage, nurse training for males was introduced in 1948. Existing male students from the Hospital Assistants training programme were transferred to this new course. In addition, the Catholic religious community came forward once again: nuns from the Franciscan Missionaries of the Divine Motherhood – many of whom were trained nurses and midwives – volunteered their services at the Tan Tock Seng Hospital between 1949 and 1962.
+
+<div style="background-color: white;"><img style="width:700px" src="/images/Vol-12-issue-2/angels-in-white/03-angelsinwhite.jpg">A nun from the Franciscan Missionaries of the Divine Motherhood conducting an anatomy class for nurses at the Mandalay Road Hospital in 1950. <i>School of Nursing Collection, courtesy of National Archives of Singapore.</i></div>
 
 The early 1950s saw recruitment efforts being ramped up, with better prospects, training and promotion opportunities for nurses. Nursing was also portrayed in the media as a respectable career. The marketing efforts paid off and the number of student nurses grew considerably. But demand always seemed to outstrip supply and the nursing shortage persisted.
 
@@ -115,21 +115,21 @@ Nurses’ Week was celebrated for the first time in Singapore in May 1965. Held 
 
 Unlike most other countries, which celebrate Nurses Day on 12 May, the birthday of Florence Nightingale, Singapore celebrates Nurses Day on 1 August as it commemorates the exact date 131 years earlier when a group of French nuns in Singapore answered the call to become nurses – despite their lack of training and experience, and in the face of much public objection and protests. The nursing profession today has grown exponentially since 1965, but that subject is material for another article of its own.
 
-|**IDA SIMMONS: SINGAPORE'S FIRST PUBLIC HEALTH NURSE**|
-
-|Ida M. M. Simmons was Singapore’s first public health nurse. Fresh off the boat from Scotland, she joined the Straits Settlements Medical Department in December 1926 and was tasked with introducing infant and maternal health services in rural Singapore, an area then covering almost half the island.|
-
-|<br><img style="width:300px" src="/images/Vol-12-issue-2/angels-in-white/07-angelsinwhite.jpg">In 1927, Singapore’s first public health nurse, Ida M. M. Simmons from Scotland, was employed to provide infant and maternal health services to mothers and infants in rural areas. <i>All rights reserved, Ministry of Health. (1997). More than a Calling: Nursing in Singapore Since 1885 Singapore: Ministry of Health.</i>|
-
-|<br>In 1927, some 263 out of every 1,000 babies in Singapore died in their first year, while among rural Malays the number was almost 300 per 1,000 births. Simmons learned Malay and set out to visit every kampong (village) to uncover the extent of the problem. The health department launched a mobile dispensary to make her work easier. The vehicle travelled the rural byways and parked nearby while Simmons and her team made house calls, sending those needing medical attention to the dispensary or summoning the accompanying doctor to the house.|
-
-|Simmons and her staff earned the patients’ trust through their home visits and by 1930, formal welfare centres had been established. These centres focused on education and prevention, and provided regular check-ups, free milk, referrals to hospitals, lectures and counselling. By the time Simmons retired in 1948, there were 15 full-time centres.|
-
-|In 1934, Simmons was promoted to Public Health Matron for rural Singapore. During the Japanese Occupation of Singapore (1942–45), Simmons was interned at Sime Road Camp. After the war, she began rebuilding infant health services, which had been neglected under the Japanese. Infant mortality had worsened but the damage was soon reversed and services were extended to the small outlying islands of Singapore.|
-
-|Simmons retired to England in 1948, after having overseen a drop in the infant mortality rate from 263 deaths per 1,000 babies in 1927 to an exceptional record of 57 deaths per 1,000 babies that year. This was a feat especially when viewed against the backdrop of a rising birth rate. She later moved to Scotland, where she died in 1958.|
-
-|Extracted from Singapore Infopedia: National Library Board. (2013, March 25). [Ida Simmons](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-05-14_135054.html)  written by Sutherland, Duncan. Retrieved from Singapore Infopedia website.|
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"><b>IDA SIMMONS: SINGAPORE'S FIRST PUBLIC HEALTH NURSE</b>
+<br><br>
+Ida M. M. Simmons was Singapore’s first public health nurse. Fresh off the boat from Scotland, she joined the Straits Settlements Medical Department in December 1926 and was tasked with introducing infant and maternal health services in rural Singapore, an area then covering almost half the island.
+<br><br>
+<img style="width:300px" src="/images/Vol-12-issue-2/angels-in-white/07-angelsinwhite.jpg">In 1927, Singapore’s first public health nurse, Ida M. M. Simmons from Scotland, was employed to provide infant and maternal health services to mothers and infants in rural areas. <i>All rights reserved, Ministry of Health. (1997). More than a Calling: Nursing in Singapore Since 1885 Singapore: Ministry of Health.</i>
+<br><br>
+In 1927, some 263 out of every 1,000 babies in Singapore died in their first year, while among rural Malays the number was almost 300 per 1,000 births. Simmons learned Malay and set out to visit every kampong (village) to uncover the extent of the problem. The health department launched a mobile dispensary to make her work easier. The vehicle travelled the rural byways and parked nearby while Simmons and her team made house calls, sending those needing medical attention to the dispensary or summoning the accompanying doctor to the house.
+<br><br>
+Simmons and her staff earned the patients’ trust through their home visits and by 1930, formal welfare centres had been established. These centres focused on education and prevention, and provided regular check-ups, free milk, referrals to hospitals, lectures and counselling. By the time Simmons retired in 1948, there were 15 full-time centres.
+<br><br>
+In 1934, Simmons was promoted to Public Health Matron for rural Singapore. During the Japanese Occupation of Singapore (1942–45), Simmons was interned at Sime Road Camp. After the war, she began rebuilding infant health services, which had been neglected under the Japanese. Infant mortality had worsened but the damage was soon reversed and services were extended to the small outlying islands of Singapore.
+<br><br>
+Simmons retired to England in 1948, after having overseen a drop in the infant mortality rate from 263 deaths per 1,000 babies in 1927 to an exceptional record of 57 deaths per 1,000 babies that year. This was a feat especially when viewed against the backdrop of a rising birth rate. She later moved to Scotland, where she died in 1958.
+<br><br>
+Extracted from Singapore Infopedia: National Library Board. (2013, March 25). <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-05-14_135054.html">Ida Simmons</a> written by Sutherland, Duncan. Retrieved from Singapore Infopedia website.</div>
 
 <div style="background-color: white;">
 <br>
@@ -147,7 +147,7 @@ Fildes, V., Marks, L., & Marland, H. (Eds.). (1992). *Women and children first: 
 
 Government of Singapore. (2016, May 26). *Latest data*. Retrieved from Singapore Department of Statistics website.
 
-Gwee, M.B., & Ang, R. (1991). Trends in nursing education in Singapore. *T[he professional nurse: A Quarterly Publication of the Singapore Trained Nurses’ Association](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4396380), 18* (3), p. 17.
+Gwee, M.B., & Ang, R. (1991). Trends in nursing education in Singapore. *[The Professional Nurse: A Quarterly Publication of the Singapore Trained Nurses’ Association](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4396380), 18* (3), p. 17.
 
 Lee, C.E., & Satku, K. (Eds.). (2016). *[Singapore’s health care system: What 50 years have achieved](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202254181)* (p. 169). Singapore: World Scientific. (Call no.: RSING 362.1095957 SIN)
 
@@ -183,7 +183,7 @@ Singapore Nurses Association. (2015). *Our history*. Retrieved from Singapore Nu
 
 Singapore Nursing Board. (2016). Retrieved from Singapore Nursing Board website.
 
-Tan, K.H., & Chern, S. M. (2002). Progress in obstetrics from 19th to 21st centuries: Perspectives from KK Hospital, Singapore – the former world’s largest maternity hospital. *The Internet Journal of Gynecology and Obstetrics*. 2 (2). Retrieved from Internet Scientific Publications website.
+Tan, K.H., & Chern, S. M. (2002). Progress in obstetrics from 19th to 21st centuries: Perspectives from KK Hospital, Singapore – the former world’s largest maternity hospital. *The Internet Journal of Gynecology and Obstetrics, 2* (2). Retrieved from Internet Scientific Publications website.
 
 Tan, K.H., & Tay, E.H. (Eds.). (2003). *[The history of obstetrics and gynaecology in Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11905621)*. Singapore: Obstetrical & Gynaecological Society of Singapore: National Heritage Board. (Call no.: RSING q618.095957 HIS)
 

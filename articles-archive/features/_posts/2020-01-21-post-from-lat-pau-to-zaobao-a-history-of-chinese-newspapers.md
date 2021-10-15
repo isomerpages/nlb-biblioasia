@@ -4,7 +4,6 @@ date: 2020-01-21
 permalink: /vol-15/issue-4/jan-mar-2020/from-lat-pau-zaobao
 layout: post
 ---
-
 #### Chinese newspapers have been published in Singapore since the 19th century. **Lee Meiyu** looks at how they have evolved and examines their impact on the Chinese community here.
 
 <img style="width: 500px; height: 350px;" src="/images/Vol-15-issue-4/history-of-chinese-newspapers/Image8.JPG">
@@ -113,43 +112,46 @@ In this digital age, however, subscriptions to physical newspapers have been ste
 
 Moving forward, SPH has announced that it will focus on the digital transformation of its core media business and intensify efforts to make content available across different platforms. It remains to be seen, however, if Chinese newspapers in Singapore will continue to evolve and transform with the same innovative spirit and fervour that their predecessors did.[^40]
 
-|**FUKAN – THE CRADLE OF SINGAPORE CHINESE LITERATURE**
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba; display:block; font-size:1rem; line-height:1.5rem;"> 
+<b>FUKAN – THE CRADLE OF SINGAPORE CHINESE LITERATURE</b>
+<br><br>
+	In 1907, Chinese daily <i>Lat Pau</i> introduced a supplement known as <i>fu zhang</i> (附张; which literally means “attached sheet”) in which folksongs and popular tales along with other miscellaneous articles were featured.[^25]
+<br><br>
+Other Chinese newspapers followed suit and produced their own supplements, now called <i>fukan</i> (副刊). One of the most important <i>fukan</i> published was </i>Xin Guo Min Za Zhi</i> (新国民杂志), the supplement to </i>Sin Kuo Min Jit Poh</i> (新国民日报), which was founded in 1919. This supplement was a milestone in the history of Singapore Chinese literature as it introduced modern Chinese literature inspired by the New Culture Movement[^26] in China to local readers.
+<br><br>
+|In 1925, <i>Nan Feng</i> (南风) was published by <i>Sin Kuo Min Jit Poh while Xing Guang</i> (星光) was published by <i>Lat Pau</i>. These supplements helped define Singapore Chinese literature and establish its future direction of growth.
+<br><br>
+Other important <i>fukan</i> that contributed to the development of Chinese literature in Singapore were <i>Huang Dao</i> (荒岛) (1927) and <i>Lu Yi</i> (绿漪) (1927) by <i>Sin Kuo Min Jit Poh</i>; <i>Ye Lin</i>(椰林) (1928) by <i>Lat Pau</i>; <i>Hong Huang</i> (洪荒) (1927), <i>Wen Yi San Ri Kan</i> (文艺三日刊) (1929) and <i>Shi Sheng</i> (狮声) (1933) by <i>Nanyang Siang Pau</i>; and <i>Ye Pa</i> (野葩) (1930) and <i>Chen Xing</i> (晨星) (1937) by *Sin Chew Jit Poh*. </span>
 
-|In 1907, Chinese daily *Lat Pau* introduced a supplement known as *fu zhang* (附张; which literally means “attached sheet”) in which folksongs and popular tales along with other miscellaneous articles were featured.[^25]
+<div style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba"> 
+<b>THE SWORDSMAN MAKES ITS DEBUT</b>
+<br><br>
+Fans of Chinese sword-fighting, or <i>wuxia</i>, novels would be familiar with Linghu Chong (令狐冲), the honourable, happy-go-lucky swordsman with a weakness for alcohol. He is the protagonist in <i>Xiao Ao Jianghu</i> (笑傲江湖), a story written by the Hong Kong writer Jin Yong (金庸; also known as Louis Cha).
+<br><br>
+<img style="width: 200px; height: 300px;" src="/images/Vol-15-issue-4/history-of-chinese-newspapers/Image9.JPG"><i>Xiao Ao Jianghu</i> (笑傲江湖) by the Hong Kong writer Jin Yong (金庸; also known as Louis Cha) was first serialised in the inaugural issue of Shin Min Daily News on 18 March 1967. <i>Image reproduced from 金庸 [Jin Yong]. (1996).《笑傲江湖》[The Wandering Swordsman]. 新加坡: 明河社出版有限公司.</i>
+<br><br>
+Known in English under various titles such as <i>The Wandering Swordsman and The Smiling, Proud Wanderer</i>, the novel is so popular that it has been adapted for the stage, television, the big screen, comic books and even video games. To attract readers, the novel was first serialised in the inaugural issue of <i>Shin Min Daily News</i> (新民日报) on 18 March 1967, a local newspaper started by Cha and the founder of Axe Brand Universal Oil, Leong Yun Chee.
+<br><br>
+This was even before the novel was published in the Hong Kong newspaper <i>Ming Pao</i> (民报), which was also founded by Cha. Serialisation of his other novels in <i>Shin Min</i>  soon followed.
+<br><br>
+The entrance of <i>Shin Min Daily News</i> livened up the Chinese newspaper publishing scene in Singapore with its focus on the world of entertainment. The daily became an instant hit, thanks to its lottery results, sword-fighting novels, exclusive entertainment news and horse racing tips.
+<br><br>
+In 1983, <i>Shin Min Daily News</i> became a subsidiary company of The Straits Times Press Limited. One year later, in 1984, the paper became part of Singapore Press Holdings group.
+</div>
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba; display:block; font-size:1rem; line-height:1.5rem;"> 
+<b>THE RISE AND FALL OF CHINESE TABLOIDS</b>
+<br><br>
+Chinese tabloids first appeared and flourished in Singapore in the 1920s, providing readers with a different form of entertainment compared to the dailies. Known as <i>xiao bao</i> (小报), these tabloids were usually published once every two to three days and were much thinner than the dailies.
+<br><br>
+<img style="width: 300px; height: 400px;" src="/images/Vol-15-issue-4/history-of-chinese-newspapers/XLB.jpg"><i>Xin Li Bao</i> (新力报) reporting on the opening of the latest nightclub in Singapore in December 1950. <i>Xin Li Bao, 29 December 1950 (issue 16).</i>
+<br><br>
+	The first Chinese tabloid, <i>Xiao Xian Zhong</i> (消闲钟), was published in Singapore in 1925. It featured mostly entertainment news, while other tabloids focused on topics such as photography, commerce, literature, education and politics.
+<br><br>
+The late 1940s and the 1950s marked another golden age for Chinese tabloids in Singapore. <i>Ye Deng Bao</i> (夜灯报) and <i>Xin Li Bao</i> (新力报) were the two most popular tabloids during that period. Chinese tabloids were mainly known for their frivolous reporting of entertainment news on the latest movies, celebrity gossip, <i>getai</i> (live stage performances) and popular bar hostesses. They also prided themselves on their ability to get the inside scoop on these subjects and regularly covered titillating topics like sensational crime and prostitution.
+<br><br>
+Some tabloids resorted to pornography to increase their readership in the highly competitive market. On the basis that these tabloids were promoting “yellow culture”,[^41] the government banned a number of such publications or revoked the printing licences of the companies in the 1960s.</span>
 
-|Other Chinese newspapers followed suit and produced their own supplements, now called *fukan* (副刊). One of the most important *fukan* published was *Xin Guo Min Za Zhi* (新国民杂志), the supplement to *Sin Kuo Min Jit Poh* (新国民日报), which was founded in 1919. This supplement was a milestone in the history of Singapore Chinese literature as it introduced modern Chinese literature inspired by the New Culture Movement[^26] in China to local readers.
-
-|In 1925, *Nan Feng* (南风) was published by *Sin Kuo Min Jit Poh while Xing Guang* (星光) was published by *Lat Pau*. These supplements helped define Singapore Chinese literature and establish its future direction of growth.
-
-|Other important *fukan* that contributed to the development of Chinese literature in Singapore were *Huang Dao* (荒岛) (1927) and *Lu Yi* (绿漪) (1927) by *Sin Kuo Min Jit Poh*; *Ye Lin* (椰林) (1928) by *Lat Pau*; *Hong Huang* (洪荒) (1927), *Wen Yi San Ri Kan* (文艺三日刊) (1929) and *Shi Sheng* (狮声) (1933) by *Nanyang Siang Pau*; and *Ye Pa* (野葩) (1930) and *Chen Xing* (晨星) (1937) by *Sin Chew Jit Poh*. 
-
-|**THE SWORDSMAN MAKES ITS DEBUT**
-
-|Fans of Chinese sword-fighting, or *wuxia*, novels would be familiar with Linghu Chong (令狐冲), the honourable, happy-go-lucky swordsman with a weakness for alcohol. He is the protagonist in *Xiao Ao Jianghu* (笑傲江湖), a story written by the Hong Kong writer Jin Yong (金庸; also known as Louis Cha).
-
-|<img style="width: 200px; height: 300px;" src="/images/Vol-15-issue-4/history-of-chinese-newspapers/Image9.JPG"><i>Xiao Ao Jianghu</i> (笑傲江湖) by the Hong Kong writer Jin Yong (金庸; also known as Louis Cha) was first serialised in the inaugural issue of Shin Min Daily News on 18 March 1967. <i>Image reproduced from 金庸 [Jin Yong]. (1996).《笑傲江湖》[The Wandering Swordsman]. 新加坡: 明河社出版有限公司.</i>
-
-|Known in English under various titles such as *The Wandering Swordsman and The Smiling, Proud Wanderer*, the novel is so popular that it has been adapted for the stage, television, the big screen, comic books and even video games. To attract readers, the novel was first serialised in the inaugural issue of *Shin Min Daily News* (新民日报) on 18 March 1967, a local newspaper started by Cha and the founder of Axe Brand Universal Oil, Leong Yun Chee.
-
-|This was even before the novel was published in the Hong Kong newspaper *Ming Pao* (民报), which was also founded by Cha. Serialisation of his other novels in *Shin Min*  soon followed.
-
-|The entrance of *Shin Min Daily News* livened up the Chinese newspaper publishing scene in Singapore with its focus on the world of entertainment. The daily became an instant hit, thanks to its lottery results, sword-fighting novels, exclusive entertainment news and horse racing tips.
-
-|In 1983, *Shin Min Daily News* became a subsidiary company of The Straits Times Press Limited. One year later, in 1984, the paper became part of Singapore Press Holdings group.
-
-<br>|**THE RISE AND FALL OF CHINESE TABLOIDS**
-
-|Chinese tabloids first appeared and flourished in Singapore in the 1920s, providing readers with a different form of entertainment compared to the dailies. Known as *xiao bao* (小报), these tabloids were usually published once every two to three days and were much thinner than the dailies.
-
-|<img style="width: 300px; height: 400px;" src="/images/Vol-15-issue-4/history-of-chinese-newspapers/XLB.jpg"><i>Xin Li Bao</i> (新力报) reporting on the opening of the latest nightclub in Singapore in December 1950. <i>Xin Li Bao, 29 December 1950 (issue 16).</i>
-
-|The first Chinese tabloid, *Xiao Xian Zhong* (消闲钟), was published in Singapore in 1925. It featured mostly entertainment news, while other tabloids focused on topics such as photography, commerce, literature, education and politics.
-
-|The late 1940s and the 1950s marked another golden age for Chinese tabloids in Singapore. *Ye Deng Bao* (夜灯报) and *Xin Li Bao* (新力报) were the two most popular tabloids during that period. Chinese tabloids were mainly known for their frivolous reporting of entertainment news on the latest movies, celebrity gossip, *getai* (live stage performances) and popular bar hostesses. They also prided themselves on their ability to get the inside scoop on these subjects and regularly covered titillating topics like sensational crime and prostitution.
-
-|Some tabloids resorted to pornography to increase their readership in the highly competitive market. On the basis that these tabloids were promoting “yellow culture”,[^41] the government banned a number of such publications or revoked the printing licences of the companies in the 1960s.
-
-*The author wishes to thank Mr Lee Ching Seng for reviewing the essay. Past issues of Chinese newspapers can be accessed via NewspaperSG – a searchable, online archive of local newspapers – and also from the  microfilm collection at level 11 of the Lee Kong Chian Reference Library.* <br>
+*The author wishes to thank Mr Lee Ching Seng for reviewing the essay. Past issues of Chinese newspapers can be accessed via NewspaperSG – a searchable, online archive of local newspapers – and also from the  microfilm collection at level 11 of the Lee Kong Chian Reference Library.* 
 
 <div style="background-color: white;">
 <br/>

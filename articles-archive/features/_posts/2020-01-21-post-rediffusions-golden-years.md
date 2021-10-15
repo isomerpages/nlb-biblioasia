@@ -4,7 +4,6 @@ date: 2020-01-21
 permalink: /vol-15/issue-4/jan-mar-2020/rdifs-gden-yrs/
 layout: post
 ---
-
 #### Singapore’s only cable radio service was an instant hit when it was launched in 1949. **Barbara Quek** charts the history of the pioneering broadcasting station.
 
 <img style="width: 450px; height: 300px;" src="/images/Vol-15-issue-4/rediffusions-golden-years/Small%20Radio.JPG">
@@ -122,23 +121,24 @@ Some of the programming that made Rediffusion popular are held by the National A
 
 The National Library’s Lee Kong Chian Reference Library also has a collection of Rediffusion materials that include issues of *Rediffusion Times* (丽的呼声周刊), photographs and rare drama scripts.
 
-|<b>MASTER STORYTELLER LEE DAI SOH</b>
-
-|Lee Dai Soh (李大傻) (1913–89) was a well-known storyteller who made his name on Rediffusion. His moniker is sometimes spelt as Lee Dai Sor, which means “Big Fool Lee”[^21] in Cantonese. He was born Lee Fook Hai and grew up in Tanjong Pagar. Although Lee only had a primary school education, he loved reading and collecting books.[^22]
-
-|According to his daughter, Lee started out telling stories while sitting on a box under a tree in Chinatown, with a burning joss stick as his timer.[^23] His radio career began in 1938 when he joined the British Malaya Broadcasting Corporation. After the Japanese Occupation of Singapore, he returned to his job at the company, which by then had been renamed Radio Malaya. In 1949, Lee moved over to Rediffusion when the radio station began operations in Singapore.[^24]
-
-|<img style="width: 450px; height: 300px;" src="/images/Vol-15-issue-4/rediffusions-golden-years/red3.JPG">Cantonese raconteur Lee Dai Soh doing what he did best, 1966. <i>Lee Dai Soh Collection, courtesy of National Archives of Singapore</i>.| <br>
-
-|The master storyteller became a household name in the 1950s and 1960s. Apart from Rediffusion, he also made recordings for the Australian Broadcasting Commission station in Singapore, which were broadcast to countries such as Malaysia, Vietnam and Hong Kong.[^25]
-
-|Lee is fondly remembered for his retelling of the Chinese classic *Journey to the West* (西游记), which he narrated in Cantonese over 175 episodes, each lasting half an hour. These were recorded in 1979 on 7-inch open reel audiotapes at the Rediffusion Building on Clemenceau Avenue.
-
-|When Rediffusion ceased its dialect programmes in 1982, Lee retired from broadcasting in Singapore. He went on to tell stories in Cantonese for Radio Australia, and also entertained audiences with his storytelling performances at clan associations and public events.
-
-|Lee died of a heart attack in 1989, having done a recording for Radio Australia just the day before.[^26] He left behind two wives, one son, two daughters and two grandchildren.[^27]
-
-The audiotapes of Lee’s *Journey to the West* form part of the more than 5,000 Rediffusion recordings held in the collection of the National Archives of Singapore (NAS). These recordings have been digitised and are available for public access on the Archives Online website.[^28] Lee was also interviewed by the Oral History Department of the NAS in 1983 and 1989.[^29]|
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
+<b>MASTER STORYTELLER LEE DAI SOH</b>
+<br><br>
+Lee Dai Soh (李大傻) (1913–89) was a well-known storyteller who made his name on Rediffusion. His moniker is sometimes spelt as Lee Dai Sor, which means “Big Fool Lee”[^21] in Cantonese. He was born Lee Fook Hai and grew up in Tanjong Pagar. Although Lee only had a primary school education, he loved reading and collecting books.[^22]
+<br><br>
+According to his daughter, Lee started out telling stories while sitting on a box under a tree in Chinatown, with a burning joss stick as his timer.[^23] His radio career began in 1938 when he joined the British Malaya Broadcasting Corporation. After the Japanese Occupation of Singapore, he returned to his job at the company, which by then had been renamed Radio Malaya. In 1949, Lee moved over to Rediffusion when the radio station began operations in Singapore.[^24]
+<br><br>
+<img style="width: 450px; height: 300px;" src="/images/Vol-15-issue-4/rediffusions-golden-years/red3.JPG">Cantonese raconteur Lee Dai Soh doing what he did best, 1966. <i>Lee Dai Soh Collection, courtesy of National Archives of Singapore</i>.
+<br><br>
+The master storyteller became a household name in the 1950s and 1960s. Apart from Rediffusion, he also made recordings for the Australian Broadcasting Commission station in Singapore, which were broadcast to countries such as Malaysia, Vietnam and Hong Kong.[^25]
+<br><br>
+	Lee is fondly remembered for his retelling of the Chinese classic <i>Journey to the West</i> (西游记), which he narrated in Cantonese over 175 episodes, each lasting half an hour. These were recorded in 1979 on 7-inch open reel audiotapes at the Rediffusion Building on Clemenceau Avenue.
+<br><br>
+When Rediffusion ceased its dialect programmes in 1982, Lee retired from broadcasting in Singapore. He went on to tell stories in Cantonese for Radio Australia, and also entertained audiences with his storytelling performances at clan associations and public events.
+<br><br>
+Lee died of a heart attack in 1989, having done a recording for Radio Australia just the day before.[^26] He left behind two wives, one son, two daughters and two grandchildren.[^27]
+<br><br>
+	The audiotapes of Lee’s <i>Journey to the West</i> form part of the more than 5,000 Rediffusion recordings held in the collection of the National Archives of Singapore (NAS). These recordings have been digitised and are available for public access on the Archives Online website.[^28] Lee was also interviewed by the Oral History Department of the NAS in 1983 and 1989.[^29] </span>
 
 <div style="background-color: white;">
 <br>

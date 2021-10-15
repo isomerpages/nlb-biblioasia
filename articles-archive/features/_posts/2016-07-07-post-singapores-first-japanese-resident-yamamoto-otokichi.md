@@ -6,18 +6,18 @@ layout: post
 ---
 #### A sailor travels halfway around the world in his attempt to return home, and becomes the first Japanese resident in Singapore in the process. **Bonny Tan** tells the story.
 
-<div style="background-color: white;"><br><img style="width:500px" src="/images/Vol-12-issue-2/yamamoto-otokichi/03-yamamoto-otokichi.jpg">Some members of the Japanese government mission to Europe. Photo taken in Utrecht, Netherlands, in July 1862. The interpreter Fukuzawa Yukichi, who was part of the delegation that visited Singapore earlier on 17 February 1862, is seen standing second from the left. <i>Courtesy of Wikimedia Commons.</i></div>
+<div style="background-color: white;"><br><img style="width:650px" src="/images/Vol-12-issue-2/yamamoto-otokichi/02a-yamamoto-otokichi.jpg">(Left) An 1849 illustration of Yamamoto Otokichi. Artist unknown. <i>Courtesy of Wikimedia Commons.</i></div>
+<div style="background-color: white;">(Right) Japanese drawing of the <i>Morrison</i>, anchored at Uraga, Kanagawa Prefecture, in 1837. This was the ship that brought Otokichi and his two comrades back to Japan but was received with cannon fire instead. Artist unknown. <i>Courtesy of Wikimedia Commons.</i></div>
 
 During the Edo period (1603–1868) under the rule of the Tokugawa Shogunate,[^1] Japan was a very insular society and kept its doors closed to foreign influence. Japanese nationals leaving the country could not return home on pain of death, and foreigners were barred from entering the country. Only Nagasaki on southernmost Kyushu island remained open as a primary trading port for the Dutch East India Company. This period of national isolation called *sakoku* (meaning literally “closed country”) was in force for over 250 years until Commodore Matthew Perry of the US arrived with his fleet in 1853 to wrest open Japan to foreign trade.
-
-<div style="background-color: white;"><img style="width:600px" src="/images/Vol-12-issue-2/yamamoto-otokichi/02-yamamoto-otokichi.jpg">(Left) An 1849 illustration of Yamamoto Otokichi. Artist unknown. <i>Courtesy of Wikimedia Commons.</i></div>
-<div style="background-color: white;">(Right) Japanese drawing of the Morrison, anchored at Uraga, Kanagawa Prefecture, in 1837. This was the ship that brought Otokichi and his two comrades back to Japan but was received with cannon fire instead. Artist unknown. <i>Courtesy of Wikimedia Commons.</i></div>
 
 #### **An Interlocutor Between East and West**
 
 A little known figure by the name of Yamamoto Otokichi – born in 1817 in Onoura in Mihama, Japan – had an important part to play in turning the hinges that eventually opened Japan’s doors to trade with Britain in 1854. As government missions from Japan began travelling out of the country to America and Europe during this period, many would transit in Singapore where Otokichi became their main point of contact. Otokichi, who had moved to Singapore by 1862, was a well-respected member of the Singapore merchantile community and owed his wealth to his close ties with the British.
 
 The second overseas Japanese diplomatic mission[^2] to Europe, led by Takenouchi Yasunori, governor of the Shimotsuke region, arrived in Singapore on 17 February 1862, and stayed here for two days. Among the members of his delegation was the interpreter Fukuzawa Yukichi who would later gain fame as one of the leading advocates for the modernisation of Japan during the Meiji era (1868–1912).
+
+<div style="background-color: white;"><img style="width:400px" src="/images/Vol-12-issue-2/yamamoto-otokichi/03a-yamamoto-otokichi.jpg">Some members of the Japanese government mission to Europe. Photo taken in Utrecht, Netherlands, in July 1862. The interpreter Fukuzawa Yukichi, who was part of the delegation that visited Singapore earlier on 17 February 1862, is seen standing second from the left. <i>Courtesy of Wikimedia Commons.</i></div>
 
 On the day the Japanese entourage arrived in Singapore, Otokichi met up with Yukichi and some members of the mission at the Adelphi Hotel bringing them around Singapore to view the sights, including his house. Yukichi and several others also had their portraits taken at a photo studio on Orchard Road.[^3]
 
@@ -37,11 +37,11 @@ Traders from the Hudson Bay Company – at the time a major fur trading company 
 
 When the three Japanese arrived at Fort Vancouver[^7] in May 1834 after being rescued, they were welcomed with open arms by McLoughlin. After several months of exposure to the Christian faith and some rudimentary English lessons, the Japanese were dispatched to England in the fall of 1834. McLoughlin hoped that the British would bring the men home to Japan and, in the process, establish trade relations with this isolated country.
 
-Otokichi, Kyukichi, and Iwakichi arrived in London in June 1835, becoming the first Japanese to set foot in England. However, they were only given one day to tour the city and were otherwise kept confined onboard their ship throughout its entire anchorage in England. When the ship finally set sail about 10 days later for the East, it was at Macau where they landed and not Japan as they had hoped.
+Otokichi, Kyukichi and Iwakichi arrived in London in June 1835, becoming the first Japanese to set foot in England. However, they were only given one day to tour the city and were otherwise kept confined onboard their ship throughout its entire anchorage in England. When the ship finally set sail about 10 days later for the East, it was at Macau where they landed and not Japan as they had hoped.
 
 In Macau, the trio met Reverend Karl Friedrich August Gützlaff, a linguistically gifted German Protestant missionary who was keen to evangelise the Chinese and translate the Bible into different languages. In the Japanese castaways, he saw the opportunity to translate the scriptures into Japanese. Gützlaff got Otokichi to teach him colloquial Japanese, while in return Otokichi and his comrades received English lessons from his wife Mary Gützlaff at the Macau Free School.
 
-<div style="background-color: white;"><img style="width:400px" src="/images/Vol-12-issue-2/yamamoto-otokichi/04-yamamoto-otokichi.jpg">Karl Friedrich August Gützlaff was a 19th-century German Protestant missionary who evangelised to the Chinese and translated the Bible into different languages. <i>All rights reserved, Gützlaff, K. F. A. (1834). A Sketch of Chinese History (Vol. I). New York: John P. Haven. Courtesy of Wikimedia Commons..</i></div>
+<div style="background-color: white;"><img style="width:300px" src="/images/Vol-12-issue-2/yamamoto-otokichi/04-yamamoto-otokichi.jpg">Karl Friedrich August Gützlaff was a 19th-century German Protestant missionary who evangelised to the Chinese and translated the Bible into different languages. <i>All rights reserved, Gützlaff, K. F. A. (1834). A Sketch of Chinese History (Vol. I). New York: John P. Haven. Courtesy of Wikimedia Commons.</i></div>
 
 Otokichi is often credited for helping Gützlaff complete the first Japanese-translated portions of the Protestant Bible. The manuscript for “Yohannes’no tayori yorokobi”, or the Gospel of John, written in Japanese *katakana* script, was subsequently sent to Singapore where it was published by the Mission Press in May 1837. However, in 1838, the American Bible Society put a stop to further print-runs of the publication as the translation was deemed inadequate.[^8] Copies of this rare publication can be found at the British Library and the Doshisha University Library in Kyoto.
 
@@ -75,12 +75,12 @@ Otokichi’s remains were subsequently exhumed and cremated, and his ashes put i
 
 The remains of Otokichi Yamamoto were finally laid to rest in his place of birth – 173 years after the intrepid 14-year-old had set sail from Japan on an unexpected adventure that took him halfway around the world.
 
-The author would like to thank Mr Leong Foke Meng and Mr Akira Doi for reviewing this article.
+*The author would like to thank Mr Leong Foke Meng and Mr Akira Doi for reviewing this article.*
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-2/yamamoto-otokichi/Bonny.png">
-	<b>Bonny Tan</b> is a former Senior Librarian at the National Library, Singapore. She currently resides in Vietnam with her family and is a regular contributor to “BiblioAsia” magazine.</div>
+<img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-2/yamamoto-otokichi/Bonny1.png">
+	<b>Bonny Tan</b> is a former Senior Librarian at the National Library, Singapore. She currently resides in Vietnam with her family and is a regular contributor to <i>BiblioAsia</i> magazine.</div>
 
 <a href="/vol-12/issue-2/jul-sep-2016/"><center>Back to Issue</center></a>
 
@@ -102,7 +102,7 @@ Leong, F.M. (2012). *[Later career of Otokichi](http://eservice.nlb.gov.sg/item_
 
 Lim, S.B. (Ed.). (2004). *[Images of Singapore: From the Japanese perspective (1868–1941)](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12410034)*. Singapore: The Japanese Cultural Society. (Call no. : RSING 959.57 IMA)
 
-Mockford, J. (1991). The open gate of Fort Vancouver: Japan-America relations in early Pacific Northwest History. Clark County History, 32.
+Mockford, J. (1991). The open gate of Fort Vancouver: Japan-America relations in early Pacific Northwest History. *Clark County History*, 32.
 
 National Library Board. (2016). *[Yamamoto Otokichi](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1340_2008-03-05.html)* written by Tan, Bonny. Retrieved from Singapore Infopedia website.
 
