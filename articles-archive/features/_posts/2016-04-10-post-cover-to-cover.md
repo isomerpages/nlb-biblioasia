@@ -16,9 +16,9 @@ Teenagers today are just as enamoured of entertainment magazines as their parent
 
 The “golden age of Malay cinema” between 1947 and 1972 saw the emergence of key players like Shaw Brothers’ Malay Film Productions and Cathay-Keris, which went on to produce many iconic films during this period. Singapore’s film industry began a slow decline in the post-independence years with the influx of movies from Hong Kong and Taiwan. To fill a void in the local entertainment industry, magazines were launched to keep fans engaged.
 
-Since the early 1950s, women in Singapore have fought for basic rights in marriage, education and work. The growing awareness of women’s rights, aided by the launch of the Singapore Council of Women in 1952 and the Women’s Charter in 1961, unleashed a slew of magazines targeted exclusively at women, such as Malayan Lady and Her World – launched in 1959 and 1960 respectively. Her World was the first of its kind, and has outlived many of its competitors to become the most popular woman’s magazine in Singapore today.
+Since the early 1950s, women in Singapore have fought for basic rights in marriage, education and work. The growing awareness of women’s rights, aided by the launch of the Singapore Council of Women in 1952 and the Women’s Charter in 1961, unleashed a slew of magazines targeted exclusively at women, such as *Malayan Lady* and *Her World* – launched in 1959 and 1960 respectively. Her World was the first of its kind, and has outlived many of its competitors to become the most popular woman’s magazine in Singapore today.
 
-The launch of Singapore’s first television station, Television Singapura, in February 1963 was a game changer in the entertainment scene. Television was such a novelty in those days that viewers were just as entertained by commercials as they were by the actual programmes. Magazines such as TV & Radio Magazine (电视与广播), and later Fanfare and Radio & TV Times, appeared on the scene to capitalise on the allure of television and the accompanying line-up of local celebrities it ushered. Fanfare is no longer around but TV & Radio Magazine and Radio & TV Times have since evolved to become the hugely popular i-Weekly and 8 DAYS respectively, two of Singapore’s longest-running entertainment magazines.
+The launch of Singapore’s first television station, Television Singapura, in February 1963 was a game changer in the entertainment scene. Television was such a novelty in those days that viewers were just as entertained by commercials as they were by the actual programmes. Magazines such as *TV & Radio Magazine* (电视与广播), and later *Fanfare* and *Radio & TV Times*, appeared on the scene to capitalise on the allure of television and the accompanying line-up of local celebrities it ushered. *Fanfare* is no longer around but *TV & Radio Magazine* and *Radio & TV Times* have since evolved to become the hugely popular *i-Weekly* and *8 DAYS* respectively, two of Singapore’s longest-running entertainment magazines.
 
 #### **Covers from Yesteryear**
 
@@ -56,7 +56,7 @@ This monthly women’s magazine in English offered more than just fashion news. 
 
 <div style="background-color: white;"><br><img style="width:330px" src="/images/Vol-12-issue-1/cover-to-cover/07_covertocover.bmp"></div>
 
-***Berita Filem Film News*** (December 1960); publisher: Mohd. Salleh Haji Ali
+***Berita Filem** Film News* (December 1960); publisher: Mohd. Salleh Haji Ali
 
 This magazine showcased the Malay film industry and the popular stars of the time such as P. Ramlee, Sa’adiah and Maria Menado. The years spanning 1947 to 1972, which saw film studios like Shaw Brothers’ Malay Film Productions and Cathay-Keris at their peak, is now regarded as the “golden age of Malay cinema”. This inaugural issue featured articles written by two special guest writers, the actresses Sa’adiah and Normadiah. Pictured on the cover is the actress Salmah Ahmad, who starred in three films in the 1950s that featured *pontianak*, a vampiric ghost from Malay folklore.
 
@@ -74,9 +74,9 @@ Since its inaugural issue in July 1960, this pioneer women’s magazine has stoo
 
 <div style="background-color: white;"><br><img style="width:330px" src="/images/Vol-12-issue-1/cover-to-cover/10_covertocover.bmp"></div>
 
-***Bintang dan Irama Star and Rhythm*** (June 1967); publisher: Suhaimi Enterprise
+***Bintang dan Irama** Star and Rhythm* (June 1967); publisher: Suhaimi Enterprise
 
-*Bintang Dan Irama*, which means “star and rhythm” in Malay, was a popular magazine that cast the spotlight on the Malay entertainment scene in the 1960s. This issue contains song lyrics and mini biographies of then popular singers such as Hussain Ismail, Jefri Din and Rafeah Buang, who were stars in the Malay pop industry during the “Pop yeh yeh” era, a genre of pop music that was in vogue in the 1960s. Featured on the cover of this first issue are Jefri Din (seated) with Rafeah Buang (left) and Siti Zaiton (right).
+*Bintang dan Irama*, which means “star and rhythm” in Malay, was a popular magazine that cast the spotlight on the Malay entertainment scene in the 1960s. This issue contains song lyrics and mini biographies of then popular singers such as Hussain Ismail, Jefri Din and Rafeah Buang, who were stars in the Malay pop industry during the “Pop yeh yeh” era, a genre of pop music that was in vogue in the 1960s. Featured on the cover of this first issue are Jefri Din (seated) with Rafeah Buang (left) and Siti Zaiton (right).
 
 <div style="background-color: white;"><br><img style="width:330px" src="/images/Vol-12-issue-1/cover-to-cover/11_covertocover.bmp"></div>
 
@@ -96,7 +96,7 @@ Launched in 1974 by MPH Publications, *Female* is probably the closest competito
 
 Billed as “The Weekly for Swingers”, *Fanfare* was the leading English-language entertainment magazine of the 1970s. Printed in colour on newsprint, this digest had a huge following among the hip teenagers and young adults of the day. Readers lapped up “chats” with stars, reports on the local entertainment scene as well as the latest in pop music and film from Hollywood and Hong Kong. Witty articles and columns by journalists Siva Choy, Sylvia Toh Paik Choo, Gloria Chandy, Margaret Cunico and the enigmatically named Kitchi Boy made *Fanfare* a much-loved bestseller for many years. The Beatles – Paul McCartney, Julian Lennon, George Harrison and Ringo Starr – took prime spot on the cover of this issue.
 
-<div style="background-color: white;"><br><img style="width:350px" src="/images/Vol-12-issue-1/cover-to-cover/14_covertocover.jpg"></div>
+<div style="background-color: white;"><br><img style="width:500px" src="/images/Vol-12-issue-1/cover-to-cover/14_covertocover.jpg"></div>
 
 (Clockwise from top left) **电视与广播** *TV & Radio Magazine* (18 February 1963); **电视周刊** *TV Weekly* (1 January 1977); **i周刊** *i-Weekly* (8–15 November 1997); and **电视广播周刊** *TV & Radio Weekly* (24–30 January 1981)
 
