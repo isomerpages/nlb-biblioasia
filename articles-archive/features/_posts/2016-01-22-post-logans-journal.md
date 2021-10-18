@@ -26,7 +26,7 @@ All nine volumes of the journal dating from 1847 to 1855, along with three addit
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>ABOUT THE SERIAL</b>
 <br><br>
-	<b>Title:</b> <i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=5007604">The Journal of the Indian Archipelago and Eastern Asia</a>
+<b>Title:</b> <i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=5007604">The Journal of the Indian Archipelago and Eastern Asia</a></i>
 <br>
 <b>Editor and contributor:</b> James Richardson Logan (1819–69)
 <br>
@@ -38,4 +38,40 @@ All nine volumes of the journal dating from 1847 to 1855, along with three addit
 <br>
 <b>Type:</b> Serial (12 volumes)
 <br>
-<b>Location:</b> Call no.: RRARE 950.05 JOU; Microfilm nos.: NL 25704 (Index); NL 1889 (v.1–3, 1847–49); NL 25790 (v.2. 1848); NL 25791 (v.3, 1849); NL 1890 (v.3–6, 1849– 52); NL 25792 (v.4, 1850); NL 25793 (v.5, 1851); NL 25794 (v.6, 1852); NL 1891(v.6–9, 1852–55); NL 25796 (v.7–8, 1853–54); NL 25797 (v.9, 1855); NL 1888 (v.1, 1856; v.2 1857); NL 25734 (v.1, 1856); NL 7522 (v.2, 1857); NL 25735 (v.2, 1857); NL 8059 (v.3, 1859)
+<b>Location:</b> Call no.: RRARE 950.05 JOU; Microfilm nos.: NL 25704 (Index); NL 1889 (v.1–3, 1847–49); NL 25790 (v.2. 1848); NL 25791 (v.3, 1849); NL 1890 (v.3–6, 1849– 52); NL 25792 (v.4, 1850); NL 25793 (v.5, 1851); NL 25794 (v.6, 1852); NL 1891(v.6–9, 1852–55); NL 25796 (v.7–8, 1853–54); NL 25797 (v.9, 1855); NL 1888 (v.1, 1856; v.2 1857); NL 25734 (v.1, 1856); NL 7522 (v.2, 1857); NL 25735 (v.2, 1857); NL 8059 (v.3, 1859)</span>
+	
+#### **NOTES**
+
+National Library Board. (2009). James Richardson Logan written by Chia, Yeong Jia Joshua & Tan, Bonny. Retrieved from Singapore Infopedia website.
+
+Thomson, J.T. (1881, June). A sketch of the career of the late James Richardson Logan, of Penang and Singapore. Journal of the Straits Branch of the Royal Asiatic Society, 7, 75–81, p. 78. Retrieved from JSTOR via NLB’s eResources website.
+
+The Free Press: Journal of the Indian Archipelago and Eastern Asia. (1847, July 29). The Singapore Free Press, p. 2. Retrieved from NewspaperSG.
+
+Hose, G.F. (1878, July). Inaugural address by the President, the Venerable Archdeacon Hose, M. A. Delivered on the 28th February 1878. Journal of the Straits Branch of the Royal Asiatic Society, 1, 3. Great Britain: Straits Branch, Royal Asiatic Society Retrieved from BookSG.
+
+Logan, J.R. (1847). Prospectus of the Journal of the Indian Archipelago and Eastern Asia (pp. iv–vii). Singapore: [s.n.]. Retrieved from BookSG.
+
+The Journal of the Indian Archipelago and Eastern Asia. (1849, November 16). The Singapore Free Press and Mercantile Advertiser (1835–1869), p. 1. Retrieved from NewspaperSG.
+
+Logan, 1847, pp. iv–vii.
+
+Bastin, C., & Bastin, J. (1964). Some old Penang tombstones. Journal of the Malaysian Branch of the Royal Asiatic Society, 37 (1) (205), 126–165, p. 146. Retrieved from JSTOR via NLB’s eResources website.
+
+National Library Board, 2009.
+
+Turnbull, C.M. (1969, March). The European mercantile community in Singapore, 1819–1867. Journal of Southeast Asian History (Singapore Commemorative Issue 1819–1969), 10 (1), 12–35, p. 17. Retrieved from JSTOR via NLB’s eResources website.
+
+Logan, J.R. (1851, January). The Journal of the Indian Archipelago and Eastern Asia, V  (1), title page. Retrieved from BookSG.
+
+Thomson, Jun 1881, p. 78.
+
+National Library Board, 2009.
+
+Turnbull, Mar, 1969, pp. 17–18.
+
+Hose, Jul 1878, p. 2.
+
+Bastin, J. (2007). English sources for the modern period of Indonesian history (pp. 266–267). In Soedjatmoko. (Ed.), An introduction to Indonesian historiography. Jakarta: Equinox Pub. (Call no.: RSEA 959.8 INT)
+
+Hose, Jul 1878, p. 3.
