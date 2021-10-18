@@ -24,7 +24,7 @@ One of Makepeace’s co-editors on the book, Gilbert Edward Brooke(1873–1936),
 
 The third and last co-editor, Roland St. John Braddell (1880–1966) was a prominent lawyer who served as private legal advisor to Sultan Ibrahim of Johor for several years.9 Braddell wrote many legal and historical publications about Singapore and Malaya, including The Lights of Singapore and The Law of the Straits Settlements: A Commentary, and was very active in public affairs. He was the first president of the Singapore Rotary Club, president of the Malayan Branch of the Royal Asiatic Society and a member of the Singapore Centenary Committee,10 among other positions. His contribution to the book included two articles on law and crime and another two on the colony’s history.
 
-One Hundred Years of Singapore comprises two volumes of about 600 pages each. Both volumes in the National Library’s collection are original copies that have been rebound.
+*One Hundred Years of Singapore* comprises two volumes of about 600 pages each. Both volumes in the National Library’s collection are original copies that have been rebound.
 
 **Written by:** Ang Seow Leng
 
@@ -45,3 +45,25 @@ One Hundred Years of Singapore comprises two volumes of about 600 pages each. Bo
 <b>Location:</b> Call no.: RRARE 959.51 MAK; Microfilm no.: NL6542
 <br>
 <b>Copies donated by:</b> Tan Yeok Seong, Kip Lin and Koh Seow Chuan</span>
+
+#### **NOTES**
+
+[^1]:One hundred years of Singapore. (1918, August 7). The Straits Times, p. 8. Retrieved from NewspaperSG.
+
+[^2]:One hundred years of Singapore. (1918, August 8). The Singapore Free Press, p. 83. Retrieved from NewspaperSG.
+
+[^3]:National Library Board. (2016). Charles Burton Buckley written by Chia, Yeong Jia Joshua. Retrieved from Singapore Infopedia website.
+
+[^4]:The Singapore Free Press and the men who have made it. (1935, October 8). The Singapore Free Press, p. 1. Retrieved from NewspaperSG.
+
+[^5]:The Straits Times, 7 Aug 1918, p. 8; The Singapore Free Press, 8 Aug 1918, p. 83.
+
+[^6]:The Singapore Free Press, 8 Oct 1935, p. 1.
+
+[^7]:The Singapore Free Press, 8 Oct 1935, p. 1.
+
+[^8]:Chief Health Officer for 26 years. (1936, January 16). *The Straits Times*, p. 13. Retrieved from NewspaperSG.
+
+[^9]:National Library Board. (2019, May). Roland St. John Braddell written by Chia, Yeong Jia Joshua & Ong, Alex. Retrieved from Singapore Infopedia website.
+
+[^10]:Singapore citizen. (1951, July 21). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
