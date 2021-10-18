@@ -48,15 +48,15 @@ The third and last co-editor, Roland St. John Braddell (1880–1966) was a promi
 
 #### **NOTES**
 
-[^1]:One hundred years of Singapore. (1918, August 7). The Straits Times, p. 8. Retrieved from NewspaperSG.
+[^1]:[One hundred years of Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19180807-1.2.43). (1918, August 7). *The Straits Times*, p. 8. Retrieved from NewspaperSG.
 
-[^2]:One hundred years of Singapore. (1918, August 8). The Singapore Free Press, p. 83. Retrieved from NewspaperSG.
+[^2]:[One hundred years of Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19180808-1.2.16). (1918, August 8). *The Singapore Free Press*, p. 83. Retrieved from NewspaperSG.
 
-[^3]:National Library Board. (2016). Charles Burton Buckley written by Chia, Yeong Jia Joshua. Retrieved from Singapore Infopedia website.
+[^3]:National Library Board. (2016). *[Charles Burton Buckley](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1145_2006-08-29.html)* written by Chia, Yeong Jia Joshua. Retrieved from Singapore Infopedia website.
 
-[^4]:The Singapore Free Press and the men who have made it. (1935, October 8). The Singapore Free Press, p. 1. Retrieved from NewspaperSG.
+[^4]:[The Singapore Free Press and the men who have made it](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19351008-1.2.4.1). (1935, October 8). *The Singapore Free Press*, p. 1. Retrieved from NewspaperSG.
 
-[^5]:The Straits Times, 7 Aug 1918, p. 8; The Singapore Free Press, 8 Aug 1918, p. 83.
+[^5]:*[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19180807-1.2.43),* 7 Aug 1918, p. 8; *[The Singapore Free Press](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19180808-1.2.16)*, 8 Aug 1918, p. 83.
 
 [^6]:*[The Singapore Free Press](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19351008-1.2.4.1),* 8 Oct 1935, p. 1.
 
