@@ -104,7 +104,7 @@ When it comes to reading, Adeline and her brother Gary firmly agree that “if y
 
 #### **NOTES**
 
-[^1]:Radway, J. A. (1991). *Reading the romance*. Chapel Hill, North Carolina: The University of North Carolina Press.
+[^1]:Radway, J. A. (1991). *Reading the romance*. Chapel Hill, North Carolina: The University of North Carolina Press. (Not available in NLB holdings) 
 
 [^2]:The Singapore Memory Project is a whole-of-nation movement that aims to capture and document precious moments and personal memories related to Singapore. See www.singaporememory.sg portal
 
@@ -118,7 +118,7 @@ When it comes to reading, Adeline and her brother Gary firmly agree that “if y
 
 [^7]:Zaccheus, M. (2014, June 21). What future for our past? *The Straits Times*. Retrieved from AsiaOne website.
 
-[^8]:Boey, K.C. (2014). [The library of memory](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx). *Biblioasia, 10* (1), pp. 3–7. Retrieved from BiblioAsia website.
+[^8]:Boey, K.C. (2014). [The library of memory](https://biblioasia.nlb.gov.sg/all-issues/). *Biblioasia, 10* (1), pp. 3–7. Retrieved from BiblioAsia website.
 
 [^9]:Sunny Bookshop to close down in August 2014. (2014, August 4). *Yahoo News*. Retrieved from *Yahoo! News* website.
 
@@ -126,7 +126,7 @@ When it comes to reading, Adeline and her brother Gary firmly agree that “if y
 
 [^11]:Yong, C. (2014, October 4). PM Lee reads story book to children, extends reading programme for less privileged. *The Straits Times*. Retrieved from *The Straits Times* website.
 
-[^12]:National Library Board. (2014, January 28). [Borders (Singapore)](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2014-01-29_182220.html) written by Goh, Kenneth. Retrieved from Singapore Infopedia website.
+[^12]:National Library Board. (2014, January 28). *[Borders (Singapore)](https://eresources.nlb.gov.sg/infopedia/articles/SIP2014-01-29182220.html)* written by Goh, Kenneth. Retrieved from Singapore Infopedia website.
 
 [^13]:Singapore Writers Festival. (2015). S*ingapore Writers Festival: Island of Dreams*. Retrieved from Singapore Writers Festival website.
 
