@@ -10,7 +10,7 @@ Note: When accessing older issues, you may be directed to an archived version.
 
 |                                                              |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![BiblioAsia 17-1 cover](/images/covers/ba17-1.jpg)[Apr–Jun 2021](/vol-17/issue-1/apr-jun-2021/)<br>[Apr–Jun 2021 (PDF)](/files/pdf/BiblioAsia Apr-Jun 2021.pdf) | ![BiblioAsia 17-1 cover](/images/covers/ba17-2b.jpg)[Jul–Sep 2021](/vol-17/issue-2/jul-sep-2021/)|![BiblioAsia 17-3 cover]((/images/covers/ba17-3d.jpg)<br>[Oct–Nov 2021](/files/pdf/BiblioAsia%20Oct-Dec%202021.pdf)|![Blank](/images/covers/placeholdercover-v2.jpg)
+| ![BiblioAsia 17-1 cover](/images/covers/ba17-1.jpg)[Apr–Jun 2021](/vol-17/issue-1/apr-jun-2021/)<br>[Apr–Jun 2021 (PDF)](/files/pdf/BiblioAsia Apr-Jun 2021.pdf) | ![BiblioAsia 17-1 cover](/images/covers/ba17-2b.jpg)[Jul–Sep 2021](/vol-17/issue-2/jul-sep-2021/)|![BiblioAsia 17-3 cover](/images/covers/ba17-3d.jpg)<br>[Oct–Nov 2021](/files/pdf/BiblioAsia%20Oct-Dec%202021.pdf)|![Blank](/images/covers/placeholdercover-v2.jpg)
 
 
 #### Volume 16
