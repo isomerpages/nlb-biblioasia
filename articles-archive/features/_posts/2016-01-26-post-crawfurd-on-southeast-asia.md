@@ -18,7 +18,7 @@ Crawfurd originally envisioned *A Descriptive Dictionary of the Indian Islands &
 
 The dictionary’s entry on Singapore, for instance, spans eight pages and covers the origin of the island’s name, as well as its geological formation, climate, plants, zoology, agriculture, industry, trade, population, government, revenue and history. As one of the earliest accounts of Singapore, it set a model for later writers and provided a helpful reference for terms related to 19th-century Singapore, such as Bugis (under the entry on People), sago (Production), opium (Trade), *kati* (Weights and Measures) and *pantun* (Literature).
 
-<div style="background-color: white;"><img src="/images/vol-11-issue-4/crawfurd-on-sea/01_crawfurd.jpg">The entry on Singapore is found on pages 395 to 403 of the book. <i>All rights reserved, National Library Board, Singapore.</i></div>
+<div style="background-color: white;"><img style="width:700px" src="/images/vol-11-issue-4/crawfurd-on-sea/01_crawfurd.jpg">The entry on Singapore is found on pages 395 to 403 of the book. <i>All rights reserved, National Library Board, Singapore.</i></div>
 
 In the introduction of the 1971 reprint, eminent historian of Indonesia Merle C. Ricklefs praised the volume for its enduring value well over a century after it was first printed. He described it as “a mine of statistical and descriptive information, made available in a readily accessible form which was unusual for its time”. Although Southeast Asia had changed greatly in the interim, “the volume is of interest not only as an illustration of how much has changed, but perhaps also of how much still remains the same”, he added.[^2]
 
