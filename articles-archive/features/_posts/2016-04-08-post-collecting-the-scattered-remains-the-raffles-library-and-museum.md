@@ -6,7 +6,7 @@ layout: post
 ---
 #### **Gracie Lee** charts the history of the Raffles Library – precursor of the National Library – and its enigmatically named “Q” Collection.
 
-<div style="background-color: white;"><br><img src="/images/Vol-12-issue-1/raffles-library-and-museum/06_raffleslibrary.jpg">The library section of the the Raffles Library and Museum, circa 1950s. The building on Stamford Road (which is today the National Museum of Singapore) housed the library on the ground floor and the museum on the first floor. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i></div>
+<div style="background-color: white;"><br><img src="/images/Vol-12-issue-1/raffles-library-and-museum/06a_raffleslibrary.jpg">The library section of the the Raffles Library and Museum, circa 1950s. The building on Stamford Road (which is today the National Museum of Singapore) housed the library on the ground floor and the museum on the first floor. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i></div>
 
 “The Raffles Library and Museum… is well worth a visit, for the Library is one of the largest and most comprehensive in the East, and the Museum, which is daily enriched by zoological, mineralogical, ethnological and archaeological collections from the Peninsula and the Archipelago, promises to be, in time, one of the finest exhibitions of its kind in Asia.”[^1]
 
