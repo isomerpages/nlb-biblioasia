@@ -22,8 +22,8 @@ Here are some design elements that make up the library@orchard experience.
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-3/library/BiblioInfographic_1.jpg"></div>
-Using the principles of Design Thinking, the National Library Board worked closely with Singapore Polytechnic and the public to develop library@orchard. <i>Courtesy of Annusia Jaybalan.</i>
+<img src="/images/vol-10-issue-3/library/BiblioInfographic_1.jpg">
+Using the principles of Design Thinking, the National Library Board worked closely with Singapore Polytechnic and the public to develop library@orchard. <i>Courtesy of Annusia Jaybalan.</i></div>
 
 #### **Pluck and Ponder**
 
