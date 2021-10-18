@@ -14,8 +14,6 @@ layout: post
 
 The National Library began life in 1837 as a school library of the Singapore Free School (precursor of the Raffles Institution). The idea of a library was first conceived in 1819 when Stamford Raffles drew up his vision of a native college that would educate the sons of the Malay elite and employees of the East India Company. Part of his plan was a library that would “… collect the scattered literature and traditions of the country, with whatever may illustrate their laws and customs”.
 
-<div style="background-color: white;"><img src="/images/Vol-12-issue-1/raffles-library-and-museum/01_raffleslibrary.bmp">The Town Hall (present-day Victoria Theatre) in an 1870s photo. The Raffles Library and Museum, located on the top floors of the building, opened on 14 September 1874. It comprised a Reference Library, a Reading Room and a Lending Library. Lee Kip Lin Collection. <i>All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009.</i></div>
-
 Raffles believed that “by collecting the scattered remains of the literature of these countries, by calling forth the literary spirit of the people and awakening its dormant energies… will our stations not only become the centres of commerce and its luxuries, but of refinement and the liberal arts”.[^2]
 
 However, the vision of a library that would spur intellectual inquiry in this region would only be realised years later in 1874 with the establishment of the Raffles Library and Museum.
@@ -32,13 +30,13 @@ In December 1837, the Singapore Free School and the library moved into the Singa
 
 The school library became popular with residents in the fledgling years of the settlement when entertainment and news from Europe were limited. Soon, calls were made for the establishment of a “public library” that would serve the community beyond school hours. Taking heed, the Singapore Library was officially opened on 22 January 1845.
 
-<div style="background-color: white;"><img style="width:600px" src="/images/Vol-12-issue-1/raffles-library-and-museum/02a_raffleslibrary.jpg">Portraits of Alexander Laurie Johnston and William Henry Macleod Read. Both pioneers of Singapore generously donated Asian titles to the Singapore Library in the 1850s. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i></div>
-
 The library operated from the north wing of the building with a core collection that was moved from the school library. Among the notable users of the Singapore Library was the renowned naturalist Alfred Russel Wallace. However, the Singapore Library was not a public library by any modern definition. Though aimed at the wider community, it was not supported by public funds, nor was it free. It was in fact a private enterprise managed, funded and opened to shareholders and subscribers only.
 
 Although, the management committee was understandably concerned with procuring popular reading material from London in order to sustain readership and stay profitable, it recognised the library’s place in Asia. According to the sixth report of the Singapore Library, “any valuable new publications on India, China, or other Eastern British Settlement” would be given “first consideration on all occasions”[^3] in the selection of new titles.
 
 The library also benefited from prominent residents such as William Henry Macleod Read, Alexander Laurie Johnston and William Napier who generously offered Asian titles to its collection. Today, several titles from the Singapore Library remain and have been preserved in the National Library’s Rare Materials Collection. These include *George Finlayson’s The Mission to Siam*, and *Hue the Capital of Cochin China* (1826), *The Private Letters of Sir James Brooke* (1853) and *The Private Journal of the Marquess of Hastings* (1858). The earliest extant copy of the Singapore Library catalogue, published in 1860, serves as a record of the reading tastes of that period.
+
+<div style="background-color: white;"><img style="width:600px" src="/images/Vol-12-issue-1/raffles-library-and-museum/02a_raffleslibrary.jpg">Portraits of Alexander Laurie Johnston (left) and William Henry Macleod Read (right). Both pioneers of Singapore generously donated Asian titles to the Singapore Library in the 1850s. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i></div>
 
 #### **Establishment of the Raffles Library and Museum**
 
@@ -53,6 +51,8 @@ The proposal was welcomed by the new governor of the Straits Settlements, Andrew
 #### **Origins of the Malayan “Q” Collection**
 
 The new Raffles Library and Museum, now located on the top floors of the Town Hall (today’s Victoria Theatre), opened its doors on 14 September 1874. It comprised a Reference Library and a Reading Room that provided free access to the public, and a Lending Library for subscribers. The creation of a Reference Library marked the formal beginnings of a Malayan collection.
+
+<div style="background-color: white;"><img src="/images/Vol-12-issue-1/raffles-library-and-museum/01_raffleslibrary.bmp">The Town Hall (present-day Victoria Theatre) in an 1870s photo. The Raffles Library and Museum, located on the top floors of the building, opened on 14 September 1874. It comprised a Reference Library, a Reading Room and a Lending Library. Lee Kip Lin Collection. <i>All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009.</i></div>
 
 The objective of the Reference Library was “to collect valuable works relating to the Straits Settlements and surrounding countries”[^5] as well as general works on the sciences and the arts. With its fast expanding collection, the library ran out of space in just two years and had to be relocated to temporary premises at the Raffles Institution (the Singapore Institution had been renamed in honour of Raffles around 1868) while a new and bigger building was constructed.
 
