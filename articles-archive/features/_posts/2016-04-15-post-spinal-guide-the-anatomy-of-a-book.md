@@ -1,9 +1,10 @@
 ---
-title: "Spinal Guide: The Anatomy of A Book"
+title: "Spinal Guide: The Anatomy of a Book"
 date: 2016-04-15
 permalink: /vol-12/issue-1/apr-jun-2016/spinal-guide
 layout: post
 ---
+
 ![Alt text for image on Isomer site](/images/Vol-12-issue-1/spinal_guide.jpg)
 
 The book spine is probably one of the most important yet ignored parts of a book, often playing second fiddle to the cover. It might be hard to believe but early books did not have titles on their spines, and books were arranged with their spines facing inwards. While the humble spine holds all the information a potential reader might need before pulling the book out from the shelf, after that point, it holds little significance.
