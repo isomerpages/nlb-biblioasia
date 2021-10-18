@@ -4,6 +4,10 @@ date: 2016-01-22
 permalink: /vol-11/issue-4/jan-mar-2016/notesonlittleisland
 layout: post
 ---
+<div style="background-color: white;"><br><img src="/images/vol-11-issue-4/notes-on-little-island/01_littleisland.jpg">The frontispiece of Journal of an Embassy shows a black and white version of the painting titled “A view of the town and roads of Singapore from the Government Hill” by Captain Robert James Elliot. <i>All rights reserved, National Library Board, Singapore.</i></div>
+
+<div style="background-color: white;"><br><img src="/images/vol-11-issue-4/notes-on-little-island/02_littleisland.jpg">This illustration in the book shows how rich and high-ranking people were transported in Cochin China (present-day South Vietnam). <i>All rights reserved, Crawfurd, J. (1828). Journal of an Embassy from the Governor-General of India to the Courts of Siam and Cochin China. London: Henry Colburn.</i></div>
+
 Published in 1828, *Journal of an Embassy from the Governor-General of India to the Courts of Siam and Cochin China* is a record of John Crawfurd’s commercial and diplomatic mission to the courts of Siam (now Thailand) and Cochin China (present-day South Vietnam) from 1821–22. Although the book is today a classic reference text on early Thai and Vietnamese history,[^1] much can also be learnt about Singapore’s past from its pages.
 
 The book contains notes of Singapore that Crawfurd recorded on two occasions, the first when he made a stopover in 1822, and the second after the completion of his term as Resident of Singapore in 1826. On 29 September 1821 – in the face of intense rivalry between the British and Dutch powers over the lucrative sea trade routes in Southeast Asia – Crawfurd was appointed by the Governor-General of India, the Marquess of Hastings, as an envoy to Siam and Cochin China.[^2]
