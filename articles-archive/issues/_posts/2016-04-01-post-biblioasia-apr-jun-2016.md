@@ -45,4 +45,4 @@ This valuable collection at the National Library is significant for a number of 
 The National Library recently acquired a treasured collection of letters and books of Sir Stamford Raffles. *J. B. Stanley* describes some of the highlights. [(PDF)](/files/pdf/vol-12/v12-issue1_Bastin.pdf)
 
 **[Spinal Guide: The Anatomy of a Book](/vol-12/issue-1/apr-jun-2016/spinal-guide)**<br>
-The book spine is probably one of the most important parts of the book, but books did not always have spines.[(PDF)](/files/pdf/vol-12/v12-issue1_Bastin.pdf)
+The book spine is probably one of the most important parts of the book, but books did not always have spines.[(PDF)](/files/pdf/vol-12/v12-issue1_SpinalGuide.pdf)
