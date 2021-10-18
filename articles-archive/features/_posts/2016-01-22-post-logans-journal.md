@@ -42,36 +42,36 @@ All nine volumes of the journal dating from 1847 to 1855, along with three addit
 	
 #### **NOTES**
 
-National Library Board. (2009). James Richardson Logan written by Chia, Yeong Jia Joshua & Tan, Bonny. Retrieved from Singapore Infopedia website.
+[^1]:National Library Board. (2009). James Richardson Logan written by Chia, Yeong Jia Joshua & Tan, Bonny. Retrieved from Singapore Infopedia website.
 
-Thomson, J.T. (1881, June). A sketch of the career of the late James Richardson Logan, of Penang and Singapore. Journal of the Straits Branch of the Royal Asiatic Society, 7, 75–81, p. 78. Retrieved from JSTOR via NLB’s eResources website.
+[^2]:Thomson, J.T. (1881, June). A sketch of the career of the late James Richardson Logan, of Penang and Singapore. Journal of the Straits Branch of the Royal Asiatic Society, 7, 75–81, p. 78. Retrieved from JSTOR via NLB’s eResources website.
 
-The Free Press: Journal of the Indian Archipelago and Eastern Asia. (1847, July 29). The Singapore Free Press, p. 2. Retrieved from NewspaperSG.
+[^3]:The Free Press: Journal of the Indian Archipelago and Eastern Asia. (1847, July 29). The Singapore Free Press, p. 2. Retrieved from NewspaperSG.
 
-Hose, G.F. (1878, July). Inaugural address by the President, the Venerable Archdeacon Hose, M. A. Delivered on the 28th February 1878. Journal of the Straits Branch of the Royal Asiatic Society, 1, 3. Great Britain: Straits Branch, Royal Asiatic Society Retrieved from BookSG.
+[^4]:Hose, G.F. (1878, July). Inaugural address by the President, the Venerable Archdeacon Hose, M. A. Delivered on the 28th February 1878. Journal of the Straits Branch of the Royal Asiatic Society, 1, 3. Great Britain: Straits Branch, Royal Asiatic Society Retrieved from BookSG.
 
-Logan, J.R. (1847). Prospectus of the Journal of the Indian Archipelago and Eastern Asia (pp. iv–vii). Singapore: [s.n.]. Retrieved from BookSG.
+[^5]:Logan, J.R. (1847). Prospectus of the Journal of the Indian Archipelago and Eastern Asia (pp. iv–vii). Singapore: [s.n.]. Retrieved from BookSG.
 
-The Journal of the Indian Archipelago and Eastern Asia. (1849, November 16). The Singapore Free Press and Mercantile Advertiser (1835–1869), p. 1. Retrieved from NewspaperSG.
+[^6]:The Journal of the Indian Archipelago and Eastern Asia. (1849, November 16). The Singapore Free Press and Mercantile Advertiser (1835–1869), p. 1. Retrieved from NewspaperSG.
 
-Logan, 1847, pp. iv–vii.
+[^7]:Logan, 1847, pp. iv–vii.
 
-Bastin, C., & Bastin, J. (1964). Some old Penang tombstones. Journal of the Malaysian Branch of the Royal Asiatic Society, 37 (1) (205), 126–165, p. 146. Retrieved from JSTOR via NLB’s eResources website.
+[^8]:Bastin, C., & Bastin, J. (1964). Some old Penang tombstones. Journal of the Malaysian Branch of the Royal Asiatic Society, 37 (1) (205), 126–165, p. 146. Retrieved from JSTOR via NLB’s eResources website.
 
-National Library Board, 2009.
+[^9]:National Library Board, 2009.
 
-Turnbull, C.M. (1969, March). The European mercantile community in Singapore, 1819–1867. Journal of Southeast Asian History (Singapore Commemorative Issue 1819–1969), 10 (1), 12–35, p. 17. Retrieved from JSTOR via NLB’s eResources website.
+[^10]:Turnbull, C.M. (1969, March). The European mercantile community in Singapore, 1819–1867. Journal of Southeast Asian History (Singapore Commemorative Issue 1819–1969), 10 (1), 12–35, p. 17. Retrieved from JSTOR via NLB’s eResources website.
 
-Logan, J.R. (1851, January). The Journal of the Indian Archipelago and Eastern Asia, V  (1), title page. Retrieved from BookSG.
+[^11]:Logan, J.R. (1851, January). The Journal of the Indian Archipelago and Eastern Asia, V  (1), title page. Retrieved from BookSG.
 
-Thomson, Jun 1881, p. 78.
+[^12]:Thomson, Jun 1881, p. 78.
 
-National Library Board, 2009.
+[^13]:National Library Board, 2009.
 
-Turnbull, Mar, 1969, pp. 17–18.
+[^14]:Turnbull, Mar, 1969, pp. 17–18.
 
-Hose, Jul 1878, p. 2.
+[^15]:Hose, Jul 1878, p. 2.
 
-Bastin, J. (2007). English sources for the modern period of Indonesian history (pp. 266–267). In Soedjatmoko. (Ed.), An introduction to Indonesian historiography. Jakarta: Equinox Pub. (Call no.: RSEA 959.8 INT)
+[^16]:Bastin, J. (2007). English sources for the modern period of Indonesian history (pp. 266–267). In Soedjatmoko. (Ed.), An introduction to Indonesian historiography. Jakarta: Equinox Pub. (Call no.: RSEA 959.8 INT)
 
-Hose, Jul 1878, p. 3.
+[^17]:Hose, Jul 1878, p. 3.
