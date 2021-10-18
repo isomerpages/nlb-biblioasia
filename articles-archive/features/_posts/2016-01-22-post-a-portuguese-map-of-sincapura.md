@@ -4,9 +4,9 @@ date: 2016-01-22
 permalink: /vol-11/issue-4/jan-mar-2016/portugesemapsincapura
 layout: post
 ---
-Originally drawn in 1604, Discripsao chorographica dos estreitos de Sincapura e Sabbam. ano. 1604 (Chorographic Description of the Straits of Sincapura and Sabbam 1604 A.D) is one of the earliest maps to depict pre-colonial Singapore, and more importantly, identifies recognisable names of places – Sunebodo (Sungei Bedok), Tanamena (Tanah Merah), Tanion Ru (Tanjong Rhu) and an island called Blacan Mati (Pulau Blakang Mati or Sentosa) – along its eastern coast.1 The map refers to the main island as Sincapura – one of several early names given to the island.
+Originally drawn in 1604, Discripsao chorographica dos estreitos de Sincapura e Sabbam. ano. 1604 (Chorographic Description of the Straits of Sincapura and Sabbam 1604 A.D) is one of the earliest maps to depict pre-colonial Singapore, and more importantly, identifies recognisable names of places – Sunebodo (Sungei Bedok), Tanamena (Tanah Merah), Tanion Ru (Tanjong Rhu) and an island called Blacan Mati (Pulau Blakang Mati or Sentosa) – along its eastern coast.[^1] The map refers to the main island as Sincapura – one of several early names given to the island.
 
-Another early name for Singapore, as recorded by Flemish merchant Jacques Coutre in the early 1600s, was “Ysla de la Sabandaria Vieja” or “Island of the Old Shahbandaria”.2 On this map the term “xabandaria” (shahbandar’s or harbour master’s compound), which is marked near the Singapore River, confirms this early reference.
+Another early name for Singapore, as recorded by Flemish merchant Jacques Coutre in the early 1600s, was “Ysla de la Sabandaria Vieja” or “Island of the Old Shahbandaria”.[^2] On this map the term “xabandaria” (shahbandar’s or harbour master’s compound), which is marked near the Singapore River, confirms this early reference.
 
 This map – which is part of a manuscript entitled Declaracam de Malaca e India Meridional com o Cathay  – is also important because it is one of the earliest to indicate the various maritime channels around Singapore. The Old Strait of Singapore (Estreito Velho) is shown on this map running close to Sincapura island while the New Strait (Estreito Nouo) runs further south. The Old Strait is the waterway that early European mariners used prior to the mid-1700s. Later European maps, however, marked the Old Strait of Singapore as the waterway separating Johor from Singapore Island, which today is called the or Johor Strait.
 
@@ -14,15 +14,15 @@ The details found on this map suggests that the cartographer who drew it was qui
 
 In 1882, Léon Janssen published a facsimile of this Portuguese manuscript, including all the maps and following that, at the end of the book, the translated French text. He then gave it a French title Malaca, l’Inde Méridionale et le Cathay: Manuscrit Original Autographe de Godinho de Erédia. The map shown here comes from a copy of this 1882 fascimile edition in the National Library’s collection.
 
-Erédia, who was of Eurasian ancestry and born in Malacca, was the son of a Portuguese official and a Bugis aristocrat.3 Educated in both Malacca and Portuguese Goa, Erédia was the royal cosmographer to the Spanish crown and a noted cartographer and astronomer. But his most valuable accomplishment was in producing new maps of the countries in Asia.4
+Erédia, who was of Eurasian ancestry and born in Malacca, was the son of a Portuguese official and a Bugis aristocrat.[^3] Educated in both Malacca and Portuguese Goa, Erédia was the royal cosmographer to the Spanish crown and a noted cartographer and astronomer. But his most valuable accomplishment was in producing new maps of the countries in Asia.[^4]
 
-This sketch of Singapore was the result of a thwarted expedition that Erédia led in 1601 to locate “Meridional India”,5 the reputed “the land of gold” to the south where great riches lay. Under the orders of King Philip III of Spain, Erédia set off from Goa but ended up being stalled for four years around Malacca due to hostilities in the area. It is likely that it was during this time that he created the map showing Singapore.6 While the author did not set foot on the island, it is possible that he would have used the waterways as passage to Johor.
+This sketch of Singapore was the result of a thwarted expedition that Erédia led in 1601 to locate “Meridional India”,[^5] the reputed “the land of gold” to the south where great riches lay. Under the orders of King Philip III of Spain, Erédia set off from Goa but ended up being stalled for four years around Malacca due to hostilities in the area. It is likely that it was during this time that he created the map showing Singapore.[^6] While the author did not set foot on the island, it is possible that he would have used the waterways as passage to Johor.
 
-Erédia left Malacca around 1605 when he became ill and returned to Goa. Upon his recovery, he persuaded the King of Spain to let him make another voyage to search for the “land of gold”. However, the Portuguese defeat by the Dutch in 1606 meant that the expedition never materialised. Erédia remained in Goa and turned to writing before dying at age 60, some 10 years after his manuscript was written. Erédia wrote other works aside from Declaracam de Malaca but after he released his final work in 1616, nothing more is known of him.7
+Erédia left Malacca around 1605 when he became ill and returned to Goa. Upon his recovery, he persuaded the King of Spain to let him make another voyage to search for the “land of gold”. However, the Portuguese defeat by the Dutch in 1606 meant that the expedition never materialised. Erédia remained in Goa and turned to writing before dying at age 60, some 10 years after his manuscript was written. Erédia wrote other works aside from Declaracam de Malaca but after he released his final work in 1616, nothing more is known of him.[^7]
 
-The Declaracam de Malaca is a valuable resource for researchers looking into the history of the southern Malay Peninsula between 1590 and 1640, before the fall of Portuguese-controlled Malacca to the Dutch, a period about which relatively little is known.8 While the work offers fewer comprehensive details about Malacca’s early history than some others, its description of the country’s flora and fauna, as well as the life and culture of the local Malay inhabitants, is unsurpassed in its scientific quest for detail.9 The importance of the manuscript as a resource for the study of the region resulted in an English translation which was published by J. V. Mills in 1930.
+The Declaracam de Malaca is a valuable resource for researchers looking into the history of the southern Malay Peninsula between 1590 and 1640, before the fall of Portuguese-controlled Malacca to the Dutch, a period about which relatively little is known.[^8] While the work offers fewer comprehensive details about Malacca’s early history than some others, its description of the country’s flora and fauna, as well as the life and culture of the local Malay inhabitants, is unsurpassed in its scientific quest for detail.[^9] The importance of the manuscript as a resource for the study of the region resulted in an English translation which was published by J. V. Mills in 1930.
 
-This French edition of Erédia’s manuscript was part of the Raffles Museum and Library collection before World War II,10 and bears the Raffles Library stamp.
+This French edition of Erédia’s manuscript was part of the Raffles Museum and Library collection before World War II,[^10] and bears the Raffles Library stamp.
 
 **Written by:** Nor-Afidah Abdul Rahman
 
@@ -32,7 +32,7 @@ This French edition of Erédia’s manuscript was part of the Raffles Museum and
 <br>
 <b>Translated by:</b> Léon Janssen
 <br>
-<b>Year published:</b> 1882 (based on the original 1613 Portuguese manuscript Declaracam de Malaca e India Meridional com o Cathay by Manuel Godinho de Erédia)
+<b>Year published:</b> 1882 (based on the original 1613 Portuguese manuscript <i>Declaracam de Malaca e India Meridional com o Cathay</i> by Manuel Godinho de Erédia)
 <br>
 <b>Publisher:</b> Librairie Europeenne C. Muquardt (Bruxelles)
 <br>
