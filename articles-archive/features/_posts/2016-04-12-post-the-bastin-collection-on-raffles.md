@@ -6,7 +6,7 @@ layout: post
 ---
 #### The National Library recently acquired a treasured collection of letters and books of Sir Stamford Raffles. **J. B. Stanley** describes some of the highlights.
 
-<div style="background-color: white;"><br><img src="/images/Vol-12-issue-1/bastin-collection-on-raffles/01_collectionraffles.jpg">A portrait of Sir Stamford Raffles presented by his nephew,W.C. Raffles Flint, to London's National Portrait Gallery in 1859. <i> Courtesy of Wikimedia Commons</i></div>
+<div style="background-color: white;"><br><img style="width:400px"  src="/images/Vol-12-issue-1/bastin-collection-on-raffles/01a_collectionraffles.jpg">A portrait of Sir Stamford Raffles presented by his nephew,W.C. Raffles Flint, to London's National Portrait Gallery in 1859. <i> Courtesy of Wikimedia Commons</i></div>
 
 The National Library of Singapore recently acquired a highly prized collection of materials relating to Sir Stamford Raffles, the founder of Singapore. The collection was assembled over many years by Dr John Bastin, a noted authority on Raffles and author of numerous books and articles on the history of Indonesia, Malaysia and Singapore. This important acquisition, comprising more than 5,000 books, embraces a number of areas, including Java, Sumatra, Malaya, Singapore, Borneo and China, but the core of the collection, including both books and manuscripts, relate to Raffles.
 
