@@ -96,7 +96,7 @@ Launched in 1974 by MPH Publications, *Female* is probably the closest competito
 
 Billed as “The Weekly for Swingers”, *Fanfare* was the leading English-language entertainment magazine of the 1970s. Printed in colour on newsprint, this digest had a huge following among the hip teenagers and young adults of the day. Readers lapped up “chats” with stars, reports on the local entertainment scene as well as the latest in pop music and film from Hollywood and Hong Kong. Witty articles and columns by journalists Siva Choy, Sylvia Toh Paik Choo, Gloria Chandy, Margaret Cunico and the enigmatically named Kitchi Boy made *Fanfare* a much-loved bestseller for many years. The Beatles – Paul McCartney, Julian Lennon, George Harrison and Ringo Starr – took prime spot on the cover of this issue.
 
-<div style="background-color: white;"><br><img style="width:500px" src="/images/Vol-12-issue-1/cover-to-cover/14_covertocover.jpg"></div>
+<div style="background-color: white;"><br><img style="width:600px" src="/images/Vol-12-issue-1/cover-to-cover/14a_covertocover.jpg"></div>
 
 (Clockwise from top left) **电视与广播** *TV & Radio Magazine* (18 February 1963); **电视周刊** *TV Weekly* (1 January 1977); **i周刊** *i-Weekly* (8–15 November 1997); and **电视广播周刊** *TV & Radio Weekly* (24–30 January 1981)
 
