@@ -23,3 +23,19 @@ For his efforts, Logan was praised by George F. Hose, the President of the Strai
 All nine volumes of the journal dating from 1847 to 1855, along with three additional volumes that were part of a new series published between 1856 and 1859, are bound in their original state and part of the National Library’s collection. The first few volumes bear the stamp “Syonan Tosyokan” on the title page, indicating that they were part of the collection of the Syonan Library during the Japanese Occupation.
 
 **Written by:** Ang Seow Leng
+
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>ABOUT THE SERIAL</b>
+<br><br>
+	<b>Title:</b> <i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=5007604">The Journal of the Indian Archipelago and Eastern Asia</a>
+<br>
+<b>Editor and contributor:</b> James Richardson Logan (1819–69)
+<br>
+<b>Year published:</b> 1847–55 (9 volumes); 1856–59 (new series; 3 volumes)
+<br>
+<b>Publisher:</b> Same as editor / contributor (Singapore)
+<br>
+<b>Language:</b> English
+<br>
+<b>Type:</b> Serial (12 volumes)
+<br>
+<b>Location:</b> Call no.: RRARE 950.05 JOU; Microfilm nos.: NL 25704 (Index); NL 1889 (v.1–3, 1847–49); NL 25790 (v.2. 1848); NL 25791 (v.3, 1849); NL 1890 (v.3–6, 1849– 52); NL 25792 (v.4, 1850); NL 25793 (v.5, 1851); NL 25794 (v.6, 1852); NL 1891(v.6–9, 1852–55); NL 25796 (v.7–8, 1853–54); NL 25797 (v.9, 1855); NL 1888 (v.1, 1856; v.2 1857); NL 25734 (v.1, 1856); NL 7522 (v.2, 1857); NL 25735 (v.2, 1857); NL 8059 (v.3, 1859)
