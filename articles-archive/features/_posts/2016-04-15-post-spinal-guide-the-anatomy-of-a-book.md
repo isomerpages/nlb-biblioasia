@@ -21,4 +21,4 @@ Text by : Liao Youwen and Natalia Pereira
 
 Berry, J. D. (2006). *Dot-font: Talking about design*. New York: Mark Batty Publisher. Call no. 686.221 BER
 
-Dane, J. A. (2012). *What is a book?: The study of early printed books*. Notre Dame, Indiana: University of Notre Dame Press. Call no.: 002.09 DAN
+Dane, J. A. (2012). *[What is a book?: The study of early printed books](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123493)*. Notre Dame, Indiana: University of Notre Dame Press. Call no.: 002.09 DAN
