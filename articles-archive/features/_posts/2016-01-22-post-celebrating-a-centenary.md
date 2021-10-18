@@ -58,12 +58,12 @@ The third and last co-editor, Roland St. John Braddell (1880–1966) was a promi
 
 [^5]:The Straits Times, 7 Aug 1918, p. 8; The Singapore Free Press, 8 Aug 1918, p. 83.
 
-[^6]:The Singapore Free Press, 8 Oct 1935, p. 1.
+[^6]:*[The Singapore Free Press](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19351008-1.2.4.1),* 8 Oct 1935, p. 1.
 
-[^7]:The Singapore Free Press, 8 Oct 1935, p. 1.
+[^7]:*[The Singapore Free Press](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19351008-1.2.4.1),* 8 Oct 1935, p. 1.
 
-[^8]:Chief Health Officer for 26 years. (1936, January 16). *The Straits Times*, p. 13. Retrieved from NewspaperSG.
+[^8]:[Chief Health Officer for 26 years](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360116-1.2.66.69). (1936, January 16). *The Straits Times*, p. 13. Retrieved from NewspaperSG.
 
-[^9]:National Library Board. (2019, May). Roland St. John Braddell written by Chia, Yeong Jia Joshua & Ong, Alex. Retrieved from Singapore Infopedia website.
+[^9]:National Library Board. (2019, May). *[Roland St. John Braddell](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1210_2008-01-30.html)* written by Chia, Yeong Jia Joshua & Ong, Alex. Retrieved from Singapore Infopedia website.
 
-[^10]:Singapore citizen. (1951, July 21). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
+[^10]:[Singapore citizen](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19510721-1.2.93). (1951, July 21). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
