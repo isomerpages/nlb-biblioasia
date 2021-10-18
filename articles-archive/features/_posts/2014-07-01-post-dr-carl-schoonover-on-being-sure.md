@@ -74,7 +74,8 @@ Information relating to these kinds of decisions is encoded in the brain, essent
 Conveniently, our brain automatically filters some information out, preventing confusion and helping you to solve the more pressing problem of saving your skin. Less information is far more useful, so long as it is good information. In one way or another, many of the most successful neuroscience techniques perform an analogous filtering. They enable the researcher to zero in on very specific features in nervous tissue, cutting out most of the overwhelming mess and preventing it from distracting you from focusing on the question you seek to answer. By imparting such a selective restriction of vision, the most ingenious methods have time and time again opened up formerly unsuspected universes.
 
 The brain’s innate propensity to filter out information actually works to our advantage, cutting through the clutter of this age of information overload.
-
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba; display:block; font-size:1rem; line-height:1.5rem;"> 
 <i>Currently an established neuroscience postdoctoral fellow in the Axel Laboratory at Columbia University, Dr Carl Schoonover is also the acclaimed author of</i> Portraits of the Mind: Visualizing the Brain from Antiquity to the 21st Century <i>(Abrams, November 2010), a book that chronicles the fascinating exploration of the brain through images. Watch his illuminating TED Presentation on this subject at: http://www.ted.com/talks/carl_schoonover_how_to_look_inside_the_brain.html</i>
+<br><br><i>To view a full video of the exclusive interview with Dr Carl Schoonover, as well as highlights of S.U.R.E. Day, please visit: http://nlb.gov.sg/SURE</i></span>
 
-<i>To view a full video of the exclusive interview with Dr Carl Schoonover, as well as highlights of S.U.R.E. Day, please visit: http://nlb.gov.sg/SURE</i>
+<a href="https://biblioasia.nlb.gov.sg/vol-10/issue-2/jul-sep-2014/"><center>Back to Issue</center></a>

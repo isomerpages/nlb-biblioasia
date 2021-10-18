@@ -10,7 +10,7 @@ Written by Frank Swettenham, the first Resident-General of the Federated Malay S
 
 The National Library carries several copies of the book’s 1907 edition. Of these, two copies are in their original yellow covers and were donated by the philanthropist and architect Koh Seow Chuan in 2007.
 
-<div style="background-color: white;"><br><img style="width:400px" src="/images/vol-11-issue-4/malaya-through-one-man-eyes/01_malaya.jpg">The first edition of <i>British Malaya</i> is bright yellow – a distinctive characteristic of Frank Swettenham’s books, possibly linked to his longstanding collaboration with his London publisher, John Lane. <i>All rights reserved, National Library Board, Singapore.</i></div>
+<div style="background-color: white;"><br><img style="width:300px" src="/images/vol-11-issue-4/malaya-through-one-man-eyes/01_malaya.jpg">The first edition of <i>British Malaya</i> is bright yellow – a distinctive characteristic of Frank Swettenham’s books, possibly linked to his longstanding collaboration with his London publisher, John Lane. <i>All rights reserved, National Library Board, Singapore.</i></div>
 
 As the official files of the Colonial Office were not accessible at the time, *British Malaya* remained the only reliable source of information on Malaya’s colonial history till the 1950s, exercising a profound influence over the historiography of Malaya. As Singapore was the administrative capital of *British Malaya* before World War II, Swettenham’s book was widely read in Singapore.
 

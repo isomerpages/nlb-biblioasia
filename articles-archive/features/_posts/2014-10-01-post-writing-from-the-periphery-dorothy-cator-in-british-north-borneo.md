@@ -38,7 +38,7 @@ Cator portrayed the different ethnic communities in North Borneo within the over
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-10-issue-3/dorothycator/carte.jpg">
-The writer, Dorothy Cator. Everyday Life Among the Head-Hunters (1905).
+The writer, Dorothy Cator. Everyday Life Among the Head-Hunters (1905).</div>
 
 <div style="background-color: white;">
 <br/>

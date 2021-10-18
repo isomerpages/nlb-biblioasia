@@ -104,13 +104,13 @@ Here are some highlights of the collection.
 
 |众所周知，余东旋也是名慈善家，对慈善事业一向不遗余力。这是他于1933年1月7日惠娟一千叻币给星洲岭南分校的收条。学校是广东岭南大学的新加坡分校，余东旋是发起人之一，宗旨是为东南亚的华侨提供华文教育。|
 
-|<br>**THE STREET NAMED AFTER EU**|
-
-|There are two versions as to how Eu Tong Sen Street got its name. The obvious explanation is that the street was renamed after Eu in recognition of his contributions to the community. According to the more intriguing story, one of the troupe leaders of an opera theatre at the long-gone Wayang Street had offended Eu’s eighth wife, Wong Sui Chun. In a fit of anger, Eu bought up all the properties along Wayang Street and renamed the street after himself.[^19] Among the acquired properties were the two oldest and most renowned local opera theatres, Heng Wai Sun and Heng Seng Peng. Both specialised in Cantonese opera although the latter also staged Hokkien and Peking opera. In 1928, Eu commissioned the colonial architectural firm Swan & Maclaren to build another opera theatre called Tien Yien Moi Toi along the same street. Heng Seng Peng and Heng Wai Sun theatres have since been demolished but Tien Yien Moi Toi theatre still remains today. It was renamed Majestic Theatre in 1945 after the war, and in 2003, was converted into a shopping mall known as The Majestic.[^20] The building is presently leased to the Singapore Turf Club and is mostly used as  a  betting centre.[^21]|
-
-|**以余东旋为名的街道**|
-
-|有关余东旋街得名有二说。最普遍的说法即是为纪念余东旋对社会所付出的贡献。根据另一种较引人入胜的说法则是位于已不存在的哇央街的戏院班主得罪了其八夫人，慎怒之下把整条街的地产买下并以自己姓名为街道改名。其中被收购的地产包括新加坡最早期的地方戏戏院庆维新和庆升平。两座戏院都上演粤剧，但庆升平除了广东戏曲外，同时也上演福建与京剧。1928年，余东旋委托英殖民地建筑公司双麦嘉仁在同一条街上兴建另一所戏院，即“天演大舞台”。庆维新和庆升平随着时代的变迁而被拆除，但“天演大舞台”则依然岂立至今。战后1945年改名为“大华戏院”并在2003年被发展成购物商场，改名 “The Majestic”。大厦如今由新加坡赛马公会租用，主要作为投注中心用途。|
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>THE STREET NAMED AFTER EU</b>
+<br><br>
+There are two versions as to how Eu Tong Sen Street got its name. The obvious explanation is that the street was renamed after Eu in recognition of his contributions to the community. According to the more intriguing story, one of the troupe leaders of an opera theatre at the long-gone Wayang Street had offended Eu’s eighth wife, Wong Sui Chun. In a fit of anger, Eu bought up all the properties along Wayang Street and renamed the street after himself.[^19] Among the acquired properties were the two oldest and most renowned local opera theatres, Heng Wai Sun and Heng Seng Peng. Both specialised in Cantonese opera although the latter also staged Hokkien and Peking opera. In 1928, Eu commissioned the colonial architectural firm Swan & Maclaren to build another opera theatre called Tien Yien Moi Toi along the same street. Heng Seng Peng and Heng Wai Sun theatres have since been demolished but Tien Yien Moi Toi theatre still remains today. It was renamed Majestic Theatre in 1945 after the war, and in 2003, was converted into a shopping mall known as The Majestic.[^20] The building is presently leased to the Singapore Turf Club and is mostly used as  a  betting centre.[^21]
+<br><br>
+<b>以余东旋为名的街道</b>
+<br><br>
+有关余东旋街得名有二说。最普遍的说法即是为纪念余东旋对社会所付出的贡献。根据另一种较引人入胜的说法则是位于已不存在的哇央街的戏院班主得罪了其八夫人，慎怒之下把整条街的地产买下并以自己姓名为街道改名。其中被收购的地产包括新加坡最早期的地方戏戏院庆维新和庆升平。两座戏院都上演粤剧，但庆升平除了广东戏曲外，同时也上演福建与京剧。1928年，余东旋委托英殖民地建筑公司双麦嘉仁在同一条街上兴建另一所戏院，即“天演大舞台”。庆维新和庆升平随着时代的变迁而被拆除，但“天演大舞台”则依然岂立至今。战后1945年改名为“大华戏院”并在2003年被发展成购物商场，改名 “The Majestic”。大厦如今由新加坡赛马公会租用，主要作为投注中心用途。</span>
 
 <div style="background-color: white;">
 <br>
