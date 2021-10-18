@@ -12,6 +12,8 @@ Mention *Growing Up* to any 30-something Singapore TV fan and watch his or her f
 
 By coincidence, the Tay family grew up in an era when television first made its foray into Singapore. 15 February 1963 was a momentous day for TV in Singapore when the government started a pilot service, following a feasibility study in the 1950s[^2] and a series of test transmissions before the official launch. “Tonight might well mark the start of a social and cultural revolution in our lives,” said then Minister for Culture S. Rajaratnam, the first person to appear on national TV when he launched Television Singapura at the Victoria Memorial Hall.
 
+<div style="background-color: white;"><img style="width:700px" src="/images/Vol-12-issue-1/singapore-tv/02-singaporetv.bmp"><i>Growing Up</i> was Singapore’s longest-running English drama series and lasted six seasons from 1996 to 2001. <i>Courtesy of Mediacorp Pte Ltd.</i></div>
+
 Outside, thousands had gathered in anticipation to watch the first black-and-white TV images come to life on a few dozen TV sets placed around Empress Place for the occasion. The first programme aired at exactly 6.05 pm was a 15-minute documentary, *TV Looks at Singapore*, introducing the concept of television and its impact on the lives of Singaporeans. This was followed by two cartoon clips, news in English, a comedy skit and a variety show titled *Rampaian Malaysia* (“Malaysian Mixture”). Transmission ended at 7.40pm.[^3]
 
 At the time of the launch in 1963, just 8 percent of households owned a TV set.[^4] For those without one, 50 public viewing points were set up across the island, at places such as community centres. Within six months, the Channel 5 broadcasts in English and Malay increased from a weekly one-hour programme to five hours a day on weekdays and 10 hours a day over the weekend. Channel 8 was launched in November that same year with programmes in Mandarin and Tamil. By 1965, all programming was handled by Radio and Television Singapore (RTS), under the Department of Broadcasting of the Ministry of Culture.
@@ -19,8 +21,6 @@ At the time of the launch in 1963, just 8 percent of households owned a TV set.[
 #### **Colour Comes to Singapore**
 
 Singaporeans were ecstatic to be among the first in Southeast Asia to enjoy colour broadcasts in mid-1974, snapping up home colour TV sets during the first 10 weeks of its launch. Not all programming was available in colour though. Newscasts only went full colour during phase two of the roll-out in November that year. Colour TV sets soon replaced black-and-white ones at the community centres, the five-year roll-out costing S$8 million.
-
-<div style="background-color: white;"><img style="width:700px" src="/images/Vol-12-issue-1/singapore-tv/02-singaporetv.bmp"><i>Growing Up</i> was Singapore’s longest-running English drama series and lasted six seasons from 1996 to 2001. <i>Courtesy of Mediacorp Pte Ltd.</i></div>
 
 By the mid-1970s, entertainment accounted for about 74 percent of the content broadcast across RTS’ combined programme schedules, with drama forming the bulk, followed by variety shows. Most content – about 60 percent – was imported, mainly from North America. Older viewers will fondly recall popular detective shows such as *Hawaii Five-O*, *Toma* and *Mannix*. Soon enough, the influx of imported programmes, particularly crime dramas, was blamed for the rise in violence and delinquency among Singapore’s youth.
 
@@ -30,11 +30,11 @@ For the remaining 40 percent of content that was produced locally, the *Chinese 
 
 When it came to factual content, RTS had a central production arm for civics and international affairs programmes. It produced radio and TV current affairs programmes such as talks, interviews, discussions and documentaries that were aired during prime time.
 
+<div style="background-color: white;"><img style="width:650px" src="/images/Vol-12-issue-1/singapore-tv/03-singaporetv.bmp">Then Minister for Culture Jek Yeun Thong tours the colour television studios at Radio and Television Singapore in 1974. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
 #### **Greater Autonomy**
 
 However, bigger changes were afoot. On 1 February 1980, RTS was restructured into a statutory board called the Singapore Broadcasting Corporation (SBC). This would free RTS from governmental administrative and budgetary constraints that hampered it from upgrading its production facilities and skills pool. With its newfound flexibility in hiring and procurement, SBC increased its staff strength from 1,335 to 1,648 and spent S$8.6 million on new infrastructure and technology in its first year, including a new radio transmission tower at Bukit Batok and electronic news gathering equipment.[^6]
-
-<div style="background-color: white;"><img style="width:650px" src="/images/Vol-12-issue-1/singapore-tv/03-singaporetv.bmp">Then Minister for Culture Jek Yeun Thong tours the colour television studios at Radio and Television Singapore in 1974. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 Then Acting Minister for Culture Ong Teng Cheong said in a newspaper interview that the idea of a semi-government radio and TV station was first mentioned in 1966, “but because of manpower resources and other more urgent requirements in other sectors of the country, it dragged on for so long”. While SBC was formed to liberate the old RTS from the bureaucratic shackles that had long impeded its development, the new entity would continue playing an important role in nation-building and communicating government policies and objectives. Ong was appointed chairman of SBC, with the government categorically stating that it would “retain control over the policy of the corporation in the public interest” to ensure that air time for minorities would not be reduced.[^7] There was some loosening of control, however, when changes were made to reduce the amount of public service broadcasting and messaging SBC would have to carry. These programming changes enabled more advertisements to be sold, raising revenue rapidly and laying the groundwork for subsequent privatisation.
 
@@ -86,7 +86,7 @@ In the early 2000s, Mediacorp found a new cash cow when it bought the rights and
 
 In a new development, Mediacorp started selling its own home-grown programme formats to other broadcasters to adapt. In 2013, it closed a deal with the Thai Public Broadcasting Service to license Mediacorp’s *The Arena* debate show for young people in the Thai market. The broadcaster is also finding growth in lucrative markets abroad, such as Vietnam, where it sold nearly 1,500 hours of Mandarin content to distributor, Goldia One Vision; THVL 1 and THVL 2 channels and Today TV. In the same year, Vasantham channel’s most popular police drama series, *Vettai*, was acquired by Malaysian terrestrial channel, ntv7. Other major buyers of Mediacorp productions include broadcasters in Hong Kong, Indonesia, the Philippines and Taiwan. Such deals are an important source of revenue for the home-grown broadcaster to expand in an increasingly fragmented and globalised market.[^29]
 
-<div style="background-color: white;"><img style="width:400px"  src="/images/Vol-12-issue-1/singapore-tv/07-singaporetv.bmp">The Little Nyonya topped ratings on Malaysia’s ntv7 and Astro’s AEC cable channel, even surpassing viewership for popular Hong Kong dramas in Malaysia. <i>Courtesy of Mediacorp Pte Ltd.</i></div>
+<div style="background-color: white;"><img style="width:400px"  src="/images/Vol-12-issue-1/singapore-tv/07-singaporetv.bmp"><i>The Little Nyonya</i> topped ratings on Malaysia’s ntv7 and Astro’s AEC cable channel, even surpassing viewership for popular Hong Kong dramas in Malaysia. <i>Courtesy of Mediacorp Pte Ltd.</i></div>
 
 Singapore has also become home to a host of foreign broadcasters, including AXN, BBC, CNBC Asia, Discovery Asia, HBO Asia, MTV Asia, Nickelodeon and Walt Disney Television, in no small part due to the efforts of MDA. The state broadcasting regulator and promoter has gone beyond encouraging media companies to provide services for hire to providing funding and promoting Singapore-made content.[^30]
 
@@ -152,7 +152,7 @@ Several times a year, MDA leads delegations of local media companies to major in
 
 [^22]:Ministry of Information and the Arts. (1999. March 1). *[Speech by George Yeo, Minister for Information and the Arts and 2nd Minister For Trade & Industry, at the launch of Channel NewsAsia on 1st March, 1999 at 9.00am](https://www.nas.gov.sg/archivesonline/speeches/record-details/7579362a-115d-11e3-83d5-0050568939ad)* [Speech]. Retrieved from National Archives of Singapore website.
 
-[^23]:*Channel NewsAsia*. (n.d.). About us: Our coverage. Retrieved from Channel NewsAsia website. 
+[^23]:Channel NewsAsia. (n.d.). *About us: Our coverage*. Retrieved from Channel NewsAsia website. 
 
 [^24]:Mediacorp Pte Ltd. (2011). *Mediacorp interactive history*. Retrieved from Mediacorp website. 
 
@@ -162,10 +162,10 @@ Several times a year, MDA leads delegations of local media companies to major in
 
 [^27]:Osborne, M. (2001, May 21–27). Mediacorp fights for dominance in TV arena. *Variety, Special Report*, p. 41. Retrieved from ProQuest via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
-[^28]:Lim, T. (2004). Let the contests begin!* ‘Singapore slings’ into action: Singapore in the global television format business* (p. 114). In A. Moran & M. Keane. (Eds.), Television across Asia. London and New York: Routledge Curzon. (Not available in NLB holdings)
+[^28]:Lim, T. (2004). Let the contests begin! *‘Singapore slings’ into action: Singapore in the global television format business* (p. 114). In A. Moran & M. Keane. (Eds.), Television across Asia. London and New York: Routledge Curzon. (Not available in NLB holdings)
 
-[^29]:Mediacorp Pte Ltd. (2013, March 20). *Mediacorp sold The Arena programme format to Thai PBS*; Mediacorp Pte Ltd. (2013, July 15). *Mediacorp’s content sales in Vietnam hit an all-time high*; Mediacorp Pte Ltd. (2013, May 15). Vettai acquired by Malaysian channel ntv7; Mediacorp Pte Ltd. (2009, September 10). *A Mediacorp time-belt on the Philippines’ TV5 – A total of 520 hours of content to be scheduled in the first year!*; Mediacorp Pte Ltd. (2012, October 18). *Mediacorp sold more than 100 hours of content to TVB & 8TV*; Mediacorp Pte Ltd. (2012, November 22). *Mediacorp’s international channel 8i turns one on Indovision!*; Mediacorp Pte Ltd. (2013, January 3). *Mediacorp sold 61 hours of variety programmes to Asia Travel TV in Taiwan!* All press releases retrieved from Mediacorp website. 
+[^29]:Mediacorp Pte Ltd. (2013, March 20). *Mediacorp sold The Arena programme format to Thai PBS*; Mediacorp Pte Ltd. (2013, July 15). *Mediacorp’s content sales in Vietnam hit an all-time high*; Mediacorp Pte Ltd. (2013, May 15). *Vettai acquired by Malaysian channel ntv7*; Mediacorp Pte Ltd. (2009, September 10). *A Mediacorp time-belt on the Philippines’ TV5 – A total of 520 hours of content to be scheduled in the first year!*; Mediacorp Pte Ltd. (2012, October 18). *Mediacorp sold more than 100 hours of content to TVB & 8TV*; Mediacorp Pte Ltd. (2012, November 22). *Mediacorp’s international channel 8i turns one on Indovision!*; Mediacorp Pte Ltd. (2013, January 3). *Mediacorp sold 61 hours of variety programmes to Asia Travel TV in Taiwan!* All press releases retrieved from Mediacorp website. 
 
 [^30]:Media Development Authority. (2014). *Broadcast & public service broadcast*. Retrieved from MDA website.
 
-[^31]:Media Development Authority. (2015, December 2). *HBO Asia works with the Media Development Authority of Singapore to develop local drama production capabilities* [Press release]; Media Development Authority. (2014, October 9). *Fact Sheet – Singapore makes strong showing at MIPCOM with line-up of over 530 hours of Asian and original TV and animation content* [Press release]; Media Development Authority. (2014). Grants & schemes. Retrieved from MDA website.
+[^31]:Media Development Authority. (2015, December 2). *HBO Asia works with the Media Development Authority of Singapore to develop local drama production capabilities* [Press release]; Media Development Authority. (2014, October 9). *Fact Sheet – Singapore makes strong showing at MIPCOM with line-up of over 530 hours of Asian and original TV and animation content* [Press release]; Media Development Authority. (2014). *Grants & schemes*. Retrieved from MDA website.
