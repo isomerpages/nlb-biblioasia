@@ -4,13 +4,13 @@ date: 2016-01-22
 permalink: /vol-11/issue-4/jan-mar-2016/celebratecentenary
 layout: post
 ---
-<div style="background-color: white;"><br><img src="/images/vol-11-issue-4/celebrating-a-centenary/01_celebratingcentenary.jpg">The frontispiece of <i>One Hundred Years of Singapore</i> (Vol. I) shows a portrait of Sir Stamford Raffles, the founder of modern Singapore. <i>All rights reserved, National Library Board, Singapore.</i></div>
-
 On 7 August 1918, residents in Singapore would have woken up to read an unusual notice in their morning paper: an invitation to contribute interesting stories of their island over the last 100 years. The public call, issued in *The Straits Times*,[^1] sought to gather useful and relevant information so that an official history of the civic, public and social life in Singapore since Stamford Raffles’ arrival in 1819 could be compiled.
 
 The celebratory project had been specially commissioned by the Singapore Centenary Committee to commemorate the island’s centenary. The notice was also published in *The Singapore Free Press and Mercantile Advertiser* (1884–1942) on 8 August.[^2]
 
 *One Hundred Years of Singapore* was only published three years later in 1921 and covered the period from 6 February 1819 to 6 February 1919. It was only the second major publication on Singapore’s history, the first being Charles Burton Buckley’s *An Anecdotal History of Old Times in Singapore* in 1902 . The new book took its cue for style and presentation from Buckley’s publication, and also borrowed  heavily from its references. Buckley had left many of his writings with *The Singapore Free Press*,[^3] allowing the three British editors of *One Hundred Years of Singapore* – Walter Makepeace, Gilbert Edward Brooke, and Roland St. John Braddell – to rely on the same documents for their research.[^4]
+
+<div style="background-color: white;"><br><img src="/images/vol-11-issue-4/celebrating-a-centenary/01_celebratingcentenary.jpg">The frontispiece of <i>One Hundred Years of Singapore</i> (Vol. I) shows a portrait of Sir Stamford Raffles, the founder of modern Singapore. <i>All rights reserved, National Library Board, Singapore.</i></div>
 
 While Buckley covered “very thoroughly the period from the foundation of the Settlements [until] 1867, the period thence onwards is practically virgin soil”, according to the aforementioned notice in *The Singapore Free Press*. The editors sought a wide range of information, including biographical details of prominent men, descriptions of various events, reminiscences of the island and its people, as well as photographs, cuttings and pictures. Firms and clubs were urged to send in notes on their founders, partners and history, and anyone with books related to Singapore was asked to inform the editors in case they might be required for reference.[^5]
 
