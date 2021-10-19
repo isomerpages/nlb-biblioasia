@@ -154,3 +154,5 @@ More critically, it enables the comparison of multiple accounts to arrive at a m
 </div>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-14/issue-2/jul-sep-2018/"><center>Back to Issue</center></a>
+
+#### **NOTES**
