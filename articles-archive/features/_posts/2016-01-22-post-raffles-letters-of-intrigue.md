@@ -46,10 +46,13 @@ In 2012, these four letters were part of an exhibition displaying 20 letters wri
 <br>
 <b>Author:</b> Stamford Raffles (1781–1826)
 <br>
-<b>Year written:</b> 15 April 1820; 19 January 1821; 1 March 1822; 20 January 1823
+<b>Year written:</b> <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=13186897">15 April 1820</a>; <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=13186898">19 January 1821</a>; <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=13186899">1 March 1822</a>; <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=13186900">20 January 1823</a>
 <br>
 <b>Language:</b> English
 <br>
 <b>Type:</b> Manuscript; 25cm by 20cm
 <br>
 <b>Location:</b> Call no.: RRARE 959.5703 RAF</span>
+
+#### **NOTES**
+
