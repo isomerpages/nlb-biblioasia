@@ -31,6 +31,9 @@ At aged 29, Harriette left the comforts of England for Sarawak in 1847 with her 
 
 Harriette lived in Sarawak for almost 20 years, returning to England several times in between and, in particular, between 1860 and 1862 to settle her older children at school, before returning to Sarawak with her youngest child.
 
+<img style="width: 650px; height: 370px;" src="/images/Vol-14-issue-2/globetrotting-mums/Globetrotting7.JPG">
+<div style="background-color: white;">Harriette McDougall’s kitchen at her home in Kuching, Sarawak. The kitchen was in a separate hut away from the main house due to fire considerations. The family reared cows, pigs and chickens as food supplies were unreliable and expensive. <i>Image reproduced from the website of St Thomas Cathedral Kuching.</i></div>
+
 Annie Brassey was born into a privileged family. She married Thomas Brassey, the son of a railway industrialist at age 21 in 1860, and when her husband turned to politics, Annie dutifully supported him in his work. He was later knighted and, in 1886, elevated to the peerage as Baron Brassey. The couple maintained a firm friendship with then British Prime Minister William Gladstone. Such connections likely helped smoothen their journeys to places like the Middle East, North America and parts of Europe and subsequently their tour of the world.
 
 Annie’s well-known account – *A Voyage in the ‘Sunbeam’: Our Home on the Ocean for Eleven Months*[^4] – was published in 1878, barely two years after she departed in July 1876 on a world tour with her husband, four children, pet pugs and a crew of 30 men. Illustrated with drawings based on her photographs and descriptions, the book became so enormously popular that it was republished in various languages and in 19 editions altogether.
@@ -121,14 +124,14 @@ Harriette recognised these symptoms in both herself and among her countrymen:
 
 For the Victorian woman with a spouse called to travel, the woman’s first place was with the husband, even at the cost of leaving a child behind. When the McDougalls first departed England for Sarawak on 30 December 1847, Harriette left behind her eldest son Charles, just two years old then, while taking her infant child Harry with them.
 
-<img style="width: 650px; height: 370px;" src="/images/Vol-14-issue-2/globetrotting-mums/Globetrotting7.JPG">
-<div style="background-color: white;">Harriette McDougall’s kitchen at her home in Kuching, Sarawak. The kitchen was in a separate hut away from the main house due to fire considerations. The family reared cows, pigs and chickens as food supplies were unreliable and expensive. <i>Image reproduced from the website of St Thomas Cathedral Kuching.</i></div>
-
 It is from Frank’s memoirs rather than Harriette’s that we see the emotional price she paid. “[N]o one can tell the pangs which that parting must have cost her” writes Frank. “Bravely as she had parted from her eldest child, he seems to have been ever in her thoughts, and her heart hungered for news of him.”[^16]
 
 The pain of separation, however, gave birth to the book, *Letters from Sarawak; Addressed to a Child*, based on the carefully crafted letters she had written to her son, in the hope that this would help him understand their circumstances. She states in the preface:
 
 “All parents whose fate separates them from their little ones, during their early years, must feel anxious to lessen the distance which parts them, by such familiar accounts of their life and habits as shall give their children a vivid interest in their parents’ home.”[^17]
+
+<img style="width: 650px; height: 370px;" src="/images/Vol-14-issue-2/globetrotting-mums/Globetrotting8.JPG">
+<div style="background-color: white;">While in Sarawak, Harriette McDougall penned letters to her eldest child Charles between 1851 and 1853, The compilation was later published as <i>Letters from Sarawak; Addressed to a Child</i>. Through the letters, Harriette hoped to “lessen the distance” between them as well as provide “familiar accounts of [her] life and habits” in a foreign land. The book also contains illustrations by Harriette. Pictured here is a drawing titled “Sarawak from the Court House”. <i>Image reproduced from McDougall, H. (1854). Letters from Sarawak; Addressed to a Child (p. 19). London: Grant & Griffith. (Microfilm no.: NL25436).</i></div>
 
 For the child from a well-to-do Victorian family, being sent away to boarding school at a young age was a familiar rite of passage. Early in their travels, while at Rio Grande do Sul in Brazil, Annie’s oldest son, then aged 13, took leave for England to continue his studies.
 
@@ -142,9 +145,6 @@ The Victorian mother, despite medical advancements of the time, often suffered t
 
 By August 1851, Harriette had lost five infants across a span of five years, besides having lost her second-born Harry early in her service in 1850 and her firstborn Charles in a freak accident in England in 1854. The losses not only devastated her emotionally but also physically. Yet, she was able to place the losses in the context of an eternal hope – “that it was better to have had them and lost them than never to have had them”. She looked on them as a sacred deposit in the hands of God, to be restored to her hereafter.[^21]
 
-<img style="width: 650px; height: 370px;" src="/images/Vol-14-issue-2/globetrotting-mums/Globetrotting8.JPG">
-<div style="background-color: white;">While in Sarawak, Harriette McDougall penned letters to her eldest child Charles between 1851 and 1853, The compilation was later published as <i>Letters from Sarawak; Addressed to a Child</i>. Through the letters, Harriette hoped to “lessen the distance” between them as well as provide “familiar accounts of [her] life and habits” in a foreign land. The book also contains illustrations by Harriette. Pictured here is a drawing titled “Sarawak from the Court House”. <i>Image reproduced from McDougall, H. (1854). Letters from Sarawak; Addressed to a Child (p. 19). London: Grant & Griffith. (Microfilm no.: NL25436).</i></div>
-
 Sickness would continue to plague the family in a hostile environment where cholera and various tropical diseases were rife, along with a poor diet and the stress of physical dangers from hostile tribes. In the end it would be poor health that would bring the McDougalls back to England in 1867 to recuperate and retire.
 
 Although Annie continued her journey with her family to other far-flung outposts after her first book, her final story would end tragically. She died on 14 September 1887 from malarial fever as the family sailed from Australia to Mauritius. Her publication, *The Last Voyage to India and Australia in the ‘Sunbeam’*,[^22] would be completed posthumously by her widowed husband and published in 1889.
@@ -152,7 +152,7 @@ Although Annie continued her journey with her family to other far-flung outposts
 <br>
 <div style="background-color: white;">
 <img src="/images/Vol-14-issue-2/globetrotting-mums/Globetrotting9.jpg" style="width: 100px; height: 100px;">
-<b>Bonny Tan</b> is a former Senior Librarian at the National Library, Singapore. She currently resides in Vietnam with her family and is a regular contributor to “BiblioAsia” magazine.
+<b>Bonny Tan</b> is a former Senior Librarian at the National Library, Singapore. She currently resides in Vietnam with her family and is a regular contributor to <i>BiblioAsia</i> magazine.
 </div>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-14/issue-2/jul-sep-2018/"><center>Back to Issue</center></a>
