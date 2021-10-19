@@ -4,6 +4,10 @@ date: 2016-01-22
 permalink: /vol-11/issue-4/jan-mar-2016/logans-journal
 layout: post
 ---
+<div style="background-color: white;"><br><img src="/images/vol-11-issue-4/logan-journal/01_loganjournal.jpg">A group of Orang Asli, the indigenous people of the Malay Peninsula. Logan’s Journal was the first to document descriptions of various tribes of the Malay Peninsula. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i></div>
+
+<div style="background-color: white;"><br><img src="/images/vol-11-issue-4/logan-journal/02_loganjournal.jpg">A pull-out page showing the cross-section of the Horsburgh Lighthouse. <i>All rights reserved, National Library Board, Singapore.</i></div>
+
 In the pre-Wikipedia era, scientific and literary knowledge was mainly documented in the form of periodicals and journals. In the early 19th century, most of such publications in circulation in the region comprised missionary-related magazines and Dutch-produced scientific journals of Java.[^1] But one local publication stood out for its single-minded focus on the thriving scientific and literary activity within the Straits Settlements.[^2] The Journal of the Indian Archipelago and Eastern Asia marked a pioneering attempt to produce a scholarly journal in the British settlements of the Far East,[^3] showcasing the intellectual prowess of writers from professions as diverse as priests, lawyers, doctors, soldiers,  merchants  and planters.[^4]
 
 The journal’s main purpose was to introduce its readers to all the available sources of information on the Indian Archipelago, and to treat every subject in a scientific manner. It covered a comprehensive sweep of topics, including history, language, literature, ethnography, natural history, physical science, topography, agriculture and economics.[^5]
