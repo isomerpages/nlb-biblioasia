@@ -16,7 +16,7 @@ Between the 1940s and 60s, Malay men from Southeast Asia worked as seafarers on 
 
 Returning closer to home, and the subject of saltwater crocodiles, Kate Pocklington and Siddharta Perez document human encounters with these formidable reptiles in our history. At various times crocodiles have elicited fear or respect – and the occasional indifference – among people who’ve crossed their paths.
 
-Before the 1970s, the Seven Sisters Festival, which commemorates the legend of the Weaver Girl and Cowherd, was widely celebrated in Chinatown. Tan Chui Hua uses oral history interviews with former Chinatown residents to paint a fascinating picture of this long forgotten celebration popular with the amah community.
+Before the 1970s, the Seven Sisters Festival, which commemorates the legend of the Weaver Girl and Cowherd, was widely celebrated in Chinatown. Tan Chui Hua uses oral history interviews with former Chinatown residents to paint a fascinating picture of this long forgotten celebration popular with the *amah* community.
 
 Between 1972 and 1989, people living in HDB flats would look forward to receiving their copy of *Our Home* magazine each month. Janice Loo pores through the pages of the magazine to trace the evolution of Singapore’s public housing, and documents the trials as well as joys of high-rise communal living.
 
