@@ -15,7 +15,7 @@ layout: post
 
 The poignant tale of The Cowherd and the Weaver Girl (牛郎织女) is well loved across East Asian cultures. Its themes of separation, reunion and unwavering devotion in the face of divine wrath inspire memorialisation in the form of religious festivals and rituals, observed on the seventh day of the seventh lunar month.[^2]
 
-<img src="/images/Vol-14-issue-2/in-search-of-the-seven-sis/Festival2.JPG">
+<img style="width: 650px; height: 400px;" src="/images/Vol-14-issue-2/in-search-of-the-seven-sis/Festival2.JPG">
 <div style="background-color: white;">
 A stage performance of the Seven Fairy Sisters (七仙女) by the Sing Yong Wah Heng Teochew Opera Troupe, 1978. <i>Ronni Pinsler Collection, courtesy of National Archives of Singapore.</i></div>
 
@@ -54,7 +54,7 @@ Using the interviews as the basis for exploratory research, it is possible to pi
 
 The driving force behind the festival was the *amah* community of Chinatown, where several such clan organisations and sisterhoods were established. These *amahs* would have planned for the event months ahead, and their clan premises served as the primary festival sites in Chinatown.
 
-<img src="/images/Vol-14-issue-2/in-search-of-the-seven-sis/Festival3.JPG">
+<img style="width: 650px; height: 400px;" src="/images/Vol-14-issue-2/in-search-of-the-seven-sis/Festival3.JPG">
 <div style="background-color: white;">The driving force behind the Seven Sisters Festival in Chinatown was the <i>amah</i> or <i>majie</i> community. These women, who were sworn to celibacy, worshipped the Seven Sisters for their skills in needlework and crafts. The amahs would work on the craftworks to be displayed during the festival in their leisure time and after hours, 1962. Photograph by Wong Ken Foo. <i>Courtesy of National Archives of Singapore.</i></div>
 
 Besides these formal organisers, there were also clusters of informal organisations referred to as Seven Sisters associations (七姐会) or Milky Way associations (银河会). Such organisations were usually transient, and set up by young unmarried girls and women specifically for the purpose of the festival. The members would often comprise relatives, friends and neighbours, and tithes would be collected to cover the costs of the offerings and festivities. As many of such associations were made up of teenage girls, their patrons – usually their parents – were key figures who provided the necessary funds. The lay worshippers were generally women, both married and unmarried. These women were usually not involved in the planning and preparation for the festival, but would come together to pray and make offerings. Apart from these women, the sites would also see large crowds of visitors, who showed up just to soak in the atmosphere and enjoy the festivities.
@@ -85,7 +85,7 @@ However, granted that the main organisers were *amahs* who were sworn to a life 
 
 Judging from the actual practices – *amahs* and other young unmarried women members of Seven Sisters associations would spend a good part of the year creating beautiful handicrafts – it appears that the Seven Sisters were worshipped for their artistry and mastery of needle crafts. This certainly is corroborated by research on the Seven Sisters cult in Guangdong, China, where the adherents in Singapore originated from.[^11]
 
-<img src="/images/Vol-14-issue-2/in-search-of-the-seven-sis/Festival4.JPG">
+<img style="width: 550px; height: 500px;" src="/images/Vol-14-issue-2/in-search-of-the-seven-sis/Festival4.JPG">
 <div style="background-color: white;">Known as <i>cat cheh poon</i> in Cantonese (Seven Sisters Basin), this big paper basin is one of the key offerings burnt during the Seven Sisters Festival, 1954. <i>Image source: The Straits Times © Singapore Press Holdings Limited. Reprinted with permission.</i></div>
 
 When it comes to rituals and practices relating to the Seven Sisters Festival, there is a higher degree of concurrence among those interviewed. For example, all the women mentioned that offerings would typically include a giant paper basin, cosmetics, clothing made of paper for the Seven Sisters and the Cowherd, combs, mirrors, handkerchiefs, and fruit and flowers. The priest would turn up at exactly 11pm to conduct the elaborate rituals, and the offerings would be burnt as supplication. Cantonese *tongshui* (糖水), or desserts, and *longan* tea would also be served to worshippers and visitors.
@@ -102,7 +102,7 @@ She also recalls an interesting practice of placing items such as a bowl of wate
 
 One of the main attractions for the throngs of visitors, sometimes as many as two or three hundred in a single venue, were the exhibits of exquisite craftworks and needlework held in conjunction with Seven Sisters festivities.
 
-<img src="/images/Vol-14-issue-2/in-search-of-the-seven-sis/Festival5.JPG">
+<img style="width: 650px; height: 400px;" src="/images/Vol-14-issue-2/in-search-of-the-seven-sis/Festival5.JPG">
 <div style="background-color: white;">
 Joss paper shops such as these in Chinatown would be the source of many of the paper offerings to the Seven Sisters and Cowherd, 1962. <i>Photograph by Wong Ken Foo. Courtesy of National Archives of Singapore.</i></div>
 
@@ -140,7 +140,7 @@ For a festival that used to be one of Chinatown’s most colourful and significa
 
 Other reasons cited included lack of time to commit to the organising associations and the fact that the main organisers, the amahs, were advancing in age and fewer women were moving from China to Singapore to take their place.
 
-<img src="/images/Vol-14-issue-2/in-search-of-the-seven-sis/Festival6.JPG">
+<img style="width: 650px; height: 400px;" src="/images/Vol-14-issue-2/in-search-of-the-seven-sis/Festival6.JPG">
 <div style="background-color: white;">A stage performance of the <i>Seven Fairy Sisters</i> (七仙女) by the Sing Yong Wah Heng Teochew Opera Troupe, 1978. <i>Ronni Pinsler Collection, courtesy of National Archives of Singapore.</i></div>
 
 The oral history interviews in the collections of the National Archives are a critical resource in reconstructing this ephemeral phenomenon. In the case of the Seven Sisters Festival, the existence of a critical mass of interviews allows us to piece together detailed descriptions of the festival from the women who played different roles – as organiser, lay worshipper or visitor – and paint a textured, colourful account of times past.
