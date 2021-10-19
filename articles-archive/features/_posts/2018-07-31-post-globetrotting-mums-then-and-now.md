@@ -22,16 +22,13 @@ Published accounts of mothers in the 19th century who travelled to new lands wit
 
 While Harriette set up home with her family – living among the local people – in the disease-ridden jungles of Sarawak in 1847, Annie travelled with her family in relative comfort on board a private schooner, the *Sunbeam*, calling in at various ports around the world. Annie’s well-documented journey began in 1876, almost three decades after Harriette’s sojourn.
 
-<img style="width: 370px; height: 400px;" src="/images/Vol-14-issue-2/globetrotting-mums/Globetrotting3.JPG">
-<div style="background-color: white;">Harriette McDougall in November 1882 when she was 65. Photograph by Hughes and Mullin, Isle of Wight. <i>Image reproduced from Bunyon, C.J. (1889). Memoirs of Francis Thomas McDougall, D.C.L.F.R.C.S., Sometime Bishop of Labuan and Sarawak, and of Harriette, his Wife (p. 20). London: Longmans, Greens, and Co. (Microfilm no.: NL25423).</i></div>
-
 Harriette was married to Francis Thomas McDougall, who would later become the first Bishop of Sarawak. They initially served as missionaries among head-hunters, pirates and rioting Chinese between 1847 and 1867. Her life of hardship in the tropics is captured through three books: *Letters from Sarawak: Addressed to a Child*[^1] (1854), which contains letters to her eldest son; her autobiography, *Sketches of Our Life at Sarawak*[^2] (1882); and her husband’s biography, *Memoirs of Francis Thomas McDougall… Sometime Bishop of Labuan and Sarawak, and of Harriette, his Wife*[^3] (1889).
 
 At aged 29, Harriette left the comforts of England for Sarawak in 1847 with her husband and baby son Harry, leaving behind Charles, her firstborn. She would later lay Harry to rest in Singapore when he was only three, and also lost several other children in infancy. Those who survived were raised together with orphans of various origins – Chinese, Dyaks (or Dayaks) as well as the offspring of mixed parentage – whom she and her husband had adopted.
 
 Harriette lived in Sarawak for almost 20 years, returning to England several times in between and, in particular, between 1860 and 1862 to settle her older children at school, before returning to Sarawak with her youngest child.
 
-<img style="width: 650px; height: 370px;" src="/images/Vol-14-issue-2/globetrotting-mums/Globetrotting7.JPG">
+<img style="width: 350px; height: 450px;" src="/images/Vol-14-issue-2/globetrotting-mums/Globetrotting7.JPG">
 <div style="background-color: white;">Harriette McDougall’s kitchen at her home in Kuching, Sarawak. The kitchen was in a separate hut away from the main house due to fire considerations. The family reared cows, pigs and chickens as food supplies were unreliable and expensive. <i>Image reproduced from the website of St Thomas Cathedral Kuching.</i></div>
 
 Annie Brassey was born into a privileged family. She married Thomas Brassey, the son of a railway industrialist at age 21 in 1860, and when her husband turned to politics, Annie dutifully supported him in his work. He was later knighted and, in 1886, elevated to the peerage as Baron Brassey. The couple maintained a firm friendship with then British Prime Minister William Gladstone. Such connections likely helped smoothen their journeys to places like the Middle East, North America and parts of Europe and subsequently their tour of the world.
@@ -43,7 +40,7 @@ Annie’s well-known account – *A Voyage in the ‘Sunbeam’: Our Home on the
 
 Unlike the women of her generation, Annie’s 1876 circumnavigation of the world was not borne out of an obligation to accompany her husband for his work but was something she herself had longed to do. The book was an outcome of “her painstaking desire not only to see everything thoroughly but to record her impressions faithfully and accurately”,[^5] as her husband writes in the preface. This became one of many such family travels she would embark on and write about thereafter, ending only with her death from malaria in 1887 while on her final journey.
 
-<img src="/images/Vol-14-issue-2/globetrotting-mums/Globetrotting5.JPG">
+<img style="width: 550px; height: 360px;" src="/images/Vol-14-issue-2/globetrotting-mums/Globetrotting5.JPG">
 <div style="background-color: white;"> In July 1876, Annie Brassey departed on the Sunbeam to travel around the world with her husband, four children and pet dogs. An account of her travels was published as <i>A Voyage in the ‘Sunbeam’: Our Home on the Ocean for Eleven Months</i>. This illustration of the Sunbeam was featured on the frontispiece of the book. <i>Image reproduced from Brassey, A. (1878). A Voyage in the ‘Sunbeam’: Our Home on the Ocean for Eleven Months London: Longmans, Green. (Accession no.: B02897233A; Microfilm no.: NL25750).</i></div>
 <br>
 <img style="width: 600px; height: 380px;" src="/images/Vol-14-issue-2/globetrotting-mums/Globetrotting4z.JPG">
