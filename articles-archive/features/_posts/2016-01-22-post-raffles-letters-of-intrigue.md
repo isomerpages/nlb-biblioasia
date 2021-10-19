@@ -56,3 +56,26 @@ In 2012, these four letters were part of an exhibition displaying 20 letters wri
 
 #### **NOTES**
 
+[^1]:Glendinning, V. (2012). Raffles and the golden opportunity 1781–1826 (p. 209). London: Profile Books. (Call no.: RSING 959.57021092 GLE); Turnbull, C.M. (2009). A history of modern Singapore, 1819–2005 (p. 29). Singapore: NUS Press. (Call no.: RSING 959.57 TUR)
+
+[^2]:Glendinning, 2012, p. 207; Tan, K., & Lim, C.S. (2012). Raffles’ letters: Intrigues behind the founding of Singapore (p. 75). Singapore: National Library Board. (Call no.: RSING 959.5703 TAN)
+
+[^3]:Bastin, J. (2014). Raffles and Hastings: Private exchanges behind the founding of Singapore (pp. 210–211). Singapore: National Library Board Singapore [and] Marshall Cavendish Editions. (Call no.: RSING 959.5703 BAS); Tan & Lim, 2012, p. 19.
+
+[^4]:Bastin, 2014, p. 148.
+
+[^5]:Bastin, 2014, p. 148.
+
+[^6]:Bastin, 2014, p. 153.
+
+[^7]:Bastin, 2014, p. 153.
+
+[^8]:Bastin, 2014, p. 158.
+
+[^9]:Bastin, 2014, p. 158; Tan & Lim, 2012, p. 23.
+
+[^10]:Bastin, 2014, p. 205.
+
+[^11]:Bastin, 2014, pp. 161–162.
+
+[^12]:Turnbull, 2009, p. 47.
