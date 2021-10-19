@@ -86,4 +86,23 @@ However, granted that the main organisers were *amahs* who were sworn to a life 
 Judging from the actual practices – *amahs* and other young unmarried women members of Seven Sisters associations would spend a good part of the year creating beautiful handicrafts – it appears that the Seven Sisters were worshipped for their artistry and mastery of needle crafts. This certainly is corroborated by research on the Seven Sisters cult in Guangdong, China, where the adherents in Singapore originated from.11
 
 <img src="/images/Vol-14-issue-2/in-search-of-the-seven-sis/Festival4.JPG">
-<div style="background-color: white;">Known as cat cheh poon in Cantonese (Seven Sisters Basin), this big paper basin is one of the key offerings burnt during the Seven Sisters Festival, 1954. <i>Image source: The Straits Times © Singapore Press Holdings Limited. Reprinted with permission.</i></div>
+<div style="background-color: white;">Known as <i>cat cheh poon</i> in Cantonese (Seven Sisters Basin), this big paper basin is one of the key offerings burnt during the Seven Sisters Festival, 1954. <i>Image source: The Straits Times © Singapore Press Holdings Limited. Reprinted with permission.</i></div>
+
+When it comes to rituals and practices relating to the Seven Sisters Festival, there is a higher degree of concurrence among those interviewed. For example, all the women mentioned that offerings would typically include a giant paper basin, cosmetics, clothing made of paper for the Seven Sisters and the Cowherd, combs, mirrors, handkerchiefs, and fruit and flowers. The priest would turn up at exactly 11pm to conduct the elaborate rituals, and the offerings would be burnt as supplication. Cantonese *tongshui* (糖水), or desserts, and *longan* tea would also be served to worshippers and visitors.
+
+The level of descriptive detail in the interviews on ritual offerings and practices allow us to better reconstruct the festival. The following excerpt from an interview given by Abigail Chay illustrates this:
+
+“So during this *chaat cheh* [Cantonese for Seven Sisters]… night, they actually would make flowers into lanterns… like a conical shape… and then they hang it in the air, and then they would make… a paper thing like a basin, and they would just burn it. And mainly they burn beautiful clothes… made of paper… and they actually put on powder, those white powder with like ‘Twin Girls’, ‘Twin Ladies’ [actually Two Girls brand], that kind of thing, and then the cologne *shui* [Cantonese for water], their so-called perfume at that time, at the altar… then they would just offer it for blessing… The *chaat cheh* day is on the seventh day of the seventh month of the Chinese calendar”.
+
+She also recalls an interesting practice of placing items such as a bowl of water outside the window and applying make-up for blessings:
+
+“On the *chor lok*, the sixth day of the seventh month, any *majie* [Cantonese for *amah*] or any lady who wanted to look very beautiful, they would put their makeup… they would also put water right outside their window where they face the sky… 11 o’clock start the new timing of the… rat timing, 11pm to 1am, they would place there… then they would leave it until the next morning, the bowl of water. If they were *kiasu* [Hokkien for ‘afraid to lose’], they would put one basin of water outside… they would open the cologne, the old-fashioned cologne, then the white powder for their face and whatever during that time they used for makeup… so they would put all these things overnight and hopefully it doesn’t rain. If it doesn’t rain, good weather… it seems that whatever powder you put overnight, the cologne will attract men, you will look more charming, more beautiful, and that basin of water or the bowl of water you put there, even the whole year round, will not have larva… drink already it seems… can be beautiful and can cure sicknesses”.12
+
+#### **A Celebration of Artistry**
+
+One of the main attractions for the throngs of visitors, sometimes as many as two or three hundred in a single venue, were the exhibits of exquisite craftworks and needlework held in conjunction with Seven Sisters festivities.
+
+<img src="/images/Vol-14-issue-2/in-search-of-the-seven-sis/Festival5.JPG">
+<div style="background-color: white;">
+Joss paper shops such as these in Chinatown would be the source of many of the paper offerings to the Seven Sisters and Cowherd, 1962. <i>Photograph by Wong Ken Foo. Courtesy of National Archives of Singapore.</i></div>
+
