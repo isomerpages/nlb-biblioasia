@@ -66,20 +66,20 @@ In 2012, these four letters were part of an exhibition displaying 20 letters wri
 
 [^3]:Bastin, J. (2014). *[Raffles and Hastings: Private exchanges behind the founding of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200867141)* (pp. 210–211). Singapore: National Library Board Singapore [and] Marshall Cavendish Editions. (Call no.: RSING 959.5703 BAS); [Tan & Lim](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14447075), 2012, p. 19.
 
-[^4]:Bastin, 2014, p. 148.
+[^4]:[Bastin](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200867141), 2014, p. 148.
 
-[^5]:Bastin, 2014, p. 148.
+[^5]:[Bastin](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200867141), 2014, p. 148.
 
-[^6]:Bastin, 2014, p. 153.
+[^6]:[Bastin](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200867141), 2014, p. 153.
 
-[^7]:Bastin, 2014, p. 153.
+[^7]:[Bastin](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200867141), 2014, p. 153.
 
-[^8]:Bastin, 2014, p. 158.
+[^8]:[Bastin](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200867141), 2014, p. 158.
 
-[^9]:Bastin, 2014, p. 158; Tan & Lim, 2012, p. 23.
+[^9]:[Bastin](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200867141), 2014, p. 158; [Tan & Lim](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14447075), 2012, p. 23.
 
-[^10]:Bastin, 2014, p. 205.
+[^10]:[Bastin](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200867141), 2014, p. 205.
 
-[^11]:Bastin, 2014, pp. 161–162.
+[^11]:[Bastin](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200867141), 2014, pp. 161–162.
 
-[^12]:Turnbull, 2009, p. 47.
+[^12]:[Turnbull](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13206047), 2009, p. 47.
