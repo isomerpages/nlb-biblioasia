@@ -37,6 +37,9 @@ Annie’s well-known account – *A Voyage in the ‘Sunbeam’: Our Home on the
 
 Unlike the women of her generation, Annie’s 1876 circumnavigation of the world was not borne out of an obligation to accompany her husband for his work but was something she herself had longed to do. The book was an outcome of “her painstaking desire not only to see everything thoroughly but to record her impressions faithfully and accurately”,[^5] as her husband writes in the preface. This became one of many such family travels she would embark on and write about thereafter, ending only with her death from malaria in 1887 while on her final journey.
 
+<img src="/images/Vol-14-issue-2/globetrotting-mums/Globetrotting5.JPG">
+<div style="background-color: white;"> In July 1876, Annie Brassey departed on the Sunbeam to travel around the world with her husband, four children and pet dogs. An account of her travels was published as <i>A Voyage in the ‘Sunbeam’: Our Home on the Ocean for Eleven Months</i>. This illustration of the Sunbeam was featured on the frontispiece of the book. <i>Image reproduced from Brassey, A. (1878). A Voyage in the ‘Sunbeam’: Our Home on the Ocean for Eleven Months London: Longmans, Green. (Accession no.: B02897233A; Microfilm no.: NL25750).</i></div>
+
 <img style="width: 650px; height: 400px;" src="/images/Vol-14-issue-2/globetrotting-mums/Globetrotting4.JPG">
 <div style="background-color: white;">(Left) Portrait of Annie Brassey reproduced from Wikimedia Commons. <i>Original image from Brassey, T. (1917). The “Sunbeam”, R.Y.S.: Voyages and Experiences in Many Waters: Naval Reserves and other Matters. London: John Murray.</i><br>
 (Right) Harriette McDougall in November 1882 when she was 65. Photograph by Hughes and Mullin, Isle of Wight. <i>Image reproduced from Bunyon, C.J. (1889). Memoirs of Francis Thomas McDougall, D.C.L.F.R.C.S., Sometime Bishop of Labuan and Sarawak, and of Harriette, his Wife (p. 20). London: Longmans, Greens, and Co. (Microfilm no.: NL25423).</i></div>
@@ -57,15 +60,14 @@ Food supply onboard the *Sunbeam* had its fair share of problems. Annie describe
 
 The incident led Annie to reflect on the difficulties of travel in the days when tinned food and steam power did not exist:
 
-“We often wonder how the earlier navigators got on, when there were no such things as tinned provisions, and when the facilities for carrying water were of the poorest description, while they were often months and months at sea, without an opportunity of replenishing their stores, and with no steam-power to fall back upon in case they were becalmed”.[^8]
+“We often wonder how the earlier navigators got on, when there were no such things as tinned provisions, and when the facilities for carrying water were of the poorest description, while they were often months and months at sea, without an opportunity of replenishing their stores, and with no steam-power to fall back upon in case they were becalmed.”[^8]
 
 *In much the same way, I’ve wondered how travelling mothers in the Victorian era kept their sanity intact and their children occupied during long stretches of boredom and monotony. Without digital toys, streaming TV and movies, and social media to keep in contact with friends and family across the oceans, how did these mothers cope?*
 
 For one, both Harriette’s and Annie’s families owned extensive libraries. Annie had more than 700 books, including several foreign language ones, some of which were gifted to her on her travels. These helped entertain the family through long dull moments. Annie also received various exotic pets from the hosts she called on at various ports, although not all survived the journey.
 
-<img src="/images/Vol-14-issue-2/globetrotting-mums/Globetrotting5.JPG">
-<div style="background-color: white;">(Left) In July 1876, Annie Brassey departed on the Sunbeam to travel around the world with her husband, four children and pet dogs. An account of her travels was published as <i>A Voyage in the ‘Sunbeam’: Our Home on the Ocean for Eleven Months</i>. This illustration of the Sunbeam was featured on the frontispiece of the book. <i>Image reproduced from Brassey, A. (1878). A Voyage in the ‘Sunbeam’: Our Home on the Ocean for Eleven Months London: Longmans, Green. (Accession no.: B02897233A; Microfilm no.: NL25750).</i><br>
-(Right) Some children of the school at St Thomas Church in Kuching, Sarawak. Both the church and school were established by Harriette McDougall and her husband Francis McDougall. <i>Image reproduced from McDougall, H. (1882). Sketches of our Life at Sarawak (p. 194). London: Society for Promoting Christian Knowledge. (Microfilm no.: NL26013).</i></div>
+<img src="/images/Vol-14-issue-2/globetrotting-mums/Globetrotting5y.JPG">
+<div style="background-color: white;">Some children of the school at St Thomas Church in Kuching, Sarawak. Both the church and school were established by Harriette McDougall and her husband Francis McDougall. <i>Image reproduced from McDougall, H. (1882). Sketches of our Life at Sarawak (p. 194). London: Society for Promoting Christian Knowledge. (Microfilm no.: NL26013).</i></div>
 
 Besides the usual chores on deck, Annie devised games for the children to play on board. One such pastime was a soldier’s drill where the children marched up and down the deck to the music of a fiddle and the “somewhat discordant noise of their own drums”.
 
