@@ -68,7 +68,7 @@ The incident led Annie to reflect on the difficulties of travel in the days when
 
 For one, both Harriette’s and Annie’s families owned extensive libraries. Annie had more than 700 books, including several foreign language ones, some of which were gifted to her on her travels. These helped entertain the family through long dull moments. Annie also received various exotic pets from the hosts she called on at various ports, although not all survived the journey.
 
-<img src="/images/Vol-14-issue-2/globetrotting-mums/Globetrotting5y.JPG">
+<img style="width: 600px; height: 370px;" src="/images/Vol-14-issue-2/globetrotting-mums/Globetrotting5y.JPG">
 <div style="background-color: white;">Some children of the school at St Thomas Church in Kuching, Sarawak. Both the church and school were established by Harriette McDougall and her husband Francis McDougall. <i>Image reproduced from McDougall, H. (1882). Sketches of our Life at Sarawak (p. 194). London: Society for Promoting Christian Knowledge. (Microfilm no.: NL26013).</i></div>
 
 Besides the usual chores on deck, Annie devised games for the children to play on board. One such pastime was a soldier’s drill where the children marched up and down the deck to the music of a fiddle and the “somewhat discordant noise of their own drums”.
@@ -77,7 +77,7 @@ Harriet’s orphan boys adopted English games while continuing to make their own
 
 “The children amused themselves as English boys do. There was a season for marbles, for hop-scotch, for tops, and for kites… they cut thin paper into the shapes of birds, fish, or butterflies, and stretch it over thin slips of the spine of the cocoa-nut leaf, then they ornament it with bits of red or blue paper, and fasten it together with a pinch of boiled rice.”[^9]
 
-<img style="width: 650px; height: 380px;" src="/images/Vol-14-issue-2/globetrotting-mums/Globetrotting6.JPG">
+<img style="width: 350px; height: 450px;" src="/images/Vol-14-issue-2/globetrotting-mums/Globetrotting6.JPG">
 <div style="background-color: white;">Annie Brassey devised games to keep her children entertained on board. One such pastime was a soldier’s drill where the children marched up and down the deck to the music of their drums. <i>Image reproduced from Brassey, A. (1878). A Voyage in the ‘Sunbeam’: Our Home on the Ocean for Eleven Months (p. 256). London: Longmans, Green. (Accession no.: BO2897233A; Microfilm no.: NL25750).</i></div>
 
 #### **A Mother’s Travails**
@@ -92,7 +92,7 @@ In the 19th century, travel by sea was fraught with danger, not only from the me
 
 Meanwhile, the captain, who had instinctively coiled a rope around his own wrist, managed to grab Mabelle even as the waves threatened to sweep both of them overboard. Annie remembers that Mabelle “was perfectly self-possessed, and only said quietly, ‘Hold on, Captain Lecky, hold on!’”[^11] The evening did not prove restful as they were once more deluged by huge waves. With her bed drenched, Annie spent the night mopping and clearing the mess.
 
-<img style="width: 650px; height: 380px;" src="/images/Vol-14-issue-2/globetrotting-mums/Globetrotting6b.JPG">
+<img style="width: 450px; height: 360px;" src="/images/Vol-14-issue-2/globetrotting-mums/Globetrotting6b.JPG">
 <div style="background-color: white;">A few days into the start of Annie Brassey’s journey, the Sunbeam sailed into a violent storm, and her son Allnutt and daughter Mabelle were almost thrown overboard. Fortunately, Allnutt managed to catch hold of the rail, while the captain grabbed Mabelle. <i>Image reproduced from Brassey, A. (1878). A Voyage in the ‘Sunbeam’: Our Home on the Ocean for Eleven Months (p. 5). London: Longmans, Green. (Accession no.: B02897233A; Microfilm no.: NL25750).</i></div>
 
 In February 1877, the Brasseys experienced another close call when a fire engulfed the Sunbeam. Flying embers from a little fire stoked in the nursery to keep the room warm sparked off a mini inferno. Annie was awakened in the middle of the night by cries of “Fire! Fire!” Her first thought was the children, but thankfully they had not been forgotten; the nurse had “seized a child under each arm, wrapped them in blankets, and carried them off to the deck-house… The children… never cried nor made the least fuss, but composed themselves”.[^12]
