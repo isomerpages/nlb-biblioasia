@@ -54,7 +54,7 @@ Harriette describes how a family unprepared for such changes could not last the 
 
 Harriette describes such an occasion when they were treated to a Dyak feast:
 
-“As we English folks could not eat fowls roasted in their feathers, nor cakes fried in cocoa-nut oil, they brought us fine joints of bamboo filled with pulut rice, which turns to a jelly in cooking and is fragrant with the scent of the young cane. I was going to eat this delicacy when my eyes fell upon three human heads standing on a large dish, freshly killed and slightly smoked, with food and sirih leaves in their mouths… But I dared say nothing. These Dyaks had killed our enemies, and were only following their own customs by rejoicing over their dead victims”.[^7]
+“As we English folks could not eat fowls roasted in their feathers, nor cakes fried in cocoa-nut oil, they brought us fine joints of bamboo filled with pulut rice, which turns to a jelly in cooking and is fragrant with the scent of the young cane. I was going to eat this delicacy when my eyes fell upon three human heads standing on a large dish, freshly killed and slightly smoked, with food and sirih leaves in their mouths… But I dared say nothing. These Dyaks had killed our enemies, and were only following their own customs by rejoicing over their dead victims.”[^7]
 
 Food supply onboard the *Sunbeam* had its fair share of problems. Annie describes how their livestock, namely six sheep, 60 chickens, 30 ducks and four dozen pigeons, were depleted by the carelessness of the sailors. Fortunately, some spare tins of food stored under the floor of the nursery helped sustain them until the next port of call.
 
@@ -73,23 +73,25 @@ Besides the usual chores on deck, Annie devised games for the children to play o
 
 Harriet’s orphan boys adopted English games while continuing to make their own local toys such as kites:
 
-“The children amused themselves as English boys do. There was a season for marbles, for hop-scotch, for tops, and for kites… they cut thin paper into the shapes of birds, fish, or butterflies, and stretch it over thin slips of the spine of the cocoa-nut leaf, then they ornament it with bits of red or blue paper, and fasten it together with a pinch of boiled rice”.[^9]
+“The children amused themselves as English boys do. There was a season for marbles, for hop-scotch, for tops, and for kites… they cut thin paper into the shapes of birds, fish, or butterflies, and stretch it over thin slips of the spine of the cocoa-nut leaf, then they ornament it with bits of red or blue paper, and fasten it together with a pinch of boiled rice.”[^9]
+
+<img style="width: 650px; height: 380px;" src="/images/Vol-14-issue-2/globetrotting-mums/Globetrotting6.JPG">
+<div style="background-color: white;">Annie Brassey devised games to keep her children entertained on board. One such pastime was a soldier’s drill where the children marched up and down the deck to the music of their drums. <i>Image reproduced from Brassey, A. (1878). A Voyage in the ‘Sunbeam’: Our Home on the Ocean for Eleven Months (p. 256). London: Longmans, Green. (Accession no.: BO2897233A; Microfilm no.: NL25750).</i></div>
 
 #### **A Mother’s Travails**
 
-Travelling on local forms of transport may seem dangerous to someone who comes from a more developed part of the world. Even so, we opted to commute as the locals do – by scooter. We experienced the harsh rays of the mid-day sun beating down on our backs, the burns from scooter exhaust pipes brushing past our calves, the desperate rush to seek shelter when the skies suddenly opened, or riding knee-deep through muddy river waters and sludge at high tide.
+*Travelling on local forms of transport may seem dangerous to someone who comes from a more developed part of the world. Even so, we opted to commute as the locals do – by scooter. We experienced the harsh rays of the mid-day sun beating down on our backs, the burns from scooter exhaust pipes brushing past our calves, the desperate rush to seek shelter when the skies suddenly opened, or riding knee-deep through muddy river waters and sludge at high tide.*
 
-On the flip side, it allowed us to feel the pulse of the city – inhaling the heady aroma of meat being barbecued by the roadside, and chatting with fellow riders while astride on our scooter as if we were nonchalantly walking down a road. So when we had our son Bryan, we travelled with him perched on a rattan chair affixed at the front of our scooter seat.
+*On the flip side, it allowed us to feel the pulse of the city – inhaling the heady aroma of meat being barbecued by the roadside, and chatting with fellow riders while astride on our scooter as if we were nonchalantly walking down a road. So when we had our son Bryan, we travelled with him perched on a rattan chair affixed at the front of our scooter seat.*
 
 In the 19th century, travel by sea was fraught with danger, not only from the mercurial weather and waves, but also from freak accidents. Several days into the start of Annie’s journey, the *Sunbeam* sailed into a violent storm and her son Allnutt and daughter Mabelle were almost thrown overboard:
 
-“In a second the sea came pouring over the stern, above Allnutt’s head. The boy was nearly washed overboard, but he managed to catch hold of the rail, and with great presence of mind, stuck his knees into the bulwarks”.[^10]
+“In a second the sea came pouring over the stern, above Allnutt’s head. The boy was nearly washed overboard, but he managed to catch hold of the rail, and with great presence of mind, stuck his knees into the bulwarks.”[^10]
 
 Meanwhile, the captain, who had instinctively coiled a rope around his own wrist, managed to grab Mabelle even as the waves threatened to sweep both of them overboard. Annie remembers that Mabelle “was perfectly self-possessed, and only said quietly, ‘Hold on, Captain Lecky, hold on!’”[^11] The evening did not prove restful as they were once more deluged by huge waves. With her bed drenched, Annie spent the night mopping and clearing the mess.
 
-<img style="width: 650px; height: 380px;" src="/images/Vol-14-issue-2/globetrotting-mums/Globetrotting6.JPG">
-<div style="background-color: white;">(Left) Annie Brassey devised games to keep her children entertained on board. One such pastime was a soldier’s drill where the children marched up and down the deck to the music of their drums. <i>Image reproduced from Brassey, A. (1878). A Voyage in the ‘Sunbeam’: Our Home on the Ocean for Eleven Months (p. 256). London: Longmans, Green. (Accession no.: BO2897233A; Microfilm no.: NL25750).</i><br>
-(Right) A few days into the start of Annie Brassey’s journey, the Sunbeam sailed into a violent storm, and her son Allnutt and daughter Mabelle were almost thrown overboard. Fortunately, Allnutt managed to catch hold of the rail, while the captain grabbed Mabelle. <i>Image reproduced from Brassey, A. (1878). A Voyage in the ‘Sunbeam’: Our Home on the Ocean for Eleven Months (p. 5). London: Longmans, Green. (Accession no.: B02897233A; Microfilm no.: NL25750).</i></div>
+<img style="width: 650px; height: 380px;" src="/images/Vol-14-issue-2/globetrotting-mums/Globetrotting6b.JPG">
+<div style="background-color: white;">A few days into the start of Annie Brassey’s journey, the Sunbeam sailed into a violent storm, and her son Allnutt and daughter Mabelle were almost thrown overboard. Fortunately, Allnutt managed to catch hold of the rail, while the captain grabbed Mabelle. <i>Image reproduced from Brassey, A. (1878). A Voyage in the ‘Sunbeam’: Our Home on the Ocean for Eleven Months (p. 5). London: Longmans, Green. (Accession no.: B02897233A; Microfilm no.: NL25750).</i></div>
 
 In February 1877, the Brasseys experienced another close call when a fire engulfed the Sunbeam. Flying embers from a little fire stoked in the nursery to keep the room warm sparked off a mini inferno. Annie was awakened in the middle of the night by cries of “Fire! Fire!” Her first thought was the children, but thankfully they had not been forgotten; the nurse had “seized a child under each arm, wrapped them in blankets, and carried them off to the deck-house… The children… never cried nor made the least fuss, but composed themselves”.[^12]
 
