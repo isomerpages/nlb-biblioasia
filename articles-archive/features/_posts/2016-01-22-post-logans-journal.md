@@ -46,36 +46,36 @@ All nine volumes of the journal dating from 1847 to 1855, along with three addit
 	
 #### **NOTES**
 
-[^1]:National Library Board. (2009). James Richardson Logan written by Chia, Yeong Jia Joshua & Tan, Bonny. Retrieved from Singapore Infopedia website.
+[^1]:National Library Board. (2009). *[James Richardson Logan](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1146_2009-10-27.html)* written by Chia, Yeong Jia Joshua & Tan, Bonny. Retrieved from Singapore Infopedia website.
 
-[^2]:Thomson, J.T. (1881, June). A sketch of the career of the late James Richardson Logan, of Penang and Singapore. Journal of the Straits Branch of the Royal Asiatic Society, 7, 75–81, p. 78. Retrieved from JSTOR via NLB’s eResources website.
+[^2]:Thomson, J.T. (1881, June). A sketch of the career of the late James Richardson Logan, of Penang and Singapore. *Journal of the Straits Branch of the Royal Asiatic Society, 7*, 75–81, p. 78. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/Main/) website.
 
-[^3]:The Free Press: Journal of the Indian Archipelago and Eastern Asia. (1847, July 29). The Singapore Free Press, p. 2. Retrieved from NewspaperSG.
+[^3]:[The Free Press: Journal of the Indian Archipelago and Eastern Asia](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18470729-1.2.3). (1847, July 29). *The Singapore Free Press*, p. 2. Retrieved from NewspaperSG.
 
-[^4]:Hose, G.F. (1878, July). Inaugural address by the President, the Venerable Archdeacon Hose, M. A. Delivered on the 28th February 1878. Journal of the Straits Branch of the Royal Asiatic Society, 1, 3. Great Britain: Straits Branch, Royal Asiatic Society Retrieved from BookSG.
+[^4]:Hose, G.F. (1878, July). Inaugural address by the President, the Venerable Archdeacon Hose, M. A. Delivered on the 28th February 1878. *[Journal of the Straits Branch of the Royal Asiatic Society, 1](http://eresources.nlb.gov.sg/printheritage/detail/a9e4b686-cde5-4fe9-92f3-789430f1ac38.aspx)*, 3. Great Britain: Straits Branch, Royal Asiatic Society Retrieved from BookSG.
 
-[^5]:Logan, J.R. (1847). Prospectus of the Journal of the Indian Archipelago and Eastern Asia (pp. iv–vii). Singapore: [s.n.]. Retrieved from BookSG.
+[^5]:Logan, J.R. (1847). *[Prospectus of the Journal of the Indian Archipelago and Eastern Asia](http://eresources.nlb.gov.sg/printheritage/detail/f83896d8-a4bf-4b9f-909c-9af2a041fd27.aspx)* (pp. iv–vii). Singapore: [s.n.]. Retrieved from BookSG.
 
-[^6]:The Journal of the Indian Archipelago and Eastern Asia. (1849, November 16). The Singapore Free Press and Mercantile Advertiser (1835–1869), p. 1. Retrieved from NewspaperSG.
+[^6]:[The Journal of the Indian Archipelago and Eastern Asia](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18491116-1.2.3). (1849, November 16). *The Singapore Free Press and Mercantile Advertiser* (1835–1869), p. 1. Retrieved from NewspaperSG.
 
-[^7]:Logan, 1847, pp. iv–vii.
+[^7]:[Logan](http://eresources.nlb.gov.sg/printheritage/detail/f83896d8-a4bf-4b9f-909c-9af2a041fd27.aspx), 1847, pp. iv–vii.
 
-[^8]:Bastin, C., & Bastin, J. (1964). Some old Penang tombstones. Journal of the Malaysian Branch of the Royal Asiatic Society, 37 (1) (205), 126–165, p. 146. Retrieved from JSTOR via NLB’s eResources website.
+[^8]:Bastin, C., & Bastin, J. (1964). Some old Penang tombstones. *Journal of the Malaysian Branch of the Royal Asiatic Society, 37* (1) (205), 126–165, p. 146. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/Main/) website.
 
-[^9]:National Library Board, 2009.
+[^9]:[National Library Board](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1146_2009-10-27.html), 2009.
 
-[^10]:Turnbull, C.M. (1969, March). The European mercantile community in Singapore, 1819–1867. Journal of Southeast Asian History (Singapore Commemorative Issue 1819–1969), 10 (1), 12–35, p. 17. Retrieved from JSTOR via NLB’s eResources website.
+[^10]:Turnbull, C.M. (1969, March). The European mercantile community in Singapore, 1819–1867. *Journal of Southeast Asian History (Singapore Commemorative Issue 1819–1969), 10* (1), 12–35, p. 17. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/Main/) website.
 
-[^11]:Logan, J.R. (1851, January). The Journal of the Indian Archipelago and Eastern Asia, V  (1), title page. Retrieved from BookSG.
+[^11]:Logan, J.R. (1851, January). *[The Journal of the Indian Archipelago and Eastern Asia, V](http://eresources.nlb.gov.sg/printheritage/detail/96e662cb-55ca-48bd-af98-a0a9b5d4eaa5.aspx)*  (1), title page. Retrieved from BookSG.
 
 [^12]:Thomson, Jun 1881, p. 78.
 
-[^13]:National Library Board, 2009.
+[^13]:[National Library Board](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1146_2009-10-27.html), 2009.
 
 [^14]:Turnbull, Mar, 1969, pp. 17–18.
 
-[^15]:Hose, Jul 1878, p. 2.
+[^15]:[Hose](http://eresources.nlb.gov.sg/printheritage/detail/a9e4b686-cde5-4fe9-92f3-789430f1ac38.aspx), Jul 1878, p. 2.
 
-[^16]:Bastin, J. (2007). English sources for the modern period of Indonesian history (pp. 266–267). In Soedjatmoko. (Ed.), An introduction to Indonesian historiography. Jakarta: Equinox Pub. (Call no.: RSEA 959.8 INT)
+[^16]:Bastin, J. (2007). English sources for the modern period of Indonesian history (pp. 266–267). In Soedjatmoko. (Ed.), *[An introduction to Indonesian historiography](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12876930)*. Jakarta: Equinox Pub. (Call no.: RSEA 959.8 INT)
 
-[^17]:Hose, Jul 1878, p. 3.
+[^17]:[Hose](http://eresources.nlb.gov.sg/printheritage/detail/a9e4b686-cde5-4fe9-92f3-789430f1ac38.aspx), Jul 1878, p. 3.
