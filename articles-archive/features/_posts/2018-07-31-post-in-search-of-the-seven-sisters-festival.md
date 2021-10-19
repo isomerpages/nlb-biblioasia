@@ -106,3 +106,51 @@ One of the main attractions for the throngs of visitors, sometimes as many as tw
 <div style="background-color: white;">
 Joss paper shops such as these in Chinatown would be the source of many of the paper offerings to the Seven Sisters and Cowherd, 1962. <i>Photograph by Wong Ken Foo. Courtesy of National Archives of Singapore.</i></div>
 
+The displays were usually held on the premises of organising clan associations and Seven Sisters associations. Long tables would be set up to showcase the wide variety of arts and crafts; bigger-scale displays would occupy both levels of a clan’s shophouse building, while smaller ones would just take up a corridor’s space.
+
+Visitors would typically go from one venue to another to admire and compare the crafts and skills of the makers. These displays would stay open, free-of-charge, until the next morning, and it was not unusual to see visitors streaming in as late as 3am.13
+
+Here, the oral history interviews abound in descriptions of visits to these exhibitions, which in themselves are testament to the significance of the experiences to these women. One interviewee, Cheong Swee Kee, said she found the festival exceptionally exciting as such night events rarely took place in Chinatown at the time.14
+
+Given the disappearance of the festival today and the absence of photographic documentation and preserved artefacts, the type of crafts and needlework presented at the Seven Sisters Festival can only be imagined via the detailed descriptions recounted by former Chinatown residents.
+
+Chia Yee Kwan describes how “… cuttlefish bones [were used] to make figurines, that were very life-like. Those figurines were based on people from the ancient times, such as *The Story of the Western Wing* [*The Romance of the Western Chambers*] and the *Three Kingdoms characters*…”.15
+
+A wide variety of materials were used, as former resident Lee Oi Wah explains:
+
+“Some were figurines, or miniature tables and chairs, sewn by hand; some were made with beads, tiny beads; some were made with sequins; some were made of dough… some used matchboxes to create a beautiful display”.16
+
+Foong Lai Kam remembers:
+
+“Most of the exhibits were made of fruit. They would stack fruit to create sculptures, such as using watermelon skin to carve out diamond or heart shapes, and stick them to create sculptures. They would display these for three days…”.17
+
+For former resident Fong Chiok Kai, what was memorable were works that used sesame and rice grains to depict mountains and rivers.18
+
+Most of these crafts were made by *amahs* and served as a showcase for them to show off their skills. According to oral history interviews, the *amahs* would work on the crafts throughout the year during their leisure time and after hours. Lee Oi Wah recalls:
+
+“In their leisure time, they would think about the crafts they could make, and these were their own creations, which is why the crafts had their creators’ distinctive style. So when we talk about the clothing for the seven sisters and the cowherd, we would know, ‘Oh, only this person is able to create such a beautiful set of clothing’”.
+
+She further elaborates:
+
+“On that night, there would be so many *majie*… they would take leave from their employers. They must attend this festival. To them, this festival was more important than the Chinese New Year, and they would be delighted when visitors praised the crafts, ‘Oh this is so beautiful’, or ‘Who had embroidered this piece of clothing? It is so well-done.’ They would feel that their hard work had been worthwhile, and delighted that there were so many visitors appreciating their craft”.19
+
+#### **The Eclipse of a Tradition**
+
+For a festival that used to be one of Chinatown’s most colourful and significant events, its eclipse was surprisingly rapid. By the 1970s, the festivities had been scaled down considerably. The few women who were asked about the festival’s decline proffered reasons such as education and changing attitudes in society, resulting in fewer believers in the community.
+
+Other reasons cited included lack of time to commit to the organising associations and the fact that the main organisers, the amahs, were advancing in age and fewer women were moving from China to Singapore to take their place.
+
+<img src="/images/Vol-14-issue-2/in-search-of-the-seven-sis/Festival6.JPG">
+<div style="background-color: white;">A stage performance of the <i>Seven Fairy Sisters</i> (七仙女) by the Sing Yong Wah Heng Teochew Opera Troupe, 1978. <i>Ronni Pinsler Collection, courtesy of National Archives of Singapore.</i></div>
+
+The oral history interviews in the collections of the National Archives are a critical resource in reconstructing this ephemeral phenomenon. In the case of the Seven Sisters Festival, the existence of a critical mass of interviews allows us to piece together detailed descriptions of the festival from the women who played different roles – as organiser, lay worshipper or visitor – and paint a textured, colourful account of times past.
+
+More critically, it enables the comparison of multiple accounts to arrive at a more accurate, corroborated reconstruction of an intangible, cultural episode that is now relegated to the annals of history.
+
+<br>
+<div style="background-color: white;">
+<img src="/images/Vol-14-issue-2/in-search-of-the-seven-sis/Festival7.jpg" style="width: 100px; height: 100px;">
+<b>Tan Chui Hua</b> is a researcher and a writer who has worked on various projects documenting the heritage of Singapore, including a number of heritage trails and publications.
+</div>
+
+<a href="https://biblioasia.nlb.gov.sg/vol-14/issue-2/jul-sep-2018/"><center>Back to Issue</center></a>
