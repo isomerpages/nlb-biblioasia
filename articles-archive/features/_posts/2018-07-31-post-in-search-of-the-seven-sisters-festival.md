@@ -163,16 +163,15 @@ More critically, it enables the comparison of multiple accounts to arrive at a m
 [^5]:Interviewee Teo Sok Koon briefly mentioned that Teochews marked the festival as well, and Goh Beng, another interviewee, discussed how Hokkiens observed the festival. See Tan, B.L. (Interviewer). (1992, December 7). [*Oral history interview with Teo Sok Koon*](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/c72bcd6a-115f-11e3-83d5-0050568939ad) [MP3 recording no. 001384/14/8] [Note: Interview was in Teochew] and Lim, I.A.L. (Interviewer). (1990, September 19). [*Oral history interview with Goh Beng*](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/99356ac3-115f-11e3-83d5-0050568939ad) [MP3 recording no. 001192/2/1]. [Note: Interview was in Hokkien]. Retrieved from National Archives of Singapore website. 
 [^6]:Yeo, L. F. (Interviewer). (1999, November 1). [*Oral history interview with Foong Lai Kum*](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/7eb9ba57-115e-11e3-83d5-0050568939ad) [MP3 recording no. 002226/12/2]. Retrieved from National Archives of Singapore website.
 [^7]:Chua, C.H.J. (Interviewer). (2013, January 25). [*Oral history interview with Chay Sheng Ern Abigail*](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/2202e4f6-1163-11e3-83d5-0050568939ad) [MP3 recording no. 003782/160/38]. Retrieved from National Archives of Singapore website. [Note: Interview was in English]
-[^8]:Oral history interview with Lee Oi Wah, 16 Oct 1999.
-[^9]:
-[^10]:
-
-
-
-
-
-
-
-
-Moey, K.K. (Interviewer). (2000, November 23). Oral history interview with Chia Yee Kwan [Transcript of MP3 recording no. 002381/45/40, p. 752]. Retrieved from National Archives of Singapore website. [Note: Interview was in Cantonese]
-Grim, B.J., et al. (2016). Yearbook of international religious demography 2016 (p. 29). The Netherlands: Koninklijke Brill. Retrieved from GoogleBooks website.
+[^8]:[*Oral history interview with Lee Oi Wah*](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/08587d7f-1160-11e3-83d5-0050568939ad), 16 Oct 1999.
+[^9]:Moey, K.K. (Interviewer). (2000, November 23). [*Oral history interview with Chia Yee Kwan*](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/eea61dd9-115e-11e3-83d5-0050568939ad-OHC002381_040/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png) [Transcript of MP3 recording no. 002381/45/40, p. 752]. Retrieved from National Archives of Singapore website. [Note: Interview was in Cantonese]
+[^10]:Grim, B.J., et al. (2016). *Yearbook of international religious demography 2016* (p. 29). The Netherlands: Koninklijke Brill. Retrieved from GoogleBooks website.
+[^11]:Stockard, J.E. (1989). *Daughters of the Canton delta: Marriage patterns and economic strategies in South China*, 1860–1930 (pp. 41–47). Stanford, Calif.: Stanford University Press. (Not available in NLB holdings)
+[^12]:[*Oral history interview with Chay Sheng Ern Abigail*](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/2202e4f6-1163-11e3-83d5-0050568939ad), 25 Jan 2013.
+[^13]:[*Oral history interview with Lee Oi Wah*](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/08587d7f-1160-11e3-83d5-0050568939ad), 16 Oct 1999.
+[^14]:Yeo, L.F. (Interviewer). (2000, June 3). [*Oral history interview with Cheong Swee Kee*](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/18eedd89-1160-11e3-83d5-0050568939ad) [MP3 recording no. 002315/9/8]. Retrieved from National Archives of Singapore website [Note: Interview was in English]
+[^15]:[*Oral history interview with Chia Yee Kwan*](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/eea61dd9-115e-11e3-83d5-0050568939ad-OHC002381_040/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png), 23 Nov 2000, p. 751.
+[^16]:[*Oral history interview with Lee Oi Wah*](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/08587d7f-1160-11e3-83d5-0050568939ad), 16 Oct 1999.
+[^17]:Yeo, L.F. (Interviewer). (1999, November 1). [*Oral history interview with Foong Lai Kum*](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/0fb5b366-1160-11e3-83d5-0050568939ad) [MP3 recording no. 002226/12/3]. Retrieved from National Archives of Singapore website. [Note: Interview was in Mandarin]
+[^18]:Tan, B.L., & Pitt, K.W. (1982, October 12). [*Oral history interview with Fong Chiok Kai*](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/d/df78efa8-115d-11e3-83d5-0050568939ad-OHC000185_017/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=11) [Transcript of MP3 recording no. 000185/32/17, p. 222]. Retrieved from National Archives of Singapore website. [Note: Interview was in Cantonese]
+[^19]:[*Oral history interview with Lee Oi Wah*](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/08587d7f-1160-11e3-83d5-0050568939ad), 16 Oct 1999.
