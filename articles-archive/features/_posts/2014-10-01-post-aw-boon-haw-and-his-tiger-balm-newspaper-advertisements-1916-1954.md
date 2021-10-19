@@ -35,7 +35,7 @@ Source: <i>Malayan Saturday Post</i>, 21 May 1927 ,p. 32.</div>
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-10-issue-3/tigerbalm/micky_makes_magic.jpg">
-Source: <i>The Straits Times</i>, 13 August 1946, p.3. All rights reserved, Singapore Press Holdings.</div>
+Source: <i>The Straits Times</i>, 13 August 1946, p.3. <i>All rights reserved, Singapore Press Holdings</i>.</div>
 
 #### **三、虎标四大良药的故事**
 
