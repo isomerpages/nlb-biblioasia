@@ -40,7 +40,7 @@ With the view of establishing a landed interest as far as the anticolonial princ
 
 However, Raffles remained anxious over whether Singapore would continue as a British settlement. This issue was not resolved until the following year, when the Dutch withdrew objections to the British occupation of Singapore with the signing of the Anglo-Dutch Treaty on 17 March 1824.[^12]
 
-In 2012, these four letters were part of an exhibition displaying 20 letters written by Raffles. The exhibition, “Raffles’ Letters: Intrigues Behind the Founding of Singapore”, was held at the National Library Gallery from 29 August 2012 to 28 February 2013. The letters, transcribed by Dr John Bastin, an eminent scholar and a leading authority on Raffles, were published in a book that Bastin authored called The Founding of Singapore 1819, produced by the National Library Board in conjunction with the exhibition. In 2014, the book was republished as Raffles and Hastings: Private Exchanges Behind the Founding of Singapore by NLB and Marshall Cavendish Editions.
+In 2012, these four letters were part of an exhibition displaying 20 letters written by Raffles. The exhibition, “Raffles’ Letters: Intrigues Behind the Founding of Singapore”, was held at the National Library Gallery from 29 August 2012 to 28 February 2013. The letters, transcribed by Dr John Bastin, an eminent scholar and a leading authority on Raffles, were published in a book that Bastin authored called *The Founding of Singapore 1819*, produced by the National Library Board in conjunction with the exhibition. In 2014, the book was republished as *Raffles and Hastings: Private Exchanges Behind the Founding of Singapore* by NLB and Marshall Cavendish Editions.
 
 **Written by:** Ong Eng Chuan
 
