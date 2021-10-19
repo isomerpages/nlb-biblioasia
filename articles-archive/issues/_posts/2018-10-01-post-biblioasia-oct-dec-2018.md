@@ -20,7 +20,7 @@ Advertisements targeting aspiring car owners have come a long way since the firs
 *Raphaël Millet* sits through a B-grade movie dismissed by critics as belonging to the genre of Eurospy flicks that parody James Bond – and discovers a slice of Singaporean celluloid history. [(PDF)](/files/pdf/vol-14/v14-issue3_FiveAshore.pdf)
 
 
-**Magic or Medicine: Malay Healing Practices** <br>
+**[Magic or Medicine: Malay Healing Practices](/vol-14/issue-3/oct-dec-2018/magic-or-med-m-heal/)** <br>
 Is traditional Malay medicine based on superstition and folklore or grounded in scientific evidence? *Nadirah Norruddin* uncovers the varying perceptions of Malay medicine in colonial Malaya. [(PDF)](/files/pdf/vol-14/v14-issue3_Magic.pdf)
 
 
@@ -46,13 +46,13 @@ Acclaimed poet and playwright *Robert Yeo* pays tribute to his daughter and a no
 **[சிங்கை பத்திரிகை விளம்பரங்கள் 1920-1960 வரை ஒரு பார்வ](/vol-14/issue-3/oct-dec-2018/tamil-print-adv/)ை**<br>
 *Sundari Balasubramaniam* examines Tamil print advertisements published between the 1920s and 1960s, and discovers fascinating insights of life during this period. [(PDF)](/files/pdf/vol-14/v14-issue3_Tamil.pdf)
 
-**Papers from the Past: The Lee Family Archives** <br>
+**[Papers from the Past: The Lee Family Archives](/vol-14/issue-3/oct-dec-2018/papers-from-past/)** <br>
 The personal papers of a noted Peranakan family provide a window into the lives of the Straits Chinese community during the colonial era, as *Ong Eng Chuan* reveals. [(PDF)](/files/pdf/vol-14/v14-issue3_Papers.pdf)
 
 
-**Makan Places and Coffee Socks** <br>
+**[Makan Places and Coffee Socks](/vol-14/issue-3/oct-dec-2018/makan-place-coffee-s/)** <br>
 *Barbara Quek* highlights publications that showcase Singapore’s unique hawker fare from the National Library’s Legal Deposit Collection. [(PDF)](/files/pdf/vol-14/v14-issue3_CoffeeSocks.pdf)
 
 
-**Archiving the Singapore-Wide Web** <br>
+**[Archiving the Singapore-Wide Web](/vol-14/issue-3/oct-dec-2018/archive-sg-wide-web/)** <br>
 Recent amendments to the National Library Board Act now allow the National Library to preserve Singapore websites without the express permission of content owners. *Shereen Tay* explains. [(PDF)](/files/pdf/vol-14/v14-issue3_WideWeb.pdf)
