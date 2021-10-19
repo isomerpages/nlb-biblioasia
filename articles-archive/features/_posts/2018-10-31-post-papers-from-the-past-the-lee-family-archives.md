@@ -6,7 +6,7 @@ layout: post
 ---
 #### The personal papers of a noted Peranakan family provide a window into the lives of the Straits Chinese community during the colonial era, as **Ong Eng Chuan** reveals.
 
-<img src="/images/Vol-14-issue-3/papers-from-the-past/PastPapers1.JPG">
+<img style="width: 650px; height: 380px;" src="/images/Vol-14-issue-3/papers-from-the-past/PastPapers1.JPG">
 <div style="background-color: white;">A notice on 29 April 1943 announcing the annual general meeting that was to take place on 2 May 1943 to elect a new committee for the Goh Loo Club（吾庐俱乐部). Members of the club were mainly of Hokkien ancestry and included prominent community leaders and businessmen such as the Straits Chinese luminary Lim Boon Keng. Goh Loo Club and Singapore Chinese Weekly Entertainment Club (中华维基利俱乐部), both located on Club Street, were leading Chinese social clubs of the time, providing a space for members to relax as well as socialise and network.</div>
 
 In 2016, the National Library Board received a donation of personal papers and documents from the family of Lee Kip Lee and Lee Kip Lin. Lee Kip Lee is a former president of The Peranakan Association, where he still holds the position of honorary life president for his contributions to the association during his 14-year tenure between 1996 and 2010. His younger brother, the late Lee Kip Lin (1925–2011) was equally well known as an architect, university professor and author of several books on Singaporean architecture.
