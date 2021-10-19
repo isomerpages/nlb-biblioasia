@@ -28,12 +28,12 @@ At aged 29, Harriette left the comforts of England for Sarawak in 1847 with her 
 
 Harriette lived in Sarawak for almost 20 years, returning to England several times in between and, in particular, between 1860 and 1862 to settle her older children at school, before returning to Sarawak with her youngest child.
 
-<img style="width: 350px; height: 450px;" src="/images/Vol-14-issue-2/globetrotting-mums/Globetrotting7.JPG">
+<img style="width: 650px; height: 400px;" src="/images/Vol-14-issue-2/globetrotting-mums/Globetrotting7.JPG">
 <div style="background-color: white;">Harriette McDougall’s kitchen at her home in Kuching, Sarawak. The kitchen was in a separate hut away from the main house due to fire considerations. The family reared cows, pigs and chickens as food supplies were unreliable and expensive. <i>Image reproduced from the website of St Thomas Cathedral Kuching.</i></div>
 
 Annie Brassey was born into a privileged family. She married Thomas Brassey, the son of a railway industrialist at age 21 in 1860, and when her husband turned to politics, Annie dutifully supported him in his work. He was later knighted and, in 1886, elevated to the peerage as Baron Brassey. The couple maintained a firm friendship with then British Prime Minister William Gladstone. Such connections likely helped smoothen their journeys to places like the Middle East, North America and parts of Europe and subsequently their tour of the world.
 
-<img style="width: 650px; height: 400px;" src="/images/Vol-14-issue-2/globetrotting-mums/Globetrotting4.JPG">
+<img style="width: 350px; height: 450px;" src="/images/Vol-14-issue-2/globetrotting-mums/Globetrotting4.JPG">
 <div style="background-color: white;">Portrait of Annie Brassey reproduced from Wikimedia Commons. <i>Original image from Brassey, T. (1917). The “Sunbeam”, R.Y.S.: Voyages and Experiences in Many Waters: Naval Reserves and other Matters. London: John Murray.</i></div>
 
 Annie’s well-known account – *A Voyage in the ‘Sunbeam’: Our Home on the Ocean for Eleven Months*[^4] – was published in 1878, barely two years after she departed in July 1876 on a world tour with her husband, four children, pet pugs and a crew of 30 men. Illustrated with drawings based on her photographs and descriptions, the book became so enormously popular that it was republished in various languages and in 19 editions altogether.
