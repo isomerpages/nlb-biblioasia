@@ -4,6 +4,10 @@ date: 2016-01-22
 permalink: /vol-11/issue-4/jan-mar-2016/rafflesletterintrigue
 layout: post
 ---
+<div style="background-color: white;"><br><img src="/images/vol-11-issue-4/raffles-letter-of-intrigue/01_rafflesletter.jpg">A letter from Stamford Raffles to Lord Lansdowne on display at the National Library’s Rare Collections Gallery on level 13 of the National Library Building. There are a total of 19 letters penned by Raffles in the possession of the National Library. <i>All rights reserved, National Library Board, Singapore.</i></div>
+
+<div style="background-color: white;"><br><img src="/images/vol-11-issue-4/raffles-letter-of-intrigue/02_rafflesletter.jpg">The signature of Stamford Raffles can be clearly seen at the bottom of this letter. <i>All rights reserved, National Library Board, Singapore.</i></div>
+
 Singapore was almost not founded by Stamford Raffles. Four letters that detail Raffles’ passionate defence to establish a British trading outpost on the island in 1819 offer insight into the objections he faced from the Dutch as well as his own British masters. Written between 1820 and 1823 to Henry Petty-Fitzmaurice, the 3rd Marquess of Lansdowne, the letters reveal the lengths that Raffles went to persuade his superiors at the British East India Company (EIC) of Singapore’s achievements and its growing importance as a regional trading hub.
 
 The first letter (17 pages) was dated 15 April 1820; the second letter (15 pages) 19 January 1821; the third (12 pages) 1 March 1822; and the fourth (7 pages) 20 January 1823.
@@ -56,11 +60,11 @@ In 2012, these four letters were part of an exhibition displaying 20 letters wri
 
 #### **NOTES**
 
-[^1]:Glendinning, V. (2012). Raffles and the golden opportunity 1781–1826 (p. 209). London: Profile Books. (Call no.: RSING 959.57021092 GLE); Turnbull, C.M. (2009). A history of modern Singapore, 1819–2005 (p. 29). Singapore: NUS Press. (Call no.: RSING 959.57 TUR)
+[^1]:Glendinning, V. (2012). *[Raffles and the golden opportunity 1781–1826](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14482247)* (p. 209). London: Profile Books. (Call no.: RSING 959.57021092 GLE); Turnbull, C.M. (2009). *[A history of modern Singapore, 1819–2005](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13206047)* (p. 29). Singapore: NUS Press. (Call no.: RSING 959.57 TUR)
 
-[^2]:Glendinning, 2012, p. 207; Tan, K., & Lim, C.S. (2012). Raffles’ letters: Intrigues behind the founding of Singapore (p. 75). Singapore: National Library Board. (Call no.: RSING 959.5703 TAN)
+[^2]:[Glendinning](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14482247), 2012, p. 207; Tan, K., & Lim, C.S. (2012). *[Raffles’ letters: Intrigues behind the founding of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14447075)* (p. 75). Singapore: National Library Board. (Call no.: RSING 959.5703 TAN)
 
-[^3]:Bastin, J. (2014). Raffles and Hastings: Private exchanges behind the founding of Singapore (pp. 210–211). Singapore: National Library Board Singapore [and] Marshall Cavendish Editions. (Call no.: RSING 959.5703 BAS); Tan & Lim, 2012, p. 19.
+[^3]:Bastin, J. (2014). *[Raffles and Hastings: Private exchanges behind the founding of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200867141)* (pp. 210–211). Singapore: National Library Board Singapore [and] Marshall Cavendish Editions. (Call no.: RSING 959.5703 BAS); [Tan & Lim](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14447075), 2012, p. 19.
 
 [^4]:Bastin, 2014, p. 148.
 
