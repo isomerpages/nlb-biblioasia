@@ -228,9 +228,9 @@ The really swanky eatery at Raffles Place was G.H. Café, a pre-war institution 
 [^38]:The phrase “shopping destination” did not appear in Singapore’s English-language press until a luxury brand advertisement in 1979. See [Page 7 advertisements column 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19790723-1.2.120.1). (1979, July 23). *The Straits Times*, p. 7. Retrieved from NewspaperSG.
 [^39]:Yeo, Z. (2017, October–December). [The way we were: Fashion through the decades](http://www.nlb.gov.sg/biblioasia/2017/10/12/the-way-we-were-fashion-through-the-decades/). *BiblioAsia, 13* (3); Yak, J., & Balasubramaniam, S. (2014, October–December). In vogue: Singapore fashion trends from 1960s to 1990s. [*BiblioAsia*](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx)*, 10* (3), 56–60; Ong, C., et al. (2016, January–March). [1960s fashion: The legacy of made-to-measure](http://www.nlb.gov.sg/biblioasia/2017/01/05/1960s-fashion-the-legacy-of-made-to-measure/). *BibllioaAsia, 12* (4). Retrieved from BiblioAsia website.
 [^40]:[Yak & Balasubramaniam](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx), Oct–Dec 2014, pp. 56–60.
-[^41]:
-[^42]:
-[^43]:
+[^41]:See for instance Teo, K.G. (Interviewer). (2013, November 13). [*Oral history interview with Christopher Choo Sik Kwong*](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/e7dc5ec1-4c52-11e3-9e07-0050568939ad) [MP3 recording no. 003828/13/01]; Sian, E.J. (Interviewer). (2010, January 18). [*Oral history interview with Francis Cheong*](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/b/b9f03ed1-1161-11e3-83d5-0050568939ad-OHC003444_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=11) [Transcript of MP3 recording no. 003444/04/01, pp. 6–7]. Retrieved from National Archives of Singapore website; National Library Board. (2014). [*Hands: Gift of a generation*](http://eresources.nlb.gov.sg/printheritage/detail/ef69a434-e514-4bb8-94e5-19375d3729d6.aspx) (p. 70). Retrieved from BookSG; Ng, W.S. (1960). *Weng’s memories*. Retrieved from Singapore Memory Project website; Lee, D. (1989, October 21). [From the sixties to SODA](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19891021-1.2.34.6.1). *The Business Times*, p. 18. Retrieved from NewspaperSG.
+[^42]:Low, M. (Interviewer). (2006, April 13). [*Oral history interview with Stella Kon*](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/1e587729-1161-11e3-83d5-0050568939ad) [MP3 recording no. 002996/36/12]; Tan, L. (Interviewer). (2001, May 22). [*Oral history interview with Mrs Jean Leembruggen*](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/0/0234cc7f-115f-11e3-83d5-0050568939ad-OHC002534_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=7) [Transcript of MP3 recording no. 002534/12/02, p. 20]. Retrieved from National Archives of Singapore website.
+[^43]:[Where to shop in Singapore: No. III, – High Street](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19390503-1.2.89). (1939, May 3). The Singapore Free Press, p. 12; [Singapore new department store opens](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19381014-1.2.159). (1938, October 14). The Malaya Tribune, p. 20; Chairman began his career as apprentice. (1965, April 2). The Straits Times, p. 12. Retrieved from NewspaperSG.
 [^44]:
 [^45]:
 [^46]:
@@ -238,3 +238,13 @@ The really swanky eatery at Raffles Place was G.H. Café, a pre-war institution 
 [^48]:
 [^49]:
 [^50]:
+
+
+
+The Straits Times, 2 Apr 1965, p. 12.
+Ong, T.K. (1984, August 13). ‘Sinkeh’ who became king of dept stores. The Singapore Monitor, p. 10. Retrieved from NewspaperSG.
+The Singapore Monitor, 13 Aug 1984, p. 10; See also Metro – past, present and into the future. (1982, September 9). The Business Times, p. 7. Retrieved from NewspaperSG.
+Oral history interview with Stella Kon, 13 Apr 2006.
+Oral history interview with Victor Chew Chin Aik, 3 Nov 1997; Big new Singapore store. (1938, July 24). The Straits Times, p. 1; BATA’s new premises. (1940, June 26). The Malaya Tribune, p. 4. Retrieved from NewspaperSG.
+Oral history interview with Lee Geok Boi, 22 Jul 2002, p. 15.
+Oral history interview with Victor Chew Chin Aik, 3 Nov 1997, p. 51.
