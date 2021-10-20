@@ -119,9 +119,21 @@ Across the Singapore River, a stone’s throw from the stately Supreme Court and
 
 By the 1950s and 60s, these streets had become well known for shops and businesses owned by the South Asian community. Entrepreneurial Sindhis, Sinhalese, Gujaratis, Tamil Muslims and Sikhs established shops such as Wassiamull Assomull & Co. (established 1873; likely the first Sindhi trader in Singapore), Chotirmall, S.A. Majeed & Co., Khemchand and Sons, Pamanand Brothers, Modern Silk Store, Taj Mahal and Bajaj Textiles, which relocated here from Raffles Place.36
 
+<img src="/images/Vol-14-issue-2/going-shopping-in-the-60s/Shopping5.JPG">
+<div style="background-color: white;">Bajaj Textiles – which relocated from Raffles Place to High Street – advertising its latest textiles. <i>Image reproduced from The Singapore Free Press, 28 April 1956, p. 2.</i></div>
+
 Girishchandra Kothari recalls there being “50 to 60 shops all catering to textiles, retail plus wholesale, and about 500 other textile wholesalers at the time in High Street alone, all Indians”.37 While these numbers are likely exaggerated, it nevertheless suggests that the area was already morphing into what we would today call a “shopping destination”.38
 
 This was a time before ready-to-wear, off-the rack fashion became affordable for the masses. Instead, most families bought fabric by the yard to tailor-make their clothes at home, or engage the services of a professional tailor.
 
-<img src="/images/Vol-14-issue-2/going-shopping-in-the-60s/Shopping5.JPG">
-<div style="background-color: white;">Bajaj Textiles – which relocated from Raffles Place to High Street – advertising its latest textiles. <i>Image reproduced from The Singapore Free Press, 28 April 1956, p. 2.</i></div>
+This was also the time when Singaporeans were becoming more exposed to Western popular culture, thanks to film and television, rock and roll music on the radio, and local fashion magazines such as *Fashion*, *Fashion Mirror* and *Her World*.39 With the music of Elvis Presley, the Supremes and Cliff Richard and the Shadows came magazines and photographs showcasing their hair and fashion styles.
+
+By the mid-1960s, the world had been introduced to Mary Quant’s miniskirt, among other fashion trends. In Singapore, Chinese-language magazines, *Lucky Fashion Magazine* and *Shee Zee Fashion*, carried dress patterns so that budding fashionistas could sew their own miniskirts.40
+
+High Street became the first port of call for people looking for all kinds of textiles, from durable cloth for everyday wear to the latest, flashiest fabrics to be sewn into trendy designs. Women were typically saddled with the responsibility of sewing or at least getting clothing tailored for their families. Many Singaporeans who were children in the 1960s – including at least three who became fashion designers – remember accompanying their mothers on these shopping expeditions.41
+
+<img src="/images/Vol-14-issue-2/going-shopping-in-the-60s/Shopping6.JPG">
+<div style="background-color: white;">Shopfronts of Metro and Wassiamull’s at High Street, another popular shopping hub from yesteryear, 1964. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
+Stella Kon describes a typical shopping trip: “If I’m looking to buy some dress material, I start from the lower end of High Street and I walk up High Street and turn along North Bridge Road, shopping all the way”. Even Puan Noor Aishah, wife of Singapore’s first president, Yusof Ishak, frequented shops at High Street for fine silks and satins to make into outfits.42
+
