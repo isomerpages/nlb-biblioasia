@@ -31,3 +31,19 @@ Raffles’ views on education, gambling, slavery and other such issues of his ti
 Today, the school that has been renamed Raffles Institution has churned out some of the nation’s brightest minds, and ironically viewed by some, fairly or unfairly, as an institution for the elite.
 
 **Written by:** Timothy Pwee
+
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>ABOUT THE BOOK</b>
+<br><br>
+<b>Title:</b> Formation of the Singapore Institution, A.D. 1823
+<br>
+<b>Author:</b> Stamford Raffles (1781–1826)
+<br>
+<b>Year published</b>: 1823
+<br>
+<b>Publisher:</b> Mission Press (Malacca)
+<br>
+<b>Language:</b> English
+<br>
+<b>Type:</b> Book; 110 pages
+<br>
+<b>Location:</b> Call no.: RARE 373.5957 FOR; Microfilm no.: NL28988</span>
