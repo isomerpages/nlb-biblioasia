@@ -6,14 +6,14 @@ layout: post
 ---
 #### **Tim Bunnell** speaks to former Malay sailors who reside in the English city and learns how they manage to sustain their identity in a city so removed from home.
 
-<img src="/images/Vol-14-issue-2/malay-seafarers-in-liverpool/Seafarers1.JPG">
+<img style="width: 650px; height: 450px;" src="/images/Vol-14-issue-2/malay-seafarers-in-liverpool/Seafarers1.JPG">
 <div style="background-color: white;">Malay seafarers in Liverpool sent postcards “home” to villages, towns and cities in Southeast Asia. This is one such postcard sent by Carrim Haji Quigus Rahim on 28 January 1989. Carrim was the man from whom Abdul Rahim Daud had rented a room in the early 1970s. The latter began his studies at Liverpool University in 1970 and was a frequent visitor to the Malay Club at 7 Jermyn Street as a student. <i>Courtesy of Noegroho Andy Handojo.</i></div>
 
 Liverpool saw extremes of both prosperity and decline in a span of just two centuries.[^1] Between the 18th and early 20th centuries, the British city on the northwestern coast of England, where the River Mersey meets the Irish Sea, was a major global trade and migration port. During the Industrial Revolution that took place from around 1760 to 1840, Liverpool’s role as the main gateway in the West for raw materials and finished goods, along with the ships that called there, were instrumental in developing Britain’s trading links with North and South America, West Africa, the Middle and Far East, and Australia.
 
 At the end of the 19th century, Liverpool’s four major import trades – cotton, sugar, timber and grain – flourished and its dock force alone numbered 30,000.[^2] But in the last three decades of the 20th century, the one-time “world city” fell into economic decline, and by the early 1980s, unemployment rates in Liverpool were among the highest in the United Kingdom.[^3]
 
-<img src="/images/Vol-14-issue-2/malay-seafarers-in-liverpool/Seafarers2.JPG">
+<img style="width: 650px; height: 400px;" src="/images/Vol-14-issue-2/malay-seafarers-in-liverpool/Seafarers2.JPG">
 <div style="background-color: white;">(Left) An illustration depicting the port of Liverpool during its heyday in the 1950s. <i>Image reproduced from flickr.</i><br>
 (Right) An advertisement by the Blue Funnel Line promoting its sailings to Port Said, China, the Straits, South Africa and Australia. Between the 1940s and 60s, many Malay men from Southeast Asia worked as seafarers on board vessels owned by the line. <i>Image reproduced from back cover of The Annual of the East. (1930). London: Alabaster, Passmore & Sons. (Accession no.: B02921323K; Microfilm no.: NL257391).</i></div>
 
@@ -62,7 +62,7 @@ Surviving records reveal that an agreement was signed on 4 June 1963 to purchase
 
 Bahazin, who was born in Perak, Malaya, in 1924, became the first president of the club at its new location, and also assumed the all-important role of cook. As had been the case at St James Road, the clubhouse on Jermyn Street included a prayer room. However, Bahazin is remembered as having been less strict than Johan Awang with regard to the activities that could take place in the club.
 
-<img src="/images/Vol-14-issue-2/malay-seafarers-in-liverpool/Seafarers5.JPG">
+<img style="width: 350px; height: 450px;" src="/images/Vol-14-issue-2/malay-seafarers-in-liverpool/Seafarers5.JPG">
 <div style="background-color: white;">Bahazin Bin-Kassim was born in Kuala Kangsar, Perak, in 1924. He became the first president of the Malay Club at its No. 7 Jermyn Street location and also assumed the role of cook. He lived next door at No. 5 with his English wife. Bahazin died in the 1980s but his family home continued to provide lodging for Liverpool-based and visiting Malay men. Photo was taken in the early 1970s. <i>Courtesy of Abdul Rahim Daud.</i></div>
 
 Food was available during the fasting month of Ramadan, for example, and Bahazin would say that it was “between you and God” whether it was eaten or not. Bahazin bought the house next to the club – No. 5 – and lived there with his English wife. With Malay lodgers staying at both numbers 5 and 7, Jermyn Street became a place in Liverpool where it was always possible to find Malay banter and spicy food.
@@ -91,7 +91,7 @@ Abdul Rahim Daud was one of only two Malay students from Malaysia who began stud
 
 By this time, Liverpool was no longer the thriving city and maritime port it once had been. Granby Street, near the Malay Club’s second home in the Liverpool 8 district, had been a busy commercial thoroughfare in the 1960s. In the following decade, however, the area became synonymous with “inner-city” social and economic problems arising in part from Liverpool’s diminished position in the national and international arena. Media coverage of the infamous street disturbances in Liverpool in the 1980s marked the city on national mental maps as the “new Harlem of Liverpool”, and it came to be seen as the epitome of British post-imperial and post-industrial urban decline.
 
-<img src="/images/Vol-14-issue-2/malay-seafarers-in-liverpool/Seafarers6.JPG">
+<img style="width: 650px; height: 400px;" src="/images/Vol-14-issue-2/malay-seafarers-in-liverpool/Seafarers6.JPG">
 <div style="background-color: white;">The section of Jermyn Street that includes the Malay Club at No. 7. Photo taken in December 2003. <i>Courtesy of Tim Bunnell.</i></div>
 
 Opportunities for dock work, particularly, were badly affected, with total employment in 1979 being less than half of what it was in 1967. In 1979, it was reported that five or six out of every 10 Malay men in the city were unemployed and receiving social security payments.[^14] Retrenched from Gladstone Dock in 1978, Mat Nor used some of the redundancy money to pay for a return trip to Malaysia with his Liverpool-born family.
@@ -125,9 +125,3 @@ When I first visited in December 2003, the Malay Club was one of only two buildi
 [^12]:In terms of music, it was not only the Beatles but also the wider Merseybeat phenomenon that made Liverpool “a source of wonder to the world”. See Du Noyer, P. (2007). *Liverpool: Wondrous place, from the cavern to the capital of culture* (p. 84). London: Virgin Books. (Not available in NLB holdings) In football, during the 1960s, Bill Shankly managed the Liverpool Football Club to unprecedented success.
 [^13]:Interview with Abdul Rahim Daud, Kuala Lumpur, 6 November 2008.
 [^14]:A. Ghani Nasir. (1979, October 21). [Kampung Melayu di Bandar Liverpool](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19791021-1.2.16) [The Malay village in the city of Liverpool]. *Berita Harian*, p. 3. Retrieved from NewspaperSG.
-
-
-
-
-
-
