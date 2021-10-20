@@ -6,7 +6,7 @@ layout: post
 ---
 #### What was the act of shopping like for a generation that was more concerned about putting food on the table? **Yu-Mei Balasingamchow** ponders over our penchant for shopping.
 
-<img src="/images/Vol-14-issue-2/going-shopping-in-the-60s/Shopping1.JPG">
+<img style="width: 380px; height: 480px;" src="/images/Vol-14-issue-2/going-shopping-in-the-60s/Shopping1.JPG">
 <div style="background-color: white;">In the 1950s and 60s, Change Alley was a shopping haven for locals and tourists. The narrow street flanked by shops and makeshift kiosks connected Raffles Place with Collyer Quay. Photographed in 1970. <i>Source: The Straits Times © Singapore Press Holdings Limited. Reprinted with permission.</i></div>
 
 Ask anyone who lived in 1960s Singapore where they used to shop in town, and they will invariably give one of two answers: Raffles Place, or High Street and North Bridge Road.
@@ -19,7 +19,7 @@ Over the years, Singapore has become more and more of a consumerist society: the
 
 Looking back at the 1950s and 60s, it is not surprising that people think of Singapore’s shopping areas as culturally important, even though they did not “hang out” there as people do these days in Orchard Road, or they might acknowledge how small and unsophisticated these shops were compared with today’s swanky air-conditioned malls.[^3]
 
-<img src="/images/Vol-14-issue-2/going-shopping-in-the-60s/Shopping2.JPG">
+<img style="width: 350px; height: 450px;" src="/images/Vol-14-issue-2/going-shopping-in-the-60s/Shopping2.JPG">
 <div style="background-color: white;">Shopping in the 1960s Singapore was an entirely different experience. Most of the shops then were standalone outlets compared with the glitzy air-conditioned malls found all over the islands today, 1969. <i>George W. Porter Collection, courtesy of National Archives of Singapore.</i></div>
 
 This cultural shift is something to bear in mind as we take a closer look at these old shopping hubs. As focal points of cultural importance, what were they like, how are they remembered and what did they represent to people in the past (and perhaps, in the present as well)?
@@ -28,7 +28,7 @@ This cultural shift is something to bear in mind as we take a closer look at the
 
 No one thinks of Raffles Place as a shopping destination these days, but it was once home to the grand dames of Singapore’s department stores: John Little & Co., established in 1845 (originally Little, Cursetjee & Co.) and Robinson & Co., established in 1858.[^4] Both originated as general stores that imported goods catering to European tastes, and chose Raffles Place for good reason – to be close to the prosperous European and Asian businesses and people with purchasing power.
 
-<img src="/images/Vol-14-issue-2/going-shopping-in-the-60s/Shopping3.JPG">
+<img style="width: 350px; height: 450px;" src="/images/Vol-14-issue-2/going-shopping-in-the-60s/Shopping3.JPG">
 <div style="background-color: white;">Robinson’s touting itself as the place “for all your shopping needs” and “just what the tourist requires” with its 38 departments, a restaurant, and hairdressing salons for men and women. <i>Image reproduced from Miller, H. (1956). The Traveller’s Guide to Singapore (p. 10). Singapore: D. Moore. (Call no.: RCLOS 915.951 MIL).</i></div>
 
 By the 1950s, both department stores had become landmark shopping icons facing each other across Raffles Place, while a third establishment, Whiteaway, Laidlaw & Co., was just up the road beside Fullerton Square.[^5] Whiteaway’s – as it was commonly referred to – was the branch of a department store chain founded by two Scotsmen in Calcutta in 1882 and had been operating in Singapore since 1900.[^6]
@@ -49,7 +49,7 @@ Indeed, the annual Robinson’s sale is mentioned regularly by oral history inte
 
 On the morning of the sale, long queues of people would snake outside the store, eagerly waiting for it to open. *The Singapore Standard* and other newspapers would publish photographs of huge crowds at the annual sales events of Robinson’s, John Little and Gian Singh.
 
-<img src="/images/Vol-14-issue-2/going-shopping-in-the-60s/Shopping4.JPG">
+<img style="width: 650px; height: 400px;" src="/images/Vol-14-issue-2/going-shopping-in-the-60s/Shopping4.JPG">
 <div style="background-color: white;">John Little department store at Raffles Place, 1930. Its facade inspired the design of Raffles Place MRT station’s entrances. <i>Lim Kheng Chye Collection, courtesy of National Archives of Singapore.</i></div>
 
 Ultimately, Robinson’s outlived its competitors at Raffles Place, even acquiring John Little in 1955. In 1960, the latter vacated its premises in the business district to open branches in other parts of Singapore (although the building remained until 1973 and its striking architectural façade inspired the design of the Raffles Place MRT station entrances).[^16]
@@ -119,7 +119,7 @@ Across the Singapore River, a stone’s throw from the stately Supreme Court and
 
 By the 1950s and 60s, these streets had become well known for shops and businesses owned by the South Asian community. Entrepreneurial Sindhis, Sinhalese, Gujaratis, Tamil Muslims and Sikhs established shops such as Wassiamull Assomull & Co. (established 1873; likely the first Sindhi trader in Singapore), Chotirmall, S.A. Majeed & Co., Khemchand and Sons, Pamanand Brothers, Modern Silk Store, Taj Mahal and Bajaj Textiles, which relocated here from Raffles Place.[^36]
 
-<img src="/images/Vol-14-issue-2/going-shopping-in-the-60s/Shopping5.JPG">
+<img style="width: 350px; height: 450px;" src="/images/Vol-14-issue-2/going-shopping-in-the-60s/Shopping5.JPG">
 <div style="background-color: white;">Bajaj Textiles – which relocated from Raffles Place to High Street – advertising its latest textiles. <i>Image reproduced from The Singapore Free Press, 28 April 1956, p. 2.</i></div>
 
 Girishchandra Kothari recalls there being “50 to 60 shops all catering to textiles, retail plus wholesale, and about 500 other textile wholesalers at the time in High Street alone, all Indians”.[^37] While these numbers are likely exaggerated, it nevertheless suggests that the area was already morphing into what we would today call a “shopping destination”.[^38]
@@ -132,14 +132,14 @@ By the mid-1960s, the world had been introduced to Mary Quant’s miniskirt, amo
 
 High Street became the first port of call for people looking for all kinds of textiles, from durable cloth for everyday wear to the latest, flashiest fabrics to be sewn into trendy designs. Women were typically saddled with the responsibility of sewing or at least getting clothing tailored for their families. Many Singaporeans who were children in the 1960s – including at least three who became fashion designers – remember accompanying their mothers on these shopping expeditions.[^41]
 
-<img src="/images/Vol-14-issue-2/going-shopping-in-the-60s/Shopping6.JPG">
+<img style="width: 650px; height: 380px;" src="/images/Vol-14-issue-2/going-shopping-in-the-60s/Shopping6.JPG">
 <div style="background-color: white;">Shopfronts of Metro and Wassiamull’s at High Street, another popular shopping hub from yesteryear, 1964. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 Stella Kon describes a typical shopping trip: “If I’m looking to buy some dress material, I start from the lower end of High Street and I walk up High Street and turn along North Bridge Road, shopping all the way”. Even Puan Noor Aishah, wife of Singapore’s first president, Yusof Ishak, frequented shops at High Street for fine silks and satins to make into outfits.[^42]
 
 High Street also boasted of department stores to rival those at Raffles Place. Two had been around since the 1930s: Aurora, established by Tan Hoan Kie as the Singapore branch of a chain from Java and a landmark at the corner of High Street and North Bridge Road; and Peking, started by Kuo Fung Ting who was born in the Chinese capital, hence the name of  his shop.[^43] Kuo decided to convert Peking from a curio shop into a department store in the 1950s when he realised that “after the war, the tendency would be for people to be more fashion-conscious. They would want more of the latest fashions in clothes, and other things synonymous with prosperity”.[^44]
 
-<img src="/images/Vol-14-issue-2/going-shopping-in-the-60s/Shopping7.JPG">
+<img style="width: 650px; height: 380px;" src="/images/Vol-14-issue-2/going-shopping-in-the-60s/Shopping7.JPG">
 <div style="background-color: white;">Aurora department store at the junction of High Street and North Bridge Road, 1965. <i>Courtesy of National Archives of Singapore.</i></div>
 
 In 1957, Aurora and Peking were joined by the first Metro department store at High Street, set up by Ong Tjoe Kim, an immigrant from Xiamen, China, who had worked in department store chains in Java. A movie buff, he named his store after the Hollywood studio Metro-Goldwyn-Mayer and invited Hong Kong actress Li Mei to officiate at its grand opening.[^45] As one Singapore newspaper recalled in 1984, “the triangle among the three department stores – Aurora, Peking, and Metro – became a big attraction for the shoppers during the late 1950s”.[^46]
@@ -148,7 +148,7 @@ Unlike the air-conditioned and somewhat sterile modern shopping mall experience 
 
 Reminiscing about the area, Stella Kon says: “The picture that flashes in my mind is hot sunshine and dust and shadowy cool shops”.[^47] Besides the fashion boutiques, textile merchants and department stores, there was Ensign Bookstore, the legendary Polar Café, music stores such as TMA and Swee Lee, camera shops such as Ruby Photo and Amateur Photo Store, and Bata, an international shoe store chain of Czech origin at North Bridge Road. Many people remember Bata for selling affordable footwear – especially its trademark white canvas school shoes – to several generations of Singaporeans.[^48]
 
-<img src="/images/Vol-14-issue-2/going-shopping-in-the-60s/Shopping8.JPG">
+<img style="width: 350px; height: 450px;" src="/images/Vol-14-issue-2/going-shopping-in-the-60s/Shopping8.JPG">
 <div style="background-color: white;">Aurora’s “Seeing is Believing” sale offering textile goods and other “ready made-up goods”. <i>Image reproduced from The Singapore Free Press, 25 August 1958, p. 1.</i></div>
 
 Although the vibe and buzz of High Street appear to be warmly remembered by many, these shops, like the department stores at Raffles Place, were not within the financial reach of most Singaporeans. It is perhaps their aspirational significance that resonates more deeply among people than any specific purchase, as Lee Geok Boi reflects of her family’s visits to High Street: “Most of the time we couldn’t afford anything. But we went there to look anyway”.[^49]
@@ -173,7 +173,7 @@ Magnolia was also where teachers treated their students to ice cream and friends
 <br><br>
 Over at Raffles Place, there was a Honey Land Milk Bar, a casual snack bar at the corner of Raffles Place and Battery Road. Run by a Mr Tan, it sold ice cream, cream puffs, curry puffs and soft drinks. Victor Chew remembers that it was the only “soda fountain shop” or “ice cream parlour” in the area that sold deliciously frothy milkshakes. Although it was only a small place and had high stools for customers, it “did roaring business”.[^57]
 <br><br>
-	<img src="/images/Vol-14-issue-2/going-shopping-in-the-60s/Shopping9.JPG">An advertisement for one of several Magnolia Milk Bar outlets operated by Cold Storage back in 1938. Two of its most popular outlets were found in Orchard Road and at Capitol Theatre, at the junction of Stamford and North Bridge roads. <i>Image reproduced from Come to Malaya and Travel by Train, November 1938 (p.44). (1938). Singapore: East Indies Pub. (Accession no.: B20025405G; Microfilm no.: NL29343).</i>
+	<img style="width: 350px; height: 450px;" src="/images/Vol-14-issue-2/going-shopping-in-the-60s/Shopping9.JPG">An advertisement for one of several Magnolia Milk Bar outlets operated by Cold Storage back in 1938. Two of its most popular outlets were found in Orchard Road and at Capitol Theatre, at the junction of Stamford and North Bridge roads. <i>Image reproduced from Come to Malaya and Travel by Train, November 1938 (p.44). (1938). Singapore: East Indies Pub. (Accession no.: B20025405G; Microfilm no.: NL29343).</i>
 	<br><br>
 The really swanky eatery at Raffles Place was G.H. Café, a pre-war institution on Battery Road that was actually a bona fide restaurant with “white tablecloths and proper cutlery”. The origins of its name are speculative: some accounts say it began as the G.H. (Grand Hotel) Sweet Shop, another claimed it was named after a woman, Gertrude How, who used to run it. Whatever the case, G.H. Café was the lunchtime haunt of lawyers, shippers, traders and civil servants.[^58] Such was the café’s draw that it was even memorialised in Singaporean author and poet Goh Poh Seng’s first novel, *If We Dream Too Long* (1972):
 <br><br>
@@ -247,11 +247,3 @@ The really swanky eatery at Raffles Place was G.H. Café, a pre-war institution 
 [^57]:[*Oral history interview with Victor Chew Chin Aik*](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/f/f1078164-115e-11e3-83d5-0050568939ad-OHC001965_005/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=3), 3 Nov 1997, p. 46; See also Lee, P. (Interviewer). (1997, October 23). [*Oral history interview with Yuen Andrew Kum Hong*](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/e6e660f7-115e-11e3-83d5-0050568939ad?keywords=Yuen%20Andrew%20Kum%20Hong%20&keywords-type=all) [MP3 recording no. 001962/06/04]; Lee, P. (Interviewer). (1997, November 3). [*Oral history interview with Hugh William Jamieson*](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/6a37bedd-1161-11e3-83d5-0050568939ad?keywords=Hugh%20William%20Jamieson&keywords-type=all) [MP3 recording no. 001968/02/01]. Retrieved from National Archives of Singapore website.
 [^58]:[*Oral history interview with Hugh William Jamieson*](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/6a37bedd-1161-11e3-83d5-0050568939ad?keywords=Hugh%20William%20Jamieson&keywords-type=all), 3 Nov 1997; Savage, V.R., & Yeoh, B.S.A. (2013). [*Singapore street names: A study of toponymics*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200123850) (p. 31). Singapore: Marshall Cavendish Editions. (Call no.: RSING 915.9570014 SAV); Lim, H.S. (Interviewer). (1981, July 2). [*Oral history interview with Rajabali Jumabhoy*](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/d/dfa0f8f1-115d-11e3-83d5-0050568939ad-OHC000074_005/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=5) [Transcript of MP3 recording no. 000074/37/05, p. 37]; [*Oral history interview with Jon Metes*](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/f8ce2e0c-115e-11e3-83d5-0050568939ad), 21 May 2002; Lim, C.Y., & Tan, C.L. (2017). [*Lim Chong Yah: An autobiography: Life journey of a Singaporean professor*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202721890) (p. 68). Singapore: WS Professional. (Call no.: RSING 330.092 LIM)
 [^59]:Goh, P.S. (1972). [*If we dream too lon*g](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082086) (p. 33). Singapore: Island Press. (Call no.: RSING 828.99 GOH)
-
-
-
-
-
-
-
-
