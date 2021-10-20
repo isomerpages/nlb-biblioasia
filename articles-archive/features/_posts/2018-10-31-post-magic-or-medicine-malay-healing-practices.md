@@ -162,6 +162,12 @@ One of the most notable Malay medical manuscripts translated into English is Ism
 <td> 5 young shoots of betel vine <br>Red onion <br>Fennel seeds</td>
 <td> <i>Daun medan</i> (root of an unidentified plant) <br> 7 kernels of the fruit of the candle nut</td>	
 </tr>
+	  <tr>
+    <td> Method</td>
+    <td>Pound all ingredients together and mix with honey to form into tablets. Patient to take tablets until course of treatment is complete.</td>
+    <td>Grind finely. Place the pulp on a piece of cloth. Squeeze the juice into the patient’s eyes for three days.</td>
+		<td>Reduce both ingredients to fine pulp. Apply to patient’s head.</td>
+  </tr>
 </table>
 
 
