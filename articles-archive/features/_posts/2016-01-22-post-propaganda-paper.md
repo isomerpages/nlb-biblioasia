@@ -58,3 +58,33 @@ The section in the papers that were probably of most interest to local readers w
 <b>Type:</b> Newspaper
 <br>
 <b>Location:</b> Call no.: RRARE 079.5957 ZNRB; Microfilm nos.: NL7967 (21 February to 30 June 1942), NL20482 (21 February to 30 September 1942), NL2855 (1 July to 12 November 1942), NL20483 (1 October 1942–30 June 1943), NL2856 (13 November 1942 to 17 June 1943), NL20484 (1 July 1943– 31 May 1944), NL7523 (14 March to 17 August 1945)</span>
+
+#### **NOTES**
+
+[^1]:Lee, G.B. (2005). The Syonan years: Singapore under Japanese rule 1942–1945 (pp. 19, 270). Singapore: National Archives of Singapore and Epigram Pte Ltd. (Call no.: RSING q940.53957 LEE); The meaning of Syonan. (1942, February 21). The Syonan Times, p. 1. Retrieved from NewspaperSG.
+
+Pitt, K.W., & Leong, W.K. (Eds.). (2009). Syonan years 1942–1945: Living beneath the rising sun (p. 112). Singapore: National Archives of Singapore. (Call no.: RSING 940.530745957 TAN); The Shonan Times. (1942, February 20). The Shonan Times, p. 1. Retrieved from NewspaperSG.
+
+Turnbull, C.M. (1995). Dateline Singapore: 150 years of The Straits Times (p. 116). Singapore: Singapore Press Holdings. (Call no.: RSING 079.5957 TUR); The Shonan Times, 20 Feb 1942, p. 1; The Syonan Times, 21 Feb 1942, p. 1.
+
+Syonan Sinbun issues first edition today in Japanese and English. (1942, December 8). The Syonan Sinbun, p. 1. Retrieved from NewspaperSG.
+
+The Syonan Shimbun. (1943, December 8); The Syonan Shimbun. (1945, September 4).
+
+Zhaonan ri bao. (1942, February 21); Lim, L.H. (Interviewer). (2006, March 20). Oral history interview with Chua Kian Aik [Transcript of MP4 recording no. 003033/10/07, p. 146]. Retrieved from National Archives of Singapore website.
+
+Zhaonan ri bao. (21 February 1942–31 May 1944).
+
+The Syonan Sinbun (8 December 1942–7 December 1943); The Shonan Times, 20 Feb 1942–7 Dec 1942; The Syonan Sinbun, 8 Dec 1942–7 Dec 1943; The Syonan Shimbun, 8 Dec 1943–4 Sep 1945; Zhaonan ri bao, 21 Feb 1942–31 May 1944.
+
+Lee, 2005, pp. 114–115; 昭南日报社 [Zhaonan ri bao she]. (1943). 昭南岛新生一年间 [Zhaonan Dao xin sheng yi nian jian] (p. 8). 昭南島: 昭南日报出版 社. (Call no.: RRARE 959.57 CNJ; Microfilm: NL24365)
+
+Zhaonan ri bao, 21 Feb 1942–31 May 1944.
+
+The Shonan Times, 20 Feb 1942–7 Dec 1942; The Syonan Sinbun, 8 Dec 1942–7 Dec 1943; The Syonan Shimbun, 8 Dec 1943–4 Sep 1945.
+
+Lee, 2005, pp. 114–115.
+
+Turnbull, 1995, p. 120.
+
+The Shonan Times, 20 Feb 1942–7 Dec 1942; The Syonan Sinbun, 8 Dec 1942–7 Dec 1943; The Syonan Shimbun, 8 Dec 1943–4 Sep 1945.
