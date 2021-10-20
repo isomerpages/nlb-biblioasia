@@ -28,7 +28,7 @@ The National Library holds two copies of the 1837 edition of *Notices*, and two 
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>ABOUT THE BOOK</b>
 <br><br>
-<b>Title:</b> <i><a href="">Notices of the Indian Archipelago, and Adjacent Countries: Being a Collection of Papers Relating to Borneo, Celebes, Bali, Java, Sumatra, Nias, the Philippine islands, Sulus, Siam, Cochin China, Malayan Peninsula, etc.</a></i>
+<b>Title:</b> <i><a href="https://eresources.nlb.gov.sg/printheritage/detail/f9d3332f-3612-46d3-b134-b254d106aaf9.aspx">Notices of the Indian Archipelago, and Adjacent Countries: Being a Collection of Papers Relating to Borneo, Celebes, Bali, Java, Sumatra, Nias, the Philippine islands, Sulus, Siam, Cochin China, Malayan Peninsula, etc.</a></i>
 <br>
 <b>Author:</b> John Henry Moor (1802–43)
 <br>
