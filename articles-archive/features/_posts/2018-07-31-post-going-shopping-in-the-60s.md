@@ -228,12 +228,13 @@ The really swanky eatery at Raffles Place was G.H. Café, a pre-war institution 
 [^38]:The phrase “shopping destination” did not appear in Singapore’s English-language press until a luxury brand advertisement in 1979. See [Page 7 advertisements column 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19790723-1.2.120.1). (1979, July 23). *The Straits Times*, p. 7. Retrieved from NewspaperSG.
 [^39]:Yeo, Z. (2017, October–December). [The way we were: Fashion through the decades](http://www.nlb.gov.sg/biblioasia/2017/10/12/the-way-we-were-fashion-through-the-decades/). *BiblioAsia, 13* (3); Yak, J., & Balasubramaniam, S. (2014, October–December). In vogue: Singapore fashion trends from 1960s to 1990s. [*BiblioAsia*](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx)*, 10* (3), 56–60; Ong, C., et al. (2016, January–March). [1960s fashion: The legacy of made-to-measure](http://www.nlb.gov.sg/biblioasia/2017/01/05/1960s-fashion-the-legacy-of-made-to-measure/). *BibllioaAsia, 12* (4). Retrieved from BiblioAsia website.
 [^40]:[Yak & Balasubramaniam](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx), Oct–Dec 2014, pp. 56–60.
-
-
-
-
-
-
-
-
-
+[^41]:
+[^42]:
+[^43]:
+[^44]:
+[^45]:
+[^46]:
+[^47]:
+[^48]:
+[^49]:
+[^50]:
