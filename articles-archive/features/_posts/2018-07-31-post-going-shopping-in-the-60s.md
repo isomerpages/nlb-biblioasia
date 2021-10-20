@@ -95,3 +95,34 @@ It may have been the bargain-friendly tourist trade that made Change Alley less 
 It was not a place for the faint-hearted. Victor Chew remembers that pickpockets were a perennial problem, while James Koh said that “when you walk along, of course there were all the sellers trying to get your attention, and in some cases they pulled the tourists into the shops”. Andrew Yuen was sympathetic to the tourists: “Usually these shopkeepers are sharks. They will fleece them [the buyers] … unless they also know the art of bargaining, then they get their money’s worth”.30
 
 The sheer diversity of customers at Change Alley and its reputation as a slightly seedy sort of place may have discomfited some locals. Although Singapore was home to a multiracial and multicultural population, it was by no means as broadly cosmopolitan as it is today. Boey Kim Cheng mulls over in his poem “Change Alley”:
+
+*“… the stalls <br>
+spilling over with imitation wares <br>
+for the unwary, watches, bags <br>
+gadgets and tapes; <br>
+in each recess he heard the <br>
+conspiracies <br>
+of currencies, the marriage of <br>
+foreign tongues <br>
+holding a key to worlds opening on <br>
+worlds …”*31
+
+Those “foreign tongues” would have included French and Russian, among others. Mohamed Faruk, the owner of the Dinky-Di shop, recalls: “We deal with Australians, British, Italians and also Russians. All sorts, and we speak a little bit of every language, just to convince them to buy”. To offer a larger diversity of goods in his shop, Faruk would buy items from sailors who passed through Singapore regularly, such as watches, cameras and collectible items, and in turn sell them to his customers. He soon became known as a purveyor of Russian goods.32
+
+The rough-and-tumble flavour that Change Alley acquired was far removed from the modern and sophisticated air of the department stores at Raffles Place. The alley could be drab and utilitarian at best on a good day, or noisy, stuffy, hot and sodden with rain on a bad one. In an essay on Change Alley, Boey offers readers a specific “scent-memory” of the place: “A musty, fusty, slightly urinous odour, a shade of age and decay fused with a sense of light, sunlight and the salt sea air that permeated the Alley”.33
+
+After Change Alley was razed for urban renewal in 1989, some lamented that there was no place like it in Singapore any more.34 Yet despite its colour and what urban planners would now call a certain “vibrancy” – or rather, precisely because of it – Change Alley was not the sort of place that an upwardly mobile population would aspire to shop at. Instead, their hopeful gaze would turn to Robinson’s, dreaming of the day they could afford to shop there even if there wasn’t a sale.
+
+#### **Jalan-jalan at High Street and North Bridge Road**
+
+Across the Singapore River, a stone’s throw from the stately Supreme Court and the grimy wharves of Boat Quay, was the shopping district of High Street and North Bridge Road. Together with Hill Street, these were the first roads to be built after the British arrived, hosting an array of shops for Singapore’s European and Asian elites during the colonial period.35
+
+By the 1950s and 60s, these streets had become well known for shops and businesses owned by the South Asian community. Entrepreneurial Sindhis, Sinhalese, Gujaratis, Tamil Muslims and Sikhs established shops such as Wassiamull Assomull & Co. (established 1873; likely the first Sindhi trader in Singapore), Chotirmall, S.A. Majeed & Co., Khemchand and Sons, Pamanand Brothers, Modern Silk Store, Taj Mahal and Bajaj Textiles, which relocated here from Raffles Place.36
+
+Girishchandra Kothari recalls there being “50 to 60 shops all catering to textiles, retail plus wholesale, and about 500 other textile wholesalers at the time in High Street alone, all Indians”.37 While these numbers are likely exaggerated, it nevertheless suggests that the area was already morphing into what we would today call a “shopping destination”.38
+
+This was a time before ready-to-wear, off-the rack fashion became affordable for the masses. Instead, most families bought fabric by the yard to tailor-make their clothes at home, or engage the services of a professional tailor.
+
+<img src="/images/Vol-14-issue-2/going-shopping-in-the-60s/Shopping5.JPG">
+<div style="background-color: white;">Bajaj Textiles – which relocated from Raffles Place to High Street – advertising its latest textiles. <i>Image reproduced from The Singapore Free Press, 28 April 1956, p. 2.</i></div>
+
