@@ -111,3 +111,29 @@ When I first visited in December 2003, the Malay Club was one of only two buildi
 <a href="https://biblioasia.nlb.gov.sg/vol-14/issue-2/jul-sep-2018/"><center>Back to Issue</center></a>
 
 #### **NOTES**
+[^1]:Sykes, O., et al. (2013). A city profile of Liverpool. *Cities, 35*, 299–318. Retrieved from ResearchGate.
+[^2]:National Museums Liverpool. (2018). *The port of Liverpool*. Information Sheet 34, Maritime Archives & Library. Retrieved from National Museums Liverpool website.
+[^3]:Bunnell, T. (2007). Post-maritime transnationalization: Malay seafarers in Liverpool. *Global Networks, 7* (4), 412–429. Retrieved from ScholarBank@NUS.
+[^4]:The area around what was once Upper Huskisson Street is today Liverpool Women’s Hospital. The electoral register for 1950 includes Ben Youp and his wife, Priscilla, living at 144 Upper Huskisson Street, as well as three other Malay men.
+[^5]:Murden, J. (2006). City of change and challenge: Liverpool since 1945 (pp. 393–485). In J. Belchem (Ed.), *Liverpool 800: Culture, character and history* (p. 402). Liverpool: Liverpool University Press. (Not available in NLB holdings)
+[^6]:Interview with Mohamed Nor Hamid, Liverpool, 10 September 2004.
+[^7]:This rosy scenario contrasts sharply with the experiences of seamen in the pre-war period. Given inferior rates of pay for seamen signing on overseas, foreign seamen settled in Britain “in the hope of obtaining better pay and conditions”. [See May, R., & Cohen, R. (1974). The interaction between race and colonialism: A case study of the Liverpool race riots of 1919. *Race and Class*, 16 (2), 111–26, p. 118.] However, a racially hierarchical labour market, both at sea and on land, left “coloured” people extremely vulnerable during economic downturns.
+[^8]:
+[^9]:
+[^10]:
+[^11]:
+[^12]:
+[^13]:
+[^14]:
+Interview with Mohamed Nor Hamid, Liverpool, 6 October 2004.
+From its inception, the club articulated social connections with other Atlantic maritime centres – particularly New York, which had a Malay Club of its own from 1954 – and with British colonial territories, especially in the Malay world.
+Bahazin first appears in the Registry of Shipping and Seamen as “Bahazim bin Said”, but changed his name by deed poll in 1963. BT 372/1578/1.
+Bunnell, T. (2016). From world city to the world in one city: Liverpool through Malay lives. Chichester, West Sussex, UK; Malden, MA, USA: John Wiley & Sons Ltd. (Call no.: RSING 305.89928042753 BUN)
+In terms of music, it was not only the Beatles but also the wider Merseybeat phenomenon that made Liverpool “a source of wonder to the world”. [See Du Noyer, P. (2007). Liverpool: Wondrous place, from the cavern to the capital of culture (p. 84). London: Virgin Books. (Not available in NLB holdings) In football, during the 1960s, Bill Shankly managed the Liverpool Football Club to unprecedented success.
+Interview with Abdul Rahim Daud, Kuala Lumpur, 6 November 2008.
+A. Ghani Nasir. (1979, October 21). Kampung Melayu di Bandar Liverpool [The Malay village in the city of Liverpool]. Berita Harian, p. 3. Retrieved from NewspaperSG.
+
+
+
+
+
