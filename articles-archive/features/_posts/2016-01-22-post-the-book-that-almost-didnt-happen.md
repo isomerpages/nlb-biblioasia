@@ -45,3 +45,17 @@ Printed in Singapore by the Mission Press of the American Board of Commissioners
 <b>Location:</b> Call no.: RRARE 991 MOO; Microfilm no.: NL 5722
 <br>
 Donated by:</b> Mrs Loke Yew</span>
+
+#### **NOTES**
+
+[^1]:Untitled. (1837, December 14). The Singapore Free Press and Mercantile Advertiser (1835–1869), p. 3. Retrieved from NewspaperSG.
+
+[^2]:Buckley, C.B. (1984). An anecdotal history of old times in Singapore (p.134). Singapore: Oxford University Press. (Call no.: RSING 959.57 BUC)
+
+[^3]:Gibson-Hill, C.A. (1953, July). The Singapore Chronicle (1824–37). Journal of the Malaysian Branch of the Royal Asiatic Society, 26 (1) (161), 175–199, p. 178. Retrieved from JSTOR via NLB’s eResources website.
+
+[^4]:Buckley, 1984, pp. 128, 133–134, 323, 467; Gibson- Hill, Jul 1953, pp. 187–195; Death. (1843, May 4). The Singapore Free Press and Mercantile Advertiser (1835–1869), p. 3. Retrieved from NewspaperSG.
+
+[^5]:Malaya’s first printed book. (1948, October 3). The Straits Times, p. 3; Book exhibition. (1948, October 7). The Singapore Free Press, p. 5. Retrieved from NewspaperSG.
+
+[^6]:Extracts from letters of Mr Tracy, dated at Singapore. (1836, May). The Missionary Herald, 32, 181. Retrieved May 25, 2019, from HathiTrust website.
