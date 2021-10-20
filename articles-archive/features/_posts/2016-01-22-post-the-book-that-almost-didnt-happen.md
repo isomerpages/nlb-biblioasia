@@ -54,8 +54,8 @@ Donated by:</b> Mrs Loke Yew</span>
 
 [^3]:Gibson-Hill, C.A. (1953, July). The Singapore Chronicle (1824–37). Journal of the Malaysian Branch of the Royal Asiatic Society, 26 (1) (161), 175–199, p. 178. Retrieved from JSTOR via NLB’s eResources website.
 
-[^4]:Buckley, 1984, pp. 128, 133–134, 323, 467; Gibson- Hill, Jul 1953, pp. 187–195; Death. (1843, May 4). The Singapore Free Press and Mercantile Advertiser (1835–1869), p. 3. Retrieved from NewspaperSG.
+[^4]:[Buckley](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082239), 1984, pp. 128, 133–134, 323, 467; Gibson- Hill, Jul 1953, pp. 187–195; [Death](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18430504-1.2.9). (1843, May 4). T*he Singapore Free Press and Mercantile Advertiser* (1835–1869), p. 3. Retrieved from NewspaperSG.
 
-[^5]:Malaya’s first printed book. (1948, October 3). The Straits Times, p. 3; Book exhibition. (1948, October 7). The Singapore Free Press, p. 5. Retrieved from NewspaperSG.
+[^5]:[Malaya’s first printed book](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19481003-1.2.38). (1948, October 3). *The Straits Times*, p. 3; [Book exhibition](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19481007-1.2.82). (1948, October 7). *The Singapore Free Press*, p. 5. Retrieved from NewspaperSG.
 
-[^6]:Extracts from letters of Mr Tracy, dated at Singapore. (1836, May). The Missionary Herald, 32, 181. Retrieved May 25, 2019, from HathiTrust website.
+[^6]:Extracts from letters of Mr Tracy, dated at Singapore. (1836, May). *The Missionary Herald, 32*, 181. Retrieved May 25, 2019, from HathiTrust website.
