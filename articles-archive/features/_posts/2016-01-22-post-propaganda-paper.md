@@ -33,9 +33,9 @@ The section in the papers that were probably of most interest to local readers w
 **Written by:** Lee Meiyu
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>ABOUT THE NEWSPAPER</b>
-<b>Title:</b> The Syonan Shimbun
+<b>Title:</b> <i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=5891656">The Syonan Shimbun</a></i>
 <br>
-<b>Alternative titles:</b> The Shonan Times, The Syonan Times, Syonan Sinbun 
+<b>Alternative titles:</b> <i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=12463919">The Shonan Times</a>, The Syonan Times, Syonan Sinbun </i>
 <br>
 <b>Year published:</b> 20 February 1942 to 4 September 1945
 <br>
@@ -47,7 +47,7 @@ The section in the papers that were probably of most interest to local readers w
 <br>
 <b>Location:</b> Call no.: RRARE 079.52 SS; Microfilm nos.: NL255 (20 February to 7 December 1942); NL256 (8 December 1942–31 December 1943); NL257 (1944–45)
 <br><br>
-<b>Title:</b> 昭南日报 (Zhaonan ri bao)
+<b>Title:</b> <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=84571423">昭南日报</a> (<i>Zhaonan ri bao</i>)
 <br>
 <b>Year published:</b> 21 February 1942 to 17 August 1945
 <br>
@@ -85,6 +85,6 @@ The section in the papers that were probably of most interest to local readers w
 
 [^12]:Lee, 2005, pp. 114–115.
 
-[^13]:Turnbull, 1995, p. 120.
+[^13]:[Turnbull](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7471414), 1995, p. 120.
 
-[^14]:The Shonan Times, 20 Feb 1942–7 Dec 1942; The Syonan Sinbun, 8 Dec 1942–7 Dec 1943; The Syonan Shimbun, 8 Dec 1943–4 Sep 1945.
+[^14]:*[The Shonan Times](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12463919)*, 20 Feb 1942–7 Dec 1942; *[The Syonan Shimbun](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5891656)*, 8 Dec 1942–7 Dec 1943; *[The Syonan Shimbun](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5891656)*, 8 Dec 1943–4 Sep 1945.
