@@ -73,11 +73,11 @@ The section in the papers that were probably of most interest to local readers w
 
 [^6]:*[Zhaonan ri bao](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84571423).* (1942, February 21); Lim, L.H. (Interviewer). (2006, March 20). [Oral history interview with Chua Kian Aik](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/1/117691ec-1161-11e3-83d5-0050568939ad-OHC003033_007/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png) [Transcript of MP4 recording no. 003033/10/07, p. 146]. Retrieved from National Archives of Singapore website.
 
-[^7]:Zhaonan ri bao. (21 February 1942–31 May 1944).
+[^7]:*[Zhaonan ri bao](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84571423).* (21 February 1942–31 May 1944).
 
-[^8]:The Syonan Sinbun (8 December 1942–7 December 1943); The Shonan Times, 20 Feb 1942–7 Dec 1942; The Syonan Sinbun, 8 Dec 1942–7 Dec 1943; The Syonan Shimbun, 8 Dec 1943–4 Sep 1945; Zhaonan ri bao, 21 Feb 1942–31 May 1944.
+[^8]:*[The Syonan Sinbun](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5891656)* (8 December 1942–7 December 1943); *[The Shonan Times](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12463919)*, 20 Feb 1942–7 Dec 1942; *[The Syonan Sinbun](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5891656)*, 8 Dec 1942–7 Dec 1943; *[The Syonan Sinbun](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5891656)*, 8 Dec 1943–4 Sep 1945; *[Zhaonan ri bao](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84571423)*, 21 Feb 1942–31 May 1944.
 
-[^9]:Lee, 2005, pp. 114–115; 昭南日报社 [Zhaonan ri bao she]. (1943). 昭南岛新生一年间 [Zhaonan Dao xin sheng yi nian jian] (p. 8). 昭南島: 昭南日报出版 社. (Call no.: RRARE 959.57 CNJ; Microfilm: NL24365)
+[^9]:[Lee](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12661517), 2005, pp. 114–115; [昭南日报社](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84549675) [Zhaonan ri bao she]. (1943). 昭南岛新生一年间 [Zhaonan Dao xin sheng yi nian jian] (p. 8). 昭南島: 昭南日报出版 社. (Call no.: RRARE 959.57 CNJ; Microfilm: NL24365)
 
 [^10]:Zhaonan ri bao, 21 Feb 1942–31 May 1944.
 
