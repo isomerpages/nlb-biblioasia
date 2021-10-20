@@ -11,9 +11,6 @@ layout: post
 
 Advertising has existed since ancient times in various different shapes and forms. In the ruins of Pompeii for instance, advertisements hawking the services of prostitutes were carved into the buried stonework of this thriving Roman city before it was destroyed in 79 CE.[^1] In medieval Europe, town criers roamed the streets making public announcements accompanied by the ringing of a hand bell. In China, one of the earliest advertising artefacts discovered was a printing block of an advertisement for a needle shop in Jinan, Shandong province, dating from the Northern Song Dynasty (960–1127 CE).[^2]
 
-<img style="width: 380px; height: 450px;" src="/images/Vol-14-issue-2/the-stuff-of-dreams/Dreams2.JPG">
-<div style="background-color: white;">An advertisement by Warin Publicity Services. <i>Image reproduced from The Straits Times Annual 1939, back cover.</i></div>
-
 In various towns and cities across Asia, street vendors calling out to customers have existed since time immemorial. Itinerant hawkers – who moved from place to place peddling food, drinks, vegetables, textiles and various sundries while verbally “advertising” their wares – were once a common sight on the streets of Singapore.[^3]
 
 In the West, Johannes Gutenberg’s invention of the printing press around 1450 gave birth to print advertising as an unintended by-product, with the first printed advertisement in the English language appearing in 1477.[^4] By the 17th century, many European towns and cities were producing publications containing news that resembled modern newspapers.[^5]
@@ -58,6 +55,9 @@ Warin Publicity Services was founded by Briton William Joseph Warin.[^14] W.J. W
 <div style="background-color: white;">William Joseph Warin founded Warin Studios in 1932, which was renamed Warin Publicity Services in 1937. The ad agency was well known for its striking print advertisements. <i>Image reproduced from Malaya: The Journal of the Association of British Malaya, April 1936, p. 294.</i></div>
 
 Warin Studios was renamed Warin Publicity Services in 1937, and counted among its clientele major corporations and import houses in Singapore and Malaya as well as associates in London and New York.[^18] The agency’s success was largely due to the consistently high-quality and creative works it produced.[^19] Warin recruited professional talents from overseas, among whom was the Russian-born artist Vladimir Tretchikoff, who later found international fame for his painting *Chinese Girl*.[^20]
+
+<img style="width: 380px; height: 450px;" src="/images/Vol-14-issue-2/the-stuff-of-dreams/Dreams2.JPG">
+<div style="background-color: white;">An advertisement by Warin Publicity Services. <i>Image reproduced from The Straits Times Annual 1939, back cover.</i></div>
 
 Before relocating to Singapore, Tretchikoff had been a successful commercial artist in Shanghai working for Mercury Press, a prominent publisher of an English newspaper.[^21] Many of Warin’s eye-catching advertisements – inspired by the Art Deco movement – were designed by Tretchikoff.
 
@@ -118,7 +118,7 @@ Early business directories, periodicals, magazines, souvenir publications, trave
 
 <br>
 <div style="background-color: white;">
-<img src="/images/Vol-14-issue-2/the-stuff-of-dreams/Dreams10.jpg" style="width: 100px; height: 100px;">
+<img src="/images/Vol-14-issue-2/the-stuff-of-dreams/Dreams10.jpg" style="width: 110px; height: 120px;">
 <b>Chung Sang Hong</b> is Assistant Director (Exhibitions & Curation) at the National Library, Singapore. He is the lead curator of the “Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and Creations” exhibition.
 </div>
 
