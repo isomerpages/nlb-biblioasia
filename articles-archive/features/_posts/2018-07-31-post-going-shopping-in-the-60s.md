@@ -7,7 +7,7 @@ layout: post
 #### What was the act of shopping like for a generation that was more concerned about putting food on the table? **Yu-Mei Balasingamchow** ponders over our penchant for shopping.
 
 <img src="/images/Vol-14-issue-2/going-shopping-in-the-60s/Shopping1.JPG">
-<div style="background-color: white;"></i></div>
+<div style="background-color: white;">In the 1950s and 60s, Change Alley was a shopping haven for locals and tourists. The narrow street flanked by shops and makeshift kiosks connected Raffles Place with Collyer Quay. Photographed in 1970. <i>Source: The Straits Times © Singapore Press Holdings Limited. Reprinted with permission.</i></div>
 
 Ask anyone who lived in 1960s Singapore where they used to shop in town, and they will invariably give one of two answers: Raffles Place, or High Street and North Bridge Road.
 
@@ -125,4 +125,3 @@ This was a time before ready-to-wear, off-the rack fashion became affordable for
 
 <img src="/images/Vol-14-issue-2/going-shopping-in-the-60s/Shopping5.JPG">
 <div style="background-color: white;">Bajaj Textiles – which relocated from Raffles Place to High Street – advertising its latest textiles. <i>Image reproduced from The Singapore Free Press, 28 April 1956, p. 2.</i></div>
-
