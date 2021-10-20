@@ -50,7 +50,7 @@ Printed in Singapore by the Mission Press of the American Board of Commissioners
 <br>
 <b>Location:</b> Call no.: RRARE 991 MOO; Microfilm no.: NL 5722
 <br>
-Donated by:</b> Mrs Loke Yew</span>
+<b>Donated by:</b> Mrs Loke Yew</span>
 
 #### **NOTES**
 
