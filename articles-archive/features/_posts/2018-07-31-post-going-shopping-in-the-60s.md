@@ -137,3 +137,45 @@ High Street became the first port of call for people looking for all kinds of te
 
 Stella Kon describes a typical shopping trip: “If I’m looking to buy some dress material, I start from the lower end of High Street and I walk up High Street and turn along North Bridge Road, shopping all the way”. Even Puan Noor Aishah, wife of Singapore’s first president, Yusof Ishak, frequented shops at High Street for fine silks and satins to make into outfits.42
 
+High Street also boasted of department stores to rival those at Raffles Place. Two had been around since the 1930s: Aurora, established by Tan Hoan Kie as the Singapore branch of a chain from Java and a landmark at the corner of High Street and North Bridge Road; and Peking, started by Kuo Fung Ting who was born in the Chinese capital, hence the name of  his shop.43 Kuo decided to convert Peking from a curio shop into a department store in the 1950s when he realised that “after the war, the tendency would be for people to be more fashion-conscious. They would want more of the latest fashions in clothes, and other things synonymous with prosperity”.44
+
+<img src="/images/Vol-14-issue-2/going-shopping-in-the-60s/Shopping7.JPG">
+<div style="background-color: white;">Aurora department store at the junction of High Street and North Bridge Road, 1965. <i>Courtesy of National Archives of Singapore.</i></div>
+
+In 1957, Aurora and Peking were joined by the first Metro department store at High Street, set up by Ong Tjoe Kim, an immigrant from Xiamen, China, who had worked in department store chains in Java. A movie buff, he named his store after the Hollywood studio Metro-Goldwyn-Mayer and invited Hong Kong actress Li Mei to officiate at its grand opening.45 As one Singapore newspaper recalled in 1984, “the triangle among the three department stores – Aurora, Peking, and Metro – became a big attraction for the shoppers during the late 1950s”.46
+
+Unlike the air-conditioned and somewhat sterile modern shopping mall experience that has become the norm in Singapore today, shopping at High Street was quite a different experience: people wandered in and out of individual shophouses, browsing or bargaining, and perhaps eventually buying.
+
+Reminiscing about the area, Stella Kon says: “The picture that flashes in my mind is hot sunshine and dust and shadowy cool shops”.47 Besides the fashion boutiques, textile merchants and department stores, there was Ensign Bookstore, the legendary Polar Café, music stores such as TMA and Swee Lee, camera shops such as Ruby Photo and Amateur Photo Store, and Bata, an international shoe store chain of Czech origin at North Bridge Road. Many people remember Bata for selling affordable footwear – especially its trademark white canvas school shoes – to several generations of Singaporeans.48
+
+<img src="/images/Vol-14-issue-2/going-shopping-in-the-60s/Shopping8.JPG">
+<div style="background-color: white;">Aurora’s “Seeing is Believing” sale offering textile goods and other “ready made-up goods”. <i>Image reproduced from The Singapore Free Press, 25 August 1958, p. 1.</i></div>
+
+Although the vibe and buzz of High Street appear to be warmly remembered by many, these shops, like the department stores at Raffles Place, were not within the financial reach of most Singaporeans. It is perhaps their aspirational significance that resonates more deeply among people than any specific purchase, as Lee Geok Boi reflects of her family’s visits to High Street: “Most of the time we couldn’t afford anything. But we went there to look anyway”.49
+
+Looking and browsing, fingering and figuring out what one could buy for one’s dollar, or what one could afford (or not) were a visceral part of the Raffles Place or High Street shopping experience.
+
+Although these shopping areas may have only been a shadow of London’s Carnaby Street – which encapsulated everything that was cool about 1960s fashion – they represented a desirable “Western type of shopping”, before the proliferation of shopping complexes in the 1970s and the development of Orchard Road into a shopping street.50
+
+Today, in a city where ever more cookie-cutter shopping malls have come to dominate the landscape, with shops that parade a disconcertingly similar array of goods whether in swanky Orchard Road or suburban Yishun, it is not surprising that many first-generation Singaporeans look back to the time when they first encountered the idea of “going shopping” – and their memories of Raffles Place or High Street gleam all the more brightly.
+
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
+	<b>FANCY FOOD: CAFES & MILK BARS</b><br><br>
+For those who could afford it, shopping trips in the 1960s were often punctuated by pit stops at one of the fashionable Western-style cafés in town. The sentimental favourites that come up time and again in oral history interviews are Polar Café at 51 High Street and Magnolia Milk Bar at Capitol Theatre.Of the two, Polar Café was more established, having opened in 1925. By the 1960s, it was a favourite haunt of not only the lawyers and members of parliament who worked in the area, but also young people studying at nearby schools such as Raffles Institution.51 The café’s signature curry puffs became a much coveted treat for anyone in the area (including at least one member of Singapore’s first Cabinet), while its egg tarts, cakes and ice cream were also hugely popular.52
+<br><br>
+Magnolia Milk Bar, which opened almost immediately after World War II, was owned by local supermarket chain Cold Storage. Magnolia was Cold Storage’s house brand ice cream and manufactured locally from the 1930s. Magnolia Milk Bar served all kinds of ice cream concoctions and milkshakes as well as Western fare such as sandwiches, hot dogs and hamburgers.53
+<br><br>
+Cold Storage eventually ran several milk bars in Singapore (including one adjoining its supermarket in Orchard Road), but it was the air-conditioned outlet at Capitol that, by virtue of its location, won the hearts of many of Singapore’s baby boomers.54
+<br><br>
+As one Raffles Institution boy recalls, Magnolia Snack Bar occupied an iconic place in certain rituals of dating: teenagers often went out in groups for picnics or dances, after which a couple who fancied each other would go on one-on-one dates at Capitol and Magnolia. Another former customer aptly sums it up: “If I brought a girl there, it meant she was really special”.55
+<br><br>
+Magnolia was also where teachers treated their students to ice cream and friends met to celebrate over their Cambridge examination results. It became a place where an entire generation of Singaporeans picked up Western tastes and etiquette, right down to the proper use of cutlery. It wasn’t cheap though: in the 1960s, a full meal at Magnolia cost $5, compared to a bowl of noodles from a street hawker for 50 cents.56
+<br><br>
+Over at Raffles Place, there was a Honey Land Milk Bar, a casual snack bar at the corner of Raffles Place and Battery Road. Run by a Mr Tan, it sold ice cream, cream puffs, curry puffs and soft drinks. Victor Chew remembers that it was the only “soda fountain shop” or “ice cream parlour” in the area that sold deliciously frothy milkshakes. Although it was only a small place and had high stools for customers, it “did roaring business”.57
+<br><br>
+	<img src="/images/Vol-14-issue-2/going-shopping-in-the-60s/Shopping9.JPG">An advertisement for one of several Magnolia Milk Bar outlets operated by Cold Storage back in 1938. Two of its most popular outlets were found in Orchard Road and at Capitol Theatre, at the junction of Stamford and North Bridge roads. <i>Image reproduced from Come to Malaya and Travel by Train, November 1938 (p.44). (1938). Singapore: East Indies Pub. (Accession no.: B20025405G; Microfilm no.: NL29343).</i>
+	<br><br>
+The really swanky eatery at Raffles Place was G.H. Café, a pre-war institution on Battery Road that was actually a bona fide restaurant with “white tablecloths and proper cutlery”. The origins of its name are speculative: some accounts say it began as the G.H. (Grand Hotel) Sweet Shop, another claimed it was named after a woman, Gertrude How, who used to run it. Whatever the case, G.H. Café was the lunchtime haunt of lawyers, shippers, traders and civil servants.58 Such was the café’s draw that it was even memorialised in Singaporean author and poet Goh Poh Seng’s first novel, *If We Dream Too Long* (1972):
+<br><br>
+“The restaurant was air-conditioned, had plush, upholstered chairs, white tablecloths, occasionally stained, and a fat Indian woman at the piano, singing old Broadway hits. Cole Porter, Oscar Hammerstein and Richard Rodgers ghosted the large, comfortably darkened dining room, while young business executives and lawyers and doctors ate from plates with knife and fork and spoon”.59
+</span>
