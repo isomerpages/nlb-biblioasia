@@ -48,11 +48,11 @@ Donated by:</b> Mrs Loke Yew</span>
 
 #### **NOTES**
 
-[^1]:Untitled. (1837, December 14). The Singapore Free Press and Mercantile Advertiser (1835–1869), p. 3. Retrieved from NewspaperSG.
+[^1]:[Untitled](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18371214-1.2.16). (1837, December 14). *The Singapore Free Press and Mercantile Advertiser* (1835–1869), p. 3. Retrieved from NewspaperSG.
 
-[^2]:Buckley, C.B. (1984). An anecdotal history of old times in Singapore (p.134). Singapore: Oxford University Press. (Call no.: RSING 959.57 BUC)
+[^2]:Buckley, C.B. (1984). *[An anecdotal history of old times in Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082239)* (p.134). Singapore: Oxford University Press. (Call no.: RSING 959.57 BUC)
 
-[^3]:Gibson-Hill, C.A. (1953, July). The Singapore Chronicle (1824–37). Journal of the Malaysian Branch of the Royal Asiatic Society, 26 (1) (161), 175–199, p. 178. Retrieved from JSTOR via NLB’s eResources website.
+[^3]:Gibson-Hill, C.A. (1953, July). The Singapore Chronicle (1824–37). *Journal of the Malaysian Branch of the Royal Asiatic Society, 26* (1) (161), 175–199, p. 178. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
 [^4]:[Buckley](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082239), 1984, pp. 128, 133–134, 323, 467; Gibson- Hill, Jul 1953, pp. 187–195; [Death](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18430504-1.2.9). (1843, May 4). T*he Singapore Free Press and Mercantile Advertiser* (1835–1869), p. 3. Retrieved from NewspaperSG.
 
