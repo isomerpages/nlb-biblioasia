@@ -179,3 +179,12 @@ The really swanky eatery at Raffles Place was G.H. Café, a pre-war institution 
 <br><br>
 “The restaurant was air-conditioned, had plush, upholstered chairs, white tablecloths, occasionally stained, and a fat Indian woman at the piano, singing old Broadway hits. Cole Porter, Oscar Hammerstein and Richard Rodgers ghosted the large, comfortably darkened dining room, while young business executives and lawyers and doctors ate from plates with knife and fork and spoon”.59
 </span>
+<br>
+<div style="background-color: white;">
+<img src="/images/Vol-14-issue-2/going-shopping-in-the-60s/Shopping10.jpg" style="width: 100px; height: 100px;">
+<b>Yu-Mei Balasingamchow</b> is the co-author of “Singapore: A Biography” (2009) and works on history, art and culture projects. She writes fiction and has also curated exhibitions for the National Museum of Singapore and the National Archives of Singapore. Her website is www.toomanythoughts.org.
+</div>
+
+<a href="https://biblioasia.nlb.gov.sg/vol-14/issue-2/jul-sep-2018/"><center>Back to Issue</center></a>
+
+#### **NOTES**
