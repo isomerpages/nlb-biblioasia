@@ -25,3 +25,23 @@ Moor was appointed editor of the *Singapore Chronicle* from 1830, and the newspa
 The National Library holds two copies of the 1837 edition of *Notices*, and two copies of the 1968 reprint with uncoloured maps. The better copy of the 1837 version was donated to the National Library in 1965 as part of the Gibson-Hill Collection. The second 1837 copy has been restored by the National Archives but the provenance of this copy is unclear, and it appears to be missing some maps.
 
 **Written By:** Gracie Lee
+
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>ABOUT THE BOOK</b>
+<br><br>
+<b>Title:</b> <i><a href="">Notices of the Indian Archipelago, and Adjacent Countries: Being a Collection of Papers Relating to Borneo, Celebes, Bali, Java, Sumatra, Nias, the Philippine islands, Sulus, Siam, Cochin China, Malayan Peninsula, etc.</a></i>
+<br>
+<b>Author:</b> John Henry Moor (1802–43)
+<br>
+<b>Year published:</b> 1837
+<br>
+<b>Publisher:</b> Not identified
+<br>
+Printed in Singapore by the Mission Press of the American Board of Commissioners for Foreign Missions[^6]
+<br>
+<b>Language:</b> English
+<br>
+<b>Type:</b> Book; 400 pages
+<br>
+<b>Location:</b> Call no.: RRARE 991 MOO; Microfilm no.: NL 5722
+<br>
+Donated by:</b> Mrs Loke Yew</span>
