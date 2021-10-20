@@ -31,6 +31,7 @@ Another trial that took place in Singapore was the “Double Tenth” trial held
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>ABOUT THE PHOTOGRAPGH</b>
 <br><br>
 <b>Item:</b> <i>Photographs on the Opening of the War Crimes Trial in Singapore, 21 January 1946</i>
+<br>
 <b>Creator:</b> Unnamed British Crown photographer
 <br>
 <b>Date:</b> 21 January 1946
