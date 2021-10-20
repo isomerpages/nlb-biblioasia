@@ -4,6 +4,8 @@ date: 2016-01-22
 permalink: /vol-11/issue-4/jan-mar-2016/mapthatopenedupseasia
 layout: post
 ---
+<div style="background-color: white;"><img src=""></i></div>
+
 By the late 16th century, the Portuguese had dominated the trade in Southeast Asia for nearly a hundred years. Its monopoly depended on closely guarded knowledge about the best sailing routes to the region, known as the East Indies at the time.[^1]
 
 But a Dutchman called Jan Huygen van Linschoten changed the course of history for Singapore and Southeast Asia by deciphering the secrets of the Portuguese and sharing them with the world. Linschoten was the secretary to Don Frey Vicente de Fonseca, the Archbbishop of Goa, which was then under Portuguese rule. During his employment, Linschoten painstakingly made copies of archives that spelt out the closely guarded sailing directions.
