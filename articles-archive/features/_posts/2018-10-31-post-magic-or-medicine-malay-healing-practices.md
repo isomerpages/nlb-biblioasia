@@ -110,10 +110,8 @@ With the introduction of Western-style healthcare, including clinics and hospita
 State controls and the exposure to Western education further put paid to the services of traditional Malay healers. Although their numbers have drastically dwindled over the years, traditional Malay medicine continues to play an ancillary – and occasionally complementary – role to Western medicine today for those who recognise its efficacy in providing ritual care and treating spiritual ailments and conditions not yet acknowledged in Western medical science.
 
 <table span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; "> 
-<b>HEALING PRACTICES</b>
-<br><br>
-One of the most notable Malay medical manuscripts translated into English is Ismail Munshi’s <i>The Medical Book of Malayan Medicine</i>. Originally written in Jawi (c. 1850), it contains over 550 remedies for maladies ranging from migraines to depression, bloatedness and leprosy.
-<br><br>
+<b span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; ">HEALING PRACTICES</b>
+<p span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; "> One of the most notable Malay medical manuscripts translated into English is Ismail Munshi’s <i>The Medical Book of Malayan Medicine</i>. Originally written in Jawi (c. 1850), it contains over 550 remedies for maladies ranging from migraines to depression, bloatedness and leprosy.
   <tr>
     <td>&nbsp; &nbsp;</td>
     <td>For Violent Headaches and Loss of Energy</td>
@@ -133,7 +131,7 @@ One of the most notable Malay medical manuscripts translated into English is Ism
 		<td>Reduce both ingredients to fine pulp. Apply to patient’s head.</td>
   </tr>
 <br><br>
-
+</table>
 <table>
 	<tr>
 		<th>&nbsp; &nbsp;</th>
