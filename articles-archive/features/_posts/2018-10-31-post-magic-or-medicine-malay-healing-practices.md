@@ -133,9 +133,7 @@ One of the most notable Malay medical manuscripts translated into English is Ism
 		<td>Reduce both ingredients to fine pulp. Apply to patient’s head.</td>
   </tr>
 <br><br>
-	<b>REFERENCE</b>
-<br><br>
-	Burkill, I.H., & Ismail Munshi. (1930). [<i>The medical book of Malayan medicine</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4980669). Singapore: Botanic Gardens. (Call no.: RCLOS 615.3209595 MED)
+
 <table>
 	<tr>
 		<th>&nbsp; &nbsp;</th>
@@ -158,10 +156,9 @@ One of the most notable Malay medical manuscripts translated into English is Ism
 </table></span>
 	
 <table span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; ">
-<b span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; ">Healing Practices</b>
-
+<b span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; ">Healing Practices</b> 
 <p span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; ">
-One of the most notable Malay medical manuscripts translated into English is Ismail Munshi’s *The Medical Book of Malayan Medicine*. Originally written in Jawi (c. 1850), it contains over 550 remedies for maladies ranging from migraines to depression, bloatedness and leprosy.
+One of the most notable Malay medical manuscripts translated into English is Ismail Munshi’s <i>The Medical Book of Malayan Medicine</i>. Originally written in Jawi (c. 1850), it contains over 550 remedies for maladies ranging from migraines to depression, bloatedness and leprosy.</p>
   <tr>
     <td>&nbsp; &nbsp;</td>
     <td>For Violent Headaches and Loss of Energy</td>
@@ -180,9 +177,11 @@ One of the most notable Malay medical manuscripts translated into English is Ism
     <td>Grind finely. Place the pulp on a piece of cloth. Squeeze the juice into the patient’s eyes for three days.</td>
 		<td>Reduce both ingredients to fine pulp. Apply to patient’s head.</td>
   </tr>
-</table></p>
-
-
+</table>
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
+	<b>REFERENCE</b>
+<br><br>
+	Burkill, I.H., & Ismail Munshi. (1930). [<i>The medical book of Malayan medicine</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4980669). Singapore: Botanic Gardens. (Call no.: RCLOS 615.3209595 MED)</span>
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
 	<b>HUMOURAL THEORY AND MALAY MEDICINE</b>
