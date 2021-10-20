@@ -104,7 +104,7 @@ Apart from marketing products and services, early advertising adopted the strate
 
 The product range as well as the scale and size of the advertising industry and its platforms may have changed drastically over the years, but the one constant that has survived to this day is the aspect of selling the stuff that is of dreams.
 
-<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> 
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
 	<b>ABOUT THE EXHIBITION</b>
 	<br><br>
 “Selling Dreams: Early Advertising in Singapore” opens on 20 July 2018 at the gallery on level 10 of the National Library Building on Victoria Street. Inspired by the concept of a department store, the exhibition contains nine “departments” showcasing various advertisements for food, medicine, household goods, automobiles, travel services, hospitality facilities, entertainment, fashion and retail.
@@ -114,7 +114,7 @@ The exhibition will present a variety of print publications from the 1830s to 19
 Early business directories, periodicals, magazines, souvenir publications, travel guides, and ephemera such as posters and flyers are also rich sources of advertising material. Print advertising reigned supreme in Singapore until television made its foray here in 1963. The new media revolutionised the dissemination of information and entertainment, and as TV sets became increasingly common in local households, advertisements on television became the game changer in the industry.
 		<br><br>
 	<img style="width: 350px; height: 420px;" src="/images/Vol-14-issue-2/the-stuff-of-dreams/Dreams9.JPG"><br>
-	A book titled <i>[Between the Lines: Early Print Advertising in Singapore 1830s–1960s](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203150558)</i> will be launched in conjunction with the exhibition, and sold at major bookshops in Singapore as well as online stores. A series of programmes has been organised too, including guided tours by curators and public talks.</div>
+	A book titled <i>[Between the Lines: Early Print Advertising in Singapore 1830s–1960s](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203150558)</i> will be launched in conjunction with the exhibition, and sold at major bookshops in Singapore as well as online stores. A series of programmes has been organised too, including guided tours by curators and public talks.</span>
 
 <br>
 <div style="background-color: white;">
