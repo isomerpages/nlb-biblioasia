@@ -6,7 +6,7 @@ layout: post
 ---
 <div style="background-color: white;"><br><img src="/images/vol-11-issue-4/war-crimes-trial-snapshot/01_warcrimes.jpg">pening of the War Crimes Trials held in Singapore on 21 January 1946. This photograph was shot by an unnamed British Crown photographer. <i>All rights reserved, National Library Board, Singapore.</i></div>
 
-<div style="background-color: white;"><br><img src="/images/vol-11-issue-4/war-crimes-trial-snapshot/02_warcrimes.jpg">he counsels for the accused making their defence at the Sook Ching Massacre Trial held at the Victoria Memorial Hall in 1947. <i>Tham Sien Yen Collection, courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;"><br><img src="/images/vol-11-issue-4/war-crimes-trial-snapshot/02_warcrimes.jpg">The counsels for the accused making their defence at the Sook Ching Massacre Trial held at the Victoria Memorial Hall in 1947. <i>Tham Sien Yen Collection, courtesy of National Archives of Singapore.</i></div>
 
 A 1946 photograph from the opening of the War Crimes Trials held in Singapore[^1] is a grim reminder of the atrocities committed by the Japanese during the Japanese Occupation of Singapore (1942–45) – a dark period in Singapore’s history.
 
