@@ -6,12 +6,12 @@ layout: post
 ---
 #### Before the advent of the internet, print advertisements reigned supreme. These primary documents provide important clues to the social history of the period as **Chung Sang Hong** tells us.
 
-<img src="/images/Vol-14-issue-2/the-stuff-of-dreams/Dreams1.JPG">
-<div style="background-color: white;"></i></div>
+<img style="width: 370px; height: 480px;" src="/images/Vol-14-issue-2/the-stuff-of-dreams/Dreamsa.JPG">
+<div style="background-color: white;">A 1930s poster – designed in the style of the Shanghai “picture calendar” (<i>yue fen pai</i>; 月份牌) – advertising the services of the Medical Office (神农大药房) at North Bridge Road that was founded in 1866. In 1916, Chinese pharmacist Foo Khee How acquired the business from its German owners and continued to run it as a Western-style pharmacy. It is still in operation today as the Singapore Medical Office.</div>
 
 Advertising has existed since ancient times in various different shapes and forms. In the ruins of Pompeii for instance, advertisements hawking the services of prostitutes were carved into the buried stonework of this thriving Roman city before it was destroyed in 79 CE.[^1] In medieval Europe, town criers roamed the streets making public announcements accompanied by the ringing of a hand bell. In China, one of the earliest advertising artefacts discovered was a printing block of an advertisement for a needle shop in Jinan, Shandong province, dating from the Northern Song Dynasty (960–1127 CE).[^2]
 
-<img style="width: 420px; height: 400px;" src="/images/Vol-14-issue-2/the-stuff-of-dreams/Dreams2.JPG">
+<img style="width: 380px; height: 450px;" src="/images/Vol-14-issue-2/the-stuff-of-dreams/Dreams2.JPG">
 <div style="background-color: white;">An advertisement by Warin Publicity Services. <i>Image reproduced from The Straits Times Annual 1939, back cover.</i></div>
 
 In various towns and cities across Asia, street vendors calling out to customers have existed since time immemorial. Itinerant hawkers – who moved from place to place peddling food, drinks, vegetables, textiles and various sundries while verbally “advertising” their wares – were once a common sight on the streets of Singapore.[^3]
@@ -41,7 +41,7 @@ Singapore’s thriving advertising business before World War II was dominated by
 
 Most of these agencies were set up between the late 1920s and 30s. Some of them actively advertised their services in magazines and periodicals targeted at the business community. It was a common practice then for ad agencies to “sign off” advertisements they produced with the company’s name or initials: “signatures” such as “Master’s” (Masters Ltd), “Warins” (Warin Publicity Services Ltd) and “APB” (The Advertising & Publicity Bureau Ltd) would often be inserted unobtrusively into the advertisements. These traces left by pioneering agencies serve as clues that aid historians in their study of Singapore’s early advertising scene and its key players.
 
-<img style="width: 600px; height: 520px;" src="/images/Vol-14-issue-2/the-stuff-of-dreams/Dreams4.JPG">
+<img style="width: 620px; height: 520px;" src="/images/Vol-14-issue-2/the-stuff-of-dreams/Dreams4.JPG">
 <div style="background-color: white;">Advertisements by pioneer ad agencies in Singapore. Clockwise from top left: Osram lamp (General Electric Co. Ltd) by Warin Publicity Services, Shell Motor Oils (Asiatic Petroleum Co Ltd) by Masters Ltd and Silvester’s (Australian Primary Producers) by The Advertising & Publicity Bureau Ltd (with a pull-out showing a magnified view of APB’s “signature”). <i>Images reproduced from The Straits Times Annual, 1936, p. 153, and The Straits Times Annual, 1940, pp. 28, 92.</i></div>
 
 The booming market and demand for advertising in major Asian cities in turn fuelled the business of some of these early agencies. The Advertising & Publicity Bureau (APB) was the first regional agency to set up shop in Singapore in 1931. It was established in Hong Kong in 1922 by Englishwoman Beatrice Thompson to serve the advertising needs of its British and American clients in Asia.[^11] By 1940, APB was servicing many household brands and prominent firms, claiming to be the “largest advertising agency  in the  Far East”.[^12]
@@ -54,7 +54,7 @@ Among the first homegrown ad agencies in Singapore, one stood out for its vibran
 
 Warin Publicity Services was founded by Briton William Joseph Warin.[^14] W.J. Warin first arrived in Malaya in 1915 as a rubber planter.[^15] After his plantation business was hit by the Great Depression, Warin reinvented himself as a commercial artist and set up his advertising firm, Warin Studios, in a room on Orchard Road in 1932.[^16] His business flourished and within a span of three years, Warin Studios had moved into an office in the prestigious Union Building with a sizeable number of staff. The company also harboured ambitions of starting a branch in Hong Kong.[^17]
 
-<img style="width: 350px; height: 450px;" src="/images/Vol-14-issue-2/the-stuff-of-dreams/Dreams5.JPG">
+<img style="width: 420px; height: 450px;" src="/images/Vol-14-issue-2/the-stuff-of-dreams/Dreams5.JPG">
 <div style="background-color: white;">William Joseph Warin founded Warin Studios in 1932, which was renamed Warin Publicity Services in 1937. The ad agency was well known for its striking print advertisements. <i>Image reproduced from Malaya: The Journal of the Association of British Malaya, April 1936, p. 294.</i></div>
 
 Warin Studios was renamed Warin Publicity Services in 1937, and counted among its clientele major corporations and import houses in Singapore and Malaya as well as associates in London and New York.[^18] The agency’s success was largely due to the consistently high-quality and creative works it produced.[^19] Warin recruited professional talents from overseas, among whom was the Russian-born artist Vladimir Tretchikoff, who later found international fame for his painting *Chinese Girl*.[^20]
@@ -69,8 +69,7 @@ Local Chinese printers also produced advertisements in the distinctive “pictur
 
 <img src="/images/Vol-14-issue-2/the-stuff-of-dreams/Dreams6.JPG">
 <div style="background-color: white;">(1 and 2) Art Deco-style advertisements attributed to Vladimir Tretchikoff, a Russian émigré commercial artist with Warin Publicity Services, who practised in Singapore from 1934 to 1941. <i>Images reproduced from The Straits Times Annual, 1940, p. 80; and The Straits Times Annual, 1941, p. 16.</i><br>
-(3) Whiteaways department store advertising the Daks brand of flannels that were available in “many patterns many styles”. <i>Image reproduced from The Straits Times Annual, 1940, p. 88.</i><br>
-(4) A 1930s poster – designed in the style of the Shanghai “picture calendar” (<i>yue fen pai</i>; 月份牌) – advertising the services of the Medical Office (神农大药房) at North Bridge Road that was founded in 1866. In 1916, Chinese pharmacist Foo Khee How acquired the business from its German owners and continued to run it as a Western-style pharmacy. It is still in operation today as the Singapore Medical Office.</div>
+(3) Whiteaways department store advertising the Daks brand of flannels that were available in “many patterns many styles”. <i>Image reproduced from The Straits Times Annual, 1940, p. 88.</i></div>
 
 #### **Post-war Developments**
 
@@ -84,14 +83,14 @@ C.F. Young had been a manager at the aforementioned APB before the war. In 1946,
 
 Another foreign agency, Cathay Advertising Limited, seemed to have followed a similar trajectory. Its founder, Australian businesswoman Elma Kelly, went to Shanghai in the early 1930s to work for Millington Ltd. She was posted to Hong Kong to manage the agency’s branch office in 1935 but ended up in internment when the city fell to the Japanese in 1941.
 
-<img style="width: 650px; height: 400px;" src="/images/Vol-14-issue-2/the-stuff-of-dreams/Dreams7.JPG">
+<img style="width: 620px; height: 400px;" src="/images/Vol-14-issue-2/the-stuff-of-dreams/Dreams7.JPG">
 <div style="background-color: white;">(Left) Grundig marketed its radiogram as an essential item in the modern home in the 1960s. <i>Image reproduced from The Straits Times Annual, 1961, p. xiv.</i><br>
 (Right) This advertisement by The Royal Dutch Mails evoked the modernity and glamour associated with luxury cruise liners. <i>Image reproduced from The Straits Times Annual, 1937, p. 140.</i></div>
 	
 After the war, Kelly and a few former Millington staff started Cathay Advertising in Hong Kong. Its Singapore office opened in 1946, and branches were subsequently set up in Kuala Lumpur and Bangkok. In 1963, Cathay was reported to be one of the three largest ad agencies in Singapore.[^26] It later merged with leading Australian agency George Patterson Pte Ltd and was eventually acquired by Ted Bates & Co (now Bates Worldwide)[^27], a New York-based advertising giant that expanded into Southeast Asia in the late 1960s.
 
 <img style="width: 650px; height: 400px;" src="/images/Vol-14-issue-2/the-stuff-of-dreams/Dreams8.JPG">
-<div style="background-color: white;">Business and residential directories are another rich source of printed advertisements. The Singapore & Malayan Ladies Directory contains advertisements on goods and services that appealed to affluent women in colonial Singapore. <i>Images reproduced from The Singapore & Malayan Ladies Directory with Shopping Guide (1936–37, p. 285 and 1937–38, p. 106–107)</i></div>
+<div style="background-color: white;">Business and residential directories are another rich source of printed advertisements. <i>The Singapore & Malayan Ladies Directory</i> contains advertisements on goods and services that appealed to affluent women in colonial Singapore. <i>Images reproduced from The Singapore & Malayan Ladies Directory with Shopping Guide (1936–37, p. 285 and 1937–38, p. 106–107)</i></div>
 	
 #### **The Stuff of Dreams**
 
@@ -115,7 +114,7 @@ The exhibition will present a variety of print publications from the 1830s to 19
 Early business directories, periodicals, magazines, souvenir publications, travel guides, and ephemera such as posters and flyers are also rich sources of advertising material. Print advertising reigned supreme in Singapore until television made its foray here in 1963. The new media revolutionised the dissemination of information and entertainment, and as TV sets became increasingly common in local households, advertisements on television became the game changer in the industry.
 		<br><br>
 	<img style="width: 350px; height: 420px;" src="/images/Vol-14-issue-2/the-stuff-of-dreams/Dreams9.JPG"><br>
-	A book titled <i>Between the Lines: Early Print Advertising in Singapore 1830s–1960s</i> will be launched in conjunction with the exhibition, and sold at major bookshops in Singapore as well as online stores. A series of programmes has been organised too, including guided tours by curators and public talks.</div>
+	A book titled <i>[Between the Lines: Early Print Advertising in Singapore 1830s–1960s](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203150558)</i> will be launched in conjunction with the exhibition, and sold at major bookshops in Singapore as well as online stores. A series of programmes has been organised too, including guided tours by curators and public talks.</div>
 
 <br>
 <div style="background-color: white;">
