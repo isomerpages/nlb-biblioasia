@@ -42,22 +42,22 @@ In 2012, the letter was transcribed by Dr John Bastin, an eminent scholar and a 
 
 #### **NOTES**
 
-[^1]:Turnbull, C.M. (2002). Penang’s changing role in the Straits Settlements, 1826–1946 (p. 4). The Penang Story – International Conference 2002. Retrieved from Taman Sri Nibong RA Log website.
+[^1]:Turnbull, C.M. (2002). Penang’s changing role in the Straits Settlements, 1826–1946 (p. 4). *The Penang Story – International Conference 2002*. Retrieved from Taman Sri Nibong RA Log website.
 
-[^2]:Dobbs, S. (2003). The Singapore River: A social history, 1819–2002 (p. 7). Singapore: Singapore University Press. (Call no.: RSING 959.57 DOB)
+[^2]:Dobbs, S. (2003). *[The Singapore River: A social history, 1819–2002](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12149559)* (p. 7). Singapore: Singapore University Press. (Call no.: RSING 959.57 DOB)
 
-[^3]:Glendinning, V. (2012). Raffles and the golden opportunity 1781–1826 (p. 234). London: Profile Books. (Call no.: RSING 959.57021092 GLE)
+[^3]:Glendinning, V. (2012). *[Raffles and the golden opportunity 1781–1826](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14482247)* (p. 234). London: Profile Books. (Call no.: RSING 959.57021092 GLE)
 
-[^4]:Webster, A. (1998). Gentlemen capitalists: British imperialism in South East Asia, 1770–1890 (pp. 88–100) London; New York: Tauris Academic Studies. (Call no.: RSING 959 WEB) 
+[^4]:Webster, A. (1998). *[Gentlemen capitalists: British imperialism in South East Asia, 1770–1890](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9348910)* (pp. 88–100) London; New York: Tauris Academic Studies. (Call no.: RSING 959 WEB) 
 
-[^5]:Webster, 1998, p. 70.
+[^5]:[Webster](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9348910), 1998, p. 70.
 
-[^6]:Bastin, J. (2012). The founding of Singapore 1819 (pp. 128–129). Singapore: National Library Board. (Call no.: RSING 959.5703 BAS)
+[^6]:Bastin, J. (2012). *[The founding of Singapore 1819](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14404109)* (pp. 128–129). Singapore: National Library Board. (Call no.: RSING 959.5703 BAS)
 
-[^7]:Glendinning, 2012, pp. 228–231.
+[^7]:[Glendinning](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14482247), 2012, pp. 228–231.
 
-[^8]:National Library of Australia. (2001). Treasures from the world’s great libraries. Retrieved from National Library of Australia website.
+[^8]:National Library of Australia. (2001). *Treasures from the world’s great libraries.* Retrieved from National Library of Australia website.
 
-[^9]:National Library Board. (2002). Annual report 2001/2002 (p. 24). Singapore: National Library Board. (Call no.: RCLOS q027.05957 SNLBAR-[AR])
+[^9]:National Library Board. (2002). *[Annual report 2001/2002](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8771296)* (p. 24). Singapore: National Library Board. (Call no.: RCLOS q027.05957 SNLBAR-[AR])
 
 [^10]:[Bastin](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14404109), 2012, Preface.
