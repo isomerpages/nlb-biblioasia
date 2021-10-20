@@ -20,8 +20,22 @@ The loss of Java to Holland in 1816 had divested Raffles of a position of high s
 
 When Bannerman died on 8 August 1819, Phillips was sworn in as acting governor. Raffles, when informed of Bannerman’s death two months later, immediately sailed to Calcutta to pitch for the Penang governorship. But his optimism slowly faded with the Governor-General of India Lord Hastings’ wait-and-see approach on London’s verdict regarding Singapore. The Penang succession was eventually settled in favour of Bannerman’s son-in-law,7 and a dejected Raffles retreated into a quiet life in Bencoolen. He resigned from the British East India Company in 1822 due to poor health.
 
-In 2001, this letter was displayed in Canberra at the National Library of Australia’s “Treasures from the World’s Great Libraries” exhibition from December 2001 to February 2002.8 It was one of two treasures on loan by the National Library, the other being the 1849 edition of the Hikayat Abdullah.9 By that time, almost 15 years after its purchase, the value of the letter had doubled.
+In 2001, this letter was displayed in Canberra at the National Library of Australia’s “Treasures from the World’s Great Libraries” exhibition from December 2001 to February 2002.8 It was one of two treasures on loan by the National Library, the other being the 1849 edition of the *Hikayat Abdullah*.9 By that time, almost 15 years after its purchase, the value of the letter had doubled.
 
-In 2012, the letter was transcribed by Dr John Bastin, an eminent scholar and a leading authority on Raffles. The transcript was published in a book by Bastin titled The Founding of Singapore, 1819, published by the National Library Board (NLB) in conjunction with the exhibition, “Raffles’ Letters: Intrigues Behind the Founding of Singapore” held at the National Library Gallery from 29 August 2012 to 28 February 2013.10 In 2014, the book was republished as Raffles and Hastings: Private Exchanges Behind the Founding of Singapore by NLB and Marshall Cavendish Editions.
+In 2012, the letter was transcribed by Dr John Bastin, an eminent scholar and a leading authority on Raffles. The transcript was published in a book by Bastin titled *The Founding of Singapore, 1819*, published by the National Library Board (NLB) in conjunction with the exhibition, “Raffles’ Letters: Intrigues Behind the Founding of Singapore” held at the National Library Gallery from 29 August 2012 to 28 February 2013.10 In 2014, the book was republished as *Raffles and Hastings: Private Exchanges Behind the Founding of Singapore* by NLB and Marshall Cavendish Editions.
 
 **Written By:** Nor-Afidah Abdul Rahman
+
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>ABOUT THE MANUSCRIPT</b>
+<br><br>
+	<b>Title:</b> <i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=12761796">Letter from Sir Thomas Stamford Raffles to John Tayler</a></i>
+<br>
+<b>Author:</b> Stamford Raffles (1781–1826)
+<br>
+<b>Year written:</b> 9 June 1819
+<br>
+<b>Language:</b> English
+<br>
+<b>Type:</b> Manuscript; 4 pages; 26cm by 21cm
+<br>
+<b>Location:</b> Call no.: RRARE 959.5703 RAF</span>
