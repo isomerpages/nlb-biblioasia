@@ -26,7 +26,7 @@ China takes the form of a land of elephants and rhinoceroses, and is displayed w
 
 Interestingly, the map also shows a place called “Sincapura” on the southern tip of the Malay Peninsula. While the name alludes to the modern city of Singapore, scholars believe that the name and its variants, such as “C. Cinca Pula”, were used in European maps from the 1500s to the 1800s to denote either the town of Singapore, one of several straits on which Singapore is located, or the southern tip of the Malay Peninsula.[^5] Java on the map has an unknown south coast, and the shape of Celebes, or Sulawesi, is inaccurate.[^6]
 
-<div style="background-color: white;"><img src="/images/vol-11-issue-4/map-that-opened-southeast-asia/03_mapthatopenedsea.jpg">This detail, taken from the black-and-white version of the 1596 map, shows “Sincapura” on the southern tip of the Malay Peninsula. <i>All rights reserved, National Library Board, Singapore.</i></div>
+<div style="background-color: white;"><img style="width:500px" src="/images/vol-11-issue-4/map-that-opened-southeast-asia/03_mapthatopenedsea.jpg">This detail, taken from the black-and-white version of the 1596 map, shows “Sincapura” on the southern tip of the Malay Peninsula. <i>All rights reserved, National Library Board, Singapore.</i></div>
 
 Linschoten and Petrus Plancius, a Flemish astronomer, geographer and theologian who prepared the map, revealed how knowledgeable the Portuguese were of Southeast Asia in the early to mid-16th century due to their extensive maritime explorations and rigorous navigational charting of the area.
 
