@@ -151,14 +151,16 @@ One of the most notable Malay medical manuscripts translated into English is Ism
 <p span style="background-colour: #FFF6BA; padding: 20px; margin: 20px; background:#fff6ba; display:block; ">One of the most notable Malay medical manuscripts translated into English is Ismail Munshi’s *The Medical Book of Malayan Medicine*. Originally written in Jawi (c. 1850), it contains over 550 remedies for maladies ranging from migraines to depression, bloatedness and leprosy.</p>
 
   <tr>
-    <td>Emil</td>
-    <td>Tobias</td>
-    <td>Linus</td>
+    <td>&nbsp; &nbsp;</td>
+    <td>For Violent Headaches and Loss of Energy</td>
+    <td>For Dizziness and Vertigo</td>
+		<td>For Night Chills</td>
   </tr>
 <tr>
-<td>Test</td>
-<td>test2</td>
-<td>test3</td>
+<td>Ingredients</td>
+<td>Cumin seeds (5 cents) <br> Garlic (10 cents)<br>Indian hemp<br>Ginger<br><i>Smilax china</i><br>Mace (35 cents) <br> Nutmeg (5 cents) <br> Henbane <br>Javanese ginger</td>
+<td> 5 young shoots of betel vine <br>Red onion <br>Fennel seeds</td>
+<td> <i>Daun medan</i> (root of an unidentified plant) <br> 7 kernels of the fruit of the candle nut</td>	
 </tr>
 </table>
 
