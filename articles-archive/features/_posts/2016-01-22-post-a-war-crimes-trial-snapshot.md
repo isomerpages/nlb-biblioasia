@@ -39,22 +39,22 @@ Another trial that took place in Singapore was the “Double Tenth” trial held
 	
 #### **NOTES**
 
-[^1]:South-East Asia’s first war crimes trial opens. (1946, January 22). The Straits Times, p. 3. Retrieved from NewspaperSG.
+[^1]:[South-East Asia’s first war crimes trial opens](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19460122-1.2.27). (1946, January 22). *The Straits Times*, p. 3. Retrieved from NewspaperSG.
 
-[^2]:Crowe, D.M. (2014). War crimes, genocide, and justice: A global history (p. 223). New York: Palgrave Macmillan. (Call no.: SING 364.138 CRO); Last Jap’ gets life sentence. (1948, March 13). The Straits Times, p. 8. Retrieved from NewspaperSG.
+[^2]:Crowe, D.M. (2014). *[War crimes, genocide, and justice: A global history](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200190219)* (p. 223). New York: Palgrave Macmillan. (Call no.: SING 364.138 CRO); [Last Jap’ gets life sentence](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19480313-1.2.64). (1948, March 13). *The Straits Times*, p. 8. Retrieved from NewspaperSG.
 
-[^3]:Maogoto, J.N. (2004). War crimes and realpolitik: International justice from World War I to the 21st century (p. 107). Boulder, Colorado: Lynn Rienner Publishers. (Call no.: R 341.6909 MAO)
+[^3]:Maogoto, J.N. (2004). *[War crimes and realpolitik: International justice from World War I to the 21st century](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12304611)* (p. 107). Boulder, Colorado: Lynn Rienner Publishers. (Call no.: R 341.6909 MAO)
 
-[^4]:Thian, Y.S., Chong, C.C., & Lim, S. (Eds.). (2002). In session: Supreme Court Singapore: The building, her heritage and her people (pp. 18–24). Singapore: Supreme Court. (Call no.: RSING 347.5957035 IN); The trial story of brutality and starvation. (1946, January 22). The Straits Times, p. 3. Retrieved from NewspaperSG.
+[^4]:Thian, Y.S., Chong, C.C., & Lim, S. (Eds.). (2002). *[In session: Supreme Court Singapore: The building, her heritage and her people](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11826187)* (pp. 18–24). Singapore: Supreme Court. (Call no.: RSING 347.5957035 IN); [The trial story of brutality and starvation](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19460122-1.2.28). (1946, January 22). *The Straits Times*, p. 3. Retrieved from NewspaperSG.
 
-[^5]:Death for Nakamura: Twelve years for Gozawa. (1946, February 2). The Straits Times, p. 3. Retrieved from NewspaperSG.
+[^5]:[Death for Nakamura: Twelve years for Gozawa](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19460202-1.2.23). (1946, February 2). *The Straits Times*, p. 3. Retrieved from NewspaperSG.
 
-[^6]:The Straits Times, 2 Feb 1946, p. 3; The Straits Times, 22 Jan 1946, p. 3.
+[^6]:*[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19460202-1.2.23),* 2 Feb 1946, p. 3; *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19460122-1.2.28)*, 22 Jan 1946, p. 3.
  
-[^7]:1942 Singapore massacre story told. (1947, March 10). The Singapore Free Press, p. 5. Retrieved from NewspaperSG; National Library Board. (2013, June 17). Operation Sook Ching written by Ho, Stephanie. Retrieved from Singapore Infopedia website.
+[^7]:[1942 Singapore massacre story told](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19470310-1.2.29.1). (1947, March 10). *The Singapore Free Press*, p. 5. Retrieved from NewspaperSG; National Library Board. (2013, June 17). *[Operation Sook Ching](http://eresources.nlb.gov.sg/infopedia/articles/SIP_40_2005-01-24.html)* written by Ho, Stephanie. Retrieved from Singapore Infopedia website.
 
-[^8]:The Singapore Free Press, 10 Mar 1947, p. 5; Singapore massacre Japs guilty. (1947, April 3). The Straits Times, p. 1. Retrieved from NewspaperSG.
+[^8]:*[The Singapore Free Press](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19470310-1.2.29.1),* 10 Mar 1947, p. 5; [Singapore massacre Japs guilty](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19470403-1.2.5). (1947, April 3). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
 
-[^9]:Plan to kill 50,000 Chinese in Singapore. (1947, March 19). The Straits Times, p. 5. Retrieved from NewspaperSG.
+[^9]:[Plan to kill 50,000 Chinese in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19470319-1.2.44). (1947, March 19). *The Straits Times*, p. 5. Retrieved from NewspaperSG.
 
-[^10]:National Library Board. (2018, September). Double Tenth incident written by Wong, Heng. Retrieved from Singapore Infopedia wesbite.
+[^10]:National Library Board. (2018, September). *[Double Tenth incident](http://eresources.nlb.gov.sg/infopedia/articles/SIP_111_2005-01-06.html)* written by Wong, Heng. Retrieved from Singapore Infopedia wesbite.
