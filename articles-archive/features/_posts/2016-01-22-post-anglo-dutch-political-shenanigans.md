@@ -60,4 +60,4 @@ In 2012, the letter was transcribed by Dr John Bastin, an eminent scholar and a 
 
 [^9]:National Library Board. (2002). Annual report 2001/2002 (p. 24). Singapore: National Library Board. (Call no.: RCLOS q027.05957 SNLBAR-[AR])
 
-[^10]:Bastin, 2012, Preface.
+[^10]:[Bastin](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14404109), 2012, Preface.
