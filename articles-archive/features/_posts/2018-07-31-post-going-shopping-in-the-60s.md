@@ -188,13 +188,22 @@ The really swanky eatery at Raffles Place was G.H. Café, a pre-war institution 
 <a href="https://biblioasia.nlb.gov.sg/vol-14/issue-2/jul-sep-2018/"><center>Back to Issue</center></a>
 
 #### **NOTES**
-[^1]:
-[^2]:
-[^3]:
-[^4]:
-[^5]:
-[^6]:
-[^7]:
-[^8]:
-[^9]:
-[^10]:
+[^1]:This reflects the “internal narrative” of “progress, about overcoming hardship and ultimate triumph”, discussed by sociologist Teo You Yenn. It is a personal narrative that maps onto the national narrative of economic growth and prosperity; it is not uncomfortable for some to talk about past experiences of poverty “because one knows that one is accepted to have climbed and arrived.” See Teo, Y.Y. (2018). [*This is what inequality looks like*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203024529) (pp. 20–21, 226–227). Singapore: Ethos Books. (Call no.: RSING 305.095957 TEO)
+[^2]:Wharton, C. (2015). [*Advertising: Critical approaches*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202437417) (p. 182). Abingdon, Oxon; New York, NY: Routledge. (Call no.: 659.1 WHA-[BIZ]). See also Chua, B.H. (1984, December 2). [The High Street of our lives](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19841202-1.2.33.2). *The Straits Times*, p. 20. Retrieved from NewspaperSG.
+[^3]:See for instance Zarina Yusof. (Interviewer). (2002, July 22). [*Oral history interview with Lee Geok Boi*](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/a/a7332309-115e-11e3-83d5-0050568939ad-OHC002678_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=15) [Transcript of MP3 recording no. 002678/02/01, p. 15]; Chua, J.C.H. (Interviewer). (1997, November 3). [Oral history interview with Victor Chew Chin Aik](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/f/f1078164-115e-11e3-83d5-0050568939ad-OHC001965_005/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=3) [Transcript of MP3 recording no. 001965/07/05, pp. 45-46]. Retrieved from National Archives of Singapore website.
+[^4]:National Library Board. (2016, August 4). [*John Little*](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1116_2010-06-14.html) written by Chia, Joshua Yong Chia & Tay, Shereen. Retrieved from Singapore Infopedia; National Library Board. (2014). [*Robinson’s Department Store is established*](http://eresources.nlb.gov.sg/history/events/6c483a59-e414-49be-b0c5-299bc7e8ff18). Retrieved from HistorySG.
+[^5]:The buildings of John Little’s, Robinson’s and Whiteaway’s used to be on the sites now occupied by, respectively, the Singapore Land Tower, One Raffles Place and Maybank Tower. See Chia, S.-A. (2016, July–September). [Bygone brands: Five names that are no more](http://www.nlb.gov.sg/biblioasia/2016/07/08/bygone-brands-five-names-that-are-no-more/). *BiblioAsia*, 12 (2). Retrieved from BiblioAsia website; Remember Singapore. (2014, July 28). *Raffles Place, 50 years of transformation*. Retrieved from Remember Singapore website.
+[^6]:Makepeace, W., Brooke, G.E., & Braddell, R.St.J. (Eds.). (1991). [*One hundred years of Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6203718) (Vol. 1, p. 234). Singapore: Oxford University Press. (Call no.: RSING 959.57 ONE-[HIS])
+[^7]:Chew, D. (Interviewer). (1985, May 27). [*Oral history interview with Joseph Henry Chopard*](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/7/73b45d78-115f-11e3-83d5-0050568939ad-OHC000561_005/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=11) [Transcript of MP3 recording no. 000561/21/05, p. 61]. Retrieved from National Archives of Singapore website.
+[^8]:For more on the history of department stores, see Whitaker, J. (2011). [*The department store: History, design, display*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14234687). London: Thames & Hudson. (Call no.: RBUS 381.141 WHI-[BIZ]; Blakemore, E. (2017, November 22). *How 19th-century women used department stores to gain their freedom*. Retrieved from History network website; Glancey, J. (2015, March 26). *A history of the department store*. Retrieved from BBC Culture website.
+[^9]:Ruzita Zaki. (Interviewer). (1996, November 14). [*Oral history interview with Mrs Mohamed Siraj*](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/3/3b69ed83-115e-11e3-83d5-0050568939ad-OHC001663_005/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=18) [Transcript of MP3 recording no. 001663/36/05, p. 61]. Retrieved from National Archives of Singapore website.
+[^10]:The brothers were Hardial Singh, Inder Singh, Harbans Singh, Hira Singh and Balwant Singh. See Sidhu, R.S. (2017). [*Singapore’s early Sikh pioneers: Origins, settlement, contributions and institutions*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202910368) (pp. 130–131). Singapore: Central Sikh Gurdwara Board. (Call no.: RSING 305.8914205957 SID)
+
+
+
+
+
+
+
+
+
