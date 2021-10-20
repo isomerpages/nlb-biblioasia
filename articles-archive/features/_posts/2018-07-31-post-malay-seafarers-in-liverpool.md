@@ -59,3 +59,46 @@ At weekends, seamen took their children and wives to visit what was otherwise la
 In the 1960s, with the streets southwest of the Anglican Cathedral marked out for post-war redevelopment, a group of Liverpool-based Malay seamen pooled their resources to buy a house at No. 7 Jermyn Street, just off bustling Granby Street, in what is today known as the Liverpool 8 area of the city.
 
 Surviving records reveal that an agreement was signed on 4 June 1963 to purchase the building from a Marjorie Josephine Steele for £1,500. A supplementary trust deed signed in 1974 names Abdul Salem and Bahazin Bin-Kassim10 as the trustees of the property.
+
+Bahazin, who was born in Perak, Malaya, in 1924, became the first president of the club at its new location, and also assumed the all-important role of cook. As had been the case at St James Road, the clubhouse on Jermyn Street included a prayer room. However, Bahazin is remembered as having been less strict than Johan Awang with regard to the activities that could take place in the club.
+
+<img src="/images/Vol-14-issue-2/malay-seafarers-in-liverpool/Seafarers5.JPG">
+<div style="background-color: white;">Bahazin Bin-Kassim was born in Kuala Kangsar, Perak, in 1924. He became the first president of the Malay Club at its No. 7 Jermyn Street location and also assumed the role of cook. He lived next door at No. 5 with his English wife. Bahazin died in the 1980s but his family home continued to provide lodging for Liverpool-based and visiting Malay men. Photo was taken in the early 1970s. <i>Courtesy of Abdul Rahim Daud.</i></div>
+
+Food was available during the fasting month of Ramadan, for example, and Bahazin would say that it was “between you and God” whether it was eaten or not. Bahazin bought the house next to the club – No. 5 – and lived there with his English wife. With Malay lodgers staying at both numbers 5 and 7, Jermyn Street became a place in Liverpool where it was always possible to find Malay banter and spicy food.
+
+Overall, this was a happy and optimistic time for the Malay community in Liverpool. The city had become the “capital of the Malay Atlantic”11 and, in some ways, for many Liverpudilians, it felt like the centre of the world. In addition to ambitious municipal plans announced in the 1960s for a hypermodern Liverpool of the 21st century, exciting things were happening in its music scene – this was the birthplace of the wildly popular Beatles – and in the city’s football stadiums.12 The mid-1960s also saw an all-time record tonnage of cargo passing through the port. Jobs were still relatively easy to come by, at sea and onshore, including on the docks where Mat Nor worked.
+
+#### **A Place for Malays**
+
+The Malay Club – first at St James Road and then at Jermyn Street – played a significant part in making Liverpool a home away from home for seamen from the *alam Melayu* who had made the city their seafaring base. Through the Malay Club, visiting seamen were able to plug into the social networks of Liverpool’s small Malay community, which likely never exceeded more than a hundred. The club became the focal point for Malay seafaring visitors, seamen who based themselves in Liverpool, and men who had taken local “shore jobs”.
+
+By the time the club moved to Jermyn Street in 1963, the ex-seamen who met and socialised there also included retired “elder statesmen” such as Ben Youp. Youp later moved into Bahazin’s house next door at 5 Jermyn Street and was a regular at the club in the early 1970s.
+
+The children of Malay ex-seamen – who were born in England and never set foot in Southeast Asia – heard stories about what life was like on the other side of the world from interacting with their fathers’ friends at the club. With these social connections came gifts, gossip and news from home. Interestingly, one of the seamen kept a pet parrot at the club that had been taught to say Malay words such as *makan* (“eat”) as well as several rude words in English and Malay.
+
+#### **The End of an Era**
+
+By the 1960s, the Malay community had established its footing in Liverpool. However, the city’s commercial place in the world economy was undergoing profound change. Although few people realised it then, the Malay Club’s move from St James Road to Jermyn Street in 1963 was made during a time when the postwar golden age of British shipping had already passed.
+
+It is unlikely that the club run by Bahazin on Jermyn Street received as many visiting seamen compared with the earlier location on St James Road – the 1950s, after all, had been a decade of shipping prosperity. Fewer ships arrived in Liverpool in the subsequent decades, bringing fewer new Malay seafarers to sustain the community that had come to call the city home.
+
+In contrast, the number of Malaysian students arriving in Liverpool began to increase. In the 1970s, as part of the aggressive economic development plans pushed by the Malaysian government, hundreds of young Malays were sent to Britain to study. Liverpool was one of the cities that received undergraduate scholarship students, although it never saw the same numbers of Malay (and other Malaysian) students as it had visiting Malay seamen in the previous decades. Even so, the arrival of these students gave the Malay Club a new lease of life.
+
+Abdul Rahim Daud was one of only two Malay students from Malaysia who began studies at Liverpool University in 1970. He recalls that by his final year, the numbers were much greater, but also that he enjoyed visiting ex-seafarers at No. 7 Jermyn Street:
+
+“Last time there’s no internet, phone also, no mobile so say like as if total bye-bye to your parents, to your *kampong* [home village]. So you feel like homesick so that’s why I used to go very often to the Malay Club so at least see them, meet them, at least I feel a reduced homesick a little bit”.13
+
+By this time, Liverpool was no longer the thriving city and maritime port it once had been. Granby Street, near the Malay Club’s second home in the Liverpool 8 district, had been a busy commercial thoroughfare in the 1960s. In the following decade, however, the area became synonymous with “inner-city” social and economic problems arising in part from Liverpool’s diminished position in the national and international arena. Media coverage of the infamous street disturbances in Liverpool in the 1980s marked the city on national mental maps as the “new Harlem of Liverpool”, and it came to be seen as the epitome of British post-imperial and post-industrial urban decline.
+
+<img src="/images/Vol-14-issue-2/malay-seafarers-in-liverpool/Seafarers6.JPG">
+<div style="background-color: white;">The section of Jermyn Street that includes the Malay Club at No. 7. Photo taken in December 2003. <i>Courtesy of Tim Bunnell.</i></div>
+
+Opportunities for dock work, particularly, were badly affected, with total employment in 1979 being less than half of what it was in 1967. In 1979, it was reported that five or six out of every 10 Malay men in the city were unemployed and receiving social security payments.14 Retrenched from Gladstone Dock in 1978, Mat Nor used some of the redundancy money to pay for a return trip to Malaysia with his Liverpool-born family.
+
+By the late 1980s, the Malay Club had become known as the Malaysia-Singapore Association. In the early 1990s, the club – with Mat Nor as its president – was officially registered as the Merseyside Malaysian and Singapore Community Association (MSA).
+
+When I first visited in December 2003, the Malay Club was one of only two buildings in the section of Jermyn Street, between Princes Road and Granby Street, that had not been abandoned. By 2008, No. 7 Jermyn Street had ceased to function as a club, and was boarded up following a series of break-ins. The building had deteriorated to a state that fitted in with the more general dereliction affecting Jermyn and its surrounding streets. On the last occasion I visited, in August 2016, even the MSA signboard had been removed. The last piece of visible evidence of the one-time place of Malay Liverpool was erased forever.
+
+<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> This essay contains extracts from the book <i>From World City to the World in One City: Liverpool Through Malay Lives</i> (2016) by Tim Bunnell. Published by John Wiley & Sons Ltd, it retails at major bookshops, and is also available for reference and loan at the Lee Kong Chian Reference Library and selected public libraries (Call nos.: RSING 305.89928042753 BUN) and SING 305.89928042753 BUN).
+</div>
