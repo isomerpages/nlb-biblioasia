@@ -35,4 +35,26 @@ Another trial that took place in Singapore was the “Double Tenth” trial held
 <br>
 <b>Type:</b> Photograph
 <br>
-<b>Donated by: Lee Kip Lee</span>
+	<b>Donated by:</b> Lee Kip Lee</span>
+	
+#### **NOTES**
+
+[^1]:South-East Asia’s first war crimes trial opens. (1946, January 22). The Straits Times, p. 3. Retrieved from NewspaperSG.
+
+[^2]:Crowe, D.M. (2014). War crimes, genocide, and justice: A global history (p. 223). New York: Palgrave Macmillan. (Call no.: SING 364.138 CRO); Last Jap’ gets life sentence. (1948, March 13). The Straits Times, p. 8. Retrieved from NewspaperSG.
+
+[^3]:Maogoto, J.N. (2004). War crimes and realpolitik: International justice from World War I to the 21st century (p. 107). Boulder, Colorado: Lynn Rienner Publishers. (Call no.: R 341.6909 MAO)
+
+[^4]:Thian, Y.S., Chong, C.C., & Lim, S. (Eds.). (2002). In session: Supreme Court Singapore: The building, her heritage and her people (pp. 18–24). Singapore: Supreme Court. (Call no.: RSING 347.5957035 IN); The trial story of brutality and starvation. (1946, January 22). The Straits Times, p. 3. Retrieved from NewspaperSG.
+
+[^5]:Death for Nakamura: Twelve years for Gozawa. (1946, February 2). The Straits Times, p. 3. Retrieved from NewspaperSG.
+
+[^6]:The Straits Times, 2 Feb 1946, p. 3; The Straits Times, 22 Jan 1946, p. 3.
+ 
+[^7]:1942 Singapore massacre story told. (1947, March 10). The Singapore Free Press, p. 5. Retrieved from NewspaperSG; National Library Board. (2013, June 17). Operation Sook Ching written by Ho, Stephanie. Retrieved from Singapore Infopedia website.
+
+[^8]:The Singapore Free Press, 10 Mar 1947, p. 5; Singapore massacre Japs guilty. (1947, April 3). The Straits Times, p. 1. Retrieved from NewspaperSG.
+
+[^9]:Plan to kill 50,000 Chinese in Singapore. (1947, March 19). The Straits Times, p. 5. Retrieved from NewspaperSG.
+
+[^10]:National Library Board. (2018, September). Double Tenth incident written by Wong, Heng. Retrieved from Singapore Infopedia wesbite.
