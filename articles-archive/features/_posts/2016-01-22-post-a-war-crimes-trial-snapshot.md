@@ -4,6 +4,8 @@ date: 2016-01-22
 permalink: /vol-11/issue-4/jan-mar-2016/war-crimes-trial-snap
 layout: post
 ---
+
+
 A 1946 photograph from the opening of the War Crimes Trials held in Singapore[^1] is a grim reminder of the atrocities committed by the Japanese during the Japanese Occupation of Singapore (1942–45) – a dark period in Singapore’s history.
 
 The photograph shows members of the court taking an oath. The men in the back row with shaven heads were the first group of Japanese soldiers to be tried in the first of 131 trials held between 21 January 1946 and 12 March 1948.[^2]
