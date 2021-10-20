@@ -47,3 +47,19 @@ This hand-coloured 1596 map is part of the National Library’s David Parry Sout
 <b>Location:</b> Call n.o.: RRARE 912.5 LIN
 <br>
 <b>Donated by:</b> Koh Seow Chuan (monochrome version)</span>
+
+#### **NOTES**
+
+[^1]:Parry, D.E. (2005). *[The cartography of the East Indian Islands = Insulae Indiae Orientalis](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12669569)* (p. 83). London: Country Editions. (Call no.: RSING q912.59 PAR)
+
+[^2]:[Parry](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12669569), 2005, pp. 84–85; Suarez, T. (1999). *[Early mapping of Southeast Asia](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9654316)* (p. 177). Hong Kong: Periplus. (Call no.: RSING q912.59 SUA)
+
+[^3]:[Parry](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12669569), 2005, p. 87.
+
+[^4]:[Suarez](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9654316), 1999, p. 179; Sanderus Maps. (2004–2015). *Old antique map of Southeast Asia by Jan Huygen van Linschoten oriented to the East*. Retrieved from Sanderus Antiquariaat website.
+
+[^5]:Borschberg, P. (Ed.). (2004). Remapping the Straits of Singapore? New insights from old sources, In *[Iberians in the Singapore-Melaka Area (16th to 18th century)](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12493225)* (p. 96). Wiesbaden: Harrossowitz; Lisboa: Fundacao Oriente. (Call no.: RSING 959.50046 BOR)
+
+[^6]:Sanderus Maps, 2004–2015.
+
+[^7]:[Parry](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12669569), 2005, pp. 85, 87.
