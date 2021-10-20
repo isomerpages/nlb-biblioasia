@@ -4,11 +4,13 @@ date: 2016-01-22
 permalink: /vol-11/issue-4/jan-mar-2016/mapthatopenedupseasia
 layout: post
 ---
-<div style="background-color: white;"><img src=""></i></div>
+<div style="background-color: white;"><img src="/images/vol-11-issue-4/map-that-opened-southeast-asia/02_mapthatopenedsea.jpg">The National Library has two different versions of the Exacta & Accurata map, both dated 1596: a black and-white copy donated by the philanthropist and architect Koh Seow Chuan, and this hand-coloured version in the David Parry Southeast Asian Map Collection. <i>All rights reserved, National Library Board, Singapore.</i></div>
 
 By the late 16th century, the Portuguese had dominated the trade in Southeast Asia for nearly a hundred years. Its monopoly depended on closely guarded knowledge about the best sailing routes to the region, known as the East Indies at the time.[^1]
 
 But a Dutchman called Jan Huygen van Linschoten changed the course of history for Singapore and Southeast Asia by deciphering the secrets of the Portuguese and sharing them with the world. Linschoten was the secretary to Don Frey Vicente de Fonseca, the Archbbishop of Goa, which was then under Portuguese rule. During his employment, Linschoten painstakingly made copies of archives that spelt out the closely guarded sailing directions.
+
+<div style="background-color: white;"><img style="width:500px" src="/images/vol-11-issue-4/map-that-opened-southeast-asia/01_mapthatopenedsea.jpg">Jan Huygen van Linschoten (1563–1611). Reproduced from Het Itinerario van Jan Huygen van Linschoten 1579-1592. <i>Courtesy of Wikimedia Commons.</i></div>
 
 Combining this information with his own travel experiences and observations in Goa, Linschoten created a maritime handbook that was published in 1595. The following year, he revealed even more of his hard-earned knowledge in a second, more detailed work: *Itinerario, Voyage ofte Schipvaert van Jan Huygen van Linschoten naer Oost ofte Portugaels Indien, 1579–1592* (*Travel Account of the Voyage of the Sailor Jan Huygen van Linschoten to the Portuguese East India*).
 
@@ -23,6 +25,8 @@ The map positions the islands from Sumatra in the west to Pupua, the early refer
 China takes the form of a land of elephants and rhinoceroses, and is displayed with four large lakes in its interior on Luiz Jorge de Barbuda’s conception of the country as having a river system comprising several large lakes. Barbuda was a Portuguese cartographer who served Philip II of Spain from 1582.[^4]
 
 Interestingly, the map also shows a place called “Sincapura” on the southern tip of the Malay Peninsula. While the name alludes to the modern city of Singapore, scholars believe that the name and its variants, such as “C. Cinca Pula”, were used in European maps from the 1500s to the 1800s to denote either the town of Singapore, one of several straits on which Singapore is located, or the southern tip of the Malay Peninsula.[^5] Java on the map has an unknown south coast, and the shape of Celebes, or Sulawesi, is inaccurate.[^6]
+
+<div style="background-color: white;"><img src="/images/vol-11-issue-4/map-that-opened-southeast-asia/03_mapthatopenedsea.jpg">This detail, taken from the black-and-white version of the 1596 map, shows “Sincapura” on the southern tip of the Malay Peninsula. <i>All rights reserved, National Library Board, Singapore.</i></div>
 
 Linschoten and Petrus Plancius, a Flemish astronomer, geographer and theologian who prepared the map, revealed how knowledgeable the Portuguese were of Southeast Asia in the early to mid-16th century due to their extensive maritime explorations and rigorous navigational charting of the area.
 
