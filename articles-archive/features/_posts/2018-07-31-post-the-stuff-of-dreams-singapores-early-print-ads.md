@@ -126,8 +126,8 @@ Early business directories, periodicals, magazines, souvenir publications, trave
 
 #### **NOTES**
 [^1]:Fletcher, W. (2010). *Advertising: A very short introduction* (p. 31). Oxford: Oxford University Press, New York. Retrieved from OceanofPDF.com
-[^2]:许俊基. (主编) [Xu, J.] (Ed.). (2006). [中国广告史](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12765463) [Zhongguo guang gao shi] (p. 70). 北京: 中国传媒大学出版社. (Call no.: Chinese RBUS q659.10951 ZGG)
-[^3]:Romance of Advertising. (1935, October). [*The RODA: Magazine of the [Rotary] clubs of Malaya and Siam, 5*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5053556) (52),199–203. Singapore: Roda. (Call no.: RRARE 369.509595 R; Microfilm no.: NL 7312)
+[^2]:许俊基. (主编) [Xu, J.] (Ed.). (2006). [*中国广告史*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12765463) [*Zhongguo guang gao shi*] (p. 70). 北京: 中国传媒大学出版社. (Call no.: Chinese RBUS q659.10951 ZGG)
+[^3]:Romance of Advertising. (1935, October). [*The RODA: Magazine of the [Rotary] clubs of Malaya and Siam*]*, 5*(https://eservice.nlb.gov.sg/item_holding.aspx?bid=5053556) (52),199–203. Singapore: Roda. (Call no.: RRARE 369.509595 R; Microfilm no.: NL 7312)
 [^4]:[Fletcher](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14131948), 2010, p. 31. [Note: The advertisement was issued by English printer William Caxton and offered for sale his edition of the *Sarum Ordinal*, a manual for priests.].
 [^5]:Williams, K. (2010). [*Read all about it!: A history of the British newspaper*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13192640) (pp. 39–40)). London; Routledge, New York. (Call no.: R 072.09 WIL)
 [^6]:[1] Lim, P.P.H. (1992). [*Singapore, Malaysian and Brunei newspapers: An international union list*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6340966) (pp. 3–56). Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 016.0795957 LIM-[LIB]) 
