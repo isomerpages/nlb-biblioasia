@@ -7,11 +7,11 @@ layout: post
 #### **Tim Bunnell** speaks to former Malay sailors who reside in the English city and learns how they manage to sustain their identity in a city so removed from home.
 
 <img src="/images/Vol-14-issue-2/malay-seafarers-in-liverpool/Seafarers1.JPG">
-<div style="background-color: white;"></i></div>
+<div style="background-color: white;">Malay seafarers in Liverpool sent postcards “home” to villages, towns and cities in Southeast Asia. This is one such postcard sent by Carrim Haji Quigus Rahim on 28 January 1989. Carrim was the man from whom Abdul Rahim Daud had rented a room in the early 1970s. The latter began his studies at Liverpool University in 1970 and was a frequent visitor to the Malay Club at 7 Jermyn Street as a student. <i>Courtesy of Noegroho Andy Handojo.</i></div>
 
-Liverpool saw extremes of both prosperity and decline in a span of just two centuries.1 Between the 18th and early 20th centuries, the British city on the northwestern coast of England, where the River Mersey meets the Irish Sea, was a major global trade and migration port. During the Industrial Revolution that took place from around 1760 to 1840, Liverpool’s role as the main gateway in the West for raw materials and finished goods, along with the ships that called there, were instrumental in developing Britain’s trading links with North and South America, West Africa, the Middle and Far East, and Australia.
+Liverpool saw extremes of both prosperity and decline in a span of just two centuries.[^1] Between the 18th and early 20th centuries, the British city on the northwestern coast of England, where the River Mersey meets the Irish Sea, was a major global trade and migration port. During the Industrial Revolution that took place from around 1760 to 1840, Liverpool’s role as the main gateway in the West for raw materials and finished goods, along with the ships that called there, were instrumental in developing Britain’s trading links with North and South America, West Africa, the Middle and Far East, and Australia.
 
-At the end of the 19th century, Liverpool’s four major import trades – cotton, sugar, timber and grain – flourished and its dock force alone numbered 30,000.2 But in the last three decades of the 20th century, the one-time “world city” fell into economic decline, and by the early 1980s, unemployment rates in Liverpool were among the highest in the United Kingdom.3
+At the end of the 19th century, Liverpool’s four major import trades – cotton, sugar, timber and grain – flourished and its dock force alone numbered 30,000.[^2] But in the last three decades of the 20th century, the one-time “world city” fell into economic decline, and by the early 1980s, unemployment rates in Liverpool were among the highest in the United Kingdom.[^3]
 
 <img src="/images/Vol-14-issue-2/malay-seafarers-in-liverpool/Seafarers2.JPG">
 <div style="background-color: white;">(Left) An illustration depicting the port of Liverpool during its heyday in the 1950s. <i>Image reproduced from flickr.</i><br>
@@ -25,11 +25,11 @@ Between the 1940s and 60s, some of these Malay sailors settled in port cities in
 
 Hailing from Tanjung Keling on the outskirts of Malacca, Mohamed Nor Hamid (Mat Nor) first arrived in Liverpool in 1952 as a crew member on the *Cingalese Prince*. Soon after arrival, he was able to locate his uncle, Youp bin Baba (Ben Youp), and his family with the help of other Malay seamen residing in Liverpool.
 
-Youp had married a local English woman and settled down at 144 Upper Huskisson Street.4 As it turned out, Youp was away at sea and the guest rooms in his house were occupied by other visiting Malay seamen. Fortunately, Mat Nor was able to find accommodation just next door at No. 142, in the home of fellow Malaccan, Nemit Bin Ayem from Purukalam Tigi, and his English wife Bridgit.
+Youp had married a local English woman and settled down at 144 Upper Huskisson Street.[^4] As it turned out, Youp was away at sea and the guest rooms in his house were occupied by other visiting Malay seamen. Fortunately, Mat Nor was able to find accommodation just next door at No. 142, in the home of fellow Malaccan, Nemit Bin Ayem from Purukalam Tigi, and his English wife Bridgit.
 
 It is not difficult to understand why Malay seamen decided to use Liverpool as their home port in the two decades after World War II. Malays already working on the docks generally looked out for new arrivals from their homeland. Even those who slipped through this net and ended up at the Seamen’s Mission in Canning Place were often directed to 144 Upper Huskisson Street and other houses like it.
 
-There was also no shortage of seafaring work during this time. Historian Jon Murden describes the period as a postwar economic “golden age” during which worldwide demand for Britain’s manufactured goods soared and Liverpool’s port and merchant marine served the rapidly expanding trade.5 This meant that there was a regular in-flow and through-flow of seafarers from British Malaya.
+There was also no shortage of seafaring work during this time. Historian Jon Murden describes the period as a postwar economic “golden age” during which worldwide demand for Britain’s manufactured goods soared and Liverpool’s port and merchant marine served the rapidly expanding trade.[^5] This meant that there was a regular in-flow and through-flow of seafarers from British Malaya.
 
 <img src="/images/Vol-14-issue-2/malay-seafarers-in-liverpool/Seafarers3.JPG">
 <div style="background-color: white;">(Left) Mohamed Nor Hamid (Mat Nor), who was born in Tanjung Keling, Malacca, arrived in Liverpool on the Cingalese Prince in 1952. He married an Englishwoman in 1959 and later took on a shore job as a crane driver on the docks. Mat Nor became the president of Liverpool’s Malay Club in the early 1990s, and oversaw its registration as the Merseyside Malaysian and Singapore Community Association. <i>Courtesy of Mohamed Nor Hamid.</i><br>
@@ -37,15 +37,15 @@ There was also no shortage of seafaring work during this time. Historian Jon Mur
 
 Mat Nor reminisces of his life in Liverpool:
 
-“We forget about all the life in Singapore, you know. That’s why most of the Malays stay here because it’s a happy life in Liverpool, very happy, very easy to get a job. Any time you want a ship you can get. They send the telegram to the house you see… sometimes three or four telegram come in a day”.6
+“We forget about all the life in Singapore, you know. That’s why most of the Malays stay here because it’s a happy life in Liverpool, very happy, very easy to get a job. Any time you want a ship you can get. They send the telegram to the house you see… sometimes three or four telegram come in a day”.[^6]
 
-The telegrams invited men to the “pool” where they were able to apply for jobs on board ships, subject to passing a medical examination. Given the high demand for seafaring labour, even Malay men who were not British subjects experienced little difficulty in securing work.7
+The telegrams invited men to the “pool” where they were able to apply for jobs on board ships, subject to passing a medical examination. Given the high demand for seafaring labour, even Malay men who were not British subjects experienced little difficulty in securing work.[^7]
 
 #### **A Malay Club on St James Road**
 
-Mat Nor recounted his arrival in Liverpool in 1952: “[F]irst time when I came here, we got no place; Malay people got no place”.8 What he meant was that there was no specifically “Malay place” at which he and his friends could comfortably socialise.
+Mat Nor recounted his arrival in Liverpool in 1952: “[F]irst time when I came here, we got no place; Malay people got no place”.[^8] What he meant was that there was no specifically “Malay place” at which he and his friends could comfortably socialise.
 
-All this changed when the former seafarer Johan Awang, who had moved to Liverpool from New York City after World War II, opened a club for Malay seamen on St James Road in the mid-1950s.9  The Malay Club, as it came to be known, occupied the first floor of a house facing Liverpool’s Anglican Cathedral. By that time, Johan Awang’s own home on 37 Greenland Street – a short walk from St James Road – was already well known to visiting as well as Liverpool-based Malay seamen.
+All this changed when the former seafarer Johan Awang, who had moved to Liverpool from New York City after World War II, opened a club for Malay seamen on St James Road in the mid-1950s.[^9]  The Malay Club, as it came to be known, occupied the first floor of a house facing Liverpool’s Anglican Cathedral. By that time, Johan Awang’s own home on 37 Greenland Street – a short walk from St James Road – was already well known to visiting as well as Liverpool-based Malay seamen.
 
 The Malay Club had bunk beds for visiting seamen, a big backyard and a games room with a dartboard. There was also a prayer room on the second floor. Food was central to memories of the club and, more broadly, of Malay Liverpool during that period – the very mention of spicy Malay fare cooked for special occasions and gatherings would transport people whom I interviewed back to St James Road club of the 1950s..
 
@@ -58,7 +58,7 @@ At weekends, seamen took their children and wives to visit what was otherwise la
 
 In the 1960s, with the streets southwest of the Anglican Cathedral marked out for post-war redevelopment, a group of Liverpool-based Malay seamen pooled their resources to buy a house at No. 7 Jermyn Street, just off bustling Granby Street, in what is today known as the Liverpool 8 area of the city.
 
-Surviving records reveal that an agreement was signed on 4 June 1963 to purchase the building from a Marjorie Josephine Steele for £1,500. A supplementary trust deed signed in 1974 names Abdul Salem and Bahazin Bin-Kassim10 as the trustees of the property.
+Surviving records reveal that an agreement was signed on 4 June 1963 to purchase the building from a Marjorie Josephine Steele for £1,500. A supplementary trust deed signed in 1974 names Abdul Salem and Bahazin Bin-Kassim[^10] as the trustees of the property.
 
 Bahazin, who was born in Perak, Malaya, in 1924, became the first president of the club at its new location, and also assumed the all-important role of cook. As had been the case at St James Road, the clubhouse on Jermyn Street included a prayer room. However, Bahazin is remembered as having been less strict than Johan Awang with regard to the activities that could take place in the club.
 
@@ -67,7 +67,7 @@ Bahazin, who was born in Perak, Malaya, in 1924, became the first president of t
 
 Food was available during the fasting month of Ramadan, for example, and Bahazin would say that it was “between you and God” whether it was eaten or not. Bahazin bought the house next to the club – No. 5 – and lived there with his English wife. With Malay lodgers staying at both numbers 5 and 7, Jermyn Street became a place in Liverpool where it was always possible to find Malay banter and spicy food.
 
-Overall, this was a happy and optimistic time for the Malay community in Liverpool. The city had become the “capital of the Malay Atlantic”11 and, in some ways, for many Liverpudilians, it felt like the centre of the world. In addition to ambitious municipal plans announced in the 1960s for a hypermodern Liverpool of the 21st century, exciting things were happening in its music scene – this was the birthplace of the wildly popular Beatles – and in the city’s football stadiums.12 The mid-1960s also saw an all-time record tonnage of cargo passing through the port. Jobs were still relatively easy to come by, at sea and onshore, including on the docks where Mat Nor worked.
+Overall, this was a happy and optimistic time for the Malay community in Liverpool. The city had become the “capital of the Malay Atlantic”[^11] and, in some ways, for many Liverpudilians, it felt like the centre of the world. In addition to ambitious municipal plans announced in the 1960s for a hypermodern Liverpool of the 21st century, exciting things were happening in its music scene – this was the birthplace of the wildly popular Beatles – and in the city’s football stadiums.[^12] The mid-1960s also saw an all-time record tonnage of cargo passing through the port. Jobs were still relatively easy to come by, at sea and onshore, including on the docks where Mat Nor worked.
 
 #### **A Place for Malays**
 
@@ -87,14 +87,14 @@ In contrast, the number of Malaysian students arriving in Liverpool began to inc
 
 Abdul Rahim Daud was one of only two Malay students from Malaysia who began studies at Liverpool University in 1970. He recalls that by his final year, the numbers were much greater, but also that he enjoyed visiting ex-seafarers at No. 7 Jermyn Street:
 
-“Last time there’s no internet, phone also, no mobile so say like as if total bye-bye to your parents, to your *kampong* [home village]. So you feel like homesick so that’s why I used to go very often to the Malay Club so at least see them, meet them, at least I feel a reduced homesick a little bit”.13
+“Last time there’s no internet, phone also, no mobile so say like as if total bye-bye to your parents, to your *kampong* [home village]. So you feel like homesick so that’s why I used to go very often to the Malay Club so at least see them, meet them, at least I feel a reduced homesick a little bit”.[^13]
 
 By this time, Liverpool was no longer the thriving city and maritime port it once had been. Granby Street, near the Malay Club’s second home in the Liverpool 8 district, had been a busy commercial thoroughfare in the 1960s. In the following decade, however, the area became synonymous with “inner-city” social and economic problems arising in part from Liverpool’s diminished position in the national and international arena. Media coverage of the infamous street disturbances in Liverpool in the 1980s marked the city on national mental maps as the “new Harlem of Liverpool”, and it came to be seen as the epitome of British post-imperial and post-industrial urban decline.
 
 <img src="/images/Vol-14-issue-2/malay-seafarers-in-liverpool/Seafarers6.JPG">
 <div style="background-color: white;">The section of Jermyn Street that includes the Malay Club at No. 7. Photo taken in December 2003. <i>Courtesy of Tim Bunnell.</i></div>
 
-Opportunities for dock work, particularly, were badly affected, with total employment in 1979 being less than half of what it was in 1967. In 1979, it was reported that five or six out of every 10 Malay men in the city were unemployed and receiving social security payments.14 Retrenched from Gladstone Dock in 1978, Mat Nor used some of the redundancy money to pay for a return trip to Malaysia with his Liverpool-born family.
+Opportunities for dock work, particularly, were badly affected, with total employment in 1979 being less than half of what it was in 1967. In 1979, it was reported that five or six out of every 10 Malay men in the city were unemployed and receiving social security payments.[^14] Retrenched from Gladstone Dock in 1978, Mat Nor used some of the redundancy money to pay for a return trip to Malaysia with his Liverpool-born family.
 
 By the late 1980s, the Malay Club had become known as the Malaysia-Singapore Association. In the early 1990s, the club – with Mat Nor as its president – was officially registered as the Merseyside Malaysian and Singapore Community Association (MSA).
 
