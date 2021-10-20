@@ -19,7 +19,7 @@ Over the years, Singapore has become more and more of a consumerist society: the
 
 Looking back at the 1950s and 60s, it is not surprising that people think of Singapore’s shopping areas as culturally important, even though they did not “hang out” there as people do these days in Orchard Road, or they might acknowledge how small and unsophisticated these shops were compared with today’s swanky air-conditioned malls.[^3]
 
-<img style="width: 350px; height: 450px;" src="/images/Vol-14-issue-2/going-shopping-in-the-60s/Shopping2.JPG">
+<img style="width: 380px; height: 450px;" src="/images/Vol-14-issue-2/going-shopping-in-the-60s/Shopping2.JPG">
 <div style="background-color: white;">Shopping in the 1960s Singapore was an entirely different experience. Most of the shops then were standalone outlets compared with the glitzy air-conditioned malls found all over the islands today, 1969. <i>George W. Porter Collection, courtesy of National Archives of Singapore.</i></div>
 
 This cultural shift is something to bear in mind as we take a closer look at these old shopping hubs. As focal points of cultural importance, what were they like, how are they remembered and what did they represent to people in the past (and perhaps, in the present as well)?
