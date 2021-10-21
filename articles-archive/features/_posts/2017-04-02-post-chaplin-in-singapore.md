@@ -172,21 +172,21 @@ On Friday 10 April, Chaplin and Goddard finally sailed from Singapore on the Fre
 
 #### **NOTES**
 
-[^1]:Chaplin, C. (2014). A comedian sees the world (Parts IV & V). L. S. Haven (Ed.). Columbia, Missouri: University of Missouri Press. (Not available in NLB holdings)
+[^1]:Chaplin, C. (2014). *A comedian sees the world* (Parts IV & V). L. S. Haven (Ed.). Columbia, Missouri: University of Missouri Press. (Not available in NLB holdings)
 
-[^2]:Chaplin, C. (2003). Charles Chaplin: My autobiography (Chapter 23). London: Penguin Classics. (Not available in NLB holdings)
+[^2]:Chaplin, C. (2003). *Charles Chaplin: My autobiography* (Chapter 23). London: Penguin Classics. (Not available in NLB holdings)
 
-[^3]:Haven, L.S. (2014). Introduction (p. 2). In C. Chaplin, A comedian sees the world. Columbia, Missouri: University of Missouri Press. (Not available in NLB holdings)
+[^3]:Haven, L.S. (2014). Introduction (p. 2). In *C. Chaplin, A comedian sees the world*. Columbia, Missouri: University of Missouri Press. (Not available in NLB holdings)
 
 [^4]:Chaplin, 2003, p. 361.
 
 [^5]:The Japan Mail Steam Ship Company.
 
-[^6]:Charles and Syd Chaplin arrive. (1932, March 28). The Straits Times, p. 12; Charlie Chaplin in Singapore. (1932, April 2). The Malayan Saturday Post, p. 29. Retrieved from NewspaperSG.
+[^6]:[Charles and Syd Chaplin arrive](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19320328-1.2.61). (1932, March 28). *The Straits Times*, p. 12; [Charlie Chaplin in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19320328-1.2.61). (1932, April 2). *The Malayan Saturday Post*, p. 29. Retrieved from NewspaperSG.
 
-[^7]:Haven, L.S. (2014). Tour itinerary (p. 149). In C. Chaplin, A comedian sees the world. Columbia, Missouri: University of Missouri Press. (Not available in NLB holdings)
+[^7]:Haven, L.S. (2014). Tour itinerary (p. 149). In *C. Chaplin, A comedian sees the world*. Columbia, Missouri: University of Missouri Press. (Not available in NLB holdings)
 
-[^8]:An expression popularised by Rudyard Kipling in his 1890 poem titled “Mandalay”, frequently used in the 1920s and 30s, particularly in guide books such as Willis, A.C. (1934). Willis’s Singapore guide. Singapore: Advertising and Publicity Bureau Ltd. (Call no.: RRARE 915.957 WIL; Microfilm no.: NL 30538)
+[^8]:An expression popularised by Rudyard Kipling in his 1890 poem titled “Mandalay”, frequently used in the 1920s and 30s, particularly in guide books such as Willis, A.C. (1934). *[Willis’s Singapore guide](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13371263)*. Singapore: Advertising and Publicity Bureau Ltd. (Call no.: RRARE 915.957 WIL; Microfilm no.: NL 30538)
 
 [^9]:Chaplin, 2003, p. 362.
 
@@ -196,7 +196,7 @@ On Friday 10 April, Chaplin and Goddard finally sailed from Singapore on the Fre
 
 [^12]:Chaplin, 2014, p. 127.
 
-[^13]:The Straits Times, 28 Mar 1932, p. 12.
+[^13]:*[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19320328-1.2.61),* 28 Mar 1932, p. 12.
 
 [^14]:Chaplin, 2014, p. 127.
 
