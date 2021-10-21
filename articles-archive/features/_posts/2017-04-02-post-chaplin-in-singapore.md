@@ -90,7 +90,7 @@ In the meantime, Sydney Chaplin stayed at the Adelphi Hotel, where he enjoyed ho
 
 In the end, Charles Chaplin was warded at the Singapore General Hospital much longer than he had expected. He was discharged on 26 April, thus missing the ship to Japan, and had to stay put in Singapore until 6 May.
 
-<div style="background-color: white;"><img style="width:700px" src="/images/Vol-13-issue-1/chaplin-in-singapore/04_charliechaplin.jpg">Charles Chaplin and his brother made a second stopover in Singapore, arriving on 20 April 1932 via Java. Unfortunately, Chaplin had  contracted dengue fever while in Indonesia and was warded at the Singapore General Hospital for eight days. <i>The Straits Times, 26 April 1932, p. 12.</i></div>
+<div style="background-color: white;"><img style="width:450px" src="/images/Vol-13-issue-1/chaplin-in-singapore/04_charliechaplin.jpg">Charles Chaplin and his brother made a second stopover in Singapore, arriving on 20 April 1932 via Java. Unfortunately, Chaplin had  contracted dengue fever while in Indonesia and was warded at the Singapore General Hospital for eight days. <i>The Straits Times, 26 April 1932, p. 12.</i></div>
 
 Once Charles was out of the hospital, he joined Syd at the Adelphi Hotel, where they wolfed down fresh pineapples,[^24] intent on enjoying their remaining days on the island. As Charles describes it in his travel memoir: “There were several days to wait before we could get a boat to Japan, so in the meantime, we merged ourselves into the life of Singapore… Of course anything after Bali is a letdown. But Singapore has its charm”.[^25]
 
@@ -108,7 +108,7 @@ On 2 May, Charles Chaplin received a letter from the local tycoon Ong Peng Hock,
 
 Charles enjoyed New World so much that he returned with Syd on several occasions before their departure: “Occasionally we would go to the New World – the native Coney Island of Singapore – where every known variety of entertainment is given, from Malay opera to prizefighting.” One evening, after watching a boxing match at New World, Charles was asked to enter the ring and give the prize to the winner.[^30] But what truly fascinated him was the variety of local theatre.
 
-<div style="background-color: white;"><img style="width:700px" src="/images/Vol-13-issue-1/chaplin-in-singapore/06_charliechaplin.jpg">Letter from tycoon Ong Peng Hock inviting Charles Chaplin and his brother Sydney Chaplin for dinner at the New World amusement park. <i>Courtesy of Charlie Chaplin Archive.</i></div>
+<div style="background-color: white;"><img style="width:500px" src="/images/Vol-13-issue-1/chaplin-in-singapore/06_charliechaplin.jpg">Letter from tycoon Ong Peng Hock inviting Charles Chaplin and his brother Sydney Chaplin for dinner at the New World amusement park. <i>Courtesy of Charlie Chaplin Archive.</i></div>
 
 “The Chinese drama listed several nights. My brother and I would sit of an evening trying to guess the different symbols that the actors used during the play. One was a stick with a fringe of wool around the top and center, which the actors would shake majestically. I guessed correctly. It was a horse”.[^31]
 
@@ -122,7 +122,7 @@ On 6 May 1932, after an extended 15-day sojourn in Singapore, the Chaplin brothe
 
 Almost exactly four years later, soon after Charles Chaplin’s latest film *Modern Times* was completed and released, he made his second trip to Singapore.
 
-<div style="background-color: white;"><img style="width:700px" src="/images/Vol-13-issue-1/chaplin-in-singapore/07_charliechaplin.jpg">Charles Chaplin’s silent film <i>Modern Times</i> premiered at the Capitol Theatre on 12 May 1936, barely a month after Chaplin left Singapore. <i>The Morning Tribune, 21 April 1936, p. 20.</i></div>
+<div style="background-color: white;"><img style="width:500px" src="/images/Vol-13-issue-1/chaplin-in-singapore/07_charliechaplin.jpg">Charles Chaplin’s silent film <i>Modern Times</i> premiered at the Capitol Theatre on 12 May 1936, barely a month after Chaplin left Singapore. <i>The Morning Tribune, 21 April 1936, p. 20.</i></div>
 
 *Modern Times* would be the last film in which the affable Tramp, Chaplin’s universally recognised screen persona, would appear. Produced in the middle of the decade-long Great Depression and capturing the angst of the period, *Modern Times* is a tragicomedy depicting, among other themes, the struggles of work life in the era of rising industrial automation.
 
