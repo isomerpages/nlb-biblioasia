@@ -162,6 +162,14 @@ The three-night stopover was mostly uneventful save for another lunch meeting wi
 
 On Friday 10 April, Chaplin and Goddard finally sailed from Singapore on the French liner Aramis, heading for Indochina before taking a slow cruise back to the US. Chaplin’s fascination with Singapore was not over yet. He would return again in 1961 with his fourth (and final) wife, the actress Oona O’Neil, whom he married in 1943. But that, as they say, is another story.
 
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Vol-13-issue-1/chaplin-in-singapore/raphael1.png">
+	<b>Raphaël Millet</b> is a film director, producer and critic with a passion for early cinema. He has published two books, <i>Le Cinéma de Singapour</i> (2004) and <i>Singapore Cinema</i> (2006), as well as directed documentaries such as <i>Gaston Méliès and His Wandering Star Film Company</i> (2015), screened as part of the 2015 Singapore International Film Festival, and <i>Chaplin in Bali</i> (2017), which opened the Bali International Film Festival in 2017.
+</div>
+
+<a href="/vol-13/issue-1/apr-jun-2017/"><center>Back to Issue</center></a>
+
 #### **NOTES**
 
 [^1]:Chaplin, C. (2014). A comedian sees the world (Parts IV & V). L. S. Haven (Ed.). Columbia, Missouri: University of Missouri Press. (Not available in NLB holdings)
