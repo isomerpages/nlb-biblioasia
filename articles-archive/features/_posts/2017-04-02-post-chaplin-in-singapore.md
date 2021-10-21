@@ -163,3 +163,89 @@ The three-night stopover was mostly uneventful save for another lunch meeting wi
 On Friday 10 April, Chaplin and Goddard finally sailed from Singapore on the French liner Aramis, heading for Indochina before taking a slow cruise back to the US. Chaplin’s fascination with Singapore was not over yet. He would return again in 1961 with his fourth (and final) wife, the actress Oona O’Neil, whom he married in 1943. But that, as they say, is another story.
 
 #### **NOTES**
+
+[^1]:Chaplin, C. (2014). A comedian sees the world (Parts IV & V). L. S. Haven (Ed.). Columbia, Missouri: University of Missouri Press. (Not available in NLB holdings)
+
+[^2]:Chaplin, C. (2003). Charles Chaplin: My autobiography (Chapter 23). London: Penguin Classics. (Not available in NLB holdings)
+
+[^3]:Haven, L.S. (2014). Introduction (p. 2). In C. Chaplin, A comedian sees the world. Columbia, Missouri: University of Missouri Press. (Not available in NLB holdings)
+
+[^4]:Chaplin, 2003, p. 361.
+
+[^5]:The Japan Mail Steam Ship Company.
+
+[^6]:Charles and Syd Chaplin arrive. (1932, March 28). The Straits Times, p. 12; Charlie Chaplin in Singapore. (1932, April 2). The Malayan Saturday Post, p. 29. Retrieved from NewspaperSG.
+
+[^7]:Haven, L.S. (2014). Tour itinerary (p. 149). In C. Chaplin, A comedian sees the world. Columbia, Missouri: University of Missouri Press. (Not available in NLB holdings)
+
+[^8]:An expression popularised by Rudyard Kipling in his 1890 poem titled “Mandalay”, frequently used in the 1920s and 30s, particularly in guide books such as Willis, A.C. (1934). Willis’s Singapore guide. Singapore: Advertising and Publicity Bureau Ltd. (Call no.: RRARE 915.957 WIL; Microfilm no.: NL 30538)
+
+[^9]:Chaplin, 2003, p. 362.
+
+[^10]:Chaplin, 2003, p. 362.
+
+[^11]:Chaplin, 2014, p. 127.
+
+[^12]:Chaplin, 2014, p. 127.
+
+[^13]:The Straits Times, 28 Mar 1932, p. 12.
+
+[^14]:Chaplin, 2014, p. 127.
+
+[^15]:Sydney Chaplin, 1932 travel notes, Charlie Chaplin Archive.
+
+[^16]:The Chaplins’ plans for the future. (1932, April 24). The Straits Times, p. 9. Retrieved from NewspaperSG.
+
+[^17]:Willis, A.C. (1936). Willis’s Singapore guide (pp. 30–31). Singapore: Alfred Charles Willis. Retrieved from BookSG.
+
+[^18]:Sydney Chaplin, 1932 travel notes, Charlie Chaplin Archive.
+
+[^19]:A copy of the Chaplins’ itinerary to Java and Bali drawn up by Thomas Cook and Son has been preserved in the Charlie Chaplin Archive.
+
+[^20]:Clippings of these articles about Charles Chaplin’s illness in Singapore are kept at the Charlie Chaplin Archive.
+
+[^21]:Charles Chaplin was born in the United Kingdom. He never became an American citizen, and always retained British citizenship.
+
+[^22]:Charlie Chaplin ill in Singapore. (1932, April 20). Los Angeles Evening Herald Express, p. 1.
+
+[^23]:The Straits Times, 24 Apr 1932, p. 9.
+
+[^24]:Cf. Sydney Chaplin’s travel notes: “They insist upon serving us California canned fruits instead of the delicious fresh fruits of Singapore. What a strange form of snobbishness! Charlie and I prefer gorging ourselves with fresh pineapples!”
+
+[^25]:Chaplin, 2014, p. 139.
+
+[^26]:Seiryokan Fishing Pond. (n.d.). Retrieved from Charlie Chaplin Picture Database. [Note: The author was unable to find references to such a pond in primary sources of Singapore.]
+
+[^27]:Sydney Chaplin’s notes: “We take rikishaw [sic] rides every night through native quarters”
+
+[^28]:Sydney Chaplin, 1932 travel notes, Charlie Chaplin Archive.
+
+[^29]:Sydney Chaplin, 1932 travel notes, Charlie Chaplin Archive.
+
+[^30]:Gunboat Jack stops Guillermo. (1932, May 2). The Singapore Free Press and Mercantile Advertiser, p. 16. Retrieved from NewspaperSG.
+
+[^31]:Chaplin, 2014, p. 139.
+
+[^32]:Chaplin, 2003, pp. 362–363.
+
+[^33]:Charlie Chaplin may be married in Singapore. (1936, March 16). The Malaya Tribune, p. 11; Chaplin mysterious about marriage. (1936, March 19). The Singapore Free Press and Mercantile Advertiser, p. 1. Retrieved from NewspaperSG; Rumor of Chaplin wedding in Singapore. (1936, March 18). Barrier Miner, p. 2.Retrieved from Trove website. [Note: Although both Charles and Paulette remained extremely discreet about their wedding, it seems that they married offshore near Canton, something which Chaplin himself later acknowledged in his autobiography: “During this rip Paulette and I were married”, also adding a few pages later that they divorced six years later in June 1942 in Juarez, Mexico.]
+
+[^34]:The Singapore Free Press and Mercantile Advertiser, 19 Mar 1936, p. 1.
+
+[^35]:The Singapore Free Press and Mercantile Advertiser, 19 Mar 1936, p. 1.
+
+[^36]:Paulette’s first rickshaw ride. (1936, March 20). The Singapore Free Press and Mercantile Advertiser, p. 1. Retrieved from NewspaperSG.
+
+[^37]:Page 20 advertisement column 1. (1936, April 21). The Morning Tribune, p. 20. Retrieved from NewspaperSG.
+
+[^38]:The Gamine: Paulette Goddard. (n.d.). Retrieved from The Chaplin Office website.
+
+[^39]:Untitled. (1936, March 24). The Malaya Tribune, p. 11. Retrieved from NewspaperSG.
+
+[^40]:Qantas, founded in 1920 as the Queensland and Northern Territory Aerial Services, had started flying internationally from May 1935, when the service from Darwin was extended to Singapore. When Chaplin took this flight, this was still a fairly new route.
+
+[^41]:The Koninklijke Nederlandsch-Indische Luchtvaart Maatschappij (known in English as the Royal Netherlands Indian Airways), founded in 1928, had in 1936 launched a weekly flight from Batavia to Singapore via Palembang. The airline ceased operations in 1947.
+
+[^42]:Chaplin’s return. (1936, April 5). The Straits Times, p. 1; Chaplin Chaplin back in Singapore. (1936, April 8). The Morning Tribune, p. 11. Retrieved from NewspaperSG.
+
+[^43]:The Morning Tribune, 8 Apr 1936, p. 11.
