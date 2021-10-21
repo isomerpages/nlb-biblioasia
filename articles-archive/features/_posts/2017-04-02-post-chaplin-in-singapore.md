@@ -24,41 +24,41 @@ In all Chaplin visited Singapore on three occasions. His second visit was in 193
 
 To be more precise, Chaplin stayed in Singapore twice in 1932. The first time was in late March, on his way to Java and Bali in Indonesia, and the second was on his way back from the archipelago in late April into early May. Even though these may appear to be casual visits by a privileged white tourist taking an extended mid-career break, they left an indelible mark in Chaplin’s memory, so much so that he recounted them in his writings on two separate occasions.
 
-Shortly after Chaplin’s journey to the Orient, he penned a travel memoir titled A Comedian Sees the World, published in five installments in a women’s lifestyle magazine, Women’s Home Companion, from September 1933 to January 1934.[^1] The fifth installment of his work deals extensively with the Asian leg of his trip; it touches upon Singapore before moving to Bali and then Japan.
+Shortly after Chaplin’s journey to the Orient, he penned a travel memoir titled *A Comedian Sees the World*, published in five instalments in a women’s lifestyle magazine, *Women’s Home Companion*, from September 1933 to January 1934.[^1] The fifth instalment of his work deals extensively with the Asian leg of his trip; it touches upon Singapore before moving to Bali and then Japan.
 
-The second time Chaplin mentions Asia again is some 30 years later when he wrote My Autobiography, published in 1964 by the English publishing house Bodley Head, and then by Penguin Books in 1966.[^2]
+The second time Chaplin mentions Asia again is some 30 years later when he wrote *My Autobiography*, published in 1964 by the English publishing house Bodley Head, and then by Penguin Books in 1966.[^2]
 
 #### **What Brought Charlie to Asia?**
 
 Towards the end of the 1920s, Chaplin was confronted with both a personal and a professional crisis. On the personal front, he had to cope with a few reversals of fortune due in part to the acrimonious divorce from his second wife, Lita Grey, in 1927. The news of the divorce, with charges of abuse and infidelity levelled against Chaplin, received front-page coverage in the scandal-mongering American press.
 
-Adding to his woes, Chaplin had been under severe pressure from the Internal Revenue Service because of unpaid back taxes.[^3] On the professional front, he had difficulties transitioning from the era of the silent movies to that of the talkies. He was sceptical of the new technology, and, as a compromise, agreed that his latest film, City Lights, released in early 1931, would feature a music score but no dialogue.
+Adding to his woes, Chaplin had been under severe pressure from the Internal Revenue Service because of unpaid back taxes.[^3] On the professional front, he had difficulties transitioning from the era of the silent movies to that of the talkies. He was sceptical of the new technology, and, as a compromise, agreed that his latest film, *City Lights*, released in early 1931, would feature a music score but no dialogue.
 
-On 13 February 1931, Chaplin sailed to Europe for a publicity tour of City Lights, which took him to England, Germany, Austria, Italy and France. Once the tour was done, Chaplin stayed behind in Europe (mostly in Switzerland and on the French Riviera) as he simply did not feel like going back to Hollywood.[^4] Finally, in February 1932, as he had already been away from home for exactly a year, Chaplin decided to return to California. However, instead of taking the shorter and faster route across the Atlantic and then to the American continent, he would travel a longer, circuitous route via the Orient, a part of the world that he had always wanted to visit.
+On 13 February 1931, Chaplin sailed to Europe for a publicity tour of *City Lights*, which took him to England, Germany, Austria, Italy and France. Once the tour was done, Chaplin stayed behind in Europe (mostly in Switzerland and on the French Riviera) as he simply did not feel like going back to Hollywood.[^4] Finally, in February 1932, as he had already been away from home for exactly a year, Chaplin decided to return to California. However, instead of taking the shorter and faster route across the Atlantic and then to the American continent, he would travel a longer, circuitous route via the Orient, a part of the world that he had always wanted to visit.
 
 Not wanting to travel alone, Chaplin asked his half-brother Sydney, then living in Nice, in the south of France, to accompany him. The two of them had grown up together as impoverished youths in London and had moved to Hollywood, where Sydney (or Syd) intermittently managed his brother’s career in between taking on various acting gigs, before quitting Hollywood for good in the late 1920s.
 
-Accompanying them on the trip was Charles’ personal secretary, Toraichi Kono, a Japanese who had worked for him since 1916. Together, the trio boarded the Japanese NYK (Nippon Yusen Kaisha][^5]) ocean liner called Suwa Maru in the port of Naples, Italy, on 2 March 1932. Sailing via the Suez Canal and Ceylon (now Sri Lanka), they arrived in Singapore on 27 March, according to the local press[^6] – although the date Friday, 25 March is mentioned in the tour itinerary found in the annex to the reprint of Charles Chaplin’s travel memoir.[^7]
+Accompanying them on the trip was Charles’ personal secretary, Toraichi Kono, a Japanese who had worked for him since 1916. Together, the trio boarded the Japanese NYK (Nippon Yusen Kaisha][^5]) ocean liner called *Suwa Maru* in the port of Naples, Italy, on 2 March 1932. Sailing via the Suez Canal and Ceylon (now Sri Lanka), they arrived in Singapore on 27 March, according to the local press[^6] – although the date Friday, 25 March is mentioned in the tour itinerary found in the annex to the reprint of Charles Chaplin’s travel memoir.[^7]
 
 #### **The First Leg of the 1932 Visit**
 
 Singapore, then part of the Straits Settlements under the British Governor Sir Cecil Clementi, clearly featured in Chaplin’s imagination as one of those exotic places located “East of Suez”,[^8] or what was then commonly called “the Orient”, as Chaplin refers to in his writings.[^9]
 
-Leaving Ceylon, Chaplin wrote: “Our next port was Singapore, where we entered the atmosphere of a Chinese willow-pattern plate – banyan trees growing out of the ocean”.[^10] Indeed, it would have looked like a very green and lush coastline as the Suwa Maru sailed into the harbour via the Strait of Malacca, cruising along the picturesque and undeveloped western coast of Singapore.
+Leaving Ceylon, Chaplin wrote: “Our next port was Singapore, where we entered the atmosphere of a Chinese willow-pattern plate – banyan trees growing out of the ocean”.[^10] Indeed, it would have looked like a very green and lush coastline as the *Suwa Maru* sailed into the harbour via the Strait of Malacca, cruising along the picturesque and undeveloped western coast of Singapore.
 
 Even though this is not clearly documented in either Chaplin’s writings or in newspaper articles of the time, the Suwa Maru most likely sailed past the Telok Ayer Basin along the southern shoreline and docked near Johnston’s Pier, located right opposite Battery Road. The pier, which was built in 1856, would be torn down when Clifford Pier, a short distance away along Collyer Quay, was completed in June 1933. Chaplin later recollected: “Myriads of sailboats listed in the bay, and white ocean liners lay dormant, waiting to be fed with cargo, and the harbor sang with color and tropical life”.[^11] Writing was obviously another one of Chaplin’s many talents.
 
 At Johnston’s Pier, about 200 people waited to greet the Chaplin brothers. This was certainly a change from the heaving crowds that had welcomed Charles Chaplin elsewhere. Relieved at the relatively subdued reception in Singapore – what he was looking for in this trip to the Orient was to escape the usual mob frenzy – he later wrote: “The crowds were not as demonstrative here as they were in Ceylon, but then Singapore is two degrees off the equator and I don’t blame them. Nevertheless, there was a medium crowd and I was cheered, photographed, and interviewed”.[^12]
 
-Interestingly, a journalist sent by The Straits Times to cover the event took it upon himself to explain in his article the reason for the modest size of the welcoming party in Singapore:
+Interestingly, a journalist sent by *The Straits Times* to cover the event took it upon himself to explain in his article the reason for the modest size of the welcoming party in Singapore:
 
 “Asiatics are not as demonstrative. They are not in the habit of mobbing cinema stars, even when the star is none other than Charles Chaplin, whose name is better known than that of any other man in the world, whose pictures are as familiar in China, Japan and India as they are in England. Singapore’s cinemagoers did not turn out in force to greet Chaplin, they know of him, they crowd the cinemas to see his pictures, but they did not seem particularly interested in seeing him in the flesh”.[^13]
 
-While still onboard the Suwa Maru, Chaplin agreed to give a group interview to all the journalists present, among whom were British, Japanese, Chinese and Malay reporters, many eager to know if he was still going to make pictures, and if his next picture would be a talkie. To which Chaplin nonchalantly replied: “Of course, I am going to make more pictures. Will my next be silent or talkie? That I cannot say”.
+While still onboard the *Suwa Maru*, Chaplin agreed to give a group interview to all the journalists present, among whom were British, Japanese, Chinese and Malay reporters, many eager to know if he was still going to make pictures, and if his next picture would be a talkie. To which Chaplin nonchalantly replied: “Of course, I am going to make more pictures. Will my next be silent or talkie? That I cannot say”.
 
-The journalists told him that his latest film, City Lights, had already been shown in Singapore and was very well received by local audiences. Chaplin expressed surprise:
+The journalists told him that his latest film, *City Lights*, had already been shown in Singapore and was very well received by local audiences. Chaplin expressed surprise:
 
-“Is that really so? I should never have believed it. And they liked City Lights, you say? I am glad to hear that. You see, a picture with just a musical accompaniment can be shown anywhere. This is the beauty of it. There are no barriers to the silent picture”.
+“Is that really so? I should never have believed it. And they liked *City Lights*, you say? I am glad to hear that. You see, a picture with just a musical accompaniment can be shown anywhere. This is the beauty of it. There are no barriers to the silent picture”.
 
 Once ashore, the brothers were taken on a guided tour of Singapore. Chaplin’s first impression was positive:
 
@@ -76,13 +76,13 @@ According to Syd’s travel notes, they made the mandatory stop at the Raffles H
 
 Unfortunately, the Chaplin brothers were “the only customers”, Syd noted. Although not officially documented, it is very likely that the brothers spent the night at the Sea View Hotel while waiting for their boat to Java. Syd wrote of the Sea View Hotel in yet another humorous note that seem to corroborate the fact of their stay: “They switch off all our lights after serving us with drinks, because it is midnight – and so, we drink in the dark”.[^18]
 
-The next morning, on 28 March, the Chaplins left Singapore, sailing on the steamship Van Lansberge to Batavia (now Jakarta), then by car to Surabaya where they took another boat to Bali. The itinerary had been prepared by their travel agent, Thomas Cook and Son Ltd, whose Singapore branch was then located at 39 Robinson Road.[^19]
+The next morning, on 28 March, the Chaplins left Singapore, sailing on the steamship *Van Lansberge* to Batavia (now Jakarta), then by car to Surabaya where they took another boat to Bali. The itinerary had been prepared by their travel agent, Thomas Cook and Son Ltd, whose Singapore branch was then located at 39 Robinson Road.[^19]
 
 #### **The Second Leg of the 1932 Visit**
 
 After 18 days in Bali, the Chaplin brothers returned to Singapore via Java, where they disembarked on 20 April 1932. They were not able to catch their connecting ship to Japan on 24 April as they had initially planned as Charles had been stricken with dengue fever during the trip to Bali. On arrival in Singapore, he was immediately taken by ambulance to the Singapore General Hospital, where he was warded for the next eight days.
 
-Not surprisingly, this instantly made the news not only in Singapore, but worldwide. The Associated Press issued a dispatch on 20 April, which was picked up the same day by various newspapers such as the Philadelphia Bulletin, the New York Post, the New York Journal, the Baltimore News, and other leading dailies.[^20] The Los Angeles Evening Herald Express ran a huge headline on its front page: “Charlie Chaplin Ill in Singapore”, followed by a detailed article that read:
+Not surprisingly, this instantly made the news not only in Singapore, but worldwide. *The Associated Pres*s issued a dispatch on 20 April, which was picked up the same day by various newspapers such as the *Philadelphia Bulletin*, the *New York Post*, the *New York Journal*, the *Baltimore News*, and other leading dailies.[^20] *The Los Angeles Evening Herald Express* ran a huge headline on its front page: “Charlie Chaplin Ill in Singapore”, followed by a detailed article that read:
 
 “Charlie Chaplin, American [sic][^21] screen actor, was carried ashore to a hospital upon his arrival here from Java today, suffering a mild attack of fever… The screen star’s illness was diagnosed as dengue fever, a disease peculiar to warm climates and in particular to the East and West Indies… Sydney Chaplin, brother of the famous star, who is accompanying him on the tour, told International News Service that Charlie is progressing satisfactorily”.[^22]
 
@@ -102,7 +102,7 @@ With so much time on their hands, the Chaplin brothers were thrust into Singapor
 
 The Fishers took Charles and Syd on a tour of Capitol Theatre, which had been built a year earlier at the corner of Stamford and North Bridge roads. The Capitol was a grand building that was designed in the neoclassical style. It was one of the finest cinemas of the era, with plush seating for 1,600 patrons, including circle seats, and exceptional acoustics.
 
-The Fishers also took the Chaplin brothers to see the horse races in Serangoon on 30 April, which was duly reported by The Straits Times the next day. The headline read “Chaplin Bros. at the Races”, with a photograph of them dressed smartly in white linen suits and pith helmets that they had purchased a few weeks earlier in Cairo.
+The Fishers also took the Chaplin brothers to see the horse races in Serangoon on 30 April, which was duly reported by *The Straits Times* the next day. The headline read “Chaplin Bros. at the Races”, with a photograph of them dressed smartly in white linen suits and pith helmets that they had purchased a few weeks earlier in Cairo.
 
 On 2 May, Charles Chaplin received a letter from the local tycoon Ong Peng Hock, who invited him and Syd for dinner on the following Thursday at the New World amusement park (which Ong and his elder brother Boon Tat owned) in Jalan Besar. The Chaplins were treated to “an elaborate Chinese dinner”[^29] by Ong, who then introduced them to Chinese and Malay actors and performers working at the New World.
 
@@ -116,22 +116,23 @@ As someone who made his mark in Hollywood, the mecca of the entertainment indust
 
 “My outstanding memory of Singapore is of Chinese actors who performed at the New World Amusement Park, children who were extraordinarily gifted and well read, for their plays consisted of many Chinese classics by the great Chinese poets… The play I saw lasted three nights… Sometimes it is better not to understand the language, for nothing could have affected me more poignantly than the last act, the ironic tones of music, the whining strings, the thundering clash of gongs and the piercing, husky voice of the banished young prince crying out in the anguish of a lost soul… as he made his final exit”.[^32]
 
-On 6 May 1932, after an extended 15-day sojourn in Singapore, the Chaplin brothers departed Singapore for Japan on the NYK vessel Terukuni Maru. They would both come back to visit Singapore again, but not together: Charles in 1936 and 1961; and Sydney in 1937.
+On 6 May 1932, after an extended 15-day sojourn in Singapore, the Chaplin brothers departed Singapore for Japan on the NYK vessel *Terukuni Maru*. They would both come back to visit Singapore again, but not together: Charles in 1936 and 1961; and Sydney in 1937.
 
-Chaplin Returns to Singapore in 1936
-Almost exactly four years later, soon after Charles Chaplin’s latest film Modern Times was completed and released, he made his second trip to Singapore.
+#### **Chaplin Returns to Singapore in 1936**
+
+Almost exactly four years later, soon after Charles Chaplin’s latest film *Modern Times* was completed and released, he made his second trip to Singapore.
 
 <div style="background-color: white;"><img style="width:700px" src="/images/Vol-13-issue-1/chaplin-in-singapore/07_charliechaplin.jpg">Charles Chaplin’s silent film <i>Modern Times</i> premiered at the Capitol Theatre on 12 May 1936, barely a month after Chaplin left Singapore. <i>The Morning Tribune, 21 April 1936, p. 20.</i></div>
 
-Modern Times would be the last film in which the affable Tramp, Chaplin’s universally recognised screen persona, would appear. Produced in the middle of the decade-long Great Depression and capturing the angst of the period, Modern Times is a tragicomedy depicting, among other themes, the struggles of work life in the era of rising industrial automation.
+*Modern Times* would be the last film in which the affable Tramp, Chaplin’s universally recognised screen persona, would appear. Produced in the middle of the decade-long Great Depression and capturing the angst of the period, *Modern Times* is a tragicomedy depicting, among other themes, the struggles of work life in the era of rising industrial automation.
 
-Chaplin was accompanied on his second visit to Asia by his new fiancée and favourite leading lady, the glamorous Paulette Goddard (1910−1990), who was cast as his co-star and love interest in Modern Times.
+Chaplin was accompanied on his second visit to Asia by his new fiancée and favourite leading lady, the glamorous Paulette Goddard (1910−1990), who was cast as his co-star and love interest in *Modern Times*.
 
 <div style="background-color: white;"><img style="width:700px" src="/images/Vol-13-issue-1/chaplin-in-singapore/08_charliechaplin.jpg">Film still from <i>Modern Times</i>. This was the last film in which the affable Tramp, Chaplin’s now universally recognised screen persona, would appear. Produced during the Great Depression years, the film depicts the struggles of work life in the era of rising industrial automation. <i>Courtesy of Modern Times © Roy Export S.A.S.</i></div>
 
-Travelling with them was Paulette’s mother, Alta Mae Goddard, acting as a chaperone, and Chaplin’s new secretary-cum-valet, Frank Yonemori. Sailing via Yokohama, Shanghai, Canton and Hong Kong, the party arrived in Singapore on the Suwa Maru – the same ship that had brought Chaplin to Singapore in 1932 – on 18 March 1936.
+Travelling with them was Paulette’s mother, Alta Mae Goddard, acting as a chaperone, and Chaplin’s new secretary-cum-valet, Frank Yonemori. Sailing via Yokohama, Shanghai, Canton and Hong Kong, the party arrived in Singapore on the *Suwa Maru* – the same ship that had brought Chaplin to Singapore in 1932 – on 18 March 1936.
 
-This time, sailing from the East across the South China Sea, the Suwa Maru docked at Clifford Pier, which had been built in 1933. Even before their arrival, there had been much speculation about Chaplin’s and Goddard’s rumoured wedding (this would have been Chaplin’s third marriage), which was said to have taken place either in Shanghai or Canton, or perhaps soon to be solemnised in Singapore. On 16 March 1936, *The Malaya Tribune* reported in an attention-grabbing headline that “Charlie Chaplin May Be Married in Singapore”; a few days later on 19 March, the front-page headline in *The Singapore Free Press* read “Chaplin Mysterious About Marriage”. [^33]
+This time, sailing from the East across the South China Sea, the *Suwa Maru* docked at Clifford Pier, which had been built in 1933. Even before their arrival, there had been much speculation about Chaplin’s and Goddard’s rumoured wedding (this would have been Chaplin’s third marriage), which was said to have taken place either in Shanghai or Canton, or perhaps soon to be solemnised in Singapore. On 16 March 1936, *The Malaya Tribune* reported in an attention-grabbing headline that “Charlie Chaplin May Be Married in Singapore”; a few days later on 19 March, the front-page headline in *The Singapore Free Press* read “Chaplin Mysterious About Marriage”. [^33]
 
 <div style="background-color: white;"><img style="width:700px" src="/images/Vol-13-issue-1/chaplin-in-singapore/09_charliechaplin.jpg">Charles Chaplin flanked by Alta Mae Goddard (left) and Paulette Goddard on their arrival in Singapore on the Suwa Maru on 18 March 1936. <i>The Singapore Free Press, 19 March 1936, p. 1.</i></div>
 
