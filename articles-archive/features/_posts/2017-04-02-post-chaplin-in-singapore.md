@@ -202,9 +202,9 @@ On Friday 10 April, Chaplin and Goddard finally sailed from Singapore on the Fre
 
 [^15]:Sydney Chaplin, 1932 travel notes, Charlie Chaplin Archive.
 
-[^16]:The Chaplins’ plans for the future. (1932, April 24). The Straits Times, p. 9. Retrieved from NewspaperSG.
+[^16]:[The Chaplins’ plans for the future](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19320424-1.2.55). (1932, April 24). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
 
-[^17]:Willis, A.C. (1936). Willis’s Singapore guide (pp. 30–31). Singapore: Alfred Charles Willis. Retrieved from BookSG.
+[^17]:Willis, A.C. (1936). *[Willis’s Singapore guide](http://eresources.nlb.gov.sg/printheritage/detail/f605bb37-0e57-471e-bc20-0a8dc05cb3c9.aspx)* (pp. 30–31). Singapore: Alfred Charles Willis. Retrieved from BookSG.
 
 [^18]:Sydney Chaplin, 1932 travel notes, Charlie Chaplin Archive.
 
@@ -214,15 +214,15 @@ On Friday 10 April, Chaplin and Goddard finally sailed from Singapore on the Fre
 
 [^21]:Charles Chaplin was born in the United Kingdom. He never became an American citizen, and always retained British citizenship.
 
-[^22]:Charlie Chaplin ill in Singapore. (1932, April 20). Los Angeles Evening Herald Express, p. 1.
+[^22]:Charlie Chaplin ill in Singapore. (1932, April 20). *Los Angeles Evening Herald Express*, p. 1.
 
-[^23]:The Straits Times, 24 Apr 1932, p. 9.
+[^23]:*[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19320424-1.2.55),* 24 Apr 1932, p. 9.
 
 [^24]:Cf. Sydney Chaplin’s travel notes: “They insist upon serving us California canned fruits instead of the delicious fresh fruits of Singapore. What a strange form of snobbishness! Charlie and I prefer gorging ourselves with fresh pineapples!”
 
 [^25]:Chaplin, 2014, p. 139.
 
-[^26]:Seiryokan Fishing Pond. (n.d.). Retrieved from Charlie Chaplin Picture Database. [Note: The author was unable to find references to such a pond in primary sources of Singapore.]
+[^26]:*Seiryokan Fishing Pond*. (n.d.). Retrieved from Charlie Chaplin Picture Database. [Note: The author was unable to find references to such a pond in primary sources of Singapore.]
 
 [^27]:Sydney Chaplin’s notes: “We take rikishaw [sic] rides every night through native quarters”
 
@@ -230,30 +230,30 @@ On Friday 10 April, Chaplin and Goddard finally sailed from Singapore on the Fre
 
 [^29]:Sydney Chaplin, 1932 travel notes, Charlie Chaplin Archive.
 
-[^30]:Gunboat Jack stops Guillermo. (1932, May 2). The Singapore Free Press and Mercantile Advertiser, p. 16. Retrieved from NewspaperSG.
+[^30]:[Gunboat Jack stops Guillermo](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19320502-1.2.85). (1932, May 2). *The Singapore Free Press and Mercantile Advertiser*, p. 16. Retrieved from NewspaperSG.
 
 [^31]:Chaplin, 2014, p. 139.
 
 [^32]:Chaplin, 2003, pp. 362–363.
 
-[^33]:Charlie Chaplin may be married in Singapore. (1936, March 16). The Malaya Tribune, p. 11; Chaplin mysterious about marriage. (1936, March 19). The Singapore Free Press and Mercantile Advertiser, p. 1. Retrieved from NewspaperSG; Rumor of Chaplin wedding in Singapore. (1936, March 18). Barrier Miner, p. 2.Retrieved from Trove website. [Note: Although both Charles and Paulette remained extremely discreet about their wedding, it seems that they married offshore near Canton, something which Chaplin himself later acknowledged in his autobiography: “During this rip Paulette and I were married”, also adding a few pages later that they divorced six years later in June 1942 in Juarez, Mexico.]
+[^33]:[Charlie Chaplin may be married in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19360316-1.2.71). (1936, March 16). *The Malaya Tribune*, p. 11; Chaplin mysterious about marriage. (1936, March 19). *The Singapore Free Press and Mercantile Advertiser*, p. 1. Retrieved from NewspaperSG; Rumor of Chaplin wedding in Singapore. (1936, March 18). *Barrier Miner*, p. 2.Retrieved from Trove website. [Note: Although both Charles and Paulette remained extremely discreet about their wedding, it seems that they married offshore near Canton, something which Chaplin himself later acknowledged in his autobiography: “During this rip Paulette and I were married”, also adding a few pages later that they divorced six years later in June 1942 in Juarez, Mexico.]
 
-[^34]:The Singapore Free Press and Mercantile Advertiser, 19 Mar 1936, p. 1.
+[^34]:*[The Singapore Free Press and Mercantile Advertiser](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19360319-1.2.2.1),* 19 Mar 1936, p. 1.
 
-[^35]:The Singapore Free Press and Mercantile Advertiser, 19 Mar 1936, p. 1.
+[^35]:*[The Singapore Free Press and Mercantile Advertiser](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19360319-1.2.2.1),* 19 Mar 1936, p. 1.
 
-[^36]:Paulette’s first rickshaw ride. (1936, March 20). The Singapore Free Press and Mercantile Advertiser, p. 1. Retrieved from NewspaperSG.
+[^36]:[Paulette’s first rickshaw ride](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19360320-1.2.5). (1936, March 20). *The Singapore Free Press and Mercantile Advertiser*, p. 1. Retrieved from NewspaperSG.
 
-[^37]:Page 20 advertisement column 1. (1936, April 21). The Morning Tribune, p. 20. Retrieved from NewspaperSG.
+[^37]:[Page 20 advertisement column 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/morningtribune19360421-1.2.96.1). (1936, April 21). *The Morning Tribune*, p. 20. Retrieved from NewspaperSG.
 
-[^38]:The Gamine: Paulette Goddard. (n.d.). Retrieved from The Chaplin Office website.
+[^38]:*The Gamine: Paulette Goddard*. (n.d.). Retrieved from The Chaplin Office website.
 
-[^39]:Untitled. (1936, March 24). The Malaya Tribune, p. 11. Retrieved from NewspaperSG.
+[^39]:[Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19360324-1.2.73). (1936, March 24). *The Malaya Tribune*, p. 11. Retrieved from NewspaperSG.
 
 [^40]:Qantas, founded in 1920 as the Queensland and Northern Territory Aerial Services, had started flying internationally from May 1935, when the service from Darwin was extended to Singapore. When Chaplin took this flight, this was still a fairly new route.
 
 [^41]:The Koninklijke Nederlandsch-Indische Luchtvaart Maatschappij (known in English as the Royal Netherlands Indian Airways), founded in 1928, had in 1936 launched a weekly flight from Batavia to Singapore via Palembang. The airline ceased operations in 1947.
 
-[^42]:Chaplin’s return. (1936, April 5). The Straits Times, p. 1; Chaplin Chaplin back in Singapore. (1936, April 8). The Morning Tribune, p. 11. Retrieved from NewspaperSG.
+[^42]:[Chaplin’s return](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360405-1.2.15). (1936, April 5). *The Straits Times*, p. 1; [Chaplin Chaplin back in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/morningtribune19360408-1.2.65). (1936, April 8). *The Morning Tribune*, p. 11. Retrieved from NewspaperSG.
 
-[^43]:The Morning Tribune, 8 Apr 1936, p. 11.
+[^43]:*[The Morning Tribune](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/morningtribune19360408-1.2.65),* 8 Apr 1936, p. 11.
