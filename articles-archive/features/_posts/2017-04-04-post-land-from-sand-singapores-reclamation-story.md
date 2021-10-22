@@ -255,10 +255,10 @@ Although Singapore had to turn to other countries for sand, it recently develope
 
 [^50]:Singapore. Parliament. Parliamentary debates: Official report. (1988, March 28). Reclaimed land at Pulau Tekong Besar (development plans) (Vol. 50, col. 1495). Singapore: [s.n.]. (Call no.: RSING 328.5957 SIN)
 
-[^51]:Singapore. Parliament. Parliamentary debates: Official report. (2000, February 22). Reclamation at Pulau Ubin and Pulau Tekong (Vol. 71, col. 1049). Singapore: [s.n.]. (Call no.: RSING 328.5957 SIN) 
+[^51]:Singapore. Parliament. *[Parliamentary debates: Official report](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4826189)*. (2000, February 22). Reclamation at Pulau Ubin and Pulau Tekong (Vol. 71, col. 1049). Singapore: [s.n.]. (Call no.: RSING 328.5957 SIN) 
 
-[^52]:Ministry of National Development. (2013, January). A high quality living environment for all Singaporeans: Land use plan to support Singapore’s future population, pp. 12–14. Retrieved from Ministry of Development website. 
+[^52]:Ministry of National Development. (2013, January). *A high quality living environment for all Singaporeans: Land use plan to support Singapore’s future population*, pp. 12–14. Retrieved from Ministry of Development website. 
 
-[^53]:Yang, L. (2003). Mechanics of the consolidation of a lumpy soft clay fill (p. 2). [Unpublished doctoral dissertation]. Retrieved from National University of Singapore website.
+[^53]:Yang, L. (2003). *Mechanics of the consolidation of a lumpy soft clay fill* (p. 2). [Unpublished doctoral dissertation]. Retrieved from National University of Singapore website.
 
 [^54]:Yang, 2003, p. 3; Chia, A. (2016, November 16). New reclamation method aims to reduce Singapore’s reliance on sand. *Channel NewsAsia*. Retrieved from Channel NewsAsia website.
