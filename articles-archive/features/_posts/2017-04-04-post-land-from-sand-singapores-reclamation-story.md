@@ -203,21 +203,21 @@ Although Singapore had to turn to other countries for sand, it recently develope
 
 [^24]:The great land reclamation at East Coast. (1983, November 21). The Straits Times, p. 7. Retrieved from NewspaperSG.
 
-[^25]:Housing and Development Board. (1963–). Annual report 1966 (pp. 10–11). Singapore: Housing and Development Board. (Call no.: RCLOS 711.4095957 SIN)
+[^25]:Housing and Development Board. (1963–). *[Annual report 1966](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4662986)* (pp. 10–11). Singapore: Housing and Development Board. (Call no.: RCLOS 711.4095957 SIN)
 
-[^26]:Housing and Development Board, 1972, p. 45; Housing and Development Board, 1977/78, p. 38; Housing and Development Board, 1980/81, p. 41; Goh, H.C., & Heng, C.K. (2016). Shaping Singapore’s cityscape through urban design. In Heng, C.K. (Ed.), 50 years of urban planning in Singapore (p. 228). Singapore; New Jersey: World Scientific. (Call no.: RSING 307.1216095957 FIF); Loo, D. (2005, July 22). Marina Bay the new brand name. The Straits Times, p. 6. Retrieved from NewspaperSG. 
+[^26]:[Housing and Development Board](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4662986), 1972, p. 45; [Housing and Development Board](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4662986), 1977/78, p. 38; [Housing and Development Board](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4662986), 1980/81, p. 41; Goh, H.C., & Heng, C.K. (2016). Shaping Singapore’s cityscape through urban design. In Heng, C.K. (Ed.), *[50 years of urban planning in Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202670914)* (p. 228). Singapore; New Jersey: World Scientific. (Call no.: RSING 307.1216095957 FIF); Loo, D. (2005, July 22). [Marina Bay the new brand name](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20050722-1.2.47.10). *The Straits Times*, p. 6. Retrieved from NewspaperSG. 
 
-[^27]:Housing and Development Board, 1980/81, p. 41; Campbell, W. (1970, June 30). On the waterfront things are moving. The Straits Times, p. 10. Retrieved from NewspaperSG.
+[^27]:[Housing and Development Board](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4662986), 1980/81, p. 41; Campbell, W. (1970, June 30). [On the waterfront things are moving](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19700630-1.2.87). *The Straits Times*, p. 10. Retrieved from NewspaperSG.
 
-[^28]:Housing and Development Board, 1966, pp. 10–11; Housing and Development Board, 1967, p. 48; Housing and Development Board, 1972, p. 45; Housing and Development Board, 1977/78, p. 38.
+[^28]:[Housing and Development Board](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4662986), 1966, pp. 10–11; [Housing and Development Board](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4662986), 1967, p. 48; [Housing and Development Board](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4662986), 1972, p. 45; [Housing and Development Board](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4662986), 1977/78, p. 38.
 
-[^29]:Campbell, W. (1971, August 8). Where 100,000 will live and play on reclaimed East Coast. The Straits Times, p. 6. Retrieved from NewspaperSG.
+[^29]:Campbell, W. (1971, August 8). [Where 100,000 will live and play on reclaimed East Coast](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710808.2.147.14.aspx). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
 
-[^30]:The Straits Times, 21 Nov 1983, p. 7; National Parks Board. (2016, June 28). East Coast Park. Retrieved from National Parks Board website. 
+[^30]:*[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19831121.2.22),* 21 Nov 1983, p. 7; National Parks Board. (2016, June 28). *East Coast Park*. Retrieved from National Parks Board website. 
 
-[^31]:Auger, T. (2015). A river transformed: Singapore River and Marina Bay (pp. 90–91). Singapore: Editions Didier Millet. (Call no.: RSING 711.4095957 AUG); Urban Redevelopment Authority. (2015). The Marina Bay story. Retrieved from Marina Bay website. 
+[^31]:Auger, T. (2015). *[A river transformed: Singapore River and Marina Bay](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202457358)* (pp. 90–91). Singapore: Editions Didier Millet. (Call no.: RSING 711.4095957 AUG); Urban Redevelopment Authority. (2015). *The Marina Bay story*. Retrieved from Marina Bay website. 
 
-[^32]:Lee, H.S. (1989, October 3). URA to start selling Marina South sites in 1992/1993. The Business Times, p. 1. Retrieved from NewspaperSG.
+[^32]:Lee, H.S. (1989, October 3). [URA to start selling Marina South sites in 1992/1993](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19891003-1.2.6). *The Business Times*, p. 1. Retrieved from NewspaperSG.
 
 [^33]:[Housing and Development Board](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4662986), 1963, p. 43; [Housing and Development Board](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4662986), 1966, p. 46; [Housing and Development Board](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4662986), 1966, p. 45.  
 
