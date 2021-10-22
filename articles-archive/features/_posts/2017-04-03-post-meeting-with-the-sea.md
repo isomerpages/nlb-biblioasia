@@ -136,7 +136,7 @@ Uncle Maurice points to undulations of pale grey mounds in the distance on the w
 
 Sand barges lie like alien spacecraft beside them and the air is filled with metallic hissing sounds. These piles of sand are the nascent artificial islands of Melaka Gateway, a project with ambitions to be the largest cluster of synthetic islands in Southeast Asia. The plan for the 246-hectare area is to hold entertainment resorts, theme parks and “man-made eco-islands”.
 
-“We fishermen don’t cry ah? Habis, habis lah“, he says in Malay. When it’s gone, it’s gone.
+“We fishermen don’t cry ah? *Habis, habis lah*“, he says in Malay. When it’s gone, it’s gone.
 
 As I look, I think of my great-grandfather, the fisherman, and imagine the times he’d shared with my own father, passing on traditions that had survived for over five centuries. And now, just three generations later, the thread of all this knowledge and richness would be snapped. My retired father had been trained as a mechanic. As for myself, former women’s magazine journalist and urban princess, I’m hardly the material of a maritime professional.
 
@@ -150,9 +150,9 @@ As we make our way slowly back to shore, Jeremy tells me he works for a local fi
 
 He nods, dazzling me with a smile. “Yes”.
 
-<div style="background-color: white;"><img src="/images/Vol-13-issue-1/meeting-with-the-sea/06_meetingsea.jpg">Religious festivals are part of life in the predominantly Catholic Eurasian community of Malacca’s Portuguese Settlement. Pictured here is the celebration of Festa San Pedro or Saint Peter’s Festival. Saint Peter is the patron saint of fishermen. Some men of the community carry a statue of the saint to the shore to bless the fishing boats. <i>Photo by Desmond Lui. Courtesy of Melissa De Silva.</i></div>
+Finally, we make it to a ramshackle dock and Maurice trades boats with another fisherman. On the second leg of the trip, as we pass mangroves near Kampung Batang Pasir, the trees closer to the water’s edge toppled like fallen soldiers, Maurice tells me the mangroves used to be alive with wild boars, monkeys and birds. This is where the fishermen would catch *siput*, sea snails, then cook them with slices of unripe papaya, small prawns and *santan*, coconut milk.
 
-Finally, we make it to a ramshackle dock and Maurice trades boats with another fisherman. On the second leg of the trip, as we pass mangroves near Kampung Batang Pasir, the trees closer to the water’s edge toppled like fallen soldiers, Maurice tells me the mangroves used to be alive with wild boars, monkeys and birds. This is where the fishermen would catch siput, sea snails, then cook them with slices of unripe papaya, small prawns and santan, coconut milk.
+<div style="background-color: white;"><img src="/images/Vol-13-issue-1/meeting-with-the-sea/06_meetingsea.jpg">Religious festivals are part of life in the predominantly Catholic Eurasian community of Malacca’s Portuguese Settlement. Pictured here is the celebration of Festa San Pedro or Saint Peter’s Festival. Saint Peter is the patron saint of fishermen. Some men of the community carry a statue of the saint to the shore to bless the fishing boats. <i>Photo by Desmond Lui. Courtesy of Melissa De Silva.</i></div>
 
 Here, the ocean is a translucent mud tint, like watery tea stirred with milk, with a greenish-blue rim along the horizon. Flakes of sun dance on the water and I’m gripped by the urge to swim, to glide through the cool. I lean over the boat’s edge and trail my fingers through the waves, letting the water release in a delicious crest.
 
@@ -200,14 +200,14 @@ As I move closer to the jetty, the air is filled with the metallic whine of dril
 
 I remember how it felt to be out in the boat yesterday, the lapping of the waves, the caress of the breeze, the sear of heat on skin. When I started out for Malacca just two days ago to document a vital piece of my heritage, I didn’t imagine I’d be setting off on a journey to the place where I’d finally feel like I belong. Yet this place too, is having its identity eroded by the relentless claw of development. Is it selfish of me that my joy still outweighs my sadness? What I do know is that this is the only patch in the world where I don’t have to explain who I am, or why. There is such relief at being able to walk among people like me, unexplained and understood. The feeling is euphoric.
 
-Tok, tok, tok. The sound of hammering infuses the morning. The sun’s soft light filters through the green netting shrouding the concrete structure, as the yellow hard hats scurry about their business. I turn my back to it all and start making my way down the beach, the noise of industry growing fainter with each step.
+*Tok, tok, tok*. The sound of hammering infuses the morning. The sun’s soft light filters through the green netting shrouding the concrete structure, as the yellow hard hats scurry about their business. I turn my back to it all and start making my way down the beach, the noise of industry growing fainter with each step.
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;">“Meeting with the Sea” appears in Melissa De Silva’s debut collection of short stories, Others is not a Race, to be published by Math Paper Press in 2017.</span>
 
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Vol-13-issue-1/meeting-with-the-sea/melissa.png">
-<b>Melissa De Silva</b> has worked in magazine journalism and publishing, including stints at Singapore Press Holdings and Mediacorp Publishing. Her fiction and non-fiction works have been published in journals in Hong Kong, Singapore and the US. Her debut collection of short stories "Others is not a Race" will be published by Math Paper Press in 2017.
+<b>Melissa De Silva</b> has worked in magazine journalism and publishing, including stints at Singapore Press Holdings and Mediacorp Publishing. Her fiction and non-fiction works have been published in journals in Hong Kong, Singapore and the US. Her debut collection of short stories <i>Others is not a Race</i> will be published by Math Paper Press in 2017.
 </div>
 
 <a href="/vol-13/issue-1/apr-jun-2017/"><center>Back to Issue</center></a>
