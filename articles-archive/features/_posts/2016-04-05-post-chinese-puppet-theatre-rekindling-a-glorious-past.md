@@ -131,3 +131,58 @@ Through my continued contact with the puppeteers, many have expressed their inte
 #### **REFERENCES**
 
 **Books**
+
+Kraus, R.C. (2012). The cultural revolution: A very short introduction. New York: Oxford University Press. (Call no.: 951.056 KRA)
+《华人、华语、华文》[Mandarin: The Chinese connection]. (2000). 新加坡: 推广华语理事会. (Call no.: Chinese RSING  306.4495957 MAN)
+
+**Book chapter**
+
+Chia, C. (2015). Potehi in Singapore, survival and change. In K. Fushiki & R. Ruizendaal (Eds.), Potehi: Glove puppet theatre in Southeast Asia and Taiwan. Taiwan: Taiyuan Publishing. (Call no.: RSEA 791.530951249 POT)
+
+**Journal article**
+
+Ruizendaal, R. (1990). A discovery in Fujian province: Iron-stick puppet theatre. CHIME: Newsletter of the European Foundation for Chinese Music Research, 2, 28-42. (Not available in NLB holdings.)
+
+**Unpublished Theses**
+
+Teh, S.H. (2004). 《新加坡海南杖头木偶－三春隆木偶班个案研究》 [Hainanese rod puppet in Singapore – A case study of San Chun Long puppet troupe]. Honours thesis, National University of Singapore.
+
+Chia, C. (2016). The interaction of oral and literate practices in Singaporean Chinese temple theatre. Doctoral thesis, University of Melbourne.
+
+**Oral history interviews**
+
+Chiang, C. (Interviewer). (1982, February). Oral history interview with Ng Yew Kian [Transcript of MP3 recording no. 000158/10/04, p. 43]. Retrieved from National Archives of Singapore website.
+
+Chua, C.H. (Interviewer). (1988, January 19). Oral history interview with Ng Yew Kian [Transcript of  MP3 recording No. 000874/04/01, pp. 3–8]. Retrieved from National Archives of Singapore website.
+
+Chua, C.H. (Interviewer). (1988, May 28). Oral history interview with Tay Lee Huat [Transcript of MP3 recording no. 000893/09/01, pp. 5–6]. Retrieved from National Archives of Singapore website.
+
+Chua, S.B. (Interviewer). (1988, June 6). Oral history interview with Lee Chye Ee [Transcript of MP3 recording no. 000936/10/02, pp. 24–26]. Retrieved from National Archives of Singapore website.
+
+Wang, Z.C. (Interviewer). (1988, January 16). Oral history interview with Foo Tiang Soon [Transcript of MP3 recording no. 000875/03/01, pp. 23–24, 27]. Retrieved from National Archives of Singapore website.
+
+Wang, Z.C. (Interviewer). (1987, December 15). Oral history interview with Long Hian Keng [Transcript of MP3 recording no. 000859/06/02, p. 18]. Retrieved from National Archives of Singapore website.
+
+**Personal interviews**
+
+Chia, C. (Interviewer). (2015, November 26). *Personal interview with Zhou Jingwen*.
+
+Chia, C. (Interviewer). (2015, November 28). *Personal interview with Zhou Jingwen*.
+
+Chia, C. (Interviewer). (2016, April 29). *Personal interview with Tan Siew Keow*.
+
+Chia, C. (Interviewer). (2016, November 27). *Personal interview with Tina Quek Tina*.
+
+Li, Z. (Interviewer). (2015, June 8). *Personal interview with Goh Swee Theng*.
+
+#### **NOTES**
+
+[^1]:The term “Henghua” is a transliteration of “Xinghua” as Putian city and Xianyou county were previously administered under the Xinghua area.
+
+[^2]:The Speak Mandarin Campaign was launched by then Prime Minister Lee Kuan Yew on 7 September 1979 with the objective of improving communication and understanding among Chinese Singaporeans, and to create a Mandarin-speaking environment conducive to the successful implementation of the bilingual education programme.
+
+[^3]:It is not possible to ascertain if Huang Renshui performed as a puppeteer with the Xin Quan Sheng troupe or with another troupe.
+
+[^4]:The Cultural Revolution in China – also known as the Great Proletarian Cultural Revolution – launched by Mao Zedong, then chairman of the Communist Party, began in May 1966 and lasted until his death in 1976. This revolution mainly targeted the arts and popular beliefs. See Kraus, R.C. (2012). The cultural revolution: A very short introduction. New York: Oxford University Press. (Call no.: 951.056 KRA)
+
+[^5]:In 2014, for instance, I recommended Pang Tong Teng from the Tien Heng Kang troupe (新兴港琼南剧社) to Artsolute, a social group that works with youths to participate in community development and cultural exchange programmes through the arts. At the time, Artsolute was looking for a puppeteer in traditional Chinese puppetry for a cultural exchange trip to Brunei. In 2016, I introduced the Teochew puppet and opera troupe Sin Ee Lye Heng to Lepark, organiser of “Getai Soul 2016”, Singapore’s first soul music festival. The two-day event was held at Pearl’s Hill.
