@@ -6,11 +6,12 @@ collection_name: past-issues
 ---
 Note: When accessing older issues, you may be directed to an archived version.
 
+
 #### Volume 17
 
 |                                                              |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![BiblioAsia 17-1 cover](/images/covers/ba17-1.jpg)[Apr–Jun 2021](/vol-17/issue-1/apr-jun-2021/)<br>[Apr–Jun 2021 (PDF)](/files/pdf/BiblioAsia Apr-Jun 2021.pdf) | ![BiblioAsia 17-1 cover](/images/covers/ba17-2b.jpg)[Jul–Sep 2021](/vol-17/issue-2/jul-sep-2021/)|| ![BiblioAsia 17-3 cover](/images/covers/ba%2017-3e.jpg)[Oct–Dec 2021](/vol-16/issue-3/oct-dec-2021/)<br/>[Oct–Dec 2021 (PDF)](/files/pdf/BiblioAsia%20Oct-Dec%202021.pdf)| ![Blank](/images/covers/placeholdercover-v2.jpg)|
+| ![BiblioAsia 17-1 cover](/images/covers/ba17-1.jpg)[Apr–Jun 2021](/vol-17/issue-1/apr-jun-2021/)<br>[Apr–Jun 2021 (PDF)](/files/pdf/BiblioAsia Apr-Jun 2021.pdf) | ![BiblioAsia 17-1 cover](/images/covers/ba17-2b.jpg)[Jul–Sep 2021](/vol-17/issue-2/jul-sep-2021/)|| ![BiblioAsia 17-3 cover](/images/covers/ba%2017-3e.jpg)[Oct–Dec 2021](/vol-16/issue-3/oct-dec-2021/)<br/>[Oct–Dec 2021 (PDF)](/files/pdf/BiblioAsia%20Oct-Dec%202021.pdf)| ![BiblioAsia 16-4 cover](/images/covers/ba16-4.jpg)[Jan–Mar 2021](/vol-16/issue-4/jan-mar-2021/)<br>[Jan–Mar 2021 (PDF)](/files/pdf/BiblioAsia Jan-Mar 2021.pdf)|
 
 
 #### Volume 16
