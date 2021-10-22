@@ -120,6 +120,8 @@ Over time, these diverse Eurasians came together to form their own distinctive c
 <br><br>
 Historically in Singapore, Eurasians married other Eurasians, contributing to the further mingling of European and Asian lines of heritage within the small, tight-knit community. The typical social circle of a Eurasian during the British colonial times and in the early years after Singapore’s independence included other Eurasians. They were neighbours or family acquaintances; they attended the same church (St Joseph’s Church on Victoria Street for many Eurasian Catholics) and went to the same Christian mission schools, especially those established by the La Salle Brothers and the Sisters of the Holy Infant Jesus. Their active social life included tea dances and New Year’s Eve balls, and games such as rugby, hockey and cricket.
 <br><br>
+<img style="width:700px" src="/images/Vol-13-issue-1/meeting-with-the-sea/05_meetingsea.jpg">William Jansen, a Eurasian, and his family in this photograph taken at the Kampong Java government quarters in 1923. <i>All rights reserved, Blake, M. L., & Ebert-Oehlers, A. (Eds.). (1992). Singapore Eurasians: Memories and Hopes (p. 64). Singapore: Eurasian Association, Singapore, and Times Editions.</i>
+<br><br>
 The Eurasians were united by their common Christian faith, their fluency in English and their cultural habits, which included both Asian and European influences. Eurasian cuisine for instance draws inspiration from Indian, Malay, Chinese and European culinary traditions and offers unique dishes such as devil curry – also spelt as “debal”, meaning “leftovers” in Kristang, a creole language that is traced to the Eurasian community in Portuguese Malacca − beef vindaloo, oxtail stew, salt fish pickle and desserts like sugee cake and brueder cake.
 <br><br>
 <img style="width:400px" src="/images/Vol-13-issue-1/meeting-with-the-sea/04_meetingsea.jpg">Eurasian cuisine is a blend of Indian, Malay, Chinese and European culinary traditions. Devil curry – also spelt as “debal” which means “leftovers” in Kristang – is usually cooked for special occasions and best eaten with a side of crusty bread. <i>All rights reserved, Gomes, M. (2001). The Eurasian Cookbook (p. 68). Singapore: Horizon Books.</i>
@@ -128,10 +130,82 @@ Throughout Singapore’s history, the number of Eurasians has remained low. In t
 <br><br>
 Another factor which contributes to the obscurity of this ethnic group is that unlike the Indians, Malays and Chinese, who have their own category under Singapore’s multicultural policy (known as CMIO, which stands for “Chinese, Malays, Indians and Others”), Eurasians are classified under the category “Others”. In past decades, this category used to refer predominantly to the Eurasians. In recent times, however, the “Others” category has expanded to include new citizens who do not fit into the categories of Indian, Malay or Chinese, such as Filipinos, Caucasians, Africans and Japanese.
 <br><br>
-Eurasians now find themselves in the same group as citizens who are not perceived as Singaporean from birth, a cause of much frustration and discontent as fellow Singaporeans question if they are indeed Singaporean. In addition, many Eurasians have married out of their race, resulting in a new generation of children who may or may not identify with the Eurasian heritage and culture. These factors in recent years have bred further complex issues of identity for the Eurasian community in Singapore, a people who have had a fractured cultural identity since their inception in colonial times.
-<br><br>
-<h4><b>REFERENCES</b></h4>
-<br><br>
-Blake, M.L., & Ebert-Oehlers, A. (Eds.). (1992). <i><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6319425">Singapore Eurasians: Memories and hopes.</a></i> Singapore: Eurasian Association, Singapore, and Times Editions. (Call no.: RSING 305.80405957 SIN)
-<br><br>
-	Pereira, A.A. (2015). <i><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202092685">Eurasians</a></i>. Singapore: Institute of Policy Studies and Straits Times Press. (Call no.: RSING 305.809095957 PER)</span>
+Eurasians now find themselves in the same group as citizens who are not perceived as Singaporean from birth, a cause of much frustration and discontent as fellow Singaporeans question if they are indeed Singaporean. In addition, many Eurasians have married out of their race, resulting in a new generation of children who may or may not identify with the Eurasian heritage and culture. These factors in recent years have bred further complex issues of identity for the Eurasian community in Singapore, a people who have had a fractured cultural identity since their inception in colonial times.</span>
+	
+Uncle Maurice points to undulations of pale grey mounds in the distance on the water. His forearms are compact and sleek with muscle, lined with protruding veins. “See what happened”, his eyes rest on the coastline of developments, “to our sea”.
+
+Sand barges lie like alien spacecraft beside them and the air is filled with metallic hissing sounds. These piles of sand are the nascent artificial islands of Melaka Gateway, a project with ambitions to be the largest cluster of synthetic islands in Southeast Asia. The plan for the 246-hectare area is to hold entertainment resorts, theme parks and “man-made eco-islands”.
+
+“We fishermen don’t cry ah? Habis, habis lah“, he says in Malay. When it’s gone, it’s gone.
+
+As I look, I think of my great-grandfather, the fisherman, and imagine the times he’d shared with my own father, passing on traditions that had survived for over five centuries. And now, just three generations later, the thread of all this knowledge and richness would be snapped. My retired father had been trained as a mechanic. As for myself, former women’s magazine journalist and urban princess, I’m hardly the material of a maritime professional.
+
+A half hour later, we are having engine trouble. Maurice fiddles with the outboard motor but it doesn’t revive. Smiley Jeremy, with blindingly white, straight teeth and an undercut with attitude, picks up the oar and rows. Without the low roar of the engine, the peace is velvet. The only sounds are the lapping of the sea against the boat and the swish of waves against the sun-bleached wood of the oar.
+
+As we make our way slowly back to shore, Jeremy tells me he works for a local film production house called Marco Polo and has just completed a job working on a film set in Mongolia, filmed in a studio in Johor Bahru. His job was to look after the animals on the set. There were three pigs, two goats, a puppy and a lamb. When two of the pigs got into a scuffle, a piece of one pig’s ear flew off. Jeremy saved it.
+
+“It’s brown now,” he says, sounding like a proud father. “Soon I think it will be black”.
+
+“Does it smell?” I ask.
+
+He nods, dazzling me with a smile. “Yes”.
+
+<div style="background-color: white;"><img src="/images/Vol-13-issue-1/meeting-with-the-sea/06_meetingsea.jpg">Religious festivals are part of life in the predominantly Catholic Eurasian community of Malacca’s Portuguese Settlement. Pictured here is the celebration of Festa San Pedro or Saint Peter’s Festival. Saint Peter is the patron saint of fishermen. Some men of the community carry a statue of the saint to the shore to bless the fishing boats. <i>Photo by Desmond Lui. Courtesy of Melissa De Silva.</i></div>
+
+Finally, we make it to a ramshackle dock and Maurice trades boats with another fisherman. On the second leg of the trip, as we pass mangroves near Kampung Batang Pasir, the trees closer to the water’s edge toppled like fallen soldiers, Maurice tells me the mangroves used to be alive with wild boars, monkeys and birds. This is where the fishermen would catch siput, sea snails, then cook them with slices of unripe papaya, small prawns and santan, coconut milk.
+
+Here, the ocean is a translucent mud tint, like watery tea stirred with milk, with a greenish-blue rim along the horizon. Flakes of sun dance on the water and I’m gripped by the urge to swim, to glide through the cool. I lean over the boat’s edge and trail my fingers through the waves, letting the water release in a delicious crest.
+
+“We’re coming to the place for fishing”, announces Maurice some time later, when the mangroves have become specks in the distance. I rummage in my bag and unwrap my camera from its plastic covering.
+
+“Boy, where are the nets?” he asks Jeremy.
+
+Jeremy stares at the floor of the boat as if encountering virgin terrain. He has the look of a boy who has misplaced the nets. There are the lifejacket, rope and a plastic container with money, sunglasses, a penknife and Maurice’s mobile phone in it. They’d forgotten to load the nets when we swapped boats.
+
+“If we go back one hour to get the net and come back, it will be too late for fishing already”, Maurice explains.
+
+My heart flops. There was only today. Tomorrow he’d be off to the hospital to have his cataracts removed, and he didn’t know if or when he’d be fishing again.
+
+I manage to nod. Maurice has been kind, hospitable and his company an absolute delight. I don’t want him to feel badly. “Never mind Uncle. It’s okay. I got to see the sea. We can go back”.
+
+He cuts the engine. “No hurry. We drift for a while. We relax”.
+
+It was a clear distinction of values: manic urban efficiency versus sea village chill. I feel slightly chastened, not by him but by my own embryonic Latin spirit. “C’mon,” it prods me. “Can’t you even relax a little and enjoy being out at sea?”
+
+I don’t yet know what my Latin spirit looks like. I picture it maybe doing the flamenco, holding maracas, even though this is a culturally muddy, geographically inaccurate rendition. Is it a woman? Well, it looks olive-skinned, and seems to be wearing a red dress. But this just might be the subconscious influence of the Whatsapp emoticon of a woman in a red dress holding maracas I sometimes use.
+
+Maurice points out a boat with a roof. He tells me how before, when they did night fishing, they would sleep in a boat like that. “No mosquitoes!” He slaps his knee as if in triumph. “If you get hungry, cook Maggie Mee, drink coffee. So nice!” His eyes shine. The man has a lifetime of happiness bottled inside him, I think, enough to last the rest of his time on earth.
+
+As my mind flashes to my previous career of chronically overstressed cubicle rat and the illness that it finally produced, perhaps it’s naïve romanticising, but I feel a deep tug of yearning for this hard yet idyllic life, and an ache for everything that’s passed and will be lost forever.
+
+Later, as the boat chugs slowly back to shore, I think about how I’d travelled all the way here to document one of the last Portuguese-Eurasian fishermen in Malacca, and our traditional livelihood. It seems almost funny it didn’t happen. Almost. Maurice stirs me from my reverie with a gesture. He jerks his chin toward Jeremy, sitting at the bow. The massive construction for a hotel by the settlement’s jetty forms a backdrop for his grandson’s figure.
+
+Maurice’s tone is a wash of sadness over weary anger. “Jeremy cannot be in this line already”, he says, meaning fishing. “The sea is dead”.
+
+His last words are muffled as the dull drone of a generator fills the air.
+
+The next morning, on Sunday, I walk to the settlement’s Chapel of Our Lady of the Immaculate Conception for Mass at 7.30 am. The place is not jam-packed like I expected but about 75 percent full. After I’m seated, I see the pew I’ve chosen has no kneeler. The polished ceramic tile floor looks practically spotless, far cleaner than the church floors in Singapore, where you can often spot stray hairs or dust bunnies. I decide to stay. Five minutes later though, the sun inching across the grid rectangle of window facing the pew is blinding.
+
+<div style="background-color: white;"><img src="/images/Vol-13-issue-1/meeting-with-the-sea/07_meetingsea.jpg">The faithful gather for Mass at the Chapel of Our Lady of the Immaculate Conception in the Portuguese Settlement. <i>Photo by Desmond Lui. Courtesy of Melissa De Silva.</i></div>
+
+I move to the adjacent pew. A dusky man with steel-rimmed spectacles is seated at the end, his head bent. I tap him on the shoulder and he makes way for me. Two minutes before the Mass starts, a short man with honeyed highlights smiles his way into our pew and takes a seat on my right. In Singapore, I can go weeks without seeing any other Eurasian except my own family. Here, I’m sandwiched between two Eurasian men, neither of whom are my relatives. This unprecedented scenario practically qualifies as being on a reality dating show.
+
+During the Mass, the children are not heard, unlike the constant fidgeting, murmuring and some outright conversations between parents and their kids during services in Singapore. At one point, while we are standing, the boy of about six in the pew in front of me wiggles from his grandmother’s grasp and scampers to sit and hug her from behind, burying his head in the small of her back. She takes his wrist and guides him gently to stand beside her. At no point during the Mass did I see anyone look at their mobile phones. This I like. This I like very much.
+
+At intervals during the service, my eyes drift to the window. The early morning light bathes the brick wall beyond in a gold glaze and casts the wrought iron lamp outside into silhouette. The lamp looks like those I’ve seen in photos of Lisbon’s streets. I’ve always wanted to visit Portugal, to see the place of my ancient ancestors, but now, perhaps there’s no need. I realise why I feel so strangely comfortable in Malacca. I’ve found a place I can claim as my own.
+
+After Mass I take a two-minute walk down to the beach. The sun is watery on the blue and open boats with peeling paint bob against the charcoal rocks. In the distance is a kelong structure, picturesque, made of long sticks. Three mudskippers the length of my index finger hop among the ropes mooring the boats.
+
+As I move closer to the jetty, the air is filled with the metallic whine of drills and the clang of machinery. Relentless construction, even on a Sunday. Instead of the unfettered expanse of ocean, now the view from the settlement is blighted by the concrete monstrosity of the upcoming hotel a few hundred metres away, grasping for the sky. In the sea beyond are islands of powdery grey sand. In an alternate universe, they could be beautiful, like the humpbacked mounds of Vietnam’s Halong Bay, if you ignore the fact that these are the offshoots of reclamation.
+
+I remember how it felt to be out in the boat yesterday, the lapping of the waves, the caress of the breeze, the sear of heat on skin. When I started out for Malacca just two days ago to document a vital piece of my heritage, I didn’t imagine I’d be setting off on a journey to the place where I’d finally feel like I belong. Yet this place too, is having its identity eroded by the relentless claw of development. Is it selfish of me that my joy still outweighs my sadness? What I do know is that this is the only patch in the world where I don’t have to explain who I am, or why. There is such relief at being able to walk among people like me, unexplained and understood. The feeling is euphoric.
+
+Tok, tok, tok. The sound of hammering infuses the morning. The sun’s soft light filters through the green netting shrouding the concrete structure, as the yellow hard hats scurry about their business. I turn my back to it all and start making my way down the beach, the noise of industry growing fainter with each step.
+
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;">“Meeting with the Sea” appears in Melissa De Silva’s debut collection of short stories, Others is not a Race, to be published by Math Paper Press in 2017.</span>
+
+#### **REFERENCES**
+
+Blake, M.L., & Ebert-Oehlers, A. (Eds.). (1992). *[Singapore Eurasians: Memories and hopes](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6319425)*. Singapore: Eurasian Association, Singapore, and Times Editions. (Call no.: RSING 305.80405957 SIN)
+
+Pereira, A.A. (2015). *[Eurasians](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202092685)*. Singapore: Institute of Policy Studies and Straits Times Press. (Call no.: RSING 305.809095957 PER)
