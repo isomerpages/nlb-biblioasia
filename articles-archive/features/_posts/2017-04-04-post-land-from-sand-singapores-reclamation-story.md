@@ -183,11 +183,11 @@ Although Singapore had to turn to other countries for sand, it recently develope
 
 [^14]:Important Singapore port improvement. (1932, September 27). The Singapore Free Press and Mercantile Advertiser (1884–1942), p. 4; Untitled. (1910, August 17). The Singapore Free Press and Mercantile Advertiser (1884–1942), p. 6; Telok Ayer scheme. (1921, March 23). The Straits Times, p. 11. Retrieved from NewspaperSG.
 
-[^15]:Singapore harbour: Return to an old idea. (1911, December 15). The Singapore Free Press and Mercantile Advertiser (1884-1942), p. 12. Retrieved from NewspaperSG; The Straits Times, 23 Mar 1921, p. 11; The Singapore Free Press and Mercantile Advertiser (1884–1942), 27 Sep 1932, p. 4.
+[^15]:[Singapore harbour: Return to an old idea](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19111215-1.2.84). (1911, December 15). *The Singapore Free Press and Mercantile Advertiser* (1884-1942), p. 12. Retrieved from NewspaperSG; *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19210323-1.2.78)*, 23 Mar 1921, p. 11; *[The Singapore Free Press and Mercantile Advertiser](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19320927-1.2.20)* (1884–1942), 27 Sep 1932, p. 4.
 
-[^16]:Telok Ayer Basin. (1932, September 24). The Singapore Free Press and Mercantile Advertiser (1884–1942), p. 8. Retrieved from NewspaperSG; The Singapore Free Press and Mercantile Advertiser (1884–1942), 27 Sep 1932, p. 4.
+[^16]:[Telok Ayer Basin](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19320924-1.2.59). (1932, September 24). *The Singapore Free Press and Mercantile Advertiser* (1884–1942), p. 8. Retrieved from NewspaperSG; *[The Singapore Free Press and Mercantile Advertiser](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19320927-1.2.20)* (1884–1942), 27 Sep 1932, p. 4.
 
-[^17]:Singapore Harbour works. (1919, September 3). The Straits Times, p. 10. Retrieved from NewspaperSG. 
+[^17]:[Singapore Harbour works](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19190903-1.2.69). (1919, September 3). *The Straits Times*, p. 10. Retrieved from NewspaperSG. 
 
 [^18]:[Nine million dollar airport opens](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/sundaytribune19370613-1.2.2). (1937, June 13). *Sunday Tribune* (Singapore), p. 1; [New airport is on former swamp site](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19370612-1.2.125.33). (1937, June 12). *The Straits Time*s, p. 10; [Key position in sea and air communications](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19370614-1.2.136). (1937, June 14). *The Straits Times*, p. 18. Retrieved from NewspaperSG.
 
