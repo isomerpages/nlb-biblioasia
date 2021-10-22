@@ -179,7 +179,7 @@ Although Singapore had to turn to other countries for sand, it recently develope
 
 [^12]:Dobbs, 2003, pp. 10–11; Legislative Council. (1898, October 17). The Straits Times, p. 3; The Singapore River. (1899, June 14). The Singapore Free Press and Mercantile Advertiser (1884–1942), p. 3. Retrieved from NewspaperSG. 
 
-[^13]:Singapore Harbour. (1902, January 23). The Straits Times, p. 3; The harbour scheme. (1904, June 7). The Singapore Free Press and Mercantile Advertiser (1884–1942), p. 3; Singapore River improvements. (1906, December 13). *The Straits Times*, p. 8. Retrieved from NewspaperSG. 
+[^13]:[Singapore Harbour](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19020123-1.2.4). (1902, January 23). *The Straits Times*, p. 3; [The harbour scheme](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19040607-1.2.23). (1904, June 7). *The Singapore Free Press and Mercantile Advertiser* (1884–1942), p. 3; [Singapore River improvements](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19061213-1.2.92). (1906, December 13). *The Straits Times*, p. 8. Retrieved from NewspaperSG. 
 
 [^14]:[Important Singapore port improvement](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19320927-1.2.20). (1932, September 27). *The Singapore Free Press and Mercantile Advertiser* (1884–1942), p. 4; [Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19100817-1.2.15). (1910, August 17). *The Singapore Free Press and Mercantile Advertiser* (1884–1942), p. 6; [Telok Ayer scheme](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19210323-1.2.78). (1921, March 23).* The Straits Times*, p. 11. Retrieved from NewspaperSG.
 
