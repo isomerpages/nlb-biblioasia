@@ -204,6 +204,14 @@ Tok, tok, tok. The sound of hammering infuses the morning. The sun’s soft ligh
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;">“Meeting with the Sea” appears in Melissa De Silva’s debut collection of short stories, Others is not a Race, to be published by Math Paper Press in 2017.</span>
 
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Vol-13-issue-1/meeting-with-the-sea/melissa.png">
+<b>Melissa De Silva</b> has worked in magazine journalism and publishing, including stints at Singapore Press Holdings and Mediacorp Publishing. Her fiction and non-fiction works have been published in journals in Hong Kong, Singapore and the US. Her debut collection of short stories "Others is not a Race" will be published by Math Paper Press in 2017.
+</div>
+
+<a href="/vol-13/issue-1/apr-jun-2017/"><center>Back to Issue</center></a>
+
 #### **REFERENCES**
 
 Blake, M.L., & Ebert-Oehlers, A. (Eds.). (1992). *[Singapore Eurasians: Memories and hopes](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6319425)*. Singapore: Eurasian Association, Singapore, and Times Editions. (Call no.: RSING 305.80405957 SIN)
