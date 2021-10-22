@@ -30,21 +30,21 @@ I am trying to communicate with the immigration official at the airport in Barce
 
 “You are Portuguese?”
 
-“II mio nonno.” My grandfather. Now, that’s not exactly true. But I don’t know how to say “great-grandfather” in Italian so I can’t tell him it was my great-grandfather who was from Goa and he was only part Portuguese. But none of this seems to matter.
+“*II mio nonno*.” My grandfather. Now, that’s not exactly true. But I don’t know how to say “great-grandfather” in Italian so I can’t tell him it was my great-grandfather who was from Goa and he was only part Portuguese. But none of this seems to matter.
 
-“Muy bueno!” He beams genuine welcome at me and I experience a strange warm feeling I’ve never felt at Changi Airport returning home.
+“*Muy bueno*!” He beams genuine welcome at me and I experience a strange warm feeling I’ve never felt at Changi Airport returning home.
 
 I am thirty-five.
 
 I am in a cab on the way to the Eurasian Association at Ceylon Road. The taxi driver eyes me openly in the rear view mirror.
 
-“Miss, you are what ah?“
+“Miss, you are what *ah*?“
 
 I’ve moved beyond my teenage belligerence, when I would either not acknowledge they were referring to my race or retort, “Human.” I don’t even roll my eyes anymore, even in my head. I think I’ve come a long way.
 
 “Eurasian.”
 
-“What is loo-rayshiun?”
+“What is *loo-rayshiun*?”
 
 “People who are mixed. Europe people and Asia people mixed together.”
 
@@ -60,17 +60,17 @@ Some minutes later we approach the gates of our destination.
 
 “Okay uncle, you can stop here please.”
 
-As the taxi rolls to a halt, the driver cranes his neck to look at the massive three-storey building in the middle of the leafy residential neighbourhood. “What is this place? Your house ah?“
+As the taxi rolls to a halt, the driver cranes his neck to look at the massive three-storey building in the middle of the leafy residential neighbourhood. “What is this place? Your house *ah*?“
 
 “No, this is the Eurasian Association.”
 
-“Har?“
+“*Har*?“
 
 “For Eurasian people, mixed people, mix European and Asian.”
 
 Still not rolling my eyes.
 
-“Oh, united nations ah?“
+“Oh, united nations *ah*?“
 
 In December that year, I make a trip to Malacca in Malaysia. The Portuguese Settlement (formed in 1926 to help consolidate the Portuguese-Eurasian community) is a coastal hamlet of modest, mostly single-storey houses spanning three lanes on either side of the impressively named d’Albuquerque Road. As I walk along the main road, an old man with sun-creased skin turns his head as he cycles by. A wavy-tressed teenaged girl and two boys chatting across a gate pause in their conversation, watching me silently as I pass. The stranger in the village. What’s even weirder is I’m overcome with a feeling of kinship with these sun-browned, curly-haired people I’ve never seen before.
 
@@ -80,7 +80,7 @@ In the 1500s, when the Portuguese arrived at the palm and mangrove-fringed coast
 
 A month earlier in November, I was in Uncle Maurice Pereira’s living room in the Portuguese Settlement. The rain was driving down against the slatted wooden shutters. His fisherman’s hands, weather worn, were clasped on his lap. My father’s cousin was bare-bodied, wearing only white loose cotton pyjama trousers, and his still-muscled torso made him look like a jujitsu master. He regarded me with eyes of blue traced around dark lenses, the onset of cataracts.
 
-My great-grandfather had been a fisherman in Malacca, the traditional livelihood of this community descended from the seafaring Portuguese. My father had told me how, when he was a boy, he would accompany his mother – who moved to Singapore with his father after World War II to seek a better life – to Malacca during the school holidays. There, he’d learned from his grandfather how to make two foods from the fishermen’s catch: chincalok, the relish of shrimp fermented in salt and brandy; and belachan, heavily salted, fermented shrimp paste, baked into hard cakes in the sun, excellent stir fried with vegetables and a generous handful of chilli.
+My great-grandfather had been a fisherman in Malacca, the traditional livelihood of this community descended from the seafaring Portuguese. My father had told me how, when he was a boy, he would accompany his mother – who moved to Singapore with his father after World War II to seek a better life – to Malacca during the school holidays. There, he’d learned from his grandfather how to make two foods from the fishermen’s catch: *chincalok*, the relish of shrimp fermented in salt and brandy; and *belachan*, heavily salted, fermented shrimp paste, baked into hard cakes in the sun, excellent stir fried with vegetables and a generous handful of chilli.
 
 <div style="background-color: white;"><img src="/images/Vol-13-issue-1/meeting-with-the-sea/03_meetingsea.jpg">Maurice Pereira (left) and his grandson Jeremy, in his fishing boat on the seas around the Portuguese Settlement in Malacca. <i>Photo by Desmond Lui. Courtesy of Melissa De Silva.</i></div>
 
@@ -88,7 +88,7 @@ As I explained how I’d like to document his work by going out fishing with him
 
 “You want to write something? About me?”
 
-That Saturday morning in December, it’s just past 8.30 am when I set off with Uncle Maurice and his 18-year-old grandson, Jeremy, in his open boat named Lucy. His cropped-close white bristles are hidden under a black cap and he’s wearing a white polo tee that says “Irish Harrier Pub” on the back.
+That Saturday morning in December, it’s just past 8.30 am when I set off with Uncle Maurice and his 18-year-old grandson, Jeremy, in his open boat named *Lucy*. His cropped-close white bristles are hidden under a black cap and he’s wearing a white polo tee that says “Irish Harrier Pub” on the back.
 
 The water glitters. My notebook and camera are waterproofed in plastic and ready to go. At my feet at the bottom of the boat is a one-day-use orange lifejacket, still in its clear wrap, and the fishing nets. The planks we sit on are worn smooth, bleached by the sun. Even if I run my fingers along the edge of the boards, I don’t feel any splinters.
 
