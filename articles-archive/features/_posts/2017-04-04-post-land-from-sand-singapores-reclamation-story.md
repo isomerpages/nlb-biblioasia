@@ -219,9 +219,9 @@ Although Singapore had to turn to other countries for sand, it recently develope
 
 [^32]:Lee, H.S. (1989, October 3). URA to start selling Marina South sites in 1992/1993. The Business Times, p. 1. Retrieved from NewspaperSG.
 
-[^33]:Housing and Development Board, 1963, p. 43; Housing and Development Board, 1966, p. 46; Housing and Development Board, 1966, p. 45.  
+[^33]:[Housing and Development Board](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4662986), 1963, p. 43; [Housing and Development Board](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4662986), 1966, p. 46; [Housing and Development Board](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4662986), 1966, p. 45.  
 
-[^34]:Housing and Development Board, 1977/78, p. 38.
+[^34]:[Housing and Development Board](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4662986), 1977/78, p. 38.
 
 [^35]:[Housing and Development Board](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4662986), 1979/80, p. 34; [Land reclamation off Punggol](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19830305-1.2.57.6.aspx). (1983, March 5). *The Straits Times*, p. 17. Retrieved from NewspaperSG; Singapore. Parliament. *[Parliamentary debates: Official report](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4826189)*. (1984, October 19). Reclamation at Punggol (Vol. 44, col. 2095). Singapore: [s.n.]. (Call no.: RSING 328.5957 SIN); [Reclamation project approved](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19841020-1.2.25.6.7.aspx). (1984, October 20). *The Straits Times*, p. 15. Retrieved from NewspaperSG; Chia, L.S., et. al. (1988). *[The Coastal environmental profile of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5452351)* (p. 43). Manila: International Centre for Living Aquatic Resources. (Call no.: RSING 333.917095957 CHI)
 
