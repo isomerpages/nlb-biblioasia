@@ -239,21 +239,21 @@ Although Singapore had to turn to other countries for sand, it recently develope
 
 [^42]:55 acres of land from sea by year’s end. (1967, August 8). The Straits Times, p. 22; Reclamation of East Lagoon Now Completed. (1968, September 6). The Straits Times, p. 24. Retrieved from NewspaperSG; Port of Singapore Authority. (2017). Our business: terminals. Retrieved from PSA Singapore website.
 
-[^43]:Land to be reclaimed for warehouses. (1971, July 31). *The Straits Times*, p. 4; $75m. warehouse project completed. (1972, May 2). *New Nation*, p. 3. Retrieved from NewspaperSG.
+[^43]:[Land to be reclaimed for warehouses](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710731-1.2.12.9). (1971, July 31). *The Straits Times*, p. 4; [$75m. warehouse project completed](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710731-1.2.12.9). (1972, May 2). *New Nation*, p. 3. Retrieved from NewspaperSG.
 
-[^44]:Tender for Pasir Panjang terminal. (1992, October 30). The Business Times, p. 3. Retrieved from NewspaperSG; Singapore. Parliament. Parliamentary debates: Official report. (1992, May 29). Reclamation Pasir Panjang) (Vol. 60, col. 36). Singapore: Govt. Print. Off. (Call no.: RSING 328.5957 SIN)
+[^44]:[Tender for Pasir Panjang terminal](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19921030-1.2.10.7.aspx). (1992, October 30). *The Business Times*, p. 3. Retrieved from NewspaperSG; Singapore. Parliament. *[Parliamentary debates: Official report](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4826189)*. (1992, May 29). Reclamation Pasir Panjang) (Vol. 60, col. 36). Singapore: Govt. Print. Off. (Call no.: RSING 328.5957 SIN)
 
-[^45]:Lim, A. (2015, June 24). Pasir Panjang Terminal’s $3.5b expansion kicks off. *The Straits Times*, p. 1. Retrieved from NewspaperSG.
+[^45]:Lim, A. (2015, June 24). [Pasir Panjang Terminal’s $3.5b expansion kicks off](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20150624-1.2.2). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
 
-[^46]:Biggest land reclamation contract in S-E Asia. (1976, March 4). The Straits Times, p. 15. Retrieved from NewspaperSG.
+[^46]:[Biggest land reclamation contract in S-E Asia](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19760304-1.2.84). (1976, March 4). *The Straits Times*, p. 15. Retrieved from NewspaperSG.
 
-[^47]:‘Yes’ to reclamation at Sentosa and Changi East. (1990, November 10). The Straits Times, p. 26. Retrieved from NewspaperSG.
+[^47]:[‘Yes’ to reclamation at Sentosa and Changi East](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19901110-1.2.40.2). (1990, November 10). *The Straits Times*, p. 26. Retrieved from NewspaperSG.
 
-[^48]:St. John’s Island to become holiday resort. (1976, January 23). The Straits Times, p. 13; Ho, R. (1977, April 27). ‘New’ island for Raffles Lighthouse. New Nation, p. 2. Retrieved from NewspaperSG.
+[^48]:[St. John’s Island to become holiday resort](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19760123-1.2.77). (1976, January 23). *The Straits Times*, p. 13; Ho, R. (1977, April 27). [‘New’ island for Raffles Lighthouse](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19770427-1.2.9). *New Nation*, p. 2. Retrieved from NewspaperSG.
 
-[^49]:Chia, 1988, p. 44; Singapore. Parliament. Parliamentary debates: Official report. (1981, February 20). Pulau Tekong Besar (reclamation) (Vol. 40, cols. 289–290). Singapore: [s.n.]. (Call no.: RSING 328.5957 SIN) 
+[^49]:[Chia](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5452351), 1988, p. 44; Singapore. Parliament. *[Parliamentary debates: Official report](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4826189)*. (1981, February 20). Pulau Tekong Besar (reclamation) (Vol. 40, cols. 289–290). Singapore: [s.n.]. (Call no.: RSING 328.5957 SIN) 
 
-[^50]:Singapore. Parliament. Parliamentary debates: Official report. (1988, March 28). Reclaimed land at Pulau Tekong Besar (development plans) (Vol. 50, col. 1495). Singapore: [s.n.]. (Call no.: RSING 328.5957 SIN)
+[^50]:Singapore. Parliament. *[Parliamentary debates: Official report](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4826189)*. (1988, March 28). Reclaimed land at Pulau Tekong Besar (development plans) (Vol. 50, col. 1495). Singapore: [s.n.]. (Call no.: RSING 328.5957 SIN)
 
 [^51]:Singapore. Parliament. *[Parliamentary debates: Official report](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4826189)*. (2000, February 22). Reclamation at Pulau Ubin and Pulau Tekong (Vol. 71, col. 1049). Singapore: [s.n.]. (Call no.: RSING 328.5957 SIN) 
 
