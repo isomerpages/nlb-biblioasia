@@ -155,25 +155,25 @@ Although Singapore had to turn to other countries for sand, it recently develope
 
 #### **NOTES**
 
-[^1]:Singapore Land Authority. (2016, May 19). Total land area of Singapore. Retrieved from Data.gov.sg website; Tan, H.T.W., et al. (2010).The natural heritage of Singapore (p. 78). Singapore: Prentice Hall. (Call no.: RSING 508.5957 NAT) 
+[^1]:Singapore Land Authority. (2016, May 19). T*otal land area of Singapore*. Retrieved from Data.gov.sg website; Tan, H.T.W., et al. (2010).*[The natural heritage of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13584396)* (p. 78). Singapore: Prentice Hall. (Call no.: RSING 508.5957 NAT) 
 
-[^2]:Buckley, C.B. (1984). An anecdotal history of old times in Singapore 1819–1867 (pp. 68, 75). Singapore: Oxford University Press. (Call no.: RSING 959.57 BUC
+[^2]:Buckley, C.B. (1984). *[An anecdotal history of old times in Singapore 1819–1867](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082239)* (pp. 68, 75). Singapore: Oxford University Press. (Call no.: RSING 959.57 BUC
 
-[^3]:Buckley, 1984, pp. 75, 82–83, 88–89; Urban Redevelopment Authority. (2016, July 28). Boat Quay. Retrieved from Urban Redevelopment Authority website.
+[^3]:[Buckley](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082239), 1984, pp. 75, 82–83, 88–89; Urban Redevelopment Authority. (2016, July 28). *Boat Quay*. Retrieved from Urban Redevelopment Authority website.
 
-[^4]:Collyer of Quay fame. (1933, June 29). The Singapore Free Press and Mercantile Advertiser (1884–1942), p. 88. Retrieved from NewspaperSG; Buckley, 1984, p. 689.
+[^4]:[Collyer of Quay fame](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19330629-1.2.71). (1933, June 29). *The Singapore Free Press and Mercantile Advertiser* (1884–1942), p. 88. Retrieved from NewspaperSG; [Buckley](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082239), 1984, p. 689.
 
-[^5]:The Singapore Free Press and Mercantile Advertiser (1884-1942), 29 Jun 1933, p. 88; Buckley, 1984, p. 689; Tyers, R.K. (1993). Ray Tyers’ Singapore: Then and now (pp. 103, 114–115). Singapore: Landmark Books. (Call no.: RSING 959.57 TYE)
+[^5]:*[The Singapore Free Press and Mercantile Advertiser](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19330629-1.2.71)* (1884-1942), 29 Jun 1933, p. 88; [Buckley](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082239), 1984, p. 689; Tyers, R.K. (1993). *[Ray Tyers’ Singapore: Then and now](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6442235)* (pp. 103, 114–115). Singapore: Landmark Books. (Call no.: RSING 959.57 TYE)
 
-[^6]:The Singapore Free Press and Mercantile Advertiser (1884–1942), 29 Jun 1933, p. 88; Buckley, p. 689.
+[^6]:*[The Singapore Free Press and Mercantile Advertiser](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19330629-1.2.71)* (1884–1942), 29 Jun 1933, p. 88; [Buckley](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082239), p. 689.
 
-[^7]:Summary of the week. (1879, August 5). Straits Times Overland Journal, p. 1; Teluk Ayer reclamation. (1896, November 12). The Straits Times, p. 2; Teluk Ayer. (1897, June 28). The Straits Times, p. 2. Retrieved from NewspaperSG.
+[^7]:[Summary of the week](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stoverland18790805-1.2.4). (1879, August 5). *Straits Times Overland Journal*, p. 1; [Teluk Ayer reclamation](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18961112-1.2.25). (1896, November 12). *The Straits Times*, p. 2; [Teluk Ayer](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18970628-1.2.14). (1897, June 28). *The Straits Times*, p. 2. Retrieved from NewspaperSG.
 
-[^8]:Dale, O.J. (1999). Urban planning in Singapore: Transformation of a city (p. 18). Shah Alam, Malaysia: Oxford University Press. (Call no.: RSING 307.1216 DAL); Dobbs, S. (2003). The Singapore River: A social history 1819–2002 (pp. 11–12). Singapore: Singapore University Press. (Call no.: RSING 959.57 DOB)
+[^8]:Dale, O.J. (1999). *[Urban planning in Singapore: Transformation of a city](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9146945)* (p. 18). Shah Alam, Malaysia: Oxford University Press. (Call no.: RSING 307.1216 DAL); Dobbs, S. (2003). *[The Singapore River: A social history 1819–2002](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12149559)* (pp. 11–12). Singapore: Singapore University Press. (Call no.: RSING 959.57 DOB)
 
-[^9]:Picturesque and busy Singapore. (1887, February 7). Straits Times Weekly Issue, p. 7; Harbour and town improvement. (1902, January 7). The Singapore Free Press and Mercantile Advertiser (1884–1942), p. 3. Retrieved from NewspaperSG.
+[^9]:[Picturesque and busy Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18870207-1.2.22). (1887, February 7). *Straits Times Weekly Issue*, p. 7; [Harbour and town improvement](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19020107-1.2.12). (1902, January 7). *The Singapore Free Press and Mercantile Advertiser* (1884–1942), p. 3. Retrieved from NewspaperSG.
 
-[^10]:Page 4 advertisements column 5. (1886, March 5). The Straits Times, p. 4. Retrieved from NewspaperSG.
+[^10]:[Page 4 advertisements column 5](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18860305-1.2.23.5). (1886, March 5). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
 
 [^11]:[Westward ho!](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb18910921-1.2.12). (1891, September 21). *The Singapore Free Press and Mercantile Advertiser* (1884–1942), p. 3; [Harbour improvement scheme](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19041022-1.2.21). (1904, October 22). *The Straits Times*, p. 5. Retrieved from NewspaperSG; [Dale](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9146945), 1999, pp. 18–19
 
