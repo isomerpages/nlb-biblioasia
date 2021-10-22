@@ -145,6 +145,14 @@ Since the first reclamation project carried out in 1822, fill materials have tra
 <br><br>
 Although Singapore had to turn to other countries for sand, it recently developed a more sustainable method that has reduced the amount of sand needed for reclamation works. Called empoldering, it has since been successfully deployed by the HDB for the on-going reclamation of Pulau Tekong.[^54]</span>
 
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Vol-13-issue-1/land-from-sand/lim-tin-seng.png">
+	<b>Lim Tin Seng</b> is a Librarian with the National Library, Singapore. He is the co-editor of <i>Roots: Tracing Family Histories – A Resource Guide</i> (2013); <i>Harmony and Development: ASEAN-China Relations</i> (2009) and <i>China’s New Social Policy: Initiatives for a Harmonious Society</i> (2010). He is also a regular contributor to BiblioAsia.
+</div>
+
+<a href="/vol-13/issue-1/apr-jun-2017/"><center>Back to Issue</center></a>
+
 #### **NOTES**
 
 [^1]:Singapore Land Authority. (2016, May 19). Total land area of Singapore. Retrieved from Data.gov.sg website; Tan, H.T.W., et al. (2010).The natural heritage of Singapore (p. 78). Singapore: Prentice Hall. (Call no.: RSING 508.5957 NAT) 
