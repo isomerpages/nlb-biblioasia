@@ -175,9 +175,9 @@ Although Singapore had to turn to other countries for sand, it recently develope
 
 [^10]:Page 4 advertisements column 5. (1886, March 5). The Straits Times, p. 4. Retrieved from NewspaperSG.
 
-[^11]:Westward ho!. (1891, September 21). The Singapore Free Press and Mercantile Advertiser (1884–1942), p. 3; Harbour improvement scheme. (1904, October 22). The Straits Times, p. 5. Retrieved from NewspaperSG; Dale, 1999, pp. 18–19
+[^11]:[Westward ho!](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb18910921-1.2.12). (1891, September 21). *The Singapore Free Press and Mercantile Advertiser* (1884–1942), p. 3; [Harbour improvement scheme](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19041022-1.2.21). (1904, October 22). *The Straits Times*, p. 5. Retrieved from NewspaperSG; [Dale](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9146945), 1999, pp. 18–19
 
-[^12]:Dobbs, 2003, pp. 10–11; Legislative Council. (1898, October 17). The Straits Times, p. 3; The Singapore River. (1899, June 14). The Singapore Free Press and Mercantile Advertiser (1884–1942), p. 3. Retrieved from NewspaperSG. 
+[^12]:[Dobbs](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12149559), 2003, pp. 10–11; [Legislative Council.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18981017-1.2.33) (1898, October 17). *The Straits Times*, p. 3; [The Singapore River](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb18990614-1.2.26). (1899, June 14). *The Singapore Free Press and Mercantile Advertiser* (1884–1942), p. 3. Retrieved from NewspaperSG. 
 
 [^13]:[Singapore Harbour](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19020123-1.2.4). (1902, January 23). *The Straits Times*, p. 3; [The harbour scheme](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19040607-1.2.23). (1904, June 7). *The Singapore Free Press and Mercantile Advertiser* (1884–1942), p. 3; [Singapore River improvements](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19061213-1.2.92). (1906, December 13). *The Straits Times*, p. 8. Retrieved from NewspaperSG. 
 
