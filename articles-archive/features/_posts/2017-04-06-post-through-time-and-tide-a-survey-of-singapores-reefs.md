@@ -8,7 +8,7 @@ layout: post
 
 <div style="background-color: white;"><br><img src="/images/Vol-13-issue-1/through-time-and-tide/01_timeandtide.png">Living reefs off Serapong on the northeast coast of Sentosa. <i>Photo taken by Ria Tan on 23 May 2011. Courtesy of WildSingapore.</i></div>
 
-*iIf the tides are high*<br>
+*If the tides are high*<br>
 *It never will appear,*<br>
 *That little winking island*<br>
 *Not very far from here;*<br>
@@ -151,39 +151,39 @@ It is also a trip, not to the southern margins of an island nation, but to where
 
 [^8]:Burkill, I.H. (2002). A dictionary of the economic products of the Malay Peninsula (Vol. 1, p. 868). Kuala Lumpur, Malaysia: Ministry of Agriculture, Malaysia. (Call no.: RSEA 634.9095951 BUR); Winstedt, 1964, p. 25. 
 
-[^9]:Taiwan trawler runs aground (1983, June 30). *The Straits Times*, p. 15; Ferry with 40 aboard runs aground. (1998, December 6). *The Straits Times*, p. 27. Retrieved from NewspaperSG.
+[^9]:[Taiwan trawler runs aground](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19830630-1.2.61) (1983, June 30). *The Straits Times*, p. 15; [Ferry with 40 aboard runs aground](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19981206-1.2.36.5). (1998, December 6). *The Straits Times*, p. 27. Retrieved from NewspaperSG.
 
-[^10]:Destroying Singapore’s undersea treasures. (1968, April 4). *The Straits Times*, p. 10. Retrieved from NewspaperSG.
+[^10]:[Destroying Singapore’s undersea treasures](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19680404-1.2.77). (1968, April 4). *The Straits Times*, p. 10. Retrieved from NewspaperSG.
 
 [^11]:Lee Kong Chian Natural History Museum. (2017). Cyrene Reef. Retrieved from The DNA of Singapore website.
 
-[^12]:Walter, M.A.H.B., & Riaz Hassan (1977). An island community in Singapore: A characterization of a marginal society (p. 22). Singapore: Chopmen Enterprises. (Call no.: RSING 301.4443 WAL)
+[^12]:Walter, M.A.H.B., & Riaz Hassan (1977). *[An island community in Singapore: A characterization of a marginal society](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081905)* (p. 22). Singapore: Chopmen Enterprises. (Call no.: RSING 301.4443 WAL)
 
 [^3]:Terumbu Raya still exists, and lies between Pulau Sudong and Pulau Semakau.
 
-[^14]:Chew, S.B. (1982). Fishermen in flats (p. 36). Clayton, Vic.: Centre of Southeast Asian Studies, Monash University. (Call no.: RSING 301.4443095957 CHE)
+[^14]:Chew, S.B. (1982). *[Fishermen in flats](http://eservice.nlb.gov.sg/itemholdings.aspx?bid=4137660)* (p. 36). Clayton, Vic.: Centre of Southeast Asian Studies, Monash University. (Call no.: RSING 301.4443095957 CHE)
 
-[^15]:Work to start on $13m pig project island. (1985, April 18). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
+[^15]:[Work to start on $13m pig project island](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850418-1.2.26.6). (1985, April 18). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
 
-[^16]:Haughton, H.T. (1889). Notes on names of places in the island of Singapore and its Vicinity. Journal of the Straits Branch of the Royal Asiatic Society, 20, p. 76. Retrieved from JSTOR via eResources website; Beting refers to a partially submerged sand bank, while kusah was thought to be a corruption of susah, meaning “difficult”.
+[^16]:Haughton, H.T. (1889). Notes on names of places in the island of Singapore and its Vicinity. J*ournal of the Straits Branch of the Royal Asiatic Society, 20*, p. 76. Retrieved from JSTOR via [eResources](http://eresources.nlb.gov.sg/main) website; *Beting* refers to a partially submerged sand bank, while *kusah* was thought to be a corruption of susah, meaning “difficult”.
 
-[^17]:Tan, W. (2013, February 1). Three more nature areas to be conserved under land use plan. Today, p. 6. Retrieved from NewspaperSG.
+[^17]:Tan, W. (2013, February 1). [Three more nature areas to be conserved under land use plan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20130201-2.2.10.3). *Today*, p. 6. Retrieved from NewspaperSG.
 
-[^18]:Haughton, 1889, p. 77; National Library Board. (2016). Sentosa Cove written by Chew, Valerie. Retrieved from Singapore Infopedia website.
+[^18]:Haughton, 1889, p. 77; National Library Board. (2016). *[Sentosa Cove](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1547_2009-07-27.html)* written by Chew, Valerie. Retrieved from Singapore Infopedia website.
 
-[^19]:Lighters’ new mooring site. (1983, May 19). The Straits Times, p. 17. Retrieved from NewspaperSG.
+[^19]:[Lighters’ new mooring site](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19830519-1.2.61). (1983, May 19). *The Straits Times*, p. 17. Retrieved from NewspaperSG.
 
-[^20]:Low, A., & Wong, K.C. (1984, December 11). The old men of the sea. The Straits Times, p. 18. Retrieved from NewspaperSG.
+[^20]:Low, A., & Wong, K.C. (1984, December 11). [The old men of the sea](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19841211-1.2.35.1). *The Straits Times*, p. 18. Retrieved from NewspaperSG.
 
-[^21]:Tan, H.Y. (1995, November 22). Singapore islands get new names with reclamation. The Straits Times, p. 3. Retrieved from NewspaperSG.
+[^21]:Tan, H.Y. (1995, November 22). [Singapore islands get new names with reclamation](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19951122-1.2.10.4). *The Straits Times*, p. 3. Retrieved from NewspaperSG.
 
 [^22]:Now part of Jurong Island.
 
-[^23]:As quoted and annotated by Carl Alexander Gibson-Hill. See Gibson-Hill, C.A. (1954, May). Singapore: Notes on the history of the Old Strait, 1580–1850. Journal of the Malayan Branch of the Royal Asiatic Society, 27 (1) (165), 163–214, pp. 167–168. Retrieved from JSTOR via eResources website: 
+[^23]:As quoted and annotated by Carl Alexander Gibson-Hill. See Gibson-Hill, C.A. (1954, May). Singapore: Notes on the history of the Old Strait, 1580–1850. *Journal of the Malayan Branch of the Royal Asiatic Society, 27* (1) (165), 163–214, pp. 167–168. Retrieved from JSTOR via [eResources](http://eresources.nlb.gov.sg/main) website.
 
 [^24]:Carl Alexander Gibson-Hill records that the name “Cyrene’s Reef” first appeared in a map by Captain Daniel Ross in 1830. In Greek mythology, Cyrene was a nymph who was a fierce huntress and gave her name to a city in Libya.
 
-[^25]:Untitled. (1848, November 2). The Singapore Free Press and Mercantile Advertiser (1835–1869), p. 3. Retrieved from NewspaperSG.
+[^25]:[Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18481102-1.2.7). (1848, November 2). *The Singapore Free Press and Mercantile Advertiser* (1835–1869), p. 3. Retrieved from NewspaperSG.
 
 [^26]:Dennys, N.B. (1894). *[Descriptive dictionary of British Malaya](http://eresources.nlb.gov.sg/printheritage/detail/aea703a6-d3b0-4a4e-956b-82390c582891.aspx)* (p. 99). London: London and China Telegraph. Retrieved from BooKSG.
 
