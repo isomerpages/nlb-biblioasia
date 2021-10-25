@@ -186,13 +186,13 @@ The constant remaking of the heartland through redevelopment and upgrading has c
 [^28]:Lee, K.Y. (2000). [*From third world to first: The Singapore story, 1965–2000: Memoirs of Lee Kuan Yew*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9981172) (pp. 116–117). Singapore: Times Editions and Singapore Press Holdings. (Call no.: RSING 959.57092 LEE-[HIS])
 [^29]:*Our Home*, Jul 1972, p. 14.
 [^30]:Urban Redevelopment Authority. (2018, May 10). *Past concept plans*. Retrieved from Urban Redevelopment Authority website.
-[^31]:
-[^32]:
-[^33]:
-[^34]:
-[^35]:
-[^36]:
-[^37]:
-[^38]:
-[^39]:
-[^40]:
+[^31]:Noise. (1974, July-August). In Our Home (pp. 12–13). Singapore: Housing and Development Board. Available via PublicationSG; Tai, C.L. (1988). [*Housing policy and high-rise living: A study of Singapore’s public housing*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4866057) (p. 135). Singapore: Chopmen Publishers. (Call no.: RSING 307.336095957 TAI)
+[^32]:Leow, S. (1973, September–October). Corridor traffic. In *Our Home* (p. 33). Singapore: Housing and Development Board.
+[^33]:The “galah” (in Malay) or “tek-ko” (in Hokkien) man sold bamboo poles commonly used for drying clothes.
+[^34]:Quiet please! (1974, March–April). In Our Home (p. 14). Singapore: Housing and Development Board.
+[^35]:[Untitled] [Letters to HDB]. (1972, October). In *Our Home* (p. 7); [Untitled] [Letters to HDB]. (1973, January–February). In *Our Home* (p. 7). This view was shared by other residents as well, see Mini-bins. (1974, January–February). In *Our Home* (p. 8); Lift vandalism. (1974, March–April). In *Our Home* (p. 34); Noise pollution. (1974, May–June). In *Our Home* (p. 29). Singapore: Housing and Development Board.
+[^36]:See, for example, Refuse collection and you. (1978, February). In *Our Home* (pp. 10–11); Dispose of your swill the proper way. (1981, April). In *Our Home* (p. 6); The correct way to dispose refuse. (1982, April). In *Our Home* (p. 32). Singapore: Housing and Development Board; There is a proper place for junk. (1985, February). In *Our Home* (pp. 6–7, 19); Lily the lift. (1974, March–April). In *Our Home* (pp. 14–15); Good lift service comes with care. (1986, August). In *Our Home* (pp. 18–19); Washing day advice. (1977, December). In *Our Home* (pp. 22–23); Ballgames in HDB estates. (1978, February). In *Our Home* (pp. 4–5); If you keep potted plants. (1978, June). In *Our Home* (pp. 3–4); On household pets in HDB flats. (1978, December). In *Our Home* (pp. 12, 28); Making the home safe. (1973, March–April). In *Our Home* (pp. 10–11, 35); Security in high rise flats. (1978, August). In *Our Home* (pp. 6–7). Singapore: Housing and Development Board.
+[^37]:Be considerate. (1972, December). In *Our Home* (p. 18). Singapore: Housing and Development Board.
+[^38]:[Tai](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4866057), 1988, pp. 17–19.
+[^39]:Riaz Hassan. (1977). [*Families in flats: A study of low income families in public housing*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081886) (p. 144). Singapore: Singapore University Press. (Call no: RSING 301.443095957 HAS)
+[^40]:Multi-storey success. (1973, May–June). In *Our Home* (p. 36). Also see 走出菜芭 [From farm to flat]. (1974, January–February). In *Our Home* (p. 33), for the perspective of a new resident who formerly lived in a kampong in Potong Pasir.
