@@ -186,3 +186,13 @@ The constant remaking of the heartland through redevelopment and upgrading has c
 [^28]:Lee, K.Y. (2000). [*From third world to first: The Singapore story, 1965–2000: Memoirs of Lee Kuan Yew*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9981172) (pp. 116–117). Singapore: Times Editions and Singapore Press Holdings. (Call no.: RSING 959.57092 LEE-[HIS])
 [^29]:*Our Home*, Jul 1972, p. 14.
 [^30]:Urban Redevelopment Authority. (2018, May 10). *Past concept plans*. Retrieved from Urban Redevelopment Authority website.
+[^31]:
+[^32]:
+[^33]:
+[^34]:
+[^35]:
+[^36]:
+[^37]:
+[^38]:
+[^39]:
+[^40]:
