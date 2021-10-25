@@ -214,44 +214,44 @@ It is clear that Crawfurd was no petty intellectual figure of the 19th century. 
 
 [^49]:Crawfurd, 1856, A descriptive dictionary of the Indian islands & adjacent countries, pp. 17, 29.
 
-[^50]:Turnbull, 2009, p. 50.
+[^50]:[Turnbull](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13206047), 2009, p. 50.
 
-[^51]:Turnbull, 2009, p. 50.
+[^51]:[Turnbull](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13206047), 2009, p. 50.
 
-[^52]:Turnbull, 2009, p. 46.
+[^52]:[Turnbull](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13206047), 2009, p. 46.
 
-[^53]:Mills, L.A. (2003). British Malaya: 1824–67 (p. 78). Selangor, Malaysia: Malaysian Branch of the Royal Asiatic Society. (Call no.: RSING 959.5 MIL)
+[^53]:Mills, L.A. (2003). *[British Malaya: 1824–67](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12383101)* (p. 78). Selangor, Malaysia: Malaysian Branch of the Royal Asiatic Society. (Call no.: RSING 959.5 MIL)
 
-[^54]:Turnbull, 2009, p. 46.
+[^54]:[Turnbull](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13206047), 2009, p. 46.
 
-[^55]:Turnbull, 2009, p. 46.
+[^55]:[Turnbull](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13206047), 2009, p. 46.
 
-[^56]:Turnbull, 2009, p. 46.
+[^56]:[Turnbull](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13206047), 2009, p. 46.
 
-[^57]:Turnbull, 2009, pp. 45–46.
+[^57]:[Turnbull](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13206047), 2009, pp. 45–46.
 
-[^58]:Crawfurd, J. (1861). On the conditions which favour, retard, or obstruct the early civilization of man. Transactions of the Ethnological Society of London, 1, p. 154. Retrieved from Internet Archive website
+[^58]:Crawfurd, J. (1861). On the conditions which favour, retard, or obstruct the early civilization of man. *Transactions of the Ethnological Society of London, 1*, p. 154. Retrieved from Internet Archive website
 
-[^59]:Crawfurd, J. (1863). On the connexion between ethnology and physical geography. Transactions of the Ethnological Society of London, 2, p. 4. Retrieved from Internet Archive website
+[^59]:Crawfurd, J. (1863). On the connexion between ethnology and physical geography. *Transactions of the Ethnological Society of London, 2*, p. 4. Retrieved from Internet Archive website
 
-[^60]:Crawfurd, J. (1869). On The Malayan race of man and its prehistoric career. Transactions of the Ethnological Society of London, 7, pp. 123, 125. Retrieved from Internet Archive website
+[^60]:Crawfurd, J. (1869). On The Malayan race of man and its prehistoric career. *Transactions of the Ethnological Society of London, 7*, pp. 123, 125. Retrieved from Internet Archive website
 
-[^61]:Crawfurd, 1863, On the connexion between ethnology and physical geography, pp. 4–5, 8, 10–11, 14.
+[^61]:Crawfurd, 1863, *On the connexion between ethnology and physical geography*, pp. 4–5, 8, 10–11, 14.
 
-[^62]:Crawfurd, J. (1820). History of the Indian Archipelago: Containing an account of the manners, arts, languages, religions, institutions, and commerce of its inhabitants. Vol. III.  (p. 149). Edinburgh: Archibald Constable and Co. Retrieved from BookSG; Crawfurd, 1861, On the conditions which favour, retard, or obstruct the early civilization of man, p. 166.
+[^62]:Crawfurd, J. (1820). *[History of the Indian Archipelago: Containing an account of the manners, arts, languages, religions, institutions, and commerce of its inhabitants. Vol. III](https://eresources.nlb.gov.sg/printheritage/detail/59e43cf2-e102-468b-b1f0-85f494a5537b.aspx)*.  (p. 149). Edinburgh: Archibald Constable and Co. Retrieved from BookSG; Crawfurd, 1861, *On the conditions which favour, retard, or obstruct the early civilization of man*, p. 166.
 
-[^63]:Crawfurd, J. (1863). On the commixture of the races of man in western and central Asia. Transactions of the Ethnological Society of London, 1, pp. 159–60. Retrieved from Internet Archive website
+[^63]:Crawfurd, J. (1863). On the commixture of the races of man in western and central Asia. *Transactions of the Ethnological Society of London, 1*, pp. 159–60. Retrieved from Internet Archive website
 
-[^64]:Crawfurd, 1863, On the connexion between ethnology and physical geography, pp. 4, 14; Crawfurd, 1861, On the classification of the races of man, p. 370; Crawfurd, 1866, On the physical and mental characteristics of the negro, p. 214.
+[^64]:Crawfurd, 1863, *On the connexion between ethnology and physical geography*, pp. 4, 14; Crawfurd, 1861, *On the classification of the races of man*, p. 370; Crawfurd, 1866, On the physical and mental characteristics of the negro, p. 214.
 
-[^65]:Crawfurd, 1863, On the connexion between ethnology and physical geography, p. 16.
+[^65]:Crawfurd, 1863, *On the connexion between ethnology and physical geography*, p. 16.
 
-[^66]:Crawfurd, 1820, History of the Indian Archipelago, vol. 1, p. 118; Crawfurd, 1863, On the connexion between ethnology and physical geography, p. 11.
+[^66]:Crawfurd, 1820, *[History of the Indian Archipelago, vol. 1](https://eresources.nlb.gov.sg/printheritage/detail/0469b121-f1eb-4958-a97b-d8a2f3a067d1.aspx)*, p. 118; Crawfurd, 1863, *On the connexion between ethnology and physical geography*, p. 11.
 
-[^67]:Crawfurd, J. (1865). On the early migrations of man. Transactions of the Ethnological Society of London, 3, p. 339. Retrieved from Internet Archive website; Crawfurd, 1863, On the connexion between ethnology and physical geography, p. 10.
+[^67]:Crawfurd, J. (1865). On the early migrations of man. *Transactions of the Ethnological Society of London, 3*, p. 339. Retrieved from Internet Archive website; Crawfurd, 1863, On the connexion between ethnology and physical geography, p. 10.
 
-[^68]:Crawfurd, 1820, History of the Indian Archipelago, vol. II, p. 27; Crawfurd, 1856, pp. 36, 263–264; Crawfurd, 1868, On The Malayan race of man and its prehistoric career, p. 125.
+[^68]:Crawfurd, 1820, *[History of the Indian Archipelago, vol. II](https://eresources.nlb.gov.sg/printheritage/detail/792723df-d0f5-441e-84fa-b273bcbd5b0e.aspx)*, p. 27; [Crawfurd](https://eresources.nlb.gov.sg/printheritage/detail/2f493163-969c-482a-aa4d-982efd9c5e7b.aspx?s=Descriptive%20Dictionary%20of%20the%20Indian%20Archipelago), 1856, pp. 36, 263–264; Crawfurd, 1868, On The Malayan race of man and its prehistoric career, p. 125.
 
-[^69]:Syed Muhd Khairudin Aljunied. (2005). Sir Stamford Raffles’ discourse on the Malay world: A revisionist perspective. Sojourn, 2(1), pp. 6–8; Turnbull, 2009, p. 42.
+[^69]:Syed Muhd Khairudin Aljunied. (2005). Sir Stamford Raffles’ discourse on the Malay world: A revisionist perspective. *Sojourn*, 2(1), pp. 6–8; [Turnbull](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13206047), 2009, p. 42.
 
-[^70]:Quilty, M. (1998). Textual empires: A reading of early British histories of Southeast Asia (p. 52). Clayton, Victoria, Australia: Monash Asia Institute. (Call no.: RSING 959. 0072 QUI)
+[^70]:Quilty, M. (1998). *[Textual empires: A reading of early British histories of Southeast Asia](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9347426)* (p. 52). Clayton, Victoria, Australia: Monash Asia Institute. (Call no.: RSING 959. 0072 QUI)
