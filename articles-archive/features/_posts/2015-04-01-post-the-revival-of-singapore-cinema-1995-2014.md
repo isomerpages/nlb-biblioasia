@@ -184,8 +184,6 @@ Furthermore, with the exception of some of Neo’s blockbusters, the domestic fi
 The late Chuen Boone Ong in his role as Monsters Man in Ho Tzu Nyen’s 2009 <i>HERE</i>. <i>Directed by Ho Tzu Nyen, produced by Fran Borgia, Michel Cayla and Jason Lai, distributed by Cathay-Keris Films (Singapore). Singapore, 2009. Courtesy of Ho Tzu Nyen.</i>
 </div>
 
-
-
 <p style="font-size:15px;"><b>Raphaël Millet</b> is a film director, producer and critic with a passion for cinema the world over. He divides his time between France and Singapore, and has published two books about Singaporean cinema, one in French in 2004, the other in English, simply titled <i>Singapore Cinema</i>, in 2006.</p>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-11/issue-1/Apr-jun-2015/"><center>Back to Issue</center></a>
