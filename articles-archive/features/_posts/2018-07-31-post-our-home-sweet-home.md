@@ -156,13 +156,13 @@ The constant remaking of the heartland through redevelopment and upgrading has c
 <a href="https://biblioasia.nlb.gov.sg/vol-14/issue-2/jul-sep-2018/"><center>Back to Issue</center></a>
 
 #### **NOTES**
-[^1]:
-[^2]:
-[^3]:
-[^4]:
-[^5]:
-[^6]:
-[^7]:
-[^8]:
-[^9]:
-[^10]:
+[^1]:Singapore. Housing and Development Board. (1970). [*First decade in public housing, 1960–69*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082078) (pp. 6–8, 10). Singapore: Housing and Development Board. (Call no.: RSING 301.54 HOU)
+[^2]:Singapore. Housing and Development Board. (2017). *Key statistics: Annual report 2016/2017* (p. 9). Retrieved from Housing and Development Board website.
+[^3]:Singapore. Housing and Development Board. (1971). [*Annual report 1971*](http://eresources.nlb.gov.sg/printheritage/detail/6b0c9290-f219-48d6-ac3e-bb88ad8053fe.aspx) (p. 22). Retrieved from BookSG; [Out: A journal for 140,000 in HDB flats](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720628-1.2.92). (1972, June 29). *The Straits Times*, p. 17. Retrieved from NewspaperSG. [Note: The magazine was distributed free-of-charge to all HDB householders, but cost 50 cents a copy to purchase for non-HDB dwellers. The quarterly publication became bi-monthly from January 1973. Although the magazine’s contents were mainly in English and Chinese, certain features such as the editorial and news items would also be published in Malay and Tamil.]
+[^4]:Editorial. (1974, May–June). In *Our Home* (p. 5). Singapore: Housing and Development Board.
+[^5]:Editorial. (1972, July). In *Our Home* (p. 14). Singapore: Housing and Development Board. Available via PublicationSG.
+[^6]:Wong, A.K., & Yeh, S.H.K. (Eds.). (1985). [*Housing a nation: 25 years of public housing in Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081015) (pp. 13, 384). Singapore: Housing and Development Board. (Call no.: RSING 363.5095957 HOU)
+[^7]:Liu, T.K. (1975). Design for better living conditions. In S.H.K. Yeh (Ed.), [*Public housing in Singapore: A multidisciplinary study*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=756683) (pp. 152–153). (Call no.: RSING q363.5095957 PUB); The neighbourhood principle. (1975, January–February). In *Our Home* (pp. 32–33). Singapore: Housing and Development Board.
+[^8]:[Wong & Yeh](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081015), 1985, pp. 95–96, 104–105.
+[^9]:Ang Mo Kio New Town. (1974, March–April). In *Our Home* (pp. 10–11). Singapore: Housing and Development Board.
+[^10]:Singapore. Housing and Development Board. (1974). [*Annual report 1973/1974*](http://eresources.nlb.gov.sg/printheritage/detail/73e81a4e-2c42-42f8-be4e-0935676230bf.aspx) (p. 45). Retrieved from BookSG.
