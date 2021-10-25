@@ -80,3 +80,7 @@ The calls of the *galah*33 man and the knife-sharpening man might evoke wistfuln
 “After reading the article… I hate to say that I view the hustle and bustle as noise nuisance. I never knew that common corridors can bring about such headaches and frustrations until I recently moved into my flat. I am extremely distressed by the ‘noisy merriment’ of the corridor. Can you study under such [a] noise-polluted environment? I earnestly pray that those pedlars, children on tricycles, etc will disappear into thin air…”.34
 
 Such complaints created opportunities for the HDB to clarify its responsibilities HDB and those of the residents. *Our Home* made it clear that it was the duty of parents to teach children to play quietly and not cause mischief by urinating in the lifts or tampering with mailboxes.35 Problems like noise, vandalism, and littering could only be tackled if residents exercised consideration for the feelings and rights of their neighbours.
+
+<img src="/images/Vol-14-issue-2/our-home-sweet-home/Home6.JPG">
+<div style="background-color: white;">A fisherman tending to his nets on his sampan near the mouth of the Kallang River. In the background are new high-rise HDB flats juxtaposed against squatter huts along the riverbank, 1975-1985. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
