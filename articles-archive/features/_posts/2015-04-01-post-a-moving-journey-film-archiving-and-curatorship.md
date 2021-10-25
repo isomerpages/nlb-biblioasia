@@ -82,14 +82,14 @@ The AFA’s collection is available for public reference at the library@ esplana
 <br><br>
 The AFA became a subsidiary of the National Library Board in January 2014.
 <br><br>
-<img  src="/images/vol-11-issue-1/movingjourney/afa_re.jpg">10th anniversary logo of the Asian Film Archive.</span>
+<img  style="width:70%" src="/images/vol-11-issue-1/movingjourney/afa_re.jpg">10th anniversary logo of the Asian Film Archive.</span>
 
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;">
 <b>THE 19TH SEAPAVAA CONFERENCE</b>
 <br><br>
 Hosted by the AFA and supported by the National Library Board, Singapore, the 19th South East Asia-Pacific Audiovisual Archives Association (SEAPAVAA) Conference and General Assembly will take place from 22 to 28 April 2015. The week-long event at the National Library Building will feature a two-day symposium with concurrent sessions, institutional visits, Restoration Asia II (an event focusing on the restoration of films in Asia or about Asia), workshops, and an excursion. A total of 48 papers will be presented during the conference on topics such as archival advocacy, archival repatriation, professional development, repurposing of archives, technical, organisational and professional sustainability, and archives at risk. For more information, visit www. seapavaaconference.com. The theme for the 2015 SEAPAVAA conference is <i>Advocate. Connect. Engage.</i> This theme resonates closely with the thrust of AFA’s programmes and the three objectives contained in its mission statement – “To Save, Explore, and Share the Art of Asian Cinema”.
 <br><br>
-<img src="/images/vol-11-issue-1/movingjourney/logo_w_title.jpg"></span>
+<img style="width:70%" src="/images/vol-11-issue-1/movingjourney/logo_w_title.jpg"></span>
 
 
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;">
@@ -97,7 +97,7 @@ Hosted by the AFA and supported by the National Library Board, Singapore, the 19
 <br><br>
 Digital film restoration is a highly specialised and laborious process. It involves the complex use of technological software and equipment that are designed to ingest huge amounts of data. The simplified workflow diagram below gives an idea of the three main parts of digital film restoration – repair and cleaning; restoration and preservation; and access output.
 <br><br>
-<img style="width:80%" src="/images/vol-11-issue-1/movingjourney/process_re.jpg"></span>
+<img style="width:70%" src="/images/vol-11-issue-1/movingjourney/process_re.jpg"></span>
 
 
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;">
@@ -137,9 +137,8 @@ The AFA has since grown from strength to strength, expanding its collection, eng
 <br><br>
 <i><b>Thong Kay Wee</b> is the Outreach Officer of the Asian Film Archive (AFA). One part publicist and one part curator, he is responsible for devising strategies to propagate the archive’s mission and film collection. In his free time, he considers himself an independent moving image artist.</i>
 <br><br>
-<img style="width:80%" src="/images/vol-11-issue-1/movingjourney/SKP_0517.jpg">Tan Bee Thiam (right) presenting a token of appreciation to former president S.R. Nathan (left) in 2010. <i>Courtesy of the AFA.</i>
 <img style="width:70%" src="/images/vol-11-issue-1/movingjourney/SKP_0517.jpg">Tan Bee Thiam (right) presenting a token of appreciation to former president S.R. Nathan (left) in 2010. <i>Courtesy of the AFA.</i>
-<img style="width:100%" src="/images/vol-11-issue-1/movingjourney/SKP_0517.jpg">Tan Bee Thiam (right) presenting a token of appreciation to former president S.R. Nathan (left) in 2010. <i>Courtesy of the AFA.</i></span>
+</span>
 
 <p style="font-size:15px;"><b>Karen Chan</b> is Executive Director of the Asian Film Archive (AFA). Besides overseeing the growth, preservation and curation of the AFA’s collection, she teaches film literacy and preservation courses to educators, students and filmmakers. Karen also serves on the Executive Council of the South East Asia-Pacific Audiovisual Archive Association.</p>
 
