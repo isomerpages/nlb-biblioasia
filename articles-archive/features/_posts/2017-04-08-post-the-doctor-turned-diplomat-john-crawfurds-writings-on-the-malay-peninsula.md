@@ -172,21 +172,21 @@ It is clear that Crawfurd was no petty intellectual figure of the 19th century. 
 
 [^28]:Crawfurd, 1865, On the commixture of the races of man as affecting the progress of civilisation, p. 116.
 
-[^29]:Crawfurd, 1820,  History of the Indian Archipelago, vol. I, p. 135.
+[^29]:Crawfurd, 1820,  *[History of the Indian Archipelago, vol. I](https://eresources.nlb.gov.sg/printheritage/detail/792723df-d0f5-441e-84fa-b273bcbd5b0e.aspx)*, p. 135.
 
-[^30]:Crawfurd, J. (1820). History of the Indian Archipelago: Containing an account of the manners, arts, languages, religions, institutions, and commerce of its inhabitants. Vol. II. (p. 448). Edinburgh: Archibald Constable and Co. Retrieved from BookSG.
+[^30]:Crawfurd, J. (1820). *[History of the Indian Archipelago: Containing an account of the manners, arts, languages, religions, institutions, and commerce of its inhabitants](https://eresources.nlb.gov.sg/printheritage/detail/792723df-d0f5-441e-84fa-b273bcbd5b0e.aspx)*. Vol. II. (p. 448). Edinburgh: Archibald Constable and Co. Retrieved from BookSG.
 
 [^31]:Knapman, 2016, pp. 1, 11.
 
-[^32]:Crawfurd, J. (1869). On the theory of the origin of species by natural selection in the struggle for life. Transactions of the Ethnological Society of London, 7, p. 37. Retrieved from Internet Archive website; Knapman, 2016, p. 2.
+[^32]:Crawfurd, J. (1869). On the theory of the origin of species by natural selection in the struggle for life. *Transactions of the Ethnological Society of London, 7*, p. 37. Retrieved from Internet Archive website; Knapman, 2016, p. 2.
 
-[^33]:Crawfurd, J. (1865). On Sir Charles Lyell’s “Antiquity of Man”, and on Professor Huxley’s evidence as to man’s place in nature. Transactions of the Ethnological Society of London, 3, p. 60. Retrieved from Internet Archive website; Crawfurd, 1868, On the theory of the origin of species by natural selection in the struggle for life, p. 28.
+[^33]:Crawfurd, J. (1865). On Sir Charles Lyell’s “Antiquity of Man”, and on Professor Huxley’s evidence as to man’s place in nature. *Transactions of the Ethnological Society of London, 3*, p. 60. Retrieved from Internet Archive website; Crawfurd, 1868, *On the theory of the origin of species by natural selection in the struggle for life*, p. 28.
 
 [^34]:Knapman, 2016, pp 10–14.
 
-[^35]:Crawfurd, J. (1863). On colour as a test of the races of man. Transactions of the Ethnology Society of London, 2, p. 253. Retrieved from Internet Archive website; Crawfurd, J. (1866). On the physical and mental characteristics of the negro. Transactions of the Ethnology Society of London, 4, p. 213. Retrieved from Internet Archive website
+[^35]:Crawfurd, J. (1863). On colour as a test of the races of man. *Transactions of the Ethnology Society of London, 2*, p. 253. Retrieved from Internet Archive website; Crawfurd, J. (1866). On the physical and mental characteristics of the negro. *Transactions of the Ethnology Society of London, 4*, p. 213. Retrieved from Internet Archive website
 
-[^36]:Crawfurd, J. (1868). On the skin, the hair, and the eyes, as tests of the races of man. Transactions of the Ethnology Society of London, 6, pp. 144–49. Retrieved from Internet Archive website
+[^36]:Crawfurd, J. (1868). On the skin, the hair, and the eyes, as tests of the races of man. *Transactions of the Ethnology Society of London, 6*, pp. 144–49. Retrieved from Internet Archive website
 
 [^37]:Crawfurd, 1861, *On the classification of the races of man*, pp. 354, 364.
 
