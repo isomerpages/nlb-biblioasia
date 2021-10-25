@@ -6,6 +6,8 @@ layout: post
 ---
 #### John Crawfurd, the 19th-century British colonial administrator, was known for his insightful writings on ethnology and history in the Malay Peninsula. **Wilbert Wong** examines the ideas of this visionary scholar and thinker.
 
+<div style="background-color: white;"><br><img src="/images/Vol-13-issue-1/doctor-turned-diplomat/01a_doctordiplomat.jpg">Portrait of John Crawfurd, 1857. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i></div>
+
 The National Library, Singapore, has in its collection a number of items relating to John Crawfurd’s writings on Asia. In 2016, the collection was further enriched by an acquisition from Dr John Bastin – a noted authority on Stamford Raffles and author of numerous books and articles on the history of Singapore, Malaysia and Indonesia.
 
 Among the 19th-century British scholar-administrators of the Malay Peninsula, Crawfurd (1783–1868) was one of the most accomplished. He was highly regarded by the scholarly community for his formidable intellect and contributions to the field of ethnology, linguistics and Asian subjects – especially on Southeast Asia.
