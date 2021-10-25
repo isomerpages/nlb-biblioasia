@@ -106,7 +106,7 @@ Dua ciri utama untuk menjayakan poster ialah keseimbangan dan warna. Menurut Che
 <br><br>
 Permintaan untuk poster begitu rancak dari 50an ke 70an, hingga 100 keping boleh ditempah untuk setiap filem. Namun, pelukis-pelukis yang telah lama berkecimpung mula bersara sementara anak-muda tidak berminat untuk menceburi kraf ini. Kalau dahulu, seramai 10 pelukis dapat digembeling untuk menyiapkan sebuah billboard gah yang memerlukan 100 keping plywood sebagai <i>backing</i>. Dengan masa, tenaga yang sudah berkurangan menjadikan sebuah poster itu terpaksa disiapkan oleh seorang pelukis sahaja. Setelah berakhirnya tahun ‘80an, poster lukisan tangan mula akur dengan kehebatan poster digital. Bermula 1980, Shaw telah menutup studio yang membuat poster filemnya. Pada 2005, hanya seorang pelukis poster, Neo Choon Teck, yang tinggal.
 <br><br>
-<img src="/images/vol-11-issue-1/malaycinema/Asrama_re.jpg">Actress Normadiah on the cover of the now defunct Malay-language entertainment monthly magazine, <i>Asmara</i>. MFP studio at Jalan Ampas stands in the background. © Asmara, <i>Issue 23. Published by S.O.A. Alsagoff for Geliga Publication Bureau (Singapore), 1956. </i>
+<img style="width:50%" src="/images/vol-11-issue-1/malaycinema/Asrama_res.jpg">Actress Normadiah on the cover of the now defunct Malay-language entertainment monthly magazine, <i>Asmara</i>. MFP studio at Jalan Ampas stands in the background. © Asmara, <i>Issue 23. Published by S.O.A. Alsagoff for Geliga Publication Bureau (Singapore), 1956. </i>
 <br><br>
 <img src="/images/vol-11-issue-1/malaycinema/Raja_Bersiong.jpg"><i>Raja Bersiong</i> is a 1968 historical film written by former Malaysian prime minister Tunku Abdul Rahman. © Raja Bersiong. <i>Directed by Jamil Sulong, produced by Malay Film Productions, 1968. </i></span>
 
@@ -124,7 +124,7 @@ In 1953, a new form of subtitling was introduced. The previous method outlining 
 <br><br>
 Malay films of the 1950s and 60s, particularly P. Ramlee films, appealed to Malaya’s cosmopolitan society because the universal themes they portrayed cut across language and cultural barriers. [^43] In order to cater to non-Malay-speaking audiences, English subtitles were provided in Malay movies.[^44] The then sole translator, writer Zulkifli Haji Muhammad, joined Shaw Brothers’ Jalan Ampas studio in 1960, eventually becoming assistant director, directing Malay films for Shaw.[^45]
 <br><br>
-<img src="/images/vol-11-issue-1/malaycinema/Anak_Pontianak_re.jpg">A Chinese flyer promoting <i>Anak Pontianak</i> (1958). <i>Directed by Roman Estella, produced by Malay Film Productions Ltd. Singapore/ Hong Kong, 1958</i></span>
+<img src="/images/vol-11-issue-1/malaycinema/Anak_Pontianak_res.jpg">A Chinese flyer promoting <i>Anak Pontianak</i> (1958). <i>Directed by Roman Estella, produced by Malay Film Productions Ltd. Singapore/ Hong Kong, 1958</i></span>
 
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;">
 <b>TERJEMAHAN BERKESAN: SARIKATA DALAM FILEM MELAYU</b>
