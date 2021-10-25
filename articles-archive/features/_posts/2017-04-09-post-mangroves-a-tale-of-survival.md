@@ -44,7 +44,7 @@ The four most common mangrove species found in Singapore include *Avicennia* (ap
 
 One of the most well-known mangrove conservation sites is at Sungei Buloh Wetland Reserve. It is a popular site for migratory shorebird watching and photography and has clearly marked nature trails with raised boarded walkways to provide easy access and also prevent wildlife and vegetation from being trampled on.[^19] The wetland reserve contains the largest tracts of mangrove forests on the mainland.[^20] Other places in Singapore that were named after mangroves, such as Kampong Sungei Attap and Sungei Bakau Rungkup in Jurong, no longer exist.[^21]
 
-<div style="background-color: white;"><img src="/images/Vol-13-issue-1/mangroves/02_mangroves.jpg">Mangroves at Sungei Buloh Wetland Reserve. <i>All rights reserved, Yong, D. L., & Lim, K. C. (2016). A Naturalist’s Guide to the Birds of Singapore (p. 5). Oxford, England: John Beaufoy Publishing.</i></div>
+<div style="background-color: white;"><img style="width:400px" src="/images/Vol-13-issue-1/mangroves/02_mangroves.jpg">Mangroves at Sungei Buloh Wetland Reserve. <i>All rights reserved, Yong, D. L., & Lim, K. C. (2016). A Naturalist’s Guide to the Birds of Singapore (p. 5). Oxford, England: John Beaufoy Publishing.</i></div>
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>TSUNAMI AND MANGROVES: BOON OR BANE?</b>
 <br><br>
