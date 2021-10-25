@@ -18,7 +18,7 @@ Since young, I have been exposed to Chaozhou, or Teochew opera (Chaoju, 潮剧),
 
 The cloth puppets left an indelible impression on me and I began to search for information on Chinese puppetry. There was very little material to go by but thankfully, I was able to embark on my initial study by using oral history interviews from the National Archives of Singapore. Its Oral History Centre had interviewed a number of puppet masters from the different regional (or dialect) groups in the 1980s. The rest of my research material was collected through painstaking fieldwork and personal interviews with puppeteers since then.
 
-<div style="background-color: white;"><img src="/images/Vol-13-issue-1/chinese-puppet-theatre/02_chinesepuppet.jpg">A puppet stage (left) erected in a temporary canopy housing the sintua at Geylang Bahru on 21 May 2010. <i>Photo by Caroline Chia. </i></div>
+<div style="background-color: white;"><img style="width:700px" src="/images/Vol-13-issue-1/chinese-puppet-theatre/02_chinesepuppet.jpg">A puppet stage (left) erected in a temporary canopy housing the sintua at Geylang Bahru on 21 May 2010. <i>Photo by Caroline Chia. </i></div>
 
 Finding the puppeteers, establishing contact, meeting up with them and getting them to disclose closely guarded secrets of the trade was a mammoth task. To my surprise, I discovered a wide variety of puppetry art forms in Singapore, all originating from different parts of southern China.
 
@@ -26,7 +26,7 @@ Finding the puppeteers, establishing contact, meeting up with them and getting t
 
 Traditional puppet art forms include Hainanese rod puppetry (zhangtou mu’ou, 杖头木偶) from Hainan island, Hokkien glove puppetry (budaixi, 布袋戏) and string puppetry (tixian mu’ou, 提线木偶) from southern Fujian, Henghua string puppetry from Putian and Xianyou in eastern Fujian, Teochew iron-stick puppetry from Chaozhou, and Waijiang string puppetry performed by the Hakka community.[^1]
 
-<div style="background-color: white;"><img src="/images/Vol-13-issue-1/chinese-puppet-theatre/03_chinesepuppet.jpg">Hainanese rod puppet troupe San Chun Long’s performance at the Yan Kit Village Chinese Temple in November 2015. The rods are partially obscured from view by the puppet’s costume. <i>Photo by Jace Tan, National Heritage Board Puppetry Documentation Project 2015/2016.</i></div>
+<div style="background-color: white;"><img style="width:600px" src="/images/Vol-13-issue-1/chinese-puppet-theatre/03_chinesepuppet.jpg">Hainanese rod puppet troupe San Chun Long’s performance at the Yan Kit Village Chinese Temple in November 2015. The rods are partially obscured from view by the puppet’s costume. <i>Photo by Jace Tan, National Heritage Board Puppetry Documentation Project 2015/2016.</i></div>
 
 The opera performances are staged in regional languages (or dialects), which unfortunately make it difficult for the average Singaporean youth to understand and appreciate. Due to the success of the Speak Mandarin Campaign launched by the government in 1979, the majority of young Chinese people schooled in modern Singapore have become unfamiliar with dialects, which critics say has brought along with it an erosion of indigenous Chinese cultures and traditions.[^2]
 
@@ -48,7 +48,7 @@ The Hokkien community also has another puppet type known as glove puppet (potehi
 
 Originating from Chaozhou, the average height of the Teochew iron-stick puppet is approximately 35 cm whereas older ones were shorter at about 25 cm. The puppet head is made of clay or papier-mâché. There are three iron sticks attached to the puppet: one to support it and the other two with wooden handles for manipulation. The puppeteer sits on a low stool and controls the puppet from above.
 
-<div style="background-color: white;"><img src="/images/Vol-13-issue-1/chinese-puppet-theatre/06_chinesepuppet.jpg">A Teochew iron-stick puppet performance by Lao Sai Bao Feng (disbanded) at Chee Chung Huay temple on 7 February 2011. <i>Photo by Caroline Chia.</i></div>
+<div style="background-color: white;"><img style="width:700px" src="/images/Vol-13-issue-1/chinese-puppet-theatre/06_chinesepuppet.jpg">A Teochew iron-stick puppet performance by Lao Sai Bao Feng (disbanded) at Chee Chung Huay temple on 7 February 2011. <i>Photo by Caroline Chia.</i></div>
 
 Although puppet theatre has its roots in different parts of China and there are variations of the form distinct to each region, it is surprising how these various types have been able to coexist and complement one another in a small geographical space like Singapore. Each puppet type is unique to a specific community who share a common language and cultural kinship. This means that one would not usually expect audiences from one dialect group, for example the Teochews, to watch a Hainanese puppet show because of the language barrier. As migrant races, differences in language and cultural practices as well as feudal ties to ancestral villages in China were barriers to social interaction in the Chinese community in the early days of Singapore’s founding.
 
@@ -56,7 +56,7 @@ Although puppet theatre has its roots in different parts of China and there are 
 <br><br>
 Regardless of regional differences, the storylines of most Chinese puppet shows in Singapore are based on Chinese classics set in imperial China, such as A Family of Three Scholars (一门三进士) for the Hokkien and Teochew communities, Scholar Zhang Wenxiu (张文秀) for the Hainanese, and Scholar Wang Zhaorong (王兆荣) for the Henghua.
 <br><br>
-<img src="/images/Vol-13-issue-1/chinese-puppet-theatre/07_chinesepuppet.jpg">A string puppet show in Chinatown, 1963. The script is placed in such a way that the puppeteer can read it while manipulating the puppet. <i>Courtesy of National Archives of Singapore.</i>
+<img style="width:600px" src="/images/Vol-13-issue-1/chinese-puppet-theatre/07_chinesepuppet.jpg">A string puppet show in Chinatown, 1963. The script is placed in such a way that the puppeteer can read it while manipulating the puppet. <i>Courtesy of National Archives of Singapore.</i>
 <br><br>
 The show is always preceded by a ritual during which the puppets, which represent celestial beings such as the Eight Immortals, express thanksgivings to the deity whose feast day is being celebrated.
 <br><br>
@@ -68,7 +68,7 @@ The various puppet types discussed in this article belong to what is known as �
 
 In colonial Singapore, temples served as social institutions that provided both longtime Chinese settlers and new migrants with a sense of spiritual consolation when they were far removed from their hometowns in China. Regardless of whether they were settlers or migrants, many Chinese immigrants regarded China as the motherland to which they would return as soon as they had earned enough.
 
-<div style="background-color: white;"><img src="/images/Vol-13-issue-1/chinese-puppet-theatre/08_chinesepuppet.jpg">Children enjoying a Chinese street puppet show, c. late 1960s. <i>John C Young Collection, courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;"><img style="width:600px" src="/images/Vol-13-issue-1/chinese-puppet-theatre/08_chinesepuppet.jpg">Children enjoying a Chinese street puppet show, c. late 1960s. <i>John C Young Collection, courtesy of National Archives of Singapore.</i></div>
 
 In the 19th century, travelling by sea was a risky venture, with many dying of pestilence or illness during the perilous sea journey before they could arrive at their destination. Those who survived the ordeal would express their thanksgiving to the deities, including Mazu, popularly known as Goddess of the Sea. The veneration of Mazu led to the construction of some early temples by different dialect groups. For example, the Hokkiens established Thian Hock Keng temple at Telok Ayer Street in 1840, while the Teochew community erected the Wak Hai Cheng temple in 1826. On the feast day of Mazu, puppet performances would be staged in these temples, a tradition that continues to this day.
 
@@ -92,7 +92,7 @@ In Singapore, local puppet troupes have also received praise from their respecti
 
 Although the Henghua community was a minority group, its dominance of the Chinese puppetry art scene in Singapore in the mid-20th century was evidenced by the large numbers of puppet troupes that emerged during its peak. Some of the troupes included De Yue Lou (得月楼), Shuang Sai Le (双赛乐), Feng Huang Ting (凤凰亭), Xin De Yue (新得月), and He Ping (和平). The He Ping troupe was the predecessor of Sin Hoe Ping (新和平), currently the last existing Henghua puppet troupe in Singapore.
 
-<div style="background-color: white;"><img src="/images/Vol-13-issue-1/chinese-puppet-theatre/09_chinesepuppet.jpg">A Hokkien glove puppet performance by Shuang Neng Feng troupe at Jiu Xuan Temple on 30 March 2010. <i>Photo by Caroline Chia.</i></div>
+<div style="background-color: white;"><img style="width:700px" src="/images/Vol-13-issue-1/chinese-puppet-theatre/09_chinesepuppet.jpg">A Hokkien glove puppet performance by Shuang Neng Feng troupe at Jiu Xuan Temple on 30 March 2010. <i>Photo by Caroline Chia.</i></div>
 
 #### **Cross-cultural Influences**
 
@@ -108,7 +108,7 @@ In a way, the existence of spirit mediums and sintua have partly contributed to 
 
 There have also been efforts by local puppet masters to conserve and preserve the puppetry art form in Singapore. I pored through a number of Henghua opera scripts and discovered that they are generally longer and more complete, compared with the more condensed scripts found in China. For example, Beidouxi (北斗戏),  the Northern Dipper Play, a form which expresses thanksgiving to the gods for protecting the children of the sponsors, is performed for two hours in Singapore but the one I watched in Putian lasted for only 20 minutes using a more simplified script. The Sin Hoe Ping troupe still performs the Northern Dipper Play upon request.
 
-<div style="background-color: white;"><img src="/images/Vol-13-issue-1/chinese-puppet-theatre/10_chinesepuppet.jpg">The Northern Dipper Play staged by the Henghua Sin Hoe Ping troupe on 6 November 2010. The performance was held to express thanksgiving by the sponsors whose son was sickly at a young age but has now grown up to be a healthy man. The performance took place before his wedding day. Note the participation of the sponsors on stage. The son had to cross the “Hundred Flowers Bridge” as part of the ritual and would then return “safely” to his parents’ side. <i>Photo by Caroline Chia.</i></div>
+<div style="background-color: white;"><img style="width:700px" src="/images/Vol-13-issue-1/chinese-puppet-theatre/10_chinesepuppet.jpg">The Northern Dipper Play staged by the Henghua Sin Hoe Ping troupe on 6 November 2010. The performance was held to express thanksgiving by the sponsors whose son was sickly at a young age but has now grown up to be a healthy man. The performance took place before his wedding day. Note the participation of the sponsors on stage. The son had to cross the “Hundred Flowers Bridge” as part of the ritual and would then return “safely” to his parents’ side. <i>Photo by Caroline Chia.</i></div>
 
 Singapore’s warm and humid climate is not conducive for the conservation of puppet artefacts and paraphernalia, especially since there is a lack of know-how in protecting these items. Although many precious artefacts have been damaged due to poor conservation practices, some have remained in good shape as a result of careful safeguarding by the puppet troupes. When I visited San Chun Long troupe in late 2015, I noticed that the brightly painted faces of the rod puppets appeared more vibrant compared with the ones I saw in some photos in 2012. On further probing, I discovered that the puppets had been repainted in China in 2014.
 
