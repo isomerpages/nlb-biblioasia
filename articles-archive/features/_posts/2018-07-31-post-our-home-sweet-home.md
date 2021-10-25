@@ -6,7 +6,7 @@ layout: post
 ---
 #### Public housing is a Singapore success story, but the early years of high-rise living were sometimes a bittersweet experience. **Janice Loo** pores through the pages of *Our Home* magazine during its 17-year run.
 
-<img src="/images/Vol-14-issue-2/our-home-sweet-home/Home1.JPG">
+<img style="width: 350px; height: 450px;" src="/images/Vol-14-issue-2/our-home-sweet-home/Home1.JPG">
 <div style="background-color: white;">Children enjoying themselves at a playground in Toa Payoh, 1975. When new HDB housing estates were built, children’s playgrounds became essential amenities. <i>Image source: The Straits Times© Singapore Press Holdings Limited. Reprinted with permission.</i></div>
 
 One of the manifold challenges that Singapore faced at the time of self-governance in 1959 was a severe shortage of housing. Some 550,000 people, out of a population of nearly 1.6 million, had to make do with squalid living conditions, crammed into decrepit shophouses and squatter huts in the city centre and its outskirts.
@@ -19,7 +19,7 @@ To ease Singaporeans into high-rise living, the HDB started its own magazine in 
 
 *Our Home* not only kept residents updated on HDB policies, initiatives, new amenities and happenings in housing estates, but also functioned as a “views-paper”[^4] where readers could express their opinions and ideas on various aspects of HDB living as well as hear from the board. Additionally, *Our Home* featured a variety of lifestyle topics such as cooking, health, fashion, interior decoration, sports and culture – in short “something for everyone in the family”.[^5]
 
-<img src="/images/Vol-14-issue-2/our-home-sweet-home/Home2.JPG">
+<img style="width: 450px; height: 310px;" src="/images/Vol-14-issue-2/our-home-sweet-home/Home2.JPG">
 <div style="background-color: white;">Covers of <i>Our Home</i> featuring the iconic dragon playground at Toa Payoh Lorong 6 (April 1980) and the unique clover leaf-shaped circular block along Ang Mo Kio Avenue 2 (June 1982). Residents received their free copy of Our Home when paying their monthly rent or instalments at the area offices while those who paid by GIRO would get a copy in the mail.</div>
 
 Starting with 147,000 copies, circulation grew in tandem with the number of new flats completed. By the time the last issue was published in August 1989, *Our Home* had made its way into 440,000 flats island-wide.
@@ -32,7 +32,7 @@ The “neighbourhood principle” continued to guide the planning of new estates
 
 Among the earliest examples highlighted in *Our Home* was Ang Mo Kio New Town, which comprised six neighbourhoods clustered around a town centre.[^9] Construction commenced in 1973.[^10] As the estate’s focal point, the town centre hosted a comprehensive range of amenities, including department stores, supermarkets, eating places, cinemas, a post office and even a public library.[^11] It became such a shoppers’ paradise that in 1980 one resident likened Ang Mo Kio town centre to a “busy Orchard Road, [albeit] on a smaller scale and without the traffic jams and expensive price tag”.[^12]
 
-<img src="/images/Vol-14-issue-2/our-home-sweet-home/Home3.JPG">
+<img style="width: 450px; height: 310px;" src="/images/Vol-14-issue-2/our-home-sweet-home/Home3.JPG">
 <div style="background-color: white;">An elated family viewing their new HDB flat in the 1960s. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 Next in the hierarchy were neighbourhood centres with more basic facilities, such markets, hawker centres and shops, all within walking distance of homes.[^13] Apart from being one of the largest new estates of its time, Ang Mo Kio is the first to showcase HDB’s “new generation” flats.[^14] Compared to the ones built in the 1960s, these new flats were bigger and had improved features; the 3- and 4-room units, for example, had a storeroom, an ensuite master bathroom with a pedestal toilet, and bigger kitchens.[^15]
@@ -55,7 +55,7 @@ Even playgrounds came under the HDB’s scrutiny as it began to feature more dyn
 
 However, a house does not make a home, and a pleasant living environment cannot be achieved by design alone. As high-density public housing could potentially lead to tensions between neighbours, *Our Home* sought to forge a sense of commonality and responsibility among residents as a nation of house-proud flat-dwellers – or “heartlanders”[^26] as we know them today.[^27]
 
-<img src="/images/Vol-14-issue-2/our-home-sweet-home/Home4.JPG">
+<img style="width: 350px; height: 450px;" src="/images/Vol-14-issue-2/our-home-sweet-home/Home4.JPG">
 <div style="background-color: white;">In this photo taken in 1970, laundry hung out for drying on bamboo poles was a familiar sight along streets with residential units above shophouses. Before the HDB built high-rise flats, the people lived in cramped and unsanitary conditions in these shophouses. <i>George W. Porter Collection, courtesy of National Archives of Singapore.</i></div>
 
 More than a roof over their heads, the public housing programme fostered a sense of rootedness among Singaporeans by giving them a tangible stake in the country. The late founding Prime Minister Lee Kuan Yew described it thus:
@@ -68,7 +68,7 @@ In its inaugural message to readers in July 1972, the magazine echoed Lee’s se
 
 In line with Singapore’s first Concept Plan in 1971, residential estates were developed as part of a ring of self-contained new towns around the central water catchment area.[^30] High-rise flats began replacing *kampongs* (villages) and came to characterise the suburban landscape. Our Home charted this period of transition and gave voice to the hopes and frustrations of residents as they adjusted to their new environment.
 
-<img src="/images/Vol-14-issue-2/our-home-sweet-home/Home5.JPG">
+<img style="width: 450px; height: 310px;" src="/images/Vol-14-issue-2/our-home-sweet-home/Home5.JPG">
 <div style="background-color: white;">Balloting ceremony for the sale of HDB flats under the “Home Ownership for the People” scheme in Commonwealth Drive in 1965. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 A perennial complaint was noise. For those used to the relative quiet of rural *kampongs*, the cacophony of high-density estates could be hard to bear, what with screaming and crying children, blaring radio and television sets, not to mention the infernal clacking of mahjong tiles.[^31]
@@ -81,7 +81,7 @@ The calls of the *galah*[^33] man and the knife-sharpening man might evoke wistf
 
 Such complaints created opportunities for the HDB to clarify its responsibilities HDB and those of the residents. *Our Home* made it clear that it was the duty of parents to teach children to play quietly and not cause mischief by urinating in the lifts or tampering with mailboxes.[^35] Problems like noise, vandalism, and littering could only be tackled if residents exercised consideration for the feelings and rights of their neighbours.
 
-<img src="/images/Vol-14-issue-2/our-home-sweet-home/Home6.JPG">
+<img style="width: 450px; height: 310px;" src="/images/Vol-14-issue-2/our-home-sweet-home/Home6.JPG">
 <div style="background-color: white;">A fisherman tending to his nets on his sampan near the mouth of the Kallang River. In the background are new high-rise HDB flats juxtaposed against squatter huts along the riverbank, 1975-1985. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 The more practical solution in the long term was to instil civic-consciousness. As a tool for public education, *Our Home* instructed residents on the dos and don’ts of HDB living. The topics ranged from the proper disposal of waste and bulky refuse, lift usage, and the drying of laundry to playing ball games in common spaces, the keeping of plants and pets, and crime and accident prevention.[^36]
@@ -92,7 +92,7 @@ Above all, the goal was to make friends out of neighbours. As relocation disrupt
 
 “… there are others I know who have just shifted in and miss the warmth and friendliness of old neighbours and the rural way of life. These people now isolate themselves in their flats. They don’t make an effort to get to know their neighbours. Instead they rely on radios, stereograms and television to substitute for real-life contacts with neighbours”.[^40]
 
-<img src="/images/Vol-14-issue-2/our-home-sweet-home/Home7.JPG">
+<img style="width: 350px; height: 450px;" src="/images/Vol-14-issue-2/our-home-sweet-home/Home7.JPG">
 <div style="background-color: white;">View of HDB flats with laundry hanging out of the balconies in MacPherson housing estate in the 1970s. These are some of the first-generation flats built by the HDB in the 1960s. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 One opinion piece in 1972 defined the ideal type of neighbourly relations in HDB estates as one of warm, amicable and relaxed give-and-take. When neighbours are friends, they willingly “respect each other’s right to enjoyment of peace, privacy and quiet [and] work together to build a clean, friendly and harmonious community”,[^41] thus reducing estate-management problems in the long-run.[^42]
@@ -132,7 +132,7 @@ Advertisements held out the dream of a perfect home and a new level of well-bein
 
 Modern conveniences were essential in transforming the flat into an oasis of rest and relaxation, a home to which people could retire to at the end of the day to savour the fruits of their labour.
 
-<img src="/images/Vol-14-issue-2/our-home-sweet-home/Home9.JPG">
+<img style="width: 450px; height: 310px;" src="/images/Vol-14-issue-2/our-home-sweet-home/Home9.JPG">
 <div style="background-color: white;">Inside a new-generation 4-room HDB flat in Hougang in 1989. The flat had more than ample space for a family of five to live comfortably. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **Remembering Our Home**
