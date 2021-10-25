@@ -137,13 +137,23 @@ A unique feature of the NSC will be its dedicated bus lanes and cycling trunk ro
 <a href="https://biblioasia.nlb.gov.sg/vol-14/issue-2/jul-sep-2018/"><center>Back to Issue</center></a>
 	
 #### **NOTES**
-[^1]:
-[^2]:
-[^3]:
-[^4]:
-[^5]:
-[^6]:
-[^7]:
-[^8]:
+[^1]:Lay, M.G. (2009). *Handbook of road technology* (p. 22). London: CRC Press. Retrieved from Google Books.
+[^2]:Soh, E.K. (1983). [*A history of land transport in Singapore, 1819–1942*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202730615) (p. 19). Singapore: National University of Singapore. (Call no.: RSING 388.4095957 SOH); Goh, C.B. (2013). [*Technology and entrepot colonialism in Singapore, 1819–1940*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200130222) (pp. 102–103). Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 338.064095957 GOH)
+[^3]:Thomson, J.T. (1846). [*Plan of Singapore Town and adjoining districts*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13185434) [Cartographic material]. London: J.M. Richardson. (Call no.: RRARE 912.5957 THO-[KSC]); Dale, O.J. (1999). [*Urban planning in Singapore: The transformation of a city*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9146945) (p. 17). Shah Alam: Oxford University Press. (Call no.: RSING 307.1216 DAL)
+[^4]:[Goh](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200130222), 2013, pp. 103–104.
+[^5]:Survey Department, Singapore. (1940). [*Singapore island*](http://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fa17e1bf-115c-11e3-83d5-0050568939ad) [General map]. Retrieved from National Archives of Singapore website.
+[^6]:Trimmer, G.W.A. (1938). [*Report on the present traffic conditions in the Town of Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4982394) (pp. 6, 34). Singapore: Govt. Print. Off. (Microfilm no.: NL 7547)
+[^7]:Sharp, I. (2005). [*The journey: Singapore’s land transport story*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12540556) (p. 74). Singapore: SNP Editions. (Call no.: RSING 388.4095957 SHA); Warren, J.F. (2003). [*Rickshaw coolie: A people’s history of Singapore, 1880–1940*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827063) (pp. 288–289). Singapore: NUS Press. (Call no.: RSING 388.341 WAR)
+[^8]:Fwa, T.F. (Ed.). (2016). [*50 years of transportation in Singapore: Achievements and challenges*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202435924) (p. 207). Singapore: World Scientific. (Call no.: RSING 388.095957 FIF); [*Safety first at Collyer Quay*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19520125-1.2.113). (1952, January 25). The Straits Times, p. 9; [Speed limit for rural areas](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19500105-1.2.95). (1950, January 5). The Singapore Free Press, p. 6; [Governor heralds road campaign](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19470512-1.2.2). (1947, May 12). The Straits Times, p. 1; 2 zebras go, one to come. (1953, June 12). The Straits Times, p. 7. Retrieved from NewspaperSG.
 [^9]:
 [^10]:
+
+
+
+
+
+
+
+
+Singapore. Registry of Vehicles. (1960). Annual report for the year 1960 (p. 1). Singapore: Govt. Print. Off. (Call no.: RCLOS 388.31 SIN-[AR])
+Fwa, 2016, p. 204; Colony of Singapore. (1955). Master plan: Reports of study groups and working parties (p. 101). Singapore: F.S. Horslin. (Call no.: RCLOS 711.4095957 SIN)
