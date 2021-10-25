@@ -30,7 +30,7 @@ At this point, Rajhans recognised the need to infuse his crew with fresh blood i
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-11-issue-1/malaycinema/P_Ramlee_re.jpg">
+<img style="width:70%" src="/images/vol-11-issue-1/malaycinema/P_Ramlee_re.jpg">
 P. Ramlee was an actor-singer who starred in many of Shaw's MFP's films. © 120 Malay Movies, <i>Amir Muhammad, published by Matahari Books, 2010.</i>
 </div>
 
