@@ -84,3 +84,33 @@ Such complaints created opportunities for the HDB to clarify its responsibilitie
 <img src="/images/Vol-14-issue-2/our-home-sweet-home/Home6.JPG">
 <div style="background-color: white;">A fisherman tending to his nets on his sampan near the mouth of the Kallang River. In the background are new high-rise HDB flats juxtaposed against squatter huts along the riverbank, 1975-1985. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
+The more practical solution in the long term was to instil civic-consciousness. As a tool for public education, *Our Home* instructed residents on the dos and don’ts of HDB living. The topics ranged from the proper disposal of waste and bulky refuse, lift usage, and the drying of laundry to playing ball games in common spaces, the keeping of plants and pets, and crime and accident prevention.36
+
+In addition, opinion pieces and letters from readers helped to define and reinforce good neighbourly behaviour. For example, in 1972, Pang Kee Pew of Alexandra estate wrote in to share how he reminded his wife to place a cloth pad under the mortar when pounding chillies – “a daily occurence in almost every home”37 – to reduce noise. For his part, Pang confessed that he was tempted to sweep the dust through the balcony gap whenever he swept the house and let it be blown into neighbouring flats. But Mrs Pang would step in and make sure that he swept the dust onto a piece of newspaper that was then folded up and disposed in the rubbish chute.
+
+Above all, the goal was to make friends out of neighbours. As relocation disrupted existing social ties, it was not uncommon for former *kampong* dwellers to experience a loss of community.38 There was a tendency towards insularity, partly due to devices that provided endless hours of entertainment and allowed people to plug into the outside world without stepping out of their flats.39 Already in 1973, Leonard Lim of Commonwealth Drive observed:
+
+“… there are others I know who have just shifted in and miss the warmth and friendliness of old neighbours and the rural way of life. These people now isolate themselves in their flats. They don’t make an effort to get to know their neighbours. Instead they rely on radios, stereograms and television to substitute for real-life contacts with neighbours”.40
+
+<img src="/images/Vol-14-issue-2/our-home-sweet-home/Home7.JPG">
+<div style="background-color: white;">View of HDB flats with laundry hanging out of the balconies in MacPherson housing estate in the 1970s. These are some of the first-generation flats built by the HDB in the 1960s. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
+One opinion piece in 1972 defined the ideal type of neighbourly relations in HDB estates as one of warm, amicable and relaxed give-and-take. When neighbours are friends, they willingly “respect each other’s right to enjoyment of peace, privacy and quiet [and] work together to build a clean, friendly and harmonious community”,41 thus reducing estate-management problems in the long-run.42
+
+To encourage residents to know their neighbours better, *Our Home* highlighted artists, sculptors, writers and other interesting personalities living in their midst.43 In addition, from the June 1981 issue onwards, the magazine featured an “RC Corner” to promote the activities of the Residents’ Committees (RCs) and voluntary organisations run by and for residents to promote community spirit and neighbourliness in HDB housing estates.
+
+#### **High-rise Paradise**
+
+Notwithstanding the complaints, many residents were generally quite happy with HDB living. One of those who expressed her appreciation was “Mei-Mei” from Toa Payoh in 1972. Having grown up in “one of those rambling bungalows in the countryside”, she was initially apprehensive of the limited space in a flat. However, after two years she had become accustomed to her “62 sq. m. of living room, bedroom and kitchen [which] are more than ample for [her] needs”. Mei-Mei urged readers to look on the bright side:
+
+“On the other side of the coin, be thankful that you only have a small area to furnish. House-owners in private estates inevitably have too much space… To be downright practical, who really needs acres of floors to scrub and mountains of dust to sweep when you can live comfortably in a flat which needs only a flick of the duster to emerge sparklingly clean… We might complain when shops ply a noisy trade downstairs but let’s look at it this way. Which housewife can boast of having her market, her cobbler, her carpenter, her hair-dresser and even her doctor, dentist and banker all within easy walking distance?”44
+
+She went on to list more advantages, such as round-the-clock essential maintenance services, the panoramic view from her home on the 11th floor, and the breeze which “makes for comfortable living all year round”. “Mei-Mei” stressed that her views were not unique but “echo the impressions of a growing community of satisfied flat-dwellers to whom ‘home sweet home’ is a reality”.
+
+But “home sweet home” did not come without effort. Moving into a HDB flat meant increased costs. Besides the mortgage repayments, there were utilities, furnishings, household appliances and other consumer durables to pay for.45 Home ownership and the desire for a better quality of life in turn propelled more people into the workforce and the consumer economy, thus creating the start of an industrialised society.46
+
+<img src="/images/Vol-14-issue-2/our-home-sweet-home/Home8.JPG">
+<div style="background-color: white;">(Left) The Sims welcoming the latest addition to their family – a washing machine from National. The company was well known as a reputable manufacturer of home appliances, particularly rice cookers, which continue to have a place in popular memory for their durability. <i>Image reproduced from Our Home, January-February 1975, p. 2.</i><br>
+(Centre) An advertisement showing a family in the living room of their HDB flat with various SONY home entertainment appliances. Television vieiwing, including video, had become the most popular leisure activity by the 1980s. <i>Image reproduced from Our home, December 1972, back cover.</i><br>
+(Right) Hitachi touting its new washing machine as the “modern HDB’ washerwoman’”. Washing machines became more common in HDB households from the mid-1970s due to their affordability and difficulty of employing reliable washerwoman. <i>Image reproduced from Our Home, October 1975, p. 2.</i></div>
+
