@@ -130,59 +130,111 @@ Turnbull, 2004, Oxford Dictionary of National Biography.
 Turnbull, 2004, Oxford Dictionary of National Biography; Turnbull, 2009, pp. 46–47, 50.
 The Sydney Morning Herald, 23 Jul 1868, p. 6.
 Buckley, C.B. (1984). An anecdotal history of old times in Singapore 1819–1867 (p. 141). Singapore: Oxford University Press. (Call no.: RSING 959.57 BUC); Turnbull, 2009, p. 49.
+
 Mr John Crawfurd. (1868, May 16). The Examiner, issue 3146.
+
 The Sydney Morning Herald, 23 Jul 1868, p. 6; The Examiner, 1868, issue 3146; Thomson, T. (1870). A biography of eminent Scotsmen (Vol. III) (pp. 592–594). Glasgow, Blackie and Son. Retrieved from Google Books.
 See Ang, S.L. (2016, Jan–Mar). A bilingual dictionary by a Scotsman, 11 (4). Retrieved from BiblioAsia website.
-See Ang, Jan–Mar 2016.
-Murchison, 1868, cl.
-Knapman, G. (2016). Race, polygenesis and equality: John Crawfurd and nineteenth-century resistance to evolution. History of European Ideas, 42 (7), pp. 1, 11. (Not available in NLB holdings)
-Murchison, 1868, p. clxix
-Crawfurd, J. (1865). On the supposed infecundity of human hybrids or crosses. Transactions of the Ethnological Society of London, 3, p. 365. Retrieved from Internet Archive website
-Crawfurd, 1865, On the supposed infecundity of human hybrids or crosses, p. 357.
-Crawfurd, J. (1865). On the commixture of the races of man as affecting the progress of civilisation. Transactions of the Ethnological Society of London, 3, pp. 116–117. Retrieved from Internet Archive website
-Crawfurd, 1865, On the commixture of the races of man as affecting the progress of civilisation, p. 116.
-Crawfurd, 1865, On the commixture of the races of man as affecting the progress of civilisation, p. 117.
-Crawfurd, J. (1861). On the classification of the races of man. Transactions of the Ethnological Society of London, 1, p. 356. Retrieved from Internet Archive website
-Crawfurd, 1865, On the commixture of the races of man as affecting the progress of civilisation, p. 116.
-Crawfurd, 1820,  History of the Indian Archipelago, vol. I, p. 135.
-Crawfurd, J. (1820). History of the Indian Archipelago: Containing an account of the manners, arts, languages, religions, institutions, and commerce of its inhabitants. Vol. II. (p. 448). Edinburgh: Archibald Constable and Co. Retrieved from BookSG.
-Knapman, 2016, pp. 1, 11.
-Crawfurd, J. (1869). On the theory of the origin of species by natural selection in the struggle for life. Transactions of the Ethnological Society of London, 7, p. 37. Retrieved from Internet Archive website; Knapman, 2016, p. 2.
-Crawfurd, J. (1865). On Sir Charles Lyell’s “Antiquity of Man”, and on Professor Huxley’s evidence as to man’s place in nature. Transactions of the Ethnological Society of London, 3, p. 60. Retrieved from Internet Archive website; Crawfurd, 1868, On the theory of the origin of species by natural selection in the struggle for life, p. 28.
-Knapman, 2016, pp 10–14.
-Crawfurd, J. (1863). On colour as a test of the races of man. Transactions of the Ethnology Society of London, 2, p. 253. Retrieved from Internet Archive website; Crawfurd, J. (1866). On the physical and mental characteristics of the negro. Transactions of the Ethnology Society of London, 4, p. 213. Retrieved from Internet Archive website
-Crawfurd, J. (1868). On the skin, the hair, and the eyes, as tests of the races of man. Transactions of the Ethnology Society of London, 6, pp. 144–49. Retrieved from Internet Archive website
-Crawfurd, 1861, On the classification of the races of man, pp. 354, 364.
-Crawfurd, 1861, On the classification of the races of man, pp. 127, 132.
-The term “Indian Archipelago” is used by Crawfurd to refer to all countries in Southeast Asia today except Laos, Cambodia, Thailand, Burma and Vietnam.
-Crawfurd, J. (1856). A descriptive dictionary of the Indian islands & adjacent countries (pp. 295–296). London: Bradbury & Evans. Retrieved from BookSG; Crawfurd, J. (1848). On the Malayan and Polynesian languages. Transactions of the Ethnological Society of London, 1, pp. 330, 333. Retrieved from Internet Archive website; Crawfurd, 1866, On the physical and mental characteristics of the negro, pp. 230, 238.
-Crawfurd, 1848, On the Malayan and Polynesian languages, pp. 333–334; Crawfurd, 1866, On the physical and mental characteristics of the negro, p. 237.
-Crawfurd, 1820, History of the Indian Archipelago, vol. II, p. 80; Crawfurd, 1856, A descriptive dictionary of the Indian islands & adjacent countries, p. 207.  
-Crawfurd, 1848, On the Malayan and Polynesian Languages, p. 333.
-Crawfurd, 1856, A descriptive dictionary of the Indian islands & adjacent countries, pp. 41, 49–50, 257.
-Crawfurd, 1856, A descriptive dictionary of the Indian islands & adjacent countries, pp. 41, 49–50, 257.
-Crawfurd, J. (1967). Journal of an embassy to the courts of Siam and Cochin China (pp. 42–44, 52–55). Kuala Lumpur, London, New York: Oxford University Press. (Call no.: RCLOS 959.3 CRA); Crawfurd, 1856, A descriptive dictionary of the Indian islands & adjacent countries, p. 250.
-Crawfurd, 1848, On the Malayan and Polynesian languages, p. 338.
-The Scottish Enlightenment, an 18th-century movement that flourished in Scotland, was still influential during Crawfurd’s time and when its impact was still felt. Edinburgh, where Crawfurd obtained his medical degree, was one of the centres of the Scottish Enlightenment. See Broadie, A. (Ed). (2003). The Cambridge companion to the Scottish Enlightenment (pp. 1, 3, 5–6). Cambridge: Cambridge University Press. (Call no.: R 001.0941109033 CAM); Pittock, M.H. (2003). Historiography. In A. Broadie. (Ed.), The Cambridge companion to the Scottish Enlightenment (p. 262). Cambridge: Cambridge University Press. (Call no.: R 001.0941109033 CAM). For an example of how Crawfurd measured progress, see Crawfurd, 1820, History of the Indian Archipelago, vol. I, p. 9; Crawfurd, 1820, History of the Indian Archipelago, vol. II, p. 276.
-Crawfurd, 1856, A descriptive dictionary of the Indian islands & adjacent countries, pp. 17, 29.
-Turnbull, 2009, p. 50.
-Turnbull, 2009, p. 50.
-Turnbull, 2009, p. 46.
-Mills, L.A. (2003). British Malaya: 1824–67 (p. 78). Selangor, Malaysia: Malaysian Branch of the Royal Asiatic Society. (Call no.: RSING 959.5 MIL)
-Turnbull, 2009, p. 46.
-Turnbull, 2009, p. 46.
-Turnbull, 2009, p. 46.
-Turnbull, 2009, pp. 45–46.
-Crawfurd, J. (1861). On the conditions which favour, retard, or obstruct the early civilization of man. Transactions of the Ethnological Society of London, 1, p. 154. Retrieved from Internet Archive website
-Crawfurd, J. (1863). On the connexion between ethnology and physical geography. Transactions of the Ethnological Society of London, 2, p. 4. Retrieved from Internet Archive website
-Crawfurd, J. (1869). On The Malayan race of man and its prehistoric career. Transactions of the Ethnological Society of London, 7, pp. 123, 125. Retrieved from Internet Archive website
-Crawfurd, 1863, On the connexion between ethnology and physical geography, pp. 4–5, 8, 10–11, 14.
-Crawfurd, J. (1820). History of the Indian Archipelago: Containing an account of the manners, arts, languages, religions, institutions, and commerce of its inhabitants. Vol. III.  (p. 149). Edinburgh: Archibald Constable and Co. Retrieved from BookSG; Crawfurd, 1861, On the conditions which favour, retard, or obstruct the early civilization of man, p. 166.
-Crawfurd, J. (1863). On the commixture of the races of man in western and central Asia. Transactions of the Ethnological Society of London, 1, pp. 159–60. Retrieved from Internet Archive website
-Crawfurd, 1863, On the connexion between ethnology and physical geography, pp. 4, 14; Crawfurd, 1861, On the classification of the races of man, p. 370; Crawfurd, 1866, On the physical and mental characteristics of the negro, p. 214.
-Crawfurd, 1863, On the connexion between ethnology and physical geography, p. 16.
-Crawfurd, 1820, History of the Indian Archipelago, vol. 1, p. 118; Crawfurd, 1863, On the connexion between ethnology and physical geography, p. 11.
-Crawfurd, J. (1865). On the early migrations of man. Transactions of the Ethnological Society of London, 3, p. 339. Retrieved from Internet Archive website; Crawfurd, 1863, On the connexion between ethnology and physical geography, p. 10.
+
+[^18]:See Ang, Jan–Mar 2016.
+
+[^19]:Murchison, 1868, cl.
+
+[^20]:Knapman, G. (2016). Race, polygenesis and equality: John Crawfurd and nineteenth-century resistance to evolution. History of European Ideas, 42 (7), pp. 1, 11. (Not available in NLB holdings)
+
+[^21]:Murchison, 1868, p. clxix
+
+[^22]:Crawfurd, J. (1865). On the supposed infecundity of human hybrids or crosses. Transactions of the Ethnological Society of London, 3, p. 365. Retrieved from Internet Archive website
+
+[^23]:Crawfurd, 1865, On the supposed infecundity of human hybrids or crosses, p. 357.
+
+[^24]:Crawfurd, J. (1865). On the commixture of the races of man as affecting the progress of civilisation. Transactions of the Ethnological Society of London, 3, pp. 116–117. Retrieved from Internet Archive website
+
+[^25]:Crawfurd, 1865, On the commixture of the races of man as affecting the progress of civilisation, p. 116.
+
+[^26]:Crawfurd, 1865, On the commixture of the races of man as affecting the progress of civilisation, p. 117.
+
+[^27]:Crawfurd, J. (1861). On the classification of the races of man. Transactions of the Ethnological Society of London, 1, p. 356. Retrieved from Internet Archive website
+
+[^28]:Crawfurd, 1865, On the commixture of the races of man as affecting the progress of civilisation, p. 116.
+
+[^29]:Crawfurd, 1820,  History of the Indian Archipelago, vol. I, p. 135.
+
+[^30]:Crawfurd, J. (1820). History of the Indian Archipelago: Containing an account of the manners, arts, languages, religions, institutions, and commerce of its inhabitants. Vol. II. (p. 448). Edinburgh: Archibald Constable and Co. Retrieved from BookSG.
+
+[^31]:Knapman, 2016, pp. 1, 11.
+
+[^32]:Crawfurd, J. (1869). On the theory of the origin of species by natural selection in the struggle for life. Transactions of the Ethnological Society of London, 7, p. 37. Retrieved from Internet Archive website; Knapman, 2016, p. 2.
+
+[^33]:Crawfurd, J. (1865). On Sir Charles Lyell’s “Antiquity of Man”, and on Professor Huxley’s evidence as to man’s place in nature. Transactions of the Ethnological Society of London, 3, p. 60. Retrieved from Internet Archive website; Crawfurd, 1868, On the theory of the origin of species by natural selection in the struggle for life, p. 28.
+
+[^34]:Knapman, 2016, pp 10–14.
+
+[^35]:Crawfurd, J. (1863). On colour as a test of the races of man. Transactions of the Ethnology Society of London, 2, p. 253. Retrieved from Internet Archive website; Crawfurd, J. (1866). On the physical and mental characteristics of the negro. Transactions of the Ethnology Society of London, 4, p. 213. Retrieved from Internet Archive website
+
+[^36]:Crawfurd, J. (1868). On the skin, the hair, and the eyes, as tests of the races of man. Transactions of the Ethnology Society of London, 6, pp. 144–49. Retrieved from Internet Archive website
+
+[^37]:Crawfurd, 1861, On the classification of the races of man, pp. 354, 364.
+
+[^38]:Crawfurd, 1861, On the classification of the races of man, pp. 127, 132.
+
+[^39]:The term “Indian Archipelago” is used by Crawfurd to refer to all countries in Southeast Asia today except Laos, Cambodia, Thailand, Burma and Vietnam.
+
+[^40]:Crawfurd, J. (1856). A descriptive dictionary of the Indian islands & adjacent countries (pp. 295–296). London: Bradbury & Evans. Retrieved from BookSG; Crawfurd, J. (1848). On the Malayan and Polynesian languages. Transactions of the Ethnological Society of London, 1, pp. 330, 333. Retrieved from Internet Archive website; Crawfurd, 1866, On the physical and mental characteristics of the negro, pp. 230, 238.
+
+[^41]:Crawfurd, 1848, On the Malayan and Polynesian languages, pp. 333–334; Crawfurd, 1866, On the physical and mental characteristics of the negro, p. 237.
+
+[^42]:Crawfurd, 1820, History of the Indian Archipelago, vol. II, p. 80; Crawfurd, 1856, A descriptive dictionary of the Indian islands & adjacent countries, p. 207.  
+
+[^43]:Crawfurd, 1848, On the Malayan and Polynesian Languages, p. 333.
+
+[^44]:Crawfurd, 1856, A descriptive dictionary of the Indian islands & adjacent countries, pp. 41, 49–50, 257.
+
+[^45]:Crawfurd, 1856, A descriptive dictionary of the Indian islands & adjacent countries, pp. 41, 49–50, 257.
+
+[^46]:Crawfurd, J. (1967). Journal of an embassy to the courts of Siam and Cochin China (pp. 42–44, 52–55). Kuala Lumpur, London, New York: Oxford University Press. (Call no.: RCLOS 959.3 CRA); Crawfurd, 1856, A descriptive dictionary of the Indian islands & adjacent countries, p. 250.
+
+[^47]:Crawfurd, 1848, On the Malayan and Polynesian languages, p. 338.
+
+[^48]:The Scottish Enlightenment, an 18th-century movement that flourished in Scotland, was still influential during Crawfurd’s time and when its impact was still felt. Edinburgh, where Crawfurd obtained his medical degree, was one of the centres of the Scottish Enlightenment. See Broadie, A. (Ed). (2003). The Cambridge companion to the Scottish Enlightenment (pp. 1, 3, 5–6). Cambridge: Cambridge University Press. (Call no.: R 001.0941109033 CAM); Pittock, M.H. (2003). Historiography. In A. Broadie. (Ed.), The Cambridge companion to the Scottish Enlightenment (p. 262). Cambridge: Cambridge University Press. (Call no.: R 001.0941109033 CAM). For an example of how Crawfurd measured progress, see Crawfurd, 1820, History of the Indian Archipelago, vol. I, p. 9; Crawfurd, 1820, History of the Indian Archipelago, vol. II, p. 276.
+
+[^49]:Crawfurd, 1856, A descriptive dictionary of the Indian islands & adjacent countries, pp. 17, 29.
+
+[^50]:Turnbull, 2009, p. 50.
+
+[^51]:Turnbull, 2009, p. 50.
+
+[^52]:Turnbull, 2009, p. 46.
+
+[^53]:Mills, L.A. (2003). British Malaya: 1824–67 (p. 78). Selangor, Malaysia: Malaysian Branch of the Royal Asiatic Society. (Call no.: RSING 959.5 MIL)
+
+[^54]:Turnbull, 2009, p. 46.
+
+[^55]:Turnbull, 2009, p. 46.
+
+[^56]:Turnbull, 2009, p. 46.
+
+[^57]:Turnbull, 2009, pp. 45–46.
+
+[^58]:Crawfurd, J. (1861). On the conditions which favour, retard, or obstruct the early civilization of man. Transactions of the Ethnological Society of London, 1, p. 154. Retrieved from Internet Archive website
+
+[^59]:Crawfurd, J. (1863). On the connexion between ethnology and physical geography. Transactions of the Ethnological Society of London, 2, p. 4. Retrieved from Internet Archive website
+
+[^60]:Crawfurd, J. (1869). On The Malayan race of man and its prehistoric career. Transactions of the Ethnological Society of London, 7, pp. 123, 125. Retrieved from Internet Archive website
+
+[^61]:Crawfurd, 1863, On the connexion between ethnology and physical geography, pp. 4–5, 8, 10–11, 14.
+
+[^62]:Crawfurd, J. (1820). History of the Indian Archipelago: Containing an account of the manners, arts, languages, religions, institutions, and commerce of its inhabitants. Vol. III.  (p. 149). Edinburgh: Archibald Constable and Co. Retrieved from BookSG; Crawfurd, 1861, On the conditions which favour, retard, or obstruct the early civilization of man, p. 166.
+
+[^63]:Crawfurd, J. (1863). On the commixture of the races of man in western and central Asia. Transactions of the Ethnological Society of London, 1, pp. 159–60. Retrieved from Internet Archive website
+
+[^64]:Crawfurd, 1863, On the connexion between ethnology and physical geography, pp. 4, 14; Crawfurd, 1861, On the classification of the races of man, p. 370; Crawfurd, 1866, On the physical and mental characteristics of the negro, p. 214.
+
+[^65]:Crawfurd, 1863, On the connexion between ethnology and physical geography, p. 16.
+
+[^66]:Crawfurd, 1820, History of the Indian Archipelago, vol. 1, p. 118; Crawfurd, 1863, On the connexion between ethnology and physical geography, p. 11.
+
+[^67]:Crawfurd, J. (1865). On the early migrations of man. Transactions of the Ethnological Society of London, 3, p. 339. Retrieved from Internet Archive website; Crawfurd, 1863, On the connexion between ethnology and physical geography, p. 10.
 
 [^68]:Crawfurd, 1820, History of the Indian Archipelago, vol. II, p. 27; Crawfurd, 1856, pp. 36, 263–264; Crawfurd, 1868, On The Malayan race of man and its prehistoric career, p. 125.
 
