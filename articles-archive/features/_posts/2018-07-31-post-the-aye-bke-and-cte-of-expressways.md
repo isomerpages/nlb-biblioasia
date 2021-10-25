@@ -70,9 +70,9 @@ The 42.8-km PIE was initially conceived as a 35-km-long dual three-lane carriage
 
 During the construction of PIE, roads such as Jalan Toa Payoh, Jalan Kolam Ayer and Paya Lebar Way were widened, while flyovers such as Aljunied Road Flyover and Bedok North Avenue 3 Flyover were built to obviate the need for traffic light junctions.[^21] Grade-separated interchanges, including Thomson Road Interchange, Toa Payoh South Interchange and Bedok Road North Interchange, were also constructed to improve traffic flow into and out of the PIE.[^22] In 1978, a trumpet-shaped interchange was added at the eastern end of the PIE to connect it to the island’s second expressway – the East Coast Parkway (ECP).[^23]
 
-The 19-km ECP, built entirely on reclaimed land, links Changi Airport and major housing estates along the south-eastern coastline of Singapore to industrial sites and the CBD. Some of the estates that the ECP serves include Bedok, Siglap and Marine Parade. Construction took place over 10 years, between 1971 and 1981, in four phases. Phases 1 and 2 covered the stretch from Fort Road to Nallur Road, while Phases 3 and 4 comprised the 7-km portion from Nallur Road to Changi Road and the scenic 5.4-km section from Tanjong Rhu  to Keppel Road respectively.24
+The 19-km ECP, built entirely on reclaimed land, links Changi Airport and major housing estates along the south-eastern coastline of Singapore to industrial sites and the CBD. Some of the estates that the ECP serves include Bedok, Siglap and Marine Parade. Construction took place over 10 years, between 1971 and 1981, in four phases. Phases 1 and 2 covered the stretch from Fort Road to Nallur Road, while Phases 3 and 4 comprised the 7-km portion from Nallur Road to Changi Road and the scenic 5.4-km section from Tanjong Rhu  to Keppel Road respectively.[^24]
 
-One prominent feature of the ECP is the 185-hectare East Coast Park that runs alongside it. The park stretches over 15 km with access to a beach and amenities such as barbecue pits, cycling and jogging tracks, fishing spots, bicycle and skate rentals, food and beverage outlets, and chalets.25 A second feature of the ECP is the iconic 1.8-km Benjamin Sheares Bridge that links the expressway to the CBD and offers panoramic views of the city skyline. Named in memory of Singapore’s second president, the bridge spans Kallang Basin and Maria Bay and was the longest elevated viaduct on the island at the time.26
+One prominent feature of the ECP is the 185-hectare East Coast Park that runs alongside it. The park stretches over 15 km with access to a beach and amenities such as barbecue pits, cycling and jogging tracks, fishing spots, bicycle and skate rentals, food and beverage outlets, and chalets.[^25] A second feature of the ECP is the iconic 1.8-km Benjamin Sheares Bridge that links the expressway to the CBD and offers panoramic views of the city skyline. Named in memory of Singapore’s second president, the bridge spans Kallang Basin and Maria Bay and was the longest elevated viaduct on the island at the time.[^26]
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;">
 	<b>EXPRESSWAY GARDENS</b><br><br>
@@ -82,7 +82,7 @@ Unlike the endless grey expanses of asphalt found in most countries, many of Sin
 
 #### **The Era of Expressways: BKE, AYE, CTE, KJE, TPE and SLE**
 
-Another six expressways were built between the 1980s and 90s, touted as the “Era of Expressways”. During this period, the Public Works Department also carried out a series of improvements, such as the widening and re-alignment of existing expressways and roads. Underground roads, tunnels, viaducts, semi-expressways, flyovers and interchanges were also constructed to improve connectivity.27
+Another six expressways were built between the 1980s and 90s, touted as the “Era of Expressways”. During this period, the Public Works Department also carried out a series of improvements, such as the widening and re-alignment of existing expressways and roads. Underground roads, tunnels, viaducts, semi-expressways, flyovers and interchanges were also constructed to improve connectivity.[^27]
 
 The first expressway built during this period is Bukit Timah Expressway (BKE). Completed in 1986, the BKE begins at the Bukit Timah portion of the PIE and continues north towards Woodlands Checkpoint. It is a six-lane 11-km dual carriageway that serves housing estates in Woodlands, Bukit Panjang and Bukit Timah.
 
@@ -92,13 +92,13 @@ The Central Expressway (CTE) was constructed one year later in 1989 to serve res
 
 The 1990s saw three expressways built: Kranji Expressway (KJE) in 1994, Tampines Expressway (TPE) in 1996 and Seletar Expressway (SLE) in 1998. The KJE is located in the northwestern part of the island. At 8.4 km, the expressway passes through Kranji industrial estate as well as housing estates in Bukit Panjang, Choa Chu Kang, Bukit Batok and Jurong. It also connects to the BKE at Gali Batu Flyover, and the PIE at Tengah Flyover.
 
-The TPE in the northeastern part of Singapore serves the housing estates of Tampines, Pasir Ris, Lorong Halus, Punggol, Sengkang and Seletar. The 14.4-km expressway merges with the PIE near Changi Airport in the east. It also connects with the CTE and SLE in the northern part of the island. The stretch of the expressway between SLE and Lorong Halus is a particularly scenic drive with lush greenery and views of mangrove swamps and farmland.28
+The TPE in the northeastern part of Singapore serves the housing estates of Tampines, Pasir Ris, Lorong Halus, Punggol, Sengkang and Seletar. The 14.4-km expressway merges with the PIE near Changi Airport in the east. It also connects with the CTE and SLE in the northern part of the island. The stretch of the expressway between SLE and Lorong Halus is a particularly scenic drive with lush greenery and views of mangrove swamps and farmland.[^28]
 
 At almost 11 km long, the SLE, also in the northeastern part of the island, connects with the BKE at Woodlands South Flyover and terminates at the CTE-TPE-SLE interchange near Yio Chu Kang, providing greater connectivity to the residents of Woodlands, Yishun and Yio Chu Kang. The stretch of the SLE near the Upper Seletar Reservoir is a particularly scenic drive with lush greenery on either side.
 
 As these expressways were being constructed, supporting arterial roads were widened to increase their capacity. Roads in the city centre were also improved, albeit on a limited scale, due to the heavily built-up nature of the area. Some of the improvements included converting roads prone to congestion into one-way streets, and removing street-level parking and itinerant hawkers to improve traffic flow.
 
-In the years to come, a variety of other measures – many of them taking advantage of technology – were introduced to reduce traffic congestion. These included computerised traffic light management and measures to reduce the number of cars on the road, such as raising import duties and taxes, the introduction of the Vehicle Quota System to control the car population through Certificates of Entitlement (COE) that could be purchased via an open bidding process, and eventually, the Electronic Road Pricing System which charged motorists for usage of busy roads during peak hours.29
+In the years to come, a variety of other measures – many of them taking advantage of technology – were introduced to reduce traffic congestion. These included computerised traffic light management and measures to reduce the number of cars on the road, such as raising import duties and taxes, the introduction of the Vehicle Quota System to control the car population through Certificates of Entitlement (COE) that could be purchased via an open bidding process, and eventually, the Electronic Road Pricing System which charged motorists for usage of busy roads during peak hours.[^29]
 
 To encourage commuters to switch from cars to public transportation, the network of bus services was extended and improved. The game changer in public transportation, however, was the introduction of the island-wide Mass Rapid Transit (MRT) network in 1988. From the first 6km of the North-South line that opened in November 1987, the network has expanded to include four other lines – East-West, North-East, Circle and Downtown – with a sixth line in the making, the Thomson-East Coast line.
 
@@ -110,21 +110,21 @@ Eco-Link@BKE is a 62-metre-long wildlife crossing spanning the Bukit Timah Expre
 
 #### **Next-Generation Expressways: KPE and MCE**
 
-Despite the emphasis on public transport, plans were afoot to further improve the existing network of roads and expressways.30
+Despite the emphasis on public transport, plans were afoot to further improve the existing network of roads and expressways.[^30]
 
-Completed in 2008, the 12-km Kallang-Paya Lebar Expressway (KPE) was aimed at improving connectivity in the north-eastern corridor as well as cut travel time from the city centre to the newer housing estates of Sengkang and Punggol.31The expressway also relieves pressure on the CTE, and is connected to the ECP, TPE and PIE.32 With three-quarters of the KPE located underground, it is the longest subterranean road tunnel in Southeast Asia.
+Completed in 2008, the 12-km Kallang-Paya Lebar Expressway (KPE) was aimed at improving connectivity in the north-eastern corridor as well as cut travel time from the city centre to the newer housing estates of Sengkang and Punggol.[^31] The expressway also relieves pressure on the CTE, and is connected to the ECP, TPE and PIE.[^32] With three-quarters of the KPE located underground, it is the longest subterranean road tunnel in Southeast Asia.
 
-The 5-km Marina Coastal Expressway (MCE) was completed at the end of 2013. It has a 3.6-km underground tunnel, with a 420-metre stretch of it located under the seabed, making this expressway the most expensive – and the most challenging to build – to date.33
+The 5-km Marina Coastal Expressway (MCE) was completed at the end of 2013. It has a 3.6-km underground tunnel, with a 420-metre stretch of it located under the seabed, making this expressway the most expensive – and the most challenging to build – to date.[^33]
 
-The MCE connects the eastern and western parts of Singapore, and provides a high-speed link to the New Downtown area in Marina Bay. With the opening of the MCE, the section of the ECP between Central Boulevard and Benjamin Sheares Bridge was downgraded to an arterial road called Sheares Avenue, while the stretch between Central Boulevard and the AYE was demolished. This freed up prime land for the development of new projects in the Marina Bay area.34
+The MCE connects the eastern and western parts of Singapore, and provides a high-speed link to the New Downtown area in Marina Bay. With the opening of the MCE, the section of the ECP between Central Boulevard and Benjamin Sheares Bridge was downgraded to an arterial road called Sheares Avenue, while the stretch between Central Boulevard and the AYE was demolished. This freed up prime land for the development of new projects in the Marina Bay area.[^34]
 
 #### **The Future: NSC**
 
-In 2008, the government announced plans for the construction of Singapore’s 11th expressway, the 21.5-km North-South Corridor (NSC). When completed in 2026, the NSC will connect the city centre with towns along the north-south corridor. These include Woodlands, Sembawang, Yishun, Ang Mo Kio, Bishan and Toa Payoh. The NSC will also intersect and link up with existing expressways such as the SLE, PIE and ECP as part of the plan to improve the overall connectivity of the existing road network.35
+In 2008, the government announced plans for the construction of Singapore’s 11th expressway, the 21.5-km North-South Corridor (NSC). When completed in 2026, the NSC will connect the city centre with towns along the north-south corridor. These include Woodlands, Sembawang, Yishun, Ang Mo Kio, Bishan and Toa Payoh. The NSC will also intersect and link up with existing expressways such as the SLE, PIE and ECP as part of the plan to improve the overall connectivity of the existing road network.[^35]
 
 The opening of the NSC in 2026 will usher in a new era of transport in Singapore. Expressways will no longer be seen as high-speed carriageways solely for motor vehicles; instead, they will be designed to complement public transport and even cater to non-motorised users. In anticipation of population growth and demographic changes in the next two decades, the government will have to think of innovative ways to improve road connectivity and deliver a world-class transport system in line with its vision to remake Singapore.
 
-A unique feature of the NSC will be its dedicated bus lanes and cycling trunk routes. The bus lanes will help to reduce bus travelling times between housing estates along the new expressway and the city centre, while the cycling lanes will link up with the Park Connector Networks to provide cyclists with a direct route to the city centre. Both the bus and cycling lanes will support the government’s vision of transforming Singapore into a “car-lite” society where cycling and public transport would be the preferred mode of transport.36
+A unique feature of the NSC will be its dedicated bus lanes and cycling trunk routes. The bus lanes will help to reduce bus travelling times between housing estates along the new expressway and the city centre, while the cycling lanes will link up with the Park Connector Networks to provide cyclists with a direct route to the city centre. Both the bus and cycling lanes will support the government’s vision of transforming Singapore into a “car-lite” society where cycling and public transport would be the preferred mode of transport.[^36]
 
 <img src="/images/Vol-14-issue-2/the-aye-bke-and-cte-of-expways/Road7.JPG">
 	
@@ -137,3 +137,13 @@ A unique feature of the NSC will be its dedicated bus lanes and cycling trunk ro
 <a href="https://biblioasia.nlb.gov.sg/vol-14/issue-2/jul-sep-2018/"><center>Back to Issue</center></a>
 	
 #### **NOTES**
+[^1]:
+[^2]:
+[^3]:
+[^4]:
+[^5]:
+[^6]:
+[^7]:
+[^8]:
+[^9]:
+[^10]:
