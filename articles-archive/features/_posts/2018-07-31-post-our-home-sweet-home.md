@@ -196,3 +196,13 @@ The constant remaking of the heartland through redevelopment and upgrading has c
 [^38]:[Tai](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4866057), 1988, pp. 17–19.
 [^39]:Riaz Hassan. (1977). [*Families in flats: A study of low income families in public housing*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081886) (p. 144). Singapore: Singapore University Press. (Call no: RSING 301.443095957 HAS)
 [^40]:Multi-storey success. (1973, May–June). In *Our Home* (p. 36). Also see 走出菜芭 [From farm to flat]. (1974, January–February). In *Our Home* (p. 33), for the perspective of a new resident who formerly lived in a kampong in Potong Pasir.
+[^41]:
+[^42]:
+[^43]:
+[^44]:
+[^45]:
+[^46]:
+[^47]:
+[^48]:
+[^49]:
+[^50]:
