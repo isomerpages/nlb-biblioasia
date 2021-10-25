@@ -114,7 +114,7 @@ Here, the oral history interviews abound in descriptions of visits to these exhi
 
 Given the disappearance of the festival today and the absence of photographic documentation and preserved artefacts, the type of crafts and needlework presented at the Seven Sisters Festival can only be imagined via the detailed descriptions recounted by former Chinatown residents.
 
-Chia Yee Kwan describes how “… cuttlefish bones [were used] to make figurines, that were very life-like. Those figurines were based on people from the ancient times, such as *The Story of the Western Wing* [*The Romance of the Western Chambers*] and the *Three Kingdoms characters*….”[^15]
+Chia Yee Kwan describes how “… cuttlefish bones [were used] to make figurines, that were very life-like. Those figurines were based on people from the ancient times, such as *The Story of the Western Wing* [*The Romance of the Western Chambers*] and the *Three Kingdoms* characters….”[^15]
 
 A wide variety of materials were used, as former resident Lee Oi Wah explains:
 
