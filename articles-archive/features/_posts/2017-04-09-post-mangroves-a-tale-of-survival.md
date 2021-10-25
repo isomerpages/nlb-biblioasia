@@ -98,55 +98,84 @@ The use of cooking gas and electricity spelt the end of the charcoal industry in
 
 #### **NOTES**
 
-Mangrove Watch. (2013). Global mangroves: Mangroves – kidneys of the coast. Retrieved from Mangrove Watch website.
-Mangrove Watch. (2013). Mangroves defined. Retrieved from Mangrove Watch website.
-Saenger, P. (2002). Mangrove ecology, silviculture, and conservation (p. 1). Dordrecht; London: Kluwer Academic Publishers. (Call no.: R 577.698 SAE)
-Tomlinson, P.B. (1995). Botany of mangroves (pp. 13, 34). Cambridge: Cambridge University Press. (Call no.: R 583.42 TOM)
-Wise, M. (Compiler). (2013). Travellers’ tales of old Singapore (p. 107). Singapore: Marshall Cavendish Editions. (Call no.: RSING 915.957043 TRA)
-Wise, 2013, p. 165.
-Ng, P.K.L., et. al. (2007). Private lives: An exposé of Singapore’s shores (p. 200). Singapore: Raffles Museum of Biodiversity Research. (Call no.: RSING 578.7699095957 PRI)
-Wetlands International and The Nature Conservance. (2014). Mangroves for coastal defence: Guidelines for coastal managers & policy makers. Retrieved from Wetlands International website; Kinver, M. (2005, December 25). Tsunami: Mangroves ‘saved lives’. BBC News. Retrieved from BBC News website.
-UNEP & WCMC. (2014, December 4). Biodiversity A-Z: Mangrove. Retrieved from Biodiversity A-Z website.
-Boh, S. (2016, January 8). Mangroves play key carbon storage role in S’pore. The Straits Times, Science, p. B12. Retrieved from National University of Singapore News website.
-Ng, P.K.L., Wang, L.K., & Lim, K.K.P. (Eds.). (2008). Private lives: An exposé of Singapore’s mangroves (p. 225). Singapore: Raffles Museum of Biodiversity Research, National University of Singapore. (Call no.: RSING 578.7698095957 PRI)
-Yong, D.L., & Lim, K.C. (2016). A naturalist’s guide to the birds of Singapore (p. 7). Oxford, England: John Beaufoy Publishing. (Call no.: RSING 598.095957 YON)
-National Parks Board. (2014, October 15). Mangroves. Retrieved from National Parks website.
-Things that live in mud. (1983, December 1). The Straits Times, p. 2. Retrieved from NewspaperSG.
-Yang, S., Lim, R.L.F., Cheue, C., & Yong, J.W.H. (2011, October 16). The current status of mangrove forests in Singapore. In Proceedings of Nature Society, Singapore’s conference on ‘Nature conservation for a sustainable Singapore’, p. 100. Retrieved from Nature Society (Singapore) website.
-O’Dempsey, T. (2014). Singapore’s changing landscape since c. 1800 (pp. 17, 46). In T. Bernard (Ed.), Nature contained: environmental histories of Singapore (pp. 17–48). Singapore: NUS Press. (Call no.: RSING 304.2095957 NAT)
-Baker, N., & Lim, K.K.P. (2008). Wild animals of Singapore: A photographic guide to mammals, reptiles, amphibians and freshwater fishes (p. 13). Singapore: Draco Pub. and Distribution: Nature Society (Singapore). (Call no.: RSING 591.95957 WIL)
-Sivasothi, N.A., & Ng, P.K.L. (Eds.). (1999). A guide to the mangroves of Singapore 1: The ecosystem and plant diversity (p. 4). Singapore: Singapore Science Centre. (Call no.: RSING 577.698095957 GUI)
-National Parks Board. (2016). Sungei Buloh Wetland Reserve. Retrieved from National Parks website; Zaccheus, M. (2013, December 8). Sungei Buloh celebrates 20 years. The Straits Times, pp. 18/19. Retrieved from NewspaperSG.
-Yang, Lim, Sheue & Yong, 16 Oct 2011, p. 100.
-Jurong: The good old, bad old days. (1980, February 14). The Straits Times, p. 6. Retrieved from NewspaperSG; Chua, A. (2015). Jurong: Heritage trail (p. 19). Singapore: National Heritage Board. (Call no.: RSING 915.95704 JUR) 
-Kinver, M. (2015, May 12). Sri Lanka first nation to protect all mangrove forests. BBC News. Retrieved from BBC News website.
-Samaraweera outlines Sri Lanka’s commitment to protect oceans. (2016, September 19). Daily Financial Times. Retrieved from Factiva via NLB’s eResources website.
-International Union for Conservation of Nature. (2017). About. Retrieved from the International Union for Conservation of Nature website.
-Ranasinghe, T., & Kallesoe, M. (2006). Valuation, rehabilitation and conservation of mangroves in tsunami affected areas of Hambantota, Sri Lanka: Economic valuation of tsunami affected mangroves. Regional Environmental Economics Programme – Ecosystems and Livelihoods Group, Asia. Retrieved from IUCN website.
-Kinver, M. (2005, December 25). Tsunami: Mangroves ‘saved lives’. BBC News. Retrieved from BBC News website. 
-Tsunami Reconstruction. Tsunami mitigation by mangroves and coastal forests. Retrieved from Food and Agriculture Organization of the United Nations website. For full report, see Forbes, K., & Broadhead, J. (2007). The role of coastal forests in the mitigation of tsunami impacts. Retrieved from the Food and Agriculture Organization of the United Nations website.
-Wells, M. (1951, January 20). In the forests of Singapore island. The Singapore Free Press, p. 7. Retrieved from NewspaperSG.
-Holttum, R.E. (1951, February 15). Fascinating life among the mangroves. The Straits Times, p. 9. Retrieved from NewspaperSG.
-Victory goes to prawns in battle of the Ulu Pandan mangroves. (1957, December 5), The Straits Times, p. 4. Retrieved from NewspaperSG.
+[^1]:Mangrove Watch. (2013). Global mangroves: Mangroves – kidneys of the coast. Retrieved from Mangrove Watch website.
 
-Pestana, M. (1983, December 1). Will the swamp survive? The Straits Times, p. 1. Retrieved from NewspaperSG. 
+[^2]:Mangrove Watch. (2013). Mangroves defined. Retrieved from Mangrove Watch website.
 
-Tan, A. (2016, December 23). ‘Christmas’ wish for Pulau Ubin takes root. The Straits Times, p. 10. Retrieved from NewspaperSG; National Parks Board. (2015, June 16). Updates on The Ubin Project initiatives June 2015. Retrieved from NParks website. 
+[^3]:Saenger, P. (2002). Mangrove ecology, silviculture, and conservation (p. 1). Dordrecht; London: Kluwer Academic Publishers. (Call no.: R 577.698 SAE)
 
-Khew, C. (2015, October 5). New mangrove arboretum at Sungei Buloh. MyPaper. Retrieved from Factiva via NLB’S eResources website; Ministry of National Development. (2015, November/December). New mangrove arboretum for Sungei Buloh Wetland Reserve. MND Link. Retrieved from Ministry of National Development website.
+[^4]:Tomlinson, P.B. (1995). Botany of mangroves (pp. 13, 34). Cambridge: Cambridge University Press. (Call no.: R 583.42 TOM)
 
-Ng, et. al, 2007, p. 227.
+[^5]:Wise, M. (Compiler). (2013). Travellers’ tales of old Singapore (p. 107). Singapore: Marshall Cavendish Editions. (Call no.: RSING 915.957043 TRA)
 
-Ng, Wang & Lim, 2008, p. 221.
+[^6]:Wise, 2013, p. 165.
 
-Singapore charcoal burning industry. (1935, June 22). The Straits Times, p. 20. Retrieved from NewspaperSG.
+[^7]:Ng, P.K.L., et. al. (2007). Private lives: An exposé of Singapore’s shores (p. 200). Singapore: Raffles Museum of Biodiversity Research. (Call no.: RSING 578.7699095957 PRI)
 
-Ng, Wang & Lim, 2008, p. 222.
+[^8]:Wetlands International and The Nature Conservance. (2014). Mangroves for coastal defence: Guidelines for coastal managers & policy makers. Retrieved from Wetlands International website; Kinver, M. (2005, December 25). Tsunami: Mangroves ‘saved lives’. BBC News. Retrieved from BBC News website.
 
-Edwards, N. (1990). The Singapore house and residential life, 1819–1939 (p. 198). Singapore: Oxford University Press. (Call no.: RSING 728.095957 EDW)
+[^9]:UNEP & WCMC. (2014, December 4). Biodiversity A-Z: Mangrove. Retrieved from Biodiversity A-Z website.
 
-Why charcoal is still imported. (1972, September 7). The Straits Times, p. 13. Retrieved from NewspaperSG. 
+[^10]:Boh, S. (2016, January 8). Mangroves play key carbon storage role in S’pore. The Straits Times, Science, p. B12. Retrieved from National University of Singapore News website.
 
-Lay, J.T. (1992). Charcoal dealer (pp. 1–3). In S.G. Lo-Ang & C.H. Chua (Eds.), Vanishing trades of Singapore. Singapore: Oral History Dept. (Call no.: RSING 338.642095957 VAN)
+[^11]:Ng, P.K.L., Wang, L.K., & Lim, K.K.P. (Eds.). (2008). Private lives: An exposé of Singapore’s mangroves (p. 225). Singapore: Raffles Museum of Biodiversity Research, National University of Singapore. (Call no.: RSING 578.7698095957 PRI)
 
-Charcoal port near Tampines to go, new one offered at Pasir Panjang. (1992, September 23). The Straits Times, p. 20. Retrieved from NewspaperSG.
+[^12]:Yong, D.L., & Lim, K.C. (2016). A naturalist’s guide to the birds of Singapore (p. 7). Oxford, England: John Beaufoy Publishing. (Call no.: RSING 598.095957 YON)
+
+[^13]:National Parks Board. (2014, October 15). Mangroves. Retrieved from National Parks website.
+
+[^14]:Things that live in mud. (1983, December 1). The Straits Times, p. 2. Retrieved from NewspaperSG.
+
+[^15]:Yang, S., Lim, R.L.F., Cheue, C., & Yong, J.W.H. (2011, October 16). The current status of mangrove forests in Singapore. In Proceedings of Nature Society, Singapore’s conference on ‘Nature conservation for a sustainable Singapore’, p. 100. Retrieved from Nature Society (Singapore) website.
+
+[^16]:O’Dempsey, T. (2014). Singapore’s changing landscape since c. 1800 (pp. 17, 46). In T. Bernard (Ed.), Nature contained: environmental histories of Singapore (pp. 17–48). Singapore: NUS Press. (Call no.: RSING 304.2095957 NAT)
+
+[^17]:Baker, N., & Lim, K.K.P. (2008). Wild animals of Singapore: A photographic guide to mammals, reptiles, amphibians and freshwater fishes (p. 13). Singapore: Draco Pub. and Distribution: Nature Society (Singapore). (Call no.: RSING 591.95957 WIL)
+
+[^18]:Sivasothi, N.A., & Ng, P.K.L. (Eds.). (1999). A guide to the mangroves of Singapore 1: The ecosystem and plant diversity (p. 4). Singapore: Singapore Science Centre. (Call no.: RSING 577.698095957 GUI)
+
+[^19]:National Parks Board. (2016). Sungei Buloh Wetland Reserve. Retrieved from National Parks website; Zaccheus, M. (2013, December 8). Sungei Buloh celebrates 20 years. The Straits Times, pp. 18/19. Retrieved from NewspaperSG.
+
+[^20]:Yang, Lim, Sheue & Yong, 16 Oct 2011, p. 100.
+
+[^21]:Jurong: The good old, bad old days. (1980, February 14). *The Straits Times*, p. 6. Retrieved from NewspaperSG; Chua, A. (2015). Jurong: Heritage trail (p. 19). Singapore: National Heritage Board. (Call no.: RSING 915.95704 JUR) 
+
+[^22]:Kinver, M. (2015, May 12). Sri Lanka first nation to protect all mangrove forests. BBC News. Retrieved from BBC News website.
+
+[^23]:Samaraweera outlines Sri Lanka’s commitment to protect oceans. (2016, September 19). Daily Financial Times. Retrieved from Factiva via NLB’s eResources website.
+
+[^24]:International Union for Conservation of Nature. (2017). About. Retrieved from the International Union for Conservation of Nature website.
+
+[^25]:Ranasinghe, T., & Kallesoe, M. (2006). Valuation, rehabilitation and conservation of mangroves in tsunami affected areas of Hambantota, Sri Lanka: Economic valuation of tsunami affected mangroves. Regional Environmental Economics Programme – Ecosystems and Livelihoods Group, Asia. Retrieved from IUCN website.
+
+[^26]:Kinver, M. (2005, December 25). Tsunami: Mangroves ‘saved lives’. BBC News. Retrieved from BBC News website. 
+
+[^27]:Tsunami Reconstruction. Tsunami mitigation by mangroves and coastal forests. Retrieved from Food and Agriculture Organization of the United Nations website. For full report, see Forbes, K., & Broadhead, J. (2007). The role of coastal forests in the mitigation of tsunami impacts. Retrieved from the Food and Agriculture Organization of the United Nations website.
+
+[^28]:Wells, M. (1951, January 20). In the forests of Singapore island. The Singapore Free Press, p. 7. Retrieved from NewspaperSG.
+
+[^29]:Holttum, R.E. (1951, February 15). Fascinating life among the mangroves. The Straits Times, p. 9. Retrieved from NewspaperSG.
+
+[^30]:Victory goes to prawns in battle of the Ulu Pandan mangroves. (1957, December 5), The Straits Times, p. 4. Retrieved from NewspaperSG.
+
+[^31]:Pestana, M. (1983, December 1). Will the swamp survive? The Straits Times, p. 1. Retrieved from NewspaperSG. 
+
+[^32]:Tan, A. (2016, December 23). ‘Christmas’ wish for Pulau Ubin takes root. The Straits Times, p. 10. Retrieved from NewspaperSG; National Parks Board. (2015, June 16). Updates on The Ubin Project initiatives June 2015. Retrieved from NParks website. 
+
+[^33]:Khew, C. (2015, October 5). New mangrove arboretum at Sungei Buloh. MyPaper. Retrieved from Factiva via NLB’S eResources website; Ministry of National Development. (2015, November/December). New mangrove arboretum for Sungei Buloh Wetland Reserve. MND Link. Retrieved from Ministry of National Development website.
+
+[^34]:Ng, et. al, 2007, p. 227.
+
+[^35]:Ng, Wang & Lim, 2008, p. 221.
+
+[^36]:Singapore charcoal burning industry. (1935, June 22). *The Straits Times*, p. 20. Retrieved from NewspaperSG.
+
+[^37]:Ng, Wang & Lim, 2008, p. 222.
+
+[^38]:Edwards, N. (1990). The Singapore house and residential life, 1819–1939 (p. 198). Singapore: Oxford University Press. (Call no.: RSING 728.095957 EDW)
+
+[^39]:Why charcoal is still imported. (1972, September 7). *The Straits Times*, p. 13. Retrieved from NewspaperSG. 
+
+[^40]:Lay, J.T. (1992). Charcoal dealer (pp. 1–3). In S.G. Lo-Ang & C.H. Chua (Eds.), Vanishing trades of Singapore. Singapore: Oral History Dept. (Call no.: RSING 338.642095957 VAN)
+
+[^41]:Charcoal port near Tampines to go, new one offered at Pasir Panjang. (1992, September 23). *The Straits Times*, p. 20. Retrieved from NewspaperSG.
