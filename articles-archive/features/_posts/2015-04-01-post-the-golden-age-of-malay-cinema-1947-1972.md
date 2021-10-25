@@ -133,9 +133,9 @@ Selepas perang, Shaw dan Cathay melihat kesan positif dari penggunaan sarikata (
 <br><br>
 Filem-filem Melayu Shaw dan Cathay terutama karya P Ramlee disambut baik oleh masyarakat majmuk di Malaya kerana tema universalnya yang tidak kenal bahasa atau budaya. Filem klasik Melayu dapat dinikmati oleh peminat filem dari bangsa lain kerana disediakan sarikata dalam Bahasa Inggeris. Salah satu penterjemahnya ialah penulis Zulkifli Haji Muhammad yang mula menjalankan kerja-kerja sarikata di studio Jalan Ampas pada 1960 sebelum dilantik sebagai Penolong Pengarah. Mrs Wee, seorang lagi mantan pekerja Jalan Ampas dan teman kepada bintang legenda P Ramlee, banyak memeras tenaga untuk menyediakan sarikata untuk filem Melayu Shaw. Empat puluh tahun setelah studio Shaw ditutup pada 1967, beliau mengunjungi Jalan Ampas dan bangunan-bangunan renta di kawasan itu mengingatkan beliau kembali kepada hari-hari yang banyak beliau habiskan di salah satu Studio Shaw untuk menyunting dan mencetak sarikata ke dalam filem.</span>
 
-<p style="font-size:15px;"><b>Nor Afidah Bte Abd Rahman</b> is a Senior Librarian with the National Library of Singapore and a regular contributor to BiblioAsia.</p>
+<p style="font-size:15px;"><b>Nor Afidah Bte Abd Rahman</b> is a Senior Librarian with the National Library of Singapore and a regular contributor to <i>BiblioAsia</i>.</p>
 	
-<p style="font-size:15px;"><b>Michelle Heng</b> is a Librarian with the National Library of Singapore. She compiled and edited Singapore Word Maps: A Chapbook of Edwin Thumboo’s New and Selected Place Poems (2012), and more recently, Selected Poems of Goh Poh Seng (2014).</p>
+<p style="font-size:15px;"><b>Michelle Heng</b> is a Librarian with the National Library of Singapore. She compiled and edited <i>Singapore Word Maps: A Chapbook of Edwin Thumboo’s New and Selected Place Poems</i> (2012), and more recently, <i>Selected Poems of Goh Poh Seng</i> (2014).</p>
 
 
 <a href="https://biblioasia.nlb.gov.sg/vol-11/issue-1/Apr-jun-2015/"><center>Back to Issue</center></a>
@@ -180,7 +180,7 @@ van de Heide, W. (2002). *[Malaysian cinema, Asian film: Border crossings and na
 
 [^9]: [Millet](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12716044), 2006, p. 29.
 
-[^10]: [Millet](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12716044), 2006, p. 29; Hassan Abd. Muthalib. (2013). Film arrives in the Nusantara (p. 39). In *[Malaysian cinema in a bottle: A century (and a bit more) of wayang](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200774192)*. Selangor, Malaysia: Merpati Jingga. (Call no.: RSEA 791.4309595 HAS). Directed by B.S. Rajhans, Singapua Di-Waktu Malam’s plot focused on the plight of prostitutes in Singapore and starred as <i>Chempaka</i> (Magnolia, 1947); <i>Pisau Beracun</i> (The poisoned knife, 1948); <i>Chinta</i> (Love, 1948); [First post-war malay film shown](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19471116-1.2.34). (1947, November 16). <i>The Straits Times</i>, p. 3. Retrieved from NewspaperSG.
+[^10]: [Millet](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12716044), 2006, p. 29; Hassan Abd. Muthalib. (2013). Film arrives in the Nusantara (p. 39). In *[Malaysian cinema in a bottle: A century (and a bit more) of wayang](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200774192)*. Selangor, Malaysia: Merpati Jingga. (Call no.: RSEA 791.4309595 HAS). Directed by B.S. Rajhans, <i>Singapua Di-Waktu Malam</i>’s plot focused on the plight of prostitutes in Singapore and starred as <i>Chempaka</i> (Magnolia, 1947); <i>Pisau Beracun</i> (The poisoned knife, 1948); <i>Chinta</i> (Love, 1948); [First post-war malay film shown](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19471116-1.2.34). (1947, November 16). <i>The Straits Times</i>, p. 3. Retrieved from NewspaperSG.
 
 [^11]: [Muthalib](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200774192), 2013, p. 35; Mohd. Zamberi A Malek &amp; Aimi Jarr. (2005). Pre-war malay films (p. 97). In *[Malaysian films: The beginning](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12741905)*. Ampang, Selangor Darul Ehsan: National Film Development Corporation Malaysia. (Call no.: RSING 791.43095957 MOD); [Millet](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12716044), 2006, pp. 39–45.
 
@@ -240,7 +240,7 @@ van de Heide, W. (2002). *[Malaysian cinema, Asian film: Border crossings and na
 
 [^39]: *[The Singapore Free Press](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19480601-1.2.27.6)*, 1 Jun 1948, p. 2.
 
-[^40]: [Hamlet in 3,070 ch8aracters](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19480825-1.2.84). (1948, August 25). <i>The Straits Times</i>, p. 8. Retrieved from NewspaperSG.
+[^40]: [Hamlet in 3,070 characters](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19480825-1.2.84). (1948, August 25). <i>The Straits Times</i>, p. 8. Retrieved from NewspaperSG.
 
 [^41]:  [New sub-titling to help Chinese film fans](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19530419-1.2.28). (1953, April 19). <i>The Straits Times</i>, p. 3. Retrieved from NewspaperSG.
 
