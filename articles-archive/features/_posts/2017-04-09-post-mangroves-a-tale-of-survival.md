@@ -170,11 +170,11 @@ The use of cooking gas and electricity spelt the end of the charcoal industry in
 
 [^36]:Singapore charcoal burning industry. (1935, June 22). *The Straits Times*, p. 20. Retrieved from NewspaperSG.
 
-[^37]:Ng, Wang & Lim, 2008, p. 222.
+[^37]:[Ng, Wang & Lim](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13149702), 2008, p. 222.
 
-[^38]:Edwards, N. (1990). The Singapore house and residential life, 1819–1939 (p. 198). Singapore: Oxford University Press. (Call no.: RSING 728.095957 EDW)
+[^38]:Edwards, N. (1990). *[The Singapore house and residential life, 1819–1939](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5340227)* (p. 198). Singapore: Oxford University Press. (Call no.: RSING 728.095957 EDW)
 
-[^39]:Why charcoal is still imported. (1972, September 7). *The Straits Times*, p. 13. Retrieved from NewspaperSG. 
+[^39]:[Why charcoal is still imported](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720907-1.2.85). (1972, September 7). *The Straits Times*, p. 13. Retrieved from NewspaperSG. 
 
 [^40]:Lay, J.T. (1992). Charcoal dealer (pp. 1–3). In S.G. Lo-Ang & C.H. Chua (Eds.), *[Vanishing trades of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6313327)*. Singapore: Oral History Dept. (Call no.: RSING 338.642095957 VAN)
 
