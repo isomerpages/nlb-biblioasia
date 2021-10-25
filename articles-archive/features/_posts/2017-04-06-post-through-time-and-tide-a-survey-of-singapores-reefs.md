@@ -207,16 +207,16 @@ It is also a trip, not to the southern margins of an island nation, but to where
 
 [^36]:Targeting nature lovers and the well-heeled. (2006, December 1). The Straits Times, p. 6. Retrieved from NewspaperSG.
 
-[^37]:N. Sivasothi. (2005, June). The legacy of Pulau Seringat. Raffles Museum Newsletter, 4, 3. (Call no.: RSING 069.095957 RMN)
+[^37]:N. Sivasothi. (2005, June). The legacy of Pulau Seringat. *[Raffles Museum Newsletter](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10442294), 4*, 3. (Call no.: RSING 069.095957 RMN)
 
-[^38]:N. Sivasothi. (2002, April). Chek Jawa, Pulau Ubin: From research to education. ALUMNUS. Retrieved from National University of Singapore website.
+[^38]:N. Sivasothi. (2002, April). Chek Jawa, Pulau Ubin: From research to education. *ALUMNUS*. Retrieved from National University of Singapore website.
 
-[^39]:It should be noted that Chek Jawa, along with Pulau Hantu and the Pempang reefs, is still earmarked for possible eventual reclamation in Singapore’s 2013 land-use Master Plan. See What shores will Singapore lose in 7-million population plan? (2013, January 31). Retrieved from Wild Shores of Singapore website.
+[^39]:It should be noted that Chek Jawa, along with Pulau Hantu and the Pempang reefs, is still earmarked for possible eventual reclamation in Singapore’s 2013 land-use Master Plan. See *What shores will Singapore lose in 7-million population plan?* (2013, January 31). Retrieved from Wild Shores of Singapore website.
 
 [^40]:Goh, J. (2010). *About us* [Web blog]. Retrieved from The Hantu Bloggers website.
 
-[^41]:Ng, M.F.C. (2009). Habitats in harmony: The story of Semakau Landfill. Singapore: National Environment Agency. (Call no.: RSING 333.95095957 NG)
+[^41]:Ng, M.F.C. (2009). *[Habitats in harmony: The story of Semakau Landfill](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13207315)*. Singapore: National Environment Agency. (Call no.: RSING 333.95095957 NG)
 
 [^42]:Until the 1970s, the sea lapped the edges of familiar places such as East Coast Road, Beach Road, Katong, Bedok, the Esplanade and Collyer Quay, before the creation of districts such as Marina Bay and Marine Parade.
 
-[^43]:For a recent musing on exploring local reefs, see Torame, J. (2016). Notes on some outlying reefs and islands of Singapore. Mynah Magazine, 1. Retrieved from Indiegogo website.
+[^43]:For a recent musing on exploring local reefs, see Torame, J. (2016). Notes on some outlying reefs and islands of Singapore. *Mynah Magazine*, 1. Retrieved from Indiegogo website.
