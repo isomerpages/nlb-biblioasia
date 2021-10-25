@@ -7,7 +7,7 @@ layout: post
 #### In candid, off-the-cuff conversations, four young auteurs talk about their upcoming works for the Singapore Memory Project film festival.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-11-issue-1/directorchair/scene.jpg">
 A scene from the animated film <i>The Violin</i> directed by Ervin Han. <i>Courtesy of Ervin Han.</i>
 </div>
@@ -16,13 +16,12 @@ A scene from the animated film <i>The Violin</i> directed by Ervin Han. <i>Court
 
 **Hailed as one of the most promising talents in the home-grown filmmaking industry, Royston Tan has won more than 40 international and local film awards. Most of his works focus on social issues and seek to challenge the boundaries of societal expectations. It comes as no surprise that some regard him as the <i>enfant terrible</i> of Singapore film. Tan set up his own film production company, 10twentyeight, in 2008.** 
 
-![Alt text for image on Isomer site](/images/vol-11-issue-1/directorchair/Royston_Tan_re.jpg)
-<div style="background-color: white;"></div>
+<img src="/images/vol-11-issue-1/directorchair/Royston_Tan_re.jpg" style="width:70%">
 
 **Synopsis**: <i>Old Friends</i> is the final installation following the highly acclaimed documentary series <i>Old Places</i> (2010) and <i>Old Romances</i> (2012). In this latest documentary, food is the platter on which personal stories of ordinary people from all walks of life are collected, unravelled and served. By compiling these collective narratives of Singaporean food tales – in the process preserving intimate stories of joys and woes, love and loss – <i>Old Friends</i> offers future generations a taste of the past through our common passion for food. 
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-11-issue-1/directorchair/Lek_Lim_Nonya_Kueh_1.jpg">
 Production shot of <i>Old Friends</i> (2015) directed by Royston Tan. <i>Courtesy of Royston Tan.</i>
 </div>
@@ -45,8 +44,7 @@ I love roasted duck! It has always been my favourite dish.
 
 **One of the few women filmmakers in Singapore, Sun Koh’s multiple-award-winning films have been screened in more than 30 festivals around the world. Her film career started in Singapore with her debut short film <i>The Secret Heaven</i> (2002) that won the Silver Hugo at the 38th Chicago International Film Festival. The film also won her the Best Director award at the 15th Singapore International Film Festival and audience choice awards in France, South Korea and Japan. In 2013, her film Singapore Panda, part of an omnibus feature <i>Letters From The South</i> with Tsai Ming Liang, Aditya Assarat and Royston Tan, premiered at the Busan International Film Festival and was sold to The Sundance Channel in 2014. She also directed the short film <i>The Secret Passion of Mdm Tan Ah Lian</i>, a short film commissioned by the National Arts Council for Silver Arts 2014.**
 
-![Alt text for image on Isomer site](/images/vol-11-issue-1/directorchair/sun_koh_re.jpg)
-<div style="background-color: white;"></div>
+<img src="/images/vol-11-issue-1/directorchair/sun_koh_re.jpg" style="width:70%">
 
 **Synopsis**: <i>The Studio aka The Songs That Sang Her</i> is a docu-fantasia born of Sun Koh's journey halfway round the world to Sweden where she worked from 2011 to 2013. She discovered just how uniquely Singaporean her taste in music was during this two-year sojourn. 
 
@@ -65,19 +63,16 @@ The genre is inspired by Guy Maddin’s 2007 film, <i>My Winnipeg</i>, which is 
 Yes, and I wanted to highlight the fact that we are a very “musical” country – we like to compose songs for every occasion. You never know when you'll catch yourself singing these songs, like I did when I was very homesick... and of all places, in a bathroom in Sweden!
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/vol-11-issue-1/directorchair/The_Studio2326_V2.jpg">
+<br>
+<img src="/images/vol-11-issue-1/directorchair/The_Studio2326_V2.jpg" style="width:70%">
 Film still of <i>The Studio aka The Songs that Sang Her</i> (2015), directed by Sun Koh. <i>Courtesy of Sun Koh</i>.
 </div>
-
-
 
 #### **Wee Li Lin** 
 
 **One of Singapore’s pioneer female filmmakers, Wee Li Lin’s prolific filmography includes 10 short films and two feature films as well as several telemovies and commercials. She has won several awards both locally and internationally, most notably "Best Director" at the Singapore International Film Festival and a "Star Award" at the Shanghai International Film Festival for actress Joanna Dong for her starring role in the sophomore feature <i>Forever</i>. Wee’s films have travelled to prestigious festivals such as the Tribeca Film festival in New York, the Cairo International Film festival, the Shanghai International Film Festival, and the Hawaii International Film Festival, among others. She is presently working on several new projects and teaches part-time at film schools.**
 
-![Alt text for image on Isomer site](/images/vol-11-issue-1/directorchair/Headshot_lilin.jpg)
-<div style="background-color: white;"></div>
+<img src="/images/vol-11-issue-1/directorchair/Headshot_lilin.jpg" style="width:70%">
 
 **Synopsis**: <i>Centrepoint Kids</i> recreates the vibrancy and colour of the iconic mall in the 1980s and the eye-catching subcultures and trends of the youths who hung out at the shopping centre. The film chronicles a youth's initiation into a group, learning what it takes to be a Centrepoint Kid. Often portrayed as delinquents in the media, <i>Centrepoint Kids</i> hopes to capture the positive spirit of these young rebels who sought to express themselves in unique, albeit, daring ways. 
 
@@ -97,8 +92,8 @@ I reconnected with some girls in my school through Facebook whom I knew to be CP
 We had to tailor some of the clothes and the rest were bought off the shelves at Bugis Village. It was good timing; baggy jackets and shirts came back into fashion last year so we bought those as well. As for relics of the 80s, I still keep some cassette tapes, vintage furniture and one or two toys. I wish I had kept my Walkman and some other T-shirts and clothes that are now probably floating in some Salvation Army universe!
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/vol-11-issue-1/directorchair/CPKidz_Day2_BTS_378.jpg">
+<br>
+<img src="/images/vol-11-issue-1/directorchair/CPKidz_Day2_BTS_378.jpg" style="width:70%">
 A scene from Wee Li Lin's <i>Centrepoint Kids</i>. <i>Courtesy of Wee Li Lin.</i>
 </div>
 
@@ -106,8 +101,8 @@ A scene from Wee Li Lin's <i>Centrepoint Kids</i>. <i>Courtesy of Wee Li Lin.</i
 
 **With over 14 years of experience in the telecommunication, media and animation sectors, Han co-founded Robot Playground Media in 2013 to focus his company's creative efforts in developing branded content in design and animation for commercial clients, original animated IPs and educational apps for kids.** 
 
-![Alt text for image on Isomer site](/images/vol-11-issue-1/directorchair/Ervin_Han_re.jpg)
 <div style="background-color: white;"></div>
+<img src="/images/vol-11-issue-1/directorchair/Ervin_Han_re.jpg" style="width:70%">
 
 **Synopsis**: The <i>Violin</i> is an animated short film that chronicles a journey spanning 80 years through the tumultuous times in Singapore's history, such as World War II, Merger and Independence. 
 
