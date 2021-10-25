@@ -9,7 +9,7 @@ layout: post
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-11-issue-1/moviememorabilia/Venus_Theatre.jpg">
-Venus Theatre opening souvenir, 1964. Venus Theatre opened in Queenstown in 1964 and closed in 1985 and was later converted into a church.
+Venus Theatre opening souvenir, 1964. Venus Theatre opened in Queenstown in 1964 and closed in 1985 and was later converted into a church. <i>Courtesy of Wong Han Min</i>
 </div>
 
 Given the diverse range of movie-related memorabilia available, aficionados can easily amass huge collections over time. These can include cinema tickets, posters, scripts and other ephemera to film props and costumes as well as bulkier items like cinema seats, cinema projectors and studio camera sets – in short everything related to filmmaking and cinemas. 
@@ -21,19 +21,19 @@ Unfortunately, rapid urbanisation and development, coupled with the introduction
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-11-issue-1/moviememorabilia/Lion_City.jpg">
-Record of local Mandarin film <i>Lion City</i>. Produced in 1960 by Cathay-Keris, the film was Singapore's first Malayan-Mandarin film and was produced to celebrate the attainment of self-government in Singapore.
+Record of local Mandarin film <i>Lion City</i>. Produced in 1960 by Cathay-Keris, the film was Singapore's first Malayan-Mandarin film and was produced to celebrate the attainment of self-government in Singapore. <i>Courtesy of Wong Han Min</i>
 </div>
 
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-11-issue-1/moviememorabilia/Leaflet.jpg">
-Leaflet (1920s) for Charles Chaplin's <i>A Day's Pleasure</i>, which played at Surina Theatre. The theatre, owned by the Surin family and located at North Bridge Road, was open from 1922 to 1930. 
+Leaflet (1920s) for Charles Chaplin's <i>A Day's Pleasure</i>, which played at Surina Theatre. The theatre, owned by the Surin family and located at North Bridge Road, was open from 1922 to 1930. <i>Courtesy of Wong Han Min</i>
 </div>
 
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-11-issue-1/moviememorabilia/The_Ten_Commandments.jpg">
-Advertising envelope of <i>The Ten Commandments</i>, which was screened at Cathay Cinema in 1956. <i>All images courtesy of Wong Han Min.</i>
+Advertising envelope of <i>The Ten Commandments</i>, which was screened at Cathay Cinema in 1956. <i>Courtesy of Wong Han Min</i>
 </div>
 
 
@@ -43,12 +43,10 @@ My lifelong passion for all things connected to films originally started from a 
 
 Over the past three decades, my collection has evolved into a sizable private archive of memorabilia that celebrates Singapore’s multicultural film and cinema history, one that is closely intertwined with the personal memories of generations of Singaporeans who have grown up watching films – in much the same way I have.
 
-#### **As the number of movie-goers dipped and the film industry declined, I felt compelled to document the loss of these grand movie houses with detailed photographs and ticket stubs.**
-
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-11-issue-1/moviememorabilia/cathay_re.jpg">
-Cathay Cinema opening souvenir (1939). Cathay Cinema opened in 1939 and has since been the flagship theatre of Cathay Organisation in Singapore. 
+Cathay Cinema opening souvenir (1939). Cathay Cinema opened in 1939 and has since been the flagship theatre of Cathay Organisation in Singapore.
 </div>
 
 <div style="background-color: white;">
@@ -66,7 +64,7 @@ Hand-coloured still of <i>Nonya and Baba</i>, produced by Cathay Organisation in
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-11-issue-1/moviememorabilia/Hotel_Murder_Case.jpg">
-Lobby card of <i>Hotel Murder Case</i> (1963), an Amoy-dialect (Hokkien) film starring Singapore's famous getai ("song stage") singer Zhuang Xuefang (in yellow).
+Lobby card of <i>Hotel Murder Case</i> (1963), an Amoy-dialect (Hokkien) film starring Singapore's famous <i>getai</i> ("song stage") singer Zhuang Xuefang (in yellow). <i>Courtesy of Wong Han Min</i>
 </div>
 	
 <div style="background-color: white;">
@@ -85,17 +83,17 @@ Issue No. 117 of <i>Screen Voice</i>, a Chinese film magazine produced by Shaw B
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-11-issue-1/moviememorabilia/Postcards.jpg">
-Postcards produced by Cathay and Odeon cinemas, announcing upcoming movie releases in 1955.
+Postcards produced by Cathay and Odeon cinemas, announcing upcoming movie releases in 1955. <i>Courtesy of Wong Han Min</i>
 </div>
 
-<br/>
+<br>
 <img src="/images/vol-11-issue-1/moviememorabilia/Amrapali_re.jpg">
 <div style="background-color: white;">
 <img src="/images/vol-11-issue-1/moviememorabilia/Amrapali1_re.jpg">
-<i>Movie flyer for Amrapali, a Hindi film</i> screened at Galaxy Cinema on Vesak Day in 1967. Galaxy Cinema screened mostly Indian films and operated from 1965 to 1981.
+<i>Movie flyer for Amrapali, a Hindi film</i> screened at Galaxy Cinema on Vesak Day in 1967. Galaxy Cinema screened mostly Indian films and operated from 1965 to 1981. <i>Courtesy of Wong Han Min</i>
 </div>
 
-<br/>
+<br>
 <img src="/images/vol-11-issue-1/moviememorabilia/ticket_stubs.jpg">
 <div style="background-color: white;">
 <img src="/images/vol-11-issue-1/moviememorabilia/ticket_stubs1.jpg">
@@ -105,35 +103,32 @@ Ticket stubs showing the name of the cinema and a picture of an actress on one s
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-11-issue-1/moviememorabilia/Weighing_machines_re.jpg">
-Weighing machines such as this one from Lux Cinema, the last surviving old cinema in Hong Kong, were once common in Singapore's cinemas. All images courtesy of Wong Han Min. <i>All images courtesy of Wong Han Min.</i>
+Weighing machines such as this one from Lux Cinema, the last surviving old cinema in Hong Kong, were once common in Singapore's cinemas. All images courtesy of Wong Han Min. <i>Courtesy of Wong Han Min</i>
 </div>
-
-#### **What was left of the building was earmarked for demolition but before the bulldozers could tear it down, I managed to rummage through the rubble and save whatever I could find that was of historical value.**
-
 
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-11-issue-1/moviememorabilia/Crazy_Bumpkins.jpg">
-Lobby card of Shaw's Cantonese film <i>Crazy Bumpkins</i> in Singapore was shot on location in Singapore in 1976, starring the city's famous comedians Wang Sa and Ye Fung. This comedic duo hit the big screens in the early 1970s (after gaining popularity on TV) when they were employed by Shaw Studios in Hong Kong.
+Lobby card of Shaw's Cantonese film <i>Crazy Bumpkins</i> in Singapore was shot on location in Singapore in 1976, starring the city's famous comedians Wang Sa and Ye Fung. This comedic duo hit the big screens in the early 1970s (after gaining popularity on TV) when they were employed by Shaw Studios in Hong Kong. <i>Courtesy of Wong Han Min</i>
 </div>
 
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-11-issue-1/moviememorabilia/Wings_re.jpg">
-A postcard advertising the film, <i>Wings</i>, in 1929.
+A postcard advertising the film, <i>Wings</i>, in 1929. <i>Courtesy of Wong Han Min</i>
 </div>
 
 
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-11-issue-1/moviememorabilia/Wedding_Bells.jpg">
-An envelope promoting <i>Wedding Bells for Hedy</i>, a Chinese film produced by Cathay Organisation in 1960.
+An envelope promoting <i>Wedding Bells for Hedy</i>, a Chinese film produced by Cathay Organisation in 1960. <i>Courtesy of Wong Han Min</i>
 </div>
 
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-11-issue-1/moviememorabilia/Gerak_Kilat_re.jpg">
-A bookmark promoting the 1966 MFP film, <i>Jefri Zain - Gerak Kilat (Operation Lightning)</i>, which starred Jins Samsuddin, Singapore's own James Bond.
+A bookmark promoting the 1966 MFP film, <i>Jefri Zain - Gerak Kilat (Operation Lightning)</i>, which starred Jins Samsuddin, Singapore's own James Bond. <i>Courtesy of Wong Han Min</i>
 </div>
 
 <div style="background-color: white;">
