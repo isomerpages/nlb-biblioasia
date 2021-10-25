@@ -144,16 +144,26 @@ A unique feature of the NSC will be its dedicated bus lanes and cycling trunk ro
 [^5]:Survey Department, Singapore. (1940). [*Singapore island*](http://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fa17e1bf-115c-11e3-83d5-0050568939ad) [General map]. Retrieved from National Archives of Singapore website.
 [^6]:Trimmer, G.W.A. (1938). [*Report on the present traffic conditions in the Town of Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4982394) (pp. 6, 34). Singapore: Govt. Print. Off. (Microfilm no.: NL 7547)
 [^7]:Sharp, I. (2005). [*The journey: Singapore’s land transport story*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12540556) (p. 74). Singapore: SNP Editions. (Call no.: RSING 388.4095957 SHA); Warren, J.F. (2003). [*Rickshaw coolie: A people’s history of Singapore, 1880–1940*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827063) (pp. 288–289). Singapore: NUS Press. (Call no.: RSING 388.341 WAR)
-[^8]:Fwa, T.F. (Ed.). (2016). [*50 years of transportation in Singapore: Achievements and challenges*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202435924) (p. 207). Singapore: World Scientific. (Call no.: RSING 388.095957 FIF); [*Safety first at Collyer Quay*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19520125-1.2.113). (1952, January 25). The Straits Times, p. 9; [Speed limit for rural areas](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19500105-1.2.95). (1950, January 5). The Singapore Free Press, p. 6; [Governor heralds road campaign](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19470512-1.2.2). (1947, May 12). The Straits Times, p. 1; 2 zebras go, one to come. (1953, June 12). The Straits Times, p. 7. Retrieved from NewspaperSG.
-[^9]:
-[^10]:
+[^8]:Fwa, T.F. (Ed.). (2016). [*50 years of transportation in Singapore: Achievements and challenges*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202435924) (p. 207). Singapore: World Scientific. (Call no.: RSING 388.095957 FIF); [*Safety first at Collyer Quay*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19520125-1.2.113). (1952, January 25). *The Straits Times*, p. 9; [Speed limit for rural areas](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19500105-1.2.95). (1950, January 5). *The Singapore Free Press*, p. 6; [Governor heralds road campaign](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19470512-1.2.2). (1947, May 12). *The Straits Times*, p. 1; 2 [zebras go, one to come](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19530612-1.2.87). (1953, June 12). *The Straits Times*, p. 7. Retrieved from NewspaperSG.
+[^9]:Singapore. Registry of Vehicles. (1960). [*Annual report for the year 1960*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4588833) (p. 1). Singapore: Govt. Print. Off. (Call no.: RCLOS 388.31 SIN-[AR])
+[^10]:[Fwa](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202435924), 2016, p. 204; Colony of Singapore. (1955). [*Master plan: Reports of study groups and working parties*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=3067973) (p. 101). Singapore: F.S. Horslin. (Call no.: RCLOS 711.4095957 SIN)
+[^11]:[Colony of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=3067973), 1955, pp. 54–55, 101.
+[^12]:[Colony of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=3067973), 1955, pp. 52, 54.
+[^13]:[Singapore has 197,945 motor vehicles](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19660122-1.2.90). (1966, January 22). *The Straits Times*, p. 14. Retrieved from NewspaperSG.
+[^14]:[Fwa](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202435924), 2016, p. 17; Urban Redevelopment Authority. (2014). Concept Plan 1971. Retrieved from Urban Redevelopment Authority website; Campbell, W. (1970, March 23). [New impetus as ring plan gets go-ahead](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19700323-1.2.57.aspx). The Straits Times, p. 8. Retrieved from NewspaperSG.
+[^15]:
+[^16]:
+[^17]:
+[^18]:
+[^19]:
+[^20]:
 
 
 
 
-
-
-
-
-Singapore. Registry of Vehicles. (1960). Annual report for the year 1960 (p. 1). Singapore: Govt. Print. Off. (Call no.: RCLOS 388.31 SIN-[AR])
-Fwa, 2016, p. 204; Colony of Singapore. (1955). Master plan: Reports of study groups and working parties (p. 101). Singapore: F.S. Horslin. (Call no.: RCLOS 711.4095957 SIN)
+Fwa, 2016, p. 130; Major survey of land and buildings. (1967, August 18). The Straits Times, p. 8; ‘Unique nation state’ plan. (1967, September 20). The Straits Times, p. 6. Retrieved from NewspaperSG.
+Singapore. Planning Department. (1969). Annual report for the year 1968 & 1969 (pp. 4–18). Singapore: Planning Department. (Call no.: RCLOS 711.4095957 SPDAR)
+The Straits Times, 23 Mar 1970, p. 8; Campbell, B. (1970, April 8). What the Ring Concept Plan looks like. The Straits Times, p. 5. Retrieved from NewspaperSG.
+Land Transport Authority. (2013, August 17). Pan Island Expressway. Retrieved from Land Transport Authority website.
+Land Transport Authority, 17 Aug 2013; Public Works Department. (1967). Annual report for the year 1967 (p. 8). Singapore: Govt. Print. Off. (Call no.: RCLOS 354.59570086 SIN); Ministry of Culture. (1981, January 10). Speech by Mr Teh Cheang Wan, Minister for National Development, at the official opening of the Pan-Island Expressway between Jalan Eunos and East Coast Parkway, 10 January 1981 at 11 am [Press release]. Retrieved from National Archives of Singapore website; Ministry of Culture. (1989). Singapore Yearbook 1989 (p. 145). Singapore: Govt. Print. Off. (Call no.: RSING 959.57 SIN).
+PIE will reach Tuas by ’94. (1992, January 8). The Straits Times, p. 3; PIE extension to open tomorrow. (1993, December 3). The Straits Times, p. 33. Retrieved from NewspaperSG.
