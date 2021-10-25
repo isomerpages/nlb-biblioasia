@@ -44,7 +44,7 @@ The four most common mangrove species found in Singapore include *Avicennia* (ap
 
 One of the most well-known mangrove conservation sites is at Sungei Buloh Wetland Reserve. It is a popular site for migratory shorebird watching and photography and has clearly marked nature trails with raised boarded walkways to provide easy access and also prevent wildlife and vegetation from being trampled on.[^19] The wetland reserve contains the largest tracts of mangrove forests on the mainland.[^20] Other places in Singapore that were named after mangroves, such as Kampong Sungei Attap and Sungei Bakau Rungkup in Jurong, no longer exist.[^21]
 
-<div style="background-color: white;"><img style="width:400px" src="/images/Vol-13-issue-1/mangroves/02_mangroves.jpg">Mangroves at Sungei Buloh Wetland Reserve. <i>All rights reserved, Yong, D. L., & Lim, K. C. (2016). A Naturalist’s Guide to the Birds of Singapore (p. 5). Oxford, England: John Beaufoy Publishing.</i></div>
+<div style="background-color: white;"><img style="width:300px" src="/images/Vol-13-issue-1/mangroves/02_mangroves.jpg">Mangroves at Sungei Buloh Wetland Reserve. <i>All rights reserved, Yong, D. L., & Lim, K. C. (2016). A Naturalist’s Guide to the Birds of Singapore (p. 5). Oxford, England: John Beaufoy Publishing.</i></div>
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>TSUNAMI AND MANGROVES: BOON OR BANE?</b>
 <br><br>
@@ -78,7 +78,7 @@ Wood from the <i>Rhizophora apiculata</i>, also known as <i>bakau</i>, makes for
 <br><br>
 An interesting pictorial description of Singapore’s charcoal burning industry from yesteryear can be found in the 22 June 1935 edition of <i>The Straits Times</i> (page 20).[^36] Typically, the harvested <i>bakau</i> stems are cut to size and transported along the river to the charcoal production factory, where they are stripped of their barks and arranged according to size before being placed in a kiln to be incinerated into charcoal.[^37]
 <br><br>
-<img style="width:500px" src="/images/Vol-13-issue-1/mangroves/04_mangroves.jpg">At the charcoal production factory, the mangrove stems are stripped of their bark and then arranged according to size. The stripped mangrove stems are then placed in the kiln to be incinerated into charcoal. <i>Photo by J. Yong.</i>
+<img style="width:600px" src="/images/Vol-13-issue-1/mangroves/04_mangroves.jpg">At the charcoal production factory, the mangrove stems are stripped of their bark and then arranged according to size. The stripped mangrove stems are then placed in the kiln to be incinerated into charcoal. <i>Photo by J. Yong.</i>
 <br><br>
 Housewives in pre-war Singapore had to make do with charcoal burning stoves. In his book, <i>The Singapore House and Residential Life, 1819–1939</i>, Norman Edwards described these kitchens as “extraordinarily primitive”, consisting of an open stove made of brick with either a stone slab or a concrete top at bench height, with two round holes to place the cooking vessels over burning wood or charcoal underneath. A bundle of approximately 2.5–5 kg of charcoal could last a large family for about two days.[^38]
 <br><br>
