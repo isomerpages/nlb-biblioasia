@@ -126,51 +126,51 @@ It is clear that Crawfurd was no petty intellectual figure of the 19th century. 
 
 [^5]:The Sydney Morning Herald, 23 Jul 1868, p. 6; Turnbull, C.M. (2004). Crawfurd, John (1783–1868), orientalist and colonial administrator. Retrieved from Oxford Dictionary of National Biography website
 
-[^6]:Crawfurd, J. (1820). Advertisement. In History of the Indian Archipelago: Containing an account of the manners, arts, languages, religions, institutions, and commerce of its inhabitants. Vol. I. Edinburgh: Archibald Constable and Co. Retrieved from BookSG; Murchison, R.I. (1868). Address to the Royal Geographical Society. The Journal of the Royal Geographical Society of London, 38, p. clxvii. Retrieved from JSTOR via NLB’s eResources website.
+[^6]:Crawfurd, J. (1820). Advertisement. In History of the Indian Archipelago: Containing an account of the manners, arts, languages, religions, institutions, and commerce of its inhabitants. Vol. I. Edinburgh: Archibald Constable and Co. Retrieved from BookSG; Murchison, R.I. (1868). Address to the Royal Geographical Society. The Journal of the Royal Geographical Society of London, 38, p. clxvii. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/) website.
 
-[^7]:Crawfurd, 1820,  History of the Indian Archipelago, vol. I.
+[^7]:Crawfurd, 1820,  *[History of the Indian Archipelago, vol. I](https://eresources.nlb.gov.sg/printheritage/detail/0469b121-f1eb-4958-a97b-d8a2f3a067d1.aspx)*.
 
-[^8]:Ellingson, T.J. (2001). The myth of the noble savage (p. 268). Berkeley: University of California Press. (Call no.: RSEA 301.01 ELL)
+[^8]:Ellingson, T.J. (2001). *[The myth of the noble savage](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202514842)* (p. 268). Berkeley: University of California Press. (Call no.: RSEA 301.01 ELL)
 
-[^9]:The Sydney Morning Herald, 23 Jul 1868, p. 6; Turnbull, 2004, Oxford Dictionary of National Biography.
+[^9]:*The Sydney Morning Herald*, 23 Jul 1868, p. 6; Turnbull, 2004, Oxford Dictionary of National Biography.
 
-[^10]:Notice of Mr Crawfurd’s Descriptive Dictionary. (1856). The Journal of the Indian Archipelago and Eastern Asia (new series), 1, p. 293. Retrieved from Hathi Trust Digital Library website
+[^10]:Notice of Mr Crawfurd’s Descriptive Dictionary. (1856). *The Journal of the Indian Archipelago and Eastern Asia* (new series), 1, p. 293. Retrieved from Hathi Trust Digital Library website
 
-[^11]:Turnbull, 2004, Oxford Dictionary of National Biography.
+[^11]:Turnbull, 2004, *Oxford Dictionary of National Biography*.
 
-[^12]:Turnbull, 2004, Oxford Dictionary of National Biography; Turnbull, 2009, pp. 46–47, 50.
+[^12]:Turnbull, 2004, *Oxford Dictionary of National Biography*; [Turnbull](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13206047), 2009, pp. 46–47, 50.
 
-[^13]:The Sydney Morning Herald, 23 Jul 1868, p. 6.
+[^13]:*The Sydney Morning Herald*, 23 Jul 1868, p. 6.
 
-[^14]:Buckley, C.B. (1984). An anecdotal history of old times in Singapore 1819–1867 (p. 141). Singapore: Oxford University Press. (Call no.: RSING 959.57 BUC); Turnbull, 2009, p. 49.
+[^14]:Buckley, C.B. (1984). *[An anecdotal history of old times in Singapore 1819–1867](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082239)* (p. 141). Singapore: Oxford University Press. (Call no.: RSING 959.57 BUC); [Turnbull](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13206047), 2009, p. 49.
 
-[^15]:Mr John Crawfurd. (1868, May 16). The Examiner, issue 3146.
+[^15]:Mr John Crawfurd. (1868, May 16). *The Examiner*, issue 3146.
 
-[^16]:The Sydney Morning Herald, 23 Jul 1868, p. 6; The Examiner, 1868, issue 3146; Thomson, T. (1870). A biography of eminent Scotsmen (Vol. III) (pp. 592–594). Glasgow, Blackie and Son. Retrieved from Google Books.
+[^16]:The Sydney Morning Herald, 23 Jul 1868, p. 6; *The Examiner, 1868*, issue 3146; Thomson, T. (1870). *A biography of eminent Scotsmen (Vol. III)* (pp. 592–594). Glasgow, Blackie and Son. Retrieved from Google Books.
 
-[^17]:See Ang, S.L. (2016, Jan–Mar). A bilingual dictionary by a Scotsman, 11 (4). Retrieved from BiblioAsia website.
+[^17]:See Ang, S.L. (2016, Jan–Mar). *[A bilingual dictionary by a Scotsman](http://www.nlb.gov.sg/biblioasia/2016/01/18/a-bilingual-dictionary-by-a-scotsman/), 11* (4). Retrieved from BiblioAsia website.
 
-[^18]:See Ang, Jan–Mar 2016.
+[^18]:See [Ang](http://www.nlb.gov.sg/biblioasia/2016/01/18/a-bilingual-dictionary-by-a-scotsman/), Jan–Mar 2016.
 
 [^19]:Murchison, 1868, cl.
 
-[^20]:Knapman, G. (2016). Race, polygenesis and equality: John Crawfurd and nineteenth-century resistance to evolution. History of European Ideas, 42 (7), pp. 1, 11. (Not available in NLB holdings)
+[^20]:Knapman, G. (2016). Race, polygenesis and equality: John Crawfurd and nineteenth-century resistance to evolution. *History of European Ideas, 42* (7), pp. 1, 11. (Not available in NLB holdings)
 
 [^21]:Murchison, 1868, p. clxix
 
-[^22]:Crawfurd, J. (1865). On the supposed infecundity of human hybrids or crosses. Transactions of the Ethnological Society of London, 3, p. 365. Retrieved from Internet Archive website
+[^22]:Crawfurd, J. (1865). On the supposed infecundity of human hybrids or crosses. *Transactions of the Ethnological Society of London, 3*, p. 365. Retrieved from Internet Archive website
 
-[^23]:Crawfurd, 1865, On the supposed infecundity of human hybrids or crosses, p. 357.
+[^23]:Crawfurd, 1865, *On the supposed infecundity of human hybrids or crosses*, p. 357.
 
-[^24]:Crawfurd, J. (1865). On the commixture of the races of man as affecting the progress of civilisation. Transactions of the Ethnological Society of London, 3, pp. 116–117. Retrieved from Internet Archive website
+[^24]:Crawfurd, J. (1865). On the commixture of the races of man as affecting the progress of civilisation. *Transactions of the Ethnological Society of London, 3*, pp. 116–117. Retrieved from Internet Archive website
 
-[^25]:Crawfurd, 1865, On the commixture of the races of man as affecting the progress of civilisation, p. 116.
+[^25]:Crawfurd, 1865, *On the commixture of the races of man as affecting the progress of civilisation*, p. 116.
 
-[^26]:Crawfurd, 1865, On the commixture of the races of man as affecting the progress of civilisation, p. 117.
+[^26]:Crawfurd, 1865, *On the commixture of the races of man as affecting the progress of civilisation*, p. 117.
 
-[^27]:Crawfurd, J. (1861). On the classification of the races of man. Transactions of the Ethnological Society of London, 1, p. 356. Retrieved from Internet Archive website
+[^27]:Crawfurd, J. (1861). On the classification of the races of man. *Transactions of the Ethnological Society of London, 1*, p. 356. Retrieved from Internet Archive website
 
-[^28]:Crawfurd, 1865, On the commixture of the races of man as affecting the progress of civilisation, p. 116.
+[^28]:Crawfurd, 1865, *On the commixture of the races of man as affecting the progress of civilisation*, p. 116.
 
 [^29]:Crawfurd, 1820,  *[History of the Indian Archipelago, vol. I](https://eresources.nlb.gov.sg/printheritage/detail/792723df-d0f5-441e-84fa-b273bcbd5b0e.aspx)*, p. 135.
 
