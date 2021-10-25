@@ -98,15 +98,15 @@ The use of cooking gas and electricity spelt the end of the charcoal industry in
 
 #### **NOTES**
 
-[^1]:Mangrove Watch. (2013). Global mangroves: Mangroves – kidneys of the coast. Retrieved from Mangrove Watch website.
+[^1]:Mangrove Watch. (2013). *Global mangroves: Mangroves – kidneys of the coast.* Retrieved from Mangrove Watch website.
 
-[^2]:Mangrove Watch. (2013). Mangroves defined. Retrieved from Mangrove Watch website.
+[^2]:Mangrove Watch. (2013). *Mangroves defined*. Retrieved from Mangrove Watch website.
 
-[^3]:Saenger, P. (2002). Mangrove ecology, silviculture, and conservation (p. 1). Dordrecht; London: Kluwer Academic Publishers. (Call no.: R 577.698 SAE)
+[^3]:Saenger, P. (2002). *[Mangrove ecology, silviculture, and conservation](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11398123)* (p. 1). Dordrecht; London: Kluwer Academic Publishers. (Call no.: R 577.698 SAE)
 
-[^4]:Tomlinson, P.B. (1995). Botany of mangroves (pp. 13, 34). Cambridge: Cambridge University Press. (Call no.: R 583.42 TOM)
+[^4]:Tomlinson, P.B. (1995). *[Botany of mangroves](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=8785674)* (pp. 13, 34). Cambridge: Cambridge University Press. (Call no.: R 583.42 TOM)
 
-[^5]:Wise, M. (Compiler). (2013). Travellers’ tales of old Singapore (p. 107). Singapore: Marshall Cavendish Editions. (Call no.: RSING 915.957043 TRA)
+[^5]:Wise, M. (Compiler). (2013). *[Travellers’ tales of old Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14596656)* (p. 107). Singapore: Marshall Cavendish Editions. (Call no.: RSING 915.957043 TRA)
 
 [^6]:[Wise](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14596656), 2013, p. 165.
 
