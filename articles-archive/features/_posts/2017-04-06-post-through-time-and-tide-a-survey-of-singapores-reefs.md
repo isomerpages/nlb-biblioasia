@@ -122,7 +122,7 @@ Rather fittingly, Singapore’s first marine park was carved out on the doorstep
 
 To board a ferry or bumboat bound for the southern islands and reefs[^43] from the pier at Marina South is to tread back in time and catch sight of the mainland as sailors and sojourners once beheld it – a strip of promised land sandwiched between the sky and seething sea.
 
-<div style="background-color: white;"><img style= "width:400px" src="/images/Vol-13-issue-1/through-time-and-tide/06_timeandtide.jpg">High tide at the Chek Jawa boardwalk. <i>Photo taken by Ria Tan on 19 October 2008. Courtesy of WildSingapore.</i></div>
+<div style="background-color: white;"><img style= "width:550px" src="/images/Vol-13-issue-1/through-time-and-tide/06_timeandtide.jpg">High tide at the Chek Jawa boardwalk. <i>Photo taken by Ria Tan on 19 October 2008. Courtesy of WildSingapore.</i></div>
 
 It is also a trip, not to the southern margins of an island nation, but to where Singapore first took shape and entered the imagination as an entity, an island at the junction of empires that first enthralled a Palembang prince and later an employee of a British trading company – a point of departure from landlocked vistas to an archipelago of reefs, shoals and islands, a landscape that remains to this day in flux and in thrall to the tides.
 
@@ -160,7 +160,7 @@ It is also a trip, not to the southern margins of an island nation, but to where
 
 [^12]:Walter, M.A.H.B., & Riaz Hassan (1977). *[An island community in Singapore: A characterization of a marginal society](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081905)* (p. 22). Singapore: Chopmen Enterprises. (Call no.: RSING 301.4443 WAL)
 
-[^3]:Terumbu Raya still exists, and lies between Pulau Sudong and Pulau Semakau.
+[^13]:Terumbu Raya still exists, and lies between Pulau Sudong and Pulau Semakau.
 
 [^14]:Chew, S.B. (1982). *[Fishermen in flats](http://eservice.nlb.gov.sg/itemholdings.aspx?bid=4137660)* (p. 36). Clayton, Vic.: Centre of Southeast Asian Studies, Monash University. (Call no.: RSING 301.4443095957 CHE)
 
