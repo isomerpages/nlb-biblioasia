@@ -176,6 +176,6 @@ The use of cooking gas and electricity spelt the end of the charcoal industry in
 
 [^39]:Why charcoal is still imported. (1972, September 7). *The Straits Times*, p. 13. Retrieved from NewspaperSG. 
 
-[^40]:Lay, J.T. (1992). Charcoal dealer (pp. 1–3). In S.G. Lo-Ang & C.H. Chua (Eds.), Vanishing trades of Singapore. Singapore: Oral History Dept. (Call no.: RSING 338.642095957 VAN)
+[^40]:Lay, J.T. (1992). Charcoal dealer (pp. 1–3). In S.G. Lo-Ang & C.H. Chua (Eds.), *[Vanishing trades of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6313327)*. Singapore: Oral History Dept. (Call no.: RSING 338.642095957 VAN)
 
-[^41]:Charcoal port near Tampines to go, new one offered at Pasir Panjang. (1992, September 23). *The Straits Times*, p. 20. Retrieved from NewspaperSG.
+[^41]:[Charcoal port near Tampines to go, new one offered at Pasir Panjang](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19920923-1.2.31.7). (1992, September 23). *The Straits Times*, p. 20. Retrieved from NewspaperSG.
