@@ -8,7 +8,7 @@ layout: post
 
 <div style="background-color: white;"><br><img src="/images/Vol-13-issue-1/through-time-and-tide/01_timeandtide.png">Living reefs off Serapong on the northeast coast of Sentosa. <i>Photo taken by Ria Tan on 23 May 2011. Courtesy of WildSingapore.</i></div>
 
-*If the tides are high*<br>
+*iIf the tides are high*<br>
 *It never will appear,*<br>
 *That little winking island*<br>
 *Not very far from here;*<br>
@@ -205,7 +205,7 @@ It is also a trip, not to the southern margins of an island nation, but to where
 
 [^35]:Singapore. Parliament. Official reports – Parliamentary debates (Hansard). (1996, October 28). Reclamation (Southern Islands). (Vol 66, col. 840). Retrieved from Parliament of Singapore website.
 
-[^36]:Targeting nature lovers and the well-heeled. (2006, December 1). The Straits Times, p. 6. Retrieved from NewspaperSG.
+[^36]:[Targeting nature lovers and the well-heeled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20061201-1.2.56.9.1). (2006, December 1). The Straits Times, p. 6. Retrieved from NewspaperSG.
 
 [^37]:N. Sivasothi. (2005, June). The legacy of Pulau Seringat. *[Raffles Museum Newsletter](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10442294), 4*, 3. (Call no.: RSING 069.095957 RMN)
 
