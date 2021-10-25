@@ -49,10 +49,10 @@ Indeed, the annual Robinson’s sale is mentioned regularly by oral history inte
 
 On the morning of the sale, long queues of people would snake outside the store, eagerly waiting for it to open. *The Singapore Standard* and other newspapers would publish photographs of huge crowds at the annual sales events of Robinson’s, John Little and Gian Singh.
 
+Ultimately, Robinson’s outlived its competitors at Raffles Place, even acquiring John Little in 1955. In 1960, the latter vacated its premises in the business district to open branches in other parts of Singapore (although the building remained until 1973 and its striking architectural façade inspired the design of the Raffles Place MRT station entrances).[^16]
+
 <img style="width: 650px; height: 400px;" src="/images/Vol-14-issue-2/going-shopping-in-the-60s/Shopping4.JPG">
 <div style="background-color: white;">John Little department store at Raffles Place, 1930. Its facade inspired the design of Raffles Place MRT station’s entrances. <i>Lim Kheng Chye Collection, courtesy of National Archives of Singapore.</i></div>
-
-Ultimately, Robinson’s outlived its competitors at Raffles Place, even acquiring John Little in 1955. In 1960, the latter vacated its premises in the business district to open branches in other parts of Singapore (although the building remained until 1973 and its striking architectural façade inspired the design of the Raffles Place MRT station entrances).[^16]
 
 Whiteaway’s closed in 1962 due to “the approaching termination of lease and unsatisfactory trading results”. Similarly, Gian Singh folded the following year, not because of competition, but due to a protracted workers’ strike. Robinson’s alone thrived as a bastion of shopping at Raffles Place until 1972, when a massive fire – one of the worst in Singapore’s history – gutted the store.[^17] Robinson’s subsequently relocated to Orchard Road, and Raffles Place has been bereft of big-name department stores ever since.
 
