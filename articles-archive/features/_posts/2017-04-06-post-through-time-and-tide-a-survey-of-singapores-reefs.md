@@ -185,7 +185,7 @@ It is also a trip, not to the southern margins of an island nation, but to where
 
 [^25]:Untitled. (1848, November 2). The Singapore Free Press and Mercantile Advertiser (1835–1869), p. 3. Retrieved from NewspaperSG.
 
-[^26]:Dennys, N.B. (1894). Descriptive dictionary of British Malaya (p. 99). London: London and China Telegraph. Retrieved from BooKSG.
+[^26]:Dennys, N.B. (1894). *[Descriptive dictionary of British Malaya](http://eresources.nlb.gov.sg/printheritage/detail/aea703a6-d3b0-4a4e-956b-82390c582891.aspx)* (p. 99). London: London and China Telegraph. Retrieved from BooKSG.
 
 [^27]:[Legislative Council](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19021213-1.2.32). (1902, December 13). *The Straits Times*, p. 5. Retrieved from NewspaperSG.
 
