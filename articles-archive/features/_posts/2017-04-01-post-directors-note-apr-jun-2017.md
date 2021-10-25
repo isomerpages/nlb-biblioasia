@@ -20,7 +20,7 @@ Casting her eye on another aspect of the Chinese diaspora in Singapore, [Goh Yu 
 
 Delving earlier back into history, [Wilbert Wong](/vol-13/issue-1/apr-jun-2017/doctorturneddiplomat) looks back at the life, career and writings of John Crawfurd, the second and last British Resident of Singapore. Apart from his achievements as an administrator, Crawfurd was also known for his ground-breaking books and journals on the languages and ethnology of the Malay Peninsula and Indonesia.
 
-The indelible impression left by the Japanese Occupation, says Mark Wong, is painfully apparent in the first-hand oral-history transcripts of survivors from the era. The interviews − collected by the National Archives of Singapore – that recount everyday realities as remembered by people from different walks of life are a visceral reminder of the time when Singapore was called Syonan-to (“Light of the South”).
+The indelible impression left by the Japanese Occupation, says [Mark Wong](/vol-13/issue-1/apr-jun-2017/voices-that-remain), is painfully apparent in the first-hand oral-history transcripts of survivors from the era. The interviews − collected by the National Archives of Singapore – that recount everyday realities as remembered by people from different walks of life are a visceral reminder of the time when Singapore was called Syonan-to (“Light of the South”).
 
 On a much lighter note, Joy Loh charts the career of the music maestro Alex Abisheganaden, hailed as Singapore’s “Father of the Guitar”. His multifaceted music career was recognised with a Cultural Medallion in 1988.
 
