@@ -106,7 +106,7 @@ This essay contains extracts from the book <i>From World City to the World in On
 <br>
 <div style="background-color: white;">
 <img src="/images/Vol-14-issue-2/malay-seafarers-in-liverpool/Seafarers7.jpg" style="width: 100px; height: 100px;">
-<b>Tim Bunnell</b> is Professor in the Department of Geography at the National University of Singapore. His research focuses on urban development in Southeast Asia and the region’s connections with other parts of the world. Bunnell’s book, "From World City to the World in One City: Liverpool Through Malay Lives", was published in 2016.
+<b>Tim Bunnell</b> is Professor in the Department of Geography at the National University of Singapore. His research focuses on urban development in Southeast Asia and the region’s connections with other parts of the world. Bunnell’s book, <i>From World City to the World in One City: Liverpool Through Malay Lives</i>, was published in 2016.
 </div>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-14/issue-2/jul-sep-2018/"><center>Back to Issue</center></a>
