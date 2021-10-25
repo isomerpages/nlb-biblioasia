@@ -7,7 +7,7 @@ layout: post
 #### Public housing is a Singapore success story, but the early years of high-rise living were sometimes a bittersweet experience. **Janice Loo** pores through the pages of *Our Home* magazine during its 17-year run.
 
 <img src="/images/Vol-14-issue-2/our-home-sweet-home/Home1.JPG">
-<div style="background-color: white;"></i></div>
+<div style="background-color: white;">Children enjoying themselves at a playground in Toa Payoh, 1975. When new HDB housing estates were built, children’s playgrounds became essential amenities. <i>Image source: The Straits Times© Singapore Press Holdings Limited. Reprinted with permission.</i></div>
 
 One of the manifold challenges that Singapore faced at the time of self-governance in 1959 was a severe shortage of housing. Some 550,000 people, out of a population of nearly 1.6 million, had to make do with squalid living conditions, crammed into decrepit shophouses and squatter huts in the city centre and its outskirts.
 
@@ -46,3 +46,11 @@ Articles also described how colours and architectural features lent identity to 
 Similarly, in Bukit Batok New Town, the repetition of splayed corners at the water-tank level, the ground levels, and along common corridors of blocks, enhanced the distinctiveness of the estate.20 HDB experimented with wall murals too; for example, one block in MacPherson sported a majestic rising sun whereas another in Hougang featured the grinning face of a *wayang kulit* (shadow puppet play) puppet.21
 
 In addition, older estates were enhanced or redeveloped to ensure living conditions kept up with that of the new ones.22 New or upgraded amenities highlighted over the years included sports and swimming complexes, gardens and parks, commercial and shopping centres, markets and food centres, as well as community centres and facilities for social services.23
+
+Even playgrounds came under the HDB’s scrutiny as it began to feature more dynamic elements like suspension bridges and climbing ropes to create a miniature adventureland for children.24 Grown-ups were not forgotten either as new fitness corners were rolled out with structures for sit-ups, push-ups, pull-ups, and other exercises.25
+
+*Our Home* also took pains to explain the behind-the-scenes work of its public officers, such as housing and maintenance inspectors, sales clerical officers, operators from the Essential Maintenance Service Unit and Lift Rescue Unit, cleaners and their supervisors, and even the dreaded parking warden.
+
+#### **From Strangers to Neighbours**
+
+However, a house does not make a home, and a pleasant living environment cannot be achieved by design alone. As high-density public housing could potentially lead to tensions between neighbours, *Our Home* sought to forge a sense of commonality and responsibility among residents as a nation of house-proud flat-dwellers – or “heartlanders”26 as we know them today.27
