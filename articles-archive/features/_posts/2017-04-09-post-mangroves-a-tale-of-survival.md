@@ -149,4 +149,4 @@ Why charcoal is still imported. (1972, September 7). The Straits Times, p. 13. R
 
 Lay, J.T. (1992). Charcoal dealer (pp. 1–3). In S.G. Lo-Ang & C.H. Chua (Eds.), Vanishing trades of Singapore. Singapore: Oral History Dept. (Call no.: RSING 338.642095957 VAN)
 
-Charcoal port near Tampines to go, new one offered at Pasir Panjang. (1992, September 23). The Straits Times, p. 20. Retrieved from NewspaperSG. 
+Charcoal port near Tampines to go, new one offered at Pasir Panjang. (1992, September 23). The Straits Times, p. 20. Retrieved from NewspaperSG.
