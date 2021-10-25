@@ -8,7 +8,7 @@ layout: post
 
 So wrote Charles Spencer Chaplin (1889–1977), or Charlie Chaplin, the affable Tramp as the world knows him, in his autobiography. The inimitable actor, producer and director of the silent film era was so enamoured of the Orient that he visited Singapore three times between 1932 and 1961. Chaplin’s visits in 1932 and 1936 are little-known trivia that might have disappeared with the tide of time if not for [Raphaël Millet](/vol-13/issue-1/apr-jun-2017/chaplininsingapore)’s meticulously researched essay – a work of historical reclamation, as it were.
 
-“Reclamation and Reincarnation” is the theme of this issue of *BiblioAsia* – reclamation in both the literal and figurative sense − as we look at historical and cultural legacies as well as human interventions that have shaped the landscape of Singapore over the last two centuries.
+“Reclamation and Reincarnation” is the theme of this issue of BiblioAsia – reclamation in both the literal and figurative sense − as we look at historical and cultural legacies as well as human interventions that have shaped the landscape of Singapore over the last two centuries.
 
 Discover how the British, and subsequently our own government, dictated the extent of land reclamation in Singapore through ingenious feats of civil engineering in [Lim Tin Seng](/vol-13/issue-1/apr-jun-2017/land-from-sand)’s essay. He documents reclamation projects that have increased the island-state’s land mass by nearly 25 percent, and how its boundaries will be pushed even further in time to come.
 
