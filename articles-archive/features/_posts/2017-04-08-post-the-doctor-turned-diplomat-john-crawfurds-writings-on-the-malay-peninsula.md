@@ -116,17 +116,17 @@ It is clear that Crawfurd was no petty intellectual figure of the 19th century. 
 
 #### **NOTES**
 
-[^1]:Mr John Crawfurd. (1834, January 11). The Spectator, p. 32. Retrieved from The Spectator Archive website
+[^1]:Mr John Crawfurd. (1834, January 11). *The Spectator*, p. 32. Retrieved from *The Spectator Archive* website.
 
-[^2]:Knapman, G. (2017). Race and British colonialism in Southeast Asia 1770–1870: John Crawfurd and the politics of equality (p. 20). New York: Routledge. (Call no.: RSING 325.01 KNA); Lee, G. (2016, Jan–Mar). Crawfurd on Southeast Asia, 11 (4). Retrieved from BiblioAsia website.
+[^2]:Knapman, G. (2017). *[Race and British colonialism in Southeast Asia 1770–1870: John Crawfurd and the politics of equality](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202670828)* (p. 20). New York: Routledge. (Call no.: RSING 325.01 KNA); Lee, G. (2016, Jan–Mar). *[Crawfurd on Southeast Asia](http://www.nlb.gov.sg/biblioasia/2016/01/26/crawfurd-on-southeast-asia/), 11* (4). Retrieved from BiblioAsia website.
 
-[^3]:Mr John Crawfurd. (1868, July 23). The Sydney Morning Herald, p. 6. Retrieved from Trove website; Turnbull, C.M. (2009). A history of modern Singapore: 1819–2005 (p. 42). Singapore: NUS Press. (Call no.: RSING 959.57 TUR)
+[^3]:Mr John Crawfurd. (1868, July 23). *The Sydney Morning Herald*, p. 6. Retrieved from Trove website; Turnbull, C.M. (2009). *[A history of modern Singapore: 1819–2005](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13206047)* (p. 42). Singapore: NUS Press. (Call no.: RSING 959.57 TUR)
 
-[^4]:The Sydney Morning Herald, 23 Jul 1868, p. 6.
+[^4]:*The Sydney Morning Herald*, 23 Jul 1868, p. 6.
 
-[^5]:The Sydney Morning Herald, 23 Jul 1868, p. 6; Turnbull, C.M. (2004). Crawfurd, John (1783–1868), orientalist and colonial administrator. Retrieved from Oxford Dictionary of National Biography website
+[^5]:*The Sydney Morning Herald*, 23 Jul 1868, p. 6; Turnbull, C.M. (2004). *Crawfurd, John (1783–1868), orientalist and colonial administrator*. Retrieved from Oxford Dictionary of National Biography website
 
-[^6]:Crawfurd, J. (1820). Advertisement. In History of the Indian Archipelago: Containing an account of the manners, arts, languages, religions, institutions, and commerce of its inhabitants. Vol. I. Edinburgh: Archibald Constable and Co. Retrieved from BookSG; Murchison, R.I. (1868). Address to the Royal Geographical Society. The Journal of the Royal Geographical Society of London, 38, p. clxvii. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/) website.
+[^6]:Crawfurd, J. (1820). Advertisement. In *[History of the Indian Archipelago: Containing an account of the manners, arts, languages, religions, institutions, and commerce of its inhabitants. Vol. I](https://eresources.nlb.gov.sg/printheritage/detail/0469b121-f1eb-4958-a97b-d8a2f3a067d1.aspx)*. Edinburgh: Archibald Constable and Co. Retrieved from BookSG; Murchison, R.I. (1868). Address to the Royal Geographical Society. *The Journal of the Royal Geographical Society of London, 38*, p. clxvii. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/) website.
 
 [^7]:Crawfurd, 1820,  *[History of the Indian Archipelago, vol. I](https://eresources.nlb.gov.sg/printheritage/detail/0469b121-f1eb-4958-a97b-d8a2f3a067d1.aspx)*.
 
