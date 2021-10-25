@@ -183,6 +183,9 @@ Crawfurd, 1863, On the connexion between ethnology and physical geography, pp. 4
 Crawfurd, 1863, On the connexion between ethnology and physical geography, p. 16.
 Crawfurd, 1820, History of the Indian Archipelago, vol. 1, p. 118; Crawfurd, 1863, On the connexion between ethnology and physical geography, p. 11.
 Crawfurd, J. (1865). On the early migrations of man. Transactions of the Ethnological Society of London, 3, p. 339. Retrieved from Internet Archive website; Crawfurd, 1863, On the connexion between ethnology and physical geography, p. 10.
-Crawfurd, 1820, History of the Indian Archipelago, vol. II, p. 27; Crawfurd, 1856, pp. 36, 263–264; Crawfurd, 1868, On The Malayan race of man and its prehistoric career, p. 125.
-Syed Muhd Khairudin Aljunied. (2005). Sir Stamford Raffles’ discourse on the Malay world: A revisionist perspective. Sojourn, 2(1), pp. 6–8; Turnbull, 2009, p. 42.
-Quilty, M. (1998). Textual empires: A reading of early British histories of Southeast Asia (p. 52). Clayton, Victoria, Australia: Monash Asia Institute. (Call no.: RSING 959. 0072 QUI)
+
+[^68]:Crawfurd, 1820, History of the Indian Archipelago, vol. II, p. 27; Crawfurd, 1856, pp. 36, 263–264; Crawfurd, 1868, On The Malayan race of man and its prehistoric career, p. 125.
+
+[^69]:Syed Muhd Khairudin Aljunied. (2005). Sir Stamford Raffles’ discourse on the Malay world: A revisionist perspective. Sojourn, 2(1), pp. 6–8; Turnbull, 2009, p. 42.
+
+[^70]:Quilty, M. (1998). Textual empires: A reading of early British histories of Southeast Asia (p. 52). Clayton, Victoria, Australia: Monash Asia Institute. (Call no.: RSING 959. 0072 QUI)
