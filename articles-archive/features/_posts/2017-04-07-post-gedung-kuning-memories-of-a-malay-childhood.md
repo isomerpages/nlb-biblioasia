@@ -97,7 +97,7 @@ But back in Gedung Kuning, children were celebrated in another way. True to the 
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;">
 <img style="width:500px" src="/images/Vol-13-issue-1/gedung-kuning/09a_gedungkuning.png">
-<br><br>
+<br>
 <i>Gedung Kuning: Memories of a Malay Childhood</i> is published by Singapore Heritage Society and Helang Books. The book retails for $24.90 (before GST) and is available at major bookshops. The book is also available for reference and loan at the Lee Kong Chian Reference Library and selected public libraries. (Call no.: RSING 305.8992805957 HID )</span>
 
 <div style="background-color: white;">
