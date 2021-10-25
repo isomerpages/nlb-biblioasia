@@ -88,15 +88,15 @@ Andrew Yuen, who grew up in the area in the 1950s and 60s, remembers moneychange
 
 Change Alley was a prime location for the lively money exchange trade because most travellers then arrived by ship and disembarked at Clifford Pier – just a short hop across Collyer Quay. Whenever a ship was in port, tourists, sailors and military personnel would throng the place to exchange currency or buy souvenirs, knick-knacks and exotic “Oriental” products.
 
-Between these visitors and local customers, the little lane would often be packed to the rafters, and filled with hustle and bustle. James Koh, who used to help out at his father’s shop at Change Alley, recalls: “It’s always congested, it’s always hot. But that added to the fun, I think, the atmosphere that tourists like”.[^27]
+Between these visitors and local customers, the little lane would often be packed to the rafters, and filled with hustle and bustle. James Koh, who used to help out at his father’s shop at Change Alley, recalls: “It’s always congested, it’s always hot. But that added to the fun, I think, the atmosphere that tourists like.”[^27]
 
-It may have been the bargain-friendly tourist trade that made Change Alley less glamorous in the eyes of Singaporeans. Certainly, it was a different world from the air-conditioned, “spick and span and orderly” comfort of Robinson’s.[^28] As Tan Pin Ho describes it: “When you’re in Robinson’s you’re at home, but when you’re at Change Alley, you’re attending a party. Life is faster, faster, business is more brisk”.[^29]
+It may have been the bargain-friendly tourist trade that made Change Alley less glamorous in the eyes of Singaporeans. Certainly, it was a different world from the air-conditioned, “spick and span and orderly” comfort of Robinson’s.[^28] As Tan Pin Ho describes it: “When you’re in Robinson’s you’re at home, but when you’re at Change Alley, you’re attending a party. Life is faster, faster, business is more brisk.”[^29]
 
-It was not a place for the faint-hearted. Victor Chew remembers that pickpockets were a perennial problem, while James Koh said that “when you walk along, of course there were all the sellers trying to get your attention, and in some cases they pulled the tourists into the shops”. Andrew Yuen was sympathetic to the tourists: “Usually these shopkeepers are sharks. They will fleece them [the buyers] … unless they also know the art of bargaining, then they get their money’s worth”.[^30]
+It was not a place for the faint-hearted. Victor Chew remembers that pickpockets were a perennial problem, while James Koh said that “when you walk along, of course there were all the sellers trying to get your attention, and in some cases they pulled the tourists into the shops”. Andrew Yuen was sympathetic to the tourists: “Usually these shopkeepers are sharks. They will fleece them [the buyers] … unless they also know the art of bargaining, then they get their money’s worth.”[^30]
 
 The sheer diversity of customers at Change Alley and its reputation as a slightly seedy sort of place may have discomfited some locals. Although Singapore was home to a multiracial and multicultural population, it was by no means as broadly cosmopolitan as it is today. Boey Kim Cheng mulls over in his poem “Change Alley”:
 
-*“… the stalls <br>
+“… the stalls <br>
 spilling over with imitation wares <br>
 for the unwary, watches, bags <br>
 gadgets and tapes; <br>
@@ -105,11 +105,11 @@ conspiracies <br>
 of currencies, the marriage of <br>
 foreign tongues <br>
 holding a key to worlds opening on <br>
-worlds …”*[^31]
+worlds …”[^31]
 
-Those “foreign tongues” would have included French and Russian, among others. Mohamed Faruk, the owner of the Dinky-Di shop, recalls: “We deal with Australians, British, Italians and also Russians. All sorts, and we speak a little bit of every language, just to convince them to buy”. To offer a larger diversity of goods in his shop, Faruk would buy items from sailors who passed through Singapore regularly, such as watches, cameras and collectible items, and in turn sell them to his customers. He soon became known as a purveyor of Russian goods.[^32]
+Those “foreign tongues” would have included French and Russian, among others. Mohamed Faruk, the owner of the Dinky-Di shop, recalls: “We deal with Australians, British, Italians and also Russians. All sorts, and we speak a little bit of every language, just to convince them to buy.” To offer a larger diversity of goods in his shop, Faruk would buy items from sailors who passed through Singapore regularly, such as watches, cameras and collectible items, and in turn sell them to his customers. He soon became known as a purveyor of Russian goods.[^32]
 
-The rough-and-tumble flavour that Change Alley acquired was far removed from the modern and sophisticated air of the department stores at Raffles Place. The alley could be drab and utilitarian at best on a good day, or noisy, stuffy, hot and sodden with rain on a bad one. In an essay on Change Alley, Boey offers readers a specific “scent-memory” of the place: “A musty, fusty, slightly urinous odour, a shade of age and decay fused with a sense of light, sunlight and the salt sea air that permeated the Alley”.[^33]
+The rough-and-tumble flavour that Change Alley acquired was far removed from the modern and sophisticated air of the department stores at Raffles Place. The alley could be drab and utilitarian at best on a good day, or noisy, stuffy, hot and sodden with rain on a bad one. In an essay on Change Alley, Boey offers readers a specific “scent-memory” of the place: “A musty, fusty, slightly urinous odour, a shade of age and decay fused with a sense of light, sunlight and the salt sea air that permeated the Alley.”[^33]
 
 After Change Alley was razed for urban renewal in 1989, some lamented that there was no place like it in Singapore any more.[^34] Yet despite its colour and what urban planners would now call a certain “vibrancy” – or rather, precisely because of it – Change Alley was not the sort of place that an upwardly mobile population would aspire to shop at. Instead, their hopeful gaze would turn to Robinson’s, dreaming of the day they could afford to shop there even if there wasn’t a sale.
 
@@ -135,7 +135,7 @@ High Street became the first port of call for people looking for all kinds of te
 <img style="width: 650px; height: 380px;" src="/images/Vol-14-issue-2/going-shopping-in-the-60s/Shopping6.JPG">
 <div style="background-color: white;">Shopfronts of Metro and Wassiamull’s at High Street, another popular shopping hub from yesteryear, 1964. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
-Stella Kon describes a typical shopping trip: “If I’m looking to buy some dress material, I start from the lower end of High Street and I walk up High Street and turn along North Bridge Road, shopping all the way”. Even Puan Noor Aishah, wife of Singapore’s first president, Yusof Ishak, frequented shops at High Street for fine silks and satins to make into outfits.[^42]
+Stella Kon describes a typical shopping trip: “If I’m looking to buy some dress material, I start from the lower end of High Street and I walk up High Street and turn along North Bridge Road, shopping all the way.” Even Puan Noor Aishah, wife of Singapore’s first president, Yusof Ishak, frequented shops at High Street for fine silks and satins to make into outfits.[^42]
 
 High Street also boasted of department stores to rival those at Raffles Place. Two had been around since the 1930s: Aurora, established by Tan Hoan Kie as the Singapore branch of a chain from Java and a landmark at the corner of High Street and North Bridge Road; and Peking, started by Kuo Fung Ting who was born in the Chinese capital, hence the name of  his shop.[^43] Kuo decided to convert Peking from a curio shop into a department store in the 1950s when he realised that “after the war, the tendency would be for people to be more fashion-conscious. They would want more of the latest fashions in clothes, and other things synonymous with prosperity”.[^44]
 
@@ -146,12 +146,12 @@ In 1957, Aurora and Peking were joined by the first Metro department store at Hi
 
 Unlike the air-conditioned and somewhat sterile modern shopping mall experience that has become the norm in Singapore today, shopping at High Street was quite a different experience: people wandered in and out of individual shophouses, browsing or bargaining, and perhaps eventually buying.
 
-Reminiscing about the area, Stella Kon says: “The picture that flashes in my mind is hot sunshine and dust and shadowy cool shops”.[^47] Besides the fashion boutiques, textile merchants and department stores, there was Ensign Bookstore, the legendary Polar Café, music stores such as TMA and Swee Lee, camera shops such as Ruby Photo and Amateur Photo Store, and Bata, an international shoe store chain of Czech origin at North Bridge Road. Many people remember Bata for selling affordable footwear – especially its trademark white canvas school shoes – to several generations of Singaporeans.[^48]
+Reminiscing about the area, Stella Kon says: “The picture that flashes in my mind is hot sunshine and dust and shadowy cool shops.”[^47] Besides the fashion boutiques, textile merchants and department stores, there was Ensign Bookstore, the legendary Polar Café, music stores such as TMA and Swee Lee, camera shops such as Ruby Photo and Amateur Photo Store, and Bata, an international shoe store chain of Czech origin at North Bridge Road. Many people remember Bata for selling affordable footwear – especially its trademark white canvas school shoes – to several generations of Singaporeans.[^48]
 
 <img style="width: 350px; height: 450px;" src="/images/Vol-14-issue-2/going-shopping-in-the-60s/Shopping8.JPG">
 <div style="background-color: white;">Aurora’s “Seeing is Believing” sale offering textile goods and other “ready made-up goods”. <i>Image reproduced from The Singapore Free Press, 25 August 1958, p. 1.</i></div>
 
-Although the vibe and buzz of High Street appear to be warmly remembered by many, these shops, like the department stores at Raffles Place, were not within the financial reach of most Singaporeans. It is perhaps their aspirational significance that resonates more deeply among people than any specific purchase, as Lee Geok Boi reflects of her family’s visits to High Street: “Most of the time we couldn’t afford anything. But we went there to look anyway”.[^49]
+Although the vibe and buzz of High Street appear to be warmly remembered by many, these shops, like the department stores at Raffles Place, were not within the financial reach of most Singaporeans. It is perhaps their aspirational significance that resonates more deeply among people than any specific purchase, as Lee Geok Boi reflects of her family’s visits to High Street: “Most of the time we couldn’t afford anything. But we went there to look anyway.”[^49]
 
 Looking and browsing, fingering and figuring out what one could buy for one’s dollar, or what one could afford (or not) were a visceral part of the Raffles Place or High Street shopping experience.
 
