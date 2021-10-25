@@ -6,6 +6,8 @@ layout: post
 ---
 #### The reefs that fringed Singapore’s coastline and islands have served for centuries as maritime markers, fishing grounds and even homes for island communities. **Marcus Ng** rediscovers the stories that lurk beneath the waves.
 
+<div style="background-color: white;"><br><img src="/images/Vol-13-issue-1/through-time-and-tide/01_timeandtide.png">Living reefs off Serapong on the northeast coast of Sentosa. <i>Photo taken by Ria Tan on 23 May 2011. Courtesy of WildSingapore.</i></div>
+
 *If the tides are high*<br>
 *It never will appear,*<br>
 *That little winking island*<br>
