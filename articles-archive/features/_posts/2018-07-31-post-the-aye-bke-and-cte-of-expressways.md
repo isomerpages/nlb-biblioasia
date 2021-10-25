@@ -160,20 +160,16 @@ A unique feature of the NSC will be its dedicated bus lanes and cycling trunk ro
 [^21]:Land Transport Authority, 17 Aug 2013; [Public Works Department](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4618273), 1967, p. 8.
 [^22]:[Ensuring nonstop traffic flow](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19801218-1.2.121.35.3). (1980, December 18). *The Straits Times*, p. 20. Retrieved from NewspaperSG.
 [^23]:[Interchanges for eastern part of PIE to cost $34m](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19780111-1.2.75). (1978, January 11). *The Straits Times*, p. 15. Retrieved from NewspaperSG.
-[^24]:Campbell, W. (1971, August 8). [Where 100,000 will live and play on reclaimed East Coast](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710808.2.147.14). The Straits Times, p. 6; [Scenic highway contract goes to Japanese firm](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19760909-1.2.82.aspx). (1976, September 9). The Straits Times, p. 17; [Pointers give drivers a pleasant trip](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19810418-1.2.127.5.aspx). (1981, April 18). The Straits Times, p. 9. Retrieved from NewspaperSG.
-[^25]:
-[^26]:
-[^27]:
-[^28]:
-[^29]:
-[^30]:
-
-
-
-
-National Parks Board. (2018, March 19). East Coast Park. Retrieved from National Parks Board website.
-Last part of East Coast Parkway to open. (1981, September 25). The Straits Times, p. 11; New expressway will serve long-term needs. (1981, April 18). The Straits Times, p. 7. Retrieved from NewspaperSG.
-Sharp, 2005, p. 69; Dhaliwal, R. (1995, March 5). $1.9 b for roads over next 5 years. The Straits Times, p. 3; Lee, H.S. (1986, March 21). Record budget for roads. The Business Times, p. 3. Retrieved from NewspaperSG.
-The TPE runs through it. (1996, September 6). The Straits Times, p. 10. Retrieved from NewspaperSG.
-A smooth glide to Jurong and Tuas. (1990, April 7). The New Paper, p. 2. Retrieved from NewspaperSG; Fwa, 2016, pp. 203–204.
-Singapore. Land Transport Authority. (1996). A world class land transport system: White paper (p. 20). Singapore: Land Transport Authority. (Call no.: RSING 388.4095957 SIN)
+[^24]:Campbell, W. (1971, August 8). [Where 100,000 will live and play on reclaimed East Coast](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710808.2.147.14). *The Straits Times*, p. 6; [Scenic highway contract goes to Japanese firm](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19760909-1.2.82.aspx). (1976, September 9). *The Straits Times*, p. 17; [Pointers give drivers a pleasant trip](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19810418-1.2.127.5.aspx). (1981, April 18). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
+[^25]:National Parks Board. (2018, March 19). *East Coast Park*. Retrieved from National Parks Board website.
+[^26]:[*Last part of East Coast Parkway to open*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19810925-1.2.54). (1981, September 25). *The Straits Times*, p. 11; [New expressway will serve long-term needs](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19810418-1.2.127.2.aspx). (1981, April 18). *The Straits Times*, p. 7. Retrieved from NewspaperSG.
+[^27]:[Sharp](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12540556), 2005, p. 69; Dhaliwal, R. (1995, March 5). [$1.9 b for roads over next 5 years](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19950305-1.2.9.5.aspx). *The Straits Times*, p. 3; Lee, H.S. (1986, March 21). [Record budget for roads](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19860321-1.2.12.7). *The Business Times*, p. 3. Retrieved from NewspaperSG.
+[^28]:[The TPE runs through it](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19960906.2.91.5.4.aspx). (1996, September 6). *The Straits Times*, p. 10. Retrieved from NewspaperSG.
+[^29]:[A smooth glide to Jurong and Tuas](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper19900407-1.2.3.5). (1990, April 7). *The New Paper*, p. 2. Retrieved from NewspaperSG; [Fwa](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202435924), 2016, pp. 203–204.
+[^30]:Singapore. Land Transport Authority. (1996). [*A world class land transport system: White paper*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7578307) (p. 20). Singapore: Land Transport Authority. (Call no.: RSING 388.4095957 SIN)
+[^31]:Cheong, C. (2008). [*Building Singapore’s longest road tunnel: The KPE story*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13073681) (p. 19). Singapore: SNP Editions. (Call no.: RSING 624.193095957 CHE); Land Transport Authority. (2008). *Transcending travel: A macro view: Annual report 2007/2008* (p. 30). Retrieved from Land Transport Authority website.
+[^32]:Ng, D. (2008, September 20). [KPE by numbers](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper20080920-1.2.16.aspx). *The New Paper*, p. 12. Retrieved from NewspaperSG.
+[^33]:Ministry of Transport. (2013, December 28). *MCE opening ceremony*. Retrieved from Ministry of Transport website.
+[^34]:Land Transport Authority. (2015, December 14). *Marina Coastal Expressway: Features*. Retrieved from Land Transport Authority website.
+[^35]:[Two more expressways in 2013, 2020, says PM Lee](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20080920-1.2.8.23). (2008, September 20). *Today*, p. 16. Retrieved from NewspaperSG; Land Transport Authority. (2017, June 6). *North-South Corridor*. Retrieved from Land Transport Authority website.
+[^36]:Land Transport Authority, 6 Jun 2017; Land Transport Authority. (2016, April 28). *LTA to call for tenders for North-South Corridor* [Press release]. Retrieved from Land Transport Authority website; [Becoming a ‘car-lite’ society](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20151006-1.2.18.4). (2015, October 6). *Today*, p. 20. Retrieved from NewspaperSG.
