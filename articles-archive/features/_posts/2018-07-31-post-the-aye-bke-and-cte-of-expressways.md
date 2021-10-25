@@ -127,7 +127,6 @@ The opening of the NSC in 2026 will usher in a new era of transport in Singapore
 A unique feature of the NSC will be its dedicated bus lanes and cycling trunk routes. The bus lanes will help to reduce bus travelling times between housing estates along the new expressway and the city centre, while the cycling lanes will link up with the Park Connector Networks to provide cyclists with a direct route to the city centre. Both the bus and cycling lanes will support the government’s vision of transforming Singapore into a “car-lite” society where cycling and public transport would be the preferred mode of transport.36
 
 <img src="/images/Vol-14-issue-2/the-aye-bke-and-cte-of-expways/Road7.JPG">
-<div style="background-color: white;">
 	
 <br>
 <div style="background-color: white;">
@@ -138,3 +137,4 @@ A unique feature of the NSC will be its dedicated bus lanes and cycling trunk ro
 <a href="https://biblioasia.nlb.gov.sg/vol-14/issue-2/jul-sep-2018/"><center>Back to Issue</center></a>
 	
 #### **NOTES**
+	
