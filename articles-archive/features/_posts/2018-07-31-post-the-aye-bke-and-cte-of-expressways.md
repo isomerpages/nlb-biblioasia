@@ -6,7 +6,7 @@ layout: post
 ---
 #### **Lim Tin Seng** charts the history of Singapore’s expressways, from the oldest Pan-Island Expressway, built in the 1960s to the newest Marina Coastal Expressway.
 
-<img src="/images/Vol-14-issue-2/the-aye-bke-and-cte-of-expways/Road1.JPG">
+<img style="width: 450px; height: 420px;" src="/images/Vol-14-issue-2/the-aye-bke-and-cte-of-expways/Road1.JPG">
 <div style="background-color: white;">Completed in December 2013, the Marina Coastal Expressway connects the eastern and western parts of Singapore, and provides a high-speed link to the Marina Bay area. <i>Photo by Richard W.J. Koh.</i></div>
 
 AYE, BKE, CTE and ECP… the list goes on. These are not some random letters haphazardly thrown together but acronyms of Singapore’s expressways. Since making their appearance in the late 1960s, expressways have helped to ease congestion on arterial roads and ensure the smooth flow of traffic around the island.
@@ -35,7 +35,7 @@ These improvements, however, were insufficient to improve traffic conditions, es
 
 The master plan – completed in 1955 and implemented in 1958 – introduced a five-level road hierarchy to differentiate the island’s roads by function. At the highest level were arterial roads, such as Bukit Timah Road and Woodlands Road, that served the entire island. Major roads or radial routes, such as Geylang Road and Changi Road, linking the city centre to the suburbs came next. Next in the hierarchy were main thoroughfares or local roads, such as Cross Street and Market Street, which “bypassed” built-up areas. Then there were development roads that provided access to shops and buildings and, finally, minor roads.[^10]
 
-<img src="/images/Vol-14-issue-2/the-aye-bke-and-cte-of-expways/Road2.JPG">
+<img style="width: 550px; height: 400px;" src="/images/Vol-14-issue-2/the-aye-bke-and-cte-of-expways/Road2.JPG">
 <div style="background-color: white;">An 1890s image of Hokkien Street. As roads were made of laterite then, clouds of reddish dust would be kicked up into the air whenever bullock carts, horse-drawn carriages and jinrickshaws passed. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i></div>
 
 The master plan also introduced measures to improve traffic flow. These included segregating non-motorised vehicles and pedestrians from motorised vehicles, and increasing the width of a traffic lane to the optimum 10 ft. To relieve traffic congestion in the city centre, the master plan recommended the creation of a network of carparks with public transport connections along the fringes of the Central Business District to support a park and ride scheme.[^11] Under this scheme, motorists were encouraged to switch to public transport before entering the city.
