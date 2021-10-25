@@ -1,9 +1,10 @@
 ---
-title: Malay Seafarers In Liverpool
+title: Malay Seafarers in Liverpool
 date: 2018-07-31
 permalink: /vol-14/issue-2/jul-sep-2018/malay-seafarer-in-lp/
 layout: post
 ---
+
 #### **Tim Bunnell** speaks to former Malay sailors who reside in the English city and learns how they manage to sustain their identity in a city so removed from home.
 
 <img style="width: 650px; height: 450px;" src="/images/Vol-14-issue-2/malay-seafarers-in-liverpool/Seafarers1.JPG">
