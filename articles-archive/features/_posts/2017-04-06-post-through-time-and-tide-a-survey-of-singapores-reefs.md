@@ -132,3 +132,91 @@ It is also a trip, not to the southern margins of an island nation, but to where
 </div>
 
 <a href="/vol-13/issue-1/apr-jun-2017/"><center>Back to Issue</center></a>
+
+#### **NOTES**
+
+[^1]:The island Margaret Leong described is really a reef, as it vanishes at high tide. See Leong, M. (2011). Winking island (p. 16). In S. Lim & A. Poon. (Eds.), The ice ball man and other poems. Singapore: Ethos Books. (Call no.: JRSING 811 LEO)
+
+[^2]:Renamed Sentosa in 1970, the island’s ominous Malay name, literally “behind dead island”, was thought to have stemmed from its pestilential reputation. However, the toponym Blacan Mati was already in use by the 1600s.
+
+[^3]:Little, R. (1848). On coral reefs as a cause of the fever of the islands near Singapore. In J.R. Logan, (Ed.). The Journal of the Indian Archipelago and Eastern Asia, 2, 572–599, p. 599. Retrieved from BookSG.
+
+[^4]:Little, 1848, p. 585.
+
+[^5]:The mystery was solved only in 1886 when a French surgeon, Charles Louis Alphonse Laveran, discovered microscopic parasites in the blood of malaria victims. It took another decade before British doctor Ronald Ross confirmed that mosquitoes were the vectors that transmitted the microbes.
+
+[^6]:Untitled. (1848, November 2). The Singapore Free Press and Mercantile Advertiser (1835–1869), p. 1. Retrieved from NewspaperSG; Horsburgh, J. (1841). India Directory, or, directions for sailing to and from the East Indies, China, Australia, and the interjacent ports of Africa and South America (Vol.2, p. 266). London: W. H. Allen & Co. Retrieved from BookSG.
+
+[^7]:Winstedt, R. (1964). A practical modern Malay-English dictionary (p. 133). Kuala Lumpur; Singapore: Marican. (Call no.: Malay RSING 499.230321 WIN)
+
+[^8]:Burkill, I.H. (2002). A dictionary of the economic products of the Malay Peninsula (Vol. 1, p. 868). Kuala Lumpur, Malaysia: Ministry of Agriculture, Malaysia. (Call no.: RSEA 634.9095951 BUR); Winstedt, 1964, p. 25. 
+
+[^9]:Taiwan trawler runs aground (1983, June 30). *The Straits Times*, p. 15; Ferry with 40 aboard runs aground. (1998, December 6). *The Straits Times*, p. 27. Retrieved from NewspaperSG.
+
+[^10]:Destroying Singapore’s undersea treasures. (1968, April 4). *The Straits Times*, p. 10. Retrieved from NewspaperSG.
+
+[^11]:Lee Kong Chian Natural History Museum. (2017). Cyrene Reef. Retrieved from The DNA of Singapore website.
+
+[^12]:Walter, M.A.H.B., & Riaz Hassan (1977). An island community in Singapore: A characterization of a marginal society (p. 22). Singapore: Chopmen Enterprises. (Call no.: RSING 301.4443 WAL)
+
+[^3]:Terumbu Raya still exists, and lies between Pulau Sudong and Pulau Semakau.
+
+[^14]:Chew, S.B. (1982). Fishermen in flats (p. 36). Clayton, Vic.: Centre of Southeast Asian Studies, Monash University. (Call no.: RSING 301.4443095957 CHE)
+
+[^15]:Work to start on $13m pig project island. (1985, April 18). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
+
+[^16]:Haughton, H.T. (1889). Notes on names of places in the island of Singapore and its Vicinity. Journal of the Straits Branch of the Royal Asiatic Society, 20, p. 76. Retrieved from JSTOR via eResources website; Beting refers to a partially submerged sand bank, while kusah was thought to be a corruption of susah, meaning “difficult”.
+
+[^17]:Tan, W. (2013, February 1). Three more nature areas to be conserved under land use plan. Today, p. 6. Retrieved from NewspaperSG.
+
+[^18]:Haughton, 1889, p. 77; National Library Board. (2016). Sentosa Cove written by Chew, Valerie. Retrieved from Singapore Infopedia website.
+
+[^19]:Lighters’ new mooring site. (1983, May 19). The Straits Times, p. 17. Retrieved from NewspaperSG.
+
+[^20]:Low, A., & Wong, K.C. (1984, December 11). The old men of the sea. The Straits Times, p. 18. Retrieved from NewspaperSG.
+
+Tan, H.Y. (1995, November 22). Singapore islands get new names with reclamation. The Straits Times, p. 3. Retrieved from NewspaperSG.
+
+Now part of Jurong Island.
+
+As quoted and annotated by Carl Alexander Gibson-Hill. See Gibson-Hill, C.A. (1954, May). Singapore: Notes on the history of the Old Strait, 1580–1850. Journal of the Malayan Branch of the Royal Asiatic Society, 27 (1) (165), 163–214, pp. 167–168. Retrieved from JSTOR via eResources website: 
+
+Carl Alexander Gibson-Hill records that the name “Cyrene’s Reef” first appeared in a map by Captain Daniel Ross in 1830. In Greek mythology, Cyrene was a nymph who was a fierce huntress and gave her name to a city in Libya.
+
+Untitled. (1848, November 2). The Singapore Free Press and Mercantile Advertiser (1835–1869), p. 3. Retrieved from NewspaperSG.
+
+Dennys, N.B. (1894). Descriptive dictionary of British Malaya (p. 99). London: London and China Telegraph. Retrieved from BooKSG.
+
+Legislative Council. (1902, December 13). The Straits Times, p. 5. Retrieved from NewspaperSG.
+
+Gibson-Hill, C.A. (1957, December). Singapore Old Strait & New Harbour, 1300–1870. Memoirs of the Raffles Museum, 3, p.167. (Call no.: RCLOS 959.51 BOG)
+
+Gibson-Hill, May 1954, pp. 168–185.
+
+Haughton, 1889, p. 79
+
+St. John’s Island. (1923, April 2). The Singapore Free Press and Mercantile Advertiser (1884–1942), p. 12. Retrieved from NewspaperSG.
+
+St John’s Island. (1935, June 1). The Straits Times, p. 13. Retrieved from NewspaperSG.
+
+Island Nation Project. (2015–2016). From one island to another. Retrieved from Island Nation Project website. (Note: The “Island Nation” exhibition was held at the National Library Building from 2–27 June 2015.)
+
+Reef will become holiday island by October. (1976, August 27). New Nation, p. 4. Retrieved from NewspaperSG.
+
+Singapore. Parliament. Official reports – Parliamentary debates (Hansard). (1996, October 28). Reclamation (Southern Islands). (Vol 66, col. 840). Retrieved from Parliament of Singapore website.
+
+Targeting nature lovers and the well-heeled. (2006, December 1). The Straits Times, p. 6. Retrieved from NewspaperSG.
+
+N. Sivasothi. (2005, June). The legacy of Pulau Seringat. Raffles Museum Newsletter, 4, 3. (Call no.: RSING 069.095957 RMN)
+
+N. Sivasothi. (2002, April). Chek Jawa, Pulau Ubin: From research to education. ALUMNUS. Retrieved from National University of Singapore website.
+
+It should be noted that Chek Jawa, along with Pulau Hantu and the Pempang reefs, is still earmarked for possible eventual reclamation in Singapore’s 2013 land-use Master Plan. See What shores will Singapore lose in 7-million population plan? (2013, January 31). Retrieved from Wild Shores of Singapore website.
+
+Goh, J. (2010). About us [Web blog]. Retrieved from The Hantu Bloggers website.
+
+Ng, M.F.C. (2009). Habitats in harmony: The story of Semakau Landfill. Singapore: National Environment Agency. (Call no.: RSING 333.95095957 NG)
+
+Until the 1970s, the sea lapped the edges of familiar places such as East Coast Road, Beach Road, Katong, Bedok, the Esplanade and Collyer Quay, before the creation of districts such as Marina Bay and Marine Parade.
+
+For a recent musing on exploring local reefs, see Torame, J. (2016). Notes on some outlying reefs and islands of Singapore. Mynah Magazine, 1. Retrieved from Indiegogo website.
