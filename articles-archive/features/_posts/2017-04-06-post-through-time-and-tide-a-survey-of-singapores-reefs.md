@@ -82,7 +82,7 @@ The seashore pandan (Pandanus tectorius), a native plant associated with sandy b
 <br><br>
 By the 1890s, whatever remained of the Pulo had vanished, and the <i>Descriptive Dictionary of British Malaya</i> had this to say of it: “[Cyrene] Shoal… presents a brilliant appearance at low water, being covered with live corals and shells, many of the most brilliant colours. It is a favourite hunting  ground for conchologists.”[^26]
 <br><br>
-<img src="/images/Vol-13-issue-1/through-time-and-tide/04_timeandtide.jpg">The living reefs of Cyrene Shoal, off the southwestern coast of Singapore. <i>Photo taken by Ria Tan on 22 March 2007. Courtesy of WildSingapore.</i>
+<img style="width:500px" src="/images/Vol-13-issue-1/through-time-and-tide/04_timeandtide.jpg">The living reefs of Cyrene Shoal, off the southwestern coast of Singapore. <i>Photo taken by Ria Tan on 22 March 2007. Courtesy of WildSingapore.</i>
 <br><br>
 Pulo Pandan presents for historians and cartographers, if not a shifting target, at least a sinking one – an island that long guarded the western entrance to Keppel Harbour but which lost over time its land, trees and name. After the isle vanished, port authorities deemed it a shipping hazard and placed lights and signs on the site to prevent collisions.[^27]
 <br><br>
