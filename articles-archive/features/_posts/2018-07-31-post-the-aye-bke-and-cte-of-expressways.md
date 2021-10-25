@@ -150,20 +150,30 @@ A unique feature of the NSC will be its dedicated bus lanes and cycling trunk ro
 [^11]:[Colony of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=3067973), 1955, pp. 54–55, 101.
 [^12]:[Colony of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=3067973), 1955, pp. 52, 54.
 [^13]:[Singapore has 197,945 motor vehicles](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19660122-1.2.90). (1966, January 22). *The Straits Times*, p. 14. Retrieved from NewspaperSG.
-[^14]:[Fwa](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202435924), 2016, p. 17; Urban Redevelopment Authority. (2014). Concept Plan 1971. Retrieved from Urban Redevelopment Authority website; Campbell, W. (1970, March 23). [New impetus as ring plan gets go-ahead](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19700323-1.2.57.aspx). The Straits Times, p. 8. Retrieved from NewspaperSG.
-[^15]:
-[^16]:
-[^17]:
-[^18]:
-[^19]:
-[^20]:
+[^14]:[Fwa](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202435924), 2016, p. 17; Urban Redevelopment Authority. (2014). *Concept Plan 1971*. Retrieved from Urban Redevelopment Authority website; Campbell, W. (1970, March 23). [New impetus as ring plan gets go-ahead](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19700323-1.2.57.aspx). *The Straits Times*, p. 8. Retrieved from NewspaperSG.
+[^15]:[Fwa](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202435924), 2016, p. 130; [Major survey of land and buildings](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19670818-1.2.57.aspx). (1967, August 18). *The Straits Times*, p. 8; [‘Unique nation state’ plan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19670920-1.2.22.aspx). (1967, September 20). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
+[^16]:Singapore. Planning Department. (1969). [*Annual report for the year 1968 & 1969*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4826216) (pp. 4–18). Singapore: Planning Department. (Call no.: RCLOS 711.4095957 SPDAR)
+[^17]:[*The Straits Times*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19700323-1.2.57.aspx), 23 Mar 1970, p. 8; Campbell, B. (1970, April 8). [What the Ring Concept Plan looks like](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19700408-1.2.40.aspx). *The Straits Times*, p. 5. Retrieved from NewspaperSG.
+[^18]:Land Transport Authority. (2013, August 17). *Pan Island Expressway*. Retrieved from Land Transport Authority website.
+[^19]:Land Transport Authority, 17 Aug 2013; Public Works Department. (1967). [*Annual report for the year 1967*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4618273) (p. 8). Singapore: Govt. Print. Off. (Call no.: RCLOS 354.59570086 SIN); Ministry of Culture. (1981, January 10). [*Speech by Mr Teh Cheang Wan, Minister for National Development, at the official opening of the Pan-Island Expressway between Jalan Eunos and East Coast Parkway, 10 January 1981 at 11 am*](http://www.nas.gov.sg/archivesonline/data/pdfdoc/tcw19810110s.pdf) [Press release]. Retrieved from National Archives of Singapore website; Ministry of Culture. (1989). [*Singapore Yearbook 1989*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=3837709) (p. 145). Singapore: Govt. Print. Off. (Call no.: RSING 959.57 SIN).
+[^20]:[PIE will reach Tuas by ’94](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19920108.2.7.6). (1992, January 8). *The Straits Times*, p. 3; [PIE extension to open tomorrow](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19931203-1.2.37.25). (1993, December 3). *The Straits Times*, p. 33. Retrieved from NewspaperSG.
+[^21]:Land Transport Authority, 17 Aug 2013; [Public Works Department](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4618273), 1967, p. 8.
+[^22]:[Ensuring nonstop traffic flow](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19801218-1.2.121.35.3). (1980, December 18). *The Straits Times*, p. 20. Retrieved from NewspaperSG.
+[^23]:[Interchanges for eastern part of PIE to cost $34m](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19780111-1.2.75). (1978, January 11). *The Straits Times*, p. 15. Retrieved from NewspaperSG.
+[^24]:Campbell, W. (1971, August 8). [Where 100,000 will live and play on reclaimed East Coast](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710808.2.147.14). The Straits Times, p. 6; [Scenic highway contract goes to Japanese firm](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19760909-1.2.82.aspx). (1976, September 9). The Straits Times, p. 17; [Pointers give drivers a pleasant trip](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19810418-1.2.127.5.aspx). (1981, April 18). The Straits Times, p. 9. Retrieved from NewspaperSG.
+[^25]:
+[^26]:
+[^27]:
+[^28]:
+[^29]:
+[^30]:
 
 
 
 
-Fwa, 2016, p. 130; Major survey of land and buildings. (1967, August 18). The Straits Times, p. 8; ‘Unique nation state’ plan. (1967, September 20). The Straits Times, p. 6. Retrieved from NewspaperSG.
-Singapore. Planning Department. (1969). Annual report for the year 1968 & 1969 (pp. 4–18). Singapore: Planning Department. (Call no.: RCLOS 711.4095957 SPDAR)
-The Straits Times, 23 Mar 1970, p. 8; Campbell, B. (1970, April 8). What the Ring Concept Plan looks like. The Straits Times, p. 5. Retrieved from NewspaperSG.
-Land Transport Authority. (2013, August 17). Pan Island Expressway. Retrieved from Land Transport Authority website.
-Land Transport Authority, 17 Aug 2013; Public Works Department. (1967). Annual report for the year 1967 (p. 8). Singapore: Govt. Print. Off. (Call no.: RCLOS 354.59570086 SIN); Ministry of Culture. (1981, January 10). Speech by Mr Teh Cheang Wan, Minister for National Development, at the official opening of the Pan-Island Expressway between Jalan Eunos and East Coast Parkway, 10 January 1981 at 11 am [Press release]. Retrieved from National Archives of Singapore website; Ministry of Culture. (1989). Singapore Yearbook 1989 (p. 145). Singapore: Govt. Print. Off. (Call no.: RSING 959.57 SIN).
-PIE will reach Tuas by ’94. (1992, January 8). The Straits Times, p. 3; PIE extension to open tomorrow. (1993, December 3). The Straits Times, p. 33. Retrieved from NewspaperSG.
+National Parks Board. (2018, March 19). East Coast Park. Retrieved from National Parks Board website.
+Last part of East Coast Parkway to open. (1981, September 25). The Straits Times, p. 11; New expressway will serve long-term needs. (1981, April 18). The Straits Times, p. 7. Retrieved from NewspaperSG.
+Sharp, 2005, p. 69; Dhaliwal, R. (1995, March 5). $1.9 b for roads over next 5 years. The Straits Times, p. 3; Lee, H.S. (1986, March 21). Record budget for roads. The Business Times, p. 3. Retrieved from NewspaperSG.
+The TPE runs through it. (1996, September 6). The Straits Times, p. 10. Retrieved from NewspaperSG.
+A smooth glide to Jurong and Tuas. (1990, April 7). The New Paper, p. 2. Retrieved from NewspaperSG; Fwa, 2016, pp. 203–204.
+Singapore. Land Transport Authority. (1996). A world class land transport system: White paper (p. 20). Singapore: Land Transport Authority. (Call no.: RSING 388.4095957 SIN)
