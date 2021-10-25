@@ -185,7 +185,7 @@ Tan, J. (2005, January 25). [Film buffs to the rescue](http://eresources.nlb.gov
 
 [^7]: Del Mundo, C.A. (2009). <i>Dreaming of a national audio-visual archive</i> (p. 4). Manila: Society of Film Archivists (SOFIA). (Not available in NLB holdings).
 
-[^8]: Santiago, D.H. (2010). Interviewed for <i>Saving face: Issues in film preservation and archiving</i> Santiago, M.
+[^8]: Santiago, D.H. (2010). Interviewed for <i>Saving face: Issues in film preservation and archiving.</i> Santiago, M.
 
 [^9]: Jones, J. (2012). <i>The past is a moving picture: Preserving the twentieth century on film</i> (p. 9). Florida: University Press of Florida. (Not available in NLB holdings).
 
