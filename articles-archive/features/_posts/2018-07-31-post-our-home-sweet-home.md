@@ -54,3 +54,29 @@ Even playgrounds came under the HDB’s scrutiny as it began to feature more dyn
 #### **From Strangers to Neighbours**
 
 However, a house does not make a home, and a pleasant living environment cannot be achieved by design alone. As high-density public housing could potentially lead to tensions between neighbours, *Our Home* sought to forge a sense of commonality and responsibility among residents as a nation of house-proud flat-dwellers – or “heartlanders”26 as we know them today.27
+
+<img src="/images/Vol-14-issue-2/our-home-sweet-home/Home4.JPG">
+<div style="background-color: white;">In this photo taken in 1970, laundry hung out for drying on bamboo poles was a familiar sight along streets with residential units above shophouses. Before the HDB built high-rise flats, the people lived in cramped and unsanitary conditions in these shophouses. <i>George W. Porter Collection, courtesy of National Archives of Singapore.</i></div>
+
+More than a roof over their heads, the public housing programme fostered a sense of rootedness among Singaporeans by giving them a tangible stake in the country. The late founding Prime Minister Lee Kuan Yew described it thus:
+
+“I wanted a home-owning society. I had seen the contrast between the blocks of low-cost rental flats, badly misused and poorly maintained, and those of house-proud owners, and was convinced that if every family owned its home, the country would be more stable… I believed this sense of ownership was vital for our new society which had no deep roots in a common historical experience..28
+
+In its inaugural message to readers in July 1972, the magazine echoed Lee’s sentiments:
+
+“‘*Our Home* is about you and others in HDB housing estates. You will get to know how much other people are like you, how other residents live, their problems and how they overcome them and about their achievements… We all live in the same community. It might be Redhill or Toa Payoh or Queenstown, what matters is that we make that community something to be proud of, a healthy environment for our children”.29
+
+In line with Singapore’s first Concept Plan in 1971, residential estates were developed as part of a ring of self-contained new towns around the central water catchment area.30 High-rise flats began replacing *kampongs* (villages) and came to characterise the suburban landscape. Our Home charted this period of transition and gave voice to the hopes and frustrations of residents as they adjusted to their new environment.
+
+<img src="/images/Vol-14-issue-2/our-home-sweet-home/Home5.JPG">
+<div style="background-color: white;">Balloting ceremony for the sale of HDB flats under the “Home Ownership for the People” scheme in Commonwealth Drive in 1965. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
+A perennial complaint was noise. For those used to the relative quiet of rural *kampongs*, the cacophony of high-density estates could be hard to bear, what with screaming and crying children, blaring radio and television sets, not to mention the infernal clacking of mahjong tiles.31
+
+One *Our Home* article in 1973 portrayed noise in a more positive light: as an expression of the informal communal life in estates. Writer Sylvia Leow traced the lively rhythm of everyday activities along the common corridor from the rush of residents heading to school, work and the market, to the boisterous sounds of playing children, and the chorus of itinerant vendors plying wares and services.32
+
+The calls of the *galah*33 man and the knife-sharpening man might evoke wistfulness for a vanished soundscape, but it was a different situation then as one disgruntled resident of Holland Close wrote:
+
+“After reading the article… I hate to say that I view the hustle and bustle as noise nuisance. I never knew that common corridors can bring about such headaches and frustrations until I recently moved into my flat. I am extremely distressed by the ‘noisy merriment’ of the corridor. Can you study under such [a] noise-polluted environment? I earnestly pray that those pedlars, children on tricycles, etc will disappear into thin air…”.34
+
+Such complaints created opportunities for the HDB to clarify its responsibilities HDB and those of the residents. *Our Home* made it clear that it was the duty of parents to teach children to play quietly and not cause mischief by urinating in the lifts or tampering with mailboxes.35 Problems like noise, vandalism, and littering could only be tackled if residents exercised consideration for the feelings and rights of their neighbours.
