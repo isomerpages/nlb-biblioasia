@@ -125,3 +125,16 @@ In 2008, the government announced plans for the construction of Singapore’s 11
 The opening of the NSC in 2026 will usher in a new era of transport in Singapore. Expressways will no longer be seen as high-speed carriageways solely for motor vehicles; instead, they will be designed to complement public transport and even cater to non-motorised users. In anticipation of population growth and demographic changes in the next two decades, the government will have to think of innovative ways to improve road connectivity and deliver a world-class transport system in line with its vision to remake Singapore.
 
 A unique feature of the NSC will be its dedicated bus lanes and cycling trunk routes. The bus lanes will help to reduce bus travelling times between housing estates along the new expressway and the city centre, while the cycling lanes will link up with the Park Connector Networks to provide cyclists with a direct route to the city centre. Both the bus and cycling lanes will support the government’s vision of transforming Singapore into a “car-lite” society where cycling and public transport would be the preferred mode of transport.36
+
+<img src="/images/Vol-14-issue-2/the-aye-bke-and-cte-of-expways/Road7.JPG">
+<div style="background-color: white;">
+	
+<br>
+<div style="background-color: white;">
+<img src="/images/Vol-14-issue-2/the-aye-bke-and-cte-of-expways/Road8.jpg" style="width: 100px; height: 100px;">
+<b>Lim Tin Seng</b> is a Librarian with the National Library, Singapore. He is the co-editor of <i>Roots: Tracing Family Histories – A Resource Guide</i> (2013); <i>Harmony and Development: ASEAN-China Relations</i> (2009) and <i>China’s New Social Policy: Initiatives for a Harmonious Society</i> (2010). He is also a regular contributor to BiblioAsia.
+</div>
+
+<a href="https://biblioasia.nlb.gov.sg/vol-14/issue-2/jul-sep-2018/"><center>Back to Issue</center></a>
+	
+#### **NOTES**
