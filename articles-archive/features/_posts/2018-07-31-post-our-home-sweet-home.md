@@ -196,13 +196,13 @@ The constant remaking of the heartland through redevelopment and upgrading has c
 [^38]:[Tai](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4866057), 1988, pp. 17–19.
 [^39]:Riaz Hassan. (1977). [*Families in flats: A study of low income families in public housing*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081886) (p. 144). Singapore: Singapore University Press. (Call no: RSING 301.443095957 HAS)
 [^40]:Multi-storey success. (1973, May–June). In *Our Home* (p. 36). Also see 走出菜芭 [From farm to flat]. (1974, January–February). In *Our Home* (p. 33), for the perspective of a new resident who formerly lived in a kampong in Potong Pasir.
-[^41]:
-[^42]:
-[^43]:
-[^44]:
-[^45]:
-[^46]:
-[^47]:
-[^48]:
-[^49]:
-[^50]:
+[^41]:Friendship is a chain that links people together… (1972, December). In *Our Home* (p. 6). Singapore: Housing and Development Board.
+[^42]:[Kong & Yeoh](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11772279), 2003, pp. 96–97.
+[^43]:See, for example, 祖屋圈内：雕塑家林浪新 [Profiles: Sculptor Lim Nang Seng]. (1973, July–August). In *Our Home* (p. 41); Inside an artist’s home [Batik artist Yusman Aman]. (1973, September–October). In *Our Home* (pp. 22–23); Crab~seller turned artist [Tay Bak Koi]. (1974, March–April). In *Our Home* (pp. 26–27); Scrap-iron sculpture [Tan Teng Kee]. (1975, January–February). In *Our Home* (pp. 22–23); His ceramic world [Iskandar Jalil]. (1975, May–June). In *Our Home* (p. 24); Pelukis dengan alamnya yang romantik: Abdul Ghani Hamid [The artist and his romantic world: Abdul Ghani Hamid]. (1986, February). In *Our Home* (pp. 26–27, 32). Singapore: Housing and Development Board.
+[^44]:Happiness is… living in a flat. (1972, December). In *Our Home* (pp. 31–33). Singapore: Housing and Development Board. Available via PublicationSG.
+[^45]:Salaff, J.W. (1988). [*State and family in Singapore: Restructuring a developing society*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4493502) (pp. 28–30). Ithaca: Cornell University Press. (Call no.: RSING 306.85095957 SAL)
+[^46]:Chua, B.H. (1997). [*Political legitimacy and housing: Stakeholding in Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=8394227) (pp. 160–161). London; New York: Routledge. (Call no.: RSING 363.585 CHU)
+[^47]:Employment at your doorstep. (1974, May–June). In *Our Home* (p. 11). Singapore: Housing and Development Board.
+[^48]:*Our Home*, May–June 1974, p. 11. Vacancies for production operators were advertised in *Our Home*. See, for example, the inside back cover (Texas Instruments) and back cover (National Semiconductor) of the May–June 1973, as well as page 6 of the Nov–Dec 1973 issue (Rollei).
+[^49]:Singapore. Housing and Development Board. (1972). [*Annual report 1972*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=8394227) (p. 33). Retrieved from BookSG.
+[^50]:A look at our young industrial workers. (1974, May–June). In *Our Home* (p. 15). Singapore: Housing and Development Board; Singapore. Department of Statistics. (1973). [*Report on the household expenditure survey 1972/1973*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081568) (p. 8). Singapore: Dept. of Statistics. (Call no.: RCLOS 339.41095957 SIN)
