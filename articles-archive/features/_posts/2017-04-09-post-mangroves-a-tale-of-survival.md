@@ -78,7 +78,7 @@ Wood from the <i>Rhizophora apiculata</i>, also known as <i>bakau</i>, makes for
 <br><br>
 An interesting pictorial description of Singapore’s charcoal burning industry from yesteryear can be found in the 22 June 1935 edition of <i>The Straits Times</i> (page 20).[^36] Typically, the harvested <i>bakau</i> stems are cut to size and transported along the river to the charcoal production factory, where they are stripped of their barks and arranged according to size before being placed in a kiln to be incinerated into charcoal.[^37]
 <br><br>
-<img src="/images/Vol-13-issue-1/mangroves/04_mangroves.jpg">At the charcoal production factory, the mangrove stems are stripped of their bark and then arranged according to size. The stripped mangrove stems are then placed in the kiln to be incinerated into charcoal. <i>Photo by J. Yong.</i>
+<img style="width:500px" src="/images/Vol-13-issue-1/mangroves/04_mangroves.jpg">At the charcoal production factory, the mangrove stems are stripped of their bark and then arranged according to size. The stripped mangrove stems are then placed in the kiln to be incinerated into charcoal. <i>Photo by J. Yong.</i>
 <br><br>
 Housewives in pre-war Singapore had to make do with charcoal burning stoves. In his book, <i>The Singapore House and Residential Life, 1819–1939</i>, Norman Edwards described these kitchens as “extraordinarily primitive”, consisting of an open stove made of brick with either a stone slab or a concrete top at bench height, with two round holes to place the cooking vessels over burning wood or charcoal underneath. A bundle of approximately 2.5–5 kg of charcoal could last a large family for about two days.[^38]
 <br><br>
