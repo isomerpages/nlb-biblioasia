@@ -18,7 +18,7 @@ Since young, I have been exposed to Chaozhou, or Teochew opera (Chaoju, 潮剧),
 
 The cloth puppets left an indelible impression on me and I began to search for information on Chinese puppetry. There was very little material to go by but thankfully, I was able to embark on my initial study by using oral history interviews from the National Archives of Singapore. Its Oral History Centre had interviewed a number of puppet masters from the different regional (or dialect) groups in the 1980s. The rest of my research material was collected through painstaking fieldwork and personal interviews with puppeteers since then.
 
-<div style="background-color: white;"><img style="width:700px" src="/images/Vol-13-issue-1/chinese-puppet-theatre/02_chinesepuppet.jpg">A puppet stage (left) erected in a temporary canopy housing the sintua at Geylang Bahru on 21 May 2010. <i>Photo by Caroline Chia. </i></div>
+<div style="background-color: white;"><img style="width:650px" src="/images/Vol-13-issue-1/chinese-puppet-theatre/02_chinesepuppet.jpg">A puppet stage (left) erected in a temporary canopy housing the sintua at Geylang Bahru on 21 May 2010. <i>Photo by Caroline Chia. </i></div>
 
 Finding the puppeteers, establishing contact, meeting up with them and getting them to disclose closely guarded secrets of the trade was a mammoth task. To my surprise, I discovered a wide variety of puppetry art forms in Singapore, all originating from different parts of southern China.
 
@@ -26,7 +26,7 @@ Finding the puppeteers, establishing contact, meeting up with them and getting t
 
 Traditional puppet art forms include Hainanese rod puppetry (*zhangtou mu’ou*, 杖头木偶) from Hainan island, Hokkien glove puppetry (*budaixi*, 布袋戏) and string puppetry (*tixian mu’ou*, 提线木偶) from southern Fujian, Henghua string puppetry from Putian and Xianyou in eastern Fujian, Teochew iron-stick puppetry from Chaozhou, and Waijiang string puppetry performed by the Hakka community.[^1]
 
-<div style="background-color: white;"><img style="width:600px" src="/images/Vol-13-issue-1/chinese-puppet-theatre/03_chinesepuppet.jpg">Hainanese rod puppet troupe San Chun Long’s performance at the Yan Kit Village Chinese Temple in November 2015. The rods are partially obscured from view by the puppet’s costume. <i>Photo by Jace Tan, National Heritage Board Puppetry Documentation Project 2015/2016.</i></div>
+<div style="background-color: white;"><img style="width:500px" src="/images/Vol-13-issue-1/chinese-puppet-theatre/03_chinesepuppet.jpg">Hainanese rod puppet troupe San Chun Long’s performance at the Yan Kit Village Chinese Temple in November 2015. The rods are partially obscured from view by the puppet’s costume. <i>Photo by Jace Tan, National Heritage Board Puppetry Documentation Project 2015/2016.</i></div>
 
 The opera performances are staged in regional languages (or dialects), which unfortunately make it difficult for the average Singaporean youth to understand and appreciate. Due to the success of the Speak Mandarin Campaign launched by the government in 1979, the majority of young Chinese people schooled in modern Singapore have become unfamiliar with dialects, which critics say has brought along with it an erosion of indigenous Chinese cultures and traditions.[^2]
 
@@ -56,7 +56,7 @@ Although puppet theatre has its roots in different parts of China and there are 
 <br><br>
 Regardless of regional differences, the storylines of most Chinese puppet shows in Singapore are based on Chinese classics set in imperial China, such as <i>A Family of Three Scholars</i> (一门三进士) for the Hokkien and Teochew communities, <i>Scholar Zhang Wenxiu</i> (张文秀) for the Hainanese, and <i>Scholar Wang Zhaorong</i> (王兆荣) for the Henghua.
 <br><br>
-<img style="width:600px" src="/images/Vol-13-issue-1/chinese-puppet-theatre/07_chinesepuppet.jpg">A string puppet show in Chinatown, 1963. The script is placed in such a way that the puppeteer can read it while manipulating the puppet. <i>Courtesy of National Archives of Singapore.</i>
+<img style="width:500px" src="/images/Vol-13-issue-1/chinese-puppet-theatre/07_chinesepuppet.jpg">A string puppet show in Chinatown, 1963. The script is placed in such a way that the puppeteer can read it while manipulating the puppet. <i>Courtesy of National Archives of Singapore.</i>
 <br><br>
 The show is always preceded by a ritual during which the puppets, which represent celestial beings such as the Eight Immortals, express thanksgivings to the deity whose feast day is being celebrated.
 <br><br>
