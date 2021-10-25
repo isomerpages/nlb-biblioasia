@@ -15,9 +15,11 @@ layout: post
 <img src="/images/Vol-16-issue-1/Postcards/space.png">
 </div>
 
-|Established in 1892, Swan & Maclaren (named after Archibald Alexander Swan and James Waddell Boyd Maclaren) is the oldest architectural practice in Singapore. Its architects, such as Regent Alfred John Bidwell, Denis Santry and Frank Lundon, designed many of Singapore’s historic buildings, including Raffles Hotel, Teutonia Club (present-day Goodwood Park Hotel), Chesed-El Synagogue, Stamford House, Victoria Memorial Hall and Theatre, and Tanjong Pagar Railway Terminus. |
-
-|The first 50 years of the firm's history is detailed in Julian Davison’s *Swan & Maclaren: A Story of Singapore Architecture*, published by ORO Editions and the National Archives of Singapore in 2020. In this edited extract from Chapter 30, the author looks at some of the earliest apartment buildings in Singapore built by the firm. Note: Apart from the David Elias Building on Middle Road and the two rows of shophouses next door, all the other apartment blocks mentioned in this essay have been demolished.|
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba; display:block; font-size:1rem; line-height:1.5rem;"> 
+Established in 1892, Swan & Maclaren (named after Archibald Alexander Swan and James Waddell Boyd Maclaren) is the oldest architectural practice in Singapore. Its architects, such as Regent Alfred John Bidwell, Denis Santry and Frank Lundon, designed many of Singapore’s historic buildings, including Raffles Hotel, Teutonia Club (present-day Goodwood Park Hotel), Chesed-El Synagogue, Stamford House, Victoria Memorial Hall and Theatre, and Tanjong Pagar Railway Terminus. 
+<br><br>
+The first 50 years of the firm's history is detailed in Julian Davison’s *Swan & Maclaren: A Story of Singapore Architecture*, published by ORO Editions and the National Archives of Singapore in 2020. In this edited extract from Chapter 30, the author looks at some of the earliest apartment buildings in Singapore built by the firm. Note: Apart from the David Elias Building on Middle Road and the two rows of shophouses next door, all the other apartment blocks mentioned in this essay have been demolished.
+</span>
 
 
 The late flourishing of the black-and-white house notwithstanding, the residential architecture of Singapore in the early 1920s was notable for the emergence of a new way of living, namely the residential apartment block. In the West, the modern middle-class apartment dwelling has its origins in Baron Haussmann’s reconstruction of Paris in the 1850s.[^1]
@@ -140,6 +142,10 @@ Completed in September that year, David Elias’s new venture was hailed by *The
 Not only was David Elias “to be congratulated on a well designed block of buildings”, but also for demonstrating “how sites in the centre of town can be used to the best advantage... in striking contrast to the old wasteful shophouse properties which are their immediate neighbours”. 
 
 Commendable though the D.J. Elias Building may have been, it was, however, but a very small step in the right direction, given the huge housing problems Singapore faced at the time.
+
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba; display:block; font-size:1rem; line-height:1.5rem;"> 
+<img style="width: 450px; height: 250px;" src="/images/vol-17-issue-2/mansions/SwanMaclaren.png"><i>Swan & Maclaren: A Story of Singapore Architecture</i> (2020) is published by ORO Editions and the National Archives of Singapore. The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=204523827">(Call nos.: RSING 720.95957 DAV and SING 720.95957 DAV)</a>. It retails at major bookshops in Singapore and is also sold online.
+</span>
 
 <div class="infobox">
 <img src="/images/vol-17-issue-2/mansions/SwanMaclaren.png" style="width: 450px; height: 250px;"/><i>Swan & Maclaren: A Story of Singapore Architecture</i> (2020) is published by ORO Editions and the National Archives of Singapore. The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=204523827">(Call nos.: RSING 720.95957 DAV and SING 720.95957 DAV)</a>. It retails at major bookshops in Singapore and is also sold online.</div>
