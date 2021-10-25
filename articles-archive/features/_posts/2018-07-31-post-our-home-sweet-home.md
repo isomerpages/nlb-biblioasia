@@ -14,3 +14,9 @@ One of the manifold challenges that Singapore faced at the time of self-governan
 To deal with the problem, the Housing and Development Board (HDB) was formed on 1 February 1960 and tasked with building as many flats as possible. Incredibly, by the end of its first decade, the board had completed over 100,000 units, providing affordable homes fitted with modern conveniences such as a ready supply of water and electricity as well as sanitation and waste disposal facilities, for nearly a third of the population.1
 
 A nation of flat-dwellers was steadily taking shape, and probably unbeknownst to many at the time, Singapore would become a nation of high-rise homes and its public housing programme would one day be lauded by urban planners the world over. Between 1960 and 1970, the percentage of resident population living in HDB flats increased from 9 to 35 percent, rising further to 67 percent by 1980. The figure has remained above 80 percent since 1985.2
+
+To ease Singaporeans into high-rise living, the HDB started its own magazine in July 1972 as a means of building rapport and staying connected with  residents – then a  community of 700,000 and counting.3
+
+Our Home not only kept residents updated on HDB policies, initiatives, new amenities and happenings in housing estates, but also functioned as a “views-paper”4 where readers could express their opinions and ideas on various aspects of HDB living as well as hear from the board. Additionally, Our Home featured a variety of lifestyle topics such as cooking, health, fashion, interior decoration, sports and culture – in short “something for everyone in the family”.5
+
+Starting with 147,000 copies, circulation grew in tandem with the number of new flats completed. By the time the last issue was published in August 1989, Our Home had made its way into 440,000 flats island-wide.
