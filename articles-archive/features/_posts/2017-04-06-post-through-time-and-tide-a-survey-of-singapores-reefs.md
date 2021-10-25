@@ -187,25 +187,25 @@ It is also a trip, not to the southern margins of an island nation, but to where
 
 [^26]:Dennys, N.B. (1894). Descriptive dictionary of British Malaya (p. 99). London: London and China Telegraph. Retrieved from BooKSG.
 
-[^27]:Legislative Council. (1902, December 13). The Straits Times, p. 5. Retrieved from NewspaperSG.
+[^27]:[Legislative Council](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19021213-1.2.32). (1902, December 13). *The Straits Times*, p. 5. Retrieved from NewspaperSG.
 
-[^28]:Gibson-Hill, C.A. (1957, December). Singapore Old Strait & New Harbour, 1300–1870. Memoirs of the Raffles Museum, 3, p.167. (Call no.: RCLOS 959.51 BOG)
+[^28]:Gibson-Hill, C.A. (1957, December). [Singapore Old Strait & New Harbour, 1300–1870](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4077989). *Memoirs of the Raffles Museum, 3*, p.167. (Call no.: RCLOS 959.51 BOG)
 
 [^29]:Gibson-Hill, May 1954, pp. 168–185.
 
 [^30]:Haughton, 1889, p. 79
 
-[^31]:St. John’s Island. (1923, April 2). *The Singapore Free Press and Mercantile Advertiser* (1884–1942), p. 12. Retrieved from NewspaperSG.
+[^31]:[St. John’s Island](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19230402-1.2.50). (1923, April 2). *The Singapore Free Press and Mercantile Advertiser* (1884–1942), p. 12. Retrieved from NewspaperSG.
 
-[^32]:St John’s Island. (1935, June 1). *The Straits Times*, p. 13. Retrieved from NewspaperSG.
+[^32]:[St John’s Island](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19350601-1.2.70). (1935, June 1). *The Straits Times*, p. 13. Retrieved from NewspaperSG.
 
-[^33]:Island Nation Project. (2015–2016). From one island to another. Retrieved from Island Nation Project website. (Note: The “Island Nation” exhibition was held at the National Library Building from 2–27 June 2015.)
+[^33]:Island Nation Project. (2015–2016). *From one island to another*. Retrieved from Island Nation Project website. (Note: The “Island Nation” exhibition was held at the National Library Building from 2–27 June 2015.)
 
-[^34]:Reef will become holiday island by October. (1976, August 27). New Nation, p. 4. Retrieved from NewspaperSG.
+[^34]:[Reef will become holiday island by October](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19760827-1.2.16). (1976, August 27). *New Nation*, p. 4. Retrieved from NewspaperSG.
 
-[^35]:Singapore. Parliament. Official reports – Parliamentary debates (Hansard). (1996, October 28). Reclamation (Southern Islands). (Vol 66, col. 840). Retrieved from Parliament of Singapore website.
+[^35]:Singapore. Parliament. *Official reports – Parliamentary debates (Hansard*). (1996, October 28). Reclamation (Southern Islands). (Vol 66, col. 840). Retrieved from Parliament of Singapore website.
 
-[^36]:[Targeting nature lovers and the well-heeled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20061201-1.2.56.9.1). (2006, December 1). The Straits Times, p. 6. Retrieved from NewspaperSG.
+[^36]:[Targeting nature lovers and the well-heeled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20061201-1.2.56.9.1). (2006, December 1). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
 
 [^37]:N. Sivasothi. (2005, June). The legacy of Pulau Seringat. *[Raffles Museum Newsletter](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10442294), 4*, 3. (Call no.: RSING 069.095957 RMN)
 
