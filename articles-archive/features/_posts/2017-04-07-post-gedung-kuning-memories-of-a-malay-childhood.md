@@ -100,6 +100,14 @@ But back in Gedung Kuning, children were celebrated in another way. True to the 
 <br><br>
 <i>Gedung Kuning: Memories of a Malay Childhood</i> is published by Singapore Heritage Society and Helang Books. The book retails for $24.90 (before GST) and is available at major bookshops. The book is also available for reference and loan at the Lee Kong Chian Reference Library and selected public libraries. (Call no.: RSING 305.8992805957 HID )</span>
 
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Vol-13-issue-1/gedung-kuning/hidayah.png">
+	<b>Hidayah Amin</b> is an award-winning author who has written several books and academic articles, and presented at international conferences. She has also produced more than 70 documentaries, audio resources and short films. Hidayah blogs at https://hida-amin.blogspot.sg/
+</div>
+
+<a href="/vol-13/issue-1/apr-jun-2017/"><center>Back to Issue</center></a>
+
 #### **NOTES**
 
 [^1]:Gedung Kuning, along with the adjacent Istana Kampung Gelam in the Kampong Glam area, was restored and opened as the Malay Heritage Centre in 2004. The Istana, or Palace building, houses a a museum devoted to the history, heritage and culture of Malays in Singapore, while Gedung Kuning has been turned into a restaurant called Mamanda, which serves Malay cuisine.
