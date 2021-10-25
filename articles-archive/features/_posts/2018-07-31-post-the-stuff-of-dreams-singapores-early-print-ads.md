@@ -118,7 +118,7 @@ Early business directories, periodicals, magazines, souvenir publications, trave
 
 <br>
 <div style="background-color: white;">
-<img src="/images/Vol-14-issue-2/the-stuff-of-dreams/Dreams10.jpg" style="width: 100px; height: 108px;">
+<img src="/images/Vol-14-issue-2/the-stuff-of-dreams/Dreams10.jpg" style="width: 100px; height: 100px;">
 <b>Chung Sang Hong</b> is Assistant Director (Exhibitions & Curation) at the National Library, Singapore. He is the lead curator of the “Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and Creations” exhibition.
 </div>
 
