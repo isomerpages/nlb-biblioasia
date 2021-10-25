@@ -39,12 +39,12 @@ An archive is a space managed by rational and disciplined logic but yet decision
 
 Developing a set of acquisition, selection and preservation policies was imperative. These policies were drafted using reference points from the International Federation of Film Archives (FIAF) <i>Code of Ethics</i>; Ray Edmondson’s <i>Audiovisual Archiving: Philosophy and Principles</i> (Paris, UNESCO, 2004); and The UNESCO Recommendation on the Preservation of Moving Images (1985). It would be beyond the scope of this article to delve into a discussion on the principles and philosophies of film archiving. However, I will articulate some of the main points underlying the AFA’s preservation policies. 
 
-While its name dictates Asia as its collection ambit, the AFA has focused its preservation efforts in the last nine years on the geographical region of Southeast Asia. As mentioned earlier, until recently, Southeast Asia had very few dedicated film archives with the means and the budgets to archive the numerous films produced in the region. Nevertheless, concentrating on Southeast Asia did not limit the films that the AFA acquired for its collection – it currently archives titles from wider Asia, such as China, Korea, Japan, Taiwan, India and Iran. 
+While its name dictates Asia as its collection ambit, the AFA has focused its preservation efforts in the last nine years on the geographical region of Southeast Asia. As mentioned earlier, until recently, Southeast Asia had very few dedicated film archives with the means and budgets to archive the numerous films produced in the region. Nevertheless, concentrating on Southeast Asia did not limit the films that the AFA acquired for its collection – it currently archives titles from wider Asia, such as China, Korea, Japan, Taiwan, India and Iran. 
 
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-11-issue-1/movingjourney/Cleopatra_Wong_re.jpg">
-They Call Her... Cleopatra Wong was released in 1978, and starred Marrie Lee as an Interpol agent. This poster is part of the AFA's holdings. © Cleopatra Wong International Pte Ltd.
+<i>They Call Her... Cleopatra Wong</i> was released in 1978, and starred Marrie Lee as an Interpol agent. This poster is part of the AFA's holdings. © Cleopatra Wong International Pte Ltd.
 </div>
 
 Although archives are generally associated with the antiquated, the AFA’s collection is relatively young by archival standards, with 70 percent of its films dating back to an average of 25 years. The main reason is because the AFA makes a conscious effort to acquire the works of living filmmakers. The selection criteria are determined by a list of priorities, taking into account the condition of the films’ formats and the “Asian-ness” and significance of the films on the cultural landscapes of both its country of origin and internationally. In addition, films that are independently produced and are not preserved in the home country of the filmmaker or by any other archive, receive particular attention. These guidelines are detailed on the AFA’s website and the mechanics of how films can be submitted for assessment and preservation are elaborated in the website’s Frequently Asked Questions (FAQ) section.[^10]
@@ -60,7 +60,7 @@ As Sam Kula, former director of the National Film, Television and Sound division
 
 To raise the funds needed to run a film archive, modern archivists must advocate for their cause while ensuring that potential donors understand why the archive’s work is important, and its impact on heritage and artistic preservation. Regardless of the worthiness of the film archive’s intentions, the public will not support preservation without seeing its results. Archivists need to make their work visible in order to raise the public’s awareness of what exactly archives do. Only then can archives elicit continued support and generate new revenues.[^14] Over the years, the AFA has done its best to connect with the public and its stakeholders by promoting and showcasing its programmes in order to garner support and goodwill. This was particularly important during those early years when the AFA was an independent not-for-profit organisation and depended solely on public funding. 
 
-Aside from the variety of talks, workshops and film screenings for educators, students, the film community and the general public, the AFA has organised different events to create awareness on film preservation. The Save Our Film campaign in 2010 was a collaboration with final-year students from the Nanyang Technological University's Wee Kim Wee School of Communication and Information and was aimed at raising awareness among youths aged 15 to 35 on Singapore’s rich local film heritage and the importance of keeping it alive for future generations. The campaign featured a series of nationwide guerrilla-style publicity efforts such as mock DVDs and posters at supporting stores and cinemas that promoted early Singapore titles with a twist; video projections on walls and ceilings at public spaces; and a roving showcase featuring recordings from local film community personalities.[^15] Another more recent effort in 2014 to raise the profile of AFA’s preservation efforts was its successful inscription of 91 Cathay-Keris Malay Classics into the UNESCO Memory of the World Asia-Pacific Register.[^16]
+Aside from the variety of talks, workshops and film screenings for educators, students, the film community and the general public, the AFA has organised different events to create awareness on film preservation. The Save Our Film campaign in 2010 was a collaboration with final-year students from Nanyang Technological University's Wee Kim Wee School of Communication and Information. It was aimed at raising awareness among youths aged 15 to 35 on Singapore’s rich local film heritage and the importance of keeping it alive for future generations. The campaign featured a series of nationwide guerrilla-style publicity efforts such as mock DVDs and posters at supporting stores and cinemas that promoted early Singapore titles with a twist; video projections on walls and ceilings at public spaces; and a roving showcase featuring recordings from local film community personalities.[^15] Another more recent effort in 2014 to raise the profile of AFA’s preservation efforts was its successful inscription of 91 Cathay-Keris Malay Classics into the UNESCO Memory of the World Asia-Pacific Register.[^16]
 
 Nonetheless, advocating film preservation is an uphill task, especially when there are so many equally worthy public causes competing for funds. In an effort to take on a more proactive curatorial role and shed the passivity that archives are usually associated with, film archives all over the world are using technology to restore older titles in their collection and make these films more accessible to the public.[^17] Through such restoration projects, the archive is able to more effectively advocate for its work through the films it chooses to restore and the strategic activities it can organise in connection with the restored films. However, film restoration is a highly expensive investment; the restoration of a single film could cost upwards of S$100,000, depending on its condition. Although the AFA has embarked on the restoration of a number of important films and has accompanying programmes lined up, its other functions, specifically, preservation and access, remain a priority. After all, without preservation, there would be no films to restore: the restoration process is only a means to achieve the larger and overarching goal of film preservation. 
 
@@ -70,65 +70,76 @@ Shortly after, in 2007, the AFA became the first Singapore-based organisation to
 
 The AFA has come a long way from when it started 10 years ago by the visionary Tan Bee Thiam. Having built a reputation and gained traction with the regional film community, AFA’s mission statement – “To Save, Explore, and Share the Art of Asian Cinema” – will continue to guide its future work and direction. The editors of <i>Film Curatorship: Archives, Museums and the Digital Marketplace</i> succinctly define film curatorship as “the art of interpreting the aesthetics, history, and technology of cinema through the selective collection, preservation, and documentation of films and their exhibition in archival presentations.”[^18] On this occasion of the AFA’s 10th anniversary, this quote eloquently encapsulates what the words “Save, Explore and Share” in AFA’s mission statement hopes to achieve.
 
-|**About The AFA**|
 
-|The Asian Film Archive (AFA) is a charity that preserves Asia's rich film heritage in a permanent collection focusing on culturally important works by independent Asian filmmakers. It promotes a wider critical appreciation of Asia's cinematic works through organised community programmes, including screenings and talks.|
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;">
+<b>ABOUT THE AFA</b>
+<br><br>
+The Asian Film Archive (AFA) is a charity that preserves Asia's rich film heritage in a permanent collection focusing on culturally important works by independent Asian filmmakers. It promotes a wider critical appreciation of Asia's cinematic works through organised community programmes, including screenings and talks.
+<br><br>
+AFA’s holdings include films of award-winning Filipino filmmakers such as Lino Brocka, Mike de Leon, Lav Diaz, and Malaysian filmmakers Amir Muhammad, U-Wei Haji Saari and Tan Chui Mui, among others. The Archive is also home to a collection of Cathay-Keris Malay Classics from the 1950s to 1970s that are part of the UNESCO Memory of The World Asia-Pacific Register, a list of endangered library and archive holdings.
+<br><br>
+The AFA’s collection is available for public reference at the library@ esplanade and through the AFA Channel on viddsee.com, an online portal that showcases the best of short films from Southeast Asia.
+<br><br>
+The AFA became a subsidiary of the National Library Board in January 2014.
+<br><br>
+<img  src="/images/vol-11-issue-1/movingjourney/afa_re.jpg">10th anniversary logo of the Asian Film Archive.</span>
 
-|AFA’s holdings include films of award-winning Filipino filmmakers such as Lino Brocka, Mike de Leon, Lav Diaz, and Malaysian filmmakers Amir Muhammad, U-Wei Haji Saari and Tan Chui Mui, among others. The Archive is also home to a collection of Cathay-Keris Malay Classics from the 1950s to 1970s that are part of the UNESCO Memory of The World Asia-Pacific Register, a list of endangered library and archive holdings.|
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;">
+<b>THE 19TH SEAPAVAA CONFERENCE</b>
+<br><br>
+Hosted by the AFA and supported by the National Library Board, Singapore, the 19th South East Asia-Pacific Audiovisual Archives Association (SEAPAVAA) Conference and General Assembly will take place from 22 to 28 April 2015. The week-long event at the National Library Building will feature a two-day symposium with concurrent sessions, institutional visits, Restoration Asia II (an event focusing on the restoration of films in Asia or about Asia), workshops, and an excursion. A total of 48 papers will be presented during the conference on topics such as archival advocacy, archival repatriation, professional development, repurposing of archives, technical, organisational and professional sustainability, and archives at risk. For more information, visit www. seapavaaconference.com. The theme for the 2015 SEAPAVAA conference is <i>Advocate. Connect. Engage.</i> This theme resonates closely with the thrust of AFA’s programmes and the three objectives contained in its mission statement – “To Save, Explore, and Share the Art of Asian Cinema”.
+<br><br>
+<img src="/images/vol-11-issue-1/movingjourney/logo_w_title.jpg"></span>
 
-|The AFA’s collection is available for public reference at the library@ esplanade and through the AFA Channel on viddsee.com, an online portal that showcases the best of short films from Southeast Asia.|
 
-|The AFA became a subsidiary of the National Library Board in January 2014.|
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;">
+<b>DIGITAL FILM RESTORATION</b>
+<br><br>
+Digital film restoration is a highly specialised and laborious process. It involves the complex use of technological software and equipment that are designed to ingest huge amounts of data. The simplified workflow diagram below gives an idea of the three main parts of digital film restoration – repair and cleaning; restoration and preservation; and access output.
+<br><br>
+<img style="width:80%" src="/images/vol-11-issue-1/movingjourney/process_re.jpg"></span>
 
-|<img  src="/images/vol-11-issue-1/movingjourney/afa_re.jpg">10th anniversary logo of the Asian Film Archive.|
 
-|**The 19th Seapavaa Conference** |
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;">
+<b>THE GENESIS OF THE ASIAN FILM ARCHIVE</b>
+<br><br>
+The Asian Film Archive (AFA) was the brainchild of Tan Bee Thiam, its founder and former executive director. After graduating from the National University of Singapore (NUS) in 2004, Tan embarked on a two-month backpacking trip that took him to New Delhi, India. Unbeknownst to him at the time, this visit would sow the seeds for the beginnings of the first Singapore-based film archive. Tan had always been a film enthusiast; as a student he served as the president of the NUS film society, nuSTUDIOS, and was himself an emerging filmmaker. In New Delhi, Tan attended the Osian’s-Cinefan: 6th Festival of Asian Cinema, where he was exposed to key filmmakers from around Asia.
+<br><br>
+These figures, including members from NETPAC (Network for the Promotion of Asian Cinema), like Singapore’s Phillip Cheah and India’s Aruna Vasudev, would later inspire and influence his thoughts. NETPAC’s mission is to promote lesser known Asian films. “The organisation impressed me,” recalls Tan. “A lot of media attention is given to the glamour of the Cannes, Venice and Berlin film festivals. But there are very hardworking Asian filmmakers who create works for their own people. I felt that their work, at least those I’d seen, were important and groundbreaking..”
+<br><br>
+Tan had the good fortune of acting as translator for the post-screening Q&amp;A sessions of the acclaimed Taiwan-based filmmaker Tsai Ming Liang. In their conversations, Tsai provoked Tan into thinking about archiving and its importance. “(Tsai) had problems with distribution, problems with keeping track of his own film prints,” recounts Tan. “Even for a very established filmmaker like Tsai Ming Liang, his works were rarely seen outside of film festivals.” This led to conversations with other Asian filmmakers such as award-winning Malaysian director U-Wei Haji Saari, who revealed that he stored the film prints of his acclaimed films himself, acknowledging that in a tropical environment, they would run the risk of being damaged.
+<br><br>
+Tan quickly recognised the challenges these Asian independent filmmakers faced. Not only did they have trouble raising money to produce their films, these works did not always receive the traction they deserved, denying audiences the opportunity to view them. Many films might not even survive the passage of time; in 2004, few Asian countries had their own national film archive, and those that existed did not function effectively. Without proper preservation facilities, it was clear to Tan that significant elements of Asian heritage and culture would be lost forever.</span>
 
-|Hosted by the AFA and supported by the National Library Board, Singapore, the 19th South East Asia-Pacific Audiovisual Archives Association (SEAPAVAA) Conference and General Assembly will take place from 22 to 28 April 2015. The week-long event at the National Library Building will feature a two-day symposium with concurrent sessions, institutional visits, Restoration Asia II (an event focusing on the restoration of films in Asia or about Asia), workshops, and an excursion. A total of 48 papers will be presented during the conference on topics such as archival advocacy, archival repatriation, professional development, repurposing of archives, technical, organisational and professional sustainability, and archives at risk. For more information, visit www. seapavaaconference.com. The theme for the 2015 SEAPAVAA conference is <i>Advocate. Connect. Engage.</i> This theme resonates closely with the thrust of AFA’s programmes and the three objectives contained in its mission statement – “To Save, Explore, and Share the Art of Asian Cinema”.|
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;">
+<b>THE BASIS</b>
+<br><br>
+In the course of his research, Tan drew inspiration from the great work of the British Film Institute (BFI), Berkeley’s Pacific Film Archive and Asian film archives in Taiwan, Thailand and Hong Kong. International and regional film institutions such as the International Federation of Film Archives (FIAF) and the South East Asia-Pacific Audiovisual Archives Association (SEAPAVAA) offered further insight into the different models he could pursue.
+<br><br>
+Upon his return from India, Tan was pleasantly surprised to discover that there had already been suggestions to establish a Singapore film archive. He spent the next few months networking, meeting filmmakers and heads of institutions as well as film researchers, laying the foundations and framework the archive would be built upon.
+<br><br>
+Tan envisioned that the archive would be situated in the context of a university, to be enjoyed not just for entertainment but as a form of art and for serious study, providing resources for research and academia. He also wanted to situate Singapore cinema in the wider context of Asian cinema – a film archive that would be Asian in its scope and focus.
+<br><br>
+Tan turned to his alma mater, NUS, and approached Chew Kheng Chuan, founding director of NUS’ Development Office and chairman of The Substation (Singapore), who supported Tan’s vision. He offered Tan not only his wealth of experience, but also office space within the NUS Development Office – the AFA’s first home.</span>
 
-|<img src="/images/vol-11-issue-1/movingjourney/logo_w_title.jpg">|
-
-|**Digital Film Restoration**|
-
-|Digital film restoration is a highly specialised and laborious process. It involves the complex use of technological software and equipment that are designed to ingest huge amounts of data. The simplified workflow diagram below gives an idea of the three main parts of digital film restoration – repair and cleaning; restoration and preservation; and access output.|
-
-|<img src="/images/vol-11-issue-1/movingjourney/process_re.jpg">|
-
-|**The Genesis of The Asian Film Archive**| 
-
-|The Asian Film Archive (AFA) was the brainchild of Tan Bee Thiam, its founder and former executive director. After graduating from the National University of Singapore (NUS) in 2004, Tan embarked on a two-month backpacking trip that took him to New Delhi, India. Unbeknownst to him at the time, this visit would sow the seeds for the beginnings of the first Singapore-based film archive. Tan had always been a film enthusiast; as a student he served as the president of the NUS film society, nuSTUDIOS, and was himself an emerging filmmaker. In New Delhi, Tan attended the Osian’s-Cinefan: 6th Festival of Asian Cinema, where he was exposed to key filmmakers from around Asia.|
-
-|These figures, including members from NETPAC (Network for the Promotion of Asian Cinema), like Singapore’s Phillip Cheah and India’s Aruna Vasudev, would later inspire and influence his thoughts. NETPAC’s mission is to promote lesser known Asian films. “The organisation impressed me,” recalls Tan. “A lot of media attention is given to the glamour of the Cannes, Venice and Berlin film festivals. But there are very hardworking Asian filmmakers who create works for their own people. I felt that their work, at least those I’d seen, were important and groundbreaking..”|
-
-|Tan had the good fortune of acting as translator for the post-screening Q&amp;A sessions of the acclaimed Taiwan-based filmmaker Tsai Ming Liang. In their conversations, Tsai provoked Tan into thinking about archiving and its importance. “(Tsai) had problems with distribution, problems with keeping track of his own film prints,” recounts Tan. “Even for a very established filmmaker like Tsai Ming Liang, his works were rarely seen outside of film festivals.” This led to conversations with other Asian filmmakers such as award-winning Malaysian director U-Wei Haji Saari, who revealed that he stored the film prints of his acclaimed films himself, acknowledging that in a tropical environment, they would run the risk of being damaged.|
-
-|Tan quickly recognised the challenges these Asian independent filmmakers faced. Not only did they have trouble raising money to produce their films, these works did not always receive the traction they deserved, denying audiences the opportunity to view them. Many films might not even survive the passage of time; in 2004, few Asian countries had their own national film archive, and those that existed did not function effectively. Without proper preservation facilities, it was clear to Tan that significant elements of Asian heritage and culture would be lost forever.|
-
-|**The Basis**|
-
-|In the course of his research, Tan drew inspiration from the great work of the British Film Institute (BFI), Berkeley’s Pacific Film Archive and Asian film archives in Taiwan, Thailand and Hong Kong. International and regional film institutions such as the International Federation of Film Archives (FIAF) and the South East Asia-Pacific Audiovisual Archives Association (SEAPAVAA) offered further insight into the different models he could pursue.| 
-
-|Upon his return from India, Tan was pleasantly surprised to discover that there had already been suggestions to establish a Singapore film archive. He spent the next few months networking, meeting filmmakers and heads of institutions as well as film researchers, laying the foundations and framework the archive would be built upon.|
-
-|Tan envisioned that the archive would be situated in the context of a university, to be enjoyed not just for entertainment but as a form of art and for serious study, providing resources for research and academia. He also wanted to situate Singapore cinema in the wider context of Asian cinema – a film archive that would be Asian in its scope and focus.| 
-
-|Tan turned to his alma mater, NUS, and approached Chew Kheng Chuan, founding director of NUS’ Development Office and chairman of The Substation (Singapore), who supported Tan’s vision. He offered Tan not only his wealth of experience, but also office space within the NUS Development Office – the AFA’s first home.|
-
-|**The Birth**| 
-
-|Tan approached his NUS schoolmate, filmmaker Kirsten Tan, with whom he had made films with when they were in nuSTUDIOS. Kirsten gave Tan her full support and joined him as a co-founder. He also approached Kenneth Paul Tan, a NUS political science professor at the time, and Kenneth Chan, an assistant professor at Nanyang Technological University’s (NTU) humanities school. Jacqueline Tan, a lecturer for the Film, Sound &amp; Video (FSV) course at Ngee Ann Polytechnic, and Straits Times journalist and film critic Ong Sor Fern rounded out the team, forming the first governing board of the AFA.| 
-
-|The team was met with scepticism in their search for archival space and funding. People were hesitant to collaborate with the AFA as it was unproven in an endeavour that other established institutions had attempted but failed. This changed when Tan emailed a Christmas greeting to NAS’ then director, Pitt Kuan Wah, in December 2004. This email proved to be a game changer.| 
-
-|Pitt and NAS’ then deputy director of the Audiovisual Archives Unit, Irene Lim, were extremely supportive of the idea of the AFA. It was a project that was aligned with NAS’ own heritage preservation mission. Things quickly fell into place: a referendum of understanding was drafted and NAS became an archiving partner. This partnership was essential because AFA finally had access to proper archival storage facilities and could function as a film archive.| 
-
-|In January 2005, the AFA decided to establish itself as an independent non-profit public company with limited guarantee. The AFA made a call for contributions and more than 200 film titles were collected within the first half of 2005. The AFA steadily garnered support from local and regional filmmakers and received positive press coverage. In March 2005, a working committee was formed to prepare for an Asian film symposium as well as to produce Singapore’s first DVD anthology of Singaporean short films – the <i>Asian Film Archive Collection: Singapore Shorts Vol. 1.</i>|
-
-|The AFA has since grown from strength to strength, expanding its collection, engaging and educating the public and preserving Asia’s film heritage for future generations.|
-
-|<i>**Thong Kay Wee** is the Outreach Officer of the Asian Film Archive (AFA). One part publicist and one part curator, he is responsible for devising strategies to propagate the archive’s mission and film collection. In his free time, he considers himself an independent moving image artist.</i>|
-
-|<img  src="/images/vol-11-issue-1/movingjourney/SKP_0517.jpg">Tan Bee Thiam (right) presenting a token of appreciation to former president S.R. Nathan (left) in 2010. <i>Courtesy of the AFA.</i>|
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;">
+<b>THE BIRTH</b>
+<br><br>
+Tan approached his NUS schoolmate, filmmaker Kirsten Tan, with whom he had made films with when they were in nuSTUDIOS. Kirsten gave Tan her full support and joined him as a co-founder. He also approached Kenneth Paul Tan, a NUS political science professor at the time, and Kenneth Chan, an assistant professor at Nanyang Technological University’s (NTU) humanities school. Jacqueline Tan, a lecturer for the Film, Sound &amp; Video (FSV) course at Ngee Ann Polytechnic, and Straits Times journalist and film critic Ong Sor Fern rounded out the team, forming the first governing board of the AFA.
+<br><br>
+The team was met with scepticism in their search for archival space and funding. People were hesitant to collaborate with the AFA as it was unproven in an endeavour that other established institutions had attempted but failed. This changed when Tan emailed a Christmas greeting to NAS’ then director, Pitt Kuan Wah, in December 2004. This email proved to be a game changer.
+<br><br>
+Pitt and NAS’ then deputy director of the Audiovisual Archives Unit, Irene Lim, were extremely supportive of the idea of the AFA. It was a project that was aligned with NAS’ own heritage preservation mission. Things quickly fell into place: a referendum of understanding was drafted and NAS became an archiving partner. This partnership was essential because AFA finally had access to proper archival storage facilities and could function as a film archive.
+<br><br>
+In January 2005, the AFA decided to establish itself as an independent non-profit public company with limited guarantee. The AFA made a call for contributions and more than 200 film titles were collected within the first half of 2005. The AFA steadily garnered support from local and regional filmmakers and received positive press coverage. In March 2005, a working committee was formed to prepare for an Asian film symposium as well as to produce Singapore’s first DVD anthology of Singaporean short films – the <i>Asian Film Archive Collection: Singapore Shorts Vol. 1.</i>
+<br><br>
+The AFA has since grown from strength to strength, expanding its collection, engaging and educating the public and preserving Asia’s film heritage for future generations.
+<br><br>
+<i><b>Thong Kay Wee</b> is the Outreach Officer of the Asian Film Archive (AFA). One part publicist and one part curator, he is responsible for devising strategies to propagate the archive’s mission and film collection. In his free time, he considers himself an independent moving image artist.</i>
+<br><br>
+<img style="width:80%" src="/images/vol-11-issue-1/movingjourney/SKP_0517.jpg">Tan Bee Thiam (right) presenting a token of appreciation to former president S.R. Nathan (left) in 2010. <i>Courtesy of the AFA.</i>
+<img style="width:70%" src="/images/vol-11-issue-1/movingjourney/SKP_0517.jpg">Tan Bee Thiam (right) presenting a token of appreciation to former president S.R. Nathan (left) in 2010. <i>Courtesy of the AFA.</i>
+<img style="width:100%" src="/images/vol-11-issue-1/movingjourney/SKP_0517.jpg">Tan Bee Thiam (right) presenting a token of appreciation to former president S.R. Nathan (left) in 2010. <i>Courtesy of the AFA.</i></span>
 
 <p style="font-size:15px;"><b>Karen Chan</b> is Executive Director of the Asian Film Archive (AFA). Besides overseeing the growth, preservation and curation of the AFA’s collection, she teaches film literacy and preservation courses to educators, students and filmmakers. Karen also serves on the Executive Council of the South East Asia-Pacific Audiovisual Archive Association.</p>
 
