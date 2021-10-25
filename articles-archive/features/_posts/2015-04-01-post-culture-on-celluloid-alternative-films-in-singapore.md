@@ -78,7 +78,7 @@ Today, film festivals are almost de rigueur channels of promotion for foreign em
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-11-issue-1/cultureoncelluloid/German_Film_Festival.jpg">
+<img style="width:70%" src="/images/vol-11-issue-1/cultureoncelluloid/German_Film_Festival.jpg">
 Publicity poster of the 8th German Film Festival held in 2004. <i>Collection of the National Library, Singapore.</i>
 </div>
 
