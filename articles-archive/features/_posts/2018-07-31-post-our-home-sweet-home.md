@@ -166,3 +166,23 @@ The constant remaking of the heartland through redevelopment and upgrading has c
 [^8]:[Wong & Yeh](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081015), 1985, pp. 95–96, 104–105.
 [^9]:Ang Mo Kio New Town. (1974, March–April). In *Our Home* (pp. 10–11). Singapore: Housing and Development Board.
 [^10]:Singapore. Housing and Development Board. (1974). [*Annual report 1973/1974*](http://eresources.nlb.gov.sg/printheritage/detail/73e81a4e-2c42-42f8-be4e-0935676230bf.aspx) (p. 45). Retrieved from BookSG.
+[^11]:Ang Mo Kio Town Centre. (1976, December). In *Our Home* (p. 14); A town away from town… Ang Mo Kio Town Centre. (1980, October). In *Our Home* (p. 17); For other town centres, see Shopping made easy in Queenstown. (1974, September–October). In *Our Home* (pp. 10–11; New hubs of activity. (1976, October). In *Our home* (pp. 10–11); Bedok Town Centre. (1977, June). In *Our Home* (p. 20); Clementi Town Centre. (1978, October). In *Our Home* (pp. 4–5).; Bukit Merah Town Centre. (1979, April). In *Our Home* (pp. 10–11); Bukit Batok Town Centre. (1984, December). In *Our Home* (pp. 4, 11); Town centres – The hub of a HDB new town. (1985, August). In *Our Home* (pp. 12–14). Singapore: Housing and Development Board.
+[^12]:*Our Home*, Oct 1980, p. 17.
+[^13]:*Our Home*, Mar–April 1974, pp. 10–11; [Wong & Yeh](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081015), 1985, p. 104; Also see Bedok Neighbourhood Centre. (1985, December). In *Our Home* (pp. 12–13). Singapore: Housing and Development Board.
+[^14]:*Our Home*, Mar–April 1974, pp. 10–11.
+[^15]:New generation flats. (1973, July–August). In *Our Home* (pp. 14–15); New generation flats revisited. (1975, August). In *Our Home* (pp. 18–19). Singapore: Housing and Development Board; [Wong & Yeh](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081015), 1985, pp. 58–66. Also see Building better homes. (1987, December). In *Our Home* (pp. 12–13). Singapore: Housing and Development Board.
+[^16]:[Wong & Yeh](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081015), 1985, pp. 96, 98; [Liu](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=756683), 1975, pp. 124–125. Also see Telok Blangah New Town: Blue print for the future. (1973, January–February). In *Our Home* (pp. 14–15); A new town in the east. (1973, September–October). In *Our Home* (pp. 8–9); New town on the west coast. (1975, December). In *Our Home* (p. 13); Jurong East & West new towns. (1979, October). In *Our Home* (pp. 20–21); The first of Hougang New Town. (1980, April). In Our Home (pp. 16–17). Singapore: Housing and Development Board.
+[^17]:[Wong & Yeh](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081015), 1985, pp. 98, 106–107.
+[^18]:Seven new facades. (1979, August). In *Our Home* (pp. 16–17). Singapore: Housing and Development Board. Available via PublicationSG; [Wong & Yeh](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081015) 1985, p. 108.
+[^19]:[Wong & Yeh](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081015), 1985, p. 108; Tampines New Town. (1982, December). In *Our Home* (pp. 16–17); Tampines New Town. (1985, June). In *Our Home* (pp. 12–13, 27). [Note: Tampines New Town is the first to fully implement the precinct concept, where its nine neighbourhoods are further subdivided into precincts of 600 to 1,000 households, or about 4,000 residents. This concept aims to foster neighbourliness where blocks in the same precinct are clustered around a focal point with social and recreational amenities that encourage interaction among residents]. Also see Identity blocks. (1984, April). In *Our Home* (pp. 12–13); Bishan New Town. (1984, December). In *Our Home* (pp. 12–13); Yishun New Town – One of the largest. (1985, February). In *Our Home* (pp. 12–14); Woodlands New Town. (1987, April). In *Our Home* (pp. 16–18). Singapore: Housing and Development Board. Available via PublicationSG.
+[^20]:Bukit Batok New Town. (1984, August). In *Our Home* (pp. 4–5). Singapore: Housing and Development Board. Available via PublicationSG. Murals, murals on the walls…. (1981, June). In *Our Home* (pp. 12–13). [Note: The MacPherson block was featured on the cover of the October 1979 issue and the Hougang block on the cover of the June 1981 issue]. See also Our walls come alive. (1976, August). In *Our Home* (pp. 10–11); Vibrant graphics for Kaki Bukit Estate. (1986, October). In *Our Home* (pp. 16–17). Singapore: Housing and Development Board.
+[^21]:
+[^22]:
+[^23]:
+[^24]:
+[^25]:
+[^26]:
+[^27]:
+[^28]:
+[^29]:
+[^30]:
