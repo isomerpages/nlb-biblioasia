@@ -45,3 +45,108 @@ The four most common mangrove species found in Singapore include Avicennia (api-
 One of the most well-known mangrove conservation sites is at Sungei Buloh Wetland Reserve. It is a popular site for migratory shorebird watching and photography and has clearly marked nature trails with raised boarded walkways to provide easy access and also prevent wildlife and vegetation from being trampled on.19 The wetland reserve contains the largest tracts of mangrove forests on the mainland.20 Other places in Singapore that were named after mangroves, such as Kampong Sungei Attap and Sungei Bakau Rungkup in Jurong, no longer exist.21
 
 <div style="background-color: white;"><img src="/images/Vol-13-issue-1/mangroves/02_mangroves.jpg">Mangroves at Sungei Buloh Wetland Reserve. <i>All rights reserved, Yong, D. L., & Lim, K. C. (2016). A Naturalist’s Guide to the Birds of Singapore (p. 5). Oxford, England: John Beaufoy Publishing.</i></div>
+
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>TSUNAMI AND MANGROVES: BOON OR BANE?</b>
+<br><br>
+In 2015, Sri Lanka became the first nation to protect all its mangrove forests under a comprehensive programme.22 The following year in July, Sri Lankan President Maithripala Sirisena inaugurated the world’s first mangrove museum in Sri Lanka, declaring that the “National Coastal and Marine Resources Conservation Week” be observed in September every year.23
+<br><br>
+Why the great emphasis in protecting mangroves in Sri Lanka? The International Union for Conservation of Nature (IUCN), the world’s largest and most diverse environmental network,24 noted in a 2006 report that the gigantic tidal waves unleashed by the 2004 Indian Ocean tsunami caused much less damage in areas in Sri Lanka that had relatively intact coastal ecosystems.25 When the IUCN compared two tsunami-devastated villages in the Hambantota area of Sri Lanka, it discovered that nearly 6,000 deaths were reported in the village that wasn’t protected by dense mangrove and scrub forests compared to just two deaths in another village that was bordered by such vegetation.26
+<br><br>
+However, the Food and Agriculture Organization (FAO) of the United Nations has cautioned such oversimplification, adding that several factors impact the efficacy of mangroves as coastal protection against waves, wind and water. These include the height and velocity of the tsunami, the topography and orientation of the coastline, the width of the forest, and the height, density and the species composition of the mangroves. The FAO warned that it is possible for mangroves and other coastal trees to be uprooted during a tsunami and cause even more extensive damage.27</span>
+
+In an article published in The Singapore Free Press on 20 January 1951, Marian Wells described the carefree lives of village folks who made a living from firewood harvested from mangrove forests in Jurong:
+
+“The bakau settlers themselves are shabby and poor. Bakau stakes provide walls for huts and lean-tos, and even material for floors. It was amusing to see a kitten clinging desperately to a stake while its body swung in space. It had fallen through a gap in the flooring. Apart from the felling of trees the men are engaged in some fishing and crab catching. Children find sport in racing along raised mudbanks and plank bridges which are their only pathways in a land of mud and sludge.”28
+
+#### **The Regeneration of Mangroves**
+
+The debate on land use in Singapore is not a recent phenomenon. In 1951, R. E. Holttum, then Professor of Botany at the University of Malaya, contributed a lengthy article in The Straits Times arguing why mangrove swamps should be preserved in Singapore.29 In Ulu Pandan for instance, some 4 sq km of the mangroves were sacrificed for prawn cultivation in 1957, leaving only 1 sq km untouched.30
+
+Almost three decades later, a 1983 Straits Times article by Mark Pestana pondered if mangrove swamps could survive land-scarce Singapore, with Dr Wee Yeow Chin of the Malayan Nature Society and Dr Leo Tan of the Singapore Science Centre weighing in on the issue.31
+
+Today, mangrove conservation efforts in Singapore are carried out by means of legislation, management and education as well as targeted restoration efforts in specially demarcated areas. Together, nature lovers, botanists and staff from the National Parks Board (NParks) have taken concrete steps to preserve our remaining mangroves. For instance, the Restore Ubin Mangroves ground-up initiative supported by NParks was formed to study and rehabilitate the mangrove ecosystem at Pulau Ubin as well as to conduct activities to raise awareness of Singapore’s rich and diverse mangrove habitats.32
+
+In 2015, a mangrove arboretum was set up by NParks at Sungei Buloh Wetland Reserve to conserve the country’s dwindling mangrove species, especially the critically endangered Eye of the Crocodile, Bruguiera hainasii. Interestingly, Singapore is home to 11 of the remaining 200 trees in the world.33
+
+As it is extremely difficult to replant mangroves, Singapore can take pride in two successful mangrove reforestation projects – at Sungei Api Api and Pulau Semakau. Mangroves along Sungei Api Api that were effected by reclamation works at Pasir Ris have been regenerated by NParks. When the Semakau Landfill was created by merging Pulau Sakeng with Pulau Semakau in the mid- 1990s, the 13-hectare plot of mangroves were destroyed during reclamation was successfully replanted with 400,000 mangrove seedlings.34
+
+As mangroves are one of the most threatened habitats in the world, concerted and sustained efforts are needed to conduct further research into these hardy intertidal plants as well as to educate and create public awareness of an ecosystem that predates even the human species.
+
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>MANGROVE WOOD FOR CHARCOAL</b>
+<br><br>
+Wood from the Rhizophora apiculata, also known as bakau, makes for goodquality charcoal, which is essentially carbon-rich burnt down wood that is used as a form of fuel. Charcoal is no longer produced in Singapore today but the trade still thrives in parts of Southeast Asia where there are abundant tracts of bakau.35 Matang Mangrove Forest Reserve in Perak, the largest of its kind in Malaysia, for instance, produces sizable quantities of charcoal for export.
+<br><br>
+An interesting pictorial description of Singapore’s charcoal burning industry from yesteryear can be found in the 22 June 1935 edition of The Straits Times (page 20).36 Typically, the harvested bakau stems are cut to size and transported along the river to the charcoal production factory, where they are stripped of their barks and arranged according to size before being placed in a kiln to be incinerated into charcoal.37
+<br><br>
+<img src="/images/Vol-13-issue-1/mangroves/04_mangroves.jpg">At the charcoal production factory, the mangrove stems are stripped of their bark and then arranged according to size. The stripped mangrove stems are then placed in the kiln to be incinerated into charcoal. <i>Photo by J. Yong.</i>
+<br><br>
+Housewives in pre-war Singapore had to make do with charcoal burning stoves. In his book, The Singapore House and Residential Life, 1819–1939, Norman Edwards described these kitchens as “extraordinarily primitive”, consisting of an open stove made of brick with either a stone slab or a concrete top at bench height, with two round holes to place the cooking vessels over burning wood or charcoal underneath. A bundle of approximately 2.5–5 kg of charcoal could last a large family for about two days.38
+<br><br>
+Mr Lim Tiong Sui, who used to run a charcoal business in Singapore, recalls purchasing mangrove wood from the Malay villagers at Chua Chu Kang, Tinggi and the Naval Base areas and supervising the firing of the raw material at his charcoal kiln in Jurong. As the demand for charcoal in Singapore was more than what could be supplied locally, it was also imported from neighbouring countries like Indonesia and Thailand.39
+<br><br>
+In the 1930s, imported charcoal was unloaded at the beach near Singapore Hainan Hwee Kuan (clan association) along Beach Road but in subsequent years, it moved to the wharf at Clyde Terrace, then to Crawford Street and finally to Tanjong Rhu in the late 1950s.40 In 1986, temporary warehouse facilities in Lorong Halus, Singapore’s only charcoal port, were offered to 17 charcoal merchants from Tanjong Rhu, which was affected by the Kallang River clean-up. By 1992, the Lorong Halus port had closed and the charcoal import and export business moved to Pasir Panjang Terminal.41
+<br><br>
+The use of cooking gas and electricity spelt the end of the charcoal industry in Singapore. In 1948, there were more than 50 charcoal dealers in Singapore, including 12 who owned charcoal kilns in Indonesia. By 1988, only half of the dealers remained. No new licences have been issued to charcoal dealers in recent years and the government has stopped offering rental spaces to charcoal factories.</span>
+
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Vol-13-issue-1/mangroves/ang_seow_leng.png">
+	<b>Ang Seow Leng</b> is a Senior Librarian with the National Library, Singapore. Her responsibilities include managing the Singapore & Southeast Asian Collection, developing content as well as providing reference and research services related to Singapore and Southeast Asia.
+</div>
+
+<a href="/vol-13/issue-1/apr-jun-2017/"><center>Back to Issue</center></a>
+
+#### **NOTES**
+
+Mangrove Watch. (2013). Global mangroves: Mangroves – kidneys of the coast. Retrieved from Mangrove Watch website.
+Mangrove Watch. (2013). Mangroves defined. Retrieved from Mangrove Watch website.
+Saenger, P. (2002). Mangrove ecology, silviculture, and conservation (p. 1). Dordrecht; London: Kluwer Academic Publishers. (Call no.: R 577.698 SAE)
+Tomlinson, P.B. (1995). Botany of mangroves (pp. 13, 34). Cambridge: Cambridge University Press. (Call no.: R 583.42 TOM)
+Wise, M. (Compiler). (2013). Travellers’ tales of old Singapore (p. 107). Singapore: Marshall Cavendish Editions. (Call no.: RSING 915.957043 TRA)
+Wise, 2013, p. 165.
+Ng, P.K.L., et. al. (2007). Private lives: An exposé of Singapore’s shores (p. 200). Singapore: Raffles Museum of Biodiversity Research. (Call no.: RSING 578.7699095957 PRI)
+Wetlands International and The Nature Conservance. (2014). Mangroves for coastal defence: Guidelines for coastal managers & policy makers. Retrieved from Wetlands International website; Kinver, M. (2005, December 25). Tsunami: Mangroves ‘saved lives’. BBC News. Retrieved from BBC News website.
+UNEP & WCMC. (2014, December 4). Biodiversity A-Z: Mangrove. Retrieved from Biodiversity A-Z website.
+Boh, S. (2016, January 8). Mangroves play key carbon storage role in S’pore. The Straits Times, Science, p. B12. Retrieved from National University of Singapore News website.
+Ng, P.K.L., Wang, L.K., & Lim, K.K.P. (Eds.). (2008). Private lives: An exposé of Singapore’s mangroves (p. 225). Singapore: Raffles Museum of Biodiversity Research, National University of Singapore. (Call no.: RSING 578.7698095957 PRI)
+Yong, D.L., & Lim, K.C. (2016). A naturalist’s guide to the birds of Singapore (p. 7). Oxford, England: John Beaufoy Publishing. (Call no.: RSING 598.095957 YON)
+National Parks Board. (2014, October 15). Mangroves. Retrieved from National Parks website.
+Things that live in mud. (1983, December 1). The Straits Times, p. 2. Retrieved from NewspaperSG.
+Yang, S., Lim, R.L.F., Cheue, C., & Yong, J.W.H. (2011, October 16). The current status of mangrove forests in Singapore. In Proceedings of Nature Society, Singapore’s conference on ‘Nature conservation for a sustainable Singapore’, p. 100. Retrieved from Nature Society (Singapore) website.
+O’Dempsey, T. (2014). Singapore’s changing landscape since c. 1800 (pp. 17, 46). In T. Bernard (Ed.), Nature contained: environmental histories of Singapore (pp. 17–48). Singapore: NUS Press. (Call no.: RSING 304.2095957 NAT)
+Baker, N., & Lim, K.K.P. (2008). Wild animals of Singapore: A photographic guide to mammals, reptiles, amphibians and freshwater fishes (p. 13). Singapore: Draco Pub. and Distribution: Nature Society (Singapore). (Call no.: RSING 591.95957 WIL)
+Sivasothi, N.A., & Ng, P.K.L. (Eds.). (1999). A guide to the mangroves of Singapore 1: The ecosystem and plant diversity (p. 4). Singapore: Singapore Science Centre. (Call no.: RSING 577.698095957 GUI)
+National Parks Board. (2016). Sungei Buloh Wetland Reserve. Retrieved from National Parks website; Zaccheus, M. (2013, December 8). Sungei Buloh celebrates 20 years. The Straits Times, pp. 18/19. Retrieved from NewspaperSG.
+Yang, Lim, Sheue & Yong, 16 Oct 2011, p. 100.
+Jurong: The good old, bad old days. (1980, February 14). The Straits Times, p. 6. Retrieved from NewspaperSG; Chua, A. (2015). Jurong: Heritage trail (p. 19). Singapore: National Heritage Board. (Call no.: RSING 915.95704 JUR) 
+Kinver, M. (2015, May 12). Sri Lanka first nation to protect all mangrove forests. BBC News. Retrieved from BBC News website.
+Samaraweera outlines Sri Lanka’s commitment to protect oceans. (2016, September 19). Daily Financial Times. Retrieved from Factiva via NLB’s eResources website.
+International Union for Conservation of Nature. (2017). About. Retrieved from the International Union for Conservation of Nature website.
+Ranasinghe, T., & Kallesoe, M. (2006). Valuation, rehabilitation and conservation of mangroves in tsunami affected areas of Hambantota, Sri Lanka: Economic valuation of tsunami affected mangroves. Regional Environmental Economics Programme – Ecosystems and Livelihoods Group, Asia. Retrieved from IUCN website.
+Kinver, M. (2005, December 25). Tsunami: Mangroves ‘saved lives’. BBC News. Retrieved from BBC News website. 
+Tsunami Reconstruction. Tsunami mitigation by mangroves and coastal forests. Retrieved from Food and Agriculture Organization of the United Nations website. For full report, see Forbes, K., & Broadhead, J. (2007). The role of coastal forests in the mitigation of tsunami impacts. Retrieved from the Food and Agriculture Organization of the United Nations website.
+Wells, M. (1951, January 20). In the forests of Singapore island. The Singapore Free Press, p. 7. Retrieved from NewspaperSG.
+Holttum, R.E. (1951, February 15). Fascinating life among the mangroves. The Straits Times, p. 9. Retrieved from NewspaperSG.
+Victory goes to prawns in battle of the Ulu Pandan mangroves. (1957, December 5), The Straits Times, p. 4. Retrieved from NewspaperSG.
+
+Pestana, M. (1983, December 1). Will the swamp survive? The Straits Times, p. 1. Retrieved from NewspaperSG. 
+
+Tan, A. (2016, December 23). ‘Christmas’ wish for Pulau Ubin takes root. The Straits Times, p. 10. Retrieved from NewspaperSG; National Parks Board. (2015, June 16). Updates on The Ubin Project initiatives June 2015. Retrieved from NParks website. 
+
+Khew, C. (2015, October 5). New mangrove arboretum at Sungei Buloh. MyPaper. Retrieved from Factiva via NLB’S eResources website; Ministry of National Development. (2015, November/December). New mangrove arboretum for Sungei Buloh Wetland Reserve. MND Link. Retrieved from Ministry of National Development website.
+
+Ng, et. al, 2007, p. 227.
+
+Ng, Wang & Lim, 2008, p. 221.
+
+Singapore charcoal burning industry. (1935, June 22). The Straits Times, p. 20. Retrieved from NewspaperSG.
+
+Ng, Wang & Lim, 2008, p. 222.
+
+Edwards, N. (1990). The Singapore house and residential life, 1819–1939 (p. 198). Singapore: Oxford University Press. (Call no.: RSING 728.095957 EDW)
+
+Why charcoal is still imported. (1972, September 7). The Straits Times, p. 13. Retrieved from NewspaperSG. 
+
+Lay, J.T. (1992). Charcoal dealer (pp. 1–3). In S.G. Lo-Ang & C.H. Chua (Eds.), Vanishing trades of Singapore. Singapore: Oral History Dept. (Call no.: RSING 338.642095957 VAN)
+
+Charcoal port near Tampines to go, new one offered at Pasir Panjang. (1992, September 23). The Straits Times, p. 20. Retrieved from NewspaperSG. 
