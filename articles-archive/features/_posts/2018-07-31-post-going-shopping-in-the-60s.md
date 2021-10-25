@@ -35,7 +35,7 @@ By the 1950s, both department stores had become landmark shopping icons facing e
 
 These three incumbents were, as Joseph Chopard recalls:
 
-“… the only three European companies selling all the English goods, like everything under the sun: shoes, hats, all imported from England. John Little’s, Robinson’s and Whiteaway’s – all three within that area. There were [sic] no other place selling anything of that sort in Singapore….[^7]
+“… the only three European companies selling all the English goods, like everything under the sun: shoes, hats, all imported from England. John Little’s, Robinson’s and Whiteaway’s – all three within that area. There were [sic] no other place selling anything of that sort in Singapore….”[^7]
 
 It is worth remembering that department stores were a relatively new genre of merchandising then, not just in Singapore, but around the world. Following the advent of industrialised mass production in the West, department stores appeared in the 19th century in cities such as London, Paris, New York and Chicago, targeting middle- and upper-class female shoppers with a cornucopia of clothing and consumer goods, all attractively displayed in a comfortable and appealing setting to entice shoppers.[^8]
 
@@ -43,7 +43,7 @@ In Singapore, these stores were “where all the rich and famous flocked” for 
 
 Both stores are often mentioned by name by oral history interviewees who used to work or live in the area. Victor Chew, whose office was near Raffles Place in the late 1950s and 60s, remembers that Gian Singh started out with sports goods before including textiles, leather goods and carpets too.[^12]
 
-To Richard Tan, who grew up in the 1960s: “Robinson’s has always been the store of all stores. … I still remember my first Monopoly set… it was like gold to get it, to buy it from Robinson’s”.[^13] On the other hand, Hugh Jamieson, who worked near Raffles Place in the late 1940s and 50s, recalls: “Robinson’s was regarded as the most reasonable, the cheapest of the lot. And of course they always had their annual sale”.[^14]
+To Richard Tan, who grew up in the 1960s: “Robinson’s has always been the store of all stores. … I still remember my first Monopoly set… it was like gold to get it, to buy it from Robinson’s.”[^13] On the other hand, Hugh Jamieson, who worked near Raffles Place in the late 1940s and 50s, recalls: “Robinson’s was regarded as the most reasonable, the cheapest of the lot. And of course they always had their annual sale.”[^14]
 
 Indeed, the annual Robinson’s sale is mentioned regularly by oral history interviewees because those were the only times they could afford to shop there. Kathleen Wang and her husband, for example, remember that the Robinson’s sale “is really a sale, cut the price more or less to about fifty percent”.[^15]
 
