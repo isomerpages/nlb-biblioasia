@@ -12,7 +12,7 @@ The National Library, Singapore, has in its collection a number of items relatin
 
 Among the 19th-century British scholar-administrators of the Malay Peninsula, Crawfurd (1783–1868) was one of the most accomplished. He was highly regarded by the scholarly community for his formidable intellect and contributions to the field of ethnology, linguistics and Asian subjects – especially on Southeast Asia.
 
-The Spectator newspaper noted in 1834 that “Crawfurd [was] well known by his writings on Eastern manners and statistics, and his exertions to open the British trade with China and India”.1
+The Spectator newspaper noted in 1834 that “Crawfurd [was] well known by his writings on Eastern manners and statistics, and his exertions to open the British trade with China and India”.[^1]
 
 Crawfurd’s writings on Southeast Asia provided a wealth of information for those with a keen interest in the region, especially merchants, intellectuals, and aspiring imperial civil servants and officials. His body of scholarly work, however flawed and imperfect it may seem from a contemporary perspective, is a major contribution to our understanding of the socio-political and cultural milieu of colonial Malaya.
 
