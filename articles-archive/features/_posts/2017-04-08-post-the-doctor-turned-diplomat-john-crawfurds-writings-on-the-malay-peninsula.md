@@ -188,23 +188,23 @@ It is clear that Crawfurd was no petty intellectual figure of the 19th century. 
 
 [^36]:Crawfurd, J. (1868). On the skin, the hair, and the eyes, as tests of the races of man. Transactions of the Ethnology Society of London, 6, pp. 144–49. Retrieved from Internet Archive website
 
-[^37]:Crawfurd, 1861, On the classification of the races of man, pp. 354, 364.
+[^37]:Crawfurd, 1861, *On the classification of the races of man*, pp. 354, 364.
 
-[^38]:Crawfurd, 1861, On the classification of the races of man, pp. 127, 132.
+[^38]:Crawfurd, 1861, *On the classification of the races of man*, pp. 127, 132.
 
 [^39]:The term “Indian Archipelago” is used by Crawfurd to refer to all countries in Southeast Asia today except Laos, Cambodia, Thailand, Burma and Vietnam.
 
-[^40]:Crawfurd, J. (1856). A descriptive dictionary of the Indian islands & adjacent countries (pp. 295–296). London: Bradbury & Evans. Retrieved from BookSG; Crawfurd, J. (1848). On the Malayan and Polynesian languages. Transactions of the Ethnological Society of London, 1, pp. 330, 333. Retrieved from Internet Archive website; Crawfurd, 1866, On the physical and mental characteristics of the negro, pp. 230, 238.
+[^40]:Crawfurd, J. (1856). *[A descriptive dictionary of the Indian islands & adjacent countries](https://eresources.nlb.gov.sg/printheritage/detail/2f493163-969c-482a-aa4d-982efd9c5e7b.aspx?s=Descriptive%20Dictionary%20of%20the%20Indian%20Archipelago)* (pp. 295–296). London: Bradbury & Evans. Retrieved from BookSG; Crawfurd, J. (1848). On the Malayan and Polynesian languages. *Transactions of the Ethnological Society of London, 1*, pp. 330, 333. Retrieved from Internet Archive website; Crawfurd, 1866, *On the physical and mental characteristics of the negro*, pp. 230, 238.
 
-[^41]:Crawfurd, 1848, On the Malayan and Polynesian languages, pp. 333–334; Crawfurd, 1866, On the physical and mental characteristics of the negro, p. 237.
+[^41]:Crawfurd, 1848, On the Malayan and Polynesian languages, pp. 333–334; Crawfurd, 1866, *On the physical and mental characteristics of the negro*, p. 237.
 
-[^42]:Crawfurd, 1820, History of the Indian Archipelago, vol. II, p. 80; Crawfurd, 1856, A descriptive dictionary of the Indian islands & adjacent countries, p. 207.  
+[^42]:Crawfurd, 1820, *[History of the Indian Archipelago, vol. I](https://eresources.nlb.gov.sg/printheritage/detail/0469b121-f1eb-4958-a97b-d8a2f3a067d1.aspx)*, p. 80; Crawfurd, 1856, *[A descriptive dictionary of the Indian islands & adjacent countries](https://eresources.nlb.gov.sg/printheritage/detail/2f493163-969c-482a-aa4d-982efd9c5e7b.aspx?s=Descriptive%20Dictionary%20of%20the%20Indian%20Archipelago)*, p. 207.  
 
-[^43]:Crawfurd, 1848, On the Malayan and Polynesian Languages, p. 333.
+[^43]:Crawfurd, 1848, *On the Malayan and Polynesian Languages*, p. 333.
 
-[^44]:Crawfurd, 1856, A descriptive dictionary of the Indian islands & adjacent countries, pp. 41, 49–50, 257.
+[^44]:Crawfurd, 1856, *[A descriptive dictionary of the Indian islands & adjacent countries](https://eresources.nlb.gov.sg/printheritage/detail/2f493163-969c-482a-aa4d-982efd9c5e7b.aspx?s=Descriptive%20Dictionary%20of%20the%20Indian%20Archipelago)*, pp. 41, 49–50, 257.
 
-[^45]:Crawfurd, 1856, A descriptive dictionary of the Indian islands & adjacent countries, pp. 41, 49–50, 257.
+[^45]:Crawfurd, 1856, *[A descriptive dictionary of the Indian islands & adjacent countries](https://eresources.nlb.gov.sg/printheritage/detail/2f493163-969c-482a-aa4d-982efd9c5e7b.aspx?s=Descriptive%20Dictionary%20of%20the%20Indian%20Archipelago)*, pp. 41, 49–50, 257.
 
 [^46]:Crawfurd, J. (1967). *[Journal of an embassy to the courts of Siam and Cochin China](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=90035)* (pp. 42–44, 52–55). Kuala Lumpur, London, New York: Oxford University Press. (Call no.: RCLOS 959.3 CRA); Crawfurd, 1856, *[A descriptive dictionary of the Indian islands & adjacent countries](https://eresources.nlb.gov.sg/printheritage/detail/2f493163-969c-482a-aa4d-982efd9c5e7b.aspx?s=Descriptive%20Dictionary%20of%20the%20Indian%20Archipelago)*, p. 250.
 
