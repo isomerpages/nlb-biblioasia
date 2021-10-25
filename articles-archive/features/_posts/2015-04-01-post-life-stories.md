@@ -58,7 +58,7 @@ Age 56
 <br>
 Owns a fish farm in Lim Chu Kang (His ninth farm so far)
 <br><br>
-<img src="/images/vol-11-issue-1/lifestories/DSC06219_Zhang_Kai_She_Vinson_Phua.jpg">
+<img style="width:70%" src="/images/vol-11-issue-1/lifestories/DSC06219_Zhang_Kai_She_Vinson_Phua.jpg">
 Portraits of Teo Khai Seng, who now owns nine fish farms. <i>Courtesy of Vinson Phua.</i>
 </div>
 <br><br>
@@ -80,7 +80,7 @@ From then on, I strove to learn all the words I came across. I started with nove
 <br><br>
 I have been through a lot of difficulties in life, especially challenges in fish farming, but I do not give up easily. I never felt life was hard as I began with nothing. As long as one does not give up easily, one can overcome anything.
 <br><br>
-<img src="/images/vol-11-issue-1/lifestories/DSC06219_Zhang_Kai_She_Vinson_Phua1.jpg">
+<img style="width:70%" src="/images/vol-11-issue-1/lifestories/DSC06219_Zhang_Kai_She_Vinson_Phua1.jpg">
 <i>Courtesy of Vinson Phua.</i></span>
 
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;">
@@ -100,7 +100,7 @@ I can never forget that scene and I have hated them ever since.
 <br><br>
 "It was quite common for such things to happen then. Many families were torn apart, like mine. We drifted from one place to another. "
 <br><br>
-<img src="/images/vol-11-issue-1/lifestories/DSC05937_Zhou_Jiang_Vinson_Phua.jpg">
+<img style="width:70%" src="/images/vol-11-issue-1/lifestories/DSC05937_Zhou_Jiang_Vinson_Phua.jpg">
 	Portrait of Chew Chiang Tong. <i>Courtesy of Vinson Phua</i>.
 </div>
 <br><br>
@@ -114,7 +114,7 @@ I learnt to operate a crane while working at a shipyard in Jurong. I was soon pr
 <br><br>
 I retired in 2000 and nowadays I volunteer twice a week at the Resident Committee's karaoke as a karaoke jockey; I love to sing. I also help the folks at the elderly centre nearby with their outings. I even jog for 30 minutes with my wife every morning to keep fit! Although you may think I’ve had a hard life, I’ve never dwelled on the past. It’s best just to live life to the fullest. You only live once right?
 <br><br>
-<img src="/images/vol-11-issue-1/lifestories/DSC05937_Zhou_Jiang_Vinson_Phua1.jpg">
+<img style="width:70%" src="/images/vol-11-issue-1/lifestories/DSC05937_Zhou_Jiang_Vinson_Phua1.jpg">
 <i>Courtesy of Vinson Phua</i>.</span>
 
 <p style="font-size:15px;"><b>Georgina Wong</b> is an Associate with the Exhibitions and Curation department at the National Library of Singapore. She is the curator of the exhibition “Greatest Gift of a Generation: Life Stories” – to be launched at the Woodlands Regional Library in late May 2015.</p>
