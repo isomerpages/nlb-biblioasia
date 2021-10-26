@@ -122,28 +122,28 @@ Singapore’s wartime survivors will not be around forever, but their voices wil
 
 [^12]:Fall of Singapore remembered in exhibition. (1985, February 3). Singapore Monitor, p. 4; Sam, J. (1985, January 13). Under the ‘occupation’. Singapore Monitor, p. 4. Retrieved from NewspaperSG.
 
-[^13]:Hoe, I. (1985, February 16). Timely reminder of hard times 40 years ago. The Straits Times, p. 8. Retrieved from NewspaperSG.
+[^13]:Hoe, I. (1985, February 16). [Timely reminder of hard times 40 years ago](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850216-1.2.87.14.3). *The Straits Times*, p. 8. Retrieved from NewspaperSG.
 
-[^14]:Sam, J. (1984, September 16). Japanese Occupation photos and artifacts to go on show. Singapore Monitor, p. 4. Retrieved from NewspaperSG. 
+[^14]:Sam, J. (1984, September 16). [Japanese Occupation photos and artifacts to go on show](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19840916-1.2.7.13). *Singapore Monitor*, p. 4. Retrieved from NewspaperSG. 
 
 [^15]:This figure comprises two wartime oral history projects – Japanese Occupation of Singapore and Prisoners of War. Interviews conducted for other projects may also contain some information about wartime experiences.
 
-[^16]:Morrison, J. H. (1994). Japanese Occupation of Singapore: Oral sources. Canadian Oral History Association Journal, 14, 92–95. (Not available in NLB holdings)
+[^16]:Morrison, J. H. (1994). Japanese Occupation of Singapore: Oral sources. *Canadian Oral History Association Journal, 14*, 92–95. (Not available in NLB holdings)
 
-[^17]:Low, L.L. (Interviewer). (1984, January 26). Oral history interview with De Souza, Mabel (Mrs) @ Mabel Ottzen [Transcript of cassette recording no. 000393/04/01]. Retrieved from National Archives of Singapore website.
+[^17]:Low, L.L. (Interviewer). (1984, January 26). *[Oral history interview with De Souza, Mabel (Mrs) @ Mabel Ottzen](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e692fa10-115d-11e3-83d5-0050568939ad-OHC000393_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=7)* [Transcript of cassette recording no. 000393/04/01]. Retrieved from National Archives of Singapore website.
 
-[^18]:Eaton, C.K. (2017, February 2). Email correspondence with author. Eaton contributed a vignette based on the OHC’s interview of Mabel de Souza. See Chandler, D.P., Cribb, R., & Li, N. (Eds.). (2016). End of empire. 100 days in 1945 that changed Asia and the world (pp. 130–131). Copenhagen: NIAS Press. (Call no.: RSEA 303.4825052 END); Eaton, C. (n.d.). Mabel’s life goes on. Retrieved from End of Empire website.
+[^18]:Eaton, C.K. (2017, February 2). Email correspondence with author. Eaton contributed a vignette based on the OHC’s interview of Mabel de Souza. See Chandler, D.P., Cribb, R., & Li, N. (Eds.). (2016). *[End of empire. 100 days in 1945 that changed Asia and the world](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202486031)* (pp. 130–131). Copenhagen: NIAS Press. (Call no.: RSEA 303.4825052 END); Eaton, C. (n.d.). Mabel’s life goes on. Retrieved from End of Empire website.
 
-[^19]:Foong C.H. (Ed.). (1997). The price of peace: True accounts of the Japanese Occupation. Singapore: Asiapac. (Call no.: RSING 959.57 PRI)
+[^19]:Foong C.H. (Ed.). (1997). *[The price of peace: True accounts of the Japanese Occupation](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=8468498)*. Singapore: Asiapac. (Call no.: RSING 959.57 PRI)
 
-[^20]:Ong, S.F. (1997, June 21). Compelling stories of survival. The Straits Times, p. 26. Retrieved from NewspaperSG.
+[^20]:Ong, S.F. (1997, June 21). [Compelling stories of survival](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19970621-1.2.89.8.7.1). *The Straits Times*, p. 26. Retrieved from NewspaperSG.
 
-[^21]:Tan, B.L. (Interviewer). (1984, October 24). Oral history interview with Neoh Teik Hong [Transcript of MP3 recording no. 000107/04/01, pp. 7–8]. Retrieved from National Archives of Singapore website.
+[^21]:Tan, B.L. (Interviewer). (1984, October 24). *[Oral history interview with Neoh Teik Hong](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e0e8fc0f-115d-11e3-83d5-0050568939ad-OHC000107_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=11)* [Transcript of MP3 recording no. 000107/04/01, pp. 7–8]. Retrieved from National Archives of Singapore website.
 
-[^22]:Wong, M.W.W. (Interviewer). (2010, April 20). Oral history interview with Foong Fook Kay (Major) (Retired) [MP3 recording no. 003506/07/01]. Retrieved from National Archives of Singapore website 
+[^22]:Wong, M.W.W. (Interviewer). (2010, April 20). *[Oral history interview with Foong Fook Kay (Major)](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/c3ca19b3-1161-11e3-83d5-0050568939ad?keywords=Foong%20Fook%20Kay&keywords-type=all)* (Retired) [MP3 recording no. 003506/07/01]. Retrieved from National Archives of Singapore website 
 
-[^23]:Tan, B.L. (Interviewer). (1985, September 5). Oral history interview with Ismail bin Zain [Transcript of MP3 recording no. 000601/05/02, p. 23]. Retrieved from National Archives of Singapore website. 
+[^23]:Tan, B.L. (Interviewer). (1985, September 5). *[Oral history interview with Ismail bin Zain](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/f/f6367b5a-115d-11e3-83d5-0050568939ad-OHC000601_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=11)* [Transcript of MP3 recording no. 000601/05/02, p. 23]. Retrieved from National Archives of Singapore website. 
 
-[^24]:Chua, J.C.H. (Interviewer). (1994, February 23). Oral history interview with Paul Abisheganaden @ Paul Selvaraj Abisheganaden [Transcript of MP3 recording no. 001415/48/13, pp. 166–168]. Retrieved from National Archives of Singapore website.
+[^24]:Chua, J.C.H. (Interviewer). (1994, February 23). *[Oral history interview with Paul Abisheganaden @ Paul Selvaraj Abisheganaden](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/2/2956b281-115e-11e3-83d5-0050568939ad-OHC001415_013/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=1)* [Transcript of MP3 recording no. 001415/48/13, pp. 166–168]. Retrieved from National Archives of Singapore website.
 
-[^25]:Mohd Yussoff Ahmad (Interviewer). (1982, October 30). Oral history interview with Mahmud Awang [Transcript of MP3 recording no. 000224/32/06, pp. 53–54]. Retrieved from National Archives of Singapore website.
+[^25]:Mohd Yussoff Ahmad (Interviewer). (1982, October 30). *[Oral history interview with Mahmud Awang](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/1/1aac8525-1160-11e3-83d5-0050568939ad-OHC000224_006/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=7)* [Transcript of MP3 recording no. 000224/32/06, pp. 53–54]. Retrieved from National Archives of Singapore website.
