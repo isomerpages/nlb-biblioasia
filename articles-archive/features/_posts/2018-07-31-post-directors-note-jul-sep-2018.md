@@ -10,11 +10,11 @@ layout: post
 
 What was the act of shopping like for Singaporeans in the 1960s? For one thing, people didn’t “hang out” at shopping malls like they do today. [Yu-Mei Balasingamchow](/vol-14/issue-2/jul-sep-2018/going-shopping-in60s/) takes a walk down Raffles Place, High Street and North Bridge Road – where she relives the halcyon days of department stores such as Whiteaways and John Little, standalone shops the likes of Chotirmall and Bajaj Textiles, and the slightly seedy but fascinating warren of Change Alley.
 
-In this wide-ranging issue, we take you back to Victorian England where two women with guts and gumption – Harriette McDougall and Anna Brassey – ventured to remote parts of the world with their families in tow, and penned books about their adventures along the way. Bonny Tan compares her own experiences in adapting to life in a foreign land with these two women’s.
+In this wide-ranging issue, we take you back to Victorian England where two women with guts and gumption – Harriette McDougall and Anna Brassey – ventured to remote parts of the world with their families in tow, and penned books about their adventures along the way. [Bonny Tan](/vol-14/issue-2/jul-sep-2018/globetrotting-mum-nw/) compares her own experiences in adapting to life in a foreign land with these two women’s.
 
 Between the 1940s and 60s, Malay men from Southeast Asia worked as seafarers on British-owned ships. [Tim Bunnell](/vol-14/issue-2/jul-sep-2018/malay-seafarer-in-lp/) speaks to former sailors who settled in the English city of Liverpool to find out how they managed to sustain their Malay identity miles away from home.
 
-Returning closer to home, and the subject of saltwater crocodiles, Kate Pocklington and Siddharta Perez document human encounters with these formidable reptiles in our history. At various times crocodiles have elicited fear or respect – and the occasional indifference – among people who’ve crossed their paths.
+Returning closer to home, and the subject of saltwater crocodiles, [Kate Pocklington and Siddharta Perez](/vol-14/issue-2/jul-sep-2018/revulsion-n-reverenc/) document human encounters with these formidable reptiles in our history. At various times crocodiles have elicited fear or respect – and the occasional indifference – among people who’ve crossed their paths.
 
 Before the 1970s, the Seven Sisters Festival, which commemorates the legend of the Weaver Girl and Cowherd, was widely celebrated in Chinatown. [Tan Chui Hua](/vol-14/issue-2/jul-sep-2018/search-of-seven-sis/) uses oral history interviews with former Chinatown residents to paint a fascinating picture of this long forgotten celebration popular with the *amah* community.
 
