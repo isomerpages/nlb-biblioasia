@@ -38,7 +38,7 @@ In 1907, the colonial government acquired the temple land for a road widening pr
 
 The construction took almost five years between 1908 and 1913, and cost 56,000 Straits dollars.[^13] In addition to its role as a place of worship, Hong San See Temple also addressed the demand for education by establishing Nan Ming School (南明学校) on the temple grounds in 1914. The school operated for 10 years until dwindling enrolment led to its closure.
 
-<img style="width: 500px; height: 300px;" src="/images/Vol-14-issue-2/preserving-nanan-history-in-sg/Preserving4.JPG">
+<img style="width: 500px; height: 350px;" src="/images/Vol-14-issue-2/preserving-nanan-history-in-sg/Preserving4.JPG">
 <div style="background-color: white;"> A close-up of the roof of Hong San See Temple with dragon ornaments made of cut porcelain (剪瓷雕). <i>Little Red Dot Collection. All rights reserved, National Library Board, 2010.</i></div>
 
 One of the earliest descriptions of the temple at Mohamed Sultan Road can be found in the 1951 book, 新加坡庙宇概览 (*An Overview of the Temples in Singapore*), in which the author describes the picturesque sea view and surrounding houses. From the temple, one could see Fort Canning and Mount Faber, making it Singapore’s only temple with a panoramic view at the time.[^14]
