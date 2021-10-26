@@ -144,6 +144,7 @@ The scenes were shot at the Botanic Gardens in Singapore and the interiors of 58
 By 7pm on the day of the test screening, more than 100 people were already waiting in line for the free tickets that were given out at the entrance of Victoria Theatre and by the time the film started, the 500-seat theatre was full. The black-and-white silent film totalled nine reels and was accompanied by both Chinese and English subtitles.
 <br><br>
 <i>Xin Ke</i> is unique because many local films produced thereafter were in Malay. It wasn’t until almost two decades later in July 1946 that a major production in Chinese made its appearance in Singapore with the release of <i>Blood and Tears of Overseas Chinese</i> (华侨 血泪) by China Film Studio. Soon after its premier in Singapore, <i>Xin Ke</i> was released in Hong Kong as <i>Tang Shan Lai Ke</i> (唐山來客). <i>Xin Ke</i> was the only film that Liu released, and unfortunately the original reels are no longer extant.
+<br><br>
 <b>Leila Majnun</b>
 <br><br>
 <i>Leila Majnun</i> (1934) is the first Malay language feature film produced in Singapore. The film is a tragedy in the vein of Shakespeare’s <i>Romeo and Juliet</i> with elements of the Arabian <i>One Thousand and One Nights</i>. The plot centres on two lovers, Leila and Majnun, whose love is forbidden due to social conventions. Majnun is driven to despair and madness, thus living up to his name Majnun, which means “madness” in Arabic.
