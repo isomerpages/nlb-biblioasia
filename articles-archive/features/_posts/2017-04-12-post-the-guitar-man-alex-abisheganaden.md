@@ -32,7 +32,7 @@ After World War II, Abisheganaden completed his Senior Cambridge examination and
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>ON HIS PASSION FOR TEACHING</b>
 <br><br>
-“Imparting knowledge, having rapport with people is a great kind of blessing, I would say. It is a great thing… because I have been able to help a number of people along the way through life. And it seems to me that this has been my great commitment which I was destined to do. I had been able to touch people’s lives, help them through and see them progress”.[^1]</span>
+“Imparting knowledge, having rapport with people is a great kind of blessing, I would say. It is a great thing… because I have been able to help a number of people along the way through life. And it seems to me that this has been my great commitment which I was destined to do. I had been able to touch people’s lives, help them through and see them progress.”[^1]</span>
 
 #### **Family Life**
 
