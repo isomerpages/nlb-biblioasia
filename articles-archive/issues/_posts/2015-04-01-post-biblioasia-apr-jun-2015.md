@@ -4,7 +4,7 @@ date: 2015-04-01
 permalink: /vol-11/issue-1/apr-jun-2015/
 layout: post
 ---
-<img src="/images/vol-11-issue-1/background/cover.jpg">
+<img style="width:40%" src="/images/vol-11-issue-1/background/Cover5_dark.jpg">
 
 [<b>Director's Note</b>](/vol-11/issue-1/apr-jun-2015/director-note)
 
@@ -17,7 +17,7 @@ layout: post
 [<b>The Golden Age of Malay Cinema: 1947–1972</b>](/vol-11/issue-1/apr-jun-2015/ga-malay-cinema)<br>Few people are aware that Singapore was once the hub for Malay filmmaking in Southeast Asia. *Nor Afidah Bte Abd Rahman* and *Michelle Heng* recount its fabled history.
 
 
-[<b>Spies, Virgins, Pimps and Hitmen: Singapore Through the Western Lens</b>](/vol-11/issue-1/apr-jun-2015/svph)<br>Singapore Through the Western Lens Western filmmakers have always had a fascination for Singapore. *Ben Slater* tells you why.
+[<b>Spies, Virgins, Pimps and Hitmen: Singapore Through the Western Lens</b>](/vol-11/issue-1/apr-jun-2015/svph)<br>Western filmmakers have always had a fascination for Singapore. *Ben Slater* tells you why.
 
 
 [<b>The Revival of Singapore Cinema: 1995–2014</b>](/vol-11/issue-1/apr-jun-2015/revival-sg-cinema)<br>Singapore’s film industry gets a reboot as it enters a new phase of its development. *Raphaël Millet* explains how this resurgence came about.
@@ -33,6 +33,6 @@ layout: post
 
 [<b>Searching for Singapore in Old Maps and Sea Charts</b>](/vol-11/issue-1/apr-jun-2015/search-sg-old-map)<br>*Kwa Chong Guan* dissects the history of maps, and tells us how Singapore was perceived and located in early modern European maps of the region.
 
-[<b>From The Director's Chair</b>](/vol-11/issue-1/apr-jun-2015/director-chair)<br>In candid, off-the-cuff conversations, four young auteurs talk about their upcoming works for the Singapore Memory Project film festival.
+[<b>From the Director's Chair</b>](/vol-11/issue-1/apr-jun-2015/director-chair)<br>In candid, off-the-cuff conversations, four young auteurs talk about their upcoming works for the Singapore Memory Project film festival.
 
 [<b>Life Stories</b>](/vol-11/issue-1/apr-jun-2015/life-stories)<br>The Singapore Memory Project launches a new exhibition to honour our pioneer generation at Woodlands Regional Library.

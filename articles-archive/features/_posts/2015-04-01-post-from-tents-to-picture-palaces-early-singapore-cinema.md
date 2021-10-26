@@ -20,9 +20,9 @@ Singapore’s first public film screening is often mistakenly attributed to Basr
 
 #### **The First Film Experiences**
 
-When the cinema age descended on Singapore at the turn of the 19th century, its evening entertainment offerings were already varied. Europeans, dressed to the nines would head off for lavish dinner parties that continued until past 9pm.[^3] They would then either play a round of cards or proceed to a theatrical performance that stretched late into the night. Locals, on the other hand, would gather in open-air spaces to watch Chinese opera, <i>Javanese wayang kulit</i> (shadow puppetry), or sit in rapt attention to <i>bangsawan</i>, a dance, music and drama performance that drew from the cultural heritage of the Arabs and adapted European tales into the local Malay language.[^4]
+When the cinema age descended on Singapore at the turn of the 19th century, its evening entertainment offerings were already varied. Europeans, dressed to the nines would head off for lavish dinner parties that continued past 9 pm.[^3] They would then either play a round of cards or proceed to a theatrical performance that stretched late into the night. Locals, on the other hand, would gather in open-air spaces to watch Chinese opera, <i>Javanese wayang kulit</i> (shadow puppetry), or sit in rapt attention to <i>bangsawan</i>, a dance, music and drama performance that drew from the cultural heritage of the Arabs and adapted European tales into the local Malay language.[^4]
 
-The predecessor to the modern cinema was the Magic Lantern where images were projected and manipulated, either to tell a story or create an effect on stage. One of the earliest of such shows in Singapore was a phantasmagoria – which projected images of ghosts, spirits and other scary apparitions at the Theatre Royal by a Monsieur George in 1846.[^5] By the 1880s, Magic Lantern shows were regularly screened as entertainment for military families,[^6] in local churches for religious edification[^7] and in schools for education.[^8] 
+The predecessor of modern cinema was the Magic Lantern where images were projected and manipulated, either to tell a story or create an effect on stage. One of the earliest of such shows in Singapore was a phantasmagoria – which projected images of ghosts, spirits and other scary apparitions at the Theatre Royal by a Monsieur George in 1846.[^5] By the 1880s, Magic Lantern shows were regularly screened as entertainment for military families,[^6] in local churches for religious edification[^7] and in schools for education.[^8] 
 
 In 1896, the first experience of an animated image using American technology – the Kinetoscope – was brought to Singapore by Dr Harley, an illusionist. The Kinetoscope was a standing box where patrons, one at a time, could watch scenes ranging from dances to cock fights through a peephole viewer at the top of the box. Images were captured on celluloid and quickly run through a series of wheels by an electric motor, aided by an electric lamp shining through it, thus giving the impression of animation. Several Kinetoscope boxes were exhibited for several days in July 1896 at Messrs. Robinson’s music store for a limited number of people.[^9]
 
@@ -32,19 +32,19 @@ Meanwhile, new cinematographic inventions came fast and furious from the laborat
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-11-issue-1/earlysgcinema/Kinetophonebis.jpg">
+<img style="width:70%" src="/images/vol-11-issue-1/earlysgcinema/Kinetophonebis.jpg">
 A man watching a scene using the Kinetoscope. <i>Via Wikimedia Commons</i>.
 </div>
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-11-issue-1/earlysgcinema/serpentineDance.jpg">
+<img style="width:70%" src="/images/vol-11-issue-1/earlysgcinema/serpentineDance1.jpg">
 <i>The Serpentine Dance</i>, a form of burlesque, was one of the first vignettes screened at the Aldephi Hall in 1897. © The Serpentine Dance. <i>Directed by Louis Lumiere, produced by Lumiere. France, 1897</i>.
 </div>
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-11-issue-1/earlysgcinema/the-lumiere-brothers-louis-jean-lumiere-auguste-lumiere.jpg">
+<img style="width:70%" src="/images/vol-11-issue-1/earlysgcinema/the-lumiere-brothers-louis-jean-lumiere-auguste-lumiere.jpg">
 Frenchmen August and Louis Lumiere were one of the first filmmakers in history. Via <i>pixgood.com</i>. 
 </div>
 
@@ -58,7 +58,7 @@ Using tents gave flexibility to these set-ups as extra seats, for example, could
 
 Existing stage halls and music rooms also served as prime locations for screenings. These included the Adelphi Hall, which was part of the Adelphi Hotel at Coleman Street, and the Town Hall at Empress Place (which was later rebuilt as Victoria Theatre and Concert Hall). Some of the earliest movies were screened at these venues. In 1897, daily screenings at the Adelphi Hall included vignettes such as <i>The Charge of Lancers, The Serpentine Dance</i> and <i>Li Hung-Chang in Paris</i>, with admission costing 50 cents for back-row seats and $1 for front seats.[^20] 
 
-Some hotels, in fact, modified their structures to allow for the screening of movies, such as the Raffles Hotel, which in June 1908 converted its Billiard Hall to a Music Hall to screen films by Edison Studios, a film production company founded by the inventor Thomas Edison.[^21] These sophisticated locations charged higher entrance fees and invariably attracted the upper echelons of society. In 1908, the Raffles Hotel immediately raised its ticket price to $2 after the success of their first screening – Ben Hur.[^22] 
+Some hotels, in fact, modified their structures to allow for the screening of movies, such as the Raffles Hotel, which in June 1908 converted its Billiard Hall to a Music Hall to screen films by Edison Studios, a film production company founded by the inventor Thomas Edison.[^21] These sophisticated locations charged higher entrance fees and invariably attracted the upper echelons of society. In 1908, the Raffles Hotel immediately raised its ticket price to $2 after the success of their first screening – *Ben Hur*.[^22] 
 
 In its earliest years, the business of cinematography was tenuous and the management of these tents and halls frequently changed hands. However, as cinema’s popularity – and financial returns – grew, the tents soon gave way to simple constructed halls and, subsequently, to more elaborately designed “picture palaces”. French entrepreneur Paul Picard, with support from jewellers Levy Hermanos, is often credited for opening the first enclosed cinema in Singapore in 1904, the Paris Cinematograph, which occupied a section rented from the Malay Theatre on Victoria Street.[^23] Other larger cinema halls soon sprouted, including the Alhambra (1907) and Marlborough (1909) along Beach Road and the Palladium (1914) on Orchard Road.[^24]
 
@@ -95,67 +95,67 @@ By 1907, film distribution had moved from the hands of itinerant businessmen imp
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-11-issue-1/earlysgcinema/Road_To_Singapore_1931_re.jpg">
-The Road to Singapore (1931) is a romantic drama starring William Powell and Doris Kenyou. © The Road to Singapore. <i>Directed by Alfred E. Green, produced and distributed by Warner Bros. United States, 1931. Courtesy of Wong Han Min</i>.
+<i>The Road to Singapore</i> (1931) is a romantic drama starring William Powell and Doris Kenyou. © The Road to Singapore. <i>Directed by Alfred E. Green, produced and distributed by Warner Bros. United States, 1931. Courtesy of Wong Han Min</i>.
 </div>
 	
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-11-issue-1/earlysgcinema/A_Day_At_Singapore_re.jpg">
-A Day at Singapore, featured short snippets of life in Singapore. © A Day at Singapore. Directed by George Méliès, 1913.
+<i>A Day at Singapore</i> featured short snippets of life in Singapore. © A Day at Singapore. Directed by George Méliès, 1913.
 </div>
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-11-issue-1/earlysgcinema/George_Melies_re.jpg">
+<img style="width:70%" src="/images/vol-11-issue-1/earlysgcinema/George_Melies_re.jpg">
 George Méliès (1861–1938) was a French illusionist and filmmaker. <i>Via Wikimedia Commons</i>.
 </div>
 
-News documentaries became a regular feature in the cinemas when <i>The Animated Gazette</i>, produced by Pathé Freres, was broadcast weekly at the Alhambra in 1910.[^36] Singapore’s port and seascapes were often filmed, sometimes as standalone featurettes, like the 1910 Pathé film, Singapore, or as short vignettes, such as <i>A Day at Singapore</i> by Georges Méliès, which showcased “a most interesting little trip...to see one of the largest seaports in the world”.[^37] Méliès was world renowned for his fantastical movies using special effects such as <i>A Trip to the Moon</i> (1902) and <i>The Impossible Voyage</i> (1904). His film on Singapore was made during his travels through the South Pacific and Asia between 1912 and 1913. It is uncertain if these short films were ever screened in Singapore, though they were certainly shown in other countries. 
+News documentaries became a regular feature in the cinemas when <i>The Animated Gazette</i>, produced by Pathé Freres, was broadcast weekly at the Alhambra in 1910.[^36] Singapore’s port and seascapes were often filmed, sometimes as standalone featurettes, like the 1910 Pathé film, <i>Singapore</i>, or as short vignettes, such as <i>A Day at Singapore</i> by Georges Méliès, which showcased “a most interesting little trip...to see one of the largest seaports in the world”.[^37] Méliès was world renowned for his fantastical movies using special effects such as <i>A Trip to the Moon</i> (1902) and <i>The Impossible Voyage</i> (1904). His film on Singapore was made during his travels through the South Pacific and Asia between 1912 and 1913. It is uncertain if these short films were ever screened in Singapore, though they were certainly shown in other countries. 
 
 While narrative films featuring Singapore came out of then-budding Hollywood soon after, they were often only Singaporean in name; these films were not shot on location in Singapore, and worse, rarely featured Asian actors. These include MGM’s <i>Across to Singapore</i> (1928) starring Joan Crawford and Ramon Novarro, <i>Sal of Singapore</i> (1928) produced by Howard Higgin, <i>The Crimson City</i> (1928, also known as <i>La Schiava di Singapore</i>) starring Myrna Loy and Anna May Wong, <i>The Road to Singapore</i> (1931) shot by Alfred E. Green, and between 1923 and 1933, <i>Out of Singapore</i> directed by Charles Hutchinson and <i>Malay Nights</i> (also known as <i>Shadows of Singapore</i>).[^38] 
 
-The 1933 film <i>Samarang</i> (see text box overleaf), styled as a pseudo-documentary (only to allow some nudity), is likely the earliest Hollywood feature film to be shot in Singapore. However, it was the Singapore-made vernacular films <i>Xin Ke</i> ( 新客, <i>The Immigrant</i>, 1927) and <i>Leila Majnun</i> (1934) that made a bigger impact on the local film scene. These productions were produced by Asians, featured an Asian cast and carried authentic storylines. These films made set the scene for the flourishing of the Malayan film industry in the 1950s.
+The 1933 film <i>Samarang</i>, styled as a pseudo-documentary (only to allow some nudity), is likely the earliest Hollywood feature film to be shot in Singapore. However, it was the Singapore-made vernacular films <i>Xin Ke</i> ( 新客, <i>The Immigrant</i>, 1927) and <i>Leila Majnun</i> (1934) that made a bigger impact on the local film scene. These productions were produced by Asians, featured an Asian cast and carried authentic storylines. These films made set the scene for the flourishing of the Malayan film industry in the 1950s.
 
-|**The First Made-in-Singapore Films**|
-
-|**Samarang**|
-
-|Released in 1933 and shot off the coast of Katong in 1932, <i>Samarang</i> (also known as <i>Semarang, Out of the Sea and Shark Woman</i>) is probably Hollywood’s first production to be filmed entirely in Singapore. <i>Samarang</i> recounts the romance between a pearl fisherman and a local chieftan’s daughter with cannibals, sharks and a python thrown in for good measure. It was produced by United Artists and B.F. Zeidman, directed by Ward Wing and written by Lori Bara.[^39]|
-
-|<i>Samarang</i> is the first Hollywood film about Singapore where the lead actors were locals, with Capt. A.V. Cockle playing the role of Ahmang, the North Bornean Dayak hero, and Theresa Seth as Sai-Yu, the Chinese beauty. Although both actors lived in Singapore, they were not of Asian descent – Cockle, from Britain, was an Inspector of Police based here and Seth was the daughter of an Armenian businessman who had settled in Singapore.[^40] The leads were obviously chosen for their telegenic looks: Cockle had the brawny physique of a swimmer and Seth was a beauty pageant contestant. Several locals, many of whom were experienced <i>bangsawan</i> actors, undertook bit parts while much of the kampong scenes featured its own local residents.[^41]|
-
-|<i>Samarang</i> was screened in the US in 1933 to rave reviews. The film’s popularity might have been due to its novelty but also possibly because Sai-Yu is topless for most of the second half of the film. It was first screened at the Alhambra in September 1933 and later at the Marlborough in 1934, where it was hailed as Singapore’s first talkie[^42] – although reviewers noted that it was “virtually a silent film except for a synchronized music score and occasional choral singing. The action (was) explained by subtitles, and although there (were) melodramatic episodes, they (were) for the most part set forth with… little skill.”[^43]|
-
-|<img  src="/images/vol-11-issue-1/earlysgcinema/samarang_1933_re.jpg">Poster of Samarang. © Samarang. Directed by Ward Wing, produced by United Artists and B.F. Zeidman, distributed by United Artists. United States, 1933. <i>Courtesy of Wong Han Min.</i>|
-
-|<img  src="/images/vol-11-issue-1/earlysgcinema/leilaMajnun_re.jpg">Advertisements for the opening of Leila Majnun (1934). © Singapore Press Holdings. All rights reserved. <i>The Straits Times.</i>|
-	
-
-|**Xin Ke (新客, The New Immigrant)**|
-
-|Produced by Liu Beijin, 新客 (<i>Xin Ke</i>; The New Immigrant, 1927) is believed to be the first Chinese feature film that was completely shot in Singapore and Malaya. Of Fujian origins, Liu (1902–1959) was born in Singapore but grew up in Muar, Johor. Although inspired by the booming Shanghainese movie industry, he felt slighted as an overseas Chinese when he visited China in December 1925.| 
-
-|When Liu returned home three months later, he was inspired to produce <i>Xin Ke</i>, a melodrama about a newly arrived Chinese in Singapore, in part to convey the social struggles and issues facing the immigrant Chinese. Liu also hoped to revive an interest in Chinese culture among the Chinese community in Singapore, while depicting the life of an overseas Chinese to the Chinese in China.| 
-
-|Working from a rented house at 58 Meyer Road that served as a studio, staff dormitory and film processing room, Liu purchased French-made cinematographic equipment and auditioned more than 100 prospective actors for his film.| 
-
-|The scenes were shot at the Botanic Gardens in Singapore and the interiors of 58 Meyer Road, as well as across the causeway on rubber plantations and at the Sultan of Johor’s palace. Production ended in February 1927 and in the following month, the film had its test screening at Victoria Theatre.| 
-
-|By 7pm on the day of the test screening, more than 100 people were already waiting in line for the free tickets that were given out at the entrance of Victoria Theatre and by the time the film started, the 500-seat theatre was full. The black-and-white silent film totalled nine reels and was accompanied by both Chinese and English subtitles.| 
-
-|<i>Xin Ke</i> is unique because many local films produced thereafter were in Malay. It wasn’t until almost two decades later in July 1946 that a major production in Chinese made its appearance in Singapore with the release of <i>Blood and Tears of Overseas Chinese</i> (华侨 血泪) by China Film Studio. Soon after its premier in Singapore, <i>Xin Ke</i> was released in Hong Kong as <i>Tang Shan Lai Ke</i> (唐山來客). <i>Xin Ke</i> was the only film that Liu released, but unfortunately the original reels are no longer extant.| 
-
-|**Leila Majnun**| 
-
-|<i>Leila Majnun</i> (1934) is the first Malay language feature film produced in Singapore. The film is a tragedy in the vein of Shakespeare’s <i>Romeo and Juliet</i> with elements of the Arabian <i>One Thousand and One Nights</i>. The plot centres on two lovers, Leila and Majnun, whose love is forbidden due to social conventions. Majnun is driven to despair and madness, thus living up to his name Majnun, which means “madness” in Arabic.| 
-
-|In the 1930s, Rai Bahadur Seth Hurdutroy Motilal Chamria of Calcutta began distributing made-in-India films in Singapore. In 1932, his Urdu version of <i>Leila Majnun</i> met with such success in Bombay that he was inspired to produce a Singapore version. Bardar Singh Rajhans, who had already produced two films in India, moved from Calcutta to Singapore to direct the film, which cost $5,000 to produce. After the war, Rajhans continued to shape the local Malay film industry by directing several other significant films.| 
-
-|The role of Leila was played by popular local star Fatima binti Jasman, a singer with HMV Records, while Syed Ali bin Mansoor, a well-known <i>bangsawan</i> stage actor acted as Majnun.| 
-
-|The film’s gala opening was held on March 1934 at the Marlborough. The dialogue was in classical Malay and the film was much praised although there were criticisms over the technical quality of the pictures. In 1962, B. N. Rao, by then an established director, remade this movie as Laila Majnun.|
-
-|<i>The full citations for</i> Xin Ke <i>and</i> Leila Majnun <i>can be found on</i> *[HistorySG](http://eresources.nlb.gov.sg/history)*|
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> 
+<b>THE FIRST MADE-IN-SINGAPORE FILMS</b>
+<br><br>
+<b>Samarang</b>
+<br><br>
+Released in 1933 and shot off the coast of Katong in 1932, <i>Samarang</i> (also known as <i>Semarang, Out of the Sea</i> and <i>Shark Woman</i>) is probably Hollywood’s first production to be filmed entirely in Singapore. <i>Samarang</i> recounts the romance between a pearl fisherman and a local chieftan’s daughter with cannibals, sharks and a python thrown in for good measure. It was produced by United Artists and B.F. Zeidman, directed by Ward Wing and written by Lori Bara.[^39]
+<br><br>
+<i>Samarang</i> is the first Hollywood film about Singapore where the lead actors were locals, with Capt. A.V. Cockle playing the role of Ahmang, the North Bornean Dayak hero, and Theresa Seth as Sai-Yu, the Chinese beauty. Although both actors lived in Singapore, they were not of Asian descent – Cockle, from Britain, was an Inspector of Police based here and Seth was the daughter of an Armenian businessman who had settled in Singapore.[^40] The leads were obviously chosen for their telegenic looks: Cockle had the brawny physique of a swimmer and Seth was a beauty pageant contestant. Several locals, many of whom were experienced <i>bangsawan</i> actors, undertook bit parts while much of the kampong scenes featured its own local residents.[^41]
+<br><br>
+<i>Samarang</i> was screened in the US in 1933 to rave reviews. The film’s popularity might have been due to its novelty but also possibly because Sai-Yu is topless for most of the second half of the film. It was first screened at the Alhambra in September 1933 and later at the Marlborough in 1934, where it was hailed as Singapore’s first talkie[^42] – although reviewers noted that it was “virtually a silent film except for a synchronized music score and occasional choral singing. The action (was) explained by subtitles, and although there (were) melodramatic episodes, they (were) for the most part set forth with… little skill.”[^43]
+<br><br>
+<img style="width: 70%;"  src="/images/vol-11-issue-1/earlysgcinema/samarang_1933_res.jpg">Poster of <i>Samarang</i>. © Samarang. Directed by Ward Wing, produced by United Artists and B.F. Zeidman, distributed by United Artists. United States, 1933. <i>Courtesy of Wong Han Min.</i>
+<br><br>
+<img style="width: 70%;"  src="/images/vol-11-issue-1/earlysgcinema/leilaMajnun_re.jpg">Advertisements for the opening of <i>Leila Majnun</i> (1934). © Singapore Press Holdings. All rights reserved. <i>The Straits Times.</i>
+<br><br>
+<b>Xin Ke (新客, The New Immigrant)</b>
+<br><br>
+Produced by Liu Beijin, 新客 (<i>Xin Ke</i>; <i>The New Immigrant</i>, 1927) is believed to be the first Chinese feature film that was completely shot in Singapore and Malaya. Of Fujian origins, Liu (1902–1959) was born in Singapore but grew up in Muar, Johor. Although inspired by the booming Shanghainese movie industry, he felt slighted as an overseas Chinese when he visited China in December 1925.
+<br><br>
+When Liu returned home three months later, he was inspired to produce <i>Xin Ke</i>, a melodrama about a newly arrived Chinese in Singapore, in part to convey the social struggles and issues facing the immigrant Chinese. Liu also hoped to revive an interest in Chinese culture among the Chinese community in Singapore, while depicting the life of an overseas Chinese to the Chinese in China.
+<br><br>
+Working from a rented house at 58 Meyer Road that served as a studio, staff dormitory and film processing room, Liu purchased French-made cinematographic equipment and auditioned more than 100 prospective actors for his film.
+<br><br>
+The scenes were shot at the Botanic Gardens in Singapore and the interiors of 58 Meyer Road, as well as across the causeway in rubber plantations and at the Sultan of Johor’s palace. Production ended in February 1927 and in the following month, the film had its test screening at Victoria Theatre.
+<br><br>
+By 7pm on the day of the test screening, more than 100 people were already waiting in line for the free tickets that were given out at the entrance of Victoria Theatre and by the time the film started, the 500-seat theatre was full. The black-and-white silent film totalled nine reels and was accompanied by both Chinese and English subtitles.
+<br><br>
+<i>Xin Ke</i> is unique because many local films produced thereafter were in Malay. It wasn’t until almost two decades later in July 1946 that a major production in Chinese made its appearance in Singapore with the release of <i>Blood and Tears of Overseas Chinese</i> (华侨 血泪) by China Film Studio. Soon after its premier in Singapore, <i>Xin Ke</i> was released in Hong Kong as <i>Tang Shan Lai Ke</i> (唐山來客). <i>Xin Ke</i> was the only film that Liu released, and unfortunately the original reels are no longer extant.
+<br><br>
+<b>Leila Majnun</b>
+<br><br>
+<i>Leila Majnun</i> (1934) is the first Malay language feature film produced in Singapore. The film is a tragedy in the vein of Shakespeare’s <i>Romeo and Juliet</i> with elements of the Arabian <i>One Thousand and One Nights</i>. The plot centres on two lovers, Leila and Majnun, whose love is forbidden due to social conventions. Majnun is driven to despair and madness, thus living up to his name Majnun, which means “madness” in Arabic.
+<br><br>
+In the 1930s, Rai Bahadur Seth Hurdutroy Motilal Chamria of Calcutta began distributing made-in-India films in Singapore. In 1932, his Urdu version of <i>Leila Majnun</i> met with such success in Bombay that he was inspired to produce a Singapore version. Bardar Singh Rajhans, who had already produced two films in India, moved from Calcutta to Singapore to direct the film, which cost $5,000 to produce. After the war, Rajhans continued to shape the local Malay film industry by directing several other significant films.
+<br><br>
+The role of Leila was played by popular local star Fatima binti Jasman, a singer with HMV Records, while Syed Ali bin Mansoor, a well-known <i>bangsawan</i> stage actor acted as Majnun.
+<br><br>
+The film’s gala opening was held on March 1934 at the Marlborough. The dialogue was in classical Malay and the film was much praised although there were criticisms over the technical quality of the pictures. In 1962, B. N. Rao, by then an established director, remade this movie as <i>Laila Majnun</i>.
+<br><br>
+<i>The full citations for</i> Xin Ke <i>and</i> Leila Majnun <i>can be found on</i> *[HistorySG](http://eresources.nlb.gov.sg/history)*.</span>
 
 <p style="font-size:15px;"><b>Bonny Tan</b> is a Senior Librarian with the National Library of Singapore. Her interest in the history of films was sparked after she uncovered little known facets of colonial life in early newspapers of Singapore. She would like to thank Nadi Tofighian for his help in reviewing this article.</p>
 
@@ -224,7 +224,7 @@ Zamberi A. Malek &amp; Aimi Jarr. (2005). *[Malaysian films: The beginning](http
 
 [^17]: [The grand cinematograph](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/easterndaily19070902-1.2.31). (1907, September 2). <i>Eastern Daily Mail and Straits Morning Advertiser</i>, p. 3; [Royal cinematograph](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/easterndaily19060903-1.2.35). (1906, September 3). <i>Eastern Daily Mail and Straits Morning Advertiser</i>, p. 5. Retrieved from NewspaperSG.
 
-[^18]: [Untitled](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19060614-1.2.78)*. (1906, June 14). <i>The Straits Times</i>, p. 8; [The Japanese cinematograph](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/easterndaily19060606-1.2.34). (1906, June 6). <i>Eastern Daily Mail and Straits Morning Advertiser</i>, p. 5. Retrieved from NewspaperSG.
+[^18]: [Untitled](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19060614-1.2.78). (1906, June 14). <i>The Straits Times</i>, p. 8; [The Japanese cinematograph](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/easterndaily19060606-1.2.34). (1906, June 6). <i>Eastern Daily Mail and Straits Morning Advertiser</i>, p. 5. Retrieved from NewspaperSG.
 
 [^19]: [The London chronograph show](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/easterndaily19060528-1.2.9). (1906, May 28). <i>Eastern Daily Mail and Straits Morning Advertiser</i>, p. 2. Retrieved from NewspaperSG.
 
@@ -234,7 +234,7 @@ Zamberi A. Malek &amp; Aimi Jarr. (2005). *[Malaysian films: The beginning](http
 
 [^22]: [Ben Hur at Raffles](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19080608-1.2.15). (1908, June 8). <i>The Singapore Free Press</i>, p. 4. Retrieved from NewspaperSG.
 
-[^23]: Pilon, M., &amp; Weiler, D. (2011). *[The French in Singapore: An illustrated history](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14270610)*, 1819-today (p. 100). Singapore: Editions Didier Millet. (Call no.: RSING 305.84105957 PIL)
+[^23]: Pilon, M., &amp; Weiler, D. (2011). *[The French in Singapore: An illustrated history, 1819-today](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14270610)* (p. 100). Singapore: Editions Didier Millet. (Call no.: RSING 305.84105957 PIL)
 
 [^24]: [Cinema has colourful history in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19380727-1.2.150.28). (1938, July 27). <i>The Singapore Free Press</i>, p. 4. Retrieved from NewspaperSG.
 

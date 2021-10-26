@@ -18,16 +18,16 @@ At the same time, an intellectual film culture took root in France, giving rise 
 
 #### **The Dominance of Hollywood** 
 
-The allure of the cinematograph for mass entertainment was phenomenal, extending its global reach to Singapore. Movie-watching was such a popular past time in this British colony that it prompted a reader of the Malaya Tribune to declare the 1930s as the “Cinema Age”. [^1] In 1929, a Straits Times editorial reported that “almost every small town in Malaya possesses its cinema”,[^2] and as early as 1917, an Eastern Kinematograph Association had been formed to protect the interests of exhibitors here. [^3] 
+The allure of the cinematograph for mass entertainment was phenomenal, extending its global reach to Singapore. Movie-watching was such a popular past time in this British colony that it prompted a reader of the <i>Malaya Tribune</i> to declare the 1930s as the “Cinema Age”. [^1] In 1929, a <i>Straits Times</i> editorial reported that “almost every small town in Malaya possesses its cinema”,[^2] and as early as 1917, an Eastern Kinematograph Association had been formed to protect the interests of exhibitors here. [^3] 
 
-By the 1930s, Hollywood had firmly entrenched its foothold in Singapore. Pre-war figures estimate that 70 percent of films shown in Singapore were American, 16 percent British and 13 percent Chinese, with the remaining from India, Java and Egypt. The stranglehold of American films was reinforced by the presence of major Hollywood distribution offices in Singapore, many of which were located along Orchard Road, including First-National (1926; later <i>Warner Bros-First National</i>), Fox Film (1927), United Artists (1928), Famous Players-Lasky Corporation (1929, reorganised as Paramount in 1931) and Metro-Goldwyn-Meyer (1933). 
+By the 1930s, Hollywood had firmly entrenched its foothold in Singapore. Pre-war figures estimate that 70 percent of films shown in Singapore were American, 16 percent British and 13 percent Chinese, with the remaining from India, Java and Egypt. The stranglehold of American films was reinforced by the presence of major Hollywood distribution offices in Singapore, many of which were located along Orchard Road, including First-National (1926; later Warner Bros-First National), Fox Film (1927), United Artists (1928), Famous Players-Lasky Corporation (1929, reorganised as Paramount in 1931) and Metro-Goldwyn-Meyer (1933). 
 
 
 #### **A Difficult Singapore Audience** 
 
-In 1933, long-time Singapore resident Roland Braddell wrote that the Singaporean audience was an “extraordinarily difficult” one. “They either like a picture or they don’t; direction, technique, lighting, photography, and the finer points of acting mean nothing. The Asiatic taste makes or mars a picture, and the results are startling. Thus four gold medal pictures, <i>Cimarron</i>, <i>Smilin’ Through, Strange Interlude, and Grand Hotel</i> were failures, while that magnificent picture <i>Farewell to Arms</i> flopped so hard that you could hear it in China...On the other hand, Pleasure Cruise, an ordinary programme picture, made plenty. Comedy, music, and love interest are what the Asiatics appear to like, and anything historical leaves them cold… the greatest financial successes in Singapore so far have been <i>Love Parade, Sunnyside Up, Tarzan, East of Borneo, and Samarang…”</i> [^4] 
+In 1933, long-time Singapore resident Roland Braddell wrote that the Singaporean audience was an “extraordinarily difficult” one. “They either like a picture or they don’t; direction, technique, lighting, photography, and the finer points of acting mean nothing. The Asiatic taste makes or mars a picture, and the results are startling. Thus four gold medal pictures, <i>Cimarron</i>, <i>Smilin’ Through, Strange Interlude</i>, and <i>Grand Hotel</i> were failures, while that magnificent picture <i>Farewell to Arms</i> flopped so hard that you could hear it in China...On the other hand, <i>Pleasure Cruise</i>, an ordinary programme picture, made plenty. Comedy, music, and love interest are what the Asiatics appear to like, and anything historical leaves them cold… the greatest financial successes in Singapore so far have been <i>Love Parade, Sunnyside Up, Tarzan, East of Borneo</i>, and <i>Samarang…”</i> [^4] 
 
-One Straits Times headline quipped, Malayan movie-goers “prefer Tarzan to serious films”.[^5] The article went on to elaborate that audiences enjoyed action films, cowboy, Tarzan and serial features but films with lots of dialogue or psychological stories were not popular. 
+One <i>Straits Times</i> headline quipped, Malayan movie-goers “prefer Tarzan to serious films”.[^5] The article went on to elaborate that audiences enjoyed action films, cowboy, Tarzan and serial features but films with lots of dialogue or psychological stories were not popular. 
 
 Cynics would say that little has changed today as far as the maturity of Singapore film audiences is concerned – the commercial and mainstream still rule over the art house. 
 
@@ -43,14 +43,7 @@ While Singapore mulled over setting up a film society, Kuala Lumpur went ahead a
 #### **The Singapore Film Society** 
 The official history of the Singapore Film Society (SFS) dates its beginnings to the expatriate community in 1958. However, newspaper sources point to a precursor of the film society in 1948 through the initiative of some like-minded locals. This earlier film society, also called the Singapore Film Society – presided by Tan Thoon Lip (Singapore’s first Asian registrar of the Supreme Court) with Lim Choo Sye as secretary – started with 50 members of different races and backgrounds, which later increased to 100. It aimed to “enable its members to see more specialised, historic, educational and artistic films than is possible in the ordinary cinema”,[^11] and to “(instil) a better appreciation of films in the large Singapore film-going public”.[^12] Modelled after film societies in Britain, SFS’ members paid a subscription of $20 to see 24 films a year. 
 
-The SFS’ first screening was held at Cathay Cinema and opened with three films: <i>The World is Rich</i>, a British Academy of Film and Television Arts (BAFTA) award winner and an Academy Award nominee for Best Documentary; <i>The Centre</i>; and <i>Cyrus</i>. Thereafter, the society held most of its screenings, comprising a repertoire of features, shorts, documentaries and cartoons, at the Victoria Theatre and the British Council Hall at Stamford Road. Its members were privy to films such as <i>Girl of My Dreams</i> (1944), a German wartime romance; <i>Alexander Nevsky</i> (1938); <i>Walt Disney’s Bambi</i> (1942); and <i>Nasib</i> (1949), a locally produced Malay film by the Shaw Brothers. 
-
-<div style="background-color: white;">
-<br/>
-<img src="/images/vol-11-issue-1/cultureoncelluloid/Blue_Angel_re.jpg">
-The Blue Angel is one of the earliest art house films to be screened in Singapore. © The Blue Angel. Directed by Josef von Sternberg, produced by Erich Pommer, distributed by UFA Paramount Pictures, Weimar Republic, 1930.
-</div>
-
+The SFS’ first screening was held at Cathay Cinema and opened with three films: <i>The World is Rich</i>, a British Academy of Film and Television Arts (BAFTA) award winner and an Academy Award nominee for Best Documentary; <i>The Centre</i>; and <i>Cyrus</i>. Thereafter, the society held most of its screenings, comprising a repertoire of features, shorts, documentaries and cartoons, at the Victoria Theatre and the British Council Hall at Stamford Road. Its members were privy to films such as <i>Girl of My Dreams</i> (1944), a German wartime romance; <i>Alexander Nevsky</i> (1938); Walt Disney’s <i>Bambi</i> (1942); and <i>Nasib</i> (1949), a locally produced Malay film by the Shaw Brothers. 
 
 To enhance the appreciation of the films, the SFS organised talks to tie in with the films. For instance, at the screening of <i>English Criminal Justice</i>, the chief justice of Singapore, Sir Charles Murray-Aynsley spoke about the film and English law, while R.E. Holttum, Professor of Botany at the University of Malaya, was invited to speak at the screening of <i>Story of Plant Life</i>. 
 
@@ -60,6 +53,12 @@ On 15 October 1954, however, efforts to revive a film society were mounted and a
 
 For its first presentation, <i>The Blue Angel</i> (1930) was screened at the British Council Hall. The movie, which propelled actress Marlene Dietrich into international stardom, traces the descent of a sanctimonious professor after he becomes entranced by Lola Lola, the headline act at a local cabaret called “The Blue Angel”. The tragicomedy is regarded as the first major German sound film and a fine showcase of German expressionism. SFS’ premiere screening played to a packed audience in Singapore. A hundred people had to be turned away at the door and a repeat screening was arranged. 
 
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-11-issue-1/cultureoncelluloid/Blue_Angel_re.jpg">
+<i>The Blue Angel</i> is one of the earliest art house films to be screened in Singapore. © The Blue Angel. Directed by Josef von Sternberg, produced by Erich Pommer, distributed by UFA Paramount Pictures, Weimar Republic, 1930.
+</div>
+
 Since its revival, the SFS has been pivotal in forging an alternative film culture in Singapore through its presentations of artistic and experimental films of merit. From the 1960s to 1980s, the society struggled to be in the black, faced with increased costs while trying to grow its membership base. Nonetheless, the society maintained its policy of creative and daring programming, leveraging on partnerships with foreign cultural institutions and commercial exhibitors to deliver a different cinematic experience for audiences. In 1984, the SFS and the Kelab Seni Filem Malaysia (Malaysia Film Society) became affiliates, allowing members from both sides to enjoy reciprocal benefits.
 
 Today, the SFS holds over 200 screenings a year and 75 percent of its members are locals. It established its permanent home at GV Marina in 1996. In 2015, the society moved to GV Suntec when the Marina cineplex closed down. The society has been a strong proponent for film classification over censorship, which the government adopted in 1991. Through its consultancy services, the SFS also helps organisations to manage and promote their film events. 
@@ -67,7 +66,7 @@ Today, the SFS holds over 200 screenings a year and 75 percent of its members ar
 #### **Foreign Cultural Institutions** 
 Singapore’s alternative film culture also owes the early years of its development to the work of foreign cultural institutions such as the French Alliance Française (AF) and German Goethe-Institut. In its fledging years, the SFS would borrow films from foreign embassies and cultural institutions to keep costs down. These foreign institutions, which were keen to promote their country, would also stage film events and festivals as a form of cultural diplomacy and engage Singaporeans through their national cinema. Some of the earliest and longest-running film programmes were established by the AF and the Goethe-Institut. 
 
-When the Singapore branch of the AF opened in 13 April 1949, it marked its launch with a screening of <i>La Symphonie Pastorale</i> (1946), which won the Grand Prix award at the 1946 Cannes Film Festival. The film, based on a novella by Andre Gide, is a discomfiting tale of spiritual blindness, forbidden love and morality. Since its first screening, the AF has been tireless in its efforts to promote French cinema, maintaining a close connection with the local film industry since 1960s and putting together film festivals since the 1970s. Today, Dr Shaw Vee Meng, the chairman of Shaw Organisation, sits on the board of the AF as president. The AF continues to organise thematic film series and mini-festivals, as well as regular screenings at its 236-seat in-house theatre through its Ciné Club and Ciné Kids programmes. 
+When the Singapore branch of the AF opened on 13 April 1949, it marked its launch with a screening of <i>La Symphonie Pastorale</i> (1946), which won the Grand Prix award at the 1946 Cannes Film Festival. The film, based on a novella by Andre Gide, is a discomfiting tale of spiritual blindness, forbidden love and morality. Since its first screening, the AF has been tireless in its efforts to promote French cinema, maintaining a close connection with the local film industry since 1960s and putting together film festivals since the 1970s. Today, Dr Shaw Vee Meng, the chairman of Shaw Organisation, sits on the board of the AF as president. The AF continues to organise thematic film series and mini-festivals, as well as regular screenings at its 236-seat in-house theatre through its Ciné Club and Ciné Kids programmes. 
 
 Another noteworthy cultural body that has done much to advance film culture in Singapore is the Goethe-Institut, founded in Singapore in 1978. That same year, the institute organised a film festival based on German literature, opening with <i>Faust</i>, which was inspired by celebrated German writer Goethe’s play of the same name. The cultural centre also began free weekly screenings of German classics and films from the German New Cinema movement at the RELC Auditorium in the 1970s. 
 
@@ -79,8 +78,8 @@ Today, film festivals are almost de rigueur channels of promotion for foreign em
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-11-issue-1/cultureoncelluloid/German_Film_Festival.jpg">
-Publicity poster of the 8th German Film Festival held in 2004. Collection of the National Library, Singapore.
+<img style="width:70%" src="/images/vol-11-issue-1/cultureoncelluloid/German_Film_Festival.jpg">
+Publicity poster of the 8th German Film Festival held in 2004. <i>Collection of the National Library, Singapore.</i>
 </div>
 
 #### **The Singapore International Film Festival** 
@@ -93,7 +92,7 @@ In its successive editions, the festival built its reputation as a platform for 
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-11-issue-1/cultureoncelluloid/Singapore_International_Film_Festival_re.jpg">
-Publicity poster of the 16th Singapore International Film Festival in 2003. The SIFF was launched in 1987. Collection of the National Library, Singapore.
+Publicity poster of the 16th Singapore International Film Festival in 2003. The SIFF was launched in 1987. <i>Collection of the National Library, Singapore.</i>
 </div>
 
 #### **Art House Cinemas** 
@@ -105,7 +104,7 @@ When Cathay Organisation opened Picturehouse, it had already assessed that audie
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-11-issue-1/cultureoncelluloid/Come_See_the_Paradise_re.jpg">
-Come See the Paradise was the opening film for Picturehouse when it was launched in 1990. © Come See the Paradise. Directed by Alan Parker, produced by Robert F. Colesberry &amp; Nellie Nugiel, distributed by 20th Century Fox. United States, 1990. Collection of National Library, Singapore.
+<i>Come See the Paradise</i> was the opening film for Picturehouse when it was launched in 1990. © Come See the Paradise. Directed by Alan Parker, produced by Robert F. Colesberry &amp; Nellie Nugiel, distributed by 20th Century Fox. United States, 1990. <i>Collection of National Library, Singapore.</i>
 </div>
 
 However, the cinema found that it could not survive on art films alone as local audiences were not quite ready for more alternative fare. The company began introducing mainstream films, such as <i>Army Daze</i> (1996), <i>The Crow</i> (1994) and <i>Striptease</i> (1996), alongside its less commercial offerings. In 2000, Picturehouse closed after a 10-year run when Cathay Building underwent a revamp. The cinema returned in 2006 with a smaller hall of 82 seats which allowed Cathay to experiment with more esoteric programming without the pressure of filling seats. In the same year, Golden Village introduced the speciality Cinema Europa at its newly opened multiplex at Vivocity. 
@@ -120,12 +119,12 @@ Art and cultural centres with screening rooms have also contributed to the devel
 
 To support the commercial and not-for-profit exhibition of alternative films, small independent film distributors such as Festive Films (2002), Lighthouse Pictures (2003) and Objectifs Film (2006) have emerged in recent years, as well as indie film websites such as Sinema and SINdie to challenge and whet the appetites of avid cinephiles in Singapore.
 
-
-|**THE FIRST ART HOUSE CINEMA**| 
-
-|Though Picturehouse is commonly thought to be the first commercial art house cinema in Singapore, Premier Cinema at Orchard Towers was an even earlier entrant to the scene. When it opened on 29 November 1978, the S$3-million mini-cinema had the smallest hall in town with 477 seats. Its highbacked seats, posh blue interior, and erudite programming soon made it a popular venue with the “arty film crowd”.[^17]|
-
-|In its early years, Premier Cinema was known for its release of quality films such as Australian director Peter Weir’s <i>Picnic at Hanging Rock</i> (1975) and works by Tsui Hark and Ann Hui, the auteurs of the Hong Kong New Wave Cinema. It was also a favoured venue for film festivals such as the ASEAN, Indian, French and German film festivals. At its peak, one of its films, <i>The Hurricane</i> (1979), remained in the box office for three months. However, it was a case of “too arty, too soon” as “most Singaporeans at that time hardly knew what art pictures were”.[^18] To remain financially viable, the cinema turned to screening B-grade flicks such as <i>Gold Raiders</i> (1982) and Hongkong slapsticks like <i>Aces Go Places II</i> (1983). Other conditions, such as restrictions on ticket prices, a 35 percent entertainment tax, poor economy and the boom of videos, took its toll on the cinema. Premier Cinema shut its doors in 1983, and was converted into a live-show theatre.|
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;">
+	<b>THE FIRST ART HOUSE CINEMA</b>
+<br><br>
+Though Picturehouse is commonly thought to be the first commercial art house cinema in Singapore, Premier Cinema at Orchard Towers was an even earlier entrant to the scene. When it opened on 29 November 1978, the S$3-million mini-cinema had the smallest hall in town with 477 seats. Its highbacked seats, posh blue interior, and erudite programming soon made it a popular venue with the “arty film crowd”.[^17]
+<br><br>
+In its early years, Premier Cinema was known for its release of quality films such as Australian director Peter Weir’s <i>Picnic at Hanging Rock</i> (1975) and works by Tsui Hark and Ann Hui, the auteurs of the Hong Kong New Wave Cinema. It was also a favoured venue for film festivals such as the ASEAN, Indian, French and German film festivals. At its peak, one of its films, <i>The Hurricane</i> (1979), remained in the box office for three months. However, it was a case of “too arty, too soon” as “most Singaporeans at that time hardly knew what art pictures were”.[^18] To remain financially viable, the cinema turned to screening B-grade flicks such as <i>Gold Raiders</i> (1982) and Hongkong slapsticks like <i>Aces Go Places II</i> (1983). Other conditions, such as restrictions on ticket prices, a 35 percent entertainment tax, poor economy and the boom of videos, took its toll on the cinema. Premier Cinema shut its doors in 1983, and was converted into a live-show theatre.</span>
 
 <p style="font-size:15px;"><b>Gracie Lee</b> is a Senior Librarian with the National Library of Singapore. Her responsibilities include managing the ephemera collection, and developing and providing content and reference services relating to Singapore.</p>
 
@@ -139,7 +138,7 @@ Braddell, R. (1982). *[The lights of Singapore](https://eservice.nlb.gov.sg/item
 
 Burns, J. (2013). *[Cinema and society in the British empire, 1895–1940](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200155964)*. Houndmills, Basingstoke, Hampshire; New York: Palgrave Macmillan. (Call no.: RSING 302.234309171241 BUR)
 
-Chua, A.L. (2012, December). Singapore’s ‘cinema-age’ of the 1930s: Hollywood and the shaping of Singapore modernity. <i>Inter-Asia Cultural Studies</i>, 13 (4), 592–604.
+Chua, A.L. (2012, December). Singapore’s ‘cinema-age’ of the 1930s: Hollywood and the shaping of Singapore modernity. <i>Inter-Asia Cultural Studies</i>, 13 (4), 592–604. (Call no.: R 306.095 IACS)
 
 Drazen, C. (2011). *[The faber book of French cinema](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13792348)*. London: Faber and Faber. (Call no.: 791.430944 DRA)
 

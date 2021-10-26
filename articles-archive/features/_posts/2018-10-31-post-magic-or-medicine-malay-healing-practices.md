@@ -108,43 +108,34 @@ These laws compromised the role of traditional Malay healers in the community, e
 With the introduction of Western-style healthcare, including clinics and hospitals, and the increasing availability of over-the-counter medications from the turn of the 20th century onwards, traditional Malay healing played a smaller role in the lives and rhythms of the community.
 
 State controls and the exposure to Western education further put paid to the services of traditional Malay healers. Although their numbers have drastically dwindled over the years, traditional Malay medicine continues to play an ancillary – and occasionally complementary – role to Western medicine today for those who recognise its efficacy in providing ritual care and treating spiritual ailments and conditions not yet acknowledged in Western medical science.
-
+	
+<table span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; ">
+<b span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; ">Healing Practices</b> 
+<p span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; ">
+One of the most notable Malay medical manuscripts translated into English is Ismail Munshi’s <i>The Medical Book of Malayan Medicine</i>. Originally written in Jawi (c. 1850), it contains over 550 remedies for maladies ranging from migraines to depression, bloatedness and leprosy.</p>
+  <tr>
+    <td>&nbsp; &nbsp;</td>
+    <td>For Violent Headaches and Loss of Energy</td>
+    <td>For Dizziness and Vertigo</td>
+		<td>For Night Chills</td>
+  </tr>
+<tr>
+<td>Ingredients</td>
+<td>Cumin seeds (5 cents) <br> Garlic (10 cents)<br>Indian hemp<br>Ginger<br><i>Smilax china</i><br>Mace (35 cents) <br> Nutmeg (5 cents) <br> Henbane <br>Javanese ginger</td>
+<td> 5 young shoots of betel vine <br>Red onion <br>Fennel seeds</td>
+<td> <i>Daun medan</i> (root of an unidentified plant) <br> 7 kernels of the fruit of the candle nut</td>
+</tr>
+	  <tr>
+    <td> Method</td>
+    <td>Pound all ingredients together and mix with honey to form into tablets. Patient to take tablets until course of treatment is complete.</td>
+    <td>Grind finely. Place the pulp on a piece of cloth. Squeeze the juice into the patient’s eyes for three days.</td>
+		<td>Reduce both ingredients to fine pulp. Apply to patient’s head.</td>
+  </tr>
+</table>
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
-<b>HEALING PRACTICES</b>
-<br><br>
-One of the most notable Malay medical manuscripts translated into English is Ismail Munshi’s <i>The Medical Book of Malayan Medicine</i>. Originally written in Jawi (c. 1850), it contains over 550 remedies for maladies ranging from migraines to depression, bloatedness and leprosy.
-<br><br>
-| &nbsp; &nbsp; | For Violent Headaches and Loss of Energy | For Dizziness and Vertigo	| For Night Chills |
-| -------- | -------- | -------- | -------- |
-| Ingredients | Cumin seeds (5 cents) <br> Garlic (10 cents)<br>Indian hemp<br>Ginger<br>*Smilax china*<br>Mace (35 cents) <br> Nutmeg (5 cents) <br> Henbane <br>Javanese ginger| 5 young shoots of betel vine <br>Red onion <br>Fennel seeds | *Daun medan* (root of an unidentified plant) <br> 7 kernels of the fruit of the candle nut |
-| -------- | -------- | -------- | -------- |
-| Method | Pound all ingredients together and mix with honey to form into tablets. Patient to take tablets until course of treatment is complete. | Grind finely. Place the pulp on a piece of cloth. Squeeze the juice into the patient’s eyes for three days. | Reduce both ingredients to fine pulp. Apply to patient’s head. |
-| -------- | -------- | -------- | -------- |
-<br><br>
 	<b>REFERENCE</b>
 <br><br>
-	Burkill, I.H., & Ismail Munshi. (1930). [<i>The medical book of Malayan medicine</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4980669). Singapore: Botanic Gardens. (Call no.: RCLOS 615.3209595 MED)
-<table>
-	<tr>
-		<th>&nbsp; &nbsp;</th>
-		<th>For Violent Headaches and Loss of Energy</th>
-		<th>For Dizziness and Vertigo</th>
-		<th>For Night Chills</th>
-	</tr>
-	<tr>
-		<th>Ingredients</th>
-		<th>Cumin seeds (5 cents) <br> Garlic (10 cents)<br>Indian hemp<br>Ginger<br><i>Smilax china</i><br>Mace (35 cents) <br> Nutmeg (5 cents) <br> Henbane <br>Javanese ginger</th>
-		<th> 5 young shoots of betel vine <br>Red onion <br>Fennel seeds</th>
-		<th> <i>Daun medan</i> (root of an unidentified plant) <br> 7 kernels of the fruit of the candle nut</th>
-	</tr>
-	<tr>
-		<th> Method</th>
-		<th>Pound all ingredients together and mix with honey to form into tablets. Patient to take tablets until course of treatment is complete.</th>
-		<th>Grind finely. Place the pulp on a piece of cloth. Squeeze the juice into the patient’s eyes for three days. </th>
-		<th>Reduce both ingredients to fine pulp. Apply to patient’s head.</th>
-	</tr>
-</table>
-</span>
+	Burkill, I.H., & Ismail Munshi. (1930). [<i>The medical book of Malayan medicine</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4980669). Singapore: Botanic Gardens. (Call no.: RCLOS 615.3209595 MED)</span>
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
 	<b>HUMOURAL THEORY AND MALAY MEDICINE</b>
