@@ -92,7 +92,7 @@ In its successive editions, the festival built its reputation as a platform for 
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-11-issue-1/cultureoncelluloid/Singapore_International_Film_Festival_re.jpg">
-Publicity poster of the 16th Singapore International Film Festival in 2003. The SIFF was launched in 1987. Collection of the National Library, Singapore.
+Publicity poster of the 16th Singapore International Film Festival in 2003. The SIFF was launched in 1987. <i>Collection of the National Library, Singapore.</i>
 </div>
 
 #### **Art House Cinemas** 
@@ -104,7 +104,7 @@ When Cathay Organisation opened Picturehouse, it had already assessed that audie
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-11-issue-1/cultureoncelluloid/Come_See_the_Paradise_re.jpg">
-Come See the Paradise was the opening film for Picturehouse when it was launched in 1990. © Come See the Paradise. Directed by Alan Parker, produced by Robert F. Colesberry &amp; Nellie Nugiel, distributed by 20th Century Fox. United States, 1990. Collection of National Library, Singapore.
+<i>Come See the Paradise</i> was the opening film for Picturehouse when it was launched in 1990. © Come See the Paradise. Directed by Alan Parker, produced by Robert F. Colesberry &amp; Nellie Nugiel, distributed by 20th Century Fox. United States, 1990. <i>Collection of National Library, Singapore.</i>
 </div>
 
 However, the cinema found that it could not survive on art films alone as local audiences were not quite ready for more alternative fare. The company began introducing mainstream films, such as <i>Army Daze</i> (1996), <i>The Crow</i> (1994) and <i>Striptease</i> (1996), alongside its less commercial offerings. In 2000, Picturehouse closed after a 10-year run when Cathay Building underwent a revamp. The cinema returned in 2006 with a smaller hall of 82 seats which allowed Cathay to experiment with more esoteric programming without the pressure of filling seats. In the same year, Golden Village introduced the speciality Cinema Europa at its newly opened multiplex at Vivocity. 
