@@ -90,7 +90,7 @@ Among the items Alex Abisheganaden donated to the National Library are his handw
 <br><br>
 Here is a selection of original handwritten scores donated by Abisheganaden.
 <br><br>
-<b>Afternoon with Alex Abisheganaden</b> (2010)(Call no.: RCLOS 787.870922 AFT-[AA])
+<b>Afternoon with Alex Abisheganaden</b> (2010) (Call no.: RCLOS 787.870922 AFT-[AA])
 <br>
 This is a bound publication of handwritten pedagogy notes that Alex Abisheganaden used to train guitarists for Christian worship ministry. It contains photocopies of certificates of proficiency that Abisheganaden received in guitar, voice and bass training.
 <br><br>
