@@ -60,7 +60,6 @@ Owns a fish farm in Lim Chu Kang (His ninth farm so far)
 <br><br>
 <img style="width:70%" src="/images/vol-11-issue-1/lifestories/DSC06219_Zhang_Kai_She_Vinson_Phua.jpg">
 Portraits of Teo Khai Seng, who now owns nine fish farms. <i>Courtesy of Vinson Phua.</i>
-</div>
 <br><br>
 I dropped out of school when I was 11. We were poor and had problems buying uniforms and textbooks. The teachers were fierce towards me as I was dyslexic. I ended up playing truant frequently. As a result, I never learnt to read. 
 <br><br>
@@ -102,7 +101,6 @@ I can never forget that scene and I have hated them ever since.
 <br><br>
 <img style="width:70%" src="/images/vol-11-issue-1/lifestories/DSC05937_Zhou_Jiang_Vinson_Phua.jpg">
 	Portrait of Chew Chiang Tong. <i>Courtesy of Vinson Phua</i>.
-</div>
 <br><br>
 When I was 13, I came to Singapore to look for work. I remembered I could only afford a loaf of bread which cost 10 cents then, and I would have that with tap water every day for two months. I finally found a job serving coffee in a Hainanese coffee shop. They provided me with food and lodging, and I was paid more than $10 a month. 
 <br><br>
