@@ -73,6 +73,8 @@ There are six large-format American World War I posters in the collection. These
 <img src="/images/Vol-14-issue-2/japan-in-southeast-asia/Collection3.JPG"><br>
 	As part of reconnaissance efforts, the Japanese military prepared detailed maps of key cities in Southeast Asia in the 1930s, including this one of Singapore titled 新嘉坡市街図 (Shingapōru shigai chizu), which marks out 83 landmarks and locations of interest such as government and commercial buildings. An accompanying booklet (an inside page shown here) contains photographs of the places and landmarks found on the map. The map was most likely used by the Japanese military to requisition important buildings in Singapore after the British surrender. (Accession nos.: B29245121D [map]; B29255626D [booklet]).
 <br><br>
-	
+<img src="/images/Vol-14-issue-2/japan-in-southeast-asia/Collection4.JPG"><br>
+This 1929 map, 南洋ニ於ケル邦人栽培企業現勢圖 (Nan’yo ni okeru hojin saibai kigyo genseizu), includes seven charts that compare the cultivation, investment and consumption of rubber by Japan with the rest of the world. Also included is a diagram that shows the distance between Singapore and other major ports in Southeast Asia, highlighting the importance of Singapore as an export centre for half of the world’s rubber supply that was produced in Malaya at the time. Southeast Asia’s rich natural resources was one of the primary reasons cited for Japan’s military advance into Southeast Asia during World War II. (Accession no.: B29245119K)
 <br><br>
+<img src="/images/Vol-14-issue-2/japan-in-southeast-asia/Collection3.JPG"><br>
 </span>
