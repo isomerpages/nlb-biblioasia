@@ -61,3 +61,9 @@ Features articles on various events, the triumphs as well as the disappointments
 <img src="/images/Vol-14-issue-2/sporting-glory/Glory8.JPG">
 This souvenir programme by the Singapore Amateur Weight-lifting Federation carries a message by Tan Howe Liang, Singapore’s first Olympic medallist and then Singapore’s national weightlifting coach.
 </span>
+
+<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> 
+	<b>What is the legal deposit?</b>
+<br><br>
+One of the statutory functions of the National Library Board Act is Legal Deposit. Under the act, all publishers, commercial or otherwise, are required by law to deposit two copies of every work published in Singapore with the National Library within four weeks of its publication. The Legal Deposit function ensures that Singapore’s published heritage is preserved for future generations. Legal Deposit also acts as a repository for published materials, providing exposure via the online catalogue, PublicationSG: catalogue.nlb.gov.sg/publicationsg. For more information, please visit www.nlb.gov.sg/Deposit.
+</div>
