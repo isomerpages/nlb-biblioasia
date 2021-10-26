@@ -100,5 +100,27 @@ A Japanese postcard featuring the waterfront and skyline of Syonan City (Singapo
 <img src="/images/Vol-14-issue-2/japan-in-southeast-asia/Collection10.JPG"><br>
 Picture postcards of colonial Singapore. Some of these carry messages written by Japanese residents or tourists visiting Singapore. They were sent to family, friends and business associates back in Japan, although a small number are addressed to other Japanese residents living in Malaya. About a third of the 500 postcards were printed in Japan. The names of studios and photographers are usually not stated on the cards but a few include the names of Japanese studios in Singapore and Malaya, such as Togo & Co. (Singapore), Hakone Studio (Melaka) and M. Nakajima (Kuala Lumpur). There are also cards produced by non-Japanese studios and stationers in Singapore like G.R. Lambert, Max H. Hilckes, Wilson & Co., Continental Stamp Co. and Koh & Co. (Accession no.: B32413805D)
 <br><br><br>
-<img src="/images/Vol-14-issue-2/japan-in-southeast-asia/Collection8.JPG"><br>
+<img src="/images/Vol-14-issue-2/japan-in-southeast-asia/Collection11.JPG"><br>
+Singapore was one of the ports of call for the Imperial Japanese Navy’s training missions in the 1920s and 30s. This postcard commemorates a training cruise to Marseille, France, led by Vice-Admiral Seizō Sakonji. The two battleships, Izumo and Yakumo, docked in Singapore between 27 and 31 March 1931. During his time on the island, Vice-Admiral Sakonji met with leading members of the Japanese community. (Accession no.: B32413808G)
+<br><br><br>
+<img src="/images/Vol-14-issue-2/japan-in-southeast-asia/Collection12.JPG"><br>
+A pictorial book published in 1920 by the Japanese Commercial Museum in Singapore. Titled南洋之産業. 壹之卷 = Tropical Industry (<i>Nan’yō no sangyō. Ichi no ken = Tropical Industry</i>), the book describes the cultivation and processing of rubber, oil palm, tobacco, tea, rice, tapioca, tin, hemp, timber, coffee and fruits in Southeast Asia. (Accession no.: B29262851B)
+<br><br><br>
+<img src="/images/Vol-14-issue-2/japan-in-southeast-asia/Collection13.JPG"><br>
+Published in 1917, this pictorial book, 馬來に於ける邦人活動の現況 (Marai ni okeru hōjin katsudō no genkyo), which comprises two parts, provides an overview of Japanese activities in Malaya during the Taisho era (1912–26). Part 1 consists of more than 100 black-and-white as well as coloured plates – along with short captions – depicting landscapes, social life and the customs of the Malay Peninsula, with a section devoted to the cultivation of rubber. Part 2 consists mainly listings and descriptions of rubber and coconut plantations and tin mines owned by the Japanese in the region, as well as a directory of Japanese nationals living here and their occupations. (Accession no.: B29262852C)
+<br><br><br>
+<img src="/images/Vol-14-issue-2/japan-in-southeast-asia/Collection14.JPG"><br>
+This 1943 book, 大東亜写真年報 = Japan Photo Almanac. 2603年版 (Daitōa shashin nenpō = Japan Photo Almanac. 2603 nenban), contains photographs of all Japanese-invaded terrorities under the Greater East Asia Co-prosperity Sphere (see Note 2). Featured on this page are images of victorious Japanese soldiers in Singapore shouting “Banzai” (meaning “10,000 years of long life”) at the Empire Dock in Keppel Harbour, and taking part in a victory parade in Raffles Square. (Accession no.: B29244788K)
 </span>
+
+<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> 
+The author wishes to thank Lim Shao Bin and librarians Goh Yu Mei and Ng Hui Ling for their input. Digital versions of some of the items featured in this article are available on BookSG at http://eresources.nlb.gov.sg/printheritage.
+</div>
+
+<br>
+<div style="background-color: white;">
+<img src="/images/Vol-14-issue-2/japan-in-southeast-asia/Collection15.JPG" style="width: 100px; height: 100px;">
+<b>Gracie Lee</b> is a Senior Librarian with the National Library, Singapore. She works with the rare materials collections, and her research areas include Singapore’s publishing history and the Japanese Occupation.
+</div>
+
+<a href="https://biblioasia.nlb.gov.sg/vol-14/issue-2/jul-sep-2018/"><center>Back to Issue</center></a>
