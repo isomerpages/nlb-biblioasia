@@ -89,7 +89,7 @@ Printed in 1944 as a magazine supplement, this board game titled 双六大東亞
 Postcards issued by Japanese shipping companies, such as Nippon Yusen Kaisha and Osaka Shosen Kaisha, identified Singapore as one of the strategic ports of call along their liner and cargo routes. This undated postcard by the Osaka Shosen Kaisha features wellknown landmarks and scenes of the various ports of call – including Singapore, Colombo, Los Angeles and Rio de Janeiro – of the <i>MS La Plata Maru. (Accession no.: B32413808G)</i>
 <br><br><br>
 <img src="/images/Vol-14-issue-2/japan-in-southeast-asia/Collectionx.JPG"><br>
-A postcard commemorating the historic visit by Crown Prince Hirohito (later Emperor Showa) to Europe in 1921. The royal entourage stayed in Singapore from 18 to 22 March 1921 whilst en route to Europe. <i>(Accession no.: B32413808G)<i>
+A postcard commemorating the historic visit by Crown Prince Hirohito (later Emperor Showa) to Europe in 1921. The royal entourage stayed in Singapore from 18 to 22 March 1921 whilst en route to Europe. <i>(Accession no.: B32413808G)</i>
 <br><br><br>
 <img src="/images/Vol-14-issue-2/japan-in-southeast-asia/Collection8.JPG"><br>
 The first page of a letter from Koighiro Ejiri of Ryuoyakubo, a Japanese drug store at 414 North Bridge Road, addressed to a Watanabe of Messrs S. Tachika in Seremban, Malaya, describing the Japanese and Chinese medical supplies sold in the store. The letter illustrates the personal connections between Japanese residents in Singapore and Malaya as well as the business networks that existed between Singapore, Xiamen (China) and Japan. The envelope is postmarked 17 May 1918 from the post office that used to operate at Raffles Hotel. In the early 20th century, many Japanese-owned shops were located on Middle Road (which was known as Little Japan back then) and North Bridge Road. <i>(Accession no.: B32413805D)</i>
@@ -125,6 +125,7 @@ The author wishes to thank Lim Shao Bin and librarians Goh Yu Mei and Ng Hui Lin
 
 <a href="https://biblioasia.nlb.gov.sg/vol-14/issue-2/jul-sep-2018/"><center>Back to Issue</center></a>
 	
-NOTES
-The first Japanese settler, Yamamoto Otokichi, came to Singapore in 1862. See Tan, B. (2016, Jul–Sep). Singapore’s first Japanese resident: Yamamoto Otokichi. BiblioAsia, 12 (2), 32–35. Retrieved from BiblioAsia website.
-The Greater East Asia Co-Prosperity Sphere refers to Japan’s wartime empire in Asia, promoted under the guise of mutual benefit and Asian unity.
+#### **NOTES**
+	
+[^1]:The first Japanese settler, Yamamoto Otokichi, came to Singapore in 1862. See Tan, B. (2016, Jul–Sep). Singapore’s first Japanese resident: Yamamoto Otokichi. BiblioAsia, 12 (2), 32–35. Retrieved from BiblioAsia website.
+[^2]:The Greater East Asia Co-Prosperity Sphere refers to Japan’s wartime empire in Asia, promoted under the guise of mutual benefit and Asian unity.
