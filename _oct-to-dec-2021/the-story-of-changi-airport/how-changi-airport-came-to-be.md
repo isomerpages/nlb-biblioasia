@@ -4,9 +4,6 @@ permalink: /vol-17/issue-3/oct-dec-2021/changi-airport
 third_nav_title: The Story Of Changi Airport
 image: /images/vol-17-issue-3/how-changi-airport-came-to-be/img0095.jpg
 ---
-
-
-
 #### As Singapore’s Changi Airport marks its 40th anniversary in 2021, **Rebecca Tan** uncovers fascinating facts behind the decision to build the airport and how it eventually took shape.
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-3/how-changi-airport-came-to-be/Facing%20Page2.jpg)
@@ -140,7 +137,7 @@ Speaking in Parliament in October 2020, then Transport Minister Ong Ye Kung said
 
 As vaccination rates rise in Singapore and the country moves towards dealing with Covid-19 as an endemic disease, air traffic through Changi Airport will hopefully increase. With the same foresight, fortitude and perseverance that led to its genesis, the fortunes of Changi will undoubtedly rise again.
 
-More resources on Changi Airport’s early years are available [<u>here</u>](biblioasia.nlb.gov.sg/vol-17/issue-3/oct-dec-2021/changi-airport-rsrc).
+More resources on Changi Airport’s early years are available [<u>here</u>](/vol-17/issue-3/oct-dec-2021/changi-airport-rsrc).
 
 
 <div style="background-color: white;">
