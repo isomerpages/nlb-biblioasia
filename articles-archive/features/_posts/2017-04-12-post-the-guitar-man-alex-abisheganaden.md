@@ -239,11 +239,11 @@ The mark of masters. (2007, May–June). Instep. Singapore: National Arts Counci
 
 Tsang, S. (1996, September 29). They strike a chord in each other. The Straits Times, p. 11. Retrieved from NewspaperSG.
 
-YMCA joins the attack on drug use and abuse. (1971, October 12). New Nation, p. 2. Retrieved from NewspaperSG.
+[YMCA joins the attack on drug use and abuse](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19711012-1.2.15). (1971, October 12). *New Nation*, p. 2. Retrieved from NewspaperSG.
 
 #### **NOTES**
 
-[^1]:Tan, B.L. (Interviewer). (1995, March 9). Oral history interview with Alex Abisheganaden [Transcript of MP3 recording no. 001461/11/01, p. 3]. Retrieved from National Archives of Singapore website.
+[^1]:Tan, B.L. (Interviewer). (1995, March 9). *[Oral history interview with Alex Abisheganaden](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/7/722241e1-1160-11e3-83d5-0050568939ad-OHC001461_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=11)* [Transcript of MP3 recording no. 001461/11/01, p. 3]. Retrieved from National Archives of Singapore website.
 
 [^2]:Telephone correspondence with Jacintha Abisheganaden, daughter of Alex Abisheganaden, on 24 January 2017.
 
