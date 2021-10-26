@@ -123,21 +123,29 @@ Alex Abisheganaden composed this piece of music, which was inspired by the Japan
 Composed by Ray Goetz, Joe Young and Pete Wendling, this arrangement by Alex Abisheganaden features the steel-pedal guitar for a Hawaiian-like effect. It was an encore piece for the 1995 GENUS concert.
 	</span>
 	
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Vol-13-issue-1/the-guitar-man/joy_loh.png">
+<b>Joy Loh</b> is an Associate Librarian with the National Library, Singapore. Her job entails managing and developing the library’s performing arts collection as well as overseeing the MusicSG digital archive. Joy also enjoys making magic in the kitchen.
+</div>
+
+<a href="/vol-13/issue-1/apr-jun-2017/"><center>Back to Issue</center></a>
+	
 #### **REFERENCES**
 
-Abisheganaden, A. (1970). Music making with the guitar. Vol 1. (p. 3). Singapore: ETV Service. (Call no.: RSING 787.6151 ABI)
+Abisheganaden, A. (1970). *[Music making with the guitar. Vol 1](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4141501)*. (p. 3). Singapore: ETV Service. (Call no.: RSING 787.6151 ABI)
 
-Abisheganaden, A. (1983, June 12). 60 years playing the high notes. The Straits Times, p. 24. Retrieved from NewspaperSG.
+Abisheganaden, A. (1983, June 12). [60 years playing the high notes](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19830612.2.72.1.aspx). *The Straits Times*, p. 24. Retrieved from NewspaperSG.
 
-Chan, B. (2008, July 4). Teacher’s pet project. The Straits Times, p. 68. Retrieved from NewspaperSG.
+Chan, B. (2008, July 4). [Teacher’s pet project](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20080704-1.2.86.6.4). *The Straits Times*, p. 68. Retrieved from NewspaperSG.
 
-Chang, T.L. (2007, March 23). The guitar man. The Straits Times, p. 80. Retrieved from NewspaperSG.
+Chang, T.L. (2007, March 23). [The guitar man](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20070323-1.2.92.7.3). *The Straits Times*, p. 80. Retrieved from NewspaperSG.
 
-Chang, T.L. (2007, March 27). The sounds of joyous youth. The Straits Times, p. 49. Retrieved from NewspaperSG.
+Chang, T.L. (2007, March 27). [The sounds of joyous youth](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20070327-1.2.67.2.3). *The Straits Times*, p. 49. Retrieved from NewspaperSG.
 
-Chua, C.H. (Interviewer). (1993, March 9). Oral history interview with Paul Abisheganaden [Transcript of MP3 recording no. 001415/48/01, p. 7]. Retrieved from National Archives of Singapore website.
+Chua, C.H. (Interviewer). (1993, March 9). *[Oral history interview with Paul Abisheganaden](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4141501)* [Transcript of MP3 recording no. 001415/48/01, p. 7]. Retrieved from National Archives of Singapore website.
 
-Doray, B. (1972, September 25). Drugs: Call to set up youth service.The Straits Times, p. 12. Retrieved from NewspaperSG.
+Doray, B. (1972, September 25). [Drugs: Call to set up youth service](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720925-1.2.68). *The Straits Times*, p. 12. Retrieved from NewspaperSG.
 
 Email correspondence with Balraj Gopal, a protégé of Alex Abisheganaden, on 27 December 2016, and 1, 3, 19 January, and 10 February 2017. Email correspondence with Bernard Tan Tiong Gie, prolific and acclaimed local composer and a friend of Alex Abisheganaden, on 19 January 2017.
 
@@ -187,31 +195,31 @@ Email correspondence with Ng Shu Haan, ex-student of Alex Abisheganaden, on 22 J
 
 Email correspondence with James Heng, ex-student of Alex Abisheganaden, on 24 January 2017.
 
-Indian boys who speak Hokkien. (2003, August 3). The Straits Times, p. 3. Retrieved from NewspaperSG.
+[Indian boys who speak Hokkien](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20030803-1.2.70.10). (2003, August 3). *The Straits Times*, p. 3. Retrieved from NewspaperSG.
 
-Koh, T., et. al. (Eds.). (2006). Singapore: The encyclopedia. Singapore: Editions Didier Millet in association with National Heritage Board, p. 21. (Call no.: RSING 959.57003 SIN)
+Koh, T., et. al. (Eds.). (2006). *[Singapore: The encyclopedia](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12768833)*. Singapore: Editions Didier Millet in association with National Heritage Board, p. 21. (Call no.: RSING 959.57003 SIN)
 
-Lum, M. (1993, October 3). Look, it’s Alex in a dress. The Straits Times, p. 4. Retrieved from NewspaperSG.
+Lum, M. (1993, October 3). [Look, it’s Alex in a dress](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19931003.2.49.2.5.aspx). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
 
-Low, Y.L. (1988, July). Plucking the strings to his heart. Singapore Tatler (p. 22). Hongkong: IIlustrated Magazine.(Call no.: RSING 959.57 ST)
+Low, Y.L. (1988, July). Plucking the strings to his heart. *[Singapore Tatler](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5049360)* (p. 22). Hongkong: IIlustrated Magazine.(Call no.: RSING 959.57 ST)
 
-Nanda, A. (2011, October 17). Strings of passion. The Straits Times, p. 4. Retrieved from NewspaperSG.
+Nanda, A. (2011, October 17). [Strings of passion](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20111017-1.2.56.1.2). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
 
-National Library Board. (2008). Alex Abisheganaden written by Chang, Tou Liang. Retrieved from Singapore Infopedia website.
+National Library Board. (2008). *[Alex Abisheganaden](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1360_2008-07-27.html)* written by Chang, Tou Liang. Retrieved from Singapore Infopedia website.
 
-National Library Board. (2017, February 17). Jacintha Abisheganaden written by Ho, Stephanie. Retrieved from Singapore Infopedia website.
+National Library Board. (2017, February 17). *[Jacintha Abisheganade](http://eresources.nlb.gov.sg/infopedia/articles/SIP_2015-02-17_110409.html)*n written by Ho, Stephanie. Retrieved from Singapore Infopedia website.
 
-National University of Singapore Guitar Ensemble. (2016). Our Founder – Alex Abisheganaden. Retrieved from National University of Singapore Guitar Ensemble website.
+National University of Singapore Guitar Ensemble. (2016). *Our Founder – Alex Abisheganaden*. Retrieved from National University of Singapore Guitar Ensemble website.
 
-National Library Board. (2008). Alexander S. Abishegenaden, Cultural Medallion Award, 1988, Music [Interview]. Retrieved from NORA.
+National Library Board. (2008). *[Alexander S. Abishegenaden, Cultural Medallion Award, 1988, Music [Interview]](https://eresources.nlb.gov.sg/arts/website/Contents/ArticleDetails.aspx?Id=812141f6-3990-4ae4-823a-c3d0e3bb5d84)*. Retrieved from NORA.
 
-National Library Board. (2008). Gela nexus. Retrieved from NORA.
+National Library Board. (2008). *[Gela nexus](https://eresources.nlb.gov.sg/arts/website/Contents/ArticleDetails.aspx?Id=c5192db8-d7cb-42ab-9027-a347b28f4741)*. Retrieved from NORA.
 
-National Library Board. (2008). Huan Yin–Vanakam. Retrieved from NORA.
+National Library Board. (2008). *[Huan Yin–Vanakam](https://eresources.nlb.gov.sg/arts/website/Contents/ArticleDetails.aspx?Id=a6254e44-9314-4ca5-a5fe-18129cd044e5)*. Retrieved from NORA.
 
-National Library Board. (1995). Katong blues: [music score]. Retrieved from NORA.
+National Library Board. (1995). *[Katong blues: [music score]](https://eresources.nlb.gov.sg/arts/website/Contents/ArticleDetails.aspx?Id=bc5bc824-3add-4197-b8cb-0c7d5a9d3d3f)*. Retrieved from NORA.
 
-National Library Board. (2017). Cultural Medallion written by Tan, Isabel. Retrieved from Singapore Infopedia website.
+National Library Board. (2017). *[Cultural Medallion](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1867_2012-01-30.html)* written by Tan, Isabel. Retrieved from Singapore Infopedia website.
 
 National University of Singapore. (2016). NUS Guitar Ensemble. Retrieved from National University of Singapore website.
 
