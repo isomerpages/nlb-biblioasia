@@ -6,7 +6,7 @@ layout: post
 ---
 #### Theatre thespian and film director **Glen Goei** reflects on his transition from the stage to cinema screen.
 
-<img src="/images/vol-11-issue-1/myleapintomovies/Glen_Goei_profile.jpg">
+<img style="width:70%" src="/images/vol-11-issue-1/myleapintomovies/Glen_Goei_profile1.jpg">
 <div style="background-color: white;">
 </div>	
 	
