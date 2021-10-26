@@ -78,13 +78,23 @@ The donation by the Singapore Lam Ann Association is especially significant give
 <a href="https://biblioasia.nlb.gov.sg/vol-14/issue-2/jul-sep-2018/"><center>Back to Issue</center></a>
 
 #### **NOTES**
-[^1]:
-[^2]:
-[^3]:
-[^4]:
-[^5]:
-[^6]:
-[^7]:
-[^8]:
-[^9]:
-[^10]:
+[^1]:Zaccheus, M. (2016, November 20). [Nuggets of Singapore history, from inscriptions](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20161120-1.2.5.19). *The Straits Times*, p. 11. Retrieved from NewspaperSG.
+[^2]:水廊头风山寺 (*Shui Lang Tou Feng Shan Si*) is the name given to the temple to differentiate it from other temples in Singapore that are also called Hong San See. 水廊头refers to a well that used to exist at Mohamed Sultan Road in the early 20th century. It was the main source of water for the villagers living in the area at the time. The use of this name was believed to have started in 1905, according to an inscription found at the 水廊头大伯公庙 (*Shui Lang Tou Da Bo Gong Miao*), a Tua Pek Kong temple. See 林文川. (2003, October 5). [本地多家寺庙取名“风山寺”](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb20031005-1.2.9.12). 联合晚报 [*Lianhe Wanbao*], p. 6; [新加坡地名趣谈](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb19910210-1.2.60.2.1). (1991, February 10). 联合早报 [*Lianhe Zaobao*], p. 40. Retrieved from NewspaperSG.
+[^3]:Urban Redevelopment Authority (Singapore). (1992). [*Hong San See preservation guidelines*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6581707) (Vol. 1, p. 4). Singapore: Preservation of Monuments Board. (Call no.: RSING 363.69095957 HON); Colony of Singapore. [*Government gazette*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4826186). (1951, June 15). List of existing societies registered in the Colony of Singapore (p. 934). Singapore: [s.n.] (Call no.: RCLOS 959.57 SGG).
+[^4]:Qing Shan Ting, at the junction of South Bridge Road and Tanjong Pagar Road, is one of the earliest Chinese burial grounds. See Yeoh, B.S.A. (2003). [*Contesting space in colonial Singapore: Power relations and the urban built environment*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827061) (p. 285). Singapore: Singapore University Press. (Call no.: RSING 307.76095957 YEO)
+[^5]:Dean, K., & Hue, G.T. (2017). [*Chinese epigraphy in Singapore 1819–1911*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202761291) (Vol. 1, pp. 414–415, 433–434). Singapore: NUS Press; Guilin City: Guangxi Normal University. (Call no.: RSING 495.111 DEA).
+[^6]:Sim, W. (2014, November 21). [Clan group gives almost $1m to centre](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20141121-1.2.7.11). *The Straits Times*, p. 8. Retrieved from NewspaperSG.
+[^7]:Sim, W. (2014, November 20). PM Lee pays tribute to people from Lam Ann county in Fujian; clan group donates $880,000. *The Straits Times*. Retrieved from *The Straits Times* website.
+[^8]:南安会馆前身： 凤山寺170春秋话从头. (2006, September). [*南安会讯 = The Lam Ann bulletin*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12859495), 17, p. 3. 新加坡: 新加坡南安会馆. (Call no.: Chinese RSING 369.25957 LAB); 郭志阳 & 郭志阳主编 [Lam Ann Association (Singapore)]. (2006). [*新加坡南安会馆80周年纪念特刊, 1926–2006 = Singapore Lam Ann Association 80th anniversary souvenir magazine*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12881588) (p. 65). 新加坡: 新加坡南安会馆. (Call no.: Chinese RSING 369.2597 SIN).
+[^9]:黄慧敏. (2016, July 7). 海门奇葩 峇峇社群三语文学. *联合早报*. Retrieved from Zaobao website; [Dean & Hue](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202761291), 2017, vol. 1, p. 434; 陈省堂. (1893, December 16). 游凤山寺记. *星报*, p. 5. Retrieved from National University of Singapore website.
+[^10]:[Urban Redevelopment Authority (Singapore)](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6581707), 1992, vol. 1, p. 5.
+[^11]:
+[^12]:
+[^13]:
+[^14]:
+[^15]:
+[^16]:
+[^17]:
+[^18]:
+[^19]:
+[^20]:
