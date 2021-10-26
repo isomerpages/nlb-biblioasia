@@ -123,8 +123,7 @@ I don't play the violin at all. I can get by playing the guitar if the audience 
 
 <i>Catch “Rewind/Remind: A Singapore Memory Project Film Festival”, featuring specially curated films by eight local directors, from 23 May 2015 to 20 June 2015 at the National Library Building, library@ esplanade, library@ orchard, Tampines Regional Library, Woodlands Regional Library as well as Bukit Merah Public Library. Find out more at bit.ly/smpfilmfest</i>
 
-![Alt text for image on Isomer site](/images/vol-11-issue-1/directorchair/SMP_BA2_01_re.jpg)
-<div style="background-color: white;"></div>
+<img src="/images/vol-11-issue-1/directorchair/last.jpg" style="width:70%">
 
 <p style="font-size:15px;"><b>Michelle Heng</b> is a Librarian with the National Library of Singapore. She compiled and edited <i>Singapore Words Maps: A Chapbook of Edwin Thumboo’s New and Selected Place Poems</i> as well as <i>Selected Poems of Goh Poh Seng.</i></p>
 
