@@ -22,7 +22,7 @@ Delving earlier back into history, [Wilbert Wong](/vol-13/issue-1/apr-jun-2017/d
 
 The indelible impression left by the Japanese Occupation, says [Mark Wong](/vol-13/issue-1/apr-jun-2017/voices-that-remain), is painfully apparent in the first-hand oral-history transcripts of survivors from the era. The interviews − collected by the National Archives of Singapore – that recount everyday realities as remembered by people from different walks of life are a visceral reminder of the time when Singapore was called Syonan-to (“Light of the South”).
 
-On a much lighter note, Joy Loh charts the career of the music maestro Alex Abisheganaden, hailed as Singapore’s “Father of the Guitar”. His multifaceted music career was recognised with a Cultural Medallion in 1988.
+On a much lighter note, [Joy Loh](/vol-13/issue-1/apr-jun-2017/guitar-man) charts the career of the music maestro Alex Abisheganaden, hailed as Singapore’s “Father of the Guitar”. His multifaceted music career was recognised with a Cultural Medallion in 1988.
 
 Finally, we feature two intimate and vivid accounts of what it was like to grow up as a Eurasian and a Malay person in Singapore, written by [Melissa De Silva](/vol-13/issue-1/apr-jun-2017/meetingwiththesea) and [Hidayah Amin](/vol-13/issue-1/apr-jun-2017/gedung-kuning) respectively. The former retraces her Portuguese roots in Malacca, where her great-grandfather had been a fisherman, while the latter recalls her formative years living in the historic Gedung Kuning, or “Yellow Mansion”, in Kampong Glam, which her great-grandfather first bought in 1912.
 
