@@ -67,3 +67,32 @@ This souvenir programme by the Singapore Amateur Weight-lifting Federation carri
 <br><br>
 One of the statutory functions of the National Library Board Act is Legal Deposit. Under the act, all publishers, commercial or otherwise, are required by law to deposit two copies of every work published in Singapore with the National Library within four weeks of its publication. The Legal Deposit function ensures that Singapore’s published heritage is preserved for future generations. Legal Deposit also acts as a repository for published materials, providing exposure via the online catalogue, PublicationSG: catalogue.nlb.gov.sg/publicationsg. For more information, please visit www.nlb.gov.sg/Deposit.
 </div>
+<br>
+<div style="background-color: white;">
+<img src="/images/Vol-14-issue-2/sporting-glory/Glory9.jpg" style="width: 100px; height: 100px;">
+<b>Sharen Chua</b> is a Librarian with the National Library, Singapore. She is part of the team that oversees the statutory functions of the National Library, in particular Legal Deposit.
+</div>
+
+<a href="https://biblioasia.nlb.gov.sg/vol-14/issue-2/jul-sep-2018/"><center>Back to Issue</center></a>
+
+#### **NOTES**
+[^1]:Joseph Schooling is Singapore’s first Olympic champion. (2016, August 13). Channel NewsAsia. Retrieved from Factiva via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
+[^2]:Teo, E. (2012, July 31). [Olympic heroes](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20120731-1.2.72.10.3). *The Straits Times*, p. 19. Retrieved from NewspaperSG.
+[^3]:Nathan, K. (2010, January 26). [Riding against the odds](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20100126-1.2.65.12.1). *The Straits Times*, p. 14. Retrieved from NewspaperSG.
+[^4]:Ang, J. (2010, September 9). [Paralympics beckons Pin Xiu](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20100909-1.2.47.17). *The Straits Times*, p. 14. Retrieved from NewspaperSG.
+[^5]:[Scholarships for medallists](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper20100828-1.2.58.2). (2010, August 28). *The New Paper*, p. 65. Retrieved from NewspaperSG.
+[^6]:Sazali Abdul Aziz. (2014, August 25). [History makers](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper20140825-1.2.26.6.2). *The New Paper*, p. 14. Retrieved from NewspaperSG.
+[^7]:Ong, C.K. (2002, July 24). [Chasing gold](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20020724-1.2.4). *The Straits Times*, p. 1; Nair, S. (2002, August 5). [13 good ones](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper20020805-1.2.55). *The New Paper*, p. 43. Retrieved from NewspaperSG.
+[^8]:Rai, H. (1986, September 7). [How it all started](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19860907-1.2.44.9.4). *The Straits Times*, p. 17. Retrieved from NewspaperSG.
+[^9]:[Asian Games: Gold medal for S’pore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/indiandailymail19510307-1.2.17). (1951, March 7). Indian Daily Mail, p. 1; Oh, D. (1951, March 18). [Asian Games men return, ‘Flying Fish’ Neo given hero’s welcome at airport](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/sundaystandard19510318-1.2.77). Sunday Standard, p. 7. Retrieved from NewspaperSG.
+[^10]:
+
+
+
+
+
+
+
+
+
+Biennial series started as Seap Games in 1959. (1995, November 9). The Straits Times, p. 53. Retrieved from NewspaperSG; South-East Asia Peninsula Games. (1973). Record of results (pp. 4, 6, 8, 14A). Singapore: South-East Asia Peninsula Games. (Call no.: RCLOS 796 SOU) 
