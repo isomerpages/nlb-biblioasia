@@ -55,12 +55,12 @@ Another example of a handmade book is <i>Princess Meera</i>. Published in 1963, 
 
 llustrations of Japanese literature typically feature woodblock colour-printing called <i>ukiyo-e</i>, one of the most famous traditional Japanese art forms.
 
-The beauty of woodblock prints can be seen in <i>Otogi-Banashi</i>, a bilingual title packaged as an old-style toybook, which combines concepts of learning with play and serves as educational toys for children as well. Relatively few specimens in good condition exist today as, in many cases, these toybooks were literally read to pieces.[^1]
+The beauty of woodblock prints can be seen in <i>Otogi-Banashi</i>, a bilingual title packaged as an old-style toy book, which combines concepts of learning with play and serves as educational toys for children as well. Relatively few specimens in good condition exist today as, in many cases, these toy books were literally read to pieces.[^1]
 
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-10-issue-1/folktales/Otogi_Banashi_open.jpg">
-The uniqueness of <i>Otogi-Banashi</i> lies in its accompanying miniature books and the book-within-a-book format. The miniature books contain only illustrations. The bigger book provides captions to the miniature books and an introductory essay to the history of toybooks and woodblock prints.</div>
+The uniqueness of <i>Otogi-Banashi</i> lies in its accompanying miniature books and the book-within-a-book format. The miniature books contain only illustrations. The bigger book provides captions to the miniature books and an introductory essay to the history of toy books and woodblock prints.</div>
 
 The craft of toybooks were originally created as playthings for Japanese children. Three Japanese folktales are featured in this volume: <i>The Old Man Who Makes the Flowers Bloom, Momotaro and KachiKachi Mountain</i>. The binding and outer slipcover for this particular volume is made of <i>chiyogami</i>, a traditional Japanese paper characterised by its hand-stencilled and block-printed patterns. 
 
@@ -77,7 +77,7 @@ For more recent works featuring woodblock prints, award-winning artist Keizaburo
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-10-issue-1/folktales/omocha-e_1_re.jpg">
-The woodblocks used to print the <i>omocha-e</i> (toy pictures) in <i>Otogi-Banashi</i> were cut during the Taisho period (1912–1926). By a fortunate shift in location, the woodblocks escaped the bombing that destroyed most of Tokyo during World War II. Just before the war, the well-known printing house of Ise-tatsu was moved from Kanda to the historic area known as Yanaka. This was one of the few areas of Tokyo that escaped the bombings. As Hirose Tatsuguro remarks, it was a stroke of luck that the woodblocks of one of the last publishers of traditional children’s books and <i>omocha-e</i> survived. The war saw the loss of private collections of <i>omocha-e</i> owned by children. As few museums or libraries had thought of collecting these toy-books, their loss was irreparable. </div>
+The woodblocks used to print the <i>omocha-e</i> (toy pictures) in <i>Otogi-Banashi</i> were cut during the Taisho period (1912–1926). By a fortunate shift in location, the woodblocks escaped the bombing that destroyed most of Tokyo during World War II. Just before the war, the well-known printing house of Ise-tatsu was moved from Kanda to the historic area known as Yanaka. This was one of the few areas of Tokyo that escaped the bombings. As Hirose Tatsuguro remarks, it was a stroke of luck that the woodblocks of one of the last publishers of traditional children’s books and <i>omocha-e</i> survived. The war saw the loss of private collections of <i>omocha-e</i> owned by children. As few museums or libraries had thought of collecting these toy books, their loss was irreparable. </div>
 
 <div style="background-color: white;">
 <br/>
