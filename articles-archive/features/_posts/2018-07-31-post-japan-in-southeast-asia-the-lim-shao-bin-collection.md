@@ -72,9 +72,33 @@ There are six large-format American World War I posters in the collection. These
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
 <img src="/images/Vol-14-issue-2/japan-in-southeast-asia/Collection3.JPG"><br>
 	As part of reconnaissance efforts, the Japanese military prepared detailed maps of key cities in Southeast Asia in the 1930s, including this one of Singapore titled 新嘉坡市街図 (Shingapōru shigai chizu), which marks out 83 landmarks and locations of interest such as government and commercial buildings. An accompanying booklet (an inside page shown here) contains photographs of the places and landmarks found on the map. The map was most likely used by the Japanese military to requisition important buildings in Singapore after the British surrender. (Accession nos.: B29245121D [map]; B29255626D [booklet]).
-<br><br>
+<br><br><br>
 <img src="/images/Vol-14-issue-2/japan-in-southeast-asia/Collection4.JPG"><br>
 This 1929 map, 南洋ニ於ケル邦人栽培企業現勢圖 (Nan’yo ni okeru hojin saibai kigyo genseizu), includes seven charts that compare the cultivation, investment and consumption of rubber by Japan with the rest of the world. Also included is a diagram that shows the distance between Singapore and other major ports in Southeast Asia, highlighting the importance of Singapore as an export centre for half of the world’s rubber supply that was produced in Malaya at the time. Southeast Asia’s rich natural resources was one of the primary reasons cited for Japan’s military advance into Southeast Asia during World War II. (Accession no.: B29245119K)
-<br><br>
-<img src="/images/Vol-14-issue-2/japan-in-southeast-asia/Collection3.JPG"><br>
+<br><br><br>
+<img src="/images/Vol-14-issue-2/japan-in-southeast-asia/Collection5.JPG"><br>
+Printed on 2 March 1942, about two weeks after the fall of Singapore, this map titled 馬來半島及昭南島(新嘉坡島)精圖; 昭南港(新嘉坡)市街地圖 (Marai hantō oyobi Shōnantō [Shingapōrutō] seizu; Shōnankō [Shingapōru] shigai chizu) marks the location of 78 Japanese businesses in Syonan City with street names given in English. On the reverse are maps of the Malay Peninsula and Syonan Island (Singapore), with the locations and names of the 11 mines and 25 rubber plantations owned by Japanese citizens. The map of Syonan City is based on an earlier city map published by the Singapore Japanese Club in 1938. (Accession no.: B29245124G)
+<br><br><br>
+<img src="/images/Vol-14-issue-2/japan-in-southeast-asia/Collection6.JPG"><br>
+ Prepared by the Japanese 25th Army in February 1942, this map titled 新嘉坡嶋に於ける敵軍戦闘指導要領要図 (Shingapōru ni okeru tekigun sentō shidōyōryō yōzu) details one course of attack on Singapore. It involved the capture of Seletar and an invasion from the north-east of the island. The intended plan of action is outlined in blue text on the top right-hand corner of the map. (Accession no.: B29245125H)
+<br><br><br>
+<img src="/images/Vol-14-issue-2/japan-in-southeast-asia/Collection1.JPG"><br>
+Printed in 1944 as a magazine supplement, this board game titled 双六大東亞共榮圏めぐり: 新年號附録 (<i>Sugoroku Dai Tōa Kyōeiken meguri: Shinnengō furoku</i>) was designed to look like a map of the Greater East Asia Co-Prosperity Sphere (see Note 2). The game brings players on a tour of the various territories controlled by the Japanese during World War II. The illustrations depict landmarks in Asia, as well as Asian leaders (Wang Jingwei of China, Ba Maw of Burma, Subhas Chandra Bose of India and Jose P. Laurel of the Philippines), who had either collaborated with the Japanese to overthrow Western colonial rule or were installed as puppet heads of states in their own countries. Singapore is represented by a view of the city from the sea and the Syonan Jinja shrine in the MacRitchie Reservoir area, which commemorates Japanese soldiers who perished in the battles of Malaya and Sumatra. (Accession no.: B29245106G)
+<br><br><br>
+<img src="/images/Vol-14-issue-2/japan-in-southeast-asia/Collection7.JPG"><br>
+Postcards issued by Japanese shipping companies, such as Nippon Yusen Kaisha and Osaka Shosen Kaisha, identified Singapore as one of the strategic ports of call along their liner and cargo routes. This undated postcard by the Osaka Shosen Kaisha features wellknown landmarks and scenes of the various ports of call – including Singapore, Colombo, Los Angeles and Rio de Janeiro – of the MS La Plata Maru. (Accession no.: B32413808G)
+<br><br><br>
+<img src="/images/Vol-14-issue-2/japan-in-southeast-asia/Collectionx.JPG"><br>
+A postcard commemorating the historic visit by Crown Prince Hirohito (later Emperor Showa) to Europe in 1921. The royal entourage stayed in Singapore from 18 to 22 March 1921 whilst en route to Europe. (Accession no.: B32413808G)
+<br><br><br>
+<img src="/images/Vol-14-issue-2/japan-in-southeast-asia/Collection8.JPG"><br>
+The first page of a letter from Koighiro Ejiri of Ryuoyakubo, a Japanese drug store at 414 North Bridge Road, addressed to a Watanabe of Messrs S. Tachika in Seremban, Malaya, describing the Japanese and Chinese medical supplies sold in the store. The letter illustrates the personal connections between Japanese residents in Singapore and Malaya as well as the business networks that existed between Singapore, Xiamen (China) and Japan. The envelope is postmarked 17 May 1918 from the post office that used to operate at Raffles Hotel. In the early 20th century, many Japanese-owned shops were located on Middle Road (which was known as Little Japan back then) and North Bridge Road. (Accession no.: B32413805D)
+<br><br><br>
+<img src="/images/Vol-14-issue-2/japan-in-southeast-asia/Collection9.JPG"><br>
+A Japanese postcard featuring the waterfront and skyline of Syonan City (Singapore) dated 6 August 1945. Visible from the photo is the General Post Office (today’s Fullerton Hotel), the Victoria Theatre and Concert Hall, the old Supreme Court and Municipal Building (today’s National Art Gallery) and St Andrew’s Cathedral. The writer, Wako Kobayashi, describes her life as an apprentice in a factory and her future plans when the war ends. She encourages Mie Kakuda, the addressee of this postcard, to press on during this time of adversity. (Accession no.: B32413808G)
+<br><br><br>
+<img src="/images/Vol-14-issue-2/japan-in-southeast-asia/Collection10.JPG"><br>
+Picture postcards of colonial Singapore. Some of these carry messages written by Japanese residents or tourists visiting Singapore. They were sent to family, friends and business associates back in Japan, although a small number are addressed to other Japanese residents living in Malaya. About a third of the 500 postcards were printed in Japan. The names of studios and photographers are usually not stated on the cards but a few include the names of Japanese studios in Singapore and Malaya, such as Togo & Co. (Singapore), Hakone Studio (Melaka) and M. Nakajima (Kuala Lumpur). There are also cards produced by non-Japanese studios and stationers in Singapore like G.R. Lambert, Max H. Hilckes, Wilson & Co., Continental Stamp Co. and Koh & Co. (Accession no.: B32413805D)
+<br><br><br>
+<img src="/images/Vol-14-issue-2/japan-in-southeast-asia/Collection8.JPG"><br>
 </span>
