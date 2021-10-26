@@ -6,7 +6,7 @@ layout: post
 ---
 <img src="/images/Vol-14-issue-2/vol14_iss2.JPG">
 
-“Selling Dreams: Early Advertising in Singapore”. That’s the title of our latest exhibition opening at the National Library Building on 20 July 2018 – showcasing print advertisements drawn from the library’s collection of newspapers, periodicals, books and ephemera produced between the 1830s and 1960s. In this issue’s cover story, Chung Sang Hong provides an overview of the exhibition and tells us how advertisements can provide clues to the social and economic conditions of the time.
+“Selling Dreams: Early Advertising in Singapore”. That’s the title of our latest exhibition opening at the National Library Building on 20 July 2018 – showcasing print advertisements drawn from the library’s collection of newspapers, periodicals, books and ephemera produced between the 1830s and 1960s. In this issue’s cover story, [Chung Sang Hong](/vol-14/issue-2/jul-sep-2018/stuff-of-dreams-sg/) provides an overview of the exhibition and tells us how advertisements can provide clues to the social and economic conditions of the time.
 
 What was the act of shopping like for Singaporeans in the 1960s? For one thing, people didn’t “hang out” at shopping malls like they do today. Yu-Mei Balasingamchow takes a walk down Raffles Place, High Street and North Bridge Road – where she relives the halcyon days of department stores such as Whiteaways and John Little, standalone shops the likes of Chotirmall and Bajaj Textiles, and the slightly seedy but fascinating warren of Change Alley.
 
@@ -22,7 +22,7 @@ Between 1972 and 1989, people living in HDB flats would look forward to receivin
 
 Singapore’s oldest and longest Pan-Island Expressway was constructed between 1966 and 1981. Since then, 10 other expressways have been built. Lim Tin Seng takes us on a whirlwind tour of the island’s network of expressways, and offers a peek into the future – the North-South Corridor slated for completion in 2026.
 
-Ang Seow Leng shares highlights from the recent donation of rare historical items by the Singapore Lam Ann Association, while [Gracie Lee](https://nlb-ba-staging.netlify.app/vol-14/issue-2/jul-sep-2018/japan-in-sea-lim-sbc/) explains the significance of the Lim Shao Bin Collection of Japanese World War II memorabilia comprising books, maps, postcards, letters and newspapers. Finally, Sharen Chua presents highlights of commemorative sports publications from our Legal Deposit Collection. We hope you enjoy reading this edition of *BiblioAsia*.
+Ang Seow Leng shares highlights from the recent donation of rare historical items by the Singapore Lam Ann Association, while [Gracie Lee](/vol-14/issue-2/jul-sep-2018/japan-in-sea-lim-sbc/) explains the significance of the Lim Shao Bin Collection of Japanese World War II memorabilia comprising books, maps, postcards, letters and newspapers. Finally, Sharen Chua presents highlights of commemorative sports publications from our Legal Deposit Collection. We hope you enjoy reading this edition of *BiblioAsia*.
 
 <br>
 <b>Ms Wai Yin Pryke</b><br>Director<br>National Library
