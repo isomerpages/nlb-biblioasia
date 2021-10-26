@@ -14,7 +14,7 @@ sections:
         - title: ""
           description: Be enthralled by the comics collection at the National Library,
             ancient gold in Southeast Asia and more!
-          url: /vol-17/issue-2/jul-sep-2021/
+          url: /vol-17/issue-3/oct-dec-2021/
       button: Read the current issue
       url: /vol-17/issue-3/oct-dec-2021/
   - infopic:
