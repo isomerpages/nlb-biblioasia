@@ -57,7 +57,7 @@ Another German cartographer, Sebastian Münster (1488–1552) produced a new edi
 
 <div style="background-color: white;">
 <br/>
-<img style="width:100%" src="/images/vol-11-issue-1/searchingforsg/Tabula_Asiae_XI_combined2.jpg">
+<img style="width:70%" src="/images/vol-11-issue-1/searchingforsg/Tabula_Asiae_XI_combined2.jpg">
 Tabula Asiae XI, Arnold Buckinck, 1478. The earliest map in the National Library's rare maps collection is a 1478 Ptolemaic map. The “Aurea Chersonesus” (or Golden Chersonese) in the map refers to the Malay Peninsula. <i>Collection of the National Library, Singapore.</i>
 </div>
 
