@@ -49,3 +49,20 @@ In 1936, a row erupted over the ownership of the temple, leading to a legal suit
 
 Between 2006 and 2009, the temple underwent a $3-million restoration project spearheaded by the Lam Ann Association and funded by clan members, temple devotees and the Lee Foundation. The restoration was so well executed that in 2010, Hong San See Temple became the first building in Singapore to receive the Award of Excellence in the UNESCO Asia- Pacific Heritage Awards for Cultural Heritage Conservation.17
 
+<img src="/images/Vol-14-issue-2/preserving-nanan-history-in-sg/Preserving5.JPG">
+<div style="background-color: white;">Before the Registry of Marriages was established in 1961, the Singapore Lam Ann Association solemnised weddings among members of the Nan’an community and issued
+marriage certificates. The certificates – adorned with butterflies, birds and flowers – would indicate the names of the bride, groom, witnesses, matchmakers and solemniser. This particular marriage was solemnised on the morning of the 24th day of the 8th lunar month in 1960 (14 October 1960). <i>All rights reserved, National Library Board, 2018.</i></div>
+
+#### **Highlights of the Donations**
+
+Among the items that the Lam Ann Association donated to the National Library are its rules and regulations document from 1950, minutes of clan meetings (1924–35), documents relating to the exhumation of the remains of civilians killed during the Japanese Occupation, marriage certificates issued by the association (1935–60), and a set of seven accounts books pertaining to the construction of the Hong San See Temple, including names of the craftsmen involved and the cost as well as types of building materials.
+
+During the restoration of the temple between 2006 and 2009, these accounts books provided crucial information that helped resolve differences in opinion among various project consultants with regard to the colour of the original tiles used in the eaves. For instance, one of the entries in volume 2 revealed that green glazed eave tiles were purchased in the Wu-shen (戊申) year (1908) during the construction of the temple.18
+
+In an article published in *Lianhe Zaobao Weekly* on 1 April 2018,19 independent Chinese history researcher Kua Bak Lim pointed out that the dates recorded in the association’s accounts books – the earliest of which is from 1907 – reflect the Gregorian and Chinese Lunar calendars as well as the Chinese era name of the reigning emperor, hinting at the political changes taking place in China at the time, especially between the years 1910 and 1911 when the Qing dynasty was overthrown. Interestingly, Suzhou numerals, in which special symbols to represent digits instead of Chinese characters for accounting and bookkeeping purposes, were used in these books.
+
+Kua also noted that names of companies and banks listed in the accounts books provide a snapshot of the Chinese commercial firms operating in Singapore in the early 20th century.
+
+<img src="/images/Vol-14-issue-2/preserving-nanan-history-in-sg/Preserving6.JPG">
+<div style="background-color: white;">(Left) Among the items donated by the Singapore Lam Ann Association is a set of seven accounts books pertaining to the construction of Hong San See Temple. Entries in the accounts books are written in both the Gregorian and traditional Chinese lunar calendars. In this page from volume 3, the first entry from the right is dated Wu-shen (戊申) year, month of the osmanthus (eighth lunar month) and 28th day. In the Gregorian calendar, this is 23 September (实添末) 1908. <i>Image reproduced from 新建凤山寺草清簿: 光绪三十四年岁次戊申瓜月英1908年乌兀吉立出入银项工料 (Vol. 3; p. 11).</i><br>
+(Right) The accounts books include names of the craftsmen and details of the cost of building the temple as well as types of building materials used. One of the entries in volume 2 indicates that green glazed eave tiles were purchased in the Wu-shen (戊申) year (1908) during the construction of the temple. Such information proved invaluable for architects involved in the restoration work. <i>Images reproduced from 凤山寺总簿：大清光绪叁拾叁年岁次丁未孟冬月立 (Vol. 2; pp. 185–186).</i></div>
