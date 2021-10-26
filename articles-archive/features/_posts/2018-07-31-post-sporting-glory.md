@@ -32,3 +32,32 @@ Closer to home is the biennial Southeast Asian (SEA) Games. The event was launch
 
 Featured here is a selection of souvenir publications – highlighting events and personalities in Singapore’s sporting history – found in the National Library’s Legal Deposit Collection.
 
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
+	<b>12th SEA Games Singapore 1983: Opening Ceremony Souvenir</b> (1983)<br><br>
+<img src="/images/Vol-14-issue-2/sporting-glory/Glory2.JPG">
+The publication provides information on the Southeast Asian (SEA) Games hosted by Singapore in 1983. It includes details such as the official games theme song, the opening ceremony programme, locations of games venues as well as the names of torch bearers for the torch relay. Among the torch bearers was swimmer Junie Sng, who won 10 golds that year.11
+<br><br>
+		<b>Seventh Asian Games, Tehran 1974: September 1st–16th: Singapore Contingent Souvenir Handbook </b> (1974)<br><br>
+<img src="/images/Vol-14-issue-2/sporting-glory/Glory3.JPG">
+Singapore’s first post-independence gold at the Asian Games was won at the 7th Asian Games in Tehran in 1974. This was achieved by Chee Swee Lee who also made her mark as the first Singaporean woman Asian Games gold medalist.12
+<br><br>
+		<b>Swift Athletes Association Souvenir Programme Silver Jubilee Anniversary Dinner & Dance  </b> (1974)<br><br>
+<img src="/images/Vol-14-issue-2/sporting-glory/Glory4.JPG">
+Swift Athletes Association is the oldest athletics club in Singapore, according to its website.13 This souvenir publication was produced to celebrate its silver Jubilee in 1974. It includes a brief history of the club as well as photos of the Singaporean sprint champion C. Kunalan.
+<br><br>
+	第一届新运会第五届亚运会画刊 	<b>(1st GANEFO of Asia 5th Asian Games)</b> (1967)<br><br>
+<img src="/images/Vol-14-issue-2/sporting-glory/Glory5.JPG">
+GANEFO, or Games of the New Emerging Forces, was created by Indonesia in response to the country’s suspension from the International Olympic Committee after the 1962 Asian Games for mixing politics and sports. There were only two editions of GANEFO: in 1963 and in 1966 when it was known as 1st Asian GANEFO.14
+<br><br>
+	<b>7th SEAP Games: Singapore 1st–8th September 1973 </b>(1973)<br><br>
+<img src="/images/Vol-14-issue-2/sporting-glory/Glory6.JPG">
+This is a record of the results from the 1973 Southeast Asian Peninsular (SEAP) Games hosted by Singapore for the first time. With a final medal tally of 140, Singapore scored the most number of medals at the games.15
+<br><br>
+	第廿届奥林匹克运动大会 <b>(Olympic Games 1972)</b> (1972)<br><br>
+<img src="/images/Vol-14-issue-2/sporting-glory/Glory7.JPG">
+Features articles on various events, the triumphs as well as the disappointments at the 1972 Olympic Games held in Munich, West Germany. The games were overshadowed by the Munich Massacre in which 11 Israeli athletes and officials, along with a West German police officer, were killed by members of a Palestinian terrorist organization group.
+<br><br>
+	<b>Singapore Amateur Weight-lifting Federation Souvenir Programme </b>(1975)<br><br>
+<img src="/images/Vol-14-issue-2/sporting-glory/Glory8.JPG">
+This souvenir programme by the Singapore Amateur Weight-lifting Federation carries a message by Tan Howe Liang, Singapore’s first Olympic medallist and then Singapore’s national weightlifting coach.
+</span>
