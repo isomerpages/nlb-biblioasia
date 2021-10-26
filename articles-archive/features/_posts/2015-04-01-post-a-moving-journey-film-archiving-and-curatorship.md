@@ -82,14 +82,14 @@ The AFA’s collection is available for public reference at the library@ esplana
 <br><br>
 The AFA became a subsidiary of the National Library Board in January 2014.
 <br><br>
-<img  style="width:70%" src="/images/vol-11-issue-1/movingjourney/afa_re.jpg">10th anniversary logo of the Asian Film Archive.</span>
+<img  style="width:70%" src="/images/vol-11-issue-1/movingjourney/afas.jpg">10th anniversary logo of the Asian Film Archive.</span>
 
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;">
 <b>THE 19TH SEAPAVAA CONFERENCE</b>
 <br><br>
 Hosted by the AFA and supported by the National Library Board, Singapore, the 19th South East Asia-Pacific Audiovisual Archives Association (SEAPAVAA) Conference and General Assembly will take place from 22 to 28 April 2015. The week-long event at the National Library Building will feature a two-day symposium with concurrent sessions, institutional visits, Restoration Asia II (an event focusing on the restoration of films in Asia or about Asia), workshops, and an excursion. A total of 48 papers will be presented during the conference on topics such as archival advocacy, archival repatriation, professional development, repurposing of archives, technical, organisational and professional sustainability, and archives at risk. For more information, visit www. seapavaaconference.com. The theme for the 2015 SEAPAVAA conference is <i>Advocate. Connect. Engage.</i> This theme resonates closely with the thrust of AFA’s programmes and the three objectives contained in its mission statement – “To Save, Explore, and Share the Art of Asian Cinema”.
 <br><br>
-<img style="width:70%" src="/images/vol-11-issue-1/movingjourney/logo_w_title.jpg"></span>
+<img style="width:70%" src="/images/vol-11-issue-1/movingjourney/logo_w_titles.jpg"></span>
 
 
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;">
@@ -105,7 +105,7 @@ Digital film restoration is a highly specialised and laborious process. It invol
 <br><br>
 The Asian Film Archive (AFA) was the brainchild of Tan Bee Thiam, its founder and former executive director. After graduating from the National University of Singapore (NUS) in 2004, Tan embarked on a two-month backpacking trip that took him to New Delhi, India. Unbeknownst to him at the time, this visit would sow the seeds for the beginnings of the first Singapore-based film archive. Tan had always been a film enthusiast; as a student he served as the president of the NUS film society, nuSTUDIOS, and was himself an emerging filmmaker. In New Delhi, Tan attended the Osian’s-Cinefan: 6th Festival of Asian Cinema, where he was exposed to key filmmakers from around Asia.
 <br><br>
-These figures, including members from NETPAC (Network for the Promotion of Asian Cinema), like Singapore’s Phillip Cheah and India’s Aruna Vasudev, would later inspire and influence his thoughts. NETPAC’s mission is to promote lesser known Asian films. “The organisation impressed me,” recalls Tan. “A lot of media attention is given to the glamour of the Cannes, Venice and Berlin film festivals. But there are very hardworking Asian filmmakers who create works for their own people. I felt that their work, at least those I’d seen, were important and groundbreaking..”
+These figures, including members from NETPAC (Network for the Promotion of Asian Cinema), like Singapore’s Phillip Cheah and India’s Aruna Vasudev, would later inspire and influence his thoughts. NETPAC’s mission is to promote lesser known Asian films. “The organisation impressed me,” recalls Tan. “A lot of media attention is given to the glamour of the Cannes, Venice and Berlin film festivals. But there are very hardworking Asian filmmakers who create works for their own people. I felt that their work, at least those I’d seen, were important and groundbreaking.”
 <br><br>
 Tan had the good fortune of acting as translator for the post-screening Q&amp;A sessions of the acclaimed Taiwan-based filmmaker Tsai Ming Liang. In their conversations, Tsai provoked Tan into thinking about archiving and its importance. “(Tsai) had problems with distribution, problems with keeping track of his own film prints,” recounts Tan. “Even for a very established filmmaker like Tsai Ming Liang, his works were rarely seen outside of film festivals.” This led to conversations with other Asian filmmakers such as award-winning Malaysian director U-Wei Haji Saari, who revealed that he stored the film prints of his acclaimed films himself, acknowledging that in a tropical environment, they would run the risk of being damaged.
 <br><br>
@@ -125,7 +125,7 @@ Tan turned to his alma mater, NUS, and approached Chew Kheng Chuan, founding dir
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;">
 <b>THE BIRTH</b>
 <br><br>
-Tan approached his NUS schoolmate, filmmaker Kirsten Tan, with whom he had made films with when they were in nuSTUDIOS. Kirsten gave Tan her full support and joined him as a co-founder. He also approached Kenneth Paul Tan, a NUS political science professor at the time, and Kenneth Chan, an assistant professor at Nanyang Technological University’s (NTU) humanities school. Jacqueline Tan, a lecturer for the Film, Sound &amp; Video (FSV) course at Ngee Ann Polytechnic, and Straits Times journalist and film critic Ong Sor Fern rounded out the team, forming the first governing board of the AFA.
+Tan approached his NUS schoolmate, filmmaker Kirsten Tan, with whom he had made films with when they were in nuSTUDIOS. Kirsten gave Tan her full support and joined him as a co-founder. He also approached Kenneth Paul Tan, an NUS political science professor at the time, and Kenneth Chan, an assistant professor at Nanyang Technological University’s (NTU) humanities school. Jacqueline Tan, a lecturer for the Film, Sound &amp; Video (FSV) course at Ngee Ann Polytechnic, and Straits Times journalist and film critic Ong Sor Fern rounded out the team, forming the first governing board of the AFA.
 <br><br>
 The team was met with scepticism in their search for archival space and funding. People were hesitant to collaborate with the AFA as it was unproven in an endeavour that other established institutions had attempted but failed. This changed when Tan emailed a Christmas greeting to NAS’ then director, Pitt Kuan Wah, in December 2004. This email proved to be a game changer.
 <br><br>
