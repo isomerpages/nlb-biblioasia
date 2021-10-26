@@ -4,7 +4,7 @@ date: 2015-04-01
 permalink: /vol-11/issue-1/apr-jun-2015/
 layout: post
 ---
-<img style="width:40%" src="/images/vol-11-issue-1/background/Cover5_dark.jpg">
+<img  src="/images/vol-11-issue-1/background/cover1.jpg">
 
 [<b>Director's Note</b>](/vol-11/issue-1/apr-jun-2015/director-note)
 
