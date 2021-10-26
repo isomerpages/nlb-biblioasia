@@ -82,11 +82,11 @@ Singapore’s wartime survivors will not be around forever, but their voices wil
 <br><br>
 “My father and two uncles were required to report to some registration centre – I don’t know whether [it was] a police station or what, I’m not so sure. Three of them went and only two came back,”  – Foong Fook Kay[^22]
 <br><br>
-“The rice ration we get from our shop was hardly sufficient for our requirement… We chopped the tapioca into small pieces, combined it with the rice and used it as rice… We all were thin, skinny, sickly… Very hard life. I tell you honestly, not worth living during Japanese time. Better to die than to live. Another year… if the Japanese were here, I think a lot of people would have died from malnutrition”. – Ismail bin Zain[^23]
+“The rice ration we get from our shop was hardly sufficient for our requirement… We chopped the tapioca into small pieces, combined it with the rice and used it as rice… We all were thin, skinny, sickly… Very hard life. I tell you honestly, not worth living during Japanese time. Better to die than to live. Another year… if the Japanese were here, I think a lot of people would have died from malnutrition.” – Ismail bin Zain[^23]
 <br><br>
-“Every term about two or three songs will be sent out to the schools and it was our job to ensure that the schools were learning these songs… They were mostly military war songs, marching songs, Japanese patriotic songs… Of course, many of us did not know the meanings of those words at that time… The policy was partly to propagate Japanese culture and propaganda through the use of songs”.  – Paul Abisheganaden[^24]
+“Every term about two or three songs will be sent out to the schools and it was our job to ensure that the schools were learning these songs… They were mostly military war songs, marching songs, Japanese patriotic songs… Of course, many of us did not know the meanings of those words at that time… The policy was partly to propagate Japanese culture and propaganda through the use of songs.”  – Paul Abisheganaden[^24]
 <br><br>
-“Unlike the… the Westerners, like the Americans or the British, who would conceal any knowledge that they felt should not be imparted to others, other than their own people… the Japanese did not mind teaching us, so that the people of this land could learn how to maintain a plane, how to maintain a ship, how to do certain things…”.  – Mahmud Awang (translation of interview in Malay)[^25]</span>
+“Unlike the… the Westerners, like the Americans or the British, who would conceal any knowledge that they felt should not be imparted to others, other than their own people… the Japanese did not mind teaching us, so that the people of this land could learn how to maintain a plane, how to maintain a ship, how to do certain things….”  – Mahmud Awang (translation of interview in Malay)[^25]</span>
 
 <div style="background-color: white;">
 <br>
