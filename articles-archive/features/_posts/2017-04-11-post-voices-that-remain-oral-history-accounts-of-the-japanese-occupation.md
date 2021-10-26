@@ -98,17 +98,17 @@ Singapore’s wartime survivors will not be around forever, but their voices wil
 
 #### **NOTES**
 
-[^1]:Special unit set up for oral history. (1979, December 15). The Straits Times, p. 11. Retrieved from NewspaperSG.
+[^1]:[Special unit set up for oral history](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19791215-1.2.48). (1979, December 15). *The Straits Times*, p. 11. Retrieved from NewspaperSG.
 
-[^2]:Kwa, C.G. (2005.) Desultory reflections on the Oral History Centre (p. 5). In D.Chew & F.Hu. (Eds.), Reflections and interpretations: Oral History Centre 25th anniversary publication. Singapore: Oral History Centre, National Archives of Singapore. (Call no.: RSING 907.2 REF)
+[^2]:Kwa, C.G. (2005.) Desultory reflections on the Oral History Centre (p. 5). In D.Chew & F.Hu. (Eds.), *[Reflections and interpretations: Oral History Centre 25th anniversary publication](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12524142)*. Singapore: Oral History Centre, National Archives of Singapore. (Call no.: RSING 907.2 REF)
 
-[^3]:Man from Unesco for Oral History Unit. (1979, December 15). The Business Times, p. 2. Retrieved from NewspaperSG. 
+[^3]:[Man from Unesco for Oral History Unit](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19791215-1.2.12.4). (1979, December 15). *The Business Times*, p. 2. Retrieved from NewspaperSG. 
 
-[^4]:All that you wanted to know about millionaires. (1982, September 14). The Straits Times, p. 7. Retrieved from NewspaperSG.
+[^4]:[All that you wanted to know about millionaires](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820914-1.2.33). (1982, September 14). *The Straits Times*, p. 7. Retrieved from NewspaperSG.
 
-[^5]:Kwa, 2005, p. 6.
+[^5]:[Kwa](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12524142), 2005, p. 6.
 
-[^6]:Chew, E. (1986). Foreword (p. iii). In Syonan: Singapore under the Japanese: A catalogue of oral history interviews. Singapore: Oral History Department. (Call no.: RSING 959.57023 SYO)
+[^6]:Chew, E. (1986). Foreword (p. iii). In *[Syonan: Singapore under the Japanese: A catalogue of oral history interviews](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4452143)*. Singapore: Oral History Department. (Call no.: RSING 959.57023 SYO)
 
 [^7]:[Oral history project on the Japanese Occupation](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19810731-1.2.39). (1981, July 31). *The Straits Times*, p. 10; [Wanted for the record – memories of days gone by](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19810623-1.2.74). (1981, June 23). *The Straits Times*, p. 16. Retrieved from NewspaperSG.
 
