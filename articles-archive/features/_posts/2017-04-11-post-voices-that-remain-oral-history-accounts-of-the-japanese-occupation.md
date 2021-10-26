@@ -110,17 +110,17 @@ Singapore’s wartime survivors will not be around forever, but their voices wil
 
 [^6]:Chew, E. (1986). Foreword (p. iii). In Syonan: Singapore under the Japanese: A catalogue of oral history interviews. Singapore: Oral History Department. (Call no.: RSING 959.57023 SYO)
 
-[^7]:Oral history project on the Japanese Occupation. (1981, July 31). The Straits Times, p. 10; Wanted for the record – memories of days gone by. (1981, June 23). The Straits Times, p. 16. Retrieved from NewspaperSG.
+[^7]:[Oral history project on the Japanese Occupation](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19810731-1.2.39). (1981, July 31). *The Straits Times*, p. 10; [Wanted for the record – memories of days gone by](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19810623-1.2.74). (1981, June 23). *The Straits Times*, p. 16. Retrieved from NewspaperSG.
 
-[^8]:Tan, B.L. (1986). Preface (p. iv). In Syonan: Singapore under the Japanese: A catalogue of oral history interviews. Singapore: Oral History Department. (Call no.: RSING 959.57023 SYO)
+[^8]:Tan, B.L. (1986). Preface (p. iv). In *[Syonan: Singapore under the Japanese: A catalogue of oral history interviews](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4452143)*. Singapore: Oral History Department. (Call no.: RSING 959.57023 SYO)
 
-[^9]:Mudali, D. (1985, February 16). Eye-opener for two anti-war Japanese. The Straits Times, p. 1. Retrieved from NewspaperSG.
+[^9]:Mudali, D. (1985, February 16). [Eye-opener for two anti-war Japanese](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850216-1.2.4). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
 
-[^10]:Ministry of Culture. (1984, May 26). Speech by Mr S Dhanabalan, Minister for Foreign Affairs and Minister for Culture, at the official opening of the Archives and Oral History Department at Hill Street Building and pictorial exhibition “Singapore 1819 to 1980: Road to Nationhood” on Saturday, 26 May 1984 at 11:00 am (pp. 2–3). Retrieved from National Archives of Singapore website.
+[^10]:Ministry of Culture. (1984, May 26). *[Speech by Mr S Dhanabalan, Minister for Foreign Affairs and Minister for Culture, at the official opening of the Archives and Oral History Department at Hill Street Building and pictorial exhibition “Singapore 1819 to 1980: Road to Nationhood” on Saturday, 26 May 1984 at 11:00 am](http://www.nas.gov.sg/archivesonline/data/pdfdoc/SD19840526.pdf)* (pp. 2–3). Retrieved from National Archives of Singapore website.
 
-[^11]:Exhibition recalls life under the Japanese. (1985, January 22). The Straits Times, p. 11. Retrieved from NewspaperSG 
+[^11]:[Exhibition recalls life under the Japanese](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850122-1.2.35.9). (1985, January 22). *The Straits Times*, p. 11. Retrieved from NewspaperSG 
 
-[^12]:Fall of Singapore remembered in exhibition. (1985, February 3). Singapore Monitor, p. 4; Sam, J. (1985, January 13). Under the ‘occupation’. Singapore Monitor, p. 4. Retrieved from NewspaperSG.
+[^12]:[Fall of Singapore remembered in exhibition](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19850203-1.2.63.4.3). (1985, February 3). *Singapore Monitor*, p. 4; Sam, J. (1985, January 13). [Under the ‘occupation’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19850113-1.2.7.10). *Singapore Monitor*, p. 4. Retrieved from NewspaperSG.
 
 [^13]:Hoe, I. (1985, February 16). [Timely reminder of hard times 40 years ago](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850216-1.2.87.14.3). *The Straits Times*, p. 8. Retrieved from NewspaperSG.
 
