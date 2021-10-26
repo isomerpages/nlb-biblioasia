@@ -20,7 +20,7 @@ Singapore’s first public film screening is often mistakenly attributed to Basr
 
 #### **The First Film Experiences**
 
-When the cinema age descended on Singapore at the turn of the 19th century, its evening entertainment offerings were already varied. Europeans, dressed to the nines would head off for lavish dinner parties that continued past 9pm.[^3] They would then either play a round of cards or proceed to a theatrical performance that stretched late into the night. Locals, on the other hand, would gather in open-air spaces to watch Chinese opera, <i>Javanese wayang kulit</i> (shadow puppetry), or sit in rapt attention to <i>bangsawan</i>, a dance, music and drama performance that drew from the cultural heritage of the Arabs and adapted European tales into the local Malay language.[^4]
+When the cinema age descended on Singapore at the turn of the 19th century, its evening entertainment offerings were already varied. Europeans, dressed to the nines would head off for lavish dinner parties that continued past 9 pm.[^3] They would then either play a round of cards or proceed to a theatrical performance that stretched late into the night. Locals, on the other hand, would gather in open-air spaces to watch Chinese opera, <i>Javanese wayang kulit</i> (shadow puppetry), or sit in rapt attention to <i>bangsawan</i>, a dance, music and drama performance that drew from the cultural heritage of the Arabs and adapted European tales into the local Malay language.[^4]
 
 The predecessor of modern cinema was the Magic Lantern where images were projected and manipulated, either to tell a story or create an effect on stage. One of the earliest of such shows in Singapore was a phantasmagoria – which projected images of ghosts, spirits and other scary apparitions at the Theatre Royal by a Monsieur George in 1846.[^5] By the 1880s, Magic Lantern shows were regularly screened as entertainment for military families,[^6] in local churches for religious edification[^7] and in schools for education.[^8] 
 
@@ -127,9 +127,9 @@ Released in 1933 and shot off the coast of Katong in 1932, <i>Samarang</i> (also
 <br><br>
 <i>Samarang</i> was screened in the US in 1933 to rave reviews. The film’s popularity might have been due to its novelty but also possibly because Sai-Yu is topless for most of the second half of the film. It was first screened at the Alhambra in September 1933 and later at the Marlborough in 1934, where it was hailed as Singapore’s first talkie[^42] – although reviewers noted that it was “virtually a silent film except for a synchronized music score and occasional choral singing. The action (was) explained by subtitles, and although there (were) melodramatic episodes, they (were) for the most part set forth with… little skill.”[^43]
 <br><br>
-<img style="width: 100%;"  src="/images/vol-11-issue-1/earlysgcinema/samarang_1933_re.jpg">Poster of <i>Samarang</i>. © Samarang. Directed by Ward Wing, produced by United Artists and B.F. Zeidman, distributed by United Artists. United States, 1933. <i>Courtesy of Wong Han Min.</i>
+<img style="width: 70%;"  src="/images/vol-11-issue-1/earlysgcinema/samarang_1933_res.jpg">Poster of <i>Samarang</i>. © Samarang. Directed by Ward Wing, produced by United Artists and B.F. Zeidman, distributed by United Artists. United States, 1933. <i>Courtesy of Wong Han Min.</i>
 <br><br>
-<img style="width: 100%;"  src="/images/vol-11-issue-1/earlysgcinema/leilaMajnun_re.jpg">Advertisements for the opening of <i>Leila Majnun</i> (1934). © Singapore Press Holdings. All rights reserved. <i>The Straits Times.</i>
+<img style="width: 70%;"  src="/images/vol-11-issue-1/earlysgcinema/leilaMajnun_re.jpg">Advertisements for the opening of <i>Leila Majnun</i> (1934). © Singapore Press Holdings. All rights reserved. <i>The Straits Times.</i>
 <br><br>
 <b>Xin Ke (新客, The New Immigrant)</b>
 <br><br>
