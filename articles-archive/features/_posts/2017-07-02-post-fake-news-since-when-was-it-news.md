@@ -6,6 +6,8 @@ layout: post
 ---
 #### Lying, as it appears, is as old as history. **Farish A. Noor** explains.
 
+<div style="background-color: white;"><br><img src="/images/Vol-13-issue-2/fake-news/01_fakenews.png"></div>
+
 There has been much talk about “fake news” all over the Internet these days and how facts no longer seem to matter in the “post-factual” society we live in.
 
 For sometime now, analysts and commentators have bemoaned the fact that many people no longer feel the need to verify what they read and watch online and on TV, and that populist politicians have been able to harness the emotional energy of angry and frustrated people to further agendas of their own, which include capturing state power and controlling governments.
@@ -54,7 +56,7 @@ This is equally liberating as it clears the deck of senseless distractions, and 
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Vol-13-issue-2/old-world-amusement-parks/farish.png">
+<img style="width: 100px; height: 100px;" src="/images/Vol-13-issue-2/fake-news/farish.png">
 	<b>Farish A. Noor</b> is Associate Professor at the S.Rajaratnam School of International Studies, Nanyang Technological University. He is a regular contributor to BiblioAsia.
 </div>
 
