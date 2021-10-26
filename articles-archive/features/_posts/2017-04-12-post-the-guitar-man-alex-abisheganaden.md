@@ -52,7 +52,7 @@ The next few years he spent studying the bass under Hungarian cellist Feri Kremp
 
 In 1960, Abisheganaden became the first person in Southeast Asia to receive a Licentiate of the Royal Schools of Music for performance on the double bass. A year later, as he was keen to pursue a college education, the plucky Abisheganaden went back to school with the aid of a grant, despite having to raise a family with two young children.
 
-<div style="background-color: white;"><img src="/images/Vol-13-issue-1/the-guitar-man/02_guitarman.jpg">Alex Abisheganaden is in the second row holding the double bass in this photo taken in the 1960s. He is with members of the Goh Soon Tioe String Orchestra. Goh Soon Tioe is in the second row, first from the left. <i>Goh Soon Tioe Collection, courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;"><img style="width:700px" src="/images/Vol-13-issue-1/the-guitar-man/02_guitarman.jpg">Alex Abisheganaden is in the second row holding the double bass in this photo taken in the 1960s. He is with members of the Goh Soon Tioe String Orchestra. Goh Soon Tioe is in the second row, first from the left. <i>Goh Soon Tioe Collection, courtesy of National Archives of Singapore.</i></div>
 
 He spent a year overseas at the Royal College of Music in London where he studied voice, bass and the guitar. There, Abisheganaden became truly immersed in his element and was fortunate to be mentored by the famous Australian guitarist John Williams. In 1967, Abisheganaden started the Singapore Classical Guitar Society and has championed the classical guitar movement in Singapore ever since.
 
