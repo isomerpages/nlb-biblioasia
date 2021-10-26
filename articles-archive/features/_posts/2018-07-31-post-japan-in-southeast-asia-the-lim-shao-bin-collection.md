@@ -124,3 +124,7 @@ The author wishes to thank Lim Shao Bin and librarians Goh Yu Mei and Ng Hui Lin
 </div>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-14/issue-2/jul-sep-2018/"><center>Back to Issue</center></a>
+	
+NOTES
+The first Japanese settler, Yamamoto Otokichi, came to Singapore in 1862. See Tan, B. (2016, Jul–Sep). Singapore’s first Japanese resident: Yamamoto Otokichi. BiblioAsia, 12 (2), 32–35. Retrieved from BiblioAsia website.
+The Greater East Asia Co-Prosperity Sphere refers to Japan’s wartime empire in Asia, promoted under the guise of mutual benefit and Asian unity.
