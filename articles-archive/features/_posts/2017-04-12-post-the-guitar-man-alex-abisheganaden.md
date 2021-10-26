@@ -122,3 +122,129 @@ Alex Abisheganaden composed this piece of music, which was inspired by the Japan
 <br>
 Composed by Ray Goetz, Joe Young and Pete Wendling, this arrangement by Alex Abisheganaden features the steel-pedal guitar for a Hawaiian-like effect. It was an encore piece for the 1995 GENUS concert.
 	</span>
+	
+#### **REFERENCES**
+
+Abisheganaden, A. (1970). Music making with the guitar. Vol 1. (p. 3). Singapore: ETV Service. (Call no.: RSING 787.6151 ABI)
+
+Abisheganaden, A. (1983, June 12). 60 years playing the high notes. The Straits Times, p. 24. Retrieved from NewspaperSG.
+
+Chan, B. (2008, July 4). Teacher’s pet project. The Straits Times, p. 68. Retrieved from NewspaperSG.
+
+Chang, T.L. (2007, March 23). The guitar man. The Straits Times, p. 80. Retrieved from NewspaperSG.
+
+Chang, T.L. (2007, March 27). The sounds of joyous youth. The Straits Times, p. 49. Retrieved from NewspaperSG.
+
+Chua, C.H. (Interviewer). (1993, March 9). Oral history interview with Paul Abisheganaden [Transcript of MP3 recording no. 001415/48/01, p. 7]. Retrieved from National Archives of Singapore website.
+
+Doray, B. (1972, September 25). Drugs: Call to set up youth service.The Straits Times, p. 12. Retrieved from NewspaperSG.
+
+Email correspondence with Balraj Gopal, a protégé of Alex Abisheganaden, on 27 December 2016, and 1, 3, 19 January, and 10 February 2017. Email correspondence with Bernard Tan Tiong Gie, prolific and acclaimed local composer and a friend of Alex Abisheganaden, on 19 January 2017.
+
+Email correspondence with Neo Pay Peng, Vice-Chairman of the Toa Payoh Guitar Club and ex-student of Alex Abisheganaden, on 19 January 2017 and 4 February 2017.
+
+Email correspondence with Ng Shu Haan, ex-student of Alex Abisheganaden, on 22 January 2017.
+
+Email correspondence with James Heng, ex-student of Alex Abisheganaden, on 24 January 2017.
+
+Email correspondence with Balraj Gopal, a protégé of Alex Abisheganaden, on 27 December 2016, and 1, 3, 19 January, and 10 February 2017.
+
+Email correspondence with Bernard Tan Tiong Gie, prolific and acclaimed local composer and a friend of Alex Abisheganaden, on 19 January 2017.
+
+Email correspondence with Neo Pay Peng, Vice-Chairman of the Toa Payoh Guitar Club and ex-student of Alex Abisheganaden, on 19 January 2017 and 4 February 2017.
+
+Email correspondence with Ng Shu Haan, ex-student of Alex Abisheganaden, on 22 January 2017.
+
+Email correspondence with James Heng, ex-student of Alex Abisheganaden, on 24 January 2017.
+
+Email correspondence with Balraj Gopal, a protégé of Alex Abisheganaden, on 27 December 2016, and 1, 3, 19 January, and 10 February 2017.
+
+Email correspondence with Bernard Tan Tiong Gie, prolific and acclaimed local composer and a friend of Alex Abisheganaden, on 19 January 2017.
+
+Email correspondence with Neo Pay Peng, Vice-Chairman of the Toa Payoh Guitar Club and ex-student of Alex Abisheganaden, on 19 January 2017 and 4 February 2017.
+
+Email correspondence with Ng Shu Haan, ex-student of Alex Abisheganaden, on 22 January 2017. Email correspondence with James Heng, ex-student of Alex Abisheganaden, on 24 January 2017.
+
+Email correspondence with Balraj Gopal, a protégé of Alex Abisheganaden, on 27 December 2016, and 1, 3, 19 January, and 10 February 2017.
+
+Email correspondence with Bernard Tan Tiong Gie, prolific and acclaimed local composer and a friend of Alex Abisheganaden, on 19 January 2017.
+
+Email correspondence with Neo Pay Peng, Vice-Chairman of the Toa Payoh Guitar Club and ex-student of Alex Abisheganaden, on 19 January 2017 and 4 February 2017.
+
+Email correspondence with Ng Shu Haan, ex-student of Alex Abisheganaden, on 22 January 2017.
+
+Email correspondence with James Heng, ex-student of Alex Abisheganaden, on 24 January 2017.
+
+Email correspondence with Bernard Tan Tiong Gie, prolific and acclaimed local composer and a friend of Alex Abisheganaden, on 19 January 2017.
+
+Email correspondence with Neo Pay Peng, Vice-Chairman of the Toa Payoh Guitar Club and ex-student of Alex Abisheganaden, on 19 January 2017 and 4 February 2017.
+
+Email correspondence with Ng Shu Haan, ex-student of Alex Abisheganaden, on 22 January 2017.
+
+Email correspondence with James Heng, ex-student of Alex Abisheganaden, on 24 January 2017.
+
+Email correspondence with Ng Shu Haan, ex-student of Alex Abisheganaden, on 22 January 2017.
+
+Email correspondence with James Heng, ex-student of Alex Abisheganaden, on 24 January 2017.
+
+Indian boys who speak Hokkien. (2003, August 3). The Straits Times, p. 3. Retrieved from NewspaperSG.
+
+Koh, T., et. al. (Eds.). (2006). Singapore: The encyclopedia. Singapore: Editions Didier Millet in association with National Heritage Board, p. 21. (Call no.: RSING 959.57003 SIN)
+
+Lum, M. (1993, October 3). Look, it’s Alex in a dress. The Straits Times, p. 4. Retrieved from NewspaperSG.
+
+Low, Y.L. (1988, July). Plucking the strings to his heart. Singapore Tatler (p. 22). Hongkong: IIlustrated Magazine.(Call no.: RSING 959.57 ST)
+
+Nanda, A. (2011, October 17). Strings of passion. The Straits Times, p. 4. Retrieved from NewspaperSG.
+
+National Library Board. (2008). Alex Abisheganaden written by Chang, Tou Liang. Retrieved from Singapore Infopedia website.
+
+National Library Board. (2017, February 17). Jacintha Abisheganaden written by Ho, Stephanie. Retrieved from Singapore Infopedia website.
+
+National University of Singapore Guitar Ensemble. (2016). Our Founder – Alex Abisheganaden. Retrieved from National University of Singapore Guitar Ensemble website.
+
+National Library Board. (2008). Alexander S. Abishegenaden, Cultural Medallion Award, 1988, Music [Interview]. Retrieved from NORA.
+
+National Library Board. (2008). Gela nexus. Retrieved from NORA.
+
+National Library Board. (2008). Huan Yin–Vanakam. Retrieved from NORA.
+
+National Library Board. (1995). Katong blues: [music score]. Retrieved from NORA.
+
+National Library Board. (2017). Cultural Medallion written by Tan, Isabel. Retrieved from Singapore Infopedia website.
+
+National University of Singapore. (2016). NUS Guitar Ensemble. Retrieved from National University of Singapore website.
+
+Phan, M.Y. (1996, January 20). Welcome-welcome from the erhu, sitar and guitar. The Straits Times, p. 16. Retrieved from NewspaperSG.
+
+Tan, B.L. (Interviewer). (1994, March 9). Oral history interview with Alex Abisheganaden [Transcript of MP3 recording no. 001461/11/01, pp. 3, 5–6, 9]. Retrieved from National Archives of Singapore website.
+
+Tan, B.L. (Interviewer). (1995, March 9). Oral history interview with Alex Abisheganaden [Transcript of MP3 recording no. 001461/11/02, p. 19]. Retrieved from National Archives of Singapore website.
+
+Tan, B.L. (Interviewer). (1995, March 9). Oral history interview with Alex Abisheganaden [Transcript of MP3 recording no. 001461/11/03, pp. 20, 22, 27]. Retrieved from National Archives of Singapore website.
+
+Tan, B.L. (Interviewer). (1995, March 16). Oral history interview with Alex Abisheganaden [Transcript of MP3 recording no. 001461/11/04, pp. 34, 38–39].Retrieved from National Archives of Singapore website.
+
+Tan, B.L. (Interviewer). (1995, March 16). Oral history interview with Alex Abisheganaden [Transcript of MP3 recording no. 001461/11/05, pp. 46, 48]. Retrieved from National Archives of Singapore website.
+
+Tan, B.L. (Interviewer). (1995, March 16). Oral history interview with Alex Abisheganaden [Transcript of MP3 recording no. 001461/11/06, p. 56]. Retrieved from National Archives of Singapore website.
+
+Tan, B.L. (Interviewer). (1995, May 4). Oral history interview with Alex Abisheganaden [Transcript of MP3 recording no. 001461/11/11, pp. 105–107]. Retrieved from National Archives of Singapore website.
+
+Tang, K.F. (1988, March 1). Top artistes relax to get their ideas. The Straits Times, p. 1. Retrieved from NewspaperSG.
+
+Telephone correspondence with Jacintha Abisheganaden, daughter of Alex Abisheganaden, on 24 January 2017.
+
+The mark of masters. (2007, May–June). Instep. Singapore: National Arts Council, p. 2. (Call no.: RSING 700.95957 IS)
+
+Tsang, S. (1996, September 29). They strike a chord in each other. The Straits Times, p. 11. Retrieved from NewspaperSG.
+
+YMCA joins the attack on drug use and abuse. (1971, October 12). New Nation, p. 2. Retrieved from NewspaperSG.
+
+#### **NOTES**
+
+[^1]:Tan, B.L. (Interviewer). (1995, March 9). Oral history interview with Alex Abisheganaden [Transcript of MP3 recording no. 001461/11/01, p. 3]. Retrieved from National Archives of Singapore website.
+
+[^2]:Telephone correspondence with Jacintha Abisheganaden, daughter of Alex Abisheganaden, on 24 January 2017.
+
+[^3]:Email correspondence with Bernard Tan Tiong Gie, a prolific and acclaimed local composer and a friend of Alex Abisheganaden, on 19 January 2017.
