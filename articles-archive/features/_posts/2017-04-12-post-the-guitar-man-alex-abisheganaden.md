@@ -227,17 +227,17 @@ Tan, B.L. (Interviewer). (1995, March 16). Oral history interview with Alex Abis
 
 Tan, B.L. (Interviewer). (1995, March 16). Oral history interview with Alex Abisheganaden [Transcript of MP3 recording no. 001461/11/05, pp. 46, 48]. Retrieved from National Archives of Singapore website.
 
-Tan, B.L. (Interviewer). (1995, March 16). Oral history interview with Alex Abisheganaden [Transcript of MP3 recording no. 001461/11/06, p. 56]. Retrieved from National Archives of Singapore website.
+Tan, B.L. (Interviewer). (1995, March 16). *[Oral history interview with Alex Abisheganaden](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/c/c85b6cb6-115e-11e3-83d5-0050568939ad-OHC001461_011/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=7)* [Transcript of MP3 recording no. 001461/11/06, p. 56]. Retrieved from National Archives of Singapore website.
 
-Tan, B.L. (Interviewer). (1995, May 4). Oral history interview with Alex Abisheganaden [Transcript of MP3 recording no. 001461/11/11, pp. 105–107]. Retrieved from National Archives of Singapore website.
+Tan, B.L. (Interviewer). (1995, May 4). *[Oral history interview with Alex Abisheganaden](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/c/c85b6cb6-115e-11e3-83d5-0050568939ad-OHC001461_011/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=5)* [Transcript of MP3 recording no. 001461/11/11, pp. 105–107]. Retrieved from National Archives of Singapore website.
 
-Tang, K.F. (1988, March 1). Top artistes relax to get their ideas. The Straits Times, p. 1. Retrieved from NewspaperSG.
+Tang, K.F. (1988, March 1). [Top artistes relax to get their ideas](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19890301.2.6.aspx). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
 
 Telephone correspondence with Jacintha Abisheganaden, daughter of Alex Abisheganaden, on 24 January 2017.
 
-The mark of masters. (2007, May–June). Instep. Singapore: National Arts Council, p. 2. (Call no.: RSING 700.95957 IS)
+The mark of masters. (2007, May–June). *[Instep](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11038050)*. Singapore: National Arts Council, p. 2. (Call no.: RSING 700.95957 IS)
 
-Tsang, S. (1996, September 29). They strike a chord in each other. The Straits Times, p. 11. Retrieved from NewspaperSG.
+Tsang, S. (1996, September 29). [They strike a chord in each other](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19960929-1.2.84.13.4). *The Straits Times*, p. 11. Retrieved from NewspaperSG.
 
 [YMCA joins the attack on drug use and abuse](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19711012-1.2.15). (1971, October 12). *New Nation*, p. 2. Retrieved from NewspaperSG.
 
