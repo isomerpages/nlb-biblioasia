@@ -11,7 +11,7 @@ layout: post
 As a young man in the 1980s, Lim Shao Bin studied and worked in Japan, where he developed a lifelong passion for collecting Japanese historical materials on Singapore and Southeast Asia. As a student on a scholarship sponsored by a Japanese precision engineering company, Lim would make monthly trips to the office in the Kanda district in Tokyo to report on the progress of his studies.
 
 <img src="/images/Vol-14-issue-2/japan-in-southeast-asia/Collection2.JPG">
-<div style="background-color: white;">Lim Shao Bin at an antiquarian bookshop in Jinbōchō, Tokyo.</i></div>
+<div style="background-color: white;">Lim Shao Bin at an antiquarian bookshop in Jinbōchō, Tokyo.</div>
 
 Just a stone’s throw away from the office was Jinbōchō, a district clustered with numerous bookshops, publishing houses and literary societies. At every corner and at every turn, trolleys and shelves of books would spill onto the pavements. After Lim was done at the office, he would explore these book-lined streets and, over time, began to discover rare materials on the subject of pre-war Singapore. As money was tight, Lim would occasionally skip a meal so that he could buy an old picture postcard of Singapore, which cost about ¥1,000 then.
 
@@ -69,3 +69,10 @@ The collection includes 27 newspaper issues published between 1941 and 1942 in t
 
 There are six large-format American World War I posters in the collection. These were used to recruit members for the US armed forces as well as encourage the American public to buy government war bonds in aid of military operations and expenses.
 
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
+<img src="/images/Vol-14-issue-2/japan-in-southeast-asia/Collection3.JPG"><br>
+	As part of reconnaissance efforts, the Japanese military prepared detailed maps of key cities in Southeast Asia in the 1930s, including this one of Singapore titled 新嘉坡市街図 (Shingapōru shigai chizu), which marks out 83 landmarks and locations of interest such as government and commercial buildings. An accompanying booklet (an inside page shown here) contains photographs of the places and landmarks found on the map. The map was most likely used by the Japanese military to requisition important buildings in Singapore after the British surrender. (Accession nos.: B29245121D [map]; B29255626D [booklet]).
+<br><br>
+	
+<br><br>
+</span>
