@@ -18,7 +18,7 @@ But if we look back at developments in our own part of the world (Southeast Asia
 
 In the 19th century, when Southeast Asia was carved up by the colonial powers of Western Europe, there was already a clear connection between communications technology and power. The British, Dutch, French, Spanish and Portuguese empires were held together not only by force and the constant threat of violence, but also by the latest innovations in communications.
 
-Britain’s empire was held together by data, as argued by Thomas Richards in The Imperial Archive (1993); while Bernard Cohn has shown in Colonialism and its Forms of Knowledge (1996) how imperial rule in South and Southeast Asia was maintained through the building of vast systems of knowledge and information.
+Britain’s empire was held together by data, as argued by Thomas Richards in *The Imperial Archive* (1993); while Bernard Cohn has shown in *Colonialism and its Forms of Knowledge* (1996) how imperial rule in South and Southeast Asia was maintained through the building of vast systems of knowledge and information.
 
 All this information and news was collected, collated and disseminated through technologies that were cutting-edge at the time: the telegraph, the printing press and the newspaper. Though some of these technologies may seem dated and redundant now, they were, at the time, superior means of data-collecting that kept entire empires together: Through the telegraph, Britain could maintain close contact with all her colonies from Africa to Asia, and it was this that created the “imagined community” of the imperium where the sun never set.
 
