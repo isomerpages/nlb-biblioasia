@@ -42,21 +42,23 @@ Today, the Oral History Centre (OHC), as it was finally renamed in 1993, is a un
 
 Most importantly, the interviews have helped to fill an enormous gap in our knowledge of the war and occupation. The chaos of war and the regime change posed many challenges for record-keeping, made worse in the final days leading up to the official Japanese surrender on 2 September 1945 when the administration systematically destroyed records of its work in Singapore. Copies of the heavily censored *Syonan Shimbun* and other newspapers that survived, while providing a valuable record of daily life in Singapore, mostly presented positive, if not glowing, views of the Japanese administration.
 
-<div style="background-color: white;"><img style="width:600px" src="/images/Vol-13-issue-1/voices-that-remain/03_voicesremain.jpg">A father and daughter having a simple meal of porridge and nuts. During the Japanese Occupation, many people suffered from malnutrition or died of starvation. <i>Courtesy of Wikimedia Commons.</i></div>
-
 The Japanese Occupation interviews have helped to shed light on the harsh realities of life in Syonan-to, the large number of interviewees often proving to be effective in corroborating (or disqualifying) competing claims. Interviewees were selected based on their first-hand familiarity with the subject matter. Structured outlines were used to ensure some measure of consistency and uniformity in the topics covered, while interviewers were trained to pick up on unique experiences for follow-up.
 
 Weighing in on the significance of the Japanese Occupation collection, James H. Morrison writes:
 
 “In a virtual lacuna of documentation contemporaneous with the event, remembrances either spoken or written are, of course, prime documentation…. The Singapore Oral History Department’s collection of materials on the Japanese Occupation during the Second World War is meticulously collected, scrupulously organized, and immediately accessible to users. They provide one of the more comprehensive collections of one former colony’s view (or views) of the war.”[^16]
 
-As the project was intent on collecting data that would enable the reconstruction of the lives of those affected by the Japanese Occupation − both civilians as well as military personnel − a broad approach was taken to include several key themes. These include the pre-war anti-Japanese movement; the British defence of Singapore; social and living conditions under occupation; the Sook Ching massacres; the Japanese defence of Syonan-to against the Allied Forces; the role of the resistance forces; and the Japanese surrender and its aftermath.
+As the project was intent on collecting data that would enable the reconstruction of the lives of those affected by the Japanese Occupation − both civilians as well as military personnel − a broad approach was taken to include several key themes. These include the pre-war anti-Japanese movement; the British defence of Singapore; social and living conditions under occupation; the *Sook Ching* massacres; the Japanese defence of Syonan-to against the Allied Forces; the role of the resistance forces; and the Japanese surrender and its aftermath.
+
+<div style="background-color: white;"><img style="width:400px" src="/images/Vol-13-issue-1/voices-that-remain/04_voicesremain.jpg">Public notices such as these became commonplace during the Japanese Occupation. The first is an order to purchase rice supplies in rationed amounts only from licensed retailers. <i>The Syonan Times 18 May 1942, p. 5.</i> The second notice is an order for all military personnel and European civilians to assemble at the Esplanade following the British surrender on 15 February 1942. <i>The Syonan Times 23 February 1942, p. 4.</i></div>
 
 The intention was to record a plurality of voices so that they could serve as a counterbalance to the predominantly Western-centric memoirs of British and Australian soldiers and politicians that had begun appearing after the war and the types of histories that were subsequently written. The Fall of Singapore has been framed as Britain’s worst military disaster – but what did occupation really mean for people in Singapore?
 
 To this end, the interviews systematically record experiences from a broad spectrum of individuals, spanning gender, nationality, ethnicity, religion and socio-economic background. There are accounts by volunteer forces, prisoners-of-war, civilian internees, resistance fighters, government servants, businessmen, British, Australians, Chinese, Malays, Indians, Japanese and more. Speaking in different voices and languages, they relate their lived experiences and communicate the complexities of deep emotions and scarred memories, providing a multifaceted view of this significant period of Singapore history.
 
 The interviews cover themes beyond the shores of Singapore, including experiences in Malaya, the Dutch East Indies, Thailand, China and Japan – underscoring the regional significance of the occupation of Singapore. There are accounts of resettlements to Endau and Bahau in Malaya and movements of prisoners-of-war to different parts of occupied Southeast Asia and even Japan. There are also stories of the Nanqiao Jigong (南桥机工), a group of volunteer mechanics and drivers of mostly Chinese ethnicity from all over Southeast Asia who aided the war effort against the Japanese in China by bringing supplies through the 1,146- km Yunnan-Burma Road as well as mass movements of British covert forces and anti- Japanese guerrilla groups in Malaya. Former British and Australian internees also speak of their traumatic post-war years adjusting back to life in their homelands.
+
+<div style="background-color: white;"><img style="width:600px" src="/images/Vol-13-issue-1/voices-that-remain/03_voicesremain.jpg">A father and daughter having a simple meal of porridge and nuts. During the Japanese Occupation, many people suffered from malnutrition or died of starvation. <i>Courtesy of Wikimedia Commons.</i></div>
 
 With access to such a broad range of interviews, one realises that there is no singularly defining experience of the war and occupation, but multiple ones. Listening to so many different individuals provides new insights that can help clear up preconceptions or myths of the occupation. The Japanese Occupation scholar Clay Keller Eaton expresses it succinctly:
 
@@ -66,15 +68,13 @@ With access to such a broad range of interviews, one realises that there is no s
 
 Over time, one can become easily disconnected from a past that may seem so far removed from our present. Oral history accounts can help us find an emotional connection to narrators, who engage us through nuances in voice, pitch, tone, pace, mood, expression and more. We may not always comprehend their circumstances, but we can recognise their emotions of joy, anger and fear, and ultimately understand history through a rich tapestry of highly personal and subjective perspectives.
 
-<div style="background-color: white;"><img style="width:300px" src="/images/Vol-13-issue-1/voices-that-remain/04_voicesremain.jpg">Public notices such as these became commonplace during the Japanese Occupation. The first is an order to purchase rice supplies in rationed amounts only from licensed retailers. <i>The Syonan Times</i> 18 May 1942, p. 5. The second notice is an order for all military personnel and European civilians to assemble at the Esplanade following the British surrender on 15 February 1942. <i>The Syonan Times 23 February 1942, p. 4.</i></div>
+This is why oral history has been a lynchpin of the NAS’s efforts to document the war and occupation. In a book review of *The Price of Peace: True Accounts of the Japanese Occupation*,[^19] the critic writes: “The most compelling stories here are the first-hand accounts of wartime resistance activities, culled from the Oral History Centre’s collection of interviews with survivors”.[^20] There is something riveting about listening to a spoken first-person account of an event that third-person narratives can never hope to capture.
 
-This is why oral history has been a lynchpin of the NAS’s efforts to document the war and occupation. In a book review of* The Price of Peace: True Accounts of the Japanese Occupation*,[^19] the critic writes: “The most compelling stories here are the first-hand accounts of wartime resistance activities, culled from the Oral History Centre’s collection of interviews with survivors”.[^20] There is something riveting about listening to a spoken first-person account of an event that third-person narratives can never hope to capture.
+<div style="background-color: white;"><img style="width:700px" src="/images/Vol-13-issue-1/voices-that-remain/05_voicesremain.jpg">An interview in progress – using the Uher Report Monitor 4200 open-reel tape recorder − at the Oral History Department in Hill Street in 1982. <i>Courtesy of National Archives of Singapore.</i></div>
 
 Oral history has continued to engage the public imagination ever since that first exhibition on the Japanese Occupation in 1985. The interpretive centre, “Memories at Old Ford Factory”, opened at the Former Ford Factory − the site of the British surrender − on Upper Bukit Timah Road on 16 February 2006. The exhibition was a stark reminder of the horrors of the war and occupation. Eleven years later, on 15 February 2017, a new exhibition, “Surviving the Japanese Occupation: War and its Legacies”, took its place.
 
 Singapore’s wartime survivors will not be around forever, but their voices will be preserved in the Japanese Occupation of Singapore’s Oral History Collection so that we and the generations who come after us can continue to listen – and learn − from their experiences.
-
-<div style="background-color: white;"><img style="width:600px" src="/images/Vol-13-issue-1/voices-that-remain/05_voicesremain.jpg">An interview in progress – using the Uher Report Monitor 4200 open-reel tape recorder − at the Oral History Department in Hill Street in 1982. <i>Courtesy of National Archives of Singapore.</i></div>
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>VOICES FROM THE OCCUPATION</b>
 <br><br>
@@ -82,11 +82,11 @@ Singapore’s wartime survivors will not be around forever, but their voices wil
 <br><br>
 “My father and two uncles were required to report to some registration centre – I don’t know whether [it was] a police station or what, I’m not so sure. Three of them went and only two came back,”  – Foong Fook Kay[^22]
 <br><br>
-“The rice ration we get from our shop was hardly sufficient for our requirement… We chopped the tapioca into small pieces, combined it with the rice and used it as rice… We all were thin, skinny, sickly… Very hard life. I tell you honestly, not worth living during Japanese time. Better to die than to live. Another year… if the Japanese were here, I think a lot of people would have died from malnutrition”. – Ismail bin Zain[^23]
+“The rice ration we get from our shop was hardly sufficient for our requirement… We chopped the tapioca into small pieces, combined it with the rice and used it as rice… We all were thin, skinny, sickly… Very hard life. I tell you honestly, not worth living during Japanese time. Better to die than to live. Another year… if the Japanese were here, I think a lot of people would have died from malnutrition.” – Ismail bin Zain[^23]
 <br><br>
-“Every term about two or three songs will be sent out to the schools and it was our job to ensure that the schools were learning these songs… They were mostly military war songs, marching songs, Japanese patriotic songs… Of course, many of us did not know the meanings of those words at that time… The policy was partly to propagate Japanese culture and propaganda through the use of songs”.  – Paul Abisheganaden[^24]
+“Every term about two or three songs will be sent out to the schools and it was our job to ensure that the schools were learning these songs… They were mostly military war songs, marching songs, Japanese patriotic songs… Of course, many of us did not know the meanings of those words at that time… The policy was partly to propagate Japanese culture and propaganda through the use of songs.”  – Paul Abisheganaden[^24]
 <br><br>
-“Unlike the… the Westerners, like the Americans or the British, who would conceal any knowledge that they felt should not be imparted to others, other than their own people… the Japanese did not mind teaching us, so that the people of this land could learn how to maintain a plane, how to maintain a ship, how to do certain things…”.  – Mahmud Awang (translation of interview in Malay)[^25]</span>
+“Unlike the… the Westerners, like the Americans or the British, who would conceal any knowledge that they felt should not be imparted to others, other than their own people… the Japanese did not mind teaching us, so that the people of this land could learn how to maintain a plane, how to maintain a ship, how to do certain things….”  – Mahmud Awang (translation of interview in Malay)[^25]</span>
 
 <div style="background-color: white;">
 <br>
@@ -98,29 +98,29 @@ Singapore’s wartime survivors will not be around forever, but their voices wil
 
 #### **NOTES**
 
-[^1]:Special unit set up for oral history. (1979, December 15). The Straits Times, p. 11. Retrieved from NewspaperSG.
+[^1]:[Special unit set up for oral history](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19791215-1.2.48). (1979, December 15). *The Straits Times*, p. 11. Retrieved from NewspaperSG.
 
-[^2]:Kwa, C.G. (2005.) Desultory reflections on the Oral History Centre (p. 5). In D.Chew & F.Hu. (Eds.), Reflections and interpretations: Oral History Centre 25th anniversary publication. Singapore: Oral History Centre, National Archives of Singapore. (Call no.: RSING 907.2 REF)
+[^2]:Kwa, C.G. (2005.) Desultory reflections on the Oral History Centre (p. 5). In D.Chew & F.Hu. (Eds.), *[Reflections and interpretations: Oral History Centre 25th anniversary publication](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12524142)*. Singapore: Oral History Centre, National Archives of Singapore. (Call no.: RSING 907.2 REF)
 
-[^3]:Man from Unesco for Oral History Unit. (1979, December 15). The Business Times, p. 2. Retrieved from NewspaperSG. 
+[^3]:[Man from Unesco for Oral History Unit](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19791215-1.2.12.4). (1979, December 15). *The Business Times*, p. 2. Retrieved from NewspaperSG. 
 
-[^4]:All that you wanted to know about millionaires. (1982, September 14). The Straits Times, p. 7. Retrieved from NewspaperSG.
+[^4]:[All that you wanted to know about millionaires](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820914-1.2.33). (1982, September 14). *The Straits Times*, p. 7. Retrieved from NewspaperSG.
 
-[^5]:Kwa, 2005, p. 6.
+[^5]:[Kwa](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12524142), 2005, p. 6.
 
-[^6]:Chew, E. (1986). Foreword (p. iii). In Syonan: Singapore under the Japanese: A catalogue of oral history interviews. Singapore: Oral History Department. (Call no.: RSING 959.57023 SYO)
+[^6]:Chew, E. (1986). Foreword (p. iii). In *[Syonan: Singapore under the Japanese: A catalogue of oral history interviews](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4452143)*. Singapore: Oral History Department. (Call no.: RSING 959.57023 SYO)
 
-[^7]:Oral history project on the Japanese Occupation. (1981, July 31). The Straits Times, p. 10; Wanted for the record – memories of days gone by. (1981, June 23). The Straits Times, p. 16. Retrieved from NewspaperSG.
+[^7]:[Oral history project on the Japanese Occupation](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19810731-1.2.39). (1981, July 31). *The Straits Times*, p. 10; [Wanted for the record – memories of days gone by](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19810623-1.2.74). (1981, June 23). *The Straits Times*, p. 16. Retrieved from NewspaperSG.
 
-[^8]:Tan, B.L. (1986). Preface (p. iv). In Syonan: Singapore under the Japanese: A catalogue of oral history interviews. Singapore: Oral History Department. (Call no.: RSING 959.57023 SYO)
+[^8]:Tan, B.L. (1986). Preface (p. iv). In *[Syonan: Singapore under the Japanese: A catalogue of oral history interviews](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4452143)*. Singapore: Oral History Department. (Call no.: RSING 959.57023 SYO)
 
-[^9]:Mudali, D. (1985, February 16). Eye-opener for two anti-war Japanese. The Straits Times, p. 1. Retrieved from NewspaperSG.
+[^9]:Mudali, D. (1985, February 16). [Eye-opener for two anti-war Japanese](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850216-1.2.4). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
 
-[^10]:Ministry of Culture. (1984, May 26). Speech by Mr S Dhanabalan, Minister for Foreign Affairs and Minister for Culture, at the official opening of the Archives and Oral History Department at Hill Street Building and pictorial exhibition “Singapore 1819 to 1980: Road to Nationhood” on Saturday, 26 May 1984 at 11:00 am (pp. 2–3). Retrieved from National Archives of Singapore website.
+[^10]:Ministry of Culture. (1984, May 26). *[Speech by Mr S Dhanabalan, Minister for Foreign Affairs and Minister for Culture, at the official opening of the Archives and Oral History Department at Hill Street Building and pictorial exhibition “Singapore 1819 to 1980: Road to Nationhood” on Saturday, 26 May 1984 at 11:00 am](http://www.nas.gov.sg/archivesonline/data/pdfdoc/SD19840526.pdf)* (pp. 2–3). Retrieved from National Archives of Singapore website.
 
-[^11]:Exhibition recalls life under the Japanese. (1985, January 22). The Straits Times, p. 11. Retrieved from NewspaperSG 
+[^11]:[Exhibition recalls life under the Japanese](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850122-1.2.35.9). (1985, January 22). *The Straits Times*, p. 11. Retrieved from NewspaperSG 
 
-[^12]:Fall of Singapore remembered in exhibition. (1985, February 3). Singapore Monitor, p. 4; Sam, J. (1985, January 13). Under the ‘occupation’. Singapore Monitor, p. 4. Retrieved from NewspaperSG.
+[^12]:[Fall of Singapore remembered in exhibition](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19850203-1.2.63.4.3). (1985, February 3). *Singapore Monitor*, p. 4; Sam, J. (1985, January 13). [Under the ‘occupation’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19850113-1.2.7.10). *Singapore Monitor*, p. 4. Retrieved from NewspaperSG.
 
 [^13]:Hoe, I. (1985, February 16). [Timely reminder of hard times 40 years ago](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850216-1.2.87.14.3). *The Straits Times*, p. 8. Retrieved from NewspaperSG.
 

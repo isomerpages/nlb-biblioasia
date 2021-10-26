@@ -4,7 +4,7 @@ date: 2014-04-01
 permalink: /vol-10/issue-1/apr-jun-2014/director-note
 layout: post
 ---
-While on a dreadfully long flight from Singapore to Washington D.C. recently, I decided I would finish a book instead of surfing through the channels on the in-flight entertainment system . On a whim, I had brought along a copy of <i>Between Stations</i>, an autobiographical journey of cities in India, China and Singapore by the poet [Boey Kim Cheng](/vol-10/issue-1/apr-jun-2014/library-memory).
+While on a dreadfully long flight from Singapore to Washington D.C. recently, I decided I would finish a book instead of surfing through the channels on the in-flight entertainment system. On a whim, I had brought along a copy of <i>Between Stations</i>, an autobiographical journey of cities in India, China and Singapore by the poet [Boey Kim Cheng](/vol-10/issue-1/apr-jun-2014/library-memory).
 
 Twenty hours (and 320 pages later), I felt completely reinvigorated by Boey’s beautifully crafted travel memoir. I felt I had somehow experienced what the erudite Italian writer Italo Calvino called Invisible Cities – cities of the mind conjured purely through powerfully evocative words that vividly create fantastical imaginings of a city. 
 

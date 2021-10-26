@@ -43,7 +43,7 @@ Both systems involved appointing an influential Chinese to oversee all issues re
 
 Secret societies were at their peak in the late 19th century. The Chinese who came to Singapore were from different parts of China and spoke dialects that were unintelligible to each other, making it impossible to communicate outside their own dialect groups. This communication barrier facilitated the formation of secret societies that were divided by dialect. Over time, the secret societies grew powerful and started to actively protect their own group interests at the expense of others. They established their own territories and other dialect groups were not allowed to cross the invisible boundaries; if they did, fights would break out.
 
-The increasing conflict and fights between dialect groups soon drew the attention of the colonial government as great financial losses were incurred in terms of property damage and social disruption. The colonial government started clamping down on secret societies with a series of legislations starting from 1869.[^8] This included the1889 Society Ordinance which effectively outlawed secret societies by requiring all organisations to register themselves with the colonial government before they could be recognised as legal bodies.[^9]
+The increasing conflict and fights between dialect groups soon drew the attention of the colonial government as great financial losses were incurred in terms of property damage and social disruption. The colonial government started clamping down on secret societies with a series of legislations starting from 1869.[^8] This included the 1889 Society Ordinance which effectively outlawed secret societies by requiring all organisations to register themselves with the colonial government before they could be recognised as legal bodies.[^9]
 
 <div style="background-color: white;">
 <br/>
@@ -62,7 +62,7 @@ Looking at the functions that early clan associations fulfilled, it is clear tha
 
 In the early 1900s, the clan associations became more directly involved with the political situation in China. The Chinese revolutionaries who came to Southeast Asia seeking financial support from the Overseas Chinese for their activities in China found favour with the Chinese community in Singapore. Most Overseas Chinese viewed Singapore as a temporary stop for work and trade, hoping to return to China one day with their riches. Their emotional and political allegiance was to China where their families were. Historical events such as the fall of the Qing Dynasty in 1911 and the Sino-Japanese War in the 1930s led to the realisation that China had to become stronger in order to protect her own interests. To this end, the Overseas Chinese were willing to contribute money to the motherland or even volunteer to fight in her wars.
 
-Fund raising and mobilisation of support required organisation and by this time, there were already several established clan associations led by respected Chinese leaders, many of whom were successful businessmen in the Chinese community.[^16] These leaders were politically well connected and their wealth and networks made them the best people to organise such activities.
+Fundraising and mobilisation of support required organisation and by this time, there were already several established clan associations led by respected Chinese leaders, many of whom were successful businessmen in the Chinese community.[^16] These leaders were politically well connected and their wealth and networks made them the best people to organise such activities.
 
 <div style="background-color: white;">
 <br/>
@@ -75,7 +75,7 @@ During the Japanese Occupation (1942–1945) of Singapore, the active involvemen
 
 After the war, the British continued their governance amid a growing sense of nationalism among the masses. Clan activities were revived, especially the re-establishment of Chinese vernacular schools that were disrupted during the war.[^18] By the 1950s, the push for self-governance and rise of young local politicians eventually culminated in the independence of Singapore in 1965.
 
-In its first 10 years of Independence, the Singapore government faced an uphill task in unifying a population of migrants comprising different ethnicities and cultural backgrounds. For the Chinese community, this shift in political allegiance from China to Singapore started when the Chinese government outlawed dual citizenship in 1955, forcing many local Chinese to take up Singapore citizenship in order to stay on. As nation building efforts progressed, state policies and centralised state systems catering for welfare, education and housing were created. These policies and systems in turn replaced the functions traditionally offered by clan associations to the Chinese community during the colonial days.[^19]
+In its first 10 years of Independence, the Singapore government faced an uphill task in unifying a population of migrants comprising different ethnicities and cultural backgrounds. For the Chinese community, this shift in political allegiance from China to Singapore started when the Chinese government outlawed dual citizenship in 1955, forcing many local Chinese to take up Singapore citizenship in order to stay on. As nation-building efforts progressed, state policies and centralised state systems catering for welfare, education and housing were created. These policies and systems in turn replaced the functions traditionally offered by clan associations to the Chinese community during the colonial days.[^19]
 
 <div style="background-color: white;">
 <br/>
@@ -220,7 +220,7 @@ Zhonghui san nian *[Singapore Federation of Chinese Clan Associations: The third
 
 [^24]: Before the formation of the Singapore Federation of Chinese Clan Associations, the Singapore Chinese Chamber of Commerce acted as overall coordinator.
 
-[^25]: [Kuah-Pearce & Hu-Dehart](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12825518), 2006, pp. 63–65. For more details on SFCCA’s activities, refer to their periodical Yuan or their anniversary publicaitons.
+[^25]: [Kuah-Pearce & Hu-Dehart](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12825518), 2006, pp. 63–65. For more details on SFCCA’s activities, refer to their periodical Yuan or their anniversary publications.
 
 [^26]: [Kuah-Pearce & Hu-Dehart](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12825518), 2006, pp. 67–71.
 

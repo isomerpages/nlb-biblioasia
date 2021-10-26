@@ -4,7 +4,6 @@ date: 2014-04-01
 permalink: /vol-10/issue-1/apr-jun-2014/suratman
 layout: post
 ---
-
 #### **Azhar Ibrahim** examines how the illustrious Malay writer Suratman Markasan uses literature as a means to propagate ideas and mark signposts in our social memory. 
 
 <div style="background-color: white;">
@@ -155,7 +154,7 @@ Suratman has meticulously documented what he has experienced, expressing his per
 
 Singapore has experienced vast changes in a short period of time, with many of its common spaces, institutions and practices disappearing from the landscape; even our memories of yesteryear are fading. Herein lies the role of the writer who is seen as the conscience of his society and the purveyor of humanity. As a writer Suratman’s work is firmly didactic, imparting a strong moral message; he is more concerned with the moral and intellectual presence of literature, not so much its ornaments or finesse. 
 
-The sense of loss that Suratman writes about is not just the loss that he experienced on a personal level, but one that can also be related to the loss of his community. His own loss makes him consistently relate his thoughts and sentiments. As evidenced by his voluminous legacy, he is writer, narrator and commentator of social memories that are dissipating in our midst. Indeed the stamina for remembrance is often circumscribed in an era that celebrates newness. We must keep in mind that our progress and development is rendered meaningless if we are bereft of appreciating the past. To build a future, moulding it to our needs and character requires a sense of place and being. Suratman’s memory is a search inasmuch as it is a hope, but as a poet his scepticism warrants us to consider our destinies seriously:
+The sense of loss that Suratman writes about is not just the loss that he experienced on a personal level, but one that can also be related to the loss of his community. His own loss makes him consistently relate his thoughts and sentiments. As evidenced by his voluminous legacy, he is writer, narrator and commentator of social memories that are dissipating in our midst. Indeed the stamina for remembrance is often circumscribed in an era that celebrates newness. We must keep in mind that our progress and development is rendered meaningless if we are bereft of appreciating the past. To build a future, moulding it to our needs and character requires a sense of place and being. Suratman’s memory is a search in as much as it is a hope, but as a poet his scepticism warrants us to consider our destinies seriously:
 
 Singapuraku / aku mengerti sekali / di sini tempatku / tapi aku tidak tahu bila / aku akan menemui segala kehilanganku? [^23]
 
