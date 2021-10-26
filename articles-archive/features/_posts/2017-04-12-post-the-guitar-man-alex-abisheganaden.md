@@ -86,7 +86,7 @@ Bernard Tan Tiong Gie, a critically acclaimed Singaporean composer and professor
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>THE ABISHEGANADEN COLLECTION HIGHLIGHTS</b>
 <br><br>
-Among the items Alex Abisheganaden donated to the National Library are his handwritten scores, pedagogical notes on teaching the guitar as well as his private collection of books on the double bass, guitar ensemble and choral singing. In view of copyright restrictions, only the handwritten materials have been digitised and made accessible on MusicSG – Singapore’s premier digital music archive. His other donated materials are available for reference at the Lee Kong Chian Reference Library and the Library@Esplanade.
+Among the items Alex Abisheganaden donated to the National Library are his handwritten scores, pedagogical notes on teaching the guitar as well as his private collection of books on the double bass, guitar ensemble and choral singing. In view of copyright restrictions, only the handwritten materials have been digitised and made accessible on <a href="http://eresources.nlb.gov.sg/music">MusicSG</a> – Singapore’s premier digital music archive. His other donated materials are available for reference at the Lee Kong Chian Reference Library and the Library@Esplanade.
 <br><br>
 Here is a selection of original handwritten scores donated by Abisheganaden.
 <br><br>
@@ -221,19 +221,19 @@ National Library Board. (1995). *[Katong blues: [music score]](https://eresource
 
 National Library Board. (2017). *[Cultural Medallion](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1867_2012-01-30.html)* written by Tan, Isabel. Retrieved from Singapore Infopedia website.
 
-National University of Singapore. (2016). NUS Guitar Ensemble. Retrieved from National University of Singapore website.
+National University of Singapore. (2016). *NUS Guitar Ensemble*. Retrieved from National University of Singapore website.
 
-Phan, M.Y. (1996, January 20). Welcome-welcome from the erhu, sitar and guitar. The Straits Times, p. 16. Retrieved from NewspaperSG.
+Phan, M.Y. (1996, January 20). [Welcome-welcome from the erhu, sitar and guitar](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19960120-1.2.75.4.4). *The Straits Times*, p. 16. Retrieved from NewspaperSG.
 
-Tan, B.L. (Interviewer). (1994, March 9). Oral history interview with Alex Abisheganaden [Transcript of MP3 recording no. 001461/11/01, pp. 3, 5–6, 9]. Retrieved from National Archives of Singapore website.
+Tan, B.L. (Interviewer). (1994, March 9). *[Oral history interview with Alex Abisheganaden](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/7/722241e1-1160-11e3-83d5-0050568939ad-OHC001461_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=11)* [Transcript of MP3 recording no. 001461/11/01, pp. 3, 5–6, 9]. Retrieved from National Archives of Singapore website.
 
-Tan, B.L. (Interviewer). (1995, March 9). Oral history interview with Alex Abisheganaden [Transcript of MP3 recording no. 001461/11/02, p. 19]. Retrieved from National Archives of Singapore website.
+Tan, B.L. (Interviewer). (1995, March 9). *[Oral history interview with Alex Abisheganaden](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/c/c6b3a9c2-115e-11e3-83d5-0050568939ad-OHC001461_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=10)* [Transcript of MP3 recording no. 001461/11/02, p. 19]. Retrieved from National Archives of Singapore website.
 
-Tan, B.L. (Interviewer). (1995, March 9). Oral history interview with Alex Abisheganaden [Transcript of MP3 recording no. 001461/11/03, pp. 20, 22, 27]. Retrieved from National Archives of Singapore website.
+Tan, B.L. (Interviewer). (1995, March 9). *[Oral history interview with Alex Abisheganaden](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/7/747f0063-115e-11e3-83d5-0050568939ad-OHC001461_003/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=1)* [Transcript of MP3 recording no. 001461/11/03, pp. 20, 22, 27]. Retrieved from National Archives of Singapore website.
 
-Tan, B.L. (Interviewer). (1995, March 16). Oral history interview with Alex Abisheganaden [Transcript of MP3 recording no. 001461/11/04, pp. 34, 38–39].Retrieved from National Archives of Singapore website.
+Tan, B.L. (Interviewer). (1995, March 16). *[Oral history interview with Alex Abisheganaden](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/6/637463ee-1160-11e3-83d5-0050568939ad-OHC001461_004/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=5)* [Transcript of MP3 recording no. 001461/11/04, pp. 34, 38–39].Retrieved from National Archives of Singapore website.
 
-Tan, B.L. (Interviewer). (1995, March 16). Oral history interview with Alex Abisheganaden [Transcript of MP3 recording no. 001461/11/05, pp. 46, 48]. Retrieved from National Archives of Singapore website.
+Tan, B.L. (Interviewer). (1995, March 16). *[Oral history interview with Alex Abisheganaden](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/c/c6bbb8ef-115e-11e3-83d5-0050568939ad-OHC001461_005/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=7)* [Transcript of MP3 recording no. 001461/11/05, pp. 46, 48]. Retrieved from National Archives of Singapore website.
 
 Tan, B.L. (Interviewer). (1995, March 16). *[Oral history interview with Alex Abisheganaden](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/c/c85b6cb6-115e-11e3-83d5-0050568939ad-OHC001461_011/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=7)* [Transcript of MP3 recording no. 001461/11/06, p. 56]. Retrieved from National Archives of Singapore website.
 
