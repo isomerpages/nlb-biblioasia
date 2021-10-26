@@ -13,7 +13,7 @@ There are more than 1,000 Chinese temples in Singapore,[^1] some with roots that
 
 One such temple is the Hong San See Temple (水廊头凤山寺;[^2] otherwise known as 凤山寺 or Temple on Phoenix Hill) on Mohamed Sultan Road – a place of worship for Hokkien immigrants from Nan’an (南安), or Lam Ann, county in southern Fujian province. Hong San See Temple – gazetted as a national monument on 10 November 1978 – is managed by Singapore Lam Ann Association (新加坡南安会馆), which was founded in 1924 by Nan’an immigrants.[^3]
 
-<img src="/images/Vol-14-issue-2/preserving-nanan-history-in-sg/Preserving2.JPG">
+<img style="width: 390px; height: 450px;" src="/images/Vol-14-issue-2/preserving-nanan-history-in-sg/Preserving2.JPG">
 <div style="background-color: white;">Plaque with the name Hong San See Temple written in Chinese calligraphy and mounted above the main entrance. <i>Image reproduced from 新加坡凤山寺 = Singapore Hong San See Temple (p. 6). (2007). Singapore: 新加坡古迹保存局: 新加坡凤山寺国家古迹重修委员会. (Call no.: Chinese RSING 203.5095957 SIN).</i></div>
 
 In March 2018, the clan association donated several rare historical materials to the National Library, with the intention of making these items available as primary research materials. The collection – which will be preserved for future generations of Singaporeans – mainly covers the history of the construction of the temple, and the association and its activities.
@@ -38,7 +38,7 @@ In 1907, the colonial government acquired the temple land for a road widening pr
 
 The construction took almost five years between 1908 and 1913, and cost 56,000 Straits dollars.[^13] In addition to its role as a place of worship, Hong San See Temple also addressed the demand for education by establishing Nan Ming School (南明学校) on the temple grounds in 1914. The school operated for 10 years until dwindling enrolment led to its closure.
 
-<img src="/images/Vol-14-issue-2/preserving-nanan-history-in-sg/Preserving4.JPG">
+<img style="width: 500px; height: 300px;" src="/images/Vol-14-issue-2/preserving-nanan-history-in-sg/Preserving4.JPG">
 <div style="background-color: white;"> A close-up of the roof of Hong San See Temple with dragon ornaments made of cut porcelain (剪瓷雕). <i>Little Red Dot Collection. All rights reserved, National Library Board, 2010.</i></div>
 
 One of the earliest descriptions of the temple at Mohamed Sultan Road can be found in the 1951 book, 新加坡庙宇概览 (*An Overview of the Temples in Singapore*), in which the author describes the picturesque sea view and surrounding houses. From the temple, one could see Fort Canning and Mount Faber, making it Singapore’s only temple with a panoramic view at the time.[^14]
@@ -49,7 +49,7 @@ In 1936, a row erupted over the ownership of the temple, leading to a legal suit
 
 Between 2006 and 2009, the temple underwent a $3-million restoration project spearheaded by the Lam Ann Association and funded by clan members, temple devotees and the Lee Foundation. The restoration was so well executed that in 2010, Hong San See Temple became the first building in Singapore to receive the Award of Excellence in the UNESCO Asia- Pacific Heritage Awards for Cultural Heritage Conservation.[^17]
 
-<img src="/images/Vol-14-issue-2/preserving-nanan-history-in-sg/Preserving5.JPG">
+<img style="width: 450px; height: 300px;" src="/images/Vol-14-issue-2/preserving-nanan-history-in-sg/Preserving5.JPG">
 <div style="background-color: white;">Before the Registry of Marriages was established in 1961, the Singapore Lam Ann Association solemnised weddings among members of the Nan’an community and issued
 marriage certificates. The certificates – adorned with butterflies, birds and flowers – would indicate the names of the bride, groom, witnesses, matchmakers and solemniser. This particular marriage was solemnised on the morning of the 24th day of the 8th lunar month in 1960 (14 October 1960). <i>All rights reserved, National Library Board, 2018.</i></div>
 
