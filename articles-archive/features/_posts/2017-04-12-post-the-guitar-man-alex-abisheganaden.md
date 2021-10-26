@@ -74,7 +74,7 @@ Abisheganaden also composed works for the guitar – including original pieces a
 
 “Gela Nexus” is another important work for the guitar orchestra by Abisheganaden. Composed in 1995, the title is an amalgamation of GENUS, the NUS Guitar Ensemble, and Abisheganaden’s first name “Alex”, symbolising his feelings of pride and achievement with the ensemble he founded. “Huan Yin-Vanakam” and “Gela Nexus” were first performed in January 1996 by GENUS, and again in 2007 in Singapore. Additionally, “Gela Nexus” was performed by GENUS in a guitar orchestra competition in Germany in 2007. It became one of the first local works of this genre to be performed overseas.
 
-<div style="background-color: white;"><img style="width:600px" src="/images/Vol-13-issue-1/the-guitar-man/04_guitarman.jpg">Pictured here are the handwritten music scores for: (clockwise from left) “Huan-Yin Vanakam”, “The Pursuit”, “A Song for Teachers’ Day” and “Gela- Nexus”. <i>Image source: National Library Board, Singapore.</i></div>
+<div style="background-color: white;"><img style="width:700px" src="/images/Vol-13-issue-1/the-guitar-man/04_guitarman.jpg">Pictured here are the handwritten music scores for: (clockwise from left) “Huan-Yin Vanakam”, “The Pursuit”, “A Song for Teachers’ Day” and “Gela- Nexus”. <i>Image source: National Library Board, Singapore.</i></div>
 
 #### **Later Years**
 
