@@ -34,7 +34,7 @@ Featured here is a selection of souvenir publications – highlighting events an
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
 	<b>12th SEA Games Singapore 1983: Opening Ceremony Souvenir</b> (1983)<br><br>
-<img src="/images/Vol-14-issue-2/sporting-glory/Glory2.JPG">
+<img style="width: 420px; height: 300px;" src="/images/Vol-14-issue-2/sporting-glory/Glory2.JPG">
 The publication provides information on the Southeast Asian (SEA) Games hosted by Singapore in 1983. It includes details such as the official games theme song, the opening ceremony programme, locations of games venues as well as the names of torch bearers for the torch relay. Among the torch bearers was swimmer Junie Sng, who won 10 golds that year.[^11]
 <br><br>
 		<b>Seventh Asian Games, Tehran 1974: September 1st–16th: Singapore Contingent Souvenir Handbook </b> (1974)<br><br>
