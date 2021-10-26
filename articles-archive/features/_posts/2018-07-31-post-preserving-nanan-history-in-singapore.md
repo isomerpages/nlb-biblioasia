@@ -66,3 +66,25 @@ Kua also noted that names of companies and banks listed in the accounts books pr
 <img src="/images/Vol-14-issue-2/preserving-nanan-history-in-sg/Preserving6.JPG">
 <div style="background-color: white;">(Left) Among the items donated by the Singapore Lam Ann Association is a set of seven accounts books pertaining to the construction of Hong San See Temple. Entries in the accounts books are written in both the Gregorian and traditional Chinese lunar calendars. In this page from volume 3, the first entry from the right is dated Wu-shen (戊申) year, month of the osmanthus (eighth lunar month) and 28th day. In the Gregorian calendar, this is 23 September (实添末) 1908. <i>Image reproduced from 新建凤山寺草清簿: 光绪三十四年岁次戊申瓜月英1908年乌兀吉立出入银项工料 (Vol. 3; p. 11).</i><br>
 (Right) The accounts books include names of the craftsmen and details of the cost of building the temple as well as types of building materials used. One of the entries in volume 2 indicates that green glazed eave tiles were purchased in the Wu-shen (戊申) year (1908) during the construction of the temple. Such information proved invaluable for architects involved in the restoration work. <i>Images reproduced from 凤山寺总簿：大清光绪叁拾叁年岁次丁未孟冬月立 (Vol. 2; pp. 185–186).</i></div>
+
+The donation by the Singapore Lam Ann Association is especially significant given that most of the records belonging to the association and Hong San See Temple were destroyed during World War II.20 Whatever of historical value that has been salvaged is now kept in the holdings of the National Library and will be preserved for posterity. Most of the items will be digitized by the library in due course and made available for online access.
+
+<br>
+<div style="background-color: white;">
+<img src="/images/Vol-14-issue-2/preserving-nanan-history-in-sg/Preserving7.jpg" style="width: 100px; height: 100px;">
+<b>Ang Seow Leng</b> is a Senior Librarian with the National Library, Singapore. Her responsibilities include managing the Singapore & Southeast Asian Collection, developing content as well as providing reference and research services related to Singapore and Southeast Asia.
+</div>
+
+<a href="https://biblioasia.nlb.gov.sg/vol-14/issue-2/jul-sep-2018/"><center>Back to Issue</center></a>
+
+#### **NOTES**
+[^1]:
+[^2]:
+[^3]:
+[^4]:
+[^5]:
+[^6]:
+[^7]:
+[^8]:
+[^9]:
+[^10]:
