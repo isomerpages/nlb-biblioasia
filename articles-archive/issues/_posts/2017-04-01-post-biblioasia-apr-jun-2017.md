@@ -37,7 +37,7 @@ John Crawfurd, the 19th-century British colonial administrator, was known for hi
 **[Mangroves: A Tale of Survival](/vol-13/issue-1/apr-jun-2017/mangroves)** <br>
 Mangroves are an integral part of the marine ecosystem. *Ang Seow Leng* explains why these hardy and resilient plants are vital for the survival of humankind. [(PDF)](/files/pdf/vol-13/v13-issue1_Mangroves.pdf)
 
-**[寻找“南洋](/vol-13/issue-1/apr-jun-2017/nanyang-flavour)”** <br>
+**[寻找“南洋”](/vol-13/issue-1/apr-jun-2017/nanyang-flavour)** <br>
 Chinese authors in 1920s Singapore were faced with the call to produce works with a distinctive “Nanyang flavour”. *Goh Yu Mei* explains how these early writers defined this new genre of literature. 
 [(PDF)](/files/pdf/vol-13/v13-issue1_Chinese.pdf)
 
