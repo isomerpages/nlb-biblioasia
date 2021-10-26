@@ -97,7 +97,7 @@ Postcards produced by Cathay and Odeon cinemas, announcing upcoming movie releas
 <img style="width:70%" src="/images/vol-11-issue-1/moviememorabilia/ticket_stubs.jpg">
 <div style="background-color: white;">
 <img style="width:70%" src="/images/vol-11-issue-1/moviememorabilia/ticket_stubs1.jpg">
-Ticket stubs showing the name of the cinema and a picture of an actress on one side and your weight on the reverse. 
+Ticket stubs showing the name of the cinema and a picture of an actress on one side and your weight on the reverse. <i>Courtesy of Wong Han Min</i>
 </div>
 
 <div style="background-color: white;">
