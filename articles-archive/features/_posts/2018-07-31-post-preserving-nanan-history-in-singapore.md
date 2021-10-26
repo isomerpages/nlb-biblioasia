@@ -7,7 +7,7 @@ layout: post
 #### The National Library recently received several rare items connected to the history of the Nan’an community and Hong San See Temple in Singapore. **Ang Seow Leng** presents highlights of the collection.
 
 <img src="/images/Vol-14-issue-2/preserving-nanan-history-in-sg/Preserving1.JPG">
-<div style="background-color: white;"></i></div>
+<div style="background-color: white;">The Hong San See Temple at Mohamed Sultan Road was completed at a cost of 56,000 Straits dollars in 1913. Major restoration works were carried out between 2006 and 2009. This recent photo shows the temple juxtaposed against modern condominiums. <i>Image reproduced from Dean, K., & Hue, G.T. (2017). Chinese Epigraphy in Singapore 1819–1911 (Vol. 1, p. 405). Singapore: NUS Press; Guilin City: Guangxi Normal University. (Call no.: RSING 495.111 DEA).</i></div>
 
 There are more than 1,000 Chinese temples in Singapore,1 some with roots that go back to the early years of the founding of modern Singapore in 1819. These temples are not only architecturally interesting, but also provide a window into the history of the early Chinese communities in Singapore.
 
@@ -40,3 +40,12 @@ The construction took almost five years between 1908 and 1913, and cost 56,000 S
 
 <img src="/images/Vol-14-issue-2/preserving-nanan-history-in-sg/Preserving4.JPG">
 <div style="background-color: white;"> A close-up of the roof of Hong San See Temple with dragon ornaments made of cut porcelain (剪瓷雕). <i>Little Red Dot Collection. All rights reserved, National Library Board, 2010.</i></div>
+
+One of the earliest descriptions of the temple at Mohamed Sultan Road can be found in the 1951 book, 新加坡庙宇概览 (*An Overview of the Temples in Singapore*), in which the author describes the picturesque sea view and surrounding houses. From the temple, one could see Fort Canning and Mount Faber, making it Singapore’s only temple with a panoramic view at the time.14
+
+The temple was built in the southern Fujian architectural style and features two beautiful granite columns carved with entwined dragons at the entrance, dragon ornaments on the roof made of cut porcelain (剪瓷雕) and intricate carvings on the facade depicting scenes and characters from Chinese classics such as *Romance of the Three Kingdoms*.15
+
+In 1936, a row erupted over the ownership of the temple, leading to a legal suit. The property eventually came under the Hong San See Temple Trustee Committee before it was relinquished to the Singapore Lam Ann Association in 1973.16
+
+Between 2006 and 2009, the temple underwent a $3-million restoration project spearheaded by the Lam Ann Association and funded by clan members, temple devotees and the Lee Foundation. The restoration was so well executed that in 2010, Hong San See Temple became the first building in Singapore to receive the Award of Excellence in the UNESCO Asia- Pacific Heritage Awards for Cultural Heritage Conservation.17
+
