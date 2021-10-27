@@ -6,6 +6,8 @@ layout: post
 ---
 #### Singaporeans have always had a morbid fascination with the supernatural. **Ng Yi-Sheng** examines the culture of horror in our oral folklore, books and films.
 
+<div style="background-color: white;"><br><img src="/images/Vol-13-issue-2/history-of-singapore-horror/01_sghorror.png">An illustration of <i>Hantu Puteri</i> (Ghost Princess) by A. F. Anthony. <i>All rights reserved, McHugh, J. N. (1959). Hantu Hantu: An Account of Ghost Belief in Modern Malaya (2nd edition) (p.45). Singapore: Published by Donald Moore for Eastern Universities Press. (Call no.: RCLOS 398.3 MAC)</i></div>
+
 In 2016, I was asked to speak at a Singapore Writers Festival panel discussion titled “SG HORROR: Who’s Afraid of the Dark”. This surprised me, since I had never identified myself as a horror writer. Nor had my two co-panellists, Audrey Chin and Jon Gresham. The very purpose of the event was, apparently, to ponder “why there are so few horror writers in Singapore”.
 
 Frankly, this infuriated me. The panel’s premise was absurd: not only does Singapore have a plethora of horror writers; we also have a rich and layered culture of horror that has been interpreted by a diverse range of storytellers over the centuries. I cobbled together a hastily researched lecture on the subject. Additionally, I invited a real-life horror writer to join the discussion: Raymus Chang, author of the short story collection Shadows from Here: Tales of Terror (2016).
