@@ -113,8 +113,8 @@ Thankfully, these Grand Hotels established by the Messrs Sarkies and their relat
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Vol-13-issue-2/old-world-amusement-parks/jessie-yak.png">
-	<b>Jessie Yak </b>is a Reference Librarian with the Rare Collections team at the National Library, Singapore. She majored in Chinese language and literature at Beijing University and furthered her studies at the University of Cambridge. Jessie is interested in Chinese literature, the Chinese diaspora and the print culture of East Asia.
+<img style="width: 100px; height: 100px;" src="images/Vol-13-issue-2/east-of-suez/kennie.png">
+<b>Kennie Ting</b> is the Director of the Asian Civilisations Museum and Group Director of Museums at the National Heritage Board. He is the author of the book, "The Romance of the Grand Tour: 100 Years of Travel in South East Asia" which explores the colonial heritage of Southeast Asian port cities and the history of travel to the East.
 </div>
 
 <a href="/vol-13/issue-2/jul-sep-2017/"><center>Back to Issue</center></a>
