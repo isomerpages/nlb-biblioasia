@@ -145,3 +145,36 @@ It is worth remembering that Botanic Gardens director Richard Holttum, who close
 
 #### **Getting it Right – Finally**
 
+Ridley was widely respected for his role in establishing the Singapore Botanic Gardens as a reputable attraction and, in 1955, was described by historian Sir Richard Winstedt as “the man whose influence on Malayan history is second only to that of Raffles”.41 Yet, after 1981, Ridley’s pronouncement on the origins of the Vanda Miss Joaquim became sidelined. Although contemporary orchid experts accepted Ridley’s statement that the orchid was deliberately created, the discovery story was perpetuated by a television drama, online articles, in books and even in scholarly journals.
+
+In 2007, Arditti ans Hew continued to claim that *Vanda* Miss Joaquim was a natural hybrid but yet again provided no evidence.42. In a final attempt to set the record straight, Harold Johnson and Nadia Wright collaborated on a book in 2008 that documented the orchid’s true origins.43 Although the book elevated public awareness of the subject, it was still not sufficient to convince officialdom to accept that Joaquim had hybridised the orchid.
+
+In 2009,  *The Straits Times* repeated that Agnes Joaquim had bred the orchid, but in news reports published in 2011, 2012 and 2015, it moved to a more neutral position without attributing credit to her. However, signs of change began to appear. For example, in 2011, a sample question from the Singapore citizenship quiz asked who had bred the orchid. The correct answer was Agnes Joaquim.
+
+Finally, in 2015, after careful deliberation, Joaquim was inducted into the Singapore Women’s Hall of Fame in recognition of her hybridisation of the orchid. Hazel Locke (Basil Johannes’s niece) accepted the award on Joaquim’s behalf. The award was presented by Halimah Yacob, then Speaker of Parliament (and currently President of Singapore).
+
+But the journey towards correcting history was not over yet. In 2016, matters came to a head after Hazel Locke’s daughter, Linda Locke, came across a display board at the Singapore Botanic Gardens that failed to recognise Joaquim’s role. The younger Locke embarked on further research to evaluate the conflicting arguments put forward by various people and was able to confirm that the evidence presented by Johnson and Wright was indisputable.
+
+Locke persisted in her efforts to correct official records of Singapore history and managed to convince the National Heritage Board (NHB) to conduct its own review of all historical source materials. Only then did NHB, together with the National Parks Board, arrive at the conclusion that Agnes Joaquim had indeed crossed the parent plants to create *Vanda* Miss Joaquim. NHB and the Singapore Botanic Gardens amended their official records in 2016.
+
+This news was brought to the attention of other government agencies – the National Library Board, for instance, corrected its articles about the orchid on Singapore Infopedia, its online encyclopedia − and in September 2016, *The Straits Times* ran a full-page report accepting that Agnes Joaquim was responsible for creating the hybrid orchid.44
+
+<img src="/images/Vol-14-issue-1/blooming-lies/Blooming9.JPG">
+<div style="background-color: white;">(Left) Vanda Miss Joaquim orchids in bloom. <i>Courtesy of Linda Locke.</i><br>
+(Middle) A close-up of a Vanda Miss Joaquim. <i>Courtesy of National Parks Board.</i><br>
+	(Right) A painting of the <i>Vanda</i> Miss Joaquim that won Sir Trevor Lawrence, President of the Royal Horticultural Society, the First Class Certificate at the 1897 Royal Horticultural Flower Show. Drawn by artist Nellie Roberts in 1897, it is simply titled “Miss Joaquim Agnes”. FCC/RHS. <i>Image source: RHS Lindley Collections, The Royal Horticultural Society.</i></div>
+
+Truth had finally triumphed, but its vindication was hard won, with a war of words and various parties taking different sides since the late 1950s. Much ado over a trivial matter, some may say. However, when the bloom in question is Singapore’s national flower, it is important that its correct history is told. This is all the more timely as we commemorate the 125th anniversary of the *Vanda* Miss Joaquim in 2018.
+
+
+<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> 
+<b>AGNES JOAQUIM</b><br><br>
+Agnes Joaquim’s lineage can be traced to the diasporic Armenian community who sank roots in Singapore soon after the settlement’s founding in 1819. Joaquim’s grandparents were Isaiah Zechariah, one of the founders of Singapore’s Armenian Apostolic Church of St Gregory the Illuminator – more simply known as the Armenian Church – and Ashkhen Arathoon, after whom Agnes Joaquim was named.
+<br><br>
+Her parents were Parsick Joaquim, an Armenian from Madras, and Urelia Zechariah, a Singapore-born Armenian. Parsick Joaquim arrived in Singapore around 1840 and worked as a merchant and trader. Together with Simon Stephens, he founded Stephens & Joaquim in 1849.
+<br><br>
+In 1852, Parsick Joaquim married Urelia Zechariah and lived on Hill Street near other Armenian families and the church. His business thrived, and in 1861, the family moved to a mansion overlooking Tanjong Pagar, which he named Mt Narcis, after his eldest son. When the mansion was demolished in 1901, the carriageway leading to the house was named Narcis Road.
+	<br><br>
+<img src="/images/Vol-14-issue-1/blooming-lies/Blooming10.JPG">(Left) Photo of Agnes Joaquim on a locket that once belonged to her, with an inscription of her name on the reverse side. The locket is now in the possession of Linda Locke, her great grand-niece. <i>Courtesy of Linda Locke.</i><br>
+(Right) Agnes Joaquim died of cancer on 2 July 1899 at the age of 45. Her tombstone is found within the grounds of the Armenian Church in Singapore. It was originally located at Bukit Timah Cemetery. Her tombstone bears the inscription “Let her own works praise her”. <i>Courtesy of Prem Singh.</i>
+</div>
