@@ -177,4 +177,20 @@ In 1852, Parsick Joaquim married Urelia Zechariah and lived on Hill Street near 
 	<br><br>
 <img src="/images/Vol-14-issue-1/blooming-lies/Blooming10.JPG">(Left) Photo of Agnes Joaquim on a locket that once belonged to her, with an inscription of her name on the reverse side. The locket is now in the possession of Linda Locke, her great grand-niece. <i>Courtesy of Linda Locke.</i><br>
 (Right) Agnes Joaquim died of cancer on 2 July 1899 at the age of 45. Her tombstone is found within the grounds of the Armenian Church in Singapore. It was originally located at Bukit Timah Cemetery. Her tombstone bears the inscription “Let her own works praise her”. <i>Courtesy of Prem Singh.</i>
+<br><br>
+Parsick Joaquim died unexpectedly in 1872, leaving his wife to raise 11 children, the youngest of whom was three years old. Fortunately, he left the family well provided for.
+<br><br>
+Agnes Joaquim, born on 7 April 1854, did not marry and was no doubt an immense help to her widowed mother, although their workload eased when the four youngest sons were sent to boarding school in England. Joaquim led a busy social life, attending various balls and festivities. However, it appears she was a strict woman in her later years, shooing her young nieces and nephews out of sight whenever guests arrived at the house.
+<br><br>
+Joaquim was a skilled and artistic needlewoman. She embroidered a beautiful altar cloth for the Armenian Church, and at the 1891 Flower Show, she was complimented for her most attractive bouquet composed of orchids and delicate grasses.
+<br><br>
+However, it was in the garden that Joaquim excelled, putting her fingers and mind to work. She won an impressive number of prizes in the annual flower shows before finally making her mark in history with her hybrid, Vanda Miss Joaquim. Exhibited at the annual Flower Show in April 1899, the Vanda Miss Joaquim won First Prize for the rarest orchid, and more importantly, recognition for her years of work.
+<br><br>
+However, Joaquim was not destined to live long. She developed cancer and her condition took a turn for the worse when she contracted pneumonia. She died on 2 July 1899 at the relatively young age of 45. Local newspapers reported Joaquim’s death, describing her as the sister of “respected townsman” Joe Joaquim, her younger brother, and an eminent lawyer and Municipal Commissioner.
+<br><br>
+Joaquim was buried in Bukit Timah Cemetery, and when the grounds were acquired by the government, her tombstone was one of those rescued and moved to the Armenian Church grounds. Today, it rests in the Garden of Memories in the church grounds, with a pot of orchids – the <i>Vanda</i> Miss Joaquim, naturally – on either side. The epitaph on the tombstone reads: “Let her own works praise her”, a reminder of the enduring legacy Agnes Joaquim left behind.
+</div>
+<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> 
+<b>WHAT IS HYBRIDISATION?</b><br><br>
+The hybridisation of a plant involves two steps. First, pollination takes place during which pollen is transferred from the male flower to the female flower to create a seed. Second, germination occurs in which the seed develops into a plant. Whether a hybrid is artificial or natural depends on how the pollination occurred. If the transfer of pollen is done by a person, the resulting hybrid is termed “artificial”. If it is done by agents of pollination such as insects, birds or by the wind, it is termed “natural”.
 </div>
