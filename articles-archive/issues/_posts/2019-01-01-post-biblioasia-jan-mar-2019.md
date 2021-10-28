@@ -5,9 +5,9 @@ date: 2020-01-01T00:00:00.000Z
 breadcrumb: Jan-Mar 2019
 permalink: /vol-14/issue-4/jan-mar-2019/
 ---
-<img src="/images/Vol-14-issue-4/vol14_iss4.JPG">  
-
 Farquhar fights back. The daring Mrs Dare. Lessons from the Chetty Melaka kitchen. These and other great reads in this issue of BiblioAsia.
+
+<img src="/images/Vol-14-issue-4/vol14_iss4.JPG">  
 
 **[Director’s Note](/vol-14/issue-4/jan-mar-2019/directors-note/)**
 
