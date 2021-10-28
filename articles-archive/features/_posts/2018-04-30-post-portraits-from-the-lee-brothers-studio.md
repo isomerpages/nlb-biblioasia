@@ -45,7 +45,7 @@ In the early 1920s, the two brothers parted company on amicable terms and King Y
 
 King Yan came to Singapore with his father in 1891 as an apprentice photographer. In 1897, he married Tong Oi Yuet in St Stephen’s Church in Hong Kong. They returned to Singapore and had 12 children. Three of his sons became photographers. A Methodist and an active YMCA member, King Yan was one of the first in Singapore to cut off his queue and was known in photographic circles as *mo pin lou* or “the man with no pigtail”.
 
-<img src="/images/Vol-14-issue-1/portraits-from-lee-bros-studio/Portraits4.JPG">
+<img style="width: 350px; height: 350px;" src="/images/Vol-14-issue-1/portraits-from-lee-bros-studio/Portraits4.JPG">
 <div style="background-color: white;">Lee King Yan behind the camera. <i>Marjorie Lau Collection, courtesy of National Archives of Singapore.</i></div>
 
 On the eve of World War II, King Yan evacuated Eastern Studio because of vibrations to the shophouse structure caused by the frequent passing of heavy trucks along Stamford Road. He continued to operate Venus Studio in nearby Eu Court, a branch of Eastern Studio that he had opened in the 1930s. Unfortunately, these premises were damaged during a Japanese air raid, and the archive of negatives and prints destroyed. After the war, King Yan continued to work from his home at 26 Dublin Road. When he died in 1957 at age 80, his obituary in *The Straits Times* described him as “one of the pioneers of photography in the country” and the “grand old man of photography”.[^7]
@@ -89,7 +89,7 @@ In many of the portraits found in the collection – all of which were taken cir
 	<br><br>
 <img src="/images/Vol-14-issue-1/portraits-from-lee-bros-studio/Portraits8.JPG">
 	<br><br>
-<img src="/images/Vol-14-issue-1/portraits-from-lee-bros-studio/Portraits9.JPG">
+<img style="height: 250px;" src="/images/Vol-14-issue-1/portraits-from-lee-bros-studio/Portraits9.JPG">
 </div>
 
 *All photos are from the Lee Brothers Studio Collection. Identities of the subjects are unknown as these photos are unrecorded excess or uncollected prints kept by the Lee Brothers Studio.*
