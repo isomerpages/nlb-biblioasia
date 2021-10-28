@@ -254,17 +254,17 @@ Josey, A. (2009). *[Cold-blooded murders](http://eservice.nlb.gov.sg/item_holdin
 
 [Sunny Ang was there when Cheok made out her will, says witness](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19650428.2.61). (1965, April 28). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
 
-Sunny found guilty, to hang. (1965, May 19). *The Straits Times*, p.1. Retrieved from NewspaperSG.
+[Sunny found guilty, to hang](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19650519.2.3). (1965, May 19). *The Straits Times*, p.1. Retrieved from NewspaperSG.
 
-That flipper – by man flown from England. (1965, May 8). The Straits Times, p. 11. Retrieved from NewspaperSG.
+[That flipper – by man flown from England](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19650508.2.69). (1965, May 8). *The Straits Times*, p. 11. Retrieved from NewspaperSG.
 
 **Mimi Wong**
 
-Davidson, B. (1973, July 24). Sheares rejects Mimi’s plea for mercy. The Straits Times, p. 1. Retrieved from NewspaperSG.
+Davidson, B. (1973, July 24). [Sheares rejects Mimi’s plea for mercy](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19730724-1.2.11). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
 
-Hwang, T. F. (1970, November 4). Nightclub waitress on murder trial collapses. The Straits Times, p. 15. Retrieved from NewspaperSG.
+Hwang, T. F. (1970, November 4). [Nightclub waitress on murder trial collapses](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19701104-1.2.97). *The Straits Times*, p. 15. Retrieved from NewspaperSG.
 
-Hwang, T. F. (1970, December 8). Death for Mimi and her husband. The Straits Times, p. 1. Retrieved from NewspaperSG.
+Hwang, T. F. (1970, December 8). Death for Mimi and her husband. *The Straits Times*, p. 1. Retrieved from NewspaperSG.
 
 Hwang, T. F. (1972, July 23). Appeal of Mimi Wong and her husband (both under death sentence) is dismissed. The Straits Times, p. 4. Retrieved from NewspaperSG.
 
