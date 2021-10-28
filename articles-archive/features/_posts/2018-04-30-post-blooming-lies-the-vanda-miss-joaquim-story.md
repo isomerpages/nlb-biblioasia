@@ -206,7 +206,7 @@ The hybridisation of a plant involves two steps. First, pollination takes place 
 <img src="/images/Vol-14-issue-1/blooming-lies/Blooming13.jpg" style="width: 100px; height: 100px;">
 <b>Harold Johnson</b>, is an orchid enthusiast. The second edition of his book with Nadia Wright entitled <i>Vanda Miss Joaquim: Singapore's National Flower & the Legacy of Agnes & Ridley</i> will be published in late 2018.
 </div>
-
+<br>
 <a href="https://biblioasia.nlb.gov.sg/vol-14/issue-1/apr-jun-2018/"><center>Back to Issue</center></a>
 	
 #### **NOTES**
