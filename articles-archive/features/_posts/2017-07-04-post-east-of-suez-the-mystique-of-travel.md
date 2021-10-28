@@ -113,59 +113,58 @@ Thankfully, these Grand Hotels established by the Messrs Sarkies and their relat
 
 #### **REFERENCES**
 
-Artmonsky, R., & Cox, S. (2012). P & O: Across the oceans, across the years. UK: Antique Collectors’ Club. (Not available in NLB holdings)
+Artmonsky, R., & Cox, S. (2012). *P & O: Across the oceans, across the years*. UK: Antique Collectors’ Club. (Not available in NLB holdings)
 
-Berneron-Couvenhes, M. (2007). Les Messageries Maritimes – L’essor d’une grande compagnie de navigation française, 1851–1894. Paris: Presses de l’Université Paris-Sorbonne. (Not available in NLB holdings)
+Berneron-Couvenhes, M. (2007). *Les Messageries Maritimes – L’essor d’une grande compagnie de navigation française, 1851–1894*. Paris: Presses de l’Université Paris-Sorbonne. (Not available in NLB holdings)
 
-Bird, I. L. (1967). The golden chersonese and the way thither. Kuala Lumpur: Oxford University Press. (Call no.: RCLOS 959.5 BIS)
+Bird, I. L. (1967). *[The golden chersonese and the way thither](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4123673)*. Kuala Lumpur: Oxford University Press. (Call no.: RCLOS 959.5 BIS)
 
-Conrad, J. (1900). Lord Jim. Retrieved from Project Gutenberg website.
+Conrad, J. (1900). *Lord Jim*. Retrieved from Project Gutenberg website.
 
-Conrad, J. (1917). The shadow-line: A confession. Retrieved from Project Gutenberg website.
+Conrad, J. (1917). *The shadow-line: A confession*. Retrieved from Project Gutenberg website.
 
-Couperus, L. (1922). The hidden force (De stille kracht). London: J. Cape. (Call no.: RSEA 833.3136 COU)
+Couperus, L. (1922). *[The hidden force](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4142131)* (*De stille kracht*). London: J. Cape. (Call no.: RSEA 833.3136 COU)
 
-Coward, N. (2002). Mad dogs and Englishmen. In The Noel Coward songbook [Sound recording]. New York: EMI Classics. (Call no.: 782.14 COW-ART])
+Coward, N. (2002). Mad dogs and Englishmen. In *[The Noel Coward songbook](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13106937)* [Sound recording]. New York: EMI Classics. (Call no.: 782.14 COW-ART])
 
-Crawfurd, J. (1830). Journal of an embassy from the governor-general of India to the courts of Siam and Cochin-China; exhibiting a view of the actual State of these kingdoms. London: H. Colburn and R. Bentley. (Microfilm no.: NL 11335)
+Crawfurd, J. (1830). *[Journal of an embassy from the governor-general of India to the courts of Siam and Cochin-China; exhibiting a view of the actual State of these kingdoms](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4142777)*. London: H. Colburn and R. Bentley. (Microfilm no.: NL 11335)
 
-Deakes, C., & Stanley, T. (2013). A century of sea travel: Personal accounts from the steamship era. UK: Seaforth Publishing. (Not available in NLB holdings)
+Deakes, C., & Stanley, T. (2013). *A century of sea travel: Personal accounts from the steamship era*. UK: Seaforth Publishing. (Not available in NLB holdings)
 
-Du Perron, E. (1984). Country of origin (Het land van herkomst). Amherst: University of Massachusetts Press. (Call no.: RCLOS 839.3136219 PER)
+Du Perron, E. (1984). *[Country of origin](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=2940856)* (Het land van herkomst). Amherst: University of Massachusetts Press. (Call no.: RCLOS 839.3136219 PER)
 
-Duras, M. (1985). The lover (L’Amant). New York: Pantheon Books. (Call no.: RSEA 843.912 DUR)
+Duras, M. (1985). *[The lover](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=3320369)* (*L’Amant*). New York: Pantheon Books. (Call no.: RSEA 843.912 DUR)
 
-Fletcher, R. A. (1913). Travelling palaces: Luxury in passenger steamships. London: Sir Isaac Pitman & Sons, Ltd. Retrieved from Internet Archive website.
+Fletcher, R. A. (1913). *Travelling palaces: Luxury in passenger steamships*. London: Sir Isaac Pitman & Sons, Ltd. Retrieved from Internet Archive website.
 
-Greene, G. (1955). The quiet American. New York: Viking Press. (Call no.: RDET 823.912 GRE)
+Greene, G. (1955). *[The quiet American](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201381312)*. New York: Viking Press. (Call no.: RDET 823.912 GRE)
 
-Kipling, R. (1892). Mandalay. In R. Kipling. (1892), Barrack-room ballads, and other verses. London: Methuen Publishing. (Not available in NLB holdings)
+Kipling, R. (1892). Mandalay. In R. Kipling. (1892), *Barrack-room ballads, and other verses*. London: Methuen Publishing. (Not available in NLB holdings)
 
-Liu, G. (2006). Raffles Hotel. Singapore: Editions Didier Millet. (Call no.: RSING q915.9570613 LIU-[TRA])
+Liu, G. (2006). *[Raffles Hotel](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12691300)*. Singapore: Editions Didier Millet. (Call no.: RSING q915.9570613 LIU-[TRA])
 
-Loti, P. (1999). A pilgrimage to Angkor (Un pèlerin d’angkor). Chiang Mai: Silkworm Books, (Call no.: RSEA 915.9604 LOT-[TRA])
+Loti, P. (1999). *[A pilgrimage to Angkor](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12338945)* (Un pèlerin d’angkor). Chiang Mai: Silkworm Books, (Call no.: RSEA 915.9604 LOT-[TRA])
 
-Malraux, A. (1961). The royal way (La voie royale). New York: Random House. (Not available in NLB holdings)
+Malraux, A. (1961). *The royal way (La voie royale)*. New York: Random House. (Not available in NLB holdings)
 
-Maugham, W. S. (1953). The casuarina tree: Six stories. London: W. Heinemann. (Call no.: RCLOS 823.91 MAU)
+Maugham, W. S. (1953). *[The casuarina tree: Six stories](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4171098)*. London: W. Heinemann. (Call no.: RCLOS 823.91 MAU)
 
-Maugham, W. S. (1930). The gentleman in the parlour: A record of a journey from Rangoon to Haiphong. London: William Heinemann Ltd. (Call no.: RSEA 959 MAU)
+Maugham, W. S. (1930). *[The gentleman in the parlour: A record of a journey from Rangoon to Haiphong](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5179176)*. London: William Heinemann Ltd. (Call no.: RSEA 959 MAU)
 
-Meade, M., Fitchett, J., & Lawrence, A. (1987). Grand Oriental hotels: From Cairo to Tokyo, 1800–1939. London: J. M. Dent & Sons. (Call no.: RSING 647.95401 MEA)
+Meade, M., Fitchett, J., & Lawrence, A. (1987). *[Grand Oriental hotels: From Cairo to Tokyo, 1800–1939](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4450225)*. London: J. M. Dent & Sons. (Call no.: RSING 647.95401 MEA)
 
-Niewenhuys, R. (1982). Faded portraits. Amherst: University of Massachusetts Press. (Call no.: RCLOS 839.31364 NIE)
+Niewenhuys, R. (1982). [Faded portraits](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=2246051). Amherst: University of Massachusetts Press. (Call no.: RCLOS 839.31364 NIE)
 
-Nieuwenhuys, R. (1999). Mirror of the Indies: A history of Dutch colonial literature (Oost-Indische Spiegel). Hong Kong: Periplus Editions. (Call no.: RDET 839.31099598 NIE)
+Nieuwenhuys, R. (1999). *[Mirror of the Indies: A history of Dutch colonial literature](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10399537)* *(Oost-Indische Spiegel)*. Hong Kong: Periplus Editions. (Call no.: RDET 839.31099598 NIE)
 
-Orwell, G. (2014). Burmese days. London: Penguin Classics. (Call no.: RSEA 823.912 ORW)
+Orwell, G. (2014). *[Burmese days](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201060877)*. London: Penguin Classics. (Call no.: RSEA 823.912 ORW)
 
-Sarraut, A. (2010). Indochina. Bangkok, Thailand: White Lotus. (Call no.: RSEA 959.703 SAR)
+Sarraut, A. (2010). *[Indochina](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13735782)*. Bangkok, Thailand: White Lotus. (Call no.: RSEA 959.703 SAR)
 
-Sharp, I. (2008). The E & O Hotel: Pearl of Penang. Singapore: Marshall Cavendish Editions. (Call no.: RSEA 915.95106 SHA-[TRA])
+Sharp, I. (2008). *[The E & O Hotel: Pearl of Penang](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13095637)*. Singapore: Marshall Cavendish Editions. (Call no.: RSEA 915.95106 SHA-[TRA])
 
 Ting, K. (2015). *[The romance of the grand tour: 100 years of travel in South East Asia](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201300611)*. Singapore: Talisman Publishing. (Call no.: RSING 915.9 TIN-[TRA])
 
 #### **NOTES**
 
 [^1]:Kipling, R. (1892). Mandalay. In R. Kipling. (1892), *Barrack-room ballads, and other verses*. London: Methuen Publishing. (Not available in NLB holdings)
-
