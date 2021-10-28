@@ -44,6 +44,12 @@ A man watching a scene using the Kinetoscope. <i>Via Wikimedia Commons</i>.
 
 <div style="background-color: white;">
 <br/>
+<img style="width:40%" src="/images/vol-11-issue-1/earlysgcinema/image.jpg">
+<i>The Serpentine Dance</i>, a form of burlesque, was one of the first vignettes screened at the Aldephi Hall in 1897. © The Serpentine Dance. <i>Directed by Louis Lumiere, produced by Lumiere. France, 1897</i>.
+</div>
+
+<div style="background-color: white;">
+<br/>
 <img style="width:70%" src="/images/vol-11-issue-1/earlysgcinema/the-lumiere-brothers-louis-jean-lumiere-auguste-lumiere.jpg">
 Frenchmen August and Louis Lumiere were one of the first filmmakers in history. Via <i>pixgood.com</i>. 
 </div>
