@@ -112,9 +112,9 @@ This is an abridged version of the introductory chapter by Gretchen Liu from the
 [^2]:Hillier, B. (1976, January 1). *Victoria studio photographs* (p. 17). London: Ash & Grant. (Not available in NLB holdings) 
 [^3]:Turnbull, C. M. (1977). [*A history of Singapore, 1819–1975*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5255580) (p. 97). Singapore: Oxford University Press. (Call no.: RDLKL 959.57 TUR)
 [^4]:[Turnbull](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5255580), 1977, p. 103.
-[^5]:Ong Ong Siang’s One Hundred Years’ History of the Chinese in Singapore was published in London 1923 and reprinted by Oxford University Press in 1967. An annotated edition was published by the National Library Board Singapore in 2016. See Song, O. S. (1923). One hundred years’ history of the Chinese in Singapore. London: John Murray. Retrieved from BooKSG; Song, O. S. (1967). One hundred years’ history of the Chinese in Singapore. Singapore: University of Malaya Press. (RCLOS 959.57 SON); ); Song, O. S. (2020). One hundred years’ history of the Chinese in Singapore: The annotated edition. Singapore: National Library Board Singapore. Retrieved from BookSG. 
-[^6]:
-[^7]:
+[^5]:Ong Ong Siang’s *One Hundred Years’ History of the Chinese in Singapore* was published in London 1923 and reprinted by Oxford University Press in 1967. An annotated edition was published by the National Library Board Singapore in 2016. See Song, O. S. (1923). [*One hundred years’ history of the Chinese in Singapore*](http://eresources.nlb.gov.sg/printheritage/detail/f8082431-1c7b-460e-b59c-bbc5793035a3.aspx). London: John Murray. Retrieved from BooKSG; Song, O. S. (1967). [*One hundred years’ history of the Chinese in Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4590335). Singapore: University of Malaya Press. (RCLOS 959.57 SON); ); Song, O. S. (2020). [*One hundred years’ history of the Chinese in Singapore: The annotated edition*](https://eresources.nlb.gov.sg/printheritage/detail/d77d9bfc-e335-4775-a6bf-e8712deaa81f.aspx?s=one%20hundred%20chinese%20history). Singapore: National Library Board Singapore. Retrieved from BookSG. 
+[^6]:Macmillan, A. (Ed.). (1923). [*Seaports of the Far East: Historical and descriptive commercial and industrial facts, figures & resources*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4320837) (p. 274). London: W. H. & L. Collingridge. (Call no.: RRARE 387.10959 MAC; Microfilm no.: NL 14242)
+[^7]:The full obituary in *The Straits Times* on 31 December 1957 reads: “Mr Lee King Yan, 80, one of the pioneers of photography in the country died at his home in Serangoon Garden Estate yesterday. He came to Singapore from China 50 years ago. He had received numerous awards for his photography. He was the proprietor of the Eastern Photo Studio, Stamford Road. Often referred to as the ‘grand old man of photography’, Mr Lee leaves seven sons and four daughters.” See [Colony’s grand old man of photography dies at 80](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19571231-1.2.45). (1957, December 31). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
 [^8]:
 [^9]:
 [^10]:
@@ -127,8 +127,8 @@ This is an abridged version of the introductory chapter by Gretchen Liu from the
 
 
 
-Macmillan, A. (Ed.). (1923). Seaports of the Far East: Historical and descriptive commercial and industrial facts, figures & resources (p. 274). London: W. H. & L. Collingridge. (Call no.: RRARE 387.10959 MAC; Microfilm no.: NL 14242)
-The full obituary in The Straits Times on 31 December 1957 reads: “Mr Lee King Yan, 80, one of the pioneers of photography in the country died at his home in Serangoon Garden Estate yesterday. He came to Singapore from China 50 years ago. He had received numerous awards for his photography. He was the proprietor of the Eastern Photo Studio, Stamford Road. Often referred to as the ‘grand old man of photography’, Mr Lee leaves seven sons and four daughters.” See Colony’s grand old man of photography dies at 80. (1957, December 31). The Straits Times, p. 4. Retrieved from NewspaperSG.
+
+
 Macmillan, 1923, p. 273
 Page 1 advertisements column 3: Notice: Mr Dutronquoy. (1843, December 7). The Singapore Free Press and Mercantile Advertiser, p. 1. Retrieved from NewspaperSG.
 Carte-de-visits from old Singapore studios still turn up in antique shops in Singapore and London, with the name of the studio handsomely printed on the back.
