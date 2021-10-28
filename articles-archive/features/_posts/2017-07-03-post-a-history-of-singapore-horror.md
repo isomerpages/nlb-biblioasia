@@ -129,28 +129,28 @@ Perhaps the last word on our horror heritage should go to Alfian Sa’at. As an 
 
 [^1]:Abdullah Abdul Kadir. (2009). The Hikayat Abdullah (A. H. Hill, Trans.) (p. 146). Kuala Lumpur: The Malaysian Branch of the Royal Asiatic Society. (Call no.: RSEA 959.5 ABD). [Note: Abdullah claims that Colonel William Farquhar organised the expedition; later historians establish that it was almost certainly Raffles. See Hahn, E. (1968). Raffles of Singapore (pp. 463–464). London: Oxford University Press Kula Lumpur: University of Malaya Press. (Call no.: RCLOS 959.570210924 RAF)
 
-[^2]:Tigers. (1843, October 26). The Singapore Free Press and Mercantile Advertiser, p. 2. Retrieved from NewspaperSG.
+[^2]:[Tigers](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18431026-1.2.8). (1843, October 26). *The Singapore Free Press and Mercantile Advertiser*, p. 2. Retrieved from NewspaperSG.
 
-[^3]:Buckley, C.B. (1984). An anecdotal history of old times in Singapore, 1819–1867 (pp. 575–576). Singapore: Oxford University Press. (Call no.: RSING 959.57 BUS)
+[^3]:Buckley, C.B. (1984). *[An anecdotal history of old times in Singapore, 1819–1867](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082239)* (pp. 575–576). Singapore: Oxford University Press. (Call no.: RSING 959.57 BUS)
 
-[^4]:Singapore Press Holdings. (1953, February 19). Round-up of the three amusement parks – New World, Happy World, Great World: This ‘monster’ is one of the thrills of the Ghost Ride in the amusement park [Photograph]. Retrieved from National Archives of Singapore website.
+[^4]:Singapore Press Holdings. (1953, February 19). *[Round-up of the three amusement parks – New World, Happy World, Great World: This ‘monster’ is one of the thrills of the Ghost Ride in the amusement park](http://www.nas.gov.sg/archivesonline/photographs/record-details/9ead74b1-1162-11e3-83d5-0050568939ad)* [Photograph]. Retrieved from National Archives of Singapore website.
 
-[^5]:Amir Muhammad. (2010). 120 Malay movies (p. 14). Petaling Jaya: Matahari Books. (Call no.: RSEA 791.430899923 AMI)
+[^5]:Amir Muhammad. (2010). *[120 Malay movies](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13702621)* (p. 14). Petaling Jaya: Matahari Books. (Call no.: RSEA 791.430899923 AMI)
 
-[^6]:Chandy, G. (2000, April 23). Once an MP, now he’s a ‘JC’. *The New Paper*, p. 4. Retrieved from NewspaperSG.
+[^6]:Chandy, G. (2000, April 23). [Once an MP, now he’s a ‘JC’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper20000423-1.2.3.5). *The New Paper*, p. 4. Retrieved from NewspaperSG.
 
-[^7]:Othman Wok. (1991). Malayan horror: Macabre tales of Singapore and Malaysia in the 50’s. Singapore: Heinemann Asia. (Call no.: RSING S899.2305 OTH)
+[^7]:Othman Wok. (1991). *[Malayan horror: Macabre tales of Singapore and Malaysia in the 50’s](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6117706)*. Singapore: Heinemann Asia. (Call no.: RSING S899.2305 OTH)
 
-[^8]:Whitehead, A. (2013). Introduction to The Wayang at Eight Milestone: Stories & essays by Gregory Nalpon (p. xvii). Singapore: Epigram Books. (Not available in NLB holdings)
+[^8]:Whitehead, A. (2013). *Introduction to The Wayang at Eight Milestone: Stories & essays by Gregory Nalpon* (p. xvii). Singapore: Epigram Books. (Not available in NLB holdings)
 
-[^9]:A runaway bestseller. (1989, December 6). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
+[^9]:[A runaway bestseller](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19891206-1.2.69.3.4). (1989, December 6). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
 
-[^10]:Sukmawati Umar. (2015, October 9). Inspiring chills at Halloween Horror Nights. The New Paper. Retrieved from The New Paper website.
+[^10]:Sukmawati Umar. (2015, October 9). Inspiring chills at Halloween Horror Nights. *The New Paper*. Retrieved from The New Paper website.
 
-[^11]:Lee, R. (1992). The almost complete collection of true Singapore ghost stories (Book 2) (pp. 20–23). Singapore: Flame of the Forest. (Call no.: RSING LEE)
+[^11]:Lee, R. (1992). *[The almost complete collection of true Singapore ghost stories](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6303951)* (Book 2) (pp. 20–23). Singapore: Flame of the Forest. (Call no.: RSING LEE)
 
-[^12]:Lee, R. (1994). The almost complete collection of true Singapore ghost stories (Book 3) (pp. 19–22). Singapore: Angsana Books. (Call no.: RSING LEE)
+[^12]:Lee, R. (1994). *[The almost complete collection of true Singapore ghost stories](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6864595)* (Book 3) (pp. 19–22). Singapore: Angsana Books. (Call no.: RSING LEE)
 
 [^13]:Interview with Pugalenthii, 25 March 2017.
 
-[^14]:Alfian Sa’at. (2017, January 19). Some thoughts which I shared at last night’s forum on Singapore literature (paraphrased and expanded). Retrieved from Facebook.
+[^14]:Alfian Sa’at. (2017, January 19). *Some thoughts which I shared at last night’s forum on Singapore literature (paraphrased and expanded)*. Retrieved from Facebook.
