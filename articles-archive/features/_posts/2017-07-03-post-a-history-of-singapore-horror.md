@@ -62,7 +62,7 @@ Did Lim’s books directly lead to a boom in local horror? It is hard to say as 
 
 Undoubtedly, the biggest name of the era was Russell Lee. In 1989, he released *The Almost Complete Collection of True Singapore Ghost Stories*, a compilation of 50 supposedly real-life accounts of paranormal encounters gathered from ordinary Singaporeans. It was a major hit, selling an unprecedented 30,000 copies in just over two months.[^9] Lee cashed in on his success by transforming the standalone book into a series. Today, *True Singapore Ghost Stories* (1989–present) comprises 25 volumes, with the author aiming to reach Book 50 within his lifetime.[^10]
 
-<div style="background-color: white;"><img src="/images/Vol-13-issue-2/history-of-singapore-horror/05_sghorror.png">Damien Sin has published four volumes of his <i>Classic Singapore Horror Stories</i> while Russell Lee’s <i>True Singapore Ghost Stories</i> is already into its 25th volume. Both series are huge hits with horror fans in Singapore. <i>All rights reserved, Angsana Books.</i></div>
+<div style="background-color: white;"><img style="width:500px"src="/images/Vol-13-issue-2/history-of-singapore-horror/05_sghorror.png">Damien Sin has published four volumes of his <i>Classic Singapore Horror Stories</i> while Russell Lee’s <i>True Singapore Ghost Stories</i> is already into its 25th volume. Both series are huge hits with horror fans in Singapore. <i>All rights reserved, Angsana Books.</i></div>
 
 *True Singapore Ghost Stories* may be pulp literature, but it is also thoroughly representative of Singapore’s diversity. Its spirits hail from a range of cultural backgrounds: readers are transported from a tale of a *pontianak* in a banana tree to one of demon possession in a church.[^11]
 
@@ -84,7 +84,7 @@ Television likewise embraced horror elements in its programming, even as Mediaco
 
 Homegrown horror would eventually take over the small screen too with Channel 5’s *Incredible Tales* (2005–2013), an anthology series based on local horror narratives. Mediacorp would also commission Esan Sivalingam’s TV movie *Pulau Hantu* (2008), which tackled ghost stories in army camps.
 
-<div style="background-color: white;"><img src="/images/Vol-13-issue-2/history-of-singapore-horror/07_sghorror.png">(Above) <i>Incredible Tales</i>, an anthology series based on local horror narratives, was screened on Mediacorp’s Channel 5 from 2005 to 2013. <i>Courtesy of Mediacorp.</i><br>
+<div style="background-color: white;"><img style="width:500px" src="/images/Vol-13-issue-2/history-of-singapore-horror/07_sghorror.png">(Above) <i>Incredible Tales</i>, an anthology series based on local horror narratives, was screened on Mediacorp’s Channel 5 from 2005 to 2013. <i>Courtesy of Mediacorp.</i><br>
 	(Top) Film still and movie poster from Kelvin Tong’s <i>The Maid</i> (女佣; 2006). The film is about a newly arrived Filipino domestic worker in Singapore who encounters supernatural forces during the Chinese seventh lunar month. <i>Courtesy of Mediacorp.</i></div>
 
 Interestingly, Mediacorp writers of the 1990s had unwittingly foreseen a future trend in our horror scene. Singaporeans had a longing to be haunted, not only by their own ghosts, but also by the spectres of foreign lands.
