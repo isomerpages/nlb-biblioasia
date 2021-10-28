@@ -71,7 +71,7 @@ In all, more than 250 Malay-language films were produced in Singapore over the 2
 <i>The authors have jointly curated a book display “ The Golden Age of Malay Cinema”, at the Lee Kong Chian Reference Library, Level 8, National Library Building. The display ends on 30 May 2015.</i> 
 
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;">
-<b>AKAN DATANG: THE ART OF TTHE FILEM POSTER</b>
+<b>AKAN DATANG: THE ART OF THE FILEM POSTER</b>
 <br><br>
 "It’s been decades but I do remember some of the people my father [director Jamil Sulong] used to work with in Jalan Ampas. The one person I remember clearly was A. V. Bapat the art director for most of MFP’s movie[s]. If you manage to get a glimpse of the old Malay film posters – more than likely that it was his handiwork (like the <i>Raja Bersiong</i> poster…) I like the way he painted his posters…Uncle Bapat has long since passed on, … sad that sometimes his contributions to the Malay film industry is overlooked. As far as I know, he did sets, costumes and all art direction when he was at Jalan Ampas."[^46]
 <br><br>
