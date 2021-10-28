@@ -48,7 +48,7 @@ In the Foreword to this commemorative book, then Prime Minister Goh Chok Tong wr
 Published in 2007 to commemorate 40 years of National Service, this anthology features the stories and personal experiences of 39 men whose stints in National Service spanned the four decades. The reader is encouraged to pen his own experience as the 40th story.
 <br><br>
 <b>Ah Boys to Men</b> (2013) [Call no.: RSING 741.595957 NEO]<br>
-Adapted from Jack Neo’s popular 2012 film, Ah Boys to Men, this coming-of-age comic book of the same title chronicles the experiences of a group of boys undergoing Basic Military Training.
+	Adapted from Jack Neo’s popular 2012 film, <i>Ah Boys to Men</i>, this coming-of-age comic book of the same title chronicles the experiences of a group of boys undergoing Basic Military Training.
 <br><br>
 <b>With pride we lead : 21 strategies to lead, excel and overcome as an NSF</b> (2015) [Legal Deposit Collection]<br>
 Author Victor Lim (using the moniker Vic Van Dam) shares his personal account of the National Service experience, including tips on how to excel as a soldier.</span>
