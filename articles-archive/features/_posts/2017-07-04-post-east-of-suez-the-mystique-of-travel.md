@@ -104,3 +104,68 @@ There were four brothers: Martin, the eldest, was the first to arrive in Malaya,
 
 <div style="background-color: white;"><img style="width:700px" src="/images/Vol-13-issue-2/east-of-suez/07_suez.png">[Left] The Sarkies Brothers from New Julfa, an Armenian enclave in the Persian city of Isfahan, owned luxury hotels in the major Southeast Asian cities. These included the Raffles Hotel in Singapore, the Strand Hotel in Rangoon, and the E & O and Crag hotels in Penang. Staying at one of these Grand Hotels became an integral part of the Grand Tour, with these lodgings serving as homes away from home for the Grand Tourists. <i>Kennie Ting Collection.</i><br>
 [Right] A view of the Manila Hotel in Manila, the Philippines, from the river. The hotel still stands today and has been refurbished to its former glory. <i>Kennie Ting Collection.</i></div>
+
+By the early 1900s, the Sarkies Brothers were the leading hoteliers in the East, counting, among their properties, not just the Raffles, the E & O and the Strand, but also the Crag Hotel in Penang, and the Seaview Hotel and the Raffles Tiffin Room in Singapore. A cousin managed the Adelphi Hotel in Singapore – yet another grand hotel establishment. In the meantime, a Javanese branch of the Sarkies family was established, headed by Martin’s son, Lucas Martin Sarkies, who would go on to helm the fabled Oranje Hotel (today’s Hotel Majapahit) in the port city of Soerabaja – Java’s great metropolis.
+
+The Malayan branch of Sarkies Brothers would go bankrupt in 1931, in the thick of the Great Depression and following Arshak’s tragic and untimely death of a heart attack at Penang’s E & O Hotel. Management of all their hotels would pass out of the family’s hands, with the exception of the Oranje, which continued to be managed by Lucas Martin Sarkies and his descendants until the 1960s.
+
+Thankfully, these Grand Hotels established by the Messrs Sarkies and their relatives have miraculously withstood the test of time and continue to receive guests today in the cities of Penang, Yangon, Surabaya and Singapore. Restored to their former splendour, these edifices are a living testament to the glory days of travel to the East of Suez.
+
+#### **REFERENCES**
+
+Artmonsky, R., & Cox, S. (2012). P & O: Across the oceans, across the years. UK: Antique Collectors’ Club. (Not available in NLB holdings)
+
+Berneron-Couvenhes, M. (2007). Les Messageries Maritimes – L’essor d’une grande compagnie de navigation française, 1851–1894. Paris: Presses de l’Université Paris-Sorbonne. (Not available in NLB holdings)
+
+Bird, I. L. (1967). The golden chersonese and the way thither. Kuala Lumpur: Oxford University Press. (Call no.: RCLOS 959.5 BIS)
+
+Conrad, J. (1900). Lord Jim. Retrieved from Project Gutenberg website.
+
+Conrad, J. (1917). The shadow-line: A confession. Retrieved from Project Gutenberg website.
+
+Couperus, L. (1922). The hidden force (De stille kracht). London: J. Cape. (Call no.: RSEA 833.3136 COU)
+
+Coward, N. (2002). Mad dogs and Englishmen. In The Noel Coward songbook [Sound recording]. New York: EMI Classics. (Call no.: 782.14 COW-ART])
+
+Crawfurd, J. (1830). Journal of an embassy from the governor-general of India to the courts of Siam and Cochin-China; exhibiting a view of the actual State of these kingdoms. London: H. Colburn and R. Bentley. (Microfilm no.: NL 11335)
+
+Deakes, C., & Stanley, T. (2013). A century of sea travel: Personal accounts from the steamship era. UK: Seaforth Publishing. (Not available in NLB holdings)
+
+Du Perron, E. (1984). Country of origin (Het land van herkomst). Amherst: University of Massachusetts Press. (Call no.: RCLOS 839.3136219 PER)
+
+Duras, M. (1985). The lover (L’Amant). New York: Pantheon Books. (Call no.: RSEA 843.912 DUR)
+
+Fletcher, R. A. (1913). Travelling palaces: Luxury in passenger steamships. London: Sir Isaac Pitman & Sons, Ltd. Retrieved from Internet Archive website.
+
+Greene, G. (1955). The quiet American. New York: Viking Press. (Call no.: RDET 823.912 GRE)
+
+Kipling, R. (1892). Mandalay. In R. Kipling. (1892), Barrack-room ballads, and other verses. London: Methuen Publishing. (Not available in NLB holdings)
+
+Liu, G. (2006). Raffles Hotel. Singapore: Editions Didier Millet. (Call no.: RSING q915.9570613 LIU-[TRA])
+
+Loti, P. (1999). A pilgrimage to Angkor (Un pèlerin d’angkor). Chiang Mai: Silkworm Books, (Call no.: RSEA 915.9604 LOT-[TRA])
+
+Malraux, A. (1961). The royal way (La voie royale). New York: Random House. (Not available in NLB holdings)
+
+Maugham, W. S. (1953). The casuarina tree: Six stories. London: W. Heinemann. (Call no.: RCLOS 823.91 MAU)
+
+Maugham, W. S. (1930). The gentleman in the parlour: A record of a journey from Rangoon to Haiphong. London: William Heinemann Ltd. (Call no.: RSEA 959 MAU)
+
+Meade, M., Fitchett, J., & Lawrence, A. (1987). Grand Oriental hotels: From Cairo to Tokyo, 1800–1939. London: J. M. Dent & Sons. (Call no.: RSING 647.95401 MEA)
+
+Niewenhuys, R. (1982). Faded portraits. Amherst: University of Massachusetts Press. (Call no.: RCLOS 839.31364 NIE)
+
+Nieuwenhuys, R. (1999). Mirror of the Indies: A history of Dutch colonial literature (Oost-Indische Spiegel). Hong Kong: Periplus Editions. (Call no.: RDET 839.31099598 NIE)
+
+Orwell, G. (2014). Burmese days. London: Penguin Classics. (Call no.: RSEA 823.912 ORW)
+
+Sarraut, A. (2010). Indochina. Bangkok, Thailand: White Lotus. (Call no.: RSEA 959.703 SAR)
+
+Sharp, I. (2008). The E & O Hotel: Pearl of Penang. Singapore: Marshall Cavendish Editions. (Call no.: RSEA 915.95106 SHA-[TRA])
+
+Ting, K. (2015). *[The romance of the grand tour: 100 years of travel in South East Asia](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201300611)*. Singapore: Talisman Publishing. (Call no.: RSING 915.9 TIN-[TRA])
+
+#### **NOTES**
+
+[^1]:Kipling, R. (1892). Mandalay. In R. Kipling. (1892), *Barrack-room ballads, and other verses*. London: Methuen Publishing. (Not available in NLB holdings)
+
