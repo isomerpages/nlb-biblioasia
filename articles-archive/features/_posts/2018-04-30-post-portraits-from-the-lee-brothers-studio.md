@@ -67,3 +67,43 @@ The Lee brothers were practitioners of a tradition that began with the invention
 <img src="/images/Vol-14-issue-1/portraits-from-lee-bros-studio/Portraits5.JPG">
 <div style="background-color: white;">(Left) Lee King Yan with his wife and children, 1919. <i>Lee Brothers Studio Collection, courtesy of National Archives of Singapore.</i><br>
 (Right) Lee Poh Yan (holding child on lap) with his wife and children, c.1930. <i>Lee Brothers Studio Collection, courtesy of National Archives of Singapore.</i></div>
+
+In the 1860s, portrait photography was further invigorated by the introduction of the inexpensive carte-de-visite in France. Originally intended as a visiting card with a photographic portrait mounted on it, such cards were later produced in great numbers for friends’ albums.10 A further revolution took place not long after with the introduction of superior paper photographs made with the wet collodion process, or wet plate process. This new method gave a high-quality negative on glass with excellent resolution of detail from which an unlimited number of prints could be made.11
+
+The commercial possibilities of the wet plate process were staggering. Any quantity of prints could be ordered from the best results of a studio session, and supplied at terms attractive to both photographer and customer. The first to exploit this technical advance in Singapore was Edward A. Edgerton who, in 1858, advertised his “photographic and stereoscopic portrait” services at his Stamford Street residence.12
+
+Another early European photographer who established a photo studio in the settlement was John Thomson, who went on to become one of the most celebrated of all 19th-century photographers. He arrived in Singapore in 1862 equipped with the knowledge of the latest advances in commercial photography in Europe, and advertised a range of new services involving “micro-photographs”.13
+
+Of all the European studios, however, the most enduring was G.R. Lambert & Co, which operated from the 1880s until around 1917. The official photographers to the King of Siam and Sultan of Johor as well as for major political events in Malaya, G.R. Lambert & Co maintained branch offices in Sumatra, Kuala Lumpur and Bangkok. By the turn of the century, the firm had amassed one of the “finest collections of landscape views in the East, comprising about 3,000 subjects which were mainly purchased by globe-trotters as travel souvenirs and pasted into large leather-bound albums”.14
+
+Chinese photographers were also active in Singapore in the late 19th and early 20th centuries, as evidenced by the many examples of their work that have survived in family albums or turned up in antique shops. Such photographs are usually mounted on cardboard and carry names such as Pun Loon at High Street, Poh Wah at Upper Chin Chew Street, and Kwong Sun, Koon Hin and Guan Seng along South Bridge Road. While important examples of historic photography in their own right, the subjects are often posed stiffly and lack individual character.
+
+In contrast, the Lee brothers achieved both subtlety and naturalness in their work. Their genius lay in their ability to combine the technician’s dispassionate skill with the camera, the scientist’s understanding of the subtleties of the darkroom and the artist’s finely developed sense of human character and human expression.
+
+In many of the portraits found in the collection – all of which were taken circa 1910 to the mid-1920s – a dignity and timeless elegance is apparent, which tempts us to look upon the faces of those who climbed the steps to Lee Brothers Studio as though we might almost know them today.
+
+<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> 
+<img src="/images/Vol-14-issue-1/portraits-from-lee-bros-studio/Portraits6.JPG">
+<br><br>
+<img src="/images/Vol-14-issue-1/portraits-from-lee-bros-studio/Portraits7.JPG">
+	<br><br>
+<img src="/images/Vol-14-issue-1/portraits-from-lee-bros-studio/Portraits8.JPG">
+	<br><br>
+<img src="/images/Vol-14-issue-1/portraits-from-lee-bros-studio/Portraits9.JPG">
+</div>
+
+*All photos are from the Lee Brothers Studio Collection. Identities of the subjects are unknown as these photos are unrecorded excess or uncollected prints kept by the Lee Brothers Studio.*
+
+
+<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> 
+This is an abridged version of the introductory chapter by Gretchen Liu from the book, <i>From the Family Album: Portraits from the Lee Brothers Studio, Singapore 1910–1925</i>, published by Landmark Books in collaboration with National Archives in 1995. The book is available for reference and loan at the Lee Kong Chian Reference Library and selected public libraries. (Call nos.: SING 779.26095957 FRO and RSING 779.26095957 FRO)
+</div>
+
+<br>
+<div style="background-color: white;">
+<img src="/images/Vol-14-issue-1/portraits-from-lee-bros-studio/Portraits10.JPG" style="width: 100px; height: 100px;">
+<b>Gretchen Liu</b> is a former journalist and book editor as well as the author of several illustrated books, including 'Pastel Portraits: Singapore’s Architectural Heritage', 'Singapore: A Pictorial History 1819–2000' and the official book on the Raffles Hotel. Liu first knew of the Lee Brothers Collection in 1987 through her friendship with one of Lee Poh Yan’s granddaughters.
+</div>
+
+<a href="https://biblioasia.nlb.gov.sg/vol-14/issue-1/apr-jun-2018/"><center>Back to Issue</center></a>
+
