@@ -133,7 +133,7 @@ A bookmark promoting the 1966 MFP film, <i>Jefri Zain - Gerak Kilat (Operation L
 <div style="background-color: white;">
 <br/>
 <img style="width:70%" src="/images/vol-11-issue-1/moviememorabilia/School_Days.jpg">
-A leaflet advertising the screening of Warner Bros' film, <i>School Days</i>, screening at Alhambra cinema in 1924. <i>All images courtesy of Wong Han Min.</i>
+A leaflet advertising the screening of Warner Bros' film, <i>School Days</i>, screening at Alhambra cinema in 1924. <i>Courtesy of Wong Han Min.</i>
 </div>
 
 <p style="font-size:15px;"><b>Wong Han Min</b> is a philatelist and collector of ephemera relating to Singapore's social history. His collection of film-related memorabilia is particularly outstanding, and has been featured in various publications. Wong has given talks and held exhibitions of his collections both locally and overseas, and recently collaborated with the Hong Kong Film Archive on the exhibition “The Foundation of Run Run Shaw’s Cinema Empire”.</p>
