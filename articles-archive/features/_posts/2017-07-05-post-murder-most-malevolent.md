@@ -327,17 +327,17 @@ Yeo, S. F. (2013). Murder most foul: Strangled, poisoned and dismembered in Sing
 
 **John Martin Scripps**
 
-Body in bag picked up from sea off Clifford Pier. (1995, April 2). The Straits Times, p. 3. Retrieved from NewspaperSG.
+[Body in bag picked up from sea off Clifford Pier](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19950402-1.2.8.6). (1995, April 2). *The Straits Times*, p. 3. Retrieved from NewspaperSG.
 
-Body parts: Anatomy of a killing. (1995, November 12). The Straits Times, p. 12. Retrieved from NewspaperSG.
+[Body parts: Anatomy of a killing](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19951112-1.2.67.16.1). (1995, November 12). *The Straits Times*, p. 12. Retrieved from NewspaperSG.
 
-Grisly finds near the pier. (1995, April 5). The New Paper, p. 6. Retrieved from NewspaperSG.
+[Grisly finds near the pier](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper19950405-1.2.10.2). (1995, April 5). *The New Paper*, p. 6. Retrieved from NewspaperSG.
 
-Guilty as charged: John Martin Scripps befriended tourists, then butchered them. (2016, May 16). The Straits Times. Retrieved from Factiva via NLB’s eResources website.
+Guilty as charged: John Martin Scripps befriended tourists, then butchered them. (2016, May 16). *The Straits Times*. Retrieved from Factiva via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
 
-Lim, Y. (1995, March 30). Second time on the run. The New Paper, p. 2. Retrieved from NewspaperSG.
+Lim, Y. (1995, March 30). [Second time on the run](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper19950330-1.2.3.2.aspx). *The New Paper*, p. 2. Retrieved from NewspaperSG.
 
-Martin files appeal against conviction. (1995, November 17). The Straits Times, p. 41. Retrieved from NewspaperSG.
+[Martin files appeal against conviction](/http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19951117-1.2.50.10). (1995, November 17). *The Straits Times*, p. 41. Retrieved from NewspaperSG.
 
 Miller, B. (1995, November 11). [Martin’s last ‘Hello’ then off to date with death](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper19951111-1.2.18.1). *The New Paper*, p. 12. Retrieved from NewspaperSG.
 
