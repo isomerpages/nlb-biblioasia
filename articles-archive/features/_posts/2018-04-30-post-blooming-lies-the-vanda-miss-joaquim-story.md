@@ -175,7 +175,7 @@ Her parents were Parsick Joaquim, an Armenian from Madras, and Urelia Zechariah,
 <br><br>
 In 1852, Parsick Joaquim married Urelia Zechariah and lived on Hill Street near other Armenian families and the church. His business thrived, and in 1861, the family moved to a mansion overlooking Tanjong Pagar, which he named Mt Narcis, after his eldest son. When the mansion was demolished in 1901, the carriageway leading to the house was named Narcis Road.
 	<br><br>
-<img src="/images/Vol-14-issue-1/blooming-lies/Blooming10.JPG">(Left) Photo of Agnes Joaquim on a locket that once belonged to her, with an inscription of her name on the reverse side. The locket is now in the possession of Linda Locke, her great grand-niece. <i>Courtesy of Linda Locke.</i><br>
+<img style="width: 420px; height: 380px;" src="/images/Vol-14-issue-1/blooming-lies/Blooming10.JPG">(Left) Photo of Agnes Joaquim on a locket that once belonged to her, with an inscription of her name on the reverse side. The locket is now in the possession of Linda Locke, her great grand-niece. <i>Courtesy of Linda Locke.</i><br>
 (Right) Agnes Joaquim died of cancer on 2 July 1899 at the age of 45. Her tombstone is found within the grounds of the Armenian Church in Singapore. It was originally located at Bukit Timah Cemetery. Her tombstone bears the inscription “Let her own works praise her”. <i>Courtesy of Prem Singh.</i>
 <br><br>
 Parsick Joaquim died unexpectedly in 1872, leaving his wife to raise 11 children, the youngest of whom was three years old. Fortunately, he left the family well provided for.
