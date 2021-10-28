@@ -264,23 +264,23 @@ Davidson, B. (1973, July 24). [Sheares rejects Mimi’s plea for mercy](http://e
 
 Hwang, T. F. (1970, November 4). [Nightclub waitress on murder trial collapses](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19701104-1.2.97). *The Straits Times*, p. 15. Retrieved from NewspaperSG.
 
-Hwang, T. F. (1970, December 8). Death for Mimi and her husband. *The Straits Times*, p. 1. Retrieved from NewspaperSG.
+Hwang, T. F. (1970, December 8). [Death for Mimi and her husband](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19701208-1.2.2). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
 
-Hwang, T. F. (1972, July 23). Appeal of Mimi Wong and her husband (both under death sentence) is dismissed. The Straits Times, p. 4. Retrieved from NewspaperSG.
+Hwang, T. F. (1972, July 23). [Appeal of Mimi Wong and her husband (both under death sentence) is dismissed](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720723-1.2.23). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
 
-Elengovan. (1970, November 7). ‘She cried out to me she wanted to die’. The Singapore Herald, p. 13. Retrieved from NewspaperSG.
+Elengovan. (1970, November 7).[ ‘She cried out to me she wanted to die’.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singherald19701107-1.2.29.39.1) *The Singapore Herald*, p. 13. Retrieved from NewspaperSG.
 
-‘I heard Mother screaming in pain’. (1970, November 6). The Singapore Herald, p. 13. Retrieved from NewspaperSG.
+[‘I heard Mother screaming in pain’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singherald19701106-1.2.88.5). (1970, November 6). *The Singapore Herald*, p. 13. Retrieved from NewspaperSG.
 
-Latest. (1973, March 16). The Straits Times, p. 1. Retrieved from NewspaperSG.
+[Latest](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19730316-1.2.11). (1973, March 16). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
 
-Mimi and husband go to the gallows. (1973, July 28). The Straits Times, p. 7. Retrieved from NewspaperSG.
+[Mimi and husband go to the gallows](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19730728-1.2.35). (1973, July 28). *The Straits Times*, p. 7. Retrieved from NewspaperSG.
 
-Mimi struck Mrs. W with ‘glimmering object’ says husband. (1970, November 27). The Straits Times, p. 19. Retrieved from NewspaperSG.
+[Mimi struck Mrs. W with ‘glimmering object’ says husband](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19701127-1.2.101). (1970, November 27). *The Straits Times*, p. 19. Retrieved from NewspaperSG.
 
-‘Mimi was of sound mind on day of killing’. (1970, December 3). The Straits Times, p. 11. Retrieved from NewspaperSG.
+[‘Mimi was of sound mind on day of killing’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19701203-1.2.84). (1970, December 3). *The Straits Times*, p. 11. Retrieved from NewspaperSG.
 
-Mimi Wong’s execution was a grim ‘first’. (1979, December 23). The Straits Times, p. 7. Retrieved from NewspaperSG.
+[Mimi Wong’s execution was a grim ‘first’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19791223-1.2.35). (1979, December 23). The Straits Times, p. 7. Retrieved from NewspaperSG.
 
 Mimi’s hubby refused leave to appeal. (1973, February 2). New Nation, p. 3. Retrieved from NewspaperSG.
 
