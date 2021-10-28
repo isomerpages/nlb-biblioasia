@@ -216,11 +216,11 @@ The hybridisation of a plant involves two steps. First, pollination takes place 
 [^4]:Ridley, H. N. (1896). Mr. Ridley on the Orchideae and Apostasiaceae of the Malay Peninsula. J*ournal of the Linnean Society, Botany*, p. 356.
 [^5]:Orchid Committee. (1897, June 19). *The Gardeners’ Chronicle, 21*, p. 410. Retrieved from Biodiversity Library website.
 [^6]:[The flower show](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18990412-1.2.33). (1899, April 12). *The Straits Times*, p. 3. Retrieved from NewspaperSG.
-[^7]:The flower show. (1899, April 12). The Singapore Free Press and Mercantile Advertiser, p. 2. Retrieved from NewspaperSG.
-[^8]:
-[^9]:
-[^10]:
-[^11]:
+[^7]:[The flower show](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb18990412-1.2.6). (1899, April 12). *The Singapore Free Press and Mercantile Advertiser*, p. 2. Retrieved from NewspaperSG.
+[^8]:The article later described *Vanda* Miss Joaquim as an artificial hybrid. [New orchids for Malaya](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19310804-1.2.59) (1931, August 4). *The Straits Times*, p. 12. Retrieved from NewspaperSG.
+[^9]:[On the margin](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19510405-1.2.112). (1951, April 5). *The Straits Times*, 6. Retrieved from NewspaperSG. 
+[^10]:Burkill, H. M. (1963). [*The role of the Singapore Botanic Gardens in the development of Orchid Hybrids*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4979967) (p. 14). Singapore: Straits Times Press. (Call no.: RCLOS 584.15 BUR-[RFL])
+[^11]:Lim, H. K. (1981, July 23). “Miss Joaquim fails to greet nephew at gates”. The Straits Times, p. 8. Retrieved from NewspaperSG.
 [^12]:
 
 
@@ -229,8 +229,8 @@ The hybridisation of a plant involves two steps. First, pollination takes place 
 
 
 
-The article later described Vanda Miss Joaquim as an artificial hybrid. New orchids for Malaya (1931, August 4). The Straits Times, p. 12. Retrieved from NewspaperSG.
-On the margin. (1951, April 5). The Straits Times, 6. Retrieved from NewspaperSG. 
-Burkill, H. M. (1963). The role of the Singapore Botanic Gardens in the development of Orchid Hybrids (p. 14). Singapore: Straits Times Press. (Call no.: RCLOS 584.15 BUR-[RFL])
-Lim, H. K. (1981, July 23). “Miss Joaquim fails to greet nephew at gates”. The Straits Times, p. 8. Retrieved from NewspaperSG.
+
+
+
+
 Teoh, E. S. (1982). A joy forever: Vanda Miss Joaquim Singapore’s national flower (p. 31) Singapore: Times Books International. (Call no.: RSING 584.15095957 TEO)
