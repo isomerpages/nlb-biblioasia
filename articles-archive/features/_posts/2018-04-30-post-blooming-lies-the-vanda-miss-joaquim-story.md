@@ -210,25 +210,25 @@ The hybridisation of a plant involves two steps. First, pollination takes place 
 <a href="https://biblioasia.nlb.gov.sg/vol-14/issue-1/apr-jun-2018/"><center>Back to Issue</center></a>
 	
 #### **NOTES**
-[^1]:
-[^2]:
-[^3]:
-[^4]:
-[^5]:
-[^6]:
-[^7]:
+[^1]:Joaquim is pronounced joe/ah/kim/ with the accent on joe. 
+[^2]:Today, the orchid’s botanic name has been changed to *Papilionanthe* Miss Joaquim although it is still commonly called *Vanda* Miss Joaquim.
+[^3]:Ridley, H. N. (1893, June 24). Vanda Miss Joaquim. *The Gardeners’ Chronicle*, 13, p. 740. Retrieved from Biodiversity Library website.
+[^4]:Ridley, H. N. (1896). Mr. Ridley on the Orchideae and Apostasiaceae of the Malay Peninsula. J*ournal of the Linnean Society, Botany*, p. 356.
+[^5]:Orchid Committee. (1897, June 19). *The Gardeners’ Chronicle, 21*, p. 410. Retrieved from Biodiversity Library website.
+[^6]:[The flower show](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18990412-1.2.33). (1899, April 12). *The Straits Times*, p. 3. Retrieved from NewspaperSG.
+[^7]:The flower show. (1899, April 12). The Singapore Free Press and Mercantile Advertiser, p. 2. Retrieved from NewspaperSG.
 [^8]:
 [^9]:
 [^10]:
 [^11]:
 [^12]:
-Joaquim is pronounced joe/ah/kim/ with the accent on joe. 
-Today, the orchid’s botanic name has been changed to Papilionanthe Miss Joaquim although it is still commonly called Vanda Miss Joaquim.
-Ridley, H. N. (1893, June 24). Vanda Miss Joaquim. The Gardeners’ Chronicle, 13, p. 740. Retrieved from Biodiversity Library website.
-Ridley, H. N. (1896). Mr. Ridley on the Orchideae and Apostasiaceae of the Malay Peninsula. Journal of the Linnean Society, Botany, p. 356.
-Orchid Committee. (1897, June 19). The Gardeners’ Chronicle, 21, p. 410. Retrieved from Biodiversity Library website.
-The flower show. (1899, April 12). The Straits Times, p. 3. Retrieved from NewspaperSG.
-The flower show. (1899, April 12). The Singapore Free Press and Mercantile Advertiser, p. 2. Retrieved from NewspaperSG.
+
+
+
+
+
+
+
 The article later described Vanda Miss Joaquim as an artificial hybrid. New orchids for Malaya (1931, August 4). The Straits Times, p. 12. Retrieved from NewspaperSG.
 On the margin. (1951, April 5). The Straits Times, 6. Retrieved from NewspaperSG. 
 Burkill, H. M. (1963). The role of the Singapore Botanic Gardens in the development of Orchid Hybrids (p. 14). Singapore: Straits Times Press. (Call no.: RCLOS 584.15 BUR-[RFL])
