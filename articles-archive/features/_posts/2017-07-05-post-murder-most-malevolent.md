@@ -304,26 +304,27 @@ Davidson, B. & Chua, M. (1983, April 5). [I killed to get even with the world](h
 
 [But it’s one small step forward](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19911130-1.2.72.3.4.3). (1991, November 30). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
 
-Chia, H. (1989, March 15). Murder. They wrote. The Straits Times, p. 1. Retrieved from NewspaperSG.
+Chia, H. (1989, March 15). [Murder. They wrote](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19890315-1.2.69.2). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
 
-Goh, J. (1991, April 13). Singapore’s first English feature film hits snags. The Straits Times, p. 22. Retrieved from NewspaperSG.
+Goh, J. (1991, April 13). [Singapore’s first English feature film hits snags.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19910413.2.34) *The Straits Times*, p. 22. Retrieved from NewspaperSG.
 
-Goh, J. (1991, November 25). Medium Rare – high on local colour, low on suspense. The Straits Times, p. 24. Retrieved from NewspaperSG.
+Goh, J. (1991, November 25). [Medium Rare – high on local colour, low on suspense](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19911125.2.30.18). *The Straits Times*, p. 24. Retrieved from NewspaperSG.
 
-Infocomm Media Development Authority. (2015, March). List of Singapore movies (1991–2016). Retrieved April 1, 2017 from Info-communications Media Development Authority website.
+Infocomm Media Development Authority. (2015, March). *List of Singapore movies (1991–2016)*. Retrieved April 1, 2017 from Info-communications Media Development Authority website.
 
-John, A. (2016). Unholy trinity: The Adrian Lim ‘ritual’ child killings. Singapore: Marshall Cavendish Editions. (Call no.: RSING 364.1523095957 JOH)
+John, A. (2016). *[Unholy trinity: The Adrian Lim ‘ritual’ child killings](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200123867)*. Singapore: Marshall Cavendish Editions. (Call no.: RSING 364.1523095957 JOH)
 
-Kerk, C. (1997, April 26). Adrian Lim revisited. The Business Times, p. 20. Retrieved from NewspaperSG.
+Kerk, C. (1997, April 26). [Adrian Lim revisited](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19970426-1.2.27.5). *The Business Times*, p. 20. Retrieved from NewspaperSG.
 
-Kutty, N. G. (1989). Adrian Lim’s beastly killings. Singapore: Aequitas Management Consultants. (Call no.: RCLOS 364.1523095957 KUT)
+Kutty, N. G. (1989). *[Adrian Lim’s beastly killings](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5164631)*. Singapore: Aequitas Management Consultants. (Call no.: RCLOS 364.1523095957 KUT)
 
-Sit, Y. F. (1989). I confess. Singapore: Heinemann Asia. (Call no.: RSING 364.1523095957 SIT)
+Sit, Y. F. (1989). *[I confess](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5329540)*. Singapore: Heinemann Asia. (Call no.: RSING 364.1523095957 SIT)
 
-Sit, Y. F. (1989). Was Adrian Lim mad? Singapore: Heinemann Asia. (Call no.: RSING 345.5957067 SIT)
-Tan, S. (1997, March 21). 3 homegrown films to be screened commercially. The Straits Times, p. 7. Retrieved from NewspaperSG.
+Sit, Y. F. (1989). *[Was Adrian Lim mad?](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5415689)* Singapore: Heinemann Asia. (Call no.: RSING 345.5957067 SIT)
 
-Yeo, S. F. (2013). Murder most foul: Strangled, poisoned and dismembered in Singapore (pp. 115–126). Singapore: Marshall Cavendish Editions. (Call no.: RSING 364.1523095957 YEO)
+Tan, S. (1997, March 21). [3 homegrown films to be screened commercially](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19970321-1.2.103.6.3). *The Straits Times*, p. 7. Retrieved from NewspaperSG.
+
+Yeo, S. F. (2013). *[Murder most foul: Strangled, poisoned and dismembered in Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200123867)* (pp. 115–126). Singapore: Marshall Cavendish Editions. (Call no.: RSING 364.1523095957 YEO)
 
 **John Martin Scripps**
 
