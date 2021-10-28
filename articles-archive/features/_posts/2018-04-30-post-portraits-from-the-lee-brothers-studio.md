@@ -89,7 +89,7 @@ In many of the portraits found in the collection – all of which were taken cir
 	<br><br>
 <img src="/images/Vol-14-issue-1/portraits-from-lee-bros-studio/Portraits8.JPG">
 	<br><br>
-<img style="width: 400px; height: 250px;" src="/images/Vol-14-issue-1/portraits-from-lee-bros-studio/Portraits9.JPG">
+<img style="width: 480px; height: 300px;" src="/images/Vol-14-issue-1/portraits-from-lee-bros-studio/Portraits9.JPG">
 </div>
 
 *All photos are from the Lee Brothers Studio Collection. Identities of the subjects are unknown as these photos are unrecorded excess or uncollected prints kept by the Lee Brothers Studio.*
