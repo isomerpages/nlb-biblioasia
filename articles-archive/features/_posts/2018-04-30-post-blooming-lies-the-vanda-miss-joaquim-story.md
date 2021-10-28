@@ -79,29 +79,69 @@ A diorama at the Singapore History Museum and a brochure on the National Orchid 
 
 #### **Debunking the Myth**
 
-In 2000, Nadia Wright wrote an article in the Malayan Orchid Review, maintaining that Agnes Joaquim had crossed the orchid as Ridley had recorded. Explaining why the discovery story was false, she declared it was time to set the record straight.16  Although Wright based her reassessment on publicly available historical evidence, her article was criticised by those who believed that the orchid was a natural hybrid discovered by chance.
+In 2000, Nadia Wright wrote an article in the *Malayan Orchid Review*, maintaining that Agnes Joaquim had crossed the orchid as Ridley had recorded. Explaining why the discovery story was false, she declared it was time to set the record straight.16  Although Wright based her reassessment on publicly available historical evidence, her article was criticised by those who believed that the orchid was a natural hybrid discovered by chance.
 
 Aiming to discredit Wright’s research, the detractors echoed Teoh Eng Soon’s spurious claim that “nearly every orchidist since [1893] believed that [Joaquim] had discovered a natural hybrid”.17
 
 The debate continued until 2007. In her book on Singapore’s Armenians published in 2003, Wright reiterated her stand, adding that Joaquim was the first woman in the world to breed an orchid.18 That book and Wright’s subsequent article in 2004 came under fire, but no credible evidence to refute Ridley’s findings was offered in return.19
 
-Although Wright explained why the account of the orchid’s origin written by a respected botanist and orchid expert, and accepted by other experts should be believed over confused and unsubstantiated speculations, her views were summarily dismissed by the authors of a book on Vanda Miss Joaquim.20
+Although Wright explained why the account of the orchid’s origin written by a respected botanist and orchid expert, and accepted by other experts should be believed over confused and unsubstantiated speculations, her views were summarily dismissed by the authors of a book on *Vanda* Miss Joaquim.20
 
-The authors accepted Teoh’s reconstructed account as factual, declaring that Teoh was right simply because he “described the event” in detail.21 Yet Teoh could not provide concrete proof of how he became privy to his information, including details such as Joaquim was “alone” when she found the orchid “nestled in a clump of bamboo”. The Vanda Miss Joaquim needs “full sunlight and plenty of air movement” in order to thrive, and thus it was most unlikely to have grown in the  shade of a  bamboo clump as alleged.22
+The authors accepted Teoh’s reconstructed account as factual, declaring that Teoh was right simply because he “described the event” in detail.21 Yet Teoh could not provide concrete proof of how he became privy to his information, including details such as Joaquim was “alone” when she found the orchid “nestled in a clump of bamboo”. The *Vanda* Miss Joaquim needs “full sunlight and plenty of air movement” in order to thrive, and thus it was most unlikely to have grown in the  shade of a  bamboo clump as alleged.22
 
-The book repeated Teoh’s claim that Johannes was right, declaring that he was “the only living person to have met her [Agnes Joaquim]”.23 The authors, however, failed to mention that the 88-year-old Johannes was born in 1893, the year Vanda Miss Joaquim originated, or that Johannes had spent his infancy in Java, only coming to Singapore to live in 1901 when he was eight years old: two years after Joaquim’s death. Johannes would have met Joaquim only when the family was visiting Singapore and when he was very young (he was only six years old when she died). Members of the extended Joaquim family were stunned by Johannes’s remarks to the press.
+The book repeated Teoh’s claim that Johannes was right, declaring that he was “the only living person to have met her [Agnes Joaquim]”.23 The authors, however, failed to mention that the 88-year-old Johannes was born in 1893, the year *Vanda* Miss Joaquim originated, or that Johannes had spent his infancy in Java, only coming to Singapore to live in 1901 when he was eight years old: two years after Joaquim’s death. Johannes would have met Joaquim only when the family was visiting Singapore and when he was very young (he was only six years old when she died). Members of the extended Joaquim family were stunned by Johannes’s remarks to the press.
 
 Whatever the case, these facts cast serious doubt on the credibility of Johannes’s testimony, as does an oral history interview he gave to the National Archives in July 1981 which showed that his recollections were neither consistent nor accurate.
 
-Basil Johannes’s older brother John, who was born 10 years earlier in 1883, told a very different story. In the 1890s, John Johannes attended Raffles Institution and no doubt lived with his grandmother and Joaquim at the family home. He was 16 years old in 1899 and more likely than his younger brother to have had first-hand knowledge of the orchid. In later years when John Johannes walked past a flower shop displaying Vanda Miss Joaquim orchids, he would cross his two forefingers and proudly tell his daughter Hazel that her grand-aunt had bred the orchid.
+Basil Johannes’s older brother John, who was born 10 years earlier in 1883, told a very different story. In the 1890s, John Johannes attended Raffles Institution and no doubt lived with his grandmother and Joaquim at the family home. He was 16 years old in 1899 and more likely than his younger brother to have had first-hand knowledge of the orchid. In later years when John Johannes walked past a flower shop displaying *Vanda* Miss Joaquim orchids, he would cross his two forefingers and proudly tell his daughter Hazel that her grand-aunt had bred the orchid.
 
 Hazel Locke’s (nee Johannes) account of her father’s actions was scathingly dismissed by various people who insisted that Johannes’s claim that the orchid grew in a clump of bamboo was “a report of an observation”.24 How the proponents of the discovery theory reached these conclusions is unknown.
 
 It is likely that Basil Johannes was confusing Agnes Joaquim’s “discovery” with a much later event. One day in the 1930s while walking in Malaya, his cousin Basil Joaquim came across an unusual orchid, which he sent to the Director of the Botanic Gardens to see if it were a new orchid.
 
-Discrediting Ridley
+#### **Discrediting Ridley**
+
 To push for acceptance of Basil Johannes’s account, its supporters turned on Ridley. They suggested that Ridley’s statement about Agnes Joaquim crossing the orchid was “allegorical rather than factual”, or that it was based on an “assumption”.25
 
 But Ridley was known to be a careful observer and recorder. Had Joaquim found the orchid, Ridley would have written it up accordingly as he had done with other natural hybrids. Besides, the wording of Ridley’s article reinforces the fact that Joaquim had produced the orchid. Had she just stumbled upon it by chance, there would be no need for Ridley to mention the fact that she had failed to record the pollen parent. Ridley would gain nothing by concocting a false claim; indeed, his reputation as an orchid expert would have been at stake, not to mention his position as the first Director of the Botanic Gardens.
 
-Critics tried to discredit Ridley by claiming that he did not know how to hybridise orchids. They questioned his specific expertise as his interests ranged “from agriculture to ghosts”, implying that he had only a superficial knowledge about many subjects. They dismissed Ridley’s expert account in The Gardeners’ Chronicle because it was written after he had lived “in Singapore only 4–5 years and before acquiring the expertise he had in later years”.26
+Critics tried to discredit Ridley by claiming that he did not know how to hybridise orchids. They questioned his specific expertise as his interests ranged “from agriculture to ghosts”, implying that he had only a superficial knowledge about many subjects. They dismissed Ridley’s expert account in *The Gardeners’ Chronicle* because it was written after he had lived “in Singapore only 4–5 years and before acquiring the expertise he had in later years”.26
+
+<img src="/images/Vol-14-issue-1/blooming-lies/Blooming7.JPG">
+<div style="background-color: white;">Agnes Joaquim succeeded in crossing Vanda Hookeriana (left)  with Vanda teres (right) to create the hybrid Vanda Miss Joaquim. <i>Photos by David Lim. Courtesy of the National Parks Board.</i></div>
+
+In truth, Ridley was an orchid expert when he arrived in Singapore in 1888. As a Fellow of the Linnean Society, his prolific output covered 10 papers on orchids. These included his detailed observations of orchid self-pollination and an influential paper on “The Nomenclature of Orchids” presented at the 1886 British orchid conference. Indeed, England’s leading orchidists of the time, such as Frederick Burbidge and James Veitch, turned to Ridley with queries on orchid fertilisation. Yet his account was rejected in favour of that of Basil Johannes who admitted that he knew nothing about growing plants.
+
+Ridley’s account was further dismissed because Joaquim had not kept close records of her work. The aforementioned Robert Rolfe lamented that earlier hybridists too had not kept records as to which was the seed parent. However, their work has not been dismissed because of this supposed failing.
+
+It has been claimed that because Ridley did not describe how the seeds were germinated in his report, Joaquim could not have made the cross. But then, such information was not included in other articles on hybrids in *The Gardeners’ Chronicle*; they simply gave the names of the hybridiser, the parent orchids, and a detailed botanical description of the new flower. This was exactly what Ridley’s article did.
+
+Indeed, biologist Joseph Arditti, a strong supporter of the discovery myth, noted that William Herbert, a pioneer in hybridisation, had given “no details regarding his germination method”.27 Yet, inexplicably, Arditti accepted Herbert’s hybrid as genuine, but not Joaquim’s.
+
+#### **The Plot Thickens**
+
+It has been suggested that Agnes Joaquim would not have known how to germinate seeds and that successful methods of germination had been developed only after her death. This is far from true. In fact, *Vanda* Miss Joaquim was one of 106 artificial hybrids created in Britain in 1893. Joaquim’s achievement was not an anomaly – she was doing in Singapore what others were already doing in Britain and elsewhere.
+
+Information on germination was readily available in books as well as in horticultural journals. Besides, it has been suggested that Joaquim had sown the seeds onto a base of coconut dust, from where they germinated.28  Curiously, it was inferred that if the pollination was done by a bee, then the seeds could germinate, but if the pollination was done by Joaquim, the seeds could not have done so.
+
+There was no end to the efforts to disparage Joaquim. Her critics pointed out that Joaquim did not breed any other orchids, apart from the one she had been falsely credited with. Claiming that hybridisers tended to make several crosses in their lifetimes, they concluded that she could not possibly have created the *Vanda* Miss Joaquim. But the fact is all hybridisers start with one cross. What further weakened the critics’ spurious claims is that the very source they cited reported that half of all breeders in that study produced only one hybrid.29
+
+As they did with Ridley, Joaquim’s detractors doctored quotations to belittle her role. For example, they quoted *The Straits Times* of 12 April 1899 as reporting that Joaquim “succeed [sic] in cultivating” the *Vanda* Miss Joaquim, but downplayed the word “cultivating” in this context to mean merely “growing”.30
+
+Elsewhere, they omitted Ridley’s reference to Joaquim by claiming that he “only wrote that the cross was between *Vanda Hookeriana Rchb.f. and V. teres*” when in fact he had specifically reported that Joaquim had “succeeded in crossing” these two orchid species.31
+
+They also misquoted Singaporean pioneer breeder John Laycock, who said the question as to how Agnes had succeeded in germinating the seed into a flowering plant “must now forever remain unanswered”.32 Laycock’s words were rewritten into something quite different from what he had intended – that the question of whether or not Joaquim bred the orchid “must now forever remain unanswered”.33
+
+If the *Vanda* Miss Joaquim is a natural hybrid as alleged, then what was the agent of the pollination? Could it be carpenter bees, as it has been claimed before? But there is no evidence in history of these bees ever creating another *Vanda* Miss Joaquim. And there never have been any reports of naturally occurring *Vanda* Miss Joaquim orchids being found anywhere.34
+
+Besides, if bees had done the pollinating, Ridley would have said so. In his observations, Ridley carefully distinguished between an insect visiting a flower and pollination by a human. Noting that carpenter bees did the “greatest amount of pollination in Singapore”, he compiled a list of plants they pollinated.35 He did not record carpenter bees as visiting or pollinating either *Vanda Hookeriana or Vanda teres*, although he noted that such bees did assist in the fertilisation of other orchids.36
+
+Arditti insisted that “all orchid scientists and knowledgeable orchid growers believe that *Vanda* Miss Joaquim is a natural hybrid”.37 But he did not substantiate this sweeping statement. Indeed, to the contrary, Harold Johnson’s review of literature shows that until 1981, almost all publications accepted *Vanda* Miss Joaquim as an artificial hybrid and only a few after 1963 suggested differently.38
+
+It is worth remembering that Botanic Gardens director Richard Holttum, who closely reviewed his predecessor Isaac Burkill’s work, regarded *Vanda* Miss Joaquim as an artificial hybrid. In 1928, Holttum quoted Ridley’s original report, commenting on the skill and care with which Agnes Joaquim had raised the plant and describing it as “her orchid”.39 Again in 1972, he quoted Ridley’s report as evidence of the orchid’s origins.40
+
+<img src="/images/Vol-14-issue-1/blooming-lies/Blooming8.JPG">
+<div style="background-color: white;">Vanda x Miss Joaquim. <i>Image source: Linden, J., & Linden, L. (1897). Lindenia Iconographie des Orchidées (Series 2, vol. 13).</i></div>
+
+#### **Getting it Right – Finally**
+
