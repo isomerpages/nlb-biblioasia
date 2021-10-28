@@ -19,7 +19,7 @@ Imagine, if you can, standing at the edge of the passenger platform, on the bank
 
 Your bags are packed. They sit innocuously at the rear. Your manservant is counting the pieces, to make sure everything arrived safe and sound from the Hotel de l’Europe in Port Said. He has been at your side for the entire journey, making sure you feel at home away from home, everywhere you go. You glance to your right, at the well-dressed lady who is similarly waiting to board the ship. She appears to be travelling alone too, and her maidservant stands by her, sheltering her from the heat of the tropical sun with a sturdy parasol. Your eyes meet. You lift your hat slightly and nod. She acknowledges it with a slightly hesitant smile. Will you see her again on board the ship, you wonder…
 
-<div style="background-color: white;"><img src="/images/Vol-13-issue-2/east-of-suez/02_suez.jpg">A painting by the French shipping company, <i>Compagnie des Méssageries Maritimes</i>, depicting life on board one of its cruise liners. If one travelled first class, travel by ship was as opulent and luxurious as any hotel establishment could offer. <i>Kennie Ting Collection.</i></div>
+<div style="background-color: white;"><img style="width:700px" src="/images/Vol-13-issue-2/east-of-suez/02_suez.jpg">A painting by the French shipping company, <i>Compagnie des Méssageries Maritimes</i>, depicting life on board one of its cruise liners. If one travelled first class, travel by ship was as opulent and luxurious as any hotel establishment could offer. <i>Kennie Ting Collection.</i></div>
 
 The year is 1928. Our gentleman tourist has just embarked on his cruise to the Far East and is at present about to head “East of Suez” – what the European powers called their colonial dominions lying to the east of the Suez Canal. The phrase itself had been made popular by the poem *Mandalay*, published in 1890 by Rudyard Kipling, the celebrated chronicler of the British Empire and doyen of all things Far Eastern.
 
@@ -53,7 +53,7 @@ Unlike the historic Grand Tours of continental Europe, which began in the late 1
 
 The customary stops on Grand Tours of the East depended in large part on the Colonial Empire from which the traveller hailed. Generally, the tour took in a handful of major port cities – Bombay, Colombo, Calcutta, Rangoon, Singapore, Batavia, Saigon, Hanoi, Manila, Hong Kong, Macao, Tientsin, Shanghai and others, before terminating in the treaty port cities of Kobe or Yokohama in Japan. Those with time and money to spare would use these port cities as a base, from which to take excursions to major historic sites and centres of culture – the palaces of Rajasthan, the ruins of Bagan, Angkor, Borobudur and Ayutthaya, and the imperial cities of Peking and Tokyo.
 
-<div style="background-color: white;"><img style="width:700px" src="/images/Vol-13-issue-2/east-of-suez/04_suez.jpg">Batavia and Shanghai were popular ports of call for tourists on the Grand Tour of the East. [Left] The Amsterdam Gate in Batavia, which existed from 1744 to the 1950s, formed the entrance to the Castle Square south of Batavia Castle. [Right] This is a view of the historic Bund, the waterfront area in Shanghai that runs alongside the Huangpu River. <i>Both photos are from the Kennie Ting Collection.</i></div>
+<div style="background-color: white;"><img style="width:800px" src="/images/Vol-13-issue-2/east-of-suez/04_suez.jpg">Batavia and Shanghai were popular ports of call for tourists on the Grand Tour of the East. [Left] The Amsterdam Gate in Batavia, which existed from 1744 to the 1950s, formed the entrance to the Castle Square south of Batavia Castle. [Right] This is a view of the historic Bund, the waterfront area in Shanghai that runs alongside the Huangpu River. <i>Both photos are from the Kennie Ting Collection.</i></div>
 
 Southeast Asia – or the East Indies, as this part of the world was known then – was an important stopover between India and the Far East, not least because of its geographical location between the two areas. Rather, the East Indies was important because it was here, in this far-flung landscape of peninsulas and archipelagos, that major colonial European powers had carved out significant territories to leave their imprint. Southeast Asia, in other words, was an extension of Europe (and America) itself, and its cities familiar re-creations of the imperial cities back home – London, Paris, Amsterdam – offering respite to the Grand Tourist in between the vast, alien expanses of India and China.
 
@@ -73,7 +73,7 @@ Everyday life on board the ship typically revolved around food and entertainment
 
 In between meals, social activity centred on the common spaces: open-air promenade decks, the lounge halls and the smoking rooms, the latter restricted only to first-class male passengers, who would idle their time away on card games, drinks and conversation, all the while puffing away on a cigar or cigarette.
 
-<div style="background-color: white;"><img style="width:700px" src="/images/Vol-13-issue-2/east-of-suez/05a_suez.jpg">[Left] Passengers dressed in their best on a cruise liner belonging to the German-owned Norddeutscher Lloyd company in 1912. Cruising was very much a formal affair then, with male passengers dressed in suits, and ladies in neck-to-ankle blouse and skirt ensembles and extravagant large hats. <i>John Koh Collection.</i><br>
+<div style="background-color: white;"><img style="width:800px" src="/images/Vol-13-issue-2/east-of-suez/05a_suez.jpg">[Left] Passengers dressed in their best on a cruise liner belonging to the German-owned Norddeutscher Lloyd company in 1912. Cruising was very much a formal affair then, with male passengers dressed in suits, and ladies in neck-to-ankle blouse and skirt ensembles and extravagant large hats. <i>John Koh Collection.</i><br>
 [Right] Dining Hall of a cruise ship belonging to the American President Lines c.1920s. Life on board the ship typically revolved around food and entertainment. Guests in the grand dining rooms would be treated to multi-course meals to the accompaniment of resident musical ensembles. <i>John Koh Collection.</i></div>
 
 Between the 1900s and 1920s, social life on board ships became more varied as the ships became larger and social mores grew more relaxed. In the 1910s, male passengers would have been uncomfortably garbed in stiff suits, while ladies would be dressed in stifling corsets, and neck-to-ankle blouse and skirt ensembles with high boots and extravagant large hats. Interaction between the sexes would have been polite, guarded by modesty.
@@ -86,7 +86,7 @@ While social convention still held sway on land, once aboard these ships, no hol
 
 When the ships docked, Grand Hotels would take centrestage, and each city on the Grand Tour of the East boasted its own *grande* dame of the hospitality scene. The hotels were glorious, opulent establishments that catered to the fastidious needs of the Grand Tourists, who, having to travel for weeks or months at a time, often recreated their pampered lifestyles on board, complete with dozens of trunks of luggage and their favourite maids or man servants.
 
-<div style="background-color: white;"><img style="width:700px" src="/images/Vol-13-issue-2/east-of-suez/06_suez.png">Each city on the Grand Tour of the East had its own grande dame of the hospitality scene. The hotels were glorious, opulent establishments that catered to the fastidious needs of the Grand Tourists who, having to travel for weeks or months at a time, often recreated their pampered lifestyles wherever they stayed. Pictured here is the majestic Taj Mahal Hotel in Bombay, India. <i>Kennie Ting Collection.</i></div>
+<div style="background-color: white;"><img style="width:800px" src="/images/Vol-13-issue-2/east-of-suez/06_suez.png">Each city on the Grand Tour of the East had its own grande dame of the hospitality scene. The hotels were glorious, opulent establishments that catered to the fastidious needs of the Grand Tourists who, having to travel for weeks or months at a time, often recreated their pampered lifestyles wherever they stayed. Pictured here is the majestic Taj Mahal Hotel in Bombay, India. <i>Kennie Ting Collection.</i></div>
 
 Boasting “European style” amenities that included full suites with separate living/ dining, sleeping and washing areas, and the latest technologies like electricity and water closets (what flush toilets were called in those days), these establishments were more like homes away from home, rather than the hotels or guest-houses travellers today are more accustomed to. Guests would reside for weeks or months at a time, reading books, writing letters, entertaining guests or trading gossip.
 
@@ -110,6 +110,14 @@ By the early 1900s, the Sarkies Brothers were the leading hoteliers in the East,
 The Malayan branch of Sarkies Brothers would go bankrupt in 1931, in the thick of the Great Depression and following Arshak’s tragic and untimely death of a heart attack at Penang’s E & O Hotel. Management of all their hotels would pass out of the family’s hands, with the exception of the Oranje, which continued to be managed by Lucas Martin Sarkies and his descendants until the 1960s.
 
 Thankfully, these Grand Hotels established by the Messrs Sarkies and their relatives have miraculously withstood the test of time and continue to receive guests today in the cities of Penang, Yangon, Surabaya and Singapore. Restored to their former splendour, these edifices are a living testament to the glory days of travel to the East of Suez.
+
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Vol-13-issue-2/old-world-amusement-parks/jessie-yak.png">
+	<b>Jessie Yak </b>is a Reference Librarian with the Rare Collections team at the National Library, Singapore. She majored in Chinese language and literature at Beijing University and furthered her studies at the University of Cambridge. Jessie is interested in Chinese literature, the Chinese diaspora and the print culture of East Asia.
+</div>
+
+<a href="/vol-13/issue-2/jul-sep-2017/"><center>Back to Issue</center></a>
 
 #### **REFERENCES**
 
