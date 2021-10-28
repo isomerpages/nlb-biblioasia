@@ -50,4 +50,58 @@ Agnes Joaquim’s nephew Basil J.P. Joaquim, a prominent lawyer in Kuala Lumpur,
 (Middle) Richard Eric Holttum, Director of the Singapore Botanic Gardens (1925–1942 and 1946–1949), was an orchid hybridiser himself and he regarded the Vanda Miss Joaquim as Singapore’s first artificial hybrid orchid. <i>Courtesy of Singapore Botanic Gardens.</i><br>
 (Right) Humphrey Morrison Burkill, Director of the Singapore Botanic Gardens (1957–1969), alleged that artificial orchid hybrids were not produced in Singapore until 1928. He said that among plants used in creating hybrids was the “natural hybrid Vanda Miss Joaquim” which he described as a “delightful accident of nature”. <i>Image source: Sharp, I., & Lum, S. (Eds.). (1996). A View from the Summit: The Story of Bukit Timah Nature Reserve (p. 29). Singapore: Nanyang Technological University and the National University of Singapore. (Call no.: RSING 333.78095957 VIE)</i></div>
 
+However, at the 1963 World Orchid Conference held in Singapore, Humphrey Morrison Burkill, who was appointed Director of the Singapore Botanic Gardens in 1957, sowed the seeds of dispute, alleging that artificial orchid hybrids were not produced in Singapore until 1928. He added that among the plants used in creating hybrids was the “natural hybrid Vanda Miss Joaquim” which he described as a “delightful accident of nature”.10
 
+Burkill’s claims not only contradicted those of his father Isaac Burkill (Director of Botanic Gardens, 1912–25) and other former directors, but also cast doubt on Ridley’s character. Ridley had not only officially reported the genesis of the Vanda Miss Joaquim in 1893 but also successfully created orchid hybrids himself, in 1896 and 1902. Yet, the younger Burkill gave no supporting evidence for his puzzling assertion.
+
+References to *Vanda* Miss Joaquim’s origin decreased in the late 1960s and during the 1970s, reflecting declining interest in the orchid. While some in Singapore referred to it as an artificial hybrid, others began to repeat Humphrey Burkill’s allegation that it was a natural hybrid. Like him, none gave any reason for doubting Ridley’s official account.
+
+#### **The Discovery Myth**
+
+On 15 April 1981, *Vanda* Miss Joaquim was declared Singapore’s national flower. While fame was assured for the orchid, Agnes Joaquim’s true role was tossed aside when newspaper reports of the day described the flower as a natural hybrid which she had chanced upon in her garden. When a nephew of Agnes Joaquim, Basil E. Johannes, was invited to Singapore for the launch of the National Flower Week in July 1981, he further contributed to the confusion by claiming that Agnes Joaquim had discovered the flower – not only contradicting what his cousin Basil J.P. Joaquim said in 1951, but also Ridley.
+
+Arriving at Changi Airport on 21 July from Perth, Australia, where he had been living for over two decades, the 88-year-old Johannes declared to the reporter who interviewed him that “Aunt Agnes found the flower one morning [in 1893] when she was loitering in the garden. She was so excited that she took it to the director of the Botanic Gardens straightaway”.11  Local newspapers ran with Johannes’s story, alleging that *Vanda* Miss Joaquim was a natural hybrid and making no mention of Ridley’s original account.
+
+In his book on the *Vanda* Miss Joaquim published in 1982, Teoh Eng Soon further enshrined Johannes’s story in print, embellishing it with more detail: “One morning while Agnes was loitering alone in the garden she came upon a new orchid flower nestled in a clump of bamboo… Agnes could not contain her excitement. Straightaway she took it to the Director of the Singapore Botanic Gardens”.12
+
+Arshak Galstaun, President of St Gregory’s Board of Trustees, which looked after the affairs of the Armenian Church in Singapore, and an old friend of Johannes’s was dismayed by this turn of events. In fact, he said so at Teoh’s book launch and wrote to the media refuting it.
+
+Galstaun regarded Ridley’s statement in 1893 that “no record was kept as to which of the plants was used as the male” as evidence that Joaquim had been experimenting with orchid hybrids for some time. He was certain that Ridley would not have made that comment if the hybrid had been created naturally.13
+
+Believing Johannes’s recollections to be based on hearsay and pure conjecture, Galstaun reasoned that the “positive written record of a scientist of Mr Ridley’s stature” should hold sway over the reminiscences of an elderly person. But his views published in the Malayan Orchid Review in 198214 were brushed aside, and again it was claimed that the orchid was a natural hybrid.15
+
+There was no further opposition to this fictitious story: an example of when something is repeated often enough, it sometimes becomes accepted truth. Subsequent newspaper mentions of the orchid said it was a natural hybrid. Even when the centenary of the orchid took place in 1993, there was no reference to Ridley’s account.
+
+A diorama at the Singapore History Museum and a brochure on the National Orchid Garden stated that the orchid was discovered by Miss Agnes Joaquim, as did a display board at the Singapore Botanic Gardens as recently as 2016. All of that reinforced the view that Singapore’s national flower had popped up serendipitously in Joaquim’s garden one day.
+
+<img src="/images/Vol-14-issue-1/blooming-lies/Blooming6.JPG">
+<div style="background-color: white;">Issued on 10 March 1963, this stamp with a face value of 30 cents features the  Vanda Miss Joaquim. It is one of the stamps in the Fishes, Orchids & Birds Definitives series. <i>Image source: Stamp Community Forum.</i></div>
+
+#### **Debunking the Myth**
+
+In 2000, Nadia Wright wrote an article in the Malayan Orchid Review, maintaining that Agnes Joaquim had crossed the orchid as Ridley had recorded. Explaining why the discovery story was false, she declared it was time to set the record straight.16  Although Wright based her reassessment on publicly available historical evidence, her article was criticised by those who believed that the orchid was a natural hybrid discovered by chance.
+
+Aiming to discredit Wright’s research, the detractors echoed Teoh Eng Soon’s spurious claim that “nearly every orchidist since [1893] believed that [Joaquim] had discovered a natural hybrid”.17
+
+The debate continued until 2007. In her book on Singapore’s Armenians published in 2003, Wright reiterated her stand, adding that Joaquim was the first woman in the world to breed an orchid.18 That book and Wright’s subsequent article in 2004 came under fire, but no credible evidence to refute Ridley’s findings was offered in return.19
+
+Although Wright explained why the account of the orchid’s origin written by a respected botanist and orchid expert, and accepted by other experts should be believed over confused and unsubstantiated speculations, her views were summarily dismissed by the authors of a book on Vanda Miss Joaquim.20
+
+The authors accepted Teoh’s reconstructed account as factual, declaring that Teoh was right simply because he “described the event” in detail.21 Yet Teoh could not provide concrete proof of how he became privy to his information, including details such as Joaquim was “alone” when she found the orchid “nestled in a clump of bamboo”. The Vanda Miss Joaquim needs “full sunlight and plenty of air movement” in order to thrive, and thus it was most unlikely to have grown in the  shade of a  bamboo clump as alleged.22
+
+The book repeated Teoh’s claim that Johannes was right, declaring that he was “the only living person to have met her [Agnes Joaquim]”.23 The authors, however, failed to mention that the 88-year-old Johannes was born in 1893, the year Vanda Miss Joaquim originated, or that Johannes had spent his infancy in Java, only coming to Singapore to live in 1901 when he was eight years old: two years after Joaquim’s death. Johannes would have met Joaquim only when the family was visiting Singapore and when he was very young (he was only six years old when she died). Members of the extended Joaquim family were stunned by Johannes’s remarks to the press.
+
+Whatever the case, these facts cast serious doubt on the credibility of Johannes’s testimony, as does an oral history interview he gave to the National Archives in July 1981 which showed that his recollections were neither consistent nor accurate.
+
+Basil Johannes’s older brother John, who was born 10 years earlier in 1883, told a very different story. In the 1890s, John Johannes attended Raffles Institution and no doubt lived with his grandmother and Joaquim at the family home. He was 16 years old in 1899 and more likely than his younger brother to have had first-hand knowledge of the orchid. In later years when John Johannes walked past a flower shop displaying Vanda Miss Joaquim orchids, he would cross his two forefingers and proudly tell his daughter Hazel that her grand-aunt had bred the orchid.
+
+Hazel Locke’s (nee Johannes) account of her father’s actions was scathingly dismissed by various people who insisted that Johannes’s claim that the orchid grew in a clump of bamboo was “a report of an observation”.24 How the proponents of the discovery theory reached these conclusions is unknown.
+
+It is likely that Basil Johannes was confusing Agnes Joaquim’s “discovery” with a much later event. One day in the 1930s while walking in Malaya, his cousin Basil Joaquim came across an unusual orchid, which he sent to the Director of the Botanic Gardens to see if it were a new orchid.
+
+Discrediting Ridley
+To push for acceptance of Basil Johannes’s account, its supporters turned on Ridley. They suggested that Ridley’s statement about Agnes Joaquim crossing the orchid was “allegorical rather than factual”, or that it was based on an “assumption”.25
+
+But Ridley was known to be a careful observer and recorder. Had Joaquim found the orchid, Ridley would have written it up accordingly as he had done with other natural hybrids. Besides, the wording of Ridley’s article reinforces the fact that Joaquim had produced the orchid. Had she just stumbled upon it by chance, there would be no need for Ridley to mention the fact that she had failed to record the pollen parent. Ridley would gain nothing by concocting a false claim; indeed, his reputation as an orchid expert would have been at stake, not to mention his position as the first Director of the Botanic Gardens.
+
+Critics tried to discredit Ridley by claiming that he did not know how to hybridise orchids. They questioned his specific expertise as his interests ranged “from agriculture to ghosts”, implying that he had only a superficial knowledge about many subjects. They dismissed Ridley’s expert account in The Gardeners’ Chronicle because it was written after he had lived “in Singapore only 4–5 years and before acquiring the expertise he had in later years”.26
