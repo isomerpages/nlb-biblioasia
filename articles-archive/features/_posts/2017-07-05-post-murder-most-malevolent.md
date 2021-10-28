@@ -349,24 +349,24 @@ Tan, O. B. (1995, October 5). Martin: I hit Lowe, but friend disposed of body. T
 
 Tan, O. B. (1996, April 20). Martin hanged, leaving behind mystery over another ‘victim’. The Straits Times, p. 25. Retrieved from NewspaperSG.
 
-Wanted in 3 continents… (1995, March 30). The New Paper, p. 2. Retrieved from NewspaperSG.
+[Wanted in 3 continents…](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper19950330-1.2.3.1.aspx) (1995, March 30). *The New Paper*, p. 2. Retrieved from NewspaperSG.
 
-What his mum says. (1995, November 13). The New Paper, p. 5. Retrieved from NewspaperSG.
+[What his mum says.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper19951113-1.2.8.2.aspx) (1995, November 13). *The New Paper*, p. 5. Retrieved from NewspaperSG.
 
-Who is John Martin? (1995, November 12). The Straits Times, p. 13. Retrieved from NewspaperSG.
+[Who is John Martin?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19951112-1.2.67.16.2.aspx) (1995, November 12). *The Straits Times*, p. 13. Retrieved from NewspaperSG.
 
 #### **NOTES**
 
-[^1]:Singapore. The statutes of the Republic of Singapore. (2008 Rev. ed.). Penal Code Act (Cap. 224, p. 124). Singapore: (s.n.). (Call no.: RCLOS 348.5957 SIN) 
+[^1]:Singapore. *[The statutes of the Republic of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12837799)*. (2008 Rev. ed.). Penal Code Act (Cap. 224, p. 124). Singapore: (s.n.). (Call no.: RCLOS 348.5957 SIN) 
 
-[^2]:Yong, C. (2016, December 9). Most S’poreans support death penalty, but less so for certain cases: Survey. The Straits Times. Retrieved from Factiva via NLB’s eResources website.
+[^2]:Yong, C. (2016, December 9). Most S’poreans support death penalty, but less so for certain cases: Survey. The Straits Times. Retrieved from Factiva via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
 
-[^3]:Singapore Police Force. (2016, September). Annual crime brief 2015. (pp. 1, 5). Retrieved from Singapore Police Force website; Singapore Police Force. (2015). Singapore Police Force Annual 2015 (pp. 83–84). Retrieved from Singapore Police Force website; Nokman, F. S. (2016, December 20). Crime index goes down, but perception of safety remains low. Retrieved from New Straits Times website; United States crime rates 1960 – 2015. (2015). Retrieved from Disaster Center website. 
+[^3]:Singapore Police Force. (2016, September). *Annual crime brief 2015*. (pp. 1, 5). Retrieved from Singapore Police Force website; Singapore Police Force. (2015). *Singapore Police Force Annual 2015* (pp. 83–84). Retrieved from Singapore Police Force website; Nokman, F. S. (2016, December 20). *Crime index goes down, but perception of safety remains low*. Retrieved from New Straits Times website; United States crime rates 1960 – 2015. (2015). Retrieved from Disaster Center website. 
  
-[^4]:Chia, P., & Sam, J. (1965, May 18). Jury told: Dismiss this fallacy completely from your minds. The Straits Times, p. 9. Retrieved from NewspaperSG. 
+[^4]:Chia, P., & Sam, J. (1965, May 18). [Jury told: Dismiss this fallacy completely from your minds](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19650518.2.73.aspx). *The Straits Times*, p. 9. Retrieved from NewspaperSG. 
 
 [^5]:In court, Adrian revealed that he had up to as many as 40 “holy wives” whom he had married in front of the altar at his flat, with the altar idols as the only witnesses to the matrimonial ceremony. 
 
 [^6]:The 62-day Pulau Senang trial in 1963 holds the record for being the longest trial in Singapore. Eighteen among the 59 criminals charged were convicted of rioting and arson at the experimental island penal colony and sentenced to be hanged. 
 
-[^7]:Yaw, Y. C. (1995, October 4). ‘This is a perfect instrument for deboning’. The New Paper, p. 10. Retrieved from NewspaperSG
+[^7]:Yaw, Y. C. (1995, October 4). [‘This is a perfect instrument for deboning’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper19951004-1.2.16.1.aspx?q=who+is+john+martin&page=1&sort=relevance&token=martin%2cjohn%2cis%2cwho&sessionid=c3ff50b418ba4612908954dd22ce401e). *The New Paper*, p. 10. Retrieved from NewspaperSG
