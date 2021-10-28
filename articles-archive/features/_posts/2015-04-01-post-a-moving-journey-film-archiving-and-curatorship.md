@@ -70,6 +70,28 @@ Shortly after, in 2007, the AFA became the first Singapore-based organisation to
 
 The AFA has come a long way from when it started 10 years ago by the visionary Tan Bee Thiam. Having built a reputation and gained traction with the regional film community, AFA’s mission statement – “To Save, Explore, and Share the Art of Asian Cinema” – will continue to guide its future work and direction. The editors of <i>Film Curatorship: Archives, Museums and the Digital Marketplace</i> succinctly define film curatorship as “the art of interpreting the aesthetics, history, and technology of cinema through the selective collection, preservation, and documentation of films and their exhibition in archival presentations.”[^18] On this occasion of the AFA’s 10th anniversary, this quote eloquently encapsulates what the words “Save, Explore and Share” in AFA’s mission statement hopes to achieve.
 
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;">
+<b>THE GENESIS OF THE ASIAN FILM ARCHIVE</b>
+<br><br>
+The Asian Film Archive (AFA) was the brainchild of Tan Bee Thiam, its founder and former executive director. After graduating from the National University of Singapore (NUS) in 2004, Tan embarked on a two-month backpacking trip that took him to New Delhi, India. Unbeknownst to him at the time, this visit would sow the seeds for the beginnings of the first Singapore-based film archive. Tan had always been a film enthusiast; as a student he served as the president of the NUS film society, nuSTUDIOS, and was himself an emerging filmmaker. In New Delhi, Tan attended the Osian’s-Cinefan: 6th Festival of Asian Cinema, where he was exposed to key filmmakers from around Asia.
+<br><br>
+These figures, including members from NETPAC (Network for the Promotion of Asian Cinema), like Singapore’s Phillip Cheah and India’s Aruna Vasudev, would later inspire and influence his thoughts. NETPAC’s mission is to promote lesser known Asian films. “The organisation impressed me,” recalls Tan. “A lot of media attention is given to the glamour of the Cannes, Venice and Berlin film festivals. But there are very hardworking Asian filmmakers who create works for their own people. I felt that their work, at least those I’d seen, were important and groundbreaking.”
+<br><br>
+Tan had the good fortune of acting as translator for the post-screening Q&amp;A sessions of the acclaimed Taiwan-based filmmaker Tsai Ming Liang. In their conversations, Tsai provoked Tan into thinking about archiving and its importance. “(Tsai) had problems with distribution, problems with keeping track of his own film prints,” recounts Tan. “Even for a very established filmmaker like Tsai Ming Liang, his works were rarely seen outside of film festivals.” This led to conversations with other Asian filmmakers such as award-winning Malaysian director U-Wei Haji Saari, who revealed that he stored the film prints of his acclaimed films himself, acknowledging that in a tropical environment, they would run the risk of being damaged.
+<br><br>
+Tan quickly recognised the challenges these Asian independent filmmakers faced. Not only did they have trouble raising money to produce their films, these works did not always receive the traction they deserved, denying audiences the opportunity to view them. Many films might not even survive the passage of time; in 2004, few Asian countries had their own national film archive, and those that existed did not function effectively. Without proper preservation facilities, it was clear to Tan that significant elements of Asian heritage and culture would be lost forever.</span>
+
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;">
+<b>THE BASIS</b>
+<br><br>
+In the course of his research, Tan drew inspiration from the great work of the British Film Institute (BFI), Berkeley’s Pacific Film Archive and Asian film archives in Taiwan, Thailand and Hong Kong. International and regional film institutions such as the International Federation of Film Archives (FIAF) and the South East Asia-Pacific Audiovisual Archives Association (SEAPAVAA) offered further insight into the different models he could pursue.
+<br><br>
+Upon his return from India, Tan was pleasantly surprised to discover that there had already been suggestions to establish a Singapore film archive. He spent the next few months networking, meeting filmmakers and heads of institutions as well as film researchers, laying the foundations and framework the archive would be built upon.
+<br><br>
+Tan envisioned that the archive would be situated in the context of a university, to be enjoyed not just for entertainment but as a form of art and for serious study, providing resources for research and academia. He also wanted to situate Singapore cinema in the wider context of Asian cinema – a film archive that would be Asian in its scope and focus.
+<br><br>
+Tan turned to his alma mater, NUS, and approached Chew Kheng Chuan, founding director of NUS’ Development Office and chairman of The Substation (Singapore), who supported Tan’s vision. He offered Tan not only his wealth of experience, but also office space within the NUS Development Office – the AFA’s first home.</span>
+
 
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;">
 <b>ABOUT THE AFA</b>
@@ -98,29 +120,6 @@ Hosted by the AFA and supported by the National Library Board, Singapore, the 19
 Digital film restoration is a highly specialised and laborious process. It involves the complex use of technological software and equipment that are designed to ingest huge amounts of data. The simplified workflow diagram below gives an idea of the three main parts of digital film restoration – repair and cleaning; restoration and preservation; and access output.
 <br><br>
 <img style="width:70%" src="/images/vol-11-issue-1/movingjourney/process_re.jpg"></span>
-
-
-<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;">
-<b>THE GENESIS OF THE ASIAN FILM ARCHIVE</b>
-<br><br>
-The Asian Film Archive (AFA) was the brainchild of Tan Bee Thiam, its founder and former executive director. After graduating from the National University of Singapore (NUS) in 2004, Tan embarked on a two-month backpacking trip that took him to New Delhi, India. Unbeknownst to him at the time, this visit would sow the seeds for the beginnings of the first Singapore-based film archive. Tan had always been a film enthusiast; as a student he served as the president of the NUS film society, nuSTUDIOS, and was himself an emerging filmmaker. In New Delhi, Tan attended the Osian’s-Cinefan: 6th Festival of Asian Cinema, where he was exposed to key filmmakers from around Asia.
-<br><br>
-These figures, including members from NETPAC (Network for the Promotion of Asian Cinema), like Singapore’s Phillip Cheah and India’s Aruna Vasudev, would later inspire and influence his thoughts. NETPAC’s mission is to promote lesser known Asian films. “The organisation impressed me,” recalls Tan. “A lot of media attention is given to the glamour of the Cannes, Venice and Berlin film festivals. But there are very hardworking Asian filmmakers who create works for their own people. I felt that their work, at least those I’d seen, were important and groundbreaking.”
-<br><br>
-Tan had the good fortune of acting as translator for the post-screening Q&amp;A sessions of the acclaimed Taiwan-based filmmaker Tsai Ming Liang. In their conversations, Tsai provoked Tan into thinking about archiving and its importance. “(Tsai) had problems with distribution, problems with keeping track of his own film prints,” recounts Tan. “Even for a very established filmmaker like Tsai Ming Liang, his works were rarely seen outside of film festivals.” This led to conversations with other Asian filmmakers such as award-winning Malaysian director U-Wei Haji Saari, who revealed that he stored the film prints of his acclaimed films himself, acknowledging that in a tropical environment, they would run the risk of being damaged.
-<br><br>
-Tan quickly recognised the challenges these Asian independent filmmakers faced. Not only did they have trouble raising money to produce their films, these works did not always receive the traction they deserved, denying audiences the opportunity to view them. Many films might not even survive the passage of time; in 2004, few Asian countries had their own national film archive, and those that existed did not function effectively. Without proper preservation facilities, it was clear to Tan that significant elements of Asian heritage and culture would be lost forever.</span>
-
-<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;">
-<b>THE BASIS</b>
-<br><br>
-In the course of his research, Tan drew inspiration from the great work of the British Film Institute (BFI), Berkeley’s Pacific Film Archive and Asian film archives in Taiwan, Thailand and Hong Kong. International and regional film institutions such as the International Federation of Film Archives (FIAF) and the South East Asia-Pacific Audiovisual Archives Association (SEAPAVAA) offered further insight into the different models he could pursue.
-<br><br>
-Upon his return from India, Tan was pleasantly surprised to discover that there had already been suggestions to establish a Singapore film archive. He spent the next few months networking, meeting filmmakers and heads of institutions as well as film researchers, laying the foundations and framework the archive would be built upon.
-<br><br>
-Tan envisioned that the archive would be situated in the context of a university, to be enjoyed not just for entertainment but as a form of art and for serious study, providing resources for research and academia. He also wanted to situate Singapore cinema in the wider context of Asian cinema – a film archive that would be Asian in its scope and focus.
-<br><br>
-Tan turned to his alma mater, NUS, and approached Chew Kheng Chuan, founding director of NUS’ Development Office and chairman of The Substation (Singapore), who supported Tan’s vision. He offered Tan not only his wealth of experience, but also office space within the NUS Development Office – the AFA’s first home.</span>
 
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;">
 <b>THE BIRTH</b>
