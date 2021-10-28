@@ -280,29 +280,29 @@ Elengovan. (1970, November 7).[ ‘She cried out to me she wanted to die’.](ht
 
 [‘Mimi was of sound mind on day of killing’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19701203-1.2.84). (1970, December 3). *The Straits Times*, p. 11. Retrieved from NewspaperSG.
 
-[Mimi Wong’s execution was a grim ‘first’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19791223-1.2.35). (1979, December 23). The Straits Times, p. 7. Retrieved from NewspaperSG.
+[Mimi Wong’s execution was a grim ‘first’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19791223-1.2.35). (1979, December 23). *The Straits Times*, p. 7. Retrieved from NewspaperSG.
 
-Mimi’s hubby refused leave to appeal. (1973, February 2). New Nation, p. 3. Retrieved from NewspaperSG.
+[Mimi’s hubby refused leave to appeal](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19730202-1.2.20). (1973, February 2). *New Nation*, p. 3. Retrieved from NewspaperSG.
 
-Seah, L. (2002, May 6). Chilling, but little bite. The Straits Times, p. 6. Retrieved from NewspaperSG.
+Seah, L. (2002, May 6). [Chilling, but little bite](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20020506-1.2.56.15). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
 
-Singh, P. (1978, February 26). The quadrangle of love – and death. The Straits Times, p. 11. Retrieved from NewspaperSG.
+Singh, P. (1978, February 26). [The quadrangle of love – and death](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19780226-1.2.57.1). *The Straits Times*, p. 11. Retrieved from NewspaperSG.
 
-Chao, T. Z. (1990, September 5). Solving bathroom murder. The New Paper, p. 10. Retrieved from NewspaperSG.
+Chao, T. Z. (1990, September 5). [Solving bathroom murder](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper19900905-1.2.13.6). *The New Paper*, p. 10. Retrieved from NewspaperSG.
 
-Star witness Chieko proved the killing: Seow. (1970, December 8). The Straits Times, p. 17. Retrieved from NewspaperSG.
+[Star witness Chieko proved the killing: Seow.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19701208-1.2.92) (1970, December 8). *The Straits Times*, p. 17. Retrieved from NewspaperSG.
 
-Wee, B. H., & Mohan, B. (1973, July 27). Mimi Wong and husband hanged. New Nation, p. 1. Retrieved from NewspaperSG.
+Wee, B. H., & Mohan, B. (1973, July 27). [Mimi Wong and husband hanged](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19730727-1.2.11). *New Nation*, p. 1. Retrieved from NewspaperSG.
 
 **Adrian Lim**
 
-Adrian Lim book sets sales record. (1989, June 22). The New Paper, p. 8. Retrieved from NewspaperSG.
+[Adrian Lim book sets sales record](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper19890622-1.2.11.3). (1989, June 22). *The New Paper*, p. 8. Retrieved from NewspaperSG.
 
-Adrian Lim story to be basis of $1.7 m film. (1990, November 14). The Straits Times, p. 30. Retrieved from NewspaperSG.
+[Adrian Lim story to be basis of $1.7 m film](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19901114.2.37.14). (1990, November 14). *The Straits Times*, p. 30. Retrieved from NewspaperSG.
 
-Davidson, B. & Chua, M. (1983, April 5). I killed to get even with the world. The Straits Times, p. 12. Retrieved from NewspaperSG.
+Davidson, B. & Chua, M. (1983, April 5). [I killed to get even with the world](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19830405-1.2.46). *The Straits Times*, p. 12. Retrieved from NewspaperSG.
 
-But it’s one small step forward. (1991, November 30). The Straits Times, p. 6. Retrieved from NewspaperSG.
+[But it’s one small step forward](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19911130-1.2.72.3.4.3). (1991, November 30). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
 
 Chia, H. (1989, March 15). Murder. They wrote. The Straits Times, p. 1. Retrieved from NewspaperSG.
 
