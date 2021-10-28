@@ -127,7 +127,7 @@ Perhaps the last word on our horror heritage should go to Alfian Sa’at. As an 
 
 #### **NOTES**
 
-[^1]:Abdullah Abdul Kadir. (2009). The Hikayat Abdullah (A. H. Hill, Trans.) (p. 146). Kuala Lumpur: The Malaysian Branch of the Royal Asiatic Society. (Call no.: RSEA 959.5 ABD). [Note: Abdullah claims that Colonel William Farquhar organised the expedition; later historians establish that it was almost certainly Raffles. See Hahn, E. (1968). Raffles of Singapore (pp. 463–464). London: Oxford University Press Kula Lumpur: University of Malaya Press. (Call no.: RCLOS 959.570210924 RAF)
+[^1]:Abdullah Abdul Kadir. (2009). *[The Hikayat Abdullah](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13606908)* (A. H. Hill, Trans.) (p. 146). Kuala Lumpur: The Malaysian Branch of the Royal Asiatic Society. (Call no.: RSEA 959.5 ABD). [Note: Abdullah claims that Colonel William Farquhar organised the expedition; later historians establish that it was almost certainly Raffles. See Hahn, E. (1968). *[Raffles of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4181818)* (pp. 463–464). London: Oxford University Press Kula Lumpur: University of Malaya Press. (Call no.: RCLOS 959.570210924 RAF)]
 
 [^2]:[Tigers](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18431026-1.2.8). (1843, October 26). *The Singapore Free Press and Mercantile Advertiser*, p. 2. Retrieved from NewspaperSG.
 
