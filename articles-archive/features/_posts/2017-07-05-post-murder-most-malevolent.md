@@ -339,15 +339,15 @@ Lim, Y. (1995, March 30). Second time on the run. The New Paper, p. 2. Retrieved
 
 Martin files appeal against conviction. (1995, November 17). The Straits Times, p. 41. Retrieved from NewspaperSG.
 
-Miller, B. (1995, November 11). Martin’s last ‘Hello’ then off to date with death. The New Paper, p. 12. Retrieved from NewspaperSG.
+Miller, B. (1995, November 11). [Martin’s last ‘Hello’ then off to date with death](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper19951111-1.2.18.1). *The New Paper*, p. 12. Retrieved from NewspaperSG.
 
-Tan, O. B. (1996, March 10). ‘Body parts’ murderer will not petition for presidential pardon. The Straits Times, p. 29. Retrieved from NewspaperSG.
+Tan, O. B. (1996, March 10). [‘Body parts’ murderer will not petition for presidential pardon](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19960310-1.2.37.8.aspx). *The Straits Times*, p. 29. Retrieved from NewspaperSG.
 
-Tan, O. B. (1995, March 30). Accused in South African murder case jailed for drug possession in London. The Straits Times, p. 3. Retrieved from NewspaperSG.
+Tan, O. B. (1995, March 30). [Accused in South African murder case jailed for drug possession in London](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19950330-1.2.8.6.aspx). *The Straits Times*, p. 3. Retrieved from NewspaperSG.
 
-Tan, O. B. (1995, October 5). Martin: I hit Lowe, but friend disposed of body. The Straits Times, p. 37. Retrieved from NewspaperSG.
+Tan, O. B. (1995, October 5). [Martin: I hit Lowe, but friend disposed of body](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19951005-1.2.42.8.aspx). *The Straits Times*, p. 37. Retrieved from NewspaperSG.
 
-Tan, O. B. (1996, April 20). Martin hanged, leaving behind mystery over another ‘victim’. The Straits Times, p. 25. Retrieved from NewspaperSG.
+Tan, O. B. (1996, April 20). [Martin hanged, leaving behind mystery over another ‘victim’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19960420-1.2.36.1.aspx). *The Straits Times*, p. 25. Retrieved from NewspaperSG.
 
 [Wanted in 3 continents…](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper19950330-1.2.3.1.aspx) (1995, March 30). *The New Paper*, p. 2. Retrieved from NewspaperSG.
 
