@@ -2,13 +2,12 @@
 layout: post
 title: BiblioAsia Jan-Mar 2018
 date: 2020-01-01T00:00:00.000Z
-breadcrumb: "Jan-Mar 2018"
+breadcrumb: Jan-Mar 2018
 permalink: /vol-13/issue-4/jan-mar-2018/
 ---
+The documents that establish Southeast Asian as a major centre of learning, the stories behind old war photographs and the impact of female missionaries in colonial Singapore are some of the things we look at in this issue.
 
 <img src="/images/Vol-13-issue-4/vol13_iss4.JPG">  
-
-The documents that establish Southeast Asian as a major centre of learning, the stories behind old war photographs and the impact of female missionaries in colonial Singapore are some of the things we look at in this issue.
 
 **Director’s Note**
 
