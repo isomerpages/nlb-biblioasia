@@ -220,17 +220,23 @@ The hybridisation of a plant involves two steps. First, pollination takes place 
 [^8]:The article later described *Vanda* Miss Joaquim as an artificial hybrid. [New orchids for Malaya](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19310804-1.2.59) (1931, August 4). *The Straits Times*, p. 12. Retrieved from NewspaperSG.
 [^9]:[On the margin](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19510405-1.2.112). (1951, April 5). *The Straits Times*, 6. Retrieved from NewspaperSG. 
 [^10]:Burkill, H. M. (1963). [*The role of the Singapore Botanic Gardens in the development of Orchid Hybrids*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4979967) (p. 14). Singapore: Straits Times Press. (Call no.: RCLOS 584.15 BUR-[RFL])
-[^11]:Lim, H. K. (1981, July 23). “Miss Joaquim fails to greet nephew at gates”. The Straits Times, p. 8. Retrieved from NewspaperSG.
-[^12]:
-
-
-
-
-
-
-
-
-
-
-
-Teoh, E. S. (1982). A joy forever: Vanda Miss Joaquim Singapore’s national flower (p. 31) Singapore: Times Books International. (Call no.: RSING 584.15095957 TEO)
+[^11]:Lim, H. K. (1981, July 23). [“Miss Joaquim fails to greet nephew at gates”](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19810723-1.2.30). *The Straits Times*, p. 8. Retrieved from NewspaperSG.
+[^12]:Teoh, E. S. (1982). [*A joy forever: Vanda Miss Joaquim Singapore’s national flower*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=3520904) (p. 31) Singapore: Times Books International. (Call no.: RSING 584.15095957 TEO)
+[^13]:
+[^14]:
+[^15]:
+[^16]:
+[^17]:
+[^18]:
+[^19]:
+[^20]:
+[^21]:
+[^22]:
+[^23]:
+[^24]:
+[^25]:
+[^26]:
+[^27]:
+[^28]:
+[^29]:
+[^30]:
