@@ -194,6 +194,7 @@ Joaquim was buried in Bukit Timah Cemetery, and when the grounds were acquired b
 <b>WHAT IS HYBRIDISATION?</b><br><br>
 The hybridisation of a plant involves two steps. First, pollination takes place during which pollen is transferred from the male flower to the female flower to create a seed. Second, germination occurs in which the seed develops into a plant. Whether a hybrid is artificial or natural depends on how the pollination occurred. If the transfer of pollen is done by a person, the resulting hybrid is termed “artificial”. If it is done by agents of pollination such as insects, birds or by the wind, it is termed “natural”.
 </div>
+
 <br>
 <div style="background-color: white;">
 <img src="/images/Vol-14-issue-1/blooming-lies/Blooming11.jpg" style="width: 100px; height: 100px;">
@@ -209,3 +210,9 @@ The hybridisation of a plant involves two steps. First, pollination takes place 
 </div>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-14/issue-1/apr-jun-2018/"><center>Back to Issue</center></a>
+	
+#### **NOTES**
+[^1]:
+[^1]:
+[^1]:
+[^1]:
