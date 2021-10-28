@@ -4,6 +4,8 @@ date: 2018-04-30
 permalink: /vol-14/issue-1/apr-jun-2018/directors-note-apr18/
 layout: post
 ---
+<img src="/images/Vol-14-issue-1/vol14_iss1.JPG">
+
 The proliferation of fake news isn’t a recent phenomenon. Fictitious accounts of how Agnes Joaquim stumbled upon her namesake orchid in her garden began circulating several decades after she was credited for creating the hybrid by crossing two orchid species. Writers Nadia Wright, Linda Locke and Harold Johnson separate fact from fiction in their search for the truth.
 
 Similarly, not enough people know that Singapore was a base for nefarious experiments in biological warfare during the Japanese Occupation. Between 1942 and 1945, a laboratory was set up to breed bubonic plague-infected fleas and other deadly pathogens for use as biological weapons. Cheong Suk-Wai finds out more from Singaporean war history researcher Lim Shao Bin.
@@ -21,3 +23,9 @@ One of the statutory functions of the National Library is Legal Deposit, which m
 Finally, Lu Wenshi interviews Eric Khoo and finds out what inspired his latest film, Ramen Teh – scenes of which were shot at the Former Ford Factory in Bukit Timah.
 
 We hope you enjoy reading this edition of *BiblioAsia*.
+
+<br>
+<b>Mrs Wai Yin Pryke </b><br>Director<br>National Library
+
+
+<a href="https://biblioasia.nlb.gov.sg/vol-14/issue-1/apr-jun-2018/"><center>Back to Issue</center></a>
