@@ -5,9 +5,9 @@ date: 2020-01-01T00:00:00.000Z
 breadcrumb: Jul-Sep 2018
 permalink: /vol-14/issue-2/jul-sep-2018/
 ---
-<img src="/images/Vol-14-issue-2/vol14_iss2.JPG">  
-
 We learn how print advertising illuminates social history, look at globetrotting mothers, and talk to former Malay sailors who live in Liverpool in this issue.
+
+<img src="/images/Vol-14-issue-2/vol14_iss2.JPG">  
 
 **[Director’s Note](/vol-14/issue-2/jul-sep-2018/drctrs-note-julsep18/)**
 
