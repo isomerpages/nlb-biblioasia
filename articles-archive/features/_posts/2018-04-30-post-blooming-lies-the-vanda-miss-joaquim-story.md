@@ -4,10 +4,10 @@ date: 2018-04-30
 permalink: /vol-14/issue-1/apr-jun-2018/blooming-lies-vda-st/
 layout: post
 ---
-#### Is the Vanda Miss Joaquim a human-made hybrid or a happy accident? In this cautionary tale, **Nadia Wright, Linda Locke and Harold Johnson** recount how fiction becomes truth when it is repeated often enough.
+#### Is the *Vanda* Miss Joaquim a human-made hybrid or a happy accident? In this cautionary tale, **Nadia Wright, Linda Locke and Harold Johnson** recount how fiction becomes truth when it is repeated often enough.
 
 <img src="/images/Vol-14-issue-1/blooming-lies/Blooming1.JPG">
-<div style="background-color: white;"></i></div>
+<div style="background-color: white;"></div>
 
 *While doing research on the Armenian community in Singapore back in the 1990s, Australian historian Nadia Wright read an account of how the daughter of a prominent Armenian family in Singapore, Agnes Joaquim1 (Ashken Hovagimian), had stumbled upon a never-before-seen orchid bloom by accident in the family garden.*
 
@@ -19,6 +19,14 @@ In 1893, Agnes Joaquim, or possibly her brother Joe (Joaquim P. Joaquim), showed
 
 “A few years ago Miss Joaquim, a lady residing in Singapore, well-known for her success as a horticulturist, succeeded in crossing Vanda Hookeriana, Rchb. f., and V. teres, two plants cultivated in almost every garden in Singapore. Unfortunately, no record was kept as to which was used as the male. The result has now appeared in the form of a very beautiful plant, quite intermediate between the two species and as I cannot find any record of this cross having been made before, I describe it herewith”.3
 
+<img src="/images/Vol-14-issue-1/blooming-lies/Blooming2.JPG">
+<div style="background-color: white;">This is the first published image of the Vanda Miss Joaquim. <i>Image source: The Gardeners’ Chronicle, 26 June 1897, p. 427, Biodiversity Heritage Library. Digitised by UMass Amherst Libraries.</i></div>
+
 In an 1894 paper delivered to the prestigious Linnean Society in England, Ridley reiterated that *Vanda Hookeriana* had been “successfully crossed” with *V. teres, Lindl*., “producing a remarkably handsome offspring, *V. x Miss Joaquim*.” This paper was published unaltered in 1896.4  Ridley, who lived to be 100 years old, never wavered in his statement. When Isaac Henry Burkill (Ridley’s successor at the Botanic Gardens) checked all of Ridley’s herbarium specimens and redid the labels, he saw no reason to dispute Ridley and recorded Joaquim as the creator.
 
-Ridley sent cuttings of Vanda Miss Joaquim to Sir Trevor Lawrence, President of the Royal Horticultural Society and one of the world’s leading orchidists, where it was nurtured in his orchid house at Burford Lodge, in Dorking, England. Flowering for the first time in Europe in 1897, Vanda Miss Joaquim was displayed at the Royal Horticultural Show in London, winning a First Class Certificate. In describing the event, *The Gardeners’ Chronicle* noted that “the plant was obtained from a cross between V. teres and V. Hookeriana some years ago by Miss Joaquim at Singapore”.5
+Ridley sent cuttings of *Vanda* Miss Joaquim to Sir Trevor Lawrence, President of the Royal Horticultural Society and one of the world’s leading orchidists, where it was nurtured in his orchid house at Burford Lodge, in Dorking, England. Flowering for the first time in Europe in 1897, *Vanda* Miss Joaquim was displayed at the Royal Horticultural Show in London, winning a First Class Certificate. In describing the event, *The Gardeners’ Chronicle* noted that “the plant was obtained from a cross between V. teres and V. Hookeriana some years ago by Miss Joaquim at Singapore”.5
+
+<img src="/images/Vol-14-issue-1/blooming-lies/Blooming3.JPG">
+<div style="background-color: white;">(Left) The First Class Certificate awarded to Sir Trevor Lawrence, President of the Royal Horticultural Society, at the 1897 Royal Horticultural Flower Show for his Vanda Miss Joaquim hybrid. <i>Image source: RHS Lindley Collections, The Royal Horticultural Society.</i><br>
+(Right) A detail from the Vanda Miss Joaquim specimen sheet of the first spike of flowers received in April 1893 by the Singapore Botanic Gardens. The flower was the same one described by Henry Ridley in The Gardeners’ Chronicle in June 1893. The label beneath the specimen is Ridley’s handwriting. <i>Courtesy of the Singapore Botanic Gardens Herbarium.</i></div>
+
