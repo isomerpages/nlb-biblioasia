@@ -154,3 +154,8 @@ The Adrian Lim case received extensive coverage in print, with four books on the
 The case inspired two films: *Medium Rare* and *God or Dog*. Loosely based on the Adrian Lim ritual murders, *Medium Rare* was Singapore’s first full-length English-language film, and premiered in local theatres on 28 November 1991. A commercial flop, the movie received scathing reviews for its weak script, slow pacing and unprofessional editing. *God or Dog* first premiered at the 1997 Singapore International Film Festival before it was screened in local cinemas. The film was roundly criticised for its scenes of gratuitous sex and nudity.
 
 #### **John Martin Scripps: The Body Parts Murderer **
+
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>When:</b> Between noon, 8 March, and 8 am, 9 March 1995
+<b>Crime scene:</b> A room in River View Hotel (now renamed Four Points by Sheraton, Riverview)
+<b>The accused:</b> John Martin Scripps, aged 35
+<b>The victim:</b> Gerard George Lowe, aged 33</span>
