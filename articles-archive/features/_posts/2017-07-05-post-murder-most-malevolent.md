@@ -153,9 +153,212 @@ The Adrian Lim case received extensive coverage in print, with four books on the
 
 The case inspired two films: *Medium Rare* and *God or Dog*. Loosely based on the Adrian Lim ritual murders, *Medium Rare* was Singapore’s first full-length English-language film, and premiered in local theatres on 28 November 1991. A commercial flop, the movie received scathing reviews for its weak script, slow pacing and unprofessional editing. *God or Dog* first premiered at the 1997 Singapore International Film Festival before it was screened in local cinemas. The film was roundly criticised for its scenes of gratuitous sex and nudity.
 
-#### **John Martin Scripps: The Body Parts Murderer **
+#### **John Martin Scripps: The Body Parts Murderer**
 
-<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>When:</b> Between noon, 8 March, and 8 am, 9 March 1995
-<b>Crime scene:</b> A room in River View Hotel (now renamed Four Points by Sheraton, Riverview)
-<b>The accused:</b> John Martin Scripps, aged 35
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>When:</b> Between noon, 8 March, and 8 am, 9 March 1995<br>
+<b>Crime scene:</b> A room in River View Hotel (now renamed Four Points by Sheraton, Riverview)<br>
+<b>The accused:</b> John Martin Scripps, aged 35<br>
 <b>The victim:</b> Gerard George Lowe, aged 33</span>
+
+Born in England as John Martin Scripps, the Englishman legally changed his name to John Martin when he was in his 20s. Scripps had had many run-ins with the law as a teenager. His criminal resume included more than 20 counts of burglary, two cases of resisting arrest and one count of outrage of modesty. He had also been arrested twice for drug smuggling, in 1987 and 1992, but had escaped while on parole from prison.
+
+In October 1994, Scripps was wanted for questioning after a dismembered body of a male homosexual was found in a rubbish bin in San Francisco. A month later, he became a murder suspect in Mexico City when a British tourist, Tim McDowell, aged 28, was found dead.
+
+Scripps arrived in Singapore on 8 March 1995 using a passport belonging to a Simon James Davis. At Changi Airport, he met South African tourist George Gerard Lowe. Both agreed to share a hotel room to save costs. Shortly after checking into a room at River View Hotel, Scripps clubbed Lowe over the head with a 1.5-kg hammer and within an hour, had dismembered his head, torso, arms, thighs and legs in the bathtub. The body parts were tied up in trash bags, packed in Lowe’s suitcase and a smaller bag, and placed in the wardrobe.
+
+Scripps then went on a two-day shopping spree using Lowe’s money and credit card. Prior to checking out of the hotel on 11 March, Scripps dumped the contents of the suitcase into the Singapore River. The contents of the other bag were also disposed of before being abandoned at the Thomas Cook office in Anson Road. The bag was left empty save for a bottle of Lynx deodorant used to cover up the smell of rotting flesh. He then flew to Bangkok on 11 March.
+
+On 13 March, a black plastic trash bag containing severed legs was found near Clifford Pier by a boatman. The torso and thighs were found three days later, also in plastic bags. The head and arms never surfaced. The torso and legs were positively identified by Lowe’s wife and DNA tests confirmed his identity.
+
+Police were aided in their investigations by a missing person report from South Africa. Once Lowe’s identity was ascertained, the police were able to trace Scripps’ activities between 8 and 11 March, using hotel and credit card transaction records. Traces of blood were also found on the wall tiles, the door and on the underside of the toilet bowl in the bathroom of the room where the murder took place.
+
+Meanwhile, between 19 and 24 March, the dismembered body parts of Canadian tourists, school teacher Sheila Damud and her son Darin, were discovered in Phuket. They had checked in at the same hotel in Phuket as Scripps did on 15 March. Scripps was arrested at Changi Airport on 19 March when he returned to Singapore. On 24 March he was charged with the murder of Gerard George Lowe.
+
+During Scripps’ arrest, knives, a hammer, an electrical stun device, handcuffs and six passports were found in his possession – Lowe’s, one with the name “John Martin”, two bearing the name “Simon James Davis” and the two belonging to the Canadian tourists in Phuket. The two flick knives with jagged edges, according to senior forensic pathologist, Chao Tzee Cheng, and experienced prison butcher, James Quigley, were “sufficient to dismember Mr Lowe’s body”.[^7] The personal belongings of the Canadians and Lowe were also recovered.
+
+During the court trial, it was revealed that Scripps had learned butchering skills while serving out a six-year prison sentence for drug trafficking, and was put in charge of the prison butchery until he was transferred to another prison. In his defence, Scripps confessed that he had unintentionally killed Lowe by bludgeoning his head with a hammer during a heated argument, but maintained his claim to the end that a British friend had disposed of Lowe’s body.
+
+At the end of the 17-day trial on 10 November 1995, Scripps was pronounced guilty of murdering and dismembering Lowe, and sentenced to death.
+
+He filed an appeal against his conviction on 13 November but gave up his right to appeal on 8 January 1996. He also declined to file a clemency plea with then President Ong Teng Cheong. On 15 April 1996, Scripps’ date of execution was announced by the British Foreign Office – he was the first Briton to be convicted of murder and sentenced to death in Singapore − and he was hanged at Changi Prison at 6 am on 19 April 1996.
+
+The police took just 11 days to solve the case from the date of Lowe’s murder.
+
+The murder case was documented in the book Body Parts: A British Serial Killer in Singapore (1996). Written by Tan Ooi Boon, the crime reporter with The Straits Times who first uncovered Scripps’ shocking murders in March 1995, the book delves into the psyche of the monster who had cold-bloodedly killed and dismembered his victims.
+
+<div style="background-color: white;"><img src="/images/Vol-13-issue-2/murder-most-malevolent/07_murder.png">(Above left) The British national John Martin Scripps was hanged at Changi Prison on 19 April 1996, 408 days after killing Gerard Michael Lowe, a South African tourist whom he met in Singapore. <i>The Straits Times, 20 April 1996, p.25.</i> <br>
+(Above right) The John Martin Scripps murder case was documented in a book by crime reporter Tan Ooi Boon. <i>All rights reserved, Tan, O. B. (1996). Body Parts: A British Serial Killer in Singapore. Singapore: Times Books International. (Call no.: RSING 364.1523095957 TAN)</i></div>
+
+#### **Other Notable Murder Cases**
+
+* Many more murders exist in Singapore’s crime annals beyond the four murders highlighted in this article. Some of these include:
+
+* Lim Ban Lin’s killing of a police officer in 1968. He became the most wanted criminal in Singapore and Malaysia, and was gunned down in 1972.
+
+* The “tontine killing” in 1974 where a 44-year-old housewife, Sim Joo Keow, killed and dismembered her 53-year-old sister-in-law, Kwek Lee Eng, over money owed by the former. The dismembered body parts were uncovered in three locations: in a disused toilet at Aljunied Road, along the banks of the Kallang River, and in Sim’s house in Jalan Besar.
+
+* The slaughter of the four children from the Tan family in 1979, all of whom were under the age of 10. Dubbed the Geylang Bahru murder, the case remains unsolved to this day.
+
+* The 1983 Andrew Road murders committed by Sek Kim Wah, who had killed five people during robbery attempts.
+
+* The 1984 “curry murder” where Ayakanno Marimuthu, 38, was clubbed to death, chopped up, cooked in curry and dumped in roadside dustbins. His alleged murderers were his wife and her relatives. All six  suspects were charged with murder in March 1987, but were later given a discharge not amounting to an acquittal due to lack of evidence.
+
+* The killing and dismemberment of 22-year-old Chinese national Liu Hong Mei by her 50 year-old married lover and supervisor, Leong Siew Chor, to hide the theft of an ATM card. The 2005 murder came to light when parts of her body surfaced at the Kallang River. The crime became known as the Kallang body parts murder.
+
+* The 2005 Orchard Road body parts murder in which 29-year-old Filipino maid Guen Garlejo Aguilar killed and dismembered her best friend, 26-year-old Jane Parangan La Puebla, over a money dispute. The dismembered body parts were subsequently dumped near the Orchard MRT station and at a bus stop along Lornie Road.
+
+* The killing of two-year-old Nonoi in 2006 by her stepfather, Mohammed Ali Johari, who had repeatedly dunked her in a pail of water to stop her from crying.
+
+* The Yishun triple murder by a Chinese national, who had savagely stabbed his lover, her daughter and their flatmate multiple times over money woes in 2008.
+
+To read up on these cases and others, please refer to the books listed below at the Lee Kong Chian Reference Library at the National Library Building and branches of public libraries.
+
+#### **REFERENCES**
+
+Campbell, J. H., & DeNevi, D. (2004). Profilers: Leading investigators take you inside the criminal mind. Amherst, N.Y.: Prometheus Books. (Call no.: R 363.25 PRO)
+
+Holmes, R. M., & Holmes, S. T. (1996). Profiling violent crimes: An investigative tool. Thousand Oaks: Sage Publications. (Call no.: R 363.25 HOL)
+
+Stone, M. (2009). The anatomy of evil. Amherst, N.Y.: Prometheus Books. (Call no.: R 364.3 STO)
+
+**Sunny Ang**
+
+Bargirl’s last dive – boatman. (1965, May 6). The Straits Times, p. 9. Retrieved from NewspaperSG.
+
+Chia, P., Sam, J., & Hwang, T. F. (1965, May 19). Judge: These links in the chain bind the accused tightly. The Straits Times, p. 9. Retrieved from NewspaperSG.
+
+Chia, P., Sam, J., & Hwang, T. F. (1965, May 19). First of the 16 links: ‘A powerful motive…’ The Straits Times, p. 10. Retrieved from NewspaperSG.
+
+Discharged man re-arrested on murder charge. (1964, December 31). The Straits Times, p. 4. Retrieved from NewspaperSG.
+
+Hwang, T. F. (1965, March 5). Jenny: Move by Madam Yeo to presume her ‘dead’. The Straits Times, p. 11. Retrieved from NewspaperSG.
+
+Josey, A. (2009). Cold-blooded murders. Singapore: Marshall Cavendish Editions.
+(Call no.: RSING 345.595702523 JOS)
+
+Page 36 miscellaneous column 1. (2002, June 6). Today, p. 36. Retrieved from NewspaperSG.
+
+She is dead and it was murder to get $400,000, jury told. (1965, May 18). The Straits Times, p. 11. Retrieved from NewspaperSG.
+
+Skin-dive bar girl: Murder probe now. (1963, September 6). The Straits Times, p. 6. Retrieved from NewspaperSG.
+
+Sunny Ang in the dock in Twin Sisters case. (1965, April 27). The Straits Times, p. 11. Retrieved from NewspaperSG.
+
+Sunny Ang was there when Cheok made out her will, says witness. (1965, April 28). The Straits Times, p. 9. Retrieved from NewspaperSG.
+
+Sunny found guilty, to hang. (1965, May 19). The Straits Times, p.1. Retrieved from NewspaperSG.
+
+That flipper – by man flown from England. (1965, May 8). The Straits Times, p. 11. Retrieved from NewspaperSG.
+
+**Mimi Wong**
+
+Davidson, B. (1973, July 24). Sheares rejects Mimi’s plea for mercy. The Straits Times, p. 1. Retrieved from NewspaperSG.
+
+Hwang, T. F. (1970, November 4). Nightclub waitress on murder trial collapses. The Straits Times, p. 15. Retrieved from NewspaperSG.
+
+Hwang, T. F. (1970, December 8). Death for Mimi and her husband. The Straits Times, p. 1. Retrieved from NewspaperSG.
+
+Hwang, T. F. (1972, July 23). Appeal of Mimi Wong and her husband (both under death sentence) is dismissed. The Straits Times, p. 4. Retrieved from NewspaperSG.
+
+Elengovan. (1970, November 7). ‘She cried out to me she wanted to die’. The Singapore Herald, p. 13. Retrieved from NewspaperSG.
+
+‘I heard Mother screaming in pain’. (1970, November 6). The Singapore Herald, p. 13. Retrieved from NewspaperSG.
+
+Latest. (1973, March 16). The Straits Times, p. 1. Retrieved from NewspaperSG.
+
+Mimi and husband go to the gallows. (1973, July 28). The Straits Times, p. 7. Retrieved from NewspaperSG.
+
+Mimi struck Mrs. W with ‘glimmering object’ says husband. (1970, November 27). The Straits Times, p. 19. Retrieved from NewspaperSG.
+
+‘Mimi was of sound mind on day of killing’. (1970, December 3). The Straits Times, p. 11. Retrieved from NewspaperSG.
+
+Mimi Wong’s execution was a grim ‘first’. (1979, December 23). The Straits Times, p. 7. Retrieved from NewspaperSG.
+
+Mimi’s hubby refused leave to appeal. (1973, February 2). New Nation, p. 3. Retrieved from NewspaperSG.
+
+Seah, L. (2002, May 6). Chilling, but little bite. The Straits Times, p. 6. Retrieved from NewspaperSG.
+
+Singh, P. (1978, February 26). The quadrangle of love – and death. The Straits Times, p. 11. Retrieved from NewspaperSG.
+
+Chao, T. Z. (1990, September 5). Solving bathroom murder. The New Paper, p. 10. Retrieved from NewspaperSG.
+
+Star witness Chieko proved the killing: Seow. (1970, December 8). The Straits Times, p. 17. Retrieved from NewspaperSG.
+
+Wee, B. H., & Mohan, B. (1973, July 27). Mimi Wong and husband hanged. New Nation, p. 1. Retrieved from NewspaperSG.
+
+**Adrian Lim**
+
+Adrian Lim book sets sales record. (1989, June 22). The New Paper, p. 8. Retrieved from NewspaperSG.
+
+Adrian Lim story to be basis of $1.7 m film. (1990, November 14). The Straits Times, p. 30. Retrieved from NewspaperSG.
+
+Davidson, B. & Chua, M. (1983, April 5). I killed to get even with the world. The Straits Times, p. 12. Retrieved from NewspaperSG.
+
+But it’s one small step forward. (1991, November 30). The Straits Times, p. 6. Retrieved from NewspaperSG.
+
+Chia, H. (1989, March 15). Murder. They wrote. The Straits Times, p. 1. Retrieved from NewspaperSG.
+
+Goh, J. (1991, April 13). Singapore’s first English feature film hits snags. The Straits Times, p. 22. Retrieved from NewspaperSG.
+
+Goh, J. (1991, November 25). Medium Rare – high on local colour, low on suspense. The Straits Times, p. 24. Retrieved from NewspaperSG.
+
+Infocomm Media Development Authority. (2015, March). List of Singapore movies (1991–2016). Retrieved April 1, 2017 from Info-communications Media Development Authority website.
+
+John, A. (2016). Unholy trinity: The Adrian Lim ‘ritual’ child killings. Singapore: Marshall Cavendish Editions. (Call no.: RSING 364.1523095957 JOH)
+
+Kerk, C. (1997, April 26). Adrian Lim revisited. The Business Times, p. 20. Retrieved from NewspaperSG.
+
+Kutty, N. G. (1989). Adrian Lim’s beastly killings. Singapore: Aequitas Management Consultants. (Call no.: RCLOS 364.1523095957 KUT)
+
+Sit, Y. F. (1989). I confess. Singapore: Heinemann Asia. (Call no.: RSING 364.1523095957 SIT)
+
+Sit, Y. F. (1989). Was Adrian Lim mad? Singapore: Heinemann Asia. (Call no.: RSING 345.5957067 SIT)
+Tan, S. (1997, March 21). 3 homegrown films to be screened commercially. The Straits Times, p. 7. Retrieved from NewspaperSG.
+
+Yeo, S. F. (2013). Murder most foul: Strangled, poisoned and dismembered in Singapore (pp. 115–126). Singapore: Marshall Cavendish Editions. (Call no.: RSING 364.1523095957 YEO)
+
+**John Martin Scripps**
+
+Body in bag picked up from sea off Clifford Pier. (1995, April 2). The Straits Times, p. 3. Retrieved from NewspaperSG.
+
+Body parts: Anatomy of a killing. (1995, November 12). The Straits Times, p. 12. Retrieved from NewspaperSG.
+
+Grisly finds near the pier. (1995, April 5). The New Paper, p. 6. Retrieved from NewspaperSG.
+
+Guilty as charged: John Martin Scripps befriended tourists, then butchered them. (2016, May 16). The Straits Times. Retrieved from Factiva via NLB’s eResources website.
+
+Lim, Y. (1995, March 30). Second time on the run. The New Paper, p. 2. Retrieved from NewspaperSG.
+
+Martin files appeal against conviction. (1995, November 17). The Straits Times, p. 41. Retrieved from NewspaperSG.
+
+Miller, B. (1995, November 11). Martin’s last ‘Hello’ then off to date with death. The New Paper, p. 12. Retrieved from NewspaperSG.
+
+Tan, O. B. (1996, March 10). ‘Body parts’ murderer will not petition for presidential pardon. The Straits Times, p. 29. Retrieved from NewspaperSG.
+
+Tan, O. B. (1995, March 30). Accused in South African murder case jailed for drug possession in London. The Straits Times, p. 3. Retrieved from NewspaperSG.
+
+Tan, O. B. (1995, October 5). Martin: I hit Lowe, but friend disposed of body. The Straits Times, p. 37. Retrieved from NewspaperSG.
+
+Tan, O. B. (1996, April 20). Martin hanged, leaving behind mystery over another ‘victim’. The Straits Times, p. 25. Retrieved from NewspaperSG.
+
+Wanted in 3 continents… (1995, March 30). The New Paper, p. 2. Retrieved from NewspaperSG.
+
+What his mum says. (1995, November 13). The New Paper, p. 5. Retrieved from NewspaperSG.
+
+Who is John Martin? (1995, November 12). The Straits Times, p. 13. Retrieved from NewspaperSG.
+
+#### **NOTES**
+
+[^1]:Singapore. The statutes of the Republic of Singapore. (2008 Rev. ed.). Penal Code Act (Cap. 224, p. 124). Singapore: (s.n.). (Call no.: RCLOS 348.5957 SIN) 
+
+[^2]:Yong, C. (2016, December 9). Most S’poreans support death penalty, but less so for certain cases: Survey. The Straits Times. Retrieved from Factiva via NLB’s eResources website.
+
+[^3]:Singapore Police Force. (2016, September). Annual crime brief 2015. (pp. 1, 5). Retrieved from Singapore Police Force website; Singapore Police Force. (2015). Singapore Police Force Annual 2015 (pp. 83–84). Retrieved from Singapore Police Force website; Nokman, F. S. (2016, December 20). Crime index goes down, but perception of safety remains low. Retrieved from New Straits Times website; United States crime rates 1960 – 2015. (2015). Retrieved from Disaster Center website. 
+ 
+[^4]:Chia, P., & Sam, J. (1965, May 18). Jury told: Dismiss this fallacy completely from your minds. The Straits Times, p. 9. Retrieved from NewspaperSG. 
+
+[^5]:In court, Adrian revealed that he had up to as many as 40 “holy wives” whom he had married in front of the altar at his flat, with the altar idols as the only witnesses to the matrimonial ceremony. 
+
+[^6]:The 62-day Pulau Senang trial in 1963 holds the record for being the longest trial in Singapore. Eighteen among the 59 criminals charged were convicted of rioting and arson at the experimental island penal colony and sentenced to be hanged. 
+
+[^7]:Yaw, Y. C. (1995, October 4). ‘This is a perfect instrument for deboning’. The New Paper, p. 10. Retrieved from NewspaperSG
