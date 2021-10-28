@@ -222,11 +222,11 @@ The hybridisation of a plant involves two steps. First, pollination takes place 
 [^10]:Burkill, H. M. (1963). [*The role of the Singapore Botanic Gardens in the development of Orchid Hybrids*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4979967) (p. 14). Singapore: Straits Times Press. (Call no.: RCLOS 584.15 BUR-[RFL])
 [^11]:Lim, H. K. (1981, July 23). [“Miss Joaquim fails to greet nephew at gates”](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19810723-1.2.30). *The Straits Times*, p. 8. Retrieved from NewspaperSG.
 [^12]:Teoh, E. S. (1982). [*A joy forever: Vanda Miss Joaquim Singapore’s national flower*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=3520904) (p. 31) Singapore: Times Books International. (Call no.: RSING 584.15095957 TEO)
-[^13]:
-[^14]:
-[^15]:
-[^16]:
-[^17]:
+[^13]:The question of the male parent was only resolved in 2015 by Dr Gillian Khew who determined that it was *Vanda Hookeriana*. See Feng, Z. (2015, July 10). [Vanda Miss Joaquim mystery solved](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20150710-1.2.61.9). *The Straits Times*, p. 14.  Retrieved from NewspaperSG.
+[^14]:Galstaun, A. C. (1982). Letter to the editor. [*Malayan Orchid Review*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5042537), 16, pp. 52–53. Singapore: Straits Times Press. (Call no.: RSING 584.15 MOR)
+[^15]:Goh, C. J. (1982). Dr Goh replies. [*Malayan Orchid Review*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5042537), 16, pp. 53–54. Singapore: Straits Times Press. (Call no.: RSING 584.15 MOR) [Note: The editor of the journal was Teoh Eng Soon.] 
+[^16]:Wright, N. H. (2000). The origins of Vanda Miss Joaquim. [*Malayan Orchid Review*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5042537), 34, pp. 70–73. (Call no.: RSING 584.15 MOR)
+[^17]:[Teoh](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=3520904), (1982), p. 32; Yam T. W., Arditti, J., & Hew C. S. (2004). The origin of Vanda Miss Joaquim. [Malayan Orchid Review](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5042537), 38, p. 93. (Call no.: RSING 584.15 MOR)
 [^18]:
 [^19]:
 [^20]:
@@ -240,3 +240,21 @@ The hybridisation of a plant involves two steps. First, pollination takes place 
 [^28]:
 [^29]:
 [^30]:
+
+
+
+
+
+Wright, N. H. (2003). Respected citizens: The history of Armenians in Singapore and Malaysia (p. 150). Middle Park, Vic.: Amassia Publishing. (Call no.: RSING 305.891992 WRI)
+Wright, N. H. (2004). A re-examination of the origins of Vanda Miss Joaquim. Orchid Review, 112 (1259), pp. 292–298; Human Flower Project. (2005, August). Miss Agnes’s big little secret. Retrieved from Human Flower Project website; Arditti, J., & Hew, S.H. (2005) Letter to the editor. The Orchid Review, 113 (1263), pp. 176–177.
+Hew, C.S., Yam, T.W., & Arditti, J. (2002). Biology of Vanda Miss Joaquim (pp. 222–224). Singapore: Singapore University Press. (Call no.: RSING 584.4095957 HEW)
+Hew, Yam & Arditti, 2002, p. 41.
+Hew, Yam & Arditti, 2002, p. 179; Miss Joaquim’s nephew coming for Flower Week. (1981, July 19). The Straits Times, p. 6. Retrieved from NewspaperSG.
+Hew, Yam & Arditti, 2002, p. 46.
+Yam, Arditti & Hew, 2004, p. 93; Hew, Yam & Arditti, 2002, p. 224.
+Hew, Yam & Arditti, 2002, p. 223; Arditti & Hew, 2005, p. 176.
+Arditti & Hew, 2005, p. 176.
+Arditti, J. (1992). Fundamentals of orchid biology (p. 43). New York: Wiley. (Not available in NLB holdings)
+Notes on monthly meetings. (1957). Malayan Orchid Review, 5 (2), p. 30. (Call no.: RSING 584.15 MOR); Yeoh, B.C. (1959). Kinta weed. Malayan Orchid Review, 5, p. 81. (Call no.: RSING 584.15 MOR)
+Citing Yeoh Bok Choon’s List of Malayan Hybrids, 1963, p. v, which mentioned that of 62 individual breeders, 31 produced only one hybrid.
+Arditti & Hew, 2005, p. 177. 
