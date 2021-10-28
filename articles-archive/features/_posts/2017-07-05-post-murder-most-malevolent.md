@@ -213,25 +213,33 @@ The murder case was documented in the book Body Parts: A British Serial Killer i
 
 To read up on these cases and others, please refer to the books listed below at the Lee Kong Chian Reference Library at the National Library Building and branches of public libraries.
 
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Vol-13-issue-2/murder-most-malevolent/sharon.png">
+	<b>Sharon Teng</b> is a Librarian with the National Library, Singapore. Her responsibilities include managing the library’s social sciences and humanities collection, developing content, and providing reference and research services.
+</div>
+
+<a href="/vol-13/issue-2/jul-sep-2017/"><center>Back to Issue</center></a>
+
 #### **REFERENCES**
 
-Campbell, J. H., & DeNevi, D. (2004). Profilers: Leading investigators take you inside the criminal mind. Amherst, N.Y.: Prometheus Books. (Call no.: R 363.25 PRO)
+Campbell, J. H., & DeNevi, D. (2004). *[Profilers: Leading investigators take you inside the criminal mind](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12457641)*. Amherst, N.Y.: Prometheus Books. (Call no.: R 363.25 PRO)
 
-Holmes, R. M., & Holmes, S. T. (1996). Profiling violent crimes: An investigative tool. Thousand Oaks: Sage Publications. (Call no.: R 363.25 HOL)
+Holmes, R. M., & Holmes, S. T. (1996). *[Profiling violent crimes: An investigative tool](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7661205)*. Thousand Oaks: Sage Publications. (Call no.: R 363.25 HOL)
 
-Stone, M. (2009). The anatomy of evil. Amherst, N.Y.: Prometheus Books. (Call no.: R 364.3 STO)
+Stone, M. (2009). *[The anatomy of evil](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13214228)*. Amherst, N.Y.: Prometheus Books. (Call no.: R 364.3 STO)
 
 **Sunny Ang**
 
-Bargirl’s last dive – boatman. (1965, May 6). The Straits Times, p. 9. Retrieved from NewspaperSG.
+[Bargirl’s last dive – boatman](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19650506.2.69). (1965, May 6). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
 
-Chia, P., Sam, J., & Hwang, T. F. (1965, May 19). Judge: These links in the chain bind the accused tightly. The Straits Times, p. 9. Retrieved from NewspaperSG.
+Chia, P., Sam, J., & Hwang, T. F. (1965, May 19). [Judge: These links in the chain bind the accused tightly](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19650519-1.2.61). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
 
-Chia, P., Sam, J., & Hwang, T. F. (1965, May 19). First of the 16 links: ‘A powerful motive…’ The Straits Times, p. 10. Retrieved from NewspaperSG.
+Chia, P., Sam, J., & Hwang, T. F. (1965, May 19). [First of the 16 links: ‘A powerful motive…’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19650519.2.64) *The Straits Times*, p. 10. Retrieved from NewspaperSG.
 
-Discharged man re-arrested on murder charge. (1964, December 31). The Straits Times, p. 4. Retrieved from NewspaperSG.
+[Discharged man re-arrested on murder charge](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19641231.2.21). (1964, December 31). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
 
-Hwang, T. F. (1965, March 5). Jenny: Move by Madam Yeo to presume her ‘dead’. The Straits Times, p. 11. Retrieved from NewspaperSG.
+Hwang, T. F. (1965, March 5). Jenny: Move by Madam Yeo to presume her ‘dead’. *The Straits Times*, p. 11. Retrieved from NewspaperSG.
 
 Josey, A. (2009). Cold-blooded murders. Singapore: Marshall Cavendish Editions.
 (Call no.: RSING 345.595702523 JOS)
