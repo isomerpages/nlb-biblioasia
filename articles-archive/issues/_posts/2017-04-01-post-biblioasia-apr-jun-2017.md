@@ -5,10 +5,9 @@ date: 2020-01-01T00:00:00.000Z
 breadcrumb: Apr-Jun 2017
 permalink: /vol-13/issue-1/apr-jun-2017/
 ---
-<img src="/images/Vol-13-issue-1/vol13_iss1.JPG">  
-
 Charlie Chaplin's stopovers in Singapore, what it means to be Eurasian and Chinese puppet theatre are some of the highlights of this issue.
 
+<img src="/images/Vol-13-issue-1/vol13_iss1.JPG">  
 
 **[Director’s Note](/vol-13/issue-1/apr-jun-2017/directors-note)**
 
