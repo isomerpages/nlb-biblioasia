@@ -194,3 +194,18 @@ Joaquim was buried in Bukit Timah Cemetery, and when the grounds were acquired b
 <b>WHAT IS HYBRIDISATION?</b><br><br>
 The hybridisation of a plant involves two steps. First, pollination takes place during which pollen is transferred from the male flower to the female flower to create a seed. Second, germination occurs in which the seed develops into a plant. Whether a hybrid is artificial or natural depends on how the pollination occurred. If the transfer of pollen is done by a person, the resulting hybrid is termed “artificial”. If it is done by agents of pollination such as insects, birds or by the wind, it is termed “natural”.
 </div>
+<br>
+<div style="background-color: white;">
+<img src="/images/Vol-14-issue-1/blooming-lies/Blooming11.jpg" style="width: 100px; height: 100px;">
+<b>Dr Nadia Wright</b>, a retired teacher and now active historian, lives in Melbourne. She specialises in the colonial history of Singapore and Armenians in Southeast Asia. Her book, <i>William Farquhar and Singapore: Stepping Out from Raffles Shadow</i>, was published in May 2017.
+<br><br>
+<div style="background-color: white;">
+<img src="/images/Vol-14-issue-1/blooming-lies/Blooming12.jpg" style="width: 100px; height: 100px;">
+<b>Linda Locke</b> is a great grand-niece of Agnes Joaquim. She is a former advertising CEO and the co-author of the recently released children’s book: <i>Agnes and her Amazing Orchid</i>.
+<br><br>
+<div style="background-color: white;">
+<img src="/images/Vol-14-issue-1/blooming-lies/Blooming13.jpg" style="width: 100px; height: 100px;">
+<b>Harold Johnson</b>, is an orchid enthusiast. The second edition of his book with Nadia Wright entitled <i>Vanda Miss Joaquim: Singapore's National Flower & the Legacy of Agnes & Ridley</i> will be published in late 2018.
+</div>
+
+<a href="https://biblioasia.nlb.gov.sg/vol-14/issue-1/apr-jun-2018/"><center>Back to Issue</center></a>
