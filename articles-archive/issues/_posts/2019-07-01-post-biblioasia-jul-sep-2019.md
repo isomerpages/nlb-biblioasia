@@ -2,13 +2,12 @@
 layout: post
 title: BiblioAsia Jul-Sep 2019
 date: 2020-01-01T00:00:00.000Z
-breadcrumb: "Jul-Sep 2019"
+breadcrumb: Jul-Sep 2019
 permalink: /vol-15/issue-2/jul-sep-2019/
 ---
+The link between visual art and the written word in the work of Georgette Chen, the beginnings of contemporary art in Singapore and the exciting story of the Wilkes Expedition are explored in this issue.
 
 <img src="/images/Vol-15-issue-2/vol15_iss2.jpg">
-
-The link between visual art and the written word in the work of Georgette Chen, the beginnings of contemporary art in Singapore and the exciting story of the Wilkes Expedition are explored in this issue.
 
 **Director’s Note**
  
@@ -44,6 +43,3 @@ When the National Archives embarked on the declassification initiative to unlock
  
 **Oriental Emporium: The End of an Era**<br>
 The Emporium chain of department stores entered the scene when the retail market in Singapore was still in its infancy. *Kam Kit Geok* takes a closer look at a much-loved shopping icon.  [(PDF)](/files/pdf/vol-15/v15-issue2_Oriental.pdf)
- 
- 
-
