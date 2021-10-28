@@ -231,21 +231,14 @@ The hybridisation of a plant involves two steps. First, pollination takes place 
 [^19]:Wright, N. H. (2004). A re-examination of the origins of *Vanda* Miss Joaquim. *Orchid Review, 112* (1259), pp. 292–298; Human Flower Project. (2005, August). *Miss Agnes’s big little secret*. Retrieved from Human Flower Project website; Arditti, J., & Hew, S.H. (2005) Letter to the editor. *The Orchid Review*, 113 (1263), pp. 176–177.
 [^20]:Hew, C.S., Yam, T.W., & Arditti, J. (2002). [*Biology of Vanda Miss Joaquim*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11327703) (pp. 222–224). Singapore: Singapore University Press. (Call no.: RSING 584.4095957 HEW)
 [^21]:[Hew, Yam & Arditti](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11327703), 2002, p. 41.
-[^22]:[Hew, Yam & Arditti](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11327703), 2002, p. 179; [Miss Joaquim’s nephew coming for Flower Week](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19810719-1.2.29). (1981, July 19). The Straits Times, p. 6. Retrieved from NewspaperSG.
-[^23]:
-[^24]:
-[^25]:
-[^26]:
-[^27]:
-[^28]:
-[^29]:
+[^22]:[Hew, Yam & Arditti](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11327703), 2002, p. 179; [Miss Joaquim’s nephew coming for Flower Week](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19810719-1.2.29). (1981, July 19). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
+[^23]:[Hew, Yam & Arditti](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11327703), 2002, p. 46.
+[^24]:[Yam, Arditti & Hew](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5042537), 2004, p. 93; [Hew, Yam & Arditti](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11327703), 2002, p. 224.
+[^25]:[Hew, Yam & Arditti](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11327703), 2002, p. 223; Arditti & Hew, 2005, p. 176.
+[^26]:Arditti & Hew, 2005, p. 176.
+[^27]:Arditti, J. (1992). Fundamentals of orchid biology (p. 43). New York: Wiley. (Not available in NLB holdings)
+[^28]:Notes on monthly meetings. (1957). [*Malayan Orchid Review*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5042537), 5 (2), p. 30. (Call no.: RSING 584.15 MOR); Yeoh, B.C. (1959). Kinta weed. [*Malayan Orchid Review*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5042537), 5, p. 81. (Call no.: RSING 584.15 MOR)
+[^29]:Citing Yeoh Bok Choon’s *List of Malayan Hybrids*, 1963, p. v, which mentioned that of 62 individual breeders, 31 produced only one hybrid.
 [^30]:
 
-Hew, Yam & Arditti, 2002, p. 46.
-Yam, Arditti & Hew, 2004, p. 93; Hew, Yam & Arditti, 2002, p. 224.
-Hew, Yam & Arditti, 2002, p. 223; Arditti & Hew, 2005, p. 176.
-Arditti & Hew, 2005, p. 176.
-Arditti, J. (1992). Fundamentals of orchid biology (p. 43). New York: Wiley. (Not available in NLB holdings)
-Notes on monthly meetings. (1957). Malayan Orchid Review, 5 (2), p. 30. (Call no.: RSING 584.15 MOR); Yeoh, B.C. (1959). Kinta weed. Malayan Orchid Review, 5, p. 81. (Call no.: RSING 584.15 MOR)
-Citing Yeoh Bok Choon’s List of Malayan Hybrids, 1963, p. v, which mentioned that of 62 individual breeders, 31 produced only one hybrid.
 Arditti & Hew, 2005, p. 177.
