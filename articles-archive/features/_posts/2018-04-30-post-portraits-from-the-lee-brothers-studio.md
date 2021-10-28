@@ -6,12 +6,12 @@ layout: post
 ---
 #### **Gretchen Liu** casts the spotlight on the Lee Brothers Studio Collection. Comprising some 2,500 images, this is the largest single collection of photographic portraits in the National Archives of Singapore.
 
-<img src="/images/Vol-14-issue-1/portraits-from-lee-bros-studio/Portraits1.JPG">
+<img style="width: 380px; height: 400px;" src="/images/Vol-14-issue-1/portraits-from-lee-bros-studio/Portraits1.JPG">
 <div style="background-color: white;">Lee Brothers Studio at 54-8 Hill Street, 1910s. <i>Lee Brothers Studio Collection, courtesy of National Archives of Singapore.</i></div>
 
 Between 1910 and 1940, Lee Brothers Photographers was a well-known landmark along Hill Street. In the years before amateur photography became widespread, hundreds of its clients – the prospering and aspiring, the famous and unknown, Chinese, Indian, Malay and European, resident and visitor – climbed the wooden steps to the top floor of a shophouse at No. 58-4 in search of that small bit of immortality: the studio portrait.
 
-<img src="/images/Vol-14-issue-1/portraits-from-lee-bros-studio/Portraits2.JPG">
+<img style="width: 350px; height: 450px;" src="/images/Vol-14-issue-1/portraits-from-lee-bros-studio/Portraits2.JPG">
 <div style="background-color: white;">The interior of Lee Brothers Studio at 54-8 Hill Street, 1920s. <i>Lee Brothers Studio Collection, courtesy of National Archives of Singapore.</i></div>
 
 The brothers started their business in the three-storey shophouse located prominently at the corner of Hill Street and Loke Yew Street. The corner location was ideal because the additional windows provided the main source of illumination and kept exposure times to a minimum. Typical of Victorian photographers, the studio was equipped with decorative painted backdrops imported from Shanghai and Europe, and various props ranging from imitation masonry, drapery, potted plants and porcelain dogs to toys for children, rustic benches and handsome drawing room chairs.
@@ -24,7 +24,7 @@ Sharing the work behind the camera – adjusting the lens, inserting the treated
 
 Lee King Yan and Lee Poh Yan belonged to a large Cantonese family from the village of Siu Wong Nai Cheun (literally “Small Yellow Earth Village”) in Nam Hoi county, Guangdong province. According to family lineage records, the village was founded by Lee Shun Tsai from Zhejiang province in the 13th century.[^1]  From this village, members of the family ventured forth to operate more than a dozen photographic studios in Southeast Asia, including eight in Singapore.
 
-<img src="/images/Vol-14-issue-1/portraits-from-lee-bros-studio/Portraits3.JPG">
+<img style="width: 500px; height: 380px;" src="/images/Vol-14-issue-1/portraits-from-lee-bros-studio/Portraits3.JPG">
 <div style="background-color: white;">The Lee family with Poh Yan and King Yan standing third and fourth from the left respectively. <i>Marjorie Lau Collection, courtesy of National Archives of Singapore.</i></div>
 
 King Yan and Poh Yan, who were born in China, belonged to the 21st generation and learned photography from their father, Lee Tit Loon. In its early days, the art of photography was considered a trade secret. In some European cities, photography was a protected profession that no one who had not served as an apprentice could join.[^2] In the Lee family, it was the brothers and sons who handled the camera and processed the plates, while employees were engaged as retouchers, finishers and mounters.
