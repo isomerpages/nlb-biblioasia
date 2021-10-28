@@ -4,6 +4,8 @@ date: 2021-10-01
 permalink: /vol-17/issue-3/oct-dec-2021/
 layout: post
 ---
+It’s a bird! It’s a plane! It’s a history of the comics in Singapore in this issue’s cover story!  
+
 <img src="/images/vol-17-issue-3/vol17iss3.jpg">
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-3/oct-dec-2021/director-note">Director's Note</a>
