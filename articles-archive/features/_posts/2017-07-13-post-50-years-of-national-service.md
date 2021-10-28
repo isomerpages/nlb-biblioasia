@@ -50,3 +50,9 @@ Adapted from Jack Neo’s popular 2012 film, Ah Boys to Men, this coming-of-age 
 <br><br>
 <b>With pride we lead : 21 strategies to lead, excel and overcome as an NSF</b> (2015) [Legal Deposit Collection]<br>
 Author Victor Lim (using the moniker Vic Van Dam) shares his personal account of the National Service experience, including tips on how to excel as a soldier.</span>
+
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>WHAT IS THE LEGAL DEPOSIT?</b>
+<br><br>
+One of the statutory functions of the National Library Board Act is Legal Deposit. Under the act, all publishers, commercial or otherwise, are required by law to deposit two copies of every work published in Singapore with the National Library within four weeks of its publication. The Legal Deposit function ensures that Singapore’s published heritage is preserved for future generations. Legal Deposit also acts as a repository for published materials, providing exposure via the online catalogue, PublicationSG: catalogue.nlb.gov.sg/publicationsg. For more information, please visit www.nlb.gov.sg/Deposit.</span>
+
+#### **NOTES**
