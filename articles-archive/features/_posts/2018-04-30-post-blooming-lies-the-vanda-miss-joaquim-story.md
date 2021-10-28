@@ -245,26 +245,12 @@ The hybridisation of a plant involves two steps. First, pollination takes place 
 [^33]:[Hew, Yam & Arditti](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11327703), 2002, pp. 49, 52.
 [^34]:Claims that a hybrid found growing in garden in Johor Baru is evidence that *Vanda* Miss Joaquim is a natural hybrid are misleading. That hybrid was not a *Vanda* Miss Joaquim.  Although the parent plants grew in the garden, the bee did not create the orchid from them, instead it cross-pollinated *Vanda Hookeriana* and *Vanda* Miss Joaquim. 
 [^35]:Ridley, H.N. *Various Notes Zoological and Botanical: Fertilization Notes*, Australian Joint Copying Project, M. 773, reel 44, frame 336–7.
-[^36]:Ridley, H.N.  Notebook 1891–1896 Fertilization Notes, AJCP, M. 771, reel 42, frame 255. Also see Ridley, H.N. (1905, July). On the fertilization of the grammatophyllum. Journal of the Straits Branch of the Royal Asiatic Society, 44, pp. 228–229. Retrieved from JSTOR via NLB’s eResources website.
-[^37]:
-[^38]:
-[^39]:
-[^40]:
-[^41]:
-[^42]:
-[^43]:
-[^44]:
-
- 
-
-
-
-
-Arditti, J. (2005, April 26). You say orchid, I say Joaquim. Retrieved from dsng.net website.
-Johnson, H. J. (2004). Vanda Miss Joaquim. Malayan Orchid Review, 38, pp. 99–107. (Call no.: RSING 584.15 MOR) [Note: Linda Locke added more to that list of literature in 2017].
-Holttum, R. E. (1928). Vanda Miss Joaquim. Malayan Naturalist, 2 (1), pp. 22, 24. (Call no.: RRARE 574.9595 MAL; Microfilm no.: NL 6582)
-Holttum, R. E. (1972). And comments. The Orchid Review, 80 (951), p. 168. (Not available in NLB holdings)
-Purseglove, J. W. (1955, December 10). The Ridley Centennial, mss.
-Arditti, J., & Hew, C.S. (2007). The origins of Vanda Miss Joaquim (pp. 290-291). In Orchid Biology. Reviews and Perspectives, IX. (Not available in NLB holdings)
-Johnson, H., & Wright, N. (2008). Vanda Miss Joaquim: Singapore’s national flower & the legacy of Agnes & Ridley. Singapore: Suntree Media. {Call no.: RSING 635.9344096957 JOH)
-Zaccheus. F. M. (2016, September 7). Vanda Miss Joaquim’s namesake gets official credit as creator. The Straits Times, p. 4. Retrieved from NewspaperSG.
+[^36]:Ridley, H.N.  *Notebook 1891–1896 Fertilization Notes*, AJCP, M. 771, reel 42, frame 255. Also see Ridley, H.N. (1905, July). On the fertilization of the grammatophyllum. *Journal of the Straits Branch of the Royal Asiatic Society*, 44, pp. 228–229. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
+[^37]:Arditti, J. (2005, April 26). *You say orchid, I say Joaquim*. Retrieved from dsng.net website.
+[^38]:Johnson, H. J. (2004). Vanda Miss Joaquim. [*Malayan Orchid Review*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5042537)*, 38*, pp. 99–107. (Call no.: RSING 584.15 MOR) [Note: Linda Locke added more to that list of literature in 2017].
+[^39]:Holttum, R. E. (1928). Vanda Miss Joaquim. [*Malayan Naturalist*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5042530), 2 (1), pp. 22, 24. (Call no.: RRARE 574.9595 MAL; Microfilm no.: NL 6582)
+[^40]:Holttum, R. E. (1972). And comments. *The Orchid Review, 80* (951), p. 168. (Not available in NLB holdings)
+[^41]:Purseglove, J. W. (1955, December 10). *The Ridley Centennial*, mss.
+[^42]:Arditti, J., & Hew, C.S. (2007). The origins of Vanda Miss Joaquim (pp. 290-291). In *Orchid Biology. Reviews and Perspectives, IX*. (Not available in NLB holdings)
+[^43]:Johnson, H., & Wright, N. (2008). [*Vanda Miss Joaquim: Singapore’s national flower & the legacy of Agnes & Ridley*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13046843). Singapore: Suntree Media. {Call no.: RSING 635.9344096957 JOH)
+[^44]:Zaccheus. F. M. (2016, September 7). [Vanda Miss Joaquim’s namesake gets official credit as creator](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20160907-1.2.8.3). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
