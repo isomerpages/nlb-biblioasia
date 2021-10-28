@@ -2,13 +2,12 @@
 layout: post
 title: BiblioAsia Oct-Dec 2017
 date: 2020-01-01T00:00:00.000Z
-breadcrumb: "Oct-Dec 2017"
+breadcrumb: Oct-Dec 2017
 permalink: /vol-13/issue-3/oct-dec-2017/
 ---
+Making their mark in black and white, the Chettiars of Market Street and the contribution of the Scots in Singapore are some of the highlights of this issue.
 
 <img src="/images/Vol-13-issue-3/vol13_iss3.JPG">  
-
-Making their mark in black and white, the Chettiars of Market Street and the contribution of the Scots in Singapore are some of the highlights of this issue.
 
 **Director’s Note**
 
@@ -47,4 +46,3 @@ Traditional Chinese medicine in Singapore has a history that goes back to more t
 
 **The Way We Were: Fashion through the Decades** <br>
 Singapore has emerged as a leading Asian fashion capital in recent years. *Zoe Yeo* tracks its evolution through fashion publications from the Legal Deposit Collection. [(PDF)](/files/pdf/vol-13/v13-issue3_Fashion.pdf)
-
