@@ -61,7 +61,7 @@ About a month before Cheok’s disappearance, Ang had signed up his girlfriend f
 
 Three days after Cheok’s disappearance, Ang informed Edward Lumley and Sons that Cheok had been in a “tragic accident”. On 14 October, Edward Lumley received a lawyer’s letter informing them that Ang’s mother, Madam Yeo Bee Neo, was the sole executor of Cheok’s will. Ang also made efforts to hasten the coroner’s inquiry into Cheok’s disappearance and seemed to be in a great hurry to have her death confirmed for the purpose of claiming against her insurance policies.
 
-<div style="background-color: white;"><img src="/images/Vol-13-issue-2/murder-most-malevolent/03_murder.jpg">(Top) The straits of Pulau Dua (Sisters’ Islands) where Jenny Cheok Cheng Kid was murdered at around 5 pm on 27 August 1963. Photo taken by Ria Tan in August 2008. Courtesy of WildSingapore. (Above) Sunny Ang and his mother Madam Yeo Bee Neo (who was sole executor of the deceased’s will) tried to hasten the coroner’s inquiry into concluding that Jenny Cheok had drowned so that an insurance claim could be filed. <i>The Straits Times, 5 March 1965, p.11.</i></div>
+<div style="background-color: white;"><img style="width:500px" src="/images/Vol-13-issue-2/murder-most-malevolent/03_murder.png">(Top) The straits of Pulau Dua (Sisters’ Islands) where Jenny Cheok Cheng Kid was murdered at around 5 pm on 27 August 1963. Photo taken by Ria Tan in August 2008. Courtesy of WildSingapore. (Above) Sunny Ang and his mother Madam Yeo Bee Neo (who was sole executor of the deceased’s will) tried to hasten the coroner’s inquiry into concluding that Jenny Cheok had drowned so that an insurance claim could be filed. <i>The Straits Times, 5 March 1965, p.11.</i></div>
 
 Ang was arrested on 21 December 1964 and initially charged with Cheok’s murder the following day, but was given a discharge not amounting to an acquittal on 30 December after his lawyer, Punch Coomaraswamy, argued that Ang should not be kept in remand while waiting for the prosecution to set a date for the preliminary hearing. About an hour after his discharge, however, Ang was again charged for the same offence and remanded in Outram Prison.
 
@@ -76,3 +76,81 @@ The Sunny Ang murder case was the first tried in Singapore and Malaysia that was
 In 1979, Harvesters Film Distribution and Production Pte Ltd announced that the Sunny Ang murder was slated to be made into a Mandarin film estimated to cost $700,000. The actual names of the key people involved in the case would be changed to avoid any legalities. The case was also featured in an episode of the 13-part *True Files*, a docudrama produced by Mediacorp that reenacted high profile crimes of the last five decades, and telecast on 6 June 2002.
 
 #### **Mimi Wong: A Jealous Lover**
+
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>When:</b> 6 January 1970, 9.30 pm
+<br>
+<b>Crime scene:</b> Bathroom of a Jalan Sea View semi-detached house<br>
+<b>The accused:</b> Wong Weng Siu alias Mimi Wong, aged 34, and her husband, Sim Woh Kum alias Sim Wor Kum, aged 40<br>
+<b>The victim:</b> Ayako Watanabe, aged 33</span>
+
+By the time Mimi Wong was 14, she was already working as a packer at a factory in Neil Road. She met Sim Woh Kum, then 17 years old and a factory worker, at a picnic and they soon became a couple.
+
+Wong and Sim got married in 1958 when she was only 19. Raised by her stepmother, Wong had been bullied and beaten as a young girl, but after her marriage, she became the aggressive party: she was reported to have physically abused her husband and her mother-in-law on several occasions.
+
+After Sim lost his job, Wong became the sole breadwinner, supporting her husband and two sons. In 1967, she started a new job as a towel girl at a Pasir Panjang Road bar and became a waitress soon after. She later worked as a bargirl, supplementing her income as a hostess and social escort at night.
+
+In 1966, Japanese mechanical engineer Hiroshi Watanabe was posted to Singapore for work. He met Wong in October that year when she was working as a bargirl at the Flamingo Nightclub at Kim Seng Road. They became intimate soon after and Wong became Hiroshi’s mistress in mid-1969, by which time she had been separated from her husband. Wong and Hiroshi first stayed in a rented room in Alexandra Road before moving to a house in Everitt Road.
+
+In September 1969, Hiroshi informed Wong that his wife, Ayako, and their three children would be joining him in Singapore. Wong was enraged by this and threatened to harm his family. Hiroshi’s family arrived on 23 December 1969 and moved into a house in Jalan Sea View. The next day, Hiroshi told Ayako about his relationship with Wong. He even took his wife and children to meet Wong on Christmas Day. Wong became extremely agitated as she feared that Hiroshi would put an end to their relationship now that his family was here. Indeed, Hiroshi had told his wife that he was making efforts to distance himself from Wong but was forced to proceed with caution due to Wong’s fiery temper.
+
+Wong decided to hatch a plan with her estranged husband, asking him to help in her plot to murder Ayako. Four days before the deed, Wong got together a tin of toilet cleaning liquid, a knife and a pair of black gloves. At 9.30 pm on the night of 6 January 1970, Wong and Sim went to the Jalan Sea View house. Sim pretended to be a workman who had come to repair a broken bathroom basin. When all three were standing near the bathroom on the second storey, Sim threw the cleaning liquid into Ayako’s eyes, temporarily blinding her. Wong then stabbed Ayako repeatedly with the knife and fled the scene with Sim.
+
+When Hiroshi returned home at 10.30 pm after his night shift, he discovered his slain wife lying in a pool of blood in the bathroom, with his three children crying outside. According to his nine-year-old daughter, Chieko, their mother was attacked by Wong and an unknown man. Chieko had witnessed Sim and Wong manhandling her mother while she was on the bathroom floor, with blood drenching her chest.
+
+Ayako was found to have a total of nine wounds: one on the right side of her neck that had severed the jugular vein, and another in her stomach that had pierced her aorta. Ayako also suffered defensive wounds on her right hand, with finger cuts indicating that she had fought off her assailant.
+
+Sim and Wong were arrested on 7 and 8 January 1970 respectively after they were singled out by Chieko at an identification parade. Their joint trial, which began on 2 November the same year, was presided by Justice Tan Ah Tah and Justice Choor Singh. N. C. Goho and John Tan Chor-Yong were assigned by the Supreme Court as Wong’s and Sim’s defence lawyers respectively. Then Solicitor-General Francis Seow was the lead prosecutor.
+
+<div style="background-color: white;"><img src="/images/Vol-13-issue-2/murder-most-malevolent/04_murder.png">Mimi Wong and her husband Sim Woh Kum were sentenced to death on 7 December 1970 for the murder of Ayako Watanabe. Wong was the mistress of the Japanese woman’s husband. <i>The Straits Times, 8 December 1970, p.</i></div>
+
+During the trial, Wong pushed the blame entirely on Sim for Ayako’s murder, confessing only to slapping and shoving the victim but not stabbing her. Sim was vehement in his protest that it was Wong who had masterminded the entire heinous plot and stabbed the victim repeatedly. After a marathon 26-day trial, both Wong and Sim were convicted of killing Ayako, and sentenced to death on 7 December 1970.
+
+The pair made three rounds of appeals between 1972 and 1973 to have their death sentences commuted to life imprisonment, but were unsuccessful. The couple was hanged at dawn on 27 July 1973 at Changi Prison, after a 32-month stay of execution. Wong became the first woman to be sentenced to death in post-Independence Singapore. Wong and Sim were also the first couple in Singapore to be jointly executed for murder.
+
+The Mimi Wong murder case has been featured in three books on true Singapore crimes: *Sisters in Crime* (1992) by journalist Sumiko Tan; *Murder is My Business: Medical Investigations into Crime* (1999), a book co-written by the late forensic pathologist, Chao Tze Cheng and former journalist Audrey Perera; and *Guilty as Charged: 25 Crimes That Have Shaken Singapore Since 1965* (2015).
+
+The case was also featured in episode two of *True Files*, which was shown on Channel 5 on 30 April 2002.
+
+#### **Adrian Lim: The Ritual Child Murders**
+
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>When:</b> 25 January 1981 (Agnes’ murder) and 6 February 1981 (Ghazali’s murder)<br>
+<b>Crime scene:</b> A seventh-storey flat in Block 12, Toa Payoh Lorong 7<br>
+<b>The accused:</b> Adrian Lim, aged 46; Catherine Tan Mui Choo, aged 32; Hoe Kah Hong, aged 33<br>
+<b>The victims:</b> Agnes Ng Siew Heok, aged 9; Ghazali bin Marzuki, aged 10</span>
+
+The Adrian Lim murder case is considered one of Singapore’s most infamous and abominable, involving three cold-blooded killers, bizarre occult practices, blood sacrifices, sexual perversion, electric shock torture, consumption of human and animal blood as well as the ritual killings of two children.
+
+Adrian Lim was the eldest son from a middle-class family. A divorced father of two, he was a self-proclaimed medium who had developed a deep interest in the occult since his teenage years. Lim also read extensively on Hinduism, Buddhism and Christianity. Over time, he became the consummate confidence trickster, preying on desperate, emotionally troubled and gullible women seeking help − in return for money and sex.
+
+Catherine Tan Mui Choo, then 18 years old, was a bargirl working at Champagne Bar in Anson Road when she met Lim. Depressed over family problems, Tan had initially sought Lim’s help in reading her fortune. They soon developed an intimate relationship, with Tan supporting her boyfriend with her earnings from prostitution and from her night job as a lounge hostess.
+
+Between 1976 and 1978, Lim and Tan got together to perform risqué striptease acts at various nightclubs in Singapore, Kuala Lumpur, Ipoh and Penang. Tan married Adrian on 11 June 1977, his first wife having divorced him a year earlier. Their relationship both before and after marriage was an unhappy one, with Tan having to endure frequent beatings, electric shock treatments and the indignity of her husband’s promiscuity.
+
+Into this relationship entered a third party: Hoe Kah Hong. She came from an impoverished family and had been illtreated by her own family while growing up. Hoe met Lim in 1979 while accompanying her mother and sister for a consultation. Deluded by Lim’s lies that she was possessed by evil spirits, Hoe ended up as one of his “holy” wives[^5] even though she was already married, and went to live with Lim and Tan in their Toa Payoh flat.
+
+On 7 January 1980, Lim lured Hoe’s husband, Benson Low Ngak Hua, to his flat and electrocuted him to death, casting the blame on an evil spirit residing in Hoe. Depressed after her husband’s death, Hoe began hearing voices and hallucinating, and soon developed suicidal tendencies; she was later diagnosed as suffering from schizophrenia. Hoe also endured physical assaults from both Lim and Tan, including electric shock treatments.
+
+On 7 November 1980, Lim was accused of raping a part-time cosmetics salesgirl and beautician, Lucy Lau Kok Huat. He was arrested, only to be later released on bail. Furious at being called up for investigation by the police and asked to report fortnightly to the Toa Payoh Police Station to extend his bail, Lim decided to kill innocent children out of revenge. His motive (or so he claimed) was to confuse the police and divert their attention from the rape allegation.
+
+His first victim was Agnes Ng Siew Heok, a Primary Three student and the youngest in a family of nine children. Her body was found in a luggage left on the ground floor lift landing at Block 11, Toa Payoh Lorong 7, on 25 January 1981. The autopsy report later revealed that she had been sexually assaulted before being suffocated.
+
+The next victim was Ghazali bin Marzuki, a Primary Four student and the eldest in a family of three children. On 7 February 1981, his body was discovered under a tree located between blocks 10 and 11 of Toa Payoh Lorong 7. He had died from drowning. This time, the police found drops of blood leading to Lim’s seven-storey flat in Block 12, with more blood discovered inside the flat. Tests later confirmed that the blood was of human origin.
+
+Inside the flat, the police found other incriminating evidence: pieces of paper with the children’s names and telephone numbers, strands of hair, books on witchcraft, newspaper clippings of human sacrifice, and bloodstained Hindu idols. Traces of blood (the same as Ghazali’s blood group) were also found on Lim’s shorts and handkerchief. The trio were arrested on 7 February 1981 and taken to CID headquarters for questioning. Under interrogation, Tan was the first to confess, followed by Lim and Hoe. They were charged in court with the murders of the two children within 24 hours of their arrest.
+
+<div style="background-color: white;"><img src="/images/Vol-13-issue-2/murder-most-malevolent/05_murder.png">(Top) Crowds outside the High Court during Adrian Lim’s 42-day trial. <i>All rights reserved, Kutty, N. G. (1989). Adrian Lim’s Beastly Killings (p. 151). Singapore: Aequitas Management Consultants. (Call no.: RCLOS 364.1523095957 KUT)</i><br>
+(Above) Adrian Lim claimed to have murdered two innocent children, Agnes Ng Siew Heok and Ghazali bin Marzuki, out of revenge for being accused of raping cosmetics salesgirl Lucy Lau Kok Huat. It was a flimsy excuse that made no sense, and was thrown out in court. <i>The Straits Times, 5 April 1983, p. 12</i></div>
+
+Lim and Tan were also charged with the murder of Hoe’s husband. The defence’s argument of diminished responsibility was rejected by both presiding judges, Justice Sinnathuray and Justice F. A. Chua. At the end of a lengthy trial that began on 27 March 1983, the trio were sentenced to death two months later on 25 May. Lim declined to appeal against his sentencing. Tan’s and Hoe’s three separate appeals were dismissed as they were deemed mentally sound at the time of the killings.
+
+All three were hanged at dawn on 25 November 1988, and their bodies cremated at Mount Vernon Crematorium.
+
+The shocking nature of the crime and the ensuing media reports saw hordes of Singaporeans packing the courtroom, beginning with the preliminary inquiry in September 1981 and throughout the trial held two years later in 1983. On verdict day, the crowds spilled over from the courtroom to the surroundings of the Supreme Court, requiring the police to cordon off the area. Cheers rang out when the verdict was announced. The trial, lasting a total of 41 days, was the second longest in Singapore.[^6]
+
+The Adrian Lim case received extensive coverage in print, with four books on the subject. Publishers raced to be the first to publish a book on the bizarre murders and two of them, *Unholy Trinity* by Alan John, and Adrian Lim’s *Beastly Killings* by N. G. Kutty, were published within two months of the hanging. Two other books, *I Confess*, and the sequel, *Was Adrian Lim Mad?*, both by Sit Yin Fong, followed soon after. The story also merited inclusion in a 2013 book compilation of the most vicious murders in Singapore by Yeo Suan Futt titled *Murder Most Foul: Strangled, Poisoned and Dismembered* in Singapore.
+
+<div style="background-color: white;"><img src="/images/Vol-13-issue-2/murder-most-malevolent/06_murder.png">Adrian Lim’s <i>Beastly Killings</i> by N.G. Kutty and <i>Unholy Trinity</i> by Alan John were published within two months of the hangings of the murderers. <i>All rights reserved, Aequitas Management Consultants, 1989, and Times Books International, 1989.</i></div>
+
+The case inspired two films: *Medium Rare* and *God or Dog*. Loosely based on the Adrian Lim ritual murders, *Medium Rare* was Singapore’s first full-length English-language film, and premiered in local theatres on 28 November 1991. A commercial flop, the movie received scathing reviews for its weak script, slow pacing and unprofessional editing. *God or Dog* first premiered at the 1997 Singapore International Film Festival before it was screened in local cinemas. The film was roundly criticised for its scenes of gratuitous sex and nudity.
+
+#### **John Martin Scripps: The Body Parts Murderer **
