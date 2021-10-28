@@ -6,9 +6,9 @@ layout: post
 ---
 #### Rudyard Kipling coined the phrase “East of Suez” to describe the exotic lands east of the Suez Canal. **Kennie Ting** goes back to a time when people were travellers, not tourists.
 
-“Ship me somewheres east of Suez, where the best is like the worst,
-Where there aren’t no Ten Commandments an’ a man can raise a thirst;
-For the temple-bells are callin’, an’ it’s there that I would be —
-By the old Moulmein Pagoda, looking lazy at the sea…”1
+“Ship me somewheres east of Suez, where the best is like the worst,<br>
+Where there aren’t no Ten Commandments an’ a man can raise a thirst;<br>
+For the temple-bells are callin’, an’ it’s there that I would be —<br>
+By the old Moulmein Pagoda, looking lazy at the sea…”[^1]
 
-– Rudyard Kipling, “Mandalay”
+<p align="right">– Rudyard Kipling, “Mandalay”</p>
