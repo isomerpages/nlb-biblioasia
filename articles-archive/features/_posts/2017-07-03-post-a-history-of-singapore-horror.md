@@ -54,3 +54,103 @@ Sadly, following Singapore’s expulsion from Malaysia in 1965, local culture un
 
 #### **Singaporean Horror (1980s–early 2000s)**
 
+Today, Catherine Lim is widely known as the author of social-realist short stories and feminist novels. Yet I believe she has another, more obscure role in our literary history as the Mother of Singaporean Horror. In her early writings, Lim documents the influence of the Chinese spiritual world on the psyche of modern Singaporeans. This helped to lay the groundwork for the rebirth of our horror culture, and its transformation from a specifically Malay milieu to a multiethnic one.
+
+Lim first referenced the uncanny in her short story collection Or Else the Lightning God and Other Stories (1980) with subtle mentions of hauntings in “Unseeing”, “The Bondmaid” and “Or Else the Lightning God”. She followed this with They Do Return… But Gently Lead Them Back (1983), possibly Singapore’s first English-language collection of horror stories. These tales range from ethnographic descriptions of traditional lore to more contemporary yarns. For instance, “A Boy Named Ah Mooi” explains how sons may be protected from demons by disguising them as girls, while “Lee Geok Chan” describes how a dead student mysteriously returns to complete her A-Level exams.
+
+Did Lim’s books directly lead to a boom in local horror? It is hard to say as later horror writers do not cite her as an influence. Nevertheless, by the late 1980s, countless volumes of ghost stories were flying off the presses, including Nicky Moey’s Sing a Song of Suspense (1988), Goh Sin Tub’s Ghosts of Singapore (1990), Lim Thean Soo’s Eleven Bizarre Tales (1990), Z. Y. Moo’s The Weird Diary of Walter Woo (1990), K. K. Seet’s Death Rites (1990), Lee Kok Liang’s Death is a Ceremony and Other Short Stories (1992), Rahmad bin Badri’s Ghostly Tales from Singapore (1993) and V. Mohan’s Spooky Tales from Singapore (1994). There was even a horror comic series: Souls (1989−1995), edited by K. Ramesh and Ramesh Kula.
+
+Undoubtedly, the biggest name of the era was Russell Lee. In 1989, he released The Almost Complete Collection of True Singapore Ghost Stories, a compilation of 50 supposedly real-life accounts of paranormal encounters gathered from ordinary Singaporeans. It was a major hit, selling an unprecedented 30,000 copies in just over two months.9 Lee cashed in on his success by transforming the standalone book into a series. Today, True Singapore Ghost Stories (1989–present) comprises 25 volumes, with the author aiming to reach Book 50 within his lifetime.10
+
+<div style="background-color: white;"><img src="/images/Vol-13-issue-2/history-of-singapore-horror/05_sghorror.png">Damien Sin has published four volumes of his Classic Singapore Horror Stories while Russell Lee’s True Singapore Ghost Stories is already into its 25th volume. Both series are huge hits with horror fans in Singapore. <i>All rights reserved, Angsana Books.</i></div>
+
+True Singapore Ghost Stories may be pulp literature, but it is also thoroughly representative of Singapore’s diversity. Its spirits hail from a range of cultural backgrounds: readers are transported from a tale of a pontianak in a banana tree to one of demon possession in a church.11
+
+Occasionally, hauntings even cross ethnic lines, such as when a Chinese boy is cursed by a Javanese bracelet.12 From Book 4 onwards, these accounts are interspersed with chapters titled “Russell Lee Investigates”, expounding on the afterlife in world religions, beliefs about vampires, cults, UFO sightings and other topics – arguably a form of transcultural education. Interestingly, Lee himself is an enigmatic and racially ambiguous figure: to protect his anonymity, he has routinely appeared at events in a black mask and gloves, obscuring even the colour of his skin.
+
+Another prolific author is Pugalenthii, aka Pugalenthi Sr, founder of the publishing company VJ Times. While editing the horror anthology Black Powers (1991), he decided to write a few stories himself. This marked the beginning of a formidable literary career: he now has dozens of titles to his name, including Evil Eyes (1992), Rakasa (1995), and the Nightmares series (1996−2003), a collection of ghost stories exploring various haunted locales in Singapore, including schools, hospitals, army camps and offices. According to the author, this last series was so popular it was used in Malaysia as an English teaching resource.13
+
+The most skilled Singaporean horror writer of the period, however, is probably the late Damien Sin. The four volumes of his Classic Singapore Horror Stories series (1992–2003) belong to the genre of horror, but display a firm command of plot and character as well as a deft hand in describing Singapore’s sordid underbelly. What stays with the reader, however, is the bloodcurdling viscerality of his tales, such as “Sealed with a Kiss”, in which the ghost of a sex worker literally rips out the heart of her pimp with her tongue.
+
+<div style="background-color: white;"><img style="width:300px" src="/images/Vol-13-issue-2/history-of-singapore-horror/06_sghorror.png">An illustration from the story “Suffer the Children” in Damien Sin’s Classic Singapore Horror Stories (Book 1) . <i>All rights reserved, Sin, D. (1992). Classic Singapore Horror Stories (p. 74). Singapore: Flame of the Forest. (Call no.: RSING S823 SIN)</i></div>
+
+Amidst these spooky tales, the genre of crime horror also flourished. In 1981, Singapore was stunned by news reports revealing that a spirit medium named Adrian Lim and his two wives had murdered two children in a bizarre act of human sacrifice. This atrocity provoked writers to create a number of popular nonfiction works about local crime, such as N.G. Kutty’s Adrian Lim’s Beastly Killings (1989), Alan John’s Unholy Trinity (1989) and Sumiko Tan’s True Crime (1990).
+
+These texts are important because they are linked to the rebirth of Singapore’s horror cinema, which had been dormant since the 1960s. It would take almost 25 years before the first Singaporean full-length horror movie in English would be released locally. This was Arthur Smith’s Medium Rare (1991), inspired by the Adrian Lim murders. Six years later, another cinematic version of the infamous murders appeared: Hugo Ng’s God or Dog (1997). Around the same time, Eric Khoo’s violent drama Mee Pok Man (1995) featured a script written by horror author Damien Sin: a very loose retelling of his short story “One Last Cold Kiss”.
+
+Supernatural horror found its way back into cinema soon after. Fittingly, the first work in this new wave of films was a tribute to the classic Malay horror movie: Djinn Ong’s Return to Pontianak (2001), in which a team of trekkers encounters a pontianak in an abandoned village. Kelvin Tong chose to explore Chinese horror in The Maid (女佣; 2006), depicting the ordeals of a Filipina domestic worker during the Hungry Ghost Festival. Even horror comedy made a comeback, with works like Tong’s Men in White (鬼啊！鬼 啊！; 2007), and Jack Neo and Boris Boo’s Where Got Ghost? (吓到笑; 2009).
+
+Television likewise embraced horror elements in its programming, even as Mediacorp’s early shows were inspired more by foreign horror traditions than our own. For instance, Channel 8 created Immortal Love (不老传说; 1997), a soap opera about 19th-century Singaporeans being transformed into jiangshi or Chinese vampires − creatures made famous by Hong Kong films rather than local folklore. At the same time, Channel 5 produced Shiver (1997), an anthology series patterned after the Western classic The Twilight Zone, featuring bizarre plots about time travel and werewolves.
+
+Homegrown horror would eventually take over the small screen too with Channel 5’s Incredible Tales (2005–2013), an anthology series based on local horror narratives. Mediacorp would also commission Esan Sivalingam’s TV movie Pulau Hantu (2008), which tackled ghost stories in army camps.
+
+Interestingly, Mediacorp writers of the 1990s had unwittingly foreseen a future trend in our horror scene. Singaporeans had a longing to be haunted, not only by their own ghosts, but also by the spectres of foreign lands.
+
+<div style="background-color: white;"><img src="/images/Vol-13-issue-2/history-of-singapore-horror/07_sghorror.png">(Above) Incredible Tales, an anthology series based on local horror narratives, was screened on Mediacorp’s Channel 5 from 2005 to 2013. Courtesy of Mediacorp.<br>
+(Top) Film still and movie poster from Kelvin Tong’s The Maid (女佣; 2006). The film is about a newly arrived Filipino domestic worker in Singapore who encounters supernatural forces during the Chinese seventh lunar month. Courtesy of Mediacorp.</i></div>
+
+#### **Cosmopolitan Horror (2000s–present)**
+
+In 2009, a new best-selling Singaporean horror series hit the shelves, marketed specifically at children. The Mr Midnight series (2009–present) is the work of James Lee, the pen name of Jim Aitchison – author of the raunchy Sarong Party Girl comic books (1994–96) as well as the lyrics of the National Day songs, “One People, One Nation, One Singapore” (1990) and “The Singapore Story” (1998).
+
+Surprisingly, the 109 volumes of Mr Midnight display few hallmarks of local horror. The protagonists may be Singaporean children, but their paranormal foes are the stuff of Hollywood: Egyptian mummies, killer clowns, murderous robots, haunted pumpkins, monstrous Santa Clauses and the like.
+
+One could claim this is due to Aitchison’s Australian origins. Yet the truth is, a number of recent Singaporean storytellers too have embraced Hollywood horror in their creations. S.M. De Silva’s Blood on the Moon (2010) describes a young Singaporean’s voyage to a city full of vampires and werewolves. Nicholas Yong’s Land of the Meat Munchers (2013) and Ryan Loh’s Dead Singapura (2016) envision our city in the midst of a zombie apocalypse. Angie Child’s The Regenerator (2015) deals with alien invaders in the future – the 23rd century no less.
+
+Among filmmakers, even Kelvin Tong, once so obsessed with Chinese ghosts, has now turned his sights to the West. His latest movie, The Faith of Anna Waters (2016), deals with an American family in Singapore confronting a Christian-style demonic suicide cult. A more complicated set of cultural issues surrounds Gilbert Chan’s 23:59 (2011) and Ghost Child (鬼仔; 2013). These two films draw on the classic local tropes of army camp ghost stories and toyol hauntings respectively. Yet both films feature all-Chinese casts − an offensive act of erasure given the original ethnic roots of these tales.
+
+So, are we in danger of losing our horror heritage? Probably not. There are still plenty of publications featuring local spooks, including Andrew Lim’s Tales from the Kopitiam series (2008–09), Verena Tay’s Spectre (2012) and the Spooked in Singapore series (2014–15), ostensibly written by “the team of exorcists from Ghostbuster Singapore”.
+
+The most ambitious of these books is probably Sandi Tan’s The Black Isle (2012). The novel retells the story of Singapore through the eyes of the spirit medium Cassandra, who exerts her dark influence on the island throughout its history, from the time of British colonialism and the Japanese Occupation to the Communist Emergency, Konfrontasi and Independence.
+
+Otto Fong’s Bitter Suites (2013) is noteworthy for both its originality and its gore: it features a curse on social media, condemning its victims to suffer the tortures of Chinese hell as depicted in Haw Par Villa. Younger readers may prefer Zed Yeo’s Half Ghost (2016), about a half-human, half-vampire boy named Nail who battles a pontianak in the underworld.
+
+Also of interest is Nuraliah Norasid’s The Gatekeeper (2017), winner of the Epigram Books Fiction Prize. The author cunningly combines the Medusa Greek mythology with Malay legends, yielding the tale of Ria, a serpent-haired girl who communes with jungle spirits.
+
+Ultimately, we may be able to sustain a horror culture that balances foreign and local monsters. To fathom this, one need only consider the phenomenon of Universal Studios Singapore’s Halloween Horror Nights, an annual festival of horror held since 2011. As might be expected of an American-owned entity, the event features actors playing creepy characters straight out of Hollywood: vampires, aliens, witches, serial killers and clowns. Interspersed with these are a few scares inspired by non-American cultures: Chinese fox fairies, Japan’s Suicide Forest and the Mexican Day of the Dead.
+
+However, amidst these imported ghouls are refreshingly local elements. Visitors witness zombie outbreaks in HDB blocks and hawker centres; they walk into recreations of Chinese funerals, Malay graveyards, World War II hospitals, army camps and MRT tracks; and they encounter familiar phantoms from our multiethnic culture – the hungry ghost, the *toyol* and the *pontianak*.
+
+<div style="background-color: white;"><img src="/images/Vol-13-issue-2/history-of-singapore-horror/08_sghorror.png">Universal Studios Singapore’s Halloween Horror Nights is an annual festival of horror held since 2011. The event features actors playing creepy characters straight out of Hollywood: vampires, aliens, witches, serial killers and clowns. Interspersed with these are a few scares inspired by non-American cultures, such as Chinese fox fairies, Japan’s Suicide Forest and the Mexican Day of the Dead. <i>Courtesy of Dejiki.com.</i></div>
+
+Perhaps the last word on our horror heritage should go to Alfian Sa’at. As an author who once scorned works like True Singapore Ghost Stories, he now confesses a new-found respect for these writings as a form of national literature; the oral folklores of multiple races meshing as one, teaching us superstitions and taboos from each other’s cultures and traditions.
+
+“One does not need to be Malay to know what a Pontianak is. One does not have to believe in any religion to entertain the possibility of demonic possession. One does not have to be a Taoist to know that it is somewhat taboo to mess around with Hungry Ghost offerings… [T]his circulation and borrowing of beliefs was hardly self-conscious, and a demonstration of a kind of grassroots interculturalism… If multiculturalism is about respecting other people’s beliefs, interculturalism goes further, to the point of adopting these beliefs. Even if this was about hedging bets against the spiritual world… Hantulah Singapura..[^14]
+
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Vol-13-issue-2/history-of-singapore-horror/NgYi-Sheng.png">
+	<b>Ng Yi-Sheng</b> is a poet, fictionist, playwright and journalist. His books include his debut poetry collection last boy, which won the Singapore Literature Prize in 2008, the bestselling "SQ21: Singapore Queers in the 21st Century", the movie novelisation "Eating Air" and the spoken word collection "Loud Poems for a Very Obliging Audience". He tweets and Instagrams at @yishkabob.
+</div>
+
+<a href="/vol-13/issue-2/jul-sep-2017/"><center>Back to Issue</center></a>
+
+#### **NOTES**
+
+[^1]:Abdullah Abdul Kadir. (2009). The Hikayat Abdullah (A. H. Hill, Trans.) (p. 146). Kuala Lumpur: The Malaysian Branch of the Royal Asiatic Society. (Call no.: RSEA 959.5 ABD). [Note: Abdullah claims that Colonel William Farquhar organised the expedition; later historians establish that it was almost certainly Raffles. See Hahn, E. (1968). Raffles of Singapore (pp. 463–464). London: Oxford University Press Kula Lumpur: University of Malaya Press. (Call no.: RCLOS 959.570210924 RAF)
+
+[^2]:Tigers. (1843, October 26). The Singapore Free Press and Mercantile Advertiser, p. 2. Retrieved from NewspaperSG.
+
+[^3]:Buckley, C.B. (1984). An anecdotal history of old times in Singapore, 1819–1867 (pp. 575–576). Singapore: Oxford University Press. (Call no.: RSING 959.57 BUS)
+
+[^4]:Singapore Press Holdings. (1953, February 19). Round-up of the three amusement parks – New World, Happy World, Great World: This ‘monster’ is one of the thrills of the Ghost Ride in the amusement park [Photograph]. Retrieved from National Archives of Singapore website.
+
+[^5]:Amir Muhammad. (2010). 120 Malay movies (p. 14). Petaling Jaya: Matahari Books. (Call no.: RSEA 791.430899923 AMI)
+
+[^6]:Chandy, G. (2000, April 23). Once an MP, now he’s a ‘JC’. *The New Paper*, p. 4. Retrieved from NewspaperSG.
+
+[^7]:Othman Wok. (1991). Malayan horror: Macabre tales of Singapore and Malaysia in the 50’s. Singapore: Heinemann Asia. (Call no.: RSING S899.2305 OTH)
+
+[^8]:Whitehead, A. (2013). Introduction to The Wayang at Eight Milestone: Stories & essays by Gregory Nalpon (p. xvii). Singapore: Epigram Books. (Not available in NLB holdings)
+
+[^9]:A runaway bestseller. (1989, December 6). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
+
+[^10]:Sukmawati Umar. (2015, October 9). Inspiring chills at Halloween Horror Nights. The New Paper. Retrieved from The New Paper website.
+
+[^11]:Lee, R. (1992). The almost complete collection of true Singapore ghost stories (Book 2) (pp. 20–23). Singapore: Flame of the Forest. (Call no.: RSING LEE)
+
+[^12]:Lee, R. (1994). The almost complete collection of true Singapore ghost stories (Book 3) (pp. 19–22). Singapore: Angsana Books. (Call no.: RSING LEE)
+
+[^13]:Interview with Pugalenthii, 25 March 2017.
+
+[^14]:Alfian Sa’at. (2017, January 19). Some thoughts which I shared at last night’s forum on Singapore literature (paraphrased and expanded). Retrieved from Facebook.
