@@ -5,9 +5,9 @@ date: 2020-01-01T00:00:00.000Z
 breadcrumb: Jan-Mar 2020
 permalink: /vol-15/issue-4/jan-mar-2020/
 ---
-<img src="/images/Vol-15-issue-4/vol15_iss4.jpg ">
-
 In this issue, we look back at the glory days of Rediffusion, explore *bangsawan* venues of old, and find out how Singapore's Chinese newspaper scene has evolved. We also remember four Singaporean journalists who covered the Vietnam War.
+
+<img src="/images/Vol-15-issue-4/vol15_iss4.jpg ">
 
 **[Director’s Note](/vol-15/issue-4/jan-mar-2020/directors-note/)**  
 
