@@ -239,22 +239,22 @@ Chia, P., Sam, J., & Hwang, T. F. (1965, May 19). [First of the 16 links: ‘A p
 
 [Discharged man re-arrested on murder charge](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19641231.2.21). (1964, December 31). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
 
-Hwang, T. F. (1965, March 5). Jenny: Move by Madam Yeo to presume her ‘dead’. *The Straits Times*, p. 11. Retrieved from NewspaperSG.
+Hwang, T. F. (1965, March 5). [Jenny: Move by Madam Yeo to presume her ‘dead’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19650305.2.70). *The Straits Times*, p. 11. Retrieved from NewspaperSG.
 
-Josey, A. (2009). Cold-blooded murders. Singapore: Marshall Cavendish Editions.
+Josey, A. (2009). *[Cold-blooded murders](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13199535)*. Singapore: Marshall Cavendish Editions.
 (Call no.: RSING 345.595702523 JOS)
 
-Page 36 miscellaneous column 1. (2002, June 6). Today, p. 36. Retrieved from NewspaperSG.
+[Page 36 miscellaneous column 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20020606-1.2.55.1). (2002, June 6). *Today*, p. 36. Retrieved from NewspaperSG.
 
-She is dead and it was murder to get $400,000, jury told. (1965, May 18). The Straits Times, p. 11. Retrieved from NewspaperSG.
+[She is dead and it was murder to get $400,000, jury told](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19650518.2.82). (1965, May 18). *The Straits Times*, p. 11. Retrieved from NewspaperSG.
 
-Skin-dive bar girl: Murder probe now. (1963, September 6). The Straits Times, p. 6. Retrieved from NewspaperSG.
+[Skin-dive bar girl: Murder probe now](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19630906.2.46). (1963, September 6). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
 
-Sunny Ang in the dock in Twin Sisters case. (1965, April 27). The Straits Times, p. 11. Retrieved from NewspaperSG.
+[Sunny Ang in the dock in Twin Sisters case](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19650427.2.94). (1965, April 27). *The Straits Times*, p. 11. Retrieved from NewspaperSG.
 
-Sunny Ang was there when Cheok made out her will, says witness. (1965, April 28). The Straits Times, p. 9. Retrieved from NewspaperSG.
+[Sunny Ang was there when Cheok made out her will, says witness](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19650428.2.61). (1965, April 28). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
 
-Sunny found guilty, to hang. (1965, May 19). The Straits Times, p.1. Retrieved from NewspaperSG.
+Sunny found guilty, to hang. (1965, May 19). *The Straits Times*, p.1. Retrieved from NewspaperSG.
 
 That flipper – by man flown from England. (1965, May 8). The Straits Times, p. 11. Retrieved from NewspaperSG.
 
