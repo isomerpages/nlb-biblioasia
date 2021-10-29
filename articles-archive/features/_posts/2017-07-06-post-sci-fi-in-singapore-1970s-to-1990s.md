@@ -139,17 +139,17 @@ Hartwell, D.G. (1996). *[Age of wonder: Exploring the world of science fiction](
 
 [^17]:Koh, B.S. (1991, July 13). [Neurosurgeon wins literary award](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19910713.2.33.18). *The Straits Times*, p. 26; Koh B.S. (1995, March 4). [Issues of trust and betrayal](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19950304-1.2.72.7.1). *The Straits Times*, p. 20. Retrieved from NewspaperSG.
 
-[^18]:Geer, P. (1980, November 8). Promise of a future in our sci-fi writing. The Straits Times, p. 7. Retrieved from NewspaperSG; Baratham, G. (1981). The experiment. In Figments of experience (p. 29). Singapore: Times Book International. (Call no.: RSING S823 GOP)
+[^18]:Geer, P. (1980, November 8). [Promise of a future in our sci-fi writing](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19801108-1.2.140.14.2). *The Straits Times*, p. 7. Retrieved from NewspaperSG; Baratham, G. (1981). The experiment. In *[Figments of experience](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4141298)* (p. 29). Singapore: Times Book International. (Call no.: RSING S823 GOP)
 
-[^19]:Baratham, G. (1981). Ultimate commodity. In Figments of experience (pp. 103–110). Singapore: Times Book International. (Call no.: RSING S823 GOP)
+[^19]:Baratham, G. (1981). Ultimate commodity. In *[Figments of experience](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4141298)* (pp. 103–110). Singapore: Times Book International. (Call no.: RSING S823 GOP)
 
-[^20]:Koh, B.S. (1991, March 2). Tireless tale spinner. The Straits Times¸ p. 8. Retrieved from NewspaperSG, Lim, T.S. (1981). The parting gift and other stories (pp. 128–132). Singapore: Sri Kesava. (Call no.: RSING S823.01 LIM); Lim, T.S. (1990). Eleven bizarre tales. Singapore: EPB Publishers. (Call no.: RSING S823 LIM)
+[^20]:Koh, B.S. (1991, March 2). [Tireless tale spinner](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19910302-1.2.50.6.1). *The Straits Times*¸ p. 8. Retrieved from NewspaperSG, Lim, T.S. (1981). *[The parting gift and other stories](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4141408)* (pp. 128–132). Singapore: Sri Kesava. (Call no.: RSING S823.01 LIM); Lim, T.S. (1990). *[Eleven bizarre tales](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5663505)*. Singapore: EPB Publishers. (Call no.: RSING S823 LIM)
 
-[^21]:Lim, 1981, p. 132.
+[^21]:[Lim](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4141408), 1981, p. 132.
 
-[^22]:Chua, T. (1991). The nightmare factory: Stories from the edge. Singapore: Landmark Books. (Call no.: RSING S823 CHU)
+[^22]:Chua, T. (1991). *[The nightmare factory: Stories from the edge](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6111441)*. Singapore: Landmark Books. (Call no.: RSING S823 CHU)
 
-[^23]:Cover story. (1991, August 31). The Straits Times, p. 8. Retrieved from NewspaperSG. 
+[^23]:[Cover story](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19910831-1.2.67.3.11). (1991, August 31). *The Straits Times*, p. 8. Retrieved from NewspaperSG. 
 
 [^24]:Ong, C.C. (1986, September 13). [‘Star-struck’ writer comes out of the closet](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19860913-1.2.64.4.3). *The Straits Times*, p. 3. Retrieved from NewspaperSG; Han, M. (1985). *[Star sapphire](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4141303)*. Singapore: Times Books International. (Call no.: RSING S823 HAN)
 
