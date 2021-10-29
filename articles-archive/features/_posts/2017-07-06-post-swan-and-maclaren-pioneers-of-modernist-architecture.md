@@ -135,6 +135,14 @@ This new architectural approach was also known as the International Style,[^14] 
 <br><br>
 Supposedly freed from the spurious distractions of stylistic convention, Modernism was a new architecture for a new age. To what extent it fulfilled its lofty ambitions, academics will argue, is a moot point, but whichever way one sees it, there is no doubt that Modernism as an architectural practice was just about as far removed from the archetypal image of colonial architecture, with its Doric columns and pedimented porticoes, as one can get.</span>
 
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Vol-13-issue-2/swan-maclaren/julian.png">
+Anthropologist, architectural historian and former Lee Kong Chian Research Fellow, <b>Dr Julian Davison</b> is currently writing a history of Singapore’s oldest architectural practice, Swan & Maclaren, whose origins go back to the late 1880s. The book is scheduled to be published in the last quarter of 2017.
+</div>
+
+<a href="/vol-13/issue-2/jul-sep-2017/"><center>Back to Issue</center></a>
+
 #### **NOTES**
 
 [^1]:Wolfe, T. (1983). *[From Bauhaus to our house](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5040196)*. London: Abacus. (Call no.: RART 720.973 WOL)
