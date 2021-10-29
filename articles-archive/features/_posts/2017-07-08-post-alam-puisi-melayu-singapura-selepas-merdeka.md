@@ -6,7 +6,7 @@ layout: post
 ---
 #### Singapore’s Malay publishing scene was thrown into disarray when the country exited Malaysia in 1965. **Juffri Bin Supa’at** charts the development of Malay poetry in Singapore since Independence.
 
-<span style="background-colour: #ffff; align:center;">“Ahli bahasa yang memakai akal<br>
+<span align="center" style="background-colour: #ffff;">“Ahli bahasa yang memakai akal<br>
 memikirkan puisi adalah tenunan<br>
 sehelai kain yang dicermati menjadi rapi<br>
 lagi dihalusi kepadatan dalamnya<br>
@@ -33,3 +33,9 @@ di atas batu-bata & pasir-masir bertakhta,<br>
 lalu manusia ser ibu tahun menghamba.”[^2]
 
 <p align="right">– Suratman Markasan</p>
+
+Namun kenyataannya tidak begitu. Sejak tahun 1965 sehingga kini, taman sastera di sini sentiasa subur dan tumbuh sepanjang masa terutama dari segi puisi. Pertumbuhan ini dapat dilihat di dalam esei ini yang menyorot perkembangan puisi Melayu di Singapura dari tahun 1965 sehingga sekarang.
+
+Menurut Masuri S. N., “Di antara tahun-tahun 1965 hingga 1970, puisi Melayu Singapura masih terus berkembang, terutama diciptakan oleh penyair-penyair veteran seperti Mas, A. Ghani Hamid, Noor S.I. dan A. Salam Ayub”.3 Kehadiran tokoh-tokoh perintis ini, termasuk Masuri dan Suratman Markasan yang masih tetap tinggal di sini, masih tetap gigih berkarya walaupun pada masa yang sama telah mula lahir karya penyair-penyair yang lebih muda dan ada yang baru mula berkarya.
+
+Namun, pada luarannya, bentuk dan isinya masih tetap sama dengan trend perkembangan sastera di Malaysia kerana “mereka masih belum terasa ke dalam batinnya akan perubahan politik, sosial, ekonomi dan pendidikan yang mulai sedikit demi sedikit menampakkan corak dan dasarnya yang berbeza antara kedua negara ini”.4
