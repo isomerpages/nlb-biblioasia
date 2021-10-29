@@ -202,9 +202,15 @@ Electricity only reached the <i>kampongs</i> in 1961.[^52] Before this, resident
 
 However, many unfortunate villagers became victims of fires as a result of accidentally overturning these oil lamps. One such incident was reported in <i>The Straits Times</i> in 1959, where “[a fire] roared through a <i>kampong</i> about 50 yards from the Alexandra road fire station at 1.35 a.m. and destroyed 30 huts housing about 150 people.”[^54] To stem the hazard, the government introduced the 1963 <i>kampong</i> electricity scheme which promised that all villages would be provided with electricity by 1966.[^55]
 
-|**The Tajam Batu Man**|
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> 
+<b>OH BEY SOM!</b>
+<br><br>
+Oh bey som<i> was a means by which teams or individual players were selected. Player would shout "oh bey som!" and simultaneously stick out their hands with their palms facing either up or down. All who had their palms facing in the same direction would be part of one team, and the rest on the other. A player would be singled out to be the pasang (cathcher) if he or she was the only person with the palm facing a different direction from the rest of the group. Otherwise, the players would continue to </i>oh bey som<i>, eliminating the majority until a single player remained.</i></span>
 
-|The <i>tajam batu</i> man was usually a Punjabi (Sikh) who made his bicycle rounds in the kampong with his sharp tools. He would call out <i>“tajam batu!”</i>, which literally means “stone sharp(ening)” in Malay. The women would take out their stone slabs that had become too smooth to crush the spices for him to service. He would chisel the surface of the slabs with a giant nail and hammer, etching small holes to make the surface rough for better grinding.[^36] For some reason, adults would scare children with stories of the <i>tajam batu</i> man kidnapping children, decapitating them and offering their heads for new constructions, bridges in particular. Scenes of scampering children would often precede the arrival of this “devilish” man.[^37]|
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> 
+<b>THE TAJAM BATU MAN</b>
+<br><br>
+The <i>tajam batu</i> man was usually a Punjabi (Sikh) who made his bicycle rounds in the kampong with his sharp tools. He would call out <i>“tajam batu!”</i>, which literally means “stone sharp(ening)” in Malay. The women would take out their stone slabs that had become too smooth to crush the spices for him to service. He would chisel the surface of the slabs with a giant nail and hammer, etching small holes to make the surface rough for better grinding.[^36] For some reason, adults would scare children with stories of the <i>tajam batu</i> man kidnapping children, decapitating them and offering their heads for new constructions, bridges in particular. Scenes of scampering children would often precede the arrival of this “devilish” man.[^37]</span>
 
 <p style="font-size:15px;">This article was researched by <b>Nor Afidah Abd Rahman</b>, a senior librarian with the National Library Board (NLB).</p>
 
