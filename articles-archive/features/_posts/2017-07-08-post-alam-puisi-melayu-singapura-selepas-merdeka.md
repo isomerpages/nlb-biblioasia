@@ -10,15 +10,12 @@ layout: post
 memikirkan puisi adalah tenunan<br>
 sehelai kain yang dicermati menjadi rapi<br>
 lagi dihalusi kepadatan dalamnya<br>
-coraknya terperinci<br>
-tiada sebenang pun lepas dari ikatan<br>
+coraknya terperinci tiada sebenang pun lepas dari ikatan<br>
 meliputi seluruh buatan dan rekaan<br>
 sehingga terlahirlah sebuah puisi<br>
 tiada sehuruf pun salah tempatnya<br>
-lengkap dalam fikiran<br>
-sehingga tiada sehembus pun<br>
-nafas terasa kerana ketiadaan suara<br>
-manusia yang menuliskannya.”[^1]</span>
+lengkap dalam fikiran sehingga tiada sehembus pun nafas terasa<br>
+kerana ketiadaan suara manusia yang menuliskannya.”[^1]</span>
 
 <p align="right">– Masuri S.N.</p>
 
