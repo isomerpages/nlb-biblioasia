@@ -185,4 +185,4 @@ Hartwell, D.G. (1996). *[Age of wonder: Exploring the world of science fiction](
 
 [^40]:Varathan, S., & S. Hamid. (2008). *[Ciṅkappūr Tamil̲ nāṭaka varalār̲u 1935–2007= Development of Tamil drama in Singapore from 1935–2007](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13096062)*. Ciṅkappūr: Ciṅkappūr Intiyak Kalaiñar Caṅkam. (Call no.: Tamil RSING 792.095957 VAR)
 
-[^41]:50 Faces. (2014, August 23). *SSS3 of 5Breaking New Ground* [Video recording]. Retrieved from 50 Faces website.
+[^41]:50 Faces. (2014, August 23). *SSS3 of 5 Breaking New Ground* [Video recording]. Retrieved from 50 Faces website.
