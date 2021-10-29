@@ -15,3 +15,7 @@ But when exactly did science fiction take off in Singapore? The genre is certain
 <div style="background-color: white;"><img src="/images/Vol-12-issue-2/law-of-the-land/">Published in 1953, <i>Tungga dan Piring Terbang</i> (Tungga and the Flying Saucer) is one of the earliest sc-fi publications on record in Singapore. The Malay comic series was created by Indonesian comic artist Naz Achnas. <i>All Rights Reserved, Naz Achnas. (1953). Tungga dan Piring Terbang, Singapore: MIBS. Available via PublicationSG.</i></div>
 
 Other local sci-fi comics followed in subsequent decades, such as The Valiant Pluto-Man (1982), The Amazing Adventures of Captain V (1988) and The Sunday Times comics: “The Huntsman”(1992) and “Speedsword and the Doomsday Pearl” (1991).[^3]
+
+#### **Sci-fi Takes Off**
+
+Sci-fi picked up pace from the late 1970s onwards when Hollywood films such as George Lucas’s Star Wars and Steven Spielberg’s Close Encounters of the Third Kind made their way to Singapore cinemas in 1978.[^4] In turn, sales of sci-fi titles based on these blockbuster films and hit television series, such as Space 1999 and the cult favourite Star Trek, enjoyed a sharp spike in sales at local  bookshops. In 1978, MPH Bookstores reported that sales of its other sci-fi titles – including books by noted authors of the genre such as Isaac Asimov and Arthur C. Clarke – shot up by at least 50 percent that year.[^5]
