@@ -131,17 +131,19 @@ Such chapters were heavily influenced by Confucian teachings on respecting autho
 
 The <i>jiapu</i> chapters discussed here offer only a peek into the wealth of information found in traditional Chinese genealogical records. There are no fixed rules on how to write a genealogy, and many Chinese families have adapted aspects of <i>jiapu</i> that best suit the needs of their families. As a result, the <i>jiapu</i> is an ever-evolving document that captures the characteristics of society at a particular point in time, and also offers a glimpse into the historical continuity of Chinese family structure and beliefs. 
 
-|**Five degrees of mourning clothes (wufu 五服)**|
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;">
+<b>FIVE DEGREES OF MOURNING CLOTHES (WUFU 五服)</b>
+<br><br>
+<i>Wufu</i> was the set of rules that determined the mourning clothes and the mourning periods to be observed by different clan members within nine generations (<i>jiu zu</i> 九族). The nine generations were defined as the four generations before oneself (from father to great great-grandfather) and the four generations after oneself (from children to the great great-grandchildren). Mourning clothes were separated into five different types, and mourning periods ranged from three months to three years. In general, the closest kin to the deceased wore the coarsest fabric and observed the longest mourning period. These five degrees of mourning were separately known as <i>zhancui</i> (斩衰); <i>zicui</i> (齐衰); <i>dagong</i> (大功); <i>xiaogong</i> (小功); and <i>sima</i> (缌麻).[^10]|
+<br><br>
+<img src="/images/vol-9-issue-4/jiapu/wufu_chart.jpg"><i>A wufu chart was used to determine the mourning clothes and duration of mourning for a clan member</i>. All rights reserved. <i>Ningxiang Nantang Liu shi si xiu zupu</i> (Genealogy of Liu clan from Nantang Town in Ningxiang County), 2002, Chen Zhanqi, China National Microfilming Center for Library Resources, Beijing.</span>
 
-|<i>Wufu</i> was the set of rules that determined the mourning clothes and the mourning periods to be observed by different clan members within nine generations (<i>jiu zu</i> 九族). The nine generations were defined as the four generations before oneself (from father to great great-grandfather) and the four generations after oneself (from children to the great great-grandchildren). Mourning clothes were separated into five different types, and mourning periods ranged from three months to three years. In general, the closest kin to the deceased wore the coarsest fabric and observed the longest mourning period. These five degrees of mourning were separately known as <i>zhancui</i> (斩衰); <i>zicui</i> (齐衰); <i>dagong</i> (大功); <i>xiaogong</i> (小功); and <i>sima</i> (缌麻).[^10]|
-
-|<img src="/images/vol-9-issue-4/jiapu/wufu_chart.jpg"><i>A wufu chart was used to determine the mourning clothes and duration of mourning for a clan member</i>. All rights reserved. <i>Ningxiang Nantang Liu shi si xiu zupu</i> (Genealogy of Liu clan from Nantang Town in Ningxiang County), 2002, Chen Zhanqi, China National Microfilming Center for Library Resources, Beijing.|
-
-|**Memorial Arches (Pai Fang 牌坊)**|
-
-|In general, there were two main types of memorial arches: the Meritorious Deeds Memorial Arch (<i>gong de pai fang</i> 功德牌坊) and the Virtuous Memorial Arch (<i>dao de pai fang</i> 道德牌坊). These arches glorified the clan and reminded descendents of desired virtues and conduct through the stories inscribed on the arches. Memorial arches were sometimes located near the ancestral hall and considered part of the compound. |
-
-|In traditional Chinese society, women were usually not mentioned in <i>jiapu</i>, unless they had given birth to sons, in which case, their surnames would be recorded. However, if a widow did not re-marry after the death of her husband, her virtue would earn her a chastity memorial arch. These women were also granted a chapter in the biographical section of the <i>jiapu</i>, which was considered to be a great honour.[^14]|
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;">
+<b>MEMORIAL ARCHES (PAI FANG 牌坊)</b>
+<br><br>
+In general, there were two main types of memorial arches: the Meritorious Deeds Memorial Arch (<i>gong de pai fang</i> 功德牌坊) and the Virtuous Memorial Arch (<i>dao de pai fang</i> 道德牌坊). These arches glorified the clan and reminded descendents of desired virtues and conduct through the stories inscribed on the arches. Memorial arches were sometimes located near the ancestral hall and considered part of the compound.
+<br><br>
+In traditional Chinese society, women were usually not mentioned in <i>jiapu</i>, unless they had given birth to sons, in which case, their surnames would be recorded. However, if a widow did not re-marry after the death of her husband, her virtue would earn her a chastity memorial arch. These women were also granted a chapter in the biographical section of the <i>jiapu</i>, which was considered to be a great honour.[^14]</span>
 
 <p style="font-size:15px;"><b>Lee Meiyu</b> is a librarian at the Lee Kong Chian Reference Library at the National Library Board. The subject of genealogy is close to her heart and she has worked on resource publications that complement NLB’s exhibitions such as <i>Money by Mail to China: Dreams and Struggles of Early Migrants (2012)</i> and <i>ROOTS: Tracing Family Histories — A Resource Guide (2013).</i></p>
 
