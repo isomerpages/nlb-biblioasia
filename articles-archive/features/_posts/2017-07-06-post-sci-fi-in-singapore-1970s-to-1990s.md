@@ -105,25 +105,25 @@ Hartwell, D.G. (1996). *[Age of wonder: Exploring the world of science fiction](
 
 #### **NOTES**
 
-[^1]:Lundberg, J.E. (Ed.). (2013–). LONTAR: The Journal of Southeast Asian Speculative Fiction. Singapore: Math Paper Press (2013–), Epigram Books (2016–). (Call no.: RSING 828.995903 LJSASF); Chng, J., & Yang, J. (Eds.). (2012). The ayam curtain. Singapore: Math Paper Press. (Call no.: RSING S823 AYA); Lim, R., & Maisarah Abu Samah. (Eds.). (2012). The steampowered globe. Singapore: ASiFF. (Call no.: RSING S823 STE)
+[^1]:Lundberg, J.E. (Ed.). (2013–). *[LONTAR: The Journal of Southeast Asian Speculative Fiction](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200149999)*. Singapore: Math Paper Press (2013–), Epigram Books (2016–). (Call no.: RSING 828.995903 LJSASF); Chng, J., & Yang, J. (Eds.). (2012). *[The ayam curtain](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14629225)*. Singapore: Math Paper Press. (Call no.: RSING S823 AYA); Lim, R., & Maisarah Abu Samah. (Eds.). (2012). *[The steampowered globe](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14248072)*. Singapore: ASiFF. (Call no.: RSING S823 STE)
 
-[^2]:Naz Achnas. (1953). Tungga dan piring terbang. Singapore: MIBS. Available via PublicationSG; Van Der Putten, J., & Barnard, T.P. (2007). Old Malay heroes never die. In I. Gordon, M. Jankovich & M. P. McAllister (Eds.), Film and comic books (pp. 249, 293). Jackson: University Press of Mississippi. (Call no: RART 791.43657 FIL)
+[^2]:Naz Achnas. (1953). *[Tungga dan piring terbang](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200074932)*. Singapore: MIBS. Available via PublicationSG; Van Der Putten, J., & Barnard, T.P. (2007). Old Malay heroes never die. In I. Gordon, M. Jankovich & M. P. McAllister (Eds.), *[Film and comic books](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200136198)* (pp. 249, 293). Jackson: University Press of Mississippi. (Call no: RART 791.43657 FIL)
 
-[^3]:Yap, C. (1982, December 21). Enter Pluto-Man. The Straits Times, p. 1; Chandran, K. (1987, December 12). The amazing adventures of Captain V. The Straits Times p. 1; Tan, H.Y. (1995, July 15). What’s so funny? The Straits Times, p. 38; New guys in toon town. (1991, December 29). The Straits Times, p. 10. Retrieved from NewpsaperSG; Wong, R. (1983). The valiant Pluto-Man of Singapore. Singapore: Fantasy Comics; Captain V Productions. (1988) The amazing adventures of Captain V. Singapore: Captain V Productions. Available via PublicationSG.
+[^3]:Yap, C. (1982, December 21). [Enter Pluto-Man](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19821221-1.2.170). *The Straits Times*, p. 1; Chandran, K. (1987, December 12). [The amazing adventures of Captain V](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19871212-1.2.74.2). *The Straits Times* p. 1; Tan, H.Y. (1995, July 15). [What’s so funny?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19950715-1.2.330.9.1) *The Straits Times*, p. 38; [New guys in toon town](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19911229-1.2.53.14.2). (1991, December 29). *The Straits Times*, p. 10. Retrieved from NewpsaperSG; Wong, R. (1983). *[The valiant Pluto-Man of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200085679)*. Singapore: Fantasy Comics; Captain V Productions. (1988) *[The amazing adventures of Captain V](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200099391)*. Singapore: Captain V Productions. Available via PublicationSG.
 
-[^4]:Yue, R. (1978, January 15). Year of the great sci-fi film revival. The Straits Times, p. 12. Retrieved from NewspaperSG.
+[^4]:Yue, R. (1978, January 15). [Year of the great sci-fi film revival](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19780115-1.2.90.1.11). *The Straits Times*, p. 12. Retrieved from NewspaperSG.
 
-[^5]:More turn to reading science fiction novels. (1978, June 25). The Straits Times, p. 2. Retrieved from NewspaperSG.
+[^5]:[More turn to reading science fiction novels](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19780625-1.2.107.1.3). (1978, June 25). *The Straits Times*, p. 2. Retrieved from NewspaperSG.
 
-[^6]:Chia, H. (1988, April 16). Fantastic journey. The Straits Times, p. 1. Retrieved from NewspaperSG.
+[^6]:Chia, H. (1988, April 16). [Fantastic journey](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880416-1.2.110.2). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
 
-[^7]:Inspiring our aspiring writers with sci-fi. (1979, May 6). The Straits Times, p. 8. Retrieved from NewspaperSG.
+[^7]:[Inspiring our aspiring writers with sci-fi](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19790506-1.2.60). (1979, May 6). *The Straits Times*, p. 8. Retrieved from NewspaperSG.
 
-[^8]:De Silva, G. (1979, August 2). Our budding sci-fi writers. New Nation, pp. 10-11. Retrieved from NewspaperSG.
+[^8]:De Silva, G. (1979, August 2). [Our budding sci-fi writers](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19790802-1.2.47). *New Nation*, pp. 10-11. Retrieved from NewspaperSG.
 
-[^9]:Sci-fi a field for our writers: Minister. (1979, August 2). The Straits Times, p. 8. Retrieved from NewspaperSG.
+[^9]:[Sci-fi a field for our writers: Minister](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19790802-1.2.56). (1979, August 2). *The Straits Times*, p. 8. Retrieved from NewspaperSG.
 
-[^10]:Holmberg, J. (1978, August 31). A fortnight of science. New Nation, p. 31. Retrieved from NewspaperSG;Ministry of Culture. (1980, May 23). Speech by Dr. Tony Tan Keng Yam, Senior Minister of State for Education, at the opening ceremony of the Singapore Youth Science Fortnight at the Raffles Institution on 23rd May 1980. Retrieved from National Archives of Singapore website.
+[^10]:Holmberg, J. (1978, August 31). [A fortnight of science](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19780831-1.2.107.1). *New Nation*, p. 31. Retrieved from NewspaperSG;Ministry of Culture. (1980, May 23). *[Speech by Dr. Tony Tan Keng Yam, Senior Minister of State for Education, at the opening ceremony of the Singapore Youth Science Fortnight at the Raffles Institution on 23rd May 1980](http://www.nas.gov.sg/archivesonline/data/pdfdoc/tkyt19800523s.pdf)*. Retrieved from National Archives of Singapore website.
 
 [^11]:Singh, K. (1980, August 3). The sci-fi novelist who never forgot army days in Singapore. The Straits Times, p. 1. Retrieved from NewspaperSG.
 
