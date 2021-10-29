@@ -175,9 +175,9 @@ Hartwell, D.G. (1996). *[Age of wonder: Exploring the world of science fiction](
 
 [^35]:Tan, K.Y. (2009, October 27). ‘Art comes from dissent’. *The New Paper*, pp 2–3. Retrieved from NewspaperSG.
 
-[^36]:The Straits Times, 26 Aug 2004, p. 66; Yong, S.C. (2005, March 4). Avatar. Today, p. 42. Retrieved from NewspaperSG. 
+[^36]:*[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20040826-1.2.59.20.7),* 26 Aug 2004, p. 66; Yong, S.C. (2005, March 4). Avatar. *Today*, p. 42. Retrieved from NewspaperSG. 
 
-[^37]:Wong, A.Y. (1985, June 25). Newspaper to stage drama performances next month. Singapore Monitor, p. 18; Goh, B.C. (1985, July 3). Dramatists play it for laughs. The Straits Times, p. 23. Retrieved from NewspaperSG.
+[^37]:Wong, A.Y. (1985, June 25). [Newspaper to stage drama performances next month](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19850625-2.2.26.5). *Singapore Monitor*, p. 18; Goh, B.C. (1985, July 3). [Dramatists play it for laughs](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850703-1.2.46.1). *The Straits Times*, p. 23. Retrieved from NewspaperSG.
 
 [^38]:Wong, S.Y. (1984, December 9). [A first attempt at adult comedy](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19841209-1.2.42.12.1). *Singapore Monitor*, p. 12; Tan, J. (1984, December 2). [Cameras to roll for SBC’s first sci-fi production](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19841202-1.2.76.37.1). *The Straits Times*, p. 4; Wee, T.L. (1988, March 14). [Criticism of SBC unfair](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880314-1.2.42.4). *The Straits Times*, p. 22; [Star Maiden cast draws the crowds despite rain](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880221-1.2.8.7). (1988, February 21). *The Straits Times*, p. 3. Retrieved from NewspaperSG 
 
