@@ -6,7 +6,7 @@ layout: post
 ---
 #### Singapore’s Malay publishing scene was thrown into disarray when the country exited Malaysia in 1965. **Juffri Bin Supa’at** charts the development of Malay poetry in Singapore since Independence.
 
-<span style="background-colour: #ffff; align=center;">“Ahli bahasa yang memakai akal<br>
+<span style="background-colour: #ffff; text-align:center;">“Ahli bahasa yang memakai akal<br>
 memikirkan puisi adalah tenunan<br>
 sehelai kain yang dicermati menjadi rapi<br>
 lagi dihalusi kepadatan dalamnya<br>
