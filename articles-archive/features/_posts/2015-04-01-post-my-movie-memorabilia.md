@@ -103,7 +103,7 @@ Ticket stubs showing the name of the cinema and a picture of an actress on one s
 <div style="background-color: white;">
 <br/>
 <img style="width:70%" src="/images/vol-11-issue-1/moviememorabilia/Weighing_machines_re.jpg">
-Weighing machines such as this one from Lux Cinema, the last surviving old cinema in Hong Kong, were once common in Singapore's cinemas. All images courtesy of Wong Han Min. <i>Courtesy of Wong Han Min.</i>
+Weighing machines such as this one from Lux Cinema, the last surviving old cinema in Hong Kong, were once common in Singapore's cinemas. <i>Courtesy of Wong Han Min.</i>
 </div>
 
 <div style="background-color: white;">
