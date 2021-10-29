@@ -101,7 +101,7 @@ In 1966, the first Tamil science fiction play with a local setting was written a
 
 Bould, M., et. al. (Eds). (2009). *[The Routledge companion to science fiction](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13168424)*. London; New York: Routledge. (Call no.: R 809.38762 ROU)
 
-Hartwell, D.G. (1996). Age of wonder: Exploring the world of science fiction. New York: Tor. (Call no.: R 809.38762 HAR)
+Hartwell, D.G. (1996). *[Age of wonder: Exploring the world of science fiction](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7712021)*. New York: Tor. (Call no.: R 809.38762 HAR)
 
 #### **NOTES**
 
