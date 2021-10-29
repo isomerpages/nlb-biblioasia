@@ -151,17 +151,17 @@ Hartwell, D.G. (1996). *[Age of wonder: Exploring the world of science fiction](
 
 [^23]:Cover story. (1991, August 31). The Straits Times, p. 8. Retrieved from NewspaperSG. 
 
-[^24]:Ong, C.C. (1986, September 13). ‘Star-struck’ writer comes out of the closet. The Straits Times, p. 3. Retrieved from NewspaperSG; Han, M. (1985). Star sapphire. Singapore: Times Books International. (Call no.: RSING S823 HAN)
+[^24]:Ong, C.C. (1986, September 13). [‘Star-struck’ writer comes out of the closet](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19860913-1.2.64.4.3). *The Straits Times*, p. 3. Retrieved from NewspaperSG; Han, M. (1985). *[Star sapphire](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4141303)*. Singapore: Times Books International. (Call no.: RSING S823 HAN)
 
-[^25]:Chellam, R. (1996). 2084: A novel. Singapore: Asiawide Publications. (Call no.: RSING 828.995403 RAJ) 
+[^25]:Chellam, R. (1996). *[2084: A novel](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7700774)*. Singapore: Asiawide Publications. (Call no.: RSING 828.995403 RAJ) 
 
-[^26]:Sci-fi fans to launch club. (1990, October 17). The Straits Times, p. 25. Retrieved from NewspaperSG; Science Fiction Association (Singapore). (n.d.) Tesseract. Retrieved from Science Fiction Association (Singapore) website.
+[^26]:[Sci-fi fans to launch club](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19901017-1.2.32.8.1). (1990, October 17). *The Straits Times*, p. 25. Retrieved from NewspaperSG; Science Fiction Association (Singapore). (n.d.) *Tesseract*. Retrieved from Science Fiction Association (Singapore) website.
 
-[^27]:Loh, T.L. (1989, November 27). Practical aims of fantasy buffs. The New Paper, p. 6. Retrieved from NewspaperSG.
+[^27]:Loh, T.L. (1989, November 27). [Practical aims of fantasy buffs](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper19891127-1.2.9.1). *The New Paper*, p. 6. Retrieved from NewspaperSG.
 
-[^28]:Science Fiction Association (Singapore). (1992, November). The Event Horizon: Newsletter of the Science Fiction Association of Singapore. Singapore: The Association. (Call no.: RSING 809.38762 EH); Science Fiction Association (Singapore), Jan 1993; Science Fiction Association (Singapore), Oct 1994. 
+[^28]:Science Fiction Association (Singapore). (1992, November). *[The Event Horizon: Newsletter of the Science Fiction Association of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6504569)*. Singapore: The Association. (Call no.: RSING 809.38762 EH); *[Science Fiction Association (Singapore)](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6504569)*, Jan 1993; *[Science Fiction Association (Singapore)](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6504569)*, Oct 1994. 
 
-[^29]:Lee, M. (1990, October 30). Sci-fi fanatics. The New Paper, p. 16. Retrieved from NewspaperSG; The Straits Times, 17 Oct 1990, p. 25; Aldiss, B. (1991). Tesseract, Jan Qrt, 8–9. [Brian Aldiss unbound]. (Call no.: RSING q809.3876205 T) 
+[^29]:Lee, M. (1990, October 30). [Sci-fi fanatics](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper19901030-1.2.24). *The New Paper*, p. 16. Retrieved from NewspaperSG; *[The Straits Times](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19901017-1.2.32.8.1)*, 17 Oct 1990, p. 25; Aldiss, B. (1991). *[Tesseract](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6169503), Jan Qrt, 8–9*. [Brian Aldiss unbound]. (Call no.: RSING q809.3876205 T) 
 
 [^30]:Koh, B.S. (1990, October 20). [Surface treatment](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19901020-1.2.107.7.2). *The Straits Times*, p. 7. Retrieved from NewspaperSG.
 
