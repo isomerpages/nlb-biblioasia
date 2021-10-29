@@ -86,7 +86,7 @@ In his book, <i>Pulau Ubin: Ours to Treasure</i> (2000), wildlife enthusiast Dr 
 <br><br>
 <img src="/images/vol-10-issue-2/ubin/snake.jpg">The oriental whip snake is also known as the green vine snake and can grow up to 2 metres long.
 <br><br>
-<img src="/images/vol-10-issue-2/ubin/nipah_palm.jpg">The nipah palm can be found in the mangrove swamps of Pulau Ubin. The leaves can be used as thatch for roofs and its sap, when fermented, is drunk as an alcoholic drink called “toddy”. <i>Images courtesy of Ria Tan, www.wildsingapore.com</i></span>
+<img style="width:50%" src="/images/vol-10-issue-2/ubin/nipah_palm1.jpg">The nipah palm can be found in the mangrove swamps of Pulau Ubin. The leaves can be used as thatch for roofs and its sap, when fermented, is drunk as an alcoholic drink called “toddy”. <i>Images courtesy of Ria Tan, www.wildsingapore.com</i></span>
 
 
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;">
