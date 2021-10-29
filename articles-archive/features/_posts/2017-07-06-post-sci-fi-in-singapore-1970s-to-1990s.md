@@ -125,19 +125,19 @@ Hartwell, D.G. (1996). *[Age of wonder: Exploring the world of science fiction](
 
 [^10]:Holmberg, J. (1978, August 31). [A fortnight of science](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19780831-1.2.107.1). *New Nation*, p. 31. Retrieved from NewspaperSG;Ministry of Culture. (1980, May 23). *[Speech by Dr. Tony Tan Keng Yam, Senior Minister of State for Education, at the opening ceremony of the Singapore Youth Science Fortnight at the Raffles Institution on 23rd May 1980](http://www.nas.gov.sg/archivesonline/data/pdfdoc/tkyt19800523s.pdf)*. Retrieved from National Archives of Singapore website.
 
-[^11]:Singh, K. (1980, August 3). The sci-fi novelist who never forgot army days in Singapore. The Straits Times, p. 1. Retrieved from NewspaperSG.
+[^11]:Singh, K. (1980, August 3). [The sci-fi novelist who never forgot army days in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19800803-1.2.96.2). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
 
-[^12]:De Souza, J. (1980, October 30). S’pore can go space setting, says Aldiss. The Straits Times, p. 5. Retrieved from NewspaperSG.
+[^12]:De Souza, J. (1980, October 30). [S’pore can go space setting, says Aldiss](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19801030-1.2.135.10.1). *The Straits Times*, p. 5. Retrieved from NewspaperSG.
 
-[^13]:Mad dash at last minute to send story. (1980, October 29). The Straits Times, p. 5. Retrieved from NewspaperSG.
+[^13]:[Mad dash at last minute to send story](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19801029-1.2.126.8.1). (1980, October 29). *The Straits Times*, p. 5. Retrieved from NewspaperSG.
 
-[^14]:De Silva, G. (1979, August 2). Top sci-fi writer imagined it all. New Nation, p. 6; Jordan, H. (1979, December 7). Head transplant research raises disturbing questions. The Straits Times, p. 26. Retrieved from NewspaperSG.
+[^14]:De Silva, G. (1979, August 2). [Top sci-fi writer imagined it all](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19790802-1.2.26). *New Nation*, p. 6; Jordan, H. (1979, December 7). [Head transplant research raises disturbing questions](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19791207-1.2.140.45.1). *The Straits Times*, p. 26. Retrieved from NewspaperSG.
 
-[^15]:Singh, K. (1980). Wonder and awe: The world of science fiction. Singapore: Chopmen-Publishers. (Call no.: RSING S824 KIR)
+[^15]:Singh, K. (1980). *[Wonder and awe: The world of science fiction](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4080199)*. Singapore: Chopmen-Publishers. (Call no.: RSING S824 KIR)
 
-[^16]:Lecturer calls for sci-fi to be school subject. (1982, March 7). The Straits Times, p. 6. Retrieved from NewspaperSG.
+[^16]:[Lecturer calls for sci-fi to be school subject](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820307-1.2.32). (1982, March 7). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
 
-[^17]:Koh, B.S. (1991, July 13). Neurosurgeon wins literary award. The Straits Times, p. 26; Koh B.S. (1995, March 4). Issues of trust and betrayal. The Straits Times, p. 20. Retrieved from NewspaperSG.
+[^17]:Koh, B.S. (1991, July 13). [Neurosurgeon wins literary award](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19910713.2.33.18). *The Straits Times*, p. 26; Koh B.S. (1995, March 4). [Issues of trust and betrayal](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19950304-1.2.72.7.1). *The Straits Times*, p. 20. Retrieved from NewspaperSG.
 
 [^18]:Geer, P. (1980, November 8). Promise of a future in our sci-fi writing. The Straits Times, p. 7. Retrieved from NewspaperSG; Baratham, G. (1981). The experiment. In Figments of experience (p. 29). Singapore: Times Book International. (Call no.: RSING S823 GOP)
 
