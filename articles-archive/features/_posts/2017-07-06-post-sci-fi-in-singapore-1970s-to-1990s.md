@@ -179,10 +179,10 @@ Hartwell, D.G. (1996). *[Age of wonder: Exploring the world of science fiction](
 
 [^37]:Wong, A.Y. (1985, June 25). Newspaper to stage drama performances next month. Singapore Monitor, p. 18; Goh, B.C. (1985, July 3). Dramatists play it for laughs. The Straits Times, p. 23. Retrieved from NewspaperSG.
 
-[^38]:Wong, S.Y. (1984, December 9). A first attempt at adult comedy. Singapore Monitor, p. 12; Tan, J. (1984, December 2). Cameras to roll for SBC’s first sci-fi production. The Straits Times, p. 4; Wee, T.L. (1988, March 14). Criticism of SBC unfair. The Straits Times, p. 22; Star Maiden cast draws the crowds despite rain. (1988, February 21). The Straits Times, p. 3. Retrieved from NewspaperSG 
+[^38]:Wong, S.Y. (1984, December 9). [A first attempt at adult comedy](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19841209-1.2.42.12.1). *Singapore Monitor*, p. 12; Tan, J. (1984, December 2). [Cameras to roll for SBC’s first sci-fi production](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19841202-1.2.76.37.1). *The Straits Times*, p. 4; Wee, T.L. (1988, March 14). [Criticism of SBC unfair](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880314-1.2.42.4). *The Straits Times*, p. 22; [Star Maiden cast draws the crowds despite rain](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880221-1.2.8.7). (1988, February 21). *The Straits Times*, p. 3. Retrieved from NewspaperSG 
 
-[^39]:Haron A. Rahman. (1986, October 13). A show to entertain and to introduce new faces. The Straits Times, p. 4. Retrieved from NewspaperSG.
+[^39]:Haron A. Rahman. (1986, October 13). [A show to entertain and to introduce new faces](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19861013-1.2.53.9.1). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
 
-[^40]:Varathan, S., & S. Hamid. (2008). Ciṅkappūr Tamil̲ nāṭaka varalār̲u 1935–2007= Development of Tamil drama in Singapore from 1935–2007. Ciṅkappūr: Ciṅkappūr Intiyak Kalaiñar Caṅkam. (Call no.: Tamil RSING 792.095957 VAR)
+[^40]:Varathan, S., & S. Hamid. (2008). *[Ciṅkappūr Tamil̲ nāṭaka varalār̲u 1935–2007= Development of Tamil drama in Singapore from 1935–2007](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13096062)*. Ciṅkappūr: Ciṅkappūr Intiyak Kalaiñar Caṅkam. (Call no.: Tamil RSING 792.095957 VAR)
 
-[^41]:50 Faces. (2014, August 23). SSS3of5_Breaking New Ground [Video recording]. Retrieved from 50 Faces website.
+[^41]:50 Faces. (2014, August 23). *SSS3 of 5Breaking New Ground* [Video recording]. Retrieved from 50 Faces website.
