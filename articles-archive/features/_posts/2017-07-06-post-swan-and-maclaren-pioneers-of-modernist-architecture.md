@@ -137,29 +137,29 @@ Supposedly freed from the spurious distractions of stylistic convention, Moderni
 
 #### **NOTES**
 
-[^1]:Wolfe, T. (1983). From Bauhaus to our house. London: Abacus. (Call no.: RART 720.973 WOL)
+[^1]:Wolfe, T. (1983). *[From Bauhaus to our house](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5040196)*. London: Abacus. (Call no.: RART 720.973 WOL)
 
-[^2]:Marcus Vitruvius Pollio is the first century BC Roman architect, engineer and author whose multi-volume architectural treatise, De architectura, is the only contemporary work on Roman architecture that has survived from ancient times.
+[^2]:Marcus Vitruvius Pollio is the first century BC Roman architect, engineer and author whose multi-volume architectural treatise, *De architectura*, is the only contemporary work on Roman architecture that has survived from ancient times.
 
-[^3]:The new architecture. (1929, June 10). The Straits Times, p. 10. Retrieved from NewspaperSG. 
+[^3]:[The new architecture](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19290610-1.2.32). (1929, June 10). *The Straits Times*, p. 10. Retrieved from NewspaperSG. 
 
 [^4]:Meccano is the brand name of a model construction kit, comprising re-usable metal strips, plates, anglegirders, axels, wheels, gears and so forth, which can be connected together using washers, nuts and bolts. Invented in 1901, Meccano is still manufactured today in France and China, but probably reached the height of its popularity between the two world wars, when it provided an invaluable introduction to the principles of mechanics and engineering for boys.
 
-[^5]:St. Andrew’s Hospital. (1923, May 21). The Singapore Free Press and Mercantile Advertiser, p. 6. Retrieved from NewspaperSG. Mrs Lee was the wife of business tycoon and prominent Straits Chinese leader, Lee Choon Guan (1868–1924).
+[^5]:[St. Andrew’s Hospital](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19230521-1.2.29). (1923, May 21). *The Singapore Free Press and Mercantile Advertiser*, p. 6. Retrieved from NewspaperSG. Mrs Lee was the wife of business tycoon and prominent Straits Chinese leader, Lee Choon Guan (1868–1924).
 
- [^6]:The Singapore Free Press and Mercantile Advertiser, 21 May 1923, p. 6. Retrieved from NewspaperSG.
+ [^6]:*[The Singapore Free Press and Mercantile Advertiser](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19230521-1.2.29)*, 21 May 1923, p. 6. Retrieved from NewspaperSG.
  
-[^7]:The Straits Times new press building. (1933, October 10). The Straits Times, p. 17. Retrieved from NewspaperSG. 
+[^7]:[The Straits Times new press building](http://eresources.nlb.gov.sg/newspapers/Digitised/Page/straitstimes19331010-1.1.17). (1933, October 10). *The Straits Times*, p. 17. Retrieved from NewspaperSG. 
 
-[^8]:Portuguese Mission’s investment in new buildings (1937, October 5). The Straits Times supplement, p. 4. Retrieved from NewspaperSG.
+[^8]:[Portuguese Mission’s investment in new buildings](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19371005-1.2.158.12) (1937, October 5). *The Straits Times* supplement, p. 4. Retrieved from NewspaperSG.
 
-[^9]:Modern continental design of new offices. (1937, October 5). The Straits Times supplement, p. 1. Retrieved from NewspaperSG.
+[^9]:[Modern continental design of new offices](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19371005-1.2.158.2). (1937, October 5). *The Straits Times* supplement, p. 1. Retrieved from NewspaperSG.
 
-[^10]:Materials used in constructing Nunes and Medeiros. (1937, October 5). The Straits Times supplement, p. 2. Retrieved from NewspaperSG.
+[^10]:[Materials used in constructing Nunes and Medeiros](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19371005-1.2.158.7). (1937, October 5). *The Straits Times* supplement, p. 2. Retrieved from NewspaperSG.
 
-[^11]:Malayan B.B.C.’s building on hill off Thomson Road. (1936, May 31). The Straits Times, p. 16. Retrieved from NewspaperSG.
+[^11]:[Malayan B.B.C.’s building on hill off Thomson Road](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360531-1.2.125). (1936, May 31). *The Straits Times*, p. 16. Retrieved from NewspaperSG.
 
-[^12]:Bought autogiro. (1936, October 3). The Straits Times, p.13. Retrieved from NewspaperSG.
+[^12]:[Bought autogiro](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19361003-1.2.1165). (1936, October 3). *The Straits Times*, p.13. Retrieved from NewspaperSG.
 
 [^13]:The phrase came from Adolf Loos’ essay, “Ornament and Crime”, written in 1908.
 
