@@ -40,8 +40,6 @@ It was 1978, my first visit to the National Library. I was in Secondary Two at V
 <img src="/images/vol-10-issue-1/library/bookshop.jpg">
 It was at one of these hole-in-the-wall bookshops along Bras Basah Road that the writer Boey Kim Cheng stumbled upon his first book of poetry, <i>The Albatross Book of Verse</i>. Old timers will recall bookshops with names such as Sultan and Modern (picture taken in 1972). <i>The Straits Times © Singapore Press Holdings Limited. Reproduced with permission.</i></div>
 
-Reading is a physical journey through real space, the place of reading an intrinsic part of the reading experience and memory, a dimension sadly missing in virtual libraries.
-
 You could then either take the route across the park to the old Tudor-style YMCA and walk past the National Museum to the library, or stroll down to St Joseph’s Institution and cross Bras Basah Road to the <i>sarabat</i>-stall-lined Waterloo Street, then ford the busy Stamford Road to a row of low, dingy shophouses and a tin-shed coffeeshop that served the best <i>mee soto</i> I have ever tasted, and finally up the steps to the stately but unpretentious and clean redbrick building that is the National Library, graced in front by a stand of royal palms, a canopy of yellow flame, saga and raintrees from Fort Canning just peering over its flat roof. 
 
 <div style="background-color: white;">
@@ -83,8 +81,6 @@ I went to the catalogue and tracked down more Camus. <i>The Outsider</i> was in 
 In <i>Time Regained</i>, Marcel Proust remarks of the relationship between reading and memory:
 
 If, ever in thought, I take up <i>François le Champi</i> in the library, immediately a child rises within me and replaces me, who alone has the right to read that title <i>François le Champi</i> and who reads it as he read it then with the same impression of the weather out in the garden, with the same old dreams about countries and life, the same anguish of the morrow.
-
-Wandering the aisles of books in my memory, I can sense the dreams, aspirations and despair of the youth who was seeking companionship, meaning and salvation in the books that drew him ineluctably into their worlds. 
 
 <div style="background-color: white;">
 <br/>
