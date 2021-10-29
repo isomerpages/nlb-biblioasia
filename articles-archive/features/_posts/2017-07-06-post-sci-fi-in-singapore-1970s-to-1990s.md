@@ -163,17 +163,17 @@ Hartwell, D.G. (1996). *[Age of wonder: Exploring the world of science fiction](
 
 [^29]:Lee, M. (1990, October 30). Sci-fi fanatics. The New Paper, p. 16. Retrieved from NewspaperSG; The Straits Times, 17 Oct 1990, p. 25; Aldiss, B. (1991). Tesseract, Jan Qrt, 8–9. [Brian Aldiss unbound]. (Call no.: RSING q809.3876205 T) 
 
-[^30]:Koh, B.S. (1990, October 20). Surface treatment. The Straits Times, p. 7. Retrieved from NewspaperSG.
+[^30]:Koh, B.S. (1990, October 20). [Surface treatment](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19901020-1.2.107.7.2). *The Straits Times*, p. 7. Retrieved from NewspaperSG.
 
-[^31]:Kon, S. (2000). A breeding pair. (p. 1). Singapore: Raffles an imprint of SNP Editions Pte Ltd. (Call no.: RSING S822 KON); Fernando, L. (1968). Mushroom harvest (pp. 206–215). In Twenty-two Malaysian stories. Singapore: Heinemann Educational Books (Asia). (Call no.: RCLOS 828.99 FER); Lim, S.W. (ed.). (1961). Monsoon, 1(2), pp 15–23. Singapore: G.H. Kiat & Co. (Call no.: RCLOS 052 MON) 
+[^31]:Kon, S. (2000). *[A breeding pair](http://eservice.nlb.gov.sg/item_holding.aspx?bid=10170797)*. (p. 1). Singapore: Raffles an imprint of SNP Editions Pte Ltd. (Call no.: RSING S822 KON); Fernando, L. (1968). Mushroom harvest (pp. 206–215). In *[Twenty-two Malaysian stories](http://eservice.nlb.gov.sg/item_holding.aspx?bid=4141576)*. Singapore: Heinemann Educational Books (Asia). (Call no.: RCLOS 828.99 FER); Lim, S.W. (ed.). (1961). *[Monsoon](http://eservice.nlb.gov.sg/item_holding.aspx?bid=5049482), 1*(2), pp 15–23. Singapore: G.H. Kiat & Co. (Call no.: RCLOS 052 MON) 
 
-[^32]:Kon, 2000, p. 1. 
+[^32]:[Kon](http://eservice.nlb.gov.sg/item_holding.aspx?bid=10170797), 2000, p. 1. 
 
-[^33]:Stella Kon Pte Ltd. (n.d.). Stella Kon: Plays. Retrieved from Emily of Emerald Hill website; Kon, 2000, p. 2.
+[^33]:Stella Kon Pte Ltd. (n.d.). *Stella Kon: Plays*. Retrieved from Emily of Emerald Hill website; [Kon](http://eservice.nlb.gov.sg/item_holding.aspx?bid=10170797), 2000, p. 2.
 
-[^34]:Loh, S. (2004, August 26). S’pore film reaches out to the world. *The Straits Times*, p. 66. Retrieved from NewspaperSG.
+[^34]:Loh, S. (2004, August 26). [S’pore film reaches out to the world](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20040826-1.2.59.20.7). *The Straits Times*, p. 66. Retrieved from NewspaperSG.
 
-[^35]:Tan, K.Y. (2009, October 27). ‘Art comes from dissent’. *The New Paper*, pp 2–3. Retrieved from NewspaperSG.
+[^35]:Tan, K.Y. (2009, October 27). [‘Art comes from dissent’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper20091027-1.2.3.1). *The New Paper*, pp 2–3. Retrieved from NewspaperSG.
 
 [^36]:*[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20040826-1.2.59.20.7),* 26 Aug 2004, p. 66; Yong, S.C. (2005, March 4). Avatar. *Today*, p. 42. Retrieved from NewspaperSG. 
 
