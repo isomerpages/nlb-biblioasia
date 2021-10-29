@@ -89,9 +89,17 @@ In 1986, local comedian Ahmad Nawi scripted his first play titled Para Benon. Th
 <br>
 In 1966, the first Tamil science fiction play with a local setting was written and directed by theatre pioneer, S. S. Sarma. Titled Vinveli Veeran (The Man from Outer Space), the set design and costume included “dancing amidst the clouds in space, a robot man and a Science Lab”.[^40] It was lauded as a pioneering effort to explore different genres within the Tamil theatre scene. The play details the story of a local professor who seeks to explore outer space and highlights two themes: science and the concept of a higher being.[^41]</span>
 
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Vol-13-issue-2/sci-fi-in-singapore/nadia_ramli.png">
+<b>Nadia Arianna Ramli</b> is an Associate Librarian with the National Library, Singapore. She works with the library’s arts collections, with a special focus on literary and visual arts. Her research interests include Singapore literature and theatre studies.
+</div>
+
+<a href="/vol-13/issue-2/jul-sep-2017/"><center>Back to Issue</center></a>
+
 #### **REFERENCES**
 
-Bould, M., et. al. (Eds). (2009). The Routledge companion to science fiction. London; New York: Routledge. (Call no.: R 809.38762 ROU)
+Bould, M., et. al. (Eds). (2009). *[The Routledge companion to science fiction](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13168424)*. London; New York: Routledge. (Call no.: R 809.38762 ROU)
 
 Hartwell, D.G. (1996). Age of wonder: Exploring the world of science fiction. New York: Tor. (Call no.: R 809.38762 HAR)
 
