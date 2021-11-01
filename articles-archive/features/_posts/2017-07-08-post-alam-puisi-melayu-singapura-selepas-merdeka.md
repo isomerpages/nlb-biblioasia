@@ -103,10 +103,10 @@ Ajar semua untuk tidak gentar”.[^13]</span>
 <span style="display: block; text-align: center;">“Jalan…Jalan,<br>
 jalan dan jalan….<br>
 Jangan berhenti separuh jalan.<br>
-<br><br>
+<br>
 Biar sampai ke hujung jalan,<br>
 Sampai matlamat jalan kesampaian,<br>
-Atau sampai tak boleh jalan”.[^14]<span style="display: block; text-align: center;">
+Atau sampai tak boleh jalan”.[^14]</span>
 
 <p align="right">– Muhammad Ariff Ahmad</p>
 
