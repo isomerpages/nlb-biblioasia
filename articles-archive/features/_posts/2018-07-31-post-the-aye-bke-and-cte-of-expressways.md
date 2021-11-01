@@ -65,14 +65,14 @@ The location of the first expressways in Singapore was based largely on the prop
 
 The 42.8-km PIE was initially conceived as a 35-km-long dual three-lane carriageway, with a central divider and hard shoulder. The 35-km stretch was constructed between 1966 and 1981 and involved four phases: Phase I between Jalan Eunos and Thomson Road, Phase II between Thomson Road and Jalan Anak Bukit, Phase III between Jalan Eunos and Changi Airport, and Phase IV between Jalan Anak Bukit and Jalan Boon Lay.[^19] In 1992, a new section at the western end was added to link the PIE to Kranji Expressway (KJE).[^20]
 
-<img style="width: 400px; height: 450px;" src="/images/Vol-14-issue-2/the-aye-bke-and-cte-of-expways/Road4.JPG">
-<div style="background-color: white;">Benjamin Sheares Bridge, as shown in this 1986 photograph, links East Coast Parkway to the city and offers panoramic views of the skyline. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
-
 During the construction of PIE, roads such as Jalan Toa Payoh, Jalan Kolam Ayer and Paya Lebar Way were widened, while flyovers such as Aljunied Road Flyover and Bedok North Avenue 3 Flyover were built to obviate the need for traffic light junctions.[^21] Grade-separated interchanges, including Thomson Road Interchange, Toa Payoh South Interchange and Bedok Road North Interchange, were also constructed to improve traffic flow into and out of the PIE.[^22] In 1978, a trumpet-shaped interchange was added at the eastern end of the PIE to connect it to the island’s second expressway – the East Coast Parkway (ECP).[^23]
 
 The 19-km ECP, built entirely on reclaimed land, links Changi Airport and major housing estates along the south-eastern coastline of Singapore to industrial sites and the CBD. Some of the estates that the ECP serves include Bedok, Siglap and Marine Parade. Construction took place over 10 years, between 1971 and 1981, in four phases. Phases 1 and 2 covered the stretch from Fort Road to Nallur Road, while Phases 3 and 4 comprised the 7-km portion from Nallur Road to Changi Road and the scenic 5.4-km section from Tanjong Rhu  to Keppel Road respectively.[^24]
 
 One prominent feature of the ECP is the 185-hectare East Coast Park that runs alongside it. The park stretches over 15 km with access to a beach and amenities such as barbecue pits, cycling and jogging tracks, fishing spots, bicycle and skate rentals, food and beverage outlets, and chalets.[^25] A second feature of the ECP is the iconic 1.8-km Benjamin Sheares Bridge that links the expressway to the CBD and offers panoramic views of the city skyline. Named in memory of Singapore’s second president, the bridge spans Kallang Basin and Maria Bay and was the longest elevated viaduct on the island at the time.[^26]
+
+<img style="width: 400px; height: 450px;" src="/images/Vol-14-issue-2/the-aye-bke-and-cte-of-expways/Road4.JPG">
+<div style="background-color: white;">Benjamin Sheares Bridge, as shown in this 1986 photograph, links East Coast Parkway to the city and offers panoramic views of the skyline. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;">
 	<b>EXPRESSWAY GARDENS</b><br><br>
@@ -104,8 +104,14 @@ To encourage commuters to switch from cars to public transportation, the network
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
 <b>ECO-LINK @ BKE</b><br><br>
-Eco-Link@BKE is a 62-metre-long wildlife crossing spanning the Bukit Timah Expressway (BKE). Located between the Pan-Island Expressway and Dairy Farm exits, the ecological bridge – the first of its kind in Southeast Asia – reconnects Bukit Timah Nature Reserve and Central Catchment Nature Reserve that were split up when the BKE cut through the forest in 1986.The eco-link, which opened in 2013, was constructed to provide a safe passage for native animal species, such as flying squirrels, monitor lizards, palm civets, pangolins, porcupines, birds, insects and snakes, between one reserve and the other. The ability to travel between the nature reserves is important as it allows the animals to expand their habitat, increase their forage range and enlarge their genetic pool, ultimately increasing their chances of survival.To stimulate a natural environment, native trees and shrubs such as Oil Fruit Tree, Singapore Kopsia and Seashore Mangosteen were planted along the length of the bridge. The vegetation along the edges of the link acts as a buffer against traffic noise and pollution. To keep a record of animals using the bridge, cameras with motion sensors have been installed at strategic points along the link to monitor animal movement between the nature reserves.Public guided walks organised by the National Parks Board between late 2015 and early 2016 have been suspended so as not to disturb the animals using the link.<br><br>
-<img style="width: 450px; height: 300px;" src="/images/Vol-14-issue-2/the-aye-bke-and-cte-of-expways/Road6.JPG">The Eco-Link across Bukit Timah Expressway (BKE) was built to allow safe passage of wildlife between the Central Catchment Reserve and the Bukit Timah Nature Reserve. The two reserves were separated when the BKE was constructed. Photo by Richard W.J. Koh.
+Eco-Link@BKE is a 62-metre-long wildlife crossing spanning the Bukit Timah Expressway (BKE). Located between the Pan-Island Expressway and Dairy Farm exits, the ecological bridge – the first of its kind in Southeast Asia – reconnects Bukit Timah Nature Reserve and Central Catchment Nature Reserve that were split up when the BKE cut through the forest in 1986.
+<br><br>
+The eco-link, which opened in 2013, was constructed to provide a safe passage for native animal species, such as flying squirrels, monitor lizards, palm civets, pangolins, porcupines, birds, insects and snakes, between one reserve and the other. The ability to travel between the nature reserves is important as it allows the animals to expand their habitat, increase their forage range and enlarge their genetic pool, ultimately increasing their chances of survival.
+<br><br>
+To stimulate a natural environment, native trees and shrubs such as Oil Fruit Tree, Singapore Kopsia and Seashore Mangosteen were planted along the length of the bridge. The vegetation along the edges of the link acts as a buffer against traffic noise and pollution. To keep a record of animals using the bridge, cameras with motion sensors have been installed at strategic points along the link to monitor animal movement between the nature reserves.
+<br><br>
+Public guided walks organised by the National Parks Board between late 2015 and early 2016 have been suspended so as not to disturb the animals using the link.<br><br>
+<img style="width: 450px; height: 300px;" src="/images/Vol-14-issue-2/the-aye-bke-and-cte-of-expways/Road6.JPG">The Eco-Link across Bukit Timah Expressway (BKE) was built to allow safe passage of wildlife between the Central Catchment Reserve and the Bukit Timah Nature Reserve. The two reserves were separated when the BKE was constructed. <i>Photo by Richard W.J. Koh.</i>
 </span>
 
 #### **Next-Generation Expressways: KPE and MCE**
@@ -131,7 +137,7 @@ A unique feature of the NSC will be its dedicated bus lanes and cycling trunk ro
 <br>
 <div style="background-color: white;">
 <img src="/images/Vol-14-issue-2/the-aye-bke-and-cte-of-expways/Road8.jpg" style="width: 100px; height: 100px;">
-<b>Lim Tin Seng</b> is a Librarian with the National Library, Singapore. He is the co-editor of <i>Roots: Tracing Family Histories – A Resource Guide</i> (2013); <i>Harmony and Development: ASEAN-China Relations</i> (2009) and <i>China’s New Social Policy: Initiatives for a Harmonious Society</i> (2010). He is also a regular contributor to BiblioAsia.
+<b>Lim Tin Seng</b> is a Librarian with the National Library, Singapore. He is the co-editor of <i>Roots: Tracing Family Histories – A Resource Guide</i> (2013); <i>Harmony and Development: ASEAN-China Relations</i> (2009) and <i>China’s New Social Policy: Initiatives for a Harmonious Society</i> (2010). He is also a regular contributor to <i>BiblioAsia</i>.
 </div>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-14/issue-2/jul-sep-2018/"><center>Back to Issue</center></a>

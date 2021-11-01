@@ -8,7 +8,7 @@ layout: post
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-11-issue-2/sgsportgreat/LLOYD_VALBERG.jpg">
+<img style="width:70%" src="/images/vol-11-issue-2/sgsportgreat/LLOYD_VALBERG.jpg">
 High-jumper Lloyd Valberg was the first athlete to represent Singapore at the Olympics – the 1948 London games.<i>Courtesy of Sport Singapore.</i>
 </div>
 
@@ -35,13 +35,13 @@ Not to be left out, Tang Pui Wah made a compelling case for female athletes. The
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-11-issue-2/sgsportgreat/nck.jpg">
-Singapore’s “Flying Fish” Neo Chwee Kok won four gold medals at the 1951 Asian Games held in New Delhi.<i>Courtesy of Sport Singapore.</i>
+Singapore’s “Flying Fish” Neo Chwee Kok won four gold medals at the 1951 Asian Games held in New Delhi. <i>Courtesy of Sport Singapore.</i>
 </div>
 
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-11-issue-2/sgsportgreat/Tan_Howe_Liang.jpg">
-Weightlifter Tan Howe Liang won Singapore’s first Olympic medal, a silver, at the 1960 Rome Olympics.<i>Courtesy of Sport Singapore.</i>
+Weightlifter Tan Howe Liang won Singapore’s first Olympic medal, a silver, at the 1960 Rome Olympics. <i>Courtesy of Sport Singapore.</i>
 </div>
 
 
@@ -68,8 +68,6 @@ Following in the footsteps of Patricia were sisters Elaine and Junie Sng, daught
 The 1960s and 1970s were also the age of supremacy in local athletics, with C. Kunalan, Chee Swee Lee and K. Jayamani giving Singapore some of its finest sporting moments. Kunalan just missed winning gold in the men’s 100-metre sprint at the 1966 Asian Games in Bangkok as he was edged out by Malaysia's M. Jegathesan in a photo-finish. In all, he won five Asian Games and 14 SEA Games medals in a career spanning over a few decades.
 
 Trained by coach Patrick Zehnder, Chee delivered one of the most spectacular performances in the history of local athletics to win the gold medal in the women’s 400-metre race at the 1974 Asian Games in Tehran, Iran. She set a new games record with her time of 55.08 seconds and became the  first  Singaporean  woman  to  win  an athletics gold at the games.
-
-Trained by coach Patrick Zehnder, Chee delivered one of the most spectacular performances in the history of local athletics to win the gold medal in the women’s 400-metre race at the 1974 Asian Games in Tehran, Iran. She set a new games record with her time of 55.08 seconds and became the first Singaporean woman to win an athletics gold at the games.
 
 Jayamani achieved SEA Games success in distance running but part of the interest in her story stemmed from the unique,  heartwarming relationship she had with  her coach Maurice Nicholas and his family. Jayamani recalls, “Maurice often went beyond the duties of a conventional coach to embrace me as family. When I stayed with the family, his wife Elizabeth would treat  me as her own daughter. Although she was sometimes strict with me, she showered me with lots of care. She would cook meals like her famous herbal chicken for me to ensure I had the proper nutrition to keep up with the harsh demands of training. I also formed a close bond with their daughters, Michelle and Sharon. They were like family to me.” Indeed, this was an era when coaches often went way beyond their roles as coaches to become mentor, friend and even parent to some of their charges.
 
@@ -147,7 +145,7 @@ Starting with Jin Junhong in the 1990s, table tennis – boosted by the import o
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-11-issue-2/sgsportgreat/Feng_Tianwei.jpg">
+<img style="width:70%" src="/images/vol-11-issue-2/sgsportgreat/Feng_Tianwei1.jpg">
 Feng Tianwei was part of Singapore’s women’s table tennis team that won a silver medal at the 2008 Beijing Olympics. She clinched bronze in the women’s singles at the 2012 London Olympics. <i>Courtesy of Sport Singapore.</i>
 </div>
 
@@ -175,19 +173,20 @@ National sailor Colin Cheng came in 15th out of 49 boats in the men’s Laser ev
 2014 Asian Games gold medallist Joseph Schooling is arguably the most successful product among our US-based swimmers. <i>Courtesy of Singapore National Olympic Council, image by Danny Toh from the book 50est:</i> Stirring Stories For The Singapore Soul.
 </div>
 
-|**Paralympian Winners**|
-
-|On 15 September 2008, the Singapore national anthem was played inside an Olympic arena for the first time. Paralympian Yip Pin Xiu, afflicted by muscular dystrophy since birth, had battled against the odds to win sporting success. Competing in the Beijing Paralympics, she won gold in the 50-metre backstroke in a time of 58.75 seconds.|
-
-|Equestrian Laurentia Tan developed cerebral palsy and profound  deafness after birth. However, that  did not stop the gutsy sportswoman  from winning a silver and a bronze at the London Paralympics in 2012. For her achievements, Tan became the  first disabled athlete to win The Straits Times Athlete of the Year award in 2013.|
-
-|Together with swimmer Theresa Goh, who suffers from spina bifida  but has been making waves with her consistent performances at swimming championships over the years, Yip and Tan have made a compelling statement for Paralympians in Singapore. Like  able-bodied athletes, their quest for  sporting success is serious business. It demands no less – or perhaps even more – in terms of hard work, devotion, commitment and sacrifice.| 
-
-|The fact that Singapore has  embraced the sporting achievements of its Paralympians with as much pride as those of its able-bodied athletes is perhaps an indication of the society it has become. Significantly, when Tan  won The Straits Times Athlete of the Year award, she edged out some big  names in Singapore sports, including table tennis star Feng Tianwei and world champion bowler Shayna Ng.|
-
-|<img src="/images/vol-11-issue-2/sgsportgreat/Laurentia_Tan.jpg">Laurentia Tan won a silver and a bronze at the 2012 London Paralympics. <i>Photo courtesy of Sport Singapore.</i>|
-
-|<img src="/images/vol-11-issue-2/sgsportgreat/Yip_Pin_Xiu.jpg">Yip Pin Xiu won the 50-metre backstroke at the 2008 Beijing Paralympics. <i>Photo courtesy of Sport Singapore.</i>|
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> 
+<b>PARALYMPIAN WINNERS</b>
+<br><br>
+On 15 September 2008, the Singapore national anthem was played inside an Olympic arena for the first time. Paralympian Yip Pin Xiu, afflicted by muscular dystrophy since birth, had battled against the odds to win sporting success. Competing in the Beijing Paralympics, she won gold in the 50-metre backstroke in a time of 58.75 seconds.
+<br><br>
+Equestrian Laurentia Tan developed cerebral palsy and profound  deafness after birth. However, that  did not stop the gutsy sportswoman  from winning a silver and a bronze at the London Paralympics in 2012. For her achievements, Tan became the  first disabled athlete to win The Straits Times Athlete of the Year award in 2013.
+<br><br>
+Together with swimmer Theresa Goh, who suffers from spina bifida  but has been making waves with her consistent performances at swimming championships over the years, Yip and Tan have made a compelling statement for Paralympians in Singapore. Like  able-bodied athletes, their quest for  sporting success is serious business. It demands no less – or perhaps even more – in terms of hard work, devotion, commitment and sacrifice.
+<br><br>
+The fact that Singapore has  embraced the sporting achievements of its Paralympians with as much pride as those of its able-bodied athletes is perhaps an indication of the society it has become. Significantly, when Tan  won The Straits Times Athlete of the Year award, she edged out some big  names in Singapore sports, including table tennis star Feng Tianwei and world champion bowler Shayna Ng.
+<br><br>
+<img style="width:40%" src="/images/vol-11-issue-2/sgsportgreat/Laurentia_Tan1.jpg">Laurentia Tan won a silver and a bronze at the 2012 London Paralympics. <i>Photo courtesy of Sport Singapore.</i>
+<br><br>
+<img style="width:50%" src="/images/vol-11-issue-2/sgsportgreat/Yip_Pin_Xiu1.jpg">Yip Pin Xiu won the 50-metre backstroke at the 2008 Beijing Paralympics. <i>Photo courtesy of Sport Singapore.</i></span>
 
 <p style="font-size:15px;">A former journalist with <i>The Straits Times</i>, <b>Chua Chong Jin</b> teaches communications at Nanyang Business School. Educated at the National University of Singapore and Cambridge University, he has written and edited various books, including <i>50est: Stirring Stories For The Singapore Soul</i> for the Singapore National Olympic Council.</p>
 

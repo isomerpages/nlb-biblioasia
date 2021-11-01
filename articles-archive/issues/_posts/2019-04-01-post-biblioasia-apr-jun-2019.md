@@ -2,14 +2,12 @@
 layout: post
 title: BiblioAsia Apr-Jun 2019
 date: 2020-01-01T00:00:00.000Z
-breadcrumb: "Apr-Jun 2019"
+breadcrumb: Apr-Jun 2019
 permalink: /vol-15/issue-1/apr-jun-2019/
 ---
-
+In this special issue, we look at the National Archives to understand its role in Singapore. We also explore its many riches, such as its extensive oral history collection.
 
 <img src="/images/Vol-15-issue-1/vol15_iss1.jpg">
-
-In this special issue, we look at the National Archives to understand its role in Singapore. We also explore its many riches, such as its extensive oral history collection.
 
 **Director’s Note**
 
@@ -47,5 +45,4 @@ Oral history is often considered as “little” – personal accounts of humble
 A treaty that sealed Singapore’s fate, a contract for the sale of child brides, and a drawing of an iconic theatre are among the items showcased in a new book, *50 Records from History*, published by the National Archives of Singapore. [(PDF)](/files/pdf/vol-15/v15-issue1_Makinghistory.pdf)
 
 **Feeding the Hungry: Children in Post-War Singapore** <br>
-In the aftermath of the Japanese Occupation, the colonial government set up feeding centres to address malnutrition among children in Singapore. *Cheryl-Ann Low* has the details. [(PDF)](/files/pdf/vol-15/v15-issue1_Feeding.pdf) 
-
+In the aftermath of the Japanese Occupation, the colonial government set up feeding centres to address malnutrition among children in Singapore. *Cheryl-Ann Low* has the details. [(PDF)](/files/pdf/vol-15/v15-issue1_Feeding.pdf)

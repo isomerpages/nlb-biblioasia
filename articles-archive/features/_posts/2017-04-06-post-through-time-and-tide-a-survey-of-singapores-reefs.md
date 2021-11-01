@@ -21,9 +21,6 @@ layout: post
 <br><br>
 In 1847, Dr Robert Little, a British surgeon, set off on a series of tours to Singapore’s southern islands, beginning with the isle known as Pulau Blakang Mati (present-day Sentosa).[^2] His journeys were no joyrides; the good doctor was investigating the source of “remittent fever” – a form of malaria – that had killed some three-fourths of the men posted to a signal station at Blakang Mati. The station was indispensable to navigation in the straits, but as no men were willing to serve at the ill-fated site, it was abandoned in 1845.
 
-<div style="background-color: white;"><img src="/images/Vol-13-issue-1/through-time-and-tide/02_timeandtide.jpg">(Left) This painting from the 1830s depicts a cluster of wooden houses perched on stilts on Pulau Brani. In the 1960s, residents were asked to resettle on mainland Singapore to make way for the construction of a naval base. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i><br>
-(Right) Two boys playing with their pet roosters in a Malay kampong on Pulau Seking, an offshore island that is now part of Pulau Semakau, 1983. <i>Quek Tiong Swee Collection, courtesy of National Archives of Singapore.</i></div>
-
 In the mid-19th century, malarial fever was often blamed on miasma or bad air that emanated from decaying vegetation in swamps or, in the case of Pulau Blakang Mati, its dense pineapple plantations. Being an annual crop, the remains of every harvest were often left to rot; this led to the belief that the decaying leaves emitted miasmatic vapours that infected nearby residents.
 
 Dr Little, however, held a different theory, believing that the miasma originated from coral reefs. During the 19th century, extensive fringing reefs lined Singapore’s southern shores and islands while isolated or patch reefs, known to locals as *terumbu* or *beting*, abounded in the straits. Although the doctor must have been familiar with these habitats, he found cause to regard them as less a treat than a threat. He explained:
@@ -35,6 +32,9 @@ For all his misplaced suspicions, Dr Little’s initial encounters with Blakang 
 “At low water spring tides, the whole of these reefs are uncovered, so that by lying on the reef, one can look down into a depth of from 4 to 9 fathoms, like as a school boy does on a wall and looks at the objects below, which here are living corals of many and wondrous shapes, with tints so beautiful that nothing on earth can equal them. While the lovely coral fish, vying with their abodes in the liveliness of their colours, are to be seen peeping out of every crevice, which at full tide has but a few feet of water to cover it.”[^4]
 
 Dr Little hit an epidemiological deadend,[^5] but his expeditions to Blakang Mati, St John’s and Lazarus Islands as well as now-forgotten isles such as Brani, Seking, Sakra and Pesek, offered a rare if fleeting window to Singapore’s reefs and the communities who lived off them.
+
+<div style="background-color: white;"><img src="/images/Vol-13-issue-1/through-time-and-tide/02_timeandtide.jpg">(Left) This painting from the 1830s depicts a cluster of wooden houses perched on stilts on Pulau Brani. In the 1960s, residents were asked to resettle on mainland Singapore to make way for the construction of a naval base. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i><br>
+(Right) Two boys playing with their pet roosters in a Malay kampong on Pulau Seking, an offshore island that is now part of Pulau Semakau, 1983. <i>Quek Tiong Swee Collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **Danger at High Water**
 
@@ -54,7 +54,7 @@ As for Pulo Pandan, there is sign of neither hut nor island today. The only clue
 
 #### **Low Tide Treasures**
 
-Pulo Pandan may be long gone (see box story), but life persists, at least under the waves. Early descriptions of Cyrene Shoal’s natural wealth still ring true today, for the reef harbours marine biodiversity that makes it, in the words of Ria Tan, a veteran nature conservationist, the “Chek Jawa of the South”. One visitor in the 1960s recalled “emerald waters” and “deep chasms which in good visibility could rival the view of the Grand Canyon”.[^10] Marine biologists have recorded 37 genera of corals and seven seagrass species at Cyrene Shoal, as well as large numbers of knobbly sea stars (*Protoreaster nodosus*) and signs of endangered dugongs on the reef’s seagrass bed.[^11]
+Pulo Pandan may be long gone (See text box below), but life persists, at least under the waves. Early descriptions of Cyrene Shoal’s natural wealth still ring true today, for the reef harbours marine biodiversity that makes it, in the words of Ria Tan, a veteran nature conservationist, the “Chek Jawa of the South”. One visitor in the 1960s recalled “emerald waters” and “deep chasms which in good visibility could rival the view of the Grand Canyon”.[^10] Marine biologists have recorded 37 genera of corals and seven seagrass species at Cyrene Shoal, as well as large numbers of knobbly sea stars (*Protoreaster nodosus*) and signs of endangered dugongs on the reef’s seagrass bed.[^11]
 
 <div style="background-color: white;"><img style="width:400px" src="/images/Vol-13-issue-1/through-time-and-tide/03_timeandtide.jpg">Cyrene Reef is home to a large population of knobbly sea stars. <i>Photo taken on 22 July 2012. Courtesy of Marcus Ng.</i></div>
 
@@ -78,7 +78,7 @@ Pulo Pandan is now reduced to Terumbu Pandan and forms part of the Cyrene Reefs.
 <br><br>
 “… running as I said before along by the Ilands on the right hand, and coming by the aforesaid round Island [Pulau Mesemut Laut[^22]], on the right at the end of the row of Ilands whereby you pass, you shall see a small flat Iland [Cyrene Shoal], with a few trees, having a white sandy strand, which lieth east and west, with the mouth of ye Straight of Sincapura [Keppel Harbour], which you shall make towards….”[^23]
 <br><br>
-The seashore pandan (Pandanus tectorius), a native plant associated with sandy beaches, may have been the tree that lent its name to Pulo Pandan. By 1848, however, Pulo Pandan had been denuded of vegetation but gained a new toponym,[^24] as the <i>Singapore Free Press</i> noted: “Called by the Malays Pulo Pandan, and by the English Cyrene shoal; the trees have all disappeared, but aged natives say that there were many trees on the reef in former times, hence the Malays call it a Pulo or Island”.[^25]
+	The seashore pandan (<i>Pandanus tectorius</i>), a native plant associated with sandy beaches, may have been the tree that lent its name to Pulo Pandan. By 1848, however, Pulo Pandan had been denuded of vegetation but gained a new toponym,[^24] as the <i>Singapore Free Press</i> noted: “Called by the Malays Pulo Pandan, and by the English Cyrene shoal; the trees have all disappeared, but aged natives say that there were many trees on the reef in former times, hence the Malays call it a Pulo or Island.”[^25]
 <br><br>
 By the 1890s, whatever remained of the Pulo had vanished, and the <i>Descriptive Dictionary of British Malaya</i> had this to say of it: “[Cyrene] Shoal… presents a brilliant appearance at low water, being covered with live corals and shells, many of the most brilliant colours. It is a favourite hunting  ground for conchologists.”[^26]
 <br><br>
@@ -98,7 +98,7 @@ Gibson-Hill believed that the island was still extant in the 1820s, when Captain
 
 Pulau Seringat, which was conjoined with Lazarus Island (Pulau Sekijang Pelepah) off the southern coast at the turn of the 21st century, offers a glimpse into the possibilities that face Singapore’s reefs. Where the island now stands was once a tidal islet known as Pulau Rengit, which refers to either a sandfly or a freshwater shell.[^30] Another account from 1923, however, cites the alternate moniker of Pulau Ringgit to explain that the islet was “named by reason of the fact that the ninety or more Malay fishermen and the one Chinese store-keeper who supplies their needs, pay a nominal annual rent of a dollar for the privilege of living a congested existence there”.[^31]
 
-Within a decade, however, most of the islanders would leave their home, which a 1935 article described as “an almost barren, low-lying stretch of coral”. The same report added of the residents: “They have now been moved – there are only a few dozen of them left – to a neighbouring islet which suffers less from the inundations of high tides”.[^32] It would appear that the few families that remained on Pulau Rengit eventually all moved to the mainland. Tijah Bte Awang, a villager born on Pulau Rengit, recalled:
+Within a decade, however, most of the islanders would leave their home, which a 1935 article described as “an almost barren, low-lying stretch of coral”. The same report added of the residents: “They have now been moved – there are only a few dozen of them left – to a neighbouring islet which suffers less from the inundations of high tides.”[^32] It would appear that the few families that remained on Pulau Rengit eventually all moved to the mainland. Tijah Bte Awang, a villager born on Pulau Rengit, recalled:
 
 “When I was growing up on Pulau Seringat, which some called Pulau Rengit, I remember it as one with no trees – just land, with one small mosque surrounded by 15 houses… our homes were built on stilts and placed side by side facing the sea… I remember in 1930, our island was not safe. The authorities feared that the sea would swallow up the island during extreme high tide or during a storm… I can’t remember exactly when we left Pulau Seringat. I may have been in my teens when our family made the permanent shift to Lazarus Island.”[^33]
 
@@ -110,7 +110,7 @@ The impending loss[^36] of Pulau Rengit was mourned by Singapore’s nascent mar
 
 In 2001, when word got out that Chek Jawa at Pulau Ubin was slated for reclamation by year-end, the marine conservation community felt, as Sivasothi put it, that “this time, we could do better”. They mobilised, with the help of the then burgeoning internet, to invite Singaporeans to a “last chance to see” Chek Jawa and its diverse marine life. The memory and lessons of Pulau Seringat were still fresh and the experience prompted the museum to initiate large-scale walks at Chek Jawa to share the beauty and biodiversity of this shore with the public.
 
-<div style="background-color: white;"><img style= "width:400px" src="/images/Vol-13-issue-1/through-time-and-tide/05_timeandtide.jpg">Smooth ribbon seagrass (Cymodocea rotundata growing in abundance at the seagrass lagoon at Chek Jawa. <i>Photo taken by Ria Tan on 27 November 2004. Courtesy of WildSingapore.</i></div>
+<div style="background-color: white;"><img style= "width:400px" src="/images/Vol-13-issue-1/through-time-and-tide/05_timeandtide.jpg">Smooth ribbon seagrass (<i>Cymodocea rotundata</i> growing in abundance at the seagrass lagoon at Chek Jawa. <i>Photo taken by Ria Tan on 27 November 2004. Courtesy of WildSingapore.</i></div>
 
 Teams of volunteers led walks that exposed Chek Jawa to thousands of visitors, while press coverage of the campaign gave rise to broad-based appeals for the preservation of the coastal wetland. At the eleventh hour, on 20 December 2001, the government announced a 10-year deferment of reclamation for Chek Jawa.
 
@@ -156,7 +156,7 @@ It is also a trip, not to the southern margins of an island nation, but to where
 
 [^10]:[Destroying Singapore’s undersea treasures](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19680404-1.2.77). (1968, April 4). *The Straits Times*, p. 10. Retrieved from NewspaperSG.
 
-[^11]:Lee Kong Chian Natural History Museum. (2017). Cyrene Reef. Retrieved from The DNA of Singapore website.
+[^11]:Lee Kong Chian Natural History Museum. (2017). *Cyrene Reef*. Retrieved from The DNA of Singapore website.
 
 [^12]:Walter, M.A.H.B., & Riaz Hassan (1977). *[An island community in Singapore: A characterization of a marginal society](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081905)* (p. 22). Singapore: Chopmen Enterprises. (Call no.: RSING 301.4443 WAL)
 

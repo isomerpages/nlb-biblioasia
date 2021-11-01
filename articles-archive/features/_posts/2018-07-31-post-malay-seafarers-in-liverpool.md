@@ -47,7 +47,7 @@ Mat Nor recounted his arrival in Liverpool in 1952: “[F]irst time when I came 
 
 All this changed when the former seafarer Johan Awang, who had moved to Liverpool from New York City after World War II, opened a club for Malay seamen on St James Road in the mid-1950s.[^9]  The Malay Club, as it came to be known, occupied the first floor of a house facing Liverpool’s Anglican Cathedral. By that time, Johan Awang’s own home on 37 Greenland Street – a short walk from St James Road – was already well known to visiting as well as Liverpool-based Malay seamen.
 
-The Malay Club had bunk beds for visiting seamen, a big backyard and a games room with a dartboard. There was also a prayer room on the second floor. Food was central to memories of the club and, more broadly, of Malay Liverpool during that period – the very mention of spicy Malay fare cooked for special occasions and gatherings would transport people whom I interviewed back to St James Road club of the 1950s..
+The Malay Club had bunk beds for visiting seamen, a big backyard and a games room with a dartboard. There was also a prayer room on the second floor. Food was central to memories of the club and, more broadly, of Malay Liverpool during that period – the very mention of spicy Malay fare cooked for special occasions and gatherings would transport people whom I interviewed back to St James Road club of the 1950s.
 
 At weekends, seamen took their children and wives to visit what was otherwise largely an adult male space. But the club became more than just a place for the Malay diaspora to meet: it was a place where seafarers, ex-seafarers and, to a lesser extent, their family members could be comfortable within their own skins.
 
@@ -101,7 +101,7 @@ By the late 1980s, the Malay Club had become known as the Malaysia-Singapore Ass
 When I first visited in December 2003, the Malay Club was one of only two buildings in the section of Jermyn Street, between Princes Road and Granby Street, that had not been abandoned. By 2008, No. 7 Jermyn Street had ceased to function as a club, and was boarded up following a series of break-ins. The building had deteriorated to a state that fitted in with the more general dereliction affecting Jermyn and its surrounding streets. On the last occasion I visited, in August 2016, even the MSA signboard had been removed. The last piece of visible evidence of the one-time place of Malay Liverpool was erased forever.
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
-This essay contains extracts from the book <i>From World City to the World in One City: Liverpool Through Malay Lives</i> (2016) by Tim Bunnell. Published by John Wiley & Sons Ltd, it retails at major bookshops, and is also available for reference and loan at the Lee Kong Chian Reference Library and selected public libraries [Call nos.: RSING 305.89928042753 BUN and SING 305.89928042753 BUN](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202533401).
+This essay contains extracts from the book <i>From World City to the World in One City: Liverpool Through Malay Lives</i> (2016) by Tim Bunnell. Published by John Wiley & Sons Ltd, it retails at major bookshops, and is also available for reference and loan at the Lee Kong Chian Reference Library and selected public libraries ([Call nos.: RSING 305.89928042753 BUN and SING 305.89928042753 BUN](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202533401)).
 </span>
 <br>
 <div style="background-color: white;">

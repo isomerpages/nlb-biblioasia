@@ -64,11 +64,11 @@ Abisheganaden was commissioned by then Minister for Education Goh Keng Swee to p
 
 In 1981, Abisheganaden founded the National University of Singapore Guitar Ensemble (GENUS) at the university’s Centre for Musical Activities. Beginning as a guitar class with fewer than 10 enthusiasts, GENUS has now grown into a 50-member strong ensemble with a wide repertoire and is recognised as one of Singapore’s premier guitar ensembles. Its annual public concerts often feature Abisheganaden’s original compositions and music that he has transcribed for the guitar.
 
-These works reflect Abisheganaden’s personality and musical style: he enjoys taking a popular ASEAN song, arranging it into a style suitable for the guitar ensemble, and then teaching it to his students. Some notable examples include the Tagalog song “Anak” written by Filipino musician Freddie Aguilar; “The Pursuit” composed by local music legend Dick Lee and popularised by the late Cantopop singer Leslie Cheung; and “Jingli Nona” (or Jinkli Nona, which means “Fair Maiden”), one of the most popular Portuguese Eurasian folk songs. It was often sung and performed at Eurasian weddings, and the dance movements are somewhat similar to the Malay* joget*.
+These works reflect Abisheganaden’s personality and musical style: he enjoys taking a popular ASEAN song, arranging it into a style suitable for the guitar ensemble, and then teaching it to his students. Some notable examples include the Tagalog song “Anak” written by Filipino musician Freddie Aguilar; “The Pursuit” composed by local music legend Dick Lee and popularised by the late Cantopop singer Leslie Cheung; and “Jingli Nona” (or Jinkli Nona, which means “Fair Maiden”), one of the most popular Portuguese Eurasian folk songs. It was often sung and performed at Eurasian weddings, and the dance movements are somewhat similar to the Malay *joget*.
 
 Abisheganaden also composed works for the guitar – including original pieces and transcriptions of popular songs – for didactic purpose as a means to train and improve playing techniques of the guitar orchestra. Iconic works include the 16-bar long “Katong Blues,” a short work composed in 1971 for the TV programme *Music Making with the Guitar*, which derived its name from the east coast district in Singapore, and “Huan Yin-Vanakam”, a double concerto Abisheganaden composed in 1995 for the sitar, erhu and guitar orchestra.
 
-<div style="background-color: white;"><img style="width:400px" src="/images/Vol-13-issue-1/the-guitar-man/03_guitarman.jpg">Parts of a classical guitar. <i>All rights reserved, Abisheganaden, A. (1970). Music Making with the Guitar (Vol. 1) (p.6). Singapore: ETV Service.</i></div>
+<div style="background-color: white;"><img style="width:400px" src="/images/Vol-13-issue-1/the-guitar-man/03a_guitarman.jpg">Parts of a classical guitar. <i>All rights reserved, Abisheganaden, A. (1970). Music Making with the Guitar (Vol. 1) (p.6). Singapore: ETV Service.</i></div>
 
 “Huan Yin-Vanakam” combines elements of Indian and Chinese folk music – musical traditions that Abisheganaden has kept close to his heart. The concerto blends sinuous Chinese folk melodies with the rhythmic tempo of songs sung by Indian foreign workers that Abisheganaden remembered from his childhood days. Together with the inclusion of Chinese and Indian musical instruments as well as Western classical influences, the work has distinguished itself as a singularly important example of world music.
 
@@ -96,7 +96,7 @@ This is a bound publication of handwritten pedagogy notes that Alex Abisheganade
 <br><br>
 <b>Eleven September Two Thousand and One</b> (2002)(Call no.: RCLOS 781.095957 ELE-[AA])
 <br>
-Conceptualised and arranged by Alex Abisheganaden, this work was inspired by the aftermath of the 2011 terrorist attacks. It includes two sets of draft summary text on Singapore’s history and development since 1819. The work comprises arrangements for “Sumatera”, “Singapore”, “God Save the King”, “Negara Ku”, “Count on Me Singapore” and “Let There be Peace on Earth”. The piece was performed by GENUS in a concert in 2002.
+Conceptualised and arranged by Alex Abisheganaden, this work was inspired by the aftermath of the 2001 terrorist attacks. It includes two sets of draft summary text on Singapore’s history and development since 1819. The work comprises arrangements for “Sumatera”, “Singapore”, “God Save the King”, “Negara Ku”, “Count on Me Singapore” and “Let There be Peace on Earth”. The piece was performed by GENUS in a concert in 2002.
 <br><br>
 <b>Friends</b> (1983) (Call no.: RCLOS 787.87 ABI-[AA])
 <br>
@@ -207,7 +207,7 @@ Nanda, A. (2011, October 17). [Strings of passion](http://eresources.nlb.gov.sg/
 
 National Library Board. (2008). *[Alex Abisheganaden](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1360_2008-07-27.html)* written by Chang, Tou Liang. Retrieved from Singapore Infopedia website.
 
-National Library Board. (2017, February 17). *[Jacintha Abisheganade](http://eresources.nlb.gov.sg/infopedia/articles/SIP_2015-02-17_110409.html)*n written by Ho, Stephanie. Retrieved from Singapore Infopedia website.
+National Library Board. (2017, February 17). *[Jacintha Abisheganaden](http://eresources.nlb.gov.sg/infopedia/articles/SIP_2015-02-17_110409.html)* written by Ho, Stephanie. Retrieved from Singapore Infopedia website.
 
 National University of Singapore Guitar Ensemble. (2016). *Our Founder – Alex Abisheganaden*. Retrieved from National University of Singapore Guitar Ensemble website.
 

@@ -40,7 +40,7 @@ Furthermore, as mangrove wetlands are coastal plant communities that belong to a
 
 The four most common mangrove species found in Singapore include *Avicennia* (api-api), *Bruguiera, Rhizophora* (*bakau*), and *Sonneratia*.[^14] It is estimated that the island was home to 75 sq km of mangrove forests two centuries ago compared to the minuscule 7.35 sq km found today.[^15] By the end of the 19th century, a sizable portion of mangroves had been destroyed by logging activities.[^16] In the subsequent decades, large swathes of mangrove forests were removed for industrial development and conversion to coastal reservoirs, the most well-known of which is Marina Reservoir in the heart of the new downtown.[^17] Today, there are only a few scattered patches of mangroves left in Singapore,[^18] and these are mostly found in the northern part of the island.
 
-<div style="background-color: white;"><img src="/images/Vol-13-issue-1/mangroves/03_mangroves.jpg">A 1915 photo by G. R. Lambert & Co. showing some attap houses in a kampong, possibly at Bukit Timah. Mangrove habitats also host nipah palms, whose leaves are used for thatching. <i>Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009.</i></div>
+<div style="background-color: white;"><img style="width:600px" src="/images/Vol-13-issue-1/mangroves/03a_mangroves.jpg">A 1915 photo by G. R. Lambert & Co. showing some attap houses in a kampong, possibly at Bukit Timah. Mangrove habitats also host nipah palms, whose leaves are used for thatching. <i>Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009.</i></div>
 
 One of the most well-known mangrove conservation sites is at Sungei Buloh Wetland Reserve. It is a popular site for migratory shorebird watching and photography and has clearly marked nature trails with raised boarded walkways to provide easy access and also prevent wildlife and vegetation from being trampled on.[^19] The wetland reserve contains the largest tracts of mangrove forests on the mainland.[^20] Other places in Singapore that were named after mangroves, such as Kampong Sungei Attap and Sungei Bakau Rungkup in Jurong, no longer exist.[^21]
 
@@ -90,8 +90,8 @@ The use of cooking gas and electricity spelt the end of the charcoal industry in
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Vol-13-issue-1/mangroves/ang_seow_leng.png">
-	<b>Ang Seow Leng</b> is a Senior Librarian with the National Library, Singapore. Her responsibilities include managing the Singapore & Southeast Asian Collection, developing content as well as providing reference and research services related to Singapore and Southeast Asia.
+<img style="width: 100px; height: 100px;" src="/images/Vol-13-issue-1/mangroves/ang_seow_leng1.png">
+<b>Ang Seow Leng</b> is a Senior Librarian with the National Library, Singapore. Her responsibilities include managing the Singapore & Southeast Asian Collection, developing content as well as providing reference and research services related to Singapore and Southeast Asia.
 </div>
 
 <a href="/vol-13/issue-1/apr-jun-2017/"><center>Back to Issue</center></a>
@@ -112,7 +112,7 @@ The use of cooking gas and electricity spelt the end of the charcoal industry in
 
 [^7]:Ng, P.K.L., et. al. (2007). *[Private lives: An exposé of Singapore’s shores](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12913692)* (p. 200). Singapore: Raffles Museum of Biodiversity Research. (Call no.: RSING 578.7699095957 PRI)
 
-[^8]:Wetlands International and The Nature Conservance. (2014). *Mangroves for coastal defence: Guidelines for coastal managers & policy makers*. Retrieved from Wetlands International website; Kinver, M. (2005, December 25). Tsunami: Mangroves ‘saved lives’. BBC News. Retrieved from BBC News website.
+[^8]:Wetlands International and The Nature Conservance. (2014). *Mangroves for coastal defence: Guidelines for coastal managers & policy makers*. Retrieved from Wetlands International website; Kinver, M. (2005, December 25). Tsunami: Mangroves ‘saved lives’. *BBC News*. Retrieved from BBC News website.
 
 [^9]:UNEP & WCMC. (2014, December 4). *Biodiversity A-Z: Mangrove*. Retrieved from Biodiversity A-Z website.
 

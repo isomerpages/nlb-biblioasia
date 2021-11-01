@@ -2,13 +2,12 @@
 layout: post
 title: BiblioAsia Apr-Jun 2018
 date: 2020-01-01T00:00:00.000Z
-breadcrumb: "Apr-Jun 2018"
+breadcrumb: Apr-Jun 2018
 permalink: /vol-14/issue-1/apr-jun-2018/
 ---
+In this issue, we uncover the real story behind Singapore's national flower, learn about biological warfare efforts and find out more about a band of extraordinary women who fought to overthrow British rule in India.
 
 <img src="/images/Vol-14-issue-1/vol14_iss1.JPG">  
-
-In this issue, we uncover the real story behind Singapore's national flower, learn about biological warfare efforts and find out more about a band of extraordinary women who fought to overthrow British rule in India.
 
 **Director’s Note**
 
@@ -48,4 +47,3 @@ Classical and Modern Chinese education in Mainland China and Taiwan has been deb
 
 **First Issues: Publications From the Past** <br>
 Launch issues can make or break a new publication. *Barbara Quek* shares highlights of first issues from NLB’s Legal Deposit Collection. [(PDF)](/files/pdf/vol-14/v14-issue1_FirstIssues.pdf)
-

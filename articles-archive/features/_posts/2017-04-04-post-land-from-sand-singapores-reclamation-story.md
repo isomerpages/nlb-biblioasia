@@ -16,8 +16,7 @@ The quest for land is as old as time immemorial; one of the reasons nations go t
 
 Many people think of land reclamation in Singapore as a fairly recent phenomenon, but in actual fact the earliest reclamation project took place in colonial times. When Stamford Raffles landed at the mouth of the Singapore River in January 1819, the lay of the land was vastly different from what we see today. The river was flanked by mangrove swamps and mosquito-infested jungle, and what is now Telok Ayer Street and Beach Road were coastal areas that hugged the sea.
 
-<div style="background-color: white;"><img src="/images/Vol-13-issue-1/land-from-sand/02_landfromsand.jpg">(Left) This lithograph (c. 1850) by Lieutenant Edwin Augustus Porcher from the British Royal Navy shows the view as seen from South Boat Quay, where Singapore’s first reclamation took place in 1822. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i></div>
-<div style="background-color: white;">(Right) Named after George Chancellor Collyer, then Chief Engineer of the Straits Settlements, Collyer Quay was built on reclaimed land by convict labour and completed in 1864. <i>Courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;"><img style="width:600px" src="/images/Vol-13-issue-1/land-from-sand/02a_landfromsand.jpg">This lithograph (c. 1850) by Lieutenant Edwin Augustus Porcher from the British Royal Navy shows the view as seen from South Boat Quay, where Singapore’s first reclamation took place in 1822. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i></div>
 
 It did not take long for the British to get down to business. Singapore was officially claimed by Raffles as a colony, and just four years later, the island witnessed the first of its many topographic transformations.
 
@@ -29,9 +28,9 @@ As the south bank occupied a lowlying marsh that was prone to flooding, a hilloc
 
 Boat Quay and Commercial Square grew rapidly. By the late 1860s, the mercantile community had outgrown the site, spilling over to another reclaimed strip of land to the south. Known as Collyer Quay, this stretch – from Johnston’s Pier to the old Telok Ayer Market – was reclaimed between 1859 and 1864.[^4] This was part of a scheme conceived by the Municipal Engineer, George Chancellor Collyer.
 
-Collyer wanted to build a seawall to serve as a landing site and a road behind it so that merchants could have their establishments facing the waterfront. This would not only improve the “aspect of Singapore’s waterfront”, but also allow the merchants to keep an eye on the movement of ships carrying their goods. Indeed, some of the first buildings constructed along Collyer Quay were linked at the second storey by a verandah that faced the sea. Peons armed with telescopes would be stationed along the verandah to announce the arrival of their company ships.[^5]
+<div style="background-color: white;"><img style="width:600px" src="/images/Vol-13-issue-1/land-from-sand/02b_landfromsand.jpg">Named after George Chancellor Collyer, then Chief Engineer of the Straits Settlements, Collyer Quay was built on reclaimed land by convict labour and completed in 1864. <i>Courtesy of National Archives of Singapore.</i></div>
 
-<div style="background-color: white;"><img style="width:600px" src="/images/Vol-13-issue-1/land-from-sand/03_landfromsand.jpg">An aerial view of the Central Business District in the 1950s with the octagonal-shaped Telok Ayer Market (Lau Pa Sat) on the left and Clifford Pier jutting out into the sea on the right. In the foreground is Telok Ayer Basin where small vessels once anchored. The tidal basin was eventually reclaimed in the 1970s. <i>© Urban Redevelopment Authority. All rights reserved.</i></div>
+Collyer wanted to build a seawall to serve as a landing site and a road behind it so that merchants could have their establishments facing the waterfront. This would not only improve the “aspect of Singapore’s waterfront”, but also allow the merchants to keep an eye on the movement of ships carrying their goods. Indeed, some of the first buildings constructed along Collyer Quay were linked at the second storey by a verandah that faced the sea. Peons armed with telescopes would be stationed along the verandah to announce the arrival of their company ships.[^5]
 
 As work on the foundation of the seawall could be carried out only when the tide was at its lowest ebb, an occurrence that took place once every fortnight, the reclamation proceeded at a glacial pace. It took three years for the seawall to be completed and another year to lay the road behind it.[^6]
 
@@ -52,6 +51,8 @@ The plan for the new harbour, unveiled in 1902 and revised in 1904, was drafted 
 Work began smoothly at first but in 1910, problems began to surface when dredging operations commenced. When engineers discovered that the seawall was sinking, work was suspended. At the time, 65 out of the 88 acres of land had been reclaimed and 4,120 feet of the seawall erected. However, as the construction of the seawall had been carried out simultaneously on both ends, the engineers were left with an incomplete seawall and a gaping  880-ft  space in between.[^14]
 
 To salvage the project, engineers reinforced the foundations of the seawall and allowed it to settle for the next 10 years. Thereafter, the unclaimed area would be converted into a tidal basin for anchoring small vessels with the gap in the seawall serving as an entrance.[^15] Construction resumed in 1930 and was completed in 1932.[^16] By then, the cost of the project had ballooned from 2.5 to 15 million Straits dollars.[^17]
+
+<div style="background-color: white;"><img style="width:600px" src="/images/Vol-13-issue-1/land-from-sand/03_landfromsand.jpg">An aerial view of the Central Business District in the 1950s with the octagonal-shaped Telok Ayer Market (Lau Pa Sat) on the left and Clifford Pier jutting out into the sea on the right. In the foreground is Telok Ayer Basin where small vessels once anchored. The tidal basin was eventually reclaimed in the 1970s. <i>© Urban Redevelopment Authority. All rights reserved.</i></div>
 
 #### **Kallang Basin and Beach Road**
 
@@ -148,7 +149,7 @@ Although Singapore had to turn to other countries for sand, it recently develope
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Vol-13-issue-1/land-from-sand/lim-tin-seng.png">
-	<b>Lim Tin Seng</b> is a Librarian with the National Library, Singapore. He is the co-editor of <i>Roots: Tracing Family Histories – A Resource Guide</i> (2013); <i>Harmony and Development: ASEAN-China Relations</i> (2009) and <i>China’s New Social Policy: Initiatives for a Harmonious Society</i> (2010). He is also a regular contributor to BiblioAsia.
+	<b>Lim Tin Seng</b> is a Librarian with the National Library, Singapore. He is the co-editor of <i>Roots: Tracing Family Histories – A Resource Guide</i> (2013); <i>Harmony and Development: ASEAN-China Relations</i> (2009) and <i>China’s New Social Policy: Initiatives for a Harmonious Society</i> (2010). He is also a regular contributor to <i>BiblioAsia</i>.
 </div>
 
 <a href="/vol-13/issue-1/apr-jun-2017/"><center>Back to Issue</center></a>
@@ -163,7 +164,7 @@ Although Singapore had to turn to other countries for sand, it recently develope
 
 [^4]:[Collyer of Quay fame](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19330629-1.2.71). (1933, June 29). *The Singapore Free Press and Mercantile Advertiser* (1884–1942), p. 88. Retrieved from NewspaperSG; [Buckley](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082239), 1984, p. 689.
 
-[^5]:*[The Singapore Free Press and Mercantile Advertiser](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19330629-1.2.71)* (1884-1942), 29 Jun 1933, p. 88; [Buckley](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082239), 1984, p. 689; Tyers, R.K. (1993). *[Ray Tyers’ Singapore: Then and now](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6442235)* (pp. 103, 114–115). Singapore: Landmark Books. (Call no.: RSING 959.57 TYE)
+[^5]:*[The Singapore Free Press and Mercantile Advertiser](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19330629-1.2.71)* (1884–1942), 29 Jun 1933, p. 88; [Buckley](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082239), 1984, p. 689; Tyers, R.K. (1993). *[Ray Tyers’ Singapore: Then and now](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6442235)* (pp. 103, 114–115). Singapore: Landmark Books. (Call no.: RSING 959.57 TYE)
 
 [^6]:*[The Singapore Free Press and Mercantile Advertiser](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19330629-1.2.71)* (1884–1942), 29 Jun 1933, p. 88; [Buckley](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082239), p. 689.
 
@@ -195,7 +196,7 @@ Although Singapore had to turn to other countries for sand, it recently develope
 
 [^20]:*[The Singapore Free Press and Mercantile Advertiser](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19341101-1.2.31)* (1884–1942), 1 Nov 1934, p. 4; *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19370612-1.2.125.33)*, 12 Jun 1937, p. 10. *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19370614-1.2.136)*, 14 Jun 1937, p. 18; [Governor opens airport](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19370613-1.2.2). (1937, June 13). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
 
-[^21]:[New waterfront scheme may be postponed](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19400722-1.2.56). (1940, July 22). *The Singapore Free Press and Mercantile Advertiser* (1884–1942), p. 5. Retrieved from NewspaperSG; Dorai, F. (2016). *[South Beach: From sea to sky: The evolution of Beach Road](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14715805)* (p. 26). Singapore: South Beach. (Call no.: RSING 959.57 DOR); Savage, P., & Yeoh, B.S.A. (2013). *[Singapore street names: A study of toponymic](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200123850)*s (p. 32). Singapore: Marshall Cavendish Editions. (Call no.: RSING 915.9570014 SAV)
+[^21]:[New waterfront scheme may be postponed](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19400722-1.2.56). (1940, July 22). *The Singapore Free Press and Mercantile Advertiser* (1884–1942), p. 5. Retrieved from NewspaperSG; Dorai, F. (2016). *[South Beach: From sea to sky: The evolution of Beach Road](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14715805)* (p. 26). Singapore: South Beach. (Call no.: RSING 959.57 DOR); Savage, V.R., & Yeoh, B.S.A. (2013). *[Singapore street names: A study of toponymic](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200123850)*s (p. 32). Singapore: Marshall Cavendish Editions. (Call no.: RSING 915.9570014 SAV)
 
 [^22]:*[The Singapore Free Press and Mercantile Advertiser ](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19400722-1.2.56)* (1884–1942), 22 Jul 1940, p. 5; [Mrs McNeice opens Queen Elizabeth Walk & Gardens](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19530531-1.2.33). (1953, May 31). *The Straits Times*, p. 5. Retrieved from NewspaperSG.
 

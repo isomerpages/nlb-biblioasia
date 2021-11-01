@@ -64,9 +64,9 @@ On top of the unsupportive environment, a track on the album, “Fried Rice Para
 
 Nonetheless, the song “Fried Rice Paradise” received substantial airtime on Rediffusion and became an instant hit. The endearing song is one of Lee’s most well-known, and was made into a musical in 1991.
 
-#### **Finally Making**
+#### **Finally Making Tracks**
 
-Tracks Throughout the 1970s and 80s, Lee championed the use of Asian influences in local pop music and worked tirelessly to inject a strong Singaporean identity into his works. It was not until the mid-1980s when Singapore’s music scene was finally making some headway that Lee launched what has been deemed as his breakout pioneering album.
+Throughout the 1970s and 80s, Lee championed the use of Asian influences in local pop music and worked tirelessly to inject a strong Singaporean identity into his works. It was not until the mid-1980s when Singapore’s music scene was finally making some headway that Lee launched what has been deemed as his breakout pioneering album.
 
 Ever the die-hard local boy, he says, “The term ‘Singaporean’ had no meaning at the time, so who was I – Chinese, Singaporean, Asian, English-educated, Peranakan? – and what did I have to say? I wanted not to be shallow, I wanted to be taken seriously. How could I introduce a Singapore element into a form that was basically Western? I wanted to do it with honesty, tapping on the things I knew.”
 
@@ -170,7 +170,7 @@ Ever the consummate performer and entertainer, Lee will not be resting on his la
 
 Brazil, D. (1989, November 19). [This is S'pore. Sharp. Hip. You'll like it, donch worry!](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19891119-1.2.44.1) <i>The Straits Times</i>, p. 32. Retrieved from NewspaperSG.
 
-Carl, K.A. (1905). With the Empress Dowager of China. New York; The Century Co. Retrieved from World ebook Library.
+Carl, K.A. (1905). <i>With the Empress Dowager of China</i>. New York; The Century Co. Retrieved from World ebook Library.
 
 Chow, C. (2002, July 31). [Eat forbidden fruit](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20020731-1.2.69.4.1). <i>The Straits Times</i>, p. 5. Retrieved from NewspaperSG.
 

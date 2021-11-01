@@ -2,13 +2,12 @@
 layout: post
 title: BiblioAsia Oct-Dec 2015
 date: 2015-10-01T00:00:00.000Z
-breadcrumb: "Oct-Dec 2015"
+breadcrumb: Oct-Dec 2015
 permalink: /vol-11/issue-3/oct-dec-2015/
 ---
+Opium-smoking, gambling, prostitution and triad activities were common in Singapore in the 19th and early 20th centuries. In this issue, we examine the seedy side of Singapore’s past through the lens of “Crime, Vice & Punishment”.
 
 <img src="/images/Vol-11-issue-3/Vol11_Iss3.jpg">
-
-Opium-smoking, gambling, prostitution and triad activities were common in Singapore in the 19th and early 20th centuries. In this issue, we examine the seedy side of Singapore’s past through the lens of “Crime, Vice & Punishment”.
 
 [Director’s Note](/vol-11/issue-3/oct-dec-2015/director-note)
 
@@ -36,4 +35,3 @@ Opium-smoking, gambling, prostitution and triad activities were common in Singap
 
 [Pay it Forward: The Tamil Digital Heritage Project](/vol-11/issue-3/oct-dec-2015/payitforward)<br>
 *Chitra Sankaran* charts the history of a community-driven project that has seen the digitisation of 350 homegrown Tamil literary works.
-

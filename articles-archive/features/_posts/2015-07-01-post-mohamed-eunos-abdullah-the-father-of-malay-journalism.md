@@ -86,15 +86,17 @@ Bungalow-type dwellings made of wood and zinc in Kampong Melayu. <i>All rights r
 1956 street directory indicating the location of Jalan Eunos and the Malay Settlement. <i>All rights reserved, Singapore Survey Department</i>. (1950–75). Singapore street directory and sectional maps <i>(Map no. 60). Singapore: Survey Department</i>.
 </div>
 
-|**Rise and Fall of Utusan Melayu**|
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> 
+<b>RISE AND FALL OF UTUSAN MELAYU</b>
+<br><br>
+The Utusan Melayu which Eunos Abdullah edited was initially published three times a week on Tuesday, Thursday and Saturday, but was converted into a daily in 1915 to meet the demand for news of World War I. In 1921, the newspaper was sued by Raja Shariman and Che Tak, assistant commissioners of police of the Federated Malay States, for damages over an alleged libel. At the time of the libel, the newspaper’s circulation had dipped below 280 copies.8 The heavy damages awarded against Utusan Melayu turned out to be financially crippling and it ceased operations as a result. 
+<br><br>
+Perhaps as a tribute to Eunos Abdullah, his successor, Ambo Sooloh, along with other Kesatuan Melayu Singapura (KMS) leaders and members such as Yusof Ishak (later the first president of Singapore) and Abdul Rahim Kajai, started another newspaper in 1939. They called it Utusan Melayu but unlike the first version of Utusan Melayu, this reincarnation was fully owned, financed and managed by Malays.[^9] In 1958, the newspaper relocated its operations to Kuala Lumpur. </span>
 
-|The Utusan Melayu which Eunos Abdullah edited was initially published three times a week on Tuesday, Thursday and Saturday, but was converted into a daily in 1915 to meet the demand for news of World War I. In 1921, the newspaper was sued by Raja Shariman and Che Tak, assistant commissioners of police of the Federated Malay States, for damages over an alleged libel. At the time of the libel, the newspaper’s circulation had dipped below 280 copies.8 The heavy damages awarded against Utusan Melayu turned out to be financially crippling and it ceased operations as a result. |
-
-|Perhaps as a tribute to Eunos Abdullah, his successor, Ambo Sooloh, along with other Kesatuan Melayu Singapura (KMS) leaders and members such as Yusof Ishak (later the first president of Singapore) and Abdul Rahim Kajai, started another newspaper in 1939. They called it Utusan Melayu but unlike the first version of Utusan Melayu, this reincarnation was fully owned, financed and managed by Malays.[^9] In 1958, the newspaper relocated its operations to Kuala Lumpur. |
-
-|**KMS and the UMNO Connection**|
-
-|After World War II, the Kesatuan Melayu Singapura (KMS), together with more than 40 other Malay unions from different Malay states, presented a united front to protest against the Malayan Union proposal by the British to reduce the status and role of Malay kings and leaders, and to separate Singapore from Malaya. The Malayan Union was eventually replaced by the Federation of Malaya in 1948.15 Under the leadership of Dato’ Onn Ja’afar, the United Malays National Organisation (UMNO) had emerged as the leading political party in Malaya. In 1953, the KMS merged with UMNO to form the Singapore branch of UMNO. Following Singa- pore’s independence in 1965, the Singapore branch was officially renamed Pertubuhan Kebang- saan Melayu Singapura (PKMS) in 1967 to comply with government regulations that prohibited local parties from affiliating with foreign organisations.|
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> 
+<b>KMS AND THE UMNO CONNECTION</b>
+<br><br>
+After World War II, the Kesatuan Melayu Singapura (KMS), together with more than 40 other Malay unions from different Malay states, presented a united front to protest against the Malayan Union proposal by the British to reduce the status and role of Malay kings and leaders, and to separate Singapore from Malaya. The Malayan Union was eventually replaced by the Federation of Malaya in 1948.15 Under the leadership of Dato’ Onn Ja’afar, the United Malays National Organisation (UMNO) had emerged as the leading political party in Malaya. In 1953, the KMS merged with UMNO to form the Singapore branch of UMNO. Following Singa- pore’s independence in 1965, the Singapore branch was officially renamed Pertubuhan Kebang- saan Melayu Singapura (PKMS) in 1967 to comply with government regulations that prohibited local parties from affiliating with foreign organisations.</span>
 
 <p style="font-size:15px;"><b>Mazelan Anuar</b> is a Senior Librarian with the National Library of Singapore. He has been involved in exhibition projects such as “Aksara: The Passage of Malay Scripts” and “Rihlah: Arabs in Southeast Asia”, and is part of the library’s NewspaperSG team, an online archive of Singapore newspapers dating back to 1831.</p>
 	

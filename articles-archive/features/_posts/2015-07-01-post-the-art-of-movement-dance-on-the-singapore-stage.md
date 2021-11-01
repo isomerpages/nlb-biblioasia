@@ -88,7 +88,7 @@ As artistic director of Bhaskar’s Arts Academy, where she teaches Bharatnatyam
 
 From the 100 students the academy had in the 1950s, the dance school has  more than 2,000 today. Bhaskar is also  artistic director and resident choreographer of NUS Indian Dance at the Centre for the Arts at the National University of Singapore, where she taught for over 20 years since the late 1970s.
 
-At the Centre for the Arts, Bhaskar also dabbled in dance forms such as hip-hop and contemporary dance as well as literary arts like poetry. For instance, the light-hearted dance drama Pappadum featuring hip-hop dance group NUS Dance Blast! was staged in 2006, while <i>Vibrations</i>, an experimental meld of Indian dance with light and video, was performed at Esplanade – Theatres on the Bay the following year. In 2012, <i>Chakra</i>, which combined Indian dance movements with sand art, was staged. 
+At the Centre for the Arts, Bhaskar also dabbled in dance forms such as hip-hop and contemporary dance as well as literary arts like poetry. For instance, the light-hearted dance drama <i>Pappadum</i> featuring hip-hop dance group NUS Dance Blast! was staged in 2006, while <i>Vibrations</i>, an experimental meld of Indian dance with light and video, was performed at Esplanade – Theatres on the Bay the following year. In 2012, <i>Chakra</i>, which combined Indian dance movements with sand art, was staged. 
 
 “My artistic inspirations grew with  Singapore. Watching Chinese dance, Malay dance and international dance forms has influenced my choreography,” said Bhaskar.[^7]
 

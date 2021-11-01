@@ -103,7 +103,7 @@ You could call me an advocate of IVF. I often encourage my friends who are tryin
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-11-issue-2/stories/SamuelLee.jpg">
+<img style="width:70%" src="/images/vol-11-issue-2/stories/SamuelLee1.jpg">
 Samuel Lee with a projection of a newspaper article marking his birth. He says that, fanfare aside, he grew up an ordinary Singaporean, in a three-room flat in Woodlands, with parents who refused to pamper him with too many toys.
 </div>
 
@@ -147,12 +147,15 @@ In 1964, we brought in Mazda, but people didn’t trust a Japanese make. They wo
 
 I still love cars and will spend more than an hour washing my daughter’s car. The only part I don’t clean is the engine – I don’t want to dirty my nails!
 
+<div style="background-color: white;">
+<br/>
 <img src="/images/vol-11-issue-2/stories/Rosie_Ang.jpg">
+Veteran car saleswoman Rosie Ang, 77, started out in the business when she was 20. Her working hours were long, but her hard work paid off, and she had plenty of referrals. She even delivered a car to Singapore’s first president, Yusof Ishak.</div>
 
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-11-issue-2/stories/Rosie_Ang_old.jpg">
-Veteran car saleswoman Rosie Ang, 77, started out in the business when she was 20. Her working hours were long, but her hard work paid off, and she had plenty of referrals. She even delivered a car to Singapore’s first president, Yusof Ishak.
+Veteran car saleswoman Rosie Ang at her company's car showroom at Ngee Ann City Building on Orchard Road in the 1960s. It was one of several showrooms in the area then. <i>Courtesy of Rosie Ang.</i>
 </div>
 
 
@@ -253,11 +256,13 @@ When Glenn was younger, we would worry about his future. Now, we’re definitely
 Glenn Phua, see here with his father Kelvin, was found to be autistic when he was four. His artistic talent was discovered when he won an art competition.
 </div>
 
-|<i>Living The Singapore Story: Celebrating Our 50 Years 1965–2015</i> is on sale in bookshops at $19.65 (GST included). Commissioned by the National Library Board in celebration of Singapore’s Jubilee year, it features 58 Singaporeans describing how their lives evolved as Singapore changed over the past half-century. The stories featured on these pages are excerpts from the book.|
 
-|The team members behind the book, led by <i>The Straits Times</i> Editor-at-large Han Fook Kwang, are journalists Angelina Choy, Cheong Suk-Wai and Jennani Durai, former journalist Cassandra Chew and photographer Bryan van der Beek. A 15-member editorial advisory committee was chaired by Ambassador-at-large Tommy Koh and the NLB team was led by Francis Dorai, Assistant Director (Publishing).|
-
-|This article and selected excerpts were first published in <i>The Sunday Times</i> on 17 May 2015. © Singapore Press Holdings Limited. Reprinted with permission.|
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> 
+<i>Living The Singapore Story: Celebrating Our 50 Years 1965–2015</i> is on sale in bookshops at $19.65 (GST included). Commissioned by the National Library Board in celebration of Singapore’s Jubilee year, it features 58 Singaporeans describing how their lives evolved as Singapore changed over the past half-century. The stories featured on these pages are excerpts from the book.
+<br><br>
+The team members behind the book, led by <i>The Straits Times</i> Editor-at-large Han Fook Kwang, are journalists Angelina Choy, Cheong Suk-Wai and Jennani Durai, former journalist Cassandra Chew and photographer Bryan van der Beek. A 15-member editorial advisory committee was chaired by Ambassador-at-large Tommy Koh and the NLB team was led by Francis Dorai, Assistant Director (Publishing).
+<br><br>
+This article and selected excerpts were first published in <i>The Sunday Times</i> on 17 May 2015. © Singapore Press Holdings Limited. Reprinted with permission.</span>
 
 <p style="font-size:15px;"><b>Han Fook Kwang</b> joined The Straits Times in 1989 and became its political editor in 1995. He served as editor of the paper from 2002 to 2012. He is currently Editor-at-large at the newspaper.</p>
 

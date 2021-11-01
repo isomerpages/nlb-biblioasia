@@ -39,12 +39,12 @@ Drawing of two pineapples from the 1598 book, <i>John Hvighen van Linschoten, Hi
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-11-issue-2/frenchcan/Pineapples_ready.jpg">
-Pineapples ready for the market in Singapore, early 1900s. Courtesy of National Archives of Singapore.
+Pineapples ready for the market in Singapore, early 1900s. <i>Courtesy of National Archives of Singapore</i>.
 </div>
 
-#### **The First Attempts at Cannin**
+#### **The First Attempts at Canning**
 
-<i>The Singapore Directory for the Straits Settlements 1879</i>[^9] reports that a Frenchman named Laurent was the first in Singapore to produce preserved pineapples “some four years ago” (i.e. around 1875), but “his undertaking collapsed after a brief period.” Exactly why Laurent’s venture collapsed is unknown but financial difficulties are likely to have figured in his failure: an indignant letter published in 1877 by Victor Charles Valtriny, partner of C. Poisson & Co., complained against a court ruling favouring Laurent. The dispute was over money owed to Valtriny or a consignment of Laurent’s tinned pineapples that the former had shipped to Paris for sale.[^10] This Laurent is believed to be the same Jules Antoine Laurent who took over the Clarendon Hotel on Beach Road from the owner Charles Emmerson in 1874.[^11]
+<i>The Singapore Directory for the Straits Settlements 1879</i> [^9] reports that a Frenchman named Laurent was the first in Singapore to produce preserved pineapples “some four years ago” (i.e. around 1875), but “his undertaking collapsed after a brief period.” Exactly why Laurent’s venture collapsed is unknown but financial difficulties are likely to have figured in his failure: an indignant letter published in 1877 by Victor Charles Valtriny, partner of C. Poisson & Co., complained against a court ruling favouring Laurent. The dispute was over money owed to Valtriny or a consignment of Laurent’s tinned pineapples that the former had shipped to Paris for sale.[^10] This Laurent is believed to be the same Jules Antoine Laurent who took over the Clarendon Hotel on Beach Road from the owner Charles Emmerson in 1874.[^11]
 
 It was another Frenchman who had some measure of success in the canning business. Joseph Pierre Bastiani was a seaman with French shipping company Messageries Maritimes, who arrived in Singapore in 1874.[^12] His 1925 obituary described him as a veteran of “the disasterous [sic] war... between France and Germany”, referring to the Franco-Prussian War of 1870–71. Although Bastiani was not significant enough to be listed as a merchant in the 1879 Straits Settlements directory, there is, nonetheless, mention of Bastiani’s manufacture and export of canned pineapple “to the great marts of France and Italy”, calling it “an industry yet but in a partial state of development, but... one that may be looked forward as likely to provide a large amount of employment for the industrial and agricultural classes of the colony”.[^13]
 
@@ -86,19 +86,20 @@ Although it has been claimed that Ayam brand sardines were canned in Singapore, 
 
 In 1954, the Denis Frères Company, run by the sons of a French mariner who settled in Saigon,[^34] bought the Clouët business from the son of one of Alfred Clouët’s partners, Ned Clumeck. They grew it into the firm you see today. Clouët Trading is now the dominant player in Singapore’s canned and preserved goods sector, holding 20 percent of the market share as at 2013.[^35] It is also a worldwide player under the name Ayam SARL, and one of 13 companies analysed by Research and Markets in their report for the global canned food market.[^36]
 
-|**Canning and the French Connection**|
-
-|The canning industry can be traced to the French Revolution of 1789–99 when France conscripted hundreds of thousands of men as soldiers. As it was impossible to feed that many men in the field – imagine the amount of fresh meat and vegetables to be sourced and transported daily – in 1795, a prize was put up by the Société d’Encouragement pour l’Industrie Nationale (Society for the Encouragement of National Industry) in Paris for anyone who could find a new and economical way to preserve food that was more nutritious than traditional salting, smoking and pickling.|
-
-|<img src="/images/vol-11-issue-2/frenchcan/Nicolas_Appert.jpg">Portrait of Nicolas Appert, inventor of food canning in 1795, tiré de Les Artisans illustres de Foucaud, anonymous woodcut, circa 1841. Les Artisans illustres 1841, collection Jean-Paul Barbier, Musée des Beaux Arts Châlons en Champagne. <i>Courtesy of Wikimedia Commons</i>. |
-
-|The man who claimed that prize 15 years later in January 1810 was Nicolas Appert, a chef who had set up a confectionery in Paris.[^18] Appert’s rudimentary method involved glass bottles sealed with cork and wire but the basic process he designed to seal food in containers and then heating the containers to kill bacteria and spores is still used today.|
-
-|It was another patent registered in London by the British inventor Peter Durand that introduced the idea of using handmade wrought iron canisters, the precursor to the can as we know it. Intriguingly, Durand, who was of French origin, filed his patent in August 1810, just three months after Appert published the details of his process in Paris.[^19] This has led some to suggest that Durand stole Appert’s idea. However, retired Reading University food science lecturer Norman Cowell’s research has found evidence in a diary that names a Frenchman, Philippe de Girard, as having communicated the idea to Durand.[^20] That Girard’s name does not appear in the patent and only exists in an eyewitness account is not surprising given that Britain had been fighting with France since 1793, and hostilities would continue until Napoleon’s final defeat at Waterloo in 1815. Canning was an important advance in military logistics and it would have been ill-advised for a Frenchman like de Girard to openly advertise this transfer of technology to the British. Indeed, Durand later sold the patent to the British food company Donkin, Hall and Gamble who set up a canning factory and by 1812, the firm had begun to supply tinned food to the British army.[^21]|
-
-|<img src="/images/vol-11-issue-2/frenchcan/tin_can.jpg">Tin can used at the first canning factory in England, Bryan Donkin and Co., London, England, 1812. <i>Bryan Donkin Archive Trust</i>.|
-
-|<img src="/images/vol-11-issue-2/frenchcan/rudimentary_method.jpg">Appert’s rudimentary method of preserving food using glass bottles sealed with cork and wire, collection Jean-Paul Barbier, Musée Châlons en Champagne salle Appert. <i>Courtesy of Wikimedia Commons</i>.|
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> 
+<b>CANNING AND THE FRENCH CONNECTION</b>
+<br><br>
+The canning industry can be traced to the French Revolution of 1789–99 when France conscripted hundreds of thousands of men as soldiers. As it was impossible to feed that many men in the field – imagine the amount of fresh meat and vegetables to be sourced and transported daily – in 1795, a prize was put up by the Société d’Encouragement pour l’Industrie Nationale (Society for the Encouragement of National Industry) in Paris for anyone who could find a new and economical way to preserve food that was more nutritious than traditional salting, smoking and pickling.
+<br><br>
+<img style="width:40%" src="/images/vol-11-issue-2/frenchcan/Nicolas_Appert1.jpg">Portrait of Nicolas Appert, inventor of food canning in 1795, tiré de Les Artisans illustres de Foucaud, anonymous woodcut, circa 1841. Les Artisans illustres 1841, collection Jean-Paul Barbier, Musée des Beaux Arts Châlons en Champagne. <i>Courtesy of Wikimedia Commons</i>. 
+<br><br>
+The man who claimed that prize 15 years later in January 1810 was Nicolas Appert, a chef who had set up a confectionery in Paris.[^18] Appert’s rudimentary method involved glass bottles sealed with cork and wire but the basic process he designed to seal food in containers and then heating the containers to kill bacteria and spores is still used today.
+<br><br>
+It was another patent registered in London by the British inventor Peter Durand that introduced the idea of using handmade wrought iron canisters, the precursor to the can as we know it. Intriguingly, Durand, who was of French origin, filed his patent in August 1810, just three months after Appert published the details of his process in Paris.[^19] This has led some to suggest that Durand stole Appert’s idea. However, retired Reading University food science lecturer Norman Cowell’s research has found evidence in a diary that names a Frenchman, Philippe de Girard, as having communicated the idea to Durand.[^20] That Girard’s name does not appear in the patent and only exists in an eyewitness account is not surprising given that Britain had been fighting with France since 1793, and hostilities would continue until Napoleon’s final defeat at Waterloo in 1815. Canning was an important advance in military logistics and it would have been ill-advised for a Frenchman like de Girard to openly advertise this transfer of technology to the British. Indeed, Durand later sold the patent to the British food company Donkin, Hall and Gamble who set up a canning factory and by 1812, the firm had begun to supply tinned food to the British army.[^21]
+<br><br>
+<img style="width:40%" src="/images/vol-11-issue-2/frenchcan/tin_can1.jpg">Tin can used at the first canning factory in England, Bryan Donkin and Co., London, England, 1812. <i>Bryan Donkin Archive Trust</i>.
+<br><br>
+<img style="width:30%" src="/images/vol-11-issue-2/frenchcan/rudimentary_method1.jpg">Appert’s rudimentary method of preserving food using glass bottles sealed with cork and wire, collection Jean-Paul Barbier, Musée Châlons en Champagne salle Appert. <i>Courtesy of Wikimedia Commons</i>.</span>
 
 <p style="font-size:15px;"><b>Timothy Pwee</b> is a Senior Reference Librarian who handles the National Library’s Singapore collection. In a previous incarnation, he worked in a small business education outfit that gave him passing familiarity with the business world and the travails of small start-ups.</p>
 
@@ -131,12 +132,11 @@ In 1954, the Denis Frères Company, run by the sons of a French mariner who sett
 
 [^13]: Keaughran, T.J. (1879). *[The Singapore directory for the Straits Settlements 1879](https://eresources.nlb.gov.sg/printheritage/detail/9879b97a-f840-4443-9452-3cbd165b388b.aspx)* (p. 3). Singapore: Printed by Straits Times Off. Retrieved from BookSG. (Microfilm no.: NL1175)
 
-[^14]: Valtriny, V.C. (1877, February 8). [Commercial securities](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stoverland18770208-1.2.24.8). <i>Straits Times Overland Journal</i>, p. 8. Retrieved from NewspaperSG.
+[^14]: Valtriny, V.C. (1877, February 8). [Commercial securities](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stoverland18770208-1.2.24.8). <i>The Straits Times Overland Journal</i>, p. 8. Retrieved from NewspaperSG.
 
 [^15]: [Page 3 Advertisements Column 3: Notice](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18740328-1.2.21.3). (1874, March 28). <i>The Straits Times</i>, p. 3. Retrieved from NewspaperSG.
 
-[^16]: [Death of Mr. J. Bastiani](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19250105-1.2.63). (1925, January 5). <i>The Straits Times</i>, p. 9. Retrieved from NewspaperSG; Pilon, M., & Weiler, D. (2011). *[The French in Singapore: An illustrated
-history (1819–today)](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14270610)* (p. 86). Singapore: Editions Didier Millet. (Call no.: RSING 305.84105957 PIL)
+[^16]: [Death of Mr. J. Bastiani](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19250105-1.2.63). (1925, January 5). <i>The Straits Times</i>, p. 9. Retrieved from NewspaperSG; Pilon, M., & Weiler, D. (2011). *[The French in Singapore: An illustrated history (1819–today)](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14270610)* (p. 86). Singapore: Editions Didier Millet. (Call no.: RSING 305.84105957 PIL)
 
 [^17]: [Keaughran](https://eresources.nlb.gov.sg/printheritage/detail/9879b97a-f840-4443-9452-3cbd165b388b.aspx), 1879, p. 3.
 
@@ -150,8 +150,7 @@ history (1819–today)](https://eservice.nlb.gov.sg/item_holding.aspx?bid=142706
 
 [^22]: Refers to a quick-growing crop grown between successive plantings of a main crop.
 
-[^23]: Shriver, J.A. (1915). <i>Pineapple-canning industry of the world</i> (pp. 29–30). Washington:
-Department of Commerce. Retrieved from Archive Organisation website.
+[^23]: Shriver, J.A. (1915). <i>Pineapple-canning industry of the world</i> (pp. 29–30). Washington: Department of Commerce. Retrieved from Archive Organisation website.
 
 [^24]: J.de la C. M., & García, H.S. (2005, November 13). Pineapple: Post-harvest operations (p. 15). Retrieved from the Food and Agriculture Organisation of the United Nations website.
 

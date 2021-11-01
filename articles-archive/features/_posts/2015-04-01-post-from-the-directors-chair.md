@@ -42,7 +42,7 @@ I love roasted duck! It has always been my favourite dish.
 
 #### **Sun Koh** 
 
-**One of the few women filmmakers in Singapore, Sun Koh’s multiple-award-winning films have been screened in more than 30 festivals around the world. Her film career started in Singapore with her debut short film <i>The Secret Heaven</i> (2002) that won the Silver Hugo at the 38th Chicago International Film Festival. The film also won her the Best Director award at the 15th Singapore International Film Festival and audience choice awards in France, South Korea and Japan. In 2013, her film Singapore Panda, part of an omnibus feature <i>Letters From The South</i> with Tsai Ming Liang, Aditya Assarat and Royston Tan, premiered at the Busan International Film Festival and was sold to The Sundance Channel in 2014. She also directed the short film <i>The Secret Passion of Mdm Tan Ah Lian</i>, a short film commissioned by the National Arts Council for Silver Arts 2014.**
+**One of the few women filmmakers in Singapore, Sun Koh’s multiple-award-winning films have been screened in more than 30 festivals around the world. Her film career started in Singapore with her debut short film <i>The Secret Heaven</i> (2002) that won the Silver Hugo at the 38th Chicago International Film Festival. The film also won her the Best Director award at the 15th Singapore International Film Festival and audience choice awards in France, South Korea and Japan. In 2013, her film <i>Singapore Panda</i>, part of an omnibus feature <i>Letters From The South</i> with Tsai Ming Liang, Aditya Assarat and Royston Tan, premiered at the Busan International Film Festival and was sold to The Sundance Channel in 2014. She also directed the short film <i>The Secret Passion of Mdm Tan Ah Lian</i>, a short film commissioned by the National Arts Council for Silver Arts 2014.**
 
 <img src="/images/vol-11-issue-1/directorchair/sun_koh_re.jpg" style="width:70%">
 
@@ -104,7 +104,7 @@ A scene from Wee Li Lin's <i>Centrepoint Kids</i>. <i>Courtesy of Wee Li Lin.</i
 <div style="background-color: white;"></div>
 <img src="/images/vol-11-issue-1/directorchair/Ervin_Han_re.jpg" style="width:70%">
 
-**Synopsis**: The <i>Violin</i> is an animated short film that chronicles a journey spanning 80 years through the tumultuous times in Singapore's history, such as World War II, Merger and Independence. 
+**Synopsis**: <i>The Violin</i> is an animated short film that chronicles a journey spanning 80 years through the tumultuous times in Singapore's history, such as World War II, Merger and Independence. 
 
 **<i>The Violin</i> is a visually arresting montage of Singapore's history over the span of 80 years from the perspective of the musical instrument. Why did you choose a musical instrument as the storyteller?**<br> 
 We always knew there would not be any dialogue in the film, so the music really is the aural storyteller that has to carry and elevate the visuals for the film to work. The violin seemed natural because it has that haunting and evocative quality for the moods we wanted, and can also be emotional and poignant. 

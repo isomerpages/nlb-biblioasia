@@ -38,9 +38,9 @@ I am thirty-five.
 
 I am in a cab on the way to the Eurasian Association at Ceylon Road. The taxi driver eyes me openly in the rear view mirror.
 
-“Miss, you are what *ah*?“
+“Miss, you are what *ah*?”
 
-I’ve moved beyond my teenage belligerence, when I would either not acknowledge they were referring to my race or retort, “Human.” I don’t even roll my eyes anymore, even in my head. I think I’ve come a long way.
+I’ve moved beyond my teenage belligerence, when I would either not acknowledge they were referring to my race or retort, “Human”. I don’t even roll my eyes anymore, even in my head. I think I’ve come a long way.
 
 “Eurasian.”
 
@@ -60,21 +60,21 @@ Some minutes later we approach the gates of our destination.
 
 “Okay uncle, you can stop here please.”
 
-As the taxi rolls to a halt, the driver cranes his neck to look at the massive three-storey building in the middle of the leafy residential neighbourhood. “What is this place? Your house *ah*?“
+As the taxi rolls to a halt, the driver cranes his neck to look at the massive three-storey building in the middle of the leafy residential neighbourhood. “What is this place? Your house *ah*?”
 
 “No, this is the Eurasian Association.”
 
-“*Har*?“
+“*Har*?”
 
 “For Eurasian people, mixed people, mix European and Asian.”
 
 Still not rolling my eyes.
 
-“Oh, united nations *ah*?“
+“Oh, united nations *ah*?”
 
 In December that year, I make a trip to Malacca in Malaysia. The Portuguese Settlement (formed in 1926 to help consolidate the Portuguese-Eurasian community) is a coastal hamlet of modest, mostly single-storey houses spanning three lanes on either side of the impressively named d’Albuquerque Road. As I walk along the main road, an old man with sun-creased skin turns his head as he cycles by. A wavy-tressed teenaged girl and two boys chatting across a gate pause in their conversation, watching me silently as I pass. The stranger in the village. What’s even weirder is I’m overcome with a feeling of kinship with these sun-browned, curly-haired people I’ve never seen before.
 
-<div style="background-color: white;"><img style="width:300px" src="/images/Vol-13-issue-1/meeting-with-the-sea/02_meetingsea.jpg">The writer at about five years of age. <i>Courtesy of Melissa De Silva.</i></div>
+<div style="background-color: white;"><img style="width:600px" src="/images/Vol-13-issue-1/meeting-with-the-sea/02b_meetingsea.jpg">The writer at about five years of age. <i>Courtesy of Melissa De Silva.</i></div>
 
 In the 1500s, when the Portuguese arrived at the palm and mangrove-fringed coastal town of Malacca, on the west coast of the Malay Peninsula, their imperative was to gain control of the lucrative maritime trade passageway between Asia and Europe. As time went on, the union of the Portuguese with the local women resulted in the burnished-skinned children with Iberian features, and a culture that leaned heavily toward the religion, customs and language of the male colonisers. Five hundred years later, this tiny Catholic community, with a robust Latin tendency towards music, dance and enjoying the sweetness of life, still endures in the midst of the Muslim-majority country.
 
@@ -82,7 +82,7 @@ A month earlier in November, I was in Uncle Maurice Pereira’s living room in t
 
 My great-grandfather had been a fisherman in Malacca, the traditional livelihood of this community descended from the seafaring Portuguese. My father had told me how, when he was a boy, he would accompany his mother – who moved to Singapore with his father after World War II to seek a better life – to Malacca during the school holidays. There, he’d learned from his grandfather how to make two foods from the fishermen’s catch: *chincalok*, the relish of shrimp fermented in salt and brandy; and *belachan*, heavily salted, fermented shrimp paste, baked into hard cakes in the sun, excellent stir fried with vegetables and a generous handful of chilli.
 
-<div style="background-color: white;"><img src="/images/Vol-13-issue-1/meeting-with-the-sea/03_meetingsea.jpg">Maurice Pereira (left) and his grandson Jeremy, in his fishing boat on the seas around the Portuguese Settlement in Malacca. <i>Photo by Desmond Lui. Courtesy of Melissa De Silva.</i></div>
+<div style="background-color: white;"><img src="/images/Vol-13-issue-1/meeting-with-the-sea/03a_meetingsea.jpg">Maurice Pereira (left) and his grandson Jeremy, in his fishing boat on the seas around the Portuguese Settlement in Malacca. <i>Photo by Desmond Lui. Courtesy of Melissa De Silva.</i></div>
 
 As I explained how I’d like to document his work by going out fishing with him, to record it for future generations, his craggy white eyebrows rose.
 
@@ -96,13 +96,13 @@ Soon we are speeding through the waves and Maurice is pointing out spots on the 
 
 We approach a boat with a flapping orange and yellow flag, carrying two Eurasian fishermen, a father and paunchy son, and a Malay boatman. A white buoy attached to a stick with a red flag bobbing nearby indicates where their net is.
 
-“They are fishing for pomfret,” says Maurice.
+“They are fishing for pomfret.” says Maurice.
 
 He asks them how it’s going. There’s no need to reply. As they draw up the net, it sparkles like fairy candyfloss, then we see they’ve only caught three tiny fish, each smaller than a child’s palm. The son tosses a plastic bag caught in the net back into the sea.
 
-Maurice’s voice takes on a hard edge. “All the fish dying, all the construction, the reclamation”.
+Maurice’s voice takes on a hard edge. “All the fish dying, all the construction, the reclamation.”
 
-We are soon scudding past a small island, called Pulau Jawa, just off Malacca’s coast. “In the ’60s, we would go camping there, to fish, eat sardines and gather seaweed to make jelly”, Maurice tells me, his sea-otter face crinkled with glee.
+We are soon scudding past a small island, called Pulau Jawa, just off Malacca’s coast. “In the ’60s, we would go camping there, to fish, eat sardines and gather seaweed to make jelly,” Maurice tells me, his sea-otter face crinkled with glee.
 
 Pulau Jawa was where the Portuguese naval general Afonso d’Albuquerque first dropped anchor on 1 July 1511, as he led a fleet of 18 ships, with 900 Portuguese men and 300 Goan-Indians, sailing in on his carrack, the *Flor de la Mar*.
 
@@ -136,7 +136,7 @@ Uncle Maurice points to undulations of pale grey mounds in the distance on the w
 
 Sand barges lie like alien spacecraft beside them and the air is filled with metallic hissing sounds. These piles of sand are the nascent artificial islands of Melaka Gateway, a project with ambitions to be the largest cluster of synthetic islands in Southeast Asia. The plan for the 246-hectare area is to hold entertainment resorts, theme parks and “man-made eco-islands”.
 
-“We fishermen don’t cry ah? *Habis, habis lah*“, he says in Malay. When it’s gone, it’s gone.
+“We fishermen don’t cry ah? *Habis, habis lah*,” he says in Malay. When it’s gone, it’s gone.
 
 As I look, I think of my great-grandfather, the fisherman, and imagine the times he’d shared with my own father, passing on traditions that had survived for over five centuries. And now, just three generations later, the thread of all this knowledge and richness would be snapped. My retired father had been trained as a mechanic. As for myself, former women’s magazine journalist and urban princess, I’m hardly the material of a maritime professional.
 
@@ -144,11 +144,11 @@ A half hour later, we are having engine trouble. Maurice fiddles with the outboa
 
 As we make our way slowly back to shore, Jeremy tells me he works for a local film production house called Marco Polo and has just completed a job working on a film set in Mongolia, filmed in a studio in Johor Bahru. His job was to look after the animals on the set. There were three pigs, two goats, a puppy and a lamb. When two of the pigs got into a scuffle, a piece of one pig’s ear flew off. Jeremy saved it.
 
-“It’s brown now,” he says, sounding like a proud father. “Soon I think it will be black”.
+“It’s brown now,” he says, sounding like a proud father. “Soon I think it will be black.”
 
 “Does it smell?” I ask.
 
-He nods, dazzling me with a smile. “Yes”.
+He nods, dazzling me with a smile. “Yes.”
 
 Finally, we make it to a ramshackle dock and Maurice trades boats with another fisherman. On the second leg of the trip, as we pass mangroves near Kampung Batang Pasir, the trees closer to the water’s edge toppled like fallen soldiers, Maurice tells me the mangroves used to be alive with wild boars, monkeys and birds. This is where the fishermen would catch *siput*, sea snails, then cook them with slices of unripe papaya, small prawns and *santan*, coconut milk.
 
@@ -156,19 +156,19 @@ Finally, we make it to a ramshackle dock and Maurice trades boats with another f
 
 Here, the ocean is a translucent mud tint, like watery tea stirred with milk, with a greenish-blue rim along the horizon. Flakes of sun dance on the water and I’m gripped by the urge to swim, to glide through the cool. I lean over the boat’s edge and trail my fingers through the waves, letting the water release in a delicious crest.
 
-“We’re coming to the place for fishing”, announces Maurice some time later, when the mangroves have become specks in the distance. I rummage in my bag and unwrap my camera from its plastic covering.
+“We’re coming to the place for fishing,” announces Maurice some time later, when the mangroves have become specks in the distance. I rummage in my bag and unwrap my camera from its plastic covering.
 
 “Boy, where are the nets?” he asks Jeremy.
 
 Jeremy stares at the floor of the boat as if encountering virgin terrain. He has the look of a boy who has misplaced the nets. There are the lifejacket, rope and a plastic container with money, sunglasses, a penknife and Maurice’s mobile phone in it. They’d forgotten to load the nets when we swapped boats.
 
-“If we go back one hour to get the net and come back, it will be too late for fishing already”, Maurice explains.
+“If we go back one hour to get the net and come back, it will be too late for fishing already,” Maurice explains.
 
 My heart flops. There was only today. Tomorrow he’d be off to the hospital to have his cataracts removed, and he didn’t know if or when he’d be fishing again.
 
-I manage to nod. Maurice has been kind, hospitable and his company an absolute delight. I don’t want him to feel badly. “Never mind Uncle. It’s okay. I got to see the sea. We can go back”.
+I manage to nod. Maurice has been kind, hospitable and his company an absolute delight. I don’t want him to feel badly. “Never mind Uncle. It’s okay. I got to see the sea. We can go back.”
 
-He cuts the engine. “No hurry. We drift for a while. We relax”.
+He cuts the engine. “No hurry. We drift for a while. We relax.”
 
 It was a clear distinction of values: manic urban efficiency versus sea village chill. I feel slightly chastened, not by him but by my own embryonic Latin spirit. “C’mon,” it prods me. “Can’t you even relax a little and enjoy being out at sea?”
 
@@ -180,13 +180,13 @@ As my mind flashes to my previous career of chronically overstressed cubicle rat
 
 Later, as the boat chugs slowly back to shore, I think about how I’d travelled all the way here to document one of the last Portuguese-Eurasian fishermen in Malacca, and our traditional livelihood. It seems almost funny it didn’t happen. Almost. Maurice stirs me from my reverie with a gesture. He jerks his chin toward Jeremy, sitting at the bow. The massive construction for a hotel by the settlement’s jetty forms a backdrop for his grandson’s figure.
 
-Maurice’s tone is a wash of sadness over weary anger. “Jeremy cannot be in this line already”, he says, meaning fishing. “The sea is dead”.
+Maurice’s tone is a wash of sadness over weary anger. “Jeremy cannot be in this line already,” he says, meaning fishing. “The sea is dead.”
 
 His last words are muffled as the dull drone of a generator fills the air.
 
 The next morning, on Sunday, I walk to the settlement’s Chapel of Our Lady of the Immaculate Conception for Mass at 7.30 am. The place is not jam-packed like I expected but about 75 percent full. After I’m seated, I see the pew I’ve chosen has no kneeler. The polished ceramic tile floor looks practically spotless, far cleaner than the church floors in Singapore, where you can often spot stray hairs or dust bunnies. I decide to stay. Five minutes later though, the sun inching across the grid rectangle of window facing the pew is blinding.
 
-<div style="background-color: white;"><img src="/images/Vol-13-issue-1/meeting-with-the-sea/07_meetingsea.jpg">The faithful gather for Mass at the Chapel of Our Lady of the Immaculate Conception in the Portuguese Settlement. <i>Photo by Desmond Lui. Courtesy of Melissa De Silva.</i></div>
+<div style="background-color: white;"><img src="/images/Vol-13-issue-1/meeting-with-the-sea/07a_meetingsea.jpg">The faithful gather for Mass at the Chapel of Our Lady of the Immaculate Conception in the Portuguese Settlement. <i>Photo by Desmond Lui. Courtesy of Melissa De Silva.</i></div>
 
 I move to the adjacent pew. A dusky man with steel-rimmed spectacles is seated at the end, his head bent. I tap him on the shoulder and he makes way for me. Two minutes before the Mass starts, a short man with honeyed highlights smiles his way into our pew and takes a seat on my right. In Singapore, I can go weeks without seeing any other Eurasian except my own family. Here, I’m sandwiched between two Eurasian men, neither of whom are my relatives. This unprecedented scenario practically qualifies as being on a reality dating show.
 
@@ -202,12 +202,12 @@ I remember how it felt to be out in the boat yesterday, the lapping of the waves
 
 *Tok, tok, tok*. The sound of hammering infuses the morning. The sun’s soft light filters through the green netting shrouding the concrete structure, as the yellow hard hats scurry about their business. I turn my back to it all and start making my way down the beach, the noise of industry growing fainter with each step.
 
-<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;">“Meeting with the Sea” appears in Melissa De Silva’s debut collection of short stories, Others is not a Race, to be published by Math Paper Press in 2017.</span>
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;">“Meeting with the Sea” appears in Melissa De Silva’s debut collection of short stories, <i>Others is not a Race</i>. The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries ([Call nos.: RSING 305.80095957 DE and SING 305.80095957 DE](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203009427)). </span>
 
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Vol-13-issue-1/meeting-with-the-sea/melissa.png">
-<b>Melissa De Silva</b> has worked in magazine journalism and publishing, including stints at Singapore Press Holdings and Mediacorp Publishing. Her fiction and non-fiction works have been published in journals in Hong Kong, Singapore and the US. Her debut collection of short stories <i>Others is not a Race</i> will be published by Math Paper Press in 2017.
+<b>Melissa De Silva</b> has worked in magazine journalism and publishing, including stints at Singapore Press Holdings and Mediacorp Publishing. Her fiction and non-fiction works have been published in journals in Hong Kong, Singapore and the US. Her debut collection of short stories <i>Others is not a Race</i> was published by Math Paper Press in 2017.
 </div>
 
 <a href="/vol-13/issue-1/apr-jun-2017/"><center>Back to Issue</center></a>

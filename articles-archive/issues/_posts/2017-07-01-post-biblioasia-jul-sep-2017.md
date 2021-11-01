@@ -2,13 +2,12 @@
 layout: post
 title: BiblioAsia Jul-Sep 2017
 date: 2020-01-01T00:00:00.000Z
-breadcrumb: "Jul-Sep 2017"
+breadcrumb: Jul-Sep 2017
 permalink: /vol-13/issue-2/jul-sep-2017/
 ---
+In this issue, we discover how fake news is old news, we learn about Singapore's most notorious murders and we examine the local fascination with horror stories.
 
 <img src="/images/Vol-13-issue-2/vol13_iss2.JPG">  
-
-In this issue, we discover how fake news is old news, we learn about Singapore's most notorious murders and we examine the local fascination with horror stories.
 
 **Director’s Note**
 
@@ -50,4 +49,3 @@ National Service is a rite of passage for Singaporean men when they come of age.
 
 **Tales of the Malay World: Manuscripts and Early Books** <br>
 Literary works in the ancient Malay-speaking world were not enjoyed silently but read aloud to an audience, as *Tan Huism* tells us in this latest exhibition by the National Library. [(PDF)](/files/pdf/vol-13/v13-issue2_MalayWorld.pdf)
-

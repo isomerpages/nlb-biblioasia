@@ -5,10 +5,9 @@ date: 2020-01-01T00:00:00.000Z
 breadcrumb: Oct-Dec 2018
 permalink: /vol-14/issue-3/oct-dec-2018/
 ---
-<img src="/images/Vol-14-issue-3/vol14_iss3.JPG">  
-
 Who designed the Kranji War Cemetary? What's the historic value of a James Bond rip-off? Why was traditional Malay medicine seen as magic? The answers to these questions and more in this issue.
 
+<img src="/images/Vol-14-issue-3/vol14_iss3.JPG">  
 
 **[Director’s Note](/vol-14/issue-3/oct-dec-2018/directors-note/)**
 

@@ -114,7 +114,7 @@ Shop selling rattan-weaved goods at Arab Street in the 1980s. <i>GP Reichelt Col
 A man making murtatuk in the Kampong Glam area in 1991. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore. </i>
 </div>
 
-<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #FDF5E6">
 <i>Only</i> The Secret Map of Singapore <i>is available in the National Library collection.</i></div> 
 
 

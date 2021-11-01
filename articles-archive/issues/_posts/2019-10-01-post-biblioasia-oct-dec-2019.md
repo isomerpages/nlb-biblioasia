@@ -2,13 +2,12 @@
 layout: post
 title: BiblioAsia Oct-Dec 2019
 date: 2020-01-01T00:00:00.000Z
-breadcrumb: "Oct-Dec 2019"
+breadcrumb: Oct-Dec 2019
 permalink: /vol-15/issue-3/oct-dec-2019/
 ---
+The ubiquitous five-footway, a history of commercial photography in Singapore and the Hindu festival of dolls are some of the highlights of this issue.
 
 <img src="/images/Vol-15-issue-3/vol15_iss3.jpg">
-
-The ubiquitous five-footway, a history of commercial photography in Singapore and the Hindu festival of dolls are some of the highlights of this issue.
 
 **Director’s Note**
 
@@ -41,5 +40,3 @@ With climate change on the rise, access to research on biodiversity and natural 
  
 **Exploring An Artist’s Mind: The Tan Swie Hian Collection** <br>
 What makes the difference between a good artist and a brilliant one? *Goh Yu Mei* delves into the books and artworks that have inspired a literary and artistic genius. [(PDF)](/files/pdf/vol-15/v15-issue3_TanSwieHian.pdf)
- 
-

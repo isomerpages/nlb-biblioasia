@@ -5,9 +5,9 @@ date: 2020-01-01T00:00:00.000Z
 breadcrumb: Jan-Mar 2017
 permalink: /vol-12/issue-4/jan-mar-2017/
 ---
-<img src="/images/Vol-12-issue-4/vol12_iss4.JPG">  
-
 In this issue, our highlights include cabaret girls with a heart of gold, stained glass windows, and the 75th anniversary of the fall of Singapore.
+
+<img src="/images/Vol-12-issue-4/vol12_iss4.JPG">  
 
 **[Director’s Note](/vol-12/issue-4/jan-mar-2017/director-note)** 
 

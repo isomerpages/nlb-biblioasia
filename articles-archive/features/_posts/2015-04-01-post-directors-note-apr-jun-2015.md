@@ -19,7 +19,7 @@ Singapore has been an alluring set location for Western filmmakers since the ear
 
 After the 1970s, local filmmaking again crawled to a standstill and remained so for the next two decades. [Raphaël Millet](/vol-11/issue-1/apr-jun-2015/revival-sg-cinema) discusses the resurgence of Singapore films from the 1990s to the present, looking through the lens of established auteurs such as Eric Khoo and Jack Neo as well as newer talents like Boo Junfeng, Anthony Chen and Ken Kwek.
 
-Guest columnist and two-time film director [Glen Goei](/vol-11/issue-1/apr-jun-2015/leap-into-movie) mulls over his transition from the stage to the screen in “My Leap into Movies”. His remake of Pontianak – an homage to the golden age of Malay film in Singapore – is currently in production and slated for release in 2017.
+Guest columnist and two-time film director [Glen Goei](/vol-11/issue-1/apr-jun-2015/leap-into-movie) mulls over his transition from the stage to the screen in “My Leap into Movies”. His remake of <i>Pontianak</i> – an homage to the golden age of Malay film in Singapore – is currently in production and slated for release in 2017.
 
 Also preserving memories from yesteryear is [Wong Han Min](/vol-11/issue-1/apr-jun-2015/movie-memorabilia), a collector of film-related memorabilia. He shares items such as old ticket stubs, posters, advertisements and other ephemera, giving us a glimpse into movie-going in the past. The older generation will remember buying cinema tickets with seat numbers scrawled in crayon; they will also recall those helpful ushers without whom many would have ended up stumbling in the dark and taking the wrong seat.
 

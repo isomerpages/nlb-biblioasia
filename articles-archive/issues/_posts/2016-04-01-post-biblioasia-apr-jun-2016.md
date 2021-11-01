@@ -4,10 +4,10 @@ date: 2016-04-01
 permalink: /vol-12/issue-1/apr-jun-2016/
 layout: post
 ---
+In this special issue, we turn the spotlight on how we used to be entertained, from thronging amusement parks like New World and Great World, to watching iconic single-person plays like *Emily of Emerald Hill*, and listening to the radio.
+
 <img src="/images/Vol-12-issue-1/vol12_iss1.JPG">  
 
-In this special issue, we turn the spotlight on how we used to be entertained, from thronging amusement parks like New World and Great World, to watching iconic single-person plays like *Emily of Emerald Hill*, and listening to the radio.
- 
 **[Director’s Note](/vol-12/issue-1/apr-jun-2016/director-note)**
 
 **[Old-world Amusement Parks](/vol-12/issue-1/apr-jun-2016/old-world-amusement)** <br>

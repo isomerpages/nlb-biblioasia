@@ -55,7 +55,7 @@ This is a record of the results from the 1973 Southeast Asian Peninsular (SEAP) 
 <br><br>
 	第廿届奥林匹克运动大会 <b>(Olympic Games 1972)</b> (1972)<br><br>
 <img style="width: 300px; height: 400px;" src="/images/Vol-14-issue-2/sporting-glory/Glory7.JPG">
-Features articles on various events, the triumphs as well as the disappointments at the 1972 Olympic Games held in Munich, West Germany. The games were overshadowed by the Munich Massacre in which 11 Israeli athletes and officials, along with a West German police officer, were killed by members of a Palestinian terrorist organization group.
+Features articles on various events, the triumphs as well as the disappointments at the 1972 Olympic Games held in Munich, West Germany. The games were overshadowed by the Munich Massacre in which 11 Israeli athletes and officials, along with a West German police officer, were killed by members of a Palestinian terrorist organisation group.
 <br><br>
 	<b>Singapore Amateur Weight-lifting Federation Souvenir Programme </b>(1975)<br><br>
 <img style="width: 300px; height: 400px;" src="/images/Vol-14-issue-2/sporting-glory/Glory8.JPG">
@@ -63,7 +63,7 @@ This souvenir programme by the Singapore Amateur Weight-lifting Federation carri
 </span>
 
 <div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> 
-	<b>What is the legal deposit?</b>
+	<b>WHAT IS THE LEGAL DEPOSIT?</b>
 <br><br>
 One of the statutory functions of the National Library Board Act is Legal Deposit. Under the act, all publishers, commercial or otherwise, are required by law to deposit two copies of every work published in Singapore with the National Library within four weeks of its publication. The Legal Deposit function ensures that Singapore’s published heritage is preserved for future generations. Legal Deposit also acts as a repository for published materials, providing exposure via the online catalogue, PublicationSG: catalogue.nlb.gov.sg/publicationsg. For more information, please visit www.nlb.gov.sg/Deposit.
 </div>
@@ -76,7 +76,7 @@ One of the statutory functions of the National Library Board Act is Legal Deposi
 <a href="https://biblioasia.nlb.gov.sg/vol-14/issue-2/jul-sep-2018/"><center>Back to Issue</center></a>
 
 #### **NOTES**
-[^1]:Joseph Schooling is Singapore’s first Olympic champion. (2016, August 13). Channel NewsAsia. Retrieved from Factiva via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
+[^1]:Joseph Schooling is Singapore’s first Olympic champion. (2016, August 13). *Channel NewsAsia*. Retrieved from Factiva via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
 [^2]:Teo, E. (2012, July 31). [Olympic heroes](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20120731-1.2.72.10.3). *The Straits Times*, p. 19. Retrieved from NewspaperSG.
 [^3]:Nathan, K. (2010, January 26). [Riding against the odds](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20100126-1.2.65.12.1). *The Straits Times*, p. 14. Retrieved from NewspaperSG.
 [^4]:Ang, J. (2010, September 9). [Paralympics beckons Pin Xiu](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20100909-1.2.47.17). *The Straits Times*, p. 14. Retrieved from NewspaperSG.
@@ -84,10 +84,10 @@ One of the statutory functions of the National Library Board Act is Legal Deposi
 [^6]:Sazali Abdul Aziz. (2014, August 25). [History makers](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper20140825-1.2.26.6.2). *The New Paper*, p. 14. Retrieved from NewspaperSG.
 [^7]:Ong, C.K. (2002, July 24). [Chasing gold](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20020724-1.2.4). *The Straits Times*, p. 1; Nair, S. (2002, August 5). [13 good ones](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper20020805-1.2.55). *The New Paper*, p. 43. Retrieved from NewspaperSG.
 [^8]:Rai, H. (1986, September 7). [How it all started](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19860907-1.2.44.9.4). *The Straits Times*, p. 17. Retrieved from NewspaperSG.
-[^9]:[Asian Games: Gold medal for S’pore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/indiandailymail19510307-1.2.17). (1951, March 7).* Indian Daily Mail*, p. 1; Oh, D. (1951, March 18). [Asian Games men return, ‘Flying Fish’ Neo given hero’s welcome at airport](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/sundaystandard19510318-1.2.77). *Sunday Standard*, p. 7. Retrieved from NewspaperSG.
+[^9]:[Asian Games: Gold medal for S’pore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/indiandailymail19510307-1.2.17). (1951, March 7). *Indian Daily Mail*, p. 1; Oh, D. (1951, March 18). [Asian Games men return, ‘Flying Fish’ Neo given hero’s welcome at airport](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/sundaystandard19510318-1.2.77). *Sunday Standard*, p. 7. Retrieved from NewspaperSG.
 [^10]:[Biennial series started as Seap Games in 1959](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19951109-1.2.75.10). (1995, November 9). *The Straits Times*, p. 53. Retrieved from NewspaperSG; South-East Asia Peninsula Games. (1973). [*Record of results*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4982385) (pp. 4, 6, 8, 14A). Singapore: South-East Asia Peninsula Games. (Call no.: RCLOS 796 SOU).
 [^11]:Miller, B. (1993, June 16). [Am I seeing stars?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper19930616-1.2.39.2) *The New Paper*, p. 27. Retrieved from NewspaperSG.
 [^12]:[Swee Lee’s place in history](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900923-1.2.48.8). (1990, September 23). *The Straits Times*, p. 31. Retrieved from NewspaperSG.
-[^13]:Swift Athletes Association. (2018). About us. Retrieved from [Swift Athletes Association](https://swiftaa.org/) website. 
+[^13]:Swift Athletes Association. (2018). About us. Retrieved from Swift Athletes Association website. 
 [^14]:[Soekarno orders: Scrap the Ganefo](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19660902-1.2.129.4). (1966, September 2). *The Straits Times*, p. 19; [Indonesia quits lOC: ‘Useless to be member’ says Maladi’s cable](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19630215-1.2.117.1). (1963, February 15). *The Straits Times*, p. 19; [Envoy hands Wok invite for Ganefo](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19661108-1.2.140.7). (1966, November 8). *The Straits Times*, p. 19. Retrieved from NewspaperSG.
 [^15]:[South-East Asia Peninsula Games](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4982385), 1973, p. 14A.

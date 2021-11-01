@@ -38,7 +38,7 @@ A man watching a scene using the Kinetoscope. <i>Via Wikimedia Commons</i>.
 
 <div style="background-color: white;">
 <br/>
-<img style="width:70%" src="/images/vol-11-issue-1/earlysgcinema/serpentineDance1.jpg">
+<img style="width:30%" src="/images/vol-11-issue-1/earlysgcinema/dance.jpg">
 <i>The Serpentine Dance</i>, a form of burlesque, was one of the first vignettes screened at the Aldephi Hall in 1897. © The Serpentine Dance. <i>Directed by Louis Lumiere, produced by Lumiere. France, 1897</i>.
 </div>
 

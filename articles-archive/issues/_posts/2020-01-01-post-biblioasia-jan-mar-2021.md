@@ -2,13 +2,12 @@
 layout: post
 title: BiblioAsia Jan-Mar 2021
 date: 2021-01-01T00:00:00.000Z
-breadcrumb: "Jan-Mar 2021"
+breadcrumb: Jan-Mar 2021
 permalink: /vol-16/issue-4/jan-mar-2021/
 ---
+*Kueh lapis* (and its original variant *spekkoek*) trace their roots back to the Dutch colonial period in Southeast Asia. Find out how its buttery layers came together in our cover story.
 
 <img src="/images/Vol-16-issue-4/landing/Vol16_Iss4.jpg">
-
-*Kueh lapis* (and its original variant *spekkoek*) trace their roots back to the Dutch colonial period in Southeast Asia. Find out how its buttery layers came together in our cover story.
 
 [Director's Note](/vol-16/issue-4/jan-mar-2021/director-note)
 

@@ -1,5 +1,5 @@
 ---
-title: Preserving Nan’An History in Singapore
+title: Preserving Nan’an History in Singapore
 date: 2018-07-31
 permalink: /vol-14/issue-2/jul-sep-2018/nan-an-history-in-sg/
 layout: post
@@ -32,7 +32,7 @@ It is estimated that there are close to 400,000 Nan’an descendants in Singapor
 
 #### **History of Hong San See Temple**
 
-In 1836, a group of Nan’an pioneers led by Liang Renkui (梁壬葵) established the original Hong San See Temple on Tras Street.[^8] In an article to Xing Bao (星报) newspaper in 1893, prominent Straits Chinese writer Chen Shengtang (陈省堂) noted that the temple was popular among devotees because the main temple deity, Guang Ze Zun Wang (广泽尊王), or Lord of Filial Piety, answered their prayers.[^9]
+In 1836, a group of Nan’an pioneers led by Liang Renkui (梁壬葵) established the original Hong San See Temple on Tras Street.[^8] In an article to *Xing Bao* (星报) newspaper in 1893, prominent Straits Chinese writer Chen Shengtang (陈省堂) noted that the temple was popular among devotees because the main temple deity, Guang Ze Zun Wang (广泽尊王), or Lord of Filial Piety, answered their prayers.[^9]
 
 In 1907, the colonial government acquired the temple land for a road widening project[^10] and paid 50,000 Straits dollars as compensation. The Nan’an builder and architect Lim Loh (林路)[^11] – the father of World War II hero Lim Bo Seng (林谋盛) and director of the temple’s management committee – subsequently purchased a plot of land at Mohamed Sultan Road for a new temple.[^12]
 
@@ -91,9 +91,9 @@ The donation by the Singapore Lam Ann Association is especially significant give
 [^11]:Lim Loh, who was also known as Lim Chee Gee (林志义) and Lim Hoon Leong (林云龙), made his fortune during pre-war Singapore from rubber estates, brick and biscuit factories, and the trading and construction businesses. He was involved in the building of Goodwood Park Hotel and Victoria Memorial Hall, and also designed and built Hong San See Temple. See Tan, T. (2008, August 14). [Rare gift for SAM](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20080814-1.2.15.1). *The Straits Times*, p. 8. Retrieved from NewspaperSG.
 [^12]:[郭志阳 & 郭志阳主编](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12881588), 2006, p. 65; [Dean & Hue](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202761291), 2017, vol. 1, p. 434.
 [^13]:[Dean & Hue](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202761291), 2017, vol. 1, pp. 406,434.
-[^14]:[新加坡庙宇概览](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84470566). (1951). (p. 37). 新加坡: 南风商业出版社. (Call no.: Chinese RDTYS 294.3435 CHI)
+[^14]:[*新加坡庙宇概览*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84470566). (1951). (p. 37). 新加坡: 南风商业出版社. (Call no.: Chinese RDTYS 294.3435 CHI)
 [^15]:[*新加坡凤山寺 = Singapore Hong San See Temple*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201247958). (2007). (p. 38). 新加坡古迹保存局: 新加坡凤山寺国家古迹重修委员会. (Call no.: Chinese RSING 203.5095957 SIN); Lin, W.J. (2010, September 25). [Hong San See in its glory](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20100925-1.2.117.7.1). *The Straits Times*, p. 8. Retrieved from NewspaperSG.
-[^16]:黄奕欢. 新加坡凤山寺史话 – 附述归属南安会馆经过. 新加坡南安会馆. (1977). [新加坡南安会馆金禧纪念特刊, 1977](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84450703) (p. 7). 新加坡: 新加坡南安会馆. (Call no.: Chinese RSING 369.25957 LAM); [新加坡南安会馆](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84450703), 1977, p. 7.
+[^16]:黄奕欢. 新加坡凤山寺史话 – 附述归属南安会馆经过. 新加坡南安会馆. (1977). [*新加坡南安会馆金禧纪念特刊, 1977*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84450703) (p. 7). 新加坡: 新加坡南安会馆. (Call no.: Chinese RSING 369.25957 LAM); [新加坡南安会馆](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84450703), 1977, p. 7.
 [^17]:Yen, F. (2010, September 19). [The little temple that could](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20100919-1.2.11.3). *The Straits Times*, p. 8. Retrieved from NewspaperSG. [*The Straits Times*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20100925-1.2.117.7.1), 25 Sep 2010, p. 8.
 [^18]:2010联合国亚太文化资产保存卓越奖授奖典礼特辑编委会. (2010). [新加坡凤山寺: 荣膺2010联合国亚太文化资产保存卓越奖授奖典礼 = *Singapore Hong San See Temple awarded 2010 UNESCO Asia Pacific Heritage awards for culture heritage conservation*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14315945) (p. 10). 新加坡: 新加坡南安会馆. (Call no.: Chinese RSING 203.5095957 SIN)
 [^19]:柯木林. (2018, April 1). 南安会馆捐献凤山寺文物 老账簿会说话. 联合早报周刊. Retrieved from Factiva via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.

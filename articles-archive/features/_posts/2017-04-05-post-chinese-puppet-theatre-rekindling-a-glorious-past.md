@@ -6,7 +6,7 @@ layout: post
 ---
 #### Chinese puppetry is a tradition that is slowly losing ground in Singapore. **Caroline Chia** tells us why this art form should be preserved.
 
-<div style="background-color: white;"><br><img src="/images/Vol-13-issue-1/chinese-puppet-theatre/01_chinesepuppet.jpg">A white-faced villain (白奸) glove puppet, c.1950s. The colour white usually represents a villainous or crafty personality. <i>Photo by Caroline Chia.</i></div>
+<div style="background-color: white;"><br><img src="/images/Vol-13-issue-1/chinese-puppet-theatre/01a_chinesepuppet.png">A Hokkien glove puppet performance by Shuang Neng Feng troupe at Jiu Xuan Temple on 30 March 2010. <i>Photo by Caroline Chia.</i></div>
 
 Tossing a puppet into the air to perform a somersault, the puppeteer sings at the top of his melodious voice, accompanied by the high-pitched clapping of cymbals and the resounding striking of drums backstage. Unfortunately, the response to this unusual street-side performance at a temple in the heartlands of Singapore is met with either furrowed eyebrows or blank looks, or young people hurrying past an unwelcome obstruction, their eyes averted or glued to their mobile phones. Such a scene would have been unthinkable half a century ago when Chinese puppet theatre in Singapore was a popular form of street entertainment for children and the working class.
 
@@ -26,7 +26,7 @@ Finding the puppeteers, establishing contact, meeting up with them and getting t
 
 Traditional puppet art forms include Hainanese rod puppetry (*zhangtou mu’ou*, 杖头木偶) from Hainan island, Hokkien glove puppetry (*budaixi*, 布袋戏) and string puppetry (*tixian mu’ou*, 提线木偶) from southern Fujian, Henghua string puppetry from Putian and Xianyou in eastern Fujian, Teochew iron-stick puppetry from Chaozhou, and Waijiang string puppetry performed by the Hakka community.[^1]
 
-<div style="background-color: white;"><img style="width:500px" src="/images/Vol-13-issue-1/chinese-puppet-theatre/03_chinesepuppet.jpg">Hainanese rod puppet troupe San Chun Long’s performance at the Yan Kit Village Chinese Temple in November 2015. The rods are partially obscured from view by the puppet’s costume. <i>Photo by Jace Tan, National Heritage Board Puppetry Documentation Project 2015/2016.</i></div>
+<div style="background-color: white;"><img style="width:500px" src="/images/Vol-13-issue-1/chinese-puppet-theatre/03a_chinesepuppet.png">Hainanese rod puppet troupe San Chun Long’s performance at the Yan Kit Village Chinese Temple in November 2015. The rods are partially obscured from view by the puppet’s costume. <i>Photo by Jace Tan, National Heritage Board Puppetry Documentation Project 2015/2016.</i></div>
 
 The opera performances are staged in regional languages (or dialects), which unfortunately make it difficult for the average Singaporean youth to understand and appreciate. Due to the success of the Speak Mandarin Campaign launched by the government in 1979, the majority of young Chinese people schooled in modern Singapore have become unfamiliar with dialects, which critics say has brought along with it an erosion of indigenous Chinese cultures and traditions.[^2]
 
@@ -38,13 +38,13 @@ The art of manipulating a puppet takes years to master but I will briefly explai
 
 The height of the Henghua string puppet varies between 80 cm and 1 m. The puppeteer, whilst in a standing position, manipulates the puppet using the 12 strings attached to it. Additional strings can be added to create more intricate and complex movements. Its southern counterpart, the Hokkien string puppet, ranges from 60 to 90 cm in height, and has an average of 12 strings. According to veteran puppeteers in Singapore, the Hokkien string puppet can have up to 19 strings, depending on the needs and type of performance.
 
-<div style="background-color: white;"><img src="/images/Vol-13-issue-1/chinese-puppet-theatre/04_chinesepuppet.jpg">(Left) A Hokkien string puppet performance by Xin Cai Yun (now disbanded) at Serangoon North on 10 April 2010.<br>
+<div style="background-color: white;"><img src="/images/Vol-13-issue-1/chinese-puppet-theatre/04a_chinesepuppet.jpg">(Left) A Hokkien string puppet performance by Xin Cai Yun (now disbanded) at Serangoon North on 10 April 2010.<br>
 (Right) A Henghua string puppet performance by Sin Hoe Ping at Li Jiang Temple on 30 June 2010. <i>Photos by Caroline Chia.</i></div>
 
 The Hokkien community also has another puppet type known as glove puppet (*potehi* in Hokkien). The glove puppet, as the term suggests, is controlled by inserting the hand into the interior of the puppet, with the index finger embedded in the head compartment and the rest of the fingers below the head to control the puppet’s movements. The puppeteer is hidden behind the stage set and manipulates the puppet on the stage with only his or her arms exposed. Older glove puppets tend to be smaller, ranging from 25 to 35 cm in length. Newer puppets can go up to 40 cm.
 
 <div style="background-color: white;"><img src="/images/Vol-13-issue-1/chinese-puppet-theatre/05_chinesepuppet.jpg">(Left ) A white-faced villain (白奸) glove puppet, c.1950s. The colour white usually represents a villainous or crafty personality.<br>
-(Right) A Guan Gong (关公) glove puppet, c.1950s. Guan Gong, also known as Guan Yu, is a historical Chinese character from the Three Kingdoms Period in the third century CE. He was later portrayed as a fictional character in the Chinese classic Romance of the Three Kingdoms. The colour red on Guan Gong’s face represents loyalty. Photos by Caroline Chia.</i></div>
+(Right) A Guan Gong (关公) glove puppet, c.1950s. Guan Gong, also known as Guan Yu, is a historical Chinese character from the Three Kingdoms Period in the third century CE. He was later portrayed as a fictional character in the Chinese classic Romance of the Three Kingdoms. The colour red on Guan Gong’s face represents loyalty. <br><i>Both photos by Caroline Chia.</i></div>
 
 Originating from Chaozhou, the average height of the Teochew iron-stick puppet is approximately 35 cm whereas older ones were shorter at about 25 cm. The puppet head is made of clay or papier-mâché. There are three iron sticks attached to the puppet: one to support it and the other two with wooden handles for manipulation. The puppeteer sits on a low stool and controls the puppet from above.
 
@@ -92,8 +92,6 @@ In Singapore, local puppet troupes have also received praise from their respecti
 
 Although the Henghua community was a minority group, its dominance of the Chinese puppetry art scene in Singapore in the mid-20th century was evidenced by the large numbers of puppet troupes that emerged during its peak. Some of the troupes included De Yue Lou (得月楼), Shuang Sai Le (双赛乐), Feng Huang Ting (凤凰亭), Xin De Yue (新得月), and He Ping (和平). The He Ping troupe was the predecessor of Sin Hoe Ping (新和平), currently the last existing Henghua puppet troupe in Singapore.
 
-<div style="background-color: white;"><img style="width:700px" src="/images/Vol-13-issue-1/chinese-puppet-theatre/09_chinesepuppet.jpg">A Hokkien glove puppet performance by Shuang Neng Feng troupe at Jiu Xuan Temple on 30 March 2010. <i>Photo by Caroline Chia.</i></div>
-
 #### **Cross-cultural Influences**
 
 Although Chinese puppetry originated from China, the different regional forms have adapted in various ways so that we can now proudly claim a puppetry tradition that is uniquely multicultural and Singaporean, tempered with mutual respect for each dialect group’s culture and traditions. Although the various puppet theatre forms still cater mainly to their own communities and temples, some significant changes have taken place.
@@ -123,7 +121,7 @@ Through my continued contact with the puppeteers, many have expressed their inte
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Vol-13-issue-1/chinese-puppet-theatre/caroline.png">
-	<b>Caroline Chia</b> researches on the theatrical forms of the Chinese diaspora in Singapore, China, Taiwan and Australia. She is the author of Development of Cantonese Opera in Singapore (2013) and co-author of "Potehi: Glove Puppet Theatre in Southeast Asia and Taiwan" (2015). She has worked with the National Heritage Board to document puppetry art forms in Singapore, and organised the first traditional glove puppetry workshop in November 2016. Visit her blog at: http://marionettetheatre.blogspot.sg.
+	<b>Caroline Chia</b> researches on the theatrical forms of the Chinese diaspora in Singapore, China, Taiwan and Australia. She is the author of <i>Development of Cantonese Opera in Singapore</i> (2013) and co-author of <i>Potehi: Glove Puppet Theatre in Southeast Asia and Taiwan</i> (2015). She has worked with the National Heritage Board to document puppetry art forms in Singapore, and organised the first traditional glove puppetry workshop in November 2016. Visit her blog at: http://marionettetheatre.blogspot.sg.
 </div>
 
 <a href="/vol-13/issue-1/apr-jun-2017/"><center>Back to Issue</center></a>

@@ -5,9 +5,9 @@ date: 2020-01-01T00:00:00.000Z
 breadcrumb: Oct-Dec 2016
 permalink: /vol-12/issue-3/oct-dec-2016/
 ---
-<img src="/images/Vol-12-issue-3/vol12_iss3.JPG">
-
 The genius of Tan Swie Hian, the building of Pearl Bank Apartments, and the design of the Sri Mariamman Temple are some of the things we focus on in this special issue.
+
+<img src="/images/Vol-12-issue-3/vol12_iss3.JPG">
 
 **[Director’s Note](/vol-12/issue-3/oct-dec-2016/directors-notes)**
 

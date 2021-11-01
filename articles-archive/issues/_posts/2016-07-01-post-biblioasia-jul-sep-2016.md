@@ -5,10 +5,9 @@ date: 2020-01-01T00:00:00.000Z
 breadcrumb: Jul-Sep 2016
 permalink: /vol-12/issue-2/jul-sep-2016/
 ---
-<img style="width:400px" src="/images/Vol-12-issue-2/vol12_iss2_01.jpg">  
-
-
 Stories told by grandparents, the saga of Eurasians in Bahau, and forgotten foods of the past are some of the highlights of this special issue.
+
+<img style="width:400px" src="/images/Vol-12-issue-2/vol12_iss2_01.jpg">  
 
 **[Director’s Note](/vol-12/issue-2/jul-sep-2016/director-note)**
 
