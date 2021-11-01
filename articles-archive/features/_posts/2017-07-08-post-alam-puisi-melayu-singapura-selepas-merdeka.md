@@ -113,7 +113,7 @@ Penulis ingin merakamkan penghargaan kepada Dr Pitchay Gani Aziz, mantan Preside
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Vol-13-issue-2/old-world-amusement-parks/jessie-yak.png">
+<img style="width: 100px; height: 100px;" src="/images/Vol-13-issue-2/alam-puisi-melayu-singapura/juffri.png">
 	<b>Juffri Supa'at</b> is a Senior Librarian with the National Library, Singapore. He has curated several exhibitions featuring the works of Malay literary pioneers such as Masuri S. N., Muhammad Ariff Ahmad and Abdul Ghani Hamid. He has also compiled poetry selections by Muhammad Ariff Ahmad and Suratman Markasan.
 </div>
 
