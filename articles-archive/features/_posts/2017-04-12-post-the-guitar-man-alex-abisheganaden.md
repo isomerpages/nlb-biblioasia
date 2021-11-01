@@ -68,7 +68,7 @@ These works reflect Abisheganaden’s personality and musical style: he enjoys t
 
 Abisheganaden also composed works for the guitar – including original pieces and transcriptions of popular songs – for didactic purpose as a means to train and improve playing techniques of the guitar orchestra. Iconic works include the 16-bar long “Katong Blues,” a short work composed in 1971 for the TV programme *Music Making with the Guitar*, which derived its name from the east coast district in Singapore, and “Huan Yin-Vanakam”, a double concerto Abisheganaden composed in 1995 for the sitar, erhu and guitar orchestra.
 
-<div style="background-color: white;"><img style="width:400px" src="/images/Vol-13-issue-1/the-guitar-man/03_guitarman.jpg">Parts of a classical guitar. <i>All rights reserved, Abisheganaden, A. (1970). Music Making with the Guitar (Vol. 1) (p.6). Singapore: ETV Service.</i></div>
+<div style="background-color: white;"><img style="width:400px" src="/images/Vol-13-issue-1/the-guitar-man/03a_guitarman.jpg">Parts of a classical guitar. <i>All rights reserved, Abisheganaden, A. (1970). Music Making with the Guitar (Vol. 1) (p.6). Singapore: ETV Service.</i></div>
 
 “Huan Yin-Vanakam” combines elements of Indian and Chinese folk music – musical traditions that Abisheganaden has kept close to his heart. The concerto blends sinuous Chinese folk melodies with the rhythmic tempo of songs sung by Indian foreign workers that Abisheganaden remembered from his childhood days. Together with the inclusion of Chinese and Indian musical instruments as well as Western classical influences, the work has distinguished itself as a singularly important example of world music.
 
