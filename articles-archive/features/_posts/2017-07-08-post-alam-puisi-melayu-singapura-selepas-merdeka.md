@@ -122,27 +122,27 @@ Penulis ingin merakamkan penghargaan kepada Dr Pitchay Gani Aziz, mantan Preside
 
 #### **RUJUKAN**
 
-Hadijah Rahmat, Dewani Abbas & Azhar Ibrahim Alwee. (Eds.). (2004). Potret diri seorang penyair: Antologi puisi. Singapura: Majlis Bahasa Melayu Singapura. (Call no.: Malay RSING 899.281 POT)
+Hadijah Rahmat, Dewani Abbas & Azhar Ibrahim Alwee. (Eds.). (2004). *[Potret diri seorang penyair: Antologi puisi](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12344472)*. Singapura: Majlis Bahasa Melayu Singapura. (Call no.: Malay RSING 899.281 POT)
 
-Juffri Supa’at, Mohd Raman Daud & Sa’eda Buang. (2015). Anugerah Persuratan 2015. Singapura: Majlis Bahasa Melayu Singapura. (Call no.: Malay RSING 899.28 ANU)
+Juffri Supa’at, Mohd Raman Daud & Sa’eda Buang. (2015). *[Anugerah Persuratan 2015](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202541549)*. Singapura: Majlis Bahasa Melayu Singapura. (Call no.: Malay RSING 899.28 ANU)
 
-Mohamed Naim Daipi, et al (Eds.). (2011). Anugerah Persuratan 2011: [Buku cenderamata]. Singapura: Majlis Bahasa Melayu Singapura. (Call no.: Malay RSING 899.28 ANU)
+Mohamed Naim Daipi, et al (Eds.). (2011). *[Anugerah Persuratan 2011](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14127651)*: [Buku cenderamata]. Singapura: Majlis Bahasa Melayu Singapura. (Call no.: Malay RSING 899.28 ANU)
 
-Mohamed Naim Daipi, et al (Eds.). (2013). Anugerah Persuratan 2013: [Buku cenderamata]. Singapura: Majlis Bahasa Melayu Singapura. (Call no.: Malay RSING 899.28 ANU)
+Mohamed Naim Daipi, et al (Eds.). (2013). *[Anugerah Persuratan 2013](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200180621): [Buku cenderamata]*. Singapura: Majlis Bahasa Melayu Singapura. (Call no.: Malay RSING 899.28 ANU)
 
-Mustapha Mohamed (1995, Oktober 15). Harapan penulis muda dalam genre puisi. Berita Minggu, hlm 10. Diambil daripada NewspaperSG.
+Mustapha Mohamed (1995, Oktober 15). [Harapan penulis muda dalam genre puisi](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19951015-1.2.23.2). *Berita Minggu*, hlm 10. Diambil daripada NewspaperSG.
 
-Sahlan Mohd Saman. (1984, March 11). Tema tentang hidup paling digemari. Berita Minggu, hlm 5. Diambil daripada NewspaperSG.
+Sahlan Mohd Saman. (1984, March 11). [Tema tentang hidup paling digemari](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19840311-1.2.30.1). *Berita Minggu*, hlm 5. Diambil daripada NewspaperSG.
 
 #### **NOTA**
 
-[^1]:Mohamed Pitchay Gani Mohamed Abdul Aziz & Azhar Ibrahim. (2015). Di sebalik tabir Masuri S.N.: Biografi dan karya pilihan yang belum tersiar (pp. 187–188). Singapore: National Library Board: Bizmedia Publishing. (Call no.: Malay RSING 899.2809 MOH)
+[^1]:Mohamed Pitchay Gani Mohamed Abdul Aziz & Azhar Ibrahim. (2015). *[Di sebalik tabir Masuri S.N.: Biografi dan karya pilihan yang belum tersiar](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202366376)* (pp. 187–188). Singapore: National Library Board: Bizmedia Publishing. (Call no.: Malay RSING 899.2809 MOH)
 
-[^2]:Juffri Supa’at. (2014). Suratman Markasan puisi-puisi pilihan = Selected poems of Suratman Markasan (p. 12). Singapore: National Library Board. (Call no.: Malay RSING 899.281 KAR)
+[^2]:Juffri Supa’at. (2014). *[Suratman Markasan puisi-puisi pilihan = Selected poems of Suratman Markasan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201058250)* (p. 12). Singapore: National Library Board. (Call no.: Malay RSING 899.281 KAR)
 
-[^3]:Masuri S.N. (1981). Puisi Temasik 1: Puisi Melayu Singapura dalam konteks nusantara. Diambil daripada NORA.
+[^3]:Masuri S.N. (1981). *[Puisi Temasik 1: Puisi Melayu Singapura dalam konteks nusantara](https://eresources.nlb.gov.sg/arts/website/Contents/ArticleDetails.aspx?Id=ed0bb078-1a1b-4b6e-b851-c591ac7156e2)*. Diambil daripada NORA.
 
-[^4]:Masuri, 1981, p. 1.
+[^4]:[Masuri](https://eresources.nlb.gov.sg/arts/website/Contents/ArticleDetails.aspx?Id=ed0bb078-1a1b-4b6e-b851-c591ac7156e2), 1981, p. 1.
 
 [^5]:Hadijah Rahmat. (1998). Sastera & manusia Melayu baru: Kumpulan esei & wawancara (pp. 178–181). Singapura: Persatuan Wartawan Melayu Singapura. (Call no.: Malay RSING 899.284 HAD)
 
