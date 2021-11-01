@@ -26,9 +26,8 @@ salah tempatnya<br>
 lengkap dalam fikiran<br>
 sehingga tiada sehembus pun<br>
 nafas terasa<br>
-kerana ketiadaan suara<br>
-manusia<br>
-	yang menuliskannya.”[^1]</i></span>
+kerana ketiadaan suara manusia<br>
+yang menuliskannya.”[^1]</i></span>
 
 <p align="right">– Masuri S.N.</p>
 
