@@ -6,7 +6,7 @@ layout: post
 ---
 #### Singapore’s Malay publishing scene was thrown into disarray when the country exited Malaysia in 1965. **Juffri Bin Supa’at** charts the development of Malay poetry in Singapore since Independence.
 
-<center><span style="background-colour: #ffff;">“Ahli bahasa<br>
+<span style="display: block; text-align: center;">“Ahli bahasa<br>
 yang memakai akal<br>
 memikirkan puisi<br>
 adalah tenunan<br>
@@ -28,7 +28,7 @@ sehingga tiada sehembus pun<br>
 nafas terasa<br>
 kerana ketiadaan suara<br>
 manusia<br>
-yang menuliskannya.”[^1]</span></center>
+yang menuliskannya.”[^1]</span>
 
 <p align="right">– Masuri S.N.</p>
 
@@ -93,10 +93,10 @@ Kita dapat melihat isu ini di sentuh para penyair yang telah diulas di dalam Pot
 
 Sayembara-sayembara puisi seperti Anugerah Pena Emas yang dianjurkan Majlis Seni Kebangsaan (NAC) dan persatuan penulis akan terus membantu mencungkil dan mendedahkan penyair-penyair muda dan yang baru melibatkan diri dalam dunia kepenyairan di Singapura. Antologi-antologi yang diterbitkan secara bersama umpamanya antologi Hempedu di Tasik Madu (2016) terbitan ASAS ’50 dapat menjadi wadah dan ruang untuk karyakarya penyair ini menemui pembaca selain wadah-wadah akhbar dan media sosial. Usaha-usaha sebegini dapat membantu menentukan kesinambungan dalam dunia kepenyairan di Singapura seperti kata Noridah dan Mas dalam bait-bait puisi di bawah ini.
 
-“Berapa harga adil dan benar<br>
+<span style="display: block; text-align: center;">“Berapa harga adil dan benar<br>
 Tiada boleh ditimbang tawar<br>
 Engkau yang terus tegar<br>
-Ajar semua untuk tidak gentar”.[^13]
+Ajar semua untuk tidak gentar”.[^13]</span>
 
 <p align="right">– Noridah Kamari</p>
 
