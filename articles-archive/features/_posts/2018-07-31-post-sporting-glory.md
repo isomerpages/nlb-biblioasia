@@ -55,7 +55,7 @@ This is a record of the results from the 1973 Southeast Asian Peninsular (SEAP) 
 <br><br>
 	第廿届奥林匹克运动大会 <b>(Olympic Games 1972)</b> (1972)<br><br>
 <img style="width: 300px; height: 400px;" src="/images/Vol-14-issue-2/sporting-glory/Glory7.JPG">
-Features articles on various events, the triumphs as well as the disappointments at the 1972 Olympic Games held in Munich, West Germany. The games were overshadowed by the Munich Massacre in which 11 Israeli athletes and officials, along with a West German police officer, were killed by members of a Palestinian terrorist organization group.
+Features articles on various events, the triumphs as well as the disappointments at the 1972 Olympic Games held in Munich, West Germany. The games were overshadowed by the Munich Massacre in which 11 Israeli athletes and officials, along with a West German police officer, were killed by members of a Palestinian terrorist organisation group.
 <br><br>
 	<b>Singapore Amateur Weight-lifting Federation Souvenir Programme </b>(1975)<br><br>
 <img style="width: 300px; height: 400px;" src="/images/Vol-14-issue-2/sporting-glory/Glory8.JPG">
@@ -63,7 +63,7 @@ This souvenir programme by the Singapore Amateur Weight-lifting Federation carri
 </span>
 
 <div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> 
-	<b>What is the legal deposit?</b>
+	<b>WHAT IS THE LEGAL DEPOSIT?</b>
 <br><br>
 One of the statutory functions of the National Library Board Act is Legal Deposit. Under the act, all publishers, commercial or otherwise, are required by law to deposit two copies of every work published in Singapore with the National Library within four weeks of its publication. The Legal Deposit function ensures that Singapore’s published heritage is preserved for future generations. Legal Deposit also acts as a repository for published materials, providing exposure via the online catalogue, PublicationSG: catalogue.nlb.gov.sg/publicationsg. For more information, please visit www.nlb.gov.sg/Deposit.
 </div>
