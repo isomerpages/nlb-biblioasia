@@ -8,7 +8,7 @@ layout: post
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-11-issue-2/sgsportgreat/LLOYD_VALBERG.jpg">
+<img style="width:70%" src="/images/vol-11-issue-2/sgsportgreat/LLOYD_VALBERG.jpg">
 High-jumper Lloyd Valberg was the first athlete to represent Singapore at the Olympics – the 1948 London games.<i>Courtesy of Sport Singapore.</i>
 </div>
 
@@ -35,7 +35,7 @@ Not to be left out, Tang Pui Wah made a compelling case for female athletes. The
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-11-issue-2/sgsportgreat/nck.jpg">
-Singapore’s “Flying Fish” Neo Chwee Kok won four gold medals at the 1951 Asian Games held in New Delhi.<i>Courtesy of Sport Singapore.</i>
+Singapore’s “Flying Fish” Neo Chwee Kok won four gold medals at the 1951 Asian Games held in New Delhi. <i>Courtesy of Sport Singapore.</i>
 </div>
 
 <div style="background-color: white;">
