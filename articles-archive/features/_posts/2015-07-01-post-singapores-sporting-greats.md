@@ -41,7 +41,7 @@ Singapore’s “Flying Fish” Neo Chwee Kok won four gold medals at the 1951 A
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-11-issue-2/sgsportgreat/Tan_Howe_Liang.jpg">
-Weightlifter Tan Howe Liang won Singapore’s first Olympic medal, a silver, at the 1960 Rome Olympics.<i>Courtesy of Sport Singapore.</i>
+Weightlifter Tan Howe Liang won Singapore’s first Olympic medal, a silver, at the 1960 Rome Olympics. <i>Courtesy of Sport Singapore.</i>
 </div>
 
 
@@ -68,8 +68,6 @@ Following in the footsteps of Patricia were sisters Elaine and Junie Sng, daught
 The 1960s and 1970s were also the age of supremacy in local athletics, with C. Kunalan, Chee Swee Lee and K. Jayamani giving Singapore some of its finest sporting moments. Kunalan just missed winning gold in the men’s 100-metre sprint at the 1966 Asian Games in Bangkok as he was edged out by Malaysia's M. Jegathesan in a photo-finish. In all, he won five Asian Games and 14 SEA Games medals in a career spanning over a few decades.
 
 Trained by coach Patrick Zehnder, Chee delivered one of the most spectacular performances in the history of local athletics to win the gold medal in the women’s 400-metre race at the 1974 Asian Games in Tehran, Iran. She set a new games record with her time of 55.08 seconds and became the  first  Singaporean  woman  to  win  an athletics gold at the games.
-
-Trained by coach Patrick Zehnder, Chee delivered one of the most spectacular performances in the history of local athletics to win the gold medal in the women’s 400-metre race at the 1974 Asian Games in Tehran, Iran. She set a new games record with her time of 55.08 seconds and became the first Singaporean woman to win an athletics gold at the games.
 
 Jayamani achieved SEA Games success in distance running but part of the interest in her story stemmed from the unique,  heartwarming relationship she had with  her coach Maurice Nicholas and his family. Jayamani recalls, “Maurice often went beyond the duties of a conventional coach to embrace me as family. When I stayed with the family, his wife Elizabeth would treat  me as her own daughter. Although she was sometimes strict with me, she showered me with lots of care. She would cook meals like her famous herbal chicken for me to ensure I had the proper nutrition to keep up with the harsh demands of training. I also formed a close bond with their daughters, Michelle and Sharon. They were like family to me.” Indeed, this was an era when coaches often went way beyond their roles as coaches to become mentor, friend and even parent to some of their charges.
 
