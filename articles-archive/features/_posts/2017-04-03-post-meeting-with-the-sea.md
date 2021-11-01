@@ -40,7 +40,7 @@ I am in a cab on the way to the Eurasian Association at Ceylon Road. The taxi dr
 
 “Miss, you are what *ah*?”
 
-I’ve moved beyond my teenage belligerence, when I would either not acknowledge they were referring to my race or retort, “Human.” I don’t even roll my eyes anymore, even in my head. I think I’ve come a long way.
+I’ve moved beyond my teenage belligerence, when I would either not acknowledge they were referring to my race or retort, “Human”. I don’t even roll my eyes anymore, even in my head. I think I’ve come a long way.
 
 “Eurasian.”
 
@@ -202,7 +202,7 @@ I remember how it felt to be out in the boat yesterday, the lapping of the waves
 
 *Tok, tok, tok*. The sound of hammering infuses the morning. The sun’s soft light filters through the green netting shrouding the concrete structure, as the yellow hard hats scurry about their business. I turn my back to it all and start making my way down the beach, the noise of industry growing fainter with each step.
 
-<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;">“Meeting with the Sea” appears in Melissa De Silva’s debut collection of short stories, Others is not a Race. The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries ([Call nos.: RSING 305.80095957 DE and SING 305.80095957 DE](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203009427)). </span>
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;">“Meeting with the Sea” appears in Melissa De Silva’s debut collection of short stories, <i>Others is not a Race</i>. The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries ([Call nos.: RSING 305.80095957 DE and SING 305.80095957 DE](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203009427)). </span>
 
 <div style="background-color: white;">
 <br>
