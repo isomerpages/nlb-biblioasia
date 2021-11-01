@@ -100,13 +100,13 @@ Ajar semua untuk tidak gentar”.[^13]</span>
 
 <p align="right">– Noridah Kamari</p>
 
-“Jalan…Jalan,
-jalan dan jalan….
-Jangan berhenti separuh jalan.
-
-Biar sampai ke hujung jalan,
-Sampai matlamat jalan kesampaian,
-Atau sampai tak boleh jalan”.[^14]
+<span style="display: block; text-align: center;">“Jalan…Jalan,<br>
+jalan dan jalan….<br>
+Jangan berhenti separuh jalan.<br>
+<br><br>
+Biar sampai ke hujung jalan,<br>
+Sampai matlamat jalan kesampaian,<br>
+Atau sampai tak boleh jalan”.[^14]<span style="display: block; text-align: center;">
 
 <p align="right">– Muhammad Ariff Ahmad</p>
 
