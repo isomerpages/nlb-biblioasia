@@ -40,7 +40,7 @@ Mangroves are an integral part of the marine ecosystem. *Ang Seow Leng* explains
 Chinese authors in 1920s Singapore were faced with the call to produce works with a distinctive “Nanyang flavour”. *Goh Yu Mei* explains how these early writers defined this new genre of literature. 
 [(PDF)](/files/pdf/vol-13/v13-issue1_Chinese.pdf)
 
-**[Voices that Remain: Oral History Accounts of the Japanese Occupation](/vol-13/issue-1/apr-jun-2017/voices-that-remain)** <br>
+**[Voices That Remain: Oral History Accounts of the Japanese Occupation](/vol-13/issue-1/apr-jun-2017/voices-that-remain)** <br>
 Oral history accounts of the Japanese Occupation take on added poignancy, says *Mark Wong*, as we mark the 75th anniversary of the Fall of Singapore. [(PDF)](/files/pdf/vol-13/v13-issue1_Voices.pdf)
 
 **[The Guitar Man: Alex Abisheganaden](/vol-13/issue-1/apr-jun-2017/guitar-man)** <br>
