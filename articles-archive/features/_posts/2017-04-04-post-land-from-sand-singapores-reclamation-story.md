@@ -28,7 +28,7 @@ As the south bank occupied a lowlying marsh that was prone to flooding, a hilloc
 
 Boat Quay and Commercial Square grew rapidly. By the late 1860s, the mercantile community had outgrown the site, spilling over to another reclaimed strip of land to the south. Known as Collyer Quay, this stretch – from Johnston’s Pier to the old Telok Ayer Market – was reclaimed between 1859 and 1864.[^4] This was part of a scheme conceived by the Municipal Engineer, George Chancellor Collyer.
 
-<div style="background-color: white;"><img src="/images/Vol-13-issue-1/land-from-sand/02b_landfromsand.jpg">Named after George Chancellor Collyer, then Chief Engineer of the Straits Settlements, Collyer Quay was built on reclaimed land by convict labour and completed in 1864. <i>Courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;"><img style="width:600px" src="/images/Vol-13-issue-1/land-from-sand/02b_landfromsand.jpg">Named after George Chancellor Collyer, then Chief Engineer of the Straits Settlements, Collyer Quay was built on reclaimed land by convict labour and completed in 1864. <i>Courtesy of National Archives of Singapore.</i></div>
 
 Collyer wanted to build a seawall to serve as a landing site and a road behind it so that merchants could have their establishments facing the waterfront. This would not only improve the “aspect of Singapore’s waterfront”, but also allow the merchants to keep an eye on the movement of ships carrying their goods. Indeed, some of the first buildings constructed along Collyer Quay were linked at the second storey by a verandah that faced the sea. Peons armed with telescopes would be stationed along the verandah to announce the arrival of their company ships.[^5]
 
