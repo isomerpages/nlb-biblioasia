@@ -6,7 +6,7 @@ layout: post
 ---
 #### Singapore’s Malay publishing scene was thrown into disarray when the country exited Malaysia in 1965. **Juffri Bin Supa’at** charts the development of Malay poetry in Singapore since Independence.
 
-<span style="display: block; text-align: center;">“Ahli bahasa<br>
+<span style="display: block; text-align: center;"><i>“Ahli bahasa<br>
 yang memakai akal<br>
 memikirkan puisi<br>
 adalah tenunan<br>
@@ -28,7 +28,7 @@ sehingga tiada sehembus pun<br>
 nafas terasa<br>
 kerana ketiadaan suara<br>
 manusia<br>
-yang menuliskannya.”[^1]</span>
+	yang menuliskannya.”[^1]</i></span>
 
 <p align="right">– Masuri S.N.</p>
 
@@ -38,14 +38,14 @@ Peranan Singapura dalam sastera Melayu klasik dan moden amat penting dan tidak b
 
 Apabila Singapura berpisah dengan Malaysia dan menjadi sebuah negara merdeka pada tahun 1965, sejarah kegemilangan ini mula kelihatan pudar terutama sekali bila tumpuan lebih diberikan kepada pembangunan ekonomi untuk penakatan Singapura sebagai sebuah negara yang baru. Malah, ada yang berpendapat bahawa sastera Melayu di Singapura akan mula kendur dan tidak dapat bertahan, terutama apabila ramai sasterawan-sasterawan yang pada suatu masa bergiat dan merancakkan taman sastera di Singapura mula berhijrah atau pulang ke negeri masing-masing. Tapi seperti bait-bait puisi Jalan Permulaan Suratman Markasan, ramai juga yang menetap dan meneruskan perjuangan sastera di sini kerana:
 
-“Singapuraku<br>
+<span style="display: block; text-align: center;"><i>“Singapuraku<br>
 Aku mengerti<br>
 di sini darah ibuku tumpah,<br>
 di sini tulang-belulangku akan merapuh
 di sisi anak-anakku membesar<br>
 seperti paya terus melebar<br>
 di atas batu-bata & pasir-masir bertakhta,<br>
-lalu manusia ser ibu tahun menghamba.”[^2]
+lalu manusia ser ibu tahun menghamba.”[^2]</i></span>
 
 <p align="right">– Suratman Markasan</p>
 
@@ -93,20 +93,20 @@ Kita dapat melihat isu ini di sentuh para penyair yang telah diulas di dalam Pot
 
 Sayembara-sayembara puisi seperti Anugerah Pena Emas yang dianjurkan Majlis Seni Kebangsaan (NAC) dan persatuan penulis akan terus membantu mencungkil dan mendedahkan penyair-penyair muda dan yang baru melibatkan diri dalam dunia kepenyairan di Singapura. Antologi-antologi yang diterbitkan secara bersama umpamanya antologi Hempedu di Tasik Madu (2016) terbitan ASAS ’50 dapat menjadi wadah dan ruang untuk karyakarya penyair ini menemui pembaca selain wadah-wadah akhbar dan media sosial. Usaha-usaha sebegini dapat membantu menentukan kesinambungan dalam dunia kepenyairan di Singapura seperti kata Noridah dan Mas dalam bait-bait puisi di bawah ini.
 
-<span style="display: block; text-align: center;">“Berapa harga adil dan benar<br>
+<span style="display: block; text-align: center;"><i>“Berapa harga adil dan benar<br>
 Tiada boleh ditimbang tawar<br>
 Engkau yang terus tegar<br>
-Ajar semua untuk tidak gentar”.[^13]</span>
+Ajar semua untuk tidak gentar”.[^13]</i></span>
 
 <p align="right">– Noridah Kamari</p>
 
-<span style="display: block; text-align: center;">“Jalan…Jalan,<br>
+<span style="display: block; text-align: center;"><i>“Jalan…Jalan,<br>
 jalan dan jalan….<br>
 Jangan berhenti separuh jalan.<br>
 <br>
 Biar sampai ke hujung jalan,<br>
 Sampai matlamat jalan kesampaian,<br>
-Atau sampai tak boleh jalan”.[^14]</span>
+Atau sampai tak boleh jalan”.[^14]</i></span>
 
 <p align="right">– Muhammad Ariff Ahmad</p>
 
