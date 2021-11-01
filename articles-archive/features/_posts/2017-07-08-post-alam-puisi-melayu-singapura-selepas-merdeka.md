@@ -50,7 +50,7 @@ Namun kenyataannya tidak begitu. Sejak tahun 1965 sehingga kini, taman sastera d
 
 Menurut Masuri S. N., “Di antara tahun-tahun 1965 hingga 1970, puisi Melayu Singapura masih terus berkembang, terutama diciptakan oleh penyair-penyair veteran seperti Mas, A. Ghani Hamid, Noor S.I. dan A. Salam Ayub.”[^3] Kehadiran tokoh-tokoh perintis ini, termasuk Masuri dan Suratman Markasan yang masih tetap tinggal di sini, masih tetap gigih berkarya walaupun pada masa yang sama telah mula lahir karya penyair-penyair yang lebih muda dan ada yang baru mula berkarya.
 
-<div style="background-color: white;"><br><img style="width:400px" src="/images/Vol-13-issue-2/alam-puisi-melayu-singapura/01_puisi.png">Sebahagian karya-karya puisi penulis Singapura yang telah diterbitkan di dalam dan luar negara. <i>Gambar: Lembaga Perpustakaan Negara, Singapura.</i></div>
+<div style="background-color: white;"><br><img style="width:500px" src="/images/Vol-13-issue-2/alam-puisi-melayu-singapura/01_puisi.png">Sebahagian karya-karya puisi penulis Singapura yang telah diterbitkan di dalam dan luar negara. <i>Gambar: Lembaga Perpustakaan Negara, Singapura.</i></div>
 
 Namun, pada luarannya, bentuk dan isinya masih tetap sama dengan trend perkembangan sastera di Malaysia kerana “mereka masih belum terasa ke dalam batinnya akan perubahan politik, sosial, ekonomi dan pendidikan yang mulai sedikit demi sedikit menampakkan corak dan dasarnya yang berbeza antara kedua negara ini”.[^4]
 
@@ -63,7 +63,7 @@ Antara penyair-penyair yang mula menyerlah tahun 1970an ini ialah Djamal Tukimin
 * kritikan terhadap budaya masyarakat, dan juga
 * sajak-sajak yang membantah terhadap ketidakadilan dan inginkan kemajuan sosial, politik dan lain-lain.
 
-<div style="background-color: white;"><img src="/images/Vol-13-issue-2/alam-puisi-melayu-singapura/02_puisi.png">Mohamed Latiff Mohamed sedang mendeklamasikan puisi di sesi “Gig Puisi” diiringi tiupan seruling oleh Ciung Winara. <i>Gambar: Lembaga Perpustakaan Negara, Singapura.</i></div>
+<div style="background-color: white;"><img style="width:600px" src="/images/Vol-13-issue-2/alam-puisi-melayu-singapura/02_puisi.png">Mohamed Latiff Mohamed sedang mendeklamasikan puisi di sesi “Gig Puisi” diiringi tiupan seruling oleh Ciung Winara. <i>Gambar: Lembaga Perpustakaan Negara, Singapura.</i></div>
 
 Kumpulan Gelorasa telah menampakkan “kilatan-kilatan pemikiran dan wawasan yang agak segar dan baru pengucapannya, terutama dari segi mereka memilih subjek atau pokok persoalan yang dibicarakan dalam puisi-puisi ciptaannya. Mereka dapat melihat dengan lebih tegas dan terus terang akan keadaan kesekitaran dan perubahan yang sedang berlaku di dalam masyarakatnya dan dengan menggunakan Bahasa yang sedikit sebanyak telah memeranjatkan serta mengocakkan perkembangan puisi Melayu Singapura yang agak lesu dan lembab pada waktu itu.”[^7]
 
