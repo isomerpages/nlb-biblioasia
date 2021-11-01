@@ -121,7 +121,7 @@ Through my continued contact with the puppeteers, many have expressed their inte
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Vol-13-issue-1/chinese-puppet-theatre/caroline.png">
-	<b>Caroline Chia</b> researches on the theatrical forms of the Chinese diaspora in Singapore, China, Taiwan and Australia. She is the author of Development of Cantonese Opera in Singapore (2013) and co-author of "Potehi: Glove Puppet Theatre in Southeast Asia and Taiwan" (2015). She has worked with the National Heritage Board to document puppetry art forms in Singapore, and organised the first traditional glove puppetry workshop in November 2016. Visit her blog at: http://marionettetheatre.blogspot.sg.
+	<b>Caroline Chia</b> researches on the theatrical forms of the Chinese diaspora in Singapore, China, Taiwan and Australia. She is the author of <i>Development of Cantonese Opera in Singapore</i> (2013) and co-author of <i>Potehi: Glove Puppet Theatre in Southeast Asia and Taiwan</i> (2015). She has worked with the National Heritage Board to document puppetry art forms in Singapore, and organised the first traditional glove puppetry workshop in November 2016. Visit her blog at: http://marionettetheatre.blogspot.sg.
 </div>
 
 <a href="/vol-13/issue-1/apr-jun-2017/"><center>Back to Issue</center></a>
