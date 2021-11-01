@@ -136,8 +136,7 @@ It was another patent registered in London by the British inventor Peter Durand 
 
 [^15]: [Page 3 Advertisements Column 3: Notice](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18740328-1.2.21.3). (1874, March 28). <i>The Straits Times</i>, p. 3. Retrieved from NewspaperSG.
 
-[^16]: [Death of Mr. J. Bastiani](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19250105-1.2.63). (1925, January 5). <i>The Straits Times</i>, p. 9. Retrieved from NewspaperSG; Pilon, M., & Weiler, D. (2011). *[The French in Singapore: An illustrated
-history (1819–today)](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14270610)* (p. 86). Singapore: Editions Didier Millet. (Call no.: RSING 305.84105957 PIL)
+[^16]: [Death of Mr. J. Bastiani](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19250105-1.2.63). (1925, January 5). <i>The Straits Times</i>, p. 9. Retrieved from NewspaperSG; Pilon, M., & Weiler, D. (2011). *[The French in Singapore: An illustrated history (1819–today)](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14270610)* (p. 86). Singapore: Editions Didier Millet. (Call no.: RSING 305.84105957 PIL)
 
 [^17]: [Keaughran](https://eresources.nlb.gov.sg/printheritage/detail/9879b97a-f840-4443-9452-3cbd165b388b.aspx), 1879, p. 3.
 
