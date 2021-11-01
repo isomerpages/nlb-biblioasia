@@ -4,7 +4,6 @@ date: 2018-07-31
 permalink: /vol-14/issue-2/jul-sep-2018/nan-an-history-in-sg/
 layout: post
 ---
-
 #### The National Library recently received several rare items connected to the history of the Nan’an community and Hong San See Temple in Singapore. **Ang Seow Leng** presents highlights of the collection.
 
 <img src="/images/Vol-14-issue-2/preserving-nanan-history-in-sg/Preserving1.JPG">
@@ -33,7 +32,7 @@ It is estimated that there are close to 400,000 Nan’an descendants in Singapor
 
 #### **History of Hong San See Temple**
 
-In 1836, a group of Nan’an pioneers led by Liang Renkui (梁壬葵) established the original Hong San See Temple on Tras Street.[^8] In an article to Xing Bao (星报) newspaper in 1893, prominent Straits Chinese writer Chen Shengtang (陈省堂) noted that the temple was popular among devotees because the main temple deity, Guang Ze Zun Wang (广泽尊王), or Lord of Filial Piety, answered their prayers.[^9]
+In 1836, a group of Nan’an pioneers led by Liang Renkui (梁壬葵) established the original Hong San See Temple on Tras Street.[^8] In an article to *Xing Bao* (星报) newspaper in 1893, prominent Straits Chinese writer Chen Shengtang (陈省堂) noted that the temple was popular among devotees because the main temple deity, Guang Ze Zun Wang (广泽尊王), or Lord of Filial Piety, answered their prayers.[^9]
 
 In 1907, the colonial government acquired the temple land for a road widening project[^10] and paid 50,000 Straits dollars as compensation. The Nan’an builder and architect Lim Loh (林路)[^11] – the father of World War II hero Lim Bo Seng (林谋盛) and director of the temple’s management committee – subsequently purchased a plot of land at Mohamed Sultan Road for a new temple.[^12]
 
