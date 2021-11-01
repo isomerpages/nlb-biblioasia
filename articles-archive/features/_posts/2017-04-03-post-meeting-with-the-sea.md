@@ -60,7 +60,7 @@ Some minutes later we approach the gates of our destination.
 
 “Okay uncle, you can stop here please.”
 
-As the taxi rolls to a halt, the driver cranes his neck to look at the massive three-storey building in the middle of the leafy residential neighbourhood. “What is this place? Your house *ah*?“
+As the taxi rolls to a halt, the driver cranes his neck to look at the massive three-storey building in the middle of the leafy residential neighbourhood. “What is this place? Your house *ah*?”
 
 “No, this is the Eurasian Association.”
 
