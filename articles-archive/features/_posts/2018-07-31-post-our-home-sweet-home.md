@@ -20,7 +20,7 @@ To ease Singaporeans into high-rise living, the HDB started its own magazine in 
 *Our Home* not only kept residents updated on HDB policies, initiatives, new amenities and happenings in housing estates, but also functioned as a “views-paper”[^4] where readers could express their opinions and ideas on various aspects of HDB living as well as hear from the board. Additionally, *Our Home* featured a variety of lifestyle topics such as cooking, health, fashion, interior decoration, sports and culture – in short “something for everyone in the family”.[^5]
 
 <img style="width: 450px; height: 310px;" src="/images/Vol-14-issue-2/our-home-sweet-home/Home2.JPG">
-<div style="background-color: white;">Covers of <i>Our Home</i> featuring the iconic dragon playground at Toa Payoh Lorong 6 (April 1980) and the unique clover leaf-shaped circular block along Ang Mo Kio Avenue 2 (June 1982). Residents received their free copy of Our Home when paying their monthly rent or instalments at the area offices while those who paid by GIRO would get a copy in the mail.</div>
+<div style="background-color: white;">Covers of <i>Our Home</i> featuring the iconic dragon playground at Toa Payoh Lorong 6 (April 1980) and the unique clover leaf-shaped circular block along Ang Mo Kio Avenue 2 (June 1982). Residents received their free copy of <i>Our Home</i> when paying their monthly rent or instalments at the area offices while those who paid by GIRO would get a copy in the mail.</div>
 
 Starting with 147,000 copies, circulation grew in tandem with the number of new flats completed. By the time the last issue was published in August 1989, *Our Home* had made its way into 440,000 flats island-wide.
 
@@ -60,11 +60,11 @@ However, a house does not make a home, and a pleasant living environment cannot 
 
 More than a roof over their heads, the public housing programme fostered a sense of rootedness among Singaporeans by giving them a tangible stake in the country. The late founding Prime Minister Lee Kuan Yew described it thus:
 
-“I wanted a home-owning society. I had seen the contrast between the blocks of low-cost rental flats, badly misused and poorly maintained, and those of house-proud owners, and was convinced that if every family owned its home, the country would be more stable… I believed this sense of ownership was vital for our new society which had no deep roots in a common historical experience..[^28]
+“I wanted a home-owning society. I had seen the contrast between the blocks of low-cost rental flats, badly misused and poorly maintained, and those of house-proud owners, and was convinced that if every family owned its home, the country would be more stable… I believed this sense of ownership was vital for our new society which had no deep roots in a common historical experience.”[^28]
 
 In its inaugural message to readers in July 1972, the magazine echoed Lee’s sentiments:
 
-“‘*Our Home* is about you and others in HDB housing estates. You will get to know how much other people are like you, how other residents live, their problems and how they overcome them and about their achievements… We all live in the same community. It might be Redhill or Toa Payoh or Queenstown, what matters is that we make that community something to be proud of, a healthy environment for our children”.[^29]
+“*Our Home* is about you and others in HDB housing estates. You will get to know how much other people are like you, how other residents live, their problems and how they overcome them and about their achievements… We all live in the same community. It might be Redhill or Toa Payoh or Queenstown, what matters is that we make that community something to be proud of, a healthy environment for our children.”[^29]
 
 In line with Singapore’s first Concept Plan in 1971, residential estates were developed as part of a ring of self-contained new towns around the central water catchment area.[^30] High-rise flats began replacing *kampongs* (villages) and came to characterise the suburban landscape. Our Home charted this period of transition and gave voice to the hopes and frustrations of residents as they adjusted to their new environment.
 
