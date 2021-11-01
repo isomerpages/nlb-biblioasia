@@ -16,7 +16,7 @@ The quest for land is as old as time immemorial; one of the reasons nations go t
 
 Many people think of land reclamation in Singapore as a fairly recent phenomenon, but in actual fact the earliest reclamation project took place in colonial times. When Stamford Raffles landed at the mouth of the Singapore River in January 1819, the lay of the land was vastly different from what we see today. The river was flanked by mangrove swamps and mosquito-infested jungle, and what is now Telok Ayer Street and Beach Road were coastal areas that hugged the sea.
 
-<div style="background-color: white;"><img src="/images/Vol-13-issue-1/land-from-sand/02a_landfromsand.jpg">This lithograph (c. 1850) by Lieutenant Edwin Augustus Porcher from the British Royal Navy shows the view as seen from South Boat Quay, where Singapore’s first reclamation took place in 1822. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i></div>
+<div style="background-color: white;"><img style="width:600px" src="/images/Vol-13-issue-1/land-from-sand/02a_landfromsand.jpg">This lithograph (c. 1850) by Lieutenant Edwin Augustus Porcher from the British Royal Navy shows the view as seen from South Boat Quay, where Singapore’s first reclamation took place in 1822. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i></div>
 
 It did not take long for the British to get down to business. Singapore was officially claimed by Raffles as a colony, and just four years later, the island witnessed the first of its many topographic transformations.
 
