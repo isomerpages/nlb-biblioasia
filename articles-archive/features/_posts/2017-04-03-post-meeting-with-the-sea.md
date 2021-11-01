@@ -136,7 +136,7 @@ Uncle Maurice points to undulations of pale grey mounds in the distance on the w
 
 Sand barges lie like alien spacecraft beside them and the air is filled with metallic hissing sounds. These piles of sand are the nascent artificial islands of Melaka Gateway, a project with ambitions to be the largest cluster of synthetic islands in Southeast Asia. The plan for the 246-hectare area is to hold entertainment resorts, theme parks and “man-made eco-islands”.
 
-“We fishermen don’t cry ah? *Habis, habis lah*“, he says in Malay. When it’s gone, it’s gone.
+“We fishermen don’t cry ah? *Habis, habis lah*,” he says in Malay. When it’s gone, it’s gone.
 
 As I look, I think of my great-grandfather, the fisherman, and imagine the times he’d shared with my own father, passing on traditions that had survived for over five centuries. And now, just three generations later, the thread of all this knowledge and richness would be snapped. My retired father had been trained as a mechanic. As for myself, former women’s magazine journalist and urban princess, I’m hardly the material of a maritime professional.
 
@@ -144,11 +144,11 @@ A half hour later, we are having engine trouble. Maurice fiddles with the outboa
 
 As we make our way slowly back to shore, Jeremy tells me he works for a local film production house called Marco Polo and has just completed a job working on a film set in Mongolia, filmed in a studio in Johor Bahru. His job was to look after the animals on the set. There were three pigs, two goats, a puppy and a lamb. When two of the pigs got into a scuffle, a piece of one pig’s ear flew off. Jeremy saved it.
 
-“It’s brown now,” he says, sounding like a proud father. “Soon I think it will be black”.
+“It’s brown now,” he says, sounding like a proud father. “Soon I think it will be black.”
 
 “Does it smell?” I ask.
 
-He nods, dazzling me with a smile. “Yes”.
+He nods, dazzling me with a smile. “Yes.”
 
 Finally, we make it to a ramshackle dock and Maurice trades boats with another fisherman. On the second leg of the trip, as we pass mangroves near Kampung Batang Pasir, the trees closer to the water’s edge toppled like fallen soldiers, Maurice tells me the mangroves used to be alive with wild boars, monkeys and birds. This is where the fishermen would catch *siput*, sea snails, then cook them with slices of unripe papaya, small prawns and *santan*, coconut milk.
 
@@ -156,19 +156,19 @@ Finally, we make it to a ramshackle dock and Maurice trades boats with another f
 
 Here, the ocean is a translucent mud tint, like watery tea stirred with milk, with a greenish-blue rim along the horizon. Flakes of sun dance on the water and I’m gripped by the urge to swim, to glide through the cool. I lean over the boat’s edge and trail my fingers through the waves, letting the water release in a delicious crest.
 
-“We’re coming to the place for fishing”, announces Maurice some time later, when the mangroves have become specks in the distance. I rummage in my bag and unwrap my camera from its plastic covering.
+“We’re coming to the place for fishing,” announces Maurice some time later, when the mangroves have become specks in the distance. I rummage in my bag and unwrap my camera from its plastic covering.
 
 “Boy, where are the nets?” he asks Jeremy.
 
 Jeremy stares at the floor of the boat as if encountering virgin terrain. He has the look of a boy who has misplaced the nets. There are the lifejacket, rope and a plastic container with money, sunglasses, a penknife and Maurice’s mobile phone in it. They’d forgotten to load the nets when we swapped boats.
 
-“If we go back one hour to get the net and come back, it will be too late for fishing already”, Maurice explains.
+“If we go back one hour to get the net and come back, it will be too late for fishing already,” Maurice explains.
 
 My heart flops. There was only today. Tomorrow he’d be off to the hospital to have his cataracts removed, and he didn’t know if or when he’d be fishing again.
 
-I manage to nod. Maurice has been kind, hospitable and his company an absolute delight. I don’t want him to feel badly. “Never mind Uncle. It’s okay. I got to see the sea. We can go back”.
+I manage to nod. Maurice has been kind, hospitable and his company an absolute delight. I don’t want him to feel badly. “Never mind Uncle. It’s okay. I got to see the sea. We can go back.”
 
-He cuts the engine. “No hurry. We drift for a while. We relax”.
+He cuts the engine. “No hurry. We drift for a while. We relax.”
 
 It was a clear distinction of values: manic urban efficiency versus sea village chill. I feel slightly chastened, not by him but by my own embryonic Latin spirit. “C’mon,” it prods me. “Can’t you even relax a little and enjoy being out at sea?”
 
@@ -180,7 +180,7 @@ As my mind flashes to my previous career of chronically overstressed cubicle rat
 
 Later, as the boat chugs slowly back to shore, I think about how I’d travelled all the way here to document one of the last Portuguese-Eurasian fishermen in Malacca, and our traditional livelihood. It seems almost funny it didn’t happen. Almost. Maurice stirs me from my reverie with a gesture. He jerks his chin toward Jeremy, sitting at the bow. The massive construction for a hotel by the settlement’s jetty forms a backdrop for his grandson’s figure.
 
-Maurice’s tone is a wash of sadness over weary anger. “Jeremy cannot be in this line already”, he says, meaning fishing. “The sea is dead”.
+Maurice’s tone is a wash of sadness over weary anger. “Jeremy cannot be in this line already,” he says, meaning fishing. “The sea is dead.”
 
 His last words are muffled as the dull drone of a generator fills the air.
 
@@ -202,12 +202,12 @@ I remember how it felt to be out in the boat yesterday, the lapping of the waves
 
 *Tok, tok, tok*. The sound of hammering infuses the morning. The sun’s soft light filters through the green netting shrouding the concrete structure, as the yellow hard hats scurry about their business. I turn my back to it all and start making my way down the beach, the noise of industry growing fainter with each step.
 
-<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;">“Meeting with the Sea” appears in Melissa De Silva’s debut collection of short stories, Others is not a Race, to be published by Math Paper Press in 2017.</span>
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;">“Meeting with the Sea” appears in Melissa De Silva’s debut collection of short stories, Others is not a Race. The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries ([Call nos.: RSING 305.80095957 DE and SING 305.80095957 DE](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203009427)). </span>
 
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Vol-13-issue-1/meeting-with-the-sea/melissa.png">
-<b>Melissa De Silva</b> has worked in magazine journalism and publishing, including stints at Singapore Press Holdings and Mediacorp Publishing. Her fiction and non-fiction works have been published in journals in Hong Kong, Singapore and the US. Her debut collection of short stories <i>Others is not a Race</i> will be published by Math Paper Press in 2017.
+<b>Melissa De Silva</b> has worked in magazine journalism and publishing, including stints at Singapore Press Holdings and Mediacorp Publishing. Her fiction and non-fiction works have been published in journals in Hong Kong, Singapore and the US. Her debut collection of short stories <i>Others is not a Race</i> was published by Math Paper Press in 2017.
 </div>
 
 <a href="/vol-13/issue-1/apr-jun-2017/"><center>Back to Issue</center></a>
