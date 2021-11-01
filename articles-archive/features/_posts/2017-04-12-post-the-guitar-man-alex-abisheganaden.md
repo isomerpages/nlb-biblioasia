@@ -96,7 +96,7 @@ This is a bound publication of handwritten pedagogy notes that Alex Abisheganade
 <br><br>
 <b>Eleven September Two Thousand and One</b> (2002)(Call no.: RCLOS 781.095957 ELE-[AA])
 <br>
-Conceptualised and arranged by Alex Abisheganaden, this work was inspired by the aftermath of the 2011 terrorist attacks. It includes two sets of draft summary text on Singapore’s history and development since 1819. The work comprises arrangements for “Sumatera”, “Singapore”, “God Save the King”, “Negara Ku”, “Count on Me Singapore” and “Let There be Peace on Earth”. The piece was performed by GENUS in a concert in 2002.
+Conceptualised and arranged by Alex Abisheganaden, this work was inspired by the aftermath of the 2001 terrorist attacks. It includes two sets of draft summary text on Singapore’s history and development since 1819. The work comprises arrangements for “Sumatera”, “Singapore”, “God Save the King”, “Negara Ku”, “Count on Me Singapore” and “Let There be Peace on Earth”. The piece was performed by GENUS in a concert in 2002.
 <br><br>
 <b>Friends</b> (1983) (Call no.: RCLOS 787.87 ABI-[AA])
 <br>
@@ -207,7 +207,7 @@ Nanda, A. (2011, October 17). [Strings of passion](http://eresources.nlb.gov.sg/
 
 National Library Board. (2008). *[Alex Abisheganaden](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1360_2008-07-27.html)* written by Chang, Tou Liang. Retrieved from Singapore Infopedia website.
 
-National Library Board. (2017, February 17). *[Jacintha Abisheganade](http://eresources.nlb.gov.sg/infopedia/articles/SIP_2015-02-17_110409.html)*n written by Ho, Stephanie. Retrieved from Singapore Infopedia website.
+National Library Board. (2017, February 17). *[Jacintha Abisheganaden](http://eresources.nlb.gov.sg/infopedia/articles/SIP_2015-02-17_110409.html)* written by Ho, Stephanie. Retrieved from Singapore Infopedia website.
 
 National University of Singapore Guitar Ensemble. (2016). *Our Founder – Alex Abisheganaden*. Retrieved from National University of Singapore Guitar Ensemble website.
 
