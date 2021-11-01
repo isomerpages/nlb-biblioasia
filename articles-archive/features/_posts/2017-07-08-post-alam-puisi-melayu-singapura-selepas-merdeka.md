@@ -34,8 +34,6 @@ manusia<br>
 
 Peranan Singapura dalam sastera Melayu klasik dan moden amat penting dan tidak boleh diketepikan. Singapura pernah menjadi pusat penerbitan dan percetakan Asia Tenggara pada abad ke 19 sehingga awal abad ke 20 serta berfungsi sebagai pusat intelektual, pendidikan dan kebudayaan Melayu yang telah menarik para penggiat seni dari merata Alam Melayu dan dunia. Sesungguhnya, Singapura pernah menjadi nadi utama dalam proses permodenan dan perkembangan sastera dan intelektual Melayu.
 
-<div style="background-color: white;"><br><img style="width:400px" src="/images/Vol-13-issue-2/alam-puisi-melayu-singapura/01_puisi.png">Sebahagian karya-karya puisi penulis Singapura yang telah diterbitkan di dalam dan luar negara. <i>Gambar: Lembaga Perpustakaan Negara, Singapura.</i></div>
-
 Apabila Singapura berpisah dengan Malaysia dan menjadi sebuah negara merdeka pada tahun 1965, sejarah kegemilangan ini mula kelihatan pudar terutama sekali bila tumpuan lebih diberikan kepada pembangunan ekonomi untuk penakatan Singapura sebagai sebuah negara yang baru. Malah, ada yang berpendapat bahawa sastera Melayu di Singapura akan mula kendur dan tidak dapat bertahan, terutama apabila ramai sasterawan-sasterawan yang pada suatu masa bergiat dan merancakkan taman sastera di Singapura mula berhijrah atau pulang ke negeri masing-masing. Tapi seperti bait-bait puisi Jalan Permulaan Suratman Markasan, ramai juga yang menetap dan meneruskan perjuangan sastera di sini kerana:
 
 <span style="display: block; text-align: center;"><i>“Singapuraku<br>
@@ -51,11 +49,11 @@ lalu manusia ser ibu tahun menghamba.”[^2]</i></span>
 
 Namun kenyataannya tidak begitu. Sejak tahun 1965 sehingga kini, taman sastera di sini sentiasa subur dan tumbuh sepanjang masa terutama dari segi puisi. Pertumbuhan ini dapat dilihat di dalam esei ini yang menyorot perkembangan puisi Melayu di Singapura dari tahun 1965 sehingga sekarang.
 
-Menurut Masuri S. N., “Di antara tahun-tahun 1965 hingga 1970, puisi Melayu Singapura masih terus berkembang, terutama diciptakan oleh penyair-penyair veteran seperti Mas, A. Ghani Hamid, Noor S.I. dan A. Salam Ayub”.[^3] Kehadiran tokoh-tokoh perintis ini, termasuk Masuri dan Suratman Markasan yang masih tetap tinggal di sini, masih tetap gigih berkarya walaupun pada masa yang sama telah mula lahir karya penyair-penyair yang lebih muda dan ada yang baru mula berkarya.
+Menurut Masuri S. N., “Di antara tahun-tahun 1965 hingga 1970, puisi Melayu Singapura masih terus berkembang, terutama diciptakan oleh penyair-penyair veteran seperti Mas, A. Ghani Hamid, Noor S.I. dan A. Salam Ayub.”[^3] Kehadiran tokoh-tokoh perintis ini, termasuk Masuri dan Suratman Markasan yang masih tetap tinggal di sini, masih tetap gigih berkarya walaupun pada masa yang sama telah mula lahir karya penyair-penyair yang lebih muda dan ada yang baru mula berkarya.
+
+<div style="background-color: white;"><br><img style="width:400px" src="/images/Vol-13-issue-2/alam-puisi-melayu-singapura/01_puisi.png">Sebahagian karya-karya puisi penulis Singapura yang telah diterbitkan di dalam dan luar negara. <i>Gambar: Lembaga Perpustakaan Negara, Singapura.</i></div>
 
 Namun, pada luarannya, bentuk dan isinya masih tetap sama dengan trend perkembangan sastera di Malaysia kerana “mereka masih belum terasa ke dalam batinnya akan perubahan politik, sosial, ekonomi dan pendidikan yang mulai sedikit demi sedikit menampakkan corak dan dasarnya yang berbeza antara kedua negara ini”.[^4]
-
-<div style="background-color: white;"><img src="/images/Vol-13-issue-2/alam-puisi-melayu-singapura/02_puisi.png">Mohamed Latiff Mohamed sedang mendeklamasikan puisi di sesi “Gig Puisi” diiringi tiupan seruling oleh Ciung Winara. <i>Gambar: Lembaga Perpustakaan Negara, Singapura.</i></div>
 
 Perkembangan puisi Melayu di Singapura juga telah dirancakkan dengan kegiatan sastera pada tahun 70an dan kehadiran kehadiran penyair-penyair muda yang membentuk kumpulan Gelorasa. Kumpulan ini telah menganjurkan beberapa kegiatan seperti Malam Gelorasa. Ini diikuti pula dengan pembentukan Pertubuhan Aktivis Sastera Singapura (PASS) pada tahun 1972 oleh “sekumpulan penulis muda yang sebahagiannya terdiri dari bekas peserta kursus wartawan yang dianjurkan oleh Persatuan Wartawan Melayu Singapura”.[^5] Pada tahun 1973 pula, Perkampungan Sastera telah dianjurkan oleh ASAS ’50 dengan matlamat untuk menunjukkan tentang “wujudnya sastera Melayu Singapura dan sekaligus cuba menarik golongan penulis/penyair baru untuk turut serta dan terlibat di dalamnya”.
 
@@ -66,7 +64,9 @@ Antara penyair-penyair yang mula menyerlah tahun 1970an ini ialah Djamal Tukimin
 * kritikan terhadap budaya masyarakat, dan juga
 * sajak-sajak yang membantah terhadap ketidakadilan dan inginkan kemajuan sosial, politik dan lain-lain.
 
-Kumpulan Gelorasa telah menampakkan “kilatan-kilatan pemikiran dan wawasan yang agak segar dan baru pengucapannya, terutama dari segi mereka memilih subjek atau pokok persoalan yang dibicarakan dalam puisi-puisi ciptaannya. Mereka dapat melihat dengan lebih tegas dan terus terang akan keadaan kesekitaran dan perubahan yang sedang berlaku di dalam masyarakatnya dan dengan menggunakan Bahasa yang sedikit sebanyak telah memeranjatkan serta mengocakkan perkembangan puisi Melayu Singapura yang agak lesu dan lembab pada waktu itu”.[^7]
+<div style="background-color: white;"><img src="/images/Vol-13-issue-2/alam-puisi-melayu-singapura/02_puisi.png">Mohamed Latiff Mohamed sedang mendeklamasikan puisi di sesi “Gig Puisi” diiringi tiupan seruling oleh Ciung Winara. <i>Gambar: Lembaga Perpustakaan Negara, Singapura.</i></div>
+
+Kumpulan Gelorasa telah menampakkan “kilatan-kilatan pemikiran dan wawasan yang agak segar dan baru pengucapannya, terutama dari segi mereka memilih subjek atau pokok persoalan yang dibicarakan dalam puisi-puisi ciptaannya. Mereka dapat melihat dengan lebih tegas dan terus terang akan keadaan kesekitaran dan perubahan yang sedang berlaku di dalam masyarakatnya dan dengan menggunakan Bahasa yang sedikit sebanyak telah memeranjatkan serta mengocakkan perkembangan puisi Melayu Singapura yang agak lesu dan lembab pada waktu itu.”[^7]
 
 Pada tahun akhir 1970an pula sekumpulan mahasiswa di Universiti Singapura mula bergiat dengan menerbitkan jurnal sastera berjudul Jejak Kembara dan juga sekumpulan penulis muda yang bergiat di Perpustakaan Negara, cawangan Toa Payoh. Kumpulan ini telah menerbitkan majalah Gema Pustaka. Antara para penyair-penyair yang dilahirkan ialah Hadijah Rahmat, Rasiah Halil, Rohman Munasip dan Norulashikin Jamain.
 
@@ -82,14 +82,14 @@ Pada tahun 2000an kita juga dapat melihat beberapa rancangan seperti “Santai P
 
 Anugerah Persuratan 2009–2015 juga telah menemui beberapa nama baru yang menjadi penerima Hadiah Persuratan seperti Noor Hasnah Adam, Hidayat Hamzah, Ciung Winara, Kamaria Buang dan Mohamed Naguib Ngadnan di samping beberapa penyair yang mapan seperti Johar Buang, Hamed Ismail dan Peter Augustine Goh walaupun ada antara mereka memang sudah lama bergiat dalam arena sastera.
 
+<div style="background-color: white;"><img src="/images/Vol-13-issue-2/alam-puisi-melayu-singapura/03_puisi.png">(Kiri) Johar Buang dinobatkan sebagai penerima Anugerah Tun Seri Lanang di majlis Anugerah Persuratan 2015. <i>Gambar: Ihsan Majlis Bahasa Melayu Singapura.</i><br>
+(Kanan) Kamaria Buang menerima hadiah bahagian puisi eceran daripada Prof Madya Dr Muhammad Faishal Ibrahim, Setiausaha Parlimen Kanan, Kementerian Pembangunan Sosial dan Keluarga & Kementerian Pendidikan merangkap Pengerusi Majlis Bahasa Melayu Singapura. <i>Gambar: Ihsan Majlis Bahasa Melayu Singapura.</i></div>
+
 Penyair bukan sekadar penggiat seni tetapi harus menjadi pemikir masyarakat, menyampaikan luahan dan gerak rasa masyarakat serta mencari dan menemukan jalan penyelesaian kemelut yang dihadapi masyarakatnya. Di dalam buku Sastera dan Manusia Baru, Hadijah berpendapat bahawa:
 
 “Manusia Melayu baru yang perlu dibentuk ialah manusia Melayu yang moden, yang tidak mudah digugat oleh perkembangan semasa, sama ada yang datang dari dalam atau luar negara, bahkan dapat memberi sumbangan yang bermakna dan dapat dibanggakan untuk pembangunan masyarakat dan negaranya serta mampu pula mengukuhkan identiti dan maruah budaya dan agamanya. Tegasnya, kita perlu menjadi masyarakat teladan membentuk suatu ummah yang benar-benar terpuji dan dihormati.”[^10]
 
 Kita dapat melihat isu ini di sentuh para penyair yang telah diulas di dalam Potret Puisi Melayu Singapura, Isa Kamari.[^11] Di dalam buku ini, terdapat 44 orang penyair dari yang mapan iaitu golongan perintis sehingga yang muda telah disorot. Menurut Isa, di dalam “perihal sistem sosio-budaya Melayu yang menghambat kemajuan masyarakat pula, dalam tafsirannya yang luas, kesemua penyair yang dikaji kumpulan puisinya telah membicarakan dengan rinci dengan keprihatinan yang tinggi dan halus”.[^12] Cuma jangkauan serta penekanan dalam pengucapan mereka adalah rencam walaupun terasnya tetap ke arah pengukuhan dan penyepaduan jatidiri dan maruah bangsa dan agama.
-
-<div style="background-color: white;"><img src="/images/Vol-13-issue-2/alam-puisi-melayu-singapura/03_puisi.png">(Kanan) Kamaria Buang menerima hadiah bahagian puisi eceran daripada Prof Madya Dr Muhammad Faishal Ibrahim, Setiausaha Parlimen Kanan, Kementerian Pembangunan Sosial dan Keluarga & Kementerian Pendidikan merangkap Pengerusi Majlis Bahasa Melayu Singapura. <i>Gambar: Ihsan Majlis Bahasa Melayu Singapura.</i><br>
-(Kiri) Johar Buang dinobatkan sebagai penerima Anugerah Tun Seri Lanang di majlis Anugerah Persuratan 2015. <i>Gambar: Ihsan Majlis Bahasa Melayu Singapura.</i></div>
 
 Sayembara-sayembara puisi seperti Anugerah Pena Emas yang dianjurkan Majlis Seni Kebangsaan (NAC) dan persatuan penulis akan terus membantu mencungkil dan mendedahkan penyair-penyair muda dan yang baru melibatkan diri dalam dunia kepenyairan di Singapura. Antologi-antologi yang diterbitkan secara bersama umpamanya antologi Hempedu di Tasik Madu (2016) terbitan ASAS ’50 dapat menjadi wadah dan ruang untuk karyakarya penyair ini menemui pembaca selain wadah-wadah akhbar dan media sosial. Usaha-usaha sebegini dapat membantu menentukan kesinambungan dalam dunia kepenyairan di Singapura seperti kata Noridah dan Mas dalam bait-bait puisi di bawah ini.
 
