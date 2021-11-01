@@ -39,7 +39,7 @@ Apabila Singapura berpisah dengan Malaysia dan menjadi sebuah negara merdeka pad
 <span style="display: block; text-align: center;"><i>“Singapuraku<br>
 Aku mengerti<br>
 di sini darah ibuku tumpah,<br>
-di sini tulang-belulangku akan merapuh
+di sini tulang-belulangku akan merapuh<br>
 di sisi anak-anakku membesar<br>
 seperti paya terus melebar<br>
 di atas batu-bata & pasir-masir bertakhta,<br>
