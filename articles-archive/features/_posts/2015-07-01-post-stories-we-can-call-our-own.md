@@ -258,7 +258,7 @@ Glenn Phua, see here with his father Kelvin, was found to be autistic when he wa
 
 
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> 
-<i>Living The Singapore Story: Celebrating Our 50 Years 1965–2015</i> is on sale in bookshops at $19.65 (GST included). Commissioned by the National Library Board in celebration of Singapore’s Jubilee year, it features 58 Singaporeans describing how their lives evolved as Singapore changed over the past half-century. The stories featured on these pages are excerpts from the book.|
+<i>Living The Singapore Story: Celebrating Our 50 Years 1965–2015</i> is on sale in bookshops at $19.65 (GST included). Commissioned by the National Library Board in celebration of Singapore’s Jubilee year, it features 58 Singaporeans describing how their lives evolved as Singapore changed over the past half-century. The stories featured on these pages are excerpts from the book.
 <br><br>
 The team members behind the book, led by <i>The Straits Times</i> Editor-at-large Han Fook Kwang, are journalists Angelina Choy, Cheong Suk-Wai and Jennani Durai, former journalist Cassandra Chew and photographer Bryan van der Beek. A 15-member editorial advisory committee was chaired by Ambassador-at-large Tommy Koh and the NLB team was led by Francis Dorai, Assistant Director (Publishing).
 <br><br>
