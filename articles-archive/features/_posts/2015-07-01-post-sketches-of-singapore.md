@@ -8,13 +8,13 @@ layout: post
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-11-issue-2/sketches/fort_canning_park.jpg">
+<img style="width:75%" src="/images/vol-11-issue-2/sketches/fort_canning_park.jpg">
 Fort Canning Park by Dawn Lo, pharmacist.
 </div>
 
 Urban Sketchers is a global community of artists – from different walks of life, of varying ages, and living in different parts of the world – with one thing in common: a love for sketching the world around them. The movement was started in Seattle, United States, by the journalist and illustrator Gabriel Campanario, and today it has taken root in almost every major city worldwide. The Urban Sketchers group in Singapore is exceptionally active, having self- or co-published books in partnership with community and cultural institutions, and also held exhibitions of their works.
 
-Group members regularly meet up for a mass “sketchwalk” every last Saturday of the month – always at a different part of Singapore. Participants use all manner of art tools and techniques to capture their surroundings. There are neither joining fees, attendance sign-ups nor skill requirements to fulfil; the community has only two simple rules – to always sketch the scenes on location, and be truthful in capturing what they see. More information is available at: http://urbansketchers-singapore.blogspot.sg/
+Group members regularly meet up for a mass “sketchwalk” every last Saturday of the month – always at a different part of Singapore. Participants use all manner of art tools and techniques to capture their surroundings. There are neither joining fees, attendance sign-ups nor skill requirements to fulfil; the community has only two simple rules – to always sketch the scenes on location, and be truthful in capturing what they see. More information is available at: [http://urbansketchers-singapore.blogspot.sg/](http://urbansketchers-singapore.blogspot.sg/)
 
 #### **Urban Sketchers Singapore: Volume Two**
 
@@ -30,61 +30,61 @@ The International Urban Sketchers Symposium that will take place in Singapore fr
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-11-issue-2/sketches/National_Museum_re.jpg">
+<img style="width:75%" src="/images/vol-11-issue-2/sketches/National_Museum_re.jpg">
 National Museum of Singapore, Stamford Road by Marvin Chew, artist.
 </div>
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-11-issue-2/sketches/Singapore_River.jpg">
+<img style="width:75%" src="/images/vol-11-issue-2/sketches/Singapore_River.jpg">
 Singapore River, Clarke Quay by Marvin Chew, artist.
 </div>
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-11-issue-2/sketches/Nature_Reserve_Visitor_Centre.jpg">
+<img style="width:75%" src="/images/vol-11-issue-2/sketches/Nature_Reserve_Visitor_Centre.jpg">
 Bukit Timah Nature Reserve Visitor Centre by Chua Hee Lai, R&D Manager.
 </div>
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-11-issue-2/sketches/gardens_re.jpg">
+<img style="width:75%" src="/images/vol-11-issue-2/sketches/gardens_re.jpg">
 Gardens by the Bay by Lisa Huang, interior designer.
 </div>
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-11-issue-2/sketches/Juggernaut_Fight_Club.jpg">
+<img style="width:75%" src="/images/vol-11-issue-2/sketches/Juggernaut_Fight_Club.jpg">
 Juggernaut Fight Club, Boat Quay by Pocholo Estremos, architect/landscape designer.
 </div>
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-11-issue-2/sketches/Urban_Sketcher.jpg">
-Urban Sketcher Ong Whee Teck at work. Courtesy of Teoh Yi Chie.
+<img style="width:75%" src="/images/vol-11-issue-2/sketches/Urban_Sketcher.jpg">
+	Urban Sketcher Ong Whee Teck at work. <i>Courtesy of Teoh Yi Chie.</i>
 </div>
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-11-issue-2/sketches/9_Ann_Siang_Hill.jpg">
+<img style="width:75%" src="/images/vol-11-issue-2/sketches/9_Ann_Siang_Hill.jpg">
 9 Ann Siang Hill by Buz Walker-Teach, design lecturer.
 </div>
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-11-issue-2/sketches/Qi_Tian_Gong.jpg">
+<img style="width:75%" src="/images/vol-11-issue-2/sketches/Qi_Tian_Gong.jpg">
 Qi Tian Gong Temple, Tiong Bahru by Vu Hoa Giang, architect.
 </div>
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-11-issue-2/sketches/Bedok_Marketplace_re.jpg">
+<img style="width:75%" src="/images/vol-11-issue-2/sketches/Bedok_Marketplace_re.jpg">
 The Bedok Marketplace, Bedok Road by Tan Peng Koon, entrepreneur.
 </div>
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-11-issue-2/sketches/KTM_Railway_Bridge.jpg">
+<img style="width:75%" src="/images/vol-11-issue-2/sketches/KTM_Railway_Bridge.jpg">
 KTM Railway Bridge, Upper Bukit Timah Road by Tan Chit Seng, freelance engineer.
 </div>
 
