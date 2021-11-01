@@ -1,9 +1,10 @@
 ---
-title: Preserving Nan’An History in Singapore
+title: Preserving Nan’an History in Singapore
 date: 2018-07-31
 permalink: /vol-14/issue-2/jul-sep-2018/nan-an-history-in-sg/
 layout: post
 ---
+
 #### The National Library recently received several rare items connected to the history of the Nan’an community and Hong San See Temple in Singapore. **Ang Seow Leng** presents highlights of the collection.
 
 <img src="/images/Vol-14-issue-2/preserving-nanan-history-in-sg/Preserving1.JPG">
