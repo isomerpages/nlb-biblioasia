@@ -90,8 +90,8 @@ The use of cooking gas and electricity spelt the end of the charcoal industry in
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Vol-13-issue-1/mangroves/ang_seow_leng.png">
-	<b>Ang Seow Leng</b> is a Senior Librarian with the National Library, Singapore. Her responsibilities include managing the Singapore & Southeast Asian Collection, developing content as well as providing reference and research services related to Singapore and Southeast Asia.
+<img style="width: 100px; height: 100px;" src="/images/Vol-13-issue-1/mangroves/ang_seow_leng1.png">
+<b>Ang Seow Leng</b> is a Senior Librarian with the National Library, Singapore. Her responsibilities include managing the Singapore & Southeast Asian Collection, developing content as well as providing reference and research services related to Singapore and Southeast Asia.
 </div>
 
 <a href="/vol-13/issue-1/apr-jun-2017/"><center>Back to Issue</center></a>
@@ -112,7 +112,7 @@ The use of cooking gas and electricity spelt the end of the charcoal industry in
 
 [^7]:Ng, P.K.L., et. al. (2007). *[Private lives: An exposé of Singapore’s shores](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12913692)* (p. 200). Singapore: Raffles Museum of Biodiversity Research. (Call no.: RSING 578.7699095957 PRI)
 
-[^8]:Wetlands International and The Nature Conservance. (2014). *Mangroves for coastal defence: Guidelines for coastal managers & policy makers*. Retrieved from Wetlands International website; Kinver, M. (2005, December 25). Tsunami: Mangroves ‘saved lives’. BBC News. Retrieved from BBC News website.
+[^8]:Wetlands International and The Nature Conservance. (2014). *Mangroves for coastal defence: Guidelines for coastal managers & policy makers*. Retrieved from Wetlands International website; Kinver, M. (2005, December 25). Tsunami: Mangroves ‘saved lives’. *BBC News*. Retrieved from BBC News website.
 
 [^9]:UNEP & WCMC. (2014, December 4). *Biodiversity A-Z: Mangrove*. Retrieved from Biodiversity A-Z website.
 
