@@ -4,10 +4,9 @@ date: 2017-04-11
 permalink: /vol-13/issue-1/apr-jun-2017/voices-that-remain
 layout: post
 ---
-
 #### Oral history accounts of the Japanese Occupation take on added poignancy, says **Mark Wong**, as we mark the 75th anniversary of the Fall of Singapore.
 
-<div style="background-color: white;"><br><img src="/images/Vol-13-issue-1/voices-that-remain/01_voicesremain.jpg">Victorious Japanese troops marching into Fullerton Square on 16 February 1942. The British had surrendered the previous day and Singapore would be renamed Syonan-to (“Light of the South”) by its new masters. <i>© IWM (HU 2787).</i></div>
+<div style="background-color: white;"><br><img src="/images/Vol-13-issue-1/voices-that-remain/01a_voicesremain.jpg">Victorious Japanese troops marching into Fullerton Square on 16 February 1942. The British had surrendered the previous day and Singapore would be renamed Syonan-to (“Light of the South”) by its new masters. <i>© IWM (HU 2787).</i></div>
 
 On 15 February 1942, the British surrender to the invading Japanese forces heralded the start of three-and-a-half years of occupation when Singapore was known as Syonan-to (“Light of the South”).
 
