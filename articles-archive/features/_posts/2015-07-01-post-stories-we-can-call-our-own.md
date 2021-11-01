@@ -103,7 +103,7 @@ You could call me an advocate of IVF. I often encourage my friends who are tryin
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-11-issue-2/stories/SamuelLee.jpg">
+<img style="width:70%" src="/images/vol-11-issue-2/stories/SamuelLee1.jpg">
 Samuel Lee with a projection of a newspaper article marking his birth. He says that, fanfare aside, he grew up an ordinary Singaporean, in a three-room flat in Woodlands, with parents who refused to pamper him with too many toys.
 </div>
 
