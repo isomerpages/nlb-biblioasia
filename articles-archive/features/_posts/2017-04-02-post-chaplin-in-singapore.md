@@ -109,7 +109,7 @@ On 2 May, Charles Chaplin received a letter from the local tycoon Ong Peng Hock,
 
 Charles enjoyed New World so much that he returned with Syd on several occasions before their departure: “Occasionally we would go to the New World – the native Coney Island of Singapore – where every known variety of entertainment is given, from Malay opera to prizefighting.” One evening, after watching a boxing match at New World, Charles was asked to enter the ring and give the prize to the winner.[^30] But what truly fascinated him was the variety of local theatre.
 
-<div style="background-color: white;"><img style="width:500px" src="/images/Vol-13-issue-1/chaplin-in-singapore/06_charliechaplin.jpg">Letter from tycoon Ong Peng Hock inviting Charles Chaplin and his brother Sydney Chaplin for dinner at the New World amusement park. <i>Courtesy of Charlie Chaplin Archive.</i></div>
+<div style="background-color: white;"><img style="width:400px" src="/images/Vol-13-issue-1/chaplin-in-singapore/06a_charliechaplin.jpg">Letter from tycoon Ong Peng Hock inviting Charles Chaplin and his brother Sydney Chaplin for dinner at the New World amusement park. <i>Courtesy of Charlie Chaplin Archive.</i></div>
 
 “The Chinese drama listed several nights. My brother and I would sit of an evening trying to guess the different symbols that the actors used during the play. One was a stick with a fringe of wool around the top and center, which the actors would shake majestically. I guessed correctly. It was a horse”.[^31]
 
