@@ -81,7 +81,7 @@ Pada tahun 2000an kita juga dapat melihat beberapa rancangan seperti “Santai P
 
 Anugerah Persuratan 2009–2015 juga telah menemui beberapa nama baru yang menjadi penerima Hadiah Persuratan seperti Noor Hasnah Adam, Hidayat Hamzah, Ciung Winara, Kamaria Buang dan Mohamed Naguib Ngadnan di samping beberapa penyair yang mapan seperti Johar Buang, Hamed Ismail dan Peter Augustine Goh walaupun ada antara mereka memang sudah lama bergiat dalam arena sastera.
 
-<div style="background-color: white;"><img src="/images/Vol-13-issue-2/alam-puisi-melayu-singapura/03_puisi.png">(Kiri) Johar Buang dinobatkan sebagai penerima Anugerah Tun Seri Lanang di majlis Anugerah Persuratan 2015. <i>Gambar: Ihsan Majlis Bahasa Melayu Singapura.</i><br>
+<div style="background-color: white;"><img src="/images/Vol-13-issue-2/alam-puisi-melayu-singapura/03a_puisi.png">(Kiri) Johar Buang dinobatkan sebagai penerima Anugerah Tun Seri Lanang di majlis Anugerah Persuratan 2015. <i>Gambar: Ihsan Majlis Bahasa Melayu Singapura.</i><br>
 (Kanan) Kamaria Buang menerima hadiah bahagian puisi eceran daripada Prof Madya Dr Muhammad Faishal Ibrahim, Setiausaha Parlimen Kanan, Kementerian Pembangunan Sosial dan Keluarga & Kementerian Pendidikan merangkap Pengerusi Majlis Bahasa Melayu Singapura. <i>Gambar: Ihsan Majlis Bahasa Melayu Singapura.</i></div>
 
 Penyair bukan sekadar penggiat seni tetapi harus menjadi pemikir masyarakat, menyampaikan luahan dan gerak rasa masyarakat serta mencari dan menemukan jalan penyelesaian kemelut yang dihadapi masyarakatnya. Di dalam buku Sastera dan Manusia Baru, Hadijah berpendapat bahawa:
