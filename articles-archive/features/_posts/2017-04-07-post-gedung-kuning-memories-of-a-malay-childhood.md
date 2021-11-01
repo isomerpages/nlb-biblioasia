@@ -96,7 +96,7 @@ Children were the happiest during Hari Raya Puasa, especially those who had succ
 But back in Gedung Kuning, children were celebrated in another way. True to the spirit of giving, Haji Yusoff would give five dollars (a big sum in those days) to each grandchild. In the 1930s, 10 cents could buy four sticks of satay from the satay man who carried his portable stove and cooked sur place. Wak Lah said that one cent could buy up to four different items of food, and that for two cents, he could have a cup of tea, *pisang goreng* (banana fritters) and a bowl of *bubur kacang* (green bean soup). Although five dollars could not buy that many things now, I agreed with Wak Lah when he said that it was not the *duit raya* (Hari Raya money) that mattered most, but the spirit of family togetherness experienced during Ramadan and Hari Raya. And how I missed that family togetherness when I was studying far away from home.
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;">
-<img style="width:500px" src="/images/Vol-13-issue-1/gedung-kuning/09b_gedungkuning.png">
+<img style="width:400px" src="/images/Vol-13-issue-1/gedung-kuning/09b_gedungkuning.png">
 <br>
 <i>Gedung Kuning: Memories of a Malay Childhood</i> is published by Singapore Heritage Society and Helang Books. The book retails for $24.90 (before GST) and is available at major bookshops. The book is also available for reference and loan at the Lee Kong Chian Reference Library and selected public libraries. (<a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13348031">Call nos.: RSING 305.8992805957 HID and SING 305.8992805957 HID</a>)</span>
 
