@@ -34,6 +34,8 @@ yang menuliskannya.”[^1]</span></center>
 
 Peranan Singapura dalam sastera Melayu klasik dan moden amat penting dan tidak boleh diketepikan. Singapura pernah menjadi pusat penerbitan dan percetakan Asia Tenggara pada abad ke 19 sehingga awal abad ke 20 serta berfungsi sebagai pusat intelektual, pendidikan dan kebudayaan Melayu yang telah menarik para penggiat seni dari merata Alam Melayu dan dunia. Sesungguhnya, Singapura pernah menjadi nadi utama dalam proses permodenan dan perkembangan sastera dan intelektual Melayu.
 
+
+
 Apabila Singapura berpisah dengan Malaysia dan menjadi sebuah negara merdeka pada tahun 1965, sejarah kegemilangan ini mula kelihatan pudar terutama sekali bila tumpuan lebih diberikan kepada pembangunan ekonomi untuk penakatan Singapura sebagai sebuah negara yang baru. Malah, ada yang berpendapat bahawa sastera Melayu di Singapura akan mula kendur dan tidak dapat bertahan, terutama apabila ramai sasterawan-sasterawan yang pada suatu masa bergiat dan merancakkan taman sastera di Singapura mula berhijrah atau pulang ke negeri masing-masing. Tapi seperti bait-bait puisi Jalan Permulaan Suratman Markasan, ramai juga yang menetap dan meneruskan perjuangan sastera di sini kerana:
 
 “Singapuraku<br>
