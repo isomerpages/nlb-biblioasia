@@ -144,22 +144,22 @@ Sahlan Mohd Saman. (1984, March 11). [Tema tentang hidup paling digemari](http:/
 
 [^4]:[Masuri](https://eresources.nlb.gov.sg/arts/website/Contents/ArticleDetails.aspx?Id=ed0bb078-1a1b-4b6e-b851-c591ac7156e2), 1981, p. 1.
 
-[^5]:Hadijah Rahmat. (1998). Sastera & manusia Melayu baru: Kumpulan esei & wawancara (pp. 178–181). Singapura: Persatuan Wartawan Melayu Singapura. (Call no.: Malay RSING 899.284 HAD)
+[^5]:Hadijah Rahmat. (1998). *[Sastera & manusia Melayu baru: Kumpulan esei & wawancara](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9407497)* (pp. 178–181). Singapura: Persatuan Wartawan Melayu Singapura. (Call no.: Malay RSING 899.284 HAD)
 
-[^6]:Masuri, 1981, p. 3.
+[^6]:[Masuri](https://eresources.nlb.gov.sg/arts/website/Contents/ArticleDetails.aspx?Id=ed0bb078-1a1b-4b6e-b851-c591ac7156e2), 1981, p. 3.
 
-[^7]:Masuri S.N. (1985). Puisi Melayu di Singapura dalam The poetry of Singapore (p. 23). Singapura: The ASEAN Committee on Culture and Information. (Call no.: RSING S821 POE); Masuri Salikun. (1985). Puisi Melayu di Singapura. In Items relating to The Anthology of ASEAN Literature (p. 23). Singapura: The ASEAN Committee on Culture and Information. (Call no.: RCLOS 899.281 ITE)
+[^7]:Masuri S.N. (1985). *[Puisi Melayu di Singapura dalam The poetry of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4585344)* (p. 23). Singapura: The ASEAN Committee on Culture and Information. (Call no.: RSING S821 POE); Masuri Salikun. (1985). Puisi Melayu di Singapura. *[In Items relating to The Anthology of ASEAN Literature](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200769400)* (p. 23). Singapura: The ASEAN Committee on Culture and Information. (Call no.: RCLOS 899.281 ITE)
 
-[^8]:Rasiah Halil (1999, June 27). Karya puisi Singapura 1995–99 mendedahkan pelbagai persoalan. Berita Minggu, hlm 16. Diambil daripada NewspaperSG.
+[^8]:Rasiah Halil (1999, June 27). [Karya puisi Singapura 1995–99 mendedahkan pelbagai persoalan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19990627-1.2.29.2). *Berita Minggu*, hlm 16. Diambil daripada NewspaperSG.
 
-[^9]:Berita Minggu, 27 Jun 1999, hlm 16.
+[^9]:*[Berita Minggu](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19990627-1.2.29.2),* 27 Jun 1999, hlm 16.
 
-[^10]:Hadijah Rahmat, 1998, p. 169.
+[^10]:[Hadijah Rahmat](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9407497), 1998, p. 169.
 
-[^11]:Isa Kamari. (2014). Potret Puisi Melayu Singapura (p. 370). Singapore: The Malay Heritage Foundation: Select Publishing. (Call no.: Malay RSING 899.28109 ISA)
+[^11]:Isa Kamari. (2014). *[Potret Puisi Melayu Singapura](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200973450)* (p. 370). Singapore: The Malay Heritage Foundation: Select Publishing. (Call no.: Malay RSING 899.28109 ISA)
 
-[^12]:Isa Kamari, 2014, p. 370.
+[^12]:[Isa Kamari](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200973450), 2014, p. 370.
 
-[^13]:Cekal-tekal-mekar: Karya sepanjang zaman (p. 60). (2014). Singapore: National Library Board. (Call no.: Malay SING CEK) 
+[^13]:*[Cekal-tekal-mekar: Karya sepanjang zaman](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200736133)* (p. 60). (2014). Singapore: National Library Board. (Call no.: Malay SING CEK) 
 
-[^14]:Muhammad Ariff Ahmad. (2012). Sumbangsih MAS: Koleksi puisi pilihan (p. 16). Singapore: National Library Board. (Call no.: Malay RSING 899.281 MAS)
+[^14]:Muhammad Ariff Ahmad. (2012). *[Sumbangsih MAS: Koleksi puisi pilihan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14598788)* (p. 16). Singapore: National Library Board. (Call no.: Malay RSING 899.281 MAS)
