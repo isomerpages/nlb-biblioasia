@@ -38,7 +38,7 @@ I am thirty-five.
 
 I am in a cab on the way to the Eurasian Association at Ceylon Road. The taxi driver eyes me openly in the rear view mirror.
 
-“Miss, you are what *ah*?“
+“Miss, you are what *ah*?”
 
 I’ve moved beyond my teenage belligerence, when I would either not acknowledge they were referring to my race or retort, “Human.” I don’t even roll my eyes anymore, even in my head. I think I’ve come a long way.
 
@@ -64,17 +64,17 @@ As the taxi rolls to a halt, the driver cranes his neck to look at the massive t
 
 “No, this is the Eurasian Association.”
 
-“*Har*?“
+“*Har*?”
 
 “For Eurasian people, mixed people, mix European and Asian.”
 
 Still not rolling my eyes.
 
-“Oh, united nations *ah*?“
+“Oh, united nations *ah*?”
 
 In December that year, I make a trip to Malacca in Malaysia. The Portuguese Settlement (formed in 1926 to help consolidate the Portuguese-Eurasian community) is a coastal hamlet of modest, mostly single-storey houses spanning three lanes on either side of the impressively named d’Albuquerque Road. As I walk along the main road, an old man with sun-creased skin turns his head as he cycles by. A wavy-tressed teenaged girl and two boys chatting across a gate pause in their conversation, watching me silently as I pass. The stranger in the village. What’s even weirder is I’m overcome with a feeling of kinship with these sun-browned, curly-haired people I’ve never seen before.
 
-<div style="background-color: white;"><img style="width:300px" src="/images/Vol-13-issue-1/meeting-with-the-sea/02_meetingsea.jpg">The writer at about five years of age. <i>Courtesy of Melissa De Silva.</i></div>
+<div style="background-color: white;"><img style="width:500px" src="/images/Vol-13-issue-1/meeting-with-the-sea/02a_meetingsea.jpg">The writer at about five years of age. <i>Courtesy of Melissa De Silva.</i></div>
 
 In the 1500s, when the Portuguese arrived at the palm and mangrove-fringed coastal town of Malacca, on the west coast of the Malay Peninsula, their imperative was to gain control of the lucrative maritime trade passageway between Asia and Europe. As time went on, the union of the Portuguese with the local women resulted in the burnished-skinned children with Iberian features, and a culture that leaned heavily toward the religion, customs and language of the male colonisers. Five hundred years later, this tiny Catholic community, with a robust Latin tendency towards music, dance and enjoying the sweetness of life, still endures in the midst of the Muslim-majority country.
 
@@ -82,7 +82,7 @@ A month earlier in November, I was in Uncle Maurice Pereira’s living room in t
 
 My great-grandfather had been a fisherman in Malacca, the traditional livelihood of this community descended from the seafaring Portuguese. My father had told me how, when he was a boy, he would accompany his mother – who moved to Singapore with his father after World War II to seek a better life – to Malacca during the school holidays. There, he’d learned from his grandfather how to make two foods from the fishermen’s catch: *chincalok*, the relish of shrimp fermented in salt and brandy; and *belachan*, heavily salted, fermented shrimp paste, baked into hard cakes in the sun, excellent stir fried with vegetables and a generous handful of chilli.
 
-<div style="background-color: white;"><img src="/images/Vol-13-issue-1/meeting-with-the-sea/03_meetingsea.jpg">Maurice Pereira (left) and his grandson Jeremy, in his fishing boat on the seas around the Portuguese Settlement in Malacca. <i>Photo by Desmond Lui. Courtesy of Melissa De Silva.</i></div>
+<div style="background-color: white;"><img src="/images/Vol-13-issue-1/meeting-with-the-sea/03a_meetingsea.jpg">Maurice Pereira (left) and his grandson Jeremy, in his fishing boat on the seas around the Portuguese Settlement in Malacca. <i>Photo by Desmond Lui. Courtesy of Melissa De Silva.</i></div>
 
 As I explained how I’d like to document his work by going out fishing with him, to record it for future generations, his craggy white eyebrows rose.
 
@@ -96,13 +96,13 @@ Soon we are speeding through the waves and Maurice is pointing out spots on the 
 
 We approach a boat with a flapping orange and yellow flag, carrying two Eurasian fishermen, a father and paunchy son, and a Malay boatman. A white buoy attached to a stick with a red flag bobbing nearby indicates where their net is.
 
-“They are fishing for pomfret,” says Maurice.
+“They are fishing for pomfret.” says Maurice.
 
 He asks them how it’s going. There’s no need to reply. As they draw up the net, it sparkles like fairy candyfloss, then we see they’ve only caught three tiny fish, each smaller than a child’s palm. The son tosses a plastic bag caught in the net back into the sea.
 
-Maurice’s voice takes on a hard edge. “All the fish dying, all the construction, the reclamation”.
+Maurice’s voice takes on a hard edge. “All the fish dying, all the construction, the reclamation.”
 
-We are soon scudding past a small island, called Pulau Jawa, just off Malacca’s coast. “In the ’60s, we would go camping there, to fish, eat sardines and gather seaweed to make jelly”, Maurice tells me, his sea-otter face crinkled with glee.
+We are soon scudding past a small island, called Pulau Jawa, just off Malacca’s coast. “In the ’60s, we would go camping there, to fish, eat sardines and gather seaweed to make jelly,” Maurice tells me, his sea-otter face crinkled with glee.
 
 Pulau Jawa was where the Portuguese naval general Afonso d’Albuquerque first dropped anchor on 1 July 1511, as he led a fleet of 18 ships, with 900 Portuguese men and 300 Goan-Indians, sailing in on his carrack, the *Flor de la Mar*.
 
@@ -186,7 +186,7 @@ His last words are muffled as the dull drone of a generator fills the air.
 
 The next morning, on Sunday, I walk to the settlement’s Chapel of Our Lady of the Immaculate Conception for Mass at 7.30 am. The place is not jam-packed like I expected but about 75 percent full. After I’m seated, I see the pew I’ve chosen has no kneeler. The polished ceramic tile floor looks practically spotless, far cleaner than the church floors in Singapore, where you can often spot stray hairs or dust bunnies. I decide to stay. Five minutes later though, the sun inching across the grid rectangle of window facing the pew is blinding.
 
-<div style="background-color: white;"><img src="/images/Vol-13-issue-1/meeting-with-the-sea/07_meetingsea.jpg">The faithful gather for Mass at the Chapel of Our Lady of the Immaculate Conception in the Portuguese Settlement. <i>Photo by Desmond Lui. Courtesy of Melissa De Silva.</i></div>
+<div style="background-color: white;"><img src="/images/Vol-13-issue-1/meeting-with-the-sea/07a_meetingsea.jpg">The faithful gather for Mass at the Chapel of Our Lady of the Immaculate Conception in the Portuguese Settlement. <i>Photo by Desmond Lui. Courtesy of Melissa De Silva.</i></div>
 
 I move to the adjacent pew. A dusky man with steel-rimmed spectacles is seated at the end, his head bent. I tap him on the shoulder and he makes way for me. Two minutes before the Mass starts, a short man with honeyed highlights smiles his way into our pew and takes a seat on my right. In Singapore, I can go weeks without seeing any other Eurasian except my own family. Here, I’m sandwiched between two Eurasian men, neither of whom are my relatives. This unprecedented scenario practically qualifies as being on a reality dating show.
 
