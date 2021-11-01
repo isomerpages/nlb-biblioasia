@@ -6,7 +6,7 @@ layout: post
 ---
 #### Chinese puppetry is a tradition that is slowly losing ground in Singapore. **Caroline Chia** tells us why this art form should be preserved.
 
-<div style="background-color: white;"><br><img src="/images/Vol-13-issue-1/chinese-puppet-theatre/01_chinesepuppet.jpg">A white-faced villain (白奸) glove puppet, c.1950s. The colour white usually represents a villainous or crafty personality. <i>Photo by Caroline Chia.</i></div>
+<div style="background-color: white;"><br><img src="/images/Vol-13-issue-1/chinese-puppet-theatre/01a_chinesepuppet.png">A Hokkien glove puppet performance by Shuang Neng Feng troupe at Jiu Xuan Temple on 30 March 2010. <i>Photo by Caroline Chia.</i></div>
 
 Tossing a puppet into the air to perform a somersault, the puppeteer sings at the top of his melodious voice, accompanied by the high-pitched clapping of cymbals and the resounding striking of drums backstage. Unfortunately, the response to this unusual street-side performance at a temple in the heartlands of Singapore is met with either furrowed eyebrows or blank looks, or young people hurrying past an unwelcome obstruction, their eyes averted or glued to their mobile phones. Such a scene would have been unthinkable half a century ago when Chinese puppet theatre in Singapore was a popular form of street entertainment for children and the working class.
 
@@ -26,7 +26,7 @@ Finding the puppeteers, establishing contact, meeting up with them and getting t
 
 Traditional puppet art forms include Hainanese rod puppetry (*zhangtou mu’ou*, 杖头木偶) from Hainan island, Hokkien glove puppetry (*budaixi*, 布袋戏) and string puppetry (*tixian mu’ou*, 提线木偶) from southern Fujian, Henghua string puppetry from Putian and Xianyou in eastern Fujian, Teochew iron-stick puppetry from Chaozhou, and Waijiang string puppetry performed by the Hakka community.[^1]
 
-<div style="background-color: white;"><img style="width:500px" src="/images/Vol-13-issue-1/chinese-puppet-theatre/03_chinesepuppet.jpg">Hainanese rod puppet troupe San Chun Long’s performance at the Yan Kit Village Chinese Temple in November 2015. The rods are partially obscured from view by the puppet’s costume. <i>Photo by Jace Tan, National Heritage Board Puppetry Documentation Project 2015/2016.</i></div>
+<div style="background-color: white;"><img style="width:500px" src="/images/Vol-13-issue-1/chinese-puppet-theatre/03a_chinesepuppet.png">Hainanese rod puppet troupe San Chun Long’s performance at the Yan Kit Village Chinese Temple in November 2015. The rods are partially obscured from view by the puppet’s costume. <i>Photo by Jace Tan, National Heritage Board Puppetry Documentation Project 2015/2016.</i></div>
 
 The opera performances are staged in regional languages (or dialects), which unfortunately make it difficult for the average Singaporean youth to understand and appreciate. Due to the success of the Speak Mandarin Campaign launched by the government in 1979, the majority of young Chinese people schooled in modern Singapore have become unfamiliar with dialects, which critics say has brought along with it an erosion of indigenous Chinese cultures and traditions.[^2]
 
@@ -39,7 +39,7 @@ The art of manipulating a puppet takes years to master but I will briefly explai
 The height of the Henghua string puppet varies between 80 cm and 1 m. The puppeteer, whilst in a standing position, manipulates the puppet using the 12 strings attached to it. Additional strings can be added to create more intricate and complex movements. Its southern counterpart, the Hokkien string puppet, ranges from 60 to 90 cm in height, and has an average of 12 strings. According to veteran puppeteers in Singapore, the Hokkien string puppet can have up to 19 strings, depending on the needs and type of performance.
 
 <div style="background-color: white;"><img src="/images/Vol-13-issue-1/chinese-puppet-theatre/04_chinesepuppet.jpg">(Left) A Hokkien string puppet performance by Xin Cai Yun (now disbanded) at Serangoon North on 10 April 2010.<br>
-(Right) A Henghua string puppet performance by Sin Hoe Ping at Li Jiang Temple on 30 June 2010. <i>Photos by Caroline Chia.</i></div>
+(Right) A Henghua string puppet performance by Sin Hoe Ping at Li Jiang Temple on 30 June 2010. <i>Both photos by Caroline Chia.</i></div>
 
 The Hokkien community also has another puppet type known as glove puppet (*potehi* in Hokkien). The glove puppet, as the term suggests, is controlled by inserting the hand into the interior of the puppet, with the index finger embedded in the head compartment and the rest of the fingers below the head to control the puppet’s movements. The puppeteer is hidden behind the stage set and manipulates the puppet on the stage with only his or her arms exposed. Older glove puppets tend to be smaller, ranging from 25 to 35 cm in length. Newer puppets can go up to 40 cm.
 
@@ -91,8 +91,6 @@ The Teochew puppet troupe, Lao Sai Bao Feng (老赛宝丰), too, was popular, es
 In Singapore, local puppet troupes have also received praise from their respective communities. Lee Chye Ee (李载饴, 1919–1991), the troupe leader of the Hokkien troupe Jit Guat Sin (日月星), recalled the occasional *douxi* (斗戏), or “competitive show”, between his troupe and Lao Chuan Ann (老泉安), another well-known Hokkien troupe back then. On one memorable occasion, the two troupes were invited to pit their skills to prove who were the more accomplished puppeteers. Both troupes gave their best, which included singing, complex manipulation techniques and story presentation. Lao Chuan Ann performed *Li Shiming Roaming the Underworld* (李世民游地府), and to make the performance more realistic, the troupe used various props to portray the 18 levels of hell. Jit Guat Sin performed *Huang Feihu Retaliating Against the Five Hurdles* (黄飞虎反五关) with a splendid display of acrobatic skills that showcased the puppeteers’ consummate control of the marionettes. Such competitive shows were common in the 1950s.
 
 Although the Henghua community was a minority group, its dominance of the Chinese puppetry art scene in Singapore in the mid-20th century was evidenced by the large numbers of puppet troupes that emerged during its peak. Some of the troupes included De Yue Lou (得月楼), Shuang Sai Le (双赛乐), Feng Huang Ting (凤凰亭), Xin De Yue (新得月), and He Ping (和平). The He Ping troupe was the predecessor of Sin Hoe Ping (新和平), currently the last existing Henghua puppet troupe in Singapore.
-
-<div style="background-color: white;"><img style="width:700px" src="/images/Vol-13-issue-1/chinese-puppet-theatre/09_chinesepuppet.jpg">A Hokkien glove puppet performance by Shuang Neng Feng troupe at Jiu Xuan Temple on 30 March 2010. <i>Photo by Caroline Chia.</i></div>
 
 #### **Cross-cultural Influences**
 
