@@ -77,7 +77,7 @@ One *Our Home* article in 1973 portrayed noise in a more positive light: as an e
 
 The calls of the *galah*[^33] man and the knife-sharpening man might evoke wistfulness for a vanished soundscape, but it was a different situation then as one disgruntled resident of Holland Close wrote:
 
-“After reading the article… I hate to say that I view the hustle and bustle as noise nuisance. I never knew that common corridors can bring about such headaches and frustrations until I recently moved into my flat. I am extremely distressed by the ‘noisy merriment’ of the corridor. Can you study under such [a] noise-polluted environment? I earnestly pray that those pedlars, children on tricycles, etc will disappear into thin air…”.[^34]
+“After reading the article… I hate to say that I view the hustle and bustle as noise nuisance. I never knew that common corridors can bring about such headaches and frustrations until I recently moved into my flat. I am extremely distressed by the ‘noisy merriment’ of the corridor. Can you study under such [a] noise-polluted environment? I earnestly pray that those pedlars, children on tricycles, etc will disappear into thin air….”[^34]
 
 Such complaints created opportunities for the HDB to clarify its responsibilities HDB and those of the residents. *Our Home* made it clear that it was the duty of parents to teach children to play quietly and not cause mischief by urinating in the lifts or tampering with mailboxes.[^35] Problems like noise, vandalism, and littering could only be tackled if residents exercised consideration for the feelings and rights of their neighbours.
 
@@ -90,7 +90,7 @@ In addition, opinion pieces and letters from readers helped to define and reinfo
 
 Above all, the goal was to make friends out of neighbours. As relocation disrupted existing social ties, it was not uncommon for former *kampong* dwellers to experience a loss of community.[^38] There was a tendency towards insularity, partly due to devices that provided endless hours of entertainment and allowed people to plug into the outside world without stepping out of their flats.[^39] Already in 1973, Leonard Lim of Commonwealth Drive observed:
 
-“… there are others I know who have just shifted in and miss the warmth and friendliness of old neighbours and the rural way of life. These people now isolate themselves in their flats. They don’t make an effort to get to know their neighbours. Instead they rely on radios, stereograms and television to substitute for real-life contacts with neighbours”.[^40]
+“… there are others I know who have just shifted in and miss the warmth and friendliness of old neighbours and the rural way of life. These people now isolate themselves in their flats. They don’t make an effort to get to know their neighbours. Instead they rely on radios, stereograms and television to substitute for real-life contacts with neighbours.”[^40]
 
 <img style="width: 350px; height: 450px;" src="/images/Vol-14-issue-2/our-home-sweet-home/Home7.JPG">
 <div style="background-color: white;">View of HDB flats with laundry hanging out of the balconies in MacPherson housing estate in the 1970s. These are some of the first-generation flats built by the HDB in the 1960s. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
@@ -126,9 +126,9 @@ As the magazine with the largest circulation in Singapore, *Our Home* was an ave
 
 Advertisements held out the dream of a perfect home and a new level of well-being that could be achieved with consumer technology. Washing machines, rice cookers and vacuum cleaners would make domestic work less taxing and free up time for leisure, whereas television and radio sets enhanced the time spent at home, as these advertisements claimed:
 
-“Make life easier with Sanyo home appliances…. Hundreds of home appliances roll off Sanyo assembly lines daily to help cut household drudgery to a bare minimum, [and] lessen the toil and increase the joy of living”.[^52]
+Make life easier with Sanyo home appliances…. Hundreds of home appliances roll off Sanyo assembly lines daily to help cut household drudgery to a bare minimum, [and] lessen the toil and increase the joy of living.[^52]
 
-“It’s nice to have a home of your own and fill it with lovely things… such as Sony. Sony makes your flat nice to come home to. There’s Sony television for clear reception anywhere; Sony stereo for listening pleasure and party sounds; Sony clock radio for the time and soothing background music, and a powerful world-wide Sony radio to keep you abreast with the world. All designed for superb entertainment and gracious living”.[^53]
+“It’s nice to have a home of your own and fill it with lovely things… such as Sony. Sony makes your flat nice to come home to. There’s Sony television for clear reception anywhere; Sony stereo for listening pleasure and party sounds; Sony clock radio for the time and soothing background music, and a powerful world-wide Sony radio to keep you abreast with the world. All designed for superb entertainment and gracious living.”[^53]
 
 Modern conveniences were essential in transforming the flat into an oasis of rest and relaxation, a home to which people could retire to at the end of the day to savour the fruits of their labour.
 
