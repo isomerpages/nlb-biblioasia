@@ -26,6 +26,8 @@ The first two projects were narrower in their scope and selection of interviewee
 
 Both projects were attempts to understand history through the movers and shakers of society. The Japanese Occupation project, however, aimed to record history from a variety of perspectives – and would cut across socioeconomic lines.
 
+<div style="background-color: white;"><img style="width:700px" src="/images/Vol-13-issue-1/voices-that-remain/05_voicesremain.jpg">An interview in progress – using the Uher Report Monitor 4200 open-reel tape recorder − at the Oral History Department in Hill Street in 1982. <i>Courtesy of National Archives of Singapore.</i></div>
+
 The first phase of the Japanese Occupation project took four-and-a-half years, from June 1981 to December 1985.[^6] Potential interviewees were identified through “media publicity,[^7] organisations like the National Museum, Sentosa Museum, Senior Citizens’ clubs, community centres, individual recommendations and handbills distributed at pictorial exhibitions organised by the National Archives of Singapore”.[^8] At the close of the project, 175 persons had been interviewed, totalling some 655 recorded hours.
 
 Subject to conditions placed by the interviewees, the recordings were made available to government officials, researchers and members of the public. The first major showcase of the interviews took place in February 1985 on the 43rd anniversary of the Fall of Singapore.[^9]
@@ -68,9 +70,7 @@ With access to such a broad range of interviews, one realises that there is no s
 
 Over time, one can become easily disconnected from a past that may seem so far removed from our present. Oral history accounts can help us find an emotional connection to narrators, who engage us through nuances in voice, pitch, tone, pace, mood, expression and more. We may not always comprehend their circumstances, but we can recognise their emotions of joy, anger and fear, and ultimately understand history through a rich tapestry of highly personal and subjective perspectives.
 
-This is why oral history has been a lynchpin of the NAS’s efforts to document the war and occupation. In a book review of *The Price of Peace: True Accounts of the Japanese Occupation*,[^19] the critic writes: “The most compelling stories here are the first-hand accounts of wartime resistance activities, culled from the Oral History Centre’s collection of interviews with survivors”.[^20] There is something riveting about listening to a spoken first-person account of an event that third-person narratives can never hope to capture.
-
-<div style="background-color: white;"><img style="width:700px" src="/images/Vol-13-issue-1/voices-that-remain/05_voicesremain.jpg">An interview in progress – using the Uher Report Monitor 4200 open-reel tape recorder − at the Oral History Department in Hill Street in 1982. <i>Courtesy of National Archives of Singapore.</i></div>
+This is why oral history has been a lynchpin of the NAS’s efforts to document the war and occupation. In a book review of *The Price of Peace: True Accounts of the Japanese Occupation*,[^19] the critic writes: “The most compelling stories here are the first-hand accounts of wartime resistance activities, culled from the Oral History Centre’s collection of interviews with survivors.”[^20] There is something riveting about listening to a spoken first-person account of an event that third-person narratives can never hope to capture.
 
 Oral history has continued to engage the public imagination ever since that first exhibition on the Japanese Occupation in 1985. The interpretive centre, “Memories at Old Ford Factory”, opened at the Former Ford Factory − the site of the British surrender − on Upper Bukit Timah Road on 16 February 2006. The exhibition was a stark reminder of the horrors of the war and occupation. Eleven years later, on 15 February 2017, a new exhibition, “Surviving the Japanese Occupation: War and its Legacies”, took its place.
 
@@ -80,7 +80,7 @@ Singapore’s wartime survivors will not be around forever, but their voices wil
 <br><br>
 “When the Japanese came in, during the first fortnight, they beheaded eight people and their heads were put into iron cages and hung up at eight different places and notices were put out beside the heads that ‘These eight people were beheaded because they disobey the law of the Imperial Japanese Army’… The notice spelled out that if anyone caught in the act would be given the same treatment.”  –  Neoh Teik Hong[^21]
 <br><br>
-“My father and two uncles were required to report to some registration centre – I don’t know whether [it was] a police station or what, I’m not so sure. Three of them went and only two came back,”  – Foong Fook Kay[^22]
+“My father and two uncles were required to report to some registration centre – I don’t know whether [it was] a police station or what, I’m not so sure. Three of them went and only two came back.”  – Foong Fook Kay[^22]
 <br><br>
 “The rice ration we get from our shop was hardly sufficient for our requirement… We chopped the tapioca into small pieces, combined it with the rice and used it as rice… We all were thin, skinny, sickly… Very hard life. I tell you honestly, not worth living during Japanese time. Better to die than to live. Another year… if the Japanese were here, I think a lot of people would have died from malnutrition.” – Ismail bin Zain[^23]
 <br><br>
