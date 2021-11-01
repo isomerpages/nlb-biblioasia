@@ -184,9 +184,9 @@ Together with swimmer Theresa Goh, who suffers from spina bifida  but has been m
 <br><br>
 The fact that Singapore has  embraced the sporting achievements of its Paralympians with as much pride as those of its able-bodied athletes is perhaps an indication of the society it has become. Significantly, when Tan  won The Straits Times Athlete of the Year award, she edged out some big  names in Singapore sports, including table tennis star Feng Tianwei and world champion bowler Shayna Ng.
 <br><br>
-<img style="width:50%" src="/images/vol-11-issue-2/sgsportgreat/Laurentia_Tan1.jpg">Laurentia Tan won a silver and a bronze at the 2012 London Paralympics. <i>Photo courtesy of Sport Singapore.</i>
+<img style="width:40%" src="/images/vol-11-issue-2/sgsportgreat/Laurentia_Tan1.jpg">Laurentia Tan won a silver and a bronze at the 2012 London Paralympics. <i>Photo courtesy of Sport Singapore.</i>
 <br><br>
-<img style="width:60%" src="/images/vol-11-issue-2/sgsportgreat/Yip_Pin_Xiu1.jpg">Yip Pin Xiu won the 50-metre backstroke at the 2008 Beijing Paralympics. <i>Photo courtesy of Sport Singapore.</i></span>
+<img style="width:50%" src="/images/vol-11-issue-2/sgsportgreat/Yip_Pin_Xiu1.jpg">Yip Pin Xiu won the 50-metre backstroke at the 2008 Beijing Paralympics. <i>Photo courtesy of Sport Singapore.</i></span>
 
 <p style="font-size:15px;">A former journalist with <i>The Straits Times</i>, <b>Chua Chong Jin</b> teaches communications at Nanyang Business School. Educated at the National University of Singapore and Cambridge University, he has written and edited various books, including <i>50est: Stirring Stories For The Singapore Soul</i> for the Singapore National Olympic Council.</p>
 
