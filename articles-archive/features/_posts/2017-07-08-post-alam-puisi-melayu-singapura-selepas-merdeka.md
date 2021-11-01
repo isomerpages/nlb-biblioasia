@@ -91,22 +91,22 @@ Penyair bukan sekadar penggiat seni tetapi harus menjadi pemikir masyarakat, men
 
 Kita dapat melihat isu ini di sentuh para penyair yang telah diulas di dalam Potret Puisi Melayu Singapura, Isa Kamari.[^11] Di dalam buku ini, terdapat 44 orang penyair dari yang mapan iaitu golongan perintis sehingga yang muda telah disorot. Menurut Isa, di dalam “perihal sistem sosio-budaya Melayu yang menghambat kemajuan masyarakat pula, dalam tafsirannya yang luas, kesemua penyair yang dikaji kumpulan puisinya telah membicarakan dengan rinci dengan keprihatinan yang tinggi dan halus”.[^12] Cuma jangkauan serta penekanan dalam pengucapan mereka adalah rencam walaupun terasnya tetap ke arah pengukuhan dan penyepaduan jatidiri dan maruah bangsa dan agama.
 
-Sayembara-sayembara puisi seperti Anugerah Pena Emas yang dianjurkan Majlis Seni Kebangsaan (NAC) dan persatuan penulis akan terus membantu mencungkil dan mendedahkan penyair-penyair muda dan yang baru melibatkan diri dalam dunia kepenyairan di Singapura. Antologi-antologi yang diterbitkan secara bersama umpamanya antologi Hempedu di Tasik Madu (2016) terbitan ASAS ’50 dapat menjadi wadah dan ruang untuk karyakarya penyair ini menemui pembaca selain wadah-wadah akhbar dan media sosial. Usaha-usaha sebegini dapat membantu menentukan kesinambungan dalam dunia kepenyairan di Singapura seperti kata Noridah dan Mas dalam bait-bait puisi di bawah ini.
+Sayembara-sayembara puisi seperti Anugerah Pena Emas yang dianjurkan Majlis Seni Kebangsaan (NAC) dan persatuan penulis akan terus membantu mencungkil dan mendedahkan penyair-penyair muda dan yang baru melibatkan diri dalam dunia kepenyairan di Singapura. Antologi-antologi yang diterbitkan secara bersama umpamanya antologi *Hempedu di Tasik Madu* (2016) terbitan ASAS ’50 dapat menjadi wadah dan ruang untuk karyakarya penyair ini menemui pembaca selain wadah-wadah akhbar dan media sosial. Usaha-usaha sebegini dapat membantu menentukan kesinambungan dalam dunia kepenyairan di Singapura seperti kata Noridah dan Mas dalam bait-bait puisi di bawah ini.
 
-<span style="display: block; text-align: center;"><i>“Berapa harga adil dan benar<br>
+<span style="display: block; text-align: center;">“Berapa harga adil dan benar<br>
 Tiada boleh ditimbang tawar<br>
 Engkau yang terus tegar<br>
-Ajar semua untuk tidak gentar”.[^13]</i></span>
+Ajar semua untuk tidak gentar”.[^13]</span>
 
 <p align="right">– Noridah Kamari</p>
 
-<span style="display: block; text-align: center;"><i>“Jalan…Jalan,<br>
+<span style="display: block; text-align: center;">“Jalan…Jalan,<br>
 jalan dan jalan….<br>
 Jangan berhenti separuh jalan.<br>
 <br>
 Biar sampai ke hujung jalan,<br>
 Sampai matlamat jalan kesampaian,<br>
-Atau sampai tak boleh jalan”.[^14]</i></span>
+Atau sampai tak boleh jalan”.[^14]</span>
 
 <p align="right">– Muhammad Ariff Ahmad</p>
 
