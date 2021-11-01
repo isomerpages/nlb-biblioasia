@@ -150,8 +150,7 @@ It was another patent registered in London by the British inventor Peter Durand 
 
 [^22]: Refers to a quick-growing crop grown between successive plantings of a main crop.
 
-[^23]: Shriver, J.A. (1915). <i>Pineapple-canning industry of the world</i> (pp. 29–30). Washington:
-Department of Commerce. Retrieved from Archive Organisation website.
+[^23]: Shriver, J.A. (1915). <i>Pineapple-canning industry of the world</i> (pp. 29–30). Washington: Department of Commerce. Retrieved from Archive Organisation website.
 
 [^24]: J.de la C. M., & García, H.S. (2005, November 13). Pineapple: Post-harvest operations (p. 15). Retrieved from the Food and Agriculture Organisation of the United Nations website.
 
