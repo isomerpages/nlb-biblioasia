@@ -151,4 +151,14 @@ The bustling city seethes beyond St John’s seawalls, always looming but still 
 [^17]:Lee, Y.K. (1978). [*The medical history of early Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=1848364) (p. 266). Tokyo: Southeast Asian Medical Information Center. (Call no.: RSING 610.95957 LEE).
 [^18]:A 1938 report proposed the erection of an annexe “for the examination of immigrants for early signs of leprosy”, but it seems unlikely that the British would have considered housing lepers on the island in close proximity with thousands of new migrants. See [St. John’s Island](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19380426-1.2.115?ST). (1938, April 26). *The Malaya Tribune*, p. 16. Retrieved from NewspaperSG.
 [^19]:Lee, Y.K. (1978, January). Quarantine in early Singapore (Part 2). [*Annals of the Academy of Medicine, Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=3358419)*, 7*(1), 81–87. Singapore: Academy of Medicine. (Call no.: RSING 610.5 AMSAAM).
-[^2]:[Legislative Council meeting 24 December 187](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18750109-1.2.9?ST)4. (1875, January 9). The Straits Times, p. 2; The “Milton”. (1874, November 19). Straits Times Overland Journal, p. 2. Retrieved from NewspaperSG.
+[^20]:[Legislative Council meeting 24 December 187](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18750109-1.2.9?ST)4. (1875, January 9). *The Straits Times*, p. 2; [The “Milton”](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stoverland18741119-1.2.10?ST). (1874, November 19). *Straits Times Overland Journal*, p. 2. Retrieved from NewspaperSG.
+[^21]:
+[^22]:
+[^23]:
+[^24]:
+[^25]:
+[^26]:
+[^27]:
+[^28]:
+[^29]:
+[^3]:
