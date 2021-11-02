@@ -69,7 +69,7 @@ Lab workers would then isolate the fleas, now swollen with plague-rich blood. Th
 
 Millions of the “verified” fleas were then flown to Thailand every two or three months “in big glass jars”, says Lim, ready for Japanese war planes to drop on their hapless foes.
 
-<img src="/images/Vol-14-issue-1/secret-war-experiments-in-sg/Secret4.JPG">
+<img style="width: 450px; height: 370px;" src="/images/Vol-14-issue-1/secret-war-experiments-in-sg/Secret4.JPG">
 <div style="background-color: white;">The neo-classical College of Medicine Building (c.1949) with its stately row of fluted Doric columns was erected in 1926 to house the King Edward VII College of Medicine. Ironically a building dedicated to the training of medical doctors would later be turned into a facility to spread diseases among people. <i>Ong Kay Ann Collection, courtesy of National Archives of Singapore.</i></div>
 
 Wartime records show that 10,000 rats sickened by the bubonic plague could yield 10 kg of plague-bearing fleas – and one needed only 5 g of fleas, or an estimated 1,700 fleas, to finish off around 600 people, as Lim learnt from reading the documents. With 10 g of fleas, the effects were quadrupled, easily wiping out as many as 2,400 people at once. “The Japanese found it a most effective weapon of war”, he notes. On one of their subsequent bombing blitzes, war planes carrying clay bombs filled with oxygen and plague-infected fleas obliterated more than 9,000 people in China, according to Chinese wartime records. “There was no need for bullets”, adds Lim wryly.
@@ -82,7 +82,7 @@ OKA 9420 maintained huge boilers that bubbled and belched steam 24 hours a day s
 
 In late June 1945, OKA 9420 suddenly vanished from Singapore – weeks ahead of the official Japanese surrender on 12 September 1945. At first, everyone at its Tampoi base moved wholesale to Singapore on 15 June that year, and then nine days later, the entire arm was relocated to Laos for no discernible reason. Its workers also burned all traces of their records and research in Singapore, says Lim grimly, leaving no evidence of its existence.
 
-<img src="/images/Vol-14-issue-1/secret-war-experiments-in-sg/Secret5.JPG">
+<img style="width: 650px; height: 380px;" src="/images/Vol-14-issue-1/secret-war-experiments-in-sg/Secret5.JPG">
 <div style="background-color: white;">This sketch is a simplified version of a rough map of Unit 731’s branch in Permai Hospital, Tampoi. The map was published on page 44 of the 1991 memoir, <i>Fleas, Rats and Plague: I Saw All Three</i>, by former OKA 9420 worker Koichi Takebana. The dividing wall in the sketch was about 4 m high, and separated the biological warfare production units from those providing support services such as washing, cooking, sterilisation of equipment and logistics. <i>Drawn by Cheong Suk-Wai, based on information by Lim Shao Bin and Koichi Takebana. All rights reserved, Cheong Suk-Wai, Lim Shao Bin, Koichi Takebana and the National Library Board, Singapore.</i></div>
 
 #### **Free but not Forgotten**
