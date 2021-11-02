@@ -6,7 +6,7 @@ layout: post
 ---
 #### Clyde Elliott was the first Hollywood director to shoot a feature film in Singapore. **Chua Ai Lin** examines the authenticity of the three movies he produced here in the 1930s.
 
-<div style="background-color: white;"><br><img src="/images/Vol-13-issue-2/reel-life-singapore/01_reellife.jpg"><i>Bring ‘Em Back Alive</i> (1932) was a documentary feature based on the adventures of Frank Buck, a Texan wildlife collector who established his base in Singapore during World War I. Directed by Clyde E. Elliott, the film’s box office takings hit a million dollars within eight months of its release. <i>Image source: Iceposter.com.</i></div>
+<div style="background-color: white;"><br><img style="600px" src="/images/Vol-13-issue-2/reel-life-singapore/01_reellife.jpg"><i>Bring ‘Em Back Alive</i> (1932) was a documentary feature based on the adventures of Frank Buck, a Texan wildlife collector who established his base in Singapore during World War I. Directed by Clyde E. Elliott, the film’s box office takings hit a million dollars within eight months of its release. <i>Image source: Iceposter.com.</i></div>
 
 Singapore entered Hollywood’s popular imagination at the turn of the 20th century when motion pictures began showing scenes of a modern and exotic Asian port city with a heady mix of the East and the West.
 
@@ -52,7 +52,7 @@ By providing a tropical location for the filming, Singapore became an essential 
 
 Inspired by the success of *Bring ‘Em Back Alive* and the cinematic potential of Malaya, Clyde Elliott returned to Singapore in November 1932 with a Hollywood crew and cast led by rising star, Marion Burns, to film *Man-Eater*, “a Malayan talkie drama” for Fox Film Corporation (released in 1934 as *Devil Tiger*). While *Bring ‘Em Back Alive* was “a purely animal story”, *Man-Eater* moved one step further from documentary films with its dramatised storyline.[^15]
 
-<div style="background-color: white;"><img src="/images/Vol-13-issue-2/reel-life-singapore/04_reellife.png"><i>Devil Tiger</i> (1934), directed by Clyde Elliott, was the first Hollywood talkie produced in Singapore. The film featured well-known American stars such as Marion Burns and Kane Richmond. <i>The Straits Times, 5 May 1934, p.</i></div>
+<div style="background-color: white;"><img style="500px" src="/images/Vol-13-issue-2/reel-life-singapore/04_reellife.png"><i>Devil Tiger</i> (1934), directed by Clyde Elliott, was the first Hollywood talkie produced in Singapore. The film featured well-known American stars such as Marion Burns and Kane Richmond. <i>The Straits Times, 5 May 1934, p.</i></div>
 
 However, *Man-Eater* was not the first American feature drama to go on location in Singapore. Barely a month earlier, an American crew under the direction of Ward Wing and funded by the independent B. F. Zeidman Productions, with a script by the director’s wife Lori Bara, about a “simple native romance” set in a pearl diving community, had started filming *Samarang* (see text box below) in Singapore.[^16] 
 
