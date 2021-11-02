@@ -113,9 +113,9 @@ Published in 1917, this pictorial book, 馬來に於ける邦人活動の現況 
 This 1943 book, 大東亜写真年報 = Japan Photo Almanac. 2603年版 <i>([Daitōa shashin nenpō = Japan Photo Almanac. 2603 nenban](http://eresources.nlb.gov.sg/printheritage/detail/9990e62f-eac5-448d-86c3-7f39638e285c.aspx))</i>, contains photographs of all Japanese-invaded terrorities under the Greater East Asia Co-prosperity Sphere (see Note 2). Featured on this page are images of victorious Japanese soldiers in Singapore shouting “Banzai” (meaning “10,000 years of long life”) at the Empire Dock in Keppel Harbour, and taking part in a victory parade in Raffles Square. (Accession no.: B29244788K)
 </span>
 
-<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> 
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
 The author wishes to thank Lim Shao Bin and librarians Goh Yu Mei and Ng Hui Ling for their input. Digital versions of some of the items featured in this article are available on BookSG at http://eresources.nlb.gov.sg/printheritage.
-</div>
+</span>
 
 <br>
 <div style="background-color: white;">
