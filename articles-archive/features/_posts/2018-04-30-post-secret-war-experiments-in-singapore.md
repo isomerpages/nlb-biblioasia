@@ -55,3 +55,33 @@ Harbin, the capital city of Heilongjiang province in China, is today famous for 
 <img src="/images/Vol-14-issue-1/secret-war-experiments-in-sg/Secret3.JPG">
 <div style="background-color: white;">Passers-by bowing to Japanese soldiers outside a Japanese-owned shop in Singapore during the Japanese Occupation, c.1942–45. Unknown to the local population at the time, the Japanese had set up a laboratory in Singapore to cultivate pathogens that could cause pandemics such as anthrax, cholera, smallpox and malaria. <i>From Shashin Shuho, courtesy of National Archives of Singapore.</i></div>
 
+Lim’s research shows that after Japan unleashed the Nanjing Massacre between December 1937 and January 1938, Unit 731 began researching the optimal conditions necessary for breeding biological weapons, such as plague-carrying fleas from rats, in order to obliterate the Chinese economically and efficiently.
+
+Tropical Singapore and Malaya were ideal breeding grounds because Unit 731’s research showed that fleas thrived best in places that had temperatures of between 27 and 30 degrees Celsius, and 90 percent humidity.
+
+Despite these hospitable conditions, it appeared that there were insufficient rats in Malaya and Singapore for IJA’s diabolical ambitions. Hence, in late 1943, the Japanese military transported 30,000 rats by military jets from Tokyo to Singapore to bolster the local rat population. The IJA also sent truckloads of the vermin to two places in Malaya: Permai Hospital in Tampoi, in the middle of a Johor jungle, and a school in Kuala Pilah. The Japanese also sent rats to Bandung in Indonesia.
+
+The rats flown in from Japan, along with those caught locally, were housed in what Lim calls “plantations” within the OKA 9420 compound in Outram Park. Each rat farm, as it were, consisted of a hut within a small garden. The floor of each hut was a huge metal plate, bolted down. On each plate rested four cages, into which the rats were released. It must have seemed like heaven as food scraps were scattered liberally about these cages.
+
+Once the captive rats were bloated from the frenzied feeding, the lab workers would inject them with the plague bacteria. When the rats became sick, millions of fleas would be unleashed on them. The bloodsuckers went straight to work, feeding on their dying prey.
+
+Lab workers would then isolate the fleas, now swollen with plague-rich blood. This involved an ingenious plan of shovelling flea-embedded soil or sawdust into a box, with mounds of dirt atop the box, and then shining a light on the fleas at an angle. The fleas, which hated the glow, would then flee to the box’s darkest corners, where lab workers would scoop them up as one would raisins. The “raisins” would then be examined under microscopes in the labs, which were located right next to the plantations. Here, lab workers had to “verify” if the fleas were incubating the plague bacteria in their systems, according to Lim.
+
+Millions of the “verified” fleas were then flown to Thailand every two or three months “in big glass jars”, says Lim, ready for Japanese war planes to drop on their hapless foes.
+
+<img src="/images/Vol-14-issue-1/secret-war-experiments-in-sg/Secret4.JPG">
+<div style="background-color: white;">The neo-classical College of Medicine Building (c.1949) with its stately row of fluted Doric columns was erected in 1926 to house the King Edward VII College of Medicine. Ironically a building dedicated to the training of medical doctors would later be turned into a facility to spread diseases among people. <i>Ong Kay Ann Collection, courtesy of National Archives of Singapore.</i></div>
+
+Wartime records show that 10,000 rats sickened by the bubonic plague could yield 10 kg of plague-bearing fleas – and one needed only 5 g of fleas, or an estimated 1,700 fleas, to finish off around 600 people, as Lim learnt from reading the documents. With 10 g of fleas, the effects were quadrupled, easily wiping out as many as 2,400 people at once. “The Japanese found it a most effective weapon of war”, he notes. On one of their subsequent bombing blitzes, war planes carrying clay bombs filled with oxygen and plague-infected fleas obliterated more than 9,000 people in China, according to Chinese wartime records. “There was no need for bullets”, adds Lim wryly.
+
+From a 2009 Japanese research report, Lim further learnt that in June 1940, 3,031 people in China’s Jilin province died after being infected by plague-bearing fleas originating from Unit 731, while in October that same year, another 9,060 people died in Zhejiang province, located south of Shanghai.
+
+To top it off, and as an experiment, Japanese land troops contaminated the wells of several of the villages they invaded in Zhejiang with bacteria. “That was so senseless”, observes Lim, noting that they never repeated that experiment.
+
+OKA 9420 maintained huge boilers that bubbled and belched steam 24 hours a day so that workers always had boiling water on hand to disinfect themselves and sterilise their equipment instantly. Meanwhile, Lim learnt from online Japanese wartime records that the Japanese disposed of the rat carcasses by incinerating them in nearby furnaces built for that express purpose.
+
+In late June 1945, OKA 9420 suddenly vanished from Singapore – weeks ahead of the official Japanese surrender on 12 September 1945. At first, everyone at its Tampoi base moved wholesale to Singapore on 15 June that year, and then nine days later, the entire arm was relocated to Laos for no discernible reason. Its workers also burned all traces of their records and research in Singapore, says Lim grimly, leaving no evidence of its existence.
+
+<img src="/images/Vol-14-issue-1/secret-war-experiments-in-sg/Secret5.JPG">
+<div style="background-color: white;">This sketch is a simplified version of a rough map of Unit 731’s branch in Permai Hospital, Tampoi. The map was published on page 44 of the 1991 memoir, <i>Fleas, Rats and Plague: I Saw All Three</i>, by former OKA 9420 worker Koichi Takebana. The dividing wall in the sketch was about 4 m high, and separated the biological warfare production units from those providing support services such as washing, cooking, sterilisation of equipment and logistics. <i>Drawn by Cheong Suk-Wai, based on information by Lim Shao Bin and Koichi Takebana. All rights reserved, Cheong Suk-Wai, Lim Shao Bin, Koichi Takebana and the National Library Board, Singapore.</i></div>
+
