@@ -36,7 +36,7 @@ The native streets monopolise the picturesqueness of Singapore with their bizarr
 
 How I wish I could convey an idea, however faint, of this huge, mingled, coloured, busy, Oriental population; of the old Kling and Chinese bazaars; of the itinerant sellers of seaweed jelly, water, vegetables, soup, fruit, and cooked fish, whose unintelligible street cries are heard above the din of the crowds of coolies, boatmen, and gharriemen waiting for hire; of the far-stretching suburbs of Malay and Chinese cottages; of the sheet of water, by no means clean, round which hundreds of Bengalis are to be seen at all hours of daylight unmercifully beating on great stones the delicate laces, gauzy silks, and elaborate flouncings of the European ladies; of the ceaseless rush and hum of industry, and of the resistless, overpowering, astonishing Chinese element, which is gradually turning Singapore into a Chinese city! I must conclude abruptly, or lose the mail.
 
-<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #FDF5E6">
 This extract is taken from <i>Traveller’s Tales of Old Singapore</i> by Michael Wise (2008), published by Marshall Cavendish. This letter was first written by Isabella Bird in 1879 and published in <i>The Golden Chersonese</i> in 1883. Reprinted with permission.</div>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-10/issue-3/oct-dec-2014/"><center>Back to Issue</center></a>
