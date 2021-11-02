@@ -6,7 +6,7 @@ layout: post
 ---
 #### More than 800 items documenting early Japanese interactions in Singapore and the region have been donated to the National Library. **Gracie Lee** explains the significance of this repository.
 
-<img style="width: 650px; height: 400px;" src="/images/Vol-14-issue-2/japan-in-southeast-asia/Collection1.JPG">
+<img src="/images/Vol-14-issue-2/japan-in-southeast-asia/Collection1.JPG">
 <div style="background-color: white;">Printed in 1944 as a magazine supplement, this board game titled 双六大東亞共榮圏めぐり: 新年號附録 (<i>Sugoroku Dai Tōa Kyōeiken meguri: Shinnengō furoku</i>) was designed to look like a map of the Greater East Asia Co-Prosperity Sphere (see Note 2). The game brings players on a tour of the various territories controlled by the Japanese during World War II. The illustrations depict landmarks in Asia, as well as Asian leaders (Wang Jingwei of China, Ba Maw of Burma, Subhas Chandra Bose of India and Jose P. Laurel of the Philippines), who had either collaborated with the Japanese to overthrow Western colonial rule or were installed as puppet heads of states in their own countries. Singapore is represented by a view of the city from the sea and the Syonan Jinja shrine in the MacRitchie Reservoir area, which commemorates Japanese soldiers who perished in the battles of Malaya and Sumatra. <i>(Accession no.: B29245106G)</i></div>
 
 As a young man in the 1980s, Lim Shao Bin studied and worked in Japan, where he developed a lifelong passion for collecting Japanese historical materials on Singapore and Southeast Asia. As a student on a scholarship sponsored by a Japanese precision engineering company, Lim would make monthly trips to the office in the Kanda district in Tokyo to report on the progress of his studies.
