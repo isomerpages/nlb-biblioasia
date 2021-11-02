@@ -40,7 +40,7 @@ In Singapore, he also managed the Book Depot – which in time became informally
 
 When the Junior Library first opened on 21 July 1923, it was housed in a large room on the ground floor next to the Raffles Library’s Public Room.
 
-<div style="background-color: white;"><img src="/images/Vol-13-issue-2/an-unusual-ambition/03_unusualambition.jpg">The Junior Library at the Raffles Library, c. 1950s. The low wooden tables and chairs were specially designed for children’s use. The wooden 20-compartment catalogue card cabinet can be seen on the right-hand side of the photograph. <i>Image source: National Library Board, Singapore.</i></div>
+<div style="background-color: white;"><img style="width:600px" src="/images/Vol-13-issue-2/an-unusual-ambition/03_unusualambition.jpg">The Junior Library at the Raffles Library, c. 1950s. The low wooden tables and chairs were specially designed for children’s use. The wooden 20-compartment catalogue card cabinet can be seen on the right-hand side of the photograph. <i>Image source: National Library Board, Singapore.</i></div>
 
 The Junior Library had a collection of more than 1,000 books, among which were Greek classics such as the *Iliad, Odyssey* and *Aeneid* as well as works by famed writers like Daniel Defoe, Jules Verne, R. L. Stevenson, R. M. Ballantyne and Mark Twain. Johnston the Librarian said of the collection in February 1930:
 
