@@ -126,7 +126,7 @@ As the magazine with the largest circulation in Singapore, *Our Home* was an ave
 
 Advertisements held out the dream of a perfect home and a new level of well-being that could be achieved with consumer technology. Washing machines, rice cookers and vacuum cleaners would make domestic work less taxing and free up time for leisure, whereas television and radio sets enhanced the time spent at home, as these advertisements claimed:
 
-Make life easier with Sanyo home appliances…. Hundreds of home appliances roll off Sanyo assembly lines daily to help cut household drudgery to a bare minimum, [and] lessen the toil and increase the joy of living.[^52]
+“Make life easier with Sanyo home appliances…. Hundreds of home appliances roll off Sanyo assembly lines daily to help cut household drudgery to a bare minimum, [and] lessen the toil and increase the joy of living.[^52]
 
 “It’s nice to have a home of your own and fill it with lovely things… such as Sony. Sony makes your flat nice to come home to. There’s Sony television for clear reception anywhere; Sony stereo for listening pleasure and party sounds; Sony clock radio for the time and soothing background music, and a powerful world-wide Sony radio to keep you abreast with the world. All designed for superb entertainment and gracious living.”[^53]
 
