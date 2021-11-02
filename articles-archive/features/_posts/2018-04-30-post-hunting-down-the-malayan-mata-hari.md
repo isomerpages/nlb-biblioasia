@@ -179,4 +179,16 @@ Tay, M. (2008, May 31). [Robinsons](http://eresources.nlb.gov.sg/newspapers/Digi
 
 [The grenade girl who also faced death](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19680715-1.2.42). (1968, July 15). *The Straits Times*, p. 8. Retrieved from NewspaperSG.
 
-Van Tonder, G. (2017). [*Malayan emergency: Triumph of the running dogs*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202978094) (p. 4). Barnsley: Pen and Sword Military. (Call no.: RSING 959.5104 VAN)
+Van Tonder, G. (2017). [*Malayan emergency: Triumph of the running dogs*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202978094) (p. 4). Barnsley: Pen and Sword Military. (Call no.: RSING 959.5104 VAN).
+
+#### **NOTES**
+[^1]:
+[^2]:
+[^3]:
+[^4]:
+[^5]:
+[^6]:
+[^7]:
+[^8]:
+[^9]:
+[^10]:
