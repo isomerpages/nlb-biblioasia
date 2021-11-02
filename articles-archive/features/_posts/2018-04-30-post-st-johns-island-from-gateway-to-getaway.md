@@ -152,9 +152,9 @@ The bustling city seethes beyond St John’s seawalls, always looming but still 
 [^18]:A 1938 report proposed the erection of an annexe “for the examination of immigrants for early signs of leprosy”, but it seems unlikely that the British would have considered housing lepers on the island in close proximity with thousands of new migrants. See [St. John’s Island](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19380426-1.2.115?ST). (1938, April 26). *The Malaya Tribune*, p. 16. Retrieved from NewspaperSG.
 [^19]:Lee, Y.K. (1978, January). Quarantine in early Singapore (Part 2). [*Annals of the Academy of Medicine, Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=3358419)*, 7*(1), 81–87. Singapore: Academy of Medicine. (Call no.: RSING 610.5 AMSAAM).
 [^20]:[Legislative Council meeting 24 December 187](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18750109-1.2.9?ST)4. (1875, January 9). *The Straits Times*, p. 2; [The “Milton”](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stoverland18741119-1.2.10?ST). (1874, November 19). *Straits Times Overland Journal*, p. 2. Retrieved from NewspaperSG.
-[^21]:
-[^22]:
-[^23]:
+[^21]:Infected ships were defined as those where a case of infectious disease had occurred up to 12 days before arrival. Suspected ships were those where disease had occurred during the voyage but with no fresh cases in the 12 days preceding arrival.
+[^22]:Teo, D., & Liew, C. (2004). [*Guardians of our homeland: The heritage of Immigration and Checkpoints Authority*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12444793) (pp. 26–27). Singapore: Immigration & Checkpoints Authority. (Call no.: RSING q353.59095957 TEO).
+[^23]:[Our newcomers](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19260430-1.2.79?ST). (1926, April 30). *The Singapore Free Press and Mercantile Advertiser*, p. 12. Retrieved from NewspaperSG.
 [^24]:
 [^25]:
 [^26]:
@@ -162,3 +162,13 @@ The bustling city seethes beyond St John’s seawalls, always looming but still 
 [^28]:
 [^29]:
 [^3]:
+
+
+
+St John’s Island. (1935, June 1). The Straits Times, p. 13. Retrieved from NewspaperSG.
+Cheang, H.L. (1875, August 14). Wednesday, 11th August. The Straits Times, p. 2. Retrieved from NewspaperSG.
+Translated from Tan, B.L. (1983, September 16). (Interviewer). Oral history interview with Teo Choon Hong [Transcript of cassette recording no. 000328/7/2, pp. 22–23]. Retrieved from National Archives of Singapore website. [Note: Mr Teo’s reference to Kusu Island is likely an error, as this island was too small to house extensive quarantine facilities.]
+Mandarin for St John’s Island, which is probably a transliteration of “Sekijang”.
+Translated from Quah, I. (2002, February 1). (Interviewer). Oral history interview with Teong Eng Siong [Transcript of cassette recording no. 002605/10/1, pp. 5–6, 9–10 ]. Retrieved from National Archives of Singapore website.
+Chew, D. (1983, September 16). Oral history interview with Saravana Perumal [Transcript of cassette recording no. 000335/17/9, p. 95]. Retrieved from National Archives of Singapore website.
+Chew, D. (1983, October 6). Oral history interview with Saravana Perumal [Transcript of cassette recording no. 000335/17/11, pp. 116–117]. Retrieved from National Archives of Singapore website.
