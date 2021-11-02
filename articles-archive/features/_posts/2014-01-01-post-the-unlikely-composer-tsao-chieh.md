@@ -113,25 +113,27 @@ Despite his varied body of work, Tsao Chieh had always lamented that com- posers
 <br/>
 <img src="/images/vol-9-issue-4/tsaochieh/tone_raw.jpg">Tone rows for <i>Amidst the Sough of Winds. Courtesy of Vivien Chen.</i></div>
 
-|**Making Water Music**|
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> 
+<b>MAKING WATER MAGIC</b>
+<br><br>
+The Singapore Youth Orchestra brought one of Tsao Chieh's works Stasis on tour to Perth, Australia, in June 1988. The general manager of the orchestra Tan Kim Swee[^14] remembered the piece required a water tank, one “big enough to immerse a big gong”. The story was that the first tank that had been acquired was too small for the gong and a second one had to be custom-made for the piece. This must have been so stressful for Tan that he even remembered the precise dimensions of the tank — 50 centimetres in breadth and length and 100 centimetres in height — which was to be filled with water as instructed by the composer. Tan recalled the ensuing frenzy over how the water tank had to be filled exactly to four-fifths of its height using buckets and subsequently emptied the same way before and after each concert. During both the local and Australian performances, the tank was placed at the back of the orchestra but elevated so that it remained visible to the audience. Tan also recalls clearly that the commissioned work required bamboo chimes and glass chimes, both of which had to be custom made.</span>
 
-|The Singapore Youth Orchestra brought one of Tsao Chieh's works Stasis on tour to Perth, Australia, in June 1988. The general manager of the orchestra Tan Kim Swee[^14] remembered the piece required a water tank, one “big enough to immerse a big gong”. The story was that the first tank that had been acquired was too small for the gong and a second one had to be custom-made for the piece. This must have been so stressful for Tan that he even remembered the precise dimensions of the tank — 50 centimetres in breadth and length and 100 centimetres in height — which was to be filled with water as instructed by the composer. Tan recalled the ensuing frenzy over how the water tank had to be filled exactly to four-fifths of its height using buckets and subsequently emptied the same way before and after each concert. During both the local and Australian performances, the tank was placed at the back of the orchestra but elevated so that it remained visible to the audience. Tan also recalls clearly that the commissioned work required bamboo chimes and glass chimes, both of which had to be custom made.|
-
-|**Review of Tsao Chieh's Music**|
-
-|Under the baton of Lan Shui, the Singapore Symphonic Orchestra recorded three compact discs of Tsao Chieh's orchestral works. In his review, Chang Tou Liang considered the composer to be a “modern-day Charles Ives, one who composed in his spare time.” He said: |
-
-|The impressionism of Debussy and Ravel, pomp and circumstance of Elgar and Walton, serialism of Schoenberg and the passacaglia-writing style of Shostakovich are all evident, mixed with a healthy dose of melody — Rasa Sayang, Xiao Bai Chuan (Little Sailboat) and one big tune of his own device.[^22]|
-
-|In her review on Tsao Chieh’s electronic music, the ethnomusicologist Tan Shzr Ee said that it does “lovely things to your ear.” She elaborated:|
-
-|It is a treasure box of weird and delightful sounds either simulating acoustic instruments to eerie effect, or churning out frenetic blubs of nonsensical noises which must surely carry abstracted meanings in their own right...|
-
-|Just when you think you have nailed the composer to a pastiche of Debussy or Bartok-styled chromatic harmonies, a tinkly horror-movie soundtrack surges into your hearing, stealing your breath away. Small and sparse jumbles of sound are thrown away here and there against a backdrop of tense calm created by near-silent electronic “whooshes”.|
-
-|Sometimes, a woman laughs and a man snatches the space for his moment with a scramble of words. Themes which sound transplanted from a drama-mama Chinese opera groove against a dizzying spiral of unremitting notes. It is a trippy and absolutely mesmerising experience.|
-
-|But every now and then, a curious refrain of a decaying, owl-like “woo”, flattened out in pitch towards it tail, rears up like a leitmotif. It reminds you of the constancy of — work? everyday existence? the inner rhythms of life? — that punctuate this album’s otherwise over-the-top splendour.[^23]|
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> 
+<b>REVIEW OF TSAO CHIEH'S MUSIC</b>
+<br><br>
+Under the baton of Lan Shui, the Singapore Symphonic Orchestra recorded three compact discs of Tsao Chieh's orchestral works. In his review, Chang Tou Liang considered the composer to be a “modern-day Charles Ives, one who composed in his spare time.” He said: 
+<br><br>
+The impressionism of Debussy and Ravel, pomp and circumstance of Elgar and Walton, serialism of Schoenberg and the passacaglia-writing style of Shostakovich are all evident, mixed with a healthy dose of melody — Rasa Sayang, Xiao Bai Chuan (Little Sailboat) and one big tune of his own device.[^22]
+<br><br>
+In her review on Tsao Chieh’s electronic music, the ethnomusicologist Tan Shzr Ee said that it does “lovely things to your ear.” She elaborated:
+<br><br>
+It is a treasure box of weird and delightful sounds either simulating acoustic instruments to eerie effect, or churning out frenetic blubs of nonsensical noises which must surely carry abstracted meanings in their own right...
+<br><br>
+Just when you think you have nailed the composer to a pastiche of Debussy or Bartok-styled chromatic harmonies, a tinkly horror-movie soundtrack surges into your hearing, stealing your breath away. Small and sparse jumbles of sound are thrown away here and there against a backdrop of tense calm created by near-silent electronic “whooshes”.
+<br><br>
+Sometimes, a woman laughs and a man snatches the space for his moment with a scramble of words. Themes which sound transplanted from a drama-mama Chinese opera groove against a dizzying spiral of unremitting notes. It is a trippy and absolutely mesmerising experience.
+<br><br>
+But every now and then, a curious refrain of a decaying, owl-like “woo”, flattened out in pitch towards it tail, rears up like a leitmotif. It reminds you of the constancy of — work? everyday existence? the inner rhythms of life? — that punctuate this album’s otherwise over-the-top splendour.[^23]</span>
 
 <p style="font-size:15px;"><b>Jun Zubillaga-Pow</b> is a PhD Candidate in music research at King’s College London. He has performed and curated music events at the esplanade, the arts House, theatreworks and the Substation. With the support of the National arts Council, Jun is the co-editor of Queer Singapore and Singapore Soundscape.</p>
 
