@@ -82,11 +82,11 @@ Published in 1900, The Triad Society: Or, Heaven and Earth Association was writt
 
 #### **NOTES**
 
-[^1]:Murray, D.H., & Qin, B. (1994).The origins of the Tiandihui: The Chinese triads in legend and history (p. 89). Stanford, Calif.: Stanford University Press. (Call no.: R 951 MUR)
+[^1]:Murray, D.H., & Qin, B. (1994). *[The origins of the Tiandihui: The Chinese triads in legend and history](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6884269)* (p. 89). Stanford, Calif.: Stanford University Press. (Call no.: R 951 MUR)
 
-[^2]:Lim, I. (1999). Secret societies in Singapore: Featuring the William Stirling collection (p. 10). Singapore: National Heritage Board, Singapore History Museum. (Call no.: RSING 366.095957 LIM)
+[^2]:Lim, I. (1999). *[Secret societies in Singapore: Featuring the William Stirling collection](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9373792)* (p. 10). Singapore: National Heritage Board, Singapore History Museum. (Call no.: RSING 366.095957 LIM)
 
-[^3]:Vaughan, J.D. (1974). The manners and customs of the Chinese of the Straits Settlements (p. 92). Singapore: Oxford University Press. (Call no.: RSING 390.0951 VAU)
+[^3]:Vaughan, J.D. (1974). *[The manners and customs of the Chinese of the Straits Settlements](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4079382)* (p. 92). Singapore: Oxford University Press. (Call no.: RSING 390.0951 VAU)
 
 [^4]:Freemasonry is a secular fraternal order, traditionally encompassing male members only and which traces its origins to ancient times. Members are taught the society’s principles through rituals and symbols, and although it is not a religious order, members are expected to follow certain rules of morality and spirituality.
 
