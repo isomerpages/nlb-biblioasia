@@ -166,12 +166,12 @@ Both Padma’s catalogue and Kate’s *The Jungle Omnibus* are available on micr
 
 [^27]:CSO 6414/1938.
 
-[^28]:Raffles Library and Museum, 1939, p. 1.
+[^28]:[Raffles Library and Museum](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4394247), 1939, p. 1.
 
-[^29]:Daniel, 1959, pp. 18, 24.
+[^29]:[Daniel](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081988), 1959, pp. 18, 24.
 
-[^30]:Pether, M. (2013, May). SS. Rooseboom. Retrieved from The South African Military History Society website.
+[^30]:Pether, M. (2013, May). *SS. Rooseboom*. Retrieved from The South African Military History Society website.
 
-[^31]:Rebuilding your library. (1947, August 7). The Singapore Free Press, p. 2. Retrieved from NewspaperSG.
+[^31]:[Rebuilding your library](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19470807-1.2.23). (1947, August 7). *The Singapore Free Press*, p. 2. Retrieved from NewspaperSG.
 
-[^32]:Daniel, 1959, p. 50.
+[^32]:[Daniel](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081988), 1959, p. 50.
