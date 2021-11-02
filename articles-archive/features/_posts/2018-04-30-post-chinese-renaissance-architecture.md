@@ -96,3 +96,27 @@ Described in the newspapers as “semi-Chinese”,10 the new Anglo-Chinese Schoo
 
 One of the most striking features of  the building was the broad canopy roof over the ground floor windows, a feature that was also repeated on the floor above in the three-storey block that fronted the site. Supported by massive brackets, the eaves of the canopy roof were swept up at the corners in the typical Chinese manner, as did the eaves of the main roof. As well as making an impressive visual  statement, these tiered roofs worked together to cast long shadows over the external walls of the building during the middle of the day when the sun was at its  highest point, shielding the classrooms within from the warming effects of solar radiation.
 
+<img src="/images/Vol-14-issue-1/chinese-renaissance-architect/Renaissance8.JPG">
+<div style="background-color: white;">Frank Brewer’s architectural plan of the proposed new building for Anglo-Chinese School at Cairnhill, 1924. <i>Swan & Maclaren Collection, courtesy of National Archives of Singapore.</i></div>
+
+The internal courtyard also acted as a cooling mechanism, allowing warm air inside the classrooms to escape via  the open atrium, and replaced by cooler air drawn in from the outside through the many door and window openings, thus creating a constant circulation of air through the building (it worked like  a gigantic chimney flue). This system of natural ventilation was further enhanced by the school’s breezy hilltop location, which simultaneously made the most of ambient air currents.
+
+#### **Eu Tong Sen’s Apartment Blocks**
+
+Frank Brewer revisited the Chinese Renaissance in 1925 when he designed two blocks of flats on Club Street for Eu Tong Sen, a prominent businessman and leader of the Chinese community. This was at a time when apartment living was just beginning to take root  in Singapore.
+
+But whereas previously, this new type of accommodation had been intended for a mainly European clientele, in this instance the prospective occupants were clearly meant to be Asian; in 1925, no European would have dreamed of putting up in Chinatown, thanks to its shady reputation as a hotbed for secret societies, brothels, gambling dens and opium shops. Possibly, it was this consideration that encouraged Brewer to opt for a Chinese Renaissance-style building, which at once signalled its modernity and yet retained a characteristically Chinese flavour.
+
+Generally speaking, many supposedly Chinese-style buildings from this period, both in Singapore and elsewhere, are little more than a pastiche – even bordering on the kitsch – since the Western architects who designed them had little real understanding of traditional Chinese architecture and were probably not too bothered to find out. Brewer’s two apartment blocks for Eu Tong Sen, however, were different and went some way beyond the typical “Western-style building with a Chinaman’s hat on top” approach, revealing that Brewer had at least taken the time to acquaint himself with some of the basic precepts of Chinese architectural practices and building typologies.
+
+<img src="/images/Vol-14-issue-1/chinese-renaissance-architect/Renaissance9.JPG">
+<div style="background-color: white;">In 1925, Frank Brewer designed two blocks of flats in the Chinese Renaissance style for Eu Tong Sen, a prominent businessman and leader of the Chinese community, at 31–45 Club Street. The buildings now form part of Emerald Garden condominium. <i>Courtesy of Julian Davison.</i></div>
+
+The basement floor of the main building (which is on the left as one heads up Club Street from the Cross Street junction), for example, with its central, unadorned arch and fair-faced brickwork, brings to mind Chinese gateways from the Ming dynasty (1368–1644). Similarly, the slightly tapering profile of the tower is reminiscent of the classic silhouette of a Chinese drum tower.
+
+Other “traditional” Chinese features include the canopy roofs over the windows, which rest on Chinese-style  brackets protruding from the wall; one sees a similar arrangement in the canopy roofs of shophouses. The tiles  were imported from China (unlike the v-shaped tiles normally used for shophouse roofs, which were manufactured locally), and came adorned with decorative, green-glazed “stoppers”, or endpieces (*wadang*), for the roof margins; the origins of the latter can be traced back to the second millennium BCE.
+
+The upturned corners, which are every Westerner’s idea of what a Chinese roof should look like, are perhaps the least successful aspect of the edifices – and smacking of Chinese tokenism – but the composition of the window  mullions and transoms is convincing, as they are derived from traditional Chinese latticework patterns, albeit greatly simplified here.
+
+<img src="/images/Vol-14-issue-1/chinese-renaissance-architect/Renaissance10.JPG">
+<div style="background-color: white;">In 1925, Frank Brewer designed two blocks of flats in the Chinese Renaissance style for Eu Tong Sen, a prominent businessman and leader of the Chinese community, at 31–45 Club Street. The buildings now form part of Emerald Garden condominium. <i>Courtesy of Julian Davison.</i></div>
