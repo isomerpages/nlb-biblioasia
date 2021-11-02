@@ -187,18 +187,8 @@ Van Tonder, G. (2017). [*Malayan emergency: Triumph of the running dogs*](http:/
 [^3]:[Clague](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082295), 1980, p. 3.
 [^4]:Chin, P. (2003). [*My side of history*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12106841) (p. 334). Singapore: Media Masters. (Call no.: RSING 959.5104092 CHI).
 [^5]:Stockwell, A.J. (2006, November). Chin Peng and the struggle for Malaya. *Journal of the Royal Asiatic Society, 16* (3), 279–297, p. 286. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
-[^6]:
-[^7]:
-[^8]:
-[^9]:
-[^10]:
-
-
-
-
-
-According to Leon Comber, the Kepayang Gang was involved in several deadly hand grenade attacks around Perak in 1949. These included the attack on the offices of the Kin Kwok Daily News (an anti-Communist newspaper) on 1 October 1949 and an attack on a circus audience in Kampar that same year.
-Short, A. (2000). In pursuit of mountain rats: The communist insurrection in Malaya (p. 384). Singapore: Cultured Lotus. (Call no.: RSING 959.5104 SHO)
-Short, 2000, p. 385.
-Chin, 2003, p. 348.
-The British Military Administration (BMA) ended when civilian rule was restored on 1 April 1946. See National Library Board. (2014). British Military Administration is established. Retrieved from HistorySG.
+[^6]:According to Leon Comber, the Kepayang Gang was involved in several deadly hand grenade attacks around Perak in 1949. These included the attack on the offices of the *Kin Kwok Daily News* (an anti-Communist newspaper) on 1 October 1949 and an attack on a circus audience in Kampar that same year.
+[^7]:Short, A. (2000). [*In pursuit of mountain rats: The communist insurrection in Malaya*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10102439) (p. 384). Singapore: Cultured Lotus. (Call no.: RSING 959.5104 SHO).
+[^8]:[Short](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10102439), 2000, p. 385.
+[^9]:Chin, 2003, p. 348.
+[^10]:The British Military Administration (BMA) ended when civilian rule was restored on 1 April 1946. See National Library Board. (2014). British Military Administration is established. Retrieved from HistorySG.
