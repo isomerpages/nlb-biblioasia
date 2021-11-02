@@ -132,3 +132,23 @@ The bustling city seethes beyond St John’s seawalls, always looming but still 
 <a href="https://biblioasia.nlb.gov.sg/vol-14/issue-1/apr-jun-2018/"><center>Back to Issue</center></a>
 
 #### **NOTES**
+[^1]:National Library Board. (2019, January). [*Stamford Raffles’s landing in Singapore*](http://eresources.nlb.gov.sg/infopedia/articles/SIP_131_2005-01-03.html) written by Tan, Bonny. Retrieved from Singapore Infopedia.
+[^2]:Antechamber text, panel 3, “Arrival at Singapore” from *Raffles’ Letters: Intrigues Behind the Founding of Singapore*, National Library Gallery, 29 August 2012 to 28 February 2013.
+[^3]:Raffles’ letter to the Duchess of Somerset, 22 February 1819, from *Raffles’ Letters: Intrigues Behind the Founding of Singapor*e.
+[^4]:European maps from the 16th–18th centuries variously marked Singapore as a town on the west coast of the Malay Peninsula, a city on the left bank of the Johor River, a promontory, a cape or simply as a sea passage. See Periasamy, M. (2015). The rare maps collection of the National Library. In Singapore. National Library Board, [*Visualising space: Maps of Singapore and the region*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201116198) (pp. 60–61). Singapore: National Library Board. (Call no.: RSING 911.5957 SIN).
+[^5]:*When did Singapore become an Island? Part III*. (2015, February 8). Retrieved from History Delocalised blogspot; Nor-Afidah Abdul Rahman. (2016, January–March). [A Portuguese map of Sincapura](http://www.nlb.gov.sg/biblioasia/2016/01/22/a-portuguese-map-of-singapura/). *BiblioAsia, 11* (4), 20–21; Gibson-Hill, C. (1954, May). Singapore: Notes on the history of the old strait, 1580–1850. *Journal of the Malayan Branch of the Royal Asiatic Society, 27* (1)(165), 163–214, p. 173. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+[^6]:
+[^7]:
+[^8]:
+[^9]:
+[^10]:
+
+
+
+
+
+Durai Raja Singam, S. (1939). Port Weld to Kuantan: A study of Malayan place names (pp. 250–251). Kuala Lumpur: Malayan Printers. (Call no.: RCLOS 959.5 RAJ-RFL]
+Bellin, J.N. [1755]. Carte réduite des détroits de Malaca, Sincapour, et du Gouverneur, dressée au dépost des cartes et plans de la Marine [Map]. Dépôt-Générale de la Marine; Howe, T. (1805, March 17). Sketch of the Straits of Singapore by The Hon’ble Thomas Howe April 1758 [Map]. Retrieved from BookSG.
+Government gazette. (1899, March 25). The Straits Times, p. 2. Retrieved from NewspaperSG.
+Haughton, H.T. (1889). Notes on names of places in the island of Singapore and its vicinity. Journal of the Straits Branch of the Royal Asiatic Society, 20, 79. Retrieved from JSTOR via NLB’s eResources website.
+Barking deer or kijang (Muntiacus muntjak) are native to Singapore but were hunted to extinction in the 20th century. There are no records of barking deer on St John’s Island, but two deer were relocated to the island in 1906. See Untitled. (1906, January 16). The Straits Times, p. 2; Deer hunt of St John’s. (1906, January 15). The Singapore Free Press and Mercantile Advertiser, p. 3. Retrieved from NewspaperSG.
