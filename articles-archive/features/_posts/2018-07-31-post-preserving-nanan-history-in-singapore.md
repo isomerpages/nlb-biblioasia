@@ -49,7 +49,7 @@ In 1936, a row erupted over the ownership of the temple, leading to a legal suit
 
 Between 2006 and 2009, the temple underwent a $3-million restoration project spearheaded by the Lam Ann Association and funded by clan members, temple devotees and the Lee Foundation. The restoration was so well executed that in 2010, Hong San See Temple became the first building in Singapore to receive the Award of Excellence in the UNESCO Asia- Pacific Heritage Awards for Cultural Heritage Conservation.[^17]
 
-<img style="width: 450px; height: 300px;" src="/images/Vol-14-issue-2/preserving-nanan-history-in-sg/Preserving5.JPG">
+<img style="width: 600px; height: 350px;" src="/images/Vol-14-issue-2/preserving-nanan-history-in-sg/Preserving5.JPG">
 <div style="background-color: white;">Before the Registry of Marriages was established in 1961, the Singapore Lam Ann Association solemnised weddings among members of the Nan’an community and issued
 marriage certificates. The certificates – adorned with butterflies, birds and flowers – would indicate the names of the bride, groom, witnesses, matchmakers and solemniser. This particular marriage was solemnised on the morning of the 24th day of the 8th lunar month in 1960 (14 October 1960). <i>All rights reserved, National Library Board, 2018.</i></div>
 
