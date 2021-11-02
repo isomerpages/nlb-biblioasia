@@ -44,10 +44,25 @@ The pineapples were still extant in 1847 when Dr Robert Little – a medical pra
 
 The aim of Dr Little’s sojourn to St John’s was to investigate remittent fever (malaria), which he mistakenly believed was caused by miasma from dying coral reefs.16 Medical interest in St John’s Island came from other quarters in 1848, when a medical committee suggested the use of “St John’s or one of the neighbouring islands” for the segregation of leprous convicts.17 The subject was raised again in 1857 – when the leper population in Singapore had reached alarming levels – to no avail. However, in the end, St John’s Island was never used to accommodate lepers.18
 
-Quarantine Island
+#### **Quarantine Island**
 
 St John’s transformation into a rather less welcoming destination began in 1873, after a severe cholera outbreak in Singapore that claimed the lives of 357 people. Under pressure from the mercantile community, Andrew Clarke, the British Governor in Singapore, approved a proposal by Acting Master Attendant Henry Ellis to establish a lazaretto (a facility to isolate and treat patients with contagious diseases) on St John’s Island.
 
-Ellis’ wishlist for the site included a steam cutter (patrol boat), a floating police station and a hospital as well as burial grounds on nearby Peak (Kusu) Island.19 St John’s stint as Singapore’s “Quarantine Island” thus began in November 1874 when the barely completed lazaretto took in between 1,200 and 1,300 Chinese passengers from the cholera-stricken S.S. Milton from Swatow (now Shantou), China.20
+Ellis’ wishlist for the site included a steam cutter (patrol boat), a floating police station and a hospital as well as burial grounds on nearby Peak (Kusu) Island.19 St John’s stint as Singapore’s “Quarantine Island” thus began in November 1874 when the barely completed lazaretto took in between 1,200 and 1,300 Chinese passengers from the cholera-stricken *S.S. Milton* from Swatow (now Shantou), China.20
 
 By 1908, the quarantine facility on St John’s had expanded to encompass the entire island, which was populated with sheds housing the occupants of infected or suspected ships,21 be they new migrants to Malaya or religious pilgrims returning from performing the Haj in Mecca.
+
+<img src="/images/Vol-14-issue-1/st-johns-island/StJohn4.JPG">
+<div style="background-color: white;">St John’s became known as Singapore’s “Quarantine Island” in November 1874 when the first load of 1,200 to 1,300 Chinese passengers from the cholera-stricken S.S. Milton from Swatow (now Shantou), China, arrived on the island. This 1930 photo shows passengers being vaccinated against infectious disease upon disembarkation. <i>Courtesy of The National Archives of the UK, ref. CO1069/560 pt1 (23).</i></div>
+
+In reality, quarantine was defined by the class of passage. First- and second-class cabin passengers could simply present themselves for clearance before disembarking, while hapless passengers in steerage (who shared a deck or hold) were quarantined for two to three days. From the 1920s, most cargo-hold travellers were required to transit at St John’s Island for inoculation before proceeding to Singapore, with migrants from China subject to at least a week’s quarantine.22
+
+For the British, St John’s Island was an achievement “which every resident may be proud”. *The Singapore Free Press and Mercantile Advertiser* reported in 1926:
+
+“With thousands of Chinese arriving at Singapore every week, and with smallpox on two out of every four immigrant ships entering the port, Singapore and the Peninsula are nevertheless kept practically free from that disease… Certainly the treatment which the immigrants received on the island is about as pleasant an introduction to Malaya as they could expect. They arrive hungry, dirty and miserable after a deck passage through the China Sea, and they spend five blissful days – or it may be a fortnight – with nothing to do, wholesome food to eat, and the beaches of the island on which to lounge away the first hours of leisure they have known in their lives”.23
+
+Another report in *The Straits Times* in 1935 feted St John’s as the “largest quarantine station in the world” − after New York’s Ellis Island and El Tor in Egypt − with the means to detain up to 6,000 people in 22 camps. The island then also housed “several hospitals for actual cases of smallpox, cholera, plague, chickenpox, measles and kindred diseases, and the barracks and temple for the 15 men of the island’s Sikh Police force, the gardeners’ quarters and mosque, the coolies’ and workmen’s quarters, the Coroner’s court and the lock-up”.24
+
+#### **Memories of Quarantine**
+
+Henry Ellis’ initial plans to use Peak (Kusu) Island as a burial ground were soon cut short when a community leader named Cheang Hong Lim raised strenuous objections to this idea. Instead, Lazarus Island took its place; from the early 20th century onwards, passengers who died upon or shortly after arrival were buried here.
