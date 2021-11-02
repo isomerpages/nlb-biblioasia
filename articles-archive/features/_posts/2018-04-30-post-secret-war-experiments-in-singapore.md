@@ -97,7 +97,7 @@ But the truth eventually surfaced. “In the 1980s and 90s”, says Lim, “the 
 
 Some of these younger doctors formed non-governmental organisations, which published accounts of what their founders had learnt about Unit 731’s experiments. Why was Japan not rocked by such findings? Lim puts it down to the thick fog of negation surrounding Japan’s war crimes, including from Japan’s powerful and vociferous right-wing politicians. Also, he mused sadly: “Children do not appreciate their grandfathers’ histories”.
 
-<img src="/images/Vol-14-issue-1/secret-war-experiments-in-sg/Secret6.JPG">
+<img style="width: 550px; height: 370px;" src="/images/Vol-14-issue-1/secret-war-experiments-in-sg/Secret6.JPG">
 <div style="background-color: white;">From left to right: Professor Nobuyoshi Takashima, Dr Yosuke Watanabe and Lim Shao Bin, holding a rare 1938 map showing Tokyo as the centre of the world. This photo was taken on 15 February 2018, during the Japanese dons’ yearly sojourn to Singapore to commemorate the Fall of Singapore on 15 February 1942. <i>Courtesy of Cheong Suk-Wai.</i></div>
 
 Some Japanese do, though. On 15 February this year, Lim introduced me to Nobuyoshi Takashima, 76, professor emeritus at Ryukyu University, who has been researching the dark days of the Japanese Occupation in Singapore and Malaya for more than 40 years. As Prof Takashima speaks no English, his friend, Dr Yosuke Watanabe, 47, visiting fellow at the Center for Asia-Pacific Partnership, Osaka University of Economics and Law, acted as translator.
@@ -121,7 +121,7 @@ But when Lim Shao Bin won the chance to work for Japanese precision engineering 
 <br><br>
 For one thing, he had rued since he was a boy that his paternal grandfather, Lim Kui Yi, had died at the hands of Imperial Japanese Army (IJA) soldiers during the Japanese Occupation.
 <br><br>
-<img src="/images/Vol-14-issue-1/secret-war-experiments-in-sg/Secret7.JPG">A portrait of Lim Kui Yi, the paternal grandfather of Lim Shao Bin whom the Japanese Imperial Army killed in Melaka on 5 September 1945. <i>Courtesy of Lim Shao Bin.</i>
+<img style="width: 450px; height: 400px;" src="/images/Vol-14-issue-1/secret-war-experiments-in-sg/Secret7.JPG">A portrait of Lim Kui Yi, the paternal grandfather of Lim Shao Bin whom the Japanese Imperial Army killed in Melaka on 5 September 1945. <i>Courtesy of Lim Shao Bin.</i>
 <br><br>
 Lim, who was born in 1957, remembers, “When I was a kid, I was just told ‘Grandpa had been killed during World War II’”. So I assumed he was killed by Japanese aerial bomb attacks in Singapore.
 <br><br>
