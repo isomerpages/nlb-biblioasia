@@ -161,4 +161,14 @@ The bustling city seethes beyond St John’s seawalls, always looming but still 
 [^27]:Mandarin for St John’s Island, which is probably a transliteration of “Sekijang”.
 [^28]:Translated from Quah, I. (2002, February 1). (Interviewer). [*Oral history interview with Teong Eng Siong*](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/b/b10c16dc-115e-11e3-83d5-0050568939ad-OHC002605_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=9) [Transcript of cassette recording no. 002605/10/1, pp. 5–6, 9–10 ]. Retrieved from National Archives of Singapore website.
 [^29]:Chew, D. (1983, September 16). [*Oral history interview with Saravana Perumal*](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e598a7e8-115d-11e3-83d5-0050568939ad-OHC000335_009/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=11) [Transcript of cassette recording no. 000335/17/9, p. 95]. Retrieved from National Archives of Singapore website.
-[^3]:Chew, D. (1983, October 6). [Oral history interview with Saravana Perumal](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e8cc149f-115d-11e3-83d5-0050568939ad-OHC000335_011/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png) [Transcript of cassette recording no. 000335/17/11, pp. 116–117]. Retrieved from National Archives of Singapore website.
+[^30]:Chew, D. (1983, October 6). [*Oral history interview with Saravana Perumal*](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e8cc149f-115d-11e3-83d5-0050568939ad-OHC000335_011/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png) [Transcript of cassette recording no. 000335/17/11, pp. 116–117]. Retrieved from National Archives of Singapore website.
+[^31]:
+[^32]:
+[^33]:
+[^34]:
+[^35]:
+[^36]:
+[^37]:
+[^38]:
+[^39]:
+[^4]:
