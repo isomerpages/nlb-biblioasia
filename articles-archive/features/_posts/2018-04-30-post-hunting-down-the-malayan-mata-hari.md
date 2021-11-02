@@ -6,7 +6,7 @@ layout: post
 ---
 #### **Ronnie Tan** pieces together the fascinating story of Lee Meng, the Malayan Communist Party female agent who headed its courier network for a brief period in 1952.
 
-<img src="/images/Vol-14-issue-1/hunting-down-the-malayan/Hunt1.jpg">
+<img style="width: 300px; height: 400px;" src="/images/Vol-14-issue-1/hunting-down-the-malayan/Hunt1.jpg">
 <div style="background-color: white;">Lee Meng, head courier of the Malayan Communist Party, being escorted to the Ipoh court complex for her retrial 10 days after she was found innocent during her first trial on 27 August 1952 (right). <i>Image source: Chin, P. (2003). My Side of History (pp. 340, 343). Singapore: Media Masters Pte Ltd. (Call no.: R SING 959.5104092 CHI)</i></div>
 
 On 16 June 1948, three European planters were brutally murdered by communist guerillas in the Sungei Siput area in Perak state, in what was then known as Malaya.[^1] Two days later, Britain declared a state of Emergency in Malaya, with Singapore following suit on 24 June 1948. The battle for control of Malaya and Singapore between the British and the Malayan Communist Party (MCP; also known as the Communist Party of Malaya) had begun, and it would not end until 31 July 1960.
@@ -21,7 +21,7 @@ As it turned out, communications – or the lack of, rather − was the MCP’s 
 
 Chin Peng needed someone who was street smart and capable of managing its communications courier system in north and central Malaya, and decided that the best person for the job as MCP’s “head courier” was a young lady named Lee Ten Tai (alias Lee Meng). Lee was leader of the Kepayang Gang[^6] which operated in Ipoh, the state capital of Perak.
 
-<img src="/images/Vol-14-issue-1/hunting-down-the-malayan/Hunt2.JPG">
+<img style="width: 500px; height: 380px;" src="/images/Vol-14-issue-1/hunting-down-the-malayan/Hunt2.JPG">
 <div style="background-color: white;">The brutal murder of three European planters by communist guerrillas in the Sungei Siput area, Perak, on 16 June 1948 led to the British authorities declaring a state of Emergency in Malaya two days later, with Singapore following suit on 24 June. The Emergency lasted for 12 years and ended only in 1960. <i>©The Straits Times, 17 June 1948, p. 1.</i></div>
 
 #### **Lee Meng: Malayan Mata Hari**
@@ -40,7 +40,7 @@ On the other side of the ideological divide was Detective-Inspector Irene Lee, w
 
 Lee was highly regarded by her peers in Singapore’s Special Branch as a competent and experienced officer. She was not only a highly skilled markswoman but also “a brilliant lock-picker, an expert with a mini-camera, an accomplished thief (in the course of her duty)” and endowed with a “delicious sense of humour”, according to the British journalist and author Noel Barber.[^13]
 
-<img src="/images/Vol-14-issue-1/hunting-down-the-malayan/Hunt3.JPG">
+<img style="width: 500px; height: 400px;" src="/images/Vol-14-issue-1/hunting-down-the-malayan/Hunt3.JPG">
 <div style="background-color: white;">Irene Lee (first row, second from left), the Malayan Special Branch officer who played a key role in Lee Meng’s arrest. Photo was taken around 1955 with six other women police officers, who formed the first batch of women inspectors in the Malayan Police Force. <i>Image source: Selamat bin Sainayune. (2007). Polis Wanita: Sejarah Bergambar 1955–2007 (p. 82). Petaling Jaya: Kelana Publications Sdn Bhd. (Call no.: R 363.208209595 SEL)</i></div>
 
 #### **The Hunt for Lee Meng**
@@ -57,7 +57,7 @@ At 5 pm one evening, Lee shadowed Ah Shu and watched her as she met the other la
 
 Meanwhile, the other woman was quietly arrested by Special Branch officers inside Robinsons. Along Stamford Road, just by YMCA’s tennis courts, Ah Shu alighted and started walking towards YMCA building, with Lee following behind. At the right moment, Lee gave the signal for the unmarked Special Branch car to draw abreast. Simultaneously, Lee stuck a gun into Ah Shu’s back and ordered her to get into the car, which then sped off to a secret Special Branch “safe house” on the outskirts of the city.
 
-<img src="/images/Vol-14-issue-1/hunting-down-the-malayan/Hunt4.JPG">
+<img style="width: 500px; height: 350px;" src="/images/Vol-14-issue-1/hunting-down-the-malayan/Hunt4.JPG">
 <div style="background-color: white;">Robinsons department store in Raffles Place in the early 1950s where two communist couriers were caught switching shopping bags containing communist literature and messages. It started a chain of events that would lead to Lee Meng’s arrest on 24 July 1952. <i>RAF Seletar Association Collection, courtesy of National Archives of Singapore.</i></div>
 
 On arrival, Ah Shu was searched by a woman constable, and a message hidden in a sealed tin of Johnson’s baby powder was found in her shopping bag. The tin’s bottom had been skillfully removed to contain the message. After the message had been extracted and photographed, it was then carefully put back into another identical tin, “which meant that a detective had to persuade an irate shopkeeper to open up [late at night] and sell him another [unblemished] tin so the message could be replaced”.[^15]
@@ -84,7 +84,7 @@ In order not to arouse the suspicion of Min Yuen members in the area, the lorry�
 
 Unaware to passers-by, Irene Lee was hiding in one of those crates. While the men went about changing the wheel, Lee opened the trapdoor of the crate, “picked the front door lock [of the bookshop], entered the shop, searched it, made photocopies and was back in her packing case” – all before the lorry was reloaded with the crates.[^18] From the evidence Lee found in the bookshop, the Special Branch ascertained that the nerve centre of the courier network was located in Ipoh and not Kuala Lumpur as it originally thought, and that it was run by a woman.
 
-<img src="/images/Vol-14-issue-1/hunting-down-the-malayan/Hunt5.JPG">
+<img style="width: 370px; height: 450px;" src="/images/Vol-14-issue-1/hunting-down-the-malayan/Hunt5.JPG">
 <div style="background-color: white;">As part of the communists’ clandestine communications network, rolled slips containing secret coded messages were concealed in everyday nondescript items such as a wall clock or a Chinese tea box. <i>Courtesy of ISD Heritage Centre.</i></div>
 
 #### **The Cat Finally Gets Her Mouse (in Ipoh)**
@@ -93,14 +93,14 @@ Two blocks away from the FMS Bar in Ipoh, the communist courier trail which bega
 
 Special Branch officers kept the house under 24-hour surveillance. At 8 pm on 24 July 1952, a raid was carried out. Irene Lee’s knock on the door was answered by her nemesis, Lee Meng. Stunned by this stranger at the door, Lee Meng and her friend Cheow Yin, who was also in the house at the time, were caught unawares and unarmed, and quickly apprehended.
 
-<img src="/images/Vol-14-issue-1/hunting-down-the-malayan/Hunt6.JPG">
+<img style="width: 450px; height: 300px;" src="/images/Vol-14-issue-1/hunting-down-the-malayan/Hunt6.JPG">
 <div style="background-color: white;">A communist guerrilla surrenders to security forces at a rubber plantation during the Malayan Emergency (1948–60). Image source: Barber, N. (1971). <i>The War of the Running Dogs: How Malaya Defeated the Communist Guerrillas, 1948–60 (p. 216). London: Collins. (Call no.: R CLOS 959.5 BAR-[JSB]).</i></div>
 
 The noose around Lee Meng tightened further when she slipped up in her attempt to produce her identity card. Issued in Ipoh in 1949, the card did not bear her name but that of another person by the name of Wong Nyuk Yin.[^20] Lee Meng claimed that she had been in Ipoh for just over two years and was living in Singapore prior to that. However, Irene Lee caught on to her lie: it was impossible for Lee Meng to be in Singapore in 1949 and yet receive “her” identity card in Ipoh at the same time.
 
 Upon further questioning, Lee Meng buckled. In addition, the old Chinese desk with a false drawer that Chin Peng had ordered her to buy earlier was found in the house.[^21] Inside the drawer were communist documents waiting to be disseminated – ample proof of her role as being part of Chin Peng’s courier network. Lee Meng was subsequently remanded in Taiping Jail to await trial.
 
-<img src="/images/Vol-14-issue-1/hunting-down-the-malayan/Hunt7.JPG">
+<img style="width: 450px; height: 300px;" src="/images/Vol-14-issue-1/hunting-down-the-malayan/Hunt7.JPG">
 <div style="background-color: white;">Chin Peng (right), Secretary-General of the Malayan Communist Party, seen here with Rashid Maidin, one of the few Malay communist leaders and a trusted aide of Chin Peng (undated photo). <i>Image source: Chin, P. (2003). My Side of History (p. 513). Singapore: Media Masters Pte Ltd. (Call no. R SING 959.5104092 CHI).</i></div>
 
 #### **The Aftermath**
@@ -125,7 +125,7 @@ Lee Meng was incarcerated at Taiping Jail until her release and banishment to Ch
 
 In China, she was reunited with her mother, whom she cared for until the latter passed on. She also met Chen Tien, Chin Peng’s “trusted aide and comrade”,[^26] and married him in 1965. He passed away on 3 September 1990 from lung cancer.[^27] In August 2007, Lee Meng visited Malaysia. During her visit, she called on one of her trial lawyers, Lim Phaik Gan, to thank her for “securing her release”.[^28] It was reported that Lee Meng passed away in Guangzhou, China, on 2 June 2012 at the age of 86.
 
-<img src="/images/Vol-14-issue-1/hunting-down-the-malayan/Hunt8.JPG">
+<img style="width: 350px; height: 450px;" src="/images/Vol-14-issue-1/hunting-down-the-malayan/Hunt8.JPG">
 <div style="background-color: white;">Lee Meng (left), former head courier of the Malayan Communist Party, at age 80, seen here with two friends. <i>Image source: Zheng, Z. (2007). 陈田夫人: 李明口述历史 (p. 3). Petaling Jaya: 策略资讯研究中心. (Call no.: 324.2595075092 ZZX).</i></div>
 
 ###### Irene Lee
