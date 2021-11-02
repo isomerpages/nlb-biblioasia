@@ -90,28 +90,28 @@ Published in 1900, The Triad Society: Or, Heaven and Earth Association was writt
 
 [^4]:Freemasonry is a secular fraternal order, traditionally encompassing male members only and which traces its origins to ancient times. Members are taught the society’s principles through rituals and symbols, and although it is not a religious order, members are expected to follow certain rules of morality and spirituality.
 
-[^5]:Röttger, E.H. (1852). Geschichte der brüderschaft des himmels und der erden: Der communistischen propaganda China’s. Berlin: In Commission bel Wilhlelm Hertz. (Call no.: RRARE 366.0951; Microfilm no.: NL24374)
+[^5]:Röttger, E.H. (1852). *[Geschichte der brüderschaft des himmels und der erden: Der communistischen propaganda China’s](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13072274)*. Berlin: In Commission bel Wilhlelm Hertz. (Call no.: RRARE 366.0951; Microfilm no.: NL24374)
 
-[^6]:The Thian Ti Hwui was originally published as second of three studies by Gustave Schlegel in a single volume with the general title, Verhandelingen van het Bataviassch Genootschap van Kunsten en Wetenschappen, Deel XXXII. The other two works by Schlegel in this volume include the original editions of the Hoa Tsien Ki, of, Geschiedenis van het Gebloemde Briefpapier: Chinesche Roman (Dutch Translation of a Chinese Literary Work) and the Lets over De Prostitutie in China (Schlegel’s Study of Prostitution in China). The National Library’s copy of Thian Ti Hwui is also bound together with these two works.
+[^6]:The Thian Ti Hwui was originally published as second of three studies by Gustave Schlegel in a single volume with the general title, *Verhandelingen van het Bataviassch Genootschap van Kunsten en Wetenschappen, Deel XXXII*. The other two works by Schlegel in this volume include the original editions of the Hoa Tsien Ki, of, *Geschiedenis van het Gebloemde Briefpapier: Chinesche Roman* (Dutch Translation of a Chinese Literary Work) and the *Lets over De Prostitutie in China* (Schlegel’s Study of Prostitution in China). The National Library’s copy of Thian Ti Hwui is also bound together with these two works.
 
-[^7]:[Chinese secret societies: A collection of manuscripts and documents relating to secret societies in Penang]. (1867). (Call no.: RRARE 364.10609595113 CHI; Microfilm no.: NL18296)
+[^7]:[*[Chinese secret societies: A collection of manuscripts and documents relating to secret societies in Penang](https://eservice.nlb.gov.sg/itemholding.aspx?bid=6323562)*]. (1867). (Call no.: RRARE 364.10609595113 CHI; Microfilm no.: NL18296)
 
 [^8]:The full report, including testimonies from the 71 witnesses interviewed, was presented at the Straits Settlements Legislative Council in 1868.
 
-[^9]:Comber, L. (1959). Chinese secret societies in Malaya: A survey of the Triad Society from 1800−1900 (pp. 110−112). New York: Published for the Association for Asian Studies by J.J. Augustin. (Call no.: RDTYS 366.09595 COM); Straits Settlements. (1868). Report of the Commissioners appointed under act XXI of 1867, to enquire into the Penang riots; Together with proceedings of the committee, minutes of evidence and appendix (p. vi). Penang: Colonial Government of the Straits Settlements. Penang: Colonial Government of the Straits Settlements. (Call no.: RRARE 366.0951 STA; Microfilm no.: NL1100) 
+[^9]:Comber, L. (1959). *[Chinese secret societies in Malaya: A survey of the Triad Society from 1800−1900](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4096231)* (pp. 110−112). New York: Published for the Association for Asian Studies by J.J. Augustin. (Call no.: RDTYS 366.09595 COM); Straits Settlements. (1868). *[Report of the Commissioners appointed under act XXI of 1867, to enquire into the Penang riots; Together with proceedings of the committee, minutes of evidence and appendix](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201349594)* (p. vi). Penang: Colonial Government of the Straits Settlements. Penang: Colonial Government of the Straits Settlements. (Call no.: RRARE 366.0951 STA; Microfilm no.: NL1100) 
 
-[^10]:Murray & Qin, 1994, p. 97.
+[^10]:[Murray & Qin](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6884269), 1994, p. 97.
 
-[^11]:Ward, J.S M., & Stirling, W.G. (1925–1926). The Hung Society or the Society of Heaven and Earth. London: The Baskerville Press. (Call no.: RRARE 366.09595 WAR; Microfilm no.: NL25414)
+[^11]:Ward, J.S M., & Stirling, W.G. (1925–1926). *[The Hung Society or the Society of Heaven and Earth](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5028965)*. London: The Baskerville Press. (Call no.: RRARE 366.09595 WAR; Microfilm no.: NL25414)
 
-[^12]:Murray & Qin, 1994, p. 100.
+[^12]:[Murray & Qin](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6884269), 1994, p. 100.
 
-[^13]:Lim, 1999, p. 15.
+[^13]:[Lim](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9373792), 1999, p. 15.
 
-[^14]:Stanton, W.J. (1900). The Triad Society: Or, Heaven and Earth Association. Hong Kong: Printed by Kelly & Walsh. (Call no.: RRARE 366.0951 STA; Microfilm no.: NL25923)
+[^14]:Stanton, W.J. (1900). *[The Triad Society: Or, Heaven and Earth Association](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5848711)*. Hong Kong: Printed by Kelly & Walsh. (Call no.: RRARE 366.0951 STA; Microfilm no.: NL25923)
 
-[^15]:Murray & Qin, 1994, p. 100.
+[^15]:[Murray & Qin](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6884269), 1994, p. 100.
 
-[^16]:Wynne, M.L. (1941). Triad and tabut: A survey of the origin and diffusion of Chinese and Mohamedan secret societies in the Malay Peninsula A.D 1800–1935. Singapore: Government Printing Office. (Call no.: RRARE 366.09595 WYN; Microfilm nos.: NL9715, NL6705)
+[^16]:Wynne, M.L. (1941). *[Triad and tabut: A survey of the origin and diffusion of Chinese and Mohamedan secret societies in the Malay Peninsula A.D 1800–1935](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981846)*. Singapore: Government Printing Office. (Call no.: RRARE 366.09595 WYN; Microfilm nos.: NL9715, NL6705)
 
-[^17]:Wong, L.K., & Wong, C.S. (1960, March). Secret Societies in Malaya. Journal of Southeast Asian history, 1 (1), 97–114, pp. 97–98. Retrieved from JSTOR via NLB’s eResources website.
+[^17]:Wong, L.K., & Wong, C.S. (1960, March). Secret Societies in Malaya. *[Journal of Southeast Asian history, 1](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=2625011)* (1), 97–114, pp. 97–98. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
