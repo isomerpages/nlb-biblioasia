@@ -176,54 +176,54 @@ Passing for a quasi-documentary on natives of the South Seas, Samarang depicted 
 
 [^21]:Untitled. (1933, March 25). The Malayan Saturday Post, p. 14. Retrieved from NewspaperSG. 
 
-[^22]:Deep mystery of “Man-Eater”. (1933, May 21). The Straits Times, p. 9; Notes of the day: “Devil” insects. (1934, May 23). The Straits Times, p. 10. Retrieved from NewspaperSG.
+[^22]:[Deep mystery of “Man-Eater”](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19330521-1.2.55). (1933, May 21). *The Straits Times*, p. 9; [Notes of the day: “Devil” insects](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19340523-1.2.62). (1934, May 23). *The Straits Times*, p. 10. Retrieved from NewspaperSG.
 
-[^23]:“Devil Tiger” (1934, May 11). The Singapore Free Press and Mercantile Advertiser, p. 2. Retrieved from NewspaperSG; Solomon, A. (2011). The Fox Film Corporation, 1915–1935: A history and filmography (p. 190). Jefferson, N.C.: McFarland. (Not available in NLB holdings)
+[^23]:[“Devil Tiger”](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19340511-1.2.16) (1934, May 11). *The Singapore Free Press and Mercantile Advertiser*, p. 2. Retrieved from NewspaperSG; Solomon, A. (2011). *The Fox Film Corporation, 1915–1935: A history and filmography* (p. 190). Jefferson, N.C.: McFarland. (Not available in NLB holdings)
 
-[^24]:New film of Singapore. (1936, March 20). The Singapore Free Press and Mercantile Advertiser, p. 6. Retrieved from NewspaperSG.
+[^24]:[New film of Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19360320-1.2.42). (1936, March 20). *The Singapore Free Press and Mercantile Advertiser*, p. 6. Retrieved from NewspaperSG.
 
-[^25]:Geraghty, G., Hume, C. (Writers) & Thiele, W. (Director). (1936). The jungle princess [Movie]. Retrieved from IMDB website.
+[^25]:Geraghty, G., Hume, C. (Writers) & Thiele, W. (Director). (1936). *The Jungle Princess* [Movie]. Retrieved from IMDB website.
 
-[^26]:Van der Heide, W. (2002). Malaysian cinema, Asian film: Border crossings and national cultures (p. 128). Amsterdam: Amsterdam University Press. (Call no.: RSEA 791.43 VAN). The Jungle Princess is also commercially available on DVD.
+[^26]:Van der Heide, W. (2002). *[Malaysian cinema, Asian film: Border crossings and national cultures](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11901462)* (p. 128). Amsterdam: Amsterdam University Press. (Call no.: RSEA 791.43 VAN). *The Jungle Princess* is also commercially available on DVD.
 
-[^27]:“Jungle Princess” with a lisp. (1937, April 1). The Singapore Free Press and Mercantile Advertiser, p. 2; Page 7 advertisements column 1: “The Jungle Princess”. (1937, April 2). The Singapore Free Press and Mercantile Advertiser, p. 7; Page 7 advertisements column 2: “The Jungle Princess”. (1937, July 8). The Singapore Free Press and Mercantile Advertiser, p. 7. Retrieved from NewspaperSG.
+[^27]:[“Jungle Princess” with a lisp](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19370401-1.2.15). (1937, April 1). *The Singapore Free Press and Mercantile Advertiser*, p. 2; [Page 7 advertisements column 1: “The Jungle Princess”](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19370402-1.2.61.1). (1937, April 2). *The Singapore Free Press and Mercantile Advertiser*, p. 7; [Page 7 advertisements column 2: “The Jungle Princess”](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19370708-1.2.82.2). (1937, July 8). *The Singapore Free Press and Mercantile Advertiser*, p. 7. Retrieved from NewspaperSG.
 
-[^28]:Van der Heide, 2002, p. 128.
+[^28]:[Van der Heide](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11901462), 2002, p. 128.
 
-[^29]:Elliott, C.E. (Writer & Director). (1938). Booloo [Movie]. Retrieved from IMDB website.
+[^29]:Elliott, C.E. (Writer & Director). (1938). *Booloo* [Movie]. Retrieved from IMDB website.
 
-[^30]:Real Malayan jungle for screen. (1937, July 18). The Straits Times, p. 5; Ten tons of film kit for jungle picture. (1937, August 17). The Straits Times, p. 13. Retrieved from NewspaperSG.
+[^30]:[Real Malayan jungle for screen](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19370718-1.2.39). (1937, July 18). *The Straits Times*, p. 5; [Ten tons of film kit for jungle picture](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19370817-1.2.66). (1937, August 17). *The Straits Times*, p. 13. Retrieved from NewspaperSG.
 
-[^31]:Untitled. (1937, August 5). The Straits Times, p. 12. Retrieved from NewspaperSG.
+[^31]:[Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19370805-1.2.70.4). (1937, August 5). *The Straits Times*, p. 12. Retrieved from NewspaperSG.
 
-[^32]:Movie cameras click in jungle. (1937, November 21). The Straits Times, p. 2. Retrieved from NewspaperSG.
+[^32]:[Movie cameras click in jungle](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19370805-1.2.70.5). (1937, November 21). *The Straits Times*, p. 2. Retrieved from NewspaperSG.
 
-[^33]:Dorothy Lamour type sought. (1937, August 5). The Straits Times, p. 12; “Booloo” girl not found yet. (1937, September 19). The Straits Times, p. 5; Australis, C. (1937, November 20). Notes of the day: Coy officers. The Straits Times, p. 10. Retrieved from NewspaperSG
+[^33]:[Dorothy Lamour type sought](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19370805-1.2.70.5). (1937, August 5). *The Straits Times*, p. 12; [“Booloo” girl not found yet](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19370919-1.2.45). (1937, September 19). *The Straits Times*, p. 5; Australis, C. (1937, November 20). [Notes of the day: Coy officers](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19371120-1.2.49). *The Straits Times*, p. 10. Retrieved from NewspaperSG
 
-[^34]:Fred Pullen protests to Hollywood. (1938, September 10). The Singapore Free Press and Mercantile Advertiser, p. 9. Retrieved from NewspaperSG.
+[^34]:[Fred Pullen protests to Hollywood](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19380910-1.2.80). (1938, September 10). *The Singapore Free Press and Mercantile Advertiser*, p. 9. Retrieved from NewspaperSG.
 
-[^35]:Brady, T.F. (1942, May 24). Hollywood’s story marts dry up. The New York Times, p. X3.
+[^35]:Brady, T.F. (1942, May 24). Hollywood’s story marts dry up. *The New York Times*, p. X3.
 
-[^36]:The Singapore Free Press and Mercantile Advertiser, 10 Sep 1938, p. 9.
+[^36]:*[The Singapore Free Press and Mercantile Advertiser](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19380910-1.2.80)*, 10 Sep 1938, p. 9.
 
-[^37]:Braddell, R.St.J. (1935). The lights of Singapore (p. 122). London: Methuen. (Call no.: RDKSC 959.57 BRA)
+[^37]:Braddell, R.St.J. (1935). *[The lights of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4499990)* (p. 122). London: Methuen. (Call no.: RDKSC 959.57 BRA)
 
 [^38]:Toh, H.P. (2013, January 18). “Singapore is the MacGuffin: Location scouting in “Rich and Strange”. Retrieved from The Hunter website.
 
-[^39]:The Straits Times, 19 Sep 1937, p. 5.
+[^39]:*[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19370919-1.2.45),*, 19 Sep 1937, p. 5.
  
-[^40]:The Straits Times, 19 Sep 1937, p. 5.
+[^40]:*[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19370919-1.2.45),* 19 Sep 1937, p. 5.
  
-[^41]:Samarang: Highlights of the film. (1933, September 29). Alhambra Magazine. (Not available in NLB holdings); Wright, N.H. (2003). Respected citizens: The history of Armenians in Singapore and Malaysia (p. 293). Middle Park, Vic.: Amassia Publishing. (Call no.: RSING 305.891992 WRI); Who’s Who in Malaya, 1939. (1939). Singapore: Fishers Ltd. (Call no.: RCLOS 920.9595 WHO); Thrills by Edgar Wallace. (1932, October 3) The Straits Times, p. 12. Retrieved from NewspaperSG.
+[^41]:Samarang: Highlights of the film. (1933, September 29). *Alhambra Magazine*. (Not available in NLB holdings); Wright, N.H. (2003). *[Respected citizens: The history of Armenians in Singapore and Malaysia](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12231618)* (p. 293). Middle Park, Vic.: Amassia Publishing. (Call no.: RSING 305.891992 WRI); *[Who’s Who in Malaya, 1939](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5627978)*. (1939). Singapore: Fishers Ltd. (Call no.: RCLOS 920.9595 WHO); [Thrills by Edgar Wallace](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19321003-1.2.74). (1932, October 3) *The Straits Times*, p. 12. Retrieved from NewspaperSG.
 
-[^42]:Trial of Malay film talent. (1932, October 10). Singapore Daily News, p. 6. Retrieved from NewspaperSG
+[^42]:[Trial of Malay film talent](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singdailynews19321010-1.2.71). (1932, October 10). *Singapore Daily News*, p. 6. Retrieved from NewspaperSG
 
-[^43]:Telling the world. (1933, September 20). Alhambra Magazine. (Not available in NLB holdings)
+[^43]:Telling the world. (1933, September 20). *Alhambra Magazine*. (Not available in NLB holdings)
 
-[^44]:Pearl and shark story filmed here. (1932, December 1). The Malaya Tribune, p. 9. Retrieved from NewspaperSG; Mortal combat of tiger shark and octopus in “Samarang” is remarkable camera record. (1933, September 20). Alhambra Magazine.
+[^44]:[Pearl and shark story filmed here](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19321201-1.2.52). (1932, December 1). *The Malaya Tribune*, p. 9. Retrieved from NewspaperSG; Mortal combat of tiger shark and octopus in “Samarang” is remarkable camera record. (1933, September 20). *Alhambra Magazine*.
 
-[^45]:Hall, M. (1933, June 29). Dramatic adventures of a pearl diver featured in a film at the Rivoli. The New York Times. Retrieved from The New York Times website.
+[^45]:Hall, M. (1933, June 29). Dramatic adventures of a pearl diver featured in a film at the Rivoli. *The New York Times*. Retrieved from The New York Times website.
 
-[^46]:Wing, W. (1933). Shark Woman, a.k.a. Samarang. Alpha Home Entertainment (Reprint in 2012). (Not available in NLB holdings)
+[^46]:Wing, W. (1933). *Shark Woman, a.k.a. Samarang. Alpha Home Entertainment* (Reprint in 2012). (Not available in NLB holdings)
 
-[^47]:Wing, 1933; Shocked by bathers. (1934, March 18). The Straits Times, p. 3. Retrieved from NewspaperSG.
+[^47]:Wing, 1933; [Shocked by bathers](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19340318-1.2.32). (1934, March 18). *The Straits Times*, p. 3. Retrieved from NewspaperSG.
