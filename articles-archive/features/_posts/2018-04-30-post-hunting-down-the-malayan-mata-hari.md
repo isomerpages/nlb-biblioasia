@@ -102,3 +102,24 @@ Upon further questioning, Lee Meng buckled. In addition, the old Chinese desk wi
 
 <img src="/images/Vol-14-issue-1/hunting-down-the-malayan/Hunt7.JPG">
 <div style="background-color: white;">Chin Peng (right), Secretary-General of the Malayan Communist Party, seen here with Rashid Maidin, one of the few Malay communist leaders and a trusted aide of Chin Peng (undated photo). <i>Image source: Chin, P. (2003). My Side of History (p. 513). Singapore: Media Masters Pte Ltd. (Call no. R SING 959.5104092 CHI).</i></div>
+
+#### **The Aftermath**
+
+######  Lee Meng
+
+When Lee Meng appeared before the Magistrate’s Court in Ipoh on 6 August 1952, she was charged with three offences – being armed with a pistol and a hand grenade between August 1948 and September 1951 in Ipoh, and for consorting “with persons who were carrying firearms and acting in a manner prejudicial to the maintenance of good order”.22 No references were made to her activities as a courier to avoid compromising Special Branch operations that were going on at the time and neither was she charged as a communist. The Special Branch hoped that when Chin Peng received news of her arrest, he would assume that her courier activities had not been exposed.
+
+In court, she denied that she was Lee Meng but Lee Ten Tai. She also denied ever living in the jungle and claimed that she did not know what a hand grenade was. However, several communist guerrillas testified in court that they had seen Lee Meng armed with grenades and was a senior MCP member.
+
+Lee Meng was initially found not guilty during her first trial on 27 August 1952. A retrial was ordered on 10 September the following month. This time, Lee Meng, now dubbed the “grenade girl” by the press,23 was pronounced guilty and sentenced to death.
+
+<img src="/images/Vol-14-issue-1/hunting-down-the-malayan/Hunt8.JPG">
+<div style="background-color: white;">Chin Peng (right), Secretary-General of the Malayan Communist Party, seen here with Rashid Maidin, one of the few Malay communist leaders and a trusted aide of Chin Peng (undated photo). <i>Image source: Chin, P. (2003). My Side of History (p. 513). Singapore: Media Masters Pte Ltd. (Call no. R SING 959.5104092 CHI).</i></div>
+
+According to one account, while Lee Meng was remanded in Taiping Jail, she tried to seduce the male jailer on night duty in an effort to become pregnant. She knew that British law did not permit a pregnant woman to be executed. Unfortunately for Lee Meng, the authorities discovered the plot and replaced him with a female jailer.
+
+During her retrial on 10 September 1952, Lee Meng appealed to the Malayan High Court against her death sentence but her case was dismissed on 14 November. She was returned to Taiping Jail to await her fate while her lawyers lodged an appeal to the Judicial Committee of the Privy Council in London on 14 February 1953. The appeal was unsuccessful and a petition for clemency was then sent to the Sultan of Perak on 23 February 1953. The petition was approved and just two weeks later on 9 March, Lee Meng’s death sentence was commuted to life imprisonment in Taiping Jail. While in prison, she passed her time knitting shawls and even learned to speak “superb Malay”.24
+
+But there was another twist to the Lee Meng story. Lee Meng’s trial had generated worldwide interest, with the government receiving petitions for her to be spared the death penalty. Moreover, the Cold War between the Soviet Union and Eastern Bloc countries and the United States and its NATO allies was in full swing. Both sides conducted espionage activities on each other to gain the upper hand in the battle for dominance.
+
+It was against this backdrop, on 2 March 1953, that the Hungarian government offered to swap Lee Meng for a British businessman, Edgar Sanders, who was serving a 13-year jail sentence in Budapest for espionage. Almost overnight Lee Meng’s case became a *cause celèbre*.25 However, the offer of a prisoner swap was turned down by the British.
