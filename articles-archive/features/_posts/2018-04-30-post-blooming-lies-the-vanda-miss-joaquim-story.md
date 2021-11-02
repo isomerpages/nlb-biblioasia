@@ -201,7 +201,7 @@ The hybridisation of a plant involves two steps. First, pollination takes place 
 <b>Linda Locke</b> is a great grand-niece of Agnes Joaquim. She is a former advertising CEO and the co-author of the recently released children’s book: <i>Agnes and her Amazing Orchid</i>.
 <br><br>
 <img src="/images/Vol-14-issue-1/blooming-lies/Blooming13.jpg" style="width: 100px; height: 100px;">
-<b>Harold Johnson</b>, is an orchid enthusiast. The second edition of his book with Nadia Wright entitled <i>Vanda Miss Joaquim: Singapore's National Flower & the Legacy of Agnes & Ridley</i> will be published in late 2018.
+<b>Harold Johnson</b> is an orchid enthusiast. The second edition of his book with Nadia Wright entitled <i>Vanda Miss Joaquim: Singapore's National Flower & the Legacy of Agnes & Ridley</i> will be published in late 2018.
 </div>
 <br>
 <a href="https://biblioasia.nlb.gov.sg/vol-14/issue-1/apr-jun-2018/"><center>Back to Issue</center></a>
@@ -225,7 +225,7 @@ The hybridisation of a plant involves two steps. First, pollination takes place 
 [^16]:Wright, N. H. (2000). The origins of Vanda Miss Joaquim. [*Malayan Orchid Review*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5042537), 34, pp. 70–73. (Call no.: RSING 584.15 MOR)
 [^17]:[Teoh](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=3520904), (1982), p. 32; Yam T. W., Arditti, J., & Hew C. S. (2004). The origin of *Vanda* Miss Joaquim. [*Malayan Orchid Review*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5042537), 38, p. 93. (Call no.: RSING 584.15 MOR)
 [^18]:Wright, N. H. (2003). [*Respected citizens: The history of Armenians in Singapore and Malaysia*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12231618) (p. 150). Middle Park, Vic.: Amassia Publishing. (Call no.: RSING 305.891992 WRI)
-[^19]:Wright, N. H. (2004). A re-examination of the origins of *Vanda* Miss Joaquim. *Orchid Review, 112* (1259), pp. 292–298; Human Flower Project. (2005, August). *Miss Agnes’s big little secret*. Retrieved from Human Flower Project website; Arditti, J., & Hew, S.H. (2005) Letter to the editor. *The Orchid Review*, 113 (1263), pp. 176–177.
+[^19]:Wright, N. H. (2004). A re-examination of the origins of *Vanda* Miss Joaquim. *Orchid Review, 112* (1259), pp. 292–298; Human Flower Project. (2005, August). *Miss Agnes’s big little secret*. Retrieved from Human Flower Project website; Arditti, J., & Hew, S.H. (2005) Letter to the editor. *The Orchid Review, 113* (1263), pp. 176–177.
 [^20]:Hew, C.S., Yam, T.W., & Arditti, J. (2002). [*Biology of Vanda Miss Joaquim*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11327703) (pp. 222–224). Singapore: Singapore University Press. (Call no.: RSING 584.4095957 HEW)
 [^21]:[Hew, Yam & Arditti](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11327703), 2002, p. 41.
 [^22]:[Hew, Yam & Arditti](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11327703), 2002, p. 179; [Miss Joaquim’s nephew coming for Flower Week](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19810719-1.2.29). (1981, July 19). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
@@ -234,7 +234,7 @@ The hybridisation of a plant involves two steps. First, pollination takes place 
 [^25]:[Hew, Yam & Arditti](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11327703), 2002, p. 223; Arditti & Hew, 2005, p. 176.
 [^26]:Arditti & Hew, 2005, p. 176.
 [^27]:Arditti, J. (1992). Fundamentals of orchid biology (p. 43). New York: Wiley. (Not available in NLB holdings)
-[^28]:Notes on monthly meetings. (1957). [*Malayan Orchid Review*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5042537), 5 (2), p. 30. (Call no.: RSING 584.15 MOR); Yeoh, B.C. (1959). Kinta weed. [*Malayan Orchid Review*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5042537), 5, p. 81. (Call no.: RSING 584.15 MOR)
+[^28]:Notes on monthly meetings. (1957). [*Malayan Orchid Review*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5042537)*, 5* (2), p. 30. (Call no.: RSING 584.15 MOR); Yeoh, B.C. (1959). Kinta weed. [*Malayan Orchid Review*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5042537), 5, p. 81. (Call no.: RSING 584.15 MOR)
 [^29]:Citing Yeoh Bok Choon’s *List of Malayan Hybrids*, 1963, p. v, which mentioned that of 62 individual breeders, 31 produced only one hybrid.
 [^30]:Arditti & Hew, 2005, p. 177.
 [^31]:[Yam, Arditti & Hew](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5042537), 2004, p. 92.
@@ -245,7 +245,7 @@ The hybridisation of a plant involves two steps. First, pollination takes place 
 [^36]:Ridley, H.N.  *Notebook 1891–1896 Fertilization Notes*, AJCP, M. 771, reel 42, frame 255. Also see Ridley, H.N. (1905, July). On the fertilization of the grammatophyllum. *Journal of the Straits Branch of the Royal Asiatic Society*, 44, pp. 228–229. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
 [^37]:Arditti, J. (2005, April 26). *You say orchid, I say Joaquim*. Retrieved from dsng.net website.
 [^38]:Johnson, H. J. (2004). Vanda Miss Joaquim. [*Malayan Orchid Review*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5042537)*, 38*, pp. 99–107. (Call no.: RSING 584.15 MOR) [Note: Linda Locke added more to that list of literature in 2017].
-[^39]:Holttum, R. E. (1928). Vanda Miss Joaquim. [*Malayan Naturalist*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5042530), 2 (1), pp. 22, 24. (Call no.: RRARE 574.9595 MAL; Microfilm no.: NL 6582)
+[^39]:Holttum, R. E. (1928). Vanda Miss Joaquim. [*Malayan Naturalist*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5042530)*, 2* (1), pp. 22, 24. (Call no.: RRARE 574.9595 MAL; Microfilm no.: NL 6582)
 [^40]:Holttum, R. E. (1972). And comments. *The Orchid Review, 80* (951), p. 168. (Not available in NLB holdings)
 [^41]:Purseglove, J. W. (1955, December 10). *The Ridley Centennial*, mss.
 [^42]:Arditti, J., & Hew, C.S. (2007). The origins of Vanda Miss Joaquim (pp. 290-291). In *Orchid Biology. Reviews and Perspectives, IX*. (Not available in NLB holdings)
