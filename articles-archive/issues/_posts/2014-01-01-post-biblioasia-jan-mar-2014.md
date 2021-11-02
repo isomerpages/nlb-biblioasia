@@ -26,4 +26,4 @@ layout: post
 
 [<b>Old Singapore: Places in Pictures and Oral History</b>](/vol-9/issue-4/jan-march-2014/old-sg)<br>
 
-[<b>Poet And Reformist</b>](/vol-9/issue-4/jan-march-2014/asdasd)<br>
+[<b>Poet And Reformist</b>](/vol-9/issue-4/jan-march-2014/par)<br>
