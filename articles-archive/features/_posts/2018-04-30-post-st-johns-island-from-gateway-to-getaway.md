@@ -95,3 +95,38 @@ In 1948, parts of St John’s Island were converted into a detention centre for 
 
 <img src="/images/Vol-14-issue-1/st-johns-island/StJohn6.JPG">
 <div style="background-color: white;">In 1948, part of St John’s Island was converted into a detention centre for political prisoners. In 1956, C.V. Devan Nair (extreme right) – who became Singapore’s third president in 1981 – along with (from left to right) Lim Chin Siong, Sydney Woodhull and Fong Swee Suan, his colleagues from the People’s Action Party (PAP), were detained on St John’s until the PAP was returned to power in 1959. This photo was taken by Lee Kuan Yew, the first prime minister of Singapore, in 1959. <i>Photograph taken by the late Mr Lee Kuan Yew, courtesy of National Archives of Singapore.</i></div>
+
+C.V. Devan Nair, who became Singapore’s third president in 1981, was among those detained on St John’s Island for anti-colonial activities. With little else to do but immerse himself in books, Nair dubbed the island “St John’s University”.36 His studies were interrupted one fateful day in 1952 by a visitor who described the island thus:
+
+“There, amid beautiful old tembusu trees, stood some government holiday bungalows, and not far away, long rows of barrack-like buildings surrounded by chain-link fences for opium addicts undergoing rehabilitation. One of the bungalows was also ringed with chain-link topped with barbed wire. This housed the political detainees”.37
+
+That visitor was a young anti-colonial lawyer named Lee Kuan Yew, and the fateful meeting between the two men led to Nair becoming one of the convenors of the People’s Action Party (PAP) at its founding in 1954. Nair would later be detained again in 1956, along with his party comrades Fong Swee Suan, Lim Chin Siong and Sydney Woodhull, until their release in 1959 when the PAP returned  to  power38 in the Legislative Assembly general election that gave Singapore the right to self-government and paved the way for Lee to become the first prime minister of Singapore.
+
+#### **An Island Getaway**
+
+By the mid-1970s, plans were afoot to convert Singapore’s southern islands into beachside holiday destinations.39 In part, these developments were aimed at replacing a stretch of the shoreline at Changi that would be buried under the new airport.40 St John’s Island would join Kusu, Sisters’ Islands and Sentosa to become an idyllic getaway from the confines of the congested mainland.
+
+Meanwhile, before any transformation into island paradise could take place, St John’s island housed a final batch of “detainees”: about 1,000 Vietnamese refugees fleeing their homeland, who occupied the island between May and October 1975 as they awaited resettlement in the West.41
+
+Since 1976, St John’s Island has become entrenched in the memories of a new generation of Singaporeans: as a site for offshore school camps, holiday bungalows, wet and wild weekends at its swimming lagoons protected by walls of rock. It is also fondly known as “cat island” to some, in reference to the abandoned felines that now outnumber children in the corridors of a former primary school established in the 1950s for families of staff residing on the island.42
+
+<img src="/images/Vol-14-issue-1/st-johns-island/StJohn7.JPG">
+<div style="background-color: white;">Scores of cats now dwell at the former school premises on St John’s Island. Photo taken by Marcus Ng on 2 September 2014. <i>Courtesy of Marcus Ng.</i></div>
+
+Echoes of the past returned in 1999, when fences and barbed wire lined parts of St John’s Island as the authorities braced for a wave of illegal migrants fleeing political turmoil in Indonesia.43 Thankfully, the storm abated but the fences still stand, perhaps as a precautionary measure.
+
+In the interim, the two St John’s Islands were conjoined by a causeway. Further plans for a “canal-laced marine village with recreational and mooring facilities and waterfront housing” failed to materialise as the business climate changed.44 Singaporeans, sparked perhaps by the preservation of Chek Jawa on Pulau Ubin, also began to see their islands less as “underutilised” spaces than as treasures of national and natural heritage.
+
+New landmarks emerged in the 2000s: a Marine Aquaculture Centre where seabass are bred, and Singapore’s only offshore Marine Laboratory where researchers investigate diverse facets of marine science, ranging from giant clams to coral ecology and anti-fouling solutions for the shipping industry. Another milestone occurred in 2014 when St John’s western shore was designated part of the Sisters’ Islands Marine Park.45
+
+A signboard at the end of the jetty invites visitors to explore the Marine Park’s Public Gallery on the island’s southern peak. The path from the jetty runs through compounds of barbed wire and beckons towards a row of low houses, home to the island’s last residents.46 Turn left and the trail winds past old bungalows, lush mangroves where fiddler crabs frolic at low tide, and patches of coastal forest. On the other side of the island are the former quarantine quarters turned campsites, which overlook beaches that still attract sizeable crowds on weekends.
+
+The bustling city seethes beyond St John’s seawalls, always looming but still far enough to imagine that the island, as it was in the not-too-distant past, is not where Singapore ends, in space and thought, but a gateway to hope, to promise, to a future in harmony with its history and habitats.
+
+<br>
+<div style="background-color: white;">
+<img src="/images/Vol-14-issue-1/st-johns-island/StJohn8.jpg" style="width: 100px; height: 100px;">
+<b>Marcus Ng</b> is a freelance writer, editor and curator interested in biodiversity, ethnobiology and the intersection between natural and human histories. His work includes the book <i>Habitats in Harmony: The Story of Semakau Landfill</i> (2009 and 2012), and two exhibitions at the National Museum of Singapore: <i>Balik Pulau: Stories from Singapore’s Islands</i> and <i>Danger and Desire</i>.
+</div>
+
+<a href="https://biblioasia.nlb.gov.sg/vol-14/issue-1/apr-jun-2018/"><center>Back to Issue</center></a>
