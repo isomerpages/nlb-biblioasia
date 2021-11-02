@@ -4,7 +4,6 @@ date: 2018-04-30
 permalink: /vol-14/issue-1/apr-jun-2018/blooming-lies-vandaj/
 layout: post
 ---
-
 #### Is the *Vanda* Miss Joaquim a human-made hybrid or a happy accident? In this cautionary tale, **Nadia Wright, Linda Locke and Harold Johnson** recount how fiction becomes truth when it is repeated often enough.
 
 <img style="width: 380px; height: 350px;" src="/images/Vol-14-issue-1/blooming-lies/Blooming1.JPG">
@@ -12,16 +11,16 @@ layout: post
 
 *While doing research on the Armenian community in Singapore back in the 1990s, Australian historian Nadia Wright read an account of how the daughter of a prominent Armenian family in Singapore, Agnes Joaquim[^1] (Ashken Hovagimian), had stumbled upon a never-before-seen orchid bloom by accident in the family garden.*
 
-*In the authoritative The Gardeners’ Chronicle, published on 24 June 1893, however, Henry Nicholas Ridley, the first Director of the Singapore Botanic Gardens (1888−1911) stated unequivocally that Agnes Joaquim had crossed two different orchids, the Vanda Hookeriana with the Vanda teres and produced the orchid which he later named Vanda Miss Joaquim.[^2] Intrigued as to why Ridley’s account had been replaced by a tale of chance discovery in various stories about the flower in Singapore, Wright decided to investigate.*
+*In the authoritative* The Gardeners’ Chronicle, *published on 24 June 1893, however, Henry Nicholas Ridley, the first Director of the Singapore Botanic Gardens (1888−1911) stated unequivocally that Agnes Joaquim had crossed two different orchids, the* Vanda Hookeriana *with the* Vanda teres *and produced the orchid which he later named* Vanda *Miss Joaquim.[^2] Intrigued as to why Ridley’s account had been replaced by a tale of chance discovery in various stories about the flower in Singapore, Wright decided to investigate.*
 
 #### **The Birth of a Bloom**
 
 In 1893, Agnes Joaquim, or possibly her brother Joe (Joaquim P. Joaquim), showed Henry Ridley a new orchid. After carefully examining the bloom, having it sketched, and preserving a specimen in the herbarium of the Botanic Gardens, Ridley sent an account of the orchid’s origin and appearance to *The Gardeners’ Chronicle*, a respected English horticulture periodical founded in 1841. He wrote:
 
-“A few years ago Miss Joaquim, a lady residing in Singapore, well-known for her success as a horticulturist, succeeded in crossing Vanda Hookeriana, Rchb. f., and V. teres, two plants cultivated in almost every garden in Singapore. Unfortunately, no record was kept as to which was used as the male. The result has now appeared in the form of a very beautiful plant, quite intermediate between the two species and as I cannot find any record of this cross having been made before, I describe it herewith”.[^3]
+“A few years ago Miss Joaquim, a lady residing in Singapore, well-known for her success as a horticulturist, succeeded in crossing Vanda Hookeriana, Rchb. f., and V. teres, two plants cultivated in almost every garden in Singapore. Unfortunately, no record was kept as to which was used as the male. The result has now appeared in the form of a very beautiful plant, quite intermediate between the two species and as I cannot find any record of this cross having been made before, I describe it herewith.”[^3]
 
 <img style="width: 350px; height: 450px;" src="/images/Vol-14-issue-1/blooming-lies/Blooming2.JPG">
-<div style="background-color: white;">This is the first published image of the Vanda Miss Joaquim. <i>Image source: The Gardeners’ Chronicle, 26 June 1897, p. 427, Biodiversity Heritage Library. Digitised by UMass Amherst Libraries.</i></div>
+<div style="background-color: white;">This is the first published image of the <i>Vanda</i> Miss Joaquim. <i>Image source: The Gardeners’ Chronicle, 26 June 1897, p. 427, Biodiversity Heritage Library. Digitised by UMass Amherst Libraries.</i></div>
 
 In an 1894 paper delivered to the prestigious Linnean Society in England, Ridley reiterated that *Vanda Hookeriana* had been “successfully crossed” with *V. teres, Lindl*., “producing a remarkably handsome offspring, *V. x Miss Joaquim*.” This paper was published unaltered in 1896.[^4]  Ridley, who lived to be 100 years old, never wavered in his statement. When Isaac Henry Burkill (Ridley’s successor at the Botanic Gardens) checked all of Ridley’s herbarium specimens and redid the labels, he saw no reason to dispute Ridley and recorded Joaquim as the creator.
 
