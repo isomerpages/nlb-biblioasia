@@ -172,9 +172,9 @@ The bustling city seethes beyond St John’s seawalls, always looming but still 
 [^38]:Ministry of Culture. (1959, February 8). [*The battle for merger – (from right) C V Devan Nair, Fong Swee Suan, S Woodhull and Lim Chin Siong at St John’s Island detention camp. The picture was taken by Lee Kuan Yew when he paid them a visit on Chinese New Year day in 1959*](http://www.nas.gov.sg/archivesonline/photographs/record-details/e87636dc-1161-11e3-83d5-0050568939ad) [Photograph] [Online]. Retrieved from National Archives of Singapore website.
 [^39]:Holmberg, J. (1976, December 3). [Islands in the sun](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19761203-1.2.69?ST). *New Nation*, pp. 10–11. Retrieved from NewspaperSG; Wong, P.P. (1992). The newly reclaimed land. In A. Gupta & J. Pitts (Eds.), [*Physical adjustments in a changing landscape: The Singapore story*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7472938) (p. 255). Singapore: Singapore University Press, National University of Singapore. (Call no.: RSING 915.95702 PHY-[TRA])
 [^40]:[St John’s Island to become holiday resort](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19760123-1.2.77?ST). (1976, January 23). *The Straits Times*, p. 13. Retrieved from NewspaperSG.
-[^41]:
-[^42]:
-[^43]:
-[^44]:
-[^45]:
-[^46]:
+[^41]:[Last 80 refugees get set to leave St John’s](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19751022-1.2.82?ST). (1975, October 22). *The Straits Times*, p. 19. Retrieved from NewspaperSG.
+[^42]:Nanyang Technological University Cat Club. (2016, December 27). *Heaven is filled… with cats*. Retrieved from NTU Cat Management Network website.
+[^43]:Lee, J. (1999, February 25). [Barbed wire, fences go up at St John’s](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19990225-1.2.36.10). *The Straits Times*, p. 28. Retrieved from NewspaperSG.
+[^44]:Singapore. Parliament. *Official reports – Parliamentary debates* (*Hansard*). (1996, October 28). Reclamation (Southern Islands) (Vol. 66, cols. 841–842). Retrieved from Parliament of Singapore website.
+[^45]:National Parks Board. (2017, December 14). *Sisters’ Island Marine Park*. Retrieved from National Parks Board website.
+[^46]:Azim Azman. (2015, May 18). Meet the last two people who still live on sleepy St John’s Island. The New Paper. Retrieved from AsiaOne website; Zaccheus, M. (2017, February 23). [Last islanders likely to get to remain on St John’s Island](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20170223-1.2.35.3). *The Straits Times*, p. 3. Retrieved from NewspaperSG.[Note: Sadly, one of the last residents, Mr Mohamed Sulih, passed away later in the year.]
