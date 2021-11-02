@@ -142,13 +142,13 @@ The bustling city seethes beyond St John’s seawalls, always looming but still 
 [^8]:[Government gazette](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18990325-1.2.38). (1899, March 25). *The Straits Times*, p. 2. Retrieved from NewspaperSG.
 [^9]:Haughton, H.T. (1889). Notes on names of places in the island of Singapore and its vicinity. *Journal of the Straits Branch of the Royal Asiatic Society, 20*, 79. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 [^10]:Barking deer or *kijang* (*Muntiacus muntjak*) are native to Singapore but were hunted to extinction in the 20th century. There are no records of barking deer on St John’s Island, but two deer were relocated to the island in 1906. See [Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19060116-1.2.54?ST). (1906, January 16). *The Straits Times*, p. 2; [Deer hunt of St John’s](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19060115-1.2.13?ST). (1906, January 15). *The Singapore Free Press and Mercantile Advertiser*, p. 3. Retrieved from NewspaperSG.
-[^11]:
-[^12]:
-[^13]:
-[^14]:
-[^15]:
-[^16]:
-[^17]:
-[^18]:
-[^19]:
-[^2]:
+[^11]:Thomas, G. (1805, March 19). [*Sketch of the Straits of Sincapore by Capt George Thomas*](http://eresources.nlb.gov.sg/printheritage/detailmap/088a61cf-503a-428b-a969-bd27a659fdf0.aspx) [map]. Retrieved from BookSG.
+[^12]:Raffles’ instructions to Farquhar, Resident and Commandant of Singapore, 6 Feb 1819. See Buckley, C.B. (1984). [*An anecdotal history of old times in Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082239) (p. 43). Singapore: Oxford University Press. (Call no.: RSING 959.57 BUC-[HIS]).
+[^13]:[Gunner Loughony, first P.R.O. of Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19561208-1.2.124?ST). (1956, December 8). *The Straits Times*, p. 27. Retrieved from NewspaperSG.
+[^14]:Bennett, G. (1834). [*Wanderings in New South Wales, Batavia, Petir Coast, Singapore, and China: Being the journal of a naturalist in those countries during 1832, 1833 and 1834*](http://eresources.nlb.gov.sg/printheritage/detail/1e01ed12-fab7-432c-8743-12b9fc3c93d5.aspx) (Vol. 2, pp. 218–221). London: Richard Bentley. Retrieved from BookSG.
+[^15]:Little, R. (1848). An essay on coral reefs as the cause of Blakan Mati fever, and of the fevers in various parts of the east. *The Journal of the Indian Archipelago and Eastern Asia, 2*, 591–592.  Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+[^16]:Ng, M. (2017, May–July). [Through time and tide: A survey of Singapore’s reefs](http://www.nlb.gov.sg/biblioasia/2017/04/06/through-time-and-tide-a-survey-of-singapores-reefs/#sthash.khjiS2RX.dpbs). *BiblioAsia, 13* (1). Retrieved from BiblioAsia website.
+[^17]:Lee, Y.K. (1978). [*The medical history of early Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=1848364) (p. 266). Tokyo: Southeast Asian Medical Information Center. (Call no.: RSING 610.95957 LEE).
+[^18]:A 1938 report proposed the erection of an annexe “for the examination of immigrants for early signs of leprosy”, but it seems unlikely that the British would have considered housing lepers on the island in close proximity with thousands of new migrants. See [St. John’s Island](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19380426-1.2.115?ST). (1938, April 26). *The Malaya Tribune*, p. 16. Retrieved from NewspaperSG.
+[^19]:Lee, Y.K. (1978, January). Quarantine in early Singapore (Part 2). [*Annals of the Academy of Medicine, Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=3358419)*, 7*(1), 81–87. Singapore: Academy of Medicine. (Call no.: RSING 610.5 AMSAAM).
+[^2]:[Legislative Council meeting 24 December 187](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18750109-1.2.9?ST)4. (1875, January 9). The Straits Times, p. 2; The “Milton”. (1874, November 19). Straits Times Overland Journal, p. 2. Retrieved from NewspaperSG.
