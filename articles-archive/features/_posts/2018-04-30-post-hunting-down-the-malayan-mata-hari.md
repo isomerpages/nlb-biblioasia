@@ -182,13 +182,23 @@ Tay, M. (2008, May 31). [Robinsons](http://eresources.nlb.gov.sg/newspapers/Digi
 Van Tonder, G. (2017). [*Malayan emergency: Triumph of the running dogs*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202978094) (p. 4). Barnsley: Pen and Sword Military. (Call no.: RSING 959.5104 VAN).
 
 #### **NOTES**
-[^1]:
-[^2]:
-[^3]:
-[^4]:
-[^5]:
+[^1]:Malaya was still under British rule in 1948. It gained independence on 31 August 1957 and became known as Malaysia on 16 September 1963 after representatives from Sabah, Sarawak and Singapore signed the Federation of Malaysia agreement on 9 July 1963.
+[^2]:Clague, P. (1980). [*Iron Spearhead: The true story of a communist killer squad in Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082295) (p. 3). Singapore: Heinemann Educational Books (Asia) Ltd. (Call no.: RSING 335.43095957 CLA).
+[^3]:[Clague](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082295), 1980, p. 3.
+[^4]:Chin, P. (2003). [*My side of history*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12106841) (p. 334). Singapore: Media Masters. (Call no.: RSING 959.5104092 CHI).
+[^5]:Stockwell, A.J. (2006, November). Chin Peng and the struggle for Malaya. *Journal of the Royal Asiatic Society, 16* (3), 279–297, p. 286. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
 [^6]:
 [^7]:
 [^8]:
 [^9]:
 [^10]:
+
+
+
+
+
+According to Leon Comber, the Kepayang Gang was involved in several deadly hand grenade attacks around Perak in 1949. These included the attack on the offices of the Kin Kwok Daily News (an anti-Communist newspaper) on 1 October 1949 and an attack on a circus audience in Kampar that same year.
+Short, A. (2000). In pursuit of mountain rats: The communist insurrection in Malaya (p. 384). Singapore: Cultured Lotus. (Call no.: RSING 959.5104 SHO)
+Short, 2000, p. 385.
+Chin, 2003, p. 348.
+The British Military Administration (BMA) ended when civilian rule was restored on 1 April 1946. See National Library Board. (2014). British Military Administration is established. Retrieved from HistorySG.
