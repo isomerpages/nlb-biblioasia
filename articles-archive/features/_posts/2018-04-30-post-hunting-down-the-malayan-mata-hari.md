@@ -157,26 +157,26 @@ Douglas, W.O. (1953). [*North from Malaya: Adventure on five fronts*](http://ese
 
 [Lee Meng](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19530224-1.2.17). (1953, February 24). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
 
-Lee Meng: Prison drama. (1953, March 10). The Straits Times, p. 1. Retrieved from NewspaperSG.
+[Lee Meng: Prison drama](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19530310-1.2.2). (1953, March 10). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
 
-Leong, H.M. (1953, March 10). ‘Grenade girl’ Lee Meng is reprieved. Singapore Standard, p. 1. Retrieved from NewspaperSG.
+Leong, H.M. (1953, March 10). [‘Grenade girl’ Lee Meng is reprieved](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19530310-1.2.4). *Singapore Standard*, p. 1. Retrieved from NewspaperSG.
 
-Malayan takes over as chief of women police. (1958, August 21). Singapore Standard. p. 2. Retrieved from NewspaperSG.
+[Malayan takes over as chief of women police](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19580821-1.2.10). (1958, August 21). *Singapore Standard*. p. 2. Retrieved from NewspaperSG.
 
-Malaysia History. (2012, June 30). The Malayan Emergency 1948–1960. Retrieved from Malayan History website.
+Malaysia History. (2012, June 30). *The Malayan Emergency 1948–1960*. Retrieved from Malayan History website.
 
-Miller, S. (2012, April 16). Malaya: The myths of hearts and minds. Small Wars Journal. Retrieved from Small Wars Journal website.
+Miller, S. (2012, April 16). Malaya: The myths of hearts and minds. *Small Wars Journal*. Retrieved from Small Wars Journal website.
 
-National Archives of Malaysia. (2018, January 23). Formation of Malaysia 16 September 1963. Retrieved from National Archives of Malaysia website.
+National Archives of Malaysia. (2018, January 23). *Formation of Malaysia 16 September 1963*. Retrieved from National Archives of Malaysia website.
 
-Pretty girl gave murder orders: Court told. (1952, August 28). The Straits Times, p. 1. Retrieved from NewspaperSG.
+[Pretty girl gave murder orders: Court told](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19520828-1.2.23). (1952, August 28). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
 
-Selamat bin Sainayune. (2007). Polis wanita: Sejarah bergambar 1955–2007 (p. 279). Petaling Jaya: Kelana Publications Sdn Bhd. (Call no.: Malay R 363.208209595 SEL)
+Selamat bin Sainayune. (2007). [*Polis wanita: Sejarah bergambar 1955–2007*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13105622) (p. 279). Petaling Jaya: Kelana Publications Sdn Bhd. (Call no.: Malay R 363.208209595 SEL)
 
-Such a surprise for Irene. (1956, January 4). The Straits Times, p. 7. Retrieved from NewspaperSG.
+[Such a surprise for Irene](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19560104-1.2.112). (1956, January 4). *The Straits Times*, p. 7. Retrieved from NewspaperSG.
 
-Tay, M. (2008, May 31). Robinsons. The Straits Times, p. 67. Retrieved from NewspaperSG.
+Tay, M. (2008, May 31). [Robinsons](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20080531-1.2.81.2.2). *The Straits Times*, p. 67. Retrieved from NewspaperSG.
 
-The grenade girl who also faced death. (1968, July 15). The Straits Times, p. 8. Retrieved from NewspaperSG.
+[The grenade girl who also faced death](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19680715-1.2.42). (1968, July 15). *The Straits Times*, p. 8. Retrieved from NewspaperSG.
 
-Van Tonder, G. (2017). Malayan emergency: Triumph of the running dogs (p. 4). Barnsley: Pen and Sword Military. (Call no.: RSING 959.5104 VAN)
+Van Tonder, G. (2017). [*Malayan emergency: Triumph of the running dogs*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202978094) (p. 4). Barnsley: Pen and Sword Military. (Call no.: RSING 959.5104 VAN)
