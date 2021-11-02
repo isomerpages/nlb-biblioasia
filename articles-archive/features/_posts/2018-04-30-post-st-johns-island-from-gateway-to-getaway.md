@@ -166,19 +166,15 @@ The bustling city seethes beyond St John’s seawalls, always looming but still 
 [^32]:[No more quarantine for deck passengers from China](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710603-1.2.101?ST). (1971, June 3). *The Straits Times*, p. 24. Retrieved from NewspaperSG.
 [^33]:[Teo & Liew](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12444793), 2004, p. 54.
 [^34]:[More prison space ready](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19480703-1.2.44?ST). (1948, July 3). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
-[^35]:Kaite, Y. (1942, October 1). Inhuman acts of British towards Nippon internees. The Shonan Times, p. 4; Untitled. (1950, November 27). The Straits Times, p. 6. Retrieved from NewspaperSG.
-[^36]:
-[^37]:
-[^38]:
-[^39]:
-[^4]:
-
-
-
-
-
-Seow, F. (1994). To catch a tartar: A dissident in Lee Kuan Yew’s prison (Foreword). New Haven: Yale University Southeast Asia Studies. (Call no.: RSING 365.45092 SEO)
-Lee, K.Y. (1998). The Singapore story: Memoirs of Lee Kuan Yew (p. 158). Singapore: Simon & Schuster. (Call no.: RCLOS 959.57 LEE)
-Ministry of Culture. (1959, February 8). The battle for merger – (from right) C V Devan Nair, Fong Swee Suan, S Woodhull and Lim Chin Siong at St John’s Island detention camp. The picture was taken by Lee Kuan Yew when he paid them a visit on Chinese New Year day in 1959 [Photograph] [Online]. Retrieved from National Archives of Singapore website.
-Holmberg, J. (1976, December 3). Islands in the sun. New Nation, pp. 10–11. Retrieved from NewspaperSG; Wong, P.P. (1992). The newly reclaimed land. In A. Gupta & J. Pitts (Eds.), Physical adjustments in a changing landscape: The Singapore story (p. 255). Singapore: Singapore University Press, National University of Singapore. (Call no.: RSING 915.95702 PHY-[TRA])
-St John’s Island to become holiday resort. (1976, January 23). The Straits Times, p. 13. Retrieved from NewspaperSG.
+[^35]:Kaite, Y. (1942, October 1). [Inhuman acts of British towards Nippon internees](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/syonantimes19421001-1.2.39?ST). *The Shonan Times*, p. 4; [Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19501127-1.2.78?ST). (1950, November 27). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
+[^36]:Seow, F. (1994). [*To catch a tartar: A dissident in Lee Kuan Yew’s prison*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7133981) (Foreword). New Haven: Yale University Southeast Asia Studies. (Call no.: RSING 365.45092 SEO).
+[^37]:Lee, K.Y. (1998). [*The Singapore story: Memoirs of Lee Kuan Yew*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200175845) (p. 158). Singapore: Simon & Schuster. (Call no.: RCLOS 959.57 LEE).
+[^38]:Ministry of Culture. (1959, February 8). [*The battle for merger – (from right) C V Devan Nair, Fong Swee Suan, S Woodhull and Lim Chin Siong at St John’s Island detention camp. The picture was taken by Lee Kuan Yew when he paid them a visit on Chinese New Year day in 1959*](http://www.nas.gov.sg/archivesonline/photographs/record-details/e87636dc-1161-11e3-83d5-0050568939ad) [Photograph] [Online]. Retrieved from National Archives of Singapore website.
+[^39]:Holmberg, J. (1976, December 3). [Islands in the sun](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19761203-1.2.69?ST). *New Nation*, pp. 10–11. Retrieved from NewspaperSG; Wong, P.P. (1992). The newly reclaimed land. In A. Gupta & J. Pitts (Eds.), [*Physical adjustments in a changing landscape: The Singapore story*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7472938) (p. 255). Singapore: Singapore University Press, National University of Singapore. (Call no.: RSING 915.95702 PHY-[TRA])
+[^40]:[St John’s Island to become holiday resort](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19760123-1.2.77?ST). (1976, January 23). *The Straits Times*, p. 13. Retrieved from NewspaperSG.
+[^41]:
+[^42]:
+[^43]:
+[^44]:
+[^45]:
+[^46]:
