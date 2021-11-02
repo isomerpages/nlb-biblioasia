@@ -101,7 +101,6 @@ This is an abridged version of the introductory chapter by Gretchen Liu from the
 
 <br>
 <div style="background-color: white;">
-<img src="/images/Vol-14-issue-1/portraits-from-lee-bros-studio/Portraits10.JPG" style="width: 100px; height: 100px;">
 <b>Gretchen Liu</b> is a former journalist and book editor as well as the author of several illustrated books, including <i>Pastel Portraits: Singapore’s Architectural Heritage</i>, <i>Singapore: A Pictorial History 1819–2000</i> and the official book on the Raffles Hotel. Liu first knew of the Lee Brothers Collection in 1987 through her friendship with one of Lee Poh Yan’s granddaughters.
 </div>
 
