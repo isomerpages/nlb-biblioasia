@@ -10,4 +10,4 @@ permalink: /teesstt
 
 </div>
 
-<hr>
+<hr style="color:red">
