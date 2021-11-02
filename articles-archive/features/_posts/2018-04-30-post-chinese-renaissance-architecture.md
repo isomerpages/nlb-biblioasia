@@ -167,23 +167,23 @@ The original plans were for a Chinese Renaissance-style building, and one cannot
 <a href="https://biblioasia.nlb.gov.sg/vol-14/issue-1/apr-jun-2018/"><center>Back to Issue</center></a>
 
 #### **NOTES**
-[^1]:
-[^2]:
-[^3]:
-[^4]:
-[^5]:
-[^6]:
-[^7]:
+[^1]:Doon, D. (1936). Architectural chronicle. *T’ien Hsia Monthly, 3* (4), 358–362. The article was republished in the online China Heritage Quarterly, June 2010, China Heritage Project, Australian National University.
+[^2]:Cody, J.W. (1996, December). Striking a harmonious chord: Foreign missionaries and Chinese-style buildings, 1911–1949. *Architronic, 5* (3), 1–30. Retrieved from iBrarian website.
+[^3]:Cody, Dec 1996, p. 5.
+[^4]:When it came to Tan’s buildings in Singapore, however, it seems that he preferred to adopt a Western style of architecture: Edwardian Baroque for the Chinese High School at Bukit Timah (today’s Hwa Chong Institution), which was founded by Tan in 1919 (the school building dates from 1923); Beaux Arts for his residence at Cairnhill (1926); and Art Deco for his rubber goods factory in Kallang (1930).
+[^5]:Two notable exceptions are the Armenian Church, consecrated 1835, and the Cathedral of the Good Shepherd, consecrated in 1847, which are both neo-Classical in conception, but then they date from before the Gothic Revival style became popular in Britain.
+[^6]:[The new Chinese church](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/malayansatpost19240202-1.2.55.1). (1924, February 2). *Malayan Saturday Post*, p. 24. Retrieved from NewspaperSG.
+[^7]:Opening of Telok Ayer Chinese Church. (1925, April 27). The Singapore Free Press and Mercantile Advertiser, p. 8. Retrieved from NewspaperSG.
 [^8]:
 [^9]:
 [^10]:
-Doon, D. (1936). Architectural chronicle. T’ien Hsia Monthly, 3 (4), 358–362. The article was republished in the online China Heritage Quarterly, June 2010, China Heritage Project, Australian National University.
-Cody, J.W. (1996, December). Striking a harmonious chord: Foreign missionaries and Chinese-style buildings, 1911–1949. Architronic, 5 (3), 1–30. Retrieved from iBrarian website.
-Cody, Dec 1996, p. 5.
-When it came to Tan’s buildings in Singapore, however, it seems that he preferred to adopt a Western style of architecture: Edwardian Baroque for the Chinese High School at Bukit Timah (today’s Hwa Chong Institution), which was founded by Tan in 1919 (the school building dates from 1923); Beaux Arts for his residence at Cairnhill (1926); and Art Deco for his rubber goods factory in Kallang (1930).
-Two notable exceptions are the Armenian Church, consecrated 1835, and the Cathedral of the Good Shepherd, consecrated in 1847, which are both neo-Classical in conception, but then they date from before the Gothic Revival style became popular in Britain.
-The new Chinese church. (1924, February 2). Malayan Saturday Post, p. 24. Retrieved from NewspaperSG.
-Opening of Telok Ayer Chinese Church. (1925, April 27). The Singapore Free Press and Mercantile Advertiser, p. 8. Retrieved from NewspaperSG.
+
+
+
+
+
+
+
 A Chinese church. (1925, April 27). The Straits Times, p. 9. Retrieved from NewspaperSG.
 It was a boys-only school in those days as girls attended their own school, known as Methodist Girls’ School today, on Selegie Road.
 Anglo-Chinese School. (1928, November 19). The Singapore Free Press and Mercantile Advertiser, p. 9. Retrieved from NewspaperSG.
