@@ -208,4 +208,4 @@ Yip, K-C. (1995). *[Health and national reconstruction in nationalist China: The
 
 [^30]: American Bureau for Medical Aid to China Records, Rare Book & Manuscript Library; Wakeman, F.E. (2003). <i>Spymaster Dai Li and the Chinese secret service</i> (p. 389). Berkeley, CA: University of California Press. (Not available in NLB holdings)
 
-[^31]: Yip, K-C. (1995). *[Health and national reconstruction in nationalist China: The development of modern health services, 1928–1937](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13767092) (pp. 117–120). An Arbor, MI: Association for Asian Studies. (Call no.: R 362.1095109043 YIP)
+[^31]: Yip, K-C. (1995). *[Health and national reconstruction in nationalist China: The development of modern health services, 1928–1937](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13767092)* (pp. 117–120). An Arbor, MI: Association for Asian Studies. (Call no.: R 362.1095109043 YIP)
