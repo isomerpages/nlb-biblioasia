@@ -190,5 +190,15 @@ Van Tonder, G. (2017). [*Malayan emergency: Triumph of the running dogs*](http:/
 [^6]:According to Leon Comber, the Kepayang Gang was involved in several deadly hand grenade attacks around Perak in 1949. These included the attack on the offices of the *Kin Kwok Daily News* (an anti-Communist newspaper) on 1 October 1949 and an attack on a circus audience in Kampar that same year.
 [^7]:Short, A. (2000). [*In pursuit of mountain rats: The communist insurrection in Malaya*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10102439) (p. 384). Singapore: Cultured Lotus. (Call no.: RSING 959.5104 SHO).
 [^8]:[Short](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10102439), 2000, p. 385.
-[^9]:Chin, 2003, p. 348.
-[^10]:The British Military Administration (BMA) ended when civilian rule was restored on 1 April 1946. See National Library Board. (2014). British Military Administration is established. Retrieved from HistorySG.
+[^9]:[Chin](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12106841), 2003, p. 348.
+[^10]:The British Military Administration (BMA) ended when civilian rule was restored on 1 April 1946. See National Library Board. (2014). [*British Military Administration is established*](http://eresources.nlb.gov.sg/history/events/e8284ccf-66eb-4114-a9f5-edc04b974325). Retrieved from HistorySG.
+[^11]:Comber, L. (2008). [*Malaya’s secret police 1945–60: The role of the Special Branch in the Malayan Emergency*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13055676) (p. 228). Singapore: Institute of Southeast Asian Studies; Australia: Monash Asia Institute. (Call no.: RSING 363.283095951 COM-[GH]).
+[^12]:[Such a surprise for Irene](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19560104-1.2.112). (1956, January 4). *The Straits Times*. p. 7. Retrieved from NewspaperSG.
+[^13]:Barber, N. (1971). [*The war of the running dogs: How Malaya defeated the communist guerrillas, 1948–60*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=839401) (p. 165). London: Collins. (Call no.: RCLOS 959.5 BAR-[JSB]).
+[^14]:[Barber](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=839401), 1971, p. 166.
+[^15]:[Barber](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=839401), 1971, p. 166.
+[^16]:[Barber](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=839401), 1971, p. 167.
+[^17]:[Barber](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=839401), 1971, p. 170.
+[^18]:[Barber](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=839401), 1971, p. 170. Such an elaborate plan was warranted: when the crates were being loaded onto a UK-bound ship in Penang the following day, a dock labourer, likely a communist, approached the lorry driver to ask if his vehicle had indeed suffered a tyre puncture along Batu Road in Kuala Lumpur the previous day.
+[^19]:[Comber](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13055676), 2008, p. 230.
+[^20]:[‘I am not the bandit boss Lee Meng’, says woman, 24](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19520829-1.2.100). (1952, August 29). The Straits Times. p. 7. Retrieved from NewspaperSG.
