@@ -7,7 +7,7 @@ layout: post
 #### **Ronnie Tan** pieces together the fascinating story of Lee Meng, the Malayan Communist Party female agent who headed its courier network for a brief period in 1952.
 
 <img src="/images/Vol-14-issue-1/hunting-down-the-malayan/Hunt1.jpg">
-<div style="background-color: white;"></i></div>
+<div style="background-color: white;">Lee Meng, head courier of the Malayan Communist Party, being escorted to the Ipoh court complex for her retrial 10 days after she was found innocent during her first trial on 27 August 1952 (right). <i>Image source: Chin, P. (2003). My Side of History (pp. 340, 343). Singapore: Media Masters Pte Ltd. (Call no.: R SING 959.5104092 CHI)</i></div>
 
 On 16 June 1948, three European planters were brutally murdered by communist guerillas in the Sungei Siput area in Perak state, in what was then known as Malaya.1 Two days later, Britain declared a state of Emergency in Malaya, with Singapore following suit on 24 June 1948. The battle for control of Malaya and Singapore between the British and the Malayan Communist Party (MCP; also known as the Communist Party of Malaya) had begun, and it would not end until 31 July 1960.
 
@@ -113,9 +113,6 @@ In court, she denied that she was Lee Meng but Lee Ten Tai. She also denied ever
 
 Lee Meng was initially found not guilty during her first trial on 27 August 1952. A retrial was ordered on 10 September the following month. This time, Lee Meng, now dubbed the “grenade girl” by the press,23 was pronounced guilty and sentenced to death.
 
-<img src="/images/Vol-14-issue-1/hunting-down-the-malayan/Hunt8.JPG">
-<div style="background-color: white;">Chin Peng (right), Secretary-General of the Malayan Communist Party, seen here with Rashid Maidin, one of the few Malay communist leaders and a trusted aide of Chin Peng (undated photo). <i>Image source: Chin, P. (2003). My Side of History (p. 513). Singapore: Media Masters Pte Ltd. (Call no. R SING 959.5104092 CHI).</i></div>
-
 According to one account, while Lee Meng was remanded in Taiping Jail, she tried to seduce the male jailer on night duty in an effort to become pregnant. She knew that British law did not permit a pregnant woman to be executed. Unfortunately for Lee Meng, the authorities discovered the plot and replaced him with a female jailer.
 
 During her retrial on 10 September 1952, Lee Meng appealed to the Malayan High Court against her death sentence but her case was dismissed on 14 November. She was returned to Taiping Jail to await her fate while her lawyers lodged an appeal to the Judicial Committee of the Privy Council in London on 14 February 1953. The appeal was unsuccessful and a petition for clemency was then sent to the Sultan of Perak on 23 February 1953. The petition was approved and just two weeks later on 9 March, Lee Meng’s death sentence was commuted to life imprisonment in Taiping Jail. While in prison, she passed her time knitting shawls and even learned to speak “superb Malay”.24
@@ -123,3 +120,10 @@ During her retrial on 10 September 1952, Lee Meng appealed to the Malayan High C
 But there was another twist to the Lee Meng story. Lee Meng’s trial had generated worldwide interest, with the government receiving petitions for her to be spared the death penalty. Moreover, the Cold War between the Soviet Union and Eastern Bloc countries and the United States and its NATO allies was in full swing. Both sides conducted espionage activities on each other to gain the upper hand in the battle for dominance.
 
 It was against this backdrop, on 2 March 1953, that the Hungarian government offered to swap Lee Meng for a British businessman, Edgar Sanders, who was serving a 13-year jail sentence in Budapest for espionage. Almost overnight Lee Meng’s case became a *cause celèbre*.25 However, the offer of a prisoner swap was turned down by the British.
+
+Lee Meng was incarcerated at Taiping Jail until her release and banishment to China on 23 November 1963 – the same fate that had befallen her mother in 1950. However, it was only in January 1964 that the Malaysian government announced her deportation. Before Lee Meng left, she asked the lawyers who defended her, the Seenivasagam brothers (Sri Padhmaraja and Darma Raja, popularly known as S.P. and D.R. Seenivasagam), to buy her two bicycles, a transistor radio, blankets, a mattress, several watches and some gold bangles so that she could bring these to China.
+
+In China, she was reunited with her mother, whom she cared for until the latter passed on. She also met Chen Tien, Chin Peng’s “trusted aide and comrade”,26 and married him in 1965. He passed away on 3 September 1990 from lung cancer.27 In August 2007, Lee Meng visited Malaysia. During her visit, she called on one of her trial lawyers, Lim Phaik Gan, to thank her for “securing her release”.28 It was reported that Lee Meng passed away in Guangzhou, China, on 2 June 2012 at the age of 86.
+
+<img src="/images/Vol-14-issue-1/hunting-down-the-malayan/Hunt8.JPG">
+<div style="background-color: white;">Lee Meng (left), former head courier of the Malayan Communist Party, at age 80, seen here with two friends. <i>Image source: Zheng, Z. (2007). 陈田夫人: 李明口述历史 (p. 3). Petaling Jaya: 策略资讯研究中心. (Call no.: 324.2595075092 ZZX)</i></div>
