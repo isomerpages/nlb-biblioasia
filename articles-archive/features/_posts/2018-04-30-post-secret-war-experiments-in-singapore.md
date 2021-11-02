@@ -21,7 +21,7 @@ Besides Shinjuku and Harbin, Unit 731 was also found in Singapore. The Singapore
 
 The latter and his colleagues worked out of the stately building at Outram Park – the Singapore General Hospital’s College of Medicine today (and home to the Ministry of Health). As Singaporean war survivor Geoffrey Tan, 91, recalled in his 2001 memoir *Escape from Battambang: A Personal World War II Experience*, the building housed up to six labs for Unit 731’s diabolical remit. These were designated as Dai-ichi (No. 1), Dai-ni (No. 2), Dai-san (No. 3) and so on. Tan worked in Dai-ni.
 
-<img src="/images/Vol-14-issue-1/secret-war-experiments-in-sg/Secret2.JPG">
+<img style="width: 650px; height: 400px;" src="/images/Vol-14-issue-1/secret-war-experiments-in-sg/Secret2.JPG">
 <div style="background-color: white;">The restored College of Medicine Building within the grounds of the Singapore General Hospital. During the Japanese Occupation, the building was requisitioned by the Japanese and housed OKA 9420, the Singapore branch of Unit 731, the biological warfare research operative of the Imperial Japanese Army that was headquartered in Shinjuku, Tokyo, with another branch in Harbin, China. Bubonic plague-infested rats and fleas were bred at the Singapore facility along with other deadly disease-carrying pathogens. The building today houses the Ministry of Health, the Singapore Medical Council and the College of General Practitioners. <i>Courtesy of Preservation of Sites and Monuments, National Heritage Board.</i></div>
 
 #### **Burrowing Through Bookshelves**
@@ -52,7 +52,7 @@ In some British wartime documents, there is also mention of the malaria parasite
 
 Harbin, the capital city of Heilongjiang province in China, is today famous for its beer and the annual ice sculpture festival, but during World War II, its outlying hamlet Pingfang served as Unit 731’s hub in China.
 
-<img src="/images/Vol-14-issue-1/secret-war-experiments-in-sg/Secret3.JPG">
+<img style="width: 450px; height: 370px;" src="/images/Vol-14-issue-1/secret-war-experiments-in-sg/Secret3.JPG">
 <div style="background-color: white;">Passers-by bowing to Japanese soldiers outside a Japanese-owned shop in Singapore during the Japanese Occupation, c.1942–45. Unknown to the local population at the time, the Japanese had set up a laboratory in Singapore to cultivate pathogens that could cause pandemics such as anthrax, cholera, smallpox and malaria. <i>From Shashin Shuho, courtesy of National Archives of Singapore.</i></div>
 
 Lim’s research shows that after Japan unleashed the Nanjing Massacre between December 1937 and January 1938, Unit 731 began researching the optimal conditions necessary for breeding biological weapons, such as plague-carrying fleas from rats, in order to obliterate the Chinese economically and efficiently.
