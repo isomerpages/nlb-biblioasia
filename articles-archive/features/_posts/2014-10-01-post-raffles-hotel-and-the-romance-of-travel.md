@@ -112,7 +112,7 @@ In the 1960s, competition came from the international hotels making their appear
 For a time the very existence of the hotel seemed threatened, but fortunately a sense of history and heritage prevailed. In 1987, its centenary year, the Raffles Hotel was declared a national monument, thus ensuring its survival and the integrity of its tropical gardens and architecture. Two years later a complete restoration and redevelopment inspired by the hotel’s early heyday took place. When the new Raffles reopened on 16 September 1991, revellers raised their glasses and toasted to the Grand Old Dame’s next century.
 
 
-<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba; display:block; font-size:1rem; line-height:1.5rem;"> 
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> 
 <b>The Legacy of Syed Mohamed Alsagoff</b>
 <br><br>
 One of the key reasons why Raffles Hotel was able to survive its near closure in 1931 was the existence of a long-term lease on the land and buildings which the hotel occupied. There is an unusual story behind it. As we have seen, Raffles Hotel had opened at No 1 Beach Road, in December 1887. Its success enabled expansion into two adjacent parcels – No 3 Beach Road (Palm Court wing) and along Bras Basah Road. No 3 Beach Road was leased from the Seah family and in 1907 Tigran and Aviet Sarkies purchased the land for $125,064. 
