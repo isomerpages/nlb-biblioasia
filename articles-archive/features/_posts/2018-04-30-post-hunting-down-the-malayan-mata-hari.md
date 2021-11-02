@@ -210,4 +210,4 @@ Van Tonder, G. (2017). [*Malayan emergency: Triumph of the running dogs*](http:/
 [^26]:[Lim](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14399401), 2012, p. 151.
 [^27]:郑昭贤 [Zheng, Z.]. (2007). 《[陈田夫人: 李明口述历史](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12850928)》(pp. 98, 101). Petaling Jaya: 策略资讯研究中心. (Call no.: Chinese RSEA 324.2595075092 ZZX).
 [^28]:[Lim](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14399401), 2012, p. 152.
-[^29]:Comber, 2008, p. 242.
+[^29]:[Comber](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13055676), 2008, p. 242.
