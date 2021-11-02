@@ -86,3 +86,19 @@ Unaware to passers-by, Irene Lee was hiding in one of those crates. While the me
 
 <img src="/images/Vol-14-issue-1/hunting-down-the-malayan/Hunt5.JPG">
 <div style="background-color: white;">As part of the communists’ clandestine communications network, rolled slips containing secret coded messages were concealed in everyday nondescript items such as a wall clock or a Chinese tea box. <i>Courtesy of ISD Heritage Centre.</i></div>
+
+#### **The Cat Finally Gets Her Mouse (in Ipoh)**
+
+Two blocks away from the FMS Bar in Ipoh, the communist courier trail which began in Singapore on February 1952 finally ended at a small, nondescript house in Lahat Road. The house “turned out to be the undercover communication post coordinating the secret courier network reporting to the CPM’s Central Committee”.19
+
+Special Branch officers kept the house under 24-hour surveillance. At 8 pm on 24 July 1952, a raid was carried out. Irene Lee’s knock on the door was answered by her nemesis, Lee Meng. Stunned by this stranger at the door, Lee Meng and her friend Cheow Yin, who was also in the house at the time, were caught unawares and unarmed, and quickly apprehended.
+
+<img src="/images/Vol-14-issue-1/hunting-down-the-malayan/Hunt6.JPG">
+<div style="background-color: white;">A communist guerrilla surrenders to security forces at a rubber plantation during the Malayan Emergency (1948–60). Image source: Barber, N. (1971). <i>The War of the Running Dogs: How Malaya Defeated the Communist Guerrillas, 1948–60 (p. 216). London: Collins. (Call no.: R CLOS 959.5 BAR-[JSB]).</i></div>
+
+The noose around Lee Meng tightened further when she slipped up in her attempt to produce her identity card. Issued in Ipoh in 1949, the card did not bear her name but that of another person by the name of Wong Nyuk Yin.20 Lee Meng claimed that she had been in Ipoh for just over two years and was living in Singapore prior to that. However, Irene Lee caught on to her lie: it was impossible for Lee Meng to be in Singapore in 1949 and yet receive “her” identity card in Ipoh at the same time.
+
+Upon further questioning, Lee Meng buckled. In addition, the old Chinese desk with a false drawer that Chin Peng had ordered her to buy earlier was found in the house.21 Inside the drawer were communist documents waiting to be disseminated – ample proof of her role as being part of Chin Peng’s courier network. Lee Meng was subsequently remanded in Taiping Jail to await trial.
+
+<img src="/images/Vol-14-issue-1/hunting-down-the-malayan/Hunt7.JPG">
+<div style="background-color: white;">Chin Peng (right), Secretary-General of the Malayan Communist Party, seen here with Rashid Maidin, one of the few Malay communist leaders and a trusted aide of Chin Peng (undated photo). <i>Image source: Chin, P. (2003). My Side of History (p. 513). Singapore: Media Masters Pte Ltd. (Call no. R SING 959.5104092 CHI).</i></div>
