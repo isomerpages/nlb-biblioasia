@@ -93,7 +93,7 @@ The treatment centre at St John’s, which operated until 1975, was one of the i
 
 In 1948, parts of St John’s Island were converted into a detention centre for political prisoners.[^34] Earlier, during World War II, the island had already acquired a political-military dimension when it housed Japanese and German civilians. During their stay, the Germans erected a Chinese-style moon gate by the island’s western shore, which still stands today.[^35]
 
-<img src="/images/Vol-14-issue-1/st-johns-island/StJohn6.JPG">
+<img style="width: 450px; height: 380px;" src="/images/Vol-14-issue-1/st-johns-island/StJohn6.JPG">
 <div style="background-color: white;">In 1948, part of St John’s Island was converted into a detention centre for political prisoners. In 1956, C.V. Devan Nair (extreme right) – who became Singapore’s third president in 1981 – along with (from left to right) Lim Chin Siong, Sydney Woodhull and Fong Swee Suan, his colleagues from the People’s Action Party (PAP), were detained on St John’s until the PAP was returned to power in 1959. This photo was taken by Lee Kuan Yew, the first prime minister of Singapore, in 1959. <i>Photograph taken by the late Mr Lee Kuan Yew, courtesy of National Archives of Singapore.</i></div>
 
 C.V. Devan Nair, who became Singapore’s third president in 1981, was among those detained on St John’s Island for anti-colonial activities. With little else to do but immerse himself in books, Nair dubbed the island “St John’s University”.[^36] His studies were interrupted one fateful day in 1952 by a visitor who described the island thus:
@@ -110,7 +110,7 @@ Meanwhile, before any transformation into island paradise could take place, St J
 
 Since 1976, St John’s Island has become entrenched in the memories of a new generation of Singaporeans: as a site for offshore school camps, holiday bungalows, wet and wild weekends at its swimming lagoons protected by walls of rock. It is also fondly known as “cat island” to some, in reference to the abandoned felines that now outnumber children in the corridors of a former primary school established in the 1950s for families of staff residing on the island.[^42]
 
-<img src="/images/Vol-14-issue-1/st-johns-island/StJohn7.JPG">
+<img style="width: 300px; height: 400px;" src="/images/Vol-14-issue-1/st-johns-island/StJohn7.JPG">
 <div style="background-color: white;">Scores of cats now dwell at the former school premises on St John’s Island. Photo taken by Marcus Ng on 2 September 2014. <i>Courtesy of Marcus Ng.</i></div>
 
 Echoes of the past returned in 1999, when fences and barbed wire lined parts of St John’s Island as the authorities braced for a wave of illegal migrants fleeing political turmoil in Indonesia.[^43] Thankfully, the storm abated but the fences still stand, perhaps as a precautionary measure.
