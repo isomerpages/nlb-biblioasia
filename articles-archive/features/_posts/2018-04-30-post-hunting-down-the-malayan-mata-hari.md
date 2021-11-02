@@ -126,4 +126,57 @@ Lee Meng was incarcerated at Taiping Jail until her release and banishment to Ch
 In China, she was reunited with her mother, whom she cared for until the latter passed on. She also met Chen Tien, Chin Peng’s “trusted aide and comrade”,26 and married him in 1965. He passed away on 3 September 1990 from lung cancer.27 In August 2007, Lee Meng visited Malaysia. During her visit, she called on one of her trial lawyers, Lim Phaik Gan, to thank her for “securing her release”.28 It was reported that Lee Meng passed away in Guangzhou, China, on 2 June 2012 at the age of 86.
 
 <img src="/images/Vol-14-issue-1/hunting-down-the-malayan/Hunt8.JPG">
-<div style="background-color: white;">Lee Meng (left), former head courier of the Malayan Communist Party, at age 80, seen here with two friends. <i>Image source: Zheng, Z. (2007). 陈田夫人: 李明口述历史 (p. 3). Petaling Jaya: 策略资讯研究中心. (Call no.: 324.2595075092 ZZX)</i></div>
+<div style="background-color: white;">Lee Meng (left), former head courier of the Malayan Communist Party, at age 80, seen here with two friends. <i>Image source: Zheng, Z. (2007). 陈田夫人: 李明口述历史 (p. 3). Petaling Jaya: 策略资讯研究中心. (Call no.: 324.2595075092 ZZX).</i></div>
+
+###### Irene Lee
+
+Following the successful capture and prosecution of Lee Meng, Irene Lee went on to serve in other capacities in the police force in Malaya. These included stints in the Penang Contingent, the Georgetown Police District Headquarters (1957) and the Federal Police Headquarters in Kuala Lumpur (1958), while serving as Chief of Women Police and, shortly thereafter, as a Woman Police Supervisor, with the rank of Assistant Superintendent of Police (ASP).
+
+On 12 October 1959, Lee was transferred to the Perak Contingent and served as an Inspector of ‘Á’ Branch. She was awarded the Colonial Police Medal for meritorious service in 1956.
+
+Lee left the police force on 1 January 1960 “as a result of a disagreement with the Malayan authorities”29 and subsequently took up a secretarial job at an import firm in Singapore. She passed away on 12 May 1994 at the age of 72.
+
+<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> 
+The author would like to thank Yvonne Yeo, Goh Yu Mei and Seow Peck Ngiam for their help in translating Lee Meng’s autobiography and providing additional information, as well as staff at the ISD Heritage Centre for their assistance in providing resources for this article.</div>
+<br>
+<div style="background-color: white;">
+<img src="/images/Vol-14-issue-1/hunting-down-the-malayan/Hunt9.JPG" style="width: 100px; height: 100px;">
+<b>Ronnie Tan</b> is a Senior Manager (Research) with the National Library, Singapore, where he conducts a research on public policy as well as historical, regional and library-related issues. His other research interests include Malayan history, especially the Malayan Emergency (1948-60), and military history.
+</div>
+
+<a href="https://biblioasia.nlb.gov.sg/vol-14/issue-1/apr-jun-2018/"><center>Back to Issue</center></a>
+
+#### **REFERENCES**
+[Coroner returns murder finding](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19510606-1.2.86). (1951, June 6). *The Straits Times*. p. 7. Retrieved from NewspaperSG.
+
+Douglas, W.O. (1953). [*North from Malaya: Adventure on five fronts*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=1520719) (p. 55). New York: Doubleday & Company. (Call no.: RCLOS 959 DOU).
+
+[Grenade case girl: I’m not that woman story of her 2 I-cards](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19520829-1.2.15). (1952, August 29). *Singapore Standard*, p. 1. Retrieved from NewspaperSG.
+
+[Irene Lee – from housewife to head of women police](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19580814-1.2.100). (1958, August 14). *The Straits Times*, p. 10. Retrieved from NewspaperSG.
+
+[Lee Meng](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19530224-1.2.17). (1953, February 24). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
+
+Lee Meng: Prison drama. (1953, March 10). The Straits Times, p. 1. Retrieved from NewspaperSG.
+
+Leong, H.M. (1953, March 10). ‘Grenade girl’ Lee Meng is reprieved. Singapore Standard, p. 1. Retrieved from NewspaperSG.
+
+Malayan takes over as chief of women police. (1958, August 21). Singapore Standard. p. 2. Retrieved from NewspaperSG.
+
+Malaysia History. (2012, June 30). The Malayan Emergency 1948–1960. Retrieved from Malayan History website.
+
+Miller, S. (2012, April 16). Malaya: The myths of hearts and minds. Small Wars Journal. Retrieved from Small Wars Journal website.
+
+National Archives of Malaysia. (2018, January 23). Formation of Malaysia 16 September 1963. Retrieved from National Archives of Malaysia website.
+
+Pretty girl gave murder orders: Court told. (1952, August 28). The Straits Times, p. 1. Retrieved from NewspaperSG.
+
+Selamat bin Sainayune. (2007). Polis wanita: Sejarah bergambar 1955–2007 (p. 279). Petaling Jaya: Kelana Publications Sdn Bhd. (Call no.: Malay R 363.208209595 SEL)
+
+Such a surprise for Irene. (1956, January 4). The Straits Times, p. 7. Retrieved from NewspaperSG.
+
+Tay, M. (2008, May 31). Robinsons. The Straits Times, p. 67. Retrieved from NewspaperSG.
+
+The grenade girl who also faced death. (1968, July 15). The Straits Times, p. 8. Retrieved from NewspaperSG.
+
+Van Tonder, G. (2017). Malayan emergency: Triumph of the running dogs (p. 4). Barnsley: Pen and Sword Military. (Call no.: RSING 959.5104 VAN)
