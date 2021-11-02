@@ -105,7 +105,7 @@ Upon further questioning, Lee Meng buckled. In addition, the old Chinese desk wi
 
 #### **The Aftermath**
 
-######  Lee Meng
+###### **Lee Meng**
 
 When Lee Meng appeared before the Magistrate’s Court in Ipoh on 6 August 1952, she was charged with three offences – being armed with a pistol and a hand grenade between August 1948 and September 1951 in Ipoh, and for consorting “with persons who were carrying firearms and acting in a manner prejudicial to the maintenance of good order”.[^22] No references were made to her activities as a courier to avoid compromising Special Branch operations that were going on at the time and neither was she charged as a communist. The Special Branch hoped that when Chin Peng received news of her arrest, he would assume that her courier activities had not been exposed.
 
@@ -128,7 +128,7 @@ In China, she was reunited with her mother, whom she cared for until the latter 
 <img style="width: 350px; height: 450px;" src="/images/Vol-14-issue-1/hunting-down-the-malayan/Hunt8.JPG">
 <div style="background-color: white;">Lee Meng (left), former head courier of the Malayan Communist Party, at age 80, seen here with two friends. <i>Image source: Zheng, Z. (2007). 陈田夫人: 李明口述历史 (p. 3). Petaling Jaya: 策略资讯研究中心. (Call no.: 324.2595075092 ZZX).</i></div>
 
-###### Irene Lee
+###### **Irene Lee**
 
 Following the successful capture and prosecution of Lee Meng, Irene Lee went on to serve in other capacities in the police force in Malaya. These included stints in the Penang Contingent, the Georgetown Police District Headquarters (1957) and the Federal Police Headquarters in Kuala Lumpur (1958), while serving as Chief of Women Police and, shortly thereafter, as a Woman Police Supervisor, with the rank of Assistant Superintendent of Police (ASP).
 
