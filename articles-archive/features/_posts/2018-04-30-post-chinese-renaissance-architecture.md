@@ -176,4 +176,6 @@ The original plans were for a Chinese Renaissance-style building, and one cannot
 [^7]:[Opening of Telok Ayer Chinese Church](http://eresources.nlb.gov.sg/newspapers/Digitised/article/singfreepressb19250427-1.2.43). (1925, April 27). *The Singapore Free Press and Mercantile Advertiser*, p. 8. Retrieved from NewspaperSG.
 [^8]:[A Chinese church](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19250427-1.2.61). (1925, April 27). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
 [^9]:It was a boys-only school in those days as girls attended their own school, known as Methodist Girls’ School today, on Selegie Road.
-[^10]:[Anglo-Chinese School](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19281119-1.2.83). (1928, November 19). The Singapore Free Press and Mercantile Advertiser, p. 9. Retrieved from NewspaperSG.
+[^10]:[Anglo-Chinese School](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19281119-1.2.83). (1928, November 19). *The Singapore Free Press and Mercantile Advertiser*, p. 9. Retrieved from NewspaperSG.
+[^11]:Oversea-Chinese Banking Corporation was formed from a merger of Ho Hong Bank, Chinese Commercial Bank and Oversea-Chinese Bank in 1932. 
+[^12]:[New church in Horne Road](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19410714-1.2.62). (1941, July 14). The Straits Times, p. 9. Retrieved from NewspaperSG.
