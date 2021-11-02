@@ -114,7 +114,7 @@ This 1943 book, 大東亜写真年報 = Japan Photo Almanac. 2603年版 (<i>[Dai
 </span>
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
-The author wishes to thank Lim Shao Bin and librarians Goh Yu Mei and Ng Hui Ling for their input. Digital versions of some of the items featured in this article are available on BookSG at http://eresources.nlb.gov.sg/printheritage.
+The author wishes to thank Lim Shao Bin and librarians Goh Yu Mei and Ng Hui Ling for their input. Digital versions of some of the items featured in this article are available on BookSG at [http://eresources.nlb.gov.sg/printheritage](http://eresources.nlb.gov.sg/printheritage).
 </span>
 
 <br>
