@@ -6,6 +6,8 @@ layout: post
 ---
 #### **Bonny Tan** traces the careers of little-known librarians, Padma Daniel and her mentor Kate Edith Savage-Bailey, and the circumstances that led to their career choices in pre-war Singapore.
 
+<div style="background-color: white;"><img src="">Exterior view of the Raffles Library and Museum at Stamford Road in this photo taken in the 1930s, during the time when Padma Daniel and Kate Edith Savage-Bailey were working there as librarians. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i></div>
+
 “A rather unusual ambition” wrote Reverend Basil Colby Roberts, the Singapore Anglican Bishop, in a letter dated 11 December 1935 to Frederick N. Chasen, then Director of the Raffles Library and Museum.[^1] Roberts was endorsing Padma Daniel in her application as a volunteer at the library.
 
 It was an unusual ambition on many fronts. First, the Library Association in Britain had stringent requirements for prospective librarians. Besides passing a qualifying exam, applicants were required to have at least three years’ experience working in a library. Second, the library domain was very much a man’s world, with most qualified librarians and library patrons being primarily Caucasian and male. Padma was possibly the first local woman seeking a career in librarianship.
@@ -28,7 +30,7 @@ The Junior Library and the Malaysia Room were likely factors that influenced loc
 
 Padma Daniel was born on 31 August 1919, the eldest child of George O. Daniel and Harriet Fletcher, ethnic Indians from Travancore, India. George’s interest in books likely began as a young boy when his active involvement at church in India led him to meet an English expatriate with an extensive home library.[^6]
 
-<div style="background-color: white;"><br><img src="">George Daniel’s book, Love Unites People: Memoirs of a Christian Worker in Singapore from 1913 to 1959. Published in 1959, the book makes references to the life of his daughter, Padma Daniel. <i>All rights reserved, Daniel, G. (1959). Love Unites People: Memoirs of a Christian Worker in Singapore from 1913 to 1959. Singapore: G. Daniel. (Call no.: RCLOS 275.957 DAN)</i></div>
+<div style="background-color: white;"><img src="">George Daniel’s book, Love Unites People: Memoirs of a Christian Worker in Singapore from 1913 to 1959. Published in 1959, the book makes references to the life of his daughter, Padma Daniel. <i>All rights reserved, Daniel, G. (1959). Love Unites People: Memoirs of a Christian Worker in Singapore from 1913 to 1959. Singapore: G. Daniel. (Call no.: RCLOS 275.957 DAN)</i></div>
 
 He continued this interest in books, mainly Christian publications, first working in Rangoon, Burma, for five years, managing the Rangoon Diocesan Magazine for the Anglican Diocese,[^7] before being appointed as Honorary Secretary and Treasurer for the Diocesan Magazine in Singapore in 1917.[^8]
 
