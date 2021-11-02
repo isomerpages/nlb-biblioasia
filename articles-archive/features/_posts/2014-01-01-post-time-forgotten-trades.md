@@ -278,9 +278,9 @@ Tan, B.H. (1983, June 27). [That old barber shop is going](http://eresources.nlb
 
 Tan, J., & Leong, W.K. (1977, November 24). [‘Protect our vanishing trades’ call to govt](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19771124-1.2.52). <i>The Straits Times</i>, p. 10. Retrieved from NewspaperSG.
 
-Teo, J. (2013). <i>Vanishing trades/Scenes in Singapore</i>. Retrieved from Jenniferteophotography.com. website.
+Teo, J. (2013). <i>Vanishing trades/Scenes in Singapore</i>. Retrieved from [Jenniferteophotography.com](Jenniferteophotography.com) website.
 
-<i>The vanishing trade: Trishaws in Singapore</i>. (2010, May 17). Retrieved from sgtrishaws.wordpress.com website.
+<i>The vanishing trade: Trishaws in Singapore</i>. (2010, May 17). Retrieved from [sgtrishaws.wordpress.com](sgtrishaws.wordpress.com) website.
 
 Toh, K. (2011, September 11). [Keeping alive a vanishing trade](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20110911-1.2.11.15). <i>The Straits Times</i>, pp. 16–17. Retrieved from NewspaperSG.
 
