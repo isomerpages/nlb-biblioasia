@@ -99,3 +99,51 @@ Some of these younger doctors formed non-governmental organisations, which publi
 
 <img src="/images/Vol-14-issue-1/secret-war-experiments-in-sg/Secret6.JPG">
 <div style="background-color: white;">From left to right: Professor Nobuyoshi Takashima, Dr Yosuke Watanabe and Lim Shao Bin, holding a rare 1938 map showing Tokyo as the centre of the world. This photo was taken on 15 February 2018, during the Japanese dons’ yearly sojourn to Singapore to commemorate the Fall of Singapore on 15 February 1942. <i>Courtesy of Cheong Suk-Wai.</i></div>
+
+Some Japanese do, though. On 15 February this year, Lim introduced me to Nobuyoshi Takashima, 76, professor emeritus at Ryukyu University, who has been researching the dark days of the Japanese Occupation in Singapore and Malaya for more than 40 years. As Prof Takashima speaks no English, his friend, Dr Yosuke Watanabe, 47, visiting fellow at the Center for Asia-Pacific Partnership, Osaka University of Economics and Law, acted as translator.
+
+When I asked Prof Takashima what, as a Japanese, he would like to say to Singaporeans, he hesitated and then said: “Now is the time for making peace from humanism, not for condemning war criminals”. He hoped that the OKA 9420 stories that Lim has unearthed would spur Singaporeans to learn more about their history.
+
+Prof Takashima added that his interest in Unit 731 was piqued when one of his students took him to visit the Tampoi site in the 1980s. That started him off on his quest to uncover the atrocities committed by the IJA in Southeast Asia. “The Japanese Occupation is not researched much in Japan”, he told me, explaining why, in 1983, he established his now-yearly Takashima Tours, taking a busload of his countrymen on tours of former World War II sites in Singapore and Malaysia. In the course of his travels, Prof Takashima came to know Lim, and the firm friends now meet and regularly exchange information on Unit 731 and the IJA via email.
+
+In 2010, Prof Takashima wrote and published a guidebook of such sites in Malaysia, and in 2016, he published one such book on Singapore. Among his inner circle of enthusiasts are his 75-year-old wife Michi Takashima, Dr Watanabe and the journalist Fuyuko Nishisato, whose 2017 book on Unit 731 titled *Behind Bayonets and Barbed Wire: The Secrets of Japanese Army Unit 731*, has been mentioned by news agencies such as China’s Xinhua.
+
+Prof Takashima and his contemporaries have also taken to visiting Singapore every February to commemorate the Fall of Singapore, followed by a chicken rice dinner with Lim at Chin Chin Eating House, a well-known coffee shop on Purvis Street.
+
+What Lim cannot stomach, even more than the grisly fates of plague victims, is what he sees as Unit 731’s “lack of remorse” for any of their actions. He says of Unit 731’s surviving Japanese officers: “All these soldiers write about somebody else’s stories, not their own dirty work”.
+
+<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> 
+	<b>A GRANDSON’S RELENTLESS QUEST</b>
+<br><br>
+In the 1970s, it was rare for a Singaporean to snag a scholarship to study and work in Japan, and most would be overjoyed at such an opportunity.
+<br><br>
+But when Lim Shao Bin won the chance to work for Japanese precision engineering company NMB – which was among the first Japanese multinationals to set up shop in Singapore after independence in 1965 – he had mixed feelings about it.
+<br><br>
+For one thing, he had rued since he was a boy that his paternal grandfather, Lim Kui Yi, had died at the hands of Imperial Japanese Army (IJA) soldiers during the Japanese Occupation.
+<br><br>
+Lim, who was born in 1957, remembers, “When I was a kid, I was just told ‘Grandpa had been killed during World War II’”. So I assumed he was killed by Japanese aerial bomb attacks in Singapore.
+<br><br>
+“But after I got the scholarship, my father told me the truth: Grandpa had been killed after the Japanese surrendered in August 1945”. His grandfather was the head of the feedback unit of Melaka’s temporary city council, set up right after the Japanese surrender to give the city some semblance of governance. On 5 September, the council members celebrated Japan’s defeat at Jonker Street by waving flags of the Kuomintang, the Chinese party led by General Chiang Kai-shek that defended China against the marauding IJA during World War II.
+<br><br>
+According to Lim’s father, Lim Chow Sin, the open revelry enraged the Kempeitai, the Japanese secret police who were still around in Melaka at the time. “So on 5 September 1945, they stabbed Grandpa to death and threw his body down a well in Pulau Besar, Melaka”.
+<br><br>
+Thus, when Lim Shao Bin touched down in Japan for the first time in 1980, at the age of 23, he felt conflicted. “It was quite confusing; I was supposed to learn from these people but I also thought, ‘I shouldn’t learn blindly from this place’”.
+<br><br>
+But as a true Singaporean who was “a bit kiasu”, he did his best at work. Yet, burning within him was one big question: “Why was there a war in Malaya to begin with?” So began his quest to understanding all he could about the Japanese Occupation – and also, as he says, find “closure” for his grandfather’s senseless killing.
+<br><br>
+Every month, he would have to report to NMB’s Tokyo office on Kanda Street, where the bookshops were. He recalls: “After visiting the office, I would drop by the bookshops and soon found that I could find wartime documents if I was patient enough”.
+<br><br>
+The budding collector started small, rifling through the bookshelves for old postcards. He started to find things relating to Singapore. Paying tribute to Kanda’s old-style shops and their owners, he says: “It’s a special trade. When they purchase something to put on their shelves, they price their purchases with pride and professionalism. So if they say something is worth 2,000 yen, you can be assured they are right. They respect sincere collectors”. Kanda’s bookshop owners also, up till recently, traded on “cash only” terms.
+<br><br>
+Lim adds: “World War II split Japan into two worlds. Before the Japanese surrendered, they were so confident of themselves. They learnt from the West but modernised their culture, including language, without the need of foreign languages like English.” This occasionally led to some blind spots; for instance, there is no traditional Japanese word for “rubber” because the trees had never grown in Japan.
+<br><br>
+But, Lim notes, when Japan lost the war, Japanese egos were deflated, and of one of the repercussions was that people began corrupting the Japanese language with words from the English lexicon, resulting in a Japlish form called <i>waise-eigo</i>, yielding mish-mash words such as <i>bakku-mira</i> (“back mirror”), <i>chia-garu</i> (“cheergirl” or cheerleader) and <i>hafu</i> (a “half-blood” or person of mixed ancestry).
+<br><br>
+Today, he considers himself a bona fide, if not formally trained, “historian” and sometimes refers to himself as a “historical detective” – and one keen to revive interest in Singapore’s history before the nation gained independence on 9 August 1965. He says wistfully: “After independence, I think we emphasised too much on what was happening on this small island and lost the history of the years before 1965”.
+<br><br>
+Since 2012, he says, visitors to quiet Kanda Street have trebled. It is more proof that history does matter, for the increase in literary foragers is due to China and Japan’s squabble over the necklace of islands south of Japan, which China claims under the name Diaoyu, and which Japan knows as Senkaku. The tensions are still taut today; on 31 January 2018, China ordered the Japanese consumer goods giant Muji to destroy all its catalogues that contained what China called “a problem map” because it omitted the Diaoyu/ Senkaku islands. Lim says: “There are now buyers from the US, Japan, China, Taiwan and Korea in Kanda, all looking for books on Diaoyu or Senkaku”.
+<br><br>
+Lim’s most recent sojourn to Japan was in early December 2017 to join his friend, Nobuyoshi Takashima, at the World Peace Forum in the old port city of Yokohama. It is clear that Lim is as much a bridge-builder as he is a truth-seeker. Prof Takashima, 76, is professor emeritus at Ryukyu University, and he has been researching the war crimes of the IJA in Southeast Asia for the past 40 years.
+<br><br>
+The next step of Lim’s quest is to find someone who can help him read and decipher a cache of medical reports from Unit 731 written by Iichiro Otaguro. “After independence, so much of Singapore history emphasised the years after 1965. I would like what I’ve found to spur future generations of Singaporeans to rediscover the history of our war years. Let’s not make it a case of children forgetting their grandparents’ past”, says Lim with a pensive smile.
+</div>
