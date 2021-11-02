@@ -7,7 +7,7 @@ layout: post
 #### Is the *Vanda* Miss Joaquim a human-made hybrid or a happy accident? In this cautionary tale, **Nadia Wright, Linda Locke and Harold Johnson** recount how fiction becomes truth when it is repeated often enough.
 
 <img style="width: 380px; height: 350px;" src="/images/Vol-14-issue-1/blooming-lies/Blooming1.JPG">
-<div style="background-color: white;"></div>
+<div style="background-color: white;">Vanda x Miss Joaquim. <i>Image source: Linden, J., & Linden, L. (1897). Lindenia Iconographie des Orchidées (Series 2, vol. 13).</i></div>
 
 *While doing research on the Armenian community in Singapore back in the 1990s, Australian historian Nadia Wright read an account of how the daughter of a prominent Armenian family in Singapore, Agnes Joaquim[^1] (Ashken Hovagimian), had stumbled upon a never-before-seen orchid bloom by accident in the family garden.*
 
