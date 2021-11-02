@@ -40,7 +40,7 @@ On the other side of the ideological divide was Detective-Inspector Irene Lee, w
 
 Lee was highly regarded by her peers in Singapore’s Special Branch as a competent and experienced officer. She was not only a highly skilled markswoman but also “a brilliant lock-picker, an expert with a mini-camera, an accomplished thief (in the course of her duty)” and endowed with a “delicious sense of humour”, according to the British journalist and author Noel Barber.[^13]
 
-<img style="width: 500px; height: 400px;" src="/images/Vol-14-issue-1/hunting-down-the-malayan/Hunt3.JPG">
+<img style="width: 560px; height: 370px;" src="/images/Vol-14-issue-1/hunting-down-the-malayan/Hunt3.JPG">
 <div style="background-color: white;">Irene Lee (first row, second from left), the Malayan Special Branch officer who played a key role in Lee Meng’s arrest. Photo was taken around 1955 with six other women police officers, who formed the first batch of women inspectors in the Malayan Police Force. <i>Image source: Selamat bin Sainayune. (2007). Polis Wanita: Sejarah Bergambar 1955–2007 (p. 82). Petaling Jaya: Kelana Publications Sdn Bhd. (Call no.: R 363.208209595 SEL)</i></div>
 
 #### **The Hunt for Lee Meng**
