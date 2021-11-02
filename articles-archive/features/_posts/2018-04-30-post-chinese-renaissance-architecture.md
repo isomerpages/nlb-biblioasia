@@ -173,17 +173,7 @@ The original plans were for a Chinese Renaissance-style building, and one cannot
 [^4]:When it came to Tan’s buildings in Singapore, however, it seems that he preferred to adopt a Western style of architecture: Edwardian Baroque for the Chinese High School at Bukit Timah (today’s Hwa Chong Institution), which was founded by Tan in 1919 (the school building dates from 1923); Beaux Arts for his residence at Cairnhill (1926); and Art Deco for his rubber goods factory in Kallang (1930).
 [^5]:Two notable exceptions are the Armenian Church, consecrated 1835, and the Cathedral of the Good Shepherd, consecrated in 1847, which are both neo-Classical in conception, but then they date from before the Gothic Revival style became popular in Britain.
 [^6]:[The new Chinese church](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/malayansatpost19240202-1.2.55.1). (1924, February 2). *Malayan Saturday Post*, p. 24. Retrieved from NewspaperSG.
-[^7]:Opening of Telok Ayer Chinese Church. (1925, April 27). The Singapore Free Press and Mercantile Advertiser, p. 8. Retrieved from NewspaperSG.
-[^8]:
-[^9]:
-[^10]:
-
-
-
-
-
-
-
-A Chinese church. (1925, April 27). The Straits Times, p. 9. Retrieved from NewspaperSG.
-It was a boys-only school in those days as girls attended their own school, known as Methodist Girls’ School today, on Selegie Road.
-Anglo-Chinese School. (1928, November 19). The Singapore Free Press and Mercantile Advertiser, p. 9. Retrieved from NewspaperSG.
+[^7]:[Opening of Telok Ayer Chinese Church](http://eresources.nlb.gov.sg/newspapers/Digitised/article/singfreepressb19250427-1.2.43). (1925, April 27). *The Singapore Free Press and Mercantile Advertiser*, p. 8. Retrieved from NewspaperSG.
+[^8]:[A Chinese church](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19250427-1.2.61). (1925, April 27). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
+[^9]:It was a boys-only school in those days as girls attended their own school, known as Methodist Girls’ School today, on Selegie Road.
+[^10]:[Anglo-Chinese School](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19281119-1.2.83). (1928, November 19). The Singapore Free Press and Mercantile Advertiser, p. 9. Retrieved from NewspaperSG.
