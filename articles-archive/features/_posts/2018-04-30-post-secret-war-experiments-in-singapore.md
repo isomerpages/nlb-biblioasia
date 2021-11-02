@@ -121,7 +121,7 @@ But when Lim Shao Bin won the chance to work for Japanese precision engineering 
 <br><br>
 For one thing, he had rued since he was a boy that his paternal grandfather, Lim Kui Yi, had died at the hands of Imperial Japanese Army (IJA) soldiers during the Japanese Occupation.
 <br><br>
-<img style="width: 450px; height: 400px;" src="/images/Vol-14-issue-1/secret-war-experiments-in-sg/Secret7.JPG">A portrait of Lim Kui Yi, the paternal grandfather of Lim Shao Bin whom the Japanese Imperial Army killed in Melaka on 5 September 1945. <i>Courtesy of Lim Shao Bin.</i>
+<img style="width: 400px; height: 400px;" src="/images/Vol-14-issue-1/secret-war-experiments-in-sg/Secret7.JPG">A portrait of Lim Kui Yi, the paternal grandfather of Lim Shao Bin whom the Japanese Imperial Army killed in Melaka on 5 September 1945. <i>Courtesy of Lim Shao Bin.</i>
 <br><br>
 Lim, who was born in 1957, remembers, “When I was a kid, I was just told ‘Grandpa had been killed during World War II’”. So I assumed he was killed by Japanese aerial bomb attacks in Singapore.
 <br><br>
