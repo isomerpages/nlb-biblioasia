@@ -7,7 +7,7 @@ layout: post
 #### St John’s Island was once home to new migrants, opium addicts and political detainees. **Marcus Ng** charts the island’s transformation from a place of exile to an oasis of idyll.
 
 <img src="/images/Vol-14-issue-1/st-johns-island/StJohn1.JPG">
-<div style="background-color: white;"></i></div>
+<div style="background-color: white;"></div>
 
 It’s well known that Stamford Raffles landed by the banks of the Singapore River on 29 January 1819 to establish a British trading port on the island.[^1] Most accounts of this colonial milestone, however, skim over the minor fact that a day earlier, Raffles’ fleet of ships had anchored off St John’s Island. This was where representatives of the local ruler – the Temenggong of Johor, Abdul Rahman – met and assured the British that Singapore harboured no Dutch settlers who would be hostile to rival powers.[^2]
 
@@ -29,7 +29,7 @@ In Malay, the islands continue to share a nomenclatural link: Lazarus Island is 
 
 Gone too are names that one Captain George Thomas assigned to nearby islands in the late 1700s.[^11] Hoping perhaps to expand the Biblical theme, he marked Pulau Tekukor (north of St John’s Island) as “Luke” and the Sisters’ Islands as “Mark” and “Matthew”. These names, however, failed to stick and only St John’s survived in later charts.
 
-<img src="/images/Vol-14-issue-1/st-johns-island/StJohn3.JPG">
+<img style="width: 350px; height: 400px;" src="/images/Vol-14-issue-1/st-johns-island/StJohn3.JPG">
 <div style="background-color: white;">Detail of a 1924 map showing St John’s and other  adjacent islands. <i>Survey Department Collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **Gateway to Singapore**
@@ -52,7 +52,7 @@ Ellis’ wishlist for the site included a steam cutter (patrol boat), a floating
 
 By 1908, the quarantine facility on St John’s had expanded to encompass the entire island, which was populated with sheds housing the occupants of infected or suspected ships,[^21] be they new migrants to Malaya or religious pilgrims returning from performing the Haj in Mecca.
 
-<img src="/images/Vol-14-issue-1/st-johns-island/StJohn4.JPG">
+<img style="width: 500px; height: 350px;" src="/images/Vol-14-issue-1/st-johns-island/StJohn4.JPG">
 <div style="background-color: white;">St John’s became known as Singapore’s “Quarantine Island” in November 1874 when the first load of 1,200 to 1,300 Chinese passengers from the cholera-stricken S.S. Milton from Swatow (now Shantou), China, arrived on the island. This 1930 photo shows passengers being vaccinated against infectious disease upon disembarkation. <i>Courtesy of The National Archives of the UK, ref. CO1069/560 pt1 (23).</i></div>
 
 In reality, quarantine was defined by the class of passage. First- and second-class cabin passengers could simply present themselves for clearance before disembarking, while hapless passengers in steerage (who shared a deck or hold) were quarantined for two to three days. From the 1920s, most cargo-hold travellers were required to transit at St John’s Island for inoculation before proceeding to Singapore, with migrants from China subject to at least a week’s quarantine.[^22]
@@ -67,7 +67,7 @@ Another report in *The Straits Times* in 1935 feted St John’s as the “larges
 
 Henry Ellis’ initial plans to use Peak (Kusu) Island as a burial ground were soon cut short when a community leader named Cheang Hong Lim raised strenuous objections to this idea. Instead, Lazarus Island took its place; from the early 20th century onwards, passengers who died upon or shortly after arrival were buried here.
 
-<img src="/images/Vol-14-issue-1/st-johns-island/StJohn5.JPG">
+<img style="width: 500px; height: 400px;" src="/images/Vol-14-issue-1/st-johns-island/StJohn5.JPG">
 <div style="background-color: white;">
 Minister for Health Armand J. Braga visits the Opium Treatment Centre on St John’s Island when it opened in 1955. The centre trained opium addicts in various tasks, such as carpentry and woodworking, for their  rehabilitation into productive society. It closed in 1975. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
