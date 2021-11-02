@@ -6,7 +6,7 @@ layout: post
 ---
 #### St John’s Island was once home to new migrants, opium addicts and political detainees. **Marcus Ng** charts the island’s transformation from a place of exile to an oasis of idyll.
 
-<img style="width: 500px; height: 380px;" src="/images/Vol-14-issue-1/st-johns-island/StJohn1.JPG">
+<img style="width: 650px; height: 380px;" src="/images/Vol-14-issue-1/st-johns-island/StJohn1.JPG">
 <div style="background-color: white;"></div>
 
 It’s well known that Stamford Raffles landed by the banks of the Singapore River on 29 January 1819 to establish a British trading port on the island.[^1] Most accounts of this colonial milestone, however, skim over the minor fact that a day earlier, Raffles’ fleet of ships had anchored off St John’s Island. This was where representatives of the local ruler – the Temenggong of Johor, Abdul Rahman – met and assured the British that Singapore harboured no Dutch settlers who would be hostile to rival powers.[^2]
