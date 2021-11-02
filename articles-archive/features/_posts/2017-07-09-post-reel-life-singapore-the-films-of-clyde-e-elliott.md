@@ -150,7 +150,7 @@ The film also inspired a mini-revolution in America. For the film’s opening in
 
 [^8]:Harry McGuire was writing in the magazine, *Outdoor Life*, as reported in *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19321117-1.2.106)*, 17 Nov 1932, p. 18. See also [Another critic of Mr. Frank Buck](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19330409-1.2.60). (1933, April 9). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
 
-[^9]:[Pictures and how they are made](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19321208-1.2.90). (1932, December 8). The Straits Times**, p. 16. Retrieved from NewspaperSG.
+[^9]:[Pictures and how they are made](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19321208-1.2.90). (1932, December 8). *The Straits Times*, p. 16. Retrieved from NewspaperSG.
 
 [^10]:*[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19330405-1.2.49)*, 5 Apr 1933, p. 12.
 
