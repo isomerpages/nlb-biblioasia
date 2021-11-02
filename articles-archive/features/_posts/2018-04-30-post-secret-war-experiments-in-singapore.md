@@ -121,6 +121,8 @@ But when Lim Shao Bin won the chance to work for Japanese precision engineering 
 <br><br>
 For one thing, he had rued since he was a boy that his paternal grandfather, Lim Kui Yi, had died at the hands of Imperial Japanese Army (IJA) soldiers during the Japanese Occupation.
 <br><br>
+<img src="/images/Vol-14-issue-1/secret-war-experiments-in-sg/Secret7.JPG">A portrait of Lim Kui Yi, the paternal grandfather of Lim Shao Bin whom the Japanese Imperial Army killed in Melaka on 5 September 1945. <i>Courtesy of Lim Shao Bin.</i>
+<br><br>
 Lim, who was born in 1957, remembers, “When I was a kid, I was just told ‘Grandpa had been killed during World War II’”. So I assumed he was killed by Japanese aerial bomb attacks in Singapore.
 <br><br>
 “But after I got the scholarship, my father told me the truth: Grandpa had been killed after the Japanese surrendered in August 1945”. His grandfather was the head of the feedback unit of Melaka’s temporary city council, set up right after the Japanese surrender to give the city some semblance of governance. On 5 September, the council members celebrated Japan’s defeat at Jonker Street by waving flags of the Kuomintang, the Chinese party led by General Chiang Kai-shek that defended China against the marauding IJA during World War II.
@@ -147,3 +149,14 @@ Lim’s most recent sojourn to Japan was in early December 2017 to join his frie
 <br><br>
 The next step of Lim’s quest is to find someone who can help him read and decipher a cache of medical reports from Unit 731 written by Iichiro Otaguro. “After independence, so much of Singapore history emphasised the years after 1965. I would like what I’ve found to spur future generations of Singaporeans to rediscover the history of our war years. Let’s not make it a case of children forgetting their grandparents’ past”, says Lim with a pensive smile.
 </div>
+<br>
+<div style="background-color: white;">
+<img src="/images/Vol-14-issue-1/secret-war-experiments-in-sg/Secret8.jpg" style="width: 100px; height: 100px;">
+<b>Cheong Suk-Wai</b> is a lawyer by training and a writer by choice. A former ASEAN Scholar and Thomson Foundation Scholar, she has been a construction litigator, a journalist and a public servant.
+</div>
+
+<a href="https://biblioasia.nlb.gov.sg/vol-14/issue-1/apr-jun-2018/"><center>Back to Issue</center></a>
+
+#### **NOTES**
+[^1]:Zaccheus, M. (2017, November 13). [WWII S’pore used as base to spread disease](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20171113-1.2.26.11). *The Straits Times*, p. 5. Retrieved from NewspaperSG.
+[^2]:Othman Wok. (2000). [*Never in my wildest dreams*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10164769). Singapore: Raffles. (Call no.: RSING 324.259570092 OTH)
