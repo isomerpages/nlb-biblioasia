@@ -85,3 +85,17 @@ In late June 1945, OKA 9420 suddenly vanished from Singapore – weeks ahead of 
 <img src="/images/Vol-14-issue-1/secret-war-experiments-in-sg/Secret5.JPG">
 <div style="background-color: white;">This sketch is a simplified version of a rough map of Unit 731’s branch in Permai Hospital, Tampoi. The map was published on page 44 of the 1991 memoir, <i>Fleas, Rats and Plague: I Saw All Three</i>, by former OKA 9420 worker Koichi Takebana. The dividing wall in the sketch was about 4 m high, and separated the biological warfare production units from those providing support services such as washing, cooking, sterilisation of equipment and logistics. <i>Drawn by Cheong Suk-Wai, based on information by Lim Shao Bin and Koichi Takebana. All rights reserved, Cheong Suk-Wai, Lim Shao Bin, Koichi Takebana and the National Library Board, Singapore.</i></div>
 
+#### **Free but not Forgotten**
+
+Lim says that OKA 9420’s head Ryoichi Naito and his colleagues were never tried as war criminals. “After the war, the Americans occupied Japan”, he recalls. “They started interviewing and tried to arrest war criminals. And one critical thing they sought more information about was biochemical warfare in Harbin. They wanted the key men”.
+
+The Americans tracked down Naito who, in his fluent English, told them that he would turn over all the medical records, data from experiments and papers to the US on condition that they let him walk free. The Americans did just that, granting Naito and the rest of Unit 731 immunity from prosecution for war crimes.
+
+Naito, his deputy Iichiro Otaguro and their ilk went on to rebuild their lives by, among other things, setting up clinics to treat everyday folk, joining academia and rising to professorships and, in some instances, becoming politicians.
+
+But the truth eventually surfaced. “In the 1980s and 90s”, says Lim, “the doctors among these men started to retire and mentor younger doctors. When the latter found out that their mentors had done such bad things, they were shocked”.
+
+Some of these younger doctors formed non-governmental organisations, which published accounts of what their founders had learnt about Unit 731’s experiments. Why was Japan not rocked by such findings? Lim puts it down to the thick fog of negation surrounding Japan’s war crimes, including from Japan’s powerful and vociferous right-wing politicians. Also, he mused sadly: “Children do not appreciate their grandfathers’ histories”.
+
+<img src="/images/Vol-14-issue-1/secret-war-experiments-in-sg/Secret6.JPG">
+<div style="background-color: white;">From left to right: Professor Nobuyoshi Takashima, Dr Yosuke Watanabe and Lim Shao Bin, holding a rare 1938 map showing Tokyo as the centre of the world. This photo was taken on 15 February 2018, during the Japanese dons’ yearly sojourn to Singapore to commemorate the Fall of Singapore on 15 February 1942. <i>Courtesy of Cheong Suk-Wai.</i></div>
