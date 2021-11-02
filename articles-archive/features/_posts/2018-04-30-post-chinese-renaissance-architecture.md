@@ -119,4 +119,10 @@ Other “traditional” Chinese features include the canopy roofs over the windo
 The upturned corners, which are every Westerner’s idea of what a Chinese roof should look like, are perhaps the least successful aspect of the edifices – and smacking of Chinese tokenism – but the composition of the window  mullions and transoms is convincing, as they are derived from traditional Chinese latticework patterns, albeit greatly simplified here.
 
 <img src="/images/Vol-14-issue-1/chinese-renaissance-architect/Renaissance10.JPG">
+
+#### **Chinese Art Deco**
+
+There are several other Chinese-inflected  buildings dating from the 1920s, notably Eu Court (1925), Great Southern Hotel (1927) and Theatre of Heavenly Shows, today’s Majestic Theatre (1928). All three were commissioned by Eu Tong Sen and designed by Swan & Maclaren, but they are more Art Deco  in character, albeit with Chinese flourishes – a kind of Shanghai chic that was all the rage back then.
+
+<img src="/images/Vol-14-issue-1/chinese-renaissance-architect/Renaissance11.JPG">
 <div style="background-color: white;">In 1925, Frank Brewer designed two blocks of flats in the Chinese Renaissance style for Eu Tong Sen, a prominent businessman and leader of the Chinese community, at 31–45 Club Street. The buildings now form part of Emerald Garden condominium. <i>Courtesy of Julian Davison.</i></div>
