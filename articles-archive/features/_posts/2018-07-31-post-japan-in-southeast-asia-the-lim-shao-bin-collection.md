@@ -18,7 +18,7 @@ Just a stone’s throw away from the office was Jinbōchō, a district clustered
 
 On a more personal level, Lim’s purpose for collecting stems from a sense of deep loss over the death of his grandfather at the hands of Japanese soldiers in Malacca in 1945. In his quest to better understand the war, Lim began acquiring materials on Japan’s military history in Singapore and Southeast Asia. These items later went on to form the nucleus of his collection.
 
-Over the course of the next 30 years and countless work and leisure trips to Japan, Lim painstakingly assembled a collection of over 1,500 items, some of which have been featured in books such as *Images of Singapore: From the Japanese Perspective (1868–1941)* published in 2004, and exhibitions like “Vignettes in Time: Singapore Maps and History through the Centuries”, organised by the National Library Board and the Singapore Heritage Society in 2009.
+Over the course of the next 30 years and countless work and leisure trips to Japan, Lim painstakingly assembled a collection of over 1,500 items, some of which have been featured in books such as *Images of Singapore: From the Japanese Perspective (1868–1941)* published in 2004, and exhibitions like “Vignettes in Time: Singapore Maps and History Through the Centuries”, organised by the National Library Board and the Singapore Heritage Society in 2009.
 
 Between 2016 and 2017, Lim donated a selection of his precious Japanese memorabilia to the National Library Board in three tranches. His intention was to make these items accessible for research and, in the process, educate younger generations of Singaporeans on our war history.
 
