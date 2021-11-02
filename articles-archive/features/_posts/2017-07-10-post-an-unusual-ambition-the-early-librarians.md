@@ -114,55 +114,55 @@ Both Padma’s catalogue and Kate’s *The Jungle Omnibus* are available on micr
 
 [^1]:Colonial Secretary Office paper 6414 dated 1938 [CSO 6414/1938].
 
-[^2]:Singapore Institution Free School: Fourth annual report, with appendix and catalogue of books now in the library, 1837–1838 (pp. 16, 18, 23). (1838). Singapore: Singapore Free Press. (Call no.: RRARE 373.5957 SIN); Seet K.K. (1983). A place for the people (p. 13). Singapore: Times Books International. (Call no.: RSING 027.55957 SEE) 
+[^2]:*[Singapore Institution Free School: Fourth annual report, with appendix and catalogue of books now in the library, 1837–1838](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202729313)* (pp. 16, 18, 23). (1838). Singapore: Singapore Free Press. (Call no.: RRARE 373.5957 SIN); Seet K.K. (1983). *[A place for the people](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082325)* (p. 13). Singapore: Times Books International. (Call no.: RSING 027.55957 SEE) 
 
-[^3]:Makepeace, W., Brooke, G.E., & Braddell, R.St.J. (Eds.). (1991). One hundred years of Singapore (Vol 1, pp. 544–545). Singapore: Oxford University Press. (Call no.: RSING 959.57 ONE); Seet, 1983, p. 23.
+[^3]:Makepeace, W., Brooke, G.E., & Braddell, R.St.J. (Eds.). (1991). *[One hundred years of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6203718)* (Vol 1, pp. 544–545). Singapore: Oxford University Press. (Call no.: RSING 959.57 ONE); [Seet](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082325), 1983, p. 23.
 
-[^4]:Raffles Library and Museum. (1924). Annual report 1923 (p. 9). Singapore: The Museum. (Call no.: RRARE 027.55957 RAF; Microfilm nos.: NL2874, NL25786, NL5723)
+[^4]:Raffles Library and Museum. (1924). *[Annual report 1923](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4394247)* (p. 9). Singapore: The Museum. (Call no.: RRARE 027.55957 RAF; Microfilm nos.: NL2874, NL25786, NL5723)
 
-[^5]:Raffles Library and Museum, 1927, p. 7.
+[^5]:[Raffles Library and Museum](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4394247), 1927, p. 7.
 
-[^6]:Daniel, G. (1959). Love unites people: Memoirs of a Christian worker in Singapore from 1913 to 1959 (pp. 6–7). Singapore: G. Daniel. (Call no. RCLOS 275.957 DAN)
+[^6]:Daniel, G. (1959). *[Love unites people: Memoirs of a Christian worker in Singapore from 1913 to 1959](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081988)* (pp. 6–7). Singapore: G. Daniel. (Call no. RCLOS 275.957 DAN)
 
-[^7]:Daniel, 1959, pp. 10, 13.
+[^7]:[Daniel](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081988), 1959, pp. 10, 13.
 
-[^8]:Singapore Diocesan Magazine. (1917, February 14). The Straits Times, p. 9. Retrieved from NewspaperSG.
+[^8]:[Singapore Diocesan Magazine](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19170214-1.2.48.aspx). (1917, February 14). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
 
-[^9]:Daniel, 1959, pp. 22–23; St Andrew’s cathedral. (1921, August 16). The Straits Times, p. 10. Retrieved from NewspaperSG.
+[^9]:[Daniel](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081988), 1959, pp. 22–23; [St Andrew’s cathedral](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19210816-1.2.67.aspx). (1921, August 16). *The Straits Times*, p. 10. Retrieved from NewspaperSG.
 
-[^10]:Page 21 advertisement column 1. (1927, September 10). The Malayan Saturday Post, p. 21. Retrieved from NewspaperSG.
+[^10]:[Page 21 advertisement column 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/malayansatpost19270910-1.2.45.1). (1927, September 10). *The Malayan Saturday Post*, p. 21. Retrieved from NewspaperSG.
 
-[^11]:Johnston, J. (1930, February 21). Supplementing juvenile education,The Singapore Free Press and Mercantile Advertiser, p. 1. Retrieved from NewspaperSG.
+[^11]:Johnston, J. (1930, February 21). [Supplementing juvenile education](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19300221-1.2.97), *The Singapore Free Press and Mercantile Advertiser*, p. 1. Retrieved from NewspaperSG.
 
-[^12]:‘No heavy stuff’, say Singapore readers. (1938, December 4). Sunday Tribune (Singapore), p. 13. Retrieved from NewspaperSG.[Note:  Annuals were popular children’s publications that were published once a year.]
+[^12]:[‘No heavy stuff’, say Singapore readers](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/sundaytribune19381204-1.2.54.7). (1938, December 4). *Sunday Tribune* (Singapore), p. 13. Retrieved from NewspaperSG.[Note:  Annuals were popular children’s publications that were published once a year.]
 
-[^13]:The Onlooker. (1936, September 13) Mainly about Malayans. The Straits Times, p. 16. Retrieved from NewspaperSG. 
+[^13]:The Onlooker. (1936, September 13) [Mainly about Malayans](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360913-1.2.117). *The Straits Times*, p. 16. Retrieved from NewspaperSG. 
 
-[^14]:Liang, E.R. (1930, December 4). Come along, boys. The Malaya Tribune, p. 2. Retrieved from NewspaperSG. 
+[^14]:Liang, E.R. (1930, December 4). [Come along, boys](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19301204-1.2.7). *The Malaya Tribune*, p. 2. Retrieved from NewspaperSG. 
 
-[^15]:“Desirous Girl”. (1931, February 14). A Girls’ Corner? The Malaya Tribune, p. 3. Retrieved from NewspaperSG.
+[^15]:“Desirous Girl”. (1931, February 14). [A Girls’ Corner?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19310214-1.2.13) *The Malaya Tribune*, p. 3. Retrieved from NewspaperSG.
 
-[^16]:“Cicily”. (1931, May 7). Street corner idling. The Malaya Tribune, p. 3; “Cicily”. (1931, May 21). Boys and street corner idling. The Malaya Tribune, p. 4. Retrieved from NewspaperSG.
+[^16]:“Cicily”. (1931, May 7). [Street corner idling](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19310507-1.2.15). *The Malaya Tribune*, p. 3; “Cicily”. (1931, May 21). [Boys and street corner idling](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19310521-1.2.28). *The Malaya Tribune*, p. 4. Retrieved from NewspaperSG.
 
-[^17]:“Evelyn”. (1931, May 9). To bob or not to bob. The Malaya Tribune, p. 4; Page 2 advertisements column 2. (1931, May 9). The Malaya Tribune, p. 2. Retrieved from NewspaperSG.
+[^17]:“Evelyn”. (1931, May 9). [To bob or not to bob](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19310509-1.2.10). *The Malaya Tribune*, p. 4; [Page 2 advertisements column 2](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19310509-1.2.6.2). (1931, May 9). *The Malaya Tribune*, p. 2. Retrieved from NewspaperSG.
 
-[^18]:“Progress”. (1931, May 20). Girls’ Corner. The Malaya Tribune, p. 2. Retrieved from NewspaperSG.
+[^18]:“Progress”. (1931, May 20). [Girls’ Corner](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19310520-1.2.3). *The Malaya Tribune*, p. 2. Retrieved from NewspaperSG.
 
 [^19]:Raffles Library and Museum, 1924, p, 10.
 
-[^20]:Raffles Library may be made more useful to community. (1940, May 22). The Malaya Tribune, p. 2 Retrieved from NewspaperSG.
+[^20]:[Raffles Library may be made more useful to community](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19400522-1.2.15). (1940, May 22). *The Malaya Tribune*, p. 2 Retrieved from NewspaperSG.
 
-[^21]:Mr. A. Savage Bailey killed by fall from ship. (1935, April 2). The Singapore Free Press and Mercantile Advertiser, p. 1. Retrieved from NewspaperSG.
+[^21]:[Mr. A. Savage Bailey killed by fall from ship](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19350402-1.2.5). (1935, April 2). *The Singapore Free Press and Mercantile Advertiser*, p. 1. Retrieved from NewspaperSG.
 
-[^22]:Raffles Library and Museum, 1936, p. 1.
+[^22]:[Raffles Library and Museum](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4394247), 1936, p. 1.
 
-[^23]:Raffles Library and Museum, 1936, pp. 11, 14.
+[^23]:[Raffles Library and Museum](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4394247), 1936, pp. 11, 14.
 
-[^24]:Raffles Library and Museum, 1937, p. 16.
+[^24]:[Raffles Library and Museum](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4394247), 1937, p. 16.
 
-[^25]:Book for Malayan children – Jungle omnibus of Mrs Savage-Bailey. (1936, November 30). The Malaya Tribune, p. 16. Retrieved from NewspaperSG.
+[^25]:[Book for Malayan children – Jungle omnibus of Mrs Savage-Bailey.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19361130-1.2.123) (1936, November 30). *The Malaya Tribune*, p. 16. Retrieved from NewspaperSG.
 
-[^26]:Raffles Library and Museum, 1939, p. 16; Raffles Library and Museum, 1940, p. 1.
+[^26]:[Raffles Library and Museum](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4394247), 1939, p. 16; [Raffles Library and Museum](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4394247), 1940, p. 1.
 
 [^27]:CSO 6414/1938.
 
