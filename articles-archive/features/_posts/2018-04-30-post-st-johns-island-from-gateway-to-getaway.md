@@ -66,3 +66,32 @@ Another report in *The Straits Times* in 1935 feted St John’s as the “larges
 #### **Memories of Quarantine**
 
 Henry Ellis’ initial plans to use Peak (Kusu) Island as a burial ground were soon cut short when a community leader named Cheang Hong Lim raised strenuous objections to this idea. Instead, Lazarus Island took its place; from the early 20th century onwards, passengers who died upon or shortly after arrival were buried here.
+
+<img src="/images/Vol-14-issue-1/st-johns-island/StJohn5.JPG">
+<div style="background-color: white;">
+Minister for Health Armand J. Braga visits the Opium Treatment Centre on St John’s Island when it opened in 1955. The centre trained opium addicts in various tasks, such as carpentry and woodworking, for their  rehabilitation into productive society. It closed in 1975. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
+Writing to the Colonial Engineer J.F.A. McNair in 1875, Cheang offered a glimpse into Kusu’s cultural life, which British authorities had overlooked. He wrote:
+
+“… a small Island called Peak Island, lying opposite to this Colony of Singapore, has, for upwards of thirty years been used by many of the Chinese and native Inhabitants of this Settlement as a place for them to resort to at certain periods every year, for the purpose of making sacrifices, and paying their vows to certain deities there called ‘Twa Pek Kong Koosoo’ and ‘Datok Kramat’, and as that place has lately, to the great prejudice of their feelings, been desecrated by the interment therein of a number of dead bodies. Your Petitioner is desirous of applying for a Title to the same, in order to prevent that place from being any longer used as a Burial Ground”.25
+
+Teo Choon Hong, who arrived in Singapore from Amoy (now Xiamen), China, in 1937, recalled his quarantine experience with the National Archives of Singapore in 1983. He said in Hokkien:
+
+“I was quarantined on Kusu Island (later in the interview, he clarified that he had meant St John’s Island) as the British thought that there were germs on the lower berth of the steamer that might lead to infectious diseases. Only those on the lower deck were quarantined. Those who stayed in the cabins did not have to go. There was a class distinction…. Being quarantined on Kusu Island was inhumane. We were bossed around like chickens and ducks. The British saw us Chinese as beasts. After being given some rations, it felt like we were camping – we had to cook and eat there. I was quarantined for two days before being released”.26
+
+Teong Eng Siong offered a more sanguine view of his stay on St John’s Island after he arrived from Foochow (now Fuzhou) in 1948:
+
+“Every batch of people who came here had to stay at Qizhang Hill27 for a short three to five days, so as to ensure that there were no infectious diseases and such. After three or five days, I was allowed ashore…. We had three meals a day. Breakfast consisted of bread and milk tea. There were two small slices of bread. At that time, it was not enough. Then in the afternoon, it was lunch, and at night it was dinner. The meals all had eggs, and some stir-fried vegetables and fish. We had two time slots a day to shower, because at that time, the weather was hotter, hotter than now. It made us more comfortable. Living quarters-wise, there were many people living together in a big hall”.28
+
+For Saravana Perumal, who came from Jaffna, Ceylon, in 1947, St John’s Island was an “isolated place”. “We were locked up in the camp,” he told the National Archives in 1983.29 “We were given rations, firewood, pots to cook and prepare our own food. It gave me a sort of fright there because of centipedes, cockroaches…”.
+
+Years later, in 1955, Perumal returned to St John’s Island when he was transferred there to help establish an Opium Treatment Centre. This centre, he explained, trained opium addicts in various tasks for rehabilitation into productive society. “After a month, when they are certified fit for work, they were given the jobs of carpentry where they made tables, chairs, furniture, rattan work, tailoring…”.30
+
+The treatment centre at St John’s, which operated until 1975, was one of the island’s new functions after the war. But quarantine continued even after Singapore gained independence in 1965 as the government had adopted a precautionary stance against the risk of infection from deck passengers from China and India.31 It was only in 1971 that deck passengers from China were exempted from compulsory quarantine if they had valid health certificates.32 Those from India had to wait until 1973 for compulsory quarantine to end. St John’s quarantine centre officially closed on 14 January 1976.33
+
+#### **Island and Prison**
+
+In 1948, parts of St John’s Island were converted into a detention centre for political prisoners.34 Earlier, during World War II, the island had already acquired a political-military dimension when it housed Japanese and German civilians. During their stay, the Germans erected a Chinese-style moon gate by the island’s western shore, which still stands today.35
+
+<img src="/images/Vol-14-issue-1/st-johns-island/StJohn6.JPG">
+<div style="background-color: white;">In 1948, part of St John’s Island was converted into a detention centre for political prisoners. In 1956, C.V. Devan Nair (extreme right) – who became Singapore’s third president in 1981 – along with (from left to right) Lim Chin Siong, Sydney Woodhull and Fong Swee Suan, his colleagues from the People’s Action Party (PAP), were detained on St John’s until the PAP was returned to power in 1959. This photo was taken by Lee Kuan Yew, the first prime minister of Singapore, in 1959. <i>Photograph taken by the late Mr Lee Kuan Yew, courtesy of National Archives of Singapore.</i></div>
