@@ -7,7 +7,7 @@ layout: post
 #### This unique style of architecture only reigned for five decades in China, yet several buildings in Singapore still bear the hallmarks of this hybrid form, says **Julian Davison**.
 
 <img src="/images/Vol-14-issue-1/chinese-renaissance-architect/Renaissance1.JPG">
-<div style="background-color: white;"></i></div>
+<div style="background-color: white;">Majestic Theatre (left) and Great Southern Hotel (right) on Eu Tong Sen Street, 1950. Designed by Swan & Maclaren, these buildings were more Art Deco than Chinese Renaissance in design, although both bear Chinese-inspired details and decorative motifs. <i>Tan Kok Kheng Collection, courtesy of National Archives of Singapore.</i></div>
 
 There have been several “Chinese  Renaissances” in the history of the Middle Kingdom – depending on which authority one consults. For the historian, the Han (206 BCE–CE 220), Tang (618–907) and Song (960–1279) dynasties, can each, in their own way, claim to be the Chinese equivalent to the Renaissance in the West  that took place between the end of the 14th and the beginning of the 17th centuries.
 
@@ -124,5 +124,17 @@ The upturned corners, which are every Westerner’s idea of what a Chinese roof 
 
 There are several other Chinese-inflected  buildings dating from the 1920s, notably Eu Court (1925), Great Southern Hotel (1927) and Theatre of Heavenly Shows, today’s Majestic Theatre (1928). All three were commissioned by Eu Tong Sen and designed by Swan & Maclaren, but they are more Art Deco  in character, albeit with Chinese flourishes – a kind of Shanghai chic that was all the rage back then.
 
+There was, however, one other major building from this period that managed to be both Art Deco and Chinese Renaissance at the same time. This was the headquarters of the newly created Oversea-Chinese Banking Corporation (OCBC) on Chulia Street,11 which was designed by the British partnership of Keys & Dowdeswell in 1929.
+
+Best remembered for the Fullerton Building (today’s Fullerton Hotel), home to Singapore’s General Post Office, which had been completed the previous year, Keys & Dowdeswell were riding the crest of a wave, having temporarily displaced  Swan & Maclaren as the architects of choice for large-scale corporate  commissions in the latter half of the 1920s. Other major works by Keys &  Dowdeswell at this time include the Mercantile Bank of India building in Raffles Place and the Kwantung Provincial Bank on Cecil Street, as well as a six-storey office block on the corner of Finlayson Green and Robinson Road for the Dutch shipping line, Koninklijke Paketvaart - Maatschappij, or KPM for short.
+
+The China Building, as the OCBC building was known, was Keys & Dowdeswell’s only venture into the realm of Chinese Renaissance architecture – a massive, five-storey Art Deco block capped with a Chinese pavilion wrought in reinforced concrete – but it made a huge impact.
+
 <img src="/images/Vol-14-issue-1/chinese-renaissance-architect/Renaissance11.JPG">
-<div style="background-color: white;">In 1925, Frank Brewer designed two blocks of flats in the Chinese Renaissance style for Eu Tong Sen, a prominent businessman and leader of the Chinese community, at 31–45 Club Street. The buildings now form part of Emerald Garden condominium. <i>Courtesy of Julian Davison.</i></div>
+<div style="background-color: white;">The China Building on Chulia Street, which served as the old headquarters of Oversea-Chinese Banking Corporation, 1964. The building was designed by Keys & Dowdeswell in 1929. It was a five-storey Deco block capped with a Chinese pavilion. <i>All rights reserved, family of Kouo Shang-Wei and National Library Board, Singapore.</i></div>
+
+Much of the building’s Art Deco-style ornamentation was modelled after the firm’s Fullerton Building – similar  detailing was used for its Capitol Theatre and the adjoining four-storey apartment-cum-shop complex known as Namazie Mansions at the corner of Stamford and North Bridge roads in 1930, giving rise to the term “GPO architecture” – but the attic storey was full-blown Chinese Renaissance with its imitation roof brackets (dougong) supporting upturned eaves surmounted with stylised “dragon” ornaments  (chiwen) at the four corners.
+
+The OCBC building was the last major Chinese Renaissance-style building to be erected by British architects in pre-war Singapore. At this early stage, it was almost exclusively British architects who embraced the Chinese  Renaissance style. Local architects were not much inclined to take up the cause until after World War II. Why was this so?
+
+Many local architects who qualified to practise under the Architects Ordinance of 1926 were schooled in  Western engineering and may have instinctively been attracted to more contemporary or “Modernistic” styles of architecture – mainly Streamlined Moderne – which exploited the potential of the latest building technologies, most notably reinforced concrete, rather than the retrospective traditionalism of the Chinese Renaissance movement.
