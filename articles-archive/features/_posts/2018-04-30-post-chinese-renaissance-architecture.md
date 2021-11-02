@@ -157,3 +157,33 @@ In 1926, the famous Ee Hoe Hean Club, otherwise known as the “Millionaires’ 
 <br><br>
 The original plans were for a Chinese Renaissance-style building, and one cannot help but draw the conclusion that members of the building committee were influenced  by Eu Tong Sen’s apartments at the foot of Club Street – the original Ee Hoe Hean Club (established 1895) was at 28 Club Street at the time, a stone’s throw from the apartments. Although Swan & Maclaren’s original building plans were beautifully  executed, in the end club members decided to go for a more contemporary  look, which is the building we see today on Bukit Pasoh Road. The club is still around today; the membership remains exclusively male and by invitation only.	
 </div>
+
+<br>
+<div style="background-color: white;">
+<img src="/images/Vol-14-issue-1/chinese-renaissance-architect/Renaissance14.jpg" style="width: 100px; height: 100px;">
+<b>Dr Julian Davison</b>  is currently writing a history of Singapore’s oldest architectural practice, Swan & Maclaren, whose origins go back to the late 1880s. He is anthropologist, architectural historian and former Lee Kong Chian Research Fellow. The book is scheduled to be published in the last quarter of 2017.
+</div>
+
+<a href="https://biblioasia.nlb.gov.sg/vol-14/issue-1/apr-jun-2018/"><center>Back to Issue</center></a>
+
+#### **NOTES**
+[^1]:
+[^2]:
+[^3]:
+[^4]:
+[^5]:
+[^6]:
+[^7]:
+[^8]:
+[^9]:
+[^10]:
+Doon, D. (1936). Architectural chronicle. T’ien Hsia Monthly, 3 (4), 358–362. The article was republished in the online China Heritage Quarterly, June 2010, China Heritage Project, Australian National University.
+Cody, J.W. (1996, December). Striking a harmonious chord: Foreign missionaries and Chinese-style buildings, 1911–1949. Architronic, 5 (3), 1–30. Retrieved from iBrarian website.
+Cody, Dec 1996, p. 5.
+When it came to Tan’s buildings in Singapore, however, it seems that he preferred to adopt a Western style of architecture: Edwardian Baroque for the Chinese High School at Bukit Timah (today’s Hwa Chong Institution), which was founded by Tan in 1919 (the school building dates from 1923); Beaux Arts for his residence at Cairnhill (1926); and Art Deco for his rubber goods factory in Kallang (1930).
+Two notable exceptions are the Armenian Church, consecrated 1835, and the Cathedral of the Good Shepherd, consecrated in 1847, which are both neo-Classical in conception, but then they date from before the Gothic Revival style became popular in Britain.
+The new Chinese church. (1924, February 2). Malayan Saturday Post, p. 24. Retrieved from NewspaperSG.
+Opening of Telok Ayer Chinese Church. (1925, April 27). The Singapore Free Press and Mercantile Advertiser, p. 8. Retrieved from NewspaperSG.
+A Chinese church. (1925, April 27). The Straits Times, p. 9. Retrieved from NewspaperSG.
+It was a boys-only school in those days as girls attended their own school, known as Methodist Girls’ School today, on Selegie Road.
+Anglo-Chinese School. (1928, November 19). The Singapore Free Press and Mercantile Advertiser, p. 9. Retrieved from NewspaperSG.
