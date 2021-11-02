@@ -84,7 +84,7 @@ In order not to arouse the suspicion of Min Yuen members in the area, the lorry�
 
 Unaware to passers-by, Irene Lee was hiding in one of those crates. While the men went about changing the wheel, Lee opened the trapdoor of the crate, “picked the front door lock [of the bookshop], entered the shop, searched it, made photocopies and was back in her packing case” – all before the lorry was reloaded with the crates.[^18] From the evidence Lee found in the bookshop, the Special Branch ascertained that the nerve centre of the courier network was located in Ipoh and not Kuala Lumpur as it originally thought, and that it was run by a woman.
 
-<img style="width: 370px; height: 450px;" src="/images/Vol-14-issue-1/hunting-down-the-malayan/Hunt5.JPG">
+<img style="width: 350px; height: 450px;" src="/images/Vol-14-issue-1/hunting-down-the-malayan/Hunt5.JPG">
 <div style="background-color: white;">As part of the communists’ clandestine communications network, rolled slips containing secret coded messages were concealed in everyday nondescript items such as a wall clock or a Chinese tea box. <i>Courtesy of ISD Heritage Centre.</i></div>
 
 #### **The Cat Finally Gets Her Mouse (in Ipoh)**
