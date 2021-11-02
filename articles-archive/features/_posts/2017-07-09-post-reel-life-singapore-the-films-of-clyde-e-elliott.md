@@ -6,7 +6,7 @@ layout: post
 ---
 #### Clyde Elliott was the first Hollywood director to shoot a feature film in Singapore. **Chua Ai Lin** examines the authenticity of the three movies he produced here in the 1930s.
 
-<div style="background-color: white;"><br><img style="width:600px" src="/images/Vol-13-issue-2/reel-life-singapore/01_reellife.jpg"><i>Bring ‘Em Back Alive</i> (1932) was a documentary feature based on the adventures of Frank Buck, a Texan wildlife collector who established his base in Singapore during World War I. Directed by Clyde E. Elliott, the film’s box office takings hit a million dollars within eight months of its release. <i>Image source: Iceposter.com.</i></div>
+<div style="background-color: white;"><br><img style="width:500px" src="/images/Vol-13-issue-2/reel-life-singapore/01_reellife.jpg"><i>Bring ‘Em Back Alive</i> (1932) was a documentary feature based on the adventures of Frank Buck, a Texan wildlife collector who established his base in Singapore during World War I. Directed by Clyde E. Elliott, the film’s box office takings hit a million dollars within eight months of its release. <i>Image source: Iceposter.com.</i></div>
 
 Singapore entered Hollywood’s popular imagination at the turn of the 20th century when motion pictures began showing scenes of a modern and exotic Asian port city with a heady mix of the East and the West.
 
@@ -70,7 +70,7 @@ Despite the good reviews, *Devil Tiger*, however, failed to make its mark at the
 
 Although filmed in Hawaii, *The Jungle Princess* was the first talkie to use actual Malay dialogue, and reflected its supposedly multiethnic Malayan milieu by including characters who were clearly meant to be Chinese alongside Malay villagers and European hunters.[^26] Tightly directed and combining drama, comedy, romance and jungle action with captivating vocals by Lamour, the film played to full houses in Singapore. Unlike previous Malayan films, this one received the thumbs up from local critics.[^27] *The Jungle Princess* even inspired an Indonesian remake entitled *Terang Boelan* (1937), scripted by the Indonesian journalist Saeroen, with cinematography by an Indonesian Chinese, David Wong.[^28]
 
-<div style="background-color: white;"><img style="width:500px" src="/images/Vol-13-issue-2/reel-life-singapore/05_reellife.png"><i>The Jungle Princess</i> (1936), starring Dorothy Lamour as a native girl, is the first talkie to use actual Malay dialogue. The story reflected multiethnic Malayan society by including a Chinese servant alongside Malay villagers and European hunters. <i>Image source: Iceposter.com.</i></div>
+<div style="background-color: white;"><img style="width:400px" src="/images/Vol-13-issue-2/reel-life-singapore/05_reellife.png"><i>The Jungle Princess</i> (1936), starring Dorothy Lamour as a native girl, is the first talkie to use actual Malay dialogue. The story reflected multiethnic Malayan society by including a Chinese servant alongside Malay villagers and European hunters. <i>Image source: Iceposter.com.</i></div>
 
 #### **Booloo (1938)**
 
@@ -112,7 +112,7 @@ Only one man could be found who could speak the Sakai language, but he was Chine
 <br><br>
 Even the lead actor Cockle had to assist the director in translating instructions into Malay, while additional Tamil interpreters were hired for the Indian supporting cast members. No effort too was spared in maximising the dramatic potential of the natural surroundings. The underwater scenes of a real-life fight between a tiger shark and octopus, shot by cinematographer Stacy Woodward, were considered to be of important documentary value by experts in the US.[^44]
 <br><br>
-<img style="width:500px"  src="/images/Vol-13-issue-2/reel-life-singapore/08_reellife.png"><i>Samarang</i> (1933) was directed by Ward Wing, produced by United Artists and B. F. Zeidman, and distributed by United Artists. The female lead was played by a local Eurasian actress named Therese Seth, while the male protagonist was played by Captain Albert Victor Cockle, a British expatriate who was Chief Inspector of Police and an amateur actor. <i>Courtesy of Wikimedia Commons.</i>
+<img style="width:430px"  src="/images/Vol-13-issue-2/reel-life-singapore/08_reellife.png"><i>Samarang</i> (1933) was directed by Ward Wing, produced by United Artists and B. F. Zeidman, and distributed by United Artists. The female lead was played by a local Eurasian actress named Therese Seth, while the male protagonist was played by Captain Albert Victor Cockle, a British expatriate who was Chief Inspector of Police and an amateur actor. <i>Courtesy of Wikimedia Commons.</i>
 <br><br>
 A review in <i>The New York Times</i> praised the film as “a picture distinguished by the obvious authenticity of many of its scenes. The flashes of the divers are shrewdly pictured – first by the men plunging into the sea and later by revealing them below, picking up shells. It is, of course, a fiction story to which a certain realism is lent by the portrayals by the natives”.[^45]
 <br><br>
