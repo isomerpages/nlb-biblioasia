@@ -27,3 +27,13 @@ The Junior Library and the Malaysia Room were likely factors that influenced loc
 #### **Family Influence**
 
 Padma Daniel was born on 31 August 1919, the eldest child of George O. Daniel and Harriet Fletcher, ethnic Indians from Travancore, India. George’s interest in books likely began as a young boy when his active involvement at church in India led him to meet an English expatriate with an extensive home library.[^6]
+
+<div style="background-color: white;"><br><img src="">George Daniel’s book, Love Unites People: Memoirs of a Christian Worker in Singapore from 1913 to 1959. Published in 1959, the book makes references to the life of his daughter, Padma Daniel. <i>All rights reserved, Daniel, G. (1959). Love Unites People: Memoirs of a Christian Worker in Singapore from 1913 to 1959. Singapore: G. Daniel. (Call no.: RCLOS 275.957 DAN)</i></div>
+
+He continued this interest in books, mainly Christian publications, first working in Rangoon, Burma, for five years, managing the Rangoon Diocesan Magazine for the Anglican Diocese,[^7] before being appointed as Honorary Secretary and Treasurer for the Diocesan Magazine in Singapore in 1917.[^8]
+
+In Singapore, he also managed the Book Depot – which in time became informally known as Daniel’s Depot – a supplier of Christian books as well as books “both ancient and modern”.[^9] Early advertisements for the Book Depot included listings of books for boys and girls, dictionaries, art picture books and novels.[^10] Padma likely had privileged access to many of these titles and invariably developed a love for reading.
+
+#### **The Junior Library**
+
+When the Junior Library first opened on 21 July 1923, it was housed in a large room on the ground floor next to the Raffles Library’s Public Room.
