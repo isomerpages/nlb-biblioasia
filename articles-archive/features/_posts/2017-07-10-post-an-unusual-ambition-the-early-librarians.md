@@ -30,9 +30,9 @@ The Junior Library and the Malaysia Room were likely factors that influenced loc
 
 Padma Daniel was born on 31 August 1919, the eldest child of George O. Daniel and Harriet Fletcher, ethnic Indians from Travancore, India. George’s interest in books likely began as a young boy when his active involvement at church in India led him to meet an English expatriate with an extensive home library.[^6]
 
-<div style="background-color: white;"><img style="width:400px" src="/images/Vol-13-issue-2/an-unusual-ambition/02_unusualambition.jpg">George Daniel’s book, Love Unites People: Memoirs of a Christian Worker in Singapore from 1913 to 1959. Published in 1959, the book makes references to the life of his daughter, Padma Daniel. <i>All rights reserved, Daniel, G. (1959). Love Unites People: Memoirs of a Christian Worker in Singapore from 1913 to 1959. Singapore: G. Daniel. (Call no.: RCLOS 275.957 DAN)</i></div>
+<div style="background-color: white;"><img style="width:400px" src="/images/Vol-13-issue-2/an-unusual-ambition/02_unusualambition.jpg">George Daniel’s book, <i>Love Unites People: Memoirs of a Christian Worker in Singapore from 1913 to 1959</i>. Published in 1959, the book makes references to the life of his daughter, Padma Daniel. <i>All rights reserved, Daniel, G. (1959). Love Unites People: Memoirs of a Christian Worker in Singapore from 1913 to 1959. Singapore: G. Daniel. (Call no.: RCLOS 275.957 DAN)</i></div>
 
-He continued this interest in books, mainly Christian publications, first working in Rangoon, Burma, for five years, managing the Rangoon Diocesan Magazine for the Anglican Diocese,[^7] before being appointed as Honorary Secretary and Treasurer for the Diocesan Magazine in Singapore in 1917.[^8]
+He continued this interest in books, mainly Christian publications, first working in Rangoon, Burma, for five years, managing the *Rangoon Diocesan Magazine* for the Anglican Diocese,[^7] before being appointed as Honorary Secretary and Treasurer for the *Diocesan Magazine* in Singapore in 1917.[^8]
 
 In Singapore, he also managed the Book Depot – which in time became informally known as Daniel’s Depot – a supplier of Christian books as well as books “both ancient and modern”.[^9] Early advertisements for the Book Depot included listings of books for boys and girls, dictionaries, art picture books and novels.[^10] Padma likely had privileged access to many of these titles and invariably developed a love for reading.
 
@@ -42,7 +42,7 @@ When the Junior Library first opened on 21 July 1923, it was housed in a large r
 
 <div style="background-color: white;"><img src="/images/Vol-13-issue-2/an-unusual-ambition/03_unusualambition.jpg">The Junior Library at the Raffles Library, c. 1950s. The low wooden tables and chairs were specially designed for children’s use. The wooden 20-compartment catalogue card cabinet can be seen on the right-hand side of the photograph. <i>Image source: National Library Board, Singapore.</i></div>
 
-The Junior Library had a collection of more than 1,000 books, among which were Greek classics such as the Iliad, Odyssey and Aeneid as well as works by famed writers like Daniel Defoe, Jules Verne, R. L. Stevenson, R. M. Ballantyne and Mark Twain. Johnston the Librarian said of the collection in February 1930:
+The Junior Library had a collection of more than 1,000 books, among which were Greek classics such as the *Iliad, Odyssey* and *Aeneid* as well as works by famed writers like Daniel Defoe, Jules Verne, R. L. Stevenson, R. M. Ballantyne and Mark Twain. Johnston the Librarian said of the collection in February 1930:
 
 “It might be of interest to some to know that many of the local children whether Malay, Chinese, or Indian are just as ready to read and enjoy the tales by these authors with the same enthusiasm as boys in England….”[^11]
 
@@ -80,7 +80,7 @@ Kate chose to remain in Malaya after the tragedy, moving to Singapore to take up
 
 This included opening the Raffles Library half an hour earlier at 8.30 am.[^23] When Kate’s contract was extended for another two years of service, she turned her energies to the heritage collections. She installed new bookcases in the Malaysia Room, and published the J. V. Mills Map Collection Index to make the maps more accessible. For home loans, Kate made arrangements for more open access, including purchasing duplicate titles.[^24]
 
-Outside library duties, Kate regularly contributed articles to The Straits Times on topics relating to Malaya, such as living and travelling in Malaya, on local domestic help, and Malayan architecture. She republished her children’s book, Squee- umph!! A Malayan Elephant (1929), in 1934, and released The Jungle Omnibus, a collection of four short stories about Malayan animals, in 1936. The Malaya Tribune praised the book for its “pure and fluent” style and commented that “it is the type of book which will give delight as well as instruction, and it should be in the possession of all children in this country who are being taught English”.[^25] Between March and June 1937, she gave frequent talks on the radio, most of which were readings of her children’s books.
+Outside library duties, Kate regularly contributed articles to *The Straits Times* on topics relating to Malaya, such as living and travelling in Malaya, on local domestic help, and Malayan architecture. She republished her children’s book, *Squee- umph!! A Malayan Elephant* (1929), in 1934, and released *The Jungle Omnibus*, a collection of four short stories about Malayan animals, in 1936. *The Malaya Tribune* praised the book for its “pure and fluent” style and commented that “it is the type of book which will give delight as well as instruction, and it should be in the possession of all children in this country who are being taught English”.[^25] Between March and June 1937, she gave frequent talks on the radio, most of which were readings of her children’s books.
 
 #### **Padma’s Legacy**
 
@@ -94,7 +94,7 @@ Around this time, Padma likely began work on her bibliographic listing of books 
 
 The onset of World War II, however, put a halt to Padma’s career. With the Japanese troops advancing down the Malay Peninsula, Padma evacuated to Bombay, India, on 8 January 1942, just weeks before Singapore fell. She was soon followed by her mother and two siblings. Another brother was already safe in Delhi, studying at St Stephen’s College, but one stayed behind to serve in the Medical Auxiliary Service in Singapore. Her father remained behind to manage the Book Depot, by then known as the SPCK Churchshop. He lost all contact with the family until they were reunited towards the end of the Japanese Occupation in 1945.[^29]
 
-Unfortunately, Kate did not survive the war. The ship she boarded, the S.S. Rooseboom, which was heading for Padang in late February 1942, was sunk by a Japanese submarine near Batavia.[^30]
+Unfortunately, Kate did not survive the war. The ship she boarded, the *S.S. Rooseboom*, which was heading for Padang in late February 1942, was sunk by a Japanese submarine near Batavia.[^30]
 
 After the war, Padma’s catalogue remained one of the few available for purchase. Costing $3.50, it was used to rebuild the Malayan Collections as it listed key prewar titles, including fictional works with a local setting.[^31] On her return to Malaya, Padma moved  to  Kajang, Selangor.[^32] Little else is known of Padma thereafter or whether she fulfilled her “unusual ambition” of becoming a qualified librarian.
 
