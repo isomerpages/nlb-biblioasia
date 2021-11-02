@@ -52,7 +52,7 @@ In some British wartime documents, there is also mention of the malaria parasite
 
 Harbin, the capital city of Heilongjiang province in China, is today famous for its beer and the annual ice sculpture festival, but during World War II, its outlying hamlet Pingfang served as Unit 731’s hub in China.
 
-<img style="width: 450px; height: 370px;" src="/images/Vol-14-issue-1/secret-war-experiments-in-sg/Secret3.JPG">
+<img style="width: 500px; height: 370px;" src="/images/Vol-14-issue-1/secret-war-experiments-in-sg/Secret3.JPG">
 <div style="background-color: white;">Passers-by bowing to Japanese soldiers outside a Japanese-owned shop in Singapore during the Japanese Occupation, c.1942–45. Unknown to the local population at the time, the Japanese had set up a laboratory in Singapore to cultivate pathogens that could cause pandemics such as anthrax, cholera, smallpox and malaria. <i>From Shashin Shuho, courtesy of National Archives of Singapore.</i></div>
 
 Lim’s research shows that after Japan unleashed the Nanjing Massacre between December 1937 and January 1938, Unit 731 began researching the optimal conditions necessary for breeding biological weapons, such as plague-carrying fleas from rats, in order to obliterate the Chinese economically and efficiently.
@@ -69,7 +69,7 @@ Lab workers would then isolate the fleas, now swollen with plague-rich blood. Th
 
 Millions of the “verified” fleas were then flown to Thailand every two or three months “in big glass jars”, says Lim, ready for Japanese war planes to drop on their hapless foes.
 
-<img style="width: 450px; height: 370px;" src="/images/Vol-14-issue-1/secret-war-experiments-in-sg/Secret4.JPG">
+<img style="width: 500px; height: 370px;" src="/images/Vol-14-issue-1/secret-war-experiments-in-sg/Secret4.JPG">
 <div style="background-color: white;">The neo-classical College of Medicine Building (c.1949) with its stately row of fluted Doric columns was erected in 1926 to house the King Edward VII College of Medicine. Ironically a building dedicated to the training of medical doctors would later be turned into a facility to spread diseases among people. <i>Ong Kay Ann Collection, courtesy of National Archives of Singapore.</i></div>
 
 Wartime records show that 10,000 rats sickened by the bubonic plague could yield 10 kg of plague-bearing fleas – and one needed only 5 g of fleas, or an estimated 1,700 fleas, to finish off around 600 people, as Lim learnt from reading the documents. With 10 g of fleas, the effects were quadrupled, easily wiping out as many as 2,400 people at once. “The Japanese found it a most effective weapon of war”, he notes. On one of their subsequent bombing blitzes, war planes carrying clay bombs filled with oxygen and plague-infected fleas obliterated more than 9,000 people in China, according to Chinese wartime records. “There was no need for bullets”, adds Lim wryly.
@@ -97,7 +97,7 @@ But the truth eventually surfaced. “In the 1980s and 90s”, says Lim, “the 
 
 Some of these younger doctors formed non-governmental organisations, which published accounts of what their founders had learnt about Unit 731’s experiments. Why was Japan not rocked by such findings? Lim puts it down to the thick fog of negation surrounding Japan’s war crimes, including from Japan’s powerful and vociferous right-wing politicians. Also, he mused sadly: “Children do not appreciate their grandfathers’ histories”.
 
-<img style="width: 550px; height: 370px;" src="/images/Vol-14-issue-1/secret-war-experiments-in-sg/Secret6.JPG">
+<img style="width: 500px; height: 370px;" src="/images/Vol-14-issue-1/secret-war-experiments-in-sg/Secret6.JPG">
 <div style="background-color: white;">From left to right: Professor Nobuyoshi Takashima, Dr Yosuke Watanabe and Lim Shao Bin, holding a rare 1938 map showing Tokyo as the centre of the world. This photo was taken on 15 February 2018, during the Japanese dons’ yearly sojourn to Singapore to commemorate the Fall of Singapore on 15 February 1942. <i>Courtesy of Cheong Suk-Wai.</i></div>
 
 Some Japanese do, though. On 15 February this year, Lim introduced me to Nobuyoshi Takashima, 76, professor emeritus at Ryukyu University, who has been researching the dark days of the Japanese Occupation in Singapore and Malaya for more than 40 years. As Prof Takashima speaks no English, his friend, Dr Yosuke Watanabe, 47, visiting fellow at the Center for Asia-Pacific Partnership, Osaka University of Economics and Law, acted as translator.
