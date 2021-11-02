@@ -127,54 +127,54 @@ Passing for a quasi-documentary on natives of the South Seas, Samarang depicted 
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Vol-13-issue-2/reel-life-singapore/chua-ai-lin.png">
-	<b>Dr Chua Ai Lin</B> is the president of the Singapore Heritage Society and a member of the National Library Advisory Committee. She holds a PhD in History from the University of Cambridge. Her papers on Singapore’s social and cultural history have been published in journals such as Modern Asian Studies and Inter-Asia Cultural Studies.
+	<b>Dr Chua Ai Lin</B> is the president of the Singapore Heritage Society and a member of the National Library Advisory Committee. She holds a PhD in History from the University of Cambridge. Her papers on Singapore’s social and cultural history have been published in journals such as <i>Modern Asian Studies</i> and <i>Inter-Asia Cultural Studies.</i>
 </div>
 
 <a href="/vol-13/issue-2/jul-sep-2017/"><center>Back to Issue</center></a>
 
 #### **NOTES**
 
-[^1]:Singapore may become Hollywood of East. (1936, January 9). The Singapore Free Press and Mercantile Advertiser, p. 6. Retrieved from NewspaperSG.
+[^1]:[Singapore may become Hollywood of East](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19360109-1.2.55). (1936, January 9). *The Singapore Free Press and Mercantile Advertiser*, p. 6. Retrieved from NewspaperSG.
 
-[^2]:The film invasion. (1936, March 20). The Singapore Free Press and Mercantile Advertiser, p. 8. Retrieved from NewspaperSG.
+[^2]:[The film invasion](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19360320-1.2.58.2). (1936, March 20). *The Singapore Free Press and Mercantile Advertiser*, p. 8. Retrieved from NewspaperSG.
 
-[^3]:Millet, R. (2006). Singapore cinema (p. 19). Singapore: Editions Didier Millet. (Call no.: RSING q791.43095957 MIL); Millet, R. (2016, Apr–Jun). Gaston Méliès and his lost films of Singapore, 12 (1). Retrieved from BiblioAsia website; Toh, H.P. (n.d.). Singapore Film Locations Archive website.
+[^3]:Millet, R. (2006). *[Singapore cinema](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12716044)* (p. 19). Singapore: Editions Didier Millet. (Call no.: RSING q791.43095957 MIL); Millet, R. (2016, Apr–Jun). *[Gaston Méliès and his lost films of Singapore](http://www.nlb.gov.sg/biblioasia/2016/04/03/gaston-melies-and-his-lost-films-of-singapore/), 12* (1). Retrieved from BiblioAsia website; Toh, H.P. (n.d.). Singapore Film Locations Archive website.
 
-[^4]:Millet, 2006, pp. 143–44.; Lai, C.K. (2001). The native in her place: Hollywood depictions of Singapore from 1940–1980. (Unpublished paper). Prints of these films are not easily available, with some existing only as non-circulating archival copies. The only print of Sal of Singapore, which is held in the UCLA library, is currently undergoing preservation and inaccessible to researchers, while the sole known copy of The Crimson City was rediscovered in the archives of the Museo del Cine in Buenos Aires, Argentina, in 2010. See Rohter, L. (2010, May 4). Footage restored to Fritz Lang’s ‘Metropolis’. The New York Times. Retrieved from The New York Times website.
+[^4]:[Millet](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12716044), 2006, pp. 143–44.; Lai, C.K. (2001). The native in her place: Hollywood depictions of Singapore from 1940–1980. (Unpublished paper). Prints of these films are not easily available, with some existing only as non-circulating archival copies. The only print of Sal of Singapore, which is held in the UCLA library, is currently undergoing preservation and inaccessible to researchers, while the sole known copy of *The Crimson City* was rediscovered in the archives of the Museo del Cine in Buenos Aires, Argentina, in 2010. See Rohter, L. (2010, May 4). Footage restored to Fritz Lang’s ‘Metropolis’. T*he New York Times*. Retrieved from *The New York Times* website.
 
-[^5]:Slump in the tiger trade. (1932, September 21). The Singapore Free Press and Mercantile Advertiser, p. 7. Retrieved from NewspaperSG.
+[^5]:[Slump in the tiger trade](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19320921-1.2.53). (1932, September 21). *The Singapore Free Press and Mercantile Advertiser*, p. 7. Retrieved from NewspaperSG.
 
-[^6]:$1,000,000 picture maker in Singapore. (1933, April 5). The Straits Times, p. 12; Wolfe, C. (1996). The poetics and politics of nonfiction: Documentary film (pp. 351–386). In T. Balio (Ed.), Grand design: Hollywood as a modern business enterprise, 1930–1939. History of the American Cinema, 5. New York: Scribner; Toronto: Collier Macmillan Canada; New York: Maxwell Macmillan International. (Call no.: LR 791.430973 HIS); The all-time best sellers. The 1937–38 Motion Picture Almanac (p. 942). New York: Quigley Publishing Company. Retrieved from Internet Archive website.
+[^6]:[$1,000,000 picture maker in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19330405-1.2.49). (1933, April 5). *The Straits Times*, p. 12; Wolfe, C. (1996). The poetics and politics of nonfiction: Documentary film (pp. 351–386). In T. Balio (Ed.), *Grand design: Hollywood as a modern business enterprise, 1930–1939*. *[History of the American Cinema](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6791129), 5*. New York: Scribner; Toronto: Collier Macmillan Canada; New York: Maxwell Macmillan International. (Call no.: LR 791.430973 HIS); *The all-time best sellers. The 1937–38 Motion Picture Almanac* (p. 942). New York: Quigley Publishing Company. Retrieved from Internet Archive website.
 
-[^7]:The Singapore Free Press and Mercantile Advertiser, 21 Sep 1932, p. 7; “Bring ‘Em back alive”. (1932, November 17). The Straits Times, p. 18. Retrieved from NewspaperSG.
+[^7]:*[The Singapore Free Press and Mercantile Advertiser](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19320921-1.2.53),* 21 Sep 1932, p. 7; [“Bring ‘Em back alive”](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19321117-1.2.106). (1932, November 17). *The Straits Times*, p. 18. Retrieved from NewspaperSG.
 
-[^8]:Harry McGuire was writing in the magazine, Outdoor Life, as reported in The Straits Times, 17 Nov 1932, p. 18. See also Another critic of Mr. Frank Buck. (1933, April 9). The Straits Times, p. 9. Retrieved from NewspaperSG.
+[^8]:Harry McGuire was writing in the magazine, *Outdoor Life*, as reported in *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19321117-1.2.106)*, 17 Nov 1932, p. 18. See also [Another critic of Mr. Frank Buck](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19330409-1.2.60). (1933, April 9). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
 
-[^9]:Pictures and how they are made. (1932, December 8). The Straits Times, p. 16. Retrieved from NewspaperSG.
+[^9]:[Pictures and how they are made](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19321208-1.2.90). (1932, December 8). The Straits Times**, p. 16. Retrieved from NewspaperSG.
 
-[^10]:The Straits Times, 5 Apr 1933, p. 12.
+[^10]:*[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19330405-1.2.49)*, 5 Apr 1933, p. 12.
 
-[^11]:When jungle gangsters meet. (1932, October 3). The Singapore Free Press and Mercantile Advertiser, p. 3. Retrieved from NewspaperSG.
+[^11]:[When jungle gangsters meet](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19321003-1.2.16). (1932, October 3). *The Singapore Free Press and Mercantile Advertiser*, p. 3. Retrieved from NewspaperSG.
 
-[^12]:Albelli, A. (1932, November). How Frank Buck filmed His tiger-python battle, pp. 34–41. Modern Mechanix and Inventions. Retrieved from Modern Mechanix website.
+[^12]:Albelli, A. (1932, November). How Frank Buck filmed His tiger-python battle, pp. 34–41. *Modern Mechanix and Inventions*. Retrieved from Modern Mechanix website.
 
-[^13]:In a press interview, Buck admitted that the close-up scenes were filmed in Jurong Road, Singapore. See The Straits Times, 5 Apr 1933, p. 12. He was also reported to have animal camps off Orchard Road, on the fringes of the downtown zone, and in the residential suburb of Katong. See Buck, F., & Fraser, F.L. (1941). All in a lifetime (p. 108). New York: R. M. McBride & company. (Not available in NLB holdings)
+[^13]:In a press interview, Buck admitted that the close-up scenes were filmed in Jurong Road, Singapore. See *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19330405-1.2.49)*, 5 Apr 1933, p. 12. He was also reported to have animal camps off Orchard Road, on the fringes of the downtown zone, and in the residential suburb of Katong. See Buck, F., & Fraser, F.L. (1941). *All in a lifetime* (p. 108). New York: R. M. McBride & company. (Not available in NLB holdings)
 
-[^14]:The Straits Times, 8 Dec 1932, p. 16.
+[^14]:*[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19321208-1.2.90)*, 8 Dec 1932, p. 16.
 
-[^15]:The Straits Times, 8 Dec 1932, p. 16.
+[^15]:*[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19321208-1.2.90)*, 8 Dec 1932, p. 16.
 
-[^16]:“Out of the sea” off Singapore. (1932, October 9). The Straits Times, p. 9. Retrieved from NewspaperSG; Samarang was re-released in 1940 under the title The Shark Woman. See Millet, 2006, p. 143; Tan, B. (2015, Apr–Jun). From tents to picture palaces: Early Singapore cinema. BiblioAsia, 11 (1), 6–11, p. 10. Retrieved from BiblioAsia website. These movies were part of a trend beginning in the late 1920s of “natural dramas” – scripted, fictional films – shot in exotic locations with a  cast  of local actors.
+[^16]:[“Out of the sea” off Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19321009-1.2.64). (1932, October 9). *The Straits Times*, p. 9. Retrieved from NewspaperSG; *Samarang* was re-released in 1940 under the title The Shark Woman. See [Millet](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12716044), 2006, p. 143; Tan, B. (2015, Apr–Jun). [From tents to picture palaces: Early Singapore cinema](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx). *BiblioAsia, 11* (1), 6–11, p. 10. Retrieved from BiblioAsia website. These movies were part of a trend beginning in the late 1920s of “natural dramas” – scripted, fictional films – shot in exotic locations with a  cast  of local actors.
 
-[^17]:Deacon, D. (2006, March). Films as foreign offices: Transnationalism at paramount in the twenties and early thirties (p. 145). In A. Curthoys & M. Lake (Eds.), Connected worlds: History in transnational perspective. Canberra, Australia: ANU Press. Retrieved from National Australia University website; Heider, K.G. (2006). Ethnographic film (pp. 25–26). Austin: University of Texas Press. Retrieved from Open eClass website. 
+[^17]:Deacon, D. (2006, March). Films as foreign offices: Transnationalism at paramount in the twenties and early thirties (p. 145). In A. Curthoys & M. Lake (Eds.), *Connected worlds: History in transnational perspective*. Canberra, Australia: ANU Press. Retrieved from National Australia University website; Heider, K.G. (2006). *Ethnographic film* (pp. 25–26). Austin: University of Texas Press. Retrieved from Open eClass website. 
 
-[^18]:Heider, 2006, p. 25; Geiger, J. (2013). Schoedsack, Ernest B. In I. Aitken (Ed.), The concise routledge encyclopedia of the documentary film. New York: Routledge. (Not available in NLB holdings)
+[^18]:Heider, 2006, p. 25; Geiger, J. (2013). Schoedsack, Ernest B. In I. Aitken (Ed.), *The concise routledge encyclopedia of the documentary film*. New York: Routledge. (Not available in NLB holdings)
 
-[^19]:Page 7 advertisements column 3: “Devil Tiger”. (1934, May 11). The Straits Times, p. 7. Retrieved from NewspaperSG.
+[^19]:[Page 7 advertisements column 3: “Devil Tiger”](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19340511-1.2.16.3). (1934, May 11). *The Straits Times*, p. 7. Retrieved from NewspaperSG.
 
-[^20]:“Man-Eater”. (1932, November 17). The Straits Times, p. 15. Retrieved from NewspaperSG.
+[^20]:[“Man-Eater”](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19321117-1.2.82). (1932, November 17). *The Straits Times*, p. 15. Retrieved from NewspaperSG.
 
-[^21]:Untitled. (1933, March 25). The Malayan Saturday Post, p. 14. Retrieved from NewspaperSG. 
+[^21]:[Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Page/malayansatpost19330325-1.1.19). (1933, March 25). *The Malayan Saturday Post*, p. 14. Retrieved from NewspaperSG. 
 
 [^22]:[Deep mystery of “Man-Eater”](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19330521-1.2.55). (1933, May 21). *The Straits Times*, p. 9; [Notes of the day: “Devil” insects](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19340523-1.2.62). (1934, May 23). *The Straits Times*, p. 10. Retrieved from NewspaperSG.
 
