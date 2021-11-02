@@ -56,8 +56,8 @@ Map of the environs of ancient Singapore. Based on descriptions in the <i>Dao Yi
 <img src="/images/vol-10-issue-3/tales/Kappel_Habour.jpg">
 Construction of the new harbour in the 1880s, which was renamed Keppel Harbour in 1900. <i>Courtesy of National Archives of Singapore.</i></div>
 
-<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba; display:block; font-size:1rem; line-height:1.5rem;"> 
-<b>Who Was Wang Dayuan?</b>
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> 
+<b>WHO WAS WANG DAYUAN?</b>
 <br><br>
 Wang Dayuan, also known as Huanzhang (焕章), was born around 1311 in Nanchang (南昌), a prosperous port in Jiangxi (江西) Province, Quanzhou, China.[^13] He was the first Chinese to write extensively about Southeast Asia based on his personal experiences and published them in <i>Dao Yi Zhi Lue</i> (《岛夷志略》or <i>Description of the Barbarians of the Isles in Brief).</i> Before Wang’s book, there were several travel accounts written by others. However, these accounts were either based on hearsay or not as extensively documented as Wang’s list of 99 locations.[^14] Furthermore, Wang’s book contains the earliest surviving eyewitness account of ancient Singapore.[^15] These factors make <i>Dao Yi Zhi Lue</i> a valuable source on the pre-colonial history of Southeast Asia and Singapore.
 <br><br>
