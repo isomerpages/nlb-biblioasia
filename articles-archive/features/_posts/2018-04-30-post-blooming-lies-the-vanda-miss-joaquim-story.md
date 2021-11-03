@@ -13,6 +13,9 @@ layout: post
 
 *In the authoritative* The Gardeners’ Chronicle, *published on 24 June 1893, however, Henry Nicholas Ridley, the first Director of the Singapore Botanic Gardens (1888−1911) stated unequivocally that Agnes Joaquim had crossed two different orchids, the* Vanda Hookeriana *with the* Vanda teres *and produced the orchid which he later named* Vanda *Miss Joaquim.[^2] Intrigued as to why Ridley’s account had been replaced by a tale of chance discovery in various stories about the flower in Singapore, Wright decided to investigate.*
 
+<img style="width: 450px; height: 300px;" src="/images/Vol-14-issue-1/blooming-lies/Blooming7.JPG">
+<div style="background-color: white;">Agnes Joaquim succeeded in crossing <i>Vanda Hookeriana</i> (left)  with <i>Vanda teres</i> (right) to create the hybrid <i>Vanda</i> Miss Joaquim. <i>Photos by David Lim. Courtesy of the National Parks Board.</i></div>
+
 #### **The Birth of a Bloom**
 
 In 1893, Agnes Joaquim, or possibly her brother Joe (Joaquim P. Joaquim), showed Henry Ridley a new orchid. After carefully examining the bloom, having it sketched, and preserving a specimen in the herbarium of the Botanic Gardens, Ridley sent an account of the orchid’s origin and appearance to *The Gardeners’ Chronicle*, a respected English horticulture periodical founded in 1841. He wrote:
@@ -106,9 +109,6 @@ To push for acceptance of Basil Johannes’s account, its supporters turned on R
 But Ridley was known to be a careful observer and recorder. Had Joaquim found the orchid, Ridley would have written it up accordingly as he had done with other natural hybrids. Besides, the wording of Ridley’s article reinforces the fact that Joaquim had produced the orchid. Had she just stumbled upon it by chance, there would be no need for Ridley to mention the fact that she had failed to record the pollen parent. Ridley would gain nothing by concocting a false claim; indeed, his reputation as an orchid expert would have been at stake, not to mention his position as the first Director of the Botanic Gardens.
 
 Critics tried to discredit Ridley by claiming that he did not know how to hybridise orchids. They questioned his specific expertise as his interests ranged “from agriculture to ghosts”, implying that he had only a superficial knowledge about many subjects. They dismissed Ridley’s expert account in *The Gardeners’ Chronicle* because it was written after he had lived “in Singapore only 4–5 years and before acquiring the expertise he had in later years”.[^26]
-
-<img style="width: 450px; height: 300px;" src="/images/Vol-14-issue-1/blooming-lies/Blooming7.JPG">
-<div style="background-color: white;">Agnes Joaquim succeeded in crossing <i>Vanda Hookeriana</i> (left)  with <i>Vanda teres</i> (right) to create the hybrid <i>Vanda</i> Miss Joaquim. <i>Photos by David Lim. Courtesy of the National Parks Board.</i></div>
 
 In truth, Ridley was an orchid expert when he arrived in Singapore in 1888. As a Fellow of the Linnean Society, his prolific output covered 10 papers on orchids. These included his detailed observations of orchid self-pollination and an influential paper on “The Nomenclature of Orchids” presented at the 1886 British orchid conference. Indeed, England’s leading orchidists of the time, such as Frederick Burbidge and James Veitch, turned to Ridley with queries on orchid fertilisation. Yet his account was rejected in favour of that of Basil Johannes who admitted that he knew nothing about growing plants.
 
