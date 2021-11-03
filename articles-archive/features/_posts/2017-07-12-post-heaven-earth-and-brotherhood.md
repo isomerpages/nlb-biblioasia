@@ -16,7 +16,7 @@ The works of these colonial writers focused mainly on the Chinese secret society
 
 Besides comparing the secret societies to the Freemason[^4] order of medieval England, the authors also describe the origins and governance of secret societies, initiation ceremonies for new members, secret society paraphernalia, the oaths and rites that bind the brotherhood through fictive kinship, as well as symbols and code words recognisable only to members.
 
-<div style="background-color: white;"><img style="width:400px" src="/images/Vol-13-issue-2/heaven-earth-brotherhood/03_heavenearth.jpg">A snake tattoo on the forearm of a secret society member. <i>Courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;"><img style="width:500px" src="/images/Vol-13-issue-2/heaven-earth-brotherhood/03_heavenearth.jpg">A snake tattoo on the forearm of a secret society member. <i>Courtesy of National Archives of Singapore.</i></div>
 
 #### **Works from the 1800s**
 
@@ -69,7 +69,7 @@ In this 1852 German-language book on Chinese secret societies in Riau, Indonesia
 <img style="width:500px" src="/images/Vol-13-issue-2/heaven-earth-brotherhood/08_heavenearth.jpg">
 Also in the collection of the National Library is a set of unbound documents – in English and Chinese – pertaining to various secret societies in Penang in the mid- 1800s. The provenance of these documents is unclear; they were likely seized from various sources and kept at the office of the Chinese Protectorate in Penang. Shown here are membership certificates, notices, forms and receipts which were printed on white, yellow or red cloth. To make the documents unintelligible to non-members and confound the authorities, secret societies would rearrange the Chinese characters, create abbreviations or use ideograms. <i>All rights reserved, Chinese Secret Societies: A Collection of Manuscripts and Documents Relating to Secret Societies in Penang. (1867). Collection of the National Library, Singapore, Accession no.: B02461230G.</i>
 <br><br>
-<img style="width:500px" src="/images/Vol-13-issue-2/heaven-earth-brotherhood/09_heavenearth.jpg">
+<img style="width:400px" src="/images/Vol-13-issue-2/heaven-earth-brotherhood/09_heavenearth.jpg">
 Published in 1900, <i>The Triad Society: Or, Heaven and Earth Association</i> was written by William J. Stanton, a British police officer in Hong Kong. The book contains reprints of articles originally written for <i>The China Review</i> in the late 1890s. Stanton was a Chinese speaker and was able to interact with triad members in Hong Kong when gathering information for his book. The cover design of the book represents the ritual flags placed in a peck, or wooden tub, of rice on the altar during the initiation ceremony. These flags represent the five lodges of the Hung Society. On page 72 of the book (pictured here) is a membership certificate of the Triad Society, which comprises a square enclosing an octagon. Printed within the latter is the verse composed by its five founders. The verse has been handed down and “used as a memorial and sign of membership”. Members had to carry the certificate with them at all times. <i>All rights reserved, Stanton, W. J. (1900). The Triad Society: Or, Heaven and Earth Association. Hong Kong: Printed by Kelly & Walsh. Collection of the National Library, Singapore, Accession no.: B18990109D.</i></span>
 
 <div style="background-color: white;">
