@@ -6,7 +6,7 @@ layout: post
 ---
 #### This unique style of architecture only reigned for five decades in China, yet several buildings in Singapore still bear the hallmarks of this hybrid form, says **Julian Davison**.
 
-<img src="/images/Vol-14-issue-1/chinese-renaissance-architect/Renaissance1.JPG">
+<img style="width: 650px; height: 400px;" src="/images/Vol-14-issue-1/chinese-renaissance-architect/Renaissance1.JPG">
 <div style="background-color: white;">Majestic Theatre (left) and Great Southern Hotel (right) on Eu Tong Sen Street, 1950. Designed by Swan & Maclaren, these buildings were more Art Deco than Chinese Renaissance in design, although both bear Chinese-inspired details and decorative motifs. <i>Tan Kok Kheng Collection, courtesy of National Archives of Singapore.</i></div>
 
 There have been several “Chinese  Renaissances” in the history of the Middle Kingdom – depending on which authority one consults. For the historian, the Han (206 BCE–CE 220), Tang (618–907) and Song (960–1279) dynasties, can each, in their own way, claim to be the Chinese equivalent to the Renaissance in the West  that took place between the end of the 14th and the beginning of the 17th centuries.
