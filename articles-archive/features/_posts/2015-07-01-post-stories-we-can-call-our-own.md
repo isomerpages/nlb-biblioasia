@@ -155,7 +155,7 @@ Veteran car saleswoman Rosie Ang, 77, started out in the business when she was 2
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-11-issue-2/stories/Rosie_Ang_old.jpg">
-Veteran car saleswoman Rosie Ang at her company's car showroom at Ngee Ann City Building on Orchard Road in the 1960s. It was one of several showrooms in the area then. <i>Courtesy of Rosie Ang.</i>
+Rosie Ang at her company's car showroom at Ngee Ann City Building on Orchard Road in the 1960s. It was one of several showrooms in the area then. <i>Courtesy of Rosie Ang.</i>
 </div>
 
 
