@@ -62,7 +62,7 @@ On 15 April 1981, *Vanda* Miss Joaquim was declared Singapore’s national flowe
 
 Arriving at Changi Airport on 21 July from Perth, Australia, where he had been living for over two decades, the 88-year-old Johannes declared to the reporter who interviewed him that “Aunt Agnes found the flower one morning [in 1893] when she was loitering in the garden. She was so excited that she took it to the director of the Botanic Gardens straightaway”.[^11]  Local newspapers ran with Johannes’s story, alleging that *Vanda* Miss Joaquim was a natural hybrid and making no mention of Ridley’s original account.
 
-In his book on the *Vanda* Miss Joaquim published in 1982, Teoh Eng Soon further enshrined Johannes’s story in print, embellishing it with more detail: “One morning while Agnes was loitering alone in the garden she came upon a new orchid flower nestled in a clump of bamboo… Agnes could not contain her excitement. Straightaway she took it to the Director of the Singapore Botanic Gardens”.[^12]
+In his book on the *Vanda* Miss Joaquim published in 1982, Teoh Eng Soon further enshrined Johannes’s story in print, embellishing it with more detail: “One morning while Agnes was loitering alone in the garden she came upon a new orchid flower nestled in a clump of bamboo… Agnes could not contain her excitement. Straightaway she took it to the Director of the Singapore Botanic Gardens.”[^12]
 
 Arshak Galstaun, President of St Gregory’s Board of Trustees, which looked after the affairs of the Armenian Church in Singapore, and an old friend of Johannes’s was dismayed by this turn of events. In fact, he said so at Teoh’s book launch and wrote to the media refuting it.
 
