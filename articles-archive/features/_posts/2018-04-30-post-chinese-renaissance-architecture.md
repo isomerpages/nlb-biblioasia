@@ -78,7 +78,7 @@ Not long after work had begun on site, *The Straits Times* reported in February 
 
 Completed in early 1925, the Telok Ayer Chinese Methodist Church was consecrated by Bishop Titus Lowe on  25 April the same year. In his address, Bishop Lowe noted that the “building was a new departure in the line of making a church a great and useful social centre, the idea here being to “create a social atmosphere which would make it possible for both young and old alike to enjoy the fellowship of each other”.[^7] He drew attention to the fact that the building was “distinctly Chinese”, adding that “for this matter they [the Church] were indebted to the architects… in attempting to give them a building that was characteristic of Chinese art”.
 
-<img src="/images/Vol-14-issue-1/chinese-renaissance-architect/Renaissance6.JPG">
+<img style="width: 450px; height: 400px;" src="/images/Vol-14-issue-1/chinese-renaissance-architect/Renaissance6.JPG">
 <div style="background-color: white;">Telok Ayer Chinese Methodist Church was consecrated by Bishop Titus Lowe on 25 April 1925. Designed by Denis Santry of Swan & Maclaren, it was a modern four-storey, concrete-frame building that was part-Byzantine and part-Chinese in design. <i>Lee Brothers Studio Collection, courtesy of National Archives of Singapore.</i></div>
 
 In reality, Santry’s design was no more like a traditional Chinese building than it was a conventional church, the  upturned eaves of the rooftop pavilion notwithstanding. If anything, it is more Byzantine Revival, the arcaded loggias and arrangement of the side windows within recessed alcoves contributing to this impression. All the same, it was the building’s Chinese elements that seem to have caught the untrained public eye. *The Straits Times* described the new church as being “distinctly Chinese in appearance, its most characteristic feature being a quaint gabled tower surmounting the roof, and finishing off the design of the frontage very effectively”.[^8]
@@ -87,7 +87,7 @@ In reality, Santry’s design was no more like a traditional Chinese building th
 
 Telok Ayer Methodist Church was closely followed by another Swan &  Maclaren commission from the American  Methodist Mission, this time for a new school building at the summit of Cairnhill. The existing Methodist  School – the forerunner of today’s  Anglo-Chinese School – was located at Coleman Street at the time, next  door to the American Methodist Chapel where the school had moved to soon after it was founded in 1886.[^9]
 
-<img src="/images/Vol-14-issue-1/chinese-renaissance-architect/Renaissance7.JPG">
+<img style="width: 500px; height: 400px;" src="/images/Vol-14-issue-1/chinese-renaissance-architect/Renaissance7.JPG">
 <div style="background-color: white;">The rear elevation of the Anglo-Chinese School at Cairnhill, showing the two-tier roof and extended eaves. <i>Courtesy of Julian Davison.</i></div>
 
 By the beginning of the 1920s, the Coleman Street buildings were no longer able to accommodate the ever-increasing student population – the school was already obliged to schedule two sessions a day to cope with the existing enrolment of 1,500 pupils – and so the Mission started looking for a suitable location to expand the school. A plot of land on the summit of one of Cairnhill’s twin peaks was purchased in 1923 for $65,000, following which the title deed was transferred to the government in return for a lease with a duration of 999 years. With the site secured, the school  authorities invited Swan & Maclaren to design a building on it.
@@ -109,7 +109,7 @@ But whereas previously, this new type of accommodation had been intended for a m
 
 Generally speaking, many supposedly Chinese-style buildings from this period, both in Singapore and elsewhere, are little more than a pastiche – even bordering on the kitsch – since the Western architects who designed them had little real understanding of traditional Chinese architecture and were probably not too bothered to find out. Brewer’s two apartment blocks for Eu Tong Sen, however, were different and went some way beyond the typical “Western-style building with a Chinaman’s hat on top” approach, revealing that Brewer had at least taken the time to acquaint himself with some of the basic precepts of Chinese architectural practices and building typologies.
 
-<img src="/images/Vol-14-issue-1/chinese-renaissance-architect/Renaissance9.JPG">
+<img style="width: 500px; height: 400px;" src="/images/Vol-14-issue-1/chinese-renaissance-architect/Renaissance9.JPG">
 <div style="background-color: white;">In 1925, Frank Brewer designed two blocks of flats in the Chinese Renaissance style for Eu Tong Sen, a prominent businessman and leader of the Chinese community, at 31–45 Club Street. The buildings now form part of Emerald Garden condominium. <i>Courtesy of Julian Davison.</i></div>
 
 The basement floor of the main building (which is on the left as one heads up Club Street from the Cross Street junction), for example, with its central, unadorned arch and fair-faced brickwork, brings to mind Chinese gateways from the Ming dynasty (1368–1644). Similarly, the slightly tapering profile of the tower is reminiscent of the classic silhouette of a Chinese drum tower.
@@ -130,7 +130,7 @@ Best remembered for the Fullerton Building (today’s Fullerton Hotel), home to 
 
 The China Building, as the OCBC building was known, was Keys & Dowdeswell’s only venture into the realm of Chinese Renaissance architecture – a massive, five-storey Art Deco block capped with a Chinese pavilion wrought in reinforced concrete – but it made a huge impact.
 
-<img src="/images/Vol-14-issue-1/chinese-renaissance-architect/Renaissance11.JPG">
+<img style="width: 500px; height: 400px;" src="/images/Vol-14-issue-1/chinese-renaissance-architect/Renaissance11.JPG">
 <div style="background-color: white;">The China Building on Chulia Street, which served as the old headquarters of Oversea-Chinese Banking Corporation, 1964. The building was designed by Keys & Dowdeswell in 1929. It was a five-storey Deco block capped with a Chinese pavilion. <i>All rights reserved, family of Kouo Shang-Wei and National Library Board, Singapore.</i></div>
 
 Much of the building’s Art Deco-style ornamentation was modelled after the firm’s Fullerton Building – similar detailing was used for its Capitol Theatre and the adjoining four-storey apartment-cum-shop complex known as Namazie Mansions at the corner of Stamford and North Bridge roads in 1930, giving rise to the term “GPO architecture” – but the attic storey was full-blown Chinese Renaissance with its imitation roof brackets (*dougong*) supporting upturned eaves surmounted with stylised “dragon” ornaments  (*chiwen*) at the four corners.
@@ -145,7 +145,7 @@ After World War II, it was a different scene altogether with Singaporean Chinese
 
 Somewhat ironically, though, by the time nationhood was achieved in 1965,  the world had moved on and Chinese Renaissance, as an architectural style, was beginning to sound like old news. The last major Chinese-style building  of any consequence to be constructed  in Singapore was the C. K. Tang and  Dynasty Hotel complex (1977–1982), but that can hardly be thought of as Chinese Renaissance in the sense of the term as  has been described here. What was seen as a rebirth was, in fact, a dead end.
 
-<img src="/images/Vol-14-issue-1/chinese-renaissance-architect/Renaissance12.JPG">
+<img style="width: 400px; height: 450px;" src="/images/Vol-14-issue-1/chinese-renaissance-architect/Renaissance12.JPG">
 <div style="background-color: white;">Holy Trinity Church at Hamilton Road was designed by Ho Kwong Yew in 1940 for the Anglican Foochow congregation. The building has Chinese-style roofs and fenestration. <i>Courtesy of Julian Davison.</i></div>
 
 <div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> 
