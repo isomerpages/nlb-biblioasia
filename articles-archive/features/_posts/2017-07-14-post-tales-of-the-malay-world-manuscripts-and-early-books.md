@@ -78,7 +78,7 @@ Abdullah bin Abdul Kadir (1797[?]–1854), better known as Munsyi Abdullah was a
 <img style="width:500px" src="/images/Vol-13-issue-2/tales-of-malay-world/09_malayworld.png">
 Like traditional handwritten manuscripts, printed syair and hikayat were recited aloud in the late 19th and early 20th centuries. A popular syair at the time was the Syair Abdul Muluk (Poem of Abdul Muluk) as evidenced by the number of multiple editions by various printers.[^17] This particular edition shown here was lithographed by one of the early prominent printers, Muhammad Amin, in the Islamic year 1311 (1893/4). The romantic poem is believed to have been composed by Raja Salihah[^18] of the Riau court in Penyengat. She is the younger sister of Raja Ali Haji, scholar and author of Tuhfat al-Nafis (The Precious Gift) which recounts the story of the relationship between the Malay and Bugis rulers. The protagonist in the poem is Abdul Muluk’s second wife, Siti Rafi’ah, who disguised herself as a man in order to rescue her husband and his first wife from captivity. <i>Collection of the National Library, Singapore, Accession no.: B29362100A.</i></span>
 
-<span style="display:block; text-align:center">
+<span style="display:block; text-align:center; font-size:1rem; line-height:1.5rem;"">
 <br>
 <img style="width: 100px; height: 100px;" src="images/Vol-13-issue-2/tales-of-malay-world/tan_huism.png">
 Director, National Library
