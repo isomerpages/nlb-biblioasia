@@ -230,6 +230,6 @@ Ah Sim slipped away quietly in her final months; she was often asleep when I vis
 
 [^34]:Gaw, 1988, pp. 129–130, 133.
 
-[^35]:Wong, K.H. (2010, December 11). A long, loving life. *The Straits Times*, p. 8. Retrieved from NewspaperSG.
+[^35]:Wong, K.H. (2010, December 11). [A long, loving life](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20101211-2.2.127.5). *The Straits Times*, p. 8. Retrieved from NewspaperSG.
 
 [^36]:Toh, M., & Lim, R.Y. (2009, February 1). [Majie recalls life with the Lees](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20090201-1.2.9.2). *The Straits Times*, p. 6. Retrieved from NewspaperSG; Lai, 1986, p. 87.
