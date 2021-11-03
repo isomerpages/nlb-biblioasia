@@ -88,38 +88,38 @@ Director, National Library
 
 #### **NOTES**
 
-[^1]:Brown, C.C. (1976). Sejarah Melayu, or, Malay annals (p. 162). Kuala Lumpur: Oxford University Press. (Call no.: RSING 959.503 SEJ)
+[^1]:Brown, C.C. (1976). *[Sejarah Melayu, or, Malay annals](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4188927)* (p. 162). Kuala Lumpur: Oxford University Press. (Call no.: RSING 959.503 SEJ)
 
-[^2]:Shellabear, W.G. (1967). Sejarah Melayu (p. 264). Kuala Lumpur: Oxford University Press. (Call no.: Malay RCLOS 959.5 SEJ) 
+[^2]:Shellabear, W.G. (1967). *[Sejarah Melayu](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4184071)* (p. 264). Kuala Lumpur: Oxford University Press. (Call no.: Malay RCLOS 959.5 SEJ) 
 
-[^3]:See Ding, C.M. (1987, October). Access to Malay manuscripts. Bidragen tot de Taal-, Land-en Volkenkunde, 143 (4), 425–451. Retrieved from JSTOR via NLB’s eResources website.
+[^3]:See Ding, C.M. (1987, October). *Access to Malay manuscripts. Bidragen tot de Taal-, Land-en Volkenkunde, 143* (4), 425–451. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
-[^4]:Proudfoot, I. (2002). From recital to sight reading: The silencing of texts in Malaysia. Indonesia and the Malay World, 30 (87), 117–144. Retrieved from JSTOR via NLB’s eResources website.
+[^4]:Proudfoot, I. (2002). *From recital to sight reading: The silencing of texts in Malaysia. Indonesia and the Malay World, 30* (87), 117–144. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
-[^5]:The term “Muslim” is used here in the same way as Ian Proudfoot, to refer to the religious faith of the agents who produced the materials and not necessarily the content of the publications. See Proudfoot, I. (1993), Early Malay printed books: A provisional account of materials published in the Singapore-Malaysia area up to 1920, noting holdings in major public collections (pp. 27, 432). Malaysia: Academy of Malay Studies and the Library, University of Malaya. (Call no.: RSING 015.5957 PRO)
+[^5]:The term “Muslim” is used here in the same way as Ian Proudfoot, to refer to the religious faith of the agents who produced the materials and not necessarily the content of the publications. See Proudfoot, I. (1993), *[Early Malay printed books: A provisional account of materials published in the Singapore-Malaysia area up to 1920, noting holdings in major public collections](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6712616)* (pp. 27, 432). Malaysia: Academy of Malay Studies and the Library, University of Malaya. (Call no.: RSING 015.5957 PRO)
 
-[^6]:Amin Sweeney was one of the first scholars to stress the importance of the oral in written Malay literature. See Sweeney, A. (1980). Authors and audiences in traditional Malay literature. Berkeley: Center for South and Southeast Asia Studies, University of California, Detroit, Mich. distribution by the Cellar Book Shop. (Call no.: RCLOS 899.23009 SWE)
+[^6]:Amin Sweeney was one of the first scholars to stress the importance of the oral in written Malay literature. See Sweeney, A. (1980). *[Authors and audiences in traditional Malay literature](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=2071378)*. Berkeley: Center for South and Southeast Asia Studies, University of California, Detroit, Mich. distribution by the Cellar Book Shop. (Call no.: RCLOS 899.23009 SWE)
 
 [^7]:Panji tales from ancient Java recount the adventures of the hero named Panji who takes on different disguises and names in search of his beloved princess.
 
-[^8]:Mulaika Hijjas. (2011). Victorious wives: The disguised heroine in 19th-century Malay syair. Singapore: NUS Press. (Call no.: RSEA 899.2810093522 HIJ)
+[^8]:Mulaika Hijjas. (2011). *[Victorious wives: The disguised heroine in 19th-century Malay syair](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13583293)*. Singapore: NUS Press. (Call no.: RSEA 899.2810093522 HIJ)
 
 [^9]:Jawi Peranakan refers to the children of Indian Muslim and Malay marriages.
 
-[^10]:Braginsky, V. (2009). The story of four dervishes: The first translation from Urdu in traditional Malay literature. Jurnal e-Utama, 2. Retrieved from Jurnal e-Utama website.
+[^10]:Braginsky, V. (2009). The story of four dervishes: The first translation from Urdu in traditional Malay literature. *Jurnal e-Utama, 2*. Retrieved from Jurnal e-Utama website.
 
-[^11]:The first English translation of the Sejarah Melayu was by John Leyden (1775– 1811), which was published posthumously in 1821. See Leyden, J. (1821). Malay annals/translated from the Malay language, by the late Joh Leyden. With an introduction, by Sir Stamford Raffles.London: Longman, Hurst, Rees, Orme, and Brown. Retrieved from BookSG.
+[^11]:The first English translation of the *Sejarah Melayu* was by John Leyden (1775– 1811), which was published posthumously in 1821. See Leyden, J. (1821). *[Malay annals/translated from the Malay language, by the late Joh Leyden](https://eresources.nlb.gov.sg/printheritage/detail/403dde58-c3c4-4a53-ba21-f11e813f434f.aspx)*. With an introduction, by Sir Stamford Raffles.London: Longman, Hurst, Rees, Orme, and Brown. Retrieved from BookSG.
 
-[^12]:Annabel Gallop has done an in-depth study of the design of this manuscript and raised the possibility of a Penang style of manuscript decoration. See Gallop, A. (n.d.). Is there a Penang style of Malay manuscript illumination? Retrieved from Malay Concordance website.
+[^12]:Annabel Gallop has done an in-depth study of the design of this manuscript and raised the possibility of a Penang style of manuscript decoration. See Gallop, A. (n.d.). *Is there a Penang style of Malay manuscript illumination?* Retrieved from Malay Concordance website.
 
 [^13]:It is believed that early Malay literature inspired by Persian sources evolved over time to be less Shi’itic, although some traces still remain.
 
-[^14]:Brakel, L.F. (1975). The Hikayat Muhammad Hanafiyyah: A medieval Muslim-Malay romance (pp. 54–57). The Hague: Martinus Nijhoff. (Call no,: RSEA 899.2300981 BRA)
+[^14]:Brakel, L.F. (1975). *[The Hikayat Muhammad Hanafiyyah: A medieval Muslim-Malay romance](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=872747)* (pp. 54–57). The Hague: Martinus Nijhoff. (Call no,: RSEA 899.2300981 BRA)
 
-[^15]:For the entire transcript and translation of this letter, see Ahmat Adam. (2009). Letters of sincerity: The Raffles collection of Malay letters (1780–1824): A descriptive account with notes and translation. Kuala Lumpur: Malaysia: The Malaysian Branch of the Royal Asiatic Society. (Call no.: RSEA 959.503 AHM)
+[^15]:For the entire transcript and translation of this letter, see Ahmat Adam. (2009). *[Letters of sincerity: The Raffles collection of Malay letters (1780–1824): A descriptive account with notes and translation](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13606851)*. Kuala Lumpur: Malaysia: The Malaysian Branch of the Royal Asiatic Society. (Call no.: RSEA 959.503 AHM)
 
 [^16]:Proudfoot, 2002, pp. 117–144.
 
-[^17]:Proudfoot, 1993, p. 38.
+[^17]:[Proudfoot](https://eresources.nlb.gov.sg/printheritage/detail/403dde58-c3c4-4a53-ba21-f11e813f434f.aspx), 1993, p. 38.
 
-[^18]:There are debates as to who might be the author of the Syair Abdul Muluk. The poem has also been attributed to Raja Ali Haji. For the discussions, see Braginsky, V.I. (2004). The heritage of traditional Malay literature: A historical survey of genres, writings and literary views (p. 542). Leiden: KITLV Press. (Call no.: RSEA 899.28 BRA)
+[^18]:*There are debates as to who might be the author of the Syair Abdul Muluk*. The poem has also been attributed to Raja Ali Haji. For the discussions, see Braginsky, V.I. (2004). *[The heritage of traditional Malay literature: A historical survey of genres, writings and literary views](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12538785)* (p. 542). Leiden: KITLV Press. (Call no.: RSEA 899.28 BRA)
