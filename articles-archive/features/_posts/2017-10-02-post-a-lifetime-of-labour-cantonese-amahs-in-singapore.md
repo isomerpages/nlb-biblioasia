@@ -162,9 +162,9 @@ Ah Sim slipped away quietly in her final months; she was often asleep when I vis
 
 #### **NOTES**
 
-[^1]:There is another term, majie, which refers specifically to spinster amahs from Shunde district in Guangdong province. All majie worked as domestic servants or amahs, but not all amahs were majie. See Gaw, K. (1988). Superior servants: The legendary Cantonese amahs of the far east (pp. 89, 91, 105). Singapore: Oxford University Press. (Call no.: RSING 331.481640460951 GAW) 
+[^1]:There is another term, *majie*, which refers specifically to spinster *amahs* from Shunde district in Guangdong province. All *majie* worked as domestic servants or *amahs*, but not all *amahs* were *majie*. See Gaw, K. (1988). *[Superior servants: The legendary Cantonese amahs of the far east](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4773514)* (pp. 89, 91, 105). Singapore: Oxford University Press. (Call no.: RSING 331.481640460951 GAW) 
 
-[^2]:Gaw, 1988, pp. 25, 89; Topley, M. (1959, December). 333. Immigrant Chinese female servants and their hostels in Singapore. Man, 59, 213–215. Retrieved from JSTOR via NLB’s eResources website.
+[^2]:[Gaw](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4773514), 1988, pp. 13, 39–40; [Topley](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13718018), 1988, pp. 25, 89; Topley, M. (1959, December). 333. Immigrant Chinese female servants and their hostels in Singapore. Man, 59, 213–215. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
 
 [^3]:[Gaw](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4773514), 1988, pp. 43–44; Topley, M. (2011). Marriage resistance in rural Kwangtung (pp. 423–424). In M. Topley & J. DeBernardi. (Eds.), *[Cantonese society in Hong Kong and Singapore: Gender, religion, medicine and money](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13718018)* (pp. 423–446). Singapore: NUS Press. (Call no.: RSING 305.895105125 TOP)
 
