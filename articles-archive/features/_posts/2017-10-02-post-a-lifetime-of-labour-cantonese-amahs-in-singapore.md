@@ -226,9 +226,9 @@ Ah Sim slipped away quietly in her final months; she was often asleep when I vis
 
 [^32]:Gaw, 1988, p. 106; Lebra, J. (1980). Bazaar and service operations. In J. Lebra & J. Paulson, Chinese women in Southeast Asia (p. 72). Singapore: Times Books International. (Call no.: RSING 301.4120959 CHI)
 
-[^33]:Mok-Ai, I. (1957, May 8). British housewives elect the Chinese amah queen of the nannies. The Straits Times, p. 16. Retrieved from NewspaperSG. 
+[^33]:Mok-Ai, I. (1957, May 8). [British housewives elect the Chinese amah queen of the nannies](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19570508-1.2.22). *The Straits Times*, p. 16. Retrieved from NewspaperSG. 
 
-[^34]:Gaw, 1988, pp. 129–130, 133.
+[^34]:[Gaw](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4773514), 1988, pp. 129–130, 133.
 
 [^35]:Wong, K.H. (2010, December 11). [A long, loving life](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20101211-2.2.127.5). *The Straits Times*, p. 8. Retrieved from NewspaperSG.
 
