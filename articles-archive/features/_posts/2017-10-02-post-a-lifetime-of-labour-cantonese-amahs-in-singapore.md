@@ -166,65 +166,65 @@ Ah Sim slipped away quietly in her final months; she was often asleep when I vis
 
 [^2]:Gaw, 1988, pp. 25, 89; Topley, M. (1959, December). 333. Immigrant Chinese female servants and their hostels in Singapore. Man, 59, 213–215. Retrieved from JSTOR via NLB’s eResources website.
 
-[^3]:Gaw, 1988, pp. 43–44; Topley, M. (2011). Marriage resistance in rural Kwangtung (pp. 423–424). In M. Topley & J. DeBernardi. (Eds.), Cantonese society in Hong Kong and Singapore: Gender, religion, medicine and money (pp. 423–446). Singapore: NUS Press. (Call no.: RSING 305.895105125 TOP)
+[^3]:[Gaw](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4773514), 1988, pp. 43–44; Topley, M. (2011). Marriage resistance in rural Kwangtung (pp. 423–424). In M. Topley & J. DeBernardi. (Eds.), *[Cantonese society in Hong Kong and Singapore: Gender, religion, medicine and money](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13718018)* (pp. 423–446). Singapore: NUS Press. (Call no.: RSING 305.895105125 TOP)
 
-[^4]:Lai, A.E. (1986). Peasants, proletariats and prostitutes: A preliminary investigation into the work of Chinese women in colonial Malaya (p. 78). [Research notes and discussion paper no. 59]. Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 331.409595104 LAI)
+[^4]:Lai, A.E. (1986). *[Peasants, proletariats and prostitutes: A preliminary investigation into the work of Chinese women in colonial Malaya](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4363498)* (p. 78). [Research notes and discussion paper no. 59]. Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 331.409595104 LAI)
 
-[^5]:Gaw, 1988, pp. 13, 39–40; Topley, 2011, p. 435.
+[^5]:[Gaw](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4773514), 1988, pp. 13, 39–40; [Topley](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13718018), 2011, p. 435.
 
-[^6]:Howard, C.W., & Buswell, K.P. (1925). A survey of the silk industry of South China (p. 15). Hongkong: Commercial Press. Cited in Stockard, J.E. (1989). Daughters of the Canton Delta: Marriage patterns and economic strategies in South China, 1860–1930 (p. 138). Stanford, Calif.: Stanford University Press. (Call no.: R 306.810951 STO)
+[^6]:Howard, C.W., & Buswell, K.P. (1925). A survey of the silk industry of South China (p. 15). Hongkong: Commercial Press. Cited in Stockard, J.E. (1989). *[Daughters of the Canton Delta: Marriage patterns and economic strategies in South China, 1860–1930](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4820592)* (p. 138). Stanford, Calif.: Stanford University Press. (Call no.: R 306.810951 STO)
 
-[^7]:Topley, 2011, p. 435.
+[^7]:[Topley](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13718018), 2011, p. 435.
 
-[^8]:Stockard, 1989, pp. 135–139.
+[^8]:[Stockard](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4820592), 1989, pp. 135–139.
 
-[^9]:Stockard, 1989, pp. 141–142.
+[^9]:[Stockard](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4820592), 1989, pp. 141–142.
 
-[^10]:Watson, R.S. (1994). Girls’ houses and working women: Expressive culture in the Pearl River Delta, 1900–41 (pp. 25–34). In M. Jaschok & S. Miers (Eds.), Women and Chinese patriarchy: Submission, servitude and escape (p. 33). Hong Kong: Hong Kong University Press: London; Zed Books, Atlantic Highlands, N.J. (Call no.: RSING 305.420951 WOM)
+[^10]:Watson, R.S. (1994). Girls’ houses and working women: Expressive culture in the Pearl River Delta, 1900–41 (pp. 25–34). In M. Jaschok & S. Miers (Eds.), *[Women and Chinese patriarchy: Submission, servitude and escape](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7193205)* (p. 33). Hong Kong: Hong Kong University Press: London; Zed Books, Atlantic Highlands, N.J. (Call no.: RSING 305.420951 WOM)
 
-[^11]:Topley, 2011, pp. 427, 436; Topley, M. (1954, May). Chinese women’s vegetarian houses in Singapore. Journal of the Malayan Branch of the Royal Asiatic Society, 27 (1) (165), 51–67, p. 53. Retrieved from JSTOR via NLB’s eResources website.
+[^11]:[Topley](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13718018), 2011, pp. 427, 436; Topley, M. (1954, May). Chinese women’s vegetarian houses in Singapore. *Journal of the Malayan Branch of the Royal Asiatic Society, 27* (1) (165), 51–67, p. 53. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
 
-[^12]:Topley, 2011, p. 428; Stockard, 1989, pp. 148–149.
+[^12]:[Topley](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13718018), 2011, p. 428; [Stockard](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4820592), 1989, pp. 148–149.
 
-[^13]:Topley, 2011, pp. 428–429; Topley, Dec 1959, p. 214.
+[^13]:[Topley](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13718018), 2011, pp. 428–429; Topley, Dec 1959, p. 214.
 
-[^14]:Topley, 2011, p. 437; Gaw, 1988, p. 43.
+[^14]:[Topley](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13718018), 2011, p. 437; [Gaw](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4773514), 1988, p. 43.
 
-[^15]:Smedley, A. (2003). Chinese destinies (p. 159). Beijing, China: Foreign Languages Press. (Not available in NLB holdings)
+[^15]:Smedley, A. (2003). *Chinese destinies* (p. 159). Beijing, China: Foreign Languages Press. (Not available in NLB holdings)
 
-[^16]:Topley, 2011, pp. 429–430; Stockard, 1989, pp. 34, 37–40, 194; Gaw, 1988, p. 41. 
+[^16]:[Topley](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13718018), 2011, pp. 429–430; [Stockard](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4820592), 1989, pp. 34, 37–40, 194; [Gaw](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4773514), 1988, p. 41. 
 
-[^17]:Gaw, 1988, p. 43; Stockard, 1989, pp. 44, 436.
+[^17]:[Gaw](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4773514), 1988, p. 43; [Stockard](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4820592), 1989, pp. 44, 436.
 
-[^18]:Stockard, 1989, p. 70–73; Topley, 2011, p. 423, 440; Gaw, 1988, pp. 44–45.
+[^18]:[Stockard](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4820592), 1989, p. 70–73; [Topley](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13718018), 2011, p. 423, 440; [Gaw](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4773514), 1988, pp. 44–45.
 
-[^19]:Gaw, 1988, pp. 41, 47; Stockard, 1989, p. 87; Topley, 2011, pp. 438, 440–441.
+[^19]:[Gaw](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4773514), 1988, pp. 41, 47; [Stockard](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4820592), 1989, p. 87; [Topley](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13718018), 2011, pp. 438, 440–441.
 
-[^20]:Stockard, 1989, p. 70.
+[^20]:[Stockard](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4820592), 1989, p. 70.
 
-[^21]:Blythe, W.L. (1947, June). Historical sketch of Chinese labour in Malaya. Journal of the Malayan Branch of the Royal Asiatic Society, 20 (1) (141), 64–114, p. 102. Retrieved from JSTOR via NLB’s eResources website.
+[^21]:Blythe, W.L. (1947, June). Historical sketch of Chinese labour in Malaya. *Journal of the Malayan Branch of the Royal Asiatic Society, 20* (1) (141), 64–114, p. 102. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
 
 [^22]:Blythe, Jun 1947, p. 103
 
-[^23]:Gaw, 1988, p. 79; Lai, 1986, p. 78.
+[^23]:[Gaw](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4773514), 1988, p. 79; Lai, 1986, p. 78.
 
-[^24]:Topley, Dec 1959, p. 214; Ooi, K.G. (1992). Domestic servants par excellence: The black & white amahs of Malaya and Singapore with special reference to Penang. Journal of the Malaysian Branch of the Royal Asiatic Society, 65 (2) (263), 69–84, p. 73. Retrieved from JSTOR via NLB’s eResources website.
+[^24]:Topley, Dec 1959, p. 214; Ooi, K.G. (1992). Domestic servants par excellence: The black & white amahs of Malaya and Singapore with special reference to Penang. *Journal of the Malaysian Branch of the Royal Asiatic Society, 65* (2) (263), 69–84, p. 73. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
 
-[^25]:Lai, 1986, p. 77; Lee, S.M. (1989, Summer). Female immigrants and labor in colonial Malaya: 1860–1947. The International Migration Review, 23 (2), 309–331, p. 323. Retrieved from JSTOR via NLB’s eResources website.
+[^25]:[Lai](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4363498), 1986, p. 77; Lee, S.M. (1989, Summer). *Female immigrants and labor in colonial Malaya: 1860–1947. The International Migration Review, 23* (2), 309–331, p. 323. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
 
-[^26]:Topley, Dec 1959, p. 214; Lai, 1986, pp. 81–82; Ooi, 1992, p. 74.
+[^26]:Topley, Dec 1959, p. 214; [Lai](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4363498), 1986, pp. 81–82; Ooi, 1992, p. 74.
 
-[^27]:Gaw, 1988, p. 81.
+[^27]:[Gaw](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4773514), 1988, p. 81.
 
-[^28]:Gaw, 1988, pp. 95–96, 100, 102; Ooi, 1992, p. 74.
+[^28]:[Gaw](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4773514), 1988, pp. 95–96, 100, 102; Ooi, 1992, p. 74.
 
-[^29]:Gaw, 1988, pp. 104–105, 107.
+[^29]:[Gaw](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4773514), 1988, pp. 104–105, 107.
 
-[^30]:Gaw, 1988, pp. 103, 105.
+[^30]:[Gaw](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4773514), 1988, pp. 103, 105.
 
-[^31]:Gaw, 1988, p. 104.
+[^31]:[Gaw](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4773514), 1988, p. 104.
 
-[^32]:Gaw, 1988, p. 106; Lebra, J. (1980). Bazaar and service operations. In J. Lebra & J. Paulson, Chinese women in Southeast Asia (p. 72). Singapore: Times Books International. (Call no.: RSING 301.4120959 CHI)
+[^32]:[Gaw](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4773514), 1988, p. 106; Lebra, J. (1980). Bazaar and service operations. In J. Lebra & J. Paulson, *[Chinese women in Southeast Asia](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082314)* (p. 72). Singapore: Times Books International. (Call no.: RSING 301.4120959 CHI)
 
 [^33]:Mok-Ai, I. (1957, May 8). [British housewives elect the Chinese amah queen of the nannies](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19570508-1.2.22). *The Straits Times*, p. 16. Retrieved from NewspaperSG. 
 
