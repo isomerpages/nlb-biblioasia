@@ -157,3 +157,21 @@ In her later years, Sahgal joined the Communist Party of India (Marxist) and was
 [*Jai Hind: The diary of a rebel daughter of India, with the Rani of Jhansi Regiment*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=620491). (1945). Bombay: Janmabhoomi Prakashan Mandir. (Call no.: RSEA 954.025 JAI).
 
 Lebra, J.C. (2008). [*The Indian National Army and Japan*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13055778) (p. 61). Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 940.5354 LEB-[WAR]).
+
+#### **NOTES**
+[^1]:Lee, G. B. (2005). [*The Syonan years: Singapore under Japanese rule 1942–1945*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12661517) (p. 237). Singapore: National Archives of Singapore and Epigram. (Call no.: RSING q940.53957 LEE-[WAR]).
+[^2]:Lebra, J.C. (2008). [*The Indian National Army and Japan*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13055778) (p. 61). Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 940.5354 LEB-[WAR]).
+[^3]:Pillai, S., & Subramaniam, G. (2009). Through the coils of memory and ethnicity: The Malaysian Indian journey to nationhood. *European Journal of Social Sciences, 7* (3), 133–148, p. 139. (Not available in NLB holdings)
+[^4]:Sahgal, L. (1997). *A revolutionary life: Memoirs of an activist*. New Delhi: Kali for Women. (Not available in NLB holdings)
+[^5]:Hills, C., & Silverman, D.C. (October, 1993). Nationalism and feminism in late colonial India: The Rani of Jhansi Regiment, 1943–1945. *Modern Asian Studies, 27* (4), 741–760, p. 748. Cambridge University Press. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
+[^6]:
+[^7]:
+[^8]:
+
+
+
+
+
+Lebra, 2008, p. 101.
+Gawankar, R. (2003). The women’s regiment and Capt. Lakshmi of INA: An untold episode of NRI women’s contribution to Indian freedom struggle (pp. 263–264). New Delhi: Devika Publications. (Not available in NLB holdings)
+Sahgal, 1997, p. xxix.
