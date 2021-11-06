@@ -218,10 +218,11 @@ Singapore and Malaysia have signed four water agreements regarding the supply of
 [^30]:Tan, Y.S. et. al. (2009). [*Clean, green and blue: Singapore’s journey towards environmental and water sustainability*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13102969) (pp. 125–126). Singapore: ISEAS Pub. (Call no.: RSING 363.70095957 TAN).
 [^31]:White, B. (1950). [*Report on the water resources of Singapore island, excluding those within the present protected catchment area*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5012941) (p. 40). London: Wolfe Barry & Partners. (Call no.: RCLOS 627.095957 BRU); [$2m extra water plan goes on](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19580428-1.2.44). (1958, April 28). *The Singapore Free Press*, p. 7. Retrieved from NewspaperSG; [Tortajada, Joshi & Biswas](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14716461), 2013, p. 13.
 [^32]:Singapore. Public Utilities Board. (1969). [*Souvenir brochure to commemorate the inauguration of Seletar Reservoir, Public Utilities Board*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4402912) (Foreword, pp, 2, 4, 9). Singapore: The Board. (Call no.: RCLOS 628.13095957 PUB); [Over 100 million gallons of water supplied to S’pore daily](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19690810-1.2.132). (1969, August 10). *The Straits Times*, p. 32. Retrieved from NewspaperSG.
-[^33]:Singapore. Public Utilities Board. (1977). [Souvenir brochure to commemorate the official opening of the Upper Peirce Reservoir](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4402912) (Introduction). Singapore: The Board. (Call no.: RCLOS 628.13095957 PUB); [Mr Lee to open S’pore’s largest impounding reservoir](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19770227-1.2.80.aspx). (1977, February 27). The Straits Times, p. 18. Retrieved from NewspaperSG.
-[^34]:
-[^35]:
-[^36]:
+[^33]:Singapore. Public Utilities Board. (1977). [*Souvenir brochure to commemorate the official opening of the Upper Peirce Reservoir*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4402912) (Introduction). Singapore: The Board. (Call no.: RCLOS 628.13095957 PUB); [Mr Lee to open S’pore’s largest impounding reservoir](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19770227-1.2.80.aspx). (1977, February 27). *The Straits Times*, p. 18. Retrieved from NewspaperSG.
+[^34]:[Tan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13102969), 2009, pp. 128–129
+[^35]:[Tan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13102969), 2009, p. 131.
+[^36]:[‘Yes’ for Kranji-Pandan reservoir project](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720309-1.2.18.3). (1972, March 9). The Straits Times, p. 4; [$132m water supply projects to be ready this year](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19750209-1.2.35). (1975, February 9). The Straits Times, p. 6. Retrieved from NewspaperSG.
+Water from western catchment for these areas. (1982, May 5). The Straits Times, p. 10. Retrieved from NewspaperSG.
 [^37]:
 [^38]:
 [^39]:
@@ -229,10 +230,9 @@ Singapore and Malaysia have signed four water agreements regarding the supply of
 
 
 
-Tan, 2009, pp. 128–129
-Tan, 2009, p. 131.
-‘Yes’ for Kranji-Pandan reservoir project. (1972, March 9). The Straits Times, p. 4; $132m water supply projects to be ready this year. (1975, February 9). The Straits Times, p. 6. Retrieved from NewspaperSG.
-Water from western catchment for these areas. (1982, May 5). The Straits Times, p. 10. Retrieved from NewspaperSG.
+
+
+
 Tan, 2009, p. 132; Singapore. Public Utilities Board. (1997). Singapore’s water supply (p. 5). Singapore: Public Utilities Board. (Call no.: RSING 628.1095957 SIN); Two proposed reservoirs to be linked. (1980, August 18). The Straits Times, p. 9. Retrieved from NewspaperSG.
 Public Utilities Board. (2016, November 16). Marina Barrage. Retrieved from Public Utilities Board website; Liaw, W.C. (2008, November 1). First city reservoir opens. The Straits Times, p. 1. Retrieved from NewspaperSG; Ministry of Information, Communications and the Arts. (2005, March 22). Speech by Minister Mentor Lee Kuan Yew at the Marina Barrage commencement ceremony on 22 March 2005, 6.00pm. Retrieved from National Archives of Singapore website.
 Tan, 2009, pp. 140–141.
