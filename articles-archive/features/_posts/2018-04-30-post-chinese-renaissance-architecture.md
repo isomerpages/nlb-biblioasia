@@ -17,7 +17,7 @@ When it comes to architecture, however, the term “Chinese Renaissance” gener
 
 Perhaps the best known of these architects was Lu Yanzhi (1894–1929), a graduate of Cornell University, who  designed the Sun Yat Sen Mausoleum in Nanjing (completed 1929). Another was Dong Dayou (1899–1975), an alumnus of Columbia University, who wrote an article in the English-language *T’ien Hsia Monthly* in 1936 extolling the achievements of this pioneer generation  of Chinese architects:
 
-“A group of young students went to America and Europe to study the fundamentals of architecture. They came back to China filled with ambition to create something new and worthwhile. They initiated a great movement, a movement to bring back a dead architecture to life: in other words, to do away with poor imitations of Western architecture and to make Chinese architecture truly national”.[^1]
+“A group of young students went to America and Europe to study the fundamentals of architecture. They came back to China filled with ambition to create something new and worthwhile. They initiated a great movement, a movement to bring back a dead architecture to life: in other words, to do away with poor imitations of Western architecture and to make Chinese architecture truly national.”[^1]
 
 Given the historical background of this period, the Chinese Renaissance, as an architectural movement, can be seen as part of a wider call for renewal and revitalisation of Chinese society and culture taking place at the time. This came on the back of more than half a century of foreign interference in China’s affairs, following the disastrous Opium Wars of the mid-19th century that ceded Hong Kong to Britain and established treaty ports in China.
 
