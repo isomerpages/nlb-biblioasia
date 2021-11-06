@@ -227,10 +227,10 @@ Singapore and Malaysia have signed four water agreements regarding the supply of
 [^39]:Public Utilities Board. (2016, November 16). *Marina Barrage*. Retrieved from Public Utilities Board website; Liaw, W.C. (2008, November 1). [First city reservoir opens](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20081101-1.2.9.1). *The Straits Times*, p. 1. Retrieved from NewspaperSG; Ministry of Information, Communications and the Arts. (2005, March 22). [*Speech by Minister Mentor Lee Kuan Yew at the Marina Barrage commencement ceremony on 22 March 2005, 6.00pm*](https://www.nas.gov.sg/archivesonline/speeches/record-details/78e3ae21-115d-11e3-83d5-0050568939ad). Retrieved from National Archives of Singapore website.
 [^40]:[Tan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13102969), 2009, pp. 140–141.
 [^41]:Peh, S.H. (2007, April 7). [Liquid asset](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20070407-1.2.63.2.2.aspx). *The Straits Times*, p. 50. Retrieved from NewspaperSG; [Tan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13102969), 2009, p. 142.
-[^42]:United Water Technologies. (2002, June). Singapore water reclamation study: Expert panel review and findings (pp. AB-1, AB-2). Retrieved from United Water Technologies website; [Tan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13102969), 2009, p. 142; Teo, L. (2001, January 13). [Recycling to meet 15% of water needs by 2010](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20010113-1.2.2). The Straits Times, p. 1. Retrieved from NewspaperSG.
-[^43]:
-[^44]:
-[^45]:
+[^42]:United Water Technologies. (2002, June). *Singapore water reclamation study: Expert panel review and findings* (pp. AB-1, AB-2). Retrieved from United Water Technologies website; [Tan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13102969), 2009, p. 142; Teo, L. (2001, January 13). [Recycling to meet 15% of water needs by 2010](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20010113-1.2.2). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
+[^43]:United Water Technologies, Jun 2002, pp. AB-7, AB-11–AB-24; [Tan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13102969), 2009, pp. 143–144.
+[^44]:Hyflux Ltd. (2002). *Annual report 2001* (p. 1). Retrieved from Hyflux website; Ministry of Information, Communications and the Arts. (2003, February 21). [*Speech by Prime Minister Goh Chok Tong at the Official Launch of Newater on Friday, 21st February 2003 at 7.00pm*](https://www.nas.gov.sg/archivesonline/speeches/record-details/76d6897c-115d-11e3-83d5-0050568939ad). Retrieved from National Archives of Singapore website.
+[^45]:Tang, W.F. (2004, June 19). [Third Newater plant on stream as water sector opens up](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes20040619-1.2.19.2). *The Business Times*, p. 8. Retrieved from NewspaperSG; Public Utilities Board. (2012). *Annual report 2010/2011* (p. 15). Retrieved from Public Utilities Board website; Lee, U-W. (2007, March 16). [Let’s drink to another Newater success: PM](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20070316-2.2.5.2). Today, p. 3. Retrieved from NewspaperSG; Public Utilities Board. (2017, January 18). Singapore’s fifth NEWater plant opens. Retrieved from Public Utilities Board website; Boh, S. (2017, January 19). $170m fifth Newater plant launched. The Straits Times, p. 3. Retrieved from NewspaperSG.
 [^46]:
 [^47]:
 [^48]
@@ -239,9 +239,9 @@ Singapore and Malaysia have signed four water agreements regarding the supply of
 [^51]:
 
 
-United Water Technologies, Jun 2002, pp. AB-7, AB-11–AB-24; Tan, 2009, pp. 143–144.
-Hyflux Ltd. (2002). Annual report 2001 (p. 1). Retrieved from Hyflux website; Ministry of Information, Communications and the Arts. (2003, February 21). Speech by Prime Minister Goh Chok Tong at the Official Launch of Newater on Friday, 21st February 2003 at 7.00pm. Retrieved from National Archives of Singapore website.
-Tang, W.F. (2004, June 19). Third Newater plant on stream as water sector opens up. The Business Times, p. 8. Retrieved from NewspaperSG; Public Utilities Board. (2012). Annual report 2010/2011 (p. 15). Retrieved from Public Utilities Board website; Lee, U-W. (2007, March 16). Let’s drink to another Newater success: PM. Today, p. 3. Retrieved from NewspaperSG; Public Utilities Board. (2017, January 18). Singapore’s fifth NEWater plant opens. Retrieved from Public Utilities Board website; Boh, S. (2017, January 19). $170m fifth Newater plant launched. The Straits Times, p. 3. Retrieved from NewspaperSG.
+
+
+
 Public Utilities Board. (2017, September 21). NEWater. Retrieved from Public Utilities Board website.
 Ong, M.A. (2005). Towards environmental sustainability: State of the environment 2005 report (p. 21). Singapore: Ministry of the Environment and Water Resources. (Call no.: RSING 363.72095957 ONG); Public Utilities Board. (2017, October 3). Desalinated water. Retrieved from Public Utilities Board website.
 Chua, G. (2013, September 18). Another milestone as second desalination plant opens. The Straits Times, pp. 2–3. Retrieved from NewspaperSG; Public Utilities Board, 3 Oct 2017.
