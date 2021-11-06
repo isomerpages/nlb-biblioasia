@@ -43,3 +43,33 @@ With Japanese support, this force was expected to rally opposition to British co
 Bose arrived in Singapore on 2 July 1943 to an enthusiastic welcome from the Indian community. He immediately took command of both the Indian Independence League (IIL), a political organisation of expatriate Indians, and the INA. The latter was made up of approximately 40,000 Indian soldiers, and one of Bose’s first initiatives was to encourage civilian recruits to join this army.
 
 #### **Beginnings of the Jhansi Regiment**
+
+Bose was from Bengal, a state that more than any other in India encouraged the education and emancipation of women. It was this principle that led him to create a regiment of women in the INA. The new regiment was formed on 12 July 1943 and Bose named it after the legendary Rani of Jhansi, who famously rode into battle against the British in 1858, and died a martyr to the Indian cause.
+
+<img src="/images/Vol-14-issue-1/warrior-women/Warrior5.JPG">
+<div style="background-color: white;">Subhas Chandra Bose arriving in Singapore on 2 July 1943. <i>Nirvan Thivy Collection, courtesy of National Archives of Singapore.</i></div>
+
+Reported numbers vary, but it is thought that the Rani of Jhansi Regiment consisted of well over 1,000 Indian women, spread out over camps in Singapore, Malaya and Burma (Myanmar). It is estimated that only 20 percent of the recruits were well educated women, who became the commanding officers. The remaining 80 percent were the wives and daughters of Tamil labourers who worked on the rubber estates of Malaya, and who would have been either illiterate, or have had no more than a few years of basic education.
+
+Before large and enthusiastic rallies on the Padang and at Farrer Park, Bose set out his vision for India, and his wish that the Indian women of Singapore, Malaya and Burma – like their contemporaries in the Indian motherland – participate in the freedom movement too.
+
+ “This must be a truly revolutionary army… I am appealing also to women… women must be prepared to fight for their freedom and for independence… along with independence they will get their own emancipation”.1
+
+Bose’s inspiring words caused women listening to him on the Padang to surge forward through police barricades, eager to fight as he demanded, for India and their own emancipation.
+
+At the time in India, the struggle for independence from British rule, more than any other impetus, encouraged women from all strata of Indian society to take greater control of their lives. They were urged to participate in a life outside the home in new but sanctioned ways, to cross the forbidden threshold into the world of men, and to work together with men for the freedom of the motherland.
+
+The wave of Indian nationalism sweeping through the Indian diaspora at this time cannot be underestimated. On the British-owned rubber plantations of Malaya, where Tamil workers lived a degraded life set apart from other communities, they would have been well aware of the growing anti-colonial sentiments of the time. Tamil newspapers and radio carried news from India, and pictures of Gandhi hung in many places.
+
+At the very bottom of the plantation hierarchy, Tamil workers lived in poverty and exploitation, but this separateness allowed their Indian identity to remain intact. Even if cut off from India for two or three generations, they still spoke their native tongue and wore Indian dress in everyday life. At Hindu temples in the rubber estates, they celebrated religious festivals and practices. Hindu myth and folklore was handed down from one generation to the next, and their sense of Tamil identity remained strong.2
+
+Stripped of their self-worth in Malaya, the motherland became a consoling image for these displaced Tamils, an India of the imagination, created out of an ancestral memory that was constantly kept alive.3 Seen through this lens – the insularity of the Tamil community and its powerful ties to India and Indian heritage – it is easier to understand why second and third generation Indians in Malaya, who had never lived in India, were stirred by the nationalistic feelings of the time, and willingly laid down their lives for the patriotic cause.
+
+The women who volunteered to join the newly formed Rani of Jhansi Regiment were all exceptionally young, the majority in their mid- to late teens, a few are even documented as being no more than 12 or 14 years old. Most were of an impressionable age, filled with burgeoning emotions, desires and romantic dreams. In the turmoil of war, the women regiment may also have been seen by some as a safe haven where food, shelter and safety from marauding Japanese soldiers was provided.
+
+Even so, it is astounding that Indian women, some so young as to be barely out of childhood, many illiterate and the majority mindful of their traditional roles in their society, should be prepared to leave families and husbands behind and lay down their lives for the cause of Indian freedom. Their commitment is even more exceptional when it is remembered that most had never set foot in their motherland. Yet, all were filled with passion for the cause, all empowered by the irresistible sense of adventure the Rani of Jhansi Regiment offered. Many were also a testament to Bose’s personality as being a powerful element in their decision to join the regiment.
+
+Under Bose’s leadership, Indian women from Singapore, Burma and Malaya, of varied caste, religion and social backgrounds, were recruited into the Rani of Jhansi Regiment to fight for India’s freedom. In caste- and class-ridden India where Hindu will not eat with Muslim, where the superior Brahmin will not mix with the low-caste labourer, where a northerner cannot speak the language of a southerner, and where the untouchable is anathema to all, the fostering of a sense of oneness was a difficult task.
+
+<img src="/images/Vol-14-issue-1/warrior-women/Warrior6.JPG">
+<div style="background-color: white;">Subhas Chandra Bose announcing the formation of the Provisional Government of Free India, or Azad Hind, at a rally at Cathay Building, Singapore, in October 1943. He established Azad Hind to ally with the Axis powers and free India from British rule. <i>Nirvan Thivy Collection, courtesy of National Archives of Singapore.</div>
