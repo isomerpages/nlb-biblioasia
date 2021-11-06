@@ -139,12 +139,12 @@ Many local architects who qualified to practise under the Architects Ordinance o
 
 One exception, however, was Ho Kwong Yew’s Holy Trinity Church at Hamilton Road. Ordinarily, Ho was very much the Modernist, but in 1940 he was commissioned to design a new church  for the Anglican Foochow congregation, which sported Chinese-style roofs and fenestration with a stringcourse inscribed with the Chinese cloud or thunder pattern (*leiwen*). *The Straits Times* described it as “the first church in Malaya built in the Chinese style of architecture”,[^12] but of course they had overlooked Denis Santry’s church for the Methodist Mission at Telok Ayer. Completed in July 1941, Holy Trinity Church was the last building in the Chinese Renaissance style erected before the Japanese Occupation.
 
+<img style="width: 400px; height: 450px;" src="/images/Vol-14-issue-1/chinese-renaissance-architect/Renaissance12.JPG">
+<div style="background-color: white;">Holy Trinity Church at Hamilton Road was designed by Ho Kwong Yew in 1940 for the Anglican Foochow congregation. The building has Chinese-style roofs and fenestration. <i>Courtesy of Julian Davison.</i></div>
+
 After World War II, it was a different scene altogether with Singaporean Chinese architects coming to the fore, embracing the Chinese Renaissance  style with gusto in response to the outpouring of nationalist fervour, although Swan & Maclaren did make one more important contribution: the Kheng Chiu Building on Beach Road.
 
 Somewhat ironically, though, by the time nationhood was achieved in 1965,  the world had moved on and Chinese Renaissance, as an architectural style, was beginning to sound like old news. The last major Chinese-style building  of any consequence to be constructed  in Singapore was the C. K. Tang and  Dynasty Hotel complex (1977–1982), but that can hardly be thought of as Chinese Renaissance in the sense of the term as  has been described here. What was seen as a rebirth was, in fact, a dead end.
-
-<img style="width: 400px; height: 450px;" src="/images/Vol-14-issue-1/chinese-renaissance-architect/Renaissance12.JPG">
-<div style="background-color: white;">Holy Trinity Church at Hamilton Road was designed by Ho Kwong Yew in 1940 for the Anglican Foochow congregation. The building has Chinese-style roofs and fenestration. <i>Courtesy of Julian Davison.</i></div>
 
 <div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> 
 <b>GENTLEMEN’S CLUB</b>
@@ -178,4 +178,4 @@ The original plans were for a Chinese Renaissance-style building, and one cannot
 [^9]:It was a boys-only school in those days as girls attended their own school, known as Methodist Girls’ School today, on Selegie Road.
 [^10]:[Anglo-Chinese School](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19281119-1.2.83). (1928, November 19). *The Singapore Free Press and Mercantile Advertiser*, p. 9. Retrieved from NewspaperSG.
 [^11]:Oversea-Chinese Banking Corporation was formed from a merger of Ho Hong Bank, Chinese Commercial Bank and Oversea-Chinese Bank in 1932. 
-[^12]:[New church in Horne Road](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19410714-1.2.62). (1941, July 14). The Straits Times, p. 9. Retrieved from NewspaperSG.
+[^12]:[New church in Horne Road](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19410714-1.2.62). (1941, July 14). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
