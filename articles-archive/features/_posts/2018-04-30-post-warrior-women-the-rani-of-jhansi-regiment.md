@@ -143,5 +143,17 @@ In her later years, Sahgal joined the Communist Party of India (Marxist) and was
 </div>
 
 <div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> 
-<img style="width: 300px; height: 400px;" src="/images/Vol-14-issue-1/warrior-women/Warrior9.JPG"><br><br>Meira Chand’s new novel, <i>Sacred Waters</i> (2017), is published by Marshall Cavendish Editions and retails for S$21.50 at major bookshops. It is also available for reference and loan at the Lee Kong Chian Reference Library and selected public libraries (Call nos.: RSING 823.914 CHA and SING CHA)
+<img style="width: 300px; height: 400px;" src="/images/Vol-14-issue-1/warrior-women/Warrior9.JPG"><br><br>Meira Chand’s new novel, <i>Sacred Waters</i> (2017), is published by Marshall Cavendish Editions and retails for S$21.50 at major bookshops. It is also available for reference and loan at the Lee Kong Chian Reference Library and selected public libraries (Call nos.: RSING 823.914 CHA and SING CHA).
 </div>
+<br>
+<div style="background-color: white;">
+<img src="/images/Vol-14-issue-1/warrior-women/Warrior10.jpg" style="width: 100px; height: 100px;">
+<b>Meira Chand</b>’s multi-cultural heritage is reflected in the nine novels she has published. <i>A Different Sky</i>, set in Singapore, was long-listed for the International IMPAC Dublin Literary Award in 2012, and made it to Oprah Winfrey’s reading list. Her new book, <i>Sacred Waters</i>, was recently published in Singapore. She has a PhD in Creative Writing.
+</div>
+
+<a href="https://biblioasia.nlb.gov.sg/vol-14/issue-1/apr-jun-2018/"><center>Back to Issue</center></a>
+
+#### **REFERENCES**
+[*Jai Hind: The diary of a rebel daughter of India, with the Rani of Jhansi Regiment*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=620491). (1945). Bombay: Janmabhoomi Prakashan Mandir. (Call no.: RSEA 954.025 JAI).
+
+Lebra, J.C. (2008). [*The Indian National Army and Japan*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13055778) (p. 61). Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 940.5354 LEB-[WAR]).
