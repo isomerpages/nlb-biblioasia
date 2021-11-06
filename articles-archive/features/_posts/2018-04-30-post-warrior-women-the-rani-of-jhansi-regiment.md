@@ -123,3 +123,21 @@ Bose’s motivations for starting the regiment can be endlessly argued, but what
 Although so many of the Jhansi Ranis returned to their traditional societies after the war, and others lived out their lives in poverty in India, their brief experience of empowerment would have been orally related to their daughters and other female members of their households, and would have helped sow the seed for change in later generations of women.
 
 In India, recent renewed interest in the Rani of Jhansi Regiment has rekindled discussion of their role in the struggle for Indian independence. It is hoped that with this renewed interest, acknowledgement will at last be given to this small band of extraordinary Indian women.
+
+<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> 
+<b>LAKSHMI SAHGAL</b>
+<br><br>
+As the daughter of politically active parents, Lakshmi Sahgal (born Lakshmi Swaminathan; 1914–2012) was made aware, from a young age, of anti-British sentiments in India and the fight for political freedom. After completing high school, she chose to study medicine and obtained her medical degree in 1938.
+<br><br>
+Fiercely independent, Sahgal left an unhappy marriage to follow a lover, who was also a doctor, to Singapore in 1940. During the Japanese Occupation, she became involved with the Indian Independence League. In 1943, Subhas Chandra Bose arrived in Singapore to take command of the INA, and Sahgal, as a prominent woman activist, was part of the official reception committee that met him at the airport.
+<br><br>
+When Bose announced his wish to create the Rani of Jhansi Regiment, Sahgal was quickly drawn into the organising of this new force. At Bose’s request she took up its command, establishing a camp and recruiting young women to the force. Sahgal became known as Captain Lakshmi, a name and identity that would remain with her for life.
+<br><br>
+<img src="/images/Vol-14-issue-1/warrior-women/Warrior8.JPG">Dr Lakshmi Sahgal took up command of the Rani of Jhansi Regiment and became known as Captain Lakshmi, a name and identity that would remain with her for life. <i>Image source: IASPaper.net.</i>
+<br><br>
+In Singapore, in October 1943, Bose formed the Provisional Government of Free India, or as it was more simply known, Azad Hind, and Sahgal was included in his cabinet. Later, in Burma, she established more camps and organised relief work. When the war ended in 1945, Sahgal was taken prisoner by guerrilla fighters, and made to march through the jungle for days. In 1946, she was handed over to the British in Rangoon, and subsequently repatriated to India and released.
+<br><br>
+In 1947, Sahgal married Prem Kumar Sahgal, a former officer who left the British Indian Army to join the Indian National Army (INA). Along with other fellow INA officers, her husband was put on trial for treason at the Red Fort in Delhi. However, the charge was not upheld, and he was dismissed from the British Indian Army. The couple then settled in Kanpur in the state of Uttar Pradesh, where Sahgal established her medical practice.
+<br><br>
+In her later years, Sahgal joined the Communist Party of India (Marxist) and was a founding member of the All India Democratic Women’s Association. She passed away on 23 July 2012, at age 97.
+</div>
