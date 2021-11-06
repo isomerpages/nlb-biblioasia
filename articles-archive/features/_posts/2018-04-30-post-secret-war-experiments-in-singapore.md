@@ -34,7 +34,7 @@ It helped that the younger Lim is equally adept at reading, writing and speaking
 
 Lim did not, however, rely on Kanda Street alone. His burning questions about Unit 731 spurred him to trawl the internet for clues of its heinous activities. Lim may be an amateur researcher or, as he puts it, “an investigator of war crimes”, but his zeal and eye for detail are impressive. For instance, he was able to refer me to an August 2002 paper by the late American scholar Sheldon H. Harris, and point to references in it to OKA 9420, including the 150 physicians who worked at the Singapore unit.
 
-<img style="width: 650px; height: 400px;" src="/images/Vol-14-issue-1/secret-war-experiments-in-sg/Secreta.JPG">
+<img style="width: 500px; height: 370px;" src="/images/Vol-14-issue-1/secret-war-experiments-in-sg/Secreta.JPG">
 <div style="background-color: white;">Singaporean researcher Lim Shao Bin at one of the many second-hand bookshops in Tokyo’s Kanda Street, where he uncovered the heinous activities of the Imperial Japanese Army’s Unit 731, a top-secret biological warfare research operative, in Singapore during World War II. Photo taken in December 2017. <i>Courtesy of Lim Shao Bin.</i></div>
 
 He adds that Unit 731 not only had a lot of clout, but also an “extraordinary” budget for its activities. Lim said he gleaned this from the 1991 memoir by a former OKA 9420 worker, Koichi Takebana, entitled *Fleas, Rats and Plague: I Saw All Three*. Crucially, Takebana’s book contains vital information about OKA 9420’s chain of sub-units. This was instrumental in helping Lim retrace the murky workings of this clandestine unit because the chain showed Singapore to be the Southeast Asian headquarters of Unit 731, along with other units in the Malayan towns of Tampoi in Johor and Kuala Pilah in Negeri Sembilan.
@@ -152,7 +152,7 @@ Lim’s most recent sojourn to Japan was in early December 2017 to join his frie
 <br><br>
 The next step of Lim’s quest is to find someone who can help him read and decipher a cache of medical reports from Unit 731 written by Iichiro Otaguro. “After independence, so much of Singapore history emphasised the years after 1965. I would like what I’ve found to spur future generations of Singaporeans to rediscover the history of our war years. Let’s not make it a case of children forgetting their grandparents’ past”, says Lim with a pensive smile.
 </div>
-<br>
+
 <div style="background-color: white;">
 <img src="/images/Vol-14-issue-1/secret-war-experiments-in-sg/Secret8.jpg" style="width: 100px; height: 100px;">
 <b>Cheong Suk-Wai</b> is a lawyer by training and a writer by choice. A former ASEAN Scholar and Thomson Foundation Scholar, she has been a construction litigator, a journalist and a public servant.
