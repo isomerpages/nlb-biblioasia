@@ -143,7 +143,7 @@ In her later years, Sahgal joined the Communist Party of India (Marxist) and was
 </div>
 
 <div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> 
-<img style="width: 220px; height: 300px;" src="/images/Vol-14-issue-1/warrior-women/Warrior9.JPG"><br><br>Meira Chand’s new novel, <i>Sacred Waters</i> (2017), is published by Marshall Cavendish Editions and retails for S$21.50 at major bookshops. It is also available for reference and loan at the Lee Kong Chian Reference Library and selected public libraries (Call nos.: RSING 823.914 CHA and SING CHA).
+<img style="width: 220px; height: 300px;" src="/images/Vol-14-issue-1/warrior-women/Warrior9.JPG"><br>Meira Chand’s new novel, <i>Sacred Waters</i> (2017), is published by Marshall Cavendish Editions and retails for S$21.50 at major bookshops. It is also available for reference and loan at the Lee Kong Chian Reference Library and selected public libraries (Call nos.: RSING 823.914 CHA and SING CHA).
 </div>
 <br>
 <div style="background-color: white;">
