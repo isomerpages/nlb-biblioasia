@@ -107,7 +107,7 @@ In 1983, PUB initiated the Sungei Seletar-Bedok Water project to meet the increa
 
 A second reservoir, Sungei Seletar Reservoir (renamed Lower Seletar Reservoir in 1992), was formed by damming Seletar River. The river water was also used to fill Bedok Reservoir (see text box overleaf).[^38]
 
-<img src="/images/Vol-14-issue-1/four-taps-of-singapore-water/FourTaps7.JPG">
+<img style="width: 550px; height: 370px;" src="/images/Vol-14-issue-1/four-taps-of-singapore-water/FourTaps7.JPG">
 <div style="background-color: white;">Waste water is treated at the Ulu Pandan NEWater Plant, which opened in 2007. Reclaimed water is today one of Singapore’s Four National Taps. <i>Photo by Richard W.J. Koh.</i></div>
 
 Marina Reservoir, located in the heart of the city, is another urban reservoir. It officially opened in 2008 and was created by building a dam – Marina Barrage – across Marina Channel. Envisioned by Singapore’s first Prime Minister Lee Kuan Yew in 1987, the barrage is unique in the sense that it stores water, alleviates flooding and supports recreational activities. The flood control function is enabled by a mechanism that serves as a tidal barrier to prevent rising waters from advancing inland and flooding low-lying areas. The barrage also keeps the reservoir’s water level constant, making it suitable for water activities such as sailing, windsurfing and canoeing.[^39] 
@@ -140,7 +140,7 @@ To overcome the limited capacity of existing reservoirs, PUB implemented the Res
 
 PUB is also making strides in water technologies by partnering overseas firms. One recent example is the trial of a new desalination method in 2015 with American company, Evoqua Water Technologies. Known as electro-deionisation, this method uses an electric field to extract dissolved salts from seawater, leaving behind fresh water. Compared with the current desalination method, electro- deionisation is significantly more efficient in terms of energy usage and cost.[^51]
 
-<img src="/images/Vol-14-issue-1/four-taps-of-singapore-water/FourTaps8.JPG">
+<img style="width: 550px; height: 370px;" src="/images/Vol-14-issue-1/four-taps-of-singapore-water/FourTaps8.JPG">
 <div style="background-color: white;">Conceptualised in the 1990s as a solution for Singapore’s waste water needs, the Deep Tunnel Sewerage System uses a network of deep tunnels to convey waste water by gravity to NEWater reclamation plants in Kranji, Changi and Tuas. <i>Courtesy of PUB, Singapore’s national water agency.</i></div>
 
 From the first well dug by the British in 1819 to a constant supply of clean drinking water flowing from taps, Singapore’s water journey – at times bumpy and perilous – has come a long way since the time of Raffles. Through persistence, foresight and innovation, our water pioneers have been able to overcome massive obstacles and challenges to develop and diversify Singapore’s water sources.
