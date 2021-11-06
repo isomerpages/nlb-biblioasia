@@ -194,8 +194,5 @@ Singapore and Malaysia have signed four water agreements regarding the supply of
 [^6]:[Dobbs](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12149559), 2003, p. 34.
 [^7]:[Makepeace, Brooke & Braddell](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6203718), 1991, p. 326; Yeoh, B.S.A. (2003). [*Contesting space in colonial Singapore: Power relations and the urban built environment*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827061) (pp. 177–178). Singapore: Singapore University Press. (Call no.: RSING 307.76095957 YEO).
 [^8]:Saw S.H. (2012). [*The population of Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14383911) (p. 9). Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 304.6095957 SAW); [Makepeace, Brooke & Braddell](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6203718), 1991, p. 327.
-[^9]:Ng, P.K.L., Corlett, R.T., & Tan, H.T.W. (Eds.). (2011). [Singapore biodiversity: An encyclopedia of the natural environment and sustainable development](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14100943) (p. 59). Singapore: Editions Didier Millet. (Call no.: RSING 333.95095957 SIN); [Yeoh](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827061), 2003, p. 178; National Archives of Singapore, 2008, p. 38.
-[^10]:
-
-
-Ng, Corlett & Tan, 2011, p. 59; Yeoh, 2003, p. 178.
+[^9]:Ng, P.K.L., Corlett, R.T., & Tan, H.T.W. (Eds.). (2011). [*Singapore biodiversity: An encyclopedia of the natural environment and sustainable development*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14100943) (p. 59). Singapore: Editions Didier Millet. (Call no.: RSING 333.95095957 SIN); [Yeoh](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827061), 2003, p. 178; [National Archives of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12981512), 2008, p. 38.
+[^10]:[Ng, Corlett & Tan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14100943), 2011, p. 59; Yeoh, 2003, p. 178.
