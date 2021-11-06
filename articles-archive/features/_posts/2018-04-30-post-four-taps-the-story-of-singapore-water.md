@@ -96,7 +96,7 @@ MacRitchie, Upper Peirce and Lower Peirce reservoirs are located in the Central 
 
 One innovative method adopted by PUB was the creation of a string of unprotected catchments across the island. Unlike protected reservoirs, such catchments are located in urban areas, yielding water that is of lower quality and with higher organic matter. To improve water quality, a number of measures were taken, such as using stronger disinfectants, improving filtration methods, enforcing stricter anti-pollution controls, implementing a more efficient waste management system, and launching the Keep Singapore Clean campaign.[^35]
 
-<img src="/images/Vol-14-issue-1/four-taps-of-singapore-water/FourTaps6.JPG">
+<img style="width: 550px; height: 350px;" src="/images/Vol-14-issue-1/four-taps-of-singapore-water/FourTaps6.JPG">
 <div style="background-color: white;">Built across Marina Channel, Marina Barrage created Singapore’s 15th reservoir, the first located in the city. The barrage serves three purposes: it stores water, alleviates flooding and supports recreational activities. <i>Courtesy of PUB, Singapore’s national water agency.</i></div>
 
 The Kranji and Pandan reservoirs were the first two estuarine reservoirs built in unprotected catchment areas in 1975. The S$75-million Kranji-Pandan water scheme was formed by damming the Kranji and Pandan rivers. The two reservoirs served mainly the north-western part of Singapore, including Jurong Industrial Estate and housing estates in the area.[^36]
