@@ -115,7 +115,7 @@ In the interim, the two St John’s Islands were conjoined by a causeway. Furthe
 
 New landmarks emerged in the 2000s: a Marine Aquaculture Centre where seabass are bred, and Singapore’s only offshore Marine Laboratory where researchers investigate diverse facets of marine science, ranging from giant clams to coral ecology and anti-fouling solutions for the shipping industry. Another milestone occurred in 2014 when St John’s western shore was designated part of the Sisters’ Islands Marine Park.[^45]
 
-<img style="width: 450px; height: 290px;" src="/images/Vol-14-issue-1/st-johns-island/StJohn2.JPG">
+<img src="/images/Vol-14-issue-1/st-johns-island/StJohn2.JPG">
 <div style="background-color: white;">The living reefs of St John’s Island. In the distant background is the skyline of mainland Singapore. <i>Photo taken by Ria Tan on 31 August 2004. Courtesy of WildSingapore.</i></div>
 
 A signboard at the end of the jetty invites visitors to explore the Marine Park’s Public Gallery on the island’s southern peak. The path from the jetty runs through compounds of barbed wire and beckons towards a row of low houses, home to the island’s last residents.[^46] Turn left and the trail winds past old bungalows, lush mangroves where fiddler crabs frolic at low tide, and patches of coastal forest. On the other side of the island are the former quarantine quarters turned campsites, which overlook beaches that still attract sizeable crowds on weekends.
