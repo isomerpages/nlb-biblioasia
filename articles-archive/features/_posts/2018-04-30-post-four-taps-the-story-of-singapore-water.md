@@ -226,3 +226,14 @@ Singapore and Malaysia have signed four water agreements regarding the supply of
 [^38]:[Tan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13102969), 2009, p. 132; Singapore. Public Utilities Board. (1997). [*Singapore’s water supply*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5012549) (p. 5). Singapore: Public Utilities Board. (Call no.: RSING 628.1095957 SIN); [Two proposed reservoirs to be linked](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19800818-1.2.42.aspx). (1980, August 18). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
 [^39]:Public Utilities Board. (2016, November 16). *Marina Barrage*. Retrieved from Public Utilities Board website; Liaw, W.C. (2008, November 1). [First city reservoir opens](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20081101-1.2.9.1). *The Straits Times*, p. 1. Retrieved from NewspaperSG; Ministry of Information, Communications and the Arts. (2005, March 22). [*Speech by Minister Mentor Lee Kuan Yew at the Marina Barrage commencement ceremony on 22 March 2005, 6.00pm*](https://www.nas.gov.sg/archivesonline/speeches/record-details/78e3ae21-115d-11e3-83d5-0050568939ad). Retrieved from National Archives of Singapore website.
 [^40]:[Tan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13102969), 2009, pp. 140–141.
+[^41]:
+[^42]:
+[^43]:
+[^44]:
+[^45]:
+[^46]:
+[^47]:
+[^48]
+[^49]:
+[^50]:
+[^51]:
