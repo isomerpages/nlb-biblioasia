@@ -192,10 +192,10 @@ Singapore and Malaysia have signed four water agreements regarding the supply of
 [^4]:National Archives of Singapore. (2008). [*10 years that shaped a nation: An exhibition catalogue*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12981512) (p. 38). Singapore: National Archives of Singapore. (Call no.: RSING 959.5705 TEN-[HIS]); Hon, J. (1990). [*Tidal fortunes: A story of change: The Singapore River and Kallang Basin*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5788078) (pp. 8, 29-30). Singapore: Landmark Books. (Call no.: RSING 959.57 HON-[HIS]); Makepeace, W., Brooke, G.E., & Braddell, R.S.J. (Eds.). (1991). [*One hundred years of Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6203718) (p. 326). Singapore: Oxford University Press. (Call no.: RSING 959.57 ONE-[HIS]).
 [^5]:Dobbs, S. (2003). [*The Singapore River: A social history, 1819–2002*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12149559) (pp. 33–34). Singapore: Singapore University Press. (Call no.: RSING 959.57 DOB-[HIS]).
 [^6]:[Dobbs](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12149559), 2003, p. 34.
-[^7]:
-[^8]:
-[^9]:
-[^10]:Makepeace, Brooke & Braddell, 1991, p. 326; Yeoh, B.S.A. (2003). Contesting space in colonial Singapore: Power relations and the urban built environment (pp. 177–178). Singapore: Singapore University Press. (Call no.: RSING 307.76095957 YEO)
-Saw S.H. (2012). The population of Singapore (p. 9). Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 304.6095957 SAW); Makepeace, Brooke & Braddell, 1991, p. 327.
-Ng, P.K.L., Corlett, R.T., & Tan, H.T.W. (Eds.). (2011). Singapore biodiversity: An encyclopedia of the natural environment and sustainable development (p. 59). Singapore: Editions Didier Millet. (Call no.: RSING 333.95095957 SIN); Yeoh, 2003, p. 178; National Archives of Singapore, 2008, p. 38.
+[^7]:[Makepeace, Brooke & Braddell](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6203718), 1991, p. 326; Yeoh, B.S.A. (2003). [*Contesting space in colonial Singapore: Power relations and the urban built environment*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827061) (pp. 177–178). Singapore: Singapore University Press. (Call no.: RSING 307.76095957 YEO).
+[^8]:Saw S.H. (2012). [*The population of Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14383911) (p. 9). Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 304.6095957 SAW); [Makepeace, Brooke & Braddell](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6203718), 1991, p. 327.
+[^9]:Ng, P.K.L., Corlett, R.T., & Tan, H.T.W. (Eds.). (2011). [Singapore biodiversity: An encyclopedia of the natural environment and sustainable development](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14100943) (p. 59). Singapore: Editions Didier Millet. (Call no.: RSING 333.95095957 SIN); [Yeoh](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827061), 2003, p. 178; National Archives of Singapore, 2008, p. 38.
+[^10]:
+
+
 Ng, Corlett & Tan, 2011, p. 59; Yeoh, 2003, p. 178.
