@@ -90,7 +90,7 @@ In late June 1945, OKA 9420 suddenly vanished from Singapore – weeks ahead of 
 
 #### **Free but not Forgotten**
 
-Lim says that OKA 9420’s head Ryoichi Naito and his colleagues were never tried as war criminals. “After the war, the Americans occupied Japan”, he recalls. “They started interviewing and tried to arrest war criminals. And one critical thing they sought more information about was biochemical warfare in Harbin. They wanted the key men”.
+Lim says that OKA 9420’s head Ryoichi Naito and his colleagues were never tried as war criminals. “After the war, the Americans occupied Japan”, he recalls. “They started interviewing and tried to arrest war criminals. And one critical thing they sought more information about was biochemical warfare in Harbin. They wanted the key men.”
 
 The Americans tracked down Naito who, in his fluent English, told them that he would turn over all the medical records, data from experiments and papers to the US on condition that they let him walk free. The Americans did just that, granting Naito and the rest of Unit 731 immunity from prosecution for war crimes.
 
@@ -98,14 +98,14 @@ Naito, his deputy Iichiro Otaguro and their ilk went on to rebuild their lives b
 
 But the truth eventually surfaced. “In the 1980s and 90s”, says Lim, “the doctors among these men started to retire and mentor younger doctors. When the latter found out that their mentors had done such bad things, they were shocked”.
 
-Some of these younger doctors formed non-governmental organisations, which published accounts of what their founders had learnt about Unit 731’s experiments. Why was Japan not rocked by such findings? Lim puts it down to the thick fog of negation surrounding Japan’s war crimes, including from Japan’s powerful and vociferous right-wing politicians. Also, he mused sadly: “Children do not appreciate their grandfathers’ histories”.
+Some of these younger doctors formed non-governmental organisations, which published accounts of what their founders had learnt about Unit 731’s experiments. Why was Japan not rocked by such findings? Lim puts it down to the thick fog of negation surrounding Japan’s war crimes, including from Japan’s powerful and vociferous right-wing politicians. Also, he mused sadly: “Children do not appreciate their grandfathers’ histories.”
+
+Some Japanese do, though. On 15 February this year, Lim introduced me to Nobuyoshi Takashima, 76, professor emeritus at Ryukyu University, who has been researching the dark days of the Japanese Occupation in Singapore and Malaya for more than 40 years. As Prof Takashima speaks no English, his friend, Dr Yosuke Watanabe, 47, visiting fellow at the Center for Asia-Pacific Partnership, Osaka University of Economics and Law, acted as translator.
 
 <img style="width: 500px; height: 370px;" src="/images/Vol-14-issue-1/secret-war-experiments-in-sg/Secret6.JPG">
 <div style="background-color: white;">From left to right: Professor Nobuyoshi Takashima, Dr Yosuke Watanabe and Lim Shao Bin, holding a rare 1938 map showing Tokyo as the centre of the world. This photo was taken on 15 February 2018, during the Japanese dons’ yearly sojourn to Singapore to commemorate the Fall of Singapore on 15 February 1942. <i>Courtesy of Cheong Suk-Wai.</i></div>
 
-Some Japanese do, though. On 15 February this year, Lim introduced me to Nobuyoshi Takashima, 76, professor emeritus at Ryukyu University, who has been researching the dark days of the Japanese Occupation in Singapore and Malaya for more than 40 years. As Prof Takashima speaks no English, his friend, Dr Yosuke Watanabe, 47, visiting fellow at the Center for Asia-Pacific Partnership, Osaka University of Economics and Law, acted as translator.
-
-When I asked Prof Takashima what, as a Japanese, he would like to say to Singaporeans, he hesitated and then said: “Now is the time for making peace from humanism, not for condemning war criminals”. He hoped that the OKA 9420 stories that Lim has unearthed would spur Singaporeans to learn more about their history.
+When I asked Prof Takashima what, as a Japanese, he would like to say to Singaporeans, he hesitated and then said: “Now is the time for making peace from humanism, not for condemning war criminals.” He hoped that the OKA 9420 stories that Lim has unearthed would spur Singaporeans to learn more about their history.
 
 Prof Takashima added that his interest in Unit 731 was piqued when one of his students took him to visit the Tampoi site in the 1980s. That started him off on his quest to uncover the atrocities committed by the IJA in Southeast Asia. “The Japanese Occupation is not researched much in Japan”, he told me, explaining why, in 1983, he established his now-yearly Takashima Tours, taking a busload of his countrymen on tours of former World War II sites in Singapore and Malaysia. In the course of his travels, Prof Takashima came to know Lim, and the firm friends now meet and regularly exchange information on Unit 731 and the IJA via email.
 
@@ -113,7 +113,7 @@ In 2010, Prof Takashima wrote and published a guidebook of such sites in Malaysi
 
 Prof Takashima and his contemporaries have also taken to visiting Singapore every February to commemorate the Fall of Singapore, followed by a chicken rice dinner with Lim at Chin Chin Eating House, a well-known coffee shop on Purvis Street.
 
-What Lim cannot stomach, even more than the grisly fates of plague victims, is what he sees as Unit 731’s “lack of remorse” for any of their actions. He says of Unit 731’s surviving Japanese officers: “All these soldiers write about somebody else’s stories, not their own dirty work”.
+What Lim cannot stomach, even more than the grisly fates of plague victims, is what he sees as Unit 731’s “lack of remorse” for any of their actions. He says of Unit 731’s surviving Japanese officers: “All these soldiers write about somebody else’s stories, not their own dirty work.”
 
 <div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> 
 	<b>A GRANDSON’S RELENTLESS QUEST</b>
