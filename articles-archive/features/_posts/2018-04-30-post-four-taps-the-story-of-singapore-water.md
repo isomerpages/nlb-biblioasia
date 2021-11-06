@@ -206,8 +206,8 @@ Singapore and Malaysia have signed four water agreements regarding the supply of
 [^18]:[Singapore water supply](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19241017-1.2.89.aspx). (1924, October 17). *The Straits Times*, p. 11; Farrer, R.J. (1935, October 8). [The municipality in my time](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19351008-1.2.60.18). *The Singapore Free Press and Mercantile Advertiser*, p. 16; [$500,000 reservoir project nears completion](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19400518-1.2.38). (1940, May 18). *The Malaya Tribune*, p. 3. Retrieved from NewspaperSG.
 [^19]:[Our water scheme: Its history: Part I](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk19240326-1.2.76). (1924, March 26). *The Singapore Free Press and Mercantile Advertiser (Weekly)*, p. 10; [Water supply: Expert approves Gunong Pulai scheme](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19221012-1.2.58). (1922, October 12). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
 [^20]:[Singapore water supply: Gunong Pulai scheme finally adopted](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19231217-1.2.71). (1923, December 17). *The Straits Times*, p. 9; [Singapore water: Official report on proposed scheme](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19240104-1.2.68). (1924, January 4). *The Straits Times*, p. 9. Retrieved from NewspaperSG; [*The Singapore Free Press and Mercantile Advertiser (Weekly)*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk19240326-1.2.76), 26 Mar 1924, p. 10.
-[^21]:
-[^22]:
+[^21]:[*The Singapore Free Press and Mercantile Advertiser (Weekly)*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk19240326-1.2.103), 26 Mar 1924, p. 13; [Singapore water supply](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19270425-1.2.34). (1927, April 25). *The Singapore Free Press and Mercantile Advertiser*, p. 7; [Visit to Pontian Kechil: A sad coincidence](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19320307-1.2.43). (1932, March 7). *The Malaya Tribune*, p. 8; [Singapore water supply: Pontian reservoir completed](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19320307-1.2.62). (1932, March 7). *The Straits Times*, p. 12. Retrieved from NewspaperSG; [*The Singapore Free Press and Mercantile Advertiser (Weekly)*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk19240326-1.2.76), 26 Mar 1924, p.10.
+[^22]:[*The Straits Times*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19320307-1.2.62), 7 Mar 1932, p. 12; [*The Malaya Tribune*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19400518-1.2.38), 18 May 1940, p. 3; [Extension of town supply ahead of schedule](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19400521-1.2.43). (1940, May 21). The Singapore Free Press and Mercantile Advertiser, p. 5; [Singapore’s $5,500,000 water scheme: Pipe-Line in Johor being doubled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19390402-1.2.138). (1939, April 2). The Straits Times, p. 17. Retrieved from NewspaperSG.
 [^23]:
 [^24]:
 [^25]:
@@ -216,3 +216,13 @@ Singapore and Malaysia have signed four water agreements regarding the supply of
 [^28]:
 [^29]:
 [^30]:
+
+
+War conditions hold up taking of census. (1941, June 17). The Malaya Tribune, p. 2. Retrieved from NewspaperSG; Saw, 2012, p. 14.
+‘Save water’ call to S’pore. (1950, February 14). The Singapore Free Press, p. 6. Retrieved from NewspaperSG.
+Water famine: Hits Singapore. (1950, February 14). The Malaya Tribune, p. 2. Retrieved from NewspaperSG; The Singapore Free Press, 14 Feb 1950, p. 6.
+Tortajada, C., Joshi, Y., & Biswas, A, K. (2013). The Singapore water story: Sustainable development in an urban city-state (p. 13). New York: Routledge. (Call no.: RSING 363.61095957 TOR)
+Colony has no fear of water shortage. (1955, June 7). Singapore Standard, p. 5; The Straits Times, 3 Sep 1961, p. 1; Water supply: Council to reconsider plan. (1958, May 23). Singapore Standard, p. 4. Retrieved from NewspaperSG.
+Lee, G. (1968, April 20). Sultan opens $30m waterworks. The Straits Times, p. 11; Sultan opens $21m. project. (1965, April 3). The Straits Times, p. 15. Retrieved from NewspaperSG; Singapore Standard, 7 Jun 1955, p. 5; Chia, P. (1971, June 28). Divining water needs for the future. The Straits Times, p. 12. Retrieved from NewspaperSG.
+National Archives of Singapore, 2008, p. 39.
+Tan, Y.S. et. al. (2009). Clean, green and blue: Singapore’s journey towards environmental and water sustainability (pp. 125–126). Singapore: ISEAS Pub. (Call no.: RSING 363.70095957 TAN)
