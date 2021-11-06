@@ -237,3 +237,9 @@ Singapore and Malaysia have signed four water agreements regarding the supply of
 [^49]:Public Utilities Board. (2016). [*Our water, our future*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202777063) (p. 20). Singapore: Public Utilities Board. (Call no.: RSING 333.910095957 OUR).
 [^50]:Public Utilities Board, 2012, p. 14; [Tan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13102969), 2009, p. 135.
 [^51]:[Public Utilities Board](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202777063), 2016, p. 20.
+[^52]:Bedok reservoir first to be upgraded. (December 2005/January 2006). [Waternet](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12435710), p. 8. (Call no.: RSING q363.61095957 W); [$23m river, reservoir upgrade](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper20060530-1.2.13.1.6). (2006, May 30). The New Paper, p. 16. Retrieved from NewspaperSG.
+[^53]:
+[^54]:
+
+Koh, L. (2005, November 6). $1m makeover at Bedok Reservoir. The Straits Times, p. 8. Retrieved from NewspaperSG.
+Public Utilities Board. (2008). Explore Bedok Reservoir; Public Utilities Board. (2008). Explore MacRitchie Reservoir. Retrieved from Public Utilities Board website.
