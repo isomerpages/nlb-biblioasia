@@ -176,3 +176,11 @@ Singapore and Malaysia have signed four water agreements regarding the supply of
 	<br><br>
 	Water agreements. (2006). In T. Koh, et al. (Eds.). <i>[Singapore: The encyclopedia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12768833) (p. 585)</i>. Singapore: Editions Didier Millet; National Heritage Board. (Call no.: RSING 959.57003 SIN-[HIS])
 </span>
+
+<br>
+<div style="background-color: white;">
+<img src="/images/Vol-14-issue-1/four-taps-of-singapore-water/FourTaps10.jpg" style="width: 100px; height: 100px;">
+<b>Lim Tin Seng</b> is a Librarian with the National Library, Singapore. He is the co-editor of <i>Roots: Tracing Family Histories – A Resource Guide</i> (2013); <i>Harmony and Development: ASEAN-China Relations</i> (2009) and <i>China’s New Social Policy: Initiatives for a Harmonious Society</i> (2010). He is also a regular contributor to <i>BiblioAsia</i>.
+</div>
+
+<a href="https://biblioasia.nlb.gov.sg/vol-14/issue-1/apr-jun-2018/"><center>Back to Issue</center></a>
