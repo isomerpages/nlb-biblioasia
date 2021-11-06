@@ -7,7 +7,7 @@ layout: post
 #### **Ronnie Tan** pieces together the fascinating story of Lee Meng, the Malayan Communist Party female agent who headed its courier network for a brief period in 1952.
 
 <img style="width: 300px; height: 400px;" src="/images/Vol-14-issue-1/hunting-down-the-malayan/Hunt1.jpg">
-<div style="background-color: white;">Lee Meng, head courier of the Malayan Communist Party, being escorted to the Ipoh court complex for her retrial 10 days after she was found innocent during her first trial on 27 August 1952 (right). <i>Image source: Chin, P. (2003). My Side of History (pp. 340, 343). Singapore: Media Masters Pte Ltd. (Call no.: R SING 959.5104092 CHI)</i></div>
+<div style="background-color: white;">Lee Meng, head courier of the Malayan Communist Party, being escorted to the Ipoh court complex for her retrial 10 days after she was found innocent during her first trial on 27 August 1952. <i>Image source: Chin, P. (2003). My Side of History (p. 343). Singapore: Media Masters Pte Ltd. (Call no.: R SING 959.5104092 CHI).</i></div>
 
 On 16 June 1948, three European planters were brutally murdered by communist guerillas in the Sungei Siput area in Perak state, in what was then known as Malaya.[^1] Two days later, Britain declared a state of Emergency in Malaya, with Singapore following suit on 24 June 1948. The battle for control of Malaya and Singapore between the British and the Malayan Communist Party (MCP; also known as the Communist Party of Malaya) had begun, and it would not end until 31 July 1960.
 
