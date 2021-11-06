@@ -140,7 +140,39 @@ To overcome the limited capacity of existing reservoirs, PUB implemented the Res
 
 PUB is also making strides in water technologies by partnering overseas firms. One recent example is the trial of a new desalination method in 2015 with American company, Evoqua Water Technologies. Known as electro-deionisation, this method uses an electric field to extract dissolved salts from seawater, leaving behind fresh water. Compared with the current desalination method, electro- deionisation is significantly more efficient in terms of energy usage and cost.51
 
+<img src="/images/Vol-14-issue-1/four-taps-of-singapore-water/FourTaps8.JPG">
+<div style="background-color: white;">Conceptualised in the 1990s as a solution for Singapore’s waste water needs, the Deep Tunnel Sewerage System uses a network of deep tunnels to convey waste water by gravity to NEWater reclamation plants in Kranji, Changi and Tuas. <i>Courtesy of PUB, Singapore’s national water agency.</i></div>
+
 From the first well dug by the British in 1819 to a constant supply of clean drinking water flowing from taps, Singapore’s water journey – at times bumpy and perilous – has come a long way since the time of Raffles. Through persistence, foresight and innovation, our water pioneers have been able to overcome massive obstacles and challenges to develop and diversify Singapore’s water sources.
 
 At the current rate of 148 litres per person per day, Singapore uses more water than many other developed cities. It is crucial that Singapore continues to find innovative ways to secure and sustain a robust and affordable water supply for future generations. Water rationing and lining up in snaking queues to collect water from public standpipes is a scene from the 1960s that we should not revisit.
 
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
+	<b>ACTIVE, BEAUTIFUL, CLEAN WATERS</b>
+<br><br>
+Other than being one of the first urban water catchments, Bedok Reservoir was also one of three demonstration projects under the Active, Beautiful, Clean Waters (ABC Waters) Programme. Launched in 2006 the programme aimed to turn waterways and reservoirs into recreational sites for public use by enhancing them with amenities.52
+	<br><br>
+<img src="/images/Vol-14-issue-1/four-taps-of-singapore-water/FourTaps9.JPG">Kayakers at Bedok Reservoir, 2011. This was one of three demonstration projects under the Active, Beautiful, Clean Waters (ABC Waters) Programme launched in 2006. Reservoirs were beautified with pathways, trees and street lights, and some were even opened for recreational purposes. <i>Photo by Richard W. J. Koh.</i>
+<br><br>
+	Prior to this, the public held the view that reservoirs were out of bounds and strictly used for the collection of water. As Prime Minister Lee Hsien Loong quipped, “Our old attitude was, the water is for the reservoir, don’t go near it, keep far away, keep it clean, no canoeing, don’t walk near it, if possible, don’t even look at it”.53
+<br><br>
+However, the ABC Waters Programme became a game changer. Selected reservoirs and waterways in Singapore received extensive makeovers. Street lamps were installed, trees were planted and proper pedestrian access was provided. In some cases, even fishing decks and pontoons for boats and kayaks were added.54
+</span>
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
+<b>WATER AGREEMENTS WITH MALAYSIA</b>
+<br>
+Singapore and Malaysia have signed four water agreements regarding the supply of water from across the Causeway.
+<br><br>
+<b>5 December 1927</b>: This agreement allowed Singapore to lease 2,100 acres of land in Gunong Pulai at an annual fee of 30 sen per acre for the purpose of supplying raw water to the island. Singapore was not charged for the water.
+<br><br>
+<b>2 October 1961</b> (Tebrau and Scudai Rivers Water Agreement): Replaced the 1927 agreement and allowed Singapore to draw water from Gunong Pulai, Tebrau River and Scudai River for a period of 50 years. Singapore paid an annual rent of RM5 per acre and 3 sen for every 1,000 gallons of raw water it drew. After the agreement expired in 2011, Singapore handed over to the Johor State government the Gunong Pulai and Scudai waterworks as well as the pump houses at Pontian and Tebrau without any charges and in good working order.
+<br><br>
+<b>29 September 1962</b> (Johor River Water Agreement): This agreement is still in effect today and allows Singapore to draw 250 million gallons of water per day from the Johor River for a period of 99 years until 2061. Singapore pays rent for the land it uses “at the standard rate applicable to the use made of such lands and in particular building lots on town land”. It also pays for the water it draws at the rate of 3 sen per 1,000 gallons.
+<br><br>
+<b>24 November 1990</b>: This agreement supplements the 1962 water agreement and is still valid today. The agreement allows Singapore to purchase treated water from Johor in excess of the entitlement of 250 million gallons per day of untreated water under the 1962 agreement. Singapore bore the cost of constructing a dam across Linggiu River and maintaining it. Singapore also paid a one-time upfront payment of RM320 million as compensation for the loss of land use, a premium of RM18,000 per hectare and rentals for the remaining tenure of the agreement calculated at an annual rent of RM30 per 1,000 square feet (0.02 acre). The 1990 agreement will expire in 2061, along with the 1962 agreement.
+<br><br>
+<b>REFERENCES	</b>
+	<br><br>Government of Singapore. (2018). <i>Water</i>. Retrieved from Ministry of Foreign Affairs website.
+	<br><br>
+	Water agreements. (2006). In T. Koh, et al. (Eds.). [<i>Singapore: The encyclopedia</i>](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12768833) (p. 585). Singapore: Editions Didier Millet; National Heritage Board. (Call no.: RSING 959.57003 SIN-[HIS])
+</span>
