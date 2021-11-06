@@ -25,7 +25,7 @@ In Malay, the islands continue to share a nomenclatural link: Lazarus Island is 
 
 Gone too are names that one Captain George Thomas assigned to nearby islands in the late 1700s.[^11] Hoping perhaps to expand the Biblical theme, he marked Pulau Tekukor (north of St John’s Island) as “Luke” and the Sisters’ Islands as “Mark” and “Matthew”. These names, however, failed to stick and only St John’s survived in later charts.
 
-<img style="width: 350px; height: 400px;" src="/images/Vol-14-issue-1/st-johns-island/StJohn3.JPG">
+<img style="width: 450px; height: 500px;" src="/images/Vol-14-issue-1/st-johns-island/StJohn3.JPG">
 <div style="background-color: white;">Detail of a 1924 map showing St John’s and other  adjacent islands. <i>Survey Department Collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **Gateway to Singapore**
