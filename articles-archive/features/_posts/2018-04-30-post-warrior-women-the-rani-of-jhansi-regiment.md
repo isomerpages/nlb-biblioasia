@@ -20,7 +20,7 @@ The Indian women who joined the Indian National Army (INA) in 1942, as the event
 
 In trying to make sense of the historical meaning and importance of the Rani of Jhansi Regiment while researching my novel, Sacred Waters, I found a general scarcity of material about the women who made up this regiment. In contrast, there is a large collection of material available for those researching the male segment of the INA.
 
-<img src="/images/Vol-14-issue-1/warrior-women/Warrior3.JPG">
+<img style="width: 600px; height: 380px;" src="/images/Vol-14-issue-1/warrior-women/Warrior3.JPG">
 <div style="background-color: white;">Subhas Chandra Bose, with Captain (Dr) Lakshmi Sahgal, inspecting the guard of honour presented by the Rani of Jhansi Regiment during the opening of the Rani of Jhansi camp at Waterloo Street, Singapore, on 22 October 1943. <i>Courtesy of Netaji Research Bureau.</i></div>
 
 The remarkable story of these brave women deserves to be better known. But it is impossible to write about the Rani of Jhansi Regiment without mentioning the force they were part of, the INA, and its inextricable ties to the charismatic Indian freedom fighter, Subhas Chandra Bose.
