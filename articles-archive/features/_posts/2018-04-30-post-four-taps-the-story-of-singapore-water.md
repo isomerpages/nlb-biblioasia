@@ -85,3 +85,62 @@ In 1950, the Municipal Council had commissioned a study to investigate the avail
 <img src="/images/Vol-14-issue-1/four-taps-of-singapore-water/FourTaps5.JPG">
 <div style="background-color: white;">(Left) Then Prime Minister Lee Kuan Yew visiting the Sultan Ismail Waterworks construction site at Scudai River in May 1964. Completed in 1965, the waterwoks provided Singapore with another 30 million gallons of water each day. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i><br>
 (Right) A 2001 poster by the Public Utilities Board exhorting people to save water. <i>PUB Collection, courtesy of National Archives of Singapore.</i></div>
+
+After Singapore gained independence in 1965, one of the first post-independence water projects carried out by the PUB was the enlargement of Seletar Reservoir in April 1967. Upon its completion in February 1969, the S$27-million project increased the reservoir’s capacity by more than 30-fold.32
+
+In 1972, PUB embarked on the construction of a new S$55-million reservoir located upstream of Lower Peirce Reservoir. Upper Peirce Reservoir was completed in 1975 and officially opened in February 1977 with a water storage capacity seven times that of Lower Peirce Reservoir.33 
+
+#### **Unprotected Catchments**
+
+MacRitchie, Upper Peirce and Lower Peirce reservoirs are located in the Central Catchment Nature Reserve. As it is not possible to build new reservoirs within this gazetted nature reserve, the PUB has had to look elsewhere for water. In 1972, the agency released the first Water Master Plan, which charted the long-term development of water resources in Singapore.34
+
+One innovative method adopted by PUB was the creation of a string of unprotected catchments across the island. Unlike protected reservoirs, such catchments are located in urban areas, yielding water that is of lower quality and with higher organic matter. To improve water quality, a number of measures were taken, such as using stronger disinfectants, improving filtration methods, enforcing stricter anti-pollution controls, implementing a more efficient waste management system, and launching the Keep Singapore Clean campaign.35
+
+<img src="/images/Vol-14-issue-1/four-taps-of-singapore-water/FourTaps6.JPG">
+<div style="background-color: white;">Built across Marina Channel, Marina Barrage created Singapore’s 15th reservoir, the first located in the city. The barrage serves three purposes: it stores water, alleviates flooding and supports recreational activities. <i>Courtesy of PUB, Singapore’s national water agency.</i></div>
+
+The Kranji and Pandan reservoirs were the first two estuarine reservoirs built in unprotected catchment areas in 1975. The S$75-million Kranji-Pandan water scheme was formed by damming the Kranji and Pandan rivers. The two reservoirs served mainly the north-western part of Singapore, including Jurong Industrial Estate and housing estates in the area.36
+
+In 1981, dykes were built across the mouths of the Murai, Poyan, Sarimbun and Tengah rivers to transform them into reservoirs under the Western Catchment Scheme. These reservoirs supply water to the western part of the island, including Queenstown, Bukit Merah, Telok Blangah, Pasir Panjang and Alexandra.37
+
+In 1983, PUB initiated the Sungei Seletar-Bedok Water project to meet the increasing demand for fresh water in the eastern part of Singapore. Unlike the earlier two estuarine reservoir schemes, the main water source for this urbanised catchment was storm water run-off. Storm water collected from nine ponds in Bedok, Tampines and Yan Kit was channelled to Bedok Reservoir, which was created from a former sand quarry.
+
+A second reservoir, Sungei Seletar Reservoir (renamed Lower Seletar Reservoir in 1992), was formed by damming Seletar River. The river water was also used to fill Bedok Reservoir (see text box overleaf).38
+
+<img src="/images/Vol-14-issue-1/four-taps-of-singapore-water/FourTaps7.JPG">
+<div style="background-color: white;">Waste water is treated at the Ulu Pandan NEWater Plant, which opened in 2007. Reclaimed water is today one of Singapore’s Four National Taps. <i>Photo by Richard W.J. Koh.</i></div>
+
+Marina Reservoir, located in the heart of the city, is another urban reservoir. It officially opened in 2008 and was created by building a dam – Marina Barrage – across Marina Channel. Envisioned by Singapore’s first Prime Minister Lee Kuan Yew in 1987, the barrage is unique in the sense that it stores water, alleviates flooding and supports recreational activities. The flood control function is enabled by a mechanism that serves as a tidal barrier to prevent rising waters from advancing inland and flooding low-lying areas. The barrage also keeps the reservoir’s water level constant, making it suitable for water activities such as sailing, windsurfing and canoeing.39 
+
+#### **NEWater and Desalinated Water**
+
+Another recommendation of the 1972 Water Master Plan was the use of reclaimed water, in other words, water that has been purified to a high degree. This was, however, not an entirely new concept. Industrial water was first introduced in 1966 with the construction of Jurong Industrial Water Works by the Economic Development Board to supply non-potable water for industries. The objective was to help conserve potable water by reclaiming the effluent from Ulu Pandan Water Reclamation Plant.40
+
+In 1974, Singapore’s Sewerage Department opened an experimental plant in Jurong that attempted to produce potable reclaimed water by using advanced membrane technologies, including reverse osmosis, to purify waste water. However, the plant was decommissioned a year later as the purification technologies available then were unreliable and expensive.41
+
+It would take another 25 years before technological advances made it possible for PUB to revisit the idea of producing potable reclaimed water. The Singapore Water Reclamation Study (NEWater Study) conducted in 1998 revealed that water reclamation was a growing trend globally and that membrane-based purification technologies had become more reliable and cost efficient. This led to the opening of the prototype NEWater demonstration plant at Bedok Water Reclamation Plant in 2000.42
+
+A comprehensive study of NEWater was carried out between 2000 and 2002. Although the study concluded that NEWater was safe for potable use, it recommended blending NEWater with raw reservoir water and then subjecting the resulting mix to the same water treatment process as raw reservoir water. This would re-introduce trace minerals removed during the production of NEWater and make the idea of consuming treated and purified waste water more palatable to the public.43
+
+Following the successful conclusion of the NEWater study, PUB’s Bedok NEWater Plant came into operation in 2002, marking the launch of NEWater as the Third National Tap.44 Since then, NEWater plants have been built in Kranji (2003), Seletar (2004 but decommissioned in 2011), Ulu Pandan (2007) and Changi (2010 and 2017).45 These plants are expected to meet up to 55 percent of Singapore’s future water needs by 2060.46
+
+The 1972 Water Master Plan also recommended tapping seawater as another source of water supply. However, minerals and salts have to be removed from seawater first in a process known as desalination. Unfortunately, as the desalination technology available at the time was energy intensive and costly, the PUB decided not to adopt this method. As more energy efficient water purification methods, particularly reverse osmosis, became available in the 1990s, PUB began to relook the idea of desalinating seawater.
+
+In 2005, desalinated water officially became the Fourth National Tap with the opening of the first desalination plant in Tuas. Hyflux’s wholly owned subsidiary, SingSpring Pte Ltd, won a bid with to construct a desalination plant under PUB’s Design, Build, Own and Operate (DBOO) model. This plant, which has a daily capacity of up to 30 million gallons, supplies PUB with desalinated water over a 20-year period.
+
+In 2013, Hyflux won a second bid to construct the second desalination plant under the DBOO model to supply PUB with desalinated water over a 25-year period.47 By 2020, Singapore is expected to commission three more desalination plants in Tuas, Marina East and Jurong Island.48 By 2060, Singapore’s total water demand could almost double, with the non-domestic sector accounting for about 70 percent. By then, NEWater and desalination would meet up to 85 percent of Singapore’s future water needs. 
+
+#### **Other Water Strategies**
+
+Conceptualised in the 1990s as a solution for Singapore’s used water needs, Phase 1 of the Deep Tunnel Sewerage System (DTSS) comprises a 48 km-long deep sewer tunnel running from Kranji to Changi, a centralised water reclamation plant at Changi, two deep sea outfall pipes and 60 km of link sewers.
+
+The heart of DTSS Phase 1, the Changi Water Reclamation Plant, is capable of treating 900,000 cubic metres (202 million gallons) of used water per day. The used water is treated to meet international standards before it is channelled to a NEWater factory for further purification or discharged into sea. At a NEWater plant, the treated used water goes through a rigorous 3-step treatment process to produce high-grade reclaimed water.49 Projected to complete by 2025, DTSS Phase 2 can collect used water from the western and southern parts of Singapore for treatment at the proposed Tuas Water Reclamation Plant.
+
+To overcome the limited capacity of existing reservoirs, PUB implemented the Reservoir Integration Scheme in 2007. This scheme uses a system of pipelines and pumps to connect reservoirs so that excess water can be transferred from one reservoir to another, thereby optimising their capacity.50 In 2011, the total number of reservoirs in Singapore increased to 17 when two more were created when dykes were built across the mouth of Punggol and Serangoon rivers.
+
+PUB is also making strides in water technologies by partnering overseas firms. One recent example is the trial of a new desalination method in 2015 with American company, Evoqua Water Technologies. Known as electro-deionisation, this method uses an electric field to extract dissolved salts from seawater, leaving behind fresh water. Compared with the current desalination method, electro- deionisation is significantly more efficient in terms of energy usage and cost.51
+
+From the first well dug by the British in 1819 to a constant supply of clean drinking water flowing from taps, Singapore’s water journey – at times bumpy and perilous – has come a long way since the time of Raffles. Through persistence, foresight and innovation, our water pioneers have been able to overcome massive obstacles and challenges to develop and diversify Singapore’s water sources.
+
+At the current rate of 148 litres per person per day, Singapore uses more water than many other developed cities. It is crucial that Singapore continues to find innovative ways to secure and sustain a robust and affordable water supply for future generations. Water rationing and lining up in snaking queues to collect water from public standpipes is a scene from the 1960s that we should not revisit.
+
