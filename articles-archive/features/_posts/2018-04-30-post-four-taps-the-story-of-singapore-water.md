@@ -233,18 +233,7 @@ Singapore and Malaysia have signed four water agreements regarding the supply of
 [^45]:Tang, W.F. (2004, June 19). [Third Newater plant on stream as water sector opens up](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes20040619-1.2.19.2). *The Business Times*, p. 8. Retrieved from NewspaperSG; Public Utilities Board. (2012). *Annual report 2010/2011* (p. 15). Retrieved from Public Utilities Board website; Lee, U-W. (2007, March 16). [Let’s drink to another Newater success: PM](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20070316-2.2.5.2). *Today*, p. 3. Retrieved from NewspaperSG; Public Utilities Board. (2017, January 18). *Singapore’s fifth NEWater plant opens*. Retrieved from Public Utilities Board website; Boh, S. (2017, January 19). [$170m fifth Newater plant launched](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20170119-1.2.42.6). *The Straits Times*, p. 3. Retrieved from NewspaperSG.
 [^46]:Public Utilities Board. (2017, September 21). *NEWater*. Retrieved from Public Utilities Board website.
 [^47]:Ong, M.A. (2005). [*Towards environmental sustainability: State of the environment 2005 report*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12540795) (p. 21). Singapore: Ministry of the Environment and Water Resources. (Call no.: RSING 363.72095957 ONG); Public Utilities Board. (2017, October 3). *Desalinated water*. Retrieved from Public Utilities Board website.
-[^48]:Chua, G. (2013, September 18). Another milestone as second desalination plant opens. The Straits Times, pp. 2–3. Retrieved from NewspaperSG; Public Utilities Board, 3 Oct 2017.
-[^49]:
-[^50]:
-[^51]:
-
-
-
-
-
-
-
-
-Public Utilities Board. (2016). Our water, our future (p. 20). Singapore: Public Utilities Board. (Call no.: RSING 333.910095957 OUR)
-Public Utilities Board, 2012, p. 14; Tan, 2009, p. 135.
-Public Utilities Board, 2016, p. 20.
+[^48]:Chua, G. (2013, September 18). [Another milestone as second desalination plant opens](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20130919-1.2.6.2). *The Straits Times*, pp. 2–3. Retrieved from NewspaperSG; Public Utilities Board, 3 Oct 2017.
+[^49]:Public Utilities Board. (2016). [*Our water, our future*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202777063) (p. 20). Singapore: Public Utilities Board. (Call no.: RSING 333.910095957 OUR).
+[^50]:Public Utilities Board, 2012, p. 14; [Tan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13102969), 2009, p. 135.
+[^51]:[Public Utilities Board](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202777063), 2016, p. 20.
