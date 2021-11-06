@@ -195,4 +195,25 @@ Singapore and Malaysia have signed four water agreements regarding the supply of
 [^7]:[Makepeace, Brooke & Braddell](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6203718), 1991, p. 326; Yeoh, B.S.A. (2003). [*Contesting space in colonial Singapore: Power relations and the urban built environment*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827061) (pp. 177–178). Singapore: Singapore University Press. (Call no.: RSING 307.76095957 YEO).
 [^8]:Saw S.H. (2012). [*The population of Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14383911) (p. 9). Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 304.6095957 SAW); [Makepeace, Brooke & Braddell](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6203718), 1991, p. 327.
 [^9]:Ng, P.K.L., Corlett, R.T., & Tan, H.T.W. (Eds.). (2011). [*Singapore biodiversity: An encyclopedia of the natural environment and sustainable development*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14100943) (p. 59). Singapore: Editions Didier Millet. (Call no.: RSING 333.95095957 SIN); [Yeoh](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827061), 2003, p. 178; [National Archives of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12981512), 2008, p. 38.
-[^10]:[Ng, Corlett & Tan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14100943), 2011, p. 59; Yeoh, 2003, p. 178.
+[^10]:[Ng, Corlett & Tan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14100943), 2011, p. 59; [Yeoh](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827061), 2003, p. 178.
+[^11]:[Makepeace, Brooke & Braddell](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6203718), 1991, p.327.
+[^12]:[Our water supply](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk19120328-1.2.78). (1912, March 28). The Singapore Free Press and Mercantile Advertiser (Weekly), p. 14. Retrieved from NewspaperSG; [Ng, Corlett & Tan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14100943), 2011, p. 59; Yeoh, 2003, p. 179.
+[^13]:
+[^14]:
+[^15]:
+[^17]:
+[^18]:
+[^19]:
+[^20]:
+[^21]:
+[^22]:
+
+
+Yeoh, 2003, p. 179; The Singapore Free Press and Mercantile Advertiser (Weekly), 28 Mar 1912, p. 14.
+Yeoh, 2003, p. 179; Official scheme. (1902, December 8). The Straits Times, p. 5; Singapore water supply. (1912, March 20). The Singapore Free Press and Mercantile Advertiser, p. 12. Retrieved from NewspaperSG.
+The Singapore Free Press and Mercantile Advertiser, 20 Mar 1912, p. 12; Colonial government. (1911). Administration report of the Singapore Municipality for the year (p. 23). Singapore: Fraser & Neave. (Call no.: RRARE 352.05951 SIN; Microfilm no.: NL3408); Singapore. Public Utilities Board. (1985). Yesterday & today: The story of public electricity, water and gas supplies in Singapore (p. 13). Singapore: Times Books International. (Call no.: RSING 363.6095957 YES); Our water supply in 1906. (1907, July 20). Eastern Daily Mail and Straits Morning Advertiser, p. 2; Our water supply. (1912, March 27). The Singapore Free Press and Mercantile Advertiser, p. 12; Campbell, B. (1972, December 5). Coping with the ever increasing demand for water. The Straits Times, p. 14. Retrieved from NewspaperSG.
+The municipality in 1919. (1920, August 27). The Singapore Free Press and Mercantile Advertiser, p. 7; Singapore’s water supply. (1922, November 3). The Malaya Tribune, p. 6. Retrieved from NewspaperSg.
+Yeoh, 2003, p. 179; The water supply. (1907, November 19). The Straits Times, p. 7. Retrieved from NewspaperSG.
+Singapore water supply. (1924, October 17). The Straits Times, p. 11; Farrer, R.J. (1935, October 8). The municipality in my time. The Singapore Free Press and Mercantile Advertiser, p. 16; $500,000 reservoir project nears completion. (1940, May 18). The Malaya Tribune, p. 3. Retrieved from NewspaperSG.
+Our water scheme: Its history: Part I. (1924, March 26). The Singapore Free Press and Mercantile Advertiser (Weekly), p. 10; Water supply: Expert approves Gunong Pulai scheme. (1922, October 12). The Straits Times, p. 9. Retrieved from NewspaperSG.
+ Singapore water supply: Gunong Pulai scheme finally adopted. (1923, December 17). The Straits Times, p. 9; Singapore water: Official report on proposed scheme. (1924, January 4). The Straits Times, p. 9. Retrieved from NewspaperSG; The Singapore Free Press and Mercantile Advertiser (Weekly), 26 Mar 1924, p. 10.
