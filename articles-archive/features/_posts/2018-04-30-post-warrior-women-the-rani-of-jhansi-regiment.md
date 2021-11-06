@@ -29,7 +29,7 @@ The remarkable story of these brave women deserves to be better known. But it is
 
 The name of Subhas Chandra Bose is little heard today, but in his own time Bose was a hero to many in India. He was a controversial and divisive figure, inspiring aversion in his opponents and adulation in his followers. Both Mahatma Gandhi (1869–1948) and Bose (1897–1945) were legendary sons of India, fighters for freedom from colonial rule, and active during the same time frame. Yet, the means by which each man sought to achieve India’s freedom could not have been more different.
 
-<img src="/images/Vol-14-issue-1/warrior-women/Warrior4.JPG">
+<img style="width: 350px; height: 450px;" src="/images/Vol-14-issue-1/warrior-women/Warrior4.JPG">
 <div style="background-color: white;">Subhas Chandra Bose (1897–1945) was a freedom fighter who fought for the liberation of India from British rule. He commanded the Indian National Army in Singapore and created the Rani of Jhansi Regiment. <i>Nirvan Thivy Collection, courtesy of National Archives of Singapore.</i></div>
 
 Bose was 28 years younger than Gandhi, and was initially greatly influenced by the writings and ideals of the older man. However, a growing admiration for militant European fascism caused Bose’s views to take a radical turn. He grew critical of Gandhi with his symbolically rustic spinning wheel and call for non-violent civil disobedience, feeling that such passivity would never achieve independence for India. Bose believed freedom could only be gained by violent means, through an invasion of the country from outside. “Give me your blood, and I will give you freedom” was his famous battle cry.
@@ -46,7 +46,7 @@ Bose arrived in Singapore on 2 July 1943 to an enthusiastic welcome from the Ind
 
 Bose was from Bengal, a state that more than any other in India encouraged the education and emancipation of women. It was this principle that led him to create a regiment of women in the INA. The new regiment was formed on 12 July 1943 and Bose named it after the legendary Rani of Jhansi, who famously rode into battle against the British in 1858, and died a martyr to the Indian cause.
 
-<img src="/images/Vol-14-issue-1/warrior-women/Warrior5.JPG">
+<img style="width: 350px; height: 450px;" src="/images/Vol-14-issue-1/warrior-women/Warrior5.JPG">
 <div style="background-color: white;">Subhas Chandra Bose arriving in Singapore on 2 July 1943. <i>Nirvan Thivy Collection, courtesy of National Archives of Singapore.</i></div>
 
 Reported numbers vary, but it is thought that the Rani of Jhansi Regiment consisted of well over 1,000 Indian women, spread out over camps in Singapore, Malaya and Burma (Myanmar). It is estimated that only 20 percent of the recruits were well educated women, who became the commanding officers. The remaining 80 percent were the wives and daughters of Tamil labourers who worked on the rubber estates of Malaya, and who would have been either illiterate, or have had no more than a few years of basic education.
@@ -71,7 +71,7 @@ Even so, it is astounding that Indian women, some so young as to be barely out o
 
 Under Bose’s leadership, Indian women from Singapore, Burma and Malaya, of varied caste, religion and social backgrounds, were recruited into the Rani of Jhansi Regiment to fight for India’s freedom. In caste- and class-ridden India where Hindu will not eat with Muslim, where the superior Brahmin will not mix with the low-caste labourer, where a northerner cannot speak the language of a southerner, and where the untouchable is anathema to all, the fostering of a sense of oneness was a difficult task.
 
-<img src="/images/Vol-14-issue-1/warrior-women/Warrior6.JPG">
+<img style="width: 600px; height: 370px;" src="/images/Vol-14-issue-1/warrior-women/Warrior6.JPG">
 <div style="background-color: white;">Subhas Chandra Bose announcing the formation of the Provisional Government of Free India, or Azad Hind, at a rally at Cathay Building, Singapore, in October 1943. He established Azad Hind to ally with the Axis powers and free India from British rule. <i>Nirvan Thivy Collection, courtesy of National Archives of Singapore.</i></div>
 	
 Bose ordered all recruits to eat and live together whatever their differences. As they came from different parts of India and spoke different languages, they were required to learn the common language of Hindustani as a means of communication. Bose also introduced the Roman script for writing Hindustani in order to overcome the conflict of using multiple regional Indian scripts.
@@ -133,7 +133,7 @@ Fiercely independent, Sahgal left an unhappy marriage to follow a lover, who was
 <br><br>
 When Bose announced his wish to create the Rani of Jhansi Regiment, Sahgal was quickly drawn into the organising of this new force. At Bose’s request she took up its command, establishing a camp and recruiting young women to the force. Sahgal became known as Captain Lakshmi, a name and identity that would remain with her for life.
 <br><br>
-<img src="/images/Vol-14-issue-1/warrior-women/Warrior8.JPG">Dr Lakshmi Sahgal took up command of the Rani of Jhansi Regiment and became known as Captain Lakshmi, a name and identity that would remain with her for life. <i>Image source: IASPaper.net.</i>
+<img style="width: 350px; height: 430px;" src="/images/Vol-14-issue-1/warrior-women/Warrior8.JPG">Dr Lakshmi Sahgal took up command of the Rani of Jhansi Regiment and became known as Captain Lakshmi, a name and identity that would remain with her for life. <i>Image source: IASPaper.net.</i>
 <br><br>
 In Singapore, in October 1943, Bose formed the Provisional Government of Free India, or as it was more simply known, Azad Hind, and Sahgal was included in his cabinet. Later, in Burma, she established more camps and organised relief work. When the war ended in 1945, Sahgal was taken prisoner by guerrilla fighters, and made to march through the jungle for days. In 1946, she was handed over to the British in Rangoon, and subsequently repatriated to India and released.
 <br><br>
@@ -143,7 +143,7 @@ In her later years, Sahgal joined the Communist Party of India (Marxist) and was
 </div>
 
 <div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> 
-<img style="width: 300px; height: 400px;" src="/images/Vol-14-issue-1/warrior-women/Warrior9.JPG"><br><br>Meira Chand’s new novel, <i>Sacred Waters</i> (2017), is published by Marshall Cavendish Editions and retails for S$21.50 at major bookshops. It is also available for reference and loan at the Lee Kong Chian Reference Library and selected public libraries (Call nos.: RSING 823.914 CHA and SING CHA).
+<img style="width: 220px; height: 300px;" src="/images/Vol-14-issue-1/warrior-women/Warrior9.JPG"><br><br>Meira Chand’s new novel, <i>Sacred Waters</i> (2017), is published by Marshall Cavendish Editions and retails for S$21.50 at major bookshops. It is also available for reference and loan at the Lee Kong Chian Reference Library and selected public libraries (Call nos.: RSING 823.914 CHA and SING CHA).
 </div>
 <br>
 <div style="background-color: white;">
