@@ -72,4 +72,24 @@ Even so, it is astounding that Indian women, some so young as to be barely out o
 Under Bose’s leadership, Indian women from Singapore, Burma and Malaya, of varied caste, religion and social backgrounds, were recruited into the Rani of Jhansi Regiment to fight for India’s freedom. In caste- and class-ridden India where Hindu will not eat with Muslim, where the superior Brahmin will not mix with the low-caste labourer, where a northerner cannot speak the language of a southerner, and where the untouchable is anathema to all, the fostering of a sense of oneness was a difficult task.
 
 <img src="/images/Vol-14-issue-1/warrior-women/Warrior6.JPG">
-<div style="background-color: white;">Subhas Chandra Bose announcing the formation of the Provisional Government of Free India, or Azad Hind, at a rally at Cathay Building, Singapore, in October 1943. He established Azad Hind to ally with the Axis powers and free India from British rule. <i>Nirvan Thivy Collection, courtesy of National Archives of Singapore.</div>
+<div style="background-color: white;">Subhas Chandra Bose announcing the formation of the Provisional Government of Free India, or Azad Hind, at a rally at Cathay Building, Singapore, in October 1943. He established Azad Hind to ally with the Axis powers and free India from British rule. <i>Nirvan Thivy Collection, courtesy of National Archives of Singapore.</i></div>
+	
+Bose ordered all recruits to eat and live together whatever their differences. As they came from different parts of India and spoke different languages, they were required to learn the common language of Hindustani as a means of communication. Bose also introduced the Roman script for writing Hindustani in order to overcome the conflict of using multiple regional Indian scripts.
+
+Those Ranis whose testimony has been recorded all bear witness to how quickly feelings of differences fell by the wayside, and how the tight knit bonds of being a community of women motivated by a powerful cause overrode everything else. This sense of community forged alliances and collaborations across diverse boundaries, firing up everyone with the commitment of female comradeship and the commonality of shared experiences.
+
+#### **The Making of Women Warriors**
+	
+The women in the Rani of Jhansi Regiment received the same basic military training as male INA recruits. For many, the early experiences of military life would have been a difficult rite of passage. When the women first joined the regiment, the unshackling of traditional ways could not have been easy, especially for uneducated girls from the plantations.
+
+The discarding of conventional feminine reticence, ingrained through centuries of Indian custom, and the learning of military aggression was akin to building a new personality. The wearing of military uniforms – shorts, jodhpurs, fitted shirts and belts that cinched the waist – revealed the body in an unaccustomed way that may have been shameful for some of the girls.
+
+A fighting force, ready for war, has no time for vanity, and the shedding of their long tresses, a source of pride for all Indian women, must have also been painful to many. Yet, most of the women quickly adapted to the empowerment their new life brought, and the demand for growth it made on their character. In their new role they were soldiers first before they were women.
+
+Although for educated recruits, the Rani of Jhansi Regiment presented an opportunity to assert their identity as women and as Indians, for the illiterate it was above all a chance to gain self-respect for the first time, to escape the abuse and contempt they experienced on a daily basis on the plantations. For many, this change of status had an enormous psychological effect. In her memoir, A Revolutionary Life (1997),4 Lakshmi Sahgal (see text box), a doctor in Singapore who rose to command the Rani of Jhansi Regiment, points out that while on the plantations the women were treated like cattle and sexually exploited, in the Rani of Jhansi Regiment they found dignity as individuals and pride in fighting for the nation.
+
+For better or for worse, the Rani of Jhansi Regiment was never sent to the frontlines. After their military training, many recruits opted to become nurses and work in hospitals near war zones in Burma, but a large number of women remained as active reservists, always waiting – and expecting – to be sent to the front.
+
+<img src="/images/Vol-14-issue-1/warrior-women/Warrior7.JPG">
+<div style="background-color: white;">(Left) Women volunteering to join the Rani of Jhansi Regiment, 1943. <i>Image source: Lebra, J. C. (2008). Women Against the Raj: The Rani of Jhansi Regiment. Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 954.035 LEB).</i><br>
+(Right) Soldiers of the Rani of Jhansi Regiment undergoing training, c.1943–45. <i>Image source: Bose, S.K., & Sinha, B.N. (Eds). (1979). Netaji: A Pictorial Biography (p. 176). Calcutta: Ananda Publishers Pte Ltd. (Call no.: R 954.0350924 NET)</i></div>
