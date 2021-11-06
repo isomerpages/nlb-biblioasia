@@ -67,7 +67,7 @@ In urgent need of more water, the Municipal Council – renamed the City Council
 
 Completed in 1953, the Tebrau waterworks alleviated the water situation in Singapore by adding at least 20 million gallons of water to the colony’s daily supply. This brought the daily total supply to at least 56 million gallons, surpassing the daily consumption of 52 million gallons. Initially, the City Council wanted to expand the Tebrau waterworks, but the winding down of the Communist-related Emergency from the late 1950s allowed the Johor River scheme to be revived in 1958 and finalised in 1961.[^27]
 
-<img src="/images/Vol-14-issue-1/four-taps-of-singapore-water/FourTaps4.JPG">
+<img style="width: 400px; height: 350px;" src="/images/Vol-14-issue-1/four-taps-of-singapore-water/FourTaps4.JPG">
 <div style="background-color: white;">In an age when people had to collect water from standpipes, public education was vital in water conservation. <i>Courtesy of PUB, Singapore’s national water agency.</i></div>
 
 When the new waterworks at Johor River began operations in 1968, at least 30 million gallons of water were delivered daily to Singapore. While the authorities were planning the Johor River scheme, they also built another waterworks at Scudai River in 1965.
