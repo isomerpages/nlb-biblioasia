@@ -125,7 +125,7 @@ The bustling city seethes beyond St John’s seawalls, always looming but still 
 <br>
 <div style="background-color: white;">
 <img src="/images/Vol-14-issue-1/st-johns-island/StJohn8.jpg" style="width: 100px; height: 100px;">
-<b>Marcus Ng</b> is a freelance writer, editor and curator interested in biodiversity, ethnobiology and the intersection between natural and human histories. His work includes the book <i>Habitats in Harmony: The Story of Semakau Landfill</i> (2009 and 2012), and two exhibitions at the National Museum of Singapore: <i>Balik Pulau: Stories from Singapore’s Islands</i> and <i>Danger and Desire</i>.
+<b>Marcus Ng</b> is a freelance writer, editor and curator interested in biodiversity, ethnobiology and the intersection between natural and human histories. His work includes the book <i>Habitats in Harmony: The Story of Semakau Landfill</i> (2009 and 2012), and two exhibitions at the National Museum of Singapore: “Balik Pulau: Stories from Singapore’s Islands” and “Danger and Desire”.
 </div>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-14/issue-1/apr-jun-2018/"><center>Back to Issue</center></a>
