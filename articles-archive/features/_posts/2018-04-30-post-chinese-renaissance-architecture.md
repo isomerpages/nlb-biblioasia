@@ -21,10 +21,6 @@ Perhaps the best known of these architects was Lu Yanzhi (1894–1929), a gradua
 
 Given the historical background of this period, the Chinese Renaissance, as an architectural movement, can be seen as part of a wider call for renewal and revitalisation of Chinese society and culture taking place at the time. This came on the back of more than half a century of foreign interference in China’s affairs, following the disastrous Opium Wars of the mid-19th century that ceded Hong Kong to Britain and established treaty ports in China.
 
-<img src="/images/Vol-14-issue-1/chinese-renaissance-architect/Renaissance2.JPG">
-<div style="background-color: white;">(Left) Interment of Sun Yat Sen, 1 June 1929. His mausoleum, which was designed by Chinese architect Lu Yanzhi, is situated at the foot of the second peak of Mount Zijin in Nanjing, China. <i>Image source: Wikimedia Commons.</i><br>
-(Right) St Joseph’s Cathedral in Guiyang, China, erected by Catholic missionaries, mid-1870s. It represents one of the earliest examples of an East-West architectural pairing in China. <i>Courtesy of Julian Davison.</i></div>
-
 #### **The Christian Influence**
 
 But if the term Chinese Renaissance perfectly captures the spirit of those times and the ambitions of the young architects who sought, quite literally, to build a new China, the origins of the movement can be traced back to the architecture of Christian missions stations a quarter of a century earlier.
@@ -35,6 +31,10 @@ Although the intent of the mainly American Christian architects who designed the
 <div style="background-color: white;">Singapore has its share of buildings in the Chinese Renaissance style, mostly dating from the post-war era. These include (from the left): Nanyang University Library and Administration Building, <i>Wong Kwan Collection, courtesy of National Archives of Singapore; Singapore Chinese Chamber of Commerce, courtesy of Julian Davison; and C. K. Tang department store, Chiang Ker Chiu Collection, courtesy of National Archives of Singapore.</i></div>
 
 One of the earliest examples of an East-West architectural pairing in China is a remarkable structure – a church  with a belfry in the form of a Chinese pagoda – erected by Catholic missionaries in Guiyang, southwest China, in the mid-1870s. Named St Joseph’s Cathedral, it is, perhaps, no more than a case of cultural appropriation – making do with the materials available at the time – than a purposeful attempt to create a new architectural style that took the design aesthetics of the West and infused them with an Eastern sensibility.
+
+<img src="/images/Vol-14-issue-1/chinese-renaissance-architect/Renaissance2.JPG">
+<div style="background-color: white;">(Left) Interment of Sun Yat Sen, 1 June 1929. His mausoleum, which was designed by Chinese architect Lu Yanzhi, is situated at the foot of the second peak of Mount Zijin in Nanjing, China. <i>Image source: Wikimedia Commons.</i><br>
+(Right) St Joseph’s Cathedral in Guiyang, China, erected by Catholic missionaries, mid-1870s. It represents one of the earliest examples of an East-West architectural pairing in China. <i>Courtesy of Julian Davison.</i></div>
 
 By the turn of the century, however, Christian missionaries in China were acknowledging the fact that churches built in an overtly European style – Gothic was the architecture of choice back then – could seem alienating and even intimidating to their Chinese audience.  And not only churches, but also schools, hospitals, orphanages and other buildings associated with the typical mission station in China in the late 19th century.
 
