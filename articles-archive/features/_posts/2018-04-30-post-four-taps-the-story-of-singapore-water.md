@@ -204,17 +204,5 @@ Singapore and Malaysia have signed four water agreements regarding the supply of
 [^16]:[The municipality in 1919](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19200827-1.2.29). (1920, August 27). *The Singapore Free Press and Mercantile Advertiser*, p. 7; [Singapore’s water supply](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19221103-1.2.35). (1922, November 3). *The Malaya Tribun*e, p. 6. Retrieved from NewspaperSg.
 [^17]:[Yeoh](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827061), 2003, p. 179; [The water supply](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19071119-1.2.65.aspx). (1907, November 19). *The Straits Times*, p. 7. Retrieved from NewspaperSG.
 [^18]:[Singapore water supply](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19241017-1.2.89.aspx). (1924, October 17). *The Straits Times*, p. 11; Farrer, R.J. (1935, October 8). [The municipality in my time](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19351008-1.2.60.18). *The Singapore Free Press and Mercantile Advertiser*, p. 16; [$500,000 reservoir project nears completion](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19400518-1.2.38). (1940, May 18). *The Malaya Tribune*, p. 3. Retrieved from NewspaperSG.
-[^19]:[Our water scheme: Its history: Part I](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk19240326-1.2.76). (1924, March 26). The Singapore Free Press and Mercantile Advertiser (Weekly), p. 10; [Water supply: Expert approves Gunong Pulai scheme](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19221012-1.2.58). (1922, October 12). The Straits Times, p. 9. Retrieved from NewspaperSG.
-[^20]:
-[^21]:
-
-
-
-
-
-
-
-
-
-
- Singapore water supply: Gunong Pulai scheme finally adopted. (1923, December 17). The Straits Times, p. 9; Singapore water: Official report on proposed scheme. (1924, January 4). The Straits Times, p. 9. Retrieved from NewspaperSG; The Singapore Free Press and Mercantile Advertiser (Weekly), 26 Mar 1924, p. 10.
+[^19]:[Our water scheme: Its history: Part I](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk19240326-1.2.76). (1924, March 26). *The Singapore Free Press and Mercantile Advertiser (Weekly)*, p. 10; [Water supply: Expert approves Gunong Pulai scheme](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19221012-1.2.58). (1922, October 12). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
+[^20]:[Singapore water supply: Gunong Pulai scheme finally adopted](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19231217-1.2.71). (1923, December 17). The Straits Times, p. 9; [Singapore water: Official report on proposed scheme](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19240104-1.2.68). (1924, January 4). The Straits Times, p. 9. Retrieved from NewspaperSG; The Singapore Free Press and Mercantile Advertiser (Weekly), 26 Mar 1924, p. 10.
