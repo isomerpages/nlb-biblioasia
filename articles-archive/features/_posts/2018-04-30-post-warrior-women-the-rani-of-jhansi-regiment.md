@@ -141,3 +141,7 @@ In 1947, Sahgal married Prem Kumar Sahgal, a former officer who left the British
 <br><br>
 In her later years, Sahgal joined the Communist Party of India (Marxist) and was a founding member of the All India Democratic Women’s Association. She passed away on 23 July 2012, at age 97.
 </div>
+
+<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> 
+<img style="width: 300px; height: 400px;" src="/images/Vol-14-issue-1/warrior-women/Warrior9.JPG"><br><br>Meira Chand’s new novel, <i>Sacred Waters</i> (2017), is published by Marshall Cavendish Editions and retails for S$21.50 at major bookshops. It is also available for reference and loan at the Lee Kong Chian Reference Library and selected public libraries (Call nos.: RSING 823.914 CHA and SING CHA)
+</div>
