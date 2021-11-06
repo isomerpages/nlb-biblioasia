@@ -204,7 +204,7 @@ Van Tonder, G. (2017). [*Malayan emergency: Triumph of the running dogs*](http:/
 [^17]:[Barber](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=839401), 1971, p. 170.
 [^18]:[Barber](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=839401), 1971, p. 170. Such an elaborate plan was warranted: when the crates were being loaded onto a UK-bound ship in Penang the following day, a dock labourer, likely a communist, approached the lorry driver to ask if his vehicle had indeed suffered a tyre puncture along Batu Road in Kuala Lumpur the previous day.
 [^19]:[Comber](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13055676), 2008, p. 230.
-[^20]:[‘I am not the bandit boss Lee Meng’, says woman, 24](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19520829-1.2.100). (1952, August 29). The Straits Times. p. 7. Retrieved from NewspaperSG.
+[^20]:[‘I am not the bandit boss Lee Meng’, says woman, 24](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19520829-1.2.100). (1952, August 29). *The Straits Times*. p. 7. Retrieved from NewspaperSG.
 [^21]:After Lee Meng was handpicked to head the courier network, Chin Peng told her to acquire an old Chinese desk. It had a false drawer where she could conceal messages meant to be transmitted along the courier network.
 [^22]:[Comber](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13055676), 2008, p. 231.
 [^23]:[Lee Meng decision on Monday?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19530307-1.2.16) (1953, March 7). *Singapore Standard*, p. 7. Retrieved from NewspaperSG.
