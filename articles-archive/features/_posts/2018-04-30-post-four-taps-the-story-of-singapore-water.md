@@ -221,9 +221,8 @@ Singapore and Malaysia have signed four water agreements regarding the supply of
 [^33]:Singapore. Public Utilities Board. (1977). [*Souvenir brochure to commemorate the official opening of the Upper Peirce Reservoir*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4402912) (Introduction). Singapore: The Board. (Call no.: RCLOS 628.13095957 PUB); [Mr Lee to open S’pore’s largest impounding reservoir](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19770227-1.2.80.aspx). (1977, February 27). *The Straits Times*, p. 18. Retrieved from NewspaperSG.
 [^34]:[Tan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13102969), 2009, pp. 128–129
 [^35]:[Tan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13102969), 2009, p. 131.
-[^36]:[‘Yes’ for Kranji-Pandan reservoir project](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720309-1.2.18.3). (1972, March 9). The Straits Times, p. 4; [$132m water supply projects to be ready this year](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19750209-1.2.35). (1975, February 9). The Straits Times, p. 6. Retrieved from NewspaperSG.
-Water from western catchment for these areas. (1982, May 5). The Straits Times, p. 10. Retrieved from NewspaperSG.
-[^37]:
+[^36]:[‘Yes’ for Kranji-Pandan reservoir project](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720309-1.2.18.3). (1972, March 9). *The Straits Times*, p. 4; [$132m water supply projects to be ready this year](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19750209-1.2.35). (1975, February 9). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
+[^37]:[Water from western catchment for these areas](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820505-1.2.70). (1982, May 5). *The Straits Times*, p. 10. Retrieved from NewspaperSG.
 [^38]:
 [^39]:
 [^40]:
