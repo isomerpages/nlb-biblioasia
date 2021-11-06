@@ -44,7 +44,7 @@ On the other side of the ideological divide was Detective-Inspector Irene Lee, w
 Lee was highly regarded by her peers in Singapore’s Special Branch as a competent and experienced officer. She was not only a highly skilled markswoman but also “a brilliant lock-picker, an expert with a mini-camera, an accomplished thief (in the course of her duty)” and endowed with a “delicious sense of humour”, according to the British journalist and author Noel Barber.[^13]
 
 <img style="width: 560px; height: 370px;" src="/images/Vol-14-issue-1/hunting-down-the-malayan/Hunt3.JPG">
-<div style="background-color: white;">Irene Lee (first row, second from left), the Malayan Special Branch officer who played a key role in Lee Meng’s arrest. Photo was taken around 1955 with six other women police officers, who formed the first batch of women inspectors in the Malayan Police Force. <i>Image source: Selamat bin Sainayune. (2007). Polis Wanita: Sejarah Bergambar 1955–2007 (p. 82). Petaling Jaya: Kelana Publications Sdn Bhd. (Call no.: R 363.208209595 SEL)</i></div>
+<div style="background-color: white;">Irene Lee (first row, second from left), the Malayan Special Branch officer who played a key role in Lee Meng’s arrest. Photo was taken around 1955 with six other women police officers, who formed the first batch of women inspectors in the Malayan Police Force. <i>Image source: Selamat bin Sainayune. (2007). Polis Wanita: Sejarah Bergambar 1955–2007 (p. 82). Petaling Jaya: Kelana Publications Sdn Bhd. (Call no.: R 363.208209595 SEL).</i></div>
 
 #### **The Hunt for Lee Meng**
 
@@ -97,7 +97,7 @@ Two blocks away from the FMS Bar in Ipoh, the communist courier trail which bega
 Special Branch officers kept the house under 24-hour surveillance. At 8 pm on 24 July 1952, a raid was carried out. Irene Lee’s knock on the door was answered by her nemesis, Lee Meng. Stunned by this stranger at the door, Lee Meng and her friend Cheow Yin, who was also in the house at the time, were caught unawares and unarmed, and quickly apprehended.
 
 <img style="width: 450px; height: 300px;" src="/images/Vol-14-issue-1/hunting-down-the-malayan/Hunt6.JPG">
-<div style="background-color: white;">A communist guerrilla surrenders to security forces at a rubber plantation during the Malayan Emergency (1948–60). Image source: Barber, N. (1971). <i>The War of the Running Dogs: How Malaya Defeated the Communist Guerrillas, 1948–60 (p. 216). London: Collins. (Call no.: R CLOS 959.5 BAR-[JSB]).</i></div>
+<div style="background-color: white;">A communist guerrilla surrenders to security forces at a rubber plantation during the Malayan Emergency (1948–60). <i>Image source: Barber, N. (1971). The War of the Running Dogs: How Malaya Defeated the Communist Guerrillas, 1948–60 (p. 216). London: Collins. (Call no.: R CLOS 959.5 BAR-[JSB]).</i></div>
 
 The noose around Lee Meng tightened further when she slipped up in her attempt to produce her identity card. Issued in Ipoh in 1949, the card did not bear her name but that of another person by the name of Wong Nyuk Yin.[^20] Lee Meng claimed that she had been in Ipoh for just over two years and was living in Singapore prior to that. However, Irene Lee caught on to her lie: it was impossible for Lee Meng to be in Singapore in 1949 and yet receive “her” identity card in Ipoh at the same time.
 
