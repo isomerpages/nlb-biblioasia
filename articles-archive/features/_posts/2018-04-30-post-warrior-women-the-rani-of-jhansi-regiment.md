@@ -164,14 +164,14 @@ Lebra, J.C. (2008). [*The Indian National Army and Japan*](http://eservice.nlb.g
 [^3]:Pillai, S., & Subramaniam, G. (2009). Through the coils of memory and ethnicity: The Malaysian Indian journey to nationhood. *European Journal of Social Sciences, 7* (3), 133–148, p. 139. (Not available in NLB holdings)
 [^4]:Sahgal, L. (1997). *A revolutionary life: Memoirs of an activist*. New Delhi: Kali for Women. (Not available in NLB holdings)
 [^5]:Hills, C., & Silverman, D.C. (October, 1993). Nationalism and feminism in late colonial India: The Rani of Jhansi Regiment, 1943–1945. *Modern Asian Studies, 27* (4), 741–760, p. 748. Cambridge University Press. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
-[^6]:
-[^7]:
+[^6]:[Lebra](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13055778), 2008, p. 101.
+[^7]:Gawankar, R. (2003). *The women’s regiment and Capt. Lakshmi of INA: An untold episode of NRI women’s contribution to Indian freedom struggle* (pp. 263–264). New Delhi: Devika Publications. (Not available in NLB holdings)
 [^8]:
 
 
 
 
 
-Lebra, 2008, p. 101.
-Gawankar, R. (2003). The women’s regiment and Capt. Lakshmi of INA: An untold episode of NRI women’s contribution to Indian freedom struggle (pp. 263–264). New Delhi: Devika Publications. (Not available in NLB holdings)
+
+
 Sahgal, 1997, p. xxix.
