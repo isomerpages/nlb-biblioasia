@@ -106,7 +106,7 @@ Meanwhile, before any transformation into island paradise could take place, St J
 
 Since 1976, St John’s Island has become entrenched in the memories of a new generation of Singaporeans: as a site for offshore school camps, holiday bungalows, wet and wild weekends at its swimming lagoons protected by walls of rock. It is also fondly known as “cat island” to some, in reference to the abandoned felines that now outnumber children in the corridors of a former primary school established in the 1950s for families of staff residing on the island.[^42]
 
-<img style="width: 300px; height: 400px;" src="/images/Vol-14-issue-1/st-johns-island/StJohn7.JPG">
+<img style="width: 500px; height: 400px;" src="/images/Vol-14-issue-1/st-johns-island/StJohn7.JPG">
 <div style="background-color: white;">Scores of cats now dwell at the former school premises on St John’s Island. Photo taken by Marcus Ng on 2 September 2014. <i>Courtesy of Marcus Ng.</i></div>
 
 Echoes of the past returned in 1999, when fences and barbed wire lined parts of St John’s Island as the authorities braced for a wave of illegal migrants fleeing political turmoil in Indonesia.[^43] Thankfully, the storm abated but the fences still stand, perhaps as a precautionary measure.
