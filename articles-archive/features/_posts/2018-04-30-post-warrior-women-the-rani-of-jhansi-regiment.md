@@ -53,7 +53,7 @@ Reported numbers vary, but it is thought that the Rani of Jhansi Regiment consis
 
 Before large and enthusiastic rallies on the Padang and at Farrer Park, Bose set out his vision for India, and his wish that the Indian women of Singapore, Malaya and Burma – like their contemporaries in the Indian motherland – participate in the freedom movement too.
 
- “This must be a truly revolutionary army… I am appealing also to women… women must be prepared to fight for their freedom and for independence… along with independence they will get their own emancipation”.1
+ “This must be a truly revolutionary army… I am appealing also to women… women must be prepared to fight for their freedom and for independence… along with independence they will get their own emancipation”.[^1]
 
 Bose’s inspiring words caused women listening to him on the Padang to surge forward through police barricades, eager to fight as he demanded, for India and their own emancipation.
 
@@ -61,9 +61,9 @@ At the time in India, the struggle for independence from British rule, more than
 
 The wave of Indian nationalism sweeping through the Indian diaspora at this time cannot be underestimated. On the British-owned rubber plantations of Malaya, where Tamil workers lived a degraded life set apart from other communities, they would have been well aware of the growing anti-colonial sentiments of the time. Tamil newspapers and radio carried news from India, and pictures of Gandhi hung in many places.
 
-At the very bottom of the plantation hierarchy, Tamil workers lived in poverty and exploitation, but this separateness allowed their Indian identity to remain intact. Even if cut off from India for two or three generations, they still spoke their native tongue and wore Indian dress in everyday life. At Hindu temples in the rubber estates, they celebrated religious festivals and practices. Hindu myth and folklore was handed down from one generation to the next, and their sense of Tamil identity remained strong.2
+At the very bottom of the plantation hierarchy, Tamil workers lived in poverty and exploitation, but this separateness allowed their Indian identity to remain intact. Even if cut off from India for two or three generations, they still spoke their native tongue and wore Indian dress in everyday life. At Hindu temples in the rubber estates, they celebrated religious festivals and practices. Hindu myth and folklore was handed down from one generation to the next, and their sense of Tamil identity remained strong.[^2]
 
-Stripped of their self-worth in Malaya, the motherland became a consoling image for these displaced Tamils, an India of the imagination, created out of an ancestral memory that was constantly kept alive.3 Seen through this lens – the insularity of the Tamil community and its powerful ties to India and Indian heritage – it is easier to understand why second and third generation Indians in Malaya, who had never lived in India, were stirred by the nationalistic feelings of the time, and willingly laid down their lives for the patriotic cause.
+Stripped of their self-worth in Malaya, the motherland became a consoling image for these displaced Tamils, an India of the imagination, created out of an ancestral memory that was constantly kept alive.[^3] Seen through this lens – the insularity of the Tamil community and its powerful ties to India and Indian heritage – it is easier to understand why second and third generation Indians in Malaya, who had never lived in India, were stirred by the nationalistic feelings of the time, and willingly laid down their lives for the patriotic cause.
 
 The women who volunteered to join the newly formed Rani of Jhansi Regiment were all exceptionally young, the majority in their mid- to late teens, a few are even documented as being no more than 12 or 14 years old. Most were of an impressionable age, filled with burgeoning emotions, desires and romantic dreams. In the turmoil of war, the women regiment may also have been seen by some as a safe haven where food, shelter and safety from marauding Japanese soldiers was provided.
 
@@ -86,7 +86,7 @@ The discarding of conventional feminine reticence, ingrained through centuries o
 
 A fighting force, ready for war, has no time for vanity, and the shedding of their long tresses, a source of pride for all Indian women, must have also been painful to many. Yet, most of the women quickly adapted to the empowerment their new life brought, and the demand for growth it made on their character. In their new role they were soldiers first before they were women.
 
-Although for educated recruits, the Rani of Jhansi Regiment presented an opportunity to assert their identity as women and as Indians, for the illiterate it was above all a chance to gain self-respect for the first time, to escape the abuse and contempt they experienced on a daily basis on the plantations. For many, this change of status had an enormous psychological effect. In her memoir, A Revolutionary Life (1997),4 Lakshmi Sahgal (see text box), a doctor in Singapore who rose to command the Rani of Jhansi Regiment, points out that while on the plantations the women were treated like cattle and sexually exploited, in the Rani of Jhansi Regiment they found dignity as individuals and pride in fighting for the nation.
+Although for educated recruits, the Rani of Jhansi Regiment presented an opportunity to assert their identity as women and as Indians, for the illiterate it was above all a chance to gain self-respect for the first time, to escape the abuse and contempt they experienced on a daily basis on the plantations. For many, this change of status had an enormous psychological effect. In her memoir, A Revolutionary Life (1997),[^4] Lakshmi Sahgal (see text box), a doctor in Singapore who rose to command the Rani of Jhansi Regiment, points out that while on the plantations the women were treated like cattle and sexually exploited, in the Rani of Jhansi Regiment they found dignity as individuals and pride in fighting for the nation.
 
 For better or for worse, the Rani of Jhansi Regiment was never sent to the frontlines. After their military training, many recruits opted to become nurses and work in hospitals near war zones in Burma, but a large number of women remained as active reservists, always waiting – and expecting – to be sent to the front.
 
@@ -98,7 +98,7 @@ Soon after World War II ended, a diary was published in India asserting that som
 
 Those ageing Ranis I interviewed for my novel, so many decades after the war, still spoke of Subhas Chandra Bose with intense emotion. Indeed, the influence of Bose’s personal charisma pervades almost everything that has been written about him. Perhaps it is permissible therefore to speculate that many of the Ranis, along with the motivation of patriotism in joining the regiment, may have found in Bose the romantic ideal that traditional Indian society – along with arranged marriage and female repression – denied them.
 
-No tales of impropriety have ever come to light in Bose’s leadership of these young women; he was known to be a dedicated, caring and paternalistic leader. In the minds of the Ranis, they were *his* Ranis, and Bose spoke of them as *my* girls. Bose himself openly acknowledged the “grave responsibility” of persuading young women to leave their homes and take up arms.5
+No tales of impropriety have ever come to light in Bose’s leadership of these young women; he was known to be a dedicated, caring and paternalistic leader. In the minds of the Ranis, they were *his* Ranis, and Bose spoke of them as *my* girls. Bose himself openly acknowledged the “grave responsibility” of persuading young women to leave their homes and take up arms.[^5]
 
 #### **The End of World War II**
 
@@ -110,11 +110,11 @@ At the end of the war when the INA was dissolved, most of the women were still v
 
 Many educated women from the officer class of the Rani of Jhansi Regiment later entered professional careers, and much of what we know about the regiment today is largely because of this group of women and the more public nature of their activities. Unfortunately, the majority of women in the rank-and-file regiment returned to the same disempowered situations they had left behind when they first signed up; they married and raised families, and became cloistered again in traditional social structures.
 
-Still others were repatriated to India, a country unfamiliar to them, and died there in poverty and obscurity. Some ex-officers of the Jhansi Regiment worked to secure pensions from the Indian government for these women, but often to no avail.6 Illiteracy prevented many women from being aware of their elevated status as freedom fighters, or that pensions could be extracted from the Indian government because of their status. Their low social position, and lack of knowledge and education made it easy for the Indian government to refuse such pension payouts.7
+Still others were repatriated to India, a country unfamiliar to them, and died there in poverty and obscurity. Some ex-officers of the Jhansi Regiment worked to secure pensions from the Indian government for these women, but often to no avail.[^6] Illiteracy prevented many women from being aware of their elevated status as freedom fighters, or that pensions could be extracted from the Indian government because of their status. Their low social position, and lack of knowledge and education made it easy for the Indian government to refuse such pension payouts.[^7]
 
 Yet, without exception, those Ranis I interviewed or those whose recorded testimonies I have read or listened to, all remember their service in the regiment – whatever the dangers and privations they endured – as the best time of their lives.
 
-It is sad that the endeavours of these brave women have been largely forgotten by history. In her introduction to Lakshmi Sahgal’s memoir, *A Revolutionary Life*, Geraldine Forbes suggests it is easy to reject their enterprise because they never saw action, were never real “female warriors” fighting alongside their men, nor “true women” fighting to death to save their children. Most male-authored accounts of the INA seldom give due reference to the role played by the women in the Rani of Jhansi Regiment. Forbes laments that so many decades after the war when many historians are committed to a more inclusive view of events, this lack of acknowledgement is regrettable.8
+It is sad that the endeavours of these brave women have been largely forgotten by history. In her introduction to Lakshmi Sahgal’s memoir, *A Revolutionary Life*, Geraldine Forbes suggests it is easy to reject their enterprise because they never saw action, were never real “female warriors” fighting alongside their men, nor “true women” fighting to death to save their children. Most male-authored accounts of the INA seldom give due reference to the role played by the women in the Rani of Jhansi Regiment. Forbes laments that so many decades after the war when many historians are committed to a more inclusive view of events, this lack of acknowledgement is regrettable.[^8]
 
 The Rani of Jhansi Regiment comprised a relatively small number of women, and they were operative for only the last two years of the war, between 1943 and1945, when Bose commanded the INA. It matters not that this female regiment played a minor role in both the INA and the events of World War II. It matters not that this force of women was small and did not see action at the frontlines. That such a force should have been established at all in that day and age in history is in itself of tremendous importance.
 
@@ -166,12 +166,4 @@ Lebra, J.C. (2008). [*The Indian National Army and Japan*](http://eservice.nlb.g
 [^5]:Hills, C., & Silverman, D.C. (October, 1993). Nationalism and feminism in late colonial India: The Rani of Jhansi Regiment, 1943–1945. *Modern Asian Studies, 27* (4), 741–760, p. 748. Cambridge University Press. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
 [^6]:[Lebra](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13055778), 2008, p. 101.
 [^7]:Gawankar, R. (2003). *The women’s regiment and Capt. Lakshmi of INA: An untold episode of NRI women’s contribution to Indian freedom struggle* (pp. 263–264). New Delhi: Devika Publications. (Not available in NLB holdings)
-[^8]:
-
-
-
-
-
-
-
-Sahgal, 1997, p. xxix.
+[^8]:Sahgal, 1997, p. xxix.
