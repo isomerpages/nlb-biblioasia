@@ -13,10 +13,6 @@ It’s well known that Stamford Raffles landed by the banks of the Singapore Riv
 
 Early modern Singapore was a by-product of geographical serendipity coupled with commercial desperation. Raffles’ mission was driven by the British quest for a regional port that could rival Dutch-controlled Melaka. Raffles also knew that the island enjoyed regional pedigree as “the site of the ancient maritime capital of the Malays”.[^3] Beyond that, Singapore was largely terra incognita to Europeans.[^4]
 
-<img src="/images/Vol-14-issue-1/st-johns-island/StJohn2.JPG">
-<div style="background-color: white;">(Left) Scene at St John’s Island, showing newly arrived migrants at the quarantine centre waiting for the ferry to take them to the mainland Singapore, c.1908. <i>Courtesty of National Archives of Singapore.</i><br>
-(Right) The living reefs of St John’s Island. In the distant background is the skyline of mainland Singapore. <i>Photo taken by Ria Tan on 31 August 2004. Courtesy of WildSingapore.</i></div>
-
 #### **Siquijan to Sekijang**
 
 The islands that clustered along Singapore’s southern coastline, however, were already longstanding landmarks to sailors plying the waters between the Straits of Melaka and the South China Sea.
@@ -118,6 +114,9 @@ Echoes of the past returned in 1999, when fences and barbed wire lined parts of 
 In the interim, the two St John’s Islands were conjoined by a causeway. Further plans for a “canal-laced marine village with recreational and mooring facilities and waterfront housing” failed to materialise as the business climate changed.[^44] Singaporeans, sparked perhaps by the preservation of Chek Jawa on Pulau Ubin, also began to see their islands less as “underutilised” spaces than as treasures of national and natural heritage.
 
 New landmarks emerged in the 2000s: a Marine Aquaculture Centre where seabass are bred, and Singapore’s only offshore Marine Laboratory where researchers investigate diverse facets of marine science, ranging from giant clams to coral ecology and anti-fouling solutions for the shipping industry. Another milestone occurred in 2014 when St John’s western shore was designated part of the Sisters’ Islands Marine Park.[^45]
+
+<img style="width: 450px; height: 290px;" src="/images/Vol-14-issue-1/st-johns-island/StJohn2.JPG">
+<div style="background-color: white;">The living reefs of St John’s Island. In the distant background is the skyline of mainland Singapore. <i>Photo taken by Ria Tan on 31 August 2004. Courtesy of WildSingapore.</i></div>
 
 A signboard at the end of the jetty invites visitors to explore the Marine Park’s Public Gallery on the island’s southern peak. The path from the jetty runs through compounds of barbed wire and beckons towards a row of low houses, home to the island’s last residents.[^46] Turn left and the trail winds past old bungalows, lush mangroves where fiddler crabs frolic at low tide, and patches of coastal forest. On the other side of the island are the former quarantine quarters turned campsites, which overlook beaches that still attract sizeable crowds on weekends.
 
