@@ -174,5 +174,5 @@ Singapore and Malaysia have signed four water agreements regarding the supply of
 <b>REFERENCES	</b>
 	<br><br>Government of Singapore. (2018). <i>Water</i>. Retrieved from Ministry of Foreign Affairs website.
 	<br><br>
-	Water agreements. (2006). In T. Koh, et al. (Eds.). [<i>Singapore: The encyclopedia</i>](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12768833) (p. 585). Singapore: Editions Didier Millet; National Heritage Board. (Call no.: RSING 959.57003 SIN-[HIS])
+	Water agreements. (2006). In T. Koh, et al. (Eds.). <i>[Singapore: The encyclopedia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12768833) (p. 585)</i>. Singapore: Editions Didier Millet; National Heritage Board. (Call no.: RSING 959.57003 SIN-[HIS])
 </span>
