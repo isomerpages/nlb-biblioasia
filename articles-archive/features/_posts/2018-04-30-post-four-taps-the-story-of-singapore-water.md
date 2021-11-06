@@ -51,7 +51,7 @@ While the two reservoirs provided enough water in the first decade of the 1900s,
 
 Peirce warned that the water situation would end in “disaster” unless “large and bold measures [were] taken to improve the water supply without delay”. The Municipal Council’s initial solution was to construct a third reservoir at Seletar (renamed Upper Seletar Reservoir in 1992), which was envisaged to have a capacity of 700 million gallons.17 But the project was subsequently scaled down to a smaller reservoir that supplied only 2 million gallons of water a day in favour of something far more ambitious – the Johor water scheme.18 
 
-Water from Across the Border
+#### **Water from Across the Border**
 
 The Municipal Council had explored the idea of importing water from Johor from as early as 1904 after Peirce predicted that Singapore would continue to face chronic water shortages even if it were to develop all its potential water resources on the island. Over the next decades, Scudai River, Linggiu River (a tributary of Johor River) and Pelapah River in the state of Johor were identified as potential water sources for Singapore (see text box below).19
 
@@ -66,3 +66,22 @@ The continued rise in population – from 570,000 in 1940 to nearly a million in
 In urgent need of more water, the Municipal Council – renamed the City Council in 1951 – looked for a new water source in Johor and decided on Tebrau River.26
 
 Completed in 1953, the Tebrau waterworks alleviated the water situation in Singapore by adding at least 20 million gallons of water to the colony’s daily supply. This brought the daily total supply to at least 56 million gallons, surpassing the daily consumption of 52 million gallons. Initially, the City Council wanted to expand the Tebrau waterworks, but the winding down of the Communist-related Emergency from the late 1950s allowed the Johor River scheme to be revived in 1958 and finalised in 1961.27
+
+<img src="/images/Vol-14-issue-1/four-taps-of-singapore-water/FourTaps4.JPG">
+<div style="background-color: white;">In an age when people had to collect water from standpipes, public education was vital in water conservation. <i>Courtesy of PUB, Singapore’s national water agency.</i></div>
+
+When the new waterworks at Johor River began operations in 1968, at least 30 million gallons of water were delivered daily to Singapore. While the authorities were planning the Johor River scheme, they also built another waterworks at Scudai River in 1965.
+
+Known as Sultan Ismail Waterworks, it provided Singapore with another 30 million gallons of water each day. The additional water supply from the Johor River and Scudai schemes was timely for Singapore as the island’s daily water consumption had more than doubled by this time, from 52 million gallons in 1955 to 110 million in 1970. This was largely due to a population boom in the 1960s as well as the growth of the shipping, services and industrial sectors.28
+
+#### **Securing Domestic Water Resources**
+
+Although the water supply from Johor helped to relieve the water crisis in the 1950s and 60s, the government had already recognised its heavy dependence on Johor for water. This was evident during the Malayan Campaign when the water supply from Johor was abruptly cut in January 1942 after the British, in a bid to slow down the advancing Japanese forces, blew up the Causeway and with it the main water pipe system from Gunong Pulai.29
+
+In 1963 when both the Johor River and Scudai schemes were still under construction, coupled with the prolonged dry weather, Singapore’s water supply fell to critically low levels, thereby forcing the PUB – formed in 1963 to take over the utilities departments from the City Council – to impose a 10-month-long water rationing exercise between April 1963 and February 1964.30
+
+In 1950, the Municipal Council had commissioned a study to investigate the availability of new water sources in Singapore. Led by the engineering firm Sir Bruce White, Wolfe Barry and Partners, the consultants recommended three methods of drawing water from the rivers: either damming or transferring the water to a larger central reservoir, tapping on groundwater in the eastern part of the island, and constructing wells and harvesting rainwater. However, in light of the revival of the Johor River scheme, the City Council did not implement the recommendations except to create a groundwater system in Bedok in 1959. Costing M$2 million, the project was a disappointment as it yielded less than one million gallons of water a day instead of the expected 5 to 10 million gallons.31
+
+<img src="/images/Vol-14-issue-1/four-taps-of-singapore-water/FourTaps5.JPG">
+<div style="background-color: white;">(Left) Then Prime Minister Lee Kuan Yew visiting the Sultan Ismail Waterworks construction site at Scudai River in May 1964. Completed in 1965, the waterwoks provided Singapore with another 30 million gallons of water each day. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i><br>
+(Right) A 2001 poster by the Public Utilities Board exhorting people to save water. <i>PUB Collection, courtesy of National Archives of Singapore.</i></div>
