@@ -213,16 +213,6 @@ Singapore and Malaysia have signed four water agreements regarding the supply of
 [^25]:[Water famine: Hits Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19500214-1.2.40). (1950, February 14). *The Malaya Tribune*, p. 2. Retrieved from NewspaperSG; [*The Singapore Free Press*](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19500214-1.2.97), 14 Feb 1950, p. 6.
 [^26]:Tortajada, C., Joshi, Y., & Biswas, A, K. (2013). [*The Singapore water story: Sustainable development in an urban city-state*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14716461) (p. 13). New York: Routledge. (Call no.: RSING 363.61095957 TOR).
 [^27]:[Colony has no fear of water shortage](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19550607-1.2.59). (1955, June 7). *Singapore Standard*, p. 5; [*The Straits Times*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19610903-1.2.10), 3 Sep 1961, p. 1; [Water supply: Council to reconsider plan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19580523-1.2.44). (1958, May 23). *Singapore Standard*, p. 4. Retrieved from NewspaperSG.
-[^28]:Lee, G. (1968, April 20). [Sultan opens $30m waterworks](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19680420-1.2.78.1). *The Straits Times*, p. 11; [Sultan opens $21m. project](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19650403-1.2.129). (1965, April 3). The Straits Times, p. 15. Retrieved from NewspaperSG; [Singapore Standard](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19550607-1.2.59), 7 Jun 1955, p. 5; Chia, P. (1971, June 28). Divining water needs for the future. The Straits Times, p. 12. Retrieved from NewspaperSG.
-[^29]:
-[^30]:
-
-
-
-
-
-
-
-
-National Archives of Singapore, 2008, p. 39.
-Tan, Y.S. et. al. (2009). Clean, green and blue: Singapore’s journey towards environmental and water sustainability (pp. 125–126). Singapore: ISEAS Pub. (Call no.: RSING 363.70095957 TAN)
+[^28]:Lee, G. (1968, April 20). [Sultan opens $30m waterworks](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19680420-1.2.78.1). *The Straits Times*, p. 11; [Sultan opens $21m. project](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19650403-1.2.129). (1965, April 3). *The Straits Times*, p. 15. Retrieved from NewspaperSG; [*Singapore Standard*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19550607-1.2.59), 7 Jun 1955, p. 5; Chia, P. (1971, June 28). [Divining water needs for the future](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710628-1.2.65). *The Straits Times*, p. 12. Retrieved from NewspaperSG.
+[^29]:[National Archives of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12981512), 2008, p. 39.
+[^30]:Tan, Y.S. et. al. (2009). [Clean, green and blue: Singapore’s journey towards environmental and water sustainability](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13102969) (pp. 125–126). Singapore: ISEAS Pub. (Call no.: RSING 363.70095957 TAN)
