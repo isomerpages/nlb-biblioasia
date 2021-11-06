@@ -35,7 +35,7 @@ One of the earliest examples of an East-West architectural pairing in China is a
 
 By the turn of the century, however, Christian missionaries in China were acknowledging the fact that churches built in an overtly European style – Gothic was the architecture of choice back then – could seem alienating and even intimidating to their Chinese audience.  And not only churches, but also schools, hospitals, orphanages and other buildings associated with the typical mission station in China in the late 19th century.
 
-Jeffrey Cody, a leading historian in the field of Christian missionary architecture in China, writes: “As they [the missionaries] sought to educate, proselytize and convert Chinese, they tried to strike a culturally harmonious chord with their buildings”.[^2]
+Jeffrey Cody, a leading historian in the field of Christian missionary architecture in China, writes: “As they [the missionaries] sought to educate, proselytize and convert Chinese, they tried to strike a culturally harmonious chord with their buildings.”[^2]
 
 One of the first missions to adopt this approach was the Canadian Methodist Mission in Chengdu, China, which  started adding Chinese-style roofs to its West China Union University campus buildings from around 1910 onwards. As a Foreign Missions Report from 1914 explained, five years of deliberations had “resulted in the adoption of an Orientalized Occidental type of architecture. The buildings… express the harmony and spirit of unity that pervades the entire institution and the purpose to unite in one the East and West”.[^3]
 
@@ -118,8 +118,6 @@ Other “traditional” Chinese features include the canopy roofs over the windo
 
 The upturned corners, which are every Westerner’s idea of what a Chinese roof should look like, are perhaps the least successful aspect of the edifices – and smacking of Chinese tokenism – but the composition of the window  mullions and transoms is convincing, as they are derived from traditional Chinese latticework patterns, albeit greatly simplified here.
 
-<img src="/images/Vol-14-issue-1/chinese-renaissance-architect/Renaissance10.JPG">
-
 #### **Chinese Art Deco**
 
 There are several other Chinese-inflected  buildings dating from the 1920s, notably Eu Court (1925), Great Southern Hotel (1927) and Theatre of Heavenly Shows, today’s Majestic Theatre (1928). All three were commissioned by Eu Tong Sen and designed by Swan & Maclaren, but they are more Art Deco  in character, albeit with Chinese flourishes – a kind of Shanghai chic that was all the rage back then.
@@ -156,6 +154,8 @@ In 1926, the famous Ee Hoe Hean Club, otherwise known as the “Millionaires’ 
 <img style="width: 400px; height: 470px;" src="/images/Vol-14-issue-1/chinese-renaissance-architect/Renaissance13.JPG">The architectural plan showing the front elevation of the Ee Hoe Hean Club to be erected on Bukit Pasoh Road, 1927. The original plans were for a Chinese Renaissance-style building but in the end, club members opted for a more contemporary look, which is the building we see today. <i>Building Control Division Collection, courtesy of National Archives of Singapore.</i>
 <br><br>
 The original plans were for a Chinese Renaissance-style building, and one cannot help but draw the conclusion that members of the building committee were influenced  by Eu Tong Sen’s apartments at the foot of Club Street – the original Ee Hoe Hean Club (established 1895) was at 28 Club Street at the time, a stone’s throw from the apartments. Although Swan & Maclaren’s original building plans were beautifully  executed, in the end club members decided to go for a more contemporary  look, which is the building we see today on Bukit Pasoh Road. The club is still around today; the membership remains exclusively male and by invitation only.	
+<br><br>
+<img src="/images/Vol-14-issue-1/chinese-renaissance-architect/Renaissance10.JPG">
 </div>
 
 <br>
