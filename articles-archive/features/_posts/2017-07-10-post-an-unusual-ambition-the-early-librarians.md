@@ -148,7 +148,7 @@ Both Padma’s catalogue and Kate’s *The Jungle Omnibus* are available on micr
 
 [^18]:“Progress”. (1931, May 20). [Girls’ Corner](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19310520-1.2.3). *The Malaya Tribune*, p. 2. Retrieved from NewspaperSG.
 
-[^19]:Raffles Library and Museum, 1924, p, 10.
+[^19]:[Raffles Library and Museum](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4394247), 1924, p, 10.
 
 [^20]:[Raffles Library may be made more useful to community](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19400522-1.2.15). (1940, May 22). *The Malaya Tribune*, p. 2 Retrieved from NewspaperSG.
 
