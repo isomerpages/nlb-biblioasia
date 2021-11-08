@@ -40,7 +40,7 @@ The tropical diversity and overpowering greenery[^23] fuelled the promise of agr
 
 The energy of the European character... would turn the tables, as it were, upon Nature – pierce her solitudes, hev down her forests, and render those incalculable powers of the Earth, which hitherto run to waste, subservient to the purposes of human life.
 
-<div style="text-align:right;">–Captain Charles Bethune, from an 1840 China expedition[^26]</div>
+<span style="text-align:right;">–Captain Charles Bethune, from an 1840 China expedition[^26]</span>
 
 #### **The Tamed Jujnlge of Untapped Spoils and Curious Races...**
 
@@ -48,13 +48,13 @@ The Western travellers’ senses frequently turned to the natives of Singapore. 
 
 The city is ablaze with color and motley with costume.. Every Oriental costume from the Levant to China floats through the streets–robes of silk, satin, brocade, and white muslin,...Parsees in spotless white, Jews and Arabs in dark rich silks; Klings in Turkey red and white; Bombay merchants in great white turbans...Malays in red sarongs, Sikhs in pure white Madras muslin...; and Chinamen of all classes, from the coolie in his blue or brown cotton, to the wealthy merchant in his frothy silk crepe and rich brocade...
 
-<div style="text-align:right;">–Isabella Bird, author of <i>The Golden Chersonese and the Way Thither, 1879</i>[^29]</div>
+<span style="text-align:right;">–Isabella Bird, author of <i>The Golden Chersonese and the Way Thither, 1879</i>[^29]</span>
 
 The townsfolk perpetuated the common perception that the East was peopled by exotic races, an idea that influenced the photographic treatment of Singapore during the photography boom of the 1880s and 1890s.[^30] The natives’ outlandish attire, movements and other habits set them apart from the Europeans and created the racial divide expected of a colonial society. Implicit in accounts that paint the native races in this light is the lofty position of the Europeans within that stratified society.[^31] The distinction gets sharper when the toiling working class (locals waving the punkah fans, carrying the umbrella, preparing saddles, driving gharries, bearing torches) or else their wretched living spaces featured side-by-side with the well-off Europeans who passed their days in leisure and dinner parties:[^32]
 
 The native portion of the city is entirely separate from the foreign portion. The Malays live in small, poorly-built huts and houses, each house containing many people. The native portion is very closely-built and densely-populated, but the English officials succeed in making the natives keep the houses and streets comparatively clean. Europeans in Singapore manage to get about as much ease and pleasure out of life as is possible, and yet at the same time to make as much money as possible. Servants are so cheap that every foreigner has two or three to attend to his every want...The usual method of entertaining is by giving dinners.
 
-<div style="text-align:right;">–E.W. Eberle, Lieutenant, United States Navy, taken from <i>The Washington Post, 1892</i>[^33]</div>
+<span style="text-align:right;">–E.W. Eberle, Lieutenant, United States Navy, taken from <i>The Washington Post, 1892</i>[^33]</span>
 
 <div style="background-color: white;">
 <br/>
@@ -67,7 +67,7 @@ Nineteenth-century travel accounts of Singapore generally celebrated the civilis
 
 But in this part of the world [Singapore], the word palanquin is applied to a kind of long chest, placed on four wheels...A courier, called a says, [syce] holds the head of the horse to direct its movements, and excite it to speed. These men are generally either miserable Bengalese or the very poorest of the Malays, and a painful sight it is to see these poor fellows who are usually emaciated, debilitated by poverty and wretchedness, running about for hours together, until they are weary and breathless. Their costume is of the simple kind; their feet and legs are naked, their chests uncovered, and their hair is concealed under a cotton handkerchief rolled like a turban round the head: the only garment they wear is a pair of drawers, fastened round the waist and descending no further than the knees.
 
-<div style="text-align:right;">–Yvan, Melchior, a French physician in Singapore[^34]</div>
+<span style="text-align:right;">–Yvan, Melchior, a French physician in Singapore[^34]</span>
 
 Sober reflections on the abject poverty of the working class[^35] shatter the perception that an all-round wholesome development was taking shape and beg to examine the natives beyond their peculiar traits. The bounty that lay hidden in the fertile soil was also a story shy of a happy ending. The nutmeg disaster of the 1850s and 1860s shattered the British spice dream and left many European planters in Singapore ruined:[^36]
 
