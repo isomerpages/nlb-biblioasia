@@ -24,7 +24,7 @@ One of the earliest works on Chinese secret societies in the Rare Materials Coll
 
 Between 1832 and 1842, Röttger worked as a missionary in Riau island in Indonesia, interacting with the 5,000-strong Chinese population there and learning the ways of the Tiandihui. Due to ill health, he left for Europe to recuperate but returned for a second stint between 1844 and 1845.
 
-A comprehensive 19th-century study on the *Tiandihui is Thian Ti Hwui: The Hung-League or Heaven-Earth-League, a Secret Society with the Chinese in China and India* (1866) by Gustave Schlegel, an interpreter with the Dutch colonial government in Indonesia (or Dutch Indies as it was known then).[^6]
+A comprehensive 19th-century study on the Tiandihui is *Thian Ti Hwui: The Hung-League or Heaven-Earth-League, a Secret Society with the Chinese in China and India* (1866) by Gustave Schlegel, an interpreter with the Dutch colonial government in Indonesia (or Dutch Indies as it was known then).[^6]
 
 After spending several years in China, Schlegel arrived in Batavia (now Jakarta) as a Chinese interpreter in 1862. Through his work, he was able to gather much information on secret societies. One year into his posting, Schlegel was asked to translate documents found in the home of a secret society member who had been arrested. He also had access to secret society materials seized by the Dutch colonial government, as well as two Chinese manuscripts detailing secret society rites and oaths. In 1866, Schlegel published his landmark study on the Tiandihui.
 
@@ -32,7 +32,7 @@ The National Library also has a set of unbound manuscripts and documents – in 
 
 The Penang Riots of 1867 involved four secret societies: Ghee Hin Society (also known as Kian Tek), Toh Peh Kong Society, White Flag Society and Red Flag Society. The riots started on 3 August 1867 over a “trifling quarrel” that subsequently escalated and lasted for 10 days. A commission of enquiry was subsequently set up to investigate the cause of the riots.[^9]
 
-<div style="background-color: white;"><img style="width:300px" src="/images/Vol-13-issue-2/heaven-earth-brotherhood/02_heavenearth.jpg">Three out of the five flags of ranks representing the five principal lodges of the Hung Society. Pictured here (from left to right) are the flags for Earl (伯), Baron (男) and Marquis (候). The other two ranks are Viscount (子) and Duke (公). <i>All rights reserved, Lim, I. (1999). Secret Societies in Singapore: Featuring the William Stirling Collection (p. 46). Singapore: National Heritage Board, Singapore History Museum. (Call no.: RSING 366.095957 LIM)</i></div>
+<div style="background-color: white;"><img style="width:300px" src="/images/Vol-13-issue-2/heaven-earth-brotherhood/02_heavenearth.jpg">Three out of the five flags of ranks representing the five principal lodges of the Hung Society. Pictured here (from left to right) are the flags for Earl (伯), Baron (男) and Marquis (候). The other two ranks are Viscount (子) and Duke (公). <i>All rights reserved, Lim, I. (1999). Secret Societies in Singapore: Featuring the William Stirling Collection (p. 46). Singapore: National Heritage Board, Singapore History Museum. (Call no.: RSING 366.095957 LIM).</i></div>
 
 The Penang collection also includes William A. Pickering’s article on “Chinese Secret Societies” (1879), which describes a Tiandihui initiation ceremony he witnessed in Singapore. Pickering became the first Protector of the Chinese in Singapore in 1877, and he himself joined the Tiandihui. This was at a time when the Tiandihui was a registered de facto society in Singapore.[^10] Pickering’s fluency in Mandarin and Chinese dialects had helped him earn the trust of the Chinese.
 
@@ -48,7 +48,7 @@ In 1890, when secret societies were declared illegal in Singapore following the 
 
 *The Triad Society: Or, Heaven and Earth Association* (1900) was originally written by William J. Stanton in the late 1890s as a series of journal articles. Stanton, a British police officer in Hong Kong, could speak Chinese dialects and was instrumental in surpressing the activities of the secret societies.[^14]
 
-The publication provides a comprehensive overview of Hong Kong’s Triad Society – the Tien Ti Hin or the Heaven and Earth Association. Stanton reproduced in his book the membership certificates of 10 secret societies that he had collected all over Southeast Asia.[^15] In addition to translating and explaining the various seals used by the Triad Society, Stanton also described the methods used to verify the identity of a member. These included hand signs, code words, asking specific test questions (see below) as well as knowledge of certain arrangements of objects such as teacups.
+The publication provides a comprehensive overview of Hong Kong’s Triad Society – the Tien Ti Hin or the Heaven and Earth Association. Stanton reproduced in his book the membership certificates of 10 secret societies that he had collected all over Southeast Asia.[^15] In addition to translating and explaining the various seals used by the Triad Society, Stanton also described the methods used to verify the identity of a member. These included hand signs, code words, asking specific test questions (see here) as well as knowledge of certain arrangements of objects such as teacups.
 
 <div style="background-color: white;"><img style="width:500px" src="/images/Vol-13-issue-2/heaven-earth-brotherhood/04_heavenearth.png"></div>
 
@@ -92,7 +92,7 @@ Published in 1900, <i>The Triad Society: Or, Heaven and Earth Association</i> wa
 
 [^5]:Röttger, E.H. (1852). *[Geschichte der brüderschaft des himmels und der erden: Der communistischen propaganda China’s](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13072274)*. Berlin: In Commission bel Wilhlelm Hertz. (Call no.: RRARE 366.0951; Microfilm no.: NL24374)
 
-[^6]:The Thian Ti Hwui was originally published as second of three studies by Gustave Schlegel in a single volume with the general title, *Verhandelingen van het Bataviassch Genootschap van Kunsten en Wetenschappen, Deel XXXII*. The other two works by Schlegel in this volume include the original editions of the Hoa Tsien Ki, of, *Geschiedenis van het Gebloemde Briefpapier: Chinesche Roman* (Dutch Translation of a Chinese Literary Work) and the *Lets over De Prostitutie in China* (Schlegel’s Study of Prostitution in China). The National Library’s copy of Thian Ti Hwui is also bound together with these two works.
+[^6]:The Thian Ti Hwui was originally published as second of three studies by Gustave Schlegel in a single volume with the general title, *Verhandelingen van het Bataviassch Genootschap van Kunsten en Wetenschappen, Deel XXXII*. The other two works by Schlegel in this volume include the original editions of the *Hoa Tsien Ki, of, Geschiedenis van het Gebloemde Briefpapier: Chinesche Roman* (Dutch Translation of a Chinese Literary Work) and the *Lets over De Prostitutie in China* (Schlegel’s Study of Prostitution in China). The National Library’s copy of Thian Ti Hwui is also bound together with these two works.
 
 [^7]:[*[Chinese secret societies: A collection of manuscripts and documents relating to secret societies in Penang](https://eservice.nlb.gov.sg/itemholding.aspx?bid=6323562)*]. (1867). (Call no.: RRARE 364.10609595113 CHI; Microfilm no.: NL18296)
 
@@ -114,4 +114,4 @@ Published in 1900, <i>The Triad Society: Or, Heaven and Earth Association</i> wa
 
 [^16]:Wynne, M.L. (1941). *[Triad and tabut: A survey of the origin and diffusion of Chinese and Mohamedan secret societies in the Malay Peninsula A.D 1800–1935](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981846)*. Singapore: Government Printing Office. (Call no.: RRARE 366.09595 WYN; Microfilm nos.: NL9715, NL6705)
 
-[^17]:Wong, L.K., & Wong, C.S. (1960, March). Secret Societies in Malaya. *[Journal of Southeast Asian history, 1](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=2625011)* (1), 97–114, pp. 97–98. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+[^17]:Wong, L.K., & Wong, C.S. (1960, March). Secret Societies in Malaya. *[Journal of Southeast Asian history](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=2625011), 1* (1), 97–114, pp. 97–98. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
