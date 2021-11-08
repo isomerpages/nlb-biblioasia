@@ -44,19 +44,19 @@ Throughout the 19th century and much of the early 20th, Chettiars across Southea
 
 #### **The Rise and Decline of the Chettiars**
 
-As a community, the Chettiars punched far above their demographic weight. In the 1920s, the Chettiars were reported to have amassed about 1.2 billion rupees in wealth, despite numbering no more than 30,000 worldwide. There were never sizable communities of Chettiars at any one Asian outpost; the typical Chettiar undertook a series of three-year sojourns in a foreign port before returning to his ancestral village with the funds to build a vast mansion for his extended family and assume the role of patron of culture and the culinary arts. (The rich Chettinad food of Tamil Nadu, notes Subbiah, gained its fame from the patronage of Chettiars.) The Chettiar tour of duty was largely the province of bachelors; young boys often accompanied their elders as apprentices, and only after the 1950s did Chettiar womenfolk join their male kin in the Malay Peninsula.20
+As a community, the Chettiars punched far above their demographic weight. In the 1920s, the Chettiars were reported to have amassed about 1.2 billion rupees in wealth, despite numbering no more than 30,000 worldwide. There were never sizable communities of Chettiars at any one Asian outpost; the typical Chettiar undertook a series of three-year sojourns in a foreign port before returning to his ancestral village with the funds to build a vast mansion for his extended family and assume the role of patron of culture and the culinary arts. (The rich Chettinad food of Tamil Nadu, notes Subbiah, gained its fame from the patronage of Chettiars.) The Chettiar tour of duty was largely the province of bachelors; young boys often accompanied their elders as apprentices, and only after the 1950s did Chettiar womenfolk join their male kin in the Malay Peninsula.[^20]
 
 The close-knit, almost insular, nature of overseas Chettiar communities, a source of mutual strength in colonial times, was to prove a liability in the mid-20th century, when the Great Depression and a growing wave of nationalism turned the tide against these expatriate bankers. “They were making huge amounts of profit and sending it all back to India,” observes Subbiah. “They didn’t invest anything locally because they were sojourners.”
 
-Never populous nor politically powerful – but closely associated with British overlords, and perceived as Shylocks21 who drained economies of their surpluses – the Chettiars became easy targets in the post-war years. When boom turned to sustained bust, widespread defaults by clients and the consequent takeover of borrowers’ assets rewarded the Chettiars with vast tracts of land and property across Southeast Asia. In Lower Burma, Chettiars were reported to have controlled between a quarter to nearly half of all productive land in 1937.22 When the nationalists assumed power, first in Rangoon, then in Colombo, Saigon and Jakarta, the Chettiars had their possessions nationalised and were given marching orders. “Some walked back across the border,” says Subbiah of this enforced exodus.
+Never populous nor politically powerful – but closely associated with British overlords, and perceived as Shylocks[^21] who drained economies of their surpluses – the Chettiars became easy targets in the post-war years. When boom turned to sustained bust, widespread defaults by clients and the consequent takeover of borrowers’ assets rewarded the Chettiars with vast tracts of land and property across Southeast Asia. In Lower Burma, Chettiars were reported to have controlled between a quarter to nearly half of all productive land in 1937.[^22] When the nationalists assumed power, first in Rangoon, then in Colombo, Saigon and Jakarta, the Chettiars had their possessions nationalised and were given marching orders. “Some walked back across the border,” says Subbiah of this enforced exodus.
 
-Only in Malaya did the Chettiars emerge relatively unscathed. But even in Singapore, the tea leaves bode ill as the island embarked on a post-colonial trajectory. From the 1950s, greater regulation of banks and moneylenders reduced official interest rates to unprofitable margins, although some borrowers sweetened the deal with off-the-record mark-ups. As Singapore prepared to enter an era of internal self-rule in 1959, there were fears of a looming socialist regime similar to those in Indochina and Burma.23 Many Chettiars called in their options, and sold their properties and other assets before returning to India for good. For those who remained and found a nation that veered neither left nor right along the ideological scale, the advent of easy credit and new domestic players in the 1970s chipped away at their historical dominance as bankers to small-to-medium enterprises.24
+Only in Malaya did the Chettiars emerge relatively unscathed. But even in Singapore, the tea leaves bode ill as the island embarked on a post-colonial trajectory. From the 1950s, greater regulation of banks and moneylenders reduced official interest rates to unprofitable margins, although some borrowers sweetened the deal with off-the-record mark-ups. As Singapore prepared to enter an era of internal self-rule in 1959, there were fears of a looming socialist regime similar to those in Indochina and Burma.[^23] Many Chettiars called in their options, and sold their properties and other assets before returning to India for good. For those who remained and found a nation that veered neither left nor right along the ideological scale, the advent of easy credit and new domestic players in the 1970s chipped away at their historical dominance as bankers to small-to-medium enterprises.[^24]
 
 By the mid-1970s, the Chettiars found themselves in an unusual position. Although their business was dwindling, they still owned much land and enjoyed financial strength. So when the government asked the community to redevelop their properties around Market Street into modern buildings either individually or jointly with local banks, they agreed, fearing in part that the alternative was to have their land forcibly acquired or nationalised.
 
 <div style="background-color: white;"><img style="width:600px" src="/images/Vol-13-issue-3/micro-india/05_microindia.jpg">Chettiar legal documents provide a glimpse into the business practices of the Chettiars. Clockwise from left: A promissory note, bearing interest at 24 percent per annum, to be paid in equal monthly instalments; failure to pay any one instalment would render the entire sum due and payable. (Title ID: 040000500); affidavit by the plaintiff in a suit where the defendant had been appointed to manage the plaintiff’s firm but failed to render the accounts (Title ID: 170005179); and a promissory note (partially hidden) bearing interest at 24 percent per annum (Title ID: 040000506). <i>Koh Seow Chuan Collection, National Library, Singapore.</i></div>
 
-The *kittangi* were sold for a song and many older Chettiars called it a day, selling off all their properties in Singapore to carve a comfortable retirement in their homeland. Others moved to premises at Cantonment Road, Serangoon Road and Tank Road, where a lone kittangi still holds fort in the shadow of Sri Thendayuthapani (more popularly known as Chettiars’ Temple). Established in 1859, this shrine is probably the most significant landmark associated with the Chettiars, who erected temples to Lord Murugan wherever they went.25 For most Singaporeans, the Tank Road temple is better known as the end point of the annual Thaipusam procession, perhaps the only tangible manifestation of Chettiar religious culture in the Singapore mindscape.
+The *kittangi* were sold for a song and many older Chettiars called it a day, selling off all their properties in Singapore to carve a comfortable retirement in their homeland. Others moved to premises at Cantonment Road, Serangoon Road and Tank Road, where a lone kittangi still holds fort in the shadow of Sri Thendayuthapani (more popularly known as Chettiars’ Temple). Established in 1859, this shrine is probably the most significant landmark associated with the Chettiars, who erected temples to Lord Murugan wherever they went.[^25] For most Singaporeans, the Tank Road temple is better known as the end point of the annual Thaipusam procession, perhaps the only tangible manifestation of Chettiar religious culture in the Singapore mindscape.
 
 <div style="background-color: white;"><img style="width:700px" src="/images/Vol-13-issue-3/micro-india/06_microindia.jpg">Members of the Chettiar community at the entrance of the Sri Thendayuthapani Temple at Tank Road (Chettiars’ Temple), c.1930s. <i>Nachiappa Chettiar Collection, courtesy of National Archives of Singapore.</i></div>
 
@@ -70,11 +70,11 @@ In the early 1970s, Market Street was a one-stop shop where local Indians would 
 
 <div style="background-color: white;"><img style="width:700px" src="/images/Vol-13-issue-3/micro-india/07_microindia.jpg">Chettiar men posing for a photograph in front of the Mercantile Bank in Raffles Place, 1960. Nachiappa Chettiar Collection, courtesy of National Archives of Singapore.</i></div>
 
-Other than the Chettiars, Market Street was an “incubator” site for other Indian as well as non-Indian enterprises. Subbiah recalls being asked by his elders to buy tea from a young wallah named Mustaq Ahmad, who helped his father man a pushcart at a corner of Market Street and Battery Road before going on to helm the outfit now known as Mohamed Mustafa & Shamsudin.[^26] Textile retailer Second Chance occupied a shop lot along Chulia Street in the 1970s, while the headquarters of PGP, a chain of provision stores owned by philanthropist P. Govindasamy Pillai, was located on the upper reaches of Market Street.27
+Other than the Chettiars, Market Street was an “incubator” site for other Indian as well as non-Indian enterprises. Subbiah recalls being asked by his elders to buy tea from a young wallah named Mustaq Ahmad, who helped his father man a pushcart at a corner of Market Street and Battery Road before going on to helm the outfit now known as Mohamed Mustafa & Shamsudin.[^26] Textile retailer Second Chance occupied a shop lot along Chulia Street in the 1970s, while the headquarters of PGP, a chain of provision stores owned by philanthropist P. Govindasamy Pillai, was located on the upper reaches of Market Street.[^27]
 
-Tat Lee Bank[^28] had its headquarters, as well as an iron and steel rolling mill, between two kittangi, while various law firms and shipchandlers operated from Chulia (previously Kling) Street, now a mere laneway unlike its sprawling namesake in Georgetown, Penang. Along Malacca Street, the Portuguese Mission owned the neoclassical Nunes Building, designed by Swan & Maclaren29 with decorative panels on its façade by Italian sculptor Cavalieri Nolli,30 next to which stood the offices of the Lee & Lee legal firm between 1955 and 1969.31 Market and Malacca streets also housed the spice trading business of the Jumabhoys from Gujarat, which later expanded into Scotts Holdings.32
+Tat Lee Bank[^28] had its headquarters, as well as an iron and steel rolling mill, between two kittangi, while various law firms and shipchandlers operated from Chulia (previously Kling) Street, now a mere laneway unlike its sprawling namesake in Georgetown, Penang. Along Malacca Street, the Portuguese Mission owned the neoclassical Nunes Building, designed by Swan & Maclaren[^29] with decorative panels on its façade by Italian sculptor Cavalieri Nolli,[^30] next to which stood the offices of the Lee & Lee legal firm between 1955 and 1969.[^31] Market and Malacca streets also housed the spice trading business of the Jumabhoys from Gujarat, which later expanded into Scotts Holdings.[^32]
 
-For the young Subbiah, these luminaries were probably mere footnotes, fleeting faces and impressions preserved amid memories of Market Street and playing football on Raffles Place green33 after the city was deserted by its workers early in the evening. “The kittangi was a fun place to stay,” he muses. Market Street was also part of the route taken by traditional Chingay revellers before the parade took on a less pugilistic turn.34 To this day, a kavadi procession known as Punar Pusam (see text box below), which begins at the Sri Layan Sithi Vinayagar Temple at Keong Saik Road and ends at Tank Road on the evening before Thaipusam, passes Market Street on its annual circuit.
+For the young Subbiah, these luminaries were probably mere footnotes, fleeting faces and impressions preserved amid memories of Market Street and playing football on Raffles Place green[^33] after the city was deserted by its workers early in the evening. “The kittangi was a fun place to stay,” he muses. Market Street was also part of the route taken by traditional Chingay revellers before the parade took on a less pugilistic turn.[^34] To this day, a kavadi procession known as Punar Pusam (see text box below), which begins at the Sri Layan Sithi Vinayagar Temple at Keong Saik Road and ends at Tank Road on the evening before Thaipusam, passes Market Street on its annual circuit.
 
 <div style="background-color: white;"><img style="width:700px" src="/images/Vol-13-issue-3/micro-india/08_microindia.jpg">Punar Pusam procession with traditional stilt-walkers, and Fort Canning in the background (c. 1920s−30s). This lesser known annual procession takes place on the eve of Thaipusam. Early in the morning, the chariot bearing Lord Murugan leaves Chettiars’ Temple at Tank Road for Sri Layan Sithi Vinayagar Temple at Keong Saik Road. The chariot then returns to Tank Road in the evening accompanied by a retinue of kavadi bearers and passing Market Street along the way. Courtesy of Lakshmanan Subbiah.</i></div>
 
@@ -84,13 +84,13 @@ Another occasion that sticks in Subbiah’s mind is a different assembly that to
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>OF FAITH, ON FOOT: THE PUNAR PUSAM PROCESSION</b>
 <br><br>
-Many are familiar, or at least acquainted, with the annual Thaipusam procession that begins at Sri Srinivasa Perumal Temple along Serangoon Road and ends at Chettiars’ Temple at Tank Road. This procession, dominated by believers who bear elaborate kavadi35 as a visible sign of their devotion, takes place on the full moon of the Tamil month of Thai, which falls in January or February each year.
+Many are familiar, or at least acquainted, with the annual Thaipusam procession that begins at Sri Srinivasa Perumal Temple along Serangoon Road and ends at Chettiars’ Temple at Tank Road. This procession, dominated by believers who bear elaborate kavadi[^35] as a visible sign of their devotion, takes place on the full moon of the Tamil month of Thai, which falls in January or February each year.
 <br><br>
 Few, however, have any inkling that on the eve of Thaipusam, an equally hallowed procession commences late in the day from the Sri Layan Sithi Vinayagar Temple at Keong Saik Road. Known as Punar Pusam or Chetty Pusam, this march involves kavadi bearers from the Chettiar community who wind their way through Chinatown, the Central Business District and City Hall.
 <br><br>
 <img style="width:700px" src="/images/Vol-13-issue-3/micro-india/09_microindia.jpg">On the eve of Thaipusam, the Punar Pusam or Chetty Pusam procession, which involves kavadi bearers from the Chettiar community, commences late in the day from the Sri Layan Sithi Vinayagar Temple at Keong Saik Street and winds its way through Chinatown, the Central Business District and City Hall, before ending at the Thendayuthapani Temple (Chettiars’ Temple) at Tank Road. <i>Photo by Marcus Ng taken at Keong Saik Street on 8 February 2017.</i>
 <br><br>
-For the Chettiars, Punar Pusam commemorates the only time of the year when Lord Murugan leaves the Tank Road temple. Borne in a silver chariot, Lord Murugan first visits his elder brother Lord Ganesha at Sri Layan Sithi Vinayagar Temple, before returning in the evening by way of Sri Mariamman Temple,36 abode of the Mother Goddess of South Indian Hindus. In the past, the chariot, accompanied by a human chain of kavadi bearers, would meander along Robinson Road, D’Almeida Street and Market Street, where Lord Murugan would give his blessings to the Chettiar businesses in the area. The kittangi are long gone, but the entourage still pauses to dance and whirl before the landmarks of their faith and forefathers, and in the shadow of their financial heirs, the modern towers housing the Indian Bank and Indian Overseas Bank.
+For the Chettiars, Punar Pusam commemorates the only time of the year when Lord Murugan leaves the Tank Road temple. Borne in a silver chariot, Lord Murugan first visits his elder brother Lord Ganesha at Sri Layan Sithi Vinayagar Temple, before returning in the evening by way of Sri Mariamman Temple,[^36] abode of the Mother Goddess of South Indian Hindus. In the past, the chariot, accompanied by a human chain of kavadi bearers, would meander along Robinson Road, D’Almeida Street and Market Street, where Lord Murugan would give his blessings to the Chettiar businesses in the area. The kittangi are long gone, but the entourage still pauses to dance and whirl before the landmarks of their faith and forefathers, and in the shadow of their financial heirs, the modern towers housing the Indian Bank and Indian Overseas Bank.
 <br><br>
 A lorry pulls the deity today; there are no more bullocks for the task. Neither are there stilt-walkers, clowns in costumes and musical bands, which in times past cheered the marchers on and brought the town to a halt with pomp and ceremony. According to Lakshmanan Subbiah, a fourth-generation Chettiar, the Chettiars would even pay for the trams along South Bridge Road to stop for a few hours so that the road was clear for the procession. Before the war, fireworks were de rigueur. And until Dhoby Ghaut was dug up, the chariot also stopped by a shrine to Lord Siva at Orchard Road[^37] before the final leg towards Tank Road.
 <br><br>
@@ -112,70 +112,74 @@ Accompanied by families and well-wishers, and under the watchful eyes of minders
 
 [^1]:The person appointed at a mosque to lead and recite the call to prayer.
 
-This would have been Masjid Moulana Mohamed Ali, which was established in two Market Street shophouses in the 1950s to serve Muslims working in the commercial centre. See Masjid Moulana Mohamed Ali. (2015). Retrieved from Masjid Moulana Mohamed Ali website.
+[^2]:This would have been Masjid Moulana Mohamed Ali, which was established in two Market Street shophouses in the 1950s to serve Muslims working in the commercial centre. See Masjid Moulana Mohamed Ali. (2015). Retrieved from Masjid Moulana Mohamed Ali website.
 
-This was Bonham Building (now the site of UOB Plaza), the original headquarters of United Overseas Bank. See Lim, T.S. (2016, October– December). As good as gold: The making of a financial centre. BiblioAsia, 12 (3), 17–23, p. 21. Retrieved from BiblioAsia website.
+[^3]:This was Bonham Building (now the site of UOB Plaza), the original headquarters of United Overseas Bank. See Lim, T.S. (2016, October– December). As good as gold: The making of a financial centre. BiblioAsia, 12 (3), 17–23, p. 21. Retrieved from BiblioAsia website.
 
-Meaning “Water Bay” in Malay, Telok Ayer has become synonymous with Singapore’s Chinatown.
-Grams refer to pulses such as black grams (used in South Indian staples such as idli and thosai), lentils and chickpeas.
+[^4]:Meaning “Water Bay” in Malay, Telok Ayer has become synonymous with Singapore’s Chinatown.
 
-Saivites, who revere Lord Siva as the Supreme God, and Vaishnavites, who revere Lord Vishnu, form two major branches in the Hindu religion.
+[^5]:Grams refer to pulses such as black grams (used in South Indian staples such as idli and thosai), lentils and chickpeas.
 
-Early banks around Raffles Place such as Union Bank of Calcutta (1840); Chartered Mercantile Bank of India and China (1856); Chartered Bank of India, Australia and China (1861); Hongkong and Shanghai Banking Corporation (1877) and Asiatic Banking Corporation (1860s) would have provided finance mainly to large European trading houses. See National Library Board. (2018). Raffles Place written by Cornelius, Vernon. Retrieved from Singapore Infopedia website.
+[^6]:Saivites, who revere Lord Siva as the Supreme God, and Vaishnavites, who revere Lord Vishnu, form two major branches in the Hindu religion.
 
-It was reported that by 1867, “most of the Singapore opium trade passed through their (Chettiar) hands”. See Mahadevan, R. (1976). The pattern of enterprise of immigrant entrepreneurs in the overseas – A study of the Chettiars in Malaya 1880–1930. Proceedings of the Indian History Congress, 37, 446–456, pp. 448–449. Retrieved from JSTOR via NLB’s eResources website. 
+[^7]:Early banks around Raffles Place such as Union Bank of Calcutta (1840); Chartered Mercantile Bank of India and China (1856); Chartered Bank of India, Australia and China (1861); Hongkong and Shanghai Banking Corporation (1877) and Asiatic Banking Corporation (1860s) would have provided finance mainly to large European trading houses. See National Library Board. (2018). Raffles Place written by Cornelius, Vernon. Retrieved from Singapore Infopedia website.
 
-Chua, B.H., & Liu, G. (1989). The Golden Shoe: Building Singapore’s financial district. Singapore: Urban Redevelopment Authority. (Call no: RSING 711.5522095957 CHU)
+[^8]:It was reported that by 1867, “most of the Singapore opium trade passed through their (Chettiar) hands”. See Mahadevan, R. (1976). The pattern of enterprise of immigrant entrepreneurs in the overseas – A study of the Chettiars in Malaya 1880–1930. Proceedings of the Indian History Congress, 37, 446–456, pp. 448–449. Retrieved from JSTOR via NLB’s eResources website. 
 
-Masjid Moulana Mohamed Ali moved to the basement of UOB Plaza after the trustees accepted an offer to accommodate the mosque after the bank acquired the Market Street shophouses for redevelopment. See Yang, W. (1981, February 21). Mosque in basement if offer taken. *The Straits Times*, p. 17. Retrieved from NewspaperSG.
+[^9]:Chua, B.H., & Liu, G. (1989). The Golden Shoe: Building Singapore’s financial district. Singapore: Urban Redevelopment Authority. (Call no: RSING 711.5522095957 CHU)
 
-Survey Department, Singapore. (1828). Plan of the Town of Singapore by Lieut Jackson. Retrieved from National Archives of Singapore website.
+[^10]:Masjid Moulana Mohamed Ali moved to the basement of UOB Plaza after the trustees accepted an offer to accommodate the mosque after the bank acquired the Market Street shophouses for redevelopment. See Yang, W. (1981, February 21). Mosque in basement if offer taken. *The Straits Times*, p. 17. Retrieved from NewspaperSG.
 
-Lee, K.L. (1983). Telok Ayer Market: A historical account of the market from the founding of the settlement of Singapore to the present time (unpaged). Singapore: Archives & Oral History Dept. (Call no.: RSING 725.21095957 LEE)
+[^11]:Survey Department, Singapore. (1828). Plan of the Town of Singapore by Lieut Jackson. Retrieved from National Archives of Singapore website.
 
-Sandhu, K.S., & Sandhu, K.K. (1969, September). Some aspects of Indian settlement in Singapore, 1819–1969. Journal of Southeast Asian History, 10 (2), 193–201, p. 197. Retrieved from JSTOR via NLB’s eResources website.
+[^12]:Lee, K.L. (1983). Telok Ayer Market: A historical account of the market from the founding of the settlement of Singapore to the present time (unpaged). Singapore: Archives & Oral History Dept. (Call no.: RSING 725.21095957 LEE)
 
-Savage, V.R., & Yeoh, B.S.A. (2013). Singapore street names: A study of toponymics (pp. 248– 250). Singapore: Marshall Cavendish Editions. (Call no.: RSING 915.9570014 SAV) 
+[^13]:Sandhu, K.S., & Sandhu, K.K. (1969, September). Some aspects of Indian settlement in Singapore, 1819–1969. Journal of Southeast Asian History, 10 (2), 193–201, p. 197. Retrieved from JSTOR via NLB’s eResources website.
 
-Thinappan, S.P., & Vairavan, S.N. (2010). Nagarathars in Singapore (p. 15). Singapore: Navaso. (Call no.: RSING 305.89141105957 THI)
+[^14]:Savage, V.R., & Yeoh, B.S.A. (2013). Singapore street names: A study of toponymics (pp. 248– 250). Singapore: Marshall Cavendish Editions. (Call no.: RSING 915.9570014 SAV) 
 
-Muthiah, S., et al. (2000). The Chettiar heritage (p. vii). Chennai: The Chettiar Heritage. (Call no.: R 954.089 CHE)
+[^15]:Thinappan, S.P., & Vairavan, S.N. (2010). Nagarathars in Singapore (p. 15). Singapore: Navaso. (Call no.: RSING 305.89141105957 THI)
 
-Sandhu & Sandhu, Sep 1969, p. 199. The extent of loans to Malay royalty is illustrated by Winstedt who records that “in 1862 being heavily indebted to a Kavana Chana Shellapa Chetty, Sultan Ali [of Singapore] gave this Tamil money-lender the right to sell Muar to the British or the Temenggong of Johor.” See Winstedt, R.O. (1932).  A history of Johore: 1365–1895 A. D (p. 113). Singapore: Singapore Printers, Ltd. (Call no.: RRARE 959.5142 WIN; Microfilm no.: NL 1577)
+[^16]:Muthiah, S., et al. (2000). The Chettiar heritage (p. vii). Chennai: The Chettiar Heritage. (Call no.: R 954.089 CHE)
 
-Vibuthi is the holy ash applied on the foreheads of Saivite Hindus to honour Lord Siva.
+[^17]:Sandhu & Sandhu, Sep 1969, p. 199. The extent of loans to Malay royalty is illustrated by Winstedt who records that “in 1862 being heavily indebted to a Kavana Chana Shellapa Chetty, Sultan Ali [of Singapore] gave this Tamil money-lender the right to sell Muar to the British or the Temenggong of Johor.” See Winstedt, R.O. (1932).  A history of Johore: 1365–1895 A. D (p. 113). Singapore: Singapore Printers, Ltd. (Call no.: RRARE 959.5142 WIN; Microfilm no.: NL 1577)
 
-Sandhu & Sandhu, Sep 1969, p. 199.
+[^18]:Vibuthi is the holy ash applied on the foreheads of Saivite Hindus to honour Lord Siva.
 
-Thinnappan & Vairavan, 2010, p. 33.
+[^19]:Sandhu & Sandhu, Sep 1969, p. 199.
 
-Shylock, an avaricious Jewish moneylender, is a character in William Shakespeare’s play, The Merchant of Venice.
+[^20]:Thinnappan & Vairavan, 2010, p. 33.
 
-Adas, M. (1974, May). Immigrant Asians and the economic impact of European imperialism: The role of the South Indian Chettiars in British Burma. Journal of Asian Studies, 33 (3), 385–401, p. 400. Retrieved from JSTOR NLB’s eResources website.
+[^21]:Shylock, an avaricious Jewish moneylender, is a character in William Shakespeare’s play, The Merchant of Venice.
 
-Ministry of Culture. (1964, August 16). Transcript of the prime minister, Mr Lee Kuan Yew’s speech at the political study centre on 16th August, 1964 in connection with the seminar on “the concept of democracy” organised by the joint committee for radio courses [Speech]. Retrieved from National Archives of Singapore website.
+[^22]:Adas, M. (1974, May). Immigrant Asians and the economic impact of European imperialism: The role of the South Indian Chettiars in British Burma. Journal of Asian Studies, 33 (3), 385–401, p. 400. Retrieved from JSTOR NLB’s eResources website.
 
-Thinnappan & Vairavan, 2010, p. 25.
+[^23]:Ministry of Culture. (1964, August 16). Transcript of the prime minister, Mr Lee Kuan Yew’s speech at the political study centre on 16th August, 1964 in connection with the seminar on “the concept of democracy” organised by the joint committee for radio courses [Speech]. Retrieved from National Archives of Singapore website.
 
-Lord Murugan, also known as Sri Thendayuthapani, is a son of Lord Siva and the principal deity at the Chettiars’ Temple. Over a 150-year period, the Chettiars are estimated to have built about 105 temples in Southeast Asia: 59 in Burma, 25 in Ceylon, 18 in Malay, and one each in Vietnam, Singapore and Medan.
-National Library Board. (2016). Mohamed Mustafa and Samsudin Co Pte Ltd written by Nureza Ahmad & Noorainn Aziz. Retrieved from Singapore Infopedia website.
+[^24]:Thinnappan & Vairavan, 2010, p. 25.
 
-See Boo, K. (1999, September 24). End of an era. The Straits Times, p. 47. Retrieved from NewspaperSG.
-Tat Lee Bank opened at Market Street in 1974 and merged with Keppel Bank in 1998.
+[^25]:Lord Murugan, also known as Sri Thendayuthapani, is a son of Lord Siva and the principal deity at the Chettiars’ Temple. Over a 150-year period, the Chettiars are estimated to have built about 105 temples in Southeast Asia: 59 in Burma, 25 in Ceylon, 18 in Malay, and one each in Vietnam, Singapore and Medan.
 
-T. F. Hwang takes you down memory. (1988, June 25). The Straits Times, p. 22; Colony cavalcade. (1936, April 26). The Straits Times, p. 2. Retrieved from NewspaperSG.
+[^26]:National Library Board. (2016). Mohamed Mustafa and Samsudin Co Pte Ltd written by Nureza Ahmad & Noorainn Aziz. Retrieved from Singapore Infopedia website.
 
-Materials used in constructing Nunes and Medeiros. (1937, October 5). The Straits Times, p. 2. Retrieved from NewspaperSG; Davison, J. (2017, Jul–Sep). Swan & Maclaren: Pioneers of Modernist architecture. BiblioAsia, 13 (2), 24–31, p. 28. Retrieved from BiblioAsia website.
+[^27]:See Boo, K. (1999, September 24). End of an era. The Straits Times, p. 47. Retrieved from NewspaperSG.
 
-Lee & Lee. (2017). Retrieved from Lee & Lee website.
-Jumabhoy, R. (1982, August 7). The spice trade article and my family. *The Straits Times*, p. 17. Retrieved from NewspaperSG.
+[^28]:Tat Lee Bank opened at Market Street in 1974 and merged with Keppel Bank in 1998.
 
-Raffles Place was converted to house an underground carpark in 1961 and became a pedestrian zone in 1972. See National Library Board, 2018.
+[^29]:T. F. Hwang takes you down memory. (1988, June 25). The Straits Times, p. 22; Colony cavalcade. (1936, April 26). The Straits Times, p. 2. Retrieved from NewspaperSG.
 
-Sam, J. (1985, February 24). Fiery start to 1830 lunar year. Singapore Monitor, p. 2. Retrieved from NewspaperSG.
+[^30]:Materials used in constructing Nunes and Medeiros. (1937, October 5). The Straits Times, p. 2. Retrieved from NewspaperSG; Davison, J. (2017, Jul–Sep). Swan & Maclaren: Pioneers of Modernist architecture. BiblioAsia, 13 (2), 24–31, p. 28. Retrieved from BiblioAsia website.
 
-The kavadi is a semi-circular metal structure decorated with peacock feathers, flowers and palm leaves, which devotees carry during the Thaipusam procession, often in fulfilment of a vow. See Hindu Endowments Board. (2016). Thaipusam. Retrieved from Hindu Endowments Board website
+[^31]:Lee & Lee. (2017). Retrieved from Lee & Lee website.
 
-Soundararajan, A., & Sri Asrina Tanuri. (2016, October–December). Time-honoured temple design. BiblioAsia, 12 (3), 36–39, p. 36. Retrieved from BiblioAsia website.
+[^32]:Jumabhoy, R. (1982, August 7). The spice trade article and my family. *The Straits Times*, p. 17. Retrieved from NewspaperSG.
 
-This was the Sri Sivan Temple at Dhoby Ghaut, which was relocated to Geylang East to make way for the MRT station in 1983. See Hindu Endowments Board. (2016). Sri Sivan Temple. Retrieved from Hindu Endowments Board website.
+[^33]:Raffles Place was converted to house an underground carpark in 1961 and became a pedestrian zone in 1972. See National Library Board, 2018.
+
+[^34]:Sam, J. (1985, February 24). Fiery start to 1830 lunar year. Singapore Monitor, p. 2. Retrieved from NewspaperSG.
+
+[^35]:The kavadi is a semi-circular metal structure decorated with peacock feathers, flowers and palm leaves, which devotees carry during the Thaipusam procession, often in fulfilment of a vow. See Hindu Endowments Board. (2016). Thaipusam. Retrieved from Hindu Endowments Board website
+
+[^36]:Soundararajan, A., & Sri Asrina Tanuri. (2016, October–December). Time-honoured temple design. BiblioAsia, 12 (3), 36–39, p. 36. Retrieved from BiblioAsia website.
+
+[^37]:This was the Sri Sivan Temple at Dhoby Ghaut, which was relocated to Geylang East to make way for the MRT station in 1983. See Hindu Endowments Board. (2016). Sri Sivan Temple. Retrieved from Hindu Endowments Board website.
