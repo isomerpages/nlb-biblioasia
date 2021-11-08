@@ -80,7 +80,7 @@ Like traditional handwritten manuscripts, printed <i>syair</i> and <i>hikayat</i
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="images/Vol-13-issue-2/tales-of-malay-world/tan_huism.png">
+<img style="width: 100px; height: 100px;" src="![Alt text for image on Isomer site](/images/Vol-13-issue-2/tales-of-malay-world/tan_huism1.png)">
 <b>Tan Huism</b> is  Deputy Director of Content and Services at the  National Library, Singapore, where she oversees exhibitions and the Singapore & Southeast Asia collections.
 </div>
 
