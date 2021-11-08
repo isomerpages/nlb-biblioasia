@@ -110,41 +110,72 @@ Accompanied by families and well-wishers, and under the watchful eyes of minders
 	
 #### **NOTES**
 
-The person appointed at a mosque to lead and recite the call to prayer.
+[^1]:The person appointed at a mosque to lead and recite the call to prayer.
+
 This would have been Masjid Moulana Mohamed Ali, which was established in two Market Street shophouses in the 1950s to serve Muslims working in the commercial centre. See Masjid Moulana Mohamed Ali. (2015). Retrieved from Masjid Moulana Mohamed Ali website.
+
 This was Bonham Building (now the site of UOB Plaza), the original headquarters of United Overseas Bank. See Lim, T.S. (2016, October– December). As good as gold: The making of a financial centre. BiblioAsia, 12 (3), 17–23, p. 21. Retrieved from BiblioAsia website.
+
 Meaning “Water Bay” in Malay, Telok Ayer has become synonymous with Singapore’s Chinatown.
 Grams refer to pulses such as black grams (used in South Indian staples such as idli and thosai), lentils and chickpeas.
+
 Saivites, who revere Lord Siva as the Supreme God, and Vaishnavites, who revere Lord Vishnu, form two major branches in the Hindu religion.
+
 Early banks around Raffles Place such as Union Bank of Calcutta (1840); Chartered Mercantile Bank of India and China (1856); Chartered Bank of India, Australia and China (1861); Hongkong and Shanghai Banking Corporation (1877) and Asiatic Banking Corporation (1860s) would have provided finance mainly to large European trading houses. See National Library Board. (2018). Raffles Place written by Cornelius, Vernon. Retrieved from Singapore Infopedia website.
+
 It was reported that by 1867, “most of the Singapore opium trade passed through their (Chettiar) hands”. See Mahadevan, R. (1976). The pattern of enterprise of immigrant entrepreneurs in the overseas – A study of the Chettiars in Malaya 1880–1930. Proceedings of the Indian History Congress, 37, 446–456, pp. 448–449. Retrieved from JSTOR via NLB’s eResources website. 
+
 Chua, B.H., & Liu, G. (1989). The Golden Shoe: Building Singapore’s financial district. Singapore: Urban Redevelopment Authority. (Call no: RSING 711.5522095957 CHU)
-Masjid Moulana Mohamed Ali moved to the basement of UOB Plaza after the trustees accepted an offer to accommodate the mosque after the bank acquired the Market Street shophouses for redevelopment. See Yang, W. (1981, February 21). Mosque in basement if offer taken. The Straits Times, p. 17. Retrieved from NewspaperSG.
+
+Masjid Moulana Mohamed Ali moved to the basement of UOB Plaza after the trustees accepted an offer to accommodate the mosque after the bank acquired the Market Street shophouses for redevelopment. See Yang, W. (1981, February 21). Mosque in basement if offer taken. *The Straits Times*, p. 17. Retrieved from NewspaperSG.
+
 Survey Department, Singapore. (1828). Plan of the Town of Singapore by Lieut Jackson. Retrieved from National Archives of Singapore website.
+
 Lee, K.L. (1983). Telok Ayer Market: A historical account of the market from the founding of the settlement of Singapore to the present time (unpaged). Singapore: Archives & Oral History Dept. (Call no.: RSING 725.21095957 LEE)
+
 Sandhu, K.S., & Sandhu, K.K. (1969, September). Some aspects of Indian settlement in Singapore, 1819–1969. Journal of Southeast Asian History, 10 (2), 193–201, p. 197. Retrieved from JSTOR via NLB’s eResources website.
+
 Savage, V.R., & Yeoh, B.S.A. (2013). Singapore street names: A study of toponymics (pp. 248– 250). Singapore: Marshall Cavendish Editions. (Call no.: RSING 915.9570014 SAV) 
+
 Thinappan, S.P., & Vairavan, S.N. (2010). Nagarathars in Singapore (p. 15). Singapore: Navaso. (Call no.: RSING 305.89141105957 THI)
+
 Muthiah, S., et al. (2000). The Chettiar heritage (p. vii). Chennai: The Chettiar Heritage. (Call no.: R 954.089 CHE)
+
 Sandhu & Sandhu, Sep 1969, p. 199. The extent of loans to Malay royalty is illustrated by Winstedt who records that “in 1862 being heavily indebted to a Kavana Chana Shellapa Chetty, Sultan Ali [of Singapore] gave this Tamil money-lender the right to sell Muar to the British or the Temenggong of Johor.” See Winstedt, R.O. (1932).  A history of Johore: 1365–1895 A. D (p. 113). Singapore: Singapore Printers, Ltd. (Call no.: RRARE 959.5142 WIN; Microfilm no.: NL 1577)
+
 Vibuthi is the holy ash applied on the foreheads of Saivite Hindus to honour Lord Siva.
+
 Sandhu & Sandhu, Sep 1969, p. 199.
+
 Thinnappan & Vairavan, 2010, p. 33.
+
 Shylock, an avaricious Jewish moneylender, is a character in William Shakespeare’s play, The Merchant of Venice.
+
 Adas, M. (1974, May). Immigrant Asians and the economic impact of European imperialism: The role of the South Indian Chettiars in British Burma. Journal of Asian Studies, 33 (3), 385–401, p. 400. Retrieved from JSTOR NLB’s eResources website.
+
 Ministry of Culture. (1964, August 16). Transcript of the prime minister, Mr Lee Kuan Yew’s speech at the political study centre on 16th August, 1964 in connection with the seminar on “the concept of democracy” organised by the joint committee for radio courses [Speech]. Retrieved from National Archives of Singapore website.
+
 Thinnappan & Vairavan, 2010, p. 25.
+
 Lord Murugan, also known as Sri Thendayuthapani, is a son of Lord Siva and the principal deity at the Chettiars’ Temple. Over a 150-year period, the Chettiars are estimated to have built about 105 temples in Southeast Asia: 59 in Burma, 25 in Ceylon, 18 in Malay, and one each in Vietnam, Singapore and Medan.
 National Library Board. (2016). Mohamed Mustafa and Samsudin Co Pte Ltd written by Nureza Ahmad & Noorainn Aziz. Retrieved from Singapore Infopedia website.
+
 See Boo, K. (1999, September 24). End of an era. The Straits Times, p. 47. Retrieved from NewspaperSG.
 Tat Lee Bank opened at Market Street in 1974 and merged with Keppel Bank in 1998.
+
 T. F. Hwang takes you down memory. (1988, June 25). The Straits Times, p. 22; Colony cavalcade. (1936, April 26). The Straits Times, p. 2. Retrieved from NewspaperSG.
+
 Materials used in constructing Nunes and Medeiros. (1937, October 5). The Straits Times, p. 2. Retrieved from NewspaperSG; Davison, J. (2017, Jul–Sep). Swan & Maclaren: Pioneers of Modernist architecture. BiblioAsia, 13 (2), 24–31, p. 28. Retrieved from BiblioAsia website.
+
 Lee & Lee. (2017). Retrieved from Lee & Lee website.
-Jumabhoy, R. (1982, August 7). The spice trade article and my family. The Straits Times, p. 17. Retrieved from NewspaperSG.
+Jumabhoy, R. (1982, August 7). The spice trade article and my family. *The Straits Times*, p. 17. Retrieved from NewspaperSG.
+
 Raffles Place was converted to house an underground carpark in 1961 and became a pedestrian zone in 1972. See National Library Board, 2018.
+
 Sam, J. (1985, February 24). Fiery start to 1830 lunar year. Singapore Monitor, p. 2. Retrieved from NewspaperSG.
+
 The kavadi is a semi-circular metal structure decorated with peacock feathers, flowers and palm leaves, which devotees carry during the Thaipusam procession, often in fulfilment of a vow. See Hindu Endowments Board. (2016). Thaipusam. Retrieved from Hindu Endowments Board website
+
 Soundararajan, A., & Sri Asrina Tanuri. (2016, October–December). Time-honoured temple design. BiblioAsia, 12 (3), 36–39, p. 36. Retrieved from BiblioAsia website.
 
 This was the Sri Sivan Temple at Dhoby Ghaut, which was relocated to Geylang East to make way for the MRT station in 1983. See Hindu Endowments Board. (2016). Sri Sivan Temple. Retrieved from Hindu Endowments Board website.
