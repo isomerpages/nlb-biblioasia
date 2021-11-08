@@ -112,23 +112,23 @@ Accompanied by families and well-wishers, and under the watchful eyes of minders
 
 [^1]:The person appointed at a mosque to lead and recite the call to prayer.
 
-[^2]:This would have been Masjid Moulana Mohamed Ali, which was established in two Market Street shophouses in the 1950s to serve Muslims working in the commercial centre. See Masjid Moulana Mohamed Ali. (2015). Retrieved from Masjid Moulana Mohamed Ali website.
+[^2]:This would have been Masjid Moulana Mohamed Ali, which was established in two Market Street shophouses in the 1950s to serve Muslims working in the commercial centre. See *Masjid Moulana Mohamed Ali*. (2015). Retrieved from Masjid Moulana Mohamed Ali website.
 
-[^3]:This was Bonham Building (now the site of UOB Plaza), the original headquarters of United Overseas Bank. See Lim, T.S. (2016, October– December). As good as gold: The making of a financial centre. BiblioAsia, 12 (3), 17–23, p. 21. Retrieved from BiblioAsia website.
+[^3]:This was Bonham Building (now the site of UOB Plaza), the original headquarters of United Overseas Bank. See Lim, T.S. (2016, October– December). [As good as gold: The making of a financial centre](http://www.nlb.gov.sg/biblioasia/2016/09/04/as-good-as-gold-the-making-of-a-financial-centre/#sthash.LvTVAyuu.dpbs). *BiblioAsia, 12* (3), 17–23, p. 21. Retrieved from BiblioAsia website.
 
 [^4]:Meaning “Water Bay” in Malay, Telok Ayer has become synonymous with Singapore’s Chinatown.
 
-[^5]:Grams refer to pulses such as black grams (used in South Indian staples such as idli and thosai), lentils and chickpeas.
+[^5]:Grams refer to pulses such as black grams (used in South Indian staples such as *idli* and *thosai*), lentils and chickpeas.
 
 [^6]:Saivites, who revere Lord Siva as the Supreme God, and Vaishnavites, who revere Lord Vishnu, form two major branches in the Hindu religion.
 
-[^7]:Early banks around Raffles Place such as Union Bank of Calcutta (1840); Chartered Mercantile Bank of India and China (1856); Chartered Bank of India, Australia and China (1861); Hongkong and Shanghai Banking Corporation (1877) and Asiatic Banking Corporation (1860s) would have provided finance mainly to large European trading houses. See National Library Board. (2018). Raffles Place written by Cornelius, Vernon. Retrieved from Singapore Infopedia website.
+[^7]:Early banks around Raffles Place such as Union Bank of Calcutta (1840); Chartered Mercantile Bank of India and China (1856); Chartered Bank of India, Australia and China (1861); Hongkong and Shanghai Banking Corporation (1877) and Asiatic Banking Corporation (1860s) would have provided finance mainly to large European trading houses. See National Library Board. (2018). *[Raffles Place](http://eresources.nlb.gov.sg/infopedia/articles/SIP_864_2004-12-30.html)* written by Cornelius, Vernon. Retrieved from Singapore Infopedia website.
 
-[^8]:It was reported that by 1867, “most of the Singapore opium trade passed through their (Chettiar) hands”. See Mahadevan, R. (1976). The pattern of enterprise of immigrant entrepreneurs in the overseas – A study of the Chettiars in Malaya 1880–1930. Proceedings of the Indian History Congress, 37, 446–456, pp. 448–449. Retrieved from JSTOR via NLB’s eResources website. 
+[^8]:It was reported that by 1867, “most of the Singapore opium trade passed through their (Chettiar) hands”. See Mahadevan, R. (1976). The pattern of enterprise of immigrant entrepreneurs in the overseas – A study of the Chettiars in Malaya 1880–1930. *Proceedings of the Indian History Congress, 37*, 446–456, pp. 448–449. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website. 
 
-[^9]:Chua, B.H., & Liu, G. (1989). The Golden Shoe: Building Singapore’s financial district. Singapore: Urban Redevelopment Authority. (Call no: RSING 711.5522095957 CHU)
+[^9]:Chua, B.H., & Liu, G. (1989). *[The Golden Shoe: Building Singapore’s financial district](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5390839)*. Singapore: Urban Redevelopment Authority. (Call no: RSING 711.5522095957 CHU)
 
-[^10]:Masjid Moulana Mohamed Ali moved to the basement of UOB Plaza after the trustees accepted an offer to accommodate the mosque after the bank acquired the Market Street shophouses for redevelopment. See Yang, W. (1981, February 21). Mosque in basement if offer taken. *The Straits Times*, p. 17. Retrieved from NewspaperSG.
+[^10]:Masjid Moulana Mohamed Ali moved to the basement of UOB Plaza after the trustees accepted an offer to accommodate the mosque after the bank acquired the Market Street shophouses for redevelopment. See Yang, W. (1981, February 21). [Mosque in basement if offer taken](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19810221-1.2.72). *The Straits Times*, p. 17. Retrieved from NewspaperSG.
 
 [^11]:Survey Department, Singapore. (1828). *[Plan of the Town of Singapore by Lieut Jackson](http://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f9926418-115c-11e3-83d5-0050568939ad)*. Retrieved from [National Archives of Singapore](http://www.nas.gov.sg/archivesonline) website.
 
