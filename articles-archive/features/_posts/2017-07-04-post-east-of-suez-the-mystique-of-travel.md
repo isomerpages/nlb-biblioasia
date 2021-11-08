@@ -114,7 +114,7 @@ Thankfully, these Grand Hotels established by the Messrs Sarkies and their relat
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Vol-13-issue-2/east-of-suez/kennie1.png">
-<b>Kennie Ting</b> is the Director of the Asian Civilisations Museum and Group Director of Museums at the National Heritage Board. He is the author of the book, "The Romance of the Grand Tour: 100 Years of Travel in South East Asia" which explores the colonial heritage of Southeast Asian port cities and the history of travel to the East.
+<b>Kennie Ting</b> is the Director of the Asian Civilisations Museum and Group Director of Museums at the National Heritage Board. He is the author of the book, <i>The Romance of the Grand Tour: 100 Years of Travel in South East Asia</i> which explores the colonial heritage of Southeast Asian port cities and the history of travel to the East.
 </div>
 
 <a href="/vol-13/issue-2/jul-sep-2017/"><center>Back to Issue</center></a>
@@ -139,7 +139,7 @@ Crawfurd, J. (1830). *[Journal of an embassy from the governor-general of India 
 
 Deakes, C., & Stanley, T. (2013). *A century of sea travel: Personal accounts from the steamship era*. UK: Seaforth Publishing. (Not available in NLB holdings)
 
-Du Perron, E. (1984). *[Country of origin](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=2940856)* (Het land van herkomst). Amherst: University of Massachusetts Press. (Call no.: RCLOS 839.3136219 PER)
+Du Perron, E. (1984). *[Country of origin](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=2940856)* (*Het land van herkomst*). Amherst: University of Massachusetts Press. (Call no.: RCLOS 839.3136219 PER)
 
 Duras, M. (1985). *[The lover](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=3320369)* (*L’Amant*). New York: Pantheon Books. (Call no.: RSEA 843.912 DUR)
 
@@ -151,7 +151,7 @@ Kipling, R. (1892). Mandalay. In R. Kipling. (1892), *Barrack-room ballads, and 
 
 Liu, G. (2006). *[Raffles Hotel](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12691300)*. Singapore: Editions Didier Millet. (Call no.: RSING q915.9570613 LIU-[TRA])
 
-Loti, P. (1999). *[A pilgrimage to Angkor](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12338945)* (Un pèlerin d’angkor). Chiang Mai: Silkworm Books, (Call no.: RSEA 915.9604 LOT-[TRA])
+Loti, P. (1999). *[A pilgrimage to Angkor](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12338945)* (*Un pèlerin d’angkor*). Chiang Mai: Silkworm Books, (Call no.: RSEA 915.9604 LOT-[TRA])
 
 Malraux, A. (1961). *The royal way (La voie royale)*. New York: Random House. (Not available in NLB holdings)
 
