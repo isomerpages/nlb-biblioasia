@@ -57,7 +57,7 @@ This is equally liberating as it clears the deck of senseless distractions, and 
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Vol-13-issue-2/fake-news/farish.png">
-	<b>Farish A. Noor</b> is Associate Professor at the S.Rajaratnam School of International Studies, Nanyang Technological University. He is a regular contributor to BiblioAsia.
+	<b>Farish A. Noor</b> is Associate Professor at the S.Rajaratnam School of International Studies, Nanyang Technological University. He is a regular contributor to <i>BiblioAsia</i>.
 </div>
 
 <a href="/vol-13/issue-2/jul-sep-2017/"><center>Back to Issue</center></a>
