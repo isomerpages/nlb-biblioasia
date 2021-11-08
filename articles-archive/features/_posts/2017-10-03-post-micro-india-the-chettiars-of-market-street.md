@@ -156,30 +156,30 @@ Accompanied by families and well-wishers, and under the watchful eyes of minders
 
 [^23]:Ministry of Culture. (1964, August 16). Transcript of the prime minister, Mr Lee Kuan Yew’s speech at the political study centre on 16th August, 1964 in connection with the seminar on “the concept of democracy” organised by the joint committee for radio courses [Speech]. Retrieved from National Archives of Singapore website.
 
-[^24]:Thinnappan & Vairavan, 2010, p. 25.
+[^24]:[Thinnappan & Vairavan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13740606), 2010, p. 25.
 
 [^25]:Lord Murugan, also known as Sri Thendayuthapani, is a son of Lord Siva and the principal deity at the Chettiars’ Temple. Over a 150-year period, the Chettiars are estimated to have built about 105 temples in Southeast Asia: 59 in Burma, 25 in Ceylon, 18 in Malay, and one each in Vietnam, Singapore and Medan.
 
-[^26]:National Library Board. (2016). Mohamed Mustafa and Samsudin Co Pte Ltd written by Nureza Ahmad & Noorainn Aziz. Retrieved from Singapore Infopedia website.
+[^26]:National Library Board. (2016). *[Mohamed Mustafa and Samsudin Co Pte Ltd](http://eresources.nlb.gov.sg/infopedia/articles/SIP_442_2005-02-03.html)* written by Nureza Ahmad & Noorainn Aziz. Retrieved from Singapore Infopedia website.
 
-[^27]:See Boo, K. (1999, September 24). End of an era. The Straits Times, p. 47. Retrieved from NewspaperSG.
+[^27]:See Boo, K. (1999, September 24). [End of an era](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19990924-1.2.57.3). *The Straits Times*, p. 47. Retrieved from NewspaperSG.
 
 [^28]:Tat Lee Bank opened at Market Street in 1974 and merged with Keppel Bank in 1998.
 
-[^29]:T. F. Hwang takes you down memory. (1988, June 25). The Straits Times, p. 22; Colony cavalcade. (1936, April 26). The Straits Times, p. 2. Retrieved from NewspaperSG.
+[^29]:[T. F. Hwang takes you down memory](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880625-1.2.34.4). (1988, June 25). *The Straits Times*, p. 22; [Colony cavalcade](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360426-1.2.23). (1936, April 26). *The Straits Times*, p. 2. Retrieved from NewspaperSG.
 
-[^30]:Materials used in constructing Nunes and Medeiros. (1937, October 5). The Straits Times, p. 2. Retrieved from NewspaperSG; Davison, J. (2017, Jul–Sep). Swan & Maclaren: Pioneers of Modernist architecture. BiblioAsia, 13 (2), 24–31, p. 28. Retrieved from BiblioAsia website.
+[^30]:[Materials used in constructing Nunes and Medeiros](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19371005-1.2.158.7). (1937, October 5). *The Straits Times*, p. 2. Retrieved from NewspaperSG; Davison, J. (2017, Jul–Sep). [Swan & Maclaren: Pioneers of Modernist architecture](http://www.nlb.gov.sg/biblioasia/2017/07/06/swan-maclaren-pioneers-of-modernist-architecture/#sthash.e6oRmBfe.dpbs). *BiblioAsia, 13* (2), 24–31, p. 28. Retrieved from BiblioAsia website.
 
 [^31]:Lee & Lee. (2017). Retrieved from Lee & Lee website.
 
-[^32]:Jumabhoy, R. (1982, August 7). The spice trade article and my family. *The Straits Times*, p. 17. Retrieved from NewspaperSG.
+[^32]:Jumabhoy, R. (1982, August 7). [The spice trade article and my family](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820807-1.2.69.2). *The Straits Times*, p. 17. Retrieved from NewspaperSG.
 
-[^33]:Raffles Place was converted to house an underground carpark in 1961 and became a pedestrian zone in 1972. See National Library Board, 2018.
+[^33]:Raffles Place was converted to house an underground carpark in 1961 and became a pedestrian zone in 1972. See [National Library Board](https://eresources.nlb.gov.sg/infopedia/articles/SIP_864_2004-12-30.html), 2018.
 
-[^34]:Sam, J. (1985, February 24). Fiery start to 1830 lunar year. Singapore Monitor, p. 2. Retrieved from NewspaperSG.
+[^34]:Sam, J. (1985, February 24). [Fiery start to 1830 lunar year](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19850224-1.2.46.5.1). *Singapore Monitor*, p. 2. Retrieved from NewspaperSG.
 
-[^35]:The kavadi is a semi-circular metal structure decorated with peacock feathers, flowers and palm leaves, which devotees carry during the Thaipusam procession, often in fulfilment of a vow. See Hindu Endowments Board. (2016). Thaipusam. Retrieved from Hindu Endowments Board website
+[^35]:The kavadi is a semi-circular metal structure decorated with peacock feathers, flowers and palm leaves, which devotees carry during the Thaipusam procession, often in fulfilment of a vow. See Hindu Endowments Board. (2016). *Thaipusam*. Retrieved from Hindu Endowments Board website
 
-[^36]:Soundararajan, A., & Sri Asrina Tanuri. (2016, October–December). Time-honoured temple design. BiblioAsia, 12 (3), 36–39, p. 36. Retrieved from BiblioAsia website.
+[^36]:Soundararajan, A., & Sri Asrina Tanuri. (2016, October–December). [Time-honoured temple design](http://www.nlb.gov.sg/biblioasia/2016/09/07/time-honoured-temple-design/). *BiblioAsia, 12* (3), 36–39, p. 36. Retrieved from BiblioAsia website.
 
-[^37]:This was the Sri Sivan Temple at Dhoby Ghaut, which was relocated to Geylang East to make way for the MRT station in 1983. See Hindu Endowments Board. (2016). Sri Sivan Temple. Retrieved from Hindu Endowments Board website.
+[^37]:This was the Sri Sivan Temple at Dhoby Ghaut, which was relocated to Geylang East to make way for the MRT station in 1983. See Hindu Endowments Board. (2016). *Sri Sivan Temple*. Retrieved from Hindu Endowments Board website.
