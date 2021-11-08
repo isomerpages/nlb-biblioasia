@@ -26,7 +26,7 @@ However, it was not until 1920 that a qualified librarian, James Johnston, was r
 
 The Junior Library and the Malaysia Room were likely factors that influenced locals to consider taking up a career in librarianship. However, Padma’s interests in books and reading were likely nurtured from an early age at home.
 
-#### **Family Influence**
+**Family Influence**
 
 Padma Daniel was born on 31 August 1919, the eldest child of George O. Daniel and Harriet Fletcher, ethnic Indians from Travancore, India. George’s interest in books likely began as a young boy when his active involvement at church in India led him to meet an English expatriate with an extensive home library.[^6]
 
@@ -36,7 +36,7 @@ He continued this interest in books, mainly Christian publications, first workin
 
 In Singapore, he also managed the Book Depot – which in time became informally known as Daniel’s Depot – a supplier of Christian books as well as books “both ancient and modern”.[^9] Early advertisements for the Book Depot included listings of books for boys and girls, dictionaries, art picture books and novels.[^10] Padma likely had privileged access to many of these titles and invariably developed a love for reading.
 
-#### **The Junior Library**
+**The Junior Library**
 
 When the Junior Library first opened on 21 July 1923, it was housed in a large room on the ground floor next to the Raffles Library’s Public Room.
 
@@ -50,7 +50,7 @@ In truth, a survey of the reading tastes of children at the Junior Library in 19
 
 Popular children’s magazines such as *The Children’s Newspaper*, *The Boy’s Own Paper* and *Meccano Magazine* took up to a month to be shipped from England, and the original cost of two pence apiece would be raised to 12 cents upon arrival. Those in the know would purchase cheaper, secondhand copies or unsold editions but it was still cheaper to get hold of these popular reads at the Junior Library.
 
-#### **Early Student Writings**
+**Early Student Writings**
 
 The growing interest in reading among students sparked an interest in writing. A regular column for older boys titled “Boys’ Corner” made its appearance in *The Malaya Tribune* in 1930 with contributions from the boys at Raffles Institution, St Joseph’s Institution and Anglo-Chinese School.[^14]
 
@@ -60,7 +60,7 @@ Not to be left out, there were calls for a “Girls’ Corner” in early 1931 b
 
 After several appeals, an attempt was made in the 9 May 1931 edition of *The Malaya Tribune* with the publication of an article, “To Bob or not to Bob”, by a writer named “Evelyn” and the promise of a weekly Wednesday column if successful.[^17] By 20 May, the “Girls’ Corner” had become a regular feature. One contributor suggested that girls leave the “high-brow” subject of fashion and love to the “Women’s Corner” and concentrate on games, arts and other topics that would appeal more to a modern schoolgirl.[^18] Invariably, many of the contributors to the Girls’ Corner were from the Raffles Girls’ School, some of whom were Padma’s contemporaries.
 
-#### **The Challenges**
+**The Challenges**
 
 Despite their vociferous voices, girls remained in the minority, both as contributors to newspaper columns and as patrons of the library. When the Junior Library first started in 1923, there were 365 subscribers with 278 of them being boys, mainly students of nearby schools.[^19] A decade later in 1933, the number of subscribers had grown to more than 1,000, although girls only constituted a small fraction at 12 percent. Most of the female subscribers were students of Raffles Girls’ School, where Padma studied.
 
