@@ -38,7 +38,7 @@ Clyde Elliott was the first Hollywood director to shoot a feature film in Singap
 **[An Unusual Ambition: The Early Librarians](/vol-13/issue-2/jul-sep-2017/an-unusual-ambition)** <br>
 *Bonny Tan* traces the careers of little-known librarians, Padma Daniel and her mentor Kate Edith Savage-Bailey, and the circumstances that led to their career choices in pre-war Singapore. [(PDF)](/files/pdf/vol-13/v13-issue2_EarlyLibrarians.pdf)
 
-**[தமிழ் முரசில் 1936-1960 வரை வெளிவந்த சிறுகதைகள் – ஒரு பார்வ](/vol-13/issue-2/jul-sep-2017/sg-self-goverance)ை** <br>
+**[தமிழ் முரசில் 1936-1960 வரை வெளிவந்த சிறுகதைகள் – ஒரு பார்வ](/vol-13/issue-2/jul-sep-2017/short-stories-Tamil)ை** <br>
 *Sundari Balasubramaniam* reviews a selection of short stories published in *Tamil Murasu* during the tumultuous years from 1936 to 1960 when Singapore transitioned from British rule and Japanese Occupation to self-governance. [(PDF)](/files/pdf/vol-13/v13-issue2_Tamil.pdf)
 
 **[Heaven, Earth and Brotherhood](/vol-13/issue-2/jul-sep-2017/heaven-earth-brotherh)** <br>
