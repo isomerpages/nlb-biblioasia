@@ -24,7 +24,7 @@ The <i>Singapore Diocesan Quarterly Leaflet</i>, Vol. 1, No. 2, May 1939. <i>Ima
 
 #### **The Straits Settlements Period**
 
-After Singapore, Malacca and Penang were brought together to form the Straits Settlements in 1826 and the colonial capital was established in Singapore, the Anglican church received its first fulltime Chaplain, Reverend Robert Burns. Subsequently, a year after the control of the Straits Settlements was transferred from Bengal (in India) to the Colonial Office in Britain, the first Colonial Chaplain, Reverend John Beckles, was appointed in 1868.
+After Singapore, Malacca and Penang were brought together to form the Straits Settlements in 1826 and the colonial capital was established in Singapore, the Anglican church received its first full-time Chaplain, Reverend Robert Burns. Subsequently, a year after the control of the Straits Settlements was transferred from Bengal (in India) to the Colonial Office in Britain, the first Colonial Chaplain, Reverend John Beckles, was appointed in 1868.
 
 The centre of authority for the Anglican church moved gradually from Calcutta to Southeast Asia when a United Diocese of Singapore, Labuan and Sarawak was formed in 1881. In the late 19th century, churches were increasingly established across the Peninsula, including Taiping (1887), Kuala Lumpur (1887) and Seremban (1893).[^1] This was a natural consequence as the Malay States opened up with the signing of the Pangkor Treaty in 1874 and the British started to establish themselves commercially, in businesses and plantations, in the Peninsula. During this time, local Tamils and Chinese from various dialect groups began joining the Anglican church.
 
