@@ -95,7 +95,7 @@ Sayembara-sayembara puisi seperti Anugerah Pena Emas yang dianjurkan Majlis Seni
 <span style="display: block; text-align: center;">“Berapa harga adil dan benar<br>
 Tiada boleh ditimbang tawar<br>
 Engkau yang terus tegar<br>
-Ajar semua untuk tidak gentar”.[^13]</span>
+Ajar semua untuk tidak gentar.”[^13]</span>
 
 <p align="right">– Noridah Kamari</p>
 
@@ -105,7 +105,7 @@ Jangan berhenti separuh jalan.<br>
 <br>
 Biar sampai ke hujung jalan,<br>
 Sampai matlamat jalan kesampaian,<br>
-Atau sampai tak boleh jalan”.[^14]</span>
+Atau sampai tak boleh jalan.”[^14]</span>
 
 <p align="right">– Muhammad Ariff Ahmad</p>
 
