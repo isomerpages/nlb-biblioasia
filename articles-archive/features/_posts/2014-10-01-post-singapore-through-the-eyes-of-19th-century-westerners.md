@@ -34,7 +34,7 @@ The notion of a well-governed tropical colony in the East teased the Western aud
 
 Reverting to the glimpse of the jungle which the pencil of the artist has afforded us we perceive how very beautiful are the forms which Nature assumes in those regions. The wealth of the vegetable kingdom there is endless...Everywhere, a luxuriant and hardy under-growth, and endless families of creepers, occupy the spaces between the trees, and present to the eye a sea of undulating blossoms, of brilliant hues and overpowering fragrance, or shoot aloft trunk and branches, and stretch in festoons, or depend like lamps of infinitely brilliant flowers.
 
-<div style="text-align:right;">–Captain Charles Bethune, from an 1840 China expedition[^22]</div>
+<span style="text-align:right;">–Captain Charles Bethune, from an 1840 China expedition[^22]</span>
 
 The tropical diversity and overpowering greenery[^23] fuelled the promise of agriculture, muting the darker reality that the jungles were hosts to tropical diseases and other perils. Early colony residents found these dangers real enough to stay away, with many preferring to pursue gains from trade “to the exclusion of her agriculture”.[^24] Extending the economic frontier from the town limits to the wild interiors had few takers as jungle-clearing and nurturing crops were a herculean task plagued by high outlays and slow payouts. Regardless, travel writers peddled their faith in the virgin soil, encouraging Europeans to fill the enterprise void left behind by the original inhabitants:[^25]
 
