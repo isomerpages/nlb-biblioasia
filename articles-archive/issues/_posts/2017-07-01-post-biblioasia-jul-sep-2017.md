@@ -26,7 +26,7 @@ Sunny Ang, Mimi Wong, Adrian Lim and John Martin Scripps are some of the most co
 **[Swan & Maclaren: Pioneers of Modernist Architecture](/vol-13/issue-2/jul-sep-2017/swan-and-maclaren)** <br>
 Singapore’s oldest architectural firm may be better known for designing the Raffles Hotel but it’s their 1930s Modernist buildings that are truly revolutionary. *Julian Davison* has the details. [(PDF)](/files/pdf/vol-13/v13-issue2_SwanMaclaren.pdf)
 
-**[Sci-Fi in Singapore:1970s to 1990s](/vol-13/issue-2/jul-sep-2017/sci-fi-in-singapore)** <br>
+**[Sci-Fi in Singapore: 1970s to 1990s](/vol-13/issue-2/jul-sep-2017/sci-fi-in-singapore)** <br>
 The sci-fi frenzy took off in Singapore in 1978 when *Star Wars* was screened at cinemas here. *Nadia Arianna Bte Ramli* looks at sci-fi works produced between 1970s and 1990s. [(PDF)](/files/pdf/vol-13/v13-issue2_SciFi.pdf)
 
 **[Alam Puisi Melayu Singapura Selepas Merdeka](/vol-13/issue-2/jul-sep-2017/alam-puisi-singapura)** <br>
