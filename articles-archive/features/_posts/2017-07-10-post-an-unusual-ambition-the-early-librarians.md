@@ -134,7 +134,7 @@ Both Padma’s catalogue and Kate’s *The Jungle Omnibus* are available on micr
 
 [^11]:Johnston, J. (1930, February 21). [Supplementing juvenile education](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19300221-1.2.97), *The Singapore Free Press and Mercantile Advertiser*, p. 1. Retrieved from NewspaperSG.
 
-[^12]:[‘No heavy stuff’, say Singapore readers](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/sundaytribune19381204-1.2.54.7). (1938, December 4). *Sunday Tribune* (Singapore), p. 13. Retrieved from NewspaperSG.[Note:  Annuals were popular children’s publications that were published once a year.]
+[^12]:[‘No heavy stuff’, say Singapore readers](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/sundaytribune19381204-1.2.54.7). (1938, December 4). *Sunday Tribune (Singapore)*, p. 13. Retrieved from NewspaperSG. [Note:  Annuals were popular children’s publications that were published once a year.]
 
 [^13]:The Onlooker. (1936, September 13) [Mainly about Malayans](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360913-1.2.117). *The Straits Times*, p. 16. Retrieved from NewspaperSG. 
 
