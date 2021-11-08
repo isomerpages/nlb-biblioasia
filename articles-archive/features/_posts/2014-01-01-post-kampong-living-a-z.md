@@ -58,7 +58,7 @@ Often, a common tongue bridged many cultural gaps. in those days, it was common 
 
 #### **Five-Stones**
 
-This was a tossing game, geared towards girls with delicate fingers and usually played sitting cross-legged on the floor. The “stones” — handmade by the girls themselves — were actually small pyramidshaped sachets simply sewn from scraps of cloth and filled with green beans, sand or rice grains. Instead of five, some used seven stones. The game is played by “throwing [the stones] up into the air and catching them back in some form of patterned movements.”[^23] Each stage has a particular pattern and increases in complexity as the player progresses in the game.
+This was a tossing game, geared towards girls with delicate fingers and usually played sitting cross-legged on the floor. The “stones” — handmade by the girls themselves — were actually small pyramid shaped sachets simply sewn from scraps of cloth and filled with green beans, sand or rice grains. Instead of five, some used seven stones. The game is played by “throwing [the stones] up into the air and catching them back in some form of patterned movements.”[^23] Each stage has a particular pattern and increases in complexity as the player progresses in the game.
 
 <div style="background-color: white;">
 <br/>
@@ -120,7 +120,7 @@ Unlicensed hawkers outside the Jalan Eunos Wet Market in 1958. <i>MITA collectio
 
 #### **Open-Air Cinemas = Open Skies Treatment**
 
-Children who lived in rural areas were able to enjoy the movies thanks to openair cinemas. It cost 50 cents to secure a (wooden) seat. Many children caught reruns after school and when it rained, people would huddle to the side for shelter. One movie-goer remembered “patronising the cheap open air cinema called Peking Theatre located opposite the present Macpherson market... [movies were only] 5 cents but [one had] to endure the mosquitoes and there were no refunds if the show was cancelled due to heavy rain or power failure.”[^32]
+Children who lived in rural areas were able to enjoy the movies thanks to open air cinemas. It cost 50 cents to secure a (wooden) seat. Many children caught reruns after school and when it rained, people would huddle to the side for shelter. One movie-goer remembered “patronising the cheap open air cinema called Peking Theatre located opposite the present Macpherson market... [movies were only] 5 cents but [one had] to endure the mosquitoes and there were no refunds if the show was cancelled due to heavy rain or power failure.”[^32]
 
 #### **Police and Thief**
 
@@ -194,7 +194,7 @@ Women washing laundry at a common standpipe, circa 1960s. <i>Courtesy of Nationa
 
 #### **Yeh Yeh (Zero-Point)**
 
-<i>Yeh yeh</i> requires a rope that is made by stringing rubber bands together. The aim is to jump over the rope as it is hoisted higher and higher by two other players each holding one end of the rope. At the start of the game, the rope is laid flat on the ground with players exclaming “zero-point” as they jump over. Players then jump across at increasingly “varying heights beginning with the ankle and ending with the head. To compete further, an ‘inch’ above the head is added. The rule of thumb is no part of [your] body can touch the rubber rope. Once any part of [the] body accidently touch[es] the rope, the jumper <i>‘mati’</i> (‘dies’) and the next person has to jump.”[^51]
+<i>Yeh yeh</i> requires a rope that is made by stringing rubber bands together. The aim is to jump over the rope as it is hoisted higher and higher by two other players each holding one end of the rope. At the start of the game, the rope is laid flat on the ground with players exclaiming “zero-point” as they jump over. Players then jump across at increasingly “varying heights beginning with the ankle and ending with the head. To compete further, an ‘inch’ above the head is added. The rule of thumb is no part of [your] body can touch the rubber rope. Once any part of [the] body accidentally touch[es] the rope, the jumper <i>‘mati’</i> (‘dies’) and the next person has to jump.”[^51]
 
 #### **Zero-Watt Nights: Sleeping with the Enemy**
 
@@ -205,7 +205,7 @@ However, many unfortunate villagers became victims of fires as a result of accid
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> 
 <b>OH BEY SOM!</b>
 <br><br>
-Oh bey som<i> was a means by which teams or individual players were selected. Player would shout "oh bey som!" and simultaneously stick out their hands with their palms facing either up or down. All who had their palms facing in the same direction would be part of one team, and the rest on the other. A player would be singled out to be the pasang (cathcher) if he or she was the only person with the palm facing a different direction from the rest of the group. Otherwise, the players would continue to </i>oh bey som<i>, eliminating the majority until a single player remained.</i></span>
+Oh bey som<i> was a means by which teams or individual players were selected. Player would shout "oh bey som!" and simultaneously stick out their hands with their palms facing either up or down. All who had their palms facing in the same direction would be part of one team, and the rest on the other. A player would be singled out to be the pasang (catcher) if he or she was the only person with the palm facing a different direction from the rest of the group. Otherwise, the players would continue to </i>oh bey som<i>, eliminating the majority until a single player remained.</i></span>
 
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> 
 <b>THE TAJAM BATU MAN</b>
