@@ -9,7 +9,7 @@ layout: post
 <img src="/images/vol-10-issue-3/leekiplin/Lee_Kip_Lin.jpg">
 Lee Kip Lin in the early 1960s. <i>Courtesy of Mrs Lee Li-Ming.</i></div>
 
-The late Lee Kip Lin was a man who wore manyhats as student, educator and mentor, but isperhaps best remembered for his passion forconserving Singapore’s pre-war architecturein his writings and teaching. 
+The late Lee Kip Lin was a man who wore many hats as student, educator and mentor, but is perhaps best remembered for his passion for conserving Singapore’s pre-war architecture in his writings and teaching. 
 
 Despite his privileged upbringing and high standing in his profession as both architect and university lecturer, Lee was unassuming in his relationships with colleagues and students alike. His love for the local built landscape led him to meticulously photograph Singapore’s urban environment, street after street, eventually amassing not only photographs, but a precious collection of maps, postcards and other documents about Singapore – a collection his family generously donated to the National Library Board in 2009.
 
