@@ -130,31 +130,31 @@ Accompanied by families and well-wishers, and under the watchful eyes of minders
 
 [^10]:Masjid Moulana Mohamed Ali moved to the basement of UOB Plaza after the trustees accepted an offer to accommodate the mosque after the bank acquired the Market Street shophouses for redevelopment. See Yang, W. (1981, February 21). Mosque in basement if offer taken. *The Straits Times*, p. 17. Retrieved from NewspaperSG.
 
-[^11]:Survey Department, Singapore. (1828). Plan of the Town of Singapore by Lieut Jackson. Retrieved from National Archives of Singapore website.
+[^11]:Survey Department, Singapore. (1828). *[Plan of the Town of Singapore by Lieut Jackson](http://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f9926418-115c-11e3-83d5-0050568939ad)*. Retrieved from [National Archives of Singapore](http://www.nas.gov.sg/archivesonline) website.
 
-[^12]:Lee, K.L. (1983). Telok Ayer Market: A historical account of the market from the founding of the settlement of Singapore to the present time (unpaged). Singapore: Archives & Oral History Dept. (Call no.: RSING 725.21095957 LEE)
+[^12]:Lee, K.L. (1983). *[Telok Ayer Market: A historical account of the market from the founding of the settlement of Singapore to the present time](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081045)* (unpaged). Singapore: Archives & Oral History Dept. (Call no.: RSING 725.21095957 LEE)
 
-[^13]:Sandhu, K.S., & Sandhu, K.K. (1969, September). Some aspects of Indian settlement in Singapore, 1819–1969. Journal of Southeast Asian History, 10 (2), 193–201, p. 197. Retrieved from JSTOR via NLB’s eResources website.
+[^13]:Sandhu, K.S., & Sandhu, K.K. (1969, September). Some aspects of Indian settlement in Singapore, 1819–1969. *Journal of Southeast Asian History, 10* (2), 193–201, p. 197. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
 
-[^14]:Savage, V.R., & Yeoh, B.S.A. (2013). Singapore street names: A study of toponymics (pp. 248– 250). Singapore: Marshall Cavendish Editions. (Call no.: RSING 915.9570014 SAV) 
+[^14]:Savage, V.R., & Yeoh, B.S.A. (2013). *[Singapore street names: A study of toponymics](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200123850)* (pp. 248– 250). Singapore: Marshall Cavendish Editions. (Call no.: RSING 915.9570014 SAV) 
 
-[^15]:Thinappan, S.P., & Vairavan, S.N. (2010). Nagarathars in Singapore (p. 15). Singapore: Navaso. (Call no.: RSING 305.89141105957 THI)
+[^15]:Thinappan, S.P., & Vairavan, S.N. (2010). *[Nagarathars in Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13740606)* (p. 15). Singapore: Navaso. (Call no.: RSING 305.89141105957 THI)
 
-[^16]:Muthiah, S., et al. (2000). The Chettiar heritage (p. vii). Chennai: The Chettiar Heritage. (Call no.: R 954.089 CHE)
+[^16]:Muthiah, S., et al. (2000). *[The Chettiar heritage](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12101293)* (p. vii). Chennai: The Chettiar Heritage. (Call no.: R 954.089 CHE)
 
-[^17]:Sandhu & Sandhu, Sep 1969, p. 199. The extent of loans to Malay royalty is illustrated by Winstedt who records that “in 1862 being heavily indebted to a Kavana Chana Shellapa Chetty, Sultan Ali [of Singapore] gave this Tamil money-lender the right to sell Muar to the British or the Temenggong of Johor.” See Winstedt, R.O. (1932).  A history of Johore: 1365–1895 A. D (p. 113). Singapore: Singapore Printers, Ltd. (Call no.: RRARE 959.5142 WIN; Microfilm no.: NL 1577)
+[^17]:Sandhu & Sandhu, Sep 1969, p. 199. The extent of loans to Malay royalty is illustrated by Winstedt who records that “in 1862 being heavily indebted to a Kavana Chana Shellapa Chetty, Sultan Ali [of Singapore] gave this Tamil money-lender the right to sell Muar to the British or the Temenggong of Johor.” See Winstedt, R.O. (1932).  *[A history of Johore: 1365–1895 A. D](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4982685)* (p. 113). Singapore: Singapore Printers, Ltd. (Call no.: RRARE 959.5142 WIN; Microfilm no.: NL 1577)
 
-[^18]:Vibuthi is the holy ash applied on the foreheads of Saivite Hindus to honour Lord Siva.
+[^18]:*Vibuthi* is the holy ash applied on the foreheads of Saivite Hindus to honour Lord Siva.
 
 [^19]:Sandhu & Sandhu, Sep 1969, p. 199.
 
-[^20]:Thinnappan & Vairavan, 2010, p. 33.
+[^20]:[Thinnappan & Vairavan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13740606), 2010, p. 33.
 
-[^21]:Shylock, an avaricious Jewish moneylender, is a character in William Shakespeare’s play, The Merchant of Venice.
+[^21]:Shylock, an avaricious Jewish moneylender, is a character in William Shakespeare’s play, *The Merchant of Venice*.
 
-[^22]:Adas, M. (1974, May). Immigrant Asians and the economic impact of European imperialism: The role of the South Indian Chettiars in British Burma. Journal of Asian Studies, 33 (3), 385–401, p. 400. Retrieved from JSTOR NLB’s eResources website.
+[^22]:Adas, M. (1974, May). Immigrant Asians and the economic impact of European imperialism: The role of the South Indian Chettiars in British Burma. *Journal of Asian Studies, 33* (3), 385–401, p. 400. Retrieved from JSTOR NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
 
-[^23]:Ministry of Culture. (1964, August 16). Transcript of the prime minister, Mr Lee Kuan Yew’s speech at the political study centre on 16th August, 1964 in connection with the seminar on “the concept of democracy” organised by the joint committee for radio courses [Speech]. Retrieved from National Archives of Singapore website.
+[^23]:Ministry of Culture. (1964, August 16). *[Transcript of the prime minister, Mr Lee Kuan Yew’s speech at the political study centre on 16th August, 1964 in connection with the seminar on “the concept of democracy” organised by the joint committee for radio courses](https://www.nas.gov.sg/archivesonline/speeches/record-details/72f820c8-115d-11e3-83d5-0050568939ad)* [Speech]. Retrieved from National Archives of Singapore website.
 
 [^24]:[Thinnappan & Vairavan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13740606), 2010, p. 25.
 
