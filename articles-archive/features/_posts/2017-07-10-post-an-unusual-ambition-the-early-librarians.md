@@ -46,7 +46,7 @@ The Junior Library had a collection of more than 1,000 books, among which were G
 
 “It might be of interest to some to know that many of the local children whether Malay, Chinese, or Indian are just as ready to read and enjoy the tales by these authors with the same enthusiasm as boys in England….”[^11]
 
-In truth, a survey of the reading tastes of children at the Junior Library in 1938 revealed a diet of mainly fairy tales and annuals.[^12] A regular column in *The Straits Times* on 13 September 1936, had this to say: “One of the curious things about the growth of English education in Malaya is the popularity of the ‘twopenny weeklies’ among the Asiatic”.[^13]
+In truth, a survey of the reading tastes of children at the Junior Library in 1938 revealed a diet of mainly fairy tales and annuals.[^12] A regular column in *The Straits Times* on 13 September 1936, had this to say: “One of the curious things about the growth of English education in Malaya is the popularity of the ‘twopenny weeklies’ among the Asiatic.”[^13]
 
 Popular children’s magazines such as *The Children’s Newspaper*, *The Boy’s Own Paper* and *Meccano Magazine* took up to a month to be shipped from England, and the original cost of two pence apiece would be raised to 12 cents upon arrival. Those in the know would purchase cheaper, secondhand copies or unsold editions but it was still cheaper to get hold of these popular reads at the Junior Library.
 
@@ -72,9 +72,9 @@ However, there remained other barriers for both boys and girls in joining the li
 
 It was against this backdrop that Padma Daniel first emerged on the library scene. Much of what is known of Padma has been gleaned from her father’s letters of introduction and appeal for employment. By 1 January 1936, the request for employment had been approved and Padma began her volunteer position as an unpaid apprentice at the Raffles Library.
 
-By this time, the librarian James Johnston had retired and in his place was Kate Edith Savage-Bailey. She had arrived in Malaya in 1910 with her husband Arnold Savage-Bailey, a well-known solicitor who became partner at a law firm in Kuala Lumpur, and later in Penang. An unfortunate accident led to his sudden demise on 1 April 1935.[^21]
+<div style="background-color: white;"><img style="width:520px" src="/images/Vol-13-issue-2/an-unusual-ambition/06_unusualambition.jpg">George Daniel’s letter dated 11 December 1935 to the Director of the Raffles Library and Museum asking if the Raffles Library would consider admitting his daughter, Padma Daniel, as an unpaid apprentice. The application was successful and Padma began her apprenticeship at the Raffles Library in January 1936. <i>Image source: Colonial Secretary Office paper 6414 dated 1938 [CSO 6414/1938].</i></div>
 
-<div style="background-color: white;"><img style="width:300px" src="/images/Vol-13-issue-2/an-unusual-ambition/05_unusualambition.jpg">Kate Edith Savage-Bailey, librarian at the Raffles Library, published her children’s book, The Jungle Omnibus, a collection of four short stories about Malayan animals, in 1936. <i>The Straits Times, 3 December 1936, p. 1.</i></div>
+By this time, the librarian James Johnston had retired and in his place was Kate Edith Savage-Bailey. She had arrived in Malaya in 1910 with her husband Arnold Savage-Bailey, a well-known solicitor who became partner at a law firm in Kuala Lumpur, and later in Penang. An unfortunate accident led to his sudden demise on 1 April 1935.[^21]
 
 Kate chose to remain in Malaya after the tragedy, moving to Singapore to take up the position of temporary librarian at the Raffles Library on 13 September 1935.[^22] When Padma joined the library, Kate had only served a mere four months. Padma was about four years older than Kate’s youngest daughter, Dulcie Gray. Besides being Padma’s supervisor, Kate may have been a mother-figure who inspired Padma to further her reading and research interests. Padma would have witnessed Kate introducing major changes at the Raffles Library during her first year of service.
 
@@ -82,11 +82,11 @@ This included opening the Raffles Library half an hour earlier at 8.30 am.[^23] 
 
 Outside library duties, Kate regularly contributed articles to *The Straits Times* on topics relating to Malaya, such as living and travelling in Malaya, on local domestic help, and Malayan architecture. She republished her children’s book, *Squee- umph!! A Malayan Elephant* (1929), in 1934, and released *The Jungle Omnibus*, a collection of four short stories about Malayan animals, in 1936. *The Malaya Tribune* praised the book for its “pure and fluent” style and commented that “it is the type of book which will give delight as well as instruction, and it should be in the possession of all children in this country who are being taught English”.[^25] Between March and June 1937, she gave frequent talks on the radio, most of which were readings of her children’s books.
 
+<div style="background-color: white;"><img style="width:300px" src="/images/Vol-13-issue-2/an-unusual-ambition/05_unusualambition.jpg">Kate Edith Savage-Bailey, librarian at the Raffles Library, published her children’s book, <i>The Jungle Omnibus</i>, a collection of four short stories about Malayan animals, in 1936. <i>The Straits Times, 3 December 1936, p. 1.</i></div>
+
 #### **Padma’s Legacy**
 
 Having served three years, Kate went on a year’s furlough from September 1938 until July 1939, during which time the Raffles Library was placed under the charge of Mrs. C. B. Rea.[^26] Meanwhile, Padma was confirmed as a Junior Assistant Librarian on 1 October 1938, having passed her Library Association examination in December the previous year. Whilst preparing for her next examination in December 1940, Padma continued with her two-year correspondence course on top of her work at the library. Her father had written in to ask if a paid position as Junior Librarian would be offered to her upon completion of the full course, but the reply is not known.[^27]
-
-<div style="background-color: white;"><img style="width:520px" src="/images/Vol-13-issue-2/an-unusual-ambition/06_unusualambition.jpg">George Daniel’s letter dated 11 December 1935 to the Director of the Raffles Library and Museum asking if the Raffles Library would consider admitting his daughter, Padma Daniel, as an unpaid apprentice. The application was successful and Padma began her apprenticeship at the Raffles Library in January 1936. <i>Image source: Colonial Secretary Office paper 6414 dated 1938 [CSO 6414/1938].</i></div>
 
 In 1938, Tan Soo Chye, a local graduate of Raffles College, filled the newly created position of archivist at the Raffles Museum. While his time was spent organising the archives, he also began to work on “a paper on the location, nature and condition of the Straits Settlements’ archives”.[^28]
 
@@ -105,7 +105,7 @@ Both Padma’s catalogue and Kate’s *The Jungle Omnibus* are available on micr
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Vol-13-issue-2/an-unusual-ambition/Bonny1.png">
-<b>Bonny Tan</b> is a former Senior Librarian at the National Library, Singapore. She currently resides in Vietnam with her family and is a regular contributor to <i>BiblioAsia</i> magazine.
+<b>Bonny Tan</b> is a former Senior Librarian at the National Library, Singapore. She currently resides in Vietnam with her family and is a regular contributor to <i>BiblioAsia</i>.
 </div>
 
 <a href="/vol-13/issue-2/jul-sep-2017/"><center>Back to Issue</center></a>
