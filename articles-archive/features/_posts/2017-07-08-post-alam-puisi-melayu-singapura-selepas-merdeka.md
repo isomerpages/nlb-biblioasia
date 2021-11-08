@@ -6,7 +6,9 @@ layout: post
 ---
 #### Singapore’s Malay publishing scene was thrown into disarray when the country exited Malaysia in 1965. **Juffri Bin Supa’at** charts the development of Malay poetry in Singapore since Independence.
 
-<span style="display: block; text-align: center;"><i>“Ahli bahasa<br>
+<div style="background-color: white;"><br><img style="width:500px" src="/images/Vol-13-issue-2/alam-puisi-melayu-singapura/01_puisi.png">Sebahagian karya-karya puisi penulis Singapura yang telah diterbitkan di dalam dan luar negara. <i>Gambar: Lembaga Perpustakaan Negara, Singapura.</i></div>
+
+<span style="display: block; text-align: center;">“Ahli bahasa<br>
 yang memakai akal<br>
 memikirkan puisi<br>
 adalah tenunan<br>
@@ -27,7 +29,7 @@ lengkap dalam fikiran<br>
 sehingga tiada sehembus pun<br>
 nafas terasa<br>
 kerana ketiadaan suara manusia<br>
-yang menuliskannya.”[^1]</i></span>
+yang menuliskannya.”[^1]</span>
 
 <p align="right">– Masuri S.N.</p>
 
@@ -35,22 +37,20 @@ Peranan Singapura dalam sastera Melayu klasik dan moden amat penting dan tidak b
 
 Apabila Singapura berpisah dengan Malaysia dan menjadi sebuah negara merdeka pada tahun 1965, sejarah kegemilangan ini mula kelihatan pudar terutama sekali bila tumpuan lebih diberikan kepada pembangunan ekonomi untuk penakatan Singapura sebagai sebuah negara yang baru. Malah, ada yang berpendapat bahawa sastera Melayu di Singapura akan mula kendur dan tidak dapat bertahan, terutama apabila ramai sasterawan-sasterawan yang pada suatu masa bergiat dan merancakkan taman sastera di Singapura mula berhijrah atau pulang ke negeri masing-masing. Tapi seperti bait-bait puisi Jalan Permulaan Suratman Markasan, ramai juga yang menetap dan meneruskan perjuangan sastera di sini kerana:
 
-<span style="display: block; text-align: center;"><i>“Singapuraku<br>
+<span style="display: block; text-align: center;">“Singapuraku<br>
 Aku mengerti<br>
 di sini darah ibuku tumpah,<br>
 di sini tulang-belulangku akan merapuh<br>
 di sisi anak-anakku membesar<br>
 seperti paya terus melebar<br>
 di atas batu-bata & pasir-masir bertakhta,<br>
-lalu manusia ser ibu tahun menghamba.”[^2]</i></span>
+lalu manusia ser ibu tahun menghamba.”[^2]</span>
 
 <p align="right">– Suratman Markasan</p>
 
 Namun kenyataannya tidak begitu. Sejak tahun 1965 sehingga kini, taman sastera di sini sentiasa subur dan tumbuh sepanjang masa terutama dari segi puisi. Pertumbuhan ini dapat dilihat di dalam esei ini yang menyorot perkembangan puisi Melayu di Singapura dari tahun 1965 sehingga sekarang.
 
 Menurut Masuri S. N., “Di antara tahun-tahun 1965 hingga 1970, puisi Melayu Singapura masih terus berkembang, terutama diciptakan oleh penyair-penyair veteran seperti Mas, A. Ghani Hamid, Noor S.I. dan A. Salam Ayub.”[^3] Kehadiran tokoh-tokoh perintis ini, termasuk Masuri dan Suratman Markasan yang masih tetap tinggal di sini, masih tetap gigih berkarya walaupun pada masa yang sama telah mula lahir karya penyair-penyair yang lebih muda dan ada yang baru mula berkarya.
-
-<div style="background-color: white;"><br><img style="width:500px" src="/images/Vol-13-issue-2/alam-puisi-melayu-singapura/01_puisi.png">Sebahagian karya-karya puisi penulis Singapura yang telah diterbitkan di dalam dan luar negara. <i>Gambar: Lembaga Perpustakaan Negara, Singapura.</i></div>
 
 Namun, pada luarannya, bentuk dan isinya masih tetap sama dengan trend perkembangan sastera di Malaysia kerana “mereka masih belum terasa ke dalam batinnya akan perubahan politik, sosial, ekonomi dan pendidikan yang mulai sedikit demi sedikit menampakkan corak dan dasarnya yang berbeza antara kedua negara ini”.[^4]
 
