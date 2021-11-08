@@ -14,7 +14,7 @@ Singapore celebrates 50 years of National Service in 2017. The compulsory enlist
 
 When Singapore separated from Malaysia on 9 August 1965, the island-state saw the need to beef up its security with a conscript service. This would supplement the skeletal military forces comprising 1 SIR and 2 SIR (1st and 2nd Battalion, Singapore Infantry Regiment) and the PDF (People’s Defence Force). The withdrawal of the British army in the late 1960s would only underscore the need for Singapore to have a military that could be reckoned with.
 
-As founding Prime Minister Lee Kuan Yew described it: “We thought it important for people in and outside Singapore to know that despite our small population, we could mobilise a large fighting force at short notice”.[^3]
+As founding Prime Minister Lee Kuan Yew described it: “We thought it important for people in and outside Singapore to know that despite our small population, we could mobilise a large fighting force at short notice.”[^3]
 
 As Singapore was not large or wealthy enough to support an effective full-time military force, the option was to have a regular corps supplemented by a conscript reserve.[^4] However, both Lee and then Minister for Defence Goh Keng Swee were aware that conscription would not be well received by the public. They believed that education was the key to changing the people’s mindset. Among other things, the National Police Cadet Corps and National Cadet Corps were established in secondary schools as a co-curricular activity, helping to prepare teenage boys for National Service and inculcate a sense of patriotism. By 1972, some 90 percent of secondary schools were participating in the cadet corps.[^5]
 
