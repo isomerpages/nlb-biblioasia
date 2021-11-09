@@ -9,7 +9,7 @@ In this issue, we uncover the real story behind Singapore's national flower, lea
 
 <img src="/images/Vol-14-issue-1/vol14_iss1.JPG">  
 
-**Director’s Note**
+**[Director’s Note](/vol-14/issue-1/apr-jun-2018/directors-note-apr18/)**
 
 **[Blooming Lies: The Vanda Miss Joaquim Story](/vol-14/issue-1/apr-jun-2018/blooming-lies-vandaj/)** <br>
 Is the Vanda Miss Joaquim a human-made hybrid or a happy accident? In this cautionary tale, *Nadia Wright*, *Linda Locke* and *Harold Johnson* recount how fiction becomes truth when it is repeated often enough. [(PDF)](/files/pdf/vol-14/v14-issue1_Blooming.pdf)
