@@ -33,17 +33,17 @@ Featured in this essay are just a sampling of titles from a collection of about 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
 <b>The Journal of the Singapore Society of Architects</b> (December 1923)
 <br><br>
-<img src="/images/Vol-14-issue-1/first-issues/First2.JPG"><br>
+<img style="width: 300px; height: 400px;" src="/images/Vol-14-issue-1/first-issues/First2.JPG"><br>
 This journal of the Singapore Society of Architects, the precursor of the Singapore Institute of Architects, was launched the same time the society was established in 1923 with 11 founding members, one of whom was the municipal architect S. Douglas Meadows. The society aimed to foster the growing interest in architecture in Singapore after World War I. According to Meadows who became the first president of the society, “to design in beauty and build in strength should be the aim of the architect”.5
 <br><br>
 <b>Student World </b> (Vol. 1, No. 1, 5 May 1958)
 <br><br>
-<img src="/images/Vol-14-issue-1/first-issues/First3.JPG"><br>
+<img style="width: 300px; height: 400px;" src="/images/Vol-14-issue-1/first-issues/First3.JPG"><br>
 According to the Foreword in the inaugural issue published on 5 May 1958, the magazine aimed to supplement students’ education in school with articles that will equip them with skills for the real world.
 <br><br>
 	<b>Tumasek</b> (No. 1, January 1964)
 <br><br>
-<img src="/images/Vol-14-issue-1/first-issues/First4.JPG"><br>
+<img style="width: 300px; height: 400px;" src="/images/Vol-14-issue-1/first-issues/First4.JPG"><br>
 Founded by award-winning writer and poet Goh Poh Seng, the inaugural issue of this literary journal featured Goh’s poem, “On Looking at the Moon and Thinking”, and novel <i>If We Dream Too Long</i>. The latter is considered the first local English novel and won the National Book Development Council of Singapore’s Fiction Book Award in 1976.
 <br><br>
 	<b>Her World </b>(Vol. 1, July 1960)
@@ -106,4 +106,4 @@ One of the statutory functions of the National Library Board Act is Legal Deposi
 [^4]:Editorial. (1967, November). [*Folk scene Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12515068)*, 1* (1), p. 3. Singapore: J. E. Wee for Folk Scene Singapore. (Call no.: RSING 781.62 FSS).
 [^5]:Meadows, D. S. (1923, December). The mistress art. [*The Journal of the Singapore Society of Architects*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6857506), p. 13. (Call no.; RRARE 720.95957 JSSA; Microfilm no.: NL16646).
 [^6]:Thumbing through… (1960, July). [*Her world*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4184741)*, 1*, p. 3. Singapore: Straits Times Press (Malaya) Ltd. (Call no.: RSING 052 HW).
-[^7]:Meet Violet, the chef. Retrieved from Violet Oon Singapore website; [Oon](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4396815), Jan 1987, p. 1.
+[^7]:Meet Violet, the chef. Retrieved from *Violet Oon Singapore* website; [Oon](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4396815), Jan 1987, p. 1.
