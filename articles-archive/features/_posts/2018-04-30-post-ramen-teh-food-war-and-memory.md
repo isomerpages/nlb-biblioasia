@@ -29,4 +29,42 @@ Singaporeans love Japanese food and the Japanese are also developing a taste for
 
 **Q: Why did you decide to include a World War II dimension to the plot?**
 
-A: The starting point is always the characters. As our main character Masato is of Japanese-Singaporean parentage, World War II naturally came into play when I decided to inject drama and conflict in the film. We wanted ultimately to show that Ramen Teh is a story of love and forgiveness.
+A: The starting point is always the characters. As our main character Masato is of Japanese-Singaporean parentage, World War II naturally came into play when I decided to inject drama and conflict in the film. We wanted ultimately to show that *Ramen Teh* is a story of love and forgiveness.
+
+<img src="/images/Vol-14-issue-1/ramen-teh/Ramen3.JPG">
+<div style="background-color: white;">Masato discovering the diverse experiences and accounts of the people in Singapore during the Japanese Occupation at the exhibition in the Former Ford Factory. The film also features resources from the National Archives of Singapore. <i>Courtesy of Zhao Wei FiIms.</i></div>
+
+**Q: Why did you choose to film at Former Ford Factory when there are other war-related sites in Singapore?**
+
+A: I was overwhelmed by the building and the exhibition space when I visited the place. I knew I had to shoot a scene there as the displays were very engaging and the oral history interviews extremely moving. The lighting was perfect too.
+
+**Q: Can you share any anecdotes from the filming at the Former Ford Factory?**
+
+A: The Japanese production crew and actors were deeply moved by what they saw. The lead actor Takumi Saitoh, after his tour of the Former Ford Factory, came up to me, close to tears and said, “I am very sorry, I never knew all this happened”. The staff at the gallery were extremely knowledgeable and helpful, and that ensured our shoot went smoothly.
+
+**Q: Do you think there is a good understanding among today’s younger generation of what Singapore went through during World War II?**
+
+A: I think it is difficult for any generation to truly understand the experience of war when they have only known peacetime in their lives. Even more so when their parents or grandparents who lived through the war years have passed on. There is little motivation for subsequent generations to share the war stories of their forefathers, especially when some of these may be traumatic. *Ramen Teh* does provide an insight into the impact of World War II on modern times through the plot and characters – even though that was not my primary intention.
+
+<img src="/images/Vol-14-issue-1/ramen-teh/Ramen4.JPG">
+<div style="background-color: white;">In a dream-like scene, Masato’s parents (played by Japanese actor Tsuyoshi Ihara and Singaporean actress Jeanette Aw) enjoy the ramen teh that Masato has prepared. <i>Courtesy of Zhao Wei Films.</i></div>
+
+**Q: Do you think that the legacy of World War II still shapes current-day Singapore and Japan?**
+
+A: This is a big question and I am not a historian! I think what is more important is for Singapore and Japan to learn from the lessons of war, and to appreciate that with love and friendship, so much more can be achieved from working together.
+
+**Q: What more can be done for a better understanding of World War II and its aftermath as those who lived through the war gradually pass on?**
+
+A: One approach can be through storytelling, in whatever artistic form it takes, for instance through movies, books, TV, theatre and music. If we can incorporate the lessons of war and its consequences into our psyche, I think there is greater resonance – especially for the younger generation.
+
+<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> 
+The Former Ford Factory is located at 351 Upper Bukit Timah Road. Presented by the National Archives of Singapore, the exhibition “Surviving the Japanese Occupation: War and its Legacies” is open 9 am–5.30 pm from Mondays to Saturdays, and 12 pm–5.30 pm on Sundays.
+</div>
+
+<br>
+<div style="background-color: white;">
+<img src="/images/Vol-14-issue-1/ramen-teh/LWS.JPG" style="width: 100px; height: 100px;">
+<b>Lu Wenshi</b> is Manager (Archives Services) with the National Archives of Singapore. She was involved in the revamp of the Former Ford Factory and managed its outreach programmes, including facilitating the shoot of 'Ramen Teh'.
+</div>
+
+<a href="https://biblioasia.nlb.gov.sg/vol-14/issue-1/apr-jun-2018/"><center>Back to Issue</center></a>
