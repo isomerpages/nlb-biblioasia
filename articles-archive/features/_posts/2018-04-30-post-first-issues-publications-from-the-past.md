@@ -106,11 +106,4 @@ One of the statutory functions of the National Library Board Act is Legal Deposi
 [^4]:Editorial. (1967, November). [*Folk scene Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12515068)*, 1* (1), p. 3. Singapore: J. E. Wee for Folk Scene Singapore. (Call no.: RSING 781.62 FSS).
 [^5]:Meadows, D. S. (1923, December). The mistress art. [*The Journal of the Singapore Society of Architects*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6857506), p. 13. (Call no.; RRARE 720.95957 JSSA; Microfilm no.: NL16646).
 [^6]:Thumbing through… (1960, July). [*Her world*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4184741)*, 1*, p. 3. Singapore: Straits Times Press (Malaya) Ltd. (Call no.: RSING 052 HW).
-[^7]:
-
-
-
-
-
-
-Meet Violet, the chef. Retrieved from Violet Oon Singapore website; Oon, Jan 1987, p. 1.
+[^7]:Meet Violet, the chef. Retrieved from Violet Oon Singapore website; [Oon](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4396815), Jan 1987, p. 1.
