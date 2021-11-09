@@ -179,4 +179,11 @@ Following a deadly confrontation with the police, the riots were quelled and, on
 [^17]:[Yeoh](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200108247), 2003, p. 247.
 [^18]:[The municipal health officer on the verandah question](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18920430-1.2.41). (1892, April 30). *The Straits Times*, p. 3. Retrieved from NewspaperSG.
 [^19]:[Street obstruction](http://eresources.nlb.gov.g/newspapers/Digitised/Article/straitstimes19250711-1.2.84). (1925, July 11). *The Straits Times*, p. 10. Retrieved from NewspaperSG.
-[^20]:[[Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stoverland18790507-1.2.21)]. (1879, May 7). Straits Times Overland Journal, p. 7. Retrieved from NewspaperSG.
+[^20]:[[Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stoverland18790507-1.2.21)]. (1879, May 7). *Straits Times Overland Journal*, p. 7. Retrieved from NewspaperSG.
+[^20]:
+[^20]:
+[^20]:
+[^20]:
+[^20]:
+[^20]:
+[^20]:
