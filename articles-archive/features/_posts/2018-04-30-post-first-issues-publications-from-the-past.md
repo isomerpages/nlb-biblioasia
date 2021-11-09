@@ -87,3 +87,7 @@ A popular monthly magazine for women, the inaugural issue interviewed cover girl
 Helmed by Violet Oon, the grande dame of Singaporean cooking, the monthly magazine hoped to “excite, titillate and amuse” its readers.7 In this first issue, the magazine takes readers on a whirlwind tour of the best “private hawker centres” in Singapore. These included Scotts Picnic Food Court, Forum Galleria’s Rasa Forum Food Fair, Orchard Food + Plus, Waterloo Food Paradise and Bugis Square Food Centre.
 </span>
 
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
+<b>WHAT IS THE LEGAL DEPOSIT?</b><br><br>
+One of the statutory functions of the National Library Board Act is Legal Deposit. Under the act, all publishers, commercial or otherwise, are required by law to deposit two copies of every work published in Singapore with the National Library within four weeks of its publication. The Legal Deposit function ensures that Singapore’s published heritage is preserved for future generations. Legal Deposit also acts as a repository for published materials, providing exposure via the online catalogue, [PublicationSG](catalogue.nlb.gov.sg/publicationsg). For more information, please visit [www.nlb.gov.sg/Deposit](www.nlb.gov.sg/Deposit).
+</span>
