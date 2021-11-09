@@ -28,13 +28,13 @@ As demand for water continued to grow in tandem with Singapore’s development a
 In 1823, the British Resident John Crawfurd proposed spending 1,000 Spanish dollars to build a new reservoir, but this did not materialise. In 1852, the Government Surveyor and Engineer John Turnbull Thomson suggested drawing water from the “Singapore Creek” – an early reference to the Singapore River. The lack of government support and public interest, however, scotched this plan. Five years later, in 1857, the idea of having a proper reservoir resurfaced again when Tan Kim Seng, a wealthy Straits Chinese merchant, donated 13,000 Straits dollars to the local government to improve the town’s water supply.[^7]
 
 Tan’s offer could not have come at a better time: the population had grown eightfold from 10,683 in 1824 to 81,734 in 1860, and in their desperation, people turned to contaminated wells and streams for their water needs.[^8] With Tan’s donation, the government began making plans in January 1858 for a new reservoir and waterworks. But when cost estimates ballooned to 100,000 Straits dollars, the Bengal Presidency in Calcutta, which administered the British colonies in the Far East, refused to sanction the project. The reservoir and waterworks were put on hold until 1862 when the Bengal government agreed to fund half the project.[^9] The remaining half was raised through a loan in 1864.
-
-<img src="/images/Vol-14-issue-1/four-taps-of-singapore-water/FourTaps2.JPG">
-<div style="background-color: white;">The service reservoir on Mount Emily as photographed by G.R. Lambert & Co., c.1880s. It was built in 1878 to receive water from the Impounding Reservoir in Thomson Road and distribute it to households. <i>Courtesy of National Museum of Singapore, National Heritage Board.</i></div>
 	
 The new Impounding Reservoir (renamed Thomson Road Reservoir in 1907 and thereafter as MacRitchie Reservoir in 1922) began operations in 1877, exactly 20 years after Tan Kim Seng’s philanthropic gesture. Located off Thomson Road, the reservoir comprised a catchment area of about 1,890 acres and a conduit made of masonry that could transport water to within 200 feet of the Singapore River.[^10]
 
 Managed by the Municipal Council, the reservoir used gravity rather than pumps to distribute the water. As a result, the municipality had to construct a number of service reservoirs on high ground such as hilltops. Water from the Impounding Reservoir would flow to a pumping station at the foot of the hill before being sent up to the service reservoir and distributed to households. The first of such service reservoirs was built on Mount Emily in 1878, followed by Pearl’s Hill in 1898 and Fort Canning in 1928.[^11]
+
+<img src="/images/Vol-14-issue-1/four-taps-of-singapore-water/FourTaps2.JPG">
+<div style="background-color: white;">The service reservoir on Mount Emily as photographed by G.R. Lambert & Co., c.1880s. It was built in 1878 to receive water from the Impounding Reservoir in Thomson Road and distribute it to households. <i>Courtesy of National Museum of Singapore, National Heritage Board.</i></div>
 
 By the end of the 1900s, Singapore’s daily water consumption had surged to 4.5 million gallons. This was due to the booming population as well as the growth of New Harbour (now Keppel Harbour). Municipal Engineer James MacRitchie decided that the best course of action was to enlarge the Impounding Reservoir. Carried out between 1891 and 1894 and at a cost of 32,000 Straits dollars, the expansion works increased the capacity of the reservoir.[^12]
 
@@ -96,9 +96,6 @@ MacRitchie, Upper Peirce and Lower Peirce reservoirs are located in the Central 
 
 One innovative method adopted by PUB was the creation of a string of unprotected catchments across the island. Unlike protected reservoirs, such catchments are located in urban areas, yielding water that is of lower quality and with higher organic matter. To improve water quality, a number of measures were taken, such as using stronger disinfectants, improving filtration methods, enforcing stricter anti-pollution controls, implementing a more efficient waste management system, and launching the Keep Singapore Clean campaign.[^35]
 
-<img style="width: 550px; height: 370px;" src="/images/Vol-14-issue-1/four-taps-of-singapore-water/FourTaps6.JPG">
-<div style="background-color: white;">Built across Marina Channel, Marina Barrage created Singapore’s 15th reservoir, the first located in the city. The barrage serves three purposes: it stores water, alleviates flooding and supports recreational activities. <i>Courtesy of PUB, Singapore’s national water agency.</i></div>
-
 The Kranji and Pandan reservoirs were the first two estuarine reservoirs built in unprotected catchment areas in 1975. The S$75-million Kranji-Pandan water scheme was formed by damming the Kranji and Pandan rivers. The two reservoirs served mainly the north-western part of Singapore, including Jurong Industrial Estate and housing estates in the area.[^36]
 
 In 1981, dykes were built across the mouths of the Murai, Poyan, Sarimbun and Tengah rivers to transform them into reservoirs under the Western Catchment Scheme. These reservoirs supply water to the western part of the island, including Queenstown, Bukit Merah, Telok Blangah, Pasir Panjang and Alexandra.[^37]
@@ -107,10 +104,10 @@ In 1983, PUB initiated the Sungei Seletar-Bedok Water project to meet the increa
 
 A second reservoir, Sungei Seletar Reservoir (renamed Lower Seletar Reservoir in 1992), was formed by damming Seletar River. The river water was also used to fill Bedok Reservoir (see text box overleaf).[^38]
 
-<img style="width: 550px; height: 370px;" src="/images/Vol-14-issue-1/four-taps-of-singapore-water/FourTaps7.JPG">
-<div style="background-color: white;">Waste water is treated at the Ulu Pandan NEWater Plant, which opened in 2007. Reclaimed water is today one of Singapore’s Four National Taps. <i>Photo by Richard W.J. Koh.</i></div>
-
 Marina Reservoir, located in the heart of the city, is another urban reservoir. It officially opened in 2008 and was created by building a dam – Marina Barrage – across Marina Channel. Envisioned by Singapore’s first Prime Minister Lee Kuan Yew in 1987, the barrage is unique in the sense that it stores water, alleviates flooding and supports recreational activities. The flood control function is enabled by a mechanism that serves as a tidal barrier to prevent rising waters from advancing inland and flooding low-lying areas. The barrage also keeps the reservoir’s water level constant, making it suitable for water activities such as sailing, windsurfing and canoeing.[^39] 
+
+<img style="width: 550px; height: 370px;" src="/images/Vol-14-issue-1/four-taps-of-singapore-water/FourTaps6.JPG">
+<div style="background-color: white;">Built across Marina Channel, Marina Barrage created Singapore’s 15th reservoir, the first located in the city. The barrage serves three purposes: it stores water, alleviates flooding and supports recreational activities. <i>Courtesy of PUB, Singapore’s national water agency.</i></div>
 
 #### **NEWater and Desalinated Water**
 
@@ -123,6 +120,9 @@ It would take another 25 years before technological advances made it possible fo
 A comprehensive study of NEWater was carried out between 2000 and 2002. Although the study concluded that NEWater was safe for potable use, it recommended blending NEWater with raw reservoir water and then subjecting the resulting mix to the same water treatment process as raw reservoir water. This would re-introduce trace minerals removed during the production of NEWater and make the idea of consuming treated and purified waste water more palatable to the public.[^43]
 
 Following the successful conclusion of the NEWater study, PUB’s Bedok NEWater Plant came into operation in 2002, marking the launch of NEWater as the Third National Tap.[^44] Since then, NEWater plants have been built in Kranji (2003), Seletar (2004 but decommissioned in 2011), Ulu Pandan (2007) and Changi (2010 and 2017).[^45] These plants are expected to meet up to 55 percent of Singapore’s future water needs by 2060.[^46]
+
+<img style="width: 550px; height: 370px;" src="/images/Vol-14-issue-1/four-taps-of-singapore-water/FourTaps7.JPG">
+<div style="background-color: white;">Waste water is treated at the Ulu Pandan NEWater Plant, which opened in 2007. Reclaimed water is today one of Singapore’s Four National Taps. <i>Photo by Richard W.J. Koh.</i></div>
 
 The 1972 Water Master Plan also recommended tapping seawater as another source of water supply. However, minerals and salts have to be removed from seawater first in a process known as desalination. Unfortunately, as the desalination technology available at the time was energy intensive and costly, the PUB decided not to adopt this method. As more energy efficient water purification methods, particularly reverse osmosis, became available in the 1990s, PUB began to relook the idea of desalinating seawater.
 
@@ -189,7 +189,7 @@ Singapore and Malaysia have signed four water agreements regarding the supply of
 [^1]:[S’pore “most at risk of facing high water stress”](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20150829-1.2.16.5). (2015, August 29). *The Straits Times*, p. 37. Retrieved from NewspaperSG.
 [^2]:[*The Straits Times*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20150829-1.2.16.5), 29 Aug 2015, p. 37.
 [^3]:Tarling, N. (1992). [*Singapore and the Singaporeans since 1819*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6392779) (p. 27). Auckland: Centre for Asian Studies, University of Auckland. (Call no.: RSING 959.57 SIN-[HIS]).
-[^4]:National Archives of Singapore. (2008). [*10 years that shaped a nation: An exhibition catalogue*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12981512) (p. 38). Singapore: National Archives of Singapore. (Call no.: RSING 959.5705 TEN-[HIS]); Hon, J. (1990). [*Tidal fortunes: A story of change: The Singapore River and Kallang Basin*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5788078) (pp. 8, 29-30). Singapore: Landmark Books. (Call no.: RSING 959.57 HON-[HIS]); Makepeace, W., Brooke, G.E., & Braddell, R.S.J. (Eds.). (1991). [*One hundred years of Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6203718) (p. 326). Singapore: Oxford University Press. (Call no.: RSING 959.57 ONE-[HIS]).
+[^4]:National Archives of Singapore. (2008). [*10 years that shaped a nation: An exhibition catalogue*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12981512) (p. 38). Singapore: National Archives of Singapore. (Call no.: RSING 959.5705 TEN-[HIS]); Hon, J. (1990). [*Tidal fortunes: A story of change: The Singapore River and Kallang Basin*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5788078) (pp. 8, 29–30). Singapore: Landmark Books. (Call no.: RSING 959.57 HON-[HIS]); Makepeace, W., Brooke, G.E., & Braddell, R.S.J. (Eds.). (1991). [*One hundred years of Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6203718) (p. 326). Singapore: Oxford University Press. (Call no.: RSING 959.57 ONE-[HIS]).
 [^5]:Dobbs, S. (2003). [*The Singapore River: A social history, 1819–2002*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12149559) (pp. 33–34). Singapore: Singapore University Press. (Call no.: RSING 959.57 DOB-[HIS]).
 [^6]:[Dobbs](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12149559), 2003, p. 34.
 [^7]:[Makepeace, Brooke & Braddell](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6203718), 1991, p. 326; Yeoh, B.S.A. (2003). [*Contesting space in colonial Singapore: Power relations and the urban built environment*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827061) (pp. 177–178). Singapore: Singapore University Press. (Call no.: RSING 307.76095957 YEO).
