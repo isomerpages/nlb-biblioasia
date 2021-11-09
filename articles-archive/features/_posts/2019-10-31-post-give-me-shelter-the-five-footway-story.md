@@ -47,3 +47,32 @@ British traveller and naturalist Isabella Bird was similarly taken by the liveli
 <br><br>
 While the earliest verandahs spanned 5 or 6 feet (1.5 or 1.8 m), from the 1840s onwards, the law decreed that the path should be at least 6 feet wide. In 1887, the stipulated width extended to 7 feet (2.1 m), and subsequent legislations decreed a minimum of 7 feet. A 1929 by-law declared that footways in the busy thoroughfares of Chulia Street, Raffles Place and High Street should be at least 8 feet (2.4 m) wide, with no more than two feet of space occupied.6
 </span>
+
+#### **Life in the Five-footway**
+
+Depending on which part of town a traveller was exploring, he or she might be in for a rude shock if they believe the following description of the five-footway (c. 1840) by Major James Low, a long-time employee of the Straits Civil Service:
+
+“A stranger may well amuse himself for a couple of hours in threading the piazas [sic] in front of the shops, which he can do unmolested by sun, at any hour of the day”.7
+
+In reality, the five-footways in the town’s Asian quarters teemed with so much obstruction and activity that pedestrians were all too often forced onto the road.
+
+<img src="/images/Vol-15-issue-3/give-me-shelter/Shelter4.JPG">
+<div style="background-color: white;">An itinerant satay seller on the five-footway, c. 1911. <i>Andrew Tan Collection, courtesy of National Archives of Singapore.</i></div>
+
+Low’s view was not a popular one. In 1843, a disgruntled individual offered a sharply contradictory experience in a letter to *The Singapore Free Press*, arguing for the public right of way:
+
+“[The verandah] is or was intended to provide for the accommodation of the public by furnishing them with a walk where they might be in some degree free from the sun and dust, and be in no danger of sudden death from numerous Palankeens that are always careering along the middle of the way. But this seems to have been forgotten, and the natives have very coolly appropriated the verandahs to their own special use by erecting their stalls in it and making it a place for stowing their goods”.8
+
+The five-footway was originally intended for the use of pedestrians. Not only would the sheltered path provide respite from the tropical heat or a sudden downpour, it also served as a safe path away from road traffic. However, over time, the Asian communities began to use the five-footway for their own purposes, according to their needs and the realities of the day.
+
+Pragmatic shop owners often used the five-footway outside their shop to store or display goods. The more enterprising ones rented out parcels of space to other small vendors – an attractive deal considering the good flow of human traffic and low overheads. Soon, all sorts of trades and activities began occupying the five-footways.9
+
+In the Kampong Glam district, designated as the Arab quarters in Raffles’ 1822 Town Plan, the five-footways became thriving sites for Bugis, Arab and Javanese businesses and all manner of Islamic trade. On Arab Street, historically referred to as Kampong Java, Javanese women sold flowers along the shophouse verandahs. So famous was this street for its flower trade that it was known as *Pookadei Sadakku* (Flower Street) in Tamil.
+
+Meanwhile, lined up along the five-footways of nearby Bussorah Street were *ambin*, or platforms, on which people could rest or have a shuteye. Rosli bin Ridzwan, who grew up on Bussorah Street, recalled that whenever an elderly person was seated on the *ambin*, younger ones would greet him or her and promptly walk on the road alongside as a show of deference.10
+
+The most common occupant of the five-footway was probably the food vendor. Hawkers were either itinerant, meaning they would move around looking for customers, or they might occupy a fixed spot on the five-footway or on the kerbside, sometimes even extending their makeshift stalls onto the road with tables and chairs. All manner of food was sold, including satay, laksa, “tok-tok” noodle, putu mayam and kacang puteh. During lull periods, some hawkers laid down their wares and took a nap in the five-footways.
+
+Besides food, one could find tradesmen and women engaging in various occupations that supported the inhabitants of the densely populated Chinatown. Letter-writers armed with ink and brush penned letters for illiterate customers or wrote festive couplets for Chinese celebrations.11 Barbers simply pulled out a chair and hung a mirror on the wall in front before providing haircuts and shaves for customers.12
+
+Foong Lai Kum, a former resident of Chinatown, remembered a man known as jiandao lao (剪刀佬; colloquially “Scissors Guy” in Mandarin) plying his trade on the five-footway of Sago Lane, sharpening the scissors used by young women working at rubber factories, or the knives used by hawkers or butchers.13 And, thanks to the itinerant pot mender, one never had to shell out money for a new pot.14
