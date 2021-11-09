@@ -6,8 +6,7 @@ layout: post
 ---
 #### Eric Khoo tells us how the Japanese Occupation, *ramen* noodles and *bak kut teh* became the inspiration for his latest film. **Lu Wenshi** finds out more.
 
-<img src="/images/Vol-14-issue-1/ramen-teh/Ramen1.JPG">
-<div style="background-color: white;"></i></div>
+<img style="width: 650px; height: 400px;" src="/images/Vol-14-issue-1/ramen-teh/Ramen1.JPG">
 
 When acclaimed Singaporean film director Eric Khoo produced his latest film *Ramen Teh*, he was drawn to the historical materials and archival records on display at the exhibition – “Surviving the Japanese Occupation: War and its Legacies” – at the Former Ford Factory. It was a not a coincidence, therefore, when he decided to feature the World War II site in his film.
 
@@ -17,7 +16,7 @@ In the film, Masato visits the exhibition to find out more about the Japanese Oc
 
 *Ramen Teh* premiered in local cinemas on 29 March 2018, and also stars Singaporean artistes Jeanette Aw as Masato’s mother and Mark Lee as his uncle, and Japanese pop singer Seiko Matsuda. In this interview with *BiblioAsia*, Eric Khoo shares his thoughts on the war and what drove him to produce this film.
 
-<img src="/images/Vol-14-issue-1/ramen-teh/Ramen2.JPG">
+<img style="width: 400px; height: 500px;" src="/images/Vol-14-issue-1/ramen-teh/Ramen2.JPG">
 <div style="background-color: white;"><i>Ramen Teh</i> premiered in Singapore cinemas on
 29 March 2018. <i>Courtesy of Zhao Wei FiIms.</i></div>
 
