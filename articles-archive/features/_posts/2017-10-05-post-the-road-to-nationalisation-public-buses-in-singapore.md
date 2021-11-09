@@ -152,49 +152,57 @@ The nationalisation of the public bus service in 1973 was a key milestone in the
 
 This episode in Singapore’s history is also an example of the bold and decisive moves taken by the nation’s first generation of civil servants in ensuring the survival of a resource-poor and newly independent island. Singapore’s public transportation system would not be the model of efficiency it is today without such top-down intervention in the nascent days of its history.
 
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Vol-13-issue-3/public-buses-in-singapore/meiyu.png">
+	<b>Lee Meiyu</b> is a Librarian with the National Library, Singapore, and works with the Singapore & Southeast Asian Collection. Her research interests include Singapore’s Chinese community. She is co-author of <i>Money by Mail to China: Dreams and Struggles of Early Migrants</i> (2012) and <i>Roots: Tracing Family Histories – a Resource Guide</i> (2013).
+</div>
+
+<a href="/vol-13/issue-3/oct-dec-2017/"><center>Back to Issue</center></a>
+
 #### **NOTES**
 
-[^1]:Sharp, I. (2005). The journey: Singapore’s land transport story (p. 49). Singapore: SNP International Publishing Pte Ltd. (Call no.: RSING 388.4095957 SHA) 
+[^1]:Sharp, I. (2005). *[The journey: Singapore’s land transport story](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12540556)* (p. 49). Singapore: SNP International Publishing Pte Ltd. (Call no.: RSING 388.4095957 SHA) 
  
-[^2]:Sharp, 2005, pp. 48–49.
+[^2]:[Sharp](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12540556), 2005, pp. 48–49.
 
-[^3]:Sharp, 2005, pp. 46, 51. 
+[^3]:[Sharp](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12540556), 2005, pp. 46, 51. 
 
-[^4]:Sharp, 2005, pp. 47–49. 
+[^4]:[Sharp](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12540556), 2005, pp. 47–49. 
 
-[^5]:Sharp, 2005, pp. 47–49; Ng, G.P. [2001]. The green bus co. ltd. (1919–1971): A chinese family business in Singapore (p. 24). Singapore: National University of Singapore. (Call no.: RSING 388.3220655957 NG)
+[^5]:[Sharp](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12540556), 2005, pp. 47–49; Ng, G.P. [2001]. *[The green bus co. ltd. (1919–1971): A chinese family business in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202834357)* (p. 24). Singapore: National University of Singapore. (Call no.: RSING 388.3220655957 NG)
 
 [^6]:Trolley buses, which were in operation in Singapore from 1926–1962, were electric buses that drew power from overhead wires suspended from roadside posts using trolley poles.
 
-[^7]:York, F.W., & Philips, A.R. (1996). Singapore: A history of its trams, trolleybuses and buses vol 1: 1880’s to 1960’s (p. 43). Surrey: DTS Publishing Ltd. (Call no.: RSING q388.41322095957 YOR); Sharp, 2005, p. 47; Ng, 2001, pp. 8–9. 
+[^7]:York, F.W., & Philips, A.R. (1996). *[Singapore: A history of its trams, trolleybuses and buses vol 1: 1880’s to 1960’s](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=8136044)* (p. 43). Surrey: DTS Publishing Ltd. (Call no.: RSING q388.41322095957 YOR); [Sharp](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12540556), 2005, p. 47; [Ng](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202834357), 2001, pp. 8–9. 
 
 [^8]:Bus companies that used to provide express services from Singapore to Malaysia (such as the Kuala-Lumpur-Singapore Express Limited, Sing Lian Express Limited, Singapore-Johore Express Limited) and school buses are not covered within the scope of this essay.
 
-[^9]:Ng, 2001, pp. 9–10; York, F.W., Davis, M., & Osborne, J. (2009). Singapore: A history of its trams, trolleybuses and buses vol 2: Buses and bus services 1970s and 1990s (pp. 8, 53, 67). Croyden: DTS Publishing Ltd. (Call no.: RSING 388.41322095957 YOR) 
+[^9]:[Ng](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202834357), 2001, pp. 9–10; York, F.W., Davis, M., & Osborne, J. (2009). *[Singapore: A history of its trams, trolleybuses and buses vol 2: Buses and bus services 1970s and 1990s](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14539222)* (pp. 8, 53, 67). Croyden: DTS Publishing Ltd. (Call no.: RSING 388.41322095957 YOR) 
 
-[^10]:York & Philips, 1996, p. 71. 
+[^10]:[York & Philips](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=8136044), 1996, p. 71. 
 
-[^11]:York & Philips, 1996, pp. 93, 99, 110. 
+[^11]:[York & Philips](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=8136044), 1996, pp. 93, 99, 110. 
 
-[^12]:York & Philips, 1996, pp. 95, 96, 100, 108, 112, 116.
+[^12]:[York & Philips](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=8136044), 1996, pp. 95, 96, 100, 108, 112, 116.
 
 [^13]:The nationalisation of Singapore’s public bus service was first mentioned in a 1953 report by the Public Passenger Transport Committee of the City Council, which recommended acquiring the STC and bringing the private bus companies together under the control of a single government entity. However, no concrete actions were taken.
 
-[^14]:Colony of Singapore. (1956). Report of the Commission of inquiry into the public passenger transport system of Singapore (pp. 1, 26, 31, 35, 44, 47, 69, 71, 74). Singapore: Printed at the Government Printing Office. (Call no.: RCLOS 388.3 SIN) 
+[^14]:Colony of Singapore. (1956). *[Report of the Commission of inquiry into the public passenger transport system of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4981027)* (pp. 1, 26, 31, 35, 44, 47, 69, 71, 74). Singapore: Printed at the Government Printing Office. (Call no.: RCLOS 388.3 SIN) 
 
-[^15]:Wilson, R.P. (1970). A study of the public bus transport system of Singapore (p. 1). Singapore: Government Printer. (Call no.: RCLOS 388.3220655957 WIL); Singapore Registry of Vehicles. (1970). Reorganisation of the motor transport service of Singapore (p. 11). Singapore: Printed by the Government Printer Office. (Call no.: RCLOS 388.31 SIN) 
+[^15]:Wilson, R.P. (1970). *[A study of the public bus transport system of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4718992)* (p. 1). Singapore: Government Printer. (Call no.: RCLOS 388.3220655957 WIL); Singapore Registry of Vehicles. (1970). *[Reorganisation of the motor transport service of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4981338)* (p. 11). Singapore: Printed by the Government Printer Office. (Call no.: RCLOS 388.31 SIN) 
 
-[^16]:Wilson, 1970, pp. 3, 7; Singapore Registry of Vehicles, 1970, pp. 6—11; York & Philips, 1996, p. 144. 
+[^16]:[Wilson](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4718992), 1970, pp. 3, 7; [Singapore Registry of Vehicles](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4981338), 1970, pp. 6—11; [York & Philips](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=8136044), 1996, p. 144. 
 
-[^17]:To read up on the history of STC, refer to the two-volume work, York & Philips (1996) and York, Davis & Osborne (2009).
+[^17]:To read up on the history of STC, refer to the two-volume work, [York & Philips](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=8136044) (1996) and [York, Davis & Osborne](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14539222) (2009).
 
-[^18]:York & Philips, 1996, vol. 1, pp. 46, 143; 丁莉英, 林明芳 & 陈金姿 [Ding, L. Y., Lin, M. F., & Chen, J. Z]. (1971). 《东南亚华人史调查报告: 新加坡华人巴士交通行业》 [Survey on the history of Singapore Chinese trades: The Singapore Chinese bus transport] (p. 71). 新加坡: 南洋大学. (Call no.: Chinese RCLOS 388.322095957 NAN); York, Davis & Osborne, 2009, p. 23. 
+[^18]:[York & Philips](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=8136044), 1996, vol. 1, pp. 46, 143; 丁莉英, 林明芳 & 陈金姿 [Ding, L. Y., Lin, M. F., & Chen, J. Z]. (1971). 《[东南亚华人史调查报告: 新加坡华人巴士交通行业](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84488103)》 [*Survey on the history of Singapore Chinese trades: The Singapore Chinese bus transport*] (p. 71). 新加坡: 南洋大学. (Call no.: Chinese RCLOS 388.322095957 NAN); York, Davis & Osborne, 2009, p. 23. 
 
-[^19]:York, Davis & Osborne, 2009, p. 44. 
+[^19]:[York, Davis & Osborne](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14539222), 2009, p. 44. 
 
-[^20]:York, Davis & Osborne, 2009, p. 47.
+[^20]:[York, Davis & Osborne](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14539222), 2009, p. 47.
 
-[^21]:Old buses are main cause of poor service. (1973, March 16). The Straits Times, p. 18. Retrieved from NewspaperSG; York, Davis & Osborne, 2009, pp. 47–51. 
+[^21]:[Old buses are main cause of poor service](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19730316-1.2.104.2). (1973, March 16). *The Straits Times*, p. 18. Retrieved from NewspaperSG; [York, Davis & Osborne](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14539222), 2009, pp. 47–51. 
 
 [^22]:[York, Davis & Osborne](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14539222), 2009, pp. 53–56, 82. 
 
