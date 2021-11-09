@@ -74,6 +74,9 @@ When the new waterworks at Johor River began operations in 1968, at least 30 mil
 
 Known as Sultan Ismail Waterworks, it provided Singapore with another 30 million gallons of water each day. The additional water supply from the Johor River and Scudai schemes was timely for Singapore as the island’s daily water consumption had more than doubled by this time, from 52 million gallons in 1955 to 110 million in 1970. This was largely due to a population boom in the 1960s as well as the growth of the shipping, services and industrial sectors.[^28]
 
+<img src="/images/Vol-14-issue-1/four-taps-of-singapore-water/FourTaps11.JPG">
+<div style="background-color: white;">Then Prime Minister Lee Kuan Yew visiting the Sultan Ismail Waterworks construction site at Scudai River in May 1964. Completed in 1965, the waterwoks provided Singapore with another 30 million gallons of water each day. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+	
 #### **Securing Domestic Water Resources**
 
 Although the water supply from Johor helped to relieve the water crisis in the 1950s and 60s, the government had already recognised its heavy dependence on Johor for water. This was evident during the Malayan Campaign when the water supply from Johor was abruptly cut in January 1942 after the British, in a bid to slow down the advancing Japanese forces, blew up the Causeway and with it the main water pipe system from Gunong Pulai.[^29]
@@ -81,10 +84,6 @@ Although the water supply from Johor helped to relieve the water crisis in the 1
 In 1963 when both the Johor River and Scudai schemes were still under construction, coupled with the prolonged dry weather, Singapore’s water supply fell to critically low levels, thereby forcing the PUB – formed in 1963 to take over the utilities departments from the City Council – to impose a 10-month-long water rationing exercise between April 1963 and February 1964.[^30]
 
 In 1950, the Municipal Council had commissioned a study to investigate the availability of new water sources in Singapore. Led by the engineering firm Sir Bruce White, Wolfe Barry and Partners, the consultants recommended three methods of drawing water from the rivers: either damming or transferring the water to a larger central reservoir, tapping on groundwater in the eastern part of the island, and constructing wells and harvesting rainwater. However, in light of the revival of the Johor River scheme, the City Council did not implement the recommendations except to create a groundwater system in Bedok in 1959. Costing M$2 million, the project was a disappointment as it yielded less than one million gallons of water a day instead of the expected 5 to 10 million gallons.[^31]
-
-<img src="/images/Vol-14-issue-1/four-taps-of-singapore-water/FourTaps5.JPG">
-<div style="background-color: white;">(Left) Then Prime Minister Lee Kuan Yew visiting the Sultan Ismail Waterworks construction site at Scudai River in May 1964. Completed in 1965, the waterwoks provided Singapore with another 30 million gallons of water each day. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i><br>
-(Right) A 2001 poster by the Public Utilities Board exhorting people to save water. <i>PUB Collection, courtesy of National Archives of Singapore.</i></div>
 
 After Singapore gained independence in 1965, one of the first post-independence water projects carried out by the PUB was the enlargement of Seletar Reservoir in April 1967. Upon its completion in February 1969, the S$27-million project increased the reservoir’s capacity by more than 30-fold.[^32]
 
@@ -118,6 +117,9 @@ In 1974, Singapore’s Sewerage Department opened an experimental plant in Juron
 It would take another 25 years before technological advances made it possible for PUB to revisit the idea of producing potable reclaimed water. The Singapore Water Reclamation Study (NEWater Study) conducted in 1998 revealed that water reclamation was a growing trend globally and that membrane-based purification technologies had become more reliable and cost efficient. This led to the opening of the prototype NEWater demonstration plant at Bedok Water Reclamation Plant in 2000.[^42]
 
 A comprehensive study of NEWater was carried out between 2000 and 2002. Although the study concluded that NEWater was safe for potable use, it recommended blending NEWater with raw reservoir water and then subjecting the resulting mix to the same water treatment process as raw reservoir water. This would re-introduce trace minerals removed during the production of NEWater and make the idea of consuming treated and purified waste water more palatable to the public.[^43]
+
+<img style="width: 350px; height: 450px;" src="/images/Vol-14-issue-1/four-taps-of-singapore-water/FourTaps12.JPG">
+<div style="background-color: white;">A 2001 poster by the Public Utilities Board exhorting people to save water. <i>PUB Collection, courtesy of National Archives of Singapore.</i></div>
 
 Following the successful conclusion of the NEWater study, PUB’s Bedok NEWater Plant came into operation in 2002, marking the launch of NEWater as the Third National Tap.[^44] Since then, NEWater plants have been built in Kranji (2003), Seletar (2004 but decommissioned in 2011), Ulu Pandan (2007) and Changi (2010 and 2017).[^45] These plants are expected to meet up to 55 percent of Singapore’s future water needs by 2060.[^46]
 
