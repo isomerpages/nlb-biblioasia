@@ -1,5 +1,5 @@
 collections:
-  17-3-oct-to-dec-2021:
+  oct-to-dec-2021:
     output: true
     order:
       - directors-note.md
