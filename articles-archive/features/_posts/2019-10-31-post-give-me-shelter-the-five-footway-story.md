@@ -35,8 +35,15 @@ Operating in the five-footway required minimal capital, and thus it was the most
 <img src="/images/Vol-15-issue-3/give-me-shelter/Shelter3.JPG">
 <div style="background-color: white;">A photo of China Street showing the rows of shophouses and their five-footways by G.R. Lambert & Co., c. 1890s. <i>Courtesy of Editions Didier Millet.</i></div>
 
-Although the lives of Asian migrants in Singapore were steeped in this ecosystem, many Europeans found this vernacular environment appalling. Those who considered this social space as a novelty tended to view it as “exotic”, as John Cameron, former editor of The Straits Times, did when he wrote: “[I]n a quiet observant walk through [the five-footways] a very great deal may be learned concerning the peculiar manners and customs of the trading inhabitants”.4
+Although the lives of Asian migrants in Singapore were steeped in this ecosystem, many Europeans found this vernacular environment appalling. Those who considered this social space as a novelty tended to view it as “exotic”, as John Cameron, former editor of *The Straits Times*, did when he wrote: “[I]n a quiet observant walk through [the five-footways] a very great deal may be learned concerning the peculiar manners and customs of the trading inhabitants”.4
 
 British traveller and naturalist Isabella Bird was similarly taken by the liveliness of the five-footways when she visited Singapore in 1879:
 
 “… more interesting still are the bazaars or continuous rows of open shops which create for themselves a perpetual twilight by hanging tatties or other screens outside the sidewalks, forming long shady alleys, in which crowds of buyers and sellers chaffer over their goods”.5
+
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
+<b>The “Five-footway” Misnomer</b><br><br>
+	The five-footway was historically known as the <i>verandah</i>, <i>kaki lima</i>, <i>ghokhaki</i> or <i>wujiaoji</i> (五脚基) – the latter three meaning “five feet” in Malay, Hokkien and Mandarin, respectively. However, these vernacular names and the commonly used “five-footway” are in fact misnomers: few of these walkways are actually 5 feet (1.5 m) wide as the regulation for the width of the path changed over time.
+<br><br>
+While the earliest verandahs spanned 5 or 6 feet (1.5 or 1.8 m), from the 1840s onwards, the law decreed that the path should be at least 6 feet wide. In 1887, the stipulated width extended to 7 feet (2.1 m), and subsequent legislations decreed a minimum of 7 feet. A 1929 by-law declared that footways in the busy thoroughfares of Chulia Street, Raffles Place and High Street should be at least 8 feet (2.4 m) wide, with no more than two feet of space occupied.6
+</span>
