@@ -158,3 +158,15 @@ Following a deadly confrontation with the police, the riots were quelled and, on
 </div>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-15/issue-3/oct-dec-2019/"><center>Back to Issue</center></a>
+
+#### **NOTES**
+[^1]:
+[^2]:
+[^3]:
+[^4]:
+[^5]:
+[^6]:
+[^7]:
+[^8]:
+[^9]:
+[^10]:
