@@ -91,3 +91,20 @@ At dusk, as traders wound up for the day, residents gathered at the five-footway
 
 The five-footway did not merely serve economic needs – it was also a space for social interaction. Rather than being just a “conduit for human traffic” as it had originally been intended, academic Brenda S.A. Yeoh suggests that Asians perceived the five-footway in a “more ambivalent light”, such that the space was “sufficiently elastic to allow the co-existence of definitions”.17 It was precisely this flexibility of use that created the colourful multiplicity of local life found in the five-footways.
 
+#### **A Public Health Threat**
+
+While mundane daily life unfolded in the five-footways, the authorities were dogged by sanitary issues such as clogged drains and sometimes even abandoned corpses. A strongly worded letter published in *The Straits Times* in 1892 by the municipal health officer accused “vagrant stallholders” of dumping refuse and bodily excretions into drains, causing an “abominable stench”.18
+
+An exasperated member of the public echoed this sentiment in 1925, calling the obstruction by hawkers a “grave menace not only to the safety but also to the cleanliness and order of the town”.19 The congestion of the five-footways prevented the municipality from carrying out sanitation works, such as the maintenance of drains. Over the years, the campaign to remove five-footway obstruction was often couched in the interests of public health and hygiene.
+
+Adding to the public health threat was the issue of visual disorder, which was also anathema to the government. An article published in 1879 in the *Straits Times Overland Journal* bemoaned the state of chaos along the five-footways:
+
+“It is not too much to say that there is no well-regulated city in this world in which such a state of affairs as can be daily seen, in say China Street, would be permitted.”20
+
+Some Europeans also floated orientalist – and ultimately racist – conceptions of Asians in Singapore.
+
+An 1898 article in *The Singapore Free Press* charged that the practice of obstructing a public walkway was “essentially Eastern” and attributed this to the Asians’ supposed lack of civility, “as the large majority of those… have been born and brought up in places where our more civilised views do not prevail… it is the more difficult for the authorities to secure obedience to their wishes”.21
+
+<img src="/images/Vol-15-issue-3/give-me-shelter/Shelter7.JPG">
+<div style="background-color: white;">A group of men playing cards on the five-footway along Serangoon Road, c. 1970s. The five-footway is a place for social interaction and the strengthening of communal ties. <i>Ronni Pinsler Collection, courtesy of National Archives of Singapore.</i></div>
+
