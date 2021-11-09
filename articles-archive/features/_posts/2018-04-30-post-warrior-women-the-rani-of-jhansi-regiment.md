@@ -36,18 +36,18 @@ With Japanese support, this force was expected to rally opposition to British co
 
 Bose arrived in Singapore on 2 July 1943 to an enthusiastic welcome from the Indian community. He immediately took command of both the Indian Independence League (IIL), a political organisation of expatriate Indians, and the INA. The latter was made up of approximately 40,000 Indian soldiers, and one of Bose’s first initiatives was to encourage civilian recruits to join this army.
 
+<img style="width: 350px; height: 450px;" src="/images/Vol-14-issue-1/warrior-women/Warrior5.JPG">
+<div style="background-color: white;">Subhas Chandra Bose arriving in Singapore on 2 July 1943. <i>Nirvan Thivy Collection, courtesy of National Archives of Singapore.</i></div>
+
 #### **Beginnings of the Jhansi Regiment**
 
 Bose was from Bengal, a state that more than any other in India encouraged the education and emancipation of women. It was this principle that led him to create a regiment of women in the INA. The new regiment was formed on 12 July 1943 and Bose named it after the legendary Rani of Jhansi, who famously rode into battle against the British in 1858, and died a martyr to the Indian cause.
-
-<img style="width: 350px; height: 450px;" src="/images/Vol-14-issue-1/warrior-women/Warrior5.JPG">
-<div style="background-color: white;">Subhas Chandra Bose arriving in Singapore on 2 July 1943. <i>Nirvan Thivy Collection, courtesy of National Archives of Singapore.</i></div>
 
 Reported numbers vary, but it is thought that the Rani of Jhansi Regiment consisted of well over 1,000 Indian women, spread out over camps in Singapore, Malaya and Burma (Myanmar). It is estimated that only 20 percent of the recruits were well educated women, who became the commanding officers. The remaining 80 percent were the wives and daughters of Tamil labourers who worked on the rubber estates of Malaya, and who would have been either illiterate, or have had no more than a few years of basic education.
 
 Before large and enthusiastic rallies on the Padang and at Farrer Park, Bose set out his vision for India, and his wish that the Indian women of Singapore, Malaya and Burma – like their contemporaries in the Indian motherland – participate in the freedom movement too.
 
- “This must be a truly revolutionary army… I am appealing also to women… women must be prepared to fight for their freedom and for independence… along with independence they will get their own emancipation”.[^1]
+ “This must be a truly revolutionary army… I am appealing also to women… women must be prepared to fight for their freedom and for independence… along with independence they will get their own emancipation.”[^1]
 
 Bose’s inspiring words caused women listening to him on the Padang to surge forward through police barricades, eager to fight as he demanded, for India and their own emancipation.
 
