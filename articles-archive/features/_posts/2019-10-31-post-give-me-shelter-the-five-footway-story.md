@@ -108,3 +108,24 @@ An 1898 article in *The Singapore Free Press* charged that the practice of obstr
 <img src="/images/Vol-15-issue-3/give-me-shelter/Shelter7.JPG">
 <div style="background-color: white;">A group of men playing cards on the five-footway along Serangoon Road, c. 1970s. The five-footway is a place for social interaction and the strengthening of communal ties. <i>Ronni Pinsler Collection, courtesy of National Archives of Singapore.</i></div>
 
+#### **Whose Right of Way?**
+
+As the public and private spheres met in the liminal space of the five-footway, conflict over the right of use became inevitable. Almost from the very start, the verandah had been a thorny issue for the municipal authorities. Members of the public – mainly Europeans – expressed their frustration at having to jostle for space with vendors and their wares, along with shops whose goods occupied the entire walkway and the odd coolie having a siesta. Complaints revolved around the “risk of sunstroke or being run over” as pedestrians had to walk along the side of the road.22 Meanwhile, the municipality faced great difficulty in regulating the verandah for pedestrian use.
+
+Conflict over the use of the footways persisted for over a century, with the “Verandah Question” becoming a hotly debated topic in many municipal meetings. In 1863, it seemed that the municipal commissioners and frustrated pedestrians had won the battle when the court ruled that all verandahs were to be “completely cleared and made available for passenger traffic”.23
+
+<img src="/images/Vol-15-issue-3/give-me-shelter/Shelter8.JPG">
+<div style="background-color: white;">Children playing on the five-footway at the junction of Club Street and Gemmill Lane, 1972. <i>Paul Piollet Collection, courtesy of National Archives of Singapore.</i></div>
+
+However, as few people actually adhered to the regulation, the encumbrance of the five-footways continued, much to the chagrin of law enforcers. Finally, in July 1887, legislation was passed granting municipal officers the power to forcefully clear the five-footways and streets of any obstructions. The perceived incursion into the space used by the Asian communities resulted in a three-day strike and riot in February 1888 (see textbox below).
+
+Nonetheless, the five-footway trade and the various obstructions continued unabated – as did complaints by the Europeans – with the Asians fighting back against any threat to their livelihoods and way of life. At the end of the 19th century, the municipal authorities decided that it would be impossible to enforce a completely free passageway; instead, they sought a compromise such that vendors could carry on with their trades as long as they were itinerant and did not encroach on any particular area for prolonged periods.
+
+By 1899, the five-footway problem was referred to as the “very old Verandah Question” in the press,24 with the situation devolving into a game of “whack-a-mole” as officials sought out “obstructionists” and meted out fines to offenders. On 26 September 1900 alone, 70 individuals were fined $5 each for obstructing the five-footway.25 However, as the sheltered walkway was a transient space that saw the movement of both humans and goods, the task of completely eradicating occupation of the five-footways proved rather onerous. A letter to *The Straits Times* in 1925 said as much:
+
+“The most insidious and worst kind of obstruction is the temporary one. It consists generally of merchandise being either despatched from or received into a godown. In reality the obstruction is permanent, because as soon as one lot is removed another takes its place”.26
+
+From 1907 onwards, night street food hawkers were subject to licensing by the authorities. After Singapore’s independence in 1965, food peddlers were moved into new standalone hawker centres. Nevertheless, the occasional itinerant food vendor could still be spotted along five-footways up until the 1980s. Over time, other five-footway traders also disappeared as the rules and their enforcement were tightened. Those with the means could relocate to a permanent location, while others simply gave up their trade for good.
+
+<img src="/images/Vol-15-issue-3/give-me-shelter/Shelter9.JPG">
+<div style="background-color: white;">Goods spilling out onto the five-footway along Tanjong Pagar Road, 1982. <i>Lee Kip Lin Collection. All rights reserved, Lee Kip Lin and National Library Board Singapore.</i></div>
