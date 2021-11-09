@@ -132,7 +132,7 @@ Corruption and unaccountability rampant at all levels had to be quickly eradicat
 
 The GTO went to work. One of the first things they did was to destroy all bus tickets and print new ones, after which takings went up dramatically. They kept records, computerised takings and closely monitored staff. There was some initial resistance at first from not just SBS management and staff, but also from government departments. With the backing of then Prime Minister Lee Kuan Yew, the GTO managed to resolve matters with the government departments, and also worked closely with the unions to bring order and discipline back to the workforce. Khoo Ban Tian of Malayan Banking was approached to provide a loan of several million dollars as an emergency fund to tide the company over.[^26]
 
-<div style="background-color: white;"><img src="/images/Vol-13-issue-3/public-buses-in-singapore/06_publicbus.png">(Top) Pre-1971 bus tickets issued by the 10 Chinese bus companies;<br>
+<div style="background-color: white;"><img style="width:400px" src="/images/Vol-13-issue-3/public-buses-in-singapore/06_publicbus.png">(Top) Pre-1971 bus tickets issued by the 10 Chinese bus companies.<br>
 (Second row) Bus tickets issued by United Bus Company, Associated Bus Services and Amalgamated Bus Company between 1971 and 1973. <i>All rights reserved, York, F. W., & Philips, A. R. (1996). Singapore: A History of its Trams, Trolleybuses and Buses Vol 2: 1970s and 1990s (pp. 18, 45). Surrey: DTS Publishing. (Call no.: RSING 388.41322095957 YOR).</i><br>
 (Above) A bus conductor’s ticket punch from the 1960s. <i>F W York Collection, courtesy of National Archives of Singapore</i></div>
 
