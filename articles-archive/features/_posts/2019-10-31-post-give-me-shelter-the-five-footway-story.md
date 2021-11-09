@@ -129,3 +129,32 @@ From 1907 onwards, night street food hawkers were subject to licensing by the au
 
 <img src="/images/Vol-15-issue-3/give-me-shelter/Shelter9.JPG">
 <div style="background-color: white;">Goods spilling out onto the five-footway along Tanjong Pagar Road, 1982. <i>Lee Kip Lin Collection. All rights reserved, Lee Kip Lin and National Library Board Singapore.</i></div>
+
+#### **Resurgence of an Old Problem**
+
+In 1998, the problem resurfaced when Emerald Hill in the Orchard Road district was redeveloped into a nightlife area. To promote vibrancy in Emerald Hill, the Urban Redevelopment Authority permitted the use of the five-footway for food-and-beverage businesses. However, this drew the ire of a long-time resident, who said she was deprived of “the seamless, sheltered stroll she used to enjoy”, denying her the “equal right to that public space as intended by the town planners of yore”.27
+
+In 2015, the popular nightlife at Circular Road near Boat Quay came under threat when the Land Transport Authority became stricter with countering pavement obstruction. Officials spotted “goods, tables and other materials” that had been “untidily” laid out on the streets, five-footways and back lanes of shophouses. This led to pedestrians having to skirt these obstructions and walk along the side of roads, causing them “inconvenience and danger”28  – a refrain that harks back to as early as the 1840s.
+
+But one thing has changed: the use of the five-footway for business is today framed in terms of culture and heritage as people feel that allowing a more flexible use of the five-footway would help preserve the “city’s character”.29
+
+These days, albeit rarely, one may encounter a cobbler, florist or tailor on the five-footways of Little India, Chinatown or Kampong Glam, or shophouse businesses using the walkway space in front to display their goods.
+
+Navigating Singapore’s five-footways today is still a more interesting way of experiencing the city compared to the modern air-conditioned shopping complex, where homogeneity and predictability reign.
+
+<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> 
+<b>THE VERANDAH RIOTS</b>
+<br><br>
+On 21 February 1888, under orders from Municipal President T.I. Rowell, municipal inspectors began clearing away obstructions along five-footways in the Kampong Glam area. As the authorities moved towards North Bridge Road, many shopkeepers shuttered their shops in protest. Chinese secret societies also began fomenting unrest – they had a stake in the five-footway trade as they offered “protection” to vendors in their territories in return for a fee. Soon, tramcars entering the town centre became the target of people armed with stones, and had their windows smashed.
+<br><br>
+The violence escalated the following day. Secret society members hurled stones and bricks at people and vehicles in the vicinity of South Bridge Road, China Street, Canal Road, Boat Quay and North Bridge Road. Europeans who ventured into these areas were pelted with stones, with a number of them sustaining injuries. The town came to a standstill as no carriages or rickshaws dared to ply the area. The disruption continued into 23 February.
+<br><br>
+Following a deadly confrontation with the police, the riots were quelled and, on the third day, shops began reopening. In the following weeks, local newspapers became once again fixated with the “Verandah Question”. Eventually, the law was amended to relax the prohibition of five-footway obstruction – as long as the five-footway could accommodate people walking two abreast, the authorities took no action.
+</div>
+<br>
+<div style="background-color: white;">
+<img src="/images/Vol-15-issue-3/give-me-shelter/Shelter10.jpg" style="width: 100px; height: 100px;">
+<b>Fiona Lim</b> is a freelance writer, editor and researcher who is interested in the complexities of a city and its people.
+</div>
+
+<a href="https://biblioasia.nlb.gov.sg/vol-15/issue-3/oct-dec-2019/"><center>Back to Issue</center></a>
