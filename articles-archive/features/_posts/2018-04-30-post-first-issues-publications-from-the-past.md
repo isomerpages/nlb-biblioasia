@@ -14,13 +14,13 @@ First issues of famous and iconic magazines, such as *Life* and *National Geogra
 
 First impressions do count in the publishing business. If the cover is dull, and the contents pedestrian and do not resonate with the intended audience, there is a good chance the publication will not last beyond the first year.
 
-While editors often try and anticipate readers’ tastes when deciding on the contents, some have firm personal convictions about what is right (or wrong) for their readership.1 Editorials – either in the form of a lead article or an introductory note from the editor-in-chief or publisher – are usually worth more than a cursory read.
+While editors often try and anticipate readers’ tastes when deciding on the contents, some have firm personal convictions about what is right (or wrong) for their readership.[^1] Editorials – either in the form of a lead article or an introductory note from the editor-in-chief or publisher – are usually worth more than a cursory read.
 
-In the first issue of *The Food Paper* launched in January 1987, its editor, well-known food critic Violet Oon, claimed that her culinary magazine “will excite, titillate and amuse” its readers. Published in a newspaper format, it was pitched as an “affordable” publication for food connoisseurs looking to experience “love at first bite”.2
+In the first issue of *The Food Paper* launched in January 1987, its editor, well-known food critic Violet Oon, claimed that her culinary magazine “will excite, titillate and amuse” its readers. Published in a newspaper format, it was pitched as an “affordable” publication for food connoisseurs looking to experience “love at first bite”.[^2]
 
-The editor of literary magazine *Tumasek* had loftier ambitions, asserting that “at the inception of a magazine, it is necessary to promulgate one’s intentions and aspirations…, and it is fitting that the editorial of our first number should be devoted to this end”.3
+The editor of literary magazine *Tumasek* had loftier ambitions, asserting that “at the inception of a magazine, it is necessary to promulgate one’s intentions and aspirations…, and it is fitting that the editorial of our first number should be devoted to this end”.[^3]
 
-Published with a discerning audience in mind, the editor of *Folk Scene Singapore* aimed “to present folk music in its fullest spectrum”, adding that if readers “find our interpretation controversial, in which case we shall be pleased, as this magazine intends to be controversial on the subject of music”.4
+Published with a discerning audience in mind, the editor of *Folk Scene Singapore* aimed “to present folk music in its fullest spectrum”, adding that if readers “find our interpretation controversial, in which case we shall be pleased, as this magazine intends to be controversial on the subject of music”.[^4]
 
 #### **Pages from the Past**
 
@@ -34,7 +34,7 @@ Featured in this essay are just a sampling of titles from a collection of about 
 <b>The Journal of the Singapore Society of Architects</b> (December 1923)
 <br><br>
 <img style="width: 300px; height: 400px;" src="/images/Vol-14-issue-1/first-issues/First2.JPG"><br>
-This journal of the Singapore Society of Architects, the precursor of the Singapore Institute of Architects, was launched the same time the society was established in 1923 with 11 founding members, one of whom was the municipal architect S. Douglas Meadows. The society aimed to foster the growing interest in architecture in Singapore after World War I. According to Meadows who became the first president of the society, “to design in beauty and build in strength should be the aim of the architect”.5
+This journal of the Singapore Society of Architects, the precursor of the Singapore Institute of Architects, was launched the same time the society was established in 1923 with 11 founding members, one of whom was the municipal architect S. Douglas Meadows. The society aimed to foster the growing interest in architecture in Singapore after World War I. According to Meadows who became the first president of the society, “to design in beauty and build in strength should be the aim of the architect”.[^5]
 <br><br>
 <b>Student World </b> (Vol. 1, No. 1, 5 May 1958)
 <br><br>
@@ -49,7 +49,7 @@ Founded by award-winning writer and poet Goh Poh Seng, the inaugural issue of th
 	<b>Her World </b>(Vol. 1, July 1960)
 <br><br>
 <img style="width: 300px; height: 400px;" src="/images/Vol-14-issue-1/first-issues/First5.JPG"><br>
-	Launched in July 1960, <i>Her World</i> is the first English-language women’s magazine published in Singapore and the longest-running to date. Local model Nancy Koh, with half her face artistically cropped out, was the first cover girl. According to the editor, the cover “suggest[s] all the mystery of the East”.6
+	Launched in July 1960, <i>Her World</i> is the first English-language women’s magazine published in Singapore and the longest-running to date. Local model Nancy Koh, with half her face artistically cropped out, was the first cover girl. According to the editor, the cover “suggest[s] all the mystery of the East”.[^6]
 <br><br>
 	<b>旋律飞扬 (Xuan Lü Fei Yang) </b>(March 1987)
 <br><br>
@@ -84,7 +84,7 @@ A popular monthly magazine for women, the inaugural issue interviewed cover girl
 	<b>The Food Paper </b>(January 1987)
 <br><br>
 <img style="width: 300px; height: 400px;" src="/images/Vol-14-issue-1/first-issues/First13.JPG"><br>
-Helmed by Violet Oon, the grande dame of Singaporean cooking, the monthly magazine hoped to “excite, titillate and amuse” its readers.7 In this first issue, the magazine takes readers on a whirlwind tour of the best “private hawker centres” in Singapore. These included Scotts Picnic Food Court, Forum Galleria’s Rasa Forum Food Fair, Orchard Food + Plus, Waterloo Food Paradise and Bugis Square Food Centre.
+Helmed by Violet Oon, the grande dame of Singaporean cooking, the monthly magazine hoped to “excite, titillate and amuse” its readers.[^7] In this first issue, the magazine takes readers on a whirlwind tour of the best “private hawker centres” in Singapore. These included Scotts Picnic Food Court, Forum Galleria’s Rasa Forum Food Fair, Orchard Food + Plus, Waterloo Food Paradise and Bugis Square Food Centre.
 </span>
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
