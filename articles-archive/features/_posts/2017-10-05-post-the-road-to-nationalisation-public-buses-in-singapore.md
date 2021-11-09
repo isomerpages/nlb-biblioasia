@@ -59,4 +59,12 @@ A period of expansion soon followed, but this was accompanied by failed attempts
 • Punggol Bus Service (established in 1936)<br>
 • Easy Bus Company (established in 1946)<br>
 • Hock Lee Amalgamated Bus Company (formed in 1951 from a merger between Ngo Hock Motor Bus Company, established in 1929, and Soon Lee Bus Company, established in 1931)
-<br></span>
+<br><br>
+<b>1930s–1970</b><br>
+• Singapore Traction Company (ceased operations in 1971)<br>
+• Amalgamated Bus Company (formed from a merger of Hock Lee, Keppel Bus and Kampong Bahru in 1971)<br>
+• Associated Bus Services (formed from a merger of Paya Lebar, Changi, Katong-Bedok and Punggol in 1971)<br>
+• United Bus Company (formed from a merger of Tay Koh Yat, Green Bus and Easy Bus in 1971)
+<br><br>
+<b>1973</b><br>
+• Singapore Bus Service (merger of Amalgamated, Associated and United bus companies)</span>
