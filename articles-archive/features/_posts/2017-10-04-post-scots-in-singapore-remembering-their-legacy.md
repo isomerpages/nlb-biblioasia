@@ -14,7 +14,7 @@ Initially, trading in Singapore was dominated by the EIC, which held a monopoly 
 
 As the settlement developed from 1819 onwards, districts, features, thoroughfares and bridges all demanded to be named. In modern Singapore, many of these places and landmarks still bear the names given by EIC officials and their successors. As large numbers of EIC merchants, military personnel and administrative staff were Scots, it is no surprise that Scottish names dominate Singapore’s iconic town centre, the river environs as well as several prime residential areas.
 
-James MacRitchie, John Turnbull Thomson, John Crawfurd, John Anderson, Robert Fullerton, Thomas Murray Robertson and William George Scott. These names – which read like the who’s who of the early Scottish community in Singapore − have left an indelible mark on the island. Who were these men and what were their contributions to Singapore? These are themes that I explore in my book, From Kilts to Sarongs: Scottish Pioneers of Singapore. This essay considers a small selection of the city’s more prominent landmarks and place names that reflect the heritage of its Scottish pioneers.
+James MacRitchie, John Turnbull Thomson, John Crawfurd, John Anderson, Robert Fullerton, Thomas Murray Robertson and William George Scott. These names – which read like the who’s who of the early Scottish community in Singapore − have left an indelible mark on the island. Who were these men and what were their contributions to Singapore? These are themes that I explore in my book, *From Kilts to Sarongs: Scottish Pioneers of Singapore*. This essay considers a small selection of the city’s more prominent landmarks and place names that reflect the heritage of its Scottish pioneers.
 
 <div style="background-color: white;"><img style="width:400px" src="/images/Vol-13-issue-3/scots-in-singapore/02_scots.jpg">Portrait of John Turnbull Thomson, at 25 years of age, by Beyerhaus in 1845. Thomson was appointed Government Surveyor for the Straits Settlements in 1841, and served as both surveyor and engineer to Singapore for the next 12 years. <i>All rights reserved, Hall-Jones, J., & Hooi, C. (1979). An Early Surveyor in Singapore: John Turnbull Thomson in Singapore, 1841–1853 (p. 35). Singapore: National Museum. (Call no.: RSING 526.90924 THO).</i></div>
 
@@ -163,4 +163,4 @@ Vibart H.M. (1881). *The military history of the Madras engineers and pioneers, 
 
 [^2]:The cast iron work was shipped out from Glasgow by P & W MacLellan. The cast-iron columns which support the structure, however, bear the maker’s mark of MacFarlane and Company. 
 
-[^3]:Dunearn is a composite word formed from two words: Dun and Earn. *Dùn* in Scottish Gaelic means “fort”. Loch Earn is a freshwater loch in the central highlands of Scotland. 
+[^3]:Dunearn is a composite word formed from two words: Dun and Earn. *Dùn* in Scottish Gaelic means “fort”. Loch Earn is a freshwater loch in the central highlands of Scotland.
