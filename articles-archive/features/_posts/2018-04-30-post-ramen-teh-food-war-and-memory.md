@@ -30,7 +30,7 @@ Singaporeans love Japanese food and the Japanese are also developing a taste for
 
 A: The starting point is always the characters. As our main character Masato is of Japanese-Singaporean parentage, World War II naturally came into play when I decided to inject drama and conflict in the film. We wanted ultimately to show that *Ramen Teh* is a story of love and forgiveness.
 
-<img src="/images/Vol-14-issue-1/ramen-teh/Ramen3.JPG">
+<img style="width: 450px; height: 400px;" src="/images/Vol-14-issue-1/ramen-teh/Ramen3.JPG">
 <div style="background-color: white;">Masato discovering the diverse experiences and accounts of the people in Singapore during the Japanese Occupation at the exhibition in the Former Ford Factory. The film also features resources from the National Archives of Singapore. <i>Courtesy of Zhao Wei FiIms.</i></div>
 
 **Q: Why did you choose to film at Former Ford Factory when there are other war-related sites in Singapore?**
@@ -45,7 +45,7 @@ A: The Japanese production crew and actors were deeply moved by what they saw. T
 
 A: I think it is difficult for any generation to truly understand the experience of war when they have only known peacetime in their lives. Even more so when their parents or grandparents who lived through the war years have passed on. There is little motivation for subsequent generations to share the war stories of their forefathers, especially when some of these may be traumatic. *Ramen Teh* does provide an insight into the impact of World War II on modern times through the plot and characters – even though that was not my primary intention.
 
-<img src="/images/Vol-14-issue-1/ramen-teh/Ramen4.JPG">
+<img style="width: 500px; height: 380px;" src="/images/Vol-14-issue-1/ramen-teh/Ramen4.JPG">
 <div style="background-color: white;">In a dream-like scene, Masato’s parents (played by Japanese actor Tsuyoshi Ihara and Singaporean actress Jeanette Aw) enjoy the ramen teh that Masato has prepared. <i>Courtesy of Zhao Wei Films.</i></div>
 
 **Q: Do you think that the legacy of World War II still shapes current-day Singapore and Japan?**
