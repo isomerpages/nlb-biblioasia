@@ -171,21 +171,21 @@ Following a deadly confrontation with the police, the riots were quelled and, on
 [^9]:In the 1890s, the five-footway could be divided up into a maximum of four units and subleased, each paying a monthly rent of between $1 and $15. See [Yeoh](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200108247), 2003, p.247.
 [^10]:National Heritage Board. (2012). *Kampong Glam: A heritage trail* (pp. 27, 35). Retrieved from National Heritage Board website.
 [^11]:Yeo, L.F. (Interviewer). (2000, May 13). [*Oral history interview with Song Moh Ngai*](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/76f9d2ac-115e-11e3-83d5-0050568939ad) [Recording no. 002304/25/17]. Retrieved from National Archives of Singapore website.
-[^12]:Yeo, L.F. (Interviewer). (1999, October 6). [*Oral history interview with Sew Teng Kwok*](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/13df35c4-1160-11e3-83d5-0050568939ad) [Recording no. 002209/23/5]; Yeo, G.L. (Interviewer). [*Oral history interview with Kannusamy s/o Pakirisamy*](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e0408dfe-115d-11e3-83d5-0050568939ad-OHC000081_016/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png) [Transcript of recording no. 000081/28/18, pp. 285–286]. Retrieved from National Archives of Singapore website; Cameron, J. (1865). [Our tropical possessions in Malayan India](http://eresources.nlb.gov.sg/printheritage/detail/7658c549-f1c5-47c7-b8b6-831f7eb90c58.aspx) […] (p. 66). London: Smith, Elder and Co. Retrieved from BookSG.
-[^13]:
-[^14]:
-[^15]:
-[^16]:
+[^12]:Yeo, L.F. (Interviewer). (1999, October 6). [*Oral history interview with Sew Teng Kwok*](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/13df35c4-1160-11e3-83d5-0050568939ad) [Recording no. 002209/23/5]; Yeo, G.L. (Interviewer). [*Oral history interview with Kannusamy s/o Pakirisamy*](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e0408dfe-115d-11e3-83d5-0050568939ad-OHC000081_016/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png) [Transcript of recording no. 000081/28/18, pp. 285–286]. Retrieved from National Archives of Singapore website; Cameron, J. (1865). [*Our tropical possessions in Malayan India*](http://eresources.nlb.gov.sg/printheritage/detail/7658c549-f1c5-47c7-b8b6-831f7eb90c58.aspx) […] (p. 66). London: Smith, Elder and Co. Retrieved from BookSG.
+[^13]:Yeo, L.F. (Interviewer). (1999, November 5). [*Oral history interview with Foong Lai Kum*](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/7e2003fa-115e-11e3-83d5-0050568939ad) [Recording no. 002226/12/7]. Retrieved from National Archives of Singapore website.
+[^14]:Singapore. Archives & Oral History Department. (1985). [*Five-foot-way traders*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4080651). Singapore: Archives & Oral History Department, p. 36. (Call no.: RDLKL 779.9658870095957 FIV).
+[^15]:Siddique, S., & Shotam, N.P. (1982). [*Singapore’s Little India: Past, present, and future*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082449) (pp. 101–104). Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 305.89141105957 SID).
+[^16]:[*Oral history interview with Sew Teng Kwok*](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/13df35c4-1160-11e3-83d5-0050568939ad), 6 Oct 1999.
 [^17]:
 [^18]:
 [^19]:
 [^20]:
 
 
-Yeo, L.F. (Interviewer). (1999, November 5). Oral history interview with Foong Lai Kum [Recording no. 002226/12/7]. Retrieved from National Archives of Singapore website.
-Singapore. Archives & Oral History Department. (1985). Five-foot-way traders. Singapore: Archives & Oral History Department, p. 36. (Call no.: RDLKL 779.9658870095957 FIV)
-Siddique, S., & Shotam, N.P. (1982). Singapore’s Little India: Past, present, and future (pp. 101–104). Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 305.89141105957 SID)
-Oral history interview with Sew Teng Kwok, 6 Oct 1999.
+
+
+
+
 Yeoh, 2003, p. 247.
 The municipal health officer on the verandah question. (1892, April 30). The Straits Times, p. 3. Retrieved from NewspaperSG.
 Street obstruction. (1925, July 11). The Straits Times, p. 10. Retrieved from NewspaperSG.
