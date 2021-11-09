@@ -196,16 +196,16 @@ This episode in Singapore’s history is also an example of the bold and decisiv
 
 [^21]:Old buses are main cause of poor service. (1973, March 16). The Straits Times, p. 18. Retrieved from NewspaperSG; York, Davis & Osborne, 2009, pp. 47–51. 
 
-[^22]:York, Davis & Osborne, 2009, pp. 53–56, 82. 
+[^22]:[York, Davis & Osborne](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14539222), 2009, pp. 53–56, 82. 
 
-[^23]:Singapore. Ministry of Communications (1974). Management and operations of Singapore Bus Service Ltd: Report of Government Team of Officials  (p. 27). Singapore: Printed by Singapore National Printers. (Call no.: RSING 388.322 MAN) 
+[^23]:Singapore. Ministry of Communications (1974). *[Management and operations of Singapore Bus Service Ltd: Report of Government Team of Officials](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081745)*  (p. 27). Singapore: Printed by Singapore National Printers. (Call no.: RSING 388.322 MAN) 
 
-[^24]:York, Davis & Osborne, 2009, p. 81; Ng, 2002, pp. 24–25; Looi, T.S., & Chi, C.C. (2016). An evolving public transport eco-system. In T.F. Fwa (Ed), 50 years of transportation in Singapore: Achievements and challenges (p. 83). Singapore: World Scientific Publishing Co. Pte. Ltd. (Call no.: RSING 388.095957 FIF) 
+[^24]:[York, Davis & Osborne](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14539222), 2009, p. 81; Ng, 2002, pp. 24–25; Looi, T.S., & Chi, C.C. (2016). An evolving public transport eco-system. In T.F. Fwa (Ed), *[50 years of transportation in Singapore: Achievements and challenges](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202435924)* (p. 83). Singapore: World Scientific Publishing Co. Pte. Ltd. (Call no.: RSING 388.095957 FIF) 
 
-[^25]:Sharp, 2005, p. 49; Singapore. Ministry of Communications, 1974, pp. 11, 18, 20. 
+[^25]:[Sharp](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12540556), 2005, p. 49; [Singapore. Ministry of Communications](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081745), 1974, pp. 11, 18, 20. 
 
-[^26]:Sharp, 2005, p. 49. 
+[^26]:[Sharp](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12540556), 2005, p. 49. 
 
-[^27]:York, Davis & Osborne, 2009, p. 83; Sharp, 2005, p. 50. 
+[^27]:[York, Davis & Osborne](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14539222), 2009, p. 83; [Sharp](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12540556), 2005, p. 50. 
 
-[^28]:York, Davis & Osborne, 2009, pp. 82–83, 106.
+[^28]:[York, Davis & Osborne](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14539222), 2009, pp. 82–83, 106.
