@@ -160,23 +160,23 @@ Following a deadly confrontation with the police, the riots were quelled and, on
 <a href="https://biblioasia.nlb.gov.sg/vol-15/issue-3/oct-dec-2019/"><center>Back to Issue</center></a>
 
 #### **NOTES**
-[^1]:
-[^2]:
-[^3]:
-[^4]:
-[^5]:
-[^6]:
-[^7]:
+[^1]:Hou, J., & Chalana, M. (2016). Untangling the ‘messy’ Asian city (p. 3). In J. Hou & M. Chalana (Eds.), [*Messy urbanism: Understanding the “other” cities of Asia*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202775474)(pp. 1–21). Hong Kong: Hong Kong University Press. (Call no.: RSEA 307.76095 MES).
+[^2]:Buckley, C.B. (1902). [*An anecdotal history of Singapore*](http://eresources.nlb.gov.sg/printheritage/detail/303beefb-31d7-4dad-83fb-593054096717.aspx) (Vol. 1, p. 84). Singapore: Fraser & Neave, Ltd. Retrieved from BookSG.
+[^3]:Lim, J.S.H. (1993). The ‘Shophouse Rafflesia’: An outline of its Malaysian pedigree and fits subsequent diffusion in Asia. *Journal of the Malaysian Branch of the Royal Asiatic Society, 66* (1) (*264*), *47–66*, pp. 51–52. Retrieved from JSTOR via NLB’s eResources website.
+[^4]:Cameron, J. (1865). [*Our tropical possessions in Malayan India*](http://eresources.nlb.gov.sg/printheritage/detail/7658c549-f1c5-47c7-b8b6-831f7eb90c58.aspx) […] (p. 60). London: Smith, Elder and Co. Retrieved from BookSG.
+[^5]:Bird, I. ([1883]; 1967 reprint).  [*The Golden Chersonese and the way thither*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4764597) (p. 150). Singapore: Oxford University Press. (Call no.: RCLOS 959.5 BIR).
+[^6]:Yeoh, B.S.A. (2003). [*Contesting space in colonial Singapore: Power relations and the urban built environment*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200108247) (p. 272). Singapore: Singapore University Press. (Call no.: RSING 307.76095957 YEO).
+[^7]:When local house rents were cheap. (1934, April 15). The Sunday Tribune, p. 19. Retrieved from NewspaperSG.
 [^8]:
 [^9]:
 [^10]:
-Hou, J., & Chalana, M. (2016). Untangling the ‘messy’ Asian city (p. 3). In J. Hou & M. Chalana (Eds.), Messy urbanism: Understanding the “other” cities of Asia (pp. 1–21). Hong Kong: Hong Kong University Press. (Call no.: RSEA 307.76095 MES)
-Buckley, C.B. (1902). An anecdotal history of Singapore (Vol. 1, p. 84). Singapore: Fraser & Neave, Ltd. Retrieved from BookSG.
-Lim, J.S.H. (1993). The ‘Shophouse Rafflesia’: An outline of its Malaysian pedigree and fits subsequent diffusion in Asia. Journal of the Malaysian Branch of the Royal Asiatic Society, 66 (1) (264), 47–66, pp. 51–52. Retrieved from JSTOR via NLB’s eResources website.
-Cameron, J. (1865). Our tropical possessions in Malayan India […] (p. 60). London: Smith, Elder and Co. Retrieved from BookSG.
-Bird, I. ([1883]; 1967 reprint).  The Golden Chersonese and the way thither (p. 150). Singapore: Oxford University Press. (Call no.: RCLOS 959.5 BIR)
-Yeoh, B.S.A. (2003). Contesting space in colonial Singapore: Power relations and the urban built environment (p. 272). Singapore: Singapore University Press. (Call no.: RSING 307.76095957 YEO)
-When local house rents were cheap. (1934, April 15). The Sunday Tribune, p. 19. Retrieved from NewspaperSG.
+
+
+
+
+
+
+
 [Untitled]. (1843, February 23). The Singapore Free Press and Mercantile Advertiser, p. 3. Retrieved from NewspaperSG.
 In the 1890s, the five-footway could be divided up into a maximum of four units and subleased, each paying a monthly rent of between $1 and $15. See Yeoh, 2003, p.247.
 National Heritage Board. (2012). Kampong Glam: A heritage trail (pp. 27, 35). Retrieved from National Heritage Board website.
