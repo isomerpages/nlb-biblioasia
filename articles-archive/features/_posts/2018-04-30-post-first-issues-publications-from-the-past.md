@@ -91,3 +91,26 @@ Helmed by Violet Oon, the grande dame of Singaporean cooking, the monthly magazi
 <b>WHAT IS THE LEGAL DEPOSIT?</b><br><br>
 One of the statutory functions of the National Library Board Act is Legal Deposit. Under the act, all publishers, commercial or otherwise, are required by law to deposit two copies of every work published in Singapore with the National Library within four weeks of its publication. The Legal Deposit function ensures that Singapore’s published heritage is preserved for future generations. Legal Deposit also acts as a repository for published materials, providing exposure via the online catalogue, [PublicationSG](catalogue.nlb.gov.sg/publicationsg). For more information, please visit [www.nlb.gov.sg/Deposit](www.nlb.gov.sg/Deposit).
 </span>
+<br>
+<div style="background-color: white;">
+<img src="/images/Vol-14-issue-1/first-issues/First14.jpg" style="width: 100px; height: 100px;">
+<b>Barbara Quek</b> is a Senior Librarian with the National Library, Singapore. She is currently with the Advocacy & Statutory Function group that oversees the compliance of Legal Deposit in Singapore.
+</div>
+
+<a href="https://biblioasia.nlb.gov.sg/vol-14/issue-1/apr-jun-2018/"><center>Back to Issue</center></a>
+
+#### **NOTES**
+[^1]:McKay, J. (2006). [*The magazines handbook*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12711104) (p. 60). London; New York: Routledge. (Call no.: R052 MAC).
+[^2]:Meet Violet, the chef. Retrieved from *Violet Oon Singapore* website; Oon, V. (1987, January). Mouthpiece. [*The Food paper*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4396815) (p. 1). Singapore: Food Paper. (Call no.: RSING q641.095957 FP).
+[^3]:Editorial. (1964). [*Tumasek*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200074065) (p. 3). Singapore: Tumasek Trust. (Call no.: RCLOS 805 T).
+[^4]:
+[^5]:
+[^6]:
+[^7]:
+
+
+
+Editorial. (1967, November). Folk scene Singapore, 1 (1), p. 3. Singapore: J. E. Wee for Folk Scene Singapore. (Call no.: RSING 781.62 FSS)
+Meadows, D. S. (1923, December). The mistress art. The Journal of the Singapore Society of Architects, p. 13. (Call no.; RRARE 720.95957 JSSA; Microfilm no.: NL16646)
+Thumbing through… (1960, July). Her world, 1, p. 3. Singapore: Straits Times Press (Malaya) Ltd. (Call no.: RSING 052 HW)
+Meet Violet, the chef. Retrieved from Violet Oon Singapore website; Oon, Jan 1987, p. 1.
