@@ -176,17 +176,7 @@ Following a deadly confrontation with the police, the riots were quelled and, on
 [^14]:Singapore. Archives & Oral History Department. (1985). [*Five-foot-way traders*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4080651). Singapore: Archives & Oral History Department, p. 36. (Call no.: RDLKL 779.9658870095957 FIV).
 [^15]:Siddique, S., & Shotam, N.P. (1982). [*Singapore’s Little India: Past, present, and future*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082449) (pp. 101–104). Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 305.89141105957 SID).
 [^16]:[*Oral history interview with Sew Teng Kwok*](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/13df35c4-1160-11e3-83d5-0050568939ad), 6 Oct 1999.
-[^17]:
-[^18]:
-[^19]:
-[^20]:
-
-
-
-
-
-
-Yeoh, 2003, p. 247.
-The municipal health officer on the verandah question. (1892, April 30). The Straits Times, p. 3. Retrieved from NewspaperSG.
-Street obstruction. (1925, July 11). The Straits Times, p. 10. Retrieved from NewspaperSG.
-[Untitled]. (1879, May 7). Straits Times Overland Journal, p. 7. Retrieved from NewspaperSG.
+[^17]:[Yeoh](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200108247), 2003, p. 247.
+[^18]:[The municipal health officer on the verandah question](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18920430-1.2.41). (1892, April 30). *The Straits Times*, p. 3. Retrieved from NewspaperSG.
+[^19]:[Street obstruction](http://eresources.nlb.gov.g/newspapers/Digitised/Article/straitstimes19250711-1.2.84). (1925, July 11). *The Straits Times*, p. 10. Retrieved from NewspaperSG.
+[^20]:[[Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stoverland18790507-1.2.21)]. (1879, May 7). Straits Times Overland Journal, p. 7. Retrieved from NewspaperSG.
