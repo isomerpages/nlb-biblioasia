@@ -28,7 +28,7 @@ Chin Peng needed someone who was street smart and capable of managing its commun
 
 Lee Meng already had a reputation as a cunning fighter and organiser. She was also “one of the most ruthless and capable members of the Min Yuen” in Ipoh.[^7] Surrendered and captured communist guerrillas claimed that Lee had ordered a number of cold-blooded executions that were carried out by Communist Special Service squads.[^8] While Chin Peng described her as “dedicated, active and brave” he also commented that she “lacked caution” and was reckless in her operational style.[^9]
 
-<img style="width: 360px; height: 450px;" src="/images/Vol-14-issue-1/hunting-down-the-malayan/Hunta.JPG">
+<img style="width: 330px; height: 450px;" src="/images/Vol-14-issue-1/hunting-down-the-malayan/Hunta.JPG">
 <div style="background-color: white;">Lee Meng, head courier of the Malayan Communist Party. <i>Image source: Chin, P. (2003). My Side of History (p. 340). Singapore: Media Masters Pte Ltd. (Call no.: R SING 959.5104092 CHI).</i></div>
 
 Lee Meng was born in Guangzhou, China, in 1926 and moved to Ipoh at the age of five. She was believed to have worked as a Chinese school teacher in Teluk Anson (now known as Teluk Intan), Perak, during the British Military Administration period – the interim military government established in Singapore and Malaya after the Japanese surrender on 12 September 1945.[^10] Her father was unemployed and lived with her uncle and aunt, while her mother would be banished to China in 1950 after she was arrested for communist activities. Given Lee Meng’s disenfranchised background and her mum’s own involvement with the communists, it is not surprising that she readily joined the MCP in 1942 when she was recruited by her school teacher.
