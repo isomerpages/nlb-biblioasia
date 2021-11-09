@@ -61,8 +61,29 @@ Founded by award-winning writer and poet Goh Poh Seng, the inaugural issue of th
 <img src="/images/Vol-14-issue-1/first-issues/First7.JPG"><br>
 This was one of the earliest Tamil movie magazines in Singapore. It was targeted at film fans with features on Tamil movies, the latest news on famous film stars and scenes from popular movies. To reach out to non-Tamil speaking audiences, the magazine also published articles in English that showcased popular Hindi and other movies.
 <br><br>
-	<b>Sub Aqua </b>(Vol. 1, No. 1, August/September 1964)
+<b>Sub Aqua </b>(Vol. 1, No. 1, August/September 1964)
 <br><br>
 <img src="/images/Vol-14-issue-1/first-issues/First8.JPG"><br>
-Touted as Malaysia’s skin diving, boating and skiing magazine, the publication was aimed at watersports and boating enthusiasts. This target audience was likely small as the people who could indulge in such activities in 1960s Singapore were probably from privileged backgrounds.
+Touted as Malaysia’s skin diving, boating and skiing magazine, the publication was aimed at watersports and boating enthusiasts. This target audience was likely small as the people who could indulge in such activities in 1960s Singapore were probably from privileged backgrounds.<br><br>
+	<b>National Pioneer</b> (August 1969)
+<br><br>
+<img src="/images/Vol-14-issue-1/first-issues/First9.JPG"><br>
+	Shown here is the first issue of <i>National Pioneer</i> – the precursor of <i>Pioneer</i> magazine – launched in August 1969 by then Ministry of Interior and Defence. <i>Pioneer</i>, which is published by the Singapore Armed Forces, keeps servicemen abreast of events and developments in the armed forces, and includes topics such as entertainment, travel, and health and fitness.<br><br>
+	<b>Singapore Business</b> (Vol. 1, No. 1, January 1977)
+<br><br>
+<img src="/images/Vol-14-issue-1/first-issues/First10.JPG"><br>
+First published in January 1977, the magazine covered a wide array of topics on the business landscape in Singapore. A feature article in the inaugural issue reported that the only way to ease traffic congestion in Singapore is to build a mass rapid transit system. Already, more than 40 years ago, the city was suffering from a problem of too many vehicles.<br><br>
+	<b>Development & Construction</b> (Vol. 1, No. 1, January/February 1976)
+<br><br>
+<img src="/images/Vol-14-issue-1/first-issues/First11.JPG"><br>
+Targeted at professionals in the building and construction industry, the 1976 inaugural issue of this trade publication included a special feature on the 50-storey International Plaza at Anson Road. This is one of Singapore’s first mixed-use developments, comprising both residential and commercial units. The building – at a height of 190 metres – was one of the three tallest in Singapore at the time.<br><br>
+	<b>Dewi Majalah Bulanan Wanita</b> (May 1972) 
+<br><br>
+<img src="/images/Vol-14-issue-1/first-issues/First12.JPG"><br>
+A popular monthly magazine for women, the inaugural issue interviewed cover girl Rosie Kassim, the bass guitarist of a pop quartet called the Teepees. Other talents featured included Anne Wong, the sole Singaporean woman race car driver at the time; Sharifah Aini, who came in third at the 1968 Radio and Television Singapore talentime contest; and singers Nona Asiah and Rahimah Rahim.<br><br>
+	<b>The Food Paper </b>(January 1987)
+<br><br>
+<img src="/images/Vol-14-issue-1/first-issues/First13.JPG"><br>
+Helmed by Violet Oon, the grande dame of Singaporean cooking, the monthly magazine hoped to “excite, titillate and amuse” its readers.7 In this first issue, the magazine takes readers on a whirlwind tour of the best “private hawker centres” in Singapore. These included Scotts Picnic Food Court, Forum Galleria’s Rasa Forum Food Fair, Orchard Food + Plus, Waterloo Food Paradise and Bugis Square Food Centre.
 </span>
+
