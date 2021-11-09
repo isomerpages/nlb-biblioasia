@@ -13,15 +13,9 @@ The traditional Indian woman is invariably portrayed as modest and compliant, en
 
 Female power has also been startlingly celebrated over the centuries in the works of Indian women poets and writers, and in tales of legendary women such as Chand Bibi and the Rani of Jhansi.
 
-<img src="/images/Vol-14-issue-1/warrior-women/Warrior2.JPG">
-<div style="background-color: white;">Subhas Chandra Bose inspecting the Rani of Jhansi Regiment and Indian National Army troops in Singapore in 1943. <i>S R Nathan Collection, courtesy of National Archives of Singapore.</i></div>
-
 The Indian women who joined the Indian National Army (INA) in 1942, as the events of World War II unfolded, chose to recognise their power and agency as women in a way that reflects that alternative image. The bravery of these women in the nationalist efforts to overthrow the British in colonial India has been largely overlooked by history. The issue of gender, and the illiteracy and low caste of the majority of the Indian women allowed for their easy dismissal, and has resulted in their courage being little known or celebrated.
 
 In trying to make sense of the historical meaning and importance of the Rani of Jhansi Regiment while researching my novel, Sacred Waters, I found a general scarcity of material about the women who made up this regiment. In contrast, there is a large collection of material available for those researching the male segment of the INA.
-
-<img style="width: 600px; height: 380px;" src="/images/Vol-14-issue-1/warrior-women/Warrior3.JPG">
-<div style="background-color: white;">Subhas Chandra Bose, with Captain (Dr) Lakshmi Sahgal, inspecting the guard of honour presented by the Rani of Jhansi Regiment during the opening of the Rani of Jhansi camp at Waterloo Street, Singapore, on 22 October 1943. <i>Courtesy of Netaji Research Bureau.</i></div>
 
 The remarkable story of these brave women deserves to be better known. But it is impossible to write about the Rani of Jhansi Regiment without mentioning the force they were part of, the INA, and its inextricable ties to the charismatic Indian freedom fighter, Subhas Chandra Bose.
 
@@ -60,6 +54,9 @@ Bose’s inspiring words caused women listening to him on the Padang to surge fo
 At the time in India, the struggle for independence from British rule, more than any other impetus, encouraged women from all strata of Indian society to take greater control of their lives. They were urged to participate in a life outside the home in new but sanctioned ways, to cross the forbidden threshold into the world of men, and to work together with men for the freedom of the motherland.
 
 The wave of Indian nationalism sweeping through the Indian diaspora at this time cannot be underestimated. On the British-owned rubber plantations of Malaya, where Tamil workers lived a degraded life set apart from other communities, they would have been well aware of the growing anti-colonial sentiments of the time. Tamil newspapers and radio carried news from India, and pictures of Gandhi hung in many places.
+
+<img style="width: 600px; height: 380px;" src="/images/Vol-14-issue-1/warrior-women/Warrior3.JPG">
+<div style="background-color: white;">Subhas Chandra Bose, with Captain (Dr) Lakshmi Sahgal, inspecting the guard of honour presented by the Rani of Jhansi Regiment during the opening of the Rani of Jhansi camp at Waterloo Street, Singapore, on 22 October 1943. <i>Courtesy of Netaji Research Bureau.</i></div>
 
 At the very bottom of the plantation hierarchy, Tamil workers lived in poverty and exploitation, but this separateness allowed their Indian identity to remain intact. Even if cut off from India for two or three generations, they still spoke their native tongue and wore Indian dress in everyday life. At Hindu temples in the rubber estates, they celebrated religious festivals and practices. Hindu myth and folklore was handed down from one generation to the next, and their sense of Tamil identity remained strong.[^2]
 
