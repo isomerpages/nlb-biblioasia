@@ -83,13 +83,13 @@ The discarding of conventional feminine reticence, ingrained through centuries o
 
 A fighting force, ready for war, has no time for vanity, and the shedding of their long tresses, a source of pride for all Indian women, must have also been painful to many. Yet, most of the women quickly adapted to the empowerment their new life brought, and the demand for growth it made on their character. In their new role they were soldiers first before they were women.
 
-Although for educated recruits, the Rani of Jhansi Regiment presented an opportunity to assert their identity as women and as Indians, for the illiterate it was above all a chance to gain self-respect for the first time, to escape the abuse and contempt they experienced on a daily basis on the plantations. For many, this change of status had an enormous psychological effect. In her memoir, A Revolutionary Life (1997),[^4] Lakshmi Sahgal (see text box), a doctor in Singapore who rose to command the Rani of Jhansi Regiment, points out that while on the plantations the women were treated like cattle and sexually exploited, in the Rani of Jhansi Regiment they found dignity as individuals and pride in fighting for the nation.
+Although for educated recruits, the Rani of Jhansi Regiment presented an opportunity to assert their identity as women and as Indians, for the illiterate it was above all a chance to gain self-respect for the first time, to escape the abuse and contempt they experienced on a daily basis on the plantations. For many, this change of status had an enormous psychological effect. In her memoir, *A Revolutionary Life* (1997),[^4] Lakshmi Sahgal (see text box below), a doctor in Singapore who rose to command the Rani of Jhansi Regiment, points out that while on the plantations the women were treated like cattle and sexually exploited, in the Rani of Jhansi Regiment they found dignity as individuals and pride in fighting for the nation.
 
 For better or for worse, the Rani of Jhansi Regiment was never sent to the frontlines. After their military training, many recruits opted to become nurses and work in hospitals near war zones in Burma, but a large number of women remained as active reservists, always waiting – and expecting – to be sent to the front.
 
 <img src="/images/Vol-14-issue-1/warrior-women/Warrior7.JPG">
 <div style="background-color: white;">(Left) Women volunteering to join the Rani of Jhansi Regiment, 1943. <i>Image source: Lebra, J. C. (2008). Women Against the Raj: The Rani of Jhansi Regiment. Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 954.035 LEB).</i><br>
-(Right) Soldiers of the Rani of Jhansi Regiment undergoing training, c.1943–45. <i>Image source: Bose, S.K., & Sinha, B.N. (Eds). (1979). Netaji: A Pictorial Biography (p. 176). Calcutta: Ananda Publishers Pte Ltd. (Call no.: R 954.0350924 NET)</i></div>
+(Right) Soldiers of the Rani of Jhansi Regiment undergoing training, c.1943–45. <i>Image source: Bose, S.K., & Sinha, B.N. (Eds). (1979). Netaji: A Pictorial Biography (p. 176). Calcutta: Ananda Publishers Pte Ltd. (Call no.: R 954.0350924 NET).</i></div>
 
 Soon after World War II ended, a diary was published in India asserting that some of the women in the Jhansi Regiment did see actual action in the field. *Jai Hind: The Diary of a Rebel Daughter of India with the Rani of Jhansi Regiment* created a great stir when it was anonymously published in 1945, but it was later found to be a fictionalised account written by a male journalist, A.D. Shenth.
 
@@ -139,9 +139,9 @@ In 1947, Sahgal married Prem Kumar Sahgal, a former officer who left the British
 In her later years, Sahgal joined the Communist Party of India (Marxist) and was a founding member of the All India Democratic Women’s Association. She passed away on 23 July 2012, at age 97.
 </div>
 
-<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> 
-<img style="width: 220px; height: 300px;" src="/images/Vol-14-issue-1/warrior-women/Warrior9.JPG"><br>Meira Chand’s new novel, <i>Sacred Waters</i> (2017), is published by Marshall Cavendish Editions and retails for S$21.50 at major bookshops. It is also available for reference and loan at the Lee Kong Chian Reference Library and selected public libraries (Call nos.: RSING 823.914 CHA and SING CHA).
-</div>
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
+<img style="width: 220px; height: 300px;" src="/images/Vol-14-issue-1/warrior-women/Warrior9.JPG"><br>Meira Chand’s new novel, <i>Sacred Waters</i> (2017), is published by Marshall Cavendish Editions and retails for S$21.50 at major bookshops. It is also available for reference and loan at the Lee Kong Chian Reference Library and selected public libraries ([Call nos.: RSING 823.914 CHA and SING CHA](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202940479)).
+</span>
 <br>
 <div style="background-color: white;">
 <img src="/images/Vol-14-issue-1/warrior-women/Warrior10.jpg" style="width: 100px; height: 100px;">
