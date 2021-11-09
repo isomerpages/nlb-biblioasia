@@ -50,4 +50,19 @@ Founded by award-winning writer and poet Goh Poh Seng, the inaugural issue of th
 <br><br>
 <img src="/images/Vol-14-issue-1/first-issues/First5.JPG"><br>
 	Launched in July 1960, <i>Her World</i> is the first English-language women’s magazine published in Singapore and the longest-running to date. Local model Nancy Koh, with half her face artistically cropped out, was the first cover girl. According to the editor, the cover “suggest[s] all the mystery of the East”.6
+<br><br>
+	<b>旋律飞扬 (Xuan Lü Fei Yang) </b>(March 1987)
+<br><br>
+<img src="/images/Vol-14-issue-1/first-issues/First6.JPG"><br>
+	When <i>xinyao</i> (新谣), a genre of Mandarin songs unique to Singapore, was making waves in the local music industry in the 1980s, 旋律飞扬 (<i>Xuan Lü Fei Yang</i>) was published to showcase new as well as established <i>xinyao</i> singers and their songs. Featured on the cover of the inaugural issue is Yan Liming, one of Singapore’s pioneer <i>xinyao</i> singers and affectionately known then as “big sister” among <i>xinyao</i> singers.
+<br><br>
+	<b>திரைமலர் (Thirai Malar)</b> (January 1961)
+<br><br>
+<img src="/images/Vol-14-issue-1/first-issues/First7.JPG"><br>
+This was one of the earliest Tamil movie magazines in Singapore. It was targeted at film fans with features on Tamil movies, the latest news on famous film stars and scenes from popular movies. To reach out to non-Tamil speaking audiences, the magazine also published articles in English that showcased popular Hindi and other movies.
+<br><br>
+	<b>Sub Aqua </b>(Vol. 1, No. 1, August/September 1964)
+<br><br>
+<img src="/images/Vol-14-issue-1/first-issues/First8.JPG"><br>
+Touted as Malaysia’s skin diving, boating and skiing magazine, the publication was aimed at watersports and boating enthusiasts. This target audience was likely small as the people who could indulge in such activities in 1960s Singapore were probably from privileged backgrounds.
 </span>
