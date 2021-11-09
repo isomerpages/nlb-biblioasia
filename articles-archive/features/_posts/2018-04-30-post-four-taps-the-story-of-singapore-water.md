@@ -74,7 +74,7 @@ When the new waterworks at Johor River began operations in 1968, at least 30 mil
 
 Known as Sultan Ismail Waterworks, it provided Singapore with another 30 million gallons of water each day. The additional water supply from the Johor River and Scudai schemes was timely for Singapore as the island’s daily water consumption had more than doubled by this time, from 52 million gallons in 1955 to 110 million in 1970. This was largely due to a population boom in the 1960s as well as the growth of the shipping, services and industrial sectors.[^28]
 
-<img src="/images/Vol-14-issue-1/four-taps-of-singapore-water/FourTaps11.JPG">
+<img style="width: 550px; height: 400px;" src="/images/Vol-14-issue-1/four-taps-of-singapore-water/FourTaps11.JPG">
 <div style="background-color: white;">Then Prime Minister Lee Kuan Yew visiting the Sultan Ismail Waterworks construction site at Scudai River in May 1964. Completed in 1965, the waterwoks provided Singapore with another 30 million gallons of water each day. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 	
 #### **Securing Domestic Water Resources**
