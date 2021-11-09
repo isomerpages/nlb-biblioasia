@@ -20,3 +20,13 @@ In the film, Masato visits the exhibition to find out more about the Japanese Oc
 <img src="/images/Vol-14-issue-1/ramen-teh/Ramen2.JPG">
 <div style="background-color: white;"><i>Ramen Teh</i> premiered in Singapore cinemas on
 29 March 2018. <i>Courtesy of Zhao Wei FiIms.</i></div>
+
+**Q: How was the story for *Ramen Teh* conceived, including the use of food as a central theme?** 
+
+A: I’ve always believed that food is an integral part of Singapore’s cultural identity. In fact, food is a recurring theme in almost all of my movies. It has a universal emotional resonance that cuts across all cultures. Back in 2015, I was approached by Japanese producer, Yutaka Tachibana, to collaborate on this project, and I immediately said yes.
+
+Singaporeans love Japanese food and the Japanese are also developing a taste for our cuisine, so it seemed logical to use food as the central theme to symbolise ties between Singapore and Japan. Our love for *bak kut teh* (“meat bone soup”) and *ramen* became the inspiration for the film, whose title combines the names of these two dishes. Once the theme was decided, the plot and characters just developed naturally.
+
+**Q: Why did you decide to include a World War II dimension to the plot?**
+
+A: The starting point is always the characters. As our main character Masato is of Japanese-Singaporean parentage, World War II naturally came into play when I decided to inject drama and conflict in the film. We wanted ultimately to show that Ramen Teh is a story of love and forgiveness.
