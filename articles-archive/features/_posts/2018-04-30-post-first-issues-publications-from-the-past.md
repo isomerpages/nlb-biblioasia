@@ -7,7 +7,6 @@ layout: post
 #### Launch issues can make or break a new publication. **Barbara Quek** shares highlights of first issues from NLB’s Legal Deposit Collection.
 
 <img src="/images/Vol-14-issue-1/first-issues/First1.JPG">
-<div style="background-color: white;"></i></div>
 
 Inaugural or first issues of publications – whether lifestyle magazines, trade publications or scholarly journals – are sometimes much anticipated by readers because of the hype and publicity drummed up in the lead-up to their launch.
 
@@ -30,3 +29,25 @@ First-issue publications evoke memories of people, places and events from times 
 Many of these old magazines have either ceased publication, changed names or acquired new publishers. Sustaining a publication is often more challenging than publishing and launching a new one, and we applaud those that have stood the test of time. Although quite different in contents, style and readership, *National Pioneer*, forerunner of today’s *Pioneer* magazine of the Singapore Armed Forces, and *Her World*, Singapore’s oldest women’s magazine, have survived to this day.
 
 Featured in this essay are just a sampling of titles from a collection of about 700 first-issue publications – from 1923 to 1987 – available in the Legal Deposit Collection of the National Library, Singapore. The titles run the gamut from light-hearted fare, such as fashion, entertainment, art, music, sports and food, to more serious reading like architecture, building and construction, business and education.
+
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
+<b>The Journal of the Singapore Society of Architects</b> (December 1923)
+<br><br>
+<img src="/images/Vol-14-issue-1/first-issues/First2.JPG"><br>
+This journal of the Singapore Society of Architects, the precursor of the Singapore Institute of Architects, was launched the same time the society was established in 1923 with 11 founding members, one of whom was the municipal architect S. Douglas Meadows. The society aimed to foster the growing interest in architecture in Singapore after World War I. According to Meadows who became the first president of the society, “to design in beauty and build in strength should be the aim of the architect”.5
+<br><br>
+<b>Student World </b> (Vol. 1, No. 1, 5 May 1958)
+<br><br>
+<img src="/images/Vol-14-issue-1/first-issues/First3.JPG"><br>
+According to the Foreword in the inaugural issue published on 5 May 1958, the magazine aimed to supplement students’ education in school with articles that will equip them with skills for the real world.
+<br><br>
+	<b>Tumasek</b> (No. 1, January 1964)
+<br><br>
+<img src="/images/Vol-14-issue-1/first-issues/First4.JPG"><br>
+Founded by award-winning writer and poet Goh Poh Seng, the inaugural issue of this literary journal featured Goh’s poem, “On Looking at the Moon and Thinking”, and novel <i>If We Dream Too Long</i>. The latter is considered the first local English novel and won the National Book Development Council of Singapore’s Fiction Book Award in 1976.
+<br><br>
+	<b>Her World </b>(Vol. 1, July 1960)
+<br><br>
+<img src="/images/Vol-14-issue-1/first-issues/First5.JPG"><br>
+	Launched in July 1960, <i>Her World</i> is the first English-language women’s magazine published in Singapore and the longest-running to date. Local model Nancy Koh, with half her face artistically cropped out, was the first cover girl. According to the editor, the cover “suggest[s] all the mystery of the East”.6
+</span>
