@@ -103,14 +103,14 @@ One of the statutory functions of the National Library Board Act is Legal Deposi
 [^1]:McKay, J. (2006). [*The magazines handbook*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12711104) (p. 60). London; New York: Routledge. (Call no.: R052 MAC).
 [^2]:Meet Violet, the chef. Retrieved from *Violet Oon Singapore* website; Oon, V. (1987, January). Mouthpiece. [*The Food paper*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4396815) (p. 1). Singapore: Food Paper. (Call no.: RSING q641.095957 FP).
 [^3]:Editorial. (1964). [*Tumasek*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200074065) (p. 3). Singapore: Tumasek Trust. (Call no.: RCLOS 805 T).
-[^4]:
-[^5]:
-[^6]:
+[^4]:Editorial. (1967, November). [*Folk scene Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12515068)*, 1* (1), p. 3. Singapore: J. E. Wee for Folk Scene Singapore. (Call no.: RSING 781.62 FSS).
+[^5]:Meadows, D. S. (1923, December). The mistress art. [*The Journal of the Singapore Society of Architects*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6857506), p. 13. (Call no.; RRARE 720.95957 JSSA; Microfilm no.: NL16646).
+[^6]:Thumbing through… (1960, July). [*Her world*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4184741)*, 1*, p. 3. Singapore: Straits Times Press (Malaya) Ltd. (Call no.: RSING 052 HW).
 [^7]:
 
 
 
-Editorial. (1967, November). Folk scene Singapore, 1 (1), p. 3. Singapore: J. E. Wee for Folk Scene Singapore. (Call no.: RSING 781.62 FSS)
-Meadows, D. S. (1923, December). The mistress art. The Journal of the Singapore Society of Architects, p. 13. (Call no.; RRARE 720.95957 JSSA; Microfilm no.: NL16646)
-Thumbing through… (1960, July). Her world, 1, p. 3. Singapore: Straits Times Press (Malaya) Ltd. (Call no.: RSING 052 HW)
+
+
+
 Meet Violet, the chef. Retrieved from Violet Oon Singapore website; Oon, Jan 1987, p. 1.
