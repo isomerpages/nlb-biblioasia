@@ -16,7 +16,7 @@ The Third Charter of Justice of 12 August 1855 reaffirmed the reception of Engli
 
 As a “letters patent” or public written order issued by the British Crown, the Third Charter of Justice embodied the sovereign authority of the monarchy and was richly adorned with symbolism. We take a look at the design elements decorating the physical charter document, and explore the significance and meaning behind its many symbols.
 
-#### **THE ROYAL COAT OF ARMS OF THE UNITED KINGDOMS, 1855**
+#### **The Royal Coat of Arms of the United Kingdom, 1855**
 
 <div style="background-color: white;"><img style="width:350px" src="/images/Vol-13-issue-3/the-third-charter-of-justice/02_justice.jpg"></i></div>
 
@@ -25,19 +25,19 @@ Encircling the shield is a garter or belt with the French motto, *Honi soit qui 
 
 A crown, which represents the British monarchy, sits atop the shield with a small lion perched on it. Emblazoned on a banner at the base is a second French motto, *Dieu et Mon Droit*, which means “God and My Right”.[^2]
 
-#### **THE THREE WOMEN OF ANTIQUITY**
+#### **The Three Women of Antiquity**
 
 <div style="background-color: white;"><img style="width:350px" src="/images/Vol-13-issue-3/the-third-charter-of-justice/03_justice.jpg"></i></div>
 
 On the top left corner of the document is an image of the three women of antiquity garbed in Greco-Roman attire. The first woman on the left holding a harp represents Hibernia, the Latin name for Ireland. In the middle is Britannia – wearing a Greek Corinthian helmet and bearing a shield and spear – who personifies the united kingdoms that form Great Britain. The last woman with a feathered cap represents Caledonia, the Latin name for Scotland.
 
-#### **THE THREE VICTORIAN WOMEN**
+#### **The Three Victorian Women**
 
 <div style="background-color: white;"><img style="width:350px" src="/images/Vol-13-issue-3/the-third-charter-of-justice/04_justice.jpg"></i></div>
 
 The three women on the top right corner – clothed in the fashion of the Victorian era – are allegorical figures representing abundant agriculture, peace and commerce. The woman on the left holding the sickle and sheaf of wheat represents a bountiful harvest, the woman in the middle wielding an olive branch symbolises peace and friendship, while the last woman with a shawl, sextant and compass represents wealth from the sea trade.
 
-#### **THE FOUR FRAMES**
+#### **The Four Frames**
 
 The four frames found along the left and right borders (two on each side) of the document are symbolic representations of justice, faith, the arts and humanities, and the sciences and exploration. These represent the ideals and activities protected and patronised by the British sovereign.
 
@@ -65,7 +65,7 @@ The depiction of individuals on the left hand border engaged in reading, paintin
 
 This scene in the right hand border representing the sciences and exploration shows scholars engaged in serious study, surrounded by instruments representing the scientific knowledge and navigational technologies of the time, such as a sextant, a telescope, a globe, a book and a chart.
 
-#### **THE ANGELS**
+#### **The Angels**
 
 <div style="background-color: white;"><img style="width:350px" src="/images/Vol-13-issue-3/the-third-charter-of-justice/10_justice.jpg"></i></div>
 
