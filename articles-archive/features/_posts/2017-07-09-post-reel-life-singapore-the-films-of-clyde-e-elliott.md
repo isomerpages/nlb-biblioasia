@@ -208,7 +208,7 @@ The film also inspired a mini-revolution in America. For the film’s opening in
 
 [^37]:Braddell, R.St.J. (1935). *[The lights of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4499990)* (p. 122). London: Methuen. (Call no.: RDKSC 959.57 BRA)
 
-[^38]:Toh, H.P. (2013, January 18). *Singapore is the MacGuffin: Location scouting in “Rich and Strange.* Retrieved from The Hunter website.
+[^38]:Toh, H.P. (2013, January 18). *Singapore is the MacGuffin: Location scouting in “Rich and Strange.”* Retrieved from The Hunter website.
 
 [^39]:*[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19370919-1.2.45),*, 19 Sep 1937, p. 5.
  
