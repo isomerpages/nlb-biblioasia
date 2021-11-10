@@ -58,5 +58,4 @@ Up until the 1950s, traditional attire was a common sight on the streets of Sing
 
 [^15]:Woo, A. (2016, October 26). Singapore Fashion Week 2016 opens with a bang. *The Straits Times*. Retrieved from Factiva via NLB’s [eResources](http://eresources.nlb.gov.sg/) website. 
 
-[^16]:Reyes, K. (2012, November 15). *Singapore: A global fashion capital on the rise*. Retrieved from styleXstyle website; The Global Language Monitor. (2016). *Paris towers over world of fashion – as top global fashion capital*. Retrieved from The Global Language Monitor website. 
-
+[^16]:Reyes, K. (2012, November 15). *Singapore: A global fashion capital on the rise*. Retrieved from styleXstyle website; The Global Language Monitor. (2016). *Paris towers over world of fashion – as top global fashion capital*. Retrieved from The Global Language Monitor website.
