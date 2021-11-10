@@ -138,17 +138,17 @@ The translations also found favour in the Straits Settlements. Lim Kim San, a fo
 
 #### **NOTES**
 
-[^1]:The term Peranakan means “local born” and generally refers to people of mixed Chinese and Malay/Indonesian heritage. Peranakan males are known as babas while females are known as nyonyas (or nonyas).
+[^1]:The term *Peranakan* means “local born” and generally refers to people of mixed Chinese and Malay/Indonesian heritage. Peranakan males are known as babas while females are known as nyonyas (or nonyas).
 
-[^2]:Embroidery for the Peranakan kebaya in the rubric of “nyonya needlework” is not included in this essay as the former encompasses both hand and machine embroidery, and calls for a different disciplinary focus. Its evolution is superbly explored by Peter Lee. See Lee, P. (2014). Sarong Kebaya: Peranakan fashion in an interconnected world 1550–1950. Singapore: Asian Civilisations Museum. (Call no.: RSING 391.20899510595 LEE)
+[^2]:Embroidery for the Peranakan kebaya in the rubric of “nyonya needlework” is not included in this essay as the former encompasses both hand and machine embroidery, and calls for a different disciplinary focus. Its evolution is superbly explored by Peter Lee. See Lee, P. (2014). *[Sarong Kebaya: Peranakan fashion in an interconnected world 1550–1950](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200480968)*. Singapore: Asian Civilisations Museum. (Call no.: RSING 391.20899510595 LEE)
 
-[^3]:Transferring the printed design onto fabric involved pricking tiny holes in the paper pattern along its outline and pouncing or dabbing charcoal or chalk powder through the holes onto the fabric. For an example, see Australia. Museum of Applied Arts & Sciences. (n.d.). Embroidery pattern book, woodblock printed paper, China, 1875–1900. Retrieved from Museum of Applied Arts & Sciences website.
+[^3]:Transferring the printed design onto fabric involved pricking tiny holes in the paper pattern along its outline and pouncing or dabbing charcoal or chalk powder through the holes onto the fabric. For an example, see Australia. Museum of Applied Arts & Sciences. (n.d.). *Embroidery pattern book, woodblock printed paper, China, 1875–1900*. Retrieved from Museum of Applied Arts & Sciences website.
 
-[^4]:Morrall, A., & Watts, M. (2008). English embroidery from the Metropolitan Museum of Art, 1580–1700: ‘Twixt art and nature’ (pp. 43–51, 61–63, 68–70, 86–90,152–156). New York: Metropolitan Museum of Art. (Call no.: RART 746.4409420903 ENG) 
+[^4]:Morrall, A., & Watts, M. (2008). *[English embroidery from the Metropolitan Museum of Art, 1580–1700: ‘Twixt art and nature’](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13205406)* (pp. 43–51, 61–63, 68–70, 86–90,152–156). New York: Metropolitan Museum of Art. (Call no.: RART 746.4409420903 ENG) 
 
-[^5]:See especially Speelberg, F. (2015, Fall). Fashion & virtue: Textile patterns and the print revolution, 1520–1620. The Metropolitan Museum of Art Bulletin, 73 (2). Retrieved from The Metropolitan Museum of Art website. 
+[^5]:See especially Speelberg, F. (2015, Fall). Fashion & virtue: Textile patterns and the print revolution, 1520–1620. *The Metropolitan Museum of Art Bulletin, 73* (2). Retrieved from The Metropolitan Museum of Art website. 
 
-[^6]:Schäfer, D. (2015). Patterns of design in Qing-China and Britain during the seventeenth and eighteenth centuries. In M. Berg, et al., Goods from the East, 1600–1800: Trading Eurasia (p. 107). Houndmills, Basingstoke, Hampshire: Palgrave Macmillan. (Call no.: RSEA 382.09504 GOO) 
+[^6]:Schäfer, D. (2015). Patterns of design in Qing-China and Britain during the seventeenth and eighteenth centuries. In M. Berg, et al., *[Goods from the East, 1600–1800: Trading Eurasia](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202405437)* (p. 107). Houndmills, Basingstoke, Hampshire: Palgrave Macmillan. (Call no.: RSEA 382.09504 GOO) 
 
 [^7]:[Schäfer](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202405437), 2015, p. 108.
 
