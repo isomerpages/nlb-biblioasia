@@ -105,19 +105,19 @@ Be sure to catch this exhibition of old Malay manuscripts and printed books from
 
 #### **NOTES**
 
-[^1]:Juffri Supa’at & Gopaul, N. (Eds.). (2009). Aksara: Menjejaki tulisan Melayu = Aksara: The passage of Malay scripts (p. 37). Singapore: National Library Board. (Call no.: Malay RSING 499.2811 AKS)
+[^1]:Juffri Supa’at & Gopaul, N. (Eds.). (2009). *[Aksara: Menjejaki tulisan Melayu = Aksara: The passage of Malay scripts](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13238990)* (p. 37). Singapore: National Library Board. (Call no.: Malay RSING 499.2811 AKS)
 
-[^2]:Winstedt, R. (1944, October. Indian influence in the Malay world. The Journal of the Royal Asiatic Society of Great Britain and Ireland, 2, 186–195, pp. 186–187. Retrieved from JSTOR via NLB’s eResources website.
+[^2]:Winstedt, R. (1944, October. Indian influence in the Malay world. *The Journal of the Royal Asiatic Society of Great Britain and Ireland, 2*, 186–195, pp. 186–187. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
 
 [^3]:The Terengganu Stone constitutes the earliest evidence of Jawi writing (Malay writing based on Arabic alphabet) in the Malay Muslim world of Southeast Asia.
 
-[^4]:Teeuw, A. (1959). The history of the Malay language: A preliminary survey. Bijdragen tot de Taal-, Land- en Volkenkunde, Deel, 115 (2), 138–156, pp. 140, 149. Retrieved from JSTOR via NLB’s eResources website.
+[^4]:Teeuw, A. (1959). The history of the Malay language: A preliminary survey. *Bijdragen tot de Taal-, Land- en Volkenkunde, Deel, 115* (2), 138–156, pp. 140, 149. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
 
-[^5]:Edwards, E.D., & Blagden, C.O.A. (1931). A Chinese vocabulary of Malacca Malay words and phrases collected between A. D. 1403 and 1511 (?). Bulletin of the School of Oriental Studies, University of London, 6 (3), 715–749, pp. 718–748. Retrieved from JSTOR via NLB’s eResources website.
+[^5]:Edwards, E.D., & Blagden, C.O.A. (1931). A Chinese vocabulary of Malacca Malay words and phrases collected between A. D. 1403 and 1511 (?). *Bulletin of the School of Oriental Studies, University of London, 6* (3), 715–749, pp. 718–748. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
 
-[^6]:Bausani, A. (1960, December). The first ItalianMalay vocabulary by Antonio Pigafetta. East and West, 11 (4), 229–248, pp. 233–240. Retrieved from JSTOR via NLB’s eResources website.
+[^6]:Bausani, A. (1960, December). The first ItalianMalay vocabulary by Antonio Pigafetta. *East and West, 11* (4), 229–248, pp. 233–240. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
 
-[^7]:Gallop, A.T. (1990). Early Malay printing: An introduction to the British Library collections. Journal of the Malaysian Branch of the Royal Asiatic Society, 63 (1) (258), 85–124, p. 85. Retrieved from JSTOR via NLB’s eResources website.
+[^7]:Gallop, A.T. (1990). Early Malay printing: An introduction to the British Library collections. *Journal of the Malaysian Branch of the Royal Asiatic Society, 63* (1) (258), 85–124, p. 85. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
 
 [^8]:A printing press is a device that applies pressure to an inked surface resting upon a print medium, usually paper or cloth, to transfer the ink.
 
@@ -125,42 +125,42 @@ Be sure to catch this exhibition of old Malay manuscripts and printed books from
 
 [^10]:Gallop, 1990, pp. 92–93.
 
-[^11]:National Library Board. (2008). Mission Press written by Lim, Irene. Retrieved from Singapore Infopedia website.
+[^11]:National Library Board. (2008). *[Mission Press](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1074_2008-12-20.html)* written by Lim, Irene. Retrieved from Singapore Infopedia website.
 
 [^12]:Gallop, 1990, pp. 98, 105.
 
-[^13]:Proudfoot, I. (1993). Early Malay printed books: A provisional account of materials published in the Singapore-Malaysia area up to 1920, noting holdings in major public collections (pp. 31–32). Kuala Lumpur: Academy of Malay Studies and the Library, University of Malaya. (Call no.: RSING 015.5957 PRO-[LIB])
+[^13]:Proudfoot, I. (1993). *[Early Malay printed books: A provisional account of materials published in the Singapore-Malaysia area up to 1920, noting holdings in major public collections](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6712616)* (pp. 31–32). Kuala Lumpur: Academy of Malay Studies and the Library, University of Malaya. (Call no.: RSING 015.5957 PRO-[LIB])
 
-[^14]:Proudfoot, 1993, p. 32.
+[^14]:[Proudfoot](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6712616), 1993, p. 32.
 
-[^15]:Proudfoot, 1993, pp. 36–37.
+[^15]:[Proudfoot](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6712616), 1993, pp. 36–37.
 
-[^16]:Proudfoot, 1993, p. 39.
+[^16]:[Proudfoot](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6712616), 1993, p. 39.
 
-[^17]:Proudfoot, 1993, p. 631.
+[^17]:[Proudfoot](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6712616), 1993, p. 631.
 
-[^18]:Proudfoot, 1993, pp. 40, 43.
+[^18]:[Proudfoot](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6712616), 1993, pp. 40, 43.
 
-[^19]:Proudfoot, 1993, p. 43.
+[^19]:[Proudfoot](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6712616), 1993, p. 43.
 
-[^20]:Warnk, H. (2010). The collection of 19th century printed Malay books of Emil Lüring. Sari – International Journal of the Malay World and Civilisation, 28 (1), 99–128, p. 104. Retrieved from UKM Journal Article Repository website.
+[^20]:Warnk, H. (2010). The collection of 19th century printed Malay books of Emil Lüring. *Sari – International Journal of the Malay World and Civilisation, 28* (1), 99–128, p. 104. Retrieved from UKM Journal Article Repository website.
 
-[^21]:Proudfoot, 1993, pp. 40–41.
+[^21]:[Proudfoot](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6712616), 1993, pp. 40–41.
 
-[^22]:Proudfoot, 1993, p. 40.
+[^22]:[Proudfoot](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6712616), 1993, p. 40.
 
-[^23]:Proudfoot, 1993, pp. 40–41.
+[^23]:[Proudfoot](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6712616), 1993, pp. 40–41.
 
 [^24]:Warnk, 2010, p. 104.
 
-[^25]:Proudfoot, 1993, p. 41.
+[^25]:[Proudfoot](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6712616), 1993, p. 41.
 
-[^26]:The late queen. (1901, February 5). *The Singapore Free Press and Mercantile Advertiser*, p. 2. Retrieved from NewspaperSG.
+[^26]:[The late queen](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19010205-1.2.5). (1901, February 5). *The Singapore Free Press and Mercantile Advertiser*, p. 2. Retrieved from NewspaperSG.
 
-[^27]:Darul Adab Club. (1907, September 2). *The Singapore Free Press and Mercantile Advertiser*, p. 8. Retrieved from NewspaperSG.
+[^27]:[Darul Adab Club](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19070902-1.2.43). (1907, September 2). *The Singapore Free Press and Mercantile Advertiser*, p. 8. Retrieved from NewspaperSG.
 
-[^28]:Proudfoot, I. (1987, Disember). A nineteenth-century Malay bookseller’s catalogue. Kekal abadi: Berita Perpustakaan Universiti Malaya, 6 (4), 1–11, p. 11. Kuala Lumpur: Perpustakaan Universiti Malaya. (Call no.: Malay RSEA 027.7595 UMPKA)
+[^28]:Proudfoot, I. (1987, Disember). A nineteenth-century Malay bookseller’s catalogue. *[Kekal abadi: Berita Perpustakaan Universiti Malaya](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4360499), 6* (4), 1–11, p. 11. Kuala Lumpur: Perpustakaan Universiti Malaya. (Call no.: Malay RSEA 027.7595 UMPKA)
 
-[^29]:Social and personal. (1909, October 29). The Straits Times, p. 6. Retrieved from NewspaperSG.
+[^29]:[Social and personal](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19091029-1.2.48). (1909, October 29). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
  
 [^30]:Warnk, 2010, p. 105.
