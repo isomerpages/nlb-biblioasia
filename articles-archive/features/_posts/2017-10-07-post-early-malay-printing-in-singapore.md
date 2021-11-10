@@ -98,7 +98,7 @@ Be sure to catch this exhibition of old Malay manuscripts and printed books from
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Vol-13-issue-3/early-malay-printing-in-sg/mazelan.png">
-	<b>Mazelan Anuar</B> is a Senior Librarian with the National Library, Singapore. His research interests are in early Singapore Malay publications and digital librarianship. He manages the National Library’s Malay language collection as well as the NewspaperSG portal. (He is a safe driver, and owns the reliable and down-to-earth Toyota Wish.)
+<b>Mazelan Anuar</B> is a Senior Librarian with the National Library, Singapore. His research interests are in early Singapore Malay publications and digital librarianship. He manages the National Library’s Malay language collection as well as the NewspaperSG portal. (He is a safe driver, and owns the reliable and down-to-earth Toyota Wish.)
 </div>
 
 <a href="/vol-13/issue-3/oct-dec-2017/"><center>Back to Issue</center></a>
