@@ -39,7 +39,8 @@ To cater to the increasing interest in fashion, dress design and dressmaking cla
 
 Budding fashionistas also turned to dress pattern publications such as Lucky Fashion Magazine (幸福时装杂志) and Shee Zee Fashion (旭日 时装) for inspiration. The inaugural issue of Lucky Fashion Magazine published in June 1965 proved so popular that it sold out within a few weeks, and went into three reprints before the second issue was published a year later. Home economics teachers also used the magazine as reference material for their sewing and handicraft lessons in school. Shee Zee Fashion, a publication of Shee Zee Institute of Tailoring, featured outfits designed for tropical weather such as the miniskirt, the 1960s runaway best-seller by British fashion icon Mary Quant.[^8]
 
-<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;">
+	
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>WHAT IS THE LEGAL DEPOSIT?</b>
 <br><br>
