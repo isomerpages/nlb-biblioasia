@@ -1,9 +1,10 @@
 ---
 title: Heaven, Earth and Brotherhood
 date: 2017-07-12
-permalink: /vol-13/issue-2/jul-sep-2017/heaven-earth-brotherh
+permalink: /vol-13/issue-2/jul-sep-2017/heaven-earth-brother
 layout: post
 ---
+
 #### Secret societies arrived on the back of mass migrations of Chinese to Asia in the colonial era. **Makeswary Periasamy** highlights the National Library’s collection of early books on Chinese triads.
 
 <div style="background-color: white;"><br><img style="width:200px" src="/images/Vol-13-issue-2/heaven-earth-brotherhood/01a_heavenearth.jpg">A censer of joss sticks − bearing the Chinese characters 反清复明<i>(fanqing fuming)</i> − placed on the initiation altars of secret societies. The phrase means “Destroy the Qing, restore the Ming”. The porcelain censer rests on a three-legged stand, a distinguishing feature of Hung censers. The tripod symbolises the unity of heaven, earth and man. <i>All rights reserved, Lim, I. (1999). Secret Societies in Singapore: Featuring the William Stirling Collection (p.49). Singapore: National Heritage Board, Singapore History Museum. (Call no.: RSING 366.095957 LIM).</i></div>
