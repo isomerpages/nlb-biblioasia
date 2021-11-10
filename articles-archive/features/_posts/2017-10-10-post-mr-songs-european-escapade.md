@@ -79,27 +79,27 @@ After 10 months away in Europe, most of which was spent at leisure in Britain, t
 
 #### **REFERENCES**
 
-Acknowledgement. (1935, April 2). The Malaya Tribune, p. 10. Retrieved from NewspaperSG.
+[Acknowledgement](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19350402-1.2.63). (1935, April 2). *The Malaya Tribune*, p. 10. Retrieved from NewspaperSG.
 
-Chinese wedding in Singapore. (1934, April 30). The Malaya Tribune, p. 11. Retrieved from NewspaperSG.
+[Chinese wedding in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19340430-1.2.109). (1934, April 30). *The Malaya Tribune*, p. 11. Retrieved from NewspaperSG.
 
-Chia, F. (2015). The Babas. Singapore: Estate of Felix Chia Thian Hoe and Landmark Books. (Call no.: RSING 305.895105957 CHI)
+Chia, F. (2015). *[The Babas](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201114992)*. Singapore: Estate of Felix Chia Thian Hoe and Landmark Books. (Call no.: RSING 305.895105957 CHI)
 
-Death of Mr. Soo Bin. (1939, August 12). The Malaya Tribune, p. 12. Retrieved from NewspaperSG.
+[Death of Mr. Soo Bin](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19390812-1.2.82). (1939, August 12). *The Malaya Tribune*, p. 12. Retrieved from NewspaperSG.
 
-First Chinese to command S.V.C. Chinese company. (1939, August 14). The Straits Times, p. 13. Retrieved from NewspaperSG.
+[First Chinese to command S.V.C. Chinese company](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19390814-1.2.97). (1939, August 14). *The Straits Times*, p. 13. Retrieved from NewspaperSG.
 
-Honouring Mr. Ong Siang. (1922, March 24). The Singapore Free Press and Mercantile Advertiser, p. 12. Retrieved from NewspaperSG.
+[Honouring Mr. Ong Siang](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19220324-1.2.64). (1922, March 24). *The Singapore Free Press and Mercantile Advertiser*, p. 12. Retrieved from NewspaperSG.
 
-Lee, P., & Chen, J. (2006). The Straits Chinese house: Domestic life and traditions. Singapore: Editions Didier Millet: National Museum of  Singapore. (Call no.: RSING 305.895105957 LEE)
+Lee, P., & Chen, J. (2006). *[The Straits Chinese house: Domestic life and traditions](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200039888)*. Singapore: Editions Didier Millet: National Museum of  Singapore. (Call no.: RSING 305.895105957 LEE)
 
-Letters to the editor. (1922, October 12). The Singapore Free Press and Mercantile Advertiser, p. 12. Retrieved from NewspaperSG.
+[Letters to the editor](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19221012-1.2.63). (1922, October 12). *The Singapore Free Press and Mercantile Advertiser*, p. 12. Retrieved from NewspaperSG.
 
-Lost to Singapore bar. (1928, May 28). The Malaya Tribune, p. 7. Retrieved from NewspaperSG.
+[Lost to Singapore bar](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19280528-1.2.20). (1928, May 28). *The Malaya Tribune*, p. 7. Retrieved from NewspaperSG.
 
-Malaya dinner. (1922, July 3). The Straits Times, p. 11. Retrieved from NewspaperSG.
+[Malaya dinner](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19220703-1.2.75). (1922, July 3). *The Straits Times*, p. 11. Retrieved from NewspaperSG.
 
-[Social and personal](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19230127-1.2.47). (1923, January 27). The Straits Times, p. 8. Retrieved from NewspaperSG.
+[Social and personal](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19230127-1.2.47). (1923, January 27). *The Straits Times*, p. 8. Retrieved from NewspaperSG.
 
 Song, O.S. (1984). *[One hundred years’ history of the Chinese in Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082287)*. Singapore: Oxford University Press, 1984. (Call no.: RSING 959.57 SON)
 
