@@ -139,28 +139,28 @@ Be sure to catch this exhibition of old Malay manuscripts and printed books from
 
 [^17]:Proudfoot, 1993, p. 631.
 
-Proudfoot, 1993, pp. 40, 43.
+[^18]:Proudfoot, 1993, pp. 40, 43.
 
-Proudfoot, 1993, p. 43.
+[^19]:Proudfoot, 1993, p. 43.
 
-Warnk, H. (2010). The collection of 19th century printed Malay books of Emil Lüring. Sari – International Journal of the Malay World and Civilisation, 28 (1), 99–128, p. 104. Retrieved from UKM Journal Article Repository website.
+[^20]:Warnk, H. (2010). The collection of 19th century printed Malay books of Emil Lüring. Sari – International Journal of the Malay World and Civilisation, 28 (1), 99–128, p. 104. Retrieved from UKM Journal Article Repository website.
 
-Proudfoot, 1993, pp. 40–41.
+[^21]:Proudfoot, 1993, pp. 40–41.
 
-Proudfoot, 1993, p. 40.
+[^22]:Proudfoot, 1993, p. 40.
 
-Proudfoot, 1993, pp. 40–41.
+[^23]:Proudfoot, 1993, pp. 40–41.
 
-Warnk, 2010, p. 104.
+[^24]:Warnk, 2010, p. 104.
 
-Proudfoot, 1993, p. 41.
+[^25]:Proudfoot, 1993, p. 41.
 
-The late queen. (1901, February 5). *The Singapore Free Press and Mercantile Advertiser*, p. 2. Retrieved from NewspaperSG.
+[^26]:The late queen. (1901, February 5). *The Singapore Free Press and Mercantile Advertiser*, p. 2. Retrieved from NewspaperSG.
 
-Darul Adab Club. (1907, September 2). *The Singapore Free Press and Mercantile Advertiser*, p. 8. Retrieved from NewspaperSG.
+[^27]:Darul Adab Club. (1907, September 2). *The Singapore Free Press and Mercantile Advertiser*, p. 8. Retrieved from NewspaperSG.
 
-Proudfoot, I. (1987, Disember). A nineteenth-century Malay bookseller’s catalogue. Kekal abadi: Berita Perpustakaan Universiti Malaya, 6 (4), 1–11, p. 11. Kuala Lumpur: Perpustakaan Universiti Malaya. (Call no.: Malay RSEA 027.7595 UMPKA)
+[^28]:Proudfoot, I. (1987, Disember). A nineteenth-century Malay bookseller’s catalogue. Kekal abadi: Berita Perpustakaan Universiti Malaya, 6 (4), 1–11, p. 11. Kuala Lumpur: Perpustakaan Universiti Malaya. (Call no.: Malay RSEA 027.7595 UMPKA)
 
- Social and personal. (1909, October 29). The Straits Times, p. 6. Retrieved from NewspaperSG.
+[^29]:Social and personal. (1909, October 29). The Straits Times, p. 6. Retrieved from NewspaperSG.
  
-Warnk, 2010, p. 105.
+[^30]:Warnk, 2010, p. 105.
