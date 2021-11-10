@@ -75,3 +75,39 @@ I stand, I look, I feel and I think. And I know it can all go away in a minute.
 <a href="/vol-13/issue-3/oct-dec-2017/"><center>Back to Issue</center></a>
 
 #### **NOTES**
+
+[^1]:See for instance Ellard, C. (2015, September 1). Streets with no game. Aeon. Retrieved from Aeon Media Group Ltd. website.
+
+[^2]:Victor R. Savage and Brenda Yeoh offer a more thorough explanation in their book. See Savage, V.R., & Yeoh, B.S.A. (2013). *[Singapore street names: A study of toponymics](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200123850)* (p. 47). Singapore: Marshall Cavendish Editions. (Call no.: RSING 915.9570014 SAV) 
+
+[^3]:For details, see Chng, G. (1984, April 22). [The disappearing canal](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19840422-1.2.28). *The Straits Times*, p. 10. Retrieved from NewspaperSG.
+
+[^4]:Liang, A. (2010, June 18). Blocked drain caused Orchard Road flood. *My paper*. Retrieved from Factiva via NLB’s [eResources](http://eresources.nlb.gov.sg/Main/) website.
+
+[^5]:Pieris, A. (2009). *[Hidden hands and divided landscapes: A penal history of Singapore’s plural society](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13167960)* (pp. 87, 89, 243). Honolulu: University of Hawaii Press. (Call no.: RSING 365.95957 PIE)
+
+[^6]:[Pieris](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13167960), 2009, pp. 33, 99; National Library Board. (2018, January 29). *[Indian convicts’ contributions to early Singapore (1825–1873)](https://eresources.nlb.gov.sg/infopedia/articles/SIP_39_2005-02-02.html)*  written by Vernon Cornelius-Takahama. Retrieved from Singapore Infopedia website. Historian Clare Anderson writes that in the 19th century, “the East India Company used and supplied convicts in preference to and to replace slaves” in Southeast Asia (italics original); “convicts were not an alternative to free labour, but the first choice to build infrastructure” because they were “cheaper and more efficient, and certainly a more flexible and controllable alternative” to other forms of labour. See Anderson, C. (2016, August 31). Transnational histories of penal transportation: Punishment, labour and governance in the British imperial world, 1788–1939. *Australian Historical Studies, 47*(3). Retrieved from Taylor & Francis Online.
+
+[^7]:[Pieris](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13167960), 2009, p. 192; [T. F. Hwang takes you down memory lane](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19790407-1.2.102). (1979, April 7). *The Straits Times*, p. 16. Retrieved from NewspaperSG.
+
+[^8]:Lim, J. (2016, February 20). *The fight for freedom from where freedom had once been curtailed*. Retrieved from The Long and Winding Road blog. 
+
+[^9]:[Pieris](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13167960), 2009, p. 110.
+
+[^10]:The bronze sculptures along the Singapore River are primarily about European and Chinese traders, with Chinese and Indian labourers working in the background. Indians are depicted as coolies, although there is one Chettiar.
+
+[^11]:Tor, C.L. (2005, July 5). [$46m makeover for Bugis](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20050705-1.2.13.2). *Today*, p. 6. Retrieved from NewspaperSG.
+
+[^12]:The first mention of “Bras Basah.Bugis” in the English press is in Tee, H.C. (2004, December 11). [Model City](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20041211-1.2.131.9.9). *The Straits Times*, p. 18. Retrieved from NewspaperSG. See also *[Today](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20050705-1.2.13.2)*, 5 Jul 2005, p. 6.
+
+[^13]:Tan, D.W. (2008, September 14). [Old district a hive of activity](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20080914-1.2.33.2). *The Straits Times*, p. 25. Retrieved from NewspaperSG. In the 1980s and 1990s, 13 schools were relocated from the Bras Basah area (in alphabetical order): Anglo-Chinese School (Primary), Catholic High (primary and secondary), Convent of the Holy Infant Jesus (CHIJ, primary and secondary), CHIJ St Nicholas Girls’ School (primary and secondary), St Anthony’s Boys’ School, St Anthony’s Canossian (primary and secondary), St Joseph’s Institution, Stamford Primary School and Tao Nan School.
+
+[^14]:See for instance [Ideas to save library building](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19990320-1.2.55.2.aspx). (1999, March 20). *The Straits Times*, p. 42; Tan, S.S. (1999, March 20). [Consider a change of plans before it is too late](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19990320-1.2.73.4.aspx). *The Straits Times*, p. 57; Kraal, D. (1999, March 31).[ Hurrah for the new voices](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19990331-1.2.80.4). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
+
+[^15]:Singapore Parliament. (2000, March 6). *Official reports – Parliamentary debates* (Hansard). National Library (Retention). (Vol. 71, col. 1137). Retrieved from Parliament of Singapore website.
+
+[^16]:Singapore Parliament. *Official reports – Parliamentary debates* (Hansard), 6 Mar 2000, cols. 1134, 1136.
+
+[^17]:Singapore Parliament. *Official reports – Parliamentary debates* (Hansard), 6 Mar 2000, col. 1134.
+
+[^18]:Ho, J.B.E. (1991, March 20). [Re-examine once more plan to destroy Eu Court](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19910320-1.2.48.1.aspx). *The Straits Times*, p. 30; Tan, C. (1992, August 18). [Going, going… almost gone](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19920818-1.2.10.9.aspx). *The Business Times*, p. 3. Retrieved from NewspaperSG.
