@@ -41,7 +41,7 @@ Clyde Elliott was the first Hollywood director to shoot a feature film in Singap
 **[தமிழ் முரசில் 1936-1960 வரை வெளிவந்த சிறுகதைகள் – ஒரு பார்வ](/vol-13/issue-2/jul-sep-2017/short-stories-Tamil)ை** <br>
 *Sundari Balasubramaniam* reviews a selection of short stories published in *Tamil Murasu* during the tumultuous years from 1936 to 1960 when Singapore transitioned from British rule and Japanese Occupation to self-governance. [(PDF)](/files/pdf/vol-13/v13-issue2_Tamil.pdf)
 
-**[Heaven, Earth and Brotherhood](/vol-13/issue-2/jul-sep-2017/heaven-earth-brotherh)** <br>
+**[Heaven, Earth and Brotherhood](/vol-13/issue-2/jul-sep-2017/heaven-earth-brother)** <br>
 Secret societies arrived on the back of mass migrations of Chinese to Asia in the colonial era. *Makeswary Periasamy* highlights the National Library’s collection of early books on Chinese triads. [(PDF)](/files/pdf/vol-13/v13-issue2_HeavenEarth.pdf)
 
 **[50 Years of National Service](/vol-13/issue-2/jul-sep-2017/50years-of-ns)** <br>
