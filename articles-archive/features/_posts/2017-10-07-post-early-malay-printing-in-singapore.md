@@ -6,7 +6,7 @@ layout: post
 ---
 #### **Mazelan Anuar** tracks the rise and decline of Malay printing and publishing in 19th-century Singapore, and profiles two of the most prolific printers of that period.
 
-<div style="background-color: white;"><br><img src="/images/Vol-13-issue-3/early-malay-printing-in-sg/01_malayprinting.png">A composite image showing Kampong Glam from a cropped section of Plan of the Town of Singapore, 1843. Urban Redevelopment Authority, courtesy of National Archives of Singapore; and Sultan Mosque, c. 1928. <i>Denis Santry Collection, National Library Board. Courtesy of Glen Christian.</i></div>
+<div style="background-color: white;"><br><img src="/images/Vol-13-issue-3/early-malay-printing-in-sg/01_malayprinting.png">A composite image showing Kampong Glam from a cropped section of Plan of the Town of Singapore, 1843. <i>Urban Redevelopment Authority, courtesy of National Archives of Singapore; and Sultan Mosque, c. 1928. Denis Santry Collection, National Library Board. Courtesy of Glen Christian.</i></div>
 
 Inscriptions in Old Malay can be traced back to the 7th century. These inscriptions from the pre-Islamic Malay world, such as the ones found on a small stone in Kedukan Bukit in Palembang, Indonesia, used vocabulary and scripts that are of Indian origin. The expansion of the Srivijaya kingdom from Sumatra to other parts of the Malay Archipelago resulted in the process of Indianisation that first shaped the cultural and religious practices of the Malays, including language and the art of writing.[^1] Additionally, words borrowed from Indian languages, especially Sanskrit, were introduced into the Malay vernacular and widely used in ritual, law and court documents.[^2]
 
@@ -28,7 +28,7 @@ These locales in the Far East, which served as popular ports-of-call for the lar
 
 The missionaries also set up printing presses at these locales to publish Christian works in the languages of the local populace.[^10] Printing in Singapore began with the arrival of Danish missionar y, Reverend Claudius Henry Thomsen, and Abdullah bin Abdul Kadir (better known as Munshi Abdullah), the learned Malay teacher and translator from Melaka. Both men had collaborated on a number of Malay-language works together. In 1823, along with another missionary, Samuel Milton, Thomsen established *Mission Press*, the first printing press in Singapore, after being granted approval by the colonial authorities.[^11]
 
-Thomsen returned to England in 1834, and the printing of Malay works was taken over by the Protestant missionary, Reverend Benjamin Keasberry, who arrived in Singapore in 1839. Keasberry also engaged the services of Munshi Abdullah who helped with the translation of works into Malay and the operation of the press. Munshi Abdullah’s original literary works, such as the famous Hikayat Abdullah (Stories of Abdullah), were also published by Keasberry. The latter continued to print in Malay until the 1860s when the first indigenous Malay/Muslim printers and publishers emerged in Singapore.[^12]
+Thomsen returned to England in 1834, and the printing of Malay works was taken over by the Protestant missionary, Reverend Benjamin Keasberry, who arrived in Singapore in 1839. Keasberry also engaged the services of Munshi Abdullah who helped with the translation of works into Malay and the operation of the press. Munshi Abdullah’s original literary works, such as the famous *Hikayat Abdullah* (Stories of Abdullah), were also published by Keasberry. The latter continued to print in Malay until the 1860s when the first indigenous Malay/Muslim printers and publishers emerged in Singapore.[^12]
 
 #### **Printers of Kampong Gelam**
 
@@ -45,7 +45,7 @@ The Malay printing industry in Singapore continued to flourish in the following 
 	
 #### **Haji Muhammad Said bin Haji Arsyad**
 
-Much of Haji Muhammad Said’s printing and publishing activities were researched and documented by the late Dr Ian Proudfoot, one of the greatest scholars on early Malay printing. Proudfoot studied information found in the Straits Settlements Government Gazette, publications produced by Haji Muhammad Said and his sons as well as other contemporaneous literature.
+Much of Haji Muhammad Said’s printing and publishing activities were researched and documented by the late Dr Ian Proudfoot, one of the greatest scholars on early Malay printing. Proudfoot studied information found in the *Straits Settlements Government Gazette*, publications produced by Haji Muhammad Said and his sons as well as other contemporaneous literature.
 
 Haji Muhammad Said’s business went by several names, such as Matbaah/ Matba’ Haji Muhammad Said, Matbaah al-Saidi, Haji Muhammad Said Press and Saidiah Press. Haji Muhammad Said operated out of a few locations in the vicinity of Kampong Gelam. His early publications produced before the 20th century indicate that his business was located at 47, 48 and 51 Jalan Sultan. Sometime in 1907, his shop and press moved to 82 Arab Street which was also known as Kampung Silung.[^17]
 
