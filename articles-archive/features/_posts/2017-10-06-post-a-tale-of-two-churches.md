@@ -94,26 +94,26 @@ Unlike Penang’s Armenian church which has disappeared from living memory, its 
 
 [^1]:The Persian Armenians modified and shortened their names to sound more British, and most of them dropped the original “ian” ending. This resulted in surnames such as Anthony, Gregory, Martin and Stephens.
 
-[^2]:Prince of Wales Island Gazette, 6 November 1824.
+[^2]:*Prince of Wales Island Gazette*, 6 November 1824.
 
-[^3]:Untitled. (1909, February 8). *The Singapore Free Press and Mercantile Advertiser*, p. 5. Retrieved from NewspaperSG.
+[^3]:[Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19090208-1.2.36). (1909, February 8). *The Singapore Free Press and Mercantile Advertiser*, p. 5. Retrieved from NewspaperSG.
 
-[^4]:Khoo, S.N. (2006). More than merchants: A history of the German-speaking community in Penang 1800s–1940s (p. 80). Pulau Pinang: Areca Books. (Call no.: RSEA 305.73105951 KHO)
+[^4]:Khoo, S.N. (2006). *[More than merchants: A history of the German-speaking community in Penang 1800s–1940s](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12730150)* (p. 80). Pulau Pinang: Areca Books. (Call no.: RSEA 305.73105951 KHO)
 
 [^5]:Unlike in Penang, and unique to Singapore, no Armenians were buried under the church aisle or the church grounds. Most of the tombstones laid out in the Garden of Memories were rescued from former cemeteries.
 
 [^6]:The presence of the plaque at the Armenian Church in Singapore later led to a mistaken belief that it belonged to an earlier Armenian church there which had been demolished.
 
-[^7]:HyeEtch. (1999, August 30). Formation of a national style. Retrieved from Hye Etch Arts & Culture website.
+[^7]:HyeEtch. (1999, August 30). *Formation of a national style*. Retrieved from Hye Etch Arts & Culture website.
 
-[^8]:Newbold, T.J. (1839). Political and statistical account of the British settlements in the Straits of Malacca (Vol. 1, p. 49). London: John Murray. Retrieved from BookSG; Low, J. (1836). A dissertation on the soil & agriculture of the British settlement of Penang, or Prince of Wales island, in the Straits of Malacca (p. 315). Singapore: Printed at the Singapore Free Press Office. Retrieved from BookSG.
+[^8]:Newbold, T.J. (1839). Political and statistical account of the British settlements in the Straits of Malacca (Vol. 1, p. 49). London: John Murray. Retrieved from BookSG; Low, J. (1836). *[A dissertation on the soil & agriculture of the British settlement of Penang, or Prince of Wales island, in the Straits of Malacca](http://eresources.nlb.gov.sg/printheritage/detail/f4bfb7e2-bfbe-4c56-b995-ee105dad9a04.aspx)* (p. 315). Singapore: Printed at the Singapore Free Press Office. Retrieved from BookSG.
 
 [^9]:Dr Nathaniel Wallich (1786-1854) was responsible for establishing Singapore’s botanic gardens at Fort Canning.
 
 [^10]:Thomas Church to the Secretary to Government, Fort William 17 June 1834, R. 2, Straits Settlements Records.
 
-[^11]:Singapore. (1835, March 7). Singapore Chronicle and Commercial Register, p. 3. Retrieved from NewspaperSG.
+[^11]:[Singapore](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singchronicle18350307-1.2.9). (1835, March 7). *Singapore Chronicle and Commercial Register*, p. 3. Retrieved from NewspaperSG.
 
 [^12]:Translation of Minutes by the late Arshak Galstaun.
 
-[^13]:Armenian Church. (1836, March 17). The Singapore Free Press and Mercantile Advertiser, p. 3. Retrieved from NewspaperSG.
+[^13]:[Armenian Church](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18360317-1.2.13). (1836, March 17). *The Singapore Free Press and Mercantile Advertiser*, p. 3. Retrieved from NewspaperSG.
