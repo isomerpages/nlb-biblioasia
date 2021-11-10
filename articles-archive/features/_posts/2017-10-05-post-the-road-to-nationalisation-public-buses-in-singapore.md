@@ -60,7 +60,7 @@ A period of expansion soon followed, but this was accompanied by failed attempts
 • Easy Bus Company (established in 1946)<br>
 • Hock Lee Amalgamated Bus Company (formed in 1951 from a merger between Ngo Hock Motor Bus Company, established in 1929, and Soon Lee Bus Company, established in 1931)
 <br><br>
-<b>1930s–1970</b><br>
+<b>1971–1972</b><br>
 • Singapore Traction Company (ceased operations in 1971)<br>
 • Amalgamated Bus Company (formed from a merger of Hock Lee, Keppel Bus and Kampong Bahru in 1971)<br>
 • Associated Bus Services (formed from a merger of Paya Lebar, Changi, Katong-Bedok and Punggol in 1971)<br>
