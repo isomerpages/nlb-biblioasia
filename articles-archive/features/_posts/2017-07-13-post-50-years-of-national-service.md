@@ -6,7 +6,7 @@ layout: post
 ---
 #### National Service is a rite of passage for Singaporean men when they come of age. **Sharen Chua** shares highlights of books on National Service in the Legal Deposit Collection.
 
-<div style="background-color: white;"><br><img src="/images/Vol-13-issue-2/50-years-of-ns/01_ns.png">National Service recruits at the Telok Ayer Constituency being sent off in this photo taken on 3 September 1967. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;"><br><img src="/images/Vol-13-issue-2/50-years-of-ns/01a_ns.png">National Service recruits at the Telok Ayer Constituency being sent off in this photo taken on 3 September 1967. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 Singapore celebrates 50 years of National Service in 2017. The compulsory enlistment of soldiers was introduced in 1967 with the passing of the National Service (Amendment) Act on 17 March that year.[^1] This was not the first time the government had tried to implement a mandatory conscript service. In May 1954, the British attempted to introduce National Service but the move was met with violent protests by Chinese middle school students – later known as the National Service Riots of 1954 – who refused to support the colonial government.[^2]
 
