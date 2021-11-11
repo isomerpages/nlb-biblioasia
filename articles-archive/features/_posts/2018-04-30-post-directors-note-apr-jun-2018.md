@@ -20,7 +20,7 @@ The Lee Brothers Studio Collection of some 2,500 images forms the largest single
 
 One of the statutory functions of the National Library is Legal Deposit, which mandates that two copies of every work published in Singapore must be deposited with the library. [Barbara Quek](/vol-14/issue-1/apr-jun-2018/publications-of-past/) showcases a selection of first issues of magazines and journals from the Legal Deposit Collection – many of which have ceased publication.
 
-Finally, [Lu Wenshi](/vol-14/issue-1/apr-jun-2018/ramen-teh-food-war-m/) interviews Eric Khoo and finds out what inspired his latest film, *Ramen Teh* – scenes of which were shot at the Former Ford Factory in Bukit Timah.
+Finally, [Lu Wenshi](/vol-14/issue-1/apr-jun-2018/ramen-teh/) interviews Eric Khoo and finds out what inspired his latest film, *Ramen Teh* – scenes of which were shot at the Former Ford Factory in Bukit Timah.
 
 We hope you enjoy reading this edition of *BiblioAsia*.
 
