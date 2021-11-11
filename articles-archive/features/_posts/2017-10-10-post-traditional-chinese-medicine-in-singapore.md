@@ -56,8 +56,8 @@ layout: post
 同济医院自成立以来，始终秉承不分种族、不分宗教、不分国籍、施医赠药的宗旨，为社会大众服务。版权所有，《同济医院一百二十周年历史专集》(1989)（封面、页177）。新加坡：同济医院。（索书号：RSING Chinese 610.95957 TJY)</span>
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;">
-这篇文章由吴玉美编辑。她是新加坡国家图书馆的助理图书馆员，负责中文艺术与文学馆藏。<br><br>
-This article was edited by Goh Yu Mei, an Associate Librarian with the National Library, Singapore. She works with the Chinese arts and literature collection.</span>
+	这篇文章由<b>吴玉美</b>编辑。她是新加坡国家图书馆的助理图书馆员，负责中文艺术与文学馆藏。<br><br>
+This article was edited by <b>Goh Yu Mei</b>, an Associate Librarian with the National Library, Singapore. She works with the Chinese arts and literature collection.</span>
 
 <div style="background-color: white;">
 <br>
