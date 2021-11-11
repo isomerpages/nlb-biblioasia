@@ -82,4 +82,46 @@ After Dutronquoy’s departure, Singapore was not to see another resident profes
 The limited commercial success of daguerreotypes in Singapore could be attributed to several factors: the small consumer population, the relative high price of commissioning a portrait and the capital required to run a professional studio. Human vanity also came into play; for those who were used to seeing a more flattering version of themselves rendered in painting, the stark precision of the daguerreotype could be an unpleasant reality check.
 
 <img src="/images/Vol-15-issue-3/daguerreotypes-to-dry-plates/Daguerreotypes8.JPG">
-<div style="background-color: white;">Two Indian men at a fruit stall from the Sachtler & Co. album, Views and Types of Singapore, 1863, in the collection of the National Library. Lee Kip Lin Collection. <i>All rights reserved, Lee Kip Lin and National Library Board, Singapore.</i></div>
+<div style="background-color: white;">Two Indian men at a fruit stall from the Sachtler & Co. album, Views and Types of Singapore, 1863, in the collection of the National Library. <i>Lee Kip Lin Collection. All rights reserved, Lee Kip Lin and National Library Board, Singapore.</i></div>
+
+#### **A New Method**
+
+The daguerreotype was eventually superseded by the wet-plate collodion process, which produced a negative image on a glass plate. Invented in 1851 by the British amateur photographer Frederick Scott Archer, the wet-plate process was the most popular photographic method from the mid-1850s to the 1880s.
+
+The process of creating a wet-plate negative called for ample preparation time, skill and speed. The photographer had to work swiftly to coat, expose and develop the glass plate while the light-sensitive collodion on its surface was still damp (hence the “wet-plate” process).19 This meant that a photographer working away from the comfort of his studio would have had to carry all the materials and equipment necessary to set up a portable darkroom on location.
+
+Although cumbersome, the wet-plate technique was inexpensive and, once mastered, could create detailed images of a consistent quality. Moreover, unlike the single irreproducible image created by the daguerreotype process, an unlimited number of positive prints could be produced from a single wet-plate negative – setting the stage for the rise of commercial photography. These prints were typically made on albumen paper.
+
+Edward A. Edgerton, a former lawyer from America, is credited for introducing the wet-plate technique to Singapore in 1858. Edgerton first advertised his services in February that year, providing photographs on glass or paper by a process “never before introduced here, being much superior to the reversed and mirror-like metallic plates of the daguerreotype”.20
+
+Initially operating from his residence on Stamford Road, Edgerton entered into a partnership with a certain Alfeld, and the studio relocated across the road to 3 Armenian Street by May 1858. A year later, however, Edgerton moved on to run another studio at Commercial Square. By 1861, he was no longer in the trade and had become editor of the *Singapore Review and Monthly Magazine*. Unfortunately, as far as we know, none of Edgerton’s works have survived the passage of time.
+
+<img src="/images/Vol-15-issue-3/daguerreotypes-to-dry-plates/Daguerreotypes9.JPG"><br>
+
+<img src="/images/Vol-15-issue-3/daguerreotypes-to-dry-plates/Daguerreotypes10.JPG">
+<div style="background-color: white;">John Thomson’s four-part panorama of the Singapore River, produced in the early 1860s, using the wet-plate collodion method. Each can be viewed as a separate photograph or put together to form a single panorama. The photographs do not join up seamlessly as each image was shot separately. <i>Courtesy of Mr and Mrs Lee Kip Lee.</i></div>
+
+#### **Pioneering Commercial Studios**
+
+Other photographers soon set up shop in the wake of Edgerton’s short-lived venture. These include Thomas Heritage, formerly from London, who came to Singapore after completing work in Penang. He opened his studio at 3 Queen Street on 20 August 1860, and is listed in the *Straits Directory* of 1861 and 1862; French photographer O. Regnier, whose studio at Hotel l’Esperance is listed in the *Straits Directory* of 1862; and Lee Yuk at Teluk (Telok) Ayer Street, who is also listed in the 1862 *Straits Directory*. These studios operated in Singapore for a short period only.
+
+For a brief time, Singapore was also home to John Thomson, who later gained recognition for his extensive photographic documentation of China in the 1870s, and is feted as one of the most accomplished travel photographers of the 19th century. A Scotsman, Thomson came to Singapore in June 1862 to join his older brother, William, who had arrived about two years prior and ran a ship chandlery business on Battery Road.21
+
+The two formed a partnership called Thomson Brothers. With Singapore as his base, the younger Thomson spent considerable time travelling in the region, building up an impressive portfolio of images of Siam (Thailand), Cambodia and Vietnam.22 He moved to Hong Kong in 1868 to begin the ambitious project of photographing China, while William continued the business in Singapore until 1870.23
+
+One of John Thomson’s significant works on Singapore is the four-part panorama of the Singapore River that he produced in the early 1860s. Using the wet-plate collodion method, Thomson created four separate exposures that could be aligned to form a single panorama, with each retaining its appeal as an individual photograph.
+
+A contemporary of the Thomson Brothers was Sachtler & Co., which was most likely established in 1863 and came to dominate commercial photography in Singapore for a decade.24 The identity of Sachtler & Co.’s original proprietor remains a mystery. By July 1864, however, the business had been taken over by a German, August Sachtler, in partnership with Kristen Feilberg. Sachtler was a telegrapher by profession, but his exposure to photography during an assignment to Japan in 1860 led to a change in career.25
+
+<img src="/images/Vol-15-issue-3/daguerreotypes-to-dry-plates/Daguerreotypes11.JPG">
+<div style="background-color: white;">An Indian man dressed in the traditional kurta. Image reproduced from the Sachtler & Co. album, <i>Views and Types of Singapore, 1863</i>, in the collection of the National Library. As the emulsion used was much more sensitive to blue light, cooler colours registered more quickly and appeared lighter, while warm colours took a longer time and appeared dark. This difference explains why parts of the photographs look overexposed. <i>Lee Kip Lin Collection. All rights reserved, Lee Kip Lin and National Library Board, Singapore.</i></div>
+
+Located on High Street near the Court House, Sachtler & Co. offered photography services with the images mounted on a wide variety of the latest frames and albums imported from England, as well as a ready selection of Singapore-made photographs. In 1865, a branch studio, Sachtler & Feilberg (a partnership between Hermann Sachtler, presumably August’s brother, and Feilberg), opened in Penang. Feilberg went on to start his own practice in 1867, and Hermann Sachtler returned to Singapore by 1869.
+
+That year, it was reported that Hermann had met with a bad accident while taking photographs from the roof of the French Roman Catholic Church (present-day Cathedral of the Good Shepherd). While adjusting his camera, Hermann lost his footing and fell from a height of some 20 to 25 metres, fracturing his skull and arm, yet miraculously surviving the ordeal.
+
+In 1871, Sachtler & Co. relocated to Battery Road before returning to High Street in 1874, reopening as Sachtler’s Photographic Rooms at No. 88, opposite the Hotel d’Europe. By then, the firm was supplying an extensive range of photographs taken around the region, including “views and types of Borneo, Java, Sumatra, Saigon, Siam, Burmah, and Straits Settlements”.26 Sachtler & Co. ceased business shortly after; in June 1874, its stock of negatives and equipment was acquired by another photographic studio, Carter & Co.
+
+Held in the National Library of Singapore is an album by Sachtler & Co. titled Views and Types of Singapore, 1863, containing 40 albumen prints that make up the oldest photographic material in the library’s collection. As the title indicates, the album features picturesque scenes (“views”) of the settlement and portraits of its diverse inhabitants (ethnographic “types”).
+
+Bearing in mind the inconvenience of the wet-plate process, it is no surprise that photographs during this period tended to be produced in the studio, or if taken outdoors, were of stationary or posed subjects. Portraiture, landscape and architectural views were the norm, as the album amply demonstrates. These were the stock-in-trade of European photographic studios, and served as a visual representation of the exotic “Far East” for a predominantly Western audience.
