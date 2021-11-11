@@ -20,7 +20,7 @@ Is the Vanda Miss Joaquim a human-made hybrid or a happy accident? In this cauti
 **[Secret War Experiments in Singapore](/vol-14/issue-1/apr-jun-2018/scret-war-expmt-insg/)** <br>
 The story of the Imperial Japanese Army farming bubonic plague-bearing fleas as biological weapons is very much fact, not fiction. *Cheong Suk-Wai* delves deeper. [(PDF)](/files/pdf/vol-14/v14-issue1_SecretWar.pdf)
 
-**[Hunting Down the Malayan Mata Hari](/vol-14/issue-1/apr-jun-2018/hunt-down-mlyn-meta/)** <br>
+**[Hunting Down the Malayan Mata Hari](/vol-14/issue-1/apr-jun-2018/malayan-mata-hari/)** <br>
 *Ronnie Tan* pieces together the fascinating story of Lee Meng, the Malayan Communist Party female agent who headed its courier network for a brief period in 1952. [(PDF)](/files/pdf/vol-14/v14-issue1_Hunting.pdf)
 
 **[St John’s Island: From Gateway to Getaway](/vol-14/issue-1/apr-jun-2018/st-johns-island-gtwy/)** <br>
