@@ -208,17 +208,8 @@ Some research has been done and continue to be carried out on Asian photographer
 [^23]:The firm Thomson Brothers is listed in the *Straits Directory* for the years 1863 through to 1870. Balmer, J. (1993). Introduction. In J. Thomson (1993). [*The Straits of Malacca, Siam and Indo-China: Travels and adventures of a nineteenth-century photographer*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6373043) (pp. xiv, xiii). Singapore: Oxford University Press. (Call no.: RSING 915.9 THO-[TRA]).
 [^24]:Sachtler & Co. was first listed in the *Straits Directory* for 1864, and was likely to have been founded the year before. See [Falconer](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4368234), 1987, p. 27.
 [^25]:Dobson, S. (2009, May). The Prussian expedition to Japan and its photographic activity in Nagasaki in 1861. *Old Photography Study*, 3, pp. 28–29. Retrieved from Nagasaki University’s Academic Output website.
-[^26]:Notice. (1874, June 6). The Straits Times, p. 4. Retrieved from NewspaperSG.
-[^27]:
-[^28]:
-[^29]:
-[^30]:
-
-
-
-
-
-Bautze, J.K. (2016). Unseen Siam: Early photography 1860–1910 (p. 183). Bangkok: River Books. (Call no.: RSEA 959.3034 BAU)
-Notice. (1877, May 19). The Straits Times, p. 11. Retrieved from NewspaperSG. Lambert was first listed in the Straits Calendar and Directory for 1868, and was not to appear again until 1878.
-Wright, A., & Cartwright, H.A. (Eds.). (1908). Twentieth century impressions of British Malaya: its history, people, commerce, industries, and resources (p. 705). London: Lloyd’s Greater Britain Publishing Company. (Microfilm: NL16084); Cheah, J.S. (2006). Singapore: 500 early postcards (pp. 9–10, 12). Singapore: Editions Didier Millet. (Call no.: RSING 769.56609595);
-Wright & Cartwright, 1908, pp. 702, 705.
+[^26]:[Notice](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18740606-1.2.15.2). (1874, June 6). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
+[^27]:Bautze, J.K. (2016). [*Unseen Siam: Early photography 1860–1910*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202714755) (p. 183). Bangkok: River Books. (Call no.: RSEA 959.3034 BAU).
+[^28]:[Notice](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18770519-1.2.14.1). (1877, May 19). *The Straits Times*, p. 11. Retrieved from NewspaperSG. Lambert was first listed in the *Straits Calendar and Directory* for 1868, and was not to appear again until 1878.
+[^29]:Wright, A., & Cartwright, H.A. (Eds.). (1908). [Twentieth century impressions of British Malaya: its history, people, commerce, industries, and resources](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4558051) (p. 705). London: Lloyd’s Greater Britain Publishing Company. (Microfilm: NL16084); Cheah, J.S. (2006). [Singapore: 500 early postcards](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12716049) (pp. 9–10, 12). Singapore: Editions Didier Millet. (Call no.: RSING 769.56609595).
+[^30]:Wright & Cartwright, 1908, pp. 702, 705.
