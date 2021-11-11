@@ -186,15 +186,6 @@ Following a deadly confrontation with the police, the riots were quelled and, on
 [^24]:[The verandahs again (July 6th)](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk18990713-1.2.3). (1899, July 13). *The Singapore Free Press and Mercantile Advertiser (Weekly)*, p. 1. Retrieved from NewspaperSG.
 [^25]:[[Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19000926-1.2.6)]. (1900, September 26). *The Straits Times*, p. 2. Retrieved from NewspaperSG.
 [^26]:[*The Straits Times*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19250711-1.2.84), 11 Jul 1925, p. 10.
-[^27]:Tan, S.S. (1998, April 10). Eat, drink on 5-foot ways. The Straits Times, p. 10. Retrieved from NewspaperSG.
-[^28]:
-[^29]:
-
-
-
-
-
-
-
-Yeo, S.J. (2015, July 5). Goodbye to al fresco dining? The Straits Times, p. 11. Retrieved from NewspaperSG.
-Hartung, R. (2015, July 31). Preserve the city’s character on the footways. Today, p. 22. Retrieved from NewspaperSG.
+[^27]:Tan, S.S. (1998, April 10). [Eat, drink on 5-foot ways](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19980410-1.2.97.16). *The Straits Times*, p. 10. Retrieved from NewspaperSG.
+[^28]:Yeo, S.J. (2015, July 5). [Goodbye to al fresco dining?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20150705-1.2.13.1) The Straits Times, p. 11. Retrieved from NewspaperSG.
+[^29]:Hartung, R. (2015, July 31). Preserve the city’s character on the footways. Today, p. 22. Retrieved from NewspaperSG.
