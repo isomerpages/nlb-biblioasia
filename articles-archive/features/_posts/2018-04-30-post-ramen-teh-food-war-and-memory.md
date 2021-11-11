@@ -7,6 +7,7 @@ layout: post
 #### Eric Khoo tells us how the Japanese Occupation, *ramen* noodles and *bak kut teh* became the inspiration for his latest film. **Lu Wenshi** finds out more.
 
 <img style="width: 650px; height: 400px;" src="/images/Vol-14-issue-1/ramen-teh/Ramen1.JPG">
+<div style="background-color: white;">The ramen shop run by Masato’s father in Japan. <i>Courtesy of Zhao Wei FiIms. </i></div>
 
 When acclaimed Singaporean film director Eric Khoo produced his latest film *Ramen Teh*, he was drawn to the historical materials and archival records on display at the exhibition – “Surviving the Japanese Occupation: War and its Legacies” – at the Former Ford Factory. It was a not a coincidence, therefore, when he decided to feature the World War II site in his film.
 
