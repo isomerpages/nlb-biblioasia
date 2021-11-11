@@ -194,3 +194,13 @@ Some research has been done and continue to be carried out on Asian photographer
 [^9]:The Lagrené mission, as it came to be known, resulted in the Treaty of Whampoa signed on 24 October 1844, which secured for France the same privileges extended to Britain. See Massot, G. (2015, November). [Jules Itier and the Lagrené Mission](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203235478). *History of Photography, 39*(4), 319–347, p. 320. (Call no.: RCLOS 770.92 MAS).
 [^10]:According to Itier’s published account of the trip, *Journal d’un Voyage en Chine en 1843, 1844, 1845, 1846*, the daguerreotype of Thian Hock Keng was made on 6 July 1844, which places it as the earliest dated photograph of Asia. See [Massot](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203235478), Nov 2015, pp. 323, 346.
 [^11]:[Massot](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203235478), Nov 2015, pp. 320–324, 346.
+[^12]:
+[^13]:
+[^14]:
+[^15]:
+[^16]:
+[^17]:
+[^18]:
+[^19]:
+[^20]:
+[^2]:
