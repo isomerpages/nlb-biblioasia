@@ -64,7 +64,7 @@ The Former Ford Factory is located at 351 Upper Bukit Timah Road. Presented by t
 <br>
 <div style="background-color: white;">
 <img src="/images/Vol-14-issue-1/ramen-teh/LWS.JPG" style="width: 100px; height: 100px;">
-<b>Lu Wenshi</b> is Manager (Archives Services) with the National Archives of Singapore. She was involved in the revamp of the Former Ford Factory and managed its outreach programmes, including facilitating the shoot of 'Ramen Teh'.
+<b>Lu Wenshi</b> is Manager (Archives Services) with the National Archives of Singapore. She was involved in the revamp of the Former Ford Factory and managed its outreach programmes, including facilitating the shoot of <i>Ramen Teh</i>.
 </div>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-14/issue-1/apr-jun-2018/"><center>Back to Issue</center></a>
