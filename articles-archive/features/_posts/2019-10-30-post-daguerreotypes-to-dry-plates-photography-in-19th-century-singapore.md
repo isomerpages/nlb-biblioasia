@@ -168,4 +168,29 @@ The story thus far constitutes a series of snapshots, a quick survey of the mile
 <div style="background-color: white;">Returning from a tiger hunt. <i>Image reproduced from Lambert, G.R. (1890). Fotoalbum Singapur. Singapore: G.R. Lambert. Collection of the National Library, Singapore. (Accession no.: B18975148J).</i></div>
 <br><br>
 <img src="/images/Vol-15-issue-3/daguerreotypes-to-dry-plates/Daguerreotypes18.JPG">
-<div style="background-color: white;">The interior of G.R. Lambert & Co. studio at Gresham House on Battery Road, which opened in 1893. <i>Image reproduced from Wright, A., & Cartwright, H.A. (Eds). (1908). 20th Century Impressions of British Malaya: Its History, People, Commerce, Industries, and Resources (p. 704). London: Lloyd’s Greater Britain Publishing Company, Limited. Collection of the National Library, Singapore. (Accession no.: B29032399D)</i></div>
+<div style="background-color: white;">The interior of G.R. Lambert & Co. studio at Gresham House on Battery Road, which opened in 1893. <i>Image reproduced from Wright, A., & Cartwright, H.A. (Eds). (1908). 20th Century Impressions of British Malaya: Its History, People, Commerce, Industries, and Resources (p. 704). London: Lloyd’s Greater Britain Publishing Company, Limited. Collection of the National Library, Singapore. (Accession no.: B29032399D).</i></div>
+
+As these European studios faded from the scene in the early 20th century, it paved the way for Asian players to take their place in the interwar period. To give a sense of the new situation, the census of 1921 counted 171 photographers comprising 109 Chinese, 52 “others” (Japanese, Siamese, Sinhalese, Arabs or Asiatic Jews), six Malays, three Indians and only one European.
+
+Some research has been done and continue to be carried out on Asian photographers, for example, the Lee Brothers Studio, a family-owned photographic enterprise run by Lee King Yan and Lee Poh Yan, at the corner of Hill Street and Loke Yew Street. There are many more photographers whose names await to be uncovered and their stories told.
+
+<br>
+<div style="background-color: white;">
+<img src="/images/Vol-15-issue-3/daguerreotypes-to-dry-plates/Daguerreotypes19.jpg" style="width: 100px; height: 100px;">
+<b>Janice Loo</b> is a Librarian at the National Library, Singapore. Her responsibilities include collection management and content development as well as research and reference assistance on topics relating to Singapore and Southeast Asia.
+</div>
+
+<a href="https://biblioasia.nlb.gov.sg/vol-15/issue-3/oct-dec-2019/"><center>Back to Issue</center></a>
+
+#### **NOTES**
+[^1]:
+[^2]:
+[^3]:
+[^4]:
+[^5]:
+[^6]:
+[^7]:
+[^8]:
+[^9]:
+[^10]:
+[^11]:
