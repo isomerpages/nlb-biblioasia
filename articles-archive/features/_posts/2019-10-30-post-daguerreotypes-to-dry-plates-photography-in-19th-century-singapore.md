@@ -6,7 +6,7 @@ layout: post
 ---
 #### The oldest known photographs of Singapore were taken by Europeans in the early 1840s. **Janice Loo** charts the rise of commercial photography in the former British colony.
 
-<img src="/images/Vol-15-issue-3/daguerreotypes-to-dry-plates/Daguerreotypes1.JPG">
+<img style="width: 250px; height: 250px;" src="/images/Vol-15-issue-3/daguerreotypes-to-dry-plates/Daguerreotypes1.JPG">
 <div style="background-color: white;">An early camera consisting of a tube holding the lens at the front and a slot at the back for the insertion of the focusing ground glass, with the dark slide containing the sensitised plate. <i>Image reproduced from Tissandier, G. (1877). A History and Handbook of Photography (p. 97). New York: Scovill Manufacturing Company. Retrieved from Internet Archive website.</i></div>
 
 Photography is the “method of recording the image of an object through the action of light on a light-sensitive material”.1 Derived from the Greek words *photos* (“light”) and *graphein* (“to draw”), photography was invented by combining the age-old principles of the camera obscura (“dark room” in Latin2) and the discovery in the 1700s that certain chemicals turned dark when exposed to light.
@@ -23,7 +23,7 @@ In the *Hikayat*, Abdullah recounted how Reverend Benjamin Keasberry, a Protesta
 
 “This is the new invention of the white man,” replied the Reverend. “There is a doctor6 on board an American warship here who has with him an apparatus for making these pictures. I cannot explain it to you for I have never seen one before. But the doctor has promised me that he will show me how it works next Monday.”
 
-<img src="/images/Vol-15-issue-3/daguerreotypes-to-dry-plates/Daguerreotypes2.JPG">
+<img style="width: 350px; height: 450px;" src="/images/Vol-15-issue-3/daguerreotypes-to-dry-plates/Daguerreotypes2.JPG">
 <div style="background-color: white;">A daguerreotype of Louis Jacques-Mandé Daguerre by Jean-Baptiste Sabatier-Blot, 1844. Daguerre invented the daguerreotype in 1839, the earliest practical method of making permanent images with a camera. <i>Courtesy of the George Eastman Museum.</i></div>
 
 Abdullah’s meeting with the said doctor took place around 1841 – just two years after the daguerreotype was invented and introduced to the world.7
@@ -36,7 +36,7 @@ Indeed, the daguerreotype brought a degree of sharpness and realism to picture-m
 
 Since the fate of the images mentioned in the *Hikayat Abdullah* remains unknown, the daguerreotypes produced in 1844 by Alphonse-Eugène-Jules Itier, a French customs inspector, are considered the oldest surviving photographic views of Singapore.
 
-<img src="/images/Vol-15-issue-3/daguerreotypes-to-dry-plates/Daguerreotypes3.JPG">
+<img style="width: 350px; height: 450px;" src="/images/Vol-15-issue-3/daguerreotypes-to-dry-plates/Daguerreotypes3.JPG">
 <div style="background-color: white;">Self-portrait of Alphonse-Eugène-Jules Itier in Qing dynasty (Manchu) attire, 1847. He took the oldest existing photographic images (daguerreotypes) of Singapore in 1844. <i>Private Collection Archives Charmet, Bridgeman Images.</i></div>
 
 Itier travelled through this part of the world en route to China as part of a French trade mission led by French ambassador Théodose de Lagrené.9 The delegation arrived in Singapore on 3 July 1844, staying here for two weeks before departing on 16 July. The sights and sounds of the bustling port left a deep impression on Itier, who took pictures to show the remarkable development of the port settlement within a mere two decades of its founding in 1819.
@@ -47,10 +47,10 @@ Due to its age, the picture appears hazy and dull. But what might it have looked
 
 Held in hand and viewed up close, the townscape would have appeared ethereal as it lay suspended on a mirror-like surface, whose reflective properties lent visual depth to the scene. The image also alternated between positive and negative depending on the angle in which it was held and observed. Recalling Munsyi’s reaction, one could imagine how these unique characteristics would have enthralled many a first-time viewer. The other three daguerreotypes by Itier feature the entrance to Thian Hock Keng temple on Telok Ayer Street, a horse cart on a street, and two Malay carriage handlers.10
 
-<img src="/images/Vol-15-issue-3/daguerreotypes-to-dry-plates/Daguerreotypes4.JPG">
+<img style="width: 450px; height: 300px;" src="/images/Vol-15-issue-3/daguerreotypes-to-dry-plates/Daguerreotypes4.JPG">
 <div style="background-color: white;">Alphonse-Eugène-Jules Itier’s 1844 daguerreotype of Boat Quay and the Singapore River from Government Hill (today’s Fort Canning) is considered one of the oldest surviving photographic images of Singapore. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i></div>
 <br><br>
-<img src="/images/Vol-15-issue-3/daguerreotypes-to-dry-plates/Daguerreotypes5.JPG">
+<img style="width: 450px; height: 300px;" src="/images/Vol-15-issue-3/daguerreotypes-to-dry-plates/Daguerreotypes5.JPG">
 <div style="background-color: white;">View of the Singapore River by Sachtler & Co. from the album, <i>Views and Types of Singapore, 1863</i> (compare it with the 1844 reversed image of the same view). Landscape shots were the stock-in-trade of early photographic studios. The hills of Singapore, such as Fort Canning Hill, offered unparalleled views of the town and surroundings. The sepia tone is typical of albumen prints. <i>Lee Kip Lin Collection. All rights reserved, Lee Kip Lin and National Library Board, Singapore.</i></div>
 
 Itier was a keen amateur scientist and daguerreotypist. His skills became invaluable during the long voyage as a confidential aspect of the mission was the exploration of possible locations for setting up a French port in the China Sea. The delegation stayed at the London Hotel whose proprietor, Gaston Dutronquoy, ran a photographic studio offering daguerreotype portraits in the same building.11
@@ -59,12 +59,12 @@ Itier was a keen amateur scientist and daguerreotypist. His skills became invalu
 
 Dutronquoy first advertised himself as a painter in March 1839. Two months later, he opened the London Hotel at Commercial Square (now Raffles Place). In 1841, the hotel shifted to the former residence of architect and Superintendent of Public Works, George D. Coleman.12 It was here that the enterprising Dutronquoy started the town’s first commercial photographic studio in 1843, offering daguerreotype portraits at $10 each, or $15 for two persons in one picture.
 
-<img src="/images/Vol-15-issue-3/daguerreotypes-to-dry-plates/Daguerreotypes6.JPG">
+<img style="width: 550px; height: 350px;" src="/images/Vol-15-issue-3/daguerreotypes-to-dry-plates/Daguerreotypes6.JPG">
 <div style="background-color: white;">The earliest advertisement of photographic services provided by Gaston Dutronquoy at the London Hotel. <i>The Singapore Free Press and Mercantile Advertiser, 7 December 1843, p. 1.</i></div>
 
 To attract prospective customers, Dutronquoy proclaimed his mastery of the daguerreotype process, asserting that his portraits would be “taken in the astonishing short space of two minutes […] free from all blemish and […] in every respect perfect likenesses”.13 Given that the subjects had to hold absolutely still to obtain a sharp picture, a two-minute exposure (painfully slow by today’s instant imaging standards) was a selling point at the time.14
 
-<img src="/images/Vol-15-issue-3/daguerreotypes-to-dry-plates/Daguerreotypes7.JPG">
+<img style="width: 500px; height: 380px;" src="/images/Vol-15-issue-3/daguerreotypes-to-dry-plates/Daguerreotypes7.JPG">
 <div style="background-color: white;">Scottish photographer John Thomson with two Manchu soldiers in Xiamen, Fujian province, China, 1871. Thomson worked in Singapore as a photographer in the 1860s. <i>Courtesy of Wellcome Collection (CCBY).</i></div>
 
 In the absence of surviving works, it is difficult to say how successful Dutronquoy was as a daguerreotypist. There was not enough demand to maintain a fulltime photography business, yet Dutronquoy was sufficiently motivated to keep up with advances in the technology, and made efforts to grow his clientele.
