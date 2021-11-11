@@ -52,3 +52,23 @@ The forced resettlement in the New Villages also led to a sense of social disloc
 
 <img src="/images/Vol-15-issue-3/civilians-in-the-crossfire/Civilians3.JPG">
 <div style="background-color: white;">Aerial view of a newly completed village where squatters would be resettled. <i>Copyright Imperial War Museum (K13796).</i></div>
+
+#### **Punishment for Abetting the Communists**
+
+Severe penalties were meted out to those caught for not divulging information on communist activities to the authorities or for helping the communists, with the punishments often disproportionate to the actual crimes committed.
+
+One particular incident stands out. Collective punishment was meted out to some 20,000 people living in Tanjung Malim, a town in Perak, which already had a reputation for being a hotbed of communist activity since the start of the Emergency. This took place after an incident on 25 March 1952 when a group of civilian officers, accompanied by security personnel, were ambushed on their way to repair a nearby waterworks that communist guerrillas had sabotaged. Twelve civilian personnel were slain and eight wounded in the ambush.
+
+Since the villagers were not forthcoming with information about the perpetrators, General Gerald Templer, who was then General Officer Commanding and Britain’s High Commissioner to Malaya, stripped the town of its status as a district capital and imposed a 22-hour curfew every day for a week. Shops were permitted to open only two hours a day, people were banned from leaving town, schools were closed, bus services were ceased and rice rations were reduced.
+
+To provide a secure way for villagers to supply information, the authorities handed out questionnaires to the head of each household. The completed forms were then brought to Kuala Lumpur in sealed boxes and reviewed by Templer himself in the presence of the town’s representatives. The exercise resulted in the ambush and killing of the communist guerrilla leader in Tanjung Malim, the detention of 30 Chinese shopkeepers and several arrests. Only then were curfew and restrictions lifted in the town.
+
+Even harsher punishments were exercised on at least six other occasions in different parts of Malaya:
+
+* A 70-year-old man, Chong Ngi, was given a five-year prison sentence for providing communist guerillas in an unidentified part of Malaya with food and rice.16
+* Hee Sun, a resident of Kulai Besar New Village in southern Johor, was sentenced to three years’ imprisonment for being found in possession of one *kati* and one *tahil* (478 g) of rice intended for the guerrillas.17
+* A 44-year-old rubber tapper, Wong Pan Sing, from Gombak, Selangor, was sentenced to 10 years’ jail for possessing five *gantangs* (14.7 kg) of uncooked rice, sugar, cigarettes and Chinese medicine.18
+* Phang Seng, a farmer from Kelapa Sawit New Village in southern Johor, was jailed three years for being caught at the village gate without a valid permit for carrying six *tahils* (227 g) of rice on him. When apprehended, he could not give a satisfactory explanation as to why he had uncooked rice with him because he claimed “he could not speak a word of Malay”.19
+
+<img src="/images/Vol-15-issue-3/civilians-in-the-crossfire/Civilians4.JPG">
+<div style="background-color: white;">A British propaganda poster targetting residents of the “New Villages”. The Chinese caption on the poster, “如果你喂那些马共恶狗，它是会反咬你的!”, is loosely translated as “If you feed the evil communist dogs, they will bite you in return”. <i>Image reproduced from Chen, J., & Hack, K. (Eds.). (2004). Dialogues with Chin Peng: New Light on the Malayan Communist Party (p. 216). Singapore: Singapore University Press. (Call no.: RSING 959.5104 YAO).</i></div>
