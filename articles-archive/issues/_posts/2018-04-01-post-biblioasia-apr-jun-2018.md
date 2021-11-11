@@ -41,7 +41,7 @@ From a hole in the ground to running water at the turn of the tap. *Lim Tin Seng
 Classical and Modern Chinese education in Mainland China and Taiwan has been debated for over a century. *Chua Chee Lay* analyses its development and provides valuable lessons from history. [(PDF)](/files/pdf/vol-14/v14-issue1_ChineseEducation.pdf)
 
 
-**[Ramen Teh: Food, War and Memory](/vol-14/issue-1/apr-jun-2018/ramen-teh-food-war-m/)** <br>
+**[Ramen Teh: Food, War and Memory](/vol-14/issue-1/apr-jun-2018/ramen-teh/)** <br>
 *Eric Khoo* tells us how the Japanese Occupation, *ramen* noodles and *bak kut teh* became the inspiration for his latest film. *Lu Wenshi* finds out more. [(PDF)](/files/pdf/vol-14/v14-issue1_Ramen.pdf)
 
 
