@@ -72,3 +72,21 @@ Even harsher punishments were exercised on at least six other occasions in diffe
 
 <img src="/images/Vol-15-issue-3/civilians-in-the-crossfire/Civilians4.JPG">
 <div style="background-color: white;">A British propaganda poster targetting residents of the “New Villages”. The Chinese caption on the poster, “如果你喂那些马共恶狗，它是会反咬你的!”, is loosely translated as “If you feed the evil communist dogs, they will bite you in return”. <i>Image reproduced from Chen, J., & Hack, K. (Eds.). (2004). Dialogues with Chin Peng: New Light on the Malayan Communist Party (p. 216). Singapore: Singapore University Press. (Call no.: RSING 959.5104 YAO).</i></div>
+
+#### **Coercion from Communists**
+
+Many people living in the New Villages were caught between a rock and a hard place. Apart from mounting pressure from the police, they were also not entirely safe from the clutches of the communist insurgents. As mentioned earlier, those who were either neutral or opposed the goals of the communists were coerced into aiding them or faced reprisals – even death – if they did not cooperate. For instance, a villager in the northern state of Kedah was killed by three communist guerillas for refusing to buy them food.20
+
+Hee Sun of Kulai Besar New Village, for example, had the misfortune of encountering communist guerrillas while working and was warned, in no uncertain terms, that he would be killed if he did not supply them with food. He did not report this incident to the police because he feared for his life and that of his family members as the communists knew where he lived.
+
+As for Wong Pan Sing from Gombak, Selangor, he was threatened with death if he did not use the $18 that three communist guerillas gave him to buy “uncooked rice, sugar, cigarettes and Chinese medicine”.21 Such hapless civilians had little choice in these situations because the communists usually made good their threats of reprisal.
+
+Even children and youths were not spared. On 20 June 1951, it was reported that an 11-year-old Malay boy from Bentong in Pahang was forced off his bicycle at gunpoint, “tied and blindfolded and forced some distance into the lallang” by communist insurgents and persuaded to work for them as a courier and supplier.22 The boy refused and managed to escape from his captors a short while later.
+
+In another instance, on 26 October 1954, 17-year-old rubber tapper named Low Hoon “pleaded guilty to attempting to supply one tin of milk beverage, two bottles of curry powder, dried chillies and salt fish” to the communists along Cheras Road in Kuala Lumpur.23 Low claimed that the communists had threatened to kill him if he did not comply with their demands to buy the items with the money they had forced upon him.
+
+In order to implement an administration system in the New Villages, government officials urged the villagers to stand for election as council members. However, it was difficult to persuade the villagers to do so as they were “terrified that the communists would see their election as an anti-communist stand and would kill them the moment they left the village”.24 Even when the elections went ahead and people were voted in as council members, some were so terrified for their lives that they “bolted for Singapore and safety”.25
+
+Such fears were not unfounded, for in the town of Yong Peng in central Johor, two such councillors had their arms hacked off. The murder of another village committee member in Kebun Bahru, northern Johor, also underscored the probability of severe reprisals awaiting those whom the communists deemed to be pro-British.
+
+#### **Lost in Translation**
