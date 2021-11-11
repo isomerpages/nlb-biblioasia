@@ -200,17 +200,7 @@ Some research has been done and continue to be carried out on Asian photographer
 [^15]:[Notice](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18440222-1.2.4.2). (1844, 22 February). *The Singapore Free Press and Mercantile Advertiser*, p. 1; [Notice](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18450116-1.2.2.3). (1845, January 16). *The Singapore Free Press and Mercantile Advertiser*, p. 1. Retrieved from NewspaperSG. Mornings were more conducive for taking photographs as temperatures were still cool, and daylight would be sufficient without being overpowering.
 [^16]:[Daguerreotype](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18481021-1.2.11.2). (1848, October 21). *The Straits Times*, p. 2. Retrieved from NewspaperSG.
 [^17]:Lavédrine, B. (2009). *Photographs of the past: Process and preservation* (pp. 30–31). Los Angeles, California: The Getty Conservation Institute. (Not available in NLB holdings); See Claudet, L. (2008). Colouring by hand. In J. Hannavy (Ed.)., *Encyclopedia of nineteenth-century photography Vol 1* (pp. 322–323). New York: Routledge. Retrieved from Google Books. A practical method for colour photography was not invented until the Lumiére brothers’ autochrome process in 1904.
-[^18]:Buckley, C.B. (1984). An anecdotal history of old times in Singapore 1819–1867 (p. 745). Singapore: Oxford University Press. (Call no.: RSING 959.57 BUC). However, another source suggests that Dutronquoy might have passed away sometime in January 1872 in Kobe, Japan. See Massot, Nov 2015, p. 323.
-[^19]:
-[^20]:
-[^2]:
-
-
-
-
-
-
-
-Hirsch, 2000, p. 72. Collodion was made by dissolving gun cotton in ether and alcohol, and then adding potassium iodide. The resultant viscous mixture is applied evenly to a glass plate, which is immersed into a bath of silver nitrate to produce light-sensitive silver iodide.
-Portraits & views. (1858, February 13). The Straits Times, p. 2. Retrieved from NewspaperSG.
-Notice (1862, June 14). The Straits Times, p. 3. Retrieved from NewspaperSG; White, S. (1989). John Thomson: A window to the orient  (p. 9). Albuquerque: University of New Mexico Press. (Call no.: RART 770.92 WHI). William was also a photographer in the partnership of Sack and Thomson, Beach Road (listed in the 1861 Straits Directory). The partnership was brief and William was listed on his own as a photographic artist in the following year’s directory.
+[^18]:Buckley, C.B. (1984). [*An anecdotal history of old times in Singapore 1819–1867*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082239) (p. 745). Singapore: Oxford University Press. (Call no.: RSING 959.57 BUC). However, another source suggests that Dutronquoy might have passed away sometime in January 1872 in Kobe, Japan. See [Massot](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203235478), Nov 2015, p. 323.
+[^19]:Hirsch, 2000, p. 72. Collodion was made by dissolving gun cotton in ether and alcohol, and then adding potassium iodide. The resultant viscous mixture is applied evenly to a glass plate, which is immersed into a bath of silver nitrate to produce light-sensitive silver iodide.
+[^20]:[Portraits & views](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18580213-1.2.10.3). (1858, February 13). *The Straits Times*, p. 2. Retrieved from NewspaperSG.
+[^2]:[Notice](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18620614-1.2.29.1) (1862, June 14). The Straits Times, p. 3. Retrieved from NewspaperSG; White, S. (1989). John Thomson: A window to the orient  (p. 9). Albuquerque: University of New Mexico Press. (Call no.: RART 770.92 WHI). William was also a photographer in the partnership of Sack and Thomson, Beach Road (listed in the 1861 Straits Directory). The partnership was brief and William was listed on his own as a photographic artist in the following year’s directory.
