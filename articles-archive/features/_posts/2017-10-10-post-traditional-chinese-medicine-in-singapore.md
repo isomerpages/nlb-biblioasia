@@ -6,7 +6,7 @@ layout: post
 ---
 #### Traditional Chinese medicine in Singapore has a history that goes back to more than a century. **Vicky Gao** traces its development through the National Library’s collection.
 
-<div style="background-color: white;"><br><img src="/images/Vol-13-issue-3/traditional-chinese-medicine/01-chinesemedicine.jpg">(上图）华人医师在同济医院内为病人看诊。照片年代约1890年代。<i>图片来源：Liu, G. (1999). Singapore: A Pictorial History 1819–2000 (p.166). Singapore: National Heritage Board and Editions Didier Millet (Call no.: RSING 959.57 LIU-[HIS]). 原图来自莱佛士酒店收藏。</i></div>
+<div style="background-color: white;"><br><img src="/images/Vol-13-issue-3/traditional-chinese-medicine/01-chinesemedicine.png">(上图）华人医师在同济医院内为病人看诊。照片年代约1890年代。<i>图片来源：Liu, G. (1999). Singapore: A Pictorial History 1819–2000 (p.166). Singapore: National Heritage Board and Editions Didier Millet (Call no.: RSING 959.57 LIU-[HIS]). 原图来自莱佛士酒店收藏。</i></div>
 
 中医药在中国有着数千年的悠久历史，并已经根植在人们的日 常生活习俗中。新加坡的中医药历史是和新加坡的华人移民史 息息相关的。根据《新加坡华人通史》一书所述，开埠后不久， 来自中国华南地区的移民飘洋过海来到新加坡。这些人包括闽 南人、潮州人、广东人和客家人等。[^1] 中国传统医学也随着华人 的南移和定居而传入新加坡。新加坡先贤宋旺相在《新加坡  华人百年史》一书中提到，在新加坡开埠后的第二个十年（1829 年至1839年），新加坡就有一些中药材店，如开元(Kye Guan)、成得 记(Seng Tek Kee)、同善(Tong Sian)和福安堂(Hok Ann Tong)。[^2] 区如柏在《祖先的行业》一书中也提到，客家人南来后最早从事 的行业是药材店。周兰记和胡文虎、胡文豹开办的永安堂等中药 行即是客家人所经营的。[^3]
 
@@ -23,7 +23,7 @@ layout: post
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;">
 <img src="/images/Vol-13-issue-3/traditional-chinese-medicine/03-chinesemedicine.jpg">1929年，新加坡中医中药联合会成立。它是新加坡最早的中医药团体组织。它在促进中医药界同仁团结一致、相互切磋、宣传中医药方面发挥了重要的作用。1935年5月，该会创办出版了《医航》刊物，由新加坡早期中医药界领导者之一黎伯概（1872–1943年）主编，向中医药界人士和民众介绍医药学术和心得，阐扬中医学术真谛。新加坡国家图书馆善本书库(Rare Materials Collection)收有10期《医航》。<i>版权所有，《医航》（第一期第二期合刊）(1935)。新加坡：中医药联合会。（收录号：B27705377E）</i>
 <br><br>
-<img src="/images/Vol-13-issue-3/traditional-chinese-medicine/04-chinesemedicine.jpg">1945年日本投降后，新加坡中医药界又开始活跃起来。当时许多资深中医师深感到中医师必须成立自己的组织，于是在1946年10月成立了中国医学会。1946年12月10日及28日分别于南洋商报与星洲日报增辟《医粹》和《医统先声》两个双周刊，以宣扬中医药学术及促进中医药的发展。1947年，中国医学会更名为新加坡中医师公会。1948年1月，新加坡中医师公会将《医粹》与《医统先声》之论文录集成册，书名为《医粹》，《医粹》合订本的发行在当时是新加坡医学界的一件盛事，该书汇集了战后初期许多新加坡老中医著作的佳作。<i>版权所有，新加坡中医师公会主编(194 8)。《医粹》（上集）。新加坡：新加坡中医师公会。(索书号：RCLOS Chinese 610.951 YC）</i>
+<img style="width:350px" src="/images/Vol-13-issue-3/traditional-chinese-medicine/04-chinesemedicine.jpg">1945年日本投降后，新加坡中医药界又开始活跃起来。当时许多资深中医师深感到中医师必须成立自己的组织，于是在1946年10月成立了中国医学会。1946年12月10日及28日分别于南洋商报与星洲日报增辟《医粹》和《医统先声》两个双周刊，以宣扬中医药学术及促进中医药的发展。1947年，中国医学会更名为新加坡中医师公会。1948年1月，新加坡中医师公会将《医粹》与《医统先声》之论文录集成册，书名为《医粹》，《医粹》合订本的发行在当时是新加坡医学界的一件盛事，该书汇集了战后初期许多新加坡老中医著作的佳作。<i>版权所有，新加坡中医师公会主编(194 8)。《医粹》（上集）。新加坡：新加坡中医师公会。(索书号：RCLOS Chinese 610.951 YC）</i>
 <br><br>
 <img src="/images/Vol-13-issue-3/traditional-chinese-medicine/05-chinesemedicine.jpg">新加坡中医中药联合会为纪念“三一七”国医节，发行该纪念专刊，内有关于纪念三一七国医节的文章、会员通讯录及探讨中医药功能的文章。<i>版权所有，《新加坡中医中药联合会特刊》（第一期）(1948)。新加坡：新加坡中医中药联合会。(索书号：RCLOS Chinese 610.951 XJP)</i>
 <br><br>
