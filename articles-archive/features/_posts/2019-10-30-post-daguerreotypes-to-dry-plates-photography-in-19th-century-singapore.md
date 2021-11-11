@@ -52,3 +52,31 @@ Held in hand and viewed up close, the townscape would have appeared ethereal as 
 <br><br>
 <img src="/images/Vol-15-issue-3/daguerreotypes-to-dry-plates/Daguerreotypes5.JPG">
 <div style="background-color: white;">View of the Singapore River by Sachtler & Co. from the album, <i>Views and Types of Singapore, 1863</i> (compare it with the 1844 reversed image of the same view). Landscape shots were the stock-in-trade of early photographic studios. The hills of Singapore, such as Fort Canning Hill, offered unparalleled views of the town and surroundings. The sepia tone is typical of albumen prints. <i>Lee Kip Lin Collection. All rights reserved, Lee Kip Lin and National Library Board, Singapore.</i></div>
+
+Itier was a keen amateur scientist and daguerreotypist. His skills became invaluable during the long voyage as a confidential aspect of the mission was the exploration of possible locations for setting up a French port in the China Sea. The delegation stayed at the London Hotel whose proprietor, Gaston Dutronquoy, ran a photographic studio offering daguerreotype portraits in the same building.11
+
+#### **A Hotelier’s Sideline**
+
+Dutronquoy first advertised himself as a painter in March 1839. Two months later, he opened the London Hotel at Commercial Square (now Raffles Place). In 1841, the hotel shifted to the former residence of architect and Superintendent of Public Works, George D. Coleman.12 It was here that the enterprising Dutronquoy started the town’s first commercial photographic studio in 1843, offering daguerreotype portraits at $10 each, or $15 for two persons in one picture.
+
+<img src="/images/Vol-15-issue-3/daguerreotypes-to-dry-plates/Daguerreotypes6.JPG">
+<div style="background-color: white;">The earliest advertisement of photographic services provided by Gaston Dutronquoy at the London Hotel. <i>The Singapore Free Press and Mercantile Advertiser, 7 December 1843, p. 1.</i></div>
+
+To attract prospective customers, Dutronquoy proclaimed his mastery of the daguerreotype process, asserting that his portraits would be “taken in the astonishing short space of two minutes […] free from all blemish and […] in every respect perfect likenesses”.13 Given that the subjects had to hold absolutely still to obtain a sharp picture, a two-minute exposure (painfully slow by today’s instant imaging standards) was a selling point at the time.14
+
+<img src="/images/Vol-15-issue-3/daguerreotypes-to-dry-plates/Daguerreotypes7.JPG">
+<div style="background-color: white;">Scottish photographer John Thomson with two Manchu soldiers in Xiamen, Fujian province, China, 1871. Thomson worked in Singapore as a photographer in the 1860s. <i>Courtesy of Wellcome Collection (CCBY).</i></div>
+
+In the absence of surviving works, it is difficult to say how successful Dutronquoy was as a daguerreotypist. There was not enough demand to maintain a fulltime photography business, yet Dutronquoy was sufficiently motivated to keep up with advances in the technology, and made efforts to grow his clientele.
+
+For example, an advertisement in The Singapore Free Press and Mercantile Advertiser on 16 January 1845 announced that Dutronquoy had acquired a new “D’arguerothipe Press”, and portraits could be made at the studio for $6 each, or if one prefers, in the comfort of one’s own home for double that price. The London Hotel, along with his photographic studio, had by then relocated to the corner of High Street and the Esplanade (Padang), with the studio open only in the mornings between 8.30 and 10 am.15
+
+Another advertisement in The Straits Times three years later publicised the avai­lability of “likenesses, in colours, taken in four seconds”.16 This is interesting for two reasons. First, it indicates that Dutronquoy practised hand-colouring, which involved the careful application of pigments to a monochrome portrait for aesthetic purposes and to simulate real-life colours. Like many of his counterparts in the West, Dutronquoy might have enhanced the jewellery pieces worn by the subjects with gold-coloured paint, added a touch of pink to their cheeks, or tinted the background with blue to mimic the colour of the sky.17
+
+Second, the ability to make a portrait in just four seconds indicated that Dutronquoy kept abreast with advances in photographic technology that tackled the problem of lengthy exposures. Interested customers who wanted their portraits taken had to give him a day’s notice and were instructed to wear dark clothing. His studio was only open for two hours in the morning: between 7.30 and 9.30 am from Monday to Saturday.
+
+Dutronquoy’s daguerreotype business was likely not a money spinner and he fared better in hospitality, opening a branch of the London Hotel at New Harbour (today’s Keppel Harbour) in 1851. Alas, Singapore’s first resident commercial photographer met with a mysterious, if tragic, end. During a prospecting trip to the Malay Peninsula in the mid-1850s, Dutronquoy was feared murdered after he suddenly disappeared.18 A 1858 notice in The Straits Times announced the insolvency of his estate.
+
+After Dutronquoy’s departure, Singapore was not to see another resident professional photographer for some time. The 1850s was a period of sporadic photographic activity owing to the fleeting presence of travelling daguerreotypists who passed through Singapore: H. Husband in 1853, C. Duban in 1854, Saurman in 1855, and J. Newman from 1856 to 1857. They stayed only as long as there were enough customers before moving on to other places.
+
+The limited commercial success of daguerreotypes in Singapore could be attributed to several factors: the small consumer population, the relative high price of commissioning a portrait and the capital required to run a professional studio. Human vanity also came into play; for those who were used to seeing a more flattering version of themselves rendered in painting, the stark precision of the daguerreotype could be an unpleasant reality check.
