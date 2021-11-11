@@ -28,7 +28,7 @@ In the *Hikayat*, Abdullah recounted how Reverend Benjamin Keasberry, a Protesta
 
 Abdullah’s meeting with the said doctor took place around 1841 – just two years after the daguerreotype was invented and introduced to the world.7
 
-Although it was Abdullah’s first encounter­ with the technology, he was able to describe in impressive detail the equipment and the manner in which it should be used: how the doctor buffed and sensitised the plate, and then exposed it in the camera to create a latent image that subsequently emerged in a waft of mercury fumes. The resulting photograph of Singapore town taken from Government Hill (now Fort Canning) was, in Abdullah’s words, “without deviation even by so much as the breadth of a hair”.8
+Although it was Abdullah’s first encounter with the technology, he was able to describe in impressive detail the equipment and the manner in which it should be used: how the doctor buffed and sensitised the plate, and then exposed it in the camera to create a latent image that subsequently emerged in a waft of mercury fumes. The resulting photograph of Singapore town taken from Government Hill (now Fort Canning) was, in Abdullah’s words, “without deviation even by so much as the breadth of a hair”.8
 
 Indeed, the daguerreotype brought a degree of sharpness and realism to picture-making that was unparalleled in its time. However, the technology had its drawbacks: the black and white image would become laterally reversed and, as it was composed of tiny particles deposited on the plate’s polished silver surface, it could be marred by the slightest touch. Due to its metal base, the daguerreotype was also highly susceptible to tarnishing. To protect the image, daguerreotypes were typically displayed under glass within a frame or case.
 
@@ -197,10 +197,10 @@ Some research has been done and continue to be carried out on Asian photographer
 [^12]:The street on which the house stood was later named after Coleman. Coleman’s house was located at 3 Coleman Street where the Peninsula Shopping Centre now stands. See [London Hotel](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18420113-1.2.2.2). (1842, January 13). *The Singapore Free Press and Mercantile Advertiser*, p. 1. Retrieved from NewspaperSG.
 [^13]:[Daguerriotype portraits](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18431207-1.2.2.3). (1843, December 7). *The Singapore Free Press and Mercantile Advertiser*, p. 1. Retrieved from NewspaperSG.
 [^14]:Hirsch, R. (2000). [*Seizing the light: A history of photography*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9502389) (p. 32). Boston: McGraw-Hill. (Call no.: RART 770.9 HIR). Depending on light conditions, exposures ranged from a few minutes to as long as half an hour, which explains the often-solemn expressions and stiff postures in early portraits.
-[^15]:[Notice](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18440222-1.2.4.2). (1844, 22 February). The Singapore Free Press and Mercantile Advertiser, p. 1; [Notice](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18450116-1.2.2.3). (1845, January 16). The Singapore Free Press and Mercantile Advertiser, p. 1. Retrieved from NewspaperSG. Mornings were more conducive for taking photographs as temperatures were still cool, and daylight would be sufficient without being overpowering.
-[^16]:
-[^17]:
-[^18]:
+[^15]:[Notice](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18440222-1.2.4.2). (1844, 22 February). *The Singapore Free Press and Mercantile Advertiser*, p. 1; [Notice](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18450116-1.2.2.3). (1845, January 16). *The Singapore Free Press and Mercantile Advertiser*, p. 1. Retrieved from NewspaperSG. Mornings were more conducive for taking photographs as temperatures were still cool, and daylight would be sufficient without being overpowering.
+[^16]:[Daguerreotype](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18481021-1.2.11.2). (1848, October 21). *The Straits Times*, p. 2. Retrieved from NewspaperSG.
+[^17]:Lavédrine, B. (2009). *Photographs of the past: Process and preservation* (pp. 30–31). Los Angeles, California: The Getty Conservation Institute. (Not available in NLB holdings); See Claudet, L. (2008). Colouring by hand. In J. Hannavy (Ed.)., *Encyclopedia of nineteenth-century photography Vol 1* (pp. 322–323). New York: Routledge. Retrieved from Google Books. A practical method for colour photography was not invented until the Lumiére brothers’ autochrome process in 1904.
+[^18]:Buckley, C.B. (1984). An anecdotal history of old times in Singapore 1819–1867 (p. 745). Singapore: Oxford University Press. (Call no.: RSING 959.57 BUC). However, another source suggests that Dutronquoy might have passed away sometime in January 1872 in Kobe, Japan. See Massot, Nov 2015, p. 323.
 [^19]:
 [^20]:
 [^2]:
@@ -208,9 +208,9 @@ Some research has been done and continue to be carried out on Asian photographer
 
 
 
-Daguerreotype. (1848, October 21). The Straits Times, p. 2. Retrieved from NewspaperSG.
-Lavédrine, B. (2009). Photographs of the past: Process and preservation (pp. 30–31). Los Angeles, California: The Getty Conservation Institute. (Not available in NLB holdings); See Claudet, L. (2008). Colouring by hand. In J. Hannavy (Ed.)., Encyclopedia of nineteenth-century photography Vol 1 (pp. 322–323). New York: Routledge. Retrieved from Google Books. A practical method for colour photography was not invented until the Lumiére brothers’ autochrome process in 1904.
-Buckley, C.B. (1984). An anecdotal history of old times in Singapore 1819–1867 (p. 745). Singapore: Oxford University Press. (Call no.: RSING 959.57 BUC). However, another source suggests that Dutronquoy might have passed away sometime in January 1872 in Kobe, Japan. See Massot, Nov 2015, p. 323.
+
+
+
 Hirsch, 2000, p. 72. Collodion was made by dissolving gun cotton in ether and alcohol, and then adding potassium iodide. The resultant viscous mixture is applied evenly to a glass plate, which is immersed into a bath of silver nitrate to produce light-sensitive silver iodide.
 Portraits & views. (1858, February 13). The Straits Times, p. 2. Retrieved from NewspaperSG.
 Notice (1862, June 14). The Straits Times, p. 3. Retrieved from NewspaperSG; White, S. (1989). John Thomson: A window to the orient  (p. 9). Albuquerque: University of New Mexico Press. (Call no.: RART 770.92 WHI). William was also a photographer in the partnership of Sack and Thomson, Beach Road (listed in the 1861 Straits Directory). The partnership was brief and William was listed on his own as a photographic artist in the following year’s directory.
