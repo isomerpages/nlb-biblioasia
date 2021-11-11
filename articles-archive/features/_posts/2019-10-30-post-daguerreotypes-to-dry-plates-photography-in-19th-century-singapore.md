@@ -203,4 +203,22 @@ Some research has been done and continue to be carried out on Asian photographer
 [^18]:Buckley, C.B. (1984). [*An anecdotal history of old times in Singapore 1819–1867*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082239) (p. 745). Singapore: Oxford University Press. (Call no.: RSING 959.57 BUC). However, another source suggests that Dutronquoy might have passed away sometime in January 1872 in Kobe, Japan. See [Massot](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203235478), Nov 2015, p. 323.
 [^19]:Hirsch, 2000, p. 72. Collodion was made by dissolving gun cotton in ether and alcohol, and then adding potassium iodide. The resultant viscous mixture is applied evenly to a glass plate, which is immersed into a bath of silver nitrate to produce light-sensitive silver iodide.
 [^20]:[Portraits & views](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18580213-1.2.10.3). (1858, February 13). *The Straits Times*, p. 2. Retrieved from NewspaperSG.
-[^2]:[Notice](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18620614-1.2.29.1) (1862, June 14). The Straits Times, p. 3. Retrieved from NewspaperSG; White, S. (1989). John Thomson: A window to the orient  (p. 9). Albuquerque: University of New Mexico Press. (Call no.: RART 770.92 WHI). William was also a photographer in the partnership of Sack and Thomson, Beach Road (listed in the 1861 Straits Directory). The partnership was brief and William was listed on his own as a photographic artist in the following year’s directory.
+[^21]:[Notice](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18620614-1.2.29.1) (1862, June 14). *The Straits Times*, p. 3. Retrieved from NewspaperSG; White, S. (1989). [*John Thomson: A window to the orient*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5062251)  (p. 9). Albuquerque: University of New Mexico Press. (Call no.: RART 770.92 WHI). William was also a photographer in the partnership of Sack and Thomson, Beach Road (listed in the 1861 *Straits Directory*). The partnership was brief and William was listed on his own as a photographic artist in the following year’s directory.
+[^22]:White, 1985, pp. 9–17. John Thomson published an account of his time in Asia. See Thomson, J. (1875). [*The Straits of Malacca, Indo-China and China, or Ten years’ travels, adventures and residence abroad*](http://eresources.nlb.gov.sg/printheritage/detail/2e4711f4-b259-4ef1-9826-9386d3e8f12b.aspx). London: Sampson Low, Marston, Low, & Searle. Retrieved from BookSG.
+[^23]:The firm Thomson Brothers is listed in the *Straits Directory* for the years 1863 through to 1870. Balmer, J. (1993). Introduction. In J. Thomson (1993). [*The Straits of Malacca, Siam and Indo-China: Travels and adventures of a nineteenth-century photographer*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6373043) (pp. xiv, xiii). Singapore: Oxford University Press. (Call no.: RSING 915.9 THO-[TRA]).
+[^24]:Sachtler & Co. was first listed in the *Straits Directory* for 1864, and was likely to have been founded the year before. See [Falconer](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4368234), 1987, p. 27.
+[^25]:Dobson, S. (2009, May). The Prussian expedition to Japan and its photographic activity in Nagasaki in 1861. *Old Photography Study*, 3, pp. 28–29. Retrieved from Nagasaki University’s Academic Output website.
+[^26]:Notice. (1874, June 6). The Straits Times, p. 4. Retrieved from NewspaperSG.
+[^27]:
+[^28]:
+[^29]:
+[^30]:
+
+
+
+
+
+Bautze, J.K. (2016). Unseen Siam: Early photography 1860–1910 (p. 183). Bangkok: River Books. (Call no.: RSEA 959.3034 BAU)
+Notice. (1877, May 19). The Straits Times, p. 11. Retrieved from NewspaperSG. Lambert was first listed in the Straits Calendar and Directory for 1868, and was not to appear again until 1878.
+Wright, A., & Cartwright, H.A. (Eds.). (1908). Twentieth century impressions of British Malaya: its history, people, commerce, industries, and resources (p. 705). London: Lloyd’s Greater Britain Publishing Company. (Microfilm: NL16084); Cheah, J.S. (2006). Singapore: 500 early postcards (pp. 9–10, 12). Singapore: Editions Didier Millet. (Call no.: RSING 769.56609595);
+Wright & Cartwright, 1908, pp. 702, 705.
