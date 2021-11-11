@@ -78,6 +78,22 @@ This 1977 publication showcases the creations by 33 local designers. <i>All righ
 <img style="width:300px" src="/images/Vol-13-issue-3/the-way-we-were/11_thewaywewere.png">
 <br>
 The second instalment of the Singapore Apparel exhibition was held in November 1984 after a successful inaugural launch in 1983. The 1984 event was said to be a testimony of the “enthusiasm, creativity and talents of people in the trade” and aimed to establish the “Made-in-Singapore” hallmark of quality and reliability. <i>All rights reserved, Singapore Apparel: Fair Catalogue. (1983). Singapore: Singapore Textile and Garment Manufacturers’ Association.</i></span>
+
+#### **Singapore on the World Fashion Map**
+
+The local fashion industry received another boost in the 1970s when the manufacturing sector took off in Singapore. The opening of Japanese departmental stores, such as Yaohan, Isetan and Sogo, also enlivened the local shopping scene. Ready-to-wear outfits were sold in department stores and shopping centres that sprang up all over the island.[^9]
+
+In 1977, a group of 33 local designers collaborated to produce a book showcasing their works. Titled *Fashion Design: Containing Over 300 Fashion Designs by 33 Designers*, it was the first of its kind in Singapore. As opposed to the “fanciful dresses from foreign countries [that] are not acceptable to the great majority of people here,” the creations featured in the publication were appropriate for the local climate and tailored to fit the petite Asian silhouette.
+
+As homegrown labels grew in tandem with fashion imports, efforts were made to put Apparel ’83, the city’s first industry-wide garment trade show promoting local labels and designers, was hailed as a resounding success.[^10]
+
+In October 1983, *The Straits Times* reported that Singapore-made apparel had led to a $20-million increase in exports for the first eight months of the year, raking in more than $1.1 billion worth of sales for the year.[^11] Local designers were cultivating a global audience and putting Singapore on the world fashion stage.[^12]
+
+Singapore has since set its sights on becoming the fashion capital of Asia.[^13] The Singapore Fashion Festival was launched by the Singapore Tourism Board in 2001 to help achieve that goal. The festival was held annually until 2009, when it took a one-year hiatus, and was rebranded as the Asian Fashion Exchange (AFX) in 2010.
+
+In 2015, Singapore Fashion Week became the core event of AFX,[^14] garnering worldwide attention and participation by renowned international labels. In the 2016 edition, 13 homegrown designers shared the spotlight with other top Asian designers – the highest number yet at Singapore Fashion Week.[^15]
+
+The efforts seem to have paid off. In 2011, Singapore was ranked number eight in the list of Top 50 Fashion Capitals in the World by the US-based Global Language Monitor. Although the city dropped to number 14 (out 56 fashion capitals) in 2015, it was the third highest-ranked Asian city, after Tokyo (number 10) and Hong Kong (number 12)[^16] – a lofty status it aims to maintain or better in years to come.
 	
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>WHAT IS THE LEGAL DEPOSIT?</b>
 <br><br>
