@@ -7,7 +7,7 @@ layout: post
 #### **Ronnie Tan** recounts the hardship suffered by civilians as a result of the British government’s fight against the communists during the Malayan Emergency.
 
 <img src="/images/Vol-15-issue-3/civilians-in-the-crossfire/Civilians1.JPG">
-<div style="background-color: white;"></i></div>
+<div style="background-color: white;">A member of the Malayan Home Guard manning a checkpoint on the edge of a town during the Malayan Emergency. Such checkpoints allowed the authorities to search vehicles and intercept food and supplies being smuggled out to the communist insurgents. <i>©Imperial War Museum (K 14435).</i></div>
 
 China-Japan relations, which are marked by a long history of animosity that goes back several centuries, took a turn for the worse from the 1870s onwards. During the Second Sino-Japanese War (1937–45), many overseas Chinese who were still loyal to their motherland, including those in Malaya and Singapore, supported China’s war efforts against Japan. Thus, when the Japanese Imperial Army invaded Malaya in December 1941, one of the first communities they targeted was the Chinese. To escape torture and persecution, many Chinese fled to the fringes of the Malayan jungles where they set up makeshift homes.
 
