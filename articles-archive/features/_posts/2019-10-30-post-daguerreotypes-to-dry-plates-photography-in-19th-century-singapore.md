@@ -190,18 +190,7 @@ Some research has been done and continue to be carried out on Asian photographer
 [^5]:Abdullah’s conversation with the doctor quoted from Abdullah, 2009, pp. 295–296.
 [^6]:The doctor in question might have been Dr Wright, a junior doctor on board the American ship, *USS Constellation*, which docked in Singapore from 4 November 1841 to 5 February 1842. According to a private letter from Mrs Maria Balestier (wife of Joseph Balestier, the first American consul in Singapore) to her sister, the doctor produced a “daguerreotype drawing” of the Balestiers’ home in the Rochor area. See Hale, R. (2016). [*The Balestiers: The first American residents of Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202373295) (p. 156). Singapore: Marshall Cavendish Editions. (Call no.: RSING 959.57030922 HAL).
 [^7]:Falconer, J. (1987). [*A vision of the past: A history of early photography in Singapore and Malaya*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4368234) (p. 9). Singapore: Times Editions. (Call no.: RSING 779.995957 FAL).
-[^8]:
-[^9]:
-[^10]:
-[^11]:
-
-
-
-
-
-
-
-Abdullah, 2009, p. 296.
-The Lagrené mission, as it came to be known, resulted in the Treaty of Whampoa signed on 24 October 1844, which secured for France the same privileges extended to Britain. See Massot, G. (2015, November). Jules Itier and the Lagrené Mission. History of Photography, 39(4), 319–347, p. 320. (Call no.: RCLOS 770.92 MAS)
-According to Itier’s published account of the trip, Journal d’un Voyage en Chine en 1843, 1844, 1845, 1846, the daguerreotype of Thian Hock Keng was made on 6 July 1844, which places it as the earliest dated photograph of Asia. See Massot, Nov 2015, pp. 323, 346.
-Massot, Nov 2015, pp. 320–324, 346.
+[^8]:[Abdullah](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13606908), 2009, p. 296.
+[^9]:The Lagrené mission, as it came to be known, resulted in the Treaty of Whampoa signed on 24 October 1844, which secured for France the same privileges extended to Britain. See Massot, G. (2015, November). [Jules Itier and the Lagrené Mission](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203235478). *History of Photography, 39*(4), 319–347, p. 320. (Call no.: RCLOS 770.92 MAS).
+[^10]:According to Itier’s published account of the trip, *Journal d’un Voyage en Chine en 1843, 1844, 1845, 1846*, the daguerreotype of Thian Hock Keng was made on 6 July 1844, which places it as the earliest dated photograph of Asia. See [Massot](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203235478), Nov 2015, pp. 323, 346.
+[^11]:[Massot](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203235478), Nov 2015, pp. 320–324, 346.
