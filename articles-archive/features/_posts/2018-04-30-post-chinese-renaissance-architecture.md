@@ -157,7 +157,6 @@ The original plans were for a Chinese Renaissance-style building, and one cannot
 </div>
 
 <img src="/images/Vol-14-issue-1/chinese-renaissance-architect/Renaissance10.JPG">
-
 <br>
 <div style="background-color: white;">
 <img src="/images/Vol-14-issue-1/chinese-renaissance-architect/Renaissance14.jpg" style="width: 100px; height: 100px;">
