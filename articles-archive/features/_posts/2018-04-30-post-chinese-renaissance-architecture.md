@@ -155,7 +155,7 @@ In 1926, the famous Ee Hoe Hean Club, otherwise known as the “Millionaires’ 
 <br><br>
 The original plans were for a Chinese Renaissance-style building, and one cannot help but draw the conclusion that members of the building committee were influenced  by Eu Tong Sen’s apartments at the foot of Club Street – the original Ee Hoe Hean Club (established 1895) was at 28 Club Street at the time, a stone’s throw from the apartments. Although Swan & Maclaren’s original building plans were beautifully  executed, in the end club members decided to go for a more contemporary  look, which is the building we see today on Bukit Pasoh Road. The club is still around today; the membership remains exclusively male and by invitation only.	
 </div>
-<br>
+
 <img src="/images/Vol-14-issue-1/chinese-renaissance-architect/Renaissance10.JPG">
 
 <br>
