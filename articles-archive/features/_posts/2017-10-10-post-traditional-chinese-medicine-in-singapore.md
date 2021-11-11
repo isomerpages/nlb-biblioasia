@@ -6,7 +6,7 @@ layout: post
 ---
 #### Traditional Chinese medicine in Singapore has a history that goes back to more than a century. **Vicky Gao** traces its development through the National Library’s collection.
 
-<div style="background-color: white;"><br><img src="/images/Vol-13-issue-3/traditional-chinese-medicine/01-chinesemedicine.jpg"></i></div>
+<div style="background-color: white;"><br><img src="/images/Vol-13-issue-3/traditional-chinese-medicine/01-chinesemedicine.jpg">(上图）华人医师在同济医院内为病人看诊。照片年代约1890年代。<i>图片来源：Liu, G. (1999). Singapore: A Pictorial History 1819–2000 (p.166). Singapore: National Heritage Board and Editions Didier Millet (Call no.: RSING 959.57 LIU-[HIS]). 原图来自莱佛士酒店收藏。</i></div>
 
 中医药在中国有着数千年的悠久历史，并已经根植在人们的日 常生活习俗中。新加坡的中医药历史是和新加坡的华人移民史 息息相关的。根据《新加坡华人通史》一书所述，开埠后不久， 来自中国华南地区的移民飘洋过海来到新加坡。这些人包括闽 南人、潮州人、广东人和客家人等。[^1] 中国传统医学也随着华人 的南移和定居而传入新加坡。新加坡先贤宋旺相在《新加坡  华人百年史》一书中提到，在新加坡开埠后的第二个十年（1829 年至1839年），新加坡就有一些中药材店，如开元(Kye Guan)、成得 记(Seng Tek Kee)、同善(Tong Sian)和福安堂(Hok Ann Tong)。[^2] 区如柏在《祖先的行业》一书中也提到，客家人南来后最早从事 的行业是药材店。周兰记和胡文虎、胡文豹开办的永安堂等中药 行即是客家人所经营的。[^3]
 
@@ -17,8 +17,6 @@ layout: post
 因篇幅有限，本文不能一一列述新加坡国家图书馆丰富的中医药 馆藏资料。欢迎读者到位于新加坡国家图书馆大厦9楼的中 文 “新加坡与东南亚资料”书架区查阅更多有关新加坡和本地区 的中医药历史文献资料。
 
 了解历史，是为了更好地传承和发展。透过新加坡国家图书馆 的中医药馆藏文献资料，我们可以看到，百年来，新加坡中医药 界突破地缘、血缘、方言和阶级的界限，扶弱济贫、惠及普通民 众，凝聚族群和促进社会和谐。这种无私的奉献精神对今天的 新加坡发展都具有重要的现实意义。
-
-<div style="background-color: white;"><img src="/images/Vol-13-issue-3/traditional-chinese-medicine/02-chinesemedicine.jpg">(上图）华人医师在同济医院内为病人看诊。照片年代约1890年代。<i>图片来源：Liu, G. (1999). Singapore: A Pictorial History 1819–2000 (p.166). Singapore: National Heritage Board and Editions Didier Millet (Call no.: RSING 959.57 LIU-[HIS]). 原图来自莱佛士酒店收藏。</i></div>
 
 随着科技的进步，保持中医药特色，开展中医药现代化研究是中 医药融入当前保健医疗服务的关键。新加坡人口迅速老龄化，到 了2030年，将有超过20%人口的年龄超过65岁。此外，在40岁及 以上的国人当中，25%将患有至少一种慢性疾病。许多国家十分 重视替代医学在应对老龄化社会带来的挑战上所扮演的作用。 中医药学无止境，只有不断地创新开放、兼容并蓄，才能在传承  中医药的道路上走的更远。为了满足热心中医药事业的读者终身学习的需求，新加坡国家图书馆中文馆藏区也设有“医药 保健”专题，有兴趣的读者可以前来国家图书馆九楼浏览和阅 读中医药理论和临床实践的参考书籍。新加坡国家图书馆也提 供参考咨询服务，为读者推荐相关资料，国家图书馆一站式的 参考咨询服务(Reference Point) 的电邮是<a href="mailto:ref@nlb.gov.sg">ref@nlb.gov.sg</a>。
 
