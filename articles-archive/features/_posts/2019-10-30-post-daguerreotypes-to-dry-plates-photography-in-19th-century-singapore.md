@@ -49,7 +49,7 @@ Held in hand and viewed up close, the townscape would have appeared ethereal as 
 
 <img style="width: 450px; height: 300px;" src="/images/Vol-15-issue-3/daguerreotypes-to-dry-plates/Daguerreotypes4.JPG">
 <div style="background-color: white;">Alphonse-Eugène-Jules Itier’s 1844 daguerreotype of Boat Quay and the Singapore River from Government Hill (today’s Fort Canning) is considered one of the oldest surviving photographic images of Singapore. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i></div>
-<br><br>
+<br>
 <img style="width: 450px; height: 300px;" src="/images/Vol-15-issue-3/daguerreotypes-to-dry-plates/Daguerreotypes5.JPG">
 <div style="background-color: white;">View of the Singapore River by Sachtler & Co. from the album, <i>Views and Types of Singapore, 1863</i> (compare it with the 1844 reversed image of the same view). Landscape shots were the stock-in-trade of early photographic studios. The hills of Singapore, such as Fort Canning Hill, offered unparalleled views of the town and surroundings. The sepia tone is typical of albumen prints. <i>Lee Kip Lin Collection. All rights reserved, Lee Kip Lin and National Library Board, Singapore.</i></div>
 
