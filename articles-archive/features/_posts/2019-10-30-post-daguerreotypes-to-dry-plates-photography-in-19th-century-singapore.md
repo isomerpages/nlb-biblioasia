@@ -64,7 +64,7 @@ Dutronquoy first advertised himself as a painter in March 1839. Two months later
 
 To attract prospective customers, Dutronquoy proclaimed his mastery of the daguerreotype process, asserting that his portraits would be “taken in the astonishing short space of two minutes […] free from all blemish and […] in every respect perfect likenesses”.13 Given that the subjects had to hold absolutely still to obtain a sharp picture, a two-minute exposure (painfully slow by today’s instant imaging standards) was a selling point at the time.14
 
-<img style="width: 500px; height: 380px;" src="/images/Vol-15-issue-3/daguerreotypes-to-dry-plates/Daguerreotypes7.JPG">
+<img style="width: 480px; height: 380px;" src="/images/Vol-15-issue-3/daguerreotypes-to-dry-plates/Daguerreotypes7.JPG">
 <div style="background-color: white;">Scottish photographer John Thomson with two Manchu soldiers in Xiamen, Fujian province, China, 1871. Thomson worked in Singapore as a photographer in the 1860s. <i>Courtesy of Wellcome Collection (CCBY).</i></div>
 
 In the absence of surviving works, it is difficult to say how successful Dutronquoy was as a daguerreotypist. There was not enough demand to maintain a fulltime photography business, yet Dutronquoy was sufficiently motivated to keep up with advances in the technology, and made efforts to grow his clientele.
