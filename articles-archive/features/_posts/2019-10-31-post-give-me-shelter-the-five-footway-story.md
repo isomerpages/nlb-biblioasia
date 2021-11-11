@@ -7,7 +7,7 @@ layout: post
 #### The five-footway – the equivalent to the modern-day pavement or sidewalk – was a hotly contested space in colonial Singapore. Fiona Lim relives its colourful history.
 
 <img src="/images/Vol-15-issue-3/give-me-shelter/Shelter1.JPG">
-<div style="background-color: white;"></i></div>
+<div style="background-color: white;"></div>
 
 “Crowded, bustling, layered, constantly shifting, and seemingly messy, these sites and activities possess an order and hierarchy often visible and comprehensible only to their participants, thereby escaping common understanding and appreciation”.1
 
@@ -23,7 +23,7 @@ Early paintings of Singapore by Government Surveyor of the Straits Settlements J
 
 The five-footway (historically, often used interchangeably with the term “verandah”) was originally mandated by Stamford Raffles as part of his 1822 Town Plan of Singapore – also known as the Jackson Plan. Article 18 of the plan states: “Description of houses to be constructed, each house to have a verandah open at all times as a continued and covered passage on each side of the street.” This was to be carried out “for the sake of uniformity” in the townscape.2 Raffles’ intention to have the verandah “open at all times” would be frequently invoked in future contentions about the use of this space.
 
-<img src="/images/Vol-15-issue-3/give-me-shelter/Shelter2.JPG">
+<img style="width: 400px; height: 430px;" src="/images/Vol-15-issue-3/give-me-shelter/Shelter2.JPG">
 <div style="background-color: white;">Painting of a row of shophouses and the five-footway running along the facade. <i>Image reproduced from Morton-Cameron, W.H., & Feldwick, W. (Eds.). (2012). Present Day Impressions of the Far East and Prominent & Progressive Chinese at Home and Abroad: The History, People, Commerce, Industries, and Resources of China, Hong Kong, Indo-China, Malaya, and Netherlands India (vol. 2; facing p. 810). Tokyo: Edition Synapse. (Call no.: RSING 950 PRE)</i></div>
 
 Scholars suggest that Raffles became acquainted with this architectural feature during his time as Lieutenant-General of Java. The Dutch colonisers had earlier introduced covered walkways and implemented a regular street alignment in Batavia (present-day Jakarta), capital of the Dutch East Indies.3
@@ -32,7 +32,7 @@ In the late 19th and right up to the mid-20th century, an assortment of traders,
 
 Operating in the five-footway required minimal capital, and thus it was the most viable option for those with little means. In turn, vendors could provide essential goods and services to consumers cheaply. The five-footway came to sustain the economic and social life of a working class of mainly immigrants who had come to Singapore to find work, hoping to give their families back home a better life.
 
-<img src="/images/Vol-15-issue-3/give-me-shelter/Shelter3.JPG">
+<img style="width: 650px; height: 400px;" src="/images/Vol-15-issue-3/give-me-shelter/Shelter3.JPG">
 <div style="background-color: white;">A photo of China Street showing the rows of shophouses and their five-footways by G.R. Lambert & Co., c. 1890s. <i>Courtesy of Editions Didier Millet.</i></div>
 
 Although the lives of Asian migrants in Singapore were steeped in this ecosystem, many Europeans found this vernacular environment appalling. Those who considered this social space as a novelty tended to view it as “exotic”, as John Cameron, former editor of *The Straits Times*, did when he wrote: “[I]n a quiet observant walk through [the five-footways] a very great deal may be learned concerning the peculiar manners and customs of the trading inhabitants”.4
@@ -56,7 +56,7 @@ Depending on which part of town a traveller was exploring, he or she might be in
 
 In reality, the five-footways in the town’s Asian quarters teemed with so much obstruction and activity that pedestrians were all too often forced onto the road.
 
-<img src="/images/Vol-15-issue-3/give-me-shelter/Shelter4.JPG">
+<img style="width: 550px; height: 350px;" src="/images/Vol-15-issue-3/give-me-shelter/Shelter4.JPG">
 <div style="background-color: white;">An itinerant satay seller on the five-footway, c. 1911. <i>Andrew Tan Collection, courtesy of National Archives of Singapore.</i></div>
 
 Low’s view was not a popular one. In 1843, a disgruntled individual offered a sharply contradictory experience in a letter to *The Singapore Free Press*, arguing for the public right of way:
@@ -75,14 +75,14 @@ The most common occupant of the five-footway was probably the food vendor. Hawke
 
 Besides food, one could find tradesmen and women engaging in various occupations that supported the inhabitants of the densely populated Chinatown. Letter-writers armed with ink and brush penned letters for illiterate customers or wrote festive couplets for Chinese celebrations.11 Barbers simply pulled out a chair and hung a mirror on the wall in front before providing haircuts and shaves for customers.12
 
-<img src="/images/Vol-15-issue-3/give-me-shelter/Shelter5.JPG">
+<img style="width: 550px; height: 350px;" src="/images/Vol-15-issue-3/give-me-shelter/Shelter5.JPG">
 <div style="background-color: white;">A Chinese barber at work along a five-footway at Robertson Quay, 1985. <i>Ronni Pinsler Collection, courtesy of National Archives of Singapore.</i></div>
 
 Foong Lai Kum, a former resident of Chinatown, remembered a man known as *jiandao lao* (剪刀佬; colloquially “Scissors Guy” in Mandarin) plying his trade on the five-footway of Sago Lane, sharpening the scissors used by young women working at rubber factories, or the knives used by hawkers or butchers.13 And, thanks to the itinerant pot mender, one never had to shell out money for a new pot.14
 
 Five-footway traders were also found in the Serangoon Road area, today’s Little India. The lady selling *thairu* (curd) would be perched on a step, with packets of the Indian staple displayed on a wooden crate. On another five-footway nearby was the *paanwalla*, who prepared the betel-leaf-wrapped snack known as *paan*. Indian parrot astrologers were also a common sight: based on the customer’s name and date of birth, these fortune tellers used green parakeets to pick a numbered card inscribed with the customer’s fortune from a stack.15
 
-<img src="/images/Vol-15-issue-3/give-me-shelter/Shelter6.JPG">
+<img style="width: 550px; height: 400px;" src="/images/Vol-15-issue-3/give-me-shelter/Shelter6.JPG">
 <div style="background-color: white;">Two Chinese calligraphers at work along a five-footway in the 1960s. Sometimes, they may also be called upon to write letters for illiterate customers. <i>Kouo Shang-Wei Collection 郭尚慰珍藏. All rights reserved, Family of Kouo Shang-Wei and National Library Board Singapore.</i></div>
 
 During festive occasions like Hari Raya, Deepavali and Chinese New Year, shop owners and vendors packed the five-footways, with their goods often spilling onto the streets. And whenever a *wayang* (Chinese opera) performance or other communal event was staged, the five-footway became part of the viewing arena.
@@ -105,7 +105,7 @@ Some Europeans also floated orientalist – and ultimately racist – conception
 
 An 1898 article in *The Singapore Free Press* charged that the practice of obstructing a public walkway was “essentially Eastern” and attributed this to the Asians’ supposed lack of civility, “as the large majority of those… have been born and brought up in places where our more civilised views do not prevail… it is the more difficult for the authorities to secure obedience to their wishes”.21
 
-<img src="/images/Vol-15-issue-3/give-me-shelter/Shelter7.JPG">
+<img style="width: 550px; height: 350px;" src="/images/Vol-15-issue-3/give-me-shelter/Shelter7.JPG">
 <div style="background-color: white;">A group of men playing cards on the five-footway along Serangoon Road, c. 1970s. The five-footway is a place for social interaction and the strengthening of communal ties. <i>Ronni Pinsler Collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **Whose Right of Way?**
@@ -114,7 +114,7 @@ As the public and private spheres met in the liminal space of the five-footway, 
 
 Conflict over the use of the footways persisted for over a century, with the “Verandah Question” becoming a hotly debated topic in many municipal meetings. In 1863, it seemed that the municipal commissioners and frustrated pedestrians had won the battle when the court ruled that all verandahs were to be “completely cleared and made available for passenger traffic”.23
 
-<img src="/images/Vol-15-issue-3/give-me-shelter/Shelter8.JPG">
+<img style="width: 550px; height: 350px;" src="/images/Vol-15-issue-3/give-me-shelter/Shelter8.JPG">
 <div style="background-color: white;">Children playing on the five-footway at the junction of Club Street and Gemmill Lane, 1972. <i>Paul Piollet Collection, courtesy of National Archives of Singapore.</i></div>
 
 However, as few people actually adhered to the regulation, the encumbrance of the five-footways continued, much to the chagrin of law enforcers. Finally, in July 1887, legislation was passed granting municipal officers the power to forcefully clear the five-footways and streets of any obstructions. The perceived incursion into the space used by the Asian communities resulted in a three-day strike and riot in February 1888 (see textbox below).
@@ -127,7 +127,7 @@ By 1899, the five-footway problem was referred to as the “very old Verandah Qu
 
 From 1907 onwards, night street food hawkers were subject to licensing by the authorities. After Singapore’s independence in 1965, food peddlers were moved into new standalone hawker centres. Nevertheless, the occasional itinerant food vendor could still be spotted along five-footways up until the 1980s. Over time, other five-footway traders also disappeared as the rules and their enforcement were tightened. Those with the means could relocate to a permanent location, while others simply gave up their trade for good.
 
-<img src="/images/Vol-15-issue-3/give-me-shelter/Shelter9.JPG">
+<img style="width: 360px; height: 460px;" src="/images/Vol-15-issue-3/give-me-shelter/Shelter9.JPG">
 <div style="background-color: white;">Goods spilling out onto the five-footway along Tanjong Pagar Road, 1982. <i>Lee Kip Lin Collection. All rights reserved, Lee Kip Lin and National Library Board Singapore.</i></div>
 
 #### **Resurgence of an Old Problem**
