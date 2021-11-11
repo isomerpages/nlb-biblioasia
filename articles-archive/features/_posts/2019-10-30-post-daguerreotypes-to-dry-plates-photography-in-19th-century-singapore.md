@@ -194,13 +194,23 @@ Some research has been done and continue to be carried out on Asian photographer
 [^9]:The Lagrené mission, as it came to be known, resulted in the Treaty of Whampoa signed on 24 October 1844, which secured for France the same privileges extended to Britain. See Massot, G. (2015, November). [Jules Itier and the Lagrené Mission](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203235478). *History of Photography, 39*(4), 319–347, p. 320. (Call no.: RCLOS 770.92 MAS).
 [^10]:According to Itier’s published account of the trip, *Journal d’un Voyage en Chine en 1843, 1844, 1845, 1846*, the daguerreotype of Thian Hock Keng was made on 6 July 1844, which places it as the earliest dated photograph of Asia. See [Massot](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203235478), Nov 2015, pp. 323, 346.
 [^11]:[Massot](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203235478), Nov 2015, pp. 320–324, 346.
-[^12]:
-[^13]:
-[^14]:
-[^15]:
+[^12]:The street on which the house stood was later named after Coleman. Coleman’s house was located at 3 Coleman Street where the Peninsula Shopping Centre now stands. See [London Hotel](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18420113-1.2.2.2). (1842, January 13). *The Singapore Free Press and Mercantile Advertiser*, p. 1. Retrieved from NewspaperSG.
+[^13]:[Daguerriotype portraits](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18431207-1.2.2.3). (1843, December 7). *The Singapore Free Press and Mercantile Advertiser*, p. 1. Retrieved from NewspaperSG.
+[^14]:Hirsch, R. (2000). [*Seizing the light: A history of photography*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9502389) (p. 32). Boston: McGraw-Hill. (Call no.: RART 770.9 HIR). Depending on light conditions, exposures ranged from a few minutes to as long as half an hour, which explains the often-solemn expressions and stiff postures in early portraits.
+[^15]:[Notice](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18440222-1.2.4.2). (1844, 22 February). The Singapore Free Press and Mercantile Advertiser, p. 1; [Notice](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18450116-1.2.2.3). (1845, January 16). The Singapore Free Press and Mercantile Advertiser, p. 1. Retrieved from NewspaperSG. Mornings were more conducive for taking photographs as temperatures were still cool, and daylight would be sufficient without being overpowering.
 [^16]:
 [^17]:
 [^18]:
 [^19]:
 [^20]:
 [^2]:
+
+
+
+
+Daguerreotype. (1848, October 21). The Straits Times, p. 2. Retrieved from NewspaperSG.
+Lavédrine, B. (2009). Photographs of the past: Process and preservation (pp. 30–31). Los Angeles, California: The Getty Conservation Institute. (Not available in NLB holdings); See Claudet, L. (2008). Colouring by hand. In J. Hannavy (Ed.)., Encyclopedia of nineteenth-century photography Vol 1 (pp. 322–323). New York: Routledge. Retrieved from Google Books. A practical method for colour photography was not invented until the Lumiére brothers’ autochrome process in 1904.
+Buckley, C.B. (1984). An anecdotal history of old times in Singapore 1819–1867 (p. 745). Singapore: Oxford University Press. (Call no.: RSING 959.57 BUC). However, another source suggests that Dutronquoy might have passed away sometime in January 1872 in Kobe, Japan. See Massot, Nov 2015, p. 323.
+Hirsch, 2000, p. 72. Collodion was made by dissolving gun cotton in ether and alcohol, and then adding potassium iodide. The resultant viscous mixture is applied evenly to a glass plate, which is immersed into a bath of silver nitrate to produce light-sensitive silver iodide.
+Portraits & views. (1858, February 13). The Straits Times, p. 2. Retrieved from NewspaperSG.
+Notice (1862, June 14). The Straits Times, p. 3. Retrieved from NewspaperSG; White, S. (1989). John Thomson: A window to the orient  (p. 9). Albuquerque: University of New Mexico Press. (Call no.: RART 770.92 WHI). William was also a photographer in the partnership of Sack and Thomson, Beach Road (listed in the 1861 Straits Directory). The partnership was brief and William was listed on his own as a photographic artist in the following year’s directory.
