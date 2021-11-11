@@ -183,18 +183,18 @@ Following a deadly confrontation with the police, the riots were quelled and, on
 [^21]:[Street obstruction](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk18980707-1.2.71). (1898, July 7). *The Singapore Free Press and Mercantile Advertiser (Weekly)*, p. 9. Retrieved from NewspaperSG.
 [^22]:[On the verandah](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18980226-1.2.20). (1898, February 26). *The Straits Times*, p. 2. Retrieved from NewspaperSG.
 [^23]:[News of the week](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18630516-1.2.11). (1863, May 16). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
-[^24]:The verandahs again (July 6th). (1899, July 13). The Singapore Free Press and Mercantile Advertiser (Weekly), p. 1. Retrieved from NewspaperSG.
-[^25]:
-[^26]:
-[^27]:
+[^24]:[The verandahs again (July 6th)](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk18990713-1.2.3). (1899, July 13). *The Singapore Free Press and Mercantile Advertiser (Weekly)*, p. 1. Retrieved from NewspaperSG.
+[^25]:[[Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19000926-1.2.6)]. (1900, September 26). *The Straits Times*, p. 2. Retrieved from NewspaperSG.
+[^26]:[*The Straits Times*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19250711-1.2.84), 11 Jul 1925, p. 10.
+[^27]:Tan, S.S. (1998, April 10). Eat, drink on 5-foot ways. The Straits Times, p. 10. Retrieved from NewspaperSG.
 [^28]:
 [^29]:
 
 
 
 
-[Untitled]. (1900, September 26). The Straits Times, p. 2. Retrieved from NewspaperSG.
-The Straits Times, 11 Jul 1925, p. 10.
-Tan, S.S. (1998, April 10). Eat, drink on 5-foot ways. The Straits Times, p. 10. Retrieved from NewspaperSG.
+
+
+
 Yeo, S.J. (2015, July 5). Goodbye to al fresco dining? The Straits Times, p. 11. Retrieved from NewspaperSG.
 Hartung, R. (2015, July 31). Preserve the city’s character on the footways. Today, p. 22. Retrieved from NewspaperSG.
