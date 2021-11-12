@@ -9,36 +9,36 @@ Making their mark in black and white, the Chettiars of Market Street and the con
 
 <img src="/images/Vol-13-issue-3/vol13_iss3.JPG">  
 
-**Director’s Note**
+**[Director’s Note](/vol-13/issue-3/oct-dec-2017/directors-note)**
 
-**A Lifetime of Labour: Cantonese Amahs in Singapore** <br>
+**[A Lifetime of Labour: Cantonese Amahs in Singapore](/vol-13/issue-3/oct-dec-2017/lifetime-of-labour)** <br>
 The black-and-white *amah*, renowned for her domestic skills, has left a mark on history in more ways than one, as *Janice Loo* tells us. [(PDF)](/files/pdf/vol-13/v13-issue3_Amahs.pdf)
 
-**Micro India: The Chettiars of Market Street** <br>
+**[Micro India: The Chettiars of Market Street](/vol-13/issue-3/oct-dec-2017/micro-india)** <br>
 Market Street, in the heart of the business district, is where Indian moneylenders ran a thriving trade during the colonial era. *Marcus Ng* traces the imprint left by the Chettiars. [(PDF)](/files/pdf/vol-13/v13-issue3_Chettiars.pdf)
 
-**Scots in Singapore: Remembering their Legacy** <br>
+**[Scots in Singapore: Remembering their Legacy](/vol-13/issue-3/oct-dec-2017/scots-in-singapore)** <br>
 The Scots in colonial Singapore lent their names to many of the city’s famous landmarks. *Graham Berry* pays tribute to the contributions of his fellow men. [(PDF)](/files/pdf/vol-13/v13-issue3_Scots.pdf)
 
-**The Road to Nationalism: Public Buses in Singapore** <br>
+**[The Road to Nationalism: Public Buses in Singapore](/vol-13/issue-3/oct-dec-2017/roadtonationalisation)** <br>
 From as many as 11 bus companies to just one bus operator by 1973. *Lee Meiyu* chronicles the early turbulent days of Singapore’s bus industry. [(PDF)](/files/pdf/vol-13/v13-issue3_PublicBuses.pdf)
 
-**Nyonya Needlework and the Printed Page** <br>
+**[Nyonya Needlework and the Printed Page](/vol-13/issue-3/oct-dec-2017/nyonya-needlework)** <br>
 *Cheah Hwei-Fe’n* examines the impact of print media on the time-honoured craft of Peranakan embroidery and beadwork. [(PDF)](/files/pdf/vol-13/v13-issue3_Needlework.pdf)
 
-**A Tale of Two Churches** <br>
+**[A Tale of Two Churches](/vol-13/issue-3/oct-dec-2017/tale-of-two-churches)** <br>
 Penang’s Armenian church was demolished in the early 1900s while the one in Singapore still thrives. *Nadia Wright* looks at the vastly different fates of these two churches. [(PDF)](/files/pdf/vol-13/v13-issue3_TwoChurches.pdf)
 
-**Early Malay Printing in Singapore** <br>
+**[Early Malay Printing in Singapore](/vol-13/issue-3/oct-dec-2017/early-malay-printing)** <br>
 *Mazelan Anuar* tracks the rise and decline of Malay printing and publishing in 19th-century Singapore, and profiles two of the most prolific printers of that period. [(PDF)](/files/pdf/vol-13/v13-issue3_Printing.pdf)
 
-**The Symbolism behind the Third Charter of Justice** <br>
+**[The Symbolism behind the Third Charter of Justice](/vol-13/issue-3/oct-dec-2017/third-charter-justice)** <br>
 This legal document – issued by the colonial government in 1855 – is an integral part of Singapore’s constitutional history. *Kevin Khoo* explains the significance of its elaborate borders. [(PDF)](/files/pdf/vol-13/v13-issue3_Justice.pdf)
 
-**Rambling around Bras Basah** <br>
+**[Rambling around Bras Basah](/vol-13/issue-3/oct-dec-2017/ramblingarndbrasbasah)** <br>
 It’s just a street to many, but for *Yu-Mei Balasingamchow*, the Bras Basah area is emblematic of how redevelopment can sometimes radically change the identity of an area. [(PDF)](/files/pdf/vol-13/v13-issue3_BrasBasah.pdf) 
 
-**Mr Song’s European Escapade** <br>
+**[Mr Song’s European Escapade](/vol-13/issue-3/oct-dec-2017/european-escapade)** <br>
 *Ong Eng Chuan* pores through the faded colonial-era postcards of Peranakan luminary Song Ong Siang to piece together highlights of his 10-month European sojourn. [(PDF)](/files/pdf/vol-13/v13-issue3_MrSong.pdf)
 
 **从馆藏文献资料认识中医药在新加坡的历史与发展**
