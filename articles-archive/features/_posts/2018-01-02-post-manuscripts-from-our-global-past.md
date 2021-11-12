@@ -6,6 +6,8 @@ layout: post
 ---
 #### An exhibition of old Southeast Asian writings showcases the region as a major centre of learning. **Farish A. Noor** explains why we should reclaim our heritage.
 
+<div style="background-color: white;"><br><img src="/images/Vol-13-issue-4/manuscripts-from-global-past/01_manuscript.png"></div>
+
 When does a piece of writing become “global literature” or “world literature”? The question may seem to be as old as writing itself, but it is in fact historical. And it has as much to do with the manner in which the English language has become globalised as a result of Britain’s colonial past as it does with the way in which the literature of other parts of the non-English-speaking world has been relegated to the margins of the exotic and foreign.
 
 In the course of this long historical process, the literature of many societies has been deemed as parochial or “local” by comparison. This has been to our own detriment as we have overlooked many important works of literature that have emerged in other non-Western societies.
@@ -30,6 +32,8 @@ Again and again, Bukhari reminds the ruler that his authority is based on the su
 
 Yet, while the works of English political theorists like Hobbes and John Locke have been elevated to the status of “global” political theory, Bukhari’s Taj al-Salatin remains confined to the domain of Asian literature and area studies. The same can be said of the political writings of countless other scholars from China to India to Africa, whose works have likewise been slotted into the marginal categories of “East Asian studies”, “South Asian studies” or “African studies”.
 
+<div style="background-color: white;"><img src="/images/Vol-13-issue-4/manuscripts-from-global-past/02_manuscript.jpg">This rare and highly decorated manuscript titled <i>Taj al-Salatin</i> (<i>The Crown of Kings</i>) is considered one of the most beautiful by experts. The opening and closing pages are elaborately adorned with blue, red, yellow and gold patterns. The decorative style of the closing pages as seen here is reminiscent of Indo-Persian and Ottoman manuscripts. Believed to have been composed in Aceh in 1603 by Bukhari al-Johori (the “jewel merchant”), the work is one of the most important texts about political theory and governance from the 17th century. <i>Collection of The British Library, Or. MS. 13295.</i></div>
+
 Another important work on display is a handsome copy of the famous Hikayat Hang Tuah. The tale of the hero Hang Tuah is known to many by now, thanks in part to the manner in which it has been rendered in popular films and even comics. But few realise that the text is much more complex than it first appears, and this becomes evident when we read it to the very end – following Hang Tuah’s journey as he becomes a diplomat-emissary who travels beyond Southeast Asia and ventures to South Asia, East Asia and beyond. It is in the latter half of Hikayat Hang Tuah that we come to see that the work is not only a heroic epic, but also an account of travel and diplomacy, giving us an idea of how Southeast Asians related to the wider world in our pre-colonial past.
 
 Perhaps the most outstanding aspect of Hang Tuah is how he seeks difference in his travels and longs to encounter the new, but at the same time reconciles all forms of difference according to the register of the familiar. Throughout his journeys across Greater Asia, Hang Tuah seeks to understand the communities and cultures he encounters with an open mind, guided by the spirit of a shared humanity. Not once does he frame the Other in negative terms, choosing instead to try to understand other societies and cultures as human constructs made by fellow human beings. There is a great universal spirit that permeates this work, and it tells us a lot about how Southeast Asians were capable of meeting the wider world without fear.
@@ -48,8 +52,8 @@ It is high time that Southeast Asians have a sense of their own place in global 
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Vol-13-issue-3/old-world-amusement-parks/jessie-yak.png">
-<b>Jessie Yak </b>is a Reference Librarian with the Rare Collections team at the National Library, Singapore. She majored in Chinese language and literature at Beijing University and furthered her studies at the University of Cambridge. Jessie is interested in Chinese literature, the Chinese diaspora and the print culture of East Asia.
+<img style="width: 100px; height: 100px;" src="/images/Vol-13-issue-4/manuscripts-from-global-past/farish.png">
+<b>Farish A. Noor</b> is Associate Professor at the S.Rajaratnam School of International Studies, Nanyang Technological University. He is a regular contributor to BiblioAsia.
 </div>
 
 <a href="/vol-13/issue-4/jan-mar-2018/"><center>Back to Issue</center></a>
