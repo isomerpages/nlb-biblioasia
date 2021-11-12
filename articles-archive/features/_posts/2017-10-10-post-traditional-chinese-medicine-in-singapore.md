@@ -37,7 +37,7 @@ layout: post
 <br><br>
 <img style="width:400px" src="/images/Vol-13-issue-3/traditional-chinese-medicine/10-chinesemedicine.jpg"><i>晚年任新加坡中医师公会会长并筹建新加坡中医专门学校(即新加坡中医学院的前身)的吴瑞甫（1872–1952年），毕生致力于中医事业。他成书于1934年的《四时感证论》后来于1979年由许云樵以其医学知识增注。许云樵增注版的手稿收藏于新加坡国家图书馆的闭架馆藏。（从左至右）版权所有，同安吴瑞甫撰述，受业陈占伟参校，姑苏许云樵增注(1981)。《四时感症论》。新加坡：新加坡中医药促进会主办中医学研究院。(索书号：RCLOS Chinese 610.951 WRP)；版权所有，《[新加坡宗乡会馆联合总会（许云樵馆藏）][许云樵教授手稿][15]》。( 索书号：RCLOS Chinese 959.007202 XYQ -[HYT])</i>
 <br><br>
-<img style="width:500px" src="/images/Vol-13-issue-3/traditional-chinese-medicine/11-chinesemedicine.jpg">
+<img style="width:700px" src="/images/Vol-13-issue-3/traditional-chinese-medicine/11-chinesemedicine.jpg">
 （从左至右）版权所有，〈马来本草辞典〉，收于《[新加坡宗乡会馆联合总会（许云樵馆藏）][许云樵教授手稿][12]》。(索书号：RCLOS Chinese 959.007202 XYQ -[HYT]) ；版权所有，〈茅瓜叶根治糖尿〉，收于《[新加坡宗乡会馆联合总会（许云樵馆藏）][ 许云樵教授手稿] [12]》。( 索书号：RCLOS Chinese 959.007202 XYQ -[HYT])；版权所有，〈癌方药物简释〉，收于《[新加坡宗乡会馆联合总会（许云樵馆藏）][许云樵教授手稿][12]》。(索书号：RCLOS Chinese 959.007202 XYQ-[HYT]）
  除了上述手稿之外，馆藏内许云樵教授有关中医药的手稿还包括：<br>
 • 阴阳五行学说的科学基础 (1976年8月1日在中医学研究院演讲稿)<br>
@@ -47,10 +47,10 @@ layout: post
 • 新加坡糖尿学会六周年纪念会长致辞<br>
 • 为中医学研究药物展览会揭幕致词 (1977年1月8日)
 <br><br>
-<img style="width:500px" src="/images/Vol-13-issue-3/traditional-chinese-medicine/12-chinesemedicine.jpg">
+<img style="width700px" src="/images/Vol-13-issue-3/traditional-chinese-medicine/12-chinesemedicine.jpg">
 研究新加坡的中医药发展史，离不开中医药团体出版的各种纪念刊物。一百多年前，新加坡就开始有中医药团体和慈善机构，如1910年创办的广惠肇方便留医院[^6] 和1867年的成立的同济医社（同济医院前身）。[^7] 馆藏《同济医院120年周年历史专集》、新加坡中医师公会主办的《大巴窑中华医院落成纪念特刊》、《新加坡中药公会五十周年纪念刊，1940–1990》等出版物内容极具历史研究价值。以同济医院为例，作为早期华人的中医慈善团体，同济医院的前身同济医社用中医药为贫苦大众医病，不收医资，体现同善相济的精神。<i>（从左至右）版权所有，《大巴窑中华医院落成纪念特刊》(1979)。新加坡：中华医院。(索书号：RSING Chinese 610.951 TOA)；版权所有，区如柏(2010)。《广惠肇留医院100周年：广施惠民肇新百年》。新加坡：广惠肇留医院。(索书号:RSING Chinese 362.11095957 ORB)；版权所有，《新加坡中药公会五十周年纪念刊1940–1990》(1991)。新加坡：新加坡中药公会特刊编辑委员会。(索书号：RSING Chinese 610.6095957 SIN)</i>
 <br><br>
-<img style="width:400px" src="/images/Vol-13-issue-3/traditional-chinese-medicine/13-chinesemedicine.jpg">
+<img style="width:650px" src="/images/Vol-13-issue-3/traditional-chinese-medicine/13-chinesemedicine.jpg">
 同济医院自成立以来，始终秉承不分种族、不分宗教、不分国籍、施医赠药的宗旨，为社会大众服务。<i>版权所有，《同济医院一百二十周年历史专集》(1989)（封面、页177）。新加坡：同济医院。（索书号：RSING Chinese 610.95957 TJY)</i></span>
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;">
