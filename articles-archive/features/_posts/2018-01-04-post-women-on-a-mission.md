@@ -6,6 +6,8 @@ layout: post
 ---
 #### Female missionaries in colonial Singapore have made their mark in areas such as education, welfare and health services. **Jaime Koh** looks at some of these intrepid trailblazers.
 
+<div style="background-color: white;"><br><img src="/images/Vol-13-issue-4/women-on-a-mission/01_womenmission.jpg">The Catholic sisters of the Convent of the Holy Infant Jesus with some orphans and their Malay nanny in 1924. In addition to a school, the convent also ran an orphanage that accepted and cared for orphans and abandoned babies. <I>Sisters of the Infant Jesus Collection, courtesy of National Archives of Singapore.</i></div>
+
 Nineteenth-century Singapore was a thriving centre of commerce that held much promise. Soon after the British established a trading post in 1819, Singapore’s status as a free port and great emporium grew, attracting many who were drawn to the economic opportunities the island offered. Besides workers and merchants, the settlement also attracted Christian missionaries from the West who saw an opportunity to spread their message “among heathen and other unenlightened nations”[^1] in Asia.
 
 As early as 1820, missionary societies of various denominations began to dispatch their representatives to sow the seeds of the Christian faith in Singapore. The Protestants were among the earliest to arrive, establishing churches and printing presses, and evangelising through preaching on the streets and home visits. Over time, the Protestant missionaries started schools and provided medical and social services for the poor and the displaced. Catholic missionaries followed, and similarly established churches and schools in Singapore.
