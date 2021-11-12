@@ -29,3 +29,17 @@ The first female missionaries sent to Singapore from the West were well position
 #### **The London Missionary Society**
 
 The earliest female missionaries in Singapore were the wives of missionaries from the London Missionary Society (LMS), a Protestant society founded in London in 1795. One of the LMS’s most important contributions in Singapore, apart from the introduction of the printing press, was setting up schools.
+
+<div style="background-color: white;"><br><img src="/images/Vol-13-issue-4/women-on-a-mission/02_womenmission.jpg">Bessie Osborne, wife of a London Missionary Society (LMS) missionary William D. Osborne, who worked with the Indian leper community in Trivandrum, India, c. 1900−1910. LMS, founded in 1795 in London, is one of the earliest Christian missionary groups that went out to Asia to proselytise. <i>Image source: Wikimedia Commons.</i></div>
+
+Mrs Claudius Henry Thomsen, who accompanied her LMS missionary husband, Claudius Henry Thomsen, to Singapore, is credited for starting the first school for girls in 1822. Known as Malay Female School, it was designed chiefly as a day school for girls “of any class or denomination” where they were taught needlework, catechism, hymns and prayers, reading and writing in Malay, and arithmetic. Although the school had only six students, its establishment marked the beginning of formal education for girls in Singapore.[^9]
+
+The LMS missionaries went on to start several other schools here. In 1830, there was reportedly a school for Chinese girls under the care of a Miss Martin. Nine years later, in 1839, a boarding school for “girls of European fathers and Malay mothers” was established. It was run by Mrs A. Stronach and Mrs J. Stronach, wives of the Stronach brothers, Alexander and John, who were both LMS missionaries. The subjects taught included English and Malay languages, and hygiene. There are few surviving records of these schools beyond the dates when they were established. They were likely short-lived too and closed down when the LMS withdrew from Singapore in 1847.[^10]
+
+But one school started by the wife of an LMS missionary has survived until today. This was the Chinese Female Boarding School, established in 1842 by Mrs Maria Dyer (nee Tarn), wife of LMS missionary Reverend Samuel Dyer. Mrs Dyer had been in charge of several girls’ schools in Penang and Melaka in the 1820s and 1830s when the Dyers were posted there for missionary work. Mrs Dyer was prompted to start the school in Singapore when she moved here and encountered young girls being sold as slaves on the streets.[^11] The Chinese Female Boarding School began with 19 girls in a rented house in North Bridge Road, where they were given a basic education in English and homemaking skills.
+
+Mrs Dyer’s association with the school ended in 1844 when she left Singapore after the death of her husband. The school was placed in the care of Miss A. Grant, a missionary from the Society for the Promotion of Female Education in the East (SPFEE; see text box below) who took over the running of the school.
+
+Under Miss Grant, the school, which had been renamed Chinese Girls’ School, operated as an orphanage for unwanted girls as well as a boarding school.[^12] One of Miss Grant’s students was Yeo Choon Neo, the first wife of Song Hoot Kiam, the noted Peranakan community leader after whom Hoot Kiam Road is named.[^13]
+
+#### **Sophia Cooke**
