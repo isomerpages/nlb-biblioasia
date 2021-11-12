@@ -4,12 +4,12 @@ date: 2014-04-01
 permalink: /vol-10/issue-1/apr-jun-2014/journey-memory
 layout: post
 ---
-#### **Meira Chand** shares with us her experience writing A Different Sky; what it was like to study the memories of others – and what it was like to make them hers.
+#### **Meira Chand** shares with us her experience writing *A Different Sky* ; what it was like to study the memories of others – and what it was like to make them hers.
 
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-10-issue-1/journey/A_Different_Sky.jpg">
-A Different Sky was written by Meira Chand in 2010. Cover image courtesy of Meira Chand, published by Random House, UK</div>
+	<i>A Different Sky</i> was written by Meira Chand in 2010. Cover image courtesy of Meira Chand, published by Random House, UK</div>
 
 The filmmaker Luis Bunuel wrote, “Memory is what makes our lives. Our memory is our coherence, our reason, our feeling, even our action. Without it, we are nothing.”[^1]
 
@@ -33,7 +33,7 @@ We read fiction primarily for the pleasure of being told a story and being able 
 
 I realised then that I had started writing before I had completely digested the Singapore memory built up through research. It had not yet become ‘my memory’, an instinctive knowledge within me, like the real memories we all possess from our formative years. False and narrow though this memory was, not until it was completely absorbed, could I throw it over my shoulder and draw upon it unconsciously. Only then could I turn researched fact into convincing fiction.
 
-Historical truth, as far as we can understand it, rests not only upon recorded fact, but also upon the imaginative extension of our understanding of those facts. While historical record constructs the shape of the past, fiction creates a sense of experience. Now with my new found voice, I could at last call to the reader to listen, so that together we might relive an important memory, bringing it to life in the present, and illuminating its enduring relevance to ourselves in the way that only fiction can conjure. 
+Historical truth, as far as we can understand it, rests not only upon recorded fact, but also upon the imaginative extension of our understanding of those facts. While historical record constructs the shape of the past, fiction creates a sense of experience. Now with my newfound voice, I could at last call to the reader to listen, so that together we might relive an important memory, bringing it to life in the present, and illuminating its enduring relevance to ourselves in the way that only fiction can conjure. 
 
 <div style="background-color: white;">
 <br/>

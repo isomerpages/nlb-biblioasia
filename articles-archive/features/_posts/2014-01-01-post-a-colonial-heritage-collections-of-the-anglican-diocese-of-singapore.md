@@ -4,7 +4,6 @@ date: 2014-01-01
 permalink: /vol-9/issue-4/jan-march-2014/colonial-heritage
 layout: post
 ---
-
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-9-issue-4/colonial/IMG_2166-edit.jpg">
@@ -25,7 +24,7 @@ The <i>Singapore Diocesan Quarterly Leaflet</i>, Vol. 1, No. 2, May 1939. <i>Ima
 
 #### **The Straits Settlements Period**
 
-After Singapore, Malacca and Penang were brought together to form the Straits Settlements in 1826 and the colonial capital was established in Singapore, the Anglican church received its first fulltime Chaplain, Reverend Robert Burns. Subsequently, a year after the control of the Straits Settlements was transferred from Bengal (in India) to the Colonial Office in Britain, the first Colonial Chaplain, Reverend John Beckles, was appointed in 1868.
+After Singapore, Malacca and Penang were brought together to form the Straits Settlements in 1826 and the colonial capital was established in Singapore, the Anglican church received its first full-time Chaplain, Reverend Robert Burns. Subsequently, a year after the control of the Straits Settlements was transferred from Bengal (in India) to the Colonial Office in Britain, the first Colonial Chaplain, Reverend John Beckles, was appointed in 1868.
 
 The centre of authority for the Anglican church moved gradually from Calcutta to Southeast Asia when a United Diocese of Singapore, Labuan and Sarawak was formed in 1881. In the late 19th century, churches were increasingly established across the Peninsula, including Taiping (1887), Kuala Lumpur (1887) and Seremban (1893).[^1] This was a natural consequence as the Malay States opened up with the signing of the Pangkor Treaty in 1874 and the British started to establish themselves commercially, in businesses and plantations, in the Peninsula. During this time, local Tamils and Chinese from various dialect groups began joining the Anglican church.
 
@@ -58,23 +57,26 @@ These digitised resources are available for onsite viewing at the National Libra
 
 Besides these rare items are limited numbers of photo albums, architectural drawings and various handwritten letters and records. The Anglican Archives continues to grow as it receives and collects invaluable materials such as <i>The Courier</i>, the St Andrew’s Cathedral’s magazine published since 1915, and several other publications from various churches within its fold. The Anglican Archives is open to researchers who make advance appointments. 
 
-|**The Singapore Diocesan Magazine (Diocesan Digest)**|
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> 
+<b>THE SINGAPORE DIOCESAN MAGAZINE (DIOCESAN DIGEST)</b>
+<br><br>
+First published as the <i>Singapore Diocesan Magazine</i> in November 1910,[^6] it was “a quarterly record of church work etc. in the Diocese”.[^7] The Diocese of Singapore, formed in 1909, had extended beyond the Straits Settlements to include the Federated Malay States, Java and Siam (Thailand). The first issue noted how the <i>Singapore Diocesan Magazine</i> was inspired because “we in the Church of England seemed to know very little about each other’s doings, and in consequence were not sufficiently united.” The quarterly thus gave updates on recent church activities and events in each district as well as in the church-run homes, schools and institutions along with appointments of both clerics and laity. The digitised collection spans from the first issue of 1910 until Volume 27, Number 104 of November 1936. The magazine continues today as the <i>Diocesan Digest</i>.
+<br><br>
+<img style="width:50%" src="/images/vol-9-issue-4/colonial/singapore_diocesan_magazine1.jpg">Cover page of the first issue of the Singapore Diocesan Magazine. <i>Courtesy of the Archives of the Anglican Diocese of Singapore</i>.</span>
 
-|First published as the <i>Singapore Diocesan Magazine</i> in November 1910,[^6] it was “a quarterly record of church work etc. in the Diocese”.[^7] The Diocese of Singapore, formed in 1909, had extended beyond the Straits Settlements to include the Federated Malay States, Java and Siam (Thailand). The first issue noted how the <i>Singapore Diocesan Magazine</i> was inspired because “we in the Church of England seemed to know very little about each other’s doings, and in consequence were not sufficiently united.” The quarterly thus gave updates on recent church activities and events in each district as well as in the church-run homes, schools and institutions along with appointments of both clerics and laity. The digitised collection spans from the first issue of 1910 until Volume 27, Number 104 of November 1936. The magazine continues today as the <i>Diocesan Digest</i>.|
 
-|<img src="/images/vol-9-issue-4/colonial/singapore_diocesan_magazine.jpg">Cover page of the first issue of the Singapore Diocesan Magazine. <i>Courtesy of the Archives of the Anglican Diocese of Singapore</i>.|
-
-|**St Andrew's Cathedral**|
-
-|The location where St Andrew’s Cathedral now stands was selected by Sir Stamford Raffles in 1823. Prior to the construction of St Andrew’s Cathedral stood the St Andrew’s Church, which was designed by George D. Coleman and completed in 1836. The building was deemed unsafe in 1852 — after being struck twice by lighting — and was eventually demolished.|
-
-|St Andrew’s Cathedral as we know it today was designed by Lieutenant-Colonel Ronald MacPherson and built between 1856 and 1864 by Indian convict labourers. Interestingly, the walls are plastered with a material called Madras chunam, a mixture of egg white, coarse sugar, lime, coconut husk and water that has weathered surprisingly well in Singapore’s tropical climate.|
-
-|During the Japanese Occupation, church services ceased as the cathedral acted as an emergency hospital, treating casualties of the frequent bombings. A memorial plaque stands in the church grounds, commemorating Malayan Civil Service officials who died in World War II.|
-
-|St Andrew’s Cathedral is the oldest Anglican house of worship in Singapore and was gazetted as a national monument in 1973.|
-
-|<img src="/images/vol-9-issue-4/colonial/cathedral.jpg">St Andrew's Cathedral. <i>chooyutshing, via Flickr.</i>|
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> 
+<b>ST ANDREW'S CATHEDRAL</b>
+<br><br>
+The location where St Andrew’s Cathedral now stands was selected by Sir Stamford Raffles in 1823. Prior to the construction of St Andrew’s Cathedral stood the St Andrew’s Church, which was designed by George D. Coleman and completed in 1836. The building was deemed unsafe in 1852 — after being struck twice by lighting — and was eventually demolished.
+<br><br>
+St Andrew’s Cathedral as we know it today was designed by Lieutenant-Colonel Ronald MacPherson and built between 1856 and 1864 by Indian convict labourers. Interestingly, the walls are plastered with a material called Madras chunam, a mixture of egg white, coarse sugar, lime, coconut husk and water that has weathered surprisingly well in Singapore’s tropical climate.
+<br><br>
+During the Japanese Occupation, church services ceased as the cathedral acted as an emergency hospital, treating casualties of the frequent bombings. A memorial plaque stands in the church grounds, commemorating Malayan Civil Service officials who died in World War II.
+<br><br>
+St Andrew’s Cathedral is the oldest Anglican house of worship in Singapore and was gazetted as a national monument in 1973.
+<br><br>
+<img src="/images/vol-9-issue-4/colonial/cathedral.jpg">St Andrew's Cathedral. <i>chooyutshing, via Flickr.</i></span>
 
 <i>The author would like to thank Ms Lau Jen Sin and Reverend Canon Soon Soo Kee for reviewing this article.</i>
 

@@ -11,11 +11,11 @@ layout: post
 <img src="/images/vol-10-issue-3/tales/cover.jpg">
 Lot’s Wife and W. W. Ker’s house on Bukit Chermin in 1845 or 1848. <i>Courtesy of National Museum of Singapore, National Heritage Board.</i></div>
 
-The strait runs between the two hills of the Tan-ma-hsi barbarians, which look like “dragon teeth”. Through the centre runs a waterway. The fields are barren and there is little padi. The climate is hot with very heavy rains in the fourth and fifth moons. The inhabitants are addicted to piracy. In ancient times, when digging the ground, a chief came upon a jewelled head-dress. The beginning of the year is calculated from the [first] rising of the moon, when the chief put on his head-gear and wore his [ceremonial] dress to receive the congratulations [of the people]. Nowadays this custom is still continued. The natives and the Chinese dwell side-by-side. Most [of the natives] gather their hair in chignons, and wear short cotton bajus girded about with black cotton sarong.
+The strait runs between the two hills of the Tan-ma-hsi barbarians, which look like “dragon teeth”. Through the centre runs a waterway. The fields are barren and there is little padi. The climate is hot with very heavy rains in the fourth and fifth moons. The inhabitants are addicted to piracy. In ancient times, when digging the ground, a chief came upon a jewelled headdress. The beginning of the year is calculated from the [first] rising of the moon, when the chief put on his head-gear and wore his [ceremonial] dress to receive the congratulations [of the people]. Nowadays this custom is still continued. The natives and the Chinese dwell side-by-side. Most [of the natives] gather their hair in chignons, and wear short cotton bajus girded about with black cotton sarong.
 
 Indigenous products include coarse lakawood and tin. The goods used in trade are red gold, blue satin, cotton prints, Ch’u [chou-fu] porcelain, iron caldrons and suchlike things. Neither fine products nor rare objects come from here. All are obtained from intercourse with Ch’üan-chou traders. 
 
-When junks sail to the Western Ocean, the local barbarians allow them to pass unmolested but when on their return the junks reach Chi-limen (Karimon), [then] the sailors prepare their armour and padded screens as a protection against arrows for, of a certainty, some two or three hundred pirate prahus will put out to attack them for several days. Sometimes [the junks] are fortunate enough to escape with a favouring wind; otherwise the crews are butchered and the merchandise made off with in quick time.[^1]
+When junks sail to the Western Ocean, the local barbarians allow them to pass unmolested but when on their return the junks reach Chi-limen (Karimon), [then] the sailors prepare their armour and padded screens as a protection against arrows for, of a certainty, some two or three hundred pirate prahus will put out to attack them for several days. Sometimes [the junks] are fortunate enough to escape with a favouring wind; otherwise the crews are butchered and the merchandise made off within quick time.[^1]
 
 <div style="background-color: white;">
 <br/>
@@ -56,8 +56,8 @@ Map of the environs of ancient Singapore. Based on descriptions in the <i>Dao Yi
 <img src="/images/vol-10-issue-3/tales/Kappel_Habour.jpg">
 Construction of the new harbour in the 1880s, which was renamed Keppel Harbour in 1900. <i>Courtesy of National Archives of Singapore.</i></div>
 
-<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba; display:block; font-size:1rem; line-height:1.5rem;"> 
-<b>Who Was Wang Dayuan?</b>
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> 
+<b>WHO WAS WANG DAYUAN?</b>
 <br><br>
 Wang Dayuan, also known as Huanzhang (焕章), was born around 1311 in Nanchang (南昌), a prosperous port in Jiangxi (江西) Province, Quanzhou, China.[^13] He was the first Chinese to write extensively about Southeast Asia based on his personal experiences and published them in <i>Dao Yi Zhi Lue</i> (《岛夷志略》or <i>Description of the Barbarians of the Isles in Brief).</i> Before Wang’s book, there were several travel accounts written by others. However, these accounts were either based on hearsay or not as extensively documented as Wang’s list of 99 locations.[^14] Furthermore, Wang’s book contains the earliest surviving eyewitness account of ancient Singapore.[^15] These factors make <i>Dao Yi Zhi Lue</i> a valuable source on the pre-colonial history of Southeast Asia and Singapore.
 <br><br>

@@ -60,13 +60,13 @@ With the imminent outbreak of World War II, Poh Yan permanently closed the studi
 
 The last of the family’s photographic enterprises to survive was Wah Heng and Co., importers of photographic materials at 95 North Bridge Road, of which King Yan, Poh Yan and their many cousins were shareholders. The firm stocked a “remarkable range of goods” for both beginners and experts in photography, and did business “throughout the Straits Settlements, Federated Malay States and the Dutch East Indies”.[^8]
 
-#### **Studio Portraits**
-
-The Lee brothers were practitioners of a tradition that began with the invention of photography by Frenchman Louis Daguerre in 1839. The possibilities of studio portraiture were seized upon as the most exciting benefit of the new invention. The daguerreotype photographic method spread quickly and became available in Singapore by 1843 when G. Dutronquoy, proprietor of the London Hotel, placed an advertisement in *The Singapore Free Press and Mercantile Advertiser* on 4 December 1843, promising that a picture can be taken “in the astonishing short space of two minutes”, “free from all blemish” and “in every respect perfect likenesses”.[^9]
-
 <img src="/images/Vol-14-issue-1/portraits-from-lee-bros-studio/Portraits5.JPG">
 <div style="background-color: white;">(Left) Lee King Yan with his wife and children, 1919. <i>Lee Brothers Studio Collection, courtesy of National Archives of Singapore.</i><br>
 (Right) Lee Poh Yan (holding child on lap) with his wife and children, c.1930. <i>Lee Brothers Studio Collection, courtesy of National Archives of Singapore.</i></div>
+
+#### **Studio Portraits**
+
+The Lee brothers were practitioners of a tradition that began with the invention of photography by Frenchman Louis Daguerre in 1839. The possibilities of studio portraiture were seized upon as the most exciting benefit of the new invention. The daguerreotype photographic method spread quickly and became available in Singapore by 1843 when G. Dutronquoy, proprietor of the London Hotel, placed an advertisement in *The Singapore Free Press and Mercantile Advertiser* on 4 December 1843, promising that a picture can be taken “in the astonishing short space of two minutes”, “free from all blemish” and “in every respect perfect likenesses”.[^9]
 
 In the 1860s, portrait photography was further invigorated by the introduction of the inexpensive carte-de-visite in France. Originally intended as a visiting card with a photographic portrait mounted on it, such cards were later produced in great numbers for friends’ albums.[^10] A further revolution took place not long after with the introduction of superior paper photographs made with the wet collodion process, or wet plate process. This new method gave a high-quality negative on glass with excellent resolution of detail from which an unlimited number of prints could be made.[^11]
 
@@ -95,13 +95,12 @@ In many of the portraits found in the collection – all of which were taken cir
 *All photos are from the Lee Brothers Studio Collection. Identities of the subjects are unknown as these photos are unrecorded excess or uncollected prints kept by the Lee Brothers Studio.*
 
 
-<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> 
-This is an abridged version of the introductory chapter by Gretchen Liu from the book, <i>From the Family Album: Portraits from the Lee Brothers Studio, Singapore 1910–1925</i>, published by Landmark Books in collaboration with National Archives in 1995. The book is available for reference and loan at the Lee Kong Chian Reference Library and selected public libraries. (Call nos.: SING 779.26095957 FRO and RSING 779.26095957 FRO)
-</div>
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
+This is an abridged version of the introductory chapter by Gretchen Liu from the book, <i>From the Family Album: Portraits from the Lee Brothers Studio, Singapore 1910–1925</i>, published by Landmark Books in collaboration with National Archives in 1995. The book is available for reference and loan at the Lee Kong Chian Reference Library and selected public libraries. ([Call nos.: SING 779.26095957 FRO and RSING 779.26095957 FRO](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7259582))
+</span>
 
 <br>
 <div style="background-color: white;">
-<img src="/images/Vol-14-issue-1/portraits-from-lee-bros-studio/Portraits10.JPG" style="width: 100px; height: 100px;">
 <b>Gretchen Liu</b> is a former journalist and book editor as well as the author of several illustrated books, including <i>Pastel Portraits: Singapore’s Architectural Heritage</i>, <i>Singapore: A Pictorial History 1819–2000</i> and the official book on the Raffles Hotel. Liu first knew of the Lee Brothers Collection in 1987 through her friendship with one of Lee Poh Yan’s granddaughters.
 </div>
 

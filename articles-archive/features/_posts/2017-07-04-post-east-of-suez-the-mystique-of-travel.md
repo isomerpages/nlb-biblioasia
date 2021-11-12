@@ -37,8 +37,6 @@ For Europeans and Americans in the 1920s, newly affluent and with an insatiable 
 
 Brochures from the major shipping lines of the era, as well as independent tour agencies such as Thomas Cook & Son, Raymond & Whitcomb Company and American Express’ Travel Department, reinforced this impression of the East as an exotic and idyllic haven, often describing the passage East with words and phrases that invoked a return to innocence, or at least to a simpler and more spiritual existence.
 
-<div style="background-color: white;"><img style="width:400px" src="/images/Vol-13-issue-2/east-of-suez/03_suez.png">In response to an increased demand for travel, shipping lines and tour agencies began to offer roundthe- world cruises as early as the 1910s. This is an advertisement from the Peninsular & Oriental Steam Navigation Company promoting its round-the-world tours and cruises to the exotic Far East. <i>Kennie Ting Collection.</i></div>
-
 Mind-boggling distances and unfamiliar cultures were rendered far more manageable and immediate through detailed descriptions and evocative photographs that brought the locale to life on paper to the would-be traveller. The journey itself was promoted as one of discovery, both of uncharted territory and of the self. By undertaking these passages East, the average upper middle-class European or American could fancy him or herself as following in the illustrious footsteps of great explorers, adventurers and travel writers before them. To aspire was to explore.
 
 #### **When Travel was Leisure**
@@ -53,11 +51,13 @@ Unlike the historic Grand Tours of continental Europe, which began in the late 1
 
 The customary stops on Grand Tours of the East depended in large part on the Colonial Empire from which the traveller hailed. Generally, the tour took in a handful of major port cities – Bombay, Colombo, Calcutta, Rangoon, Singapore, Batavia, Saigon, Hanoi, Manila, Hong Kong, Macao, Tientsin, Shanghai and others, before terminating in the treaty port cities of Kobe or Yokohama in Japan. Those with time and money to spare would use these port cities as a base, from which to take excursions to major historic sites and centres of culture – the palaces of Rajasthan, the ruins of Bagan, Angkor, Borobudur and Ayutthaya, and the imperial cities of Peking and Tokyo.
 
-<div style="background-color: white;"><img style="width:800px" src="/images/Vol-13-issue-2/east-of-suez/04_suez.jpg">Batavia and Shanghai were popular ports of call for tourists on the Grand Tour of the East. [Left] The Amsterdam Gate in Batavia, which existed from 1744 to the 1950s, formed the entrance to the Castle Square south of Batavia Castle. [Right] This is a view of the historic Bund, the waterfront area in Shanghai that runs alongside the Huangpu River. <i>Both photos are from the Kennie Ting Collection.</i></div>
+<div style="background-color: white;"><img style="width:800px" src="/images/Vol-13-issue-2/east-of-suez/04_suez.jpg">Batavia and Shanghai were popular ports of call for tourists on the Grand Tour of the East. (Left) The Amsterdam Gate in Batavia, which existed from 1744 to the 1950s, formed the entrance to the Castle Square south of Batavia Castle. (Right) This is a view of the historic Bund, the waterfront area in Shanghai that runs alongside the Huangpu River. <i>Both photos are from the Kennie Ting Collection.</i></div>
 
 Southeast Asia – or the East Indies, as this part of the world was known then – was an important stopover between India and the Far East, not least because of its geographical location between the two areas. Rather, the East Indies was important because it was here, in this far-flung landscape of peninsulas and archipelagos, that major colonial European powers had carved out significant territories to leave their imprint. Southeast Asia, in other words, was an extension of Europe (and America) itself, and its cities familiar re-creations of the imperial cities back home – London, Paris, Amsterdam – offering respite to the Grand Tourist in between the vast, alien expanses of India and China.
 
 The cruise liner market was dominated by a few major shipping companies, most of which were considered “national” lines, much like the national airline carriers of today. The largest of these companies was the Peninsula & Oriental Steam Navigation Company, better known as P & O, established in 1837 in Southampton, England, to deliver mail on behalf of the British Empire to the Iberian Peninsula, and subsequently to the city of Alexandria. From Egypt, the company expanded its operations out East as far as China and Japan, acquiring and merging with other steamship companies to secure its position as the foremost shipping line in the world by the early 1900s.
+
+<div style="background-color: white;"><img style="width:400px" src="/images/Vol-13-issue-2/east-of-suez/03_suez.png">In response to an increased demand for travel, shipping lines and tour agencies began to offer round-the- world cruises as early as the 1910s. This is an advertisement from the Peninsular & Oriental Steam Navigation Company promoting its round-the-world tours and cruises to the exotic Far East. <i>Kennie Ting Collection.</i></div>
 
 The other colonial powers had P & O equivalents: the French Compagnie des Méssageries Maritimes (literally “maritime packet company”), more commonly known as Méssageries Maritimes, was established in 1851. Headquartered in the Mediterranean port city of Marseille in France, their “paquebots” (as the French called their steamships) were to be seen in all major port cities in the Middle East, and by the 1900s, with Saigon in Vietnam as its second headquarters, also in the Far East.
 
@@ -73,8 +73,8 @@ Everyday life on board the ship typically revolved around food and entertainment
 
 In between meals, social activity centred on the common spaces: open-air promenade decks, the lounge halls and the smoking rooms, the latter restricted only to first-class male passengers, who would idle their time away on card games, drinks and conversation, all the while puffing away on a cigar or cigarette.
 
-<div style="background-color: white;"><img style="width:800px" src="/images/Vol-13-issue-2/east-of-suez/05a_suez.jpg">[Left] Passengers dressed in their best on a cruise liner belonging to the German-owned Norddeutscher Lloyd company in 1912. Cruising was very much a formal affair then, with male passengers dressed in suits, and ladies in neck-to-ankle blouse and skirt ensembles and extravagant large hats. <i>John Koh Collection.</i><br>
-[Right] Dining Hall of a cruise ship belonging to the American President Lines c.1920s. Life on board the ship typically revolved around food and entertainment. Guests in the grand dining rooms would be treated to multi-course meals to the accompaniment of resident musical ensembles. <i>John Koh Collection.</i></div>
+<div style="background-color: white;"><img style="width:800px" src="/images/Vol-13-issue-2/east-of-suez/05a_suez.jpg">(Left) Passengers dressed in their best on a cruise liner belonging to the German-owned Norddeutscher Lloyd company in 1912. Cruising was very much a formal affair then, with male passengers dressed in suits, and ladies in neck-to-ankle blouse and skirt ensembles and extravagant large hats. <i>John Koh Collection.</i><br>
+(Right) Dining Hall of a cruise ship belonging to the American President Lines c.1920s. Life on board the ship typically revolved around food and entertainment. Guests in the grand dining rooms would be treated to multi-course meals to the accompaniment of resident musical ensembles. <i>John Koh Collection.</i></div>
 
 Between the 1900s and 1920s, social life on board ships became more varied as the ships became larger and social mores grew more relaxed. In the 1910s, male passengers would have been uncomfortably garbed in stiff suits, while ladies would be dressed in stifling corsets, and neck-to-ankle blouse and skirt ensembles with high boots and extravagant large hats. Interaction between the sexes would have been polite, guarded by modesty.
 
@@ -84,9 +84,9 @@ While social convention still held sway on land, once aboard these ships, no hol
 
 #### **Life in the Grand Hotels**
 
-When the ships docked, Grand Hotels would take centrestage, and each city on the Grand Tour of the East boasted its own *grande* dame of the hospitality scene. The hotels were glorious, opulent establishments that catered to the fastidious needs of the Grand Tourists, who, having to travel for weeks or months at a time, often recreated their pampered lifestyles on board, complete with dozens of trunks of luggage and their favourite maids or man servants.
+When the ships docked, Grand Hotels would take centrestage, and each city on the Grand Tour of the East boasted its own *grande dame* of the hospitality scene. The hotels were glorious, opulent establishments that catered to the fastidious needs of the Grand Tourists, who, having to travel for weeks or months at a time, often recreated their pampered lifestyles on board, complete with dozens of trunks of luggage and their favourite maids or man servants.
 
-<div style="background-color: white;"><img style="width:800px" src="/images/Vol-13-issue-2/east-of-suez/06_suez.png">Each city on the Grand Tour of the East had its own grande dame of the hospitality scene. The hotels were glorious, opulent establishments that catered to the fastidious needs of the Grand Tourists who, having to travel for weeks or months at a time, often recreated their pampered lifestyles wherever they stayed. Pictured here is the majestic Taj Mahal Hotel in Bombay, India. <i>Kennie Ting Collection.</i></div>
+<div style="background-color: white;"><img style="width:800px" src="/images/Vol-13-issue-2/east-of-suez/06_suez.png">Each city on the Grand Tour of the East had its own <i>grande dame</i> of the hospitality scene. The hotels were glorious, opulent establishments that catered to the fastidious needs of the Grand Tourists who, having to travel for weeks or months at a time, often recreated their pampered lifestyles wherever they stayed. Pictured here is the majestic Taj Mahal Hotel in Bombay, India. <i>Kennie Ting Collection.</i></div>
 
 Boasting “European style” amenities that included full suites with separate living/ dining, sleeping and washing areas, and the latest technologies like electricity and water closets (what flush toilets were called in those days), these establishments were more like homes away from home, rather than the hotels or guest-houses travellers today are more accustomed to. Guests would reside for weeks or months at a time, reading books, writing letters, entertaining guests or trading gossip.
 
@@ -102,8 +102,8 @@ Notable personalities linked to the Grand Hotels were not limited to guests alon
 
 There were four brothers: Martin, the eldest, was the first to arrive in Malaya, but it was Tigran, the second brother with an entrepreneurial streak, who co-founded with Martin in 1885 the company Sarkies Brothers and established the Eastern & Oriental (E & O) Hotel in Penang that same year. This was followed by the Raffles Hotel in Singapore two years later. Aviet, the third brother, would establish the Strand Hotel in Rangoon in 1901, while the youngest brother, Arshak, would take over the reins of managing the E & O in Penang, becoming the brother who was most indelibly linked to that establishment.
 
-<div style="background-color: white;"><img style="width:700px" src="/images/Vol-13-issue-2/east-of-suez/07_suez.png">[Left] The Sarkies Brothers from New Julfa, an Armenian enclave in the Persian city of Isfahan, owned luxury hotels in the major Southeast Asian cities. These included the Raffles Hotel in Singapore, the Strand Hotel in Rangoon, and the E & O and Crag hotels in Penang. Staying at one of these Grand Hotels became an integral part of the Grand Tour, with these lodgings serving as homes away from home for the Grand Tourists. <i>Kennie Ting Collection.</i><br>
-[Right] A view of the Manila Hotel in Manila, the Philippines, from the river. The hotel still stands today and has been refurbished to its former glory. <i>Kennie Ting Collection.</i></div>
+<div style="background-color: white;"><img style="width:700px" src="/images/Vol-13-issue-2/east-of-suez/07_suez.png">(Left) The Sarkies Brothers from New Julfa, an Armenian enclave in the Persian city of Isfahan, owned luxury hotels in the major Southeast Asian cities. These included the Raffles Hotel in Singapore, the Strand Hotel in Rangoon, and the E & O and Crag hotels in Penang. Staying at one of these Grand Hotels became an integral part of the Grand Tour, with these lodgings serving as homes away from home for the Grand Tourists. <i>Kennie Ting Collection.</i><br>
+(Right) A view of the Manila Hotel in Manila, the Philippines, from the river. The hotel still stands today and has been refurbished to its former glory. <i>Kennie Ting Collection.</i></div>
 
 By the early 1900s, the Sarkies Brothers were the leading hoteliers in the East, counting, among their properties, not just the Raffles, the E & O and the Strand, but also the Crag Hotel in Penang, and the Seaview Hotel and the Raffles Tiffin Room in Singapore. A cousin managed the Adelphi Hotel in Singapore – yet another grand hotel establishment. In the meantime, a Javanese branch of the Sarkies family was established, headed by Martin’s son, Lucas Martin Sarkies, who would go on to helm the fabled Oranje Hotel (today’s Hotel Majapahit) in the port city of Soerabaja – Java’s great metropolis.
 
@@ -113,8 +113,8 @@ Thankfully, these Grand Hotels established by the Messrs Sarkies and their relat
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="images/Vol-13-issue-2/east-of-suez/kennie.png">
-<b>Kennie Ting</b> is the Director of the Asian Civilisations Museum and Group Director of Museums at the National Heritage Board. He is the author of the book, "The Romance of the Grand Tour: 100 Years of Travel in South East Asia" which explores the colonial heritage of Southeast Asian port cities and the history of travel to the East.
+<img style="width: 100px; height: 100px;" src="/images/Vol-13-issue-2/east-of-suez/kennie1.png">
+<b>Kennie Ting</b> is the Director of the Asian Civilisations Museum and Group Director of Museums at the National Heritage Board. He is the author of the book, <i>The Romance of the Grand Tour: 100 Years of Travel in South East Asia</i> which explores the colonial heritage of Southeast Asian port cities and the history of travel to the East.
 </div>
 
 <a href="/vol-13/issue-2/jul-sep-2017/"><center>Back to Issue</center></a>
@@ -139,7 +139,7 @@ Crawfurd, J. (1830). *[Journal of an embassy from the governor-general of India 
 
 Deakes, C., & Stanley, T. (2013). *A century of sea travel: Personal accounts from the steamship era*. UK: Seaforth Publishing. (Not available in NLB holdings)
 
-Du Perron, E. (1984). *[Country of origin](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=2940856)* (Het land van herkomst). Amherst: University of Massachusetts Press. (Call no.: RCLOS 839.3136219 PER)
+Du Perron, E. (1984). *[Country of origin](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=2940856)* (*Het land van herkomst*). Amherst: University of Massachusetts Press. (Call no.: RCLOS 839.3136219 PER)
 
 Duras, M. (1985). *[The lover](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=3320369)* (*L’Amant*). New York: Pantheon Books. (Call no.: RSEA 843.912 DUR)
 
@@ -151,7 +151,7 @@ Kipling, R. (1892). Mandalay. In R. Kipling. (1892), *Barrack-room ballads, and 
 
 Liu, G. (2006). *[Raffles Hotel](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12691300)*. Singapore: Editions Didier Millet. (Call no.: RSING q915.9570613 LIU-[TRA])
 
-Loti, P. (1999). *[A pilgrimage to Angkor](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12338945)* (Un pèlerin d’angkor). Chiang Mai: Silkworm Books, (Call no.: RSEA 915.9604 LOT-[TRA])
+Loti, P. (1999). *[A pilgrimage to Angkor](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12338945)* (*Un pèlerin d’angkor*). Chiang Mai: Silkworm Books, (Call no.: RSEA 915.9604 LOT-[TRA])
 
 Malraux, A. (1961). *The royal way (La voie royale)*. New York: Random House. (Not available in NLB holdings)
 

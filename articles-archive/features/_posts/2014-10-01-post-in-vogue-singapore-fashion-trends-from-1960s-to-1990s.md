@@ -30,7 +30,7 @@ Here are some key trends through the decades:
 
 The 1960s began with modest hemlines that stopped just below the knee. As a reflection of Singapore’s cosmopolitan culture, local designs combined traditional ethnic elements with foreign influences as exemplified in the <i>cheongsam</i> and <i>kebaya</i> with modern or Western twists, or dresses made from <i>sari</i> fabric. The designs usually featured figure-hugging silhouettes, such as puffy skirts with cinched waists.
 
-The unmanned moon landings in the early 1960s by the Soviet Union and United States stirred great excitement internationally and inspired fashion influenced by space-age elements. In 1964, fashion label Courrèges launched the Moon Girl, who donned “white kid boots, silversequinned pants or knee-length A-line dresses with dramatic cut-outs usually in brilliant white.” 
+The unmanned moon landings in the early 1960s by the Soviet Union and United States stirred great excitement internationally and inspired fashion influenced by space-age elements. In 1964, fashion label Courrèges launched the Moon Girl, who donned “white kid boots, silver sequinned pants or knee-length A-line dresses with dramatic cut-outs usually in brilliant white.” 
 
 Upstart British fashion designer Mary Quant made the world sit up with “The Mini” skirt the following year, which saw hemlines raised to an unprecedented high. As hemlines moved upwards, waistlines plunged downwards, with the drop-waist design much in favour then. The head-turning mini hemline was soon accompanied by the emergence of a simple bodice devoid of any form-fitting lines – the classical A-line shift dress (also called a swing dress).
 
@@ -56,14 +56,14 @@ Around the same time, hemlines went to the other extreme with the maxi dress, a 
 
 The “gypsy” look, which could be created by accessorising with ethnic tunics, capes and kaftans, was also popular during this time. Pleats, ruffles and frills were also favourite trimmings used to embellish garments during this period.
 
-Other defining looks of the decade were bell-bottom trousers and “pantsuits”. Trouser legs began to flare gradually and eventually reached the wide bell-bottom look by the mid 1970s. Thereafter they slowly morphed into straight and wide cuts, before reverting to a narrow-cut silhouette by the early 1980s.
+Other defining looks of the decade were bell-bottom trousers and “pantsuits”. Trouser legs began to flare gradually and eventually reached the wide bell-bottom look by the mid-1970s. Thereafter they slowly morphed into straight and wide cuts, before reverting to a narrow-cut silhouette by the early 1980s.
 
 The local fashion scene was extremely vibrant towards the end of the 1970s, with fashion shows held at upscale venues such as Grand Hyatt, Hilton, Holiday Inn, Raffles Hotel and the Mandarin Orchard. In 1979, European fashion houses Louis Vuitton, Gucci and Christian Dior each opened their first boutiques in the city-state. These laid the foundation for Singapore’s fashion world to enter its golden era in the next decade.
 
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-10-issue-3/sgfashion/Flared-leg_pants.jpg">
-Flared-leg pants, such as bell-bottoms, were styles characteristic of the 1970s. <i>Fashionable Clothing from the Sears Catalogs:</i> mid 1970s, p. 42. <i>All rights reserved, Schiffer Publishing Ltd, Pennsylvania, 2014.</i></div>
+Flared-leg pants, such as bell-bottoms, were styles characteristic of the 1970s. <i>Fashionable Clothing from the Sears Catalogs:</i> mid-1970s, p. 42. <i>All rights reserved, Schiffer Publishing Ltd, Pennsylvania, 2014.</i></div>
 
 #### **1980s Power Dressing**
 

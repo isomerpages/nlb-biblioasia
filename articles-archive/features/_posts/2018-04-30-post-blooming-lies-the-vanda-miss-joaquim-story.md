@@ -1,41 +1,44 @@
 ---
 title: "Blooming Lies: The Vanda Miss Joaquim Story"
 date: 2018-04-30
-permalink: /vol-14/issue-1/apr-jun-2018/blooming-lies-vda-st/
+permalink: /vol-14/issue-1/apr-jun-2018/blooming-lies-vandaj/
 layout: post
 ---
 #### Is the *Vanda* Miss Joaquim a human-made hybrid or a happy accident? In this cautionary tale, **Nadia Wright, Linda Locke and Harold Johnson** recount how fiction becomes truth when it is repeated often enough.
 
-<img style="width: 380px; height: 350px;" src="/images/Vol-14-issue-1/blooming-lies/Blooming1.JPG">
-<div style="background-color: white;"></div>
+<img style="width: 400px; height: 450px;" src="/images/Vol-14-issue-1/blooming-lies/Blooming1.JPG">
+<div style="background-color: white;">Vanda x Miss Joaquim. <i>Image source: Linden, J., & Linden, L. (1897). Lindenia Iconographie des Orchidées (Series 2, vol. 13).</i></div>
 
 *While doing research on the Armenian community in Singapore back in the 1990s, Australian historian Nadia Wright read an account of how the daughter of a prominent Armenian family in Singapore, Agnes Joaquim[^1] (Ashken Hovagimian), had stumbled upon a never-before-seen orchid bloom by accident in the family garden.*
 
-*In the authoritative The Gardeners’ Chronicle, published on 24 June 1893, however, Henry Nicholas Ridley, the first Director of the Singapore Botanic Gardens (1888−1911) stated unequivocally that Agnes Joaquim had crossed two different orchids, the Vanda Hookeriana with the Vanda teres and produced the orchid which he later named Vanda Miss Joaquim.[^2] Intrigued as to why Ridley’s account had been replaced by a tale of chance discovery in various stories about the flower in Singapore, Wright decided to investigate.*
+*In the authoritative* The Gardeners’ Chronicle, *published on 24 June 1893, however, Henry Nicholas Ridley, the first Director of the Singapore Botanic Gardens (1888−1911) stated unequivocally that Agnes Joaquim had crossed two different orchids, the* Vanda Hookeriana *with the* Vanda teres *and produced the orchid which he later named* Vanda *Miss Joaquim.[^2] Intrigued as to why Ridley’s account had been replaced by a tale of chance discovery in various stories about the flower in Singapore, Wright decided to investigate.*
+
+<img style="width: 450px; height: 300px;" src="/images/Vol-14-issue-1/blooming-lies/Blooming7.JPG">
+<div style="background-color: white;">Agnes Joaquim succeeded in crossing <i>Vanda Hookeriana</i> (left)  with <i>Vanda teres</i> (right) to create the hybrid <i>Vanda</i> Miss Joaquim. <i>Photos by David Lim. Courtesy of the National Parks Board.</i></div>
 
 #### **The Birth of a Bloom**
 
 In 1893, Agnes Joaquim, or possibly her brother Joe (Joaquim P. Joaquim), showed Henry Ridley a new orchid. After carefully examining the bloom, having it sketched, and preserving a specimen in the herbarium of the Botanic Gardens, Ridley sent an account of the orchid’s origin and appearance to *The Gardeners’ Chronicle*, a respected English horticulture periodical founded in 1841. He wrote:
 
-“A few years ago Miss Joaquim, a lady residing in Singapore, well-known for her success as a horticulturist, succeeded in crossing Vanda Hookeriana, Rchb. f., and V. teres, two plants cultivated in almost every garden in Singapore. Unfortunately, no record was kept as to which was used as the male. The result has now appeared in the form of a very beautiful plant, quite intermediate between the two species and as I cannot find any record of this cross having been made before, I describe it herewith”.[^3]
+“A few years ago Miss Joaquim, a lady residing in Singapore, well-known for her success as a horticulturist, succeeded in crossing Vanda Hookeriana, Rchb. f., and V. teres, two plants cultivated in almost every garden in Singapore. Unfortunately, no record was kept as to which was used as the male. The result has now appeared in the form of a very beautiful plant, quite intermediate between the two species and as I cannot find any record of this cross having been made before, I describe it herewith.”[^3]
 
 <img style="width: 350px; height: 450px;" src="/images/Vol-14-issue-1/blooming-lies/Blooming2.JPG">
-<div style="background-color: white;">This is the first published image of the Vanda Miss Joaquim. <i>Image source: The Gardeners’ Chronicle, 26 June 1897, p. 427, Biodiversity Heritage Library. Digitised by UMass Amherst Libraries.</i></div>
+<div style="background-color: white;">This is the first published image of the <i>Vanda</i> Miss Joaquim. <i>Image source: The Gardeners’ Chronicle, 26 June 1897, p. 427, Biodiversity Heritage Library. Digitised by UMass Amherst Libraries.</i></div>
 
-In an 1894 paper delivered to the prestigious Linnean Society in England, Ridley reiterated that *Vanda Hookeriana* had been “successfully crossed” with *V. teres, Lindl*., “producing a remarkably handsome offspring, *V. x Miss Joaquim*.” This paper was published unaltered in 1896.[^4]  Ridley, who lived to be 100 years old, never wavered in his statement. When Isaac Henry Burkill (Ridley’s successor at the Botanic Gardens) checked all of Ridley’s herbarium specimens and redid the labels, he saw no reason to dispute Ridley and recorded Joaquim as the creator.
+In an 1894 paper delivered to the prestigious Linnean Society in England, Ridley reiterated that *Vanda Hookeriana* had been “successfully crossed” with *V. teres, Lindl*., “producing a remarkably handsome offspring, *V. x Miss Joaquim*”. This paper was published unaltered in 1896.[^4]  Ridley, who lived to be 100 years old, never wavered in his statement. When Isaac Henry Burkill (Ridley’s successor at the Botanic Gardens) checked all of Ridley’s herbarium specimens and redid the labels, he saw no reason to dispute Ridley and recorded Joaquim as the creator.
 
 Ridley sent cuttings of *Vanda* Miss Joaquim to Sir Trevor Lawrence, President of the Royal Horticultural Society and one of the world’s leading orchidists, where it was nurtured in his orchid house at Burford Lodge, in Dorking, England. Flowering for the first time in Europe in 1897, *Vanda* Miss Joaquim was displayed at the Royal Horticultural Show in London, winning a First Class Certificate. In describing the event, *The Gardeners’ Chronicle* noted that “the plant was obtained from a cross between V. teres and V. Hookeriana some years ago by Miss Joaquim at Singapore”.[^5]
 
-<img style="width: 450px; height: 300px;" src="/images/Vol-14-issue-1/blooming-lies/Blooming3.JPG">
-<div style="background-color: white;">(Left) The First Class Certificate awarded to Sir Trevor Lawrence, President of the Royal Horticultural Society, at the 1897 Royal Horticultural Flower Show for his Vanda Miss Joaquim hybrid. <i>Image source: RHS Lindley Collections, The Royal Horticultural Society.</i><br>
-(Right) A detail from the Vanda Miss Joaquim specimen sheet of the first spike of flowers received in April 1893 by the Singapore Botanic Gardens. The flower was the same one described by Henry Ridley in The Gardeners’ Chronicle in June 1893. The label beneath the specimen is Ridley’s handwriting. <i>Courtesy of the Singapore Botanic Gardens Herbarium.</i></div>
+<img style="width: 550px; height: 320px;" src="/images/Vol-14-issue-1/blooming-lies/Blooming3.JPG">
+<div style="background-color: white;">(Left) The First Class Certificate awarded to Sir Trevor Lawrence, President of the Royal Horticultural Society, at the 1897 Royal Horticultural Flower Show for his <i>Vanda</i> Miss Joaquim hybrid. <i>Image source: RHS Lindley Collections, The Royal Horticultural Society.</i><br>
+(Right) A detail from the <i>Vanda</i> Miss Joaquim specimen sheet of the first spike of flowers received in April 1893 by the Singapore Botanic Gardens. The flower was the same one described by Henry Ridley in The Gardeners’ Chronicle in June 1893. The label beneath the specimen is Ridley’s handwriting. <i>Courtesy of the Singapore Botanic Gardens Herbarium.</i></div>
 
-In Singapore, Joaquim’s orchid debuted at the 1899 Flower Show. *The Straits Times* commented that “one of the most noticeable flowers was the orchid Vanda Miss Joaquim, named after Miss Joaquim and raised by that lady”.[^6] *The Singapore Free Press* confirmed Joaquim’s achievement, reporting that “Miss Joaquim showed a hybrid which has been named after her, that she has, after repeated trials, succeeded in cultivating”.[^7]
+In Singapore, Joaquim’s orchid debuted at the 1899 Flower Show. *The Straits Times* commented that “one of the most noticeable flowers was the orchid <i>Vanda</i> Miss Joaquim, named after Miss Joaquim and raised by that lady”.[^6] *The Singapore Free Press* confirmed Joaquim’s achievement, reporting that “Miss Joaquim showed a hybrid which has been named after her, that she has, after repeated trials, succeeded in cultivating”.[^7]
 
-From 1893 until 1981, the orchid was accepted, with few exceptions, as a hybrid bred by Joaquim. Robert Rolfe, editor of *The Orchid Review* and an authority on orchid hybrids, placed Vanda Miss Joaquim among the 106 cultivated hybrids created in 1893. Subsequent issues of *The Orchid Review*, *The Gardeners’ Chronicle* and other leading contemporary horticultural journals reiterated the fact that Joaquim had crossed the parent orchids, as did all the editions of the authoritative *Sander’s Complete List of Orchid Hybrids*. 
+From 1893 until 1981, the orchid was accepted, with few exceptions, as a hybrid bred by Joaquim. Robert Rolfe, editor of *The Orchid Review* and an authority on orchid hybrids, placed <i>Vanda</i> Miss Joaquim among the 106 cultivated hybrids created in 1893. Subsequent issues of *The Orchid Review*, *The Gardeners’ Chronicle* and other leading contemporary horticultural journals reiterated the fact that Joaquim had crossed the parent orchids, as did all the editions of the authoritative *Sander’s Complete List of Orchid Hybrids*. 
 
 <img src="/images/Vol-14-issue-1/blooming-lies/Blooming4.JPG">
-<div style="background-color: white;">An extract of the list of Vanda orchids showing natural and artificial ones published by Sander & Sons. <i>All rights reserved, Orchid Hybrids: Sander’s Complete List, Containing the Names and Parentages of all the Known Hybrid Orchids Whether Introduced or Artificially Raised… (p. 81). (1915). St Albans; Sander & Sons.</i></div>
+<div style="background-color: white;">An extract of the list of <i>Vanda</i> orchids showing natural and artificial ones published by Sander & Sons. <i>All rights reserved, Orchid Hybrids: Sander’s Complete List, Containing the Names and Parentages of all the Known Hybrid Orchids Whether Introduced or Artificially Raised… (p. 81). (1915). St Albans; Sander & Sons.</i></div>
 
 #### **Sowing the First Seeds of Doubt**
 
@@ -47,12 +50,12 @@ Agnes Joaquim’s nephew Basil J.P. Joaquim, a prominent lawyer in Kuala Lumpur,
 
 <img src="/images/Vol-14-issue-1/blooming-lies/Blooming5.JPG">
 <div style="background-color: white;">(Left) Henry Ridley, first Director of the Singapore Botanic Gardens (1888–1911), was described as “a genius”, “a keen observer and a great naturalist”, and “a botanist of exceptional capability”. His article published in <i>The Gardeners’ Chronicle</i> on 24 June 1893 unequivocally states that Agnes Joaquim had bred the <i>Vanda</i> Miss Joaquim. <i>Image source: Makepeace, W., Brooke, G., & Braddell, R. S. J. (Eds.). (1921). One Hundred Years of Singapore (p. 78). London: J. Murray. (Call no.: RCLOS 959.91 MAK).</i><br>
-(Middle) Richard Eric Holttum, Director of the Singapore Botanic Gardens (1925–1942 and 1946–1949), was an orchid hybridiser himself and he regarded the Vanda Miss Joaquim as Singapore’s first artificial hybrid orchid. <i>Courtesy of Singapore Botanic Gardens.</i><br>
-(Right) Humphrey Morrison Burkill, Director of the Singapore Botanic Gardens (1957–1969), alleged that artificial orchid hybrids were not produced in Singapore until 1928. He said that among plants used in creating hybrids was the “natural hybrid Vanda Miss Joaquim” which he described as a “delightful accident of nature”. <i>Image source: Sharp, I., & Lum, S. (Eds.). (1996). A View from the Summit: The Story of Bukit Timah Nature Reserve (p. 29). Singapore: Nanyang Technological University and the National University of Singapore. (Call no.: RSING 333.78095957 VIE)</i></div>
+(Middle) Richard Eric Holttum, Director of the Singapore Botanic Gardens (1925–1942 and 1946–1949), was an orchid hybridiser himself and he regarded the <i>Vanda</i> Miss Joaquim as Singapore’s first artificial hybrid orchid. <i>Courtesy of Singapore Botanic Gardens.</i><br>
+(Right) Humphrey Morrison Burkill, Director of the Singapore Botanic Gardens (1957–1969), alleged that artificial orchid hybrids were not produced in Singapore until 1928. He said that among plants used in creating hybrids was the “natural hybrid Vanda Miss Joaquim” which he described as a “delightful accident of nature”. <i>Image source: Sharp, I., & Lum, S. (Eds.). (1996). A View from the Summit: The Story of Bukit Timah Nature Reserve (p. 29). Singapore: Nanyang Technological University and the National University of Singapore. (Call no.: RSING 333.78095957 VIE).</i></div>
 
 However, at the 1963 World Orchid Conference held in Singapore, Humphrey Morrison Burkill, who was appointed Director of the Singapore Botanic Gardens in 1957, sowed the seeds of dispute, alleging that artificial orchid hybrids were not produced in Singapore until 1928. He added that among the plants used in creating hybrids was the “natural hybrid Vanda Miss Joaquim” which he described as a “delightful accident of nature”.[^10]
 
-Burkill’s claims not only contradicted those of his father Isaac Burkill (Director of Botanic Gardens, 1912–25) and other former directors, but also cast doubt on Ridley’s character. Ridley had not only officially reported the genesis of the Vanda Miss Joaquim in 1893 but also successfully created orchid hybrids himself, in 1896 and 1902. Yet, the younger Burkill gave no supporting evidence for his puzzling assertion.
+Burkill’s claims not only contradicted those of his father Isaac Burkill (Director of Botanic Gardens, 1912–25) and other former directors, but also cast doubt on Ridley’s character. Ridley had not only officially reported the genesis of the <i>Vanda</i> Miss Joaquim in 1893 but also successfully created orchid hybrids himself, in 1896 and 1902. Yet, the younger Burkill gave no supporting evidence for his puzzling assertion.
 
 References to *Vanda* Miss Joaquim’s origin decreased in the late 1960s and during the 1970s, reflecting declining interest in the orchid. While some in Singapore referred to it as an artificial hybrid, others began to repeat Humphrey Burkill’s allegation that it was a natural hybrid. Like him, none gave any reason for doubting Ridley’s official account.
 
@@ -62,20 +65,20 @@ On 15 April 1981, *Vanda* Miss Joaquim was declared Singapore’s national flowe
 
 Arriving at Changi Airport on 21 July from Perth, Australia, where he had been living for over two decades, the 88-year-old Johannes declared to the reporter who interviewed him that “Aunt Agnes found the flower one morning [in 1893] when she was loitering in the garden. She was so excited that she took it to the director of the Botanic Gardens straightaway”.[^11]  Local newspapers ran with Johannes’s story, alleging that *Vanda* Miss Joaquim was a natural hybrid and making no mention of Ridley’s original account.
 
-In his book on the *Vanda* Miss Joaquim published in 1982, Teoh Eng Soon further enshrined Johannes’s story in print, embellishing it with more detail: “One morning while Agnes was loitering alone in the garden she came upon a new orchid flower nestled in a clump of bamboo… Agnes could not contain her excitement. Straightaway she took it to the Director of the Singapore Botanic Gardens”.[^12]
+In his book on the *Vanda* Miss Joaquim published in 1982, Teoh Eng Soon further enshrined Johannes’s story in print, embellishing it with more detail: “One morning while Agnes was loitering alone in the garden she came upon a new orchid flower nestled in a clump of bamboo… Agnes could not contain her excitement. Straightaway she took it to the Director of the Singapore Botanic Gardens.”[^12]
 
 Arshak Galstaun, President of St Gregory’s Board of Trustees, which looked after the affairs of the Armenian Church in Singapore, and an old friend of Johannes’s was dismayed by this turn of events. In fact, he said so at Teoh’s book launch and wrote to the media refuting it.
 
 Galstaun regarded Ridley’s statement in 1893 that “no record was kept as to which of the plants was used as the male” as evidence that Joaquim had been experimenting with orchid hybrids for some time. He was certain that Ridley would not have made that comment if the hybrid had been created naturally.[^13]
 
-Believing Johannes’s recollections to be based on hearsay and pure conjecture, Galstaun reasoned that the “positive written record of a scientist of Mr Ridley’s stature” should hold sway over the reminiscences of an elderly person. But his views published in the Malayan Orchid Review in 1982[^14] were brushed aside, and again it was claimed that the orchid was a natural hybrid.[^15]
+Believing Johannes’s recollections to be based on hearsay and pure conjecture, Galstaun reasoned that the “positive written record of a scientist of Mr Ridley’s stature” should hold sway over the reminiscences of an elderly person. But his views published in the *Malayan Orchid Review* in 1982[^14] were brushed aside, and again it was claimed that the orchid was a natural hybrid.[^15]
 
 There was no further opposition to this fictitious story: an example of when something is repeated often enough, it sometimes becomes accepted truth. Subsequent newspaper mentions of the orchid said it was a natural hybrid. Even when the centenary of the orchid took place in 1993, there was no reference to Ridley’s account.
 
 A diorama at the Singapore History Museum and a brochure on the National Orchid Garden stated that the orchid was discovered by Miss Agnes Joaquim, as did a display board at the Singapore Botanic Gardens as recently as 2016. All of that reinforced the view that Singapore’s national flower had popped up serendipitously in Joaquim’s garden one day.
 
 <img style="width: 250px; height: 350px;" src="/images/Vol-14-issue-1/blooming-lies/Blooming6.JPG">
-<div style="background-color: white;">Issued on 10 March 1963, this stamp with a face value of 30 cents features the  Vanda Miss Joaquim. It is one of the stamps in the Fishes, Orchids & Birds Definitives series. <i>Image source: Stamp Community Forum.</i></div>
+<div style="background-color: white;">Issued on 10 March 1963, this stamp with a face value of 30 cents features the <i>Vanda</i> Miss Joaquim. It is one of the stamps in the Fishes, Orchids & Birds Definitives series. <i>Image source: Stamp Community Forum.</i></div>
 
 #### **Debunking the Myth**
 
@@ -107,9 +110,6 @@ But Ridley was known to be a careful observer and recorder. Had Joaquim found th
 
 Critics tried to discredit Ridley by claiming that he did not know how to hybridise orchids. They questioned his specific expertise as his interests ranged “from agriculture to ghosts”, implying that he had only a superficial knowledge about many subjects. They dismissed Ridley’s expert account in *The Gardeners’ Chronicle* because it was written after he had lived “in Singapore only 4–5 years and before acquiring the expertise he had in later years”.[^26]
 
-<img style="width: 450px; height: 300px;" src="/images/Vol-14-issue-1/blooming-lies/Blooming7.JPG">
-<div style="background-color: white;">Agnes Joaquim succeeded in crossing Vanda Hookeriana (left)  with Vanda teres (right) to create the hybrid Vanda Miss Joaquim. <i>Photos by David Lim. Courtesy of the National Parks Board.</i></div>
-
 In truth, Ridley was an orchid expert when he arrived in Singapore in 1888. As a Fellow of the Linnean Society, his prolific output covered 10 papers on orchids. These included his detailed observations of orchid self-pollination and an influential paper on “The Nomenclature of Orchids” presented at the 1886 British orchid conference. Indeed, England’s leading orchidists of the time, such as Frederick Burbidge and James Veitch, turned to Ridley with queries on orchid fertilisation. Yet his account was rejected in favour of that of Basil Johannes who admitted that he knew nothing about growing plants.
 
 Ridley’s account was further dismissed because Joaquim had not kept close records of her work. The aforementioned Robert Rolfe lamented that earlier hybridists too had not kept records as to which was the seed parent. However, their work has not been dismissed because of this supposed failing.
@@ -140,8 +140,10 @@ Arditti insisted that “all orchid scientists and knowledgeable orchid growers 
 
 It is worth remembering that Botanic Gardens director Richard Holttum, who closely reviewed his predecessor Isaac Burkill’s work, regarded *Vanda* Miss Joaquim as an artificial hybrid. In 1928, Holttum quoted Ridley’s original report, commenting on the skill and care with which Agnes Joaquim had raised the plant and describing it as “her orchid”.[^39] Again in 1972, he quoted Ridley’s report as evidence of the orchid’s origins.[^40]
 
-<img style="width: 350px; height: 450px;" src="/images/Vol-14-issue-1/blooming-lies/Blooming8.JPG">
-<div style="background-color: white;">Vanda x Miss Joaquim. <i>Image source: Linden, J., & Linden, L. (1897). Lindenia Iconographie des Orchidées (Series 2, vol. 13).</i></div>
+<img src="/images/Vol-14-issue-1/blooming-lies/Blooming9.JPG">
+<div style="background-color: white;">(Left) Vanda Miss Joaquim orchids in bloom. <i>Courtesy of Linda Locke.</i><br>
+(Middle) A close-up of a Vanda Miss Joaquim. <i>Courtesy of National Parks Board.</i><br>
+	(Right) A painting of the <i>Vanda</i> Miss Joaquim that won Sir Trevor Lawrence, President of the Royal Horticultural Society, the First Class Certificate at the 1897 Royal Horticultural Flower Show. Drawn by artist Nellie Roberts in 1897, it is simply titled “Miss Joaquim Agnes”. FCC/RHS. <i>Image source: RHS Lindley Collections, The Royal Horticultural Society.</i></div>
 
 #### **Getting it Right – Finally**
 
@@ -158,11 +160,6 @@ But the journey towards correcting history was not over yet. In 2016, matters ca
 Locke persisted in her efforts to correct official records of Singapore history and managed to convince the National Heritage Board (NHB) to conduct its own review of all historical source materials. Only then did NHB, together with the National Parks Board, arrive at the conclusion that Agnes Joaquim had indeed crossed the parent plants to create *Vanda* Miss Joaquim. NHB and the Singapore Botanic Gardens amended their official records in 2016.
 
 This news was brought to the attention of other government agencies – the National Library Board, for instance, corrected its articles about the orchid on Singapore Infopedia, its online encyclopedia − and in September 2016, *The Straits Times* ran a full-page report accepting that Agnes Joaquim was responsible for creating the hybrid orchid.[^44]
-
-<img src="/images/Vol-14-issue-1/blooming-lies/Blooming9.JPG">
-<div style="background-color: white;">(Left) Vanda Miss Joaquim orchids in bloom. <i>Courtesy of Linda Locke.</i><br>
-(Middle) A close-up of a Vanda Miss Joaquim. <i>Courtesy of National Parks Board.</i><br>
-	(Right) A painting of the <i>Vanda</i> Miss Joaquim that won Sir Trevor Lawrence, President of the Royal Horticultural Society, the First Class Certificate at the 1897 Royal Horticultural Flower Show. Drawn by artist Nellie Roberts in 1897, it is simply titled “Miss Joaquim Agnes”. FCC/RHS. <i>Image source: RHS Lindley Collections, The Royal Horticultural Society.</i></div>
 
 Truth had finally triumphed, but its vindication was hard won, with a war of words and various parties taking different sides since the late 1950s. Much ado over a trivial matter, some may say. However, when the bloom in question is Singapore’s national flower, it is important that its correct history is told. This is all the more timely as we commemorate the 125th anniversary of the *Vanda* Miss Joaquim in 2018.
 
@@ -204,7 +201,7 @@ The hybridisation of a plant involves two steps. First, pollination takes place 
 <b>Linda Locke</b> is a great grand-niece of Agnes Joaquim. She is a former advertising CEO and the co-author of the recently released children’s book: <i>Agnes and her Amazing Orchid</i>.
 <br><br>
 <img src="/images/Vol-14-issue-1/blooming-lies/Blooming13.jpg" style="width: 100px; height: 100px;">
-<b>Harold Johnson</b>, is an orchid enthusiast. The second edition of his book with Nadia Wright entitled <i>Vanda Miss Joaquim: Singapore's National Flower & the Legacy of Agnes & Ridley</i> will be published in late 2018.
+<b>Harold Johnson</b> is an orchid enthusiast. The second edition of his book with Nadia Wright entitled <i>Vanda Miss Joaquim: Singapore's National Flower & the Legacy of Agnes & Ridley</i> will be published in late 2018.
 </div>
 <br>
 <a href="https://biblioasia.nlb.gov.sg/vol-14/issue-1/apr-jun-2018/"><center>Back to Issue</center></a>
@@ -228,7 +225,7 @@ The hybridisation of a plant involves two steps. First, pollination takes place 
 [^16]:Wright, N. H. (2000). The origins of Vanda Miss Joaquim. [*Malayan Orchid Review*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5042537), 34, pp. 70–73. (Call no.: RSING 584.15 MOR)
 [^17]:[Teoh](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=3520904), (1982), p. 32; Yam T. W., Arditti, J., & Hew C. S. (2004). The origin of *Vanda* Miss Joaquim. [*Malayan Orchid Review*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5042537), 38, p. 93. (Call no.: RSING 584.15 MOR)
 [^18]:Wright, N. H. (2003). [*Respected citizens: The history of Armenians in Singapore and Malaysia*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12231618) (p. 150). Middle Park, Vic.: Amassia Publishing. (Call no.: RSING 305.891992 WRI)
-[^19]:Wright, N. H. (2004). A re-examination of the origins of *Vanda* Miss Joaquim. *Orchid Review, 112* (1259), pp. 292–298; Human Flower Project. (2005, August). *Miss Agnes’s big little secret*. Retrieved from Human Flower Project website; Arditti, J., & Hew, S.H. (2005) Letter to the editor. *The Orchid Review*, 113 (1263), pp. 176–177.
+[^19]:Wright, N. H. (2004). A re-examination of the origins of *Vanda* Miss Joaquim. *Orchid Review, 112* (1259), pp. 292–298; Human Flower Project. (2005, August). *Miss Agnes’s big little secret*. Retrieved from Human Flower Project website; Arditti, J., & Hew, S.H. (2005) Letter to the editor. *The Orchid Review, 113* (1263), pp. 176–177.
 [^20]:Hew, C.S., Yam, T.W., & Arditti, J. (2002). [*Biology of Vanda Miss Joaquim*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11327703) (pp. 222–224). Singapore: Singapore University Press. (Call no.: RSING 584.4095957 HEW)
 [^21]:[Hew, Yam & Arditti](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11327703), 2002, p. 41.
 [^22]:[Hew, Yam & Arditti](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11327703), 2002, p. 179; [Miss Joaquim’s nephew coming for Flower Week](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19810719-1.2.29). (1981, July 19). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
@@ -237,7 +234,7 @@ The hybridisation of a plant involves two steps. First, pollination takes place 
 [^25]:[Hew, Yam & Arditti](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11327703), 2002, p. 223; Arditti & Hew, 2005, p. 176.
 [^26]:Arditti & Hew, 2005, p. 176.
 [^27]:Arditti, J. (1992). Fundamentals of orchid biology (p. 43). New York: Wiley. (Not available in NLB holdings)
-[^28]:Notes on monthly meetings. (1957). [*Malayan Orchid Review*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5042537), 5 (2), p. 30. (Call no.: RSING 584.15 MOR); Yeoh, B.C. (1959). Kinta weed. [*Malayan Orchid Review*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5042537), 5, p. 81. (Call no.: RSING 584.15 MOR)
+[^28]:Notes on monthly meetings. (1957). [*Malayan Orchid Review*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5042537)*, 5* (2), p. 30. (Call no.: RSING 584.15 MOR); Yeoh, B.C. (1959). Kinta weed. [*Malayan Orchid Review*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5042537), 5, p. 81. (Call no.: RSING 584.15 MOR)
 [^29]:Citing Yeoh Bok Choon’s *List of Malayan Hybrids*, 1963, p. v, which mentioned that of 62 individual breeders, 31 produced only one hybrid.
 [^30]:Arditti & Hew, 2005, p. 177.
 [^31]:[Yam, Arditti & Hew](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5042537), 2004, p. 92.
@@ -248,7 +245,7 @@ The hybridisation of a plant involves two steps. First, pollination takes place 
 [^36]:Ridley, H.N.  *Notebook 1891–1896 Fertilization Notes*, AJCP, M. 771, reel 42, frame 255. Also see Ridley, H.N. (1905, July). On the fertilization of the grammatophyllum. *Journal of the Straits Branch of the Royal Asiatic Society*, 44, pp. 228–229. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
 [^37]:Arditti, J. (2005, April 26). *You say orchid, I say Joaquim*. Retrieved from dsng.net website.
 [^38]:Johnson, H. J. (2004). Vanda Miss Joaquim. [*Malayan Orchid Review*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5042537)*, 38*, pp. 99–107. (Call no.: RSING 584.15 MOR) [Note: Linda Locke added more to that list of literature in 2017].
-[^39]:Holttum, R. E. (1928). Vanda Miss Joaquim. [*Malayan Naturalist*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5042530), 2 (1), pp. 22, 24. (Call no.: RRARE 574.9595 MAL; Microfilm no.: NL 6582)
+[^39]:Holttum, R. E. (1928). Vanda Miss Joaquim. [*Malayan Naturalist*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5042530)*, 2* (1), pp. 22, 24. (Call no.: RRARE 574.9595 MAL; Microfilm no.: NL 6582)
 [^40]:Holttum, R. E. (1972). And comments. *The Orchid Review, 80* (951), p. 168. (Not available in NLB holdings)
 [^41]:Purseglove, J. W. (1955, December 10). *The Ridley Centennial*, mss.
 [^42]:Arditti, J., & Hew, C.S. (2007). The origins of Vanda Miss Joaquim (pp. 290-291). In *Orchid Biology. Reviews and Perspectives, IX*. (Not available in NLB holdings)

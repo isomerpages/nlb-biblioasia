@@ -9,7 +9,7 @@ layout: post
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-9-issue-4/forgottentrades/bg.jpg">
-A barber shop along a five-foot way at Wayang Street in 1986. <i>Ronni Pinsler collection, courtesy of National Archives of Singapore.</i></div>
+A barbershop along a five-foot way at Wayang Street in 1986. <i>Ronni Pinsler collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **The Streets of Chinatown, Little India and**
 
@@ -21,7 +21,7 @@ A few enterprising immigrants started plying their trades along the “five-foot
 
 #### **A Trade By and Other Name**
 
-Merriam-Webster defines a tradesman or tradesperson as a skilled worker engaged in a particular trade or craft. Trades are an integral component of the manufacturing industry; in traditionally run businesses, inter-generational workers usually engage in labour-intensive work, sometimes using simple machinery or hand tools to produce a commodity for sale. Sullivan defines these trades as “making-things business” or “cottage industries”, emphasising the “handwork aspect of such manufacturing”.[^3] These trades are usually family-run, “have less than twenty workers, including [the] working proprietor; may consist of only one or two people ... [and the] work space and living space are combined or are nearby”. [^4]
+Merriam-Webster defines a tradesman or tradesperson as a skilled worker engaged in a particular trade or craft. Trades are an integral component of the manufacturing industry; in traditionally run businesses, inter-generational workers usually engage in labour-intensive work, sometimes using simple machinery or hand tools to produce a commodity for sale. Sullivan defines these trades as “making-things business” or “cottage industries”, emphasising the “handwork aspect of such manufacturing”.[^3] These trades are usually family-run, “have less than twenty workers, including [the] working proprietor; may consist of only one or two people ... [and the] workspace and living space are combined or are nearby”. [^4]
 
 #### **Disappearing Trades**
 
@@ -76,7 +76,7 @@ Parrot fortune teller at Serangoon Road in 1980. <i>Courtesy of National Archive
 
 #### **Ice-ball Sellers**
 
-**History**<br>ice-balls were hugely popular during the 1950s and 1960s, particularly among school children and teens. Iceball sellers were mostly Indian males, who sold drinks in addition to these cool delicious treats.
+**History**<br>Ice-balls were hugely popular during the 1950s and 1960s, particularly among school children and teens. Iceball sellers were mostly Indian males, who sold drinks in addition to these cool delicious treats.
 
 **Job Scope**<br>To make an ice-ball, the iceball seller would use a towel to press a block of ice against an ice shaver. One hand would hold a bowl beneath to catch the shavings. He would then shape the ice shavings into a semicircle, enclosing within ingredients such as cubes of <i>agar-agar</i>, or jelly, sweetened red beans and <i>attap-chee</i> (mangrove palm seeds). Using yet more ice shavings, he would deftly compact it into a spherical snowball. Then lashings of red and green and palm sugar syrup are drizzled over the ice-ball, followed by a trickle of evaporated milk for added sweetness.
 
@@ -93,11 +93,11 @@ An Indian ice-water seller making a syrup coated ice-ball in 1978. <i>Courtesy o
 
 **History**<br>A Malay phrase, <i>“kachang”</i> (nuts, beans or peas) and <i>“puteh”</i> (meaning white) was a popular snack up until the 1990s. The peanuts coated with melted white sugar is one of the most popular varieties and probably accounts for the name “white nuts”. <i>Kachang puteh</i> originated from an Indian snack called <i>chevdo</i>.[^10] Nuts of various colours and prepared in a variety of ways (steamed, fried, roasted or coated with sugar) were sold by the vendors, who were mostly Indians.
 
-**Job Scope**<br>The early itinerant <i>kachang puteh</i> seller hawked his wares stored in bottles or paper bags from a tray balanced on his head, moving from one location to the next. Some used push carts or bicycles, while others stationed themselves at fixed locales. Typically between five and 20 varieties of <i>kachang puteh</i> would be sold and each serving (either a single or mixed flavour of nuts) would be packed into rolled-up paper cones, using pages torn from old newspapers, yellow pages directories and school exercise books.
+**Job Scope**<br>The early itinerant <i>kachang puteh</i> seller hawked his wares stored in bottles or paper bags from a tray balanced on his head, moving from one location to the next. Some used pushcarts or bicycles, while others stationed themselves at fixed locales. Typically between five and 20 varieties of <i>kachang puteh</i> would be sold and each serving (either a single or mixed flavour of nuts) would be packed into rolled-up paper cones, using pages torn from old newspapers, yellow pages directories and school exercise books.
 
 **Tools of the Trade**<br><i>Kachang puteh</i> vendors either roasted and flavoured their own <i>kachang</i> at home (a lengthy and painstaking process) or bought ready-made <i>kachang</i> directly from suppliers.
 
-**Then and Now**<br><i>Kachang puteh</i> sellers used to frequent schools, cinemas, swimming pools and shopping centres. Such independent vendors have all but vanished today, except for perhaps the sole survivng <i>kachang puteh</i> seller in Singapore, Mr Nagappan Arumugam, who has manned a pushcart at peace Centre on Selegie Road for over 20 years.[^11] <i>Kachang puteh</i> is now available in commercially pre-packed versions at supermarkets and 24-hour convenience stores all over Singapore. A push cart stall can also be found at the Singapore Food Trail.[^12]
+**Then and Now**<br><i>Kachang puteh</i> sellers used to frequent schools, cinemas, swimming pools and shopping centres. Such independent vendors have all but vanished today, except for perhaps the sole survivng <i>kachang puteh</i> seller in Singapore, Mr Nagappan Arumugam, who has manned a pushcart at peace Centre on Selegie Road for over 20 years.[^11] <i>Kachang puteh</i> is now available in commercially pre-packed versions at supermarkets and 24-hour convenience stores all over Singapore. A pushcart stall can also be found at the Singapore Food Trail.[^12]
 
 <div style="background-color: white;">
 <br/>
@@ -106,7 +106,7 @@ A roadside <i>‘kachang puteh’</i> seller (1985). <i>Chu Sui Mang collection,
 
 #### **Letter Writers**
 
-**History**<br>The thousands of illiterate and semi-literate Chinese immgrants in Singapore — <i>coolies</i> (manual workers), <i>amahs</i> (domestic helpers) and <i>Samsui</i> women (female construction labourers from Guangdong Province) — who yearned to communicate with their families in China resulted in the demand for letter writers. The 1950s and 1960s were boom times for such letter writers, with long queues of people patiently waiting to send word back home after World War II, along with food, clothing and money. Letter writers were usually Chinese males in their 50s and 60s.
+**History**<br>The thousands of illiterate and semi-literate Chinese immigrants in Singapore — <i>coolies</i> (manual workers), <i>amahs</i> (domestic helpers) and <i>Samsui</i> women (female construction labourers from Guangdong Province) — who yearned to communicate with their families in China resulted in the demand for letter writers. The 1950s and 1960s were boom times for such letter writers, with long queues of people patiently waiting to send word back home after World War II, along with food, clothing and money. Letter writers were usually Chinese males in their 50s and 60s.
 
 **Job Scope**<br>A letter writer would pen the feelings and thoughts of his customers and also read letters aloud for the illiterate, bridging the physical and emotional distance between relatives who resided thousands of miles away and their families in Singapore. The letters were written in a mixture of classical and vernacular Chinese. The writer would sometimes write “spring couplets, invitation cards, leases [and] marriage certificates”[^13] and, sadly, even suicide notes. Letter writers also wrote ancestral tablets for religious worship and to display at home for immigrants who moved into new residences. Due to the usually penurious circumstances of his clientele, the letter writer in the 1960s charged nominal sums for his services, such as a dollar per letter and earned about $250 a month.
 
@@ -121,7 +121,7 @@ A letter writer with a customer along a five foot way in Kreta Ayer. From the Ko
 
 #### **Street Barbers**
 
-**History**<br>Street barbers gained popularity after the 1911 Chinese Revolution, when Chinese immigrants who arrived in Singapore lopped off their braided “pigtails” (which had been a symbol of repression during the Qing Dynasty). Many barbers were self-taught, while some apprenticed at barber shops. The profession was equally represented by the Chinese, Malay and Indian races.
+**History**<br>Street barbers gained popularity after the 1911 Chinese Revolution, when Chinese immigrants who arrived in Singapore lopped off their braided “pigtails” (which had been a symbol of repression during the Qing Dynasty). Many barbers were self-taught, while some apprenticed at barbershops. The profession was equally represented by the Chinese, Malay and Indian races.
 
 **Job Scope**<br>Operating along five-foot-ways or in roadside makeshift tents, street barbers offered haircuts, shaving, ear wax removal, nose-hair trimming, and scalp, face and shoulder massages.
 
@@ -142,7 +142,7 @@ Barber at Tras Street in 1988. <i>Courtesy of National Archives of Singapore.</i
 
 Although many of the early trades and cottage industries no longer exist today, they have nonetheless left indelible imprints on the economic and social fabric of Singapore. Official documentation and archival records of these early trades act as historical and sociological testaments of how people lived and worked in early Singapore. These records acknowledge and pay tribute to the contributions of Singapore’s early entrepreneurs in the economic development of the island. At the national level, memory recorders and archivists hope that by helping the public understand the people and events that shaped the nation’s past, a deeper collective understanding and appreciation for Singapore’s history can be nurtured.
 
-Cultural institutions, societies, commercial entities and private individuals have in their own ways expanded the government’s efforts — using traditional and new media, such as print, oral recordings, photographs, videos and social media platforms like FaceBook, Instagram and Twitter — to immortalise Singapore’s early trades and craftsmen. Exhibitions organised by societies and cultural groups with demonstrations of long-lost or soon-to-be-extinct trades deliver an experiential learning dimension for a contemporary audience by making history come alive through authentic recreations of the past.
+Cultural institutions, societies, commercial entities and private individuals have in their own ways expanded the government’s efforts — using traditional and new media, such as print, oral recordings, photographs, videos and social media platforms like Facebook, Instagram and Twitter — to immortalise Singapore’s early trades and craftsmen. Exhibitions organised by societies and cultural groups with demonstrations of long-lost or soon-to-be-extinct trades deliver an experiential learning dimension for a contemporary audience by making history come alive through authentic recreations of the past.
 
 #### **Print and Digital Documentation**
 
@@ -152,7 +152,7 @@ Other sources include articles on long-lost trades by the National Heritage Boar
 
 Blogs[^17] created by individuals and community groups are private archival repositories shared with an online public audience. These blog entries express the blogger’s personal thoughts, opinions and insights. These “man-in-the-street” perspectives reveal the private expressions of what the national “Singapore Story” represents to distinct individuals in society. 
 
-#### **Photograps**
+#### **Photographs**
 
 Photographs are visual records that present a still-life simulacrum of a bygone era. NLB’s PctureSG and the National Archives of Singapore’s (NAS) picture archives database, PICAS, provide a visual tableau of Singapore’s history and social development and serve as invaluable repositories of Singapore’s early trades and craftsmen.
 
@@ -160,7 +160,7 @@ Beyond that, image hosting social platforms such as Flickr allow users to share 
 
 #### **Exhibitions/Trade Fairs**
 
-“The Lost Arts of The republic of Singapore”[^18] is an example of a vanishing trades project that straddles the physical and digital realms. This project was initiated by two local artists to “document the current state of vanishing arts and crafts of Singapore”. Through interviews with 10 existing practitioners, the artists crafted an exhibition for the Pop-Up Singapore House and London Design Festival in 2012, which presented a fresh interpretation of traditional symbols and transformed them into modern narratives. The exhibition was featured in two local journals (<i>The Design Journal</i>, March 2012, and <i>Zaobao Fukan</i>, July 2012). in addition, the artists posted photos of their exhibition and journal write-ups on Flickr.
+“The Lost Arts of The Republic of Singapore”[^18] is an example of a vanishing trades project that straddles the physical and digital realms. This project was initiated by two local artists to “document the current state of vanishing arts and crafts of Singapore”. Through interviews with 10 existing practitioners, the artists crafted an exhibition for the Pop-Up Singapore House and London Design Festival in 2012, which presented a fresh interpretation of traditional symbols and transformed them into modern narratives. The exhibition was featured in two local journals (<i>The Design Journal</i>, March 2012, and <i>Zaobao Fukan</i>, July 2012). in addition, the artists posted photos of their exhibition and journal write-ups on Flickr.
 
 Through the decades, commercial and non-profit cultural organisations and societies such as the Singapore Handicraft Centre, Singapore Heritage Society, Chinatown Heritage Centre, Indian Heritage Centre and the Malay Heritage Centre have been actively organising cultural exhibitions and trade fairs, providing those still engaged in Singapore’s pioneering trades the opportunity to showcase dying or long-forgotten crafts or arts.[^19]
 
@@ -190,7 +190,7 @@ The recordings reveal fascinating details such as the reasons for entering or ab
 
 #### **Documentaries and Dramas**
 
-Vanishing trades have been documented in local Chinese documentaries such as <i>Vow of Celibacy</i> (1980)[^22], The Vanishing Trades (1983)[^23] and <i>My Grand Partner</i> (webisode 11),[^24] which featured a traditional shoe maker and fountain pen repairman. These trades have also been the focus of local Chinese drama serials such as <i>Five-Foot-Way</i> (1987)[^25] and <i>Samsui Women</i> (1986).
+Vanishing trades have been documented in local Chinese documentaries such as <i>Vow of Celibacy</i> (1980)[^22], The Vanishing Trades (1983)[^23] and <i>My Grand Partner</i> (webisode 11),[^24] which featured a traditional shoemaker and fountain pen repairman. These trades have also been the focus of local Chinese drama serials such as <i>Five-Foot-Way</i> (1987)[^25] and <i>Samsui Women</i> (1986).
 
 Videos on vanishing trades can also be found on YouTube, posted by teachers and students for school projects, as well as film enthusiasts through local short film competitions such as ciNE65[^26] and also by local history buffs and hobbyists. 
 
@@ -278,9 +278,9 @@ Tan, B.H. (1983, June 27). [That old barber shop is going](http://eresources.nlb
 
 Tan, J., & Leong, W.K. (1977, November 24). [‘Protect our vanishing trades’ call to govt](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19771124-1.2.52). <i>The Straits Times</i>, p. 10. Retrieved from NewspaperSG.
 
-Teo, J. (2013). <i>Vanishing trades/Scenes in Singapore</i>. Retrieved from Jenniferteophotography.com. website.
+Teo, J. (2013). <i>Vanishing trades/Scenes in Singapore</i>. Retrieved from [Jenniferteophotography.com](Jenniferteophotography.com) website.
 
-<i>The vanishing trade: Trishaws in Singapore</i>. (2010, May 17). Retrieved from sgtrishaws.wordpress.com website.
+<i>The vanishing trade: Trishaws in Singapore</i>. (2010, May 17). Retrieved from [sgtrishaws.wordpress.com](sgtrishaws.wordpress.com) website.
 
 Toh, K. (2011, September 11). [Keeping alive a vanishing trade](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20110911-1.2.11.15). <i>The Straits Times</i>, pp. 16–17. Retrieved from NewspaperSG.
 

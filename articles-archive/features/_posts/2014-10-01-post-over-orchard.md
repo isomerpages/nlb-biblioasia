@@ -39,7 +39,7 @@ The specific stretch of Orchard Road covered in the aerial map (see overleaf) �
 7. Koek Road hawkers<br>
 8. Amber Mansions<br>
 9. Cathay Building<br>
-10. Young Men’s Christian Associatio
+10. Young Men’s Christian Association
 
 <div style="background-color: white;">
 <br/>
@@ -58,7 +58,7 @@ Orchard Road Police Station in the 1950s. <i>Singapore Police Force collection, 
 
 #### **02 C. L. Tang**
 
-Now a household name, C. K. Tang started out in a nondescript shophouse in River Valley Road before moving to Orchard Road in 1958. Founder Tang Choon Keng ignored superstition and selected a location opposite the Tai San Ting Teochew cemetery, setting up what would become an Oriental landmark in Orchard Road.[^5] Designed by Ang Eng Leng, the building’s unique greentiled sloping roofs and red doors were said to be modelled after the Imperial Palace in the Forbidden City in Beijing.[^6] The green roof tiles were produced in Kuala Lumpur, while the carvings adorning the eaves were made by Teochew craftsmen in Singapore.[^7] Elements of this design still remain in the new Tangs building today and the adjacent Marriott Hotel (formerly Dynasty Hotel), both of which were completed in 1982.
+Now a household name, C. K. Tang started out in a nondescript shophouse in River Valley Road before moving to Orchard Road in 1958. Founder Tang Choon Keng ignored superstition and selected a location opposite the Tai San Ting Teochew cemetery, setting up what would become an Oriental landmark in Orchard Road.[^5] Designed by Ang Eng Leng, the building’s unique green tiled sloping roofs and red doors were said to be modelled after the Imperial Palace in the Forbidden City in Beijing.[^6] The green roof tiles were produced in Kuala Lumpur, while the carvings adorning the eaves were made by Teochew craftsmen in Singapore.[^7] Elements of this design still remain in the new Tangs building today and the adjacent Marriott Hotel (formerly Dynasty Hotel), both of which were completed in 1982.
 
 <div style="background-color: white;">
 <br/>
@@ -91,7 +91,7 @@ Singapore Chinese Girls’ School students putting up a gymnastics display at th
 
 Cold Storage, a standalone building at the time, was a landmark in Orchard Road from 1905 onwards.[^18] In addition to catering to the local demand for frozen meat and imported groceries, Cold Storage was also known for its eateries, such as the Magnolia Snack Bar. Tan Wee Him recalls his student years in the 1960s:
 
-In the good old days, the snack bar was a popular haunt for students... Magnolia Snack Bar is supposed to be the in-place where you go for a milkshake, or the popular fish and chips for $1.80... [The milkshake] would easily cost around 80 cents... they gave you a tall glass and it also come with the aluminium mixer that contains the other half of the milkshake. So you actually got something more than you bargained for, for maybe 80, 90 cents! ... The snack bar was up front. But Cold Storage has a restaurant on the second floor of the supermarket itself. And it’s called Salad Bow.[^19]
+In the good old days, the snack bar was a popular haunt for students... Magnolia Snack Bar is supposed to be the in-place where you go for a milkshake, or the popular fish and chips for $1.80... [The milkshake] would easily cost around 80 cents... they gave you a tall glass and it also come with the aluminium mixer that contains the other half of the milkshake. So you actually got something more than you bargained for, for maybe 80, 90 cents! ... The snack bar was upfront. But Cold Storage has a restaurant on the second floor of the supermarket itself. And it’s called Salad Bow.[^19]
 
 The Salad Bowl was famous for its set lunches, with three courses going for under S$6 in the 1970s. Although the Cold Storage building was supplanted by Centrepoint in the 1980s,[^20] the supermarket chain now is a common sight in many malls (including Centrepoint), both along and beyond Orchard Road. 
 
@@ -117,7 +117,7 @@ Such was the view that greeted the person who stepped out of the Pavilion cinema
 
 Located in the vicinity of Orchard Road Market, Koek Road and Koek Lane were home to many hawkers and the site of many mouth-watering memories for people who remember this street food haunt. Pakirisamy Rajagopal fondly recollects the variety of food available there in the 1950s:
 
-So the favourite joint that I used to go to is Koek Road where you have your <i>kolo mee</i>, your <i>char kway teow</i>, your <i>mee goreng</i>, your soup <i>kambing</i>, name whatever you want. [T]he roadside stalls will open up after 6pm. Whereas the coffeeshop stalls are open from morning to nighttime...
+So the favourite joint that I used to go to is Koek Road where you have your <i>kolo mee</i>, your <i>char kway teow</i>, your <i>mee goreng</i>, your soup <i>kambing</i>, name whatever you want. The roadside stalls will open up after 6pm. Whereas the coffeeshop stalls are open from morning to nighttime...
 
 And in the same stretch of the old dirty looking coffee shop, there was a dirty little monsoon drain with a platform over it, 30 huge rats running around. The Teck Kee Pau, which is now in Bukit Timah Road, originated from there...
 
