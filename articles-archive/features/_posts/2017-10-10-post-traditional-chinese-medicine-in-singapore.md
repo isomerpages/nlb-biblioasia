@@ -59,7 +59,7 @@ This article was edited by <b>Goh Yu Mei</b>, an Associate Librarian with the Na
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Vol-13-issue-3/old-world-amusement-parks/jessie-yak.png">
+<img style="width: 100px; height: 100px;" src="/images/Vol-13-issue-3/traditional-chinese-medicine/vicky.png">
 <b>Vicky Gao</b> is a Senior Librarian with the National Library, Singapore. Her responsibilities include managing and developing the Chinese collections as well as providing reference and research services. She has contributed research articles to academic journals in China.<br>
 高小行是新加坡国家图书馆高级图书馆员，她的责任包括中文资料的馆藏开发和推广，以及提供参考咨询服务。她对当代新加坡的发展有着浓厚的兴趣并在中国的学术刊物发表过多篇文章。
 </div>
