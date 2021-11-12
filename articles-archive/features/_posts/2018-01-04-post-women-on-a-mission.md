@@ -43,3 +43,14 @@ Mrs Dyer’s association with the school ended in 1844 when she left Singapore a
 Under Miss Grant, the school, which had been renamed Chinese Girls’ School, operated as an orphanage for unwanted girls as well as a boarding school.[^12] One of Miss Grant’s students was Yeo Choon Neo, the first wife of Song Hoot Kiam, the noted Peranakan community leader after whom Hoot Kiam Road is named.[^13]
 
 #### **Sophia Cooke**
+
+After Miss Grant left Singapore in 1853, the SPFEE sent another missionary, Sophia Cooke, to run the school. Miss Cooke would manage the school for the next 42 years, and her name became synonymous with the institution − “Miss Cooke’s School”, as people would come to call it.[^14] By this time, the school had moved several times, from North Bridge Road to Beach Road, before settling down at 134 Sophia Road in 1861.
+
+<div style="background-color: white;"><img style="width:400px" src="/images/Vol-13-issue-4/women-on-a-mission/03_womenmission.jpg">An undated portrait of Miss Sophia Cooke, a missionary from the Society for the Promotion of Female Education in the East (SPFEE). In 1853, Miss Cooke took over the management of Chinese Girls’ School – initially established as the Chinese Female Boarding School in 1842 – and would run it for the next 42 years. Her name became synonymous with the institution and came to be called “Miss Cooke’s School”. <i>Image source: Walker, E. A. (1899). Sophia Cooke, or, Forty-Two Years’ Work in Singapore (frontispiece). London: E. Stock. Collection of the National Library, Singapore. (Accession no.: B29032405C; Microfilm no.: NL 11273).</i></div>
+
+In addition to running the girls’ school, Miss Cooke also started a Chinese “ragged school”[^15]− a charitable establishment providing free education for poor children − that took in children as well as their mothers. Inspired by similar schools in London, the ragged school opened on 6 March 1865.[^16] Buoyed by its success, Miss Cook started a second such school but there are no records of what happened to these two ragged schools.
+
+<div style="background-color: white;"><img style="width:600px" src="/images/Vol-13-issue-4/women-on-a-mission/04_womenmission.jpg">Students from the Church of England Zenana Missionary Society School or the CEZMS School playing netball at its premises in Sophia Road, c. early 1900. The school has changed names and moved locations several times since its founding in 1842 as the Chinese Female Boarding School. In 1949 it was renamed St Margaret’s School, after Queen Margaret of Scotland. <i>Courtesy of St Margaret’s Secondary School.</i></div>
+
+In 1900, the SPFEE was dissolved and the Chinese Girls’ School was taken over by the Church of England Zenana Missionary Society (CEZMS) and became known as the CEZMS School. In 1949, the school was renamed St Margaret’s School (after Queen Margaret of Scotland), and is today the oldest girls’ school in Singapore in existence.[^17]
+
