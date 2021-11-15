@@ -46,8 +46,7 @@ SMU, which occupies a large swathe of Bras Basah today, bears no reference to th
 
 Interestingly, some Indian convict labourers – notably “First Class” convicts with exemplary track records – did settle down in Singapore after completing their prison sentences. They became, the British observed, “very useful men in the place – cart owners, milk sellers, road contractors and so on: many of them comfortably off.”[^9] Perversely, there are no bronze sculptures commemorating their labour and history at Bras Basah or near the Singapore River, where their human toil was so essential to the smooth functioning of the colonial port in its early years.[^10]
 
-<div style="background-color: white;"><img src="/images/Vol-13-issue-3/rambling-around-bras-basah/03_brasbasah.png">(Left) The former St Joseph’s Institution building at Bras Basah Road facing the field, which later became Bras Basah Park, c.1910. The building is currently occupied by the Singapore Art Museum. <i>Lim Kheng Chye Collection, courtesy of National Archives of Singapore.</i><br>
-(Right) This 1984 photograph shows Eu Court at the corner of Stamford Road and Hill Street. Built in the late 1920s by prominent businessman Eu Tong Sen, it was demolished in 1992 to make way for road widening. <i>Lee Kip Lin Collection. Lee Kip Lin and National Library Board, Singapore.</i></div>
+<div style="background-color: white;"><img src="/images/Vol-13-issue-3/rambling-around-bras-basah/03a_brasbasah.png">The former St Joseph’s Institution building at Bras Basah Road facing the field, which later became Bras Basah Park, c.1910. The building is currently occupied by the Singapore Art Museum. <i>Lim Kheng Chye Collection, courtesy of National Archives of Singapore.</i></div>
 
 So much for the past. The latest state-decreed incarnation of Bras Basah proclaims it as the “arts, culture, learning and entertainment hub for the city centre”.[^11] Around 2005, urban planners came up with the clumsy portmanteau Bras Basah.Bugis (the selfconscious full-stop immediately dooming whatever “hip” quotient the planners were trying to inject to the area).[^12] After deliberate efforts in the 1980s to move schools such as St Joseph’s Institution and Convent of the Holy Infant Jesus away from this part of the city, the government introduced new ones – the School of the Arts, LASALLE College of the Arts and SMU – in a deliberate strategy to bring artistic endeavour and young people back into the area.[^13] With events such as the National Museum’s Night Festival – which gets bigger and seems to require more road closures each year – there are plenty of official efforts to entice people into spending time here again.
 
@@ -73,9 +72,11 @@ When I stand at the junction of Hill Street and Stamford Road outside Stamford C
 
 I stand, I look, I feel and I think. And I know it can all go away in a minute.
 
+<div style="background-color: white;"><img style="width:550px" src="/images/Vol-13-issue-3/rambling-around-bras-basah/03b_brasbasah.png">This 1984 photograph shows Eu Court at the corner of Stamford Road and Hill Street. Built in the late 1920s by prominent businessman Eu Tong Sen, it was demolished in 1992 to make way for road widening. <i>Lee Kip Lin Collection. Lee Kip Lin and National Library Board, Singapore.</i></div>
+
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Vol-13-issue-3/rambling-around-bras-basah/yu-mei.png">
+<img style="width: 100px; height: 100px;" src="/images/Vol-13-issue-3/rambling-around-bras-basah/yu-mei1.png">
 <b>Yu-Mei Balasingamchow</b> is the co-author of <i>Singapore: A Biography</i> (2009) and works on history, art and culture projects. She writes fiction and has also curated exhibitions for the National Museum of Singapore and the National Archives of Singapore. Her website is www.toomanythoughts.org.
 </div>
 
