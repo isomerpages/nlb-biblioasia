@@ -6,7 +6,7 @@ description: ""
 #### A little-known collection of French natural history drawings of Singapore and its neighbouring countries from 1818 and 1820 shed light on the early study of the region’s flora and fauna.
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/diard-duvaucel/DiardDuvaucel2.jpg)
-<div style="background-color: white;"><i>Diard & Duvaucel: French Natural History Drawings of Singapore and Southeast Asia 1818–1820</i> is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries ([Call nos.: RSING 508.0222 DIA and SING 508.0222 DIA](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695)) and for sale at all major bookstores, including Epigram’s online store at epigrambookshop.sg.</div>
+<span style="background-color: white; display:block; font-size:1rem; line-height:1.5rem;"><i>Diard & Duvaucel: French Natural History Drawings of Singapore and Southeast Asia 1818–1820</i> is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries ([Call nos.: RSING 508.0222 DIA and SING 508.0222 DIA](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695)) and for sale at all major bookstores, including Epigram’s online store at epigrambookshop.sg.</span>
 
 
 Until recently, most people would not have heard of the two Frenchmen, Pierre-Médard Diard and Alfred Duvaucel, who accompanied Stamford Raffles on his maiden trip to Singapore on 28 January 1819.[^1] Fewer still would know that these two young naturalists collected specimens and worked with artists to create drawings of animals and plants at the various locations they ventured to, including Singapore and the surrounding region as far away as India.
@@ -66,4 +66,3 @@ Stamford Raffles collected pitcher plants when he first visited Singapore in ear
 [^1]: Danièle Weiler, “[Stamford Raffles and the Two French Naturalists](https://biblioasia.nlb.gov.sg/vol-16/issue-2/jul-sep-2020/raffles),” *BiblioAsia* 16, no. 2 (Jul–Sep 2020).
 
 [^2]: *Figures peintes d’oiseaux [et de reptiles], envoyées de l’Inde par Duvaucel et Diard ([Painted depictions of birds [and reptiles], sent from India by Duvaucel and Diard](https://eresources.nlb.gov.sg/printheritage/detail/c908d4fd-4e4b-441d-bdab-48c9eb69d0c1.aspx)).
-	
