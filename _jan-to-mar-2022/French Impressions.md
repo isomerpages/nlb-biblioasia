@@ -22,3 +22,13 @@ More recently, all 117 illustrations have been published in a hardcover book tit
 We can’t be certain if Diard and Duvaucel were the first Frenchmen to have stepped on Singapore soil, but certainly they are now the first to be part of our documented history. These brave men who left the comforts of their homeland blazed a trail for other French citizens − explorers, planters, merchants and missionaries − who followed in their wake. That French presence continues in Singapore today, represented by a 20,000-strong community who are part of the city’s commercial and cultural scene. 
 
 #### **Nº 11: Banded Woodpecker *Chrysophlegma miniaceum***
+
+This woodpecker with a yellow-tipped crest can still be spotted in Singapore today. The specimen portrayed in this drawing, however, is more likely from the Malay Peninsula or Sumatra, where Diard and Duvaucel might have collected it. The bird had already been described scientifically about 50 years before Diard and Duvaucel travelled to the region.
+
+#### **Nº 34: Green Broadbill *Calyptomena viridis***
+
+On 1 June 1820, Stamford Raffles wrote about the Green Broadbill in his *Descriptive Catalogue of a Zoological Collection* thus: “Found in the retired parts of the forests of Singapore and of the interior of Sumatra.” There are two depictions of this broadbill in the collection. They are nearly identical, differing only in the composition of the tuft of feathers on the forehead. In both drawings, the birds are male, as indicated by the small yellow spots above their eyes. From Raffles’ catalogue entry, it can be inferred that he must have procured at least two specimens, one from Singapore and another from the environs of Bencoolen (Bengkulu) in Sumatra. Diard, Duvaucel and William Jack (a botanist working with Raffles) could have collected the Singapore specimen during their visit in 1819. This species has the distinction of being the first bird from Singapore to be given a scientific name.
+
+#### **Nº 11: Nº 67: Javanese Lapwing *Vanellus macropterus***
+
+The lapwing depicted in this drawing used to occur in a few places in Java. Today, it is thought to be extinct and reports of sightings in Sumatra have not been substantiated thus far. Stamford Raffles or Diard and Duvaucel might have bought a specimen in a market, which would not have been an unusual practice then. Although the species had already been described from a bird in the collections of the Muséum National d’Histoire Naturelle in Paris, that specimen has no connection with either Diard or Duvaucel.
