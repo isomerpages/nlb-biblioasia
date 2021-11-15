@@ -167,21 +167,21 @@ In 1964, the Town Convent was separated into primary and secondary schools and, 
 
 [^11]:Lee, Y. M. (2002). Great is thy faithfulness: The story of St Margaret’s School in Singapore (pp. 27, 28, 30). Singapore: St Margaret’s School. (Call no.: RSING q373.5957 SAI)
 
-[^12]:Lee, 2002, pp. 30–31; O’Sullivan, 1986, p. 134; Sng, B.E.K. (2003). In His good time: The story of the church in Singapore, 1819–2002 (p. 62, 63, 78, 86). Singapore: Bible Society of Singapore: Graduates’ Christian Fellowship. (Call no.: RSING 280.4095957 SNG)
+[^12]:[Lee](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11854647), 2002, pp. 30–31; [O’Sullivan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5701470), 1986, p. 134; Sng, B.E.K. (2003). In *[His good time: The story of the church in Singapore, 1819–2002](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12253210)* (p. 62, 63, 78, 86). Singapore: Bible Society of Singapore: Graduates’ Christian Fellowship. (Call no.: RSING 280.4095957 SNG)
  
-[^13]:Song O.S. (2020). One hundred years’ history of the Chinese in Singapore. (p. 78). Singapore: National Library Board Singapore. Retrieved from BookSG.
+[^13]:Song O.S. (2020). *[One hundred years’ history of the Chinese in Singapore](https://eresources.nlb.gov.sg/printheritage/detail/d77d9bfc-e335-4775-a6bf-e8712deaa81f.aspx?s=history%20of%20the%20Chinese%20in%20Singapore)*. (p. 78). Singapore: National Library Board Singapore. Retrieved from BookSG.
 
-[^14]:Walker, E.A. (1899). Sophia Cooke, or, forty-two years’ work in Singapore (pp. 5, 28-29). London: E. Stock. [Call no.: RRARE 287.10924 WAL; Microfilm no.: NL 11273]; Sng, 2003, pp. 65–66; Makepeace, Brooke & Braddell, 1991, p. 462.
+[^14]:Walker, E.A. (1899). *[Sophia Cooke, or, forty-two years’ work in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5013101)* (pp. 5, 28-29). London: E. Stock. [Call no.: RRARE 287.10924 WAL; Microfilm no.: NL 11273]; [Sng](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12253210), 2003, pp. 65–66; [Makepeace, Brooke & Braddell](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6203718), 1991, p. 462.
 
-[^15]:Ragged schools referred to the independently run charity schools the United Kingdom in the 19th century. These provided free education, food and lodging for the destitute. See Ragged University. (n. d.). Education history: A brief history of Ragged Schools. Retrieved from Ragged University website. 
+[^15]:Ragged schools referred to the independently run charity schools the United Kingdom in the 19th century. These provided free education, food and lodging for the destitute. See Ragged University. (n. d.). *Education history: A brief history of Ragged Schools*. Retrieved from Ragged University website. 
 
-[^16]:Walker, 1899, pp. 43–45.
+[^16]:[Walker](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5013101), 1899, pp. 43–45.
 
-[^17]:Tiedemann, R.G. (2009). Reference guide to Christian missionary societies in China: From the sixteenth to the twentieth century (p. 213). Armonk, New York: M. E. Sharpe. (Call no.: R 266.0095103 TIE); Seton, R. E. (2013). Western daughters in Eastern lands: British missionary women in Asia (p. 95). Santa Barbara, California: Praeger. (Call no.: R 266.0234105082 SET); Lee, 2002, p. 70.
+[^17]:Tiedemann, R.G. (2009). *[Reference guide to Christian missionary societies in China: From the sixteenth to the twentieth century](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13161090)* (p. 213). Armonk, New York: M. E. Sharpe. (Call no.: R 266.0095103 TIE); Seton, R. E. (2013). *[Western daughters in Eastern lands: British missionary women in Asia](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200146253)* (p. 95). Santa Barbara, California: Praeger. (Call no.: R 266.0234105082 SET); [Lee](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11854647), 2002, p. 70.
 
-[^18]:National Library Board (2014, December 16). St Margaret’s School written by Fiona Tan. Retrieved from Singapore Infopedia.
+[^18]:National Library Board (2014, December 16). *[St Margaret’s School](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2014-12-16_105929.html)* written by Fiona Tan. Retrieved from Singapore Infopedia.
 
-[^19]:Walker, 1899, p. 37; Young Women’s Christian Association. (1995). Young Women’s Christian Association: 1875–1995 (p. 16). Singapore: Young Women’s Christian Association, (Call no.: RSING 267.59597 YOU); Young women’s association. (1898, January 3). The Straits Times, p. 3. Retrieved from NewspaperSG.
+[^19]:[Walker](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5013101), 1899, p. 37; Young Women’s Christian Association. (1995). *[Young Women’s Christian Association: 1875–1995](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12397109)* (p. 16). Singapore: Young Women’s Christian Association, (Call no.: RSING 267.59597 YOU); [Young women’s association](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18980103-1.2.53.aspx). (1898, January 3). *The Straits Times*, p. 3. Retrieved from NewspaperSG.
 
 [^20]:[Walker](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5013101), 1899, pp. 73, 83; Doraisamy, T.R. (Ed.). (1987). *[Sophia Blackmore in Singapore: Educational and missionary pioneer 1887–1927](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4606361)* (p. 17). Singapore: General Conference Women’s Society of Christian Service, Methodist Church of Singapore. (Call no.: RSING 266.70924 SOP); [The Sailor’s Rest](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18831117-1.2.8.35.3). (1883, November 17). *Straits Times Weekly Issue*, p. 13; Tyers, R. (1973, May 4). [Our heritage](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19730504-1.2.59). *New Nation*, p. 15. Retrieved from NewspaperSG; [Sng](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12253210), 2003, pp. 66–67
 
