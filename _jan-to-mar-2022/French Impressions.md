@@ -5,7 +5,7 @@ description: ""
 ---
 #### A little-known collection of French natural history drawings of Singapore and its neighbouring countries between 1818 and 1820 shed light on the early study of the region’s flora and fauna.
 
-![Alt text for image on Isomer site](/images/vol-17-issue-3/strange-vision/La%20Decouverte.jpg)
+![Alt text for image on Isomer site](/images/vol-17-issue-4/diard-duvaucel/DiardDuvaucel.jpg)
 <div style="background-color: white;"><i>Diard & Duvaucel: French Natural History Drawings of Singapore and Southeast Asia 1818–1820</i> is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (Call nos.: RSING 508.0222 DIA and SING 508.0222 DIA) and for sale at all major bookstores, including Epigram’s online store at epigrambookshop.sg.</div>
 
 
@@ -23,30 +23,43 @@ We can’t be certain if Diard and Duvaucel were the first Frenchmen to have ste
 
 #### **Nº 11: Banded Woodpecker *Chrysophlegma miniaceum***
 
+![Alt text for image on Isomer site](/images/vol-17-issue-4/diard-duvaucel/Banded%20Woodpecker.jpg)
 This woodpecker with a yellow-tipped crest can still be spotted in Singapore today. The specimen portrayed in this drawing, however, is more likely from the Malay Peninsula or Sumatra, where Diard and Duvaucel might have collected it. The bird had already been described scientifically about 50 years before Diard and Duvaucel travelled to the region.
 
 #### **Nº 34: Green Broadbill *Calyptomena viridis***
 
+![Alt text for image on Isomer site](/images/vol-17-issue-4/diard-duvaucel/Green%20Broadbill.jpg)
 On 1 June 1820, Stamford Raffles wrote about the Green Broadbill in his *Descriptive Catalogue of a Zoological Collection* thus: “Found in the retired parts of the forests of Singapore and of the interior of Sumatra.” There are two depictions of this broadbill in the collection. They are nearly identical, differing only in the composition of the tuft of feathers on the forehead. In both drawings, the birds are male, as indicated by the small yellow spots above their eyes. From Raffles’ catalogue entry, it can be inferred that he must have procured at least two specimens, one from Singapore and another from the environs of Bencoolen (Bengkulu) in Sumatra. Diard, Duvaucel and William Jack (a botanist working with Raffles) could have collected the Singapore specimen during their visit in 1819. This species has the distinction of being the first bird from Singapore to be given a scientific name.
 
 #### **Nº 11: Nº 67: Javanese Lapwing *Vanellus macropterus***
 
+![Alt text for image on Isomer site](/images/vol-17-issue-4/diard-duvaucel/Javanese%20Lapwing.jpg)
 The lapwing depicted in this drawing used to occur in a few places in Java. Today, it is thought to be extinct and reports of sightings in Sumatra have not been substantiated thus far. Stamford Raffles or Diard and Duvaucel might have bought a specimen in a market, which would not have been an unusual practice then. Although the species had already been described from a bird in the collections of the Muséum National d’Histoire Naturelle in Paris, that specimen has no connection with either Diard or Duvaucel.
 
 #### **Nº 7b: Hanuman Langur *Semnopithecus entellus***
 
+![Alt text for image on Isomer site](/images/vol-17-issue-4/diard-duvaucel/Hanuman%20Langur.jpg)
 When Duvaucel was staying in Chandernagor (Chandannagar) in West Bengal, India, langurs were quite a common sight, especially at the start of winter. Local Bengalis consider the monkey species depicted in this drawing as sacred because its black face and hands resemble those of the Hindu monkey god Hanuman. According to accounts, every time Duvaucel had a chance to point a gun at one of these langurs, the people around him would start making loud noises, causing the animals to scatter. One day, Duvaucel went to the holy town of Gouptipara (Guptipara) in the Hooghly district, not far from his home, where dozens of langurs were resting in the trees. Before Duvaucel could get hold of a specimen, however, he was surrounded by a dozen devotees intent on stopping him. On his way home, he noticed a beautiful female Hanuman Langur; unable to resist the temptation, he shot her. She died, just after trying to save her baby by hiding it among the leaves of a tree. Perhaps Duvaucel felt sorry for what he had done. The female monkey is immortalised in this drawing, which was reproduced in *Histoire Naturelle des Mammifères*, a grand illustrated work on recently discovered mammals by his uncle (by marriage) Frédéric Cuvier in 1825.
 
 #### **Nº 2: Spiny Turtle *Heosemys spinosa***
 
+![Alt text for image on Isomer site](/images/vol-17-issue-4/diard-duvaucel/Spiny%20Turtle.jpg)
 “The island of Singapore” or “isle de Singapour” states the annotation on the drawing. This is quite a remarkable statement to make at a time when Singapore had only just entered the public consciousness in Europe because of Raffles and the East India Company. Diard and Duvaucel were in Singapore between January and February as well as May and June 1819, during which time they could have observed the young turtle represented in this drawing. Although no date was written on the paper, this may well have been the first illustration of an animal found in Singapore. The Spiny Turtle is found widely across Southeast Asia, usually in lowland rainforests near rivers or streams. The half-completed aspect of some of drawings, like this example, suggests that the artist (or artists) working in the field with Diard and Duvaucel were under pressure to record time-critical aspects of the animals. This is particularly obvious with the drawing of the Spiny Turtle – the identical left legs could have been added later.
 
 
 #### **Nº 3: Kuhl’s Gliding Gecko *Gekko kuhli***
 
+![Alt text for image on Isomer site](/images/vol-17-issue-4/diard-duvaucel/Kuhls%20Gliding%20Gecko.jpg)
 The specimen portrayed in this drawing was obtained in Sumatra. This conspicuous gecko was first described from Java, where Diard again found it after he left the employ of Stamford Raffles. Kuhl’s Gliding Gecko can also be found in Singapore, where an early specimen was collected and donated to the Muséum National d’Histoire Naturelle in Paris in December 1868 by the French trader Andrew Spooner.
 
 
 #### **Nº 2: Flask-shaped Pitcher Plant *Nepenthes ampullaria***
 
+![Alt text for image on Isomer site](/images/vol-17-issue-4/diard-duvaucel/Flask-shaped%20Pitcher.jpg)
 Stamford Raffles collected pitcher plants when he first visited Singapore in early 1819, and these became the first botanical specimens from mainland Singapore. The Scottish botanist William Jack was working for Raffles at the time, but he did not accompany Raffles on this first visit to Singapore and instead remained at Prince of Wales Island (Penang). When Raffles returned to Penang from Singapore, these botanical specimens were passed to Jack for study. Jack named one of the species after Raffles – *Nepenthes rafflesiana* Jack (better known as the Raffles’ Pitcher Plant) – to honour the collector. What is depicted in this drawing though is the *Nepenthes ampullaria*. These names were only published in 1835, years after Jack’s death in 1822 and based on research and drawings that were sent back to England. Diard and Duvaucel would have known about Jack’s work, although this painting was probably drawn from a separate specimen at a later date.
+
+#### **NOTES**
+
+[^1]: Danièle Weiler, “[Stamford Raffles and the Two French Naturalists](https://biblioasia.nlb.gov.sg/vol-16/issue-2/jul-sep-2020/raffles),” *BiblioAsia* 16, no. 2 (Jul–Sep 2020).
+
+[^2]: *Figures peintes d’oiseaux [et de reptiles], envoyées de l’Inde par Duvaucel et Diard (Painted depictions of birds [and reptiles], sent from India by Duvaucel and Diard)* can be accessed from here: [https://eresources.nlb.gov.sg/printheritage/detail/c908d4fd-4e4b-441d-bdab-48c9eb69d0c1.aspx.](https://eresources.nlb.gov.sg/printheritage/detail/c908d4fd-4e4b-441d-bdab-48c9eb69d0c1.aspx)
