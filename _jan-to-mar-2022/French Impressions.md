@@ -17,9 +17,8 @@ What makes the Diard and Duvaucel collection especially significant is that it c
 
 Although the relationship between Raffles and the two naturalists ended abruptly, with the Frenchmen dismissed and their precious specimens and research confiscated, the drawings found their way safely back to France where they reside today in the collections of the Muséum National d’Histoire Naturelle in Paris. Thanks to the generosity of the museum, the National Library, Singapore, was given permission to put up the digitised images of the collection on its BookSG portal for the public to access in 2020.[^2]
 
-More recently, all 117 illustrations have been published in a hardcover book titled Diard & Duvaucel: French Natural History Drawings of Singapore and Southeast Asia, 1818−1820. Co-published by Epigram, the Embassy of France in Singapore and the National Library together with several key partners, the introductory essays and detailed captions accompanying the stunning illustrations have been written by a team of scientists and curators based in Singapore, Paris and Spain. 
+More recently, all 117 illustrations have been published in a hardcover book titled *Diard & Duvaucel: French Natural History Drawings of Singapore and Southeast Asia, 1818−1820*. Co-published by Epigram, the Embassy of France in Singapore and the National Library together with several key partners, the introductory essays and detailed captions accompanying the stunning illustrations have been written by a team of scientists and curators based in Singapore, Paris and Spain. 
 
 We can’t be certain if Diard and Duvaucel were the first Frenchmen to have stepped on Singapore soil, but certainly they are now the first to be part of our documented history. These brave men who left the comforts of their homeland blazed a trail for other French citizens − explorers, planters, merchants and missionaries − who followed in their wake. That French presence continues in Singapore today, represented by a 20,000-strong community who are part of the city’s commercial and cultural scene. 
 
 #### **Whence Solomon’s Ships Return**
-
