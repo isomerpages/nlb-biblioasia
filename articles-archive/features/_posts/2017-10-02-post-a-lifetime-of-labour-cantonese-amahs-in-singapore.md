@@ -6,7 +6,7 @@ layout: post
 ---
 #### The black-and-white *amah*, renowned for her domestic skills, has left a mark on history in more ways than one, as **Janice Loo** tells us.
 
-<div style="background-color: white;"><br><img src="/images/Vol-13-issue-3/a-lifetime-of-labour/01_amah.png">An <i>amah</i> with her mistress and charge at the Singapore Swimming Club in 1942. <i>Photo by Gavin G. Wallace. PAColl-2480. Alexandar Turnbill Library, Wellington.</i></div>
+<div style="background-color: white;"><br><img style="width:500px" src="/images/Vol-13-issue-3/a-lifetime-of-labour/01_amah.png">An <i>amah</i> with her mistress and charge at the Singapore Swimming Club in 1942. <i>Photo by Gavin G. Wallace. PAColl-2480. Alexandar Turnbill Library, Wellington.</i></div>
 
 Hair coiled up in an elegant bun or worn in a single plait down the back, a white blouse paired with ankle-length black trousers, and black slippers – this was the quintessential look of the *amah*, or Chinese female domestic servant, from bygone days.[^1]
 
