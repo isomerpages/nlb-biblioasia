@@ -8,7 +8,7 @@ layout: post
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-11-issue-1/revivalofsgcinema/bg4.jpg">
+<img style="width:70%" src="/images/vol-11-issue-1/revivalofsgcinema/bg4.jpg">
 Film still from Eric Khoo's <i>Mee Pok Man</i>, which starred Michelle Goh and Joe Ng. © Mee Pok Man. <i>Directed by Eric Khoo, produced by Jacqueline Khoo, distributed by Zhao Wei Films. Singapore 1995. Courtesy of Zhao Wei Films</i>. 
 </div>
 
@@ -34,7 +34,7 @@ Two years later, Khoo directed his second feature film, <i>12 Storeys</i>, a soc
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-11-issue-1/revivalofsgcinema/12_storeys.jpg">
+<img style="width:70%" src="/images/vol-11-issue-1/revivalofsgcinema/12_storeys.jpg">
 Lum May Yee (left) and Koh Boon Pin (right) in <i>12 Storeys</i>. © 12 Storeys. <i>Directed by Eric Khoo, produced by Brian Hong, distributed by Golden Village Pictures. Singapore 1997. Courtesy of Zhao Wei Films.</i>
 </div>
 
@@ -52,14 +52,14 @@ In 2011, Khoo released what might be seen as a far more daring and refreshing fi
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-11-issue-1/revivalofsgcinema/Be_With_Me.jpg">
+<img style="width:70%" src="/images/vol-11-issue-1/revivalofsgcinema/Be_With_Me.jpg">
 Eric Khoo (centre) during the production of <i>Be With Me</i>. Courtesy of Zhao Wei Films.
 </div>
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-11-issue-1/revivalofsgcinema/Tatsumi.jpg">
-Film still of Eric Khoo's Tatsumi, a film inspired by the works of manga artist, Yoshihiro Tatsumi. © Tatsumi. <i>Directed by Eric Khoo, produced by Tan Fong Cheng, Gary Goh, Phil Mitchell, Freddie Yeo, Eric Khoo and Brian Gothong Tan, distributed by Golden Village Pictures and Happiness. Singapore, 2011. Courtesy of Zhao Wei Films</i>.
+<img style="width:70%" src="/images/vol-11-issue-1/revivalofsgcinema/Tatsumi.jpg">
+Film still of Eric Khoo's <i>Tatsumi</i>, a film inspired by the works of manga artist, Yoshihiro Tatsumi. © Tatsumi. <i>Directed by Eric Khoo, produced by Tan Fong Cheng, Gary Goh, Phil Mitchell, Freddie Yeo, Eric Khoo and Brian Gothong Tan, distributed by Golden Village Pictures and Happiness. Singapore, 2011. Courtesy of Zhao Wei Films</i>.
 </div>
 
 
@@ -71,7 +71,7 @@ Unfortunately, Ong discontinued his filmmaking work partly due to personal reaso
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-11-issue-1/revivalofsgcinema/Lim_Kay_Tong_in_Perth_by_Djinn.jpg">
+<img style="width:70%" src="/images/vol-11-issue-1/revivalofsgcinema/Lim_Kay_Tong_in_Perth_by_Djinn.jpg">
 Lim Kay Tong in <i>Perth: The Geylang Massacre</i>. © Perth: The Geylang Massacre. <i>Directed by Djinn Ong, distributed by Tartan Films. Singapore, 2004</i>.
 </div>
 
@@ -81,7 +81,7 @@ Royston Tan, for instance, has moved from the controversial <i>15</i> (2003) to 
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-11-issue-1/revivalofsgcinema/881_19.jpg">
+<img style="width:70%" src="/images/vol-11-issue-1/revivalofsgcinema/881_19.jpg">
 Royston Tan's <i>881</i> explores the colourful world of getai. © 881. <i>Directed by Royston Tan, produced by Gary Goh, James Toh, Chan Pui Yin, Freddie Yeo, Tan Fong Cheng and Ang Hwee Sim, distributed by Golden Village Pictures. Singapore, 2007</i>.
 </div>
 
@@ -96,14 +96,14 @@ The hapless misadventures of the comic trio in <i>Money No Enough</i> became one
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-11-issue-1/revivalofsgcinema/MNE9_re.jpg">
+<img style="width:70%" src="/images/vol-11-issue-1/revivalofsgcinema/MNE9_re.jpg">
 Mark Lee (left) and Jack Neo (right) in 1998's <i>Money No Enough</i>. <i>Directed by Tay Yeck Lock, produced by JSP Films, distributed by Shaw Organisation. Singapore, 1998. Courtesy of J Team Productions</i>.
 </div>
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-11-issue-1/revivalofsgcinema/i_not_stupid_re.jpg">
-I Not Stupid starred Joshua Ang (left) and Shawn Lee (right) in 2002. <i>Directed by Jack Neo, produced by Mediacorp Raintree Productions, distributed by United International Pictures, Singapore, 2002. Courtesy of J Team Productions</i>.
+<img style="width:70%" src="/images/vol-11-issue-1/revivalofsgcinema/i_not_stupid_re.jpg">
+	<i>I Not Stupid</i> starred Joshua Ang (left) and Shawn Lee (right) in 2002. <i>Directed by Jack Neo, produced by Mediacorp Raintree Productions, distributed by United International Pictures, Singapore, 2002. Courtesy of J Team Productions</i>.
 </div>
 
 With <i>That One No Enough</i>, Neo embarked on a directing career that turned him into Singapore’s most prolific filmmaker, directing a total of 18 feature films within 16 years (from 1998 to 2014). Some critics found him a bit too prolific to be consistently good all the time, and it is true that some of his comedies were not as commercially successful – sometimes because they were just not as funny as his previous efforts. The truth is that making people laugh is far more difficult than making people cry – be it when writing a book, staging a play or directing a movie. So far, despite his highs and lows, Neo has done a pretty good job at making Singaporeans laugh at themselves, something much needed for the morale and psychological sanity of a nation not often known for its self-deprecating humour. 
@@ -116,7 +116,7 @@ Although Homerun re-casted some of the children who acted in <i>I Not Stupid</i>
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-11-issue-1/revivalofsgcinema/homerun_sht_113_re.jpg">
+<img style="width:70%" src="/images/vol-11-issue-1/revivalofsgcinema/homerun_sht_113_re.jpg">
 Shawn Lee (left) and Megan Zhang (right) in <i>Homerun</i>, a re-make of Majid Majidi's <i>Children of Heaven. Directed by Jack Neo, produced by Chan Pui Yin and Titus Ho, distributed by Mediacorp Raintree Pictures. Singapore 2003. Courtesy of J Team Productions. </i>
 </div>
 
@@ -130,7 +130,7 @@ Looking back at Jack Neo’s accomplishments over the last 15 years or so, it wo
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-11-issue-1/revivalofsgcinema/ahboytoman.jpg">
+<img style="width:70%" src="/images/vol-11-issue-1/revivalofsgcinema/ahboytoman.jpg">
 A film still from <i>Ah Boys to Men</i>. © Ah Boys to Men. <i>Directed by Jack Neo, produced by Jack Neo, Lim Teck and Leonard Lao, distributed by Golden Village Pictures &amp; Clover Films. Singapore, 2012. Courtesy of J Team Productions. </i>
 </div>
 
@@ -145,13 +145,13 @@ In 2010, another young Singaporean director, Boo Junfeng, completed his first fe
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-11-issue-1/revivalofsgcinema/Sandcastle.jpg">
+<img style="width:70%" src="/images/vol-11-issue-1/revivalofsgcinema/Sandcastle.jpg">
 Bobbi Chen and Joshua Tan in Boo Junfeng's 2010 <i>Sandcastle</i>. © Sandcastle. <i>Directed by Boo Junfeng, produced by Fran Borgia &amp; Gary Goh, distributed by Golden Village Pictures. Singapore, 2010. Courtesy of Zhao Wei Films.</i>
 </div>
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-11-issue-1/revivalofsgcinema/5_HERE_feature_film_HD_86_min_2009_production_still_by_Shannon_Castleman_5.jpg">
+<img style="width:70%" src="/images/vol-11-issue-1/revivalofsgcinema/5_HERE_feature_film_HD_86_min_2009_production_still_by_Shannon_Castleman_5.jpg">
 The late Chuen Boone Ong in his role as Monsters Man in Ho Tzu Nyen’s 2009 <i>HERE</i>. <i>Directed by Ho Tzu Nyen, produced by Fran Borgia, Michel Cayla and Jason Lai, distributed by Cathay-Keris Films (Singapore). Singapore, 2009. Courtesy of Ho Tzu Nyen.</i>
 </div>
 
@@ -163,13 +163,13 @@ Finally, in late 2014, a new film director emerged in the person of Ken Kwek, wi
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-11-issue-1/revivalofsgcinema/llo_llo_re.jpg">
+<img style="width:70%" src="/images/vol-11-issue-1/revivalofsgcinema/llo_llo_re.jpg">
 Angeli Bayani and Jieler Koh in <i>Ilo Ilo</i>. © Ilo Ilo. <i>Directed by Anthony Chen, produced by Ang Hwee Sim, Anthony Chen, Wahyuni A Hadi, distributed by Golden Village Pictures. Singapore, 2013.</i>
 </div>
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-11-issue-1/revivalofsgcinema/Adrian_Pang_in_Unlucky_Plaza_by_Ken_Kwek.jpg">
+<img style="width:70%" src="/images/vol-11-issue-1/revivalofsgcinema/Adrian_Pang_in_Unlucky_Plaza_by_Ken_Kwek.jpg">
 Adrian Pang in <i>Unlucky Plaza</i>. <i>Directed by Ken Kwek, produced by Ken Kwek, Kat Goh and Leon Tong. Singapore. 2014. © Kaya Toast Pictures.</i>
 </div>
 
