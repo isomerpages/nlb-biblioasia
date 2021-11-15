@@ -118,3 +118,29 @@ Suriya Rethnna, a former school teacher, has written for Singaporean and Malaysi
 <img style="width:70%" src="/images/vol-10-issue-1/tamil/Suriya1.jpg">சூர்ய ரத்னா எழுதிய ‘நான்’ சிறுகதைத் தொகுப்ப.</div>
 
 <p style="font-size:15px;"><b>Sundari Balasubramaniam</b> is a librarian with the National Library’s Content and Services division. Her responsibilities include managing and developing content as well as providing reference and research services. She also manages the Tamil collection at the Lee Kong Chian Reference Library.</p>
+
+**மேற்கோள்  குறிப்பு்கள்**
+
+முனவைர் எம் எஸ் லக்ஷ்மி. சிங்கப்பூர் பெண் எழுத்தாளர்களின் பங்களிப்பு.  Retrieved March 5, 2014, from http://www.kalachuvadu.com/issue-60/ page24.asp
+
+கமலாதேவி அரவிந்தன். Retrieved March 5, 2014, from http://www.sirukathaigal.com/
+சிவ குணாளன் (2011, May 24). கமலாதேவி அரவிந்தனிடம் ஓர் நேர்காணல். [Web log post]. Retrieved March 5, 2014, from http://kamalagaanam.blogspot.sg/
+
+ஜெயந்தி சங்கர். [Web log post]. Retrieved March 5, 2014, from http://jeyanthisankar.blogspot.sg/
+
+ஜெயந்தி சங்கரின் படைப்புகள். Retrieved March 5, 2014, from http://www.tamiloviam.com/unicode/authorpage.asp?authorID=jayanthi
+
+Karikalan Awards (Dec 15, 2013). Retrieved March 5, 2014, from http://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/two-tamil-writers-from-singapore-malaysiapresented-karikalan-awards/article5461703.ece
+
+[ஜெயந்தி சங்கரின் படைப்புகள்](https://nlb.overdrive.com/search?query=%E0%AE%9C%E0%AF%86%E0%AE%AF%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%BF+). Retrieved March 5, 2014. (myLibrary ID is required to access this ebook)
+
+ஆதித்யா. (2011). உயிர் நிலவு: கவிஞர் நூர்ஜஹான்  சுலைமான்னின்   நூல்வெளியீட்டு விழா  (e magazine) Retrieved March 5, 2014, from (http://www.thangameen.com/Archieves/contentdetails.aspx?tid=285&iid=35
+தங்கமீன் வாசகர் வட்டம் நேர்காணல் எழுத்தாளர் மாதங்கி (e magazine). Retrieved March 5, 2014, from http://www.thangameen.com/ContentDetails.aspx?tid=734
+
+சுப்ரபாரதிமணியன் பெரிதினும் பெரிது கேள் – மாதங்கியின் “ஒரு கோடி டாலர்கள” – சிறுகதைத் தொகுதி (e magazine) Retrieved March 5, 2014, from http://www.sandhyapublications.com/review.aspx
+
+நேர்காணல் (இதழ் 7, 2009). படைப்பிலக்கியத்தில் அடயதாளத்தை முன்னிலைப்படுத்துவது ஒருவைக வியாபாரம் (e magazine). Retrieved March 5, 2014, from http://vallinam.com.my/jan09/interview.html
+
+இராம கண்ணபிரான் (ஆஉக 29, 2013). சிங்கப்பூர்த் தமிழ் சிறுகதைகள் (e magazine) Retrieved March 5, 2014, http://singaporecliche.com
+
+பாலு மணிமாறன். (2007). *[வேறொரு மனவெளி சிங்கப்பூர் தங்கமீன் பதிப்பகம்](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13028799)*. சிங்கப்பூர்: தங்கமீன் பதிப்பகம். (Call no.: Tamil RSING S894.811372 VER)
