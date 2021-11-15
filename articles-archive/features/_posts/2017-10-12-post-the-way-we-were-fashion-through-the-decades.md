@@ -31,7 +31,7 @@ Although cinemas had been around in Singapore since the early 1900s, it was the 
 
 *Fashion* was the title of the first Malay weekly fashion magazine published in Malaya. The *kebaya* designs featured in the magazine had a more defined silhouette accentuated with interesting necklines and elements borrowed from Western-style dresses. The fashion-forward *kebaya* designs also borrowed from other ethnic costumes, such as the body-hugging *cheongsam* with Chinese frog buttons.
 
-<div style="background-color: white;"><img style="width:500px" src="/images/Vol-13-issue-3/the-way-we-were/03_thewaywewere.png">This is the cover of the 20 February 1955 edition of Fashion, the first Malay weekly fashion magazine published in Malaya. On page 18 of this issue is a <i>cheongsam</i>-inspired body-hugging <i>kebaya</i> with Chinese frog buttons. <i>All rights reserved, C. Mahat. (1955, February 20). Fashion. Singapore: R. M. Yusoff Ahmad: Harmy.</i></div>
+<div style="background-color: white;"><img style="width:500px" src="/images/Vol-13-issue-3/the-way-we-were/03_thewaywewere.png">This is the cover of the 20 February 1955 edition of <i>Fashion</i>, the first Malay weekly fashion magazine published in Malaya. On page 18 of this issue is a <i>cheongsam</i>-inspired body-hugging <i>kebaya</i> with Chinese frog buttons. <i>All rights reserved, C. Mahat. (1955, February 20). Fashion. Singapore: R. M. Yusoff Ahmad: Harmy.</i></div>
 
 *Fashion Mirror* was one of the pioneering publications that featured content on local fashion. First published in 1958, it was one of the most popular magazines among women in Singapore with articles specially written for Malayan readers. The magazine showcased clothing that was influenced by Western culture and infused with a dash of local flavour. One such outfit was the Chinese *samfu*, a blouse-and-trouser pairing using modern fabrics enhanced with “border” designs to create a “novel and striking effect”, as seen in the May–June 1959 issue.
 
@@ -119,13 +119,13 @@ The efforts seem to have paid off. In 2011, Singapore was ranked number eight in
 
 [^5]:[National Heritage Board & Fashion Designers Society](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200079477), 1993, p. 7. 
 
-[^6]:[National Heritage Board & Fashion Designers Society](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200079477), 1993, p. 7; [Souza, Ong & Rao](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202544912), 2016, p. 16; Yak, J., & Balasubramaniam, S. (2014, October–December). [In vogue](http://www.nlb.gov.sg/Users/user/AppData/Local/Microsoft/Windows/INetCache/IE/S2IHAN61/BiblioAsia_v10%20iss3_FA_lowres_spread.pdf). *BiblioAsia, 10* (3), 56–60. Retrieved from BiblioAsia website; Chandramohan, G. (2017, February 24). Singapore chic. Retrieved from Roots.sg. website. 
+[^6]:[National Heritage Board & Fashion Designers Society](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200079477), 1993, p. 7; [Souza, Ong & Rao](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202544912), 2016, p. 16; Yak, J., & Balasubramaniam, S. (2014, October–December). [In vogue](https://biblioasia.nlb.gov.sg/all-issues/). *BiblioAsia, 10* (3), 56–60. Retrieved from BiblioAsia website; Chandramohan, G. (2017, February 24). Singapore chic. Retrieved from Roots.sg. website. 
 
 [^7]:[Souza, Ong & Rao](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202544912), 2016, pp. 14–15. 
 
-[^8]:[Yak & Balasubramaniam](http://www.nlb.gov.sg/Users/user/AppData/Local/Microsoft/Windows/INetCache/IE/S2IHAN61/BiblioAsia_v10%20iss3_FA_lowres_spread.pdf), Oct-Dec 2014, pp. 56–60.
+[^8]:[Yak & Balasubramaniam](https://biblioasia.nlb.gov.sg/all-issues/), Oct-Dec 2014, pp. 56–60.
 
-[^9]:[Souza, Ong & Rao](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202544912), 2016, p. 34; [Yak & Balasubramaniam](http://www.nlb.gov.sg/Users/user/AppData/Local/Microsoft/Windows/INetCache/IE/S2IHAN61/BiblioAsia_v10%20iss3_FA_lowres_spread.pdf), Oct-Dec 2014, pp. 56–60.
+[^9]:[Souza, Ong & Rao](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202544912), 2016, p. 34; [Yak & Balasubramaniam](https://biblioasia.nlb.gov.sg/all-issues/), Oct-Dec 2014, pp. 56–60.
 
 [^10]:Lee, Y.M. (1982, May 15). [Campaign to promote S’pore high fashion abroad](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19820515-1.2.9). *The Business Times*, p. 1; [Apparel ’83 – a sign of progressive enterprise](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19821003-1.2.59). (1982, October 3). *The Straits Times*, p. 13. Retrieved from NewspaperSG. 
 
