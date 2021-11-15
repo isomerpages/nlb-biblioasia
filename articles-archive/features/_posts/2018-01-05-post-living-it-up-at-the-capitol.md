@@ -191,11 +191,11 @@ The author would like to thank Raphaël Millet, who reviewed this article before
 
 [^28]:[No more shows at Capitol Theatre](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19411220-1.2.61). (1941, December 20). *The Singapore Free Press and Mercantile Advertiser*, p. 6. Retrieved from NewspaperSG.
 
-[^29]:Oral history interview with Kartar Singh, 19 Jul 2002.
+[^29]:*[Oral history interview with Kartar Singh](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/5cec160e-1160-11e3-83d5-0050568939ad?keywords=capitol&keywords-type=all),* 19 Jul 2002.
 
-[^30]:Chew, D. (Interviewer). (1993, April 14). Oral history interview with Maurice Baker [Transcript of MP3 recording no. 000095/6/2, p. 19]. Retrieved from National Archives of Singapore website. 
+[^30]:Chew, D. (Interviewer). (1993, April 14). *[Oral history interview with Maurice Baker](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/3/3e25ebdd-115f-11e3-83d5-0050568939ad-OHC000095_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=7)* [Transcript of MP3 recording no. 000095/6/2, p. 19]. Retrieved from National Archives of Singapore website. 
 
-[^31]:Tan, B. L. (Interviewer). (1985, April 17). Oral history interview with Patrick Hardie [Transcript of MP3 recording no. 000545/9/5, p. 63]. Retrieved from National Archives of Singapore website.
+[^31]:Tan, B. L. (Interviewer). (1985, April 17). *[Oral history interview with Patrick Hardie](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/f/f4838cd7-115d-11e3-83d5-0050568939ad-OHC000545_006/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=1)* [Transcript of MP3 recording no. 000545/9/5, p. 63]. Retrieved from National Archives of Singapore website.
 
 [^32]:Lim, J. (Interviewer). (2002, July 19). *[Oral history interview with Kartar Singh](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/5cec160e-1160-11e3-83d5-0050568939ad?keywords=capitol&keywords-type=all)* [MP3 recording no. 002335/34/6]; Lim, J. (Interviewer). (2002, July 26). *[Oral history interview with Kartar Singh](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/5cec160e-1160-11e3-83d5-0050568939ad?keywords=capitol&keywords-type=all)* [MP3 recording no. 002335/34/7]. Retrieved from National Archives of Singapore website. 
 
