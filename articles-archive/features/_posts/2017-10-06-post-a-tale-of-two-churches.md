@@ -106,7 +106,7 @@ Unlike Penang’s Armenian church which has disappeared from living memory, its 
 
 [^7]:HyeEtch. (1999, August 30). *Formation of a national style*. Retrieved from Hye Etch Arts & Culture website.
 
-[^8]:Newbold, T.J. (1839). Political and statistical account of the British settlements in the Straits of Malacca (Vol. 1, p. 49). London: John Murray. Retrieved from BookSG; Low, J. (1836). *[A dissertation on the soil & agriculture of the British settlement of Penang, or Prince of Wales island, in the Straits of Malacca](http://eresources.nlb.gov.sg/printheritage/detail/f4bfb7e2-bfbe-4c56-b995-ee105dad9a04.aspx)* (p. 315). Singapore: Printed at the Singapore Free Press Office. Retrieved from BookSG.
+[^8]:Newbold, T.J. (1839). *[Political and statistical account of the British settlements in the Straits of Malacca](http://eresources.nlb.gov.sg/printheritage/detail/8123f6c8-67a1-48c6-97a6-3357c3bc5966.aspx)* (Vol. 1, p. 49). London: John Murray. Retrieved from BookSG; Low, J. (1836). *[A dissertation on the soil & agriculture of the British settlement of Penang, or Prince of Wales island, in the Straits of Malacca](http://eresources.nlb.gov.sg/printheritage/detail/f4bfb7e2-bfbe-4c56-b995-ee105dad9a04.aspx)* (p. 315). Singapore: Printed at the Singapore Free Press Office. Retrieved from BookSG.
 
 [^9]:Dr Nathaniel Wallich (1786-1854) was responsible for establishing Singapore’s botanic gardens at Fort Canning.
 
