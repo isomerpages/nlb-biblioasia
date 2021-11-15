@@ -17,7 +17,7 @@ The black-and-white *amah*, renowned for her domestic skills, has left a mark on
 **[Micro India: The Chettiars of Market Street](/vol-13/issue-3/oct-dec-2017/micro-india)** <br>
 Market Street, in the heart of the business district, is where Indian moneylenders ran a thriving trade during the colonial era. *Marcus Ng* traces the imprint left by the Chettiars. [(PDF)](/files/pdf/vol-13/v13-issue3_Chettiars.pdf)
 
-**[Scots in Singapore: Remembering their Legacy](/vol-13/issue-3/oct-dec-2017/scots-in-singapore)** <br>
+**[Scots in Singapore: Remembering Their Legacy](/vol-13/issue-3/oct-dec-2017/scots-in-singapore)** <br>
 The Scots in colonial Singapore lent their names to many of the city’s famous landmarks. *Graham Berry* pays tribute to the contributions of his fellow men. [(PDF)](/files/pdf/vol-13/v13-issue3_Scots.pdf)
 
 **[The Road to Nationalism: Public Buses in Singapore](/vol-13/issue-3/oct-dec-2017/roadtonationalisation)** <br>
