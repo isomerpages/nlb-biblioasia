@@ -4,18 +4,20 @@ date: 2017-10-02
 permalink: /vol-13/issue-3/oct-dec-2017/lifetime-of-labour
 layout: post
 ---
-#### The black-and-white amah, renowned for her domestic skills, has left a mark on history in more ways than one, as **Janice Loo** tells us.
+#### The black-and-white *amah*, renowned for her domestic skills, has left a mark on history in more ways than one, as **Janice Loo** tells us.
 
 <div style="background-color: white;"><br><img src="/images/Vol-13-issue-3/a-lifetime-of-labour/01_amah.png">An <i>amah</i> with her mistress and charge at the Singapore Swimming Club in 1942. <i>Photo by Gavin G. Wallace. PAColl-2480. Alexandar Turnbill Library, Wellington.</i></div>
 
 Hair coiled up in an elegant bun or worn in a single plait down the back, a white blouse paired with ankle-length black trousers, and black slippers – this was the quintessential look of the *amah*, or Chinese female domestic servant, from bygone days.[^1]
 
-<div style="background-color: white;"><img src="/images/Vol-13-issue-3/a-lifetime-of-labour/02_amah.png">(Left) An <i>amah</i> in her black-and-white samfu attire cooking on a gas stove, 1950. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i><br>
-(Right) A scene depicting silk production in 17th-century China. By the early 1900s, the Pearl River Delta had become a major production centre for silk. <i>Photo by Peter Horree/Alamy Stock Photo.</i></div>
+Apart from their iconic black-and-white *samfu* attire, *amahs* have earned a place in popular memory for their strong work ethic and steadfast loyalty. Many were former silk production workers from the Pearl River Delta of Guangdong province in China.[^2] The majority never married and were part of an anti-marriage tradition unique to the silk-producing areas of the region, particularly the district of Shunde, where the phenomenon originated.[^3]
 
-Apart from their iconic black-and-white samfu attire, amahs have earned a place in popular memory for their strong work ethic and steadfast loyalty. Many were former silk production workers from the Pearl River Delta of Guangdong province in China.[^2] The majority never married and were part of an anti-marriage tradition unique to the silk-producing areas of the region, particularly the district of Shunde, where the phenomenon originated.[^3]
+<div style="background-color: white;"><img style="width:400px" src="/images/Vol-13-issue-3/a-lifetime-of-labour/02a_amah.jpg">An <i>amah</i> in her black-and-white <i>samfu</i> attire cooking on a gas stove, 1950. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i>
+</i></div>
 
-Seeking a better life, these women came to this part of the world in the 1930s to work in the homes of wealthy families, eventually dominating the field of paid domestic service well into the 1960s and 70s.[^4] At a time when women in Chinese society were bound by traditional Confucian values to be “dutiful wives and virtuous mothers” (贤妻良母, *xian qi liang mu*), Cantonese amahs broke the mould by carving an independent livelihood away from home and determining their own destiny.
+Seeking a better life, these women came to this part of the world in the 1930s to work in the homes of wealthy families, eventually dominating the field of paid domestic service well into the 1960s and 70s.[^4] At a time when women in Chinese society were bound by traditional Confucian values to be “dutiful wives and virtuous mothers” (贤妻良母, *xian qi liang mu*), Cantonese *amahs* broke the mould by carving an independent livelihood away from home and determining their own destiny.
+
+<div style="background-color: white;"><img style="width:600px" src="/images/Vol-13-issue-3/a-lifetime-of-labour/02b_amah.jpg">A scene depicting silk production in 17th-century China. By the early 1900s, the Pearl River Delta had become a major production centre for silk. <i>Photo by Peter Horree/Alamy Stock Photo.</i></div>
 
 #### **Daughters of the Delta**
 
@@ -26,8 +28,6 @@ The Pearl River Delta region was also conducive for a form of agriculture that c
 There was a division of labour between the sexes across the different stages of silk production. Men handled the heavier aspects of farm work which, along with fish rearing, included the transport and marketing of mulberry leaves, silkworm eggs and cocoons. Women harvested the mulberry leaves, raised silkworms, and produced silk threads by soaking the cocoons in hot water to loosen the fibres before reeling or spinning them into strands.[^9] In some locales, men also helped to weave the silk threads into cloth; such work was an important source of income for many families.[^10]
 
 Typically, there were more unmarried women engaged in the silk cottage industry than married ones. With their heavy domestic responsibilities, married women were less likely to participate in sericulture, particularly the stage where silkworm eggs were hatching and turning into larvae, because of the taboo associated with notions about the impurity of the female body during pregnancy and childbirth. In Shunde, married women were also excluded from the thread-loosening process as the constant association with water was believed to affect fertility. Therefore, unmarried women had a higher economic value to their families, and some parents found it more worthwhile to keep a daughter at home for as long as she wished than to marry her off and forgo a key source of income.[^11]
-
-<div style="background-color: white;"><img src="/images/Vol-13-issue-3/a-lifetime-of-labour/03_amah.jpg">Letter writers such as this man were once a common sight along “five-foot ways” in Chinatown. They provided an indispensable service in helping illiterate <i>amahs</i> communicate with their families back home. <i>Kouo Shang-Wei Collection (郭尚慰 收集). Family of Kouo Shang-Wei and National Library Board, Singapore.</i></div>
 
 Industrialisation changed the face of silk production and strengthened the impetus for women to remain single. Filatures, or factories where silk is reeled, were set up and these employed an all-female workforce as women were found to be more careful when handling silkworm cocoons and processing them into silk threads. Younger women were also preferred for their smooth hands, nimble fingers and good eyesight that made for skilful work. On top of these physical traits, single or married but childless women were favoured as they were perceived to be less encumbered by family commitments that could interfere with their ability to work.[^12]
 
@@ -83,6 +83,8 @@ Although the average employment term for an *amah* was 10 years, there were some
 
 When it came to their kin in China, *amahs* fulfilled their filial duties through remittances, letters and occasional visits. It was estimated that up to 70 percent of their wages was saved or remitted. *Amahs* were known for being frugal when it came to their own expenses but generous to their close friends and relatives, especially during special occasions.[^34] In a *Straits Times* report, Yip’s nephew recalled, “Life was very hard in China in the 1960s, but my aunt used to send back flour, peanuts, cooking oil, sugar and necessities. Without her, we probably would have starved.” Recounting her visits to China in 1963, 1985 and 1990, he added: “She came back with big straw baskets filled with cleavers, grinding stones, packets of beehoon, shoes and even bicycles. A bicycle was a big deal in those days.”[^35]
 
+<div style="background-color: white;"><img src="/images/Vol-13-issue-3/a-lifetime-of-labour/03_amah.jpg">Letter writers such as this man were once a common sight along “five-foot ways” in Chinatown. They provided an indispensable service in helping illiterate <i>amahs</i> communicate with their families back home. <i>Kouo Shang-Wei Collection (郭尚慰 收集). Family of Kouo Shang-Wei and National Library Board, Singapore.</i></div>
+
 For the *amah*, preparation for retirement and the afterlife was of utmost importance. While some returned to China, as in the case of Ouyang Huanyan, who had worked for the late former Prime Minister Lee Kuan Yew, others like the aforementioned Yip, retired in vegetarian halls or homes for the aged in Singapore. However, not all *amahs* were as fortunate because access to such options depended on whether they had squirrelled away enough savings for a comfortable retirement.[^36]
 
 #### **End of an Era**
@@ -117,11 +119,11 @@ Ah Sim was an obsessively tidy person, and I was drawn to spending time with her
 <br><br>
 Ah Sim hand-sewed all her own clothes, including the knotted buttons she made for her blouses. On the first and 15th day of each lunar month she would prepare her own vegetarian meal, as was common among <i>amahs</i> as a form of religious devotion. The meal was spartan, comprising fried vegetables, a dish of roasted peanuts drizzled with thick soya sauce, and some boiled rice.
 <br><br>
-<img src="/images/Vol-13-issue-3/a-lifetime-of-labour/07a_amah.jpg">The author, Peter Lee, with his beloved Ah Sim. This photograph was taken while on holiday in Cameron Highlands, Malaysia, in 1969. <i>Courtesy of Peter Lee.</i>
+<img style="width:500px" src="/images/Vol-13-issue-3/a-lifetime-of-labour/07c_amah.jpg">The author, Peter Lee, with his beloved Ah Sim. This photograph was taken while on holiday in Cameron Highlands, Malaysia, in 1969. <i>Courtesy of Peter Lee.</i>
 <br><br>
 Thankfully, meals for us children was Cantonese comfort food. My mother referred to this as <i>majie</i> (see note 1) cooking, which included dishes such as <i>chu yoke peng</i> (猪肉饼, pork meatballs with onions in soya gravy), <i>sam wong dan</i> (三黄蛋, steamed egg custard with salted egg and century egg), and <i>chow lup lup</i> (炒粒粒, a stir-fried dish of diced fresh and salted vegetables, tofu and peanuts). At the heart of every meal was a hearty boiled soup made from pork, chicken or fish stock. We had a different soup every day.
 <br><br>
-Food on the table was a blessing for Ah Sim. I remember accompanying her to a fortune-teller once. She had only one question, which expressed her singular concern: “Would I die from starvation?” (我会唔会饿死) The fortune-teller laughed and allayed her fears, but years later I realised her anxiety harked to an era when famine, or being abandoned in old age, was a very real concern.
+Food on the table was a blessing for Ah Sim. I remember accompanying her to a fortune teller once. She had only one question, which expressed her singular concern: “Would I die from starvation?” (我会唔会饿死). The fortune-teller laughed and allayed her fears, but years later I realised her anxiety harked to an era when famine, or being abandoned in old age, was a very real concern.
 <br><br>
 Ah Sim was the epitomy of graciousness with family and guests, insisting on observing the proper etiquette at home. How a girl from the countryside learnt the complex and refined subtleties of Cantonese civilities was always a wonder to me.
 <br><br>
@@ -145,7 +147,7 @@ Ah Sim kept active in her twilight years, performing temple duties and learning 
 <br><br>
 The highlight of Ah Sim’s final years was her 100th birthday lunch in 2011, when I surprised her by inviting her relatives from Canton. Ah Sim burst into tears when she saw everyone, and expressed remorse that she could not honour her own mother in such a manner. It struck me that one could be a centenarian and still miss one’s own parent like an orphaned child.
 <br><br>
-<img src="/images/Vol-13-issue-3/a-lifetime-of-labour/08_amah.jpg">Peter Lee with Ah Sim at home in 1979. Ah Sim worked for the Lee family for 32 years before she retired in 1990. <i>Courtesy of Peter Lee.</i>
+<img src="/images/Vol-13-issue-3/a-lifetime-of-labour/08a_amah.jpg">Peter Lee with Ah Sim at home in 1979. Ah Sim worked for the Lee family for 32 years before she retired in 1990. <i>Courtesy of Peter Lee.</i>
 <br><br>
 Ah Sim slipped away quietly in her final months; she was often asleep when I visited. It was funny how the roles were reversed. I was the one who was now rearranging her blanket. On the rare occasions I found her awake, she was always the consummate hostess, smiling and greeting everyone around her. Towards the end it would only take a few words from me to spark a response, words that she always uttered whenever we parted. She would break into a smile and repeat my words in a weak whisper: “Take care! Be careful!” (保重!小心!)
 <br><br>
