@@ -18,7 +18,7 @@ As a “letters patent” or public written order issued by the British Crown, t
 
 #### **The Royal Coat of Arms of the United Kingdom, 1855**
 
-<div style="background-color: white;"><img style="width:400px" src="/images/Vol-13-issue-3/the-third-charter-of-justice/02a_justice.jpg"></div>
+<div style="background-color: white;"><br><img style="width:400px" src="/images/Vol-13-issue-3/the-third-charter-of-justice/02a_justice.jpg"></div>
 
 This royal coat of arms, which may only be used by the reigning monarch, takes centre stage at the top of the document. At the heart of the royal arms is a shield divided into four quadrants. The first and fourth quadrants each depict the three guardian lions that represent England, Normandy (northern France) and Aquitaine (southwestern France) – territories traditionally associated with the British Crown. The second contains a single lion rearing on its hind legs representing Scotland, while the third has a harp representing Ireland.
 Encircling the shield is a garter or belt with the French motto, *Honi soit qui mal y pense*, which translates as “Shame on whosoever thinks evil of it”. The shield is flanked by a lion crowned with a cross and a chained unicorn, which represent England and Scotland respectively. The lion is associated with Christianity and the virtues of Kingship – dauntless courage, valour, strength, justice and righteous power – while the unicorn symbolises the ideals of purity, grace and power.
