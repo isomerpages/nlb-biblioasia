@@ -4,9 +4,6 @@ permalink: /vol-17/issue-4/jan-mar-2022/diard-duvaucel
 description: ""
 image: /images/vol-17-issue-4/diard-duvaucel/Diard-Duvaucel-FB1200-1200px.png
 ---
-
-
-
 #### A little-known collection of French natural history drawings of Singapore and its neighbouring countries between 1818 and 1820 shed light on the early study of the region’s flora and fauna.
 
 
