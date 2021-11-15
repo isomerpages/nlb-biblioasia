@@ -120,7 +120,7 @@ Despite the growth of Singapore’s public transport industry over the next 40 y
 
 <div style="background-color: white;"><img style="width:350px" src="/images/Vol-13-issue-3/public-buses-in-singapore/05_publicbus.jpg">A bus conductor on duty in the 1970s. <i>The Theatre Practice Ltd Collection, courtesy of National Archives of Singapore.</i></div>
 
-<div style="background-color: white;"><br><img style="width:350px" src="/images/Vol-13-issue-3/public-buses-in-singapore/06c_publicbus.png">A bus conductor’s ticket punch from the 1960s. <i>F W York Collection, courtesy of National Archives of Singapore</i></div>
+<div style="background-color: white;"><br><img style="width:300px" src="/images/Vol-13-issue-3/public-buses-in-singapore/06c_publicbus.png">A bus conductor’s ticket punch from the 1960s. <i>F W York Collection, courtesy of National Archives of Singapore</i></div>
 
 With little progress made by bus companies on the recommendations put forward by the aforementioned reports, deteriorating bus services became the subject of a parliamentary debate on 12 March 1973. Several members of parliament pointed out the frequent breakdowns, reckless driving and the poor service mentality of bus workers in general. A letter by a L.P.H. published in *The Straits Times* on 16 March 1973 also noted that long drives without rest, made worse by “boneshaker buses”, the tropical heat, traffic congestion, and the smell and fumes from old engines contributed to drivers’ fatigue and did little to boost the morale of bus workers.[^21]
 
