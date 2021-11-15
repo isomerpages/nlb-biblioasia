@@ -184,7 +184,7 @@ Yet, the Singaporean film industry, after lying dormant for so many years, has h
 
 Furthermore, with the exception of some of Neo’s blockbusters, the domestic film market is still not financially sustainable. After years of selections and nominations, Singapore films have only recently started winning international accolades, as in the case of Anthony Chen’s <i>Ilo Ilo</i>. Many challenges still await the local film industry, which, after surviving a near comatose period in the 1980s, is slowly coming back to life. If the stars are all aligned, Singapore cinema might finally be on its way to a true renaissance.
 
-<img style="width:100px;height:100px;margin-bottom:-30px; border-radius:100%" src="/images/vol-11-issue-1/revivalofsgcinema/Raphaels.jpg">
+<img style="width:100px;height:100px;margin-bottom:-30px; border-radius:100%; box-shadow: 3px 4px 1px" src="/images/vol-11-issue-1/revivalofsgcinema/Raphaels.jpg">
 <p style="font-size:15px;"><b>Raphaël Millet</b> is a film director, producer and critic with a passion for cinema the world over. He divides his time between France and Singapore, and has published two books about Singaporean cinema, one in French in 2004, the other in English, simply titled <i>Singapore Cinema</i>, in 2006.</p>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-11/issue-1/Apr-jun-2015/"><center>Back to Issue</center></a>
