@@ -169,7 +169,7 @@ Angeli Bayani and Jieler Koh in <i>Ilo Ilo</i>. © Ilo Ilo. <i>Directed by Antho
 
 <div style="background-color: white;">
 <br/>
-<img style="width:70%" src="/images/vol-11-issue-1/revivalofsgcinema/Adrian_Pang_in_Unlucky_Plaza_by_Ken_Kwek.jpg">
+<img style="width:70%" src="/images/vol-11-issue-1/revivalofsgcinema/Adrian_Pang_in_Unlucky_Plaza_by_Ken_Kwek_re.jpg">
 Adrian Pang in <i>Unlucky Plaza</i>. <i>Directed by Ken Kwek, produced by Ken Kwek, Kat Goh and Leon Tong. Singapore. 2014. © Kaya Toast Pictures.</i>
 </div>
 
