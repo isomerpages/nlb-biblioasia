@@ -6,6 +6,8 @@ layout: post
 ---
 #### Capitol Theatre was the premier venue for film and stage when it opened in 1930. **Bonny Tan** uses oral history recordings to piece together pre-war narratives of the theatre.
 
+<div style="background-color: white;"><br><img src="/images/Vol-13-issue-4/living-it-up-at-the-capitol/01_livingcapitol.jpg">Capitol Theatre and the adjoining Namazie Mansions at the junction of Stamford Road and North Bridge Road, c.1950. By 1946, the new owners had replaced the sign “Namazie Mansions” with “Shaws Building”. In 1992, it was renamed Capitol Building. <i>Courtesy of National Archives of Singapore.</i></div>
+
 Capitol Theatre opened to much fanfare on 22 May 1930, marking the dawn of a new era in entertainment and lifestyle in Singapore. Although there were several existing cinemas, such as the Alhambra and Marlborough, the Capitol sought to be the epitome of the high life in the city by showcasing the best in both film and live performances. Completed at the outset of the Great Depression, the Capitol was instrumental in transforming Singapore’s entertainment landscape in more ways than one.
 
 #### **Dressed to the Nines**
