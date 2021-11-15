@@ -21,4 +21,4 @@ More recently, all 117 illustrations have been published in a hardcover book tit
 
 We can’t be certain if Diard and Duvaucel were the first Frenchmen to have stepped on Singapore soil, but certainly they are now the first to be part of our documented history. These brave men who left the comforts of their homeland blazed a trail for other French citizens − explorers, planters, merchants and missionaries − who followed in their wake. That French presence continues in Singapore today, represented by a 20,000-strong community who are part of the city’s commercial and cultural scene. 
 
-#### **Whence Solomon’s Ships Return**
+#### **Nº 11: Banded Woodpecker *Chrysophlegma miniaceum***
