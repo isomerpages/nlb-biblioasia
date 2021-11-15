@@ -1,9 +1,10 @@
 ---
-title: The Symbolism Behind The Third Charter of Justice
+title: The Symbolism Behind the Third Charter of Justice
 date: 2017-10-08
 permalink: /vol-13/issue-3/oct-dec-2017/third-charter-justice
 layout: post
 ---
+
 #### This legal document – issued by the colonial government in 1855 – is an integral part of Singapore’s constitutional history. **Kevin Khoo** explains the significance of its elaborate borders.
 
 <div style="background-color: white;"><br><img src="/images/Vol-13-issue-3/the-third-charter-of-justice/01_justice.png"></div>
