@@ -155,6 +155,7 @@ The film’s gala opening was held on March 1934 at the Marlborough. The dialogu
 <br><br>
 <i>The full citations for</i> Xin Ke <i>and</i> Leila Majnun <i>can be found on</i> *[HistorySG](http://eresources.nlb.gov.sg/history)*.</span>
 
+<img style="width:100px;height:100px;margin-bottom:-30px; border-radius:100%; box-shadow: 1px 2px 0px #424242;" src="/images/vol-11-issue-1/earlysgcinema/Bonny.jpg">
 <p style="font-size:15px;"><b>Bonny Tan</b> is a Senior Librarian with the National Library of Singapore. Her interest in the history of films was sparked after she uncovered little known facets of colonial life in early newspapers of Singapore. She would like to thank Nadi Tofighian for his help in reviewing this article.</p>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-11/issue-1/Apr-jun-2015/"><center>Back to Issue</center></a>
