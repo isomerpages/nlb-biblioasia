@@ -61,6 +61,7 @@ The specimen portrayed in this drawing was obtained in Sumatra. This conspicuous
 Stamford Raffles collected pitcher plants when he first visited Singapore in early 1819, and these became the first botanical specimens from mainland Singapore. The Scottish botanist William Jack was working for Raffles at the time, but he did not accompany Raffles on this first visit to Singapore and instead remained at Prince of Wales Island (Penang). When Raffles returned to Penang from Singapore, these botanical specimens were passed to Jack for study. Jack named one of the species after Raffles – *Nepenthes rafflesiana* Jack (better known as the Raffles’ Pitcher Plant) – to honour the collector. What is depicted in this drawing though is the *Nepenthes ampullaria*. These names were only published in 1835, years after Jack’s death in 1822 and based on research and drawings that were sent back to England. Diard and Duvaucel would have known about Jack’s work, although this painting was probably drawn from a separate specimen at a later date.
 
 
+
 #### **NOTES**
 
 <div style="background-color: white;">
