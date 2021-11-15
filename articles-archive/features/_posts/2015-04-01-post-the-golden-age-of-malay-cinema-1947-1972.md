@@ -134,7 +134,8 @@ Selepas perang, Shaw dan Cathay melihat kesan positif dari penggunaan sarikata (
 Filem-filem Melayu Shaw dan Cathay terutama karya P Ramlee disambut baik oleh masyarakat majmuk di Malaya kerana tema universalnya yang tidak kenal bahasa atau budaya. Filem klasik Melayu dapat dinikmati oleh peminat filem dari bangsa lain kerana disediakan sarikata dalam Bahasa Inggeris. Salah satu penterjemahnya ialah penulis Zulkifli Haji Muhammad yang mula menjalankan kerja-kerja sarikata di studio Jalan Ampas pada 1960 sebelum dilantik sebagai Penolong Pengarah. Mrs Wee, seorang lagi mantan pekerja Jalan Ampas dan teman kepada bintang legenda P Ramlee, banyak memeras tenaga untuk menyediakan sarikata untuk filem Melayu Shaw. Empat puluh tahun setelah studio Shaw ditutup pada 1967, beliau mengunjungi Jalan Ampas dan bangunan-bangunan renta di kawasan itu mengingatkan beliau kembali kepada hari-hari yang banyak beliau habiskan di salah satu Studio Shaw untuk menyunting dan mencetak sarikata ke dalam filem.</span>
 
 <p style="font-size:15px;"><b>Nor Afidah Bte Abd Rahman</b> is a Senior Librarian with the National Library of Singapore and a regular contributor to <i>BiblioAsia</i>.</p>
-	
+
+<img style="width:100px;height:100px;margin-bottom:-30px; border-radius:100%; box-shadow: 2px 3px 1px #424242;" src="/images/vol-11-issue-1/malaycinema/Michelle.jpg">
 <p style="font-size:15px;"><b>Michelle Heng</b> is a Librarian with the National Library of Singapore. She compiled and edited <i>Singapore Word Maps: A Chapbook of Edwin Thumboo’s New and Selected Place Poems</i> (2012), and more recently, <i>Selected Poems of Goh Poh Seng</i> (2014).</p>
 
 
