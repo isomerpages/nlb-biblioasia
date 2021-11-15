@@ -5,9 +5,6 @@ description: ""
 ---
 #### A little-known collection of French natural history drawings of Singapore and its neighbouring countries between 1818 and 1820 shed light on the early study of the region’s flora and fauna.
 
-![Alt text for image on Isomer site](/images/vol-17-issue-4/diard-duvaucel/DiardDuvaucel.jpg)
-<div style="background-color: white;"><i>Diard & Duvaucel: French Natural History Drawings of Singapore and Southeast Asia 1818–1820</i> is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (Call nos.: RSING 508.0222 DIA and SING 508.0222 DIA) and for sale at all major bookstores, including Epigram’s online store at epigrambookshop.sg.</div>
-
 
 Until recently, most people would not have heard of the two Frenchmen, Pierre-Médard Diard and Alfred Duvaucel, who accompanied Stamford Raffles on his maiden trip to Singapore on 28 January 1819.[^1] Fewer still would know that these two young naturalists collected specimens and worked with artists to create drawings of animals and plants at the various locations they ventured to, including Singapore and the surrounding region as far away as India.
 
@@ -20,6 +17,10 @@ Although the relationship between Raffles and the two naturalists ended abruptly
 More recently, all 117 illustrations have been published in a hardcover book titled *Diard & Duvaucel: French Natural History Drawings of Singapore and Southeast Asia, 1818−1820*. Co-published by Epigram, the Embassy of France in Singapore and the National Library together with several key partners, the introductory essays and detailed captions accompanying the stunning illustrations have been written by a team of scientists and curators based in Singapore, Paris and Spain. 
 
 We can’t be certain if Diard and Duvaucel were the first Frenchmen to have stepped on Singapore soil, but certainly they are now the first to be part of our documented history. These brave men who left the comforts of their homeland blazed a trail for other French citizens − explorers, planters, merchants and missionaries − who followed in their wake. That French presence continues in Singapore today, represented by a 20,000-strong community who are part of the city’s commercial and cultural scene. 
+
+![Alt text for image on Isomer site](/images/vol-17-issue-4/diard-duvaucel/DiardDuvaucel.jpg)
+<div style="background-color: white;"><i>Diard & Duvaucel: French Natural History Drawings of Singapore and Southeast Asia 1818–1820</i> is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (Call nos.: RSING 508.0222 DIA and SING 508.0222 DIA) and for sale at all major bookstores, including Epigram’s online store at epigrambookshop.sg.</div>
+
 
 #### **Nº 11: Banded Woodpecker *Chrysophlegma miniaceum***
 
@@ -49,7 +50,7 @@ When Duvaucel was staying in Chandernagor (Chandannagar) in West Bengal, India, 
 
 #### **Nº 3: Kuhl’s Gliding Gecko *Gekko kuhli***
 
-![Alt text for image on Isomer site](/images/vol-17-issue-4/diard-duvaucel/Kuhls%20Gliding%20Gecko.jpg)
+![Alt text for image on Isomer site](/images/vol-17-issue-4/diard-duvaucel/Kuhls%20Gliding%20Gecko2.jpg)
 The specimen portrayed in this drawing was obtained in Sumatra. This conspicuous gecko was first described from Java, where Diard again found it after he left the employ of Stamford Raffles. Kuhl’s Gliding Gecko can also be found in Singapore, where an early specimen was collected and donated to the Muséum National d’Histoire Naturelle in Paris in December 1868 by the French trader Andrew Spooner.
 
 
@@ -57,6 +58,7 @@ The specimen portrayed in this drawing was obtained in Sumatra. This conspicuous
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/diard-duvaucel/Flask-shaped%20Pitcher.jpg)
 Stamford Raffles collected pitcher plants when he first visited Singapore in early 1819, and these became the first botanical specimens from mainland Singapore. The Scottish botanist William Jack was working for Raffles at the time, but he did not accompany Raffles on this first visit to Singapore and instead remained at Prince of Wales Island (Penang). When Raffles returned to Penang from Singapore, these botanical specimens were passed to Jack for study. Jack named one of the species after Raffles – *Nepenthes rafflesiana* Jack (better known as the Raffles’ Pitcher Plant) – to honour the collector. What is depicted in this drawing though is the *Nepenthes ampullaria*. These names were only published in 1835, years after Jack’s death in 1822 and based on research and drawings that were sent back to England. Diard and Duvaucel would have known about Jack’s work, although this painting was probably drawn from a separate specimen at a later date.
+
 
 #### **NOTES**
 
