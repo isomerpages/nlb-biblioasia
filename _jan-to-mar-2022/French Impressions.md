@@ -46,3 +46,8 @@ When Duvaucel was staying in Chandernagor (Chandannagar) in West Bengal, India, 
 
 The specimen portrayed in this drawing was obtained in Sumatra. This conspicuous gecko was first described from Java, where Diard again found it after he left the employ of Stamford Raffles. Kuhl’s Gliding Gecko can also be found in Singapore, where an early specimen was collected and donated to the Muséum National d’Histoire Naturelle in Paris in December 1868 by the French trader Andrew Spooner.
 
+
+#### **Nº 2: Flask-shaped Pitcher Plant *Nepenthes ampullaria***
+
+The specimen portrayed in this drawing was obtained in Sumatra. This conspicuous gecko was first described from Java, where Diard again found it after he left the employ of Stamford Raffles. Kuhl’s Gliding Gecko can also be found in Singapore, where an early specimen was collected and donated to the Muséum National d’Histoire Naturelle in Paris in December 1868 by the French trader Andrew Spooner.
+
