@@ -98,7 +98,7 @@ A lorry pulls the deity today; there are no more bullocks for the task. Neither 
 <br><br>
 Accompanied by families and well-wishers, and under the watchful eyes of minders and police outriders, the devotees today take up a mere lane or slightly more. For the most part, the city rushes on in its usual headlong fashion as the procession snakes past, as if bystanders eschew the power of faith, or are unwilling to indulge in the vague rites of a forgotten migrant community. The <i>kavadi</i> cavalcade continues on regardless, through dust and rain, sweat and stain, on bare soles and to the encouragement of pipes and drums. Dusk turns to dark and the streets ring with the steps of the <i>kavadi</i> carriers, telling of their story, strength and spirit.</span>
 
-<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;">A version of this article was first published on Poskod.sg on 24 January 2014.</span>
+*A version of this article was first published on Poskod.sg on 24 January 2014.*
 
 <div style="background-color: white;">
 <br>
@@ -114,7 +114,7 @@ Accompanied by families and well-wishers, and under the watchful eyes of minders
 
 [^2]:This would have been Masjid Moulana Mohamed Ali, which was established in two Market Street shophouses in the 1950s to serve Muslims working in the commercial centre. See *Masjid Moulana Mohamed Ali*. (2015). Retrieved from Masjid Moulana Mohamed Ali website.
 
-[^3]:This was Bonham Building (now the site of UOB Plaza), the original headquarters of United Overseas Bank. See Lim, T.S. (2016, October– December). [As good as gold: The making of a financial centre](http://www.nlb.gov.sg/biblioasia/2016/09/04/as-good-as-gold-the-making-of-a-financial-centre/#sthash.LvTVAyuu.dpbs). *BiblioAsia, 12* (3), 17–23, p. 21. Retrieved from BiblioAsia website.
+[^3]:This was Bonham Building (now the site of UOB Plaza), the original headquarters of United Overseas Bank. See Lim, T.S. (2016, October– December). [As good as gold: The making of a financial centre](https://biblioasia.nlb.gov.sg/vol-12/issue-3/oct-dec-2016/as-good-as-gold). *BiblioAsia, 12* (3), 17–23, p. 21. Retrieved from BiblioAsia website.
 
 [^4]:Meaning “Water Bay” in Malay, Telok Ayer has become synonymous with Singapore’s Chinatown.
 
@@ -168,7 +168,7 @@ Accompanied by families and well-wishers, and under the watchful eyes of minders
 
 [^29]:[T. F. Hwang takes you down memory](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880625-1.2.34.4). (1988, June 25). *The Straits Times*, p. 22; [Colony cavalcade](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360426-1.2.23). (1936, April 26). *The Straits Times*, p. 2. Retrieved from NewspaperSG.
 
-[^30]:[Materials used in constructing Nunes and Medeiros](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19371005-1.2.158.7). (1937, October 5). *The Straits Times*, p. 2. Retrieved from NewspaperSG; Davison, J. (2017, Jul–Sep). [Swan & Maclaren: Pioneers of Modernist architecture](http://www.nlb.gov.sg/biblioasia/2017/07/06/swan-maclaren-pioneers-of-modernist-architecture/#sthash.e6oRmBfe.dpbs). *BiblioAsia, 13* (2), 24–31, p. 28. Retrieved from BiblioAsia website.
+[^30]:[Materials used in constructing Nunes and Medeiros](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19371005-1.2.158.7). (1937, October 5). *The Straits Times*, p. 2. Retrieved from NewspaperSG; Davison, J. (2017, Jul–Sep). [Swan & Maclaren: Pioneers of Modernist architecture](https://biblioasia.nlb.gov.sg/vol-13/issue-2/jul-sep-2017/swan-and-maclaren). *BiblioAsia, 13* (2), 24–31, p. 28. Retrieved from BiblioAsia website.
 
 [^31]:Lee & Lee. (2017). Retrieved from Lee & Lee website.
 
@@ -178,8 +178,8 @@ Accompanied by families and well-wishers, and under the watchful eyes of minders
 
 [^34]:Sam, J. (1985, February 24). [Fiery start to 1830 lunar year](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19850224-1.2.46.5.1). *Singapore Monitor*, p. 2. Retrieved from NewspaperSG.
 
-[^35]:The kavadi is a semi-circular metal structure decorated with peacock feathers, flowers and palm leaves, which devotees carry during the Thaipusam procession, often in fulfilment of a vow. See Hindu Endowments Board. (2016). *Thaipusam*. Retrieved from Hindu Endowments Board website
+[^35]:The *kavadi* is a semi-circular metal structure decorated with peacock feathers, flowers and palm leaves, which devotees carry during the Thaipusam procession, often in fulfilment of a vow. See Hindu Endowments Board. (2016). *Thaipusam*. Retrieved from Hindu Endowments Board website
 
-[^36]:Soundararajan, A., & Sri Asrina Tanuri. (2016, October–December). [Time-honoured temple design](http://www.nlb.gov.sg/biblioasia/2016/09/07/time-honoured-temple-design/). *BiblioAsia, 12* (3), 36–39, p. 36. Retrieved from BiblioAsia website.
+[^36]:Soundararajan, A., & Sri Asrina Tanuri. (2016, October–December). [Time-honoured temple design](https://biblioasia.nlb.gov.sg/vol-12/issue-3/oct-dec-2016/time-honoured-temple). *BiblioAsia, 12* (3), 36–39, p. 36. Retrieved from BiblioAsia website.
 
 [^37]:This was the Sri Sivan Temple at Dhoby Ghaut, which was relocated to Geylang East to make way for the MRT station in 1983. See Hindu Endowments Board. (2016). *Sri Sivan Temple*. Retrieved from Hindu Endowments Board website.
