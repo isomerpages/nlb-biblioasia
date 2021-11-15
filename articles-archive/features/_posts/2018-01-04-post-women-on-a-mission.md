@@ -54,3 +54,6 @@ In addition to running the girls’ school, Miss Cooke also started a Chinese �
 
 In 1900, the SPFEE was dissolved and the Chinese Girls’ School was taken over by the Church of England Zenana Missionary Society (CEZMS) and became known as the CEZMS School. In 1949, the school was renamed St Margaret’s School (after Queen Margaret of Scotland), and is today the oldest girls’ school in Singapore in existence.[^17]
 
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>A MATCH MADE IN SCHOOL</b>
+<br><br>
+Over time, the Chinese Girls’ School gained a reputation for cultivating good Christian wives with practical domestic skills. Chinese men from China, Malaya and the Dutch East Indies (now Indonesia) who converted to Christianity would approach the school in search of a suitable bride. The girls were married off from as early as 13 or 14 years old; most of these arranged marriages were said to be successful as the suitors were carefully screened by the school. The arranged marriages took place so frequently that its founder Sophia Cooke was said to have bought a wedding dress to be kept as school property for loan to girls who were getting married. The school continued to play the role of matchmaker right up to the 1930s.[^18]</span>
