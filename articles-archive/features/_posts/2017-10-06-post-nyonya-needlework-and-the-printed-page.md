@@ -6,7 +6,7 @@ layout: post
 ---
 #### **Cheah Hwei-Fe’n** examines the impact of print media on the time-honoured craft of Peranakan embroidery and beadwork.
 
-<div style="background-color: white;"><br><img style="width:400px" src="/images/Vol-13-issue-3/nyonya-needlework/04_nyonyaneedlework.png">Figure 4: A panel with glass bead embroidery on counted thread canvas, probably from Penang, early 20th century. The crested cockatoos, pansies, dahlias and forget-me-nots are motifs adopted from European woolwork patterns. <i>Collection of the Asian Civilisations Museum.</i></div>
+<div style="background-color: white;"><br><img style="width:600px" src="/images/Vol-13-issue-3/nyonya-needlework/02_nyonyaneedlework.jpg">Figure 1: A Peranakan wedding couple with a child attendant, early 20th century. Wedding celebrations often showcased nyonya needlework in the form of accessories for the wedding couple and their entourage, and soft furnishings in the nuptial chamber. <i>Photograph by Che Lan & Co, Jogjakarta. Collection of the Peranakan Museum. Gift of Lee Kip Lee.</i></div>
 
 Singapore’s national respository of nyonya needlework, comprising the embroidery and beadwork of the Peranakan[^1] (or Straits Chinese) community from Singapore, Malaysia, Indonesia and Myanmar, is unsurpassed as a public collection. Enhanced in recent years through acquisitions and gifts, the quality of the objects and their diversity of styles show how imitation, innovation and cultural borrowing have all contributed to the art of nyonya needlework.[^2]
 
@@ -20,9 +20,7 @@ Nyonya needlework is characterised by exquisite workmanship, complex textures an
 
 Whether they were stitched by Peranakan Chinese women in a domestic setting or by professional craftspeople, nyonya needlework embodied labour and expensive materials, communicating both wealth and fine taste. Their designs also incorporated the use of symbols, stories and customs. In the closely-knit circles of Peranakan Chinese society, family reputations were fiercely guarded and a person’s behaviour was closely scrutinised and often critiqued. In such an environment, symbolic and non-verbal cues were equally indicative of one’s upbringing, understanding of tradition and family background, and some of these aspects filtered into nyonya needlework designs.
 
-The practice of embroidery in Peranakan Chinese culture goes back at least 300 years, although the oldest extant nyonya embroideries we know of date to the mid-19th century. Women’s footwear and purses were the most commonly embroidered items, but it was at wedding celebrations that nyonya needlework was at its most glorious, taking the form of soft furnishings in the nuptial chamber and accessories for the wedding couple and their entourage (see figure 1).
-
-<div style="background-color: white;"><br><img style="width:600px" src="/images/Vol-13-issue-3/nyonya-needlework/02_nyonyaneedlework.jpg">Figure 1: A Peranakan wedding couple with a child attendant, early 20th century. Wedding celebrations often showcased nyonya needlework in the form of accessories for the wedding couple and their entourage, and soft furnishings in the nuptial chamber. <i>Photograph by Che Lan & Co, Jogjakarta. Collection of the Peranakan Museum. Gift of Lee Kip Lee.</i></div>
+The practice of embroidery in Peranakan Chinese culture goes back at least 300 years, although the oldest extant nyonya embroideries we know of date to the mid-19th century. Women’s footwear and purses were the most commonly embroidered items, but it was at wedding celebrations that nyonya needlework was at its most glorious, taking the form of soft furnishings in the nuptial chamber and accessories for the wedding couple and their entourage (see figure 1 above).
 
 Befitting such occasions, nyonya needlework was typically decorated with auspicious images of flowers, animals and precious objects drawn from Chinese art and symbols. Chinese embroidered textiles provided the models for many designs. Imagery for needlework could also have been copied from furniture, silverwork and ceramics found in the homes of Peranakan Chinese families. These familiar motifs conveyed wishes for good fortune, longevity, a blissful marriage, successful progeny and good health.
 
@@ -48,7 +46,7 @@ Figure 2 shows a handkerchief or tray cover embroidered with floral stems at eac
 
 The gold embroidery technique on this work and another similar cloth largely corresponds to what is found in European military and ceremonial embroidery. The latter has a heart-shaped motif surmounted by a fruiting stem at each of the four corners.[^12] The heart-shaped design is atypical and was probably adapted from European publications.
 
-<div style="background-color: white;"><br><img style="width:400px" src="/images/Vol-13-issue-3/nyonya-needlework/03_nyonyaneedlework.png">Figure 2: Tray cover or handkerchief with gold embroidery of floral stems at each corner, probably from Java, late 19th or early 20th century. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i></div>
+<div style="background-color: white;"><img style="width:400px" src="/images/Vol-13-issue-3/nyonya-needlework/03_nyonyaneedlework.png">Figure 2: Tray cover or handkerchief with gold embroidery of floral stems at each corner, probably from Java, late 19th or early 20th century. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i></div>
 
 Similar styles of floral decoration are found on late 19th century batiks from the northern coast of Java. Certain Indo-Dutch batik designers held exclusive rights to reproduce designs from Dutch fashion journals, but artisans also copied the designs from printed sources for re-sale, resulting in the spread of popular imagery.[^13] In the case of needlework, embroiderers may have adapted patterns directly from the magazines themselves, or they may have purchased samplers (see figure 5) or sheet patterns from the artisans.
 
@@ -63,6 +61,8 @@ Although its popularity had waned by the 1880s, Berlin woolwork was still carrie
 #### **An Expanding World: Fairy Tales and Furry Animals**
 
 In the early 20th century, beadwork on counted thread canvas (fabric with a regular weave and small, regularly spaced “holes”) became widespread among nyonya embroiderers (see figure 4). The bright hues and wide colour spectrum of glass beads that could be purchased must have attracted Peranakan weavers, and the novelty and range of sheet patterns available likely also encouraged the adoption of this method.
+
+<div style="background-color: white;"><br><img style="width:400px" src="/images/Vol-13-issue-3/nyonya-needlework/04_nyonyaneedlework.png">Figure 4: A panel with glass bead embroidery on counted thread canvas, probably from Penang, early 20th century. The crested cockatoos, pansies, dahlias and forget-me-nots are motifs adopted from European woolwork patterns. <i>Collection of the Asian Civilisations Museum.</i></div>
 
 The nyonyas’ favourite designs of cabbage roses and rosebuds, lilies, flower baskets, birds, furry animals and girls in frocks circulated through samplers, either copied from friends or purchased, rather than in printed form (see figure 5). Based on designs that had been popular in Europe half a century earlier, the patterns may be considered anachronistic, but the themes and motifs are entirely consistent with the stories that were being introduced to the nyonyas at the time. A little background history is pertinent to our understanding here.
 
