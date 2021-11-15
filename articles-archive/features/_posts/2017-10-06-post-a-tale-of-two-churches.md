@@ -6,7 +6,6 @@ layout: post
 ---
 #### Penang’s Armenian church was demolished in the early 1900s while the one in Singapore still thrives. **Nadia Wright** looks at the vastly different fates of these two churches.
 
-
 <div style="background-color: white;"><br><img src="/images/Vol-13-issue-3/a-tale-of-two-churches/01_churches.jpg">The Armenian Church in Singapore as it looks today, with major alterations made around 1853 by George Maddock – the new steeple, new east portico and the flat roof. <i>Courtesy of the Armenian Church.</i></div>
 
 In Penang, the Armenian Apostolic Church of St Gregory the Illuminator was consecrated in 1824; nearly 12 years later in Singapore, another church bearing the same name was consecrated.
