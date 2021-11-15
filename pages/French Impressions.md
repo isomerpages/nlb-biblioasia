@@ -7,7 +7,7 @@ image: /images/vol-17-issue-4/diard-duvaucel/Diard-Duvaucel-FB1200-1200px.png
 #### A little-known collection of French natural history drawings of Singapore and its neighbouring countries from 1818 and 1820 shed light on the early study of the region’s flora and fauna.
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/diard-duvaucel/DiardDuvaucel.jpg)
-<div style="background-color: white;"><i>Diard & Duvaucel: French Natural History Drawings of Singapore and Southeast Asia 1818–1820</i> is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (Call nos.: RSING 508.0222 DIA and SING 508.0222 DIA) and for sale at all major bookstores, including Epigram’s online store at epigrambookshop.sg.</div>
+<div style="background-color: white;"><i>Diard & Duvaucel: French Natural History Drawings of Singapore and Southeast Asia 1818–1820</i> is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries ([Call nos.: RSING 508.0222 DIA and SING 508.0222 DIA](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695)) and for sale at all major bookstores, including Epigram’s online store at epigrambookshop.sg.</div>
 
 
 Until recently, most people would not have heard of the two Frenchmen, Pierre-Médard Diard and Alfred Duvaucel, who accompanied Stamford Raffles on his maiden trip to Singapore on 28 January 1819.[^1] Fewer still would know that these two young naturalists collected specimens and worked with artists to create drawings of animals and plants at the various locations they ventured to, including Singapore and the surrounding region as far away as India.
