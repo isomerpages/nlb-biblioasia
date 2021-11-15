@@ -115,6 +115,6 @@ I retired in 2000 and nowadays I volunteer twice a week at the Resident Committe
 <img style="width:70%" src="/images/vol-11-issue-1/lifestories/DSC05937_Zhou_Jiang_Vinson_Phua1.jpg">
 <i>Courtesy of Vinson Phua</i>.</span>
 
-<p style="font-size:15px;"><b>Georgina Wong</b> is an Associate with the Exhibitions and Curation department at the National Library of Singapore. She is the curator of the exhibition “Greatest Gift of a Generation: Life Stories” – to be launched at the Woodlands Regional Library in late May 2015.</p>
+<img style="width:100px;height:100px;margin-bottom:-30px;" src="/images/vol-11-issue-1/lifestories/georgina.jpg"><p style="font-size:15px;"><b>Georgina Wong</b> is an Associate with the Exhibitions and Curation department at the National Library of Singapore. She is the curator of the exhibition “Greatest Gift of a Generation: Life Stories” – to be launched at the Woodlands Regional Library in late May 2015.</p>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-11/issue-1/Apr-jun-2015/"><center>Back to Issue</center></a>
