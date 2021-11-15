@@ -135,61 +135,61 @@ The author would like to thank Raphaël Millet, who reviewed this article before
 
 #### **NOTES**
 
-[^1]:Choo, H. (Interviewer). (1982, June 30). Oral history interview with Haji Mohamed Javad Namazie [Transcript of MP3 recording no. 000189/11/3, p. 22]. Retrieved from National Archives of Singapore website.
+[^1]:Choo, H. (Interviewer). (1982, June 30). *[Oral history interview with Haji Mohamed Javad Namazie](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/3/34cef2da-115f-11e3-83d5-0050568939ad-OHC000189_003/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png)* [Transcript of MP3 recording no. 000189/11/3, p. 22]. Retrieved from National Archives of Singapore website.
 
-[^2]:The Alhambra and Tivoli screened talkies prior to the Capitol but had to undergo some renovations to incorporate sound technology. See Talkie invasion. (1929, December 17). The Singapore Free Press and Mercantile Advertiser, p. 11. Retrieved from NewspaperSG.
+[^2]:The Alhambra and Tivoli screened talkies prior to the Capitol but had to undergo some renovations to incorporate sound technology. See [Talkie invasion](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19291217-1.2.80). (1929, December 17). *The Singapore Free Press and Mercantile Advertiser*, p. 11. Retrieved from NewspaperSG.
 
-[^3]:Capitol Theatre. (1930, May 23). The Straits Times, p. 14. Retrieved from NewspaperSG.
+[^3]:[Capitol Theatre](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19300523-1.2.108). (1930, May 23). *The Straits Times*, p. 14. Retrieved from NewspaperSG.
 
-[^4]:Opening of Malaya’s premier picture palace The Capitol Theatre. Singapore. (1930, May 31). Malayan Saturday Post, p. 38. Retrieved from NewspaperSG.
+[^4]:[Opening of Malaya’s premier picture palace The Capitol Theatre. Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/malayansatpost19300531-1.2.85.aspx). (1930, May 31). *Malayan Saturday Post*, p. 38. Retrieved from NewspaperSG.
 
-[^5]:Lim, A.L.I. (Interviewer). (1986, November 6). Oral history interview with Wee Teck Guan [MP3 recording no. 000719/4/2]. Retrieved from National Archives of Singapore website.
+[^5]:Lim, A.L.I. (Interviewer). (1986, November 6). *[Oral history interview with Wee Teck Guan](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/8bfcf8da-115f-11e3-83d5-0050568939ad?keywords=capitol%20cinema&keywords-type=all)* [MP3 recording no. 000719/4/2]. Retrieved from National Archives of Singapore website.
 
-[^6]:Chiang, C. (Interviewer). (1985, August 20). Oral history interview with Myra Isabelle Cresson [MP3 recording no. 000594/12/2]. Retrieved from National Archives of Singapore website.
+[^6]:Chiang, C. (Interviewer). (1985, August 20). *[Oral history interview with Myra Isabelle Cresson](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/79f7fd40-115f-11e3-83d5-0050568939ad?keywords=CRESSON%2C%20Myra%20Isabelle%20&keywords-type=all)* [MP3 recording no. 000594/12/2]. Retrieved from National Archives of Singapore website.
 
-[^7]:Willis, A.C. (1936). Willis’s Singapore guide (p. 147). Singapore: Alfred Charles Willis. Retrieved from BookSG.
+[^7]:Willis, A.C. (1936). *[Willis’s Singapore guide](http://eservice.nlb.gov.sg/viewer/BookSG/f605bb37-0e57-471e-bc20-0a8dc05cb3c9)* (p. 147). Singapore: Alfred Charles Willis. Retrieved from BookSG.
 
-[^8]:Joe & Julius Fisher – Pioneers of Singapore entertainment. (1940, January 31). The Straits Times, p. 15; Streeter, L. (1940, January 28). From eye-killing flickers to modern marvels. The Sunday Tribune, p. 3. Retrieved from NewspaperSG.
+[^8]:[Joe & Julius Fisher – Pioneers of Singapore entertainment.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19400131-1.2.71) (1940, January 31). *The Straits Times*, p. 15; Streeter, L. (1940, January 28). [From eye-killing flickers to modern marvels](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/sundaytribune19400128-1.2.27). *The Sunday Tribune*, p. 3. Retrieved from NewspaperSG.
  
-[^9]:The Straits Times, 31 Jan 1940, p. 15; Sundstrom, C. (2010, February). Almost 100 years old and still rolling! The history of SA cinema Part 2. Retrieved from Gauteng Film Commission South Africa website.
+[^9]:*[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19400131-1.2.71),* 31 Jan 1940, p. 15; Sundstrom, C. (2010, February). *Almost 100 years old and still rolling! The history of SA cinema Part 2*. Retrieved from Gauteng Film Commission South Africa website.
 
-[^10]:Local and personal. (1922, February 13). *The Straits Times*, p. 8; S’pore cinema pioneer dies of heart attack in U.S. (1960, July 27). *The Straits Times*, p. 5. Retrieved from NewspaperSG.
+[^10]:[Local and personal](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19220213-1.2.41). (1922, February 13). *The Straits Times*, p. 8; [S’pore cinema pioneer dies of heart attack in U.S](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19600727-1.2.55). (1960, July 27). *The Straits Times*, p. 5. Retrieved from NewspaperSG.
 
-[^11]:Air-conditioned Capitol has 1,000 new seats. (1940, January 31). *The Straits Times*, p. 15. Retrieved from NewspaperSG.
+[^11]:[Air-conditioned Capitol has 1,000 new seats](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19400131-1.2.70). (1940, January 31). *The Straits Times*, p. 15. Retrieved from NewspaperSG.
 
-[^12]:Under your very nose a new theatre is built. (1940, January 21). The Sunday Tribune, p. 2; Capitol theatre to be air-conditioned. (1940, January 11). The Singapore Free Press and Mercantile Advertiser, p. 5. Retrieved from NewspaperSG.
+[^12]:[Under your very nose a new theatre is built](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/sundaytribune19400121-1.2.11). (1940, January 21). *The Sunday Tribune*, p. 2; [Capitol theatre to be air-conditioned](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19400111-1.2.64). (1940, January 11). *The Singapore Free Press and Mercantile Advertiser*, p. 5. Retrieved from NewspaperSG.
 
-[^13]:Chew, D. (Interviewer). (1993, April 14). Oral history interview with Maurice Baker [Transcript of MP3 recording no. 000095/6/1, p. 8]. Retrieved from National Archives of Singapore website.
+[^13]:Chew, D. (Interviewer). (1993, April 14). *[Oral history interview with Maurice Baker](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/d/df9299ad-115d-11e3-83d5-0050568939ad-OHC000095_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=11)* [Transcript of MP3 recording no. 000095/6/1, p. 8]. Retrieved from National Archives of Singapore website.
 
-[^14]:Cinema merger details. (1932, November 29). Singapore Daily News, p. 1; Merger of local cinemas. (1932, November 29). *The Straits Times*, p. 12
+[^14]:[Cinema merger details](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singdailynews19321129-1.2.4). (1932, November 29). *Singapore Daily News*, p. 1; [Merger of local cinemas](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19321129-1.2.49). (1932, November 29). *The Straits Times*, p. 12
  
-[^15]:With reference to Huff’s article that showed how Singapore managed to ride out the Depression. See Huff, W.G. (2001, May). Entitlements, destitution and emigration in the 1930s Singapore Great Depression. The Economic History Review, 54 (2), 290–323, pp. 290–291, 318–321; Loh, K.S. (2006, March). Beyond rubber prices: Negotiating the Great Depression in Singapore. South East Asia Research, 14 (1), 5–31, pp. 5-7, 30-31. Retrieved from JSTOR via NLB’s eResources website.
+[^15]:With reference to Huff’s article that showed how Singapore managed to ride out the Depression. See Huff, W.G. (2001, May). Entitlements, destitution and emigration in the 1930s Singapore Great Depression. *The Economic History Review, 54* (2), 290–323, pp. 290–291, 318–321; Loh, K.S. (2006, March). Beyond rubber prices: Negotiating the Great Depression in Singapore. *South East Asia Research, 14* (1), 5–31, pp. 5-7, 30-31. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
 
-[^16]:Van der Putten, J. (2010, February). Negotiating the Great Depression: The rise of popular culture and consumerism in early 1930s Malaya. Journal of Southeast Asian Studies, 41 (1), 21–45, pp. 21–23. Retrieved from JSTOR via NLB’s eResources website 
+[^16]:Van der Putten, J. (2010, February). Negotiating the Great Depression: The rise of popular culture and consumerism in early 1930s Malaya. *Journal of Southeast Asian Studies, 41* (1), 21–45, pp. 21–23. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website 
  
-[^17]:Chua, C.H.J. (Interviewer). (1996, February 9). Oral history interview with Paul Abisheganaden [Transcript of MP3 recording no. 001415/48/39, p, 468], Retrieved from National Archives of Singapore website.
+[^17]:Chua, C.H.J. (Interviewer). (1996, February 9). *[Oral history interview with Paul Abisheganaden](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/8/855e9612-115e-11e3-83d5-0050568939ad-OHC001415_039/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=3)* [Transcript of MP3 recording no. 001415/48/39, p, 468], Retrieved from National Archives of Singapore website.
 
-[^18]:Chew, D. (Interviewer). (1992, December 23). Oral history interview with Goh Heng Chong [Transcript of MP3 recording no. 001392/2/2, pp. 13–14] Retrieved from National Archives of Singapore website.
+[^18]:Chew, D. (Interviewer). (1992, December 23). *[Oral history interview with Goh Heng Chong](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/c/c5d0f378-115f-11e3-83d5-0050568939ad-OHC001392_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=3)* [Transcript of MP3 recording no. 001392/2/2, pp. 13–14] Retrieved from National Archives of Singapore website.
 
-[^19]:Chua, C.H.J. (Interviewer). (1998, July 21). Oral history interview with Hedwig Anuar Aroozo [Transcript of MP3 recording no. 002036/44/2, p. 24]. Retrieved from National Archives of Singapore website.
+[^19]:Chua, C.H.J. (Interviewer). (1998, July 21). *[Oral history interview with Hedwig Anuar Aroozo](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/f/f1cfe541-115e-11e3-83d5-0050568939ad-OHC002036_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=11)* [Transcript of MP3 recording no. 002036/44/2, p. 24]. Retrieved from National Archives of Singapore website.
 
-[^20]:‘Shanghai Lass’. (1934, September 29). Mickey Mouse Club.  The Malaya Tribune, p. 2. Retrieved from NewspaperSG.
+[^20]:‘Shanghai Lass’. (1934, September 29). [Mickey Mouse Club](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19340929-1.2.10). *The Malaya Tribune*, p. 2. Retrieved from NewspaperSG.
 
-[^21]:Yeo, G.L. (Interviewer). (1987, July 27). Oral history interview with Chan Keong Poh [MP3 recording no. 000802/9/2]. Retrieved from National Archives of Singapore website. 
+[^21]:Yeo, G.L. (Interviewer). (1987, July 27). *[Oral history interview with Chan Keong Poh](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/fe978891-115d-11e3-83d5-0050568939ad?keywords=capitol&keywords-type=all)* [MP3 recording no. 000802/9/2]. Retrieved from National Archives of Singapore website. 
 
-[^22]:Ruzita Zaki. (Interviewer). (1995, August 24. Oral history interview with Khatijun Nissan Siraj [Transcript of MP3 recording no. 001663/36/5, p. 70]. Retrieved from National Archives of Singapore website.
+[^22]:Ruzita Zaki. (Interviewer). (1995, August 24. *[Oral history interview with Khatijun Nissan Siraj](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/3/3b69ed83-115e-11e3-83d5-0050568939ad-OHC001663_005/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=5)* [Transcript of MP3 recording no. 001663/36/5, p. 70]. Retrieved from National Archives of Singapore website.
 
-[^23]:Sng, S. (Interviewer). (2005, March 28). Oral history interview with Benjamin Khoo Beng Chuan [Transcript of MP3 recording no. 002911/26/6, p. 127]. Retrieved from National Archives of Singapore website. 
+[^23]:Sng, S. (Interviewer). (2005, March 28). *[Oral history interview with Benjamin Khoo Beng Chuan](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/9/95b71b4d-1160-11e3-83d5-0050568939ad-OHC002911_006/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=11)* [Transcript of MP3 recording no. 002911/26/6, p. 127]. Retrieved from National Archives of Singapore website. 
 
-[^24]:Lee, L.C. (Interviewer). (1996, July 30). Oral history interview with Tham Cheok Fai [Transcript of MP3 recording no. 001751/19/19, p. 2]. Retrieved from National Archives of Singapore website; Oral history interview with Benjamin Khoo Beng Chuan, 28 Mar 2005, p. 126.
+[^24]:Lee, L.C. (Interviewer). (1996, July 30). *[Oral history interview with Tham Cheok Fai](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/4/4e9cebf9-115e-11e3-83d5-0050568939ad-OHC001751_019/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=3)* [Transcript of MP3 recording no. 001751/19/19, p. 2]. Retrieved from National Archives of Singapore website; *[Oral history interview with Benjamin Khoo Beng Chuan](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/9/95b71b4d-1160-11e3-83d5-0050568939ad-OHC002911_006/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=11)*, 28 Mar 2005, p. 126.
 
-[^25]:Low, M. (Interviewer). (2006, January 10). Oral history interview with Ronald Chandran Dudley [Transcript of MP3 recording no. 003012/22/2, pp. 48–49]. Retrieved from National Archives of Singapore website. 
+[^25]:Low, M. (Interviewer). (2006, January 10). *[Oral history interview with Ronald Chandran Dudley](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/d/d979d30f-1160-11e3-83d5-0050568939ad-OHC003012_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=23)* [Transcript of MP3 recording no. 003012/22/2, pp. 48–49]. Retrieved from National Archives of Singapore website. 
 
-[^26]:Chua, A. L. (Interviewer). (1997, February 26). Oral history interview with Hilary Vivian Hogan [MP3 recording no. 001778/33/1]. Retrieved from National Archives of Singapore website. 
+[^26]:Chua, A. L. (Interviewer). (1997, February 26). *[Oral history interview with Hilary Vivian Hogan](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/46fafc6d-115e-11e3-83d5-0050568939ad?keywords=capitol&keywords-type=all)* [MP3 recording no. 001778/33/1]. Retrieved from National Archives of Singapore website. 
 
-[^27]:Lim, J. (Interviewer). (2002, July 19). Oral history interview with Kartar Singh [MP3 recording no. 002335/34/13]. Retrieved from National Archives of Singapore website.
+[^27]:Lim, J. (Interviewer). (2002, July 19). *[Oral history interview with Kartar Singh](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/5cec160e-1160-11e3-83d5-0050568939ad?keywords=capitol&keywords-type=all)* [MP3 recording no. 002335/34/13]. Retrieved from National Archives of Singapore website.
 
-[^28]:No more shows at Capitol Theatre. (1941, December 20). *The Singapore Free Press and Mercantile Advertiser*, p. 6. Retrieved from NewspaperSG.
+[^28]:[No more shows at Capitol Theatre](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19411220-1.2.61). (1941, December 20). *The Singapore Free Press and Mercantile Advertiser*, p. 6. Retrieved from NewspaperSG.
 
 [^29]:Oral history interview with Kartar Singh, 19 Jul 2002.
 
