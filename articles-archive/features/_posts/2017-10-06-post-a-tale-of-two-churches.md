@@ -42,13 +42,13 @@ Arshak Sarkies (pictured here), along with Joseph Anthony, commissioned German a
 
 In the late-1930s, the trustees of St Gregory’s Church in Singapore sold the site, on the instructions of the Mother church in Persia, and the monument was demolished. In August 1937, the 20 Armenians buried in the churchyard were re-interred in Western Road Cemetery (Penang’s municipal cemetery at the time) in a service conducted by Reverend Shamaian from Singapore.[^5] The money received from the sale of the church land was invested in the Catchatoor Galastaun Memorial Fund and managed by the church trustees in Singapore. The church’s silverware and its foundation plaque dated 1822 were given to the Armenian church in Singapore.[^6]
 
-<div style="background-color: white;"><img style="width:600px" src="/images/Vol-13-issue-3/a-tale-of-two-churches/03a_churches.jpg">View of Government Hill, the English Burial Ground and the Armenian Church in Singapore, in 1840. This view shows the original dome of the church with the gold cross on top and the pitched roof. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i></div>
-
 Unfortunately, no image of the Armenian church in Penang has been found even though the building survived until 1909. Presumably it displayed all the customary features of an Armenian church – built of stone, with a vaulted ceiling, a dome and an east-facing chancel − as does the one in Singapore.[^7] References to the church building are scarce. Writing in 1839, Thomas Newbold commented that the Armenian chapel was one of the principal buildings in George Town, while James Low described it as “handsome”.[^8] Today, not even a marker indicates where this church once stood.
 
 #### **The Armenian Church in Singapore**
 
 The fate of the Armenian church in Singapore took a different trajectory altogether. Within a year of the establishment of a trading post in Singapore in 1819 by Stamford Raffles, Armenians began arriving. Initially, Reverend Iliazor Ingergolie travelled from Penang to conduct services for the Armenian community in Singapore. But after the community grew to around 20 in 1825, the Armenians wrote to the Archbishop in Persia asking that a priest be sent to serve their spiritual needs. In 1827, Reverend Gregory Ter Johannes arrived in Singapore.
+
+<div style="background-color: white;"><img style="width:600px" src="/images/Vol-13-issue-3/a-tale-of-two-churches/03a_churches.jpg">View of Government Hill, the English Burial Ground and the Armenian Church in Singapore, in 1840. This view shows the original dome of the church with the gold cross on top and the pitched roof. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i></div>
 
 At first, Reverend Ter Johannes conducted services in the premises of an Armenian merchant named Isaiah Zechariah, but soon, as in Penang, the community wanted its own church. In March 1833, Zechariah began petitioning Samuel Bonham, the Resident Councillor in Singapore, for a grant of land. Eventually a suitable site was agreed upon at the foot of Fort Canning. This land had earlier been granted to Dr Nathaniel Wallich to establish an experimental botanical garden, but this particular site facing Hill Street was left unused.[^9]
 
@@ -58,13 +58,13 @@ The leading British architect of the time, George D. Coleman was commissioned to
 
 The total cost of the construction, as well as accessories and regalia for the priest, amounted to $5,058.30. While the Penang church benefited from two wealthy donors, Singapore was not so fortunate. A public subscription was launched and, by mid-1836, some $3,120 had been donated, mostly by local Armenians. This left a shortfall of nearly $2,000 as well as the further $600 that was required to build a parsonage.
 
-The paucity of donations from non- Armenians led to a sharp rebuke from *The Singapore Chronicle* newspaper, which had hoped that the meagre $370 donated by the Europeans and others would be supplemented; after all, Armenians had generously donated when the call was made to raise funds to build St Andrew’s Cathedral.[^11] But the plea largely fell on deaf ears. Fortunately, the 12 or so local Armenian families managed to raise the money, and also promised to cover ongoing costs.[^12]
+The paucity of donations from non-Armenians led to a sharp rebuke from *The Singapore Chronicle* newspaper, which had hoped that the meagre $370 donated by the Europeans and others would be supplemented; after all, Armenians had generously donated when the call was made to raise funds to build St Andrew’s Cathedral.[^11] But the plea largely fell on deaf ears. Fortunately, the 12 or so local Armenian families managed to raise the money, and also promised to cover ongoing costs.[^12]
 
 On 26 March 1836, the church was consecrated and dedicated to St Gregory, sharing the same name as the Penang church – the Armenian Apostolic Church of St Gregory the Illuminator. *The Singapore Free Press* declared it as one of Coleman’s “most ornate and best finished pieces of architecture”. The paper reported in glowing terms:
 
-<div style="background-color: white;"><img style="width:600px" src="/images/Vol-13-issue-3/a-tale-of-two-churches/04_churches.jpg">A painting of the Armenian Church in Singapore by John Turnbull Thomson, 1847. This view shows the original chancel and the second turret. <i>All rights reserved, Hall-Jones, J. (1983). The Thomson Paintings: Mid-nineteenth Century Paintings of the Straits Settlements and Malaya (p. 43). Singapore: Oxford University Press. (Call no.: RSING 759.2 THO).</i></div>
-
 “This small but elegant building does great credit to the public spirit and religious feeling of the Armenians of this settlement; for we believe that few instances could be shown where so small a community have contributed funds sufficient for the erection of a similar edifice.”[^13]
+
+<div style="background-color: white;"><img style="width:600px" src="/images/Vol-13-issue-3/a-tale-of-two-churches/04_churches.jpg">A painting of the Armenian Church in Singapore by John Turnbull Thomson, 1847. This view shows the original chancel and the second turret. <i>All rights reserved, Hall-Jones, J. (1983). The Thomson Paintings: Mid-nineteenth Century Paintings of the Straits Settlements and Malaya (p. 43). Singapore: Oxford University Press. (Call no.: RSING 759.2 THO).</i></div>
 
 Indeed, the church relied on a very small community (which never numbered more than 100 at its peak) to maintain it, as well as pay for the services of a priest. The burden of supporting the church was one continuously faced by the Armenians in Penang and Singapore. In Penang, the Anthony family supported the priest for many years, while in Singapore in the 1930s, that task was taken on by Mrs Mary Anne Martin.
 
@@ -85,7 +85,7 @@ Unlike Penang’s Armenian church which has disappeared from living memory, its 
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Vol-13-issue-3/a-tale-of-two-churches/nadia_wright.png">
-	<b>Dr Nadia Wright</b>, a retired teacher and now active historian, lives in Melbourne. She specialises in the colonial history of Singapore and Armenians in Southeast Asia. Her book, 'William Farquhar and Singapore: Stepping Out from Raffles’ Shadow, was published in May 2017.
+	<b>Dr Nadia Wright</b>, a retired teacher and now active historian, lives in Melbourne. She specialises in the colonial history of Singapore and Armenians in Southeast Asia. Her book, <i>William Farquhar and Singapore: Stepping Out from Raffles’ Shadow</i>, was published in May 2017.
 </div>
 
 <a href="/vol-13/issue-3/oct-dec-2017/"><center>Back to Issue</center></a>
