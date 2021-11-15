@@ -16,7 +16,7 @@ Apart from their iconic black-and-white *samfu* attire, *amahs* have earned a pl
 
 Seeking a better life, these women came to this part of the world in the 1930s to work in the homes of wealthy families, eventually dominating the field of paid domestic service well into the 1960s and 70s.[^4] At a time when women in Chinese society were bound by traditional Confucian values to be “dutiful wives and virtuous mothers” (贤妻良母, *xian qi liang mu*), Cantonese *amahs* broke the mould by carving an independent livelihood away from home and determining their own destiny.
 
-<div style="background-color: white;"><img style="width:600px" src="/images/Vol-13-issue-3/a-lifetime-of-labour/02b_amah.jpg">A scene depicting silk production in 17th-century China. By the early 1900s, the Pearl River Delta had become a major production centre for silk. <i>Photo by Peter Horree/Alamy Stock Photo.</i></div>
+<div style="background-color: white;"><img style="width:530px" src="/images/Vol-13-issue-3/a-lifetime-of-labour/02b_amah.jpg">A scene depicting silk production in 17th-century China. By the early 1900s, the Pearl River Delta had become a major production centre for silk. <i>Photo by Peter Horree/Alamy Stock Photo.</i></div>
 
 #### **Daughters of the Delta**
 
@@ -60,7 +60,7 @@ There was a wider range of employment opportunities available in Malaya for thes
 
 The pattern of social affiliation and mutual assistance organised along the lines of sisterhood and territorial origins in China was replicated in Singapore and Malaya. *Amahs* from the same village or district banded to form associations known as *kongsi* (公司). They pooled their wages to rent accommodations, known as *kongsi fong* (公司房), which ranged in size from a cubicle to a shophouse with a number of rooms, and in membership from two to as many as 50 women. Some *kongsi fong* functioned as a place for sleeping and storage of personal belongings, while others were elaborate clubhouses with benefit schemes and social activities for members. A well-organised *kongsi fong* also served as a recruitment agency and trade guild that helped to connect members with prospective employers as well as to help them negotiate for better employment terms.[^26]
 
-<div style="background-color: white;"><img src="/images/Vol-13-issue-3/a-lifetime-of-labour/05_amah.jpg">An <i>amah</i> entering a <i>kongsi fong</i>, 1962. Amahs pooled their wages to rent accommodations, known as <i>kongsi fong</i> (公司房), which ranged in size from a cubicle to a shophouse with a number of rooms. <i>Kongsi fong</i> were typically located in tenement blocks in Chinatown.<i> Courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;"><img style="width:450px" src="/images/Vol-13-issue-3/a-lifetime-of-labour/05_amah.jpg">An <i>amah</i> entering a <i>kongsi fong</i>, 1962. Amahs pooled their wages to rent accommodations, known as <i>kongsi fong</i> (公司房), which ranged in size from a cubicle to a shophouse with a number of rooms. <i>Kongsi fong</i> were typically located in tenement blocks in Chinatown.<i> Courtesy of National Archives of Singapore.</i></div>
 
 A woman intending to emigrate would usually engage the services of a *sui haak* (水客, *shui ke*; literally “water guest”), a middleman from the same district or village who, for an agreed fee, would make the necessary travel arrangements and provide advice on all matters relating to immigration and employment in the foreign land.[^27]
 
