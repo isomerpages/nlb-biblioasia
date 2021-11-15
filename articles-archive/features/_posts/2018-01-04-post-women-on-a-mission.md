@@ -145,19 +145,19 @@ In 1964, the Town Convent was separated into primary and secondary schools and, 
 
 #### **NOTES**
 
-[^1]:Home, C.S. (1908). The story of the L.M.S., with an appendix bringing the story up to year 1904 (p. 10). Blackfrairs: London Missionary Society. Retrieved from Missiology website.
+[^1]:Home, C.S. (1908). *The story of the L.M.S., with an appendix bringing the story up to year 1904* (p. 10). Blackfrairs: London Missionary Society. Retrieved from Missiology website.
 
-[^2]:Kirkwood, D. (1993). Protestant missionary women: Wives and spinsters (pp. 23–42). In F. Bowie, D. Kirkwood & S. Ardener (Eds.), Women and missions: Past and present: Anthropological and historical perceptions (p. 25). Oxford: Berg Publishers. (Not available in NLB holdings).
+[^2]:Kirkwood, D. (1993). Protestant missionary women: Wives and spinsters (pp. 23–42). In F. Bowie, D. Kirkwood & S. Ardener (Eds.), *Women and missions: Past and present: Anthropological and historical perceptions* (p. 25). Oxford: Berg Publishers. (Not available in NLB holdings).
 
 [^3]:Kirkwood, 1993, p. 26.
 
 [^4]:Kirkwood, 1993, p. 34.
 
-[^5]:Kirkwood, 1993, p. 32; Williams, P. (1993). The missing link: The recruitment of women missionaries in some English evangelical missionary societies in the nineteenth century (pp. 43–69). In F. Bowie, D. Kirkwood & S. Ardener (Eds.), Women and missions: Past and present: Anthropological and historical perceptions (p. 56). Oxford: Berg Publishers. (Not available in NLB holdings).
+[^5]:Kirkwood, 1993, p. 32; Williams, P. (1993). The missing link: The recruitment of women missionaries in some English evangelical missionary societies in the nineteenth century (pp. 43–69). In F. Bowie, D. Kirkwood & S. Ardener (Eds.), *Women and missions: Past and present: Anthropological and historical perceptions* (p. 56). Oxford: Berg Publishers. (Not available in NLB holdings).
 
-[^6]:Saw, S.H. (2012). The population of Singapore (pp. 31–32). Singapore: ISEAS. (Call no.: RSING 304.6095957 SAW)
+[^6]:Saw, S.H. (2012). *[The population of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14383911)* (pp. 31–32). Singapore: ISEAS. (Call no.: RSING 304.6095957 SAW)
 
-[^7]:Makepeace, W., Brooke, G.E., & Braddell, R.S.J. (Eds.). (1991). One hundred years of Singapore (Vol. 1, pp. 155, 353). Singapore: Oxford University Press. (Call no.: RSING 959.57 ONE-[HIS])
+[^7]:Makepeace, W., Brooke, G.E., & Braddell, R.S.J. (Eds.). (1991). *[One hundred years of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6203718)* (Vol. 1, pp. 155, 353). Singapore: Oxford University Press. (Call no.: RSING 959.57 ONE-[HIS])
 
 [^8]:Turnbull, C.M. (1989). *[A history of Singapore, 1819–1988](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5178825)* (pp. 59–64). Singapore: Oxford University Press. (Call no.: RSING 959.57 TUR-[HIS]); Kiong, B.H. (1953). *Educational progress in Singapore, 1870–1902* (p. 4). (Unpublished academic exercise, University of Malaya).; Blackmore, S. (n.d.). *A pioneer in Malaya*. Singapore: MGS Heritage Centre. (Unpublished manuscript)
 
