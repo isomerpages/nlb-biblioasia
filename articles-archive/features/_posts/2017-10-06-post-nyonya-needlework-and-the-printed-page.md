@@ -6,7 +6,7 @@ layout: post
 ---
 #### **Cheah Hwei-Fe’n** examines the impact of print media on the time-honoured craft of Peranakan embroidery and beadwork.
 
-<div style="background-color: white;"><br><img style="width:600px" src="/images/Vol-13-issue-3/nyonya-needlework/02_nyonyaneedlework.jpg">Figure 1: A Peranakan wedding couple with a child attendant, early 20th century. Wedding celebrations often showcased nyonya needlework in the form of accessories for the wedding couple and their entourage, and soft furnishings in the nuptial chamber. <i>Photograph by Che Lan & Co, Jogjakarta. Collection of the Peranakan Museum. Gift of Lee Kip Lee.</i></div>
+<div style="background-color: white;"><br><img style="width:700px" src="/images/Vol-13-issue-3/nyonya-needlework/02a_nyonyaneedlework.jpg">Figure 1: A Peranakan wedding couple with a child attendant, early 20th century. Wedding celebrations often showcased nyonya needlework in the form of accessories for the wedding couple and their entourage, and soft furnishings in the nuptial chamber. <i>Photograph by Che Lan & Co, Jogjakarta. Collection of the Peranakan Museum. Gift of Lee Kip Lee.</i></div>
 
 Singapore’s national respository of nyonya needlework, comprising the embroidery and beadwork of the Peranakan[^1] (or Straits Chinese) community from Singapore, Malaysia, Indonesia and Myanmar, is unsurpassed as a public collection. Enhanced in recent years through acquisitions and gifts, the quality of the objects and their diversity of styles show how imitation, innovation and cultural borrowing have all contributed to the art of nyonya needlework.[^2]
 
@@ -42,11 +42,11 @@ Initially sold through shops catering to Europeans, these woolwork patterns woul
 
 In Chinese paintings and embroideries, the peony is usually depicted in full bloom with frilly- or wavy-edged petals. They can be depicted in the manner commonly seen in nyonya embroideries, or with more stylised smooth-edged petals.[^10] A third variation of the “peony”, especially in the gold embroideries of Java, is associated with designs found in European fashion journals, as in figure 2.
 
+<div style="background-color: white;"><img style="width:400px" src="/images/Vol-13-issue-3/nyonya-needlework/03_nyonyaneedlework.png">Figure 2: Tray cover or handkerchief with gold embroidery of floral stems at each corner, probably from Java, late 19th or early 20th century. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i></div>
+
 Figure 2 shows a handkerchief or tray cover embroidered with floral stems at each corner. The petals have scalloped edges and are arranged neatly around the core of the flower, much like the printed models in the Dutch magazine *Gracieuse* (see figure 3). This type of stylised “peony”, intertwined with the presentation of floral sprays in a bouquet (popularly known in batik terminology as *buketan*), continued to be applied to embroidery right into the 1930s.[^11]
 
 The gold embroidery technique on this work and another similar cloth largely corresponds to what is found in European military and ceremonial embroidery. The latter has a heart-shaped motif surmounted by a fruiting stem at each of the four corners.[^12] The heart-shaped design is atypical and was probably adapted from European publications.
-
-<div style="background-color: white;"><img style="width:400px" src="/images/Vol-13-issue-3/nyonya-needlework/03_nyonyaneedlework.png">Figure 2: Tray cover or handkerchief with gold embroidery of floral stems at each corner, probably from Java, late 19th or early 20th century. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i></div>
 
 Similar styles of floral decoration are found on late 19th century batiks from the northern coast of Java. Certain Indo-Dutch batik designers held exclusive rights to reproduce designs from Dutch fashion journals, but artisans also copied the designs from printed sources for re-sale, resulting in the spread of popular imagery.[^13] In the case of needlework, embroiderers may have adapted patterns directly from the magazines themselves, or they may have purchased samplers (see figure 5) or sheet patterns from the artisans.
 
