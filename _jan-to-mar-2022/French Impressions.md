@@ -32,3 +32,17 @@ On 1 June 1820, Stamford Raffles wrote about the Green Broadbill in his *Descrip
 #### **Nº 11: Nº 67: Javanese Lapwing *Vanellus macropterus***
 
 The lapwing depicted in this drawing used to occur in a few places in Java. Today, it is thought to be extinct and reports of sightings in Sumatra have not been substantiated thus far. Stamford Raffles or Diard and Duvaucel might have bought a specimen in a market, which would not have been an unusual practice then. Although the species had already been described from a bird in the collections of the Muséum National d’Histoire Naturelle in Paris, that specimen has no connection with either Diard or Duvaucel.
+
+#### **Nº 7b: Hanuman Langur *Semnopithecus entellus***
+
+When Duvaucel was staying in Chandernagor (Chandannagar) in West Bengal, India, langurs were quite a common sight, especially at the start of winter. Local Bengalis consider the monkey species depicted in this drawing as sacred because its black face and hands resemble those of the Hindu monkey god Hanuman. According to accounts, every time Duvaucel had a chance to point a gun at one of these langurs, the people around him would start making loud noises, causing the animals to scatter. One day, Duvaucel went to the holy town of Gouptipara (Guptipara) in the Hooghly district, not far from his home, where dozens of langurs were resting in the trees. Before Duvaucel could get hold of a specimen, however, he was surrounded by a dozen devotees intent on stopping him. On his way home, he noticed a beautiful female Hanuman Langur; unable to resist the temptation, he shot her. She died, just after trying to save her baby by hiding it among the leaves of a tree. Perhaps Duvaucel felt sorry for what he had done. The female monkey is immortalised in this drawing, which was reproduced in *Histoire Naturelle des Mammifères*, a grand illustrated work on recently discovered mammals by his uncle (by marriage) Frédéric Cuvier in 1825.
+
+#### **Nº 2: Spiny Turtle *Heosemys spinosa***
+
+“The island of Singapore” or “isle de Singapour” states the annotation on the drawing. This is quite a remarkable statement to make at a time when Singapore had only just entered the public consciousness in Europe because of Raffles and the East India Company. Diard and Duvaucel were in Singapore between January and February as well as May and June 1819, during which time they could have observed the young turtle represented in this drawing. Although no date was written on the paper, this may well have been the first illustration of an animal found in Singapore. The Spiny Turtle is found widely across Southeast Asia, usually in lowland rainforests near rivers or streams. The half-completed aspect of some of drawings, like this example, suggests that the artist (or artists) working in the field with Diard and Duvaucel were under pressure to record time-critical aspects of the animals. This is particularly obvious with the drawing of the Spiny Turtle – the identical left legs could have been added later.
+
+
+#### **Nº 3: Kuhl’s Gliding Gecko *Gekko kuhli***
+
+The specimen portrayed in this drawing was obtained in Sumatra. This conspicuous gecko was first described from Java, where Diard again found it after he left the employ of Stamford Raffles. Kuhl’s Gliding Gecko can also be found in Singapore, where an early specimen was collected and donated to the Muséum National d’Histoire Naturelle in Paris in December 1868 by the French trader Andrew Spooner.
+
