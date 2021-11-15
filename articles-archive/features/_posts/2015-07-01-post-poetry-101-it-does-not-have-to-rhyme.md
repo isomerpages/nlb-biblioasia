@@ -54,7 +54,7 @@ Even if I need to sell out all my belongings <br>I still would like to kiss on <
 
 <i>Translation courtesy of The Milky Way Publishing (银河出版社)</i>
 
-Even poems that are not specifically about food weave in some mention of our local cuisine: “Mencari Seorang Pemimpin”? (“Looking for a Leader?”) describes the <i>prata</i> sold along the streets of Joo Chiat,《街变》(“Change”) bemoans the loss of street stalls that used to hawk <i>wanton mee</i> and sweet potato soup, while “்சங்க�ம்” (“Confluence”) makes a passing reference to fish head curry and coconut chutney.
+Even poems that are not specifically about food weave in some mention of our local cuisine: “Mencari Seorang Pemimpin”? (“Looking for a Leader?”) describes the <i>prata</i> sold along the streets of Joo Chiat,《街变》(“Change”) bemoans the loss of street stalls that used to hawk <i>wanton mee</i> and sweet potato soup, while "சங்கமம்” (“Confluence”) makes a passing reference to fish head curry and coconut chutney.
 
 “Poetry on Platforms” will take place at City Hall MRT station from 16 July to 13 August 2015 to coincide with the National Day celebrations. All the poems featured in the exhibition will be compiled in a publication entitled <i>SingaPoetry: An Anthology of Poems on Singapore</i>. The book will be available at all libraries in August 2015. 
 
