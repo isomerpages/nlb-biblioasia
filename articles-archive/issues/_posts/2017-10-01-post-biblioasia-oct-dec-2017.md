@@ -32,17 +32,17 @@ Penang’s Armenian church was demolished in the early 1900s while the one in Si
 **[Early Malay Printing in Singapore](/vol-13/issue-3/oct-dec-2017/early-malay-printing)** <br>
 *Mazelan Anuar* tracks the rise and decline of Malay printing and publishing in 19th-century Singapore, and profiles two of the most prolific printers of that period. [(PDF)](/files/pdf/vol-13/v13-issue3_Printing.pdf)
 
-**[The Symbolism behind the Third Charter of Justice](/vol-13/issue-3/oct-dec-2017/third-charter-justice)** <br>
+**[The Symbolism Behind the Third Charter of Justice](/vol-13/issue-3/oct-dec-2017/third-charter-justice)** <br>
 This legal document – issued by the colonial government in 1855 – is an integral part of Singapore’s constitutional history. *Kevin Khoo* explains the significance of its elaborate borders. [(PDF)](/files/pdf/vol-13/v13-issue3_Justice.pdf)
 
-**[Rambling around Bras Basah](/vol-13/issue-3/oct-dec-2017/ramblingarndbrasbasah)** <br>
+**[Rambling Around Bras Basah](/vol-13/issue-3/oct-dec-2017/ramblingarndbrasbasah)** <br>
 It’s just a street to many, but for *Yu-Mei Balasingamchow*, the Bras Basah area is emblematic of how redevelopment can sometimes radically change the identity of an area. [(PDF)](/files/pdf/vol-13/v13-issue3_BrasBasah.pdf) 
 
 **[Mr Song’s European Escapade](/vol-13/issue-3/oct-dec-2017/european-escapade)** <br>
 *Ong Eng Chuan* pores through the faded colonial-era postcards of Peranakan luminary Song Ong Siang to piece together highlights of his 10-month European sojourn. [(PDF)](/files/pdf/vol-13/v13-issue3_MrSong.pdf)
 
-**从馆藏文献资料认识中医药在新加坡的历史与发展**
+**[从馆藏文献资料认识中医药在新加坡的历史与发展](/vol-13/issue-3/oct-dec-2017/traditionalchinesemed)**<br>
 Traditional Chinese medicine in Singapore has a history that goes back to more than a century. *Vicky Gao* traces its development through the National Library’s collection. [(PDF)](/files/pdf/vol-13/v13-issue3_ChineseMedicine.pdf)
 
-**The Way We Were: Fashion through the Decades** <br>
+**[The Way We Were: Fashion Through the Decades](/vol-13/issue-3/oct-dec-2017/fashionthroughdecades)** <br>
 Singapore has emerged as a leading Asian fashion capital in recent years. *Zoe Yeo* tracks its evolution through fashion publications from the Legal Deposit Collection. [(PDF)](/files/pdf/vol-13/v13-issue3_Fashion.pdf)
