@@ -4,7 +4,7 @@ date: 2015-01-01
 permalink: /vol-10/issue-4/jan-mar-2015/
 layout: post
 ---
-<img style="width:80%" src="/images/vol-10-issue-4/background/cover15_jan.jpg">
+<img style="width:70%" src="/images/vol-10-issue-4/background/cover15_jan.jpg">
 
 [<b>Director's Note</b>](/vol-10/issue-4/jan-march-2015/director-note)
 
