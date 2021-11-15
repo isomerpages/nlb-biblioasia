@@ -199,39 +199,36 @@ In 1964, the Town Convent was separated into primary and secondary schools and, 
 
 [^27]:Sng, 2003, pp. 113–114; Fairfield Methodist School (Secondary). (2015). School history. Retrieved from FMSS website. [Note: Over the years, Fairfield Girls’ School has changed its name several times: Fairfield Methodist Girls’ School in 1958; Fairfield Methodist Primary School and Fairfield Methodist Secondary School in 1983 when it moved to Dover Road and became co-educational; and finally, Fairfield Methodist School (Primary) and Fairfield Methodist School (Secondary) in 2009.]
 
-[^28]: Lau, 2008, p. 15; Blackmore, n.d. 
+[^28]: [Lau](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13030469), 2008, p. 15; Blackmore, n.d. 
  
-[^29]:Miss Hemingway writing in 1899. Quoted in Sng, 2003, pp. 114–115.
+[^29]:Miss Hemingway writing in 1899. Quoted in [Sng](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12253210), 2003, pp. 114–115.
 
 [^30]:Blackmore, n.d.
 
-[^31]: Lau, 2008, p. 16; Blackmore, S. (1928). A record of forty years of women’s work in Malaya, 1885–1925 (p. 1). (Unpublished manuscript); Lim, L.U.W. (1987). Memories, gems and sentiments: 100 years of Methodist Girls’ School (p. 5). Singapore: Methodist Girls School. Retrieved from BookSG.
+[^31]: [Lau](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13030469), 2008, p. 16; Blackmore, S. (1928). *A record of forty years of women’s work in Malaya, 1885–1925* (p. 1). (Unpublished manuscript); Lim, L.U.W. (1987). *[Memories, gems and sentiments: 100 years of Methodist Girls’ School](http://eresources.nlb.gov.sg/printheritage/detail/01bfcaec-8592-409e-bc86-4b1540cb86f7.aspx)* (p. 5). Singapore: Methodist Girls School. Retrieved from BookSG.
  
-[^32]:Lau, 2008, p. 7.
+[^32]:[Lau](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13030469), 2008, p. 7.
 
-[^33]:Doraisamy, 1987, pp. 24–26.
+[^33]:[Doraisamy](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4606361), 1987, pp. 24–26.
 
-[^34]:Blackmore, n.d; See various issues of The Malaysia Message from 1890 to 1941. Singapore: The Methodist Church Archives. (Not available in NLB holdings)
+[^34]:Blackmore, n.d; See various issues of *The Malaysia Message* from 1890 to 1941. Singapore: The Methodist Church Archives. (Not available in NLB holdings)
 
-[^35]:See for example the report on WFMS evangelistic work in Minutes of the Malaysia Mission Conference of the Methodist Episcopal Church. (1895, February 14–20) (pp. 32–35). Retrieved from Images library website; Lau, 2008, pp. 27, 46.
+[^35]:See for example the report on WFMS evangelistic work in *Minutes of the Malaysia Mission Conference of the Methodist Episcopal Church*. (1895, February 14–20) (pp. 32–35). Retrieved from Images library website; [Lau](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13030469), 2008, pp. 27, 46.
 
-[^36]:Doraisamy, 1987, p. 56; Lau, 2008, p. 16; The Malaysia Message, Jun 1894, p. 88; Minutes of the Malaysia Mission Conference of the Methodist Episcopal Church, 14–20 Feb 1895, pp. 15.,17.
+[^36]:[Doraisamy](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4606361), 1987, p. 56; [Lau](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13030469), 2008, p. 16; *The Malaysia Message*, Jun 1894, p. 88; *Minutes of the Malaysia Mission Conference of the Methodist Episcopal Church*, 14–20 Feb 1895, pp. 15.,17.
 
-[^37]:Buckley, 1902, pp. 267, 365–266.
+[^37]:[Buckley](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4470390), 1902, pp. 267, 365–266.
 
-[^38]:Kong, L., Low, S.A., & Yip, J. (1994). Convent chronicles: History of a pioneer mission school for girls in Singapore (p. 56). Singapore: Armour Publishing. (Call no.: RSING 373.5957 KON); Meyers, E. (2004). Convent of the Holy Infant Jesus: 150 years in Singapore (p. 62). Penang, Malaysia: The Lady Superior of Convent of the Holy Infant Jesus. (Call no.: RSING q371.07125957 MEY)
+[^38]:Kong, L., Low, S.A., & Yip, J. (1994). *[Convent chronicles: History of a pioneer mission school for girls in Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7230042)* (p. 56). Singapore: Armour Publishing. (Call no.: RSING 373.5957 KON); Meyers, E. (2004). *[Convent of the Holy Infant Jesus: 150 years in Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12427695)* (p. 62). Penang, Malaysia: The Lady Superior of Convent of the Holy Infant Jesus. (Call no.: RSING q371.07125957 MEY)
 
-[^39]:Kong, Low & Yip, 1994, p. 56; CHIJ Secondary. (2017). IJ communities and schools. Retrieved from CHIJ Secondary website.
+[^39]:[Kong, Low & Yip](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7230042), 1994, p. 56; CHIJ Secondary. (2017). *IJ communities and schools*. Retrieved from CHIJ Secondary website.
 
-[^40]:Annual medical report on the civil hospitals in the Straits Settlements for the year 1885. See Straits Settlements. Legislative Council. (1886). Proceedings of the Legislative Council of the Straits Settlements (with appendices) for the year 1886. Singapore: Government Printing Office. [Microfilm no.: NL 1107]
+[^40]:Annual medical report on the civil hospitals in the Straits Settlements for the year 1885. See Straits Settlements. Legislative Council. (1886). *[Proceedings of the Legislative Council of the Straits Settlements (with appendices) for the year 1886](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201042621)*. Singapore: Government Printing Office. [Microfilm no.: NL 1107]
 
-[^41]:Khoo, H. H. (1955). Medical services in the Straits Settlements, 1867–1905 (p. 55) (Unpublished thesis). Singapore: University of Malaya. (Not available in NLB holdings); Viji Mudeliar, V., Nair, C.R.S., & Norris, R.P. (1983). Development of hospital care and nursing in Singapore (p. 18). Singapore: Ministry of Health. Retrieved from PublicationSG.
+[^41]:Khoo, H. H. (1955). *Medical services in the Straits Settlements, 1867–1905* (p. 55) (Unpublished thesis). Singapore: University of Malaya. (Not available in NLB holdings); Viji Mudeliar, V., Nair, C.R.S., & Norris, R.P. (1983). *[Development of hospital care and nursing in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200039522)* (p. 18). Singapore: Ministry of Health. Retrieved from PublicationSG.
 
-[^42]:Annual medical report on the civil hospitals of the Straits Settlements for the year 1893. See Straits Settlements Legislative Council. (1893). Proceedings of the Legislative Council of the Straits Settlements (with appendices) for the year 1893. Singapore: Government Printing Office. [Microfilm no.: NL 1107] 
+[^42]:Annual medical report on the civil hospitals of the Straits Settlements for the year 1893. See Straits Settlements Legislative Council. (1893). *[Proceedings of the Legislative Council of the Straits Settlements (with appendices) for the year 1893](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201042621)*. Singapore: Government Printing Office. [Microfilm no.: NL 1107] 
  
-[^43]:Untitled. (1900, May 14). *The Straits Times*, p. 2; Legislative Council. (1990, February 28). *The Straits Times*, p. 3. Retrieved from NewspaperSG.
+[^43]:[Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19000514-1.2.10.aspx). (1900, May 14). *The Straits Times*, p. 2; [Legislative Council](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19000228-1.2.37.aspx). (1990, February 28). *The Straits Times*, p. 3. Retrieved from NewspaperSG.
 
-[^44]:CHIJ Secondary. (2017). IJ communities and schools. Retrieved from CHIJ Secondary website.
-
-
-
+[^44]:CHIJ Secondary. (2017). *IJ communities and schools*. Retrieved from CHIJ Secondary website.
