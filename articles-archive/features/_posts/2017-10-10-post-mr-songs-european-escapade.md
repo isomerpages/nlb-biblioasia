@@ -115,7 +115,7 @@ Song, O.S. (1984). *[One hundred years’ history of the Chinese in Singapore](h
 
 [^1]:The Garden Club was established in 1916 by the Straits Chinese in Singapore, and membership was limited to Chinese only. The club was originally located at Cairnhill but a “town branch” later opened at Raffles Chambers. Song Ong Siang described the club as “the leading Chinese club in Singapore and plays a prominent part in the social affairs of the settlement”.
 
-[^2]:The annotated edition of Song Ong Siang’s. *[One hundred years’ history of the Chinese in Singapore](https://eresources.nlb.gov.sg/printheritage/detail/d77d9bfc-e335-4775-a6bf-e8712deaa81f.aspx?s=One%20Hundred%20Years%20History%20of%20the%20Chinese%20in%20Singapore)* is available for public access on the National Library Board’s BookSG website.
+[^2]:The annotated edition of Song Ong Siang’s *[One hundred years’ history of the Chinese in Singapore](https://eresources.nlb.gov.sg/printheritage/detail/d77d9bfc-e335-4775-a6bf-e8712deaa81f.aspx?s=One%20Hundred%20Years%20History%20of%20the%20Chinese%20in%20Singapore)* is available for public access on the National Library Board’s BookSG website.
 
 [^3]:*Lötschbergbahn. Bahnhof Goppenstein und Eingang in den grossen Tunnel* [Postcard], 1 May 1922. Collection of the National Library, Singapore. (Accession no.: B29259959E)
 
