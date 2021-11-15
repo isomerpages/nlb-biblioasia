@@ -98,7 +98,11 @@ Singapore’s changing political landscape over the next decade would delay the 
 
 Both reports recommended that the first step towards nationalising public bus services was to merge the 10 Chinese bus companies into three regional companies servicing the eastern, northern and western parts of Singapore, alongside a reorganisation of STC (to continue servicing the central sector), which had been suffering severe operating losses. In addition, the Wilson Report also provided detailed recommendations for bus routes, frequencies, fares, vehicle design and models, design infrastructure for bus stops and terminals, and maintenance standards.[^16]
 
+<div style="background-color: white;"><img style="width:500px" src="/images/Vol-13-issue-3/public-buses-in-singapore/06a_publicbus.png">Pre-1971 bus tickets issued by the 10 Chinese bus companies. <i>All rights reserved, York, F. W., & Philips, A. R. (1996). Singapore: A History of its Trams, Trolleybuses and Buses Vol 2: 1970s and 1990s (pp. 18, 45). Surrey: DTS Publishing. (Call no.: RSING 388.41322095957 YOR).</i></div>
+
 On 11 April 1971, the 11 existing bus companies were reorganised into four entities: Amalgamated Bus Company, Associated Bus Services, United Bus Company and STC. In a sudden turn of events, STC, the oldest bus company among the four, announced in December the same year, only nine months after the amalgamation, that it would cease operations. STC − which once owned the largest fleet of trolley buses in the world – had suffered staggering losses, contributed in part by its own systemic organisational problems and increasing competition as a result of losing its business monopoly.[^17] STC’s demise was sealed when it was acquired by the other three bus companies.[^18]
+
+<div style="background-color: white;"><img style="width:500px" src="/images/Vol-13-issue-3/public-buses-in-singapore/06b_publicbus.png">Bus tickets issued by United Bus Company, Associated Bus Services and Amalgamated Bus Company between 1971 and 1973. <i>All rights reserved, York, F. W., & Philips, A. R. (1996). Singapore: A History of its Trams, Trolleybuses and Buses Vol 2: 1970s and 1990s (pp. 18, 45). Surrey: DTS Publishing. (Call no.: RSING 388.41322095957 YOR).</i></div>
 
 The fate of the remaining three companies also hung in the balance: they competed instead of cooperating with one another, and there was no standardisation of fares, services and schedules. In short, the amalgamation of public bus services was only in name but not in spirit, and the government was fast losing its patience.[^19]
 
@@ -115,6 +119,8 @@ Despite the growth of Singapore’s public transport industry over the next 40 y
 “The picture as presented during 1972… Everywhere the traveller went there were breakdowns: a broken down bus did little to assist the concept of the “green” city… the conductor was required to remove a seat cushion to place some distance behind the failed bus, adding a branch of a tree to act as an additional marker. The roadside vegetation took terrible punishment for a time, whilst personal experience was to reveal that not always were the cushions returned once the bus was back in service.”[^20]
 
 <div style="background-color: white;"><img style="width:350px" src="/images/Vol-13-issue-3/public-buses-in-singapore/05_publicbus.jpg">A bus conductor on duty in the 1970s. <i>The Theatre Practice Ltd Collection, courtesy of National Archives of Singapore.</i></div>
+
+<div style="background-color: white;"><br><img style="width:350px" src="/images/Vol-13-issue-3/public-buses-in-singapore/06c_publicbus.png">A bus conductor’s ticket punch from the 1960s. <i>F W York Collection, courtesy of National Archives of Singapore</i></div>
 
 With little progress made by bus companies on the recommendations put forward by the aforementioned reports, deteriorating bus services became the subject of a parliamentary debate on 12 March 1973. Several members of parliament pointed out the frequent breakdowns, reckless driving and the poor service mentality of bus workers in general. A letter by a L.P.H. published in *The Straits Times* on 16 March 1973 also noted that long drives without rest, made worse by “boneshaker buses”, the tropical heat, traffic congestion, and the smell and fumes from old engines contributed to drivers’ fatigue and did little to boost the morale of bus workers.[^21]
 
@@ -134,10 +140,6 @@ Corruption and unaccountability rampant at all levels had to be quickly eradicat
 
 The GTO went to work. One of the first things they did was to destroy all bus tickets and print new ones, after which takings went up dramatically. They kept records, computerised takings and closely monitored staff. There was some initial resistance at first from not just SBS management and staff, but also from government departments. With the backing of then Prime Minister Lee Kuan Yew, the GTO managed to resolve matters with the government departments, and also worked closely with the unions to bring order and discipline back to the workforce. Khoo Ban Tian of Malayan Banking was approached to provide a loan of several million dollars as an emergency fund to tide the company over.[^26]
 
-<div style="background-color: white;"><img style="width:400px" src="/images/Vol-13-issue-3/public-buses-in-singapore/06_publicbus.png">(Top) Pre-1971 bus tickets issued by the 10 Chinese bus companies.<br>
-(Second row) Bus tickets issued by United Bus Company, Associated Bus Services and Amalgamated Bus Company between 1971 and 1973. <i>All rights reserved, York, F. W., & Philips, A. R. (1996). Singapore: A History of its Trams, Trolleybuses and Buses Vol 2: 1970s and 1990s (pp. 18, 45). Surrey: DTS Publishing. (Call no.: RSING 388.41322095957 YOR).</i><br>
-(Above) A bus conductor’s ticket punch from the 1960s. <i>F W York Collection, courtesy of National Archives of Singapore</i></div>
-
 The government mobilised a team of trained mechanics from the Singapore Armed Forces to repair and maintain the company’s buses and equipment. The SAF team did such a good job that the number of breakdowns was reduced drastically, from 800 a day in 1974 to just 145 in 1976.
 
 Other government departments were pulled in to help as well. A former Registry of Vehicles staff, Phua Tiong Lim, recalled the confusion when many bus routes were changed to streamline the network of services. When printed copies of the new bus guides ran short, the army’s Transport Logistics Unit was enlisted to roam the streets and pick up hapless passengers who did not know how to get home.[^27]
@@ -156,7 +158,7 @@ This episode in Singapore’s history is also an example of the bold and decisiv
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Vol-13-issue-3/public-buses-in-singapore/meiyu.png">
+<img style="width: 100px; height: 100px;" src="/images/Vol-13-issue-3/public-buses-in-singapore/meiyu1.png">
 	<b>Lee Meiyu</b> is a Librarian with the National Library, Singapore, and works with the Singapore & Southeast Asian Collection. Her research interests include Singapore’s Chinese community. She is co-author of <i>Money by Mail to China: Dreams and Struggles of Early Migrants</i> (2012) and <i>Roots: Tracing Family Histories – a Resource Guide</i> (2013).
 </div>
 
