@@ -16,7 +16,7 @@ Amid these louder establishments were half a dozen more austere premises: commun
 
 These men were Chettiars from Chettinad in India’s Tamil Nadu state, a caste of Tamil moneylenders (and devotees of Lord Siva[^6]) who served as vital links in the entrepreneurial food chain in times past when capital and credit were scarce, and big international banks[^7] catered largely to commercial trading houses – having little time for small local businessmen with neither capital nor collateral.
 
-<div style="background-color: white;"><img style="width:500px" src="/images/Vol-13-issue-3/micro-india/03a_microindia.JPG">A 1960 photo of three Chettiars inside a <i>kittangi</i> at 49 Market Street. <i>Nachiappa Chettiar Collection, courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;"><img style="width:650px" src="/images/Vol-13-issue-3/micro-india/03a_microindia.JPG">A 1960 photo of three Chettiars inside a <i>kittangi</i> at 49 Market Street. <i>Nachiappa Chettiar Collection, courtesy of National Archives of Singapore.</i></div>
 
 This was a niche in Singapore’s financial sector that was begging to be filled, and the Chettiars did just so for a century-and-a-half, providing sundry merchants and middlemen with the funds they needed to fuel the port’s early growth as a pit-stop in the opium route between the Bay of Bengal and the South China Sea, and later as a global emporium for tin, rubber and other tropical commodities.[^8]
 
