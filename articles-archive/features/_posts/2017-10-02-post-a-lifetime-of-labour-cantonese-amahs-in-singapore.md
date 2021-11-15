@@ -12,8 +12,7 @@ Hair coiled up in an elegant bun or worn in a single plait down the back, a whit
 
 Apart from their iconic black-and-white *samfu* attire, *amahs* have earned a place in popular memory for their strong work ethic and steadfast loyalty. Many were former silk production workers from the Pearl River Delta of Guangdong province in China.[^2] The majority never married and were part of an anti-marriage tradition unique to the silk-producing areas of the region, particularly the district of Shunde, where the phenomenon originated.[^3]
 
-<div style="background-color: white;"><img style="width:400px" src="/images/Vol-13-issue-3/a-lifetime-of-labour/02a_amah.jpg">An <i>amah</i> in her black-and-white <i>samfu</i> attire cooking on a gas stove, 1950. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i>
-</i></div>
+<div style="background-color: white;"><img style="width:400px" src="/images/Vol-13-issue-3/a-lifetime-of-labour/02a_amah.jpg">An <i>amah</i> in her black-and-white <i>samfu</i> attire cooking on a gas stove, 1950. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 Seeking a better life, these women came to this part of the world in the 1930s to work in the homes of wealthy families, eventually dominating the field of paid domestic service well into the 1960s and 70s.[^4] At a time when women in Chinese society were bound by traditional Confucian values to be “dutiful wives and virtuous mothers” (贤妻良母, *xian qi liang mu*), Cantonese *amahs* broke the mould by carving an independent livelihood away from home and determining their own destiny.
 
