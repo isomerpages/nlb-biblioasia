@@ -127,8 +127,77 @@ The author would like to thank Raphaël Millet, who reviewed this article before
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Vol-13-issue-3/old-world-amusement-parks/jessie-yak.png">
+<img style="width: 100px; height: 100px;" src="/images/Vol-13-issue-4/living-it-up-at-the-capitol/Bonny1.png">
 <b>Bonny Tan</b> is a former Senior Librarian at the National Library, Singapore. She currently resides in Vietnam with her family and is a regular contributor to <i>BiblioAsia</i> magazine.
 </div>
 
 <a href="/vol-13/issue-4/jan-mar-2018/"><center>Back to Issue</center></a>
+
+#### **NOTES**
+
+Choo, H. (Interviewer). (1982, June 30). Oral history interview with Haji Mohamed Javad Namazie [Transcript of MP3 recording no. 000189/11/3, p. 22]. Retrieved from National Archives of Singapore website.
+
+The Alhambra and Tivoli screened talkies prior to the Capitol but had to undergo some renovations to incorporate sound technology. See Talkie invasion. (1929, December 17). The Singapore Free Press and Mercantile Advertiser, p. 11. Retrieved from NewspaperSG.
+
+Capitol Theatre. (1930, May 23). The Straits Times, p. 14. Retrieved from NewspaperSG.
+
+Opening of Malaya’s premier picture palace The Capitol Theatre. Singapore. (1930, May 31). Malayan Saturday Post, p. 38. Retrieved from NewspaperSG.
+
+Lim, A.L.I. (Interviewer). (1986, November 6). Oral history interview with Wee Teck Guan [MP3 recording no. 000719/4/2]. Retrieved from National Archives of Singapore website.
+
+Chiang, C. (Interviewer). (1985, August 20). Oral history interview with Myra Isabelle Cresson [MP3 recording no. 000594/12/2]. Retrieved from National Archives of Singapore website.
+
+Willis, A.C. (1936). Willis’s Singapore guide (p. 147). Singapore: Alfred Charles Willis. Retrieved from BookSG.
+
+Joe & Julius Fisher – Pioneers of Singapore entertainment. (1940, January 31). The Straits Times, p. 15; Streeter, L. (1940, January 28). From eye-killing flickers to modern marvels. The Sunday Tribune, p. 3. Retrieved from NewspaperSG.
+ 
+The Straits Times, 31 Jan 1940, p. 15; Sundstrom, C. (2010, February). Almost 100 years old and still rolling! The history of SA cinema Part 2. Retrieved from Gauteng Film Commission South Africa website.
+
+Local and personal. (1922, February 13). The Straits Times, p. 8; S’pore cinema pioneer dies of heart attack in U.S. (1960, July 27). The Straits Times, p. 5. Retrieved from NewspaperSG.
+
+Air-conditioned Capitol has 1,000 new seats. (1940, January 31). The Straits Times, p. 15. Retrieved from NewspaperSG.
+
+Under your very nose a new theatre is built. (1940, January 21). The Sunday Tribune, p. 2; Capitol theatre to be air-conditioned. (1940, January 11). The Singapore Free Press and Mercantile Advertiser, p. 5. Retrieved from NewspaperSG.
+
+Chew, D. (Interviewer). (1993, April 14). Oral history interview with Maurice Baker [Transcript of MP3 recording no. 000095/6/1, p. 8]. Retrieved from National Archives of Singapore website.
+
+ Cinema merger details. (1932, November 29). Singapore Daily News, p. 1; Merger of local cinemas. (1932, November 29). The Straits Times, p. 12
+ 
+With reference to Huff’s article that showed how Singapore managed to ride out the Depression. See Huff, W.G. (2001, May). Entitlements, destitution and emigration in the 1930s Singapore Great Depression. The Economic History Review, 54 (2), 290–323, pp. 290–291, 318–321; Loh, K.S. (2006, March). Beyond rubber prices: Negotiating the Great Depression in Singapore. South East Asia Research, 14 (1), 5–31, pp. 5-7, 30-31. Retrieved from JSTOR via NLB’s eResources website.
+
+ Van der Putten, J. (2010, February). Negotiating the Great Depression: The rise of popular culture and consumerism in early 1930s Malaya. Journal of Southeast Asian Studies, 41 (1), 21–45, pp. 21–23. Retrieved from JSTOR via NLB’s eResources website 
+ 
+Chua, C.H.J. (Interviewer). (1996, February 9). Oral history interview with Paul Abisheganaden [Transcript of MP3 recording no. 001415/48/39, p, 468], Retrieved from National Archives of Singapore website.
+
+Chew, D. (Interviewer). (1992, December 23). Oral history interview with Goh Heng Chong [Transcript of MP3 recording no. 001392/2/2, pp. 13–14] Retrieved from National Archives of Singapore website.
+
+Chua, C.H.J. (Interviewer). (1998, July 21). Oral history interview with Hedwig Anuar Aroozo [Transcript of MP3 recording no. 002036/44/2, p. 24]. Retrieved from National Archives of Singapore website.
+
+‘Shanghai Lass’. (1934, September 29). Mickey Mouse Club.  The Malaya Tribune, p. 2. Retrieved from NewspaperSG.
+
+Yeo, G.L. (Interviewer). (1987, July 27). Oral history interview with Chan Keong Poh [MP3 recording no. 000802/9/2]. Retrieved from National Archives of Singapore website. 
+
+Ruzita Zaki. (Interviewer). (1995, August 24. Oral history interview with Khatijun Nissan Siraj [Transcript of MP3 recording no. 001663/36/5, p. 70]. Retrieved from National Archives of Singapore website.
+
+Sng, S. (Interviewer). (2005, March 28). Oral history interview with Benjamin Khoo Beng Chuan [Transcript of MP3 recording no. 002911/26/6, p. 127]. Retrieved from National Archives of Singapore website. 
+
+Lee, L.C. (Interviewer). (1996, July 30). Oral history interview with Tham Cheok Fai [Transcript of MP3 recording no. 001751/19/19, p. 2]. Retrieved from National Archives of Singapore website; Oral history interview with Benjamin Khoo Beng Chuan, 28 Mar 2005, p. 126.
+
+Low, M. (Interviewer). (2006, January 10). Oral history interview with Ronald Chandran Dudley [Transcript of MP3 recording no. 003012/22/2, pp. 48–49]. Retrieved from National Archives of Singapore website. 
+
+Chua, A. L. (Interviewer). (1997, February 26). Oral history interview with Hilary Vivian Hogan [MP3 recording no. 001778/33/1]. Retrieved from National Archives of Singapore website. 
+
+Lim, J. (Interviewer). (2002, July 19). Oral history interview with Kartar Singh [MP3 recording no. 002335/34/13]. Retrieved from National Archives of Singapore website.
+
+No more shows at Capitol Theatre. (1941, December 20). The Singapore Free Press and Mercantile Advertiser, p. 6. Retrieved from NewspaperSG.
+
+Oral history interview with Kartar Singh, 19 Jul 2002.
+
+Chew, D. (Interviewer). (1993, April 14). Oral history interview with Maurice Baker [Transcript of MP3 recording no. 000095/6/2, p. 19]. Retrieved from National Archives of Singapore website. 
+
+Tan, B. L. (Interviewer). (1985, April 17). Oral history interview with Patrick Hardie [Transcript of MP3 recording no. 000545/9/5, p. 63]. Retrieved from National Archives of Singapore website.
+
+Lim, J. (Interviewer). (2002, July 19). Oral history interview with Kartar Singh [MP3 recording no. 002335/34/6]; Lim, J. (Interviewer). (2002, July 26). Oral history interview with Kartar Singh [MP3 recording no. 002335/34/7]. Retrieved from National Archives of Singapore website. 
+
+Tan, C. (2015, February 11). Singapura: The Musical to open at newly-refurbished Capitol Theatre in May. The Straits Times. Retrieved from The Straits Times website; Back in the spotlight. (2015, May 23). The Straits Times, p. 1; Khew, C., & Zaccheus, M. (2015, May 23). Nostalgia takes centre stage at iconic theatre. The Straits Times, p. 6. Retrieved from NewspaperSG.
+
