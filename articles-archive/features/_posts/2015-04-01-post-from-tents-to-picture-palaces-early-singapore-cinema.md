@@ -129,8 +129,6 @@ Released in 1933 and shot off the coast of Katong in 1932, <i>Samarang</i> (also
 <br><br>
 <img style="width: 70%;"  src="/images/vol-11-issue-1/earlysgcinema/samarang_1933_res.jpg">Poster of <i>Samarang</i>. © Samarang. Directed by Ward Wing, produced by United Artists and B.F. Zeidman, distributed by United Artists. United States, 1933. <i>Courtesy of Wong Han Min.</i>
 <br><br>
-<img style="width: 70%;"  src="/images/vol-11-issue-1/earlysgcinema/leilaMajnun_re.jpg">Advertisements for the opening of <i>Leila Majnun</i> (1934). © Singapore Press Holdings. All rights reserved. <i>The Straits Times.</i>
-<br><br>
 <b>Xin Ke (新客, The New Immigrant)</b>
 <br><br>
 Produced by Liu Beijin, 新客 (<i>Xin Ke</i>; <i>The New Immigrant</i>, 1927) is believed to be the first Chinese feature film that was completely shot in Singapore and Malaya. Of Fujian origins, Liu (1902–1959) was born in Singapore but grew up in Muar, Johor. Although inspired by the booming Shanghainese movie industry, he felt slighted as an overseas Chinese when he visited China in December 1925.
