@@ -159,13 +159,13 @@ In 1964, the Town Convent was separated into primary and secondary schools and, 
 
 [^7]:Makepeace, W., Brooke, G.E., & Braddell, R.S.J. (Eds.). (1991). One hundred years of Singapore (Vol. 1, pp. 155, 353). Singapore: Oxford University Press. (Call no.: RSING 959.57 ONE-[HIS])
 
-[^8]:Turnbull, C.M. (1989). A history of Singapore, 1819–1988 (pp. 59–64). Singapore: Oxford University Press. (Call no.: RSING 959.57 TUR-[HIS]); Kiong, B.H. (1953). Educational progress in Singapore, 1870–1902 (p. 4). (Unpublished academic exercise, University of Malaya).; Blackmore, S. (n.d.). A pioneer in Malaya. Singapore: MGS Heritage Centre. (Unpublished manuscript)
+[^8]:Turnbull, C.M. (1989). *[A history of Singapore, 1819–1988](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5178825)* (pp. 59–64). Singapore: Oxford University Press. (Call no.: RSING 959.57 TUR-[HIS]); Kiong, B.H. (1953). *Educational progress in Singapore, 1870–1902* (p. 4). (Unpublished academic exercise, University of Malaya).; Blackmore, S. (n.d.). *A pioneer in Malaya*. Singapore: MGS Heritage Centre. (Unpublished manuscript)
 
-[^9]:O’Sullivan, R.L. (1986). A history of the London Missionary Society in the Straits Settlements (c 1815–1847) (pp. 132–133) (PhD thesis). London: University of London, School of Oriental and African Studies. (Call no.: RCLOS 266.0234105957 OSU); Buckley. C.B. (1902). An anecdotal history of old times in Singapore (Vol. 1, p. 77). Singapore: Fraser & Neave. (Call no.: RCLOS 959.57 BUC-[HIS])
+[^9]:O’Sullivan, R.L. (1986). *[A history of the London Missionary Society in the Straits Settlements](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5701470)* (c 1815–1847) (pp. 132–133) (PhD thesis). London: University of London, School of Oriental and African Studies. (Call no.: RCLOS 266.0234105957 OSU); Buckley. C.B. (1902). *[An anecdotal history of old times in Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4470390)* (Vol. 1, p. 77). Singapore: Fraser & Neave. (Call no.: RCLOS 959.57 BUC-[HIS])
 
-[^10]:William E. (1844). A history of the London Missionary Society (Vol. 1) (pp. 569–570). London: John Snow. (Not available in NLB holdings); O’Sullivan, 1986, pp. 99, 133–134; Turnbull, 1989, p. 60. 
+[^10]:William E. (1844). *A history of the London Missionary Society* (Vol. 1) (pp. 569–570). London: John Snow. (Not available in NLB holdings); [O’Sullivan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5701470), 1986, pp. 99, 133–134; [Turnbull](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5178825), 1989, p. 60. 
 
-[^11]:Lee, Y. M. (2002). Great is thy faithfulness: The story of St Margaret’s School in Singapore (pp. 27, 28, 30). Singapore: St Margaret’s School. (Call no.: RSING q373.5957 SAI)
+[^11]:Lee, Y. M. (2002). *[Great is thy faithfulness: The story of St Margaret’s School in Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11854647)* (pp. 27, 28, 30). Singapore: St Margaret’s School. (Call no.: RSING q373.5957 SAI)
 
 [^12]:[Lee](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11854647), 2002, pp. 30–31; [O’Sullivan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5701470), 1986, p. 134; Sng, B.E.K. (2003). In *[His good time: The story of the church in Singapore, 1819–2002](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12253210)* (p. 62, 63, 78, 86). Singapore: Bible Society of Singapore: Graduates’ Christian Fellowship. (Call no.: RSING 280.4095957 SNG)
  
