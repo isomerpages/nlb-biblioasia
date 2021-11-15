@@ -122,7 +122,7 @@ Ah Sim hand-sewed all her own clothes, including the knotted buttons she made fo
 <br><br>
 Thankfully, meals for us children was Cantonese comfort food. My mother referred to this as <i>majie</i> (see note 1) cooking, which included dishes such as <i>chu yoke peng</i> (猪肉饼, pork meatballs with onions in soya gravy), <i>sam wong dan</i> (三黄蛋, steamed egg custard with salted egg and century egg), and <i>chow lup lup</i> (炒粒粒, a stir-fried dish of diced fresh and salted vegetables, tofu and peanuts). At the heart of every meal was a hearty boiled soup made from pork, chicken or fish stock. We had a different soup every day.
 <br><br>
-Food on the table was a blessing for Ah Sim. I remember accompanying her to a fortune teller once. She had only one question, which expressed her singular concern: “Would I die from starvation?” (我会唔会饿死). The fortune-teller laughed and allayed her fears, but years later I realised her anxiety harked to an era when famine, or being abandoned in old age, was a very real concern.
+Food on the table was a blessing for Ah Sim. I remember accompanying her to a fortune teller once. She had only one question, which expressed her singular concern: “Would I die from starvation?” (我会唔会饿死). The fortune teller laughed and allayed her fears, but years later I realised her anxiety harked to an era when famine, or being abandoned in old age, was a very real concern.
 <br><br>
 Ah Sim was the epitomy of graciousness with family and guests, insisting on observing the proper etiquette at home. How a girl from the countryside learnt the complex and refined subtleties of Cantonese civilities was always a wonder to me.
 <br><br>
