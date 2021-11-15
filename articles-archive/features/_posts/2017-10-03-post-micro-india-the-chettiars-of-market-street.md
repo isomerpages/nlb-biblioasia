@@ -1,9 +1,10 @@
 ---
-title: "Micro India: The Chettiars Of Market Street"
+title: "Micro India: The Chettiars of Market Street"
 date: 2017-10-03
 permalink: /vol-13/issue-3/oct-dec-2017/micro-india
 layout: post
 ---
+
 #### Market Street, in the heart of the business district, was where Indian moneylenders ran a thriving trade during the colonial era. **Marcus Ng** traces the imprint left by the Chettiars.
 
 <div style="background-color: white;"><br><img src="/images/Vol-13-issue-3/micro-india/01_microindia.jpg">An 1890s photograph taken by G.R. Lambert of Market Street, which took its name from the nearby Telok Ayer Market. In the late 19th and early 20th centuries, the street was well known for its community of Chettiars, who ran their moneylending business in <i>kittangi</i> − shophouses which served as both their offices and lodgings. <i>Lee Kip Lin Collection. Lee Kip Lin and National Library Board, Singapore.</i></div>
