@@ -32,7 +32,7 @@ Galastaun and his peers must have envisaged a much larger Armenian community set
 
 Despite Penang’s tiny Armenian congregation, priests were sent out from Persia approximately every three years until 1885. After that, church services were held only when a priest visited Penang. The last was conducted in 1906 by Archbishop Sahak Ayvatian from the Mother church in Isfahan. On his visit, Archbishop Ayvatian discussed the future of the deteriorating church building with key members of the Armenian community. Whatever their decision, the church’s fate was sealed in February 1909 when decaying beams caused the collapse of a major balustrade, and large sections of the walls caved in. There was no option but to raze the building, retaining only the churchyard and parsonage.[^3]
 
-<div style="background-color: white;"><img style="width:400px" src="/images/Vol-13-issue-3/a-tale-of-two-churches/02_churches.jpg">A postcard featuring the Armenian Commemorative Monument in Penang, c.1909.</div>
+<div style="background-color: white;"><img style="width:430px" src="/images/Vol-13-issue-3/a-tale-of-two-churches/02a_churches.jpg">A postcard featuring the Armenian Commemorative Monument in Penang, c.1909.</div>
 
 As a memorial to the church, Armenians Joseph Anthony and Arshak Sarkies commissioned German architect Henry Neubronner to design a commemorative monument that was erected in 1909.[^4] Over the years, the monument as well as the garden surrounding it and the tombstones in the graveyard became neglected, leading the press to report that this made a mockery of those who had erected the memorial.
 
