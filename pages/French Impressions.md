@@ -30,7 +30,7 @@ This woodpecker with a yellow-tipped crest can still be spotted in Singapore tod
 
 #### **Nº 34: Green Broadbill <br>*Calyptomena viridis***
 
-![Alt text for image on Isomer site](/images/vol-17-issue-4/diard-duvaucel/Green%20Broadbill.jpg)
+![Alt text for image on Isomer site](/images/vol-17-issue-4/diard-duvaucel/Green%20Broadbill2.jpg)
 On 1 June 1820, Stamford Raffles wrote about the Green Broadbill in his *Descriptive Catalogue of a Zoological Collection* thus: “Found in the retired parts of the forests of Singapore and of the interior of Sumatra.” There are two depictions of this broadbill in the collection. They are nearly identical, differing only in the composition of the tuft of feathers on the forehead. In both drawings, the birds are male, as indicated by the small yellow spots above their eyes. From Raffles’ catalogue entry, it can be inferred that he must have procured at least two specimens, one from Singapore and another from the environs of Bencoolen (Bengkulu) in Sumatra. Diard, Duvaucel and William Jack (a botanist working with Raffles) could have collected the Singapore specimen during their visit in 1819. This species has the distinction of being the first bird from Singapore to be given a scientific name.
 
 #### **Nº 11: Nº 67: Javanese Lapwing<br>*Vanellus macropterus***
@@ -51,13 +51,13 @@ When Duvaucel was staying in Chandernagor (Chandannagar) in West Bengal, India, 
 
 #### **Nº 3: Kuhl’s Gliding Gecko<br>*Gekko kuhli***
 
-![Alt text for image on Isomer site](/images/vol-17-issue-4/diard-duvaucel/Kuhls%20Gliding%20Gecko2.jpg)
+![Alt text for image on Isomer site](/images/vol-17-issue-4/diard-duvaucel/Kuhls%20Gliding%20Gecko3.jpg)
 The specimen portrayed in this drawing was obtained in Sumatra. This conspicuous gecko was first described from Java, where Diard again found it after he left the employ of Stamford Raffles. Kuhl’s Gliding Gecko can also be found in Singapore, where an early specimen was collected and donated to the Muséum National d’Histoire Naturelle in Paris in December 1868 by the French trader Andrew Spooner.
 
 
 #### **Nº 2: Flask-shaped Pitcher Plant<br>*Nepenthes ampullaria***
 
-![Alt text for image on Isomer site](/images/vol-17-issue-4/diard-duvaucel/Flask-shaped%20Pitcher.jpg)
+![Alt text for image on Isomer site](/images/vol-17-issue-4/diard-duvaucel/Flask-shaped%20Pitcher2.jpg)
 Stamford Raffles collected pitcher plants when he first visited Singapore in early 1819, and these became the first botanical specimens from mainland Singapore. The Scottish botanist William Jack was working for Raffles at the time, but he did not accompany Raffles on this first visit to Singapore and instead remained at Prince of Wales Island (Penang). When Raffles returned to Penang from Singapore, these botanical specimens were passed to Jack for study. Jack named one of the species after Raffles – *Nepenthes rafflesiana* Jack (better known as the Raffles’ Pitcher Plant) – to honour the collector. What is depicted in this drawing though is the *Nepenthes ampullaria*. These names were only published in 1835, years after Jack’s death in 1822 and based on research and drawings that were sent back to England. Diard and Duvaucel would have known about Jack’s work, although this painting was probably drawn from a separate specimen at a later date.
 
 
