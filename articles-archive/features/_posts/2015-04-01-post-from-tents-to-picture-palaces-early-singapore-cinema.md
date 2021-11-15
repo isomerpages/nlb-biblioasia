@@ -72,14 +72,14 @@ Tan paid $25,000 for the Palladium (also designed by J.B. Westerhout) a mere fou
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-11-issue-1/earlysgcinema/Adelphi_re.jpg">
+<img style="width:70%" src="/images/vol-11-issue-1/earlysgcinema/Adelphi_re.jpg">
 Adelphi Hotel on Coleman Street, as seen in a 1906 postcard. Adelphi Hall, where Singapore’s earliest film screenings were held in 1897, was part of the hotel. <i>Arshak C Galstaun Collection, courtesy of the National Archives of Singapore</i>.
 </div>
 
 	
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-11-issue-1/earlysgcinema/Alhambra.jpg">
+<img style="width:70%" src="/images/vol-11-issue-1/earlysgcinema/Alhambra.jpg">
 A 1930 postcard of the Alhambra cinema along Beach Road. Taken from the book Singapore: <i>500 Early Postcards</i>, published by Editions Didier Millet (2007). <i>Courtesy of Prof Cheah Jin Seng</i>.
 </div>
 
