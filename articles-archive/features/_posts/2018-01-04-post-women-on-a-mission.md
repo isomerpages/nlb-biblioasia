@@ -133,7 +133,7 @@ In the 20th century, the Catholic order of the Holy Infant Jesus Sisters from Fr
 <br><br>
 In 1964, the Town Convent was separated into primary and secondary schools and, in 1983, moved from its Victoria Street premises to Toa Payoh, where it remains today.
 <br><br>
-<img style="width:700px" src="/images/Vol-13-issue-4/women-on-a-mission/10_womenmission.jpg">A music class in session at the Convent of the Holy Infant Jesus in 1924. <i>Sisters of the Infant Jesus Collection, courtesy of National Archives of Singapore.</i></span>
+<img style="width:600px" src="/images/Vol-13-issue-4/women-on-a-mission/10_womenmission.jpg">A music class in session at the Convent of the Holy Infant Jesus in 1924. <i>Sisters of the Infant Jesus Collection, courtesy of National Archives of Singapore.</i></span>
 
 <div style="background-color: white;">
 <br>
