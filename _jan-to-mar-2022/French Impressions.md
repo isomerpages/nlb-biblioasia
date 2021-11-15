@@ -62,10 +62,7 @@ Stamford Raffles collected pitcher plants when he first visited Singapore in ear
 
 
 #### **NOTES**
-<span style="background-color: white; display:block; font-size:1rem; line-height:1.5rem;">
-<br>
+
 [^1]: Danièle Weiler, “[Stamford Raffles and the Two French Naturalists](https://biblioasia.nlb.gov.sg/vol-16/issue-2/jul-sep-2020/raffles),” *BiblioAsia* 16, no. 2 (Jul–Sep 2020).
-<br><br>
+
 [^2]: *Figures peintes d’oiseaux [et de reptiles], envoyées de l’Inde par Duvaucel et Diard ([Painted depictions of birds [and reptiles], sent from India by Duvaucel and Diard](https://eresources.nlb.gov.sg/printheritage/detail/c908d4fd-4e4b-441d-bdab-48c9eb69d0c1.aspx)).
-	
-</span>
