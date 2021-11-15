@@ -24,31 +24,40 @@ I didn't know of any production company that worked solely in film. In desperati
 
 Inexperience and a lack of resources posed critical problems to funding and budgeting. To make the film, I ended up mortgaging my apartment in London. I was stupidly naïve then, even paying huge copyright fees for the use of 10 pop songs. Fortunately, it was a risk that paid off. Harvey Weinstein from Miramax, who later picked up <i>Forever Fever</i> for an international release, said it was the music that allowed him to connect with the film. Fortunately, screenings in international audience markets ensured a healthy profit for <i>Forever Fever</i> – its local takings would not have come close to breaking even.
  
-![Alt text for image on Isomer site](/images/vol-11-issue-1/myleapintomovies/Forever_Fever_re.jpg)
-	
-![Alt text for image on Isomer site](/images/vol-11-issue-1/myleapintomovies/Forever_Fever_2.jpg)
-	
-![Alt text for image on Isomer site](/images/vol-11-issue-1/myleapintomovies/Forever_Fever_3.jpg)
+
+<img style="width:70%" src="/images/vol-11-issue-1/myleapintomovies/Forever_Fever_re.jpg">
+<div style="background-color: white;">
+<br/>
+<img style="width:70%" src="/images/vol-11-issue-1/myleapintomovies/Forever_Fever_2.jpg"></div>
+<div style="background-color: white;">
+<br/>
+<img style="width:70%" src="/images/vol-11-issue-1/myleapintomovies/Forever_Fever_3.jpg"></div>
 	
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-11-issue-1/myleapintomovies/Forever_Fever_5_re.jpg">
+<img style="width:70%" src="/images/vol-11-issue-1/myleapintomovies/Forever_Fever_5_re.jpg">
 Film stills from <i>Forever Fever</i> (1998), starring Adrian Pang, Pierre Png, Anna Belle Francis and Medaline Tan. <i>Courtesy of Tiger Tiger Pictures</i>.
 </div>
 
 Eleven years later, when I made my second film <i>The Blue Mansion</i>, I wasn’t as fortunate. I blew the budget and despite good reviews, the murder-mystery thriller set in Penang turned out to be a financial disaster at the box office. I lost all the money I had made on <i>Forever Fever</i>. Once again, I found it hard to find a producer who could handle the demands of a feature film. Local producers rarely have the opportunity to handle big budgets and shoot large-scale films. Truth be told, it’s a chicken-and-egg situation: local films remain small because the market for them is small. I needed – and still need – producers who can handle the funding, the budgeting, and manage the scale and complexities of making a feature film; the demands are completely different from television. 
 
 I took a personal hit financially with <i>The Blue Mansion</i>, mainly because it failed to secure international distribution. At a foreign film market, I was told by a film executive in all seriousness that the film would sell better if it was in Chinese (I didn’t know whether to laugh or cry). In fact, for both my films, I found there to be resistance among investors and distributors to the idea of Asians speaking English in a film. In its North American release, <i>Forever Fever</i> was dubbed over by American actors because of fears that audiences would not understand the Singaporean actors. Changing a film’s language to pander to an audience market perplexes me. Shouldn’t a film’s marketability be based on its merits and not its language? 
-	
-![Alt text for image on Isomer site](/images/vol-11-issue-1/myleapintomovies/TheBlueMansionPoster1_re.jpg)
-	
-![Alt text for image on Isomer site](/images/vol-11-issue-1/myleapintomovies/The_Blue_Mansion_4.jpg)
-	
-![Alt text for image on Isomer site](/images/vol-11-issue-1/myleapintomovies/The_Blue_Mansion_5.jpg)
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-11-issue-1/myleapintomovies/The_Blue_Mansion.jpg">
+<img style="width:70%" src="/images/vol-11-issue-1/myleapintomovies/TheBlueMansionPoster1_re.jpg"></div>
+
+<div style="background-color: white;">
+<br/>
+<img style="width:70%" src="/images/vol-11-issue-1/myleapintomovies/The_Blue_Mansion_4.jpg"></div>
+
+<div style="background-color: white;">
+<br/>
+<img style="width:70%" src="/images/vol-11-issue-1/myleapintomovies/The_Blue_Mansion_5.jpg"></div>
+
+<div style="background-color: white;">
+<br/>
+<img style="width:70%" src="/images/vol-11-issue-1/myleapintomovies/The_Blue_Mansion.jpg">
 The Blue Mansion is a murder mystery starring Lim Kay Siu (top left and middle, extreme left), Claire Wong, Louisa Chong, Adrian Pang, Tan Kheng Hua and Karen Tan (middle from left to right), and the late Emma Yong (bottom). <i>Courtesy of Tiger Tiger Pictures.</i>
 </div>
 	
@@ -58,7 +67,7 @@ My earliest memories of watching movies are of Malay films screened by Radio Tel
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-11-issue-1/myleapintomovies/Pontianak_re.jpg">
+<img style="width:70%" src="/images/vol-11-issue-1/myleapintomovies/Pontianak_re.jpg">
 The movie poster for Glen Goei's latest film, <i>Pontianak</i>, slated for release in 2017. <i>Courtesy of Tiger Tiger Pictures</i>.
 </div>
 
