@@ -4,7 +4,6 @@ date: 2017-10-04
 permalink: /vol-13/issue-3/oct-dec-2017/scots-in-singapore
 layout: post
 ---
-
 #### The Scots in colonial Singapore lent their names to many of the city’s famous landmarks. **Graham Berry** pays tribute to the contributions of his fellow men.
 
 <div style="background-color: white;"><br><img style="width:550px" src="/images/Vol-13-issue-3/scots-in-singapore/01_scots.jpg">A photo of a European man wearing a sarong in a print resembling a Scottish tartan pattern, c.1900. <i>All rights reserved, Falconer, J. (1987). A Vision of the Past: A History of Early Photography in Singapore and Malaya: The Photographs of G. R. Lambert & Co., 1880–1910 (p. 154). Singapore: Times Editions. (Call no.: RSING 959.570049163 BER).</i></div>
@@ -16,8 +15,6 @@ Initially, trading in Singapore was dominated by the EIC, which held a monopoly 
 As the settlement developed from 1819 onwards, districts, features, thoroughfares and bridges all demanded to be named. In modern Singapore, many of these places and landmarks still bear the names given by EIC officials and their successors. As large numbers of EIC merchants, military personnel and administrative staff were Scots, it is no surprise that Scottish names dominate Singapore’s iconic town centre, the river environs as well as several prime residential areas.
 
 James MacRitchie, John Turnbull Thomson, John Crawfurd, John Anderson, Robert Fullerton, Thomas Murray Robertson and William George Scott. These names – which read like the who’s who of the early Scottish community in Singapore − have left an indelible mark on the island. Who were these men and what were their contributions to Singapore? These are themes that I explore in my book, *From Kilts to Sarongs: Scottish Pioneers of Singapore*. This essay considers a small selection of the city’s more prominent landmarks and place names that reflect the heritage of its Scottish pioneers.
-
-<div style="background-color: white;"><img style="width:400px" src="/images/Vol-13-issue-3/scots-in-singapore/02_scots.jpg">Portrait of John Turnbull Thomson, at 25 years of age, by Beyerhaus in 1845. Thomson was appointed Government Surveyor for the Straits Settlements in 1841, and served as both surveyor and engineer to Singapore for the next 12 years. <i>All rights reserved, Hall-Jones, J., & Hooi, C. (1979). An Early Surveyor in Singapore: John Turnbull Thomson in Singapore, 1841–1853 (p. 35). Singapore: National Museum. (Call no.: RSING 526.90924 THO).</i></div>
 
 #### **Residents of Singapore: Farquhar and Crawfurd**
 
@@ -37,11 +34,13 @@ Crawfurd is remembered in Singapore in the naming of Crawford Street, Crawford L
 
 Many significant landmarks in Singapore bear the name of Scotsmen. One, which few people would have had a chance to visit, is the Horsburgh Lighthouse on the rocky ledge of Pedra Branca guarding the eastern approaches of the Singapore Strait. For many years, the sovereignty of this speck of land was a cause of territorial dispute until the International Court of Justice ruled in Singapore’s favour in 2008.
 
+<div style="background-color: white;"><img style="width:450px" src="/images/Vol-13-issue-3/scots-in-singapore/03_scots.jpg">An 1851 painting of Horsburgh Lighthouse on Pedra Branca by John Turnbull Thomson, Government Surveyor for the Straits Settlements. The lighthouse, which was designed and built by Thomson in 1851, was named after James Horsburgh, a hydrographer with the East India Company. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i></div>
+
 The 34-metre-high lighthouse, named after James Horsburgh, was completed in 1851. Horsburgh was born in Fife, Scotland, in 1762. At the age of 16, he became a seaman and through a combination of skill and hard work, rose through the ranks to become a talented hydrographer with the EIC. He charted sea routes between India and China, thus easing the way for ships to voyage to the east. Merchants in Hong Kong and Singapore recognised Horsburgh’s contribution in making the long and hazardous journey to the east less dangerous, and commissioned the lighthouse to be built in his memory.
 
 The lighthouse, which bears a commemorative tablet dedicated to Horsburgh, was designed and built by another Scotsman, John Turnbull Thomson, who himself left a significant legacy to the built heritage of Singapore. Thomson was born in 1821 in the north of England to Scottish parents who had travelled south to find work. He was educated in Scotland and was appointed Government Surveyor for the Straits Settlements in 1841. For the next 12 years, Thomson served as both surveyor and engineer in Singapore. The many landmarks for which he was responsible include Dalhousie Obelisk, the tower and spire of the original St Andrew’s Church (later replaced by St Andrew’s Cathedral) and Thomson’s Bridge, which replaced Presentment Bridge – the first bridge built across the Singapore River in 1822. Thomson’s Bridge in turn was replaced by Elgin Bridge in 1862.
 
-<div style="background-color: white;"><img style="width:450px" src="/images/Vol-13-issue-3/scots-in-singapore/03_scots.jpg">An 1851 painting of Horsburgh Lighthouse on Pedra Branca by John Turnbull Thomson, Government Surveyor for the Straits Settlements. The lighthouse, which was designed and built by Thomson in 1851, was named after James Horsburgh, a hydrographer with the East India Company. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i></div>
+<div style="background-color: white;"><img style="width:400px" src="/images/Vol-13-issue-3/scots-in-singapore/02_scots.jpg">Portrait of John Turnbull Thomson, at 25 years of age, by Beyerhaus in 1845. Thomson was appointed Government Surveyor for the Straits Settlements in 1841, and served as both surveyor and engineer to Singapore for the next 12 years. <i>All rights reserved, Hall-Jones, J., & Hooi, C. (1979). An Early Surveyor in Singapore: John Turnbull Thomson in Singapore, 1841–1853 (p. 35). Singapore: National Museum. (Call no.: RSING 526.90924 THO).</i></div>
 
 Thomson Road is also named after him, and it is believed that he was the “ang mo” in Ang Mo Kio, having also constructed a bridge in that area. Ang Mo Kio in Hokkien literally translates into “Red-haired Man’s Bridge” – in reference to the bridge that once spanned Kallang River, close to what is today the junction of Upper Thomson Road and Ang Mo Kio Avenue 1.
 
@@ -49,11 +48,11 @@ Thomson Road is also named after him, and it is believed that he was the “ang 
 
 Despite its high population density, Singapore’s vision of becoming a City in a Garden is now a reality thanks to a combination of enlightened planning and the efforts of the National Parks Board. The benefits of having public spaces was recognised early in the colonial period; and two Scotsmen – James MacRitchie and Lawrence Niven – in particular, were instrumental in laying the foundations for the planners who came after them.
 
-<div style="background-color: white;"><img src="/images/Vol-13-issue-3/scots-in-singapore/04_scots.jpg">Two European gentlemen sitting by the lake at the Botanic Gardens in Singapore, c.1900. <i>Courtesy of Cheah Jin Seng.</i></div>
-
 James MacRitchie was an engineer born in Southampton, England, to Scottish parents. He was sent to school in Scotland and then studied at Edinburgh University before training as an engineer in Glasgow. MacRitchie’s career took him to China, Japan and Brazil before he was appointed Municipal Engineer in Singapore in 1883, a post he held until his death in 1895. During those 12 years, MacRitchie was responsible for developing much of the infrastructure of the colony. His name, however, is associated principally with the much-loved MacRitchie Reservoir, which is now surrounded by nature reserves and enjoyed by both wildlife and recreational enthusiasts. MacRitchie was responsible for the enlargement of the reservoir as well as the development of its pumping and purification systems.
 
 The name Lawrence Niven is less known in Singapore, but he stands as MacRitchie’s equal in creating another much loved recreational space. In 1860, Niven, who worked as a manager of a nutmeg plantation belonging to Charles Robert Prinsep, in the area of the present Prinsep Street, was recruited to develop a 23-hectare site in Tanglin into a garden. Niven dedicated himself to this task over the next 15 years while managing the Prinsep plantation at the same time. The eventual result was the Singapore Botanic Gardens, which was inscribed as a UNESCO World Heritage Site in July 2015.
+
+<div style="background-color: white;"><img src="/images/Vol-13-issue-3/scots-in-singapore/04_scots.jpg">Two European gentlemen sitting by the lake at the Botanic Gardens in Singapore, c.1900. <i>Courtesy of Cheah Jin Seng.</i></div>
 
 Niven’s design laid the foundation of the gardens and he created many of its distinctive features, many of which are still apparent to this day. According to a 2014 article by Nigel P. Taylor,[^1] the Director of the Singapore Botanic Gardens, Niven “was almost certainly responsible for the classic English-style landscape design that the garden celebrates today”. Niven Road, close to the Prinsep plantation where he started his career in Singapore, is named after him.
 
@@ -121,7 +120,7 @@ And of course there is William Farquhar, whose Farquhar Street in the Kampong Gl
 
 It is hoped that one day Farquhar’s name will join those of his many Scottish compatriots who did much to establish the early settlement of Singapore.
 
-<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;">This essay contains extracts from the book, <i>From Kilts to Sarongs: Scottish Pioneers of Singapore</i> (2015), by Graham Berry. Published by Landmark Books, the book retails at S$59.90 and is available at major bookshops. It is also available for reference and loan at the Lee Kong Chian Reference Library and selected public libraries (Call nos.: RSING 959.570049163 BER and SING 959.570049163 BER).</span>
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;">This essay contains extracts from the book, <i>From Kilts to Sarongs: Scottish Pioneers of Singapore</i> (2015), by Graham Berry. Published by Landmark Books, the book retails at S$59.90 and is available at major bookshops. It is also available for reference and loan at the Lee Kong Chian Reference Library and selected public libraries (<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202339633">Call nos.: RSING 959.570049163 BER and SING 959.570049163 BER</a>).</span>
 
 <div style="background-color: white;">
 <br>
