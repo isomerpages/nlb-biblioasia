@@ -82,14 +82,14 @@ Local bookstores, such as G.H. Kiat at Change Alley and the Peranakan Chinese-ow
 
 Around this time, the nyonyas’ newly acquired literacy also expressed itself more directly. A table cover (not illustrated in this article) in a private collection is beaded with unusually long text that reads:
 
-Here’s to the bride and the bridegroom
-We’ll ask their success in our prayers,
-Through life’s dark shadow and sunshine
-That good luck may ever be theirs.
+Here’s to the bride and the bridegroom<br>
+We’ll ask their success in our prayers,<br>
+Through life’s dark shadow and sunshine<br>
+That good luck may ever be theirs.<br>
 
-Don’t worry about the future,
-The present is all thou hast,
-The future will soon be present
+Don’t worry about the future,<br>
+The present is all thou hast,<br>
+The future will soon be present<br>
 And the present will very soon be past.
 
 The quatrains, relating to marriage and the passing of time, suggest the piece was made for a wedding and appear to have been copied verbatim, probably from a book of quotes and speeches.[^22] Supplementing or substituting conventional Chinese motifs, such phrases reiterate the nature of needlework designs as vehicles that conveyed benediction and good tidings.
