@@ -68,7 +68,7 @@ This scene in the right hand border representing the sciences and exploration sh
 
 #### **The Angels**
 
-<div style="background-color: white;"><img style="width:450px" src="/images/Vol-13-issue-3/the-third-charter-of-justice/10a_justice.jpg"></div>
+<div style="background-color: white;"><br><img style="width:450px" src="/images/Vol-13-issue-3/the-third-charter-of-justice/10a_justice.jpg"></div>
 
 The two angels in the left and right hand borders are depicted holding their arms up in support, indicating the divine favour bestowed upon the British monarchy. The angels represent divine power, glory, honour and dignity, and are also regarded as bearers of joyful news. The angel in the left hand border is holding up a wreath of acorns symbolising antiquity and strength, while the other angel is holding up a wreath of pomegranates, symbolising fertility and abundance.
 
