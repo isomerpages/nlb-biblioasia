@@ -170,4 +170,14 @@ Nair, P. (1997, October 3). [Nine nights of excitement honour the Goddess Devi](
 [^17]:Rotti, 25 Sep 2017; Author’s interview with Darshna Mahadevan, 30 June 2019.
 [^18]:Srinivasan, 26 Sep 2011.
 [^19]:Rodrigues, H. (2005). Women in the worship of the Great Goddess. In A. Sharma (Ed.), (2005). [*Goddesses and women in the Indic religious tradition*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12548467) (p. 72). Leiden, The Netherlands: Brill. (Call no.: R 294.082 GOD).
-[^2]:Mangala. (1981, October 16). [Navarathri](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19811016-1.2.143.2.5). The Straits Times, p. 4. Retrieved from NewspaperSG.
+[^20]:Mangala. (1981, October 16). [Navarathri](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19811016-1.2.143.2.5). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
+[^21]:Jagannathan, M. (2005). [*South Indian Hindu festivals and traditions*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12767164) (p. 112). New Delhi: Abhinav Publications. (Call no.: R 294.536 MAI); [*The Straits Times*](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19890929-1.2.88.6.2), 29 September 1989, p. 4; Supramaniam, R. (Interviewer). (1991, October 17). [*Oral history interview with Komalavalee Soundara Rajan (Mrs)*](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/16e025eb-115e-11e3-83d5-0050568939ad) [Recording no. 001319/4/1]. Retrieved from National Archives of Singapore website.
+[^22]:The *saree* or *sari* is a traditional attire for women of South Asian descent. It is a long piece of fabric draped around the body, which is worn together with a short fitted blouse called a *choli* and a long petticoat.
+[^23]:Srinivasan, 26 Sep 2011.
+[^24]:Rotti, 25 Sep 2017.
+[^25]:Rotti, 25 Sep 2017.
+[^26]:Nair, P. (1997, October 3). [Nine nights of excitement honour the Goddess Devi](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19971003-1.2.113.17.8). *The Straits Times*, p. 17. Retrieved from NewspaperSG; Bari, P. (2017, September 25). Pune’s South Indian darbar of dolls in creative assembly for Navratri. *The Hindustan Times*. Retrieved from The Hindustan Times website.
+[^27]:Also known as *kumari puja*.
+[^28]:[*The Straits Times*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19971003-1.2.113.17.8), 3 Oct 1997, p. 17.
+[^29]:Subramanian, 22 Sep 2017; Naaidu, P. (Interviewer). (2018, March 21). [*Oral history interview with Vijayam Balakrishna Sharma*](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/017ba1c8-3d31-11e8-85cf-001a4a5ba61b) [Accession no.: 004262/3/1]. Retrieved from National Archives of Singapore website.
+[^3]:[Oral history interview with Vijayam Balakrishna Sharma](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/017ba1c8-3d31-11e8-85cf-001a4a5ba61b), 21 March 2018.
