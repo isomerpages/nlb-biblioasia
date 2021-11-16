@@ -113,10 +113,42 @@ These are some of the ingenious methods that people in the New Villages used to 
 <li>In another village, an old woman walked past through the checkpoint daily, carrying two buckets of pig swill that hung from a bamboo pole balanced on her shoulders. When the suspicious police officers “put their hands daily into the filthy mess”, they found nothing.30  A month later the officers realised they had been hoodwinked when they found rice hidden in the hollow bamboo pole instead.
 <li>Medicine and other items were concealed under raw pork as the Malay constables would not touch these receptacles.
 <li>Night soil carriers squirrelled items out of the villages by stashing them in false bottoms of their buckets, while rubber tappers did the same by hiding rice at the bottoms of pails containing latex.
-<li>Women pretended to be preg­nant and wore big brassieres where rice could be stashed, while men strapped bags of rice to the inside of their thighs and wore loose pants.
+<li>Women pretended to be pregnant and wore big brassieres where rice could be stashed, while men strapped bags of rice to the inside of their thighs and wore loose pants.
 <li>Those living near the fences surrounding the New Villages often placed supplies near the fences where the communist guerrillas could easily retrieve.31 Planks were sometimes placed across the fences or holes were made in the fences so that the guerrillas could enter and leave the villages easily.
 </ul></span>
 
 The communists’ efforts to grow their own vegetables in the jungle also proved futile: the neat rows of vegetables were easily spotted from the air by British Royal Air Force (RAF) aircraft and bombed. After realising their mistake, the communists began planting vegetables in a haphazard manner like the Orang Asli, but the RAF still managed to find and destroy these agricultural plots.32
 
 Chin Peng, the MCP leader during the Malayan Emergency, admitted just as much in his memoir when he said that the Briggs Plan was the MCP’s Achilles heel.33 Recovered communist documents revealed that the “shortage of food in various places prevented us [the communists] from concentrating large numbers of troops and launching large-scale operations” and that “they must guard against quarrelling over the table and stealing each other’s food. People with huge appetites should be admonished and taught to develop self-restraint”.34
+
+<img src="/images/Vol-15-issue-3/civilians-in-the-crossfire/Civilians8.JPG">
+<div style="background-color: white;">A communist insurgent being led out of the jungle with his hands tied behind his back. <i>Image reproduced from Barber, N. (1971). The War of the Running Dogs. London: Collins. (Call no.: RSING 959.5106 BAR).</i></div>
+
+Even the restriction to beverages such as coffee affected some: a note written by a communist insurgent lamented that he had not drunk coffee for over two months, and when he finally had the good fortune to find some, there was not enough sugar to sweeten the treat.
+
+As for the civilians who suffered through it all, the psychological impact stayed with them long after the Emergency officially ended on 31 July 1960. They remained suspicious of strangers and had difficulty accepting help from outsiders. Even after the barbed wire surrounding the New Villages had been dismantled and outsiders started moving in, there were frequent altercations between former residents and the *newcomers*.35
+
+On a positive note, the communists never regained their foothold in Malaya. They were put on the defensive and eventually retreated to the Thai-Malaysian border. On 2 December 1989, the MCP agreed to “disband and end its struggle against the Malaysian forces” by signing a peace accord with the Malaysian and Thai governments in Hat Yai, southern Thailand.36
+
+<img src="/images/Vol-15-issue-3/civilians-in-the-crossfire/Civilians9.JPG">
+<div style="background-color: white;">The Federation Government announcing a reward of $250,000 for “bringing in alive” or giving information leading to the capture of Chin Peng, Secretary-General of the Malayan Communist Party, the man responsible for directing the armed communist revolt in Malaya. <i>The Straits Times, 1 May 1952, p. 1.</i></div>
+
+<br>
+<div style="background-color: white;">
+<img src="/images/Vol-15-issue-3/civilians-in-the-crossfire/Civilians10.jpg" style="width: 100px; height: 100px;">
+<b>Ronnie Tan</b> is a Senior Manager (Research) with the National Library, Singapore, where he conducts a research on public policy as well as historical, regional and library-related issues. His other research interests include Malayan history, especially the Malayan Emergency (1948-60), and military history.
+</div>
+
+<a href="https://biblioasia.nlb.gov.sg/vol-15/issue-3/oct-dec-2019/"><center>Back to Issue</center></a>
+
+#### **NOTES**
+[^1]:
+[^2]:
+[^3]:
+[^4]:
+[^5]:
+[^6]:
+[^7]:
+[^8]:
+[^9]:
+[^10]:
