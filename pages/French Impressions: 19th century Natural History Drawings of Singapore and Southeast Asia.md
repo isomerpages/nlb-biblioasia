@@ -5,7 +5,7 @@ permalink: /vol-17/issue-4/jan-mar-2022/diardduvaucel
 description: ""
 image: /images/vol-17-issue-4/diard-duvaucel/Diard-Duvaucel-FB1200-1200px.png
 ---
-#### A little-known collection of French natural history drawings of Singapore and its neighbouring countries from 1818 to 1820 shed light on the early study of the region’s flora and fauna.
+#### A little-known collection from 1818−1820 commissioned under the watch of two French naturalists shed light on the early study of the region’s flora and fauna.
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/diard-duvaucel/DiardDuvaucel2.jpg)
 <span style="background-color: white; display:block; font-size:1rem; line-height:1.5rem"><i>Diard & Duvaucel: French Natural History Drawings of Singapore and Southeast Asia 1818–1820</i> is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries ([Call nos.: RSING 508.0222 DIA and SING 508.0222 DIA](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695)) and for sale at all major bookstores, including Epigram’s online store at epigrambookshop.sg.</span>
@@ -68,4 +68,3 @@ Stamford Raffles collected pitcher plants when he first visited Singapore in ear
 [^1]: Danièle Weiler, “[Stamford Raffles and the Two French Naturalists](https://biblioasia.nlb.gov.sg/vol-16/issue-2/jul-sep-2020/raffles),” *BiblioAsia* 16, no. 2 (Jul–Sep 2020).
 
 [^2]: *Figures peintes d’oiseaux [et de reptiles], envoyées de l’Inde par Duvaucel et Diard ([Painted depictions of birds [and reptiles], sent from India by Duvaucel and Diard](https://eresources.nlb.gov.sg/printheritage/detail/c908d4fd-4e4b-441d-bdab-48c9eb69d0c1.aspx)).
-	
