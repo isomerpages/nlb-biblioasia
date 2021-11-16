@@ -9,9 +9,14 @@ permalink: /editors-picks/medicine
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/plague" target="_blank">The Plague Fighter: Dr Wu Lien-Teh and His Work</a>
 <p>The Penang-born doctor helped eradicate the deadly Manchurian pneumonic plague of 1910 and pushed for the use of face masks to prevent its spread. Kevin Y.L. Tan documents his life and work.</p> 
-<hr clear="left">
+<hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/cholera" target="_blank">Cholera in 19th-century Singapore</a>
 <p>The colony experienced its first cholera outbreak in 1841, and several epidemics in the decades thereafter. Bonny Tan examines how the battle against this deadly illness was won.</p> 
 <img style="width:100%;" src="/images/Vol-16-issue-2/cholera/monstrous.jpg">
-<hr clear="left">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-3/oct-dec-2018/magic-or-med-m-heal/" target="_blank">Magic or Medicine? Malay Healing Practices</a>
+<p>Is traditional Malay medicine based on superstition and folklore or grounded in scientific evidence? Nadirah Norruddin uncovers the varying perceptions of Malay medicine in colonial Malaya.</p> 
+<img src="/images/Vol-14-issue-3/magic-or-medicine-malay-hp/MagicMed1.JPG">
+<hr>
