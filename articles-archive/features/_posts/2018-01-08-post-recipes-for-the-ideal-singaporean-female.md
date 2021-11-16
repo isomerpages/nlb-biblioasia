@@ -198,16 +198,16 @@ It was only as an adult that I re-acquainted myself with the kitchen when food t
 
 [^28]:Viswalingam, P. (1986). Home economics today 1E (p. 14) Singapore: Curriculum Development Institute of Singapore. (Call no.: YR 640.76 HOM)
 
-[^29]:Ministry of Communications and Information. (1986, March 19). Speech by Dr Tay Eng Soon, Minister of State for Education, at the home economics seminar: “New Dimensions” organised by the Home Economics Teachers’ Association at the Mandarin Hotel on Wednesday, 19 March 1986, at 2.30 p.m. (p. 4). Retrieved from National Archives of Singapore website.
+[^29]:Ministry of Communications and Information. (1986, March 19). *[Speech by Dr Tay Eng Soon, Minister of State for Education, at the home economics seminar: “New Dimensions” organised by the Home Economics Teachers’ Association at the Mandarin Hotel on Wednesday, 19 March 1986, at 2.30 p.m.](http://www.nas.gov.sg/archivesonline/data/pdfdoc/tes19860319as.pdf)* (p. 4). Retrieved from National Archives of Singapore website.
 
-[^30]:Viswalingam, 1987, pp. 173–179.
+[^30]:[Viswalingam](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4687810), 1987, pp. 173–179.
 
-[^31]:Electrolux. (1984, March). HETA news, 10. Singapore: The Association. (Call no.: RSING q640.7 HETAN); Visit to the Kikkoman factory. (1986, September). HETA news, 2, 9. Singapore: The Association. (Call no.: RSING q640.7 HETAN); Trip to “rise and shine”. (1988, June). HETA news, 1, 9. Singapore: The Association. (Call no.: RSING q640.7 HETAN)
+[^31]:Electrolux. (1984, March). *[HETA news](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4079613), 10*. Singapore: The Association. (Call no.: RSING q640.7 HETAN); Visit to the Kikkoman factory. (1986, September). *[HETA news](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4079613), 2*, 9. Singapore: The Association. (Call no.: RSING q640.7 HETAN); Trip to “rise and shine”. (1988, June). *[HETA news](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4079613), 1*, 9. Singapore: The Association. (Call no.: RSING q640.7 HETAN)
 
-[^32]:Boys-, girls-only courses open to all. (1996, March 30). The Straits Times, p. 25. Retrieved from NewspaperSG.
+[^32]:[Boys-, girls-only courses open to all](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19960330-1.2.38.1). (1996, March 30). *The Straits Times*, p. 25. Retrieved from NewspaperSG.
 
-[^33]:Chong, E.S.-H., & Kee, M.H., et al. (1996). Home economics today. Secondary 1 Special/Express/Normal (Academic) (p. 57). Singapore: Curriculum Development Institute of Singapore. (Call no.: RSING q640.76 HOM); Chong, E.S.H., et al. (1997). Home economics today. Secondary 2 special/express/normal, academic (pp. 16, 119, 140). Singapore: Curriculum Planning & Development, Ministry of Education. (Call no.: RSING 640.76 HOM); Viswalingam, 1987, pp. 135–137, 199; Hamidah & Siti, 1983, pp. 13, 102.
+[^33]:Chong, E.S.-H., & Kee, M.H., et al. (1996). *[Home economics today. Secondary 1 Special/Express/Normal (Academic)](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=8083919)* (p. 57). Singapore: Curriculum Development Institute of Singapore. (Call no.: RSING q640.76 HOM); Chong, E.S.H., et al. (1997). *[Home economics today. Secondary 2 special/express/normal, academic](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=8888488)* (pp. 16, 119, 140). Singapore: Curriculum Planning & Development, Ministry of Education. (Call no.: RSING 640.76 HOM); [Viswalingam](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4687810), 1987, pp. 135–137, 199; [Hamidah & Siti](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4140614), 1983, pp. 13, 102.
 
-[^34]:Ministry of Information and the Arts. (1995, September 6). Statement by Mr Abdullah Tarmugi, Acting Minister for Community Development at the Fourth United Nations World Conference on Women, Beijing, People’s Republic of China, 4-15 September 1995, delivered at the plenary session at 8.00 p.m. on 6 September 1995 (p. 4). Retrieved from National Archives of Singapore website.
+[^34]:Ministry of Information and the Arts. (1995, September 6). *[Statement by Mr Abdullah Tarmugi, Acting Minister for Community Development at the Fourth United Nations World Conference on Women, Beijing, People’s Republic of China, 4-15 September 1995, delivered at the plenary session at 8.00 p.m. on 6 September 1995](http://www.nas.gov.sg/archivesonline/data/pdfdoc/at19950906s.pdf)* (p. 4). Retrieved from National Archives of Singapore website.
 
-[^35]:Lee Kuan Yew School of Public Policy, 2016, pp. 4–5, 21; Viswalingam, 1987, p. 41.
+[^35]:Lee Kuan Yew School of Public Policy, 2016, pp. 4–5, 21; [Viswalingam](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4687810), 1987, p. 41.
