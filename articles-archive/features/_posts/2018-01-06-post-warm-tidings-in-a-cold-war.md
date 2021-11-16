@@ -170,91 +170,92 @@ The remittance letters in the Koh Seow Chuan Collection demonstrate how family r
 
 [^1]:The Cold War, which took place approximately between 1945 and 1990, refers to the period of geopolitical tension between the capitalist US and the communist Soviet Union, and their respective allies. 
 
-Zhou, E. (1955, March 3). Guanyu guanche baohu qiaohui zhengce de mingling (关于贯彻保护侨汇政策的命令). Renmin Ribao. (Not avilable in NLB holdings.)
+[^2]:Zhou, E. (1955, March 3). Guanyu guanche baohu qiaohui zhengce de mingling (关于贯彻保护侨汇政策的命令). Renmin Ribao. (Not avilable in NLB holdings.)
 
-Liu, H. (2005). The transnational history of a Chinese family: Immigrant letters, family business, and reverse migration (p. 135). New Brunswick, NJ: Rutgers University Press, 2005. (Call no.: R 304.8730510922 LIU)
+[3]:Liu, H. (2005). The transnational history of a Chinese family: Immigrant letters, family business, and reverse migration (p. 135). New Brunswick, NJ: Rutgers University Press, 2005. (Call no.: R 304.8730510922 LIU)
 
-Chen, D. (1940). Emigrant communities in South China: A study of overseas migration and its influence on standards of living and social change (p. 155). New York: Institute of Pacific Relations. (Call no.: RCLOS 309.151 CHE-[RFL])  
+[^4]:Chen, D. (1940). Emigrant communities in South China: A study of overseas migration and its influence on standards of living and social change (p. 155). New York: Institute of Pacific Relations. (Call no.: RCLOS 309.151 CHE-[RFL])  
 
-Letter 2558, Xu Mingqin to his mother and aunt-in-law, May 20 (旧历四月廿叁日), 1949, Koh Seow Chuan Collection, National Library Board, Singapore. (Call no.: RRARE C816.3 KOH)
+[^5]:Letter 2558, Xu Mingqin to his mother and aunt-in-law, May 20 (旧历四月廿叁日), 1949, Koh Seow Chuan Collection, National Library Board, Singapore. (Call no.: RRARE C816.3 KOH)
 
-Letter 2199, Yang Ruixiong to his mother and wife Peiyu, November 14, 1956, Koh Seow Chuan Collection, National Library Board, Singapore. (Call no.: RRARE C816.3 KOH)
+[^6]:Letter 2199, Yang Ruixiong to his mother and wife Peiyu, November 14, 1956, Koh Seow Chuan Collection, National Library Board, Singapore. (Call no.: RRARE C816.3 KOH)
 
-Letter 2168, Wu Juanzhuan to his wife, date unknown (丁弎月初九日), year unknown, Koh Seow Chuan Collection, National Library Board, Singapore. (Call no.: RRARE C816.3 KOH); Letter 2205, Wu Juanzhuan to his wife, date unknown (弍月初伍日), year unknown, Koh Seow Chuan Collection, National Library Board, Singapore. (Call no.: RRARE C816.3 KOH)
+[^7]:Letter 2168, Wu Juanzhuan to his wife, date unknown (丁弎月初九日), year unknown, Koh Seow Chuan Collection, National Library Board, Singapore. (Call no.: RRARE C816.3 KOH); Letter 2205, Wu Juanzhuan to his wife, date unknown (弍月初伍日), year unknown, Koh Seow Chuan Collection, National Library Board, Singapore. (Call no.: RRARE C816.3 KOH)
 
-Letter 2876, Xu Mingqin to his mother, January 5 (十二月初一日), 1954, Koh Seow Chuan Collection, National Library Board, Singapore. (Call no.: RRARE C816.3 KOH)
+[^8]:Letter 2876, Xu Mingqin to his mother, January 5 (十二月初一日), 1954, Koh Seow Chuan Collection, National Library Board, Singapore. (Call no.: RRARE C816.3 KOH)
 
-Letter 2552, Xu Mingqin and his wife to their daughter Huizhuang, January 9 (元月九日即完月初九日), 1957, Koh Seow Chuan Collection, National Library Board, Singapore. (Call no.: RRARE C816.3 KOH)
+[^9]:Letter 2552, Xu Mingqin and his wife to their daughter Huizhuang, January 9 (元月九日即完月初九日), 1957, Koh Seow Chuan Collection, National Library Board, Singapore. (Call no.: RRARE C816.3 KOH)
 
-Letter 2710, Zeng Hequan to his wife, November 30, 1952, Koh Seow Chuan Collection, National Library Board, Singapore. (Call no.: RRARE C816.3 KOH)
+[^10]:Letter 2710, Zeng Hequan to his wife, November 30, 1952, Koh Seow Chuan Collection, National Library Board, Singapore. (Call no.: RRARE C816.3 KOH)
 
-Letter 2600, Yaliu to her mother-in-law, date unknown (元月初十), year unknown, Koh Seow Chuan Collection, National Library Board, Singapore. (Call no.: RRARE C816.3 KOH)
+[^11]:Letter 2600, Yaliu to her mother-in-law, date unknown (元月初十), year unknown, Koh Seow Chuan Collection, National Library Board, Singapore. (Call no.: RRARE C816.3 KOH)
 
-Qi, X. (2015, March).  Filial obligation in contemporary China: Evolution of the culture-system. Journal for the Theory of Social Behaviour, 45 (1), 141–161, p. 149. Retrieved from Wiley Online Library website.
+[^12]:Qi, X. (2015, March).  Filial obligation in contemporary China: Evolution of the culture-system. Journal for the Theory of Social Behaviour, 45 (1), 141–161, p. 149. Retrieved from Wiley Online Library website.
 
-Freedman, M. (Ed.). (1970). Family and kinship in Chinese society (pp. 26, 33). Stanford: Stanford University Press. (Call no.: RCLOS 301.42 FRE)
+[^13]:Freedman, M. (Ed.). (1970). Family and kinship in Chinese society (pp. 26, 33). Stanford: Stanford University Press. (Call no.: RCLOS 301.42 FRE)
 
-Letter 2194, Liu Shizhao to his mother, November 3 (十月初五日), 1970, Koh Seow Chuan Collection, National Library Board, Singapore. (Call no.: RRARE C816.3 KOH)
+[^14]:Letter 2194, Liu Shizhao to his mother, November 3 (十月初五日), 1970, Koh Seow Chuan Collection, National Library Board, Singapore. (Call no.: RRARE C816.3 KOH)
 
-Shen, H. (2012). China’s left-behind wives: Families of migrants from Fujian to Southeast Asia, 1930s–1950s (p. 93). Singapore: NUS Press. (Call no.: RSEA 306.87230951245 SHE) 
+[^15]:Shen, H. (2012). China’s left-behind wives: Families of migrants from Fujian to Southeast Asia, 1930s–1950s (p. 93). Singapore: NUS Press. (Call no.: RSEA 306.87230951245 SHE) 
 
-Barnett, A.D. (1955). Self-rule and unrest: Overseas Chinese in Singapore: Disturbing trends in an overseas Chinese city which is moving from colonialism toward self-rule (p. 9). Southeast Asia series, III. (Call no.: RCLOS 959 AUFSR)
+[^16]:Barnett, A.D. (1955). Self-rule and unrest: Overseas Chinese in Singapore: Disturbing trends in an overseas Chinese city which is moving from colonialism toward self-rule (p. 9). Southeast Asia series, III. (Call no.: RCLOS 959 AUFSR)
 
-Letter 2214, Yang Ruixiong to his wife Xu Peiyu, March 26, 1965, Koh Seow Chuan Collection, National Library Board, Singapore. (Call no.: RRARE C816.3 KOH) 
+[^17]:Letter 2214, Yang Ruixiong to his wife Xu Peiyu, March 26, 1965, Koh Seow Chuan Collection, National Library Board, Singapore. (Call no.: RRARE C816.3 KOH) 
 
-Letter 2153, Liu Yongyu to his mother, December 11, 1956, Koh Seow Chuan Collection, National Library Board, Singapore. (Call no.: RRARE C816.3 KOH)
+[^18]:Letter 2153, Liu Yongyu to his mother, December 11, 1956, Koh Seow Chuan Collection, National Library Board, Singapore. (Call no.: RRARE C816.3 KOH)
 
-Letter 2633, Zheng Youchu and his wife to their daughter Xianqing and son-in-law Zhuoren, November 20, 1952, Koh Seow Chuan Collection, National Library Board, Singapore. (Call no.: RRARE C816.3 KOH) 
+[^19]:Letter 2633, Zheng Youchu and his wife to their daughter Xianqing and son-in-law Zhuoren, November 20, 1952, Koh Seow Chuan Collection, National Library Board, Singapore. (Call no.: RRARE C816.3 KOH) 
 
-Letter 2906, Zheng Youchu and his wife to their daughter Xianqing and son-in-law Zhuoren, January 12 (农历腊月初八日), 1954, Koh Seow Chuan Collection, National Library Board, Singapore. (Call no.: RRARE C816.3 KOH)
+[^20]:Letter 2906, Zheng Youchu and his wife to their daughter Xianqing and son-in-law Zhuoren, January 12 (农历腊月初八日), 1954, Koh Seow Chuan Collection, National Library Board, Singapore. (Call no.: RRARE C816.3 KOH)
 
-Letter 2594, Liu Shizhao to his mother and sister Bixia, August 24 (旧历七月初七日), 1955, Koh Seow Chuan Collection, National Library Board, Singapore. (Call no.: RRARE C816.3 KOH)
+[^21]:Letter 2594, Liu Shizhao to his mother and sister Bixia, August 24 (旧历七月初七日), 1955, Koh Seow Chuan Collection, National Library Board, Singapore. (Call no.: RRARE C816.3 KOH)
 
-Letter 2214, Yang Ruixiong to his wife Xu Peiyu, March 26, 1965, Koh Seow Chuan Collection, National Library Board, Singapore. (Call no.: RRARE C816.3 KOH) 
+[^22]:Letter 2214, Yang Ruixiong to his wife Xu Peiyu, March 26, 1965, Koh Seow Chuan Collection, National Library Board, Singapore. (Call no.: RRARE C816.3 KOH) 
 
-Letter 2210, Yang Ruixiong to his mother, September 7, 1955, Koh Seow Chuan Collection, National Library Board, Singapore. (Call no.: RRARE C816.3 KOH)
+[^23]:Letter 2210, Yang Ruixiong to his mother, September 7, 1955, Koh Seow Chuan Collection, National Library Board, Singapore. (Call no.: RRARE C816.3 KOH)
 
-Letter 2863, Lin Zhaolie to his mother, December 4 (十一月初十日), 1954, Koh Seow Chuan Collection, National Library Board, Singapore. (Call no.: RRARE C816.3 KOH)
+[^24]:Letter 2863, Lin Zhaolie to his mother, December 4 (十一月初十日), 1954, Koh Seow Chuan Collection, National Library Board, Singapore. (Call no.: RRARE C816.3 KOH)
 
-Letter 2558, Xu Mingqin to his mother and aunt, May 20 (旧历四月廿叁日), 1949, Koh Seow Chuan Collection, National Library Board, Singapore. (Call no.: RRARE C816.3 KOH) 
+[^25]:Letter 2558, Xu Mingqin to his mother and aunt, May 20 (旧历四月廿叁日), 1949, Koh Seow Chuan Collection, National Library Board, Singapore. (Call no.: RRARE C816.3 KOH) 
 
-Letter 2639, Zheng Buchang to his sister, February 27, 1950, Koh Seow Chuan Collection, National Library Board, Singapore. (Call no.: RRARE C816.3 KOH)
+[^26]:Letter 2639, Zheng Buchang to his sister, February 27, 1950, Koh Seow Chuan Collection, National Library Board, Singapore. (Call no.: RRARE C816.3 KOH)
 
-Letter 2863, Lin Zhaolie to his mother, December 4 (十 一月初十日), 1954, Koh Seow Chuan Collection, National Library Board, Singapore. (Call no.: RRARE C816.3 KOH)
+[^27]:Letter 2863, Lin Zhaolie to his mother, December 4 (十 一月初十日), 1954, Koh Seow Chuan Collection, National Library Board, Singapore. (Call no.: RRARE C816.3 KOH)
 
-Letter 2553, Xu Mingqin to his mother, June 11 (阴历五 月十一日), 1954, Koh Seow Chuan Collection, National Library Board, Singapore. (Call no.: RRARE C816.3 KOH)
+[^28]:Letter 2553, Xu Mingqin to his mother, June 11 (阴历五 月十一日), 1954, Koh Seow Chuan Collection, National Library Board, Singapore. (Call no.: RRARE C816.3 KOH)
 
-Letter 2179, Yang Ruixiong to his mother, second brother and wife Peiyu, February 28 (正月廿九日), 1957, Koh Seow Chuan Collection, National Library Board, Singapore. (Call no.: RRARE C816.3 KOH)
+[^29]:Letter 2179, Yang Ruixiong to his mother, second brother and wife Peiyu, February 28 (正月廿九日), 1957, Koh Seow Chuan Collection, National Library Board, Singapore. (Call no.: RRARE C816.3 KOH)
 
-Letter 2211, Yang Ruixiong to his wife Xu Peiyu, April 7, 1965, Koh Seow Chuan Collection, National Library Board, Singapore. (Call no.: RRARE C816.3 KOH)
+[^30]:Letter 2211, Yang Ruixiong to his wife Xu Peiyu, April 7, 1965, Koh Seow Chuan Collection, National Library Board, Singapore. (Call no.: RRARE C816.3 KOH)
 
-Saw, S.H. (2012). The population of Singapore (p. 31). Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 304.6095957 SAW)
+[^31]:Saw, S.H. (2012). The population of Singapore (p. 31). Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 304.6095957 SAW)
 
-Shen, 2012, p. 34.
+[^32]:Shen, 2012, p. 34.
 
-Letter 2232, Liu Shizhao to his mother, date unknown (二月初六), year unknown, Koh Seow Chuan Collection, National Library Board, Singapore. (Call no.: RRARE C816.3 KOH)
+[^33]:Letter 2232, Liu Shizhao to his mother, date unknown (二月初六), year unknown, Koh Seow Chuan Collection, National Library Board, Singapore. (Call no.: RRARE C816.3 KOH)
 
-Letter 2211, Yang Ruixiong to his wife Xu Peiyu, April 7, 1965, Koh Seow Chuan Collection, National Library Board, Singapore. (Call no.: RRARE C816.3 KOH)
+[^34]:Letter 2211, Yang Ruixiong to his wife Xu Peiyu, April 7, 1965, Koh Seow Chuan Collection, National Library Board, Singapore. (Call no.: RRARE C816.3 KOH)
 
-Freedman, M. (1957). Chinese family and marriage in Singapore  (p. 67). London: H.M. Stationery Off. (Call no.: RSING 301.42 FRE)
+[^35]:Freedman, M. (1957). Chinese family and marriage in Singapore  (p. 67). London: H.M. Stationery Off. (Call no.: RSING 301.42 FRE)
 
-Letter 2214, Yang Ruixiong to his wife Xu Peiyu, March 26, 1965, Koh Seow Chuan Collection, National Library Board, Singapore (Call no.: RRARE C816.3 KOH).
+[^36]:Letter 2214, Yang Ruixiong to his wife Xu Peiyu, March 26, 1965, Koh Seow Chuan Collection, National Library Board, Singapore (Call no.: RRARE C816.3 KOH).
 
-Letter 2596, Liu Shizhao to his mother, November 16 (十月初三日), 1955, Koh Seow Chuan Collection, National Library Board, Singapore. (Call no.: RRARE C816.3 KOH)
+[^37]:Letter 2596, Liu Shizhao to his mother, November 16 (十月初三日), 1955, Koh Seow Chuan Collection, National Library Board, Singapore. (Call no.: RRARE C816.3 KOH)
 
-Letter 2543, Xu Mingqin to his mother, May 5 (四月初三 日), 1954, Koh Seow Chuan Collection, National Library Board, Singapore. (Call no.: RRARE C816.3 KOH)
+[^38]:Letter 2543, Xu Mingqin to his mother, May 5 (四月初三 日), 1954, Koh Seow Chuan Collection, National Library Board, Singapore. (Call no.: RRARE C816.3 KOH)
 
-Letter 2564, Xu Mingqin to his mother, May 4, 1955, Koh Seow Chuan Collection, National Library Board, Singapore. (Call no.: RRARE C816.3 KOH); Letter 2589, Liu Shizhao to his wife Ding Shuduan, October 13, 1954, Koh Seow Chuan Collection, National Library Board, Singapore. (Call no.: RRARE C816.3 KOH)
+[^39]:Letter 2564, Xu Mingqin to his mother, May 4, 1955, Koh Seow Chuan Collection, National Library Board, Singapore. (Call no.: RRARE C816.3 KOH); Letter 2589, Liu Shizhao to his wife Ding Shuduan, October 13, 1954, Koh Seow Chuan Collection, National Library Board, Singapore. (Call no.: RRARE C816.3 KOH)
 
-Letter 2236, Lu Mutang to his mother, date unknown (丁柒月初一日), year unknown, Koh Seow Chuan Collection, National Library Board, Singapore. (Call no.: RRARE C816.3 KOH)
+[^40]:Letter 2236, Lu Mutang to his mother, date unknown (丁柒月初一日), year unknown, Koh Seow Chuan Collection, National Library Board, Singapore. (Call no.: RRARE C816.3 KOH)
 
-Zhao, G. (1959–60).  Economic planning and organization in mainland China: A documentary study, 1949–1957 (p. 44). Cambridge, Mass.: Center for East Asian Studies. (Call no.: RCLOS 338.951 CHA)
+[^41]:Zhao, G. (1959–60).  Economic planning and organization in mainland China: A documentary study, 1949–1957 (p. 44). Cambridge, Mass.: Center for East Asian Studies. (Call no.: RCLOS 338.951 CHA)
 
-Xi, R. (1954, September 20). Jinjiang county to the responses and requests of guiqiao and qiaojuan of tonggou tongxiao (晋江专区归侨、侨眷对棉布统销的反 映和要求). Renmin Ribao
-Letter 2275, Lu Mutang to his mother, October 6 (九月初十日), 1954, Koh Seow Chuan Collection, National Library Board, Singapore. (Call no.: RRARE C816.3 KOH)
+[^42]:Xi, R. (1954, September 20). Jinjiang county to the responses and requests of guiqiao and qiaojuan of tonggou tongxiao (晋江专区归侨、侨眷对棉布统销的反 映和要求). Renmin Ribao
 
-Dikötter, F. (2010). ). Mao’s great famine: The history of China’s most devastating catastrophe, 1958–1962 (p. 144). New York: Walker & Co. (Call no.: R 951.055 DIK)
+[^43]:Letter 2275, Lu Mutang to his mother, October 6 (九月初十日), 1954, Koh Seow Chuan Collection, National Library Board, Singapore. (Call no.: RRARE C816.3 KOH)
 
-“如果缝衣车买过手便要献去炼成钢铁，不是冤枉我之血 汗钱耶。所谓今社制度，南洋侨眾，均不滿意”. Chaoshan Lishi Wenhua Yanjiu Zhongxin (Ed). (2007). Chaoshan qiaopi jicheng (潮汕侨批集成), di yi ji, 12 (p. 267). Guilin: Guangxi shifan daxue chubanshe. (Call no.: Chinese RSEA 383.495127 CSQ)
+[^44]:Dikötter, F. (2010). ). Mao’s great famine: The history of China’s most devastating catastrophe, 1958–1962 (p. 144). New York: Walker & Co. (Call no.: R 951.055 DIK)
 
-Letter 2149, Liu Saibi to her mother, July 4, 1961, Koh Seow Chuan Collection, National Library Board, Singapore. (Call no.: RRARE C816.3 KOH)
+[^45]:“如果缝衣车买过手便要献去炼成钢铁，不是冤枉我之血 汗钱耶。所谓今社制度，南洋侨眾，均不滿意”. Chaoshan Lishi Wenhua Yanjiu Zhongxin (Ed). (2007). Chaoshan qiaopi jicheng (潮汕侨批集成), di yi ji, 12 (p. 267). Guilin: Guangxi shifan daxue chubanshe. (Call no.: Chinese RSEA 383.495127 CSQ)
+
+[^46]:Letter 2149, Liu Saibi to her mother, July 4, 1961, Koh Seow Chuan Collection, National Library Board, Singapore. (Call no.: RRARE C816.3 KOH)
