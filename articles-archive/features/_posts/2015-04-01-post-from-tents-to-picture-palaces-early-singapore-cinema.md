@@ -72,14 +72,14 @@ Tan paid $25,000 for the Palladium (also designed by J.B. Westerhout) a mere fou
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-11-issue-1/earlysgcinema/Adelphi_re.jpg">
+<img style="width:70%" src="/images/vol-11-issue-1/earlysgcinema/Adelphi_re.jpg">
 Adelphi Hotel on Coleman Street, as seen in a 1906 postcard. Adelphi Hall, where Singapore’s earliest film screenings were held in 1897, was part of the hotel. <i>Arshak C Galstaun Collection, courtesy of the National Archives of Singapore</i>.
 </div>
 
 	
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-11-issue-1/earlysgcinema/Alhambra.jpg">
+<img style="width:70%" src="/images/vol-11-issue-1/earlysgcinema/Alhambra.jpg">
 A 1930 postcard of the Alhambra cinema along Beach Road. Taken from the book Singapore: <i>500 Early Postcards</i>, published by Editions Didier Millet (2007). <i>Courtesy of Prof Cheah Jin Seng</i>.
 </div>
 
@@ -129,8 +129,6 @@ Released in 1933 and shot off the coast of Katong in 1932, <i>Samarang</i> (also
 <br><br>
 <img style="width: 70%;"  src="/images/vol-11-issue-1/earlysgcinema/samarang_1933_res.jpg">Poster of <i>Samarang</i>. © Samarang. Directed by Ward Wing, produced by United Artists and B.F. Zeidman, distributed by United Artists. United States, 1933. <i>Courtesy of Wong Han Min.</i>
 <br><br>
-<img style="width: 70%;"  src="/images/vol-11-issue-1/earlysgcinema/leilaMajnun_re.jpg">Advertisements for the opening of <i>Leila Majnun</i> (1934). © Singapore Press Holdings. All rights reserved. <i>The Straits Times.</i>
-<br><br>
 <b>Xin Ke (新客, The New Immigrant)</b>
 <br><br>
 Produced by Liu Beijin, 新客 (<i>Xin Ke</i>; <i>The New Immigrant</i>, 1927) is believed to be the first Chinese feature film that was completely shot in Singapore and Malaya. Of Fujian origins, Liu (1902–1959) was born in Singapore but grew up in Muar, Johor. Although inspired by the booming Shanghainese movie industry, he felt slighted as an overseas Chinese when he visited China in December 1925.
@@ -157,6 +155,7 @@ The film’s gala opening was held on March 1934 at the Marlborough. The dialogu
 <br><br>
 <i>The full citations for</i> Xin Ke <i>and</i> Leila Majnun <i>can be found on</i> *[HistorySG](http://eresources.nlb.gov.sg/history)*.</span>
 
+<img style="width:100px;height:100px;margin-bottom:-30px; border-radius:100%; box-shadow: 1px 2px 0px #424242;" src="/images/vol-11-issue-1/earlysgcinema/Bonny.jpg">
 <p style="font-size:15px;"><b>Bonny Tan</b> is a Senior Librarian with the National Library of Singapore. Her interest in the history of films was sparked after she uncovered little known facets of colonial life in early newspapers of Singapore. She would like to thank Nadi Tofighian for his help in reviewing this article.</p>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-11/issue-1/Apr-jun-2015/"><center>Back to Issue</center></a>

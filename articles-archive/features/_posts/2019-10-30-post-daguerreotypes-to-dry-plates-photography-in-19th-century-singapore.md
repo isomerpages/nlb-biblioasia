@@ -1,12 +1,12 @@
 ---
-title: "Daguerreotypes to dry plates: Photography in 19th-century Singapore"
+title: "Daguerreotypes to Dry plates: Photography in 19th-century Singapore"
 date: 2019-10-30
 permalink: /vol-15/issue-3/oct-dec-2019/photography-in-sg/
 layout: post
 ---
 #### The oldest known photographs of Singapore were taken by Europeans in the early 1840s. **Janice Loo** charts the rise of commercial photography in the former British colony.
 
-<img style="width: 250px; height: 250px;" src="/images/Vol-15-issue-3/daguerreotypes-to-dry-plates/Daguerreotypes1.JPG">
+<img style="width: 350px; height: 350px;" src="/images/Vol-15-issue-3/daguerreotypes-to-dry-plates/Daguerreotypes1.JPG">
 <div style="background-color: white;">An early camera consisting of a tube holding the lens at the front and a slot at the back for the insertion of the focusing ground glass, with the dark slide containing the sensitised plate. <i>Image reproduced from Tissandier, G. (1877). A History and Handbook of Photography (p. 97). New York: Scovill Manufacturing Company. Retrieved from Internet Archive website.</i></div>
 
 Photography is the “method of recording the image of an object through the action of light on a light-sensitive material”.[^1] Derived from the Greek words *photos* (“light”) and *graphein* (“to draw”), photography was invented by combining the age-old principles of the camera obscura (“dark room” in Latin[^2]) and the discovery in the 1700s that certain chemicals turned dark when exposed to light.
@@ -81,9 +81,6 @@ After Dutronquoy’s departure, Singapore was not to see another resident profes
 
 The limited commercial success of daguerreotypes in Singapore could be attributed to several factors: the small consumer population, the relative high price of commissioning a portrait and the capital required to run a professional studio. Human vanity also came into play; for those who were used to seeing a more flattering version of themselves rendered in painting, the stark precision of the daguerreotype could be an unpleasant reality check.
 
-<img style="width: 500px; height: 350px;" src="/images/Vol-15-issue-3/daguerreotypes-to-dry-plates/Daguerreotypes8.JPG">
-<div style="background-color: white;">Two Indian men at a fruit stall from the Sachtler & Co. album, Views and Types of Singapore, 1863, in the collection of the National Library. <i>Lee Kip Lin Collection. All rights reserved, Lee Kip Lin and National Library Board, Singapore.</i></div>
-
 #### **A New Method**
 
 The daguerreotype was eventually superseded by the wet-plate collodion process, which produced a negative image on a glass plate. Invented in 1851 by the British amateur photographer Frederick Scott Archer, the wet-plate process was the most popular photographic method from the mid-1850s to the 1880s.
@@ -96,11 +93,6 @@ Edward A. Edgerton, a former lawyer from America, is credited for introducing th
 
 Initially operating from his residence on Stamford Road, Edgerton entered into a partnership with a certain Alfeld, and the studio relocated across the road to 3 Armenian Street by May 1858. A year later, however, Edgerton moved on to run another studio at Commercial Square. By 1861, he was no longer in the trade and had become editor of the *Singapore Review and Monthly Magazine*. Unfortunately, as far as we know, none of Edgerton’s works have survived the passage of time.
 
-<img src="/images/Vol-15-issue-3/daguerreotypes-to-dry-plates/Daguerreotypes9.JPG"><br>
-
-<img src="/images/Vol-15-issue-3/daguerreotypes-to-dry-plates/Daguerreotypes10.JPG">
-<div style="background-color: white;">John Thomson’s four-part panorama of the Singapore River, produced in the early 1860s, using the wet-plate collodion method. Each can be viewed as a separate photograph or put together to form a single panorama. The photographs do not join up seamlessly as each image was shot separately. <i>Courtesy of Mr and Mrs Lee Kip Lee.</i></div>
-
 #### **Pioneering Commercial Studios**
 
 Other photographers soon set up shop in the wake of Edgerton’s short-lived venture. These include Thomas Heritage, formerly from London, who came to Singapore after completing work in Penang. He opened his studio at 3 Queen Street on 20 August 1860, and is listed in the *Straits Directory* of 1861 and 1862; French photographer O. Regnier, whose studio at Hotel l’Esperance is listed in the *Straits Directory* of 1862; and Lee Yuk at Teluk (Telok) Ayer Street, who is also listed in the 1862 *Straits Directory*. These studios operated in Singapore for a short period only.
@@ -111,10 +103,12 @@ The two formed a partnership called Thomson Brothers. With Singapore as his base
 
 One of John Thomson’s significant works on Singapore is the four-part panorama of the Singapore River that he produced in the early 1860s. Using the wet-plate collodion method, Thomson created four separate exposures that could be aligned to form a single panorama, with each retaining its appeal as an individual photograph.
 
-A contemporary of the Thomson Brothers was Sachtler & Co., which was most likely established in 1863 and came to dominate commercial photography in Singapore for a decade.[^24] The identity of Sachtler & Co.’s original proprietor remains a mystery. By July 1864, however, the business had been taken over by a German, August Sachtler, in partnership with Kristen Feilberg. Sachtler was a telegrapher by profession, but his exposure to photography during an assignment to Japan in 1860 led to a change in career.[^25]
+<img src="/images/Vol-15-issue-3/daguerreotypes-to-dry-plates/Daguerreotypes9.JPG"><br>
 
-<img style="width: 350px; height: 450px;" src="/images/Vol-15-issue-3/daguerreotypes-to-dry-plates/Daguerreotypes11.JPG">
-<div style="background-color: white;">An Indian man dressed in the traditional kurta. Image reproduced from the Sachtler & Co. album, <i>Views and Types of Singapore, 1863</i>, in the collection of the National Library. As the emulsion used was much more sensitive to blue light, cooler colours registered more quickly and appeared lighter, while warm colours took a longer time and appeared dark. This difference explains why parts of the photographs look overexposed. <i>Lee Kip Lin Collection. All rights reserved, Lee Kip Lin and National Library Board, Singapore.</i></div>
+<img src="/images/Vol-15-issue-3/daguerreotypes-to-dry-plates/Daguerreotypes10.JPG">
+<div style="background-color: white;">John Thomson’s four-part panorama of the Singapore River, produced in the early 1860s, using the wet-plate collodion method. Each can be viewed as a separate photograph or put together to form a single panorama. The photographs do not join up seamlessly as each image was shot separately. <i>Courtesy of Mr and Mrs Lee Kip Lee.</i></div>
+
+A contemporary of the Thomson Brothers was Sachtler & Co., which was most likely established in 1863 and came to dominate commercial photography in Singapore for a decade.[^24] The identity of Sachtler & Co.’s original proprietor remains a mystery. By July 1864, however, the business had been taken over by a German, August Sachtler, in partnership with Kristen Feilberg. Sachtler was a telegrapher by profession, but his exposure to photography during an assignment to Japan in 1860 led to a change in career.[^25]
 
 Located on High Street near the Court House, Sachtler & Co. offered photography services with the images mounted on a wide variety of the latest frames and albums imported from England, as well as a ready selection of Singapore-made photographs. In 1865, a branch studio, Sachtler & Feilberg (a partnership between Hermann Sachtler, presumably August’s brother, and Feilberg), opened in Penang. Feilberg went on to start his own practice in 1867, and Hermann Sachtler returned to Singapore by 1869.
 
@@ -124,21 +118,30 @@ In 1871, Sachtler & Co. relocated to Battery Road before returning to High Stree
 
 Held in the National Library of Singapore is an album by Sachtler & Co. titled *Views and Types of Singapore, 1863*, containing 40 albumen prints that make up the oldest photographic material in the library’s collection. As the title indicates, the album features picturesque scenes (“views”) of the settlement and portraits of its diverse inhabitants (ethnographic “types”).
 
+<img style="width: 300px; height: 400px;" src="/images/Vol-15-issue-3/daguerreotypes-to-dry-plates/Daguerreotypes11.JPG">
+<div style="background-color: white;">An Indian man dressed in the traditional kurta. Image reproduced from the Sachtler & Co. album, <i>Views and Types of Singapore, 1863</i>, in the collection of the National Library. As the emulsion used was much more sensitive to blue light, cooler colours registered more quickly and appeared lighter, while warm colours took a longer time and appeared dark. This difference explains why parts of the photographs look overexposed. <i>Lee Kip Lin Collection. All rights reserved, Lee Kip Lin and National Library Board, Singapore.</i></div>
+<br>
+<img style="width: 500px; height: 350px;" src="/images/Vol-15-issue-3/daguerreotypes-to-dry-plates/Daguerreotypes8.JPG">
+<div style="background-color: white;">Two Indian men at a fruit stall from the Sachtler & Co. album, <i>Views and Types of Singapore, 1863</i>, in the collection of the National Library. <i>Lee Kip Lin Collection. All rights reserved, Lee Kip Lin and National Library Board, Singapore.</i></div>
+<br>
+<img style="width: 350px; height: 450px;" src="/images/Vol-15-issue-3/daguerreotypes-to-dry-plates/Daguerreotypes12.JPG">
+<div style="background-color: white;">A man in jacket, pants and <i>samping</i> (a type of short waist wrap or sarong worn by men over their trousers), and a girl in baju kurong. <i>Image reproduced from the Sachtler & Co. album, Views and Types of Singapore, 1863, in the collection of the National Library. Lee Kip Lin Collection. All rights reserved, Lee Kip Lin and National Library Board, Singapore.</i></div>
+
 Bearing in mind the inconvenience of the wet-plate process, it is no surprise that photographs during this period tended to be produced in the studio, or if taken outdoors, were of stationary or posed subjects. Portraiture, landscape and architectural views were the norm, as the album amply demonstrates. These were the stock-in-trade of European photographic studios, and served as a visual representation of the exotic “Far East” for a predominantly Western audience.
 
 #### **The Boom and Bust Years**
 
 The closure of Sachtler & Co. left a gap that another photographic studio, G.R. Lambert & Co., rose to fill and in fact surpass. G.R. Lambert & Co. was established at 1 High Street by Gustave Richard Lambert from Dresden, Germany, on 10 April 1867. The first mention of the studio was in an advertisement placed in *The Singapore Daily Times* on 11 April 1867.[^27] The next reference to Lambert’s presence in Singapore appeared in the 19 May 1877 edition of *The Straits Times*, announcing his return from Europe, and the opening of his new studio at 30 Orchard Road.[^28]
 
-<img style="width: 350px; height: 450px;" src="/images/Vol-15-issue-3/daguerreotypes-to-dry-plates/Daguerreotypes12.JPG">
-<div style="background-color: white;">A man in jacket, pants and <i>samping</i> (a type of short waist wrap or sarong worn by men over their trousers), and a girl in baju kurong. Image reproduced from the Sachtler & Co. album, Views and Types of Singapore, 1863, in the collection of the National Library. <i>Lee Kip Lin Collection. All rights reserved, Lee Kip Lin and National Library Board, Singapore.</i></div>
+<img style="width: 350px; height: 450px;" src="/images/Vol-15-issue-3/daguerreotypes-to-dry-plates/Daguerreotypes13.JPG">
+<div style="background-color: white;">Portrait of Gustave Richard Lambert, 1894. He established G.R. Lambert & Co. at 1 High Street on 10 April 1867. <i>Image reproduced from Cheah, J.S. (2006). Singapore: 500 Early Postcards (p. 9). Singapore: Editions Didier Millet. (Call no.: RSING 769.56609595).</i></div>
 
 It is difficult to assess Lambert’s own photographic contributions due to the scarcity of surviving works from the period when he managed the firm in the late 1870s until the mid-1880s, coupled with his sporadic presence in Singapore. Lambert travelled to Bangkok in late 1879 to expand the firm’s photographic collection, returning in February 1880. It was during this visit that G.R. Lambert & Co. was appointed the official photographer to the King of Siam. With Lambert away for much of 1881 and 1882, the firm was overseen by its managing partner, J.C. Van Es. By 1882, G.R. Lambert & Co. had also become the appointed official photographer to the Sultan of Johor. The studio shifted to 430 Orchard Road by 1883.
 
-Lambert returned to Europe by 1887, leaving the business in the capable hands of a fellow German, Alexander Koch, who joined the firm as an assistant in 1884, and was made partner in 1886. The studio moved to 186 Orchard Road in 1886. Koch would prove to be the man behind the stellar rise of the firm. Over the next two decades, G.R. Lambert & Co. expanded its business, opening another office at Gresham House on Battery Road in 1893, and at various times maintained overseas branches in Sumatra, Bangkok and Kuala Lumpur.
+<img style="width: 550px; height: 350px;" src="/images/Vol-15-issue-3/daguerreotypes-to-dry-plates/Daguerreotypes18.JPG">
+<div style="background-color: white;">The interior of G.R. Lambert & Co. studio at Gresham House on Battery Road, which opened in 1893. <i>Image reproduced from Wright, A., & Cartwright, H.A. (Eds). (1908). 20th Century Impressions of British Malaya: Its History, People, Commerce, Industries, and Resources (p. 704). London: Lloyd’s Greater Britain Publishing Company, Limited. Collection of the National Library, Singapore. (Accession no.: B29032399D).</i></div>
 
-<img style="width: 350px; height: 450px;" src="/images/Vol-15-issue-3/daguerreotypes-to-dry-plates/Daguerreotypes13.JPG">
-<div style="background-color: white;">Portrait of Gustave Richard Lambert, 1894. He established G.R. Lambert & Co. at 1 High Street on 10 April 1867. <i>Image reproduced from Cheah, J.S. (2006). Singapore: 500 Early Postcards (p. 9). Singapore: Editions Didier Millet. (Call no.: RSING 769.56609595).</i></div>
+Lambert returned to Europe by 1887, leaving the business in the capable hands of a fellow German, Alexander Koch, who joined the firm as an assistant in 1884, and was made partner in 1886. The studio moved to 186 Orchard Road in 1886. Koch would prove to be the man behind the stellar rise of the firm. Over the next two decades, G.R. Lambert & Co. expanded its business, opening another office at Gresham House on Battery Road in 1893, and at various times maintained overseas branches in Sumatra, Bangkok and Kuala Lumpur.
 
 This period coincided with the widespread adoption of the gelatin dry-plate process – invented in 1871 – which enhanced photographic production. Unlike the wet-plate technique, the glass plate could now be coated, dried and stored for later use, and need not be developed immediately upon exposure. Compared to collodion, the gelatin emulsion was more sensitive, opening up the possibility of capturing motion. Such technical breakthroughs helped expand the photographer’s repertoire to include fast-moving human figures and objects. Imagine a photograph of a street scene where pedestrians and traffic no longer disappear into a wispy blur, but have a distinct presence, their movements frozen in time.
 
@@ -148,6 +151,9 @@ The advent of mass travel at the turn of the 19th century brought new opportunit
 <div style="background-color: white;">A Chinese barber. <i>Image reproduced from Lambert, G.R. (1890). Fotoalbum Singapur. Singapore: G.R. Lambert. Collection of the National Library, Singapore. (Accession no.: B18975148J).</i></div>
 
 By the early 20th century, G.R. Lambert & Co. was lauded as “the leading photographic artists of Singapore [with] a high reputation for artistic portraiture”. It had “one of the finest collections [of landscapes] in the East, comprising about three thousand subjects, relating to Siam, Singapore, Borneo, Malaya, and China”.[^30]
+
+<img src="/images/Vol-15-issue-3/daguerreotypes-to-dry-plates/Daguerreotypes16.JPG">
+<div style="background-color: white;">The Boustead Institute at the junction of Tanjong Pagar and Anson roads (left) and returning from a tiger hunt (right). <i>Images reproduced from Lambert, G.R. (1890). Fotoalbum Singapur. Singapore: G.R. Lambert. Collection of the National Library, Singapore. (Accession no.: B18975148J).</i></div>
 
 Although advances in photography made G.R. Lambert & Co. the most prolific studio, technology also came to place the tools of a photographer’s trade in the hands of laymen. The growth of amateur photography chipped away at the firm’s revenue, and perhaps as a sign of things to come, G.R. Lambert & Co. gave up its studio at 186 Orchard Road in 1902, downsizing to smaller premises at 3A Orchard Road. Koch retired in 1905, and the firm’s fortunes continued to decline in subsequent years, with its picture postcard trade disrupted by the outbreak of World War I (1914–18) in Europe. Ironically, it was the popularity of picture postcards that had cannibalised its sale of photographic prints in the first place.
 
@@ -160,15 +166,6 @@ The palm-fringed beach at Tanjong Katong by G.R. Lambert & Co, 1890s. Located in
 #### **An Incomplete Picture**
 
 The story thus far constitutes a series of snapshots, a quick survey of the milestones and key movers in the history of photography in 19th-century Singapore. It is, unsurprisingly, a narrative dominated by European photographic studios, which left documentary evidence of their presence, and whose extensive work make up some of the most valuable early visual records of the settlement.
-
-<img style="width: 550px; height: 350px;" src="/images/Vol-15-issue-3/daguerreotypes-to-dry-plates/Daguerreotypes16.JPG">
-<div style="background-color: white;">The Boustead Institute at the junction of Tanjong Pagar and Anson roads. <i>Image reproduced from Lambert, G.R. (1890). Fotoalbum Singapur. Singapore: G.R. Lambert. Collection of the National Library, Singapore. (Accession no.: B18975148J).</i></div>
-<br><br>
-<img style="width: 550px; height: 350px;" src="/images/Vol-15-issue-3/daguerreotypes-to-dry-plates/Daguerreotypes17.JPG">
-<div style="background-color: white;">Returning from a tiger hunt. <i>Image reproduced from Lambert, G.R. (1890). Fotoalbum Singapur. Singapore: G.R. Lambert. Collection of the National Library, Singapore. (Accession no.: B18975148J).</i></div>
-<br><br>
-<img style="width: 550px; height: 350px;" src="/images/Vol-15-issue-3/daguerreotypes-to-dry-plates/Daguerreotypes18.JPG">
-<div style="background-color: white;">The interior of G.R. Lambert & Co. studio at Gresham House on Battery Road, which opened in 1893. <i>Image reproduced from Wright, A., & Cartwright, H.A. (Eds). (1908). 20th Century Impressions of British Malaya: Its History, People, Commerce, Industries, and Resources (p. 704). London: Lloyd’s Greater Britain Publishing Company, Limited. Collection of the National Library, Singapore. (Accession no.: B29032399D).</i></div>
 
 As these European studios faded from the scene in the early 20th century, it paved the way for Asian players to take their place in the interwar period. To give a sense of the new situation, the census of 1921 counted 171 photographers comprising 109 Chinese, 52 “others” (Japanese, Siamese, Sinhalese, Arabs or Asiatic Jews), six Malays, three Indians and only one European.
 
@@ -191,7 +188,7 @@ Some research has been done and continue to be carried out on Asian photographer
 [^6]:The doctor in question might have been Dr Wright, a junior doctor on board the American ship, *USS Constellation*, which docked in Singapore from 4 November 1841 to 5 February 1842. According to a private letter from Mrs Maria Balestier (wife of Joseph Balestier, the first American consul in Singapore) to her sister, the doctor produced a “daguerreotype drawing” of the Balestiers’ home in the Rochor area. See Hale, R. (2016). [*The Balestiers: The first American residents of Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202373295) (p. 156). Singapore: Marshall Cavendish Editions. (Call no.: RSING 959.57030922 HAL).
 [^7]:Falconer, J. (1987). [*A vision of the past: A history of early photography in Singapore and Malaya*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4368234) (p. 9). Singapore: Times Editions. (Call no.: RSING 779.995957 FAL).
 [^8]:[Abdullah](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13606908), 2009, p. 296.
-[^9]:The Lagrené mission, as it came to be known, resulted in the Treaty of Whampoa signed on 24 October 1844, which secured for France the same privileges extended to Britain. See Massot, G. (2015, November). [Jules Itier and the Lagrené Mission](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203235478). *History of Photography, 39*(4), 319–347, p. 320. (Call no.: RCLOS 770.92 MAS).
+[^9]:The Lagrené mission, as it came to be known, resulted in the Treaty of Whampoa signed on 24 October 1844, which secured for France the same privileges extended to Britain. See Massot, G. (2015, November). [Jules Itier and the Lagrené Mission](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203235478). *History of Photography, 39* (4), 319–347, p. 320. (Call no.: RCLOS 770.92 MAS).
 [^10]:According to Itier’s published account of the trip, *Journal d’un Voyage en Chine en 1843, 1844, 1845, 1846*, the daguerreotype of Thian Hock Keng was made on 6 July 1844, which places it as the earliest dated photograph of Asia. See [Massot](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203235478), Nov 2015, pp. 323, 346.
 [^11]:[Massot](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203235478), Nov 2015, pp. 320–324, 346.
 [^12]:The street on which the house stood was later named after Coleman. Coleman’s house was located at 3 Coleman Street where the Peninsula Shopping Centre now stands. See [London Hotel](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18420113-1.2.2.2). (1842, January 13). *The Singapore Free Press and Mercantile Advertiser*, p. 1. Retrieved from NewspaperSG.

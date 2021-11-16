@@ -28,11 +28,11 @@ What “Going Places” does hope to ultimately achieve is to provide Singaporea
 
 <i>But this lion of the sea <br>Salt-maned, scaly, wondrous of tail, <br>Touched with power, insistent <br>On this brief promontory... <br>Puzzles.</i>
 
-<div style="text-align:right;">– “Ulysses By The Merlion”, Edwin Thumboo</div>
+<div style="text-align:right;">– “*Ulysses By The Merlion*”, Edwin Thumboo</div>
 
 <i>I am the scion of a wealthy race. <br>I wear the silver armour of my moneyed people.</i>
 
-<div style="text-align:right;">– “The Merlion To Ulysses”, Lee Tzu Pheng</div>
+<div style="text-align:right;">– “*The Merlion To Ulysses*”, Lee Tzu Pheng</div>
 
 All the poems featured in the exhibition are accompanied by the voice recordings of the poets reading their work(s) and recounting the occasional inside-story behind the poem. While the memories may be specific to the poets themselves, the ideas and histories of the places that they mention undeniably form a part of who we are as Singaporeans whether we choose to accept it or not. Places such as Chinatown, with its contrasts between new and old, “authentic” and “artificial”, form a part of our multifarious <i>“rojak culture”</i> as described by Terence Heng. 
 
@@ -42,7 +42,7 @@ While the visual aspect of the exhibition may invoke feelings of displacement an
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-1/goingplace/chinatown.jpg">
+<img style="width:70%" src="/images/vol-10-issue-1/goingplace/chinatown.jpg">
 Chinatown in 1998. <i>Image courtesy of Terence Heng.</i></div>
 
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> 

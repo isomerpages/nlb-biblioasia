@@ -39,13 +39,13 @@ When I was five, I was with my father at home one day. Suddenly, he fell over sa
 <br><br>
 I was scared that day when the priest came. My mum spoke to me and my younger brother; she said she had to work, and I had to be cared for in the convent. So that was it, I accepted it and I went. It was fearful for a five-year-old girl to be separated from her mother. But somehow, you grow up very fast. 
 <br><br>
-"The training that I have, and the experience, helps me to help other people. I’ve been there; I know and I understand."
+The training that I have, and the experience, helps me to help other people. I’ve been there; I know and I understand.
 <br><br>
 Later on I became a nurse. It was while I was attached to the intensive care unit that my loved one was diagnosed with childhood cancer. 
 <br><br>
 He passed on nine months into his diagnosis. I thought at the time that I didn’t want to return to nursing. But the same good friend who had encouraged me to join nursing counselled me and said that I had to move on, and that nursing was a wonderful career I should not give up.
 <br><br>
-"I don’t think I would ever think of anything but being a nurse. "
+I don’t think I would ever think of anything but being a nurse.
 <br><br>
 Eventually in 2000 I was made to run the paediatric ward, which included the oncology ward. It was filled with children who had cancer. 
 <br><br>
@@ -73,7 +73,7 @@ I remember I had to collect the cheque from the SLA office in Shenton Way. When 
 <br><br>
 This incident hit me very hard. I felt like an alien in my own country.
 <br><br>
-"I thought, “I’m young and supposed to be a pillar of society, but there I am, unable to read a simple thing like a street sign!” "
+I thought, “I’m young and supposed to be a pillar of society, but there I am, unable to read a simple thing like a street sign!” 
 <br><br>
 From then on, I strove to learn all the words I came across. I started with novels, but moved on to Chinese history books to learn more rare and difficult words. I also read the subtitles on TV programmes to learn new words. 
 <br><br>
@@ -97,7 +97,7 @@ I witnessed my sister being shot three times in her head. She was 21, and for so
 <br><br>
 I can never forget that scene and I have hated them ever since. 
 <br><br>
-"It was quite common for such things to happen then. Many families were torn apart, like mine. We drifted from one place to another. "
+It was quite common for such things to happen then. Many families were torn apart, like mine. We drifted from one place to another.
 <br><br>
 <img style="width:70%" src="/images/vol-11-issue-1/lifestories/DSC05937_Zhou_Jiang_Vinson_Phua.jpg">
 	Portrait of Chew Chiang Tong. <i>Courtesy of Vinson Phua</i>.
@@ -115,6 +115,7 @@ I retired in 2000 and nowadays I volunteer twice a week at the Resident Committe
 <img style="width:70%" src="/images/vol-11-issue-1/lifestories/DSC05937_Zhou_Jiang_Vinson_Phua1.jpg">
 <i>Courtesy of Vinson Phua</i>.</span>
 
+<img style="width:100px;height:100px;margin-bottom:-30px;" src="/images/vol-11-issue-1/lifestories/georgina.jpg">
 <p style="font-size:15px;"><b>Georgina Wong</b> is an Associate with the Exhibitions and Curation department at the National Library of Singapore. She is the curator of the exhibition “Greatest Gift of a Generation: Life Stories” – to be launched at the Woodlands Regional Library in late May 2015.</p>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-11/issue-1/Apr-jun-2015/"><center>Back to Issue</center></a>

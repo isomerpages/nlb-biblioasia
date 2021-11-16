@@ -4,10 +4,17 @@ collections:
     order:
       - art.md
       - culture.md
+      - Film.md
       - food.md
       - governance.md
       - literature.md
       - medicine.md
       - nature-and-the-environment.md
       - people.md
-      - places-and-buildings.md
+      - Places and Buildings/.keep
+      - Places and Buildings/Architecture.md
+      - Places and Buildings/Housing.md
+      - Places and Buildings/Leisure.md
+      - Places and Buildings/Worship.md
+      - Places and Buildings/More Places and Buildings.md
+      - Theatre.md

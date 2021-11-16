@@ -4,6 +4,7 @@ date: 2020-04-01T00:00:00.000Z
 breadcrumb: Mad Dogs and Englishmen
 permalink: /vol-16/issue-1/apr-jun-2020/mad-dogs
 third_nav_title: Mad Dogs and Englishmen
+image: /images/Vol-16-issue-1/mad-dogs/lady-with-dog.jpg 
 ---
 
 <style>

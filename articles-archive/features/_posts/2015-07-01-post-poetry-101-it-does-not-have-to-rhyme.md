@@ -28,11 +28,11 @@ In addition, the National Library Building on Victoria Street will also dress th
 
 The poems were curated by NLB’s librarians and given the nod of approval by a selection committee chaired by Professor Edwin Thumboo, director of The Centre for the Arts, National University of Singapore. Included in the selection of poems are humorous, moving, poignant and thought-provoking ones on life, people and places in Singapore. 
 
-Poems such as “இருமொழிக் கல்வி” (“Bilingual Education”) by Mu Thangarasan and “Stop at Two” by Megadona shed light on the policies that Singapore adopted during its nation-building years, while “ஜூர�ொங்” (“Jurong”) by Patheral Ilamaran and “துறைமுக நொடு” (“Harbour”) by I. Ulaganathan celebrate Singapore’s economic achievements.
+Poems such as “இருமொழிக் கல்விி” (“Bilingual Education”) by Mu Thangarasan and “Stop at Two” by Megadona shed light on the policies that Singapore adopted during its nation-building years, while “ஜூரோங்” (“Jurong”) by Patheral Ilamaran and “துறைமுக நாடுு” (“Harbour”) by I. Ulaganathan celebrate Singapore’s economic achievements.
 
 High economic growth and rapid urbanisation in Singapore over the years have resulted in myriad challenges for the city state, including the loss of its natural environment and cultural heritage. Many places and landmarks that older Singaporeans are familiar with are no longer around. Instead, taking over their places are gleaming glass-and-steel skyscrapers that tower over the city.
 
-Singapore’s changing social and physical landscapes, along with the feelings of loss and despair over these changes, are depicted in poems such as《街变》(“Street”) by Zhou Can (周粲), 《看不见的节》(“Tekka”) by Dong Nong Zheng (董农政), “�ொபவின்சன ்சொறைக் குழநறதைகள்” (“The Children of Robinson Road”) by K. T. M. Iqbal and “Change Alley” by Boey Kim Cheng:
+Singapore’s changing social and physical landscapes, along with the feelings of loss and despair over these changes, are depicted in poems such as《街变》(“Street”) by Zhou Can (周粲), 《看不见的节》(“Tekka”) by Dong Nong Zheng (董农政), “ராபின்சன் சாலைக்  குழந்தைகள்” (“The Children of Robinson Road”) by K. T. M. Iqbal and “Change Alley” by Boey Kim Cheng:
 
 Alley of change utterly changed.<br>The name of the place names<br>The lost decades, the places and times <br>Gone with our belongings, migrated <br>To the country of changelessness
 
@@ -54,7 +54,7 @@ Even if I need to sell out all my belongings <br>I still would like to kiss on <
 
 <i>Translation courtesy of The Milky Way Publishing (银河出版社)</i>
 
-Even poems that are not specifically about food weave in some mention of our local cuisine: “Mencari Seorang Pemimpin”? (“Looking for a Leader?”) describes the <i>prata</i> sold along the streets of Joo Chiat,《街变》(“Change”) bemoans the loss of street stalls that used to hawk <i>wanton mee</i> and sweet potato soup, while “்சங்க�ம்” (“Confluence”) makes a passing reference to fish head curry and coconut chutney.
+Even poems that are not specifically about food weave in some mention of our local cuisine: “Mencari Seorang Pemimpin”? (“Looking for a Leader?”) describes the <i>prata</i> sold along the streets of Joo Chiat,《街变》(“Change”) bemoans the loss of street stalls that used to hawk <i>wanton mee</i> and sweet potato soup, while "சங்கமம்” (“Confluence”) makes a passing reference to fish head curry and coconut chutney.
 
 “Poetry on Platforms” will take place at City Hall MRT station from 16 July to 13 August 2015 to coincide with the National Day celebrations. All the poems featured in the exhibition will be compiled in a publication entitled <i>SingaPoetry: An Anthology of Poems on Singapore</i>. The book will be available at all libraries in August 2015. 
 

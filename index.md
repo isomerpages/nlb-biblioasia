@@ -18,6 +18,15 @@ sections:
       button: Read the current issue
       url: /vol-17/issue-3/oct-dec-2021/
   - infopic:
+      title: "French Impressions "
+      subtitle: Diard & Duvaucel
+      description: A little-known collection of drawings from 1818 to 1820 sheds light
+        on the early study of the region’s flora and fauna.
+      button: Read more
+      url: /vol-17/issue-4/jan-mar-2022/diardduvaucel
+      image: /images/vol-17-issue-4/diard-duvaucel/monkey%20BA%20cover.jpg
+      alt: Image alt text
+  - infopic:
       title: "Singapore Comics: Panels Past and Present"
       subtitle: highlights
       button: Read more

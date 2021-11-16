@@ -33,7 +33,7 @@ Throughout history, every culture has made books, or the equivalent of what pass
 
 Over the last century, industrial production has steadily replaced traditional handmade means of book making. What is interesting, however, is that while modern technology and the invention of the printing press have made it possible to produce books more efficiently and in large quantities, there are places in the world where books are still being made by hand, using natural resources and time-honoured techniques passed down from one generation to another.
 
-In parts of India, there is a strong tradition of products made by traditional crafts people using simple, indigenous tools. The range of Indian art and handicrafts is as rich and varied as the people who live in the subcontinent. Despite the march of time, the unique craft of handmade books is still very much alive in India today. <i>The Night Life of Trees, In the Dark and The Very Hungry Lion</i> are some examples of handmade books from India, using paper made from a mixture of cotton cloth remnants, tree bark, rice husks or grass.
+In parts of India, there is a strong tradition of products made by traditional crafts people using simple, indigenous tools. The range of Indian art and handicrafts is as rich and varied as the people who live in the subcontinent. Despite the march of time, the unique craft of handmade books is still very much alive in India today. <i>The Night Life of Trees, In the Dark</i> and <i>The Very Hungry Lion</i> are some examples of handmade books from India, using paper made from a mixture of cotton cloth remnants, tree bark, rice husks or grass.
 
 <i>The Night Life of Trees</i>, published in 2012, is a handmade book that reflects the art of three Gond (a Dravidian people who live in central India) artists: Ram Singh Urveti, Bhajju Shyam and Durga Bai. Painstakingly silk screened by hand, each spread showcases an intricate drawing of a sacred tree along with an explanation of its significance to the community. Each image is a tribute to the Gond community’s animist belief in trees, giving readers an insight into the spirituality of the Gond people, and their perception of nature and the cosmos. 
 
@@ -62,7 +62,7 @@ The beauty of woodblock prints can be seen in <i>Otogi-Banashi</i>, a bilingual 
 <img src="/images/vol-10-issue-1/folktales/Otogi_Banashi_open.jpg">
 The uniqueness of <i>Otogi-Banashi</i> lies in its accompanying miniature books and the book-within-a-book format. The miniature books contain only illustrations. The bigger book provides captions to the miniature books and an introductory essay to the history of toy books and woodblock prints.</div>
 
-The craft of toy books were originally created as playthings for Japanese children. Three Japanese folktales are featured in this volume: <i>The Old Man Who Makes the Flowers Bloom, Momotaro and KachiKachi Mountain</i>. The binding and outer slipcover for this particular volume is made of <i>chiyogami</i>, a traditional Japanese paper characterised by its hand-stencilled and block-printed patterns. 
+The craft of toy books were originally created as playthings for Japanese children. Three Japanese folktales are featured in this volume: <i>The Old Man Who Makes the Flowers Bloom, Momotaro</i> and <i>KachiKachi Mountain</i>. The binding and outer slipcover for this particular volume is made of <i>chiyogami</i>, a traditional Japanese paper characterised by its hand-stencilled and block-printed patterns. 
 
 For more recent works featuring woodblock prints, award-winning artist Keizaburo Tejima comes to mind. Born in 1935, he was one of the few Japanese artists working with the woodblock technique used in children’s books in the 1980s. His books were published in 1986 in North America where he gained recognition as a prominent author and illustrator. <i>Owl Lake</i> and <i>Fox’s Dream</i> were on the American Library Association (ALA)’s list of Children’s Notable Books, and the <i>New York Times</i> listed <i>Fox’s Dream</i> as one of 1987’s 10 best illustrated books. His books are still popular today.
 
@@ -119,7 +119,7 @@ The books featured in this article offer just a tiny sampling of the treasures a
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-10-issue-1/folktales/six_chinese_brother.jpg">
-An ancient Chinese tale of six brothers, each with a special trait, Six Chinese Brothers is popular legend that has been written and told in many variations – in some versions, there are 10 brothers instead of six. </div>
+An ancient Chinese tale of six brothers, each with a special trait, <i>Six Chinese Brothers</i> is popular legend that has been written and told in many variations – in some versions, there are 10 brothers instead of six. </div>
 
 <p style="font-size:15px;"><b>Lynn Chua</b> is a Senior Librarian with the National Library Board (NLB). She was in charge of developing the Asian Children’s Literature collection at the Woodlands Regional Library in 2012, and making the collection available to a range of users such as researchers, teachers, parents and students. She has also initiated programmes and led librarians in curating exhibitions that cultivated interest in reading and appreciation of Asian culture and heritage.</p>
 
@@ -127,9 +127,9 @@ An ancient Chinese tale of six brothers, each with a special trait, Six Chinese 
 
 #### **REFERENCES**
 
-Wolf, G. (1969). *[The very hungry lion: A folktale](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10354704)*. Madras: Tara Pub. (Call no.: JL 398.2 WOL)
+Wolf, G. (1969). *[The Very Hungry Lion: A Folktale](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10354704)*. Madras: Tara Pub. (Call no.: JL 398.2 WOL)
 
-The night life of trees. (2012) Chennai: Tara Books. (Call no.: RSING 398.368216053 SHY); <i>The night life of trees</i>. (2006). Chennai: Tara Books. (Not available in NLB holdings) 
+The Night Life of Trees. (2012) Chennai: Tara Books. (Call no.: RSING 398.368216053 SHY); <i>The night life of trees</i>. (2006). Chennai: Tara Books. (Not available in NLB holdings) 
 
 Tara Books. (n.d.). <i>Handmade book</i>. Retrieved from tara books website. 
 
@@ -137,7 +137,7 @@ Cheng, H.T. (1979). <i>Six Chinese brothers: An ancient tale</i>. New York: Holt
 
 Dayal, L.R. (1963). *[Princess Meera](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4347108)*. New Delhi: L.R. Dayal. (Call no.: RACL 398.210954 DAY)
 
-Marks, A. (2010). *[Japanese woodblock prints: Artists, publishers, and masterworks, 1680–1900](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13370721)*. Rutland, VT.: Tuttle Pub. (Call no.: RART 769.952 MAR)
+Marks, A. (2010). *[Japanese Woodblock Prints: Artists, publishers, and masterworks, 1680–1900](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13370721)*. Rutland, VT.: Tuttle Pub. (Call no.: RART 769.952 MAR)
 
 *[Pang tao = Flat peaches : eidht [i.e. eight] fairies festival](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4980799)*. [n.d.]. [Shanghai?: Publisher not identified]. (Call no.: RACL 398.20951 PAN)
 

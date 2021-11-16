@@ -8,12 +8,12 @@ layout: post
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-1/suratman/suratman.jpg">
-Suratman Markasan is considered as one of Singapore’s literary pioneers. Image courtesy of Tribute.sg, an initative by Esplanade – Theatres on the Bay.</div>
+<img  src="/images/vol-10-issue-1/suratman/suratman.jpg">
+Suratman Markasan is considered as one of Singapore’s literary pioneers. <i>Image courtesy of Tribute.sg, an initative by Esplanade – Theatres on the Bay</i>.</div>
 
 <i>And so everyone made the assumption that the news had been barred from publication, because it was feared that such news would have a negative impact on the development of the minds of the younger generation. The truth is, there are men of all natures. So there was yet another assumption that the reporting of such news had been prevented because it would have a negative impact on the development of the nation and its people, or more specifically, on the formation of mainstream thoughts and minds."</i>
 
-<div style="text-align:right;">Suratman Markasan, Penghulu(2012: 243)</div>
+<div style="text-align:right;">Suratman Markasan, *Penghulu*(2012: 243)</div>
 
 Suratman Markasan was born in 1930 in Pasir Panjang, Singapore. After completing his studies at Sultan Idris Training College (SITC) in Perak (Malaysia) in 1950, he joined the teaching service and in 1968 enrolled in Nanyang University, graduating three years later with a degree in Malay and Indonesian Studies. He was appointed as Assistant Director for Malay and Tamil studies at the Ministry of Education and following that, lectured at the Institute of Education until 1995. His literary career spans from the early 1950s right up to the present. In 1989, Suratman received the SEA Write Award from the Thai monarch[^1] and in 2010, was awarded Singapore’s prestigious Cultural Medallion for Literary Arts. 
 
@@ -48,14 +48,14 @@ In general, his works record the challenges and turbulence of urban life. He emb
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-1/suratman/relocation_of_malays.jpg">
+<img style="width:70%" src="/images/vol-10-issue-1/suratman/relocation_of_malays.jpg">
 Economic development in Singapore in the 1960s and 70s led to the relocation of Malays from their traditional community spaces. Pictured here are Malays living on one of the southern islands on public assistance welfare in 1961. <i>MITA collection, courtesy of National Archives of Singapore.</i></div>
 
 His literary works, firstly, present social commentaries on the Malay community, criticising what he feels to be undesirable actions or ideas. His creative works, both in prose and verse, are complemented by his essays on culture, religion and language. Secondly, Suratman presents himself as a family man, both as father and husband. Thirdly, his works affirm his spiritual and religious convictions. 
 
 Suratman often writes about themes commonly expressed by the Singapore Malay community. He attempts to engage his readers to think about the issues raised, encouraging them to contemplate their existential and social conditions. These issues include parental neglect, spiritual emptiness, cultural alienation, language deprivation, the plight of the poor, the leadership crisis in the Malay community and the mismanagement of mosques.[^7]
 
-His poetry considers several aspects of social memory such as his memory of physical spaces that used to be part of his life, and which have now disappeared. This is captured in his poem on his alma mater, Sultan Idris Training College. One recurring reference in his poems is Tun Seri Lanang Secondary School, a Malay-medium school whose establishment was a seen as a triumph for Malay education in Singapore. When the school was formed in 1963, Suratman described the joy he felt: “apparently Seri Lanang was born beside Kallang River/ all the Malays who were supportive were joyous” <i>(ternyata lahir Seri Lanang di tepi Sungai Kallang/ segala Melayu yang suka menatang gembira.)</i>[^8] But by 1989, these Malay-medium schools were closed as enrolment fell drastically, with Malay families preferring to send their children to English-medium schools instead. Suratman lamented: 
+His poetry considers several aspects of social memory such as his memory of physical spaces that used to be part of his life, and which have now disappeared. This is captured in his poem on his alma mater, Sultan Idris Training College. One recurring reference in his poems is Tun Seri Lanang Secondary School, a Malay-medium school whose establishment was a seen as a triumph for Malay education in Singapore. When the school was formed in 1963, Suratman described the joy he felt: “apparently Seri Lanang was born beside Kallang River/ all the Malays who were supportive were joyous” <i>(ternyata lahir Seri Lanang di tepi Sungai Kallang/ segala Melayu yang suka menatang gembira.)</i> [^8] But by 1989, these Malay-medium schools were closed as enrolment fell drastically, with Malay families preferring to send their children to English-medium schools instead. Suratman lamented: 
 
 negara Seri Lanang kian pudar di mata Mat layu / pelajar tinggal sedikit guru menjadi buntu / di sana sini orang bercakap Inggeris tentu / biar dianggap punya pelajaran tinggi / atau di kedai kopi yang tak memerlu degree / Melayu sudah lesap Inggeris belum lengkap / pada detik yang bernama 1987 / Tun Seri Lanang mengikuti jejak Sang Nila Utama / tak terduga tenggelam di Sungai Sejarahnya.[^9]
 
@@ -85,7 +85,7 @@ Ketika aku masih kecil / banyak yang aku tahu / kerana duniaku sesumpit kampungk
 
 As a little child / I knew a lot / as my world was as narrow as my village / the villagers were entrenched in my mind / I knew them all, not casually? / falling leaves can be caught by the eye
 
-Suratman is especially sensitive to junctures in Singapore’s history where social memory is both affirmed and denied. In “Balada Seorang Lelaki Di Depan Patung Raffles” (“The Ballad of a Man Before the Statue of Raffles”) Suratman describes a mad man who posed questions before the statue of Sir Stamford Raffles, founder of modern Singapore. The insane man who railed at the statue of Raffles can be seen as the representative of the indigenous man who became a victim of colonialism. In another poem, Suratman challenges the dominant historical narrative, reminding the reader that the victims of colonialism are his own people: 
+Suratman is especially sensitive to junctures in Singapore’s history where social memory is both affirmed and denied. In “<i>Balada Seorang Lelaki Di Depan Patung Raffles</i>” (“The Ballad of a Man Before the Statue of Raffles”) Suratman describes a mad man who posed questions before the statue of Sir Stamford Raffles, founder of modern Singapore. The insane man who railed at the statue of Raffles can be seen as the representative of the indigenous man who became a victim of colonialism. In another poem, Suratman challenges the dominant historical narrative, reminding the reader that the victims of colonialism are his own people: 
 
 Telah kukatakan seribu kali / kau menipu datukku hidup mati / kau merampas hartanya pupus rakus / kau bagikan kepada kawan lawan / kau dengar Raffles? Kau dengar? / seharusnya kau kubawa ke muka pengadilan.[^14]
 
@@ -113,11 +113,11 @@ The phenomenon of levelling down of cultural standards and excellence in our mod
 
 pahlawan Nila Utama kurang disanjung pendekar Melayu / penulis Seri Lanang berdiri termangu menunggu budak Melayu[^18]
 
-the warrior Nila Utama was hardly celebrated by Malay fighters / the writer Seri Lanang stood puzzled waiting for Malay student
+the warrior Nila Utama was hardly celebrated by Malay fighters / the writer Seri Lanang stood puzzled waiting for Malay students
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-1/suratman/large_body_of_work.jpg">
+<img style="width:70%" src="/images/vol-10-issue-1/suratman/large_body_of_work.jpg">
 Suratman has produced a large body of work, with themes that cover issues such as race and nationhood. <i>All rights reserved, National Library Board Singapore, 2014.</i></div>
 
 To build a future, moulding it to our needs and character requires a sense of place and being. 

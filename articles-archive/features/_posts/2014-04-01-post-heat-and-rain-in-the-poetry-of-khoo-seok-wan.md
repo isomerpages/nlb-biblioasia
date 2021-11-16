@@ -27,7 +27,7 @@ Singapore, known as “Sin Chew” or “Xingzhou” (星洲) in Khoo’s day, i
 
 The intense heat was, of course, a notable feature of Sin Chew‘s tropical climate, and Singapore was thus given the moniker “Yanzhou” (炎洲), meaning “hot island”. The heat was unbearable, especially in the absence of rain and modern conveniences such as electric fans and air-conditioning that we enjoy today. The Westerners living in Singapore felt the oppression of the weather, as did Khoo.[^3] He felt trapped and helpless as expressed in his poems, “nowhere to hide in the flaming heat”,[^4] using hyperboles such as the “boiling sea”, “scorching moon” and “burning river” to bring his experience to life:
 
-Bitterly hot for consecutive nights <br>The heat evaporates all water in every corner <br>Clear ripples shining the jade-green Nymphoides <br>The bright moon scorching red
+Bitterly hot for consecutive nights <br>The heat evaporates all water in every corner <br>Clear ripples shining the jade-green Nymphoides <br>The bright moon scorching red pearls
 
 苦热连宵甚，炎蒸遍水隅。 <br>清波明翠，月灼红珠。[^5]
 
@@ -71,9 +71,7 @@ The rain shows compassion after the prolonged heat <br>Feeling the shower in fro
 
 And amidst all this chill during and after the rain, it is alcohol that keeps the poet warm. He says, “How best to defend from the chill?/ Little sips of strong wine” (敌寒何物最？小酌有醇醪).[^21]
 
-Khoo’s poetry transcends time and space and vividly brings the weather conditions of late 19thand early 20thcentury Sin Chew to life. His tactile and realistic descriptions go beyond the visual, encompassing elements of sound, sight and touch.
-
-#### **Other Influence**
+#### **Other Influences**
 
 In the “rain” poems, other aspects of the poet are revealed, such as his Buddhist and Zen beliefs, both of which are common themes in his writing. These influences are also reflected in his work, for instance, while admiring lotus and bamboo in the garden after the rain he felt “this celebrated scene qualifies to be presented to Buddha”.[^22]
 
@@ -81,7 +79,10 @@ Some “rainy” poems relate to his life in his later years. Khoo’s poetry du
 
 Among these later works, we can sometimes sense his loneliness, such as in “Scene in the Rain” (《雨中即景》) where he celebrates having the company of poems in old age and sees himself as “[f]ortunate to have poems to expend the everlasting days/ not feeling the aged loneliness though retired and idle”.[^26]
 
-Khoo’s poetry transcends time and space and vividly brings the weather conditions of late 19thand early 20th-century Sin Chew to life. His tactile and realistic descriptions go beyond the visual, encompassing elements of sound, sight and touch. The beauty of traditional Chinese poetry shines through in Khoo’s works: the monotonous climate of the tropics is painted in glorious brushstrokes of colour and brought to life, exciting our senses, reminding us to be more sensitive to our surroundings and to engage nature in more visceral ways.
+Khoo’s poetry transcends time and space and vividly brings the weather conditions of late 19th- and early 20th-century Sin Chew to life. His tactile and realistic descriptions go beyond the visual, encompassing elements of sound, sight and touch. The beauty of traditional Chinese poetry shines through in Khoo’s works: the monotonous climate of the tropics is painted in glorious brushstrokes of colour and brought to life, exciting our senses, reminding us to be more sensitive to our surroundings and to engage nature in more visceral ways.
+
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;">
+All English translations for the poems and their titles were provided by the author.</span>
 
 <p style="font-size:15px;"><b>Ho Yi Kai</b> is a Senior Editor with World Scientific Publishing Co, Manager and Assistant Editor-in-Chief of World Century Publishing Corp, and the Assistant Director of Pioneers’ Memorial Hall. He obtained his BA from Peking University, and MA and PhD from Nanjing University. He was a researcher for the recent “Khoo Seok Wan: Poet and Reformist” exhibition organised by the National Library.</p>
 
@@ -117,7 +118,7 @@ National Library Board. (2021, March 22). *[Qiu Shuyuan biography](https://ereso
 
 [^9]: 《湿季》其一 , 见《丘菽园居士诗集》二编, 页46。
 
-[^1]:《岛上雨后,极目写怀》, 见《丘菽园居士诗集》初编卷六, 页14。
+[^10]:《岛上雨后,极目写怀》, 见《丘菽园居士诗集》初编卷六, 页14。
 
 [^11]:《连番雨》, 见《丘菽园居士诗集》二编, 页57。 [^12]:《冬首雨》, 见《丘菽园居士诗集》初编卷六, 页16。[^13]:《晴雨即事》, 见《丘菽园居士诗集》二编, 页22。 [^14]:《晴雨同时, 触目述怀,索痴禅开士和》, 同上, 页23。[^15]:《雨后极目》, 见《丘菽园居士诗集》初编卷二,  页18。[^16]:《夏日雨霁》, 见《丘菽园居士诗集》二编, 页7–8。
 
@@ -127,7 +128,9 @@ National Library Board. (2021, March 22). *[Qiu Shuyuan biography](https://ereso
 
 [^19]:《岛上雨后,极目写怀》, 见《丘菽园居士诗集》初编卷六,  页14。
 
-[^20]:《雨后感咏》其一, 见《丘菽园居士诗集》二编, 页42。 [^21]:《敌寒》, 同上,页57。
+[^20]:《雨后感咏》其一, 见《丘菽园居士诗集》二编, 页42。 
+
+[^21]:《敌寒》, 同上,页57。
 
 [^22]: 《小园雨过,起视荷竹,生趣盎然,漫赋一首》, 见《丘菽园居士诗集》初编卷二, 页11。
 

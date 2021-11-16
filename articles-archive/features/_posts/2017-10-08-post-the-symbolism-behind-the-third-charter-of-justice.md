@@ -1,12 +1,12 @@
 ---
-title: The Symbolism Behind The Third Charter of Justice
+title: The Symbolism Behind the Third Charter of Justice
 date: 2017-10-08
 permalink: /vol-13/issue-3/oct-dec-2017/third-charter-justice
 layout: post
 ---
 #### This legal document – issued by the colonial government in 1855 – is an integral part of Singapore’s constitutional history. **Kevin Khoo** explains the significance of its elaborate borders.
 
-<div style="background-color: white;"><br><img src="/images/Vol-13-issue-3/the-third-charter-of-justice/01_justice.png"></div>
+<div style="background-color: white;"><br><img src="/images/Vol-13-issue-3/the-third-charter-of-justice/01a_justice.jpg"></div>
 
 The roots of Singapore’s legal system can be traced back to the British colonial era, when English common law was first adopted. English law was first introduced to Malaya through a Royal Charter[^1] of Justice issued in Penang in 1807.
 
@@ -18,22 +18,23 @@ As a “letters patent” or public written order issued by the British Crown, t
 
 #### **The Royal Coat of Arms of the United Kingdom, 1855**
 
-<div style="background-color: white;"><img style="width:350px" src="/images/Vol-13-issue-3/the-third-charter-of-justice/02_justice.jpg"></div>
+<div style="background-color: white;"><br><img style="width:500px" src="/images/Vol-13-issue-3/the-third-charter-of-justice/02a_justice.jpg"></div>
 
 This royal coat of arms, which may only be used by the reigning monarch, takes centre stage at the top of the document. At the heart of the royal arms is a shield divided into four quadrants. The first and fourth quadrants each depict the three guardian lions that represent England, Normandy (northern France) and Aquitaine (southwestern France) – territories traditionally associated with the British Crown. The second contains a single lion rearing on its hind legs representing Scotland, while the third has a harp representing Ireland.
+
 Encircling the shield is a garter or belt with the French motto, *Honi soit qui mal y pense*, which translates as “Shame on whosoever thinks evil of it”. The shield is flanked by a lion crowned with a cross and a chained unicorn, which represent England and Scotland respectively. The lion is associated with Christianity and the virtues of Kingship – dauntless courage, valour, strength, justice and righteous power – while the unicorn symbolises the ideals of purity, grace and power.
 
 A crown, which represents the British monarchy, sits atop the shield with a small lion perched on it. Emblazoned on a banner at the base is a second French motto, *Dieu et Mon Droit*, which means “God and My Right”.[^2]
 
 #### **The Three Women of Antiquity**
 
-<div style="background-color: white;"><img style="width:350px" src="/images/Vol-13-issue-3/the-third-charter-of-justice/03_justice.jpg"></div>
+<div style="background-color: white;"><br><img style="width:500px" src="/images/Vol-13-issue-3/the-third-charter-of-justice/03a_justice.jpg"></div>
 
 On the top left corner of the document is an image of the three women of antiquity garbed in Greco-Roman attire. The first woman on the left holding a harp represents Hibernia, the Latin name for Ireland. In the middle is Britannia – wearing a Greek Corinthian helmet and bearing a shield and spear – who personifies the united kingdoms that form Great Britain. The last woman with a feathered cap represents Caledonia, the Latin name for Scotland.
 
 #### **The Three Victorian Women**
 
-<div style="background-color: white;"><img style="width:350px" src="/images/Vol-13-issue-3/the-third-charter-of-justice/04_justice.jpg"></div>
+<div style="background-color: white;"><br><img style="width:600px" src="/images/Vol-13-issue-3/the-third-charter-of-justice/04a_justice.jpg"></div>
 
 The three women on the top right corner – clothed in the fashion of the Victorian era – are allegorical figures representing abundant agriculture, peace and commerce. The woman on the left holding the sickle and sheaf of wheat represents a bountiful harvest, the woman in the middle wielding an olive branch symbolises peace and friendship, while the last woman with a shawl, sextant and compass represents wealth from the sea trade.
 
@@ -43,31 +44,31 @@ The four frames found along the left and right borders (two on each side) of the
 
 **Justice**
 
-<div style="background-color: white;"><img style="width:300px" src="/images/Vol-13-issue-3/the-third-charter-of-justice/06_justice.jpg"></div>
+<div style="background-color: white;"><br><img style="width:400px" src="/images/Vol-13-issue-3/the-third-charter-of-justice/06a_justice.jpg"></div>
 
 Lady Justice in the left hand border is blindfolded to denote her objectivity and impartiality. In her left hand, she holds a balance scale to weigh the merits and deficiencies of arguments laid before her. In her right hand, she is armed with a double-edged sword that represents the power of reason and justice.
 
 **Faith**
 
-<div style="background-color: white;"><img style="width:300px" src="/images/Vol-13-issue-3/the-third-charter-of-justice/07_justice.jpg"></div>
+<div style="background-color: white;"><br><img style="width:400px" src="/images/Vol-13-issue-3/the-third-charter-of-justice/07a_justice.jpg"></div>
 
 The image of faith in the right hand border is represented by a missionary holding a Christian cross and evangelising to a child kneeling in reverence and prayer. The image reflects the importance placed by the British monarchy on the patronage, defence and propagation of Christianity.
 
 **Arts and Humanities**
 
-<div style="background-color: white;"><img style="width:300px" src="/images/Vol-13-issue-3/the-third-charter-of-justice/08_justice.jpg"></div>
+<div style="background-color: white;"><img style="width:450px" src="/images/Vol-13-issue-3/the-third-charter-of-justice/08a_justice.jpg"></div>
 
 The depiction of individuals on the left hand border engaged in reading, painting and conversation represents culture, refinement and self-cultivation associated with the liberal arts and humanities.
 
 **Sciences and Exploration**
 
-<div style="background-color: white;"><img style="width:300px" src="/images/Vol-13-issue-3/the-third-charter-of-justice/09_justice.jpg"></div>
+<div style="background-color: white;"><img style="width:450px" src="/images/Vol-13-issue-3/the-third-charter-of-justice/09a_justice.jpg"></div>
 
 This scene in the right hand border representing the sciences and exploration shows scholars engaged in serious study, surrounded by instruments representing the scientific knowledge and navigational technologies of the time, such as a sextant, a telescope, a globe, a book and a chart.
 
 #### **The Angels**
 
-<div style="background-color: white;"><img style="width:350px" src="/images/Vol-13-issue-3/the-third-charter-of-justice/10_justice.jpg"></div>
+<div style="background-color: white;"><br><img style="width:450px" src="/images/Vol-13-issue-3/the-third-charter-of-justice/10b_justice.jpg"></div>
 
 The two angels in the left and right hand borders are depicted holding their arms up in support, indicating the divine favour bestowed upon the British monarchy. The angels represent divine power, glory, honour and dignity, and are also regarded as bearers of joyful news. The angel in the left hand border is holding up a wreath of acorns symbolising antiquity and strength, while the other angel is holding up a wreath of pomegranates, symbolising fertility and abundance.
 

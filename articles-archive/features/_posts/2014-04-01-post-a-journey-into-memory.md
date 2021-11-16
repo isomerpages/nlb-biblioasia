@@ -9,7 +9,7 @@ layout: post
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-10-issue-1/journey/A_Different_Sky.jpg">
-	<i>A Different Sky</i> was written by Meira Chand in 2010. Cover image courtesy of Meira Chand, published by Random House, UK</div>
+	<i>A Different Sky</i> was written by Meira Chand in 2010. <i>Cover image courtesy of Meira Chand, published by Random House, UK</i></div>
 
 The filmmaker Luis Bunuel wrote, “Memory is what makes our lives. Our memory is our coherence, our reason, our feeling, even our action. Without it, we are nothing.”[^1]
 
@@ -17,7 +17,7 @@ As a writer I know the importance of subconscious memory, a deep well into which
 
 In 2010 I published a new novel, <i>A Different Sky</i>. The novel is set in pre-independence Singapore and covers the era of colonial times, the bitter experiences of World War II, the Japanese occupation and the post-war struggle for independence. When I decided to embark on this book, I had not been long in Singapore and knew little of the region or culture. Yet, once a seed is sown within a writer’s head, it is difficult to dislodge.
 
-The first disquieting thing I discovered as I began my journey into <i>A Different Sky</i>was that I had no personal memory of the place I was writing about. I shared nothing of its history or its complex social structure. I had no larger memory shaped by the traumas and trivialities of childhood, by cultural uniqueness, no residue within me of family tales handed down by relatives, no gossip overheard, no ancestral village in China or India. I did not know the smells of a <i>kampong</i> or the taste of <i>laksa</i>. I did not have a great grandmother with bound feet; I had not hidden at the sound of soldiers during the war nor ridden in a rickshaw. I had never heard of a mosquito bus or received an <i>ang pao</i> at Chinese New Year.
+The first disquieting thing I discovered as I began my journey into <i>A Different Sky</i> was that I had no personal memory of the place I was writing about. I shared nothing of its history or its complex social structure. I had no larger memory shaped by the traumas and trivialities of childhood, by cultural uniqueness, no residue within me of family tales handed down by relatives, no gossip overheard, no ancestral village in China or India. I did not know the smells of a <i>kampong</i> or the taste of <i>laksa</i>. I did not have a great grandmother with bound feet; I had not hidden at the sound of soldiers during the war nor ridden in a rickshaw. I had never heard of a mosquito bus or received an <i>ang pao</i> at Chinese New Year.
 
 We are all surrounded by our own lives, by where we have been born and where we have travelled to, both geographically and emotionally. We have to survive our own histories if we are to write at all. The novelist writes not to escape life, but to pin it down, pulling it up into the light through the mysterious waters of memory. With Singapore, however, I was beached upon dry land. <i>A Different Sky</i> is a historical novel and this genre has its own special problems. A story and its characters may be fictional, but the reality of place, culture, a specific time in history and true events are all inflexible facts and cannot be altered, but have to be convincingly portrayed. Meticulous research is the key to attempting such conviction and I assiduously set about this job. I thrashed around for a long time talking to people, trawling through old newspapers of the time, reading memoir and history books – reading, reading, reading (and absorbing) – the words, the opinions, and the emotions of others.
 
@@ -43,6 +43,6 @@ Historical truth, as far as we can understand it, rests not only upon recorded f
 
 #### NOTES
 
-[^1]: Bunuel, L. (2013). My last sigh: The autobiography of Luis Bunuel (p. 2). London: Vintage. (Not available in NLB holdings)
+[^1]: Bunuel, L. (2013). <i>My last sigh: The autobiography of Luis Bunuel</i> (p. 2). London: Vintage. (Not available in NLB holdings)
 
-[^2]: Alvarez, A. (2005). The writer’s voice (p. 11). London: Bloomsbury. (Not available in NLB holdings)
+[^2]: Alvarez, A. (2005). <i>The Writer’s Voice</i> (p. 11). London: Bloomsbury. (Not available in NLB holdings)

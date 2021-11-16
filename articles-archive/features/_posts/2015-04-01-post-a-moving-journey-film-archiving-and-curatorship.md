@@ -79,9 +79,8 @@ These figures, including members from NETPAC (Network for the Promotion of Asian
 <br><br>
 Tan had the good fortune of acting as translator for the post-screening Q&amp;A sessions of the acclaimed Taiwan-based filmmaker Tsai Ming Liang. In their conversations, Tsai provoked Tan into thinking about archiving and its importance. “(Tsai) had problems with distribution, problems with keeping track of his own film prints,” recounts Tan. “Even for a very established filmmaker like Tsai Ming Liang, his works were rarely seen outside of film festivals.” This led to conversations with other Asian filmmakers such as award-winning Malaysian director U-Wei Haji Saari, who revealed that he stored the film prints of his acclaimed films himself, acknowledging that in a tropical environment, they would run the risk of being damaged.
 <br><br>
-Tan quickly recognised the challenges these Asian independent filmmakers faced. Not only did they have trouble raising money to produce their films, these works did not always receive the traction they deserved, denying audiences the opportunity to view them. Many films might not even survive the passage of time; in 2004, few Asian countries had their own national film archive, and those that existed did not function effectively. Without proper preservation facilities, it was clear to Tan that significant elements of Asian heritage and culture would be lost forever.</span>
-
-<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;">
+Tan quickly recognised the challenges these Asian independent filmmakers faced. Not only did they have trouble raising money to produce their films, these works did not always receive the traction they deserved, denying audiences the opportunity to view them. Many films might not even survive the passage of time; in 2004, few Asian countries had their own national film archive, and those that existed did not function effectively. Without proper preservation facilities, it was clear to Tan that significant elements of Asian heritage and culture would be lost forever.
+<br><br>
 <b>THE BASIS</b>
 <br><br>
 In the course of his research, Tan drew inspiration from the great work of the British Film Institute (BFI), Berkeley’s Pacific Film Archive and Asian film archives in Taiwan, Thailand and Hong Kong. International and regional film institutions such as the International Federation of Film Archives (FIAF) and the South East Asia-Pacific Audiovisual Archives Association (SEAPAVAA) offered further insight into the different models he could pursue.
@@ -90,38 +89,8 @@ Upon his return from India, Tan was pleasantly surprised to discover that there 
 <br><br>
 Tan envisioned that the archive would be situated in the context of a university, to be enjoyed not just for entertainment but as a form of art and for serious study, providing resources for research and academia. He also wanted to situate Singapore cinema in the wider context of Asian cinema – a film archive that would be Asian in its scope and focus.
 <br><br>
-Tan turned to his alma mater, NUS, and approached Chew Kheng Chuan, founding director of NUS’ Development Office and chairman of The Substation (Singapore), who supported Tan’s vision. He offered Tan not only his wealth of experience, but also office space within the NUS Development Office – the AFA’s first home.</span>
-
-
-<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;">
-<b>ABOUT THE AFA</b>
+Tan turned to his alma mater, NUS, and approached Chew Kheng Chuan, founding director of NUS’ Development Office and chairman of The Substation (Singapore), who supported Tan’s vision. He offered Tan not only his wealth of experience, but also office space within the NUS Development Office – the AFA’s first home.
 <br><br>
-The Asian Film Archive (AFA) is a charity that preserves Asia's rich film heritage in a permanent collection focusing on culturally important works by independent Asian filmmakers. It promotes a wider critical appreciation of Asia's cinematic works through organised community programmes, including screenings and talks.
-<br><br>
-AFA’s holdings include films of award-winning Filipino filmmakers such as Lino Brocka, Mike de Leon, Lav Diaz, and Malaysian filmmakers Amir Muhammad, U-Wei Haji Saari and Tan Chui Mui, among others. The Archive is also home to a collection of Cathay-Keris Malay Classics from the 1950s to 1970s that are part of the UNESCO Memory of The World Asia-Pacific Register, a list of endangered library and archive holdings.
-<br><br>
-The AFA’s collection is available for public reference at the library@ esplanade and through the AFA Channel on viddsee.com, an online portal that showcases the best of short films from Southeast Asia.
-<br><br>
-The AFA became a subsidiary of the National Library Board in January 2014.
-<br><br>
-<img  style="width:60%" src="/images/vol-11-issue-1/movingjourney/afas.jpg">10th anniversary logo of the Asian Film Archive.</span>
-
-<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;">
-<b>THE 19TH SEAPAVAA CONFERENCE</b>
-<br><br>
-Hosted by the AFA and supported by the National Library Board, Singapore, the 19th South East Asia-Pacific Audiovisual Archives Association (SEAPAVAA) Conference and General Assembly will take place from 22 to 28 April 2015. The week-long event at the National Library Building will feature a two-day symposium with concurrent sessions, institutional visits, Restoration Asia II (an event focusing on the restoration of films in Asia or about Asia), workshops, and an excursion. A total of 48 papers will be presented during the conference on topics such as archival advocacy, archival repatriation, professional development, repurposing of archives, technical, organisational and professional sustainability, and archives at risk. For more information, visit www. seapavaaconference.com. The theme for the 2015 SEAPAVAA conference is <i>Advocate. Connect. Engage.</i> This theme resonates closely with the thrust of AFA’s programmes and the three objectives contained in its mission statement – “To Save, Explore, and Share the Art of Asian Cinema”.
-<br><br>
-<img style="width:70%" src="/images/vol-11-issue-1/movingjourney/logo_w_titles.jpg"></span>
-
-
-<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;">
-<b>DIGITAL FILM RESTORATION</b>
-<br><br>
-Digital film restoration is a highly specialised and laborious process. It involves the complex use of technological software and equipment that are designed to ingest huge amounts of data. The simplified workflow diagram below gives an idea of the three main parts of digital film restoration – repair and cleaning; restoration and preservation; and access output.
-<br><br>
-<img style="width:70%" src="/images/vol-11-issue-1/movingjourney/process_re.jpg"></span>
-
-<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;">
 <b>THE BIRTH</b>
 <br><br>
 Tan approached his NUS schoolmate, filmmaker Kirsten Tan, with whom he had made films with when they were in nuSTUDIOS. Kirsten gave Tan her full support and joined him as a co-founder. He also approached Kenneth Paul Tan, an NUS political science professor at the time, and Kenneth Chan, an assistant professor at Nanyang Technological University’s (NTU) humanities school. Jacqueline Tan, a lecturer for the Film, Sound &amp; Video (FSV) course at Ngee Ann Polytechnic, and Straits Times journalist and film critic Ong Sor Fern rounded out the team, forming the first governing board of the AFA.
@@ -138,6 +107,35 @@ The AFA has since grown from strength to strength, expanding its collection, eng
 <br><br>
 <img style="width:70%" src="/images/vol-11-issue-1/movingjourney/SKP_0517.jpg">Tan Bee Thiam (right) presenting a token of appreciation to former president S.R. Nathan (left) in 2010. <i>Courtesy of the AFA.</i>
 </span>
+
+
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;">
+<b>ABOUT THE AFA</b>
+<br><br>
+The Asian Film Archive (AFA) is a charity that preserves Asia's rich film heritage in a permanent collection focusing on culturally important works by independent Asian filmmakers. It promotes a wider critical appreciation of Asia's cinematic works through organised community programmes, including screenings and talks.
+<br><br>
+AFA’s holdings include films of award-winning Filipino filmmakers such as Lino Brocka, Mike de Leon, Lav Diaz, and Malaysian filmmakers Amir Muhammad, U-Wei Haji Saari and Tan Chui Mui, among others. The Archive is also home to a collection of Cathay-Keris Malay Classics from the 1950s to 1970s that are part of the UNESCO Memory of The World Asia-Pacific Register, a list of endangered library and archive holdings.
+<br><br>
+The AFA’s collection is available for public reference at the library@ esplanade and through the AFA Channel on viddsee.com, an online portal that showcases the best of short films from Southeast Asia.
+<br><br>
+The AFA became a subsidiary of the National Library Board in January 2014.
+<br><br>
+<img  style="width:40%" src="/images/vol-11-issue-1/movingjourney/afas.jpg">10th anniversary logo of the Asian Film Archive.</span>
+
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;">
+<b>THE 19TH SEAPAVAA CONFERENCE</b>
+<br><br>
+Hosted by the AFA and supported by the National Library Board, Singapore, the 19th South East Asia-Pacific Audiovisual Archives Association (SEAPAVAA) Conference and General Assembly will take place from 22 to 28 April 2015. The week-long event at the National Library Building will feature a two-day symposium with concurrent sessions, institutional visits, Restoration Asia II (an event focusing on the restoration of films in Asia or about Asia), workshops, and an excursion. A total of 48 papers will be presented during the conference on topics such as archival advocacy, archival repatriation, professional development, repurposing of archives, technical, organisational and professional sustainability, and archives at risk. For more information, visit www. seapavaaconference.com. The theme for the 2015 SEAPAVAA conference is <i>Advocate. Connect. Engage.</i> This theme resonates closely with the thrust of AFA’s programmes and the three objectives contained in its mission statement – “To Save, Explore, and Share the Art of Asian Cinema”.
+<br><br>
+<img style="width:70%" src="/images/vol-11-issue-1/movingjourney/logo_w_titles.jpg"></span>
+
+
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;">
+<b>DIGITAL FILM RESTORATION</b>
+<br><br>
+Digital film restoration is a highly specialised and laborious process. It involves the complex use of technological software and equipment that are designed to ingest huge amounts of data. The simplified workflow diagram below gives an idea of the three main parts of digital film restoration – repair and cleaning; restoration and preservation; and access output.
+<br><br>
+<img style="width:70%" src="/images/vol-11-issue-1/movingjourney/process_re.jpg"></span>
 
 <p style="font-size:15px;"><b>Karen Chan</b> is Executive Director of the Asian Film Archive (AFA). Besides overseeing the growth, preservation and curation of the AFA’s collection, she teaches film literacy and preservation courses to educators, students and filmmakers. Karen also serves on the Executive Council of the South East Asia-Pacific Audiovisual Archive Association.</p>
 

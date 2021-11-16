@@ -126,6 +126,7 @@ Though Picturehouse is commonly thought to be the first commercial art house cin
 <br><br>
 In its early years, Premier Cinema was known for its release of quality films such as Australian director Peter Weir’s <i>Picnic at Hanging Rock</i> (1975) and works by Tsui Hark and Ann Hui, the auteurs of the Hong Kong New Wave Cinema. It was also a favoured venue for film festivals such as the ASEAN, Indian, French and German film festivals. At its peak, one of its films, <i>The Hurricane</i> (1979), remained in the box office for three months. However, it was a case of “too arty, too soon” as “most Singaporeans at that time hardly knew what art pictures were”.[^18] To remain financially viable, the cinema turned to screening B-grade flicks such as <i>Gold Raiders</i> (1982) and Hongkong slapsticks like <i>Aces Go Places II</i> (1983). Other conditions, such as restrictions on ticket prices, a 35 percent entertainment tax, poor economy and the boom of videos, took its toll on the cinema. Premier Cinema shut its doors in 1983, and was converted into a live-show theatre.</span>
 
+<img style="width:100px;height:100px;margin-bottom:-30px;" src="/images/vol-11-issue-1/cultureoncelluloid/gracie.jpg">
 <p style="font-size:15px;"><b>Gracie Lee</b> is a Senior Librarian with the National Library of Singapore. Her responsibilities include managing the ephemera collection, and developing and providing content and reference services relating to Singapore.</p>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-11/issue-1/Apr-jun-2015/"><center>Back to Issue</center></a>

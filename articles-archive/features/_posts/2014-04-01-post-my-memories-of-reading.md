@@ -15,7 +15,7 @@ My mother worked Saturday mornings when I was a child in the 1970s; my father di
 
 The first bookshop I remember clearly was a neighbourhood shop in Tiong Bahru, where my grandparents lived. The first thing you saw when you entered was a line of Enid Blyton books strung up by clothes pegs above a wooden table on which yet more Blyton books were laid out like tiles. 
 
-Singaporean writer and Oxford University law alumni Claire Tham has written several award-winning short story collections as well as full length novels. Her stories have been adapted for both television and theatre. Her most recent work The Inlet, was published by Ethos Books in 2013.
+Singaporean writer and Oxford University law alumni Claire Tham has written several award-winning short story collections as well as full length novels. Her stories have been adapted for both television and theatre. Her most recent work, was published by Ethos Books in 2013.
 
 Of course, Blyton has gone out of fashion now. Her critics accuse her of wooden prose, stereotyped characters and political incorrectness. All true, perhaps, and yet, for me and other children of the 1970s, she was our passport to reading, to an idyllic England of boarding schools where children were never homesick, of midnight feasts, picnics and adventures in an English countryside free of paedophiles and other contemporary dangers. She made me, for a time, want to be a detective; I would buy small blue notebooks from the school bookshop and jot down car numbers and descriptions of people I saw in the street, in the wistful hope that some of them might be criminals and that I might play some small part in catching them.
 

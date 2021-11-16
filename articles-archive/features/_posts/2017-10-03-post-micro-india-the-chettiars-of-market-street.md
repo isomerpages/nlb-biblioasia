@@ -1,22 +1,22 @@
 ---
-title: "Micro India: The Chettiars Of Market Street"
+title: "Micro India: The Chettiars of Market Street"
 date: 2017-10-03
 permalink: /vol-13/issue-3/oct-dec-2017/micro-india
 layout: post
 ---
 #### Market Street, in the heart of the business district, was where Indian moneylenders ran a thriving trade during the colonial era. **Marcus Ng** traces the imprint left by the Chettiars.
 
-<div style="background-color: white;"><br><img src="/images/Vol-13-issue-3/micro-india/01_microindia.jpg">An 1890s photograph taken by G.R. Lambert of Market Street, which took its name from the nearby Telok Ayer Market. In the late 19th and early 20th centuries, the street was well known for its community of Chettiars, who ran their moneylending business in <i>kittangi</i> − shophouses which served as both their offices and lodgings. <i>Lee Kip Lin Collection. Lee Kip Lin and National Library Board, Singapore.</i></div>
+<div style="background-color: white;"><br><img src="/images/Vol-13-issue-3/micro-india/01a_microindia.jpg">An 1890s photograph taken by G.R. Lambert of Market Street, which took its name from the nearby Telok Ayer Market. In the late 19th and early 20th centuries, the street was well known for its community of Chettiars, who ran their moneylending business in <i>kittangi</i> − shophouses which served as both their offices and lodgings. <i>Lee Kip Lin Collection. Lee Kip Lin and National Library Board, Singapore.</i></div>
 
-As a boy, Lakshmanan Subbiah, a fourth-generation Chettiar, recalls walking down a street in the heart of the city near Raffles Place, a stroll that brought him past a mosque, where the cry of the muezzin[^1] would herald a throng of men in sarongs and skullcaps rushing to prayer.[^2] At the end of the road, towards the river, entrenched in the corner of a stately colonial building,[^3] moneychangers could be heard hollering, “US dollars, pounds, US dollars….”
+As a boy, Lakshmanan Subbiah, a fourth-generation Chettiar, recalls walking down a street in the heart of the city near Raffles Place, a stroll that brought him past a mosque, where the cry of the *muezzin*[^1] would herald a throng of men in sarongs and skullcaps rushing to prayer.[^2] At the end of the road, towards the river, entrenched in the corner of a stately colonial building,[^3] moneychangers could be heard hollering, “US dollars, pounds, US dollars….”
 
-As Subbiah forded a small crossing, the scene changed to rows of shophouses – not the familiar coffeeshops, traditional medicine halls and clan associations of Telok Ayer,[^4] but a different blend of sights, smells and sounds: the sharp fragrance of cinnamon and cardamom; the pungent bite of garlic and onions; aisles of silk sarees spilling onto the “five-foot way”; curries and chutneys splashed across banana leaves; and the dust of urban mills as grains, grams[^5] and raw spices were ground into flour, pastes and finer mixtures.
+As Subbiah forded a small crossing, the scene changed to rows of shophouses – not the familiar coffeeshops, traditional medicine halls and clan associations of Telok Ayer,[^4] but a different blend of sights, smells and sounds: the sharp fragrance of cinnamon and cardamom; the pungent bite of garlic and onions; aisles of silk *sarees* spilling onto the “five-foot way”; curries and chutneys splashed across banana leaves; and the dust of urban mills as grains, grams[^5] and raw spices were ground into flour, pastes and finer mixtures.
 
 Amid these louder establishments were half a dozen more austere premises: communal offices called *kittangi* (derived from “warehouse” in Tamil), which served as both bank and bunk for the men who lived and worked in them. “There, you would see some shaven Indian men, sitting on the floor by low desks, bent over and writing on open ledgers with total concentration,” recounts Subbiah.
 
 These men were Chettiars from Chettinad in India’s Tamil Nadu state, a caste of Tamil moneylenders (and devotees of Lord Siva[^6]) who served as vital links in the entrepreneurial food chain in times past when capital and credit were scarce, and big international banks[^7] catered largely to commercial trading houses – having little time for small local businessmen with neither capital nor collateral.
 
-<div style="background-color: white;"><img style="width:500px" src="/images/Vol-13-issue-3/micro-india/03_microindia.jpg">A 1960 photo of three Chettiars inside a <i>kittangi</i> at 49 Market Street. <i>Nachiappa Chettiar Collection, courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;"><img style="width:650px" src="/images/Vol-13-issue-3/micro-india/03a_microindia.JPG">A 1960 photo of three Chettiars inside a <i>kittangi</i> at 49 Market Street. <i>Nachiappa Chettiar Collection, courtesy of National Archives of Singapore.</i></div>
 
 This was a niche in Singapore’s financial sector that was begging to be filled, and the Chettiars did just so for a century-and-a-half, providing sundry merchants and middlemen with the funds they needed to fuel the port’s early growth as a pit-stop in the opium route between the Bay of Bengal and the South China Sea, and later as a global emporium for tin, rubber and other tropical commodities.[^8]
 
@@ -58,7 +58,7 @@ By the mid-1970s, the Chettiars found themselves in an unusual position. Althoug
 
 The *kittangi* were sold for a song and many older Chettiars called it a day, selling off all their properties in Singapore to carve a comfortable retirement in their homeland. Others moved to premises at Cantonment Road, Serangoon Road and Tank Road, where a lone *kittangi* still holds fort in the shadow of Sri Thendayuthapani (more popularly known as Chettiars’ Temple). Established in 1859, this shrine is probably the most significant landmark associated with the Chettiars, who erected temples to Lord Murugan wherever they went.[^25] For most Singaporeans, the Tank Road temple is better known as the end point of the annual Thaipusam procession, perhaps the only tangible manifestation of Chettiar religious culture in the Singapore mindscape.
 
-<div style="background-color: white;"><img style="width:700px" src="/images/Vol-13-issue-3/micro-india/06_microindia.jpg">Members of the Chettiar community at the entrance of the Sri Thendayuthapani Temple at Tank Road (Chettiars’ Temple), c.1930s. <i>Nachiappa Chettiar Collection, courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;"><img style="width:750px" src="/images/Vol-13-issue-3/micro-india/06a_microindia.jpg">Members of the Chettiar community at the entrance of the Sri Thendayuthapani Temple at Tank Road (Chettiars’ Temple), c.1930s. <i>Nachiappa Chettiar Collection, courtesy of National Archives of Singapore.</i></div>
 
 “It was the end of an era,” declares Subbiah. Shorn of their downtown enclave and with surviving *kittangi* sidelined, “the old communal life was over”. For a time, the local Chettiar community dwindled to as few as 30 families, before a new wave of migrants from Tamil Nadu from the 1990s onwards, mostly engineers or IT professionals, bolstered their numbers to the present thousand or so. Back in India, enterprising Chettiars had long diversified, becoming industrialists, manufacturers, publishers and owners of Tamil film studios. But other members of the community floundered in the post-colonial era, lacking both capital and formal education. To make ends meet, they sold their heirlooms and once-palatial homes, while younger Chettiars settled into new roles as professionals and entrepreneurs.
 
@@ -66,9 +66,9 @@ The *kittangi* were sold for a song and many older Chettiars called it a day, se
 
 With the demise of Market Street’s *kittangi* and other shophouses, the city lost what Subbiah called a neighbourhood “with a clear identity as an Indian area”. This “Micro India” of his childhood, he adds, consisted of Tamil Hindu as well as Muslim establishments along with North Indian and Chinese businesses. “In that sense I think it was a real ‘Little India’ – much more so than even Serangoon Road today,” he declares.
 
-In the early 1970s, Market Street was a one-stop shop where local Indians would spend a day out, perhaps settling accounts with their Chettiar before visiting a barber or saree dealer, stocking up on provisions, lunching at a banana leaf restaurant, and spending the remaining daylight hours at the waterfront. “The waves used to come up all the way,” recounts Subbiah of a time when the Singapore River emptied into the open strait, before the sea was tamed and fenced in by an urban bay. “People walked over to the Esplanade, they’d buy peanuts and balloons, lie down and relax, and then at sunset they’d go back.”
+In the early 1970s, Market Street was a one-stop shop where local Indians would spend a day out, perhaps settling accounts with their Chettiar before visiting a barber or *saree* dealer, stocking up on provisions, lunching at a banana leaf restaurant, and spending the remaining daylight hours at the waterfront. “The waves used to come up all the way,” recounts Subbiah of a time when the Singapore River emptied into the open strait, before the sea was tamed and fenced in by an urban bay. “People walked over to the Esplanade, they’d buy peanuts and balloons, lie down and relax, and then at sunset they’d go back.”
 
-<div style="background-color: white;"><img style="width:700px" src="/images/Vol-13-issue-3/micro-india/07_microindia.jpg">Chettiar men posing for a photograph in front of the Mercantile Bank in Raffles Place, 1960. <i>Nachiappa Chettiar Collection, courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;"><img style="width:700px" src="/images/Vol-13-issue-3/micro-india/07b_microindia.jpg">Chettiar men posing for a photograph in front of the Mercantile Bank in Raffles Place, 1960. <i>Nachiappa Chettiar Collection, courtesy of National Archives of Singapore.</i></div>
 
 Other than the Chettiars, Market Street was an “incubator” site for other Indian as well as non-Indian enterprises. Subbiah recalls being asked by his elders to buy tea from a young wallah named Mustaq Ahmad, who helped his father man a pushcart at a corner of Market Street and Battery Road before going on to helm the outfit now known as Mohamed Mustafa & Shamsudin.[^26] Textile retailer Second Chance occupied a shop lot along Chulia Street in the 1970s, while the headquarters of PGP, a chain of provision stores owned by philanthropist P. Govindasamy Pillai, was located on the upper reaches of Market Street.[^27]
 
@@ -94,11 +94,11 @@ For the Chettiars, Punar Pusam commemorates the only time of the year when Lord 
 <br><br>
 A lorry pulls the deity today; there are no more bullocks for the task. Neither are there stilt-walkers, clowns in costumes and musical bands, which in times past cheered the marchers on and brought the town to a halt with pomp and ceremony. According to Lakshmanan Subbiah, a fourth-generation Chettiar, the Chettiars would even pay for the trams along South Bridge Road to stop for a few hours so that the road was clear for the procession. Before the war, fireworks were de rigueur. And until Dhoby Ghaut was dug up, the chariot also stopped by a shrine to Lord Siva at Orchard Road[^37] before the final leg towards Tank Road.
 <br><br>
-<img style="width:400px" src="/images/Vol-13-issue-3/micro-india/10_microindia.jpg">A 1920s photograph of a bullock-drawn silver chariot bearing a statue of Lord Murugan during the annual Punar Pusam procession. <i>Gwee Thian Hock Collection, courtesy of National Archives of Singapore.</i>
+<img style="width:400px" src="/images/Vol-13-issue-3/micro-india/10a_microindia.png">A 1920s photograph of a bullock-drawn silver chariot bearing a statue of Lord Murugan during the annual Punar Pusam procession. <i>Gwee Thian Hock Collection, courtesy of National Archives of Singapore.</i>
 <br><br>
 Accompanied by families and well-wishers, and under the watchful eyes of minders and police outriders, the devotees today take up a mere lane or slightly more. For the most part, the city rushes on in its usual headlong fashion as the procession snakes past, as if bystanders eschew the power of faith, or are unwilling to indulge in the vague rites of a forgotten migrant community. The <i>kavadi</i> cavalcade continues on regardless, through dust and rain, sweat and stain, on bare soles and to the encouragement of pipes and drums. Dusk turns to dark and the streets ring with the steps of the <i>kavadi</i> carriers, telling of their story, strength and spirit.</span>
 
-<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;">A version of this article was first published on Poskod.sg on 24 January 2014.</span>
+*A version of this article was first published on Poskod.sg on 24 January 2014.*
 
 <div style="background-color: white;">
 <br>
@@ -114,7 +114,7 @@ Accompanied by families and well-wishers, and under the watchful eyes of minders
 
 [^2]:This would have been Masjid Moulana Mohamed Ali, which was established in two Market Street shophouses in the 1950s to serve Muslims working in the commercial centre. See *Masjid Moulana Mohamed Ali*. (2015). Retrieved from Masjid Moulana Mohamed Ali website.
 
-[^3]:This was Bonham Building (now the site of UOB Plaza), the original headquarters of United Overseas Bank. See Lim, T.S. (2016, October– December). [As good as gold: The making of a financial centre](http://www.nlb.gov.sg/biblioasia/2016/09/04/as-good-as-gold-the-making-of-a-financial-centre/#sthash.LvTVAyuu.dpbs). *BiblioAsia, 12* (3), 17–23, p. 21. Retrieved from BiblioAsia website.
+[^3]:This was Bonham Building (now the site of UOB Plaza), the original headquarters of United Overseas Bank. See Lim, T.S. (2016, October– December). [As good as gold: The making of a financial centre](https://biblioasia.nlb.gov.sg/vol-12/issue-3/oct-dec-2016/as-good-as-gold). *BiblioAsia, 12* (3), 17–23, p. 21. Retrieved from BiblioAsia website.
 
 [^4]:Meaning “Water Bay” in Malay, Telok Ayer has become synonymous with Singapore’s Chinatown.
 
@@ -168,7 +168,7 @@ Accompanied by families and well-wishers, and under the watchful eyes of minders
 
 [^29]:[T. F. Hwang takes you down memory](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880625-1.2.34.4). (1988, June 25). *The Straits Times*, p. 22; [Colony cavalcade](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360426-1.2.23). (1936, April 26). *The Straits Times*, p. 2. Retrieved from NewspaperSG.
 
-[^30]:[Materials used in constructing Nunes and Medeiros](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19371005-1.2.158.7). (1937, October 5). *The Straits Times*, p. 2. Retrieved from NewspaperSG; Davison, J. (2017, Jul–Sep). [Swan & Maclaren: Pioneers of Modernist architecture](http://www.nlb.gov.sg/biblioasia/2017/07/06/swan-maclaren-pioneers-of-modernist-architecture/#sthash.e6oRmBfe.dpbs). *BiblioAsia, 13* (2), 24–31, p. 28. Retrieved from BiblioAsia website.
+[^30]:[Materials used in constructing Nunes and Medeiros](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19371005-1.2.158.7). (1937, October 5). *The Straits Times*, p. 2. Retrieved from NewspaperSG; Davison, J. (2017, Jul–Sep). [Swan & Maclaren: Pioneers of Modernist architecture](https://biblioasia.nlb.gov.sg/vol-13/issue-2/jul-sep-2017/swan-and-maclaren). *BiblioAsia, 13* (2), 24–31, p. 28. Retrieved from BiblioAsia website.
 
 [^31]:Lee & Lee. (2017). Retrieved from Lee & Lee website.
 
@@ -178,8 +178,8 @@ Accompanied by families and well-wishers, and under the watchful eyes of minders
 
 [^34]:Sam, J. (1985, February 24). [Fiery start to 1830 lunar year](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19850224-1.2.46.5.1). *Singapore Monitor*, p. 2. Retrieved from NewspaperSG.
 
-[^35]:The kavadi is a semi-circular metal structure decorated with peacock feathers, flowers and palm leaves, which devotees carry during the Thaipusam procession, often in fulfilment of a vow. See Hindu Endowments Board. (2016). *Thaipusam*. Retrieved from Hindu Endowments Board website
+[^35]:The *kavadi* is a semi-circular metal structure decorated with peacock feathers, flowers and palm leaves, which devotees carry during the Thaipusam procession, often in fulfilment of a vow. See Hindu Endowments Board. (2016). *Thaipusam*. Retrieved from Hindu Endowments Board website
 
-[^36]:Soundararajan, A., & Sri Asrina Tanuri. (2016, October–December). [Time-honoured temple design](http://www.nlb.gov.sg/biblioasia/2016/09/07/time-honoured-temple-design/). *BiblioAsia, 12* (3), 36–39, p. 36. Retrieved from BiblioAsia website.
+[^36]:Soundararajan, A., & Sri Asrina Tanuri. (2016, October–December). [Time-honoured temple design](https://biblioasia.nlb.gov.sg/vol-12/issue-3/oct-dec-2016/time-honoured-temple). *BiblioAsia, 12* (3), 36–39, p. 36. Retrieved from BiblioAsia website.
 
 [^37]:This was the Sri Sivan Temple at Dhoby Ghaut, which was relocated to Geylang East to make way for the MRT station in 1983. See Hindu Endowments Board. (2016). *Sri Sivan Temple*. Retrieved from Hindu Endowments Board website.

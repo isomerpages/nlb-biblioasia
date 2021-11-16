@@ -109,10 +109,11 @@ With the introduction of Western-style healthcare, including clinics and hospita
 
 State controls and the exposure to Western education further put paid to the services of traditional Malay healers. Although their numbers have drastically dwindled over the years, traditional Malay medicine continues to play an ancillary – and occasionally complementary – role to Western medicine today for those who recognise its efficacy in providing ritual care and treating spiritual ailments and conditions not yet acknowledged in Western medical science.
 	
-<table span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; ">
-<b span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; ">Healing Practices</b> 
-<p span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; ">
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; ">
+	<b>Healing Practices </b>
+  <br><br>
 One of the most notable Malay medical manuscripts translated into English is Ismail Munshi’s <i>The Medical Book of Malayan Medicine</i>. Originally written in Jawi (c. 1850), it contains over 550 remedies for maladies ranging from migraines to depression, bloatedness and leprosy.</p>
+<table span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; ">
   <tr>
     <td>&nbsp; &nbsp;</td>
     <td>For Violent Headaches and Loss of Energy</td>
@@ -135,7 +136,8 @@ One of the most notable Malay medical manuscripts translated into English is Ism
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
 	<b>REFERENCE</b>
 <br><br>
-	Burkill, I.H., & Ismail Munshi. (1930). [<i>The medical book of Malayan medicine</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4980669). Singapore: Botanic Gardens. (Call no.: RCLOS 615.3209595 MED)</span>
+	Burkill, I.H., & Ismail Munshi. (1930). [<i>The medical book of Malayan medicine</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4980669). Singapore: Botanic Gardens. (Call no.: RCLOS 615.3209595 MED)
+</span>
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
 	<b>HUMOURAL THEORY AND MALAY MEDICINE</b>

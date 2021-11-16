@@ -1,5 +1,5 @@
 ---
-title: "Give Me Shelter: The Five-Footway Story"
+title: "Give Me Shelter: The Five-footway Story"
 date: 2019-10-31
 permalink: /vol-15/issue-3/oct-dec-2019/give-me-shelter-stry/
 layout: post
@@ -7,7 +7,8 @@ layout: post
 #### The five-footway – the equivalent to the modern-day pavement or sidewalk – was a hotly contested space in colonial Singapore. Fiona Lim relives its colourful history.
 
 <img src="/images/Vol-15-issue-3/give-me-shelter/Shelter1.JPG">
-<div style="background-color: white;"></div>
+<div style="background-color: white;">Paintng of a row of shophouses and the fve-footway running along the facade. <i>Image reproduced from Morton-Cameron, W.H., & Feldwick, W. (Eds.). (2012). Present Day Impressions of the Far
+East and Prominent & Progressive Chinese at Home and Abroad: The History, People, Commerce, Industries, and Resources of China, Hong Kong, Indo-China, Malaya, and Netherlands India (vol. 2; facing p. 810). Tokyo: Editon Synapse. (Call no.: RSING 950 PRE).</i></div>
 
 “Crowded, bustling, layered, constantly shifting, and seemingly messy, these sites and activities possess an order and hierarchy often visible and comprehensible only to their participants, thereby escaping common understanding and appreciation”.[^1]
 
@@ -23,9 +24,6 @@ Early paintings of Singapore by Government Surveyor of the Straits Settlements J
 
 The five-footway (historically, often used interchangeably with the term “verandah”) was originally mandated by Stamford Raffles as part of his 1822 Town Plan of Singapore – also known as the Jackson Plan. Article 18 of the plan states: “Description of houses to be constructed, each house to have a verandah open at all times as a continued and covered passage on each side of the street.” This was to be carried out “for the sake of uniformity” in the townscape.[^2] Raffles’ intention to have the verandah “open at all times” would be frequently invoked in future contentions about the use of this space.
 
-<img style="width: 400px; height: 430px;" src="/images/Vol-15-issue-3/give-me-shelter/Shelter2.JPG">
-<div style="background-color: white;">Painting of a row of shophouses and the five-footway running along the facade. <i>Image reproduced from Morton-Cameron, W.H., & Feldwick, W. (Eds.). (2012). Present Day Impressions of the Far East and Prominent & Progressive Chinese at Home and Abroad: The History, People, Commerce, Industries, and Resources of China, Hong Kong, Indo-China, Malaya, and Netherlands India (vol. 2; facing p. 810). Tokyo: Edition Synapse. (Call no.: RSING 950 PRE)</i></div>
-
 Scholars suggest that Raffles became acquainted with this architectural feature during his time as Lieutenant-General of Java. The Dutch colonisers had earlier introduced covered walkways and implemented a regular street alignment in Batavia (present-day Jakarta), capital of the Dutch East Indies.[^3]
 
 In the late 19th and right up to the mid-20th century, an assortment of traders, from tinsmiths, barbers and cobblers to letter writers and parrot astrologers, conducted their businesses along the five-footways, while hawkers peddled food, drinks and even household sundries.
@@ -35,11 +33,11 @@ Operating in the five-footway required minimal capital, and thus it was the most
 <img style="width: 650px; height: 400px;" src="/images/Vol-15-issue-3/give-me-shelter/Shelter3.JPG">
 <div style="background-color: white;">A photo of China Street showing the rows of shophouses and their five-footways by G.R. Lambert & Co., c. 1890s. <i>Courtesy of Editions Didier Millet.</i></div>
 
-Although the lives of Asian migrants in Singapore were steeped in this ecosystem, many Europeans found this vernacular environment appalling. Those who considered this social space as a novelty tended to view it as “exotic”, as John Cameron, former editor of *The Straits Times*, did when he wrote: “[I]n a quiet observant walk through [the five-footways] a very great deal may be learned concerning the peculiar manners and customs of the trading inhabitants”.[^4]
+Although the lives of Asian migrants in Singapore were steeped in this ecosystem, many Europeans found this vernacular environment appalling. Those who considered this social space as a novelty tended to view it as “exotic”, as John Cameron, former editor of *The Straits Times*, did when he wrote: “[I]n a quiet observant walk through [the five-footways] a very great deal may be learned concerning the peculiar manners and customs of the trading inhabitants.”[^4]
 
 British traveller and naturalist Isabella Bird was similarly taken by the liveliness of the five-footways when she visited Singapore in 1879:
 
-“… more interesting still are the bazaars or continuous rows of open shops which create for themselves a perpetual twilight by hanging tatties or other screens outside the sidewalks, forming long shady alleys, in which crowds of buyers and sellers chaffer over their goods”.[^5]
+“… more interesting still are the bazaars or continuous rows of open shops which create for themselves a perpetual twilight by hanging tatties or other screens outside the sidewalks, forming long shady alleys, in which crowds of buyers and sellers chaffer over their goods.”[^5]
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
 <b>The “Five-footway” Misnomer</b><br><br>
@@ -52,7 +50,7 @@ While the earliest verandahs spanned 5 or 6 feet (1.5 or 1.8 m), from the 1840s 
 
 Depending on which part of town a traveller was exploring, he or she might be in for a rude shock if they believe the following description of the five-footway (c. 1840) by Major James Low, a long-time employee of the Straits Civil Service:
 
-“A stranger may well amuse himself for a couple of hours in threading the piazas [sic] in front of the shops, which he can do unmolested by sun, at any hour of the day”.[^7]
+“A stranger may well amuse himself for a couple of hours in threading the piazas [sic] in front of the shops, which he can do unmolested by sun, at any hour of the day.”[^7]
 
 In reality, the five-footways in the town’s Asian quarters teemed with so much obstruction and activity that pedestrians were all too often forced onto the road.
 
@@ -61,7 +59,7 @@ In reality, the five-footways in the town’s Asian quarters teemed with so much
 
 Low’s view was not a popular one. In 1843, a disgruntled individual offered a sharply contradictory experience in a letter to *The Singapore Free Press*, arguing for the public right of way:
 
-“[The verandah] is or was intended to provide for the accommodation of the public by furnishing them with a walk where they might be in some degree free from the sun and dust, and be in no danger of sudden death from numerous Palankeens that are always careering along the middle of the way. But this seems to have been forgotten, and the natives have very coolly appropriated the verandahs to their own special use by erecting their stalls in it and making it a place for stowing their goods”.[^8]
+“[The verandah] is or was intended to provide for the accommodation of the public by furnishing them with a walk where they might be in some degree free from the sun and dust, and be in no danger of sudden death from numerous Palankeens that are always careering along the middle of the way. But this seems to have been forgotten, and the natives have very coolly appropriated the verandahs to their own special use by erecting their stalls in it and making it a place for stowing their goods.”[^8]
 
 The five-footway was originally intended for the use of pedestrians. Not only would the sheltered path provide respite from the tropical heat or a sudden downpour, it also served as a safe path away from road traffic. However, over time, the Asian communities began to use the five-footway for their own purposes, according to their needs and the realities of the day.
 
@@ -123,7 +121,7 @@ Nonetheless, the five-footway trade and the various obstructions continued unaba
 
 By 1899, the five-footway problem was referred to as the “very old Verandah Question” in the press,[^24] with the situation devolving into a game of “whack-a-mole” as officials sought out “obstructionists” and meted out fines to offenders. On 26 September 1900 alone, 70 individuals were fined $5 each for obstructing the five-footway.[^25] However, as the sheltered walkway was a transient space that saw the movement of both humans and goods, the task of completely eradicating occupation of the five-footways proved rather onerous. A letter to *The Straits Times* in 1925 said as much:
 
-“The most insidious and worst kind of obstruction is the temporary one. It consists generally of merchandise being either despatched from or received into a godown. In reality the obstruction is permanent, because as soon as one lot is removed another takes its place”.[^26]
+“The most insidious and worst kind of obstruction is the temporary one. It consists generally of merchandise being either despatched from or received into a godown. In reality the obstruction is permanent, because as soon as one lot is removed another takes its place.”[^26]
 
 From 1907 onwards, night street food hawkers were subject to licensing by the authorities. After Singapore’s independence in 1965, food peddlers were moved into new standalone hawker centres. Nevertheless, the occasional itinerant food vendor could still be spotted along five-footways up until the 1980s. Over time, other five-footway traders also disappeared as the rules and their enforcement were tightened. Those with the means could relocate to a permanent location, while others simply gave up their trade for good.
 
@@ -160,7 +158,7 @@ Following a deadly confrontation with the police, the riots were quelled and, on
 <a href="https://biblioasia.nlb.gov.sg/vol-15/issue-3/oct-dec-2019/"><center>Back to Issue</center></a>
 
 #### **NOTES**
-[^1]:Hou, J., & Chalana, M. (2016). Untangling the ‘messy’ Asian city (p. 3). In J. Hou & M. Chalana (Eds.), [*Messy urbanism: Understanding the “other” cities of Asia*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202775474)(pp. 1–21). Hong Kong: Hong Kong University Press. (Call no.: RSEA 307.76095 MES).
+[^1]:Hou, J., & Chalana, M. (2016). Untangling the ‘messy’ Asian city (p. 3). In J. Hou & M. Chalana (Eds.), [*Messy urbanism: Understanding the “other” cities of Asia*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202775474) (pp. 1–21). Hong Kong: Hong Kong University Press. (Call no.: RSEA 307.76095 MES).
 [^2]:Buckley, C.B. (1902). [*An anecdotal history of Singapore*](http://eresources.nlb.gov.sg/printheritage/detail/303beefb-31d7-4dad-83fb-593054096717.aspx) (Vol. 1, p. 84). Singapore: Fraser & Neave, Ltd. Retrieved from BookSG.
 [^3]:Lim, J.S.H. (1993). The ‘Shophouse Rafflesia’: An outline of its Malaysian pedigree and fits subsequent diffusion in Asia. *Journal of the Malaysian Branch of the Royal Asiatic Society, 66* (1) (*264*), *47–66*, pp. 51–52. Retrieved from JSTOR via NLB’s eResources website.
 [^4]:Cameron, J. (1865). [*Our tropical possessions in Malayan India*](http://eresources.nlb.gov.sg/printheritage/detail/7658c549-f1c5-47c7-b8b6-831f7eb90c58.aspx) […] (p. 60). London: Smith, Elder and Co. Retrieved from BookSG.
@@ -171,8 +169,7 @@ Following a deadly confrontation with the police, the riots were quelled and, on
 [^9]:In the 1890s, the five-footway could be divided up into a maximum of four units and subleased, each paying a monthly rent of between $1 and $15. See [Yeoh](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200108247), 2003, p.247.
 [^10]:National Heritage Board. (2012). *Kampong Glam: A heritage trail* (pp. 27, 35). Retrieved from National Heritage Board website.
 [^11]:Yeo, L.F. (Interviewer). (2000, May 13). [*Oral history interview with Song Moh Ngai*](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/76f9d2ac-115e-11e3-83d5-0050568939ad) [Recording no. 002304/25/17]. Retrieved from National Archives of Singapore website.
-[^12]:Yeo, L.F. (Interviewer). (1999, October 6). [*Oral history interview with Sew Teng Kwok*](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/13df35c4-1160-11e3-83d5-0050568939ad) [Recording no. 002209/23/5]; Yeo, G.L. (Interviewer). [*Oral history interview with Kannusamy s/o Pakirisamy*](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e0408dfe-115d-11e3-83d5-0050568939ad-OHC000081_016/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png) [Transcript of recording no. 000081/28/18, pp. 285–286]. Retrieved from National Archives of Singapore website; Cameron, J. (1865). [*Our tropical possessions in Malayan India*](http://eresources.nlb.gov.sg/printheritage/detail/7658c549-f1c5-47c7-b8b6-831f7eb90c58.aspx) […] (p. 66). London: Smith, Elder and Co. Retrieved from BookSG.
-[^13]:Yeo, L.F. (Interviewer). (1999, November 5). [*Oral history interview with Foong Lai Kum*](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/7e2003fa-115e-11e3-83d5-0050568939ad) [Recording no. 002226/12/7]. Retrieved from National Archives of Singapore website.
+[^12]:Yeo, L.F. (Interviewer). (1999, October 6). [*Oral history interview with Sew Teng Kwok*](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/13df35c4-1160-11e3-83d5-0050568939ad) [Recording no. 002209/23/5]; Yeo, G.L. (Interviewer). [*Oral history interview with Kannusamy s/o Pakirisamy*](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e0408dfe-115d-11e3-83d5-0050568939ad-OHC000081_016/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png) [Transcript of recording no. 000081/28/18, pp. 285–286]. Retrieved from National Archives of Singapore website; [Cameron](http://eresources.nlb.gov.sg/printheritage/detail/7658c549-f1c5-47c7-b8b6-831f7eb90c58.aspx), 1865, p. 66. 
 [^14]:Singapore. Archives & Oral History Department. (1985). [*Five-foot-way traders*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4080651). Singapore: Archives & Oral History Department, p. 36. (Call no.: RDLKL 779.9658870095957 FIV).
 [^15]:Siddique, S., & Shotam, N.P. (1982). [*Singapore’s Little India: Past, present, and future*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082449) (pp. 101–104). Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 305.89141105957 SID).
 [^16]:[*Oral history interview with Sew Teng Kwok*](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/13df35c4-1160-11e3-83d5-0050568939ad), 6 Oct 1999.

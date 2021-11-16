@@ -22,7 +22,7 @@ A scene from the animated film <i>The Violin</i> directed by Ervin Han. <i>Court
 
 <div style="background-color: white;">
 <br>
-<img src="/images/vol-11-issue-1/directorchair/Lek_Lim_Nonya_Kueh_1.jpg">
+<img style="width:70%" src="/images/vol-11-issue-1/directorchair/Lek_Lim_Nonya_Kueh_1.jpg">
 Production shot of <i>Old Friends</i> (2015) directed by Royston Tan. <i>Courtesy of Royston Tan.</i>
 </div>
 
@@ -42,7 +42,7 @@ I love roasted duck! It has always been my favourite dish.
 
 #### **Sun Koh** 
 
-**One of the few women filmmakers in Singapore, Sun Koh’s multiple-award-winning films have been screened in more than 30 festivals around the world. Her film career started in Singapore with her debut short film <i>The Secret Heaven</i> (2002) that won the Silver Hugo at the 38th Chicago International Film Festival. The film also won her the Best Director award at the 15th Singapore International Film Festival and audience choice awards in France, South Korea and Japan. In 2013, her film <i>Singapore Panda</i>, part of an omnibus feature <i>Letters From The South</i> with Tsai Ming Liang, Aditya Assarat and Royston Tan, premiered at the Busan International Film Festival and was sold to The Sundance Channel in 2014. She also directed the short film <i>The Secret Passion of Mdm Tan Ah Lian</i>, a short film commissioned by the National Arts Council for Silver Arts 2014.**
+**One of the few women filmmakers in Singapore, Sun Koh’s multiple-award-winning films have been screened in more than 30 festivals around the world. Her film career started in Singapore with her debut short film <i>The Secret Heaven</i> (2002) that won the Silver Hugo at the 38th Chicago International Film Festival. The film also won her the Best Director award at the 15th Singapore International Film Festival and audience choice awards in France, South Korea and Japan. In 2013, her film <i>Singapore Panda</i>, part of an omnibus feature <i>Letters From the South</i> with Tsai Ming Liang, Aditya Assarat and Royston Tan, premiered at the Busan International Film Festival and was sold to The Sundance Channel in 2014. She also directed the short film <i>The Secret Passion of Mdm Tan Ah Lian</i>, a short film commissioned by the National Arts Council for Silver Arts 2014.**
 
 <img src="/images/vol-11-issue-1/directorchair/sun_koh_re.jpg" style="width:70%">
 
