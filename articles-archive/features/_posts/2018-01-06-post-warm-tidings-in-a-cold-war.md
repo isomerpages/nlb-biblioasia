@@ -172,9 +172,9 @@ The remittance letters in the Koh Seow Chuan Collection demonstrate how family r
 
 [^2]:Zhou, E. (1955, March 3). Guanyu guanche baohu qiaohui zhengce de mingling (关于贯彻保护侨汇政策的命令). Renmin Ribao. (Not avilable in NLB holdings.)
 
-[3]:Liu, H. (2005). The transnational history of a Chinese family: Immigrant letters, family business, and reverse migration (p. 135). New Brunswick, NJ: Rutgers University Press, 2005. (Call no.: R 304.8730510922 LIU)
+[3]:Liu, H. (2005). *[The transnational history of a Chinese family: Immigrant letters, family business, and reverse migration](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12543892)* (p. 135). New Brunswick, NJ: Rutgers University Press, 2005. (Call no.: R 304.8730510922 LIU)
 
-[^4]:Chen, D. (1940). Emigrant communities in South China: A study of overseas migration and its influence on standards of living and social change (p. 155). New York: Institute of Pacific Relations. (Call no.: RCLOS 309.151 CHE-[RFL])  
+[^4]:Chen, D. (1940). *[Emigrant communities in South China: A study of overseas migration and its influence on standards of living and social change](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=2268189)* (p. 155). New York: Institute of Pacific Relations. (Call no.: RCLOS 309.151 CHE-[RFL])  
 
 [^5]:Letter 2558, Xu Mingqin to his mother and aunt-in-law, May 20 (旧历四月廿叁日), 1949, Koh Seow Chuan Collection, National Library Board, Singapore. (Call no.: RRARE C816.3 KOH)
 
@@ -190,15 +190,15 @@ The remittance letters in the Koh Seow Chuan Collection demonstrate how family r
 
 [^11]:Letter 2600, Yaliu to her mother-in-law, date unknown (元月初十), year unknown, Koh Seow Chuan Collection, National Library Board, Singapore. (Call no.: RRARE C816.3 KOH)
 
-[^12]:Qi, X. (2015, March).  Filial obligation in contemporary China: Evolution of the culture-system. Journal for the Theory of Social Behaviour, 45 (1), 141–161, p. 149. Retrieved from Wiley Online Library website.
+[^12]:Qi, X. (2015, March).  Filial obligation in contemporary China: Evolution of the culture-system. *Journal for the Theory of Social Behaviour, 45* (1), 141–161, p. 149. Retrieved from Wiley Online Library website.
 
-[^13]:Freedman, M. (Ed.). (1970). Family and kinship in Chinese society (pp. 26, 33). Stanford: Stanford University Press. (Call no.: RCLOS 301.42 FRE)
+[^13]:Freedman, M. (Ed.). (1970). *[Family and kinship in Chinese society](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=36933)* (pp. 26, 33). Stanford: Stanford University Press. (Call no.: RCLOS 301.42 FRE)
 
 [^14]:Letter 2194, Liu Shizhao to his mother, November 3 (十月初五日), 1970, Koh Seow Chuan Collection, National Library Board, Singapore. (Call no.: RRARE C816.3 KOH)
 
-[^15]:Shen, H. (2012). China’s left-behind wives: Families of migrants from Fujian to Southeast Asia, 1930s–1950s (p. 93). Singapore: NUS Press. (Call no.: RSEA 306.87230951245 SHE) 
+[^15]:Shen, H. (2012). *[China’s left-behind wives: Families of migrants from Fujian to Southeast Asia, 1930s–1950s](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14313805)* (p. 93). Singapore: NUS Press. (Call no.: RSEA 306.87230951245 SHE) 
 
-[^16]:Barnett, A.D. (1955). Self-rule and unrest: Overseas Chinese in Singapore: Disturbing trends in an overseas Chinese city which is moving from colonialism toward self-rule (p. 9). Southeast Asia series, III. (Call no.: RCLOS 959 AUFSR)
+[^16]:Barnett, A.D. (1955). *Self-rule and unrest: Overseas Chinese in Singapore: Disturbing trends in an overseas Chinese city which is moving from colonialism toward self-rule* (p. 9). *[Southeast Asia series, III](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2046775)*. (Call no.: RCLOS 959 AUFSR)
 
 [^17]:Letter 2214, Yang Ruixiong to his wife Xu Peiyu, March 26, 1965, Koh Seow Chuan Collection, National Library Board, Singapore. (Call no.: RRARE C816.3 KOH) 
 
@@ -228,15 +228,15 @@ The remittance letters in the Koh Seow Chuan Collection demonstrate how family r
 
 [^30]:Letter 2211, Yang Ruixiong to his wife Xu Peiyu, April 7, 1965, Koh Seow Chuan Collection, National Library Board, Singapore. (Call no.: RRARE C816.3 KOH)
 
-[^31]:Saw, S.H. (2012). The population of Singapore (p. 31). Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 304.6095957 SAW)
+[^31]:Saw, S.H. (2012). *[The population of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14383911)* (p. 31). Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 304.6095957 SAW)
 
-[^32]:Shen, 2012, p. 34.
+[^32]:[Shen](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14313805), 2012, p. 34.
 
 [^33]:Letter 2232, Liu Shizhao to his mother, date unknown (二月初六), year unknown, Koh Seow Chuan Collection, National Library Board, Singapore. (Call no.: RRARE C816.3 KOH)
 
 [^34]:Letter 2211, Yang Ruixiong to his wife Xu Peiyu, April 7, 1965, Koh Seow Chuan Collection, National Library Board, Singapore. (Call no.: RRARE C816.3 KOH)
 
-[^35]:Freedman, M. (1957). Chinese family and marriage in Singapore  (p. 67). London: H.M. Stationery Off. (Call no.: RSING 301.42 FRE)
+[^35]:Freedman, M. (1957). *[Chinese family and marriage in Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4846221)* (p. 67). London: H.M. Stationery Off. (Call no.: RSING 301.42 FRE)
 
 [^36]:Letter 2214, Yang Ruixiong to his wife Xu Peiyu, March 26, 1965, Koh Seow Chuan Collection, National Library Board, Singapore (Call no.: RRARE C816.3 KOH).
 
@@ -248,14 +248,14 @@ The remittance letters in the Koh Seow Chuan Collection demonstrate how family r
 
 [^40]:Letter 2236, Lu Mutang to his mother, date unknown (丁柒月初一日), year unknown, Koh Seow Chuan Collection, National Library Board, Singapore. (Call no.: RRARE C816.3 KOH)
 
-[^41]:Zhao, G. (1959–60).  Economic planning and organization in mainland China: A documentary study, 1949–1957 (p. 44). Cambridge, Mass.: Center for East Asian Studies. (Call no.: RCLOS 338.951 CHA)
+[^41]:Zhao, G. (1959–60). *[Economic planning and organization in mainland China: A documentary study, 1949–1957](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=3220970)* (p. 44). Cambridge, Mass.: Center for East Asian Studies. (Call no.: RCLOS 338.951 CHA)
 
 [^42]:Xi, R. (1954, September 20). Jinjiang county to the responses and requests of guiqiao and qiaojuan of tonggou tongxiao (晋江专区归侨、侨眷对棉布统销的反 映和要求). Renmin Ribao
 
 [^43]:Letter 2275, Lu Mutang to his mother, October 6 (九月初十日), 1954, Koh Seow Chuan Collection, National Library Board, Singapore. (Call no.: RRARE C816.3 KOH)
 
-[^44]:Dikötter, F. (2010). ). Mao’s great famine: The history of China’s most devastating catastrophe, 1958–1962 (p. 144). New York: Walker & Co. (Call no.: R 951.055 DIK)
+[^44]:Dikötter, F. (2010). ). *[Mao’s great famine: The history of China’s most devastating catastrophe, 1958–1962](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13694297)* (p. 144). New York: Walker & Co. (Call no.: R 951.055 DIK)
 
-[^45]:“如果缝衣车买过手便要献去炼成钢铁，不是冤枉我之血 汗钱耶。所谓今社制度，南洋侨眾，均不滿意”. Chaoshan Lishi Wenhua Yanjiu Zhongxin (Ed). (2007). Chaoshan qiaopi jicheng (潮汕侨批集成), di yi ji, 12 (p. 267). Guilin: Guangxi shifan daxue chubanshe. (Call no.: Chinese RSEA 383.495127 CSQ)
+[^45]:“如果缝衣车买过手便要献去炼成钢铁，不是冤枉我之血 汗钱耶。所谓今社制度，南洋侨眾，均不滿意”. Chaoshan Lishi Wenhua Yanjiu Zhongxin (Ed). (2007). *[Chaoshan qiaopi jicheng](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14489088)* (潮汕侨批集成), di yi ji, 12 (p. 267). Guilin: Guangxi shifan daxue chubanshe. (Call no.: Chinese RSEA 383.495127 CSQ)
 
 [^46]:Letter 2149, Liu Saibi to her mother, July 4, 1961, Koh Seow Chuan Collection, National Library Board, Singapore. (Call no.: RRARE C816.3 KOH)
