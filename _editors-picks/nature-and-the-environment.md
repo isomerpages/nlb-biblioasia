@@ -37,3 +37,7 @@ permalink: /editors-picks/nature
 <p>Crocodiles elicit fear and respect by turns – and occasionally, even indifference. Kate Pocklington and Siddharta Perez document reptilian encounters at specific times in Singapore’s history and their impact on the human psyche.</p> 
 <img src="/images/Vol-14-issue-2/revulsion-and-reverence/Croc1.JPG">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-1/apr-jun-2017/through-time-and-tide" target="_blank">Through Time And Tide: A Survey of Singapore’s Reefs</a>
+<p>The reefs that fringed Singapore’s coastline and islands have served for centuries as maritime markers, fishing grounds and even homes for island communities. Marcus Ng rediscovers the stories that lurk beneath the waves.</p> 
+<hr>
