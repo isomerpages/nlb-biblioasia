@@ -22,7 +22,7 @@ Remittance letters are important primary sources in the study of Chinese migrant
 
 In this context, the remittance letters in the National Library’s Koh Seow Chuan Collection take on special importance. These letters were written mainly by male emigrants to Singapore from the Chaozhou (Teochew) area in China between the 1950s and the 1970s (with letters from the 1960s largely absent). Most were written by a few men, with a small number penned by women who were, presumably, wives or relatives of the letter writers.
 
-<div style="background-color: white;"><img style="width:500px"src="/images/Vol-13-issue-4/warm-tidings-in-a-cold-war/02_warmtiding.png">A Cantonese letter writer-calligrapher with his customers in this photo taken on 24 October 1979. As most Chinese migrants in Singapore were illiterate, they engaged professional letter writers to pen remittance notes to their families back home in China. Often, these writers were also asked to read letters aloud to the recipients. <i>All rights reserved, Kouo Shang-Wei Collection, National Library Board, Singapore.</i></div>
+<div style="background-color: white;"><img style="width:500px" src="/images/Vol-13-issue-4/warm-tidings-in-a-cold-war/02_warmtiding.png">A Cantonese letter writer-calligrapher with his customers in this photo taken on 24 October 1979. As most Chinese migrants in Singapore were illiterate, they engaged professional letter writers to pen remittance notes to their families back home in China. Often, these writers were also asked to read letters aloud to the recipients. <i>All rights reserved, Kouo Shang-Wei Collection, National Library Board, Singapore.</i></div>
 
 A major challenge facing any historian using these letters is their fragmented nature, both chronologically, and in terms of the individuals and families involved. To overcome this, remittance letters compiled in the *Chaoshan Qiaopi Jicheng* (《潮汕侨批集成》) were examined to supplement those in the Koh Seow Chuan Collection.
 
@@ -38,7 +38,7 @@ Remittances were regularly sent back with instructions to put aside the money fo
 
 In his letter in 1949, Xu Mingqin pledged to “add grandparents’ and granduncles’ and grandaunts’ tablets in the ancestral hall”.[^5] Such contributions allowed migrants to be active participants in family affairs back in China and also strengthened family ties across the miles.
 
-<div style="background-color: white;"><img style="width:700px"src="/images/Vol-13-issue-4/warm-tidings-in-a-cold-war/03_warmtiding.png">Chinese men gathered around a storyteller along Singapore River, c. 1960s. With barely enough to make ends meet after sending money home to China, entertainment for most migrants took on very simple forms. <i>Courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;"><img style="width:700px" src="/images/Vol-13-issue-4/warm-tidings-in-a-cold-war/03_warmtiding.png">Chinese men gathered around a storyteller along Singapore River, c. 1960s. With barely enough to make ends meet after sending money home to China, entertainment for most migrants took on very simple forms. <i>Courtesy of National Archives of Singapore.</i></div>
 
 #### **Marital Unions**
 
@@ -72,7 +72,7 @@ Remittance letters between migrant couples hold “powerful cultural and emotion
 
 The situation worsened during the Cold War when migration regulations made return trips difficult and rare, and remittance letters indicated a sharp decrease in movement between China and Singapore.[^16] Thus, such letters were immensely reassuring and key to maintaining husband-wife relationships across the seas. In a letter to his wife in 1965 (Fig. 1), Yang Ruixiong wrote:
 
-<div style="background-color: white;"><img style="width:450px"src="/images/Vol-13-issue-4/warm-tidings-in-a-cold-war/04_warmtiding.png">Figure 1: Letter from Yang Ruixiong to his wife Xu Peiyu, 26 March 1965. <i>All rights reserved, Koh Seow Chuan Collection, National Library Board, Singapore.</i></div>
+<div style="background-color: white;"><img style="width:450px" src="/images/Vol-13-issue-4/warm-tidings-in-a-cold-war/04_warmtiding.png">Figure 1: Letter from Yang Ruixiong to his wife Xu Peiyu, 26 March 1965. <i>All rights reserved, Koh Seow Chuan Collection, National Library Board, Singapore.</i></div>
 
 “You sent two letters in a row to quarrel with me, it really amuses me. I was just being hot-tempered and as a result, said a few words that crossed the line. Do you have to be this angry? I will apologise to you now. Sorry, sorry, for my bad manners. Is this satisfactory? We are already an old married couple, does it have to be like this?”[^17]
 
@@ -116,7 +116,7 @@ The Immigration Ordinance No. 5 of 1952, implemented in Singapore on 1 August 19
 
 Thus, even though the new residents were no longer constrained by migration restrictions, they were met with considerable resistance from families back home when asking for their wives to join them in Singapore. The frustration in seeking parental approval was expressed in Liu Shizhao’s remittance letter (Fig. 2):
 
-<div style="background-color: white;"><img style="width:500px"src="/images/Vol-13-issue-4/warm-tidings-in-a-cold-war/05_warmtiding.png">Figure 2: Letter from Liu Shizhao to his mother, date and year unknown. <i>All rights reserved, Koh Seow Chuan Collection, National Library Board, Singapore.</i></div>
+<div style="background-color: white;"><img style="width:500px" src="/images/Vol-13-issue-4/warm-tidings-in-a-cold-war/05_warmtiding.png">Figure 2: Letter from Liu Shizhao to his mother, date and year unknown. <i>All rights reserved, Koh Seow Chuan Collection, National Library Board, Singapore.</i></div>
 
 “Mother, you did not allow my wife to come to Singapore. Ever since I married 10-plus years ago, I have had no children. My wife unfortunately died. I married another woman, but a few months later I had to return to Singapore. My wife is supposed to serve you, and should not come to Singapore. But I am already 30-plus, yet I have no children, I feel really ashamed. Last month, my wife sent me a photograph, and I have applied for an entry number and intend for her to come to Singapore to live with me. I hope, Mother, that you will allow it. One, two years later, we will return home together. It is impossible to return to China right now.”[^33]
 
@@ -152,7 +152,7 @@ Writing in January 1959 in response to his mother’s request for a sewing machi
 
 One letter dated 4 July 1961 (Fig. 3) records a migrant, Liu Saibi (one of the few letters written by women migrants in the collection), sending back 1,000 grams of fertiliser to Hong Kong.[^46] This fertiliser was to be transferred to the local commune and exchanged for food, which would be collected by Liu’s mother.
 
-<div style="background-color: white;"><img style="width:500px"src="/images/Vol-13-issue-4/warm-tidings-in-a-cold-war/06_warmtiding.png">Figure 3: Letter from Liu Saibi to her mother, 4 July 1961. <i>All rights reserved, Koh Seow Chuan Collection, National Library Board, Singapore.</i></div>
+<div style="background-color: white;"><img style="width:500px" src="/images/Vol-13-issue-4/warm-tidings-in-a-cold-war/06_warmtiding.png">Figure 3: Letter from Liu Saibi to her mother, 4 July 1961. <i>All rights reserved, Koh Seow Chuan Collection, National Library Board, Singapore.</i></div>
 
 The remittance letters in the Koh Seow Chuan Collection demonstrate how family relations were kept alive across long distances. The money sent home was put to use for the family’s benefit, while the accompanying letters reinforced the primacy of familial bonds and responsibilities. Through correspondence over matters such as marriage, child-rearing and religious practices, and through expressions of longing and concern in the letters, relationships between the migrants in Southeast Asia and family members back home were strengthened. Despite the physical divide, these letters helped to keep a sense of culture and tradition alive for migrant sons and daughters in faraway lands.
 
