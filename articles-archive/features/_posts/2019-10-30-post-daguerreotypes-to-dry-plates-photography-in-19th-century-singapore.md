@@ -81,9 +81,6 @@ After Dutronquoy’s departure, Singapore was not to see another resident profes
 
 The limited commercial success of daguerreotypes in Singapore could be attributed to several factors: the small consumer population, the relative high price of commissioning a portrait and the capital required to run a professional studio. Human vanity also came into play; for those who were used to seeing a more flattering version of themselves rendered in painting, the stark precision of the daguerreotype could be an unpleasant reality check.
 
-<img style="width: 500px; height: 350px;" src="/images/Vol-15-issue-3/daguerreotypes-to-dry-plates/Daguerreotypes8.JPG">
-<div style="background-color: white;">Two Indian men at a fruit stall from the Sachtler & Co. album, Views and Types of Singapore, 1863, in the collection of the National Library. <i>Lee Kip Lin Collection. All rights reserved, Lee Kip Lin and National Library Board, Singapore.</i></div>
-
 #### **A New Method**
 
 The daguerreotype was eventually superseded by the wet-plate collodion process, which produced a negative image on a glass plate. Invented in 1851 by the British amateur photographer Frederick Scott Archer, the wet-plate process was the most popular photographic method from the mid-1850s to the 1880s.
@@ -123,6 +120,9 @@ That year, it was reported that Hermann had met with a bad accident while taking
 In 1871, Sachtler & Co. relocated to Battery Road before returning to High Street in 1874, reopening as Sachtler’s Photographic Rooms at No. 88, opposite the Hotel d’Europe. By then, the firm was supplying an extensive range of photographs taken around the region, including “views and types of Borneo, Java, Sumatra, Saigon, Siam, Burmah, and Straits Settlements”.[^26] Sachtler & Co. ceased business shortly after; in June 1874, its stock of negatives and equipment was acquired by another photographic studio, Carter & Co.
 
 Held in the National Library of Singapore is an album by Sachtler & Co. titled *Views and Types of Singapore, 1863*, containing 40 albumen prints that make up the oldest photographic material in the library’s collection. As the title indicates, the album features picturesque scenes (“views”) of the settlement and portraits of its diverse inhabitants (ethnographic “types”).
+
+<img style="width: 500px; height: 350px;" src="/images/Vol-15-issue-3/daguerreotypes-to-dry-plates/Daguerreotypes8.JPG">
+<div style="background-color: white;">Two Indian men at a fruit stall from the Sachtler & Co. album, <i>Views and Types of Singapore, 1863</i>, in the collection of the National Library. <i>Lee Kip Lin Collection. All rights reserved, Lee Kip Lin and National Library Board, Singapore.</i></div>
 
 Bearing in mind the inconvenience of the wet-plate process, it is no surprise that photographs during this period tended to be produced in the studio, or if taken outdoors, were of stationary or posed subjects. Portraiture, landscape and architectural views were the norm, as the album amply demonstrates. These were the stock-in-trade of European photographic studios, and served as a visual representation of the exotic “Far East” for a predominantly Western audience.
 
