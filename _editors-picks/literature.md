@@ -46,3 +46,7 @@ permalink: /editors-picks/literature
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-3/oct-dec-2021/singapore-comics" target="_blank">Singapore Comics: Panels Past and Present</a>
 <p>With great power comes great responsibility. Jacqueline Lee and Chiang Yu Xiang use their power to give us an overview of the history of comics in Singapore.</p> 
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-2/jul-sep-2017/sci-fi-in-singapore" target="_blank">Sci-Fi in Singapore: 1970s to 1990s</a>
+<p>The sci-fi frenzy took off in Singapore in 1978 when Star Wars was screened at cinemas here. Nadia Arianna Bte Ramli looks at sci-fi works produced between 1970s and 1990s.</p> 
+<hr>
