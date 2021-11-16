@@ -30,4 +30,7 @@ description: ""
 <p>Raphaël Millet sits through a B-grade movie dismissed by critics as belonging to the genre of Eurospy flicks that parody James Bond – and discovers a slice of Singaporean celluloid history.</p> 
  <img src="/images/Vol-14-issue-3/five-ashore-in-singapore/FiveAshore10.JPG">
  <hr>
-  
+ 
+ #### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-1/apr-jun-2015/early-sg-cinema" target="_blank"> From Tents to Picture Palaces: Early Singapore Cinema</a>
+<p>Few people are aware that Singapore’s cinema history dates back to as early as 1896. Bonny Tan traces its development, from the days of the Magic Lantern projector to the first locally made films.</p> 
+<hr>
