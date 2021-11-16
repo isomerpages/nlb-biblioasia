@@ -136,7 +136,8 @@ One of the most notable Malay medical manuscripts translated into English is Ism
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
 	<b>REFERENCE</b>
 <br><br>
-	Burkill, I.H., & Ismail Munshi. (1930). [<i>The medical book of Malayan medicine</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4980669). Singapore: Botanic Gardens. (Call no.: RCLOS 615.3209595 MED)</div>
+	Burkill, I.H., & Ismail Munshi. (1930). [<i>The medical book of Malayan medicine</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4980669). Singapore: Botanic Gardens. (Call no.: RCLOS 615.3209595 MED)
+</div>
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
 	<b>HUMOURAL THEORY AND MALAY MEDICINE</b>
