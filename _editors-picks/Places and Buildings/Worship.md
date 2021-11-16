@@ -16,5 +16,8 @@ third_nav_title: Places and Buildings
 #### <a target="_blank" href="/vol-12/issue-3/oct-dec-2016/time-honoured-temple" style="text-decoration: none; font-weight: bold;"> Time-honoured Temple Design</a>
 <p>Sri Mariamman Temple is Singapore’s oldest Hindu shrine. Anasuya Soundararajan and Sri Asrina Tanuri describe the architectural features of this landmark.</p> 
 <img src="/images/Vol-12-issue-3/time-honoured-temple-design/02_temple_design.jpg">
-<hr> 
+<hr>
 
+#### <a target="_blank" href="/vol-14/issue-3/oct-dec-2018/honour-of-war-heroes/" style="text-decoration: none; font-weight: bold;"> In Honour of War Heroes: The Legacy of Colin St Clair Oakes</a>
+<p>Who was the architect behind Singapore’s Kranji War Cemetery and other similar memorials in South and Southeast Asia? Athanasios Tsakonas has the story.</p> 
+<hr>
