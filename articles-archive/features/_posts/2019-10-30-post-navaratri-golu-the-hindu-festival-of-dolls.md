@@ -180,4 +180,9 @@ Nair, P. (1997, October 3). [Nine nights of excitement honour the Goddess Devi](
 [^27]:Also known as *kumari puja*.
 [^28]:[*The Straits Times*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19971003-1.2.113.17.8), 3 Oct 1997, p. 17.
 [^29]:Subramanian, 22 Sep 2017; Naaidu, P. (Interviewer). (2018, March 21). [*Oral history interview with Vijayam Balakrishna Sharma*](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/017ba1c8-3d31-11e8-85cf-001a4a5ba61b) [Accession no.: 004262/3/1]. Retrieved from National Archives of Singapore website.
-[^3]:[Oral history interview with Vijayam Balakrishna Sharma](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/017ba1c8-3d31-11e8-85cf-001a4a5ba61b), 21 March 2018.
+[^30]:[*Oral history interview with Vijayam Balakrishna Sharma*](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/017ba1c8-3d31-11e8-85cf-001a4a5ba61b), 21 March 2018.
+[^31]:Bari, 25 Sep 2017.
+[^32]:Author’s interview with Mrs Lalitha Vaidyanathan, 1 July 2019; [*Oral history interview with Komalavalee Soundara Rajan (Mrs)*](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/16e025eb-115e-11e3-83d5-0050568939ad), 17 Oct 1991.
+[^33]:Author’s interview with Darshna Mahadevan, 30 June 2019.
+[^34]:Rotti, 25 Sep 2017.
+[^35]:S. V. Krishnan. (1988, October 21). [Nine days in honour of a brave goddess](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19881021-1.2.74.9). The Straits Times, p. 9. Retrieved from NewspaperSG.
