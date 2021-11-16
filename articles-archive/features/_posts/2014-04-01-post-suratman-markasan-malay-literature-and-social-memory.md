@@ -113,7 +113,7 @@ The phenomenon of levelling down of cultural standards and excellence in our mod
 
 pahlawan Nila Utama kurang disanjung pendekar Melayu / penulis Seri Lanang berdiri termangu menunggu budak Melayu[^18]
 
-the warrior Nila Utama was hardly celebrated by Malay fighters / the writer Seri Lanang stood puzzled waiting for Malay student
+the warrior Nila Utama was hardly celebrated by Malay fighters / the writer Seri Lanang stood puzzled waiting for Malay students
 
 <div style="background-color: white;">
 <br/>
