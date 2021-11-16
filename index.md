@@ -19,7 +19,7 @@ sections:
       url: /vol-17/issue-3/oct-dec-2021/
   - infopic:
       title: "French Impressions "
-      subtitle: New book
+      subtitle: Diard & Duvaucel
       description: A little-known collection from 1818 to 1820 sheds light on the
         early study of the region’s flora and fauna.
       button: Read more
