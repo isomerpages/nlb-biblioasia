@@ -107,3 +107,16 @@ Located at the former King George V Park, the River Valley Swimming Complex was 
 <p align="center">− Giam Kia Woon, 7, student</p>
 
 <div style="background-color: white;"><img src="/images/Vol-13-issue-4/memory-laps/07_memorylaps.png">The swimming pool at River Valley Swimming Complex in 1963. In the first few weeks of the pool’s opening in 1959, it was reported that “tens of thousands of children” visited. The pool was extremely popular until the 1970s, when new estates were built away from the city centre and visitorship dwindled. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;">
+<img style="width:500px" src="/images/Vol-13-issue-4/memory-laps/08_memorylaps.png"><br>
+This is an extract from Great Lengths: Singapore’s Swimming Pools (2017) published by Kucinta Books. It retails for S$28 at major bookshops and is also available for reference and loan at the Lee Kong Chian Reference Library and selected public libraries (Call nos.: RSING 797.20095957 GRE and SING 797.20095957 GRE).
+</span>
+
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Vol-13-issue-4/memory-laps/jessie-yak.png">
+	<b>Jocelyn Lau</b> is a an editor and a writer with postgraduate qualifications in publishing. She is the co-publisher of <i>Kucinta Books</i>.
+</div>
+
+<a href="/vol-13/issue-4/jan-mar-2018/"><center>Back to Issue</center></a>
