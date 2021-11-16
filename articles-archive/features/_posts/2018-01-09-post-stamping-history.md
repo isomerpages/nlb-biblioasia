@@ -122,51 +122,52 @@ Ironically, postage stamps have today come full circle to when they were first c
 
 #### **NOTES**
 
-Singapore Stamp Club. (1967). Singapore Independence stamps. In 1867–1967 Centennial Stamp Exhibition commemorating one hundred years of postage stamps in Singapore… at the National Library: [Souvenir programme] (p. 2). Singapore: Singapore Stamp Club. (Call no.: RCLOS 769.5695957 SIN)
+[^1]:Singapore Stamp Club. (1967). Singapore Independence stamps. In 1867–1967 Centennial Stamp Exhibition commemorating one hundred years of postage stamps in Singapore… at the National Library: [Souvenir programme] (p. 2). Singapore: Singapore Stamp Club. (Call no.: RCLOS 769.5695957 SIN)
 
-Singapore Stamp Club, 1967, p. 2.
+[^2]:Singapore Stamp Club, 1967, p. 2.
 
-Ministry of Culture. (1968, August 27). Speech of Mr Yong Nyuk Lin, Minister for Communications at the inaugural meeting of the Stamp Advisory Committee held at the conference room of the Malayan Rubber Export Registration Board, 3rd Floor, Fullerton Building on Tuesday, 27th August, 1968 at 1500 Hours. Retrieved from National Archives of Singapore website.
+[^3]:Ministry of Culture. (1968, August 27). Speech of Mr Yong Nyuk Lin, Minister for Communications at the inaugural meeting of the Stamp Advisory Committee held at the conference room of the Malayan Rubber Export Registration Board, 3rd Floor, Fullerton Building on Tuesday, 27th August, 1968 at 1500 Hours. Retrieved from National Archives of Singapore website.
 
-5 stamp issues for next year. (1969, August 8). The Straits Times, p. 6. Retrieved from NewspaperSG.
+[^4]:5 stamp issues for next year. (1969, August 8). The Straits Times, p. 6. Retrieved from NewspaperSG.
 
-Loh, P.Y. (2013–2014). Stamp up for Singapore: Commemoration in National Day Stamps, 1960–1984 (p. 15) (Unpublished thesis). Retrieved from Academia website.
+[^5]:Loh, P.Y. (2013–2014). Stamp up for Singapore: Commemoration in National Day Stamps, 1960–1984 (p. 15) (Unpublished thesis). Retrieved from Academia website.
 
-The inaugural Stamp Advisory Committee was chaired by Phua Bah Lee, (Parliamentary Secretary, Ministry of Communications) and comprised M. Bala Subramanion (Postmaster General), Roy Daniel (Head, Publicity Division, Ministry of Culture), Koh Seow Chuan (Ag. President, Singapore Stamp Club), Choy Weng Yang (Lecturer, Arts & Crafts, Teachers’ Training College), Lian Hock Lian (Assistant Secretary, Ministry of Communications), W. Maxwell (Philatelist), Eric Khoo Cheng Lock (Philatelist) and Patrick Lee Boon Guan (Assistant Controller of Posts).
+[^6]:The inaugural Stamp Advisory Committee was chaired by Phua Bah Lee, (Parliamentary Secretary, Ministry of Communications) and comprised M. Bala Subramanion (Postmaster General), Roy Daniel (Head, Publicity Division, Ministry of Culture), Koh Seow Chuan (Ag. President, Singapore Stamp Club), Choy Weng Yang (Lecturer, Arts & Crafts, Teachers’ Training College), Lian Hock Lian (Assistant Secretary, Ministry of Communications), W. Maxwell (Philatelist), Eric Khoo Cheng Lock (Philatelist) and Patrick Lee Boon Guan (Assistant Controller of Posts).
 
-‘150’ stamps a big hit. (1969, September 10). The Straits Times, p. 4. Retrieved from NewspaperSG.
+[^7]:‘150’ stamps a big hit. (1969, September 10). The Straits Times, p. 4. Retrieved from NewspaperSG.
 
-A First day cover consists of the stamp on a cover, post card or envelope, and postmarked with the date that the stamp is first authorised for use.
+[^8]:A First day cover consists of the stamp on a cover, post card or envelope, and postmarked with the date that the stamp is first authorised for use.
 
-Lim, T. (1986, November 10). Stamps can bring big returns over time. The Straits Times, p. 20. Retrieved from NewspaperSG.
+[^9]:Lim, T. (1986, November 10). Stamps can bring big returns over time. The Straits Times, p. 20. Retrieved from NewspaperSG.
 
-Chia, P. (1972, December 18). $1million S’pore stamps sold in a year. The Straits Times, p. 9. Retrieved from NewspaperSG.
+[^10]:Chia, P. (1972, December 18). $1million S’pore stamps sold in a year. The Straits Times, p. 9. Retrieved from NewspaperSG.
 
-Ang, B. (2016, October 30). Stamp of passion. The Straits Times, p. 3. Retrieved from NewspaperSG.
+[^11]:Ang, B. (2016, October 30). Stamp of passion. The Straits Times, p. 3. Retrieved from NewspaperSG.
 
-Federation man wins Singapore contest. (1961, November 20). The Straits Times, p. 5; Lack of interest may hold up stamps. (1958, August 21). The Straits Times, p. 10. Retrieved from NewspaperSG.
+[^12]:Federation man wins Singapore contest. (1961, November 20). *The Straits Times*, p. 5; Lack of interest may hold up stamps. (1958, August 21). *The Straits Times*, p. 10. Retrieved from NewspaperSG.
 
-Chance put gold lion on new stamp. (1959, May 20). The Singapore Free Press, p. 7. Retrieved from NewspaperSG.
+[^13]:Chance put gold lion on new stamp. (1959, May 20). The Singapore Free Press, p. 7. Retrieved from NewspaperSG.
 
-Stamp collecting within the means of many. (1978, August 20). The Straits Times, p. 7. Retrieved from NewspaperSG.
+[^14]:Stamp collecting within the means of many. (1978, August 20). The Straits Times, p. 7. Retrieved from NewspaperSG.
 
-Teo, K.G. (Interviewer). (2012, September 27). Oral history interview with Loy Eng Siak [Cassette recording no. 003762/7/2]. (Note: A written request to the National Archives of Singapore is required to access this interview.).
+[^15]:Teo, K.G. (Interviewer). (2012, September 27). Oral history interview with Loy Eng Siak [Cassette recording no. 003762/7/2]. (Note: A written request to the National Archives of Singapore is required to access this interview.).
 
-Tay, E. (2013, March 17). Three months to design stamp set. The Straits Times, p. 2. Retrieved from NewspaperSG.
-The Straits Times, 30 Oct 2016, p. 3.
+[^16]:Tay, E. (2013, March 17). Three months to design stamp set. The Straits Times, p. 2. Retrieved from NewspaperSG.
 
-An issue is born: Commonwealth Heads of Government Meeting 1971 Singapore (1971, March). Gibbons Stamp Monthly, pp. 262–263. United Kingdom: Stanley Gibbons.
+[^17]:The Straits Times, 30 Oct 2016, p. 3.
 
-Tan, C. (1986, November 15). Designer makes yet another mark. The Straits Times, p.13. Retrieved from NewspaperSG.
+[^18]:An issue is born: Commonwealth Heads of Government Meeting 1971 Singapore (1971, March). Gibbons Stamp Monthly, pp. 262–263. United Kingdom: Stanley Gibbons.
 
-Infocomm Media Development Authority. (n.d.). Criteria and guidelines for selection of stamp themes. Retrieved from Infocomm Media Development Authority website.
+[^19]:Tan, C. (1986, November 15). Designer makes yet another mark. The Straits Times, p.13. Retrieved from NewspaperSG.
 
-The cultural divide in stamp image. (1971, July 14). New Nation, p. 8. Retrieved from NewspaperSG.
+[^20]:Infocomm Media Development Authority. (n.d.). Criteria and guidelines for selection of stamp themes. Retrieved from Infocomm Media Development Authority website.
 
-Lim, C.T. (2009, November 27). Stamps: Irrelevant themes, poor designs. The Straits Times, p. 31; Lim, C.T., et al. (2010, March 30). Revive role of stamps in marking Singapore history. The Straits Times, p. 20. Retrieved from NewspaperSG.
+[^21]:The cultural divide in stamp image. (1971, July 14). New Nation, p. 8. Retrieved from NewspaperSG.
 
-Kong, L., & Ng, S.F. (2010, April 2). S’pore’s history and heritage captured in stamps. The Straits Times, p. 41. Retrieved from NewspaperSG.
+[^22]:Lim, C.T. (2009, November 27). Stamps: Irrelevant themes, poor designs. The Straits Times, p. 31; Lim, C.T., et al. (2010, March 30). Revive role of stamps in marking Singapore history. The Straits Times, p. 20. Retrieved from NewspaperSG.
 
-The Straits Times, 18 Dec 1972, p. 9.
+[^23]:Kong, L., & Ng, S.F. (2010, April 2). S’pore’s history and heritage captured in stamps. The Straits Times, p. 41. Retrieved from NewspaperSG.
 
-Wee, C.F. (2015, August 3). Stamping his mark on a changing postal landscape. The Straits Times, p. 3. Retrieved from NewspaperSG.
+[^24]:The Straits Times, 18 Dec 1972, p. 9.
+
+[^25]:Wee, C.F. (2015, August 3). Stamping his mark on a changing postal landscape. The Straits Times, p. 3. Retrieved from NewspaperSG.
