@@ -110,7 +110,7 @@ Located at the former King George V Park, the River Valley Swimming Complex was 
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;">
 <img style="width:500px" src="/images/Vol-13-issue-4/memory-laps/08_memorylaps.png"><br>
-This is an extract from Great Lengths: Singapore’s Swimming Pools (2017) published by Kucinta Books. It retails for S$28 at major bookshops and is also available for reference and loan at the Lee Kong Chian Reference Library and selected public libraries (Call nos.: RSING 797.20095957 GRE and SING 797.20095957 GRE).
+	This is an extract from <i>Great Lengths: Singapore’s Swimming Pools</i> (2017) published by Kucinta Books. It retails for S$28 at major bookshops and is also available for reference and loan at the Lee Kong Chian Reference Library and selected public libraries (Call nos.: RSING 797.20095957 GRE and SING 797.20095957 GRE).
 </span>
 
 <div style="background-color: white;">
