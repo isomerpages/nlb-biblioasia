@@ -151,4 +151,17 @@ On a positive note, the communists never regained their foothold in Malaya. They
 [^7]:[Miller](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081352), 1981, p. 77.
 [^8]:O’Ballance, E. (1966). [*Malaya: The Communist insurgent war, 1948–1960*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=714586) (p. 109).  London: Faber and Faber Limited. (Call no.: RCLOS 959.5 OBA-[JSB]). Amenities such as water, electricity, medical facilities and schools were provided for settlers in the New Villages. The villagers were run by locally elected village councillors. See Barber, N. (1971). [*The war of the running dogs: How Malaya defeated the communist guerrillas, 1948–60*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=839401) (p. 103). London: Collins. (Call no.: RDLKL 959.5 BAR).
 [^9]:[O’Ballance](https://eservice.nlb.gov.sg/item_holding.aspx?bid=714586), 1966, p. 110.
-[^10]:Barber, 1971, p. 103.
+[^10]:[Barber](https://eservice.nlb.gov.sg/item_holding.aspx?bid=839401), 1971, p. 103.
+[^11]:[O’Ballance](https://eservice.nlb.gov.sg/item_holding.aspx?bid=714586), 1966, p. 110.
+[^12]:[Barber](https://eservice.nlb.gov.sg/item_holding.aspx?bid=839401), 1971, p. 103.
+[^13]:[Miller](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081352), 1981, p. 73.
+[^14]:[Barber](https://eservice.nlb.gov.sg/item_holding.aspx?bid=839401), 1971, p. 110.
+[^15]:Koya, Z. (1998, August 1). Villagers’ sacrifice to beat the reads. *New Straits Times*, p. 7. Retrieved from ProQuest Central.
+[^16]:[Aged man jailed for consorting](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19510621-1.2.53). (1951, June 21). Singapore Standard, p. 3. Retrieved from NewspaperSG.
+[^17]:
+[^18]:
+[^19]:
+[^2]:Had food for bandits, gets 3 years’ jail. (1952, August 21). Singapore Standard, p. 4. Retrieved from NewspaperSG.
+Bandit supplier gets ten years. (1952, September 12). Singapore Standard, p. 5. Retrieved from NewspaperSG.
+Singapore Standard, 12 Sep 1952, p. 5.
+Terrorists kill man who said no. (1954, December 17). The Straits Times, p. 4. Retrieved from NewspaperSG.
