@@ -21,7 +21,7 @@ permalink: /editors-picks/culture
  <img src="/images/vol-16-issue-3/betel/twomensellingbetel.jpg" style="width:500px;"> 
 <hr>
  
- #### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-2/jul-sep-2018/search-of-seven-sis/" target="_blank">In Search of the Seven Sisters Festival</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-2/jul-sep-2018/search-of-seven-sis/" target="_blank">In Search of the Seven Sisters Festival</a>
 <p>This time-honoured festival has left no tangible trace of its observance in Singapore. Tan Chui Hua pieces together oral history interviews to reconstruct its proper place in Chinese culture.</p> 
 <img src="/images/Vol-14-issue-2/in-search-of-the-seven-sis/Festival1.JPG">
 <hr>
