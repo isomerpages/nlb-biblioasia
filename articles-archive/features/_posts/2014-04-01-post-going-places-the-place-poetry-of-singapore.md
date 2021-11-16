@@ -20,7 +20,7 @@ Terence Heng provides such an example:
 
 <i>Racks of clothes along racks of clocks, as if ticking away the fashion of the eras. <br>Fortune telling weight machine, I never stepped on one before. Durian sign sale, bicycle underneath no-bicycle sign. <br>Rusty trishaw parked outside renovated lifts. And an old dental surgery somewhere next to an older barber in the HDB. <br>Urn, three joss sticks burnt out sometime ago.</i>
 
-<div style="text-align:right;">– Excerpt from “Postcards from Chinatown”, Terence Heng (October 2009)</div>
+<div style="text-align: right">– Excerpt from "<i>Postcards from Chinatown</i>", Terence Heng (October 2009)</div>
 
 Here, the poet expresses a sense of nostalgia for a place that is vastly different between how he remembers it to be and how commercialised it is now. While his descriptions of some of these sights and sounds of Chinatown may be specific to a particular space and time, they nevertheless paint a picture of a place that is familiar to us all. By actively remembering a place for what it once was, or while it still exists, the poet keeps it alive in the national rhetoric. In this interplay between memory and loss, “Going Places” hopes to keep these places alive in spite of their absence from the cityscape. 
 
@@ -28,11 +28,12 @@ What “Going Places” does hope to ultimately achieve is to provide Singaporea
 
 <i>But this lion of the sea <br>Salt-maned, scaly, wondrous of tail, <br>Touched with power, insistent <br>On this brief promontory... <br>Puzzles.</i>
 
-<div style="text-align:right;">– “*Ulysses By The Merlion*”, Edwin Thumboo</div>
+
+<div style="text-align: right"> "<i>Ulysses By The Merlion</i>", Edwin Thumboo</div>
 
 <i>I am the scion of a wealthy race. <br>I wear the silver armour of my moneyed people.</i>
 
-<div style="text-align:right;">– “*The Merlion To Ulysses*”, Lee Tzu Pheng</div>
+<div style="text-align: right"> "<i>The Merlion To Ulysses</i>", Lee Tzu Pheng</div>
 
 All the poems featured in the exhibition are accompanied by the voice recordings of the poets reading their work(s) and recounting the occasional inside-story behind the poem. While the memories may be specific to the poets themselves, the ideas and histories of the places that they mention undeniably form a part of who we are as Singaporeans whether we choose to accept it or not. Places such as Chinatown, with its contrasts between new and old, “authentic” and “artificial”, form a part of our multifarious <i>“rojak culture”</i> as described by Terence Heng. 
 
