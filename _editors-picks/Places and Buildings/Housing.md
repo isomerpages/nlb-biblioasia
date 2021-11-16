@@ -17,3 +17,7 @@ third_nav_title: Places and Buildings
 <p>Through buildings like Amber Mansions, Eu Court and Meyer Flats, colonial architects Swan & Maclaren introduced the concept of apartment living in Singapore, as Julian Davison tells us.</p> 
 <img src="/images/vol-17-issue-2/mansions/Mansion_Main.jpg">
 <hr>
+
+#### <a target="_blank" href="/vol-12/issue-3/oct-dec-2016/saving-pearl-bank-apt" style="text-decoration: none; font-weight: bold;"> Saving Pearl Bank Apartments</a> 
+<p>Architectural conservation or real estate investment? Justin Zhuang ponders over the fate of a 1970s style icon that has seen better times.</p> 
+<hr>
