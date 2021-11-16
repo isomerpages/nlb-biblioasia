@@ -2,7 +2,6 @@ collections:
   editors-picks:
     output: true
     order:
-      - Places and Buildings/.keep
       - art.md
       - culture.md
       - food.md
@@ -11,4 +10,5 @@ collections:
       - medicine.md
       - nature-and-the-environment.md
       - people.md
+      - Places and Buildings/.keep
       - places-and-buildings.md
