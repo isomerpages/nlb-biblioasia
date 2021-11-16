@@ -16,7 +16,7 @@ To encourage the flow of remittances from abroad, such families were given prefe
 
 #### **The Value of Remittance Letters**
 
-Letters accompanying these remittances, namely qiaopi (侨批), continued to actively circulate between Southeast Asia and China during the Cold War. According to Liu Haiming, letter writing served several functions in traditional Chinese families: “as an important communication channel, a vehicle of moral education… and… as a composition writing exercise for children”.[^3]
+Letters accompanying these remittances, namely *qiaopi* (侨批), continued to actively circulate between Southeast Asia and China during the Cold War. According to Liu Haiming, letter writing served several functions in traditional Chinese families: “as an important communication channel, a vehicle of moral education… and… as a composition writing exercise for children”.[^3]
 
 Remittance letters are important primary sources in the study of Chinese migrant experiences during this important period in Asian and global history as they provide a glimpse into the experiences, world views, values and expectations of migrants. Important matters were discussed and settled in the letters, from ancestor worship, marriage and child-bearing to health education and migration.
 
