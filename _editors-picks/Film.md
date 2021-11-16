@@ -21,3 +21,8 @@ description: ""
 <p> Wong Han Min’s treasure trove of film memorabilia – collected over three decades – provides a glimpse of Singapore’s rich cinematic past.</p> 
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-1/apr-jun-2015/culture-on-celluloid" target="_blank"> Culture on Celluloid: Alternative Films in Singapore</a>
+<p> Intellectual and art house films have a long history in Singapore but the issues the genre faces have changed little over the years. Gracie Lee charts the challenges of alternative cinema in our city.</p> 
+<hr>
+
+
