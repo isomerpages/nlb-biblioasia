@@ -29,6 +29,10 @@ permalink: /editors-picks/nature
 <p>The 1933 Report of the Wild Animals and Wild Birds Committee represents a failed attempt to regulate the buying and selling of wildlife in pre-war Singapore, says Fiona Tan.</p> 
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-1/apr-jun-2018/blooming-lies-vandaj/" target="_blank">Blooming Lies: The Vanda Miss Joaquim Story</a>
+<p>Is the Vanda Miss Joaquim a human-made hybrid or a happy accident? In this cautionary tale, Nadia Wright, Linda Locke and Harold Johnson recount how fiction becomes truth when it is repeated often enough.</p> 
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-2/jul-sep-2018/revulsion-n-reverenc/" target="_blank">Revulsion and Reverence: Crocodiles in Singapore</a>
 <p>Crocodiles elicit fear and respect by turns – and occasionally, even indifference. Kate Pocklington and Siddharta Perez document reptilian encounters at specific times in Singapore’s history and their impact on the human psyche.</p> 
 <img src="/images/Vol-14-issue-2/revulsion-and-reverence/Croc1.JPG">
