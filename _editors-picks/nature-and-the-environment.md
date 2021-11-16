@@ -30,7 +30,7 @@ permalink: /editors-picks/nature
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-1/apr-jun-2018/blooming-lies-vandaj/" target="_blank">Blooming Lies: The Vanda Miss Joaquim Story</a>
-<p>Is the Vanda Miss Joaquim a human-made hybrid or a happy accident? In this cautionary tale, Nadia Wright, Linda Locke and Harold Johnson recount how fiction becomes truth when it is repeated often enough.</p> 
+<p>Is the *Vanda* Miss Joaquim a human-made hybrid or a happy accident? In this cautionary tale, Nadia Wright, Linda Locke and Harold Johnson recount how fiction becomes truth when it is repeated often enough.</p> 
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-2/jul-sep-2018/revulsion-n-reverenc/" target="_blank">Revulsion and Reverence: Crocodiles in Singapore</a>
