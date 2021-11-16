@@ -34,3 +34,9 @@ description: ""
  #### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-1/apr-jun-2015/early-sg-cinema" target="_blank"> From Tents to Picture Palaces: Early Singapore Cinema</a>
 <p>Few people are aware that Singapore’s cinema history dates back to as early as 1896. Bonny Tan traces its development, from the days of the Magic Lantern projector to the first locally made films.</p> 
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-2/jul-sep-2017/reel-life-singapore" target="_blank"> Reel Life Singapore: The Films of Clyde E. Elliott
+</a>
+<p>Clyde Elliott was the first Hollywood director to shoot a feature film in Singapore. Chua Ai Lin examines the authenticity of the three movies he produced here in the 1930s.
+</p> 
+<hr>
