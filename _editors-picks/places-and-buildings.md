@@ -5,9 +5,7 @@ permalink: /editors-picks/places-buildings
 #### <a target="_blank" href="/vol-16/issue-2/jul-sep-2020/ghcafe" style="text-decoration: none; font-weight: bold;"> G.H. Cafe: A Dining Landmark on Battery Road</a>
 <p>G.H. Cafe was a fashionable eatery in the business district that was popular among Singapore’s well-heeled. Vandana Aggarwal relives the history of this landmark institution.</p> 
 <img src="/images/Vol-16-issue-2/ghcafe/GHCafe.jpg" style="width:100%;">  
-<hr clear="left"> 
-
-
+<hr> 
 
 #### <a target="_blank" href="/vol-16/issue-3/oct-dec-2020/building" style="text-decoration: none; font-weight: bold;"> Planning to Build, Building to Plan</a>
 <p>The collection of building plans in the National Archives of Singapore is a treasure trove of information about the history of urban Singapore, says Yap Jo Lin.</p> 
