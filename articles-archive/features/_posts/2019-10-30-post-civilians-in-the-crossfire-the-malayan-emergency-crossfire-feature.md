@@ -160,5 +160,15 @@ On a positive note, the communists never regained their foothold in Malaya. They
 [^16]:[Aged man jailed for consorting](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19510621-1.2.53). (1951, June 21). *Singapore Standard*, p. 3. Retrieved from NewspaperSG.
 [^17]:[Had food for bandits, gets 3 years’ jail](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19520821-1.2.70). (1952, August 21). *Singapore Standard*, p. 4. Retrieved from NewspaperSG.
 [^18]:[Bandit supplier gets ten years](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19520912-1.2.70). (1952, September 12). *Singapore Standard*, p. 5. Retrieved from NewspaperSG.
-[^19]:[Singapore Standard](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19520912-1.2.70), 12 Sep 1952, p. 5.
-[^2]:Terrorists kill man who said no. (1954, December 17). The Straits Times, p. 4. Retrieved from NewspaperSG.
+[^19]:[*Singapore Standard*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19520912-1.2.70), 12 Sep 1952, p. 5.
+[^20]:[Terrorists kill man who said no](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19541217-1.2.61). (1954, December 17). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
+[^21]:
+[^22]:
+[^23]:
+[^24]:
+[^25]:
+[^26]:
+[^27]:
+[^28]:
+[^29]:
+[^3]:
