@@ -137,6 +137,39 @@ One of the most notable Malay medical manuscripts translated into English is Ism
 <br><br>
 	Burkill, I.H., & Ismail Munshi. (1930). [<i>The medical book of Malayan medicine</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4980669). Singapore: Botanic Gardens. (Call no.: RCLOS 615.3209595 MED)</span>
 
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; ">
+Healing Practices 
+  <br>
+One of the most notable Malay medical manuscripts translated into English is Ismail Munshi’s <i>The Medical Book of Malayan Medicine</i>. Originally written in Jawi (c. 1850), it contains over 550 remedies for maladies ranging from migraines to depression, bloatedness and leprosy.</p>
+<table span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; ">
+  <tr>
+    <td>&nbsp; &nbsp;</td>
+    <td>For Violent Headaches and Loss of Energy</td>
+    <td>For Dizziness and Vertigo</td>
+		<td>For Night Chills</td>
+  </tr>
+<tr>
+<td>Ingredients</td>
+<td>Cumin seeds (5 cents) <br> Garlic (10 cents)<br>Indian hemp<br>Ginger<br><i>Smilax china</i><br>Mace (35 cents) <br> Nutmeg (5 cents) <br> Henbane <br>Javanese ginger</td>
+<td> 5 young shoots of betel vine <br>Red onion <br>Fennel seeds</td>
+<td> <i>Daun medan</i> (root of an unidentified plant) <br> 7 kernels of the fruit of the candle nut</td>
+</tr>
+	  <tr>
+    <td> Method</td>
+    <td>Pound all ingredients together and mix with honey to form into tablets. Patient to take tablets until course of treatment is complete.</td>
+    <td>Grind finely. Place the pulp on a piece of cloth. Squeeze the juice into the patient’s eyes for three days.</td>
+		<td>Reduce both ingredients to fine pulp. Apply to patient’s head.</td>
+  </tr>
+</table>
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
+	<b>REFERENCE</b>
+<br><br>
+	Burkill, I.H., & Ismail Munshi. (1930). [<i>The medical book of Malayan medicine</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4980669). Singapore: Botanic Gardens. (Call no.: RCLOS 615.3209595 MED)</span>
+
+
+
+
+
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
 	<b>HUMOURAL THEORY AND MALAY MEDICINE</b>
 <br><br>
