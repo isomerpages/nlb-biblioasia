@@ -103,10 +103,16 @@ It is believed that once you have begun the tradition of celebrating Golu, you c
 <img src="/images/Vol-15-issue-3/navaratri-golu/Navaratri7.JPG">
 <div style="background-color: white;">Relatives and friends of Usha Mohan viewing the Golu display in her home and singing devotional songs, 2019. <i>Courtesy of Usha Mohan.</i></div>
 
-Keeping the Tradition Alive
+#### **Keeping the Tradition Alive**
 
 Mrs Lalitha Vaidyanathan and my mother, Mrs Komalavalee Soundararajan, who was interviewed by the National Archives in 1991, believe that the doll display, daily prayers and gathering of people usher a divine presence into the home and bring with them a sense of fulfilment and happiness. Having practised the tradition for decades in Singapore, they hope to see women of the younger generation celebrate this festival in their own homes.32
 
 Darshna Mahadevan, who is in her late 20s, has been putting up a Golu display in her home since she married two years ago. She is determined to continue the tradition started by her mother and grandmother, and wishes that more young people would celebrate Golu in Singapore.33
 
 Golu not only showcases the rich culture and customs of Hindus, but it is also a way for young people to be introduced to the various deities and their significance in Hinduism.34 Navaratri is also an occasion to seek divine blessings and spiritual fulfilment. On a social level, Golu provides the chance to meet and engage in community fellowship, offering an opportunity for everyone to discover more about Hindu mythology and religious practices.35
+
+<img src="/images/Vol-15-issue-3/navaratri-golu/Navaratri8.JPG">
+<div style="background-color: white;">Traditional Thanjavur dolls – representing a grandmother and a grandfather – are bobble-head dolls made of paper and clay or plaster of Paris. <i>Courtesy of Anasuya Soundararajan.</i></div>
+<br>
+<img src="/images/Vol-15-issue-3/navaratri-golu/Navaratri9.JPG">
+<div style="background-color: white;">The <i>kalasam</i> is a silver or brass pot containing water, and decorated with a jasmine and rose garland. Its opening is covered with mango leaves and topped with a coconut. <i>Courtesy of Anasuya Soundararajan.</i></div>
