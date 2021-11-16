@@ -15,6 +15,8 @@ Suratman Markasan is considered as one of Singapore’s literary pioneers. <i>Im
 
 <div style="text-align:right;">Suratman Markasan, *Penghulu*(2012: 243)</div>
 
+<div style="text-align: right"> Suratman Markasan, <i>Penghulu</i>(2012: 243)</div>
+
 Suratman Markasan was born in 1930 in Pasir Panjang, Singapore. After completing his studies at Sultan Idris Training College (SITC) in Perak (Malaysia) in 1950, he joined the teaching service and in 1968 enrolled in Nanyang University, graduating three years later with a degree in Malay and Indonesian Studies. He was appointed as Assistant Director for Malay and Tamil studies at the Ministry of Education and following that, lectured at the Institute of Education until 1995. His literary career spans from the early 1950s right up to the present. In 1989, Suratman received the SEA Write Award from the Thai monarch[^1] and in 2010, was awarded Singapore’s prestigious Cultural Medallion for Literary Arts. 
 
 Suratman is a respected figure in modern Malay literary history. He is a Singapore writer through and through, exemplified in many of his works, both verse and prose. His literary repertoire encompasses three main areas: social critiques, with morality and ethics as the main criteria for evaluating ideas, values and practices; the observation of the social, cultural and political changes that have impacted Malay society; and the clamour for religious reforms and the return to religion in the midst of vast changes taking place in modern society. To Suratman, religion and ethics are essential tools to address the dehumanisation of thought and practices in society.
