@@ -11,6 +11,12 @@ permalink: /editors-picks/literature
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-4/jan-march-2015/on-the-trail" target="_blank">On the Trail of Francis P. Ng: Author of F.M.S.R.</a>
 <p>In her effort to republish one of our unknown literary treasures, Dr Eriko Ogihara-Schuck tracks down the elusive Francis P. Ng, author of possibly the first notable work of poetry in English by a Singapore writer.</p> 
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-3/oct-dec-2021/strangevision" target="_blank">Strange Visions of Singapore and the Malay Peninsula</a>
+<p>From a letter written by a human-monkey chimera to a dog who became king, Benjamin J.Q. Khoo regales us with four fantastical tales that reflect European views of Southeast Asia.</p> 
+<img src="/images/vol-17-issue-3/strange-vision/Solomon%20Receiving.jpg">
+<hr>
+ 
  
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-1/apr-jun-2021/manvsnature" target="_blank"> Man vs Nature: Speculative Fiction and the Environment</a>
 <p>Jacqueline Lee surveys the landscape of Singapore speculative fiction to see how writers address pressing environmental concerns in their novels and short stories.</p>  
