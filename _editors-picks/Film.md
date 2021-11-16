@@ -10,8 +10,8 @@ description: ""
  
  #### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-1/apr-jun-2015/revival-sg-cinema" target="_blank"> The Revival of Singapore Cinema: 1995–2014</a>
 <p> Singapore’s film industry gets a reboot as it enters a new phase of its development. Raphaël Millet explains how this resurgence came about.</p> 
- <hr>
-  
+<hr>
+
  #### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-1/apr-jun-2015/svph" target="_blank"> Spies, Virgins, Pimps and Hitmen: Singapore Through the Western Lens </a>
 <p> Western filmmakers have always had a fascination for Singapore. Ben Slater tells you why.</p> 
  <img src="/images/vol-11-issue-1/spiesvirginspimps/half_singapore_styleA_HP05668_L.jpg">
@@ -26,3 +26,8 @@ description: ""
 <hr>
 
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-3/oct-dec-2018/five-ashore-in-sg/" target="_blank"> Five Ashore in Singapore: A European Spy Film</a>
+<p>Raphaël Millet sits through a B-grade movie dismissed by critics as belonging to the genre of Eurospy flicks that parody James Bond – and discovers a slice of Singaporean celluloid history.</p> 
+ <img src="/images/Vol-14-issue-3/five-ashore-in-singapore/FiveAshore10.JPG">
+ <hr>
+  
