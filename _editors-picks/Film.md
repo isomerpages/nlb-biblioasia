@@ -40,3 +40,12 @@ description: ""
 <p>Clyde Elliott was the first Hollywood director to shoot a feature film in Singapore. Chua Ai Lin examines the authenticity of the three movies he produced here in the 1930s.
 </p> 
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-1/apr-jun-2016/gaston-melies" target="_blank"> Gaston Mèliès and His Lost Films of Singapore</a>
+ <p>Gaston Méliès may be the first filmmaker to have directed fiction films in Singapore. Unfortunately, none have survived the ravages of time. Raphaël Millet tells you why.</p> 
+ <img src="/images/Vol-12-issue-1/gaston-melies/01-gastonmelies.jpg">
+ <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-1/apr-jun-2017/chaplininsingapore" target="_blank"> Chaplin in Singapore</a>
+<p>One of history’s greatest comic actors, Charlie Chaplin, stops over in Singapore in 1932 and makes a return visit in 1936. Raphaël Millet traces these journeys.</p> 
+<hr>
