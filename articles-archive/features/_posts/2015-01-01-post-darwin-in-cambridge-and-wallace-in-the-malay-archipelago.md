@@ -8,7 +8,7 @@ layout: post
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-4/darwinandwallace/darwin.jpg">
+<img style="width:80%" src="/images/vol-10-issue-4/darwinandwallace/darwin.jpg">
 Photograph of Charles Darwin, 1854.
 </div>
 
@@ -46,7 +46,7 @@ Darwin became the loyal pupil of John Stevens Henslow, a professor of botany, fr
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-4/darwinandwallace/cambridge_graduate.jpg">
+<img style="width:80%" src="/images/vol-10-issue-4/darwinandwallace/cambridge_graduate.jpg">
 A Cambridge graduate in the 1820s sporting the latest fashion – trousers (instead of knee breeches).
 </div>
 	
@@ -58,7 +58,7 @@ Christ's College, Cambridge, where Darwin spent his undergraduate years.
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-4/darwinandwallace/Darwin_room.jpg">
+<img style="width:80%" src="/images/vol-10-issue-4/darwinandwallace/Darwin_room.jpg">
 Restoration of Darwin's room at Christ's College was completed in 2009. He lived here from 1828–1831.
 </div>
 
