@@ -8,7 +8,7 @@ layout: post
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-4/geo-geographic/Itinerarium_Sacrae_Scripturae.jpg">
+<img style="width:70%" src="/images/vol-10-issue-4/geo-geographic/Itinerarium_Sacrae_Scripturae.jpg">
 This map is from <i>Itinerarium Sacrae Scripturae (Itinerary of Holy Scripture)</i>, written by the 16th-century pastor and theologian, Heinrich Bunting. The map shows the continent of Asia as Pegasus, the winged horse in Greek mythology. The book, which features the Bible written in the form of a travel account, was first published in 1581. Another map in the book depicts the world in the shape of a three-leaf clover with the scared city of Jerusalem in the centre and with Asia, Europe and Africa as leaves. <i>National Library of Singapore Collection.</i>
 </div>
 
@@ -25,7 +25,7 @@ Maps, atlases and globes are often used metaphorically to represent power (real 
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-4/geo-geographic/Jahangir_reformat.jpg">
+<img style="width:70%" src="/images/vol-10-issue-4/geo-geographic/Jahangir_reformat.jpg">
 Painting of the fourth Mughal emperor, Jahangir, standing atop a terrestrial globe. <i>The Trustees of the Chester Beatty Library, Dublin (CBL /n07A. 15). www.cbl.ie ©</i>
 </div>
 	
@@ -35,7 +35,7 @@ Maps have a special significance in Singapore. Given the dearth of historical ma
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-4/geo-geographic/19th_century_chart.jpg">
+<img style="width:70%" src="/images/vol-10-issue-4/geo-geographic/19th_century_chart.jpg">
 This 19th-century chart with place names written in Bugis script is a rare example of an extant map of the region drawn by an unnamed Southeast Asian cartographer. Some early maps of the region drawn by Europeans are believed to have been based on indigenous maps and sources. In turn, indigenous cartographic traditions were also influenced by European maps of the time. This nautical chart, believed to a pirate's map, shows heavy borrowings from Dutch maps. <i>Courtesy of Univeristy of Utrecht Library.</i>
 </div>
 
@@ -46,10 +46,10 @@ This anchor exhibition for "GeolGraphic" reveals how Southeast Asia was perceive
 	
 A highlight of the exhibition are several pre-1800 maps that contain names such as Cinca pula, Cingatola and Sincapura. Could these names refer to Singapore? Also on display are early printed and hand-drawn maps that identify Singapore as Old Strieghts of Sincapura, lantana, Pulo Panjang and Sincapour. Whatever the names used, these maps clearly point to Singapore's existence before 1819 and offer a glimpse into its maritime history. Another highlight are the rare hand-drawn Dutch and English maps that have been borrowed from European libraries and displayed in Singapore for the first time.
 
-<img  src="/images/vol-10-issue-4/geo-geographic/UBLCKA_COLLBN_res.jpg">
+<img style="width:70%" src="/images/vol-10-issue-4/geo-geographic/UBLCKA_COLLBN_res.jpg">
 <div style="background-color: white;">On this hand-drawn and coloured 1725 Dutch map depicting the southern part of the Malay Peninsula and the Riau archipelago, Singapore is marked as Oud Straat Sincapura (Old Strait of Singapore). The Old Strait of Singapore is the name of the maritime channel between Sentosa and Telok Blangah. <i>Courtesy of Leiden University Library, 006-14-012.</i></div>
 
-<img   src="/images/vol-10-issue-4/geo-geographic/dutch.jpg">
+<img style="width:70%" src="/images/vol-10-issue-4/geo-geographic/dutch.jpg">
 <div style="background-color: white;">The Dutch merchant/traveller and historian, Jan Huygen van Linschoten (1563–1611) is credited with writing a book on the navigational routes to the elusive East Indies (referring generally to India and Southeast Asia). The Portuguese, who at that time controlled the lucrative spice trade to Europe, kept such information secret. Sailing directions and accurate maps from Linschoten's book <i>Itinerario</i> (first published in 1596), later paved the way for the Dutch and British to venture to the region. This cropped detail of a larger map from the English edition of the <i>Itinerario</i>, published in 1598, shows "Sincapura" at the tip of the Malay Peninsula. Interestingly, Linschoten's map is oriented with the east at the top, with the entire region positioned on its side. <i>National Library of Singapore Collection</i>.</div>
 	
 #### **Island of Stories: Singapore Maps**
@@ -62,13 +62,13 @@ A special Geographic Information System (GIS) developed with the Urban Redevelop
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-4/geo-geographic/1977_map.jpg">
+<img style="width:70%" src="/images/vol-10-issue-4/geo-geographic/1977_map.jpg">
 This 1977 map depicts the findings of the very first comprehensive soil survey of Singapore. It is still the only known officially commissioned soil map of Singapore to date. The island's central area is made of hard granite, indicated in pink. This natural feature has influenced much of the urban development on the island, with most of the construction work taking place outside this central zone made up of softer alluvium and sedimentary rocks. <i>Survey Department, National Archives of Singapore Collection.</i>
 </div>
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-4/geo-geographic/Island_of_Stories_Singapore_Maps.jpg">
+<img style="width:70%" src="/images/vol-10-issue-4/geo-geographic/Island_of_Stories_Singapore_Maps.jpg">
 This map, on display at “Island of Stories: Singapore Maps” organised by NAS, shows the positions of the British (in red) and Japanese military units (in blue) on 12 and 13 February 1942. The Battle for Singapore began on 8 February and after four days of intense fighting, Japanese forces broke through the initial British defences and captured the western half of the island, as depicted on the map. The British eventually surrendered on 15 February 1942. Courtesy of National Archives of the <i>United Kingdom; National Archives of Singapore Collection.</i>
 </div>
 
@@ -80,7 +80,7 @@ This map, on display at “Island of Stories: Singapore Maps” organised by NAS
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-4/geo-geographic/Charles_Lim_work.jpg">
+<img style="width:70%" src="/images/vol-10-issue-4/geo-geographic/Charles_Lim_work.jpg">
 Artist Charles Lim’s work, <i>Sea Safe</i> (2014), in progress.
 </div>
 	
@@ -88,25 +88,25 @@ This particular project is an extension of Lim's previous solo-exhibition, "In S
 	
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-4/geo-geographic/Charles_Lim_with_Janice_Loo.jpg">
+<img style="width:70%" src="/images/vol-10-issue-4/geo-geographic/Charles_Lim_with_Janice_Loo.jpg">
 Artist Charles Lim working on <i>seabook</i> with NL librarian, Janice Loo.
 </div>
 	
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-4/geo-geographic/Notes_Towards_A_Museum_Of_Cooking_Pot_Bay.jpg">
+<img style="width:70%" src="/images/vol-10-issue-4/geo-geographic/Notes_Towards_A_Museum_Of_Cooking_Pot_Bay.jpg">
 Close-up of Michael Lee’s <i>Notes Towards a Museum of Cooking Pot Bay</i> (2010–11), from his artwork, <i>Bibliotopia</i>.
 </div>
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-4/geo-geographic/polystyrene_block.jpg">
+<img style="width:70%" src="/images/vol-10-issue-4/geo-geographic/polystyrene_block.jpg">
 A polystyrene block is given a textured surface in Jeremy Sharma’s <i>Outliers</i> (2014–2015).
 </div>
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-4/geo-geographic/sherman_ong_work.jpg">
+<img style="width:70%" src="/images/vol-10-issue-4/geo-geographic/sherman_ong_work.jpg">
 Stills from Sherman Ong’s work, <i>the seas will sing and the wind will carry us (Fables of Nusantara)</i>.
 </div>
 
@@ -134,7 +134,7 @@ Sherman Ong is a filmmaker, photographer and visual artist whose practice centre
 	
 <div style="background-color: white;">
 <br>
-<img src="\images\vol-10-issue-4\geo-geographic\what_happening.jpg">
+<img style="width:70%" src="\images\vol-10-issue-4\geo-geographic\what_happening.jpg">
 </div>
 
 <img src="/images/vol-10-issue-4/geo-geographic/tan_re.jpg" style="width: 150px; height:110px; margin-bottom:-30px; padding-top:20px;" />
