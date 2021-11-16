@@ -81,6 +81,9 @@ Among these later works, we can sometimes sense his loneliness, such as in “Sc
 
 Khoo’s poetry transcends time and space and vividly brings the weather conditions of late 19th- and early 20th-century Sin Chew to life. His tactile and realistic descriptions go beyond the visual, encompassing elements of sound, sight and touch. The beauty of traditional Chinese poetry shines through in Khoo’s works: the monotonous climate of the tropics is painted in glorious brushstrokes of colour and brought to life, exciting our senses, reminding us to be more sensitive to our surroundings and to engage nature in more visceral ways.
 
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;">
+All English translations for the poems and their titles were provided by the author.</span>
+
 <p style="font-size:15px;"><b>Ho Yi Kai</b> is a Senior Editor with World Scientific Publishing Co, Manager and Assistant Editor-in-Chief of World Century Publishing Corp, and the Assistant Director of Pioneers’ Memorial Hall. He obtained his BA from Peking University, and MA and PhD from Nanjing University. He was a researcher for the recent “Khoo Seok Wan: Poet and Reformist” exhibition organised by the National Library.</p>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-10/issue-1/apr-jun-2014/"><center>Back to Issue</center></a>
@@ -125,7 +128,9 @@ National Library Board. (2021, March 22). *[Qiu Shuyuan biography](https://ereso
 
 [^19]:《岛上雨后,极目写怀》, 见《丘菽园居士诗集》初编卷六,  页14。
 
-[^20]:《雨后感咏》其一, 见《丘菽园居士诗集》二编, 页42。 [^21]:《敌寒》, 同上,页57。
+[^20]:《雨后感咏》其一, 见《丘菽园居士诗集》二编, 页42。 
+
+[^21]:《敌寒》, 同上,页57。
 
 [^22]: 《小园雨过,起视荷竹,生趣盎然,漫赋一首》, 见《丘菽园居士诗集》初编卷二, 页11。
 
