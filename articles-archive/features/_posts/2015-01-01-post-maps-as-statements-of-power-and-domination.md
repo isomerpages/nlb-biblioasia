@@ -109,6 +109,7 @@ For map collectors with an academic disposition, antiquarian map collecting is m
 
 The maps of Asia I have discussed in this essay tell us something about how the idea of "Asia" came about, and how Asia was later divided into neat compartmentalised blocs comprising "Central Asia", "South Asia", "Southeast Asia" and "East Asia". From the fluid and globalised world of Münster in the 16th century to the compartmentalised one of the 20th century, maps tell us how the world was literally and figuratively made up, invented, categorised and compartmentalised. But for us to fully appreciate these developments as they have been recorded in maps, we need to go beyond simply <i>looking</i> at them, and begin to see what is <i>written</i> in them.
 
+<img style="width:100px;height:100px;margin-bottom:-30px; border-radius:100%; box-shadow: 2px 3px 1px #424242;" src="/images/vol-10-issue-4/statementsofpoweranddomination/Farish.jpg">
 <p style="font-size:15px;"><b>Dr Farish A. Noor</b> is an Associate Professor at the S. Rajaratnam School of International Studies (RSIS), Nanyang Technological University (NTU), Singapore. He has been collecting books, maps and prints of Asia since his student days in Europe and has been researching the subject of state-formation and religio-political movements across Asia.</p>
 
 
