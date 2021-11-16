@@ -9,7 +9,7 @@ layout: post
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-10-issue-1/journey/A_Different_Sky.jpg">
-	<i>A Different Sky</i> was written by Meira Chand in 2010. Cover image courtesy of Meira Chand, published by Random House, UK</div>
+	<i>A Different Sky</i> was written by Meira Chand in 2010. <i>Cover image courtesy of Meira Chand, published by Random House, UK</i></div>
 
 The filmmaker Luis Bunuel wrote, “Memory is what makes our lives. Our memory is our coherence, our reason, our feeling, even our action. Without it, we are nothing.”[^1]
 
