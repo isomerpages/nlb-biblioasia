@@ -3,7 +3,7 @@ title: French Impressions
 permalink: /vol-17/issue-4/jan-mar-2022/frenchimpressions
 description: ""
 ---
-#### A little-known collection of French natural history drawings of Singapore and its neighbouring countries from 1818 and 1820 shed light on the early study of the region’s flora and fauna.
+#### A little-known collection of French natural history drawings of Singapore and its neighbouring countries from 1818−1820 shed light on the early study of the region’s flora and fauna.
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/diard-duvaucel/DiardDuvaucel2.jpg)
 <span style="background-color: white; display:block; font-size:1rem; line-height:1.5rem;"><i>Diard & Duvaucel: French Natural History Drawings of Singapore and Southeast Asia 1818–1820</i> is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries ([Call nos.: RSING 508.0222 DIA and SING 508.0222 DIA](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695)) and for sale at all major bookstores, including Epigram’s online store at epigrambookshop.sg.</span>
@@ -29,7 +29,7 @@ This woodpecker with a yellow-tipped crest can still be spotted in Singapore tod
 
 #### **Nº 34: Green Broadbill <br>*Calyptomena viridis***
 
-![Alt text for image on Isomer site](/images/vol-17-issue-4/diard-duvaucel/Green%20Broadbill2.jpg)
+![Alt text for image on Isomer site](/images/vol-17-issue-4/diard-duvaucel/Green%20Broadbill3.jpg)
 On 1 June 1820, Stamford Raffles wrote about the Green Broadbill in his *Descriptive Catalogue of a Zoological Collection* thus: “Found in the retired parts of the forests of Singapore and of the interior of Sumatra.” There are two depictions of this broadbill in the collection. They are nearly identical, differing only in the composition of the tuft of feathers on the forehead. In both drawings, the birds are male, as indicated by the small yellow spots above their eyes. From Raffles’ catalogue entry, it can be inferred that he must have procured at least two specimens, one from Singapore and another from the environs of Bencoolen (Bengkulu) in Sumatra. Diard, Duvaucel and William Jack (a botanist working with Raffles) could have collected the Singapore specimen during their visit in 1819. This species has the distinction of being the first bird from Singapore to be given a scientific name.
 
 #### **Nº 11: Nº 67: Javanese Lapwing<br>*Vanellus macropterus***
