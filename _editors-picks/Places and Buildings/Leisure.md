@@ -17,3 +17,7 @@ third_nav_title: Places and Buildings
 <p>G.H. Cafe was a fashionable eatery in the business district that was popular among Singapore’s well-heeled. Vandana Aggarwal relives the history of this landmark institution.</p> 
 <img src="/images/Vol-16-issue-2/ghcafe/GHCafe.jpg" style="width:100%;">  
 <hr>
+
+#### <a target="_blank" href="/vol-14/issue-1/apr-jun-2018/st-johns-island-gtwy/" style="text-decoration: none; font-weight: bold;"> St John’s Island: From Gateway to Getaway</a> 
+<p>St John’s Island was once home to new migrants, opium addicts and political detainees. Marcus Ng charts the island’s transformation from a place of exile to an oasis of idyll.</p> 
+<hr>
