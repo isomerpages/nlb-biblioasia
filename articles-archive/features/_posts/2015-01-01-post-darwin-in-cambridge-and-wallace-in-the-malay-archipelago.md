@@ -134,7 +134,7 @@ On his return to Britain in 1862, Wallace was no longer an obscure collector. He
 <img src="/images/vol-10-issue-4/darwinandwallace/Dispelling_the_darkness_cover_large_res.jpg">
 <i>Dispelling the Darkness</i> uncovers the true story of Darwin and Wallace and the theory of evolution. <i>Published by World Scientific Publishing Co., 2013.</i>
 </div>
-
+<br>
 <img style="width:100px;height:110px;margin-bottom:-30px; border-radius:100%; box-shadow: 2px 3px 1px #424242;" src="/images/vol-10-issue-4/darwinandwallace/John_Van_Wyhe.jpg">
 <p style="font-size:15px;"><b>Dr John van Wyhe</b> is a historian of science at the National University of Singapore who specialises in Darwin and Wallace. For several years a Bye-Fellow of Christ's College, Cambridge, he is also the Director of Darwin Online and Wallace Online and the author of 10 books and numerous articles on the history of science.</p>
 
