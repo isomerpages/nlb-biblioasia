@@ -11,6 +11,12 @@ permalink: /editors-picks/art
  <p>Advertising art began playing a bigger role in the economy after several talented graphic artists moved from China to Singapore from the 1920s onwards. Lee Chor Lin highlights their works. </p>
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-4/jan-mar-2017/windows-into-history" target="_blank">Windows into History</a>
+<p>Drawings discovered in a Belgian archive help fill gaps in the history of stained glass windows in Singapore. Yeo Kang Shua and Swati Chandgadkar reveal their findings.</p> 
+<img src="/images/Vol-12-issue-4/windows-into-history/4-windows_into_history.png">
+<hr>
+
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/malay-seals" target="_blank"> Malay Seals from Singapore</a>
 <p>Malay seals of the 19th century hold important information, says Annabel Teh Gallop.</p>
 <hr>
