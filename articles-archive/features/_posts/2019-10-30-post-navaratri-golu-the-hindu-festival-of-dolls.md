@@ -116,3 +116,36 @@ Golu not only showcases the rich culture and customs of Hindus, but it is also a
 <br>
 <img src="/images/Vol-15-issue-3/navaratri-golu/Navaratri9.JPG">
 <div style="background-color: white;">The <i>kalasam</i> is a silver or brass pot containing water, and decorated with a jasmine and rose garland. Its opening is covered with mango leaves and topped with a coconut. <i>Courtesy of Anasuya Soundararajan.</i></div>
+
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
+	<b>Hinamatsuri: Japan’s Doll Festival</b>
+	<br><br>
+Interestingly, the Hindu Golu festival mirrors a tradition in Japanese society that also centres on dolls. Hinamatsuri, also known as “Dolls Day” or “Girls Day”, is celebrated annually in Japan on 3 March when families pray for the happiness and wellbeing of their young daughters (usually up to age 10).
+<br><br>
+Hinamatsuri originates from an ancient custom called <i>hina nagashi</i>, in which hina dolls made of straw are placed in a boat and sent down a river that eventually empties into the sea. This act has become a symbolic gesture for warding off bad luck.
+<br><br>
+<img src="/images/Vol-15-issue-3/navaratri-golu/Navaratri10.JPG">A seven-tiered Hinamatsuri doll display, 2014. Placed right at the top are the emperor and the empress dolls. On the second tier are three court ladies, and on the third, five male musicians. The fourth tier features two ministers, while the fifth holds three samurais to protect the emperor and the empress. A variety of miniature furniture, utensils and carriages is displayed on the sixth and seventh tiers. <i>Retrieved from Wikimedia Commons.</i>
+<br><br>
+During the festival, the figurines of royal personages are arranged on as many as seven <i>hinadan</i>, or platforms, in Japanese households. Covered with red fabric, each step displays a set of decorative dolls called <i>hina ningyo</i>, representing members of the imperial court. The size of the dolls and the number of tiers vary, but usually there are five to seven tiers.
+<br><br>
+The topmost tier features dolls representing the two most important members of the Japanese imperial family – the emperor and the empress. The second tier carries three court ladies and the third supports five male musicians. The fourth tier features two ministers, while the fifth holds three samurais who serve as protectors of the emperor and the empress. On the sixth and seventh tiers are displayed a variety of miniature furniture, utensils and carriages.
+<br><br>
+	The <i>hina ningyo</i> dolls are made of wood and decorated in traditional court dress of the Heian period (794–1185). Similar to the Hindu Golu practice, these Japanese dolls are handed down from one generation to the next, or bought by a girl’s parents or grandparents for her first Hinamatsuri.
+<br><br>
+	On the day of the festival, girls wake up early and put on their best kimono, eat <i>hishimochi</i> (diamond-shaped rice cakes) and drink <i>shirozake</i>, a type of sake made from fermented rice. The emphasis on girls during Hinamatsuri is similar to the Navaratri Golu’s focus on women and womenhood.
+<br><br>
+Japanese families start preparing for this festival around mid-February, and put away the dolls on the day after Hinamatsuri. There is a superstitious belief that families who delay keeping away the dolls will have trouble marrying off their daughters when the time comes.
+<br><br>
+	<b>References</b>
+<br><br>
+Krishnan, J. (2016, October 4). A cultural connection: Japanese Hina Matsuri and Navratri Kolu. *India America Today*. Retrieved from India America Today website.
+<br><br>
+Nair, P. (1997, October 3). [Nine nights of excitement honour the Goddess Devi](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19971003-1.2.113.17.8). *The Straits Times*, p. 17. Retrieved from NewspaperSG.
+</span>
+<br>
+<div style="background-color: white;">
+<img src="/images/Vol-15-issue-3/navaratri-golu/Navaratri11.jpg" style="width: 100px; height: 100px;">
+<b>Anasuya Soundararajan</b> is a researcher at the National Library, Singapore, where she provides information services to government agencies. Her research areas include culture, communications and education.
+</div>
+
+<a href="https://biblioasia.nlb.gov.sg/vol-15/issue-3/oct-dec-2019/"><center>Back to Issue</center></a>
