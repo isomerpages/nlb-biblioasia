@@ -185,4 +185,4 @@ Nair, P. (1997, October 3). [Nine nights of excitement honour the Goddess Devi](
 [^32]:Author’s interview with Mrs Lalitha Vaidyanathan, 1 July 2019; [*Oral history interview with Komalavalee Soundara Rajan (Mrs)*](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/16e025eb-115e-11e3-83d5-0050568939ad), 17 Oct 1991.
 [^33]:Author’s interview with Darshna Mahadevan, 30 June 2019.
 [^34]:Rotti, 25 Sep 2017.
-[^35]:S. V. Krishnan. (1988, October 21). [Nine days in honour of a brave goddess](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19881021-1.2.74.9). The Straits Times, p. 9. Retrieved from NewspaperSG.
+[^35]:S. V. Krishnan. (1988, October 21). [Nine days in honour of a brave goddess](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19881021-1.2.74.9). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
