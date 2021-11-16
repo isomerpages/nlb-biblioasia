@@ -2,7 +2,6 @@ collections:
   editors-picks:
     output: true
     order:
-      - Theatre.md
       - art.md
       - culture.md
       - Film.md
@@ -13,3 +12,4 @@ collections:
       - nature-and-the-environment.md
       - people.md
       - places-and-buildings.md
+      - Theatre.md
