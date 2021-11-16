@@ -157,11 +157,8 @@ On a positive note, the communists never regained their foothold in Malaya. They
 [^13]:[Miller](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081352), 1981, p. 73.
 [^14]:[Barber](https://eservice.nlb.gov.sg/item_holding.aspx?bid=839401), 1971, p. 110.
 [^15]:Koya, Z. (1998, August 1). Villagers’ sacrifice to beat the reads. *New Straits Times*, p. 7. Retrieved from ProQuest Central.
-[^16]:[Aged man jailed for consorting](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19510621-1.2.53). (1951, June 21). Singapore Standard, p. 3. Retrieved from NewspaperSG.
-[^17]:
-[^18]:
-[^19]:
-[^2]:Had food for bandits, gets 3 years’ jail. (1952, August 21). Singapore Standard, p. 4. Retrieved from NewspaperSG.
-Bandit supplier gets ten years. (1952, September 12). Singapore Standard, p. 5. Retrieved from NewspaperSG.
-Singapore Standard, 12 Sep 1952, p. 5.
-Terrorists kill man who said no. (1954, December 17). The Straits Times, p. 4. Retrieved from NewspaperSG.
+[^16]:[Aged man jailed for consorting](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19510621-1.2.53). (1951, June 21). *Singapore Standard*, p. 3. Retrieved from NewspaperSG.
+[^17]:[Had food for bandits, gets 3 years’ jail](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19520821-1.2.70). (1952, August 21). *Singapore Standard*, p. 4. Retrieved from NewspaperSG.
+[^18]:[Bandit supplier gets ten years](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19520912-1.2.70). (1952, September 12). *Singapore Standard*, p. 5. Retrieved from NewspaperSG.
+[^19]:[Singapore Standard](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19520912-1.2.70), 12 Sep 1952, p. 5.
+[^2]:Terrorists kill man who said no. (1954, December 17). The Straits Times, p. 4. Retrieved from NewspaperSG.
