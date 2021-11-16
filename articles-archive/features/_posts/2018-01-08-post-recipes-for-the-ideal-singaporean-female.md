@@ -194,9 +194,9 @@ It was only as an adult that I re-acquainted myself with the kitchen when food t
 
 [^26]:Singapore Monitor, 9 Sep 1984, p. 16.
 
-[^27]:Alfred, H. (1984, November 24). 428 petition against compulsory home econs. The Straits Times, p. 21. Retrieved from NewspaperSG.
+[^27]:Alfred, H. (1984, November 24). 428 petition against compulsory home econs. *The Straits Times*, p. 21. Retrieved from NewspaperSG.
 
-[^28]:Viswalingam, P. (1986). Home economics today 1E (p. 14) Singapore: Curriculum Development Institute of Singapore. (Call no.: YR 640.76 HOM)
+[^28]:Viswalingam, P. (1986). *[Home economics today 1E](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4687844)* (p. 14) Singapore: Curriculum Development Institute of Singapore. (Call no.: YR 640.76 HOM)
 
 [^29]:Ministry of Communications and Information. (1986, March 19). *[Speech by Dr Tay Eng Soon, Minister of State for Education, at the home economics seminar: “New Dimensions” organised by the Home Economics Teachers’ Association at the Mandarin Hotel on Wednesday, 19 March 1986, at 2.30 p.m.](http://www.nas.gov.sg/archivesonline/data/pdfdoc/tes19860319as.pdf)* (p. 4). Retrieved from National Archives of Singapore website.
 
