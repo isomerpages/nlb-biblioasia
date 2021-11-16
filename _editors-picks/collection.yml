@@ -2,9 +2,9 @@ collections:
   editors-picks:
     output: true
     order:
-      - Film.md
       - art.md
       - culture.md
+      - Film.md
       - food.md
       - governance.md
       - literature.md
