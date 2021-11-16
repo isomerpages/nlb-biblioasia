@@ -6,6 +6,8 @@ layout: post
 ---
 #### Postage stamps are more than little squares of paper to be stuck on envelopes. **Justin Zhuang** discovers how stamps have helped forge Singapore’s identity over the past five decades.
 
+
+
 There was precious little to celebrate when the Singapore Stamp Club commemorated 100 years of postage stamps in 1967. The accompanying exhibition booklet was very blunt in describing the dismal state of Singapore’s philatelic scene:
 
 “Against the increasing tendency of practically every other country in the world to issue more and more commemorative stamps each year, the conservative policy of Singapore must be almost without an equal.”[^1]
