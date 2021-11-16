@@ -164,11 +164,8 @@ The palm-fringed beach at Tanjong Katong by G.R. Lambert & Co, 1890s. Located in
 
 The story thus far constitutes a series of snapshots, a quick survey of the milestones and key movers in the history of photography in 19th-century Singapore. It is, unsurprisingly, a narrative dominated by European photographic studios, which left documentary evidence of their presence, and whose extensive work make up some of the most valuable early visual records of the settlement.
 
-<img style="width: 550px; height: 350px;" src="/images/Vol-15-issue-3/daguerreotypes-to-dry-plates/Daguerreotypes16.JPG">
-<div style="background-color: white;">The Boustead Institute at the junction of Tanjong Pagar and Anson roads. <i>Image reproduced from Lambert, G.R. (1890). Fotoalbum Singapur. Singapore: G.R. Lambert. Collection of the National Library, Singapore. (Accession no.: B18975148J).</i></div>
-<br><br>
-<img style="width: 550px; height: 350px;" src="/images/Vol-15-issue-3/daguerreotypes-to-dry-plates/Daguerreotypes17.JPG">
-<div style="background-color: white;">Returning from a tiger hunt. <i>Image reproduced from Lambert, G.R. (1890). Fotoalbum Singapur. Singapore: G.R. Lambert. Collection of the National Library, Singapore. (Accession no.: B18975148J).</i></div>
+<img src="/images/Vol-15-issue-3/daguerreotypes-to-dry-plates/Daguerreotypes16.JPG">
+<div style="background-color: white;">The Boustead Institute at the junction of Tanjong Pagar and Anson roads (left) and returning from a tiger hunt (right). <i>Images reproduced from Lambert, G.R. (1890). Fotoalbum Singapur. Singapore: G.R. Lambert. Collection of the National Library, Singapore. (Accession no.: B18975148J).</i></div>
 
 As these European studios faded from the scene in the early 20th century, it paved the way for Asian players to take their place in the interwar period. To give a sense of the new situation, the census of 1921 counted 171 photographers comprising 109 Chinese, 52 “others” (Japanese, Siamese, Sinhalese, Arabs or Asiatic Jews), six Malays, three Indians and only one European.
 
