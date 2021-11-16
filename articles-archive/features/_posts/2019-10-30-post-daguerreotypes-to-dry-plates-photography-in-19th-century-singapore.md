@@ -1,9 +1,10 @@
 ---
-title: "Daguerreotypes to dry plates: Photography in 19th-century Singapore"
+title: "Daguerreotypes to Dry plates: Photography in 19th-century Singapore"
 date: 2019-10-30
 permalink: /vol-15/issue-3/oct-dec-2019/photography-in-sg/
 layout: post
 ---
+
 #### The oldest known photographs of Singapore were taken by Europeans in the early 1840s. **Janice Loo** charts the rise of commercial photography in the former British colony.
 
 <img style="width: 250px; height: 250px;" src="/images/Vol-15-issue-3/daguerreotypes-to-dry-plates/Daguerreotypes1.JPG">
