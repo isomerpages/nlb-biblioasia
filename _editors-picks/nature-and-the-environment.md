@@ -41,3 +41,7 @@ permalink: /editors-picks/nature
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-1/apr-jun-2017/through-time-and-tide" target="_blank">Through Time And Tide: A Survey of Singapore’s Reefs</a>
 <p>The reefs that fringed Singapore’s coastline and islands have served for centuries as maritime markers, fishing grounds and even homes for island communities. Marcus Ng rediscovers the stories that lurk beneath the waves.</p> 
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-1/apr-jun-2017/mangroves" target="_blank">Mangroves: A Tale of Survival</a>
+<p>Mangroves are an integral part of the marine ecosystem. Ang Seow Leng explains why these hardy and resilient plants are vital for the survival of humankind.</p> 
+<hr>
