@@ -25,7 +25,7 @@ According to the legend of Navaratri, Mahishasura waged war in heaven, imprisone
 
 At midnight, on the 10th and final day of the ferocious battle, Durga finally managed to pierce her trident into the buffalo demon’s chest and behead him. However, the gods and goddesses, whose powers were completely spent after aiding Durga, were turned into statues. Devotees honour and remember the selfless acts of these gods and goddesses, which are symbolised by the dolls displayed during Golu. Navaratri ultimately commemorates the victory of Durga over Mahishasura – the triumph of good over evil.7
 
-<img src="/images/Vol-15-issue-3/navaratri-golu/Navaratri2.JPG">
+<img style="width: 550px; height: 350px;" src="/images/Vol-15-issue-3/navaratri-golu/Navaratri2.JPG">
 <div style="background-color: white;">A Golu display at the author’s home in 2006. The topmost two steps feature dolls representing Hindu deities. The kalasam(silver or brass pot) is placed on the second tier. Behind the kalasam is the pair of marapachi dolls. On the right-hand corner of the third step is a village scene in India. On the second step from the bottom is a pair of grandfather and grandmother dolls in the traditional Thanjavur bobble-head style. In front of them are traditional cookery toys made of wood. <i>Courtesy of Anasuya Soundararajan.</i></div>
 
 #### **Celebrating Golu**
@@ -34,7 +34,7 @@ Mrs Lalitha Vaidyanathan, a musician and retired teacher, remembers her family�
 
 The Navaratri Golu was an integral part of the yearly festivities at my home when I was growing up. Every year during the Navaratri period, my mother would arrange the dolls and figurines on a platform, and perform a nightly *puja* (prayer). Relatives and friends would be invited to partake in the festivities, resulting in a lively confluence of colourful dolls, animated guests, devotional songs and delicious food during the nine nights. As little children, my brother and I eagerly looked forward to this celebration each year. My mother, who is 80 this year, has been putting up Golu displays since 1972 and continues to do so until today.
 
-<img src="/images/Vol-15-issue-3/navaratri-golu/Navaratri3.JPG">
+<img style="width: 550px; height: 350px;" src="/images/Vol-15-issue-3/navaratri-golu/Navaratri3.JPG">
 <div style="background-color: white;">A devotee praying in front of the Golu display at the Sri Mariamman Temple during the Navaratri festival, 2019. <i>Courtesy of Kesavan Rajinikanth.</i></div>
 
 Families would first clear their furniture to create space in the living room for the makeshift steps, which are erected a few days before Navaratri. The dolls are exhibited on odd-numbered steps – three, five, seven or nine – as odd numbers are considered auspicious in Hindu custom and tradition. The steps are then covered with a white piece of cloth, usually a cotton *veshti*.9
@@ -43,7 +43,7 @@ Traditionally, families would create the steps from whatever furniture is found 
 
 The very first Golu display in our home in 1972 was a simple three-step contraption fashioned out of a coffee table and stools of varying heights. The following year, my father constructed a more elaborate nine-step platform by using metal brackets fastened with nuts and bolts and custom-made wooden planks. These days, it is much easier to set up a display as ready-made Golu steps can be bought in stores in India and Singapore. These lightweight and foldable steps are made of plastic and come in sets of three, five, seven or nine.11
 
-<img src="/images/Vol-15-issue-3/navaratri-golu/Navaratri4.JPG">
+<img style="width: 350px; height: 450px;" src="/images/Vol-15-issue-3/navaratri-golu/Navaratri4.JPG">
 <div style="background-color: white;">Jothi Flower Shop in Little India, Singapore, selling Golu dolls during Navaratri, 2019. On display are dolls of deities and Hindu mythological characters, as well as dolls from a wedding scene and village temple procession. <i>Courtesy of Kesavan Rajinikanth.</i></div>
 
 As Golu dolls represent a divine presence in the home, great care goes into their upkeep and storage when not in use. A few days before the start of the festival, my mother would retrieve the dolls from the storeroom and begin arranging them on the steps. This is a task traditionally performed by women.
@@ -60,7 +60,7 @@ The inclusion of non-traditional dolls and themes make Golu even more interestin
 
 The dolls are usually made of clay, stone or wood and mainly produced in the villages of southern Indian states such as Tamil Nadu, Karnataka, Telangana and Andhra Pradesh. A smaller number of such dolls are made in the northern state of Rajasthan and the eastern state of Kolkata.18 My parents bought our dolls during their travels to India in the 1970s and ’80s, as it was difficult to find Golu dolls in Singapore at the time. Today, one can find a wide assortment of dolls in shops in Little India during the Navaratri season, with prices ranging from $20 for the simpler ones to $150 for the more elaborate creations.
 
-<img src="/images/Vol-15-issue-3/navaratri-golu/Navaratri5.JPG">
+<img style="width: 450px; height: 300px;" src="/images/Vol-15-issue-3/navaratri-golu/Navaratri5.JPG">
 <div style="background-color: white;">A Navaratri Golu invitation card welcoming relatives and friends to the author’s home in 1976.</div>
 
 #### **Rituals and Customs**
@@ -71,7 +71,7 @@ On the new moon day of the month of Purattasi, a *kalasam* (silver or brass pot)
 
 The first set of dolls to adorn the display is a pair of wooden ones symbolising a man and a woman, known as the *marapachi* dolls. Usually placed on the upper steps of the display, these dolls represent Venkateshwara, an avatar of Lord Vishnu, and his consort Mahalakshmi. Dressed in the traditional silk *veshti* and *saree*,22 they also depict the union of a husband and wife, and symbolise prosperity and fertility.23 If there is a girl in the family, it is customary for the mother to gift a new set of *marapachi* dolls to her daughter when she gets married so that she can start her own Golu tradition.24
 
-<img src="/images/Vol-15-issue-3/navaratri-golu/Navaratri6.JPG">
+<img style="width: 320px; height: 450px;" src="/images/Vol-15-issue-3/navaratri-golu/Navaratri6.JPG">
 <div style="background-color: white;">A pair of <i>marapachi</i> dolls, representing Venkateshwara (an avatar of Lord Vishnu) and his consort, Mahalakshmi. The dolls are dressed in the traditional silk veshti and saree. <i>Courtesy of Anasuya Soundararajan.</i></div>
 
 All the dolls are ritually worshipped during the celebrations.25 In the evenings, a lamp is lit in front of the display, and *bhajans* (devotional songs) are sung in praise of Goddess Shakti. Golu is also a social event where relatives and friends are invited to view the doll display and participate in the prayers and celebrations. Visitors are then served light refreshments and *prasadam* (offerings of food).
@@ -100,7 +100,7 @@ Raman, A.P., & Krishnan, S.V. (1983, October 7). [Festival in honour of Goddess-
 
 It is believed that once you have begun the tradition of celebrating Golu, you cannot arbitrarily stop celebrating it. Unless there is an event such as a death in the family, the display must continue every year uninterrupted. Even then, the tradition cannot come to a complete stop, but takes place on a smaller scale, perhaps with just a few dolls and only a single step.31
 
-<img src="/images/Vol-15-issue-3/navaratri-golu/Navaratri7.JPG">
+<img style="width: 550px; height: 360px;" src="/images/Vol-15-issue-3/navaratri-golu/Navaratri7.JPG">
 <div style="background-color: white;">Relatives and friends of Usha Mohan viewing the Golu display in her home and singing devotional songs, 2019. <i>Courtesy of Usha Mohan.</i></div>
 
 #### **Keeping the Tradition Alive**
@@ -111,10 +111,10 @@ Darshna Mahadevan, who is in her late 20s, has been putting up a Golu display in
 
 Golu not only showcases the rich culture and customs of Hindus, but it is also a way for young people to be introduced to the various deities and their significance in Hinduism.34 Navaratri is also an occasion to seek divine blessings and spiritual fulfilment. On a social level, Golu provides the chance to meet and engage in community fellowship, offering an opportunity for everyone to discover more about Hindu mythology and religious practices.35
 
-<img src="/images/Vol-15-issue-3/navaratri-golu/Navaratri8.JPG">
+<img style="width: 450px; height: 300px;" src="/images/Vol-15-issue-3/navaratri-golu/Navaratri8.JPG">
 <div style="background-color: white;">Traditional Thanjavur dolls – representing a grandmother and a grandfather – are bobble-head dolls made of paper and clay or plaster of Paris. <i>Courtesy of Anasuya Soundararajan.</i></div>
 <br>
-<img src="/images/Vol-15-issue-3/navaratri-golu/Navaratri9.JPG">
+<img style="width: 350px; height: 450px;" src="/images/Vol-15-issue-3/navaratri-golu/Navaratri9.JPG">
 <div style="background-color: white;">The <i>kalasam</i> is a silver or brass pot containing water, and decorated with a jasmine and rose garland. Its opening is covered with mango leaves and topped with a coconut. <i>Courtesy of Anasuya Soundararajan.</i></div>
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
@@ -124,7 +124,7 @@ Interestingly, the Hindu Golu festival mirrors a tradition in Japanese society t
 <br><br>
 Hinamatsuri originates from an ancient custom called <i>hina nagashi</i>, in which hina dolls made of straw are placed in a boat and sent down a river that eventually empties into the sea. This act has become a symbolic gesture for warding off bad luck.
 <br><br>
-<img src="/images/Vol-15-issue-3/navaratri-golu/Navaratri10.JPG">A seven-tiered Hinamatsuri doll display, 2014. Placed right at the top are the emperor and the empress dolls. On the second tier are three court ladies, and on the third, five male musicians. The fourth tier features two ministers, while the fifth holds three samurais to protect the emperor and the empress. A variety of miniature furniture, utensils and carriages is displayed on the sixth and seventh tiers. <i>Retrieved from Wikimedia Commons.</i>
+<img style="width: 550px; height: 350px;" src="/images/Vol-15-issue-3/navaratri-golu/Navaratri10.JPG">A seven-tiered Hinamatsuri doll display, 2014. Placed right at the top are the emperor and the empress dolls. On the second tier are three court ladies, and on the third, five male musicians. The fourth tier features two ministers, while the fifth holds three samurais to protect the emperor and the empress. A variety of miniature furniture, utensils and carriages is displayed on the sixth and seventh tiers. <i>Retrieved from Wikimedia Commons.</i>
 <br><br>
 During the festival, the figurines of royal personages are arranged on as many as seven <i>hinadan</i>, or platforms, in Japanese households. Covered with red fabric, each step displays a set of decorative dolls called <i>hina ningyo</i>, representing members of the imperial court. The size of the dolls and the number of tiers vary, but usually there are five to seven tiers.
 <br><br>
