@@ -142,13 +142,23 @@ On a positive note, the communists never regained their foothold in Malaya. They
 <a href="https://biblioasia.nlb.gov.sg/vol-15/issue-3/oct-dec-2019/"><center>Back to Issue</center></a>
 
 #### **NOTES**
-[^1]:
-[^2]:
-[^3]:
-[^4]:
-[^5]:
-[^6]:
+[^1]:The British Military Administration was the interim military government established in Singapore and Malaya during the period from the Japanese surrender to the restoration of civilian rule on 1 August 1946.
+[^2]:Hack, K. (1999, March). “Iron claws on Malaya”: The historiography of the Malayan Emergency. *Journal of Southeast Asian Studies, 30* (1), 99–125, p. 99. Retrieved from JSTOR.
+[^3]:Paul, C., et al. (2013). Malaya, 1948–1955 case outcome: COIN win. In Paths to victory: Detailed insurgency case studies (p. 55). Santa Monica: RAND Corporation. Retrieved from JSTOR.
+[^4]:Named after Lieutenant-General Harold Rawdon Briggs (1894–1952), who devised the strategy. Although having retired from the British Army in 1948, he was recalled to active duty in 1950 and became Director of Operations in Malaya during the Malayan Emergency.
+[^5]:The Malayan National Liberation Army (MNLA) was often mistranslated as the Malayan Races Liberation Army (MRLA).
+[^6]:Miller, H. (1981). Jungle war in Malaya: The campaign against communism, 1948–60 (p. 73). Singapore: Eastern University Press. (Call no.: RSING 959.5 MIL)
 [^7]:
 [^8]:
 [^9]:
 [^10]:
+
+
+
+
+
+
+Miller, 1981, p. 77.
+O’Ballance, E. (1966). Malaya: The Communist insurgent war, 1948–1960 (p. 109).  London: Faber and Faber Limited. (Call no.: RCLOS 959.5 OBA-[JSB]). Amenities such as water, electricity, medical facilities and schools were provided for settlers in the New Villages. The villagers were run by locally elected village councillors. See Barber, N. (1971). The war of the running dogs: How Malaya defeated the communist guerrillas, 1948–60 (p. 103). London: Collins. (Call no.: RDLKL 959.5 BAR).
+O’Ballance, 1966, p. 110.
+Barber, 1971, p. 103.
