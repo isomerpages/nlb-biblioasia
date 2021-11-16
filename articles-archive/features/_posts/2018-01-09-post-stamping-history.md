@@ -144,30 +144,30 @@ Ironically, postage stamps have today come full circle to when they were first c
 
 [^11]:Ang, B. (2016, October 30). Stamp of passion. The Straits Times, p. 3. Retrieved from NewspaperSG.
 
-[^12]:Federation man wins Singapore contest. (1961, November 20). *The Straits Times*, p. 5; Lack of interest may hold up stamps. (1958, August 21). *The Straits Times*, p. 10. Retrieved from NewspaperSG.
+[^12]:[Federation man wins Singapore contest](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19611120-1.2.61). (1961, November 20). *The Straits Times*, p. 5; Lack of interest may hold up stamps. (1958, August 21). *The Straits Times*, p. 10. Retrieved from NewspaperSG.
 
-[^13]:Chance put gold lion on new stamp. (1959, May 20). The Singapore Free Press, p. 7. Retrieved from NewspaperSG.
+[^13]:[Chance put gold lion on new stamp](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19590520-1.2.42). (1959, May 20). *The Singapore Free Press*, p. 7. Retrieved from NewspaperSG.
 
-[^14]:Stamp collecting within the means of many. (1978, August 20). The Straits Times, p. 7. Retrieved from NewspaperSG.
+[^14]:[Stamp collecting within the means of many](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19780820-1.2.45). (1978, August 20). *The Straits Times*, p. 7. Retrieved from NewspaperSG.
 
-[^15]:Teo, K.G. (Interviewer). (2012, September 27). Oral history interview with Loy Eng Siak [Cassette recording no. 003762/7/2]. (Note: A written request to the National Archives of Singapore is required to access this interview.).
+[^15]:Teo, K.G. (Interviewer). (2012, September 27). *Oral history interview with Loy Eng Siak* [Cassette recording no. 003762/7/2]. (Note: A written request to the National Archives of Singapore is required to access this interview.).
 
-[^16]:Tay, E. (2013, March 17). Three months to design stamp set. The Straits Times, p. 2. Retrieved from NewspaperSG.
+[^16]:Tay, E. (2013, March 17). [Three months to design stamp set](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20130317-1.2.65.1.2). *The Straits Times*, p. 2. Retrieved from NewspaperSG.
 
-[^17]:The Straits Times, 30 Oct 2016, p. 3.
+[^17]:*[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20161030-1.2.52.1.2),* 30 Oct 2016, p. 3.
 
-[^18]:An issue is born: Commonwealth Heads of Government Meeting 1971 Singapore (1971, March). Gibbons Stamp Monthly, pp. 262–263. United Kingdom: Stanley Gibbons.
+[^18]:An issue is born: Commonwealth Heads of Government Meeting 1971 Singapore (1971, March). *Gibbons Stamp Monthly*, pp. 262–263. United Kingdom: Stanley Gibbons.
 
-[^19]:Tan, C. (1986, November 15). Designer makes yet another mark. The Straits Times, p.13. Retrieved from NewspaperSG.
+[^19]:Tan, C. (1986, November 15). [Designer makes yet another mark](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19861115-1.2.23.10). *The Straits Times*, p.13. Retrieved from NewspaperSG.
 
-[^20]:Infocomm Media Development Authority. (n.d.). Criteria and guidelines for selection of stamp themes. Retrieved from Infocomm Media Development Authority website.
+[^20]:Infocomm Media Development Authority. (n.d.). *Criteria and guidelines for selection of stamp themes*. Retrieved from Infocomm Media Development Authority website.
 
-[^21]:The cultural divide in stamp image. (1971, July 14). New Nation, p. 8. Retrieved from NewspaperSG.
+[^21]:[The cultural divide in stamp image](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19710714-1.2.46). (1971, July 14). *New Nation*, p. 8. Retrieved from NewspaperSG.
 
-[^22]:Lim, C.T. (2009, November 27). Stamps: Irrelevant themes, poor designs. The Straits Times, p. 31; Lim, C.T., et al. (2010, March 30). Revive role of stamps in marking Singapore history. The Straits Times, p. 20. Retrieved from NewspaperSG.
+[^22]:Lim, C.T. (2009, November 27). [Stamps: Irrelevant themes, poor designs](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20091127-1.2.32.5.2). *The Straits Times*, p. 31; Lim, C.T., et al. (2010, March 30). [Revive role of stamps in marking Singapore history](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20100330-1.2.25.5.3). *The Straits Times*, p. 20. Retrieved from NewspaperSG.
 
-[^23]:Kong, L., & Ng, S.F. (2010, April 2). S’pore’s history and heritage captured in stamps. The Straits Times, p. 41. Retrieved from NewspaperSG.
+[^23]:Kong, L., & Ng, S.F. (2010, April 2). [S’pore’s history and heritage captured in stamps](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20100402-1.2.37.6.8). *The Straits Times*, p. 41. Retrieved from NewspaperSG.
 
-[^24]:The Straits Times, 18 Dec 1972, p. 9.
+[^24]:*[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19721218-1.2.37),* 18 Dec 1972, p. 9.
 
-[^25]:Wee, C.F. (2015, August 3). Stamping his mark on a changing postal landscape. The Straits Times, p. 3. Retrieved from NewspaperSG.
+[^25]:Wee, C.F. (2015, August 3). [Stamping his mark on a changing postal landscape](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20150803-1.2.30.4). *The Straits Times*, p. 3. Retrieved from NewspaperSG.
