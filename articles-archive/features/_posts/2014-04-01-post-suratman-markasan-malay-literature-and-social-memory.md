@@ -85,7 +85,7 @@ Ketika aku masih kecil / banyak yang aku tahu / kerana duniaku sesumpit kampungk
 
 As a little child / I knew a lot / as my world was as narrow as my village / the villagers were entrenched in my mind / I knew them all, not casually? / falling leaves can be caught by the eye
 
-Suratman is especially sensitive to junctures in Singapore’s history where social memory is both affirmed and denied. In “Balada Seorang Lelaki Di Depan Patung Raffles” (“The Ballad of a Man Before the Statue of Raffles”) Suratman describes a mad man who posed questions before the statue of Sir Stamford Raffles, founder of modern Singapore. The insane man who railed at the statue of Raffles can be seen as the representative of the indigenous man who became a victim of colonialism. In another poem, Suratman challenges the dominant historical narrative, reminding the reader that the victims of colonialism are his own people: 
+Suratman is especially sensitive to junctures in Singapore’s history where social memory is both affirmed and denied. In “<i>Balada Seorang Lelaki Di Depan Patung Raffles</i>” (“The Ballad of a Man Before the Statue of Raffles”) Suratman describes a mad man who posed questions before the statue of Sir Stamford Raffles, founder of modern Singapore. The insane man who railed at the statue of Raffles can be seen as the representative of the indigenous man who became a victim of colonialism. In another poem, Suratman challenges the dominant historical narrative, reminding the reader that the victims of colonialism are his own people: 
 
 Telah kukatakan seribu kali / kau menipu datukku hidup mati / kau merampas hartanya pupus rakus / kau bagikan kepada kawan lawan / kau dengar Raffles? Kau dengar? / seharusnya kau kubawa ke muka pengadilan.[^14]
 
