@@ -18,7 +18,6 @@ permalink: /editors-picks/places-buildings
 <p>William L. Gibson uncovers the story behind the pair of grand buildings along Still Road South and their transformation over the last century.</p> 
 <hr>
 
-#### <a target="_blank" href="/vol-17/issue-2/jul-sep-2021/jurong-bird-park" style="text-decoration: none; font-weight: bold;"> How Jurong Bird Park Was Hatched</a>
-<p>On the 50th anniversary of its opening, Zoe Yeo gives us a bird’s-eye view of the setting up of one.</p>
-<img src="/images/vol-17-issue-2/birdpark/JurongBirdPark_Main.jpg" style="width:100%; height: 280px; object-fit: cover"> 
-<hr>
+#### <a target="_blank" href="/vol-16/issue-3/oct-dec-2020/queenstown" style="text-decoration: none; font-weight: bold;"> Looking Back at Queenstown Library’s 50 Years</a>
+<p>Paddy Jonathan Ong traces the history and development of Singapore’s first branch library since it opened its doors in 1970.</p> 
+<hr clear="left">
