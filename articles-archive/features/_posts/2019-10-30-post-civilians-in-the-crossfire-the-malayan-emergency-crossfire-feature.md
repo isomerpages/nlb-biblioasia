@@ -90,3 +90,28 @@ In order to implement an administration system in the New Villages, government o
 Such fears were not unfounded, for in the town of Yong Peng in central Johor, two such councillors had their arms hacked off. The murder of another village committee member in Kebun Bahru, northern Johor, also underscored the probability of severe reprisals awaiting those whom the communists deemed to be pro-British.
 
 #### **Lost in Translation**
+
+Language barriers between the local authorities and villagers also proved problematic, as illustrated by the aforementioned trial of Phang Seng. In court, Phang pleaded ignorance and claimed he did not know that a permit was needed to bring rice out of the village to cook in the pig sty where he worked. The rice was intended for two of his four sick, young children. He also claimed that he could not give a satisfactory answer to the Malay guard on duty because he could neither speak nor understand Malay.
+
+The language barrier became a subject of ridicule when British officials in Malaya tried to communicate with the grassroots. After communist insurgents descended on Kulai New Village in sou­thern Johor, taking away 20 shotguns as well as ammunition from the local guards without a fight, Templer unleashed his fury on the villagers by describing them as “just a bunch of cowards”, even berating them with the use of an expletive. Unfortunately, the translator totally missed the point and reportedly said, “His Excellency says that your fathers and mothers were not married when you were born”.26
+
+Templer, apparently ignorant that his words were lost in translation, continued to use the same expletive to describe himself, saying that he could be even more ruthless than the communist guerrillas. Once again, the message was lost in translation when the translator announced to all present that Templer himself admitted that his parents were also not married to each other when he was born!27
+
+#### **Post-Templer Era**
+
+By the time Templer left Malaya and returned to the United Kingdom in 1954, the authorities had already gained the upper hand in the fight against the communists. It was clear that the Briggs Plan had proven effective in cutting off supplies to the communists; it not only hurt them physically and militarily, but their morale was also severely affected. The dire lack of food caused some communist insurgents to surrender to the authorities, while dozens more perished in the jungles. Many guerrillas were killed while foraging for food near the New Villages. In one instance, two dead communists in their mid-30s were found with “three wild jungle yams and a green papaya – all inedible”.28 It was reported that some guerrillas even resorted to killing monkeys for meat in order to survive.
+
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
+	<b>How to Outsmart the Authorities</b>
+	<br><br>
+These are some of the ingenious methods that people in the New Villages used to smuggle out essentials to the insurgents:
+	<br><br>
+<li> The bicycle frame was a favourite tool for smuggling supplies. In a village near Kluang in central Johor, two soldiers who dismantled a bicycle belonging to a nine-year-old boy found rice and antibiotic pills hidden in the bicycle frame. The boy drew suspicion because he had been learning to ride a bicycle, “or pretending to, for the past week”, and was always doing so by riding beyond the security checkpoints.29
+	<br><br>
+	<img src="/images/Vol-15-issue-3/civilians-in-the-crossfire/Civilians7.JPG">The heavily guarded entrance of a New Village near Ipoh, Perak,1952. <i>Image reproduced from Yao, S. (2016). The Malayan Emergency: Essays on a Small, Distant War (p. 101). Copenhagen: Nordic Institute of Asian Studies. (Call no.: RSING 959.5104 YAO).</i>
+	In another village, an old woman walked past through the checkpoint daily, carrying two buckets of pig swill that hung from a bamboo pole balanced on her shoulders. When the suspicious police officers “put their hands daily into the filthy mess”, they found nothing.30  A month later the officers realised they had been hoodwinked when they found rice hidden in the hollow bamboo pole instead.
+Medicine and other items were concealed under raw pork as the Malay constables would not touch these receptacles.
+Night soil carriers squirrelled items out of the villages by stashing them in false bottoms of their buckets, while rubber tappers did the same by hiding rice at the bottoms of pails containing latex.
+Women pretended to be preg­nant and wore big brassieres where rice could be stashed, while men strapped bags of rice to the inside of their thighs and wore loose pants.
+Those living near the fences surrounding the New Villages often placed supplies near the fences where the communist guerrillas could easily retrieve.31 Planks were sometimes placed across the fences or holes were made in the fences so that the guerrillas could enter and leave the villages easily.
+</span>
