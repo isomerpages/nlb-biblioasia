@@ -9,11 +9,11 @@ layout: post
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-10-issue-1/suratman/suratman.jpg">
-Suratman Markasan is considered as one of Singapore’s literary pioneers. Image courtesy of Tribute.sg, an initative by Esplanade – Theatres on the Bay.</div>
+Suratman Markasan is considered as one of Singapore’s literary pioneers. <i>Image courtesy of Tribute.sg, an initative by Esplanade – Theatres on the Bay</i>.</div>
 
 <i>And so everyone made the assumption that the news had been barred from publication, because it was feared that such news would have a negative impact on the development of the minds of the younger generation. The truth is, there are men of all natures. So there was yet another assumption that the reporting of such news had been prevented because it would have a negative impact on the development of the nation and its people, or more specifically, on the formation of mainstream thoughts and minds."</i>
 
-<div style="text-align:right;">Suratman Markasan, Penghulu(2012: 243)</div>
+<div style="text-align:right;">Suratman Markasan, *Penghulu*(2012: 243)</div>
 
 Suratman Markasan was born in 1930 in Pasir Panjang, Singapore. After completing his studies at Sultan Idris Training College (SITC) in Perak (Malaysia) in 1950, he joined the teaching service and in 1968 enrolled in Nanyang University, graduating three years later with a degree in Malay and Indonesian Studies. He was appointed as Assistant Director for Malay and Tamil studies at the Ministry of Education and following that, lectured at the Institute of Education until 1995. His literary career spans from the early 1950s right up to the present. In 1989, Suratman received the SEA Write Award from the Thai monarch[^1] and in 2010, was awarded Singapore’s prestigious Cultural Medallion for Literary Arts. 
 
@@ -55,7 +55,7 @@ His literary works, firstly, present social commentaries on the Malay community,
 
 Suratman often writes about themes commonly expressed by the Singapore Malay community. He attempts to engage his readers to think about the issues raised, encouraging them to contemplate their existential and social conditions. These issues include parental neglect, spiritual emptiness, cultural alienation, language deprivation, the plight of the poor, the leadership crisis in the Malay community and the mismanagement of mosques.[^7]
 
-His poetry considers several aspects of social memory such as his memory of physical spaces that used to be part of his life, and which have now disappeared. This is captured in his poem on his alma mater, Sultan Idris Training College. One recurring reference in his poems is Tun Seri Lanang Secondary School, a Malay-medium school whose establishment was a seen as a triumph for Malay education in Singapore. When the school was formed in 1963, Suratman described the joy he felt: “apparently Seri Lanang was born beside Kallang River/ all the Malays who were supportive were joyous” <i>(ternyata lahir Seri Lanang di tepi Sungai Kallang/ segala Melayu yang suka menatang gembira.)</i>[^8] But by 1989, these Malay-medium schools were closed as enrolment fell drastically, with Malay families preferring to send their children to English-medium schools instead. Suratman lamented: 
+His poetry considers several aspects of social memory such as his memory of physical spaces that used to be part of his life, and which have now disappeared. This is captured in his poem on his alma mater, Sultan Idris Training College. One recurring reference in his poems is Tun Seri Lanang Secondary School, a Malay-medium school whose establishment was a seen as a triumph for Malay education in Singapore. When the school was formed in 1963, Suratman described the joy he felt: “apparently Seri Lanang was born beside Kallang River/ all the Malays who were supportive were joyous” <i>(ternyata lahir Seri Lanang di tepi Sungai Kallang/ segala Melayu yang suka menatang gembira.)</i> [^8] But by 1989, these Malay-medium schools were closed as enrolment fell drastically, with Malay families preferring to send their children to English-medium schools instead. Suratman lamented: 
 
 negara Seri Lanang kian pudar di mata Mat layu / pelajar tinggal sedikit guru menjadi buntu / di sana sini orang bercakap Inggeris tentu / biar dianggap punya pelajaran tinggi / atau di kedai kopi yang tak memerlu degree / Melayu sudah lesap Inggeris belum lengkap / pada detik yang bernama 1987 / Tun Seri Lanang mengikuti jejak Sang Nila Utama / tak terduga tenggelam di Sungai Sejarahnya.[^9]
 
