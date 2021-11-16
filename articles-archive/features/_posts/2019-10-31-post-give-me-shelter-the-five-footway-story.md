@@ -7,7 +7,8 @@ layout: post
 #### The five-footway – the equivalent to the modern-day pavement or sidewalk – was a hotly contested space in colonial Singapore. Fiona Lim relives its colourful history.
 
 <img src="/images/Vol-15-issue-3/give-me-shelter/Shelter1.JPG">
-<div style="background-color: white;"></div>
+<div style="background-color: white;">Paintng of a row of shophouses and the fve-footway running along the facade. <i>Image reproduced from Morton-Cameron, W.H., & Feldwick, W. (Eds.). (2012). Present Day Impressions of the Far
+East and Prominent & Progressive Chinese at Home and Abroad: The History, People, Commerce, Industries, and Resources of China, Hong Kong, Indo-China, Malaya, and Netherlands India (vol. 2; facing p. 810). Tokyo: Editon Synapse. (Call no.: RSING 950 PRE).</i></div>
 
 “Crowded, bustling, layered, constantly shifting, and seemingly messy, these sites and activities possess an order and hierarchy often visible and comprehensible only to their participants, thereby escaping common understanding and appreciation”.[^1]
 
@@ -22,9 +23,6 @@ Early paintings of Singapore by Government Surveyor of the Straits Settlements J
 #### **The Mandatory Five-footway**
 
 The five-footway (historically, often used interchangeably with the term “verandah”) was originally mandated by Stamford Raffles as part of his 1822 Town Plan of Singapore – also known as the Jackson Plan. Article 18 of the plan states: “Description of houses to be constructed, each house to have a verandah open at all times as a continued and covered passage on each side of the street.” This was to be carried out “for the sake of uniformity” in the townscape.[^2] Raffles’ intention to have the verandah “open at all times” would be frequently invoked in future contentions about the use of this space.
-
-<img style="width: 400px; height: 430px;" src="/images/Vol-15-issue-3/give-me-shelter/Shelter2.JPG">
-<div style="background-color: white;">Painting of a row of shophouses and the five-footway running along the facade. <i>Image reproduced from Morton-Cameron, W.H., & Feldwick, W. (Eds.). (2012). Present Day Impressions of the Far East and Prominent & Progressive Chinese at Home and Abroad: The History, People, Commerce, Industries, and Resources of China, Hong Kong, Indo-China, Malaya, and Netherlands India (vol. 2; facing p. 810). Tokyo: Edition Synapse. (Call no.: RSING 950 PRE)</i></div>
 
 Scholars suggest that Raffles became acquainted with this architectural feature during his time as Lieutenant-General of Java. The Dutch colonisers had earlier introduced covered walkways and implemented a regular street alignment in Batavia (present-day Jakarta), capital of the Dutch East Indies.[^3]
 
