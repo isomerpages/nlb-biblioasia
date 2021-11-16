@@ -41,4 +41,8 @@ permalink: /editors-picks/literature
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/borobudur" target="_blank"> The Borobudur, Mysterious Gold Plates and Singing Maps</a>
 <p>Unsolved historical puzzles from Southeast Asia are key elements of the recently published thriller The Java Enigma by debut novelist Erni Salleh.</p>  
-<hr clear="left">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-3/oct-dec-2021/singapore-comics" target="_blank">Singapore Comics: Panels Past and Present</a>
+<p>With great power comes great responsibility. Jacqueline Lee and Chiang Yu Xiang use their power to give us an overview of the history of comics in Singapore.</p> 
+<hr>
