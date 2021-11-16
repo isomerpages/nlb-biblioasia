@@ -115,8 +115,8 @@ This is an extract from Great Lengths: Singapore’s Swimming Pools (2017) publi
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Vol-13-issue-4/memory-laps/jessie-yak.png">
-	<b>Jocelyn Lau</b> is a an editor and a writer with postgraduate qualifications in publishing. She is the co-publisher of <i>Kucinta Books</i>.
+<img style="width: 100px; height: 100px;" src="/images/Vol-13-issue-4/memory-laps/jocelyn.png">
+<b>Jocelyn Lau</b> is a an editor and a writer with postgraduate qualifications in publishing. She is the co-publisher of <i>Kucinta Books</i>.
 </div>
 
 <a href="/vol-13/issue-4/jan-mar-2018/"><center>Back to Issue</center></a>
