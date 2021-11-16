@@ -147,18 +147,8 @@ On a positive note, the communists never regained their foothold in Malaya. They
 [^3]:Paul, C., et al. (2013). Malaya, 1948–1955 case outcome: COIN win. In Paths to victory: Detailed insurgency case studies (p. 55). Santa Monica: RAND Corporation. Retrieved from JSTOR.
 [^4]:Named after Lieutenant-General Harold Rawdon Briggs (1894–1952), who devised the strategy. Although having retired from the British Army in 1948, he was recalled to active duty in 1950 and became Director of Operations in Malaya during the Malayan Emergency.
 [^5]:The Malayan National Liberation Army (MNLA) was often mistranslated as the Malayan Races Liberation Army (MRLA).
-[^6]:Miller, H. (1981). Jungle war in Malaya: The campaign against communism, 1948–60 (p. 73). Singapore: Eastern University Press. (Call no.: RSING 959.5 MIL)
-[^7]:
-[^8]:
-[^9]:
-[^10]:
-
-
-
-
-
-
-Miller, 1981, p. 77.
-O’Ballance, E. (1966). Malaya: The Communist insurgent war, 1948–1960 (p. 109).  London: Faber and Faber Limited. (Call no.: RCLOS 959.5 OBA-[JSB]). Amenities such as water, electricity, medical facilities and schools were provided for settlers in the New Villages. The villagers were run by locally elected village councillors. See Barber, N. (1971). The war of the running dogs: How Malaya defeated the communist guerrillas, 1948–60 (p. 103). London: Collins. (Call no.: RDLKL 959.5 BAR).
-O’Ballance, 1966, p. 110.
-Barber, 1971, p. 103.
+[^6]:Miller, H. (1981). [*Jungle war in Malaya: The campaign against communism, 1948–60*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=4081352) (p. 73). Singapore: Eastern University Press. (Call no.: RSING 959.5 MIL).
+[^7]:[Miller](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081352), 1981, p. 77.
+[^8]:O’Ballance, E. (1966). [*Malaya: The Communist insurgent war, 1948–1960*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=714586) (p. 109).  London: Faber and Faber Limited. (Call no.: RCLOS 959.5 OBA-[JSB]). Amenities such as water, electricity, medical facilities and schools were provided for settlers in the New Villages. The villagers were run by locally elected village councillors. See Barber, N. (1971). [*The war of the running dogs: How Malaya defeated the communist guerrillas, 1948–60*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=839401) (p. 103). London: Collins. (Call no.: RDLKL 959.5 BAR).
+[^9]:[O’Ballance](https://eservice.nlb.gov.sg/item_holding.aspx?bid=714586), 1966, p. 110.
+[^10]:Barber, 1971, p. 103.
