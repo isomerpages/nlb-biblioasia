@@ -129,7 +129,7 @@ As for the civilians who suffered through it all, the psychological impact staye
 
 On a positive note, the communists never regained their foothold in Malaya. They were put on the defensive and eventually retreated to the Thai-Malaysian border. On 2 December 1989, the MCP agreed to “disband and end its struggle against the Malaysian forces” by signing a peace accord with the Malaysian and Thai governments in Hat Yai, southern Thailand.[^36]
 
-<img style="width: 500px; height: 400px;" src="/images/Vol-15-issue-3/civilians-in-the-crossfire/Civilians9.JPG">
+<img style="width: 600px; height: 400px;" src="/images/Vol-15-issue-3/civilians-in-the-crossfire/Civilians9.JPG">
 <div style="background-color: white;">The Federation Government announcing a reward of $250,000 for “bringing in alive” or giving information leading to the capture of Chin Peng, Secretary-General of the Malayan Communist Party, the man responsible for directing the armed communist revolt in Malaya. <i>The Straits Times, 1 May 1952, p. 1.</i></div>
 
 <br>
