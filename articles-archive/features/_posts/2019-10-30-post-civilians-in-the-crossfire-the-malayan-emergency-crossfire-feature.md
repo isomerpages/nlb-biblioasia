@@ -171,4 +171,10 @@ On a positive note, the communists never regained their foothold in Malaya. They
 [^27]:[Cloake](http://eservice.nlb.gov.sg/item_holding.aspx?bid=3795113), 1985, p. 272.
 [^28]:[Starving reds killed in ambush](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19580701-1.2.17). (1958, July 1). *The Straits Times*, p. 2. Retrieved from NewspaperSG.
 [^29]:Barber, N. (1971). [*The war of the running dogs: How Malaya defeated the communist guerrillas, 1948–60*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=839401) (p. 110). London: Collins. (Call no.: RDLKL 959.5 BAR).
-[^3]:[Barber](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=839401), 1971, p. 110.
+[^30]:[Barber](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=839401), 1971, p. 110.
+[^31]:[‘Operation Starvation’ hits reds](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19510923-1.2.45). (1951, September 23). *The Straits Times*, p. 5; [Malaya’s reds are still being fed](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19520417-1.2.100). (1952, April 17). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
+[^32]:The Orang Asli are the indigenous people of Peninsular Malaysia. They, too, suffered during the Emergency. Thousands were believed to have perished during this period.
+[^33]:Chin, P. (2003). [*My side of history*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=12106841) (p. 270). Singapore: Media Masters. (Call no.: RSING 959.5104092 CHI).
+[^34]:[Food: Reds squeal](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19530701-1.2.2). (1953, July 1). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
+[^35]:*New Straits Times*, 1 Aug 1998, p. 7.
+[^36]:Hassan Kalimullah. (1989, December 1). [CPM to destroy all arms and ammunition in 7-point pact](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19891201-1.2.29.6). The Straits Times, p. 23. Retrieved from NewspaperSG.
