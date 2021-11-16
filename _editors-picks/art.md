@@ -16,7 +16,6 @@ permalink: /editors-picks/art
 <img src="/images/Vol-12-issue-4/windows-into-history/4-windows_into_history.png">
 <hr>
 
-
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/malay-seals" target="_blank"> Malay Seals from Singapore</a>
 <p>Malay seals of the 19th century hold important information, says Annabel Teh Gallop.</p>
 <hr>
@@ -30,6 +29,11 @@ permalink: /editors-picks/art
 <p>Danièle Weiler uncovers the work of two young French naturalists – Alfred Duvaucel and Pierre Médard Diard – who worked with Stamford Raffles between 1818 and 1820.</p>
 <hr>
  
- #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-3/oct-dec-2021/stjosephchurch" target="_blank">Making the Invisible Visible: Restoring the Statues of St Joseph’s Church on Victoria Street</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-3/oct-dec-2016/the-tiger-within" target="_blank">The Tiger Within</a>
+<p>These fanged beasts are by turns both captivating as they are terrifying. Patricia Bjaaland Welch explores the tiger motif in the art and literature of Asia.</p> 
+<img src="/images/Vol-12-issue-3/the-tiger-within/01-tiger-within.jpg">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-3/oct-dec-2021/stjosephchurch" target="_blank">Making the Invisible Visible: Restoring the Statues of St Joseph’s Church on Victoria Street</a>
 <p>Alvin Tan documents the painstaking process behind the restoration of the statues in St Joseph’s Church.</p> 
 <hr>
