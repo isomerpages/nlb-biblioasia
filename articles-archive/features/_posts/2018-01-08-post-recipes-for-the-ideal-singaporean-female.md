@@ -38,7 +38,7 @@ The opportunity to pursue a career in domestic science came from overseas in the
 
 The government began to see the value of home economics when women started to work outside the home. Singapore had been attracting foreign investments for labour-intensive industries since the 1960s. By 1970, the government had created more blue-collar jobs than men alone could fill, so it encouraged women to take up careers in traditionally male-dominated fields.[^6]
 
-<div style="background-color: white;"><br><img src="/images/Vol-13-issue-4/ideal-singaporean-female/02_idealsgfemale.png">Women working in the factory of Roxy Electric Company at Tanglin Halt, 1966. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;"><img src="/images/Vol-13-issue-4/ideal-singaporean-female/02_idealsgfemale.png">Women working in the factory of Roxy Electric Company at Tanglin Halt, 1966. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 The call for women to contribute to the nation’s industrialisation was a success – between 1957 and 1980, the number of women in the manufacturing sector increased nearly 10 times[^7] – but it created a dilemma: working mothers were not passing on homemaking skills to their daughters who, upon reaching adulthood, were more likely to work than stay at home. Girls in traditional households had been taught how to cook and clean by their mothers, but the rise of working women meant that this transfer of homemaking skills was interrupted. The government saw this as a threat to the stability of the family unit – the basic building block of society.
 
@@ -168,33 +168,33 @@ It was only as an adult that I re-acquainted myself with the kitchen when food t
 
 [^13]:Boey, C. (1983, September 5). It’s not kid stuff – appreciate their art. Singapore Monitor, p. 6. Retrieved from NewspaperSG.
 
-[^14]:Ministry of Culture, 30 June 1973, p. 2.
+[^14]:[Ministry of Culture](http://www.nas.gov.sg/archivesonline/data/pdfdoc/PressR19730630d.pdf), 30 June 1973, p. 2.
 
-[^15]:Ministry of Culture. (1983, September 3). Speech by Dr Tay Eng Soon, Minister of State for Education, at the 50th anniversary of St Nicholas Girls’ School at the Neptune Theatre Restaurant on Saturday, 3 September 1983 at 7.30 p.m (p. 2). Retrieved from National Archives of Singapore website.
+[^15]:Ministry of Culture. (1983, September 3). *[Speech by Dr Tay Eng Soon, Minister of State for Education, at the 50th anniversary of St Nicholas Girls’ School at the Neptune Theatre Restaurant on Saturday, 3 September 1983 at 7.30 p.m](http://www.nas.gov.sg/archivesonline/data/pdfdoc/tes19830903s.pdf)* (p. 2). Retrieved from National Archives of Singapore website.
 
-[^16]:Thomas, M. (1984, September 9). Girls: In a class by themselves. Singapore Monitor, p. 16. Retrieved from NewspaperSG.
+[^16]:Thomas, M. (1984, September 9). [Girls: In a class by themselves](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19840909-1.2.23.8). *Singapore Monitor*, p. 16. Retrieved from NewspaperSG.
 
-[^17]:Lee, K.Y. (2000). From third world to first: The Singapore story, 1965–2000: Singapore and the Asian economic boom (p. 140). New York: HarperCollins Publishers. (Call no.: RCLOS 959.57092 LEE)
+[^17]:Lee, K.Y. (2000). *[From third world to first: The Singapore story, 1965–2000: Singapore and the Asian economic boom](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200175843)* (p. 140). New York: HarperCollins Publishers. (Call no.: RCLOS 959.57092 LEE)
 
-[^18]:Lee, 2000, pp. 136–140.
+[^18]:[Lee](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200175843), 2000, pp. 136–140.
 
-[^19]:Lee, 2000, pp. 135–140; Policies for the bedroom and beyond. (2015, March 23). Today, p. 28. Retrieved from NewspaperSG.
+[^19]:[Lee](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200175843), 2000, pp. 135–140; [Policies for the bedroom and beyond.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20150323-1.2.50.20) (2015, March 23). *Today*, p. 28. Retrieved from NewspaperSG.
 
-[^20]:Ministry of Culture, 3 Sep 1983, p. 2.
+[^20]:[Ministry of Culture](http://www.nas.gov.sg/archivesonline/data/pdfdoc/tes19830903s.pdf), 3 Sep 1983, p. 2.
 
-[^21]:Singapore Monitor, 9 Sep 1984, p. 16.
+[^21]:*[Singapore Monitor](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19840909-1.2.23.8),* 9 Sep 1984, p. 16.
 
-[^22]:Hamidah Khalid & Siti Majhar. (Eds.). (1983). New home economics (Book 2) (pp. 18–27). Singapore: Longman Singapore. (Call no.: RSING 640.7 NEW); Viswalingam, P. (1987). Home economics today 2E (pp. 3–58). Singapore: Curriculum Development Institute of Singapore. (Call no.: YR 640.76 HOM)
+[^22]:Hamidah Khalid & Siti Majhar. (Eds.). (1983). *[New home economics](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4140614)* (Book 2) (pp. 18–27). Singapore: Longman Singapore. (Call no.: RSING 640.7 NEW); Viswalingam, P. (1987). *[Home economics today 2E](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4687810)* (pp. 3–58). Singapore: Curriculum Development Institute of Singapore. (Call no.: YR 640.76 HOM)
 
-[^23]:Hamidah & Siti, 1983, p. 25; National Library Board. (2014). National family planning campaign is launched. Retrieved from HistorySG.
+[^23]:[Hamidah & Siti](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4140614), 1983, p. 25; National Library Board. (2014). *[National family planning campaign is launched](http://eresources.nlb.gov.sg/history/events/eea3d96d-93aa-455a-ac8a-1564d1b6d215)*. Retrieved from HistorySG.
 
-[^24]:Boys need to know about the home too. (1984, November 18). Singapore Monitor, p. 13. Retrieved from NewspaperSG.
+[^24]:[Boys need to know about the home too](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19841118-1.2.21.5). (1984, November 18). *Singapore Monitor*, p. 13. Retrieved from NewspaperSG.
 
-[^25]:Why not enlighten boys on home economics too? (1984, December 7). The Straits Times, p. 21. Retrieved from NewspaperSG.
+[^25]:[Why not enlighten boys on home economics too?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19841207-1.2.39.3) (1984, December 7). *The Straits Times*, p. 21. Retrieved from NewspaperSG.
 
-[^26]:Singapore Monitor, 9 Sep 1984, p. 16.
+[^26]:*[Singapore Monitor](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19840909-1.2.23.8)*, 9 Sep 1984, p. 16.
 
-[^27]:Alfred, H. (1984, November 24). 428 petition against compulsory home econs. *The Straits Times*, p. 21. Retrieved from NewspaperSG.
+[^27]:Alfred, H. (1984, November 24). [428 petition against compulsory home econs](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19841124-1.2.26.26). *The Straits Times*, p. 21. Retrieved from NewspaperSG.
 
 [^28]:Viswalingam, P. (1986). *[Home economics today 1E](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4687844)* (p. 14) Singapore: Curriculum Development Institute of Singapore. (Call no.: YR 640.76 HOM)
 
