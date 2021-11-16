@@ -149,3 +149,25 @@ Nair, P. (1997, October 3). [Nine nights of excitement honour the Goddess Devi](
 </div>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-15/issue-3/oct-dec-2019/"><center>Back to Issue</center></a>
+
+#### **NOTES**
+[^1]:Rotti, J. (2017, September 25). Dasara doll festival – significance and history. Retrieved from Karnataka website; Subramanian, A. (2017, September 22). Steps of wonder. *The Hindu*. Retrieved from The Hindu website.
+[^2]:Author’s interviews with Mrs Lalitha Vaidyanathan and Mrs Komalavalee Soundararajan and oral history interviews of Mrs Vijayam Balakrishna Sharma and Mrs Komalavalee Soundararajan.
+[^3]:Shakti is a divine cosmic energy that represents feminine energy and the dynamic forces that flow through the universe. Shakti takes many forms and names, including mother goddess, fierce warrior and the dark goddess of destruction. She is also known as Parvati, Durga and Kali.
+[^4]:Flood, G. (1996). [*An introduction to Hinduism*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7603519) (pp. 174–175, 177–178). New York: Cambridge University Press. (Call no.: R 294.5 FLO).
+[^5]:Brahma, who is traditionally depicted with four faces and four arms, is the creator god.  Vishnu upholds and preserves creation; he is usually depicted as having blue skin and four arms. Shiva is the destroyer god as he removes all evil from the world. Their consorts are Saraswati, Lakshmi and Parvati respectively. Saraswati is the goddess of knowledge, music, art, wisdom and learning. Lakshmi is the goddess of wealth, fortune and prosperity. Parvati is the goddess of fertility, love, beauty, marriage, children, devotion, divine strength and power.
+[^6]:Goddess Durga is sometimes described as riding on a lion.
+[^7]:Jagannathan, M. (2005). [*South Indian Hindu festivals and traditions*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12767164) (p. 111). New Delhi: Abhinav Publications. (Call no.: R 294.536 MAI); [The different ways of celebrating Navarathri](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19890929-1.2.88.6.2). (1989, September 29). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
+[^8]:Author’s interview with Mrs Lalitha Vaidyanathan, 1 July 2019.
+[^9]:*Veshti* is the traditional attire of South Indian men, consisting of a floor-length piece of long white cloth wrapped around the waist. See Chacko, B. (2017, September 28). It’s Navaratri, time to bring Golu dolls home. *The Indian Express*. Retrieved from Indian Express website.
+[^10]:Chacko, 28 Sep 2017.
+[^11]:Chacko, 28 Sep 2017.
+[^12]:Srinivasan, M. (2011, September 26). Doll them up. *The Hindu*. Retrieved from The Hindu website; Subramanian, 22 Sep 2017.
+[^13]:Nadadhur, S. (2018, October 18). Bommala Koluvu: A treasure trove of stories, traditions and memories. *Times of India*. Retrieved from Times of India website; Rotti, 25 Sep 2017.
+[^14]:Author’s interview with Mrs Lalitha Vaidyanathan, 1 July 2019.
+[^15]:Rotti, 25 Sep 2017; Krishnan, J. (2016, October 4). A cultural connection: Japanese Hina Matsuri and Navratri Kolu. *India America Today*. Retrieved from India America Today website; Subramanian, 22 Sep 2017.
+[^16]:Devalla, R. (2015, October 21). Blend of tradition and creativity. *The Hindu*. Retrieved from The Hindu website.
+[^17]:Rotti, 25 Sep 2017; Author’s interview with Darshna Mahadevan, 30 June 2019.
+[^18]:Srinivasan, 26 Sep 2011.
+[^19]:Rodrigues, H. (2005). Women in the worship of the Great Goddess. In A. Sharma (Ed.), (2005). [*Goddesses and women in the Indic religious tradition*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12548467) (p. 72). Leiden, The Netherlands: Brill. (Call no.: R 294.082 GOD).
+[^2]:Mangala. (1981, October 16). [Navarathri](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19811016-1.2.143.2.5). The Straits Times, p. 4. Retrieved from NewspaperSG.
