@@ -8,7 +8,7 @@ layout: post
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-1/suratman/suratman.jpg">
+<img  src="/images/vol-10-issue-1/suratman/suratman.jpg">
 Suratman Markasan is considered as one of Singapore’s literary pioneers. <i>Image courtesy of Tribute.sg, an initative by Esplanade – Theatres on the Bay</i>.</div>
 
 <i>And so everyone made the assumption that the news had been barred from publication, because it was feared that such news would have a negative impact on the development of the minds of the younger generation. The truth is, there are men of all natures. So there was yet another assumption that the reporting of such news had been prevented because it would have a negative impact on the development of the nation and its people, or more specifically, on the formation of mainstream thoughts and minds."</i>
@@ -48,7 +48,7 @@ In general, his works record the challenges and turbulence of urban life. He emb
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-1/suratman/relocation_of_malays.jpg">
+<img style="width:70%" src="/images/vol-10-issue-1/suratman/relocation_of_malays.jpg">
 Economic development in Singapore in the 1960s and 70s led to the relocation of Malays from their traditional community spaces. Pictured here are Malays living on one of the southern islands on public assistance welfare in 1961. <i>MITA collection, courtesy of National Archives of Singapore.</i></div>
 
 His literary works, firstly, present social commentaries on the Malay community, criticising what he feels to be undesirable actions or ideas. His creative works, both in prose and verse, are complemented by his essays on culture, religion and language. Secondly, Suratman presents himself as a family man, both as father and husband. Thirdly, his works affirm his spiritual and religious convictions. 
@@ -117,7 +117,7 @@ the warrior Nila Utama was hardly celebrated by Malay fighters / the writer Seri
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-1/suratman/large_body_of_work.jpg">
+<img style="width:70%" src="/images/vol-10-issue-1/suratman/large_body_of_work.jpg">
 Suratman has produced a large body of work, with themes that cover issues such as race and nationhood. <i>All rights reserved, National Library Board Singapore, 2014.</i></div>
 
 To build a future, moulding it to our needs and character requires a sense of place and being. 
