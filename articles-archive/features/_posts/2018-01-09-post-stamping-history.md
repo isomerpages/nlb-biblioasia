@@ -122,27 +122,27 @@ Ironically, postage stamps have today come full circle to when they were first c
 
 #### **NOTES**
 
-[^1]:Singapore Stamp Club. (1967). Singapore Independence stamps. In 1867–1967 Centennial Stamp Exhibition commemorating one hundred years of postage stamps in Singapore… at the National Library: [Souvenir programme] (p. 2). Singapore: Singapore Stamp Club. (Call no.: RCLOS 769.5695957 SIN)
+[^1]:Singapore Stamp Club. (1967). Singapore Independence stamps. In *[1867–1967 Centennial Stamp Exhibition commemorating one hundred years of postage stamps in Singapore… at the National Library: [Souvenir programme]](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4401761)* (p. 2). Singapore: Singapore Stamp Club. (Call no.: RCLOS 769.5695957 SIN)
 
-[^2]:Singapore Stamp Club, 1967, p. 2.
+[^2]:[Singapore Stamp Club](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4401761), 1967, p. 2.
 
-[^3]:Ministry of Culture. (1968, August 27). Speech of Mr Yong Nyuk Lin, Minister for Communications at the inaugural meeting of the Stamp Advisory Committee held at the conference room of the Malayan Rubber Export Registration Board, 3rd Floor, Fullerton Building on Tuesday, 27th August, 1968 at 1500 Hours. Retrieved from National Archives of Singapore website.
+[^3]:Ministry of Culture. (1968, August 27). *[Speech of Mr Yong Nyuk Lin, Minister for Communications at the inaugural meeting of the Stamp Advisory Committee held at the conference room of the Malayan Rubber Export Registration Board, 3rd Floor, Fullerton Building on Tuesday, 27th August, 1968 at 1500 Hours](http://www.nas.gov.sg/archivesonline/data/pdfdoc/PressR19680827.pdf)*. Retrieved from National Archives of Singapore website.
 
-[^4]:5 stamp issues for next year. (1969, August 8). The Straits Times, p. 6. Retrieved from NewspaperSG.
+[^4]:[5 stamp issues for next year](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19690808-1.2.34). (1969, August 8). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
 
-[^5]:Loh, P.Y. (2013–2014). Stamp up for Singapore: Commemoration in National Day Stamps, 1960–1984 (p. 15) (Unpublished thesis). Retrieved from Academia website.
+[^5]:Loh, P.Y. (2013–2014). *Stamp up for Singapore: Commemoration in National Day Stamps, 1960–1984* (p. 15) (Unpublished thesis). Retrieved from Academia website.
 
 [^6]:The inaugural Stamp Advisory Committee was chaired by Phua Bah Lee, (Parliamentary Secretary, Ministry of Communications) and comprised M. Bala Subramanion (Postmaster General), Roy Daniel (Head, Publicity Division, Ministry of Culture), Koh Seow Chuan (Ag. President, Singapore Stamp Club), Choy Weng Yang (Lecturer, Arts & Crafts, Teachers’ Training College), Lian Hock Lian (Assistant Secretary, Ministry of Communications), W. Maxwell (Philatelist), Eric Khoo Cheng Lock (Philatelist) and Patrick Lee Boon Guan (Assistant Controller of Posts).
 
-[^7]:‘150’ stamps a big hit. (1969, September 10). The Straits Times, p. 4. Retrieved from NewspaperSG.
+[^7]:[‘150’ stamps a big hit](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19690910-1.2.25). (1969, September 10). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
 
 [^8]:A First day cover consists of the stamp on a cover, post card or envelope, and postmarked with the date that the stamp is first authorised for use.
 
-[^9]:Lim, T. (1986, November 10). Stamps can bring big returns over time. The Straits Times, p. 20. Retrieved from NewspaperSG.
+[^9]:Lim, T. (1986, November 10). [Stamps can bring big returns over time](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19861110-1.2.42.17). *The Straits Times*, p. 20. Retrieved from NewspaperSG.
 
-[^10]:Chia, P. (1972, December 18). $1million S’pore stamps sold in a year. The Straits Times, p. 9. Retrieved from NewspaperSG.
+[^10]:Chia, P. (1972, December 18). [$1million S’pore stamps sold in a year](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19721218-1.2.37). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
 
-[^11]:Ang, B. (2016, October 30). Stamp of passion. The Straits Times, p. 3. Retrieved from NewspaperSG.
+[^11]:Ang, B. (2016, October 30). [Stamp of passion](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20161030-1.2.52.1.2). *The Straits Times*, p. 3. Retrieved from NewspaperSG.
 
 [^12]:[Federation man wins Singapore contest](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19611120-1.2.61). (1961, November 20). *The Straits Times*, p. 5; Lack of interest may hold up stamps. (1958, August 21). *The Straits Times*, p. 10. Retrieved from NewspaperSG.
 
