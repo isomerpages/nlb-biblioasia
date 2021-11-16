@@ -4,10 +4,9 @@ date: 2019-10-30
 permalink: /vol-15/issue-3/oct-dec-2019/photography-in-sg/
 layout: post
 ---
-
 #### The oldest known photographs of Singapore were taken by Europeans in the early 1840s. **Janice Loo** charts the rise of commercial photography in the former British colony.
 
-<img style="width: 250px; height: 250px;" src="/images/Vol-15-issue-3/daguerreotypes-to-dry-plates/Daguerreotypes1.JPG">
+<img style="width: 350px; height: 350px;" src="/images/Vol-15-issue-3/daguerreotypes-to-dry-plates/Daguerreotypes1.JPG">
 <div style="background-color: white;">An early camera consisting of a tube holding the lens at the front and a slot at the back for the insertion of the focusing ground glass, with the dark slide containing the sensitised plate. <i>Image reproduced from Tissandier, G. (1877). A History and Handbook of Photography (p. 97). New York: Scovill Manufacturing Company. Retrieved from Internet Archive website.</i></div>
 
 Photography is the “method of recording the image of an object through the action of light on a light-sensitive material”.[^1] Derived from the Greek words *photos* (“light”) and *graphein* (“to draw”), photography was invented by combining the age-old principles of the camera obscura (“dark room” in Latin[^2]) and the discovery in the 1700s that certain chemicals turned dark when exposed to light.
