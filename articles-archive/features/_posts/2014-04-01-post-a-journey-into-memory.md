@@ -43,6 +43,6 @@ Historical truth, as far as we can understand it, rests not only upon recorded f
 
 #### NOTES
 
-[^1]: Bunuel, L. (2013). My last sigh: The autobiography of Luis Bunuel (p. 2). London: Vintage. (Not available in NLB holdings)
+[^1]: Bunuel, L. (2013). <i>My last sigh: The autobiography of Luis Bunuel</i> (p. 2). London: Vintage. (Not available in NLB holdings)
 
-[^2]: Alvarez, A. (2005). The writer’s voice (p. 11). London: Bloomsbury. (Not available in NLB holdings)
+[^2]: Alvarez, A. (2005). <i>The Writer’s Voice</i> (p. 11). London: Bloomsbury. (Not available in NLB holdings)
