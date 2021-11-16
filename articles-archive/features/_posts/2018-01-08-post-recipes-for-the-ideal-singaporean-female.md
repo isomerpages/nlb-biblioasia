@@ -142,31 +142,31 @@ It was only as an adult that I re-acquainted myself with the kitchen when food t
 
 #### **NOTES**
 
-[^1]:Shapiro, L. (1986). Perfection salad: Women and cooking at the turn of the century (pp. 26–46). New York: Farrar, Straus and Giroux. (Not available in NLB holdings); Stage, S., & Vincenti, V. B. (1997). Rethinking home economics: Women and the history of a profession (pp. 79–95). New York: Cornell University Press. (Not available in NLB holdings)
+[^1]:Shapiro, L. (1986). *Perfection salad: Women and cooking at the turn of the century* (pp. 26–46). New York: Farrar, Straus and Giroux. (Not available in NLB holdings); Stage, S., & Vincenti, V. B. (1997). *Rethinking home economics: Women and the history of a profession* (pp. 79–95). New York: Cornell University Press. (Not available in NLB holdings)
 
-[^2]:Tan, L. (Interviewer). (1982, December 7). Oral history interview with Noel Evelyn Norris [Transcript of MP3 recording no. 000221/18/16, p. 163]; Chua, C.H.J. (Interviewer). (1993, February 9). Oral history interview with Marie Ethel Bong [Transcript of MP3 recording no. 001390/64/20, pp. 190–194]. Retrieved from National Archives of Singapore website.
+[^2]:Tan, L. (Interviewer). (1982, December 7). *[Oral history interview with Noel Evelyn Norris](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e356c0a5-115d-11e3-83d5-0050568939ad-OHC000221_016/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=5)* [Transcript of MP3 recording no. 000221/18/16, p. 163]; Chua, C.H.J. (Interviewer). (1993, February 9). *[Oral history interview with Marie Ethel Bong](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/2/2a48e380-115e-11e3-83d5-0050568939ad-OHC001390_016/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=9)* [Transcript of MP3 recording no. 001390/64/20, pp. 190–194]. Retrieved from National Archives of Singapore website.
 
-[^3]:Chua, C.H.J. (1993, February 9). Oral history interview with Marie Ethel Bong [Transcript of MP3 recording no. 001390/64/16, p. 155]. Retrieved from National Archives of Singapore website.
+[^3]:Chua, C.H.J. (1993, February 9). *[Oral history interview with Marie Ethel Bong](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/2/2a48e380-115e-11e3-83d5-0050568939ad-OHC001390_016/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=9)* [Transcript of MP3 recording no. 001390/64/16, p. 155]. Retrieved from National Archives of Singapore website.
 
-[^4]:Girls to learn cooking. (1949, February 26). The Straits Times, p. 7. Retrieved from NewspaperSG.
+[^4]:[Girls to learn cooking](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19490226-1.2.89). (1949, February 26). *The Straits Times*, p. 7. Retrieved from NewspaperSG.
 
-[^5]:Career for home economists in Singapore. (1987, August). HETA news, 2, p. 3. Singapore: The Association. (Call no.: RSING q640.7 HETAN). Ministry of Culture. (1973, June 30). Speech by Mr A Rahim Ishak, Minister of State for Foreign Affairs, at the opening of the home economics building and extension of the school tuckshop at the Anglican High School on Saturday, 30th June 1973 at 9.00 a.m (p. 2). Retrieved from National Archives of Singapore website.
+[^5]:Career for home economists in Singapore. (1987, August). *[HETA news](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4079613)*, 2, p. 3. Singapore: The Association. (Call no.: RSING q640.7 HETAN). Ministry of Culture. (1973, June 30). *[Speech by Mr A Rahim Ishak, Minister of State for Foreign Affairs, at the opening of the home economics building and extension of the school tuckshop at the Anglican High School on Saturday, 30th June 1973 at 9.00 a.m](http://www.nas.gov.sg/archivesonline/data/pdfdoc/PressR19730630d.pdf)* (p. 2). Retrieved from National Archives of Singapore website.
 
-[^6]:Lee Kuan Yew School of Public Policy. (2016). Foreign domestic workers in Singapore: Social and historical perspectives (p. 4). Retrieved from Lee Kuan Yew School of Public Policy website; Kho, E.M. (2013). The construction of femininity in a postcolonial state: girls’ education in Singapore (p. 57). New York: Cambria Press. (Call no.: RSING 371.822095957 KHO)
+[^6]:Lee Kuan Yew School of Public Policy. (2016). *Foreign domestic workers in Singapore: Social and historical perspectives* (p. 4). Retrieved from Lee Kuan Yew School of Public Policy website; Kho, E.M. (2013). *[The construction of femininity in a postcolonial state: girls’ education in Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200148758)* (p. 57). New York: Cambria Press. (Call no.: RSING 371.822095957 KHO)
 
-[^7]:Wong, K., & Leong, W.K. (Eds.). (1993). Singapore women: Three decades of change (p. 89) Singapore: Times Academic Press. (Call no.: RSING 305.42095957 SIN)
+[^7]:Wong, K., & Leong, W.K. (Eds.). (1993). *[Singapore women: Three decades of change](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6442564)* (p. 89) Singapore: Times Academic Press. (Call no.: RSING 305.42095957 SIN)
 
-[^8]:Kho, 2013, pp. 58–59.
+[^8]:[Kho](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200148758), 2013, pp. 58–59.
 
-[^9]:Ministry of Culture. (1970, April 27). Speech by Minister for Education, Mr Ong Pang Boon, at the opening of the home economics exhibition – Victoria Memorial Hall on 27th April, 1970 at 5.15 p.m. (p. 1). Retrieved from National Archives of Singapore website.
+[^9]:Ministry of Culture. (1970, April 27). *[Speech by Minister for Education, Mr Ong Pang Boon, at the opening of the home economics exhibition – Victoria Memorial Hall on 27th April, 1970 at 5.15 p.m](http://www.nas.gov.sg/archivesonline/data/pdfdoc/PressR19700427c.pdf)*. (p. 1). Retrieved from National Archives of Singapore website.
 
-[^10]:Ministry of Culture, 30 Jun 1973, p. 2.
+[^10]:[Ministry of Culture](http://www.nas.gov.sg/archivesonline/data/pdfdoc/PressR19730630d.pdf), 30 Jun 1973, p. 2.
 
-[^11]:Kho, 2013, pp. 60–61; Ministry move to help sec 1 students. (1976, December 28). The Straits Times, p. 7. Retrieved from NewspaperSG.
+[^11]:[Kho](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200148758), 2013, pp. 60–61; [Ministry move to help sec 1 students](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19761228-1.2.37). (1976, December 28). *The Straits Times*, p. 7. Retrieved from NewspaperSG.
 
-[^12]:Ministry of Culture. (1978, May 31). Paper presented by Dr Ahmad Mattar, Minister-in-Charge of the Industrial Training Board, at the Singapore Malay Teachers’ Union’s Seminar on “New challenges in Singapore’s education system” on Wednesday, 31 May 1978, at 0930 hours, in DBS Auditorium (p. 7). Retrieved from National Archives of Singapore website; Pereira, B. (1983, October 10). Easier lessons for the slow learners. Singapore Monitor, p. 1. Retrieved from NewspaperSG.
+[^12]:Ministry of Culture. (1978, May 31). *[Paper presented by Dr Ahmad Mattar, Minister-in-Charge of the Industrial Training Board, at the Singapore Malay Teachers’ Union’s Seminar on “New challenges in Singapore’s education system” on Wednesday, 31 May 1978, at 0930 hours, in DBS Auditorium](http://www.nas.gov.sg/archivesonline/data/pdfdoc/am19780531s.pdf)* (p. 7). Retrieved from National Archives of Singapore website; Pereira, B. (1983, October 10). [Easier lessons for the slow learners](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19831010-1.2.3). *Singapore Monitor*, p. 1. Retrieved from NewspaperSG.
 
-[^13]:Boey, C. (1983, September 5). It’s not kid stuff – appreciate their art. Singapore Monitor, p. 6. Retrieved from NewspaperSG.
+[^13]:Boey, C. (1983, September 5). [It’s not kid stuff – appreciate their art](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19830905-2.2.6.9). *Singapore Monitor*, p. 6. Retrieved from NewspaperSG.
 
 [^14]:[Ministry of Culture](http://www.nas.gov.sg/archivesonline/data/pdfdoc/PressR19730630d.pdf), 30 June 1973, p. 2.
 
