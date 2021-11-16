@@ -40,7 +40,7 @@ In the introduction to his anthology <i>A Private Landscape</i> (1967) David Orm
 
 Aside from her nationality, Wong’s place in Singapore literature is made more complex by the type of poetry she writes. Most of her poems are concerned with the personal and are universal in their treatment of the subject matter. Only a handful of poems such as “<i>This Fine Day</i>” and “</i>Study of a Millionairess: Still Life</i>” contain recognisable Chinese or local references. 
 
-Despite her obscurity from the general reading public, Wong’s poems have been well-received by critics locally and abroad, receiving descriptions such as quirky, unpredictable, intense, graceful and otherworldly. Stylistically, her poems are marked by silences – a quality Wong terms as “wordlessness”, 4 which she relies on to convey the limitations of language in communication and in establishing human connection. She also adopts an intriguing elliptical structure in a number of her poems. These traits are visible in poems such as “The Shroud”, a poem on the loss of childhood innocence:
+Despite her obscurity from the general reading public, Wong’s poems have been well-received by critics locally and abroad, receiving descriptions such as quirky, unpredictable, intense, graceful and otherworldly. Stylistically, her poems are marked by silences – a quality Wong terms as “wordlessness”, [^4] which she relies on to convey the limitations of language in communication and in establishing human connection. She also adopts an intriguing elliptical structure in a number of her poems. These traits are visible in poems such as “<i>The Shroud </i>”, a poem on the loss of childhood innocence:
 
 The old school uniform <br>With the little childish delights and giggles <br>Is folded and locked up in the top drawer <br>Forever.
 
@@ -99,7 +99,7 @@ Where the kelong cuts across the sea <br>Like a wooden-handled kris <br>There is
 <img src="/images/vol-10-issue-1/womenpoets/rivers_to_senang.jpg">
 Margaret Leong’s works were infused with the sights and sounds of Malaya. She was an accomplished writer and educator. <i>All rights reserved, National Library Board Singapore, 2014</i>.</div>
 
-#### **Geraldine Heng**
+#### **Geraldine Heng (1954–)**
 
 Geraldine Heng’s <i>Whitedreams</i> (1976) lays claim as the first book of poetry in English written by a Singapore woman that is published in Singapore. The collection contains 30 poems on various subjects, with a number that focus on the experiences of a woman: her moods, feelings and relationships. Reflecting her feminist leanings, Heng also led the compilation of the first anthology of writing by Singapore women, <i>The Sun in Her Eyes: Stories</i> (1976).
 
@@ -116,7 +116,7 @@ we were a crooked line of giggling children untidy-happy <br>delight burning on 
 <img src="/images/vol-10-issue-1/womenpoets/geraldine_heng.jpg">
 Geraldine Heng is an associate professor at the University of Texas, Austin. Her work has earned her six research fellowships to date. <i>Courtesy of Geraldine Heng.</i></div>
 
-#### **Nalla Tan and Rosaly Puthucheary**
+#### **Nalla Tan (1923–2012) and Rosaly Puthucheary (1936–)**
 
 Nalla Tan and Rosaly Puthucheary were two prolific women writers in the 1970s. Though their works have not achieved critical standing, they are mentioned in this article for their contributions to the production of women writing.
 
@@ -149,7 +149,9 @@ I will not be your door-mat <br>a piece of convenience <br>waiting at the door, 
 <img src="/images/vol-10-issue-1/womenpoets/sampling_of_Rosaly_Puthucheary.jpg">
 These books are a sampling of Rosaly Puthucheary’s poetry. She has also written two novels to date. <i>All rights reserved, National Library Board Singapore, 2014.</i></div>
 
-Angeline Yap is the youngest poet featured in this article. She began writing as a child and contributed many poems during the 1970s and 1980s to periodicals such as <i>Saya, Focus and Singa</i>. Nurtured by the late Marie Bong who taught her to write not with her head but her heart, Yap won many prizes in writing competitions organised by the Ministry of Culture, NUS Literary Society and the National Book Development Council. Marie Bong was the former headmistress of CHIJ Katong and long-time editor of the student literary magazine Saya. Yap’s poems were republished in 1986 under the title <i>Collected Poems</i>, and have appeared in contemporary anthologies such as <i>The Poetry of Singapore</i> (1985) and <i>Journeys: Words, Home and Nation</i> (1995). Yap is also a mentor with the National Arts Council’s Mentor Access Project and released her second book of poems <i>Closing My Eyes to Listen</i> in 2011. Her latest outing sees a shift in direction towards spiritual contemplation, much like Lee Tzu Pheng’s more recent works. The following poem written in “almost colloquial”[^11] language is the first of two poems titled <i>“Song of a Singaporean”</i>.
+#### **Angeline Yap (1959–)**
+
+Angeline Yap is the youngest poet featured in this article. She began writing as a child and contributed many poems during the 1970s and 1980s to periodicals such as <i>Saya, Focus</i> and <i>Singa</i>. Nurtured by the late Marie Bong who taught her to write not with her head but her heart, Yap won many prizes in writing competitions organised by the Ministry of Culture, NUS Literary Society and the National Book Development Council. Marie Bong was the former headmistress of CHIJ Katong and long-time editor of the student literary magazine <i>Saya</i>. Yap’s poems were republished in 1986 under the title <i>Collected Poems</i>, and have appeared in contemporary anthologies such as <i>The Poetry of Singapore</i> (1985) and <i>Journeys: Words, Home and Nation</i> (1995). Yap is also a mentor with the National Arts Council’s Mentor Access Project and released her second book of poems <i>Closing My Eyes to Listen</i> in 2011. Her latest outing sees a shift in direction towards spiritual contemplation, much like Lee Tzu Pheng’s more recent works. The following poem written in “almost colloquial”[^11] language is the first of two poems titled <i>“Song of a Singaporean”</i>.
 
 Yap’s poem, <i>“Colours”</i>, was also featured in the exhibition <i>“Calligraphy in Collaboration with Poets and Artists”</i> with American calligrapher, Thomas Ingmire, in 2013.
 
@@ -165,7 +167,7 @@ Yap’s poem, <i>“Colours”</i>, was also featured in the exhibition <i>“Ca
 <img src="/images/vol-10-issue-1/womenpoets/collected_poem.jpg">
 <i>Collected Poems</i> by Angeline Yap was published in 1986. <i>All rights reserved, National Library Board Singapore, 2014.</i></div>
 
-<p style="font-size:15px;"><b>Gracie Lee</b> is a Senior Librarian with the National Library. She was involved in the curation of the Singapore Literary Pioneers Gallery and in the compilation of Singapore Literature in English: An Annotated Bibliography (2008).</p>
+<p style="font-size:15px;"><b>Gracie Lee</b> is a Senior Librarian with the National Library. She was involved in the curation of the Singapore Literary Pioneers Gallery and in the compilation of <i>Singapore Literature in English: An Annotated Bibliography (2008)</i>.</p>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-10/issue-1/apr-jun-2014/"><center>Back to Issue</center></a>
 
@@ -175,13 +177,13 @@ Yap’s poem, <i>“Colours”</i>, was also featured in the exhibition <i>“Ca
 
 Hedwig, A. (1999). *[Under the apple tree: Political parodies of the 1950s](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9614045)*. Singapore: Landmark Books. (Call no.: RSING S821 ANU)
 
-Bandara, L. (1980, January 13). [Rosaly does what comes naturally and loves…](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19800113-1.2.54.1). The Straits Times, p. 11. Retrieved from NewspaperSG. 
+Bandara, L. (1980, January 13). [Rosaly does what comes naturally and loves…](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19800113-1.2.54.1). <i>The Straits Times</i>, p. 11. Retrieved from NewspaperSG. 
 
 Bong, M. (Ed.). (1979). *[Saya](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4078338)*. Singapore Educational Publications Bureau. (Call no.: RSING 828.995957 SAY)
 
 Brewster, A. (1989). *[Towards a semiotic of post-colonial discourse: University writing in Singapore and Malaysia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5505388)*. Singapore: Heinemann Asia for Centre for Advances Studies. (Call no.: RSING 808.1 BRE)
 
-[Call to form a Malayan club to foster interest in poetry](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19600813-1.2.82). (1960, August 13). <i>The Singapore Free Press</i>, p. 7. Retrieved from NewspaperSG.
+[Call to form a Malayan club to foster interest in poetry](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19600813-1.2.82). (1960, August 13). <i>Singapore Free Press</i>, p. 7. Retrieved from NewspaperSG.
 
 Chan, F. (1999). *[Silences may speak: The poetry of Lee Tzu Pheng](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9248106)* (pp. 11, 14, 38, 44–45, 52–55). Singapore: Times Books International. (Call no.: RSING 828.995957 CHA)
 
@@ -189,11 +191,11 @@ Chung, Y.C. et al. (1974). *[Five takes: Poems](https://eservice.nlb.gov.sg/item
 
 College of Liberal Arts. (n.d.). <i>Geraldine Heng</i>. Retrieved from The University of Texas at Austin website.
 
-[Dedicated poetry to son who hates it](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19561208-1.2.45). (1956, December 8). The Straits Times, p. 20. Retrieved from NewspaperSG.
+[Dedicated poetry to son who hates it](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19561208-1.2.45). (1956, December 8). <i>The Straits Times</i>, p. 20. Retrieved from NewspaperSG.
 
-Durai, J. (2012, March 28). [Pioneer sex educator Nalla Tan dies](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20120328-1.2.34.16). The Straits Times, p. 8. Retrieved from NewspaperSG.
+Durai, J. (2012, March 28). [Pioneer sex educator Nalla Tan dies](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20120328-1.2.34.16). <i>The Straits Times</i>, p. 8. Retrieved from NewspaperSG.
 
-Koh, T.A. (2002). The sun in her eyes: Writing in English by Singapore women (pp. 232–240). In Mohammad A.Quayum & P. Wicks (Eds.), *[Singaporean literature in English: A critical reader](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11732118)*. Malaysia: Universiti Putra Malaysia Press. (Call no.: RSING 820.995957 SIN)
+Koh, T.A. (2002). The sun in her eyes: Writing in English by Singapore women (pp. 232–240). In Mohammad A. Quayum & P. Wicks (Eds.), *[Singaporean literature in English: A critical reader](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11732118)*. Malaysia: Universiti Putra Malaysia Press. (Call no.: RSING 820.995957 SIN)
 
 Leong, L.G. (1995). The poetics of history: Three women’s perspectives (pp. 433–442). In E. Thumboo & K. Thiru. (Eds.), *[The writer as historical witness: Studies in Commonwealth Literature](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7504056)*. (Call no.: RSING 820.9917124 1120 WRI)
 
@@ -205,19 +207,19 @@ Liew, G. (2000). Singapore: English literature (pp. 126–135). In Abdul Hakim M
 
 Li, S.G-L. (1994). The national canon and English-language women writers from Malaysia and Singapore, 1949–1969 (pp. 158–202). In *[Writing S.E./Asia in English: Against the grain, focus on Asian English-language literature](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7082491)* (pp. 158–202). London: Skoob Books Pub. (Call no.: RSING 828.9959 Lim)
 
-[Malayan spirit in her poems](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19581223-1.2.101.1). (1958, December 23). The Straits Times, p. 26. Retrieved from NewspaperSG.
+[Malayan spirit in her poems](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19581223-1.2.101.1). (1958, December 23). <i>The Straits Times</i>, p. 26. Retrieved from NewspaperSG.
 
-[Margaret Leong – a woman with fascination](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19600531-1.2.65.2). (1960, May 31). The Straits Times, p. 6. Retrieved from NewspaperSG.
+[Margaret Leong – a woman with fascination](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19600531-1.2.65.2). (1960, May 31). <i>The Straits Times</i>, p. 6. Retrieved from NewspaperSG.
 
 Leong, M. (2011). *[The ice ball man and other peoms](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13927790)* (pp. 10–11). Singapore: Ethos Books. (Call no.: JRSING 811 LEO)
 
 Margaret Leong, 1921–2012. (2012, November 30). <i>Columbia Daily Tribune</i>. Retrieved from Columbia Daily Tribune website.
 
-Nair, C. (1976). Review of Whitedream. *[Singapore Book World](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4183457)*, 7, 21. 
+Nair, C. (1976). Review of <i>Whitedream</i>. *[Singapore Book World](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4183457)*, 7, 21. 
 
 Nor Faridah Abdul Manaf & Mohamma A. Quayum. (2003). *[Colonial to global: Malaysian women’s writing in English 1940s–1990s](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12096522)*. Kuala Lumpur: IIUM Press. (Call no.: RSEA 828.99595 NOR)
 
-Ooi, T. (1984, April 23). [Singapore artist makes a stir in London](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19840423-1.2.67.4.4). The Straits Times, p. 27. Retrieved from NewspaperSG.
+Ooi, T. (1984, April 23). [Singapore artist makes a stir in London](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19840423-1.2.67.4.4). <i>The Straits Times</i>, p. 27. Retrieved from NewspaperSG.
 
 Ormerod, D. (1967). *[A private landscape](https://eservice.nlb.gov.sg/item_holding.aspx?bid=749298)*. Kuala Lumpur, University of Malaya Library. (Call no.: RDET 828.995957 ORM)
 
