@@ -7,10 +7,6 @@ permalink: /editors-picks/places-buildings
 <img src="/images/Vol-16-issue-2/ghcafe/GHCafe.jpg" style="width:100%;">  
 <hr clear="left"> 
 
-#### <a target="_blank" href="/vol-16/issue-4/jan-mar-2021/st-andrew-cathedral" style="text-decoration: none; font-weight: bold;"> St Andrew’s Cathedral and the Mystery of Madras Chunam</a>
-<p>Was Madras chunam used inside St Andrew’s Cathedral? Maybe not, says Yeo Kang Shua, who has carefully examined the layers of plaster on its interior walls.</p> 
-<hr clear="left"> 
-
 #### <a target="_blank" href="/vol-16/issue-3/oct-dec-2020/queenstown" style="text-decoration: none; font-weight: bold;"> Looking Back at Queenstown Library’s 50 Years</a>
 <p>Paddy Jonathan Ong traces the history and development of Singapore’s first branch library since it opened its doors in 1970.</p> 
 <hr clear="left">
