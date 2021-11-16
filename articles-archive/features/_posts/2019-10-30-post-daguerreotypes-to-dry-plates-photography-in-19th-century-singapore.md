@@ -152,6 +152,9 @@ The advent of mass travel at the turn of the 19th century brought new opportunit
 
 By the early 20th century, G.R. Lambert & Co. was lauded as “the leading photographic artists of Singapore [with] a high reputation for artistic portraiture”. It had “one of the finest collections [of landscapes] in the East, comprising about three thousand subjects, relating to Siam, Singapore, Borneo, Malaya, and China”.[^30]
 
+<img src="/images/Vol-15-issue-3/daguerreotypes-to-dry-plates/Daguerreotypes16.JPG">
+<div style="background-color: white;">The Boustead Institute at the junction of Tanjong Pagar and Anson roads (left) and returning from a tiger hunt (right). <i>Images reproduced from Lambert, G.R. (1890). Fotoalbum Singapur. Singapore: G.R. Lambert. Collection of the National Library, Singapore. (Accession no.: B18975148J).</i></div>
+
 Although advances in photography made G.R. Lambert & Co. the most prolific studio, technology also came to place the tools of a photographer’s trade in the hands of laymen. The growth of amateur photography chipped away at the firm’s revenue, and perhaps as a sign of things to come, G.R. Lambert & Co. gave up its studio at 186 Orchard Road in 1902, downsizing to smaller premises at 3A Orchard Road. Koch retired in 1905, and the firm’s fortunes continued to decline in subsequent years, with its picture postcard trade disrupted by the outbreak of World War I (1914–18) in Europe. Ironically, it was the popularity of picture postcards that had cannibalised its sale of photographic prints in the first place.
 
 Unable to keep up with the times, G.R. Lambert & Co. eventually closed in 1918. It was by no means the only one to suffer as other European firms in Singapore also succumbed to the vagaries of the changing business environment.
@@ -163,9 +166,6 @@ The palm-fringed beach at Tanjong Katong by G.R. Lambert & Co, 1890s. Located in
 #### **An Incomplete Picture**
 
 The story thus far constitutes a series of snapshots, a quick survey of the milestones and key movers in the history of photography in 19th-century Singapore. It is, unsurprisingly, a narrative dominated by European photographic studios, which left documentary evidence of their presence, and whose extensive work make up some of the most valuable early visual records of the settlement.
-
-<img src="/images/Vol-15-issue-3/daguerreotypes-to-dry-plates/Daguerreotypes16.JPG">
-<div style="background-color: white;">The Boustead Institute at the junction of Tanjong Pagar and Anson roads (left) and returning from a tiger hunt (right). <i>Images reproduced from Lambert, G.R. (1890). Fotoalbum Singapur. Singapore: G.R. Lambert. Collection of the National Library, Singapore. (Accession no.: B18975148J).</i></div>
 
 As these European studios faded from the scene in the early 20th century, it paved the way for Asian players to take their place in the interwar period. To give a sense of the new situation, the census of 1921 counted 171 photographers comprising 109 Chinese, 52 “others” (Japanese, Siamese, Sinhalese, Arabs or Asiatic Jews), six Malays, three Indians and only one European.
 
