@@ -3,7 +3,6 @@ title: French Impressions
 permalink: /vol-17/issue-4/jan-mar-2022/frenchimpressions
 description: ""
 ---
-
 #### A little-known collection of French natural history drawings of Singapore and its neighbouring countries from 1818−1820 shed light on the early study of the region’s flora and fauna.
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/diard-duvaucel/DiardDuvaucel2.jpg)
@@ -63,7 +62,9 @@ Stamford Raffles collected pitcher plants when he first visited Singapore in ear
 
 
 #### **NOTES**
+<div style="background-color: white;">
 
 [^1]: Danièle Weiler, “[Stamford Raffles and the Two French Naturalists](https://biblioasia.nlb.gov.sg/vol-16/issue-2/jul-sep-2020/raffles),” *BiblioAsia* 16, no. 2 (Jul–Sep 2020).
 
 [^2]: *Figures peintes d’oiseaux [et de reptiles], envoyées de l’Inde par Duvaucel et Diard ([Painted depictions of birds [and reptiles], sent from India by Duvaucel and Diard](https://eresources.nlb.gov.sg/printheritage/detail/c908d4fd-4e4b-441d-bdab-48c9eb69d0c1.aspx)).
+	</div>
