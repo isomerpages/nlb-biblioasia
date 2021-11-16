@@ -106,12 +106,17 @@ By the time Templer left Malaya and returned to the United Kingdom in 1954, the 
 	<br><br>
 These are some of the ingenious methods that people in the New Villages used to smuggle out essentials to the insurgents:
 	<br><br>
-<li> The bicycle frame was a favourite tool for smuggling supplies. In a village near Kluang in central Johor, two soldiers who dismantled a bicycle belonging to a nine-year-old boy found rice and antibiotic pills hidden in the bicycle frame. The boy drew suspicion because he had been learning to ride a bicycle, “or pretending to, for the past week”, and was always doing so by riding beyond the security checkpoints.29
+<ul>
+<li> The bicycle frame was a favourite tool for smuggling supplies. In a village near Kluang in central Johor, two soldiers who dismantled a bicycle belonging to a nine-year-old boy found rice and antibiotic pills hidden in the bicycle frame. The boy drew suspicion because he had been learning to ride a bicycle, “or pretending to, for the past week”, and was always doing so by riding beyond the security checkpoints.29</li>
 	<br><br>
 	<img src="/images/Vol-15-issue-3/civilians-in-the-crossfire/Civilians7.JPG">The heavily guarded entrance of a New Village near Ipoh, Perak,1952. <i>Image reproduced from Yao, S. (2016). The Malayan Emergency: Essays on a Small, Distant War (p. 101). Copenhagen: Nordic Institute of Asian Studies. (Call no.: RSING 959.5104 YAO).</i>
-	In another village, an old woman walked past through the checkpoint daily, carrying two buckets of pig swill that hung from a bamboo pole balanced on her shoulders. When the suspicious police officers “put their hands daily into the filthy mess”, they found nothing.30  A month later the officers realised they had been hoodwinked when they found rice hidden in the hollow bamboo pole instead.
-Medicine and other items were concealed under raw pork as the Malay constables would not touch these receptacles.
-Night soil carriers squirrelled items out of the villages by stashing them in false bottoms of their buckets, while rubber tappers did the same by hiding rice at the bottoms of pails containing latex.
-Women pretended to be preg­nant and wore big brassieres where rice could be stashed, while men strapped bags of rice to the inside of their thighs and wore loose pants.
-Those living near the fences surrounding the New Villages often placed supplies near the fences where the communist guerrillas could easily retrieve.31 Planks were sometimes placed across the fences or holes were made in the fences so that the guerrillas could enter and leave the villages easily.
-</span>
+<li>In another village, an old woman walked past through the checkpoint daily, carrying two buckets of pig swill that hung from a bamboo pole balanced on her shoulders. When the suspicious police officers “put their hands daily into the filthy mess”, they found nothing.30  A month later the officers realised they had been hoodwinked when they found rice hidden in the hollow bamboo pole instead.
+<li>Medicine and other items were concealed under raw pork as the Malay constables would not touch these receptacles.
+<li>Night soil carriers squirrelled items out of the villages by stashing them in false bottoms of their buckets, while rubber tappers did the same by hiding rice at the bottoms of pails containing latex.
+<li>Women pretended to be preg­nant and wore big brassieres where rice could be stashed, while men strapped bags of rice to the inside of their thighs and wore loose pants.
+<li>Those living near the fences surrounding the New Villages often placed supplies near the fences where the communist guerrillas could easily retrieve.31 Planks were sometimes placed across the fences or holes were made in the fences so that the guerrillas could enter and leave the villages easily.
+</ul></span>
+
+The communists’ efforts to grow their own vegetables in the jungle also proved futile: the neat rows of vegetables were easily spotted from the air by British Royal Air Force (RAF) aircraft and bombed. After realising their mistake, the communists began planting vegetables in a haphazard manner like the Orang Asli, but the RAF still managed to find and destroy these agricultural plots.32
+
+Chin Peng, the MCP leader during the Malayan Emergency, admitted just as much in his memoir when he said that the Briggs Plan was the MCP’s Achilles heel.33 Recovered communist documents revealed that the “shortage of food in various places prevented us [the communists] from concentrating large numbers of troops and launching large-scale operations” and that “they must guard against quarrelling over the table and stealing each other’s food. People with huge appetites should be admonished and taught to develop self-restraint”.34
