@@ -162,13 +162,13 @@ On a positive note, the communists never regained their foothold in Malaya. They
 [^18]:[Bandit supplier gets ten years](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19520912-1.2.70). (1952, September 12). *Singapore Standard*, p. 5. Retrieved from NewspaperSG.
 [^19]:[*Singapore Standard*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19520912-1.2.70), 12 Sep 1952, p. 5.
 [^20]:[Terrorists kill man who said no](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19541217-1.2.61). (1954, December 17). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
-[^21]:
-[^22]:
-[^23]:
-[^24]:
-[^25]:
-[^26]:
-[^27]:
-[^28]:
-[^29]:
-[^3]:
+[^21]:[*Singapore Standard*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19520912-1.2.70), 12 Sep 1952, p. 5.
+[^22]:[Youth defies bandits](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19510620-1.2.37). (1951, June 20). *Singapore Standard*, p. 3. Retrieved from NewspaperSG.
+[^23]:[Gaoled when I told police my son gave food to bandits](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19541027-1.2.109?ST=1&AT=search&k=BOY%20food%20bandits&P=2&Display=0&filterS=0&QT=boy,food,bandits&oref=article). (1954, October 27). *The Straits Times*, p. 7. Retrieved from NewspaperSG.
+[^24]:[Barber](https://eservice.nlb.gov.sg/item_holding.aspx?bid=839401), 1971, p. 108.
+[^25]:[Barber](https://eservice.nlb.gov.sg/item_holding.aspx?bid=839401), 1971, p. 109.
+[^26]:Cloake, J. (1985). [*Templer: Tiger of Malaya: The life of Field Marshall Sir Gerald Templer*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=3795113) (p. 272). London: Harrap. (Call no.: RSING 355. 3310942 TEM.C).
+[^27]:[Cloake](http://eservice.nlb.gov.sg/item_holding.aspx?bid=3795113), 1985, p. 272.
+[^28]:[Starving reds killed in ambush](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19580701-1.2.17). (1958, July 1). *The Straits Times*, p. 2. Retrieved from NewspaperSG.
+[^29]:Barber, N. (1971). [*The war of the running dogs: How Malaya defeated the communist guerrillas, 1948–60*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=839401) (p. 110). London: Collins. (Call no.: RDLKL 959.5 BAR).
+[^3]:[Barber](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=839401), 1971, p. 110.
