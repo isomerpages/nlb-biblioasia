@@ -33,7 +33,7 @@ Shopkeepers in operational areas for instance were not allowed to store excess q
 
 To further ensure that the communist guerrillas were isolated from the main population, the predominantly Chinese villagers living in squatters in the jungle fringes were relocated to settlements called “New Villages”. These villagers were “strategically sited with an eye to defence, protected with barbed wire and guarded by a detachmentof Special Constables, until they were each able to form their own Home Guard units”.[^8]
 
-<img style="width: 500px; height: 400px;" src="/images/Vol-15-issue-3/civilians-in-the-crossfire/Civilians2.JPG">
+<img style="width: 600px; height: 400px;" src="/images/Vol-15-issue-3/civilians-in-the-crossfire/Civilians2.JPG">
 <div style="background-color: white;">An identity card issued during the Malayan Emergency (1948–60). <i>Image reproduced from Yao, S. (2016). The Malayan Emergency: Essays on a Small, Distant War (p. 57). Copenhagen: Nordic Institute of Asian Studies. (Call no.: RSING 959.5104 YAO).</i></div>
 
 Each relocation was shrouded in secrecy and the villagers were not notified beforehand. According to British military historian Edgar O’Ballance, “secrecy was essential to success, otherwise the squatters would have disappeared into the jungle in mass flight”.[^9] The operation usually began before dawn, with troops and police surrounding the squatter area. The villagers were then moved en masse, along with their belongings and livestock, using one truck per family to the New Villages scattered throughout Malaya.[^10]
@@ -50,7 +50,7 @@ There were also reported cases of crimes committed by the security forces agains
 
 The forced resettlement in the New Villages also led to a sense of social dislocation among its inhabitants. Livelihoods were disrupted, and many lost lucrative sources of income and had to find alternative means of survival. In some cases, people who were separated from their families and loved ones suffered from anxiety, despair and hopelessness.
 
-<img style="width: 550px; height: 400px;" src="/images/Vol-15-issue-3/civilians-in-the-crossfire/Civilians3.JPG">
+<img style="width: 650px; height: 400px;" src="/images/Vol-15-issue-3/civilians-in-the-crossfire/Civilians3.JPG">
 <div style="background-color: white;">Aerial view of a newly completed village where squatters would be resettled. <i>Copyright Imperial War Museum (K13796).</i></div>
 
 #### **Punishment for Abetting the Communists**
@@ -120,7 +120,7 @@ The communists’ efforts to grow their own vegetables in the jungle also proved
 
 Chin Peng, the MCP leader during the Malayan Emergency, admitted just as much in his memoir when he said that the Briggs Plan was the MCP’s Achilles heel.[^33] Recovered communist documents revealed that the “shortage of food in various places prevented us [the communists] from concentrating large numbers of troops and launching large-scale operations” and that “they must guard against quarrelling over the table and stealing each other’s food. People with huge appetites should be admonished and taught to develop self-restraint”.[^34]
 
-<img style="width: 500px; height: 400px;" src="/images/Vol-15-issue-3/civilians-in-the-crossfire/Civilians8.JPG">
+<img style="width: 550px; height: 400px;" src="/images/Vol-15-issue-3/civilians-in-the-crossfire/Civilians8.JPG">
 <div style="background-color: white;">A communist insurgent being led out of the jungle with his hands tied behind his back. <i>Image reproduced from Barber, N. (1971). The War of the Running Dogs. London: Collins. (Call no.: RSING 959.5106 BAR).</i></div>
 
 Even the restriction to beverages such as coffee affected some: a note written by a communist insurgent lamented that he had not drunk coffee for over two months, and when he finally had the good fortune to find some, there was not enough sugar to sweeten the treat.
