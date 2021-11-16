@@ -21,3 +21,7 @@ third_nav_title: Places and Buildings
 #### <a target="_blank" href="/vol-14/issue-3/oct-dec-2018/honour-of-war-heroes/" style="text-decoration: none; font-weight: bold;"> In Honour of War Heroes: The Legacy of Colin St Clair Oakes</a>
 <p>Who was the architect behind Singapore’s Kranji War Cemetery and other similar memorials in South and Southeast Asia? Athanasios Tsakonas has the story.</p> 
 <hr>
+
+#### <a target="_blank" href="/vol-17/issue-3/oct-dec-2021/ubinsgermangirlshrine" style="text-decoration: none; font-weight: bold;"> Unravelling the Mystery of Ubin's German Girl Shrine</a>
+<p>What is the truth behind the German girl shrine on Pulau Ubin? William L. Gibson investigates the history of Pulau Ubin to uncover the origin of the tale.</p> 
+<hr>
