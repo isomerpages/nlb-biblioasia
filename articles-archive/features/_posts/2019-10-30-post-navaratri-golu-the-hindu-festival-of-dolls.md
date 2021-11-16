@@ -85,15 +85,28 @@ Mrs Vijayam Balakrishna Sharma, a renowned Carnatic musician who has celebrated 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
 	<b>Temple Festivities During Navaratri</b>
 	<br><br>
-Navaratri is one of many festivals observed at Hindu temples in Singapore. Devotees visit temples to get the darshan (blessed vision) of Goddess Shakti and participate in special prayers. Many temples – including Sri Mariamman, Sri Veeramakaliamman, Sri Vadapathrakaliamman, Sri Vairavimada Kaliamman, Sri Thendayuthapani and Sri Senpaga Vinayagar – put up a Golu display, albeit on a much larger and grander scale compared with those found in homes.
+Navaratri is one of many festivals observed at Hindu temples in Singapore. Devotees visit temples to get the <i>darshan</i> (blessed vision) of Goddess Shakti and participate in special prayers. Many temples – including Sri Mariamman, Sri Veeramakaliamman, Sri Vadapathrakaliamman, Sri Vairavimada Kaliamman, Sri Thendayuthapani and Sri Senpaga Vinayagar – put up a Golu display, albeit on a much larger and grander scale compared with those found in homes.
 <br><br>
 Music and dance programmes held in the evenings are also an integral component of the temple festivities. Temples organise classical dance performances as well as vocal and instrumental devotional music recitals to honour the deities.
 <br><br>
 	<b>References</b>
 <br><br>
-Mangala. (1981, October 16). Navarathri. The Straits Times, p. 4. Retrieved from NewspaperSG.
+Mangala. (1981, October 16). [Navarathri](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19811016-1.2.143.2.5). <i>The Straits Times</i>, p. 4. Retrieved from NewspaperSG.
 <br><br>
-Nair, P. (1997, October 3). Nine nights of excitement honour the Goddess Devi. The Straits Times, p. 17. Retrieved from NewspaperSG.
+Nair, P. (1997, October 3). [Nine nights of excitement honour the Goddess Devi](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19971003-1.2.113.17.8). <i>The Straits Times</i>, p. 17. Retrieved from NewspaperSG.
 <br><br>
-Raman, A.P., & Krishnan, S.V. (1983, October 7). Festival in honour of Goddess-Shakti. The Straits Times, p. 4. Retrieved from NewspaperSG.
+Raman, A.P., & Krishnan, S.V. (1983, October 7). [Festival in honour of Goddess-Shakti](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19831007-1.2.170.7.1.2). <i>The Straits Times</i>, p. 4. Retrieved from NewspaperSG.
 </span>
+
+It is believed that once you have begun the tradition of celebrating Golu, you cannot arbitrarily stop celebrating it. Unless there is an event such as a death in the family, the display must continue every year uninterrupted. Even then, the tradition cannot come to a complete stop, but takes place on a smaller scale, perhaps with just a few dolls and only a single step.31
+
+<img src="/images/Vol-15-issue-3/navaratri-golu/Navaratri7.JPG">
+<div style="background-color: white;">Relatives and friends of Usha Mohan viewing the Golu display in her home and singing devotional songs, 2019. <i>Courtesy of Usha Mohan.</i></div>
+
+Keeping the Tradition Alive
+
+Mrs Lalitha Vaidyanathan and my mother, Mrs Komalavalee Soundararajan, who was interviewed by the National Archives in 1991, believe that the doll display, daily prayers and gathering of people usher a divine presence into the home and bring with them a sense of fulfilment and happiness. Having practised the tradition for decades in Singapore, they hope to see women of the younger generation celebrate this festival in their own homes.32
+
+Darshna Mahadevan, who is in her late 20s, has been putting up a Golu display in her home since she married two years ago. She is determined to continue the tradition started by her mother and grandmother, and wishes that more young people would celebrate Golu in Singapore.33
+
+Golu not only showcases the rich culture and customs of Hindus, but it is also a way for young people to be introduced to the various deities and their significance in Hinduism.34 Navaratri is also an occasion to seek divine blessings and spiritual fulfilment. On a social level, Golu provides the chance to meet and engage in community fellowship, offering an opportunity for everyone to discover more about Hindu mythology and religious practices.35
