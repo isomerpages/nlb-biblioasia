@@ -177,4 +177,4 @@ On a positive note, the communists never regained their foothold in Malaya. They
 [^33]:Chin, P. (2003). [*My side of history*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=12106841) (p. 270). Singapore: Media Masters. (Call no.: RSING 959.5104092 CHI).
 [^34]:[Food: Reds squeal](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19530701-1.2.2). (1953, July 1). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
 [^35]:*New Straits Times*, 1 Aug 1998, p. 7.
-[^36]:Hassan Kalimullah. (1989, December 1). [CPM to destroy all arms and ammunition in 7-point pact](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19891201-1.2.29.6). The Straits Times, p. 23. Retrieved from NewspaperSG.
+[^36]:Hassan Kalimullah. (1989, December 1). [CPM to destroy all arms and ammunition in 7-point pact](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19891201-1.2.29.6). *The Straits Times*, p. 23. Retrieved from NewspaperSG.
