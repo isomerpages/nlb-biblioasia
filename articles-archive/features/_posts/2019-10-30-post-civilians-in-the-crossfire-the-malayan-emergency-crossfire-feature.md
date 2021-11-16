@@ -106,7 +106,6 @@ By the time Templer left Malaya and returned to the United Kingdom in 1954, the 
 	<br><br>
 These are some of the ingenious methods that people in the New Villages used to smuggle out essentials to the insurgents:
 	<br><br>
-<ul>
 <li> The bicycle frame was a favourite tool for smuggling supplies. In a village near Kluang in central Johor, two soldiers who dismantled a bicycle belonging to a nine-year-old boy found rice and antibiotic pills hidden in the bicycle frame. The boy drew suspicion because he had been learning to ride a bicycle, “or pretending to, for the past week”, and was always doing so by riding beyond the security checkpoints.29</li>
 	<br><br>
 	<img src="/images/Vol-15-issue-3/civilians-in-the-crossfire/Civilians7.JPG">The heavily guarded entrance of a New Village near Ipoh, Perak,1952. <i>Image reproduced from Yao, S. (2016). The Malayan Emergency: Essays on a Small, Distant War (p. 101). Copenhagen: Nordic Institute of Asian Studies. (Call no.: RSING 959.5104 YAO).</i>
@@ -114,8 +113,8 @@ These are some of the ingenious methods that people in the New Villages used to 
 <li>Medicine and other items were concealed under raw pork as the Malay constables would not touch these receptacles.
 <li>Night soil carriers squirrelled items out of the villages by stashing them in false bottoms of their buckets, while rubber tappers did the same by hiding rice at the bottoms of pails containing latex.
 <li>Women pretended to be pregnant and wore big brassieres where rice could be stashed, while men strapped bags of rice to the inside of their thighs and wore loose pants.
-<li>Those living near the fences surrounding the New Villages often placed supplies near the fences where the communist guerrillas could easily retrieve.31 Planks were sometimes placed across the fences or holes were made in the fences so that the guerrillas could enter and leave the villages easily.
-</ul></span>
+* Those living near the fences surrounding the New Villages often placed supplies near the fences where the communist guerrillas could easily retrieve.31 Planks were sometimes placed across the fences or holes were made in the fences so that the guerrillas could enter and leave the villages easily.
+</span>
 
 The communists’ efforts to grow their own vegetables in the jungle also proved futile: the neat rows of vegetables were easily spotted from the air by British Royal Air Force (RAF) aircraft and bombed. After realising their mistake, the communists began planting vegetables in a haphazard manner like the Orang Asli, but the RAF still managed to find and destroy these agricultural plots.32
 
