@@ -3,6 +3,7 @@ title: "Malay Seals from Singapore"
 date: 2020-04-01T00:00:00.000Z
 permalink: /vol-16/issue-1/apr-jun-2020/malay-seals
 third_nav_title: Malay Seals from Singapore
+image: /images/Vol-16-issue-1/malay-seals/malay-seals-title.jpg
 ---
 
 <style>
