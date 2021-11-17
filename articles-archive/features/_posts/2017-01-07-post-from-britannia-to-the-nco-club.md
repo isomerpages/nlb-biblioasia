@@ -2,6 +2,7 @@
 title: From Britannia to the NCO Club
 date: 2017-01-07
 permalink: /vol-12/issue-4/jan-mar-2017/britannia-nco-club
+image: /images/Vol-12-issue-4/from-britannia-to-nco-club/1-britannia-nco.jpg
 layout: post
 ---
 #### The much-loved NCO Club on Beach Road was a favourite downtown <br>R &amp; R spot for off-duty soldiers. **Francis Dorai** charts its history.
