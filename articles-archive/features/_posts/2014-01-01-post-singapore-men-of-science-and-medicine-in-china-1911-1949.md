@@ -2,6 +2,7 @@
 title: Singapore Men of Science and Medicine in China (1911–1949)
 date: 2014-01-01
 permalink: /vol-9/issue-4/jan-march-2014/sg-man-in-china
+image: /images/vol-9-issue-4/sgmanofscienceandmedicine/group_of_chinese.jpg
 layout: post
 ---
 #### **Wayne Soon** sheds light on the enduring and underrated legacy of Overseas Chinese doctors such as Lim Boon Keng and Robert Lim on China's medical institutions.
