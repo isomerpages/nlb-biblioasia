@@ -2,6 +2,7 @@
 title: "The Fruit of His Labour: David Marshall’s Old Apple Tree"
 date: 2016-07-05
 permalink: /vol-12/issue-2/jul-sep-2016/david-marshall
+image: /images/Vol-12-issue-2/david-marshall/01-davidmarshall.jpg
 layout: post
 ---
 #### Singapore’s fiery Chief Minister used to hold court under an apple tree at Empress Place. But was it really an apple tree? **Marcus Ng** separates fact from fiction.
