@@ -2,6 +2,7 @@
 title: The Theatres of Bangsawan
 date: 2020-01-21
 permalink: /vol-15/issue-4/jan-mar-2020/theatres-of-bangsw/
+image: /images/Vol-15-issue-4/theatres-of-bangsawan/small%20royal.JPG
 layout: post
 ---
 #### In the days before cinema, *bangsawan* performances entertained the masses. **Tan Chui Hua** looks at the rise and fall of *bangsawan* venues in Singapore.
