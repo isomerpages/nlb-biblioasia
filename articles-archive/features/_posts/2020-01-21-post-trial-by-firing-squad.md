@@ -2,6 +2,7 @@
 title: Trial by Firing Squad
 date: 2020-01-21
 permalink: /vol-15/issue-4/jan-mar-2020/trial-by-firing-sqd/
+image: /images/Vol-15-issue-4/trial-by-firing-squad/Trial1.JPG
 layout: post
 ---
 #### In 1915, sepoys in Singapore revolted against their British officers in a bloody rebellion. **Umej Bhatia** recreates the final moments of the mutineers as they pay the ultimate price for their actions.
