@@ -2,6 +2,7 @@
 title: Meeting with the Sea
 date: 2017-04-03
 permalink: /vol-13/issue-1/apr-jun-2017/meetingwiththesea
+image: /images/Vol-13-issue-1/meeting-with-the-sea/01_meetingsea.jpg
 layout: post
 ---
 #### **Melissa De Silva** mulls over what it is to be Eurasian in this evocative short story that takes her back to the Portuguese Settlement in Malacca.
