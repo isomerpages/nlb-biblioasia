@@ -33,7 +33,7 @@ Shopkeepers in operational areas for instance were not allowed to store excess q
 
 To further ensure that the communist guerrillas were isolated from the main population, the predominantly Chinese villagers living in squatters in the jungle fringes were relocated to settlements called “New Villages”. These villagers were “strategically sited with an eye to defence, protected with barbed wire and guarded by a detachmentof Special Constables, until they were each able to form their own Home Guard units”.[^8]
 
-<img src="/images/Vol-15-issue-3/civilians-in-the-crossfire/Civilians2.JPG">
+<img style="width: 600px; height: 400px;" src="/images/Vol-15-issue-3/civilians-in-the-crossfire/Civilians2.JPG">
 <div style="background-color: white;">An identity card issued during the Malayan Emergency (1948–60). <i>Image reproduced from Yao, S. (2016). The Malayan Emergency: Essays on a Small, Distant War (p. 57). Copenhagen: Nordic Institute of Asian Studies. (Call no.: RSING 959.5104 YAO).</i></div>
 
 Each relocation was shrouded in secrecy and the villagers were not notified beforehand. According to British military historian Edgar O’Ballance, “secrecy was essential to success, otherwise the squatters would have disappeared into the jungle in mass flight”.[^9] The operation usually began before dawn, with troops and police surrounding the squatter area. The villagers were then moved en masse, along with their belongings and livestock, using one truck per family to the New Villages scattered throughout Malaya.[^10]
@@ -50,7 +50,7 @@ There were also reported cases of crimes committed by the security forces agains
 
 The forced resettlement in the New Villages also led to a sense of social dislocation among its inhabitants. Livelihoods were disrupted, and many lost lucrative sources of income and had to find alternative means of survival. In some cases, people who were separated from their families and loved ones suffered from anxiety, despair and hopelessness.
 
-<img src="/images/Vol-15-issue-3/civilians-in-the-crossfire/Civilians3.JPG">
+<img style="width: 650px; height: 400px;" src="/images/Vol-15-issue-3/civilians-in-the-crossfire/Civilians3.JPG">
 <div style="background-color: white;">Aerial view of a newly completed village where squatters would be resettled. <i>Copyright Imperial War Museum (K13796).</i></div>
 
 #### **Punishment for Abetting the Communists**
@@ -70,7 +70,7 @@ Even harsher punishments were exercised on at least six other occasions in diffe
 * A 44-year-old rubber tapper, Wong Pan Sing, from Gombak, Selangor, was sentenced to 10 years’ jail for possessing five *gantangs* (14.7 kg) of uncooked rice, sugar, cigarettes and Chinese medicine.[^18]
 * Phang Seng, a farmer from Kelapa Sawit New Village in southern Johor, was jailed three years for being caught at the village gate without a valid permit for carrying six *tahils* (227 g) of rice on him. When apprehended, he could not give a satisfactory explanation as to why he had uncooked rice with him because he claimed “he could not speak a word of Malay”.[^19]
 
-<img src="/images/Vol-15-issue-3/civilians-in-the-crossfire/Civilians4.JPG">
+<img style="width: 500px; height: 380px;" src="/images/Vol-15-issue-3/civilians-in-the-crossfire/Civilians4.JPG">
 <div style="background-color: white;">A British propaganda poster targetting residents of the “New Villages”. The Chinese caption on the poster, “如果你喂那些马共恶狗，它是会反咬你的!”, is loosely translated as “If you feed the evil communist dogs, they will bite you in return”. <i>Image reproduced from Chen, J., & Hack, K. (Eds.). (2004). Dialogues with Chin Peng: New Light on the Malayan Communist Party (p. 216). Singapore: Singapore University Press. (Call no.: RSING 959.5104 YAO).</i></div>
 
 #### **Coercion from Communists**
@@ -108,7 +108,7 @@ These are some of the ingenious methods that people in the New Villages used to 
 	<br><br>
 – The bicycle frame was a favourite tool for smuggling supplies. In a village near Kluang in central Johor, two soldiers who dismantled a bicycle belonging to a nine-year-old boy found rice and antibiotic pills hidden in the bicycle frame. The boy drew suspicion because he had been learning to ride a bicycle, “or pretending to, for the past week”, and was always doing so by riding beyond the security checkpoints.[^29]
 	<br><br>
-	<img src="/images/Vol-15-issue-3/civilians-in-the-crossfire/Civilians7.JPG">The heavily guarded entrance of a New Village near Ipoh, Perak,1952. <i>Image reproduced from Yao, S. (2016). The Malayan Emergency: Essays on a Small, Distant War (p. 101). Copenhagen: Nordic Institute of Asian Studies. (Call no.: RSING 959.5104 YAO).</i><br><br>
+	<img style="width: 550px; height: 400px;" src="/images/Vol-15-issue-3/civilians-in-the-crossfire/Civilians7.JPG">The heavily guarded entrance of a New Village near Ipoh, Perak,1952. <i>Image reproduced from Yao, S. (2016). The Malayan Emergency: Essays on a Small, Distant War (p. 101). Copenhagen: Nordic Institute of Asian Studies. (Call no.: RSING 959.5104 YAO).</i><br><br>
 – In another village, an old woman walked past through the checkpoint daily, carrying two buckets of pig swill that hung from a bamboo pole balanced on her shoulders. When the suspicious police officers “put their hands daily into the filthy mess”, they found nothing.[^30]  A month later the officers realised they had been hoodwinked when they found rice hidden in the hollow bamboo pole instead.<br><br>
 – Medicine and other items were concealed under raw pork as the Malay constables would not touch these receptacles.<br><br>
 – Night soil carriers squirrelled items out of the villages by stashing them in false bottoms of their buckets, while rubber tappers did the same by hiding rice at the bottoms of pails containing latex.<br><br>
@@ -120,7 +120,7 @@ The communists’ efforts to grow their own vegetables in the jungle also proved
 
 Chin Peng, the MCP leader during the Malayan Emergency, admitted just as much in his memoir when he said that the Briggs Plan was the MCP’s Achilles heel.[^33] Recovered communist documents revealed that the “shortage of food in various places prevented us [the communists] from concentrating large numbers of troops and launching large-scale operations” and that “they must guard against quarrelling over the table and stealing each other’s food. People with huge appetites should be admonished and taught to develop self-restraint”.[^34]
 
-<img src="/images/Vol-15-issue-3/civilians-in-the-crossfire/Civilians8.JPG">
+<img style="width: 550px; height: 400px;" src="/images/Vol-15-issue-3/civilians-in-the-crossfire/Civilians8.JPG">
 <div style="background-color: white;">A communist insurgent being led out of the jungle with his hands tied behind his back. <i>Image reproduced from Barber, N. (1971). The War of the Running Dogs. London: Collins. (Call no.: RSING 959.5106 BAR).</i></div>
 
 Even the restriction to beverages such as coffee affected some: a note written by a communist insurgent lamented that he had not drunk coffee for over two months, and when he finally had the good fortune to find some, there was not enough sugar to sweeten the treat.
@@ -129,7 +129,7 @@ As for the civilians who suffered through it all, the psychological impact staye
 
 On a positive note, the communists never regained their foothold in Malaya. They were put on the defensive and eventually retreated to the Thai-Malaysian border. On 2 December 1989, the MCP agreed to “disband and end its struggle against the Malaysian forces” by signing a peace accord with the Malaysian and Thai governments in Hat Yai, southern Thailand.[^36]
 
-<img src="/images/Vol-15-issue-3/civilians-in-the-crossfire/Civilians9.JPG">
+<img style="width: 600px; height: 400px;" src="/images/Vol-15-issue-3/civilians-in-the-crossfire/Civilians9.JPG">
 <div style="background-color: white;">The Federation Government announcing a reward of $250,000 for “bringing in alive” or giving information leading to the capture of Chin Peng, Secretary-General of the Malayan Communist Party, the man responsible for directing the armed communist revolt in Malaya. <i>The Straits Times, 1 May 1952, p. 1.</i></div>
 
 <br>

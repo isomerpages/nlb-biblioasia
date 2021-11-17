@@ -35,115 +35,105 @@ Despite being the first Europeans to go on explorations, the Portuguese and Span
 
 The National Library’s collection of rare maps is an important source for the study of early cartography of the region, as well as the development of European mapping of Southeast Asia, a region whose early European names included East Indies, Indiae Orientalis, East Indian Islands and Further India (India Extrema). These maps are also useful for those researching early Malayan cartography as they contain some of the earliest references to Singapore and the Malay Peninsula. 
 
-|**GIACOMO GASTALDI**|
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> 
+<b>GIACOMO GASTALDI</b>
+<br><br>
+Giacomo Gastaldi (circa 1500–65) was a Venetian cartographer, astronomer and engineer who was considered one of the most important cartographers of his time. He reintroduced copper engraving for maps, hence creating more detailed maps in the process. Prior to this, maps were printed from woodcuts. His world map, printed in 1546, names the southern portion of the Malay Peninsula as "C. Cin Copula", an early, albeit, incorrect reference to Singapore as a cape.
+<img src="/images/vol-10-issue-4/raremap/gerard_re.jpg">Portrait engraving of Dutch cartographer Gerard Mercator, circa 1739. *Wikimedia Commons.*
+<br><br>
+Gastaldi’s later Southeast Asian map, <i>Terza Tavola</i>, again refers to Singapore as a cape (C. de cim capula). The Malay Peninsula is slanted towards the east, with its lower tip (Muar) separated from the mainland. The map, with no title but simply called the “third map” (or “Terza Tavola”), was printed in Giovanni Battista Ramusio’s collection of voyages and travels.[^3]
+<br><br>
+Although an improvement from previous Ptolemaic maps, Gastaldi still refers to Sumatra and Borneo by their Ptolemaic names of Taprobana and Java Menore.
+<br><br>
+<img src="/images/vol-10-issue-4/raremap/Terza_tavola.jpg">*Terza Tavola*, Giacomo Gastaldi for Giovanni Battista Ramusio (Venice, circa 1563). Note: the map is oriented with the south at the top.</span>
 
-|Giacomo Gastaldi (circa 1500–65) was a Venetian cartographer, astronomer and engineer who was considered one of the most important cartographers of his time. He reintroduced copper engraving for maps, hence creating more detailed maps in the process. Prior to this, maps were printed from woodcuts. His world map, printed in 1546, names the southern portion of the Malay Peninsula as "C. Cin Copula", an early, albeit, incorrect reference to Singapore as a cape.|
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> 
+<b>ABRAHAM ORTELIUS</b>
+<br><br>
+Abraham Ortelius (1527–98), a leading Flemish cartographer, was a map dealer and publisher. During the 1560s, he collected maps and details of their sources and commissioned new printing plates for them. His 1570 atlas, the <i>Theatrum Orbis Terrarum (Theatre of the World)</i>, was hailed as the first comprehensive, modern atlas of the world in which all the maps were of uniform size and format.[^5]
+<br><br>
+<img src="/images/vol-10-issue-4/raremap/Abraham_re.jpg">Portrait of Abraham Ortelius by Peter Paul Rubens. *Wikimedia Commons*
+<br><br>
+Ortelius' map features Southeast Asia, Japan, the Philippines and part of the west coast of America. The map also features the Indonesian Spice Islands, with accompanying text that describes the spices produced. Despite European explorations in the region, Ortelius' map contains a few inaccuracies: Sumatra and Java are depicted as being much larger than they actually are while the Philippines is featured without its northern island of Luzon. Singapore (Cincapura) is identified as a town on the promontory of the Malay Peninsula.
+<br><br>
+Below Java, at the southern end of the map, a part of Terra Australis Incognita is evident. Labelled as pars continentis Australis, its northern tip is called Beach, due to 16th-century map-makers misreading Marco Polo's description of Locach, a southern kingdom thought to be filled with gold that he wrongly located below Java. Based on early records, Beach or Locach was probably the name of a place in Cambodia. [^6]
+<br><br>
+First produced in 1570, Ortelius' atlas was reprinted in various European languages.
+<br><br>
+<img src="/images/vol-10-issue-4/raremap/Indiae_orientalis.jpg">*Indiae orientalis, insularumque adiacientium typus,* Abraham Ortelius (Antwerp, 1579)</span>
 
-|<img src="/images/vol-10-issue-4/raremap/gerard_re.jpg">Portrait engraving of Dutch cartographer Gerard Mercator, circa 1739. *Wikimedia Commons.*|
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> 
+<b>THEODORE DE BRY</b>
+<br><br>
+Theodore de Bry (1528–98) was a Flemish engraver, illustrator, printmaker and publisher who was trained as a goldsmith and engraver. De Bry created many fine engravings to illustrate travel books and published several illustrated works (originally in Latin but later translated into German, English and French) that were a useful reference for Europeans about the Americas and the new places they depicted.[^7]
+<br><br>
+<img src="/images/vol-10-issue-4/raremap/theodor_re.jpg">A portrait of Theodore de Bry. *Wikimedia Commons.*
+<br><br>
+He is famous for compiling a well-illustrated collection of voyages and travels to the East and West Indies, which were categorised into two distinct series: the <i>Grands Voyages</i>, which started in 1590 and covered America, and the <i>Petits Voyages</i>, which began in 1598 and covered Asia and Africa.[^8]
+<br><br>
+De Bry’s map is based on Willem Lodewijcksz's 1598 map. Lodewijcksz was part of the first Dutch voyage to Southeast Asia under the command of Cornelis de Houtman from 1595 to 1597. Lodewijcksz’s map charted the Southeast Asian region in detail, including the Malacca and Sunda Straits, and was one of the first maps to focus on the areas around the Malay Peninsula.[^9]
+<br><br>
+While the Malay Peninsula is called Chersonese Aurea, an old Ptolemaic name depicting it as a land of gold, Singapore is once again erroneously identified as a cape at the eastern end of the peninsula. The map also features the northern coast of Java in greater detail.
+<br><br>
+Interestingly, the map depicts a trans-peninsular waterway bisecting the Malay Peninsula at its southern tip. This river channel with the Muar River at the western end and the Pahang River at the eastern end was used as an overland trade route. Several maps from the 16th century to the second decade of the 17th century also contain this unique feature. De Bry’s map clearly marks the rivers on each side as R. Farmeso and Muar R.
+<br><br>
+Lodewijcksz's map was suppressed by Dutch merchants who did not wish to reveal the sailing routes to the lucrative ports of Southeast Asia. But it was published later in the same year by de Bry in <i>Petits Voyages</i>.[^10]
+<br><br>
+<img src="/images/vol-10-issue-4/raremap/Nova_tabula.jpg">*Nova tabula insularum Iavae, Sumatrae, Borneonis et aliarum Malaccam usque, delineata in insula Iava, ubi ad vivum designantur vada et brevia scopulique interjacentes descripta* l G.M.A.L., Theodore de Bry, after Willem Lodewijcksz (Frankfurt, 1598).</span>
 
-|Gastaldi’s later Southeast Asian map, <i>Terza Tavola</i>, again refers to Singapore as a cape (C. de cim capula). The Malay Peninsula is slanted towards the east, with its lower tip (Muar) separated from the mainland. The map, with no title but simply called the “third map” (or “Terza Tavola”), was printed in Giovanni Battista Ramusio’s collection of voyages and travels.[^3]|
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> 
+<b>SEBASTIAN MÜNSTER</b>
+<br><br>
+Sebastian Münster (1489–1552) was a German Professor of Hebrew, a famous mathematician, geographer and a leading map-maker. He is usually regarded as the most important map-maker of the 16th century. 
+<br><br>
+<img src="/images/vol-10-issue-4/raremap/sebastien_re.jpg">Portrait of Sebastian Münster by Christoph Amberger, c. 1552. *Wikimedia Commons.*
+<br><br>
+Münster was widely known for <i>Cosmographia</i>, first published in 1544, which features several woodcut maps illustrated with vignettes and fanciful creatures.[^12] He was also the first to introduce a separate map for each of the four continents – Europe, Africa, Asia and America – known then.[^13]
+<br><br>
+This map was published in Münster's 1540 <i>Geographia Universalis</i>, which was based on Ptolemy's seminal work <i>Geography</i> but also incorporated new discoveries. Here, unlike earlier maps, Asia is depicted separately from Southeast Asia and the Moluccas (Maluku) is drawn correctly at the west coast of Halmahera. Sumatra is called by both its modern name and its Ptolemaic name of Taprohana.
+<br><br>
+The shape of the Malay Peninsula is much improved, with only the city of Malaqua (Malacca) named.[^14] Until the 17th century, most maps named the southern part of the Peninsula as Malacca, an “exaggeration of the real extent of European influence and control”.[^15] Malacca was strategically located in the middle of important sea routes and the Portuguese took control of it in 1511. By the end of 1500s, Malacca had become one of the key trading ports of the world.[^16] Notably, there was no incentive to map the remaining interior of the Malay Peninsula.
+<br><br>
+<img src="/images/vol-10-issue-4/raremap/Inida_extrema.jpg">*India Extrema XIX nova tabula* by Sebastian Münster (Basle, 1540).</span>
 
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> 
+<b>SAMUEL THORNTON</b>
+<br><br>
+Samuel Thornton (fl. 1703–39) was an English hydrographer.[^17] His father, John Thornton was the official hydrographer to the British East India Company in the 17th century who collaborated with John Seller to produce the first English sea atlas, <i>The English Pilot</i>. <i>The Pilot</i> was to be produced as four parts, with <i>The Third Book</i> concentrating on "Oriental navigation". Eventually titled as <i>Oriental Navigation</i>, this book was subsequently completed by John Thornton's son (who shared the same name) in 1703.[^18]
+<br><br>
+<img src="/images/vol-10-issue-4/raremap/thornton_re.jpg">Portrait of Samuel Thornton by Karl Anton Hickel. *Collection of Bank of England*.
+<br><br>
+Samuel Thornton took over his brother’s business in 1706 and re-issued the charts under his own name. The chart below is from Samuel Thornton’s re-issue of <i>Oriental Navigation</i>, which describes the passage through the Singapore Strait clearly. The chart identifies the island of Singapore as the Old Streights of Sincapura, an indication that the name Singapore or its variant terms in early European sources were more often a reference to the sea passage rather than to the island or city.
+<br><br>
+European maps and charts of the 16th and 17th centuries tended to call Singapore by various names and depicted it either as a port, or city, an island, one of the four straits, a cape or promontory, or as the entire southern portion of the Malay Peninsula. [^19]
+<br><br>
+Thornton’s chart, oriented with north to the right, is one of the first English charts of Southeast Asia. The map, stretching from the Malacca Strait through the Singapore Strait to the Banka Strait indicates the principal sea routes as well as the soundings (sea depths) of the region.
+<br><br>
+<img src="/images/vol-10-issue-4/raremap/ye_Streights_of_Malacca_and_Sincapore.jpg">A large chart describing *ye Streights of Malacca and Sincapore*, Samuel Thornton (London, circa 1711).</span>
 
-|Although an improvement from previous Ptolemaic maps, Gastaldi still refers to Sumatra and Borneo by their Ptolemaic names of Taprobana and Java Menore.|
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> 
+<b>JACQUES NOCOLAS BELLIN</b>
+<br><br>
+Jacques Nicolas Bellin (1703–72) was a French royal hydrographer who created maps for several key publications in the 18th century, such as Prévost’s  <i>L’Histoire Générale des Voyages </i> (1747–61) and  <i>Petit Atlas Maritime (1764) </i>. His son (1745–85), who went by the same name, was an engraver based in Paris.[^20]
+<br><br>
+The Singapore Straits that connected the Indian Ocean to the South China Sea was an important trade route. What was collectively referred to as the Singapore Straits was actually four maritime arteries (namely the Old Strait, New Strait, Governor’s Strait and the Johor Strait) that were often called by various names and mistaken for one another.
+<br><br>
+One of the maps in the collection that perpetuates this confusion is Bellin’s map, which depicts the Johor Strait as the Old Strait of Singapore (Vieux Detroit de Sincapour). The Johor Strait (Selat Tubrau in Portuguese or Selat Tebrau in Malay) refers to the narrow channel between the Malay Peninsula and Singapore. It was often marked as the “Old Strait of Singapore” in late 17th and 18th century maps. Strangely, Bellin’s map shows two islands in the Johor Strait – Salat Buro and Joor. Johor Strait was also known as Salatburo or Salat Tubro.
+<br><br>
+Bellin’s map recommends the sea passage through the Singapore Strait for vessels that could sail through the Old Strait and return via the New Strait. However, Bellin’s map erroneously identifies the Old Strait as “Nouveau Detroit de Sincapour” (New Strait of Singapore) and the New Strait as “Detroit du Gouverneu” (Governor’s Strait).
+<br><br>
+Bellin's map depicts Singapore island in an unrecognisable shape and calls it "Pulo ou Isle Panjang", one of the early names used for the island. The map also features coastal profiles at its centre.
+<br><br>
+<img src="/images/vol-10-issue-4/raremap/Carte_re.jpg">*Carte réduite des détroits de Malaca, Sincapour, et du Gouverneur dressée au dépost des cartes et plans de la marine*, Jacques Nicolas Bellin (Paris, 1755).</span>
 
-|<img src="/images/vol-10-issue-4/raremap/Terza_tavola.jpg">*Terza Tavola*, Giacomo Gastaldi for Giovanni Battista Ramusio (Venice, circa 1563). Note: the map is oriented with the south at the top.|
-
-<br>
-
-|**ABRAHAM ORTELIUS**|
-
-|Abraham Ortelius (1527–98), a leading Flemish cartographer, was a map dealer and publisher. During the 1560s, he collected maps and details of their sources and commissioned new printing plates for them. His 1570 atlas, the <i>Theatrum Orbis Terrarum (Theatre of the World)</i>, was hailed as the first comprehensive, modern atlas of the world in which all the maps were of uniform size and format.[^5]|
-
-|<img src="/images/vol-10-issue-4/raremap/Abraham_re.jpg">Portrait of Abraham Ortelius by Peter Paul Rubens. *Wikimedia Commons*|
-
-|Ortelius' map features Southeast Asia, Japan, the Philippines and part of the west coast of America. The map also features the Indonesian Spice Islands, with accompanying text that describes the spices produced. Despite European explorations in the region, Ortelius' map contains a few inaccuracies: Sumatra and Java are depicted as being much larger than they actually are while the Philippines is featured without its northern island of Luzon. Singapore (Cincapura) is identified as a town on the promontory of the Malay Peninsula.|
-
-|Below Java, at the southern end of the map, a part of Terra Australis Incognita is evident. Labelled as pars continentis Australis, its northern tip is called Beach, due to 16th-century map-makers misreading Marco Polo's description of Locach, a southern kingdom thought to be filled with gold that he wrongly located below Java. Based on early records, Beach or Locach was probably the name of a place in Cambodia. [^6]|
-
-|First produced in 1570, Ortelius' atlas was reprinted in various European languages.|
-
-|<img src="/images/vol-10-issue-4/raremap/Indiae_orientalis.jpg">*Indiae orientalis, insularumque adiacientium typus,* Abraham Ortelius (Antwerp, 1579)|
-
-<br>
-
-|**THEODORE DE BRY**|
-
-|Theodore de Bry (1528–98) was a Flemish engraver, illustrator, printmaker and publisher who was trained as a goldsmith and engraver. De Bry created many fine engravings to illustrate travel books and published several illustrated works (originally in Latin but later translated into German, English and French) that were a useful reference for Europeans about the Americas and the new places they depicted.[^7]|
-
-|<img src="/images/vol-10-issue-4/raremap/theodor_re.jpg">A portrait of Theodore de Bry. *Wikimedia Commons.*|
-
-|He is famous for compiling a well-illustrated collection of voyages and travels to the East and West Indies, which were categorised into two distinct series: the <i>Grands Voyages</i>, which started in 1590 and covered America, and the <i>Petits Voyages</i>, which began in 1598 and covered Asia and Africa.[^8]|
-
-|De Bry’s map is based on Willem Lodewijcksz's 1598 map. Lodewijcksz was part of the first Dutch voyage to Southeast Asia under the command of Cornelis de Houtman from 1595 to 1597. Lodewijcksz’s map charted the Southeast Asian region in detail, including the Malacca and Sunda Straits, and was one of the first maps to focus on the areas around the Malay Peninsula.[^9]|
-
-|While the Malay Peninsula is called Chersonese Aurea, an old Ptolemaic name depicting it as a land of gold, Singapore is once again erroneously identified as a cape at the eastern end of the peninsula. The map also features the northern coast of Java in greater detail.| 
-
-|Interestingly, the map depicts a trans-peninsular waterway bisecting the Malay Peninsula at its southern tip. This river channel with the Muar River at the western end and the Pahang River at the eastern end was used as an overland trade route. Several maps from the 16th century to the second decade of the 17th century also contain this unique feature. De Bry’s map clearly marks the rivers on each side as R. Farmeso and Muar R.|
-
-|Lodewijcksz's map was suppressed by Dutch merchants who did not wish to reveal the sailing routes to the lucrative ports of Southeast Asia. But it was published later in the same year by de Bry in <i>Petits Voyages</i>.[^10]|
-
-|<img src="/images/vol-10-issue-4/raremap/Nova_tabula.jpg">*Nova tabula insularum Iavae, Sumatrae, Borneonis et aliarum Malaccam usque, delineata in insula Iava, ubi ad vivum designantur vada et brevia scopulique interjacentes descripta* l G.M.A.L., Theodore de Bry, after Willem Lodewijcksz (Frankfurt, 1598).|
-
-<br>
-
-|**SEBASTIAN MÜNSTER**|
-
-|Sebastian Münster (1489–1552) was a German Professor of Hebrew, a famous mathematician, geographer and a leading map-maker. He is usually regarded as the most important map-maker of the 16th century. 
-
-
-|<img src="/images/vol-10-issue-4/raremap/sebastien_re.jpg">Portrait of Sebastian Münster by Christoph Amberger, c. 1552. *Wikimedia Commons.*|
-
-|Münster was widely known for <i>Cosmographia</i>, first published in 1544, which features several woodcut maps illustrated with vignettes and fanciful creatures.[^12] He was also the first to introduce a separate map for each of the four continents – Europe, Africa, Asia and America – known then.[^13]|
-
-|This map was published in Münster's 1540 <i>Geographia Universalis</i>, which was based on Ptolemy's seminal work <i>Geography</i> but also incorporated new discoveries. Here, unlike earlier maps, Asia is depicted separately from Southeast Asia and the Moluccas (Maluku) is drawn correctly at the west coast of Halmahera. Sumatra is called by both its modern name and its Ptolemaic name of Taprohana.|
-
-|The shape of the Malay Peninsula is much improved, with only the city of Malaqua (Malacca) named.[^14] Until the 17th century, most maps named the southern part of the Peninsula as Malacca, an “exaggeration of the real extent of European influence and control”.[^15] Malacca was strategically located in the middle of important sea routes and the Portuguese took control of it in 1511. By the end of 1500s, Malacca had become one of the key trading ports of the world.[^16] Notably, there was no incentive to map the remaining interior of the Malay Peninsula.|
-
-
-|<img src="/images/vol-10-issue-4/raremap/Inida_extrema.jpg">*India Extrema XIX nova tabula* by Sebastian Münster (Basle, 1540).|
-
-<br>
-
-|**SAMUEL THORNTON**|
-
-|Samuel Thornton (fl. 1703–39) was an English hydrographer.[^17] His father, John Thornton was the official hydrographer to the British East India Company in the 17th century who collaborated with John Seller to produce the first English sea atlas, <i>The English Pilot</i>. <i>The Pilot</i> was to be produced as four parts, with <i>The Third Book</i> concentrating on "Oriental navigation". Eventually titled as <i>Oriental Navigation</i>, this book was subsequently completed by John Thornton's son (who shared the same name) in 1703.[^18]|
-
-
-|<img src="/images/vol-10-issue-4/raremap/thornton_re.jpg">Portrait of Samuel Thornton by Karl Anton Hickel. *Collection of Bank of England*.|
-
-|Samuel Thornton took over his brother’s business in 1706 and re-issued the charts under his own name. The chart below is from Samuel Thornton’s re-issue of <i>Oriental Navigation</i>, which describes the passage through the Singapore Strait clearly. The chart identifies the island of Singapore as the Old Streights of Sincapura, an indication that the name Singapore or its variant terms in early European sources were more often a reference to the sea passage rather than to the island or city.|
-
-|European maps and charts of the 16th and 17th centuries tended to call Singapore by various names and depicted it either as a port, or city, an island, one of the four straits, a cape or promontory, or as the entire southern portion of the Malay Peninsula. [^19]|
-
-|Thornton’s chart, oriented with north to the right, is one of the first English charts of Southeast Asia. The map, stretching from the Malacca Strait through the Singapore Strait to the Banka Strait indicates the principal sea routes as well as the soundings (sea depths) of the region.|
-
-|<img src="/images/vol-10-issue-4/raremap/ye_Streights_of_Malacca_and_Sincapore.jpg">A large chart describing *ye Streights of Malacca and Sincapore*, Samuel Thornton (London, circa 1711).|
-
-<br>
-
-|**JACQUES NOCOLAS BELLIN**|
-
-|Jacques Nicolas Bellin (1703–72) was a French royal hydrographer who created maps for several key publications in the 18th century, such as Prévost’s  <i>L’Histoire Générale des Voyages </i> (1747–61) and  <i>Petit Atlas Maritime (1764) </i>. His son (1745–85), who went by the same name, was an engraver based in Paris.[^20]|
-
-|The Singapore Straits that connected the Indian Ocean to the South China Sea was an important trade route. What was collectively referred to as the Singapore Straits was actually four maritime arteries (namely the Old Strait, New Strait, Governor’s Strait and the Johor Strait) that were often called by various names and mistaken for one another.|
-
-|One of the maps in the collection that perpetuates this confusion is Bellin’s map, which depicts the Johor Strait as the Old Strait of Singapore (Vieux Detroit de Sincapour). The Johor Strait (Selat Tubrau in Portuguese or Selat Tebrau in Malay) refers to the narrow channel between the Malay Peninsula and Singapore. It was often marked as the “Old Strait of Singapore” in late 17th and 18th century maps. Strangely, Bellin’s map shows two islands in the Johor Strait – Salat Buro and Joor. Johor Strait was also known as Salatburo or Salat Tubro.|
-
-|Bellin’s map recommends the sea passage through the Singapore Strait for vessels that could sail through the Old Strait and return via the New Strait. However, Bellin’s map erroneously identifies the Old Strait as “Nouveau Detroit de Sincapour” (New Strait of Singapore) and the New Strait as “Detroit du Gouverneu” (Governor’s Strait).|
-
-|Bellin's map depicts Singapore island in an unrecognisable shape and calls it "Pulo ou Isle Panjang", one of the early names used for the island. The map also features coastal profiles at its centre.|
-
-|<img src="/images/vol-10-issue-4/raremap/Carte_re.jpg">*Carte réduite des détroits de Malaca, Sincapour, et du Gouverneur dressée au dépost des cartes et plans de la marine*, Jacques Nicolas Bellin (Paris, 1755).|
-
-<br>
-
-|**COVENS &amp; MORTIER**|
-
-|Covens &amp; Mortier was a successful map printing and publishing firm in Amsterdam, based on the successful business started by Cornelis Mortier’s father, Pierre Mortier, in Paris in the late 17th century. The firm re-issued the maps of several European map-makers until its closure in 1866.[^23]|
-
-|This wall map shows the trade route from Siam to Batavia and then to Europe through the Sunda Straits. By the mid-17th century, the Dutch East India Company had established a trading post in Siam. This map has illustrations of ships, animals and an elaborate title cartouche that features the various natives of Asia. Maps in the 18th century, besides being a source of geographical information, were also becoming important as collectors’ items. Hence, the use of decorative features was more prominent during this time.|
-
-|<img src="/images/vol-10-issue-4/raremap/Sincapour.jpg">*L’Asie dressée sur les observations de M.rs de l’Académie Royale de Sciences &amp; de Sanson, Nolin, Du Fer, De L’Isle &amp; principalement sur la carte que monsieur N: Witsen Bourgemaistre &amp;c. &amp;c. a donneé au public &amp; sur les memoires les plus recens et mis au jour*, Johannes Covens and Cornelis Mortier (Amsterdam, circa 1730).|
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> 
+<b>COVENS &amp; MORTIER</b>
+<br><br>
+Covens &amp; Mortier was a successful map printing and publishing firm in Amsterdam, based on the successful business started by Cornelis Mortier’s father, Pierre Mortier, in Paris in the late 17th century. The firm re-issued the maps of several European map-makers until its closure in 1866.[^23]
+<br><br>
+This wall map shows the trade route from Siam to Batavia and then to Europe through the Sunda Straits. By the mid-17th century, the Dutch East India Company had established a trading post in Siam. This map has illustrations of ships, animals and an elaborate title cartouche that features the various natives of Asia. Maps in the 18th century, besides being a source of geographical information, were also becoming important as collectors’ items. Hence, the use of decorative features was more prominent during this time.
+<br><br>
+<img src="/images/vol-10-issue-4/raremap/Sincapour.jpg">*L’Asie dressée sur les observations de M.rs de l’Académie Royale de Sciences &amp; de Sanson, Nolin, Du Fer, De L’Isle &amp; principalement sur la carte que monsieur N: Witsen Bourgemaistre &amp;c. &amp;c. a donneé au public &amp; sur les memoires les plus recens et mis au jour*, Johannes Covens and Cornelis Mortier (Amsterdam, circa 1730).</span>
 
 <p style="font-size:15px;"><b>Makeswary Periasamy</b> is a Senior Librarian with the National Library of Singapore. She selects and acquires rare materials for the National Library and also overseas the map collections of the library. Makeswary has several years of experience in cataloguing, heritage collections management, reference and research, as well as in managing large-scale preservation projects.</p>
 

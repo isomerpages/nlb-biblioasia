@@ -116,7 +116,7 @@ Travelog-Travelog sebegini merupakan catatan perjalanan ilmu dan sering menjadi 
 
 Akhir kata, travelog-travelog Melayu yang pernah diterbitkan ini merupakan bahan rujukan penting dalam memperkenalkan masyarakat kepada maklumat di sesuatu tempat asing. la merupakan dokumen utama yang merakam peradaban masyarakat di kala ia dikunjungi. Maka seperti genre-genre sastera yang lain, travelog Melayu juga mempunyai sumbangannya yang tersendiri. 
  
-
+<img style="width:100px;height:100px;margin-bottom:-30px; border-radius:100%; box-shadow: 2px 3px 1px #424242;" src="/images/vol-10-issue-4/travelogmelayu/Juffri.jpg">
 <p style="font-size:15px;"><b>Juffri Supa’at</b> is a Senior Librarian with the National Library of Singapore. He has curated several exhibitions that feature the works of literary pioneers such as Masuri S.N., Muhammad Ariff Ahmad and Abdul Ghani Hamid. Juffri has compiled poetry selections by Muhammad Ariff Ahmad and Suratman Markasan, and has put together bibliographies on Singapore Malay literature and its pioneer writers.</p>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-10/issue-4/jan-mar-2015/"><center>Back to Issue</center></a>

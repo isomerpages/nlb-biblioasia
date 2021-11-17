@@ -13,7 +13,7 @@ Suratman Markasan is considered as one of Singapore’s literary pioneers. <i>Im
 
 <i>And so everyone made the assumption that the news had been barred from publication, because it was feared that such news would have a negative impact on the development of the minds of the younger generation. The truth is, there are men of all natures. So there was yet another assumption that the reporting of such news had been prevented because it would have a negative impact on the development of the nation and its people, or more specifically, on the formation of mainstream thoughts and minds."</i>
 
-<div style="text-align:right;">Suratman Markasan, *Penghulu*(2012: 243)</div>
+<div style="text-align: right"> Suratman Markasan, <i>Penghulu</i> (2012: 243)</div>
 
 Suratman Markasan was born in 1930 in Pasir Panjang, Singapore. After completing his studies at Sultan Idris Training College (SITC) in Perak (Malaysia) in 1950, he joined the teaching service and in 1968 enrolled in Nanyang University, graduating three years later with a degree in Malay and Indonesian Studies. He was appointed as Assistant Director for Malay and Tamil studies at the Ministry of Education and following that, lectured at the Institute of Education until 1995. His literary career spans from the early 1950s right up to the present. In 1989, Suratman received the SEA Write Award from the Thai monarch[^1] and in 2010, was awarded Singapore’s prestigious Cultural Medallion for Literary Arts. 
 

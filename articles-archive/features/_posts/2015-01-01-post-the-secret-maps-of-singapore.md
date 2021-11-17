@@ -8,7 +8,7 @@ layout: post
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-4/thesecretmap/combined_sm.jpg">
+<img style="width:70%" src="/images/vol-10-issue-4/thesecretmap/combined_sm.jpg">
 <i>The Secret Map of Singapore</i> (left) and <i>The Secret Food Map of Singapore</i> (right) were released in 1986 and 1987 respectively. <i>The Secret Map of Singapore. All rights reserved. Mowe, Ropion, Hunt, 2014. The Secret Food Map of Singapore. All rights reserved, Ropion, Hunt, 2014. </i>.
 </div>
 
@@ -43,19 +43,19 @@ Food outlets and good eats were already highlighted in <i>The Secret Map of Sing
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-4/thesecretmap/Details_SBR_re.jpg">
+<img style="width:70%" src="/images/vol-10-issue-4/thesecretmap/Details_SBR_re.jpg">
 Details of South Bridge Road in Chinatown as seen in <i>The Secret Map of Singapore. The Secret Map of Singapore. All right reserved. Mowe, Ropion, Hunt, 2014. </i>
 </div>
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-4/thesecretmap/Smith_Street.jpg">
+<img style="width:70%" src="/images/vol-10-issue-4/thesecretmap/Smith_Street.jpg">
 A 1983 photograph of Smith Street, which is part of the Chinatown Conservation Area. <i> From the Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009.</i>
 </div>
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-4/thesecretmap/South_Bridge_Road.jpg">
+<img style="width:70%" src="/images/vol-10-issue-4/thesecretmap/South_Bridge_Road.jpg">
 A 1983 photograph of South Bridge Road, between Mosque and Pagoda streets, with Sri Mariamman Temple and Jamae Mosque on the right. <i> From the Lee Kip Lin Collection. All right reserved. Lee Kip Lin and National Library Board, Singapore 2009.</i>
 </div>
 	
@@ -65,20 +65,20 @@ Prior to this, articles about food and places of interest in the newspapers may 
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-4/thesecretmap/elderly.jpg">
+<img style="width:70%" src="/images/vol-10-issue-4/thesecretmap/elderly.jpg">
 An elderly lady dictating her letter to a professional letter writer in Kreta Ayer, who set up his makeshift stall along a five-foot way, circa late 1970s. <i>From the Kouo Shang-Wei Collection 郭尚慰收集. All rights reserved, Family of Kouo Shang-Wei and National Library Board Singapore 2007.</i>
 </div>
 
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-4/thesecretmap/pre-war_coffee_shop.jpg">
+<img style="width:70%" src="/images/vol-10-issue-4/thesecretmap/pre-war_coffee_shop.jpg">
 Interior of a pre-war coffee shop located on New Bridge Road, taken in 1992. <i>From the Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009.</i>
 </div>
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-4/thesecretmap/traditional_Chinese_medicine_shop_re.jpg">
+<img style="width:70%" src="/images/vol-10-issue-4/thesecretmap/traditional_Chinese_medicine_shop_re.jpg">
 The interior of a traditional Chinese medicine shop located on New Bridge Road, taken in 1983. From <i>the Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009.</i>
 </div>
 
@@ -92,32 +92,32 @@ For the historian, the maps pinpoint the locations of traditional but now barely
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-4/thesecretmap/Sultan_Mosque.jpg">
+<img style="width:70%" src="/images/vol-10-issue-4/thesecretmap/Sultan_Mosque.jpg">
 1980s photograph of the Sultan Mosque located at 3 Muscat Street. <i>GP Reichelt Collection, courtesy of National Archives of Singapore.</i>
 </div>
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-4/thesecretmap/Details_kg.jpg">
+<img style="width:70%" src="/images/vol-10-issue-4/thesecretmap/Details_kg.jpg">
 Details of Kampong Glam as seen in <i>The Secret Map of Singapore. The Secret Map of Singapore, 1986. All rights reserved, Mowe, Ropion, Hunt, 2014. </i>
 </div>
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-4/thesecretmap/rattan_weaved.jpg">
+<img style="width:70%" src="/images/vol-10-issue-4/thesecretmap/rattan_weaved.jpg">
 Shop selling rattan-weaved goods at Arab Street in the 1980s. <i>GP Reichelt Collection, courtesy of National Archives of Singapore. </i>
 </div>
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-4/thesecretmap/murtabak_re.jpg">
+<img style="width:70%" src="/images/vol-10-issue-4/thesecretmap/murtabak_re.jpg">
 A man making murtatuk in the Kampong Glam area in 1991. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore. </i>
 </div>
 
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #FDF5E6">
 <i>Only</i> The Secret Map of Singapore <i>is available in the National Library collection.</i></div> 
 
-
+<img style="width:100px;height:100px;margin-bottom:-30px; border-radius:100%; box-shadow: 1px 2px 0px #424242;" src="/images/vol-11-issue-1/earlysgcinema/Bonny.jpg">
 <p style="font-size:15px;"><b>Bonny Tan</b> is a Senior Reference Librarian at the National Library of Singapore. Her interest in the obscure things about Singapore led her to re-examine two little known maps and found herself surprised by their contents.</p>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-10/issue-4/jan-mar-2015/"><center>Back to Issue</center></a>

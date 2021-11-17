@@ -3,8 +3,10 @@ title: "French Impressions: 19th Century Natural History Drawings of Singapore
   and Southeast Asia"
 permalink: /vol-17/issue-4/jan-mar-2022/diardduvaucel
 description: ""
-image: /images/vol-17-issue-4/diard-duvaucel/Diard-Duvaucel-FB1200-1200px.png
+image: /images/vol-17-issue-4/diard-duvaucel/turtle%20spiny%20BA%20meta%20image.jpg
 ---
+
+
 #### A little-known collection from 1818 to 1820 commissioned under the watch of two French naturalists sheds light on the early study of the region’s flora and fauna.
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/diard-duvaucel/DiardDuvaucel2.jpg)

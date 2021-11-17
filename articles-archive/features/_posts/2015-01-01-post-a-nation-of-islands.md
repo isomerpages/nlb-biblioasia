@@ -6,7 +6,7 @@ layout: post
 ---
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-4/nationofisland/StJohn_KenanganManis_CA34821.jpg">
+<img style="width:70%" src="/images/vol-10-issue-4/nationofisland/StJohn_KenanganManis_CA34821.jpg">
 Students from the St John's Island English School take a group photograph with their teacher Mr Choo Huay Kim at the same place where they had their flag-raising ceremony every morning in the early 1970s. <i>Photo by Edwin Koo.</i>
 </div>
 
@@ -24,13 +24,13 @@ Thick smoke billows out steadily from the narrow chimney of the furnace. The req
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-4/nationofisland/Seet_Seng_Huat_re.jpg">
+<img style="width:70%" src="/images/vol-10-issue-4/nationofisland/Seet_Seng_Huat_re.jpg">
 Seet Seng Huat is the current caretaker of the Da Bo Gong (Tua Pek Gong) Temple of Kusu Island. <i>Photo by Edwin Koo.</i>
 </div>
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-4/nationofisland/Mustari_and_son_re.jpg">
+<img style="width:70%" src="/images/vol-10-issue-4/nationofisland/Mustari_and_son_re.jpg">
 Mustari Dimu (centre), 92, with his son Sardon Mustari (left), 65, and Hazwari Abdul Wahid, 23, at the Da Bo Gong (Tua Pek Kong) Temple on Kusu Island. Photographed near the temple furnace, they help to burn joss paper during the peak season. <i>Photo by Edwin Koo.</i>
 </div>
 
@@ -62,7 +62,7 @@ The bond that the students shared with their teacher as well as their fondness f
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-4/nationofisland/SoccerBoys_res.jpg">
+<img style="width:70%" src="/images/vol-10-issue-4/nationofisland/SoccerBoys_res.jpg">
 The St John's Island English School football team stand in front of the building where they once studied. This team went on to win the 1972 National Schools football tournament, led by their coach and teacher Choo Huay Kim (standing, far right). <i>Photo by Edwin Koo.</i>
 </div>
 
@@ -79,37 +79,37 @@ In the course of working on this project, we realised how interconnected the liv
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-4/nationofisland/StJohn_KenanganManis_CA34685.jpg">
+<img style="width:70%" src="/images/vol-10-issue-4/nationofisland/StJohn_KenanganManis_CA34685.jpg">
 Hashim Daswan, 53, briefs his fellow former islanders during their visit to the southern islands on 9 November 2014. <i>Photo by Edwin Koo.</i>
 </div>
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-4/nationofisland/StJohn_KenanganManis_CA34961_re.jpg">
+<img style="width:70%" src="/images/vol-10-issue-4/nationofisland/StJohn_KenanganManis_CA34961_re.jpg">
 More than 70 former islanders and their family members returned to the islands of Sekijang Bendera (St John) and Sekijang Pelepah (Lazarus) for a walk down memory lane on Sunday, 9 November 2014. This photograph was taken outside a home that is now used as a chalet for the public. <i>Photo by Edwin Koo.</i>
 </div>
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-4/nationofisland/MdmBedah_Stjohn_CA34927.jpg">
+<img style="width:70%" src="/images/vol-10-issue-4/nationofisland/MdmBedah_Stjohn_CA34927.jpg">
 Mdm Bedah bte Din, 76, swims joyfully in the waters off St John Island, once known as Pulau Sekijang Bendera during the recent reunion of former islanders of that cluster. <i>Photo by Edwin Koo.</i>
 </div>
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-4/nationofisland/StJohn_CA30014.jpg">
+<img style="width:70%" src="/images/vol-10-issue-4/nationofisland/StJohn_CA30014.jpg">
 On St John's Island, Mohamed Sulih Bin Supian – born and bred on the island – and his wife Fuziyah use the space in front of their home to cook rice dumplings known as <i>ketupat</i> in preparation for Hari Raya Aidilfitri. He has special permission to live on the island. <i>Photo by Edwin Koo.</i>
 </div>
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-4/nationofisland/StJohn_CA30074.jpg">
+<img style="width:70%" src="/images/vol-10-issue-4/nationofisland/StJohn_CA30074.jpg">
 Mohamed Sulih Bin Supian uses an electric bike to get around the island. Here he and his wife make their way to the St John's Island jetty to visit their children in time for Hari Raya Aidilfitri celebrations. <i>Photo by Edwin Koo.</i>
 </div>
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-4/nationofisland/StJohn_CA34740.jpg">
+<img style="width:70%" src="/images/vol-10-issue-4/nationofisland/StJohn_CA34740.jpg">
 A man returning from his fishing trip on St John's Island. <i>Photo by Edwin Koo.</i>
 </div>
 

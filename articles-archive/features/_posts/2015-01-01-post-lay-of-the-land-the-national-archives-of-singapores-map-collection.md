@@ -145,6 +145,7 @@ An electoral division map for the 1955 Legislative Assembly general election. Th
 <b>The National Archives of Singapore Map Collection</b> can be viewed and accessed on its public database Archives Online: http://www.nas.gov.sg/archivesonline/maps_building_plans/ 
 <br><br>The National Archives of Singapore (NAS) is the official custodian of all records of national and historical significance that serve as the corporate and social memory of the Singapore government and its people. NAS holds possibly the largest collection of Singapore maps, numbering around 10,000. These are available to the public and include an extensive collection of survey and topographic maps dating from the British colonial era to modern times.</div>
 
+<img style="width:100px;height:100px;margin-bottom:-30px; border-radius:100%; box-shadow: 2px 3px 1px #424242;" src="/images/vol-10-issue-4/layoftheland/Kevin_Khoo.jpg">
 <p style="font-size:15px;"><b>Kevin Khoo</b> is an archivist at the National Archives of Singapore. His interests include cultural and social history, comparative religion, philosophy, literature and poetry, economics and archival science.</p>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-10/issue-4/jan-mar-2015/"><center>Back to Issue</center></a>

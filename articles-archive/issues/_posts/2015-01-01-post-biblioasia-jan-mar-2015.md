@@ -25,13 +25,13 @@ The National Archives of Singapore’s Map Collection</b>](/vol-10/issue-4/jan-m
 [<b>On the Trail of Francis P. Ng: Author of F.M.S.R.</b>](/vol-10/issue-4/jan-march-2015/on-the-trail)<br>In her effort to republish one of our unknown literary treasures, <i>Dr Eriko Ogihara-Schuck</i> tracks down the elusive Francis P. Ng, author of possibly the first notable work of poetry in English by a Singapore writer.
 
 
-[<b>Travelog Melayu</b>](/vol-10/issue-4/jan-march-2015/travelog-melayu)
+[<b>Travelog Melayu</b>](/vol-10/issue-4/jan-march-2015/travelog-melayu)<br>Travelogues capture a snapshot of history and culture. <i>Juffri Supa’at</i> examines popular Malay-language travelogues found in the National Library’s collections and highlights well-known accounts from the 19th century to recent times.
 
 [<b>Darwin in Cambridge &amp; Wallace in the Malay Archipelago</b>](/vol-10/issue-4/jan-march-2015/darwin-and-wallace)<br>Research is still turning up new findings about the lives and science of Charles Darwin and Alfred Russel Wallace. Among other things, <i>Dr John van Wyhe</i> addresses the misconception that Darwin cheated Wallace of his rightful place in history. 
 
-[<b>A Nation of Islands</b>](/vol-10/issue-4/jan-march-2015/nation-of-island)
+[<b>A Nation of Islands</b>](/vol-10/issue-4/jan-march-2015/nation-of-island)<br><i>Island Nation</i> is a documentary project which captures the stories of Singaporeans who once lived on the Southern Islands of Singapore.
 
-[<b>Points of Departure: Charting Memories Through Collective Imaginations</b>](/vol-10/issue-4/jan-march-2015/points-of-departure)<br>Charting Memories Through Collective Imaginations
+[<b>Points of Departure: Charting Memories Through Collective Imaginations</b>](/vol-10/issue-4/jan-march-2015/points-of-departure)<br>“Points of Departure” is an exhibition that brings together the forgotten and unfamiliar in the hope of making the past less foreign.
 
 [<b>MusicSG: 
-A Repository of Singapore’s Musical Heritage</b>](/vol-10/issue-4/jan-march-2015/musical)
+A Repository of Singapore’s Musical Heritage</b>](/vol-10/issue-4/jan-march-2015/musical)<br><i>Joy Loh</i> provides the low down on MusicSG, a digital archive set up by the National Library Board to digitize, archive and provide access to all forms of published music works in Singapore.

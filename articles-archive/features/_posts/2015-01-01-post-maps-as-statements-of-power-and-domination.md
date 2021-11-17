@@ -59,7 +59,7 @@ These maps, produced as they were in the 16th century, tell us something about t
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-10-issue-4/statementsofpoweranddomination/Sebastian Munster 1540.jpg">
-Münster 1540 map of Southeast Asia made no reference to Java, Borneo and the rest of the archipelago, and the region was referred to as Greater India. <i>Courtesy of Farish A. Noor.</i>
+Münsters 1540 map of Southeast Asia made no reference to Java, Borneo and the rest of the archipelago, and the region was referred to as Greater India. <i>Courtesy of Farish A. Noor.</i>
 </div>
 
 Maps of Asia grew more sophisticated and detailed over the next century as European explorers intensified their efforts to venture into the region – initially for the sake of trade and finding the precise route to the Spice Islands, and later for conquest. From the maps of Petrus Bertius[^5] (1661) to Nicholas de Fer[^6] (1714), we can actually see how the development of better maritime technology gave the Western explorers and merchants an edge over their Asian rivals, and how in time they were able to navigate their way across the archipelago and produce maps that grew increasinqly more accurate with each new navigation. Bertius' (1616) early map of Java, for instance, was for all intents and purposes completely useless as a tool for precise navigation but it does show us where the first European merchant-explorers first landed and made contact with the Javanese. The map points out the major trading centres along the northern coastline of Java, but offers no information whatsoever about the southern coast of the island, for the simple reason that few European ships had ever ventured there at that point.
@@ -109,6 +109,7 @@ For map collectors with an academic disposition, antiquarian map collecting is m
 
 The maps of Asia I have discussed in this essay tell us something about how the idea of "Asia" came about, and how Asia was later divided into neat compartmentalised blocs comprising "Central Asia", "South Asia", "Southeast Asia" and "East Asia". From the fluid and globalised world of Münster in the 16th century to the compartmentalised one of the 20th century, maps tell us how the world was literally and figuratively made up, invented, categorised and compartmentalised. But for us to fully appreciate these developments as they have been recorded in maps, we need to go beyond simply <i>looking</i> at them, and begin to see what is <i>written</i> in them.
 
+<img style="width:100px;height:100px;margin-bottom:-30px; border-radius:100%; box-shadow: 2px 3px 1px #424242;" src="/images/vol-10-issue-4/statementsofpoweranddomination/Farish.jpg">
 <p style="font-size:15px;"><b>Dr Farish A. Noor</b> is an Associate Professor at the S. Rajaratnam School of International Studies (RSIS), Nanyang Technological University (NTU), Singapore. He has been collecting books, maps and prints of Asia since his student days in Europe and has been researching the subject of state-formation and religio-political movements across Asia.</p>
 
 
