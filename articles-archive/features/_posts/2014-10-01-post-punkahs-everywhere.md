@@ -2,6 +2,7 @@
 title: Punkahs Everywhere
 date: 2014-10-01
 permalink: /vol-10/issue-3/oct-dec-2014/punkahs-everywhere
+image: /images/vol-10-issue-3/punkahs/Isabella_Bird.jpg
 layout: post
 ---
 #### One of the great travel writers of the 19th century, Isabella Bird was 47 when she visited Singapore. She had just spent several months exploring Japan and was about to embark on a journey through the Malay Peninsula. In between, she made a brief stop in Singapore and wrote about it in a letter to her sister in Edinburgh.
