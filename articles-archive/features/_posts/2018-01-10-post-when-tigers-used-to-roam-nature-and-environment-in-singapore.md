@@ -146,43 +146,43 @@ Singapore. National Parks Board. (2009). Conserving our biodiversity: Singapore�
 
 S’pore to become beautiful, clean city within three years. (1967, May 12). The Straits Times, p. 4. Retrieved from NewspaperSG.
 
-Smog law plea to Lee. (1970, August 1). The Singapore Herald, p. 1. Retrieved from NewspaperSG.
+[Smog law plea to Lee](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singherald19700801-1.2.12). (1970, August 1). *The Singapore Herald*, p. 1. Retrieved from NewspaperSG.
 
-S. S. forest administration. (1916, November 25). The Malaya Tribune, p. 5. Retrieved from NewspaperSG.
+[S. S. forest administration](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19161125-3.2.16). (1916, November 25). *The Malaya Tribune*, p. 5. Retrieved from NewspaperSG.
 
-Tan, A. (2015, June 28). New blueprint to conserve S’pore’s marine heritage. The Straits Times, pp. 2-3. Retrieved from NewspaperSG.
+Tan, A. (2015, June 28). [New blueprint to conserve S’pore’s marine heritage](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20150628-1.2.6.3). *The Straits Times*, pp. 2-3. Retrieved from NewspaperSG.
 
-Tan, Y.S., Lee, T.J., & Tan, K. (2009). Clean, green and blue: Singapore’ journey towards environmental and water sustainability. Singapore: ISEAS Publishing. (Call no.: RSING 363.70095957 TAN)
+Tan, Y.S., Lee, T.J., & Tan, K. (2009). *[Clean, green and blue: Singapore’ journey towards environmental and water sustainability](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13102969)*. Singapore: ISEAS Publishing. (Call no.: RSING 363.70095957 TAN)
 
-Tan, S.T.L., et al. (2011). Battle for Singapore: Fall of the impregnable fortress (p. 236). Singapore: National Archives of Singapore. (Call no.: RSING 940.5425957 TAN)
+Tan, S.T.L., et al. (2011). *[Battle for Singapore: Fall of the impregnable fortress](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14251298)* (p. 236). Singapore: National Archives of Singapore. (Call no.: RSING 940.5425957 TAN)
 
-Tortajada, C., Joshi, Y.K., & Biswas, A.K. (2013). The Singapore water story: Sustainable development in an urban city-state. New York: Routledge. (Call no.: RSING 363.61095957 TOR)
+Tortajada, C., Joshi, Y.K., & Biswas, A.K. (2013). *[The Singapore water story: Sustainable development in an urban city-state](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14716461)*. New York: Routledge. (Call no.: RSING 363.61095957 TOR)
 
-Turnbull, C. (2009). A history of modern Singapore, 1819–2005. Singapore: NUS Press. (Call no.: RCLOS 959.97 TUR)]
+Turnbull, C. (2009). *[A history of modern Singapore, 1819–2005](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200096792)*. Singapore: NUS Press. (Call no.: RCLOS 959.97 TUR)]
 
 #### **NOTES**
 
-[^1]:Yee, A.T.K., et al. (2011). The vegetation of Singapore – an updated map. Gardens’ Bulletin Singapore, 63 (1 & 2), 205–212, p. 205. Retrieved from Singapore Botanic Gardens website.
+[^1]:Yee, A.T.K., et al. (2011). The vegetation of Singapore – an updated map. *Gardens’ Bulletin Singapore, 63* (1 & 2), 205–212, p. 205. Retrieved from Singapore Botanic Gardens website.
 
-[^2]:Crawfurd, J. (1971). A descriptive dictionary of the Indian Islands and adjacent countries (pp. 395–403). Kuala Lumpur: Oxford University Press, New York. (Call no.: RCLOS 959.8 CRA)
+[^2]:Crawfurd, J. (1971). *[A descriptive dictionary of the Indian Islands and adjacent countries](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=77333)* (pp. 395–403). Kuala Lumpur: Oxford University Press, New York. (Call no.: RCLOS 959.8 CRA)
 
-[^3]:The timber trees of the Straits Settlements. (1881, April 18). Straits Times Overland Journal, p. 2. Retrieved from NewspaperSG.
+[^3]:[The timber trees of the Straits Settlements](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stoverland18810418-1.2.10). (1881, April 18). *Straits Times Overland Journal*, p. 2. Retrieved from NewspaperSG.
 
-[^4]:McNair, J.F.A. (1879, October 3). Report by the Colonial Engineer on the timber forests in the Malayan Peninsula. In Straits Settlements Government Gazette (pp. 893–903). Singapore: Mission Press. (Call no.: RRARE 959.51 SCG; Microfilm no.: NL 1008)
+[^4]:McNair, J.F.A. (1879, October 3). Report by the Colonial Engineer on the timber forests in the Malayan Peninsula. In *[Straits Settlements Government Gazette](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724)* (pp. 893–903). Singapore: Mission Press. (Call no.: RRARE 959.51 SCG; Microfilm no.: NL 1008)
 
-[^5]:Cantley, N. (1885). Report on the forests of the Straits Settlements. In Annual report on the Botanic Gardens, Singapore, for the year 1879–1890. Retrieved from Biodiversity Heritage Library website.
+[^5]:Cantley, N. (1885). Report on the forests of the Straits Settlements. In *Annual report on the Botanic Gardens, Singapore, for the year 1879–1890*. Retrieved from Biodiversity Heritage Library website.
 
-[^6]:Cantley, N. (1887, April 7). Annual report on the Forest Department, Straits Settlements, for the year 1886. In Straits Settlements Government Gazette (pp. 512–518). Singapore: Mission Press. (Call no.: RRARE 959.51 SCG; Microfilm no.: NL1017)
+[^6]:Cantley, N. (1887, April 7). Annual report on the Forest Department, Straits Settlements, for the year 1886. In *[Straits Settlements Government Gazette](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724)* (pp. 512–518). Singapore: Mission Press. (Call no.: RRARE 959.51 SCG; Microfilm no.: NL1017)
 
-[^7]:Straits Settlement. The Laws of the Straits Settlements, Vol III, 1908–1912. (1926, Rev. ed.). Forest Ordinance (1909, October 1). (No. 108, section 25, p. 24). Retrieved from the National University of Singapore website.
+[^7]:Straits Settlement. *The Laws of the Straits Settlements, Vol III, 1908–1912*. (1926, Rev. ed.). Forest Ordinance (1909, October 1). (No. 108, section 25, p. 24). Retrieved from the National University of Singapore website.
 
-[^8]:Forest reserves to go. (1937, April 26). *The Malaya Tribune*, p. 6. Retrieved from NewspaperSG.
+[^8]:[Forest reserves to go](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19370426-1.2.30). (1937, April 26). *The Malaya Tribune*, p. 6. Retrieved from NewspaperSG.
 
 [^9]:[Nature reserves for Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19510112-1.2.28). (1951, January 12). *Singapore Standard*, p. 2; [Indigenous Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19510203-1.2.92). (1951, February 3). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
 
 [^10]:Straits Settlements. (1884, June 13). *[Straits Settlements Government Gazette](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724)* (pp. 695–696). Singapore: Mission Press. (Call no.: RRARE 959.51 SCG; Microfilm no.: NL1013)
 
-[^11]:Straits Settlements. (1904, November 18). Straits Settlements Government Gazette  (pp. 2565–2567). Singapore: Mission Press. (Call no.: RRARE 959.51 SCG; Microfilm no.: NL 1054)
+[^11]:Straits Settlements. (1904, November 18). *[Straits Settlements Government Gazette](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5289724)*  (pp. 2565–2567). Singapore: Mission Press. (Call no.: RRARE 959.51 SCG; Microfilm no.: NL 1054)
 
 [^12]:[Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singchronicle18310908-1.2.7). (1831, September 8). *The Singapore Chronicle*, p. 3. Retrieved from NewspaperSG.
 
@@ -195,4 +195,3 @@ Turnbull, C. (2009). A history of modern Singapore, 1819–2005. Singapore: NUS 
 [^16]:[Rochore canal smell killed malaria – he found in 1847](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19591031-1.2.70). (1959, October 31). *The Straits Times*, p. 7. Retrieved from NewspaperSG.
 
 [^17]:[Insanitary Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18891217-1.2.60). (1889, December 17). *Straits Times Weekly Issue*, p. 12. Retrieved from NewspaperSG.
-
