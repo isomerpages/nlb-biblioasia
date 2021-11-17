@@ -2,6 +2,7 @@
 title: The Vietnam War Through Singaporean Eyes
 date: 2020-01-21
 permalink: /vol-15/issue-4/jan-mar-2020/viet-war-through-sg/
+image: /images/Vol-15-issue-4/the-vietnam-war-through-sg-eye/v.JPG
 layout: post
 ---
 #### Four journalists from Singapore covered the Vietnam War for the international news media. Only one survived. **Shirlene Noordin** has the story.
