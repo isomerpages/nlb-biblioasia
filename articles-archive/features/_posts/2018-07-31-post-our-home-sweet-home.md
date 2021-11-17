@@ -2,6 +2,7 @@
 title: Our Home Sweet Home
 date: 2018-07-31
 permalink: /vol-14/issue-2/jul-sep-2018/our-home-sweet-home/
+image: /images/Vol-14-issue-2/our-home-sweet-home/Home1.JPG
 layout: post
 ---
 #### Public housing is a Singapore success story, but the early years of high-rise living were sometimes a bittersweet experience. **Janice Loo** pores through the pages of *Our Home* magazine during its 17-year run.
