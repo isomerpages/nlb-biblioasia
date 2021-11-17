@@ -2,6 +2,7 @@
 title: Propaganda Paper
 date: 2016-01-22
 permalink: /vol-11/issue-4/jan-mar-2016/propaganda-paper
+image: /images/vol-11-issue-4/propaganda-paper/01_propagandapaper.jpg
 layout: post
 ---
 For a brief period in its history – 43 months to be exact, during World War II – Singapore was known by a different name. Between 15 February 1942 and 12 September 1945, Japanese-occupied Singapore was referred to as Syonan-to (昭南島), or “Brilliant Southern Island”, by its new masters.[^1]
