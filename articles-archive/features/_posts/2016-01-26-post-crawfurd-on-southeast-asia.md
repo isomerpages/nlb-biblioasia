@@ -2,6 +2,7 @@
 title: Crawfurd on Southeast Asia
 date: 2016-01-26
 permalink: /vol-11/issue-4/jan-mar-2016/crawfurdsoutheastasia
+image: /images/vol-11-issue-4/crawfurd-on-sea/02_crawfurd.jpg
 layout: post
 ---
 British colonial administrator John Crawfurd once wrote that the Chinese in 19th-century Southeast Asia have a “propensity to form secret societies [that] has sometimes proved inconvenient”.
