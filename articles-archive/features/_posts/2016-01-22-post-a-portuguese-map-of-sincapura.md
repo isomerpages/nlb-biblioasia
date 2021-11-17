@@ -2,6 +2,7 @@
 title: A Portuguese Map of Sincapura
 date: 2016-01-22
 permalink: /vol-11/issue-4/jan-mar-2016/portugesemapsincapura
+image: /images/vol-11-issue-4/portuguese-map-of-sincapura/01_portugesemap.jpg
 layout: post
 ---
 Originally drawn in 1604, *Discripsao chorographica dos estreitos de Sincapura e Sabbam. ano. 1604 (Chorographic Description of the Straits of Sincapura and Sabbam 1604 A.D)* is one of the earliest maps to depict pre-colonial Singapore, and more importantly, identifies recognisable names of places – Sunebodo (Sungei Bedok), Tanamena (Tanah Merah), Tanion Ru (Tanjong Rhu) and an island called Blacan Mati (Pulau Blakang Mati or Sentosa) – along its eastern coast.[^1] The map refers to the main island as Sincapura – one of several early names given to the island.
