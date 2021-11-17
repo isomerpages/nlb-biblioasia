@@ -2,6 +2,7 @@
 title: Raffles’ Letters of Intrigue
 date: 2016-01-22
 permalink: /vol-11/issue-4/jan-mar-2016/rafflesletterintrigue
+image: /images/vol-11-issue-4/raffles-letter-of-intrigue/01_rafflesletter.jpg
 layout: post
 ---
 Singapore was almost not founded by Stamford Raffles. Four letters that detail Raffles’ passionate defence to establish a British trading outpost on the island in 1819 offer insight into the objections he faced from the Dutch as well as his own British masters. Written between 1820 and 1823 to Henry Petty-Fitzmaurice, the 3rd Marquess of Lansdowne, the letters reveal the lengths that Raffles went to persuade his superiors at the British East India Company (EIC) of Singapore’s achievements and its growing importance as a regional trading hub.
