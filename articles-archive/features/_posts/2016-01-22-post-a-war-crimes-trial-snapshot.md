@@ -2,6 +2,7 @@
 title: A War Crimes Trial Snapshot
 date: 2016-01-22
 permalink: /vol-11/issue-4/jan-mar-2016/war-crimes-trial-snap
+image: /images/vol-11-issue-4/war-crimes-trial-snapshot/01_warcrimes.jpg
 layout: post
 ---
 A 1946 photograph from the opening of the War Crimes Trials held in Singapore[^1] is a grim reminder of the atrocities committed by the Japanese during the Japanese Occupation of Singapore (1942–45) – a dark period in Singapore’s history.
