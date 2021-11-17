@@ -2,6 +2,7 @@
 title: "The Jiapu Chronicles: What’s in a Name?"
 date: 2014-01-01
 permalink: /vol-9/issue-4/jan-march-2014/jiapu
+image: /images/vol-9-issue-4/jiapu/bg.jpg
 layout: post
 ---
 #### Records of family lineage were important in traditional Chinese society. **Lee Meiyu** charts the history of these documents, or jiapu, which track not only family roots but also the social norms and cultural values of China at the time.
