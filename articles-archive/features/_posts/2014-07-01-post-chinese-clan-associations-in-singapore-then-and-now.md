@@ -2,6 +2,7 @@
 title: "Chinese Clan Associations in Singapore: Then and Now"
 date: 2014-07-01
 permalink: /vol-10/issue-2/jul-sep-2014/chinese-clan-sg
+image: /images/vol-10-issue-2/chineseclan/Chinese_migrants.jpg
 layout: post
 ---
 #### Chinese clan associations in Singapore date back to the time of Stamford Raffles. **Lee Meiyu** shows us how the functions of clan associations have changed over the years according to the needs of the local Chinese community as well as changes in state policy.
