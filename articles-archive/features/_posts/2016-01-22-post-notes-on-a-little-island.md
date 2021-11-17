@@ -2,6 +2,7 @@
 title: Notes on a Little Island
 date: 2016-01-22
 permalink: /vol-11/issue-4/jan-mar-2016/notesonlittleisland
+image: /images/vol-11-issue-4/notes-on-little-island/01_littleisland.jpg
 layout: post
 ---
 Published in 1828, *Journal of an Embassy from the Governor-General of India to the Courts of Siam and Cochin China* is a record of John Crawfurd’s commercial and diplomatic mission to the courts of Siam (now Thailand) and Cochin China (present-day South Vietnam) from 1821–22. Although the book is today a classic reference text on early Thai and Vietnamese history,[^1] much can also be learnt about Singapore’s past from its pages.
