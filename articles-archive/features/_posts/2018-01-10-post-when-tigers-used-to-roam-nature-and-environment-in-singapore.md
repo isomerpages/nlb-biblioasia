@@ -60,7 +60,7 @@ In 1904, the Wild Birds Protection Ordinance was repealed and replaced by the Wi
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>TIGER HUNTS</b>
 <br><br>
-The proliferation of gambier and pepper plantations in the 1830s was linked to a rise in tiger sightings and attacks. Having lost their natural source of prey and the protection of thick forest cover, tigers ventured into the plantations and attacked workers. The earliest mention of a tiger attack in local news appeared in the 8 September 1831 edition of the Singapore Chronicle, which reported that “tigers are beginning to infest the vicinity of the town, to such a degree as to require serious attention on the part of the local authorities”.[^12]
+The proliferation of gambier and pepper plantations in the 1830s was linked to a rise in tiger sightings and attacks. Having lost their natural source of prey and the protection of thick forest cover, tigers ventured into the plantations and attacked workers. The earliest mention of a tiger attack in local news appeared in the 8 September 1831 edition of the <i>Singapore Chronicle</i>, which reported that “tigers are beginning to infest the vicinity of the town, to such a degree as to require serious attention on the part of the local authorities”.[^12]
 <br><br>
 The remains of a Chinese woodcutter, who had been missing for days, were discovered near the town centre by his friends. The tiger’s paw prints were still clearly visible around the area. Another person had been killed since the report, but in a different location.
 <br><br>
