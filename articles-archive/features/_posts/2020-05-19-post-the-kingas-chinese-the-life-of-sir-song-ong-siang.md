@@ -3,6 +3,7 @@ title: "The King’s Chinese: The Life of Sir Song Ong Siang"
 date: 2020-04-01T00:00:00.000Z
 permalink: /vol-16/issue-1/apr-jun-2020/King
 third_nav_title: "The King’s Chinese: The Life of Sir Song Ong Siang"
+image: /images/Vol-16-issue-1/King/King-title.jpg
 ---
 
 <style>
