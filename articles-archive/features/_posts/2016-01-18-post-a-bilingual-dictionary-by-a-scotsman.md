@@ -2,6 +2,7 @@
 title: A Bilingual Dictionary by a Scotsman
 date: 2016-01-18
 permalink: /vol-11/issue-4/jan-mar-2016/bilingual-dictionary
+image: /images/vol-11-issue-4/a-bilingual-dictionary/01_dictionary.jpg
 layout: post
 ---
 A dictionary written more than 150 years ago bears testimony to how Malay – the predominant language in the Straits Settlements at the time – was of interest to Europeans in the region. The fact that it was written by a Scotsman speaks volumes about the linguistic ability of the author and his abiding interest in the people and culture of the region.
