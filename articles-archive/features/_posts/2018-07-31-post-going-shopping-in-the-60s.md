@@ -2,6 +2,7 @@
 title: Going Shopping in the 60s
 date: 2018-07-31
 permalink: /vol-14/issue-2/jul-sep-2018/going-shopping-in60s/
+image: /images/Vol-14-issue-2/going-shopping-in-the-60s/Shopping1.JPG
 layout: post
 ---
 #### What was the act of shopping like for a generation that was more concerned about putting food on the table? **Yu-Mei Balasingamchow** ponders over our penchant for shopping.
