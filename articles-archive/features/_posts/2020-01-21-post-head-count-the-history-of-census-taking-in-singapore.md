@@ -2,6 +2,7 @@
 title: "Head Count: The History of Census-taking in Singapore"
 date: 2020-01-21
 permalink: /vol-15/issue-4/jan-mar-2020/head-count-history/
+image: /images/Vol-15-issue-4/history-of-census-taking-in-sg/HeadCount1.JPG
 layout: post
 ---
 #### The very first census here was conducted in 1824. **Ang Seow Leng** reveals how doing a headcount has evolved over the last 200 years.
