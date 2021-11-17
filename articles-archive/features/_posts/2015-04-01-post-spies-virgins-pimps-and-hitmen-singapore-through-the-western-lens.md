@@ -2,6 +2,7 @@
 title: "Spies, Virgins, Pimps and Hitmen:  Singapore Through the Western Lens"
 date: 2015-04-01
 permalink: /vol-11/issue-1/apr-jun-2015/svph
+image: /images/vol-11-issue-1/spiesvirginspimps/half_singapore_styleA_HP05668_L.jpg
 layout: post
 ---
 #### Western filmmakers have always had a fascination for Singapore. **Ben Slater** tells you why.
