@@ -2,6 +2,7 @@
 title: The Music, Madness and Magic of Dick Lee
 date: 2015-07-01
 permalink: /vol-11/issue-2/jul-sep-2015/dick-lee
+images: /images/vol-11-issue-2/dicklee/dicklee.jpg
 layout: post
 ---
 #### The “Mad Chinaman” was probably the first to push the boundaries of popular music in Singapore. **Joy Loh** profiles the enfant terrible of entertainment.
