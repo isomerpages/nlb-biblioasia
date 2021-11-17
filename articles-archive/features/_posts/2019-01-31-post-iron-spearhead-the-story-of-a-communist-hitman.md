@@ -2,6 +2,7 @@
 title: "Iron Spearhead: The Story of a Communist Hitman"
 date: 2019-01-31
 permalink: /vol-14/issue-4/jan-mar-2019/iron-spearhead-hitmn/
+image: /images/Vol-14-issue-4/iron-spearhead-the-story-hitmn/Iron1.JPG
 layout: post
 ---
 #### **Ronnie Tan** and **Goh Yu Mei** recount the story of a ruthless Malayan Communist Party cadre whose cold-blooded murders caused a sensation in Singapore in the 1950s.
