@@ -2,6 +2,7 @@
 title: "One Small Voice: The Monodrama in Singapore Theatre"
 date: 2016-04-04
 permalink: /vol-12/issue-1/apr-jun-2016/one-small-voice
+image: /images/Vol-12-issue-1/one-small-voice/04_onesmallvoice.jpg
 layout: post
 ---
 #### *Emily of Emerald Hill* is one of Singapore’s most iconic single-person plays. **Corrie Tan** tells you more about the history of the monodrama on the Singapore stage.
