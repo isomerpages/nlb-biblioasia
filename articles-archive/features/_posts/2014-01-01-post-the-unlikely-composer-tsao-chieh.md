@@ -2,6 +2,7 @@
 title: "The Unlikely Composer: Tsao Chieh"
 date: 2014-01-01
 permalink: /vol-9/issue-4/jan-march-2014/tsao-chieh
+image: /images/vol-9-issue-4/tsaochieh/tsaochieh.jpg
 layout: post
 ---
 #### Despite his untimely death at the age of 43, Singaporean composer Tsao Chieh’s legacy lives on — immortalised through his small but significant body of experimental works. **Jun Zubillaga-Pow** traces the life of this underrated artist.
