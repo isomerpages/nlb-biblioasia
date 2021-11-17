@@ -2,6 +2,7 @@
 title: Recipes for the Ideal Singaporean Female
 date: 2018-01-08
 permalink: /vol-13/issue-4/jan-mar-2018/ideal-sgporean-female
+image: /images/Vol-13-issue-4/ideal-singaporean-female/01_idealsgfemale.png
 layout: post
 ---
 #### From cooking, cleaning and becoming a good mother to outsourcing housework as careers for women took off. **Sheere Ng** charts how home economics lessons have evolved over the years.
