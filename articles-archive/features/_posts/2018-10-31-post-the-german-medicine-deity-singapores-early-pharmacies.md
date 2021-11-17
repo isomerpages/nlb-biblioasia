@@ -2,6 +2,7 @@
 title: "“The German Medicine Deity”: Singapore’s Early Pharmacies"
 date: 2018-10-31
 permalink: /vol-14/issue-3/oct-dec-2018/german-med-deity-sg/
+image: /images/Vol-14-issue-3/the-german-medicine-deity/Germany1.JPG
 layout: post
 ---
 #### **Timothy Pwee** charts the history of Singapore’s first Western-style pharmacies through old receipts and documents from the National Library’s Koh Seow Chuan Collection.
