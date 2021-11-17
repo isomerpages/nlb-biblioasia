@@ -2,6 +2,7 @@
 title: "Bridging History: Passageways Across Water"
 date: 2019-01-31
 permalink: /vol-14/issue-4/jan-mar-2019/bridging-history-wtr/
+image: /images/Vol-14-issue-4/bridging-history-pswy-ars-wtr/Bridging2.JPG
 layout: post
 ---
 #### **Lim Tin Seng** traces the history of nine iconic bridges spanning the Singapore River that have ties to the colonial period.
