@@ -2,6 +2,7 @@
 title: "Parades, Flags and Rallies: Celebrating Singapore’s National Day"
 date: 2014-07-01
 permalink: /vol-10/issue-2/jul-sep-2014/national-day
+image: /images/vol-10-issue-2/nationalday/National_Day_Parade.jpg
 layout: post
 ---
 #### National Day parades have been a ubiquitous part of Singapore’s National Day celebrations since Independence. **Lim Tin Seng** delves into its history, its significance and its evolution.
