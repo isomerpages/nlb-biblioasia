@@ -120,31 +120,31 @@ These moves may seem like a little too late given that Singapore has already los
 
 #### **REFERENCES**
 
-Barnard, T.P. (Ed.). (2014). Nature contained: Environmental histories of Singapore. Singapore: NUS Press. (Call no.: RSING 304.2095957 NAT)
+Barnard, T.P. (Ed.). (2014). *[Nature contained: Environmental histories of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200148897)*. Singapore: NUS Press. (Call no.: RSING 304.2095957 NAT)
 
-Barnard, T.P. (2016). Conservation and forests. In Nature’s colony: Empire, nation and environment in the Singapore Botanic Gardens. Singapore: NUS Press. (Call no.: RSING 580.735957 BAR)
+Barnard, T.P. (2016). Conservation and forests. In *[Nature’s colony: Empire, nation and environment in the Singapore Botanic Gardens](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202468295)*. Singapore: NUS Press. (Call no.: RSING 580.735957 BAR)
 
-Buckley, C.B. (1984). An anecdotal history of old times in Singapore. Singapore: Oxford University Press. (Call no.: RSING 959.57 BUC)
+Buckley, C.B. (1984). *[An anecdotal history of old times in Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082239)*. Singapore: Oxford University Press. (Call no.: RSING 959.57 BUC)
 
-Dobbs, S. (2003). The Singapore River: A social history, 1819–2002. Singapore: Singapore University Press. (Call no.: RSING 959.57 DOB-[HIS])
+Dobbs, S. (2003). *[The Singapore River: A social history, 1819–2002](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12149559)*. Singapore: Singapore University Press. (Call no.: RSING 959.57 DOB-[HIS])
 
-Fewer timber thefts at Bukit Timah reserve. (1939, July 7). The Straits Times, p. 14. Retrieved from NewspaperSG.
+[Fewer timber thefts at Bukit Timah reserve](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19390707-1.2.90). (1939, July 7). *The Straits Times*, p. 14. Retrieved from NewspaperSG.
 
-Local. (1850, March 1). The Singapore Free Press and Mercantile Advertiser, p. 2. Retrieved from NewspaperSG.
+[Local](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18500301-1.2.5). (1850, March 1). *The Singapore Free Press and Mercantile Advertiser*, p. 2. Retrieved from NewspaperSG.
 
-Prof Koh: Earth Summit was a breakthrough. (1992, June 20). The Straits Times, p. 26. Retrieved from NewspaperSG.
+[Prof Koh: Earth Summit was a breakthrough](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19920620-1.2.33.7). (1992, June 20). *The Straits Times*, p. 26. Retrieved from NewspaperSG.
 
-River pollution in Singapore. (1896, April 18). The Straits Times, p. 2. Retrieved from NewspaperSG.
+[River pollution in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18960418-1.2.8). (1896, April 18). *The Straits Times*, p. 2. Retrieved from NewspaperSG.
 
-Sharp, I., & Lum, S. (Eds.). (1996). Where tigers roamed. In A view from the summit: The story of Bukit Timah Nature Reserve. Singapore: Nanyang Technological University and the National University of Singapore. (Call no.: RSING 333.78095957 VIE)
+Sharp, I., & Lum, S. (Eds.). (1996). Where tigers roamed. In *[A view from the summit: The story of Bukit Timah Nature Reserve](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7671502)*. Singapore: Nanyang Technological University and the National University of Singapore. (Call no.: RSING 333.78095957 VIE)
 
-Singapore forests: Gradual invasion of the reserves. (1928, July 19). The Straits Times, p. 3. Retrieved from NewspaperSG.
+[Singapore forests: Gradual invasion of the reserves](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19280719-1.2.9). (1928, July 19). *The Straits Times*, p. 3. Retrieved from NewspaperSG.
 
-Singapore. Ministry of the Environment and Water Resources and Ministry of National Development. (2014). Our home, our environment, our future: Sustainable Singapore blueprint 2015. Retrieved from Ministry of the Environment and Water Resources website.
+Singapore. Ministry of the Environment and Water Resources and Ministry of National Development. (2014). *Our home, our environment, our future: Sustainable Singapore blueprint 2015*. Retrieved from Ministry of the Environment and Water Resources website.
 
-Singapore. National Parks Board. (2009). Conserving our biodiversity: Singapore’s national biodiversity strategy and action plan. Retrieved from National Parks Board website.
+Singapore. National Parks Board. (2009). *Conserving our biodiversity: Singapore’s national biodiversity strategy and action plan*. Retrieved from National Parks Board website.
 
-S’pore to become beautiful, clean city within three years. (1967, May 12). The Straits Times, p. 4. Retrieved from NewspaperSG.
+[S’pore to become beautiful, clean city within three years](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19670512-1.2.20). (1967, May 12). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
 
 [Smog law plea to Lee](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singherald19700801-1.2.12). (1970, August 1). *The Singapore Herald*, p. 1. Retrieved from NewspaperSG.
 
