@@ -2,6 +2,7 @@
 title: The Secret Maps of Singapore
 date: 2015-01-01
 permalink: /vol-10/issue-4/jan-march-2015/secretmap
+image: /images/vol-10-issue-4/thesecretmap/combined_sm.jpg
 layout: post
 ---
 #### Hidden temples and food haunts are just some of the things found in two psychedelic maps published in the 1980s. **Bonny Tan** explores the origins of these one-of-a-kind maps.
