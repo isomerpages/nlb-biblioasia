@@ -2,6 +2,7 @@
 title: Malaya Through One Man’s Eyes
 date: 2016-01-14
 permalink: /vol-11/issue-4/jan-mar-2016/malayathroughoneman
+image: /images/vol-11-issue-4/malaya-through-one-man-eyes/01_malaya.jpg
 layout: post
 ---
 In the early 1900s, there were few authoritative resources that could provide an accurate picture of Malaya’s colonial history. That changed in 1906, when the book *British Malaya* was published.
