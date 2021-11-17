@@ -2,6 +2,7 @@
 title: Singapore’s First School
 date: 2016-01-18
 permalink: /vol-11/issue-4/jan-mar-2016/singaporefirstschool
+image: /images/vol-11-issue-4/singapore-first-school/01_firstschool.jpg
 layout: post
 ---
 The founding of Raffles Institution (originally known as Singapore Institution) was fraught with difficulties and delays from the very beginning. It all started with this document – a 110-page record of a meeting held on 1 April 1823, in which Stamford Raffles laid down his plans to establish a school for Asians. First published in 1819 as On the Advantage of Affording the Means of  Education to the  Inhabitants of the Further East,[^1] the document reveals Raffles’ vision of Singapore as a hub not only in trade but also in learning. This was forward thinking at a time when even basic education was still not formally implemented in England.[^2]
