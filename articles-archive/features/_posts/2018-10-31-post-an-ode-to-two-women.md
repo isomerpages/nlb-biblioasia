@@ -2,6 +2,7 @@
 title: An Ode to Two Women
 date: 2018-10-31
 permalink: /vol-14/issue-3/oct-dec-2018/an-ode-to-two-women/
+image: /images/Vol-14-issue-3/an-ode-to-two-women/AnOde1.JPG
 layout: post
 ---
 #### Acclaimed poet and playwright **Robert Yeo** pays tribute to his daughter and a noted author in chapter two of his work-in-progress sequel to his memoir *Routes*.
