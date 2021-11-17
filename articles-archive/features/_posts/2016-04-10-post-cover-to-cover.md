@@ -2,6 +2,7 @@
 title: Cover to Cover
 date: 2016-04-10
 permalink: /vol-12/issue-1/apr-jun-2016/cover-to-cover
+image: /images/Vol-12-issue-1/cover-to-cover/01_covertocover.jpg
 layout: post
 ---
 #### **Barbara Quek** and **Zoe Yeo** highlight entertainment magazine covers of yesteryear from the collections of the National Library.
