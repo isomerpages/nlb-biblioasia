@@ -2,6 +2,7 @@
 title: Director’s Note (Jul-Sep 2015)
 date: 2015-07-01
 permalink: /vol-11/issue-2/jul-sep-2015/director-note
+image: /vol-11/issue-2/jul-sep-2015/sg-sport-great
 layout: post
 ---
 Singapore’s stellar performance at the 28th Southeast Asia (SEA) Games is proof that our athletes have the guts and gumption to push the boundaries and achieve sporting excellence. Singapore’s haul of 259 medals – 84 gold, 73 silver and 102 bronze – which put us in second place at the medal standings behind Thailand – is no mean feat for a tiny nation whose athletes had to compete against the region’s elite. Singapore delivered its best showing since the 1993 Games – when it won 164 medals – and in the process broke more than 100 SEA Games as well as many national and personal records. 
