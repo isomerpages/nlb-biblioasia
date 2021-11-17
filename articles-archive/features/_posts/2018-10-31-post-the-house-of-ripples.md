@@ -2,6 +2,7 @@
 title: The House of Ripples
 date: 2018-10-31
 permalink: /vol-14/issue-3/oct-dec-2018/the-house-of-ripples/
+image: /images/Vol-14-issue-3/the-house-of-ripples/Ripples1.JPG
 layout: post
 ---
 #### **Martina Yeo** and **Yeo Kang** Shua piece together historical details of the little-known River House in Clarke Quay and discover that it was once a den for illicit triad activity.
