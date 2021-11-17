@@ -2,6 +2,7 @@
 title: Raffles Hotel & the Romance of Travel
 date: 2014-10-01
 permalink: /vol-10/issue-3/oct-dec-2014/raffles-hotel
+image: /images/vol-10-issue-3/raffles/cover.jpg
 layout: post
 ---
 #### **Gretchen Liu** traces the history of this grand hotel, from its heyday of glitz and glamour to near ruin and its subsequent reincarnation into the heritage icon it is today.
