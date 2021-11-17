@@ -2,6 +2,7 @@
 title: Sketches of Singapore
 date: 2015-07-01
 permalink: /vol-11/issue-2/jul-sep-2015/sketches-of-singapore
+image: /images/vol-11-issue-2/sketches/fort_canning_park.jpg
 layout: post
 ---
 #### Doodlings and drawings of the cityscape by the community of artists who make up Singapore’s Urban Sketchers find expression in a new book.
