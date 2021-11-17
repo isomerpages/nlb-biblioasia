@@ -2,6 +2,7 @@
 title: The Map That Opened up Southeast Asia
 date: 2016-01-22
 permalink: /vol-11/issue-4/jan-mar-2016/mapthatopenedupseasia
+image: /images/vol-11-issue-4/map-that-opened-southeast-asia/01_mapthatopenedsea.jpg
 layout: post
 ---
 By the late 16th century, the Portuguese had dominated the trade in Southeast Asia for nearly a hundred years. Its monopoly depended on closely guarded knowledge about the best sailing routes to the region, known as the East Indies at the time.[^1]
