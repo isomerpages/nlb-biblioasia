@@ -2,6 +2,7 @@
 title: Celebrating a Centenary
 date: 2016-01-22
 permalink: /vol-11/issue-4/jan-mar-2016/celebratecentenary
+image: /images/vol-11-issue-4/celebrating-a-centenary/01_celebratingcentenary.jpg
 layout: post
 ---
 On 7 August 1918, residents in Singapore would have woken up to read an unusual notice in their morning paper: an invitation to contribute interesting stories of their island over the last 100 years. The public call, issued in *The Straits Times*,[^1] sought to gather useful and relevant information so that an official history of the civic, public and social life in Singapore since Stamford Raffles’ arrival in 1819 could be compiled.
