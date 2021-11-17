@@ -2,6 +2,7 @@
 title: Early Malay Printing in Singapore
 date: 2017-10-07
 permalink: /vol-13/issue-3/oct-dec-2017/early-malay-printing
+image: /images/Vol-13-issue-3/early-malay-printing-in-sg/01_malayprinting.png
 layout: post
 ---
 #### **Mazelan Anuar** tracks the rise and decline of Malay printing and publishing in 19th-century Singapore, and profiles two of the most prolific printers of that period.
