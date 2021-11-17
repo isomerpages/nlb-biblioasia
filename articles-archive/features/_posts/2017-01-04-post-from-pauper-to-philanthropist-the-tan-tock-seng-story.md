@@ -2,6 +2,7 @@
 title: "From Pauper to Philanthropist: The Tan Tock Seng Story"
 date: 2017-01-04
 permalink: /vol-12/issue-4/jan-mar-2017/pauper-to-philanthrop
+image: /images/Vol-12-issue-4/from-pauper-to-philanthropist/1-from_pauper_to_philanthropist.jpg
 layout: post
 ---
 #### **Sue-Ann Chia** traces the classic rags-to-riches story of a vegetable seller turned land speculator who left a hospital named after him in Singapore.
