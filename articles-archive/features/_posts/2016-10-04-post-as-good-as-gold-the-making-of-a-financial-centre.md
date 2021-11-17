@@ -2,6 +2,7 @@
 title: "As Good As Gold: The Making of a Financial Centre"
 date: 2016-10-04
 permalink: /vol-12/issue-3/oct-dec-2016/as-good-as-gold
+image: /images/Vol-12-issue-3/as-good-as-gold/10-as-good-as-gold.jpg
 layout: post
 ---
 #### Singapore’s Central Business District didn’t happen by accident. **Lim Tin Seng** recounts how a piece of prime land dubbed as “Golden Shoe” was transformed into a glittering financial hub.
