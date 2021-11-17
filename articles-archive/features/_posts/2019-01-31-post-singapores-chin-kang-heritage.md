@@ -2,6 +2,7 @@
 title: Singapore’s Chin Kang Heritage
 date: 2019-01-31
 permalink: /vol-14/issue-4/jan-mar-2019/sg-chin-kang-hertge/
+image: /images/Vol-14-issue-4/singapore-chin-kang-heritage/Heritage1.JPG
 layout: post
 ---
 #### To mark its centenary, a Chinese clan association recently donated its archives of heritage documents to the National Library. **Jessie Yak** shares highlights from the collection.
