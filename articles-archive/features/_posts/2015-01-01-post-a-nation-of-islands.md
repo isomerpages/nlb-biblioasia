@@ -2,6 +2,7 @@
 title: A Nation of Islands
 date: 2015-01-01
 permalink: /vol-10/issue-4/jan-march-2015/nation-of-island
+image: /images/vol-10-issue-4/nationofisland/StJohn_KenanganManis_CA34821.jpg
 layout: post
 ---
 <div style="background-color: white;">
