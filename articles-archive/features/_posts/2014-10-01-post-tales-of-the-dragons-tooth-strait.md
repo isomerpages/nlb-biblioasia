@@ -2,6 +2,7 @@
 title: Tales of the Dragon’s Tooth Strait
 date: 2014-10-01
 permalink: /vol-10/issue-3/oct-dec-2014/dragons-tooth-strait
+image: /images/vol-10-issue-3/tales/cover.jpg
 layout: post
 ---
 #### **Lee Meiyu** offers us a glimpse of pre-colonial Singapore as seen through the eyes of the 14th-century Chinese traveller Wang Dayuan.
