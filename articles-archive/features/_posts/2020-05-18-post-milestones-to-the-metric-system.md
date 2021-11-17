@@ -3,6 +3,7 @@ title: "Milestones to the Metric System"
 date: 2020-04-01T00:00:00.000Z
 permalink: /vol-16/issue-1/apr-jun-2020/metric
 third_nav_title: "Milestones to the Metric System"
+image: /images/Vol-16-issue-1/Metric/Metrication-title.jpg
 ---
 
 <style>
