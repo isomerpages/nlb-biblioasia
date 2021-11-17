@@ -2,6 +2,7 @@
 title: "Mohamed Eunos Abdullah: The Father of Malay Journalism"
 date: 2015-07-01
 permalink: /vol-11/issue-2/jul-sep-2015/malay-journalism
+image: /images/vol-11-issue-2/malayjournalism/Mohamed_Eunos_Abdullah.jpg
 layout: post
 ---
 #### The Eunos area in the east of Singapore is named after the pioneer, Mohamed Eunos Abdullah. **Mazelan Anuar** traces his legacy. 
