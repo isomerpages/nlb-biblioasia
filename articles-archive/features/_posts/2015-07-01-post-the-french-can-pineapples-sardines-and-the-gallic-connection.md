@@ -2,6 +2,7 @@
 title: "The French Can: Pineapples, Sardines and the Gallic Connection"
 date: 2015-07-01
 permalink: /vol-11/issue-2/jul-sep-2015/french-can
+images: /images/vol-11-issue-2/frenchcan/title.jpg
 layout: post
 ---
 #### The Ayam brand of canned sardines was the brainchild of Frenchman Alfred Clouët. **Timothy Pwee** reveals its history and that of the pineapple canning industry in Singapore.
