@@ -2,6 +2,7 @@
 title: Anglo-Dutch Political Shenanigans
 date: 2016-01-22
 permalink: /vol-11/issue-4/jan-mar-2016/anglo-dutch-political
+image: /images/vol-11-issue-4/anglo-dutch-political/01_political.jpg
 layout: post
 ---
 Among the 19 letters held in the Rare Materials Collection of the National Library is one from Stamford Raffles to his business agent and friend, John Tayler, a London-based East India merchant. Interesting, this is also the first letter by Raffles that the National Library acquired in 1987.
