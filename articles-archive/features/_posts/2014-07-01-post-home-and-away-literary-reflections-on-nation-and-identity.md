@@ -2,6 +2,7 @@
 title: "Home and Away: Literary Reflections on Nation and Identity"
 date: 2014-07-01
 permalink: /vol-10/issue-2/jul-sep-2014/home-and-away
+image: /images/vol-10-issue-2/homeandaway/bg.jpg
 layout: post
 ---
 #### **Michelle Heng** meanders through Singapore’s post-Independence literary landscape and discovers diasporic works that display a quiet strength even as they explore refreshingly dissonant views on nation and one’s identity.
