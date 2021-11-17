@@ -2,6 +2,7 @@
 title: "Collecting the Scattered Remains: The Raffles Library and Museum"
 date: 2016-04-08
 permalink: /vol-12/issue-1/apr-jun-2016/raffleslibrary-museum
+image: /images/Vol-12-issue-1/raffles-library-and-museum/06b_raffleslibrary.jpg
 layout: post
 ---
 #### **Gracie Lee** charts the history of the Raffles Library – precursor of the National Library – and its enigmatically named “Q” Collection.
