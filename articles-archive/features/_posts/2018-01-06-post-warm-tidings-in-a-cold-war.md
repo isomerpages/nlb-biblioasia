@@ -2,6 +2,7 @@
 title: Warm Tidings in a Cold War
 date: 2018-01-06
 permalink: /vol-13/issue-4/jan-mar-2018/warmtidingsincoldwar
+image: /images/Vol-13-issue-4/warm-tidings-in-a-cold-war/01_warmtiding.jpg
 layout: post
 ---
 #### Remittance letters between Singapore and China during the height of the Cold War from the 1950s–70s recount both the joy and angst of relationships across the miles. **Dong Hui Ying** delves deeper.
