@@ -2,6 +2,7 @@
 title: Alam Puisi Melayu Singapura Selepas Merdeka
 date: 2017-07-08
 permalink: /vol-13/issue-2/jul-sep-2017/alam-puisi-singapura
+image: /images/Vol-13-issue-2/alam-puisi-melayu-singapura/01_puisi.png
 layout: post
 ---
 #### Singapore’s Malay publishing scene was thrown into disarray when the country exited Malaysia in 1965. **Juffri Bin Supa’at** charts the development of Malay poetry in Singapore since Independence.
