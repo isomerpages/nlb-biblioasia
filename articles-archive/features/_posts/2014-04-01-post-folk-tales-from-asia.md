@@ -2,6 +2,7 @@
 title: Folk Tales From Asia
 date: 2014-04-01
 permalink: /vol-10/issue-1/apr-jun-2014/folk-tales
+image: /images/vol-10-issue-1/folktales/acl_collection.jpg
 layout: post
 ---
 #### The Asian Children’s Literature collection at Woodlands Regional Library has some of the oldest and rarest children’s books from Asia. **Lynn Chua** highlights these treasures.
