@@ -2,6 +2,7 @@
 title: Dr Carl Schoonover on Being S.U.R.E
 date: 2014-07-01
 permalink: /vol-10/issue-2/jul-sep-2014/dr-carl-schoonover
+image: /images/vol-10-issue-2/drcarl/sure_diagram.jpg
 layout: post
 ---
 <div style="background-color: white;">
