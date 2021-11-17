@@ -4,6 +4,7 @@ date: 2020-04-01T00:00:00.000Z
 breadcrumb: "Leprosy: A Story of Suffering"
 permalink: /vol-16/issue-1/apr-jun-2020/leprosy
 third_nav_title: "Leprosy: A Story of Suffering, but Also of Hope"
+image: /images/Vol-16-issue-1/leprosy/leprosy-title.jpg
 ---
 <style>
 table { 
