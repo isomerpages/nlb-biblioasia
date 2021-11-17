@@ -2,6 +2,7 @@
 title: "The National Library's Rare Maps Collection "
 date: 2015-01-01
 permalink: /vol-10/issue-4/jan-march-2015/rare-map
+image: /images/vol-10-issue-4/raremap/wall_map.jpg
 layout: post
 ---
 #### The National Library has a collection of rare maps dating back to the 15th century. **Makeswary Periasamy** shares the significance and history of these maps and their makers. 
