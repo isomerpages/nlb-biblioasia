@@ -2,6 +2,7 @@
 title: Party Time at the Raffles
 date: 2017-01-12
 permalink: /vol-12/issue-4/jan-mar-2017/party-time-raffles
+image: /images/Vol-12-issue-4/party-time-with-raffles/postcard-view.jpg
 layout: post
 ---
 
