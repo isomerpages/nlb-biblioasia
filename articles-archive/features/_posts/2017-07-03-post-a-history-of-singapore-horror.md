@@ -2,6 +2,7 @@
 title: A History of Singapore Horror
 date: 2017-07-03
 permalink: /vol-13/issue-2/jul-sep-2017/historyofsghorror
+image: /images/Vol-13-issue-2/history-of-singapore-horror/01_sghorror.png
 layout: post
 ---
 #### Singaporeans have always had a morbid fascination with the supernatural. **Ng Yi-Sheng** examines the culture of horror in our oral folklore, books and films.
