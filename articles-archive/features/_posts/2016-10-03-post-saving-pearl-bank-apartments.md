@@ -2,6 +2,7 @@
 title: Saving Pearl Bank Apartments
 date: 2016-10-03
 permalink: /vol-12/issue-3/oct-dec-2016/saving-pearl-bank-apt
+image: /images/Vol-12-issue-3/saving-pearl-bank-apartments/02-savingpearlbank.jpg
 layout: post
 ---
 #### Architectural conservation or real estate investment? **Justin Zhuang** ponders over the fate of a 1970s style icon that has seen better times.
