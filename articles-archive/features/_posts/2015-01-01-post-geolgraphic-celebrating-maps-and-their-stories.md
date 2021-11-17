@@ -2,6 +2,7 @@
 title: "GeolGraphic: Celebrating Maps and Their Stories"
 date: 2015-01-01
 permalink: /vol-10/issue-4/jan-march-2015/geographic
+image: /images/vol-10-issue-4/geo-geographic/Itinerarium_Sacrae_Scripturae.jpg
 layout: post
 ---
 #### “GeolGraphic”, a multi-disciplinary festival of exhibitions, installation artworks and lectures on the subject of maps takes place at the National Library from 16 January to 19 July 2015. **Tan Huism** explains why you should not miss this event.
