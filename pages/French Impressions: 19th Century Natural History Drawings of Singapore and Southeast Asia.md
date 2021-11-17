@@ -5,8 +5,6 @@ permalink: /vol-17/issue-4/jan-mar-2022/diardduvaucel
 description: ""
 image: /images/vol-17-issue-4/diard-duvaucel/turtle%20spiny%20BA%20meta%20image.jpg
 ---
-
-
 #### A little-known collection from 1818 to 1820 commissioned under the watch of two French naturalists sheds light on the early study of the region’s flora and fauna.
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/diard-duvaucel/DiardDuvaucel2.jpg)
@@ -19,7 +17,7 @@ Today, these 117 lifelike colour illustrations – mostly of birds and artfully 
 
 What makes the Diard and Duvaucel collection especially significant is that it contains what is possibly the first illustration of an animal that is native to Singapore and Southeast Asia − the Spiny Turtle. The handwritten annotation on the drawing clearly proclaims “isle de Singapour” or “island of Singapore”, stamping our claim on the origins of this now-endangered species. 
 
-Although the relationship between Raffles and the two naturalists ended abruptly, with the Frenchmen dismissed and their precious specimens and research confiscated, the drawings found their way safely back to France where they reside today in the collections of the Muséum National d’Histoire Naturelle in Paris. Thanks to the generosity of the museum, the National Library, Singapore, was given permission to put up the digitised images of the collection on its BookSG portal for the public to access in 2020.[^2]
+Although the relationship between Raffles and the two naturalists ended abruptly, with the Frenchmen dismissed and their precious specimens and research confiscated, the drawings found their way safely back to France where they reside today in the collections of the Muséum National d’Histoire Naturelle in Paris. Thanks to the generosity of the museum, the National Library, Singapore, was given permission to put up the digitised images of the collection on its [BookSG](https://eresources.nlb.gov.sg/printheritage/detail/c908d4fd-4e4b-441d-bdab-48c9eb69d0c1.aspx) portal for the public to access in 2020.[^2]
 
 More recently, all 117 illustrations have been published in a hardcover book titled *Diard & Duvaucel: French Natural History Drawings of Singapore and Southeast Asia, 1818−1820*. Co-published by Epigram, the Embassy of France in Singapore and the National Library together with several key partners, the introductory essays and detailed captions accompanying the stunning illustrations have been written by a team of scientists and curators based in Singapore, Paris and Spain. 
 
@@ -65,8 +63,10 @@ Stamford Raffles collected pitcher plants when he first visited Singapore in ear
 
 
 #### **NOTES**
-
+<div style="background-color: white;">
 
 [^1]: Danièle Weiler, “[Stamford Raffles and the Two French Naturalists](https://biblioasia.nlb.gov.sg/vol-16/issue-2/jul-sep-2020/raffles),” *BiblioAsia* 16, no. 2 (Jul–Sep 2020).
 
 [^2]: *Figures peintes d’oiseaux [et de reptiles], envoyées de l’Inde par Duvaucel et Diard ([Painted depictions of birds [and reptiles], sent from India by Duvaucel and Diard](https://eresources.nlb.gov.sg/printheritage/detail/c908d4fd-4e4b-441d-bdab-48c9eb69d0c1.aspx)).
+
+</div>
