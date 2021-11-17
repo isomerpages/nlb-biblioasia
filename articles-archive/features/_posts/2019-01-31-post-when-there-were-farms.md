@@ -2,6 +2,7 @@
 title: When There Were Farms
 date: 2019-01-31
 permalink: /vol-14/issue-4/jan-mar-2019/when-there-wre-farms/
+image: /images/Vol-14-issue-4/when-there-were-farms/Farm1.JPG
 layout: post
 ---
 #### **Zoe Ye**o presents a selection of publications on farming in Singapore from the National Library’s Legal Deposit Collection.
