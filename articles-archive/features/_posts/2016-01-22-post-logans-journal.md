@@ -2,6 +2,7 @@
 title: Logan’s Journal
 date: 2016-01-22
 permalink: /vol-11/issue-4/jan-mar-2016/logans-journal
+image: /images/vol-11-issue-4/logan-journal/01_loganjournal.jpg
 layout: post
 ---
 In the pre-Wikipedia era, scientific and literary knowledge was mainly documented in the form of periodicals and journals. In the early 19th century, most of such publications in circulation in the region comprised missionary-related magazines and Dutch-produced scientific journals of Java.[^1] But one local publication stood out for its single-minded focus on the thriving scientific and literary activity within the Straits Settlements.[^2] *The Journal of the Indian Archipelago and Eastern Asia* marked a pioneering attempt to produce a scholarly journal in the British settlements of the Far East,[^3] showcasing the intellectual prowess of writers from professions as diverse as priests, lawyers, doctors, soldiers,  merchants  and planters.[^4]
