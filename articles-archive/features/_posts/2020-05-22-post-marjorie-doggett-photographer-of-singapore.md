@@ -3,6 +3,7 @@ title: "Marjorie Doggett: Photographer of Singapore"
 date: 2020-04-01T00:00:00.000Z
 permalink: /vol-16/issue-1/apr-jun-2020/doggett
 third_nav_title: "Marjorie Doggett: Photographer of Singapore"
+image: /images/Vol-16-issue-1/marjorie/Majorie-title.png
 ---
 
 <style>
