@@ -2,6 +2,7 @@
 title: From the Director's Chair
 date: 2015-04-01
 permalink: /vol-11/issue-1/apr-jun-2015/director-chair
+image: /images/vol-11-issue-1/directorchair/scene.jpg
 layout: post
 ---
 #### In candid, off-the-cuff conversations, four young auteurs talk about their upcoming works for the Singapore Memory Project film festival.
