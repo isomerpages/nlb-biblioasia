@@ -2,6 +2,7 @@
 title: Mem, Don’t Mess with the Cook
 date: 2016-07-10
 permalink: /vol-12/issue-2/jul-sep-2016/dontmesswiththecook
+image: /images/Vol-12-issue-2/dont-mess-with-the-cook/01-dontmesswiththecook.jpg
 layout: post
 ---
 #### European families in colonial Singapore had a retinue of servants – cook, chauffeur, nanny, gardener and houseboy – but this did not guarantee a life of ease, as **Janice Loo** tells us.
