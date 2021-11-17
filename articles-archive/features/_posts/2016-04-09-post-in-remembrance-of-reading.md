@@ -2,6 +2,7 @@
 title: In Remembrance of Reading
 date: 2016-04-09
 permalink: /vol-12/issue-1/apr-jun-2016/remembrance-reading
+image: /images/Vol-12-issue-1/in-remembrance-of-reading/01_reading.jpg
 layout: post
 ---
 #### Our memories of reading are inextricably linked to the joy we derive from reading books and the places where we read them. **Loh Chin Ee** explains why.
