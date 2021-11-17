@@ -2,6 +2,7 @@
 title: Travelog Melayu
 date: 2015-01-01
 permalink: /vol-10/issue-4/jan-march-2015/travelog-melayu
+image: /images/vol-10-issue-4/travelogmelayu/background_re.jpg
 layout: post
 ---
 <img src="/images/vol-10-issue-4/travelogmelayu/background_re.jpg">
