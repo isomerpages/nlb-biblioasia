@@ -2,6 +2,7 @@
 title: "Beneath the Glitz and Glamour: The Untold Story of the “Lancing” Girls"
 date: 2017-01-02
 permalink: /vol-12/issue-4/jan-mar-2017/beneath-glitz-glamour
+image: /images/Vol-12-issue-4/glitz-and-glamour/2-beneath_glitz_glamour.png
 layout: post
 ---
 #### These cabaret girls were better known for their risqué stage shows, but some also donated generously to charity. **Adeline Foo** uncovers these women with hearts of gold.
