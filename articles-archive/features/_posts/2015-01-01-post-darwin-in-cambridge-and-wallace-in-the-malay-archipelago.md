@@ -2,6 +2,7 @@
 title: "Darwin in Cambridge & Wallace in the Malay Archipelago "
 date: 2015-01-01
 permalink: /vol-10/issue-4/jan-march-2015/darwin-and-wallace
+image: /images/vol-10-issue-4/darwinandwallace/cambridge_graduate.jpg
 layout: post
 ---
 #### Research is still turning up new findings about the lives and science of Charles Darwin and Alfred Russel Wallace. Among other things, **Dr John van Wyhe** addresses the misconception that Darwin cheated Wallace of his rightful place in history. 
