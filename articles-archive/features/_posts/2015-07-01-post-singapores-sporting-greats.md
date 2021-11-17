@@ -2,6 +2,7 @@
 title: Singapore's Sporting Greats
 date: 2015-07-01
 permalink: /vol-11/issue-2/jul-sep-2015/sg-sport-great
+image: /images/vol-11-issue-2/sgsportgreat/LLOYD_VALBERG.jpg
 layout: post
 ---
 #### **Chua Chong Jin** recalls the glory and achievements of some of Singapore’s greatest athletes.
