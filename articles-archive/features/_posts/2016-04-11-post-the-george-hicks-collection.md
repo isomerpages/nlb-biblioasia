@@ -2,6 +2,7 @@
 title: The George Hicks Collection
 date: 2016-04-11
 permalink: /vol-12/issue-1/apr-jun-2016/george-hicks
+image: /images/Vol-12-issue-1/george-hicks-collection/01_georgehicks.bmp
 layout: post
 ---
 #### This valuable collection at the National Library is significant for a number of reasons. **Eunice Low** explains why.
