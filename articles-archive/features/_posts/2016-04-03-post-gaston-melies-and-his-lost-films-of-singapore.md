@@ -2,6 +2,7 @@
 title: Gaston Mèliès and His Lost Films of Singapore
 date: 2016-04-03
 permalink: /vol-12/issue-1/apr-jun-2016/gaston-melies
+image: /images/Vol-12-issue-1/gaston-melies/01-gastonmelies.jpg
 layout: post
 ---
 #### Gaston Méliès may be the first filmmaker to have directed fiction films in Singapore. Unfortunately, none have survived the ravages of time. **Raphaël Millet** tells you why.
