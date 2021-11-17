@@ -2,6 +2,7 @@
 title: Time-Forgotten Trades
 date: 2014-01-01
 permalink: /vol-9/issue-4/jan-march-2014/forgotten-trades
+image: /images/vol-9-issue-4/forgottentrades/bg.jpg
 layout: post
 ---
 #### Unable to keep pace with Singapore’s economic progress and development, many of Singapore’s early crafts and trades have disappeared. **Sharon Teng** tells us about these trades and what is being done to remember them.
