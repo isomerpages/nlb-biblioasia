@@ -2,6 +2,7 @@
 title: "All Creatures Great and Small: Singapore's First Zoos"
 date: 2015-07-01
 permalink: /vol-11/issue-2/jul-sep-2015/sg-first-zoo
+image: /images/vol-11-issue-2/zoo/Entrance_of_zoo.jpg
 layout: post
 ---
 #### Few people are aware that the island’s first public zoo was set up in 1875. **Lim Tin Seng** traces the history of wildlife parks in Singapore.
