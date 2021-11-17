@@ -2,6 +2,7 @@
 title: "Culture on Celluloid:  Alternative Films in Singapore"
 date: 2015-04-01
 permalink: /vol-11/issue-1/apr-jun-2015/culture-on-celluloid
+image: /images/vol-11-issue-1/cultureoncelluloid/French_Film_Festival_re.jpg
 layout: post
 ---
 #### Intellectual and art house films have a long history in Singapore but the issues the genre faces have changed little over the years. **Gracie Lee** charts the challenges of alternative cinema in our city. 
