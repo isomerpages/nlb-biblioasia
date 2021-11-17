@@ -2,6 +2,7 @@
 title: A Tribute Fit For A Prince
 date: 2016-01-18
 permalink: /vol-11/issue-4/jan-mar-2016/atributefitforaprince
+image: /images/vol-11-issue-4/a-tribute-of-a-prince/01_tributeprince.jpg
 layout: post
 ---
 <div style="background-color: white;"><br><img style=="width:600px" src="/images/vol-11-issue-4/a-tribute-of-a-prince/01_tributeprince.jpg">The front and back wooden covers of the Loyalty Address – created in homage to Price Alfred, the Duke of Edinburgh – are intricately handcraved with phoenixes. <i>All rights reserved, National Library Board, Singapore.</i></div>
