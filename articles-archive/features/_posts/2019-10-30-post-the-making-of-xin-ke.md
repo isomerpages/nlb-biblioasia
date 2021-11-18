@@ -281,6 +281,9 @@ However, even before the screening began, an announcement was made, causing much
 <b>The Cast of Characters</b>
 <table span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; ">
 	<tr>
+    <td><b>The Cast of Characters</b></td>
+  </tr>
+	<tr>
     <td>CAST</td>
     <td>CHARACTERS</td>
   </tr>
