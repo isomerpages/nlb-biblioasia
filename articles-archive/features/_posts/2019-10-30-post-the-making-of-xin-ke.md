@@ -278,7 +278,50 @@ However, even before the screening began, an announcement was made, causing much
 <div style="background-color: white;">The only extant still from <i>Xin Ke</i> showing Shen Huaqiang playing the flute while sisters Zhang Huimei and Zhang Huizhen look on admiringly, all three oblivious to the fuming Gan Fusheng (standing). <i>Sin Kuo Min Press</i>, 5 February 1927, p. 15. <i>Courtesy of NUS Libraries.</i></div>
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
-
+<b>The Cast of Characters</b>
+	<table>
+	<tr>
+    <td>CAST</td>
+    <td>CHARACTERS</td>
+  </tr>
+<tr>
+<td>Zheng Chaoren (郑超人)</td>
+<td>Shen Huaqiang (沈华强)</td>
+</tr>
+		<tr>
+<td>Chen Ziying (陈子缨)</td>
+<td>Zhang Tianxi (张天锡)</td>
+</tr>
+		<tr>
+<td>Wo Ying (我影)	</td>
+<td>Yu (Zhang Tianxi’s wife) (余氏; 张天锡之妻)</td>
+</tr>
+		<tr>
+<td>Lu Xiaoyu (陆肖予)	</td>
+<td>Zhang Huizhen (Zhang Tianxi’s daughter)<br>
+(张慧贞; 张天锡之女)</td>
+</tr>
+		<tr>
+<td>Chen Bingxun (陈炳勳)	</td>
+<td>Zhang Xinmin (Zhang Tianxi’s son) (张新民; 张天锡之子)</td>
+</tr>
+		<tr>
+<td>Zhang Danxiang (张淡香)	</td>
+<td>Liu Boqi (刘伯憩)</td>
+</tr>
+		<tr>
+<td>Yun Ruinan (云瑞南)	</td>
+<td>Yan (Liu Boqi’s wife) (颜氏; 刘伯憩之妻)</td>
+</tr>
+		<tr>
+<td>Wan Cheng (晚成)	</td>
+<td>Liu Jieyu (Liu Boqi’s daughter) (刘洁玉; 刘伯憩之女)</td>
+</tr>
+		<tr>
+<td>Huang Mengmei (黄梦梅)	</td>
+<td>Gan Fusheng (甘福胜)</td>
+</tr>
+	</table>
 </span>
 
 For silent films produced in the 1920s, one standard reel of 1,000 ft (305 m) of 35 mm film ran at approximately 16 frames per second, which meant that each reel was around 15 minutes long. The exclusion of three entire reels caused about 45 minutes of the film to be excised. Not surprisingly, the removal of the film’s conclusion affected the storyline and cast a pall on the viewing experience.
@@ -327,12 +370,4 @@ This essay is abridged from the recently published book, <i>Xin Ke: The Story of
 [^15]:《贺嘉》 [He, J.]. (1927, March 7). 《[银幕消息：观「新客」试映记](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19270307-1.2.11)》 [Watching a preview of *Xin Ke*]. *Nanyang Siang Pau*, p. 4. Retrieved from NewspaperSG.
 [^16]:This is an English translation. See [*Nanyang Siang Pau*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19270307-1.2.11), 7 Mar 1927, p. 4.
 [^17]:《显微镜》 [Microscope], 12 Mar 1927, p. 2.
-[^18]:
-
-
-
-
-
-
-
-This is an English translation. See 《显微镜》 [Microscope], 12 Mar 1927, p. 2.
+[^18]:This is an English translation. See 《显微镜》 [Microscope], 12 Mar 1927, p. 2.
