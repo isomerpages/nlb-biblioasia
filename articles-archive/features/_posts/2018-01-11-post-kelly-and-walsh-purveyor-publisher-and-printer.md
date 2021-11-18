@@ -213,7 +213,7 @@ Yuletide in Singapore: Kelly and Walsh. (1899, December 14). The Straits Times, 
 
 #### **NOTES**
 
-[^1]:The King of Siam. (1896, May 19). The Singapore Free Press and Mercantile Advertiser, p. 3. Retrieved from NewspaperSG.
+[^1]:[The King of Siam](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb18960519-1.2.10). (1896, May 19). *The Singapore Free Press and Mercantile Advertiser*, p. 3. Retrieved from NewspaperSG.
 
 [^2]:The firm was first located at No. 5 Battery before moving to No. 6.
 
