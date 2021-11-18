@@ -53,7 +53,7 @@ Suddenly, I felt a heavy hand on my shoulder. It was the restaurant manager. He 
 
 A grim sight met us as we emerged into the blinding sunlight. Many buildings had been badly damaged, and several dead bodies littered the streets. The restaurant, miraculously, was still intact. Among the casualties were the wife and two sons of the family friend who had accompanied me to Kuala Lumpur – although I wasn’t aware of this at the time. When my own family finally turned up at the restaurant, my relief and joy knew no bounds.
 
-My father then drove to his office headquarters in Kuala Lumpur to inform them of his whereabouts. There, his British boss (or “Tuan”)1 pressed my father to let him borrow the Austin 7 to drive to Singapore, as he needed another car to accommodate his whole family. My father had no choice but to agree. His Tuan, like the rest of the British, believed that Singapore was a stronghold that would not fall to enemy attack – the British called the island the “Gibraltar of the East” in reference to its European bastion at the southern tip of the Iberian Peninsula.
+My father then drove to his office headquarters in Kuala Lumpur to inform them of his whereabouts. There, his British boss (or “Tuan”)[^1] pressed my father to let him borrow the Austin 7 to drive to Singapore, as he needed another car to accommodate his whole family. My father had no choice but to agree. His Tuan, like the rest of the British, believed that Singapore was a stronghold that would not fall to enemy attack – the British called the island the “Gibraltar of the East” in reference to its European bastion at the southern tip of the Iberian Peninsula.
 
 We spent the night at the abandoned house of a family friend. The next morning, my father went to look for a taxi to take us to Muar, while the rest of us prepared to leave. Just as we finished lunch, the ominous sound of the siren tore through the air again. With pounding hearts, we took cover under a staircase, the only shelter available. This time it finally dawned on me that death was a real possibility. We covered our heads and clung tightly to each other as the ground under us shook. My mother urged us to be calm and brave, and to pray – which we did, fervently.
 
@@ -85,3 +85,22 @@ The rest of us were paralysed with fear and at a loss as how to help the doctor.
 
 <img style="width: 550px; height: 370px;" src="/images/Vol-15-issue-3/fleeing-to-uncertainty/Fleeing6.JPG">
 <div style="background-color: white;">K. Ramakanthan at his residence in Bishan, 2019. Now retired, he still reads voraciously and is a familiar figure at the Ang Mo Kio Public Library. <i>Courtesy of Aishwariyaa Ramakanth</i></div>
+
+The scene was so surreally funny that even the Japanese sergeant chuckled. That was enough for the rest of us to start laughing, violent paroxysms that were induced by a combination of fear and relief, and the comic despair of it all. The pudgy soldier exclaimed, “*Yoroshi*!” (“Good!”) He appeared to have softened a little. He eyed us and then reached out and ruffled my hair, saying, “*Kodomo tachi*! *Yoroshi*!” (“Young fellow! Good!”). The tension evaporated and the mood lightened. But we relaxed a little too soon. It appeared that the sergeant was a little temperamental.
+
+“We want borrow car! You give?” asked the sergeant in broken English. When Dr Sharma responded “Sorry, no petrol”, the sergeant flew into a rage. “No petrol, no petrol, all die! Boom!” he snapped, all the while gesticulating wildly. When two canisters of petrol were miraculously produced by someone in our group, he calmed down. “We borrow car and give receipt. We return car in Muar,” he promised. “Ok! *Arigato gozaimasu*!” (“Ok! Thank you”) he barked, and all his men piled into the car and drove off into the night.
+
+In the weeks and months that followed, we began the long and laborious journey to rebuild our lives. Many things had changed forever and even I, a young lad, could see that. The “Tuans” were not the almighty forces they had made themselves out to be. The superiority with which they had conducted themselves now seemed laughable. Many white folks escaped violence at the hands of the Japanese by the skin of their teeth, helped by the kindness of their local staff. My father, for instance, could have refused help to his British boss, but he chose to be gracious.
+
+*Shortly after the Japanese Occupation of Southeast Asia officially ended on 12 September 1945, my father and his family made their way back to Kuala Lumpur where he completed his education. He worked for a short while as a stenographer in the attorney-general’s office there before moving to Singapore to train as a teacher, where he met and married my mother in 1958. My father turns 90 in December this year.*
+
+<br>
+<div style="background-color: white;">
+<img src="/images/Vol-15-issue-3/fleeing-to-uncertainty/Fleeing7.jpg" style="width: 100px; height: 100px;">
+	<center><b>Aishwariyaa Ramakanthan</b></center>
+</div>
+
+<a href="https://biblioasia.nlb.gov.sg/vol-15/issue-3/oct-dec-2019/"><center>Back to Issue</center></a>
+
+#### **NOTES**
+[^1]:Meaning “master”, the Malay term of deference locals used to address their colonial superiors.
