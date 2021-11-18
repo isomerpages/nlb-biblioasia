@@ -160,4 +160,47 @@ Russia actively sought to protect its shipping routes and extend its influence i
 
 However, there still remains a paucity of information on relations between Singapore and Russia until a Russian consulate was formally established in Singapore in 1890 and began submitting regular consular reports on bilateral affairs. Given the dearth of literature, the writings of Vysheslavtsev and Goncharov are valuable for their historical research on the interactions between Tsarist Russia and British-controlled Singapore in the *longue durée* of Russia-Singapore relations.14
 
-– Gracie Lee
+<div style="text-align: center">– Gracie Lee</div>
+
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
+	<b>About the Exhibition and Book</b>
+	<br><br>
+	<img src="/images/Vol-15-issue-3/on-paper-singapore-before-1867/OnPaper11.JPG">
+	<br>
+The exhibition “On Paper: Singapore Before 1867” takes place at level 10 of the National Library building on Victoria Street. On display are more than 150 paper-based artefacts – comprising official records, diaries and letters, books and manuscripts, maps, drawings and photographs – tracing Singapore’s history from the 17th century to its establishment as a Crown Colony of Britain on 1 April 1867.
+<br><br>
+The exhibits, drawn from the collections of the National Library and the National Archives of Singapore, as well as from various local and international institutions – Library of Congress, The British Library, Nationaal Archief, Bibliothèque Nationale de France and the National Library of Indonesia, among others – provide a glimpse of Singapore’s documentary heritage as well as the personalities, and social and political forces behind them. Many of the items are shown to the public in Singapore for the first time.
+<br><br>
+A series of programmes has been organised in conjunction with the exhibition, including guided tours by the curators and public talks. For more information, follow us on Facebook @NationalLibrarySG.
+<br><br>
+	The accompanying book, also called <i>On Paper: Singapore Before 1867</i>, features a small selection of the items being shown at the exhibition, illuminated by essays written by librarians, archivists and scholars.
+<br><br>
+The book is not for sale but is available for reference at the Lee Kong Chian Reference Library (Call no.: RSING 959.9703 ON) and for loan at selected public libraries (Call no.: SING 959.9703 ON). Borrow the ebook via the NLB Mobile app or read it online at [BookSG](https://eresources.nlb.gov.sg/printheritage/detail/594f089e-283a-4386-b865-7c4b9e359ff3.aspx).
+</span>
+<br>
+<div style="background-color: white;">
+<img src="/images/Vol-15-issue-3/" style="width: 100px; height: 100px;">
+<b>Dr Azhar Ibrahim</b> is a lecturer in the Department of Malay Studies, National University of Singapore; his research interests include religion and society.</div>
+<br><br>
+<div style="background-color: white;">
+<img src="/images/Vol-15-issue-3/on-paper-singapore-before-1867/OnPaper12.jpg" style="width: 100px; height: 100px;">
+<b>Georgina Wong</b> is an Assistant Curator with the National Library, Singapore, and co-curator of the exhibition, “On Paper: Singapore Before 1867”.</div>
+<br><br>
+<div style="background-color: white;">
+<img src="/images/Vol-15-issue-3/on-paper-singapore-before-1867/OnPaper13.jpg" style="width: 100px; height: 100px;">
+<b>Gracie Lee</b> is a Senior Librarian with the National Library, Singapore. She works with the rare materials collections, and her research areas include Singapore’s publishing history and the Japanese Occupation.
+</div>
+
+<a href="https://biblioasia.nlb.gov.sg/vol-15/issue-3/oct-dec-2019/"><center>Back to Issue</center></a>
+	
+#### **NOTES**
+[^1]:
+[^2]:
+[^3]:
+[^4]:
+[^5]:
+[^6]:
+[^7]:
+[^8]:
+[^9]:
+[^10]:
