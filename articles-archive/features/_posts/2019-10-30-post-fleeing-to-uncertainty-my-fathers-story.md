@@ -83,7 +83,7 @@ Sometime around midnight, the dog Somu, which belonged to a Dr Sharma, one of th
 
 The rest of us were paralysed with fear and at a loss as how to help the doctor. Dr Sharma immediately fell at the feet of the sergeant begging for his life. And then, the most amazing thing happened. As if on cue, Somu stopped barking and began to whine and follow his master’s example. He, too, crawled up to the sergeant on his stomach, as if in total supplication, while the rest of us watched open-mouthed.
 
-<img style="width: 550px; height: 370px;" src="/images/Vol-15-issue-3/fleeing-to-uncertainty/Fleeing6.JPG">
+<img style="width: 650px; height: 370px;" src="/images/Vol-15-issue-3/fleeing-to-uncertainty/Fleeing6.JPG">
 <div style="background-color: white;">K. Ramakanthan at his residence in Bishan, 2019. Now retired, he still reads voraciously and is a familiar figure at the Ang Mo Kio Public Library. <i>Courtesy of Aishwariyaa Ramakanth</i></div>
 
 The scene was so surreally funny that even the Japanese sergeant chuckled. That was enough for the rest of us to start laughing, violent paroxysms that were induced by a combination of fear and relief, and the comic despair of it all. The pudgy soldier exclaimed, “*Yoroshi*!” (“Good!”) He appeared to have softened a little. He eyed us and then reached out and ruffled my hair, saying, “*Kodomo tachi*! *Yoroshi*!” (“Young fellow! Good!”). The tension evaporated and the mood lightened. But we relaxed a little too soon. It appeared that the sergeant was a little temperamental.
