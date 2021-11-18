@@ -278,14 +278,13 @@ However, even before the screening began, an announcement was made, causing much
 <div style="background-color: white;">The only extant still from <i>Xin Ke</i> showing Shen Huaqiang playing the flute while sisters Zhang Huimei and Zhang Huizhen look on admiringly, all three oblivious to the fuming Gan Fusheng (standing). <i>Sin Kuo Min Press</i>, 5 February 1927, p. 15. <i>Courtesy of NUS Libraries.</i></div>
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
-<b>The Cast of Characters</b>
 <table span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; ">
 	<tr>
     <td><b>The Cast of Characters</b></td>
   </tr>
 	<tr>
-    <td>CAST</td>
-    <td>CHARACTERS</td>
+    <td><b>CAST</b></td>
+    <td><b>CHARACTERS</b></td>
   </tr>
 <tr>
 <td>Zheng Chaoren (郑超人)</td>
