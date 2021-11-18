@@ -40,7 +40,7 @@ From its inception, the Sri Mariamman Temple has played a key role in Singapore�
 On the right of the painting is Jamae Mosque (Masjid Jamae), which was completed in 1833 to replace the original wood-and-attap mosque built by the Chulia (Tamil Muslim) community, led by Anser Saib, in the late 1820s. Today, the mosque’s distinctive twin minarets continue to be a landmark on South Bridge Road, but the lush greenery surrounding the temple and its spacious frontage seen in Thomson’s painting have given way to shophouses and a busy vehicular thoroughfare.
 
 <img src="/images/Vol-15-issue-3/on-paper-singapore-before-1867/OnPaper4.JPG">
-<div style="background-color: white;">“Hindoo Pagoda and (Chulia) Mosque, Singapore”. John Turnbull Thomson, 1846. Watercolour on paper, 15.4 x 22.8 cm. On the left is the three-tiered gopuram (pyramidal entrance tower) of the original Sri Mariamman Temple. It was replaced in 1925 with the temple’s present five-tiered tower. Next to it is Masjid Jamae (Chulia), built in 1835 by the Tamil Muslim community. Both buildings are found on South Bridge Road. <i>Hocken Collections, Uare Taoka O Hākena, University of Otago, New Zealand. Hocken Collections, 92/1158</i></div>
+<div style="background-color: white;">“Hindoo Pagoda and (Chulia) Mosque, Singapore”. John Turnbull Thomson, 1846. Watercolour on paper, 15.4 x 22.8 cm. On the left is the three-tiered gopuram (pyramidal entrance tower) of the original Sri Mariamman Temple. It was replaced in 1925 with the temple’s present five-tiered tower. Next to it is Masjid Jamae (Chulia), built in 1835 by the Tamil Muslim community. Both buildings are found on South Bridge Road. <i>Hocken Collections, Uare Taoka O Hākena, University of Otago, New Zealand. Hocken Collections, 92/1158.</i></div>
 
 Thomson’s works also include sweeping views of Singapore from various vantage points. In his 1846 painting, titled “Singapore Town from the Government Hill Looking Southeast”, the viewer is positioned on what is now Fort Canning Hill, overlooking the Singapore River. Densely built shophouses and godowns can be seen along the river at Boat Quay, while a number of expansive bungalows, occupied mostly by Europeans, are found by the seafront north of the river.
 
@@ -87,3 +87,18 @@ These narratives, dissenting in tone and spirit, were naturally considered subve
 The handwritten Jawi texts of the two *syair* were discovered alongside another, titled *Syair Tenku Perabu di Negeri Singapura* (On Tenku Perabu of Singapore), which narrates a scandalous affair that allegedly took place in the house of Sultan Husain, between the Sultan’s consort Tenku Perabu and his private secretary, Abdul Kadir. The three *syair* were compiled, transliterated and published in an anthology, *Syair Tantangan Singapura Abad Kesembilan Belas* (19th-century Singapore Syair of Remonstrance), by Dewan Bahasa dan Pustaka, Malaysia, in 1994.
 
 Today, these texts are part of Singapore’s history and literary heritage. They provide insights into the early days of modern Singapore, and thus deserve greater recognition and appreciation.
+
+<img src="/images/Vol-15-issue-3/on-paper-singapore-before-1867/OnPaper5.JPG">
+<div style="background-color: white;">The opening page of Syair Dagang Berjual Beli (left) and Syair Potong Gaji (right). Tuan Simi, Singapore, 1830s, 22.5 x 17.5 cm. <i>Bibliothèque Nationale de France, Malayo–polynésien 96.</i></div>
+
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
+	<b>The Form of the Syair</b><br><br>
+	A <i>syair</i> is a narrative poem made up of quatrains, each with an end rhyme. Every line contains about 10 to 12 syllables. Although the origin of this poetic form is still debated today, it is generally attributed to Hamzah Fansuri, a 16th-century Sufi from Sumatra. While it may have been used initially for religious purposes, by the 18th century the <i>syair</i> had become a vehicle for topics as diverse as romantic stories, historical events, advice and so on.5
+</span>
+
+<div style="text-align: center">– Dr Azhar Ibrahim
+</div>
+
+#### **Map of Asia, Used by A.R. Falck in London in 1824**
+
+Printed by John Carey in London in the early 19th century, this map of Asia was used during the final negotiations of the Anglo-Dutch Treaty in London between December 1823 and March 1824. It was acquired in 1909 as part of the collection of Anton Reinhard Falck (1777–1843) and is preserved today in the Nationaal Archief in the Netherlands.
