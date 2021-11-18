@@ -227,15 +227,12 @@ Yuletide in Singapore: Kelly and Walsh. (1899, December 14). The Straits Times, 
 
 [^7]Colonial editions are editions of books sold at lower prices for distribution in colonial markets.
 
-[^8]This figure was derived through a count of the titles listed in the Memoranda of Books Registered in the Catalogue of Books Printed in the Straits Settlements and in WorldCat (http://www.worldcat.org).
+[^8]This figure was derived through a count of the titles listed in the *Memoranda of Books Registered in the Catalogue of Books Printed in the Straits Settlements* and in WorldCat (http://www.worldcat.org).
 
 [^9]:A copy of this title is held by The British Library.
 
-[^10]:Proudfoot, I. (1986). A formative period in Malay book publishing. Journal of the Malaysian Branch of the Royal Asiatic Society, 59 (2) (251), 101–132, p. 114. Retrieved from JSTOR via NLB’s eResources website.
+[^10]:Proudfoot, I. (1986). A formative period in Malay book publishing. *Journal of the Malaysian Branch of the Royal Asiatic Society, 59* (2) (251), 101–132, p. 114. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
 
 [^11]A copy of this edition is held in the Emil Lüring collection of the Goethe University Library in Frankfurt.
 
 [^12]:Construction of the printing plant began in 1903.
-
-
-
