@@ -279,7 +279,7 @@ However, even before the screening began, an announcement was made, causing much
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
 <b>The Cast of Characters</b>
-	<table>
+<table span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; ">
 	<tr>
     <td>CAST</td>
     <td>CHARACTERS</td>
