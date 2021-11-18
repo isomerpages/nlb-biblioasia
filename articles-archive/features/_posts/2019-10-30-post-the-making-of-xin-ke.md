@@ -276,8 +276,7 @@ However, even before the screening began, an announcement was made, causing much
 
 <img style="width: 550px; height: 350px;" src="/images/Vol-15-issue-3/the-making-of-xin-ke/XinKe8.JPG">
 <div style="background-color: white;">The only extant still from <i>Xin Ke</i> showing Shen Huaqiang playing the flute while sisters Zhang Huimei and Zhang Huizhen look on admiringly, all three oblivious to the fuming Gan Fusheng (standing). <i>Sin Kuo Min Press</i>, 5 February 1927, p. 15. <i>Courtesy of NUS Libraries.</i></div>
-
-<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
+ 
 <table span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; ">
 	<tr>
     <td><b>The Cast of Characters</b></td>
@@ -360,7 +359,6 @@ However, even before the screening began, an announcement was made, causing much
 <td>Guest (贺客)</td>
 </tr>
 	</table>
-</span>
 
 For silent films produced in the 1920s, one standard reel of 1,000 ft (305 m) of 35 mm film ran at approximately 16 frames per second, which meant that each reel was around 15 minutes long. The exclusion of three entire reels caused about 45 minutes of the film to be excised. Not surprisingly, the removal of the film’s conclusion affected the storyline and cast a pall on the viewing experience.
 
