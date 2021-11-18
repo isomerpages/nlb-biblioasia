@@ -83,3 +83,159 @@ After World War II, Kelly & Walsh’s publishing output declined, and was confin
 Although Kelly & Walsh began publishing in Singapore as early as 1887, it did not print its own books until the firm set up a printing and book-binding department in January 1899. Prior to that, all of its printing work was contracted to commercial printers such as the Singapore and Straits Printing Office, Koh Yew Hean Press and Fraser & Neave. The firm’s printing business expanded in 1904[^12] when it established a facility at 194 Orchard Road (where Paragon shopping centre stands today) to print its own publications as well as external jobs such as government orders.
 
 In 1924, Kelly & Walsh sold off its printing press to its competitor Fraser & Neave.
+
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>SOME WORKS BY KELLY & WALSH</b>
+<br><br>
+1900: <i>Friend Tommy and other Topics</i></br>
+1906: <i>Freemasonry in Singapore</i></br>
+1908: <i>Across the Equator: A Holiday Trip in Java</i></br>
+1912: <i>A Christmas Number</i></br>
+1913: <i>Gula Malaka</i></br>
+1916: <i>Mutiny Musings and Volunteer Sketches</i></br>
+1919: <i>Long-chair Malay</i></br>
+1926: <i>Blonds Prefer Tuans: The Intimate Diary of a Lady of Travel</i></br>
+1928: <i>Malayan Turnovers</i></br>
+1934: <i>A Herd of Wild Bungalows</i></br>
+1938: <i>Suleiman Goes to London</i></br>
+1949: <i>Mural Ditties and Sime Road Soliloquies</i></span>
+
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Vol-13-issue-4/kelly-and-walsh/gracie.png">
+	<b>Gracie Lee</b> is a Senior Librarian with the National Library, Singapore. She works with the rare materials collections, and her research areas include Singapore’s publishing history and the Japanese Occupation.
+</div>
+
+<a href="/vol-13/issue-4/jan-mar-2018/"><center>Back to Issue</center></a>
+
+#### **REFERENCES**
+
+1903: The year reviewed. (1903, December 31). The Straits Times, p. 1. Retrieved from NewspaperSG.
+
+At Kelly & Walsh’s. (1921, December 21). The Malaya Tribune, p. 1. Retrieved from NewspaperSG.
+
+Battery Road renewed. (1891, September 4). The Singapore Free Press and Mercantile Advertiser (1884–1942), p. 2. Retrieved from NewspaperSG.
+
+Black market in books. (1947, July 20). The Straits Times, p. 5. Retrieved from NewspaperSG
+
+Brightens Raffles Place. (1935, August 28). The Straits Times, p. 12. Retrieved from NewspaperSG.
+
+Buckoke, L. (1950, September 6). Just looking…around the Singapore shops. Singapore Standard, p. 5. Retrieved from NewspaperSG.
+
+Chou Sing Chu Foundation. (2016). Passage of time: Singapore bookstore stories 1881–2016 (pp. 82–87). Singapore: Chou Sing Chu Foundation. (Call no.: RSING 070.5095957 CHO)
+
+Colony of Singapore. (1946–1956). Government gazette. Singapore: Government Printing Office. (Call no.: RCLOS 959.51 SGG)
+
+Christmas cards. (1897, November 3). The Straits Times, p. 3. Retrieved from NewspaperSG.
+
+Christmas cards. (1898, November 10). The Singapore Free Press and Mercantile Advertiser (Weekly), p. 5. Retrieved from NewspaperSG.
+
+Christmas card displays. (1896, November 7). The Straits Times, p. 2. Retrieved from NewspaperSG.
+
+Christmas preparations in Singapore. (1897, December 7). The Straits Times, p. 3. Retrieved from NewspaperSG.
+
+Dozens want shop lease. (1956, April 9). The Singapore Free Press, p. 2. Retrieved from NewspaperSG.
+
+Dr. Kinsey come to town – at $30 a copy. (1953, November 17). The Straits Times, p. 4. Retrieved from NewspaperSG.
+
+‘English books good’. (1950, September 28). Singapore Standard, p. 9. Retrieved from NewspaperSG.
+
+Former Kelly & Walsh book shop reopens. (1942, September 16). The Syonan Times, p. 4. Retrieved from NewspaperSG.
+
+Fraser and Neave Ltd. (1924, March 19). The Singapore Free Press and Mercantile Advertiser (Weekly), p. 12. Retrieved from NewspaperSG.
+
+Growth of Kelly and Walsh. (1916, March 22). The Singapore Free Press and Mercantile Advertiser (1884–1942), p. 7. Retrieved from NewspaperSG.
+
+Gullick, J.M. (2001). Richard James Wilkinson (1867—1941): A man of parts. Journal of the Malaysian Branch of the Royal Asiatic Society, 74 (1), 27. Retrieved from JSTOR via NLB’s eResources website.
+
+Impressive new building. (1935, September 5). The Straits Times, p. 15. Retrieved from NewspaperSG.
+
+Kelly and Walsh (1969). Journal of the Hong Kong Branch of the Royal Asiatic Society, 9, 163–164. Retrieved from JSTOR via NLB’s eResources website.
+
+Kelly & Walsh Limited Co. Ltd. (2017). About Kelly & Walsh. Retrieved from Kelly & Walsh website.
+
+Land sale. (1904, December 14). The Straits Times, p. 5. Retrieved from NewspaperSG.
+
+Local and general. (1887, July 27). Straits Times Weekly Issue, p. 2. Retrieved from NewspaperSG.
+
+Makepeace, W., Braddell, R.S., Brooke, G.E. (Eds.) (1991). One hundred years of Singapore (Vol. 2, p. 202). Singapore: Oxford University Press. (Call no.: RSING 959.57 ONE)
+
+Malay, English and Tamil bookshops. (1989, August 2). The Straits Times, p. 5. Retrieved from NewspaperSG.
+
+Messrs. Kelly and Walsh. (1916, March 22). The Straits Times, p. 9. Retrieved from NewspaperSG.
+
+A new Malay dictionary. (1920, October 27). The Straits Times, p. 8. Retrieved from NewspaperSG.
+
+On the margin: Raffles Place. (1950, September 6). The Straits Times, p. 6. Retrieved from NewspaperSG.
+
+Page 1 Advertisements Column 6: Kelly & Walsh Ltd. (1898, September 30). The Straits Times, p. 1. Retrieved from NewspaperSG.
+
+Page 2 Advertisements Column 2: Kelly & Walsh, Limited. (1899, January 30). The Straits Times, p. 2. Retrieved from NewspaperSG.
+
+Page 2 Advertisements Column 4: Seibudo Syoten. (1943, December 14). The Syonan Shimbun, p. 2. Retrieved from NewspaperSG.
+
+Page 21 Advertisements Column 1: Modern architecture comes to Raffles Place: Kelly & Walsh. (1935, September 5). The Straits Times, p. 21. Retrieved from NewspaperSG.
+
+Picturesque Singapore: Kelly and Walsh, (LTD.). (1897, October 1). The Straits Times, p. 3. Retrieved from NewspaperSG.
+
+Property sale. (1933, March 2). The Malaya Tribune, p. 7. Retrieved from NewspaperSG.
+
+Raffles Place building sold for $1.5 million. (1956, January 17). The Straits Times, p. 4. Retrieved from NewspaperSG.
+
+Raffles Place developments. (1935, April 3). The Straits Times, p. 13. Retrieved from NewspaperSG.
+
+Registry of Companies. (1916–1955). Kelly and Walsh Limited [ROC 296]. Retrieved from National Archives of Singapore website.
+
+Round the shops: Kelly and Walsh. (1900, December 17). The Straits Times, p. 3. Retrieved from NewspaperSG.
+
+Singapore and Straits directory, 1880–1921. Singapore: Fraser & Neave. (Call no.: RRARE 382.09595 STR; Microfilm nos.: NL1174–1190, NL7999, NL8000)
+
+Straits Settlements government gazette, 1887–1941 . Singapore: Government Printing Office. (Call no.: RRARE 959.51 SGG)
+
+The Battery Road improvements. (1890, August 6). The Singapore Free Press and Mercantile Advertiser (Weekly), p. 12. Retrieved from NewspaperSG.
+
+The Christmas shows at the stores. (1897, December 20). Mid-Day Herald and Daily, p. 2. Retrieved from NewspaperSG.
+
+The Singapore and Malayan directory. (1921–1926) Singapore: Fraser & Neave. (Call no.: RRARE 382.09595 STR-[LKL]; Microfilm nos.: NL1191, NL1192, NL1993)
+
+The stores and Christmas. (1889, December 24). The Singapore Free Press and Mercantile Advertiser (Weekly), p. 791. Retrieved from NewspaperSG.
+
+T. F. Hwang takes you down memory lane: Old publishers and booksellers. (1989, September 16). The Straits Times, p. 22. Retrieved from NewspaperSG.
+
+Where there is no cold weather….(1889, November 5). The Singapore Free Press and Mercantile Advertiser (Weekly), p. 550. Retrieved from NewspaperSG.
+
+Winstedt’s Malay dictionary. (1914, April 25). The Straits Times, p. 9. Retrieved from NewspaperSG.
+
+Wright, A., & Cartwright, H.A. (Eds.) (1908). Twentieth century impressions of British Malaya (p. 679). London: Lloyd’s Greater Britain Pub. (Call no.: RCLOS 959.51033 TWE)
+
+Xmas quiet. (1933, December 11). The Straits Times, p. 10. Retrieved from NewspaperSG.
+
+Yuletide in Singapore: Kelly and Walsh. (1899, December 14). The Straits Times, p. 3. Retrieved from NewspaperSG.
+
+#### **NOTES**
+
+[^1]:The King of Siam. (1896, May 19). The Singapore Free Press and Mercantile Advertiser, p. 3. Retrieved from NewspaperSG.
+
+[^2]:The firm was first located at No. 5 Battery before moving to No. 6.
+
+[^3]:The property was acquired for $345,000 and comprised the unit numbers 32, 32-1, 32-2, 32-3, 32-4 and 33 Raffles Place, as well as No. 1, 1-1, 3, 3-1, 5, 5A, 5B, 5C, 7, 7A, 7B, 9, 9-1, 9A, 9B, 11, 11A, 11B, 13, 13A, and 13B Change Alley.
+
+[^4]:Petrovitch also designed the Tanjong Pagar Railway Station.
+
+[^5]Best known for his work at the Old Supreme Court (present-day National Gallery Singapore).
+
+[^6]Crittall is an iconic brand of windows that was founded in the UK in 1884.
+
+[^7]Colonial editions are editions of books sold at lower prices for distribution in colonial markets.
+
+[^8]This figure was derived through a count of the titles listed in the Memoranda of Books Registered in the Catalogue of Books Printed in the Straits Settlements and in WorldCat (http://www.worldcat.org).
+
+[^9]:A copy of this title is held by The British Library.
+
+[^10]:Proudfoot, I. (1986). A formative period in Malay book publishing. Journal of the Malaysian Branch of the Royal Asiatic Society, 59 (2) (251), 101–132, p. 114. Retrieved from JSTOR via NLB’s eResources website.
+
+[^11]A copy of this edition is held in the Emil Lüring collection of the Goethe University Library in Frankfurt.
+
+[^12]:Construction of the printing plant began in 1903.
+
+
+
