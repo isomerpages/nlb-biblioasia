@@ -27,7 +27,7 @@ The 1927 silent Chinese film *Xin Ke* (新客; *The Immigrant*) is believed to b
 
 *Xin Ke* was produced by Liu Beijin (刘贝锦; 1902–59; also known as Low Poey Kim), a prominent Singapore-born entrepreneur. His father, Liu Zhuhou (刘筑侯), was an immigrant from Huyang, Yongchun, in Fujian province, who became one of the wealthiest rubber plantation owners in Muar, Malaya. Liu Beijin was also related to Liu Kang (刘抗; 1911–2004), the pioneer Singaporean artist (Liu Beijin’s and Liu Kang’s fathers were cousins).
 
-<img src="/images/Vol-15-issue-3/the-making-of-xin-ke/XinKe4.JPG">
+<img style="width: 550px; height: 360px;" src="/images/Vol-15-issue-3/the-making-of-xin-ke/XinKe4.JPG">
 <div style="background-color: white;">An example of a film title card in Chinese and English from the 1920s. Illustration by Dan Wong, based on a still from Hou Yao’s film, <i>A Poet from the Sea</i> (1927).</div>
 
 #### **A Film Pioneer**
@@ -157,7 +157,7 @@ Tianxi’s wife, Yu.
 The next day.
 翌日。
 <br><br>
-<img src="/images/Vol-15-issue-3/the-making-of-xin-ke/XinKe5.JPG">Zhang Tianxi telling his daughter Huizhen that her cousin Shen Huaqiang will be arriving from China in a few days’ time. <i>Illustration by Dan Wong.</i>
+<img style="width: 500px; height: 330px;" src="/images/Vol-15-issue-3/the-making-of-xin-ke/XinKe5.JPG">Zhang Tianxi telling his daughter Huizhen that her cousin Shen Huaqiang will be arriving from China in a few days’ time. <i>Illustration by Dan Wong.</i>
 	<br><br>
 	Nanyang’s famous fruit, durian, has an odour. People who like it find it tasty. Those who dislike it are repulsed by the smell.
 榴梿，南洋著名之果品，有异味，嗜者甘如饴，恶者畏其臭。
@@ -246,7 +246,7 @@ Despite the name, “silent” films were almost always accompanied by live back
 	Slide, A. (2013). <i>The new historical dictionary of the American film industry</i> (p. 197). New York: Routledge. (Not in NLB holdings)
 </span>
 
-<img src="/images/Vol-15-issue-3/the-making-of-xin-ke/XinKe6.JPG">
+<img style="width: 550px; height: 350px;" src="/images/Vol-15-issue-3/the-making-of-xin-ke/XinKe6.JPG">
 <div style="background-color: white;">Liu Beijin (standing) and a friend posing against Liu’s latest car. Photo taken in or near Muar, c. 1932. <i>Courtesy of Liu Kang Family Collection.</i></div>
 
 Between December 1925 and February 1926, when he was about 24 years old, Liu travelled to China to observe the educational, industrial and film industries of the country. Filmmaking was entering a golden age in Shanghai, with local filmmakers taking inspiration from their Chinese roots and the volatile social and political circumstances of the time.
@@ -257,7 +257,7 @@ Liu did not establish the film production company for profit; his intention was 
 
 Through his films, Liu wanted to showcase life as it was in Singapore and Malaya to the Chinese in China. Liu also held the view that many among his intended audience in Nanyang – the overseas Chinese – had adopted the unsavoury habits of their countrymen back home, including opium smoking, drinking, gambling and patronising prostitutes, and feudal Chinese customs such as arranged marriages for girls.
 
-<img src="/images/Vol-15-issue-3/the-making-of-xin-ke/XinKe7.JPG">
+<img style="width: 550px; height: 350px;" src="/images/Vol-15-issue-3/the-making-of-xin-ke/XinKe7.JPG">
 <div style="background-color: white;">Artist’s impression of Liu Beijin’s film studio at 58 Meyer Road in Tanjong Katong. <i>Illustration by Dan Wong.</i></div>
 
 #### **A Failed First Screening**
@@ -274,7 +274,7 @@ However, even before the screening began, an announcement was made, causing much
 
 “… someone from the company came announcing in Mandarin: ‘There are only six reels. The government didn’t pass seven, eight and nine.’ The loud and hurried tone caused quite a stir among the guests, but the announcer simply stopped at that and left. Not long after that, another representative came out and explained, in Cantonese, that for some special reasons, the three reels were banned by the censorship board and thus could not be screened together with the rest. It was then that the audience understood the reason for the delay”.[^18]
 
-<img src="/images/Vol-15-issue-3/the-making-of-xin-ke/XinKe8.JPG">
+<img style="width: 550px; height: 350px;" src="/images/Vol-15-issue-3/the-making-of-xin-ke/XinKe8.JPG">
 <div style="background-color: white;">The only extant still from <i>Xin Ke</i> showing Shen Huaqiang playing the flute while sisters Zhang Huimei and Zhang Huizhen look on admiringly, all three oblivious to the fuming Gan Fusheng (standing). <i>Sin Kuo Min Press</i>, 5 February 1927, p. 15. <i>Courtesy of NUS Libraries.</i></div>
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
@@ -364,7 +364,7 @@ For silent films produced in the 1920s, one standard reel of 1,000 ft (305 m) of
 
 The reasons for the censorship were not released, but it is believed that the Official Censor objected to the graphic scenes of violence and fighting in the last three reels. Unfortunately, all nine reels of film no longer exist. Liu had planned to shoot a revised conclusion but it is unclear whether this eventually materialised.
 
-<img src="/images/Vol-15-issue-3/the-making-of-xin-ke/XinKe9.JPG">
+<img style="width: 550px; height: 350px;" src="/images/Vol-15-issue-3/the-making-of-xin-ke/XinKe9.JPG">
 <div style="background-color: white;">Artist’s impression of Liu Beijin in front of his shophouse office at 12 Pekin Street. <i>Illustration by Dan Wong.</i></div>
 
 #### **Subsequent Screenings**
@@ -377,7 +377,7 @@ In May 1927, Liu was forced by personal circumstances to close his film producti
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
 This essay is abridged from the recently published book, <i>Xin Ke: The Story of Singapore and Malaya’s First Feature Film</i><br><br>
-<img src="/images/Vol-15-issue-3/the-making-of-xin-ke/XinKe10.JPG"><br>
+<img style="width: 350px; height: 350px;" src="/images/Vol-15-issue-3/the-making-of-xin-ke/XinKe10.JPG"><br>
 (新客: 新马首部长篇电影的故事) (2019), written by Yvonne Ng Uhde and Jan Uhde, edited by Toh Hun Ping, Lucien Low and Jocelyn Lau, and published by Kucinta Books. It retails for $28 at major bookshops and is also available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (Call nos.: RSING 791.43095957 UHD and SING 791.43095957 UHD).
 </span>
 <br>
