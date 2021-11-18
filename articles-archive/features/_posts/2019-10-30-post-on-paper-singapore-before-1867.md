@@ -17,7 +17,7 @@ The four vibrant watercolour works featured here, which exemplify Thomson’s un
 
 The 1847 painting, “Chinese Temple to the Queen of Heaven”, depicts the Thian Hock Keng temple on Telok Ayer Street. The temple began as a shrine erected around 1820–21 by Chinese immigrants from Fujian province, China, and was dedicated to Mazu, Mother of the Heavenly Sages and patron goddess of sailors. The Chinese migrants would make offerings at the shrine in gratitude for their safe passages to and from China.
 
-<img src="/images/Vol-15-issue-3/on-paper-singapore-before-1867/OnPaper2.JPG">
+<img style="width: 600px; height: 400px;" src="/images/Vol-15-issue-3/on-paper-singapore-before-1867/OnPaper2.JPG">
 <div style="background-color: white;">“Chinese Temple to the Queen of Heaven”. John Turnbull Thomson, 1847. Watercolour on paper, 15.5 x 23 cm. This is the Thian Hock Keng temple on Telok Ayer Street. Built between 1839 and 1842, it is the oldest Hokkien temple in Singapore. <i>Hocken Collections, Uare Taoka O Hākena, University of Otago, New Zealand. Hocken Collections, 92/1156.</i></div>
 
 Between 1839 and 1842, the shrine was transformed into Thian Hock Keng temple after massive construction works. The project was spearheaded by Chinese merchant Tan Tock Seng, who also funded a large portion of the construction costs. Many of the builders and artisans were brought in directly from Fujian.
@@ -26,7 +26,7 @@ Today, Thian Hock Keng remains the most important temple of Singapore’s Hokkie
 
 Thomson’s painting titled “Muslim Mosque in Campong Glam” (1846) is of special historical interest as it depicts the Masjid Sultan (Sultan Mosque) in Kampong Glam before it was replaced with the present structure we are familiar with. The earlier iteration of Sultan Mosque was a single-storey brick building that featured a tiered pyramidal roof commonly found in traditional Southeast Asian religious architecture.
 
-<img src="/images/Vol-15-issue-3/on-paper-singapore-before-1867/OnPaper3.JPG">
+<img style="width: 600px; height: 400px;" src="/images/Vol-15-issue-3/on-paper-singapore-before-1867/OnPaper3.JPG">
 <div style="background-color: white;">“Singapore Town from the Government Hill Looking Southeast”. John Turnbull Thomson, 1846. Watercolour on paper, 61 x 81.3 x 0.6 cm. <i>Hocken Collections, Uare Taoka O Hākena, University of Otago, New Zealand. Hocken Collections, 92/1217.</i></div>
 
 It was built between 1824 and 1826 by Sultan Husain, whom Stamford Raffles had installed as the Sultan of Johor in order for the 1819 Treaty of Friendship and Alliance to be signed (the treaty allowed the British East India Company, or EIC, to set up a trading post on Singapore). Land for the mosque was allocated by Raffles, who also contributed 3,000 Spanish dollars on behalf of the EIC towards its construction.
@@ -88,7 +88,7 @@ The handwritten Jawi texts of the two *syair* were discovered alongside another,
 
 Today, these texts are part of Singapore’s history and literary heritage. They provide insights into the early days of modern Singapore, and thus deserve greater recognition and appreciation.
 
-<img src="/images/Vol-15-issue-3/on-paper-singapore-before-1867/OnPaper5.JPG">
+<img style="width: 600px; height: 400px;" src="/images/Vol-15-issue-3/on-paper-singapore-before-1867/OnPaper5.JPG">
 <div style="background-color: white;">The opening page of Syair Dagang Berjual Beli (left) and Syair Potong Gaji (right). Tuan Simi, Singapore, 1830s, 22.5 x 17.5 cm. <i>Bibliothèque Nationale de France, Malayo–polynésien 96.</i></div>
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
@@ -110,7 +110,7 @@ A pencil line can be seen running through the Singapore and Melaka straits on th
 
 From Falck’s memoirs, as well as Dutch foreign ministry papers relating to the negotiations, it transpires that the scheme to carve up the Southeast Asian region – into a Dutch sphere of influence in the archipelago, and a British one on the Malay Peninsula and the mainland – came from Falck, who had earlier discussed the proposal with the Dutch king, William I. An experienced negotiator and diplomat, Falck hoped to resolve a package of outstanding trade and colonial issues with British Foreign Secretary Lord George Canning by streamlining their patchwork of possessions in Southeast Asia.
 
-<img style="width: 350px; height: 450px;" src="/images/Vol-15-issue-3/on-paper-singapore-before-1867/OnPaper7.JPG">
+<img style="width: 300px; height: 400px;" src="/images/Vol-15-issue-3/on-paper-singapore-before-1867/OnPaper7.JPG">
 <div style="background-color: white;">The Anglo-Dutch Treaty of 1824 was signed between the United Kingdom and the Netherlands in London on 17 March 1824. Written in both English and Dutch, the treaty settled the territorial and trade disputes between the two colonial powers in Southeast Asia. Shown here is the Dutch version of Article 12 of the treaty, 38 x 26 cm. <i>Nationaal Archief, 2.05.02, 79.</i></div>
 
 After the two spheres of influence were marked out, the British were persuaded to trade off their possessions and concessions on and around the island of Sumatra, namely Bencoolen (Bengkulu) and Billiton (Belitung), which were now in the Dutch sphere of influence, and exchange these for the settlements of Melaka and Singapore on the peninsula.
@@ -135,10 +135,10 @@ Although these travelogues were naturally coloured by the subjective views and v
 
 A 19th-century memoir, *Ocherki Perom i Karandashom iz Krugosvetnogo Plavaniya v 1857, 1858, 1859 i 1860 godakh* (Sketches in Pen and Pencil from a Trip Around the World in the Years 1857, 1858, 1859 and 1860), describes the voyage of the Russian naval clipper Plastun from 1857 to 1860. It stands out among European travel narratives on Singapore as it presents a rare account of early Russia-Singapore relations. Written and illustrated by the doctor on board, Aleksei Vysheslavtsev (1831–88), the memoir also contains some of the earliest views of Singapore executed by a Russian artist.
 
-<img src="/images/Vol-15-issue-3/on-paper-singapore-before-1867/OnPaper8.JPG">
+<img style="width: 600px; height: 400px;" src="/images/Vol-15-issue-3/on-paper-singapore-before-1867/OnPaper8.JPG">
 <div style="background-color: white;">Chinese in Singapore, Aleksei Vysheslavtsev, 1862. <i>National Library, Singapore, Accession no.: B34442628K.</i></div>
 <br>
-<img src="/images/Vol-15-issue-3/on-paper-singapore-before-1867/OnPaper9.JPG">
+<img style="width: 600px; height: 400px;" src="/images/Vol-15-issue-3/on-paper-singapore-before-1867/OnPaper9.JPG">
 <div style="background-color: white;">Indian Jugglers, Aleksei Vysheslavtsev, 1862. <i>National Library, Singapore, Accession no.: B34442628K.</i></div>
 
 The book traces the ship’s journey from the Russian port town of Kronstadt to the Atlantic islands, around the Cape of Good Hope, across the Indian Ocean, through the Sunda Strait to Singapore, and then on to Hong Kong, Canton, Formosa, Manchuria and the Russian Pacific Far East, where it inspected the territories that Russia had recently acquired with the signing of the Russian-Chinese Treaty of Aigun in 1858. From there, the ship sailed to Japan, where the Russians spent a year negotiating a treaty with the Japanese, before heading home. Unfortunately, the ship came to an untimely end when it was destroyed by an explosion on board. By a stroke of providence, the author lived to tell his tale as he had transferred to another vessel before disaster struck.8
@@ -165,7 +165,7 @@ However, there still remains a paucity of information on relations between Singa
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
 	<b>About the Exhibition and Book</b>
 	<br><br>
-	<img src="/images/Vol-15-issue-3/on-paper-singapore-before-1867/OnPaper11.JPG">
+	<img style="width: 320px; height: 250px;" src="/images/Vol-15-issue-3/on-paper-singapore-before-1867/OnPaper11.JPG">
 	<br>
 The exhibition “On Paper: Singapore Before 1867” takes place at level 10 of the National Library building on Victoria Street. On display are more than 150 paper-based artefacts – comprising official records, diaries and letters, books and manuscripts, maps, drawings and photographs – tracing Singapore’s history from the 17th century to its establishment as a Crown Colony of Britain on 1 April 1867.
 <br><br>
