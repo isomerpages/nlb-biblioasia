@@ -194,13 +194,15 @@ The book is not for sale but is available for reference at the Lee Kong Chian Re
 <a href="https://biblioasia.nlb.gov.sg/vol-15/issue-3/oct-dec-2019/"><center>Back to Issue</center></a>
 	
 #### **NOTES**
-[^1]:
-[^2]:
-[^3]:
-[^4]:
-[^5]:
-[^6]:
-[^7]:
-[^8]:
-[^9]:
+[^1]:Thomson, J.T. (1864). *Some glimpses into life in the Far East* (pp. 201–202). London: Richardson & Co. (Not available in NLB holdings)
+[^2]:Muhammad Haji Salleh. (1994). [*Syair tantangan Singapura abad kesembilan belas*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7382152) (p. 46) Kuala Lumpur: Dewan Bahasa dan Pustaka. (Call no.: Malay RSING S899.230081102 SYA).
+[^3]:Frost, M.R., & Balasingamchow, Y.-M. (2009). [Singapore: A biography](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13229116) (p. 107). Singapore: Editions Didier Millet & National Museum of Singapore. (Call no.: RSING 959.57 FRO).
+[^4]:[Muhammad Haji Salleh](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7382152), 1994, p. 53.
+[^5]:Tan, H. (2018). [*Tales of the Malay world: Manuscripts and early books*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203172926) (p. 54). Singapore: National Library Board. (Call no.: RSING 499.28 TAL).
+[^6]:Letter by Otto Hora Siccama to Minister Elout, dated 26 October 1858, in Cornelis Theodorus Elout. (1865). *Bijdragen tot de Geschiedenis der Onderhandelingen met Engeland betreffende de Overzeesche Bezittingen, 1820–1824 getrokken uit de nagelaten papieren* (pp. 311–312). The Hague: Martinus Nijhoff.
+[^7]:Teo, M., et al. (1987). [*Nineteenth-century prints of Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4413294) (pp. 6–14). Singapore: National Museum. (Call no.: RSING 769.4995957 TEO).
+[^8]:Wiswell, E.L. (1983). A Russian traveler’s impressions of Hawaii and Tahiti, 1859–1860. *The Hawaiian Journal of History, 17*, 76–142. Retrieved from the University of Hawaii’s eVols website; The Wayfarer’s Bookshop. (2017, December). *Exploration, travels & voyages: Books, maps & prints including Islamic and Russian items*. Retrieved from The Wayfarer’s Bookshop; Bookvica. (n.d.) [*Hong Kong & Singapore*] *Ocherki Perim i Karandashom iz Krugosvetnogo Plavaniya v 1857, 1858, 1859 I 1860 godakh* [*Sketches in pen and pencil from the circumnavigation in 1857, 1858, 1859 and 1860*]. Retrieved from Bookvica; Princeton University. (2018, February 21). *Ocherki perom i karandashem iz krugosvietnago plavaniia*. Retrieved from Graphic Arts Collection.
+[^9]:The Wayfarer’s Bookshop, Dec 2017; *Straits Settlements Records* (1864), R41, p. 232. (Microfilm no.: NL78); *Straits Settlements Records* (1864), V41, p. 113. (Microfilm no.: NL119).
 [^10]:
+
+Wiswell, 1983; The Wayfarer’s Bookshop, Dec 2017; Bookvica (n.d.), Ocherki.
