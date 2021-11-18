@@ -39,7 +39,7 @@ From its inception, the Sri Mariamman Temple has played a key role in Singapore�
 
 On the right of the painting is Jamae Mosque (Masjid Jamae), which was completed in 1833 to replace the original wood-and-attap mosque built by the Chulia (Tamil Muslim) community, led by Anser Saib, in the late 1820s. Today, the mosque’s distinctive twin minarets continue to be a landmark on South Bridge Road, but the lush greenery surrounding the temple and its spacious frontage seen in Thomson’s painting have given way to shophouses and a busy vehicular thoroughfare.
 
-<img src="/images/Vol-15-issue-3/on-paper-singapore-before-1867/OnPaper4.JPG">
+<img style="width: 600px; height: 400px;" src="/images/Vol-15-issue-3/on-paper-singapore-before-1867/OnPaper4.JPG">
 <div style="background-color: white;">“Hindoo Pagoda and (Chulia) Mosque, Singapore”. John Turnbull Thomson, 1846. Watercolour on paper, 15.4 x 22.8 cm. On the left is the three-tiered gopuram (pyramidal entrance tower) of the original Sri Mariamman Temple. It was replaced in 1925 with the temple’s present five-tiered tower. Next to it is Masjid Jamae (Chulia), built in 1835 by the Tamil Muslim community. Both buildings are found on South Bridge Road. <i>Hocken Collections, Uare Taoka O Hākena, University of Otago, New Zealand. Hocken Collections, 92/1158.</i></div>
 
 Thomson’s works also include sweeping views of Singapore from various vantage points. In his 1846 painting, titled “Singapore Town from the Government Hill Looking Southeast”, the viewer is positioned on what is now Fort Canning Hill, overlooking the Singapore River. Densely built shophouses and godowns can be seen along the river at Boat Quay, while a number of expansive bungalows, occupied mostly by Europeans, are found by the seafront north of the river.
@@ -110,7 +110,7 @@ A pencil line can be seen running through the Singapore and Melaka straits on th
 
 From Falck’s memoirs, as well as Dutch foreign ministry papers relating to the negotiations, it transpires that the scheme to carve up the Southeast Asian region – into a Dutch sphere of influence in the archipelago, and a British one on the Malay Peninsula and the mainland – came from Falck, who had earlier discussed the proposal with the Dutch king, William I. An experienced negotiator and diplomat, Falck hoped to resolve a package of outstanding trade and colonial issues with British Foreign Secretary Lord George Canning by streamlining their patchwork of possessions in Southeast Asia.
 
-<img src="/images/Vol-15-issue-3/on-paper-singapore-before-1867/OnPaper7.JPG">
+<img style="width: 350px; height: 450px;" src="/images/Vol-15-issue-3/on-paper-singapore-before-1867/OnPaper7.JPG">
 <div style="background-color: white;">The Anglo-Dutch Treaty of 1824 was signed between the United Kingdom and the Netherlands in London on 17 March 1824. Written in both English and Dutch, the treaty settled the territorial and trade disputes between the two colonial powers in Southeast Asia. Shown here is the Dutch version of Article 12 of the treaty, 38 x 26 cm. <i>Nationaal Archief, 2.05.02, 79.</i></div>
 
 After the two spheres of influence were marked out, the British were persuaded to trade off their possessions and concessions on and around the island of Sumatra, namely Bencoolen (Bengkulu) and Billiton (Belitung), which were now in the Dutch sphere of influence, and exchange these for the settlements of Melaka and Singapore on the peninsula.
@@ -155,7 +155,7 @@ By and large, Russia has occupied a marginal place in the scholarship on Europea
 
 Russia actively sought to protect its shipping routes and extend its influence in the region from the early 19th century. From the 1850s, Russian vessels started using Singapore as a provisioning and coaling station. In the 1870s, the Russian anthropologist Nikolai Miklouho-Maclay embarked on a scientific expedition to study the Orang Asli in the Malay Peninsula and his findings were published in the *Journal of the Straits Branch of the Royal Asiatic Society in Singapore*.12 In 1881, K.A. Skalkovsky published an account of a Russian trade mission and survey of the Pacific, which included Singapore.13
 
-<img src="/images/Vol-15-issue-3/on-paper-singapore-before-1867/OnPaper10.JPG">
+<img style="width: 600px; height: 400px;" src="/images/Vol-15-issue-3/on-paper-singapore-before-1867/OnPaper10.JPG">
 <div style="background-color: white;">Two Chinese Men on a Bridge, Aleksei Vysheslavtsev, 1862. <i>National Library, Singapore, Accession no.: B34442628K.</i></div>
 
 However, there still remains a paucity of information on relations between Singapore and Russia until a Russian consulate was formally established in Singapore in 1890 and began submitting regular consular reports on bilateral affairs. Given the dearth of literature, the writings of Vysheslavtsev and Goncharov are valuable for their historical research on the interactions between Tsarist Russia and British-controlled Singapore in the *longue durée* of Russia-Singapore relations.14
