@@ -320,3 +320,19 @@ This essay is abridged from the recently published book, <i>Xin Ke: The Story of
 [^8]:Peranakan men are known as *baba*, while the women are referred to as *nonya*. In this context, the reference is to Peranakans in general.
 [^9]:Tan, B.L. (Interviewer). (1982, December 30). [*Oral history interview with Liu Kang 刘抗*](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e0716362-115d-11e3-83d5-0050568939ad-OHC000171_032/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png) [Transcript of recording no. 000171/74/32, pp. 293–297]. Retrieved from National Archives of Singapore website.
 [^10]:Liu, B.J. (1926, July 20). 《破天荒:南洋刘贝锦自制影片公司宣言》 [Manifesto: A public notice by Nanyang Liu Beijin Independent Film Production Company]. *Sin Kuo Min Press*, p. 12. (Microfilm no.: NL33031)
+[^11]:《南洋刘贝锦自制影片公司启事》 [Notice from Nanyang Liu Beijin Independent Film Production Company]. (1927, March 1). *Sin Kuo Min Press*, p. 6. (Microfilm no.: NL33031) Preview or test screenings were usually held prior to the general release of a film to gauge audience response and might lead to changes in the film, such as the title, music and scenes. However, the “preview” screening of *Xin Ke* functioned more like a premiere as it was held in a grand venue with the cast, crew and press in attendance.
+[^12]:*Sin Kuo Min Press*, 1 Mar 1927, p. 6; Extract from 《显微镜》 [Microscope]. (1927, March 12). The Joke of Xin Ke. *Marlborough Weekly*, 23, p. 2 (Part 1); 《显微镜》 [Microscope]. (1927, March 19). *Marlborough Weekly*, 24, p. 2 (Part 2). (Not available in NLB holdings)
+[^13]:*Xin Ke Special Issue* appears to be no longer extant.
+[^14]:[Victoria Theatre](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19090201-1.2.82). (1909, February 1). *The Straits Times*, p. 8. Retrieved from NewspaperSG.
+[^15]:《贺嘉》 [He, J.]. (1927, March 7). 《[银幕消息：观「新客」试映记](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19270307-1.2.11)》 [Watching a preview of *Xin Ke*]. *Nanyang Siang Pau*, p. 4. Retrieved from NewspaperSG.
+[^16]:This is an English translation. See [*Nanyang Siang Pau*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19270307-1.2.11), 7 Mar 1927, p. 4.
+[^17]:《显微镜》 [Microscope], 12 Mar 1927, p. 2.
+[^18]:
+
+
+
+
+
+
+
+This is an English translation. See 《显微镜》 [Microscope], 12 Mar 1927, p. 2.
