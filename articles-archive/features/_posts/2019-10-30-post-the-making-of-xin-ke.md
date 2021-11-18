@@ -281,6 +281,30 @@ However, even before the screening began, an announcement was made, causing much
 
 </span>
 
+For silent films produced in the 1920s, one standard reel of 1,000 ft (305 m) of 35 mm film ran at approximately 16 frames per second, which meant that each reel was around 15 minutes long. The exclusion of three entire reels caused about 45 minutes of the film to be excised. Not surprisingly, the removal of the film’s conclusion affected the storyline and cast a pall on the viewing experience.
 
+The reasons for the censorship were not released, but it is believed that the Official Censor objected to the graphic scenes of violence and fighting in the last three reels. Unfortunately, all nine reels of film no longer exist. Liu had planned to shoot a revised conclusion but it is unclear whether this eventually materialised.
 
+<img src="/images/Vol-15-issue-3/the-making-of-xin-ke/XinKe9.JPG">
+<div style="background-color: white;">Artist’s impression of Liu Beijin in front of his shophouse office at 12 Pekin Street. <i>Illustration by Dan Wong.</i></div>
 
+#### **Subsequent Screenings**
+
+Shortly after that failed first screening, it is likely that *Xin Ke* continued to be shown in cinemas in Singapore, but so far there has been no documentary evidence to support this. More certain is the fact that screenings took place in Kuala Lumpur, Melaka and Hong Kong.
+
+In Kuala Lumpur, the film was screened on 27 May 1927 at the Empire Theatre (also known as Yi Jing Garden Cinema), but attendance was dismal. The film similarly met with little enthusiasm in Melaka. Over in Hong Kong, the film was shown at Kau Yue Fong Theatre under a different title, *Tangshan Lai Ke* (唐山来客), from 29 April to 2 May 1927. It is not clear if the film was also censored or whether it garnered more favourable reviews.
+
+In May 1927, Liu was forced by personal circumstances to close his film production company for good. He had planned to produce a second feature, *A Difficult Time* (行不得也哥哥), but shooting was never completed. Liu tried to revive his film production business in 1929, but he would not make another motion picture again.
+
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
+This essay is abridged from the recently published book, <i>Xin Ke: The Story of Singapore and Malaya’s First Feature Film</i><br><br>
+<img src="/images/Vol-15-issue-3/the-making-of-xin-ke/XinKe10.JPG"><br>
+(新客: 新马首部长篇电影的故事) (2019), written by Yvonne Ng Uhde and Jan Uhde, edited by Toh Hun Ping, Lucien Low and Jocelyn Lau, and published by Kucinta Books. It retails for $28 at major bookshops and is also available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (Call nos.: RSING 791.43095957 UHD and SING 791.43095957 UHD).
+</span>
+<br>
+<div style="background-color: white;">
+<img src="/images/Vol-15-issue-3/" style="width: 100px; height: 100px;">
+<b>Jocelyn Lau</b> is a an editor and a writer with postgraduate qualifications in publishing. She is the co-publisher of Kucinta Books.
+</div>
+
+<a href="https://biblioasia.nlb.gov.sg/vol-15/issue-3/oct-dec-2019/"><center>Back to Issue</center></a>
