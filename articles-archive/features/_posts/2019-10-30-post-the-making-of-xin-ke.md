@@ -8,5 +8,3 @@ layout: post
 
 <img src="/images/Vol-15-issue-3/the-making-of-xin-ke/XinKe1.JPG">
 <div style="background-color: white;">Lead actor Zheng Chaoren (seated, wearing hat) who played the role of Shen Huaqiang, with other Xin Ke cast and crew members, 1926. <i>Courtesy of 玉山社 (1998).</i></div>
-
-
