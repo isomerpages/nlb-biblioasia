@@ -321,6 +321,42 @@ However, even before the screening began, an announcement was made, causing much
 <td>Huang Mengmei (黄梦梅)	</td>
 <td>Gan Fusheng (甘福胜)</td>
 </tr>
+		<tr>
+<td>Tan Minxing (谭民兴)		</td>
+<td>Zhao (Gan Fusheng’s mother) (赵氏; 甘福胜之母)</td>
+</tr>
+		<tr>
+<td>Yi Chi (一痴)	</td>
+<td>	Kang Ziming (康子明)</td>
+</tr>
+		<tr>
+<td>Kang Xiaobo (康笑伯)	</td>
+<td>Yujuan (玉娟)</td>
+</tr>
+		<tr>
+<td>Xiao Qian (笑倩)		</td>
+<td>Zhao Bing (赵丙)</td>
+</tr>
+		<tr>
+<td>Fang Zhitan (方之谈)		</td>
+<td>Old farmer (老农)</td>
+</tr>
+		<tr>
+<td>Zheng Chongrong (郑崇荣)		</td>
+<td>Female student (女学生)</td>
+</tr>
+		<tr>
+<td>Chen Mengru (陈梦如)		</td>
+<td>Guest (贺客)</td>
+</tr>
+		<tr>
+<td>Zhou Zhiping (周志平)		</td>
+<td>Guest (贺客)</td>
+</tr>
+		<tr>
+<td>Zhang Qinghua (张清华)</td>
+<td>Guest (贺客)</td>
+</tr>
 	</table>
 </span>
 
