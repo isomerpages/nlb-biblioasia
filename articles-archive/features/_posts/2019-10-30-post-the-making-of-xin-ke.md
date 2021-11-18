@@ -36,5 +36,18 @@ Liu Beijin led a very comfortable lifestyle while growing up. He was born in Sin
 
 Liu was an amiable, well-educated and socially conscious person. He was also a polyglot – fluent in six languages, including English, Mandarin and Malay – and enjoyed dabbling in both business and the arts, particularly motion pictures.
 
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
+	<b>Intertitles from Xin Ke</b>
+	<br><br>
+In order to reach wider audiences, many silent Chinese movies exported from Shanghai in the 1920s and early 1930s for screening in the international market contained both Chinese and English intertitles.5
+<br><br>
+	Likewise, <i>Xin Ke</i> had both Chinese and English intertitles, although only the Chinese texts are still extant. The list of employees who worked on Xin Ke included one person who wrote the Chinese intertitles and another who did the English translation.
+<br><br>
+The English intertitles numbered 6 to 52, which are reproduced below, have been translated from the extant Chinese intertitles rendered in traditional Chinese characters.
+<br><br>
+Revised from a script originally written by Chen Xuepu (陈学溥), these title cards were published together with the film’s synopsis in the local newspaper, <i>Sin Kuo Min Press</i> (新国民日报), on 26 November 1926. When the screenplay underwent a second revision and was published in 1927, the new intertitles were – as far as present research has revealed – not included alongside the synopsis.
+</span>
+
+
 <img src="/images/Vol-15-issue-3/the-making-of-xin-ke/XinKe4.JPG">
 <div style="background-color: white;">An example of a film title card in Chinese and English from the 1920s. Illustration by Dan Wong, based on a still from Hou Yao’s film, A Poet from the Sea (1927).</i></div>
