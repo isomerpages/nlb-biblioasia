@@ -1,10 +1,10 @@
 ---
 title: "文言与白话的抗争与磨合: 近代华文教学语体的蜕变历程 (Classical and Modern Chinese Education)"
 date: 2018-04-30
-permalink: /vol-14/issue-1/apr-jun-2018/chinese-war-language/
-image: /images/Vol-14-issue-1/chinese/Chinese1.jpg
+permalink: /vol-14/issue-1/apr-jun-2018/chinese-education/
 layout: post
 ---
+
 
 #### Classical and Modern Chinese education in Mainland China and Taiwan has been debated for over a century. **Chua Chee Lay** analyses its development and provides valuable lessons from history.
 
