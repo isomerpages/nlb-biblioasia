@@ -46,7 +46,7 @@ Gastaldi’s later Southeast Asian map, <i>Terza Tavola</i>, again refers to Sin
 <br><br>
 Although an improvement from previous Ptolemaic maps, Gastaldi still refers to Sumatra and Borneo by their Ptolemaic names of Taprobana and Java Menore.
 <br><br>
-<img src="/images/vol-10-issue-4/raremap/Terza_tavola.jpg">*Terza Tavola*, Giacomo Gastaldi for Giovanni Battista Ramusio (Venice, circa 1563). Note: the map is oriented with the south at the top.</span>
+<img style="width:70%"src="/images/vol-10-issue-4/raremap/Terza_tavola_re.jpg">*Terza Tavola*, Giacomo Gastaldi for Giovanni Battista Ramusio (Venice, circa 1563). Note: the map is oriented with the south at the top.</span>
 
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> 
 <b>ABRAHAM ORTELIUS</b>
@@ -61,7 +61,7 @@ Below Java, at the southern end of the map, a part of Terra Australis Incognita 
 <br><br>
 First produced in 1570, Ortelius' atlas was reprinted in various European languages.
 <br><br>
-<img src="/images/vol-10-issue-4/raremap/Indiae_orientalis.jpg">*Indiae orientalis, insularumque adiacientium typus,* Abraham Ortelius (Antwerp, 1579)</span>
+<img style="width:70%" src="/images/vol-10-issue-4/raremap/Indiae_orientalis_re.jpg">*Indiae orientalis, insularumque adiacientium typus,* Abraham Ortelius (Antwerp, 1579)</span>
 
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> 
 <b>THEODORE DE BRY</b>
