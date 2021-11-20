@@ -2,6 +2,7 @@
 title: The A(YE), B(KE) and C(TE) of Expressways
 date: 2018-07-31
 permalink: /vol-14/issue-2/jul-sep-2018/AYE-BKE-CTE-expways/
+image: /images/Vol-14-issue-2/the-aye-bke-and-cte-of-expways/Road1.JPG
 layout: post
 ---
 #### **Lim Tin Seng** charts the history of Singapore’s expressways, from the oldest Pan-Island Expressway, built in the 1960s to the newest Marina Coastal Expressway.

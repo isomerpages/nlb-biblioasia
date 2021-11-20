@@ -3,6 +3,7 @@ title: History Through Postcards
 date: 2020-04-01T00:00:00.000Z
 permalink: /vol-16/issue-1/apr-jun-2020/history-through-postcards
 third_nav_title: History Through Postcards
+image: /images/Vol-16-issue-1/Postcards/Malay_Village.png
 ---
 
 <style>

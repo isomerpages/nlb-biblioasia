@@ -2,6 +2,7 @@
 title: "The National Library's Rare Maps Collection "
 date: 2015-01-01
 permalink: /vol-10/issue-4/jan-march-2015/rare-map
+image: /images/vol-10-issue-4/raremap/wall_map.jpg
 layout: post
 ---
 #### The National Library has a collection of rare maps dating back to the 15th century. **Makeswary Periasamy** shares the significance and history of these maps and their makers. 
@@ -39,20 +40,20 @@ The National Library’s collection of rare maps is an important source for the 
 <b>GIACOMO GASTALDI</b>
 <br><br>
 Giacomo Gastaldi (circa 1500–65) was a Venetian cartographer, astronomer and engineer who was considered one of the most important cartographers of his time. He reintroduced copper engraving for maps, hence creating more detailed maps in the process. Prior to this, maps were printed from woodcuts. His world map, printed in 1546, names the southern portion of the Malay Peninsula as "C. Cin Copula", an early, albeit, incorrect reference to Singapore as a cape.
-<img src="/images/vol-10-issue-4/raremap/gerard_re.jpg">Portrait engraving of Dutch cartographer Gerard Mercator, circa 1739. *Wikimedia Commons.*
+<img style="width:30%" src="/images/vol-10-issue-4/raremap/Gerard_Mercator_re1.jpg">Portrait engraving of Dutch cartographer Gerard Mercator, circa 1739. *Wikimedia Commons.*
 <br><br>
 Gastaldi’s later Southeast Asian map, <i>Terza Tavola</i>, again refers to Singapore as a cape (C. de cim capula). The Malay Peninsula is slanted towards the east, with its lower tip (Muar) separated from the mainland. The map, with no title but simply called the “third map” (or “Terza Tavola”), was printed in Giovanni Battista Ramusio’s collection of voyages and travels.[^3]
 <br><br>
 Although an improvement from previous Ptolemaic maps, Gastaldi still refers to Sumatra and Borneo by their Ptolemaic names of Taprobana and Java Menore.
 <br><br>
-<img src="/images/vol-10-issue-4/raremap/Terza_tavola.jpg">*Terza Tavola*, Giacomo Gastaldi for Giovanni Battista Ramusio (Venice, circa 1563). Note: the map is oriented with the south at the top.</span>
+<img style="width:70%"src="/images/vol-10-issue-4/raremap/Terza_tavola_re.jpg">*Terza Tavola*, Giacomo Gastaldi for Giovanni Battista Ramusio (Venice, circa 1563). Note: the map is oriented with the south at the top.</span>
 
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> 
 <b>ABRAHAM ORTELIUS</b>
 <br><br>
 Abraham Ortelius (1527–98), a leading Flemish cartographer, was a map dealer and publisher. During the 1560s, he collected maps and details of their sources and commissioned new printing plates for them. His 1570 atlas, the <i>Theatrum Orbis Terrarum (Theatre of the World)</i>, was hailed as the first comprehensive, modern atlas of the world in which all the maps were of uniform size and format.[^5]
 <br><br>
-<img src="/images/vol-10-issue-4/raremap/Abraham_re.jpg">Portrait of Abraham Ortelius by Peter Paul Rubens. *Wikimedia Commons*
+<img style="width:30%" src="/images/vol-10-issue-4/raremap/Abraham_Ortelius_by_Peter_Paul_Rubens_re1.jpg">Portrait of Abraham Ortelius by Peter Paul Rubens. *Wikimedia Commons*
 <br><br>
 Ortelius' map features Southeast Asia, Japan, the Philippines and part of the west coast of America. The map also features the Indonesian Spice Islands, with accompanying text that describes the spices produced. Despite European explorations in the region, Ortelius' map contains a few inaccuracies: Sumatra and Java are depicted as being much larger than they actually are while the Philippines is featured without its northern island of Luzon. Singapore (Cincapura) is identified as a town on the promontory of the Malay Peninsula.
 <br><br>
@@ -60,14 +61,14 @@ Below Java, at the southern end of the map, a part of Terra Australis Incognita 
 <br><br>
 First produced in 1570, Ortelius' atlas was reprinted in various European languages.
 <br><br>
-<img src="/images/vol-10-issue-4/raremap/Indiae_orientalis.jpg">*Indiae orientalis, insularumque adiacientium typus,* Abraham Ortelius (Antwerp, 1579)</span>
+<img style="width:70%" src="/images/vol-10-issue-4/raremap/Indiae_orientalis_re.jpg">*Indiae orientalis, insularumque adiacientium typus,* Abraham Ortelius (Antwerp, 1579)</span>
 
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> 
 <b>THEODORE DE BRY</b>
 <br><br>
 Theodore de Bry (1528–98) was a Flemish engraver, illustrator, printmaker and publisher who was trained as a goldsmith and engraver. De Bry created many fine engravings to illustrate travel books and published several illustrated works (originally in Latin but later translated into German, English and French) that were a useful reference for Europeans about the Americas and the new places they depicted.[^7]
 <br><br>
-<img src="/images/vol-10-issue-4/raremap/theodor_re.jpg">A portrait of Theodore de Bry. *Wikimedia Commons.*
+<img style="width:30%" src="/images/vol-10-issue-4/raremap/Theodor_de_Bry_self_portrait_1597_re1.jpg">A portrait of Theodore de Bry. *Wikimedia Commons.*
 <br><br>
 He is famous for compiling a well-illustrated collection of voyages and travels to the East and West Indies, which were categorised into two distinct series: the <i>Grands Voyages</i>, which started in 1590 and covered America, and the <i>Petits Voyages</i>, which began in 1598 and covered Asia and Africa.[^8]
 <br><br>
@@ -79,14 +80,14 @@ Interestingly, the map depicts a trans-peninsular waterway bisecting the Malay P
 <br><br>
 Lodewijcksz's map was suppressed by Dutch merchants who did not wish to reveal the sailing routes to the lucrative ports of Southeast Asia. But it was published later in the same year by de Bry in <i>Petits Voyages</i>.[^10]
 <br><br>
-<img src="/images/vol-10-issue-4/raremap/Nova_tabula.jpg">*Nova tabula insularum Iavae, Sumatrae, Borneonis et aliarum Malaccam usque, delineata in insula Iava, ubi ad vivum designantur vada et brevia scopulique interjacentes descripta* l G.M.A.L., Theodore de Bry, after Willem Lodewijcksz (Frankfurt, 1598).</span>
+<img style="width:70%"src="/images/vol-10-issue-4/raremap/Nova_tabula_res.jpg">*Nova tabula insularum Iavae, Sumatrae, Borneonis et aliarum Malaccam usque, delineata in insula Iava, ubi ad vivum designantur vada et brevia scopulique interjacentes descripta* l G.M.A.L., Theodore de Bry, after Willem Lodewijcksz (Frankfurt, 1598).</span>
 
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> 
 <b>SEBASTIAN MÜNSTER</b>
 <br><br>
 Sebastian Münster (1489–1552) was a German Professor of Hebrew, a famous mathematician, geographer and a leading map-maker. He is usually regarded as the most important map-maker of the 16th century. 
 <br><br>
-<img src="/images/vol-10-issue-4/raremap/sebastien_re.jpg">Portrait of Sebastian Münster by Christoph Amberger, c. 1552. *Wikimedia Commons.*
+<img style="width:30%" src="/images/vol-10-issue-4/raremap/Portrait_of_the_Cosmographer_Sebastien_Munster_WGA_re1.jpg">Portrait of Sebastian Münster by Christoph Amberger, c. 1552. *Wikimedia Commons.*
 <br><br>
 Münster was widely known for <i>Cosmographia</i>, first published in 1544, which features several woodcut maps illustrated with vignettes and fanciful creatures.[^12] He was also the first to introduce a separate map for each of the four continents – Europe, Africa, Asia and America – known then.[^13]
 <br><br>
@@ -94,14 +95,14 @@ This map was published in Münster's 1540 <i>Geographia Universalis</i>, which w
 <br><br>
 The shape of the Malay Peninsula is much improved, with only the city of Malaqua (Malacca) named.[^14] Until the 17th century, most maps named the southern part of the Peninsula as Malacca, an “exaggeration of the real extent of European influence and control”.[^15] Malacca was strategically located in the middle of important sea routes and the Portuguese took control of it in 1511. By the end of 1500s, Malacca had become one of the key trading ports of the world.[^16] Notably, there was no incentive to map the remaining interior of the Malay Peninsula.
 <br><br>
-<img src="/images/vol-10-issue-4/raremap/Inida_extrema.jpg">*India Extrema XIX nova tabula* by Sebastian Münster (Basle, 1540).</span>
+<img style="width:70%"src="/images/vol-10-issue-4/raremap/Inida_extrema_re.jpg">*India Extrema XIX nova tabula* by Sebastian Münster (Basle, 1540).</span>
 
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> 
 <b>SAMUEL THORNTON</b>
 <br><br>
 Samuel Thornton (fl. 1703–39) was an English hydrographer.[^17] His father, John Thornton was the official hydrographer to the British East India Company in the 17th century who collaborated with John Seller to produce the first English sea atlas, <i>The English Pilot</i>. <i>The Pilot</i> was to be produced as four parts, with <i>The Third Book</i> concentrating on "Oriental navigation". Eventually titled as <i>Oriental Navigation</i>, this book was subsequently completed by John Thornton's son (who shared the same name) in 1703.[^18]
 <br><br>
-<img src="/images/vol-10-issue-4/raremap/thornton_re.jpg">Portrait of Samuel Thornton by Karl Anton Hickel. *Collection of Bank of England*.
+<img style="width:30%" src="/images/vol-10-issue-4/raremap/SamuelThornton_re2.jpg">Portrait of Samuel Thornton by Karl Anton Hickel. *Collection of Bank of England*.
 <br><br>
 Samuel Thornton took over his brother’s business in 1706 and re-issued the charts under his own name. The chart below is from Samuel Thornton’s re-issue of <i>Oriental Navigation</i>, which describes the passage through the Singapore Strait clearly. The chart identifies the island of Singapore as the Old Streights of Sincapura, an indication that the name Singapore or its variant terms in early European sources were more often a reference to the sea passage rather than to the island or city.
 <br><br>

@@ -2,6 +2,7 @@
 title: Maps as Statements of Power and Domination
 date: 2015-01-01
 permalink: /vol-10/issue-4/jan-march-2015/map-as-statement
+image: /images/vol-10-issue-4/statementsofpoweranddomination/batik.jpg
 layout: post
 ---
 #### Drawing from his personal collection of maps amassed over three decades, **Dr Farish A. Noor** invites us to truly read maps and look beyond their geographical boundaries.

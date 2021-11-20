@@ -2,6 +2,7 @@
 title: The Istana Turns 150
 date: 2020-01-21
 permalink: /vol-15/issue-4/jan-mar-2020/istana-turns-150/
+image: /images/Vol-15-issue-4/the-istana-turns-150/Istana1.JPG
 layout: post
 ---
 ##### The resplendent Istana – where colonial governors and modern-day presidents once lived – celebrated its 150th anniversary in 2019. **Wong Sher Maine** recounts key moments in its history.

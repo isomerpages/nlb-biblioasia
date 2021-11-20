@@ -2,6 +2,7 @@
 title: "Suratman Markasan: Malay Literature and Social Memory"
 date: 2014-04-01
 permalink: /vol-10/issue-1/apr-jun-2014/suratman
+image: /images/vol-10-issue-1/suratman/suratman.jpg
 layout: post
 ---
 #### **Azhar Ibrahim** examines how the illustrious Malay writer Suratman Markasan uses literature as a means to propagate ideas and mark signposts in our social memory. 

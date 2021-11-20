@@ -2,6 +2,7 @@
 title: "Writing from the Periphery: Dorothy Cator in British North Borneo"
 date: 2014-10-01
 permalink: /vol-10/issue-3/oct-dec-2014/dorothy-cator
+image: /images/vol-10-issue-3/dorothycator/cover.jpg
 layout: post
 ---
 #### **Janice Loo** explains how the travel writings by women such as Dorothy Cator reveal the complex relationships between colonisers and the colonised.

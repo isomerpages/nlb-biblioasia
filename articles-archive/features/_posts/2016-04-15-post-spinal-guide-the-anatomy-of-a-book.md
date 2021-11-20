@@ -2,6 +2,7 @@
 title: "Spinal Guide: The Anatomy of a Book"
 date: 2016-04-15
 permalink: /vol-12/issue-1/apr-jun-2016/spinal-guide
+image: /images/Vol-12-issue-1/spinal_guide.jpg
 layout: post
 ---
 

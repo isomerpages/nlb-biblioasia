@@ -2,6 +2,7 @@
 title: "First Words:   Women Poets from  Singapore "
 date: 2014-04-01
 permalink: /vol-10/issue-1/apr-jun-2014/first-women-poets
+image: /images/vol-10-issue-1/womenpoets/Hedwig_Anuar.jpg
 layout: post
 ---
 #### Poems written by Singapore’s women writers in the 1950s to 1970s depict both their personal and national struggles. **Gracie Lee** highlights these poets and the literary works that captured the sentiment of the times.

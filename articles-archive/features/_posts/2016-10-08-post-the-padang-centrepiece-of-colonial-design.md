@@ -2,6 +2,7 @@
 title: "The Padang: Centrepiece of Colonial Design"
 date: 2016-10-08
 permalink: /vol-12/issue-3/oct-dec-2016/the-padang
+image: /images/Vol-12-issue-3/the-padang/03-The-Padang.jpg
 layout: post
 ---
 #### This expanse of green fringed by grand colonial edifices in the city centre is a statement of British might, as **Lai Chee Kien** tells us.

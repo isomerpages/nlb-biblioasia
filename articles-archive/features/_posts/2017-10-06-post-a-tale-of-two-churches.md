@@ -2,6 +2,7 @@
 title: A Tale of Two Churches
 date: 2017-10-06
 permalink: /vol-13/issue-3/oct-dec-2017/tale-of-two-churches
+image: /images/Vol-13-issue-3/a-tale-of-two-churches/01_churches.jpg
 layout: post
 ---
 #### Penang’s Armenian church was demolished in the early 1900s while the one in Singapore still thrives. **Nadia Wright** looks at the vastly different fates of these two churches.

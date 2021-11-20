@@ -2,6 +2,7 @@
 title: Over Orchard
 date: 2014-10-01
 permalink: /vol-10/issue-3/oct-dec-2014/over-orchard
+image: /images/vol-10-issue-3/overorchard/orchard_road.jpg
 layout: post
 ---
 #### Orchard Road as we know it today is a far cry from its quiet beginnings as a plantation and residential area. **Fiona Tan** takes us back in time to revisit some of Orchard’s most distinctive landmarks.

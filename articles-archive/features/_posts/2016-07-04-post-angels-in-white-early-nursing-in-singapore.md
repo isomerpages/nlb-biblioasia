@@ -2,6 +2,7 @@
 title: "Angels in White: Early Nursing in Singapore"
 date: 2016-07-04
 permalink: /vol-12/issue-2/jul-sep-2016/angels-in-white
+image: /images/Vol-12-issue-2/angels-in-white/02-angelsinwhite.jpg
 layout: post
 ---
 #### In the 1820s, some “nurses” in Singapore were actually chained convicts. **Pattarin Kusolpalin** chronicles the history of nursing from 1819 until Independence.

@@ -2,6 +2,7 @@
 title: Index to Singapore Information
 date: 2016-07-02
 permalink: /vol-12/issue-2/jul-sep-2016/index-singapore-info
+image: /images/Vol-12-issue-2/index-to-singapore-information/01-indextosingapore.jpg
 layout: post
 ---
 #### This useful index serves as the gateway to Singapore-related articles published in periodicals. **Leong Hui Chuan** and **Chris Tang** explain its value.

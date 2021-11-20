@@ -2,6 +2,7 @@
 title: Seni Persembahan Bangsawan
 date: 2016-04-06
 permalink: /vol-12/issue-1/apr-jun-2016/seni-persembahan
+image: /images/Vol-12-issue-1/seni-persembahan-bangsawan/01-seni.jpg
 layout: post
 ---
 <div style="background-color: white;"><br><img src="/images/Vol-12-issue-1/seni-persembahan-bangsawan/01-seni.jpg">Pementasan bangsawan <i>Raden Mas</i> pada 15–17 Januari 2016 di Teater Esplanade. <i>Ihsan Sri Mamanda Bangsawan Pte Ltd.</i></div>

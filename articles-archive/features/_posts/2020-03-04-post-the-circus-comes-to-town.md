@@ -4,6 +4,7 @@ date: 2015-10-01T00:00:00.000Z
 permalink: /vol-11/issue-3/oct-dec-2015/circus
 breadcrumb: The Circus Comes to Town
 third_nav_title: The Circus Comes to Town
+image: \images\Vol-11-issue-3\circus\Dancers.jpg
 ---
 <style>
 table { 

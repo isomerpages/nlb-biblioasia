@@ -2,6 +2,7 @@
 title: "Ties that Bind: The Story of Two Brother Poets"
 date: 2017-01-08
 permalink: /vol-12/issue-4/jan-mar-2017/ties-that-bind
+image: /images/Vol-12-issue-4/ties-that-bind/1-findingfrancis01.png
 layout: post
 ---
 #### An American Studies scholar unravels a decades-old mystery surrounding a bone fragment and uncovers a brotherly bond from beyond the grave. **Michelle Heng** has the story.

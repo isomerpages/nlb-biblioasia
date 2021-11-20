@@ -2,6 +2,7 @@
 title: "Points of Departure: Charting Memories Through Collective Imaginations"
 date: 2015-01-01
 permalink: /vol-10/issue-4/jan-march-2015/points-of-departure
+image: /images/vol-10-issue-4/pointsofdeparture/ChangiTriptych_1_FP2_re.jpg
 layout: post
 ---
 <div style="background-color: white;">

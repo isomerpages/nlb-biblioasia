@@ -2,6 +2,7 @@
 title: "Kampong Living: A–Z"
 date: 2014-01-01
 permalink: /vol-9/issue-4/jan-march-2014/kampong-living
+image: /images/vol-9-issue-4/kampong/trained_midwife.jpg
 layout: post
 ---
 #### **Singapore is a City that Rarely Sleeps**

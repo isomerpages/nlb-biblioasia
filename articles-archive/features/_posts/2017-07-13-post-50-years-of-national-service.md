@@ -2,6 +2,7 @@
 title: 50 Years of National Service
 date: 2017-07-13
 permalink: /vol-13/issue-2/jul-sep-2017/50years-of-ns
+image: /images/Vol-13-issue-2/50-years-of-ns/01a_ns.png
 layout: post
 ---
 #### National Service is a rite of passage for Singaporean men when they come of age. **Sharen Chua** shares highlights of books on National Service in the Legal Deposit Collection.

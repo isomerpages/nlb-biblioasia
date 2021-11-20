@@ -2,6 +2,7 @@
 title: "Reel Life Singapore: The Films of Clyde E. Elliott"
 date: 2017-07-09
 permalink: /vol-13/issue-2/jul-sep-2017/reel-life-singapore
+image: /images/Vol-13-issue-2/reel-life-singapore/01_reellife.jpg
 layout: post
 ---
 #### Clyde Elliott was the first Hollywood director to shoot a feature film in Singapore. **Chua Ai Lin** examines the authenticity of the three movies he produced here in the 1930s.

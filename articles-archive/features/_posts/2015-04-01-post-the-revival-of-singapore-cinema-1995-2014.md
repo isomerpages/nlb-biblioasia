@@ -2,6 +2,7 @@
 title: "The Revival of Singapore Cinema:  1995–2014"
 date: 2015-04-01
 permalink: /vol-11/issue-1/apr-jun-2015/revival-sg-cinema
+image: /images/vol-11-issue-1/revivalofsgcinema/bg4.jpg
 layout: post
 ---
 #### Singapore’s film industry gets a reboot as it enters a new phase of its development. **Raphaël Millet** explains how this resurgence came about.

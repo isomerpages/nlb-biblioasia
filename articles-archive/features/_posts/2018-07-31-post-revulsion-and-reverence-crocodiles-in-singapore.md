@@ -2,6 +2,7 @@
 title: "Revulsion and Reverence: Crocodiles in Singapore"
 date: 2018-07-31
 permalink: /vol-14/issue-2/jul-sep-2018/revulsion-n-reverenc/
+image: /images/Vol-14-issue-2/revulsion-and-reverence/Croc1.JPG
 layout: post
 ---
 #### Crocodiles elicit fear and respect by turns – and occasionally, even indifference. **Kate Pocklington** and **Siddharta Perez** document reptilian encounters at specific times in Singapore’s history and their impact on the human psyche.

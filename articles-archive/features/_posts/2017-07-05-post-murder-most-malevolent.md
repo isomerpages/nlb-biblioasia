@@ -2,6 +2,7 @@
 title: Murder Most Malevolent
 date: 2017-07-05
 permalink: /vol-13/issue-2/jul-sep-2017/murdermostmalevolent
+image: /images/Vol-13-issue-2/murder-most-malevolent/01_murder.png
 layout: post
 ---
 #### Sunny Ang, Mimi Wong, Adrian Lim and John Martin Scripps are some of the most cold-blooded murderers in Singapore’s crime history. **Sharon Teng** revisits their horrific acts.

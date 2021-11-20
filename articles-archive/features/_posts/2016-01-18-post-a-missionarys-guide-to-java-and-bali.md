@@ -2,6 +2,7 @@
 title: A Missionary’s Guide to Java and Bali
 date: 2016-01-18
 permalink: /vol-11/issue-4/jan-mar-2016/guidetojavabali
+image: /images/vol-11-issue-4/guide-to-java-and-bali/03_javaandbali.jpg
 layout: post
 ---
 <div style="background-color: white;"><br><img style="width:600px" src="/images/vol-11-issue-4/guide-to-java-and-bali/01_javaandbali.jpg">The title page of <i>Journal of a Tour Along the Coast of Java and Bali</i>. This is the earliest extant English publication printed in Singapore and held in the National Library’s collection. <i>All rights reserved, National Library Board, Singapore.</i></div>

@@ -2,6 +2,7 @@
 title: An Expat’s Impressions of Singapore
 date: 2016-01-18
 permalink: /vol-11/issue-4/jan-mar-2016/anexpatimpressionofsg
+image: /images/vol-11-issue-4/an-expat-impression-of-sg/02_expatimpression.jpg
 layout: post
 ---
 Love it or hate it, most people find expatriates’ accounts of Singapore endlessly fascinating. One of the earliest newspaper columnists was Charles Burton Buckley, whose writings on Singapore were published as early as 1902 – the first of its kind at the time.

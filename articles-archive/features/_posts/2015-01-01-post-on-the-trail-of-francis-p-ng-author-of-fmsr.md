@@ -2,6 +2,7 @@
 title: "On the Trail of Francis P. Ng: Author of F.M.S.R."
 date: 2015-01-01
 permalink: /vol-10/issue-4/jan-march-2015/on-the-trail
+image: /images/vol-10-issue-4/francispng/FMSR_train_re.jpg
 layout: post
 ---
 #### In her effort to republish one of our unknown literary treasures, **Dr Eriko Ogihara-Schuck** tracks down the elusive Francis P. Ng, author of possibly the first notable work of poetry in English by a Singapore writer.

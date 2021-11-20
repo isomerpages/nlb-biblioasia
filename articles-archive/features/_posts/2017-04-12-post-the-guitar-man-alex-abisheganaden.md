@@ -2,6 +2,7 @@
 title: "The Guitar Man: Alex Abisheganaden"
 date: 2017-04-12
 permalink: /vol-13/issue-1/apr-jun-2017/guitar-man
+image: /images/Vol-13-issue-1/the-guitar-man/01_guitarman.jpg
 layout: post
 ---
 #### Hailed as the “Father of the Guitar”, this pioneer musician has spent the last 50 years championing the classical guitar movement in Singapore. **Joy Loh** charts his illustrious career.

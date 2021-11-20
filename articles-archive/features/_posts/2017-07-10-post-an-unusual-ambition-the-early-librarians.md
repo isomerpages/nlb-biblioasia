@@ -2,6 +2,7 @@
 title: "An Unusual Ambition: The Early Librarians"
 date: 2017-07-10
 permalink: /vol-13/issue-2/jul-sep-2017/an-unusual-ambition
+image: /images/Vol-13-issue-2/an-unusual-ambition/01_unusualambition.png
 layout: post
 ---
 #### **Bonny Tan** traces the careers of little-known librarians, Padma Daniel and her mentor Kate Edith Savage-Bailey, and the circumstances that led to their career choices in pre-war Singapore.

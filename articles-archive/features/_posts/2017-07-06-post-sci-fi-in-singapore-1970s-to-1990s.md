@@ -2,6 +2,7 @@
 title: "Sci-Fi in Singapore: 1970s to 1990s"
 date: 2017-07-06
 permalink: /vol-13/issue-2/jul-sep-2017/sci-fi-in-singapore
+image: /images/Vol-13-issue-2/sci-fi-in-singapore/01_scifi.png
 layout: post
 ---
 #### The sci-fi frenzy took off in Singapore in 1978 when *Star Wars* was screened at cinemas here. **Nadia Arianna Bte Ramli** looks at sci-fi works produced between 1970s and 1990s.

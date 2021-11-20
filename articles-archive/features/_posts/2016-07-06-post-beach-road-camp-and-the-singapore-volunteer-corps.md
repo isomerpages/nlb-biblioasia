@@ -2,6 +2,7 @@
 title: Beach Road Camp and the Singapore Volunteer Corps
 date: 2016-07-06
 permalink: /vol-12/issue-2/jul-sep-2016/beach-road-camp
+image: /images/Vol-12-issue-2/singapore-volunteer-corps/01-volunteercorps.jpg
 layout: post
 ---
 #### The SVC was the precursor of the first organised military service in Singapore and marked the beginning of a volunteer movement that would last for over a century. **Francis Dorai** has the story.

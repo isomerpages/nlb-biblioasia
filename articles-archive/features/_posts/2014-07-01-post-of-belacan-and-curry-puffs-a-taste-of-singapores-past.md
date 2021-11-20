@@ -2,6 +2,7 @@
 title: "Of Belacan and Curry Puffs: A Taste of Singapore’s Past"
 date: 2014-07-01
 permalink: /vol-10/issue-2/jul-sep-2014/taste-of-sg-past
+image: /images/vol-10-issue-2/belacanandcurrypuff/belacan_used.jpg
 layout: post
 ---
 #### **Bonny Tan** pores through the rich archives of Malayan newspapers and shows how disparate communities have come together to create a food culture that is truly emblematic of Singapore's multicultural character.

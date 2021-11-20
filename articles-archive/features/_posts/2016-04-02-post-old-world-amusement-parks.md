@@ -2,6 +2,7 @@
 title: Old-world Amusement Parks
 date: 2016-04-02
 permalink: /vol-12/issue-1/apr-jun-2016/old-world-amusement
+image: /images/Vol-12-issue-1/old-world-amusement-parks/01a_amusementpark.jpg
 layout: post
 ---
 #### Theme parks in Singapore had their heyday from the 1920s to 50s. **Lim Tin Seng** charts their glory days and subsequent decline.

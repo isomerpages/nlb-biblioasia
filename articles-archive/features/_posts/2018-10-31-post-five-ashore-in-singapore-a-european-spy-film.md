@@ -2,6 +2,7 @@
 title: "Five Ashore in Singapore: A European Spy Film"
 date: 2018-10-31
 permalink: /vol-14/issue-3/oct-dec-2018/five-ashore-in-sg/
+image: /images/Vol-14-issue-3/five-ashore-in-singapore/FiveAshore1.JPG
 layout: post
 ---
 #### **Raphaël Millet** sits through a B-grade movie dismissed by critics as belonging to the genre of Eurospy flicks that parody James Bond – and discovers a slice of Singaporean celluloid history.

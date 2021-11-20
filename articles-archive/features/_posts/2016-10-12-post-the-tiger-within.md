@@ -2,6 +2,7 @@
 title: The Tiger Within
 date: 2016-10-12
 permalink: /vol-12/issue-3/oct-dec-2016/the-tiger-within
+image: /images/Vol-12-issue-3/the-tiger-within/01-tiger-within.jpg
 layout: post
 ---
 #### These fanged beasts are by turns both captivating as they are terrifying. **Patricia Bjaaland Welch** explores the tiger motif in the art and literature of Asia.

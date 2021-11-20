@@ -2,6 +2,7 @@
 title: "Poetry 101: It Does Not Have to Rhyme"
 date: 2015-07-01
 permalink: /vol-11/issue-2/jul-sep-2015/poetry-101
+image: /images/vol-11-issue-2/poetry/background.jpg
 layout: post
 ---
 #### One of this year’s Read! Fest initiatives is a celebration of Singapore poetry. **Sharon Lim** tells you what to expect. 

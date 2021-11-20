@@ -2,6 +2,7 @@
 title: My Grandmother’s Story
 date: 2016-07-12
 permalink: /vol-12/issue-2/jul-sep-2016/my-grandmother-story
+image: /images/Vol-12-issue-2/my-grandmother-story/01-mygrandmotherstory.jpg
 layout: post
 ---
 #### An unexpected recollection by her grandmother about her experience of the Japanese Occupation sets **Yu-Mei Balasingamchow** thinking about unspoken memories and the stories that haven’t been told.

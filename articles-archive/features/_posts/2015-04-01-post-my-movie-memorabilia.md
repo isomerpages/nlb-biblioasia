@@ -2,6 +2,7 @@
 title: My Movie Memorabilia
 date: 2015-04-01
 permalink: /vol-11/issue-1/apr-jun-2015/movie-memorabilia
+image: /images/vol-11-issue-1/moviememorabilia/Venus_Theatre.jpg
 layout: post
 ---
 #### **Wong Han Min**’s treasure trove of film memorabilia – collected over three decades – provides a glimpse of Singapore’s rich cinematic past.

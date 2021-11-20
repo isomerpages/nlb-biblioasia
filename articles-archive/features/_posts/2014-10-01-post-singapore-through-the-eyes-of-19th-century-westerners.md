@@ -2,6 +2,7 @@
 title: Singapore Through the Eyes of 19th-century Westerners
 date: 2014-10-01
 permalink: /vol-10/issue-3/oct-dec-2014/19th-century-western
+image: /images/vol-10-issue-3/19thcentury/Wallich_image.jpg
 layout: post
 ---
 #### **Nor Afidah Abd Rahman** shares how the impressions the first Western travellers held of colonial Singapore were influenced by their preconceived perceptions of the exotic East.

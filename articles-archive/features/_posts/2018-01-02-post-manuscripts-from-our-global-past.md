@@ -2,6 +2,7 @@
 title: Manuscripts from our Global Past
 date: 2018-01-02
 permalink: /vol-13/issue-4/jan-mar-2018/manuscripts-from-past
+image: /images/Vol-13-issue-4/manuscripts-from-global-past/01_manuscript.png
 layout: post
 ---
 #### An exhibition of old Southeast Asian writings showcases the region as a major centre of learning. **Farish A. Noor** explains why we should reclaim our heritage.

@@ -2,6 +2,7 @@
 title: "Blazing a Trail: The Fight for Women’s Rights in Singapore"
 date: 2018-10-31
 permalink: /vol-14/issue-3/oct-dec-2018/blazing-a-trail/
+image: /images/Vol-14-issue-3/blazing-a-trail/BlazingTrail1.JPG
 layout: post
 ---
 #### The Singapore Council of Women was the city’s first female civil rights group that took bold steps to champion laws affecting women. **Phyllis Chew** documents its hard-won victories.

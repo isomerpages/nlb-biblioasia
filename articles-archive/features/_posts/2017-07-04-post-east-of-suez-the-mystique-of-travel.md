@@ -2,6 +2,7 @@
 title: "East of Suez: The Mystique of Travel"
 date: 2017-07-04
 permalink: /vol-13/issue-2/jul-sep-2017/east-of-suez
+image: /images/Vol-13-issue-2/east-of-suez/01_suez.png
 layout: post
 ---
 #### Rudyard Kipling coined the phrase “East of Suez” to describe the exotic lands east of the Suez Canal. **Kennie Ting** goes back to a time when people were travellers, not tourists.

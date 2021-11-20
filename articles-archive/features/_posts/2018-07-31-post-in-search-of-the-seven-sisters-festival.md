@@ -2,6 +2,7 @@
 title: In Search of the Seven Sisters Festival
 date: 2018-07-31
 permalink: /vol-14/issue-2/jul-sep-2018/search-of-seven-sis/
+image: /images/Vol-14-issue-2/in-search-of-the-seven-sis/Festival1.JPG
 layout: post
 ---
 #### This time-honoured festival has left no tangible trace of its observance in Singapore. **Tan Chui Hua** pieces together oral history interviews to reconstruct its proper place in Chinese culture.

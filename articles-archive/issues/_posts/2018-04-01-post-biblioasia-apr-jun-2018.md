@@ -37,7 +37,7 @@ A band of extraordinary women rose above oppression and poverty in Malayan plant
 From a hole in the ground to running water at the turn of the tap. *Lim Tin Seng* tells us how far Singapore has come in its search for water. [(PDF)](/files/pdf/vol-14/v14-issue1_FourTaps.pdf)
 
 
-**[文言与白话的抗争与磨合: 近代华文教学语体的蜕变历程](/vol-14/issue-1/apr-jun-2018/chinese-war-language/)** <br>
+**[文言与白话的抗争与磨合: 近代华文教学语体的蜕变历程](/vol-14/issue-1/apr-jun-2018/chinese-education/)** <br>
 Classical and Modern Chinese education in Mainland China and Taiwan has been debated for over a century. *Chua Chee Lay* analyses its development and provides valuable lessons from history. [(PDF)](/files/pdf/vol-14/v14-issue1_ChineseEducation.pdf)
 
 

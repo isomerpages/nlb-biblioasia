@@ -2,6 +2,7 @@
 title: "Tales of the Malay World: Manuscripts and Early Books"
 date: 2017-07-14
 permalink: /vol-13/issue-2/jul-sep-2017/talesofmalayworld
+image: /images/Vol-13-issue-2/tales-of-malay-world/01_malayworld.jpg
 layout: post
 ---
 #### Literary works in the ancient Malay-speaking world were not enjoyed silently but read aloud to an audience, as **Tan Huism** tells us in this latest exhibition by the National Library.

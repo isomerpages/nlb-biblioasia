@@ -2,6 +2,7 @@
 title: "Wheels of Change: 1896–1970"
 date: 2018-10-31
 permalink: /vol-14/issue-3/oct-dec-2018/wheels-of-change/
+image: /images/Vol-14-issue-3/wheels-of-change/Wheels1.JPG
 layout: post
 ---
 #### Advertisements targeting aspiring car owners have come a long way since the first automobile was launched in Singapore in 1896, as **Mazelan Anuar** tells us.

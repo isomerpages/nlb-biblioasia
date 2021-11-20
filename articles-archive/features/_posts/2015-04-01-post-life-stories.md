@@ -2,6 +2,7 @@
 title: Life Stories
 date: 2015-04-01
 permalink: /vol-11/issue-1/apr-jun-2015/life-stories
+image: /images/vol-11-issue-1/lifestories/nurse.jpg
 layout: post
 ---
 #### The Singapore Memory Project launches a new exhibition to honour our pioneer generation at Woodlands Regional Library.

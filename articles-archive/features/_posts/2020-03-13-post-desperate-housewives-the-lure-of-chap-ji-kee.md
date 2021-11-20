@@ -4,6 +4,7 @@ date: 2015-10-01T00:00:00.000Z
 permalink: /vol-11/issue-3/oct-dec-2015/housewives
 breadcrumb: "Desperate Housewives"
 third_nav_title: "Desperate Housewives: The Lure of Chap Ji Kee"
+image: \images\Vol-11-issue-3\housewives\12chapjikeetiles.jpg
 ---
 
 <style>

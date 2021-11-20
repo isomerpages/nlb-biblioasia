@@ -3,6 +3,7 @@ title: "The Thespians of RAF Seletar"
 date: 2020-04-01T00:00:00.000Z
 permalink: /vol-16/issue-1/apr-jun-2020/thespians
 third_nav_title: "The Thespians of RAF Seletar"
+image: /images/Vol-16-issue-1/Seletar/Seletar-title.jpg
 ---
 
 <style>

@@ -2,6 +2,7 @@
 title: My Leap Into Movies
 date: 2015-04-01
 permalink: /vol-11/issue-1/apr-jun-2015/leap-into-movie
+image: /images/vol-11-issue-1/myleapintomovies/Glen_Goei_profile1.jpg
 layout: post
 ---
 #### Theatre thespian and film director **Glen Goei** reflects on his transition from the stage to cinema screen.

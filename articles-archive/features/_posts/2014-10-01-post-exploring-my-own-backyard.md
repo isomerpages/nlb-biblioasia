@@ -2,6 +2,7 @@
 title: Exploring My Own Backyard
 date: 2014-10-01
 permalink: /vol-10/issue-3/oct-dec-2014/explore-own-backyard
+image: /images/vol-10-issue-3/backyard/temple_trotting.jpg
 layout: post
 ---
 #### Travel writer **Desiree Koh** shares her wanderlust and love for Southeast Asia and remembers the places that have impacted her life and the way she sees the world.

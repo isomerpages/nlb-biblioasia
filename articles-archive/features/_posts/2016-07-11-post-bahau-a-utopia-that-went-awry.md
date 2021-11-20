@@ -2,6 +2,7 @@
 title: "Bahau: A Utopia That Went Awry"
 date: 2016-07-11
 permalink: /vol-12/issue-2/jul-sep-2016/bahau
+image: /images/Vol-12-issue-2/bahau/01-bahau.jpg
 layout: post
 ---
 #### The resettlement of Eurasian and Chinese Catholics in the jungles of Malaysia during World War II has been largely forgotten. **Fiona Hodgkins** chronicles its painful history.

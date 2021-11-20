@@ -2,6 +2,7 @@
 title: "Blooming Lies: The Vanda Miss Joaquim Story"
 date: 2018-04-30
 permalink: /vol-14/issue-1/apr-jun-2018/blooming-lies-vandaj/
+image: /images/Vol-14-issue-1/blooming-lies/Blooming1.JPG
 layout: post
 ---
 #### Is the *Vanda* Miss Joaquim a human-made hybrid or a happy accident? In this cautionary tale, **Nadia Wright, Linda Locke and Harold Johnson** recount how fiction becomes truth when it is repeated often enough.

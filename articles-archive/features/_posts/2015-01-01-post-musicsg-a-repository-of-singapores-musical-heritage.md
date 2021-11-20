@@ -2,6 +2,7 @@
 title: "MusicSG:  A Repository of Singapore’s Musical Heritage"
 date: 2015-01-01
 permalink: /vol-10/issue-4/jan-march-2015/musical
+image: /images/vol-10-issue-4/music/local_singer_re.jpg
 layout: post
 ---
 <div style="background-color: white;">

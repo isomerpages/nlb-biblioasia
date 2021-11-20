@@ -2,6 +2,7 @@
 title: "Land From Sand: Singapore’s Reclamation Story"
 date: 2017-04-04
 permalink: /vol-13/issue-1/apr-jun-2017/land-from-sand
+image: /images/Vol-13-issue-1/land-from-sand/01_landfromsand.jpg
 layout: post
 ---
 #### Thanks to land reclamation, the tiny red dot has broadened its shores substantially. **Lim Tin Seng** discovers just how much Singapore has grown since colonial times.

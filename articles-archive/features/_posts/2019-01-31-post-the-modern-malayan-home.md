@@ -2,6 +2,7 @@
 title: The Modern Malayan Home
 date: 2019-01-31
 permalink: /vol-14/issue-4/jan-mar-2019/modern-malayan-home/
+image: /images/Vol-14-issue-4/the-modern-malayan-home/malayan1.JPG
 layout: post
 ---
 #### Along with the introduction of running water and electricity at the turn of the 20th century were advertisements featuring modern home appliances. **Georgina Wong** has the story.

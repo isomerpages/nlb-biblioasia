@@ -2,6 +2,7 @@
 title: Director’s Note (Apr-Jun 2015)
 date: 2015-04-01
 permalink: /vol-11/issue-1/apr-jun-2015/director-note
+image: /vol-11/issue-1/apr-jun-2015/moving-journey
 layout: post
 ---
 The Asian Film Archive (AFA) was established in 2005. The National Library Board incorporated the National Archives of Singapore in March 2013, followed by the AFA in January 2014. The AFA serves as a repository for films from all over Asia. Many fine Asian films 

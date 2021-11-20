@@ -3,6 +3,7 @@ title: "Witness to History"
 date: 2020-04-01T00:00:00.000Z
 permalink: /vol-16/issue-1/apr-jun-2020/witness-to-history
 third_nav_title: "Witness to History"
+image: /images/Vol-16-issue-1/History/History-title2.jpg
 ---
 
 <style>

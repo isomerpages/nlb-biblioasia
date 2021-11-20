@@ -2,6 +2,7 @@
 title: Rambling Around Bras Basah
 date: 2017-10-09
 permalink: /vol-13/issue-3/oct-dec-2017/ramblingarndbrasbasah
+image: /images/Vol-13-issue-3/rambling-around-bras-basah/01_brasbasah.jpg
 layout: post
 ---
 #### It’s just a street to many, but for **Yu-Mei Balasingamchow**, the Bras Basah area is emblematic of how redevelopment can sometimes radically change the identity of an area.

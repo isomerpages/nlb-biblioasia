@@ -4,6 +4,7 @@ date: 2015-10-01T00:00:00.000Z
 permalink: /vol-11/issue-3/oct-dec-2015/convict
 breadcrumb: "Convict Labour in Colonial Singapore"
 third_nav_title: "Convict Labour in Colonial Singapore"
+image: \images\Vol-11-issue-3\convict\labourers.jpg
 ---
 
 <style>

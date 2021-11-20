@@ -2,6 +2,7 @@
 title: Best Non-Fiction Book of the Year
 date: 2016-07-03
 permalink: /vol-12/issue-2/jul-sep-2016/best-nonfiction-book
+image: /images/Vol-12-issue-2/best-non-fiction-book/01b-nonfictionbook.jpg
 layout: post
 ---
 <div style="background-color: white;"><br><img style="width:500px" src="/images/Vol-12-issue-2/best-non-fiction-book/01b-nonfictionbook.jpg"></div>

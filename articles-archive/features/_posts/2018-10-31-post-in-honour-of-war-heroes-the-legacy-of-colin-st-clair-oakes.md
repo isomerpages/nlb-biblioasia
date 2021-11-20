@@ -2,6 +2,7 @@
 title: "In Honour of War Heroes: The Legacy of Colin St Clair Oakes"
 date: 2018-10-31
 permalink: /vol-14/issue-3/oct-dec-2018/honour-of-war-heroes/
+image: /images/Vol-14-issue-3/in-honour-of-war-heroes/Honour1.JPG
 layout: post
 ---
 #### Who was the architect behind Singapore’s Kranji War Cemetery and other similar memorials in South and Southeast Asia? **Athanasios Tsakonas** has the story.

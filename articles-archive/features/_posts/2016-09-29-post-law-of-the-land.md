@@ -2,6 +2,7 @@
 title: Law of the Land
 date: 2016-09-29
 permalink: /vol-12/issue-3/oct-dec-2016/law-of-the-land
+image: /images/Vol-12-issue-3/law-of-the-land/01a-lawofland.png
 layout: post
 ---
 #### A permanent exhibition on Singapore’s constitutional history – from its founding in 1819 to Independence in 1965 – opens at the National Gallery Singapore. **Kevin Khoo** details some of its highlights.

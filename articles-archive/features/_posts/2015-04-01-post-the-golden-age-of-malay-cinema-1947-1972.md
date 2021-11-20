@@ -2,6 +2,7 @@
 title: "The Golden Age of Malay  Cinema: 1947–1972"
 date: 2015-04-01
 permalink: /vol-11/issue-1/apr-jun-2015/ga-malay-cinema
+image: /images/vol-11-issue-1/malaycinema/bg3_re.jpg
 layout: post
 ---
 #### Few people are aware that Singapore was once the hub for Malay filmmaking in Southeast Asia. **Nor Afidah Bte Abd Rahman** and **Michelle Heng** recount its fabled history.

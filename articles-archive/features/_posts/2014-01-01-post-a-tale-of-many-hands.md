@@ -2,6 +2,7 @@
 title: A Tale of Many Hands
 date: 2014-01-01
 permalink: /vol-9/issue-4/jan-march-2014/tale-of-many-hands
+image: /images/vol-9-issue-4/hands/santhan_baskar.jpg
 layout: post
 ---
 #### There’s more to the hand than meets the eye, as **Tan Huism** found out when she curated an exhibition using the motif of hands for the National Library recently.

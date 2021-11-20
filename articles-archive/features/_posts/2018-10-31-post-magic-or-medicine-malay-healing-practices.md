@@ -2,6 +2,7 @@
 title: Magic or Medicine? Malay Healing Practices
 date: 2018-10-31
 permalink: /vol-14/issue-3/oct-dec-2018/magic-or-med-m-heal/
+image: /images/Vol-14-issue-3/magic-or-medicine-malay-hp/MagicMed1.JPG
 layout: post
 ---
 #### Is traditional Malay medicine based on superstition and folklore or grounded in scientific evidence? **Nadirah Norruddin** uncovers the varying perceptions of Malay medicine in colonial Malaya.

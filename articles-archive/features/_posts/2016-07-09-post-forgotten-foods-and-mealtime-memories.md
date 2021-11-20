@@ -2,6 +2,7 @@
 title: Forgotten Foods & Mealtime Memories
 date: 2016-07-09
 permalink: /vol-12/issue-2/jul-sep-2016/forgottenfoodmemories
+image: /images/Vol-12-issue-2/forgotten-food/01-forgottenfood-mealtimememories.jpg
 layout: post
 ---
 #### Food writer **Sylvia Tan** remembers the foods and flavours she grew up with and the less than sanitary practices made for stomachs cast in iron.

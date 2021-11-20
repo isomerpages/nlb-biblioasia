@@ -2,6 +2,7 @@
 title: "Swan & Maclaren: Pioneers of Modernist Architecture"
 date: 2017-07-06
 permalink: /vol-13/issue-2/jul-sep-2017/swan-and-maclaren
+image: /images/Vol-13-issue-2/swan-maclaren/01_swanmaclaren.png
 layout: post
 ---
 #### Singapore’s oldest architectural firm may be better known for designing the Raffles Hotel but it’s their 1930s Modernist buildings that are truly revolutionary. **Julian Davison** has the details.

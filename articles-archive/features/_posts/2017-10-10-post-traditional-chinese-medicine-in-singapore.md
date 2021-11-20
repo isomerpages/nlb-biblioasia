@@ -2,6 +2,7 @@
 title: 从馆藏文献资料认识中医药在新加坡 的历史与发展 (Traditional Chinese Medicine in Singapore)
 date: 2017-10-10
 permalink: /vol-13/issue-3/oct-dec-2017/traditionalchinesemed
+image: /images/Vol-13-issue-3/traditional-chinese-medicine/01a-chinesemedicine.png
 layout: post
 ---
 #### Traditional Chinese medicine in Singapore has a history that goes back to more than a century. **Vicky Gao** traces its development through the National Library’s collection.

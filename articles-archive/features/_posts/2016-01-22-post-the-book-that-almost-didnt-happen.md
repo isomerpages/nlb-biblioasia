@@ -2,6 +2,7 @@
 title: The Book That Almost Didn’t Happen
 date: 2016-01-22
 permalink: /vol-11/issue-4/jan-mar-2016/bookthatdidnthappen
+image: /images/vol-11-issue-4/book-that-almost-didnt-happen/01_bookdidnthappen.jpg
 layout: post
 ---
 By John Henry Moor’s reckoning, the book he published in December 1837[^1] was beset with failures. *Notices of the Indian Archipelago, and Adjacent Countries* had been intended as the first part of a magnum opus that the Singapore newspaper editor had grandly announced in 1835. Moor’s goal was to print a massive compendium comprising two volumes: one compiling reprints of articles first published in the *Singapore Chronicle* newspaper from 1824 to 1834, and a second volume featuring papers on key topics about Singapore and Southeast Asia.

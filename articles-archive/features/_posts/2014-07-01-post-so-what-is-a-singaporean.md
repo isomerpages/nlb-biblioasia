@@ -2,6 +2,7 @@
 title: So, What is a Singaporean?
 date: 2014-07-01
 permalink: /vol-10/issue-2/jul-sep-2014/what-is-singaporean
+image: /images/vol-10-issue-2/singaporean/outside_City_Hall.jpg
 layout: post
 ---
 <div style="background-color: white;">

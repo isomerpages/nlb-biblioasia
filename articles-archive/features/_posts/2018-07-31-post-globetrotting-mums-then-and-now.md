@@ -2,6 +2,7 @@
 title: "Globetrotting Mums: Then and Now"
 date: 2018-07-31
 permalink: /vol-14/issue-2/jul-sep-2018/globetrotting-mum-nw/
+image: /images/Vol-14-issue-2/globetrotting-mums/Globetrotting1.JPG
 layout: post
 ---
 #### **Bonny Tan** interweaves her own experiences as a modern Singaporean mother travelling and living abroad with those of two Victorian-era Englishwomen.

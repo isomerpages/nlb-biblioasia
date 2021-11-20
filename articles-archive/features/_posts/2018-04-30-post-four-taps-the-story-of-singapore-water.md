@@ -2,6 +2,7 @@
 title: "Four Taps: The Story of Singapore Water"
 date: 2018-04-30
 permalink: /vol-14/issue-1/apr-jun-2018/four-taps-sg-water/
+image: /images/Vol-14-issue-1/four-taps-of-singapore-water/FourTaps1.JPG
 layout: post
 ---
 #### From a hole in the ground to running water at the turn of the tap. **Lim Tin Seng** tells us how far Singapore has come in its search for water.

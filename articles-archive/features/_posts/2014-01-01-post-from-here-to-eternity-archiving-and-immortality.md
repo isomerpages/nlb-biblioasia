@@ -2,6 +2,7 @@
 title: "From Here to Eternity: Archiving and Immortality"
 date: 2014-01-01
 permalink: /vol-9/issue-4/jan-march-2014/archivingimmortality
+image: /images/vol-9-issue-4/enternity/Farquhar_Raffles_re.jpg
 layout: post
 ---
 #### Man is immortal; therefore he must die endlessly. For life is creating idea; it can only find itself in charging forms 
