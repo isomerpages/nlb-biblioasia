@@ -22,7 +22,7 @@ description: ""
 <p>Song Ong Siang was the first local-born barrister and the first person in Malaya to receive a knighthood. Kevin Y.L. Tan recounts the extraordinary life of this Peranakan luminary.</p> 
 <img src="/images/Vol-16-issue-1%2Fking/One-hundred-book-mockup.png">
 <hr>
- 
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-3/oct-dec-2019/singapore-before1867/" target="_blank">On Paper: Singapore Before 1867</a>
 <p>Paintings by John Turnbull Thomson, poems in Jawi script, an early 19th-century map of Asia and a Russian traveller’s tale of Singapore are some of the paper artefacts featured in the National Library’s exhibition, “On Paper: Singapore Before 1867”.</p> 
 <img src="/images/Vol-15-issue-3%2Fon-paper-singapore-before-1867/OnPaper11.JPG" style="width:70%">
