@@ -9,7 +9,7 @@ description: ""
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-4/jan-mar-2021/stacks" target="_blank">Stories From the Stacks</a>
-<p>A book of football rules in Jawi, a colonial-era compilation of Tamil names and the 19th-century version of a 600-year-old Chinese map showing Temasek are among the items showcased in *Stories from the Stacks*, published by the National Library, Singapore.</p> 
+A book of football rules in Jawi, a colonial-era compilation of Tamil names and the 19th-century version of a 600-year-old Chinese map showing Temasek are among the items showcased in *Stories from the Stacks*, published by the National Library, Singapore. 
 <img src="/images/Vol-16-issue-4/stacks/StoriesfromtheStacks.png">
 <hr>
 
