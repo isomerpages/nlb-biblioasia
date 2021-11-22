@@ -29,6 +29,6 @@ description: ""
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-1/apr-jun-2016/george-hicks" target="_blank">The George Hicks Collection</a>
-<p>This book on the George Hicks Collection at the National Library, Singapore, provides an overview of the life and career of George Hicks, including his contributions and a list of his edited and authored works. The selected titles are broadly structured by geo¬graphical regions, namely Southeast Asia and East Asia. The last section, on overseas Chinese, highlights the intercon-nectedness between Southeast Asia and East Asia. Each section comprises an introduction, followed by a selection of highlighted works and annotations of repre¬sentative titles.</p> 
+<p>Donated to the National Library of Singapore in 2009 and 2013, the George Hicks collection comprises nearly 7,000 items on China, Japan and Southeast Asia. This book on the collection provides an overview of the life and career of George Hicks, including his contributions and a list of his edited and authored works. </p> 
 <img src=" /images/Vol-12-issue-1%2Fgeorge-hicks-collection/03_georgehicks.bmp" style="width:60%">
 <hr>
