@@ -25,7 +25,7 @@ description: ""
  
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-3/oct-dec-2019/singapore-before1867/" target="_blank">On Paper: Singapore Before 1867</a>
 <p>Paintings by John Turnbull Thomson, poems in Jawi script, an early 19th-century map of Asia and a Russian traveller’s tale of Singapore are some of the paper artefacts featured in the National Library’s exhibition, “On Paper: Singapore Before 1867”.</p> 
-<img src="/images/Vol-15-issue-3%2Fon-paper-singapore-before-1867/OnPaper11.JPG" style="width:80%">
+<img src="/images/Vol-15-issue-3%2Fon-paper-singapore-before-1867/OnPaper11.JPG" style="width:70%">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-1/apr-jun-2016/george-hicks" target="_blank">The George Hicks Collection</a>
