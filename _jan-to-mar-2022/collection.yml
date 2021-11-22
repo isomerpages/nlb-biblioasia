@@ -1,4 +1,6 @@
 collections:
   jan-to-mar-2022:
     output: true
-    order: []
+    order:
+      - "French Impressions: 19th Century Natural History Drawings of Singapore
+        and Southeast Asia.md"
