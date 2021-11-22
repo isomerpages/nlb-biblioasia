@@ -158,7 +158,7 @@ This book is scheduled to be published in October 2021. Thereafter, it will be a
 
 [^5]: Juria Toramae, “Notes on Some Outlying Reefs and Islands in Singapore,” *Mynah*, no. 1 (October 2016): 130, Academia, https://www.academia.edu/35691230/Notes_On_Some_Outlying_Reefs_and_Islands_of_Singapore.
 
-[^6]: Chew Soo Beng,“ [*Fishermen in Flats*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4137660),” Monash Papers on Southeast Asia*, no. 9 ([Clayton, Vic.]: Centre of Southeast Asian Studies, Monash University, 1982). (From National Library, Singapore, Call no. RSING 301.4443095957 CHE)
+[^6]: Chew Soo Beng,“[Fishermen in Flats](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4137660),” *Monash Papers on Southeast Asia*, no. 9 ([Clayton, Vic.]: Centre of Southeast Asian Studies, Monash University, 1982). (From National Library, Singapore, Call no. RSING 301.4443095957 CHE)
 
 [^7]: The signing of the Anglo-Dutch Treaty by Great Britain and the Netherlands in London on 17 March 1824 resolved outstanding bilateral issues. This redefined the spheres of influence of these two colonial powers in the region, leading to the formation of British Malaya and the Dutch East Indies.
 
