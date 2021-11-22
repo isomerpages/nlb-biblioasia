@@ -47,13 +47,13 @@ Over the past three decades, my collection has evolved into a sizable private ar
 <div style="background-color: white;">
 <br/>
 <img style="width:70%" src="/images/vol-11-issue-1/moviememorabilia/cathay_re.jpg">
-Cathay Cinema opening souvenir (1939). Cathay Cinema opened in 1939 and has since been the flagship theatre of Cathay Organisation in Singapore.<i>Courtesy of Wong Han Min.</i>
+Cathay Cinema opening souvenir (1939). Cathay Cinema opened in 1939 and has since been the flagship theatre of Cathay Organisation in Singapore. <i>Courtesy of Wong Han Min.</i>
 </div>
 
 <div style="background-color: white;">
 <br/>
 <img style="width:70%" src="/images/vol-11-issue-1/moviememorabilia/Sky_Theatre_re.jpg">
-Sky Theatre ticket of the opening show <i>Around the World in 80 Days</i> in 1958. Under Shaw Organisation, Sky Theatre opened in 1958 at Great World Amusement Park. It closed in 1978.<i>Courtesy of Wong Han Min.</i>
+Sky Theatre ticket of the opening show <i>Around the World in 80 Days</i> in 1958. Under Shaw Organisation, Sky Theatre opened in 1958 at Great World Amusement Park. It closed in 1978. <i>Courtesy of Wong Han Min.</i>
 </div>
 
 <div style="background-color: white;">
@@ -71,14 +71,14 @@ Lobby card of <i>Hotel Murder Case</i> (1963), an Amoy-dialect (Hokkien) film st
 <div style="background-color: white;">
 <br/>
 <img style="width:70%" src="/images/vol-11-issue-1/moviememorabilia/Malay_Movie_New_re.jpg">
-June 1961 issue of <i>Malay Movie News</i> with P. Ramlee on the cover. The magazine was produced by Shaw Organisation and featured Malay films made by Shaw's Malay Film Productions (MFP) Studios at Jalan Ampas.<i>Courtesy of Wong Han Min.</i>
+June 1961 issue of <i>Malay Movie News</i> with P. Ramlee on the cover. The magazine was produced by Shaw Organisation and featured Malay films made by Shaw's Malay Film Productions (MFP) Studios at Jalan Ampas. <i>Courtesy of Wong Han Min.</i>
 </div>
 	
 
 <div style="background-color: white;">
 <br/>
 <img style="width:70%" src="/images/vol-11-issue-1/moviememorabilia/Screen_Voice_re.jpg">
-Issue No. 117 of <i>Screen Voice</i>, a Chinese film magazine produced by Shaw Brothers. This issue focused on <i>Song of Singapore</i>, a local film produced at Shaw's studios.<i>Courtesy of Wong Han Min.</i>
+Issue No. 117 of <i>Screen Voice</i>, a Chinese film magazine produced by Shaw Brothers. This issue focused on <i>Song of Singapore</i>, a local film produced at Shaw's studios. <i>Courtesy of Wong Han Min.</i>
 </div>
 
 <div style="background-color: white;">
