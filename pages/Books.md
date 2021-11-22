@@ -8,6 +8,12 @@ description: ""
  <img style="width:100%;" src="/images/vol-17-issue-4/diard-duvaucel/DiardDuvaucel2.jpg" style="width:80%">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-4/jan-mar-2021/stacks" target="_blank">Stories From the Stacks</a>
+<p>A book of football rules in Jawi, a colonial-era compilation of Tamil names and the 19th-century version of a 600-year-old Chinese map showing Temasek are among the items showcased in Stories from the Stacks, the latest book published by the National Library, Singapore.</p> 
+<img src="/images/Vol-16-issue-4/stacks/StoriesfromtheStacks.png">
+<hr>
+
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/history-through-postcards" target="_blank">History Through Postcards</a>
 <p>One postcard may not say much, but a collection of postcards can speak volumes. Stephanie Pee tells us what Postcard Impressions of Early 20th-century Singapore has to say.</p> 
 <img src="/images/Vol-16-issue-1%2FPostcards/Lim_Shao_Bin_mockup.png" style="width:70%">
