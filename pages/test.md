@@ -7,3 +7,7 @@ description: ""
 <p>One postcard may not say much, but a collection of postcards can speak volumes. Stephanie Pee tells us what <i>Postcard Impressions of Early 20th-century Singapore</i> has to say.</p> 
 <img src="/images/Vol-16-issue-1%2FPostcards/Lim_Shao_Bin_mockup.png" style="width:60%"> 
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/king" target="_blank">The King’s Chinese: The Life of Sir Song Ong Siang</a> 
+<p>Song Ong Siang was the first local-born barrister and the first person in Malaya to receive a knighthood. Kevin Y.L. Tan recounts the extraordinary life of this Peranakan luminary.</p> 
+<img src="/images/Vol-16-issue-1%2Fking/One-hundred-book-mockup.png"> <hr>
