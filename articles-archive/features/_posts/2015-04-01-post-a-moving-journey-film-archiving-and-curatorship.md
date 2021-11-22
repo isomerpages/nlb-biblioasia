@@ -82,7 +82,7 @@ Tan had the good fortune of acting as translator for the post-screening Q&amp;A 
 <br><br>
 Tan quickly recognised the challenges these Asian independent filmmakers faced. Not only did they have trouble raising money to produce their films, these works did not always receive the traction they deserved, denying audiences the opportunity to view them. Many films might not even survive the passage of time; in 2004, few Asian countries had their own national film archive, and those that existed did not function effectively. Without proper preservation facilities, it was clear to Tan that significant elements of Asian heritage and culture would be lost forever.
 <br><br>
-<b>THE BASIS</b>
+<b>The Basis</b>
 <br><br>
 In the course of his research, Tan drew inspiration from the great work of the British Film Institute (BFI), Berkeley’s Pacific Film Archive and Asian film archives in Taiwan, Thailand and Hong Kong. International and regional film institutions such as the International Federation of Film Archives (FIAF) and the South East Asia-Pacific Audiovisual Archives Association (SEAPAVAA) offered further insight into the different models he could pursue.
 <br><br>
@@ -92,7 +92,7 @@ Tan envisioned that the archive would be situated in the context of a university
 <br><br>
 Tan turned to his alma mater, NUS, and approached Chew Kheng Chuan, founding director of NUS’ Development Office and chairman of The Substation (Singapore), who supported Tan’s vision. He offered Tan not only his wealth of experience, but also office space within the NUS Development Office – the AFA’s first home.
 <br><br>
-<b>THE BIRTH</b>
+<b>The Birth</b>
 <br><br>
 Tan approached his NUS schoolmate, filmmaker Kirsten Tan, with whom he had made films with when they were in nuSTUDIOS. Kirsten gave Tan her full support and joined him as a co-founder. He also approached Kenneth Paul Tan, an NUS political science professor at the time, and Kenneth Chan, an assistant professor at Nanyang Technological University’s (NTU) humanities school. Jacqueline Tan, a lecturer for the Film, Sound &amp; Video (FSV) course at Ngee Ann Polytechnic, and Straits Times journalist and film critic Ong Sor Fern rounded out the team, forming the first governing board of the AFA.
 <br><br>
