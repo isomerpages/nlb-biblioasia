@@ -13,8 +13,12 @@ description: ""
 <img src="/images/Vol-16-issue-4/stacks/StoriesfromtheStacks.png">
 <hr>
 
-
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/history-through-postcards" target="_blank">History Through Postcards</a>
 <p>One postcard may not say much, but a collection of postcards can speak volumes. Stephanie Pee tells us what Postcard Impressions of Early 20th-century Singapore has to say.</p> 
 <img src="/images/Vol-16-issue-1%2FPostcards/Lim_Shao_Bin_mockup.png" style="width:70%">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-3/oct-dec-2019/singapore-before1867/" target="_blank">On Paper: Singapore Before 1867</a>
+<p>Paintings by John Turnbull Thomson, poems in Jawi script, an early 19th-century map of Asia and a Russian traveller’s tale of Singapore are some of the paper artefacts featured in the National Library’s exhibition, “On Paper: Singapore Before 1867”.</p> 
+<img src="/images/Vol-15-issue-3/on-paper-singapore-before-1867/">
 <hr>
