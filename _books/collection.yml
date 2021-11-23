@@ -1,5 +1,5 @@
 collections:
-  selected-books:
+  books:
     output: true
     order:
       - 2021.md
