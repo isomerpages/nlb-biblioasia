@@ -46,7 +46,7 @@ Textbooks will continue to evolve as they keep pace with the changing needs of s
 
 Over the years, the National Library has built up – via Legal Deposit – a collection of works published in Singapore. These include school textbooks and reading materials on the study of the English language. Here are some highlights of primary English textbooks from the collection:
 
-<div style="background-color: white;"><img src="/images/Vol-13-issue-4/textbooks-we-remember/02_textbooks.jpg"></div>
+<div style="background-color: white;"><img src="/images/Vol-13-issue-4/textbooks-we-remember/02a_textbooks.jpg"></div>
 
 **M.P.H. Dramatic Readers: A Series of Dramatic Readers for English Schools in Malaya** (3rd edition,1953)
 
@@ -64,7 +64,7 @@ Inspired by the 1883 classic *Treasure Island* by Robert Louis Stevenson, the ad
 
 Published by Federal Publications, this series was adapted from the United Kingdom’s textbook of the same name for the English language syllabus of Singapore and the Federation of Malaya. The textbooks were organised by chapters comprising short stories or essays and accompanied by practice exercises.
 
-<div style="background-color: white;"><img src="/images/Vol-13-issue-4/textbooks-we-remember/05_textbooks.jpg"></div>
+<div style="background-color: white;"><img style="width:400px" src="/images/Vol-13-issue-4/textbooks-we-remember/05_textbooks.jpg"></div>
 
 **Chiki Chak** (1962)
 
