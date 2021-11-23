@@ -126,91 +126,91 @@ Chou Sing Chu Foundation. (2016). Passage of time: Singapore bookstore stories 1
 
 Colony of Singapore. (1946–1956). Government gazette. Singapore: Government Printing Office. (Call no.: RCLOS 959.51 SGG)
 
-Christmas cards. (1897, November 3). The Straits Times, p. 3. Retrieved from NewspaperSG.
+Christmas cards. (1897, November 3). *The Straits Times*, p. 3. Retrieved from NewspaperSG.
 
-Christmas cards. (1898, November 10). The Singapore Free Press and Mercantile Advertiser (Weekly), p. 5. Retrieved from NewspaperSG.
+[Christmas cards](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk18981110-1.2.29). (1898, November 10). *The Singapore Free Press and Mercantile Advertiser* (Weekly), p. 5. Retrieved from NewspaperSG.
 
-Christmas card displays. (1896, November 7). The Straits Times, p. 2. Retrieved from NewspaperSG.
+Christmas card displays. (1896, November 7). *The Straits Times*, p. 2. Retrieved from NewspaperSG.
 
-Christmas preparations in Singapore. (1897, December 7). The Straits Times, p. 3. Retrieved from NewspaperSG.
+[Christmas preparations in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18971207-1.2.45). (1897, December 7). *The Straits Times*, p. 3. Retrieved from NewspaperSG.
 
-Dozens want shop lease. (1956, April 9). The Singapore Free Press, p. 2. Retrieved from NewspaperSG.
+[Dozens want shop lease](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19560409-1.2.14). (1956, April 9). *The Singapore Free Press*, p. 2. Retrieved from NewspaperSG.
 
-Dr. Kinsey come to town – at $30 a copy. (1953, November 17). The Straits Times, p. 4. Retrieved from NewspaperSG.
+[Dr. Kinsey come to town – at $30 a copy](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19531117-1.2.81). (1953, November 17). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
 
-‘English books good’. (1950, September 28). Singapore Standard, p. 9. Retrieved from NewspaperSG.
+[‘English books good’.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19500928-1.2.62) (1950, September 28).* Singapore Standard*, p. 9. Retrieved from NewspaperSG.
 
-Former Kelly & Walsh book shop reopens. (1942, September 16). The Syonan Times, p. 4. Retrieved from NewspaperSG.
+[Former Kelly & Walsh book shop reopens](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/syonantimes19420916-1.2.42). (1942, September 16). *The Syonan Times*, p. 4. Retrieved from NewspaperSG.
 
-Fraser and Neave Ltd. (1924, March 19). The Singapore Free Press and Mercantile Advertiser (Weekly), p. 12. Retrieved from NewspaperSG.
+[Fraser and Neave Ltd.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk19240319-1.2.119) (1924, March 19). *The Singapore Free Press and Mercantile Advertiser* (Weekly), p. 12. Retrieved from NewspaperSG.
 
-Growth of Kelly and Walsh. (1916, March 22). The Singapore Free Press and Mercantile Advertiser (1884–1942), p. 7. Retrieved from NewspaperSG.
+[Growth of Kelly and Walsh](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19160322-1.2.48). (1916, March 22). *The Singapore Free Press and Mercantile Advertiser* (1884–1942), p. 7. Retrieved from NewspaperSG.
 
-Gullick, J.M. (2001). Richard James Wilkinson (1867—1941): A man of parts. Journal of the Malaysian Branch of the Royal Asiatic Society, 74 (1), 27. Retrieved from JSTOR via NLB’s eResources website.
+Gullick, J.M. (2001). Richard James Wilkinson (1867—1941): *A man of parts. Journal of the Malaysian Branch of the Royal Asiatic Society, 74* (1), 27. Retrieved from JSTOR via NLB’s eResources website.
 
-Impressive new building. (1935, September 5). The Straits Times, p. 15. Retrieved from NewspaperSG.
+[Impressive new building](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19350905-1.2.109). (1935, September 5). *The Straits Times*, p. 15. Retrieved from NewspaperSG.
 
-Kelly and Walsh (1969). Journal of the Hong Kong Branch of the Royal Asiatic Society, 9, 163–164. Retrieved from JSTOR via NLB’s eResources website.
+Kelly and Walsh (1969). *Journal of the Hong Kong Branch of the Royal Asiatic Society, 9*, 163–164. Retrieved from JSTOR via NLB’s eResources website.
 
-Kelly & Walsh Limited Co. Ltd. (2017). About Kelly & Walsh. Retrieved from Kelly & Walsh website.
+Kelly & Walsh Limited Co. Ltd. (2017). *About Kelly & Walsh*. Retrieved from Kelly & Walsh website.
 
-Land sale. (1904, December 14). The Straits Times, p. 5. Retrieved from NewspaperSG.
+[Land sale](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19041214-1.2.35). (1904, December 14). *The Straits Times*, p. 5. Retrieved from NewspaperSG.
 
-Local and general. (1887, July 27). Straits Times Weekly Issue, p. 2. Retrieved from NewspaperSG.
+[Local and general](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18870727-1.2.10). (1887, July 27). *Straits Times Weekly Issue*, p. 2. Retrieved from NewspaperSG.
 
-Makepeace, W., Braddell, R.S., Brooke, G.E. (Eds.) (1991). One hundred years of Singapore (Vol. 2, p. 202). Singapore: Oxford University Press. (Call no.: RSING 959.57 ONE)
+Makepeace, W., Braddell, R.S., Brooke, G.E. (Eds.) (1991). *[One hundred years of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6203718)* (Vol. 2, p. 202). Singapore: Oxford University Press. (Call no.: RSING 959.57 ONE)
 
-Malay, English and Tamil bookshops. (1989, August 2). The Straits Times, p. 5. Retrieved from NewspaperSG.
+[Malay, English and Tamil bookshops](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19890802-1.2.59.8.3). (1989, August 2). *The Straits Times*, p. 5. Retrieved from NewspaperSG.
 
-Messrs. Kelly and Walsh. (1916, March 22). The Straits Times, p. 9. Retrieved from NewspaperSG.
+[Messrs. Kelly and Walsh](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19160322-1.2.54). (1916, March 22). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
 
-A new Malay dictionary. (1920, October 27). The Straits Times, p. 8. Retrieved from NewspaperSG.
+[A new Malay dictionary](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19201027-1.2.42). (1920, October 27). *The Straits Times*, p. 8. Retrieved from NewspaperSG.
 
-On the margin: Raffles Place. (1950, September 6). The Straits Times, p. 6. Retrieved from NewspaperSG.
+[On the margin: Raffles Place](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19500906-1.2.85). (1950, September 6). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
 
-Page 1 Advertisements Column 6: Kelly & Walsh Ltd. (1898, September 30). The Straits Times, p. 1. Retrieved from NewspaperSG.
+[Page 1 Advertisements Column 6: Kelly & Walsh Ltd.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18980930-1.2.2.6) (1898, September 30). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
 
-Page 2 Advertisements Column 2: Kelly & Walsh, Limited. (1899, January 30). The Straits Times, p. 2. Retrieved from NewspaperSG.
+[Page 2 Advertisements Column 2: Kelly & Walsh, Limited](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18990130-1.2.55.2). (1899, January 30). *The Straits Times*, p. 2. Retrieved from NewspaperSG.
 
-Page 2 Advertisements Column 4: Seibudo Syoten. (1943, December 14). The Syonan Shimbun, p. 2. Retrieved from NewspaperSG.
+[Page 2 Advertisements Column 4: Seibudo Syoten](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/syonantimes19431214-1.2.18.4). (1943, December 14). *The Syonan Shimbun*, p. 2. Retrieved from NewspaperSG.
 
-Page 21 Advertisements Column 1: Modern architecture comes to Raffles Place: Kelly & Walsh. (1935, September 5). The Straits Times, p. 21. Retrieved from NewspaperSG.
+[Page 21 Advertisements Column 1: Modern architecture comes to Raffles Place: Kelly & Walsh](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19350905-1.2.162.1). (1935, September 5). *The Straits Times*, p. 21. Retrieved from NewspaperSG.
 
-Picturesque Singapore: Kelly and Walsh, (LTD.). (1897, October 1). The Straits Times, p. 3. Retrieved from NewspaperSG.
+[Picturesque Singapore: Kelly and Walsh, (LTD.).](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18971001-1.2.27) (1897, October 1). *The Straits Times*, p. 3. Retrieved from NewspaperSG.
 
-Property sale. (1933, March 2). The Malaya Tribune, p. 7. Retrieved from NewspaperSG.
+[Property sale](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19330302-1.2.47). (1933, March 2). *The Malaya Tribune*, p. 7. Retrieved from NewspaperSG.
 
-Raffles Place building sold for $1.5 million. (1956, January 17). The Straits Times, p. 4. Retrieved from NewspaperSG.
+[Raffles Place building sold for $1.5 million](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19560117-1.2.61). (1956, January 17). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
 
-Raffles Place developments. (1935, April 3). The Straits Times, p. 13. Retrieved from NewspaperSG.
+[Raffles Place developments](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19350403-1.2.77). (1935, April 3). *The Straits Times*, p. 13. Retrieved from NewspaperSG.
 
-Registry of Companies. (1916–1955). Kelly and Walsh Limited [ROC 296]. Retrieved from National Archives of Singapore website.
+Registry of Companies. (1916–1955). *[Kelly and Walsh Limited](http://www.nas.gov.sg/archivesonline/government_records/record-details/0ab4eb08-115a-11e3-83d5-0050568939ad)* [ROC 296]. Retrieved from National Archives of Singapore website.
 
-Round the shops: Kelly and Walsh. (1900, December 17). The Straits Times, p. 3. Retrieved from NewspaperSG.
+[Round the shops: Kelly and Walsh](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19001217-1.2.49). (1900, December 17). *The Straits Times*, p. 3. Retrieved from NewspaperSG.
 
-Singapore and Straits directory, 1880–1921. Singapore: Fraser & Neave. (Call no.: RRARE 382.09595 STR; Microfilm nos.: NL1174–1190, NL7999, NL8000)
+*[Singapore and Straits directory, 1880–1921](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5057490)*. Singapore: Fraser & Neave. (Call no.: RRARE 382.09595 STR; Microfilm nos.: NL1174–1190, NL7999, NL8000)
 
-Straits Settlements government gazette, 1887–1941 . Singapore: Government Printing Office. (Call no.: RRARE 959.51 SGG)
+*[Straits Settlements government gazette, 1887–1941](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5289724)*. Singapore: Government Printing Office. (Call no.: RRARE 959.51 SGG)
 
-The Battery Road improvements. (1890, August 6). The Singapore Free Press and Mercantile Advertiser (Weekly), p. 12. Retrieved from NewspaperSG.
+[The Battery Road improvements](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk18900806-1.2.30). (1890, August 6). *The Singapore Free Press and Mercantile Advertiser* (Weekly), p. 12. Retrieved from NewspaperSG.
 
-The Christmas shows at the stores. (1897, December 20). Mid-Day Herald and Daily, p. 2. Retrieved from NewspaperSG.
+[The Christmas shows at the stores](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/middayherald18971220-1.2.9). (1897, December 20). *Mid-Day Herald and Daily*, p. 2. Retrieved from NewspaperSG.
 
-The Singapore and Malayan directory. (1921–1926) Singapore: Fraser & Neave. (Call no.: RRARE 382.09595 STR-[LKL]; Microfilm nos.: NL1191, NL1192, NL1993)
+*The Singapore and Malayan directory*. (1921–1926) Singapore: Fraser & Neave. (Call no.: RRARE 382.09595 STR-[LKL]; Microfilm nos.: NL1191, NL1192, NL1993)
 
-The stores and Christmas. (1889, December 24). The Singapore Free Press and Mercantile Advertiser (Weekly), p. 791. Retrieved from NewspaperSG.
+[The stores and Christmas](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk18891224-1.2.49). (1889, December 24). *The Singapore Free Press and Mercantile Advertiser* (Weekly), p. 791. Retrieved from NewspaperSG.
 
-T. F. Hwang takes you down memory lane: Old publishers and booksellers. (1989, September 16). The Straits Times, p. 22. Retrieved from NewspaperSG.
+[T. F. Hwang takes you down memory lane: Old publishers and booksellers.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19890916-1.2.40.5) (1989, September 16). *The Straits Times*, p. 22. Retrieved from NewspaperSG.
 
-Where there is no cold weather….(1889, November 5). The Singapore Free Press and Mercantile Advertiser (Weekly), p. 550. Retrieved from NewspaperSG.
+[Where there is no cold weather….](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk18891106-1.2.8)(1889, November 5). *The Singapore Free Press and Mercantile Advertiser* (Weekly), p. 550. Retrieved from NewspaperSG.
 
-Winstedt’s Malay dictionary. (1914, April 25). The Straits Times, p. 9. Retrieved from NewspaperSG.
+[Winstedt’s Malay dictionary](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19140425-1.2.62). (1914, April 25). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
 
-Wright, A., & Cartwright, H.A. (Eds.) (1908). Twentieth century impressions of British Malaya (p. 679). London: Lloyd’s Greater Britain Pub. (Call no.: RCLOS 959.51033 TWE)
+Wright, A., & Cartwright, H.A. (Eds.) (1908). *[Twentieth century impressions of British Malaya](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4125591)* (p. 679). London: Lloyd’s Greater Britain Pub. (Call no.: RCLOS 959.51033 TWE)
 
-Xmas quiet. (1933, December 11). The Straits Times, p. 10. Retrieved from NewspaperSG.
+[Xmas quiet](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19331211-1.2.139.35). (1933, December 11). *The Straits Times*, p. 10. Retrieved from NewspaperSG.
 
-Yuletide in Singapore: Kelly and Walsh. (1899, December 14). The Straits Times, p. 3. Retrieved from NewspaperSG.
+[Yuletide in Singapore: Kelly and Walsh](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18991214-1.2.27). (1899, December 14). *The Straits Times*, p. 3. Retrieved from NewspaperSG.
 
 #### **NOTES**
 
