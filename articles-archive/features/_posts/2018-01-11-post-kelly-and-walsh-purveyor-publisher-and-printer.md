@@ -138,7 +138,7 @@ Chou Sing Chu Foundation. (2016). *[Passage of time: Singapore bookstore stories
 
 [Dr. Kinsey come to town – at $30 a copy](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19531117-1.2.81). (1953, November 17). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
 
-[‘English books good’.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19500928-1.2.62) (1950, September 28).* Singapore Standard*, p. 9. Retrieved from NewspaperSG.
+[‘English books good’.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19500928-1.2.62) (1950, September 28). *Singapore Standard*, p. 9. Retrieved from NewspaperSG.
 
 [Former Kelly & Walsh book shop reopens](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/syonantimes19420916-1.2.42). (1942, September 16). *The Syonan Times*, p. 4. Retrieved from NewspaperSG.
 
