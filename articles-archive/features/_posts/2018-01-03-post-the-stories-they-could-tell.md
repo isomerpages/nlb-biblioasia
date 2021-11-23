@@ -37,6 +37,8 @@ The collection is almost scrapbooklike in its diversity and messiness: a motley 
 
 This is what we’ve been able to piece together from the objects: In 1941, Chelliah, at age 15, was a member of the wartime Medical Auxiliary Services (civilian volunteers who provided first aid). During the Occupation, he learned Japanese and was employed at the Japanese broadcasting department in Cathay Building. From his salary envelopes, we know that his pay was raised from 3,800 yen in 1943 to 13,000 yen, reflecting the runaway inflation of the time. His list of broadcasting department colleagues provides a glimpse of its multiracial and multilingual profile (including Thai and Vietnamese names).
 
+<div style="background-color: white;"><img style="width:600px" src="/images/Vol-13-issue-4/the-stories-they-could-tell/04_stories.png">David Chelliah’s student pass at a Japanese-language school and his salary envelopes when he worked at the Japanese broadcasting department in Cathay Building. <i>David Chelliah Collection, courtesy of National Archives of Singapore.</i></div>
+
 The messiest pile we had to sort out was English newspaper clippings. Some clearly recorded landmark historical moments, but also tucked away in the stash were longish newspaper articles about the Japanese language institute Syonan Nippon Gakuen. The articles were mainly mundane reports – reproduced speeches by a military representative and the head of the school, Professor Kotaro Jimbo (sometimes spelled Zimbo), repeating imperial propaganda about the need to “master Nippon-Go” (the Japanese language) and the self-styled superiority of the “Nippon Race”, and about Japanese history and culture.[^3] Interestingly, Jimbo was a prominent poet who, like other intellectuals in Japan, threw his support behind the imperial state’s Nipponisation project.[^4]
 
 <div style="background-color: white;"><img style="width:550px" src="/images/Vol-13-issue-4/the-stories-they-could-tell/02_stories.jpg">Newspaper articles from the Japanese wartime newspaper <i>Syonan Shimbun</i> on Singapore students studying Japanese. The article praises the inaugural batch of students graduating from the Japanese-language institute Syonan Nippon Gakuen. <i>Courtesy of National Archives of Singapore.</i></div>
@@ -46,8 +48,6 @@ It was only when we scrutinised the list of graduates – there were several hun
 The fragmentary nature of Chelliah’s collection – and indeed, of many personal items that now reside with NAS – means this is all we can muster: fleeting glimpses of the little things people did for a few days, weeks or months, a snapshot of activity that may or may not have significantly changed their lives, but when put into the right context, can give us a clue to understand something of that period.
 
 Imagine how it must have felt to be one of 250 students (out of 2,500 applicants) at Syonan Nippon Gakuen, sitting in a multiracial class of people who, until half a year ago, had only known British colonial rule. Imagine them desperately wrapping their tongues around new sounds and phrases that Professor Jimbo and his colleagues scribbled on the blackboard, wondering if they needed to know this language only for a short time – or if their new rulers were here to stay.[^5]
-
-<div style="background-color: white;"><img style="width:600px" src="/images/Vol-13-issue-4/the-stories-they-could-tell/04_stories.png">David Chelliah’s student pass at a Japanese-language school and his salary envelopes when he worked at the Japanese broadcasting department in Cathay Building. <i>David Chelliah Collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **After the Event, Before History**
 
@@ -85,7 +85,7 @@ For any historical event, meanings change as time passes. To me, archives are cl
 
 #### **NOTES**
 
-[^1]:Balasingamchow, Y.M. (2016, Jul–Sep). [My grandmother’s story](www.nlb.gov.sg/biblioasia/2016/07/12/my-grandmothers-story/). *BiblioAsia, 12* (2). Retrieved from *BiblioAsia* website.
+[^1]:Balasingamchow, Y.M. (2016, Jul–Sep). [My grandmother’s story](https://biblioasia.nlb.gov.sg/vol-12/issue-2/jul-sep-2016/my-grandmother-story). *BiblioAsia, 12* (2). Retrieved from BiblioAsia website.
 
 [^2]:The image is reproduced as a large wall graphic in the permanent exhibition *Surviving the Japanese Occupation: War and Its Legacies at the Former Ford Factory*. It is several metres in width, and is found at the start of the gallery on the history of the Occupation.
 
