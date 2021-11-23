@@ -4,7 +4,7 @@ date: 2016-01-18
 permalink: /vol-11/issue-4/jan-mar-2016/birdsofmalaypeninsula
 layout: post
 ---
-<div style="background-color: white;"><br><img src="/images/vol-11-issue-4/birds-of-the-malay-peninsula/01_birds.jpg">From top: A mature Malay Glossy Starling, an immature Malay Glossy Starling and the Buffalo Mynah. <i>All rights reserved, Robinson, H. C. (1927). The Birds of the Malay Peninsula (Vol. I). London: H. F. & G. Witherby.</i></div>
+<div style="background-color: white;"><br><img style="width:400px" src="/images/vol-11-issue-4/birds-of-the-malay-peninsula/01_birds.jpg">From top: A mature Malay Glossy Starling, an immature Malay Glossy Starling and the Buffalo Mynah. <i>All rights reserved, Robinson, H. C. (1927). The Birds of the Malay Peninsula (Vol. I). London: H. F. & G. Witherby.</i></div>
 
 Much has been written about the history of the Malay Peninsula and its people. Far less would have been known about the region’s birds, however, if not for an extensive five-volume series painstakingly compiled by four ornithologists between 1927 and 1976.
 
