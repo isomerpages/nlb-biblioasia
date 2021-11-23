@@ -7,7 +7,7 @@ layout: post
 ---
 #### **Han Fook Kwang** shares some of his favourite stories from Singaporeans as told in Living The Singapore Story, a book commemorating the nation’s golden jubilee.
 
-<img src="/images/vol-11-issue-2/stories/sg50_books.jpg">
+<img src="/images/vol-11-issue-2/stories/sg50_bookss.jpg">
 
 What is the Singapore Story?
 
@@ -35,7 +35,7 @@ Another veteran – policeman Rahman Khan – was shot by Singapore’s most fam
 
 Angel Ng was an angry young woman who was jailed eight times for various drug offences. When she last left her cell, she got a job at a call centre started by the prison authorities under its Yellow Ribbon project. Today, she manages three call centres.
 
-Adam Maniam is a Tamil-Eurasian- Malay-Pakistani lawyer with a Catholic Tamil grandfather and a Eurasian grandmother. His father married a Muslim woman and converted to Islam. The lawyer married a Chinese girl and they decided on a civil marriage. It is a complicated story but very Singaporean.
+Adam Maniam is a Tamil-Eurasian Malay-Pakistani lawyer with a Catholic Tamil grandfather and a Eurasian grandmother. His father married a Muslim woman and converted to Islam. The lawyer married a Chinese girl and they decided on a civil marriage. It is a complicated story but very Singaporean.
 
 There are also some not-so-ordinary people in the book.
 
@@ -55,7 +55,7 @@ If we do not find a way of recording and remembering them, it will be like those
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-11-issue-2/stories/ManiamFamily.jpg">
+<img style="width:70%" src="/images/vol-11-issue-2/stories/ManiamFamily.jpg">
 Adam Maniam (standing, left), with wife Yap Cuixian and their daughter Amelia Ri-En, his elder brother Aaron (seated, top) and younger brother Ashraf, together with his father Sydney (right), mother Bibe Zoolaha and maternal great-grandmother Chan Bibi. Adam is a Tamil-Eurasian-Malay-Pakistani lawyer with a Catholic Tamil grandfather and a Eurasian grandmother.
 </div>
 
@@ -65,7 +65,7 @@ Adam Maniam (standing, left), with wife Yap Cuixian and their daughter Amelia Ri
 
 Being in and out of jail so many times since I was 17 did not scare me off  prison life. Being in prison was no  big deal; some prisoners wanted to  return to prison because they found that better than having to face society.
 
-n 1994, two weeks after I gave birth to my only child, Valerie, I was jailed yet again. I’m aggressive and  argumentative by nature and I always had the spirit of <i>buay sai see</i> (must not die in Hokkien).
+In 1994, two weeks after I gave birth to my only child, Valerie, I was jailed yet again. I’m aggressive and  argumentative by nature and I always had the spirit of <i>buay sai see</i> (must not die in Hokkien).
 
 But this time, I had post-natal  depression, missed my baby and was worried about how my mother, who’d just been told she had cervical cancer, would cope with bringing up Valerie. I thought: “I’ve been such a burden to my mother, and I can’t change. It’s best to end it all.” I took a metal spike from the toilet brush and cut my wrists... The wardens saved me.
 
@@ -81,20 +81,20 @@ Most newly released ex-offenders have no money, so Connect gives them $10 a day 
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-11-issue-2/stories/AngelNg.jpg">
+<img style="width:70%" src="/images/vol-11-issue-2/stories/AngelNg.jpg">
 Angel Ng oversees more than 50 employees, many of them ex-offenders,  at Connect Centre. It trains former inmates at its three call centres so they have a chance at holding down steady jobs and re-integrating into society.
 </div>
 
 
-#### **Made in Singapore: Asia’s First Test-tube Bab**
+#### **Made in Singapore: Asia’s First Test-tube Baby**
 
 <b>Despite his unusual beginnings, Samuel Lee, 32, says he’s just an average Singaporean.</b>
 
 My friends used to tease me when we were children: “You’re man-made!”  I would laugh it off, but when I think about it, they were right.
 
-I was the first test-tube baby  born in A sia on 19 May 1983. My  father was 21 and my mother 19 when they married in 1976. They tried to  conceive, but with no luck until 1982, when they took part in a clinical trial under Professor S. S. Ratnam and  Professor Ng Soon Chye. Although doctors implanted embryos in eight women, I was the only success.
+I was the first test-tube baby born in Asia on 19 May 1983. My  father was 21 and my mother 19 when they married in 1976. They tried to conceive, but with no luck until 1982, when they took part in a clinical trial under Professor S. S. Ratnam and  Professor Ng Soon Chye. Although doctors implanted embryos in eight women, I was the only success.
 
-I was born to great media  attention, which made my parents  uncomfortable. We were ordinary  Singaporeans living in a three-room flat in Woodlands. My father was a  security supervisor and my mother  a secretary. Thankfully, the in-vitro  fertilisation (IVF) was subsidised, and thus affordable to them.
+I was born to great media  attention, which made my parents  uncomfortable. We were ordinary  Singaporeans living in a three-room flat in Woodlands. My father was a  security supervisor and my mother  a secretary. Thankfully, the in-vitro  fertilisation (IVF) was subsidised, and thus affordable for them.
 
 My birth might have been considered extraordinary, but I was raised like any ordinary Singaporean. I got my first inkling that I was somehow different from other kids when I heard other people referring to me as a test-tube baby when I was four or five. I asked my parents about it, and they just gave me a simple explanation of how I came about. I used to ask my parents for a sibling. They’d laugh and tell me it was a very difficult request to fulfil. It was only when I was older – around 13 – that I understood why and realised what my birth really meant.
 
@@ -125,7 +125,7 @@ I remember we were eating  <i>nasi briyani</i> at an operating table  with bodie
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-11-issue-2/stories/RahmanKhan.jpg">
+<img style="width:70%" src="/images/vol-11-issue-2/stories/RahmanKhan.jpg">
 Veteran police officer Abd Rahman Khan Gulap Khan was at the front line of several major investigations.
 </div>
 
@@ -138,7 +138,7 @@ President Benjamin Sheares summoned me to the Istana after my boss sold him a ca
 
 Mr Sheares was not the only president I met in my career. Asia Motor, which I joined in 1958, also sold a Peugeot to our first president, Yusof Ishak. I delivered the car to him at the Istana too.
 
-When I left school, I saw an advertisement for a sales representative at Asia Motor. I was 20 then and already into cars. I had passed my driving test the year before. The person who inter- viewed me asked if I knew about car engines. I said: “If you give me a chance, I can learn. I also love to meet people, I love to talk, I like to move around, and I drive.” I got the job.
+When I left school, I saw an advertisement for a sales representative at Asia Motor. I was 20 then and already into cars. I had passed my driving test the year before. The person who interviewed me asked if I knew about car engines. I said: “If you give me a chance, I can learn. I also love to meet people, I love to talk, I like to move around, and I drive.” I got the job.
 
 My colleagues, all men, were sceptical. After all, I was the first woman car sales rep in Singapore. They were polite but didn’t really teach me how to sell. Since I was new and didn’t have my own pool of customers, I couldn’t sit in the showroom and wait for people to come. So I went out to canvass for sales in the diesel Peugeot 403 that the company provided. In my high heels – never court shoes – I drove everywhere, even to muddy areas in Jurong.
 
@@ -150,14 +150,16 @@ I still love cars and will spend more than an hour washing my daughter’s car. 
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-11-issue-2/stories/Rosie_Ang.jpg">
-Veteran car saleswoman Rosie Ang, 77, started out in the business when she was 20. Her working hours were long, but her hard work paid off, and she had plenty of referrals. She even delivered a car to Singapore’s first president, Yusof Ishak.</div>
-
-<div style="background-color: white;">
-<br/>
 <img src="/images/vol-11-issue-2/stories/Rosie_Ang_old.jpg">
 Rosie Ang at her company's car showroom at Ngee Ann City Building on Orchard Road in the 1960s. It was one of several showrooms in the area then. <i>Courtesy of Rosie Ang.</i>
 </div>
+
+<div style="background-color: white;">
+<br/>
+<img style="width:88%" src="/images/vol-11-issue-2/stories/Rosie_Ang.jpg">
+Veteran car saleswoman Rosie Ang, 77, started out in the business when she was 20. Her working hours were long, but her hard work paid off, and she had plenty of referrals. She even delivered a car to Singapore’s first president, Yusof Ishak.</div>
+
+
 
 
 #### **A Voice for the Less Advantaged**
