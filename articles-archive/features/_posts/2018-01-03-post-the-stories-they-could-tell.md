@@ -77,7 +77,7 @@ For any historical event, meanings change as time passes. To me, archives are cl
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Vol-13-issue-4/the-stories-they-could-tell/yu-mei.png">
+<img style="width: 100px; height: 100px;" src="/images/Vol-13-issue-4/the-stories-they-could-tell/yu-mei1.png">
 	<b>Yu-Mei Balasingamchow</b> is the co-author of <i>Singapore: A Biography</i> (2009) and works on history, art and culture projects. She writes fiction and has also curated exhibitions for the National Museum of Singapore and the National Archives of Singapore. Her website is www.toomanythoughts.org.
 </div>
 
