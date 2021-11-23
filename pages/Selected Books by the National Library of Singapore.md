@@ -4,13 +4,8 @@ permalink: /bookss
 description: ""
 image: /images/vol-17-issue-4/diard-duvaucel/DiardDuvaucel2.jpg
 ---
-
 <br>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/king" target="_blank">The King’s Chinese: The Life of Sir Song Ong Siang</a> 
-<p>Song Ong Siang was the first local-born barrister and the first person in Malaya to receive a knighthood. Kevin Y.L. Tan recounts the extraordinary life of this Peranakan luminary.</p> 
-<img src="/images/Vol-16-issue-1%2Fking/One-hundred-book-mockup.png"> 
-<hr>
 <br>
 
 
