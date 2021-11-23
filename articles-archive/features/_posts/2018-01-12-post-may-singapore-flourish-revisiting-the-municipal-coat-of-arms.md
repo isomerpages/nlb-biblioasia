@@ -108,17 +108,17 @@ The royal warrant thus reveals Singapore in 1948 to be in a liminal zone, caught
 
 [^1]:The park is the site of the former Mount Emily Swimming Complex, Singapore’s first public pool, which was converted from a service reservoir and opened in 1931. The reservoir was built in 1878 to supply the town with fresh water.
 
-[^2]:The “R” in G. R. VI is an abbreviation of Rex (King). See New coat of arms arrives. (1948, August 15). *The Straits Times*, p. 5. Retrieved from NewspaperSG.
+[^2]:The “R” in G. R. VI is an abbreviation of Rex (King). See [New coat of arms arrives](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19480815-1.2.48). (1948, August 15). *The Straits Times*, p. 5. Retrieved from NewspaperSG.
 
-[^3]:S’pore seeks coat of arms. (1947, July 30). *The Singapore Free Press*, p. 5. Retrieved from NewspaperSG.
+[^3]:[S’pore seeks coat of arms](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19470730-1.2.25.6). (1947, July 30). *The Singapore Free Press*, p. 5. Retrieved from NewspaperSG.
 
-[^4]:The Straits Times, 15 Aug 1947, p. 5.
+[^4]:*[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19480815-1.2.48),* 15 Aug 1947, p. 5.
 
 [^5]:The crest of the Straits Settlements arms came in four quadrants, each representing a constituent settlement – Singapore, Melaka, Penang and Labuan. The British dissolved the Straits Settlements on 1 April 1946, with Melaka and Penang joining the Malayan Union, and Singapore becoming a crown colony of its own. Labuan was incorporated into the crown colony of North Borneo on 15 July 1946. 
 
-[^6]:Word changed on Singapore’s common seal. (1940, January 28). The Straits Times, p. 9. Retrieved from NewspaperSG.
+[^6]:[Word changed on Singapore’s common seal](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19400128-1.2.73). (1940, January 28). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
 
-[^7]:Say ‘Majulah Singapura’ he suggests. (1952, July 15). The Straits Times, p. 4. Retrieved from NewspaperSG.
+[^7]:[Say ‘Majulah Singapura’ he suggests](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19520715-1.2.71). (1952, July 15). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
 
 [^8]:[Official motto for Penang adopted: ‘United and Loyal’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19501107-1.2.73). (1950, November 7). *Singapore Standard*, p. 4. Retrieved from NewspaperSG.
 
