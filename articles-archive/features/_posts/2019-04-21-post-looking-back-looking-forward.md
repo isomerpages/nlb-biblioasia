@@ -6,6 +6,8 @@ layout: post
 ---
 #### **Shashi Jayakumar** examines the role of the National Archives as the official custodian of government records and the people’s collective memory.
 
+<div style="background-color: white;"><br><img src="/images/Vol-15-issue-1/rambling/01_.jpg"></div>
+
 The National Archives of Singapore (NAS) celebrated its 50th anniversary in 2018. This, along with Singapore’s bicentennial this year, is an occasion to reflect on the past as well as the way forward.
 
 The National Archives and Records Centre, as it was known in 1968 when it first began, was established as the custodian of the corporate and institutional memory of Singapore, a repository for records of national or historical significance – some of which date as far back as 1800.
