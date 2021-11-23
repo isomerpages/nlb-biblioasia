@@ -110,27 +110,27 @@ In 1924, Kelly & Walsh sold off its printing press to its competitor Fraser & Ne
 
 #### **REFERENCES**
 
-1903: The year reviewed. (1903, December 31). The Straits Times, p. 1. Retrieved from NewspaperSG.
+[1903: The year reviewed](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19031231-1.2.2). (1903, December 31). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
 
-At Kelly & Walsh’s. (1921, December 21). The Malaya Tribune, p. 1. Retrieved from NewspaperSG.
+[At Kelly & Walsh’s](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19211221-1.2.7). (1921, December 21). *The Malaya Tribune*, p. 1. Retrieved from NewspaperSG.
 
-Battery Road renewed. (1891, September 4). The Singapore Free Press and Mercantile Advertiser (1884–1942), p. 2. Retrieved from NewspaperSG.
+[Battery Road renewed](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb18910904-1.2.8). (1891, September 4). *The Singapore Free Press and Mercantile Advertiser* (1884–1942), p. 2. Retrieved from NewspaperSG.
 
-Black market in books. (1947, July 20). The Straits Times, p. 5. Retrieved from NewspaperSG
+[Black market in books](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19470720-1.2.38). (1947, July 20). *The Straits Times*, p. 5. Retrieved from NewspaperSG
 
-Brightens Raffles Place. (1935, August 28). The Straits Times, p. 12. Retrieved from NewspaperSG.
+[Brightens Raffles Place](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19350828-1.2.76). (1935, August 28). *The Straits Times*, p. 12. Retrieved from NewspaperSG.
 
-Buckoke, L. (1950, September 6). Just looking…around the Singapore shops. Singapore Standard, p. 5. Retrieved from NewspaperSG.
+Buckoke, L. (1950, September 6). [Just looking…around the Singapore shops](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19500906-1.2.79). *Singapore Standard*, p. 5. Retrieved from NewspaperSG.
 
-Chou Sing Chu Foundation. (2016). Passage of time: Singapore bookstore stories 1881–2016 (pp. 82–87). Singapore: Chou Sing Chu Foundation. (Call no.: RSING 070.5095957 CHO)
+Chou Sing Chu Foundation. (2016). *[Passage of time: Singapore bookstore stories 1881–2016](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202743110)* (pp. 82–87). Singapore: Chou Sing Chu Foundation. (Call no.: RSING 070.5095957 CHO)
 
-Colony of Singapore. (1946–1956). Government gazette. Singapore: Government Printing Office. (Call no.: RCLOS 959.51 SGG)
+*[Colony of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200029528)*. (1946–1956). *Government gazette*. Singapore: Government Printing Office. (Call no.: RCLOS 959.51 SGG)
 
-Christmas cards. (1897, November 3). *The Straits Times*, p. 3. Retrieved from NewspaperSG.
+[Christmas cards](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18971103-1.2.32). (1897, November 3). *The Straits Times*, p. 3. Retrieved from NewspaperSG.
 
 [Christmas cards](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk18981110-1.2.29). (1898, November 10). *The Singapore Free Press and Mercantile Advertiser* (Weekly), p. 5. Retrieved from NewspaperSG.
 
-Christmas card displays. (1896, November 7). *The Straits Times*, p. 2. Retrieved from NewspaperSG.
+[Christmas card displays](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18961107-1.2.22). (1896, November 7). *The Straits Times*, p. 2. Retrieved from NewspaperSG.
 
 [Christmas preparations in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18971207-1.2.45). (1897, December 7). *The Straits Times*, p. 3. Retrieved from NewspaperSG.
 
