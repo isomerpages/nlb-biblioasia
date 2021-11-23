@@ -95,7 +95,7 @@ A couple riding an elephant at the Singapore Zoological Gardens in the mid-1980s
 
 <div style="background-color: white;">
 <br/>
-<img style="width:70%" src="/images/vol-11-issue-2/zoo/deer.jpg">
+<img style="width:70%" src="/images/vol-11-issue-2/zoo/deers.jpg">
 Deers inside a fenced enclosure at the Singapore Zoological Gardens in 1973. <i>Courtesy of Ho Seng Huat</i>.
 </div>
 
