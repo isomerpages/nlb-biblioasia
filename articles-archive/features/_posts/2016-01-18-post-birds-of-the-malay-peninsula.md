@@ -4,7 +4,7 @@ date: 2016-01-18
 permalink: /vol-11/issue-4/jan-mar-2016/birdsofmalaypeninsula
 layout: post
 ---
-<div style="background-color: white;"><br><img src="/images/Vol-13-issue-4/birds-of-the-malay-peninsula/01-birds.jpg">From top: A mature Malay Glossy Starling, an immature Malay Glossy Starling and the Buffalo Mynah. <i>All rights reserved, Robinson, H. C. (1927). The Birds of the Malay Peninsula (Vol. I). London: H. F. & G. Witherby.</i></div>
+<div style="background-color: white;"><br><img src="/images/Vol-13-issue-4/birds-of-the-malay-peninsula/01_birds.jpg">From top: A mature Malay Glossy Starling, an immature Malay Glossy Starling and the Buffalo Mynah. <i>All rights reserved, Robinson, H. C. (1927). The Birds of the Malay Peninsula (Vol. I). London: H. F. & G. Witherby.</i></div>
 
 Much has been written about the history of the Malay Peninsula and its people. Far less would have been known about the region’s birds, however, if not for an extensive five-volume series painstakingly compiled by four ornithologists between 1927 and 1976.
 
@@ -15,11 +15,11 @@ The series of books, which has been endorsed by the global ornithology community
 Until these volumes were published, research works on the region’s birdlife were considered unsatisfactory.[^1] The series is even more remarkable when one considers the fact that its authors researched and compiled its contents over the span of almost 50 years, all this while combing the thick, impenetrable Malayan jungles to document the 700 bird species that inhabit the region.[^2]
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;">
-<img src="/images/Vol-13-issue-4/birds-of-the-malay-peninsula/02-birds.jpg">From top: Tail feathers of the Common or Fantail Snipe, Chinese or Swinhoe’s Snipe and the Pintail Snipe. <i>All rights reserved, Robinson, R. C., & Chasen, F. N. (1936). The Birds of the Malay Peninsula (Vol. III). London: H. F. & G. Witherby.</i>
+<img src="/images/Vol-13-issue-4/birds-of-the-malay-peninsula/02_birds.jpg">From top: Tail feathers of the Common or Fantail Snipe, Chinese or Swinhoe’s Snipe and the Pintail Snipe. <i>All rights reserved, Robinson, R. C., & Chasen, F. N. (1936). The Birds of the Malay Peninsula (Vol. III). London: H. F. & G. Witherby.</i>
 <br><br>
-<img src="/images/Vol-13-issue-4/birds-of-the-malay-peninsula/03-birds.jpg">From top: Heads of the Bushy-Crested Hornbill, Malaysian Wreathed Hornbill, Wrinkled Hornbill, Long-crested Hornbill and Helmeted Hornbill. <i>All rights reserved, Robinson, H. C. (1928). The Birds of the Malay Peninsula (Vol. II). London: H. F. & G. Witherby.</i>
+<img src="/images/Vol-13-issue-4/birds-of-the-malay-peninsula/03_birds.jpg">From top: Heads of the Bushy-Crested Hornbill, Malaysian Wreathed Hornbill, Wrinkled Hornbill, Long-crested Hornbill and Helmeted Hornbill. <i>All rights reserved, Robinson, H. C. (1928). The Birds of the Malay Peninsula (Vol. II). London: H. F. & G. Witherby.</i>
 <br><br>
-<img src="/images/Vol-13-issue-4/birds-of-the-malay-peninsula/04-birds.jpg">Volume V of The Birds of the Malay Peninsula. This book in the series is titled “Conclusion, and Survey of Every Species” (1976) and was written by Lord Medway and David R. Wells. All rights reserved, National Library Board, Singapore.</i></span>
+<img src="/images/Vol-13-issue-4/birds-of-the-malay-peninsula/04_birds.jpg">Volume V of The Birds of the Malay Peninsula. This book in the series is titled “Conclusion, and Survey of Every Species” (1976) and was written by Lord Medway and David R. Wells. All rights reserved, National Library Board, Singapore.</i></span>
 
 The accounts contain the birds’ Latin, English and Malay names, as well as detailed descriptions of their soft parts, dimensions, the areas they inhabit in the Malay Peninsula and their habits. In 1928, the American ornithology community praised the publication’s “scope and method of treatment [as] admirable and the finely printed plates most satisfactory”.[^3]
 
@@ -27,7 +27,7 @@ Although the production of the series hit several snags – with the last volume
 
 In 1921, the originator of the series, Herbert C. Robinson – a specialist in birds and mammals of Malaya – pointed out that commercial timber exploitation could alter the character of the region’s primeval forests and profoundly affect the fauna.[^4] Robinson, with the financial backing of the Federated Malay States (FMS) government, then wrote the first two volumes (published in 1927 and 1928 respectively). The series was planned for release at half-yearly intervals[^5] but Robinson died in 1929. The work was resumed by Frederick N. Chasen – the first curator of the Raffles Museum[^6] – who completed volumes 3 (1936) and 4 (1939), and outlined his plans for volume 5 in the preface to the fourth volume.
 
-<div style="background-color: white;"><br><img src="/images/Vol-13-issue-4/birds-of-the-malay-peninsula/05-birds.jpg">Published in 1928, Volume II in the series is titled “The Birds of the Hill Stations” and written by Herbert C. Robinson. <i>All rights reserved, National Library Board, Singapore.</i></div>
+<div style="background-color: white;"><br><img src="/images/Vol-13-issue-4/birds-of-the-malay-peninsula/05_birds.jpg">Published in 1928, Volume II in the series is titled “The Birds of the Hill Stations” and written by Herbert C. Robinson. <i>All rights reserved, National Library Board, Singapore.</i></div>
 
 By 1942, preparation for the final volume was interrupted by the outbreak of World War II in Malaya. Chasen tragically drowned when the ship he was travelling on board was sunk by the Japanese days before the fall of Singapore. Chasen’s house is said to have been looted after he left, but the Raffles Museum remained intact throughout the war, although no sign of the manuscript was ever to be found.[^7]
 
