@@ -50,6 +50,8 @@ The NAS must play the role of facilitator when attending to legitimate requests 
 
 There is no better time to arrive at this consensus than during our bicentennial year as we look forward to the next lap of the NAS journey.
 
+<div style="background-color: white;"><br><img src="/images/Vol-15-issue-1/looking-back-looking-forward/02_lookingbackforward.jpg"></div>
+
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Vol-13-issue-3/old-world-amusement-parks/shashi.png">
