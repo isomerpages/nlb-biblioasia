@@ -44,26 +44,26 @@ H. F. & G. Witherby, the publisher of volumes 1 to 4, also produced the fifth vo
 
 #### **NOTES**
 
-[^1]:Robinson’s “The Birds of the Malay Peninsula”. (1928). The AUK: A quarterly Journal of Ornithology, XLV, 240.
+[^1]:Robinson’s “The Birds of the Malay Peninsula”. (1928). *The AUK: A quarterly Journal of Ornithology, XLV*, 240.
 
-[^2]:Malayan birds. (1927, August 16). The Singapore Free Press and Mercantile Advertiser (1884–1942), p. 14. Retrieved from NewspaperSG.
+[^2]:[Malayan birds](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19270816-1.2.85). (1927, August 16). *The Singapore Free Press and Mercantile Advertiser* (1884–1942), p. 14. Retrieved from NewspaperSG.
 
-[^3]:The AUK, 1928, pp. 239–240.
+[^3]:*The AUK, 1928*, pp. 239–240.
 
-[^4]:Wells, J.K. (2005). Nature and nation: Forests and development in Peninsular Malaysia (p. 170). Honolulu, HI: University of Hawaii Press. (Call no.: RSEA 333.75095951 KAT)
+[^4]:Wells, J.K. (2005). *[Nature and nation: Forests and development in Peninsular Malaysia](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12660368)* (p. 170). Honolulu, HI: University of Hawaii Press. (Call no.: RSEA 333.75095951 KAT)
 
-[^5]:Koss, C.B. (1928, January 17). The birds of the Malay Peninsula. The Straits Times, p. 3. Retrieved from NewspaperSG.
+[^5]:Koss, C.B. (1928, January 17). [The birds of the Malay Peninsula](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19280117-1.2.8). *The Straits Times*, p. 3. Retrieved from NewspaperSG.
 
-[^6]:National Library Board. (2013, March 15). Frederick Nutter Chasen written by Tan, Fiona. Retrieved from Singapore Infopedia.
+[^6]:National Library Board. (2013, March 15). *[Frederick Nutter Chasen](http://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-05-17_085050.html)* written by Tan, Fiona. Retrieved from Singapore Infopedia.
 
-[^7]:McClure, E. (1977, September). The Birds of the Malay Peninsula, Vol. 5 by Lord Medway, David R. Wells [review]. The Wilson Bulletin, 89 (3), 497–498. Retrieved from JSTOR via NLB’s eResources website: http://eresources.nlb.gov.sg; Tweedy, M.W.F. (1946, October). Obituary: Frederick Nutter Chasen. Ibis, 88(4), 527. Retrieved from Wiley Online Library; National Library Board, 15 Mar 2013.
+[^7]:McClure, E. (1977, September). The Birds of the Malay Peninsula, Vol. 5 by Lord Medway, David R. Wells [review]. *The Wilson Bulletin, 89* (3), 497–498. Retrieved from JSTOR via NLB’s eResources website: [http://eresources.nlb.gov.sg](http://eresources.nlb.gov.sg/); Tweedy, M.W.F. (1946, October). Obituary: Frederick Nutter Chasen. *Ibis, 88* (4), 527. Retrieved from Wiley Online Library; [National Library Board](http://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-05-17_085050.html), 15 Mar 2013.
 
-[^8]:Malayan birds. (1948, January 11). The Straits Times, p. 4. Retrieved from NewspaperSG.
+[^8]:[Malayan birds](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19480111-1.2.52). (1948, January 11). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
 
 [^9]:McClure, Sep 1977, p. 498.
 
 [^10]:Robertson, D. G. (1978). Review of “The Birds of the Malay Peninsula, Volume V: conclusion, and survey of every species”. Emu, 78 (1), 46–47.
 
-[^11]:WWF. (2010, May 21). Malaysia conservation leaders honoured with WWF international awards. Retrieved from WWF website.
+[^11]:WWF. (2010, May 21). *Malaysia conservation leaders honoured with WWF international awards*. Retrieved from WWF website.
 
 [^12]:McClure, Sep 1977, pp. 497–498.
