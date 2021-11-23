@@ -10,7 +10,7 @@ layout: post
 <div style="background-color: white;">
 <br/>
 <img style="width:70%" src="/images/vol-11-issue-2/sgsportgreat/LLOYD_VALBERG.jpg">
-High-jumper Lloyd Valberg was the first athlete to represent Singapore at the Olympics – the 1948 London games.<i>Courtesy of Sport Singapore.</i>
+High-jumper Lloyd Valberg was the first athlete to represent Singapore at the Olympics – the 1948 London games. <i>Courtesy of Sport Singapore.</i>
 </div>
 
 Who first put Singapore on the world’s swimming map? For most Singaporeans, the obvious answer would be Ang Peng Siong. Ang created a sensation when he became the world's fastest swimmer in 1982 after clocking 22.69 seconds in the men’s 50-metre freestyle event at the United States Swimming Championships in Indianapolis that year.
@@ -27,7 +27,7 @@ Neo was but one of the pioneers of Singapore sports who left their indelible mar
 
 His was a poignant story about how a boy from Swatow, China, and then Chinatown, Singapore, made good on the international stage. Competing in the lightweight category in Rome, Tan – suffering cramps and writhing in agony – defied doctors’ advice to quit. Instead, he persevered and was rewarded with a silver medal – behind Russia’s Viktor Bushuyev but ahead of Iraq's Abdul Wahid Aziz. Tan – who had made personal sacrifices without  expectations  of reward in an era when athletes pursued sports purely out of passion – was a true sports hero of his time.
 
-In track and field, athletes like high-jumper Lloyd Valberg and hurdler Ng Liang Chiang led the way with their pioneering spirit. As the world emerged from the ashes of World War II, Valberg carved his own little history by representing Singapore – not yet a nation and still a crown colony under British rule – at the 1948 London Olympics. The firefighter with his trademark goatee had to make do without a coach or proper equipment but nothing could take away his pride as he competed against the world’s best at Wembley Stadium. Although Val-berg did not have a podium finish, he holds the distinction of being the first athlete to represent Singapore at the Olympics.
+In track and field, athletes like high-jumper Lloyd Valberg and hurdler Ng Liang Chiang led the way with their pioneering spirit. As the world emerged from the ashes of World War II, Valberg carved his own little history by representing Singapore – not yet a nation and still a crown colony under British rule – at the 1948 London Olympics. The firefighter with his trademark goatee had to make do without a coach or proper equipment but nothing could take away his pride as he competed against the world’s best at Wembley Stadium. Although Valberg did not have a podium finish, he holds the distinction of being the first athlete to represent Singapore at the Olympics.
 
 Ng made an impact at the 1951 Asian Games in New Delhi, India, winning gold in the 110-metre hurdles and bronze in the 400-metre hurdles. When he mounted the winners’ rostrum, the Indians – who had earlier rejoiced with him following his success – booed him off the track. Fortunately, it wasn’t personal. Apparently, the organisers had played “God Save The Queen”, the British national anthem. Clearly this didn’t go down well with the patriotic locals who had just gained independence from colonial rule. Such were the rough and tumble ways of the sporting community emerging in this part of the world then.
 
