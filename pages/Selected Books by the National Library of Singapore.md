@@ -4,8 +4,3 @@ permalink: /bookss
 description: ""
 image: /images/vol-17-issue-4/diard-duvaucel/DiardDuvaucel2.jpg
 ---
-
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-1/apr-jun-2016/george-hicks" target="_blank">The George Hicks Collection</a> 
-<p>Donated to the National Library of Singapore in 2009 and 2013, the George Hicks collection comprises nearly 7,000 items on China, Japan and Southeast Asia. This book on the collection provides an overview of the life and career of George Hicks, including his contributions and a list of his edited and authored works.</p> 
-<img src=" /images/Vol-12-issue-1%2Fgeorge-hicks-collection/03_georgehicks.bmp" style="width:50%">
-<hr>
