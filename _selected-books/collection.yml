@@ -1,0 +1,4 @@
+collections:
+  selected-books:
+    output: true
+    order: []
