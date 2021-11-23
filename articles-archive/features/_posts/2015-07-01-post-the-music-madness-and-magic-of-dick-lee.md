@@ -7,7 +7,7 @@ layout: post
 ---
 #### The “Mad Chinaman” was probably the first to push the boundaries of popular music in Singapore. **Joy Loh** profiles the enfant terrible of entertainment.
 
-<img src="/images/vol-11-issue-2/dicklee/dicklee.jpg">
+<img src="/images/vol-11-issue-2/dicklee/dicklees.jpg">
 
 <i>“What drove me to do what I did – it was to find myself and to make my statement as a Peranakan Chinese Singapore citizen of Asia and of the world”.</i>
 
