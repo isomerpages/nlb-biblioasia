@@ -87,7 +87,7 @@ For any historical event, meanings change as time passes. To me, archives are cl
 
 [^1]:Balasingamchow, Y.M. (2016, Jul–Sep). [My grandmother’s story](https://biblioasia.nlb.gov.sg/vol-12/issue-2/jul-sep-2016/my-grandmother-story). *BiblioAsia, 12* (2). Retrieved from BiblioAsia website.
 
-[^2]:The image is reproduced as a large wall graphic in the permanent exhibition *Surviving the Japanese Occupation: War and Its Legacies at the Former Ford Factory*. It is several metres in width, and is found at the start of the gallery on the history of the Occupation.
+[^2]:The image is reproduced as a large wall graphic in the permanent exhibition *“Surviving the Japanese Occupation: War and Its Legacies” at the Former Ford Factory.* It is several metres in width, and is found at the start of the gallery on the history of the Occupation.
 
 [^3]:[Graduation of first batch of Nippon-go students](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/syonantimes19420804-1.2.42) (1942, August 4). *The Syonan Times*, p. 4. Retrieved from NewspaperSG.
 
