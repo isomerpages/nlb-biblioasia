@@ -1,5 +1,5 @@
 collections:
-  books:
+  selected-books:
     output: true
     order:
       - Selected Books by the National Library of Singapore.md
