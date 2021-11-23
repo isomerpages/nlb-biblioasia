@@ -51,30 +51,30 @@ Today, the school that has been renamed Raffles Institution has churned out some
 
 #### **NOTES**
 
-[^1]:Bastin, J.S. (1999). The first printing of Sir Stamford Raffles’s minute on the establishment of a Malay college at Singapore (p. 2). Eastbourne: J. Bastin. (Call no.: RCLOS 370.9598 RAF-[JSB])
+[^1]:Bastin, J.S. (1999). *[The first printing of Sir Stamford Raffles’s minute on the establishment of a Malay college at Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200665030)* (p. 2). Eastbourne: J. Bastin. (Call no.: RCLOS 370.9598 RAF-[JSB])
 
-[^2]:Hind, R.J. (1984, Summer). Elementary schools in nineteenth-century England: Their social and historiographical contexts. Historical Reflections/ Réflexions Historiques, 11(2), 189–205. Retrieved from JSTOR via NLB’s eResources website: http://eresources.nlb.gov.sg
+[^2]:Hind, R.J. (1984, Summer). Elementary schools in nineteenth-century England: Their social and historiographical contexts. *Historical Reflections/ Réflexions Historiques, 11* (2), 189–205. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg) website.
 
-[^3]:Harrison, B. (1979). Waiting for China: The Anglo-Chinese College at Malacca, 1818–1843, and early nineteenth-century missions (pp. 132–133). Hong Kong: Hong Kong University Press. (Call no.: RSING 207.595141 HAR)
+[^3]:Harrison, B. (1979). *[Waiting for China: The Anglo-Chinese College at Malacca, 1818–1843, and early nineteenth-century missions](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=1710735)* (pp. 132–133). Hong Kong: Hong Kong University Press. (Call no.: RSING 207.595141 HAR)
 
-[^4]:Lee, T.H. (2011). Chinese schools in Peninsular Malaysia: The struggle for survival (p. 3). Singapore: Institute of Southeast Asian Studies. (Call no.: RSEA 371.8299510595 LEE)
+[^4]:Lee, T.H. (2011). *[Chinese schools in Peninsular Malaysia: The struggle for survival](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13902784)* (p. 3). Singapore: Institute of Southeast Asian Studies. (Call no.: RSEA 371.8299510595 LEE)
 
-[^5]:Raffles, T.S. (1823). Formation of the Singapore Institution, A.D. 1823 (pp. 5–38). Malacca: Mission Press. Retrieved from BookSG.
+[^5]:Raffles, T.S. (1823). *[Formation of the Singapore Institution, A.D. 1823](http://eresources.nlb.gov.sg/printheritage/detail/c862d6a7-03d3-4333-9191-36bb78288b2f.aspx)* (pp. 5–38). Malacca: Mission Press. Retrieved from BookSG.
 
-[^6]:Raffles, 1823, pp. 38–42.
+[^6]:[Raffles](http://eresources.nlb.gov.sg/printheritage/detail/c862d6a7-03d3-4333-9191-36bb78288b2f.aspx), 1823, pp. 38–42.
 
-[^7]:Bastin, 1999, p. 2.
+[^7]:[Bastin](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200665030), 1999, p. 2.
 
-[^8]:Raffles, 1823, p. 108.
+[^8]:[Raffles](http://eresources.nlb.gov.sg/printheritage/detail/c862d6a7-03d3-4333-9191-36bb78288b2f.aspx), 1823, p. 108.
 
-[^9]:Wijeysingha, E. (1989). The eagle breeds a gryphon: The story of the Raffles Institution 1823–1985 (pp. 33–44, 335–338). Singapore: Pioneer Book Centre. (Call no.: RSING 373.5957 WIJ)
+[^9]:Wijeysingha, E. (1989). *[The eagle breeds a gryphon: The story of the Raffles Institution 1823–1985](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5662156)* (pp. 33–44, 335–338). Singapore: Pioneer Book Centre. (Call no.: RSING 373.5957 WIJ)
 
-[^10]:Wijeysingha, 1989, pp. 33–44.
+[^10]:[Wijeysingha](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5662156), 1989, pp. 33–44.
 
-[^11]:Harrison, 1979, p. 110.
+[^11]:[Harrison](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=1710735), 1979, p. 110.
 
-[^12]:Harrison, 1979, p. 82; Wijeysingha, 1989, p. 67.
+[^12]:[Harrison](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=1710735), 1979, p. 82; [Wijeysingha](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5662156), 1989, p. 67.
 
-[^13]:Makepeace, W., Brooke, G.E., & Braddell, R.S.J. (Eds.). (1991). One hundred years of Singapore (Vol. 1, pp. 431–432). Singapore: Oxford University Press. (Call no.: RSING 959.57 ONE-[HIS]); Singapore Institution Free School. (1862). Report (Singapore Institution Free School), 1834–62 (p. 3). Singapore: Mission Press. Retrieved from BookSG.
+[^13]:Makepeace, W., Brooke, G.E., & Braddell, R.S.J. (Eds.). (1991). *[One hundred years of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6203718)* (Vol. 1, pp. 431–432). Singapore: Oxford University Press. (Call no.: RSING 959.57 ONE-[HIS]); Singapore Institution Free School. (1862). *[Report (Singapore Institution Free School), 1834–62](http://eresources.nlb.gov.sg/printheritage/detail/09dfc891-a6fc-451a-8008-51162dc7567c.aspx)* (p. 3). Singapore: Mission Press. Retrieved from BookSG.
 
-[^14]:Doraisamy, T.R. (1969). 150 years of education in Singapore (p. 22). Singapore: Teachers’ Training College Publications Board. (Call no.: RSING 370.95957 TEA)
+[^14]:Doraisamy, T.R. (1969). *[150 years of education in Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082032)* (p. 22). Singapore: Teachers’ Training College Publications Board. (Call no.: RSING 370.95957 TEA)
