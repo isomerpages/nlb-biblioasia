@@ -188,7 +188,7 @@ People should be allowed to work for as long as they think they can, and as long
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-11-issue-2/stories/DrKanwaljitSoin.jpg">
+<img style="width:70%" src="/images/vol-11-issue-2/stories/DrKanwaljitSoin.jpg">
 Singapore’s first woman Nominated MP Kanwaljit Soin says moving the Family Violence Bill in 1995 was her biggest achievement.
 </div>
 
@@ -208,7 +208,7 @@ I still come in every day to my stall and eat a bowl of <i>mee rebus</i> or <i>m
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-11-issue-2/stories/NgalirdjoMungin.jpg">
+<img style="width:70%" src="/images/vol-11-issue-2/stories/NgalirdjoMungin.jpg">
 At age 94, Ngalirdjo Mungin still goes to his stall, which his son runs now, to check if the quality of the <i>mee rebus</i> and <i>mee soto</i> is good.
 </div>
  
@@ -227,7 +227,7 @@ Once, while I was talking to him, a friend of his came by and told him: “Oh, y
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-11-issue-2/stories/Sr_Thomasina_Sewell.jpg">
+<img style="width:70%" src="/images/vol-11-issue-2/stories/Sr_Thomasina_Sewell.jpg">
 Sister Thomasina Sewell is a nun in the Catholic order known as the Franciscan Missionaries of the Divine Motherhood. In 1961, she and 36 other nuns set up Mount Alvernia Hospital.
 </div>
 
@@ -245,17 +245,15 @@ After Glenn started attending Pathlight, I attended an anger management class th
 
 We didn’t actually realise Glenn had this talent. When he was about eight or nine, he drew a lot of cartoons, copying characters from <i>Peanuts or The Simpsons</i>, and they were very good, but we didn’t think much of this, because all children doodle. But since Glenn won the F1 competition, he has drawn more than 150 pictures. He never sketches – he just puts pen to paper and draws. 
 
-We didn’t actually realise Glenn had this talent. When he was about eight or nine, he drew a lot of cartoons, copying characters from Peanuts or The Simpsons, and they were very good, but we didn’t think much of this, because all children doodle. But since Glenn won the F1 competition, he has drawn more than 150 pictures. He never sketches – he just puts pen to paper and draws. 
-
 Glenn’s drawings are extremely detailed. He takes about 20 to 25 hours on average with each one. He doesn’t draw from memory or on the spot, but always works from a photograph. Glenn doesn’t draw from left to right, but he’ll jump around the picture. Sometimes I’ll watch him working, and I’ll see something random, and I’ll ask him – is that a mistake? But he’ll say: “Daddy, that’s my starting point.” When he’s done with the picture, you’ll have no idea where he started. 
 
 Member of Parliament Denise Phua, who helped set up Pathlight, called Glenn “the Stephen Wiltshire of Singapore”, referring to the famous British artist who has autism. 
 
-When Glenn was younger, we would worry about his future. Now, we’re definitely more confident. Path-light recently set up an art gallery for its artists, which also sells works by students who have graduated. It feels like there’s a direction for Glenn now, and he can earn a living. 
+When Glenn was younger, we would worry about his future. Now, we’re definitely more confident. Pathlight recently set up an art gallery for its artists, which also sells works by students who have graduated. It feels like there’s a direction for Glenn now, and he can earn a living. 
 
 <div style="background-color: white; padding-bottom:20px;">
 <br/>
-<img src="/images/vol-11-issue-2/stories/GlennPuah.jpg">
+<img style="width:70%" src="/images/vol-11-issue-2/stories/GlennPuah.jpg">
 Glenn Phua, see here with his father Kelvin, was found to be autistic when he was four. His artistic talent was discovered when he won an art competition.
 </div>
 
