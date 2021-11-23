@@ -6,7 +6,7 @@ layout: post
 ---
 #### **Shashi Jayakumar** examines the role of the National Archives as the official custodian of government records and the people’s collective memory.
 
-<div style="background-color: white;"><br><img src="/images/Vol-15-issue-1/rambling/01_.jpg"></div>
+<div style="background-color: white;"><br><img src="/images/Vol-15-issue-1/looking-back-looking-forward/01_lookingbackforward.jpg"></div>
 
 The National Archives of Singapore (NAS) celebrated its 50th anniversary in 2018. This, along with Singapore’s bicentennial this year, is an occasion to reflect on the past as well as the way forward.
 
