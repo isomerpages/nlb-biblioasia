@@ -222,18 +222,18 @@ Wright, A., & Cartwright, H.A. (Eds.) (1908). *[Twentieth century impressions of
 
 [^4]:Petrovitch also designed the Tanjong Pagar Railway Station.
 
-[^5]Best known for his work at the Old Supreme Court (present-day National Gallery Singapore).
+[^5]:Best known for his work at the Old Supreme Court (present-day National Gallery Singapore).
 
-[^6]Crittall is an iconic brand of windows that was founded in the UK in 1884.
+[^6]:Crittall is an iconic brand of windows that was founded in the UK in 1884.
 
-[^7]Colonial editions are editions of books sold at lower prices for distribution in colonial markets.
+[^7]:Colonial editions are editions of books sold at lower prices for distribution in colonial markets.
 
-[^8]This figure was derived through a count of the titles listed in the *Memoranda of Books Registered in the Catalogue of Books Printed in the Straits Settlements* and in WorldCat (http://www.worldcat.org).
+[^8]:This figure was derived through a count of the titles listed in the *Memoranda of Books Registered in the Catalogue of Books Printed in the Straits Settlements* and in WorldCat (http://www.worldcat.org).
 
 [^9]:A copy of this title is held by The British Library.
 
 [^10]:Proudfoot, I. (1986). A formative period in Malay book publishing. *Journal of the Malaysian Branch of the Royal Asiatic Society, 59* (2) (251), 101–132, p. 114. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
 
-[^11]A copy of this edition is held in the Emil Lüring collection of the Goethe University Library in Frankfurt.
+[^11]:A copy of this edition is held in the Emil Lüring collection of the Goethe University Library in Frankfurt.
 
 [^12]:Construction of the printing plant began in 1903.
