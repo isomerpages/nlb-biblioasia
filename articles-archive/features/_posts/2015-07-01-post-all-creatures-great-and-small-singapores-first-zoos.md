@@ -9,7 +9,7 @@ layout: post
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-11-issue-2/zoo/Entrance_of_zoo.jpg">
+<img style="width:70%" src="/images/vol-11-issue-2/zoo/Entrance_of_zoo.jpg">
 Entrance of the Singapore Miniature Zoo in Pasir Panjang that was started by Tong Seng Mun in 1957. <i>Tong Seng Mun Collection, courtesy of National Archives of Singapore</i>.
 </div>
 
@@ -43,21 +43,21 @@ The scaled-down Botanic Gardens zoo was now able to operate within budget. In fa
 
 Ridley held high regard for the Botanic Gardens zoo, describing it as an attraction that “was known all over the world, and the first thing asked for by visitors”. He saw the zoo as a means for researchers and the public to learn about animal behaviour objectively. He wrote, “The only way of knowing what an animal thinks is to keep it comfortable and snug and observe its ways. It will soon let you know what it likes, which probably does not at all fall in with your ideas of what it ought to like”.[^19] The public began urging the government to allocate more funds for the zoo to improve its infrastructure but as the cost of its upkeep was too high, the government decided in 1903 to sell all the animals and birds and shut down the zoo.
 
-<div style="background-color: white;">
-<br/>
-<img src="/images/vol-11-issue-2/zoo/basapa.jpg">
-William Lawrence Soma Basapa. Courtesy of the Basapa Family. <i>Courtesy of the Basapa Family.</i>
-</div>
-
-<div style="background-color: white;">
-<br/>
-<img src="/images/vol-11-issue-2/zoo/tiger.jpg">
-William Lawrence Soma Basapa with his favourite pet Bengal tiger Apay. <i>Courtesy of the Basapa Family</i>.
-</div>
-
 #### **Basapa’s Private Zoo**
 
 The next zoo was a private venture by William Lawrence Soma Basapa in 1928.[^20] Basapa was an Anglican Indian landowner who had an unequivocal passion for animals. In fact, he was an animal trader by profession, and had a pet Bengal tiger named Apay, which he led around with a chain since it was four years old. In the early 1920s, Basapa converted part of his estate at 317 Serangoon Road into a space for his collection of animals and birds.[^21] Among the first who visited Basapa’s private menagerie was Albert Einstein, the father of modern physics, who described it as a “wonderful zoological garden” when he visited Singapore in 1922.[^22] Unfortunately, Basapa had to relocate his animals in 1928 when his neighbours, the Rural Board and even his wife complained about the noise and the stench of his zoo.[^23]
+
+<div style="background-color: white;">
+<br/>
+<img  src="/images/vol-11-issue-2/zoo/basapa.jpg">
+William Lawrence Soma Basapa. <i>Courtesy of the Basapa Family.</i>
+</div>
+
+<div style="background-color: white;">
+<br/>
+<img style="width:70%" src="/images/vol-11-issue-2/zoo/tiger.jpg">
+William Lawrence Soma Basapa with his favourite pet Bengal tiger Apay. <i>Courtesy of the Basapa Family</i>.
+</div>
 
 The new 11-hectare site for his animals was situated on Punggol Road. Although it was a deserted mangrove swamp overgrown with weeds, bushes and coconut palms, Basapa was able to transform it into a working zoological garden. By 1930, the zoo, which was called the Singapore Zoo, had become quite respectable, attracting large numbers of visitors, particularly during weekends.[^24] Other than showcasing animals native to the Malay Peninsula and Borneo such as the Malayan tiger, Malayan tapir, spotted leopard and orangutan, Basapa also imported animals that were entirely new to Singapore in order to make the collection interesting for visitors.[^25]
 
@@ -89,13 +89,13 @@ Many of these attractions were conceived during Bernard Harrison’s term as exe
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-11-issue-2/zoo/elephant_re.jpg">
+<img style="width:70%" src="/images/vol-11-issue-2/zoo/elephant_re.jpg">
 A couple riding an elephant at the Singapore Zoological Gardens in the mid-1980s. Singapore Tourist Promotion Board Collection. <i>Courtesy of Singapore Tourist Promotion Board (STPB) Collection, National Archives of Singapore</i>.
 </div>
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-11-issue-2/zoo/deer.jpg">
+<img style="width:70%" src="/images/vol-11-issue-2/zoo/deer.jpg">
 Deers inside a fenced enclosure at the Singapore Zoological Gardens in 1973. <i>Courtesy of Ho Seng Huat</i>.
 </div>
 
@@ -110,7 +110,7 @@ The most recent jewel in the wildlife crown is the 12-hectare River Safari, Asia
 <br><br>
 The Singapore Zoo at Punggol was not the only private zoo in Singapore during the colonial period. As wildlife trade was unregulated at the time, Singapore became a wildlife trading hub, leading to the establishment of a number of private zoos.[^36] Among them was Tong Seng Mun’s Singapore Miniature Zoo at Pasir Panjang. Opened in 1957, it was home to many bird and animal species such as lions, bears, a camel and a rhinoceros. There was also a zoo off Tampines road, which was started in 1954 by L.F. de Jong. It reportedly housed cassowaries, tapirs, leopards, gibbons, crocodiles and snakes. Another zoo, called Mayfield Kennels and Zoo and owned by Herbert de Souza, was located on East Coast Road in the early 1950s. Here, visitors could purchase animals ranging from white mice to giant pythons and even elephants.[^37] Besides Basapa’s zoo in Punggol, there was another opened by the Chan brothers in the same area in 1963. The zoo, however, went bankrupt in the early 1970s and its animals and birds were auctioned off.[^38]</span>
 
-<p style="font-size:15px;"><b>Lim Tin Seng</b> is a Librarian with the National Library of Singapore. He is the co-editor of Roots: Tracing Family Histories – A Resource Guide (2013); Harmony and Development: ASEAN-China Relations (2009) and China’s New Social Policy: Initiatives for a Harmonious Society (2010). </p>
+<p style="font-size:15px;"><b>Lim Tin Seng</b> is a Librarian with the National Library of Singapore. He is the co-editor of <i>Roots: Tracing Family Histories – A Resource Guide</i> (2013); <i>Harmony and Development: ASEAN-China Relations</i> (2009) and <i>China’s New Social Policy: Initiatives for a Harmonious Society</i> (2010). </p>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-11/issue-2/jul-sep-2015/"><center>Back to Issue</center></a>
 
@@ -188,7 +188,7 @@ Willis, A.C. (1936). *[Willis’ Singapore guide](https://eresources.nlb.gov.sg/
 
 [^20]: Yuen, S. (2012, July 15). [Our forgotten zoo](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper20120715-1.2.16.1). <i>The New Paper</i>, pp. 18–19. Retrieved from NewspaperSG.
 
-[^21]: Wong, L.Q. (2013, October 29). Singapore’s first zoo. <u>*Mnemozine*</u>, 5, 33. Retrieved from National University of Singapore, Department of History website.
+[^21]: Wong, L.Q. (2013, October 29). Singapore’s first zoo. *Mnemozine*, 5, 33. Retrieved from National University of Singapore, Department of History website.
 
 [^22]: Zaccheus, M. (2013, April 6). [First zoo in Singapore rated 'wonderful' by Einstein](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20130406-1.2.54.15). <i>The Straits Times</i>, p. 18. Retrieved from NewspaperSG.
 
