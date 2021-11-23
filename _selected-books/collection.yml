@@ -2,6 +2,6 @@ collections:
   selected-books:
     output: true
     order:
-      - Example Title.md
+      - 2019.md
       - 2021.md
       - 2020.md
