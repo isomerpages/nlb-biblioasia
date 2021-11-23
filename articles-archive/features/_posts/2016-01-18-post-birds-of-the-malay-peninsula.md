@@ -19,7 +19,7 @@ Until these volumes were published, research works on the region’s birdlife we
 <br><br>
 <img style="width:400px" src="/images/vol-11-issue-4/birds-of-the-malay-peninsula/03_birds.jpg">From top: Heads of the Bushy-Crested Hornbill, Malaysian Wreathed Hornbill, Wrinkled Hornbill, Long-crested Hornbill and Helmeted Hornbill. <i>All rights reserved, Robinson, H. C. (1928). The Birds of the Malay Peninsula (Vol. II). London: H. F. & G. Witherby.</i>
 <br><br>
-<img style="width:400px" src="/images/vol-11-issue-4/birds-of-the-malay-peninsula/04_birds.jpg">Volume V of The Birds of the Malay Peninsula. This book in the series is titled “Conclusion, and Survey of Every Species” (1976) and was written by Lord Medway and David R. Wells. All rights reserved, National Library Board, Singapore.</i></span>
+<img style="width:400px" src="/images/vol-11-issue-4/birds-of-the-malay-peninsula/04_birds.jpg">Volume V of The Birds of the Malay Peninsula. This book in the series is titled “Conclusion, and Survey of Every Species” (1976) and was written by Lord Medway and David R. Wells. <i>All rights reserved, National Library Board, Singapore.</i></span>
 
 The accounts contain the birds’ Latin, English and Malay names, as well as detailed descriptions of their soft parts, dimensions, the areas they inhabit in the Malay Peninsula and their habits. In 1928, the American ornithology community praised the publication’s “scope and method of treatment [as] admirable and the finely printed plates most satisfactory”.[^3]
 
