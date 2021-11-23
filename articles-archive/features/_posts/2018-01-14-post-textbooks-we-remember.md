@@ -38,7 +38,7 @@ The adoption of new teaching methodology produced the innovative *PETS* textbook
 
 The CDIS closed in 1996 and the production of textbooks returned to commercial publishers. MOE felt that with proper guidance, publishing companies were now capable of producing high-quality textbooks that were aligned with the official curriculum.
 
-The syllabus, too, had come full circle. While textbooks produced under the 2001 English syllabus, such as *Treks*, *Pals*, *Celebrate* and *Insteps*, continued to emphasise integration of skills, contextual teaching and group work, MOE recognised the need to study formal grammar in order to arrest falling standards of English language competency.[%5]
+The syllabus, too, had come full circle. While textbooks produced under the 2001 English syllabus, such as *Treks*, *Pals*, *Celebrate* and *Insteps*, continued to emphasise integration of skills, contextual teaching and group work, MOE recognised the need to study formal grammar in order to arrest falling standards of English language competency.[^5]
 
 Textbooks will continue to evolve as they keep pace with the changing needs of society and new pedagogical approaches, but for students who study whatever textbooks they are told to do, it is the memories they evoke of school days that are likely to be remembered the most. 
 
