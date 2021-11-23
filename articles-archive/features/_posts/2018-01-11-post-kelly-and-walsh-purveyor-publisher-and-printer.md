@@ -87,17 +87,17 @@ In 1924, Kelly & Walsh sold off its printing press to its competitor Fraser & Ne
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>SOME WORKS BY KELLY & WALSH</b>
 <br><br>
-1900: <i>Friend Tommy and other Topics</i></br>
-1906: <i>Freemasonry in Singapore</i></br>
-1908: <i>Across the Equator: A Holiday Trip in Java</i></br>
-1912: <i>A Christmas Number</i></br>
-1913: <i>Gula Malaka</i></br>
-1916: <i>Mutiny Musings and Volunteer Sketches</i></br>
-1919: <i>Long-chair Malay</i></br>
-1926: <i>Blonds Prefer Tuans: The Intimate Diary of a Lady of Travel</i></br>
-1928: <i>Malayan Turnovers</i></br>
-1934: <i>A Herd of Wild Bungalows</i></br>
-1938: <i>Suleiman Goes to London</i></br>
+1900: <i>Friend Tommy and other Topics</i><br>
+1906: <i>Freemasonry in Singapore</i><br>
+1908: <i>Across the Equator: A Holiday Trip in Java</i><br>
+1912: <i>A Christmas Number</i><br>
+1913: <i>Gula Malaka</i><br>
+1916: <i>Mutiny Musings and Volunteer Sketches</i><br>
+1919: <i>Long-chair Malay</i><br>
+1926: <i>Blonds Prefer Tuans: The Intimate Diary of a Lady of Travel</i><br>
+1928: <i>Malayan Turnovers</i><br>
+1934: <i>A Herd of Wild Bungalows</i><br>
+1938: <i>Suleiman Goes to London</i><br>
 1949: <i>Mural Ditties and Sime Road Soliloquies</i></span>
 
 <div style="background-color: white;">
