@@ -102,6 +102,7 @@ It was another patent registered in London by the British inventor Peter Durand 
 <br><br>
 <img style="width:30%" src="/images/vol-11-issue-2/frenchcan/rudimentary_method1.jpg">Appert’s rudimentary method of preserving food using glass bottles sealed with cork and wire, collection Jean-Paul Barbier, Musée Châlons en Champagne salle Appert. <i>Courtesy of Wikimedia Commons</i>.</span>
 
+<img style="width:100px;height:100px;margin-bottom:-30px; border-radius:100%; box-shadow: 1px 2px 5px #424242;" src="/images/vol-11-issue-2/frenchcan/Timothy_Pwee.jpg">
 <p style="font-size:15px;"><b>Timothy Pwee</b> is a Senior Reference Librarian who handles the National Library’s Singapore collection. In a previous incarnation, he worked in a small business education outfit that gave him passing familiarity with the business world and the travails of small start-ups.</p>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-11/issue-2/jul-sep-2015/"><center>Back to Issue</center></a>
