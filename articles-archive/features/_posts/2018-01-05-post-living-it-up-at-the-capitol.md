@@ -88,7 +88,7 @@ The area around the Capitol Theatre was home to more than a handful of English s
 
 The Capitol also appealed to the younger set as it featured more current, action-packed films. The 3.15pm matinee at the Capitol was especially popular with students as these afternoon screenings were cheaper than evening shows. Long queues for the matinees were not an uncommon sight. Lines would also form for the *kachang puteh* man hawking a variety of flavoured nuts along with vendors selling various snacks and candies, both before screenings and during interval time.[^23]
 
-In some schools, teachers occasionally rewarded students with cash for achieving good grades, and this was often used to purchase theatre tickets. Dr Tham Cheok Fai, later known as the father of neurosurgery in Singapore, recalled his math teacher challenging students with difficult arithmetic problems. Often, he would be the first to solve a question, and would use the 50-cent reward to catch a film at the Capitol. Tham said that 50 cents could purchase “two cinema shows in those days…[as] the seat in front… cost only 25 cents…”. This was normally a month’s worth of pocket money that would otherwise have been used for meals and transport.[^24]
+In some schools, teachers occasionally rewarded students with cash for achieving good grades, and this was often used to purchase theatre tickets. Dr Tham Cheok Fai, later known as the father of neurosurgery in Singapore, recalled his math teacher challenging students with difficult arithmetic problems. Often, he would be the first to solve a question, and would use the 50-cent reward to catch a film at the Capitol. Tham said that 50 cents could purchase “two cinema shows in those days… [as] the seat in front… cost only 25 cents…”. This was normally a month’s worth of pocket money that would otherwise have been used for meals and transport.[^24]
 
 Blind activist and advocate for the disabled Ronald Chandran-Dudley recalled indulging in movie marathon weekends when he still had his sight as a teenager. He skipped Latin classes for the early morning show at the Alhambra, continued with the 11am show at Capitol, followed by the 1.30pm screening at Cathay and ended the marathon with the 4pm show before reaching home at 6pm.[^25]
 
@@ -124,7 +124,7 @@ Kartar ran to the nearby Indian Tamil League Headquarters at Waterloo Street whe
 
 When World War II ended in 1945, Shaw Organisation purchased Capitol Theatre and Namazie Mansions for $3.8 million, and renamed the latter Shaws Building, ushering in a new era for theatre and cinema in Singapore. After several decades as an iconic cinema in postcolonial Singapore, the theatre reopened in 2015, fully refurbished to reflect its former glory. It remains the only pre-war cinema in Singapore still in operation today.[^33]
 
-The author would like to thank Raphaël Millet, who reviewed this article before publication.
+*The author would like to thank Raphaël Millet, who reviewed this article before publication.*
 
 <div style="background-color: white;">
 <br>
