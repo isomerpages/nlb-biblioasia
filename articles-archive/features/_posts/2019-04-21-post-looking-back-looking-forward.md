@@ -28,7 +28,7 @@ It is partly to capture these memories before it is too late, and also to empowe
 
 These individuals – all volunteers – have been guiding NAS in terms of the areas to cover, identifying potential interviewees and helping to connect us to a network of new volunteers who can conduct oral history interviews and add to our ever-growing trove of memories. In the first 16 months after the launch, we trained 109 volunteers and collected over 60 interviews, totalling more than 160 hours.
 
-The oral history stories are incredibly varied, reflective of the diverse range of experiences of the people of Singapore, and indicative too of what can be done when communities are empowered to share their personal memories. A story that has resonated with me is that of Eleanor Ballard, who was just 14 years old when she saved a young European girl from a frenzied mob during the Maria Hertogh riots in 1950. Another story is from the Tamil poet and writer K.T.M. Iqbal, a 2014 Cultural Medallion winner, who set up an informal Tamil library in a kampong in Bukit Purmei with his friends in the mid-1950s when he was a teenager. How many more heartwarming stories are out there that haven’t been told and, more importantly, recorded?
+The oral history stories are incredibly varied, reflective of the diverse range of experiences of the people of Singapore, and indicative too of what can be done when communities are empowered to share their personal memories. A story that has resonated with me is that of Eleanor Ballard, who was just 14 years old when she saved a young European girl from a frenzied mob during the Maria Hertogh riots in 1950. Another story is from the Tamil poet and writer K.T.M. Iqbal, a 2014 Cultural Medallion winner, who set up an informal Tamil library in a *kampong* in Bukit Purmei with his friends in the mid-1950s when he was a teenager. How many more heartwarming stories are out there that haven’t been told and, more importantly, recorded?
 
 The NAS recognises that harnessing the energy, talent and time of individuals by crowdsourcing is key to finding answers to this question. One tried and tested method is the Citizen Archivist Project we started in 2016, an initiative that allows volunteers to annotate and caption thousands of unmarked photographs. The volunteers have also taken a crack at transcribing handwritten records that machines cannot faithfully decipher. The target was to transcribe one million documents by the end of our bicentennial year. Thus far, more than 30,000 pages have been transcribed, and another 1,800 old photographs captioned by a community of 450 (and growing) volunteers.
 
@@ -47,3 +47,11 @@ Other types of technological evolutions will be needed, and these will have to b
 The NAS must play the role of facilitator when attending to legitimate requests for information. In cases where records are restricted due to matters of national security or genuine sensitivity, archives staff should be able to articulate and explain the rationale to the public. At the same time, we hope that agencies that deposit their materials with us will realise that information flow is a two-way street: allowing access to government and administrative records not only helps researchers with their work, it also provides agencies with the opportunity to clarify potentially opaque or contentious issues and gain a better understanding of their own policy histories.
 
 There is no better time to arrive at this consensus than during our bicentennial year as we look forward to the next lap of the NAS journey.
+
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Vol-13-issue-3/old-world-amusement-parks/shashi.png">
+	<b>Dr Shashi Jayakumar</b> is the Head of the Centre of Excellence for National Security at the S. Rajaratnam School of International Studies. He is also the Chairman of the National Archives Advisory Committee.
+</div>
+
+<a href="/vol-15/issue-1/apr-jun-2019/"><center>Back to Issue</center></a>
