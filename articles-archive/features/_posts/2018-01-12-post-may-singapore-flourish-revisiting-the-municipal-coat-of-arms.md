@@ -10,9 +10,9 @@ layout: post
 
 If you’ve ever been to Mount Emily Park[^1] and wondered about the colourful coat of arms mounted on the wall at the entrance, the answer to its identity lies in one of the documents on display at the exhibition, “Law of the Land: Highlights of Singapore’s Constitutional Documents”.
 
-Among the colonial-era documents at the exhibition held at the National Gallery Singapore is the Royal Warrant Assigning Armorial Ensigns for the City of Singapore – easily one of the most ornate of the items on display.
+Among the colonial-era documents at the exhibition held at the National Gallery Singapore is the *Royal Warrant Assigning Armorial Ensigns for the City of Singapore* – easily one of the most ornate of the items on display.
 
-<div style="background-color: white;"><img style="width:500px" src="/images/Vol-13-issue-4/may-singapore-flourish/02_flourish.jpg">The Royal Warrant Assigning Armorial Ensigns for the City of Singapore, 9 April 1948. <i>Courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;"><img style="width:500px" src="/images/Vol-13-issue-4/may-singapore-flourish/02_flourish.jpg">The <i>Royal Warrant Assigning Armorial Ensigns for the City of Singapore</i>, 9 April 1948. <i>Courtesy of National Archives of Singapore.</i></div>
 
 Seen from the present perspective, the royal warrant – dated 9 April 1948 and almost 70 years old today – marks a transitional but significant period in Singapore’s history. A celebrated document in its day, the royal warrant represented a proud moment for a town that was still steeped in the hallowed symbols and practices of British colonial tradition, just three years after the end of the Japanese Occupation and resumption of British rule. But more importantly, the issue of the warrant also marked a watershed moment in Singapore’s eventful journey towards self-government and eventual independence. 
 
@@ -46,7 +46,7 @@ What may surprise people are the words “Majulah Singapura” inscribed just be
 
 <div style="background-color: white;"><img style="width:400px" src="/images/Vol-13-issue-4/may-singapore-flourish/04_flourish.jpg">Portrait of Lazarus Rayman by William Haxworth. Rayman, as president of the Singapore Municipal Commission, was mentioned by name in the royal warrant. <i>WRM Haxworth Collection, courtesy of National Archives of Singapore.</i></div>
 
-In fact, “Majulah Singapura” was the municipal motto of Singapore before World War II. According to an article in the 28 January 1940 edition of The Straits Times, the motto was originally written in English as “May Singapore Flourish”.
+In fact, “Majulah Singapura” was the municipal motto of Singapore before World War II. According to an article in the 28 January 1940 edition of *The Straits Times*, the motto was originally written in English as “May Singapore Flourish”.
 
 The English motto was translated into Malay as “Biar-lah Singapura Untong”, with the Malay version featuring on the official Municipal common seal. However, the words “biar-lah” (to let/allow) and “untong” (profit) were subsequently changed following a suggestion by the President of the Singapore Municipal Commissioners Lazarus Rayman, a Malay scholar. He felt that the word “untong” conveyed “mere commercial profit”, whereas “maju” expressed “the higher ideal of a continuous advancement commercially”. Besides, “maju” was “commonly used by Malay royalty whenever they pray for the prosperity of their country”.[^6]
 
