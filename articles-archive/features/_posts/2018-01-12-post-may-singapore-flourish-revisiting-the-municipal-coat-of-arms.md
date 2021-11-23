@@ -6,19 +6,21 @@ layout: post
 ---
 #### In April 1948, the municipality of Singapore received a coat of arms by royal warrant. **Mark Wong** reports on the significance of this document.
 
-<div style="background-color: white;"><br><img style="width:400px" src="/images/Vol-13-issue-4/may-singapore-flourish/01_flourish.jpg"></i></div>
+<div style="background-color: white;"><br><img style="width:400px" src="/images/Vol-13-issue-4/may-singapore-flourish/01_flourish.jpg"></div>
 
 If you’ve ever been to Mount Emily Park[^1] and wondered about the colourful coat of arms mounted on the wall at the entrance, the answer to its identity lies in one of the documents on display at the exhibition, “Law of the Land: Highlights of Singapore’s Constitutional Documents”.
 
 Among the colonial-era documents at the exhibition held at the National Gallery Singapore is the Royal Warrant Assigning Armorial Ensigns for the City of Singapore – easily one of the most ornate of the items on display.
 
-<div style="background-color: white;"><img style="width:500px" src="/images/Vol-13-issue-4/may-singapore-flourish/02_flourish.jpg"></i></div>
+<div style="background-color: white;"><img style="width:500px" src="/images/Vol-13-issue-4/may-singapore-flourish/02_flourish.jpg">The Royal Warrant Assigning Armorial Ensigns for the City of Singapore, 9 April 1948. <i>Courtesy of National Archives of Singapore.</i></div>
 
 Seen from the present perspective, the royal warrant – dated 9 April 1948 and almost 70 years old today – marks a transitional but significant period in Singapore’s history. A celebrated document in its day, the royal warrant represented a proud moment for a town that was still steeped in the hallowed symbols and practices of British colonial tradition, just three years after the end of the Japanese Occupation and resumption of British rule. But more importantly, the issue of the warrant also marked a watershed moment in Singapore’s eventful journey towards self-government and eventual independence. 
 
 #### **The Royal Warrant**
 
 The royal warrant arrived in Singapore by ship in August 1948 “in a long red box, with G.R. VI embossed on it in gold”,[^2] a reference to King George VI, the British monarch who reigned from 1936 to 1952. The warrant was the result of an application made in July 1947 by the Singapore Municipal Commissioners to the College of Arms (College of Heralds), England, to register a coat of arms (armorial ensigns) for the Singapore Municipal Commission.[^3] The College of Arms and its functions still exist in the present day, and registering the design ensures that no other entity can use a similar design.
+
+<div style="background-color: white;"><img style="width:500px" src="/images/Vol-13-issue-4/may-singapore-flourish/03_flourish.jpg">Coronation of King George VI and Queen Elizabeth as King and Queen of the United Kingdom, 12 May 1937. The royal warrant reached Singapore in August 1948 in a long red box bearing the initials of King George VI, the reigning British monarch. <i>Sng Chong Hui Collection, courtesy of National Archives of Singapore.</i></div>
 
 The warrant is written in fine copperplate calligraphy on parchment and measures 45 by 62 cm, inclusive of three elaborate seals attached at the base. The seals represent the three kings of arms, who are the senior officers of the College of Arms: specifically, the Garter King of Arms, Clarenceux King of Arms, and Norroy and Ulster King of Arms.
 
@@ -42,6 +44,8 @@ The crest of the Singapore municipality, consisting of a lion with a coconut pal
 
 What may surprise people are the words “Majulah Singapura” inscribed just below the shield. The Malay phrase is well known today as the title of Singapore’s national anthem and translated as “Onward Singapore”. The anthem was officially unveiled in December 1959 as one of three new state symbols in a newly self-governing Singapore. However, the appearance of the phrase on the 1948 royal warrant indicates a much longer history.
 
+<div style="background-color: white;"><img style="width:400px" src="/images/Vol-13-issue-4/may-singapore-flourish/04_flourish.jpg">Portrait of Lazarus Rayman by William Haxworth. Rayman, as president of the Singapore Municipal Commission, was mentioned by name in the royal warrant. <i>WRM Haxworth Collection, courtesy of National Archives of Singapore.</i></div>
+
 In fact, “Majulah Singapura” was the municipal motto of Singapore before World War II. According to an article in the 28 January 1940 edition of The Straits Times, the motto was originally written in English as “May Singapore Flourish”.
 
 The English motto was translated into Malay as “Biar-lah Singapura Untong”, with the Malay version featuring on the official Municipal common seal. However, the words “biar-lah” (to let/allow) and “untong” (profit) were subsequently changed following a suggestion by the President of the Singapore Municipal Commissioners Lazarus Rayman, a Malay scholar. He felt that the word “untong” conveyed “mere commercial profit”, whereas “maju” expressed “the higher ideal of a continuous advancement commercially”. Besides, “maju” was “commonly used by Malay royalty whenever they pray for the prosperity of their country”.[^6]
@@ -51,3 +55,17 @@ After World War II, “Majulah Singapura” grew in use and popularity. For exam
 In 1952, Singapore City Councillor M.P.D. Nair even suggested that “instead of greeting each other with ‘hello,’ ‘good morning’ or good evening,’ people should say ‘Majulah Singapura’” instead. He felt that this would deepen their attachment to the city and “foster a new spirit”.[^7]
 
 Singapore’s use of a Malay motto provided inspiration to Penang, which similarly adopted an official motto in 1950. When the Penang Settlement Council had to decide between a Malay or English motto, council member K. Mohd. Ariff referred to Singapore’s choice of a Malay motto to sway the council: “It is Singapore’s motto that stimulated your committee to think, I hope, on right lines and at the same time pay a tribute to those far-sighted pioneers who coined ‘Majulah Singapura’ as the slogan for Singapore.”[^8] Penang eventually adopted the Malay motto “Bersatu dan Setia” (United and Loyal).
+
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>A HERALDIC GLOSSARY</b>
+<br><br>
+<b>Argent:</b> Silver<br>
+<b>Azure:</b> Blue<br>
+<b>Chief:</b> Referring to the upper part of a heraldic device<br>
+<b>Embattled:</b> Having battlements<br>
+<b>Fructed proper:</b> Bearing correct fruit<br>
+<b>Guardant:</b> On guard<br>
+<b>Gules:</b> Red<br>
+<b>Issuant:</b> Coming from<br>
+<b>Or:</b> Gold<br>
+<b>Passant:</b> Passing or in motion<br>
+<b>Mount vert:</b> A green mount</span>
