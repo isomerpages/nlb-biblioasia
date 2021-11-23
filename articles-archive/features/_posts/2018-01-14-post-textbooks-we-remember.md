@@ -8,37 +8,37 @@ layout: post
 
 <div style="background-color: white;"><br><img src="/images/Vol-13-issue-4/textbooks-we-remember/01_textbooks.jpg">A typical classroom scene in 1950s Singapore. <i>Courtesy of National Archives Singapore.</i></div>
 
-“PETS!” exclaimed my friend in glee as she was combing through the National Library Board’s online catalogue. No, she was not referring to adorable cats or dogs but PETS (Primary English Thematic Series), the English textbooks used by primary school students in Singapore between 1991 and 1995.
+“PETS!” exclaimed my friend in glee as she was combing through the National Library Board’s online catalogue. No, she was not referring to adorable cats or dogs but *PETS* (*Primary English Thematic Series*), the English textbooks used by primary school students in Singapore between 1991 and 1995.
 
-The PETS textbooks were considered ahead of their time, a period that saw a considerable shift in the design and approach to teaching English in Singapore. What was so innovative about these textbooks? Was it the colourful pictorials, the lessons that revolved around themes, or the iconic animal mascot found in each series?
+The *PETS* textbooks were considered ahead of their time, a period that saw a considerable shift in the design and approach to teaching English in Singapore. What was so innovative about these textbooks? Was it the colourful pictorials, the lessons that revolved around themes, or the iconic animal mascot found in each series?
 
-Sifting through the National Library’s Legal Deposit Collection of primary English textbooks gives one a sense of how the English curriculum and textbooks have evolved over the years. As I belong to the generation that grew up with PETS, I couldn’t help but feel a twinge of nostalgia when I stumbled upon these familiar textbooks of my formative years. 
+Sifting through the National Library’s Legal Deposit Collection of primary English textbooks gives one a sense of how the English curriculum and textbooks have evolved over the years. As I belong to the generation that grew up with *PETS*, I couldn’t help but feel a twinge of nostalgia when I stumbled upon these familiar textbooks of my formative years. 
 
 #### **The Early English Textbooks**
 
-Until the 1950s, English textbooks used in primary schools in Singapore were imported mainly from the United Kingdom. Among these were The Beacon Readers, Janet and John Basic Readers and First Aid in English. The British firmly believed that Malayan students in local schools should be taught English exactly the same way as students back home in England.
+Until the 1950s, English textbooks used in primary schools in Singapore were imported mainly from the United Kingdom. Among these were *The Beacon Readers*, J*anet and John Basic Readers* and *First Aid in English*. The British firmly believed that Malayan students in local schools should be taught English exactly the same way as students back home in England.
 
 While such imported textbooks were helpful tools – given the absence of viable alternatives – in teaching English to Asian students, they also suffered from serious shortcomings. Not only were foreign books unsuitable for the local population who had little or no knowledge of the English language, they also imparted ideas and values that were incompatible with life in Singapore.
 
-There were efforts, albeit sporadic, in the post-war years to design teaching and reading materials that specifically catered to students in Singapore, such as the Malayan Children’s Bookshelf series published by Donald Moore and MPH Dramatic Readers for Standard One to Seven students produced by the Singapore and Johor Teachers’ Associations.[^1]
+There were efforts, albeit sporadic, in the post-war years to design teaching and reading materials that specifically catered to students in Singapore, such as the *Malayan Children’s Bookshelf* series published by Donald Moore and *MPH Dramatic Readers* for Standard One to Seven students produced by the Singapore and Johor Teachers’ Associations.[^1]
 
-The first formal attempt to develop a new English syllabus for Malayan students took place in 1959 by the Committee of Syllabus and Textbooks from the Ministry of Education (MOE). The committee revised the curriculum of all subjects in primary and secondary schools, and encouraged writers and publishers to produce textbooks with strong Malayan content.[^2] English Today (South East Asian Edition), used in primary schools in the 1960s, was one of the first English textbooks produced as part of this effort.
+The first formal attempt to develop a new English syllabus for Malayan students took place in 1959 by the Committee of Syllabus and Textbooks from the Ministry of Education (MOE). The committee revised the curriculum of all subjects in primary and secondary schools, and encouraged writers and publishers to produce textbooks with strong Malayan content.[^2] *English Today* (South East Asian Edition), used in primary schools in the 1960s, was one of the first English textbooks produced as part of this effort.
 
 #### **Textbooks for Teachers, by Teachers**
 
 In the early years of its formation, MOE concentrated on planning the school syllabus and left the development of English textbooks to commercial publishers. However, when the ministry realised that the output of Singapore publishers was not up to scratch, it decided to publish its own textbooks. A study commissioned in 1979 concluded that high-quality textbooks were necessary to complement teaching in the classroom, and recommended that MOE take charge of developing the full suite of learning materials for both teachers and students.
 
-This led to the formation of the Curriculum Development Institute of Singapore (CDIS) in 1980. CDIS, which comprised experienced teachers, subject specialists and writers, developed a comprehensive set of teaching materials – the 1984 New English Series for Primary Education and the Primary English Programme, each with its own set of course books, phonics books, practice books and audiovisual materials. The effort paid off as the textbooks produced by CDIS were of considerably higher quality than that of commercial publishers.[^3]
+This led to the formation of the Curriculum Development Institute of Singapore (CDIS) in 1980. CDIS, which comprised experienced teachers, subject specialists and writers, developed a comprehensive set of teaching materials – the 1984 *New English Series for Primary Education* and the *Primary English Programme*, each with its own set of course books, phonics books, practice books and audiovisual materials. The effort paid off as the textbooks produced by CDIS were of considerably higher quality than that of commercial publishers.[^3]
 
 In 1987, English became the medium of instruction in all schools. This period also saw a change in the pedagogy of English. Textbooks, which had long focused on accuracy in pronunciation, spelling, grammar and teaching through sentence pattern drills and repeated exercises, changed to a hands-on learning experience. MOE realised that language learning was no longer habitual but organic, and language competency grew when students were immersed in a language-rich environment that allowed them to use the language in everyday life.
 
-The adoption of new teaching methodology produced the innovative PETS textbook in 1991. Unlike its predecessors, lessons were built around themes such as personal relationships, science and nature. Thematic teaching provided the context through which students could learn English through meaningful practice exercises and activities. Conversely, the syllabus moved away from phonetics and the study of grammar.[^4]
+The adoption of new teaching methodology produced the innovative *PETS* textbook in 1991. Unlike its predecessors, lessons were built around themes such as personal relationships, science and nature. Thematic teaching provided the context through which students could learn English through meaningful practice exercises and activities. Conversely, the syllabus moved away from phonetics and the study of grammar.[^4]
 
 #### **Return to Former Pedagogy**
 
 The CDIS closed in 1996 and the production of textbooks returned to commercial publishers. MOE felt that with proper guidance, publishing companies were now capable of producing high-quality textbooks that were aligned with the official curriculum.
 
-The syllabus, too, had come full circle. While textbooks produced under the 2001 English syllabus, such as Treks, Pals, Celebrate and Insteps, continued to emphasise integration of skills, contextual teaching and group work, MOE recognised the need to study formal grammar in order to arrest falling standards of English language competency.[%5]
+The syllabus, too, had come full circle. While textbooks produced under the 2001 English syllabus, such as *Treks*, *Pals*, *Celebrate* and *Insteps*, continued to emphasise integration of skills, contextual teaching and group work, MOE recognised the need to study formal grammar in order to arrest falling standards of English language competency.[%5]
 
 Textbooks will continue to evolve as they keep pace with the changing needs of society and new pedagogical approaches, but for students who study whatever textbooks they are told to do, it is the memories they evoke of school days that are likely to be remembered the most. 
 
@@ -56,7 +56,7 @@ Published by Malaya Publishing House and produced by the Singapore and Johor Tea
 
 **Ahmad, Shaida and Meng on Casuarina Island** (1955); **Four Strangers in Sungei Tujoh** (1957); **Ahmad, Shaida and Meng on Green River** (1957)
 
-Inspired by the 1883 classic Treasure Island by Robert Louis Stevenson, the adventures of Ahmad, Shaida and Meng were a series of stories written specially for Malayan children. Part of the Malayan Children’s Bookshelf series published by Donald Moore, the books aimed to help inculcate the love of reading in English.
+Inspired by the 1883 classic *Treasure Island* by Robert Louis Stevenson, the adventures of Ahmad, Shaida and Meng were a series of stories written specially for Malayan children. Part of the *Malayan Children’s Bookshelf* series published by Donald Moore, the books aimed to help inculcate the love of reading in English.
 
 <div style="background-color: white;"><img src="/images/Vol-13-issue-4/textbooks-we-remember/04_textbooks.jpg"></div>
 
@@ -74,7 +74,7 @@ An English storybook published by Donald Moore for Malayan children that imparte
 
 **New Syllabus English for Singapore** (1971–1973)
 
-Both a textbook and workbook, the New Syllabus English for Singapore was published by Preston Corporation and based on the Ministry of Education’s official syllabus. Revision exercises and language drills were greatly emphasised, a typical pedagogy of this period in the 1970s.
+Both a textbook and workbook, the *New Syllabus English for Singapore* was published by Preston Corporation and based on the Ministry of Education’s official syllabus. Revision exercises and language drills were greatly emphasised, a typical pedagogy of this period in the 1970s.
 
 <div style="background-color: white;"><img src="/images/Vol-13-issue-4/textbooks-we-remember/07_textbooks.jpg"></div>
 
@@ -92,7 +92,7 @@ This was one of two series of English textbooks developed by the Curriculum Deve
 
 **PETS (Primary English Thematic Series)** (1991–1995)
 
-PETS were the only English textbooks used in primary schools in the 1990s. Markedly different from its predecessors in its use of thematic lessons, each textbook also injected an element of fun by featuring an animal mascot hidden among its pages for students to find. The series was published by Educational Publications Bureau.
+*PETS* were the only English textbooks used in primary schools in the 1990s. Markedly different from its predecessors in its use of thematic lessons, each textbook also injected an element of fun by featuring an animal mascot hidden among its pages for students to find. The series was published by Educational Publications Bureau.
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>WHAT IS THE LEGAL DEPOSIT?</b>
 <br><br>
