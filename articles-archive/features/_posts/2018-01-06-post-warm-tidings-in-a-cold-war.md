@@ -173,7 +173,7 @@ The remittance letters in the Koh Seow Chuan Collection demonstrate how family r
 
 [^2]:Zhou, E. (1955, March 3). Guanyu guanche baohu qiaohui zhengce de mingling (关于贯彻保护侨汇政策的命令). Renmin Ribao. (Not avilable in NLB holdings.)
 
-[3]:Liu, H. (2005). *[The transnational history of a Chinese family: Immigrant letters, family business, and reverse migration](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12543892)* (p. 135). New Brunswick, NJ: Rutgers University Press, 2005. (Call no.: R 304.8730510922 LIU)
+[^3]:Liu, H. (2005). *[The transnational history of a Chinese family: Immigrant letters, family business, and reverse migration](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12543892)* (p. 135). New Brunswick, NJ: Rutgers University Press, 2005. (Call no.: R 304.8730510922 LIU)
 
 [^4]:Chen, D. (1940). *[Emigrant communities in South China: A study of overseas migration and its influence on standards of living and social change](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=2268189)* (p. 155). New York: Institute of Pacific Relations. (Call no.: RCLOS 309.151 CHE-[RFL])  
 
