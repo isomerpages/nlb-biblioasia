@@ -33,7 +33,7 @@ The section in the papers that were probably of most interest to local readers w
 
 **Written by:** Lee Meiyu
 
-<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>ABOUT THE NEWSPAPER</b>
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>ABOUT THE NEWSPAPER</b><br><br>
 <b>Title:</b> <i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=5891656">The Syonan Shimbun</a></i>
 <br>
 <b>Alternative titles:</b> <i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=12463919">The Shonan Times</a>, The Syonan Times, Syonan Sinbun </i>
