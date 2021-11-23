@@ -146,6 +146,7 @@ Turnbull, C.M. (1989).*[ A history of Singapore, 1819–1988](https://eservice.n
 [Utosan Malayu](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/easterndaily19071109-1.2.22). (1907, November 9). Eastern Daily Mail and Straits Morning Advertiser, p. 7. Retrieved from NewspaperSG.
 
 #### **NOTES**
+
 [^1]: Savage, V.R., & Yeoh, B.S.A. (2013). *[Singapore street names: A study of toponymics ](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123850)*(p. 120). Singapore: Marshall Cavendish Editions. (Call no.: RSING 915.9570014 SAV)
 
 [^2]: Adlina Maulod. (2010). *[Mohamed Eunos bin Abdullah](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1201_2010-05-03.html)*. Retrieved from Singapore Infopedia, National Library Singapore.
@@ -156,8 +157,7 @@ Turnbull, C.M. (1989).*[ A history of Singapore, 1819–1988](https://eservice.n
 
 [^5]: [Utosan Malayu](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/easterndaily19071109-1.2.22). (1907, November 9). *Eastern Daily Mail and Straits Morning Advertiser*, p. 7. Retrieved from NewspaperSG.
 
-[^6]: Milner, A.C. (2002). *[The invention of politics in colonial Malaya](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10408470)* (pp. 98–107). New York: Cambridge University Press. (Call no.: RSEA 959.5 MIL); Frost, M.R., & Balasingamchow, Y. (2009). *[Singapore: A biography](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13229116)* (pp. 195–198). Singapore: Editions Didier Millet: National
-Museum of Singapore. (Call no.: RSING 959.57 FRO)
+[^6]: Milner, A.C. (2002). *[The invention of politics in colonial Malaya](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10408470)* (pp. 98–107). New York: Cambridge University Press. (Call no.: RSEA 959.5 MIL); Frost, M.R., & Balasingamchow, Y. (2009). *[Singapore: A biography](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13229116)* (pp. 195–198). Singapore: Editions Didier Millet: National Museum of Singapore. (Call no.: RSING 959.57 FRO)
 
 [^7]: [Roff](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7122266), 1994, p. 159.
 
