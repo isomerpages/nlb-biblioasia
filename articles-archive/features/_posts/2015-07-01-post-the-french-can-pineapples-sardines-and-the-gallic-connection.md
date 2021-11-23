@@ -7,7 +7,7 @@ layout: post
 ---
 #### The Ayam brand of canned sardines was the brainchild of Frenchman Alfred Clouët. **Timothy Pwee** reveals its history and that of the pineapple canning industry in Singapore.
 
-<img src="/images/vol-11-issue-2/frenchcan/title.jpg">
+<img src="/images/vol-11-issue-2/frenchcan/titles.jpg">
 	
 The French are linked to Singapore in many curious ways. Few people are aware that the French Revolution (1787–99) and the subsequent Napoleonic Wars (1803–15) were responsible for setting off the chain of events that not only led to Stamford Raffles founding an East India Company outpost in Singapore, but also the establishment of the canning industry on the island.
 
