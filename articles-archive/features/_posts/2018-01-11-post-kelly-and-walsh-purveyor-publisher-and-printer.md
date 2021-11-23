@@ -35,7 +35,7 @@ The ground floor occupied by the bookshop was re-laid with rubber tiles, and the
 
 Unfortunately, the halcyon days of Kelly & Walsh came to an abrupt halt with the onset of the Japanese Occupation on 15 February 1942. In September that year, its Raffles Place premises were taken over and re-opened as Seibudo Syoten, a Japanese bookshop selling mainly Japanese classics, novels and military books.
 
-<div style="background-color: white;"><br><img src="/images/Vol-13-issue-4/kelly-and-walsh/03_KW.jpg">Logo of Kelly & Walsh Limited. <i>All rights reserved, Reid, T.H. (1908). Across the Equator: A Holiday Trip in Java. Singapore: Kelly & Walsh. (Call no.: RCLOS 992.2 REI).</i></div>
+<div style="background-color: white;"><img style="width:300px" src="/images/Vol-13-issue-4/kelly-and-walsh/03_KW.jpg">Logo of Kelly & Walsh Limited. <i>All rights reserved, Reid, T.H. (1908). Across the Equator: A Holiday Trip in Java. Singapore: Kelly & Walsh. (Call no.: RCLOS 992.2 REI).</i></div>
 
 After the war, Kelly & Walsh resumed business on 1 March 1946. The bookshop, along with many others, enjoyed brisk sales as people tried to replace books that they had lost during the Japanese Occupation. But a decade later, Kelly & Walsh decided to pull out from Singapore and the bookshop closed its doors permanently on 30 May 1956. In a move to liquidate its assets in Singapore, the Raffles Place property was sold to the adjoining Federal Dispensary for $1.5 million. Today, Kelly & Walsh Limited is survived only through two bookshops in Hong Kong that specialise in art books.
 
