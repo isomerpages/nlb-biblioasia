@@ -27,7 +27,7 @@ In the 1880s, Kelly & Walsh expanded its business to Singapore. There are differ
 
 What is certain, however, is that the bookshop operated from Battery Road[^2] during its pioneering years before relocating to No. 32 Raffles Place in October 1898. It moved to more commodious quarters at Nos. 30–31 Raffles Place in 1916, but returned to its former premises at No. 32 in 1935, having acquired the property two years earlier.[^3]
 
-<div style="background-color: white;"><br><img src="/images/Vol-13-issue-4/kelly-and-walsh/02_KW.jpg">A news article on the refurbished Kelly & Walsh building at 32 Raffles Place. It was designed by Doucham Petrovitch of the architectural firm Swan & Maclaren. <i>The Straits Times, 5 September 1935, p. 21.</i></div>
+<div style="background-color: white;"><img style="width:450px" src="/images/Vol-13-issue-4/kelly-and-walsh/02_KW.jpg">A news article on the refurbished Kelly & Walsh building at 32 Raffles Place. It was designed by Doucham Petrovitch of the architectural firm Swan & Maclaren. <i>The Straits Times, 5 September 1935, p. 21.</i></div>
 
 Its homecoming to No. 32 ushered in a new chapter. The firm appointed architectural firm Swan & Maclaren and contractor Nanyang Structural Co. to rejuvenate the three-storey property. Under the guiding hand of Swan & Maclaren’s architect Doucham Petrovitch,[^4] the building was refurbished and modernised. The faded yellow façade gave way to grey granite plaster designs by Singapore’s resident Italian sculptor, Rodolfo Nolli,[^5] and the old sloping roof was replaced with a new flat roof. The building was fitted throughout with Crittall[^6] windows and the archways widened to allow more light to stream in.
 
