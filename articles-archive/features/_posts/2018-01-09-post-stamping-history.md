@@ -61,7 +61,7 @@ Besides such nationalistic stamps, there were also designs that spoke of Singapo
 
 In the 1990s, stamp issues kept pace with an increasingly outward-looking Singapore. This took the form of more tourist-centric issues, first seen in the 1990 “Tourism” definitive stamps designed by graphic designers Ng Keng Seng and Lim Ching San. Their stamps depicting Singapore landmarks and its four ethnic groups were followed by other series on national monuments, costumes, art, architectural heritage and museums as well as stamps featuring local flora and fauna such as birds, butterflies, marine life, corals, and orchids, including the national flower *Vanda* Miss Joaquim.
 
-<div style="background-color: white;"><img style="width:700px" src="/images/Vol-13-issue-4/stamping-history/05_stamping.jpg">“Tourism Low Value Definitives” (1990) by graphic designer Ng Keng Seng. The stamps reflect an increasingly outward-looking Singpore. <i>Courtesy of Singapore Philatelic Museum.</i></div>
+<div style="background-color: white;"><img style="width:800px" src="/images/Vol-13-issue-4/stamping-history/05_stamping.jpg">“Tourism Low Value Definitives” (1990) by graphic designer Ng Keng Seng. The stamps reflect an increasingly outward-looking Singpore. <i>Courtesy of Singapore Philatelic Museum.</i></div>
 
 This new and softer image of Singapore replaced the practice of trumpeting the achievements of the nation. Stamp issues became less overt. For instance, the 2010 “Anniversary” series bundled together the milestones of the Housing and Development Board, People’s Association, Singapore Customs and Singapore Scout Association.
 
