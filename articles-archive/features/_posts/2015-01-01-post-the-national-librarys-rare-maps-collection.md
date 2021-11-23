@@ -46,9 +46,9 @@ Gastaldi’s later Southeast Asian map, <i>Terza Tavola</i>, again refers to Sin
 <br><br>
 Although an improvement from previous Ptolemaic maps, Gastaldi still refers to Sumatra and Borneo by their Ptolemaic names of Taprobana and Java Menore.
 <br><br>
-<img style="width:70%"src="/images/vol-10-issue-4/raremap/Terza_tavola_re.jpg">*Terza Tavola*, Giacomo Gastaldi for Giovanni Battista Ramusio (Venice, circa 1563). Note: the map is oriented with the south at the top.</span>
+<img style="width:70%" src="/images/vol-10-issue-4/raremap/Terza_tavola_re.jpg">*Terza Tavola*, Giacomo Gastaldi for Giovanni Battista Ramusio (Venice, circa 1563). Note: the map is oriented with the south at the top.</span>
 
-<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> 
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;">
 <b>ABRAHAM ORTELIUS</b>
 <br><br>
 Abraham Ortelius (1527–98), a leading Flemish cartographer, was a map dealer and publisher. During the 1560s, he collected maps and details of their sources and commissioned new printing plates for them. His 1570 atlas, the <i>Theatrum Orbis Terrarum (Theatre of the World)</i>, was hailed as the first comprehensive, modern atlas of the world in which all the maps were of uniform size and format.[^5]
@@ -80,7 +80,7 @@ Interestingly, the map depicts a trans-peninsular waterway bisecting the Malay P
 <br><br>
 Lodewijcksz's map was suppressed by Dutch merchants who did not wish to reveal the sailing routes to the lucrative ports of Southeast Asia. But it was published later in the same year by de Bry in <i>Petits Voyages</i>.[^10]
 <br><br>
-<img style="width:70%"src="/images/vol-10-issue-4/raremap/Nova_tabula_res.jpg">*Nova tabula insularum Iavae, Sumatrae, Borneonis et aliarum Malaccam usque, delineata in insula Iava, ubi ad vivum designantur vada et brevia scopulique interjacentes descripta* l G.M.A.L., Theodore de Bry, after Willem Lodewijcksz (Frankfurt, 1598).</span>
+<img style="width:70%" src="/images/vol-10-issue-4/raremap/Nova_tabula_res.jpg">*Nova tabula insularum Iavae, Sumatrae, Borneonis et aliarum Malaccam usque, delineata in insula Iava, ubi ad vivum designantur vada et brevia scopulique interjacentes descripta* l G.M.A.L., Theodore de Bry, after Willem Lodewijcksz (Frankfurt, 1598).</span>
 
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> 
 <b>SEBASTIAN MÜNSTER</b>
