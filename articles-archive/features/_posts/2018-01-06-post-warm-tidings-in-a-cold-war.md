@@ -73,9 +73,9 @@ Remittance letters between migrant couples hold “powerful cultural and emotion
 
 The situation worsened during the Cold War when migration regulations made return trips difficult and rare, and remittance letters indicated a sharp decrease in movement between China and Singapore.[^16] Thus, such letters were immensely reassuring and key to maintaining husband-wife relationships across the seas. In a letter to his wife in 1965 (Fig. 1), Yang Ruixiong wrote:
 
-<div style="background-color: white;"><img style="width:450px" src="/images/Vol-13-issue-4/warm-tidings-in-a-cold-war/04_warmtiding.png">Figure 1: Letter from Yang Ruixiong to his wife Xu Peiyu, 26 March 1965. <i>All rights reserved, Koh Seow Chuan Collection, National Library Board, Singapore.</i></div>
-
 “You sent two letters in a row to quarrel with me, it really amuses me. I was just being hot-tempered and as a result, said a few words that crossed the line. Do you have to be this angry? I will apologise to you now. Sorry, sorry, for my bad manners. Is this satisfactory? We are already an old married couple, does it have to be like this?”[^17]
+
+<div style="background-color: white;"><img style="width:450px" src="/images/Vol-13-issue-4/warm-tidings-in-a-cold-war/04_warmtiding.png">Figure 1: Letter from Yang Ruixiong to his wife Xu Peiyu, 26 March 1965. <i>All rights reserved, Koh Seow Chuan Collection, National Library Board, Singapore.</i></div>
 
 #### **Migrant-Child Relationships**
 
@@ -117,9 +117,9 @@ The Immigration Ordinance No. 5 of 1952, implemented in Singapore on 1 August 19
 
 Thus, even though the new residents were no longer constrained by migration restrictions, they were met with considerable resistance from families back home when asking for their wives to join them in Singapore. The frustration in seeking parental approval was expressed in Liu Shizhao’s remittance letter (Fig. 2):
 
-<div style="background-color: white;"><img style="width:500px" src="/images/Vol-13-issue-4/warm-tidings-in-a-cold-war/05_warmtiding.png">Figure 2: Letter from Liu Shizhao to his mother, date and year unknown. <i>All rights reserved, Koh Seow Chuan Collection, National Library Board, Singapore.</i></div>
-
 “Mother, you did not allow my wife to come to Singapore. Ever since I married 10-plus years ago, I have had no children. My wife unfortunately died. I married another woman, but a few months later I had to return to Singapore. My wife is supposed to serve you, and should not come to Singapore. But I am already 30-plus, yet I have no children, I feel really ashamed. Last month, my wife sent me a photograph, and I have applied for an entry number and intend for her to come to Singapore to live with me. I hope, Mother, that you will allow it. One, two years later, we will return home together. It is impossible to return to China right now.”[^33]
+
+<div style="background-color: white;"><img style="width:500px" src="/images/Vol-13-issue-4/warm-tidings-in-a-cold-war/05_warmtiding.png">Figure 2: Letter from Liu Shizhao to his mother, date and year unknown. <i>All rights reserved, Koh Seow Chuan Collection, National Library Board, Singapore.</i></div>
 
 Liu Shizhao’s experience mirrors the plight of many migrants who toiled in Southeast Asia, torn between being a filial but lonely son and a loving but guilt-ridden husband – a dilemma brought into painfully sharp focus by the new migration policy.
 
@@ -145,7 +145,7 @@ A man’s virility was also a matter of great concern, as siring heirs and conti
 
 The circulation of goods reflecting the cultural beliefs of migrants was also evident in Lin Xiquan’s request to Xu Mingqin to bring him an Eight Immortals altar cloth (八仙床裙), an indication of Daoist belief. Lu Mutang also sent back a funeral shroud (福寿衣) for his mother.[^40]
 
-The goods that crossed borders also reflected the political, economic and social transformations of the migrants and their family members back in China. For example, a state procurement programme (统购统销) implemented by the Chinese government in 1953 resulted in the shortage of everyday supplies such as cotton, shoes, pots and oil.[^41] Overseas Chinese who returned to China reportedly complained about not having enough cotton for clothes.[^42] As a result, migrants frequently sent home old clothes and textiles, one example being Lu Mutang, who sent back three pieces of cloth in 1953 and some coarse cloth (粗纹布) in 1954.[^43] Some of the goods circulated were a reflection of China’s Great Leap Forward, the economic and social campaign that the government launched between 1958 and 1962. For example, the national “iron and steel” movement of 1958 saw items such as cooking pots, pans and farming tools being melted in backyard steel furnaces to increase steel production. According to Frank Dikötter, in the summer of 1961, reportedly “140,000 tonnes of farming tools had been thrown into the fires in the model province of Henan” alone.[44] 
+The goods that crossed borders also reflected the political, economic and social transformations of the migrants and their family members back in China. For example, a state procurement programme (统购统销) implemented by the Chinese government in 1953 resulted in the shortage of everyday supplies such as cotton, shoes, pots and oil.[^41] Overseas Chinese who returned to China reportedly complained about not having enough cotton for clothes.[^42] As a result, migrants frequently sent home old clothes and textiles, one example being Lu Mutang, who sent back three pieces of cloth in 1953 and some coarse cloth (粗纹布) in 1954.[^43] Some of the goods circulated were a reflection of China’s Great Leap Forward, the economic and social campaign that the government launched between 1958 and 1962. For example, the national “iron and steel” movement of 1958 saw items such as cooking pots, pans and farming tools being melted in backyard steel furnaces to increase steel production. According to Frank Dikötter, in the summer of 1961, reportedly “140,000 tonnes of farming tools had been thrown into the fires in the model province of Henan” alone.[^44] 
 
 Writing in January 1959 in response to his mother’s request for a sewing machine, Xiaosheng expressed exasperation:
 
@@ -157,7 +157,7 @@ One letter dated 4 July 1961 (Fig. 3) records a migrant, Liu Saibi (one of the f
 
 The remittance letters in the Koh Seow Chuan Collection demonstrate how family relations were kept alive across long distances. The money sent home was put to use for the family’s benefit, while the accompanying letters reinforced the primacy of familial bonds and responsibilities. Through correspondence over matters such as marriage, child-rearing and religious practices, and through expressions of longing and concern in the letters, relationships between the migrants in Southeast Asia and family members back home were strengthened. Despite the physical divide, these letters helped to keep a sense of culture and tradition alive for migrant sons and daughters in faraway lands.
 
-<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;">This is an abridged version of <i>Warm Tidings in a Cold War: Remittance Letters and Family Ties in the Chinese Diaspora, 1950s−1970s</i>, taken from the recently published book <i>Singapore’s Social & Business History Through Paper Ephemera</i> in the Koh Seow Chuan Collection. Published by the National Library Singapore,the book is available for reference and loan at the Lee Kong Chian Reference Library and selected public libraries (Call nos.: RSING 338.7095957 SIN and SING 338.7095957 SIN)</span>
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;">This is an abridged version of <i>Warm Tidings in a Cold War: Remittance Letters and Family Ties in the Chinese Diaspora, 1950s−1970s</i>, taken from the recently published book <i>Singapore’s Social & Business History Through Paper Ephemera</i> in the Koh Seow Chuan Collection. Published by the National Library Singapore,the book is available for reference and loan at the Lee Kong Chian Reference Library and selected public libraries (<a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202942354">Call nos.: RSING 338.7095957 SIN and SING 338.7095957 SIN</a>)</span>
 
 <div style="background-color: white;">
 <br>
@@ -171,7 +171,7 @@ The remittance letters in the Koh Seow Chuan Collection demonstrate how family r
 
 [^1]:The Cold War, which took place approximately between 1945 and 1990, refers to the period of geopolitical tension between the capitalist US and the communist Soviet Union, and their respective allies. 
 
-[^2]:Zhou, E. (1955, March 3). Guanyu guanche baohu qiaohui zhengce de mingling (关于贯彻保护侨汇政策的命令). Renmin Ribao. (Not avilable in NLB holdings.)
+[^2]:Zhou, E. (1955, March 3). *Guanyu guanche baohu qiaohui zhengce de mingling* (关于贯彻保护侨汇政策的命令). *Renmin Ribao*. (Not avilable in NLB holdings.)
 
 [^3]:Liu, H. (2005). *[The transnational history of a Chinese family: Immigrant letters, family business, and reverse migration](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12543892)* (p. 135). New Brunswick, NJ: Rutgers University Press, 2005. (Call no.: R 304.8730510922 LIU)
 
