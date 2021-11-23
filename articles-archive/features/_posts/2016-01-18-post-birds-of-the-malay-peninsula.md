@@ -23,3 +23,47 @@ By 1942, preparation for the final volume was interrupted by the outbreak of Wor
 Interest in continuing with the final volume was revived more than 20 years later. In 1948, when a new introductory publication on Malayan birds was released, the first four volumes were already out of print.[^8] By 1958, the series had become a collector’s item.[^9] After the war, Edward Banks, the former curator of the Sarawak Museum, wrote a replacement text for the final volume and deposited it in the British Museum (Natural History).[^10] In 1964, Ken Scriven, a long-time resident of Malaysia and ardent collector of Malayan birdlife,[^11] chanced upon not only Banks’s text but also the coloured plates created by H. Gronvold in London. He shared the discovery with fellow enthusiasts and conservationists Lord Medway (Gathorne Gathorne-Hardy, also known as the 5th Earl of Cranbrook) and David R. Wells, who in turn completed the series.
 
 H. F. & G. Witherby, the publisher of volumes 1 to 4, also produced the fifth volume, taking pains to use the same typesetting, paper and layout that had been used in previous volumes. In 1976, the last volume was finally published.[^12]
+
+**Written by:** Nor-Afidah Abdul Rahman
+
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>ABOUT THE BOOK</b>
+<br><br>
+<b>Title:</b> The Birds of the Malay Peninsula: A General Account of the Birds Inhabiting the Region from the Isthmus of Kra to Singapore with the Adjacent Islands
+<br>
+<b>Authors:</b> Herbert C. Robinson(Vols. 1–3), Frederick N. Chasen (Vols. 3–4), Lord Medway (Vol. 5), David R. Wells (Vol. 5)
+<br>
+<b>Year published:</b> Vol. 1 (1927), Vol. 2 (1928), Vol. 3 (1936), Vol. 4 (1939), Vol. 5 (1976)
+<br>
+<b>Publisher:</b> H. F. & G. Witherby (London)
+<br>
+<b>Language:</b> English
+<br>
+<b>Type:</b> Book (5 volumes)
+<br>
+<b>Location:</b> Call nos.: RRARE598.29595 ROB, RRARE598.29595 CHA; Microfilm nos.: NL 5139 (v.1–.4), NL 5140 (v.1–4), NL 8817 (v.1–.4), NL 8818 (v.4), NL 14480 (v.4), NL25743 (v.4), NL25926 (v.4)</span>
+
+#### **NOTES**
+
+[^1]:Robinson’s “The Birds of the Malay Peninsula”. (1928). The AUK: A quarterly Journal of Ornithology, XLV, 240.
+
+[^2]:Malayan birds. (1927, August 16). The Singapore Free Press and Mercantile Advertiser (1884–1942), p. 14. Retrieved from NewspaperSG.
+
+[^3]:The AUK, 1928, pp. 239–240.
+
+[^4]:Wells, J.K. (2005). Nature and nation: Forests and development in Peninsular Malaysia (p. 170). Honolulu, HI: University of Hawaii Press. (Call no.: RSEA 333.75095951 KAT)
+
+[^5]:Koss, C.B. (1928, January 17). The birds of the Malay Peninsula. The Straits Times, p. 3. Retrieved from NewspaperSG.
+
+[^6]:National Library Board. (2013, March 15). Frederick Nutter Chasen written by Tan, Fiona. Retrieved from Singapore Infopedia.
+
+[^7]:McClure, E. (1977, September). The Birds of the Malay Peninsula, Vol. 5 by Lord Medway, David R. Wells [review]. The Wilson Bulletin, 89 (3), 497–498. Retrieved from JSTOR via NLB’s eResources website: http://eresources.nlb.gov.sg; Tweedy, M.W.F. (1946, October). Obituary: Frederick Nutter Chasen. Ibis, 88(4), 527. Retrieved from Wiley Online Library; National Library Board, 15 Mar 2013.
+
+[^8]:Malayan birds. (1948, January 11). The Straits Times, p. 4. Retrieved from NewspaperSG.
+
+[^9]:McClure, Sep 1977, p. 498.
+
+[^10]:Robertson, D. G. (1978). Review of “The Birds of the Malay Peninsula, Volume V: conclusion, and survey of every species”. Emu, 78 (1), 46–47.
+
+[^11]:WWF. (2010, May 21). Malaysia conservation leaders honoured with WWF international awards. Retrieved from WWF website.
+
+[^12]:McClure, Sep 1977, pp. 497–498.
