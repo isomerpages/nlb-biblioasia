@@ -95,7 +95,7 @@ This map was published in Münster's 1540 <i>Geographia Universalis</i>, which w
 <br><br>
 The shape of the Malay Peninsula is much improved, with only the city of Malaqua (Malacca) named.[^14] Until the 17th century, most maps named the southern part of the Peninsula as Malacca, an “exaggeration of the real extent of European influence and control”.[^15] Malacca was strategically located in the middle of important sea routes and the Portuguese took control of it in 1511. By the end of 1500s, Malacca had become one of the key trading ports of the world.[^16] Notably, there was no incentive to map the remaining interior of the Malay Peninsula.
 <br><br>
-<img style="width:70%"src="/images/vol-10-issue-4/raremap/Inida_extrema_re.jpg">*India Extrema XIX nova tabula* by Sebastian Münster (Basle, 1540).</span>
+<img style="width:70%" src="/images/vol-10-issue-4/raremap/Inida_extrema_re.jpg">*India Extrema XIX nova tabula* by Sebastian Münster (Basle, 1540).</span>
 
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> 
 <b>SAMUEL THORNTON</b>
