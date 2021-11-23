@@ -6,7 +6,7 @@ layout: post
 ---
 Much has been written about the history of the Malay Peninsula and its people. Far less would have been known about the region’s birds, however, if not for an extensive five-volume series painstakingly compiled by four ornithologists between 1927 and 1976.
 
-Titled The Birds of the Malay Peninsula: A General Account of the Birds Inhabiting the Region from the Isthmus of Kra to Singapore with the Adjacent Islands and accompanied by detailed maps and illustrated plates, the first volume of the series is titled “The Commoner Birds” (1927). The subsequent four volumes are: “The Birds of the Hill Stations” (1928); “Sporting Birds: Birds of the Shore and Estuaries” (1936); “The Birds of the Low-Country Jungle and Scrub” (1939); and “Conclusion, and Survey of Every Species” (1976).
+Titled *The Birds of the Malay Peninsula: A General Account of the Birds Inhabiting the Region from the Isthmus of Kra to Singapore with the Adjacent Islands* and accompanied by detailed maps and illustrated plates, the first volume of the series is titled “The Commoner Birds” (1927). The subsequent four volumes are: “The Birds of the Hill Stations” (1928); “Sporting Birds: Birds of the Shore and Estuaries” (1936); “The Birds of the Low-Country Jungle and Scrub” (1939); and “Conclusion, and Survey of Every Species” (1976).
 
 The series of books, which has been endorsed by the global ornithology community, is an ambitious body of work that contains comprehensive scientific descriptions of the birds of the Malay Peninsula. Accompanied by rich and vibrant illustrations of the region’s birdlife, the series was authored by four British naturalists – Herbert C. Robinson (1874–1929), Frederick N. Chasen (1896–1942), Lord Medway and David R. Wells.
 
@@ -28,7 +28,7 @@ H. F. & G. Witherby, the publisher of volumes 1 to 4, also produced the fifth vo
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>ABOUT THE BOOK</b>
 <br><br>
-<b>Title:</b> The Birds of the Malay Peninsula: A General Account of the Birds Inhabiting the Region from the Isthmus of Kra to Singapore with the Adjacent Islands
+<b>Title:</b> <i>The Birds of the Malay Peninsula: A General Account of the Birds Inhabiting the Region from the Isthmus of Kra to Singapore with the Adjacent Islands</i>
 <br>
 <b>Authors:</b> Herbert C. Robinson(Vols. 1–3), Frederick N. Chasen (Vols. 3–4), Lord Medway (Vol. 5), David R. Wells (Vol. 5)
 <br>
