@@ -69,3 +69,69 @@ Singapore’s use of a Malay motto provided inspiration to Penang, which similar
 <b>Or:</b> Gold<br>
 <b>Passant:</b> Passing or in motion<br>
 <b>Mount vert:</b> A green mount</span>
+
+#### **The Singapore Municipal Commission**
+
+The royal warrant acknowledges the role of the Singapore Municipal Commission in applying for the new municipal coat of arms. The role and evolution of the Municipal Commission – created in 1887 to oversee local urban affairs such as water supply, electricity, gas, drains, roads and street lighting – was emblematic of Singapore’s journey towards self-governance. According to geographer Brenda Yeoh:
+
+“The municipal authority was an integral part of the colonial power structure and served as an institution of control over the built environment of the colonial city. [The creation of the Municipal Commission] was both a response to the growing need for a more sophisticated machinery to run a burgeoning city as well as ‘a sort of compromise’ to satisfy local demands, largely articulated by the resident European population, for more control over local affairs.”[^9]
+
+While the composition and concerns of the Municipal Commission from the late 19th century tended to be European-centric and “hardly addressed the needs and aspirations of the Asian plebeian classes on their own terms”,[^10] this changed after World War II. “The British attached great importance on local government as a training ground for democracy and extended its scope in the post-war years.”[^11]
+
+<div style="background-color: white;"><img style="width:500px" src="/images/Vol-13-issue-4/may-singapore-flourish/05_flourish.jpg">The 1948 municipal coat of arms still features prominently today at the entrance of Mount Emily Park. <i>Courtesy of National Archives of Singapore.</i></div>
+
+In 1949, the Municipal Commission became the first public institution to be installed with a popularly elected majority when 18 out of the 27 commissioners were elected.[^12] This expanded local political participation in preparation for Singapore’s self-governance and subsequent independence. The Municipal Commission was renamed City Council in 1951 when Singapore attained city status.[^13]
+
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>A COLONIAL TRADITION</b>
+<br><br>
+Heraldry, which refers to the “system by which coats of arms and other armorial bearings are devised, described, and regulated”,[^14] has its origins in 12th-century Europe when designs on shields became a way by which medieval armies differentiated between friend and foe from a distance. Today, individuals, families, organisations, corporations and states can all apply for their own coat of arms. With its elaborate designs, symbols and meanings, the coat of arms is essentially a unique visual representation of one’s identity. Although a predominantly European practice, heraldic traditions are also found in Japan, where emblems or crests known as mon are used.[^15]</span>
+
+#### **Reflecting on an Unfamiliar Past**
+
+What is the significance of an obscure coat of arms from a bygone era in contemporary Singapore? The Royal Warrant Assigning Armorial Ensigns for the City of Singapore – with its archaic language, colonial symbols of authority and references to obsolete institutions such as the Singapore Municipal Commission – seems so distant from our lives today. By understanding its context and unpacking its meaning, however, we find in the royal warrant a record of a turning point in Singapore’s history.
+
+Singapore in 1948 was poised to build its own self-determined future. But even as the first signs of political consciousness took root among the local populace, many of the foundations developed over a century of British rule remained – the rule of law, principles of urban planning, and the installation of certain forms of government and political institutions, among others. The social and political changes of the postwar years is best illustrated by the evolution in the meaning of the phrase Majulah Singapura – from the aspirational “May Singapore Flourish” of the municipal motto to the self-assured “Onward Singapore” of Singapore’s national anthem.
+
+The royal warrant thus reveals Singapore in 1948 to be in a liminal zone, caught between the weight of colonial history and the promise of a new world.
+
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;">The Royal Warrant Assigning Armorial Ensigns for the City of Singapore, along with other rare materials from the National Archives of Singapore and National Library, are on display at the permanent exhibition “Law of the Land: Highlights of Singapore’s Constitutional Documents”. The exhibition takes place at the Chief Justice’s Chamber & Office, National Gallery Singapore.</span>
+
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Vol-13-issue-4/may-singapore-flourish/mark.png">
+	<b>Mark Wong</b> is an Oral History Specialist at the Oral History Centre, National Archives of Singapore, where he conducts oral history interviews in areas such as education, the performing arts, the public service and the Japanese Occupation. He co-curated the exhibition, "Law of the Land: Highlights of Singapore’s Constitutional Documents", now on at the National Gallery Singapore.
+</div>
+
+<a href="/vol-13/issue-4/jan-mar-2018/"><center>Back to Issue</center></a>
+
+#### **NOTES**
+
+[^1]:The park is the site of the former Mount Emily Swimming Complex, Singapore’s first public pool, which was converted from a service reservoir and opened in 1931. The reservoir was built in 1878 to supply the town with fresh water.
+
+[^2]:The “R” in G. R. VI is an abbreviation of Rex (King). See New coat of arms arrives. (1948, August 15). *The Straits Times*, p. 5. Retrieved from NewspaperSG.
+
+[^3]:S’pore seeks coat of arms. (1947, July 30). *The Singapore Free Press*, p. 5. Retrieved from NewspaperSG.
+
+[^4]:The Straits Times, 15 Aug 1947, p. 5.
+
+[^5]:The crest of the Straits Settlements arms came in four quadrants, each representing a constituent settlement – Singapore, Melaka, Penang and Labuan. The British dissolved the Straits Settlements on 1 April 1946, with Melaka and Penang joining the Malayan Union, and Singapore becoming a crown colony of its own. Labuan was incorporated into the crown colony of North Borneo on 15 July 1946. 
+
+[^6]:Word changed on Singapore’s common seal. (1940, January 28). The Straits Times, p. 9. Retrieved from NewspaperSG.
+
+[^7]:Say ‘Majulah Singapura’ he suggests. (1952, July 15). The Straits Times, p. 4. Retrieved from NewspaperSG.
+
+[^8]:Official motto for Penang adopted: ‘United and Loyal’. (1950, November 7). *Singapore Standard*, p. 4. Retrieved from NewspaperSG.
+
+[^9]:Yeoh, B. S. A. (2003). Contesting space in colonial Singapore: Power relations and the urban built environment (p. 28). Singapore: University Press. (Call no.: RSING 307.76095957 YEO)
+
+[^10]:[Yeoh](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827061), 2003, p. 30.
+
+[^11]:Turnbull, C. M. (2009). *[A history of modern Singapore, 1819–2005](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13206047)* (p. 269). Singapore: NUS Press. (Call no.: RSING 959.57 TUR-[HIS])
+
+[^12]:McKerron, P. A. B. (1949). *[Colony of Singapore annual report, 1948](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5082303)* (p. 5). Singapore: Government Printing Office. (Call no.: RSING 959.57 SIN-[GBH])
+
+[^13]:[The king sends congratulations](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19510922-1.2.2). (1951, September 22). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
+
+[^14]:Oxford University Press. (2017). *Heraldy*. Retrieved from Oxford Dictionaries website.
+
+[^15]:Slater. S. (2002). *[The complete book of heraldry: An international history of heraldry and its contemporary uses](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11395317)* (p. 232). London: Lorenz. (Call no.: q929.6 SLA)
