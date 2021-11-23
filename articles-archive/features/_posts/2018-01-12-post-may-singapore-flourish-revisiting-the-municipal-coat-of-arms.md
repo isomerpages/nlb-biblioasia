@@ -120,9 +120,9 @@ The royal warrant thus reveals Singapore in 1948 to be in a liminal zone, caught
 
 [^7]:Say ‘Majulah Singapura’ he suggests. (1952, July 15). The Straits Times, p. 4. Retrieved from NewspaperSG.
 
-[^8]:Official motto for Penang adopted: ‘United and Loyal’. (1950, November 7). *Singapore Standard*, p. 4. Retrieved from NewspaperSG.
+[^8]:[Official motto for Penang adopted: ‘United and Loyal’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19501107-1.2.73). (1950, November 7). *Singapore Standard*, p. 4. Retrieved from NewspaperSG.
 
-[^9]:Yeoh, B. S. A. (2003). Contesting space in colonial Singapore: Power relations and the urban built environment (p. 28). Singapore: University Press. (Call no.: RSING 307.76095957 YEO)
+[^9]:Yeoh, B. S. A. (2003). *[Contesting space in colonial Singapore: Power relations and the urban built environment](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827061)* (p. 28). Singapore: University Press. (Call no.: RSING 307.76095957 YEO)
 
 [^10]:[Yeoh](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827061), 2003, p. 30.
 
