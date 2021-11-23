@@ -4,7 +4,7 @@ date: 2015-07-01
 permalink: /vol-11/issue-2/jul-sep-2015/
 layout: post
 ---
-<img src="/images/vol-11-issue-2/background/cover_c3.jpg">
+<img style="width:40%;box-shadow: 1px 1px 8px #808080;" src="/images/vol-11-issue-2/background/background.jpg">
 
 [<b>Director's Note</b>](/vol-11/issue-2/jul-sep-2015/director-note)
 
