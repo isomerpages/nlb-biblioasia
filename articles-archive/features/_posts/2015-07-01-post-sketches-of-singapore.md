@@ -13,7 +13,7 @@ layout: post
 Fort Canning Park by Dawn Lo, pharmacist.
 </div>
 
-Urban Sketchers is a global community of artists – from different walks of life, of varying ages, and living in different parts of the world – with one thing in common: a love for sketching the world around them. The movement was started in Seattle, United States, by the journalist and illustrator Gabriel Campanario, and today it has taken root in almost every major city worldwide. The Urban Sketchers group in Singapore is exceptionally active, having self- or co-published books in partnership with community and cultural institutions, and also held exhibitions of their works.
+Urban Sketchers is a global community of artists – from different walks of life, of varying ages, and living in different parts of the world – with one thing in common: a love for sketching the world around them. The movement was started in Seattle U.S. by the journalist and illustrator Gabriel Campanario, and today it has taken root in almost every major city worldwide. The Urban Sketchers group in Singapore is exceptionally active, having self- or co-published books in partnership with community and cultural institutions, and also held exhibitions of their works.
 
 Group members regularly meet up for a mass “sketchwalk” every last Saturday of the month – always at a different part of Singapore. Participants use all manner of art tools and techniques to capture their surroundings. There are neither joining fees, attendance sign-ups nor skill requirements to fulfil; the community has only two simple rules – to always sketch the scenes on location, and be truthful in capturing what they see. More information is available at: [http://urbansketchers-singapore.blogspot.sg/](http://urbansketchers-singapore.blogspot.sg/)
 
@@ -21,13 +21,13 @@ Group members regularly meet up for a mass “sketchwalk” every last Saturday 
 
 In May this year, Urban Sketchers launched a book titled <i>Urban Sketchers Singapore: Volume Two</i>, the long-awaited sequel to the eponymously titled first book that was published in 2011. While the debut was a visual tribute to Singapore’s urban landscape and history, volume two invited members to submit sketches of places that hold special personal significance and to include their stories and memories of each place – some of which have since met the wrecking ball.
 
-The artists spent hours revisiting and capturing these special locations, and have penned personal anecdotes about each place. Singapore is seen in a new perspective from the candid writings and more than 200 vibrant artworks featured in the book. Copies of both volumes are available for reference and loan at all public libraries and the National Library.
+The artists spent hours revisiting and capturing these special locations, and have penned personal anecdotes about each place. Singapore is seen in a new perspective from their candid writings and more than 200 vibrant artworks featured in the book. Copies of both volumes are available for reference and loan at all public libraries and the National Library.
 
 <i>Urban Sketchers Singapore: Volume Two</i> is supported by the Singapore Memory Project’s (SMP) irememberSG Fund that was set up to encourage organisations and individuals to develop content and initiatives that collect, interpret, and showcase memories of Singapore. The fund has currently stopped accepting applications.
 
 #### **Urban Sketchers Symposium**
 
-The International Urban Sketchers Symposium that will take place in Singapore from 22 to 25 July 2015 is the sixth to be held. Previous host cites include Barcelona, Spain; Portland, United States; and Santo Domingo, Dominican Republic. The event in Singapore is especially significant as it marks the first time it is held in Asia. The symposium will see sketching enthusiasts from all over the world gathering in Singapore. Registered participants will be able to attend workshops, lectures and on-location drawing and painting excursions of the host city.
+The International Urban Sketchers Symposium that will take place in Singapore from 22 to 25 July 2015 is the sixth to be held. Previous host cites include Barcelona, Spain; Portland, U.S.; and Santo Domingo, Dominican Republic. The event in Singapore is especially significant as it marks the first time it is held in Asia. The symposium will see sketching enthusiasts from all over the world gathering in Singapore. Registered participants will be able to attend workshops, lectures and on-location drawing and painting excursions of the host city.
 
 <div style="background-color: white;">
 <br/>
