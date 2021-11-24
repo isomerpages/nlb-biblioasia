@@ -6,6 +6,8 @@ layout: post
 ---
 #### Why recall traumatic memories of war when it is painful for both perpetrators and victims? **Kwok Kian Woon** considers the stakes in remembering and understanding war experiences in times of relative peace.
 
+<div style="background-color: white;"><br><img src="/images/Vol-15-issue-1/rambling/01-lawofland.jpg">80-year-old Madam Ng Kuai Chee leaning against an urn at the Civilian War Memorial on Beach Road on 15 February 1975, on the occasion of the 33rd anniversary of the fall of Singapore on 15 February 1942. Her late husband Dr Hum Wai was killed by the Japanese. <i>Source: The Straits Times © Singapore Press Holdings Limited. Reprinted with permission.</i></div>
+
 At a Singapore Writers Festival panel in 2018, the eminent historian Wang Gungwu was asked: “What is the one thing that keeps you awake at night?” He replied without hesitation: “The drums of war.”
 
 Born in 1930 in Surabaya, Indonesia, Wang grew up in Ipoh and was a teenager when the Japanese invaded Malaya. In his memoir Home is Not Here, he looks back to 1948 and recalls: “That stage of my life was… linked to war to an unexpected degree, so much so that I almost viewed war as normal.”[^1]
@@ -26,7 +28,7 @@ It was as if World War II had cast a long and dark shadow over the ensuing decad
 
 Why did ordinary men commit extraordinary evil – killing, maiming, and terrorising innocent people? What were the perpetrators thinking? In following orders, were they thinking at all? Did the civilian populations of the aggressor country support these acts of violence? Did they silently acquiesce to their leaders? Should they – could they – have resisted in any way?
 
-Japan’s aggression against its Asian neighbours and across the Asia-Pacific region between 1931 and 1945 is a prime example of an unresolved past. Although some attempts have been made over the decades at acknowledging, apologising and atoning for the country’s wartime record, they never seem to do sufficient justice to the scale and scope of atrocities suffered by untold millions.
+Japan’s aggression against its Asian neighbours and across the Asia-Pacific region between 1931 and 1945 is a prime example of an *unresolved past*. Although some attempts have been made over the decades at acknowledging, apologising and atoning for the country’s wartime record, they never seem to do sufficient justice to the scale and scope of atrocities suffered by untold millions.
 
 In particular, the questions of forgiveness appear to be in limbo: who asks for forgiveness and from whom, and under what conditions might forgiveness be asked for and given? It is far from clear that the perpetrators of war crimes have properly accounted for their wrongdoing – both to the dead and to surviving victims.
 
@@ -44,10 +46,32 @@ An understanding of the causes, costs and consequences of mass violence should a
 
 The brutality that occurred during the Japanese Occupation, for example, ranged from arbitrary everyday acts of violence, from soldiers who randomly slapped and kicked civilians to the systematic and cold-blooded “Sook Ching” massacre[^9] that took place in the first 12 days of the Occupation, during which thousands of innocent Chinese men were rounded up and summarily executed.
 
-Among the victims, war brings to the surface not only acts of moral courage, but also the worst of human traits. During the Occupation, there were many reported cases of civilians collaborating with the Kempeitai (the Japanese secret police), profiting from the black market and hoarding rations for themselves. In his memoir When Singapore was Syonan-to, Low Ngiong Ing lamented the “general coarsening of conscience” under wartime conditions. He wrote, “More and more we came to repudiate the claims men had on us: we refused to consider ourselves our brothers’ keepers. It was each man for himself and the devil take the hindmost.”[^10]
+Among the victims, war brings to the surface not only acts of moral courage, but also the worst of human traits. During the Occupation, there were many reported cases of civilians collaborating with the Kempeitai (the Japanese secret police), profiting from the black market and hoarding rations for themselves. In his memoir *When Singapore was Syonan-to*, Low Ngiong Ing lamented the “general coarsening of conscience” under wartime conditions. He wrote, “More and more we came to repudiate the claims men had on us: we refused to consider ourselves our brothers’ keepers. It was each man for himself and the devil take the hindmost.”[^10]
 
 #### **Becoming More Fully Human**
 
 War can be said to be the ultimate condition that distorts human behaviour and strips human beings of agency, dignity and empathy. But war is man-made and not unavoidable, and is neither normal nor inevitable in human life.
 
 Today, war memories can be drawn into nationalist discourses and, in turn, deepen animosity and create tension between countries. To remember, however, is not only to acknowledge the violence that was inflicted and the suffering that was experienced. It is also a conscious effort to understand the human potential for both good and evil and, as Wiesel exhorts, to take sides, to speak on behalf of the victims, and to insist: “Never again.”
+
+#### **NOTES**
+
+[^1]:Wang, G.W. (2018). *[Home is not here](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203095380)*. Singapore: Ridge Books. (Call no.: RSING 950.04950092 WAN)
+
+[^2]:The Chinese Civil War (1927–50) was fought between the Nationalist Party of China (Kuomintang) under Chiang Kai-shek and the Communist Party of China under Mao Zedong for control of China. 
+
+[^3]:A state of emergency was declared in Singapore on 24 June 1948, a week after an emergency was launched in the Federation of Malaya following a spate of violence by the Malayan Communist Party. The guerilla war lasted for 12 years from 1948–60. 
+
+[^4]:The Vietnam War (1955–75), also known as the American War, pitched the communist government of North Vietnam against South Vietnam and its main ally, the United States.
+
+[^5]:The Indonesian mass killings of 1965–66 were carried out at the instigation of the military and government.
+
+[^6]:The Cambodian genocide by the Khmer Rouge regime under the leadership of Pol Pot resulted in the deaths of between 1.671 and 1.871 million people from 1975–79.
+
+[^7]:Nobel Media. (1986, December 10). *Elie Wiesel’s acceptance speech on the occasion of the award of the Nobel Peace Prize in Oslo, December 10, 1986*. Retrieved from The Nobel Prize website.
+
+[^8]:Kwok, K.W. (2015, August 6). [A letter to Japanese friends on Hiroshima Day](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20150806-1.2.37.4). *The Straits Times*, p. 35. Retrieved from NewspaperSG.
+
+[^9]:Sook Ching means “purge through cleansing”. Chinese males between the ages of 18 and 50 were ordered to report to designated centres for mass screening. Many were taken to deserted spots and executed, and their bodies buried in mass graves in many parts of the island.
+
+[^10]:Low, N.I. (1995). *[When Singapore was Syonan-to](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7479976)*. Singapore: Times Book International. (Call no.: RSING 959.57023 LOW-[HIS])
