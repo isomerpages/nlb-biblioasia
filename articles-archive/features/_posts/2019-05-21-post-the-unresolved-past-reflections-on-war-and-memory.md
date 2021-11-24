@@ -6,7 +6,7 @@ layout: post
 ---
 #### Why recall traumatic memories of war when it is painful for both perpetrators and victims? **Kwok Kian Woon** considers the stakes in remembering and understanding war experiences in times of relative peace.
 
-<div style="background-color: white;"><br><img src="/images/Vol-15-issue-1/rambling/01-lawofland.jpg">80-year-old Madam Ng Kuai Chee leaning against an urn at the Civilian War Memorial on Beach Road on 15 February 1975, on the occasion of the 33rd anniversary of the fall of Singapore on 15 February 1942. Her late husband Dr Hum Wai was killed by the Japanese. <i>Source: The Straits Times © Singapore Press Holdings Limited. Reprinted with permission.</i></div>
+<div style="background-color: white;"><br><img src="/images/Vol-15-issue-1/the-unresolved-past/01_unresolvedpast.jpg">80-year-old Madam Ng Kuai Chee leaning against an urn at the Civilian War Memorial on Beach Road on 15 February 1975, on the occasion of the 33rd anniversary of the fall of Singapore on 15 February 1942. Her late husband Dr Hum Wai was killed by the Japanese. <i>Source: The Straits Times © Singapore Press Holdings Limited. Reprinted with permission.</i></div>
 
 At a Singapore Writers Festival panel in 2018, the eminent historian Wang Gungwu was asked: “What is the one thing that keeps you awake at night?” He replied without hesitation: “The drums of war.”
 
@@ -53,6 +53,15 @@ Among the victims, war brings to the surface not only acts of moral courage, but
 War can be said to be the ultimate condition that distorts human behaviour and strips human beings of agency, dignity and empathy. But war is man-made and not unavoidable, and is neither normal nor inevitable in human life.
 
 Today, war memories can be drawn into nationalist discourses and, in turn, deepen animosity and create tension between countries. To remember, however, is not only to acknowledge the violence that was inflicted and the suffering that was experienced. It is also a conscious effort to understand the human potential for both good and evil and, as Wiesel exhorts, to take sides, to speak on behalf of the victims, and to insist: “Never again.”
+
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Vol-15-issue-1/the-unresolved-past/kian_woon_kwok.png">
+	<b>Kwok Kian Woon</b> is a Professor of Sociology and Associate Provost (Student Life) at the Nanyang Technological University. His teaching and research interests relate to the historical and comparative understanding of modern social transformation. He was Chairman of the National Archives Board from 1999 to 2005.
+</div>
+
+<a href="/vol-15/issue-1/apr-jun-2019/"><center>Back to Issue</center></a>
+
 
 #### **NOTES**
 
