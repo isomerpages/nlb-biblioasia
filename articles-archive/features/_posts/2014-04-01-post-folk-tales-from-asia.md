@@ -9,7 +9,7 @@ layout: post
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-1/folktales/acl_collection.jpg">
+<img style="width:70%" src="/images/vol-10-issue-1/folktales/acl_collection.jpg">
 A selection of works found in the Asian Children’s Literature (ACL) collection at the Woodlands Regional Library. The 23,000-volume collection includes rare books that date back to the early 1900s.</div>
 
 Asia is the world’s largest continent in terms of population and area. With 49 countries spanning from China to Indonesia from north to south and Syria to Japan from east to west and containing over 60 percent of the world’s population, the Asian continent is home to a diverse variety of cultures with rich traditions and multi-layered histories.
@@ -20,12 +20,12 @@ Carefully accumulated over time, the 23,000-volume ACL collection is housed at t
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-1/folktales/the_night_life_of_tree.jpg">
+<img style="width:70%" src="/images/vol-10-issue-1/folktales/the_night_life_of_tree.jpg">
 A peek into a page of <i>The Night Life of Trees</i>. One Gond legend featured is that of the Ganja plant and the Mahua tree. Believed to be humans before they were turned into trees, they were lovers who could not marry because they belonged to different castes. Refusing to be separated, the couple took their lives somewhere deep in the forest and were reborn as plants on the spot where they died.</div>
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-1/folktales/Princess_meera.jpg">
+<img style="width:70%" src="/images/vol-10-issue-1/folktales/Princess_meera.jpg">
 The copy of <i>Princess Meera</i> found in the ACL collection. Published in 1963, only 10 copies of the book are available in the world. </div>
 
 #### **Indian Handmade Books**
@@ -42,14 +42,14 @@ About 100 pulls of the screen are required to print each copy of the 32-page boo
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-1/folktales/copy_of_the_night_life_of_tree.jpg">
+<img style="width:70%" src="/images/vol-10-issue-1/folktales/copy_of_the_night_life_of_tree.jpg">
 Every copy of <i>The Night Life of Trees</i> is numbered by hand. This particular book is the 546th copy out of 2,000.</div>
 
 Another example of a handmade book is <i>Princess Meera</i>. Published in 1963, this is one of the most treasured possessions in the Asian Children’s Literature collection. It is handwritten and bound by the author herself. Author Leela Row Dayal used line drawings to recount the story of Meerabai, a Hindu princess and mystical singer of sacred songs, based on Pandita Kshama Rao’s Sanskrit poem (the Sanskrit verses are included in their original form in the book). In the book, Princess Meerabai – who is known for her devotion to Lord Krishna – is born in the city of Khurkhi and hails from a noble <i>kshatriya</i>, or warrior family. 
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-1/folktales/in_the_dark.jpg">
+<img style="width:70%" src="/images/vol-10-issue-1/folktales/in_the_dark.jpg">
 <i>In the Dark</i> is a traditional Sufi tale of wisdom. This book is calligraphed and screenprinted on handmade paper.</div>
 
 #### **Japanese Woodblock Prints**
@@ -60,7 +60,7 @@ The beauty of woodblock prints can be seen in <i>Otogi-Banashi</i>, a bilingual 
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-1/folktales/Otogi_Banashi_open.jpg">
+<img style="width:70%" src="/images/vol-10-issue-1/folktales/Otogi_Banashi_open.jpg">
 The uniqueness of <i>Otogi-Banashi</i> lies in its accompanying miniature books and the book-within-a-book format. The miniature books contain only illustrations. The bigger book provides captions to the miniature books and an introductory essay to the history of toy books and woodblock prints.</div>
 
 The craft of toy books were originally created as playthings for Japanese children. Three Japanese folktales are featured in this volume: <i>The Old Man Who Makes the Flowers Bloom, Momotaro</i> and <i>KachiKachi Mountain</i>. The binding and outer slipcover for this particular volume is made of <i>chiyogami</i>, a traditional Japanese paper characterised by its hand-stencilled and block-printed patterns. 
@@ -69,25 +69,25 @@ For more recent works featuring woodblock prints, award-winning artist Keizaburo
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-1/folktales/Otogi_Banashi.jpg">
+<img style="width:70%" src="/images/vol-10-issue-1/folktales/Otogi_Banashi.jpg">
 <i>Otogi-Banashi</i>. This specimen of an uncut single-sheet print found in <i>OtogiBanashi</i> includes the heading “Fairy tale pictures for a toy book”, with brief instructions in the left margin on how to turn the pictures into miniature books. The illustrations here and in the three miniature books contained in this single volume were printed by hand using the original wood blocks from the publisher’s own collection.</div>
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-1/folktales/omocha-e.jpg"></div>
-<div style="background-color: white;">
+<img style="width:70%" src="/images/vol-10-issue-1/folktales/omocha-e.jpg"></div>
+<div style="width:70%" style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-1/folktales/omocha-e_1_re.jpg">
+<img style="width:70%" src="/images/vol-10-issue-1/folktales/omocha-e_1_re.jpg">
 The woodblocks used to print the <i>omocha-e</i> (toy pictures) in <i>Otogi-Banashi</i> were cut during the Taisho period (1912–1926). By a fortunate shift in location, the woodblocks escaped the bombing that destroyed most of Tokyo during World War II. Just before the war, the well-known printing house of Ise-tatsu was moved from Kanda to the historic area known as Yanaka. This was one of the few areas of Tokyo that escaped the bombings. As Hirose Tatsuguro remarks, it was a stroke of luck that the woodblocks of one of the last publishers of traditional children’s books and <i>omocha-e</i> survived. The war saw the loss of private collections of <i>omocha-e</i> owned by children. As few museums or libraries had thought of collecting these toy books, their loss was irreparable. </div>
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-1/folktales/father_owl.jpg">
+<img style="width:70%" src="/images/vol-10-issue-1/folktales/father_owl.jpg">
 Often featured in flight with his expansive wings spanning entire two-page spreads, Father Owl’s magnificence is undeniable. As Father Owl swoops down on his unsuspecting prey, the scene is sharply framed by the angled white space at the bottom of the spread, creating an optical illusion by emphasising the exhilaration and immediacy of the catch. Dramatic woodcut illustrations and the clever use of diagonal lines in <i>Owl Lake</i> bring alive the story of an owl and its family’s search for food.</div>
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-1/folktales/Three_of_Keizaburo_Tejima.jpg">
+<img style="width:70%" src="/images/vol-10-issue-1/folktales/Three_of_Keizaburo_Tejima.jpg">
 Three of Keizaburo Tejima’s books from the Asian Children’s Literature collection – <i>Owl Lake, Woodpecker Forest and Fox’s Dream</i>. One of Tejima’s purposes was to transport the reader vicariously to observe the wildlife of Hokkaido, his birthplace, and to showcase the island’s natural beauty through his works. He used a tinted woodblock technique which he sometimes supplemented with brush-on paint. This traditional form allows for a good deal of texture in solid blocks of colour as well as very strong, bold lines.</div>
 
 #### **China, Bookbinding and Papercuts**
@@ -98,7 +98,7 @@ Accordion bookbinding is where the book is bound only to the front and back case
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-1/folktales/Pang_Tao_long.jpg">
+<img style="width:70%" src="/images/vol-10-issue-1/folktales/Pang_Tao_long.jpg">
 <i>Pang Tao (Flat Peaches): Eight Fairies Festival</i>. The accordion book resembles a scroll when not folded. The transformation from Chinese scroll to accordion can be made by folding the scroll to form separate folios. Unlike the scroll books, which are awkward to unroll whenever one needs to examine a particular section of text, the accordion format makes it easier for the reader to sift through the text.</div>
 
 
@@ -106,7 +106,7 @@ Accordion bookbinding is where the book is bound only to the front and back case
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-1/folktales/Pang_Tao.jpg">
+<img style="width:70%" src="/images/vol-10-issue-1/folktales/Pang_Tao.jpg">
 The eight hand-coloured plates of the legendary immortals framed in silk brocades in <i>Pang Tao (Flat Peaches): Eight Fairies Festival</i> breathe life into the characters and story.</div>
 
 The traditional style of papercutting is also typical of Chinese culture. The art of cutting paper designs in China developed during the Han and Wei periods before iron tools and paper were even invented. Papercutting is a technique of cutting an image out of paper. The final image is formed by the contrast of the solid parts that remain and the negative spaces that have been cut out. Legend has it that Emperor Wu of the Han Dynasty (156–87 BC) missed Lady Li, his favourite concubine who had died so much that he had a figure of her carved in hemp paper to summon her spirit back. This was perhaps the earliest mention of a papercut.[^3]
@@ -119,7 +119,7 @@ The books featured in this article offer just a tiny sampling of the treasures a
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-1/folktales/six_chinese_brother.jpg">
+<img style="width:70%" src="/images/vol-10-issue-1/folktales/six_chinese_brother.jpg">
 An ancient Chinese tale of six brothers, each with a special trait, <i>Six Chinese Brothers</i> is popular legend that has been written and told in many variations – in some versions, there are 10 brothers instead of six. </div>
 
 <p style="font-size:15px;"><b>Lynn Chua</b> is a Senior Librarian with the National Library Board (NLB). She was in charge of developing the Asian Children’s Literature collection at the Woodlands Regional Library in 2012, and making the collection available to a range of users such as researchers, teachers, parents and students. She has also initiated programmes and led librarians in curating exhibitions that cultivated interest in reading and appreciation of Asian culture and heritage.</p>
