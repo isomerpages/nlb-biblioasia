@@ -16,7 +16,7 @@ In the 2000s, NAS opened two World War II “Interpretive Centres”– places w
 <br><br>
 The “Memories at Old Ford Factory” exhibition gallery, at the Former Ford Factory at 351 Upper Bukit Timah Road, was opened in February 2006 to relive the dark days of the Japanese Occupation in Singapore between 1942 and 1945. This building, used as an assembly plant for the Ford Motor Company in 1941, was the site of the British surrender of Singapore to the Japanese. The exhibition was revamped and retitled in 2017 as “Surviving the Japanese Occupation: War and Its Legacies”.
 <br><br>
-<img src="/images/Vol-15-issue-1/building-history/03_buildinghistory.jpg"></span>
+<img src="/images/Vol-15-issue-1/building-history/03_buildinghistory.jpg">Reflections at Bukit Chandu on Pepys Road. <i>Courtesy of National Archives of Singapore.</i></span>
 
 <div style="background-color: white;">
 <br>
