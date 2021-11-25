@@ -6,7 +6,7 @@ layout: post
 ---
 #### Who would have thought that obscure rainfall records from the 1960s would have a bearing on a landmark case before the International Court of Justice? **Eric Chin** explains the value of archival records in preserving and presenting evidence.
 
-“and the archive… was caught up in the middle of it all”
+<center>“and the archive… was caught up in the middle of it all”</center>
 
 <span style=" display:block; text-align:right;">– Anne Gilliland, Archival Science, September 2010[^1]</span>
 
@@ -18,7 +18,7 @@ The same honour was bestowed on the NAS some 10 years later on 28 October 2018 f
 
 #### **Evidence in the Everyday**
 
-“not compiled with an eye toward history”
+<center>“not compiled with an eye toward history”</center>
 
 <span style=" display:block; text-align:right;">– Arlette Farge, 1989[^6]</span>
 
@@ -61,3 +61,43 @@ Another citizen archivist transcription revealed that on 16 April 1862, long bef
 The posters and songs preserved by the NAS serve as part of the evidence of the sights and sounds of an important but turbulent period, culminating with the archival document that has been imbued with symbolic value – the hastily typewritten Proclamation of Singapore in 1965.
 
 #### **Evidence from Beyond Singapore**
+
+Apart from holdings transferred from other government agencies, NAS has for a long time been active in securing Singapore-related content from overseas archives. Unlike in ancient times, no single archive can claim to be the only “repository of both knowledge and proof in its day”.[^20] Chief among the “foreign archives” that the public can access at the NAS Archives Reading Room are copies of “Migrated Archives”[^21] relating to Singapore from The National Archives in the United Kingdom.
+
+These records from former British colonies were kept by the Foreign & Commonwealth Office and had not been available for public access until they were released in tranches from 2012. Similar records from the national archives of Australia and the United States have also been identified (and copied where permitted) as they provide different strands of evidence of Singapore’s colonial and post-colonial past as well as alternative perspectives of historical events. Through such steady work, the NAS seeks to be the primary and one-stop repository of Singapore content when it comes to archives from anywhere in the world.
+
+#### **Oral History as Evidence**
+
+<center>“creating an archival record”</center>
+
+<span style=" display:block; text-align:right;">– Kwa Chong Guan & Ho Chi Tim, 2012[^22]</span>
+
+Instead of being cautious about treating oral testimony as evidence, the NAS sees the use of oral history and other forms of archives (apart from the textual) as the “path to a rich and nuanced understanding of events and actions”.[^23] There has been a recent turning away by archivists and historians from the traditional reliance on textual records. There is a growing realisation that the purely textual is “not sufficient for all cultures and places”,[^24] although the NAS has always proudly championed oral history through its Oral History Centre. In words co-authored by noted historian and former director of the Oral History Centre, Kwa Chong Guan,[^25] the oral history recording programme was “in effect creating an archival record of the circumstances of Singapore’s creation and development”.
+
+The NAS’ long-time practice of drawing out concrete evidence as well as subtle nuances from key actors in events that have shaped Singapore and those who experienced the events first-hand and have a story to tell, has become the current refrain of many an archival theorist: “where documentary gaps exists… archivists should actively intervene with documentary projects such as oral histories… to create a ‘record’ that fills in the missing experience or knowledge”[^26] or indeed, the eye witness accounts (i.e. evidence) of happenings.
+
+Such was indeed required in the case of Singapore’s collective memory of the Japanese Occupation[^27] where local records were all but destroyed. Where gaps have been less serious, oral history and archives in the form of photographs and audiovisual archives have also “contribute[d] to bringing to life individuals and communities that (may) otherwise lie rather lifeless or without colour in the paper record”[^28] alone.
+
+#### **The Keepers of Evidence**
+
+<center>“even if it is challenging – as all worthy activities tend to be”</center>
+
+<span style=" display:block; text-align:right;">– James M. O’Toole & Richard J. Cox, 2006[^29]</span>
+
+It would be remiss when speaking of evidence in the archives not to pause and recognise that archivists, historians and other researchers are now painfully aware that archives can sometimes only offer an “archival sliver”.[^30] This may be partly attributed to the “avalanche of over documentation” (starting as far back as the mid-20th century[^31] and especially now in the digital age). Besides the indiscriminate disposal or deliberate destruction by creators of records,[^32] large gaps in archival records can also stem from careless appraisal methodologies or biases,[^33] the exclusion of the marginalised,[^34] and also the sheer failure by some to record transactions because of ignorance or deliberate acts by those wanting to be forgotten.[^35]
+
+The wealth and reliability of evidence from any archive is ultimately shaped and nurtured by archivists, conservators and administrative staff who, together, have to apply sound archival ethics, policy, preservation and standards.[^36] This started in Singapore some 50 years ago in 1968, when the National Archives and Records Centre was set up as an institution with its own dedicated mandate and “one Senior Archives Officer; two Clerical Assistants; two Archives Attendants; one Typist; one Binder; one Office Boy”.
+
+Despite the modest numbers, it was a good start not least because the senior archives officer was Lily Loh (later Mrs Lily Tan), the first professionally trained archivist who would later be appointed director of the NAS from 1978 to 2001. She and her team of dedicated staff expanded operations to establish the first Oral History Unit, the first Audiovisual Archives Unit, and oversaw the move to the NAS’ current location at Canning Rise with its purpose-built conservation equipment and repositories based on international standards.
+
+Today, the staff of NAS continue to build on this solid bedrock to preserve and present archival records that offer what the French historian Arlette Farge has evocatively described as a tantalising “tear in the fabric of time”.[^37]
+
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Vol-13-issue-3/old-world-amusement-parks/jessie-yak.png">
+<b>Jessie Yak </b>is a Reference Librarian with the Rare Collections team at the National Library, Singapore. She majored in Chinese language and literature at Beijing University and furthered her studies at the University of Cambridge. Jessie is interested in Chinese literature, the Chinese diaspora and the print culture of East Asia.
+</div>
+
+<a href="/vol-15/issue-1/apr-jun-2019/"><center>Back to Issue</center></a>
+
+#### **NOTES**
