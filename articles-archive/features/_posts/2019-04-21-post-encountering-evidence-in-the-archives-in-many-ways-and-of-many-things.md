@@ -6,6 +6,8 @@ layout: post
 ---
 #### Who would have thought that obscure rainfall records from the 1960s would have a bearing on a landmark case before the International Court of Justice? **Eric Chin** explains the value of archival records in preserving and presenting evidence.
 
+<div style="background-color: white;"><br><img src="/images/Vol-15-issue-1/evidence-in-the-archives/01_encountering.jpg">Horsburgh Lighthouse on Pedra Branca island is clearly listed as a Singapore Rainfall Station on page 4 of the report, Meteorological Services Malaysia and Singapore: Summary of Observations for Malaya, Singapore, Sabah and Sarawak 1966. <i>Courtesy of National Archives of Singapore.</i></div>
+
 <center>“and the archive… was caught up in the middle of it all”</center>
 
 <span style=" display:block; text-align:right;">– Anne Gilliland, <i>Archival Science</i>, September 2010[^1]</span>
@@ -25,6 +27,8 @@ The same honour was bestowed on the NAS some 10 years later on 28 October 2018 f
 How was the day won? The ICJ Judgment stated the basic legal principle on the burden of proof – “a party which advances a point of fact in support of its claim must establish that fact”.[^7] The key facts cited in the judgment were established through evidence found in diverse archival records, such as correspondences, official memos, reports and maps. These were compiled from the archival holdings of the NAS and other Singapore public agencies as well as from overseas archives.
 
 Together, the documents provided a wealth of evidence testifying that Singapore’s actions were wholly consistent with the exercise of ownership, such as the exercise of control on who could visit Pedra Branca. Notably, the ICJ Judgment specifically highlighted the converse as well: the absence of any archival evidence of actions presented by Malaysia to contradict Singapore’s position.[^8]
+
+<div style="background-color: white;"><img src="/images/Vol-15-issue-1/evidence-in-the-archives/02_encountering.jpg">An 1851 painting of the gunboat <i>Nancy</i> and Horsburgh Lighthouse on Pedra Branca by John Turnbull Thomson, Government Surveyor for the Straits Settlements. <i>Nancy</i> sailed from Malacca and arrived at Pedra Branca on 1 May 1848 to combat piracy in the area. The lighthouse was designed by Thomson and completed in 1851. It is named after James Horsburgh, a hydrographer with the British East India Company. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i></div>
 
 In a case where the legal examination of the facts went all the way back to the 1800s, the heavy reliance on documentation provided by the NAS and other archives was to be expected. What was more surprising was that most of the archival records that eventually found their way into bundles of evidence for scrutiny were bureaucratic records created in the course of everyday business – received and dutifully kept as ordinary records of seemingly little national or historical significance. It is fair to say that the many who produced or filed away these archival records, some from over a century ago, could not have anticipated how they would come to be used one day.
 
@@ -50,6 +54,8 @@ For instance, in the proclamation made under the direction of Raffles dated 14 M
 
 Raffles’ Regulations III and VI set up a nascent magistracy, and the first notions of British-style justice was practised in Singapore until formal ties with English courts were cut in 1994.[^16] The reception of English law and its courts were formally confirmed in the Charters of Justice. The original copy of the 1855 Third Charter of Justice has been preserved by the NAS and is currently on display at the NAS exhibition, “Law of the Land: Highlights of Singapore’s Constitutional Documents”, at the former Chief Justice’s Chamber and Office, National Gallery Singapore.
 
+<div style="background-color: white;"><img src="/images/Vol-15-issue-1/evidence-in-the-archives/03_encountering.jpg">A poster from the 1959 Legislative Assembly general election encouraging people to “vote to choose our government” as “Singapore is ours”. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
 The Third Charter of Justice provided for the post of the very first professional judge to be permanently located in Singapore – evidence of the island’s growing commercial and administrative importance by that time. Citizen archivist transcriptions, however, have provided evidence that the British did not necessarily have blind faith in their methods alone.
 
 Another citizen archivist transcription revealed that on 16 April 1862, long before the 1990s push towards “Singapore law to develop in a way most suited to its people’s needs”,[^17] then Governor of the Straits Settlements William Orfeur Cavenagh voiced serious misgivings about magistrates fresh from the English Bar who possessed scant local knowledge. In a letter addressed to the Secretary to the Government of India, he wrote:
@@ -64,7 +70,11 @@ The posters and songs preserved by the NAS serve as part of the evidence of the 
 
 Apart from holdings transferred from other government agencies, NAS has for a long time been active in securing Singapore-related content from overseas archives. Unlike in ancient times, no single archive can claim to be the only “repository of both knowledge and proof in its day”.[^20] Chief among the “foreign archives” that the public can access at the NAS Archives Reading Room are copies of “Migrated Archives”[^21] relating to Singapore from The National Archives in the United Kingdom.
 
+<div style="background-color: white;"><img src="/images/Vol-15-issue-1/evidence-in-the-archives/04_encountering.jpg">The typewritten Proclamation of Singapore document signed off by founding Prime Minister Lee Kuan Yew on 9 August 1965. This is another key document in the holdings of the National Archives. <i>Courtesy of the National Archives of Singapore.</i></div>
+
 These records from former British colonies were kept by the Foreign & Commonwealth Office and had not been available for public access until they were released in tranches from 2012. Similar records from the national archives of Australia and the United States have also been identified (and copied where permitted) as they provide different strands of evidence of Singapore’s colonial and post-colonial past as well as alternative perspectives of historical events. Through such steady work, the NAS seeks to be the primary and one-stop repository of Singapore content when it comes to archives from anywhere in the world.
+
+<div style="background-color: white;"><img src="/images/Vol-15-issue-1/evidence-in-the-archives/05_encountering.jpg">A typical staff workspace with simple wooden desk and chair amongst the archives at the National Archives and Records Centre at Lewin Terrace, 1971. <i>Courtesy of National Archives of Singapore.</i></div>
 
 #### **Oral History as Evidence**
 
