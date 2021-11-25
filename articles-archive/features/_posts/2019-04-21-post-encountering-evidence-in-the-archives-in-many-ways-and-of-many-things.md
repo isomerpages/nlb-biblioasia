@@ -94,10 +94,84 @@ Today, the staff of NAS continue to build on this solid bedrock to preserve and 
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Vol-13-issue-3/old-world-amusement-parks/jessie-yak.png">
-<b>Jessie Yak </b>is a Reference Librarian with the Rare Collections team at the National Library, Singapore. She majored in Chinese language and literature at Beijing University and furthered her studies at the University of Cambridge. Jessie is interested in Chinese literature, the Chinese diaspora and the print culture of East Asia.
+<img style="width: 100px; height: 100px;" src="/images/Vol-13-issue-3/old-world-amusement-parks/eric.png">
+	<b>Eric Chin</b> is the General Counsel of the National Library Board. He was formerly Director of the National Archives of Singapore (2012–17).
 </div>
 
 <a href="/vol-15/issue-1/apr-jun-2019/"><center>Back to Issue</center></a>
 
 #### **NOTES**
+
+[^1]:Gilliland, A.J. (2010, September). Afterword: In and out of the archives. Archival Science, 10(3), 333–343, p. 334. (Not available in NLB holdings) 
+
+[^2]:Cook, T. (2013, June). Evidence, identity, memory, and community: Four shifting archival paradigms. Archival Science, 13(2–3), 95–120, p. 97. (Not available in NLB holdings) 
+
+[^3]:Jayakumar, S., & Koh, T. (2009). Pedra Branca: The road to the world court (p. 63). Singapore: NUS Press. (Call no.: RSING 341.448095957 JAY) 
+
+[^4]:International Court of Justice. (2008, May 23). Sovereignty over Pedra Branca/Pulau Batu Puteh, Middle Rocks and South Ledge (Malaysia/Singapore), Judgment, I.C.J. Reports. Retrieved from the International Court of Justice website. 
+
+[^5]:Malaysia withdrew its application on 28 May 2018. On 29 May, the ICJ informed Singapore and Malaysia that the case would be removed from the court’s list. The judgment of 23 May 2008 still stands. 
+
+[^6]:Farge, A. (2013). The allure of the archives (T. Scott-Railton, Trans.) (p. 7). New Haven: Yale University Press. (Original work published 1989). (Not available in NLB holdings) 
+
+[^7]:International Court of Justice, 23 May 2008, para. 45, p. 23. 
+
+[^8]:International Court of Justice, 23 May 2008, paras. 273–277, pp. 87–88. 
+
+[^9]:“Piscatorial” means “of or concerning fishermen or fishing”. Retrieved from Oxford Dictionaries. 
+
+[^10]:International Court of Justice, 23 May 2008, paragraph 266, pp. 85–86. 
+
+[^11]:O’Toole, J.M., & Cox, R.J. (2006). Understanding archives & manuscripts (p. 86). The Society of American Archivists. Chicago, IL: Society of American Archivists. (Not available in NLB holdings) 
+
+[^12]:Ketelaar, E. (2012, March). Cultivating archives: Meanings and identities. Archival Science, 12(1), 19–33, p. 19. (Not available in NLB holdings) 
+
+[^13]:Gilliland, Sep 2010, p. 339. 
+
+[^14]:Australian Society of Archivists. (2019). The archivist’s mission. Retrieved from Australian Society of Archivists website.
+
+[^15]:Raffles, T.S. (1823). L17: Raffles: Letters to Singapore (Farquhar). Retrieved from The Citizen Archivist Project website. 
+
+[^16]:Goh, Y. (2015). Law (p. 98). Singapore: Institute of Policy Studies and Straits Times Press. (Call no.: RSING 349.5957 GOH) 
+
+[^17]:Goh, 2015, p. 97. 
+
+[^18]:Cavenagh, W.O. (1862, April 16). R44: Governor’s letters to Bengal (Judicial). Retrieved from The Citizen Archivist Project website. 
+
+[^19]:Radio Singapore. (1959, May 19). Election song. Retrieved from National Archives of Singapore website.
+
+[^20]:Gilliland, Sep 2010, p. 334. 
+
+[^21]:Thomas, D., Fowler, S., & Johnson, V. (2017). The silence of the archive (pp. 5–6). London: Facet Publishing. (Not available in NLB holdings) 
+
+[^22]:Kwa, C.G., & Ho, C.T. (2012). Archives in the making of post-colonial Singapore (p. 133). In C. Jeurgens, T. Kappelhof & M. Karabinos (Eds.), Colonial legacy in South East Asia: The Dutch archives. ’s-Gravenhage: Stichting Archiefpublicaties. (Call no.: RSEA 026.959 COL-[LIB])
+
+[^23]:Bastian, J.A. (2017). Memory research/archival research (p. 269). In A.J. Gilliland, S. McKemmish & A.J. Lau (Eds.), Research in the archival multiverse. Melbourne: Monash University Publishing (Not available in NLB holdings)
+
+[^24]:Cox, J.C. (2009). The archivist and community (p. 254). In J.A. Bastian & B. Alexander (Eds.), Community archives: The shaping of memory. London: Facet Publishing. (Call no.: R 025.1714 COM-[LIB])
+
+[^25]:Kwa Chong Guan was Director of the Oral History Centre from 1985 to 1994. He has served as a board and advisory committee member of the NAS since 1993 and was Chairman from 2006 to 2015. 
+
+[^26]:Gilliland, Sep 2010, p. 336.
+
+[^27]:Lee, G.B. (2017). Syonan: Singapore under the Japanese, 1942–1945. (pp. 11, 193). Singapore: Singapore Heritage Society and Landmark Books. (Call no.: RSING 940.535957 LEE) 
+
+[^28]:Thomas, D., Fowler, S., & Johnson, V. (2017). The silence of the archive (p. 18). London: Facet Publishing. (Not available in NLB holdings)
+
+[^29]:O’Toole, J.M., & Cox, R.J. (2006). Understanding archives & manuscripts (p. 146). Chicago, IL: The Society of American Archivists. (Not available in NLB holdings) 
+
+[^30]:Harris, V. (2002, March). The archival sliver: Power, memory, and archives in South Africa. Archival Science, 2(1), 63–86, p. 63. (Not available in NLB holdings)
+
+[^31]:Cook, Jun 2013, p. 101.
+
+[^32]:Harris, Mar 2002, p. 64.
+
+[^33]:Cox, R.J. (2004). No innocent deposits: Forming archives by rethinking appraisal (pp. 176–180). Lanham, Md.: Scarecrow Press. (Call no.: R 025.21 COX-[LIB]) 
+
+[^34]:Thomas, Fowler & Johnson, 2017, p. 4. 
+
+[^35]:30 Year Rule Review. (2009, January). Review of the 30 year rule. Retrieved from 30 Year Rule Review website. 
+
+[^36]:Duranti, L., & Franks, P.C. (Eds.). (2015). Encyclopedia of archival science. Lanham, Maryland: Rowman & Littlefield. (Not available in NLB holdings)
+
+[^37]:Farge, 2013, p. 6.
