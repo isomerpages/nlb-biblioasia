@@ -121,4 +121,4 @@ I myself completed national service in Dieppe Barracks from 2018 to 2019, and in
 [^23]:[*1 RNZIR*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4394183). (1975). Singapore: First Battalion Royal New Zealand Infantry Regiment. (Call no.: 356.1109931 RNZIRF).
 [^24]:Fernandez, C. (1981, November 26). [Two NZ soldiers jailed for peddling drugs](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19811126-1.2.3). *The Straits Times* p. 1. Retrieved from NewspaperSG.
 [^25]:Ong, W.C. (2019, February 13). Singapore’s military history: Look beyond World War II. *RSIS Commentary, 21,* 1–4. Retrieved from S. Rajaratnam School of International Studies website.
-[^26]:[Lee begins talks to avert total British pull-out by 1975](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19670627-1.2.127). (1967, June 27). The Straits Times p. 18. Retrieved from NewspaperSG.
+[^26]:[Lee begins talks to avert total British pull-out by 1975](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19670627-1.2.127). (1967, June 27). *The Straits Times* p. 18. Retrieved from NewspaperSG.
