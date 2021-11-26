@@ -35,7 +35,7 @@ Another veteran – policeman Rahman Khan – was shot by Singapore’s most fam
 
 Angel Ng was an angry young woman who was jailed eight times for various drug offences. When she last left her cell, she got a job at a call centre started by the prison authorities under its Yellow Ribbon project. Today, she manages three call centres.
 
-Adam Maniam is a Tamil-Eurasian Malay-Pakistani lawyer with a Catholic Tamil grandfather and a Eurasian grandmother. His father married a Muslim woman and converted to Islam. The lawyer married a Chinese girl and they decided on a civil marriage. It is a complicated story but very Singaporean.
+Adam Maniam is a Tamil-Eurasian-Malay-Pakistani lawyer with a Catholic Tamil grandfather and a Eurasian grandmother. His father married a Muslim woman and converted to Islam. The lawyer married a Chinese girl and they decided on a civil marriage. It is a complicated story but very Singaporean.
 
 There are also some not-so-ordinary people in the book.
 
