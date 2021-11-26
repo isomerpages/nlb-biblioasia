@@ -83,9 +83,6 @@ Sometime around midnight, the dog Somu, which belonged to a Dr Sharma, one of th
 
 The rest of us were paralysed with fear and at a loss as how to help the doctor. Dr Sharma immediately fell at the feet of the sergeant begging for his life. And then, the most amazing thing happened. As if on cue, Somu stopped barking and began to whine and follow his master’s example. He, too, crawled up to the sergeant on his stomach, as if in total supplication, while the rest of us watched open-mouthed.
 
-<img style="width: 650px; height: 370px;" src="/images/Vol-15-issue-3/fleeing-to-uncertainty/Fleeing6.JPG">
-<div style="background-color: white;">K. Ramakanthan at his residence in Bishan, 2019. Now retired, he still reads voraciously and is a familiar figure at the Ang Mo Kio Public Library. <i>Courtesy of Aishwariyaa Ramakanth</i></div>
-
 The scene was so surreally funny that even the Japanese sergeant chuckled. That was enough for the rest of us to start laughing, violent paroxysms that were induced by a combination of fear and relief, and the comic despair of it all. The pudgy soldier exclaimed, “*Yoroshi*!” (“Good!”) He appeared to have softened a little. He eyed us and then reached out and ruffled my hair, saying, “*Kodomo tachi*! *Yoroshi*!” (“Young fellow! Good!”). The tension evaporated and the mood lightened. But we relaxed a little too soon. It appeared that the sergeant was a little temperamental.
 
 “We want borrow car! You give?” asked the sergeant in broken English. When Dr Sharma responded “Sorry, no petrol”, the sergeant flew into a rage. “No petrol, no petrol, all die! Boom!” he snapped, all the while gesticulating wildly. When two canisters of petrol were miraculously produced by someone in our group, he calmed down. “We borrow car and give receipt. We return car in Muar,” he promised. “Ok! *Arigato gozaimasu*!” (“Ok! Thank you”) he barked, and all his men piled into the car and drove off into the night.
@@ -94,10 +91,13 @@ In the weeks and months that followed, we began the long and laborious journey t
 
 *Shortly after the Japanese Occupation of Southeast Asia officially ended on 12 September 1945, my father and his family made their way back to Kuala Lumpur where he completed his education. He worked for a short while as a stenographer in the attorney-general’s office there before moving to Singapore to train as a teacher, where he met and married my mother in 1958. My father turns 90 in December this year.*
 
+<img style="width: 650px; height: 370px;" src="/images/Vol-15-issue-3/fleeing-to-uncertainty/Fleeing6.JPG">
+<div style="background-color: white;">K. Ramakanthan at his residence in Bishan, 2019. Now retired, he still reads voraciously and is a familiar figure at the Ang Mo Kio Public Library. <i>Courtesy of Aishwariyaa Ramakanth</i></div>
+
 <br>
 <div style="background-color: white;">
 <img src="/images/Vol-15-issue-3/fleeing-to-uncertainty/Fleeing7.jpg" style="width: 100px; height: 100px;">
-	<center><b>Aishwariyaa Ramakanthan</b></center>
+<b>Aishwariyaa Ramakanthan</b>is an English and Social Studies teacher. She graduated with a bachelor’s degree in English from the National University of Singapore and obtained her master’s in history from the University of San Diego, California. She also has a post-graduate Diploma in Education from the Institute of Education, Singapore.
 </div>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-15/issue-3/oct-dec-2019/"><center>Back to Issue</center></a>
