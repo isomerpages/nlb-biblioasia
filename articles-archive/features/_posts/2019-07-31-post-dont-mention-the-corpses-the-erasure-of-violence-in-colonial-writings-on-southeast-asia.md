@@ -95,3 +95,27 @@ The works of Raffles, Low and St John, however, pose a far greater challenge. In
 </div>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-15/issue-2/jul-sep-2019/"><center>Back to Issue</center></a>
+
+#### **NOTES**
+[^1]:Bartlett, R. (1993). [*The making of Europe: Conquest, colonization and cultural change, 950–1350*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6559035) (p. 96). Princeton, NJ: Princeton University Press. (Call no.: 940.1 BAR).
+[^2]:Snodgrass, J.J. (1827). *Narrative of the Burmese war […]* (p. 6). London: J. Murray. (Microfilm no.: NL5084).
+[^3]:
+[^4]:
+[^5]:
+[^6]:
+[^7]:
+[^8]:
+[^9]:
+[^10]:
+[^11]:
+
+
+Snodgrass, 1827, p. 31.
+Keppel, H. (1846). The expedition to Borneo of HMS Dido for the suppression of piracy […] (vol. I and vol. II; 2nd ed.). London: Chapman and Hall. Retrieved from BookSG.
+Brooke, J., & Mundy, G.R. (1848). Narrative of events in Borneo and Celebes, down to the occupation of Labuan […] (Vol. II; 2nd ed.). London: John Murray. (Microfilm no.: NL7435)
+Marryat, F.S. (1848). Borneo and the Indian Archipelago: With drawings of costume and scenery. London: Longman, Brown, Green, and Longmans. Retrieved from BookSG.
+Keppel, 1846, vol. II, pp. 67, 69.
+Keppel, 1846, vol. II, p. 231.
+Raffles, S.T. (1817; reprint 1830). The history of Java (vol. I and vol. II; 2nd ed.). London: J. Murray. Retrieved from BookSG.
+Low, H. (1848; reprint 1990). Sarawak: Its inhabitants and productions. Petaling Jaya: Delta. (Call no.: RSEA 915.954043 LOW-[TRA])
+Spencer, B.S.J. (1862). Life in the forests of the Far East. London: Smith, Elder. (Microfilm no.: NL3636)
