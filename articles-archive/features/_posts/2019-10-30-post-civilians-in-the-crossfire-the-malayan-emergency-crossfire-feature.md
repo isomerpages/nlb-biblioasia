@@ -1,10 +1,10 @@
 ---
-title: "Civilians In The Crossfire: The Malayan Emergency Crossfire Feature"
+title: "Civilians in the Crossfire: The Malayan Emergency Crossfire Feature"
 date: 2019-10-30
 permalink: /vol-15/issue-3/oct-dec-2019/civilians-in-crsfire/
-image: /images/Vol-15-issue-3/civilians-in-the-crossfire/Civilians1.JPG
 layout: post
 ---
+
 #### **Ronnie Tan** recounts the hardship suffered by civilians as a result of the British government’s fight against the communists during the Malayan Emergency.
 
 <img src="/images/Vol-15-issue-3/civilians-in-the-crossfire/Civilians1.JPG">
