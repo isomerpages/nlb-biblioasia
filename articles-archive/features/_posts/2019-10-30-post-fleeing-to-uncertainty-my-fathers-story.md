@@ -18,13 +18,19 @@ layout: post
 
 *Having settled down to life in Perak, my grandfather did not imagine even for a moment – like so many others who blindly believed in the invincibility of the British – that they would have to flee for their lives one day. When the Japanese invaded Malaya during World War II, my grandfather lost everything that he had worked so hard for.*
 
+<img style="width: 300px; height: 400px;" src="/images/Vol-15-issue-3/fleeing-to-uncertainty/Fleeing4.JPG">
+<div style="background-color: white;">K. Ramakanthan when he was a teacher in Singapore, c. 1950. <i>Courtesy of Aishwariyaa Ramakanthan.</i></div>
+
 *This is my father’s story.*
 
-My first sense that the world I knew would collapse was when I was waiting to take the train back home from school one Friday afternoon in late 1941. People were moving hurriedly with packed bags, their faces etched with tension and worry. I was puzzled when a man walking past whispered in Malay: “*Jepun datang. Lekas balik..* (“The Japanese are coming. Go home quickly”).
+My first sense that the world I knew would collapse was when I was waiting to take the train back home from school one Friday afternoon in late 1941. People were moving hurriedly with packed bags, their faces etched with tension and worry. I was puzzled when a man walking past whispered in Malay: “*Jepun datang. Lekas balik.”* (“The Japanese are coming. Go home quickly”).
 
 I hurried home only to discover that a large group of Indian soldiers from the British Army had assembled in the open space in front of our home. Why they were there we didn’t quite know, but my mother was clearly disturbed at this sight. My father, however, brushed her worries aside, convinced that the whispered rumours were untrue. Above anything else, he was certain that the might of the British Empire would prevail. So we went about our usual routine that Friday, unaware that our lives were about to change in ways we could never have imagined.
 
 I remember spending the day reading my favourite *Rainbow* comics and playing with my two baby brothers. I knew of Benito Mussolini, the fascist prime minister of Italy, from a *Beano* comic strip that caricatured him as the ridiculously pompous Musso the Wop. Adolf Hitler of Germany had been similarly portrayed as a laughable character in Charlie Chaplin’s film, *The Great Dictator*. Perhaps these depictions of evil men who had been caricatured as idiotic and harmless had lulled me into a false sense of security.
+
+<img style="width: 300px; height: 400px;" src="/images/Vol-15-issue-3/fleeing-to-uncertainty/Fleeing5.JPG">
+<div style="background-color: white;">K. Ramakanthan, around age 11, in a photo taken at the Sungai Rinching Estate in Selangor, c. 1940. <i>Courtesy of Aishwariyaa Ramakanthan.</i></div>
 
 Saturday dawned in a deathly silence. I peered out of my bedroom window but the soldiers in front of my house were no longer there. My father left for work as usual while my mother and I played with my brothers on the verandah. The peace was suddenly shattered by my father’s return in his Austin 7. We watched aghast, completely confused as he drove up like a madman, gesticulating wildly. The car screeched to a halt and he jumped out yelling, “Pack up! Pack up! They are here! They are here”! It didn’t strike us immediately that he was talking about the Japanese.
 
@@ -36,9 +42,6 @@ As I watched my parents drive away after dropping me off at the railway station,
 
 <img style="width: 300px; height: 400px;" src="/images/Vol-15-issue-3/fleeing-to-uncertainty/Fleeing3.JPG">
 <div style="background-color: white;">K. Ramakanthan posing in a photo with his parents and one of his baby brothers in Changkat Salak Estate, Perak, December 1941. <i>Courtesy of Aishwariyaa Ramakanthan.</i></div>
-<br>
-<img style="width: 300px; height: 400px;" src="/images/Vol-15-issue-3/fleeing-to-uncertainty/Fleeing4.JPG">
-<div style="background-color: white;">K. Ramakanthan when he was a teacher in Singapore, c. 1950. <i>Courtesy of Aishwariyaa Ramakanthan.</i></div>
 
 I fought off sleep as the overnight train chugged towards Kuala Lumpur, picking up more people along the way. The train pulled into Kuala Lumpur at about five the next morning. Staying together was a struggle as we made our way past the heaving mass of passengers. When we finally emerged from the cramped train, the fresh air that greeted us was a welcome respite, and we took deep gulps of it. For a minute, we forgot the gravity of our situation.
 
@@ -48,12 +51,9 @@ Paralysed with fear, I stood rooted to the ground not knowing what to do. None o
 
 Suddenly, I felt a heavy hand on my shoulder. It was the restaurant manager. He grabbed my arm and we ran into the shelter just as the first bombs hit. It was a full 10 to 15 minutes before the “all clear” signal sounded. People sighed with relief, thankful that they were still standing even as their legs trembled.
 
-<img style="width: 300px; height: 400px;" src="/images/Vol-15-issue-3/fleeing-to-uncertainty/Fleeing5.JPG">
-<div style="background-color: white;">K. Ramakanthan, around age 11, in a photo taken at the Sungai Rinching Estate in Selangor, c. 1940. <i>Courtesy of Aishwariyaa Ramakanthan.</i></div>
-
 A grim sight met us as we emerged into the blinding sunlight. Many buildings had been badly damaged, and several dead bodies littered the streets. The restaurant, miraculously, was still intact. Among the casualties were the wife and two sons of the family friend who had accompanied me to Kuala Lumpur – although I wasn’t aware of this at the time. When my own family finally turned up at the restaurant, my relief and joy knew no bounds.
 
-My father then drove to his office headquarters in Kuala Lumpur to inform them of his whereabouts. There, his British boss (or “Tuan”)[^1] pressed my father to let him borrow the Austin 7 to drive to Singapore, as he needed another car to accommodate his whole family. My father had no choice but to agree. His Tuan, like the rest of the British, believed that Singapore was a stronghold that would not fall to enemy attack – the British called the island the “Gibraltar of the East” in reference to its European bastion at the southern tip of the Iberian Peninsula.
+My father then drove to his office headquarters in Kuala Lumpur to inform them of his whereabouts. There, his British boss (or “Tuan” which means “master”, the Malay term of deference locals used to address their colonial superiors) pressed my father to let him borrow the Austin 7 to drive to Singapore, as he needed another car to accommodate his whole family. My father had no choice but to agree. His Tuan, like the rest of the British, believed that Singapore was a stronghold that would not fall to enemy attack – the British called the island the “Gibraltar of the East” in reference to its European bastion at the southern tip of the Iberian Peninsula.
 
 We spent the night at the abandoned house of a family friend. The next morning, my father went to look for a taxi to take us to Muar, while the rest of us prepared to leave. Just as we finished lunch, the ominous sound of the siren tore through the air again. With pounding hearts, we took cover under a staircase, the only shelter available. This time it finally dawned on me that death was a real possibility. We covered our heads and clung tightly to each other as the ground under us shook. My mother urged us to be calm and brave, and to pray – which we did, fervently.
 
@@ -101,6 +101,3 @@ In the weeks and months that followed, we began the long and laborious journey t
 </div>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-15/issue-3/oct-dec-2019/"><center>Back to Issue</center></a>
-
-#### **NOTES**
-[^1]:Meaning “master”, the Malay term of deference locals used to address their colonial superiors.
