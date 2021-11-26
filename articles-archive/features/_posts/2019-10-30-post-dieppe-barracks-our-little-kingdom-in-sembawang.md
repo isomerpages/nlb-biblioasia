@@ -80,3 +80,19 @@ Almost a decade later, two New Zealand soldiers were each sentenced to three yea
 Why does this story of Dieppe Barracks matter? Much of Singapore’s military history remains focused on World War II and the Japanese Occupation, and scholars have increasingly called for greater attention to our more recent past.25
 
 Military spaces physically express the colonial, post-colonial and neo-colonial processes that have shaped Singapore’s history and landscape over the decades. Given that foreign military bases in Singapore were a major driver of the economy in the late 1960s and employed some 25,000 locals,26 it is impossible to understand the social, economic and cultural changes that had taken place here without reference to the vast numbers of soldiers and seamen who passed through this island from the 19th century to the present day.
+
+<img src="/images/Vol-15-issue-3/dieppe-barracks/Dieppe4.JPG">
+<div style="background-color: white;">Christmas (straitstimes_19861221_0052)
+Christmas was always a special and joyous occasion at Dieppe Barracks. For the New Zealand troops, the tradition was for senior officers to serve the junior ranks during Christmas parties held in the messes. <i>The Straits Times, 21 December 1986, p. 4.</i></div>
+
+I myself completed national service in Dieppe Barracks from 2018 to 2019, and in some small way was part of its geostrategic history and destiny. From British commandos to New Zealand infantry soldiers and finally to me and my fellow national service mates, places like Dieppe Barracks have witnessed and stood sentinel to the transformations of Singapore we have seen over the years.
+
+<br>
+<div style="background-color: white;">
+<img src="/images/Vol-15-issue-3/dieppe-barracks/Dieppe5.jpg" style="width: 100px; height: 100px;">
+	<center><b>Jun Yan Chua</b></center>
+</div>
+
+<a href="https://biblioasia.nlb.gov.sg/vol-15/issue-3/oct-dec-2019/"><center>Back to Issue</center></a>
+
+#### **NOTES**
