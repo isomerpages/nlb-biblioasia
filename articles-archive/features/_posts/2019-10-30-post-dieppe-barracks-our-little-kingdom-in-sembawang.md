@@ -45,7 +45,7 @@ With the end of the Cold War in the late 1980s and the growth of the SAF, the Ki
 
 While Singapore enjoyed relative peace and stability from the late 1960s, the foreign military presence at Dieppe served as an important conduit for defence diplomacy and cultural exchange. Sports facilities in and around the barracks provided the troops with recreational activities, fostered informal contact between military leaders, and engendered positive civil-military relations.
 
-<img src="/images/Vol-15-issue-3/dieppe-barracks/Dieppe2.JPG">
+<img style="width: 500px; height: 350px;" src="/images/Vol-15-issue-3/dieppe-barracks/Dieppe2.JPG">
 <div style="background-color: white;">As part of Christmas celebrations in 1970, a British commando dressed as Santa Claus parachuted from a helicopter and greeted the children of servicemen at Dieppe Barracks. <i>Source: The Straits Times © Singapore Press Holdings Limited. Reprinted with permission.</i></div>
 
 After Britain’s Royal Marines Commandos moved into Dieppe Barracks in 1967, they built a nine-hole golf course, which would evolve into today’s Sembawang Country Club – a club that is presently affiliated to the SAF. The early course was primitive: it was “short and carved out of an area of poor soil”, and was so hilly that it was informally known as the “commando course”.[^14] However, Singaporean leaders perceived golf as an opportunity to cultivate friendly relations with foreign military officials.
@@ -54,7 +54,7 @@ During the early 1970s, then Minister for Defence Goh Keng Swee urged senior SAF
 
 Similarly, rugby also helped to forge closer ties between Singapore and New Zealand. When the New Zealand forces occupied Dieppe Barracks in 1971, the rugby pitch along Sembawang Road became the centrepiece of public diplomacy between the two countries. From 1971 to 1989, Dieppe Barracks hosted hundreds of rugby matches, often between the Kiwis and local teams. These efforts strengthened New Zealand’s soft power and enhanced people-to-people ties between the two countries.
 
-<img src="/images/Vol-15-issue-3/dieppe-barracks/Dieppe3.JPG">
+<img style="width: 500px; height: 350px;" src="/images/Vol-15-issue-3/dieppe-barracks/Dieppe3.JPG">
 <div style="background-color: white;">At Dieppe Barracks, visitors would customarily be met by a Maori challenge party in their traditional costume and war paint. The latter would issue a warrior’s challenge to ascertain if the visitor came in war or peace. In this photo, General B.M. Poananga CB, CBE, Chief of the General Staff, accepts the challenge during his visit to the barracks. <i>Image reproduced from 1 RNZIR Journal. (1982). Singapore: First Battalion Royal New Zealand Infantry Regiment. (Call no.: RCLOS 356.1109931 RNZIRF).</i></div>
 
 In 1979, for instance, the Singapore Combined Schools’ rugby squad described a match and training clinic with the New Zealand All Blacks as a “dream date”, held in what *The Straits Times* called “a truly New Zealand atmosphere at the Dieppe Barracks”.[^16] In the Singaporean schoolboy’s imagination, Dieppe Barracks was a portal into the distant land of New Zealand.
@@ -81,7 +81,7 @@ Why does this story of Dieppe Barracks matter? Much of Singapore’s military hi
 
 Military spaces physically express the colonial, post-colonial and neo-colonial processes that have shaped Singapore’s history and landscape over the decades. Given that foreign military bases in Singapore were a major driver of the economy in the late 1960s and employed some 25,000 locals,[^26] it is impossible to understand the social, economic and cultural changes that had taken place here without reference to the vast numbers of soldiers and seamen who passed through this island from the 19th century to the present day.
 
-<img src="/images/Vol-15-issue-3/dieppe-barracks/Dieppe4.JPG">
+<img style="width: 500px; height: 360px;" src="/images/Vol-15-issue-3/dieppe-barracks/Dieppe4.JPG">
 <div style="background-color: white;">Christmas (straitstimes_19861221_0052)
 Christmas was always a special and joyous occasion at Dieppe Barracks. For the New Zealand troops, the tradition was for senior officers to serve the junior ranks during Christmas parties held in the messes. <i>The Straits Times, 21 December 1986, p. 4.</i></div>
 
