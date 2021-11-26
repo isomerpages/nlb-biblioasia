@@ -87,3 +87,11 @@ Reading works such as these today we are reminded of the fact that colonialism w
 But what is equally important to note is how and why some of these colonial writers chose to sideline or even silence the violence that invariably accompanied colonisation, and what they hoped to achieve by doing so in their writings. Scholars of colonial history are no doubt appreciative of the fact that some of these colonial-era writers – such as Snodgrass, Keppel, Mundy and Marryat – were honest in their accounts of the violence they perpetrated. At the very least, this opens the way for a critical discussion of colonialism and its enduring legacy.
 
 The works of Raffles, Low and St John, however, pose a far greater challenge. In rereading the works of this other group of writers with a critical eye today, we see the stark and enormous gaps and long instances of silence where the brutal realities of colonial conquest were deliberately erased and eventually forgotten. In doing so, we can critique these authors for their moral complicity in what was, in the final analysis, one of the most violent eras in recent Southeast Asian history.
+
+<br>
+<div style="background-color: white;">
+<img src="/images/Vol-15-issue-2/dont-mention-the-corpses/Corpses5.jpg" style="width: 100px; height: 100px;">
+<b>Dr Farish A. Noor</b> is presently Associate Professor at the S. Rajaratnam School of International Studies and the School of History, College of Humanities, Arts, and Social Sciences, Nanyang Technological University. His latest book is <i>Before the Pivot: America’s Encounters with Southeast Asia 1800–1900</i> (Amsterdam University Press, 2018).
+</div>
+
+<a href="https://biblioasia.nlb.gov.sg/vol-15/issue-2/jul-sep-2019/"><center>Back to Issue</center></a>
