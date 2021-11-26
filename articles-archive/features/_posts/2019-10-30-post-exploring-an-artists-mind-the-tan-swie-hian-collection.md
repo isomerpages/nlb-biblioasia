@@ -6,10 +6,10 @@ layout: post
 ---
 #### What makes the difference between a good artist and a brilliant one? **Goh Yu Mei** delves into the books and artworks that have inspired a literary and artistic genius.
 
-<img src="/images/Vol-15-issue-3/exploring-an-artist-s-mind/Explore1.JPG">
+<img style="width: 700px; height: 410px;" src="/images/Vol-15-issue-3/exploring-an-artist-s-mind/Explore1.JPG">
 <div style="background-color: white;">Tan Swie Hian jots down ideas and inspirations in his notebooks, along with preliminary sketches of his artworks. <i>Tan Swie Hian Collection, National Library, Singapore.</i></div>
 <br>
-<img src="/images/Vol-15-issue-3/exploring-an-artist-s-mind/Explore2.JPG">
+<img style="width: 450px; height: 330px;" src="/images/Vol-15-issue-3/exploring-an-artist-s-mind/Explore2.JPG">
 <div style="background-color: white;">Tan Swie Hian’s interest in the Sanskrit epic Ramayana led to his discovery of this eight-volume Chinese translation by the renowned scholar, Professor Ji Xianlin. 蚁垤著; 季羡林译. (1980–1984).《罗摩衍那》. 北京:人民文学出版社. (Call no.: RDTSH 294.5922 VAL). <i>Tan Swie Hian Collection, National Library, Singapore.</i></div>
 
 Housed within the Donors Gallery at level 10 of the National Library Building is the Tan Swie Hian Collection of over 6,600 items – comprising books, artworks, manuscripts, personal notebooks and other items – that illuminate the creative journeys of an extraordinarily gifted Singaporean artist.
@@ -18,10 +18,10 @@ The collection is important for the light it sheds on Tan Swie Hian (b. 1943), t
 
 Witnessing the artworks of Tan provides at best a superficial appreciation of the artist; in order to understand his prodigious talents and make sense of the creative process behind many of his masterpieces, one should examine the Tan Swie Hian Collection that the artist has gifted to the National Library.
 
-<img src="/images/Vol-15-issue-3/exploring-an-artist-s-mind/Explore3.JPG">
+<img style="width: 350px; height: 400px;" src="/images/Vol-15-issue-3/exploring-an-artist-s-mind/Explore3.JPG">
 <div style="background-color: white;">Between 1969 and 1974, Tan Swie Hian was one of the editors of Chao Foon (蕉风), an important Chinese literary magazine in Malaya and first published in 1955. <i>Image reproduced from 蕉风月刊. (1971). (Call no.: RDTSH C810.05 CFM). Tan Swie Hian Collection, National Library, Singapore.</i></div>
 <br>
-<img src="/images/Vol-15-issue-3/exploring-an-artist-s-mind/Explore4.JPG">
+<img style="width: 550px; height: 350px;" src="/images/Vol-15-issue-3/exploring-an-artist-s-mind/Explore4.JPG">
 <div style="background-color: white;">The Tan Swie Hian Collection is housed at level 10 of the National Library building. Users can request to view the materials from the information counter located at level 11.</div>
 
 #### **Inspirations and Influences**
@@ -40,14 +40,14 @@ These landmark literary and artistic works have guided Tan’s creative thought 
 
 The Tan Swie Hian Collection is not just a physical manifestation of Tan’s literary and artistic journeys, but it also highlights milestones of his remarkable career. The magazines, periodicals and journals that Tan edited, including *Pattra* (贝叶), one of the earliest magazines that he worked on during his undergraduate days at Nanyang University, are part of the collection.
 
-<img src="/images/Vol-15-issue-3/exploring-an-artist-s-mind/Explore5.JPG">
+<img style="width: 300px; height: 400px;" src="/images/Vol-15-issue-3/exploring-an-artist-s-mind/Explore5.JPG">
 <div style="background-color: white;">Portrait of Tan Swie Hian. <i>Collection of Tan Swie Hian.</i></div>
 
 Tan, who had an early start in writing poems, published his first poetry collection, *The Giant* (巨人), in 1968 when he graduated from university. Between 1969 and 1974, he was one of the editors of *Chao Foon*[^4] (蕉风), an important Chinese literary magazine in Malaya first published in 1955.[^5] These publications in the collection, including his art catalogues, are a testament to his illustrious artistic career – showcasing the evolution from literary to multidisciplinary art, from one medium to many.
 
 Unique to the collection are 41 notebooks that Tan used to pen his inspirations and private musings. According to Tan, these precious journals are a “constant companion in [his] life”; Tan kept a number of them in both his studio and home for “capturing visions, jotting down ideas and concepts, doing sketches and drawings, writing essays, poems and short lines, copying quotable quotes and paragraphs to memorise, [and for] recording cultural encounters, discoveries and other endeavours”.[^6] The highly personalised, and often introspective, contents of the notebooks provide the reader with important insights into the artist’s psyche and his thought processes.[^7]
 
-<img src="/images/Vol-15-issue-3/exploring-an-artist-s-mind/Explore6.JPG">
+<img style="width: 350px; height: 400px;" src="/images/Vol-15-issue-3/exploring-an-artist-s-mind/Explore6.JPG">
 <div style="background-color: white;">Published in 1968, The Giant is the first poetry collection by Tan Swie Hian. <i>Image reproduced from 牧羚奴. (1968). 巨人. 新加坡: 五月出版社. (Call no.: RDTSH C811.5 MLN). Tan Swie Hian Collection, National Library, Singapore.</i></div>
 
 Among the noteworthy items on display in the Tan Swie Hian Collection are local and international medals and certificates that Tan has received for his artistic and literary achievements. These include the Cultural Medallion (1987) and the Meritorious Service Medal (2003) bestowed by the Singapore government, and international honours that Tan has won, such as the Romanian Marin Sorescu International Poetry Award (1999), the World Economic Forum Crystal Award (2003) and the Officier de l’Ordre National de la Légion d’Honneur[^8] (Officer in the National Order of the Legion of Honour) in 2006.
@@ -64,7 +64,7 @@ Tan’s affinity with the library, however, goes back much further. As a student
 
 As his personal collection comprises mainly books and publications, the decision to donate these items to the National Library made perfect sense.[^11] It was also Tan’s way of giving back to society, to provide a platform where he can share his knowledge and experience with young Singaporeans and help nurture a new generation of homegrown talent.[^12]
 
-<img src="/images/Vol-15-issue-3/exploring-an-artist-s-mind/Explore7.JPG">
+<img style="width: 250px; height: 350px;" src="/images/Vol-15-issue-3/exploring-an-artist-s-mind/Explore7.JPG">
 <div style="background-color: white;">The Tan Swie Hian Collection includes autographed books that Tan received as gifts, one of which is <i>Let’s Talk about the Weather… and Other Poems</i> by the Romanian poet, playwright and novelist Marin Sorescu. <i>Image reproduced from Sorescu, M. (1985). Let’s Talk about the Weather… and other Poems. London; Boston: Forest Books. (Call no.: RDTSH 859.134 SOR). Tan Swie Hian Collection, National Library, Singapore.</i></div>
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
