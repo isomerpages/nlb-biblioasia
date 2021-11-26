@@ -26,7 +26,7 @@ According to the legend of Navaratri, Mahishasura waged war in heaven, imprisone
 
 At midnight, on the 10th and final day of the ferocious battle, Durga finally managed to pierce her trident into the buffalo demon’s chest and behead him. However, the gods and goddesses, whose powers were completely spent after aiding Durga, were turned into statues. Devotees honour and remember the selfless acts of these gods and goddesses, which are symbolised by the dolls displayed during Golu. Navaratri ultimately commemorates the victory of Durga over Mahishasura – the triumph of good over evil.[^7]
 
-<img style="width: 650px; height: 400px;" src="/images/Vol-15-issue-3/navaratri-golu/Navaratri2.JPG">
+<img style="width: 700px; height: 430px;" src="/images/Vol-15-issue-3/navaratri-golu/Navaratri2.JPG">
 <div style="background-color: white;">A Golu display at the author’s home in 2006. The topmost two steps feature dolls representing Hindu deities. The kalasam(silver or brass pot) is placed on the second tier. Behind the kalasam is the pair of marapachi dolls. On the right-hand corner of the third step is a village scene in India. On the second step from the bottom is a pair of grandfather and grandmother dolls in the traditional Thanjavur bobble-head style. In front of them are traditional cookery toys made of wood. <i>Courtesy of Anasuya Soundararajan.</i></div>
 
 #### **Celebrating Golu**
