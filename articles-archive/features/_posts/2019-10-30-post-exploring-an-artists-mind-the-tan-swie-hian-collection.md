@@ -93,4 +93,4 @@ In a video interview, Tan Swie Hian tells us how he gathered an impressive colle
 [^9]:Chave, A.C. (1993). [*Constantin Brancusi: Shifting the base of art*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=6631343) (p. 4). New Haven: Yale University Press. (Call no.: RART q730.92 CHA).
 [^10]:[走进艺术巨匠的精神空间](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb20050811-1.2.35.1.1). (2005, November 8). 《*联合早报*》 [*Lianhe Zaobao*], p. 21. Retrieved from NewspaperSG.
 [^11]:“Up Close and Personal with Tan Swie Hian”, 13 June 2019 (video interview).
-[^12]:黄佩玲 [Huang, P.L.]. (2003, October 2). [6000多本书籍和艺术品 陈瑞献珍藏捐图书馆](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb20031002-1.2.12.1). 《联合早报》 [Lianhe Zaobao], p. 6. Retrieved from NewspaperSG.
+[^12]:黄佩玲 [Huang, P.L.]. (2003, October 2). [6000多本书籍和艺术品 陈瑞献珍藏捐图书馆](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb20031002-1.2.12.1). 《*联合早报*》 [*Lianhe Zaobao*], p. 6. Retrieved from NewspaperSG.
