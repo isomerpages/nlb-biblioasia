@@ -26,23 +26,23 @@ Today, Thian Hock Keng remains the most important temple of Singapore’s Hokkie
 
 Thomson’s painting titled “Muslim Mosque in Campong Glam” (1846) is of special historical interest as it depicts the Masjid Sultan (Sultan Mosque) in Kampong Glam before it was replaced with the present structure we are familiar with. The earlier iteration of Sultan Mosque was a single-storey brick building that featured a tiered pyramidal roof commonly found in traditional Southeast Asian religious architecture.
 
-<img style="width: 600px; height: 400px;" src="/images/Vol-15-issue-3/on-paper-singapore-before-1867/OnPaper3.JPG">
-<div style="background-color: white;">“Singapore Town from the Government Hill Looking Southeast”. John Turnbull Thomson, 1846. Watercolour on paper, 61 x 81.3 x 0.6 cm. <i>Hocken Collections, Uare Taoka O Hākena, University of Otago, New Zealand. Hocken Collections, 92/1217.</i></div>
-
 It was built between 1824 and 1826 by Sultan Husain, whom Stamford Raffles had installed as the Sultan of Johor in order for the 1819 Treaty of Friendship and Alliance to be signed (the treaty allowed the British East India Company, or EIC, to set up a trading post on Singapore). Land for the mosque was allocated by Raffles, who also contributed 3,000 Spanish dollars on behalf of the EIC towards its construction.
 
 This building served the Muslim community in Singapore for more than a hundred years before it was torn down in 1932 to make way for a new mosque, designed by the architectural firm Swan and Maclaren in the Indo-Saracenic style, complete with onion domes and minarets. Masjid Sultan is a well-known landmark in Kampong Glam today.
 
 Another of Thomson’s paintings, “Hindoo Pagoda and (Chulia) Mosque” (1846), depicts two religious buildings along South Bridge Road. On the left is Sri Mariamman Temple, the oldest Hindu temple in Singapore. The structure shown in the painting, with its three-tiered *gopuram* (pyramidal entrance tower), was constructed in 1844 – by craftsmen and former Indian convicts from Madras – replacing a wood-and-attap structure built in 1827 by the Tamil pioneer Naraina Pillai.
 
+<img style="width: 600px; height: 400px;" src="/images/Vol-15-issue-3/on-paper-singapore-before-1867/OnPaper4.JPG">
+<div style="background-color: white;">“Hindoo Pagoda and (Chulia) Mosque, Singapore”. John Turnbull Thomson, 1846. Watercolour on paper, 15.4 x 22.8 cm. On the left is the three-tiered gopuram (pyramidal entrance tower) of the original Sri Mariamman Temple. It was replaced in 1925 with the temple’s present five-tiered tower. Next to it is Masjid Jamae (Chulia), built in 1835 by the Tamil Muslim community. Both buildings are found on South Bridge Road. <i>Hocken Collections, Uare Taoka O Hākena, University of Otago, New Zealand. Hocken Collections, 92/1158.</i></div>
+
 From its inception, the Sri Mariamman Temple has played a key role in Singapore’s Hindu community, serving not only as a place of worship, but also as a refuge for newly arrived immigrants from India seeking accommodation and employment. While the temple compound has remained largely unchanged since the 1880s, the tower was replaced in 1925 with the elaborately decorated five-tiered structure that stands today.
 
 On the right of the painting is Jamae Mosque (Masjid Jamae), which was completed in 1833 to replace the original wood-and-attap mosque built by the Chulia (Tamil Muslim) community, led by Anser Saib, in the late 1820s. Today, the mosque’s distinctive twin minarets continue to be a landmark on South Bridge Road, but the lush greenery surrounding the temple and its spacious frontage seen in Thomson’s painting have given way to shophouses and a busy vehicular thoroughfare.
 
-<img style="width: 600px; height: 400px;" src="/images/Vol-15-issue-3/on-paper-singapore-before-1867/OnPaper4.JPG">
-<div style="background-color: white;">“Hindoo Pagoda and (Chulia) Mosque, Singapore”. John Turnbull Thomson, 1846. Watercolour on paper, 15.4 x 22.8 cm. On the left is the three-tiered gopuram (pyramidal entrance tower) of the original Sri Mariamman Temple. It was replaced in 1925 with the temple’s present five-tiered tower. Next to it is Masjid Jamae (Chulia), built in 1835 by the Tamil Muslim community. Both buildings are found on South Bridge Road. <i>Hocken Collections, Uare Taoka O Hākena, University of Otago, New Zealand. Hocken Collections, 92/1158.</i></div>
-
 Thomson’s works also include sweeping views of Singapore from various vantage points. In his 1846 painting, titled “Singapore Town from the Government Hill Looking Southeast”, the viewer is positioned on what is now Fort Canning Hill, overlooking the Singapore River. Densely built shophouses and godowns can be seen along the river at Boat Quay, while a number of expansive bungalows, occupied mostly by Europeans, are found by the seafront north of the river.
+
+<img style="width: 600px; height: 400px;" src="/images/Vol-15-issue-3/on-paper-singapore-before-1867/OnPaper3.JPG">
+<div style="background-color: white;">“Singapore Town from the Government Hill Looking Southeast”. John Turnbull Thomson, 1846. Watercolour on paper, 61 x 81.3 x 0.6 cm. <i>Hocken Collections, Uare Taoka O Hākena, University of Otago, New Zealand. Hocken Collections, 92/1217.</i></div>
 
 In his first book, *Some Glimpses into Life in the Far East*, published in 1864, Thomson remarked on the stark contrast between the two areas:
 
@@ -50,7 +50,7 @@ In his first book, *Some Glimpses into Life in the Far East*, published in 1864,
 
 Taken together, Thomson’s sketches and paintings serve as an invaluable visual record of 19th-century Singapore. As a surveyor and engineer by training, Thomson was able to bring both a critical eye and a different perspective to his art.
 
-<div style="text-align: center">– Georgina Wong</div>
+– Georgina Wong
 
 #### **Syair Dagang Berjual Beli and Syair Potong Gaji**
 
@@ -89,15 +89,14 @@ The handwritten Jawi texts of the two *syair* were discovered alongside another,
 Today, these texts are part of Singapore’s history and literary heritage. They provide insights into the early days of modern Singapore, and thus deserve greater recognition and appreciation.
 
 <img style="width: 600px; height: 400px;" src="/images/Vol-15-issue-3/on-paper-singapore-before-1867/OnPaper5.JPG">
-<div style="background-color: white;">The opening page of Syair Dagang Berjual Beli (left) and Syair Potong Gaji (right). Tuan Simi, Singapore, 1830s, 22.5 x 17.5 cm. <i>Bibliothèque Nationale de France, Malayo–polynésien 96.</i></div>
+<div style="background-color: white;">The opening page of <i>Syair Dagang Berjual Beli</i> (left) and <i>Syair Potong Gaji</i> (right). Tuan Simi, Singapore, 1830s, 22.5 x 17.5 cm. <i>Bibliothèque Nationale de France, Malayo–polynésien 96.</i></div>
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
-	<b>The Form of the Syair</b><br><br>
+	<b>THE FORM OF THE SYAIR</b><br><br>
 	A <i>syair</i> is a narrative poem made up of quatrains, each with an end rhyme. Every line contains about 10 to 12 syllables. Although the origin of this poetic form is still debated today, it is generally attributed to Hamzah Fansuri, a 16th-century Sufi from Sumatra. While it may have been used initially for religious purposes, by the 18th century the <i>syair</i> had become a vehicle for topics as diverse as romantic stories, historical events, advice and so on.[^5]
 </span>
 
-<div style="text-align: center">– Dr Azhar Ibrahim
-</div>
+– Dr Azhar Ibrahim
 
 #### **Map of Asia, Used by A.R. Falck in London in 1824**
 
@@ -125,7 +124,7 @@ The second observation concerns the course of the pencil line. This starts off a
 
 Therefore, according to this initial proposal captured by Falck’s pencil line, Batam, Bulan (together with the islands south thereof) as well as Bintan were originally slated to fall into the British sphere. That would have included the court of the Bugis Yang di-Pertuan Muda, Raja Ja’afar, but not Sultan Abdul Rahman’s court at Daik on Lingga. The termination of the line off the coast of Borneo, moreover, would assume significance in the later decades of the 19th century, when Raja James Brooke established himself on the island that is today the Malaysian state of Sarawak.
 
-<div style="text-align: center">– Assoc Prof Peter Borschberg</div>
+– Assoc Prof Peter Borschberg
 
 #### **A Russian Traveller’s Tale of Singapore**
 
@@ -160,10 +159,10 @@ Russia actively sought to protect its shipping routes and extend its influence i
 
 However, there still remains a paucity of information on relations between Singapore and Russia until a Russian consulate was formally established in Singapore in 1890 and began submitting regular consular reports on bilateral affairs. Given the dearth of literature, the writings of Vysheslavtsev and Goncharov are valuable for their historical research on the interactions between Tsarist Russia and British-controlled Singapore in the *longue durée* of Russia-Singapore relations.[^14]
 
-<div style="text-align: center">– Gracie Lee</div>
+– Gracie Lee
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
-	<b>About the Exhibition and Book</b>
+	<b>ABOUT THE EXHIBITION AND BOOK</b>
 	<br><br>
 	<img style="width: 320px; height: 250px;" src="/images/Vol-15-issue-3/on-paper-singapore-before-1867/OnPaper11.JPG">
 	<br>
