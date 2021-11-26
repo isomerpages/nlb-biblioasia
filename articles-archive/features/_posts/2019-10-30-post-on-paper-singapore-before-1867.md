@@ -174,7 +174,7 @@ A series of programmes has been organised in conjunction with the exhibition, in
 <br><br>
 	The accompanying book, also called <i>On Paper: Singapore Before 1867</i>, features a small selection of the items being shown at the exhibition, illuminated by essays written by librarians, archivists and scholars.
 <br><br>
-The book is not for sale but is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (Call nos.: RSING 959.9703 ON and SING 959.9703 ON).
+The book is not for sale but is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries ([Call nos.: RSING 959.9703 ON and SING 959.9703 ON](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=204055378)).
 </span>
 
 <div style="background-color: white;">
