@@ -95,17 +95,8 @@ Another significant title is <i>Travels in the East Indian Archipelago</i> (1868
 [^2]:Horsfield, T. (1824). [*Zoological researches in Java, and the neighbouring islands*](http://eresources.nlb.gov.sg/printheritage/detail/c82861cf-b4ab-4441-876c-62eda77ac466.aspx). London: Kingsbury & Allen. Retrieved from BookSG.
 [^3]:Motley, J. (1855). [*Contributions to the natural history of Labuan, and the adjacent coasts of Borneo*](http://eresources.nlb.gov.sg/printheritage/detail/592f4438-6dc2-4633-a469-2a68ab92ee24.aspx). London: John van Voorst. Retrieved from BookSG.
 [^4]:Bucknill, J.A.S. (1927). [*The birds of Singapore island*](http://eresources.nlb.gov.sg/printheritage/detail/a2e7a926-d7b5-46f3-b02b-c1e95af98da2.aspx). Singapore: Government Printing Office. Retrieved from BookSG.
-[^5]:Butler, A.G. (1879). The butterflies of Malacca. London: The Society. Retrieved from BookSG.
-[^6]:
-[^7]:
-[^8]:
-[^9]:
-
-
-
-
-
-Annual report of the meteorological observations in the Straits Settlements for the year 1890. (1891). Singapore: Government Printing Office. This publication is found in the collection of the Singapore Botanic Gardens.
-Skinner, A.M. (1884). A geography of the Malay Peninsula and surrounding countries in three parts. Part 1. Malay Peninsula, Borneo. Singapore: [s.n.]. Retrieved from BookSG.
-Wilkinson, R.J. (1910). The aboriginal tribes. Kuala Lumpur: F.M.S. Government Press. Retrieved from BookSG.
-Bickmore, A.S. (1868). Travels in the East Indian Archipelago. London: J. Murray. Retrieved from BookSG.
+[^5]:Butler, A.G. (1879). [*The butterflies of Malacca*](http://eresources.nlb.gov.sg/printheritage/detail/f708dd35-6f89-43a3-b1b2-3bb7e8a74fc4.aspx). London: The Society. Retrieved from BookSG.
+[^6]:*Annual report of the meteorological observations in the Straits Settlements for the year 1890.* (1891). Singapore: Government Printing Office. This publication is found in the collection of the Singapore Botanic Gardens.
+[^7]:Skinner, A.M. (1884). [*A geography of the Malay Peninsula and surrounding countries in three parts. Part 1. Malay Peninsula, Borneo.*](http://eresources.nlb.gov.sg/printheritage/detail/b49a2b64-8851-4b0e-85a6-4e78a05654a7.aspx) Singapore: [s.n.]. Retrieved from BookSG.
+[^8]:Wilkinson, R.J. (1910). [The aboriginal tribes](http://eresources.nlb.gov.sg/printheritage/detail/7522cff6-2073-461e-8ec7-85f597f6dc93.aspx). Kuala Lumpur: F.M.S. Government Press. Retrieved from BookSG.
+[^9]:Bickmore, A.S. (1868). Travels in the East Indian Archipelago. London: J. Murray. Retrieved from BookSG.
