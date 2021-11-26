@@ -99,8 +99,8 @@ The works of Raffles, Low and St John, however, pose a far greater challenge. In
 #### **NOTES**
 [^1]:Bartlett, R. (1993). [*The making of Europe: Conquest, colonization and cultural change, 950–1350*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6559035) (p. 96). Princeton, NJ: Princeton University Press. (Call no.: 940.1 BAR).
 [^2]:Snodgrass, J.J. (1827). *Narrative of the Burmese war […]* (p. 6). London: J. Murray. (Microfilm no.: NL5084).
-[^3]:
-[^4]:
+[^3]:Snodgrass, 1827, p. 31.
+[^4]:Keppel, H. (1846). *The expedition to Borneo of HMS Dido for the suppression of piracy […]*([vol. I](http://eresources.nlb.gov.sg/printheritage/detail/e4e3a68f-f594-46a4-8452-6ccca066fc20.aspx?s=the%20expedition%20to%20borneo%20of) and [vol. II](http://eresources.nlb.gov.sg/printheritage/detail/ceb5ab1e-7701-4713-8334-8c45536d8a36.aspx?s=the%20expedition%20to%20borneo%20of); 2nd ed.). London: Chapman and Hall. Retrieved from BookSG.
 [^5]:
 [^6]:
 [^7]:
@@ -110,8 +110,8 @@ The works of Raffles, Low and St John, however, pose a far greater challenge. In
 [^11]:
 
 
-Snodgrass, 1827, p. 31.
-Keppel, H. (1846). The expedition to Borneo of HMS Dido for the suppression of piracy […] (vol. I and vol. II; 2nd ed.). London: Chapman and Hall. Retrieved from BookSG.
+
+
 Brooke, J., & Mundy, G.R. (1848). Narrative of events in Borneo and Celebes, down to the occupation of Labuan […] (Vol. II; 2nd ed.). London: John Murray. (Microfilm no.: NL7435)
 Marryat, F.S. (1848). Borneo and the Indian Archipelago: With drawings of costume and scenery. London: Longman, Brown, Green, and Longmans. Retrieved from BookSG.
 Keppel, 1846, vol. II, pp. 67, 69.
