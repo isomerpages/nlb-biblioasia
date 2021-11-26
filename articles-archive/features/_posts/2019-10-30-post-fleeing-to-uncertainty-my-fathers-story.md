@@ -18,7 +18,7 @@ layout: post
 
 *Having settled down to life in Perak, my grandfather did not imagine even for a moment – like so many others who blindly believed in the invincibility of the British – that they would have to flee for their lives one day. When the Japanese invaded Malaya during World War II, my grandfather lost everything that he had worked so hard for.*
 
-<img style="width: 280px; height: 390px;" src="/images/Vol-15-issue-3/fleeing-to-uncertainty/Fleeing4.JPG">
+<img style="width: 260px; height: 390px;" src="/images/Vol-15-issue-3/fleeing-to-uncertainty/Fleeing4.JPG">
 <div style="background-color: white;">K. Ramakanthan when he was a teacher in Singapore, c. 1950. <i>Courtesy of Aishwariyaa Ramakanthan.</i></div>
 
 *This is my father’s story.*
