@@ -46,7 +46,7 @@ Thomson’s works also include sweeping views of Singapore from various vantage 
 
 In his first book, *Some Glimpses into Life in the Far East*, published in 1864, Thomson remarked on the stark contrast between the two areas:
 
-“The European part of the town was studded with handsome mansions and villas of the merchants and officials. The Chinese part of the town was compactly built upon, and resounded with busy traffic. In the Chinese quarter fires frequently broke out, spreading devastation into hundreds of families.”1
+“The European part of the town was studded with handsome mansions and villas of the merchants and officials. The Chinese part of the town was compactly built upon, and resounded with busy traffic. In the Chinese quarter fires frequently broke out, spreading devastation into hundreds of families.”[^1]
 
 Taken together, Thomson’s sketches and paintings serve as an invaluable visual record of 19th-century Singapore. As a surveyor and engineer by training, Thomson was able to bring both a critical eye and a different perspective to his art.
 
@@ -63,19 +63,19 @@ These two *syair* occupy a special place in the Malay literary tradition, bearin
 “*Akan halnya kita Bugis dan Melayu<br>
 Harapkan orang putih juga selalu<br>
 Hukum bicaranya kelihatan terlalu<br>
-	Mulut disuap pantat disumbu*”2
+	Mulut disuap pantat disumbu*”[^2]
 
 “Such is the state of us Bugis and Malays<br>
 When to the white man we surrender our fates<br>
 Of the rulings – it’s true what they say<br>
-The hand that gives is that which confiscates”3
+The hand that gives is that which confiscates”[^3]
 
 The second work, *Syair Potong Gaji*, comprising 38 stanzas, narrates the misery and frustrations of coolies from Bencoolen (Bengkulu) who worked for the EIC in Singapore. Tuan Simi notes that the coolies suffered economic hardship because of senior managers who neglected their welfare. Profit maximisation had become the EIC’s mantra, to the extent that the work of three men often had to be carried out by one man alone:
 
 “*Perasaan hati sangatlah rendah<br>
 Kebajikan dibuat tidak berfaedah<br>
 Beberapa lamanya bekerja sudah<br>
-Harganya dinilai setimbang ludah*”4
+Harganya dinilai setimbang ludah*”[^4]
 
 “We feel very much undignified<br>
 Our services rendered unrecognized<br>
@@ -93,7 +93,7 @@ Today, these texts are part of Singapore’s history and literary heritage. They
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
 	<b>The Form of the Syair</b><br><br>
-	A <i>syair</i> is a narrative poem made up of quatrains, each with an end rhyme. Every line contains about 10 to 12 syllables. Although the origin of this poetic form is still debated today, it is generally attributed to Hamzah Fansuri, a 16th-century Sufi from Sumatra. While it may have been used initially for religious purposes, by the 18th century the <i>syair</i> had become a vehicle for topics as diverse as romantic stories, historical events, advice and so on.5
+	A <i>syair</i> is a narrative poem made up of quatrains, each with an end rhyme. Every line contains about 10 to 12 syllables. Although the origin of this poetic form is still debated today, it is generally attributed to Hamzah Fansuri, a 16th-century Sufi from Sumatra. While it may have been used initially for religious purposes, by the 18th century the <i>syair</i> had become a vehicle for topics as diverse as romantic stories, historical events, advice and so on.[^5]
 </span>
 
 <div style="text-align: center">– Dr Azhar Ibrahim
@@ -106,7 +106,7 @@ Printed by John Carey in London in the early 19th century, this map of Asia was 
 <img src="/images/Vol-15-issue-3/on-paper-singapore-before-1867/OnPaper6.JPG">
 <div style="background-color: white;">Detail from Map of Asia used by A.R Falck in London in 1824, early 19th century, John Carey, London. The faint pencil line – which begins at the northwestern coast of Sumatra and goes around the northern tip of the island, before extending down the Straits of Melaka and turning eastward between Bintan and Lingga towards Borneo – divides the region into British and Dutch spheres of influence. <i>Nationaal Archief, 4.AANW, 1455.</i></div>
 
-A pencil line can be seen running through the Singapore and Melaka straits on the map. This was drawn to illustrate a proposal made by Falck, the Dutch chief negotiator and diplomat. Falck proposed using the line to divide the region into British and Dutch spheres of influence. The story of how this pencil line came about was recounted by Otto Willem Hora Siccama, a relative of Falck’s, who had accompanied the elderly Falck to London as an aide and personal assistant during these negotiations.6
+A pencil line can be seen running through the Singapore and Melaka straits on the map. This was drawn to illustrate a proposal made by Falck, the Dutch chief negotiator and diplomat. Falck proposed using the line to divide the region into British and Dutch spheres of influence. The story of how this pencil line came about was recounted by Otto Willem Hora Siccama, a relative of Falck’s, who had accompanied the elderly Falck to London as an aide and personal assistant during these negotiations.[^6]
 
 From Falck’s memoirs, as well as Dutch foreign ministry papers relating to the negotiations, it transpires that the scheme to carve up the Southeast Asian region – into a Dutch sphere of influence in the archipelago, and a British one on the Malay Peninsula and the mainland – came from Falck, who had earlier discussed the proposal with the Dutch king, William I. An experienced negotiator and diplomat, Falck hoped to resolve a package of outstanding trade and colonial issues with British Foreign Secretary Lord George Canning by streamlining their patchwork of possessions in Southeast Asia.
 
@@ -131,7 +131,7 @@ Therefore, according to this initial proposal captured by Falck’s pencil line,
 
 Travel literature on Singapore proliferated during the 19th century in tandem with the spread of colonialism and the expansion of trade and missionary activities in the East. As Singapore was a natural transit point along the East-West route, it was a popular port-of-call for many travellers. From diplomatic and scientific expeditionary parties to sightseers lured to the Far East by the opening of the Suez Canal, visitors recorded their impressions of the island in writing, and sometimes through illustrations.
 
-Although these travelogues were naturally coloured by the subjective views and values of their authors, they offer a wealth of information on early Singapore.7
+Although these travelogues were naturally coloured by the subjective views and values of their authors, they offer a wealth of information on early Singapore.[^7]
 
 A 19th-century memoir, *Ocherki Perom i Karandashom iz Krugosvetnogo Plavaniya v 1857, 1858, 1859 i 1860 godakh* (Sketches in Pen and Pencil from a Trip Around the World in the Years 1857, 1858, 1859 and 1860), describes the voyage of the Russian naval clipper Plastun from 1857 to 1860. It stands out among European travel narratives on Singapore as it presents a rare account of early Russia-Singapore relations. Written and illustrated by the doctor on board, Aleksei Vysheslavtsev (1831–88), the memoir also contains some of the earliest views of Singapore executed by a Russian artist.
 
@@ -141,24 +141,24 @@ A 19th-century memoir, *Ocherki Perom i Karandashom iz Krugosvetnogo Plavaniya v
 <img style="width: 600px; height: 400px;" src="/images/Vol-15-issue-3/on-paper-singapore-before-1867/OnPaper9.JPG">
 <div style="background-color: white;">Indian Jugglers, Aleksei Vysheslavtsev, 1862. <i>National Library, Singapore, Accession no.: B34442628K.</i></div>
 
-The book traces the ship’s journey from the Russian port town of Kronstadt to the Atlantic islands, around the Cape of Good Hope, across the Indian Ocean, through the Sunda Strait to Singapore, and then on to Hong Kong, Canton, Formosa, Manchuria and the Russian Pacific Far East, where it inspected the territories that Russia had recently acquired with the signing of the Russian-Chinese Treaty of Aigun in 1858. From there, the ship sailed to Japan, where the Russians spent a year negotiating a treaty with the Japanese, before heading home. Unfortunately, the ship came to an untimely end when it was destroyed by an explosion on board. By a stroke of providence, the author lived to tell his tale as he had transferred to another vessel before disaster struck.8
+The book traces the ship’s journey from the Russian port town of Kronstadt to the Atlantic islands, around the Cape of Good Hope, across the Indian Ocean, through the Sunda Strait to Singapore, and then on to Hong Kong, Canton, Formosa, Manchuria and the Russian Pacific Far East, where it inspected the territories that Russia had recently acquired with the signing of the Russian-Chinese Treaty of Aigun in 1858. From there, the ship sailed to Japan, where the Russians spent a year negotiating a treaty with the Japanese, before heading home. Unfortunately, the ship came to an untimely end when it was destroyed by an explosion on board. By a stroke of providence, the author lived to tell his tale as he had transferred to another vessel before disaster struck.[^8]
 
 The *Plastun* arrived in Singapore in July 1858, where it anchored for a week. In a chapter titled “The Malay Sea”, the author writes a brief history of British colonisation of Singapore and a description of the settlement’s economy, trade and town layout, which was characterised by separate quarters for Europeans, Chinese, Indians and Malays.
 
-A keen observer, Vysheslavtsev detailed various aspects of life in Singapore: street peddlers, Chinese houseboats on the river, an Indian theatre performance, Indian jugglers, and the manners and appearance of the Chinese, Indian and Malay inhabitants. He took an excursion to some of Singapore’s offshore islands and paid a visit to Hoo Ah Kay (1816–80; commonly known as Whampoa), who later became the first Vice Consul to Russia in 1864. Vysheslavtsev’s account was accompanied by four illustrations: the Singapore harbour, Indian jugglers, Chinese inhabitants and two Chinese men beside a bridge.9
+A keen observer, Vysheslavtsev detailed various aspects of life in Singapore: street peddlers, Chinese houseboats on the river, an Indian theatre performance, Indian jugglers, and the manners and appearance of the Chinese, Indian and Malay inhabitants. He took an excursion to some of Singapore’s offshore islands and paid a visit to Hoo Ah Kay (1816–80; commonly known as Whampoa), who later became the first Vice Consul to Russia in 1864. Vysheslavtsev’s account was accompanied by four illustrations: the Singapore harbour, Indian jugglers, Chinese inhabitants and two Chinese men beside a bridge.[^9]
 
-Parts of Vysheslavtsev’s travel account first appeared in the magazine *Russky Vestnik* from 1858 to 1860 under the title “Letters from Clipper Plastun”. The complete work was published by the Russian Naval Ministry in 1862 with 27 lithographed plates redrawn from the author’s original sketches. In response to warm reviews by the Russian audience, who praised it for its fine drawings and literary style, a second edition was issued in 1867 by a major St Petersburg commercial publisher, Mauritius Wolf, with 23 illustrated plates.10
+Parts of Vysheslavtsev’s travel account first appeared in the magazine *Russky Vestnik* from 1858 to 1860 under the title “Letters from Clipper Plastun”. The complete work was published by the Russian Naval Ministry in 1862 with 27 lithographed plates redrawn from the author’s original sketches. In response to warm reviews by the Russian audience, who praised it for its fine drawings and literary style, a second edition was issued in 1867 by a major St Petersburg commercial publisher, Mauritius Wolf, with 23 illustrated plates.[^10]
 
-Although Vysheslavtsev’s travelogue achieved critical and popular acclaim in its time, it was invariably compared to and perhaps even overshadowed by Russian novelist Ivan Goncharov’s (1812–91) *The Voyage of the Frigate Pallada* (1858). Published four years earlier, Goncharov’s book traces a similar journey to the East – with the Russian mission to Japan under Admiral Putyatin (1803–83) from 1852 to 1854. It includes a vivid description of his visit to Singapore in 1853, which has been studied and translated into Chinese, and partially into English. In contrast, there are no known translations in any language of the Singapore portion of Vysheslavtsev’s account.11
+Although Vysheslavtsev’s travelogue achieved critical and popular acclaim in its time, it was invariably compared to and perhaps even overshadowed by Russian novelist Ivan Goncharov’s (1812–91) *The Voyage of the Frigate Pallada* (1858). Published four years earlier, Goncharov’s book traces a similar journey to the East – with the Russian mission to Japan under Admiral Putyatin (1803–83) from 1852 to 1854. It includes a vivid description of his visit to Singapore in 1853, which has been studied and translated into Chinese, and partially into English. In contrast, there are no known translations in any language of the Singapore portion of Vysheslavtsev’s account.[^11]
 
 By and large, Russia has occupied a marginal place in the scholarship on European expansion in Southeast Asia. However, this is by no means an indication of its lack of commercial ambitions or scientific interest.
 
-Russia actively sought to protect its shipping routes and extend its influence in the region from the early 19th century. From the 1850s, Russian vessels started using Singapore as a provisioning and coaling station. In the 1870s, the Russian anthropologist Nikolai Miklouho-Maclay embarked on a scientific expedition to study the Orang Asli in the Malay Peninsula and his findings were published in the *Journal of the Straits Branch of the Royal Asiatic Society in Singapore*.12 In 1881, K.A. Skalkovsky published an account of a Russian trade mission and survey of the Pacific, which included Singapore.13
+Russia actively sought to protect its shipping routes and extend its influence in the region from the early 19th century. From the 1850s, Russian vessels started using Singapore as a provisioning and coaling station. In the 1870s, the Russian anthropologist Nikolai Miklouho-Maclay embarked on a scientific expedition to study the Orang Asli in the Malay Peninsula and his findings were published in the *Journal of the Straits Branch of the Royal Asiatic Society in Singapore*.[^12] In 1881, K.A. Skalkovsky published an account of a Russian trade mission and survey of the Pacific, which included Singapore.[^13]
 
 <img style="width: 600px; height: 400px;" src="/images/Vol-15-issue-3/on-paper-singapore-before-1867/OnPaper10.JPG">
 <div style="background-color: white;">Two Chinese Men on a Bridge, Aleksei Vysheslavtsev, 1862. <i>National Library, Singapore, Accession no.: B34442628K.</i></div>
 
-However, there still remains a paucity of information on relations between Singapore and Russia until a Russian consulate was formally established in Singapore in 1890 and began submitting regular consular reports on bilateral affairs. Given the dearth of literature, the writings of Vysheslavtsev and Goncharov are valuable for their historical research on the interactions between Tsarist Russia and British-controlled Singapore in the *longue durée* of Russia-Singapore relations.14
+However, there still remains a paucity of information on relations between Singapore and Russia until a Russian consulate was formally established in Singapore in 1890 and began submitting regular consular reports on bilateral affairs. Given the dearth of literature, the writings of Vysheslavtsev and Goncharov are valuable for their historical research on the interactions between Tsarist Russia and British-controlled Singapore in the *longue durée* of Russia-Singapore relations.[^14]
 
 <div style="text-align: center">– Gracie Lee</div>
 
