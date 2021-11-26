@@ -150,23 +150,23 @@ Interview was conducted by Mark Wong, Senior Oral History Specialist at the Oral
 
 #### **NOTES**
 
-[^1]:Colony’s history to be preserved: Government will appoint an archivist. (1938, April 17). The Straits Times, p. 10. Retrieved from NewspaperSG.
+[^1]:[Colony’s history to be preserved: Government will appoint an archivist](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19380417-1.2.93). (1938, April 17). *The Straits Times*, p. 10. Retrieved from NewspaperSG.
 
-[^2]:Raffles Museum and Library. (1940). Annual report for the Raffles Museum and Library for the year 1939 (p. 7). Singapore: GPO. (Microfilm no.: NL5723). 
+[^2]:Raffles Museum and Library. (1940). *Annual report for the Raffles Museum and Library for the year 1939* (p. 7). Singapore: GPO. (Microfilm no.: NL5723). 
 
-[^3]:Old colonial documents comprehensively indexed. (1940, June 14).The Singapore Free Press and Mercantile Advertiser, p. 2. Retrieved from NewspaperSG.
+[^3]:[Old colonial documents comprehensively indexed](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19400614-1.2.22). (1940, June 14). *The Singapore Free Press and Mercantile Advertiser*, p. 2. Retrieved from NewspaperSG.
 
-[^4]:Tan, S.C. (1945, October 31). Report entitled ‘The Archives at Raffles Museum’, forwarded by Lt-Col Archey to Headquarters of the British Military Administration [File reference MSA1141/259], Retrieved from National Archives of Singapore.
+[^4]:Tan, S.C. (1945, October 31). *[Report entitled ‘The Archives at Raffles Museum’, forwarded by Lt-Col Archey to Headquarters of the British Military Administration](http://www.nas.gov.sg/archivesonline/government_records/record-details/8e128ba7-1159-11e3-83d5-0050568939ad)* [File reference MSA1141/259], Retrieved from National Archives of Singapore.
 
-[^5]:Corner, E.J.H. (1981). The marquis: A tale of Syonan-to (pp. 60, 137). Singapore: Heinemann Asia. (Call no.: RSING 959.57023 COR-[HIS])
+[^5]:Corner, E.J.H. (1981). *[The marquis: A tale of Syonan-to](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4080105)* (pp. 60, 137). Singapore: Heinemann Asia. (Call no.: RSING 959.57023 COR-[HIS])
 
-[^6]:While Michael Tweedie initially wanted to send Tan Soo Chye to London to study archives administration at the University College London, the realities of budgetary considerations ultimately meant Tan’s professional development would have to be pursued locally. See correspondence between Tweedie and the Colonial Secretary: Tweedie, M. W. F. Tweedie. (1948, May 31). Letter to Colonial Secretary [File Reference: MSA1155/399]. Retrieved from National Archives of Singapore.
+[^6]:While Michael Tweedie initially wanted to send Tan Soo Chye to London to study archives administration at the University College London, the realities of budgetary considerations ultimately meant Tan’s professional development would have to be pursued locally. See correspondence between Tweedie and the Colonial Secretary: Tweedie, M. W. F. Tweedie. (1948, May 31). *[Letter to Colonial Secretary](http://www.nas.gov.sg/archivesonline/government_records/record-details/8e321cca-1159-11e3-83d5-0050568939ad)* [File Reference: MSA1155/399]. Retrieved from National Archives of Singapore.
 
-[^7]:University arts exam results. (1951, July 7). The Straits Times, p. 4. Retrieved from NewspaperSG. 
+[^7]:[University arts exam results](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19510707-1.2.61). (1951, July 7). *The Straits Times*, p. 4. Retrieved from NewspaperSG. 
 
-[^8]:Tan Soo Chye’s career progression can be tracked through mentions in the following: Raffles Museum and Library. (1954). Annual report for the Raffles Museum and Library for the year 1953 (p. 1). Singapore: GPO. (Microfilm no.: NL5723); Mr. Tan takes top customs post. (1960, November 4). The Straits Times, p. 9. Retrieved from NewspaperSG.; National Archives and Records Centre. (1976). Annual report of the National Archives and Records Centre 1975 (p. 4). Singapore: GPO. (Microfilm no.: NL26798); National Archives and Records Centre. (1977). Annual report of the National Archives and Records Centre 1976 (p. 5). Singapore: GPO. (Microfilm no.: 26799). 
+[^8]:Tan Soo Chye’s career progression can be tracked through mentions in the following: Raffles Museum and Library. (1954). *Annual report for the Raffles Museum and Library for the year 1953* (p. 1). Singapore: GPO. (Microfilm no.: NL5723); [Mr. Tan takes top customs post](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19601104-1.2.94). (1960, November 4). *The Straits Times*, p. 9. Retrieved from NewspaperSG.; National Archives and Records Centre. (1976). *Annual report of the National Archives and Records Centre 1975* (p. 4). Singapore: GPO. (Microfilm no.: NL26798); National Archives and Records Centre. (1977). *Annual report of the National Archives and Records Centre 1976* (p. 5). Singapore: GPO. (Microfilm no.: 26799). 
 
-[^9]:For example, see Lim, J. (Interviewer). (2000, May 19). Oral history interview with Ng Cheng Onn [Recording no. 002274/17/6]. Retrieved from National Archives of Singapore website.
+[^9]:For example, see Lim, J. (Interviewer). (2000, May 19). *[Oral history interview with Ng Cheng Onn](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/e10072a7-115e-11e3-83d5-0050568939ad)* [Recording no. 002274/17/6]. Retrieved from National Archives of Singapore website.
 
 [^10]:[Lumps are being eaten out of our history](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19530614-1.2.57). (1953, June 14). *The Straits Times*, p. 5. Retrieved from NewspaperSG.
 
