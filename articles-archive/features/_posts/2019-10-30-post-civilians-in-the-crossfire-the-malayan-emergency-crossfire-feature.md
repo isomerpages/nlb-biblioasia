@@ -61,7 +61,14 @@ One particular incident stands out. Collective punishment was meted out to some 
 
 Since the villagers were not forthcoming with information about the perpetrators, General Gerald Templer, who was then General Officer Commanding and Britain’s High Commissioner to Malaya, stripped the town of its status as a district capital and imposed a 22-hour curfew every day for a week. Shops were permitted to open only two hours a day, people were banned from leaving town, schools were closed, bus services were ceased and rice rations were reduced.
 
+<img style="width: 350px; height: 450px;" src="/images/Vol-15-issue-3/civilians-in-the-crossfire/Civilians5.JPG">
+<div style="background-color: white;">General Gerald Templer, General Officer Commanding and the British High Commissioner in Malaya from 1952 to 1954. <i>Image reproduced from Cloake, J. (1985). Templer: Tiger of Malaya: The Life of Field Marshall Sir Gerald Templer (n.p.). London: Harrap Ltd. (Call no.:RSING 355.3310942 TEM.C).</i></div>
+
 To provide a secure way for villagers to supply information, the authorities handed out questionnaires to the head of each household. The completed forms were then brought to Kuala Lumpur in sealed boxes and reviewed by Templer himself in the presence of the town’s representatives. The exercise resulted in the ambush and killing of the communist guerrilla leader in Tanjung Malim, the detention of 30 Chinese shopkeepers and several arrests. Only then were curfew and restrictions lifted in the town.
+
+<img style="width: 600px; height: 440px;" src="/images/Vol-15-issue-3/civilians-in-the-crossfire/Civilians6.JPG">
+<div style="background-color: white;">General Gerald Templer is seen here opening boxes containing completed questionnaires with information about communists, in the presence of representatives from Tanjung Malim, Perak, 6 April 1952. <i>Image reproduced from Cloake, J. (1985). Templer: Tiger of Malaya: The Life of Field Marshall Sir Gerald Templer (n.p.). London: Harrap Ltd. (Call no.: RSING 355.3310942 TEM.C). 
+</i></div>
 
 Even harsher punishments were exercised on at least six other occasions in different parts of Malaya:
 
@@ -101,6 +108,9 @@ Templer, apparently ignorant that his words were lost in translation, continued 
 
 By the time Templer left Malaya and returned to the United Kingdom in 1954, the authorities had already gained the upper hand in the fight against the communists. It was clear that the Briggs Plan had proven effective in cutting off supplies to the communists; it not only hurt them physically and militarily, but their morale was also severely affected. The dire lack of food caused some communist insurgents to surrender to the authorities, while dozens more perished in the jungles. Many guerrillas were killed while foraging for food near the New Villages. In one instance, two dead communists in their mid-30s were found with “three wild jungle yams and a green papaya – all inedible”.[^28] It was reported that some guerrillas even resorted to killing monkeys for meat in order to survive.
 
+<img style="width: 550px; height: 400px;" src="/images/Vol-15-issue-3/civilians-in-the-crossfire/Civilians8.JPG">
+<div style="background-color: white;">A communist insurgent being led out of the jungle with his hands tied behind his back. <i>Image reproduced from Barber, N. (1971). The War of the Running Dogs. London: Collins. (Call no.: RSING 959.5106 BAR).</i></div>
+
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
 	<b>HOW TO OUTSMART THE AUTHORITIES</b>
 	<br><br>
@@ -120,17 +130,14 @@ The communists’ efforts to grow their own vegetables in the jungle also proved
 
 Chin Peng, the MCP leader during the Malayan Emergency, admitted just as much in his memoir when he said that the Briggs Plan was the MCP’s Achilles heel.[^33] Recovered communist documents revealed that the “shortage of food in various places prevented us [the communists] from concentrating large numbers of troops and launching large-scale operations” and that “they must guard against quarrelling over the table and stealing each other’s food. People with huge appetites should be admonished and taught to develop self-restraint”.[^34]
 
-<img style="width: 550px; height: 400px;" src="/images/Vol-15-issue-3/civilians-in-the-crossfire/Civilians8.JPG">
-<div style="background-color: white;">A communist insurgent being led out of the jungle with his hands tied behind his back. <i>Image reproduced from Barber, N. (1971). The War of the Running Dogs. London: Collins. (Call no.: RSING 959.5106 BAR).</i></div>
+<img style="width: 600px; height: 400px;" src="/images/Vol-15-issue-3/civilians-in-the-crossfire/Civilians9.JPG">
+<div style="background-color: white;">The Federation Government announcing a reward of $250,000 for “bringing in alive” or giving information leading to the capture of Chin Peng, Secretary-General of the Malayan Communist Party, the man responsible for directing the armed communist revolt in Malaya. <i>The Straits Times, 1 May 1952, p. 1.</i></div>
 
 Even the restriction to beverages such as coffee affected some: a note written by a communist insurgent lamented that he had not drunk coffee for over two months, and when he finally had the good fortune to find some, there was not enough sugar to sweeten the treat.
 
-As for the civilians who suffered through it all, the psychological impact stayed with them long after the Emergency officially ended on 31 July 1960. They remained suspicious of strangers and had difficulty accepting help from outsiders. Even after the barbed wire surrounding the New Villages had been dismantled and outsiders started moving in, there were frequent altercations between former residents and the *newcomers*.[^35]
+As for the civilians who suffered through it all, the psychological impact stayed with them long after the Emergency officially ended on 31 July 1960. They remained suspicious of strangers and had difficulty accepting help from outsiders. Even after the barbed wire surrounding the New Villages had been dismantled and outsiders started moving in, there were frequent altercations between former residents and the newcomers.[^35]
 
 On a positive note, the communists never regained their foothold in Malaya. They were put on the defensive and eventually retreated to the Thai-Malaysian border. On 2 December 1989, the MCP agreed to “disband and end its struggle against the Malaysian forces” by signing a peace accord with the Malaysian and Thai governments in Hat Yai, southern Thailand.[^36]
-
-<img style="width: 600px; height: 400px;" src="/images/Vol-15-issue-3/civilians-in-the-crossfire/Civilians9.JPG">
-<div style="background-color: white;">The Federation Government announcing a reward of $250,000 for “bringing in alive” or giving information leading to the capture of Chin Peng, Secretary-General of the Malayan Communist Party, the man responsible for directing the armed communist revolt in Malaya. <i>The Straits Times, 1 May 1952, p. 1.</i></div>
 
 <br>
 <div style="background-color: white;">
@@ -142,20 +149,20 @@ On a positive note, the communists never regained their foothold in Malaya. They
 
 #### **NOTES**
 [^1]:The British Military Administration was the interim military government established in Singapore and Malaya during the period from the Japanese surrender to the restoration of civilian rule on 1 August 1946.
-[^2]:Hack, K. (1999, March). “Iron claws on Malaya”: The historiography of the Malayan Emergency. *Journal of Southeast Asian Studies, 30* (1), 99–125, p. 99. Retrieved from JSTOR.
-[^3]:Paul, C., et al. (2013). Malaya, 1948–1955 case outcome: COIN win. In Paths to victory: Detailed insurgency case studies (p. 55). Santa Monica: RAND Corporation. Retrieved from JSTOR.
+[^2]:Hack, K. (1999, March). “Iron claws on Malaya”: The historiography of the Malayan Emergency. *Journal of Southeast Asian Studies, 30* (1), 99–125, p. 99. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
+[^3]:Paul, C., et al. (2013). Malaya, 1948–1955 case outcome: COIN win. In *Paths to victory: Detailed insurgency case studies* (p. 55). Santa Monica: RAND Corporation. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
 [^4]:Named after Lieutenant-General Harold Rawdon Briggs (1894–1952), who devised the strategy. Although having retired from the British Army in 1948, he was recalled to active duty in 1950 and became Director of Operations in Malaya during the Malayan Emergency.
 [^5]:The Malayan National Liberation Army (MNLA) was often mistranslated as the Malayan Races Liberation Army (MRLA).
 [^6]:Miller, H. (1981). [*Jungle war in Malaya: The campaign against communism, 1948–60*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=4081352) (p. 73). Singapore: Eastern University Press. (Call no.: RSING 959.5 MIL).
 [^7]:[Miller](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081352), 1981, p. 77.
 [^8]:O’Ballance, E. (1966). [*Malaya: The Communist insurgent war, 1948–1960*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=714586) (p. 109).  London: Faber and Faber Limited. (Call no.: RCLOS 959.5 OBA-[JSB]). Amenities such as water, electricity, medical facilities and schools were provided for settlers in the New Villages. The villagers were run by locally elected village councillors. See Barber, N. (1971). [*The war of the running dogs: How Malaya defeated the communist guerrillas, 1948–60*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=839401) (p. 103). London: Collins. (Call no.: RDLKL 959.5 BAR).
 [^9]:[O’Ballance](https://eservice.nlb.gov.sg/item_holding.aspx?bid=714586), 1966, p. 110.
-[^10]:[Barber](https://eservice.nlb.gov.sg/item_holding.aspx?bid=839401), 1971, p. 103.
+[^10]:Barber, N. (1971). [*The war of the running dogs: How Malaya defeated the communist guerrillas, 1948–60*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=839401) (p. 103). London: Collins. (Call no.: RDLKL 959.5 BAR).  
 [^11]:[O’Ballance](https://eservice.nlb.gov.sg/item_holding.aspx?bid=714586), 1966, p. 110.
 [^12]:[Barber](https://eservice.nlb.gov.sg/item_holding.aspx?bid=839401), 1971, p. 103.
 [^13]:[Miller](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081352), 1981, p. 73.
 [^14]:[Barber](https://eservice.nlb.gov.sg/item_holding.aspx?bid=839401), 1971, p. 110.
-[^15]:Koya, Z. (1998, August 1). Villagers’ sacrifice to beat the reads. *New Straits Times*, p. 7. Retrieved from ProQuest Central.
+[^15]:Koya, Z. (1998, August 1). Villagers’ sacrifice to beat the reads. *New Straits Times*, p. 7. Retrieved from ProQuest Central via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
 [^16]:[Aged man jailed for consorting](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19510621-1.2.53). (1951, June 21). *Singapore Standard*, p. 3. Retrieved from NewspaperSG.
 [^17]:[Had food for bandits, gets 3 years’ jail](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19520821-1.2.70). (1952, August 21). *Singapore Standard*, p. 4. Retrieved from NewspaperSG.
 [^18]:[Bandit supplier gets ten years](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19520912-1.2.70). (1952, September 12). *Singapore Standard*, p. 5. Retrieved from NewspaperSG.
@@ -169,7 +176,7 @@ On a positive note, the communists never regained their foothold in Malaya. They
 [^26]:Cloake, J. (1985). [*Templer: Tiger of Malaya: The life of Field Marshall Sir Gerald Templer*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=3795113) (p. 272). London: Harrap. (Call no.: RSING 355. 3310942 TEM.C).
 [^27]:[Cloake](http://eservice.nlb.gov.sg/item_holding.aspx?bid=3795113), 1985, p. 272.
 [^28]:[Starving reds killed in ambush](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19580701-1.2.17). (1958, July 1). *The Straits Times*, p. 2. Retrieved from NewspaperSG.
-[^29]:Barber, N. (1971). [*The war of the running dogs: How Malaya defeated the communist guerrillas, 1948–60*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=839401) (p. 110). London: Collins. (Call no.: RDLKL 959.5 BAR).
+[^29]:[Barber](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=839401), 1971, p. 110.
 [^30]:[Barber](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=839401), 1971, p. 110.
 [^31]:[‘Operation Starvation’ hits reds](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19510923-1.2.45). (1951, September 23). *The Straits Times*, p. 5; [Malaya’s reds are still being fed](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19520417-1.2.100). (1952, April 17). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
 [^32]:The Orang Asli are the indigenous people of Peninsular Malaysia. They, too, suffered during the Emergency. Thousands were believed to have perished during this period.
