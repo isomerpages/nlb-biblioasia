@@ -62,13 +62,16 @@ In September 1967, Singapore’s parliament passed the National Archives and Rec
 
 Under Anuar’s leadership, the NARC rapidly built up its institutional infrastructure and capabilities. In January 1970, partly in response to its perennial problem of insufficient space, the NARC moved to bigger premises, taking over two refurbished colonial houses at 17–18 Lewin Terrace, Fort Canning Hill. The new facility had space for more materials to be stored, more staff to be hired, and new equipment and services to be introduced. It was also furnished with a 24-hour air-conditioned repository.
 
+<div style="background-color: white;"><img style="width:700px" src="/images/Vol-15-issue-1/pioneers-of-the-archives/07_pioneers.jpg">Mrs Hedwig Anuar (extreme left) with then Minister for Culture S. Rajaratnam at the presentation ceremony of the Gibson-Hill Collection to the National Library, 1965. <i>Courtesy of National Library Board.</i></div>
+
 Despite this, the archives’ collections continued to grow so rapidly that the institution expanded into four buildings by mid-1973, including a third facility beside 17–18 Lewin Terrace, operational by mid-1971; and a Records Centre at 45 Minden Road in Tanglin, which opened in 1973.[^17]
 
-<div style="background-color: white;"><img style="width:700px" src="/images/Vol-15-issue-1/pioneers-of-the-archives/06_pioneers.jpg">Staff of the Raffles Library photographed in 1957. Between 1954 and 1967, the archives was a department under the Raffles Library, later renamed as the National Library. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 In the early years, establishing the paper conservation department was a priority as the NARC had an enormous volume of paper records that urgently needed care from years of neglect. Hence, the paper binding and repair section, the predecessor of today’s Archives Conservation Lab, was set up in July 1970.[^18]
 
 Besides overseeing the NARC’s development, Anuar also led the institution in establishing ties with other archival institutions in the region. In 1969, the NARC joined the Southeast Asian Regional Branch of the International Council on Archives (SARBICA), which had been established the previous year. Anuar also contributed to a greater regional awareness of archival resources in Singapore, presenting a paper in April 1969 on the National Library and NARC’s research resources on Southeast Asia at the SARBICA conference held in Puncak, Indonesia.[^19] She also served as the vice-chairman of SARBICA’s executive board between 1971 and 1973, and as its chairman from 1973 to 1975.[^20]
+
+<div style="background-color: white;"><img style="width:700px" src="/images/Vol-15-issue-1/pioneers-of-the-archives/06_pioneers.jpg">Staff of the Raffles Library photographed in 1957. Between 1954 and 1967, the archives was a department under the Raffles Library, later renamed as the National Library. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 Anuar held the position of director of the NARC until 7 February 1978, when a senior archives officer took over as acting director.
 
@@ -85,6 +88,8 @@ The proposal was quickly approved and the Oral History Unit began operations in 
 In 1985, the AOHD was split into the Oral History Department – which came under the charge of Kwa Chong Guan, a senior Ministry of Defence officer who had been seconded to the Ministry of Culture – and the National Archives with Tan continuing as director, resuming its traditional role as the custodian of national records.[^23]
 
 Tan also oversaw the enhancement of the archives’ capabilities in preserving records. These plans included managing the Central Microfilm Unit (CMU) after it was transferred to the AOHD from the National Library in 1983.[^24] Starting in 1995, the archives began to emphasise the importance of managing electronic records. As Tan explained: “If we fail to manage electronic records, there will be gaps in our history.”[^25] These early initiatives in 1999 to develop guidelines on the archiving of e-mail records for the government and custom archival systems, such as the Electronic Registry System, continue to evolve and remain very relevant today.
+
+<div style="background-color: white;"><img style="width:700px" src="/images/Vol-15-issue-1/pioneers-of-the-archives/08_pioneers.jpg">Lily Tan, Director of the National Archives of Singapore (1978–2001), at the opening of the exhibition “Road to Nationhood” in 1984. <i>Courtesy of National Archives of Singapore.</i></div>
 
 Next, to improve access to its collections, the NAS launched an ambitious scheme to digitise its reference system in 1996. This meant painstakingly converting the archive’s hardcopy finding aids into an online digital database. Beginning with Picture Archives Singapore (PICAS) in 1998, which provided access to the archives’ extensive photo collection, it grew into a full-scale online database called Access to Archives Online (a2o) in July 2000.[^26] This was the precursor to today’s Archives Online database, which contains public listings of more than a million records. Technological advancements have also enabled the NAS to offer more records and of higher resolution on Archives Online, realising the vision of an archive that is accessible from home.
 
@@ -120,7 +125,7 @@ The NAS has progressed a long way from its origins as a small archives unit in t
 <br><br>
 Mrs Kwek-Chew Kim Gek has spent the last 45 years at the National Archives of Singapore (NAS). Besides her wealth of institutional knowledge, Mrs Kwek holds the record of being its longest-serving staff. She retired as Deputy Director (Records Management) in 2014 and currently works part-time as a senior archivist. She relates some of her experiences:
 <br><br>
-<img src="/images/Vol-15-issue-1/rambling/01-lawofland.jpg">Mrs Kwek-Chew Kim Gek with colleague, Assistant Archivist Yao Qianying, of the Records Management Department. This photo was taken in 2017 when the National Archives was vacating its premises at 1 Canning Rise for major renovations. <i>Courtesy of Mrs Kwek-Chew Kim Gek.</i>
+<img style="width:500px" src="/images/Vol-15-issue-1/pioneers-of-the-archives/10_pioneers.jpg">Mrs Kwek-Chew Kim Gek with colleague, Assistant Archivist Yao Qianying, of the Records Management Department. This photo was taken in 2017 when the National Archives was vacating its premises at 1 Canning Rise for major renovations. <i>Courtesy of Mrs Kwek-Chew Kim Gek.</i>
 <br><br>
 <b>On joining the National Archives and Records Centre (NARC) – as the NAS was known back then – in 1974:</b>
 <br><br>
@@ -134,7 +139,7 @@ The archives was still in its infancy in those days. We had fewer than 10 staff 
 <br><br>
 There were no formal courses to attend and I had no experienced colleagues to learn from. Training was on the job. We had to familiarise ourselves with the standard textbooks on archives and records by the two gurus of archives: T.R. Schellenberg and Hilary Jenkinson.
 <br><br>
-<img src="/images/Vol-15-issue-1/rambling/01-lawofland.jpg">Mrs Kwek-Chew Kim Gek (extreme right) with colleagues at an office function to celebrate the National Archives’ 25th anniversary in 1993. <i>Courtesy of National Archives of Singapore.</i>
+<img style="width:500px" src="/images/Vol-15-issue-1/pioneers-of-the-archives/09_pioneers.jpg">Mrs Kwek-Chew Kim Gek (extreme right) with colleagues at an office function to celebrate the National Archives’ 25th anniversary in 1993. <i>Courtesy of National Archives of Singapore.</i>
 <br><br>
 In 1983, after almost 10 years on the job, I was sent on a three-month attachment with the State Archives of New South Wales, Australia, and in 1991, on a two-month stint in Ottawa and Toronto in Canada. These attachments combined theory and practice, and enabled me to meet archivists from all over the world. This network of contacts would prove extremely valuable in time to come when I had to seek advice from experienced people on archival best practices.
 <br><br>
@@ -154,7 +159,7 @@ Interview was conducted by Mark Wong, Senior Oral History Specialist at the Oral
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Vol-15-issue-1/pioneers-of-the-archives/fiona.png">
+<img style="width: 100px; height: 100px;" src="/images/Vol-15-issue-1/pioneers-of-the-archives/Fiona.png">
 	<b>Fiona Tan</b> is an Archivist with the Outreach Department, national Archives of Singapore where she conducts research to promote a greater awareness of its collections.
 </div>
 
