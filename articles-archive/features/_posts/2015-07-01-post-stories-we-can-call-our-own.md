@@ -5,7 +5,7 @@ permalink: /vol-11/issue-2/jul-sep-2015/stories
 image: /images/vol-11-issue-2/stories/sg50_books.jpg
 layout: post
 ---
-#### **Han Fook Kwang** shares some of his favourite stories from Singaporeans as told in Living The Singapore Story, a book commemorating the nation’s golden jubilee.
+#### **Han Fook Kwang** shares some of his favourite stories from Singaporeans as told in *Living The Singapore Story*, a book commemorating the nation’s golden jubilee.
 
 <img src="/images/vol-11-issue-2/stories/sg50_bookss.jpg">
 
