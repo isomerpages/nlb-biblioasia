@@ -6,7 +6,7 @@ layout: post
 ---
 #### What makes the difference between a good artist and a brilliant one? **Goh Yu Mei** delves into the books and artworks that have inspired a literary and artistic genius.
 
-<img style="width: 700px; height: 410px;" src="/images/Vol-15-issue-3/exploring-an-artist-s-mind/Explore1.JPG">
+<img style="width: 700px; height: 450px;" src="/images/Vol-15-issue-3/exploring-an-artist-s-mind/Explore1.JPG">
 <div style="background-color: white;">Tan Swie Hian jots down ideas and inspirations in his notebooks, along with preliminary sketches of his artworks. <i>Tan Swie Hian Collection, National Library, Singapore.</i></div>
 <br>
 <img style="width: 450px; height: 330px;" src="/images/Vol-15-issue-3/exploring-an-artist-s-mind/Explore2.JPG">
