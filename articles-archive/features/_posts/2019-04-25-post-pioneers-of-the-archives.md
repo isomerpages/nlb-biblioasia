@@ -187,36 +187,36 @@ Interview was conducted by Mark Wong, Senior Oral History Specialist at the Oral
 
 [^18]:Annual report of National Archives and Records Centre 1970, 1971, p. 8. The lack of a conservation unit was reported as an urgent priority action item on p. 11 of Verhoeven’s report.
 
-[^19]:Anuar, H. (1970, July). Current research resources on Southeast Asia in the National Library and the National Archives and Records Centre, and an account of the bibliographical project in progress. Southeast Asian Archives, 3, 30–33. (Microfilm no.: NL27911).
+[^19]:Anuar, H. (1970, July). Current research resources on Southeast Asia in the National Library and the National Archives and Records Centre, and an account of the bibliographical project in progress. *Southeast Asian Archives, 3*, 30–33. (Microfilm no.: NL27911).
 
 [^20]:For details of Hedwig Anuar’s appointments, see Southeast Asia Regional Branch of the International Council on Archives. (n.d.). Executive Board. Retrieved from SARBICA website.
 
 [^21]:In fact, Verhoeven notes on p. 18 of his report that Lily Tan was selected out of seven candidates to be sent overseas to study archives administration, making her the first employee of the National Archives and Records Centre even before it was officially established. The Colombo Plan is an intergovernmental regional organisation that supports economic and social development of member countries in the Asia-Pacific region. It funds scholarships for developing countries to train their local human resources.
 
-[^22]:Kwa, C.G. (2005). Desultory reflections on the Oral History Centre (p. 4). In D. Chew (Ed.), Reflections and interpretations: Oral History Centre: 25th anniversary publication. Singapore: Oral History Centre. (Call no.: RSING 907.2 REF)
+[^22]:Kwa, C.G. (2005). Desultory reflections on the Oral History Centre (p. 4). In D. Chew (Ed.), *[Reflections and interpretations: Oral History Centre: 25th anniversary publication](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12524142)*. Singapore: Oral History Centre. (Call no.: RSING 907.2 REF)
 
 [^23]:The history of the organisation’s restructuring can be traced through the National Archives and Records Centre’s annual reports, in particular the 1979, 1980 and 1985 issues. (Microfilm nos.: NL26799 and NL26699)
 
 [^24]:Since the inception of the National Archives and Records Centre in 1968, microfilming had been the archives’ principal means of preserving paper records, and the work was handled by the National Library’s Microfilm Unit. However, the volume of records later increased significantly beyond the National Library’s capacity.
 
-[^25]:National Heritage Board. (1997). Annual report of the National Heritage Board 1996/1997 (p. 23). Singapore: GPO. (Microfilm no.: NL26739)
+[^25]:National Heritage Board. (1997). *Annual report of the National Heritage Board 1996/1997* (p. 23). Singapore: GPO. (Microfilm no.: NL26739)
 
-[^26]:For details of these digital initiatives, see Annual report of the National Heritage Board 1996/1997 and 150,000 historical images online. (1998, April 29). The Straits Times, p. 31. Retrieved from NewspaperSG.
+[^26]:For details of these digital initiatives, see *Annual report of the National Heritage Board 1996/1997* and [150,000 historical images online](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19980429-1.2.37.13). (1998, April 29). *The Straits Times*, p. 31. Retrieved from NewspaperSG.
 
-[^27]:For more information on the establishment of the Audiovisual Archives Department, see National Heritage Board. (1996). Annual report of the National Heritage Board 1995/1996 (p. 48). Singapore: GPO. (Microfilm no.: NL26739)
+[^27]:For more information on the establishment of the Audiovisual Archives Department, see National Heritage Board. (1996). *Annual report of the National Heritage Board 1995/1996* (p. 48). Singapore: GPO. (Microfilm no.: NL26739)
 
-[^28]:Close to 30 books, many of which began as exhibitions, were published, including collection-specific features such as Singapore Retrospect through Postcards, 1900–1930 (1982) (Call no.: RSING 769.4995957 SIN); place and community histories such as The Development of Nee Soon Community (1987) (Call no.: RSING Chinese 959.57 DEV-[HIS]); useful research indexes such as Index to Papers and Reports Laid before the Legislative Council of the Straits Settlements (1867–1955) (1992) (Call no.: RSING 016.328595704 CHN-[LIB])
+[^28]:Close to 30 books, many of which began as exhibitions, were published, including collection-specific features such as *[Singapore Retrospect through Postcards, 1900–1930](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4080854)* (1982) (Call no.: RSING 769.4995957 SIN); place and community histories such as *[The Development of Nee Soon Community](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84459386)* (1987) (Call no.: RSING Chinese 959.57 DEV-[HIS]); useful research indexes such as *[Index to Papers and Reports Laid before the Legislative Council of the Straits Settlements (1867–1955)](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6318042)* (1992) (Call no.: RSING 016.328595704 CHN-[LIB])
 
-[^29]:Dramatists get help from the archives. (1994, August 28). The Straits Times, p. 4. Retrieved from NewspaperSG.
+[^29]:[Dramatists get help from the archives](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19940828-1.2.76.4.4). (1994, August 28). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
 
-[^30]:For details of the various positions, see Southeast Asia Regional Branch of the International Council on Archives. (n.d.). Executive Board. Retrieved from SARBICA website.
+[^30]:For details of the various positions, see Southeast Asia Regional Branch of the International Council on Archives. (n.d.). *Executive Board*. Retrieved from SARBICA website.
 
-[^31]:For details, see National Archives. (1992). Annual report of the National Archives 1991 (p. 2). Singapore: GPO. (Microfilm no.: NL26724)
+[^31]:For details, see National Archives. (1992). *Annual report of the National Archives 1991* (p. 2). Singapore: GPO. (Microfilm no.: NL26724)
 
-[^32]:For details, see National Heritage Board. (2001). Annual report of the National Heritage Board 2000/2001 (p. 21). Singapore: GPO. (Microfilm no.: NL27503)
+[^32]:For details, see National Heritage Board. (2001). *Annual report of the National Heritage Board 2000/2001* (p. 21). Singapore: GPO. (Microfilm no.: NL27503)
 
-[^33]:For details, see National Heritage Board. (1999). Annual report of the National Heritage Board 1998/1999 (pp. 28–29, 38). Singapore: GPO. (Microfilm no.: NL24110)
+[^33]:For details, see National Heritage Board. (1999). *Annual report of the National Heritage Board 1998/1999* (pp. 28–29, 38). Singapore: GPO. (Microfilm no.: NL24110)
 
-[^34]:For details of the new amenities and services of the Archives and Oral History Department in the Old Hill Street Police Station building, see Ministry of Culture. (1984, May 26). Speech by S Dhanabalan, Minister for Foreign Affairs and Minister for Culture, at the official opening of the Archives and Oral History Department at Hill Street Building. Retrieved from National Archives of Singapore website.
+[^34]:For details of the new amenities and services of the Archives and Oral History Department in the Old Hill Street Police Station building, see Ministry of Culture. (1984, May 26). *[Speech by S Dhanabalan, Minister for Foreign Affairs and Minister for Culture, at the official opening of the Archives and Oral History Department at Hill Street Building](http://www.nas.gov.sg/archivesonline/speeches/record-details/79285d02-115d-11e3-83d5-0050568939ad)*. Retrieved from National Archives of Singapore website.
 
-[^35]:For details of the new building, see National Heritage Board. (1998). Annual report of the National Heritage Board 1997/1998 (p. 22). Singapore: GPO. (Microfilm no.: NL26741)
+[^35]:For details of the new building, see National Heritage Board. (1998). *Annual report of the National Heritage Board 1997/1998* (p. 22). Singapore: GPO. (Microfilm no.: NL26741)
