@@ -50,11 +50,11 @@ The NAS must play the role of facilitator when attending to legitimate requests 
 
 There is no better time to arrive at this consensus than during our bicentennial year as we look forward to the next lap of the NAS journey.
 
-<div style="background-color: white;"><img src="/images/Vol-15-issue-1/looking-back-looking-forward/02a_lookingbackforward.jpg"></div>
+<div style="background-color: white;"><img src="/images/Vol-15-issue-1/looking-back-looking-forward/02b_lookingbackforward.jpg"></div>
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Vol-13-issue-3/old-world-amusement-parks/shashi.png">
+<img style="width: 100px; height: 100px;" src="/images/Vol-15-issue-1/looking-back-looking-forward/shashi.png">
 	<b>Dr Shashi Jayakumar</b> is the Head of the Centre of Excellence for National Security at the S. Rajaratnam School of International Studies. He is also the Chairman of the National Archives Advisory Committee.
 </div>
 
