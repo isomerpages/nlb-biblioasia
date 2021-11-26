@@ -20,7 +20,7 @@ The oldest known photographs of Singapore were taken by Europeans in the early 1
 **[Civilians in the Crossfire: The Malayan Emergency](/vol-15/issue-3/oct-dec-2019/civilians-in-crsfire/)** <br>
 *Ronnie Tan* recounts the hardship suffered by civilians as a result of the British government’s fight against the communists during the Malayan Emergency. [(PDF)](/files/pdf/vol-15/v15-issue3_Civilians.pdf)
 
-**[Navaratri Golu: The Hindu Festival of Dolls](/vol-15/issue-3/oct-dec-2019/hindu-festival-dolls/)** <br>
+**[Navaratri Golu: The Hindu Festival of Dolls](/vol-15/issue-3/oct-dec-2019/navaratri-golu/)** <br>
 Celebrated by Hindus of South Indian origins, the Golu festival is a lively melange of colourful dolls, womenhood and spirituality. *Anasuya Soundararajan* shares with us its origins. [(PDF)](/files/pdf/vol-15/v15-issue3_Dolls.pdf)
 
 **[On Paper: Singapore Before 1867](/vol-15/issue-3/oct-dec-2019/singapore-before1867/)** <br>
