@@ -45,7 +45,7 @@ In more modern times, the Polish Jewish writer Bruno Schultz, aware of the threa
 Following her suicide in 1963, Sylvia Plath’s estranged husband, Ted Hughes, destroyed her last writings because he did not wish their children to read the contents. Similarly, William Blake’s literary executor deliberately destroyed some of his works, believing that they were inspired by the Devil no less.
 
 <img src="/images/Vol-15-issue-2/on-writers-and-manuscripts/Writers3.JPG">
-<div style="background-color: white;">Some of the manuscripts and ephemera for The Painted Cage that Meira Chand donated to the National Library. Work on The Painted Cage started several years prior to its publication in 1986. She also visited museums and heritage sites in Japan to gather information on foreigners who had lived there in the 19th century as part of her research.</i></div>
+<div style="background-color: white;">Some of the manuscripts and ephemera for The Painted Cage that Meira Chand donated to the National Library. Work on The Painted Cage started several years prior to its publication in 1986. She also visited museums and heritage sites in Japan to gather information on foreigners who had lived there in the 19th century as part of her research.</div>
 
 Many writers, such as James Joyce, destroy their own work for reasons known only to them. Joyce destroyed an early play, *A Brilliant Career*, leaving just the title page with the words “To my own soul I dedicate the first true work of my life”. The poet Philip Larkin kept very personal diaries throughout his life, but wished them destroyed upon his death as he did not want controversial elements of his life to be revealed. His request was honoured by his long-time secretary, who burned the lot.
 
@@ -72,16 +72,26 @@ Literature’s invaluable gift to society is found in the human sharing of spiri
 This is why the librarians from the National Library welcomed my own humble, handwritten exercise books, the sheets of manuscript padded with pieces of cut and pasted text, and even an unrelated shopping list hastily scribbled into a margin. The extraordinary journey of literary creation holds us in awe as we view a manuscript. From the intimacy of the written page, the writer appears to reach out across time and space, linking us in direct and authentic experience to the work being produced.
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
+	<b>THE MAGIC OF MANUSCRIPTS</b>
 <br><br>
-	The Magic of Manuscripts
-
 By Michelle Heng, Literary Arts Librarian, National Library, Singapore.
-
-Dr Meira Chand’s first donation to the National Library, Singapore, in 2014 included manuscripts, typescripts and research materials relating to drafts for A Different Sky (Random House: London, 2010), an Oprah Winfrey-recommended novel that follows the arc of modern Singapore history.
-
-Her most recent donation in 2018 includes typescripts of The Bonsai Tree (John Murray: London, 1983), a novel about a young English woman who marries the Japanese heir to a textile empire and her many travails at a time when foreigners were reviled by conservative Japanese society. The author’s reworked editions and handwritten markings on these typescripts offer a glimpse into the painstaking process that goes into the birth of a literary work. The British Book News stated in October 1983 that, “The Bonsai Tree is a considerable achievement both as a novel and as a social document…”
-
-While living in Japan, the author visited various museums and heritage sites to gather information for her early novels. These Japanese- and English-language ephemera – including brochures and booklets – on old European-style mansions inhabited by expatriates in Japan from the mid-19th to early 20th-century were donated to the National Library, along with a reproduction of a 1865 plan of the Yokohama Foreign Settlement. The author used these materials as research for The Painted Cage (Century Hutchinson: London, 1986), a murder mystery set in 1890s Yokohama that was longlisted for the Booker Prize in 1986 and reissued by Marshall Cavendish (Singapore) in 2018.
-
+<br><br>
+Dr Meira Chand’s first donation to the National Library, Singapore, in 2014 included manuscripts, typescripts and research materials relating to drafts for <i>A Different Sky</i> (Random House: London, 2010), an Oprah Winfrey-recommended novel that follows the arc of modern Singapore history.
+<br><br>
+Her most recent donation in 2018 includes typescripts of <i>The Bonsai Tree</i> (John Murray: London, 1983), a novel about a young English woman who marries the Japanese heir to a textile empire and her many travails at a time when foreigners were reviled by conservative Japanese society. The author’s reworked editions and handwritten markings on these typescripts offer a glimpse into the painstaking process that goes into the birth of a literary work. The <i>British Book News</i> stated in October 1983 that, “<i>The Bonsai Tree</i> is a considerable achievement both as a novel and as a social document…”
+<br><br>
+	<img src="/images/Vol-15-issue-2/on-writers-and-manuscripts/Writers4.JPG">The Bonsai Tree
+The author’s copious markings in her own handwriting on the time-ripened pages of her manuscripts for her novel, <i>The Bonsai Tree</i>, offer a glimpse into the painstaking creative process. Previously published by John Murray (London) in 1983, <i>The Bonsai Tree</i> was reissued by Marshall Cavendish (Singapore) in 2018. The novel was longlisted for the Booker Prize in 1983.
+	<br><br>
+While living in Japan, the author visited various museums and heritage sites to gather information for her early novels. These Japanese- and English-language ephemera – including brochures and booklets – on old European-style mansions inhabited by expatriates in Japan from the mid-19th to early 20th-century were donated to the National Library, along with a reproduction of a 1865 plan of the Yokohama Foreign Settlement. The author used these materials as research for <i>The Painted Cage</i> (Century Hutchinson: London, 1986), a murder mystery set in 1890s Yokohama that was longlisted for the Booker Prize in 1986 and reissued by Marshall Cavendish (Singapore) in 2018.
+<br><br>
 Meira Chand’s authorial drafts and research materials capture the magic of a writer’s creative process and provide a fascinating behind-the-scenes peek into her works. One of the key functions of the National Library is the collection and preservation of documentary materials relating to Singapore’s history and heritage. Dr Chand’s donation to the library’s Donor Collection augments the growing collection of research materials gifted by authors associated with Singapore’s literary development.
 </span>
+
+<br>
+<div style="background-color: white;">
+<img src="/images/Vol-15-issue-2/on-writers-and-manuscripts/Writers5.jpg" style="width: 100px; height: 100px;">
+<b></b>
+</div>
+
+<a href="https://biblioasia.nlb.gov.sg/vol-15/issue-2/jul-sep-2019/"><center>Back to Issue</center></a>
