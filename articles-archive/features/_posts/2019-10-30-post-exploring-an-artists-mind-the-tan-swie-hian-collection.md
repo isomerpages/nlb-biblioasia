@@ -72,3 +72,37 @@ As his personal collection comprises mainly books and publications, the decision
 In a video interview, Tan Swie Hian tells us how he gathered an impressive collection of materials – books, periodicals, journals, calligraphic works and paintings – over the decades, and his reasons for donating the collection to the National Library. He also reveals the creative process behind many of his artworks. 
 	<br><br>
 </span>
+
+<br>
+<div style="background-color: white;">
+<img src="/images/Vol-15-issue-3/exploring-an-artist-s-mind/Explore8.jpg" style="width: 100px; height: 100px;">
+<b>Goh Yu Mei</b> is a Librarian with the National Library, Singapore, where she manages the Chinese arts and literature collection. She is interested in the relationship between society and literature.
+</div>
+
+<a href="https://biblioasia.nlb.gov.sg/vol-15/issue-3/oct-dec-2019/"><center>Back to Issue</center></a>
+
+#### **NOTES**
+[^1]:Ji Xianlin (1911– 2009) was a Chinese linguist, paleographer, historian and writer who was proficient in many languages, including Chinese, English, German, French, Sanskrit and Pali. He was also one of China’s most well-known scholars of ancient Indian languages and culture.
+[^2]:方桂香 [Fang, G.X.]. (2002). 《[巨匠陈瑞献](http://eservice.nlb.gov.sg/item_holding.aspx?bid=11651484)》 (p. 238). 新加坡: 创意圈工作室. (Call no.: RSING Chinese 700.92 FGX).  *La Divina Commedia* (*Divine Comedy*) is a long narrative poem written in Italian by Dante Alighieri (1265–1321) and is widely considered as one of the greatest works of world literature. *Duineser Elegien* (*Duino Elegies*) is a collection of 10 German poems by the Austro-German poet Rainer Maria Rilke (1875–1926). The poems were written at Duino, a coastal town in northeastern Italy, over a period of 10 years. The anthology is recognised as one of Rilke’s best works.
+[^3]:“Up Close and Personal with Tan Swie Hian”, 13 June 2019 (video interview).
+[^4]:*Chao Foon* originally ceased publication in 1999. It was revived in 2002 by Southern College University in Johor and is still being published. The magazine started out as a bi-weekly publication but became a monthly publication in 1958 and a bi-monthly publication in 1990. Since its reissue, it has been a biannual publication.
+[^5]:陈再藩 [Chen, Z.F.]. (2006, November 7). 鼎迁于南，成一方风气之鼎盛 ‘南方之鼎’人文精神奖： 陈瑞献与马华文化的第三次拥抱. 《*联合早报*》 [*Lianhe Zaobao*]. Retrieved from Factiva.
+[^6]:Tan, S.H. (2016). Preface. In S.Y. Yap, [*Anatomy of a free mind: Tan Swie Hian’s notebooks and creations*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202545959) (p. 13). Singapore: National Library Board and Editions Didier Millet. (Call no.: RSING 700.92 CHE).
+[^7]:
+[^8]:
+[^9]:
+[^10]:
+[^11]:
+[^12]:
+
+
+
+
+
+
+Yap, S.Y. (2016). Introduction. In S.Y. Yap, Anatomy of a free mind: Tan Swie Hian’s notebooks and creations (p.18). Singapore: National Library Board and Editions Didier Millet. (Call no.: RSING 700.92 CHE)
+The Legion of Honour is the highest decoration conferred on anyone who has made significant contributions to France in a military or civilian capacity.
+Chave, A.C. (1993). Constantin Brancusi: Shifting the base of art (p. 4). New Haven: Yale University Press. (Call no.: RART q730.92 CHA)
+走进艺术巨匠的精神空间. (2005, November 8). 《联合早报》 [Lianhe Zaobao], p. 21. Retrieved from NewspaperSG.
+“Up Close and Personal with Tan Swie Hian”, 13 June 2019 (video interview).
+黄佩玲 [Huang, P.L.]. (2003, October 2). 6000多本书籍和艺术品 陈瑞献珍藏捐图书馆. 《联合早报》 [Lianhe Zaobao], p. 6. Retrieved from NewspaperSG.
