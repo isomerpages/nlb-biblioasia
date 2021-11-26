@@ -37,3 +37,32 @@ The fact that these authors did not feel the need to hide the truth that colonia
 
 Such notions – though largely discredited today – were all the rage then, and were often used to justify the use of force in the process of empire-building. The idea was that “savage” and “primitive” Asians and Africans stood to benefit from exposure to Western civilisation, and would only submit to their colonial subjugators if they were forced to do so at gunpoint.
 
+#### **The Erasure of Violence**
+
+And yet there is also *another* parallel tradition of colonial writing that emerged in the 19th century. This took the form of works that seemed to deliberately sideline the topic of violence altogether, attempting to erase all memory of the violent encounters between the colonising powers and the societies they came to dominate.
+
+Among the books written about colonial Southeast Asia where we see a near-total erasure of the memory of conflict, three works come to mind: Stamford Raffles’ *The History of Java* (1817),9 Hugh Low’s *Sarawak: Its Inhabitants and Productions* (1848)10 and Spenser St John’s *Life in the Forests of the Far East* (1862).11
+
+*The History of Java* was a monumental two-volume work that courted controversy almost as soon as it came off the press. Raffles’ peers, such as John Crawfurd, took exception to the work and accused the author of misinterpreting elements of Javanese history by presenting a one-sided view of the Javanese as a “degenerate” race that was lost in the past and unable to progress without Western intervention. To make things worse, contemporary scholars such as Peter Carey (1992) have noted several instances of plagiarism and fabrication in Raffles’ work.12
+
+ Notwithstanding the academic shortcomings of *The History of Java*, there is also a glaring omission in the text – the elephant in the room as it were – which is the absence of any mention of the invasion of Java itself. In Carey’s account of the British occupation of Java from 1811 to 1816, we find a detailed recounting of the violence of the British attack as well as instances of violence, humiliation and plunder that took place during the British occupation thereafter.
+
+The same cannot be said of Raffles’s work. Although Raffles had claimed that he had amassed more information about Java than any other European in his time, *The History of Java* does not elaborate on how all that data was collected and how the treasure horde of Javanese antiquities – including statuary, manuscripts, royal regalia and jewellery, among other items – was put together by Raffles for his own research and his private collection.
+
+<img src="/images/Vol-15-issue-2/dont-mention-the-corpses/Corpses3.JPG">
+<div style="background-color: white;">(Left) A Javanese man of the lower classes. <i>Image reproduced from Raffles, S.T. (1817). The History of Java (Vol. I) (p. 84). London: J. Murray. Retrieved from Internet Archive.</i><br>
+(Right) A Loondoo Dayak of Borneo, whom Frank Marryat described as being “copper-coloured, and extremely ugly: their hair jet black, very long, and falling down to the back; eyes were also black, and deeply sunk in the head, giving a vindictive appearance to the countenance; nose flattened; mouth very large; the lips of a bright vermilion, from the chewing of betel-nut; and, to add to their ugliness, their teeth black, and filed to sharp points”. <i>Image reproduced from Marryat, F.S. (1848). Borneo and the Indian Archipelago: With Drawings of Costume and Scenery (facing p. 5). London: Longman, Brown, Green, and Longmans. Retrieved from BookSG.</i></div>
+
+The Violence Wrought Upon Java
+
+Contemporary historians have pointed out that the arrival of the British in Java, which began with the attack on Batavia (present-day Jakarta), was anything but peaceful: so violent was the assault on the fortified port-city that bodies were said to have been piled up one on top of the other. Equally shocking are local accounts of the British attack on the royal city of Jogjakarta, which led to the killing of hundreds, including the Javanese defenders who had taken cover in the royal mosque.
+
+Carey, Tim Hannigan (2012)13 and others have noted that, in the wake of the successful attack, the Javanese royal family and nobles were forced to submit to the conquerors in the most humiliating manner, and that the royal palace was looted and sacked. Hannigan described the manner in which the Sultan of Jogjakarta was stripped of his courtly regalia by the victorious British troops, and then thrown into a backroom, “while the sepoys and English soldiers embarked on a victorious rampage” within the compound of the royal palace they had overrun.14 There are also accounts of how members of the royal family had their jewels literally ripped off their bodies by the troops of the East India Company.
+
+And yet nowhere in The History of Java do we read of what truly happened during these assaults, and the image of Java that we are left with is that of a tranquil land rendered static and domesticated by colonial intervention. Even in the images that accompany the text – the now-famous images of Javanese monuments and the hand-coloured figure studies of the Javanese themselves – all we get to see are idyllic portraits of a land and a people rendered passive, inert and thus exposed to the outsider’s gaze.
+
+The White Rajah who “Saved” Sarawak
+
+Southeast Asia would experience a succession of such violent incursions where brutalities would either be subsequently erased or forgotten. More than two decades after the British occupation of Java, another military-naval campaign visited maritime Southeast Asia – the aforementioned “war on piracy” – leading to the capture of Sarawak by the former East India Company-man-turned-rogue-adventurer, James Brooke.
+
+As noted earlier, there exist several accounts of the Sarawak campaign that were explicit in their treatment of colonial warfare. But parallel to these works was another kind of historical recounting written by the likes of Hugh Low. His book Sarawak: Its Inhabitants and Productions is startling in how it weaves a narrative that re-presents the conquest of Sarawak and the attack on Brunei in an almost fairytale-like manner.
