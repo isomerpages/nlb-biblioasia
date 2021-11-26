@@ -88,21 +88,9 @@ In a video interview, Tan Swie Hian tells us how he gathered an impressive colle
 [^4]:*Chao Foon* originally ceased publication in 1999. It was revived in 2002 by Southern College University in Johor and is still being published. The magazine started out as a bi-weekly publication but became a monthly publication in 1958 and a bi-monthly publication in 1990. Since its reissue, it has been a biannual publication.
 [^5]:陈再藩 [Chen, Z.F.]. (2006, November 7). 鼎迁于南，成一方风气之鼎盛 ‘南方之鼎’人文精神奖： 陈瑞献与马华文化的第三次拥抱. 《*联合早报*》 [*Lianhe Zaobao*]. Retrieved from Factiva.
 [^6]:Tan, S.H. (2016). Preface. In S.Y. Yap, [*Anatomy of a free mind: Tan Swie Hian’s notebooks and creations*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202545959) (p. 13). Singapore: National Library Board and Editions Didier Millet. (Call no.: RSING 700.92 CHE).
-[^7]:
-[^8]:
-[^9]:
-[^10]:
-[^11]:
-[^12]:
-
-
-
-
-
-
-Yap, S.Y. (2016). Introduction. In S.Y. Yap, Anatomy of a free mind: Tan Swie Hian’s notebooks and creations (p.18). Singapore: National Library Board and Editions Didier Millet. (Call no.: RSING 700.92 CHE)
-The Legion of Honour is the highest decoration conferred on anyone who has made significant contributions to France in a military or civilian capacity.
-Chave, A.C. (1993). Constantin Brancusi: Shifting the base of art (p. 4). New Haven: Yale University Press. (Call no.: RART q730.92 CHA)
-走进艺术巨匠的精神空间. (2005, November 8). 《联合早报》 [Lianhe Zaobao], p. 21. Retrieved from NewspaperSG.
-“Up Close and Personal with Tan Swie Hian”, 13 June 2019 (video interview).
-黄佩玲 [Huang, P.L.]. (2003, October 2). 6000多本书籍和艺术品 陈瑞献珍藏捐图书馆. 《联合早报》 [Lianhe Zaobao], p. 6. Retrieved from NewspaperSG.
+[^7]:Yap, S.Y. (2016). Introduction. In S.Y. Yap, [*Anatomy of a free mind: Tan Swie Hian’s notebooks and creations*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202545959) (p.18). Singapore: National Library Board and Editions Didier Millet. (Call no.: RSING 700.92 CHE)
+[^8]:The Legion of Honour is the highest decoration conferred on anyone who has made significant contributions to France in a military or civilian capacity.
+[^9]:Chave, A.C. (1993). [*Constantin Brancusi: Shifting the base of art*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=6631343) (p. 4). New Haven: Yale University Press. (Call no.: RART q730.92 CHA).
+[^10]:[走进艺术巨匠的精神空间](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb20050811-1.2.35.1.1). (2005, November 8). 《*联合早报*》 [*Lianhe Zaobao*], p. 21. Retrieved from NewspaperSG.
+[^11]:“Up Close and Personal with Tan Swie Hian”, 13 June 2019 (video interview).
+[^12]:黄佩玲 [Huang, P.L.]. (2003, October 2). [6000多本书籍和艺术品 陈瑞献珍藏捐图书馆](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb20031002-1.2.12.1). 《联合早报》 [Lianhe Zaobao], p. 6. Retrieved from NewspaperSG.
