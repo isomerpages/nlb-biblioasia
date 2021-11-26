@@ -168,24 +168,24 @@ Interview was conducted by Mark Wong, Senior Oral History Specialist at the Oral
 
 [^9]:For example, see Lim, J. (Interviewer). (2000, May 19). Oral history interview with Ng Cheng Onn [Recording no. 002274/17/6]. Retrieved from National Archives of Singapore website.
 
-[^10]:Lumps are being eaten out of our history. (1953, June 14). The Straits Times, p. 5. Retrieved from NewspaperSG.
+[^10]:[Lumps are being eaten out of our history](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19530614-1.2.57). (1953, June 14). *The Straits Times*, p. 5. Retrieved from NewspaperSG.
 
-[^11]:Parkinson, C.N. (1956, April 19). Digging up Malaya’s past will take ten years to complete. The Straits Times, p. 8. Retrieved from NewspaperSG.
+[^11]:Parkinson, C.N. (1956, April 19). [Digging up Malaya’s past will take ten years to complete](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19560419-1.2.113). *The Straits Times*, p. 8. Retrieved from NewspaperSG.
 
-[^12]:Tregonning, K.G. (1956, April 23). National Archives call. The Straits Times, p. 6. Retrieved from NewspaperSG.
+[^12]:Tregonning, K.G. (1956, April 23). [National Archives call](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19560423-1.2.99.1). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
 
-[^13]:For instance, see Tregonning, K.G. (1961, October). An archival system for Singapore. Majallah Perpustakaan Singapura, 1 (2), 53–54. (Microfilm no.: NL27804)
+[^13]:For instance, see Tregonning, K.G. (1961, October). An archival system for Singapore. *Majallah Perpustakaan Singapura, 1* (2), 53–54. (Microfilm no.: NL27804)
 
 [^14]:The Toyo Bunko, or “Oriental Library”, is the largest Asian-studies library in Japan.
 
 [^15]:Tregonning mentions this in his interview. See Lim, J. 
-(Interviewer). (2003, July 31). Oral history interview with K.G. Tregonning [Transcript of recording no. 002783/6/5, pp. 55-56]. Retrieved from National Archives of Singapore website.
+(Interviewer). (2003, July 31). *[Oral history interview with K.G. Tregonning](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/b/bb5238fa-115e-11e3-83d5-0050568939ad-OHC002783_005/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=5)* [Transcript of recording no. 002783/6/5, pp. 55-56]. Retrieved from National Archives of Singapore website.
 
-[^16]:Verhoeven, F. R. J. (1967). Singapore: The national archives and records management, 15 April–14 August 1967. Paris: UNESCO (Call no.: RCLOS 025.171095957 VER)
+[^16]:Verhoeven, F. R. J. (1967). *[Singapore: The national archives and records management, 15 April–14 August 1967](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4401241)*. Paris: UNESCO (Call no.: RCLOS 025.171095957 VER)
 
 [^17]:Details of the archives’ expansion can be traced through the National Archives and Records Centre’s annual reports, in particular the 1969, 1970, 1973, 1976 and 1984 issues. (Microfilm nos.: NL26798, NL26799 and NL26699).
 
-[^18]:Annual report of National Archives and Records Centre 1970, 1971, p. 8. The lack of a conservation unit was reported as an urgent priority action item on p. 11 of Verhoeven’s report.
+[^18]:*Annual report of National Archives and Records Centre 1970 – 1971,* p. 8. The lack of a conservation unit was reported as an urgent priority action item on p. 11 of Verhoeven’s report.
 
 [^19]:Anuar, H. (1970, July). Current research resources on Southeast Asia in the National Library and the National Archives and Records Centre, and an account of the bibliographical project in progress. *Southeast Asian Archives, 3*, 30–33. (Microfilm no.: NL27911).
 
