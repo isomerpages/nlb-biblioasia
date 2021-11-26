@@ -62,7 +62,7 @@ The inclusion of non-traditional dolls and themes make Golu even more interestin
 The dolls are usually made of clay, stone or wood and mainly produced in the villages of southern Indian states such as Tamil Nadu, Karnataka, Telangana and Andhra Pradesh. A smaller number of such dolls are made in the northern state of Rajasthan and the eastern state of Kolkata.[^18] My parents bought our dolls during their travels to India in the 1970s and ’80s, as it was difficult to find Golu dolls in Singapore at the time. Today, one can find a wide assortment of dolls in shops in Little India during the Navaratri season, with prices ranging from $20 for the simpler ones to $150 for the more elaborate creations.
 
 <img style="width: 450px; height: 300px;" src="/images/Vol-15-issue-3/navaratri-golu/Navaratri5.JPG">
-<div style="background-color: white;">A Navaratri Golu invitation card welcoming relatives and friends to the author’s home in 1976.</div>
+<div style="background-color: white;">A Navaratri Golu invitation card welcoming relatives and friends to the author’s home in 1976. <i>Courtesy of Anasuya Soundararajan.</i></div>
 
 #### **Rituals and Customs**
 
@@ -84,7 +84,7 @@ On the 10th and final day, or Vijayadasami, the *marapachi* dolls are made to li
 Mrs Vijayam Balakrishna Sharma, a renowned Carnatic musician who has celebrated the festival for many years, recalls in her oral history interview with the National Archives that a special drink made of yogurt and spices is offered to Goddess Durga on the last day to quench the deity’s thirst and revive her after the tiring battle with the buffalo demon.[^30]
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
-	<b>Temple Festivities During Navaratri</b>
+	<b>TEMPLE FESTIVITIES DURING NAVARATRI</b>
 	<br><br>
 Navaratri is one of many festivals observed at Hindu temples in Singapore. Devotees visit temples to get the <i>darshan</i> (blessed vision) of Goddess Shakti and participate in special prayers. Many temples – including Sri Mariamman, Sri Veeramakaliamman, Sri Vadapathrakaliamman, Sri Vairavimada Kaliamman, Sri Thendayuthapani and Sri Senpaga Vinayagar – put up a Golu display, albeit on a much larger and grander scale compared with those found in homes.
 <br><br>
@@ -119,7 +119,7 @@ Golu not only showcases the rich culture and customs of Hindus, but it is also a
 <div style="background-color: white;">The <i>kalasam</i> is a silver or brass pot containing water, and decorated with a jasmine and rose garland. Its opening is covered with mango leaves and topped with a coconut. <i>Courtesy of Anasuya Soundararajan.</i></div>
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
-	<b>Hinamatsuri: Japan’s Doll Festival</b>
+	<b>HINAMATSURI: JAPAN'S DOLL FESTIVAL</b>
 	<br><br>
 Interestingly, the Hindu Golu festival mirrors a tradition in Japanese society that also centres on dolls. Hinamatsuri, also known as “Dolls Day” or “Girls Day”, is celebrated annually in Japan on 3 March when families pray for the happiness and wellbeing of their young daughters (usually up to age 10).
 <br><br>
