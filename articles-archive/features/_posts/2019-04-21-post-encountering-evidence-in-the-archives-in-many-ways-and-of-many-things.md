@@ -104,7 +104,7 @@ Today, the staff of NAS continue to build on this solid bedrock to preserve and 
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Vol-13-issue-3/old-world-amusement-parks/eric.png">
+<img style="width: 100px; height: 100px;" src="/images/Vol-15-issue-1/evidence-in-the-archives/eric.png">
 	<b>Eric Chin</b> is the General Counsel of the National Library Board. He was formerly Director of the National Archives of Singapore (2012–17).
 </div>
 
