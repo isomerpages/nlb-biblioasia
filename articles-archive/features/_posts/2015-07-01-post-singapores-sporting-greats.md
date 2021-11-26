@@ -146,19 +146,19 @@ Lee Wung Yew – increasingly a force in the regional scene following his debut 
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-11-issue-2/sgsportgreat/Ben_Tan.jpg">
+<img style="width:70%" src="/images/vol-11-issue-2/sgsportgreat/Ben_Tan.jpg">
 Former national sailor Benedict Tan successfully juggled sports and studies, and clinched gold in the 1994 Hiroshima Asian Games. <i>Courtesy of Singapore National Olympic Council, image by Danny Toh from the book 50est:</i> Stirring Stories For The Singapore Soul.
 </div>
  
  <div style="background-color: white;">
 <br/>
-<img src="/images/vol-11-issue-2/sgsportgreat/Colin_Cheng.jpg">
+<img style="width:70%" src="/images/vol-11-issue-2/sgsportgreat/Colin_Cheng.jpg">
 National sailor Colin Cheng came in 15th out of 49 boats in the men’s Laser event at the 2012 London Olympics. <i>Courtesy of Singapore National Olympic Council, image by Danny Toh from the book 50est:</i> Stirring Stories For The Singapore Soul.
 </div>
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-11-issue-2/sgsportgreat/Wung_Yew.jpg">
+<img style="width:70%" src="/images/vol-11-issue-2/sgsportgreat/Wung_Yew.jpg">
 Retired national shooter Lee Wung Yew competed in three Olympics, six Asian Games and 11 Southeast Asian Games. <i>Courtesy of Singapore National Olympic Council, image by Danny Toh from the book 50est:</i> Stirring Stories For The Singapore Soul.
 </div>
 
