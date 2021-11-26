@@ -176,7 +176,7 @@ A series of programmes has been organised in conjunction with the exhibition, in
 <br><br>
 The book is not for sale but is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (Call nos.: RSING 959.9703 ON and SING 959.9703 ON).
 </span>
-<br>
+
 <div style="background-color: white;">
 	<b>Georgina Wong</b> is an Assistant Curator with the National Library, Singapore, and co-curator of the exhibition, “On Paper: Singapore Before 1867”; <b>Dr Azhar Ibrahim</b> is a lecturer in the Department of Malay Studies, National University of Singapore; his research interests include religion and society; <b>Assoc Prof Peter Borschberg</b> teaches
 in the Department of History, National University of Singapore, specialising in Europe-Asia interaction, trade, exploration and cartography; <b>Gracie Lee</b> is a Senior Librarian with the National Library, Singapore, where she works with the Rare Materials Collection.
