@@ -4,7 +4,6 @@ date: 2019-10-30
 permalink: /vol-15/issue-3/oct-dec-2019/civilians-in-crsfire/
 layout: post
 ---
-
 #### **Ronnie Tan** recounts the hardship suffered by civilians as a result of the British government’s fight against the communists during the Malayan Emergency.
 
 <img src="/images/Vol-15-issue-3/civilians-in-the-crossfire/Civilians1.JPG">
@@ -103,7 +102,7 @@ Templer, apparently ignorant that his words were lost in translation, continued 
 By the time Templer left Malaya and returned to the United Kingdom in 1954, the authorities had already gained the upper hand in the fight against the communists. It was clear that the Briggs Plan had proven effective in cutting off supplies to the communists; it not only hurt them physically and militarily, but their morale was also severely affected. The dire lack of food caused some communist insurgents to surrender to the authorities, while dozens more perished in the jungles. Many guerrillas were killed while foraging for food near the New Villages. In one instance, two dead communists in their mid-30s were found with “three wild jungle yams and a green papaya – all inedible”.[^28] It was reported that some guerrillas even resorted to killing monkeys for meat in order to survive.
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
-	<b>How to Outsmart the Authorities</b>
+	<b>HOW TO OUTSMART THE AUTHORITIES</b>
 	<br><br>
 These are some of the ingenious methods that people in the New Villages used to smuggle out essentials to the insurgents:
 	<br><br>
