@@ -22,7 +22,7 @@ The SPHP would not have happened without the potentially controversial declassif
 
 The number of requests to access such government files, too, has almost quadrupled, from an average of three requests a month in 2015 to 11 in 2018. In response to the increasing demand, the average waiting time upon application to view such records has been reduced by 44 percent, from 62 days in 2015 to 35 days on average in 2018. Efforts are also underway to make the process of requesting records more user-friendly with an improved interface for researchers and members of the public.
 
-#### **Co-opting, Co-creation
+#### **Co-opting, Co-creation**
 
 Beyond these initiatives, it is important to examine how the NAS has engaged communities and people in recent years. More than 50 years have lapsed since Singapore’s independence, and we have to accept the fact that the pioneer generation who built the nation with their collective blood, sweat and tears – and lived through some of the most painful and turbulent times of our history – is passing from the scene. This is an incalculable loss. Thankfully, many of their stories have been captured in the archives or in oral history interviews. But it is impossible to know if everything that is worth remembering has been recorded for posterity.
 
