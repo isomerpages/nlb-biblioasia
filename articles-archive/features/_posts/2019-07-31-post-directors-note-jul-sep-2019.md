@@ -24,3 +24,5 @@ Finally, we look at the career of the late photographer K.F. Wong. While his ima
 
 We hope you enjoy reading this issue.
 
+<br>
+<b>Ms Tan Huism </b><br>Director<br>National Library
