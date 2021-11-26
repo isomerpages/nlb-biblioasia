@@ -31,7 +31,7 @@ Not yet published and unsure of my own worth as a writer in those early days, it
 
 I have written nine novels over several decades, but have lived an itinerant life for the most part, residing for long periods of time in different parts of the world. After several decades of living in Japan I finally made my way to Singapore in 1997; among the things I brought with me were drafts of some of my novels. As a professional novelist, I have continued to write through my long residence in Singapore. As the number of my published books accumulated, so have the paper drafts of those works that I still need to work on. Over the years, the boxes of stored manuscripts have taken over my study, stacked shoulder high, the span of my writing life grown up like a forest around me.
 
-<img src="/images/Vol-15-issue-2/on-writers-and-manuscripts/Writers2.JPG">
+<img style="width: 450px; height: 300px;" src="/images/Vol-15-issue-2/on-writers-and-manuscripts/Writers2.JPG">
 <div style="background-color: white;">Meira Chand is an award-winning novelist of Swiss-Indian parentage, who is now a Singaporean citizen.</div>
 
 When the librarians from the National Library came to view the materials, it amused me to see how delighted they were at the emergence of the most heavily worked manuscripts. Not only were these manuscripts thickly pencilled upon with corrections, but many pages were, quite literally, cut and pasted together. In the days before computers, this is what all writers did – a pair of scissors and a tube of glue were part of any writer’s kit. When I now click the “cut” button on my Mac, and then slide the cursor down and select “paste”, I never fail to draw a breath of deep gratitude for the wonders of modern technology.
@@ -44,7 +44,7 @@ In more modern times, the Polish Jewish writer Bruno Schultz, aware of the threa
 
 Following her suicide in 1963, Sylvia Plath’s estranged husband, Ted Hughes, destroyed her last writings because he did not wish their children to read the contents. Similarly, William Blake’s literary executor deliberately destroyed some of his works, believing that they were inspired by the Devil no less.
 
-<img src="/images/Vol-15-issue-2/on-writers-and-manuscripts/Writers3.JPG">
+<img style="width: 550px; height: 360px;" src="/images/Vol-15-issue-2/on-writers-and-manuscripts/Writers3.JPG">
 <div style="background-color: white;">Some of the manuscripts and ephemera for The Painted Cage that Meira Chand donated to the National Library. Work on The Painted Cage started several years prior to its publication in 1986. She also visited museums and heritage sites in Japan to gather information on foreigners who had lived there in the 19th century as part of her research.</div>
 
 Many writers, such as James Joyce, destroy their own work for reasons known only to them. Joyce destroyed an early play, *A Brilliant Career*, leaving just the title page with the words “To my own soul I dedicate the first true work of my life”. The poet Philip Larkin kept very personal diaries throughout his life, but wished them destroyed upon his death as he did not want controversial elements of his life to be revealed. His request was honoured by his long-time secretary, who burned the lot.
@@ -80,7 +80,7 @@ Dr Meira Chand’s first donation to the National Library, Singapore, in 2014 in
 <br><br>
 Her most recent donation in 2018 includes typescripts of <i>The Bonsai Tree</i> (John Murray: London, 1983), a novel about a young English woman who marries the Japanese heir to a textile empire and her many travails at a time when foreigners were reviled by conservative Japanese society. The author’s reworked editions and handwritten markings on these typescripts offer a glimpse into the painstaking process that goes into the birth of a literary work. The <i>British Book News</i> stated in October 1983 that, “<i>The Bonsai Tree</i> is a considerable achievement both as a novel and as a social document…”
 <br><br>
-	<img src="/images/Vol-15-issue-2/on-writers-and-manuscripts/Writers4.JPG">The Bonsai Tree
+	<img style="width: 450px; height: 330px;" src="/images/Vol-15-issue-2/on-writers-and-manuscripts/Writers4.JPG">The Bonsai Tree
 The author’s copious markings in her own handwriting on the time-ripened pages of her manuscripts for her novel, <i>The Bonsai Tree</i>, offer a glimpse into the painstaking creative process. Previously published by John Murray (London) in 1983, <i>The Bonsai Tree</i> was reissued by Marshall Cavendish (Singapore) in 2018. The novel was longlisted for the Booker Prize in 1983.
 	<br><br>
 While living in Japan, the author visited various museums and heritage sites to gather information for her early novels. These Japanese- and English-language ephemera – including brochures and booklets – on old European-style mansions inhabited by expatriates in Japan from the mid-19th to early 20th-century were donated to the National Library, along with a reproduction of a 1865 plan of the Yokohama Foreign Settlement. The author used these materials as research for <i>The Painted Cage</i> (Century Hutchinson: London, 1986), a murder mystery set in 1890s Yokohama that was longlisted for the Booker Prize in 1986 and reissued by Marshall Cavendish (Singapore) in 2018.
@@ -100,4 +100,3 @@ Meira Chand’s authorial drafts and research materials capture the magic of a w
 Brock, J.A. (2018, January 8). 100+ famous authors and their writing spaces. *The Writing Cooperative*. Retrieved 2019, April 29, from The Writing Cooperative website.
 
 Gioia, D. (1996). The magical value of manuscripts. *The Hudson Review*. Retrieved 2019, April 29, from Dana Gioia website.
-
