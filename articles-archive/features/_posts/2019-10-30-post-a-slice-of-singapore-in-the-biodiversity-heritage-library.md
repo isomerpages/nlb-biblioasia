@@ -29,26 +29,26 @@ Some of the collections in the BHL are categorised into themes to help users nav
 
 * The “Charles Darwin’s Library” is one of BHL’s key thematic collections. It comprises over 1,480 books owned by Charles Darwin, 430 of which have been digitised and uploaded onto the portal. Many of the titles contain Darwin’s own handwritten annotations and markings. These notes are invaluable for the clues and insights they shed on the development of Darwin’s ideas on evolution and natural selection.Lest researchers struggle to make out Darwin’s notes, BHL has provided full transcriptions of his annotations and markings.
 
-<img src="/images/Vol-15-issue-3/a-slice-of-sg-biodiversity/Biodiversity2.JPG">
+<img style="width: 450px; height: 300px;" src="/images/Vol-15-issue-3/a-slice-of-sg-biodiversity/Biodiversity2.JPG">
 <div style="background-color: white;">The Tasmanian devil reproduced from Gould, J. (1863). <i>The Mammals of Australia</i> (Vol. I). London: Taylor and Francis.</i></div>
 
 * Another thematic collection that BHL has put together are works created by women who have made significant contributions to the study of natural history and science. “Women in Natural History” and “Early Women in Science” comprise 1,121 volumes from some 500 titles at the time of writing, and are testament to the achievements of women in the areas of botany, zoology and biodiversity.
 
-<img src="/images/Vol-15-issue-3/a-slice-of-sg-biodiversity/Biodiversity10.JPG">
+<img style="width: 310px; height: 400px;" src="/images/Vol-15-issue-3/a-slice-of-sg-biodiversity/Biodiversity10.JPG">
 <div style="background-color: white;">The Javan slow Ioris reproduced from Forbes, H.O. (1894). <i>A Hand-book to the Primates</i> (Vol. I). London: W.H. Allen & Co., Limited.</div>
 
 * Titles in the paleontology collection were selected from the Vertebrate Palaeontology Library in the Smithsonian Libraries. This 506-volume collection contains close to 380 book and journal titles on physical geography, stratigraphy, systematic paleontology and paleozoology.
 * The “Monsters are Real” collection features the fascinating stories, people and animals that have inspired mythical beasts and creatures such as the sea serpent, kraken, hydra, mermaid and the leviathan. This small but unique collection – with just 34 volumes from 31 titles – reveals that history’s most fearsome legendary monsters are actually based on real-life animals.
 * Other notable BHL collections include “Rarest of the Rare”, which contains some of the rarest natural history works; “Antarctic Exploration & Discovery”, which comprises rare books, journals and field diaries relating to the exploration and biodiversity of the Antarctica; and the comprehensive “A History of Cats: 1858–1922” from the Library of Congress.
 
-<img src="/images/Vol-15-issue-3/a-slice-of-sg-biodiversity/Biodiversity3.JPG">
+<img style="width: 400px; height: 200px;" src="/images/Vol-15-issue-3/a-slice-of-sg-biodiversity/Biodiversity3.JPG">
 <div style="background-color: white;">The Biodiversity Heritage Library logo. BHL was set up in 2006 as a digital library to provide free access to materials on biodiversity and natural history.</div>
 
 #### **Singapore and the Biodiversity Heritage Library**
 
 As the National Library Board (NLB) shares BHL’s vision in providing open access to biodiversity heritage materials, it became a member of the BHL consortium in 2014. As a country node, NLB works with other institutions in Singapore, including the Library of Botany and Horticulture of the Singapore Botanic Gardens (SBG), to select the rarest and the most interesting biodiversity literature for digitisation and inclusion in the BHL portal. NLB has also taken the lead in Singapore by providing expertise for the conservation and digitisation of materials as well as the cataloguing and uploading of digitised works.
 
-<img src="/images/Vol-15-issue-3/a-slice-of-sg-biodiversity/Biodiversity4.JPG">
+<img style="width: 350px; height: 300px;" src="/images/Vol-15-issue-3/a-slice-of-sg-biodiversity/Biodiversity4.JPG">
 <div style="background-color: white;">The Javan slow Ioris reproduced from Forbes, H.O. (1894). <i>A Hand-book to the Primates</i> (Vol. I). London: W.H. Allen & Co., Limited.</div>
 
 Since joining the BHL, NLB has uploaded some 394 volumes of biodiversity and natural history works. These were selected from the National Library Singapore’s Rare Materials Collection as well as from SBG’s Library of Botany and Horticulture.
@@ -69,10 +69,10 @@ Key examples include the three-volume <i>Gleanings of Natural History</i> (1758�
 	<b>GEOGRAPHY AND THE ENVIRONMENT OF SINGAPORE</b><br><br>
 Included in this category are books on geology and environmental studies of Singapore. Interesting titles include the <i>Annual Report of the Meteorological Observations in the Straits Settlements for the Year 1890</i> (1891)6 and <i>A Geography of the Malay Peninsula and Surrounding Countries</i> (1884),7 from which we can piece together the historical weather patterns and geography of Singapore and the region in the 19th century.
 	<br><br>
-	<img src="/images/Vol-15-issue-3/a-slice-of-sg-biodiversity/Biodiversity6.JPG">	<br>
-	<img src="/images/Vol-15-issue-3/a-slice-of-sg-biodiversity/Biodiversity7.JPG">The “BHL Singapore” collection comprises a huge variety of historical publications relating to the biodiversity of Singapore and the region. Many are beautifully illustrated with drawings of different species of plants and animals. Shown here are illustrations of the elephant and rhinoceros. <i>Images reproduced from Edwards, G. (1758). Gleanings of Natural History, Exhibiting Figures of Quadrupeds, Birds, Insects, Plants, &c (Part I). London: Royal College of Physicians.</i>
+	<img style="width: 500px; height: 330px;" src="/images/Vol-15-issue-3/a-slice-of-sg-biodiversity/Biodiversity6.JPG">	<br>
+	<img style="width: 500px; height: 330px;" src="/images/Vol-15-issue-3/a-slice-of-sg-biodiversity/Biodiversity7.JPG">The “BHL Singapore” collection comprises a huge variety of historical publications relating to the biodiversity of Singapore and the region. Many are beautifully illustrated with drawings of different species of plants and animals. Shown here are illustrations of the elephant and rhinoceros. <i>Images reproduced from Edwards, G. (1758). Gleanings of Natural History, Exhibiting Figures of Quadrupeds, Birds, Insects, Plants, &c (Part I). London: Royal College of Physicians.</i>
 		<br><br>
-	<img src="/images/Vol-15-issue-3/a-slice-of-sg-biodiversity/Biodiversity8.JPG">Some titles in the “BHL Singapore” collection contain maps. Shown here is “Map of the Island of Singapore and its Dependencies” marking out the locations of Singapore’s forest reserves. <i>Image reproduced from Hill, H.C. (1900). Report on the Present System of Forest Conservancy in the Straits Settlements with Suggestions for Future Management. Singapore: Straits Settlements.</i>
+	<img style="width: 500px; height: 330px;" src="/images/Vol-15-issue-3/a-slice-of-sg-biodiversity/Biodiversity8.JPG">Some titles in the “BHL Singapore” collection contain maps. Shown here is “Map of the Island of Singapore and its Dependencies” marking out the locations of Singapore’s forest reserves. <i>Image reproduced from Hill, H.C. (1900). Report on the Present System of Forest Conservancy in the Straits Settlements with Suggestions for Future Management. Singapore: Straits Settlements.</i>
 </span>
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
