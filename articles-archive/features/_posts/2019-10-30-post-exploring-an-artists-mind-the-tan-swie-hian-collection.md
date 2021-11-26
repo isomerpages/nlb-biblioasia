@@ -49,3 +49,26 @@ Unique to the collection are 41 notebooks that Tan used to pen his inspirations 
 
 <img src="/images/Vol-15-issue-3/exploring-an-artist-s-mind/Explore6.JPG">
 <div style="background-color: white;">Published in 1968, The Giant is the first poetry collection by Tan Swie Hian. <i>Image reproduced from 牧羚奴. (1968). 巨人. 新加坡: 五月出版社. (Call no.: RDTSH C811.5 MLN). Tan Swie Hian Collection, National Library, Singapore.</i></div>
+
+Among the noteworthy items on display in the Tan Swie Hian Collection are local and international medals and certificates that Tan has received for his artistic and literary achievements. These include the Cultural Medallion (1987) and the Meritorious Service Medal (2003) bestowed by the Singapore government, and international honours that Tan has won, such as the Romanian Marin Sorescu International Poetry Award (1999), the World Economic Forum Crystal Award (2003) and the Officier de l’Ordre National de la Légion d’Honneur8 (Officer in the National Order of the Legion of Honour) in 2006.
+
+#### **A Quest to Inspire**
+
+When Tan visited the Musée d’Art Moderne de la Ville de Paris (Paris Museum of Modern Art) for the first time in 1973, he was amazed to see the exact reconstruction of the studio where Constantin Brancusi, who is regarded as one of the most important sculptors of the 20th century, practised his craft.9 Tan found inspiration in the recreated studio, where visitors could immerse themselves in the space where the great Romanian sculptor created his artworks.
+
+When Tan received the Marin Sorescu International Poetry Award in 1999, he made a personal promise to donate his entire collection of materials that he had painstakingly built over the years to a national institution. This would become a source that all aspiring young artists in Singapore could access and consult and, in the process, gain inspiration for their own creative works.
+
+Thus, when the “My Library Movement” was launched in 2003, an initiative that encouraged Singaporeans to donate their valuable materials to the National Library,10 Tan donated a selection of items from his personal collection to the National Library.
+
+Tan’s affinity with the library, however, goes back much further. As a student in the 1950s, Tan was a frequent visitor to the former National Library on Stamford Road, which he saw as a sacred place of learning – a “temple of knowledge”. This relationship was further cemented in 1973 when Tan held his first solo exhibition at the National Library.
+
+As his personal collection comprises mainly books and publications, the decision to donate these items to the National Library made perfect sense.11 It was also Tan’s way of giving back to society, to provide a platform where he can share his knowledge and experience with young Singaporeans and help nurture a new generation of homegrown talent.12
+
+<img src="/images/Vol-15-issue-3/exploring-an-artist-s-mind/Explore7.JPG">
+<div style="background-color: white;">The Tan Swie Hian Collection includes autographed books that Tan received as gifts, one of which is <i>Let’s Talk about the Weather… and Other Poems</i> by the Romanian poet, playwright and novelist Marin Sorescu. <i>Image reproduced from Sorescu, M. (1985). Let’s Talk about the Weather… and other Poems. London; Boston: Forest Books. (Call no.: RDTSH 859.134 SOR). Tan Swie Hian Collection, National Library, Singapore.</i></div>
+
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
+	<b>UP CLOSE AND PERSONAL WITH TAN SWIE HIAN</b><br><br>
+In a video interview, Tan Swie Hian tells us how he gathered an impressive collection of materials – books, periodicals, journals, calligraphic works and paintings – over the decades, and his reasons for donating the collection to the National Library. He also reveals the creative process behind many of his artworks. 
+	<br><br>
+</span>
