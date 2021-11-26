@@ -81,3 +81,11 @@ Books in this last category focus on the different ethnicities and cultures in S
 <br><br>
 Another significant title is <i>Travels in the East Indian Archipelago</i> (1868)9 by the American naturalist Albert Smith Bickmore. This voluminous 555-page book documents Bickmore’s expedition to the Dutch East Indies (present-day Indonesia) between April 1865 and May 1866. It records the flora and fauna of the places he visited as well as the ethnological characteristics of the different tribes he encountered.
 </span>
+
+<br>
+<div style="background-color: white;">
+<img src="/images/Vol-15-issue-3/a-slice-of-sg-biodiversity/Biodiversity9.jpg" style="width: 100px; height: 100px;">
+<b>Lim Tin Seng</b> is a Librarian with the National Library, Singapore. He is the co-editor of <i>Roots: Tracing Family Histories – A Resource Guide</i> (2013); <i>Harmony and Development: ASEAN-China Relations</i> (2009) and <i>China’s New Social Policy: Initiatives for a Harmonious Society</i> (2010). He is also a regular contributor to <i>BiblioAsia</i>.
+</div>
+
+<a href="https://biblioasia.nlb.gov.sg/vol-15/issue-3/oct-dec-2019/"><center>Back to Issue</center></a>
