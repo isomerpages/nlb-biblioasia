@@ -84,13 +84,13 @@ Bungalow-type dwellings made of wood and zinc in Kampong Melayu. <i>All rights r
 <div style="background-color: white; padding-bottom:20px;">
 <br/>
 <img src="/images/vol-11-issue-2/malayjournalism/street_direction.jpg">
-1956 street directory indicating the location of Jalan Eunos and the Malay Settlement. <i>All rights reserved, Singapore Survey Department</i>. (1950–75). Singapore street directory and sectional maps <i>(Map no. 60). Singapore: Survey Department</i>.
+1956 street directory indicating the location of Jalan Eunos and the Malay Settlement. <i>All rights reserved, Singapore Survey Department. (1950–75). Singapore street directory and sectional maps (Map no. 60). Singapore: Survey Department</i>.
 </div>
 
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> 
 <b>RISE AND FALL OF UTUSAN MELAYU</b>
 <br><br>
-<i>Utusan Melayu</i>, which Eunos Abdullah edited was initially published three times a week on Tuesday, Thursday and Saturday. It was converted into a daily in 1915 to meet the demand for news of World War I. In 1921, the newspaper was sued by Raja Shariman and Che Tak, assistant commissioners of police of the Federated Malay States, for damages over an alleged libel. At the time of the libel, the newspaper’s circulation had dipped below 280 copies.[^8] The heavy damages awarded against <i>Utusan Melayu</i> turned out to be financially crippling and it ceased operations as a result. 
+<i>Utusan Melayu</i>, which Eunos Abdullah edited, was initially published three times a week on Tuesday, Thursday and Saturday. It was converted into a daily in 1915 to meet the demand for news of World War I. In 1921, the newspaper was sued by Raja Shariman and Che Tak, assistant commissioners of police of the Federated Malay States, for damages over an alleged libel. At the time of the libel, the newspaper’s circulation had dipped below 280 copies.[^8] The heavy damages awarded against <i>Utusan Melayu</i> turned out to be financially crippling and it ceased operations as a result. 
 <br><br>
 Perhaps as a tribute to Eunos Abdullah, his successor, Ambo Sooloh, along with other Kesatuan Melayu Singapura leaders and members such as Yusof Ishak (later the first president of Singapore) and Abdul Rahim Kajai, started another newspaper in 1939. They called it <i>Utusan Melayu</i> but unlike the first version of <i>Utusan Melayu</i>, this reincarnation was fully owned, financed and managed by Malays.[^9] In 1958, the newspaper relocated its operations to Kuala Lumpur. </span>
 
