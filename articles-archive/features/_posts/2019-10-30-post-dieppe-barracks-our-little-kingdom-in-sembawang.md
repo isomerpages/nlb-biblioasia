@@ -106,3 +106,23 @@ I myself completed national service in Dieppe Barracks from 2018 to 2019, and in
 [^8]:Lim, I.A.L. (Interviewer). (1990, January 16). [*Oral history interview with Chris Manning-Press (Lieutenant-Colonel)*](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/1/1e89d79f-115e-11e3-83d5-0050568939ad-OHC001146_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png) [Transcript of recording no. 001146/3/2, p. 32]. Retrieved from National Archives of Singapore website.
 [^9]:Ministry of Culture. (1975, April 7). [*Transcript of question-and-answer session following the prime minister’s address to the New Zealand National Press Club in Wellington on 7 April 1975.*](http://www.nas.gov.sg/archivesonline/speeches/record-details/73b14518-115d-11e3-83d5-0050568939ad) Retrieved from National Archives of Singapore website.
 [^10]:McCraw, D. (2012). Staying in Singapore? New Zealand’s Third Labour Government and the retention of military Forces in Southeast Asia. *New Zealand Journal of Asian Studies, 14*(1), 1–17. Retrieved from New Zealand Journal of Asian Studies website.
+[^11]:Kutty, N.G. (1979, April 15). [Treat for 51 Viet refugees on their way to Auckland](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19790415-1.2.37). The Straits Times, p. 7. Retrieved from NewspaperSG.
+[^12]:
+[^13]:
+[^14]:
+[^15]:
+[^16]:
+[^17]:
+[^18]:
+[^19]:
+[^2]:
+
+Grand farewell parade by New Zealanders. (1989, July 21). The Straits Times, p. 19. Retrieved from NewspaperSG.
+Kiwi vehicles for auction. (1989, July 29). The Straits Times, p. 19. Retrieved from NewspaperSG.
+Tan, T. (2016). Sembawang Country Club: An early history (pp. 1–8). Retrieved from Sembawang Country Club website.
+Grant, D. (1977, October 1). How it all came about. The Business Times, p. 12. Retrieved from NewspaperSG.
+Robert, G. (1979, November 30). Dream date for schoolboys. The Straits Times, p. 38. Retrieved from NewspaperSG.
+The red diamond. 1 RNZIR Journal. (1982).
+Ministry of Communications and Information. (1986, February 5). Speech by Dr Yeo Ning Hong, Minister for Communications and Information and Second Minister for Defence, at the 1986 New Zealand Day Parade at Dieppe Barracks, Sembawang, on Wednesday, 5 February 1986 at 6.00 pm. Retrieved from National Archives of Singapore website.
+Jalelah Abu Bakar. (2019, May 17). Singapore and New Zealand are ‘natural partners,’ say PMs. Retrieved from CNA website.
+Journal of the First Battalion, the Royal New Zealand Infantry Regiment. (1985). Singapore: First Battalion Royal New Zealand Infantry Regiment. (Call no.: R 356.1109931 RNZIRF)
