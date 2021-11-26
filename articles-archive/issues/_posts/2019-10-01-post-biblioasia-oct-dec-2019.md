@@ -9,7 +9,7 @@ The ubiquitous five-footway, a history of commercial photography in Singapore an
 
 <img src="/images/Vol-15-issue-3/vol15_iss3.jpg">
 
-**Director’s Note**
+**[Director’s Note](/vol-15/issue-3/oct-dec-2019/directors-note-oct19/)**
 
 **[Give Me Shelter: The Five-footway Story](/vol-15/issue-3/oct-dec-2019/give-me-shelter-stry/)** <br>
 The five-footway – the equivalent of the modern-day pavement or sidewalk – was a hotly contested space in colonial Singapore. *Fiona Lim* recounts its colourful history. [(PDF)](/files/pdf/vol-15/v15-issue3_Footway.pdf)
