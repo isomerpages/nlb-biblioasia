@@ -89,3 +89,23 @@ Another significant title is <i>Travels in the East Indian Archipelago</i> (1868
 </div>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-15/issue-3/oct-dec-2019/"><center>Back to Issue</center></a>
+
+#### **NOTES**
+[^1]:Edwards, G. (1758).  [*Gleanings of natural history, exhibiting figures of quadrupeds, birds, insects, plants, &c*](http://eresources.nlb.gov.sg/printheritage/detail/8697ac82-90e4-4eba-9f85-94ddd0c68935.aspx) (Part I). London: The Royal College of Physicians. Retrieved from BookSG; Edwards, G. (1760).  [*Gleanings of natural history, exhibiting figures of quadrupeds, birds, fishes, insects, &c*](http://eresources.nlb.gov.sg/printheritage/detail/612a4606-9d51-47d0-b20a-4e4d32638871.aspx) (Part II). The Royal College of Physicians. Retrieved from BookSG; Edwards, G. (1764). [*Gleanings of natural history, containing figures of quadrupeds, birds, insects, plants, &c*](http://eresources.nlb.gov.sg/printheritage/detail/6ba65f02-7772-40ad-83c3-fdc1d588de06.aspx) (Part III). London: The Royal College of Physicians. Retrieved from BookSG.
+[^2]:Horsfield, T. (1824). [*Zoological researches in Java, and the neighbouring islands*](http://eresources.nlb.gov.sg/printheritage/detail/c82861cf-b4ab-4441-876c-62eda77ac466.aspx). London: Kingsbury & Allen. Retrieved from BookSG.
+[^3]:Motley, J. (1855). [*Contributions to the natural history of Labuan, and the adjacent coasts of Borneo*](http://eresources.nlb.gov.sg/printheritage/detail/592f4438-6dc2-4633-a469-2a68ab92ee24.aspx). London: John van Voorst. Retrieved from BookSG.
+[^4]:Bucknill, J.A.S. (1927). [*The birds of Singapore island*](http://eresources.nlb.gov.sg/printheritage/detail/a2e7a926-d7b5-46f3-b02b-c1e95af98da2.aspx). Singapore: Government Printing Office. Retrieved from BookSG.
+[^5]:Butler, A.G. (1879). The butterflies of Malacca. London: The Society. Retrieved from BookSG.
+[^6]:
+[^7]:
+[^8]:
+[^9]:
+
+
+
+
+
+Annual report of the meteorological observations in the Straits Settlements for the year 1890. (1891). Singapore: Government Printing Office. This publication is found in the collection of the Singapore Botanic Gardens.
+Skinner, A.M. (1884). A geography of the Malay Peninsula and surrounding countries in three parts. Part 1. Malay Peninsula, Borneo. Singapore: [s.n.]. Retrieved from BookSG.
+Wilkinson, R.J. (1910). The aboriginal tribes. Kuala Lumpur: F.M.S. Government Press. Retrieved from BookSG.
+Bickmore, A.S. (1868). Travels in the East Indian Archipelago. London: J. Murray. Retrieved from BookSG.
