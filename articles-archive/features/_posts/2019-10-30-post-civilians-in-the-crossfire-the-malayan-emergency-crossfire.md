@@ -4,7 +4,6 @@ date: 2019-10-30
 permalink: /vol-15/issue-3/oct-dec-2019/civilians-in-crsfire/
 layout: post
 ---
-
 #### **Ronnie Tan** recounts the hardship suffered by civilians as a result of the British government’s fight against the communists during the Malayan Emergency.
 
 <img src="/images/Vol-15-issue-3/civilians-in-the-crossfire/Civilians1.JPG">
@@ -34,7 +33,7 @@ Shopkeepers in operational areas for instance were not allowed to store excess q
 
 To further ensure that the communist guerrillas were isolated from the main population, the predominantly Chinese villagers living in squatters in the jungle fringes were relocated to settlements called “New Villages”. These villagers were “strategically sited with an eye to defence, protected with barbed wire and guarded by a detachmentof Special Constables, until they were each able to form their own Home Guard units”.[^8]
 
-<img style="width: 600px; height: 400px;" src="/images/Vol-15-issue-3/civilians-in-the-crossfire/Civilians2.JPG">
+<img style="width: 450px; height: 300px;" src="/images/Vol-15-issue-3/civilians-in-the-crossfire/Civilians2.JPG">
 <div style="background-color: white;">An identity card issued during the Malayan Emergency (1948–60). <i>Image reproduced from Yao, S. (2016). The Malayan Emergency: Essays on a Small, Distant War (p. 57). Copenhagen: Nordic Institute of Asian Studies. (Call no.: RSING 959.5104 YAO).</i></div>
 
 Each relocation was shrouded in secrecy and the villagers were not notified beforehand. According to British military historian Edgar O’Ballance, “secrecy was essential to success, otherwise the squatters would have disappeared into the jungle in mass flight”.[^9] The operation usually began before dawn, with troops and police surrounding the squatter area. The villagers were then moved en masse, along with their belongings and livestock, using one truck per family to the New Villages scattered throughout Malaya.[^10]
