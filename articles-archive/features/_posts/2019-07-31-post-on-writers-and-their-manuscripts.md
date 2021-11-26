@@ -91,7 +91,13 @@ Meira Chand’s authorial drafts and research materials capture the magic of a w
 <br>
 <div style="background-color: white;">
 <img src="/images/Vol-15-issue-2/on-writers-and-manuscripts/Writers5.jpg" style="width: 100px; height: 100px;">
-<b></b>
+<b>Dr Meira Chand</b>’s nine novels reflect her multicultural experiences, having lived in Japan and India before moving to Singapore in 1997. A National Library Distinguished Reader, she has a PhD in creative writing from the University of Western Australia and is actively engaged in nurturing young Singaporean writers.
 </div>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-15/issue-2/jul-sep-2019/"><center>Back to Issue</center></a>
+
+#### **REFERENCES**
+Brock, J.A. (2018, January 8). 100+ famous authors and their writing spaces. *The Writing Cooperative*. Retrieved 2019, April 29, from The Writing Cooperative website.
+
+Gioia, D. (1996). The magical value of manuscripts. *The Hudson Review*. Retrieved 2019, April 29, from Dana Gioia website.
+
