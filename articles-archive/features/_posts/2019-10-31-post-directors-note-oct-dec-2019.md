@@ -14,7 +14,7 @@ The first practical method of creating permanent images with a camera was unveil
 
 The “five-footway” is another inherited tradition from Singapore’s colonial days. The sheltered walkway between shophouse and street, however, was a source of irritation for many Europeans, who objected to Asians taking over the five-footways to peddle food and all manner of goods. The squabble for space led to a three-day riot in the town centre in 1888, according to [Fiona Lim](/vol-15/issue-3/oct-dec-2019/give-me-shelter-stry/).
 
-As part of the annual Hindu festival of Navaratri, a colourful doll display called Golu takes pride of place in many homes and temples in Singapore over nine nights. [Anasuya Soundararajan](/vol-15/issue-3/oct-dec-2019/hindu-festival-dolls/) tells us how this time-honoured tradition, which has its roots in 14th-century India, is celebrated here.
+As part of the annual Hindu festival of Navaratri, a colourful doll display called Golu takes pride of place in many homes and temples in Singapore over nine nights. [Anasuya Soundararajan](/vol-15/issue-3/oct-dec-2019/navaratri-golu/) tells us how this time-honoured tradition, which has its roots in 14th-century India, is celebrated here.
 
 During the Malayan Emergency, Chinese people living in Malaya’s jungle fringes were resettled into heavily fortified “New Villages” so that communist insurgents would not be able to infiltrate the civilian population to enlist their help. But the communists still managed to outwit the British authorities, as [Ronnie Tan](/vol-15/issue-3/oct-dec-2019/civilians-in-crsfire/) reveals.
 
