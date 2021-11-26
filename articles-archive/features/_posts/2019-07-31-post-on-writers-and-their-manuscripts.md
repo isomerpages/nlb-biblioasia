@@ -31,7 +31,7 @@ Not yet published and unsure of my own worth as a writer in those early days, it
 
 I have written nine novels over several decades, but have lived an itinerant life for the most part, residing for long periods of time in different parts of the world. After several decades of living in Japan I finally made my way to Singapore in 1997; among the things I brought with me were drafts of some of my novels. As a professional novelist, I have continued to write through my long residence in Singapore. As the number of my published books accumulated, so have the paper drafts of those works that I still need to work on. Over the years, the boxes of stored manuscripts have taken over my study, stacked shoulder high, the span of my writing life grown up like a forest around me.
 
-<img style="width: 450px; height: 300px;" src="/images/Vol-15-issue-2/on-writers-and-manuscripts/Writers2.JPG">
+<img style="width: 550px; height: 300px;" src="/images/Vol-15-issue-2/on-writers-and-manuscripts/Writers2.JPG">
 <div style="background-color: white;">Meira Chand is an award-winning novelist of Swiss-Indian parentage, who is now a Singaporean citizen.</div>
 
 When the librarians from the National Library came to view the materials, it amused me to see how delighted they were at the emergence of the most heavily worked manuscripts. Not only were these manuscripts thickly pencilled upon with corrections, but many pages were, quite literally, cut and pasted together. In the days before computers, this is what all writers did – a pair of scissors and a tube of glue were part of any writer’s kit. When I now click the “cut” button on my Mac, and then slide the cursor down and select “paste”, I never fail to draw a breath of deep gratitude for the wonders of modern technology.
