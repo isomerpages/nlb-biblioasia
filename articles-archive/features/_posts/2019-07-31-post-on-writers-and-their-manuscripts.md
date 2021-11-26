@@ -88,7 +88,6 @@ While living in Japan, the author visited various museums and heritage sites to 
 Meira Chand’s authorial drafts and research materials capture the magic of a writer’s creative process and provide a fascinating behind-the-scenes peek into her works. One of the key functions of the National Library is the collection and preservation of documentary materials relating to Singapore’s history and heritage. Dr Chand’s donation to the library’s Donor Collection augments the growing collection of research materials gifted by authors associated with Singapore’s literary development.
 </span>
 
-<br>
 <div style="background-color: white;">
 <img src="/images/Vol-15-issue-2/on-writers-and-manuscripts/Writers5.jpg" style="width: 100px; height: 100px;">
 <b>Dr Meira Chand</b>’s nine novels reflect her multicultural experiences, having lived in Japan and India before moving to Singapore in 1997. A National Library Distinguished Reader, she has a PhD in creative writing from the University of Western Australia and is actively engaged in nurturing young Singaporean writers.
