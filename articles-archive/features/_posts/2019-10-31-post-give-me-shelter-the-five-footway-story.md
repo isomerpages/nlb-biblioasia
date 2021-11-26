@@ -5,7 +5,7 @@ permalink: /vol-15/issue-3/oct-dec-2019/give-me-shelter-stry/
 image: /images/Vol-15-issue-3/give-me-shelter/Shelter1.JPG
 layout: post
 ---
-#### The five-footway – the equivalent to the modern-day pavement or sidewalk – was a hotly contested space in colonial Singapore. Fiona Lim relives its colourful history.
+#### The five-footway – the equivalent to the modern-day pavement or sidewalk – was a hotly contested space in colonial Singapore. **Fiona Lim** relives its colourful history.
 
 <img src="/images/Vol-15-issue-3/give-me-shelter/Shelter1.JPG">
 <div style="background-color: white;">Paintng of a row of shophouses and the fve-footway running along the facade. <i>Image reproduced from Morton-Cameron, W.H., & Feldwick, W. (Eds.). (2012). Present Day Impressions of the Far
