@@ -174,7 +174,7 @@ Feng Tianwei was part of Singapore’s women’s table tennis team that won a si
 
 <div style="background-color: white;">
 <br/>
-<img style="width:70%" src="/images/vol-11-issue-2/sgsportgreat/Joseph_Schooling.jpg">
+<img style="width:75%" src="/images/vol-11-issue-2/sgsportgreat/Joseph_Schooling.jpg">
 2014 Asian Games gold medallist Joseph Schooling is arguably the most successful product among our US-based swimmers. <i>Courtesy of Singapore National Olympic Council, image by Danny Toh from the book 50est:</i> Stirring Stories For The Singapore Soul.
 </div>
 
