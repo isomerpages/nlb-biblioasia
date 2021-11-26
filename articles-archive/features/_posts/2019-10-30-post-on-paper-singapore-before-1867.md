@@ -174,20 +174,12 @@ A series of programmes has been organised in conjunction with the exhibition, in
 <br><br>
 	The accompanying book, also called <i>On Paper: Singapore Before 1867</i>, features a small selection of the items being shown at the exhibition, illuminated by essays written by librarians, archivists and scholars.
 <br><br>
-The book is not for sale but is available for reference at the Lee Kong Chian Reference Library (Call no.: RSING 959.9703 ON) and for loan at selected public libraries (Call no.: SING 959.9703 ON). Borrow the ebook via the NLB Mobile app or read it online at [BookSG](https://eresources.nlb.gov.sg/printheritage/detail/594f089e-283a-4386-b865-7c4b9e359ff3.aspx).
+The book is not for sale but is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (Call nos.: RSING 959.9703 ON and SING 959.9703 ON).
 </span>
 <br>
 <div style="background-color: white;">
-<img src="/images/Vol-15-issue-3/" style="width: 100px; height: 100px;">
-<b>Dr Azhar Ibrahim</b> is a lecturer in the Department of Malay Studies, National University of Singapore; his research interests include religion and society.</div>
-<br><br>
-<div style="background-color: white;">
-<img src="/images/Vol-15-issue-3/on-paper-singapore-before-1867/OnPaper12.jpg" style="width: 100px; height: 100px;">
-<b>Georgina Wong</b> is an Assistant Curator with the National Library, Singapore, and co-curator of the exhibition, “On Paper: Singapore Before 1867”.</div>
-<br><br>
-<div style="background-color: white;">
-<img src="/images/Vol-15-issue-3/on-paper-singapore-before-1867/OnPaper13.jpg" style="width: 100px; height: 100px;">
-<b>Gracie Lee</b> is a Senior Librarian with the National Library, Singapore. She works with the rare materials collections, and her research areas include Singapore’s publishing history and the Japanese Occupation.
+	<b>Georgina Wong</b> is an Assistant Curator with the National Library, Singapore, and co-curator of the exhibition, “On Paper: Singapore Before 1867”; <b>Dr Azhar Ibrahim</b> is a lecturer in the Department of Malay Studies, National University of Singapore; his research interests include religion and society; <b>Assoc Prof Peter Borschberg</b> teaches
+in the Department of History, National University of Singapore, specialising in Europe-Asia interaction, trade, exploration and cartography; <b>Gracie Lee</b> is a Senior Librarian with the National Library, Singapore, where she works with the Rare Materials Collection.
 </div>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-15/issue-3/oct-dec-2019/"><center>Back to Issue</center></a>
