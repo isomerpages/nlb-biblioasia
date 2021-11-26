@@ -6,7 +6,7 @@ layout: post
 ---
 #### Why recall traumatic memories of war when it is painful for both perpetrators and victims? **Kwok Kian Woon** considers the stakes in remembering and understanding war experiences in times of relative peace.
 
-<div style="background-color: white;"><br><img src="/images/Vol-15-issue-1/the-unresolved-past/01_unresolvedpast.jpg">80-year-old Madam Ng Kuai Chee leaning against an urn at the Civilian War Memorial on Beach Road on 15 February 1975, on the occasion of the 33rd anniversary of the fall of Singapore on 15 February 1942. Her late husband Dr Hum Wai was killed by the Japanese. <i>Source: The Straits Times © Singapore Press Holdings Limited. Reprinted with permission.</i></div>
+<div style="background-color: white;"><br><img style="width:600px" src="/images/Vol-15-issue-1/the-unresolved-past/01_unresolvedpast.jpg">80-year-old Madam Ng Kuai Chee leaning against an urn at the Civilian War Memorial on Beach Road on 15 February 1975, on the occasion of the 33rd anniversary of the fall of Singapore on 15 February 1942. Her late husband Dr Hum Wai was killed by the Japanese. <i>Source: The Straits Times © Singapore Press Holdings Limited. Reprinted with permission.</i></div>
 
 At a Singapore Writers Festival panel in 2018, the eminent historian Wang Gungwu was asked: “What is the one thing that keeps you awake at night?” He replied without hesitation: “The drums of war.”
 
