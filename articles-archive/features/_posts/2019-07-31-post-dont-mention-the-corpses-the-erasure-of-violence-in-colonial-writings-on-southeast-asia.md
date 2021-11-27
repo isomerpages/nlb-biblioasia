@@ -105,9 +105,13 @@ The works of Raffles, Low and St John, however, pose a far greater challenge. In
 [^6]:Marryat, F.S. (1848). [*Borneo and the Indian Archipelago: With drawings of costume and scenery.*](http://eresources.nlb.gov.sg/printheritage/detail/1241258d-ede5-4447-98a2-0da3bbbbd8d4.aspx) London: Longman, Brown, Green, and Longmans. Retrieved from BookSG.
 [^7]:[Keppel](http://eresources.nlb.gov.sg/printheritage/detail/ceb5ab1e-7701-4713-8334-8c45536d8a36.aspx?s=the%20expedition%20to%20borneo%20of), 1846, vol. II, pp. 67, 69.
 [^8]:[Keppel](http://eresources.nlb.gov.sg/printheritage/detail/ceb5ab1e-7701-4713-8334-8c45536d8a36.aspx?s=the%20expedition%20to%20borneo%20of), 1846, vol. II, p. 231.
-[^9]:Raffles, S.T. (1817; reprint 1830). The history of Java ([vol. I](http://eresources.nlb.gov.sg/printheritage/detail/6d15e65a-d692-4496-b15f-58bb9db11a11.aspx?s=history%20of%20java) and [vol. II](http://eresources.nlb.gov.sg/printheritage/detail/160111b1-4e0f-4a49-806e-1b565679415f.aspx?s=history%20of%20java); 2nd ed.). London: J. Murray. Retrieved from BookSG.
-[^10]:
-[^11]:
-
-Low, H. (1848; reprint 1990). Sarawak: Its inhabitants and productions. Petaling Jaya: Delta. (Call no.: RSEA 915.954043 LOW-[TRA])
-Spencer, B.S.J. (1862). Life in the forests of the Far East. London: Smith, Elder. (Microfilm no.: NL3636)
+[^9]:Raffles, S.T. (1817; reprint 1830). *The history of Java* ([vol. I](http://eresources.nlb.gov.sg/printheritage/detail/6d15e65a-d692-4496-b15f-58bb9db11a11.aspx?s=history%20of%20java) and [vol. II](http://eresources.nlb.gov.sg/printheritage/detail/160111b1-4e0f-4a49-806e-1b565679415f.aspx?s=history%20of%20java); 2nd ed.). London: J. Murray. Retrieved from BookSG.
+[^10]:Low, H. (1848; reprint 1990). [*Sarawak: Its inhabitants and productions*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5537770). Petaling Jaya: Delta. (Call no.: RSEA 915.954043 LOW-[TRA]).
+[^11]:Spencer, B.S.J. (1862). *Life in the forests of the Far East*. London: Smith, Elder. (Microfilm no.: NL3636)
+[^12]:Carey, P.B.R. (Ed.). (1992). [*The British in Java, 1811–1816: A Javanese account*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4457019). London: Oxford University Press. (Call no.: RSING 325.341095982 PAN).
+[^13]:Hannigan, T. (2012). [*Raffles and the British invasion of Java*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14517491). Singapore: Monsoon Books. (Call no.: RSEA 959.82 HAN).
+[^14]:[Hannigan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14517491), 2012, pp. 208–209.
+[^15]:[Low](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5537770), 1848, p. xix.
+[^16]:Knapman, G. (2017). [*Race and British colonialism in Southeast Asia, 1770–1870: John Crawfurd and the politics of equality*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202670828) (pp. 158–160, 161). London: Routledge. (Call no.: RSING 325.01 KNA). Knapman notes that Brooke had demanded payment from Rajah Muda in the form of a transaction of antimony. Upon his return to Sarawak, Rajah Muda was unable or unwilling to abide by their deal, and that was used as the justification for Brooke’s attack on the Raja Muda’s compound and his threat to begin an uprising.
+[^17]:[Low](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5537770), 1848, p. xix.
+[^18]:Swettenham, F.A. (1907). *British Malaya: An account of the origin and progress of British influence in Malaya*. London; New York: John Lane. (Microfilm no.: NL19101).
