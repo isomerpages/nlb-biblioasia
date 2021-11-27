@@ -77,3 +77,85 @@ Following the end of World War II, Chen stayed in China until 1947, when she lef
 <br>
 <img src="/images/Vol-15-issue-2/artist-extraordinaire/Artist5.JPG">
 <div style="background-color: white;"> Georgette Chen. <i>Singapore Waterfront</i>. c. 1963. Oil on canvas, 50 x 61 cm. Gift of Lee Foundation. Collection of National Gallery Singapore. <i>Courtesy of National Heritage Board.</i></div>
+
+While Chen was immediately enthralled by this new land and enjoyed her life in Penang immensely, the experience was marred by growing strife in her marriage. Her relationship with Ho was increasingly plagued by bitter arguments over issues like money (she suspected Ho to have an ulterior motive) and her continued use of Eugene’s surname. Chen’s eventual decision to part with Ho was further complicated by intransigence on his part, and it was only after a lengthy, draining process that the couple were eventually divorced in 1953, after six years of marriage. In the same year, Chen moved to Singapore.
+
+Chen arrived in Singapore with renewed hope for a peaceful life. In a letter to friends in early 1954, she said: “With my regained liberty, I now look forward to a simple, useful, and creative existence for the remaining short years that are left”.13 She rented a house in Sennett Estate and took up part-time teaching at the Nanyang Academy of Fine Arts, a move that would allow her to pursue her art independently while supporting herself financially.
+
+She frequently described this arrangement in her letters as allowing her to have “bread without butter”, and with characteristic good humour, often added, “I don’t like butter much anyway, too fattening!”14 Despite the toll of age and debilitating rheumatoid arthritis (a condition that began in her 40s), Chen adopted a simpler lifestyle – one far removed from the material comforts of yesteryear – with bravado, relishing even “the ordinary chores of life”.15
+
+#### **Paradise on Earth**
+
+“So you can see why I am fast becoming a tropical plant and desire nothing more than to spend the rest of life painting the vivid motifs of this multi-racial paradise of perpetual sunshine”.16
+
+The simple, satisfied existence in Malaya that Chen often spoke of was due to her art, which flourished in this land she now called home. From the 1950s to the 70s, she firmly established herself artistically, creating many of the pain­tings she is known for today. This would, arguably, not have been possible if she had not settled down in Malaya: so closely intertwined was her art with its people and places.
+
+Chen, in turn, would increasingly identify herself as being a part of this land, a new citizen who set out to learn the mother tongue Malay, print her own batik and adopt the Malay *nom de plume* of Chendana (which refers to fragrant sandalwood), becoming, in a sense, the metaphorical tropical plant she often wrote about in her letters. Her art and life were an indivisible whole that was inextricably linked to the land she had settled into.
+
+Chen’s enchantment with Malaya was, in fact, already apparent when she first arrived in Penang in 1951 with Ho. In a letter written a few months after her arrival, she had gushed about her new home:
+
+“I have always had a sort of weakness for this little island while passing through it on my many journeys westward and hoped that some day, I may have more than just a glance at it. It is called the ‘pearl of the East’ or ‘Paradise on Earth’ not without reason. If Malaya does not prove to be a fruitful period for me artistically, it shall not be for the lack of beauty which seems to be everywhere… The waterfront with the rows of Malayan straw huts bathing right in the water whose color is green and violet, make me shout with excitement each time I pass them by… As to the great variety of fruits, with their strange, new, and unexpected forms, they are not only wonderful to look at but delicious to eat! I have been introduced to the Durian fruit and consider that my life has been enriched by it!”17
+
+<img src="/images/Vol-15-issue-2/artist-extraordinaire/Artist6.JPG">
+<div style="background-color: white;"> Georgette Chen. <i>Self-Portrait</i>. c. 1946. Oil on canvas, 22.5 x 17.5 cm. Gift of Lee Foundation. Collection of National Gallery Singapore. <i>Courtesy of National Heritage Board.</i></div>
+
+The inspirations and attractions that Malaya afforded clearly invigorated Chen. She made no secret of the “inexhaustible motifs”18 that she found in this “seasonless newfoundland”,19 which she embraced wholeheartedly. Tropical fruits in their bright colours and variegated forms take centre stage in her still life paintings. These are accompanied by depictions of daily scenes: from a bustling outdoor market to a *satay* seller working by the beach, to the Singapore River. Chen’s portraits, which she was frequently commissioned to make, form another compelling body of work; whether they portray her family and friends (including the first prime minister of Malaysia, Tunku Abdul Rahman) or strangers, these depictions are warm and intimate, sometimes capturing their subjects in the middle of private, interior moments.
+
+Chen often professed, in letters to friends, of her desire to spend the rest of her life depicting Malaya and its motifs. This desire was, however, stymied by age and debilitating illness. She battled rheumatoid arthritis from her 40s until death. The condition, which had also afflicted her father, caused much pain and lack of mobility (in one account, a severe attack in her knees left her “hobbling on a stick for months and months”20), which, although controlled by medication, worsened over the years. This was in part and, quite ironically, due to the medicine that Chen was taking religiously, a side effect of which was osteoporosis.
+
+Despite having to deal with the painful condition alone, Chen remained strong and gentle in spirit; it is in this regard, perhaps, that her writing is most instructive, for it reveals her character in a way that her paintings arguably could not. In letters to friends, Chen often spoke about how “life is anguish and blessings all intermingled which we must accept and carry on as best we can”.21 True to this proclamation, she seemed to accept her adversities stoically, however big or small, and forge ahead. The measure of Chen’s inner strength further comes through in the self-deprecating humour evident in her writing. In a letter to Patricia Kennison, one of her students who later became a close friend, she compared herself to an old, worn machine:
+
+“My ‘full form’ can partly be explained by the fact that friends always revive me, for there are times when I do feel quite PATRAQUE, to use an apt French word. (patraque: both a’s are short. Said of a machine that functions badly because it is badly made or old.) But on the whole the slow coach has gone fairly well after its last major repair though the rounds have not been reduced”.22
+
+As Chen alluded to in her letter, it was the simple joy of friendship – in addition to art and a home she loved – that helped sustain her through adversity.
+
+<img src="/images/Vol-15-issue-2/artist-extraordinaire/Artist7.JPG">
+<div style="background-color: white;">Georgette Chen. <i>East Coast Vendor</i>. 1961. Oil on canvas, 92 x 73 cm. Collection of National Gallery Singapore. <i>Courtesy of National Heritage Board..</i></div>
+
+#### **The Last Chapter**
+
+In an introspective moment while writing to Eugene’s cousin Dorothy Lee in 1967, Chen, then 61, offered what could be described as a summary of her remarkable life:
+
+“I shall be glad to leave my pictures to Singapore and Malaysia as my little contribution to this tropical land in which I have found rehabilitation. This last chapter of mine on this ‘treasure island’ which I call my ‘Tahiti’ (Tahiti, as you know, is another tropical island where the French painter Gauguin adopted as his new home) has been creative and peaceful. Here, I have stood on my own two feet, albeit arthritic, and I have cut a happy coat with his colorful tropical cloth at my disposal. I have tried to pursue my work to the best of my ability, I have continued to be myself seeking neither fame nor riches. Art like love and friendship or religion is a pursuit of love and devotion. I have respected and cherished my friends and have tried hard not to take advantage of them and their love has kept me alive. Sometimes when I think that I am the product of four world events, all wars – two Chinese revolutions, the one of Dr Sun and Mao Tse-tung and the 1st and second World Wars in all of which I have been inexorably involved, the wonder is that my profession should have been one of good-will and peace! Only God can answer for these paradoxes…”23
+
+In 1981, Chen suffered a serious fall. She was hospitalised and required hospice care for the next 12 years until her passing in March 1993 at age 87. Following Chen’s death, 53 of her paintings as well as a voluminous archive of her personal papers and belongings were bequeathed to Singapore. Georgette Chen’s love for and gratitude to this land – “this tropical land in which I have found rehabilitation” – had finally come full circle.24
+
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
+	<b>SPEAKING OF…</b>
+<br><br>
+Georgette Chen is the first artist featured in <i>The Artist Speaks</i>, a series of books published by the National Gallery Singapore featuring visual artists who write.
+<br><br>
+<i>The Artist Speaks: Georgette Chen</i> draws upon the National Gallery’s extensive archive of materials on the artist dating from the 1930s to the 1970s. The collection consists of Chen’s journals, photographs, official records, newspaper clippings, personal belongings – including her beloved Hermes Baby typewriter and Malay books, among others – as well as carbon copies of some 1,000 letters that Chen had written to friends and family between 1949 and 1972.
+<br><br>
+	<img src="/images/Vol-15-issue-2/artist-extraordinaire/Artist8.JPG"><i>The Artist Speaks: Georgette Chen</i> is the first title in the eponymous series published by National Gallery Singapore. The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (Call nos.: RSING 741.595957 ART and SING 741.595957 ART). Other artists in the series include Chua Ek Kay, one of Singapore’s most esteemed Chinese ink practitioners, and the late performance artist Lee Wen
+	<br><br>
+The book also draws from materials held in the collections of the National Library and National Archives, including the oral history interview that art historian Constance Sheares conducted with Chen in 1988.25 Other resources in the National Library include a video on Chen produced by the Singapore Art Museum for the National Library Board in 2008;26 a biographical account of Chen’s life authored by Jane Chia in 1997;27 and the catalogue accompanying the 1985 retrospective exhibition of more than 170 of Chen’s works at the National Museum Art Gallery.28
+</span>
+<div style="background-color: white;">
+<img src="/images/Vol-15-issue-2/artist-extraordinaire/Artist9.jpg" style="width: 100px; height: 100px;">
+<b>Sara Siew</b> is a writer and editor at the National Gallery Singapore. She is interested in the relationship between various forms of art, particularly intersections of the visual and the literary.
+</div>
+
+<a href="https://biblioasia.nlb.gov.sg/vol-15/issue-2/jul-sep-2019/"><center>Back to Issue</center></a>
+
+#### **NOTES**
+[^1]:Chen, G. (1974, April 12). *Georgette Chen to Dorothy and Lucille Lee* [Letter]. Retrieved from National Gallery Singapore. Dorothy Lee was the cousin of Eugene Chen, Georgette’s first husband, and Lucille was Dorothy’s daughter. Georgette often addressed Dorothy as her cousin, keeping in touch with her for many years after Eugene Chen’s passing; she once told her stepmother that Dorothy was “just like a sister” to her.
+[^2]:Chen, G. (1953, September 7.) *Chen’s personal transcript of her interview with Radio Malaya*. Retrieved from National Gallery Singapore.
+[^3]:Huang, L. (1959, August 30). [I meet the remarkable Mrs Chen](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19590830-1.2.43). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
+[^4]:Sheares, C. (Interviewer). (1988, November 2). [*Oral history interview with Georgette Liying Chen*](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/9/9ed2a0cb-115f-11e3-83d5-0050568939ad-OHC000956_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=9) [Transcript of recording no. 000956/6/1, p. 6]. Retrieved from National Archives of Singapore website.
+[^5]:Chen, G. (1959, October 27). *Georgette Chen to Hsu Mingmeo* [Letter]. Retrieved from National Gallery Singapore. Hsu was a friend of Eugene Chen’s and a medical doctor who modernised medicine in China. He was also the author of *Dr Wu Lien Teh: The Plague Fighter*. In the letter, Georgette was wishing Hsu success with a book he was writing, possibly a novel titled *Five Years in Love*.
+[^6]:
+[^7]:
+[^8]:
+[^9]:
+[^10]:
+
+
+
+
+
+Sheares, C. (Interviewer). (1988, November 2). Oral history interview with Chen, Georgette Liying [Transcript of recording no. 000956/6/2, p. 16]. Retrieved from National Archives of Singapore website.
+Chen, G. (n.d.). Recollections of Eugene Chen by his widow, notes for Dr Wu Lien-Teh’s book. Retrieved from National Gallery Singapore.
+Chen, G. (1953, March 25). Diary of 1953 [Diary]. Retrieved from National Gallery Singapore.
+The word “interviews” came from Georgette. See Chen, G. (1961, February 15). Georgette Chen to Mr and Mrs Kan [Letter]. Retrieved from National Gallery Singapore.
+Chen, G. (1961, February 15). Georgette Chen to Mr and Mrs Kan [Letter]. Retrieved from National Gallery Singapore.
