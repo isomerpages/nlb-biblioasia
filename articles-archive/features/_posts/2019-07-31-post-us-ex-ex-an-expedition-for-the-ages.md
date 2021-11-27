@@ -196,23 +196,23 @@ A companion book of the same title will be launched in conjunction with the exhi
 <a href="https://biblioasia.nlb.gov.sg/vol-15/issue-2/jul-sep-2019/"><center>Back to Issue</center></a>
 
 #### **NOTES**
-[^1]:
-[^2]:
-[^3]:
-[^4]:
-[^5]:
-[^6]:
-[^7]:
-[^8]:
-[^9]:
+[^1]:Wilkes, C. (1842). *Synopsis of the cruise of the U.S. Exploring Expedition during the years 1838, ’39, ’40, ’41 & ’42 delivered before the National Institute by its Commander Charles Wilkes on the twentieth of June 1842 to which is added a list of officers and scientific corps attached to the expedition* (p. 6). Washington, DC: Peter Force. Retrieved from Internet Archive.
+[^2]:Herman Melville’s nephew, Hunn Gansevoort, was on the Wilkes expedition, but he detached with a sick ticket within 11 months. Melville incorporated aspects from the Ex. Ex. into his masterpiece, *Moby Dick*.
+[^3]:Stanton, W. (1975). *The Great United States Exploring Expedition of 1838–1842* (p. 63). Berkeley, Los Angeles; London: University of California Press. (Not available in NLB holdings).
+[^4]:The roster of the civilian corps, as it appeared on the date of sailing and as it remained for the most part throughout the voyage was as follows: Charles Pickering and Titian Peale (naturalists), Joseph Couthouy (conchologist), James Dana (mineralogist and geologist), William Brackenridge (horticulturist), William Rich (botanist), Horatio Hale (philologist), Joseph Drayton and Alfred Agate (artists/draughtsmen). See Feipel, L.N. (1914). The Wilkes Exploring Expedition. Its Progress through Half a Century: 1826 1876. *United States Naval Institute Proceedings*, XL, pp. 1323–50. (Not available in NLB holdings)
+[^5]:USS *Porpoise* and USS *Oregon* had arrived in Singapore almost a month earlier on 22 January 1842 and USS *Flying Fish* on 16 February 1842.
+[^6]:King, H.G.R. (1979, January). Autobiography of Charles Wilkes – Autobiography of Rear Admiral Charles Wilkes, US Navy, 1798–1877, edited by W.J. Morgan, D.B. Tyler, J. L. Leonhart, and M.F. Loughlin. Washington: Naval History Division, Department of the Navy. *Polar Record, 19* (121), pp. 396–397. (Not available in NLB holdings).
+[^7]:Wilkes, C. (1845). *Narrative of the United States’ Exploring Expedition*, *During the years 1838, 1839, 1840, 1841, 1842* (vols. I to V). Philadelphia: Lea and Blanchard. Retrieved from Internet Archive. NLB has the [condensed and abridged version](http://eresources.nlb.gov.sg/printheritage/detail/38a84384-a022-43b2-8369-62176ff2c16a.aspx) published by Whittaker and Co. in London, 1845. Chapter 38 is on Singapore. This book can be retrieved from BookSG.
+[^8]:Wilkes, 1845, vol. V, p. 411.
+[^9]:Wilkes, 1842, p. 40.
 [^10]:
-Wilkes, C. (1842). Synopsis of the cruise of the U.S. Exploring Expedition during the years 1838, ’39, ’40, ’41 & ’42 delivered before the National Institute by its Commander Charles Wilkes on the twentieth of June 1842 to which is added a list of officers and scientific corps attached to the expedition (p. 6). Washington, DC: Peter Force. Retrieved from Internet Archive.
-Herman Melville’s nephew, Hunn Gansevoort, was on the Wilkes expedition, but he detached with a sick ticket within 11 months. Melville incorporated aspects from the Ex. Ex. into his masterpiece, Moby Dick.
-Stanton, W. (1975). The Great United States Exploring Expedition of 1838–1842 (p. 63). Berkeley, Los Angeles; London: University of California Press. (Not available in NLB holdings)
-The roster of the civilian corps, as it appeared on the date of sailing and as it remained for the most part throughout the voyage was as follows: Charles Pickering and Titian Peale (naturalists), Joseph Couthouy (conchologist), James Dana (mineralogist and geologist), William Brackenridge (horticulturist), William Rich (botanist), Horatio Hale (philologist), Joseph Drayton and Alfred Agate (artists/draughtsmen). See Feipel, L.N. (1914). The Wilkes Exploring Expedition. Its Progress through Half a Century: 1826 1876. United States Naval Institute Proceedings, XL, pp. 1323–50. (Not available in NLB holdings)
-USS Porpoise and USS Oregon had arrived in Singapore almost a month earlier on 22 January 1842 and USS Flying Fish on 16 February 1842.
-King, H.G.R. (1979, January). Autobiography of Charles Wilkes – Autobiography of Rear Admiral Charles Wilkes, US Navy, 1798–1877, edited by W.J. Morgan, D.B. Tyler, J. L. Leonhart, and M.F. Loughlin. Washington: Naval History Division, Department of the Navy. Polar Record, 19 (121), pp. 396–397. (Not available in NLB holdings)
-Wilkes, C. (1845). Narrative of the United States’ Exploring Expedition, During the years 1838, 1839, 1840, 1841, 1842 (vols. I to V). Philadelphia: Lea and Blanchard. Retrieved from Internet Archive. NLB has the condensed and abridged version published by Whittaker and Co. in London, 1845. Chapter 38 is on Singapore. This book can be retrieved from BookSG.
-Wilkes, 1845, vol. V, p. 411.
-Wilkes, 1842, p. 40.
+
+
+
+
+
+
+
+
+
 Wilkes, 1845, vol. V, p. 411.
