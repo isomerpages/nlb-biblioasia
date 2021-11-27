@@ -14,7 +14,7 @@ layout: post
 
 – Robert Bartlett,The Making of Europe (1993)
 
-<img src="/images/Vol-15-issue-2/dont-mention-the-corpses/Corpses2.JPG">
+<img style="width: 600px; height: 400px;" src="/images/Vol-15-issue-2/dont-mention-the-corpses/Corpses2.JPG">
 <div style="background-color: white;">The court of the Sultan of Borneo, with the audience chamber filled with natives, all well dressed and armed. The sultan sits cross-legged on the throne at the upper end of the chamber. Frank Marryat describes him as being bald and dressed in a “loose jacket and trousers or purple satin, richly embroidered with gold, a close-fitting vest of gold cloth, and a light cloth turban on his head”. <i>Image reproduced from Marryat, F.S. (1848). Borneo and the Indian Archipelago: With Drawings of Costume and Scenery (p. 109). London: Longman, Brown, Green, and Longmans. Retrieved from BookSG.</i></div>
 
 Among the many outcomes of the colonial era in Southeast Asia – from the 18th to the 19th century – is a body of writing that can be best described as colonial literature. By this I am referring not only to the accounts that were written by intrepid European travellers who ventured to this region, but also the writings of colonial bureaucrats, colony-builders and administrators, and the men who took part in the conquest of the region by force of arms.
@@ -49,7 +49,7 @@ Among the books written about colonial Southeast Asia where we see a near-total 
 
 The same cannot be said of Raffles’s work. Although Raffles had claimed that he had amassed more information about Java than any other European in his time, *The History of Java* does not elaborate on how all that data was collected and how the treasure horde of Javanese antiquities – including statuary, manuscripts, royal regalia and jewellery, among other items – was put together by Raffles for his own research and his private collection.
 
-<img src="/images/Vol-15-issue-2/dont-mention-the-corpses/Corpses3.JPG">
+<img style="width: 600px; height: 400px;" src="/images/Vol-15-issue-2/dont-mention-the-corpses/Corpses3.JPG">
 <div style="background-color: white;">(Left) A Javanese man of the lower classes. <i>Image reproduced from Raffles, S.T. (1817). The History of Java (Vol. I) (p. 84). London: J. Murray. Retrieved from Internet Archive.</i><br>
 (Right) A Loondoo Dayak of Borneo, whom Frank Marryat described as being “copper-coloured, and extremely ugly: their hair jet black, very long, and falling down to the back; eyes were also black, and deeply sunk in the head, giving a vindictive appearance to the countenance; nose flattened; mouth very large; the lips of a bright vermilion, from the chewing of betel-nut; and, to add to their ugliness, their teeth black, and filed to sharp points”. <i>Image reproduced from Marryat, F.S. (1848). Borneo and the Indian Archipelago: With Drawings of Costume and Scenery (facing p. 5). London: Longman, Brown, Green, and Longmans. Retrieved from BookSG.</i></div>
 
@@ -73,7 +73,7 @@ What is totally absent from Low’s rose-tinted account of Brooke’s rise to pr
 
 Such sanitised colonial propaganda would become the norm in the decades to come. In 1862, yet another hagiographic account of the Brooke legend appeared in the form of Spenser St John’s two-volume work, *Life in the Forests of the Far East*. In this work, St John repeated the familiar trope of Brooke as the white saviour whose presence alone would restore order – which was in turn framed in bold relief against a backdrop of “savage” Bornean natives and “treacherous” Bruneians and Chinese. That Sarawak’s story could only have a fairytale ending seems obvious when we consider that the story was told in conjunction with other tales of the Empire.
 
-<img src="/images/Vol-15-issue-2/dont-mention-the-corpses/Corpses4.JPG">
+<img style="width: 300px; height: 400px;" src="/images/Vol-15-issue-2/dont-mention-the-corpses/Corpses4.JPG">
 <div style="background-color: white;">A painting of James Brooke, the “White Rajah” of Sarawak, by Francis Grant, 1847. Brooke took Sarawak by force in 1841. The land was not gifted to him, as some colonial writers have claimed. <i>Image from Wikimedia Commons.</i></div>
 
 In order for the story of benevolent imperial intervention to make sense, it was necessary to have as its counterpart the story of native malevolence and decline; and more perceptive readers of the works of Low and St John will be able to see that both writers have woven a number of complex narratives that developed in tandem with one another.
