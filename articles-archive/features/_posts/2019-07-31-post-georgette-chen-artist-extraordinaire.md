@@ -47,11 +47,14 @@ Despite their vastly different professions, the two were aligned in their mutual
 
 Despite their 30-year age difference, and the initial disapproval of Chen’s father at their pairing, the couple found in each other “the closest of companions”,7 and were married in Paris in 1930. Chen would take on Eugene’s surname and retain it even when she remarried after his death.
 
-The revelatory nature of the written word – even of life at its most mundane – is exemplified in Chen’s writings. The simple, sequestered joys that she shared with Eugene in Paris were rarely mentioned publicly; rather, they were expressed in diaries where she recorded the minutiae of everyday life with her husband – from giving him a haircut to talking a walk together to search for pineapples and avocados for a still-life painting. In one candid entry, she wrote: “Begin small canvas of E portrait. Poses so badly & talks  all  the time”.8
+The revelatory nature of the written word – even of life at its most mundane – is exemplified in Chen’s writings. The simple, sequestered joys that she shared with Eugene in Paris were rarely mentioned publicly; rather, they were expressed in diaries where she recorded the minutiae of everyday life with her husband – from giving him a haircut to talking a walk together to search for pineapples and avocados for a still-life painting. In one candid entry, she wrote: “Begin small canvas of E portrait. Poses so badly & talks all the time”.8
 
 Chen recorded not just details of her daily life but also, significantly, information on her art and the subjects she was studying or portraying, with descriptions such as “roses still-life 10F” and “nature morte 6F”, terms that likely refer to standard French canvas sizes. On occasion, she would also briefly mention if her painting or study was successful, or if it had to be executed again. These details, which Chen recorded dispassionately and faithfully, offer precious insights into the often hidden and banal aspects of artistic practice, as well as the hard work and dedication behind an artist’s craft.
 
 Over time, Chen’s writings also bear silent witness to the progression of her career: while early diary entries speak of these attempts and studies, later accounts (which appeared in letters to family and friends instead) describe the pieces she was commissioned to create, her attempts at juggling painting and teaching, and the tedium of preparing for exhibitions or judging on committees.
+
+<img src="/images/Vol-15-issue-2/artist-extraordinaire/Artist3.JPG">
+<div style="background-color: white;">Georgette Chen, c. 1950s. <i>Courtesy of National Gallery Singapore.</i></div>
 
 Chen’s blissful life in Paris as a happy newlywed and an emerging artist was soon compromised by the outbreak of the Second Sino-Japanese War in 1937. In 1941, while she and Eugene were living in Hong Kong, they were detained by the Japanese and placed under house arrest before being moved to Shanghai, where they were interned until 1944.
 
@@ -61,10 +64,16 @@ During their time in the Chinese city, Eugene was often called up for “intervi
 
 Eugene Chen passed away in 1944 at the age of 66 due to ill health. He was still under house arrest in Shanghai at the time.
 
-Peace in a New Land
+#### **Peace in a New Land**
 
 “We have all found peace of mind in a land which is not our own…”11
 
 When Chen wrote these words in a letter to Dorothy Lee, Eugene’s cousin, in 1961, she was 55 years old and living alone in Singapore. Much had transpired in the 17 years since her husband’s death, bringing her serendipitously to a Southeast Asian island that was worlds away from the cities she had known: Paris, Shanghai and New York.
 
 Following the end of World War II, Chen stayed in China until 1947, when she left for New York. That same year, she married Dr Ho Yung Chi, Eugene Chen’s colleague and an old mutual friend of theirs. Together, Chen and Ho lived in New York then Paris, all the while bearing hopes of eventually returning to China. However, in the absence of better prospects in China, the couple eventually decided to take up an offer to teach at Han Chiang High School in Penang, Malaya, arriving in 1951 to what Chen described as “a beautiful tropical island which I call my Tahiti”.12
+
+<img src="/images/Vol-15-issue-2/artist-extraordinaire/Artist4.JPG">
+<div style="background-color: white;">Georgette Chen painting Tunku Abdul Rahman in Kuala Lumpur, June 1956. Also pictured is the Tunku’s wife, Sharifah Rodziah. The Tunku first met Georgette and Eugene Chen in 1931 on a ship from Marseilles, Paris, to Singapore. He noted that Chen had a “beautiful and charming” presence, and attributed his political awakening to her husband. <i>Courtesy of National Gallery Singapore.</i></div>
+<br>
+<img src="/images/Vol-15-issue-2/artist-extraordinaire/Artist5.JPG">
+<div style="background-color: white;"> Georgette Chen. <i>Singapore Waterfront</i>. c. 1963. Oil on canvas, 50 x 61 cm. Gift of Lee Foundation. Collection of National Gallery Singapore. <i>Courtesy of National Heritage Board.</i></div>
