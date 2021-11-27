@@ -6,7 +6,7 @@ layout: post
 ---
 #### **Sara Siew** examines the link between visual art and the written word through the fascinating story of Singaporean artist Georgette Chen.
 
-<img style="width: 700px; height: 400px;" src="/images/Vol-15-issue-2/artist-extraordinaire/Artist1.JPG">
+<img style="width: 700px; height: 430px;" src="/images/Vol-15-issue-2/artist-extraordinaire/Artist1.JPG">
 <div style="background-color: white;">Georgette Chen said that France was in a way her home. She knew Brittany, in the northwest of France, best besides Paris, having spent many years of her childhood in St Enogat, a village near the beachside suburb of Dinard. Georgette Chen. Coast of Brittany. c. 1930. Oil on canvas, 54 x 65 cm. Gift of Lee Foundation. Collection of National Gallery Singapore. <i>Courtesy of National Heritage Board.</i></div>
 
 Artists express themselves in a variety of ways. Although art is the most obvious of these, some artists also rely on the medium of words as a means of self-expression. From private musings and working notes to published essays and interviews, many artists have chronicled their experiences, thoughts and feelings through the written and spoken word.
