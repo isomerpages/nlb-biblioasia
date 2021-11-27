@@ -104,10 +104,10 @@ The works of Raffles, Low and St John, however, pose a far greater challenge. In
 [^5]:Brooke, J., & Mundy, G.R. (1848). *Narrative of events in Borneo and Celebes, down to the occupation of Labuan […]* (Vol. II; 2nd ed.). London: John Murray. (Microfilm no.: NL7435).
 [^6]:Marryat, F.S. (1848). [*Borneo and the Indian Archipelago: With drawings of costume and scenery.*](http://eresources.nlb.gov.sg/printheritage/detail/1241258d-ede5-4447-98a2-0da3bbbbd8d4.aspx) London: Longman, Brown, Green, and Longmans. Retrieved from BookSG.
 [^7]:[Keppel](http://eresources.nlb.gov.sg/printheritage/detail/ceb5ab1e-7701-4713-8334-8c45536d8a36.aspx?s=the%20expedition%20to%20borneo%20of), 1846, vol. II, pp. 67, 69.
-[^8]:
-[^9]:
+[^8]:[Keppel](http://eresources.nlb.gov.sg/printheritage/detail/ceb5ab1e-7701-4713-8334-8c45536d8a36.aspx?s=the%20expedition%20to%20borneo%20of), 1846, vol. II, p. 231.
+[^9]:Raffles, S.T. (1817; reprint 1830). The history of Java ([vol. I](http://eresources.nlb.gov.sg/printheritage/detail/6d15e65a-d692-4496-b15f-58bb9db11a11.aspx?s=history%20of%20java) and [vol. II](http://eresources.nlb.gov.sg/printheritage/detail/160111b1-4e0f-4a49-806e-1b565679415f.aspx?s=history%20of%20java); 2nd ed.). London: J. Murray. Retrieved from BookSG.
 [^10]:
-[^11]:Keppel, 1846, vol. II, p. 231.
-Raffles, S.T. (1817; reprint 1830). The history of Java (vol. I and vol. II; 2nd ed.). London: J. Murray. Retrieved from BookSG.
+[^11]:
+
 Low, H. (1848; reprint 1990). Sarawak: Its inhabitants and productions. Petaling Jaya: Delta. (Call no.: RSEA 915.954043 LOW-[TRA])
 Spencer, B.S.J. (1862). Life in the forests of the Far East. London: Smith, Elder. (Microfilm no.: NL3636)
