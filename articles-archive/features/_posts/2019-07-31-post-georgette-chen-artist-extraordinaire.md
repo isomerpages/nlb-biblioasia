@@ -144,18 +144,18 @@ The book also draws from materials held in the collections of the National Libra
 [^3]:Huang, L. (1959, August 30). [I meet the remarkable Mrs Chen](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19590830-1.2.43). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
 [^4]:Sheares, C. (Interviewer). (1988, November 2). [*Oral history interview with Georgette Liying Chen*](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/9/9ed2a0cb-115f-11e3-83d5-0050568939ad-OHC000956_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=9) [Transcript of recording no. 000956/6/1, p. 6]. Retrieved from National Archives of Singapore website.
 [^5]:Chen, G. (1959, October 27). *Georgette Chen to Hsu Mingmeo* [Letter]. Retrieved from National Gallery Singapore. Hsu was a friend of Eugene Chen’s and a medical doctor who modernised medicine in China. He was also the author of *Dr Wu Lien Teh: The Plague Fighter*. In the letter, Georgette was wishing Hsu success with a book he was writing, possibly a novel titled *Five Years in Love*.
-[^6]:
-[^7]:
-[^8]:
-[^9]:
-[^10]:
-
-
-
-
-
-Sheares, C. (Interviewer). (1988, November 2). Oral history interview with Chen, Georgette Liying [Transcript of recording no. 000956/6/2, p. 16]. Retrieved from National Archives of Singapore website.
-Chen, G. (n.d.). Recollections of Eugene Chen by his widow, notes for Dr Wu Lien-Teh’s book. Retrieved from National Gallery Singapore.
-Chen, G. (1953, March 25). Diary of 1953 [Diary]. Retrieved from National Gallery Singapore.
-The word “interviews” came from Georgette. See Chen, G. (1961, February 15). Georgette Chen to Mr and Mrs Kan [Letter]. Retrieved from National Gallery Singapore.
-Chen, G. (1961, February 15). Georgette Chen to Mr and Mrs Kan [Letter]. Retrieved from National Gallery Singapore.
+[^6]:Sheares, C. (Interviewer). (1988, November 2). [*Oral history interview with Chen, Georgette Liying*](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/0/0ea9406c-115e-11e3-83d5-0050568939ad-OHC000956_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=7) [Transcript of recording no. 000956/6/2, p. 16]. Retrieved from National Archives of Singapore website.
+[^7]:Chen, G. (n.d.). *Recollections of Eugene Chen by his widow, notes for Dr Wu Lien-Teh*’s book. Retrieved from National Gallery Singapore.
+[^8]:Chen, G. (1953, March 25). *Diary of 1953* [Diary]. Retrieved from National Gallery Singapore.
+[^9]:The word “interviews” came from Georgette. See Chen, G. (1961, February 15). *Georgette Chen to Mr and Mrs Kan* [Letter]. Retrieved from National Gallery Singapore.
+[^10]:Chen, G. (1961, February 15). *Georgette Chen to Mr and Mrs Kan* [Letter]. Retrieved from National Gallery Singapore.
+[^11]:
+[^12]:
+[^13]:
+[^14]:
+[^15]:
+[^16]:
+[^17]:
+[^18]:
+[^19]:
+[^2]:
