@@ -7,7 +7,7 @@ layout: post
 #### The Wilkes Expedition – as it is popularly known – vastly expanded the borders of scientific learning. **Vidya Schalk** explains how this historic American naval mission between 1838 and 1842 is linked to Singapore. 
 
 <img src="/images/Vol-15-issue-2/an-expedition-for-the-ages/Ex1.JPG">
-<div style="background-color: white;"></i></div>
+<div style="background-color: white;">A painting of the USS <i>Vincennes</i> in Disappointment Bay, Antarctica, c. 1840, based on a sketch by Lt. Charles Wilkes. The ship was a 127-foot (39 m) Boston-class sloop-of-war carrying a crew of 190. This was the flagship under the command of Lt. Wilkes. <i>Image from Wikimedia Commons.</i></div>
 
 In early 1842, almost 500 naval officers, sailors and scientists from the United States visited Singapore on their way home after an epic four-year voyage of discovery. They were members of the United States Exploring Expedition, part of the last All Sail Naval Squadron to circumnavigate the globe and the first-ever scientific mission mounted by the fairly young nation (the country had achieved independence in 1776).
 
@@ -64,3 +64,39 @@ The U.S. Ex. Ex. set sail at 3 pm on 18 August 1838 from New York. From the east
 The gales and terrible weather, however, forced the ships to turn back but not without the tragic loss of the USS *Sea Gull*: its 15 men on board were never seen again. The rest of the fleet sailed to Peru and headed westwards to survey and explore the Tuamotu and Society islands in the South Pacific, before moving on to Tahiti and Samoa, and finally arriving in Sydney, Australia, in November 1839.
 
 The fleet sailed into Sydney harbour in the middle of the night. Delighted to be at a port where English was spoken, the Americans took every opportunity to enjoy the sights. They also noted that rum was used as a medium of exchange; with a population of 24,000 in the city, it seemed there was a tavern for every 100 inhabitants.
+
+<img src="/images/Vol-15-issue-2/an-expedition-for-the-ages/Ex4.JPG">
+<div style="background-color: white;">A map showing the major geographical features of the Antarctic continent. Wilkes Land, as indicated along the southwestern coast of East Antarctica, occupies an area of almost 2.6 million sq km. <i>Image from Wikimedia Commons.</i></div>
+
+From Sydney, the U.S. Ex. Ex. launched a second encounter to the Antarctic on 26 December 1839. Well stocked with 10 months of provisions in case they became trapped in ice, the expedition proceeded south. On 19 January 1840, land was identified at roughly 160 degrees east and 67 degrees south. Wilkes surveyed and mapped nearly 1,500 miles (2,414 km) of the Antarctic coastline – considered a remarkable achievement to this day – providing substantial proof that Antarctica is a continent. In honour of Lt. Charles Wilkes, a million square miles (almost 2,600,000 sq km) of land on East Antarctica is named Wilkes Land.
+
+From the icy waters of the Antarctic, the U.S. Ex. Ex. sailed towards New Zealand and then to the Fiji Islands, where four months were spent on detailed surveying. Altogether, 50 reefs and 154 islands were carefully mapped, but a bloody encounter between the crew members of the expedition and the Fijians would mar this accomplishment. The Fijians had a reputation as cannibals. At first the crew thought these were mere myths but soon realised that the reports were true. As the fleet was preparing to leave Fiji in July 1840, two of its officers, one of them Wilkes’ nephew, were killed by the islanders while bartering for food on Malolo Island. In the subsequent disproportionate reprisal by the Americans, some 60 islanders lost their lives.
+
+Leaving Fiji behind, the expedition headed to Hawaii and from there to survey and chart the American Pacific Northwest in April 1841. From California, the fleet briefly returned to Honolulu and proceeded to Manila in the Philippines. By then, time was running out for the expedition. Wilkes had promised the crew that they would return to the US by the end of May 1842, and the men were eager to get home.
+
+The U.S. Ex. Ex. left Manila in January 1842, making their way home via the Sulu Sea. When Sultan Jamal ul-Kiram I of Sulu sent word that he was interested in establishing closer trading ties with the US, Wilkes signed a peace and trade treaty with the king, which gave protection to US vessels and a shorter passage to Manila and on to Canton (now Guangzhou) in China.
+
+Heading south, on their return journey, the fleet made one last stop in Singapore before returning to the US. The expedition’s documentation of Singapore constitutes one of the first primary accounts of Singapore by Americans.
+
+#### **Singapore Stopover**
+
+On 19 February 1842, the USS *Vincennes* with Wilkes on board arrived in Singapore,5 then part of the Straits Settlements together with Malacca and Penang. Wilkes was warmly received by the US consul Joseph Balestier, his wife Maria Revere – the daughter of the famous American patriot Paul Revere – and son Joseph. The two men had become acquainted some years earlier in Washington prior to Balestier’s arrival in Singapore. In fact, Wilkes had provided Balestier with information on the region, including a copy of the best map he had at the time. Balestier reciprocated Wilkes’ kindness by hosting him in Singapore. Years later, when Wilkes wrote his autobiography, he would make special mention of a huge cabinet presented to him by Mrs Balestier, fashioned out of “woods of this country [Singapore]”.6
+
+Wilkes and his crew were so fascinated with Singapore that he dedicated an entire chapter to the island in his “Narrative” of the expedition.7 Several astute observations were made by Wilkes and the crew during their brief stay here. It is remarkable that several of these observations hold true almost 200 years later.
+
+#### ***A Colourful Melting Pot***
+
+The crew was amazed by the confluence of races, languages and cultures in Singapore and the peaceful coexistence among the people, the “rarity of quarrels between different races and religions owning to the consideration of the place being neutral ground”. They were also “struck with the order and good behaviour existing among such an incongruous mass of human being[s]… speaking a vast variety of tongues, and some of who would infallibly have been at war with each other elsewhere”.8 Wilkes called Singapore the “Babel of the East”.9 
+
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
+<br><br>
+	A Sizeable Fleet
+
+Most European exploring expeditions in the 19th century used modestly sized ships. But the US Navy went one up by assembling a squadron of six sailing vessels with officers, crew and scientists numbering almost 500 strong, making it one of the largest voyages of discovery in the history of Western exploration. The original fleet comprised the following:
+
+The USS Vincennes, a fast 127-foot Boston-class sloop-of-war with a crew of 190. This was the flagship under the command of Lt. Charles Wilkes.
+The 118-foot USS Peacock, a slightly smaller, full-rigged sloop-of-war rebuilt for the expedition, and manned by a crew of 130. (When the Peacock ran aground on 18 July 1841, the USS Oregon, an 85-foot brigantine, accommodated the officers and crew of the lost ship.)
+The two-masted 88-foot brigantine USS Porpoise with a crew of 65.
+The USS Relief, a slow 109-foot supply ship with a crew of 75.
+Two small 70-foot schooners, USS Sea Gull and USS Flying Fish, each manned by a crew of 15. (Sea Gull went missing on 8 May 1839 when it was caught in a storm.)
+</span>
