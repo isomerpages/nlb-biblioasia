@@ -215,14 +215,24 @@ A companion book of the same title will be launched in conjunction with the exhi
 [^17]:Wilkes, 1845, vol. V, p. 404; Colvocoresses, G.M. (1855). *Four years in the Government Exploring Expedition; commanded by Captain Charles Wilkes, to the island of Madeira, Cape Verd Island, Brazil…* (5th edition; p. 348). New York: J.M. Fairchild. Retrieved from Hathi Trust Digital Library.
 [^18]:Wilkes, 1845, vol. V, p. 410. [Note: Muharram is the first month of the Islamic calendar. On the first day of Muharram, the Islamic new year is celebrated. The 10th day of Muharram is known as the day of Ashura, which commemorates the death of Husayn ibn Ali, a grandson of Prophet Muhammad.]
 [^19]:Wilkes, 1845, vol. V, p. 428.
-[^2]:
-
-
-
-
-
-
-
-
-
-Colvocoresses, 1855, p. 346.
+[^20]:Colvocoresses, 1855, p. 346.
+[^21]:
+[^22]:
+[^23]:
+[^24]:
+[^25]:
+[^26]:
+[^27]:
+[^28]:
+[^29]:
+[^30]:
+Of interest to note is that when the American Board of Commissioners for Foreign Missions Singapore mission station shut down in 1843, Houghton Library of Harvard University became the repository of the remaining archives and contains many valuable manuscripts.
+Wilkes, 1845, vol. V, p. 420.
+Teeuw, A. (1967). Korte Mededelingen: Malay Manuscripts in the Library of Congress. Bijdragen tot de taal-, land-, en volkenkunde, 123 (4), pp. 517–520. Retrieved from JSTOR; Rony, A. K. (1991) Malay manuscripts and early printed books at the Library of Congress. Indonesia, Vol. 52, pp. 123–134. Retrieved from JSTOR.
+NLB also has the 1840 edition which has been digitised. See Munshi Abdullah. (1840). Sejarah Melayu. Singapore: Mission Press. Retrieved from BookSG.
+NLB does not have the 1843 edition. NLB’s 1849 edition has been digitised. See Abdullah Abdul Kadir. (1849). Hikayat Abdullah. Singapore: Mission Press. Retrieved from BookSG.
+NLB does not have the 1838 edition. NLB’s 1865 edition has not been digitised, but a microfilm copy is available. See Hikayat Amir Hamzah. (1865). [S.I.: s.n.]. (Mcrofilm no.: NL1886)
+NLB does not have the 1838 edition. Instead see this edition: Muhammad Said. (199-). Hikayat Johor dan tawarikh al Marhum Sulan Abu Bakar. London: Oriental and India Office Collections, Reference Service Division, British Library. (Call no.: Malay RCLOS 959.511903 MUH)
+Viola, H.J., & Margolis, C. (Eds.). (1985). Magnificent voyagers: The U.S. Exploring Expedition, 1838–1842 (p. 197). Washington, D.C.: Smithsonian Institution Press. (Not available in NLB holdings)
+Only 100 copies were produced in 1844, and thus were much sought after. Beyond the five initial volumes, there were 24 additional volumes planned covering topics such as ethnography, mammalogy, ornithology, geology and botany, but not all were eventually published.
+Also known as leapfrogging, this was a military strategy employed by the Allies in the Pacific War against the Axis powers (most notably Japan) during World War II. The goal was to control strategic islands, island-by-island, using each as a base along a path towards Japan with the eventual aim of bringing US bombers within range of an invasion.
