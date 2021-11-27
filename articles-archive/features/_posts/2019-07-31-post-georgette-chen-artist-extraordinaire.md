@@ -6,7 +6,7 @@ layout: post
 ---
 #### **Sara Siew** examines the link between visual art and the written word through the fascinating story of Singaporean artist Georgette Chen.
 
-<img src="/images/Vol-15-issue-2/artist-extraordinaire/Artist1.JPG">
+<img style="width: 700px; height: 400px;" src="/images/Vol-15-issue-2/artist-extraordinaire/Artist1.JPG">
 <div style="background-color: white;">Georgette Chen said that France was in a way her home. She knew Brittany, in the northwest of France, best besides Paris, having spent many years of her childhood in St Enogat, a village near the beachside suburb of Dinard. Georgette Chen. Coast of Brittany. c. 1930. Oil on canvas, 54 x 65 cm. Gift of Lee Foundation. Collection of National Gallery Singapore. <i>Courtesy of National Heritage Board.</i></div>
 
 Artists express themselves in a variety of ways. Although art is the most obvious of these, some artists also rely on the medium of words as a means of self-expression. From private musings and working notes to published essays and interviews, many artists have chronicled their experiences, thoughts and feelings through the written and spoken word.
@@ -53,7 +53,7 @@ Chen recorded not just details of her daily life but also, significantly, inform
 
 Over time, Chen’s writings also bear silent witness to the progression of her career: while early diary entries speak of these attempts and studies, later accounts (which appeared in letters to family and friends instead) describe the pieces she was commissioned to create, her attempts at juggling painting and teaching, and the tedium of preparing for exhibitions or judging on committees.
 
-<img src="/images/Vol-15-issue-2/artist-extraordinaire/Artist3.JPG">
+<img style="width: 350px; height: 450px;" src="/images/Vol-15-issue-2/artist-extraordinaire/Artist3.JPG">
 <div style="background-color: white;">Georgette Chen, c. 1950s. <i>Courtesy of National Gallery Singapore.</i></div>
 
 Chen’s blissful life in Paris as a happy newlywed and an emerging artist was soon compromised by the outbreak of the Second Sino-Japanese War in 1937. In 1941, while she and Eugene were living in Hong Kong, they were detained by the Japanese and placed under house arrest before being moved to Shanghai, where they were interned until 1944.
@@ -72,10 +72,10 @@ When Chen wrote these words in a letter to Dorothy Lee, Eugene’s cousin, in 19
 
 Following the end of World War II, Chen stayed in China until 1947, when she left for New York. That same year, she married Dr Ho Yung Chi, Eugene Chen’s colleague and an old mutual friend of theirs. Together, Chen and Ho lived in New York then Paris, all the while bearing hopes of eventually returning to China. However, in the absence of better prospects in China, the couple eventually decided to take up an offer to teach at Han Chiang High School in Penang, Malaya, arriving in 1951 to what Chen described as “a beautiful tropical island which I call my Tahiti”.[^12]
 
-<img src="/images/Vol-15-issue-2/artist-extraordinaire/Artist4.JPG">
+<img style="width: 600px; height: 400px;" src="/images/Vol-15-issue-2/artist-extraordinaire/Artist4.JPG">
 <div style="background-color: white;">Georgette Chen painting Tunku Abdul Rahman in Kuala Lumpur, June 1956. Also pictured is the Tunku’s wife, Sharifah Rodziah. The Tunku first met Georgette and Eugene Chen in 1931 on a ship from Marseilles, Paris, to Singapore. He noted that Chen had a “beautiful and charming” presence, and attributed his political awakening to her husband. <i>Courtesy of National Gallery Singapore.</i></div>
 <br>
-<img src="/images/Vol-15-issue-2/artist-extraordinaire/Artist5.JPG">
+<img style="width: 600px; height: 400px;" src="/images/Vol-15-issue-2/artist-extraordinaire/Artist5.JPG">
 <div style="background-color: white;"> Georgette Chen. <i>Singapore Waterfront</i>. c. 1963. Oil on canvas, 50 x 61 cm. Gift of Lee Foundation. Collection of National Gallery Singapore. <i>Courtesy of National Heritage Board.</i></div>
 
 While Chen was immediately enthralled by this new land and enjoyed her life in Penang immensely, the experience was marred by growing strife in her marriage. Her relationship with Ho was increasingly plagued by bitter arguments over issues like money (she suspected Ho to have an ulterior motive) and her continued use of Eugene’s surname. Chen’s eventual decision to part with Ho was further complicated by intransigence on his part, and it was only after a lengthy, draining process that the couple were eventually divorced in 1953, after six years of marriage. In the same year, Chen moved to Singapore.
@@ -96,7 +96,7 @@ Chen’s enchantment with Malaya was, in fact, already apparent when she first a
 
 “I have always had a sort of weakness for this little island while passing through it on my many journeys westward and hoped that some day, I may have more than just a glance at it. It is called the ‘pearl of the East’ or ‘Paradise on Earth’ not without reason. If Malaya does not prove to be a fruitful period for me artistically, it shall not be for the lack of beauty which seems to be everywhere… The waterfront with the rows of Malayan straw huts bathing right in the water whose color is green and violet, make me shout with excitement each time I pass them by… As to the great variety of fruits, with their strange, new, and unexpected forms, they are not only wonderful to look at but delicious to eat! I have been introduced to the Durian fruit and consider that my life has been enriched by it!”[^17]
 
-<img src="/images/Vol-15-issue-2/artist-extraordinaire/Artist6.JPG">
+<img style="width: 350px; height: 450px;" src="/images/Vol-15-issue-2/artist-extraordinaire/Artist6.JPG">
 <div style="background-color: white;"> Georgette Chen. <i>Self-Portrait</i>. c. 1946. Oil on canvas, 22.5 x 17.5 cm. Gift of Lee Foundation. Collection of National Gallery Singapore. <i>Courtesy of National Heritage Board.</i></div>
 
 The inspirations and attractions that Malaya afforded clearly invigorated Chen. She made no secret of the “inexhaustible motifs”[^18] that she found in this “seasonless newfoundland”,[^19] which she embraced wholeheartedly. Tropical fruits in their bright colours and variegated forms take centre stage in her still life paintings. These are accompanied by depictions of daily scenes: from a bustling outdoor market to a *satay* seller working by the beach, to the Singapore River. Chen’s portraits, which she was frequently commissioned to make, form another compelling body of work; whether they portray her family and friends (including the first prime minister of Malaysia, Tunku Abdul Rahman) or strangers, these depictions are warm and intimate, sometimes capturing their subjects in the middle of private, interior moments.
@@ -109,7 +109,7 @@ Despite having to deal with the painful condition alone, Chen remained strong an
 
 As Chen alluded to in her letter, it was the simple joy of friendship – in addition to art and a home she loved – that helped sustain her through adversity.
 
-<img src="/images/Vol-15-issue-2/artist-extraordinaire/Artist7.JPG">
+<img style="width: 350px; height: 450px;" src="/images/Vol-15-issue-2/artist-extraordinaire/Artist7.JPG">
 <div style="background-color: white;">Georgette Chen. <i>East Coast Vendor</i>. 1961. Oil on canvas, 92 x 73 cm. Collection of National Gallery Singapore. <i>Courtesy of National Heritage Board..</i></div>
 
 #### **The Last Chapter**
@@ -127,7 +127,7 @@ Georgette Chen is the first artist featured in <i>The Artist Speaks</i>, a serie
 <br><br>
 <i>The Artist Speaks: Georgette Chen</i> draws upon the National Gallery’s extensive archive of materials on the artist dating from the 1930s to the 1970s. The collection consists of Chen’s journals, photographs, official records, newspaper clippings, personal belongings – including her beloved Hermes Baby typewriter and Malay books, among others – as well as carbon copies of some 1,000 letters that Chen had written to friends and family between 1949 and 1972.
 <br><br>
-	<img src="/images/Vol-15-issue-2/artist-extraordinaire/Artist8.JPG"><i>The Artist Speaks: Georgette Chen</i> is the first title in the eponymous series published by National Gallery Singapore. The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (Call nos.: RSING 741.595957 ART and SING 741.595957 ART). Other artists in the series include Chua Ek Kay, one of Singapore’s most esteemed Chinese ink practitioners, and the late performance artist Lee Wen
+	<img style="width: 250px; height: 330px;" src="/images/Vol-15-issue-2/artist-extraordinaire/Artist8.JPG"><i>The Artist Speaks: Georgette Chen</i> is the first title in the eponymous series published by National Gallery Singapore. The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (Call nos.: RSING 741.595957 ART and SING 741.595957 ART). Other artists in the series include Chua Ek Kay, one of Singapore’s most esteemed Chinese ink practitioners, and the late performance artist Lee Wen
 	<br><br>
 The book also draws from materials held in the collections of the National Library and National Archives, including the oral history interview that art historian Constance Sheares conducted with Chen in 1988.[^25] Other resources in the National Library include a video on Chen produced by the Singapore Art Museum for the National Library Board in 2008;[^26] a biographical account of Chen’s life authored by Jane Chia in 1997;[^27] and the catalogue accompanying the 1985 retrospective exhibition of more than 170 of Chen’s works at the National Museum Art Gallery.[^28]
 </span>
