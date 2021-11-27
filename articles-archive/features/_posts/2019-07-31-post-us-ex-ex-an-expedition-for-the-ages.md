@@ -89,14 +89,42 @@ Wilkes and his crew were so fascinated with Singapore that he dedicated an entir
 The crew was amazed by the confluence of races, languages and cultures in Singapore and the peaceful coexistence among the people, the “rarity of quarrels between different races and religions owning to the consideration of the place being neutral ground”. They were also “struck with the order and good behaviour existing among such an incongruous mass of human being[s]… speaking a vast variety of tongues, and some of who would infallibly have been at war with each other elsewhere”.8 Wilkes called Singapore the “Babel of the East”.9 
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
+	<b>A SIZEABLE FLEET</b>
 <br><br>
-	A Sizeable Fleet
-
 Most European exploring expeditions in the 19th century used modestly sized ships. But the US Navy went one up by assembling a squadron of six sailing vessels with officers, crew and scientists numbering almost 500 strong, making it one of the largest voyages of discovery in the history of Western exploration. The original fleet comprised the following:
-
-The USS Vincennes, a fast 127-foot Boston-class sloop-of-war with a crew of 190. This was the flagship under the command of Lt. Charles Wilkes.
-The 118-foot USS Peacock, a slightly smaller, full-rigged sloop-of-war rebuilt for the expedition, and manned by a crew of 130. (When the Peacock ran aground on 18 July 1841, the USS Oregon, an 85-foot brigantine, accommodated the officers and crew of the lost ship.)
-The two-masted 88-foot brigantine USS Porpoise with a crew of 65.
-The USS Relief, a slow 109-foot supply ship with a crew of 75.
-Two small 70-foot schooners, USS Sea Gull and USS Flying Fish, each manned by a crew of 15. (Sea Gull went missing on 8 May 1839 when it was caught in a storm.)
+<br><br>
+– The USS <i>Vincennes</i>, a fast 127-foot Boston-class sloop-of-war with a crew of 190. This was the flagship under the command of Lt. Charles Wilkes.<br>
+– The 118-foot USS <i>Peacock</i>, a slightly smaller, full-rigged sloop-of-war rebuilt for the expedition, and manned by a crew of 130. (When the <i>Peacock</i> ran aground on 18 July 1841, the USS <i>Oregon</i>, an 85-foot brigantine, accommodated the officers and crew of the lost ship.)<br>
+– The two-masted 88-foot brigantine USS <i>Porpoise</i> with a crew of 65.<br>
+– The USS <i>Relief</i>, a slow 109-foot supply ship with a crew of 75.<br>
+– Two small 70-foot schooners, USS <i>Sea Gull</i> and USS <i>Flying Fish</i>, each manned by a crew of 15. (<i>Sea Gull</i> went missing on 8 May 1839 when it was caught in a storm.)
 </span>
+
+A Thriving Entrepôt
+
+Wilkes estimated there were at least 1,500–2,000 vessels in the port at any one time, with numerous prahu (wooden sailing boats) from neighbouring Riau and Lingga, Celebes, Flores, Timor, Ambon, Sumba and Lubok, and also from resource-rich Borneo. Popular goods imported from Riau and Lingga included pepper, rice, camphor, sago, coffee, nutmeg, oil, tobacco, biche-de-mer (sea cucumber), birds’ nests, tortoise shells, pearls, rattan, ivory, animal hides and sarongs, among other items.10 Boats from Papua and Aru brought birds of paradise flowers, which were found in abundance in the markets of Singapore.
+
+The expedition noted that “every avenue, arcade, or veranda approaching it [the bazaar] is filled with money-changers, and small-ware dealers, eager for selling European goods, Chinese toys, and many other attractive curiosities”.11
+
+Items from the Expedition
+Some of the items obtained by the Wilkes Expedition from Southeast Asia include the kris (dagger) and a model of a prahu (wooden sailing boat). These are currently kept at the Smithsonian’s National Museum of Natural History. Courtesy of Smithsonian Institution, National Museum of Natural History, Department of Anthropology (E3911-0 & E3893-0).
+Singapore was described as a thriving entrepôt, with arriving goods redistributed to other places, with hardly anything produced here. Vessels that called at the port were not charged duties on imports or exports, and the only questions asked were the contents of the cargo, the value of the goods and the size of the vessel. Such information was then published weekly in the newspaper, “so anyone may inform themselves of the charges he is liable to incur and of the advantages it has over the other ports in the Eastern seas”.12
+
+The era of steam-powered vessels was just starting to take off and Wilkes mentions that “during… [his] stay in Singapore, the subject of steam navigation was much talked of, and many projects appeared to be forming by which the settlement might reap the advantages of that communication, when established between India and China”.13
+
+A Place of Transience
+
+In 1842, the population in Singapore was recorded as 60,000, comprising 45,000 Chinese, 8,000 Malays and 7,000 Indians, with only one-tenth of the whole as female. The people were diverse, with Malays, Chinese, Hindus and Muslims, Jews, Armenians and Europeans, and Parsees, Bugis and Arabs. Wilkes wrote about the transient nature of the population, remarking that “no European looks upon the East as a home, and all those of every nation I met with invariably considered his sojourn temporary”.14 The Chinese, for instance, were likely to return home to China as soon they acquired a skill, even at the risk of being punished for having left their homeland illegally.
+
+Lush Flora and Fauna
+
+Wilkes and his men found the jungle undergrowth in the interior so impenetrable that no Europeans or natives had ever climbed Bukit Timah Hill, the highest point of the island even though it was only 500 ft (152 m) high. Tigers were not indigenous to Singapore, but the big cats had begun to swim across the narrow Johor Strait from the Malay Peninsula in search of food. Even criminals and thieves avoided their usual escape routes in the jungles for fear of tigers.
+
+Records of the crops grown here included ​nutmeg, coffee, black pepper, cocoa, gambier, gamboge (a kind of resin) and a variety of fruits. Timber was also an important cash crop, and highly prized for shipbuilding. The Americans noted an abundance of fruit in Singapore; they were told “that there are 120 kinds that can be served as a dessert”15 and they especially enjoyed pineapples. They collected many zoological, conchological and botanical specimens, including two species of the Nepenthe (pitcher plants) that were preserved and brought back to the US.
+
+A Vibrant Cultural Scene
+
+The arrival of the U.S. Ex. Ex. in Singapore coincided with the Chinese New Year celebrations. The eve fell on 21 February 1842, and the expedition members were awed by the processions of lanterns, noisy gongs and cymbals. Wilkes described the sight of “an immense illuminated sea-serpent” made of lanterns.16 The Americans were astonished at “the extent and earnestness with which gaming was carried [out] by the Chinese at every shop, bazaar and corner of almost every street with cards or dice… their whole soul seemed to be staked with their money”.17
+
+They also watched a Chinese opera and an Indian theatrical show that was performed by plantation workers on Balestier’s estate. In addition to Chinese New Year, the Americans also encountered Muharram processions.18 Wilkes observed men and boys playing football which he called “hobscob”, although it was most likely sepak takraw, a sport played with a rattan ball and native to the Malay Archipelago. The expedition also witnessed wedding and funeral processions, and even visited Chinese and Hindu cemeteries.
+
