@@ -149,13 +149,23 @@ The book also draws from materials held in the collections of the National Libra
 [^8]:Chen, G. (1953, March 25). *Diary of 1953* [Diary]. Retrieved from National Gallery Singapore.
 [^9]:The word “interviews” came from Georgette. See Chen, G. (1961, February 15). *Georgette Chen to Mr and Mrs Kan* [Letter]. Retrieved from National Gallery Singapore.
 [^10]:Chen, G. (1961, February 15). *Georgette Chen to Mr and Mrs Kan* [Letter]. Retrieved from National Gallery Singapore.
-[^11]:
-[^12]:
-[^13]:
-[^14]:
-[^15]:
-[^16]:
-[^17]:
+[^11]:Chen, G. (1961, January 2). *Georgette Chen to Dorothy Lee* [Letter]. Retrieved from National Gallery Singapore.
+[^12]:Chen, G. (1966, March 20). *Georgette Chen to Inez* [Letter]. Retrieved from National Gallery Singapore. Inez was a relative of Eugene Chen’s whom Georgette referred to as cousin, and whom she kept in touch with for many years even after Eugene’s death.
+[^13]:Chen, G. (1954, March 9). *Georgette Chen to “friends”* [Letter]. Retrieved from National Gallery Singapore.
+[^14]:Chen, G. (1961, February 6). *Georgette Chen to unidentifiable recipients* [Letter]. Retrieved from National Gallery Singapore.
+[^15]:Chen, G. (1960, December 24). *Georgette Chen to Pauline Chen and her family* [Letter]. Retrieved from National Gallery Singapore. Pauline Chen was one of Chen’s close friends. They first met shortly after Chen arrived in Penang in 1951. Pauline stood by Chen throughout her divorce and subsequent relocation to Singapore, maintaining a decades-long correspondence with her.
+[^16]:Chen, G. (1961, February 15). *Georgette Chen to Dr and Mrs Kan* [Letter]. Retrieved from National Gallery Singapore.
+[^17]:Chen, G. (1951, July 4). *Georgette Chen to unidentifiable recipients* [Letter]. Retrieved from National Gallery Singapore.
 [^18]:
 [^19]:
 [^2]:
+
+
+
+
+
+
+
+Chen, G. (1960, January 6). Georgette Chen to Joe [Letter]. Retrieved from National Gallery Singapore.
+Chen, G. (1968, February 29). Georgette Chen to Inez [Letter]. Retrieved from National Gallery Singapore.
+Chen, G. (1961, February 15). Georgette Chen to Dr and Mrs Kan [Letter]. Retrieved from National Gallery Singapore.
