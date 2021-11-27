@@ -140,3 +140,79 @@ One of the crew wrote that opium vendors would set up their “little table in t
 
 <img src="/images/Vol-15-issue-2/an-expedition-for-the-ages/Ex7.JPG">
 <div style="background-color: white;">Opium smoking was one of the social ills that plagued Singaporean society in the late 19th and early 20th centuries. <i>Courtesy of National Museum of Singapore, National Heritage Board.</i></div>
+
+#### **The Library of Congress and the Singapore Link**
+
+Wilkes and his team obtained a number of rare Malay and Bugis manuscripts and books with the help of the Singapore-based American missionary Alfred North.21 Some of these beautifully written manuscripts were described “as forming a collection which is said to be the largest now in being, that of Sir Stamford Raffles having been lost”.22 (Raffles’ precious collection of drawings, manuscripts, books and wildlife specimens were destroyed when the ship *Fame*, taking him and his family back to England, went up in flames and sank on 2 February 1824).
+
+Initially known as the “Smithsonian Deposit”, the manuscripts and books were transferred in 1866 to the Library of Congress (LOC) in Washington D.C. – the oldest federal cultural institution in the country and reputedly the largest library in the world – forming the first documented Asian books in its collection. The materials were rediscovered in 1966 when they came to the attention of scholars. They are now part of the Southeast Asia rare collections of the Asian Division of the LOC.23
+
+The Malay manuscripts at the LOC consist of 14 codices, six additional codices and a bound volume containing handwritten official correspondence and letters with official seals addressed to then British Resident in Singapore, William Farquhar. These were sent by heads of state in what are now Brunei, Cambodia, Malaysia and Indonesia, and are an important source of information about the early British colonial period in the region.
+
+Among the documents are seven letters from the Raja Bendahara of Johor-Pahang (1819–22), three letters from the Pangeran Dipati of Palembang (1819–22), and a letter from Sultana Siti Fatimah binti Jamaluddin Abdul Rahman of Pamanah dated 1822. There are also numerous letters from Riau dating from 1818, as well as those from Siak, Lingga, Terengganu and other places.
+
+<img src="/images/Vol-15-issue-2/an-expedition-for-the-ages/Ex8.JPG">
+<div style="background-color: white;">In Singapore, Charles Wilkes and his team obtained a number of rare documents with the help of American missionary Alfred North. One of these is a letter (shown here) from Sultan Ahmad of Terengganu to William Farquhar dated 29 Rejab 1234 (24 May 1819). <i>Farquhar Collection, Asian Division, courtesy of Library of Congress, Washington D.C.</i></div>
+
+Other treasures of note are two copies of the rare 1840 lithographed Mission Press edition of the *Sejarah Melayu* (*Malay Annals*) written in Jawi,24 a copy of the *Hikayat Abdullah* (1843) by Munshi Abdullah,25 as well as codices such as *Hikayat Amir Hamzah* (1838),26 *Hikayat Johor* (1838),27 *Hikayat Panca Tanderan* (1835), *Hikayat Patani* (1839), and a handcopied (by Munshi Abdullah) version of *Kitab Tib* from 1837.
+
+#### **Home at Last – But No Hero’s Welcome**
+
+The U.S. Ex. Ex. set off from Singapore on 26 February 1842 without the smallest ship in the fleet, the USS *Flying Fish*. She had been sold because her frame had weakened considerably and was unlikely to survive the perilous journey home around the Cape of Good Hope in the hurricane season.
+
+When the USS *Vincennes* finally pulled into New York harbour on 10 June 1842, there was no welcome ceremony or celebration after its nearly four-year sojourn. Much had changed politically in the country in the time Wilkes and his crew were away. Instead, Wilkes and several other officers were court-martialled for various charges – including abuse of power – that distracted from the achievements of the expedition. In the end, Wilkes was found not guilty on all counts, except for using excessive punishment on his men, for which he was reprimanded.
+
+In the days that followed, Wilkes marshalled the support of influential politicians to safeguard the discoveries of the expedition. It is to Wilkes’ credit that the first-ever national institutions in the US became home to the important collections that the U.S. Ex. Ex. had brought home, where their proper safekeeping and study could be ensured.
+
+Despite the dent to his reputation, Wilkes was placed in charge of the expedition’s collections on 1 August 1843.28 Once again, he was deemed the best person for the job and set about preserving and preparing the collection for display in addition to preparing reports and directing the production of the expedition charts. The “Collection of the Exploring Expedition” was displayed at the Patent Office Building in Washington D.C. until 1858 when it was transferred to the Smithsonian Institution which, together with artefacts from American history, influenced the early development of the institution.
+
+In 1844, the original and official (by the authority of Congress) publication of the expedition, titled *Narrative of the United States Exploring Expedition*, *During the Years 1838, 1839, 1840, 1841, 1842*, was assembled by Wilkes using the journals and records of his officers and others. The work was issued in five volumes with illustrations, maps and an atlas.29
+
+#### **The Legacy of the U.S. Ex. Ex.**
+
+The expedition was not an easy one by any measure – the gruelling four-year sea voyage saw the loss of close to 40 men and two ships, the USS *Sea Gull* and USS *Peacock*. Despite the immense challenges of the mission and the difficulties that beset Wilkes on his return, the accomplishments of the U.S. Ex. Ex. would go down in the annals of American history for its success in not only promoting American commerce and industry, but also for expanding the borders of scientific knowledge. Altogether, some 40 tons of material were brought back by the expedition, along with an astounding amount of data.
+
+<img src="/images/Vol-15-issue-2/an-expedition-for-the-ages/Ex9.JPG">
+<div style="background-color: white;">The items collected from the Wilkes Expedition were initially kept by the National Institute for the Promotion of Science. In 1858, the collection was transferred to the Smithsonian Institution and housed in the museum (seen here) in the Smithsonian Institution Building, nicknamed The Castle. <i>Image reproduced from Rhees, W.J. (1859). An account of the Smithsonian Institution, its founder, building, operations, etc.: prepared from the reports of Prof. Henry to the regents, and other authentic sources (p. 20). Washington: Thomas McGill. Retrieved from Internet Archive.</i></div>
+
+The team surveyed 280 Pacific islands, created 180 charts and logged 87,000 miles (140,013 km) without the use of modern navigation aids. The expedition also mapped 800 miles (1,287 km) of the Pacific Northwest coastline and 1,500 miles (2,414 km) of icebound and frozen Antarctica coast. A century later, during the Pacific campaign in World War II, the maps and charts created by the U.S. Ex. Ex. of the Pacific Islands (Tarawa, Gilbert and Marshall islands) would be used for the American island-hopping strategy during the war.30
+
+The Wilkes Expedition played an important role in the development of science not only in the US but the world over. By making its research publicly available, the expedition was also instrumental in the democratisation of science. The specimens and items amassed from the expedition formed the core collection of many departments at the Smithsonian Institution, and the work of the “Scientifics” would profoundly affect the subsequent development of American science and, by extension, all scientific discovery on the global stage.
+
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
+	<b>ON PAPER: SINGAPORE BEFORE 1867</b>
+<br><br>
+Among the rare manuscripts and documents that the U.S. Ex. Ex. obtained from Singapore and kept at the Library of Congress in Washington D.C. are official correspondence and letters addressed to British Resident William Farquhar. Seven of these letters will be on display at the National Library’s upcoming exhibition, “On Paper: Singapore Before 1867”, which opens on 28 September 2019 at level 10 of the National Library Building.
+<br><br>
+The exhibition will showcase over 100 items from the National Library, National Archives of Singapore and National Museum of Singapore, as well as from overseas institutions such as The British Library, National Library of the Republic of Indonesia and National Archives of the Netherlands. Comprising manuscripts, maps, letters, treaties, paintings, photographs and other forms of documentation, these paper artefacts trace the history of Singapore until its establishment as a Crown Colony on 1 April 1867.
+<br><br>
+A companion book of the same title will be launched in conjunction with the exhibition. For more details on the exhibition opening date, follow us on Facebook @NationalLibrarySG.
+</span>
+<div style="background-color: white;">
+<img src="/images/Vol-15-issue-2/an-expedition-for-the-ages/Ex10.jpg" style="width: 100px; height: 100px;">
+<b>Dr Vidya Schalk</b> is a research scientist and currently a lecturer in the School of Materials Science and Engineering at NTU, where she teaches a module on the History of Materials. She is also researching scientific and military United States naval expeditions of the 19th century.
+</div>
+
+<a href="https://biblioasia.nlb.gov.sg/vol-15/issue-2/jul-sep-2019/"><center>Back to Issue</center></a>
+
+#### **NOTES**
+[^1]:
+[^2]:
+[^3]:
+[^4]:
+[^5]:
+[^6]:
+[^7]:
+[^8]:
+[^9]:
+[^10]:
+Wilkes, C. (1842). Synopsis of the cruise of the U.S. Exploring Expedition during the years 1838, ’39, ’40, ’41 & ’42 delivered before the National Institute by its Commander Charles Wilkes on the twentieth of June 1842 to which is added a list of officers and scientific corps attached to the expedition (p. 6). Washington, DC: Peter Force. Retrieved from Internet Archive.
+Herman Melville’s nephew, Hunn Gansevoort, was on the Wilkes expedition, but he detached with a sick ticket within 11 months. Melville incorporated aspects from the Ex. Ex. into his masterpiece, Moby Dick.
+Stanton, W. (1975). The Great United States Exploring Expedition of 1838–1842 (p. 63). Berkeley, Los Angeles; London: University of California Press. (Not available in NLB holdings)
+The roster of the civilian corps, as it appeared on the date of sailing and as it remained for the most part throughout the voyage was as follows: Charles Pickering and Titian Peale (naturalists), Joseph Couthouy (conchologist), James Dana (mineralogist and geologist), William Brackenridge (horticulturist), William Rich (botanist), Horatio Hale (philologist), Joseph Drayton and Alfred Agate (artists/draughtsmen). See Feipel, L.N. (1914). The Wilkes Exploring Expedition. Its Progress through Half a Century: 1826 1876. United States Naval Institute Proceedings, XL, pp. 1323–50. (Not available in NLB holdings)
+USS Porpoise and USS Oregon had arrived in Singapore almost a month earlier on 22 January 1842 and USS Flying Fish on 16 February 1842.
+King, H.G.R. (1979, January). Autobiography of Charles Wilkes – Autobiography of Rear Admiral Charles Wilkes, US Navy, 1798–1877, edited by W.J. Morgan, D.B. Tyler, J. L. Leonhart, and M.F. Loughlin. Washington: Naval History Division, Department of the Navy. Polar Record, 19 (121), pp. 396–397. (Not available in NLB holdings)
+Wilkes, C. (1845). Narrative of the United States’ Exploring Expedition, During the years 1838, 1839, 1840, 1841, 1842 (vols. I to V). Philadelphia: Lea and Blanchard. Retrieved from Internet Archive. NLB has the condensed and abridged version published by Whittaker and Co. in London, 1845. Chapter 38 is on Singapore. This book can be retrieved from BookSG.
+Wilkes, 1845, vol. V, p. 411.
+Wilkes, 1842, p. 40.
+Wilkes, 1845, vol. V, p. 411.
