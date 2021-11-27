@@ -6,14 +6,14 @@ layout: post
 ---
 #### The Wilkes Expedition – as it is popularly known – vastly expanded the borders of scientific learning. **Vidya Schalk** explains how this historic American naval mission between 1838 and 1842 is linked to Singapore. 
 
-<img src="/images/Vol-15-issue-2/an-expedition-for-the-ages/Ex1.JPG">
+<img style="width: 700px; height: 430px;" src="/images/Vol-15-issue-2/an-expedition-for-the-ages/Ex1.JPG">
 <div style="background-color: white;">A painting of the USS <i>Vincennes</i> in Disappointment Bay, Antarctica, c. 1840, based on a sketch by Lt. Charles Wilkes. The ship was a 127-foot (39 m) Boston-class sloop-of-war carrying a crew of 190. This was the flagship under the command of Lt. Wilkes. <i>Image from Wikimedia Commons.</i></div>
 
 In early 1842, almost 500 naval officers, sailors and scientists from the United States visited Singapore on their way home after an epic four-year voyage of discovery. They were members of the United States Exploring Expedition, part of the last All Sail Naval Squadron to circumnavigate the globe and the first-ever scientific mission mounted by the fairly young nation (the country had achieved independence in 1776).
 
 Few people have heard of the Wilkes Expedition, its more commonly used name, and fewer still about the United States Exploring Expedition – or simply the U.S. Ex. Ex. Although the expedition became mired in controversy, it nonetheless left behind an important legacy in its meticulous documentation of the earth’s biodiversity. Among its contributions are the first-ever systematic mapping of the coastline of the US Pacific Northwest, the charting of some 1,500 miles (2,414 km) of the frozen Antarctic coast, and the first concrete proof that Antarctica is a continent.
 
-<img src="/images/Vol-15-issue-2/an-expedition-for-the-ages/Ex2.JPG">
+<img style="width: 350px; height: 450px;" src="/images/Vol-15-issue-2/an-expedition-for-the-ages/Ex2.JPG">
 <div style="background-color: white;">A sectional view of the earth showing the openings at the North and South poles. In 1818, American John C. Symmes put forward the “Holes in the Poles” theory. <i>Illustration reproduced from Seaborn, A. (1820). Symzonia: A Voyage of Discovery. New York: J. Seymour. Image from Wikimedia Commons.</i></div>
 
 #### **The Mission**
@@ -37,7 +37,7 @@ A full-blown controversy erupted when this was announced. Wilkes (see text box b
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
 <b>A MILITARY MAN AND A SCIENTIST</b>
 <br><br>
-	<img src="/images/Vol-15-issue-2/an-expedition-for-the-ages/Ex3.JPG">Portrait of Charles Wilkes
+	<img style="width: 320px; height: 400px;" src="/images/Vol-15-issue-2/an-expedition-for-the-ages/Ex3.JPG">Portrait of Charles Wilkes
 Portrait of Charles Wilkes painted by Thomas Sully and engraved by R.W. Dodson. The image appears in vol. I of Charles Wilkes’ <i>Narrative of the United States Exploring Expedition During the Years 1838, 1839, 1840, 1841, 1842</i>, published by Lea and Blanchard in 1845. <i>Retrieved from Internet Archive.</i>
 	<br><br>
 Lt. Charles Wilkes was 40 years old when he was given command of the U.S. Ex. Ex. in 1838. Wilkes was a military man and a scientist – a very exacting combination. He was also a proud man who firmly believed that no important accomplishment could be achieved without discipline. He demanded much of himself and those around him.
@@ -65,7 +65,7 @@ The gales and terrible weather, however, forced the ships to turn back but not w
 
 The fleet sailed into Sydney harbour in the middle of the night. Delighted to be at a port where English was spoken, the Americans took every opportunity to enjoy the sights. They also noted that rum was used as a medium of exchange; with a population of 24,000 in the city, it seemed there was a tavern for every 100 inhabitants.
 
-<img src="/images/Vol-15-issue-2/an-expedition-for-the-ages/Ex4.JPG">
+<img style="width: 300px; height: 300px;" src="/images/Vol-15-issue-2/an-expedition-for-the-ages/Ex4.JPG">
 <div style="background-color: white;">A map showing the major geographical features of the Antarctic continent. Wilkes Land, as indicated along the southwestern coast of East Antarctica, occupies an area of almost 2.6 million sq km. <i>Image from Wikimedia Commons.</i></div>
 
 From Sydney, the U.S. Ex. Ex. launched a second encounter to the Antarctic on 26 December 1839. Well stocked with 10 months of provisions in case they became trapped in ice, the expedition proceeded south. On 19 January 1840, land was identified at roughly 160 degrees east and 67 degrees south. Wilkes surveyed and mapped nearly 1,500 miles (2,414 km) of the Antarctic coastline – considered a remarkable achievement to this day – providing substantial proof that Antarctica is a continent. In honour of Lt. Charles Wilkes, a million square miles (almost 2,600,000 sq km) of land on East Antarctica is named Wilkes Land.
@@ -138,7 +138,7 @@ According to Wilkes’ account, opium smoking in Singapore was one of the most r
 
 One of the crew wrote that opium vendors would set up their “little table in the public street, with his box and scales upon it, and tempting samples of the “dreamy drug… A single glance of these opium dealers will convince you that they are their own best customers… [with] their soiled and disorderly dress, the palsied hand and pale cheek, the sunken eye and vacant stare…”[^20]
 
-<img src="/images/Vol-15-issue-2/an-expedition-for-the-ages/Ex7.JPG">
+<img style="width: 600px; height: 400px;" src="/images/Vol-15-issue-2/an-expedition-for-the-ages/Ex7.JPG">
 <div style="background-color: white;">Opium smoking was one of the social ills that plagued Singaporean society in the late 19th and early 20th centuries. <i>Courtesy of National Museum of Singapore, National Heritage Board.</i></div>
 
 #### **The Library of Congress and the Singapore Link**
@@ -151,7 +151,7 @@ The Malay manuscripts at the LOC consist of 14 codices, six additional codices a
 
 Among the documents are seven letters from the Raja Bendahara of Johor-Pahang (1819–22), three letters from the Pangeran Dipati of Palembang (1819–22), and a letter from Sultana Siti Fatimah binti Jamaluddin Abdul Rahman of Pamanah dated 1822. There are also numerous letters from Riau dating from 1818, as well as those from Siak, Lingga, Terengganu and other places.
 
-<img src="/images/Vol-15-issue-2/an-expedition-for-the-ages/Ex8.JPG">
+<img style="width: 350px; height: 450px;" src="/images/Vol-15-issue-2/an-expedition-for-the-ages/Ex8.JPG">
 <div style="background-color: white;">In Singapore, Charles Wilkes and his team obtained a number of rare documents with the help of American missionary Alfred North. One of these is a letter (shown here) from Sultan Ahmad of Terengganu to William Farquhar dated 29 Rejab 1234 (24 May 1819). <i>Farquhar Collection, Asian Division, courtesy of Library of Congress, Washington D.C.</i></div>
 
 Other treasures of note are two copies of the rare 1840 lithographed Mission Press edition of the *Sejarah Melayu* (*Malay Annals*) written in Jawi,[^24] a copy of the *Hikayat Abdullah* (1843) by Munshi Abdullah,[^25] as well as codices such as *Hikayat Amir Hamzah* (1838),[^26] *Hikayat Johor* (1838),[^27] *Hikayat Panca Tanderan* (1835), *Hikayat Patani* (1839), and a handcopied (by Munshi Abdullah) version of *Kitab Tib* from 1837.
@@ -172,7 +172,7 @@ In 1844, the original and official (by the authority of Congress) publication of
 
 The expedition was not an easy one by any measure – the gruelling four-year sea voyage saw the loss of close to 40 men and two ships, the USS *Sea Gull* and USS *Peacock*. Despite the immense challenges of the mission and the difficulties that beset Wilkes on his return, the accomplishments of the U.S. Ex. Ex. would go down in the annals of American history for its success in not only promoting American commerce and industry, but also for expanding the borders of scientific knowledge. Altogether, some 40 tons of material were brought back by the expedition, along with an astounding amount of data.
 
-<img src="/images/Vol-15-issue-2/an-expedition-for-the-ages/Ex9.JPG">
+<img style="width: 650px; height: 430px;" src="/images/Vol-15-issue-2/an-expedition-for-the-ages/Ex9.JPG">
 <div style="background-color: white;">The items collected from the Wilkes Expedition were initially kept by the National Institute for the Promotion of Science. In 1858, the collection was transferred to the Smithsonian Institution and housed in the museum (seen here) in the Smithsonian Institution Building, nicknamed The Castle. <i>Image reproduced from Rhees, W.J. (1859). An account of the Smithsonian Institution, its founder, building, operations, etc.: prepared from the reports of Prof. Henry to the regents, and other authentic sources (p. 20). Washington: Thomas McGill. Retrieved from Internet Archive.</i></div>
 
 The team surveyed 280 Pacific islands, created 180 charts and logged 87,000 miles (140,013 km) without the use of modern navigation aids. The expedition also mapped 800 miles (1,287 km) of the Pacific Northwest coastline and 1,500 miles (2,414 km) of icebound and frozen Antarctica coast. A century later, during the Pacific campaign in World War II, the maps and charts created by the U.S. Ex. Ex. of the Pacific Islands (Tarawa, Gilbert and Marshall islands) would be used for the American island-hopping strategy during the war.[^30]
