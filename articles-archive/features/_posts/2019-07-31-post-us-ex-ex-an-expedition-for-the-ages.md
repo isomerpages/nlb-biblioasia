@@ -205,7 +205,17 @@ A companion book of the same title will be launched in conjunction with the exhi
 [^7]:Wilkes, C. (1845). *Narrative of the United States’ Exploring Expedition*, *During the years 1838, 1839, 1840, 1841, 1842* (vols. I to V). Philadelphia: Lea and Blanchard. Retrieved from Internet Archive. NLB has the [condensed and abridged version](http://eresources.nlb.gov.sg/printheritage/detail/38a84384-a022-43b2-8369-62176ff2c16a.aspx) published by Whittaker and Co. in London, 1845. Chapter 38 is on Singapore. This book can be retrieved from BookSG.
 [^8]:Wilkes, 1845, vol. V, p. 411.
 [^9]:Wilkes, 1842, p. 40.
-[^10]:
+[^10]:Wilkes, 1845, vol. V, p. 411.
+[^11]:Wilkes, 1845, vol. V, p. 415.
+[^12]:Wilkes, 1845, vol. V, p. 423.
+[^13]:Wilkes, 1845, vol. V, p. 432.
+[^14]:Wilkes, 1845, vol. V, p. 415.
+[^15]:Wilkes, 1845, vol. V, p. 403.
+[^16]:Wilkes, 1845, vol. V, p. 408.
+[^17]:Wilkes, 1845, vol. V, p. 404; Colvocoresses, G.M. (1855). *Four years in the Government Exploring Expedition; commanded by Captain Charles Wilkes, to the island of Madeira, Cape Verd Island, Brazil…* (5th edition; p. 348). New York: J.M. Fairchild. Retrieved from Hathi Trust Digital Library.
+[^18]:Wilkes, 1845, vol. V, p. 410. [Note: Muharram is the first month of the Islamic calendar. On the first day of Muharram, the Islamic new year is celebrated. The 10th day of Muharram is known as the day of Ashura, which commemorates the death of Husayn ibn Ali, a grandson of Prophet Muhammad.]
+[^19]:Wilkes, 1845, vol. V, p. 428.
+[^2]:
 
 
 
@@ -215,4 +225,4 @@ A companion book of the same title will be launched in conjunction with the exhi
 
 
 
-Wilkes, 1845, vol. V, p. 411.
+Colvocoresses, 1855, p. 346.
