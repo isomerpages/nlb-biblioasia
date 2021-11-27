@@ -156,16 +156,14 @@ The book also draws from materials held in the collections of the National Libra
 [^15]:Chen, G. (1960, December 24). *Georgette Chen to Pauline Chen and her family* [Letter]. Retrieved from National Gallery Singapore. Pauline Chen was one of Chen’s close friends. They first met shortly after Chen arrived in Penang in 1951. Pauline stood by Chen throughout her divorce and subsequent relocation to Singapore, maintaining a decades-long correspondence with her.
 [^16]:Chen, G. (1961, February 15). *Georgette Chen to Dr and Mrs Kan* [Letter]. Retrieved from National Gallery Singapore.
 [^17]:Chen, G. (1951, July 4). *Georgette Chen to unidentifiable recipients* [Letter]. Retrieved from National Gallery Singapore.
-[^18]:
-[^19]:
-[^2]:
-
-
-
-
-
-
-
-Chen, G. (1960, January 6). Georgette Chen to Joe [Letter]. Retrieved from National Gallery Singapore.
-Chen, G. (1968, February 29). Georgette Chen to Inez [Letter]. Retrieved from National Gallery Singapore.
-Chen, G. (1961, February 15). Georgette Chen to Dr and Mrs Kan [Letter]. Retrieved from National Gallery Singapore.
+[^18]:Chen, G. (1960, January 6). *Georgette Chen to Joe* [Letter]. Retrieved from National Gallery Singapore.
+[^19]:Chen, G. (1968, February 29). *Georgette Chen to Inez* [Letter]. Retrieved from National Gallery Singapore.
+[^20]:Chen, G. (1961, February 15). *Georgette Chen to Dr and Mrs Kan* [Letter]. Retrieved from National Gallery Singapore.
+[^21]:Chen, G. (1969, February 24). *Georgette Chen to Dorothy Lee* [Letter]. Retrieved from National Gallery Singapore.
+[^22]:Chen, G. (1963, February 11). *Georgette Chen to Patricia Kennison* [Letter]. Retrieved from National Gallery Singapore. Kennison was one of Chen’s students at the Nanyang Academy of Fine Arts.
+[^23]:Chen, G. (1967, May 17). *Georgette Chen to Dorothy Lee* [Letter]. Retrieved from National Gallery Singapore.
+[^24]:Chen, G. (1967, May 17). *Georgette Chen to Dorothy Lee* [Letter]. Retrieved from National Gallery Singapore.
+[^25]:Sheares, C. (1988, November 2–1988, December 1). [*Oral history interview with Chen, Georgette Liying*](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/0ea9406c-115e-11e3-83d5-0050568939ad) [Accession no.: 000956, 6 reels]. Retrieved from National Archives of Singapore website.
+[^26]:Cheong, K., & Wang, Z. (2008). [*Georgette Chen, Cultural Medallion recipient 1982 visual arts*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13232604) [Videorecording]. Singapore: Singapore Art Museum for National Library Board. (Call no.: RSING 759.95959 GEO)
+[^27]:Chia, J. (1997). [*Georgette Chen*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=8379929). Singapore: Singapore Art Museum. (Call no.: RSING q759.95957 CHI).
+[^28]:[Georgette Chen retrospective, 1985](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4022881). (1985). Singapore: National Museum. (Call no.: RSING 759.95957 CHE)
