@@ -17,7 +17,7 @@ layout: post
 
 *Unfortunately for Huizhen, her parents think that Fusheng is a pleasant and well-educated person as he speaks and dresses well. Unbeknownst to Huizhen, her parents promise her hand to him in marriage.*
 
-The 1927 silent Chinese film *Xin Ke* (新客; *The Immigrant*) is believed to be the very first full-length feature film to have been made in Singapore and Malaya. *Xin Ke*, like most of the silent films produced globally between 1891 and the late 1920s, has likely not survived the passage of time due to the highly ephemeral nature of the material used back then.[^2] The items that are still extant today are the film’s Chinese intertitles (see text box overleaf), two synopses, a film still – all published in the local newspaper *Sin Kuo Min Press* (新国民日报)[^3] in 1926 – and photos of the film crew and cast.
+The 1927 silent Chinese film *Xin Ke* (新客; *The Immigrant*) is believed to be the very first full-length feature film to have been made in Singapore and Malaya. *Xin Ke*, like most of the silent films produced globally between 1891 and the late 1920s, has likely not survived the passage of time due to the highly ephemeral nature of the material used back then.[^2] The items that are still extant today are the film’s Chinese intertitles (see text box below), two synopses, a film still – all published in the local newspaper *Sin Kuo Min Press* (新国民日报)[^3] in 1926 – and photos of the film crew and cast.
 
 *Xin Ke* was produced by Liu Beijin (刘贝锦; 1902–59; also known as Low Poey Kim), a prominent Singapore-born entrepreneur. His father, Liu Zhuhou (刘筑侯), was an immigrant from Huyang, Yongchun, in Fujian province, who became one of the wealthiest rubber plantation owners in Muar, Malaya. Liu Beijin was also related to Liu Kang (刘抗; 1911–2004), the pioneer Singaporean artist (Liu Beijin’s and Liu Kang’s fathers were cousins).
 
@@ -28,7 +28,7 @@ Liu Beijin led a very comfortable lifestyle while growing up. He was born in Sin
 Liu was an amiable, well-educated and socially conscious person. He was also a polyglot – fluent in six languages, including English, Mandarin and Malay – and enjoyed dabbling in both business and the arts, particularly motion pictures.
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
-	<b>Intertitles from Xin Ke</b>
+	<b>INTERTITLES FROM XIN KE</b>
 	<br><br>
 In order to reach wider audiences, many silent Chinese movies exported from Shanghai in the 1920s and early 1930s for screening in the international market contained both Chinese and English intertitles.[^5]
 <br><br>
@@ -224,7 +224,7 @@ Tianxi: Don’t laugh at him. They don’t eat with bare hands in China. If you 
 </span>
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
-	<b>The art of intertitling</b>
+	<b>THE ART OF INTERTITLING</b>
 <br><br>
 In silent films, short lines of text are written or printed on cards, which are then filmed and inserted into the motion picture. During the silent-film era, these texts were called “subtitles”. Known as “intertitles” or “title cards” today, the intermediary lines are used to convey dialogue (dialogue intertitles) or provide narration (expository intertitles) for the different scenes.
 <br><br>
@@ -279,7 +279,7 @@ However, even before the screening began, an announcement was made, causing much
  
 <table span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; ">
 	<tr>
-    <td><b>The Cast of Characters</b></td>
+    <td><b>THE CAST OF CHARACTERS</b></td>
   </tr>
 	<tr>
     <td><b>CAST</b></td>
