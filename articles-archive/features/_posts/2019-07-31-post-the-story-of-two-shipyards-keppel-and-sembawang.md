@@ -178,9 +178,5 @@ Turnbull, C.M. (1989). [*A history of Singapore: 1819–1988*](https://eservice.
 [^1]:“Beaching” refers to the act of laying the vessel on its side on a beach to conduct hull repair and maintenance work.
 [^2]:A drydock is a large dock from which water can be pumped out, and is used for repairing a ship below its waterline. Also sometimes referred to as a “graving dock”.
 [^3]:New Harbour was renamed Keppel Harbour in 1900 after Admiral Henry Keppel, who five decades earlier, in 1848, had sailed the naval ship HMS *Meander* into New Harbour for repair and was astonished to find deep water so close to the shore. He reported to the Board of Admiralty in London and then to the Peninsular and Oriental Steam Navigation Company on the discovery of this deep harbour for steamships and its potential as a port.
-[^4]:TPDC’s Articles of Association gave veto rights to the London Consulting Committee (which functioned more like a London Board) for expenditures beyond $20,000. See Bogaars, G. (1956). The Tanjong Pagar Dock Company, 1864–1905 (p. 171). Singapore: Govt. Print. Off. (Call no.: RCLOS 959.51 BOG).
-[^5]:
-
-
-
-Bogaars, 1956, p. 223.
+[^4]:TPDC’s Articles of Association gave veto rights to the London Consulting Committee (which functioned more like a London Board) for expenditures beyond $20,000. See Bogaars, G. (1956). [*The Tanjong Pagar Dock Company, 1864–1905*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4077989) (p. 171). Singapore: Govt. Print. Off. (Call no.: RCLOS 959.51 BOG).
+[^5]:[Bogaars](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4077989), 1956, p. 223.
