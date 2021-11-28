@@ -56,9 +56,6 @@ Since joining the BHL, NLB has uploaded some 394 volumes of biodiversity and nat
 
 Singapore’s publications in the BHL are collectively known as “BHL Singapore”. The collection is broadly categorised into the following areas: 1) Institutional History, 2) Natural History of Singapore and the Region, 3) Geography and the Environment of Singapore, and 4) Ethnography and Travel Narratives.
 
-<img src="/images/Vol-15-issue-3/a-slice-of-sg-biodiversity/Biodiversity5.JPG">
-<div style="background-color: white;">An illustration comparing the skeletons of different ape species (gibbon, orang utan, chimpanzee, gorilla) with that of man’s. <i>Image reproduced from Huxley, T.H. (1863). Evidence as to Man’s Place in Nature. London; Edinburgh: Williams and Norgate.</i></div>
-
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
 	<b>NATURAL HISTORY OF SINGAPORE AND THE REGION</b><br><br>
 These titles showcase the flora and fauna of Singapore and Southeast Asia. Compiled by natural historians and naturalists from the colonial period – men such as Thomas Horsfield, James Motley and Arthur Gardiner Butler – many of the books contain beautiful illustrations of animals, insects and plants that are indigenous to the region.
@@ -82,7 +79,8 @@ Books in this last category focus on the different ethnicities and cultures in S
 <br><br>
 Another significant title is <i>Travels in the East Indian Archipelago</i> (1868)[^9] by the American naturalist Albert Smith Bickmore. This voluminous 555-page book documents Bickmore’s expedition to the Dutch East Indies (present-day Indonesia) between April 1865 and May 1866. It records the flora and fauna of the places he visited as well as the ethnological characteristics of the different tribes he encountered.
 </span>
-
+<img src="/images/Vol-15-issue-3/a-slice-of-sg-biodiversity/Biodiversity5.JPG">
+<div style="background-color: white;">An illustration comparing the skeletons of different ape species (gibbon, orang utan, chimpanzee, gorilla) with that of man’s. <i>Image reproduced from Huxley, T.H. (1863). Evidence as to Man’s Place in Nature. London; Edinburgh: Williams and Norgate.</i></div>
 <br>
 <div style="background-color: white;">
 <img src="/images/Vol-15-issue-3/a-slice-of-sg-biodiversity/Biodiversity9.jpg" style="width: 100px; height: 100px;">
