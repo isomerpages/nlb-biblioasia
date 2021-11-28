@@ -35,8 +35,8 @@ Barely 13 years old then, K. Ramakanthan and his family escaped with their lives
 **[Dieppe Barracks: “Our Little Kingdom” in Sembawang](/vol-15/issue-3/oct-dec-2019/dieppe-barracks/)** <br>
 Military camps and training areas comprise a significant portion of Singapore’s land use. What can a single camp tell us about Singapore’s geopolitical history? A lot, as it turns out, says *Chua Jun Yan.* [(PDF)](/files/pdf/vol-15/v15-issue3_Dieppe.pdf)
 
-**[A Slice of Singapore in the Biodiversity Heritage Library](/vol-15/issue-3/oct-dec-2019/sg-biodvsty-heritage/)** <br>
+**[A Slice of Singapore in the Biodiversity Heritage Library](/vol-15/issue-3/oct-dec-2019/biodiversityheritage/)** <br>
 With climate change on the rise, access to research on biodiversity and natural history is all the more important. *Lim Tin Seng* tells us about the Biodiversity Heritage Library. [(PDF)](/files/pdf/vol-15/v15-issue3_Biodiversity.pdf)
  
-**[Exploring an Artist’s Mind: The Tan Swie Hian Collection](/vol-15/issue-3/oct-dec-2019/tan-swie-hian-collct/)** <br>
+**[Exploring an Artist’s Mind: The Tan Swie Hian Collection](/vol-15/issue-3/oct-dec-2019/tan-swie-hian-coll/)** <br>
 What makes the difference between a good artist and a brilliant one? *Goh Yu Mei* delves into the books and artworks that have inspired a literary and artistic genius. [(PDF)](/files/pdf/vol-15/v15-issue3_TanSwieHian.pdf)
