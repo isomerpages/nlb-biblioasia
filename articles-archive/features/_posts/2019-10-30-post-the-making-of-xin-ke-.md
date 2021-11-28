@@ -381,7 +381,7 @@ This essay is abridged from the recently published book, <i>Xin Ke: The Story of
 </span>
 <br>
 <div style="background-color: white;">
-<img src="/images/Vol-15-issue-3/" style="width: 100px; height: 100px;">
+<img src="/images/Vol-15-issue-3/the-making-of-xin-ke/XinKe11.JPG" style="width: 100px; height: 100px;">
 <b>Jocelyn Lau</b> is a an editor and a writer with postgraduate qualifications in publishing. She is the co-publisher of Kucinta Books.
 </div>
 
