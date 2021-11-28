@@ -168,8 +168,19 @@ Lim, R. (1993). [*Tough men, bold visions: The story of Keppel*](https://eservic
 
 McIntyre, W.D. (1979). [*The rise and fall of the Singapore Naval Base 1919–1942*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4163560). London: MacMillan. (Call no.: RSING 359.7 MAC).
 
-National Library Board. (2014). Formation of the Port of Singapore Authority 1st April 1964. Retrieved from HistorySG.
+National Library Board. (2014). [*Formation of the Port of Singapore Authority 1st April 1964*](https://eresources.nlb.gov.sg/history/events/a7193804-3862-4f99-8b3b-46c867073a95). Retrieved from HistorySG.
 
-Neidpath, J. (1981). The Singapore Naval Base and the defence of the Britain’s eastern empire, 1919–1941. Oxford; New York: Clarendon Press. (Call no.: RSING 359.7 NEI)
+Neidpath, J. (1981). [*The Singapore Naval Base and the defence of the Britain’s eastern empire, 1919–1941*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2207044). Oxford; New York: Clarendon Press. (Call no.: RSING 359.7 NEI).
 
-Turnbull, C.M. (1989). A history of Singapore: 1819–1988 [2nd ed.]. Singapore: Oxford University Press. (Call no.: RSING 959.57 TUR-[HIS])
+Turnbull, C.M. (1989). [*A history of Singapore: 1819–1988*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5178825) [2nd ed.]. Singapore: Oxford University Press. (Call no.: RSING 959.57 TUR-[HIS]).
+
+#### **NOTES**
+[^1]:“Beaching” refers to the act of laying the vessel on its side on a beach to conduct hull repair and maintenance work.
+[^2]:A drydock is a large dock from which water can be pumped out, and is used for repairing a ship below its waterline. Also sometimes referred to as a “graving dock”.
+[^3]:New Harbour was renamed Keppel Harbour in 1900 after Admiral Henry Keppel, who five decades earlier, in 1848, had sailed the naval ship HMS *Meander* into New Harbour for repair and was astonished to find deep water so close to the shore. He reported to the Board of Admiralty in London and then to the Peninsular and Oriental Steam Navigation Company on the discovery of this deep harbour for steamships and its potential as a port.
+[^4]:TPDC’s Articles of Association gave veto rights to the London Consulting Committee (which functioned more like a London Board) for expenditures beyond $20,000. See Bogaars, G. (1956). The Tanjong Pagar Dock Company, 1864–1905 (p. 171). Singapore: Govt. Print. Off. (Call no.: RCLOS 959.51 BOG).
+[^5]:
+
+
+
+Bogaars, 1956, p. 223.
