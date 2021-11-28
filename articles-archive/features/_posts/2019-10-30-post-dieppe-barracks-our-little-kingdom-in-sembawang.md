@@ -6,7 +6,7 @@ layout: post
 ---
 #### Military camps and training areas comprise a significant portion of Singapore’s land use. What can a single camp tell us about Singapore’s geopolitical history? A lot, as it turns out, says **Chua Jun Yan**.
 
-<img style="width: 550px; height: 430px;" src="/images/Vol-15-issue-3/dieppe-barracks/Dieppe1.JPG">
+<img style="width: 700px; height: 430px;" src="/images/Vol-15-issue-3/dieppe-barracks/Dieppe1.JPG">
 <div style="background-color: white;">An aerial view of Dieppe Barracks, c. 1975, which belongs to the Singapore Armed Forces today. Prior to the construction of Yishun and Sembawang new towns, the area was primarily used for military and agricultural purposes. Further down Sembawang Road were Nee Soon and Chong Pang villages. <i>Courtesy of Alexander Turnbull Library, Wellington, New Zealand.</i></div>
 
 Travelling along Sembawang Road, you will pass several military installations, including Nee Soon Camp, Khatib Camp and Sembawang Camp. At the end of the road is Sembawang Shipyard, site of the former Singapore Naval Base and the cornerstone of Britain’s ill-fated Far East defence strategy before World War II.[^1]
@@ -45,9 +45,6 @@ With the end of the Cold War in the late 1980s and the growth of the SAF, the Ki
 
 While Singapore enjoyed relative peace and stability from the late 1960s, the foreign military presence at Dieppe served as an important conduit for defence diplomacy and cultural exchange. Sports facilities in and around the barracks provided the troops with recreational activities, fostered informal contact between military leaders, and engendered positive civil-military relations.
 
-<img style="width: 500px; height: 350px;" src="/images/Vol-15-issue-3/dieppe-barracks/Dieppe2.JPG">
-<div style="background-color: white;">As part of Christmas celebrations in 1970, a British commando dressed as Santa Claus parachuted from a helicopter and greeted the children of servicemen at Dieppe Barracks. <i>Source: The Straits Times © Singapore Press Holdings Limited. Reprinted with permission.</i></div>
-
 After Britain’s Royal Marines Commandos moved into Dieppe Barracks in 1967, they built a nine-hole golf course, which would evolve into today’s Sembawang Country Club – a club that is presently affiliated to the SAF. The early course was primitive: it was “short and carved out of an area of poor soil”, and was so hilly that it was informally known as the “commando course”.[^14] However, Singaporean leaders perceived golf as an opportunity to cultivate friendly relations with foreign military officials.
 
 During the early 1970s, then Minister for Defence Goh Keng Swee urged senior SAF officers to pick up golf in order to facilitate interactions with their foreign counterparts. In the late 1970s, the SAF redeveloped the golf club, before taking it over from the New Zealand forces.[^15]
@@ -71,6 +68,9 @@ For the most part, a jocular mess culture prevailed at Dieppe Barracks. Archival
 
 Christmas was always a special occasion at Dieppe Barracks, eagerly anticipated by the servicemen each year. In 1970, 160 children of the Royal Marines watched in awe as a British commando dressed as Santa Claus parachuted from a helicopter over the barracks, bearing presents for the children.[^21] With the New Zealand troops, the tradition was for its senior officers to serve the junior ranks at Christmas parties held in the messes.[^22]
 
+<img style="width: 500px; height: 350px;" src="/images/Vol-15-issue-3/dieppe-barracks/Dieppe2.JPG">
+<div style="background-color: white;">As part of Christmas celebrations in 1970, a British commando dressed as Santa Claus parachuted from a helicopter and greeted the children of servicemen at Dieppe Barracks. <i>Source: The Straits Times © Singapore Press Holdings Limited. Reprinted with permission.</i></div>
+
 To be sure, life in Dieppe Barracks was not always rosy, reflecting the emotional and psychological challenges of long-term overseas deployments during peacetime. Indeed, the 1 RNZIR journal introduced an “advisory service” in 1975, noting that the “pressures of modern day living in Singapore can be considerable, leading to stress, tension and worry”.[^23] Far away from home and without a specific mission, there was a high chance of young soldiers becoming bored and restless. Indeed, in 1972, a soldier set fire to the sacred Maori meeting place in Dieppe Barracks and was sentenced to one year’s detention. During his trial, the soldier said that he had gotten up to mischief simply because he had wanted to be sent home.
 
 Almost a decade later, two New Zealand soldiers were each sentenced to three years’ jail and given three strokes of the cane by a Singaporean district court for selling cannabis to fellow servicemen (they had earlier pleaded to be court-martialled in order to escape caning). According to a lawyer, the drug problem at Dieppe Barracks “had reached unmanageable proportions despite efforts by military authorities”, leading the New Zealand army to hand over jurisdiction of the case to Singapore.[^24]
@@ -82,7 +82,7 @@ Why does this story of Dieppe Barracks matter? Much of Singapore’s military hi
 Military spaces physically express the colonial, post-colonial and neo-colonial processes that have shaped Singapore’s history and landscape over the decades. Given that foreign military bases in Singapore were a major driver of the economy in the late 1960s and employed some 25,000 locals,[^26] it is impossible to understand the social, economic and cultural changes that had taken place here without reference to the vast numbers of soldiers and seamen who passed through this island from the 19th century to the present day.
 
 <img style="width: 500px; height: 360px;" src="/images/Vol-15-issue-3/dieppe-barracks/Dieppe4.JPG">
-<div style="background-color: white;">Christmas (straitstimes_19861221_0052)
+<div style="background-color: white;">
 Christmas was always a special and joyous occasion at Dieppe Barracks. For the New Zealand troops, the tradition was for senior officers to serve the junior ranks during Christmas parties held in the messes. <i>The Straits Times, 21 December 1986, p. 4.</i></div>
 
 I myself completed national service in Dieppe Barracks from 2018 to 2019, and in some small way was part of its geostrategic history and destiny. From British commandos to New Zealand infantry soldiers and finally to me and my fellow national service mates, places like Dieppe Barracks have witnessed and stood sentinel to the transformations of Singapore we have seen over the years.
@@ -90,7 +90,7 @@ I myself completed national service in Dieppe Barracks from 2018 to 2019, and in
 <br>
 <div style="background-color: white;">
 <img src="/images/Vol-15-issue-3/dieppe-barracks/Dieppe5.jpg" style="width: 100px; height: 100px;">
-	<center><b>Jun Yan Chua</b></center>
+<b>Chua Jun Yan</b> graduated from Yale University with a Bachelor of Arts in History. He enjoys researching local and community histories in Singapore, and has a particular interest in postwar urban cultures.
 </div>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-15/issue-3/oct-dec-2019/"><center>Back to Issue</center></a>
