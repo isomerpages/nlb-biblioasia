@@ -21,6 +21,9 @@ The 1927 silent Chinese film *Xin Ke* (新客; *The Immigrant*) is believed to b
 
 *Xin Ke* was produced by Liu Beijin (刘贝锦; 1902–59; also known as Low Poey Kim), a prominent Singapore-born entrepreneur. His father, Liu Zhuhou (刘筑侯), was an immigrant from Huyang, Yongchun, in Fujian province, who became one of the wealthiest rubber plantation owners in Muar, Malaya. Liu Beijin was also related to Liu Kang (刘抗; 1911–2004), the pioneer Singaporean artist (Liu Beijin’s and Liu Kang’s fathers were cousins).
 
+<img style="width: 550px; height: 350px;" src="/images/Vol-15-issue-3/the-making-of-xin-ke/XinKe6.JPG">
+<div style="background-color: white;">Liu Beijin (standing) and a friend posing against Liu’s latest car. Photo taken in or near Muar, c. 1932. <i>Courtesy of Liu Kang Family Collection.</i></div>
+
 #### **A Film Pioneer**
 
 Liu Beijin led a very comfortable lifestyle while growing up. He was born in Singapore, and when he was about four months old, his family moved to Muar. When he was six, his father took him back to China, where he lived until he was 16 before returning to Nanyang.[^4] Back in Muar, Liu took over his father’s rubber plantation business when the latter died at the relatively young age of 56.
@@ -234,11 +237,8 @@ Despite the name, “silent” films were almost always accompanied by live back
 <br><br>
 <b>Reference</b>
 <br><br>
-	Slide, A. (2013). <i>The new historical dictionary of the American film industry</i> (p. 197). New York: Routledge. (Not in NLB holdings)
+	Slide, A. (2013). <i>The new historical dictionary of the American film industry</i> (p. 197). New York: Routledge. (Not available in NLB holdings)
 </span>
-
-<img style="width: 550px; height: 350px;" src="/images/Vol-15-issue-3/the-making-of-xin-ke/XinKe6.JPG">
-<div style="background-color: white;">Liu Beijin (standing) and a friend posing against Liu’s latest car. Photo taken in or near Muar, c. 1932. <i>Courtesy of Liu Kang Family Collection.</i></div>
 
 Between December 1925 and February 1926, when he was about 24 years old, Liu travelled to China to observe the educational, industrial and film industries of the country. Filmmaking was entering a golden age in Shanghai, with local filmmakers taking inspiration from their Chinese roots and the volatile social and political circumstances of the time.
 
@@ -247,6 +247,9 @@ Between December 1925 and February 1926, when he was about 24 years old, Liu tra
 
 The booming Shanghainese film industry encouraged Liu to establish the Anglo-Chinese Film Company (中西影片公司) in Singapore to distribute Shanghai-made films. Not content with playing a passive role in the film business, Liu co-founded Nanyang Liu Beijin Independent Film Production Company (南洋刘贝锦自制影片公司; also known as Nanyang Low Poey Kim Motion Picture Co.) at 12 Pekin Street. His intention was to produce Chinese films with a “Nanyang” flavour and showcase local talents. Liu’s start-up became the first local film production company in Singapore and Malaya, and one of the earliest in Southeast Asia.[^9]
 
+<img style="width: 550px; height: 350px;" src="/images/Vol-15-issue-3/the-making-of-xin-ke/XinKe9.JPG">
+<div style="background-color: white;">Artist’s impression of Liu Beijin in front of his shophouse office at 12 Pekin Street. <i>Illustration by Dan Wong.</i></div>
+
 Liu did not establish the film production company for profit; his intention was to use film – then a relatively new medium – as a means “to instill knowledge among the masses, improve the well being of society [and] promote the prestige of the nation and propagation of culture”.[^10] To him, the art form, being “the essence of all arts”, had unprecedented potential to “transform” people.
 
 Through his films, Liu wanted to showcase life as it was in Singapore and Malaya to the Chinese in China. Liu also held the view that many among his intended audience in Nanyang – the overseas Chinese – had adopted the unsavoury habits of their countrymen back home, including opium smoking, drinking, gambling and patronising prostitutes, and feudal Chinese customs such as arranged marriages for girls.
@@ -254,12 +257,12 @@ Through his films, Liu wanted to showcase life as it was in Singapore and Malaya
 <img style="width: 350px; height: 450px;" src="/images/Vol-15-issue-3/the-making-of-xin-ke/XinKe3.JPG">
 <div style="background-color: white;">Manifesto of the Nanyang Liu Beijin Independent Film Production Company reproduced in <i>Sin Kuo Min Press</i>, 20 July 1926, p. 12. <i>Courtesy of NUS Libraries.</i></div>
 
-<img style="width: 550px; height: 350px;" src="/images/Vol-15-issue-3/the-making-of-xin-ke/XinKe7.JPG">
-<div style="background-color: white;">Artist’s impression of Liu Beijin’s film studio at 58 Meyer Road in Tanjong Katong. <i>Illustration by Dan Wong.</i></div>
-
 #### **A Failed First Screening**
 
 *Xin Ke* was produced between September 1926 and the beginning of 1927. Liu rented a bungalow at 58 Meyer Road, in the affluent beachfront neighbourhood of Tanjong Katong in the east of Singapore, to serve as a studio and film-processing base. The film was shot entirely in Singapore and Malaya, including the bungalow and locations such as the Botanic Gardens, the Causeway and the Istana Besar in Johor.
+
+<img style="width: 550px; height: 350px;" src="/images/Vol-15-issue-3/the-making-of-xin-ke/XinKe7.JPG">
+<div style="background-color: white;">Artist’s impression of Liu Beijin’s film studio at 58 Meyer Road in Tanjong Katong. <i>Illustration by Dan Wong.</i></div>
 
 The first screening of *Xin Ke*, which was meant to be a preview but was organised more like a premiere,[^11] was held at the Victoria Theatre on the evening of 4 March 1927. The highly publicised event was free.[^12] To celebrate the occasion, the organisers published *Xin Ke Special Issue*, an illustrated souvenir booklet containing information about the Nanyang Liu Beijin Independent Film Production Company and the cast as well as photographs.[^13]
 
@@ -268,11 +271,11 @@ The first screening of *Xin Ke*, which was meant to be a preview but was organis
 
 The theatre was reportedly opened to viewers at 7.30 pm and filled to capacity – all “500 seats upstairs and downstairs”[^14] – by 8 pm, leaving “people without seats”. The film started at 8.30 pm. The audience, comprising mostly women, also included cast members, the film crew and invited guests from the media.[^15] One of the invited guests, a journalist with the *Nanyang Siang Pau* newspaper, reported on the event:
 
-“I was able to watch the preview of the first production of *Xin Ke* by Nanyang Liu Beijin Independent Film Production Company, which opened at Victoria Theatre yesterday at 8 o’clock in the evening. I was honoured to be given a ticket to the film by the company itself. I arrived at the theatre at 7 pm. The workers were still working in the theatre, but there was already a steady stream of people and vehicles at the door. More than 100 viewers had already gathered, and it was crowded. They were only allowed to enter the theatre at 7.30 pm, and by 8 pm, all the seats were already occupied. There were 500 seats upstairs and downstairs, but there were still people without seats. The Singapore General Chamber of Commerce and the various newspaper offices all sent representatives to the event”.[^16]
+“I was able to watch the preview of the first production of *Xin Ke* by Nanyang Liu Beijin Independent Film Production Company, which opened at Victoria Theatre yesterday at 8 o’clock in the evening. I was honoured to be given a ticket to the film by the company itself. I arrived at the theatre at 7 pm. The workers were still working in the theatre, but there was already a steady stream of people and vehicles at the door. More than 100 viewers had already gathered, and it was crowded. They were only allowed to enter the theatre at 7.30 pm, and by 8 pm, all the seats were already occupied. There were 500 seats upstairs and downstairs, but there were still people without seats. The Singapore General Chamber of Commerce and the various newspaper offices all sent representatives to the event.”[^16]
 
 However, even before the screening began, an announcement was made, causing much confusion among the audience and throwing the evening’s proceedings into disarray. Apparently, the film authorities had censored the last three reels of *Xin Ke*, leaving only the first six to be shown. An attendee recounted the incident:[^17]
 
-“… someone from the company came announcing in Mandarin: ‘There are only six reels. The government didn’t pass seven, eight and nine.’ The loud and hurried tone caused quite a stir among the guests, but the announcer simply stopped at that and left. Not long after that, another representative came out and explained, in Cantonese, that for some special reasons, the three reels were banned by the censorship board and thus could not be screened together with the rest. It was then that the audience understood the reason for the delay”.[^18]
+“… someone from the company came announcing in Mandarin: ‘There are only six reels. The government didn’t pass seven, eight and nine.’ The loud and hurried tone caused quite a stir among the guests, but the announcer simply stopped at that and left. Not long after that, another representative came out and explained, in Cantonese, that for some special reasons, the three reels were banned by the censorship board and thus could not be screened together with the rest. It was then that the audience understood the reason for the delay.”[^18]
 
 <img style="width: 550px; height: 350px;" src="/images/Vol-15-issue-3/the-making-of-xin-ke/XinKe8.JPG">
 <div style="background-color: white;">The only extant still from <i>Xin Ke</i> showing Shen Huaqiang playing the flute while sisters Zhang Huimei and Zhang Huizhen look on admiringly, all three oblivious to the fuming Gan Fusheng (standing). <i>Sin Kuo Min Press</i>, 5 February 1927, p. 15. <i>Courtesy of NUS Libraries.</i></div>
@@ -364,9 +367,6 @@ For silent films produced in the 1920s, one standard reel of 1,000 ft (305 m) of
 
 The reasons for the censorship were not released, but it is believed that the Official Censor objected to the graphic scenes of violence and fighting in the last three reels. Unfortunately, all nine reels of film no longer exist. Liu had planned to shoot a revised conclusion but it is unclear whether this eventually materialised.
 
-<img style="width: 550px; height: 350px;" src="/images/Vol-15-issue-3/the-making-of-xin-ke/XinKe9.JPG">
-<div style="background-color: white;">Artist’s impression of Liu Beijin in front of his shophouse office at 12 Pekin Street. <i>Illustration by Dan Wong.</i></div>
-
 #### **Subsequent Screenings**
 
 Shortly after that failed first screening, it is likely that *Xin Ke* continued to be shown in cinemas in Singapore, but so far there has been no documentary evidence to support this. More certain is the fact that screenings took place in Kuala Lumpur, Melaka and Hong Kong.
@@ -376,9 +376,8 @@ In Kuala Lumpur, the film was screened on 27 May 1927 at the Empire Theatre (als
 In May 1927, Liu was forced by personal circumstances to close his film production company for good. He had planned to produce a second feature, *A Difficult Time* (行不得也哥哥), but shooting was never completed. Liu tried to revive his film production business in 1929, but he would not make another motion picture again.
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
-This essay is abridged from the recently published book, <i>Xin Ke: The Story of Singapore and Malaya’s First Feature Film</i><br><br>
 <img style="width: 350px; height: 350px;" src="/images/Vol-15-issue-3/the-making-of-xin-ke/XinKe10.JPG"><br>
-(新客: 新马首部长篇电影的故事) (2019), written by Yvonne Ng Uhde and Jan Uhde, edited by Toh Hun Ping, Lucien Low and Jocelyn Lau, and published by Kucinta Books. It retails for $28 at major bookshops and is also available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (Call nos.: RSING 791.43095957 UHD and SING 791.43095957 UHD).
+This essay is abridged from the recently published book, <i>Xin Ke: The Story of Singapore and Malaya’s First Feature Film</i> (新客: 新马首部长篇电影的故事) (2019), written by Yvonne Ng Uhde and Jan Uhde, edited by Toh Hun Ping, Lucien Low and Jocelyn Lau, and published by Kucinta Books. It retails for $28 at major bookshops and is also available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries ([Call nos.: RSING 791.43095957 UHD and SING 791.43095957 UHD](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203916571)).
 </span>
 <br>
 <div style="background-color: white;">
