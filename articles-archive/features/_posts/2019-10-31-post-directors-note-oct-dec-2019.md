@@ -22,7 +22,7 @@ Most of the stories told about the Japanese Occupation recount the experiences o
 
 The authors of a recently published book have put together enough evidence to confirm that *Xin Ke*, or *The Immigrant*, produced in 1927, is the first full-length feature film to be made in Singapore and Malaya. [Jocelyn Lau](/vol-15/issue-3/oct-dec-2019/the-making-of-xin-ke/) tracks the making of this milestone movie.
 
-Last but not least, [Chua Jun Yan](/vol-15/issue-3/oct-dec-2019/dieppe-barracks/) delves into the history of Dieppe Barracks, the former home of British and New Zealand soldiers; [Lim Tin Seng](/vol-15/issue-3/oct-dec-2019/sg-biodvsty-heritage/) shares highlights of Singapore publications in the digital collection of the Biodiversity Heritage Library; and [Goh Yu Mei](/vol-15/issue-3/oct-dec-2019/tan-swie-hian-collct/) examines the Tan Swie Hian Collection to reveal what drives the creative meanderings of Singapore’s foremost multidisciplinary artist.
+Last but not least, [Chua Jun Yan](/vol-15/issue-3/oct-dec-2019/dieppe-barracks/) delves into the history of Dieppe Barracks, the former home of British and New Zealand soldiers; [Lim Tin Seng](/vol-15/issue-3/oct-dec-2019/biodiversityheritage/) shares highlights of Singapore publications in the digital collection of the Biodiversity Heritage Library; and [Goh Yu Mei](/vol-15/issue-3/oct-dec-2019/tan-swie-hian-collct/) examines the Tan Swie Hian Collection to reveal what drives the creative meanderings of Singapore’s foremost multidisciplinary artist.
 
 <br>
 <b>Mrs Wai Yin Pryke </b><br>Director<br>National Library
