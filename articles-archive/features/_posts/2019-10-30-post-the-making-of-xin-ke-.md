@@ -4,11 +4,10 @@ date: 2019-10-30
 permalink: /vol-15/issue-3/oct-dec-2019/the-making-of-xin-ke/
 layout: post
 ---
-
 #### This 1927 silent Chinese movie is the first feature film to be made in Singapore and Malaya. **Jocelyn Lau** traces its genesis with researcher Toh Hun Ping and translation editor Lucien Low.
 
 <img src="/images/Vol-15-issue-3/the-making-of-xin-ke/XinKe1.JPG">
-<div style="background-color: white;">Lead actor Zheng Chaoren (seated, wearing hat) who played the role of Shen Huaqiang, with other Xin Ke cast and crew members, 1926. <i>Courtesy of 玉山社 (1998).</i></div>
+<div style="background-color: white;">Lead actor Zheng Chaoren (seated, wearing hat) who played the role of Shen Huaqiang, with other <i>Xin Ke</i> cast and crew members, 1926. <i>Courtesy of 玉山社 (1998).</i></div>
 
 *In the mid-1920s, Shen Huaqiang (沈华强), a poor “new immigrant” from China, arrives in Nanyang[^1] to seek his fortune. He ends up in Johor, staying with his wealthy Peranakan (Straits Chinese) relatives who help him assimilate to life in Nanyang.*
 
@@ -18,18 +17,9 @@ layout: post
 
 *Unfortunately for Huizhen, her parents think that Fusheng is a pleasant and well-educated person as he speaks and dresses well. Unbeknownst to Huizhen, her parents promise her hand to him in marriage.*
 
-<img style="width: 350px; height: 450px;" src="/images/Vol-15-issue-3/the-making-of-xin-ke/XinKe2.JPG">
-<div style="background-color: white;">An advertisement for <i>Xin Ke</i> in <i>Sin Kuo Min Press</i> 18 January 1927, p. 9. <i>Courtesy of NUS Libraries.</i></div>
-<br>
-<img style="width: 350px; height: 450px;" src="/images/Vol-15-issue-3/the-making-of-xin-ke/XinKe3.JPG">
-<div style="background-color: white;">Manifesto of the Nanyang Liu Beijin Independent Film Production Company reproduced in <i>Sin Kuo Min Press</i>, 20 July 1926, p. 12. <i>Courtesy of NUS Libraries.</i></div>
-
 The 1927 silent Chinese film *Xin Ke* (新客; *The Immigrant*) is believed to be the very first full-length feature film to have been made in Singapore and Malaya. *Xin Ke*, like most of the silent films produced globally between 1891 and the late 1920s, has likely not survived the passage of time due to the highly ephemeral nature of the material used back then.[^2] The items that are still extant today are the film’s Chinese intertitles (see text box overleaf), two synopses, a film still – all published in the local newspaper *Sin Kuo Min Press* (新国民日报)[^3] in 1926 – and photos of the film crew and cast.
 
 *Xin Ke* was produced by Liu Beijin (刘贝锦; 1902–59; also known as Low Poey Kim), a prominent Singapore-born entrepreneur. His father, Liu Zhuhou (刘筑侯), was an immigrant from Huyang, Yongchun, in Fujian province, who became one of the wealthiest rubber plantation owners in Muar, Malaya. Liu Beijin was also related to Liu Kang (刘抗; 1911–2004), the pioneer Singaporean artist (Liu Beijin’s and Liu Kang’s fathers were cousins).
-
-<img style="width: 550px; height: 360px;" src="/images/Vol-15-issue-3/the-making-of-xin-ke/XinKe4.JPG">
-<div style="background-color: white;">An example of a film title card in Chinese and English from the 1920s. Illustration by Dan Wong, based on a still from Hou Yao’s film, <i>A Poet from the Sea</i> (1927).</div>
 
 #### **A Film Pioneer**
 
@@ -252,11 +242,17 @@ Despite the name, “silent” films were almost always accompanied by live back
 
 Between December 1925 and February 1926, when he was about 24 years old, Liu travelled to China to observe the educational, industrial and film industries of the country. Filmmaking was entering a golden age in Shanghai, with local filmmakers taking inspiration from their Chinese roots and the volatile social and political circumstances of the time.
 
+<img style="width: 550px; height: 360px;" src="/images/Vol-15-issue-3/the-making-of-xin-ke/XinKe4.JPG">
+<div style="background-color: white;">An example of a film title card in Chinese and English from the 1920s. Illustration by Dan Wong, based on a still from Hou Yao’s film, <i>A Poet from the Sea</i> (1927).</div>
+
 The booming Shanghainese film industry encouraged Liu to establish the Anglo-Chinese Film Company (中西影片公司) in Singapore to distribute Shanghai-made films. Not content with playing a passive role in the film business, Liu co-founded Nanyang Liu Beijin Independent Film Production Company (南洋刘贝锦自制影片公司; also known as Nanyang Low Poey Kim Motion Picture Co.) at 12 Pekin Street. His intention was to produce Chinese films with a “Nanyang” flavour and showcase local talents. Liu’s start-up became the first local film production company in Singapore and Malaya, and one of the earliest in Southeast Asia.[^9]
 
 Liu did not establish the film production company for profit; his intention was to use film – then a relatively new medium – as a means “to instill knowledge among the masses, improve the well being of society [and] promote the prestige of the nation and propagation of culture”.[^10] To him, the art form, being “the essence of all arts”, had unprecedented potential to “transform” people.
 
 Through his films, Liu wanted to showcase life as it was in Singapore and Malaya to the Chinese in China. Liu also held the view that many among his intended audience in Nanyang – the overseas Chinese – had adopted the unsavoury habits of their countrymen back home, including opium smoking, drinking, gambling and patronising prostitutes, and feudal Chinese customs such as arranged marriages for girls.
+
+<img style="width: 350px; height: 450px;" src="/images/Vol-15-issue-3/the-making-of-xin-ke/XinKe3.JPG">
+<div style="background-color: white;">Manifesto of the Nanyang Liu Beijin Independent Film Production Company reproduced in <i>Sin Kuo Min Press</i>, 20 July 1926, p. 12. <i>Courtesy of NUS Libraries.</i></div>
 
 <img style="width: 550px; height: 350px;" src="/images/Vol-15-issue-3/the-making-of-xin-ke/XinKe7.JPG">
 <div style="background-color: white;">Artist’s impression of Liu Beijin’s film studio at 58 Meyer Road in Tanjong Katong. <i>Illustration by Dan Wong.</i></div>
@@ -266,6 +262,9 @@ Through his films, Liu wanted to showcase life as it was in Singapore and Malaya
 *Xin Ke* was produced between September 1926 and the beginning of 1927. Liu rented a bungalow at 58 Meyer Road, in the affluent beachfront neighbourhood of Tanjong Katong in the east of Singapore, to serve as a studio and film-processing base. The film was shot entirely in Singapore and Malaya, including the bungalow and locations such as the Botanic Gardens, the Causeway and the Istana Besar in Johor.
 
 The first screening of *Xin Ke*, which was meant to be a preview but was organised more like a premiere,[^11] was held at the Victoria Theatre on the evening of 4 March 1927. The highly publicised event was free.[^12] To celebrate the occasion, the organisers published *Xin Ke Special Issue*, an illustrated souvenir booklet containing information about the Nanyang Liu Beijin Independent Film Production Company and the cast as well as photographs.[^13]
+
+<img style="width: 350px; height: 450px;" src="/images/Vol-15-issue-3/the-making-of-xin-ke/XinKe2.JPG">
+<div style="background-color: white;">An advertisement for <i>Xin Ke</i> in <i>Sin Kuo Min Press</i> 18 January 1927, p. 9. <i>Courtesy of NUS Libraries.</i></div>
 
 The theatre was reportedly opened to viewers at 7.30 pm and filled to capacity – all “500 seats upstairs and downstairs”[^14] – by 8 pm, leaving “people without seats”. The film started at 8.30 pm. The audience, comprising mostly women, also included cast members, the film crew and invited guests from the media.[^15] One of the invited guests, a journalist with the *Nanyang Siang Pau* newspaper, reported on the event:
 
