@@ -64,15 +64,15 @@ Singapore’s publications in the BHL are collectively known as “BHL Singapore
 These titles showcase the flora and fauna of Singapore and Southeast Asia. Compiled by natural historians and naturalists from the colonial period – men such as Thomas Horsfield, James Motley and Arthur Gardiner Butler – many of the books contain beautiful illustrations of animals, insects and plants that are indigenous to the region.
 <br><br>
 Key examples include the three-volume <i>Gleanings of Natural History</i> (1758–64),[^1] which is the most downloaded book from BHL Singapore; <i>Zoological Researches in Java and the Neighbouring Islands</i> (1824);[^2] <i>Contributions to the Natural History of Labuan, and the Adjacent Coasts of Borneo</i> (1855);[^3] <i>The Birds of Singapore Island</i> (1927);[^4] and <i>The Butterflies of Malacca</i> (1879).[^5]
+	<br><br>
+	<img style="width: 500px; height: 330px;" src="/images/Vol-15-issue-3/a-slice-of-sg-biodiversity/Biodiversity6.JPG">	<br>
+	<img style="width: 500px; height: 330px;" src="/images/Vol-15-issue-3/a-slice-of-sg-biodiversity/Biodiversity7.JPG">The “BHL Singapore” collection comprises a huge variety of historical publications relating to the biodiversity of Singapore and the region. Many are beautifully illustrated with drawings of different species of plants and animals. Shown here are illustrations of the elephant and rhinoceros. <i>Images reproduced from Edwards, G. (1758). Gleanings of Natural History, Exhibiting Figures of Quadrupeds, Birds, Insects, Plants, &c (Part I). London: Royal College of Physicians.</i>
 </span>
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
 	<b>GEOGRAPHY AND THE ENVIRONMENT OF SINGAPORE</b><br><br>
 Included in this category are books on geology and environmental studies of Singapore. Interesting titles include the <i>Annual Report of the Meteorological Observations in the Straits Settlements for the Year 1890</i> (1891)[^6] and <i>A Geography of the Malay Peninsula and Surrounding Countries</i> (1884),[^7] from which we can piece together the historical weather patterns and geography of Singapore and the region in the 19th century.
 	<br><br>
-	<img style="width: 500px; height: 330px;" src="/images/Vol-15-issue-3/a-slice-of-sg-biodiversity/Biodiversity6.JPG">	<br>
-	<img style="width: 500px; height: 330px;" src="/images/Vol-15-issue-3/a-slice-of-sg-biodiversity/Biodiversity7.JPG">The “BHL Singapore” collection comprises a huge variety of historical publications relating to the biodiversity of Singapore and the region. Many are beautifully illustrated with drawings of different species of plants and animals. Shown here are illustrations of the elephant and rhinoceros. <i>Images reproduced from Edwards, G. (1758). Gleanings of Natural History, Exhibiting Figures of Quadrupeds, Birds, Insects, Plants, &c (Part I). London: Royal College of Physicians.</i>
-		<br><br>
 	<img style="width: 500px; height: 330px;" src="/images/Vol-15-issue-3/a-slice-of-sg-biodiversity/Biodiversity8.JPG">Some titles in the “BHL Singapore” collection contain maps. Shown here is “Map of the Island of Singapore and its Dependencies” marking out the locations of Singapore’s forest reserves. <i>Image reproduced from Hill, H.C. (1900). Report on the Present System of Forest Conservancy in the Straits Settlements with Suggestions for Future Management. Singapore: Straits Settlements.</i>
 </span>
 
