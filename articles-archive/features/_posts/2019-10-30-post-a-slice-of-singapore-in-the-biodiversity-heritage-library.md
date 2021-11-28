@@ -1,9 +1,10 @@
 ---
 title: A Slice of Singapore in the Biodiversity Heritage Library
 date: 2019-10-30
-permalink: /vol-15/issue-3/oct-dec-2019/sg-biodvsty-heritage/
+permalink: /vol-15/issue-3/oct-dec-2019/biodiversityheritage/
 layout: post
 ---
+
 #### With climate change on the rise, access to research on biodiversity and natural history is all the more important. **Lim Tin Seng** tells us about the Biodiversity Heritage Library.
 
 <img src="/images/Vol-15-issue-3/a-slice-of-sg-biodiversity/Biodiversity1.JPG">
