@@ -7,7 +7,7 @@ layout: post
 #### Keppel and Sembawang shipyards are major players in Singapore’s maritime and shipping industry. **Wee Beng Geok** traces the colonial origins of these two companies.
 
 <img src="/images/Vol-15-issue-2/the-story-of-two-shipyards/Ship1.JPG">
-<div style="background-color: white;"></i></div>
+<div style="background-color: white;">A large crude carrier at Sembawang Shipyard’s new Premier Dock, a $50-million, 400,000-dwt drydock, at its official opening by then Prime Minister Lee Kuan Yew in May 1975. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 Singapore has always been highly prized for its location. Fortuitously positioned at the southern tip of the Malay Peninsula, at a key crossroad along the East-West trade route, its importance as a port settlement can be traced to the 14th century when the island was known as Temasek.
 
@@ -141,3 +141,35 @@ Today, Keppel Shipyard is a division of Keppel Offshore & Marine, one of the cor
 
 Sembawang Shipyard was renamed Sembcorp Marine Admiralty Yard in 2015. Today, it has five docks, the largest being the 400,000-dwt Premier Dock, as well as KG VI Dock, which is one of the deepest in Southeast Asia. Admiralty Yard is one of the four major yards in Singapore operated by Sembcorp Marine Limited.
 
+<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> 
+	<b>DOCKYARD STRIKES</b>
+	<br><br>
+The dockyards were not spared the highly politicised labour movement that swept through Singapore in the 1950s and 60s. On 30 April 1955, around 1,300 port workers employed by the Singapore Harbour Board (SHB) Staff Association went on strike for better wages and working conditions. In June, the strike found greater support when unions representing 40,000 workers in Singapore threatened to join their shipyard counterparts.
+<br><br>
+The strike ended on 6 July after an agreement was reached between the association and the SHB management. According to one estimate, the protracted negotiations over the three-month period took up nearly 100 hours, with the SHB forking out at least $500,000 a year as a result of the wage increases it offered to the striking workers.
+<br><br>
+The government became concerned that labour activism could derail its efforts to commercialise the dockyards. With the incorporation of Keppel and Sembawang shipyards as business entities in 1968, house unions were set up to represent employees of each shipyard, with the hope of aligning the union’s objectives with that of the new business enterprise.
+</div>
+
+<br>
+<div style="background-color: white;">
+<img src="/images/Vol-15-issue-2/the-story-of-two-shipyards/Ship9.JPG" style="width: 100px; height: 100px;">
+<b></b>
+</div>
+
+<a href="https://biblioasia.nlb.gov.sg/vol-15/issue-2/jul-sep-2019/"><center>Back to Issue</center></a>
+
+#### **REFERENCES**
+Chew, M. (1998). [*Of hearts and minds: The story of Sembawang Shipyard*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9306258). Singapore: Sembawang Shipyard Limited. (Call no.: RSING 623.83 CHE).
+
+[Keppel Shipyard Limited](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19801027-1.2.119.24.2). (1980, October 27). *The Straits Times*, p. 17. Retrieved from NewspaperSG
+
+Lim, R. (1993). [*Tough men, bold visions: The story of Keppel*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6540683). Singapore: Keppel Corporation Limited. (Call no.: RSING q338.762383095957 LIM).
+
+McIntyre, W.D. (1979). [*The rise and fall of the Singapore Naval Base 1919–1942*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4163560). London: MacMillan. (Call no.: RSING 359.7 MAC).
+
+National Library Board. (2014). Formation of the Port of Singapore Authority 1st April 1964. Retrieved from HistorySG.
+
+Neidpath, J. (1981). The Singapore Naval Base and the defence of the Britain’s eastern empire, 1919–1941. Oxford; New York: Clarendon Press. (Call no.: RSING 359.7 NEI)
+
+Turnbull, C.M. (1989). A history of Singapore: 1819–1988 [2nd ed.]. Singapore: Oxford University Press. (Call no.: RSING 959.57 TUR-[HIS])
