@@ -103,3 +103,41 @@ Second, SHB’s dockyards, which had more than a century of commercial ship repa
 After Singapore gained independence in 1965, the British gradually reduced its military presence in the region. The formation of Sembawang Shipyard Pte Ltd in 1968 was precipitated by Britain’s surprise announcement in January that year of an early withdrawal of its military forces in Singapore, including the closure of Sembawang Naval Base, by 1971.
 
 In June 1968, the Singapore government began the process of converting the naval base into a government-linked commercial entity known as Sembawang Shipyard Pte Ltd. The shipyard began operations in December the same year after the British government sold the naval base to Singapore for a token sum of $1. The assets of the naval base were valued at £2 million and included a 100,000-dwt drydock, five floating docks, a mile-long deepwater berthside, full cranage and 22 hectares of workshop facilities.
+
+<img src="/images/Vol-15-issue-2/the-story-of-two-shipyards/Ship7.JPG">
+<div style="background-color: white;">The first female apprentices at Sembawang Shipyard, 1970s. The shipyard set up its own apprenticeship training centre in 1972 to train a new generation of Singaporean engineers and managers, who would eventually take over the reins from British managing agent, Swan Hunter. <i>Image reproduced from Chew, M. (1998). Of Hearts and Minds: The Story of Sembawang Shipyard (p. 116). Singapore: Sembawang Shipyard Pte Ltd. (Call no.: RSING 623.83 CHE).</i></div>
+
+#### **A New Vision for Keppel and Sembawang**
+
+In 1968, Hon Sui Sen, then Chairman of the Economic Development Board, was appointed the first chairman of both Keppel and Sembawang shipyards. His first priority was to transform the two shipyards into for-profit business enterprises. The same year, British shipbuilding group, Swan Hunter of Tyneside, England, was appointed as managing agent to help the shipyards build up their capabilities and resources. These included the development of international commercial and marketing networks that were critical for success in the ship repair business.
+
+By then, decades of monopolistic practices had made Singapore’s ship repair business uncompetitive. The same job that took 20 days to complete in Singapore required a mere six days in Hong Kong. Furthermore, charges were generally 15 percent lower in Hong Kong compared to Singapore.
+
+One stumbling block was caused by Sembawang’s elaborate naval dockyard design. In comparison, commercial dockyards had compact designs, making them more cost-efficient. New skillsets and business processes in areas such as international networks, marketing, commercial estimating and billings had to be developed, as these capabilities had not been the concerns of a naval dockyard. Swan Hunter’s brief included training local managers and technical staff as well as transferring essential skills and knowledge to a new generation of Singaporean shipyard engineers and managers, who would eventually take over the reins.
+
+The two shipyards set up their own apprenticeship training centres – Keppel in 1969 and Sembawang in 1972. Many young Singaporeans who completed these apprenticeship programmes formed the backbone of Singapore’s maritime industry in the 1980s and 90s.
+
+Keppel and Sembawang shipyards became major beneficiaries of scholarship programmes aimed at nurturing local talent to fill key positions in Singapore’s maritime and shipping industry. Recipients of various government and the Colombo Plan scholarship schemes were among the first generation of local engineers and managers at the two shipyards.
+
+<img src="/images/Vol-15-issue-2/the-story-of-two-shipyards/Ship8.JPG">
+<div style="background-color: white;">A ship undergoing repair in Keppel Shipyard
+A ship undergoing repair in Keppel Shipyard, c. early 1990s. <i>Image reproduced from Lim, R. (1993).Tough Men, Bold Visions: The Story of Keppel (p. 65). Singapore: Keppel Corporation Limited. (Call no.: RSING 338.76238309 LIM).</i></div>
+
+Before Swan Hunter’s managing contract with Keppel ended in 1972, a group of Keppel’s key local officers drafted a localisation plan and submitted the blueprint to the chairman of the board. The blueprint was accepted and a local management team took over the shipyard on 1 June 1972, helmed by its new chairman, a prominent Eurasian named George Bogaars. Chua Chor Teck, a former naval dockyard apprentice and naval architecture graduate, was appointed general manager. Briton C.N. Watson of Swan Hunter was retained as interim managing director until 1974, when Chua took over.
+
+Keppel’s new management built a 150,000-dwt drydock on reclaimed land in Tuas, and the new yard commenced business in June 1977 when the dock was completed. In 1979, work on another drydock for ultra-large crude carriers of up to 330,000 dwt began at the Tuas shipyard.
+
+In 1980, Keppel Shipyard Limited (KSL) shares were listed and traded on the Stock Exchange of Singapore, with the launch of an initial public offering of 30 million shares at $3.30 each. Besides the Singapore government, KSL shareholders included institutional investors and private individuals.
+
+Swan Hunter’s contract with Sembawang Shipyard was for 10 years beginning from 1968: the first three years to commercialise the naval dockyard and the subsequent seven years to transform it to a full-fledged ship repair enterprise.
+
+In 1970, senior civil servant Pang Tee Pow was appointed the board chairman of Sembawang Shipyard and Lim Cheng Pah, also from the public service, became its first local senior manager. As the director of personnel and training, Lim led the localisation initiative to nurture and train local staff. In 1972, the year that Sembawang first began commercial operations, the company achieved a revenue of $71.2 million, with a profit of $15 million. This positive start gave Sembawang the confidence to seek public funds through an initial public offering on the Singapore Stock Exchange in June 1973. The company raised $51 million through the issue of 25 million shares at $2.04 each. In 1975, a new and larger drydock catering to the repair market for very large crude carriers was completed.
+
+By the time Swan Hunter personnel left in 1978, almost all the managers in Sembawang were Singaporeans, except for the managing director C.N. Watson, who had previously been with Keppel. Lim succeeded Watson as managing director in 1983, thus completing the entire localisation process.
+
+Over the next three decades, Keppel and Sembawang would emerge as major players in Singapore’s maritime and shipping industry as well as leaders in the global offshore rig construction business.
+
+Today, Keppel Shipyard is a division of Keppel Offshore & Marine, one of the core businesses of conglomerate Keppel Corporation. Keppel Shipyard has three yards in Singapore – Tuas, Benoi and Gul – which together operate five drydocks.
+
+Sembawang Shipyard was renamed Sembcorp Marine Admiralty Yard in 2015. Today, it has five docks, the largest being the 400,000-dwt Premier Dock, as well as KG VI Dock, which is one of the deepest in Southeast Asia. Admiralty Yard is one of the four major yards in Singapore operated by Sembcorp Marine Limited.
+
