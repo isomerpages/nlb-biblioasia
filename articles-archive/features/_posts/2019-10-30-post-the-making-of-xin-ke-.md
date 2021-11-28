@@ -147,8 +147,6 @@ Tianxi’s wife, Yu.
 <br><br>
 The next day.
 翌日。
-<br><br>
-<img style="width: 500px; height: 330px;" src="/images/Vol-15-issue-3/the-making-of-xin-ke/XinKe5.JPG">Zhang Tianxi telling his daughter Huizhen that her cousin Shen Huaqiang will be arriving from China in a few days’ time. <i>Illustration by Dan Wong.</i>
 	<br><br>
 	Nanyang’s famous fruit, durian, has an odour. People who like it find it tasty. Those who dislike it are repulsed by the smell.
 榴梿，南洋著名之果品，有异味，嗜者甘如饴，恶者畏其臭。
@@ -221,6 +219,8 @@ The Babas laugh at Huaqiang when he eats.
 <br><br>
 Tianxi: Don’t laugh at him. They don’t eat with bare hands in China. If you go to China, they will laugh at you instead.
 天锡：你莫笑他，在国内没有用手拿饭的，倘然你到国内去，人家多要笑你哩。
+	<br><br>
+<img style="width: 500px; height: 330px;" src="/images/Vol-15-issue-3/the-making-of-xin-ke/XinKe5.JPG">Zhang Tianxi telling his daughter Huizhen that her cousin Shen Huaqiang will be arriving from China in a few days’ time. <i>Illustration by Dan Wong.</i>
 </span>
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
