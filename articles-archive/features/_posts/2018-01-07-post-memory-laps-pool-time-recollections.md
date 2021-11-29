@@ -1,10 +1,10 @@
 ---
-title: "Memory Laps: Pool-Time Recollections"
+title: "Memory Laps: Pool-time Recollections"
 date: 2018-01-07
 permalink: /vol-13/issue-4/jan-mar-2018/memory-laps
-image: /images/Vol-13-issue-4/memory-laps/01_memorylaps.png
 layout: post
 ---
+
 #### Between the mid-1930s and 1960, only four swimming pool complexes in Singapore were open for public use. **Jocelyn Lau** speaks to people who remember these pools.
 
 <div style="background-color: white;"><br><img src="/images/Vol-13-issue-4/memory-laps/01_memorylaps.png">A drawing of the main pool at APS Swim School, managed by the former Olympian Ang Peng Siong. This was the former Farrer Park Swimming Complex until it closed in 2003. Farrer Park was the training ground for several of Singapore’s early swimming champions. <i>Illustration by Favian Ee.</i></div>
