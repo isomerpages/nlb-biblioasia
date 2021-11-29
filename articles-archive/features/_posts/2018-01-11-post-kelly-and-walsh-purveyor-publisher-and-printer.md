@@ -45,9 +45,9 @@ As the leading bookshop in colonial Singapore, Kelly & Walsh was unrivalled in t
 
 While the bookshop did not shy away from importing controversial titles such as Alfred Kinsey’s *Sexual Behaviour in the Human Female* (1953), it took pains not to display such books at its store windows nor on the shelves for fear of offending social mores of the time.
 
-<div style="background-color: white;"><img style="width:500px" src="/images/Vol-13-issue-4/kelly-and-walsh/04_KW.jpg">Kelly & Walsh advertising its collection of Christmas and New Year greeting cards that were “suitable for sending to home friends”. <i>The Singapore Free Press and Mercantile Advertiser (Weekly), 1 December 1896, p. 352.</i></div>
-
 The store’s other main attraction was its display of luxury stationery items and charming art prints. From writing cases, blotters, fountain pens, diaries, bookends, and picture frames to illustrated prints and artwork, the extensive assortment of accessories made Kelly & Walsh a popular stop for gifts on special and festive occasions. Its annual display of Christmas and New Year greeting cards was also a highlight during the Yuletide season: the store displayed imported cards adorned with floral and other artistic motifs, as well as a bestselling “local” series produced in-house by Kelly & Walsh.
+
+<div style="background-color: white;"><img style="width:380px" src="/images/Vol-13-issue-4/kelly-and-walsh/04_KW.jpg">Kelly & Walsh advertising its collection of Christmas and New Year greeting cards that were “suitable for sending to home friends”. <i>The Singapore Free Press and Mercantile Advertiser (Weekly), 1 December 1896, p. 352.</i></div>
 
 The latter were collotype reproductions of Singapore scenes printed in various tints. The cards captured a motley assortment of images, such as Malay sailing crafts, views of the New Harbour (present-day Keppel Harbour), Malay kampongs, busy thoroughfares such as Battery Road and Collyer Quay, and even Malay schoolchildren and satay sellers. Printed on the cards was the greeting in Malay “Selamat Tahun Bahru” or “Happy New Year”. These cards were choice souvenirs that residents would purchase to send to family and friends abroad.
 
@@ -57,7 +57,7 @@ In addition to its principal business as a bookseller and stationer, the booksho
 
 Perhaps the firm’s most lasting legacy in Singapore was in publishing and printing. The Singapore branch of Kelly & Walsh was a prodigious publisher and printer of works on Malayan topics and by Malayan authors. There are approximately 200 recorded titles (excluding new editions and reprints) of publications produced by the company between 1887 and the mid-1950s.[^8] The majority were in English, followed by Malay (both Romanised Malay and Jawi) and bilingual works in English and Malay. Only a very small number of bilingual English-Chinese and English-Tamil titles were produced, and as far as can be ascertained, none published entirely in Chinese or Tamil.
 
-<div style="background-color: white;"><img style="width:500px" src="/images/Vol-13-issue-4/kelly-and-walsh/05_KW.jpg">Although the majority of the publications by Kelly & Walsh were in English, the firm also produced works in Romanised Malay and Jawi. <i>Hikayat Maharaja Puspa Wiraja di Negeri Istana Pura Negara</i> is a Malay reader published in Jawi by Kelly & Walsh in 1900. <i>Collection of the National Library, Singapore. (Accession no.: B18153103K; Microfilm no.: NL2554).</i></div>
+<div style="background-color: white;"><img style="width:380px" src="/images/Vol-13-issue-4/kelly-and-walsh/05_KW.jpg">Although the majority of the publications by Kelly & Walsh were in English, the firm also produced works in Romanised Malay and Jawi. <i>Hikayat Maharaja Puspa Wiraja di Negeri Istana Pura Negara</i> is a Malay reader published in Jawi by Kelly & Walsh in 1900. <i>Collection of the National Library, Singapore. (Accession no.: B18153103K; Microfilm no.: NL2554).</i></div>
 
 The earliest recorded work published in Singapore by Kelly & Walsh was a six-page music score titled *The Jubilee Waltz*. It was composed by Nathan Berhardy Ruchwaldy,[^9] the long-time manager of the Robinson Piano Company in Singapore. The piece was performed at Government House on the occasion of Queen Victoria’s Golden Jubilee celebration in 1887. One hundred copies of the score were printed by the commercial printer, Singapore & Straits Publishing Office, and sold for 75 cents each.
 
@@ -83,7 +83,8 @@ After World War II, Kelly & Walsh’s publishing output declined, and was confin
 
 Although Kelly & Walsh began publishing in Singapore as early as 1887, it did not print its own books until the firm set up a printing and book-binding department in January 1899. Prior to that, all of its printing work was contracted to commercial printers such as the Singapore and Straits Printing Office, Koh Yew Hean Press and Fraser & Neave. The firm’s printing business expanded in 1904[^12] when it established a facility at 194 Orchard Road (where Paragon shopping centre stands today) to print its own publications as well as external jobs such as government orders.
 
-In 1924, Kelly & Walsh sold off its printing press to its competitor Fraser & Neave.
+Unfortunately, Kelly & Walsh’s printing business suffered: intense market competition and depressed prices compelled the firm to sell off its printing plant to competitor Fraser & Neave in 1924. Kelly & Walsh returned to outsourcing its printing jobs to commercial printers like Malayan Publishing
+House, Liang Brothers and Jitts & Co.
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>SOME WORKS BY KELLY & WALSH</b>
 <br><br>
