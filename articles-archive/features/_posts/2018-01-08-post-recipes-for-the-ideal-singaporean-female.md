@@ -135,7 +135,7 @@ It was only as an adult that I re-acquainted myself with the kitchen when food t
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Vol-13-issue-4/ideal-singaporean-female/sheere.png">
+<img style="width: 100px; height: 100px;" src="/images/Vol-13-issue-4/ideal-singaporean-female/sheere1.png">
 	<b>Sheere Ng</b> is a food writer and researcher with an interest in the intersections of food, immigration and identity. She has an MLA in Gastronomy from Boston University and runs a writing studio called In Plain Words.
 </div>
 
