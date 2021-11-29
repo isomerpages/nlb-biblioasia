@@ -177,37 +177,37 @@ Researcher and writer <b>Tan Chui Hua</b> has worked on various projects documen
 
 #### **NOTES**
 
-[^1]:Chen, N.F. (1971, October 16). Discotheque. New Nation, p. 9. Retrieved from NewspaperSG.
+[^1]:Chen, N.F. (1971, October 16). [Discotheque](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19711016-1.2.52.6). *New Nation*, p. 9. Retrieved from NewspaperSG.
 
-[^2]:Yong, J. (1966, February 27). Debut with a frug, a shake, a twitch and a scratch. The Straits Times, p. 7. Retrieved from NewspaperSG.
+[^2]:Yong, J. (1966, February 27). [Debut with a frug, a shake, a twitch and a scratch](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19660227-1.2.35). *The Straits Times*, p. 7. Retrieved from NewspaperSG.
 
-[^3]:Teo, K.G. (Interviewer). (2013, February 13). Oral history interview with Ronald Goh Wee Huat. [MP3 recording no. 003790/6/1]. Retrieved from National Archives of Singapore website.
+[^3]:Teo, K.G. (Interviewer). (2013, February 13). *[Oral history interview with Ronald Goh Wee Huat](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/05389d72-1163-11e3-83d5-0050568939ad)*. [MP3 recording no. 003790/6/1]. Retrieved from National Archives of Singapore website.
 
-[^4]:Fireplace closed down on minister’s orders. (1969, March 21). *The Straits Times*, p. 24. Retrieved from NewspaperSG. 
+[^4]:[Fireplace closed down on minister’s orders]http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19690321-1.2.152). (1969, March 21). *The Straits Times*, p. 24. Retrieved from NewspaperSG. 
 
-[^5]:Police raid on discotheque: Six arrested. (1969, March 25). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
+[^5]:[Police raid on discotheque: Six arrested](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19690325-1.2.17). (1969, March 25). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
 
-[^6]:1am Trudeau. (1971, January 20). *New Nation*, p. 1. Retrieved from NewspaperSG.
+[^6]:[1am Trudeau](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19710120-1.2.8). (1971, January 20). *New Nation*, p. 1. Retrieved from NewspaperSG.
 
-[^7]:Crowds pack in at new ‘disco’. (1971, March 16). *New Nation*, p. 2. Retrieved from NewspaperSG.
+[^7]:[Crowds pack in at new ‘disco’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19710316-1.2.26). (1971, March 16). *New Nation*, p. 2. Retrieved from NewspaperSG.
 
-[^8]:Tan, T. (1970, September 16). No glam profits in a disco. *The Straits Times*, p. 12. Retrieved from NewspaperSG.
+[^8]:Tan, T. (1970, September 16). [No glam profits in a disco](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19700916-1.2.74). *The Straits Times*, p. 12. Retrieved from NewspaperSG.
 
-[^9]:It’s a livotheque. (1971, September 22). *New Nation*, p. 10. Retrieved from NewspaperSG.
+[^9]:[It’s a livotheque](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19710922-1.2.79.5). (1971, September 22). *New Nation*, p. 10. Retrieved from NewspaperSG.
 
-[^10]:The Straits Times, 16 Sep 1970, p. 12.
+[^10]:*[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19700916-1.2.74),* 16 Sep 1970, p. 12.
 
-[^11]:Barbarella Discotheque: Where the good times really are! (1970, January 3). *The Straits Times*, p. 20. Retrieved from NewspaperSG; *The Straits Times*, 16 Sep 1970, p. 12. 
+[^11]:[Barbarella Discotheque: Where the good times really are!](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19700103-1.2.121.1) (1970, January 3). *The Straits Times*, p. 20. Retrieved from NewspaperSG; *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19700916-1.2.74)*, 16 Sep 1970, p. 12. 
 
-[^12]:Kwee, M. (1971, January 30). Rajaratnam for today’s ‘dedication ceremony’. The Straits Times, p 17; Décor meets the modern standards (1971, April 23). The Straits Times, p. 45. Retrieved from NewspaperSG.
+[^12]:Kwee, M. (1971, January 30). [Rajaratnam for today’s ‘dedication ceremony’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710130-1.2.112). *The Straits Times*, p 17; [Décor meets the modern standards](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710423-1.2.186) (1971, April 23). *The Straits Times*, p. 45. Retrieved from NewspaperSG.
 
-[^13]:The Straits Times, 16 Sep 1970, p. 12; Ong, P. (1973, February 10). X’Quisites make it to the nightclub scene. New Nation, p. 7. Retrieved from NewspaperSG
+[^13]:*[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19700916-1.2.74),* 16 Sep 1970, p. 12; Ong, P. (1973, February 10). [X’Quisites make it to the nightclub scene](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19730210-1.2.48). *New Nation*, p. 7. Retrieved from NewspaperSG
 
-[^14]:The Straits Times, 16 Sep 1970, p. 12.
+[^14]:*[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19700916-1.2.74),* 16 Sep 1970, p. 12.
 
 [^15]:Rediffusion was Singapore’s first cable-transmitted, commercial radio station, which began broadcasting in 1949.
 
-[^16]:Mobile disco gets into the beat. (1982, September 12). The Straits Times, p. 19. Retrieved from NewspaperSG.
+[^16]:[Mobile disco gets into the beat](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820912-1.2.107.26). (1982, September 12). *The Straits Times*, p. 19. Retrieved from NewspaperSG.
 
 [^17]:[S’pore gets first mobile discotheque](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19700920-1.2.51). (1970, September 20). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
 
