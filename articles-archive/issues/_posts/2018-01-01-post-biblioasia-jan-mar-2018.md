@@ -11,7 +11,7 @@ The documents that establish Southeast Asian as a major centre of learning, the 
 
 **[Director’s Note](/vol-13/issue-4/jan-mar-2018/director-note)**
 
-**[Manuscripts from our Global Past](/vol-13/issue-4/jan-mar-2018/manuscripts-from-past)** <br>
+**[Manuscripts from Our Global Past](/vol-13/issue-4/jan-mar-2018/manuscripts-from-past)** <br>
 An exhibition of old Southeast Asian writings showcases the region as a major centre of learning. *Farish A. Noor* explains why we should reclaim our heritage. [(PDF)](/files/pdf/vol-13/v13-issue4_Manuscripts.pdf)
 
 **[The Stories They Could Tell](/vol-13/issue-4/jan-mar-2018/stories-they-tell)** <br>
@@ -28,7 +28,7 @@ Capitol Theatre was the premier venue for film and stage when it opened in 1930.
 **[Warm Tidings in a Cold War](/vol-13/issue-4/jan-mar-2018/warmtidingsincoldwar)** <br>
 Remittance letters between Singapore and China during the height of the Cold War from the 1950s–70s recount both the joy and angst of relationships across the miles. *Dong Hui Ying* delves deeper. [(PDF)](/files/pdf/vol-13/v13-issue4_Tidings.pdf)
 
-**[Memory Laps: Pool-Time Recollections](/vol-13/issue-4/jan-mar-2018/memory-laps)** <br>
+**[Memory Laps: Pool-time Recollections](/vol-13/issue-4/jan-mar-2018/memory-laps)** <br>
 Between the mid-1930s and 1960, only four swimming pool complexes in Singapore were open for public use. *Jocelyn Lau* speaks to people who remember these pools. [(PDF)](/files/pdf/vol-13/v13-issue4_Memory.pdf)
 
 **[Recipes for the Ideal Singaporean Female](/vol-13/issue-4/jan-mar-2018/ideal-sgporean-female)** <br>
