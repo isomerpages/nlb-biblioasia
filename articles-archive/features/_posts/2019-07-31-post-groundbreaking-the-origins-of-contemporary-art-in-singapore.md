@@ -17,7 +17,7 @@ Similarly, Kwok Kian Chow’s *Channels and Confluences: A History of Singapore 
 
 In fact, the beginnings of Singapore’s contemporary art scene can be traced back at least two to three years before the formation of The Artists Village. Art historian T.K. Sabapathy has cautioned that “all too often each and every endeavour of developing new or alternative methods of making art, especially installation and performance, is invariably and unthinkingly attributed to the influence of the Village and/or Da Wu”.[^5]
 
-<img src="/images/Vol-15-issue-2/origins-of-art-in-sg/GroundBreaking2.JPG">
+<img style="width: 350px; height: 450px;" src="/images/Vol-15-issue-2/origins-of-art-in-sg/GroundBreaking2.JPG">
 <div style="background-color: white;">Tang Da Wu’s <i>Gully Curtain</i> (1979) was created on-site by hanging seven pieces of linen in a gully in Ang Mo Kio for three months. The resulting soiled and water-stained linens were then displayed at the National Museum Art Gallery in the exhibition titled <i>Earth Work in 1980. Tang Da Wu, Untitled, 1979, Gelatin silver print, 39 x 49 cm. Collection of National Gallery Singapore. Image courtesy of National Heritage Board.</i></div>
 
 #### **What is Contemporary Art?**
@@ -108,7 +108,7 @@ A confluence of various factors – institutional support and reception by the m
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
 	<b>THREE ARTWORKS AHEAD OF THEIR TIME</b>
 <br><br>
-	<img src="/images/Vol-15-issue-2/origins-of-art-in-sg/GroundBreaking6.JPG">In 1972, Cheo Chai-Hiang’s proposal <i>5′x 5′</i> (<i>Singapore River</i>) – which provided instructions for a blank square measuring five feet by five feet to be drawn over a wall and adjoining floor – to the Modern Art Society for its annual exhibition was rejected due to its iconoclastic nature. This display is a recreation of the original work. <i>Cheo Chai-Hiang, 5′ x 5′ (Inched Deep), 1972, remade for display in 2015, mixed media, 150 x 150 cm. Collection of National Gallery Singapore. Courtesy of National Heritage Board.</i>
+	<img style="width: 450px; height: 300px;" src="/images/Vol-15-issue-2/origins-of-art-in-sg/GroundBreaking6.JPG">In 1972, Cheo Chai-Hiang’s proposal <i>5′x 5′</i> (<i>Singapore River</i>) – which provided instructions for a blank square measuring five feet by five feet to be drawn over a wall and adjoining floor – to the Modern Art Society for its annual exhibition was rejected due to its iconoclastic nature. This display is a recreation of the original work. <i>Cheo Chai-Hiang, 5′ x 5′ (Inched Deep), 1972, remade for display in 2015, mixed media, 150 x 150 cm. Collection of National Gallery Singapore. Courtesy of National Heritage Board.</i>
 	<br><br>
 In 1972, Cheo Chai-Hiang submitted a proposal, titled <i>5′ x 5′</i> (<i>Singapore River</i>), to the annual exhibition of the Modern Art Society. The proposal contained a set of instructions directing the exhibitors to draw a square measuring five feet by five feet straddling the wall and the floor. Cheo’s work was an example of conceptual art, in which the idea or the concept was more important than the actual execution or aesthetics. At one level, the work was a parody of the cliched representations of the Singapore River popular among painters then. On another level, it was a critical work meant to provoke discourse about the general state of art in Singapore, which had hitherto been dominated by international abstraction. Given its iconoclastic nature, <i>5′ x 5′</i> (<i>Singapore River</i>) was not selected for the 1972 Modern Art Society exhibition.
 <br><br>
@@ -120,7 +120,7 @@ Tan Teng-Kee staged <i>The Picnic</i> as an outdoor event at the field outside h
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
 	<b>TRIMURTI: A RETURN TO ASIAN AESTHETICS</b>
 <br><br>
-	<img src="/images/Vol-15-issue-2/origins-of-art-in-sg/GroundBreaking7.JPG">Goh Ee Choo
+	<img style="width: 450px; height: 300px;" src="/images/Vol-15-issue-2/origins-of-art-in-sg/GroundBreaking7.JPG">Goh Ee Choo
 Goh Ee Choo during one of his ritualistic performances for <i>Trimurti</i> in 1988. <i>Courtesy of Goh Ee Choo, S.Chandrasekaran and Salleh Japar.</i>
 	<br><br>
 In March 1988, Goh Ee Choo, Salleh Japar and S. Chandrasekaran staged an exhibition at the Goethe-Institut titled <i>Trimurti</i>. The exhibition was, in many ways, a crystallisation of the ideas and concepts that they had been working on in <i>Quintet</i> that took place in May 1987. In <i>Quintet</i>, these three artists drew extensively from Asian philosophical systems relating to ideas of creation and the cosmos, but with <i>Trimurti</i>, these ideas became more fully fledged and explicit as concepts underpinning the exhibition.
