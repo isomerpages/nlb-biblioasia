@@ -56,13 +56,13 @@ Published by Malaya Publishing House and produced by the Singapore and Johor Tea
 
 Inspired by the 1883 classic *Treasure Island* by Robert Louis Stevenson, the adventures of Ahmad, Shaida and Meng were a series of stories written specially for Malayan children. Part of the *Malayan Children’s Bookshelf* series published by Donald Moore, the books aimed to help inculcate the love of reading in English.
 
-<div style="background-color: white;"><img src="/images/Vol-13-issue-4/textbooks-we-remember/03a_textbooks.jpg"></div>
+<div style="background-color: white;"><img style="width:300px" src="/images/Vol-13-issue-4/textbooks-we-remember/03a_textbooks.jpg"></div>
 
 **English Today** (1961–1965)
 
 Published by Federal Publications, this series was adapted from the United Kingdom’s textbook of the same name for the English language syllabus of Singapore and the Federation of Malaya. The textbooks were organised by chapters comprising short stories or essays and accompanied by practice exercises.
 
-<div style="background-color: white;"><img src="/images/Vol-13-issue-4/textbooks-we-remember/04a_textbooks.jpg"></div>
+<div style="background-color: white;"><img style="width:300px" src="/images/Vol-13-issue-4/textbooks-we-remember/04a_textbooks.jpg"></div>
 
 **Chiki Chak** (1962)
 
@@ -74,25 +74,25 @@ An English storybook published by Donald Moore for Malayan children that imparte
 
 Both a textbook and workbook, the *New Syllabus English for Singapore* was published by Preston Corporation and based on the Ministry of Education’s official syllabus. Revision exercises and language drills were greatly emphasised, a typical pedagogy of this period in the 1970s.
 
-<div style="background-color: white;"><img src="/images/Vol-13-issue-4/textbooks-we-remember/06a_textbooks.jpg"></div>
+<div style="background-color: white;"><img style="width:300px" src="/images/Vol-13-issue-4/textbooks-we-remember/06a_textbooks.jpg"></div>
 
 **Minah and her House; The Monkey, the Elephant, the Tiger and the Mouse-deer; The Parade** (1974)
 
 Part of the 24 readers developed and published under the Ministry of Education’s Primary Pilot Project, the books were designed to integrate the learning of English with mathematics and science. For example, children learnt to count and studied science concepts such as reflection.
 
-<div style="background-color: white;"><img src="/images/Vol-13-issue-4/textbooks-we-remember/07a_textbooks.jpg"></div>
+<div style="background-color: white;"><img style="width:300px" src="/images/Vol-13-issue-4/textbooks-we-remember/07a_textbooks.jpg"></div>
 
 **Primary English Programme** (1982–1984)
 
 This was one of two series of English textbooks developed by the Curriculum Development Institute of Singapore in the 1980s and published by Educational Publications Bureau. Lessons were presented in the form of interesting and humorous stories to engage and appeal to students. Ech story was accompanied by exercises on grammar, vocabulary and self-expression.
 
-<div style="background-color: white;"><img src="/images/Vol-13-issue-4/textbooks-we-remember/08a_textbooks.jpg"></div>
+<div style="background-color: white;"><img style="width:300px" src="/images/Vol-13-issue-4/textbooks-we-remember/08a_textbooks.jpg"></div>
 
 **PETS (Primary English Thematic Series)** (1991–1995)
 
 *PETS* were the only English textbooks used in primary schools in the 1990s. Markedly different from its predecessors in its use of thematic lessons, each textbook also injected an element of fun by featuring an animal mascot hidden among its pages for students to find. The series was published by Educational Publications Bureau.
 
-<div style="background-color: white;"><img src="/images/Vol-13-issue-4/textbooks-we-remember/09a_textbooks.jpg"></div>
+<div style="background-color: white;"><img style="width:300px" src="/images/Vol-13-issue-4/textbooks-we-remember/09a_textbooks.jpg"></div>
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>WHAT IS THE LEGAL DEPOSIT?</b>
 <br><br>
