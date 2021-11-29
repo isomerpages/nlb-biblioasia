@@ -6,9 +6,13 @@ layout: post
 ---
 #### Writing a biography can be tedious, painstaking work. But the effort can also be uplifting and inspirational, as **Irene Ng** discovered when she began researching the life of S. Rajaratnam.
 
+<div style="background-color: white;"><br><img style="width:500px" src="/images/Vol-15-issue-1/researching-s-rajaratnam/02_rajaratnam.jpg">S. Rajaratnam, c. 1970s. <i>S. Rajaratnam Collection, courtesy of National Archives of Singapore.</i></div>
+
 When I embarked on writing the biography of S. Rajaratnam in 2005, I did not realise that it would take over my life. A project that originally involved just one book became two volumes[^1] – one already published, another in the making – and a third, an anthology of Rajaratnam’s short stories and radio plays,[^2] published as a surprise baby in between. And who knows, there might be a fourth book.
 
 It has been a long research journey. I started with the question: how does one capture the complex life of a man who was one of Singapore’s founding leaders, the first minister for culture (1959) of self-governing Singapore, the first minister for foreign affairs (1965–80) of independent Singapore – and the ideologue who wrote the country’s National Pledge in 1966?
+
+<div style="background-color: white;"><img style="width:700px" src="/images/Vol-15-issue-1/researching-s-rajaratnam/01_rajaratnam.jpg">S.Rajaratnam during an election mass rally at Fullerton Square, 1 April 1959. Seated sixth from right is Secretary-General of the People’s Action Party, Lee Kuan Yew. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 In trying to answer this question, I turned to the archival materials at the National Archives of Singapore (NAS), aptly situated at the foot of the historic Fort Canning Hill. The building, a former schoolhouse, had the feel of, well… an old school with a run-down air (at least when I visited it between 2005 and 2015 for my work). Within the building itself, however, was a treasure trove of old documents, photographs, maps, radio broadcasts and television footage. It is hard to describe the sense of anticipation I feel each time I enter its reading room, ever hopeful that I would come across new insights and learn new ways of understanding the past.
 
@@ -18,9 +22,11 @@ I had known Rajaratnam since my days as a journalist and had interviewed him in 
 
 By the time I started on his biography in 2005, he was already 90 and suffering from late-stage Alzheimer’s disease. With the permission of the trustees of Rajaratnam’s estate (his Hungarian wife Piroska Feher had died in 1989; they had no children), I browsed his personal library and private papers in his old bungalow in leafy Chancery Lane, a process that continued until some months after his death in February 2006. Other than his vast collection of books, there were the boxes upon boxes of papers, files and photos, all gathering dust.
 
+<div style="background-color: white;"><img style="width:400px" src="/images/Vol-15-issue-1/researching-s-rajaratnam/04_rajaratnam.jpg">S. Rajaratnam and his Hungarian wife, Piroska Feher, relaxing at home with a friend (left), c. 1980s. <i>S. Rajaratnam Collection, courtesy of National Archives of Singapore.</i></div>
+
 I became worried that the materials would deteriorate in the heat and humidity, or worse, be misplaced or destroyed. After Rajaratnam passed away, I recommended that important items be donated to the archives for preservation. So imagine my despair when, during one visit to his house, I saw hundreds of books smouldering in a bonfire in his garden. Thanks to the actions of the NAS and the Institute of Southeast Asian Studies (ISEAS), however, most of his books and other important items, such as his armchair and typewriter, found a new home in their premises.
 
-The experience reinforced my conviction that the images, voices and documents of our founding leaders should be syste­matically preserved for the benefit of the present and future generations.
+The experience reinforced my conviction that the images, voices and documents of our founding leaders should be systematically preserved for the benefit of the present and future generations.
 
 Writing Rajaratnam’s biography for me is part of the larger endeavour to preserve memories. Biography is the form through which writers recreate life from archival documents such as letters and diaries, TV and radio recordings, newspapers and official records – in this case, Hansard documents (transcripts of parliamentary debates). This work is vastly different from my previous job as a newspaper journalist. Journalists write the “first draft” of history, chronicling people and events with speed and immediacy in mind. In contrast, biographers may take years – in my case, more than a decade – to complete their account of a subject’s life. I am grateful to all those who have helped me and believed in me throughout the arduous process, particularly my patient bosses at ISEAS.
 
@@ -36,7 +42,7 @@ How did I know that he sounded somewhat diffident when he spoke to journalists i
 
 How did I know that he courted the Hungarian girl, who would later become his wife, in late-1930s London, with romantic picnics by the beach, rowing a boat and swimming? From his photos in the archives.
 
-Oral history interviews were another rich resource. When I first started my research in 2005, most of the recor­dings had yet to be transcribed or digitised – forget about instantaneous online access – so it was a slow and painful slog. For access to records, I had to fill in a form, “Request to Access Oral History Interviews”, which took time to process. All this has now changed. The expansion of the Oral History Centre’s digital platforms and services over the years has greatly eased the work of researchers, especially for those based overseas.
+Oral history interviews were another rich resource. When I first started my research in 2005, most of the recordings had yet to be transcribed or digitised – forget about instantaneous online access – so it was a slow and painful slog. For access to records, I had to fill in a form, “Request to Access Oral History Interviews”, which took time to process. All this has now changed. The expansion of the Oral History Centre’s digital platforms and services over the years has greatly eased the work of researchers, especially for those based overseas.
 
 While I conducted my own interviews with more than 100 people, including Rajaratnam’s one-time political opponents, for the book, they were supplemented by oral history interviews from the NAS. These provided me with different perspectives and useful anecdotes that helped to enrich the narrative.
 
@@ -57,6 +63,8 @@ To give a simple example: on the fateful day of 7 August 1965, how did Rajaratna
 All this places a greater demand on the skills of the writer to manage complexity and ambiguity in the narrative. However rigorous one’s research, one must be prepared for a certain degree of controversy.
 
 I find it most satisfying when I make a new discovery during the research process, or see a new pattern, or am able to add depth to a current historical record. Few people, for example, knew until fairly recently that the young Rajaratnam found fame as a fiction writer in London, where he lived for 12 years from 1935 to 1947. He wrote short stories that met with critical acclaim, and was regarded as a leading Indian short-story writer of English works at the time – a pioneer of Malayan writing in English.
+
+<div style="background-color: white;"><img style="width:400px" src="/images/Vol-15-issue-1/researching-s-rajaratnam/03_rajaratnam.jpg">S. Rajaratnam outside his flat at 12 Steele Road, London, 1930s. <i>Image reproduced from Ng, I. (2010). The Singapore Lion: A Biography of S. Rajaratnam. Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 327.59570092 NG).</i></div>
 
 I found out that his short stories were praised by no less than E.M. Forster in a BBC broadcast on 29 April 1942.[^3] His work also drew the attention of George Orwell, who invited Rajaratnam to write for the weekly BBC series, “Open Letters”, to explain the different aspects of war in the form of a letter to an imaginary person. In a broadcast introducing the series on 4 August 1942, the BBC announced that “Raja Ratnam, who is well known among the new Indian writers in Great Britain, will address his letter to a Quisling”.[^4]
 
