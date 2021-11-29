@@ -227,44 +227,44 @@ Researcher and writer <b>Tan Chui Hua</b> has worked on various projects documen
 
 [^25]:Richmond, B. (2002). The golden age of Singapore disco. Retrieved from MusicSG.
 
-[^26]:Higher licence fees for discos planned. (1973, October 27). *New Nation*, p. 2. Retrieved from NewspaperSG.
+[^26]:[Higher licence fees for discos planned](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19731027-1.2.16.3). (1973, October 27). *New Nation*, p. 2. Retrieved from NewspaperSG.
 
-[^27]:Higher tax for clubs and discotheques. (1971, May 12). New Nation, p. 3; Har, N. (1971, November 18). ‘Close at 1 am’ shock for night clubs. *The Straits Times*, p. 6. Retrieved from NewspaperSG.
+[^27]:[Higher tax for clubs and discotheques](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19710512-1.2.28). (1971, May 12). *New Nation*, p. 3; Har, N. (1971, November 18).[ ‘Close at 1 am’ shock for night clubs](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19711118-1.2.40). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
 
-[^28]:‘High flyers’ who make the scene in coffee houses, discos and bowling alleys. (1972, July 9). *The Straits Times*, p. 10. Retrieved from NewspaperSG.
+[^28]:‘[High flyers’ who make the scene in coffee houses, discos and bowling alleys](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720709-1.2.45). (1972, July 9). *The Straits Times*, p. 10. Retrieved from NewspaperSG.
 
-[^29]:Raman, P.M., & Pereira, G. (1973, October 23). Discos tighten up entry rules after warning by minister. *The Straits Times*, p. 13. Retrieved from NewspaperSG.
+[^29]:Raman, P.M., & Pereira, G. (1973, October 23). [Discos tighten up entry rules after warning by minister](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19731023-1.2.106). *The Straits Times*, p. 13. Retrieved from NewspaperSG.
 
-[^30]:Ahmad Osman. (1973, November 18). Discos lose liquor permits. *The Straits Times*, p. 1. Retrieved from NewspaperSG.
+[^30]:Ahmad Osman. (1973, November 18). [Discos lose liquor permits](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19731118-1.2.8). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
 
-[^31]:Chandran, R., & Pereira, G. (1973, November 2). Govt shuts down 6 discos. *The Straits Times*, p. 1. Retrieved from NewspaperSG.
+[^31]:Chandran, R., & Pereira, G. (1973, November 2). [Govt shuts down 6 discos](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19731102-1.2.16). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
 
-[^32]:D’Rose, R. (Interviewer). (1996, February 28). Oral history interview with Mervyn Nonis [Transcript of MP3 recording no. 001737/11/3, p. 63]. Retrieved from National Archives of Singapore website.
+[^32]:D’Rose, R. (Interviewer). (1996, February 28). *[Oral history interview with Mervyn Nonis](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/d/d9222956-115e-11e3-83d5-0050568939ad-OHC001737_003/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=24),* [Transcript of MP3 recording no. 001737/11/3, p. 63]. Retrieved from National Archives of Singapore website.
 
-[^33]:Final goodbye to the discos. (1973, December 14). New Nation, p. 7. Retrieved from NewspaperSG.
+[^33]:[Final goodbye to the discos](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19731214-1.2.20.26). (1973, December 14). *New Nation*, p. 7. Retrieved from NewspaperSG.
 
-[^34]:Boiler Room disco closes down. (1973, October 31). The Straits Times, p. 1; Final goodbye to the discos. (1973, December 14). New Nation, p. 7. Retrieved from NewspaperSG.
+[^34]:[Boiler Room disco closes down](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19731031-1.2.19). (1973, October 31). *The Straits Times*, p. 1; [Final goodbye to the discos](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19731214-1.2.20.26). (1973, December 14). *New Nation*, p. 7. Retrieved from NewspaperSG.
 
-[^35]:Oral history interview with Mervyn Nonis, 28 Feb 1996, pp. 68–70.
+[^35]:*[Oral history interview with Mervyn Nonis](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/d/d9222956-115e-11e3-83d5-0050568939ad-OHC001737_003/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=24),* 28 Feb 1996, pp. 68–70.
 
-[^36]:Govt eases curbs on nightclubs and discos. (1975, February 15). *The Straits Times*, p. 7; Disco to close shop again. (1977, June 24). *New Nation*, p. 4. Retrieved from NewspaperSG.
+[^36]:[Govt eases curbs on nightclubs and discos](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19750215-1.2.51). (1975, February 15). *The Straits Times*, p. 7; [Disco to close shop again](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19770624-1.2.27). (1977, June 24). *New Nation*, p. 4. Retrieved from NewspaperSG.
 
-[^37]:Dance fever to catch on as disco contest begins (1979, July 5). *The Straits Times*, p. 2. Retrieved from NewspaperSG.
+[^37]:[Dance fever to catch on as disco contest begins](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19790705-1.2.113.5.4) (1979, July 5). *The Straits Times*, p. 2. Retrieved from NewspaperSG.
 
-[^38]:Santa the disco dancer.  (1979, December 24). *The Straits Times*, p. 26. Retrieved from NewspaperSG.
+[^38]:[Santa the disco dancer](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19791224-1.2.101).  (1979, December 24). *The Straits Times*, p. 26. Retrieved from NewspaperSG.
 
-[^39]:Dhaliwal, R. K. (1975, October 17). The YMCA disco New Nation, p. 2; Contest to pick the first disco queen. (1978, June 19). *The Straits Times*, p. 11. Retrieved from NewspaperSG.
+[^39]:Dhaliwal, R. K. (1975, October 17). [The YMCA disco](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19751017-1.2.6.1). *New Nation*, p. 2; [Contest to pick the first disco queen](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19780619-1.2.55). (1978, June 19). *The Straits Times*, p. 11. Retrieved from NewspaperSG.
 
-[^40]:Saturday night flu, anyone? (1979, November 17). New Nation, p. 8. Retrieved from NewspaperSG.
+[^40]:[Saturday night flu, anyone?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19791117-1.2.32) (1979, November 17). *New Nation*, p. 8. Retrieved from NewspaperSG.
 
-[^41]:Ong, C. (1986, February 7). Another mammoth police disco night. The Straits Times, p. 17; For this disco, bring along a hongbao. (1986, February 5). The Straits Times, p. 14. Retrieved from NewspaperSG.
+[^41]:Ong, C. (1986, February 7). [Another mammoth police disco night](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19860207-1.2.76.25.3). *The Straits Times*, p. 17; [For this disco, bring along a hongbao](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19860205-1.2.54.16). (1986, February 5). *The Straits Times*, p. 14. Retrieved from NewspaperSG.
 
-[^42]:Tan, T. (1970, September 16). No glam profits in a disco. The Straits Times, p. 12. Retrieved from NewspaperSG.
+[^42]:Tan, T. (1970, September 16). [No glam profits in a disco](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19700916-1.2.74). *The Straits Times*, p. 12. Retrieved from NewspaperSG.
 
-[^43]:Ong, P. (1973, February 10). X’Quisites make it to the nightclub scene. New Nation, p. 7; Singapore’s young musicians come of age. (1971, August 30). New Nation, p. 9. Retrieved from NewspaperSG.
+[^43]:Ong, P. (1973, February 10). [X’Quisites make it to the nightclub scene](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19730210-1.2.48). *New Nation*, p. 7; [Singapore’s young musicians come of age](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19710830-1.2.58). (1971, August 30). *New Nation*, p. 9. Retrieved from NewspaperSG.
 
-[^44]:Chua, M., & Pereira, G. (1973, November 3). Discos may open again, but no music or dancing. The Straits Times, p. 11. Retrieved from NewspaperSG.
+[^44]:Chua, M., & Pereira, G. (1973, November 3). [Discos may open again, but no music or dancing](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19731103-1.2.73). *The Straits Times*, p. 11. Retrieved from NewspaperSG.
 
-[^45]:New Nation, 30 Aug 1971, p. 9.
+[^45]:*[New Nation](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19710830-1.2.58)*, 30 Aug 1971, p. 9.
 
-[^46]:Har, N. (1971, March 27). Lousy bands or good records? The Straits Times, p. 4. Retrieved from NewspaperSG.
+[^46]:Har, N. (1971, March 27). [Lousy bands or good records?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710327-1.2.17) *The Straits Times*, p. 4. Retrieved from NewspaperSG.
