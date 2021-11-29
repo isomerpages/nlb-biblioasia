@@ -4,7 +4,6 @@ date: 2018-01-07
 permalink: /vol-13/issue-4/jan-mar-2018/memory-laps
 layout: post
 ---
-
 #### Between the mid-1930s and 1960, only four swimming pool complexes in Singapore were open for public use. **Jocelyn Lau** speaks to people who remember these pools.
 
 <div style="background-color: white;"><br><img src="/images/Vol-13-issue-4/memory-laps/01_memorylaps.png">A drawing of the main pool at APS Swim School, managed by the former Olympian Ang Peng Siong. This was the former Farrer Park Swimming Complex until it closed in 2003. Farrer Park was the training ground for several of Singapore’s early swimming champions. <i>Illustration by Favian Ee.</i></div>
@@ -72,13 +71,13 @@ The Farrer Park Swimming Complex was part of the Farrer Park Athletic Centre, wh
 
 It was at this pool that the legendary coach Ang Teck Bee groomed his son Ang Peng Siong into one of the country’s best swimmers. The latter bagged 20 gold medals in eight Southeast Asian Games and was the record holder of the fastest 50-metre freestyle time in Asia between 1982 and 1996.
 
+<div style="background-color: white;"><img style="width:700px" src="/images/Vol-13-issue-4/memory-laps/05_memorylaps.png">A long queue snaking outside Farrer Park Swimming Complex in the 1960s. The pool would become so crowded that on weekends, there was hardly space to swim a decent lap. Push-cart hawkers peddling food and drinks made a roaring business from users waiting to get in. <i>Courtesy of SportSG.</i></div>
+
 “As a schoolgirl, I loved going to the swimming pool. The moment I got home from school, I’d drop my bag and then rush out again to Farrer Park to join my friends. I enjoyed stretching out my arms in front of me and doing simple flutter kicks. It was very relaxing. At one point, I went so often that my mum complained to my dad about it, and then he forbade me to go. I disobeyed, so I got into very big trouble when I finally went home again that evening! I dearly miss those carefree days.”
 
 <p align="right">− Nellie Lee, 71, retired technician</p>
 
 “In the late 1960s, there were only a few public pools, so it was not surprising to find each one filled to, or beyond, capacity. In those days, one could hardly actually swim, as the pools were just too crowded.”
-
-<div style="background-color: white;"><img style="width:700px" src="/images/Vol-13-issue-4/memory-laps/05_memorylaps.png">A long queue snaking outside Farrer Park Swimming Complex in the 1960s. The pool would become so crowded that on weekends, there was hardly space to swim a decent lap. Push-cart hawkers peddling food and drinks made a roaring business from users waiting to get in. <i>Courtesy of SportSG.</i></div>
 
 “When I was about 10, I visited Farrer Park on weekends with my father and some neighbours. We usually had to queue for one or two hours, and even then we might not be allowed entry. Sometimes, we’d see people scaling the walls to try to get in, even though there were glass bits embedded in the tops of the walls. Some of them were caught, and the lifeguards would walk the culprits around the pool before sending them out. In those days, it was also common to lose one’s belongings, and a friend once lost even his clothes. Fortunately, my father was able to give him a ride home in his car!”
 
@@ -92,6 +91,8 @@ It was at this pool that the legendary coach Ang Teck Bee groomed his son Ang Pe
 <b>Open from:</b> 29 August 1959 to 15 April 2003</span>
 
 Located at the former King George V Park, the River Valley Swimming Complex was designed by M.E. Crocker, the same British architect for Farrer Park. The swimming pool was extremely popular until the 1970s, when new estates were built away from the city centre and visitorship dwindled. It eventually closed in 2003. The site, renamed The Foothills Fort Canning Park, is currently home to art spaces and cafes.
+
+<div style="background-color: white;"><img style="width:700px" src="/images/Vol-13-issue-4/memory-laps/07_memorylaps.png">The swimming pool at River Valley Swimming Complex in 1963. In the first few weeks of the pool’s opening in 1959, it was reported that “tens of thousands of children” visited. The pool was extremely popular until the 1970s, when new estates were built away from the city centre and visitorship dwindled. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 “The foot of the southern slope of the ‘forbidden hill’ – Fort Canning Hill – seemed an unlikely location for a public swimming pool, even back in the 1970s when I first used it for physical education (PE) lessons. Getting to the River Valley pool from my secondary school, St Joseph’s Institution on Bras Basah Road, was always an adventure: the long walk required the better part of a double period (about an hour-long) PE lesson. However, we looked forward to it not just as an escape from classroom boredom, but also for the reward that came at the end of it: a dip in the pool. During the walks, we often chanced upon clandestine acts taking place in quiet corners and we found fun in making catcalls at the couples.”
 
@@ -107,10 +108,8 @@ Located at the former King George V Park, the River Valley Swimming Complex was 
 
 <p align="right">− Giam Kia Woon, 7, student</p>
 
-<div style="background-color: white;"><img style="width:700px" src="/images/Vol-13-issue-4/memory-laps/07_memorylaps.png">The swimming pool at River Valley Swimming Complex in 1963. In the first few weeks of the pool’s opening in 1959, it was reported that “tens of thousands of children” visited. The pool was extremely popular until the 1970s, when new estates were built away from the city centre and visitorship dwindled. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
-
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;">
-<img style="width:500px" src="/images/Vol-13-issue-4/memory-laps/08_memorylaps.png"><br>
+<img style="width:380px" src="/images/Vol-13-issue-4/memory-laps/08_memorylaps.png"><br>
 	This is an extract from <i>Great Lengths: Singapore’s Swimming Pools</i> (2017) published by Kucinta Books. It retails for S$28 at major bookshops and is also available for reference and loan at the Lee Kong Chian Reference Library and selected public libraries (Call nos.: RSING 797.20095957 GRE and SING 797.20095957 GRE).
 </span>
 
