@@ -25,13 +25,13 @@ This “new liberal policy”[^4] marked a turning point in the history of Singa
 
 As one of SAC’s primary tasks was to attract more people to buy local stamps, it became less concerned with artistic considerations than the previous committee, which had been set up after Singapore became self-governing in 1959.[^5] Reflecting the state’s greater interest in stamps and a market-oriented outlook, the nine-man SAC was staffed with five civil servants from the ministries for culture and communications, three philatelists and one arts lecturer.[^6] The committee advised the minister for communications on philatelic policy, including stamp themes, designs and ways to increase sales locally and abroad. The committee also proposed ways to grow interest in philately, particularly among young Singaporeans.
 
-<div style="background-color: white;"><img src="/images/Vol-13-issue-4/stamping-history/03_stamping.jpg">First-day cover of “150th Anniversary Founding of Singapore” addressed to then Prime Minister Lee Kuan Yew dated 9 August 1969. The stamps were designed by Eng Siak Loy and Han Kuan Cheng. <i>Courtesy of Singapore Philatelic Museum.</i></div>
-
 One of SAC’s earliest initiatives was to triple Singapore’s commemorative stamp issues. From an average of just one a year, the country issued three stamp series in 1969: to mark the 25th Plenary Session of Economic Commission for Asia and the Far East (ECAFE) held in Singapore; the completion of 100,000 homes by the Housing and Development Board; and the 150th anniversary of the founding of Singapore. These stamps scored several firsts for local postal history.
 
 The ECAFE issue of three stamps designed by local graphic artist Eng Siak Loy were the first square-shaped ones, each depicting the organisation’s emblem in red, blue and purple backgrounds respectively to denote different face values.
 
 The 150th anniversary of the founding of Singapore series in 1969 was the first time that stamps were issued in 12-by-12 centimetre miniature sheets, and featured different designs for each of the six values. To commemorate the milestones in Singapore’s modern history, Eng and Han Kuan Cheng, who were colleagues at Radio Television Singapura, used a semi-abstract graphic style to depict the country’s industrialisation (15 cents), entry into the United Nations (30 cents), merger with Malaysia (75 cents), self-government in 1959 ($1), the Japanese Occupation ($5) and the landing of Sir Stamford Raffles ($10).
+
+<div style="background-color: white;"><img src="/images/Vol-13-issue-4/stamping-history/03a_stamping.jpg">First-day cover of “150th Anniversary Founding of Singapore” addressed to then Prime Minister Lee Kuan Yew dated 9 August 1969. The stamps were designed by Eng Siak Loy and Han Kuan Cheng. <i>Courtesy of Singapore Philatelic Museum.</i></div>
 
 Despite the stamps’ high face value – a total of $17.20 compared with just under a dollar for previous issues − these first-day covers were reportedly sold out within the first two hours.[^7] By the 1980s, a first-day cover[^8] of this series was worth around $700. Today, the price for a mint condition cover and accompanying miniature sheet is $900, according to the *Singapore Postage Stamp Catalogue*.[^9]
 
@@ -55,9 +55,9 @@ Thus, stamps were issued to mark the anniversaries of government agencies such a
 
 One series that reflected the progressive spirit of the times was the 1975 “Science and Industry” set of three stamps by art lecturer and graphic artist Sim Tong Khern. Sim departed from the traditional hand-illustrated stamps of the time by manipulating photographs of an oil refinery, a medical surgery and the two satellite earth stations in Sentosa to create a technicolour depiction of Singapore’s industrialisation efforts.
 
-<div style="background-color: white;"><img style="width:400px" src="/images/Vol-13-issue-4/stamping-history/04_stamping.jpg">“Satellite Earth Station” (1971) stamps by graphic designer William Lee to commemorate the launch of Singapore’s first satellite earth station. Lee superimposed a drawing of a satellite dish over a block of four conjoined 30-cent stamps, creating Singapore’s first se-tenant series. <i>Courtesy of Singapore Philatelic Museum.</i></div>
-
 Besides such nationalistic stamps, there were also designs that spoke of Singapore’s place in the world. The 1971 stamp series commemorating the launch of Singapore’s first satellite earth station made a grand statement of how the country could now communicate with two-thirds of the world. Graphic designer William Lee superimposed a drawing of a satellite dish over a block of four conjoined 30-cent stamps, creating Singapore’s first se-tenant series. Much less dramatic in design were stamps commemorating international and regional events such as International Women’s Year (1975), the 75th anniversary of the world scout movement (1982) and the 20th anniversary of ASEAN (1987).
+
+<div style="background-color: white;"><img style="width:300px" src="/images/Vol-13-issue-4/stamping-history/04_stamping.jpg">“Satellite Earth Station” (1971) stamps by graphic designer William Lee to commemorate the launch of Singapore’s first satellite earth station. Lee superimposed a drawing of a satellite dish over a block of four conjoined 30-cent stamps, creating Singapore’s first se-tenant series. <i>Courtesy of Singapore Philatelic Museum.</i></div>
 
 In the 1990s, stamp issues kept pace with an increasingly outward-looking Singapore. This took the form of more tourist-centric issues, first seen in the 1990 “Tourism” definitive stamps designed by graphic designers Ng Keng Seng and Lim Ching San. Their stamps depicting Singapore landmarks and its four ethnic groups were followed by other series on national monuments, costumes, art, architectural heritage and museums as well as stamps featuring local flora and fauna such as birds, butterflies, marine life, corals, and orchids, including the national flower *Vanda* Miss Joaquim.
 
@@ -137,7 +137,7 @@ Ironically, postage stamps have today come full circle to when they were first c
 
 [^7]:[‘150’ stamps a big hit](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19690910-1.2.25). (1969, September 10). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
 
-[^8]:A First day cover consists of the stamp on a cover, post card or envelope, and postmarked with the date that the stamp is first authorised for use.
+[^8]:A first-day cover consists of the stamp on a cover, post card or envelope, and postmarked with the date that the stamp is first authorised for use.
 
 [^9]:Lim, T. (1986, November 10). [Stamps can bring big returns over time](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19861110-1.2.42.17). *The Straits Times*, p. 20. Retrieved from NewspaperSG.
 
