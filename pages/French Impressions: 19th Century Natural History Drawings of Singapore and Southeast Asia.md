@@ -5,10 +5,6 @@ permalink: /vol-17/issue-4/jan-mar-2022/diardduvaucel
 description: ""
 image: /images/vol-17-issue-4/diard-duvaucel/turtle%20spiny%20BA%20meta%20image.jpg
 ---
-
-
-
-
 #### A little-known collection from 1818 to 1820 commissioned under the watch of two French naturalists sheds light on the early study of the region’s flora and fauna.
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/diard-duvaucel/DiardDuvaucel2.jpg)
@@ -34,7 +30,7 @@ We can’t be certain if Diard and Duvaucel were the first Frenchmen to have ste
 This woodpecker with a yellow-tipped crest can still be spotted in Singapore today. The specimen portrayed in this drawing, however, is more likely from the Malay Peninsula or Sumatra, where Diard and Duvaucel might have collected it. The bird had already been described scientifically about 50 years before Diard and Duvaucel travelled to the region.
 
 #### **Nº 34: Green Broadbill <br>*Calyptomena viridis***
-<img style="width:400px;" src="/images/vol-17-issue-4/diard-duvaucel/Green%20Broadbill2.jpg"><br>
+<img style="width:600px;" src="/images/vol-17-issue-4/diard-duvaucel/Green%20Broadbill2.jpg"><br>
 On 1 June 1820, Stamford Raffles wrote about the Green Broadbill in his *Descriptive Catalogue of a Zoological Collection* thus: “Found in the retired parts of the forests of Singapore and of the interior of Sumatra.” There are two depictions of this broadbill in the collection. They are nearly identical, differing only in the composition of the tuft of feathers on the forehead. In both drawings, the birds are male, as indicated by the small yellow spots above their eyes. From Raffles’ catalogue entry, it can be inferred that he must have procured at least two specimens, one from Singapore and another from the environs of Bencoolen (Bengkulu) in Sumatra. Diard, Duvaucel and William Jack (a botanist working with Raffles) could have collected the Singapore specimen during their visit in 1819. This species has the distinction of being the first bird from Singapore to be given a scientific name.
 
 #### **Nº 11: Nº 67: Javanese Lapwing<br>*Vanellus macropterus***
