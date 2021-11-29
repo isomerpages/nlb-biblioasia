@@ -147,11 +147,11 @@ Chou Sing Chu Foundation. (2016). *[Passage of time: Singapore bookstore stories
 
 [Growth of Kelly and Walsh](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19160322-1.2.48). (1916, March 22). *The Singapore Free Press and Mercantile Advertiser* (1884–1942), p. 7. Retrieved from NewspaperSG.
 
-Gullick, J.M. (2001). Richard James Wilkinson (1867—1941): *A man of parts. Journal of the Malaysian Branch of the Royal Asiatic Society, 74* (1), 27. Retrieved from JSTOR via NLB’s eResources website.
+Gullick, J.M. (2001). Richard James Wilkinson (1867—1941): *A man of parts. Journal of the Malaysian Branch of the Royal Asiatic Society, 74* (1), 27. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
 
 [Impressive new building](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19350905-1.2.109). (1935, September 5). *The Straits Times*, p. 15. Retrieved from NewspaperSG.
 
-Kelly and Walsh (1969). *Journal of the Hong Kong Branch of the Royal Asiatic Society, 9*, 163–164. Retrieved from JSTOR via NLB’s eResources website.
+Kelly and Walsh (1969). *Journal of the Hong Kong Branch of the Royal Asiatic Society, 9*, 163–164. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
 
 Kelly & Walsh Limited Co. Ltd. (2017). *About Kelly & Walsh*. Retrieved from Kelly & Walsh website.
 
