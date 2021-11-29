@@ -39,7 +39,7 @@ Existing nightclubs and lounges, such as Pink Pussycat in Prince’s Hotel Garni
 
 <div style="background-color: white;"><img style="width:500px" src="/images/Vol-15-issue-1/when-disco-fever-raged/02_disco.png">The Pink Pussycat at Prince’s Hotel Garni on Orchard Road began rebranding itself as a discotheque with resident bands to draw the crowds. Featured here is local band The Hi Jacks in a photo taken on 30 May 1973. <i>Source: The Straits Times © Singapore Press Holdings Limited. Reprinted with permission.</i></div>
 
-The flurry of discos opening inevitably led purists to question – what exactly is a discotheque? The word “disco” is derived from the French word disque, which means discs or gramophone records, so if one goes to a library or bibliothéque in France to read books, then by extension a discothéque is where one goes to listen to records.
+The flurry of discos opening inevitably led purists to question – what *exactly* is a discotheque? The word “disco” is derived from the French word *disque*, which means discs or gramophone records, so if one goes to a library or *bibliothéque* in France to read books, then by extension a *discothéque* is where one goes to listen to records.
 	
 “There should be no live band in a discotheque,” Kim Khor, then manager of Soundbox at Hotel Miramar, sniffed. “Our locals don’t appreciate discotheques. They prefer live bands, something which is difficult to understand.”[^7] Soundbox, which opened in 1971, was touted as Singapore’s second discotheque in the truest sense of the word.
 
@@ -127,7 +127,7 @@ It was only in 1975 that the government began rolling back some of the restricti
 
 #### **Can’t Beat ’Em, Then Join ’Em**
 
-When the American musical drama Saturday Night Fever, with John Travolta in his breakout Hollywood role and songs by the Bee Gees hit Singapore’s cinema screens in 1978, all things disco – fashion, music and slick dance moves – resurrected with a vengeance. New discotheques opened, and demand for disco dance classes grew. The national hunt for representatives in Singapore to take part in EMI’s annual World Disco Championship in London was launched in 1979.[^37]
+When the American musical drama *Saturday Night Fever*, with John Travolta in his breakout Hollywood role and songs by the Bee Gees hit Singapore’s cinema screens in 1978, all things disco – fashion, music and slick dance moves – resurrected with a vengeance. New discotheques opened, and demand for disco dance classes grew. The national hunt for representatives in Singapore to take part in EMI’s annual World Disco Championship in London was launched in 1979.[^37]
 
 Realising that there was no trumping the popularity of Hollywood, the government took a different tack. In 1978, community centres began organising disco nights for young people, to the point that disco dancing, “once associated with shady discotheques”, was fast becoming the rage in Singapore’s community centres. The main difference was that only sugar-spiked soft drinks were served.[^38]
 
@@ -135,7 +135,7 @@ Realising that there was no trumping the popularity of Hollywood, the government
 
 <div style="background-color: white;"><img style="width:600px" src="/images/Vol-15-issue-1/when-disco-fever-raged/09_disco.png">The first disco dance organised by Bedok Zone 4 Residents’ Committee at the Bedok Central Area Office in 1986. The event was officiated by then Minister for Home Affairs S. Jayakumar. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
-In 1979, the New Nation made the following observation:
+In 1979, the *New Nation* made the following observation:
 
 “Saturday night has never been so feverish in Singapore. The disco industry sustains a baker’s dozen of discotheques in top hotels – with prices to match. There… the energetic generation gets its exercise on postage-stamp-sized dance floors. Lower down the socio-disconomic ladder, thousands flock to the Leisuredrome to disco rock the weekend away at Kallang. Even community centres have seen the strobe light.”[^40]
 
