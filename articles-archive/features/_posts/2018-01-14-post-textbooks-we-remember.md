@@ -16,7 +16,7 @@ Sifting through the National Library’s Legal Deposit Collection of primary Eng
 
 #### **The Early English Textbooks**
 
-Until the 1950s, English textbooks used in primary schools in Singapore were imported mainly from the United Kingdom. Among these were *The Beacon Readers*, J*anet and John Basic Readers* and *First Aid in English*. The British firmly believed that Malayan students in local schools should be taught English exactly the same way as students back home in England.
+Until the 1950s, English textbooks used in primary schools in Singapore were imported mainly from the United Kingdom. Among these were *The Beacon Readers*, *Janet and John Basic Readers* and *First Aid in English*. The British firmly believed that Malayan students in local schools should be taught English exactly the same way as students back home in England.
 
 While such imported textbooks were helpful tools – given the absence of viable alternatives – in teaching English to Asian students, they also suffered from serious shortcomings. Not only were foreign books unsuitable for the local population who had little or no knowledge of the English language, they also imparted ideas and values that were incompatible with life in Singapore.
 
@@ -46,7 +46,7 @@ Textbooks will continue to evolve as they keep pace with the changing needs of s
 
 Over the years, the National Library has built up – via Legal Deposit – a collection of works published in Singapore. These include school textbooks and reading materials on the study of the English language. Here are some highlights of primary English textbooks from the collection:
 
-<div style="background-color: white;"><img src="/images/Vol-13-issue-4/textbooks-we-remember/02a_textbooks.jpg"></div>
+<div style="background-color: white;"><img style="width:300px" src="/images/Vol-13-issue-4/textbooks-we-remember/02_textbooks.jpg"></div>
 
 **M.P.H. Dramatic Readers: A Series of Dramatic Readers for English Schools in Malaya** (3rd edition,1953)
 
