@@ -71,7 +71,7 @@ As his personal collection comprises mainly books and publications, the decision
 	<b>UP CLOSE AND PERSONAL WITH TAN SWIE HIAN</b><br><br>
 In a video interview, Tan Swie Hian tells us how he gathered an impressive collection of materials – books, periodicals, journals, calligraphic works and paintings – over the decades, and his reasons for donating the collection to the National Library. He also reveals the creative process behind many of his artworks. Scan this QR code to access the video.
 	<br><br>
-	<img style="width: 250px; height: 320px;" src="/images/Vol-15-issue-3/exploring-an-artist-s-mind/Explore9.JPG">
+	<img style="width: 200px; height: 200px;" src="/images/Vol-15-issue-3/exploring-an-artist-s-mind/Explore9.JPG">
 </span>
 
 <br>
