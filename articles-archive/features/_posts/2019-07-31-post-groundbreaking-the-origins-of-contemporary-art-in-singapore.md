@@ -145,10 +145,20 @@ After this event, Goh, Salleh and Chandrasekaran never exhibited collectively ag
 [^4]:Kwok, K. C. (1996). [*Channels and confluences: A history of Singapore art*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7628104). Singapore, Singapore Art Museum. (Call no.: RSING 709.5957 KWO).
 [^5]:Sabapathy, T.K. (1993, June). Trimurti: Contemporary art in Singapore. *Art and Asia Pacific*, pp. 30–35. (Not in NLB holdings).
 [^6]:Sabapathy, Jun 1993, pp. 30–35.
-[^7]:Sheares, C. (Interviewer). (1998, April 15). Oral history interview with Salleh Japar [Transcript of recording no. 002018/4/1, p. 2]. Retrieved from National Archives of Singapore website. Art history has shown that new movements – from the Impressionists to the Vienna Secessionists – invariably started when students and young artists rebelled against prevailing art practices that they deemed to be conservative, constraining and outmoded.
-[^8]:
-[^9]:
-[^10]:
-Interview with Ahmad Abu Bakar, 16 February 2019.
-Interview with Ahmad Abu Bakar, 16 February 2019.
-These included Art Commandos, Yin Yang Festival and Cheo Chai-Hiang’s Gentleman in Tie and Suit.
+[^7]:Sheares, C. (Interviewer). (1998, April 15). [*Oral history interview with Salleh Japar*](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/1/10bab64f-115f-11e3-83d5-0050568939ad-OHC002018_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=9) [Transcript of recording no. 002018/4/1, p. 2]. Retrieved from National Archives of Singapore website. Art history has shown that new movements – from the Impressionists to the Vienna Secessionists – invariably started when students and young artists rebelled against prevailing art practices that they deemed to be conservative, constraining and outmoded.
+[^8]:Interview with Ahmad Abu Bakar, 16 February 2019.
+[^9]:Interview with Ahmad Abu Bakar, 16 February 2019.
+[^10]:These included Art Commandos, Yin Yang Festival and Cheo Chai-Hiang’s *Gentleman in Tie and Suit*.
+[^11]:Interview with artist and archivist Koh Nguang How, 13 February 2019. In 1978, the National Museum Art Gallery held an exhibition of noted American artist Helen Frankenthaler. In 1987, it co-organised a show by prominent contemporary Chinese painter Liu Haisu and also showcased a contemporary German kinetic art exhibition in the same year. In 1978, it held an exhibition of German expressionist prints.
+[^12]:A biennial art competition organised by The Singapore Business Art Council in association with the Australian High Commission. The top prize was a 12-week scholarship to study at the City Art Institute in Sydney and at the Canberra School of Art.
+[^13]:Interview with Koh Nguang How, 13 February 2019. Ms Moh Siew Lan, a cultural officer at Goethe-Institut, approached Goh Eee Choo, Salleh Japar and S. Chandrasekaran – course mates at NAFA – to hold a group show at Goethe as a follow-up to *Quintet*. This resulted in the seminal exhibition *Trimurti*.
+[^14]:Arbour Fine Art, Gallery Fine Art, Art Forum, Chesham Fine Art and Saxophone Bar and Restaurant.
+[^15]:Sabapathy, T.K. (1987, May 14). [Art on the ceiling, walls and floor](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19870514-1.2.67.31.2). *The Straits Times*, p. 25. Retrieved from NewspaperSG; Chua, B.H. (1987, Aug/Sept). Young artists make a break: Installation at Arbour. *Man*, 18–20.
+[^16]:The Yin Yang Festival included art and photography exhibitions, dance and music performances, talks, an art camp, video shows, and installation works. See Ong, C. (1987, November 24). [The clashing of cultures](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19871124-1.2.74.32.2). *The Straits Times*, p. 25. Retrieved from NewspaperSG.
+[^17]:Wong, M. (1988, 20 June). [Art or gimmick](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880620-1.2.62.35.4). *The Straits Times*, p. 29. Retrieved from NewspaperSG.
+[^18]:Relational aesthetics was coined by the French curator and art critic Nicholas Bourriaud in the 1990s to describe art based on human relations and their social contexts.
+[^19]:Tate. *Art term: Relational aesthetics*. Retrieved from Tate website.
+[^20]:[*The Straits Times*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19871124-1.2.74.32.2), 24 Nov 1987, p. 25.
+[^21]:[Commandos: antics or art](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880701-1.2.77.36.2.3). (1988, July 1). *The Straits Times*, p. 31. Retrieved from NewspaperSG.
+[^22]:[*The Straits Times*](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880620-1.2.62.35.4), 20 Jun 1988, p. 29.
+[^23]:[A year when the young hogged the limelight](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19871227-1.2.94.23.1.1). (1987, December 27). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
