@@ -116,3 +116,16 @@ Even before Tang Da Wu returned from undergraduate studies in the UK in 1979, he
 <br><br>
 Tan Teng-Kee staged <i>The Picnic</i> as an outdoor event at the field outside his flat in Normanton Estate on 14 September 1979. While there was nothing extraordinary about the exhibition of several of Tan’s paintings and sculpture, what was highly unusual was the inclusion of a series of actions that is today regarded as the first documented instance of performance art in Singapore. One of the works featured was a 100-metre-long painting, <i>The Lonely Road</i>, which Tan sliced into smaller paintings in response to what potential buyers wanted. The climax of the event was <i>Fire Sculpture</i>, which saw one of Tan’s constructions – wrapped in newspaper and supported by long wooden poles – incinerated with a torch. <i>The Picnic</i>, however, was an isolated occurrence in Tan’s practice, which was primarily sculpting.
 </span>
+
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
+	<b>TRIMURTI: A RETURN TO ASIAN AESTHETICS</b>
+<br><br>
+	<img src="/images/Vol-15-issue-2/origins-of-art-in-sg/GroundBreaking7.JPG">Goh Ee Choo
+Goh Ee Choo during one of his ritualistic performances for <i>Trimurti</i> in 1988. <i>Courtesy of Goh Ee Choo, S.Chandrasekaran and Salleh Japar.</i>
+	<br><br>
+In March 1988, Goh Ee Choo, Salleh Japar and S. Chandrasekaran staged an exhibition at the Goethe-Institut titled <i>Trimurti</i>. The exhibition was, in many ways, a crystallisation of the ideas and concepts that they had been working on in <i>Quintet</i> that took place in May 1987. In <i>Quintet</i>, these three artists drew extensively from Asian philosophical systems relating to ideas of creation and the cosmos, but with <i>Trimurti</i>, these ideas became more fully fledged and explicit as concepts underpinning the exhibition.
+<br><br>
+<i>Trimurti</i> is a Sanskrit word that describes the Hindu triumvirate of Shiva (the Destroyer), Vishnu (the Preserver) and Brahma (the Creator). These roles were symbolically appropriated and executed by Chandrasekaran, Goh and Salleh respectively in the exhibition. <i>Trimurti</i> was an assertion of the ethnic and cultural identities of the three artists (Indian, Chinese and Malay), combined into a syncretic unity – an acknowledgement of Singapore’s multiethnic and multicultural society. Unlike <i>Quintet</i>, <i>Trimurti</i> had all three artists engaged in ritual-like performances, in addition to installations as well as painted and sculptural works that are charged with symbolism – all geared towards transforming the gallery into what the artists called an “energy space”.
+<br><br>
+After this event, Goh, Salleh and Chandrasekaran never exhibited collectively again, but went on to forge successful individual careers as artists. The only exception was in 1998, when the artists reprised <i>Trimurti</i> in the exhibition <i>Trimurti and Ten Years After</i> at the Singapore Art Museum.
+</span>
