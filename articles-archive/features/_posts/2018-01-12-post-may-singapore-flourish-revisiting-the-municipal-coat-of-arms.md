@@ -10,6 +10,8 @@ layout: post
 
 If you’ve ever been to Mount Emily Park[^1] and wondered about the colourful coat of arms mounted on the wall at the entrance, the answer to its identity lies in one of the documents on display at the exhibition, “Law of the Land: Highlights of Singapore’s Constitutional Documents”.
 
+<div style="background-color: white;"><img style="width:400px" src="/images/Vol-13-issue-4/may-singapore-flourish/05_flourish.jpg">The 1948 municipal coat of arms still features prominently today at the entrance of Mount Emily Park. <i>Courtesy of National Archives of Singapore.</i></div>
+
 Among the colonial-era documents at the exhibition held at the National Gallery Singapore is the *Royal Warrant Assigning Armorial Ensigns for the City of Singapore* – easily one of the most ornate of the items on display.
 
 <div style="background-color: white;"><img style="width:500px" src="/images/Vol-13-issue-4/may-singapore-flourish/02_flourish.jpg">The <i>Royal Warrant Assigning Armorial Ensigns for the City of Singapore</i>, 9 April 1948. <i>Courtesy of National Archives of Singapore.</i></div>
@@ -77,8 +79,6 @@ The royal warrant acknowledges the role of the Singapore Municipal Commission in
 “The municipal authority was an integral part of the colonial power structure and served as an institution of control over the built environment of the colonial city. [The creation of the Municipal Commission] was both a response to the growing need for a more sophisticated machinery to run a burgeoning city as well as ‘a sort of compromise’ to satisfy local demands, largely articulated by the resident European population, for more control over local affairs.”[^9]
 
 While the composition and concerns of the Municipal Commission from the late 19th century tended to be European-centric and “hardly addressed the needs and aspirations of the Asian plebeian classes on their own terms”,[^10] this changed after World War II. “The British attached great importance on local government as a training ground for democracy and extended its scope in the post-war years.”[^11]
-
-<div style="background-color: white;"><img style="width:500px" src="/images/Vol-13-issue-4/may-singapore-flourish/05_flourish.jpg">The 1948 municipal coat of arms still features prominently today at the entrance of Mount Emily Park. <i>Courtesy of National Archives of Singapore.</i></div>
 
 In 1949, the Municipal Commission became the first public institution to be installed with a popularly elected majority when 18 out of the 27 commissioners were elected.[^12] This expanded local political participation in preparation for Singapore’s self-governance and subsequent independence. The Municipal Commission was renamed City Council in 1951 when Singapore attained city status.[^13]
 
