@@ -72,7 +72,7 @@ My heart fluttered when, sifting through a musty cardboard box buried under pile
 
 Even fewer people know that, while working as a newspaper journalist, Rajaratnam had freelanced for Radio Malaya, writing news scripts and radio plays. I discovered among his private papers the scripts for the six-part radio play, “A Nation in the Making”, which explores the controversial issues of race, language, religion and national identity. The pages were yellow, dusty and crumbling from age. At my urging and with the assistance of the NAS, the scripts are now preserved in the ISEAS library.
 
-To restore Rajaratnam’s literary legacy, I compiled seven short stories and seven radio scripts into an anthology, The Short Stories and Radio Plays of S. Rajaratnam, which was published in 2011.
+To restore Rajaratnam’s literary legacy, I compiled seven short stories and seven radio scripts into an anthology, *The Short Stories and Radio Plays of S. Rajaratnam*, which was published in 2011.
 
 It is gratifying to see the younger generation taking a fresh interest in Rajaratnam’s fiction and adapting it for a contemporary audience. The latest effort was in 2017 by a young filmmaker, Jerrold Chong. He adapted one of Rajaratnam’s stories, “What Has to Be”, into a short animation film for the annual Singapore Writers Festival’s initiative, “Utter 2017: SingLit Unearthed”, which adapts the best of Singapore writing into film.
 
