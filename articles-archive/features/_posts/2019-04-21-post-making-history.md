@@ -141,36 +141,36 @@ The three historical records covered in this essay were written by Kevin Khoo, F
 
 #### **NOTES**
 
-[^1]:Crawfurd, J. (1824). Letter from Resident John Crawfurd to Governor-General of India in Council, Singapore, 1 October 1824. In Government of the Colony of Singapore, Straits Settlements Records. Series M. Singapore: Letters from Bengal to the Resident. Singapore: Government of the Colony of Singapore. (Microfilm nos.: NL59–62)
+[^1]:Crawfurd, J. (1824). Letter from Resident John Crawfurd to Governor-General of India in Council, Singapore, 1 October 1824. In Government of the Colony of Singapore, *Straits Settlements Records. Series M. Singapore: Letters from Bengal to the Resident*. Singapore: Government of the Colony of Singapore. (Microfilm nos.: NL59–62)
 
-[^2]:Freedman, M. (1957). Chinese family and marriage in Singapore (pp. 66–67). London: HMSO. (Call no.: RSING 301.42 FRE)
+[^2]:Freedman, M. (1957). *[Chinese family and marriage in Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4846221)* (pp. 66–67). London: HMSO. (Call no.: RSING 301.42 FRE)
 
-[^3]:Freedman, 1957, p. 65. 
+[^3]:[Freedman](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4846221), 1957, p. 65. 
 
-[^4]:Freedman, 1957, pp. 67, 133. 
+[^4]:[Freedman](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4846221), 1957, pp. 67, 133. 
 
-[^5]:Lim, O. (1991, March 14). Sold as a bride for $88. *The New Paper*, p. 6. Retrieved from NewspaperSG.
+[^5]:Lim, O. (1991, March 14). [Sold as a bride for $88](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper19910314-1.2.9.1). *The New Paper*, p. 6. Retrieved from NewspaperSG.
 
-[^6]:Koh, C. C. (1994). Implementing government policy for the protection of women and girls in Singapore 1948–1966: Recollections of a social worker (p. 129). In M. Jaschok & S. Miers (Eds.), Women and Chinese patriarchy: Submission, servitude, and escape. Hong Kong: Hong Kong University Press. (Call no.: RSING 305.420951 WOM)
+[^6]:Koh, C. C. (1994). Implementing government policy for the protection of women and girls in Singapore 1948–1966: Recollections of a social worker (p. 129). In M. Jaschok & S. Miers (Eds.), *[Women and Chinese patriarchy: Submission, servitude, and escape](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7193205)*. Hong Kong: Hong Kong University Press. (Call no.: RSING 305.420951 WOM)
 
-[^7]:Freedman, 1957, pp. 67, 133. 
+[^7]:[Freedman](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4846221), 1957, pp. 67, 133. 
 
-[^8]:Freedman, 1957, p. 65. 
+[^8]:[Freedman](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4846221), 1957, p. 65. 
 
-[^9]:Miers, S. (1994). Mui tsai through the eyes of the victim (p. 111). In M. Jaschok & S. Miers (Eds.), Women and Chinese patriarchy: Submission, servitude, and escape. Hong Kong: Hong Kong University Press. (Call no.: RSING 305.420951 WOM)
+[^9]:Miers, S. (1994). Mui tsai through the eyes of the victim (p. 111). In M. Jaschok & S. Miers (Eds.), *[Women and Chinese patriarchy: Submission, servitude, and escape](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7193205)*. Hong Kong: Hong Kong University Press. (Call no.: RSING 305.420951 WOM)
 
-[^10]:Freedman, 1957, p. 65.
+[^10]:[Freedman](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4846221), 1957, p. 65.
 
-[^11]:Sam, J. (1963, August 9) The first 1,500. The Straits Times, p. 1. Retrieved from NewspaperSG.
+[^11]:Sam, J. (1963, August 9) [The first 1,500](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19630809-1.2.2). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
 
-[^12]:Wong, A. (2016) The story of the People’s Theatre (pp. 33–57). In C.K. Lai (Ed.), Recollections of life in an accidental nation. Singapore: Select Publishing. (Call no.: RSING 720.92 WON)
+[^12]:Wong, A. (2016) The story of the People’s Theatre (pp. 33–57). In C.K. Lai (Ed.), *[Recollections of life in an accidental nation](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202551325)*. Singapore: Select Publishing. (Call no.: RSING 720.92 WON)
 
-[^13]:Oon, V. (1971, November 4). ‘First lady’ of ballet praises theatre. New Nation, p. 3. Retrieved from NewspaperSG; Tyers, R. K., & Siow, J. H. (1993). Ray Tyers’ Singapore: Then & now. (p. 155). Singapore: Landmark Books. (Call no.: RSING q959.57 TYE)
+[^13]:Oon, V. (1971, November 4). [‘First lady’ of ballet praises theatre](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19711104-1.2.25). *New Nation*, p. 3. Retrieved from NewspaperSG; Tyers, R. K., & Siow, J. H. (1993). *[Ray Tyers’ Singapore: Then & now](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6442235)*. (p. 155). Singapore: Landmark Books. (Call no.: RSING q959.57 TYE)
 
-[^14]:Lim, P. H. L. (2009). Chronicle of Singapore: Fifty years of headline news 1959–2009 (p. 62). Singapore: Didier Millet in association with National Library Board. (Call no.: RSING 959.5705 CHR)
+[^14]:Lim, P. H. L. (2009). *[Chronicle of Singapore: Fifty years of headline news 1959–2009](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200134540)* (p. 62). Singapore: Didier Millet in association with National Library Board. (Call no.: RSING 959.5705 CHR)
 
-[^15]:Jay, S.E. (Interviewer). (2012, February 8). Oral history interview with Alfred Wong Hong Kwok [MP3 recording no. 003689/9/7]. Retrieved from National Archives of Singapore website.
+[^15]:Jay, S.E. (Interviewer). (2012, February 8). *[Oral history interview with Alfred Wong Hong Kwok](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/eadb91a1-1162-11e3-83d5-0050568939ad)* [MP3 recording no. 003689/9/7]. Retrieved from National Archives of Singapore website.
 
-[^16]:Oral history interview with Alfred Wong Hong Kwok, 8 Feb 2012.
+[^16]:*[Oral history interview with Alfred Wong Hong Kwok](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/eadb91a1-1162-11e3-83d5-0050568939ad),* 8 Feb 2012.
 
 [^17]:National Theatre location a historic site now. (2000, February 1). *The Straits Times*, p. 32. Retrieved from NewspaperSG.
