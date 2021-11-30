@@ -134,7 +134,7 @@ People’s Restaurants catered primarily to wage earners wanting a mid-day meal 
 
 [^10]:Social Welfare Department. (1949, September 24–1954, January 26). *[Report on children’s social centre](http://www.nas.gov.sg/archivesonline/government_records/record-details/27780623-578e-11e7-9199-0050568939ad)* [SWD 371-E, pp. 25–34]. Retrieved from National Archives of Singapore website. 
 
-[^11]:Social Welfare Department, 13 Sep 1946–13 May 1953, p. 183. 
+[^11]:[Social Welfare Department](http://www.nas.gov.sg/archivesonline/government_records/record-details/27cc9198-578e-11e7-9199-0050568939ad), 13 Sep 1946–13 May 1953, p. 183. 
 
 [^12]:Social Welfare Department, 24 Sep 1949–26 Jan 1954, p. 13. 
 
