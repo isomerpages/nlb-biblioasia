@@ -102,7 +102,7 @@ Family Restaurants were one of the communal feeding schemes managed by the Socia
 <br><br>
 People’s Restaurants catered primarily to wage earners wanting a mid-day meal at a reasonable price, while Family Restaurants sought to provide healthy meals at the cheapest possible price to those of lesser means. The Social Welfare Department discontinued feeding schemes from late 1948 onwards as demand had fallen due to improved economic conditions.</span>
 
-*This article was inspired by a collection of government files available on the Singapore Policy History Project website ([www.nas.sg/archivesonline/policyhistory/](www.nas.sg/archivesonline/policyhistory/)). This is an ongoing project to present various policies introduced by government departments and agencies over the course of Singapore’s history. The feature on child care in Singapore in the early years (1946–1976) ([www.nas.sg/archivesonline/policyhistory/child-care](http://www.nas.sg/archivesonline/policyhistory/child-care)) includes resources such as files from the Social Welfare Department, newspaper articles, speeches, audiovisual materials and photographs.*
+*This article was inspired by a collection of government files available on the Singapore Policy History Project website ([www.nas.sg/archivesonline/policyhistory/](http://www.nas.sg/archivesonline/policyhistory/)). This is an ongoing project to present various policies introduced by government departments and agencies over the course of Singapore’s history. The feature on child care in Singapore in the early years (1946–1976) ([www.nas.sg/archivesonline/policyhistory/child-care](http://www.nas.sg/archivesonline/policyhistory/child-care)) includes resources such as files from the Social Welfare Department, newspaper articles, speeches, audiovisual materials and photographs.*
 
 <div style="background-color: white;">
 <br>
@@ -111,3 +111,75 @@ People’s Restaurants catered primarily to wage earners wanting a mid-day meal 
 </div>
 
 <a href="/vol-15/issue-1/apr-jun-2019/"><center>Back to Issue</center></a>
+
+#### **NOTES**
+
+[^1]:Cheng, S.H. (1991). Economic change and industrialization. In E.C.T. Chew & E. Lee (Eds.), A history of Singapore (p. 182). Singapore: Oxford University Press. (Call no.: RSING 959.57 HIS-[HIS]) 
+
+[^2]:Kratoska, P.H. (1988, March). The post-1945 food shortage in British Malaya. Journal of Southeast Asian Studies, 19(1), 27–47, pp. 32–33. Retrieved from JSTOR via NLB’s eResources website. 
+
+[^3]:Ho, C.T. (2013, October–December). Communal feeding in post-war Singapore. BiblioAsia, 9(3), 2–7; Foo, K.L. (1981, December 4). Oral history interview with Thomas Percy Ferguson McNeice [Transcript of recording no. 000099/22/12]. Retrieved from National Archives of Singapore website. 
+
+[^4]:Social Welfare Department (SWD). (1945, November 5–1947, April 2). Free meals for children [RBMA HQ S DIV 432–45, p. 100]. Retrieved from National Archives of Singapore website. 
+
+[^5]:Social Welfare Department (SWD). (1945, November 5–1946, September 25). Singapore welfare child feeding scheme – free meals for children [SWD 44–46, pp. 73–74]. Retrieved from National Archives of Singapore website. 
+
+[^6]:Social Welfare Department, 5 Nov 1945–2 Apr 1947, p. 58. 
+
+[^7]:Social Welfare Department, 5 Nov 1945–25 Sep 1946, p. 16. 
+
+[^8]:Social Welfare Department (SWD). (1946, September 13–1953, May 13). Feeding of children between ages 2 and 6 [SWD 44–B Vol 3, pp. 201–202]. Retrieved from National Archives of Singapore website. 
+
+[^9]:Social Welfare Department, 13 Sep 1946–13 May 1953, p. 9. The SWD eventually took over these two crèches when the Child Welfare Society closed down. 
+
+[^10]:Social Welfare Department. (1949, September 24–1954, January 26). Report on children’s social centre [SWD 371-E, pp. 25–34]. Retrieved from National Archives of Singapore website. 
+
+[^11]:Social Welfare Department, 13 Sep 1946–13 May 1953, p. 183. 
+
+[^12]:Social Welfare Department, 24 Sep 1949–26 Jan 1954, p. 13. 
+
+[^13]:Social Welfare Department, 13 Sep 1946–13 May 1953, pp. 102–104. 
+
+[^14]:Social Welfare Department, 24 Sep 1949–26 Jan 1954, p. 12. 
+
+[^15]:Social Welfare Department (SWD). (1947, January 4–1949, February 23). Panel of volunteer workers child feeding scheme [SWD 44-E Vol 1, p. 3]. Retrieved from National Archives of Singapore website. 
+
+[^16]:Social Welfare Department, 4 Jan 1947–23 Feb 1949, p. 64. 
+
+[^17]:Tan, L. (1982, May 24). Oral history interview with Wong, May Nee Hing [Recording no. 000093/18/9]. Retrieved from National Archives of Singapore website.
+
+[^18]:Lee, P. (2008, January 8). Oral history interview with McNeice, Yuen-Peng [Transcript of recording no. 003259/3/2]. Retrieved from National Archives of Singapore website. 
+
+[^19]:Social Welfare Department, 13 Sep 1946–13 May 1953, pp. 175–176. 
+
+[^20]:Choo, H. (1982, August 4). Oral history interview with McNeice, Yuen-Peng [Transcript of recording no. 000190/4/4]. Retrieved from National Archives of Singapore website. 
+
+[^21]:Social Welfare Department, 13 Sep 1946–13 May 1953, p. 154. 
+
+[^22]:Social Welfare Department, 13 Sep 1946–13 May 1953, pp. 146, 155. 
+
+[^23]:Singapore. Social Welfare Department. (1949). Five-year plan (p. 5). Singapore: Government Printing Office. (Call no.: RCLOS 362.95951 SIN) 
+
+[^24]:Social Welfare Department, 13 Sep 1946–13 May 1953, pp. 40, 114. 
+
+[^25]:Social Welfare Department, 13 Sep 1946–13 May 1953, pp. 20–34, 91. 
+
+[^26]:Social Welfare Department, (SWD). (1952, January 18–1952, December 29). Liaison Committee Children’s Social Centres [SWD 31–52, p. 22]. Retrieved from National Archives of Singapore website. 
+
+[^27]:Diemer, C. (1951, December 16). Best Christmas ever for social welfare children. The Sunday Standard, p. 4. Retrieved from NewspaperSG. 
+
+[^28]:Social Welfare Department, 13 Sep 1946–13 May 1953, pp. 71–72. 
+
+[^29]:Social Welfare Department (SWD). (1951, April 20–1951, July 23). Appointment of trade instructors children’s centres [SWD 189-51, pp. 3, 5]. Retrieved from National Archives of Singapore website. 
+
+[^30]:Social Welfare Department (SWD). (1952, June 30–1957, September 30). Sale of work-children’s social centres [SWD 308–53]; Social Welfare Department (SWD). (1957, August 22–1961, June 27). Sale of work-children’s social centres [SWD 308–53 Vol. 2]. Retrieved from National Archives of Singapore website. 
+
+[^31]:Social Welfare Department, 18 Jan 1952–29 Dec 1952, pp. 16–17. 
+
+[^32]:Social Welfare Department (SWD). (1957, July 16–1964, June 1).Training in the Children’s Social Centres [SWD 316–56, pp. 45, 72, 87, 119, 123, 159, 197, 205]. Accessed at National Archives of Singapore. 
+
+[^33]:Social Welfare Department (SWD). (1964, October 2–1975, April 23). Children’s centres and creches policy [SWD 12–64, pp. 378, 472]. Retrieved from National Archives of Singapore website. 
+
+[^34]:Plan to take over govt creches. (1976, December 29). *The Straits Times*, p. 5. Retrieved from NewspaperSG.
+
+[^35]:Social Welfare Department, 22 Aug 1957–27 Jun 1961, pp. 20, 27, 257.
