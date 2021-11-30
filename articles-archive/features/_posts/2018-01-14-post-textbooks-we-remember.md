@@ -50,13 +50,13 @@ Over the years, the National Library has built up – via Legal Deposit – a co
 
 Published by Malaya Publishing House and produced by the Singapore and Johor Teachers’ Associations, this series was used by Standard One to Seven students as supplementary material. Comprising more than 80 plays across seven books, the series was specially developed for Malayan students to help them learn English through the use of contextual information. For example, familiar terms such as “towkay” and “sultan” were included, and characters who belonged to local ethnic groups were given local names. The National Library has the first four books of the third edition.
 
-<div style="background-color: white;"><img style="width:300px" src="/images/Vol-13-issue-4/textbooks-we-remember/02_textbooks.jpg"></div>
+<div style="background-color: white;"><img style="width:300px" src="/images/Vol-13-issue-4/textbooks-we-remember/02b_textbooks.jpg"></div>
 
 **Ahmad, Shaida and Meng on Casuarina Island** (1955); **Four Strangers in Sungei Tujoh** (1957); **Ahmad, Shaida and Meng on Green River** (1957)
 
 Inspired by the 1883 classic *Treasure Island* by Robert Louis Stevenson, the adventures of Ahmad, Shaida and Meng were a series of stories written specially for Malayan children. Part of the *Malayan Children’s Bookshelf* series published by Donald Moore, the books aimed to help inculcate the love of reading in English.
 
-<div style="background-color: white;"><img style="width:300px" src="/images/Vol-13-issue-4/textbooks-we-remember/03a_textbooks.jpg"></div>
+<div style="background-color: white;"><img style="width:300px" src="/images/Vol-13-issue-4/textbooks-we-remember/03b_textbooks.jpg"></div>
 
 **English Today** (1961–1965)
 
@@ -68,31 +68,31 @@ Published by Federal Publications, this series was adapted from the United Kingd
 
 An English storybook published by Donald Moore for Malayan children that imparted moral values. The protagonist, Chiki Chak, was a young lizard that learnt a valuable lesson on disobedience. For a local flavour, Chiki Chak and his parents were dressed in traditional Malay attire.
 
-<div style="background-color: white;"><img style="width:300px" src="/images/Vol-13-issue-4/textbooks-we-remember/05_textbooks.jpg"></div>
+<div style="background-color: white;"><img style="width:300px" src="/images/Vol-13-issue-4/textbooks-we-remember/05b_textbooks.jpg"></div>
 
 **New Syllabus English for Singapore** (1971–1973)
 
 Both a textbook and workbook, the *New Syllabus English for Singapore* was published by Preston Corporation and based on the Ministry of Education’s official syllabus. Revision exercises and language drills were greatly emphasised, a typical pedagogy of this period in the 1970s.
 
-<div style="background-color: white;"><img style="width:300px" src="/images/Vol-13-issue-4/textbooks-we-remember/06a_textbooks.jpg"></div>
+<div style="background-color: white;"><img style="width:300px" src="/images/Vol-13-issue-4/textbooks-we-remember/06b_textbooks.jpg"></div>
 
 **Minah and her House; The Monkey, the Elephant, the Tiger and the Mouse-deer; The Parade** (1974)
 
 Part of the 24 readers developed and published under the Ministry of Education’s Primary Pilot Project, the books were designed to integrate the learning of English with mathematics and science. For example, children learnt to count and studied science concepts such as reflection.
 
-<div style="background-color: white;"><img style="width:300px" src="/images/Vol-13-issue-4/textbooks-we-remember/07a_textbooks.jpg"></div>
+<div style="background-color: white;"><img style="width:300px" src="/images/Vol-13-issue-4/textbooks-we-remember/07b_textbooks.jpg"></div>
 
 **Primary English Programme** (1982–1984)
 
 This was one of two series of English textbooks developed by the Curriculum Development Institute of Singapore in the 1980s and published by Educational Publications Bureau. Lessons were presented in the form of interesting and humorous stories to engage and appeal to students. Ech story was accompanied by exercises on grammar, vocabulary and self-expression.
 
-<div style="background-color: white;"><img style="width:300px" src="/images/Vol-13-issue-4/textbooks-we-remember/08a_textbooks.jpg"></div>
+<div style="background-color: white;"><img style="width:300px" src="/images/Vol-13-issue-4/textbooks-we-remember/08b_textbooks.jpg"></div>
 
 **PETS (Primary English Thematic Series)** (1991–1995)
 
 *PETS* were the only English textbooks used in primary schools in the 1990s. Markedly different from its predecessors in its use of thematic lessons, each textbook also injected an element of fun by featuring an animal mascot hidden among its pages for students to find. The series was published by Educational Publications Bureau.
 
-<div style="background-color: white;"><img style="width:300px" src="/images/Vol-13-issue-4/textbooks-we-remember/09a_textbooks.jpg"></div>
+<div style="background-color: white;"><img style="width:300px" src="/images/Vol-13-issue-4/textbooks-we-remember/09b_textbooks.jpg"></div>
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>WHAT IS THE LEGAL DEPOSIT?</b>
 <br><br>
