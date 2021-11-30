@@ -2,6 +2,7 @@
 title: Looking Back, Looking Forward
 date: 2019-04-21
 permalink: /vol-15/issue-1/apr-jun-2019/lookingbackforward
+image: /images/Vol-15-issue-1/looking-back-looking-forward/01_lookingbackforward.jpg
 layout: post
 ---
 #### **Shashi Jayakumar** examines the role of the National Archives as the official custodian of government records and the people’s collective memory.
