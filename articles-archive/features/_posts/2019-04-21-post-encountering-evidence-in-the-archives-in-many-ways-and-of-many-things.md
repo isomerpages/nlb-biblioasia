@@ -2,6 +2,7 @@
 title: Encountering Evidence in the Archives (in many ways and of many things)
 date: 2019-04-21
 permalink: /vol-15/issue-1/apr-jun-2019/evidence-in-archives
+image: /images/Vol-15-issue-1/evidence-in-the-archives/01_encountering.jpg
 layout: post
 ---
 #### Who would have thought that obscure rainfall records from the 1960s would have a bearing on a landmark case before the International Court of Justice? **Eric Chin** explains the value of archival records in preserving and presenting evidence.
