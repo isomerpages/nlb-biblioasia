@@ -116,3 +116,61 @@ Despite its demolition, the Ministry of Culture noted that the National Theatre 
 <img style="width:300px" src="/images/Vol-15-issue-1/making-history/08_history.png">
 <br><br>
 This essay is reproduced from the book <i>50 Records from History: Highlights from the National Archives of Singapore</i>. It features 50 short essays written by archivists on selected records from the archives that commemorate major milestones in Singapore’s history. The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (Call nos.: RSING 959.57 HUA-[HIS]and SING 959.57 HUA-[HIS]).</span>
+
+The three historical records covered in this essay were written by Kevin Khoo, Fiona Tan and Yap Jo Lin respectively. Kevin is an oral history specialist, while Fiona and Jo Lin are archivists. All three work at the National Archives of Singapore.
+
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Vol-15-issue-1/making-history/Fiona.png">
+	<b>Fiona Tan</b> is an Archivist with the Outreach Department, national Archives of Singapore where she conducts research to promote a greater awareness of its collections.
+</div>
+
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Vol-15-issue-1/making-history/kevin.png">
+	<b>Kevin Khoo</b> is an Archivist at the National Archives of Singapore. His current responsibilities include archival research and content development.
+</div>
+
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Vol-15-issue-1/making-history/jo_lin.png">
+	<b>Yap Jo Lin</b> is an archivist in NAS’ Archives Services Department. She handles NAS’ collection of building plans, as well as government speeches and press releases.
+</div>
+
+<a href="/vol-15/issue-1/apr-jun-2019/"><center>Back to Issue</center></a>
+
+#### **NOTES**
+
+[^1]:Crawfurd, J. (1824). Letter from Resident John Crawfurd to Governor-General of India in Council, Singapore, 1 October 1824. In Government of the Colony of Singapore, Straits Settlements Records. Series M. Singapore: Letters from Bengal to the Resident. Singapore: Government of the Colony of Singapore. (Microfilm nos.: NL59–62)
+
+[^2]:Freedman, M. (1957). Chinese family and marriage in Singapore (pp. 66–67). London: HMSO. (Call no.: RSING 301.42 FRE)
+
+[^3]:Freedman, 1957, p. 65. 
+
+[^4]:Freedman, 1957, pp. 67, 133. 
+
+[^5]:Lim, O. (1991, March 14). Sold as a bride for $88. *The New Paper*, p. 6. Retrieved from NewspaperSG.
+
+[^6]:Koh, C. C. (1994). Implementing government policy for the protection of women and girls in Singapore 1948–1966: Recollections of a social worker (p. 129). In M. Jaschok & S. Miers (Eds.), Women and Chinese patriarchy: Submission, servitude, and escape. Hong Kong: Hong Kong University Press. (Call no.: RSING 305.420951 WOM)
+
+[^7]:Freedman, 1957, pp. 67, 133. 
+
+[^8]:Freedman, 1957, p. 65. 
+
+[^9]:Miers, S. (1994). Mui tsai through the eyes of the victim (p. 111). In M. Jaschok & S. Miers (Eds.), Women and Chinese patriarchy: Submission, servitude, and escape. Hong Kong: Hong Kong University Press. (Call no.: RSING 305.420951 WOM)
+
+[^10]:Freedman, 1957, p. 65.
+
+[^11]:Sam, J. (1963, August 9) The first 1,500. The Straits Times, p. 1. Retrieved from NewspaperSG.
+
+[^12]:Wong, A. (2016) The story of the People’s Theatre (pp. 33–57). In C.K. Lai (Ed.), Recollections of life in an accidental nation. Singapore: Select Publishing. (Call no.: RSING 720.92 WON)
+
+[^13]:Oon, V. (1971, November 4). ‘First lady’ of ballet praises theatre. New Nation, p. 3. Retrieved from NewspaperSG; Tyers, R. K., & Siow, J. H. (1993). Ray Tyers’ Singapore: Then & now. (p. 155). Singapore: Landmark Books. (Call no.: RSING q959.57 TYE)
+
+[^14]:Lim, P. H. L. (2009). Chronicle of Singapore: Fifty years of headline news 1959–2009 (p. 62). Singapore: Didier Millet in association with National Library Board. (Call no.: RSING 959.5705 CHR)
+
+[^15]:Jay, S.E. (Interviewer). (2012, February 8). Oral history interview with Alfred Wong Hong Kwok [MP3 recording no. 003689/9/7]. Retrieved from National Archives of Singapore website.
+
+[^16]:Oral history interview with Alfred Wong Hong Kwok, 8 Feb 2012.
+
+[^17]:National Theatre location a historic site now. (2000, February 1). *The Straits Times*, p. 32. Retrieved from NewspaperSG.
