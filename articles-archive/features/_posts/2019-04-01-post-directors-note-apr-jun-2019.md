@@ -19,3 +19,9 @@ We recently published *50 Records from History: Highlights from the National Arc
 Since 2012 – when the NAS became part of the National Library Board – the library and the archives have worked together to make our resources more accessible to the public. We hope this issue of *BiblioAsia* will inspire many of you to look deeper into Singapore’s documentary and publishing heritage in this bicentennial year, and gain a new appreciation of our roots.
 
 <sup>*<i>Southeast Asia Regional Branch of the International Council on Archives</i></sup>
+
+**Tan Huism**<br>
+Director, National Library
+
+**Wendy Ang**<br>
+Director, National Archives Singapore
