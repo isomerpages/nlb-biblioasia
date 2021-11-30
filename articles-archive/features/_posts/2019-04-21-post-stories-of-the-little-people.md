@@ -162,24 +162,24 @@ This last point about how the same experiences can bridge generations would earn
 
 [^10]:Chew, D. (1991, May 29). Oral history interview with Mohamed Sidek bin Siraj (Haji) [Transcript of recording no. 001255/6/5, p. 2]. Retrieved from National Archives of Singapore website.
 
-[^11]:Lee, P. (2002, March 20). Oral history interview with Lee Seng Teik (Prof) [Recording no. 002632/11/6]. Retrieved from National Archives of Singapore website.
+[^11]:Lee, P. (2002, March 20). *[Oral history interview with Lee Seng Teik (Prof)](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/671abed9-1160-11e3-83d5-0050568939ad?keywords=Lee%20Seng%20Teik&keywords-type=all)* [Recording no. 002632/11/6]. Retrieved from National Archives of Singapore website.
 
-[^12]:Thompson, P. (2000). The voice of the past: Oral history (p. 25). New York: Oxford University Press. Retrieved from NLB’s eResources website.
+[^12]:Thompson, P. (2000). *The voice of the past: Oral history* (p. 25). New York: Oxford University Press. Retrieved from NLB’s eResources website.
 
-[^13]:Tan, C.J. (2019, February 13). When history leaps from textbooks onto our streets and into our lives. *The Straits Times*. Retrieved from The Straits Times website.
+[^13]:Tan, C.J. (2019, February 13). When history leaps from textbooks onto our streets and into our lives. *The Straits Times*. Retrieved from *The Straits Times* website.
 
-[^14]:Lim, J. (2008, May 16). Oral history interview with Koh, James Cher Siang [Transcript of recording no. 002847/6/1, p. 13]. Retrieved from National Archives of Singapore website.
+[^14]:Lim, J. (2008, May 16). *[Oral history interview with Koh, James Cher Siang](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/5/559fa17d-1161-11e3-83d5-0050568939ad-OHC002847_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png)* [Transcript of recording no. 002847/6/1, p. 13]. Retrieved from National Archives of Singapore website.
 
 [^15]:Sook Ching is a Chinese term meaning “purge through cleansing”. Operation Sook Ching was a Japanese military operation aimed at eliminating anti-Japanese elements from the Chinese community in Singapore. From 21 February to 4 March 1942, Chinese males between the ages of 18 and 50 were summoned to report at mass screening centres and those suspected of being anti-Japanese were summarily executed. 
 
-[^16]:Chou, C. (1994, September 1). Oral history interview with Felix Chia [Transcript of recording no. 001553/8/2, pp. 6–7]. Retrieved from National Archives of Singapore website.
+[^16]:Chou, C. (1994, September 1). *[Oral history interview with Felix Chia](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/7/7779b122-115e-11e3-83d5-0050568939ad-OHC001553_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png)* [Transcript of recording no. 001553/8/2, pp. 6–7]. Retrieved from National Archives of Singapore website.
 
-[^17]:Ruzita Zaki. (1995, December 20). Oral history interview with Cornelius, Vernon Christopher [Transcript of recording no. 001711/18/12, p. 140]. Retrieved from National Archives of Singapore website.
+[^17]:Ruzita Zaki. (1995, December 20). *[Oral history interview with Cornelius, Vernon Christopher](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/ec8f1ab0-115f-11e3-83d5-0050568939ad-OHC001711_012/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png)* [Transcript of recording no. 001711/18/12, p. 140]. Retrieved from National Archives of Singapore website.
 
-[^18]:Mick – James Acaster’s arch enemy? Lee Mack’s traded toddler? Gabby Logan’s cheated child? (2017, December 4). Would I Lie To You? (Series 11, episode 3). Retrieved from YouTube. 
+[^18]:Mick – James Acaster’s arch enemy? Lee Mack’s traded toddler? Gabby Logan’s cheated child? (2017, December 4). *Would I Lie To You?* (Series 11, episode 3). Retrieved from YouTube. 
 
-[^19]:Tan, A, (2014, May 26). Oral history interview with Liak Teng Lit [Recording no. 003867/36/20]. Retrieved from National Archives of Singapore website.
+[^19]:Tan, A, (2014, May 26). *[Oral history interview with Liak Teng Lit](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/111c4181-ac16-11e4-859c-0050568939ad?keywords=Liak&keywords-type=all)* [Recording no. 003867/36/20]. Retrieved from National Archives of Singapore website.
 
-[^20]:Zaleha Bte Osman. (1999, April 14). Oral history interview with Tan, Richard Swee Guan [Transcript of recording no. 002108/8/7, p. 105). Retrieved from National Archives of Singapore website.
+[^20]:Zaleha Bte Osman. (1999, April 14). *[Oral history interview with Tan, Richard Swee Guan](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/6/6293aca5-115e-11e3-83d5-0050568939ad-OHC002108_007/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=5)* [Transcript of recording no. 002108/8/7, p. 105). Retrieved from National Archives of Singapore website.
 
-[^21]:Lee, P. (2000, July 7). Oral history interview with Chan, Sally (Mrs) @ Sally Liew [Transcript of recording no. 002353/4/3, p. 33]. Retrieved from National Archives of Singapore website.
+[^21]:Lee, P. (2000, July 7). *[Oral history interview with Chan, Sally (Mrs) @ Sally Liew](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/1/18a46a0d-1160-11e3-83d5-0050568939ad-OHC002353_003/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png)* [Transcript of recording no. 002353/4/3, p. 33]. Retrieved from National Archives of Singapore website.
