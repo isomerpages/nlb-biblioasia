@@ -30,17 +30,17 @@ The SWD’s child feeding programme was officially launched on 2 January 1947 at
 
 It should be noted that the child feeding scheme was not a mass-feeding programme for the poor, but targeted at addressing the effects of widespread malnutrition among children. As such, only undernourished children were eligible for the daily free meal at the child feeding centres. Singapore’s College of Medicine provided advice on nutrition and menu-planning. For example, in December 1946, Dr C.J. Oliveiro from the college sent the SWD the chemical analysis of a list of foods that were high in nutritional value and beneficial to children if included in the diet.
 
-These food items included wild boar meat, lean beef, broad beans, kacang hijau (green beans), blue Prussian peas and Brazilian black beans. Oliveiro also gave tips on food preparation methods. The peas and beans, he advised, “must be ground to a fine meal before cooking otherwise they are indigestible. If there is difficulty in grinding… then they ought to be soaked for one night in clean water…”.[^11]
+These food items included wild boar meat, lean beef, broad beans, *kacang hijau* (green beans), blue Prussian peas and Brazilian black beans. Oliveiro also gave tips on food preparation methods. The peas and beans, he advised, “must be ground to a fine meal before cooking otherwise they are indigestible. If there is difficulty in grinding… then they ought to be soaked for one night in clean water…”.[^11]
 
 Each eligible child was issued an authorisation card that also contained a record of when the child was measured, weighed or medically examined. Two volunteer doctors visited the feeding centres regularly to check on the children, and records were kept of such visits.[^12] The records were carefully studied to assess the impact of the meals on the health of the children. It was reported in May 1948 that although some 60 percent of the children had gained weight, 28 percent showed no improvement and 12 percent had actually lost weight.
 
-Concerned that the meals were not having sufficient impact, Oliveiro made several recommendations to improve the effectiveness of the feeding scheme. He acknowledged that the menu was monotonous at times and proposed removing items like ikan bilis (anchovies) as they were hard and indigestible. Suspecting that the food was consumed by those it was not meant for, he cautioned against allowing children to take their meals away from the feeding centres. Similarly, he reminded the SWD that the centre supervisors should advise family members not to eat the meals provided for their children.[^13]
+Concerned that the meals were not having sufficient impact, Oliveiro made several recommendations to improve the effectiveness of the feeding scheme. He acknowledged that the menu was monotonous at times and proposed removing items like *ikan bilis* (anchovies) as they were hard and indigestible. Suspecting that the food was consumed by those it was not meant for, he cautioned against allowing children to take their meals away from the feeding centres. Similarly, he reminded the SWD that the centre supervisors should advise family members not to eat the meals provided for their children.[^13]
 
 #### **Help from Volunteers**
 
 Voluntary workers were critical to the operations of the feeding scheme, which was run with a minimum number of paid staff.[^14] In January 1947, McNeice drafted a letter for Lady Gimson, wife of then Governor of Singapore Franklin Gimson, for her to invite volunteers to assist with the work at the feeding centres. The duties included supervising clerical, serving and cleaning staff; keeping simple records; taking the weight of children; and making suggestions on how to improve the centres and better meet the needs of the children.[^15] By late October 1947, there were more than 150 workers volunteering their services at the 20 children’s feeding centres. In reality, the commitment and contributions of the volunteers went beyond the duties listed by McNeice.
 
-In June 1947, some of the volunteers organised a bridge and mahjong drive to raise funds to purchase materials for “handwork” (vocational lessons) at the centres. This effectively was the start of the Children’s Centre Fund. Other fundraisers included concerts and charity shows. In another project, 17 volunteers got together once a week to sew garments for the children at the centres. Fabrics were bought using the Children’s Centre Fund, and some volunteers even carted their own sewing machines from home.[^16]
+In June 1947, some of the volunteers organised a bridge and *mahjong* drive to raise funds to purchase materials for “handwork” (vocational lessons) at the centres. This effectively was the start of the Children’s Centre Fund. Other fundraisers included concerts and charity shows. In another project, 17 volunteers got together once a week to sew garments for the children at the centres. Fabrics were bought using the Children’s Centre Fund, and some volunteers even carted their own sewing machines from home.[^16]
 
 The dedicated volunteers committed themselves to the cause and tackled the challenges head on. May Wong, a volunteer who helped to set up and run the feeding centre at Pasir Panjang, recalled the problems that she and her fellow volunteers faced when the centre was first set up, with some people even using the facilities as a public toilet! However, the volunteers did not lose hope and soldiered on until the situation improved. Wong said:
 
@@ -114,25 +114,25 @@ People’s Restaurants catered primarily to wage earners wanting a mid-day meal 
 
 #### **NOTES**
 
-[^1]:Cheng, S.H. (1991). Economic change and industrialization. In E.C.T. Chew & E. Lee (Eds.), A history of Singapore (p. 182). Singapore: Oxford University Press. (Call no.: RSING 959.57 HIS-[HIS]) 
+[^1]:Cheng, S.H. (1991). Economic change and industrialization. In E.C.T. Chew & E. Lee (Eds.), *[A history of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5914108)* (p. 182). Singapore: Oxford University Press. (Call no.: RSING 959.57 HIS-[HIS]) 
 
-[^2]:Kratoska, P.H. (1988, March). The post-1945 food shortage in British Malaya. Journal of Southeast Asian Studies, 19(1), 27–47, pp. 32–33. Retrieved from JSTOR via NLB’s eResources website. 
+[^2]:Kratoska, P.H. (1988, March). The post-1945 food shortage in British Malaya. Journal of Southeast Asian Studies, 19(1), 27–47, pp. 32–33. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website. 
 
-[^3]:Ho, C.T. (2013, October–December). Communal feeding in post-war Singapore. BiblioAsia, 9(3), 2–7; Foo, K.L. (1981, December 4). Oral history interview with Thomas Percy Ferguson McNeice [Transcript of recording no. 000099/22/12]. Retrieved from National Archives of Singapore website. 
+[^3]:Ho, C.T. (2013, October–December). Communal feeding in post-war Singapore. *[BiblioAsia](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx), 9*(3), 2–7; Foo, K.L. (1981, December 4). *[Oral history interview with Thomas Percy Ferguson McNeice](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/d/df4a2687-115d-11e3-83d5-0050568939ad-OHC000099_012/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png)* [Transcript of recording no. 000099/22/12]. Retrieved from National Archives of Singapore website. 
 
-[^4]:Social Welfare Department (SWD). (1945, November 5–1947, April 2). Free meals for children [RBMA HQ S DIV 432–45, p. 100]. Retrieved from National Archives of Singapore website. 
+[^4]:Social Welfare Department (SWD). (1945, November 5–1947, April 2). *[Free meals for children](https://www.nas.gov.sg/archivesonline/government_records/record-details/97c75ff9-940f-11e7-843a-0050568939ad)* [RBMA HQ S DIV 432–45, p. 100]. Retrieved from National Archives of Singapore website. 
 
-[^5]:Social Welfare Department (SWD). (1945, November 5–1946, September 25). Singapore welfare child feeding scheme – free meals for children [SWD 44–46, pp. 73–74]. Retrieved from National Archives of Singapore website. 
+[^5]:Social Welfare Department (SWD). (1945, November 5–1946, September 25). *[Singapore welfare child feeding scheme – free meals for children](https://www.nas.gov.sg/archivesonline/government_records/record-details/936c3e4b-940f-11e7-843a-0050568939ad)* [SWD 44–46, pp. 73–74]. Retrieved from National Archives of Singapore website. 
 
-[^6]:Social Welfare Department, 5 Nov 1945–2 Apr 1947, p. 58. 
+[^6]:[Social Welfare Department](https://www.nas.gov.sg/archivesonline/government_records/record-details/97c75ff9-940f-11e7-843a-0050568939ad), 5 Nov 1945 – 2 Apr 1947, p. 58. 
 
-[^7]:Social Welfare Department, 5 Nov 1945–25 Sep 1946, p. 16. 
+[^7]:[Social Welfare Department](https://www.nas.gov.sg/archivesonline/government_records/record-details/936c3e4b-940f-11e7-843a-0050568939ad), 5 Nov 1945 – 25 Sep 1946, p. 16. 
 
-[^8]:Social Welfare Department (SWD). (1946, September 13–1953, May 13). Feeding of children between ages 2 and 6 [SWD 44–B Vol 3, pp. 201–202]. Retrieved from National Archives of Singapore website. 
+[^8]:Social Welfare Department (SWD). (1946, September 13–1953, May 13). *[Feeding of children between ages 2 and 6](http://www.nas.gov.sg/archivesonline/government_records/record-details/27cc9198-578e-11e7-9199-0050568939ad)* [SWD 44–B Vol 3, pp. 201–202]. Retrieved from National Archives of Singapore website. 
 
-[^9]:Social Welfare Department, 13 Sep 1946–13 May 1953, p. 9. The SWD eventually took over these two crèches when the Child Welfare Society closed down. 
+[^9]:[Social Welfare Department](http://www.nas.gov.sg/archivesonline/government_records/record-details/27cc9198-578e-11e7-9199-0050568939ad), 13 Sep 1946–13 May 1953, p. 9. The SWD eventually took over these two crèches when the Child Welfare Society closed down. 
 
-[^10]:Social Welfare Department. (1949, September 24–1954, January 26). Report on children’s social centre [SWD 371-E, pp. 25–34]. Retrieved from National Archives of Singapore website. 
+[^10]:Social Welfare Department. (1949, September 24–1954, January 26). *[Report on children’s social centre](http://www.nas.gov.sg/archivesonline/government_records/record-details/27780623-578e-11e7-9199-0050568939ad)* [SWD 371-E, pp. 25–34]. Retrieved from National Archives of Singapore website. 
 
 [^11]:Social Welfare Department, 13 Sep 1946–13 May 1953, p. 183. 
 
