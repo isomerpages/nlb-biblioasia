@@ -21,7 +21,9 @@ Since 2012 – when the NAS became part of the National Library Board – the li
 <sup>*<i>Southeast Asia Regional Branch of the International Council on Archives</i></sup>
 
 **Tan Huism**<br>
-Director, National Library
+Director<br>
+National Library
 
 **Wendy Ang**<br>
-Director, National Archives Singapore
+Director<br>
+National Archives Singapore
