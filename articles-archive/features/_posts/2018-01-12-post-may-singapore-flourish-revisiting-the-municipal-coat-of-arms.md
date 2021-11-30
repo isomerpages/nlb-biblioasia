@@ -6,11 +6,11 @@ layout: post
 ---
 #### In April 1948, the municipality of Singapore received a coat of arms by royal warrant. **Mark Wong** reports on the significance of this document.
 
-<div style="background-color: white;"><br><img style="width:400px" src="/images/Vol-13-issue-4/may-singapore-flourish/01_flourish.jpg"></div>
+<div style="background-color: white;"><br><img style="width:400px" src="/images/Vol-13-issue-4/may-singapore-flourish/01a_flourish.jpg"></div>
 
 If you’ve ever been to Mount Emily Park[^1] and wondered about the colourful coat of arms mounted on the wall at the entrance, the answer to its identity lies in one of the documents on display at the exhibition, “Law of the Land: Highlights of Singapore’s Constitutional Documents”.
 
-<div style="background-color: white;"><img style="width:400px" src="/images/Vol-13-issue-4/may-singapore-flourish/05_flourish.jpg">The 1948 municipal coat of arms still features prominently today at the entrance of Mount Emily Park. <i>Courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;"><img style="width:400px" src="/images/Vol-13-issue-4/may-singapore-flourish/05a_flourish.jpg">The 1948 municipal coat of arms still features prominently today at the entrance of Mount Emily Park. <i>Courtesy of National Archives of Singapore.</i></div>
 
 Among the colonial-era documents at the exhibition held at the National Gallery Singapore is the *Royal Warrant Assigning Armorial Ensigns for the City of Singapore* – easily one of the most ornate of the items on display.
 
