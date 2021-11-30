@@ -2,6 +2,7 @@
 title: "The Way We Were: THE MITA Collection 1949–1969"
 date: 2019-04-21
 permalink: /vol-15/issue-1/apr-jun-2019/the-way-we-were
+image: /images/Vol-15-issue-1/the-way-we-were/01_waywewere.png
 layout: post
 ---
 #### Photographs can capture subtext that is sometimes more evocative than the intended subject, as **Gretchen Liu** discovered when she explored the early work of the Photo Unit. 
