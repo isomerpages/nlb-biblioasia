@@ -2,6 +2,7 @@
 title: When Disco Fever Raged
 date: 2019-04-21
 permalink: /vol-15/issue-1/apr-jun-2019/whendiscofeverraged
+image: /images/Vol-15-issue-1/when-disco-fever-raged/01_disco.png
 layout: post
 ---
 #### Pulsating music, strobe lights and postage-stamp dance floors packed with shimmying bodies. **Tan Chui Hua** gives you the lowdown on the history of the disco scene in Singapore.
