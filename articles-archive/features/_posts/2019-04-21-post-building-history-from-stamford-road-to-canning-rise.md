@@ -2,6 +2,7 @@
 title: "Building History: From Stamford Road to Canning Rise"
 date: 2019-04-21
 permalink: /vol-15/issue-1/apr-jun-2019/building-history
+image: /images/Vol-15-issue-1/building-history/01_buildinghistory.jpg
 layout: post
 ---
 #### **Abigail Huang** tracks the movement of the National Archives of Singapore, from its early days in the Raffles Museum and Library on Stamford Road to an old school building at the foot of Fort Canning.
