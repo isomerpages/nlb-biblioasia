@@ -2,6 +2,7 @@
 title: Researching S. Rajaratnam
 date: 2019-04-21
 permalink: /vol-15/issue-1/apr-jun-2019/s-rajaratnam
+image: /images/Vol-15-issue-1/researching-s-rajaratnam/01_rajaratnam.jpg
 layout: post
 ---
 #### Writing a biography can be tedious, painstaking work. But the effort can also be uplifting and inspirational, as **Irene Ng** discovered when she began researching the life of S. Rajaratnam.
