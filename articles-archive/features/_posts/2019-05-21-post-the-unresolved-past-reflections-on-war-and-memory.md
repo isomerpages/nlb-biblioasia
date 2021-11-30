@@ -2,6 +2,7 @@
 title: "The Unresolved Past: Reflections on War and Memory"
 date: 2019-05-21
 permalink: /vol-15/issue-1/apr-jun-2019/unresolved-past
+image: /images/Vol-15-issue-1/the-unresolved-past/01_unresolvedpast.jpg
 layout: post
 ---
 #### Why recall traumatic memories of war when it is painful for both perpetrators and victims? **Kwok Kian Woon** considers the stakes in remembering and understanding war experiences in times of relative peace.
