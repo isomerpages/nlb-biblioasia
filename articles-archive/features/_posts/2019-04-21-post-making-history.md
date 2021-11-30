@@ -8,14 +8,14 @@ layout: post
 
 <div style="background-color: white;"><br><img src="/images/Vol-15-issue-1/making-history/01_history.png"></div>
 
+#### **A Treaty Most Unfriendly**
+
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;">
-<b>Title:</b>Record of the Treaty of Friendship and Alliance, 2 August 1824<br>
+<b>Title:</b> Record of the Treaty of Friendship and Alliance, 2 August 1824<br>
 <b>Source:</b> National Archives of Singapore<br>
-<b>Year created</b>: Copy made in 1841<br>
+<b>Year created:</b> Copy made in 1841<br>
 <b>Type:</b> Document<br>
 <b>Accession no.:</b> SSR R7</span>
-
-#### **A Treaty Most Unfriendly**
 
 Singapore came under the control of the British East India Company (EIC) on 2 August 1824. This was after the second Resident of Singapore, John Crawfurd, had signed a treaty with Sultan Hussein of Johor and Temenggong Abdul Rahman to officially transfer their sovereignty over the island to the British.
 
@@ -39,3 +39,71 @@ The Sultan and Temenggong were initially reluctant to sign the treaty as it woul
 In exchange, the Sultan and Temenggong each received a lump sum of money, had their allowances increased, and were guaranteed due respect and personal safety in Singapore and Penang. A year after the treaty was concluded, Crawfurd sailed around Singapore to mark the anniversary of official British control over Singapore and its surrounding waters and islands. A 21-gun salute was also fired on Pulau Ubin to commemorate the event.
 
 There were three original signed copies of the ratified 1824 treaty: one for the British India government, which is now archived with the British Library’s India Office collection, and the other two for the Sultan and Temenggong.[^1] The copy belonging to the National Archives of Singapore was created in September 1841 at the request of then Governor of the Straits Settlements Samuel George Bonham.
+
+#### **Child Brides for Sale**
+
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;">
+<b>Title:</b> 契约 Indenture of Selling Daughter<br>
+<b>Source:</b> Tan Boon Chong Collection, National Archives of Singapore<br>
+<b>Year created:</b> 1939<br>
+<b>Type:</b> Document<br>
+<b>Accession no.:</b> 135</span>
+
+Before the 1950s, it was common for impoverished Chinese parents in Singapore to sell their daughters as child brides, especially if they had too many children to feed. This relieved the parents of the expenses of raising another child, while the typically wealthy family who bought the child paid a lower dowry for the young bride-to-be and, at the same time, procured her services as a maid.[^2]
+
+This social practice of buying and selling young girls is documented in this contract (契约; qi yue) dated 8 September 1939. The girl in question is Tay Ai Lan (郑惜兰), a 12-year-old child bride (童养媳; tong yang xi), who was sold for a dowry of $88. The contract specifies her date of birth as the 18th day of the ninth lunar month. It also lists the names of her parents, the representative from the other family as well as the two matchmakers who witnessed the transaction.
+
+Child brides in Singapore were known by different dialect names: the Hokkiens referred to them as sim pu kia, while the Cantonese called them san po tsai. Both can be loosely translated as “little daughter-in-law”. Despite its namesake, the practice of child marriages was more accurately described as an adoption rather than a marriage, as the young girl usually worked as a domestic servant for the family before she finally got married to her intended husband.[^3]
+
+A contract, like the one for Tay, may have been drawn up to legally bind both parties to the betrothal until the girl reached puberty. However, a child bride might not eventually marry her intended husband for a variety of reasons, one of which could be his objection to the marriage.[^4] Fortunately in Tay’s case, she did go on to marry the second of three sons in the family when she turned 18. It was a union of “few dramatic ups and downs”, and the couple eventually had many children and grandchildren.[^5] Tay’s contract was donated to the National Archives of Singapore by her son Tan Boon Chong in 1991.
+
+<div style="background-color: white;"><img style="width:500px" src="/images/Vol-15-issue-1/making-history/05_history.png">契约 “Indenture of Selling Daughter”, 1939. This contract was made between the family of 12-year-old Tay Ai Lan who was “sold” for a dowry of $88 to a wealthy family. Tay ended up working as a domestic servant for the family she was indentured into – as many child brides did – before she married the second son in the family when she turned 18 years old. <i>Tan Boon Chong Collection, courtesy of the National Archives of Singapore.</i></div>
+
+The practice of giving up an unwanted child for financial reasons was carried out not only in Singapore but also in rural communities in Hong Kong and other parts of Southeast Asia. In Singapore, child marriages continued to be practised until the mid-20th century by “debt-ridden, gambling, opium-smoking fathers or those who needed money to fulfill filial duties like paying for medical or funeral expenses for elderly parents”, noted Koh Choo Chin, a social worker in the Social Welfare Department in 1948.[^6] She observed that superstition was also one of the reasons why parents were willing to sell their daughters as child brides. To the Chinese, a girl born in the Year of the Tiger, for example, was believed to bring bad luck to the family.
+
+Girls could be sold as child brides even while they were still babies or between the ages of nine and mid-teens. Compared with a typical bridal dowry, child brides cost significantly less. In the 1950s, the family of a child bride in Singapore was paid around $40, while regular brides received a dowry of between $150 and $200.[^7]
+
+In those days, the practice of child marriage was often conflated with the mui tsai (“little sister” in Cantonese) system, in which young girls were sold to affluent Chinese families as domestic servants but without a pledge of marriage to a son of the family.[^8] As with child marriages, a document was drawn up between the two parties, and the girl would be transferred to the new household. All ties with her parents were cut once the purchase money was handed over.[^9]
+
+<div style="background-color: white;"><img style="width:500px" src="/images/Vol-15-issue-1/making-history/04_history.png">The practice of selling child brides is not to be confused with that of the <i>mui tsai</i>. <i>Mui tsai</i> (younger sister in Cantonese) were young girls who were sold as domestic servants to rich Chinese families. Child brides (or <i>san po tsai</i> in Cantonese), on the other hand, who were sold to Chinese families in return for a dowry, usually ended up marrying one of the sons of the family she was bought into. Pictured here is an identification card for a <i>mui tsai</i> issued by the Chinese Protectorate in 1932. The reverse of the card shows the terms and conditions that employers had to agree to upon registering their <i>mui tsai</i>. <i>Lee Siew Hong Collection, courtesy of the National Archives of Singapore.</i></div>
+
+While the British colonial government attempted to prohibit the acquisition of mui tsai through the 1932 Mui Tsai Ordinance, they did not attempt to push for similar legislation for child marriages.[^10] This document offers a rare glimpse into this social practice in 1930s Singapore.
+
+#### **The People’s Theatre**
+
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;">
+<b>Title:</b> Architectural Design Drawing of the National Theatre: Perspective View<br>
+<b>Source:</b> Alfred Wong Partnership Collection, National Archives of Singapore<br>
+<b>Year created</b>: 1960<br>
+<b>Type:</b> Architectural drawing<br>
+<b>Accession no.:</b> 19990003367 IMG0001</span>
+
+On the slopes of Fort Canning Hill, facing Clemenceau Avenue, once stood the iconic National Theatre, which was built to commemorate Singapore’s attainment of self-government in 1959.
+
+At the theatre’s opening on 8 August 1963, Yang di-Pertuan Negara (Head of State) Yusof Ishak explained that the building was “dedicated to the ideal of a harmonious development of a diversity of cultures within the framework of national unity”.[^11]
+
+This architectural drawing shows the open-air theatre with its distinctive facade featuring five vertical diamond-shaped bays. A fountain was later erected outside the theatre in 1966. While these features have been said to symbolise the five stars and crescent moon on Singapore’s state flag respectively, its architect Alfred H.K. Wong has commented otherwise.
+
+In actual fact, the building was designed such that the brick infill facade could structurally reinforce the back wall of the stage house. Wong arrived at this design as he wanted to avoid the use of a conventional rectangular grid. While the National Theatre Trust suggested adorning the diamond-shaped elements with national symbols of some kind, this did not happen in the end as Wong explained:
+
+“Fortunately, no agreement came of this suggestion, as I’d much prefer to leave the brick work with its varied dark orange colour as a symbol of a material that was made out of the soil of Singapore.”[^12]
+
+The plan to build a national theatre that could provide cultural entertainment for the masses was first announced in 1959 by then Minister for Culture S. Rajaratnam. The theatre was subsequently dubbed the “People’s Theatre” as a third of its $2.2 million price tag came from public contributions. The funds were solicited through various donation drives, most notably the “a-dollar-a-brick” campaign.
+
+Wong’s theatre design was selected through a competition. The theatre, with its open-air concept complemented by a cantilevered roof providing shelter for the overall structure, was described by the acclaimed ballerina Margot Fonteyn, who performed there in 1971, as the “perfect one for this sort of climate”.[^13] Wong would later design other prominent buildings such as Singapore Polytechnic and Marco Polo Hotel.
+
+When the National Theatre officially opened on 8 August 1963, it was the largest theatre in Singapore with a seating capacity of 3,420. The theatre even had a revolving stage that cost $10,000 a year to maintain, although it was rarely put to use.
+
+The first show performed at the theatre was the Southeast Asia Cultural Festival, and included performances by Cambodian royalty and Hong Kong film stars. Wong recalled that regional countries sent “their best” to the festival, which was touted as the “greatest show in the East”.[^14] He later said in an oral history interview in 2012:
+
+“I tell you, it was unforgettable. I mean, for me it was like the experience of my life because when the curtains opened – I mean – you had [a] full house, you had probably about 8,000 behind in the open air all clapping and yelling away. You know, it was tremendous. I mean – I’ve never seen an audience react to that.”[^15]
+
+The festival was held in the theatre even though it had yet to be completed. A canvas was put up where the roof was still unfinished – and Wong noted that “(at) night time when it’s all lit up, it was all right”.[^16]
+
+Over the next two decades, the National Theatre hosted various national and cultural events. These included National Day Rallies (1966–82), university convocations as well as performances by world-famous names, such as the British pop group Bee Gees and the Sadler’s Wells Royal Ballet.
+
+Popular events were sometimes “attended” by more than just ticket-holders, as the theatre’s location at the base of Fort Canning Hill allowed people to position themselves strategically on the hillside above the building to enjoy the same events for free. The theatre’s open-air design also invited complaints about noise from passing traffic, inadequate shelter from heavy rain, and the presence of rats, bats and cockroaches.
+
+The National Theatre was demolished in 1986 amid concerns that the building was structurally unsafe. The government also had plans to construct an expressway nearby, which eventually became part of the Central Expressway.
+
+Despite its demolition, the Ministry of Culture noted that the National Theatre had played an important part in nation-building by inculcating “a spirit of self-help and a sense of nationhood”. In 2000, the location of the National Theatre was declared a historic site by the National Heritage Board.[^17]
