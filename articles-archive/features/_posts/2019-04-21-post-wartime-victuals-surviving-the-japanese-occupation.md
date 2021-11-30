@@ -2,6 +2,7 @@
 title: "Wartime Victuals: Surviving the Japanese Occupation"
 date: 2019-04-21
 permalink: /vol-15/issue-1/apr-jun-2019/wartime-victuals
+image: /images/Vol-15-issue-1/wartime-victuals/01_wartime.jpg
 layout: post
 ---
 #### Desperate times call for desperate measures. **Lee Geok Boi** trawls the oral history collection of the National Archives to document how people coped with the precious little food they had during the war.
