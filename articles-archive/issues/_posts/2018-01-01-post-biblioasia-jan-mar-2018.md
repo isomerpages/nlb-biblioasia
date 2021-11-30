@@ -37,7 +37,7 @@ From cooking, cleaning and becoming a good mother to outsourcing housework as ca
 **[Stamping History](/vol-13/issue-4/jan-mar-2018/stamping-history)** <br>
 Postage stamps are more than little squares of paper to be stuck on envelopes. *Justin Zhuang* discovers how stamps have helped forge Singapore’s identity over the past five decades. [(PDF)](/files/pdf/vol-13/v13-issue4_Stamping.pdf)
 
-**[When Tigers Used to Roam: Nature & Environment in Singapore](/issue-4/jan-mar-2018/whentigersusedtoroam)** <br>
+**[When Tigers Used to Roam: Nature & Environment in Singapore](/vol-13/issue-4/jan-mar-2018/whentigersusedtoroam)** <br>
 Urban development has destroyed much of the original landscape, as *Goh Lee Kim* tells us. But Singapore has taken great strides in conserving its natural heritage. [(PDF)](/files/pdf/vol-13/v13-issue4_Tigers.pdf)
 
 **[Kelly & Walsh: Purveyor, Publisher and Printer](/vol-13/issue-4/jan-mar-2018/kelly-and-walsh)** <br>
