@@ -2,6 +2,7 @@
 title: Making History
 date: 2019-04-21
 permalink: /vol-15/issue-1/apr-jun-2019/making-history
+image: /images/Vol-15-issue-1/making-history/01_history.png
 layout: post
 ---
 #### A treaty that sealed Singapore’s fate, a contract for the sale of child brides, and a drawing of an iconic theatre are among the items showcased in a new book, *50 Records from History*, published by the National Archives of Singapore.
