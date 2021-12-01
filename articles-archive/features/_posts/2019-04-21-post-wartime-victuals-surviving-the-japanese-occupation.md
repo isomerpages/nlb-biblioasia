@@ -66,7 +66,7 @@ Many people who survived the Occupation had no choice but to turn to the black m
 
 Although British propaganda was remarkably effective in persuading people that the outbreak of World War II in Europe in 1939 would not reach Singapore, the more far-sighted had begun hoarding essentials to see themselves through what could be a really difficult time.
 
-<div style="background-color: white;"><img src="/images/Vol-15-issue-1/wartime-victuals/05_wartime.jpg">Rationing remained in full force even after the British returned in 1945 and more stocks of food and other essentials began coming in. <i>Image reproduced from Lee, G.B. (2005). The Syonan Years: Singapore Under Japanese Rule 1942–1945 (p. 159). Singapore: National Archives of Singapore and Epigram. (Call no.: RSING q940.53957 LEE-[WAR]).</i></div>
+<div style="background-color: white;"><img style="width:500px" src="/images/Vol-15-issue-1/wartime-victuals/05_wartime.jpg">Rationing remained in full force even after the British returned in 1945 and more stocks of food and other essentials began coming in. <i>Image reproduced from Lee, G.B. (2005). The Syonan Years: Singapore Under Japanese Rule 1942–1945 (p. 159). Singapore: National Archives of Singapore and Epigram. (Call no.: RSING q940.53957 LEE-[WAR]).</i></div>
 
 The relatively wealthier segments of Asian society in pre-war Singapore accumulated assets such as gold, jewellery, household goods, furniture and clothes. Some converted fixed assets such as property or land into gold or Straits dollars, which they kept hidden until the need to use them arose. As existing stocks of essential goods in occupied Singapore depleted and shortages were more acutely felt, all manner of consumer goods surfaced in the black market.
 
