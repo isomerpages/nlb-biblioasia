@@ -216,7 +216,7 @@ Researcher and writer <b>Tan Chui Hua</b> has worked on various projects documen
 
 [^19]:Lee, P. (Interviewer). (2002, February 20). *[Oral history interview with Larry Lai](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/5/5b07faeb-115f-11e3-83d5-0050568939ad-OHC002625_009/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png)* [Transcript of MP3 recording no. 002625/14/8, pp. 92–94]. Retrieved from National Archives of Singapore website.
 
-[^20]*[Oral history interview with Larry Lai](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/5/5b07faeb-115f-11e3-83d5-0050568939ad-OHC002625_009/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png),* 20 Feb 2020, p. 102.
+[^20]:*[Oral history interview with Larry Lai](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/5/5b07faeb-115f-11e3-83d5-0050568939ad-OHC002625_009/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png),* 20 Feb 2020, p. 102.
  
 [^21]:*[Oral history interview with Larry Lai](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/5/5b07faeb-115f-11e3-83d5-0050568939ad-OHC002625_009/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png),* 20 Feb 2020, p. 105.
 
