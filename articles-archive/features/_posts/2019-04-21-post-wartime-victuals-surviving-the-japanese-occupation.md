@@ -129,7 +129,7 @@ The availability of such food was, of course, confined to those with the ability
 
 The drugs necessary to treat various diseases were not available or hard to procure, and the food needed to keep people healthy or aid in the recovery of those who were ill were beyond the reach of the poor. All this had a profound impact on the survivors of the Japanese Occupation. Thereafter, their mantra would be “Do not waste food”, repeated frequently to a post-war generation of young people who would grow up in the midst of relative plenty.
 
-<div style="background-color: white;"><img src="/images/Vol-15-issue-1/wartime-victuals/10a_wartime.jpg">William R.M. Haxworth was the Chief Investigator at the War Risk Insurance Department in Singapore when he was interned during the Japanese Occupation, first at Changi Prison then at Sime Road Camp. During his internment, Haxworth produced more than 300 paintings and sketches depicting the terrible living conditions in the prisoner-of-war camps. This sketch titled “Bread Ration” takes a humorous look at the fluctuating portion sizes of prison rations as well as the internees’ attempts at baking, with their “scones” resembling “stones”. <i>W.R.M. Haxworth Collection, courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;"><img style="width:300px" src="/images/Vol-15-issue-1/wartime-victuals/10a_wartime.jpg">William R.M. Haxworth was the Chief Investigator at the War Risk Insurance Department in Singapore when he was interned during the Japanese Occupation, first at Changi Prison then at Sime Road Camp. During his internment, Haxworth produced more than 300 paintings and sketches depicting the terrible living conditions in the prisoner-of-war camps. This sketch titled “Bread Ration” takes a humorous look at the fluctuating portion sizes of prison rations as well as the internees’ attempts at baking, with their “scones” resembling “stones”. <i>W.R.M. Haxworth Collection, courtesy of National Archives of Singapore.</i></div>
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>LEMAK SWEET POTATOES AND KANGKONG</b>
 <br><br>
@@ -153,7 +153,7 @@ Salt to taste<br>
 	• Add the <i>kangkong</i> and boil.<br>
 • Adjust the seasoning to taste.
 <br><br>
-<img src="/images/Vol-15-issue-1/wartime-victuals/11_wartime.jpg"></span>
+<img style="width:400px"  src="/images/Vol-15-issue-1/wartime-victuals/11_wartime.jpg"></span>
 
 <div style="background-color: white;">
 <br>
