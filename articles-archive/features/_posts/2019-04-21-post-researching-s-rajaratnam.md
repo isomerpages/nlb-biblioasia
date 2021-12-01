@@ -91,7 +91,7 @@ Rajaratnam could not have described my thoughts on this subject more succinctly 
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Vol-15-issue-1/old-world-amusement-parks/jessie-yak.png">
+<img style="width: 100px; height: 100px;" src="/images/Vol-15-issue-1/researching-s-rajaratnam/irene.png">
 <b>Irene Ng</b> is a Writer-in-Residence at the ISEAS-Yusof Ishak Institute and a former Member of Parliament of Singapore (2001–2015). She was a senior political correspondent with <i>The Straits Times</i> before entering politics. She has written a biography of S. Rajaratnam and is working on a second volume.
 </div>
 
