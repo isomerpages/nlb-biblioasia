@@ -15,7 +15,7 @@ If you delve into the Oral History Centre (OHC)’s trove of some 4,900 intervie
 
 This disclaimer is necessary as oral history accounts could fuel lawsuits arising from family or business feuds or, if the interviewee’s memory is foggy, suggest what is actually wrong as right. Worse still, if interviewees deliberately lie in their accounts, leading those who assume the untruth as fact down the garden path.
 
-Alas, such a disclaimer can deter prospective users from the OHC’s collection. After all, they might wonder: “Why should one pore through a story that might be riddled with factual inaccuracies”?
+Alas, such a disclaimer can deter prospective users from the OHC’s collection. After all, they might wonder: “Why should one pore through a story that might be riddled with factual inaccuracies?”
 
 For this reason, some people who plumb history for a living have traditionally looked askance at oral history, believing its interviewees to have less veracity, ergo, their interviews to be of less value than written history simply because the interviewees are relying on memory and therefore prone to give vent to their feelings and emotions in recalling incidents in the past.
 
