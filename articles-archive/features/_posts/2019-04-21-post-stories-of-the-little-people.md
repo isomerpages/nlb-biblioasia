@@ -107,7 +107,7 @@ Then there is Vernon Cornelius, lead singer of The Quests, one of the most popul
 
 “I met Cliff Richard in Kuala Lumpur in 1995… I was embarrassed that my friend introduced me to Cliff Richard as ‘the Singapore Cliff Richard’. I felt like an idiot because we’re grown-ups now.”[^17]
 
-<div style="background-color: white;"><img style="width:500px" src="/images/Vol-15-issue-1/stories-of-little-people/06_littleppl.png">Vernon Cornelius (pictured on extreme right) lead singer of The Quests, was touted as Singapore’s Cliff Richard by the press. The Quests were formed in 1961 and went on to become one of the most successful bands of the era. May 1966. <i>Photo by Peter Robinsons Studios, courtesy of Vernon Cornelius.</i></div>
+<div style="background-color: white;"><img style="width:600px" src="/images/Vol-15-issue-1/stories-of-little-people/06_littleppl.png">Vernon Cornelius (pictured on extreme right) lead singer of The Quests, was touted as Singapore’s Cliff Richard by the press. The Quests were formed in 1961 and went on to become one of the most successful bands of the era. May 1966. <i>Photo by Peter Robinsons Studios, courtesy of Vernon Cornelius.</i></div>
 
 **2. Veer towards those who are able to recall happenings in specific detail**
 
