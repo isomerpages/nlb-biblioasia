@@ -89,7 +89,7 @@ Singapore’s Speaker of Parliament Tan Chuan-Jin said as much in his reflection
 
 He added that “little history, the local stories of people and communities” is as “vital” as “big history, the nation-building stuff”. If big and little histories are woven together, he added, that would give Singaporeans a better sense of who and where they are. “In an age of globalisation”, he noted, “our shared histories, memories and affections link us and give us relevance and access to so many places and people. And in those links too, we find common ground to move ahead, make progress.”[^13]
 
-<div style="background-color: white;"><img src="/images/Vol-15-issue-1/stories-of-little-people/05_littleppl.png">Injured victims being rushed to hospital after an explosion and fire on board the Greek oil tanker, <i>S.T. Spyros</i>, on 12 October 1978. Seventy-six people died and 69 others were injured in the accident. <i>Ministry of Health Collection, courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;"><img style="width:700px" src="/images/Vol-15-issue-1/stories-of-little-people/05_littleppl.png">Injured victims being rushed to hospital after an explosion and fire on board the Greek oil tanker, <i>S.T. Spyros</i>, on 12 October 1978. Seventy-six people died and 69 others were injured in the accident. <i>Ministry of Health Collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **Verifying**
 
@@ -107,7 +107,7 @@ Then there is Vernon Cornelius, lead singer of The Quests, one of the most popul
 
 “I met Cliff Richard in Kuala Lumpur in 1995… I was embarrassed that my friend introduced me to Cliff Richard as ‘the Singapore Cliff Richard’. I felt like an idiot because we’re grown-ups now.”[^17]
 
-<div style="background-color: white;"><img src="/images/Vol-15-issue-1/stories-of-little-people/06_littleppl.png">Vernon Cornelius (pictured on extreme right) lead singer of The Quests, was touted as Singapore’s Cliff Richard by the press. The Quests were formed in 1961 and went on to become one of the most successful bands of the era. May 1966. <i>Photo by Peter Robinsons Studios, courtesy of Vernon Cornelius.</i></div>
+<div style="background-color: white;"><img style="width:500px" src="/images/Vol-15-issue-1/stories-of-little-people/06_littleppl.png">Vernon Cornelius (pictured on extreme right) lead singer of The Quests, was touted as Singapore’s Cliff Richard by the press. The Quests were formed in 1961 and went on to become one of the most successful bands of the era. May 1966. <i>Photo by Peter Robinsons Studios, courtesy of Vernon Cornelius.</i></div>
 
 **2. Veer towards those who are able to recall happenings in specific detail**
 
@@ -117,7 +117,7 @@ In one uproarious instance – viewed 2,094,573 times on YouTube as at 14 Februa
 
 In contrast to this hilarious story, we have the disquieting OHC interview of a certain Social Welfare Department officer, whom I shall also not name here, on the likely cause of the ruinous fire at Bukit Ho Swee on 25 May 1961. The officer said: “I think it was some cooking utensil which, somehow or other, fell. And the whole place was a burning inferno in minutes because the place was all *attap* and wood.” His account on this point, which was already woefully short on details, trails off with no further mention of the alleged utensil. I should add that the actual cause of the fire was never determined.
 
-<div style="background-color: white;"><img src="/images/Vol-15-issue-1/stories-of-little-people/07_littleppl.png">Residents with their belongings gathering outside the fire area in Bukit Ho Swee on 25 May 1961. The fire, which razed a 0.4-sq km area consisting of a school, shops, factories and <i>attap</i> houses, was one of Singapore’s biggest fires. The fire left 16,000 <i>kampong</i> dwellers homeless and claimed the lives of four people. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;"><img style="width:500px" src="/images/Vol-15-issue-1/stories-of-little-people/07_littleppl.png">Residents with their belongings gathering outside the fire area in Bukit Ho Swee on 25 May 1961. The fire, which razed a 0.4-sq km area consisting of a school, shops, factories and <i>attap</i> houses, was one of Singapore’s biggest fires. The fire left 16,000 <i>kampong</i> dwellers homeless and claimed the lives of four people. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 For my upcoming book on OHC’s 40 years, I combed through more than 300 complete oral history interviews in its redoubtable collection. I found most of these bracingly unvarnished, satisfyingly detailed and often heartfelt. One of the best examples of these attributes is the interview with Liak Teng Lit, who was the chief executive of Alexandra Hospital during the Severe Acute Respiratory Syndrome (SARS) crisis in 2003.
 
