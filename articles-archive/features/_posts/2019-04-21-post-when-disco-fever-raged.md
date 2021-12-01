@@ -7,7 +7,7 @@ layout: post
 ---
 #### Pulsating music, strobe lights and postage-stamp dance floors packed with shimmying bodies. **Tan Chui Hua** gives you the lowdown on the history of the disco scene in Singapore.
 
-<div style="background-color: white;"><br><img src="/images/Vol-15-issue-1/when-disco-fever-raged/01_disco.png">The 1977 hit film <i>Saturday Night Fever</i> epitomised the global discotheque scene in the 1970s and early 80s. Starring John Travolta in his breakout role and Karen Lynn Gorney, and featuring music by the Bee Gees, the film played in Singapore cinemas for weeks to sell-out crowds. Needless to say, discos here saw an immediate spike in patrons, with many replicating the slick moves of Tony Manero (the character played by Travolta) on the dance floor.</div>
+<div style="background-color: white;"><br><img style="width:500px" src="/images/Vol-15-issue-1/when-disco-fever-raged/01_disco.png">The 1977 hit film <i>Saturday Night Fever</i> epitomised the global discotheque scene in the 1970s and early 80s. Starring John Travolta in his breakout role and Karen Lynn Gorney, and featuring music by the Bee Gees, the film played in Singapore cinemas for weeks to sell-out crowds. Needless to say, discos here saw an immediate spike in patrons, with many replicating the slick moves of Tony Manero (the character played by Travolta) on the dance floor.</div>
 
 <center>“you watch this gyrating throng<br>
 caught slow-motion<br>
@@ -116,7 +116,7 @@ For nightspots that remained opened, a long list of strict conditions was impose
 
 Mervyn Nonis, a musician with popular local band The X-periment, recalled those grim days. He said: “… all the clubs were just… All closed, you know, so there was no entertainment, you know. At all… You could just imagine the scene. All the bands were jobless….”[^32] And then, in a final death knell to the disco scene in Singapore, dancing was banned in most discotheques by end 1973.[^33]
 
-<div style="background-color: white;"><img style="width:600px" src="/images/Vol-15-issue-1/when-disco-fever-raged/08_disco.png">The X-periment, which was formed in 1967, performing at the Baron Night Club on Upper Serangoon Road where it held a lengthy residency. <i>Courtesy of Joseph C. Pereira.</i></div>
+<div style="background-color: white;"><img style="width:700px" src="/images/Vol-15-issue-1/when-disco-fever-raged/08_disco.png">The X-periment, which was formed in 1967, performing at the Baron Night Club on Upper Serangoon Road where it held a lengthy residency. <i>Courtesy of Joseph C. Pereira.</i></div>
 
 These curbs hit the discotheques hard. The fierce competition among nightspots in the early 1970s had already taken a toll. Some, such as The Eye, tried to adapt by hiring extra guards to turn away undesirable patrons and raising cover charges and the prices of drinks. Some, such as Spot Spot, had already closed down in 1972 due to market stresses and increasing government surveillance. The others converted into cocktail lounges and bars that were less stringently monitored by the authorities.[^34]
 
