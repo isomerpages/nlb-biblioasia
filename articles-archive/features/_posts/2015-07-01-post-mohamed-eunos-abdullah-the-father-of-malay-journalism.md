@@ -25,13 +25,13 @@ Not much is known about Eunos Abdullah’s early life. The popular narrative sug
 
 Eunos Abdullah completed his education between 1893 and 1894 and joined the office of the Master Attendant of Singapore Harbour. He was later appointed as harbour master at Muar by the Johor government. He held this appointment for five years before returning to Singapore.[^3]
 
-In 1907, Eunos Abdullah was invited to be the editor of the <i>Utusan Melayu</i> (“Malay Herald”), the Malay edition of the <i>Singapore Free Press</i> (the predecessor of <i>The Straits Times</i>) by its British owner, Walter Makepeace. The <i>Utusan Melayu</i> was the only Malay newspaper in circulation at the time and it soon became Eunos Abdullah’s main vehicle to champion the Malay cause and to highlight pertinent issues important to the community. In 1914, he left <i>Utusan Melayu</i> to assume editorship of the <i>Lembaga Melayu</i> (“Malay Institution”), the Malay edition of the newly launched English newspaper <i>Malaya Tribune</i>. Like the <i>Utusan Melayu, Lembaga Melayu</i> became the voice of moderate, progressive Malay opinion.[^4]
+In 1907, Eunos Abdullah was invited to be the editor of the <i>Utusan Melayu</i> (Malay Herald), the Malay edition of the <i>Singapore Free Press</i> (the predecessor of <i>The Straits Times</i>) by its British owner, Walter Makepeace. <i>Utusan Melayu</i> was the only Malay newspaper in circulation at the time and it soon became Eunos Abdullah’s main vehicle to champion the Malay cause and to highlight pertinent issues important to the community. In 1914, he left <i>Utusan Melayu</i> to assume editorship of <i>Lembaga Melayu</i> (Malay Institution), the Malay edition of the newly launched English newspaper <i>Malaya Tribune</i>. Like <i>Utusan Melayu, Lembaga Melayu</i> became the voice of moderate, progressive Malay opinion.[^4]
 
 #### **“Father of Malay Journalism”**
 
-Eunos Abdullah began his career in newspapers at a time when the prestigious <i>Jawi Peranakkan</i>, the first Malay newspaper in Singapore, ceased publication in 1896. Its successor, the <i>Chahaya Pulau Pinang</i>, had also lapsed after a successful run from 1900 to 1906. The <i>Utusan Melayu</i> became the first major national Malay newspaper to be circulated throughout the Straits Settlements and the Malay States. It was first published on 7 November 1907 with the objective of providing the Malay community with an intelligent and impartial view of the world’s news, as well as news and current affairs of Malaya.[^5] The paper’s strong didactic tone reflected Eunos Abdullah’s desire to reform the Malays and his concern for them to catch up with the other races. The newspaper was also used as a teaching tool in Malay vernacular schools.
+Eunos Abdullah began his career in newspapers at a time when the prestigious <i>Jawi Peranakkan</i>, the first Malay newspaper in Singapore, ceased publication in 1896. Its successor, <i>Chahaya Pulau Pinang</i>, had also lapsed after a successful run from 1900 to 1906. <i>Utusan Melayu</i> became the first major national Malay newspaper to be circulated throughout the Straits Settlements and the Malay States. It was first published on 7 November 1907 with the objective of providing the Malay community with an intelligent and impartial view of the world’s news, as well as news and current affairs of Malaya.[^5] The paper’s strong didactic tone reflected Eunos Abdullah’s desire to reform the Malays and his concern for them to catch up with the other races. The newspaper was also used as a teaching tool in Malay vernacular schools.
 
-When Eunos Abdullah was appointed editor of the <i>Lembaga Melayu</i> in 1914, he did not sway from his goal of improving the socio-economic position of the Malay community. The <i>Lembaga Melayu’s</i> policy and tone mirrored that of the <i>Utusan Melayu’s</i>; it toed the official line, but could be openly critical when Malay interests were not addressed by the colonial government. 
+When Eunos Abdullah was appointed editor of <i>Lembaga Melayu</i> in 1914, he did not sway from his goal of improving the socio-economic position of the Malay community. <i>Lembaga Melayu’s</i> policy and tone mirrored that of <i>Utusan Melayu’s</i>; it toed the official line, but could be openly critical when Malay interests were not addressed by the colonial government. 
 
 Through his editorials in both newspapers, Eunos Abdullah espoused nationalist ideals; he frequently discussed the idea of Malay <i>bangsa</i> (race), defined “Malayness” and Malay identity, invoked the concept of <i>bumiputra</i> (original “sons of the soil”) and hinted at the need for self-government.[^6] These ideals later became part of the Malay political vocabulary and influenced Malaya’s political development as it fought for independence after World War II.
 
@@ -73,32 +73,33 @@ The Malay leaders closely associated with the Malay settlement project rejected 
 
 Eunos Abdullah and his peers believed that an authentic Malay life was best experienced in an exclusively Malay community. Kampong Melayu was imagined as a privileged site of a yet to be fulfilled “Malay nation” <i>(bangsa Melayu)</i>, the material expression of KMS' vision of the Malay <i>bangsa</i> and creation of a Malay identity. Only applicants who could demonstrate their “Malayness” were given temporary occupation licences for house plots in the settlement. Among other criteria, applicants had to be male, of Malay parentage, habitually spoke the Malay language, professed the Muslim religion and conformed to Malay customs. Provision of its own mosques, schools, a youth club and a village cooperative ensured that Kampong Melayu was self-sufficient.[^20] This ideal as envisioned by Eunos Abdullah remained until the Malay settlement was de-gazetted in 1981 to make way for the construction of the Pan Island Expressway. 
 
-Following his retirement in 1931 Eunos Abdullah suffered from poor health and passed away at the age of 57 on 12 December 1933 at his home on Desker Road. His body was laid to rest at the Bidadari Cemetery.[^21]
+Following his retirement in 1931 Eunos Abdullah suffered from poor health and passed away at the age of 57 on 12 December 1933 at his home on Desker Road. His body was laid to rest at Bidadari Cemetery.[^21]
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-11-issue-2/malayjournalism/Bungalow_type.jpg">
-Bungalow-type dwellings made of wood and zinc in Kampong Melayu. <i>All rights reserved, Singapore Ministry of Culture</i>. (1963). Democratic socialism in action, June 1959 to April 1963 (p. 21). <i>Singapore: Ministry of Culture</i>.
+<img style="width:70%" src="/images/vol-11-issue-2/malayjournalism/Bungalow_type.jpg">
+Bungalow-type dwellings made of wood and zinc in Kampong Melayu. <i>All rights reserved, Singapore Ministry of Culture. (1963). Democratic socialism in action, June 1959 to April 1963 (p. 21). Singapore: Ministry of Culture</i>.
 </div>
 
 <div style="background-color: white; padding-bottom:20px;">
 <br/>
 <img src="/images/vol-11-issue-2/malayjournalism/street_direction.jpg">
-1956 street directory indicating the location of Jalan Eunos and the Malay Settlement. <i>All rights reserved, Singapore Survey Department</i>. (1950–75). Singapore street directory and sectional maps <i>(Map no. 60). Singapore: Survey Department</i>.
+1956 street directory indicating the location of Jalan Eunos and the Malay Settlement. <i>All rights reserved, Singapore Survey Department. (1950–75). Singapore street directory and sectional maps (Map no. 60). Singapore: Survey Department</i>.
 </div>
 
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> 
 <b>RISE AND FALL OF UTUSAN MELAYU</b>
 <br><br>
-The Utusan Melayu which Eunos Abdullah edited was initially published three times a week on Tuesday, Thursday and Saturday, but was converted into a daily in 1915 to meet the demand for news of World War I. In 1921, the newspaper was sued by Raja Shariman and Che Tak, assistant commissioners of police of the Federated Malay States, for damages over an alleged libel. At the time of the libel, the newspaper’s circulation had dipped below 280 copies.8 The heavy damages awarded against Utusan Melayu turned out to be financially crippling and it ceased operations as a result. 
+<i>Utusan Melayu</i>, which Eunos Abdullah edited, was initially published three times a week on Tuesday, Thursday and Saturday. It was converted into a daily in 1915 to meet the demand for news of World War I. In 1921, the newspaper was sued by Raja Shariman and Che Tak, assistant commissioners of police of the Federated Malay States, for damages over an alleged libel. At the time of the libel, the newspaper’s circulation had dipped below 280 copies.[^8] The heavy damages awarded against <i>Utusan Melayu</i> turned out to be financially crippling and it ceased operations as a result. 
 <br><br>
-Perhaps as a tribute to Eunos Abdullah, his successor, Ambo Sooloh, along with other Kesatuan Melayu Singapura (KMS) leaders and members such as Yusof Ishak (later the first president of Singapore) and Abdul Rahim Kajai, started another newspaper in 1939. They called it Utusan Melayu but unlike the first version of Utusan Melayu, this reincarnation was fully owned, financed and managed by Malays.[^9] In 1958, the newspaper relocated its operations to Kuala Lumpur. </span>
+Perhaps as a tribute to Eunos Abdullah, his successor, Ambo Sooloh, along with other Kesatuan Melayu Singapura leaders and members such as Yusof Ishak (later the first president of Singapore) and Abdul Rahim Kajai, started another newspaper in 1939. They called it <i>Utusan Melayu</i> but unlike the first version of <i>Utusan Melayu</i>, this reincarnation was fully owned, financed and managed by Malays.[^9] In 1958, the newspaper relocated its operations to Kuala Lumpur. </span>
 
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> 
 <b>KMS AND THE UMNO CONNECTION</b>
 <br><br>
-After World War II, the Kesatuan Melayu Singapura (KMS), together with more than 40 other Malay unions from different Malay states, presented a united front to protest against the Malayan Union proposal by the British to reduce the status and role of Malay kings and leaders, and to separate Singapore from Malaya. The Malayan Union was eventually replaced by the Federation of Malaya in 1948.15 Under the leadership of Dato’ Onn Ja’afar, the United Malays National Organisation (UMNO) had emerged as the leading political party in Malaya. In 1953, the KMS merged with UMNO to form the Singapore branch of UMNO. Following Singa- pore’s independence in 1965, the Singapore branch was officially renamed Pertubuhan Kebang- saan Melayu Singapura (PKMS) in 1967 to comply with government regulations that prohibited local parties from affiliating with foreign organisations.</span>
+After World War II, the Kesatuan Melayu Singapura (KMS), together with more than 40 other Malay unions from different Malay states, presented a united front to protest against the Malayan Union proposal by the British to reduce the status and role of Malay kings and leaders, and to separate Singapore from Malaya. The Malayan Union was eventually replaced by the Federation of Malaya in 1948.[^15] Under the leadership of Dato’ Onn Ja’afar, the United Malays National Organisation (UMNO) had emerged as the leading political party in Malaya. In 1953, KMS merged with UMNO to form the Singapore branch of UMNO. Following Singapore’s independence in 1965, the Singapore branch was officially renamed Pertubuhan Kebangsaan Melayu Singapura (PKMS) in 1967 to comply with government regulations that prohibited local parties from affiliating with foreign organisations.</span>
 
+<img style="width:100px;height:100px;margin-bottom:-30px; border-radius:50%; box-shadow: 1px 2px 5px #424242;" src="/images/vol-11-issue-2/malayjournalism/Mazelan_Anuar.jpg">
 <p style="font-size:15px;"><b>Mazelan Anuar</b> is a Senior Librarian with the National Library of Singapore. He has been involved in exhibition projects such as “Aksara: The Passage of Malay Scripts” and “Rihlah: Arabs in Southeast Asia”, and is part of the library’s NewspaperSG team, an online archive of Singapore newspapers dating back to 1831.</p>
 	
 <a href="https://biblioasia.nlb.gov.sg/vol-11/issue-2/jul-sep-2015/"><center>Back to Issue</center></a>
@@ -146,6 +147,7 @@ Turnbull, C.M. (1989).*[ A history of Singapore, 1819–1988](https://eservice.n
 [Utosan Malayu](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/easterndaily19071109-1.2.22). (1907, November 9). Eastern Daily Mail and Straits Morning Advertiser, p. 7. Retrieved from NewspaperSG.
 
 #### **NOTES**
+
 [^1]: Savage, V.R., & Yeoh, B.S.A. (2013). *[Singapore street names: A study of toponymics ](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123850)*(p. 120). Singapore: Marshall Cavendish Editions. (Call no.: RSING 915.9570014 SAV)
 
 [^2]: Adlina Maulod. (2010). *[Mohamed Eunos bin Abdullah](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1201_2010-05-03.html)*. Retrieved from Singapore Infopedia, National Library Singapore.
@@ -156,8 +158,7 @@ Turnbull, C.M. (1989).*[ A history of Singapore, 1819–1988](https://eservice.n
 
 [^5]: [Utosan Malayu](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/easterndaily19071109-1.2.22). (1907, November 9). *Eastern Daily Mail and Straits Morning Advertiser*, p. 7. Retrieved from NewspaperSG.
 
-[^6]: Milner, A.C. (2002). *[The invention of politics in colonial Malaya](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10408470)* (pp. 98–107). New York: Cambridge University Press. (Call no.: RSEA 959.5 MIL); Frost, M.R., & Balasingamchow, Y. (2009). *[Singapore: A biography](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13229116)* (pp. 195–198). Singapore: Editions Didier Millet: National
-Museum of Singapore. (Call no.: RSING 959.57 FRO)
+[^6]: Milner, A.C. (2002). *[The invention of politics in colonial Malaya](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10408470)* (pp. 98–107). New York: Cambridge University Press. (Call no.: RSEA 959.5 MIL); Frost, M.R., & Balasingamchow, Y. (2009). *[Singapore: A biography](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13229116)* (pp. 195–198). Singapore: Editions Didier Millet: National Museum of Singapore. (Call no.: RSING 959.57 FRO)
 
 [^7]: [Roff](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7122266), 1994, p. 159.
 

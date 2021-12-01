@@ -1,10 +1,10 @@
 ---
-title: "The Art of Movement: Dance On The Singapore Stage"
+title: "The Art of Movement: Dance On the Singapore Stage"
 date: 2015-07-01
 permalink: /vol-11/issue-2/jul-sep-2015/art-of-movement
-image: /images/vol-11-issue-2/artofmovement/glow_stop.jpg
 layout: post
 ---
+
 #### **Tara Tan** profiles five trailblazers of the Singapore dance scene who have pushed the envelope and created a unique Singaporean dance identity.
 
 <div style="background-color: white;">
@@ -49,7 +49,7 @@ T.H.E Dance Company's <i>Bedfellows</i> (2013) was part of T.H.E's 5th anniversa
 
 <i>Goh Lay Kuan, The Theatre Practice Ltd</i>
 
-Spirited dance doyenne Goh Lay Kuan  pushed boundaries not just in dance, but the politics governing 1970s Singapore.  Dubbed “The Red Ballerina” by the press, Goh and her late husband, theatre playwright and director Kuo Pao Kun, were  arrested under the Internal Security Act in 1976 and detained without trial on suspicion that they had communist affiliations due to the politically-charged nature of their work. Some of their pieces, like <i>Gai Si De Cang Ying (Damn the Fly)</i>, raised sensitive issues about socio-political issues in Singapore.
+Spirited dance doyenne Goh Lay Kuan  pushed boundaries not just in dance, but the politics governing 1970s Singapore.  Dubbed “The Red Ballerina” by the press, Goh and her late husband, theatre playwright and director Kuo Pao Kun, were  arrested under the Internal Security Act in 1976 and detained without trial on suspicion that they had communist affiliations due to the politically-charged nature of their work. Some of their pieces, like <i>Gai Si De Cang Ying</i> (<i>Damn the Fly</i>), raised sensitive issues about socio-political issues in Singapore.
 
 <div style="background-color: white;">
 <br/>
@@ -59,7 +59,7 @@ Dancer Goh Lay Kuan, dubbed “The Red Ballerina”, left her mark on both art a
 
 Born in Sumatra, Indonesia, in 1939, Goh left for Singapore as a child and  discovered a love for dance. Inspired by  fellow classmates Goh Soo Khim and  Goh Choo San, siblings who came from  a family of dancers, she enrolled as a  classical ballerina at the Victoria Ballet  Guild in Melbourne, Australia. In 1964,  Goh returned to Singapore to set up the  Singapore Performing Arts School in 1965 with her newly-wed husband, Kuo Pao Kun. The school was renamed Practice Theatre School in 1973 and has undergone several name changes over the years, most recently in 2010 to The Theatre Practice Ltd.
 
-We did everything ourselves, including the stage set and costumes. I didn’t get a salary for 13 years, only money for transport. We took 17 years to pay our debts,” Goh  revealed in an interview with <i>The Straits  Times</i> in 2014.[^3] With the school set up, Goh hoped to groom a new stable of dancers and artistes. In 1965, she choreographed her first piece, <i>Flower, Youth, Sea</i>, a contemporary ballet piece with strong Malay influences. 
+"We did everything ourselves, including the stage set and costumes. I didn’t get a salary for 13 years, only money for transport. We took 17 years to pay our debts,” Goh  revealed in an interview with <i>The Straits  Times</i> in 2014.[^3] With the school set up, Goh hoped to groom a new stable of dancers and artistes. In 1965, she choreographed her first piece, <i>Flower, Youth, Sea</i>, a contemporary ballet piece with strong Malay influences. 
 
 Singapore’s political tensions, however, threw a spanner in the works. Under suspicion of communist leanings, the  couple were interrogated and detained  under the Internal Security Act. While  Goh was released a few months later, Kuo was detained for four-and-a-half years.  “We had raised issues about children and their poverty, sometimes in songs, short plays, or on stage... We did not make any direct criticism but they thought we had  a communist ideology,” said Goh in the  same interview.[^4]
 
@@ -77,7 +77,7 @@ A young Goh Lay Kuan at the first ballet class she taught at the Practice Theatr
 
 <i>Santha Bhaskar, Bhaskar’s Arts Academy</i>
 
-Arriving in Singapore in 1959 from Kerala,  India, the then 15 year-old-dancer had no  idea what to expect from her arranged marriage to K. P. Bhaskar, a man she had never  met. All she knew was that he ran a small  dance school in Singapore, Bhaskar’s Arts  Academy.  “As  soon  as  my  plane  touched   down the runway, I saw the smiling faces of  Mr Bhaskar, students and friends. I didn’t  feel homesick. Not even for a second,” said  Santha Bhaskar.[^6] As a wide-eyed ingénue  to bustling Singapore, she started learning  more about Malay and Chinese cultures. She  recalled, “When I first came, I didn’t know  how Chinese faces looked like, or Malay faces  looked like. I’d never seen people eat with  chopsticks  before!”  The  learning  evolved from food – arguably the heart and soul of  Singapore – to her passion for dance. 
+Arriving in Singapore in 1959 from Kerala,  India, the then 15 year-old-dancer had no idea what to expect from her arranged marriage to K. P. Bhaskar, a man she had never met. All she knew was that he ran a small dance school in Singapore, Bhaskar’s Arts Academy. “As  soon as my plane touched down on the runway, I saw the smiling faces of  Mr Bhaskar, students and friends. I didn’t  feel homesick. Not even for a second,” said  Santha Bhaskar.[^6] As a wide-eyed ingénue to bustling Singapore, she started learning more about Malay and Chinese cultures. She recalled, “When I first came, I didn’t know how Chinese faces looked like, or Malay faces looked like. I’d never seen people eat with chopsticks before!” The learning evolved from food – arguably the heart and soul of Singapore – to her passion for dance. 
 
 <div style="background-color: white;">
 <br/>
@@ -97,7 +97,7 @@ Even with the new influences, there  still remains a strong sense of tradition, 
 
 <div style="background-color: white;">
 <br/>
-<img src="images/vol-11-issue-2/artofmovement/santhan_w_husband.jpg">
+<img style="width:70%" src="images/vol-11-issue-2/artofmovement/santhan_w_husband.jpg">
 Santha Bhaskar with her late husband  K. P. Bhaskar. <i>Courtesy of Santha Bhaskar. </i>
 </div>
 
@@ -113,7 +113,7 @@ Dancer and entrepreneur Som Mohamed Said is one of the most recognisable names i
 Som Mohamed Said is a pivotal force in the Malay dance scene. <i>Courtesy of Tribute.sg, an initiative of Esplanade – Theatres on the Bay.</i>
 </div>
 
-A pivotal force in the Malay dance  scene, Som Said has spoken out about  the need for Singapore to develop its own approach to Malay dance and an identity it can call its own, instead of blindly following classical Indonesian traditions. With her performing arts troupe, she began to create and choreograph works that weave traditional Malay dance routines with contemporary  moves and multicultural elements. Some of her most frequent collaborators are Indian dancer Neila Sathyalingam and Chinese  dancer Yan Choong Lian, who co-created  pieces like <i>The Dance Harmony<i> and </i>Singapore City Lights.</i>
+A pivotal force in the Malay dance  scene, Som Said has spoken out about  the need for Singapore to develop its own approach to Malay dance and an identity it can call its own, instead of blindly following classical Indonesian traditions. With her performing arts troupe, she began to create and choreograph works that wove traditional Malay dance routines with contemporary  moves and multicultural elements. Some of her most frequent collaborators are Indian dancer Neila Sathyalingam and Chinese  dancer Yan Choong Lian, who co-created  pieces like <i>The Dance Harmony</i> and <i>Singapore City Lights.</i>
 
 "I am a traditional person but my tradition is not static – you can create and still hold on to tradition," said Som Said in an interview with <i>The Straits Times</i>.[^9]
 
@@ -179,7 +179,7 @@ As a relatively young country, with  a relatively young arts scene, the artistic
 
 For what is art but a lens through  which to examine society, and in turn, ourselves? Artists speak of the cultural  inflections that influence their works,  that weave paths through classical arts,  gestures and rituals, that stir the desire  for a truer, more unique expression of  identity that Singapore can truly call its  own. Singapore’s history, from its time as a British trading port under colonial rule to a first-world metropolis, presents us in an unusual, liminal space. Perhaps there lies the meaning of evolving tradition to reflect relevance in modern times. To understand who we are, we should perhaps turn to  the most primitive of communication – the body – to decipher and find meaning in the gestures, signs and signifiers created by the  Singaporean dancer. 
 
-<p style="font-size:15px;"><b>Tara Tan</b> is a writer and designer who works in the intersection between art, design and  technology. She was a former arts reporter with The Straits Times, where she wrote on dance  and culture in Singapore.</p>
+<p style="font-size:15px;"><b>Tara Tan</b> is a writer and designer who works in the intersection between art, design and  technology. She was a former arts reporter with <i>The Straits Times</i>, where she wrote on dance  and culture in Singapore.</p>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-11/issue-2/jul-sep-2015/"><center>Back to Issue</center></a>
 

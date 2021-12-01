@@ -29,11 +29,11 @@ In addition, the National Library Building on Victoria Street will also dress th
 
 The poems were curated by NLB’s librarians and given the nod of approval by a selection committee chaired by Professor Edwin Thumboo, director of The Centre for the Arts, National University of Singapore. Included in the selection of poems are humorous, moving, poignant and thought-provoking ones on life, people and places in Singapore. 
 
-Poems such as “இருமொழிக் கல்விி” (“Bilingual Education”) by Mu Thangarasan and “Stop at Two” by Megadona shed light on the policies that Singapore adopted during its nation-building years, while “ஜூரோங்” (“Jurong”) by Patheral Ilamaran and “துறைமுக நாடுு” (“Harbour”) by I. Ulaganathan celebrate Singapore’s economic achievements.
+Poems such as “இருமொழிக் கல்விி” (Bilingual Education) by Mu Thangarasan and “Stop at Two” by Megadona shed light on the policies that Singapore adopted during its nation-building years, while “ஜூரோங்” (Jurong) by Patheral Ilamaran and “துறைமுக நாடுு” (Harbour) by I. Ulaganathan celebrate Singapore’s economic achievements.
 
 High economic growth and rapid urbanisation in Singapore over the years have resulted in myriad challenges for the city state, including the loss of its natural environment and cultural heritage. Many places and landmarks that older Singaporeans are familiar with are no longer around. Instead, taking over their places are gleaming glass-and-steel skyscrapers that tower over the city.
 
-Singapore’s changing social and physical landscapes, along with the feelings of loss and despair over these changes, are depicted in poems such as《街变》(“Street”) by Zhou Can (周粲), 《看不见的节》(“Tekka”) by Dong Nong Zheng (董农政), “ராபின்சன் சாலைக்  குழந்தைகள்” (“The Children of Robinson Road”) by K. T. M. Iqbal and “Change Alley” by Boey Kim Cheng:
+Singapore’s changing social and physical landscapes, along with the feelings of loss and despair over these changes, are depicted in poems such as《街变》(Street) by Zhou Can (周粲), 《看不见的节》(Tekka) by Dong Nong Zheng (董农政), “ராபின்சன் சாலைக்  குழந்தைகள்” (The Children of Robinson Road) by K. T. M. Iqbal and “Change Alley” by Boey Kim Cheng:
 
 Alley of change utterly changed.<br>The name of the place names<br>The lost decades, the places and times <br>Gone with our belongings, migrated <br>To the country of changelessness
 
@@ -45,7 +45,7 @@ All is utterly changed, the map useless <br>For navigation in the lost city. ...
 
 <i>An excerpt from “Change Alley” <br>by Boey Kim Cheng</i>
 
-Naturally, Singaporeans’ passion for food and eating also figure prominently in the selection of poems, such as Tse Hao Guang’s “A Big Pile of Bak Chor Mee” (modelled after W. B. Yeats’ “The Lake Isle of Innisfree”) in which he waxes lyrical about Singapore dishes such as chilli crab, <i>chwee kueh, naan, otak and laksa</i>; Snack by Paul Tan; and《榴槤》(“Civet Durian”) by Fang Ran (方然), which describes the great lengths that people go to just for a taste of durian – even to the extent of pawning their used sarongs:
+Naturally, Singaporeans’ passion for food and eating also figure prominently in the selection of poems, such as Tse Hao Guang’s “A Big Pile of Bak Chor Mee” (modelled after W. B. Yeats’ “The Lake Isle of Innisfree”) in which he waxes lyrical about Singapore dishes such as chilli crab, <i>chwee kueh, naan, otak and laksa</i>; “Snack” by Paul Tan; and《榴槤》(Civet Durian) by Fang Ran (方然), which describes the great lengths that people go to just for a taste of durian – even to the extent of pawning their used sarongs:
 
 就算把沙笼典当<br>也要亲亲<br>那黄鲜白嫩的<br>芳泽<br>也想瞻瞻<br>你王者风采的<br>昂扬
 
@@ -55,7 +55,7 @@ Even if I need to sell out all my belongings <br>I still would like to kiss on <
 
 <i>Translation courtesy of The Milky Way Publishing (银河出版社)</i>
 
-Even poems that are not specifically about food weave in some mention of our local cuisine: “Mencari Seorang Pemimpin”? (“Looking for a Leader?”) describes the <i>prata</i> sold along the streets of Joo Chiat,《街变》(“Change”) bemoans the loss of street stalls that used to hawk <i>wanton mee</i> and sweet potato soup, while "சங்கமம்” (“Confluence”) makes a passing reference to fish head curry and coconut chutney.
+Even poems that are not specifically about food weave in some mention of our local cuisine: “Mencari Seorang Pemimpin?” (Looking for a Leader?) describes the <i>prata</i> sold along the streets of Joo Chiat,《街变》(Change) bemoans the loss of street stalls that used to hawk <i>wanton mee</i> and sweet potato soup, while "சங்கமம்” (Confluence) makes a passing reference to fish head curry and coconut chutney.
 
 “Poetry on Platforms” will take place at City Hall MRT station from 16 July to 13 August 2015 to coincide with the National Day celebrations. All the poems featured in the exhibition will be compiled in a publication entitled <i>SingaPoetry: An Anthology of Poems on Singapore</i>. The book will be available at all libraries in August 2015. 
 

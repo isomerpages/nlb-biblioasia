@@ -7,7 +7,7 @@ layout: post
 ---
 #### The Ayam brand of canned sardines was the brainchild of Frenchman Alfred Clouët. **Timothy Pwee** reveals its history and that of the pineapple canning industry in Singapore.
 
-<img src="/images/vol-11-issue-2/frenchcan/title.jpg">
+<img src="/images/vol-11-issue-2/frenchcan/titles.jpg">
 	
 The French are linked to Singapore in many curious ways. Few people are aware that the French Revolution (1787–99) and the subsequent Napoleonic Wars (1803–15) were responsible for setting off the chain of events that not only led to Stamford Raffles founding an East India Company outpost in Singapore, but also the establishment of the canning industry on the island.
 
@@ -17,11 +17,11 @@ The history of the Ayam brand is intriguing because it was founded in Singapore 
 
 #### **The Allure of Pineapples**
 
-The plant species <i>Ananas comosus</i>, commonly known as the pineapple, is a fruit of the New World. It was discovered in Guadeloupe by Christopher Columbus on 4 November 1493[^1] and brought back to Europe. The fruit proved popular and was transplanted by the Portuguese and the Spanish in their explorations around the globe. Isaac Henry Burkill[^2] noted that the Portuguese learnt to call the pineapple “nana” from the Tupí natives of Brazil, and the word eventually evolved into “nanas” in the lands where the plant was introduced by the Portuguese. The Spanish, however, called it “piña” due to its resemblance to the pine cone, and the communities whom they introduced it to also used the Spanish name. The English name “pineapple” is in fact derived from the Spanish word “piña”. The Malays also call the pineapple “nanas”, while the Bugis refer to it as “pandang” because it resembles the fruit of the pandan plant (<i>Pandanus amaryllifolius</i> and related species).[^3]
+The plant species <i>Ananas comosus</i>, commonly known as the pineapple, is a fruit of the New World. It was discovered in Guadeloupe by Christopher Columbus on 4 November 1493[^1] and brought back to Europe. The fruit proved popular and was transplanted by the Portuguese and Spanish in their explorations around the globe. Isaac Henry Burkill[^2] noted that the Portuguese learnt to call the pineapple “nana” from the Tupí natives of Brazil, and the word eventually evolved into “nanas” in the lands where the plant was introduced by the Portuguese. The Spanish, however, called it “piña” due to its resemblance to the pine cone, and the communities whom they introduced it to also used the Spanish name. The English name “pineapple” is in fact derived from the Spanish word “piña”. The Malays also call the pineapple “nanas”, while the Bugis refer to it as “pandang” because it resembles the fruit of the pandan plant (<i>Pandanus amaryllifolius</i> and related species).[^3]
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-11-issue-2/frenchcan/Alfred.jpg">
+<img style="width:70%" src="/images/vol-11-issue-2/frenchcan/Alfred.jpg">
 Alfred Clouët, the Frenchman who introduced the Ayam brand of canned sardines to Singapore in 1892. <i>Courtesy of Denis Frères Company</i>.
 </div>
 
@@ -39,13 +39,13 @@ Drawing of two pineapples from the 1598 book, <i>John Hvighen van Linschoten, Hi
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-11-issue-2/frenchcan/Pineapples_ready.jpg">
+<img style="width:70%" src="/images/vol-11-issue-2/frenchcan/Pineapples_ready.jpg">
 Pineapples ready for the market in Singapore, early 1900s. <i>Courtesy of National Archives of Singapore</i>.
 </div>
 
 #### **The First Attempts at Canning**
 
-<i>The Singapore Directory for the Straits Settlements 1879</i> [^9] reports that a Frenchman named Laurent was the first in Singapore to produce preserved pineapples “some four years ago” (i.e. around 1875), but “his undertaking collapsed after a brief period.” Exactly why Laurent’s venture collapsed is unknown but financial difficulties are likely to have figured in his failure: an indignant letter published in 1877 by Victor Charles Valtriny, partner of C. Poisson & Co., complained against a court ruling favouring Laurent. The dispute was over money owed to Valtriny or a consignment of Laurent’s tinned pineapples that the former had shipped to Paris for sale.[^10] This Laurent is believed to be the same Jules Antoine Laurent who took over the Clarendon Hotel on Beach Road from the owner Charles Emmerson in 1874.[^11]
+<i>The Singapore Directory for the Straits Settlements 1879</i> [^9] reports that a Frenchman named Laurent was the first in Singapore to produce preserved pineapples “some four years ago” (i.e. around 1875), but “his undertaking collapsed after a brief period.” Exactly why Laurent’s venture collapsed is unknown but financial difficulties are likely to have figured in his failure: an indignant letter published in 1877 by Victor Charles Valtriny, partner of C. Poisson & Co., complained against a court ruling favouring Laurent. The dispute was over money owed to Valtriny for a consignment of Laurent’s tinned pineapples that the former had shipped to Paris for sale.[^10] This Laurent is believed to be the same Jules Antoine Laurent who took over the Clarendon Hotel on Beach Road from the owner Charles Emmerson in 1874.[^11]
 
 It was another Frenchman who had some measure of success in the canning business. Joseph Pierre Bastiani was a seaman with French shipping company Messageries Maritimes, who arrived in Singapore in 1874.[^12] His 1925 obituary described him as a veteran of “the disasterous [sic] war... between France and Germany”, referring to the Franco-Prussian War of 1870–71. Although Bastiani was not significant enough to be listed as a merchant in the 1879 Straits Settlements directory, there is, nonetheless, mention of Bastiani’s manufacture and export of canned pineapple “to the great marts of France and Italy”, calling it “an industry yet but in a partial state of development, but... one that may be looked forward as likely to provide a large amount of employment for the industrial and agricultural classes of the colony”.[^13]
 
@@ -57,21 +57,21 @@ Bastiani did not depend on just preserving fruit. In 1883, he started advertisin
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-11-issue-2/frenchcan/logo_res.jpg">
+<img style="width:70%" src="/images/vol-11-issue-2/frenchcan/logo_res.jpg">
 The logo of A. Clouët & Co Ltd bears the trademark cockerel, an unofficial symbol of France, 1892. <i>Courtesy of Denis Frères Company</i>.
 </div>
 
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-11-issue-2/frenchcan/Ayam_Triomphe_brand.jpg">
-The combined Ayam- Triomphe brand of sardines was first advertised in <i>The Straits Times</i> on 23 March 1917 (p. 6). © <i>The Straits Times</i>.
+The combined Ayam-Triomphe brand of sardines was first advertised in <i>The Straits Times</i> on 23 March 1917 (p. 6). © <i>The Straits Times</i>.
 </div>
 
 A 1915 US Department of Commerce report found that although pineapple production was concentrated in Singapore, it was planted as a catch crop[^22] by rubber plantations while waiting for rubber trees to mature. This meant that Singapore’s pineapple canneries did not have an assured supply of pineapple. Even so, Singapore was then still the leading exporter of canned pineapple in the world with 580,065 cases shipped in 1912. The bulk went to the United Kingdom (345,771 cases) and its colonies (105,141 cases). Included in the statistics is the output from Siam’s few pineapple factories; these were largely Singapore offshoots that sent their goods to Singapore for re-export.[^23]
 
 Why did Bastiani succeed where Laurent failed? It is of course only too easy to point to Laurent’s financial difficulties and his mounting debts. Like many other entrepreneurs, he was ambitious and experienced cash flow problems that swamped him. But there was one thing Bastiani did which Laurent failed to do: he exhibited his products at potential markets like Paris, Sydney and Melbourne, and even had an office in Sydney. This allowed him to make direct contact with the retailers in these foreign cities and take orders for his goods. Laurent on the other hand only sold his products to an agent in Singapore, who then exported them to Paris on consignment. This left Laurent dependent on a middleman who had no real stake in the success of his venture.
 
-With Singapore’s expansion as a trading centre, agriculture and other low-value manufacturing was pushed out to the surrounding countries. A 2005 report by the Food and Agriculture Organisation of the United Nations stated that Thailand, Philip- pines and Indonesia account for “nearly 80 percent of the canned pineapple supply in the world market”.[^24]
+With Singapore’s expansion as a trading centre, agriculture and other low-value manufacturing was pushed out to the surrounding countries. A 2005 report by the Food and Agriculture Organisation of the United Nations stated that Thailand, Philippines and Indonesia account for “nearly 80 percent of the canned pineapple supply in the world market”.[^24]
 
 #### **Alfred Clouët’s Ayam Brand**
 
@@ -102,6 +102,7 @@ It was another patent registered in London by the British inventor Peter Durand 
 <br><br>
 <img style="width:30%" src="/images/vol-11-issue-2/frenchcan/rudimentary_method1.jpg">Appert’s rudimentary method of preserving food using glass bottles sealed with cork and wire, collection Jean-Paul Barbier, Musée Châlons en Champagne salle Appert. <i>Courtesy of Wikimedia Commons</i>.</span>
 
+<img style="width:100px;height:100px;margin-bottom:-30px; border-radius:100%; box-shadow: 1px 2px 5px #424242;" src="/images/vol-11-issue-2/frenchcan/Timothy_Pwee.jpg">
 <p style="font-size:15px;"><b>Timothy Pwee</b> is a Senior Reference Librarian who handles the National Library’s Singapore collection. In a previous incarnation, he worked in a small business education outfit that gave him passing familiarity with the business world and the travails of small start-ups.</p>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-11/issue-2/jul-sep-2015/"><center>Back to Issue</center></a>

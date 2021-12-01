@@ -10,7 +10,7 @@ layout: post
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-1/womenpoets/Hedwig_Anuar.jpg">
+<img style="width:70%" src="/images/vol-10-issue-1/womenpoets/Hedwig_Anuar.jpg">
 Hedwig Aroozoo was not only one of Singapore’s earliest female poets, but also the director of the National Library of Singapore from 1960 to 1988. <i>Photography by Sean Lee.</i></div>
 
 From Hedwig Aroozoo’s parodies of 1950s Singapore politics to Angeline Yap’s poetic responses to nationhood, the verses of Singapore’s early women poets have engaged our imagination, emotions and intellect, enlarged our understanding of the human condition, and enriched the literary and cultural heritage of Singapore. It is hoped that this overview of poetry written by Singapore women in the 1950s–70s will stir the interest of readers to explore the wealth of local literature available in the National Library’s Singapore collection.
@@ -53,7 +53,7 @@ Yet I hear somebody weeping – <br>Crying louder and louder – howling <br>I f
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-1/womenpoets/Uder_the_Apple_Tree_res.jpg">
+<img style="width:70%" src="/images/vol-10-issue-1/womenpoets/Uder_the_Apple_Tree_res.jpg">
 In 1999, Hedwig Aroozoo’s published poems were collected and released in <i>Under the Apple Tree. All rights reserved, National Library Board Singapore, 2014.</i></div>
 
 #### **Lee Tzu Pheng (1946–)**
@@ -70,7 +70,7 @@ No discussion on Lee is complete without reference to <i>“My Country and My Pe
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-1/womenpoets/Dr_Lee_Tzu_Pheng.jpg">
+<img style="width:70%" src="/images/vol-10-issue-1/womenpoets/Dr_Lee_Tzu_Pheng.jpg">
 Cultural medallion recipient (1985), Lee Tzu Pheng, is one of Singapore’s most distinguished poets. <i>All rights reserved. Eric Foo Chee Meng 1979–2001. Courtesy of National Arts Council Singapore.</i></div>
 
 #### **Chung Yee Chong (1950–)**
@@ -97,7 +97,7 @@ Where the kelong cuts across the sea <br>Like a wooden-handled kris <br>There is
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-1/womenpoets/rivers_to_senang.jpg">
+<img style="width:70%" src="/images/vol-10-issue-1/womenpoets/rivers_to_senang.jpg">
 Margaret Leong’s works were infused with the sights and sounds of Malaya. She was an accomplished writer and educator. <i>All rights reserved, National Library Board Singapore, 2014</i>.</div>
 
 #### **Geraldine Heng (1954–)**
@@ -114,7 +114,7 @@ we were a crooked line of giggling children untidy-happy <br>delight burning on 
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-1/womenpoets/geraldine_heng.jpg">
+<img style="width:70%" src="/images/vol-10-issue-1/womenpoets/geraldine_heng.jpg">
 Geraldine Heng is an associate professor at the University of Texas, Austin. Her work has earned her six research fellowships to date. <i>Courtesy of Geraldine Heng.</i></div>
 
 #### **Nalla Tan (1923–2012) and Rosaly Puthucheary (1936–)**
@@ -131,12 +131,12 @@ Who’s being kept? <br>What, a second establishment! <br>With Woman’s Charter
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-1/womenpoets/dr_nalla_tan.jpg">
+<img style="width:70%" src="/images/vol-10-issue-1/womenpoets/dr_nalla_tan.jpg">
 Nalla Tan wore many hats – doctor, academic, writer. She advocated a diverse range of issues from health education to women’s rights. <i>Courtesy of Tan Ying Hsien.</i></div>
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-1/womenpoets/rosaly.jpg">
+<img style="width:70%" src="/images/vol-10-issue-1/womenpoets/rosaly.jpg">
 Rosaly Puthucheary has been writing poetry since 1952. She obtained her doctorate in English Literature at the National University of Singapore. <i>Courtesy of Rosaly Puthucheary.</i></div>
 
 Rosaly Puthucheary, sister of former left-wing politician James Puthchucheary and Malaysian poet Susie Puthucheary, was born in Johor Bahru. She came to Singapore in 1974 and is now a retired teacher. To date, she has published six volumes of poetry <i>Pillow Your Dreams</i> (1978); <i>The Fragmented Ego</i> (1978); <i>Dance on His Doorstep</i> (1992); <i>Mirrored Images</i> (2008); <i>Footfalls in the Rain</i> (2008); <i>My Burning Hill</i> (2012); and two novels <i>The Tessellated Path</i> (2009) and <i>In the Wake of Terror</i> (2012). Her poems from the 1970s are short introspective pieces that dwell on the subject of romantic love and self-discovery. Poems, such as <i>“A Door-Mat”</i>, hint at her feminist sentiments.
@@ -147,7 +147,7 @@ I will not be your door-mat <br>a piece of convenience <br>waiting at the door, 
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-1/womenpoets/sampling_of_Rosaly_Puthucheary.jpg">
+<img style="width:70%" src="/images/vol-10-issue-1/womenpoets/sampling_of_Rosaly_Puthucheary.jpg">
 These books are a sampling of Rosaly Puthucheary’s poetry. She has also written two novels to date. <i>All rights reserved, National Library Board Singapore, 2014.</i></div>
 
 #### **Angeline Yap (1959–)**
@@ -165,7 +165,7 @@ Yap’s poem, <i>“Colours”</i>, was also featured in the exhibition <i>“Ca
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-1/womenpoets/collected_poem.jpg">
+<img style="width:70%" src="/images/vol-10-issue-1/womenpoets/collected_poem.jpg">
 <i>Collected Poems</i> by Angeline Yap was published in 1986. <i>All rights reserved, National Library Board Singapore, 2014.</i></div>
 
 <p style="font-size:15px;"><b>Gracie Lee</b> is a Senior Librarian with the National Library. She was involved in the curation of the Singapore Literary Pioneers Gallery and in the compilation of <i>Singapore Literature in English: An Annotated Bibliography (2008)</i>.</p>

@@ -46,9 +46,9 @@ Gastaldi’s later Southeast Asian map, <i>Terza Tavola</i>, again refers to Sin
 <br><br>
 Although an improvement from previous Ptolemaic maps, Gastaldi still refers to Sumatra and Borneo by their Ptolemaic names of Taprobana and Java Menore.
 <br><br>
-<img style="width:70%"src="/images/vol-10-issue-4/raremap/Terza_tavola_re.jpg">*Terza Tavola*, Giacomo Gastaldi for Giovanni Battista Ramusio (Venice, circa 1563). Note: the map is oriented with the south at the top.</span>
+<img style="width:70%" src="/images/vol-10-issue-4/raremap/Terza_tavola_re.jpg">*Terza Tavola*, Giacomo Gastaldi for Giovanni Battista Ramusio (Venice, circa 1563). Note: the map is oriented with the south at the top.</span>
 
-<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> 
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;">
 <b>ABRAHAM ORTELIUS</b>
 <br><br>
 Abraham Ortelius (1527–98), a leading Flemish cartographer, was a map dealer and publisher. During the 1560s, he collected maps and details of their sources and commissioned new printing plates for them. His 1570 atlas, the <i>Theatrum Orbis Terrarum (Theatre of the World)</i>, was hailed as the first comprehensive, modern atlas of the world in which all the maps were of uniform size and format.[^5]
@@ -80,7 +80,7 @@ Interestingly, the map depicts a trans-peninsular waterway bisecting the Malay P
 <br><br>
 Lodewijcksz's map was suppressed by Dutch merchants who did not wish to reveal the sailing routes to the lucrative ports of Southeast Asia. But it was published later in the same year by de Bry in <i>Petits Voyages</i>.[^10]
 <br><br>
-<img style="width:70%"src="/images/vol-10-issue-4/raremap/Nova_tabula_res.jpg">*Nova tabula insularum Iavae, Sumatrae, Borneonis et aliarum Malaccam usque, delineata in insula Iava, ubi ad vivum designantur vada et brevia scopulique interjacentes descripta* l G.M.A.L., Theodore de Bry, after Willem Lodewijcksz (Frankfurt, 1598).</span>
+<img style="width:70%" src="/images/vol-10-issue-4/raremap/Nova_tabula_res.jpg">*Nova tabula insularum Iavae, Sumatrae, Borneonis et aliarum Malaccam usque, delineata in insula Iava, ubi ad vivum designantur vada et brevia scopulique interjacentes descripta* l G.M.A.L., Theodore de Bry, after Willem Lodewijcksz (Frankfurt, 1598).</span>
 
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> 
 <b>SEBASTIAN MÜNSTER</b>
@@ -95,7 +95,7 @@ This map was published in Münster's 1540 <i>Geographia Universalis</i>, which w
 <br><br>
 The shape of the Malay Peninsula is much improved, with only the city of Malaqua (Malacca) named.[^14] Until the 17th century, most maps named the southern part of the Peninsula as Malacca, an “exaggeration of the real extent of European influence and control”.[^15] Malacca was strategically located in the middle of important sea routes and the Portuguese took control of it in 1511. By the end of 1500s, Malacca had become one of the key trading ports of the world.[^16] Notably, there was no incentive to map the remaining interior of the Malay Peninsula.
 <br><br>
-<img style="width:70%"src="/images/vol-10-issue-4/raremap/Inida_extrema_re.jpg">*India Extrema XIX nova tabula* by Sebastian Münster (Basle, 1540).</span>
+<img style="width:70%" src="/images/vol-10-issue-4/raremap/Inida_extrema_re.jpg">*India Extrema XIX nova tabula* by Sebastian Münster (Basle, 1540).</span>
 
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> 
 <b>SAMUEL THORNTON</b>
@@ -136,6 +136,7 @@ This wall map shows the trade route from Siam to Batavia and then to Europe thro
 <br><br>
 <img src="/images/vol-10-issue-4/raremap/Sincapour.jpg">*L’Asie dressée sur les observations de M.rs de l’Académie Royale de Sciences &amp; de Sanson, Nolin, Du Fer, De L’Isle &amp; principalement sur la carte que monsieur N: Witsen Bourgemaistre &amp;c. &amp;c. a donneé au public &amp; sur les memoires les plus recens et mis au jour*, Johannes Covens and Cornelis Mortier (Amsterdam, circa 1730).</span>
 
+<img style="width:100px;height:100px;margin-bottom:-30px; border-radius:100%; box-shadow: 2px 3px 1px #424242;" src="/images/vol-10-issue-4/raremap/Magess.jpg">
 <p style="font-size:15px;"><b>Makeswary Periasamy</b> is a Senior Librarian with the National Library of Singapore. She selects and acquires rare materials for the National Library and also overseas the map collections of the library. Makeswary has several years of experience in cataloguing, heritage collections management, reference and research, as well as in managing large-scale preservation projects.</p>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-10/issue-4/jan-mar-2015/"><center>Back to Issue</center></a>

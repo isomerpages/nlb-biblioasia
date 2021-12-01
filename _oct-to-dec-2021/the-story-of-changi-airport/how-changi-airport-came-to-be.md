@@ -149,7 +149,7 @@ More resources on Changi Airport’s early years are available [<u>here</u>](/vo
 
 #### **NOTES**
 
-[^1]: “[SQ 101 Makes First Changi Landing with 140,](https://www.nas.gov.sg/archivesonline/speeches/record-details/7eb69f39-115d-11e3-83d5-0050568939ad)” *Straits Times*, 2 July 1981, 8; “[All Poised for the Big Take-off](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19810701-1.2.5.aspx),” *Straits Times*, 1 June 1981, 12; “[Changi Arrives](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19810701-1.2.2),” *Straits Times*, 1 July 1981, 1. (From NewspaperSG)
+[^1]: “[SQ 101 Makes First Changi Landing with 140,](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19810702-1.2.27.aspx)” *Straits Times*, 2 July 1981, 8; “[All Poised for the Big Take-off](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19810701-1.2.5.aspx),” *Straits Times*, 1 June 1981, 12; “[Changi Arrives](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19810701-1.2.2),” *Straits Times*, 1 July 1981, 1. (From NewspaperSG)
 
 [^2]: Lee Kuan Yew, “[Speech by Mr Lee Kuan Yew, Minister Mentor, at Changi Airport 25th Anniversary Dinner, 1 July 2006, 8.00 pm at the Raffles Ballroom, Swissotel the Stamford,” Raffles Ballroom, Swissotel the Stamford](https://www.nas.gov.sg/archivesonline/speeches/record-details/7eb69f39-115d-11e3-83d5-0050568939ad), 1 July 2006, transcript. (From National Archives of Singapore, Document no. 20060701991)
 

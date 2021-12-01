@@ -31,23 +31,23 @@ The photograph elicits a reaction – at least for me – because the architectu
 
 Historical documents tell their own stories too, although one challenge is that they may have been deposited in the NAS without their complete context. One of the most evocative wartime collections at NAS is from David Ernest Srinivasagam Chelliah who, in 1990, donated 82 personal items relating to the war and Occupation.
 
+<div style="background-color: white;"><img style="width:350px" src="/images/Vol-13-issue-4/the-stories-they-could-tell/03_stories.jpg">A propaganda flyer distributed in Singapore celebrating the Tencho setsu (birthday of the Meiji emperor). <i>David Chelliah Collection, courtesy of National Archives of Singapore.</i></div>
+
 The collection is almost scrapbooklike in its diversity and messiness: a motley assortment of Japanese-language school materials, newspaper clippings, work passes and badges, mundane circulars and booklets. The items are all the more intriguing because Chelliah did not leave an oral history interview, diary or formal account of his life during the Occupation.
 
 This is what we’ve been able to piece together from the objects: In 1941, Chelliah, at age 15, was a member of the wartime Medical Auxiliary Services (civilian volunteers who provided first aid). During the Occupation, he learned Japanese and was employed at the Japanese broadcasting department in Cathay Building. From his salary envelopes, we know that his pay was raised from 3,800 yen in 1943 to 13,000 yen, reflecting the runaway inflation of the time. His list of broadcasting department colleagues provides a glimpse of its multiracial and multilingual profile (including Thai and Vietnamese names).
 
-<div style="background-color: white;"><img style="width:450px" src="/images/Vol-13-issue-4/the-stories-they-could-tell/03_stories.jpg">A propaganda flyer distributed in Singapore celebrating the Tencho setsu (birthday of the Meiji emperor). <i>David Chelliah Collection, courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;"><img style="width:600px" src="/images/Vol-13-issue-4/the-stories-they-could-tell/04_stories.png">David Chelliah’s student pass at a Japanese-language school and his salary envelopes when he worked at the Japanese broadcasting department in Cathay Building. <i>David Chelliah Collection, courtesy of National Archives of Singapore.</i></div>
 
 The messiest pile we had to sort out was English newspaper clippings. Some clearly recorded landmark historical moments, but also tucked away in the stash were longish newspaper articles about the Japanese language institute Syonan Nippon Gakuen. The articles were mainly mundane reports – reproduced speeches by a military representative and the head of the school, Professor Kotaro Jimbo (sometimes spelled Zimbo), repeating imperial propaganda about the need to “master Nippon-Go” (the Japanese language) and the self-styled superiority of the “Nippon Race”, and about Japanese history and culture.[^3] Interestingly, Jimbo was a prominent poet who, like other intellectuals in Japan, threw his support behind the imperial state’s Nipponisation project.[^4]
 
-<div style="background-color: white;"><img style="width:400px" src="/images/Vol-13-issue-4/the-stories-they-could-tell/02_stories.jpg">Newspaper articles from the Japanese wartime newspaper <i>Syonan Shimbun</i> on Singapore students studying Japanese. The article praises the inaugural batch of students graduating from the Japanese-language institute Syonan Nippon Gakuen. <i>Courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;"><img style="width:550px" src="/images/Vol-13-issue-4/the-stories-they-could-tell/02_stories.jpg">Newspaper articles from the Japanese wartime newspaper <i>Syonan Shimbun</i> on Singapore students studying Japanese. The article praises the inaugural batch of students graduating from the Japanese-language institute Syonan Nippon Gakuen. <i>Courtesy of National Archives of Singapore.</i></div>
 
 It was only when we scrutinised the list of graduates – there were several hundred names – that we learned two things. Chelliah had been in the second and final batch of graduates in October 1942, which perhaps explained why he had saved the articles about the first batch; he might have been trying to learn about the school before he enrolled. Also, the student profile of the language school ran the gamut of the Singapore civilian population at the time, with Chinese, Eurasian, Indian and Malay names. Whatever happened to them afterwards, here was some mention of what they were doing in the first year of the Occupation.
 
 The fragmentary nature of Chelliah’s collection – and indeed, of many personal items that now reside with NAS – means this is all we can muster: fleeting glimpses of the little things people did for a few days, weeks or months, a snapshot of activity that may or may not have significantly changed their lives, but when put into the right context, can give us a clue to understand something of that period.
 
 Imagine how it must have felt to be one of 250 students (out of 2,500 applicants) at Syonan Nippon Gakuen, sitting in a multiracial class of people who, until half a year ago, had only known British colonial rule. Imagine them desperately wrapping their tongues around new sounds and phrases that Professor Jimbo and his colleagues scribbled on the blackboard, wondering if they needed to know this language only for a short time – or if their new rulers were here to stay.[^5]
-
-<div style="background-color: white;"><img style="width:600px" src="/images/Vol-13-issue-4/the-stories-they-could-tell/04_stories.png">David Chelliah’s student pass at a Japanese-language school and his salary envelopes when he worked at the Japanese broadcasting department in Cathay Building. <i>David Chelliah Collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **After the Event, Before History**
 
@@ -77,7 +77,7 @@ For any historical event, meanings change as time passes. To me, archives are cl
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Vol-13-issue-4/the-stories-they-could-tell/yu-mei.png">
+<img style="width: 100px; height: 100px;" src="/images/Vol-13-issue-4/the-stories-they-could-tell/yu-mei1.png">
 	<b>Yu-Mei Balasingamchow</b> is the co-author of <i>Singapore: A Biography</i> (2009) and works on history, art and culture projects. She writes fiction and has also curated exhibitions for the National Museum of Singapore and the National Archives of Singapore. Her website is www.toomanythoughts.org.
 </div>
 
@@ -85,9 +85,9 @@ For any historical event, meanings change as time passes. To me, archives are cl
 
 #### **NOTES**
 
-[^1]:Balasingamchow, Y.M. (2016, Jul–Sep). [My grandmother’s story](www.nlb.gov.sg/biblioasia/2016/07/12/my-grandmothers-story/). *BiblioAsia, 12* (2). Retrieved from *BiblioAsia* website.
+[^1]:Balasingamchow, Y.M. (2016, Jul–Sep). [My grandmother’s story](https://biblioasia.nlb.gov.sg/vol-12/issue-2/jul-sep-2016/my-grandmother-story). *BiblioAsia, 12* (2). Retrieved from BiblioAsia website.
 
-[^2]:The image is reproduced as a large wall graphic in the permanent exhibition *Surviving the Japanese Occupation: War and Its Legacies at the Former Ford Factory*. It is several metres in width, and is found at the start of the gallery on the history of the Occupation.
+[^2]:The image is reproduced as a large wall graphic in the permanent exhibition “Surviving the Japanese Occupation: War and Its Legacies” at the Former Ford Factory. It is several metres in width, and is found at the start of the gallery on the history of the Occupation.
 
 [^3]:[Graduation of first batch of Nippon-go students](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/syonantimes19420804-1.2.42) (1942, August 4). *The Syonan Times*, p. 4. Retrieved from NewspaperSG.
 

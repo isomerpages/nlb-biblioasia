@@ -201,7 +201,7 @@ In revisiting these three photo exhibitions – held in 1922, 1935 and 1939–40
 
 [^35]: “[滇缅公路写真展览](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19391012-1.2.52.1)” [“Yunnan-Burma Highway Photo Exhibition”], *南洋商报*  [*Nanyang Siang Pau*], 12 October 1939, 7. (From NewspaperSG)
 
-[^36]: “[滇缅公路影展助赈 委员会昨成立](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19391111-1.2.59.1)” [“Yunnan-Burma Highway Photo Exhibition to Aid Relief Fund; Committee Formed Yesterday], *Nanyang Siang Pau*, 11 November 1939, 7. (From NewspaperSG)
+[^36]: “[滇缅公路影展助赈 委员会昨成立](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19391111-1.2.59.1)” [“Yunnan-Burma Highway Photo Exhibition to Aid Relief Fund; Committee Formed Yesterday”], *南洋商报* [*Nanyang Siang Pau*], 11 November 1939, 7. (From NewspaperSG)
 
 [^37]: “[滇缅公路摄影展览会 举行隆重开幕](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19391125-1.2.46.1)” [“Grand Opening of the Yunnan-Burma Highway Photo Exhibition”], *南洋商报*  [*Nanyang Siang Pau*], 25 November 1939, 7. (From NewspaperSG)
 

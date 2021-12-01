@@ -51,9 +51,9 @@ After Miss Grant left Singapore in 1853, the SPFEE sent another missionary, Soph
 
 In addition to running the girls’ school, Miss Cooke also started a Chinese “ragged school”[^15]− a charitable establishment providing free education for poor children − that took in children as well as their mothers. Inspired by similar schools in London, the ragged school opened on 6 March 1865.[^16] Buoyed by its success, Miss Cook started a second such school but there are no records of what happened to these two ragged schools.
 
-<div style="background-color: white;"><img style="width:700px" src="/images/Vol-13-issue-4/women-on-a-mission/04_womenmission.jpg">Students from the Church of England Zenana Missionary Society School or the CEZMS School playing netball at its premises in Sophia Road, c. early 1900. The school has changed names and moved locations several times since its founding in 1842 as the Chinese Female Boarding School. In 1949 it was renamed St Margaret’s School, after Queen Margaret of Scotland. <i>Courtesy of St Margaret’s Secondary School.</i></div>
-
 In 1900, the SPFEE was dissolved and the Chinese Girls’ School was taken over by the Church of England Zenana Missionary Society (CEZMS) and became known as the CEZMS School. In 1949, the school was renamed St Margaret’s School (after Queen Margaret of Scotland), and is today the oldest girls’ school in Singapore in existence.[^17]
+
+<div style="background-color: white;"><img style="width:700px" src="/images/Vol-13-issue-4/women-on-a-mission/04_womenmission.jpg">Students from the Church of England Zenana Missionary Society School or the CEZMS School playing netball at its premises in Sophia Road, c. early 1900. The school has changed names and moved locations several times since its founding in 1842 as the Chinese Female Boarding School. In 1949 it was renamed St Margaret’s School, after Queen Margaret of Scotland. <i>Courtesy of St Margaret’s Secondary School.</i></div>
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>A MATCH MADE IN SCHOOL</b>
 <br><br>
@@ -162,7 +162,7 @@ In 1964, the Town Convent was separated into primary and secondary schools and, 
 
 [^8]:Turnbull, C.M. (1989). *[A history of Singapore, 1819–1988](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5178825)* (pp. 59–64). Singapore: Oxford University Press. (Call no.: RSING 959.57 TUR-[HIS]); Kiong, B.H. (1953). *Educational progress in Singapore, 1870–1902* (p. 4). (Unpublished academic exercise, University of Malaya).; Blackmore, S. (n.d.). *A pioneer in Malaya*. Singapore: MGS Heritage Centre. (Unpublished manuscript)
 
-[^9]:O’Sullivan, R.L. (1986). *[A history of the London Missionary Society in the Straits Settlements](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5701470)* (c 1815–1847) (pp. 132–133) (PhD thesis). London: University of London, School of Oriental and African Studies. (Call no.: RCLOS 266.0234105957 OSU); Buckley. C.B. (1902). *[An anecdotal history of old times in Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4470390)* (Vol. 1, p. 77). Singapore: Fraser & Neave. (Call no.: RCLOS 959.57 BUC-[HIS])
+[^9]:O’Sullivan, R.L. (1990). *[A history of the London Missionary Society in the Straits Settlements (c 1815–1847)](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5701470)*  (pp. 132–133) (PhD thesis). London: University of London, School of Oriental and African Studies. (Call no.: RCLOS 266.0234105957 OSU); Buckley. C.B. (1902). *[An anecdotal history of old times in Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4470390)* (Vol. 1, p. 77). Singapore: Fraser & Neave. (Call no.: RCLOS 959.57 BUC-[HIS])
 
 [^10]:William E. (1844). *A history of the London Missionary Society* (Vol. 1) (pp. 569–570). London: John Snow. (Not available in NLB holdings); [O’Sullivan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5701470), 1986, pp. 99, 133–134; [Turnbull](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5178825), 1989, p. 60. 
 
@@ -192,7 +192,7 @@ In 1964, the Town Convent was separated into primary and secondary schools and, 
 
 [^23]:[Untitled](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk18971116-1.2.63). (1897, November 16). *The Singapore Free Press and Mercantile Advertiser* (Weekly), p. 312; [Death of Miss E. Ryan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19231217-1.2.54). (1923, December 17). *The Straits Times*, p. 8; [C. E. Z. M. S. work](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19280710-1.2.3). (1928, July 10). *The Straits Times*, p. 2. Retrieved from NewspaperSG.
 
-[^24]:Voke, R. (1920, August). History of the MGS, Singapore. *The Malaysia Message*, 29 (11), 82. Singapore: The Methodist Church Archives. (Not available in NLB holdings)
+[^24]:Voke, R. (1920, August). History of the MGS, Singapore. *The Malaysia Message, 29* (11), 82. Singapore: The Methodist Church Archives. (Not available in NLB holdings)
 
 [^25]:*The Malaysia Message*, Jan 1893, p. 38.
 

@@ -7,9 +7,9 @@ layout: post
 ---
 #### The “Mad Chinaman” was probably the first to push the boundaries of popular music in Singapore. **Joy Loh** profiles the enfant terrible of entertainment.
 
-<img src="/images/vol-11-issue-2/dicklee/dicklee.jpg">
+<img src="/images/vol-11-issue-2/dicklee/dicklees.jpg">
 
-<i>What drove me to do what I did – it was to find myself and to make my statement as a Peranakan Chinese Singapore citizen of Asia and of the world”.</i>
+<i>“What drove me to do what I did – it was to find myself and to make my statement as a Peranakan Chinese Singapore citizen of Asia and of the world”.</i>
 
 <div style="text-align: right"><i>— Dick Lee</i></div>
 
@@ -25,11 +25,11 @@ Since an early age, Lee had shown a natural talent for creating music. By the ti
 
 In his own way, Lee was a rebel. Being the only pianist in his secondary school cohort at St Joseph’s Institution, he was often asked to play the rock organ and perform hits from heavy metal rock bands such as Black Sabbath and Grand Funk Railroad at school concerts. Like the other rockers of his time, Lee wore his hair long, yet was ever vigilant of the authorities who sometimes mistakenly nabbed hapless misfits whose only crime was that of trying to look cool. This was because in 1959, the government had launched a campaign to clamp down on negative aspects of Western popular culture that were perceived as decadent. The ban against the so-called “yellow culture”[^2] included pornographic publications and films, drugs, gambling, and even rock ‘n’ roll music and men with long hair; this policy did not ease until the early 1980s.
 
-Against the backdrop of this campaign, Lee once had a close shave with the police. One evening while loitering in town, Lee and his friends spotted a police patrol car and decided to make a run for it because they thought they would be picked up for sporting long hair. While making his getaway in his red and black four-inch platform shoes, Lee lost his balance and tumbled into a ditch, fortuitously removing himself from view as his friends were caught by the police and sent to “haircut hell”.
+Against the backdrop of this campaign, Lee once had a close shave with the police. One evening while loitering in town, Lee and his friends spotted a police patrol car and decided to make a run for it because they thought they would be picked up for sporting long hair. While making his getaway in his red-and-black four-inch platform shoes, Lee lost his balance and tumbled into a ditch, fortuitously removing himself from view as his friends were caught by the police and sent to “haircut hell”.
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-11-issue-2/dicklee/young_dicklee.jpg">
+<img style="width:70%" src="/images/vol-11-issue-2/dicklee/young_dicklee.jpg">
 Dick Lee performing at Rediffusion's singing contest <i>Ready, Steady, Folk</i> in 1973. <i>Courtesy of Dick Lee. </i>
 </div>
 
@@ -41,7 +41,7 @@ Dick Lee modelling his designs for his mother's boutique Midteen located in Tang
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-11-issue-2/dicklee/FRP.jpg">
+<img style="width:70%" src="/images/vol-11-issue-2/dicklee/FRP.jpg">
 Album cover of music from <i>Fried Rice Paradise</i>, staged by Singapore Repertory Theatre in 2010. © <i>Singapore Repertory Theatre, Singapore, 2010.</i>
 </div>
 
@@ -52,7 +52,7 @@ Lee’s music career took off while he was still a student at St Joseph’s Inst
 In 1972, Lee auditioned for <i>Ready Steady Folk</i>, a talent show on television that was produced by cable radio station Rediffusion Singapore,[^3] and helmed by the legendary Vernon Cornelius of the band The Quests. During the audition, Lee performed “Life Story”, a song about a young man’s reflection on his life. This pivotal song helped to launch Lee’s music career, and became a familiar tune to many Singaporeans when it was used in a commercial years later.
 
 “Wake up,” she said, “Look, it's a beautiful day”<br>Downstairs to the kitchen door and then away<br>Into the light 
-Morning feeling lives on<br>Come the clouds the moon, and morning is gone
+<br>Morning feeling lives on<br>Come the clouds the moon, and morning is gone
 
 Just my life story<br>Minute by second a story<br>That goes on forever with each breath that I take<br>This is my life story<br>Uneventfullest story<br>That ages with each year and birthday cake
 
@@ -85,7 +85,7 @@ Although <i>Life in the Lion City</i> was released in 1984 with little fanfare, 
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-11-issue-2/dicklee/mad_chinaman.jpg">
+<img style="width:70%" src="/images/vol-11-issue-2/dicklee/mad_chinaman.jpg">
 Album cover of <i>The Mad Chinaman</i>, Dick Lee's ultimate Singaporean album of ethnic pop. © <i>Warner Music, Singapore, 1989.</i>
 </div>
 
@@ -97,7 +97,7 @@ Many of the catchy songs commissioned for the campaign and timed to be released 
 
 While the title track, “The Mad Chinaman”, was inspired by the Tiananmen Square massacre of 1989, Lee was moved to explore his Singaporean roots, acknowledging his confused identity in the lyrics of the song.
 
-The Mad Chinaman relies<br>On the east and west sides of his life<br>The Mad Chinaman will try<br>To find out which is right<br>I know you can get confused<br>I get that way a little too<br>When the legacy of old surfaces as new Traditional, International<br>Western feelings from my oriental heart<br>How am I to know, how should I react?<br>Defend with Asian pride? Or attack!
+The Mad Chinaman relies<br>On the east and west sides of his life<br>The Mad Chinaman will try<br>To find out which is right<br>I know you can get confused<br>I get that way a little too<br>When the legacy of old surfaces as new <br>Traditional, International<br>Western feelings from my oriental heart<br>How am I to know, how should I react?<br>Defend with Asian pride? Or attack!
 
 Lee also put humour to good use in his music. He chose the most popular Malay folk song he knew, “Rasa Sayang”, and added contemporary rap lyrics that told the story of Singapore in tongue-in-cheek fashion. 
 
@@ -119,7 +119,7 @@ Lee’s passion for musicals led him along a different yet complementary path. H
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-11-issue-2/dicklee/beuty_world.jpg">
+<img style="width:70%" src="/images/vol-11-issue-2/dicklee/beuty_world.jpg">
 A TheatreWorks production of <i>Beauty World</i> directed by Ong Keng Sen. It was first staged by TheatreWorks in 1988 and toured Japan in 1992, followed by a re-staging for the President's Star Charity in 1998. <i>Courtesy of TheatreWorks (S) Ltd</i>.
 </div>
 
@@ -135,19 +135,19 @@ Lee says of the musical: “These days, I feel a flush of pride when young actor
 
 Not one to sit idle, in the new millennium, Lee again pushed the boundaries, this time taking a leaf out of Chinese history by challenging commonly held notions of Cixi, the last empress dowager of China. 
 
-Lee was intrigued by the story of Cixi and rabidly researched into her life and history, especially the challenges she must have faced as the ruler of China in the final years of the Qing Dynasty in the early 1900s. Not content to believe the popular accounts of Cixi as the infamous power-crazed despot, Lee wanted to explore a different side of her – as a woman, mother, wife and lover. 
+Lee was intrigued by the story of Cixi and rabidly researched her life and history, especially the challenges she must have faced as the ruler of China in the final years of the Qing Dynasty in the early 1900s. Not content to believe the popular accounts of Cixi as the infamous power-crazed despot, Lee wanted to explore a different side of her – as a woman, mother, wife and lover. 
 
 In 2002, Lee travelled to London with lyricist Stephen Clark and director Steven Dexter to work on an outline for a musical on Cixi’s life. The trio visited the British Library to study out-of-print books on Cixi and stumbled upon an important work on the empress dowager by American artist Katherine Carl, who painted Cixi in her first Western-style portrait. 
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-11-issue-2/dicklee/forbidden_city.jpg">
+<img style="width:70%" src="/images/vol-11-issue-2/dicklee/forbidden_city.jpg">
 A scene from the musical <i>Forbidden City: Portrait of an Empress</i>, with Kit Chan (centre, in red costume) playing the lead role. Dick Lee wrote the music for this Singapore Repertory Theatre (SRT) production that was first staged in 2002. <i>Courtesy of Singapore Repertory Theatre</i>.
 </div>
 
 Carl had been sent to the Forbidden City in 1903 to paint the empress dowager in just three days, but was so well-liked by the empress that she stayed for more than six months. Her account, <i>With the Empress Dowager</i>, published in 1905, had been written partly in defence of the scandalous books that were being published on the empress at the time, some of these attributing fictitious quotes to Carl herself. 
 
-Thus, the musical <i>Forbidden City: Portrait of an Empress</i> was born, starring Singapore singer Kit Chan in the titular role. Forbidden City was one of the highlights of the opening festival of Esplanade – Theatres on the Bay in October 2002. Owing to its immense popularity, the production returned for two re-runs in 2003 and 2006. Lee’s compositions for the musical subsequently went on to win the Life! Theatre Awards for Best Music in 2004. 
+Thus, the musical <i>Forbidden City: Portrait of an Empress</i> was born, starring Singapore singer Kit Chan in the titular role. <i>Forbidden City</i> was one of the highlights of the opening festival of Esplanade – Theatres on the Bay in October 2002. Owing to its immense popularity, the production returned for two re-runs in 2003 and 2006. Lee’s compositions for the musical subsequently went on to win the Life! Theatre Awards for Best Music in 2004. 
 
 #### **The Consummate Performer**
 
@@ -225,6 +225,6 @@ Yong, S.F. (1998, March 28). [Home again](http://eresources.nlb.gov.sg/newspaper
 
 [^1]: Also spelled <i>keronchong and kronchong, keroncong</i> refers to a type of ukulele-like instrument as well as to the Indonesian musical style that makes use of this instrument. The music has its origins in the 16th-century music of the Portuguese colonies in Batavia and the Moluccas.
 
-[^2]: On 8 June 1959, the government led by the newly elected People’s Action Party (PAP) launched a campaign against yellow culture. The term “yellow culture” is a direct translation of the Chinese phrase <i>huangse wenhua</i>, which refers to decadent behaviour such as gambling, opium-smoking, pornography, prostitution, corruption and nepotism that plagued much of China in the 19th century.
+[^2]: On 8 June 1959, the government, led by the newly elected People’s Action Party (PAP), launched a campaign against yellow culture. The term “yellow culture” is a direct translation of the Chinese phrase <i>huangse wenhua</i>, which refers to decadent behaviour such as gambling, opium-smoking, pornography, prostitution, corruption and nepotism that plagued much of China in the 19th century.
 
 [^3]: Rediffusion was Singapore’s first cable-transmitted, commercial radio station. It started broadcasting in Singapore 1949.

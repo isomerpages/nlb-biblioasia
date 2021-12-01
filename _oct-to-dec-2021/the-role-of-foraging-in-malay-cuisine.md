@@ -100,7 +100,7 @@ In 1971, Alice Waters, one of the key pioneers of the organic food movement in t
 This sensitivity to seasonal constraints was also a crucial characteristic of foraging by the Malays. They only plucked the leaves of the <i>puchok pakis</i> (fiddlehead fern; <i>Diplazium esculentum</i>) while these were tightly furled. While <i>binjai</i> (<i>Mangifera caesia</i>) can be consumed even before it ripens, as some find it appealing in its sour stages, one rarely plucked the tree bare before the fruits reached their prime. As for the <i>keranji</i> (<i>Dialium indum</i>), the fruits emerge only once every five years, making it a waste to chop the tree down in its “unproductive” years in between.
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-3/malay-cuisine/6873_1_cmyk.jpg)
-<div style="background-color: white;">A Malay gulai (<i>curry</i>) of young fern fronds. <i>Photograph by Law Soo Phye, courtesy of Khir Johari.</i></div>
+<div style="background-color: white;">A Malay <i>gulai</i> (curry) of young fern fronds. <i>Photograph by Law Soo Phye, courtesy of Khir Johari.</i></div>
 
 Industrialised food production has overcome constraints like these. One can now enjoy durian at any time of the year, despite it being a seasonal fruit. This has allowed the human consumer to transcend their position within the food chain, no longer subject to its natural processes or the constraints of seasonality. There is a danger, perhaps, in this growing distance between us and the natural processes that give rise to our food. The more removed we are from the natural domains where our ingredients were once traditionally harnessed, the less control and discernment we have in determining what food we should be consuming.
 
@@ -158,7 +158,7 @@ This book is scheduled to be published in October 2021. Thereafter, it will be a
 
 [^5]: Juria Toramae, “Notes on Some Outlying Reefs and Islands in Singapore,” *Mynah*, no. 1 (October 2016): 130, Academia, https://www.academia.edu/35691230/Notes_On_Some_Outlying_Reefs_and_Islands_of_Singapore.
 
-[^6]: Chew Soo Beng,“ [*Fishermen in Flats*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4137660),” Monash Papers on Southeast Asia*, no. 9 ([Clayton, Vic.]: Centre of Southeast Asian Studies, Monash University, 1982). (From National Library, Singapore, Call no. RSING 301.4443095957 CHE)
+[^6]: Chew Soo Beng, “[Fishermen in Flats](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4137660),” *Monash Papers on Southeast Asia*, no. 9 ([Clayton, Vic.]: Centre of Southeast Asian Studies, Monash University, 1982). (From National Library, Singapore, Call no. RSING 301.4443095957 CHE)
 
 [^7]: The signing of the Anglo-Dutch Treaty by Great Britain and the Netherlands in London on 17 March 1824 resolved outstanding bilateral issues. This redefined the spheres of influence of these two colonial powers in the region, leading to the formation of British Malaya and the Dutch East Indies.
 

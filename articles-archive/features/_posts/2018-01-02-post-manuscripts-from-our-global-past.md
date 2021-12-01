@@ -1,10 +1,10 @@
 ---
-title: Manuscripts from our Global Past
+title: Manuscripts from Our Global Past
 date: 2018-01-02
 permalink: /vol-13/issue-4/jan-mar-2018/manuscripts-from-past
-image: /images/Vol-13-issue-4/manuscripts-from-global-past/01_manuscript.png
 layout: post
 ---
+
 #### An exhibition of old Southeast Asian writings showcases the region as a major centre of learning. **Farish A. Noor** explains why we should reclaim our heritage.
 
 <div style="background-color: white;"><br><img src="/images/Vol-13-issue-4/manuscripts-from-global-past/01_manuscript.png"></div>
@@ -29,11 +29,11 @@ The question, however, remains: If Southeast Asia (like South Asia and East Asia
 
 In this respect, two works that are now on display at the exhibition are particularly important: the first is *Taj al-Salatin* (*The Crown of Kings*) by Bukhari al-Johori, which was written in 1603. Bukhari’s work was, and remains, one of the most important political texts to have emerged in the 17th century, and deals with a range of issues from the authority of government to the duties and responsibilities of rulers. It lays out, in clear terms, the political-social contract between subjects and rulers and constantly reminds the reader of the need for a system of checks and balances so that political authority is not compromised.
 
+<div style="background-color: white;"><img src="/images/Vol-13-issue-4/manuscripts-from-global-past/02_manuscript.jpg">This rare and highly decorated manuscript titled <i>Taj al-Salatin</i> (<i>The Crown of Kings</i>) is considered one of the most beautiful by experts. The opening and closing pages are elaborately adorned with blue, red, yellow and gold patterns. The decorative style of the closing pages as seen here is reminiscent of Indo-Persian and Ottoman manuscripts. Believed to have been composed in Aceh in 1603 by Bukhari al-Johori (the “jewel merchant”), the work is one of the most important texts about political theory and governance from the 17th century. <i>Collection of The British Library, Or. MS. 13295.</i></div>
+
 Again and again, Bukhari reminds the ruler that his authority is based on the support he receives from his subjects, and that support cannot be coerced or taken for granted. In so many ways, this was a modern work of political theory and governance, and a noteworthy observation to be made here is the fact that *Taj al-Salatin* was written in 1603, decades before Thomas Hobbes’ works *De Cive* (1642) and *Leviathan* (1651).
 
 Yet, while the works of English political theorists like Hobbes and John Locke have been elevated to the status of “global” political theory, Bukhari’s *Taj al-Salatin* remains confined to the domain of Asian literature and area studies. The same can be said of the political writings of countless other scholars from China to India to Africa, whose works have likewise been slotted into the marginal categories of “East Asian studies”, “South Asian studies” or “African studies”.
-
-<div style="background-color: white;"><img src="/images/Vol-13-issue-4/manuscripts-from-global-past/02_manuscript.jpg">This rare and highly decorated manuscript titled <i>Taj al-Salatin</i> (<i>The Crown of Kings</i>) is considered one of the most beautiful by experts. The opening and closing pages are elaborately adorned with blue, red, yellow and gold patterns. The decorative style of the closing pages as seen here is reminiscent of Indo-Persian and Ottoman manuscripts. Believed to have been composed in Aceh in 1603 by Bukhari al-Johori (the “jewel merchant”), the work is one of the most important texts about political theory and governance from the 17th century. <i>Collection of The British Library, Or. MS. 13295.</i></div>
 
 Another important work on display is a handsome copy of the famous *Hikayat Hang Tuah*. The tale of the hero Hang Tuah is known to many by now, thanks in part to the manner in which it has been rendered in popular films and even comics. But few realise that the text is much more complex than it first appears, and this becomes evident when we read it to the very end – following Hang Tuah’s journey as he becomes a diplomat-emissary who travels beyond Southeast Asia and ventures to South Asia, East Asia and beyond. It is in the latter half of *Hikayat Hang Tuah* that we come to see that the work is not only a heroic epic, but also an account of travel and diplomacy, giving us an idea of how Southeast Asians related to the wider world in our pre-colonial past.
 
