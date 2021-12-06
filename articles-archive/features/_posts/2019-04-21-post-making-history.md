@@ -40,7 +40,7 @@ In exchange, the Sultan and Temenggong each received a lump sum of money, had th
 
 There were three original signed copies of the ratified 1824 treaty: one for the British India government, which is now archived with the British Library’s India Office collection, and the other two for the Sultan and Temenggong.[^1] The copy belonging to the National Archives of Singapore was created in September 1841 at the request of then Governor of the Straits Settlements Samuel George Bonham.
 
-<div style="background-color: white;"><img style="/images/Vol-15-issue-1/making-history/02a_history.png">This map of Singapore was created using information gathered during John Crawfurd’s 10-day sail around the island after the conclusion of the Treaty of Friendship and Alliance in 1824. The map was published in his 1828 book, <i>Journal of an Embassy from the Governor-General of India to the Courts of Siam and Cochin-China</i>. <i>Courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;"><img style="width:700px" src="/images/Vol-15-issue-1/making-history/02a_history.png">This map of Singapore was created using information gathered during John Crawfurd’s 10-day sail around the island after the conclusion of the Treaty of Friendship and Alliance in 1824. The map was published in his 1828 book, <i>Journal of an Embassy from the Governor-General of India to the Courts of Siam and Cochin-China</i>. <i>Courtesy of National Archives of Singapore.</i></div>
 
 #### **Child Brides for Sale**
 
