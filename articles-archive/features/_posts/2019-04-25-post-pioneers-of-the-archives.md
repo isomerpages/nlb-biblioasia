@@ -207,7 +207,7 @@ Finally, by providing public servants with access to past official records, they
 
 [^19]:Anuar, H. (1970, July). Current research resources on Southeast Asia in the National Library and the National Archives and Records Centre, and an account of the bibliographical project in progress. *Southeast Asian Archives, 3*, 30–33. (Microfilm no.: NL27911).
 
-[^20]:For details of Hedwig Anuar’s appointments, see Southeast Asia Regional Branch of the International Council on Archives. (n.d.). Executive Board. Retrieved from SARBICA website.
+[^20]:For details of Hedwig Anuar’s appointments, see Southeast Asia Regional Branch of the International Council on Archives. (n.d.). *Executive Board*. Retrieved from SARBICA website.
 
 [^21]:In fact, Verhoeven notes on p. 18 of his report that Lily Tan was selected out of seven candidates to be sent overseas to study archives administration, making her the first employee of the National Archives and Records Centre even before it was officially established. The Colombo Plan is an intergovernmental regional organisation that supports economic and social development of member countries in the Asia-Pacific region. It funds scholarships for developing countries to train their local human resources.
 
