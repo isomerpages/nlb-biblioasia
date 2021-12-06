@@ -8,7 +8,7 @@ description: ""
 ---
 #### Photographs can capture subtext that is sometimes more evocative than the intended subject, as **Gretchen Liu** discovered when she explored the early work of the Photo Unit. 
 
-<div style="background-color: white;"><br><img src="/images/Vol-15-issue-1/the-way-we-were/02a_waywewere.png">A Chinese opera staged in Kampong Glam, 1966. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;"><br><img src="/images/Vol-15-issue-1/the-way-we-were/02a_waywewere.jpg">A Chinese opera staged in Kampong Glam, 1966. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 The National Archives of Singapore (NAS) houses an astonishing five million prints, slides and negatives that vividly tell the story of modern Singapore. With the Archives Online portal providing access to over a million of these images, anyone can easily explore Singapore’s visual heritage with an internet connection and a few clicks.
 
