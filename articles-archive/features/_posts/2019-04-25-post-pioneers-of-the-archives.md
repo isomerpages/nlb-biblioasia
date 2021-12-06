@@ -7,7 +7,7 @@ layout: post
 ---
 #### **Fiona Tan** tells us about the people who laid the bedrock of the National Archives of Singapore, along with details of how the institution has evolved since its inception in 1938.
 
-<div style="background-color: white;"><br><img src="/images/Vol-15-issue-1/pioneers-of-the-archives/01a_pioneers.jpg">A staff sorting records at the repository in the Lewin Terrace premises of the National Archives and Records Centre (NARC) in 1970. <i>Image reproduced from Annual Report of the National Archives and Records Centre 1970.</i></div>
+<div style="background-color: white;"><br><img style="width:600px" src="/images/Vol-15-issue-1/pioneers-of-the-archives/01a_pioneers.jpg">A staff sorting records at the repository in the Lewin Terrace premises of the National Archives and Records Centre (NARC) in 1970. <i>Image reproduced from Annual Report of the National Archives and Records Centre 1970.</i></div>
 
 <span style="display:block;text-align:center;">“The man who is appointed to a post being created by the Straits Settlements Government will have a life-time job before him. An archivist is wanted.”[^1]</span>
 
