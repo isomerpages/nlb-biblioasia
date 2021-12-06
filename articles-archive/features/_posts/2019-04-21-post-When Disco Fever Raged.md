@@ -185,7 +185,7 @@ Researcher and writer <b>Tan Chui Hua</b> has worked on various projects documen
 
 [^3]:Teo, K.G. (Interviewer). (2013, February 13). *[Oral history interview with Ronald Goh Wee Huat](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/05389d72-1163-11e3-83d5-0050568939ad)*. [MP3 recording no. 003790/6/1]. Retrieved from National Archives of Singapore website.
 
-[^4]:[Fireplace closed down on minister’s orders]http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19690321-1.2.152). (1969, March 21). *The Straits Times*, p. 24. Retrieved from NewspaperSG. 
+[^4]:[Fireplace closed down on minister’s orders](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19690321-1.2.152). (1969, March 21). *The Straits Times*, p. 24. Retrieved from NewspaperSG. 
 
 [^5]:[Police raid on discotheque: Six arrested](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19690325-1.2.17). (1969, March 25). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
 
