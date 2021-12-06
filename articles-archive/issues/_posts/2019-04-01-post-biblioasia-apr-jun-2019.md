@@ -23,7 +23,7 @@ Who would have thought that obscure rainfall records from the 1960s would have a
 **[Building History: From Stamford Road to Canning Rise](/vol-15/issue-1/apr-jun-2019/building-history)** <br>
 *Abigail Huang* tracks the movement of the National Archives of Singapore, from its early days in the Raffles Museum and Library on Stamford Road to an old school building at the foot of Fort Canning. [(PDF)](/files/pdf/vol-15/v15-issue1_Building.pdf)
 
-**[Pioneers of the Archives](/issue-1/apr-jun-2019/pioneers-of-archives)** <br>
+**[Pioneers of the Archives](/vol-15/issue-1/apr-jun-2019/pioneers-of-archives)** <br>
 *Fiona Tan* tells us about the people who laid the bedrock of the National Archives of Singapore, along with details of how the institution has evolved since its inception in 1938. [(PDF)](/files/pdf/vol-15/v15-issue1_Pioneers.pdf)
 
 **[Wartime Virtuals: Surviving the Japanese Occupation](/vol-15/issue-1/apr-jun-2019/wartime-victuals)** <br>
@@ -38,7 +38,7 @@ Pulsating music, strobe lights and postage-stamp dance floors packed with shimmy
 **[Researching S. Rajaratnam](/vol-15/issue-1/apr-jun-2019/s-rajaratnam)** <br>
 Writing a biography can be tedious, painstaking work. But the effort can also be uplifting and inspirational, as *Irene Ng* discovered when she began researching the life of S. Rajaratnam. [(PDF)](/files/pdf/vol-15/v15-issue1_Rajaratnam.pdf)
 
-**[Stories of the Little People](/vol-15/issue-1/apr-jun-2019/storiesoflittlepeople)** <br>
+**[Stories of the Little People](/vol-15/issue-1/apr-jun-2019/stories-little-people)** <br>
 Oral history is often considered as “little” – personal accounts of humble folk, as opposed to “big” or written history on serious topics. But “little” does not mean negligible or inferior, says *Cheong Suk-Wai*. [(PDF)](/files/pdf/vol-15/v15-issue1_Little.pdf)
 
 **[Making History](/vol-15/issue-1/apr-jun-2019/making-history)** <br>
