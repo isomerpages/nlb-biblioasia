@@ -6,7 +6,6 @@ image: /images/Vol-15-issue-1/evidence-in-the-archives/01_encountering.jpg
 layout: post
 description: ""
 ---
-
 #### Who would have thought that obscure rainfall records from the 1960s would have a bearing on a landmark case before the International Court of Justice? **Eric Chin** explains the value of archival records in preserving and presenting evidence.
 
 <div style="background-color: white;"><br><img src="/images/Vol-15-issue-1/evidence-in-the-archives/01_encountering.jpg">Horsburgh Lighthouse on Pedra Branca island is clearly listed as a Singapore Rainfall Station on page 4 of the report, Meteorological Services Malaysia and Singapore: Summary of Observations for Malaya, Singapore, Sabah and Sarawak 1966. <i>Courtesy of National Archives of Singapore.</i></div>
@@ -57,8 +56,6 @@ For instance, in the proclamation made under the direction of Raffles dated 14 M
 
 Raffles’ Regulations III and VI set up a nascent magistracy, and the first notions of British-style justice was practised in Singapore until formal ties with English courts were cut in 1994.[^16] The reception of English law and its courts were formally confirmed in the Charters of Justice. The original copy of the 1855 Third Charter of Justice has been preserved by the NAS and is currently on display at the NAS exhibition, “Law of the Land: Highlights of Singapore’s Constitutional Documents”, at the former Chief Justice’s Chamber and Office, National Gallery Singapore.
 
-<div style="width:700px" style="background-color: white;"><img src="/images/Vol-15-issue-1/evidence-in-the-archives/03_encountering.jpg">A poster from the 1959 Legislative Assembly general election encouraging people to “vote to choose our government” as “Singapore is ours”. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
-
 The Third Charter of Justice provided for the post of the very first professional judge to be permanently located in Singapore – evidence of the island’s growing commercial and administrative importance by that time. Citizen archivist transcriptions, however, have provided evidence that the British did not necessarily have blind faith in their methods alone.
 
 Another citizen archivist transcription revealed that on 16 April 1862, long before the 1990s push towards “Singapore law to develop in a way most suited to its people’s needs”,[^17] then Governor of the Straits Settlements William Orfeur Cavenagh voiced serious misgivings about magistrates fresh from the English Bar who possessed scant local knowledge. In a letter addressed to the Secretary to the Government of India, he wrote:
@@ -66,6 +63,8 @@ Another citizen archivist transcription revealed that on 16 April 1862, long bef
 “I am unable to agree… as to the propriety of selecting Magistrates from the English Bar without any reference to local knowledge; although most readily acknowledging all the great advantages of a legal education as fitting its recipient for the performance of legal duties. I have long considered that a knowledge not only of the languages, but of the general character and habits of Orientals is not merely essential but absolutely necessary to enable an Englishman to satisfactorily dispense justice amongst our Asiatic fellow subjects.”[^18]
 
 2019 also sees the 60th anniversary of an event on the other end of the colonial era. In 1959, Singapore achieved self-government with an elected 51-seat Legislative Assembly. The positions of Governor and Chief Minister would be replaced with the Yang di-Pertuan Negara (Head of State) and Prime Minister respectively. In the run-up to the election that took place on 30 May 1959, the importance of voting was emphasised through colourful posters and election songs,[^19] encouraging people to “vote to choose our government” as “Singapore is ours”.
+
+<div style="width:700px" style="background-color: white;"><img src="/images/Vol-15-issue-1/evidence-in-the-archives/03_encountering.jpg">A poster from the 1959 Legislative Assembly general election encouraging people to “vote to choose our government” as “Singapore is ours”. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 The posters and songs preserved by the NAS serve as part of the evidence of the sights and sounds of an important but turbulent period, culminating with the archival document that has been imbued with symbolic value – the hastily typewritten Proclamation of Singapore in 1965.
 
@@ -76,8 +75,6 @@ Apart from holdings transferred from other government agencies, NAS has for a lo
 <div style="background-color: white;"><img src="/images/Vol-15-issue-1/evidence-in-the-archives/04_encountering.jpg">The typewritten Proclamation of Singapore document signed off by founding Prime Minister Lee Kuan Yew on 9 August 1965. This is another key document in the holdings of the National Archives. <i>Courtesy of the National Archives of Singapore.</i></div>
 
 These records from former British colonies were kept by the Foreign & Commonwealth Office and had not been available for public access until they were released in tranches from 2012. Similar records from the national archives of Australia and the United States have also been identified (and copied where permitted) as they provide different strands of evidence of Singapore’s colonial and post-colonial past as well as alternative perspectives of historical events. Through such steady work, the NAS seeks to be the primary and one-stop repository of Singapore content when it comes to archives from anywhere in the world.
-
-<div style="background-color: white;"><img src="/images/Vol-15-issue-1/evidence-in-the-archives/05_encountering.jpg">A typical staff workspace with simple wooden desk and chair amongst the archives at the National Archives and Records Centre at Lewin Terrace, 1971. <i>Courtesy of National Archives of Singapore.</i></div>
 
 #### **Oral History as Evidence**
 
@@ -100,6 +97,8 @@ Such was indeed required in the case of Singapore’s collective memory of the J
 It would be remiss when speaking of evidence in the archives not to pause and recognise that archivists, historians and other researchers are now painfully aware that archives can sometimes only offer an “archival sliver”.[^30] This may be partly attributed to the “avalanche of over documentation” (starting as far back as the mid-20th century[^31] and especially now in the digital age). Besides the indiscriminate disposal or deliberate destruction by creators of records,[^32] large gaps in archival records can also stem from careless appraisal methodologies or biases,[^33] the exclusion of the marginalised,[^34] and also the sheer failure by some to record transactions because of ignorance or deliberate acts by those wanting to be forgotten.[^35]
 
 The wealth and reliability of evidence from any archive is ultimately shaped and nurtured by archivists, conservators and administrative staff who, together, have to apply sound archival ethics, policy, preservation and standards.[^36] This started in Singapore some 50 years ago in 1968, when the National Archives and Records Centre was set up as an institution with its own dedicated mandate and “one Senior Archives Officer; two Clerical Assistants; two Archives Attendants; one Typist; one Binder; one Office Boy”.
+
+<div style="background-color: white;"><img src="/images/Vol-15-issue-1/evidence-in-the-archives/05_encountering.jpg">A typical staff workspace with simple wooden desk and chair amongst the archives at the National Archives and Records Centre at Lewin Terrace, 1971. <i>Courtesy of National Archives of Singapore.</i></div>
 
 Despite the modest numbers, it was a good start not least because the senior archives officer was Lily Loh (later Mrs Lily Tan), the first professionally trained archivist who would later be appointed director of the NAS from 1978 to 2001. She and her team of dedicated staff expanded operations to establish the first Oral History Unit, the first Audiovisual Archives Unit, and oversaw the move to the NAS’ current location at Canning Rise with its purpose-built conservation equipment and repositories based on international standards.
 
