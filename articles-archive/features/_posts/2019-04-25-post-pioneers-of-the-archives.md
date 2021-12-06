@@ -7,9 +7,9 @@ layout: post
 ---
 #### **Fiona Tan** tells us about the people who laid the bedrock of the National Archives of Singapore, along with details of how the institution has evolved since its inception in 1938.
 
-<div style="background-color: white;"><br><img src="/images/Vol-15-issue-1/pioneers-of-the-archives/01_pioneers.jpg">A staff sorting records at the repository in the Lewin Terrace premises of the National Archives and Records Centre (NARC) in 1970. <i>Image reproduced from Annual Report of the National Archives and Records Centre 1970.</i></div>
+<div style="background-color: white;"><br><img src="/images/Vol-15-issue-1/pioneers-of-the-archives/01a_pioneers.jpg">A staff sorting records at the repository in the Lewin Terrace premises of the National Archives and Records Centre (NARC) in 1970. <i>Image reproduced from Annual Report of the National Archives and Records Centre 1970.</i></div>
 
-“The man who is appointed to a post being created by the Straits Settlements Government will have a life-time job before him. An archivist is wanted.”[^1]
+<span style="display:block;text-align:center;">“The man who is appointed to a post being created by the Straits Settlements Government will have a life-time job before him. An archivist is wanted.”[^1]</span>
 
 In April 1938, an advertisement to recruit the first archivist for the Raffles Museum and Library was placed in *The Straits Times*, describing the position – with typically dry British wit – as a “life-time job”. One can assume that this phrase was not in reference to the permanent nature of the job, but to the scale and difficulty of the tasks that awaited the person who eventually filled the position.
 
@@ -72,13 +72,13 @@ In the early years, establishing the paper conservation department was a priorit
 
 Besides overseeing the NARC’s development, Anuar also led the institution in establishing ties with other archival institutions in the region. In 1969, the NARC joined the Southeast Asian Regional Branch of the International Council on Archives (SARBICA), which had been established the previous year. Anuar also contributed to a greater regional awareness of archival resources in Singapore, presenting a paper in April 1969 on the National Library and NARC’s research resources on Southeast Asia at the SARBICA conference held in Puncak, Indonesia.[^19] She also served as the vice-chairman of SARBICA’s executive board between 1971 and 1973, and as its chairman from 1973 to 1975.[^20]
 
-<div style="background-color: white;"><img style="width:700px" src="/images/Vol-15-issue-1/pioneers-of-the-archives/06_pioneers.jpg">Staff of the Raffles Library photographed in 1957. Between 1954 and 1967, the archives was a department under the Raffles Library, later renamed as the National Library. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
-
 Anuar held the position of director of the NARC until 7 February 1978, when a senior archives officer took over as acting director.
 
 #### **The First Professional Archivist: Lily Tan**
 
 In September 1967, Lily Tan left Singapore to pursue her studies in archives administration at the University College London under a Colombo Plan Scholarship.[^21] Upon her return and appointment as senior archives officer in late August 1968, the NARC officially began operations with a skeletal staff of eight people: Tan, two clerical assistants, two archives attendants, a typist, a binder and an office assistant.
+
+<div style="background-color: white;"><img style="width:700px" src="/images/Vol-15-issue-1/pioneers-of-the-archives/06_pioneers.jpg">Staff of the Raffles Library photographed in 1957. Between 1954 and 1967, the archives was a department under the Raffles Library, later renamed as the National Library. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 Ten years later, in 1978, Tan was promoted to acting director. In 1985, she became NARC’s director, and would lead the institution for over two decades until her retirement in 2001 – the institution’s longest-serving director to date.
 
@@ -126,7 +126,7 @@ The NAS has progressed a long way from its origins as a small archives unit in t
 <br><br>
 Mrs Kwek-Chew Kim Gek has spent the last 45 years at the National Archives of Singapore (NAS). Besides her wealth of institutional knowledge, Mrs Kwek holds the record of being its longest-serving staff. She retired as Deputy Director (Records Management) in 2014 and currently works part-time as a senior archivist. She relates some of her experiences:
 <br><br>
-<img style="width:500px" src="/images/Vol-15-issue-1/pioneers-of-the-archives/10_pioneers.jpg">Mrs Kwek-Chew Kim Gek with colleague, Assistant Archivist Yao Qianying, of the Records Management Department. This photo was taken in 2017 when the National Archives was vacating its premises at 1 Canning Rise for major renovations. <i>Courtesy of Mrs Kwek-Chew Kim Gek.</i>
+<img style="width:500px" src="/images/Vol-15-issue-1/pioneers-of-the-archives/10_pioneers.jpg">Mrs Kwek-Chew Kim Gek (left) with colleague, Assistant Archivist Yao Qianying, of the Records Management Department. This photo was taken in 2017 when the National Archives was vacating its premises at 1 Canning Rise for major renovations. <i>Courtesy of Mrs Kwek-Chew Kim Gek.</i>
 <br><br>
 <b>On joining the National Archives and Records Centre (NARC) – as the NAS was known back then – in 1974:</b>
 <br><br>
