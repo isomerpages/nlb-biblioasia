@@ -14,8 +14,6 @@ The National Archives of Singapore (NAS) houses an astonishing five million prin
 
 While the collection includes photographs from private sources, a far greater number come from government departments. Of these, the vast majority are transfers from the Photo Unit, a small government department staffed by professional photographers and with its own in-house dark room for processing negatives. The history of the Photo Unit can be traced back with certainty to 1949. The photos are identified by the source line “Ministry of Information and the Arts”[^1] (MITA).
 
-<div style="background-color: white;"><br><img src="/images/Vol-15-issue-1/the-way-we-were/02b_waywewere.jpg">Flat dwellers waiting for then Prime Minster Lee Kuan Yew during his tour of Tiong Bahru, Delta and Havelock housing estates in 1963. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
-
 The Photo Unit captured events, milestones and scenes of Singapore through the twilight years of the colonial era. With the attainment of self-government in 1959, the unit acquired a renewed sense of purpose: in the days before television, photographs were a vital means of communicating new ideas, goals and achievements. Given the rapid pace of change in Singapore’s physical, social and economic landscape, these black-and-white compositions from the 1950s and 60s offer not only invaluable documentation but also captivating, sometimes surprising, and occasionally nostalgic, glimpses of the way we were.
 
 #### **Beginnings**
@@ -39,6 +37,8 @@ Browsing through MITA’s online photograph collection from the 1950s is like ta
 The 1955 general election was the first time a majority of the seats in the Legislative Assembly were elected rather than appointed by the colonial authorities. After the election, the Public Relations Office was renamed the Department of Information Services on 1 January 1957, and relocated to the newly created Chief Minister’s Office. Photographs became increasingly important to government publications and publicity campaigns. Two photographers were on staff to “keep a record of public functions and of departmental activities and to print material for overseas distribution and for use in the publications of the Department or other government publications”. A generous 7,625 negatives were exposed during the year.[^5]
 
 Two years later, in the 1959 general election, Singapore attained full internal self-government when the People’s Action Party (PAP) won the majority of the seats in the Legislative Assembly. The new leaders were in a hurry to engage the hearts, minds and imaginations of people living in a complex multiracial society with divided loyalties and the legacy of colonial rule. Housing, education, the economy and jobs were all hot topics. New policies and programmes needed to be conceptualised and conveyed to the public.
+
+<div style="background-color: white;"><br><img src="/images/Vol-15-issue-1/the-way-we-were/02b_waywewere.jpg">Flat dwellers waiting for then Prime Minster Lee Kuan Yew during his tour of Tiong Bahru, Delta and Havelock housing estates in 1963. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **The Photo Unit Steps Up**
 
