@@ -6,7 +6,6 @@ image: /images/Vol-15-issue-1/when-disco-fever-raged/01_disco.png
 layout: post
 description: ""
 ---
-
 #### Pulsating music, strobe lights and postage-stamp dance floors packed with shimmying bodies. **Tan Chui Hua** gives you the lowdown on the history of the disco scene in Singapore.
 
 <div style="background-color: white;"><br><img style="width:500px" src="/images/Vol-15-issue-1/when-disco-fever-raged/01_disco.png">The 1977 hit film <i>Saturday Night Fever</i> epitomised the global discotheque scene in the 1970s and early 80s. Starring John Travolta in his breakout role and Karen Lynn Gorney, and featuring music by the Bee Gees, the film played in Singapore cinemas for weeks to sell-out crowds. Needless to say, discos here saw an immediate spike in patrons, with many replicating the slick moves of Tony Manero (the character played by Travolta) on the dance floor.</div>
@@ -38,6 +37,8 @@ There was a lull until 1969, when two disco clubs opened – Fireplace on Corona
 
 The warning came too late. When the hotel development boom of the late 1960s and early 70s descended upon Singapore, hoteliers caught on to the fact that having an in-house discotheque would be a sure-fire way to attract young Singaporeans looking for novel ways to entertain themselves. A slew of new discos opened in quick succession in various hotels in town: Ming Court’s Barbarella (1969), Equatorial’s Club Crescendo (1969), Cuscaden’s The Eye (1970), Hilton’s Spot Spot (1970), Shangri-La’s Lost Horizon (1971), Mandarin’s Boiler Room (1971) and several others.
 
+<div style="background-color: white;"><img style="width:500px" src="/images/Vol-15-issue-1/when-disco-fever-raged/04_disco.png">With the revival of discotheques in the late 1970s, the former Lost Horizon at Shangri-La Hotel was revamped to become Xanadu. Opened in 1981, the million-dollar discotheque boasted complex laser effects, a high-tech sound system and plush interior décor. <i>Courtesy of Shangri-La Hotel, Singapore.</i></div>
+
 Existing nightclubs and lounges, such as Pink Pussycat in Prince’s Hotel Garni, began rebranding themselves as discotheques with resident bands to draw the crowds. Psychedelic lighting and loud décor became must-haves. The hype rose to fever pitch when Pierre Trudeau, then Canada’s prime minister, was seen “getting down” on the dance floor with a local former model at Spot Spot during his visit to Singapore in January 1971 to attend the meeting of the Commonwealth Heads of Government.[^6] The press had a field day with the story.
 
 <div style="background-color: white;"><img style="width:500px" src="/images/Vol-15-issue-1/when-disco-fever-raged/02_disco.png">The Pink Pussycat at Prince’s Hotel Garni on Orchard Road began rebranding itself as a discotheque with resident bands to draw the crowds. Featured here is local band The Hi Jacks in a photo taken on 30 May 1973. <i>Source: The Straits Times © Singapore Press Holdings Limited. Reprinted with permission.</i></div>
@@ -63,8 +64,6 @@ Not to be outdone, Spot Spot plastered its walls with thousands of sparkly red s
 Discotheques began scouting for better, newer and more famous bands, many of them from overseas, to the point it was noted that “very few local bands can make it to the nightclub scene these days” as “there are so many bands around – some very good, some above average, others average and of course some below average”.[^13] Discotheques also began holding lucky draws, costume parties and games to bring in the crowds. The Boiler Room, for example, started weekly disc jockey contests and tied up with record companies to hold launch parties for new album releases.
 
 But the proverbial pot of gold, for most disco operators, turned out to be mere wishful thinking. Disco clubs became trapped in a web of spiralling costs. The disco set was, after all, made up of Singapore’s young, with plenty of aspiration but limited fiscal power. While popular bands cost more to hire, cover charges had to be priced affordably for young people. Gino’s, which had rebranded itself as Aquarius, was one of the few exceptions because it did not hire bands.[^14]
-
-<div style="background-color: white;"><img style="width:500px" src="/images/Vol-15-issue-1/when-disco-fever-raged/04_disco.png">With the revival of discotheques in the late 1970s, the former Lost Horizon at Shangri-La Hotel was revamped to become Xanadu. Opened in 1981, the million-dollar discotheque boasted complex laser effects, a high-tech sound system and plush interior décor. <i>Courtesy of Shangri-La Hotel, Singapore.</i></div>
 
 #### **Disco-on-the-Move**
 
@@ -118,8 +117,6 @@ For nightspots that remained opened, a long list of strict conditions was impose
 
 Mervyn Nonis, a musician with popular local band The X-periment, recalled those grim days. He said: “… all the clubs were just… All closed, you know, so there was no entertainment, you know. At all… You could just imagine the scene. All the bands were jobless….”[^32] And then, in a final death knell to the disco scene in Singapore, dancing was banned in most discotheques by end 1973.[^33]
 
-<div style="background-color: white;"><img style="width:700px" src="/images/Vol-15-issue-1/when-disco-fever-raged/08_disco.png">The X-periment, which was formed in 1967, performing at the Baron Night Club on Upper Serangoon Road where it held a lengthy residency. <i>Courtesy of Joseph C. Pereira.</i></div>
-
 These curbs hit the discotheques hard. The fierce competition among nightspots in the early 1970s had already taken a toll. Some, such as The Eye, tried to adapt by hiring extra guards to turn away undesirable patrons and raising cover charges and the prices of drinks. Some, such as Spot Spot, had already closed down in 1972 due to market stresses and increasing government surveillance. The others converted into cocktail lounges and bars that were less stringently monitored by the authorities.[^34]
 
 Nonis remembered that bands and DJs took turns to perform on the dance floor after the dance ban:
@@ -149,6 +146,8 @@ It had taken over a decade since Gino’s, but discos in Singapore had finally m
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>JUMPING ON THE BAND-WAGON</b>
 <br><br>
 In the early years of discotheques, bands were a big part of the attraction. Getting “better and better bands” was a strategy to hold the attention of fickle crowds.[^42] Popular local bands, such as The X-periment, Flybaits, The Hi Jacks, Blackjacks, the X’Quisites, and Heather and the Thunderbirds, landed lucrative contracts.[^43]
+<br><br>
+<img style="width:700px" src="/images/Vol-15-issue-1/when-disco-fever-raged/08_disco.png">The X-periment, which was formed in 1967, performing at the Baron Night Club on Upper Serangoon Road where it held a lengthy residency. <i>Courtesy of Joseph C. Pereira.</i>
 <br><br>
 For instance, in 1973, Heather and the Thunderbirds signed an 18-month contract worth $144,000 with The Pub in Marco Polo Hotel.[^44] Many local bands, after establishing themselves in Singapore, were offered attractive contracts to perform overseas in cities such as Hong Kong and Bangkok.[^45]
 <br><br>
