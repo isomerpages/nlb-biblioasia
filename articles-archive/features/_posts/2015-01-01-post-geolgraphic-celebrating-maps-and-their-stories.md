@@ -92,12 +92,6 @@ This particular project is an extension of Lim's previous solo-exhibition, "In S
 <img style="width:70%" src="/images/vol-10-issue-4/geo-geographic/Charles_Lim_with_Janice_Loo.jpg">
 Artist Charles Lim working on <i>seabook</i> with NL librarian, Janice Loo.
 </div>
-	
-<div style="background-color: white;">
-<br/>
-<img style="width:70%" src="/images/vol-10-issue-4/geo-geographic/Notes_Towards_A_Museum_Of_Cooking_Pot_Bay.jpg">
-Close-up of Michael Lee’s <i>Notes Towards a Museum of Cooking Pot Bay</i> (2010–11), from his artwork, <i>Bibliotopia</i>.
-</div>
 
 <div style="background-color: white;">
 <br/>
@@ -120,6 +114,11 @@ Making up the art component of "GeolGraphic" is "Mind the Gap", which presents t
 
 Michael Lee's research interest focuses on urban memory and fiction, emphasising their contexts and issues of loss. He translates his findings into diagrams and texts, in particular, the mind map. Lee finds the mind map powerful in generating ideas and organising vast amounts of data. In <i>Bibliotopia</i>, Lee uses the device of the mind map to uncover the "secret bookscape" of Singapore's book culture. Focusing on the genres of short fiction, horror and the teen novel through the literary output of Catherine Lim, Russell Lee and Adrian Tan, he seeks to draw out secrets that are hidden within, or exposed by, narratives on identity, adolescence and the ghostly in Singapore.
 	
+<div style="background-color: white;">
+<br/>
+<img style="width:70%" src="/images/vol-10-issue-4/geo-geographic/Notes_Towards_A_Museum_Of_Cooking_Pot_Bay.jpg">
+Close-up of Michael Lee’s <i>Notes Towards a Museum of Cooking Pot Bay</i> (2010–11), from his artwork, <i>Bibliotopia</i>.
+</div>
 
 #### *Outliers by Jeremy Sharma*
 In the installation work <i>Outliers</i>, by multidisciplinary artist Jeremy Sharma, are four white polystyrene blocks with undulating surfaces that capture in material form the signals of dying stars. When dying stars explode, their remnants (also known as pulsars) emit electromagnetic pulses that can be detected by a radio telescope on earth. These pulses are emitted until the star finally burns out, which could take anything between 10 and 100 million years. 
