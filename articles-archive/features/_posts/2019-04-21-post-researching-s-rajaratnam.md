@@ -7,7 +7,7 @@ layout: post
 ---
 #### Writing a biography can be tedious, painstaking work. But the effort can also be uplifting and inspirational, as **Irene Ng** discovered when she began researching the life of S. Rajaratnam.
 
-<div style="background-color: white;"><br><img style="width:500px" src="/images/Vol-15-issue-1/researching-s-rajaratnam/02_rajaratnam.jpg">S. Rajaratnam, c. 1970s. <i>S. Rajaratnam Collection, courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;"><br><img style="width:450px" src="/images/Vol-15-issue-1/researching-s-rajaratnam/02a_rajaratnam.jpg">S. Rajaratnam, c. 1970s. <i>S. Rajaratnam Collection, courtesy of National Archives of Singapore.</i></div>
 
 When I embarked on writing the biography of S. Rajaratnam in 2005, I did not realise that it would take over my life. A project that originally involved just one book became two volumes[^1] – one already published, another in the making – and a third, an anthology of Rajaratnam’s short stories and radio plays,[^2] published as a surprise baby in between. And who knows, there might be a fourth book.
 
@@ -57,6 +57,8 @@ In addition to the materials in the NAS, I was given special permission to acces
 
 In order to trace his earlier life in London, I visited King’s College, where Rajaratnam had studied law at his father’s behest, to retrieve his university records. I discovered, among other things, that, having lost all interest in law during the war, he dropped out of university in 1940 to pursue his passion for writing. I also spent time sifting through British colonial papers at the Public Records Office in Kew and the British Library in London.
 
+<div style="background-color: white;"><img style="width:400px" src="/images/Vol-15-issue-1/researching-s-rajaratnam/03_rajaratnam.jpg">S. Rajaratnam outside his flat at 12 Steele Road, London, 1930s. <i>Image reproduced from Ng, I. (2010). The Singapore Lion: A Biography of S. Rajaratnam. Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 327.59570092 NG).</i></div>
+
 All the materials I find shed new light on one or another aspect of my research. They add to the evidence – check one against another, weigh the biases, examine the angles, follow the trail. The evidence, however, is often complex and occasionally contradictory. After all, historical records themselves are not entirely neutral. Reconciling conflicting accounts and interpretations become a constant challenge.
 
 To give a simple example: on the fateful day of 7 August 1965, how did Rajaratnam travel from Singapore to Kuala Lumpur to meet Prime Minister Lee Kuan Yew where he received the shocking news of Singapore’s separation from Malaysia? It is a crucial point in my narrative as it is one of the darkest days in Rajaratnam’s political career. In his oral history interview, Rajaratnam said he travelled by plane. But there are conflicting accounts in other published sources. Then Minister for Social Affairs Othman Wok recalled driving Rajaratnam in his car to Temasek House in Kuala Lumpur. Lee himself recalled asking Rajaratnam to take a plane and not to inform anyone of his trip, but he was told years later of Othman’s recollection that they had travelled by car. Othman’s version is the one that has been used in the media. Now which version should I use, and how do I justify it?
@@ -64,8 +66,6 @@ To give a simple example: on the fateful day of 7 August 1965, how did Rajaratna
 All this places a greater demand on the skills of the writer to manage complexity and ambiguity in the narrative. However rigorous one’s research, one must be prepared for a certain degree of controversy.
 
 I find it most satisfying when I make a new discovery during the research process, or see a new pattern, or am able to add depth to a current historical record. Few people, for example, knew until fairly recently that the young Rajaratnam found fame as a fiction writer in London, where he lived for 12 years from 1935 to 1947. He wrote short stories that met with critical acclaim, and was regarded as a leading Indian short-story writer of English works at the time – a pioneer of Malayan writing in English.
-
-<div style="background-color: white;"><img style="width:400px" src="/images/Vol-15-issue-1/researching-s-rajaratnam/03_rajaratnam.jpg">S. Rajaratnam outside his flat at 12 Steele Road, London, 1930s. <i>Image reproduced from Ng, I. (2010). The Singapore Lion: A Biography of S. Rajaratnam. Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 327.59570092 NG).</i></div>
 
 I found out that his short stories were praised by no less than E.M. Forster in a BBC broadcast on 29 April 1942.[^3] His work also drew the attention of George Orwell, who invited Rajaratnam to write for the weekly BBC series, “Open Letters”, to explain the different aspects of war in the form of a letter to an imaginary person. In a broadcast introducing the series on 4 August 1942, the BBC announced that “Raja Ratnam, who is well known among the new Indian writers in Great Britain, will address his letter to a Quisling”.[^4]
 
@@ -87,7 +87,7 @@ I am sure mine was not the only voice calling for greater national support for o
 
 The challenge going forward is how the national archives can bring all its resources together to engage the public. It must be a place not only of reflection, but also of imagination. It must not become merely a venue for scholarly research, but a platform for public discussion: to help us understand the past, make sense of the present, and draw lessons for the future.
 
-Rajaratnam could not have described my thoughts on this subject more succinctly when he wrote in an unfinished speech I found among his private papers: “Coping with the future calls for a different kind of intellectual discipline – an imaginative leap, based on past facts, on how to shape a desirable future”.
+Rajaratnam could not have described my thoughts on this subject more succinctly when he wrote in an unfinished speech I found among his private papers: “Coping with the future calls for a different kind of intellectual discipline – an imaginative leap, based on past facts, on how to shape a desirable future.”
 
 <div style="background-color: white;">
 <br>
