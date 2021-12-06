@@ -92,7 +92,7 @@ Word got around. The hotels finally caved in, scaled back on live bands and enga
 
 In retrospect, the shift was unsurprising as Ellery noted:
 
-“Mobile disco is consistent and affordable. And we always got the latest pop tunes straight off the charts. We fly them in. … Sometimes I believe the hotel would have its own system already in, and we would probably add on a bit to it, the speaker systems and all that.”[^4]
+“Mobile disco is consistent and affordable. And we always got the latest pop tunes straight off the charts. We fly them in. … Sometimes I believe the hotel would have its own system already in, and we would probably add on a bit to it, the speaker systems and all that.”[^24]
 
 In an article that Brian Richmond wrote on the golden age of disco, he said:
 
