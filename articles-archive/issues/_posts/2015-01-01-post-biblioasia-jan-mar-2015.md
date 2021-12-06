@@ -34,4 +34,4 @@ The National Archives of Singapore’s Map Collection</b>](/vol-10/issue-4/jan-m
 [<b>Points of Departure: Charting Memories Through Collective Imaginations</b>](/vol-10/issue-4/jan-march-2015/points-of-departure)<br>“Points of Departure” is an exhibition that brings together the forgotten and unfamiliar in the hope of making the past less foreign.
 
 [<b>MusicSG: 
-A Repository of Singapore’s Musical Heritage</b>](/vol-10/issue-4/jan-march-2015/musical)<br><i>Joy Loh</i> provides the low down on MusicSG, a digital archive set up by the National Library Board to digitize, archive and provide access to all forms of published music works in Singapore.
+A Repository of Singapore’s Musical Heritage</b>](/vol-10/issue-4/jan-march-2015/musical)<br><i>Joy Loh</i> provides the low down on MusicSG, a digital archive set up by the National Library Board to digitise, archive and provide access to all forms of published music works in Singapore.
