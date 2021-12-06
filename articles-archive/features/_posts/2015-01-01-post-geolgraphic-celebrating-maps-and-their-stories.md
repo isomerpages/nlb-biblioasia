@@ -95,12 +95,6 @@ Artist Charles Lim working on <i>seabook</i> with NL librarian, Janice Loo.
 
 <div style="background-color: white;">
 <br/>
-<img style="width:70%" src="/images/vol-10-issue-4/geo-geographic/polystyrene_block.jpg">
-A polystyrene block is given a textured surface in Jeremy Sharma’s <i>Outliers</i> (2014–2015).
-</div>
-
-<div style="background-color: white;">
-<br/>
 <img style="width:70%" src="/images/vol-10-issue-4/geo-geographic/sherman_ong_work.jpg">
 Stills from Sherman Ong’s work, <i>the seas will sing and the wind will carry us (Fables of Nusantara)</i>.
 </div>
@@ -126,7 +120,12 @@ In the installation work <i>Outliers</i>, by multidisciplinary artist Jeremy Sha
 With the help of a pulsar scientist, Sharma has been collecting and categorising radiographic data of selected pulsars according to size, distance from earth and age at the time of discovery. This two-dimensional data was then converted into 3-D landscapes of valleys and peaks created by 3-D printing technology. 
 
 <i>Outliers</i> contemplates the profound space-time distance the signals of dying stars travel in order to communicate their death throes.
-	
+
+<div style="background-color: white;">
+<br/>
+<img style="width:70%" src="/images/vol-10-issue-4/geo-geographic/polystyrene_block.jpg">
+A polystyrene block is given a textured surface in Jeremy Sharma’s <i>Outliers</i> (2014–2015).
+</div>
 
 #### *the seas will sing and the wind will carry us (Fables of Nusantara) by Sherman Ong*
 
