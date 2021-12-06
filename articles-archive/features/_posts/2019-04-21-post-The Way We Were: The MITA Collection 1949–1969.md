@@ -6,20 +6,15 @@ image: /images/Vol-15-issue-1/the-way-we-were/01_waywewere.png
 layout: post
 description: ""
 ---
-
 #### Photographs can capture subtext that is sometimes more evocative than the intended subject, as **Gretchen Liu** discovered when she explored the early work of the Photo Unit. 
 
-<div style="background-color: white;"><br><img src="/images/Vol-15-issue-1/the-way-we-were/01_waywewere.png">(Top) A Chinese opera staged in Kampong Glam, 1966. <br>
-(Bottom) Flat dwellers waiting for then Prime Minister Lee Kuan Yew during his tour of Ting Bahru, Delta and Havelock housing estates in 1963.<br>
-<i>Both images from Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;"><br><img src="/images/Vol-15-issue-1/the-way-we-were/02a_waywewere.png">A Chinese opera staged in Kampong Glam, 1966. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 The National Archives of Singapore (NAS) houses an astonishing five million prints, slides and negatives that vividly tell the story of modern Singapore. With the Archives Online portal providing access to over a million of these images, anyone can easily explore Singapore’s visual heritage with an internet connection and a few clicks.
 
 While the collection includes photographs from private sources, a far greater number come from government departments. Of these, the vast majority are transfers from the Photo Unit, a small government department staffed by professional photographers and with its own in-house dark room for processing negatives. The history of the Photo Unit can be traced back with certainty to 1949. The photos are identified by the source line “Ministry of Information and the Arts”[^1] (MITA).
 
-<div style="background-color: white;"><br><img src="/images/Vol-15-issue-1/the-way-we-were/02_waywewere.jpg">(Left) A Chinese opera staged in Kampong Glam, 1966. <br>
-(Right) Flat dwellers waiting for then Prime Minster Lee Kuan Yew during his tour of Tiong Bahru, Delta and Havelock housing estates in 1963. <br>
-<i>Both images from Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;"><br><img src="/images/Vol-15-issue-1/the-way-we-were/02b_waywewere.jpg">Flat dwellers waiting for then Prime Minster Lee Kuan Yew during his tour of Tiong Bahru, Delta and Havelock housing estates in 1963. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 The Photo Unit captured events, milestones and scenes of Singapore through the twilight years of the colonial era. With the attainment of self-government in 1959, the unit acquired a renewed sense of purpose: in the days before television, photographs were a vital means of communicating new ideas, goals and achievements. Given the rapid pace of change in Singapore’s physical, social and economic landscape, these black-and-white compositions from the 1950s and 60s offer not only invaluable documentation but also captivating, sometimes surprising, and occasionally nostalgic, glimpses of the way we were.
 
@@ -34,6 +29,8 @@ The state of the health of the population was just one of many troubling issues.
 A first small step was taken on 1 April 1948 when the colonial structure was amended to include a Legislative Council comprising several elected local members. Public opinion now mattered, and photography was perceived as having a useful role to play.
 
 “The creation of a public relations branch was a tacit recognition of the large and legitimate part which public opinion must play in shaping the future of the Colony,” advised the 1948 Singapore annual report. The report acknowledged the need for the government “to keep the public informed of its policies and of the administrative details and functions arising out of the carrying out of those policies at a time of ever-growing public interest in public affairs and a readiness to assume responsibility for them”.[^2] The authorities were also cognisant of the need to instill allegiance by spinning a positive light on its affairs to promote “a common and active loyalty to the Colony, its security and its welfare”.[^3]
+
+<div style="background-color: white;"><img style="width:700px" src="/images/Vol-15-issue-1/the-way-we-were/07_waywewere.png">Fishermen with the day’s catch, 1951. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 Browsing through MITA’s online photograph collection from the 1950s is like taking a slow journey through a very, very different Singapore. There are the expected official events and VIPs but also plenty of images that offer a time capsule of the island and everyday life, and youthful versions of familiar faces. Many of these images were first displayed in official “photo boxes” erected around the island. Back then, photo boxes – literally glass cases displaying important notices and photographs – were used by the government as a means to disseminate information to the public. In 1953, there were 53 such photo boxes and, by 1956, the number had increased to 93.[^4]
 
@@ -71,8 +68,6 @@ The Photo Unit has, however, continued in its work to photograph Singapore. Toda
 
 Cameras are government-issued – from Rolleiflex film cameras in the 1950s to Leica cameras from 1965, and Canon digital cameras today. Black-and-white film continued to be used until the 1990s, but overlapped with and was eventually replaced by the use of colour film. The switch to digital cameras took place in the early 2000s. Each year, the unit organises its collection of photographs for transfer to the NAS where they are catalogued and made accessible to the public. In the early days, negatives were sent together with a printed contact sheet for easy reference. Today, the files are saved in compact discs. Technology has changed, but there is one endearing example of continuity: daily assignments are still manually recorded in an office diary.
 
-<div style="background-color: white;"><img style="width:700px" src="/images/Vol-15-issue-1/the-way-we-were/07_waywewere.png">Fishermen with the day’s catch, 1951. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
-
 #### **Capturing the Bigger Scene**
 
 A photograph captures a moment in time and can be rich in unintended documentation – background shophouses, littered streets, barefoot children. In striving for the perfect shot, many of the less-than-perfect photographs have a gritty spontaneity that seem to fit the subject and the times. As William Henry Fox Talbot (1800–77), the English scientist and inventor who was one of the pioneers of photography, observed in *The Pencil of Nature*, the first photographically illustrated book published commercially: “It frequently happens, moreover – and this is one of the charms of photography – that the operator himself discovers on examination, perhaps long afterwards, that he had depicted many things he had no notion of at the time.”[^13]
@@ -81,7 +76,6 @@ That the photographs from this era were taken with the idea of swaying public op
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Vol-15-issue-1/the-way-we-were/gretchen.png">
 <b>Gretchen Liu</b> is a writer and former book editor with an interest in visual heritage. She is the author of <i>Singapore: A Pictorial History 1819–2000</i>. Her work on other Singapore book projects has often included – most enjoyably – research in the National Archives.
 </div>
 
