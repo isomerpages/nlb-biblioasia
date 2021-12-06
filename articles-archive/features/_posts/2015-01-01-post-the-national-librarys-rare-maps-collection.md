@@ -136,7 +136,7 @@ This wall map shows the trade route from Siam to Batavia and then to Europe thro
 <br><br>
 <img src="/images/vol-10-issue-4/raremap/Sincapour.jpg">*L’Asie dressée sur les observations de M.rs de l’Académie Royale de Sciences &amp; de Sanson, Nolin, Du Fer, De L’Isle &amp; principalement sur la carte que monsieur N: Witsen Bourgemaistre &amp;c. &amp;c. a donneé au public &amp; sur les memoires les plus recens et mis au jour*, Johannes Covens and Cornelis Mortier (Amsterdam, circa 1730).</span>
 
-<img style="width:100px;height:100px;margin-bottom:-30px; border-radius:100%; box-shadow: 2px 3px 1px #424242;" src="/images/vol-10-issue-4/raremap/Magess.jpg">
+<img style="width:auto;height:100px;margin-bottom:-30px; border-radius:100%; box-shadow: 2px 3px 1px #424242;" src="/images/vol-10-issue-4/raremap/Magess.jpg">
 <p style="font-size:15px;"><b>Makeswary Periasamy</b> is a Senior Librarian with the National Library of Singapore. She selects and acquires rare materials for the National Library and also overseas the map collections of the library. Makeswary has several years of experience in cataloguing, heritage collections management, reference and research, as well as in managing large-scale preservation projects.</p>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-10/issue-4/jan-mar-2015/"><center>Back to Issue</center></a>
