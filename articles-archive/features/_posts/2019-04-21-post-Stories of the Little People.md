@@ -132,7 +132,7 @@ And national servicemen today, who break off corners of their styrofoam lunchbox
 
 This last point about how the same experiences can bridge generations would earn Paul Thompson’s approval. Noting how all history began with the oral tradition, and how people still enjoy accounts of lived experiences, Thompson’s sagely advice that “Oral history is the newest and oldest form of history” are words that all writers of history would do well to remember when they begin their research.
 
-<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;">Cheong Suk-Wai’s book, <i>All You Have to Do is Listen: Recordings from the Oral History Centre</i>, based on the collection of the National Archives of Singapore’s Oral History Centre and published by the National Archives and World Scientific Publishing, will be out in July 2019.</span>
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;">Cheong Suk-Wai’s book, <i>The Sound of Memories: Recordings from the Oral History Centre, Singapore</i>, based on the collection of the National Archives of Singapore’s Oral History Centre, was published by the National Archives and World Scientific Publishing in 2019. The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (<a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203885796">Call nos. RSING 959.57 CHE and SING 959.57 CHE</a>). </span>
 
 <div style="background-color: white;">
 <br>
@@ -166,7 +166,7 @@ This last point about how the same experiences can bridge generations would earn
 
 [^11]:Lee, P. (2002, March 20). *[Oral history interview with Lee Seng Teik (Prof)](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/671abed9-1160-11e3-83d5-0050568939ad?keywords=Lee%20Seng%20Teik&keywords-type=all)* [Recording no. 002632/11/6]. Retrieved from National Archives of Singapore website.
 
-[^12]:Thompson, P. (2000). *The voice of the past: Oral history* (p. 25). New York: Oxford University Press. Retrieved from NLB’s eResources website.
+[^12]:Thompson, P. (2000). *The voice of the past: Oral history* (p. 25). New York: Oxford University Press. Retrieved from NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
 
 [^13]:Tan, C.J. (2019, February 13). When history leaps from textbooks onto our streets and into our lives. *The Straits Times*. Retrieved from *The Straits Times* website.
 
