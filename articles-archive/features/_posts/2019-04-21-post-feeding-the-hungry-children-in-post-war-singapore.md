@@ -116,7 +116,7 @@ People’s Restaurants catered primarily to wage earners wanting a mid-day meal 
 
 [^1]:Cheng, S.H. (1991). Economic change and industrialization. In E.C.T. Chew & E. Lee (Eds.), *[A history of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5914108)* (p. 182). Singapore: Oxford University Press. (Call no.: RSING 959.57 HIS-[HIS]) 
 
-[^2]:Kratoska, P.H. (1988, March). The post-1945 food shortage in British Malaya. Journal of Southeast Asian Studies, 19(1), 27–47, pp. 32–33. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website. 
+[^2]:Kratoska, P.H. (1988, March). *The post-1945 food shortage in British Malaya. Journal of Southeast Asian Studies, 19* (1), 27–47, pp. 32–33. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website. 
 
 [^3]:Ho, C.T. (2013, October–December). Communal feeding in post-war Singapore. *[BiblioAsia](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx), 9* (3), 2–7; Foo, K.L. (1981, December 4). *[Oral history interview with Thomas Percy Ferguson McNeice](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/d/df4a2687-115d-11e3-83d5-0050568939ad-OHC000099_012/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png)* [Transcript of recording no. 000099/22/12]. Retrieved from National Archives of Singapore website. 
 
