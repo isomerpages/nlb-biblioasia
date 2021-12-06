@@ -92,13 +92,6 @@ This particular project is an extension of Lim's previous solo-exhibition, "In S
 <img style="width:70%" src="/images/vol-10-issue-4/geo-geographic/Charles_Lim_with_Janice_Loo.jpg">
 Artist Charles Lim working on <i>seabook</i> with NL librarian, Janice Loo.
 </div>
-
-<div style="background-color: white;">
-<br/>
-<img style="width:70%" src="/images/vol-10-issue-4/geo-geographic/sherman_ong_work.jpg">
-Stills from Sherman Ong’s work, <i>the seas will sing and the wind will carry us (Fables of Nusantara)</i>.
-</div>
-
 	
 #### **Mind the Gap: Mapping the Other** 
 
@@ -130,6 +123,12 @@ A polystyrene block is given a textured surface in Jeremy Sharma’s <i>Outliers
 #### *the seas will sing and the wind will carry us (Fables of Nusantara) by Sherman Ong*
 
 Sherman Ong is a filmmaker, photographer and visual artist whose practice centres on the relationship between place and the human condition. In this video installation, he uses the documentary/ethnographic film genre to tell stories of migration, transborder identities, myths and memory in island Southeast Asia. The histories and contemporary stories of the region are explored through the stories of nine individuals featured in a series of video vignettes. The stories include an Acehnese living in Malaysia recounting the loss of his family in the Asian tsunami of 2004; a Peranakan (Straits Chinese) woman describing her life of servitude while waiting for the "right" man to come along; and a Chinese woman arriving in Singapore in search of a better life.
+
+<div style="background-color: white;">
+<br/>
+<img style="width:70%" src="/images/vol-10-issue-4/geo-geographic/sherman_ong_work.jpg">
+Stills from Sherman Ong’s work, <i>the seas will sing and the wind will carry us (Fables of Nusantara)</i>.
+</div>
 	
 <div style="background-color: white;">
 <br>
