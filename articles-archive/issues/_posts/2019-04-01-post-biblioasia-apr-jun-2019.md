@@ -32,7 +32,7 @@ Desperate times call for desperate measures. *Lee Geok Boi* trawls the oral hist
 **[The Way We Were: The MITA Collection 1949–1969](/vol-15/issue-1/apr-jun-2019/the-way-we-were)** <br>
 Photographs can capture subtext that is sometimes more evocative than the intended subject, as *Gretchen Liu* discovered when she explored the early work of the Photo Unit. [(PDF)](/files/pdf/vol-15/v15-issue1_Way.pdf)
 
-**[When Disco Fever Raged](/vol-15/issue-1/apr-jun-2019/whendiscofeverraged)** <br>
+**[When Disco Fever Raged](/vol-15/issue-1/apr-jun-2019/disco-fever)** <br>
 Pulsating music, strobe lights and postage-stamp dance floors packed with shimmying bodies. *Tan Chui Chua* gives you the lowdown on the history of the disco scene in Singapore. [(PDF)](/files/pdf/vol-15/v15-issue1_Disco.pdf)
 
 **[Researching S. Rajaratnam](/vol-15/issue-1/apr-jun-2019/s-rajaratnam)** <br>
