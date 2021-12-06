@@ -8,7 +8,7 @@ April 2019 is a special month for the National Archives of Singapore (NAS). Afte
 
 This special edition of *BiblioAsia* puts the spotlight on all things archives. In his op-ed, [Dr Shashi Jayakumar](/vol-15/issue-1/apr-jun-2019/lookingbackforward) describes how recent initiatives undertaken by the NAS prepare the organisation – as well as Singapore – for the future. [Eric Chin](/vol-15/issue-1/apr-jun-2019/evidence-in-archives) examines the role of the archives in providing evidence and the value this has for Singapore – from resolving the landmark Pedra Branca dispute to helping bring the past to life for today’s generation.
 
-[Fiona Tan](/vol-15/issue-1/apr-jun-2019/pioneers-of-archives) remembers some of the pioneers who started the archives in Singapore, Mark Wong interviews an archives veteran to glean insights into her 45-year career, and [Abigail Huang](/vol-15/issue-1/apr-jun-2019/building-history) charts the timeline of the archives buildings over the years (we did say this issue is about the archives!). [Cheong Suk-Wai](/vol-15/issue-1/apr-jun-2019/storiesoflittlepeople) stresses the importance of oral history records and tells us why the life of a humble tailor matters as much as that of the tycoon.
+[Fiona Tan](/vol-15/issue-1/apr-jun-2019/pioneers-of-archives) remembers some of the pioneers who started the archives in Singapore, Mark Wong interviews an archives veteran to glean insights into her 45-year career, and [Abigail Huang](/vol-15/issue-1/apr-jun-2019/building-history) charts the timeline of the archives buildings over the years (we did say this issue is about the archives!). [Cheong Suk-Wai](/vol-15/issue-1/apr-jun-2019/stories-little-people) stresses the importance of oral history records and tells us why the life of a humble tailor matters as much as that of the tycoon.
 
 The Japanese Occupation remains a dark chapter in our history, and three essays touch on this period and its aftermath. [Kwok Kian Woon](/vol-15/issue-1/apr-jun-2019/unresolved-past) reflects on the tragedy of war and why it is important to remember. [Lee Geok Boi](/vol-15/issue-1/apr-jun-2019/wartime-victuals) pieces together oral history interviews to paint a grim picture of hunger and deprivation during those difficult years. The problem didn’t go away when the war ended: the British had to set up children’s feeding centres to address malnutrition, as [Cheryl-Ann Low](/vol-15/issue-1/apr-jun-2019/feeding-the-hungry) discovered.
 
@@ -20,10 +20,10 @@ Since 2012 – when the NAS became part of the National Library Board – the li
 
 <sup>*<i>Southeast Asia Regional Branch of the International Council on Archives</i></sup>
 
-**Tan Huism**<br>
+**Ms Wendy Ang**<br>
+Director<br>
+National Archives of Singapore
+
+**Ms Tan Huism**<br>
 Director<br>
 National Library
-
-**Wendy Ang**<br>
-Director<br>
-National Archives Singapore
