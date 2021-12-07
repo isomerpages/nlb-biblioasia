@@ -38,7 +38,7 @@ By the early 20th century, the Raffles Library and Museum had amassed an impress
 
 During the Japanese Occupation between 1942 and 1945, the Raffles Library and Museum was renamed Syonan Hakubutsu Kan, and the library as Syonan Tosyokan. Fortunately, the library suffered only minor losses under the Japanese over the next three and a half years. Although some 500 reference books were looted from its collection during this time, the more valuable items were kept safe and out of sight from the Japanese authorities.
 
-<div style="background-color: white;"><br><img src="/images/vol-11-issue-4/the-rare-materials-collection/03_rarematerials.jpg">A variety of library stamps used over the decades. These include stamps of the Singapore Library (1844–74), Raffles Library (1874–1955), Syonan Library (when Singapore was under Japanese Occupation, 1942–45) and the National Library (1960 onwards). <i>All rights reserved, National Library Board, Singapore.</i></div>
+<div style="background-color: white;"><img style="width:500px" src="/images/vol-11-issue-4/the-rare-materials-collection/03_rarematerials.jpg">A variety of library stamps used over the decades. These include stamps of the Singapore Library (1844–74), Raffles Library (1874–1955), Syonan Library (when Singapore was under Japanese Occupation, 1942–45) and the National Library (1960 onwards). <i>All rights reserved, National Library Board, Singapore.</i></div>
 
 
 #### **The Post-war Years**
