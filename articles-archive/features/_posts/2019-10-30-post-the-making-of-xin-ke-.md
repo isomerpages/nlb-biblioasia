@@ -40,9 +40,7 @@ In order to reach wider audiences, many silent Chinese movies exported from Shan
 The English intertitles numbered 6 to 52, which are reproduced below, have been translated from the extant Chinese intertitles rendered in traditional Chinese characters.
 <br><br>
 Revised from a script originally written by Chen Xuepu (陈学溥), these title cards were published together with the film’s synopsis in the local newspaper, <i>Sin Kuo Min Press</i> (新国民日报), on 26 November 1926. When the screenplay underwent a second revision and was published in 1927, the new intertitles were – as far as present research has revealed – not included alongside the synopsis.
-</span>
-
-<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
+<br><br>
 Zhang Tianxi, an entrepreneur who runs a rubber plantation business.
 	<br><br>
 经营树胶种植之实业家，张天锡。
@@ -240,10 +238,10 @@ Despite the name, “silent” films were almost always accompanied by live back
 	Slide, A. (2013). <i>The new historical dictionary of the American film industry</i> (p. 197). New York: Routledge. (Not available in NLB holdings)
 </span>
 
-Between December 1925 and February 1926, when he was about 24 years old, Liu travelled to China to observe the educational, industrial and film industries of the country. Filmmaking was entering a golden age in Shanghai, with local filmmakers taking inspiration from their Chinese roots and the volatile social and political circumstances of the time.
-
 <img style="width: 550px; height: 360px;" src="/images/Vol-15-issue-3/the-making-of-xin-ke/XinKe4.JPG">
 <div style="background-color: white;">An example of a film title card in Chinese and English from the 1920s. Illustration by Dan Wong, based on a still from Hou Yao’s film, <i>A Poet from the Sea</i> (1927).</div>
+
+Between December 1925 and February 1926, when he was about 24 years old, Liu travelled to China to observe the educational, industrial and film industries of the country. Filmmaking was entering a golden age in Shanghai, with local filmmakers taking inspiration from their Chinese roots and the volatile social and political circumstances of the time.
 
 The booming Shanghainese film industry encouraged Liu to establish the Anglo-Chinese Film Company (中西影片公司) in Singapore to distribute Shanghai-made films. Not content with playing a passive role in the film business, Liu co-founded Nanyang Liu Beijin Independent Film Production Company (南洋刘贝锦自制影片公司; also known as Nanyang Low Poey Kim Motion Picture Co.) at 12 Pekin Street. His intention was to produce Chinese films with a “Nanyang” flavour and showcase local talents. Liu’s start-up became the first local film production company in Singapore and Malaya, and one of the earliest in Southeast Asia.[^9]
 
