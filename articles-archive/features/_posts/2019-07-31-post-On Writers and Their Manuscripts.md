@@ -5,7 +5,6 @@ permalink: /vol-15/issue-2/jul-sep-2019/writers-manuscripts/
 layout: post
 description: ""
 ---
-
 #### No great work of literature is completed in just one draft. In an age where writers have gone paperless, novelist **Meira Chand** ponders over the value of manuscripts, and what they might reveal about a writer’s thought process.
 
 <img src="/images/Vol-15-issue-2/on-writers-and-manuscripts/Writers1.JPG">
@@ -21,7 +20,7 @@ A flow and urgency were apparent in the writing, the dark hatching of correction
 
 This moment is beautifully described by Agatha Christie:
 
-You start into it, inflamed by an idea, full of hope, full     indeed of confidence… know just how you are going to   write it, rush for a pencil, and start in an exercise book buoyed up with exaltation. You then get into difficulties, don’t see your way out, and finally manage to accomplish more or less what you first meant to accomplish, though losing confidence all the time. Having finished it, you know it is absolutely rotten. A couple of months later you wonder if it may not be all right after all.
+“You start into it, inflamed by an idea, full of hope, full indeed of confidence… know just how you are going to   write it, rush for a pencil, and start in an exercise book buoyed up with exaltation. You then get into difficulties, don’t see your way out, and finally manage to accomplish more or less what you first meant to accomplish, though losing confidence all the time. Having finished it, you know it is absolutely rotten. A couple of months later you wonder if it may not be all right after all.”
 
 Whenever I pick up, in a library or bookshop, the published volumes of those very manuscripts I had gazed at in awe in the British Museum – still being printed and read by modern readers – I can only marvel at the unchanging quality of the writer’s imagination through time. These memories came back to me recently in Singapore when I donated my own manuscripts and associated research materials to the National Library.
 
@@ -46,9 +45,6 @@ In more modern times, the Polish Jewish writer Bruno Schultz, aware of the threa
 
 Following her suicide in 1963, Sylvia Plath’s estranged husband, Ted Hughes, destroyed her last writings because he did not wish their children to read the contents. Similarly, William Blake’s literary executor deliberately destroyed some of his works, believing that they were inspired by the Devil no less.
 
-<img style="width: 550px; height: 360px;" src="/images/Vol-15-issue-2/on-writers-and-manuscripts/Writers3.JPG">
-<div style="background-color: white;">Some of the manuscripts and ephemera for The Painted Cage that Meira Chand donated to the National Library. Work on The Painted Cage started several years prior to its publication in 1986. She also visited museums and heritage sites in Japan to gather information on foreigners who had lived there in the 19th century as part of her research.</div>
-
 Many writers, such as James Joyce, destroy their own work for reasons known only to them. Joyce destroyed an early play, *A Brilliant Career*, leaving just the title page with the words “To my own soul I dedicate the first true work of my life”. The poet Philip Larkin kept very personal diaries throughout his life, but wished them destroyed upon his death as he did not want controversial elements of his life to be revealed. His request was honoured by his long-time secretary, who burned the lot.
 
 My own early manuscripts were not lost for any such dramatic reason; I had just forgotten where I had stored them.
@@ -59,7 +55,7 @@ In the boxes and suitcase that I unpacked upon my return to Singapore, the many 
 
 It was a strange feeling to open up those old dog-eared exercise books, to look down at the flow of my own firm writing, and to see the pressure of emotion, the urgency to capture the torrent of thoughts, the cross-hatching of corrections, the smears and finger-marks, the stain of a coffee cup. And remembering how I had stood before the writings of Dickens and so many other literary immortals in the Reading Room of the British Museum so long ago, I felt humbled to have shared with every writer across time, in my own very small way, the miracle of our human imagination. Walt Whitman described it most evocatively:
 
-“The secret of it all, is to write in the gush, the throb, the flood of the moment – to put things down without deliberation – without worrying about their style – without waiting for a fit time and place… By writing at the instant, the very heartbeat of life is caught”.
+“The secret of it all, is to write in the gush, the throb, the flood of the moment – to put things down without deliberation – without worrying about their style – without waiting for a fit time and place… By writing at the instant, the very heartbeat of life is caught.”
 
 Philosophers have examined the miracle of the imagination across the ages, from Sophocles to Paracelsus to those of our modern times. Breaking with earlier ideas about the source of the imagination, the philosopher Immanuel Kant saw it as the hidden condition of all knowledge. He speaks of it as being transcendental, of grounding the objectivity of the object in the subjectivity of the subject. To Kant, the imagination preconditions our very experience of the world, rather than coming from a transcendent place beyond man, as some earlier philosophers suggested.
 
@@ -82,10 +78,11 @@ Dr Meira Chand’s first donation to the National Library, Singapore, in 2014 in
 <br><br>
 Her most recent donation in 2018 includes typescripts of <i>The Bonsai Tree</i> (John Murray: London, 1983), a novel about a young English woman who marries the Japanese heir to a textile empire and her many travails at a time when foreigners were reviled by conservative Japanese society. The author’s reworked editions and handwritten markings on these typescripts offer a glimpse into the painstaking process that goes into the birth of a literary work. The <i>British Book News</i> stated in October 1983 that, “<i>The Bonsai Tree</i> is a considerable achievement both as a novel and as a social document…”
 <br><br>
-	<img style="width: 450px; height: 330px;" src="/images/Vol-15-issue-2/on-writers-and-manuscripts/Writers4.JPG">The Bonsai Tree
-The author’s copious markings in her own handwriting on the time-ripened pages of her manuscripts for her novel, <i>The Bonsai Tree</i>, offer a glimpse into the painstaking creative process. Previously published by John Murray (London) in 1983, <i>The Bonsai Tree</i> was reissued by Marshall Cavendish (Singapore) in 2018. The novel was longlisted for the Booker Prize in 1983.
+	<img style="width: 450px; height: 330px;" src="/images/Vol-15-issue-2/on-writers-and-manuscripts/Writers4.JPG">The author’s copious markings in her own handwriting on the time-ripened pages of her manuscripts for her novel, <i>The Bonsai Tree</i>, offer a glimpse into the painstaking creative process. Previously published by John Murray (London) in 1983, <i>The Bonsai Tree</i> was reissued by Marshall Cavendish (Singapore) in 2018. The novel was longlisted for the Booker Prize in 1983.
 	<br><br>
 While living in Japan, the author visited various museums and heritage sites to gather information for her early novels. These Japanese- and English-language ephemera – including brochures and booklets – on old European-style mansions inhabited by expatriates in Japan from the mid-19th to early 20th-century were donated to the National Library, along with a reproduction of a 1865 plan of the Yokohama Foreign Settlement. The author used these materials as research for <i>The Painted Cage</i> (Century Hutchinson: London, 1986), a murder mystery set in 1890s Yokohama that was longlisted for the Booker Prize in 1986 and reissued by Marshall Cavendish (Singapore) in 2018.
+	<br><br>
+	<img style="width: 550px; height: 360px;" src="/images/Vol-15-issue-2/on-writers-and-manuscripts/Writers3.JPG">Some of the manuscripts and ephemera for <i>The Painted Cage</i> that Meira Chand donated to the National Library. Work on <i>The Painted Cage</i> started several years prior to its publication in 1986. She also visited museums and heritage sites in Japan to gather information on foreigners who had lived there in the 19th century as part of her research.</div>
 <br><br>
 Meira Chand’s authorial drafts and research materials capture the magic of a writer’s creative process and provide a fascinating behind-the-scenes peek into her works. One of the key functions of the National Library is the collection and preservation of documentary materials relating to Singapore’s history and heritage. Dr Chand’s donation to the library’s Donor Collection augments the growing collection of research materials gifted by authors associated with Singapore’s literary development.
 </span>
