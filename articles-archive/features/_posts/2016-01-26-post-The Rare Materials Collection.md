@@ -77,7 +77,7 @@ The collection covers mainly geography, history, languages and literature, relig
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Vol-15-issue-1/old-world-amusement-parks/jessie-yak.png">
+<img style="width: 100px; height: 100px;" src="/images/vol-11-issue-4/the-rare-materials-collection/ong_eng_chuan1.png">
 <b>Ong Eng Chuan</b> is Senior Librarian (Exhibitions, Curation & Rare Collection) at the National Library of Singapore. His main responsibility is managing the library’s Rare Materials Collection, which currently numbers more than 11,000 items.
 </div>
 
