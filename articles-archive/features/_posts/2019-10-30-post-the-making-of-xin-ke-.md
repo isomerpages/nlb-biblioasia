@@ -235,7 +235,7 @@ Despite the name, “silent” films were almost always accompanied by live back
 <br><br>
 <b>Reference</b>
 <br><br>
-	Slide, A. (2013). <i>The new historical dictionary of the American film industry</i> (p. 197). New York: Routledge. (Not available in NLB holdings)
+	Slide, A. (2013). <i>The new historical dictionary of the American film industry</i> (p. 197). New York: Routledge. (Not available in NLB's holdings)
 </span>
 
 <img style="width: 550px; height: 360px;" src="/images/Vol-15-issue-3/the-making-of-xin-ke/XinKe4.JPG">
