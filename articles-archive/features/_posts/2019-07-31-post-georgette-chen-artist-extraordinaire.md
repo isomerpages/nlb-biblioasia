@@ -15,10 +15,6 @@ Some writings, like manifestos and declarations, tell us about the ideas behind 
 
 The celebrated Singaporean artist Georgette Chen (1906–93) also wrote extensively. Chen’s achievements as an artist are widely recognised: her lively oil paintings of the places and people of Singapore at a formative time in its history have cemented her status as one of the nation’s most important first-generation artists; she was also a respected art educator for 27 years and a Cultural Medallion recipient. Less well known, however, is her personal story, one that spans wars and revolutions, triumph and tragedy, and loves lost and found.
 
-<img src="/images/Vol-15-issue-2/artist-extraordinaire/Artist2.JPG">
-<div style="background-color: white;">(Left) Georgette Chen (seated rightmost in the first row) at the Horace Mann School, New York, 1923. Chen studied in private schools around the world. She received her primary education at the Lycée Jules-Ferry in Paris, followed by Horace Mann School in New York, the exclusive McTyeire School for Girls in Shanghai, and the Art Students League in New York, before studying art in Paris. <i>Image reproduced from Chia, J. (1997). Georgette Chen. Singapore: Singapore Art Museum. (Call no.: RSING q759.95957 CHI).</i><br>
-(Right) Georgette Chen and her first husband, Eugene Chen, whom she married in 1930. Date of photo unknown. <i>Courtesy of National Gallery Singapore.</i></div>
-
 #### **A Life Less Ordinary**
 
 “I often sit quietly in the silence of the night and wonder at the mysterious drama that is life…”[^1]
@@ -30,6 +26,9 @@ Chen’s father had encouraged her interest in art since young, even engaging a 
 She recalled of her childhood: “My father expected me to study Chinese painting, but I had a different idea. I told him I wanted to study the oil medium, which would enable me to paint everything around me, people, food, flowers, salted ducks, sampans, peasants and potatoes”.[^2] On another occasion, she remembered her father “impatiently enumerat[ing] the long list of Chinese vegetables which could be painted. He wanted to know why I insisted on painting the foreign potato”.[^3]
 
 Chen’s foundation in oil painting was further developed when she studied art in New York (1926–27) and then Paris (1927–33). Her time in the French capital was perhaps the most significant. The City of Light was not unfamiliar to Chen; having spent part of her childhood there, she spoke fluent French and was well acquainted with the sights and sounds of Paris. Chen counted the Tuileries Garden and Parc Monceau among her favourite childhood haunts and, decades later, would still delightfully recall riding on the merry-go-round at the park and feeding her favourite swans at the Tuileries.
+
+<img src="/images/Vol-15-issue-2/artist-extraordinaire/Artistx.JPG">
+<div style="background-color: white;">Georgette Chen (seated rightmost in the first row) at the Horace Mann School, New York, 1923. Chen studied in private schools around the world. She received her primary education at the Lycée Jules-Ferry in Paris, followed by Horace Mann School in New York, the exclusive McTyeire School for Girls in Shanghai, and the Art Students League in New York, before studying art in Paris. <i>Image reproduced from Chia, J. (1997). Georgette Chen. Singapore: Singapore Art Museum. (Call no.: RSING q759.95957 CHI).</i></div>
 
 Revisiting Paris in her early 20s, now as a budding artist, further strengthened Chen’s relationship with the city. While enrolled at the less structured art schools of the Académie Biloul and Académie Colarossi, Chen also carved for herself an education that extended far beyond the classroom. She travelled around Paris frequently, seeking subjects to paint and relishing “the freedom of painting whatever you like”.[^4]
 
@@ -44,6 +43,9 @@ Paris augured exciting beginnings for Chen not just in art, but also in her pers
 Eugene, a political journalist and respected diplomat, had been Sun’s foreign policy adviser from 1922 to 1924 and, following that, the minister for foreign affairs of the nationalist government in Wuhan, China. With the collapse of the nationalist government in 1927, Eugene found himself exiled in Europe, his political career in limbo. His encounter with Georgette Chen was, however, to bloom.
 
 Despite their vastly different professions, the two were aligned in their mutual love for the arts. Chen recalled: “Well, in the first place he always loved art, music, literature, French. He was a very good French scholar as well. And he was always ready to pose for me. That always helps an artist. He always told me not to sew because there were many tailors who could do the work. And if I wanted to sew, then it was better to take up my easel and paint instead”.[^6]
+
+<img style="width: 350px; height: 390px;" src="/images/Vol-15-issue-2/artist-extraordinaire/Artisty.JPG">
+<div style="background-color: white;">Georgette Chen and her first husband, Eugene Chen, whom she married in 1930. Date of photo unknown. <i>Courtesy of National Gallery Singapore.</i></div>
 
 Despite their 30-year age difference, and the initial disapproval of Chen’s father at their pairing, the couple found in each other “the closest of companions”,[^7] and were married in Paris in 1930. Chen would take on Eugene’s surname and retain it even when she remarried after his death.
 
