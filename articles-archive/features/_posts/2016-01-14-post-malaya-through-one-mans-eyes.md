@@ -55,6 +55,8 @@ The FMS was instituted in 1895 after Swettenham secured agreements from the Mala
 <br>
 <b>Donated by:</b> Koh Seow Chuan</div>
 
+<a href="/vol-15/issue-1/apr-jun-2019/"><center>Back to Issue</center></a>
+
 #### **NOTES**
 
 [^1]:Barlow, H.S. (1995). Writings: Swettenham as historian. *[In Swettenham](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7490524)* (pp. 691–715). Kuala Lumpur: Southdene. (Call no.: RSING 959.5104 BAR)
