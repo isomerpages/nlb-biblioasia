@@ -9,10 +9,6 @@ Travel guides are more than just books that tell you about interesting sights in
 
 <div style="background-color: white;"><br><img src="/images/vol-11-issue-4/a-bona-fide-history-book/01_bonafide.jpg">The title page of Handbook to Singapore, one of the first travel guidebooks to the city. <i>Image source: National Library Board, Singapore.</i></div>
 
-<div style="background-color: white;"><img style="width: 500px" src="/images/vol-11-issue-4/a-bona-fide-history-book/02_bonafide.jpg">One of the advertisements in the book promoting the Raffles Hotel in Singapore, the Eastern & Oriental Hotel in Penang and the Sarkies’ Hotel in Rangoon. All three were owned by the famous Sarkies brothers. <i>All rights reserved, Reith, G. M. (1892). Handbook to Singapore, with Map and Plan of the Botanical Gardens. Singapore: The Singapore and Straits Printing Office.</i></div>
-
-<div style="background-color: white;"><img style="width: 700px" src="/images/vol-11-issue-4/a-bona-fide-history-book/03_bonafide.jpg">View of Battery Road and the Tan Kim Seng fountain, early 1900s. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i></div>
-
 As travel became increasingly popular towards the end of the 1900s, guidebooks were published to fill a gap in the market. Sensing the need for one, Reverend George Murray Reith, resident minister of the Presbyterian Church in Singapore wrote a handy guide for visitors to the island.
 
 Printed in 1892, Reith’s *Handbook* is one of the earliest tourist guides to Singapore. Although by no means the first guide about the island to be published, it was certainly the best of its kind at the time; earlier guidebooks such as *The Stranger’s Guide to Singapore* (1890) by B. E. D’Aranjo and *Picturesque and Busy Singapore* (1887) by T. J. Keaughran were described as “limited in… scope” or “too general to be of practical value” respectively.[^1] *Handbook*, however, provided enough information to be relevant to tourists even up to a century after it was first published. As a testament to its enduring relevance and value, the book was reprinted in 1907[^2] and 1985.[^3]
@@ -21,11 +17,15 @@ Printed in 1892, Reith’s *Handbook* is one of the earliest tourist guides to S
 
 Reith manages to include vivid imagery of life in turn-of-the-century Singapore in his book. In Chapter 4, interspersed with tour directions to the Botanical Gardens, Mount Faber and other attractions, he brings Singapore to life by detailing the leisurely lifestyle of expatriates alongside the menial labour work performed by natives.
 
+<div style="background-color: white;"><img style="width: 700px" src="/images/vol-11-issue-4/a-bona-fide-history-book/03_bonafide.jpg">View of Battery Road and the Tan Kim Seng fountain, early 1900s. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i></div>
+
 Also included in the book are useful listings of banks, consulates, religious buildings and hospitals as well as rates for hiring private and public carriages. Other sections on population, geography, wildlife and weather have become standard inclusions in modern guidebooks. 
 
 Reith’s appreciation for the Malay language was evident in *Handbook*. Malay colloquial place names (and pronunciation tips) were included in the book. A listing of Malay place names and their English counterparts are given in Chapter 9, revealing how locals viewed some of these colonial landmarks. For example, the Masonic Hall was known as “Rumah Hantu” or “Haunted House” and the Methodist Episcopal Church beside it was known as “Greja dekat Rumah Hantu” or the “Church near the Haunted House”.[^4]
 
 Although there are no photographs or illustrations, there is a map of Singapore with an accompanying index and a plan of the Botanical Gardens. Unfortunately, the map and plan are missing from the National Library’s copy of the book. Eleven pages of text-based advertisements round off the guide.
+
+<div style="background-color: white;"><img style="width: 500px" src="/images/vol-11-issue-4/a-bona-fide-history-book/02_bonafide.jpg">One of the advertisements in the book promoting the Raffles Hotel in Singapore, the Eastern & Oriental Hotel in Penang and the Sarkies’ Hotel in Rangoon. All three were owned by the famous Sarkies brothers. <i>All rights reserved, Reith, G. M. (1892). Handbook to Singapore, with Map and Plan of the Botanical Gardens. Singapore: The Singapore and Straits Printing Office.</i></div>
 
 In 1907, Walter Makepeace, a journalist and editor of *The Singapore Free Press*, published a new edition of the guide with updated information, a new chapter on the Federated Malay States and photographic plates of landmarks and sights in Singapore by G. R. Lambert & Co., besides providing the most current statistical data for 1907.[^5]
 
