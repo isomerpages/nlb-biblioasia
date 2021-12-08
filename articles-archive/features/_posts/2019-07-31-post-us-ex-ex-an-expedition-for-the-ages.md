@@ -13,9 +13,6 @@ In early 1842, almost 500 naval officers, sailors and scientists from the United
 
 Few people have heard of the Wilkes Expedition, its more commonly used name, and fewer still about the United States Exploring Expedition – or simply the U.S. Ex. Ex. Although the expedition became mired in controversy, it nonetheless left behind an important legacy in its meticulous documentation of the earth’s biodiversity. Among its contributions are the first-ever systematic mapping of the coastline of the US Pacific Northwest, the charting of some 1,500 miles (2,414 km) of the frozen Antarctic coast, and the first concrete proof that Antarctica is a continent.
 
-<img style="width: 350px; height: 450px;" src="/images/Vol-15-issue-2/an-expedition-for-the-ages/Ex2.JPG">
-<div style="background-color: white;">A sectional view of the earth showing the openings at the North and South poles. In 1818, American John C. Symmes put forward the “Holes in the Poles” theory. <i>Illustration reproduced from Seaborn, A. (1820). Symzonia: A Voyage of Discovery. New York: J. Seymour. Image from Wikimedia Commons.</i></div>
-
 #### **The Mission**
 
 The Wilkes Expedition was primarily a mission of exploration. It aimed to extend the borders of learning, and came at a time when Britain, France and other European nations were busy expanding their territories through colonisation. The mission parameters were two-fold – navigational and scientific – as directed by the US Congress:
@@ -25,6 +22,9 @@ The Wilkes Expedition was primarily a mission of exploration. It aimed to extend
 #### **Genesis of the Expedition**
 
 In 1818, an American eccentric named John C. Symmes put forward the “Holes in the Poles” theory. He declared the earth as hollow, with a habitable interior only accessible through openings at the North and South poles that were large enough to accommodate sailing ships. This was picked up by an enterprising newspaper editor from Ohio, Jeremiah Reynolds, who called for further research to establish the veracity of the so-called “polar holes”, eventually advocating a national maritime expedition to explore the mysteries of the South Pole. By 1828, Reynolds had managed to pique the interest of US Naval Secretary Samuel Southard and President John Quincy Adams.
+
+<img style="width: 350px; height: 450px;" src="/images/Vol-15-issue-2/an-expedition-for-the-ages/Ex2.JPG">
+<div style="background-color: white;">A sectional view of the earth showing the openings at the North and South poles. In 1818, American John C. Symmes put forward the “Holes in the Poles” theory. <i>Illustration reproduced from Seaborn, A. (1820). Symzonia: A Voyage of Discovery. New York: J. Seymour. Image from Wikimedia Commons.</i></div>
 
 Support also came from whalers and sealers who needed accurate charts of islands and navigational hazards in the Pacific Ocean. Whaling had become a booming business – whale oil was as significant then as crude oil is today – and the US was then the global industry leader. With whales hunted to near extinction in the Atlantic Ocean, the Pacific Ocean was the next fertile ground and the ability to navigate safely in these waters would be crucial to its success.
 
@@ -65,10 +65,10 @@ The gales and terrible weather, however, forced the ships to turn back but not w
 
 The fleet sailed into Sydney harbour in the middle of the night. Delighted to be at a port where English was spoken, the Americans took every opportunity to enjoy the sights. They also noted that rum was used as a medium of exchange; with a population of 24,000 in the city, it seemed there was a tavern for every 100 inhabitants.
 
-<img style="width: 300px; height: 300px;" src="/images/Vol-15-issue-2/an-expedition-for-the-ages/Ex4.JPG">
-<div style="background-color: white;">A map showing the major geographical features of the Antarctic continent. Wilkes Land, as indicated along the southwestern coast of East Antarctica, occupies an area of almost 2.6 million sq km. <i>Image from Wikimedia Commons.</i></div>
-
 From Sydney, the U.S. Ex. Ex. launched a second encounter to the Antarctic on 26 December 1839. Well stocked with 10 months of provisions in case they became trapped in ice, the expedition proceeded south. On 19 January 1840, land was identified at roughly 160 degrees east and 67 degrees south. Wilkes surveyed and mapped nearly 1,500 miles (2,414 km) of the Antarctic coastline – considered a remarkable achievement to this day – providing substantial proof that Antarctica is a continent. In honour of Lt. Charles Wilkes, a million square miles (almost 2,600,000 sq km) of land on East Antarctica is named Wilkes Land.
+
+<img style="width: 350px; height: 350px;" src="/images/Vol-15-issue-2/an-expedition-for-the-ages/Ex4.JPG">
+<div style="background-color: white;">A map showing the major geographical features of the Antarctic continent. Wilkes Land, as indicated along the southwestern coast of East Antarctica, occupies an area of almost 2.6 million sq km. <i>Image from Wikimedia Commons.</i></div>
 
 From the icy waters of the Antarctic, the U.S. Ex. Ex. sailed towards New Zealand and then to the Fiji Islands, where four months were spent on detailed surveying. Altogether, 50 reefs and 154 islands were carefully mapped, but a bloody encounter between the crew members of the expedition and the Fijians would mar this accomplishment. The Fijians had a reputation as cannibals. At first the crew thought these were mere myths but soon realised that the reports were true. As the fleet was preparing to leave Fiji in July 1840, two of its officers, one of them Wilkes’ nephew, were killed by the islanders while bartering for food on Malolo Island. In the subsequent disproportionate reprisal by the Americans, some 60 islanders lost their lives.
 
@@ -84,23 +84,11 @@ On 19 February 1842, the USS *Vincennes* with Wilkes on board arrived in Singapo
 
 Wilkes and his crew were so fascinated with Singapore that he dedicated an entire chapter to the island in his “Narrative” of the expedition.[^7] Several astute observations were made by Wilkes and the crew during their brief stay here. It is remarkable that several of these observations hold true almost 200 years later.
 
-#### ***A Colourful Melting Pot***
+###### ***A Colourful Melting Pot***
 
 The crew was amazed by the confluence of races, languages and cultures in Singapore and the peaceful coexistence among the people, the “rarity of quarrels between different races and religions owning to the consideration of the place being neutral ground”. They were also “struck with the order and good behaviour existing among such an incongruous mass of human being[s]… speaking a vast variety of tongues, and some of who would infallibly have been at war with each other elsewhere”.[^8] Wilkes called Singapore the “Babel of the East”.[^9] 
 
-<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
-	<b>A SIZEABLE FLEET</b>
-<br><br>
-Most European exploring expeditions in the 19th century used modestly sized ships. But the US Navy went one up by assembling a squadron of six sailing vessels with officers, crew and scientists numbering almost 500 strong, making it one of the largest voyages of discovery in the history of Western exploration. The original fleet comprised the following:
-<br><br>
-– The USS <i>Vincennes</i>, a fast 127-foot Boston-class sloop-of-war with a crew of 190. This was the flagship under the command of Lt. Charles Wilkes.<br>
-– The 118-foot USS <i>Peacock</i>, a slightly smaller, full-rigged sloop-of-war rebuilt for the expedition, and manned by a crew of 130. (When the <i>Peacock</i> ran aground on 18 July 1841, the USS <i>Oregon</i>, an 85-foot brigantine, accommodated the officers and crew of the lost ship.)<br>
-– The two-masted 88-foot brigantine USS <i>Porpoise</i> with a crew of 65.<br>
-– The USS <i>Relief</i>, a slow 109-foot supply ship with a crew of 75.<br>
-– Two small 70-foot schooners, USS <i>Sea Gull</i> and USS <i>Flying Fish</i>, each manned by a crew of 15. (<i>Sea Gull</i> went missing on 8 May 1839 when it was caught in a storm.)
-</span>
-
-#### ***A Thriving Entrepôt***
+###### ***A Thriving Entrepôt***
 
 Wilkes estimated there were at least 1,500–2,000 vessels in the port at any one time, with numerous *prahu* (wooden sailing boats) from neighbouring Riau and Lingga, Celebes, Flores, Timor, Ambon, Sumba and Lubok, and also from resource-rich Borneo. Popular goods imported from Riau and Lingga included pepper, rice, camphor, sago, coffee, nutmeg, oil, tobacco, *biche-de-mer* (sea cucumber), birds’ nests, tortoise shells, pearls, rattan, ivory, animal hides and *sarongs*, among other items.[^10] Boats from Papua and Aru brought birds of paradise flowers, which were found in abundance in the markets of Singapore.
 
@@ -109,21 +97,21 @@ The expedition noted that “every avenue, arcade, or veranda approaching it [th
 Singapore was described as a thriving entrepôt, with arriving goods redistributed to other places, with hardly anything produced here. Vessels that called at the port were not charged duties on imports or exports, and the only questions asked were the contents of the cargo, the value of the goods and the size of the vessel. Such information was then published weekly in the newspaper, “so anyone may inform themselves of the charges he is liable to incur and of the advantages it has over the other ports in the Eastern seas”.[^12]
 
 <img src="/images/Vol-15-issue-2/an-expedition-for-the-ages/Ex5.JPG">
-<div style="background-color: white;">Some of the items obtained by the Wilkes Expedition from Southeast Asia include the kris (dagger) and a model of a prahu (wooden sailing boat). These are currently kept at the Smithsonian’s National Museum of Natural History. <i>Courtesy of Smithsonian Institution, National Museum of Natural History, Department of Anthropology (E3911-0 & E3893-0).</i></div>
+<div style="background-color: white;">Some of the items obtained by the Wilkes Expedition from Southeast Asia include the <i>kris</i> (dagger) and a model of a <i>prahu</i> (wooden sailing boat). These are currently kept at the Smithsonian’s National Museum of Natural History. <i>Courtesy of Smithsonian Institution, National Museum of Natural History, Department of Anthropology (E3911-0 & E3893-0).</i></div>
 
 The era of steam-powered vessels was just starting to take off and Wilkes mentions that “during… [his] stay in Singapore, the subject of steam navigation was much talked of, and many projects appeared to be forming by which the settlement might reap the advantages of that communication, when established between India and China”.[^13]
 
-#### ***A Place of Transience***
+###### ***A Place of Transience***
 
 In 1842, the population in Singapore was recorded as 60,000, comprising 45,000 Chinese, 8,000 Malays and 7,000 Indians, with only one-tenth of the whole as female. The people were diverse, with Malays, Chinese, Hindus and Muslims, Jews, Armenians and Europeans, and Parsees, Bugis and Arabs. Wilkes wrote about the transient nature of the population, remarking that “no European looks upon the East as a home, and all those of every nation I met with invariably considered his sojourn temporary”.[^14] The Chinese, for instance, were likely to return home to China as soon they acquired a skill, even at the risk of being punished for having left their homeland illegally.
 
-#### ***Lush Flora and Fauna***
+###### ***Lush Flora and Fauna***
 
 Wilkes and his men found the jungle undergrowth in the interior so impenetrable that no Europeans or natives had ever climbed Bukit Timah Hill, the highest point of the island even though it was only 500 ft (152 m) high. Tigers were not indigenous to Singapore, but the big cats had begun to swim across the narrow Johor Strait from the Malay Peninsula in search of food. Even criminals and thieves avoided their usual escape routes in the jungles for fear of tigers.
 
 Records of the crops grown here included nutmeg, coffee, black pepper, cocoa, gambier, gamboge (a kind of resin) and a variety of fruits. Timber was also an important cash crop, and highly prized for shipbuilding. The Americans noted an abundance of fruit in Singapore; they were told “that there are 120 kinds that can be served as a dessert”[^15] and they especially enjoyed pineapples. They collected many zoological, conchological and botanical specimens, including two species of the *Nepenthe* (pitcher plants) that were preserved and brought back to the US.
 
-#### ***A Vibrant Cultural Scene***
+###### ***A Vibrant Cultural Scene***
 
 The arrival of the U.S. Ex. Ex. in Singapore coincided with the Chinese New Year celebrations. The eve fell on 21 February 1842, and the expedition members were awed by the processions of lanterns, noisy gongs and cymbals. Wilkes described the sight of “an immense illuminated sea-serpent” made of lanterns.[^16] The Americans were astonished at “the extent and earnestness with which gaming was carried [out] by the Chinese at every shop, bazaar and corner of almost every street with cards or dice… their whole soul seemed to be staked with their money”.[^17]
 
@@ -132,7 +120,7 @@ They also watched a Chinese opera and an Indian theatrical show that was perform
 <img src="/images/Vol-15-issue-2/an-expedition-for-the-ages/Ex6.JPG">
 <div style="background-color: white;">The Thian Hock Keng temple in Singapore sketched by Alfred T. Agate and engraved by J.A. Rolph in 1842. The image appears in vol. v of Charles Wilkes’ <i>Narrative of the United States Exploring Expedition During the Years 1838, 1839, 1840, 1841, 1842</i>, published by Lea and Blanchard in 1845. <i>Retrieved from Internet Archive.</i></div>
 
-#### ***The Scourge of Opium***
+###### ***The Scourge of Opium***
 
 According to Wilkes’ account, opium smoking in Singapore was one of the most repugnant sights witnessed by expedition members during their time on the island. Opium was easily available and shops were licensed to sell it, which was a huge source of revenue for the government but a great cause of human degeneracy. Many of the vessels that trafficked opium were either owned or operated by merchants. Wilkes noted “how some of those who knew its effects and condemned its use engaged in and defended its trade…”[^19]
 
@@ -180,14 +168,17 @@ The team surveyed 280 Pacific islands, created 180 charts and logged 87,000 mile
 The Wilkes Expedition played an important role in the development of science not only in the US but the world over. By making its research publicly available, the expedition was also instrumental in the democratisation of science. The specimens and items amassed from the expedition formed the core collection of many departments at the Smithsonian Institution, and the work of the “Scientifics” would profoundly affect the subsequent development of American science and, by extension, all scientific discovery on the global stage.
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
-	<b>ON PAPER: SINGAPORE BEFORE 1867</b>
+	<b>A SIZEABLE FLEET</b>
 <br><br>
-Among the rare manuscripts and documents that the U.S. Ex. Ex. obtained from Singapore and kept at the Library of Congress in Washington D.C. are official correspondence and letters addressed to British Resident William Farquhar. Seven of these letters will be on display at the National Library’s upcoming exhibition, “On Paper: Singapore Before 1867”, which opens on 28 September 2019 at level 10 of the National Library Building.
+Most European exploring expeditions in the 19th century used modestly sized ships. But the US Navy went one up by assembling a squadron of six sailing vessels with officers, crew and scientists numbering almost 500 strong, making it one of the largest voyages of discovery in the history of Western exploration. The original fleet comprised the following:
 <br><br>
-The exhibition will showcase over 100 items from the National Library, National Archives of Singapore and National Museum of Singapore, as well as from overseas institutions such as The British Library, National Library of the Republic of Indonesia and National Archives of the Netherlands. Comprising manuscripts, maps, letters, treaties, paintings, photographs and other forms of documentation, these paper artefacts trace the history of Singapore until its establishment as a Crown Colony on 1 April 1867.
-<br><br>
-A companion book of the same title will be launched in conjunction with the exhibition. For more details on the exhibition opening date, follow us on Facebook @NationalLibrarySG.
+– The USS <i>Vincennes</i>, a fast 127-foot Boston-class sloop-of-war with a crew of 190. This was the flagship under the command of Lt. Charles Wilkes.<br>
+– The 118-foot USS <i>Peacock</i>, a slightly smaller, full-rigged sloop-of-war rebuilt for the expedition, and manned by a crew of 130. (When the <i>Peacock</i> ran aground on 18 July 1841, the USS <i>Oregon</i>, an 85-foot brigantine, accommodated the officers and crew of the lost ship.)<br>
+– The two-masted 88-foot brigantine USS <i>Porpoise</i> with a crew of 65.<br>
+– The USS <i>Relief</i>, a slow 109-foot supply ship with a crew of 75.<br>
+– Two small 70-foot schooners, USS <i>Sea Gull</i> and USS <i>Flying Fish</i>, each manned by a crew of 15. (<i>Sea Gull</i> went missing on 8 May 1839 when it was caught in a storm.)
 </span>
+
 <div style="background-color: white;">
 <img src="/images/Vol-15-issue-2/an-expedition-for-the-ages/Ex10.jpg" style="width: 100px; height: 100px;">
 <b>Dr Vidya Schalk</b> is a research scientist and currently a lecturer in the School of Materials Science and Engineering at NTU, where she teaches a module on the History of Materials. She is also researching scientific and military United States naval expeditions of the 19th century.
