@@ -53,13 +53,10 @@ Chan was known by the pen-name Batu Gantong (literally “Hanging Rock”), whic
 [^8]:[Proudfoot](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6712616), 1993, pp. 25–26.
 [^9]:[Proudfoot](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6712616), 1993, p. 22.
 [^10]: Yoong & Zainab, Dec 2004, p. 184; Salmon, C. (Ed.). (2013). [*Literary migrations: Traditional Chinese fiction in Asia (17th–20th centuries)*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200182446). Singapore: ISEAS Publishing. Cal no.: RSING 895.134809 LIT.
-[^11]:
-[^12]:
-[^13]:
-[^14]:
-[^15]:
-[^16]:
-7 
-8 
-9 
-10
+[^11]:Yoong & Zainab, Dec 2002, p. 7.
+[^12]:Yoong & Zainab, Dec 2004, p. 186.
+[^13]:[Proudfoot](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6712616), 1993, p. 23.
+[^14]:[National Library Board](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1337_2008-10-07.html), 2008.
+[^15]:[National Library Board](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1337_2008-10-07.html), 2008.
+[^16]:National Library Board, 2008; Discovering the streets of George Town. (n. d.). Retrieved from 
+Vintage Malaya website.
