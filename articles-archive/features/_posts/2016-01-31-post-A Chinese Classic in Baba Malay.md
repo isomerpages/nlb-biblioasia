@@ -7,12 +7,12 @@ description: ""
 ---
 Written in the 14th century and set during the last days of China’s Han dynasty and the tumultuous Three Kingdoms period (circa AD 220–280), the *Romance of the Three Kingdoms* is a well-known Chinese classic of epic proportions and a cast of thousands. In the late 1800s, a Baba Malay version of this classic was published in Singapore – making this popular tale more accessible to the Peranakan (Straits-born Chinese) community.[^1]
 
-<img src="/images/Vol-15-issue-2/rare-materials/Baba1.JPG">
+<img style="width: 350px; height: 450px;" src="/images/Vol-15-issue-2/rare-materials/Baba1.JPG">
 <div style="background-color: white;"><i>Chrita Dahulu-kala, Namanya Sam Kok, Atau, Tiga Negri Ber-prang: Siok, Gwi, Sama Gor di Jaman “Han Teow”</i> – based on the Chinese classic text <i>Romance of the Three Kingdoms</i> – comprises 30 volumes in the series. <i>Image source: National Library Board, Singapore.</i></div>
 
 Titled as *Chrita Dahulu-kala, Namanya Sam Kok, Atau, Tiga Negri Ber-prang: Siok, Gwi, Sama Gor di Jaman “Han Teow”* (henceforth referred to as *Sam Kok*), the series consists of 30 volumes translated from Chinese to Baba Malay. The translation was done by Chan Kim Boon, an administrator at law firm Aitken & Rodyk,[^2] with the help of two other people, Chia Ann Siang and Tan Kheam Hock.[^3]
 
-<img src="/images/Vol-15-issue-2/rare-materials/Baba3.JPG">
+<img style="width: 350px; height: 450px;" src="/images/Vol-15-issue-2/rare-materials/Baba3.JPG">
 <div style="background-color: white;">The original green cover of Volume 24 (of 30 volumes) in the Sam Kok series. <i>Image source: National Library Board, Singapore.</i></div>
 
 Published between 1892 and 1896 by Kim Sek Chye Press, the entire series totalled some 4,622 pages, and a single volume was sold at a $1 each.[^4] *Sam Kok* is most likely the earliest complete Malay translation of *Romance of the Three Kingdoms*, ahead of Indonesian versions from Java published in 1910.[^5] The series was 
@@ -39,7 +39,7 @@ It was Chan’s publication of *Sam Kok* that brought him fame, primarily becaus
 
 Chan was known by the pen-name Batu Gantong (literally “Hanging Rock”), which is the name of a cemetery in Penang. Some people believed that this was an allusion to his preference for his final resting place. Chan’s home at 75 Lebuh Muntri in Georgetown, Penang, has today become a tourist destination because of the fame that Chan had gained through his Baba Malay translations.[^16] 
 
-<img src="/images/Vol-15-issue-2/rare-materials/Baba2.JPG">
+<img style="width: 350px; height: 450px;"  src="/images/Vol-15-issue-2/rare-materials/Baba2.JPG">
 <div style="background-color: white;">The translator of the series, Chan Kim Boon (1851–1920) was also known by his pen-name Batu Gantong (literally “Hanging Rock”). <i>All rights reserved, Chan, K. B. (1892–1896). Chrita Dahulukala, Namanya Sam Kok, Atau, Tiga Negri Ber-prang: Siok, Gwi, Sama Gor di Jaman “Han Teow”. Singapore: Kim Sek Chye Press.</i></div>
 
 #### **NOTES**
