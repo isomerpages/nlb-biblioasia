@@ -123,19 +123,23 @@ We often lament how “small” Singapore is. Unlike other countries, we do not 
 [^5]: The pre-eminence of Riau (Tanjong Pinang in Bintan) as a regional economic hub was so entrenched in the mid- to late 19th century that Joseph Balestier was initially sent to this region to serve as the American consul to Riau. Upon his arrival in 1834, Balestier discovered, to his shock, that Riau had long declined to a backwater and hence amended his posting to become America’s first consul to Singapore. See Richard E. Hale, *The Balestiers: The First American Residents of Singapore* (Singapore: Marshall Cavendish, 2016), 6–13. (From National Library, Singapore, Call no. RSING 959.57030922 HAL-[HIS]); Imran Bin Tajudeen, “From Riau to Singapore, 1700s–1870s: Trade Posts and Urban Histories – a Response to the Book Singapore: A 700-year History,” in *Singapore Dreaming: Managing Utopia*, ed. H. Koon Wee and Jeremy Chia (Singapore: Asian Urban Lab, 2016). (From National Library, Singapore, Call no. RSING 303.495957 SIN) 
 
 
-[^6]: 
+[^6]: Like all canonical *pantun* (a Malay oral poetic form), this one was passed down through the generations without a known author. However, it has been recorded in some published compilations. For example, see Arthur Wedderburn Hamilton, *Malay Pantuns = Pantun Melayu* (Singapore: Donald Moore, 1956), 77. (From National Library, Singapore, Call no. RCLOS 899.281 MAL-[JSB]). Translation by author.
 
-[^7]: 
+[^7]: John N. Miksic, “Three Mountains in Malay History,” in Zai Kuning, *Dapunta Hyang: Transmission of Knowledge*, accessed 20 August 2021, https://dapuntahyang2018.wordpress.com/three-mountains-in-malay-history.
 
-[^8]: 
+[^8]: Aswandi Syahri, “Negeri dan Istana Baru Sultan Mahmud Muzafarsyah Daik Lingga (1849),” Jantung Melayu.com, accessed 20 August 2021, https://jantungmelayu.com/2019/10/negeri-dan-istana-baru-sultan-mahmud-muzafarsyah-daik-lingga-1849/.
 
-[^9]: 
+[^9]: Sri Sugiharta, *Masjid-Masjid Kuno di Sumatra Barat, Riau dan Kepulauan Riau* (Batusangkar: Balai Pelestarian Peninggalan Purbakala Batusangkar, 2006), 57. (Not available in NLB’s holdings)
 
-[^10]: 
 
-[^11]: 
+[^10]: Imran Bin Tajudeen, “Adaptation and Accentuation: Type Transformation in Vernacular Nusantarian Mosque Design and Their Contemporary Signification in Melaka, Minangkabau and Singapore,” *ISVS IV: Pace or Speed?*, 4th International Seminar on Vernacular Settlement, Ahmedabad, India, February 14–17, 2008: Proceedings (Ahmedabad: Print Vision for CEPT University, 2008), 136, Academia, https://www.academia.edu/300404/Imran_bin_Tajudeen_2008_Adaptation_and_Accentuation_Type_transformation_in_vernacular_Nusantarian_mosque_design_and_their_contemporary_signification_in_Melaka_Minangkabau_and_Singapore.
 
-[^12]: 
+
+[^11]: See Farish Noor and Eddin Koo, *Spirit of Wood: The Art of Malay Woodcarving* (Hong Kong: Periplus, 2003). (From National Library, Singapore, Call no. RART q736.409595 NOO)
+
+
+[^12]: C.H. Wake, “Raffles and the Rajas: The Founding of Singapore in Malayan and British Colonial History,” *Journal of the Malaysian Branch of the Royal Asiatic Society* 48, no. 1 (227) (1975): 60. (From JSTOR via NLB’s eResources website)
+
 
 [^13]: 
 
