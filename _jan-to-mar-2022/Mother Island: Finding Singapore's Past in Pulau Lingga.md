@@ -74,5 +74,7 @@ Mahmud III was the last king of a united Johor Sultanate. His death in 1811 thre
 
 In return for granting the EIC a lease to establish a trading post on Singapore, the British would recognise Hussein as sultan. With this arrangement sealed in the Singapore Treaty of 1819, Singapore came under the tripartite rule of the EIC, the temenggung and “Sultan” Hussein Shah of Johor, while Abdul Rahman ascended the throne in Lingga.[^12] As the Bugis chronicler Raja Ali Haji lamented, “there were now two kings in one kingdom, with the boundaries determined by two governments, the Dutch and English”.[^13]
 
+After this “one kingdom” ceased to exist with its formal partition by the Dutch and British in the treaty of 1824, Riau-Lingga limped on as a separate kingdom under Abdul Rahman I and his successors.
+
 
 #### **A Trading Power**
