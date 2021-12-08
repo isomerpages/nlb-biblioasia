@@ -52,7 +52,7 @@ Chan was known by the pen-name Batu Gantong (literally “Hanging Rock”), whic
 [^7]:[Proudfoot](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6712616), 1993, p. 24; Yoong, S. K., & Zainab, A. N. (2004, December). The Straits Chinese contribution to Malaysian literary heritage: Focus on Chinese stories translated into Baba Malay. *Journal of Educational Media & Library Sciences, 42* (2), 195. Retrieved from e-lis website.
 [^8]:[Proudfoot](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6712616), 1993, pp. 25–26.
 [^9]:[Proudfoot](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6712616), 1993, p. 22.
-[^10]:
+[^10]: Yoong & Zainab, Dec 2004, p. 184; Salmon, C. (Ed.). (2013). [*Literary migrations: Traditional Chinese fiction in Asia (17th–20th centuries)*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200182446). Singapore: ISEAS Publishing. Cal no.: RSING 895.134809 LIT.
 [^11]:
 [^12]:
 [^13]:
@@ -62,7 +62,4 @@ Chan was known by the pen-name Batu Gantong (literally “Hanging Rock”), whic
 7 
 8 
 9 
-10 Yoong & Zainab, Dec 2004, p. 184; Salmon, C. (Ed.). 
-(2013). Literary migrations: Traditional Chinese 
-fiction in Asia (17th–20th centuries). Singapore: 
-ISEAS Publishing. Cal no.: RSING 895.134809 LIT
+10
