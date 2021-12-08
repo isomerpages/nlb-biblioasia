@@ -37,79 +37,79 @@ One Hundred Years of Singapore: Being Some Account of the Capital of the Straits
 **Logan’s Journal**
 The Journal of the Indian Archipelago and Eastern Asia
 
-Raffles’ Letters of Intrigue
+**Raffles’ Letters of Intrigue**
 Letters from Sir Thomas Stamford Raffles to Lord Lansdowne
 
-Raffles’ Political Manoeuvres
+**Raffles’ Political Manoeuvres**
 Letter from Sir Thomas Stamford Raffles to John Tayler
 
-The Map That Opened Up Southeast Asia
+**The Map That Opened Up Southeast Asia**
 Exacta & Accurata Delineatio cum Orarum Maritimdrum tum etjam locorum terrestrium quae in Regionibus China, Cauchinchina, Camboja sive Champa, Syao, Malacca, Arracan & Pegu…
 
-The Book That Almost Didn’t Happen
+**The Book That Almost Didn’t Happen**
 Notices of the Indian Archipelago, and Adjacent Countries: Being a Collection of Papers Relating to Borneo, Celebes, Bali, Java, Sumatra, Nias, the Philippine islands, Sulus, Siam, Cochin China, Malayan Peninsula, etc
 
-A War Crimes Trials Snapshot
+**A War Crimes Trials Snapshot**
 Photographs on the Opening of the War Crimes Trials in Singapore, 21 January 1946
 
-Propaganda Paper
+**Propaganda Paper**
 The Syonan Shimbun
 
-Singapore’s First School
+**Singapore’s First School**
 Formation of the Singapore Institution, A.D. 1823
 
-Birds of the Malay Peninsula
+**Birds of the Malay Peninsula**
 The Birds of the Malay Peninsula: A General Account of the Birds Inhabiting the Region from the Isthmus of Kra to Singapore with the Adjacent Islands
 
-Legends of the Malay Kings
+**Legends of the Malay Kings**
 Malay Annals [Sejarah Melayu]
 
-A Bona Fide History Book
+**A Bona Fide History Book**
 Handbook to Singapore, with Map and a Plan of the Botanical Gardens
 
-A Battle Captured in a Map
+**A Battle Captured in a Map**
 Contrafactur des Scharmutz els der Hollender wider die Portigesen in dem Flus Balusabar [Chart of a Skirmish between the Dutch and the Portuguese in the Balusabar River]
 
-A Poetic Travelogue in Tamil
+**A Poetic Travelogue in Tamil**
 Athivinotha Kuthirai Panthaiya Lavani (அதிவினோத குதிரை பந்தைய லாவணி)
 
-When Singapore Was Cinca Pula
+**When Singapore Was Cinca Pula**
 India Tercera Nuova Tavola
 
-A Chinese Classic in Baba Malay
+**A Chinese Classic in Baba Malay**
 Chrita Dahulu-kala, Namanya Sam Kok, Atau, Tiga Negri Ber-prang: Siok, Gwi, Sama Gor di Jaman “Han Teow” [Ancient Story Entitled Sanguo or the Three Kingdoms at War: Shu, Wei and Wu During the Han Dynasty]
 
-A Singapore-made Qur’an
+**A Singapore-made Qur’an**
 Lithographed Qur’an
 
-Indian Muslim Devotional Poems
+**Indian Muslim Devotional Poems**
 Munajathu Thirattu (முனாஜாத்துத் திரட்டு)
 
-English Nursey Rhymes with a Malay Spin
+**English Nursey Rhymes with a Malay Spin**
 Haji’s Book of Malayan Nursery Rhymes
 
-Stories of Abdullah
+**Stories of Abdullah**
 Hikayat Abdullah (Stories of Abdullah)
 
-The First English and Malay Dictionary
+**The First English and Malay Dictionary**
 A Dictionary: English and Malayo, Malayo and English
 
-Of Spells and Magic
+**Of Spells and Magic**
 Malay Magic: Being an Introduction to the Folklore and Popular Religion of the Malay Peninsula
 
-Hear Ye Hear Ye
+**Hear Ye Hear Ye**
 Straits Government Gazette
 
-Singapore’s Role in the Chinese Revolution
+**Singapore’s Role in the Chinese Revolution**
 Nanyang and the Founding of the Republic (南洋与创立民国)
 
-A Handy Cookbook
+**A Handy Cookbook**
 My Favourite Recipes
 
-A Glimpse of 1930s Singapore
+**A Glimpse of 1930s Singapore**
 The Lights of Singapore
 
-About Law and Order
+**About Law and Order**
 The Law of the Straits Settlements: A Commentary
 
 A Magazine for the Straits Chinese
