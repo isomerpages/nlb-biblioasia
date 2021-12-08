@@ -43,7 +43,7 @@ I had long wanted to visit Daik. Its famed mountain, which rises more than a kil
 “Pulau Pandan jauh ke tengah
  Gunung Daik bercabang tiga
  Hancur badan dikandung tanah
- Budi yang baik terkenang juga”6 
+ Budi yang baik terkenang juga”[^6] 
  
 (Translation: 
 Pulau Pandan lies far out at sea
@@ -53,10 +53,22 @@ Good deeds are long remembered)
 
 Daik was where my late maternal great-grandmother was born, more than a hundred years ago. (She had come to Singapore as an adolescent.) The term that the residents of Pulau Lingga give their island: Bunda Tanah Melayu, which roughly translates to “mother of the Malay lands”, resonates with me. Indeed, to this day, Lingga is seen as the spiritual heart of Malay culture. The variety of Malay spoken there is still regarded as the most “refined”. And despite being Indonesian by nationality, the people of Lingga are fiercely proud of their Malay cultural identity, as local resident Rizal, our guide for the trip explained. Much credit goes to him for enabling our access to the sites of interest mentioned in this essay.
 
-Something about the landscape of Lingga, with its soaring peaks visible from distant passing ships, must have suggested it as an ideal spot to found a royal capital. Historians like John Miksic have argued that the Malay kings often built their residences at a point of axis between a mountain or a hill, and an estuary or coast.7  The palace of old Singapura, for instance, was built on the slopes of Bukit Larangan (later Government Hill and then Fort Canning Hill) overlooking the Singapore River.  
+Something about the landscape of Lingga, with its soaring peaks visible from distant passing ships, must have suggested it as an ideal spot to found a royal capital. Historians like John Miksic have argued that the Malay kings often built their residences at a point of axis between a mountain or a hill, and an estuary or coast.[^7] The palace of old Singapura, for instance, was built on the slopes of Bukit Larangan (later Government Hill and then Fort Canning Hill) overlooking the Singapore River.  
 
-#### **A Trading Power** 
+#### **Lost Istanas and Royal Mosques** 
+
+The palace that Sultan Mahmud Ri’ayat Shah III built on the Daik River – when he shifted his court from Bintan to Lingga – no longer stands. Neither does the one built by his great-grandson Mahmud Shah IV (r. 1842–57).[^8] Istana Damnah, completed in 1860 by Sulaiman Badrul Alam Shah II (r. 1857–83), survives only in ruins. What remains are pedestals, pillars and stone staircases suggesting where the demolished halls used to be. 
+
+Istana Damnah’s cosmologically strategic site becomes apparent as one approaches it: positioned at the foot of Mount Daik, any potential visitor to the court would have felt a sense of awe at its imposing backdrop. Today, tourists to the area are greeted by a replica of the palace next to the ruins, complete with gardens and a little park with strolling paths and benches.
+
+Daik town still looks and feels like a village in comparison to busy Tanjong Pinang. Its centrepiece is the royal mosque, Masjid Sultan Lingga, whose existing structure dates back to 1909, the third to be built after the previous two were damaged by fires. The first iteration of the mosque was raised in 1800.[^9] Constructed by Chinese workers brought in from Singapore, the present-day royal mosque has an unassuming Malay vernacular style, complete with signature Malay eaves. Unsurprisingly, it is painted in the regal yellow similar to the royal mosque on Pulau Penyengat.
+
+An elaborate wooden screen greets the visitor upon entry, finely executed by carvers from Jepara in Central Java. Within the mosque is a more grandiose woodwork structure, also of Jepara make: the minbar, or pulpit. Dating back to the 1790s – before the first royal mosque was built – its design bears recognisable Chinese and European elements. The use of pink peonies, tessellated swastikas and baroque foliage departs from what we typically expect to find in a Malay mosque. The swastika, for example, or banji (from the Chinese wansui, 万岁, and the Japanese banzai; both mean “ten-thousand years”) have long been used in Malay and Javanese textiles, woodcarving and metalwork, demonstrating a robust absorption of “Chinese” elements in this region’s visual language. 
+
+The pulpit’s local elements are unmistakable: the overhanging eaves on its hexagonal roof are common in Malay construction, and the finial (a crowning ornament or detail) calls to mind the Javanese-style mustaka or kepala som, a carved embellishment found on the roof summits of mosques throughout the Malay world.10 The swirling tendrils and upturned crockets are design motifs found across Malay art, known as awan larat (“meandering clouds”) and sulur bayung (“creeping vine”) respectively.11 The structure’s coat of dark blue, crimson, green and yellow had been freshly painted. During our visit, more repainting works were being done, most notably at the tomb of Sultan Mahmud III. He rests in the burial grounds of the mosque that he had ordered built.  
+
+One of his sons, Abdul Rahman I 
+(r. 1811–32), lies buried in a nearby royal cemetery. Enclosed within a low wall painted in that same sacred yellow, the cemetery also contains the graves of two other rulers of Riau-Lingga besides Abdul Rahman I: his successor Muhammad II (r. 1832–42) and Sulaiman Badrul Alam Shah II. 
 
 
-#### **A Trading Power** 
-
+#### **A Trading Power**
