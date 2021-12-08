@@ -38,10 +38,13 @@ The TPDC initially hoped to raise $200,000 in Singapore, with 2,000 shares of $1
 
 Victoria Dock, TPDC’s first drydock located on the western side of Tanjong Pagar, started operations in 1868. With the opening of this new dock, the Patent Slip and Dock Company faced intense competition. It mounted a price war, and TPDC was forced to cut its prices. Although TPDC’s drydock business faced losses as a result of this move, its wharf services still managed to turn in a profit and became the company’s main income source.
 
-<img style="width: 650px; height: 400px;" src="/images/Vol-15-issue-2/the-story-of-two-shipyards/Ship3.JPG">
-<div style="background-color: white;">Albert Dock was built by the Tanjong Pagar Dock Company in Tanjong Pagar in 1879. It was located to the east of Victoria Dock, the company’s first drydock which began operations in 1868. <i>Lim Kheng Chye Collection, courtesy of National Archives of Singapore.</i></div>
+<img style="width: 650px; height: 400px;" src="/images/Vol-15-issue-2/the-story-of-two-shipyards/Ship4.JPG">
+<div style="background-color: white;">This wood-engraved print shows the opening of Victoria Dock at New Harbour by then Governor Harry St. George Ord on 17 October 1868. <i>Courtesy of National Museum of Singapore, National Heritage Board.</i></div>
 
 With the opening of the Suez Canal in 1869, more steamships called at Singapore and, by the following year, dock operations had become profitable. In 1870, Patent built its second dock, Dock No. 2, at New Harbour. Nine years later, in 1879, TPDC built another drydock, Albert Dock, located to the east of Victoria Dock, to meet the growing demand. The TPDC began to acquire smaller rivals that owned docks and wharves at New Harbour, but who were less able to withstand the competitive business environment.
+
+<img style="width: 650px; height: 400px;" src="/images/Vol-15-issue-2/the-story-of-two-shipyards/Ship3.JPG">
+<div style="background-color: white;">Albert Dock was built by the Tanjong Pagar Dock Company in Tanjong Pagar in 1879. It was located to the east of Victoria Dock, the company’s first drydock which began operations in 1868. <i>Lim Kheng Chye Collection, courtesy of National Archives of Singapore.</i></div>
 
 Finally, in 1899, TPDC merged with its main rival, the New Harbour Dock Company (in 1875, Patent Slip and Dock Company had incorporated itself into a public company bearing this name). With this acquisition, TPDC came to control the entire shipping, dockyard and wharf business at New Harbour, except for the P&O wharf. Singapore’s port and its future prosperity rested heavily on TPDC’s shoulders.
 
@@ -52,9 +55,6 @@ This situation was exacerbated by differences with regard to capital spending be
 In March 1904, TPDC submitted a $12-million modernisation plan to upgrade and expand its facilities, including a proposed financing scheme. This was rejected by the company’s Europe-based shareholders, who were concerned that the costs of financing the project would “endanger a dividend of 12 per cent”.[^5] TPDC sought financial support from the Straits Settlements government, but instead the government decided to expropriate the company’s assets and take over the management of its operations.
 
 With the passing of the Tanjong Pagar Dock Ordinance in April 1905, TPDC became a government organisation known as the Tanjong Pagar Dock Board. TPDC shareholders received from the government $761 for each $100 share – substantially higher than the $600 peak reached by the share in the stock market. The board was reconstituted in 1913 as a statutory board known as Singapore Harbour Board (SHB). In the same year, the SHB launched King’s Dock, the largest dock east of the Suez. In 1917, another drydock, Empire Dock, was completed. Port facilities at Keppel Harbour were also enhanced.
-
-<img style="width: 650px; height: 400px;" src="/images/Vol-15-issue-2/the-story-of-two-shipyards/Ship4.JPG">
-<div style="background-color: white;">This wood-engraved print shows the opening of Victoria Dock at New Harbour by then Governor Harry St. George Ord on 17 October 1868. <i>Courtesy of National Museum of Singapore, National Heritage Board.</i></div>
 
 The SHB retained TPDC’s monopolistic ship repair business, and for the next five decades, it controlled the entire chain of repair business at Keppel Harbour. With its sizeable facilities, the SHB soon edged out the smaller shipyards and engineering workshops in Tanjong Rhu and Kallang. This commanding position lulled the SHB to such complacency that by the end of the 1950s, capital investment had slowed down considerably and SHB’s costs and productivity began lagging behind overseas dockyards like Hong Kong’s.
 
@@ -68,8 +68,8 @@ The Singapore Naval Base Scheme was announced to the British Parliament in 1923.
 
 To appease its citizens back home, Britain sought monetary contributions from its Asian colonies to ease the funding burden. In May 1923, Singapore made a gift of 2,845 acres of land for the naval base valued at about £150,000, or 1.25 million Straits dollars. This was followed by a donation of £250,000 from the Hong Kong government. Domestic issues in Britain in 1924, however, impeded progress when the incoming Labour government blocked the funds that had been earmarked for the construction of the dock. When the Conservative government returned to power in late 1924, the Singapore Naval Base Scheme was revived, but the construction of the drydock was delayed yet again.
 
-<img style="width: 600px; height: 400px;" src="/images/Vol-15-issue-2/the-story-of-two-shipyards/Ship5.JPG">
-<div style="background-color: white;">When completed in 1938, King George VI Dock at the Singapore Naval Base in Sembawang was touted as one of the largest naval docks ever built and capable of accommodating the biggest ship in the world. <i>The Singapore Free Press and Mercantile Advertiser, 14 February 1938, p. 1.</i></div>
+<img style="width: 650px; height: 400px;" src="/images/Vol-15-issue-2/the-story-of-two-shipyards/Ship6.JPG">
+<div style="background-color: white;">King George VI Dock under construction at the Singapore Naval Base, 1933. <i>The National Archives of the UK (ADM195/106).</i></div>
 
 In mid-1926, the largest single contribution of £2 million was received from the Federated Malay States. Then in April 1927, New Zealand came forward with a commitment of £1 million to be disbursed over eight years.
 
@@ -79,8 +79,8 @@ However, the building momentum almost ground to a halt when a new Labour governm
 
 In 1931, the Japanese army invaded Manchuria. Faced with the looming prospect of a war with Japan, the completion of Sembawang Naval Base became a priority for Britain. King George VI Dock was finally completed in early 1938 and was touted as one of the largest naval docks ever built, capable of accommodating the biggest ship in the world.
 
-<img style="width: 650px; height: 400px;" src="/images/Vol-15-issue-2/the-story-of-two-shipyards/Ship6.JPG">
-<div style="background-color: white;">King George VI Dock under construction at the Singapore Naval Base, 1933. <i>The National Archives of the UK (ADM195/106).</i></div>
+<img style="width: 600px; height: 400px;" src="/images/Vol-15-issue-2/the-story-of-two-shipyards/Ship5.JPG">
+<div style="background-color: white;">When completed in 1938, King George VI Dock at the Singapore Naval Base in Sembawang was touted as one of the largest naval docks ever built and capable of accommodating the biggest ship in the world. <i>The Singapore Free Press and Mercantile Advertiser, 14 February 1938, p. 1.</i></div>
 
 #### **The War Comes to Singapore**
 
@@ -104,9 +104,6 @@ After Singapore gained independence in 1965, the British gradually reduced its m
 
 In June 1968, the Singapore government began the process of converting the naval base into a government-linked commercial entity known as Sembawang Shipyard Pte Ltd. The shipyard began operations in December the same year after the British government sold the naval base to Singapore for a token sum of $1. The assets of the naval base were valued at £2 million and included a 100,000-dwt drydock, five floating docks, a mile-long deepwater berthside, full cranage and 22 hectares of workshop facilities.
 
-<img style="width: 650px; height: 400px;" src="/images/Vol-15-issue-2/the-story-of-two-shipyards/Ship7.JPG">
-<div style="background-color: white;">The first female apprentices at Sembawang Shipyard, 1970s. The shipyard set up its own apprenticeship training centre in 1972 to train a new generation of Singaporean engineers and managers, who would eventually take over the reins from British managing agent, Swan Hunter. <i>Image reproduced from Chew, M. (1998). Of Hearts and Minds: The Story of Sembawang Shipyard (p. 116). Singapore: Sembawang Shipyard Pte Ltd. (Call no.: RSING 623.83 CHE).</i></div>
-
 #### **A New Vision for Keppel and Sembawang**
 
 In 1968, Hon Sui Sen, then Chairman of the Economic Development Board, was appointed the first chairman of both Keppel and Sembawang shipyards. His first priority was to transform the two shipyards into for-profit business enterprises. The same year, British shipbuilding group, Swan Hunter of Tyneside, England, was appointed as managing agent to help the shipyards build up their capabilities and resources. These included the development of international commercial and marketing networks that were critical for success in the ship repair business.
@@ -117,15 +114,18 @@ One stumbling block was caused by Sembawang’s elaborate naval dockyard design.
 
 The two shipyards set up their own apprenticeship training centres – Keppel in 1969 and Sembawang in 1972. Many young Singaporeans who completed these apprenticeship programmes formed the backbone of Singapore’s maritime industry in the 1980s and 90s.
 
-Keppel and Sembawang shipyards became major beneficiaries of scholarship programmes aimed at nurturing local talent to fill key positions in Singapore’s maritime and shipping industry. Recipients of various government and the Colombo Plan scholarship schemes were among the first generation of local engineers and managers at the two shipyards.
+<img style="width: 650px; height: 400px;" src="/images/Vol-15-issue-2/the-story-of-two-shipyards/Ship7.JPG">
+<div style="background-color: white;">The first female apprentices at Sembawang Shipyard, 1970s. The shipyard set up its own apprenticeship training centre in 1972 to train a new generation of Singaporean engineers and managers, who would eventually take over the reins from British managing agent, Swan Hunter. <i>Image reproduced from Chew, M. (1998). Of Hearts and Minds: The Story of Sembawang Shipyard (p. 116). Singapore: Sembawang Shipyard Pte Ltd. (Call no.: RSING 623.83 CHE).</i></div>
 
-<img style="width: 360px; height: 450px;" src="/images/Vol-15-issue-2/the-story-of-two-shipyards/Ship8.JPG">
-<div style="background-color: white;">A ship undergoing repair in Keppel Shipyard
-A ship undergoing repair in Keppel Shipyard, c. early 1990s. <i>Image reproduced from Lim, R. (1993).Tough Men, Bold Visions: The Story of Keppel (p. 65). Singapore: Keppel Corporation Limited. (Call no.: RSING 338.76238309 LIM).</i></div>
+Keppel and Sembawang shipyards became major beneficiaries of scholarship programmes aimed at nurturing local talent to fill key positions in Singapore’s maritime and shipping industry. Recipients of various government and the Colombo Plan scholarship schemes were among the first generation of local engineers and managers at the two shipyards.
 
 Before Swan Hunter’s managing contract with Keppel ended in 1972, a group of Keppel’s key local officers drafted a localisation plan and submitted the blueprint to the chairman of the board. The blueprint was accepted and a local management team took over the shipyard on 1 June 1972, helmed by its new chairman, a prominent Eurasian named George Bogaars. Chua Chor Teck, a former naval dockyard apprentice and naval architecture graduate, was appointed general manager. Briton C.N. Watson of Swan Hunter was retained as interim managing director until 1974, when Chua took over.
 
 Keppel’s new management built a 150,000-dwt drydock on reclaimed land in Tuas, and the new yard commenced business in June 1977 when the dock was completed. In 1979, work on another drydock for ultra-large crude carriers of up to 330,000 dwt began at the Tuas shipyard.
+
+<img style="width: 410px; height: 500px;" src="/images/Vol-15-issue-2/the-story-of-two-shipyards/Ship8.JPG">
+<div style="background-color: white;">A ship undergoing repair in Keppel Shipyard
+A ship undergoing repair in Keppel Shipyard, c. early 1990s. <i>Image reproduced from Lim, R. (1993).Tough Men, Bold Visions: The Story of Keppel (p. 65). Singapore: Keppel Corporation Limited. (Call no.: RSING 338.76238309 LIM).</i></div>
 
 In 1980, Keppel Shipyard Limited (KSL) shares were listed and traded on the Stock Exchange of Singapore, with the launch of an initial public offering of 30 million shares at $3.30 each. Besides the Singapore government, KSL shareholders included institutional investors and private individuals.
 
@@ -154,7 +154,7 @@ The government became concerned that labour activism could derail its efforts to
 <br>
 <div style="background-color: white;">
 <img src="/images/Vol-15-issue-2/the-story-of-two-shipyards/Ship9.JPG" style="width: 100px; height: 100px;">
-<b></b>
+<b>Dr Wee Beng Geok</b> is a former Associate Professor of Strategy and Management at Nanyang Technological University. In 2000, she set up the Asian Business Case Centre, Nanyang Business School, and was its director for 15 years. She has also worked in the corporate sector, including more than a decade in Singapore’s marine industry.
 </div>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-15/issue-2/jul-sep-2019/"><center>Back to Issue</center></a>
