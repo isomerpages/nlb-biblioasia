@@ -63,7 +63,7 @@ When the library re-opened six months later on 1 October 1997, the partitioning 
 
 The National Library Building, which features a secured facility on the 13th floor that has been designed for the long-term storage of fragile archival materials, provides a new impetus for the development of the Rare Materials Collection. 
 
-<div style="background-color: white;"><br><img src="/images/vol-11-issue-4/the-rare-materials-collection/01_rarematerials.jpg">As the Rare Materials Collection is mainly paper based and fragile, it is kept in a special climate controlled room at the National Library Building.</div>
+<div style="background-color: white;"><img style="width: 600px" src="/images/vol-11-issue-4/the-rare-materials-collection/01_rarematerials.jpg">As the Rare Materials Collection is mainly paper based and fragile, it is kept in a special climate controlled room at the National Library Building.</div>
 
 During the last decade, the collection has grown rapidly through many generous donations as well as acquisitions by the library. Notable recent acquisitions include the David Parry Southeast Asian Map Collection in 2012, which contains an early map of Southeast Asia, *Vndecima Asiae Tabvla*, by Arnoldus Buckinck and printed in 1478. This map easily predates the travelogue, *The History of Trauayle in the West and East Indies* (1577), which until then had been the oldest item in the Rare Materials Collection.
 
