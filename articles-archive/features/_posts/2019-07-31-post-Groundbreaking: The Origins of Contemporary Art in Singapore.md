@@ -5,13 +5,12 @@ permalink: /vol-15/issue-2/jul-sep-2019/groundbreaking-art/
 layout: post
 description: ""
 ---
-
 #### 1988 has been held as the watershed year in which Singapore’s contemporary art took root with the establishment of The Artists Village. **Jeffrey Say** debunks this view, asserting that the contemporary art movement began earlier.
 
 <img src="/images/Vol-15-issue-2/origins-of-art-in-sg/GroundBreaking1.JPG">
 <div style="background-color: white;">A wooden box made by young artists – Tang Mun Kit, Baet Yeok Kuan, Lim Poh Teck and Chng Chin Kang – being pushed from the former St Joseph’s Institution to Marina Square for the <i>More Than 4</i> event staged as part of the 1988 Arts Festival Fringe. <i>Courtesy of Koh Nguang How</i></div>
 
-“[T]he emergence of the Singapore artist collective The Artists Village.[^1] arguably marks the beginning of contemporary art in Singapore”.[^2]
+“[T]he emergence of the Singapore artist collective The Artists Village[^1] arguably marks the beginning of contemporary art in Singapore.”[^2]
 
 This assertion by curator and art critic Iola Lenzi reflects a view that has been long accepted in writings on Singaporean contemporary art. Art curator Russell Storer, in his discussion of sculptor and painter Tan Teng-Kee’s 1979 performative work *The Picnic*, dismissed it as “a flash of avant-gardism within a conservative artistic environment… a form that did not take hold in Singapore for another decade until the establishment of The Artists Village in 1988”.[^3]
 
@@ -57,9 +56,6 @@ Before the establishment of the Singapore Art Museum in 1996, the National Museu
 
 Foreign cultural institutes in Singapore, such as Alliance Francaise, The British Council, the Australian High Commission (which organised the Australian Art Award for Young Artists)[^12] and the Goethe-Institut, also served as platforms for learning and exhibitions. The Goethe-Institut was especially instrumental in providing an alternative space for the display of contemporary art: its exhibitions of works by German artists and film screenings would undoubtedly have been seen by young local artists and, in turn, energised their own practice. In addition to hosting the graduation shows of NAFA and those of young emerging artists,[^13] the Goethe also had a library that was well stocked with art books – a useful resource for young artists looking for ideas from outside Singapore.
 
-<img src="/images/Vol-15-issue-2/origins-of-art-in-sg/GroundBreaking4.JPG">
-<div style="background-color: white;">The Art Commandos during one of their outdoor performances at the 1998 Arts Festival Fringe that combined music, dance, drama and visual arts. The paraphernalia and artworks seen in the photo were all made using materials that had been salvaged. <i>Courtesy of Koh Nguang How.</i></div>
-
 #### **Groundbreaking Art**
 
 Interestingly, many of the visual art exhibitions that featured cutting-edge works by young and emerging artists during this period were organised as part of the Fringe segment of the Singapore Festival of Arts. The Fringe showcased events featuring visual and performing arts that frequently crossed from one discipline to the other. The Fringe was exactly what the term stood for – non-mainstream events that encouraged greater experimentation and diversity of visual expressions, which in turn expanded the scope of contemporary art practice in Singapore.
@@ -70,14 +66,14 @@ By naming the exhibition *Not the Singapore River*, Lim had intended to usher in
 
 The aforementioned *Quintet* exhibition by NAFA’s five young artists, held at Arbour Fine Art in May 1987, was arguably the most significant art exhibition in the second half of the 1980s, and its radical origins have been noted by various writers. The reviewers of the show were quick to point out the innovative components of *Quintet*,[^15] here with its works displayed on the wall, floor and ceiling in seemingly random fashion.
 
-<img src="/images/Vol-15-issue-2/origins-of-art-in-sg/GroundBreaking5.JPG">
-<div style="background-color: white;">S. Chandrasekaran (right) performing at the Yin Yang Festival at the National University of Singapore Guild House in November 1987. He is seen here laying a trail of stones into the children’s pool at the Guild House. Not surprisingly, the exhibition invited much negative feedback from a public and press unused to such experimental art forms. (See <i>The Straits Times</i>, 24 November 1987, p.25). <i>Photo on right courtesy of Neo Kim Seng.</i></div>
-
 While the art works of Desmond Tan and Koh Kim Seng of *Quintet* conformed to the conventions of easel paintings, those of Salleh Japar, Goh Ee Choo and S. Chandrasekaran broke new ground in Singaporean art. Drawing from Asian heritage and philosophy, their works were a direct reaction to Western-centric art practices prevailing in Singapore. The use of objects such as sand, stones, dried leaves, barbed wire and even a kitchen wok, arranged as installations on the floor or as constructions on the wall – and the creation of a total and immersive art environment in the process – were the key elements that made it so revolutionary.
 
-Significantly, too, *Quintet* was the precursor of the well-documented *Trimurti* that was staged in 1988 – the same year The Artists Village was launched. *Trimurti* is regarded today as a seminal exhibition in the history of Singaporean contemporary art (refer to the second text box at the end of the article).
+Significantly, too, *Quintet* was the precursor of the well-documented *Trimurti* that was staged in 1988 – the same year The Artists Village was launched. *Trimurti* is regarded today as a seminal exhibition in the history of Singaporean contemporary art (see second text box at the end of the article).
 
 In 1988, an unsung figure in Singaporean contemporary art history, the French-born multidisciplinary artist Gilles Massot, conceived and organised Art Commandos, a group of about 30 individuals who launched “raids” into the city area as part of the 1988 Arts Festival Fringe. The “raids” constituted one of the first instances of intervention by a group of creative individuals in a public space.
+
+<img src="/images/Vol-15-issue-2/origins-of-art-in-sg/GroundBreaking4.JPG">
+<div style="background-color: white;">The Art Commandos during one of their outdoor performances at the 1998 Arts Festival Fringe that combined music, dance, drama and visual arts. The paraphernalia and artworks seen in the photo were all made using materials that had been salvaged. <i>Courtesy of Koh Nguang How.</i></div>
 
 After having trained for a week under different mentors in an experimental workshop in Sentosa that combined visual art, music, drama and dance, the Art Commandos settled into their “base camp” at the former St Joseph’s Institution (now Singapore Art Museum), from where they fanned out into various parts of the city, including Orchard Road. The performances were spontaneous and involved members of the group expressing themselves in song, dance and drama, and using a variety of artistic props made from readily available materials.
 
@@ -96,6 +92,9 @@ Cheo’s work can be framed within what is known as relational aesthetics, in wh
 The public reception to contemporary art in Singapore has been mostly overlooked in existing writings. One of the strongest indicators that a contemporary art scene had emerged in the mid-1980s was the public discourse that took place in response to its development. By its very nature, contemporary art is meant to be provocative and interactive, demanding, as it were, the audience to participate. The coverage of the visual arts in the press and other writings during this period were largely attempts to make sense of some of the avant-garde and experimental art practices that had begun surfacing. The cutting-edge quality of contemporary art inevitably elicited strong reactions from the public.
 
 During S. Chandrasekaran’s performance for the Yin Yang Festival in November 1987, for instance, players at a nearby tennis court got into a heated exchange with members of the artist’s procession, questioning whether splashing paint over a heap of stones can be considered art.[^20] In July 1988, a member of the public wrote to *The Straits Times*, expressing disappointment with the Art Commandos, criticising the artistic quality of the performers and the lack of good content.[^21]
+
+<img src="/images/Vol-15-issue-2/origins-of-art-in-sg/GroundBreaking5.JPG">
+<div style="background-color: white;">S. Chandrasekaran (right) performing at the Yin Yang Festival at the National University of Singapore Guild House in November 1987. He is seen here laying a trail of stones into the children’s pool at the Guild House. Not surprisingly, the exhibition invited much negative feedback from a public and press unused to such experimental art forms. (See <i>The Straits Times</i>, 24 November 1987, p.25). <i>Photo on right courtesy of Neo Kim Seng.</i></div>
 
 Much of the criticisms, particularly in newspapers and magazines, took aim at the seemingly gimmicky and experimental nature of the works, which themselves were a barometer of a growing interest in forms and practices that were shifting from the more familiar art of the 1970s and early ’80s that were expressed mainly through paintings, sculptures and salon photography. The reactions from both audience and journalists ranged from utter bewilderment to complete denial that what they were witnessing was art. But ironically, headlines such as “Art or gimmick?”.[^22] and “A year when the young hogged the limelight”[^23] were ample evidence that new art forms were emerging in Singapore.
 
