@@ -141,14 +141,17 @@ We often lament how “small” Singapore is. Unlike other countries, we do not 
 [^12]: C.H. Wake, “Raffles and the Rajas: The Founding of Singapore in Malayan and British Colonial History,” *Journal of the Malaysian Branch of the Royal Asiatic Society* 48, no. 1 (227) (1975): 60. (From JSTOR via NLB’s eResources website)
 
 
-[^13]: 
+[^13]: Raja Ali Haji ibn Ahmad, *The Precious Gift (Tuhfat al-Nafis)*, trans. Virginia Matheson and Barbara Andaya (Kuala Lumpur: Oxford University Press, 1982), 244–45. (From National Library, Singapore, Call no. RSING 959.5142 ALI)
 
-[^14]: 
+[^14]: Timothy P. Barnard, “Celates, Rayat-Laut, Pirates: The Orang Laut and Their Decline in History,” *Journal of the Malaysian Branch of the Royal Asiatic Society* 80, no.2 (293) (December 2007): 35. (From JSTOR via NLB’s eResources website)
 
-[^15]: 
 
-[^16]: 
+[^15]: Gambier was a valuable crop used in tanning leather and its trade contributed to the wealth of Riau-Lingga. The Teochew planters who arrived in Singapore from Riau introduced the *kangchu* cultivation system that dominated the interior for much of the early 19th century. See Carl Trocki, *Prince of Pirates: The Temenggongs and the Development of Johor and Singapore 1784–1885* (Singapore: NUS Press, 2007), 33–35. (From National Library, Singapore, Call no. RSING 959.5103 TRO). For information about gambier plantations in early Singapore, see Timothy Pwee, “From Gambier to Pepper: Plantation Agriculture in Singapore,” *BiblioAsia* 17, no. 1 (Apr–Jun 2021).  
 
-[^17]: 
 
-[^18]:
+[^16]: Trocki, *Prince of Pirates*, 34.
+
+[^17]: Carl Trocki, *Singapore: Wealth, Power and the Culture of Control* (New York: Routledge, 2006), 8. (From National Library, Singapore, Call no. RSING 959.5705 TRO-[HIS]). On Singapore’s early Teochew community, see Jason Heng, “An Old Teochew Oral Account Sheds New Light on the 1819 Founding of *Singapore*,” in Singapore. National Library Board, *Chapters on Asia: Selected Papers from the Lee Kong Chian Research Fellowship (2014–2016)* (Singapore: National Library Board, 2018), 291–331. (From BookSG, Call no. RSING 959.57 CHA-[HIS])
+
+
+[^18]: Barbara Andaya, “From Rum to Tokyo: The Search for Anti-Colonial Allies by the Rulers of Riau, 1899–1914,” *Indonesia*, no. 24 (October 1977): 128. (From JSTOR via NLB’s eResources website)
