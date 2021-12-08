@@ -7,7 +7,6 @@ permalink: /editors-picks/culture
 <div style="background-image:url('https://biblioasia.nlb.gov.sg/images/Vol-12-issue-4/glitz-and-glamour/2-beneath_glitz_glamour.png'); width:100%; height:450px; background-position:top;">&nbsp;</div>
 <hr>
 
-
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-2/jul-sep-2021/malay-weddings" target="_blank"> Malay-Muslim Weddings: Keeping Up with the Times</a>
  <p>Customs and traditions change over time. Asrina Tanuri and Nadya Suradi trace how Malay-Muslim weddings in Singapore have evolved since the 1950s.</p> 
  <img style="width:100%;" src="/images/vol-17-issue-2/malayweddings/Tandu.jpg">
