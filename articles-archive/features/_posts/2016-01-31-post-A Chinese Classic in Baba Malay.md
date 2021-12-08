@@ -21,31 +21,17 @@ events in the stories.7
 Interestingly, Chan encouraged communication between himself and the readers and even among readers themselves by publishing letters in English, Chinese and Malay containing comments on previous volumes of the book. He also shared 
 his trials and tribulations in producing the books as well as his financial woes, photographs of himself and his assistants and other private information.8
 
-Such translations of Chinese historical novels into Baba Malay first took placein the 1880s in Batavia (now Jakarta). They 
-were well-received by the Peranakan 
-community there and soon made their 
-way to Singapore.9
- The earliest translations in Singapore were undertaken by 
-businessman Tan Beng Teck, who left for 
-Japan and discontinued his translation 
-works. Chan then took over, and even 
-revised Tan’s earlier works.10
-Chan became a dominant influence in 
-the small Baba Malay publishing industry, 
-gaining prominence for his translation 
-of three popular Chinese classics: apart 
-from Sam Kok, he also translated two 
-other Chinese classics, Song Kang (Water 
-Margin) and Kou Chey Tian (Journey to the 
-West).
-11 After his death in 1920, the translation of Chinese stories into Baba Malay 
-declined,12 due in part to the Peranakan 
-community’s increasing preference for 
-English-language books.13
-The son of a Penang trader, Chan was 
-educated in English at the Penang Free 
-School, and received private tuition in 
-Chinese. He arrived in Singapore in March 
-1872, and built a career as an administrator at Aitken & Rodyk. The book-keeper 
-and cashier, however, became better 
-known for his translations of Chinese clas-
+Such translations of Chinese historical novels into Baba Malay first took place in the 1880s in Batavia (now Jakarta). They were well-received by the Peranakan community there and soon made their way to Singapore.9 The earliest translations in Singapore were undertaken by 
+businessman Tan Beng Teck, who left for Japan and discontinued his translation works. Chan then took over, and even revised Tan’s earlier works.
+
+Chan became a dominant influence in the small Baba Malay publishing industry, gaining prominence for his translation of three popular Chinese classics: apart from *Sam Kok*, he also translated two other Chinese classics, *Song Kang* (*Water Margin*) and *Kou Chey Tian* (*Journey to the West*).11 After his death in 1920, the translation of Chinese stories into Baba Malay 
+declined,12 due in part to the Peranakan community’s increasing preference for English-language books.13
+
+The son of a Penang trader, Chan was educated in English at the Penang Free School, and received private tuition in Chinese. He arrived in Singapore in March 1872, and built a career as an administrator at Aitken & Rodyk. The book-keeper 
+and cashier, however, became better known for his translations of Chinese classics into Baba Malay, which he diligently worked on after office hours.14
+
+It was Chan’s publication of *Sam Kok* that brought him fame, primarily because it was a massive work that was serialised over 30 volumes. The series also included Chan’s footnotes, which provided details of Chinese culture as well as notes on romanised Malay terms and names, to which Chinese text was added for clarification. Jokes and even a portrait of the author were included in the series.15
+
+Chan was known by the pen-name Batu Gantong (literally “Hanging Rock”), which is the name of a cemetery in Penang. Some people believed that this was an allusion to his preference for his final resting place. Chan’s home at 75 Lebuh Muntri in Georgetown, Penang, has today become a tourist destination because of the fame that Chan had gained through his Baba Malay translations.16 
+
+#### **NOTES**
