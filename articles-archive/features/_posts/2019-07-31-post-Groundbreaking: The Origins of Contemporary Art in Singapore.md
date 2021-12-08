@@ -104,8 +104,6 @@ It is clear that the growth of Singapore’s contemporary art scene cannot be si
 
 A confluence of various factors – institutional support and reception by the media, innovative individuals and groups, and cutting-edge exhibitions – were responsible for the development of contemporary art in Singapore during this period. This would provide the momentum needed to carry contemporary art forward to the 1990s and beyond.
 
-*The author hopes this essay will lead to further discourse on the individuals, exhibitions and institutions that have contributed to the growth of the contemporary art scene in Singapore. As part of his research, he interviewed three individuals who have been instrumental in this area: artist and photography historian Gilles Massot; artist and archivist Koh Nguang How; and ceramicist and sculptor Ahmad Abu Bakar. The author would also like to thank Salleh Japar and Goh Ee Choo for allowing access to their archival materials, and to Seng Yu Jin and S. Chandrasekaran for sharing their knowledge.*
-
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
 	<b>THREE ARTWORKS AHEAD OF THEIR TIME</b>
 <br><br>
@@ -122,7 +120,7 @@ Tan Teng-Kee staged <i>The Picnic</i> as an outdoor event at the field outside h
 	<b>TRIMURTI: A RETURN TO ASIAN AESTHETICS</b>
 <br><br>
 	<img style="width: 450px; height: 300px;" src="/images/Vol-15-issue-2/origins-of-art-in-sg/GroundBreaking7.JPG">Goh Ee Choo
-Goh Ee Choo during one of his ritualistic performances for <i>Trimurti</i> in 1988. <i>Courtesy of Goh Ee Choo, S.Chandrasekaran and Salleh Japar.</i>
+Goh Ee Choo during one of his ritualistic performances for <i>Trimurti</i> in 1988. <i>Courtesy of Goh Ee Choo, S. Chandrasekaran and Salleh Japar.</i>
 	<br><br>
 In March 1988, Goh Ee Choo, Salleh Japar and S. Chandrasekaran staged an exhibition at the Goethe-Institut titled <i>Trimurti</i>. The exhibition was, in many ways, a crystallisation of the ideas and concepts that they had been working on in <i>Quintet</i> that took place in May 1987. In <i>Quintet</i>, these three artists drew extensively from Asian philosophical systems relating to ideas of creation and the cosmos, but with <i>Trimurti</i>, these ideas became more fully fledged and explicit as concepts underpinning the exhibition.
 <br><br>
@@ -131,7 +129,8 @@ In March 1988, Goh Ee Choo, Salleh Japar and S. Chandrasekaran staged an exhibit
 After this event, Goh, Salleh and Chandrasekaran never exhibited collectively again, but went on to forge successful individual careers as artists. The only exception was in 1998, when the artists reprised <i>Trimurti</i> in the exhibition <i>Trimurti and Ten Years After</i> at the Singapore Art Museum.
 </span>
 
-<br>
+*The author hopes this essay will lead to further discourse on the individuals, exhibitions and institutions that have contributed to the growth of the contemporary art scene in Singapore. As part of his research, he interviewed three individuals who have been instrumental in this area: artist and photography historian Gilles Massot; artist and archivist Koh Nguang How; and ceramicist and sculptor Ahmad Abu Bakar. The author would also like to thank Salleh Japar and Goh Ee Choo for allowing access to their archival materials, and to Seng Yu Jin and S. Chandrasekaran for sharing their knowledge.*
+
 <div style="background-color: white;">
 <img src="/images/Vol-15-issue-2/origins-of-art-in-sg/GroundBreaking8.jpg" style="width: 100px; height: 100px;">
 <b>Jeffrey Say</b> is an an art historian and lecturer at LASALLE College of the Arts, where he helped develop its art history programmes. He undertook the first extensive study of the history of sculpture in pre- and post-war Singapore, and is co-editor of <i>Histories, Practices, Interventions: A Reader in Singapore Contemporary Art</i> (2016).
@@ -141,10 +140,10 @@ After this event, Goh, Salleh and Chandrasekaran never exhibited collectively ag
 
 #### **NOTES**
 [^1]:The Artists Village (TAV) is an artist colony founded by artist Tang Da Wu in 1988 at Lorong Gambas in Sembawang. Tang invited young artists such as Wong Shih Yaw, Lee Wen, Amanda Heng and Zai Kuning to set up their studios in a *kampong* setting there. In the following year, TAV became active with open studio shows, installations and performances, held at Lorong Gambas and venues such as the National Museum Art Gallery. In 1990, Lorong Gambas was repossessed by the government for redevelopment and TAV moved to a number of different temporary locations.
-[^2]:Lenzi, I. (c. 2009). The Artists Village and the birth of contemporary art in Singapore: Koh Nguang How in conversation with Iola Lenzi. In I. Lenzi (Ed), *Concept, context, contestation: art and the collective in Southeast Asia* (pp. 190–195). Bangkok: Bangkok Art and Cultural Centre Foundation. (Not in NLB holdings).
+[^2]:Lenzi, I. (c. 2009). The Artists Village and the birth of contemporary art in Singapore: Koh Nguang How in conversation with Iola Lenzi. In I. Lenzi (Ed), *Concept, context, contestation: art and the collective in Southeast Asia* (pp. 190–195). Bangkok: Bangkok Art and Cultural Centre Foundation. (Not available in NLB holdings).
 [^3]:Storer, R. (2016). Melting into air: Tan Teng-Kee in Singapore. In R. Storer, C. Chikiamco & A. Tan (Eds.), [*A fact has no appearance: Art beyond the object*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202388798) (pp. 55–67). Singapore, National Gallery, Singapore. (Call no.: RSING 709.5909047 FAC).
 [^4]:Kwok, K. C. (1996). [*Channels and confluences: A history of Singapore art*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7628104). Singapore, Singapore Art Museum. (Call no.: RSING 709.5957 KWO).
-[^5]:Sabapathy, T.K. (1993, June). Trimurti: Contemporary art in Singapore. *Art and Asia Pacific*, pp. 30–35. (Not in NLB holdings).
+[^5]:Sabapathy, T.K. (1993, June). Trimurti: Contemporary art in Singapore. *Art and Asia Pacific*, pp. 30–35. (Not available in NLB holdings).
 [^6]:Sabapathy, Jun 1993, pp. 30–35.
 [^7]:Sheares, C. (Interviewer). (1998, April 15). [*Oral history interview with Salleh Japar*](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/1/10bab64f-115f-11e3-83d5-0050568939ad-OHC002018_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=9) [Transcript of recording no. 002018/4/1, p. 2]. Retrieved from National Archives of Singapore website. Art history has shown that new movements – from the Impressionists to the Vienna Secessionists – invariably started when students and young artists rebelled against prevailing art practices that they deemed to be conservative, constraining and outmoded.
 [^8]:Interview with Ahmad Abu Bakar, 16 February 2019.
@@ -160,6 +159,6 @@ After this event, Goh, Salleh and Chandrasekaran never exhibited collectively ag
 [^18]:Relational aesthetics was coined by the French curator and art critic Nicholas Bourriaud in the 1990s to describe art based on human relations and their social contexts.
 [^19]:Tate. *Art term: Relational aesthetics*. Retrieved from Tate website.
 [^20]:[*The Straits Times*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19871124-1.2.74.32.2), 24 Nov 1987, p. 25.
-[^21]:[Commandos: antics or art](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880701-1.2.77.36.2.3). (1988, July 1). *The Straits Times*, p. 31. Retrieved from NewspaperSG.
+[^21]:[Commandos: Antics or art](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880701-1.2.77.36.2.3). (1988, July 1). *The Straits Times*, p. 31. Retrieved from NewspaperSG.
 [^22]:[*The Straits Times*](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880620-1.2.62.35.4), 20 Jun 1988, p. 29.
 [^23]:[A year when the young hogged the limelight](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19871227-1.2.94.23.1.1). (1987, December 27). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
