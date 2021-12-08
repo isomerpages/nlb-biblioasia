@@ -112,13 +112,13 @@ We often lament how “small” Singapore is. Unlike other countries, we do not 
 
 #### **NOTES**
 
-[^1]: 
+[^1]: Mark R. Frost and Yu-Mei Balasingamchow, *Singapore: A Biography* (Singapore: Editions Didier-Millet, 2009), 75. (From National Library, Singapore, Call no. RSING 959.57 FRO-HIS])
 
-[^2]: 
+[^2]: Leonard Y. Andaya, “Johor-Riau Empire,” in *Southeast Asia: A Historical Encyclopedia from Angkor Wat to East Timor*, ed. Ooi Keat Gin (Santa Barbara: U.C. Santa Barbara Press, 2004), 699. (From National Library, Singapore, Call no. RSING q959.003 SOU)
 
-[^31]: 
+[^3]: Leonard Y. Andaya, *The Kingdom of Johor 1641–1728: Economic and Political Developments* (Kuala Lumpur: Oxford University Press, 1975), 312. (From National Library, Singapore, Call no. RCLOS 959.51 AND-[GH])
 
-[^4]: 
+[^4]: Carl A. Trocki, *Prince of Pirates: The Temenggongs and the Development of Johor and Singapore: 1784–1885* (Singapore: NUS Press, 1979), 46. (From National Library, Singapore, Call no. RSING 959.5142 TRO)
 
 [^5]: 
 
@@ -146,7 +146,4 @@ We often lament how “small” Singapore is. Unlike other countries, we do not 
 
 [^17]: 
 
-[^18]: 
-
-
-
+[^18]:
