@@ -27,3 +27,36 @@ Association with the Malay court gave the Bugis newcomers prestige and also a st
 Old Johor reached its height in the 18th century when it was ruled from the port city of Riau, on the Carang River in Bintan. Stable, prosperous and competitive, it posed a threat to Dutch trading interests in the region.[^5] This rivalry led to an all-out war in 1784 that witnessed the heroic stand of the Bugis chief Raja Haji Fisabilillah against the European invaders. The Dutch, however, eventually triumphed. They destroyed Riau and extended their influence over the polity. 
 
 The echoes of such splendours and struggles can be glimpsed from a seven-hour voyage that begins at the Tanah Merah Ferry Terminal in Singapore and ends at Pulau Lingga, the former kingdom’s royal seat since 1788. Lingga is a land of palaces, forts and tombs, and nearly every royal landmark here bears the imprint of a broader reach.
+
+#### **The Isle of Kings** 
+
+In 2019, a friend of mine, the researcher and photographer Marcus Ng, invited me on a trip to Lingga. There is no direct route there from Singapore as the ferry from Tanah Merah stops in Tanjong Pinang, the capital of Indonesia’s Riau Islands Province (Provinsi Kepulauan Riau, or “Kepri” for short). Visible across the water is Pulau Penyengat, the tiny island fortress of the former Bugis chiefs. On Pulau Penyengat are the tombs of renowned figures from the history of the sultanate – from Engku Puteri Raja Hamidah, consort of Sultan Mahmud Shah III (r. 1770–1811), to the scholar and chronicler Raja Ali Haji.
+
+As the inter-island transit ferry departs Tanjong Pinang, we enter azure waters girded by white sands with endless coconut palms, pandan plants (screwpine) and casuarina trees. The ferry makes stops at neat coastal kampongs – ordered lines of littoral houses built along the perimeter of tiny isles such as Pulau Benan and Pulau Rejai. It skirts hidden shoals, marked by the half-submerged stilt-roots of bakau (Rhizophora spp.) trees, mangrove islands that rise and sink with the tide. 
+
+Near these intertidal forests, people have built traditional fish traps – like the kelong and belat – which recall scenes of old Bedok, Siglap or Pasir Panjang before reclamation and resettlement: the Singapore our parents remember. But the equally prominent broadcast towers and satellite dishes remind us that this is how modern and connected rural life can look like too.
+
+After about five hours at sea, the ferry berths at Sungai Tenam pier, on the northern tip of Lingga. It is another hour’s drive south to Daik, the island’s principal town on its opposite coast. The well-maintained road runs past peaty swamps, pepper gardens and near-century-old gutta percha estates, now nearly indistinguishable from primary rainforest. Before long, Mount Daik and her three peaks emerge into view amid the flat lowlands: a lone cone with sheer faces clawing heavenward.
+
+I had long wanted to visit Daik. Its famed mountain, which rises more than a kilometre above the sea and is oft shrouded by clouds and fog, is memorialised in one of the most renowned Malay pantun:
+
+“Pulau Pandan jauh ke tengah
+ Gunung Daik bercabang tiga
+ Hancur badan dikandung tanah
+ Budi yang baik terkenang juga”6 
+ 
+(Translation: 
+Pulau Pandan lies far out at sea
+Mount Daik has three peaks
+The body may dissemble in the earth
+Good deeds are long remembered)
+
+Daik was where my late maternal great-grandmother was born, more than a hundred years ago. (She had come to Singapore as an adolescent.) The term that the residents of Pulau Lingga give their island: Bunda Tanah Melayu, which roughly translates to “mother of the Malay lands”, resonates with me. Indeed, to this day, Lingga is seen as the spiritual heart of Malay culture. The variety of Malay spoken there is still regarded as the most “refined”. And despite being Indonesian by nationality, the people of Lingga are fiercely proud of their Malay cultural identity, as local resident Rizal, our guide for the trip explained. Much credit goes to him for enabling our access to the sites of interest mentioned in this essay.
+
+Something about the landscape of Lingga, with its soaring peaks visible from distant passing ships, must have suggested it as an ideal spot to found a royal capital. Historians like John Miksic have argued that the Malay kings often built their residences at a point of axis between a mountain or a hill, and an estuary or coast.7  The palace of old Singapura, for instance, was built on the slopes of Bukit Larangan (later Government Hill and then Fort Canning Hill) overlooking the Singapore River.  
+
+#### **A Trading Power** 
+
+
+#### **A Trading Power** 
+
