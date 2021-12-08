@@ -2,5 +2,5 @@ collections:
   jan-to-mar-2022:
     output: true
     order:
-      - "Mother Island: Finding Singapore's Past in Pulau Lingga.md"
       - Director's Note.md
+      - "Mother Island: Finding Singapore's Past in Pulau Lingga.md"
