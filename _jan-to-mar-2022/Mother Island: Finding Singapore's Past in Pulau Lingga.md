@@ -17,4 +17,4 @@ with Batam’s massage parlours and Bintan’s more sanitised resorts. Fewer,
 though, have any inkling of just how much Singapore is bound to this archipelago by ties of history, economics and culture. Who remembers, for instance, that both Singapore and the Riau-Lingga archipelago were once part of the same maritime empire: the old Sultanate of Johor that emerged after the fall of Melaka to the Portuguese in 1511? Modern Singapore came into being ultimately with the dismemberment of this realm in 1824, when the Anglo-Dutch Treaty divided the Malay World between the British and the Dutch.[^1]
 
 #### **NOTES**
-[^1] Mark R. Frost and Yu-Mei Balasingamchow, [*Singapore: A Biography* ](https://biblioasia.nlb.gov.sg/vol-17/issue-3/oct-dec-2021/singapore-comics#fn:1)(Singapore: Editions Didier-Millet, 2009), 75. (From National Library, Singapore, Call no. RSING 959.57 FRO-HIS])
+[^1]Mark R. Frost and Yu-Mei Balasingamchow, [*Singapore: A Biography* ](https://biblioasia.nlb.gov.sg/vol-17/issue-3/oct-dec-2021/singapore-comics#fn:1)(Singapore: Editions Didier-Millet, 2009), 75. (From National Library, Singapore, Call no. RSING 959.57 FRO-HIS])
