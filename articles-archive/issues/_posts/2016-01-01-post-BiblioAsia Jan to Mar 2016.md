@@ -5,7 +5,7 @@ date: 2016-01-01
 layout: post
 description: ""
 ---
-![Alt text for image on Isomer site](/images/vol-11-issue-4/ba11-4.jpg)
+![Alt text for image on Isomer site](/images/vol-11-issue-4/ba11-4-1.jpg)
 
 **The Rare Materials Collection**
 
