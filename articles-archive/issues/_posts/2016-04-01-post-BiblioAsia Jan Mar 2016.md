@@ -112,37 +112,37 @@ The Lights of Singapore
 **About Law and Order**
 The Law of the Straits Settlements: A Commentary
 
-A Magazine for the Straits Chinese
+**A Magazine for the Straits Chinese**
 The Straits Chinese Magazine: A Quarterly Journal of Oriental and Occidental Culture
 
-Through the Eye Glass
+**Through the Eye Glass**
 Cermin Mata Bagi Segala Orang Yang Menuntut Pengetahuan (An Eye Glass for All Who Seek Knowledge)
 
-The Pulse of Malayan Literature
+**The Pulse of Malayan Literature**
 Pulse
 
-Early History of the Chinese Community
+**Early History of the Chinese Community**
 One Hundred Years’ History of the Chinese in Singapore
 
-A Dictionary That Bridged Two Races
+**A Dictionary That Bridged Two Races**
 Hua yi tong yu (华夷通语)
 
-Singapore in Sepia
+**Singapore in Sepia**
 Fotoalbum Singapur
 
-The Gospel in Chinese
+**The Gospel in Chinese**
 The Perfect Man’s Model (全人矩矱)
 
-The First Public Library
+**The First Public Library**
 Reports of the Singapore Library (1844– 52, 1860)
 
-A Christian Sermon in Malay
+**A Christian Sermon in Malay**
 The Substance of Our Saviour’s Sermon on the Mount Contained in the 5th, 6th &c. 7th Chapters of the Gospel According to St. Matthew
 
-Cartoons of Terror
+**Cartoons of Terror**
 Chop Suey (杂碎画集)
 
-About Babas and the Chinese
+**About Babas and the Chinese**
 The Manners and Customs of the Chinese of the Straits Settlements
 
 **The First Directory**
@@ -154,9 +154,9 @@ The “Mem’s” Own Cookery Book: 420 Tried and Economical Recipes for Malaya
 **In Aid of the Motherland**
 Singapore Tong Seok Dramatic Association Charity Performance for the Shantung Relief Fund (星洲通俗白话剧团演剧筹赈山东惨灾会特刊)
 
-The First Newspaper
+**The First Newspaper**
 Singapore Chronicle and Commercial Register
 
-A Gift of Books
+**A Gift of Books**
 
-Preserving Our Published Heritage
+**Preserving Our Published Heritage**
