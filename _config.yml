@@ -4,7 +4,7 @@ favicon: /images/nlb-favicon.ico
 google_analytics: UA-50449401-32
 colors:
   primary-color: "#d9674d"
-  secondary-color: "#eed000"
+  secondary-color: "#d9674d"
   media-colors:
     - title: media-color-one
       color: "#f8e3da"
