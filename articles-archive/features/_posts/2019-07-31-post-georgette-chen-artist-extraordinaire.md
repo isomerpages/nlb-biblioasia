@@ -15,6 +15,9 @@ Some writings, like manifestos and declarations, tell us about the ideas behind 
 
 The celebrated Singaporean artist Georgette Chen (1906–93) also wrote extensively. Chen’s achievements as an artist are widely recognised: her lively oil paintings of the places and people of Singapore at a formative time in its history have cemented her status as one of the nation’s most important first-generation artists; she was also a respected art educator for 27 years and a Cultural Medallion recipient. Less well known, however, is her personal story, one that spans wars and revolutions, triumph and tragedy, and loves lost and found.
 
+<img style="width: 350px; height: 450px;" src="/images/Vol-15-issue-2/artist-extraordinaire/Artist3.JPG">
+<div style="background-color: white;">Georgette Chen, c. 1950s. <i>Courtesy of National Gallery Singapore.</i></div>
+
 #### **A Life Less Ordinary**
 
 “I often sit quietly in the silence of the night and wonder at the mysterious drama that is life…”[^1]
@@ -23,7 +26,7 @@ Georgette Chen, who was named Zhang Liying when she was born in October 1906, wa
 
 Chen’s father had encouraged her interest in art since young, even engaging a private art tutor, Victor Podgorsky, for her. Father and daughter, in fact, attended these lessons together. Chen’s affinity for oil as a medium was apparent even then.
 
-She recalled of her childhood: “My father expected me to study Chinese painting, but I had a different idea. I told him I wanted to study the oil medium, which would enable me to paint everything around me, people, food, flowers, salted ducks, sampans, peasants and potatoes”.[^2] On another occasion, she remembered her father “impatiently enumerat[ing] the long list of Chinese vegetables which could be painted. He wanted to know why I insisted on painting the foreign potato”.[^3]
+She recalled of her childhood: “My father expected me to study Chinese painting, but I had a different idea. I told him I wanted to study the oil medium, which would enable me to paint everything around me, people, food, flowers, salted ducks, sampans, peasants and potatoes.”[^2] On another occasion, she remembered her father “impatiently enumerat[ing] the long list of Chinese vegetables which could be painted. He wanted to know why I insisted on painting the foreign potato”.[^3]
 
 Chen’s foundation in oil painting was further developed when she studied art in New York (1926–27) and then Paris (1927–33). Her time in the French capital was perhaps the most significant. The City of Light was not unfamiliar to Chen; having spent part of her childhood there, she spoke fluent French and was well acquainted with the sights and sounds of Paris. Chen counted the Tuileries Garden and Parc Monceau among her favourite childhood haunts and, decades later, would still delightfully recall riding on the merry-go-round at the park and feeding her favourite swans at the Tuileries.
 
@@ -49,20 +52,17 @@ Despite their vastly different professions, the two were aligned in their mutual
 
 Despite their 30-year age difference, and the initial disapproval of Chen’s father at their pairing, the couple found in each other “the closest of companions”,[^7] and were married in Paris in 1930. Chen would take on Eugene’s surname and retain it even when she remarried after his death.
 
-The revelatory nature of the written word – even of life at its most mundane – is exemplified in Chen’s writings. The simple, sequestered joys that she shared with Eugene in Paris were rarely mentioned publicly; rather, they were expressed in diaries where she recorded the minutiae of everyday life with her husband – from giving him a haircut to talking a walk together to search for pineapples and avocados for a still-life painting. In one candid entry, she wrote: “Begin small canvas of E portrait. Poses so badly & talks all the time”.[^8]
+The revelatory nature of the written word – even of life at its most mundane – is exemplified in Chen’s writings. The simple, sequestered joys that she shared with Eugene in Paris were rarely mentioned publicly; rather, they were expressed in diaries where she recorded the minutiae of everyday life with her husband – from giving him a haircut to talking a walk together to search for pineapples and avocados for a still-life painting. In one candid entry, she wrote: “Begin small canvas of E portrait. Poses so badly & talks all the time.”[^8]
 
 Chen recorded not just details of her daily life but also, significantly, information on her art and the subjects she was studying or portraying, with descriptions such as “roses still-life 10F” and “nature morte 6F”, terms that likely refer to standard French canvas sizes. On occasion, she would also briefly mention if her painting or study was successful, or if it had to be executed again. These details, which Chen recorded dispassionately and faithfully, offer precious insights into the often hidden and banal aspects of artistic practice, as well as the hard work and dedication behind an artist’s craft.
 
 Over time, Chen’s writings also bear silent witness to the progression of her career: while early diary entries speak of these attempts and studies, later accounts (which appeared in letters to family and friends instead) describe the pieces she was commissioned to create, her attempts at juggling painting and teaching, and the tedium of preparing for exhibitions or judging on committees.
 
-<img style="width: 350px; height: 450px;" src="/images/Vol-15-issue-2/artist-extraordinaire/Artist3.JPG">
-<div style="background-color: white;">Georgette Chen, c. 1950s. <i>Courtesy of National Gallery Singapore.</i></div>
-
 Chen’s blissful life in Paris as a happy newlywed and an emerging artist was soon compromised by the outbreak of the Second Sino-Japanese War in 1937. In 1941, while she and Eugene were living in Hong Kong, they were detained by the Japanese and placed under house arrest before being moved to Shanghai, where they were interned until 1944.
 
 During their time in the Chinese city, Eugene was often called up for “interviews” with the Japanese; fearing for Chen’s safety, he always insisted on taking her everywhere he went.[^9] Chen would later recount an exchange between Eugene and a Japanese officer at one of these sessions, following yet another failure on the part of the Japanese to secure her husband’s cooperation:
 
-“Another arrogant Japanese left our sitting room humble and human again. These were his parting words: ‘Other Chinese leaders have several faces and several tongues, but you, Mr Chen, have only one face and one tongue…’ And in his characteristic humour, Eugene replied: ‘That is precisely why I must not be made to lose that one and only face and tongue, having no spares’”.[^10]
+“Another arrogant Japanese left our sitting room humble and human again. These were his parting words: ‘Other Chinese leaders have several faces and several tongues, but you, Mr Chen, have only one face and one tongue…’ And in his characteristic humour, Eugene replied: ‘That is precisely why I must not be made to lose that one and only face and tongue, having no spares’.”[^10]
 
 Eugene Chen passed away in 1944 at the age of 66 due to ill health. He was still under house arrest in Shanghai at the time.
 
@@ -74,21 +74,18 @@ When Chen wrote these words in a letter to Dorothy Lee, Eugene’s cousin, in 19
 
 Following the end of World War II, Chen stayed in China until 1947, when she left for New York. That same year, she married Dr Ho Yung Chi, Eugene Chen’s colleague and an old mutual friend of theirs. Together, Chen and Ho lived in New York then Paris, all the while bearing hopes of eventually returning to China. However, in the absence of better prospects in China, the couple eventually decided to take up an offer to teach at Han Chiang High School in Penang, Malaya, arriving in 1951 to what Chen described as “a beautiful tropical island which I call my Tahiti”.[^12]
 
-<img style="width: 600px; height: 400px;" src="/images/Vol-15-issue-2/artist-extraordinaire/Artist4.JPG">
-<div style="background-color: white;">Georgette Chen painting Tunku Abdul Rahman in Kuala Lumpur, June 1956. Also pictured is the Tunku’s wife, Sharifah Rodziah. The Tunku first met Georgette and Eugene Chen in 1931 on a ship from Marseilles, Paris, to Singapore. He noted that Chen had a “beautiful and charming” presence, and attributed his political awakening to her husband. <i>Courtesy of National Gallery Singapore.</i></div>
-<br>
-<img style="width: 600px; height: 400px;" src="/images/Vol-15-issue-2/artist-extraordinaire/Artist5.JPG">
-<div style="background-color: white;"> Georgette Chen. <i>Singapore Waterfront</i>. c. 1963. Oil on canvas, 50 x 61 cm. Gift of Lee Foundation. Collection of National Gallery Singapore. <i>Courtesy of National Heritage Board.</i></div>
-
 While Chen was immediately enthralled by this new land and enjoyed her life in Penang immensely, the experience was marred by growing strife in her marriage. Her relationship with Ho was increasingly plagued by bitter arguments over issues like money (she suspected Ho to have an ulterior motive) and her continued use of Eugene’s surname. Chen’s eventual decision to part with Ho was further complicated by intransigence on his part, and it was only after a lengthy, draining process that the couple were eventually divorced in 1953, after six years of marriage. In the same year, Chen moved to Singapore.
 
-Chen arrived in Singapore with renewed hope for a peaceful life. In a letter to friends in early 1954, she said: “With my regained liberty, I now look forward to a simple, useful, and creative existence for the remaining short years that are left”.[^13] She rented a house in Sennett Estate and took up part-time teaching at the Nanyang Academy of Fine Arts, a move that would allow her to pursue her art independently while supporting herself financially.
+Chen arrived in Singapore with renewed hope for a peaceful life. In a letter to friends in early 1954, she said: “With my regained liberty, I now look forward to a simple, useful, and creative existence for the remaining short years that are left.”[^13] She rented a house in Sennett Estate and took up part-time teaching at the Nanyang Academy of Fine Arts, a move that would allow her to pursue her art independently while supporting herself financially.
+
+<img style="width: 600px; height: 400px;" src="/images/Vol-15-issue-2/artist-extraordinaire/Artist5.JPG">
+<div style="background-color: white;"> Georgette Chen. <i>Singapore Waterfront</i>. c. 1963. Oil on canvas, 50 x 61 cm. Gift of Lee Foundation. Collection of National Gallery Singapore. <i>Courtesy of National Heritage Board.</i></div>
 
 She frequently described this arrangement in her letters as allowing her to have “bread without butter”, and with characteristic good humour, often added, “I don’t like butter much anyway, too fattening!”[^14] Despite the toll of age and debilitating rheumatoid arthritis (a condition that began in her 40s), Chen adopted a simpler lifestyle – one far removed from the material comforts of yesteryear – with bravado, relishing even “the ordinary chores of life”.[^15]
 
 #### **Paradise on Earth**
 
-“So you can see why I am fast becoming a tropical plant and desire nothing more than to spend the rest of life painting the vivid motifs of this multi-racial paradise of perpetual sunshine”.[^16]
+“So you can see why I am fast becoming a tropical plant and desire nothing more than to spend the rest of life painting the vivid motifs of this multi-racial paradise of perpetual sunshine.”[^16]
 
 The simple, satisfied existence in Malaya that Chen often spoke of was due to her art, which flourished in this land she now called home. From the 1950s to the 70s, she firmly established herself artistically, creating many of the paintings she is known for today. This would, arguably, not have been possible if she had not settled down in Malaya: so closely intertwined was her art with its people and places.
 
@@ -103,11 +100,14 @@ Chen’s enchantment with Malaya was, in fact, already apparent when she first a
 
 The inspirations and attractions that Malaya afforded clearly invigorated Chen. She made no secret of the “inexhaustible motifs”[^18] that she found in this “seasonless newfoundland”,[^19] which she embraced wholeheartedly. Tropical fruits in their bright colours and variegated forms take centre stage in her still life paintings. These are accompanied by depictions of daily scenes: from a bustling outdoor market to a *satay* seller working by the beach, to the Singapore River. Chen’s portraits, which she was frequently commissioned to make, form another compelling body of work; whether they portray her family and friends (including the first prime minister of Malaysia, Tunku Abdul Rahman) or strangers, these depictions are warm and intimate, sometimes capturing their subjects in the middle of private, interior moments.
 
+<img style="width: 600px; height: 400px;" src="/images/Vol-15-issue-2/artist-extraordinaire/Artist4.JPG">
+<div style="background-color: white;">Georgette Chen painting Tunku Abdul Rahman in Kuala Lumpur, June 1956. Also pictured is the Tunku’s wife, Sharifah Rodziah. The Tunku first met Georgette and Eugene Chen in 1931 on a ship from Marseilles, Paris, to Singapore. He noted that Chen had a “beautiful and charming” presence, and attributed his political awakening to her husband. <i>Courtesy of National Gallery Singapore.</i></div>
+
 Chen often professed, in letters to friends, of her desire to spend the rest of her life depicting Malaya and its motifs. This desire was, however, stymied by age and debilitating illness. She battled rheumatoid arthritis from her 40s until death. The condition, which had also afflicted her father, caused much pain and lack of mobility (in one account, a severe attack in her knees left her “hobbling on a stick for months and months”[^20]), which, although controlled by medication, worsened over the years. This was in part and, quite ironically, due to the medicine that Chen was taking religiously, a side effect of which was osteoporosis.
 
 Despite having to deal with the painful condition alone, Chen remained strong and gentle in spirit; it is in this regard, perhaps, that her writing is most instructive, for it reveals her character in a way that her paintings arguably could not. In letters to friends, Chen often spoke about how “life is anguish and blessings all intermingled which we must accept and carry on as best we can”.[^21] True to this proclamation, she seemed to accept her adversities stoically, however big or small, and forge ahead. The measure of Chen’s inner strength further comes through in the self-deprecating humour evident in her writing. In a letter to Patricia Kennison, one of her students who later became a close friend, she compared herself to an old, worn machine:
 
-“My ‘full form’ can partly be explained by the fact that friends always revive me, for there are times when I do feel quite PATRAQUE, to use an apt French word. (patraque: both a’s are short. Said of a machine that functions badly because it is badly made or old.) But on the whole the slow coach has gone fairly well after its last major repair though the rounds have not been reduced”.[^22]
+“My ‘full form’ can partly be explained by the fact that friends always revive me, for there are times when I do feel quite PATRAQUE, to use an apt French word. (patraque: both a’s are short. Said of a machine that functions badly because it is badly made or old.) But on the whole the slow coach has gone fairly well after its last major repair though the rounds have not been reduced.”[^22]
 
 As Chen alluded to in her letter, it was the simple joy of friendship – in addition to art and a home she loved – that helped sustain her through adversity.
 
