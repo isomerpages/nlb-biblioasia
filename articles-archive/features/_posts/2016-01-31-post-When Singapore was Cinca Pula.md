@@ -5,7 +5,6 @@ date: 2016-01-31
 layout: post
 description: ""
 ---
-
 A 455-year-old map of Southeast Asia tells of the seafaring adventures of 16th century voyagers, whose journeys took them to exciting, uncharted territories waiting to be explored. As the intrepid 
 voyagers discovered new trade routes in Asia, these unknown lands slowly came into prominence. We are familiar with most of them today; one, in particular, stands out – a place indicated on the map as C. Cinca Pula. 
 
@@ -35,8 +34,8 @@ Iapara (Jakarta), Pazer (Pasai), Pacem (Aceh), Campar (Kampar) and Ardagui (Indr
 The map, which the National Library Board acquired in 2012, offers historians valuable insight into the trade, politics and geography of 16th-century Southeast Asia.
 
 #### **NOTES**
-[^1]:Borschberg, P. (Ed.). (2004). Remapping the Straits of Singapore: New insights from old sources? *In Iberians in the Singapore-Melaka Area and adjacent regions (16th to 18th century)* (p. 96). Wiesbaden: Harrassowitz; Lisboa: Fundação Oriente. Call no.: RSING 959.50046 IBE; Borschberg, P. (2005). *Fictitious strait and imagined island: “Singapura” in the late sixteenth and early seventeenth century, water and state in mainland Southeast Asia*. Retrieved from academia.edu website; Borschberg, P. (2010). *The Singapore and Melaka straits: Violence, security and diplomacy in the 17th century* (p. 21). Singapore: NUS Press. Call no.: RSING 911.16472 BOR.
-[^2]:Parry, D. E. (2005). *The cartography of the East Indian Islands = Insulae Indiae Orientalis* (p. 69). London: Country Editions. Call no.: RSING q912.59 PAR; Suarez, T. (1999). *Early mapping of Southeast Asia* (p. 130). Hong Kong: Periplus. Call no.: RSING q912.59SUA.
+[^1]:Borschberg, P. (Ed.). (2004). Remapping the Straits of Singapore: New insights from old sources? In [*Iberians in the Singapore-Melaka Area and adjacent regions (16th to 18th century)*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12493225) (p. 96). Wiesbaden: Harrassowitz; Lisboa: Fundação Oriente. Call no.: RSING 959.50046 IBE; Borschberg, P. (2005). *Fictitious strait and imagined island: “Singapura” in the late sixteenth and early seventeenth century, water and state in mainland Southeast Asia*. Retrieved from academia.edu website; Borschberg, P. (2010). [*The Singapore and Melaka straits: Violence, security and diplomacy in the 17th century*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13218095) (p. 21). Singapore: NUS Press. Call no.: RSING 911.16472 BOR.
+[^2]:Parry, D. E. (2005). [*The cartography of the East Indian Islands = Insulae Indiae Orientalis*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12669569) (p. 69). London: Country Editions. Call no.: RSING q912.59 PAR; Suarez, T. (1999). *Early mapping of Southeast Asia* (p. 130). Hong Kong: Periplus. Call no.: RSING q912.59SUA.
 [^3]:Parry, 2005, p. 69.
 [^4]:Campbell, T. (1987). *The earliest printed map 1472– 1500* (p. 11). London: The British Library. Call no.: R 912.09024 CAM; Suarez, 1999, p. 130.
 [^5]:Campbell, 1987, pp. 4–5; Parry, 2005, pp. 43, 70; Harvey, P. D. A. (1991). *Medieval maps* (pp. 39–45), London: British Library. Call no.: R 912.0902HAR.
