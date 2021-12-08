@@ -53,11 +53,4 @@ sections:
       url: /vol-17/issue-3/oct-dec-2021/moderngirl
       image: /images/vol-17-issue-3/modern-girl/moderngirlhome2.jpg
       alt: sample of JBP
-  - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      url: /images/antibiotic-tales-new.jpg
-      alt: Image alt text
 ---
