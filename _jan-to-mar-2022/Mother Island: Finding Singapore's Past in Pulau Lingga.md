@@ -109,3 +109,44 @@ Carl Trocki has written extensively on how the Bugis-Teochew plantation economy 
 To visit Riau-Lingga, therefore, is to visit an important part of Singapore’s own evolution as a port and society rooted in the Malay world’s patterns of culture and commerce. Even after Singapore and Riau-Lingga were separated, the two islands preserved firm links: well into the 1920s, the princes of Riau-Lingga maintained residences and trading houses in Singapore town.[^18] Ordinary folk born in Singapore moved to Lingga, and vice-versa, as a matter of routine. Until the 1980s, Singaporean Malays living on the Southern Islands still crossed regularly into Riau to visit their cousins and relatives.
 
 We often lament how “small” Singapore is. Unlike other countries, we do not have a vast countryside that maintains a sense of our “authentic” past or traces of our culture against the continuous flux that characterises life in a global city. In reality, nearby places like Lingga display familiar landscapes and recognisable traditions. Modes of life there remind us of our profound historical ties to this region, and that if we cease to regard Singapore’s identity as being confined to its present-day borders, it can hardly be considered “small” at all. Lingga is a keeper of our pasts, a fount of stories that we in Singapore have long forgotten.
+
+#### **NOTES**
+
+[^1]: 
+
+[^2]: 
+
+[^31]: 
+
+[^4]: 
+
+[^5]: 
+
+[^6]: 
+
+[^7]: 
+
+[^8]: 
+
+[^9]: 
+
+[^10]: 
+
+[^11]: 
+
+[^12]: 
+
+[^13]: 
+
+[^14]: 
+
+[^15]: 
+
+[^16]: 
+
+[^17]: 
+
+[^18]: 
+
+
+
