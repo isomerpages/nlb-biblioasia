@@ -120,7 +120,8 @@ We often lament how “small” Singapore is. Unlike other countries, we do not 
 
 [^4]: Carl A. Trocki, *Prince of Pirates: The Temenggongs and the Development of Johor and Singapore: 1784–1885* (Singapore: NUS Press, 1979), 46. (From National Library, Singapore, Call no. RSING 959.5142 TRO)
 
-[^5]: 
+[^5]: The pre-eminence of Riau (Tanjong Pinang in Bintan) as a regional economic hub was so entrenched in the mid- to late 19th century that Joseph Balestier was initially sent to this region to serve as the American consul to Riau. Upon his arrival in 1834, Balestier discovered, to his shock, that Riau had long declined to a backwater and hence amended his posting to become America’s first consul to Singapore. See Richard E. Hale, *The Balestiers: The First American Residents of Singapore* (Singapore: Marshall Cavendish, 2016), 6–13. (From National Library, Singapore, Call no. RSING 959.57030922 HAL-[HIS]); Imran Bin Tajudeen, “From Riau to Singapore, 1700s–1870s: Trade Posts and Urban Histories – a Response to the Book Singapore: A 700-year History,” in *Singapore Dreaming: Managing Utopia*, ed. H. Koon Wee and Jeremy Chia (Singapore: Asian Urban Lab, 2016). (From National Library, Singapore, Call no. RSING 303.495957 SIN) 
+
 
 [^6]: 
 
