@@ -43,3 +43,26 @@ Chan was known by the pen-name Batu Gantong (literally “Hanging Rock”), whic
 <div style="background-color: white;">The translator of the series, Chan Kim Boon (1851–1920) was also known by his pen-name Batu Gantong (literally “Hanging Rock”). <i>All rights reserved, Chan, K. B. (1892–1896). Chrita Dahulukala, Namanya Sam Kok, Atau, Tiga Negri Ber-prang: Siok, Gwi, Sama Gor di Jaman “Han Teow”. Singapore: Kim Sek Chye Press.</i></div>
 
 #### **NOTES**
+[^1]:The term Peranakan generally refers to people of mixed Chinese and Malay/Indonesian heritage. Peranakan males are known as *babas* while the females are known as *nonyas* (or *nyonyas*). See National Library Board. (August 26, 2013). [*Peranakan (Straits Chinese) community*](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-08-30_181745.html) written by Koh, Jaime. Retrieved from Singapore Infopedia.
+[^2]:National Library Board. (2008). [*Chan Kim Boon*](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1337_2008-10-07.html) written by Tan, Bonny. Retrieved from Singapore Infopedia.
+[^3]:Yoong, S. K., & Zainab, A. N. (2002, December). Chinese literary works translated into Baba Malay: A bibliometric study. *Malaysian Journal of Library & Information Science, 7* (2), 21. Retrieved from University of Malaya website.
+[^4]:Yoong & Zainab, Dec 2002, p. 21.
+[^5]:[National Library Board](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1337_2008-10-07.html), 2008.
+[^6]:Proudfoot, I. (1993). [*Early Malay printed books: A provisional account of materials published in the Singapore-Malaysia area up to 1920, noting holdings in major public collections*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6712616) (pp. 25–26). Kuala Lumpur: Academy of Malay Studies and the Library, University of Malaya. Call no.: RSING 015.5957 PRO-[LIB].
+[^7]:[Proudfoot](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6712616), 1993, p. 24; Yoong, S. K., & Zainab, A. N. (2004, December). The Straits Chinese contribution to Malaysian literary heritage: Focus on Chinese stories translated into Baba Malay. *Journal of Educational Media & Library Sciences, 42* (2), 195. Retrieved from e-lis website.
+[^8]:[Proudfoot](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6712616), 1993, pp. 25–26.
+[^9]:[Proudfoot](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6712616), 1993, p. 22.
+[^10]:
+[^11]:
+[^12]:
+[^13]:
+[^14]:
+[^15]:
+[^16]:
+7 
+8 
+9 
+10 Yoong & Zainab, Dec 2004, p. 184; Salmon, C. (Ed.). 
+(2013). Literary migrations: Traditional Chinese 
+fiction in Asia (17th–20th centuries). Singapore: 
+ISEAS Publishing. Cal no.: RSING 895.134809 LIT
