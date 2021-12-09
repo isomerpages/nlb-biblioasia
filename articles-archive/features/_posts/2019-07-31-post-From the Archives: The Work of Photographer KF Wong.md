@@ -5,3 +5,4 @@ date: 2019-07-31
 layout: post
 description: ""
 ---
+#### K.F. Wong shot to international fame with his images of Borneo, though not without controversy. Zhuang Wubin examines Wong’s work and sees beyond their historical value.
