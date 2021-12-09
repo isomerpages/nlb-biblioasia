@@ -163,15 +163,14 @@ The fact that Wong’s images are held in the National Archives conditions how w
 [^22]:Sanger, C. (1995). [*Malcolm MacDonald: Bringing an end to empire*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7836318) (p. 329). Liverpool, UK: Liverpool University Press. (Call no.: RSING 941.082092 SAN) [Note: I would like to thank Alexander Shaw for pointing out this reference.]
 [^23]:Wong, K.F. (1960). [*Pagan innocence*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4090174). London: Jonathan Cape. (Call no.: RCLOS 991.12 WON-[GBH]). 
 [^24]:*Sarawak Tribune*, 1998.
-[^25]:MacDonald, M. (1960). Introduction. In [Pagan innocence](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4090174) (p. 7). London: Jonathan Cape. (Call no.: RCLOS 991.12 WON-[GBH])
-[^26]:
-[^27]:
-[^28]:
+[^25]:MacDonald, M. (1960). Introduction. In [*Pagan innocence*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4090174) (p. 7). London: Jonathan Cape. (Call no.: RCLOS 991.12 WON-[GBH]).
+[^26]:Romney, H. (1960, October 24). [Caught with the camera: The Dyaks in a passing moment](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19601024-1.2.66). *The Straits Times*, p. 8. Retrieved from NewspaperSG.
+[^27]:Wong, K. F. (1979). [*Borneo scene*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=3245361). Kuching: Anna Photo Company. (Call no.: RSEA q959.52 WON).
+[^28]:[Wong](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3245361), 1979, pp. 180–81.
 [^29]:
 [^30]:
-[^31]:Romney, H. (1960, October 24). Caught with the camera: The Dyaks in a passing moment. The Straits Times, p. 8. Retrieved from NewspaperSG.
-Wong, K. F. (1979). Borneo scene. Kuching: Anna Photo Company. (Call no.: RSEA q959.52 WON)
-Wong, 1979, pp. 180–81.
+[^31]:
+
 Loh, T.L. (1989, November 16). Life seen through a Leica. The New Paper, p. 11; 莫洁莹 [Mo, J. Y.]. (1987, September 22). 摄影家黄杰夫的新路向：反映人生百态 贵在追求自然 [The new direction of master photographer K.F. Wong: Reflect the different dimensions of human life, with an emphasis on the pursuit of candid moments]. 联合晚报 [Lianhe Wanbao], Domestic News, p. 2. Retrieved from NewspaperSG.
 These were funeral houses where people without kin would live and wait out their last days. In the late 19th century, death houses began sprouting in Sago Lane. Many shops selling funeral items also opened along the street. Death houses were banned in 1961.
 郭尚慰 [Kouo, S.W.]. (1981, July 3). 我为全斗焕总统访新铺路 [I paved the way for President Chun Doo-hwan’s visit to Singapore]. 南洋商报 [Nanyang Siang Pau], p. 10. Retrieved from NewspaperSG. See Zhuang, W. (2018). Kouo Shang-Wei: An introduction. In Shifting currents: Glimpses of a changing nation. Singapore: National Library Board, p. 21. (Call no.: RSING 915.957 KOU-[TRA])
