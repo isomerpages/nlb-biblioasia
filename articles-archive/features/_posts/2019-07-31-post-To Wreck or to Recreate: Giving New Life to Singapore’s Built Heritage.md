@@ -321,13 +321,23 @@ Conservation, on the other hand, is a much broader concept. Instead of perceivin
 [^18]:Kong, L., & Yeoh, B.S.A. (1994, March). Urban conservation in Singapore: A survey of state policies and popular attitudes. [*Urban Studies*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=944775)*, 31* (2), 247–265, p. 248. (Call no.: RART 307.1205 US).
 [^19]:Teh, C.W. (1975). Public housing in Singapore: An overview. In S.H.K Yeh (Ed.), [*Public housing in Singapore: A multidisciplinary study*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=756683) (pp. 5–6). Singapore: Singapore University Press. (Call no.: RSING 363.5095957 PUB); Choe, A.F.C. (1975). Urban renewal. In S.H.K Yeh (Ed.), [*Public housing in Singapore: A multidisciplinary study*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=756683) (pp 97–98). Singapore: Singapore University Press. (Call no.: RSING 363.5095957 PUB).
 [^20]:Housing and Development Board. (1966). [*Annual report 1965*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4662986) (p. 84). Singapore: Housing Development Board. (Call no.: RCLOS 711.4095957 SIN).
-[^21]:
-[^22]:
-[^23]:
-[^24]:
-[^25]:
-[^26]:
-[^27]:
-[^28]:
-[^29]:
-[^3]:
+[^21]:[Yeh](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=756683), 1975, p. 108.
+[^22]:[Yeh](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=756683), 1975, p. 9.
+[^23]:Lorange, E. (1962). *Final report on central area redevelopment of Singapore City* (p. 33). Singapore: Govt. Print. Off. (Not in NLB holdings).
+[^24]:Abrams, C. et. al. (1963). *Growth and urban renewal in Singapore* (paras. 5.21–5.24). Singapore: Govt. Print. Off. (Not in NLB holdings).
+[^25]:Singapore Planning and Urban Research Group. (1967). [*SPUR 1967*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4348493) (p. 21). Singapore: Singapore Planning and Urban Research Group. (Call no.: RCLOS 307.1216095957 SIN).
+[^26]:Choe, A.F.C. (1975). Urban renewal. In J. B. Ooi & H. D. Chiang (Eds.). [*Modern Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081919) (pp. 165–166) Singapore: University of Singapore. (Call no.: RSING 959.57 OOI).
+[^27]:Untitled letter. (1967, June 3). In *Preservation of building of architectural or historic interest*, 254/67. Retrieved from National Archives of Singapore. (Microfilm no.: AR82).
+[^28]:See Blackburn, K., & Tan, P.H.A. (2015, August). The emergence of heritage conservation in Singapore and the Preservation of Monuments Board (1958–76). [Southeast Asian Studies](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14594499)*, 4* (2), 341–364. (Call no.: RSEA 959.005 SASKJS).
+[^29]:Minutes of the 1st meeting of Committee on Ancient Monuments and Lands and Buildings of Architectural and/or Historic Interest, 26 Aug 1963.
+[^30]:Report of Sub-Committee on Preservation of Buildings and Sites of Architectural or Historic Interest. (1967, September 21). In *Ancient monuments and lands and buildings of historic architectural interests: Committee to re-examine the list of 32 items*, 276/63. Retrieved from National Archives of Singapore. (Microfilm no.: AR66).
+[^31]:
+[^32]:
+[^33]:
+[^34]:
+[^35]:
+[^36]:
+[^37]:
+[^38]:
+[^39]:
+[^4]:
