@@ -42,4 +42,41 @@ In 1935, Wong left Sarawak to further his studies and hone his photography skill
 Towards the end of 1935, Wong ended up in Quanzhou, China, and started apprenticing at Xia Guang Studio (夏光照相馆). To appease his father, Wong also studied art in a private art school, majoring in charcoal drawing. In 1937, he found work at the popular Anna Studio in Xiamen (the experience made such an impact that he named the photography business he would later open in Sarawak as Anna Studio).
 
 <img src="/images/Vol-15-issue-2/from-the-archives/Archives3.JPG">
-<div style="background-color: white;">Photographer K.F. Wong. <i>Image reproduced from Wong, K.F. (1979). Borneo Scene (p. 9). Kuching: Anna Photo Company. (Call no.: RSEA q959.52 WON)</i></div>
+<div style="background-color: white;">Photographer K.F. Wong. <i>Image reproduced from Wong, K.F. (1979). Borneo Scene (p. 9). Kuching: Anna Photo Company. (Call no.: RSEA q959.52 WON).</i></div>
+
+Not long after, the Second Sino-Japanese War (1937–45) broke out, forcing Wong to flee Xiamen, bringing his wife and one-year-old daughter back to the countryside of Xianyou county before returning alone to Sarawak. He would be reunited with them only in 1975, almost 40 years later.
+
+The Anna Studio in Kuching, which Wong opened in 1938, was originally located across the post office on Rock Road (on the stretch that has since been renamed Jalan Tun Abang Haji Openg). As his business grew, Wong became friends with people of all political persuasions and social class. The fame of Kuching’s Anna Studio spread far and wide, even reaching the ears of Japanese soldiers when Malaya and subsequently British Borneo fell to the Japanese Imperial Army in December 1941.
+
+During the dark years of the Japanese Occupation, Wong was forced to keep Anna Studio open. Business remained brisk in Kuching as the Japanese soldiers enjoyed having their portraits taken. They would frequent his studio, often accompanied by “comfort women” – girls and women who were forced to provide sexual services to Japanese soldiers in occupied territories – some of whom were abducted from as far away as Bandung in West Java.11 It was during the Japanese Occupation when the studio moved to 16 Carpenter Street, the address that would witness the glory years of Kuching’s Anna Studio until its relocation in 1986 to Rubber Road.
+
+Wong’s cordial relationship with his customers held him in good stead during the war years: towards the end of the Occupation, some of the younger Japanese officers who frequented Wong’s studio warned him to escape after learning that he would be arrested.12
+
+<img src="/images/Vol-15-issue-2/from-the-archives/Archives4.JPG">
+<div style="background-color: white;">A roadside Chinese herbal tea stall in Chinatown, 1962. Photograph by K.F. Wong. <i>Courtesy of National Archives of Singapore.</i></div>
+
+#### **Making His Mark**
+
+After the war, Wong’s reputation as a photographer grew. From around 1947 to the 1980s, his photographs were published in The Straits Times and the popular Straits Times Annual.13 Many of his single images featured political events, landscape views and portraits of important personalities in Sarawak and Brunei. He also published several photo essays detailing, for instance, a Malay wedding and the historical landmarks of Penang.
+
+Wong continued to receive commissioned jobs through his studios in Singapore and Sarawak to take portraits of colonial officers, and photograph state functions, archaeological expeditions, movie stars and army servicemen. Some of these images appeared in The Straits Times as well as other publications outside of Singapore, taking on a journalistic slant. His photographs of Sarawak and, to a lesser extent, Brunei, helped to bring these territories closer to readers of The Straits Times in Malaya and Singapore.
+
+Like most postwar practitioners of art photography, Wong was closely involved in the Pictorialism movement or, more colloquially, salon photography. In Southeast Asia, salon photography became increasingly popular with the rise of amateur photo clubs and competitions, which led to numerous exhibition opportunities. In 1950, Wong established his name in the First Open Photographic Exhibition hosted by the British-backed Singapore Art Society, clinching the silver medal for his work “Beauty’s Secret” – a still-life study of a vase of flowers – in the Pictorials section.
+
+It was at the First Open Photographic Exhibition when Wong became acquainted with Malcolm MacDonald, Commissioner-General for Southeast Asia and a well-known art patron. MacDonald, who graced the exhibition opening, would became a firm supporter of Wong’s works, helping to entrench the latter’s name in the world of photography. MacDonald also wrote the introductory chapters to the two photobooks that Wong would later publish.
+
+In the Second Open Photographic Exhibition in 1951, Wong bagged the silver medal again, this time in the Landscapes section for his work titled “A Symbol of Peace”, depicting a farmer tending to his field in Bali. It was the highest award given out for that year’s event, as there was no gold medal winner.
+
+In 1955, Wong was made an Associate of The Royal Photographic Society of Great Britain (RPS) – one of the most prized accolades in salon photography. The following year, together with a few other amateur photographers, Wong helped to establish the Sarawak Photographic Society. In 1958, the society organised the first British Borneo Territories Photographic Exhibition in Kuching, with Wong as one of the jury members. Further recognition came in 1959 when he was elected a Fellow of RPS, having received full marks for each of his 12 entries that he had submitted in his bid for accreditation. At the time, Wong was only the second Chinese in Southeast Asia to have been awarded the fellowship.14
+
+Photographing the Indigenous Peoples
+
+By 1960, Wong had become one of the most decorated photographers in Asia. Although his winning submissions to salon contests included still-life studies and landscape photography, Wong truly distinguished himself from other competitors with his striking photographs of the indigenous Dayak peoples of Sarawak and, to a lesser extent, Sabah.15
+
+Wong first began taking pictures of the Dayaks during the Japanese Occupation, and continued to visit the different communities, probably until the 1970s. Describing them as leading a “near-primitive life”, Wong wrote in 1960: “To feel satisfied with life, they need only food to feed themselves, the bare minimum in terms of clothing, and shelter from the sun. Without the material desire of the civilised man, they are the happiest people in the world”.16
+
+While Wong’s photographs of the indigenous communities have important evidential value, his work is often clouded by his attempts to celebrate their primitive ways. Sunny Giam, a fellow salon photographer and frequent writer of photography for newspapers in Singapore in the 1950s and ’60s, wrote: “This genuine love for the natives, his desire to see the truth with his eyes, his rejection of all that is tragic in life and his exaltation of the happiness of the pagans, have enabled him to produce excellent photographs of them”.17
+
+Visual sociologist Christine Horn, however, was more critical, taking Wong to task for romanticising the “traditional Indigenous lifestyle while suggesting that its extinction through the influence of development and modernisation was both unavoidable and desirable”. Horn also notes that Wong’s photographs were “created for the commercial market, and provided picturesque compositions of good-looking people in serene surroundings”.18
+
+Indeed, many of Wong’s photographs were sold as souvenirs in his photo studios. Some of them were also submitted for salon competitions, which placed a premium on aesthetics and technical competency. In this sense, it is perhaps not surprising to learn that one of his iconic portraits of a Dayak girl was in fact created through darkroom manipulation, the analogue precursor to the cut-and-paste of modern-day Photoshop. The girl was photographed in Kapit in Sarawak, while the sakura tree in the same image had been shot in Kyoto, Japan.19
