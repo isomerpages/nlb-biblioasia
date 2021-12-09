@@ -301,13 +301,13 @@ Conservation, on the other hand, is a much broader concept. Instead of perceivin
 <a href="https://biblioasia.nlb.gov.sg/vol-15/issue-2/jul-sep-2019/"><center>Back to Issue</center></a>
 
 #### **NOTES**
-[^1]:
-[^1]:
-[^1]:
-[^1]:
-[^1]:
-[^1]:
-[^1]:
-[^1]:
-[^1]:
-[^1]:
+[^1]:[Old graves examined](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19501020-1.2.51). (1950, October 20). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
+[^2]:[Plans to preserve & beautify old cemetery at Fort Canning](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19511017-1.2.44). (1951, October 17). *The Singapore Free Press*, p. 5. Retrieved from NewspaperSG.
+[^3]:[Tombstones to go into wall – At Garden of Memory](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19540521-1.2.50). (1954, May 21). *The Singapore Free Press*, p. 5. Retrieved from NewspaperSG.
+[^4]:[Plan to preserve all historical buildings](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19541104-1.2.63). (1954, November 4). *Singapore Standard*, p. 4. Retrieved from NewspaperSG.
+[^5]:Gibson-Hill, G. A. (1954, October 29). Plaques on old buildings. In *Ancient Monuments Committee*, 625/54. Retrieved from National Archives of Singapore. (Microfilm no.: PRO 14).
+[^6]:See text box for the list of historic sites identified by the committee.
+[^7]:[*Singapore Standard*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19541104-1.2.63), 4 Nov 1954, p. 4.
+[^8]:Colony of Singapore. (1955). [*Master Plan: Written statement*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082140) (p. 17). Singapore: Govt. Print. Off. (Call no.: RCLOS 711.4095957 SIN).
+[^9]:Untitled memorandum. (1963, May 30). In *Ancient monuments and lands and buildings of historic architectural interests:Committee to re-examine the list of 32 items*, 276/63. Retrieved from National Archives of Singapore. (Microfilm no.: AR66).
+[^10]:Minutes of the 1st meeting of Committee on Ancient Monuments and Lands and Buildings of Architectural and/or Historic Interest. (1963, August 26). In *Ancient monuments and lands and buildings of historic architectural interests: Committee to re-examine the list of 32 items*, 276/63. Retrieved from National Archives of Singapore. (Microfilm no.: AR66).
