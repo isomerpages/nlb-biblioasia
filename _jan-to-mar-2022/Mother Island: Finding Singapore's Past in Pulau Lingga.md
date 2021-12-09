@@ -72,6 +72,10 @@ Daik town still looks and feels like a village in comparison to busy Tanjong Pin
 
 An elaborate wooden screen greets the visitor upon entry, finely executed by carvers from Jepara in Central Java. Within the mosque is a more grandiose woodwork structure, also of Jepara make: the *minbar*, or pulpit. Dating back to the 1790s – before the first royal mosque was built – its design bears recognisable Chinese and European elements. The use of pink peonies, tessellated swastikas and baroque foliage departs from what we typically expect to find in a Malay mosque. The swastika, for example, or *banji* (from the Chinese *wansui*, 万岁, and the Japanese *banzai*; both mean “ten-thousand years”) have long been used in Malay and Javanese textiles, woodcarving and metalwork, demonstrating a robust absorption of “Chinese” elements in this region’s visual language. 
 
+
+<div style="background-color: white;">The elaborate <i>minbar</i> (pulpit) inside Masjid Sultan Lingga. It is more than 200 years old, and bears Chinese and European elements. <i>Courtesy of Marcus Ng.</i></div>
+
+
 The pulpit’s local elements are unmistakable: the overhanging eaves on its hexagonal roof are common in Malay construction, and the finial (a crowning ornament or detail) calls to mind the Javanese-style *mustaka* or *kepala som*, a carved embellishment found on the roof summits of mosques throughout the Malay world.[^10] The swirling tendrils and upturned crockets are design motifs found across Malay art, known as *awan larat* (“meandering clouds”) and *sulur bayung* (“creeping vine”) respectively.[^11] The structure’s coat of dark blue, crimson, green and yellow had been freshly painted. During our visit, more repainting works were being done, most notably at the tomb of Sultan Mahmud III. He rests in the burial grounds of the mosque that he had ordered built.  
 
 One of his sons, Abdul Rahman I 
