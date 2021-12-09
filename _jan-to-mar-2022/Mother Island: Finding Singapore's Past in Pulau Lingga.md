@@ -70,6 +70,10 @@ Istana Damnah’s cosmologically strategic site becomes apparent as one approach
 
 Daik town still looks and feels like a village in comparison to busy Tanjong Pinang. Its centrepiece is the royal mosque, Masjid Sultan Lingga, whose existing structure dates back to 1909, the third to be built after the previous two were damaged by fires. The first iteration of the mosque was raised in 1800.[^9] Constructed by Chinese workers brought in from Singapore, the present-day royal mosque has an unassuming Malay vernacular style, complete with signature Malay eaves. Unsurprisingly, it is painted in the regal yellow similar to the royal mosque on Pulau Penyengat.
 
+<div style="background-color: white;">Masjid Sultan Lingga (royal mosque), painted in the regal yellow, which still has a <i>bedok</i>, a ceremonial drum once used to call the faithful to prayer. <i>Courtesy of Marcus Ng.</i></div>
+
+
+
 An elaborate wooden screen greets the visitor upon entry, finely executed by carvers from Jepara in Central Java. Within the mosque is a more grandiose woodwork structure, also of Jepara make: the *minbar*, or pulpit. Dating back to the 1790s – before the first royal mosque was built – its design bears recognisable Chinese and European elements. The use of pink peonies, tessellated swastikas and baroque foliage departs from what we typically expect to find in a Malay mosque. The swastika, for example, or *banji* (from the Chinese *wansui*, 万岁, and the Japanese *banzai*; both mean “ten-thousand years”) have long been used in Malay and Javanese textiles, woodcarving and metalwork, demonstrating a robust absorption of “Chinese” elements in this region’s visual language. 
 
 
