@@ -6,16 +6,18 @@ image: /images/vol-17-issue-3/ancient-gold/Armband%20with%20Kala%20motif%20.jpg
 ---
 #### Singapore’s history is closely intertwined with that of Lingga’s. The kings that once reigned from its shores played a pivotal role in the fate of the Malay world, including the birth of modern Singapore, as **Faris Joraimi** reveals.
 
-![Alt text for image on Isomer site](/images/vol-17-issue-4/diard-duvaucel/DiardDuvaucel2.jpg)
+![Alt text for image on Isomer site](/images/vol-17-issue-4/mother-island/Lingga.jpg)
 <div style="background-color: white;">Pantai Pasir Panjang Karang Bersulam (“Long Coast of Interwoven Reefs”) at high tide. During low tide, the corals and reef flats would probably be more exposed. It is a popular spot for Mandi Safar festivities. <i>Photo courtesy of Marcus Ng.</i></div>
 
 In a half-forgotten corner of Telok Belanga (officially rendered as Telok Blangah), sandwiched between Bukit Purmei and Kampong Bahru Road, lies the tomb of the last king of the Riau-Lingga Sultanate, Sultan Abdul Rahman Mua’zzam Shah II (r. 1883–1911). Deposed by the Dutch in 1911 after refusing to sign a treaty that would effectively strip him of all power, he fled to Singapore where he lived in exile until his death in 1930.
 
+![Alt text for image on Isomer site](/images/vol-17-issue-4/mother-island/SultanAbdulRahman.jpg)
 <div style="background-color: white;">Sultan Abdul Rahman Mua’zzam Shah II, the last ruler of Riau-Lingga. <i>Retrieved from Southeast Asian & Caribbean Images, Leiden University Libraries. Attribution 4.0 International (CC BY 4.0).</i></div>
 
 
 Today, many Singaporeans associate the Riau islands, now part of Indonesia, with Batam’s massage parlours and Bintan’s more sanitised resorts. Fewer, though, have any inkling of just how much Singapore is bound to this archipelago by ties of history, economics and culture. Who remembers, for instance, that both Singapore and the Riau-Lingga archipelago were once part of the same maritime empire: the old Sultanate of Johor that emerged after the fall of Melaka to the Portuguese in 1511? Modern Singapore came into being ultimately with the dismemberment of this realm in 1824, when the Anglo-Dutch Treaty divided the Malay World between the British and the Dutch.[^1]
 
+![Alt text for image on Isomer site](/images/vol-17-issue-4/mother-island/Map.jpg)
 <div style="background-color: white;">Map titled <i>Carte de l’Archipel et des Detroits compris entre Singapour et Banca</i>, 1855, showing Lingga in relation to Singapore. <i>© British Library Board H.F.SEC.18.(1530.).</i></div>
 
 
@@ -70,13 +72,14 @@ Istana Damnah’s cosmologically strategic site becomes apparent as one approach
 
 Daik town still looks and feels like a village in comparison to busy Tanjong Pinang. Its centrepiece is the royal mosque, Masjid Sultan Lingga, whose existing structure dates back to 1909, the third to be built after the previous two were damaged by fires. The first iteration of the mosque was raised in 1800.[^9] Constructed by Chinese workers brought in from Singapore, the present-day royal mosque has an unassuming Malay vernacular style, complete with signature Malay eaves. Unsurprisingly, it is painted in the regal yellow similar to the royal mosque on Pulau Penyengat.
 
+![Alt text for image on Isomer site](/images/vol-17-issue-4/mother-island/MasjidSultanLingga.jpg)
 <div style="background-color: white;">Masjid Sultan Lingga (royal mosque), painted in the regal yellow, which still has a <i>bedok</i>, a ceremonial drum once used to call the faithful to prayer. <i>Courtesy of Marcus Ng.</i></div>
 
 
 
 An elaborate wooden screen greets the visitor upon entry, finely executed by carvers from Jepara in Central Java. Within the mosque is a more grandiose woodwork structure, also of Jepara make: the *minbar*, or pulpit. Dating back to the 1790s – before the first royal mosque was built – its design bears recognisable Chinese and European elements. The use of pink peonies, tessellated swastikas and baroque foliage departs from what we typically expect to find in a Malay mosque. The swastika, for example, or *banji* (from the Chinese *wansui*, 万岁, and the Japanese *banzai*; both mean “ten-thousand years”) have long been used in Malay and Javanese textiles, woodcarving and metalwork, demonstrating a robust absorption of “Chinese” elements in this region’s visual language. 
 
-
+![Alt text for image on Isomer site](/images/vol-17-issue-4/mother-island/MasjidSultanLinggaMinbar.jpg)
 <div style="background-color: white;">The elaborate <i>minbar</i> (pulpit) inside Masjid Sultan Lingga. It is more than 200 years old, and bears Chinese and European elements. <i>Courtesy of Marcus Ng.</i></div>
 
 
@@ -96,6 +99,7 @@ After this “one kingdom” ceased to exist with its formal partition by the Du
 
 Traditional pastimes are still alive and well on Lingga, with programmes to sustain interest actively promoted and undertaken by local authorities. More importantly, the local residents still enjoy them. Take *gasing* (plural *gegasing*), for example: Malay spinning tops once popularly played in the villages of Singapore and Malaya. Daik holds *gasing* tournaments twice a year, and I had the good fortune of witnessing one. 
 
+![Alt text for image on Isomer site](/images/vol-17-issue-4/mother-island/Gasing.jpg)
 <div style="background-color: white;"><i>Gegasing</i> (spinning tops) in action at a tournament.  <i>Courtesy of Marcus Ng.</i></div>
 
 
@@ -115,9 +119,10 @@ In Lingga, as was the case in Singapore, this is also an excuse for the young to
  
 The cuisine of Lingga features rustic Malay dishes, some of which can hardly be found in Singapore today. For example, accompanying the classic *asam pedas ikan pari*, a spicy stingray stew, is a fried griddle cake of sago flour known as *lempeng sagu*. Replacing rice as the meal’s staple, *lempeng sagu* harks back to earlier times in the Malay world when rice was a luxury available only to elites, and the main source of carbohydrates was the humble sago. Indeed, to partake in sago is to taste the natural ecology of Lingga itself – an island of swamps and marshy floodplains – where sago palms proliferate in abundance and sago factories, using age-old extraction methods, still operate on the banks of these palm-lined wetlands.
 
+![Alt text for image on Isomer site](/images/vol-17-issue-4/mother-island/SagoExtraction.jpg)
 <div style="background-color: white;">A sago extraction and processing plant in Daik. The finished product – finely ground sago flour – is shipped off to Sumatran towns like Jambi. <i>Courtesy of Marcus Ng.</i></div>
 
-
+![Alt text for image on Isomer site](/images/vol-17-issue-4/mother-island/LempengSagu.jpg)
 <div style="background-color: white;"><i>Lempeng sagu</i> (right) served with <i>asam pedas ikan pari</i> (left) in Tanjong Buton,
 Daik. <i>Courtesy of Marcus Ng.</i></div>
 
