@@ -136,7 +136,7 @@ We often lament how “small” Singapore is. Unlike other countries, we do not 
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-17-issue-3/authors/Profile%20-%20Zhuang%20Wubin.png" style="width: 100px; height: 100px;" />
+<img src="/images/vol-17-issue-4/authors/FarisJoraimi.png" style="width: 100px; height: 100px;" />
 	<b>Faris Joraimi</b>is a Lee Kong Chian Research Fellow with the National Library. As a writer and researcher specialising in the history of the Malay World, he has authored various essays for print and electronic media. He is also co-editor of <i>Raffles Renounced: Towards a Merdeka History</i> (2021), a volume of essays on 
 Singapore’s decolonial history. He graduated with a Bachelor of Arts (Honours) in History from Yale-NUS College.</div>
 
