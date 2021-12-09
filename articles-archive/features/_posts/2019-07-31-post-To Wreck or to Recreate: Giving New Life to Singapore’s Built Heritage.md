@@ -331,13 +331,16 @@ Conservation, on the other hand, is a much broader concept. Instead of perceivin
 [^28]:See Blackburn, K., & Tan, P.H.A. (2015, August). The emergence of heritage conservation in Singapore and the Preservation of Monuments Board (1958–76). [Southeast Asian Studies](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14594499)*, 4* (2), 341–364. (Call no.: RSEA 959.005 SASKJS).
 [^29]:Minutes of the 1st meeting of Committee on Ancient Monuments and Lands and Buildings of Architectural and/or Historic Interest, 26 Aug 1963.
 [^30]:Report of Sub-Committee on Preservation of Buildings and Sites of Architectural or Historic Interest. (1967, September 21). In *Ancient monuments and lands and buildings of historic architectural interests: Committee to re-examine the list of 32 items*, 276/63. Retrieved from National Archives of Singapore. (Microfilm no.: AR66).
-[^31]:
-[^32]:
-[^33]:
-[^34]:
-[^35]:
-[^36]:
-[^37]:
-[^38]:
-[^39]:
+[^31]:Minutes of 3rd Committee on Ancient Monuments and Lands and Buildings of Architectural and/or Historic Interest. (1964, March 17). In *Ancient monuments and lands and buildings of historic architectural interests: Committee to re-examine the list of 32 items*, 276/63. Retrieved from National Archives of Singapore. (Microfilm no.: AR66).
+[^32]:Report of Sub-Committee on Preservation of Buildings and Sites of Architectural or Historic Interest, 21 Sep 1967.
+[^33]:Minutes of 3rd Committee on Ancient Monuments and Lands and Buildings of Architectural and/or Historic Interest, 17 Mar 1964.
+[^34]:Report of Sub-Committee on Preservation of Buildings and Sites of Architectural or Historic Interest, 21 Sep 1967.
+[^35]:Campbell, W. (1969, February 7). [Singapore plans to save its history](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19690207-1.2.89). *The Straits Times*, p. 12. Retrieved from NewspaperSG.
+[^36]:Republic of Singapore. [*Government Gazette. Acts Supplement*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4183731) (pp. 481–490). (1970, December 11). The Preservation of Monuments Act 1970 (Act 45 of 1971). Singapore: Govt. Print. Off. (Call no.: RSING 348.5957 SGGAS); Republic of Singapore. [*Government Gazette. Subsidiary Legislation Supplement*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4396424) (p. 380). (1971, January 29). The Preservation of Monuments Act (Commencement) Notification (S 29/1971). Singapore: Govt. Print. Off. (Call no.: RSING 348.5957 SGGSLS).
+[^37]:Preservation of Monuments Board. (1979). [*Report for the period 1975 to August 1978*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5049501) (p. 7). Singapore: Preservation of Monuments Board. (Call no.: RCLOS 722.4095957 PMBSR).
+[^38]:Urban Redevelopment Authority. (1978). [*Annual report 1976/77*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5104952) (p. 31). Singapore: Urban Redevelopment Authority. (Call no.: RCLOS 354.5957091 URASAR).
+[^39]:Oon, V. (1977, December 9).  [A gourmet walk down Food Alley](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19771209-1.2.60.2). *New Nation*, pp. 12–13; Wong, A. K. (1985, January 25). [How the Cuppage Road area was reborn](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850125-1.2.33.1). *The Straits Times*, p. 12; [Finance Minister to open STB’s Tudor Court](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singherald19701022-1.2.75.2.2). (1970, October 22). *Singapore Herald*, p. 13; Westerhout, D. (1985, May 26). [Peranakan Place: Some love it, others don’t](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19850526-1.2.9.2). *Singapore Monitor*, p. 2. Retrieved from NewspaperSG.
 [^4]:
+
+
+Aleshire, I. (1986, December 27). 6 areas to be preserved. The Straits Times, p. 1. Retrieved from NewspaperSG; Urban Redevelopment Authority. (1988). Annual report 1986–87 (pp. 11–13). Singapore: Urban Redevelopment Authority. (Call no.: RCLOS 354.5957091 URASAR); Kong, L. (2011). Conserving the past, creating the future: Urban heritage in Singapore (pp. 40–41). Singapore: Urban Redevelopment Authority. (Call no. RSING 363.69095957 KON)
