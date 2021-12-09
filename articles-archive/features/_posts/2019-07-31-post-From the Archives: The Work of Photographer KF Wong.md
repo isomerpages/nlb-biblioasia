@@ -114,3 +114,26 @@ Wong’s oeuvre was broad; he also photographed labourers working in a pepper fa
 These days, Wong’s photographs in the National Archives tend to be featured in exhibitions and publications that illustrate the progress Singapore has made over the decades. Although Wong was the most titled salon photographer of his generation, and his photographs of indigenous peoples are still highly sought after by collectors today, his works are rarely shown at the National Gallery Singapore (NGS). This is surprising given NGS’ focus on the modern art of Southeast Asia.
 
 The fact that Wong’s images are held in the National Archives conditions how we think about his work today – as archival and evidential in content. Perhaps it is time to reassess Wong’s work vis-à-vis his photographic contemporaries collected by the NGS to examine how photography is perceived by the arts community as well as the wider public in Singapore.
+
+<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> 
+	<b>SELECTED EXHIBITIONS OF K.F. WONG</b>
+	<br><br>
+<b>1948</b>: “Annual Regatta Photographic Exhibition” (with Hedda Morrison), Chung Hua School, Sibu, Sarawak.
+<br><br>
+<b>1958</b>: “My Friends, The Dyaks”, Raffles Museum, Singapore.
+<br><br>
+<b>1959</b>: “K.F. Wong Solo Exhibition”, Chinese Photographic Association of Hong Kong, Hong Kong.
+<br><br>
+<b>1983</b>: “黄杰夫作品展览” [“K. F. Wong Exhibition”], National Art Museum of China, Beijing, China.
+<br><br>
+<b>1989</b>: “Light on Historical Moments – Images on Singapore”, National Archives Exhibition Hall, Singapore.
+<br><br>
+<b>2017</b>: “Indigenous Grace”, Old Court House, Rainforest Fringe Festival, Sarawak.
+</div>
+
+<div style="background-color: white;">
+<img src="/images/Vol-15-issue-2/from-the-archives/Archives7.JPG" style="width: 100px; height: 100px;">
+<b>Zhuang Wubin</b> is a writer focusing on the photographic practices of Southeast Asia. He is a former Lee Kong Chian Research Fellow at the National Library of Singapore, and a recipient of the Robert H.N. Ho Family Foundation Greater China Research Grant 2018.
+</div>
+
+<a href="https://biblioasia.nlb.gov.sg/vol-15/issue-2/jul-sep-2019/"><center>Back to Issue</center></a>
