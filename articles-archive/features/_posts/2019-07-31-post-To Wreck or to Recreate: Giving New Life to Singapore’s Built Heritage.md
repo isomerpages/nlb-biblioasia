@@ -63,9 +63,9 @@ When the 1964 redevelopment of Precinct South 1 was rolled out, Outram Gaol, whi
 In less than a decade after the urban renewal programme was officially launched in 1966, nearly 300  acres of the  central area  had been redeveloped.[^21]  During the same period, the HDB built more than 130,000 flats in new housing estates. These provided accommodation for some 40 percent of the population, most of whom previously lived in the central area.[^22]
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
-	<b>Heritage Sites Identified in Postwar Singapore</b><br>
-* indicates a site that is common to both lists.
 <table span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; ">
+		<b>Heritage Sites Identified in Postwar Singapore</b><br>
+* indicates a site that is common to both lists.
   <tr>
 		<td><b>Committee for the Preservation of Historic Sites and Antiquities (1954)</b></td>
 		<td><b>Singapore Improvement Trust (1958)</b></td>
