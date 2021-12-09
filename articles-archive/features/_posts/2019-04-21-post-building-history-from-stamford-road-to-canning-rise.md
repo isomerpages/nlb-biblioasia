@@ -17,7 +17,7 @@ The archives unit is set up as part of the Raffles Museum and Library on Stamfor
 
 The Raffles Museum and Library is restructured into the Raffles Museum and the Raffles Library. The archives unit becomes a department under the Raffles Library.
 
-<div style="background-color: white;"><img src="/images/Vol-15-issue-1/building-history/02a_buildinghistory.jpg">The Raffles Museum and Library on Stamford Road.</div>
+<div style="background-color: white;"><img style="width:550px" src="/images/Vol-15-issue-1/building-history/02a_buildinghistory.jpg">The Raffles Museum and Library on Stamford Road.</div>
 
 #### **1 April 1958**
 
