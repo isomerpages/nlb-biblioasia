@@ -5,3 +5,7 @@ date: 2019-07-31
 layout: post
 description: ""
 ---
+#### Nearly 70 years have passed since a committee was set up to look into the preservation of buildings and sites with historical value. **Lim Tin Seng** charts the journey.
+
+<img src="/images/Vol-15-issue-2/to-wreck-or-to-recreate/Wreck1.JPG">
+<div style="background-color: white;"></i></div>
