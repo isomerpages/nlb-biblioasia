@@ -195,6 +195,14 @@ In less than a decade after the urban renewal programme was officially launched 
 	</tr>
 	 <tr>
 		<td>30 Yeo Kim Swee’s Godown, North Boat Quay</td>
-		<td>30 Indian cemetery off Lorong</td>
+		<td>30 Indian cemetery off Lorong 3, Geylang</td>
+  </tr>
+	 <tr>
+		<td>&nbsp;</td>
+		<td>31 Sun Yat Sen Villa</td>
+  </tr>
+	 <tr>
+		<td>&nbsp;</td>
+		<td>32 Sri Perumal Temple, 397 Serangoon Road</td>
   </tr>
 </span>
