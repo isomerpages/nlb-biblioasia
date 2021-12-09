@@ -161,7 +161,7 @@ He added: “And it’s a huge pleasure to be able to solve problems for the med
 
 For many years, the parents of **Samuel Lee Jian Wei** could not conceive a child naturally. Fortunately, they were in an age when science had made much progress. On 25 July 1978, Louise Joy Brown, the first baby created from sperm fertilising a human egg in a test tube, was born in Manchester, England.
 
-<img src="/images/Vol-15-issue-2/singapore-medical-services/Doctor9.JPG">
+<img style="width: 600px; height: 400px;" src="/images/Vol-15-issue-2/singapore-medical-services/Doctor9.JPG">
 <div style="background-color: white;">Prof S.S. Ratnam (left) bouncing Samuel Lee Jian Wei, his first test-tube baby, on his lap while the baby’s mother Tan Siew Ee looks on. Prof Ratnam was a fertility expert who introduced in-vitro fertilisation (IVF) to Singapore, giving much hope to spouses for whom conception was difficult. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 Back in Singapore, the brilliance of surgeon Prof S.S. Ratnam meant that this artificial method of conception, known as in-vitro fertilisation (IVF), was available to the Lees from the early 1980s.
