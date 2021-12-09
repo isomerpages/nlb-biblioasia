@@ -117,6 +117,10 @@ The cuisine of Lingga features rustic Malay dishes, some of which can hardly be 
 
 <div style="background-color: white;">A sago extraction and processing plant in Daik. The finished product – finely ground sago flour – is shipped off to Sumatran towns like Jambi. <i>Courtesy of Marcus Ng.</i></div>
 
+
+<div style="background-color: white;"><i>Lempeng sagu</i> (right) served with <i>asam pedas ikan pari</i> (left) in Tanjong Buton,
+Daik. <i>Courtesy of Marcus Ng.</i></div>
+
 #### **Mother Island**
 
 Riau-Lingga is home to great cultural diversity, even if it is presented as an heir to the courtly Malay traditions of the old Johor Sultanate. Besides the Malays and Bugis, there are the Orang Suku Laut (sea people) who maintain their semi-nomadic lifestyle subsisting on marine products. These communities now maintain a quiet existence on the margins of modernity, but their ancestors once performed an invaluable role in the security and defence of the old sultanate as naval pilots, navigators and combatants.[^14] 
