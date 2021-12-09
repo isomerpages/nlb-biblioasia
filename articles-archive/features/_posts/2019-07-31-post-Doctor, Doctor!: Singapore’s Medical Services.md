@@ -117,3 +117,65 @@ His son, **Dr Edmund Hugh Monteiro**, who once headed TTSH’s Communicable Dise
 
 <img src="/images/Vol-15-issue-2/singapore-medical-services/Doctor7.JPG">
 <div style="background-color: white;">Dr Edmund Hugh Monteiro, who is the son of Prof Ernest S. Monteiro, was just as driven as his illustrious father in that he was among the earliest doctors in Singapore to treat HIV/AIDS patients, at a time when they were shunned by most. <i>Courtesy of Edmund Hugh Monteiro.</i></div>
+
+So, in 1962, the government made immunisation against diphtheria compulsory on pain of paying a $2,000 fine, a sum too high for most families in those days. “As far as I can remember”, said the younger Monteiro, “no parent has ever been brought to court and fined”. Better yet, he noted, once a child turned up at a doctor’s for immunisation, he or she would most likely accept being immunised against tetanus, polio and so on. In this way, he said, Singapore soon eradicated diphtheria. He recalled further: “In those days, when they published details about the immunisation programme in *The Straits Times*, immunisation teams would be present for about a week in housing estates.
+
+“And these nurses would actually climb the stairs or go up in lifts and tell parents there, ‘Bring your children down for immunisation.’ That was the sort of service that was provided – on your doorstep and for free. That set the stage for these childhood diseases to be eradicated”. By 1977, he recalled, diphtheria and polio had become things of the past for Singaporeans.
+
+**Dr Koh Eng Kheng**, a doctor in private practice, said the government’s anti-diphtheria drive was a fine example of how concerted public health campaigns had to be. Quoting former American President Theodore Roosevelt, he said the success of such campaigns hinged on the government penalising anyone who tried to dodge immunisation. “You cannot soft-pedal these things”, Koh said.
+
+Lawyer **Nadesan Ganesan**, a former chairman of the Football Association of Singapore, remembered government nurses vaccinating him against cholera during the Japanese Occupation, which was another illness that plagued Singapore right into the post-war period and into the 1970s. “There were only two or three nurses vaccinating us, and their needles were blunt to begin with. You could hear the sound ‘tok’ whenever they poked your arm… because the needle was so blunt, our arms swelled and we were all sick for three days. But we recovered lah and it was good because they helped us not get cholera”.
+
+In 1984, measles struck Singapore in a big way. The government ordered the compulsory immunisation against measles and, once again, measles went the way of diphtheria and polio.
+
+Unbeknownst to Singapore’s medical service, it was about to have another terrifying battle on the cards, against which immunisation was powerless – Acquired Immune Deficiency Syndrome (AIDS).
+
+#### **Could Mosquitoes Give Me AIDS**
+
+Edmund Hugh Monteiro remembers Singapore’s very first AIDS patient. It was a man admitted to then Toa Payoh Hospital in 1986 for fever and diarrhoea, and shingles to boot. But the hospital transferred him to the Communicable Diseases Centre – where Monteiro was the Director – when they found that he had a salmonella infection. Monteiro thought about how the man’s immune system could have broken down so badly. He tested the man for AIDS. “And it was positive”.
+
+It was not long before the centre’s senior staff wanted to transfer out because they feared having to care for AIDS patients. “AIDS was something which they were not used to and it was too terrifying. Some among them were not personally panicking, but their family members were saying, ‘You better get out.’ So there was, unfortunately, a lot of ignorance as to how the disease was spread”. That was triggered by the government designating his centre in 1985 as the lone place in Singapore to treat AIDS patients.
+
+The flurry of fearful queries continued from his staff. “If the mosquito bites an AIDS patient and then bites me, will I get HIV?” was the biggest worry. Monteiro said that what he found “most assuring” about AIDS was that, apart from sexual intercourse with the AIDS patient, “you’d have to stick yourself with a needle” to be infected. “In other words,” he said, “you didn’t have to be gloved, gowned and masked whenever you went to see the patient”. In fact, he noted, it was far easier to be infected with Hepatitis B and C then it was to get AIDS.
+
+<img src="/images/Vol-15-issue-2/singapore-medical-services/Doctor8.JPG">
+<div style="background-color: white;">One of the many inoculation centres for cholera in 1963. Lawyer Nadesan Ganesan, who was vaccinated against cholera during the Japanese Occupation, remembers that the jab was very painful as the needle was blunt, causing his arm to swell up. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
+The stigma against its patients, however, persisted. Monteiro especially rued the unfeeling attitude of some doctors towards AIDS sufferers. “We talk to people very early in their medical careers, tell them that if they are going to become doctors, sometime in their career, they are going to have to treat a person with AIDS. It’s unlikely that you will go through a medical career for 20, 30 years without having to manage a person with AIDS”.
+
+There was, he recalled, “one young doctor who wanted to specialise in infectious diseases ‘as long as I don’t have to manage AIDS patients’. So we closed the door on that person and said, ‘You’d better find another discipline if you can’”.
+
+#### **First, Do No Harm**
+
+The case of that young doctor with an aversion to AIDS patients begs the question: what makes a good doctor?
+
+Edmund Hugh Monteiro recalled his father giving him this advice: “You want to do medicine? Okay, two things. One, you never stop learning. Two, you may have to sacrifice your lunch… I think what he meant was that patients can sometimes be overpowering in their demands”.
+
+He then cautioned: “You need to put them off at certain stages, and not make it out that medicine is a profession where everyone is to be heroic and self-sacrificing. You need to draw a line, I mean, you will just be burnt out with patients’ problems… if I draw a line somewhere, I can actually function better than if I just didn’t know what I was supposed to do”.
+
+Kanagaratnam Shanmugaratnam the pathologist thought that a doctor’s empathy for his patients’ predicaments was a hallmark of great medicine. “We inspire them to be interested in the nature of disease because that’s how they can be good surgeons or physicians. To understand suffering, to speak freely, to ask us things which require clarification”.
+
+He added: “And it’s a huge pleasure to be able to solve problems for the medical students. Medicine is not a nine-to- five job; you cannot be a specialist with that kind of mentality. So one has to work long hours, studying in the evenings, keeping up with medicine”.
+
+#### **First Test-Tube Baby**
+
+For many years, the parents of **Samuel Lee Jian Wei** could not conceive a child naturally. Fortunately, they were in an age when science had made much progress. On 25 July 1978, Louise Joy Brown, the first baby created from sperm fertilising a human egg in a test tube, was born in Manchester, England.
+
+<img src="/images/Vol-15-issue-2/singapore-medical-services/Doctor9.JPG">
+<div style="background-color: white;">Prof S.S. Ratnam (left) bouncing Samuel Lee Jian Wei, his first test-tube baby, on his lap while the baby’s mother Tan Siew Ee looks on. Prof Ratnam was a fertility expert who introduced in-vitro fertilisation (IVF) to Singapore, giving much hope to spouses for whom conception was difficult. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
+Back in Singapore, the brilliance of surgeon Prof S.S. Ratnam meant that this artificial method of conception, known as in-vitro fertilisation (IVF), was available to the Lees from the early 1980s.
+
+Samuel was born on 19 May 1983 at KK Hospital. He was a triumph for medicine in Singapore and so captured everyone’s imagination the moment he came into the world. Samuel recalled: “From the age of three or four, I kept hearing the words ‘IVF’ and ‘test-tube baby’”.
+
+At the age of six, he finally met Ratnam the surgeon who had made his birth a reality. “He asked me some questions, like ‘How have you been doing?’ He was quite friendly and treated me very nicely… When I was young, I was quite shy, but he made me laugh so I felt very comfortable with him”.
+
+Given a choice, though, Samuel would rather not have been Singapore’s first test-tube baby. “It’s so that I would not get so much unwanted attention”, he rued. As recently as 2015, he was in the spotlight again, as his profile was included in Singapore’s official SG50 book, Living the Singapore Story.
+
+Access to Ratnam’s September 1997 interview with the Oral History Centre is restricted, so his views on Samuel and other subjects cannot be quoted here for now. But fellow doctor Tow Siang Hwa, who handpicked Ratnam to succeed him at KK Hospital from 1969, can shed light on how skilful Ratnam was. Speaking in July 1997, Tow recalled: “S.S. Ratnam was my handpicked trainee… He was intelligent and had the makings of a professor”. In 1969, when Tow left KK Hospital to start his own practice, he told Ratnam: “Ratnam, I am going to leave, but you will succeed me.
+
+“That was the vision I had, that he would succeed me”, Tow mused. “By then, the ship was high and sailing; the groundwork had been done and now it was for him to keep it going. And he sailed the ship well because in no time, he was reaching the highest levels”.
+
+Tow, who helmed KK Hospital in the 1960s, had raised the reputation of the nation’s medical capabilities. In 1960, his expertise in molar pregnancy – in which an embryo is abnormal, resembling a cluster of grapes, and cannot develop fully – stunned an expert at Leeds University, who encouraged him to submit the discovery for a prestigious lecture in Britain. Before long, inspectors from Britain’s Royal College of Obstetrics & Gynaecology recognised KK Hospital as being of the highest medical standards, from the way it ran its operations to how it cared for patients. Tow said: “Now this was a major, major advance. It meant that obstetrics & gynaecology were on a par with medicine and surgery. So we were able to train our specialists locally.
+
+“So, from that day, instead of having five specialists for the whole population of Singapore, today, in 1997, we have 200 specialists”.
