@@ -85,3 +85,35 @@ He and his colleagues also exhorted everyone to wash their hands as often as the
 
 <img src="/images/Vol-15-issue-2/singapore-medical-services/Doctor5.JPG">
 <div style="background-color: white;">Anxious Singaporeans waiting to be screened for Severe Acute Respiratory Syndrome (SARS) at the Accident & Emergency Department of Tan Tock Seng Hospital in 2003. <i>Source: The Straits Times © Singapore Press Holdings Limited. Reprinted with permission.</i></div>
+
+While everyone in Singapore’s healthcare system was reminded repeatedly to don protective masks and gowns, and keep washing their hands, some chafed against the sheer inconvenience of it all. Nurse **Loo Yew Kim**, who began her career at Kwong Wai Shiu Hospital in 1969 and worked there until she retired more than 40 years later, was at first peeved at the nagging of younger doctors for her and her fellow nurses to wash their hands after every step they took in caring for patients. “I really resented that”, she recalled in Mandarin in 2014. “We were by then in our 50s and 60s, so it was not as if we didn’t know that we should wash our hands”.
+
+Loo and other nurses also fumed at having to don protective gear every minute of every day during the SARS epidemic. “Sweat would be dripping down my face from the mask”, she huffed. It was all so inconvenient, she added, that at some points, she would just fling her mask aside as it kept getting in the way of saving lives. “I will never forget the SARS period”, she stressed.
+
+In June 2003, SARS was finally contained in Singapore, but not before claiming the lives of 33 among the total of 238 reported SARS patients.
+
+Liak explained that SARS illustrated how much the world had changed due to globalisation. “Germs will always mutate and, often, viruses exchange material with human beings and animals… but in the past, whenever it mutated and killed an entire village, it could not spread after that because it had nowhere to go. But because transport became globalised, SARS could go from a Guangzhou village [in China] to towns and then cities. That is how dangerous the world has become”.
+
+Worse, he added, people were now eating more meat, leading to increasingly intensive animal farming, which was unhealthy and stoked the spread of viruses which, once mutated, would be very hard to curb.
+
+**Prof Tan Ser Kiat**, who was SGH’s chief during SARS, mused: “If a terrorist infected himself with smallpox, the incubation period of the virus would be long enough for him to mingle with everyone else. Smallpox would then spread like wildfire. This is what we are afraid of”. That was because, unlike droplet-borne SARS, smallpox is air-borne, meaning “I wouldn’t know who has got it until it’s too late”, he said.
+
+#### **The Goats That Saved Lives**
+
+More than most countries, perhaps, Singapore has had an excellent track record of mounting successful health campaigns. Among its biggest wins by far has been the eradication of diseases such as polio, diphtheria and rheumatic heart disease.
+
+Diphtheria, in particular, was endemic in Singapore as tuberculosis was in the early half of the 20th century. The person to thank for its eradication is **Prof Ernest Steven Monteiro**. During the Japanese Occupation, Monteiro was in charge of Middleton Hospital, which was TTSH’s infectious diseases wing. The Japanese had taken two of his brothers away, and he never saw them again. He thinks the Japanese spared his life because “they were very short of doctors… and also very health-conscious, especially about infectious diseases such as diphtheria”.
+
+<img src="/images/Vol-15-issue-2/singapore-medical-services/Doctor6.JPG">
+<div style="background-color: white;">Trailblazing doctor Ernest Steven Monteiro had the brainwave to develop an anti-diphtheria serum in goats. With this serum, he and his team eradicated diphtheria in Singapore. <i>Courtesy of National Archives of Singapore.</i></div>
+
+At the time, Monteiro was among the very few doctors in Singapore specialising in the study of infectious diseases. He hit upon a solution to cure diphtheria after reading a book in which a doctor had tried to produce an anti-diphtheria serum by injecting the diphtheria organism into a goat named Mephistopheles. In the play *Faust* by German writer Johann Wolfgang von Goethe, Mephistopheles was an agent of Satan.
+
+Monteiro tried that same experiment. After cultivating diphtheria, he extracted its toxins and injected that into the necks of goats. Then, once the goats were producing serum to combat the toxins in them, Monteiro extracted the serum from the goats and injected that into a child with severe diphtheria. The child recovered.
+
+In 1958, Monteiro introduced the oral polio vaccine in Singapore, developed by American medical researcher Albert Sabin. Some 250,000 children were immunised against the disease, which was endemic then. This was despite much opposition from his compatriots in medicine, as the vaccine had not been tested on a large population in the United States. The vaccine, however, proved effective in blocking the poliovirus and Singapore became polio-free.
+
+His son, **Dr Edmund Hugh Monteiro**, who once headed TTSH’s Communicable Disease Centre, said that despite his father’s diphtheria breakthrough during World War II, the disease was “a growing problem” in Singapore from the mid-1950s. This was, he added, in spite of doctors’ pleas to parents to get their children immunised against diphtheria. In the 1960s, he recalled, “only 55 per cent of children had that immunisation”. To eradicate the scourge, the younger Monteiro knew the immunisation rate had to be at least 90 percent.
+
+<img src="/images/Vol-15-issue-2/singapore-medical-services/Doctor7.JPG">
+<div style="background-color: white;">Dr Edmund Hugh Monteiro, who is the son of Prof Ernest S. Monteiro, was just as driven as his illustrious father in that he was among the earliest doctors in Singapore to treat HIV/AIDS patients, at a time when they were shunned by most. <i>Courtesy of Edmund Hugh Monteiro.</i></div>
