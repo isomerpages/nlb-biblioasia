@@ -133,6 +133,14 @@ To visit Riau-Lingga, therefore, is to visit an important part of Singapore’s 
 
 We often lament how “small” Singapore is. Unlike other countries, we do not have a vast countryside that maintains a sense of our “authentic” past or traces of our culture against the continuous flux that characterises life in a global city. In reality, nearby places like Lingga display familiar landscapes and recognisable traditions. Modes of life there remind us of our profound historical ties to this region, and that if we cease to regard Singapore’s identity as being confined to its present-day borders, it can hardly be considered “small” at all. Lingga is a keeper of our pasts, a fount of stories that we in Singapore have long forgotten.
 
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-17-issue-3/authors/Profile%20-%20Zhuang%20Wubin.png" style="width: 100px; height: 100px;" />
+	<b>Faris Joraimi</b>is a Lee Kong Chian Research Fellow with the National Library. As a writer and researcher specialising in the history of the Malay World, he has authored various essays for print and electronic media. He is also co-editor of <i>Raffles Renounced: Towards a Merdeka History</i> (2021), a volume of essays on 
+Singapore’s decolonial history. He graduated with a Bachelor of Arts (Honours) in History from Yale-NUS College.</div>
+
+
 #### **NOTES**
 
 [^1]: Mark R. Frost and Yu-Mei Balasingamchow, [*Singapore: A Biography*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13229116) (Singapore: Editions Didier-Millet, 2009), 75. (From National Library, Singapore, Call no. RSING 959.57 FRO-[HIS])
