@@ -7,7 +7,7 @@ description: ""
 ---
 #### Milestones in Singapore’s medical scene – among other subjects – are captured through fascinating oral history narratives in a new book written by **Cheong Suk-Wai** and published by the National Archives of Singapore. 
 
-<img src="/images/Vol-15-issue-2/singapore-medical-services/Doctor1.JPG">
+<img style="width: 350px; height: 450px;" src="/images/Vol-15-issue-2/singapore-medical-services/Doctor1.JPG">
 <div style="background-color: white;">A van converted into a travelling dispensary to reach those living in the rural areas of Singapore. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 Life is a race against time. That much was clear to midwife **Sumitera Mohd Letak** after she helped a patient with dangerously high blood pressure who had just given birth. “She was bleeding like hell”,Sumitera recalled. “Her baby was gasping away and I had to suck mucus out of her baby’s mouth… I had to, by hook or by crook, take them to hospital”.
@@ -43,7 +43,7 @@ Amid this rough-and-ready approach to personal hygiene, some Singaporean doctors
 
 Pathologist **Prof Kanagaratnam Shanmugaratnam**, for one, made sure that anyone in Singapore who had cancer could seek treatment for it without difficulty. Shanmugaratnam, whose son Tharman is a former Deputy Prime Minister of Singapore (and currently Senior Minister), set up a population-based cancer registry in 1968. At the time, he said, “there were hardly any private clinics in Singapore”. His fellow doctors, however, were “very supportive” in voluntarily notifying him and his team of anyone who developed cancer. He also personally scrutinised hospital discharge forms, as he put it, “so we did not miss a case”.
 
-<img src="/images/Vol-15-issue-2/singapore-medical-services/Doctor3.JPG">
+<img style="width: 600px; height: 380px;" src="/images/Vol-15-issue-2/singapore-medical-services/Doctor3.JPG">
 <div style="background-color: white;">Pathologist Kanagaratnam Shanmugaratnam greeting President Benjamin Henry Sheares at a conference on cancer in Singapore in 1975. Prof Shanmugaratnam, whose son Tharman is a former Deputy Prime Minister (and currently Senior Minister in the Cabinet), initiated a cancer registry in Singapore in 1968 so that no one with cancer here would have to go without treatment. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 Another trailblazer was **Dr Tay Chong Hai**. In 1969, he was among the first Singaporeans to discover a disease that was later named after him. Tay’s Syndrome, as it became known, is a disease associated with intellectual impairment, short stature, decreased fertility, brittle hair, and dry, red and scaly skin, making an eight-year-old child look 80 years old.
@@ -104,7 +104,7 @@ More than most countries, perhaps, Singapore has had an excellent track record o
 
 Diphtheria, in particular, was endemic in Singapore as tuberculosis was in the early half of the 20th century. The person to thank for its eradication is **Prof Ernest Steven Monteiro**. During the Japanese Occupation, Monteiro was in charge of Middleton Hospital, which was TTSH’s infectious diseases wing. The Japanese had taken two of his brothers away, and he never saw them again. He thinks the Japanese spared his life because “they were very short of doctors… and also very health-conscious, especially about infectious diseases such as diphtheria”.
 
-<img src="/images/Vol-15-issue-2/singapore-medical-services/Doctor6.JPG">
+<img style="width: 300px; height: 400px;" src="/images/Vol-15-issue-2/singapore-medical-services/Doctor6.JPG">
 <div style="background-color: white;">Trailblazing doctor Ernest Steven Monteiro had the brainwave to develop an anti-diphtheria serum in goats. With this serum, he and his team eradicated diphtheria in Singapore. <i>Courtesy of National Archives of Singapore.</i></div>
 
 At the time, Monteiro was among the very few doctors in Singapore specialising in the study of infectious diseases. He hit upon a solution to cure diphtheria after reading a book in which a doctor had tried to produce an anti-diphtheria serum by injecting the diphtheria organism into a goat named Mephistopheles. In the play *Faust* by German writer Johann Wolfgang von Goethe, Mephistopheles was an agent of Satan.
@@ -115,7 +115,7 @@ In 1958, Monteiro introduced the oral polio vaccine in Singapore, developed by A
 
 His son, **Dr Edmund Hugh Monteiro**, who once headed TTSH’s Communicable Disease Centre, said that despite his father’s diphtheria breakthrough during World War II, the disease was “a growing problem” in Singapore from the mid-1950s. This was, he added, in spite of doctors’ pleas to parents to get their children immunised against diphtheria. In the 1960s, he recalled, “only 55 per cent of children had that immunisation”. To eradicate the scourge, the younger Monteiro knew the immunisation rate had to be at least 90 percent.
 
-<img src="/images/Vol-15-issue-2/singapore-medical-services/Doctor7.JPG">
+<img style="width: 330px; height: 450px;" src="/images/Vol-15-issue-2/singapore-medical-services/Doctor7.JPG">
 <div style="background-color: white;">Dr Edmund Hugh Monteiro, who is the son of Prof Ernest S. Monteiro, was just as driven as his illustrious father in that he was among the earliest doctors in Singapore to treat HIV/AIDS patients, at a time when they were shunned by most. <i>Courtesy of Edmund Hugh Monteiro.</i></div>
 
 So, in 1962, the government made immunisation against diphtheria compulsory on pain of paying a $2,000 fine, a sum too high for most families in those days. “As far as I can remember”, said the younger Monteiro, “no parent has ever been brought to court and fined”. Better yet, he noted, once a child turned up at a doctor’s for immunisation, he or she would most likely accept being immunised against tetanus, polio and so on. In this way, he said, Singapore soon eradicated diphtheria. He recalled further: “In those days, when they published details about the immunisation programme in *The Straits Times*, immunisation teams would be present for about a week in housing estates.
@@ -138,7 +138,7 @@ It was not long before the centre’s senior staff wanted to transfer out becaus
 
 The flurry of fearful queries continued from his staff. “If the mosquito bites an AIDS patient and then bites me, will I get HIV?” was the biggest worry. Monteiro said that what he found “most assuring” about AIDS was that, apart from sexual intercourse with the AIDS patient, “you’d have to stick yourself with a needle” to be infected. “In other words,” he said, “you didn’t have to be gloved, gowned and masked whenever you went to see the patient”. In fact, he noted, it was far easier to be infected with Hepatitis B and C then it was to get AIDS.
 
-<img src="/images/Vol-15-issue-2/singapore-medical-services/Doctor8.JPG">
+<img style="width: 350px; height: 450px;" src="/images/Vol-15-issue-2/singapore-medical-services/Doctor8.JPG">
 <div style="background-color: white;">One of the many inoculation centres for cholera in 1963. Lawyer Nadesan Ganesan, who was vaccinated against cholera during the Japanese Occupation, remembers that the jab was very painful as the needle was blunt, causing his arm to swell up. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 The stigma against its patients, however, persisted. Monteiro especially rued the unfeeling attitude of some doctors towards AIDS sufferers. “We talk to people very early in their medical careers, tell them that if they are going to become doctors, sometime in their career, they are going to have to treat a person with AIDS. It’s unlikely that you will go through a medical career for 20, 30 years without having to manage a person with AIDS”.
@@ -181,8 +181,8 @@ Tow, who helmed KK Hospital in the 1960s, had raised the reputation of the natio
 “So, from that day, instead of having five specialists for the whole population of Singapore, today, in 1997, we have 200 specialists”.
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
-<img src="/images/Vol-15-issue-2/singapore-medical-services/Doctor10.JPG">
-	<br><br>
+<img style="width: 250px; height: 300px;" src="/images/Vol-15-issue-2/singapore-medical-services/Doctor10.JPG">
+	<br>
 	This essay is an extract from the book, <i>The Sound of Memories: Recordings from the Oral History Centre, Singapore</i>, published by the National Archives of Singapore and World Scientific Publishing. The hardcover, paperback and ebook retail for $46, $28 and $19.95 respectively. The book is also available for reference at the Lee Kong Chian Reference Library (Call no.: RSING 959.57 CHE) and for loan at selected public libraries (Call no.: SING 959.57 CHE). The ebook is available for loan on the NLB Mobile app.
 </span>
 <div style="background-color: white;">
