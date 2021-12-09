@@ -104,6 +104,7 @@ In Lingga, as was the case in Singapore, this is also an excuse for the young to
  
 The cuisine of Lingga features rustic Malay dishes, some of which can hardly be found in Singapore today. For example, accompanying the classic *asam pedas ikan pari*, a spicy stingray stew, is a fried griddle cake of sago flour known as *lempeng sagu*. Replacing rice as the meal’s staple, *lempeng sagu* harks back to earlier times in the Malay world when rice was a luxury available only to elites, and the main source of carbohydrates was the humble sago. Indeed, to partake in sago is to taste the natural ecology of Lingga itself – an island of swamps and marshy floodplains – where sago palms proliferate in abundance and sago factories, using age-old extraction methods, still operate on the banks of these palm-lined wetlands.
 
+<div style="background-color: white;">A sago extraction and processing plant in Daik. The finished product – finely ground sago flour – is shipped off to Sumatran towns like Jambi. <i>Courtesy of Marcus Ng.</i></div>
 
 #### **Mother Island**
 
