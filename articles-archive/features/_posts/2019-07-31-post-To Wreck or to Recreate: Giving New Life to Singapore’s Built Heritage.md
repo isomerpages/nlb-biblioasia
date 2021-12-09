@@ -340,7 +340,21 @@ Conservation, on the other hand, is a much broader concept. Instead of perceivin
 [^37]:Preservation of Monuments Board. (1979). [*Report for the period 1975 to August 1978*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5049501) (p. 7). Singapore: Preservation of Monuments Board. (Call no.: RCLOS 722.4095957 PMBSR).
 [^38]:Urban Redevelopment Authority. (1978). [*Annual report 1976/77*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5104952) (p. 31). Singapore: Urban Redevelopment Authority. (Call no.: RCLOS 354.5957091 URASAR).
 [^39]:Oon, V. (1977, December 9).  [A gourmet walk down Food Alley](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19771209-1.2.60.2). *New Nation*, pp. 12–13; Wong, A. K. (1985, January 25). [How the Cuppage Road area was reborn](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850125-1.2.33.1). *The Straits Times*, p. 12; [Finance Minister to open STB’s Tudor Court](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singherald19701022-1.2.75.2.2). (1970, October 22). *Singapore Herald*, p. 13; Westerhout, D. (1985, May 26). [Peranakan Place: Some love it, others don’t](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19850526-1.2.9.2). *Singapore Monitor*, p. 2. Retrieved from NewspaperSG.
-[^4]:
+[^40]:Aleshire, I. (1986, December 27). [6 areas to be preserved](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19861227-1.2.2.aspx). *The Straits Times*, p. 1. Retrieved from NewspaperSG; Urban Redevelopment Authority. (1988). [*Annual report 1986–87*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5104952) (pp. 11–13). Singapore: Urban Redevelopment Authority. (Call no.: RCLOS 354.5957091 URASAR); Kong, L. (2011). [*Conserving the past, creating the future: Urban heritage in Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13816245) (pp. 40–41). Singapore: Urban Redevelopment Authority. (Call no. RSING 363.69095957 KON).
+[^41]:Urban Redevelopment Authority. (1986). [*Conserving our remarkable past*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4403102) (pp. 1–2). Singapore: Urban Redevelopment Authority. (Call no.: RCLOS 959.57 CON).
+[^42]:[Kong & Yeoh](https://eservice.nlb.gov.sg/item_holding.aspx?bid=944775), Mar 1994, p. 250.
+[^43]:Urban Redevelopment Authority. (2009). *No. 9 Neil Street: Revitalisation of Tanjong Pagar*. Singapore: Urban Redevelopment Authority. Retrieved from Urban Redevelopment Authority website.
+[^44]:[Kong](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13816245), 2011, p. 77.
+[^45]:Republic of Singapore. *Government Gazette. Acts Supplement*. (1989, August 25). Planning (Amendment No. 2) Act 1989 (Act 31 of 1989). Retrieved from Singapore Statues Online website.
+[^46]:National Heritage Board. (n.d.). *Preservation of Sites and Monuments*. Retrieved from National Heritage Board website.
+[^47]:National Heritage Board. (n.d.). *Historic sites*. Retrieved from National Heritage Board website.
+[^48]:Urban Redevelopment Authority. (n.d.). *Brief history of conservation*. Retrieved from the Urban Redevelopment Authority website.
+[^49]:Urban Redevelopment Authority. (2017). *Conservation guidelines*. Retrieved from Urban Redevelopment Authority website.
+[^50]:Kong, 2011, p. 65.
+[^51]:
+[^52]:
 
 
-Aleshire, I. (1986, December 27). 6 areas to be preserved. The Straits Times, p. 1. Retrieved from NewspaperSG; Urban Redevelopment Authority. (1988). Annual report 1986–87 (pp. 11–13). Singapore: Urban Redevelopment Authority. (Call no.: RCLOS 354.5957091 URASAR); Kong, L. (2011). Conserving the past, creating the future: Urban heritage in Singapore (pp. 40–41). Singapore: Urban Redevelopment Authority. (Call no. RSING 363.69095957 KON)
+
+Urban Redevelopment Authority. (n.d.). Architectural Heritage Awards. Retrieved from Urban Redevelopment Authority website.  
+Urban Redevelopment Authority. (n.d.). Architectural Heritage Season. Retrieved from Urban Redevelopment Authority website; Ministry of National Development. (2017, October 31). Speech by 2M Desmond Lee at the URA Architectural Heritage Awards 2017. Retrieved from Ministry of National Development website.
