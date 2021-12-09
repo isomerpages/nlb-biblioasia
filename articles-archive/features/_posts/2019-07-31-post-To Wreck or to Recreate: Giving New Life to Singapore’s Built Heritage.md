@@ -33,9 +33,10 @@ Besides identifying historic sites, the committee was also keen to restore histo
 
 Despite the lack of funds, the need to preserve historic sites was included in the urban planning process when the Singapore Improvement Trust (SIT) – predecessor of the Housing & Development Board – was tasked to “prepare… and amend from time to time a list of ancient monuments… and buildings of historic and/or architectural interest” for the 1958 Master Plan.8 Although the list did not guarantee preservation, but only the consideration for the possibility of preservation, the 1959 Planning Ordinance nevertheless provided for the enactment of rules relating to the protection of the sites and buildings identified on the list.9
 
-3 Oxley Rise (Killiney House)
-This stately house at 3 Oxley Rise (Killiney House) was built in 1842 by Dr Thomas Oxley, Surgeon General of the Straits Settlements and after whom Oxley Rise was named. When Jewish businessman Manasseh Meyer bought the house in 1890, he renamed it Belle Vue. The house was demolished in 1982 to make way for a private housing estate. Ronni Pinsler Collection, courtesy of National Archives of Singapore.
 To compile the list, the SIT took into account the age of the sites as well as their historical and architectural significance. It also consulted members of the Committee for the Preservation of Historic Sites and Antiquities, including Gibson-Hill and Hancock.10 For this reason, the SIT’s heritage list was quite similar to the one drawn up by the preservation committee, with 20 of the 32 sites identified by the SIT found on the earlier list. The new additions included Outram Gaol, 3 Oxley Rise (or Killiney House), Kampong Radin Mas cemetery and the Indian cemetery in Geylang.11 SIT’s list, like the one drawn by the preservation committee, comprised both secular and non-secular sites and buildings, underlining the deference the colonial government accorded to the religions observed by its resident communities (refer to the table below).
+
+<img src="/images/Vol-15-issue-2/to-wreck-or-to-recreate/Wreck3.JPG">
+<div style="background-color: white;">This stately house at 3 Oxley Rise (Killiney House) was built in 1842 by Dr Thomas Oxley, Surgeon General of the Straits Settlements and after whom Oxley Rise was named. When Jewish businessman Manasseh Meyer bought the house in 1890, he renamed it Belle Vue. The house was demolished in 1982 to make way for a private housing estate. <i>Ronni Pinsler Collection, courtesy of National Archives of Singapore.</i></div>
 
 SIT’s heritage list was drawn up in consultation with a society known as Friends of Singapore. The society was founded in 1937 by the well-known lawyer Roland St John Braddell and other leading public figures, including Song Ong Siang, a prominent member of the Straits Chinese community who later served as the society’s first president. The society had included in its charter “the preservation of historical buildings and sites” as one of the projects it could initiate “for the embellishment or the cultural improvement of Singapore”.12
 
@@ -47,7 +48,7 @@ Besides Coleman House and the battle site, Friends of Singapore also made public
 
 During the inquiry, the society gave evidence to explain why Killiney House should be preserved, pointing out that it was one of the last surviving “planter’s home” from the 1840s, and among the first residences built in the island’s interior. In addition, the house had a dovecote to house pigeons and stables for horses, which made it architecturally unique in the Straits Settlements.17
 
-Demolition and Urban Renewal
+#### **Demolition and Urban Renewal**
 
 When the People’s Action Party (PAP) came into power in 1959, preserving Singapore’s built heritage was initially accorded little, if any, attention. The new government had other more pressing concerns, chief of which was to improve the housing situation.18
 
@@ -60,3 +61,140 @@ In the initial years, urban renewal mainly concerned itself with the demolition 
 When the 1964 redevelopment of Precinct South 1 was rolled out, Outram Gaol, which was on the heritage list of the 1958 Master Plan, was demolished along with many colonial-era shop houses to make way for flats. In 1965, the privately owned Coleman House was razed to build the Peninsula Hotel, while other buildings, such as Raffles Institution and Killiney House, were pulled down in the 1970s to free up space for commercial projects.
 
 In less than a decade after the urban renewal programme was officially launched in 1966, nearly 300  acres of the  central area  had been redeveloped.21  During the same period, the HDB built more than 130,000 flats in new housing estates. These provided accommodation for some 40 percent of the population, most of whom previously lived in the central area.22
+
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
+	<b>Heritage Sites Identified in Postwar Singapore</b><br>
+* indicates a site that is common to both lists.
+<table span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; ">
+  <tr>
+		<td><b>Committee for the Preservation of Historic Sites and Antiquities (1954)</b></td>
+		<td><b>Singapore Improvement Trust (1958)</b></td>
+  </tr>
+ <tr>
+		<td>1 Raffles Institution*</td>
+		<td>1 Raffles Institution*</td>
+  </tr>
+ <tr>
+		<td>2 H.C. Caldwell’s House*</td>
+		<td>2 H.C. Caldwell’s House*</td>
+  </tr>
+	 <tr>
+		<td>3 Cathedral of the Good Shepherd*</td>
+		<td>3 Cathedral of the Good Shepherd*</td>
+  </tr>
+	 <tr>
+		<td>4 St Andrew’s Cathedral*</td>
+		<td>4 St Andrew’s Cathedral*</td>
+  </tr>
+	 <tr>
+		<td>5 Victoria Theatre*</td>
+		<td>5 Victoria Theatre*</td>
+  </tr>
+	 <tr>
+		<td>6 Tanah Kubor Temenggong, Telok Blangah*</td>
+		<td>6 Tanah Kubor Temenggong, Telok Blangah*</td>
+  </tr>
+	 <tr>
+		<td>7 Church of St Gregory the Illuminator (Armenian)*</td>
+		<td>7 Church of St Gregory the Illuminator (Armenian)*</td>
+  </tr>
+	 <tr>
+		<td>8 3 Coleman Street (Coleman House)*</td>
+		<td>8 3 Coleman Street (Coleman House)*</td>
+  </tr>
+	 <tr>
+		<td>9 Hokkien Temple, Telok Ayer Street*</td>
+		<td>9 Hokkien Temple, Telok Ayer Street*</td>
+  </tr>
+	 <tr>
+		<td>10 Teochew Temple, Phillip Street*</td>
+		<td>10 Teochew Temple, Phillip Street*</td>
+  </tr>
+	 <tr>
+		<td>11 Silat Road Temple*</td>
+		<td>11 Silat Road Temple*</td>
+  </tr>
+	 <tr>
+		<td>12 Tua Pek Kong Temple, Palmer Road*</td>
+		<td>12 Tua Pek Kong Temple, Palmer Road*</td>
+  </tr>
+	 <tr>
+		<td>13 Hajjah Fatimah Mosque, Java Road*</td>
+		<td>13 Hajjah Fatimah Mosque, Java Road*</td>
+  </tr>
+	 <tr>
+		<td>14 Keramat Habib Nor, Tanjong Malang*</td>
+		<td>14 Keramat Habib Nor, Tanjong Malang*</td>
+  </tr>
+	 <tr>
+		<td>15 Chulia Mosque, South Bridge Road*</td>
+		<td>15 Chulia Mosque, South Bridge Road*</td>
+  </tr>
+	 <tr>
+		<td>16 Chulia Mosque, corner of Telok Ayer Street and Boon Tat Street*</td>
+		<td>16 Chulia Mosque, corner of Telok Ayer Street and Boon Tat Street*</td>
+  </tr>
+	 <tr>
+		<td>17 Sri Mariamman Temple, South Bridge Road*</td>
+		<td>17 Sri Mariamman Temple, South Bridge Road*</td>
+  </tr>
+	 <tr>
+		<td>18 Sri Sivam Temple, Orchard Road*</td>
+		<td>18 Sri Sivam Temple, Orchard Road*</td>
+  </tr>
+	 <tr>
+		<td>19 Keramat Iskandar Shah, Fort Canning*</td>
+		<td>19 Keramat Iskandar Shah, Fort Canning*</td>
+  </tr>
+	 <tr>
+		<td>20 Corner of Ellenborough Building*</td>
+		<td>20 Corner of Ellenborough Building*</td>
+  </tr>
+	 <tr>
+		<td>21 Gateways of Fort Canning Cemetery*</td>
+		<td>21 Gateways of Fort Canning Cemetery*</td>
+  </tr>
+	 <tr>
+		<td>22 Chettiar Temple, Tank Road*</td>
+		<td>22 Chettiar Temple, Tank Road*</td>
+  </tr>
+	 <tr>
+		<td>23 Elgin Bridge</td>
+		<td>23 Outram Gaol</td>
+  </tr>
+	</tr>
+	 <tr>
+		<td>24 Buddhist Temple, Kim Keat Road</td>
+		<td>24 Killiney House (3 Oxley Rise/Belle Vue House)</td>
+  </tr>
+	</tr>
+	 <tr>
+		<td>25 Tan Seng Haw, Magazine Road</td>
+		<td>25 Geok Hong Tian Temple, Havelock Road</td>
+  </tr>
+	</tr>
+	 <tr>
+		<td>26 Ying Fo Fui Kun, Telok Ayer Street</td>
+		<td>26 Indian Temple in Kreta Ayer</td>
+  </tr>
+	</tr>
+	 <tr>
+		<td>27 Ning Yueng Wui Kuan, South Bridge Road</td>
+		<td>27 Arab Street Keramat</td>
+  </tr>
+	</tr>
+	 <tr>
+		<td>28 Benggali Mosque, Bencoolen Street</td>
+		<td>28 Sultan’s Gate House (or Istana Kampong Glam)</td>
+  </tr>
+	</tr>
+	 <tr>
+		<td>29 Assembly House (Old Parliament House)</td>
+		<td>29 Cemetery, Kampong Radin Mas</td>
+  </tr>
+	</tr>
+	 <tr>
+		<td>30 Yeo Kim Swee’s Godown, North Boat Quay</td>
+		<td>30 Indian cemetery off Lorong</td>
+  </tr>
+</span>
