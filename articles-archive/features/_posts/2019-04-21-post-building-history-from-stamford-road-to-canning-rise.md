@@ -17,19 +17,19 @@ The archives unit is set up as part of the Raffles Museum and Library on Stamfor
 
 The Raffles Museum and Library is restructured into the Raffles Museum and the Raffles Library. The archives unit becomes a department under the Raffles Library.
 
-<div style="background-color: white;"><img style="width:550px" src="/images/Vol-15-issue-1/building-history/02a_buildinghistory.jpg">The Raffles Museum and Library on Stamford Road.</div>
+<div style="background-color: white;"><img style="width:600px" src="/images/Vol-15-issue-1/building-history/02a_buildinghistory.jpg">The Raffles Museum and Library on Stamford Road.</div>
 
 #### **1 April 1958**
 
 The Raffles Library is renamed Raffles National Library and tasked to “receive, preserve and administer the official archives”.
 
-<div style="background-color: white;"><img style="width:600px" style="width:400px" src="/images/Vol-15-issue-1/building-history/02b_buildinghistory.jpg">The reading room of the Raffles Library.</div>
+<div style="background-color: white;"><img style="width:500px" style="width:400px" src="/images/Vol-15-issue-1/building-history/02b_buildinghistory.jpg">The reading room of the Raffles Library.</div>
 
 #### **12 November 1960**
 
 The Raffles National Library building on Stamford Road officially opens, and is renamed National Library barely three weeks later on 1 December 1960. The archives collection is housed in an “air-conditioned five-storeyed tower of stacks” alongside the library's rare materials.
 
-<div style="background-color: white;"><img style="width:600px" src="/images/Vol-15-issue-1/building-history/02c_buildinghistory.jpg">The National Library on Stamford Road.</div>
+<div style="background-color: white;"><img style="width:800px" src="/images/Vol-15-issue-1/building-history/02c_buildinghistory.jpg">The National Library on Stamford Road.</div>
 
 #### **August 1968**
 
@@ -39,7 +39,7 @@ The National Archives and Record Centre begins operations, taking over the manag
 
 The National Archives and Records Centre moves into two refurbished colonial houses 17–18 Lewin Terrace on Fort Canning Hill. The new premises contains a 24-hour air-conditioned repository as well as facilities for binding and repair work.
 
-<div style="background-color: white;"><img style="width:500px" src="/images/Vol-15-issue-1/building-history/02d_buildinghistory.jpg">The refurbished colonial buildings at 17–18 Lewin Terrace on Fort Canning Hill.</div>
+<div style="background-color: white;"><img style="width:700px" src="/images/Vol-15-issue-1/building-history/02d_buildinghistory.jpg">The refurbished colonial buildings at 17–18 Lewin Terrace on Fort Canning Hill.</div>
 
 #### **June 1973**
 
@@ -59,7 +59,7 @@ The National Archives and Record Centre is merged with the Oral History Unit to 
 
 The Archives and Oral History Department finally moves into the Old Hill Street Police Station – the police force vacated the building in 1980 but renovations are delayed – sharing the space with several government agencies. The new location has a bigger climate-controlled archival repository, a proper conservation and repair workshop, a microfilming lab, an exhibition space, a lecture hall and a public reference room.
 
-<div style="background-color: white;"><img style="width:600px" src="/images/Vol-15-issue-1/building-history/02f_buildinghistory.jpg">The Old Hill Street Police Station.</div>
+<div style="background-color: white;"><img style="width:700px" src="/images/Vol-15-issue-1/building-history/02f_buildinghistory.jpg">The Old Hill Street Police Station</div>
 
 #### **August 1985**
 
