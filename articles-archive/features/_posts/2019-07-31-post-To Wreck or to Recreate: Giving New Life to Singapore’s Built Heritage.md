@@ -350,11 +350,6 @@ Conservation, on the other hand, is a much broader concept. Instead of perceivin
 [^47]:National Heritage Board. (n.d.). *Historic sites*. Retrieved from National Heritage Board website.
 [^48]:Urban Redevelopment Authority. (n.d.). *Brief history of conservation*. Retrieved from the Urban Redevelopment Authority website.
 [^49]:Urban Redevelopment Authority. (2017). *Conservation guidelines*. Retrieved from Urban Redevelopment Authority website.
-[^50]:Kong, 2011, p. 65.
-[^51]:
-[^52]:
-
-
-
-Urban Redevelopment Authority. (n.d.). Architectural Heritage Awards. Retrieved from Urban Redevelopment Authority website.  
-Urban Redevelopment Authority. (n.d.). Architectural Heritage Season. Retrieved from Urban Redevelopment Authority website; Ministry of National Development. (2017, October 31). Speech by 2M Desmond Lee at the URA Architectural Heritage Awards 2017. Retrieved from Ministry of National Development website.
+[^50]:[Kong](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13816245), 2011, p. 65.
+[^51]:Urban Redevelopment Authority. (n.d.). *Architectural Heritage Awards*. Retrieved from Urban Redevelopment Authority website.  
+[^52]:Urban Redevelopment Authority. (n.d.). *Architectural Heritage Season*. Retrieved from Urban Redevelopment Authority website; Ministry of National Development. (2017, October 31). *Speech by 2M Desmond Lee at the URA Architectural Heritage Awards 2017*. Retrieved from Ministry of National Development website.
