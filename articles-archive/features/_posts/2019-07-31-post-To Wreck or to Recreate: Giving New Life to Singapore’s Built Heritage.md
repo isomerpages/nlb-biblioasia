@@ -316,12 +316,18 @@ Conservation, on the other hand, is a much broader concept. Instead of perceivin
 [^13]:[Another park and museum for S’pore?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19551109-1.2.128) (1955, November 9). *Singapore Standard*, p. 8. Retrieved from NewspaperSG.
 [^14]:Friends of Singapore. (1958). [*The house in Coleman Street*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4980219) (p. 1). Singapore: Straits Times Press. (Call no.: RCLOS 728 FRI).
 [^15]:[Marina Hill ‘battle’ is over](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19560712-1.2.16). (1956, July 12). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
-[^16]:Ong, T. W. (1957, August 8). [Combine beauty with utility](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19570808-1.2.83.6). The Straits Times, p. 6; Scenery to draw the tourist. (1957, July 15). The Singapore Free Press, p. 2. Retrieved from NewspaperSG.
-[^17]:
-[^18]:
-[^19]:
-[^2]:
-This house with a past has an uncertain future. (1956, June 21). The Straits Times, p. 9. Retrieved from NewspaperSG.
-Kong, L., & Yeoh, B.S.A. (1994, March). Urban conservation in Singapore: A survey of state policies and popular attitudes. Urban Studies, 31(2), 247–265, p. 248. (Call no.: RART 307.1205 US)
-Teh, C.W. (1975). Public housing in Singapore: An overview. In S.H.K Yeh (Ed.), Public housing in Singapore: A multidisciplinary study (pp. 5–6). Singapore: Singapore University Press. (Call no.: RSING 363.5095957 PUB); Choe, A.F.C. (1975). Urban renewal. In S.H.K Yeh (Ed.), Public housing in Singapore: A multidisciplinary study (pp 97–98). Singapore: Singapore University Press. (Call no.: RSING 363.5095957 PUB)
-Housing and Development Board. (1966). Annual report 1965 (p. 84). Singapore: Housing Development Board. (Call no.: RCLOS 711.4095957 SIN)
+[^16]:Ong, T. W. (1957, August 8). [Combine beauty with utility](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19570808-1.2.83.6). *The Straits Times*, p. 6; [Scenery to draw the tourist](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19570715-1.2.8). (1957, July 15). *The Singapore Free Press*, p. 2. Retrieved from NewspaperSG.
+[^17]:[This house with a past has an uncertain future](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19560621-1.2.116). (1956, June 21). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
+[^18]:Kong, L., & Yeoh, B.S.A. (1994, March). Urban conservation in Singapore: A survey of state policies and popular attitudes. [*Urban Studies*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=944775)*, 31* (2), 247–265, p. 248. (Call no.: RART 307.1205 US).
+[^19]:Teh, C.W. (1975). Public housing in Singapore: An overview. In S.H.K Yeh (Ed.), [*Public housing in Singapore: A multidisciplinary study*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=756683) (pp. 5–6). Singapore: Singapore University Press. (Call no.: RSING 363.5095957 PUB); Choe, A.F.C. (1975). Urban renewal. In S.H.K Yeh (Ed.), [*Public housing in Singapore: A multidisciplinary study*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=756683) (pp 97–98). Singapore: Singapore University Press. (Call no.: RSING 363.5095957 PUB).
+[^20]:Housing and Development Board. (1966). [*Annual report 1965*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4662986) (p. 84). Singapore: Housing Development Board. (Call no.: RCLOS 711.4095957 SIN).
+[^21]:
+[^22]:
+[^23]:
+[^24]:
+[^25]:
+[^26]:
+[^27]:
+[^28]:
+[^29]:
+[^3]:
