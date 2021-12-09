@@ -23,7 +23,7 @@ The Raffles Museum and Library is restructured into the Raffles Museum and the R
 
 The Raffles Library is renamed Raffles National Library and tasked to “receive, preserve and administer the official archives”.
 
-<div style="background-color: white;"><img style="width:500px" style="width:400px" src="/images/Vol-15-issue-1/building-history/02b_buildinghistory.jpg">The reading room of the Raffles Library.</div>
+<div style="background-color: white;"><img style="width:500px" src="/images/Vol-15-issue-1/building-history/02b_buildinghistory.jpg">The reading room of the Raffles Library.</div>
 
 #### **12 November 1960**
 
