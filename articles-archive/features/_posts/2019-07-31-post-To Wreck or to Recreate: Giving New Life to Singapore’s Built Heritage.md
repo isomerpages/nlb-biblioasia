@@ -301,3 +301,13 @@ Conservation, on the other hand, is a much broader concept. Instead of perceivin
 <a href="https://biblioasia.nlb.gov.sg/vol-15/issue-2/jul-sep-2019/"><center>Back to Issue</center></a>
 
 #### **NOTES**
+[^1]:
+[^1]:
+[^1]:
+[^1]:
+[^1]:
+[^1]:
+[^1]:
+[^1]:
+[^1]:
+[^1]:
