@@ -170,7 +170,7 @@ Samuel was born on 19 May 1983 at KK Hospital. He was a triumph for medicine in 
 
 At the age of six, he finally met Ratnam the surgeon who had made his birth a reality. “He asked me some questions, like ‘How have you been doing?’ He was quite friendly and treated me very nicely… When I was young, I was quite shy, but he made me laugh so I felt very comfortable with him”.
 
-Given a choice, though, Samuel would rather not have been Singapore’s first test-tube baby. “It’s so that I would not get so much unwanted attention”, he rued. As recently as 2015, he was in the spotlight again, as his profile was included in Singapore’s official SG50 book, Living the Singapore Story.
+Given a choice, though, Samuel would rather not have been Singapore’s first test-tube baby. “It’s so that I would not get so much unwanted attention”, he rued. As recently as 2015, he was in the spotlight again, as his profile was included in Singapore’s official SG50 book, *Living the Singapore Story*.
 
 Access to Ratnam’s September 1997 interview with the Oral History Centre is restricted, so his views on Samuel and other subjects cannot be quoted here for now. But fellow doctor Tow Siang Hwa, who handpicked Ratnam to succeed him at KK Hospital from 1969, can shed light on how skilful Ratnam was. Speaking in July 1997, Tow recalled: “S.S. Ratnam was my handpicked trainee… He was intelligent and had the makings of a professor”. In 1969, when Tow left KK Hospital to start his own practice, he told Ratnam: “Ratnam, I am going to leave, but you will succeed me.
 
@@ -179,3 +179,35 @@ Access to Ratnam’s September 1997 interview with the Oral History Centre is re
 Tow, who helmed KK Hospital in the 1960s, had raised the reputation of the nation’s medical capabilities. In 1960, his expertise in molar pregnancy – in which an embryo is abnormal, resembling a cluster of grapes, and cannot develop fully – stunned an expert at Leeds University, who encouraged him to submit the discovery for a prestigious lecture in Britain. Before long, inspectors from Britain’s Royal College of Obstetrics & Gynaecology recognised KK Hospital as being of the highest medical standards, from the way it ran its operations to how it cared for patients. Tow said: “Now this was a major, major advance. It meant that obstetrics & gynaecology were on a par with medicine and surgery. So we were able to train our specialists locally.
 
 “So, from that day, instead of having five specialists for the whole population of Singapore, today, in 1997, we have 200 specialists”.
+
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
+<img src="/images/Vol-15-issue-2/singapore-medical-services/Doctor10.JPG">
+	<br><br>
+	This essay is an extract from the book, <i>The Sound of Memories: Recordings from the Oral History Centre, Singapore</i>, published by the National Archives of Singapore and World Scientific Publishing. The hardcover, paperback and ebook retail for $46, $28 and $19.95 respectively. The book is also available for reference at the Lee Kong Chian Reference Library (Call no.: RSING 959.57 CHE) and for loan at selected public libraries (Call no.: SING 959.57 CHE). The ebook is available for loan on the NLB Mobile app.
+</span>
+<div style="background-color: white;">
+<img src="/images/Vol-15-issue-2/singapore-medical-services/Doctor11.jpg" style="width: 100px; height: 100px;">
+<b>Cheong Suk-Wai</b> is a lawyer by training and a writer by choice. A former ASEAN Scholar and Thomson Foundation Scholar, she has been a construction litigator, a journalist and a public servant.
+</div>
+
+<a href="https://biblioasia.nlb.gov.sg/vol-15/issue-2/jul-sep-2019/"><center>Back to Issue</center></a>
+
+#### **LIST OF INTERVIEWEES**
+1. Ang Chit Poh (Accession no.: 004159) was a bus driver who witnessed how private bus business were affected during the Severe Acute Respiratory Syndrome (SARS) crisis from March till July 2003.
+2. Edmund Hugh Monteiro (Accession no.: 001956) treated many among Singapore’s first HIV/AIDS sufferers. He is former Director of the Centre for Communicable Diseases. He got his smarts, wisdom and compassion from his father, the trailblazing doctor Ernest Steven Monteiro.
+3. Ernest Steven Monteiro (Accession no.: 000488), the father of Edmund Hugh Monteiro, was the first Asian to hold the Chair of Clinical Medicine at the University of Malaya, and later Dean of the Faculty of Medicine at the same university. He succeeded in cultivating an anti-diphtheria serum in goats.
+4. Eugene Wijeysingha (Accession no.: 001595) began his career as a teacher at Raffles Institution (RI) in 1959. He was later Principal of Temasek Junior College from 1980 till 1985 and then Principal of RI from 1986 till 1994, when he retired.
+5. Kanagaratnam Shanmugaratnam (Accession no.: 001562) was a pathologist who came to be known as Singapore’s “Father of Pathology”. His son Tharman was Singapore’s Deputy Prime Minister from 2011 till 2019.
+6. Koh Eng Kheng (Accession no.: 002000) was among Singapore’s most beloved family physicians. He opened Chung Khiaw Clinic in 1957 and was still seeing patients a few months before his death in July 2006. In 1972, he was appointed President of the Singapore Medical Association and was later President of the College of General Practitioners Singapore.
+7. Liak Teng Lit (Accession no.: 003867) is the former Chief Executive of Toa Payoh Hospital, Changi General Hospital, Alexandra Hospital and Khoo Teck Puat Hospital. Under his watch, Alexandra Hospital had the fewest patients suffering from Severe Acute Respiratory Syndrome (SARS) when the epidemic hit Singapore in 2003.
+8. Loo Yew Kim (Accession no.: 003501) grew up in the grounds of Kwong Wai Shiu Hospital, where her foster parents were cleaners. Upon leaving school, she became a patient care assistant – a post we would now refer to as a nurse – at the hospital.
+9. Nadesan Ganesan (Accession no.: 003279) is a lawyer and former Chairman of the Football Association of Singapore. He survived the Japanese Occupation, and vowed never to touch tapioca or sweet potato again.
+10. Samuel Lee Jian Wei (Accession no.: 003407) is Asia’s first test-tube baby, born on 19 May 1983 to a security supervisor and a secretary. He was named Samuel by Professor S.S. Ratnam, the surgeon who carried out invitro fertilisation to aid his conception.
+11. Soh Siew Cheong (Accession no.: 003274) grew up in Chinatown in the days when gangsterism was rife. He trained as an engineer and was among the pioneering batch of local civil servants in Singapore.
+12. Sumitera Mohd Letak (Accession no.: 001915) started out as a midwife, travelling to and from mainland Singapore to the outlying islands to care for women there. She later took up nursing and continued to help mothers in need, winning volunteerism awards along the way.
+13. Tan Ser Kiat (Accession no.: 003084) was the Group Chief Executive of SingHealth from its inception in 2000 till 2012. An Emeritus Consultant in the Department of Orthopaedic Surgery at the Singapore General Hospital, he is also President of the Singapore Medical Council.
+14. Tay Chong Hai (Accession no.: 002537) is the first Southeast Asian to have had a disease named after him – Tay’s Syndrome. In the late 1990s, he discovered another disease, eosinophilic arthritis. With his wife, Dr Caroline Gaw, they first alerted Singaporeans to the existence of Hand, Foot and Mouth Disease.
+15. Tow Siang Hwa (Accession no.: 001920) was among Singapore’s pioneering gynaecologists. As Head of what is now KK Women’s and Children’s Hospital from 1960, he secured accreditation for it from the prestigious Royal College of Obstetrics and Gynaecology in Britain. He later left for private practice and set up Tow Yung Clinic.
+16. Yau Chung Chii (Accession no.: 000427) was steeped in Chinese kitchen wisdom. She was by turns a salesclerk at Daimaru departmental store, a telephonist and a typist.
+17. 
+Zong Nen Khiong (Accession no.: 003548) was among the Chinese residents of Singapore who settled in the Japanese wartime settlement of Endau in Johor in the mid-1940s. He later became a heart surgeon.
