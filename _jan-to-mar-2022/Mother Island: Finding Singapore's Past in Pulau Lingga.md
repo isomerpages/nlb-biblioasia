@@ -96,6 +96,9 @@ After this “one kingdom” ceased to exist with its formal partition by the Du
 
 Traditional pastimes are still alive and well on Lingga, with programmes to sustain interest actively promoted and undertaken by local authorities. More importantly, the local residents still enjoy them. Take *gasing* (plural *gegasing*), for example: Malay spinning tops once popularly played in the villages of Singapore and Malaya. Daik holds *gasing* tournaments twice a year, and I had the good fortune of witnessing one. 
 
+<div style="background-color: white;"><i>Gegasing</i> (spinning tops) in action at a tournament.  <i>Courtesy of Marcus Ng.</i></div>
+
+
 *Gasing*-spinning requires decent upper body strength, proper form and technical dexterity. Players are split into two teams and the game takes place over several rounds in which teams alternate between spinners and throwers. After spinners cast their *gasing*, the players from the other team try to knock these *gegasing* off-balance with their own. The *gegasing* still standing are then left to spin (*adu uri*) with the team whose *gasing* is the last one still spinning winning the round. The roles are then reversed and the rounds repeated. Although the game sounds simple, the precise rules and point-system are incredibly complex.
 
 *Gasing*-spinning is a very old Malay game and was once considered a sport of princes. Watching the *gasing* players perform their athletic manoeuvres is electrifying, some having their own signature style and flourish. The *gegasing* themselves are a marvel, carved out of hardwood with exquisite grain. At their highest speeds, they almost resemble levitating saucers. Still, the most amusing aspect of the experience is hearing the commentator’s enthusiastic live observations. In a different world, one can imagine him commentating at a big-league *gasing* cup match.
