@@ -7,7 +7,7 @@ description: ""
 ---
 #### K.F. Wong shot to international fame with his images of Borneo, though not without controversy. **Zhuang Wubin** examines Wong’s work and sees beyond their historical value.
 
-<img src="/images/Vol-15-issue-2/from-the-archives/Archives1.JPG">
+<img style="width: 550px; height: 450px;" src="/images/Vol-15-issue-2/from-the-archives/Archives1.JPG">
 <div style="background-color: white;">K.F. Wong’s photo of two bulls pulling a turf roller at the Padang in 1946 clinched the top prize in the 1987 Historical Photographs Competition organised by the National Archives of Singapore. <i>Courtesy of National Archives of Singapore.</i></div>
 
 In 1989, exactly 30 years ago, the late Minister S. Rajaratnam officiated the opening of a solo exhibition by photographer Wong Ken Foo, more popularly known as K.F. Wong (1916–98). Organised by the National Archives of Singapore, “Light on Historical Moments – Images on Singapore” featured 159 photographs that Wong had taken from the mid-1940s to the 1960s.
@@ -18,7 +18,7 @@ In his speech, Rajaratnam pointed out that an understanding of the “history of
 
 In 1947, Wong and his friends opened Straits Photographers, a photo studio at Amber Mansions on Orchard Road. An advertisement in *The Straits Times* on 10 June 1948 highlighted his “artistic portraits and transparent oil painting[s]”.[^2] Wong ran the business as the studio manager until 1956, when he decided to return to his photography business in Sarawak.
 
-<img src="/images/Vol-15-issue-2/from-the-archives/Archives2.JPG">
+<img style="width: 350px; height: 450px;" src="/images/Vol-15-issue-2/from-the-archives/Archives2.JPG">
 <div style="background-color: white;">The poster publicising K.F. Wong’s solo exhibition, “Light on Historical Moments – Images on Singapore”, organised by the National Archives of Singapore in 1989. The exhibition featured 159 photographs on Singapore that Wong had taken from the mid-1940s to the 60s. <i>Courtesy of National Archives of Singapore.</i></div>
 
 Before opening Straits Photographers, Wong and his partners had already established the well-known Anna Studio in Kuching in 1938, followed by a branch bearing the same name in Sibu in 1941. Shuttling between the three studios kept Wong busy, but whenever he was in Singapore, he would head out before dawn to photograph street scenes, festivals and markets in the early morning light.[^3]
@@ -52,7 +52,7 @@ During the dark years of the Japanese Occupation, Wong was forced to keep Anna S
 
 Wong’s cordial relationship with his customers held him in good stead during the war years: towards the end of the Occupation, some of the younger Japanese officers who frequented Wong’s studio warned him to escape after learning that he would be arrested.[^12]
 
-<img src="/images/Vol-15-issue-2/from-the-archives/Archives4.JPG">
+<img style="width: 350px; height: 450px;" src="/images/Vol-15-issue-2/from-the-archives/Archives4.JPG">
 <div style="background-color: white;">A roadside Chinese herbal tea stall in Chinatown, 1962. Photograph by K.F. Wong. <i>Courtesy of National Archives of Singapore.</i></div>
 
 #### **Making His Mark**
