@@ -292,3 +292,11 @@ In Singapore, the Preservation of Sites and Monuments is the national authority 
 <br><br>
 Conservation, on the other hand, is a much broader concept. Instead of perceiving a property as an individual entity, its historical and cultural value is considered in tandem with the surrounding built environment. Conservation can be applied to buildings (individually or in clusters), localities (streets, blocks, environments or precincts) and even special gardens or landscapes. In other words, conservation does not just focus on the physical aspects of the structures that are worth preserving, but also the stories behind them.
 </div>
+
+<div style="background-color: white;">
+<img src="/images/Vol-15-issue-2/to-wreck-or-to-recreate/Wreck8.jpg" style="width: 100px; height: 100px;">
+<b>Lim Tin Seng</b> is a Librarian with the National Library, Singapore. He is the co-editor of <i>Roots: Tracing Family Histories – A Resource Guide</i> (2013); <i>Harmony and Development: ASEAN-China Relations</i> (2009) and <i>China’s New Social Policy: Initiatives for a Harmonious Society</i> (2010). He is also a regular contributor to <i>BiblioAsia</i>.
+</div>
+
+<a href="https://biblioasia.nlb.gov.sg/vol-15/issue-2/jul-sep-2019/"><center>Back to Issue</center></a>
+
