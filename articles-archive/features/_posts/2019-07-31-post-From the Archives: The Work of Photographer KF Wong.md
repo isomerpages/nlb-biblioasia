@@ -153,13 +153,9 @@ The fact that Wong’s images are held in the National Archives conditions how w
 [^12]:K F Wong’s reflection of life. (1998, October 18). *Sarawak Tribune*, Panorama. (Not in NLB holdings).
 [^13]:K.F. Wong’s photographs also appeared in *Straits Times Pictures 1948* and *Straits Times Pictures 1949*. Published by *The Straits Times*, these are annual compilations of photographs taken by staff photographers and other prominent practitioners from Malaya and British Borneo.
 [^14]:*Sarawak Tribune*, 1998.
-[^15]:Giam, S. (1960, August 4). [Genuine love for the Dyaks made him outstanding photographer](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19600804-1.2.104). The Singapore Free Press, p. 8. Retrieved from NewspaperSG.
-[^16]:
-[^17]:
-[^18]:
-[^19]:
-[^2]:Wong, K.F. (1960, September). 风土摄影十五年 [Fifteen years of photography in Borneo]. Photoart, 12. (Not available in NLB holdings)
-The Singapore Free Press, 4 Aug 1960, p. 8.
-Horn, C. (2015). The Orang Ulu and the museum: Investigating traces of collaboration and agency in ethnographic photographs from the Sarawak Museum in Malaysia (p. 139) [Unpublished doctoral dissertation]. Melbourne, Australia: Swinburne University of Technology. (Not in NLB holdings)
-Fong & Lim, 1995, p. 106.
-Howell, W. (1948, June 21). The Sea Dyaks of Borneo. The Straits Times, p. 4. Retrieved from NewspaperSG.
+[^15]:Giam, S. (1960, August 4). [Genuine love for the Dyaks made him outstanding photographer](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19600804-1.2.104). *The Singapore Free Press*, p. 8. Retrieved from NewspaperSG.
+[^16]:Wong, K.F. (1960, September). 风土摄影十五年 [*Fifteen years of photography in Borneo*]. *Photoart*, 12. (Not available in NLB holdings).
+[^17]:[*The Singapore Free Press*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19600804-1.2.104), 4 Aug 1960, p. 8.
+[^18]:Horn, C. (2015). *The Orang Ulu and the museum: Investigating traces of collaboration and agency in ethnographic photographs from the Sarawak Museum in Malaysia* (p. 139) [Unpublished doctoral dissertation]. Melbourne, Australia: Swinburne University of Technology. (Not in NLB holdings)
+[^19]:Fong & Lim, 1995, p. 106.
+[^2]:Howell, W. (1948, June 21). [The Sea Dyaks of Borneo](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19480621-1.2.40). The Straits Times, p. 4. Retrieved from NewspaperSG.
