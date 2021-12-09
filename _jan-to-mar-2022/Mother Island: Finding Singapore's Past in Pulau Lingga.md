@@ -13,6 +13,10 @@ In a half-forgotten corner of Telok Belanga (officially rendered as Telok Blanga
 
 Today, many Singaporeans associate the Riau islands, now part of Indonesia, with Batam’s massage parlours and Bintan’s more sanitised resorts. Fewer, though, have any inkling of just how much Singapore is bound to this archipelago by ties of history, economics and culture. Who remembers, for instance, that both Singapore and the Riau-Lingga archipelago were once part of the same maritime empire: the old Sultanate of Johor that emerged after the fall of Melaka to the Portuguese in 1511? Modern Singapore came into being ultimately with the dismemberment of this realm in 1824, when the Anglo-Dutch Treaty divided the Malay World between the British and the Dutch.[^1]
 
+<div style="background-color: white;">Map titled <i>Carte de l’Archipel et des Detroits compris entre Singapour et Banca</i>, 1855, showing Lingga in relation to Singapore. <i>© British Library Board H.F.SEC.18.(1530.).</i></div>
+
+
+
 #### **A Trading Power** 
 
 The name “Riau-Lingga” is a collective geographic expression for an archipelago of islands located south of Singapore and east of Sumatra. The archipelago includes familiar places such as Bintan and Batam, but also other isles, such as Pulau Lingga and Pulau Penyengat, that once loomed large over the region. Riau-Lingga referred to the kingdom’s (uneasy) system of dual government: Riau being the domain of the Bugis chiefs centred around Bintan and Pulau Penyengat, while Pulau Lingga served as the sultan’s headquarters.
