@@ -51,28 +51,76 @@ In the subsequent year, Emporium acquired Chinese Emporium Private Limited at In
 
 In the wake of Singapore’s rapid economic growth in the 1970s, consumers became more affluent and shopping evolved from being a necessity to a lifestyle choice. With greater purchasing power and more leisure time on their hands, people had higher expectations of the quality and variety of products they could buy, and were also more willing to splurge on better-made imported goods. Emporium Holdings was quick to seize the opportunity by diversifying its retail offerings. To cater to the needs of customers from different segments of society, Emporium established a second department store chain.
 
+#### **Milestones**
+
 <table>
   <tr>
-    <td>&nbsp; &nbsp;</td>
-    <td></td>
+    <td>1938</td>
+    <td>Lim Tow Seng establishes Lim Seng Huat, an import-export trading house specialising in China-made sundry goods, in half of a shophouse space on Pickering Street, before moving to 13 Circular Road later. The Circular Road shophouse later becomes the head office of Emporium Holdings Group.</td>
+  </tr>
+	  <tr>
+    <td>1950s-1960s</td>
+    <td>Lim Tow Seng and his brother Lim Tow Yong participate in trade fairs at Great World and New World amusement parks to promote their products.</td>
+  </tr>
+	  <tr>
+    <td>1966</td>
+    <td>Oriental Emporium department store opens in Raffles Place on 1 December.</td>
+  </tr>
+	  <tr>
+    <td>1968</td>
+    <td>1968 Eastern Emporium on High Street opens.</td>
+  </tr>
+	  <tr>
+    <td>1969</td>
+    <td>Chinese Emporium Private Limited on Orchard Road is acquired.</td>
+  </tr>
+	  <tr>
+    <td>1970</td>
+    <td>Yuyi Private Limited on Grange Road is acquired.</td>
+  </tr>
+	  <tr>
+    <td>1973</td>
+    <td>Emporium Holdings Group is established and opens a number of stores: Oriental Emporium & Supermarket in People’s Park and Jurong; Katong Emporium & Supermarket, Toa Payoh Emporium; and Sin Hua Emporium at Happy World amusement park.</td>
+  </tr>
+	  <tr>
+    <td>1974</td>
+    <td>Oriental Emporium in Balestier and Queenstown open.</td>
+  </tr>
+	  <tr>
+    <td>1977</td>
+    <td>Oriental Emporium opens in Rochor.</td>
+  </tr>
+	  <tr>
+    <td>1978</td>
+    <td>Klasse Lucky No. 1 in Lucky Plaza and Oriental Emporium in Ang Mo Kio open.</td>
+  </tr>
+	  <tr>
+    <td>1979</td>
+    <td>Oriental Emporium in Raffles Place and Eastern Emporium on High Street close when their leases expired.</td>
+  </tr>
+	  <tr>
+    <td>1980</td>
+    <td>Official opening of eight outlets and two restaurants on the same day on 28 March: Oriental Emporium & Supermarket in Clementi, Woodlands, Bukit Timah and Bukit Merah; Oriental Emporium in Bedok; S-Mart Supermarket in Bedok; Klasse Department Store and Café De Klasse in Peninsula Plaza; Plaza Department Store & Supermarket in Ang Mo Kio; and Oriental Restaurants in Ang Mo Kio and Bedok.<br><br>
+Oriental Slasher Emporium in Hong Lim Complex; Oriental Emporium & Supermarket in Holland Village; and Oriental Restaurants in Clementi and Bukit Merah open later in the year.</td>
+  </tr>
+	 <tr>
+    <td>1981</td>
+    <td>15th anniversary of Emporium Holdings; opening of new head office in Ang Mo Kio; Oriental Emporium & Supermarket opens in Geylang; and Home Furnishing Centre opens in Redhill.</td>
+  </tr>
+	 <tr>
+    <td>1982</td>
+    <td>Oriental Emporium & Supermarket opens in Serangoon.</td>
+  </tr>
+	 <tr>
+    <td>1983</td>
+    <td>Klasse Department Store opens in Centrepoint shopping centre, along with Chao Phraya Thai Seafood Restaurant in Ang Mo Kio; Small World Superstore in Parkway Parade; and Yokoso Superstore in Tanjong Katong Complex.</td>
+  </tr>
+	 <tr>
+    <td>1985</td>
+    <td>Oriental Kimisawa Superstore opens in Hougang..</td>
+  </tr>
+	 <tr>
+    <td>1987</td>
+    <td>Emporium Holdings Group is liquidated.</td>
   </tr>
 </table>
-
-#### **Milestones**
-| 1938 | Lim Tow Seng establishes Lim Seng Huat, an import-export trading house specialising in China-made sundry goods, in half of a shophouse space on Pickering Street, before moving to 13 Circular Road later. The Circular Road shophouse later becomes the head office of Emporium Holdings Group. |
-| -------- | -------- | 
-| 1950s-1960s     | Lim Tow Seng and his brother Lim Tow Yong participate in trade fairs at Great World and New World amusement parks to promote their products.| 
-| 1966 | Oriental Emporium department store opens in Raffles Place on 1 December. |
-| 1968   | 1968 Eastern Emporium on High Street opens.  |
-| 1969 | Chinese Emporium Private Limited on Orchard Road is acquired. |
-| 1970 | Yuyi Private Limited on Grange Road is acquired.|
-| 1973 | Emporium Holdings Group is established and opens a number of stores: Oriental Emporium & Supermarket in People’s Park and Jurong; Katong Emporium & Supermarket, Toa Payoh Emporium; and Sin Hua Emporium at Happy World amusement park.|
-| 1974 | Oriental Emporium in Balestier and Queenstown open.|
-| 1977 | Oriental Emporium opens in Rochor. |
-| 1978 | Klasse Lucky No. 1 in Lucky Plaza and Oriental Emporium in Ang Mo Kio open. |
-| 1979 | Oriental Emporium in Raffles Place and Eastern Emporium on High Street close when their leases expired. |
-| 1980 | Official opening of eight outlets and two restaurants on the same day on 28 March: Oriental Emporium & Supermarket in Clementi, Woodlands, Bukit Timah and Bukit Merah; Oriental Emporium in Bedok; S-Mart Supermarket in Bedok; Klasse Department Store and Café De Klasse in Peninsula Plaza; Plaza Department Store & Supermarket in Ang Mo Kio; and Oriental Restaurants in Ang Mo Kio and Bedok.
-Oriental Slasher Emporium in Hong Lim Complex; Oriental Emporium & Supermarket in Holland Village; and Oriental Restaurants in Clementi and Bukit Merah open later in the year. |
-| 1977 | Oriental Emporium opens in Rochor. |
-| 1977 | Oriental Emporium opens in Rochor. |
-| 1977 | Oriental Emporium opens in Rochor. |
