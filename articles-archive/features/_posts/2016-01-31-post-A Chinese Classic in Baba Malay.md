@@ -5,12 +5,33 @@ date: 2016-01-31
 layout: post
 description: ""
 ---
-Written in the 14th century and set during the last days of China’s Han dynasty and the tumultuous Three Kingdoms period (circa AD 220–280), the *Romance of the Three Kingdoms* is a well-known Chinese classic of epic proportions and a cast of thousands. In the late 1800s, a Baba Malay version of this classic was published in Singapore – making this popular tale more accessible to the Peranakan (Straits-born Chinese) community.[^1]
+<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> 
+<b>Title:</b> Chrita Dahulu-kala, Namanya Sam 
+Kok, Atau, Tiga Negri Ber-prang: Siok, 
+Gwi, Sama Gor di Jaman “Han Teow” 
+(Ancient Story Entitled Sanguo or the Three 
+Kingdoms at War: Shu, Wei and Wu During 
+the Han Dynasty)<br>
+<b>Author:</b> Chan Kim Boon (1851–1920)<br>
+<b>Year published:</b> 1892–1896<br>
+<b>Publisher:</b> Kim Sek Chye Press (Singapore)<br>
+<b>Language:</b> Baba Malay<br>
+<b>Type:</b> Book (30 volumes); 4,622 pages in 
+total<br>
+<b>Location:</b> Call no.: RRARE 895.135 CHR<br>
+<b>Accession no.:</b> B00607851E (v.24)<br>
+<b>Donated by:</b> National Museum Singapore
+</div>
 
 <img style="width: 350px; height: 450px;" src="/images/Vol-15-issue-2/rare-materials/Baba1.JPG">
 <div style="background-color: white;"><i>Chrita Dahulu-kala, Namanya Sam Kok, Atau, Tiga Negri Ber-prang: Siok, Gwi, Sama Gor di Jaman “Han Teow”</i> – based on the Chinese classic text <i>Romance of the Three Kingdoms</i> – comprises 30 volumes in the series. <i>Image source: National Library Board, Singapore.</i></div>
 
+Written in the 14th century and set during the last days of China’s Han dynasty and the tumultuous Three Kingdoms period (circa AD 220–280), the *Romance of the Three Kingdoms* is a well-known Chinese classic of epic proportions and a cast of thousands. In the late 1800s, a Baba Malay version of this classic was published in Singapore – making this popular tale more accessible to the Peranakan (Straits-born Chinese) community.[^1]
+
 Titled as *Chrita Dahulu-kala, Namanya Sam Kok, Atau, Tiga Negri Ber-prang: Siok, Gwi, Sama Gor di Jaman “Han Teow”* (henceforth referred to as *Sam Kok*), the series consists of 30 volumes translated from Chinese to Baba Malay. The translation was done by Chan Kim Boon, an administrator at law firm Aitken & Rodyk,[^2] with the help of two other people, Chia Ann Siang and Tan Kheam Hock.[^3]
+
+<img style="width: 300px; height: 450px;"  src="/images/Vol-15-issue-2/rare-materials/Baba2.JPG">
+<div style="background-color: white;">The translator of the series, Chan Kim Boon (1851–1920) was also known by his pen-name Batu Gantong (literally “Hanging Rock”). <i>All rights reserved, Chan, K. B. (1892–1896). Chrita Dahulukala, Namanya Sam Kok, Atau, Tiga Negri Ber-prang: Siok, Gwi, Sama Gor di Jaman “Han Teow”. Singapore: Kim Sek Chye Press.</i></div>
 
 <img style="width: 350px; height: 450px;" src="/images/Vol-15-issue-2/rare-materials/Baba3.JPG">
 <div style="background-color: white;">The original green cover of Volume 24 (of 30 volumes) in the Sam Kok series. <i>Image source: National Library Board, Singapore.</i></div>
@@ -38,27 +59,6 @@ and cashier, however, became better known for his translations of Chinese classi
 It was Chan’s publication of *Sam Kok* that brought him fame, primarily because it was a massive work that was serialised over 30 volumes. The series also included Chan’s footnotes, which provided details of Chinese culture as well as notes on romanised Malay terms and names, to which Chinese text was added for clarification. Jokes and even a portrait of the author were included in the series.[^15]
 
 Chan was known by the pen-name Batu Gantong (literally “Hanging Rock”), which is the name of a cemetery in Penang. Some people believed that this was an allusion to his preference for his final resting place. Chan’s home at 75 Lebuh Muntri in Georgetown, Penang, has today become a tourist destination because of the fame that Chan had gained through his Baba Malay translations.[^16] 
-
-<img style="width: 350px; height: 450px;"  src="/images/Vol-15-issue-2/rare-materials/Baba2.JPG">
-<div style="background-color: white;">The translator of the series, Chan Kim Boon (1851–1920) was also known by his pen-name Batu Gantong (literally “Hanging Rock”). <i>All rights reserved, Chan, K. B. (1892–1896). Chrita Dahulukala, Namanya Sam Kok, Atau, Tiga Negri Ber-prang: Siok, Gwi, Sama Gor di Jaman “Han Teow”. Singapore: Kim Sek Chye Press.</i></div>
-
-<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> 
-<b>Title:</b> Chrita Dahulu-kala, Namanya Sam 
-Kok, Atau, Tiga Negri Ber-prang: Siok, 
-Gwi, Sama Gor di Jaman “Han Teow” 
-(Ancient Story Entitled Sanguo or the Three 
-Kingdoms at War: Shu, Wei and Wu During 
-the Han Dynasty)<br>
-<b>Author:</b> Chan Kim Boon (1851–1920)<br>
-<b>Year published:</b> 1892–1896<br>
-<b>Publisher:</b> Kim Sek Chye Press (Singapore)<br>
-<b>Language:</b> Baba Malay<br>
-<b>Type:</b> Book (30 volumes); 4,622 pages in 
-total<br>
-<b>Location:</b> Call no.: RRARE 895.135 CHR<br>
-<b>Accession no.:</b> B00607851E (v.24)<br>
-<b>Donated by:</b> National Museum Singapore
-</div>
 
 #### **NOTES**
 [^1]:The term Peranakan generally refers to people of mixed Chinese and Malay/Indonesian heritage. Peranakan males are known as *babas* while the females are known as *nonyas* (or *nyonyas*). See National Library Board. (August 26, 2013). [*Peranakan (Straits Chinese) community*](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-08-30_181745.html) written by Koh, Jaime. Retrieved from Singapore Infopedia.
