@@ -24,10 +24,10 @@ In its heyday in the mid-1980s, Emporium Holdings5 operated more than 70 departm
 
 With the closure of Whiteaways at Fullerton Square and Gian Singh on Battery Road in the early 1960s, Robinsons – which had acquired John Little in 1955 – became the sole department store still standing in Raffles Place. Shopping at Robinsons was considered a luxury at the time as the range of Western products it carried was expensive and catered mainly to the expatriate community and affluent locals.6
 
-<img src="/images/Vol-15-issue-2/oriental-emporium/Emporium2.JPG">
+<img style="width: 350px; height: 450px;" src="/images/Vol-15-issue-2/oriental-emporium/Emporium2.JPG">
 <div style="background-color: white;">Lim Tow Seng (right) accompanying Minister for Education Ong Pang Boon on a tour of Lim Seng Huat Industries in Tanglin Halt at its opening in July 1969. This was the first business that Lim started before the Oriental Emporium chain. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
-<img src="/images/Vol-15-issue-2/oriental-emporium/Emporium3.JPG">
+<img style="width: 350px; height: 450px;" src="/images/Vol-15-issue-2/oriental-emporium/Emporium3.JPG">
 <div style="background-color: white;">Oriental Emporium in Raffles Place, which opened on 1 December 1966. <i>Image reproduced from 东方百货有限公司启业特辑 [Oriental Emporium Limited] (p. 2). (1966). Singapore: M.C. (P). (Call no.: RSING q381.141095957 DFB).</i></div>
 
 Mabel Martin, a stenographer, remarked that Robinsons was the place where “you had to have enough money to buy”.7 Ng Joo Kee, who used to live on Chulia Street in Raffles Place, recalled that Robinsons catered “more for expatriates, for the Eurasians and not for the locals”, and as a child, he felt rather intimidated when shopping there.8
@@ -51,9 +51,12 @@ In the subsequent year, Emporium acquired Chinese Emporium Private Limited at In
 
 In the wake of Singapore’s rapid economic growth in the 1970s, consumers became more affluent and shopping evolved from being a necessity to a lifestyle choice. With greater purchasing power and more leisure time on their hands, people had higher expectations of the quality and variety of products they could buy, and were also more willing to splurge on better-made imported goods. Emporium Holdings was quick to seize the opportunity by diversifying its retail offerings. To cater to the needs of customers from different segments of society, Emporium established a second department store chain.
 
-
-
-
+<table>
+  <tr>
+    <td>&nbsp; &nbsp;</td>
+    <td></td>
+  </tr>
+</table>
 
 #### **Milestones**
 | 1938 | Lim Tow Seng establishes Lim Seng Huat, an import-export trading house specialising in China-made sundry goods, in half of a shophouse space on Pickering Street, before moving to 13 Circular Road later. The Circular Road shophouse later becomes the head office of Emporium Holdings Group. |
@@ -73,4 +76,3 @@ Oriental Slasher Emporium in Hong Lim Complex; Oriental Emporium & Supermarket i
 | 1977 | Oriental Emporium opens in Rochor. |
 | 1977 | Oriental Emporium opens in Rochor. |
 | 1977 | Oriental Emporium opens in Rochor. |
-
