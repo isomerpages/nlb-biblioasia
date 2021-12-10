@@ -44,7 +44,7 @@ In January 1968, less than two years after its flagship store opened in Raffles 
 
 In the subsequent year, Emporium acquired Chinese Emporium Private Limited at International Building on Orchard Road. This marked the company’s first foray into the Orchard Road area. This was followed by the acquisition of Yuyi Pte Ltd in 1970, a Chinese-style department store on Grange Road, just opposite Orchard Cinema.
 
-<img src="/images/Vol-15-issue-2/oriental-emporium/Emporium4.JPG">
+<img style="width: 600px; height: 420px;" src="/images/Vol-15-issue-2/oriental-emporium/Emporium4.JPG">
 <div style="background-color: white;">The Oriental Emporium department store in the Lion City Hotel complex on Haig Road, 1994. Lee Kip Lin Collection. All rights reserved, <i>Lee Kip Lin and National Library Board, Singapore.</i></div>
 
 #### **Emporium Expands and Diversifies**
@@ -125,7 +125,7 @@ Oriental Slasher Emporium in Hong Lim Complex; Oriental Emporium & Supermarket i
   </tr>
 </table>
 
-<img src="/images/Vol-15-issue-2/oriental-emporium/Emporium5.JPG">
+<img style="width: 600px; height: 420px;" src="/images/Vol-15-issue-2/oriental-emporium/Emporium5.JPG">
 <div style="background-color: white;">Lim Tow Seng established Lim Seng Huat, an import-export trading house specialising in China-made sundry goods in 1938. The company participated in various trade fairs at the Great World and New World amusement parks in the 1950s and ’60s. <i>Image reproduced from 英保良二老板拿督 林道荣局绅 : 新马汶百货钜子传奇》[The legend of Dato’ Lim Tow Yong JP, founder of Emporium Holdings].(2012). Penang: Chang Jiang CPM gong si. (Call no.: Chinese R 381.141092 XSJ)</i></div>
 
 The Oriental Emporium chain would continue to sell budget-friendly China-made and local products, while a more upmarket brand was launched in 1978 with the opening of the first Klasse Department Store in Lucky Plaza. The glitzy, multi-storey Lucky Plaza mall had just opened in the heart of the Orchard Road shopping belt to much fanfare with its upmarket shops and boutiques, and a glass-clad external “bubble lift”, purportedly the first of its kind in Southeast Asia.
@@ -144,7 +144,7 @@ Oriental Emporium stores were strategically located in high-density areas in the
 
 There was no stopping the expansion of the Emporium Holdings Group. On 28 March 1980, it pulled a major feat by opening no less than 10 new outlets on the same day: Oriental Emporium & Supermarket in Clementi, Woodlands, Bukit Timah and Bukit Merah; Oriental Emporium in Bedok; Oriental Restaurants in Ang Mo Kio and Bedok; a Klasse Department Store and Café De Klasse in Peninsula Plaza serving Western and local cuisines; S-Mart Supermarket in Bedok; and Plaza Department Store & Supermarket in Ang Mo Kio.[^14]
 
-<img src="/images/Vol-15-issue-2/oriental-emporium/Emporium6.JPG">
+<img style="width: 300px; height: 300px;" src="/images/Vol-15-issue-2/oriental-emporium/Emporium6.JPG">
 <div style="background-color: white;">(Left) The paper carrier bag of Emporium Holdings used in the 1980s. Courtesy of National Museum of Singapore, National Heritage Board.
 (Right) A paper carrier bag from Klasse Department Store in Lucky Plaza, 1970s. <i>Courtesy of National Museum of Singapore, National Heritage Board.</i></div>
 
