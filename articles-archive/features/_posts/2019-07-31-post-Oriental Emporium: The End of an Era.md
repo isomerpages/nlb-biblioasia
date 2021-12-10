@@ -161,3 +161,33 @@ When Singapore experienced its first post-independence economic recession in 198
 The Emporium Holdings Group was acquired by various entities over the years. In the 1990s, there were sporadic newspaper reports on the Emporium brand, such as the opening of a refreshed Oriental Emporium in Ang Mo Kio in 1997.16 But with increasing competition, the brand did not survive the times, forcing Emporium to shutter the doors of all its department stores on 22 July 1999 without prior notice – more than 30 years after the first Oriental Emporium opened in Raffles Place in 1966.
 
 Although the Emporium retail giant has exited from Singapore’s shopping scene, the company is still noteworthy for the innovative concepts it pioneered in the local retail scene. For over three decades, the Emporium chain of department stores, supermarkets and restaurants delighted scores of shoppers and customers – many of whom still have fond memories of the brand.
+
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
+	<b>THE TIES THAT BINDS</b>
+		<br><br>
+The story of Emporium Holdings Group would not be complete without mentioning the special bond shared by the company and its employees. When Emporium began battling rumours of financial difficulties during the 1985 economic recession, about 200 staff members organised a special lunch banquet at the Oriental Restaurant in Ang Mo Kio to show their unity and support for the management. During the lunch, staff presented the management with a signed declaration to demonstrate their confidence in the company and pledged to be more efficient in their work. Unfortunately, Emporium Holdings fell victim to the economic recession in 1987.
+		<br><br>
+In September 1996, nine years after the liquidation of Emporium Holdings, ex-employees of the company organised a get-together dinner themed “Sparkling Memories” to show their appreciation for former managing director, Lim Tow Yong (Lim Tow Seng passed away in January 1992). About 800 former staff attended the dinner.
+	<br><br>
+	Fast forward to 2006, Lim published an advertisement in the Chinese newspaper, <i>Lianhe Zaobao</i>, on 17 October inviting former employees to a dinner to show his appreciation for their support over the years. A quote in the invitation card is particularly memorable: “不在乎天长地久，只在乎一起走过闪烁的日子”, which means “It matters not if it doesn’t last an eternity, what matters are the bright days that we have spent together”.17 Some 1,400 former staff attended the dinner held on 20 December 2006, and each was given a red packet containing $100.18 The strong bond and camaraderie forged between boss and staff was still palpable 20 years following the demise of Emporium Holdings.
+	<br><br>
+	In an interview with <i>The Straits Times</i> on 29 October 2006, Lim spoke about how the dinner organised by his staff in 1996 had motivated him and ignited his fighting spirit to restart the business in 1999. (Lim was then aged 75 and had just been discharged from bankruptcy).19 He said: “It [the dinner] just touched my heart and I have never forgotten it. I’ve thought about it every day for the last 10 years and I told myself that I must work hard and one day pay them back”.20 Lim passed away in April 2012.
+</span><br>
+<div style="background-color: white;">
+<img src="/images/Vol-15-issue-2/oriental-emporium/Emporium7.jpg" style="width: 100px; height: 100px;">
+<b>Kam Kit Geok</b>, who discovered and joined the archive profession by chance, works at the National Archives of Singapore. She finds archival work meaningful and interesting, and enjoys learning new things through the archives.
+</div>
+
+<a href="https://biblioasia.nlb.gov.sg/vol-15/issue-2/jul-sep-2019/"><center>Back to Issue</center></a>
+
+#### **NOTES**
+[^1]:
+[^2]:
+[^3]:
+[^4]:
+[^5]:
+[^6]:
+[^7]:
+[^8]:
+[^9]:
+[^10]:
