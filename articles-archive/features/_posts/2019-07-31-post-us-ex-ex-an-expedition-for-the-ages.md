@@ -84,11 +84,11 @@ On 19 February 1842, the USS *Vincennes* with Wilkes on board arrived in Singapo
 
 Wilkes and his crew were so fascinated with Singapore that he dedicated an entire chapter to the island in his “Narrative” of the expedition.[^7] Several astute observations were made by Wilkes and the crew during their brief stay here. It is remarkable that several of these observations hold true almost 200 years later.
 
-###### ***A Colourful Melting Pot***
+##### ***A Colourful Melting Pot***
 
 The crew was amazed by the confluence of races, languages and cultures in Singapore and the peaceful coexistence among the people, the “rarity of quarrels between different races and religions owning to the consideration of the place being neutral ground”. They were also “struck with the order and good behaviour existing among such an incongruous mass of human being[s]… speaking a vast variety of tongues, and some of who would infallibly have been at war with each other elsewhere”.[^8] Wilkes called Singapore the “Babel of the East”.[^9] 
 
-###### ***A Thriving Entrepôt***
+##### ***A Thriving Entrepôt***
 
 Wilkes estimated there were at least 1,500–2,000 vessels in the port at any one time, with numerous *prahu* (wooden sailing boats) from neighbouring Riau and Lingga, Celebes, Flores, Timor, Ambon, Sumba and Lubok, and also from resource-rich Borneo. Popular goods imported from Riau and Lingga included pepper, rice, camphor, sago, coffee, nutmeg, oil, tobacco, *biche-de-mer* (sea cucumber), birds’ nests, tortoise shells, pearls, rattan, ivory, animal hides and *sarongs*, among other items.[^10] Boats from Papua and Aru brought birds of paradise flowers, which were found in abundance in the markets of Singapore.
 
@@ -101,17 +101,17 @@ Singapore was described as a thriving entrepôt, with arriving goods redistribut
 
 The era of steam-powered vessels was just starting to take off and Wilkes mentions that “during… [his] stay in Singapore, the subject of steam navigation was much talked of, and many projects appeared to be forming by which the settlement might reap the advantages of that communication, when established between India and China”.[^13]
 
-###### ***A Place of Transience***
+##### ***A Place of Transience***
 
 In 1842, the population in Singapore was recorded as 60,000, comprising 45,000 Chinese, 8,000 Malays and 7,000 Indians, with only one-tenth of the whole as female. The people were diverse, with Malays, Chinese, Hindus and Muslims, Jews, Armenians and Europeans, and Parsees, Bugis and Arabs. Wilkes wrote about the transient nature of the population, remarking that “no European looks upon the East as a home, and all those of every nation I met with invariably considered his sojourn temporary”.[^14] The Chinese, for instance, were likely to return home to China as soon they acquired a skill, even at the risk of being punished for having left their homeland illegally.
 
-###### ***Lush Flora and Fauna***
+##### ***Lush Flora and Fauna***
 
 Wilkes and his men found the jungle undergrowth in the interior so impenetrable that no Europeans or natives had ever climbed Bukit Timah Hill, the highest point of the island even though it was only 500 ft (152 m) high. Tigers were not indigenous to Singapore, but the big cats had begun to swim across the narrow Johor Strait from the Malay Peninsula in search of food. Even criminals and thieves avoided their usual escape routes in the jungles for fear of tigers.
 
 Records of the crops grown here included nutmeg, coffee, black pepper, cocoa, gambier, gamboge (a kind of resin) and a variety of fruits. Timber was also an important cash crop, and highly prized for shipbuilding. The Americans noted an abundance of fruit in Singapore; they were told “that there are 120 kinds that can be served as a dessert”[^15] and they especially enjoyed pineapples. They collected many zoological, conchological and botanical specimens, including two species of the *Nepenthe* (pitcher plants) that were preserved and brought back to the US.
 
-###### ***A Vibrant Cultural Scene***
+##### ***A Vibrant Cultural Scene***
 
 The arrival of the U.S. Ex. Ex. in Singapore coincided with the Chinese New Year celebrations. The eve fell on 21 February 1842, and the expedition members were awed by the processions of lanterns, noisy gongs and cymbals. Wilkes described the sight of “an immense illuminated sea-serpent” made of lanterns.[^16] The Americans were astonished at “the extent and earnestness with which gaming was carried [out] by the Chinese at every shop, bazaar and corner of almost every street with cards or dice… their whole soul seemed to be staked with their money”.[^17]
 
@@ -120,7 +120,7 @@ They also watched a Chinese opera and an Indian theatrical show that was perform
 <img src="/images/Vol-15-issue-2/an-expedition-for-the-ages/Ex6.JPG">
 <div style="background-color: white;">The Thian Hock Keng temple in Singapore sketched by Alfred T. Agate and engraved by J.A. Rolph in 1842. The image appears in vol. v of Charles Wilkes’ <i>Narrative of the United States Exploring Expedition During the Years 1838, 1839, 1840, 1841, 1842</i>, published by Lea and Blanchard in 1845. <i>Retrieved from Internet Archive.</i></div>
 
-###### ***The Scourge of Opium***
+##### ***The Scourge of Opium***
 
 According to Wilkes’ account, opium smoking in Singapore was one of the most repugnant sights witnessed by expedition members during their time on the island. Opium was easily available and shops were licensed to sell it, which was a huge source of revenue for the government but a great cause of human degeneracy. Many of the vessels that trafficked opium were either owned or operated by merchants. Wilkes noted “how some of those who knew its effects and condemned its use engaged in and defended its trade…”[^19]
 
