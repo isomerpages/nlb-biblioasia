@@ -106,7 +106,6 @@ Sadly, one of the causes of the loss of clarity in writing today must surely be 
 
 VISIT THE **SINGAPORE POLICY HISTORY PROJECT** @ [HTTP://WWW.NAS.GOV.SG/ARCHIVESONLINE/POLICY_HISTORY/](HTTP://WWW.NAS.GOV.SG/ARCHIVESONLINE/POLICY_HISTORY/) 
 
-<br>
 <div style="background-color: white;">
 <img src="/images/Vol-15-issue-2/declassifying-mean-decoding/Decoding7.jpg" style="width: 100px; height: 100px;">
 <b>Dr K.U. Menon</b> is Senior Consultant at the Ministry of Communications & Information (MCI). After four decades in the Civil Service, he is currently one of the supervisors of the Singapore Policy History Project at MCI and is also as an Associate Trainer at the Civil Service College.
