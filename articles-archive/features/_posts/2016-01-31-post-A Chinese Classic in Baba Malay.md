@@ -33,9 +33,6 @@ Titled as *Chrita Dahulu-kala, Namanya Sam Kok, Atau, Tiga Negri Ber-prang: Siok
 <img style="width: 300px; height: 450px;"  src="/images/Vol-15-issue-2/rare-materials/Baba2.JPG">
 <div style="background-color: white;">The translator of the series, Chan Kim Boon (1851–1920) was also known by his pen-name Batu Gantong (literally “Hanging Rock”). <i>All rights reserved, Chan, K. B. (1892–1896). Chrita Dahulukala, Namanya Sam Kok, Atau, Tiga Negri Ber-prang: Siok, Gwi, Sama Gor di Jaman “Han Teow”. Singapore: Kim Sek Chye Press.</i></div>
 
-<img style="width: 350px; height: 450px;" src="/images/Vol-15-issue-2/rare-materials/Baba3.JPG">
-<div style="background-color: white;">The original green cover of Volume 24 (of 30 volumes) in the Sam Kok series. <i>Image source: National Library Board, Singapore.</i></div>
-
 Published between 1892 and 1896 by Kim Sek Chye Press, the entire series totalled some 4,622 pages, and a single volume was sold at a $1 each.[^4] *Sam Kok* is most likely the earliest complete Malay translation of *Romance of the Three Kingdoms*, ahead of Indonesian versions from Java published in 1910.[^5] The series was 
 typical of Baba Malay materials in Malaya 
 at the time, where epic stories were serialised into multi-volume publications. This facilitated a subscription-based model that spurred the growth of the fledgling Baba publishing industry in Singapore.[^6]
@@ -58,7 +55,12 @@ and cashier, however, became better known for his translations of Chinese classi
 
 It was Chan’s publication of *Sam Kok* that brought him fame, primarily because it was a massive work that was serialised over 30 volumes. The series also included Chan’s footnotes, which provided details of Chinese culture as well as notes on romanised Malay terms and names, to which Chinese text was added for clarification. Jokes and even a portrait of the author were included in the series.[^15]
 
+<img style="width: 350px; height: 450px;" src="/images/Vol-15-issue-2/rare-materials/Baba3.JPG">
+<div style="background-color: white;">The original green cover of Volume 24 (of 30 volumes) in the <i>Sam Kok</i> series. <i>Image source: National Library Board, Singapore.</i></div>
+
 Chan was known by the pen-name Batu Gantong (literally “Hanging Rock”), which is the name of a cemetery in Penang. Some people believed that this was an allusion to his preference for his final resting place. Chan’s home at 75 Lebuh Muntri in Georgetown, Penang, has today become a tourist destination because of the fame that Chan had gained through his Baba Malay translations.[^16] 
+
+– Written by Mazelan Anuar
 
 #### **NOTES**
 [^1]:The term Peranakan generally refers to people of mixed Chinese and Malay/Indonesian heritage. Peranakan males are known as *babas* while the females are known as *nonyas* (or *nyonyas*). See National Library Board. (August 26, 2013). [*Peranakan (Straits Chinese) community*](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-08-30_181745.html) written by Koh, Jaime. Retrieved from Singapore Infopedia.
