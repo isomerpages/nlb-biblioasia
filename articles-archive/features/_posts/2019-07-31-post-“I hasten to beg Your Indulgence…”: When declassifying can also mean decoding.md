@@ -71,7 +71,46 @@ Here are two samples of correspondence that illustrate the delightful use of Bab
 	A letter addressed to the Government Printer (a British official responsible for the Government Printing Office) during the reign of King George VI, from the President of a Singapore trade union organisation. This missive was sent just before Christmas.
 	<br><br>
 	<img src="/images/Vol-15-issue-2/declassifying-mean-decoding/Decoding2y.JPG">A letter from the President of the Singapore Government Printing Office Employees Union to the Colonial Secretary complaining about the infringement of the rights of non-pensionable employees.
-<br>
 </span>
 
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
+	<b>PRE-INDEPENDENT SINGAPORE</b><br><br>
+The team found many letters written in elegant English, as seen in these two examples here, while researching the files of the final years leading to independence.
+	<br><br>
+	<img src="/images/Vol-15-issue-2/declassifying-mean-decoding/Decoding3.JPG">
+	<br>
+	Here is a well-crafted reply from the Secretary to Prime Minister to the Permanent Secretary (Culture) on the correct protocol with regard to the seating of senior civil servants at state functions.
+	<br><br>
+	<img src="/images/Vol-15-issue-2/declassifying-mean-decoding/Decoding4.JPG">
+	<br>
+A terse letter from the Director of Information Services (Culture) to the Permanent Secretary (Home Affairs) on why a printing permit should not be granted to a certain individual.
+</span>
 
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
+	<b>INDEPENDENT SINGAPORE</b><br><br>
+	<img src="/images/Vol-15-issue-2/declassifying-mean-decoding/Decoding5.JPG">
+	<br>
+	A spirited riposte from a senior staffer of a local publication to the Parliamentary Secretary (Culture). The context of this episode is perhaps better understood from subsequent developments. The publication’s top three executives were detained under the Internal Security Act in 1971 and the publication ceased operations two years later. The government statement made clear that the publication “… has made a sustained effort to instil admiration for the communist system as free from blemishes and endorsing its policies…”.3
+	<br><br>
+		<img src="/images/Vol-15-issue-2/declassifying-mean-decoding/Decoding6.JPG">
+	<br>
+	And finally, this crisp, pointed note from the Assistant Director of the Ministry of Culture to the editor of a Chinese newspaper. Never mind the flawed grammar. Its genius lies in its brevity.
+</span>
+
+#### **The Death of Writing**
+
+To be sure, the abundance of jargon and obfuscation that can accompany the use of English in the civil service is nothing new. It is something that was first raised by Singapore’s first-generation leaders, Mr Lee Kuan Yew and Dr Goh Keng Swee in particular, in the early 1980s.
+
+But is the problem worse today, given the pervasiveness of the internet, social media and mobile phone messaging? How has technology impacted the way we use the English language? In a world where instantaneous responses have become the norm, proper conversations and carefully thought out and crafted communications seem to have taken a back seat.
+
+Sadly, one of the causes of the loss of clarity in writing today must surely be the demise of letter writing. As email replaces snail mail, the price of speed is the slide of composition into truncated note. In this age of ephemerality, words appear to be designed to be short-lived. And so it is – given the short screen life of electronic mail, one might well ask, where are the gems of elegant writing to be found today?
+
+VISIT THE **SINGAPORE POLICY HISTORY PROJECT** @ [HTTP://WWW.NAS.GOV.SG/ARCHIVESONLINE/POLICY_HISTORY/](HTTP://WWW.NAS.GOV.SG/ARCHIVESONLINE/POLICY_HISTORY/) 
+
+<br>
+<div style="background-color: white;">
+<img src="/images/Vol-15-issue-2/declassifying-mean-decoding/Decoding7.jpg" style="width: 100px; height: 100px;">
+<b></b>
+</div>
+
+<a href="https://biblioasia.nlb.gov.sg/vol-15/issue-2/jul-sep-2019/"><center>Back to Issue</center></a>
