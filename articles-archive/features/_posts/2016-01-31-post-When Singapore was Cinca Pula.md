@@ -16,7 +16,7 @@ description: ""
 <b>Accession no.:</b> B20023657C
 </div>
 
-<img style="width: 300px; height: 400px;" src="/images/Vol-15-issue-2/rare-materials/Pula1.JPG">
+<img style="width: 600px; height: 420px;" src="/images/Vol-15-issue-2/rare-materials/Pula1.JPG">
 <div style="background-color: white;"><i>India Tercera Nuova Tavola</i> is one of the first early modern maps of Southeast Asia. It is also the National Library’s oldest map that makes reference to a C. Cinca Pula, which scholars believe refers to either the town of Singapore, one of several straits on which Singapore sits, or the southern tip of the Malay Peninsula. <i>Image source: National Library Board, Singapore.</i></div>
 
 A 455-year-old map of Southeast Asia tells of the seafaring adventures of 16th century voyagers, whose journeys took them to exciting, uncharted territories waiting to be explored. As the intrepid 
