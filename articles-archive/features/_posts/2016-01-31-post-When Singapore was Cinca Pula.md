@@ -5,6 +5,17 @@ date: 2016-01-31
 layout: post
 description: ""
 ---
+<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> 
+<b>Title:</b> India Tercera Nuova Tavola<br>
+<b>Creator:</b> Girolamo Ruscelli (c. 1504–1566)<br>
+<b>Year published:</b> 1561<br>
+<b>Publisher:</b> Vincenzo Valgrisi (Venice<br>
+<b>Language:</b> Italian<br>
+<b>Type:</b> Map; 17cm by 23cm<br>
+<b>Call no.:</b> RRARE 912.59 PTO<br>
+<b>Accession no.:</b> B20023657C
+</div>
+
 A 455-year-old map of Southeast Asia tells of the seafaring adventures of 16th century voyagers, whose journeys took them to exciting, uncharted territories waiting to be explored. As the intrepid 
 voyagers discovered new trade routes in Asia, these unknown lands slowly came into prominence. We are familiar with most of them today; one, in particular, stands out – a place indicated on the map as C. Cinca Pula. 
 
