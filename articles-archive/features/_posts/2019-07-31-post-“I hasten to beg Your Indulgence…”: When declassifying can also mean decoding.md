@@ -110,7 +110,7 @@ VISIT THE **SINGAPORE POLICY HISTORY PROJECT** @ [HTTP://WWW.NAS.GOV.SG/ARCHIVES
 <br>
 <div style="background-color: white;">
 <img src="/images/Vol-15-issue-2/declassifying-mean-decoding/Decoding7.jpg" style="width: 100px; height: 100px;">
-<b></b>
+<b>Dr K.U. Menon</b>n is Senior Consultant at the Ministry of Communications & Information (MCI). After four decades in the Civil Service, he is currently one of the supervisors of the Singapore Policy History Project at MCI and is also as an Associate Trainer at the Civil Service College.
 </div>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-15/issue-2/jul-sep-2019/"><center>Back to Issue</center></a>
