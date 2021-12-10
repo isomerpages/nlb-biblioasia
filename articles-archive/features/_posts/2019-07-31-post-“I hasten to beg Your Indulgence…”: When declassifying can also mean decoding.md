@@ -91,7 +91,7 @@ A terse letter from the Director of Information Services (Culture) to the Perman
 	<br>
 	A spirited riposte from a senior staffer of a local publication to the Parliamentary Secretary (Culture). The context of this episode is perhaps better understood from subsequent developments. The publication’s top three executives were detained under the Internal Security Act in 1971 and the publication ceased operations two years later. The government statement made clear that the publication “… has made a sustained effort to instil admiration for the communist system as free from blemishes and endorsing its policies…”.[^3]
 	<br><br>
-		<img src="/images/Vol-15-issue-2/declassifying-mean-decoding/Decoding6.JPG">
+		<img style="width: 350px; height: 350px;" src="/images/Vol-15-issue-2/declassifying-mean-decoding/Decoding6.JPG">
 	<br>
 	And finally, this crisp, pointed note from the Assistant Director of the Ministry of Culture to the editor of a Chinese newspaper. Never mind the flawed grammar. Its genius lies in its brevity.
 </span>
