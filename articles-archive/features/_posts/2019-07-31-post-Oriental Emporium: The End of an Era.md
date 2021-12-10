@@ -186,12 +186,8 @@ In September 1996, nine years after the liquidation of Emporium Holdings, ex-emp
 [^3]:Leong, W.H. (n.d.). *Emporium at Clementi*. Retrieved from Singapore Memory Project website.
 [^4]:Raghawan, V. (n.d.). *Emporium’ store*. Retrieved from Singapore Memory Project website.
 [^5]:Tow Seng became the chairman of Emporium Holdings, while Tow Yong was the managing director.
-[^6]:Balasingamchow, Y.-M. (2018, July–September). [Going shopping in the 1960s](http://www.nlb.gov.sg/biblioasia/2018/07/06/going-shopping-in-the-60s/). BiblioAsia, 14(2). Retrieved from BiblioAsia website.
-[^7]:
-[^8]:
-[^9]:
-[^10]:
-Chew, D. (Interviewer). (1984, January 27). Oral history interview with Mabel Martin [Transcript of recording no. 000388/6/4, p. 45]. Retrieved from National Archives of Singapore website.
-Yap, W.C. (Interviewer). (1997, November 3). Oral history interview with Ng Joo Kee [Transcript of recording no. 001970/4/3, pp. 26–29]. Retrieved from National Archives of Singapore website.
-《东方百货有限公司启业特辑》[Oriental Emporium Limited] (p.1). (1966). Singapore: M.C. (P). (Call no.: RSING q381.141095957 DFB)
-Yap, W.C. (Interviewer). (1997, November 3). Oral history interview with Ng Joo Kee [Transcript of recording no. 001970/4/1, p. 7]; Yap, W.C. (Interviewer). (1997, November 3). Oral history interview with Ng Joo Kee [Transcript of recording no. 001970/4/2, pp. 6–7]; Oral history interview with Ng Joo Kee,Nov 1997, p. 29.
+[^6]:Balasingamchow, Y.-M. (2018, July–September). [Going shopping in the 1960s](http://www.nlb.gov.sg/biblioasia/2018/07/06/going-shopping-in-the-60s/). *BiblioAsia, 14*(2). Retrieved from BiblioAsia website.
+[^7]:Chew, D. (Interviewer). (1984, January 27). [*Oral history interview with Mabel Martin*](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e7c838b8-115d-11e3-83d5-0050568939ad-OHC000388_004/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=11) [Transcript of recording no. 000388/6/4, p. 45]. Retrieved from National Archives of Singapore website.
+[^8]:Yap, W.C. (Interviewer). (1997, November 3). [*Oral history interview with Ng Joo Kee*](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/9/92fa0545-115e-11e3-83d5-0050568939ad-OHC001970_003/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png) [Transcript of recording no. 001970/4/3, pp. 26–29]. Retrieved from National Archives of Singapore website.
+[^9]:《[东方百货有限公司启业特辑](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200081447)》[Oriental Emporium Limited] (p.1). (1966). Singapore: M.C. (P). (Call no.: RSING q381.141095957 DFB).
+[^10]:Yap, W.C. (Interviewer). (1997, November 3). [Oral history interview with Ng Joo Kee](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/9/98df3585-115e-11e3-83d5-0050568939ad-OHC001970_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=7) [Transcript of recording no. 001970/4/1, p. 7]; Yap, W.C. (Interviewer). (1997, November 3). Oral history interview with Ng Joo Kee [Transcript of recording no. 001970/4/2, pp. 6–7]; Oral history interview with Ng Joo Kee,Nov 1997, p. 29.
