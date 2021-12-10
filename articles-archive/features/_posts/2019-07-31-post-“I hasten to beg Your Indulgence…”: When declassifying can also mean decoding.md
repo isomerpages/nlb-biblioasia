@@ -43,7 +43,7 @@ Interestingly, one of the things that struck the team while trawling through old
 
 For Britain, close to two centuries of colonial rule did not rest entirely on the might of its military forces. Britain also wielded power through other means, and language was a powerful weapon. Extending the use of the English language to the seemingly underdeveloped and backward colonies of Asia was seen as a way of bringing order, political unity and discipline to its colonies.
 
-The British viewed its rule as a form of “autocratic nationalism”, and mandating English as the official language enabled it to monopolise public discourse and to impose arbitrary definitions on terms that framed British policy.1 As one scholar aptly observed, “colonial structures depended on native scaffolding”.2
+The British viewed its rule as a form of “autocratic nationalism”, and mandating English as the official language enabled it to monopolise public discourse and to impose arbitrary definitions on terms that framed British policy.[^1] As one scholar aptly observed, “colonial structures depended on native scaffolding”.[^2]
 
 One offshoot of that native scaffolding was Babu (or Baboo) English – a particularly florid, sometimes pompous and unidiomatic version of English incorporating extreme formality and politeness that was widely employed by administrators, clerks and lawyers in India. “Babu” or “Baboo” came to be a term of derision used by the British to refer to impertinent “natives” who had the temerity to imitate traits which perhaps only God and ethnology had assigned exclusively to the English gentleman.
 
@@ -90,7 +90,7 @@ A terse letter from the Director of Information Services (Culture) to the Perman
 	<b>INDEPENDENT SINGAPORE</b><br><br>
 	<img src="/images/Vol-15-issue-2/declassifying-mean-decoding/Decoding5.JPG">
 	<br>
-	A spirited riposte from a senior staffer of a local publication to the Parliamentary Secretary (Culture). The context of this episode is perhaps better understood from subsequent developments. The publication’s top three executives were detained under the Internal Security Act in 1971 and the publication ceased operations two years later. The government statement made clear that the publication “… has made a sustained effort to instil admiration for the communist system as free from blemishes and endorsing its policies…”.3
+	A spirited riposte from a senior staffer of a local publication to the Parliamentary Secretary (Culture). The context of this episode is perhaps better understood from subsequent developments. The publication’s top three executives were detained under the Internal Security Act in 1971 and the publication ceased operations two years later. The government statement made clear that the publication “… has made a sustained effort to instil admiration for the communist system as free from blemishes and endorsing its policies…”.[^3]
 	<br><br>
 		<img src="/images/Vol-15-issue-2/declassifying-mean-decoding/Decoding6.JPG">
 	<br>
