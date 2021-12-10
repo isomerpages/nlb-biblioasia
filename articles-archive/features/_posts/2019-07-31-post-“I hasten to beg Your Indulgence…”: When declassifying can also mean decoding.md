@@ -110,7 +110,12 @@ VISIT THE **SINGAPORE POLICY HISTORY PROJECT** @ [HTTP://WWW.NAS.GOV.SG/ARCHIVES
 <br>
 <div style="background-color: white;">
 <img src="/images/Vol-15-issue-2/declassifying-mean-decoding/Decoding7.jpg" style="width: 100px; height: 100px;">
-<b>Dr K.U. Menon</b>n is Senior Consultant at the Ministry of Communications & Information (MCI). After four decades in the Civil Service, he is currently one of the supervisors of the Singapore Policy History Project at MCI and is also as an Associate Trainer at the Civil Service College.
+<b>Dr K.U. Menon</b> is Senior Consultant at the Ministry of Communications & Information (MCI). After four decades in the Civil Service, he is currently one of the supervisors of the Singapore Policy History Project at MCI and is also as an Associate Trainer at the Civil Service College.
 </div>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-15/issue-2/jul-sep-2019/"><center>Back to Issue</center></a>
+
+#### **NOTES**
+[^1]: Ferguson, N. (2003). [*Empire: How Britain made the modern world*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203099674). London: Allen Lane. (Call no.: RCLOS 909.0971241 FER-[USB]).
+[^2]: Al-Jubouri, F.A.J. (2014). *Milestones on the road to dystopia: Interpreting George Orwell’s self-division in an era of ‘Force & Fraud’*. UK, Cambridge: Cambridge Scholars Publishing. (Not available in NLB holdings).
+[^3]: Fong, L. (1971, May 3). [Three newsmen held](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710503-1.2.2). *The Straits Times*, p, 1. Retrieved from NewspaperSG.
