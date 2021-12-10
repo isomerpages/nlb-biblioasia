@@ -124,3 +124,40 @@ Oriental Slasher Emporium in Hong Lim Complex; Oriental Emporium & Supermarket i
     <td>Emporium Holdings Group is liquidated.</td>
   </tr>
 </table>
+
+<img src="/images/Vol-15-issue-2/oriental-emporium/Emporium5.JPG">
+<div style="background-color: white;">Lim Tow Seng established Lim Seng Huat, an import-export trading house specialising in China-made sundry goods in 1938. The company participated in various trade fairs at the Great World and New World amusement parks in the 1950s and ’60s. <i>Image reproduced from 英保良二老板拿督 林道荣局绅 : 新马汶百货钜子传奇》[The legend of Dato’ Lim Tow Yong JP, founder of Emporium Holdings].(2012). Penang: Chang Jiang CPM gong si. (Call no.: Chinese R 381.141092 XSJ)</i></div>
+
+The Oriental Emporium chain would continue to sell budget-friendly China-made and local products, while a more upmarket brand was launched in 1978 with the opening of the first Klasse Department Store in Lucky Plaza. The glitzy, multi-storey Lucky Plaza mall had just opened in the heart of the Orchard Road shopping belt to much fanfare with its upmarket shops and boutiques, and a glass-clad external “bubble lift”, purportedly the first of its kind in Southeast Asia.
+
+Klasse Department Store was well placed to capture a slice of the luxury shopping segment comprising local consumers and tourists looking for quality merchandise. It was stocked with expensive designer goods from prominent American brands (Sears, Burlington, Cannon and Samsonite) to British glassware (Pyrex) and Japanese products (三爱服装).
+
+To align with the store’s branding, Emporium Holdings recruited staff who were bilingual and comfortable speaking languages such as English and Japanese. Gone was Emporium’s trademark Mandarin-collared uniform, which was replaced with a smart rust-coloured and beige outfit comprising an A-line skirt, waistcoat and a short-sleeved shirt.
+
+In the meantime, the Oriental Emporium chain of department stores and supermarkets began expanding into public housing estates and new satellite towns. In 1973, it opened the first neighbourhood store in Toa Payoh – called Toa Payoh Emporium – to provide a one-stop shopping experience for residents. On the opening day, *The Straits Times* reported that unlike other emporiums, this one “being in a residential estate, great emphasis… [was] made to have on sale household merchandise, foodstuff, canned goods and confectionery and other products on similar lines as a supermarket”.12
+
+Oriental Emporium stores were strategically located in high-density areas in the heart of town centres and near transport facilities in order to reach out to residents. The two-storey Toa Payoh Emporium, for instance, was situated in Toa Payoh Central, near the bus terminal and other amenities such as the stadium, two cinemas and a church.
+
+*The Straits Times* reported in glowing terms that Emporium department stores had become social spaces where one could “renew old acquaintances or to strike up new friendships” and were a “welcome relief from the drudgery of routine home chores” for housewives. Shopping had become an aspirational goal “contribut[ing] immensely towards elevating the standard of living of people in a modern society”.13
+
+#### **Emporium Comes into its Own**
+
+There was no stopping the expansion of the Emporium Holdings Group. On 28 March 1980, it pulled a major feat by opening no less than 10 new outlets on the same day: Oriental Emporium & Supermarket in Clementi, Woodlands, Bukit Timah and Bukit Merah; Oriental Emporium in Bedok; Oriental Restaurants in Ang Mo Kio and Bedok; a Klasse Department Store and Café De Klasse in Peninsula Plaza serving Western and local cuisines; S-Mart Supermarket in Bedok; and Plaza Department Store & Supermarket in Ang Mo Kio.14
+
+<img src="/images/Vol-15-issue-2/oriental-emporium/Emporium6.JPG">
+<div style="background-color: white;">(Left) The paper carrier bag of Emporium Holdings used in the 1980s. Courtesy of National Museum of Singapore, National Heritage Board.
+(Right) A paper carrier bag from Klasse Department Store in Lucky Plaza, 1970s. <i>Courtesy of National Museum of Singapore, National Heritage Board.</i></div>
+
+To diversify its retail offerings to customers, Emporium extended the concept of a “one-stop shopping experience” by setting up restaurants and confectioneries within its department stores. Oriental Emporium Ang Mo Kio, for example, housed an Oriental Restaurant and the Gingerbread House confectionery. The latter sold a wide array of Western-style buns, breads and cakes and even offered islandwide deliveries, while the restaurant provided catering services for special occasions such as birthdays and weddings. One could literally shop and eat at the Oriental Emporium in Ang Mo Kio all day long without stepping out of its premises. This is nothing new in today’s retail scene of course, but back in 1980, this concept was revolutionary.
+
+To compete with the influx of Japanese department stores, such as Isetan and Yaohan, which made inroads into Singapore in the 1970s and 80s, Emporium launched Yokoso Superstore – Singapore’s first round-the-clock supermarket and department store – in Tanjong Katong Complex in January 1983. This was a time when 24-hour stores were unheard of: the first 7-Eleven 24-hour convenience store only opened five months later in June 1983. To prepare for the opening of Yokoso Superstore, senior staff were sent to Japan to undergo training, and Japanese retail experts were also brought in. In 1985, Emporium collaborated with the Japanese again, this time with supermarket chain Kimisawa, to set up Oriental Kimisawa Superstore in Hougang.
+
+Another first by Emporium in Singapore’s retail history was the establishment of the Small World Superstore in Parkway Parade shopping centre in December 1983. This was a three-storey children’s department store specialising in children’s merchandise and with facilities like an amusement and food arcade. It housed the American fast food restaurant Chuck E. Cheese, a photography studio, playground, children’s hair salon, mini aquarium and a performance stage.
+
+#### **The End of an Era**
+
+When Singapore experienced its first post-independence economic recession in 1985, Emporium Holdings took a severe hit.15 Confronted by financial difficulties on multiple fronts, the company was liquidated in 1987 and the Lim brothers who founded Emporium Holdings were declared bankrupt the following year.
+
+The Emporium Holdings Group was acquired by various entities over the years. In the 1990s, there were sporadic newspaper reports on the Emporium brand, such as the opening of a refreshed Oriental Emporium in Ang Mo Kio in 1997.16 But with increasing competition, the brand did not survive the times, forcing Emporium to shutter the doors of all its department stores on 22 July 1999 without prior notice – more than 30 years after the first Oriental Emporium opened in Raffles Place in 1966.
+
+Although the Emporium retail giant has exited from Singapore’s shopping scene, the company is still noteworthy for the innovative concepts it pioneered in the local retail scene. For over three decades, the Emporium chain of department stores, supermarkets and restaurants delighted scores of shoppers and customers – many of whom still have fond memories of the brand.
