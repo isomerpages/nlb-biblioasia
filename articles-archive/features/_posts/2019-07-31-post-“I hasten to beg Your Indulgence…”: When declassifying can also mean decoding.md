@@ -26,3 +26,52 @@ In short, the declassification initiative will open up aspects of our history th
 
 <img src="/images/Vol-15-issue-2/declassifying-mean-decoding/Decoding2.JPG">
 <div style="background-color: white;">Malaysian Finance Minister Tun Tan Siew Sin (fourth from left) visiting Jurong Industrial Estate with his Singapore counterpart, Dr Goh Keng Swee (fifth from left), in 1964. Goh’s vision of Singapore and Malaysia having a common market was blocked by Tan. The two men clashed on this and over several key economic issues, convincing Goh that the only way Singapore could survive was to break away completely from Malaysia. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
+Many key decisions made in government today, for example, in relations with other countries and dealings with multilateral agencies, are based on assessments of personalities and precedents that go back many decades. For instance, in 2014, many Singaporeans did not grasp the gravity of the situation when Indonesia named two warships after the men who bombed MacDonald House in March 1965 until the historical context was made clear from archival records for all to see. In March 2015, there was a sense that many younger Singaporeans who stood in long queues to pay their respects to the late former Prime Minister Lee Kuan Yew were probably unaware of the extent of his contributions to the nation.
+
+Citizens, researchers and academics, especially historians, have long been lobbying for greater access to our public records. Archival research is primary research based on substantive evidence from original archival records. It is a methodology used by researchers to collect data directly from the sources, rather than depending on data gleaned from previously published research.
+
+Recognising the rights of citizens to access their own history, a National Museum exhibition in 2015 featured the very important declassified secret document known as the “Albatross File”. Belonging to one of Singapore’s founding fathers Dr Goh Keng Swee, the secret file offered insights into the negotiations leading up to separation from Malaysia in 1965. It was a defining moment in our history, and the exhibition included, among other things, handwritten notes of meetings with Malaysian leaders.
+
+In an interview in 1980, Dr Goh admitted that the Albatross referred to Malaysia. He said: “By that time, the great expectation that we foolishly had – that Malaysia would bring prosperity, common market, peace, harmony, all that – we were quickly disillusioned. And it became an albatross round our necks”. This is the first time in history that the existence of the file was revealed to the public.
+
+The MCI began the pilot phase of declassifying files under its purview in late 2013 with a team of researchers, including retired senior public officers, in the first-ever systematic declassification project undertaken in Singapore.
+
+Interestingly, one of the things that struck the team while trawling through old documents from the late colonial and postcolonial period of our history was how the use of language in the civil service has evolved over the years. They were struck by the archaic and formal language, often liberally peppered with humour or sarcasm – and sometimes a blend of the two – employed by civil servants.
+
+#### **Language as a Weapon**
+
+For Britain, close to two centuries of colonial rule did not rest entirely on the might of its military forces. Britain also wielded power through other means, and language was a powerful weapon. Extending the use of the English language to the seemingly underdeveloped and backward colonies of Asia was seen as a way of bringing order, political unity and discipline to its colonies.
+
+The British viewed its rule as a form of “autocratic nationalism”, and mandating English as the official language enabled it to monopolise public discourse and to impose arbitrary definitions on terms that framed British policy.1 As one scholar aptly observed, “colonial structures depended on native scaffolding”.2
+
+One offshoot of that native scaffolding was Babu (or Baboo) English – a particularly florid, sometimes pompous and unidiomatic version of English incorporating extreme formality and politeness that was widely employed by administrators, clerks and lawyers in India. “Babu” or “Baboo” came to be a term of derision used by the British to refer to impertinent “natives” who had the temerity to imitate traits which perhaps only God and ethnology had assigned exclusively to the English gentleman.
+
+<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> 
+	<b>GRAND OPENINGS</b>
+<br><br>
+Much of the formal correspondence between civil servants and the public during the late colonial and immediate postcolonial period in Singaporean history invariably begins as follows:
+<br><br>
+“I am directed to inform you that…”<br>
+“I am directed to acknowledge receipt of your letter of…”<br>
+“I have pleasure in sending you herewith…”<br>
+“Honoured and much respected Sir, with due respect and humble submission, I beg to bring to your kind notice”<br>
+“With regards to… I am directed to state that…”<br>
+“I beg of you to dispatch to me at your earliest convenience…”<br>
+“I hasten to beg your indulgence…”
+</div>
+
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
+	<b>POSTWAR SINGAPORE</b>
+	<br><br>
+Here are two samples of correspondence that illustrate the delightful use of Babu English in colonial Singapore.
+	<br><br>
+	<img src="/images/Vol-15-issue-2/declassifying-mean-decoding/Decoding2x.JPG">
+<br>
+	A letter addressed to the Government Printer (a British official responsible for the Government Printing Office) during the reign of King George VI, from the President of a Singapore trade union organisation. This missive was sent just before Christmas.
+	<br><br>
+	<img src="/images/Vol-15-issue-2/declassifying-mean-decoding/Decoding2y.JPG">A letter from the President of the Singapore Government Printing Office Employees Union to the Colonial Secretary complaining about the infringement of the rights of non-pensionable employees.
+<br>
+</span>
+
+
