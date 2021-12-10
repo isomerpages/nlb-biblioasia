@@ -42,6 +42,24 @@ Chan was known by the pen-name Batu Gantong (literally “Hanging Rock”), whic
 <img style="width: 350px; height: 450px;"  src="/images/Vol-15-issue-2/rare-materials/Baba2.JPG">
 <div style="background-color: white;">The translator of the series, Chan Kim Boon (1851–1920) was also known by his pen-name Batu Gantong (literally “Hanging Rock”). <i>All rights reserved, Chan, K. B. (1892–1896). Chrita Dahulukala, Namanya Sam Kok, Atau, Tiga Negri Ber-prang: Siok, Gwi, Sama Gor di Jaman “Han Teow”. Singapore: Kim Sek Chye Press.</i></div>
 
+<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> 
+<b>Title:</b> Chrita Dahulu-kala, Namanya Sam 
+Kok, Atau, Tiga Negri Ber-prang: Siok, 
+Gwi, Sama Gor di Jaman “Han Teow” 
+(Ancient Story Entitled Sanguo or the Three 
+Kingdoms at War: Shu, Wei and Wu During 
+the Han Dynasty)<br>
+<b>Author:</b> Chan Kim Boon (1851–1920)<br>
+<b>Year published:</b> 1892–1896<br>
+<b>Publisher:</b> Kim Sek Chye Press (Singapore)<br>
+<b>Language:</b> Baba Malay<br>
+<b>Type:</b> Book (30 volumes); 4,622 pages in 
+total<br>
+<b>Location:</b> Call no.: RRARE 895.135 CHR<br>
+<b>Accession no.:</b> B00607851E (v.24)<br>
+<b>Donated by:</b> National Museum Singapore
+</div>
+
 #### **NOTES**
 [^1]:The term Peranakan generally refers to people of mixed Chinese and Malay/Indonesian heritage. Peranakan males are known as *babas* while the females are known as *nonyas* (or *nyonyas*). See National Library Board. (August 26, 2013). [*Peranakan (Straits Chinese) community*](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-08-30_181745.html) written by Koh, Jaime. Retrieved from Singapore Infopedia.
 [^2]:National Library Board. (2008). [*Chan Kim Boon*](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1337_2008-10-07.html) written by Tan, Bonny. Retrieved from Singapore Infopedia.
