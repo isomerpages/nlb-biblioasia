@@ -181,22 +181,16 @@ In September 1996, nine years after the liquidation of Emporium Holdings, ex-emp
 <a href="https://biblioasia.nlb.gov.sg/vol-15/issue-2/jul-sep-2019/"><center>Back to Issue</center></a>
 
 #### **NOTES**
-[^1]:
-[^2]:
-[^3]:
-[^4]:
-[^5]:
-[^6]:
+[^1]:The Singapore Memory Project, launched in 2011, is a whole-of-nation movement by the National Library Board that aims to capture and document memories and moments related to Singapore from individuals and organisations.
+[^2]:Wong, S. (n.d.). *Oriental Emporium go to place in the 80s*. Retrieved from Singapore Memory Project website.
+[^3]:Leong, W.H. (n.d.). *Emporium at Clementi*. Retrieved from Singapore Memory Project website.
+[^4]:Raghawan, V. (n.d.). *Emporium’ store*. Retrieved from Singapore Memory Project website.
+[^5]:Tow Seng became the chairman of Emporium Holdings, while Tow Yong was the managing director.
+[^6]:Balasingamchow, Y.-M. (2018, July–September). [Going shopping in the 1960s](http://www.nlb.gov.sg/biblioasia/2018/07/06/going-shopping-in-the-60s/). BiblioAsia, 14(2). Retrieved from BiblioAsia website.
 [^7]:
 [^8]:
 [^9]:
 [^10]:
-The Singapore Memory Project, launched in 2011, is a whole-of-nation movement by the National Library Board that aims to capture and document memories and moments related to Singapore from individuals and organisations.
-Wong, S. (n.d.). Oriental Emporium go to place in the 80s. Retrieved from Singapore Memory Project website.
-Leong, W.H. (n.d.). Emporium at Clementi. Retrieved from Singapore Memory Project website.
-Raghawan, V. (n.d.). Emporium’ store. Retrieved from Singapore Memory Project website.
-Tow Seng became the chairman of Emporium Holdings, while Tow Yong was the managing director.
-Balasingamchow, Y.-M. (2018, July–September). Going shopping in the 1960s. BiblioAsia, 14(2). Retrieved from BiblioAsia website.
 Chew, D. (Interviewer). (1984, January 27). Oral history interview with Mabel Martin [Transcript of recording no. 000388/6/4, p. 45]. Retrieved from National Archives of Singapore website.
 Yap, W.C. (Interviewer). (1997, November 3). Oral history interview with Ng Joo Kee [Transcript of recording no. 001970/4/3, pp. 26–29]. Retrieved from National Archives of Singapore website.
 《东方百货有限公司启业特辑》[Oriental Emporium Limited] (p.1). (1966). Singapore: M.C. (P). (Call no.: RSING q381.141095957 DFB)
