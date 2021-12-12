@@ -6,7 +6,7 @@ layout: post
 description: ""
 ---
 <div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> 
-<b>Title:</b> India Tercera Nuova Tavola<br>
+	<b>Title:</b> <i>India Tercera Nuova Tavola</i><br>
 <b>Creator:</b> Girolamo Ruscelli (c. 1504–1566)<br>
 <b>Year published:</b> 1561<br>
 <b>Publisher:</b> Vincenzo Valgrisi (Venice<br>
@@ -16,7 +16,7 @@ description: ""
 <b>Accession no.:</b> B20023657C
 </div>
 
-<img style="width: 600px; height: 420px;" src="/images/Vol-15-issue-2/rare-materials/Pula1.JPG">
+<img src="/images/Vol-15-issue-2/rare-materials/Pula1.JPG">
 <div style="background-color: white;"><i>India Tercera Nuova Tavola</i> is one of the first early modern maps of Southeast Asia. It is also the National Library’s oldest map that makes reference to a C. Cinca Pula, which scholars believe refers to either the town of Singapore, one of several straits on which Singapore sits, or the southern tip of the Malay Peninsula. <i>Image source: National Library Board, Singapore.</i></div>
 
 A 455-year-old map of Southeast Asia tells of the seafaring adventures of 16th century voyagers, whose journeys took them to exciting, uncharted territories waiting to be explored. As the intrepid 
@@ -46,6 +46,8 @@ Malaca (Melaka), having been conquered by the Portuguese in 1511, is clearly mar
 Iapara (Jakarta), Pazer (Pasai), Pacem (Aceh), Campar (Kampar) and Ardagui (Indragiri). Other areas in Southeast Asia, such as Banca (Bangka), St. Pedro (Mount Kinabalu), Berma (Burma) and Camboja (Cambodia), are also identified for the first time.[^8]
 
 The map, which the National Library Board acquired in 2012, offers historians valuable insight into the trade, politics and geography of 16th-century Southeast Asia.
+
+– Written by Irene Lim
 
 #### **NOTES**
 [^1]:Borschberg, P. (Ed.). (2004). Remapping the Straits of Singapore: New insights from old sources? In [*Iberians in the Singapore-Melaka Area and adjacent regions (16th to 18th century)*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12493225) (p. 96). Wiesbaden: Harrassowitz; Lisboa: Fundação Oriente. Call no.: RSING 959.50046 IBE; Borschberg, P. (2005). *Fictitious strait and imagined island: “Singapura” in the late sixteenth and early seventeenth century, water and state in mainland Southeast Asia*. Retrieved from academia.edu website; Borschberg, P. (2010). [*The Singapore and Melaka straits: Violence, security and diplomacy in the 17th century*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13218095) (p. 21). Singapore: NUS Press. Call no.: RSING 911.16472 BOR.
