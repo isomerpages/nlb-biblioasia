@@ -6,12 +6,12 @@ layout: post
 description: ""
 ---
 <div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> 
-<b>Title:</b> Chrita Dahulu-kala, Namanya Sam 
+<b>Title:</b> <i>Chrita Dahulu-kala, Namanya Sam 
 Kok, Atau, Tiga Negri Ber-prang: Siok, 
 Gwi, Sama Gor di Jaman “Han Teow” 
 (Ancient Story Entitled Sanguo or the Three 
 Kingdoms at War: Shu, Wei and Wu During 
-the Han Dynasty)<br>
+	the Han Dynasty)</i><br>
 <b>Author:</b> Chan Kim Boon (1851–1920)<br>
 <b>Year published:</b> 1892–1896<br>
 <b>Publisher:</b> Kim Sek Chye Press (Singapore)<br>
