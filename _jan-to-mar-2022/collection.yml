@@ -2,5 +2,6 @@ collections:
   jan-to-mar-2022:
     output: true
     order:
+      - Example Title.md
       - Director's Note.md
       - "Mother Island: Finding Singapore's Past in Pulau Lingga.md"
