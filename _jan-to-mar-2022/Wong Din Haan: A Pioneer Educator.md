@@ -44,17 +44,32 @@ However, Wong Din Haan’s school was a pioneer in female education in that it i
 This was probably her most important legacy to Singapore as she recognised the importance of educating women for their own personal development and advancement in society. She was the first woman who had the courage and the nerve to leave the comfortable seclusion of home to push for the education of women in the face of conservative opinion.
 
 
+#### **Advocate for Women’s Rights** 
+
+My grandaunt must have been bitterly disappointed when the school had to close but she continued to be socially active in community affairs. When the Chinese Ladies Association (now known as Chinese Women’s Association Singapore) was established in 1915, she was a founding member along with her younger sister Wong Bee Soo and the wives of her two younger brothers, Mrs Wong Siew Qui (née Ng Yung Chee) and Mrs Wong Siew Yuen (née Mark Shou Young).10 
+
+Ng Yung Chee was the daughter of Ng Chit Mui, the collector of tax revenue in Macau and a supporter of Dr Sun Yat-sen. Ng was a man of liberal views who allowed his daughters’ feet to remain unbound and took the trouble to educate them in both English and Chinese. Mark Shou Young was the daughter of a prominent industrialist and grew up in Japan, so she was proficient in three languages, Cantonese, English and Japanese. 
+
+The first president of the association was Mrs Lee Choon Guan (née Tan Teck Neo), daughter-in-law of prominent Peranakan businessman Lee Cheng Yan, while the other founding members included Mrs Lim Boon Keng (née Grace Yin Pek Ha) and Dr Lee Choo Neo, Singapore’s first woman doctor. At a time when women were confined to the home, the association contributed significantly to women’s development. Its activities enabled them to meet socially outside, make friends across communities, widen their horizons beyond that of their own community, and learn new skills such as making Western pastry and learning Western music. 
+
+Such activities might seem very trivial today, but they represented the first foray outside the home for Chinese women and their first exposure to the outside world. The early members of the association can be said to represent the emerging Singapore women who used their energies and good influence to improve the position of women as well as work for the public good. 
+
+When the Singapore chapter of the international martial arts organisation, Chin Woo Athletic Association, was formed in 1924, my grandaunt’s younger brother Wong Siew Qui became the vice-chairman. She and other members of her family were appointed as committee members, including younger brother Wong Siew Yuen and her two sisters-in-law.11 This is something of a surprise as none of them were particularly athletic or had displayed interest in martial arts. However, the activities of Chin Woo opened up more opportunities for women to be socially active and to participate in martial arts and other cultural activities.
+
+
+#### **Business and Religion** 
+
+It was also around the 1920s that Wong Din Haan ventured into business. She started out with rubber planting and then turned to tin mining. She owned and managed Mei Yuan Company, a tin mining company in which she was said to have invested a substantial amount of money. She was no armchair investor and made a trip to Ipoh, accompanied by her assistant He Wen Lan, to personally inspect mining pools, tin dredges and palong (a wooden structure for sorting tin ore) and to view mining operations – all this while immaculately dressed in her cheongsam and her chignon still in place. 
+
+Author Zhao Guan Hai (招观海) described her thus:
+
+“Mr. He is her assistant in mining business. She has been called ‘The strong woman in the Nanyang’ (南洋之女丈夫). She was previously doing business in rubber planting but was not very successful. And then she switched to tin mining with great effort and dignity, proving herself as a leading woman of her kind. I heard that in Perak, there are only two women engaged in tin mining business, one is Madam Wong, and the other is a Hakka woman.”12 
+
+By that time, my grandaunt had become deeply religious. When the Venerable Taixu (太虚法师) first came to Singapore in 1926 to promote the Buddhist faith, he was able to garner the support of local devotees, who founded the Singapore Chinese Buddhist Association (新加坡中华佛教会) in 1927. One of the founders was my grandaunt, who devoted much energy to the affairs of the association.13  She helped to set up its medical section in 1937, possibly because her son Dr Kwan Ying Hung had by then graduated from his medical studies. In 1940, she was appointed president of the association, which is around the time that she appeared to have adopted the name Wong Fook Mei (黄福美) for her religious activities.14
+
+
 #### **Malaya Borneo Exhibition, 1922** 
 
 
 
-#### **Malaya Borneo Exhibition, 1922** 
-
-
-
-#### **Malaya Borneo Exhibition, 1922** 
-
-
-
-#### **Malaya Borneo Exhibition, 1922** 
-
+#### **Malaya Borneo Exhibition, 1922**
