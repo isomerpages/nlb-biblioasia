@@ -5,6 +5,22 @@ permalink: /vol-11/issue-4/jan-mar-2016/bilingual-dictionary
 image: /images/vol-11-issue-4/a-bilingual-dictionary/01_dictionary.jpg
 layout: post
 ---
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>ABOUT THE BOOK</b>
+<br><br>
+<b>Title:</b> <i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4515189">A Grammar and Dictionary of the Malay Language with a Preliminary Dissertation</a></i>
+<br>
+<b>Author:</b> John Crawfurd (1783–1868)
+<br>
+<b>Year published:</b> 1852
+<br>
+<b>Publisher:</b> Smith, Elder, and Co. (London)
+<br>
+<b>Language:</b> English
+<br>
+<b>Type:</b> Book (2 volumes); 595 pages in total
+<br>
+<b>Location:</b> Call no.: RRARE 499.15 CRA; Microfilm nos.: NL25912 (v. 1); NL26266 (v. 1–2)</span>
+
 A dictionary written more than 150 years ago bears testimony to how Malay – the predominant language in the Straits Settlements at the time – was of interest to Europeans in the region. The fact that it was written by a Scotsman speaks volumes about the linguistic ability of the author and his abiding interest in the people and culture of the region.
 
 The National Library has three sets of *A Grammar and Dictionary of the Malay Language with a Preliminary Dissertation*, one of which bears stamps from both the Raffles Library and the Syonan Library (Syonan Tosyokan), the name it was known as during the Japanese Occupation of Singapore.
@@ -41,21 +57,7 @@ Crawfurd spent the remaining years of his life writing books and papers on Easte
 
 **Written by:** Ang Seow Leng
 
-<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>ABOUT THE BOOK</b>
-<br><br>
-<b>Title:</b> <i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4515189">A Grammar and Dictionary of the Malay Language with a Preliminary Dissertation</a></i>
-<br>
-<b>Author:</b> John Crawfurd (1783–1868)
-<br>
-<b>Year published:</b> 1852
-<br>
-<b>Publisher:</b> Smith, Elder, and Co. (London)
-<br>
-<b>Language:</b> English
-<br>
-<b>Type:</b> Book (2 volumes); 595 pages in total
-<br>
-<b>Location:</b> Call no.: RRARE 499.15 CRA; Microfilm nos.: NL25912 (v. 1); NL26266 (v. 1–2)</span>
+<a href="/vol-11/issue-4/jan-mar-2016/"><center>Back to Issue</center></a>
 
 #### **NOTES**
 
