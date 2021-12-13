@@ -25,8 +25,6 @@ layout: post
 <br>
 <b>Donated by:</b> Koh Seow Chuan</div>
 
-<a href="/vol-11/issue-4/jan-mar-2016/"><center>Back to Issue</center></a>
-
 In the early 1900s, there were few authoritative resources that could provide an accurate picture of Malaya’s colonial history. That changed in 1906, when the book *British Malaya* was published.
 
 Written by Frank Swettenham, the first Resident-General of the Federated Malay States (FMS), the book details the history of British presence in Malaya beginning with the Straits Settlements ports of Singapore, Melaka and Penang.
