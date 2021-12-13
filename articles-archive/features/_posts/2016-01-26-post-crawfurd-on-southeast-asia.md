@@ -17,11 +17,13 @@ layout: post
 <br>
 <b>Language:</b> English
 <br>
-<b>Type:</b> Book; 477 pages
+<b>Type:</b> Book; 459 pages
 <br>
-<b>Location:</b> Call no.: RRARE 959.8 CRA; Microfilm nos.: NL6554, NL25418
+<b>Call nos.:</b> RRARE/RDYTS 959.8 CR
 <br>
-<b>Donated by:</b> Mrs Loke Yew and Tan Yeok Seong</span>
+<b>Accession nos.:</b> B03013481I; B02966867K
+<br>
+<b>Copies donated by:</b> Mrs Loke Yew and Tan Yeok Seong</span>
 
 British colonial administrator John Crawfurd once wrote that the Chinese in 19th-century Southeast Asia have a “propensity to form secret societies [that] has sometimes proved inconvenient”. But on the whole “they are peaceable subjects”, he added, and in the event of a foreign invasion, “their cooperation might certainly be relied on by a British government”.[^1]
 
