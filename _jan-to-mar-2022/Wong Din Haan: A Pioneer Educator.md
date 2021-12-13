@@ -98,3 +98,21 @@ However, my grandaunt had been so modest and retiring that even her grandchildre
 #### **NOTES**
 
 [^1]: 郑良树 [Zheng Liang Shu], “新马华社早期的女子教育” [“Early Education for Girls in the New Malayan Society”], 马来西亚华人研究学刊 [Journal of Malaysian Chinese Studies], no. 1 (1997), 49. (From National Library, Singapore, Call no. RU 959.5004951 JMCS) 
+
+[^2]: Hailing from Guangdong province, China, Wong Ah Fook came to Singapore in 1854 as a carpenter. He first established himself in the building business before venturing into agriculture, revenue farming and banking. He was responsible for the construction of a number of Johor’s heritage buildings, including the Istana Besar, the royal palace of the Sultan of Johor. Jalan Wong Ah Fook in downtown Johor Bahru is named after him.
+
+[^3]: Zheng, “新马华社早期的女子教育” [“Early Education for Girls in the New Malayan Society”], 48.
+
+[^4]: The Boxers, (so named because they practised Chinese martial arts, then known as Chinese boxing) were members of a secret society called the Yihequan (Society of Righteous and Harmonious Fists) that aimed to purge China of foreign influences and evict foreigners from China. In June 1900, Empress Dowager Cixi declared war on all foreign nations with diplomatic ties in China. An international force, the Eight-Nation Alliance, was formed comprising America, Austria-Hungary, Britain, France, Germany, Italy, Japan and Russia to quell the rebellion. Hostilities ended with the signing of the Boxer Protocol on 7 September 1901.
+
+[^5]: Immanuel C.Y. Hsü, _The Rise of Modern China,_ 3rd ed (Hong Kong: Oxford University Press, 1989), 410–11. NLB has the 6th edition. See Immanuel C.Y. Hsü, _The Rise of Modern China_ , 6th ed (New York: Oxford University Press, 2000). (Call no. R 951.03 HSU)
+
+[^6]: Zheng, “新马华社早期的女子教育” [“Early Education for Girls in the new Malayan Society”], 48.
+
+[^7]: “捐欵千元助賑之黃典嫻及梁鄧氏訪問” [“Contributing a Thousand Dollars for Disaster Relief, An Interview with Wong Din Haan and Madam Leong Tang”], 南洋商报 [_Nanyang Siang Pau_], 31 August 1937, 7. (From NewspaperSG)
+
+[^8]: Zheng, “新马华社早期的女子教育” [“Early Education for Girls in the new Malayan Society”], 52.
+
+[^9]: Nan Hua High School, “History,” accessed 15 November 2021, https://nanhuahigh.moe.edu.sg/our-heritage/history. 
+
+[^10]: Lindsay Davis, ed., _Chinese Women’s Association: 100 Fabulous Years_ (Singapore: Editions Didier Millet, [2015]), 20–21. (From National Library, Singapore, Call no. RSING 305.488951095957 CHI)
