@@ -27,7 +27,7 @@ The book contains notes of Singapore that Crawfurd recorded on two occasions, th
 
 As envoy, Crawfurd was tasked with opening up trade and ascertaining the Siamese position on the northern Malay territories of Kedah and Perak, which were then tributaries of Siam. Although the mission was deemed unsuccessful – it failed to obtain concessions in customs duties or to resolve the sovereignty issues of the two vassal states – Crawfurd’s journal was key to the understanding of 19th-century Thailand and Vietnam.[^3]
 
-Although Singapore was not the focus of his work, Crawfurd’s brief but informative descriptions shed key insights on this new British trading outpost. In Crawfurd’s first account – recorded in his journal when the mission made a stopover in Singapore from 19 January to 25 February 1822 – he noted that the colony was already populous even though it was only founded three years earlier. He described the remains of an ancient settlement, inscriptions on what we know now as the Singapore Stone, the discovery of native and Chinese pottery shards, as well as 10th- and 11th-century Chinese brass coins buried at Forbidden Hill (Fort Canning). These records have helped dispel the previously held notion that Singapore was a blank slate without a history of its own before Raffles landed on its shores.
+Although Singapore was not the focus of his work, Crawfurd’s brief but informative descriptions shed key insights on this new British trading outpost. In Crawfurd’s first account – recorded in his journal when the mission made a stopover in Singapore from 19 January to 25 February 1822 – he noted that the colony was already populous even though it was only founded three years earlier. He described the remains of an ancient settlement, inscriptions on what we know now as the Singapore Stone, the discovery of native and Chinese pottery shards, as well as 10th- and 11th-century Chinese brass coins buried at Forbidden Hill (Fort Canning). These records have helped dispel the commonly held notion that Singapore was a blank slate before Raffles landed on its shores.
 
 Crawfurd’s second and longer account was written after his stint as Resident of Singapore from 1823 to 1826. Here, he describes the fauna, climate, geology, agriculture, trade, population, town layout, legal system, revenue collection and history of Singapore. He also recounts the Treaty of Friendship and Alliance, which he negotiated with the island’s Malay chiefs on 2 August 1824.
 
@@ -35,11 +35,11 @@ In addition, the book includes three notable prints of the settlement: an early 
 
 <div style="background-color: white;"><br><img src="/images/vol-11-issue-4/notes-on-little-island/01_littleisland.jpg">The frontispiece of Journal of an Embassy shows a black and white version of the painting titled “A view of the town and roads of Singapore from the Government Hill” by Captain Robert James Elliot. <i>All rights reserved, National Library Board, Singapore.</i></div>
 
-Although there have been other accounts of the mission, Journal of an Embassy is by far the most detailed and authoritative. It was published in 1828 and presented to the government of British India.[^6] First published as a single volume and reprinted two years later as two smaller volumes with no change in content, the book is broadly divided into three parts: Crawfurd’s journal; a general introduction to the people, culture, administration, commerce, laws, geology and fauna of Siam and Cochin China, as well as a short account of Singapore; and an appendix of letters to the native kings.
+Although there have been other accounts of the mission, *Journal of an Embassy* is by far the most detailed and authoritative. It was published in 1828 and presented to the government of British India.[^6] First published as a single volume and reprinted two years later as two smaller volumes with no change in content, the book is broadly divided into three parts: Crawfurd’s journal; a general introduction to the people, culture, administration, commerce, laws, geology and fauna of Siam and Cochin China, as well as a short account of Singapore; and an appendix of letters to the native kings.
 
 <div style="background-color: white;"><br><img src="/images/vol-11-issue-4/notes-on-little-island/02_littleisland.jpg">This illustration in the book shows how rich and high-ranking people were transported in Cochin China (present-day South Vietnam). <i>All rights reserved, Crawfurd, J. (1828). Journal of an Embassy from the Governor-General of India to the Courts of Siam and Cochin China. London: Henry Colburn.</i></div>
 
-The National Library holds the first edition of Journal of an Embassy which was acquired in 2012. It features a panoramic double-folded aquatint frontispiece of Singapore, a double-folded *Map of the Kingdoms of Siam and Cochin China*, and illustrations, including 11 woodcuts, and two leaves of facsimile alphabets of Southeast Asian languages.
+The National Library holds two copies of the first edition of *Journal of an Embassy* which was acquired in 2012 and 2016 respectively. The book features a panoramic double-folded aquatint frontispiece of Singapore, a double-folded *Map of the Kingdoms of Siam and Cochin China*, and illustrations, including 11 woodcuts, and two leaves of facsimile alphabets of Southeast Asian languages.
 
 **Written by:**  Gracie Lee
 
@@ -47,11 +47,11 @@ The National Library holds the first edition of Journal of an Embassy which was 
 
 #### **NOTES**
 
-[^1]:Crawfurd, J. (1967). Introduction. In *[Journal of an embassy to the courts of Siam and Cochin China](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=90035)*. Kuala Lumpur, London, New York, Oxford U.P. (Call no.: RCLOS 959.3 CRA); Chew, E.C.T. (2002, October 12). *Dr John Crawfurd (1783–1868): The Scotsman who made Singapore British*. Retrieved from Contemporary Postcolonial & Postimperial Literature in English website.
+[^1]:Wyatt, D. K. (1967). Introduction. In *[Journal of an embassy to the courts of Siam and Cochin China](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=90035)*. Kuala Lumpur, London, New York, Oxford U.P. (Call no.: RCLOS 959.3 CRA); Chew, E.C.T. (2002, October 12). *Dr John Crawfurd (1783–1868): The Scotsman who made Singapore British*. Retrieved from Contemporary Postcolonial & Postimperial Literature in English website.
 
-[^2]:[Crawfurd](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=90035), 1967, unpaged; Chew, 12 Oct 2002.
+[^2]:Wyatt, 1967, unpaged; Chew, 12 Oct 2002.
 
-[^3]:[Crawfurd](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=90035), 1967, unpaged; Chew, 12 Oct 2002.
+[^3]:Wyatt, 1967, unpaged; Chew, 12 Oct 2002.
 
 [^4]:Wong, H.S., & Waterson, R. (2010). *[Singapore through 19th century prints & paintings](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13313091)* (p. 89). Singapore: National Museum of Singapore: Editions Didier Millet. (Call no.: RSING 769.499595703 WON); Teo, M., Chong, Y-C & Oh, J. (1987). *[Nineteenth century prints of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4413294)* (pp. 17–18, 75–76). Singapore: National Museum. (Call no.: RSING 769.4995957 TEO)
 
