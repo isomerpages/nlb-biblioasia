@@ -17,7 +17,9 @@ layout: post
 <br>
 <b>Type:</b> Manuscript; double-sided folded sheet with carved wooden front and back covers
 <br>
-<b>Location:</b> Call no.: RRARE 959.5703 ADD 
+<b>Call no.:</b> RRARE 959.5703 ADD 
+<br>
+<b>Accession no.:</b> B20048303I
 <br>
 <b>Donated by:</b> Geoffrey Edwards
 </div>
