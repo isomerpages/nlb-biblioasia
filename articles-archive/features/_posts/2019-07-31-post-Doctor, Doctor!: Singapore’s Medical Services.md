@@ -3,7 +3,7 @@ title: "Doctor, Doctor!: Singapore’s Medical Services"
 permalink: /vol-15/issue-2/jul-sep-2019/sg-medical-services/
 date: 2019-07-31
 layout: post
-image: /images/Vol-15-issue-2/singapore-medical-services/Doctor1.JPG
+image: /images/Vol-15-issue-2/singapore-medical-services/Doctor2.JPG
 description: ""
 ---
 #### Milestones in Singapore’s medical scene – among other subjects – are captured through fascinating oral history narratives in a new book written by **Cheong Suk-Wai** and published by the National Archives of Singapore. 
