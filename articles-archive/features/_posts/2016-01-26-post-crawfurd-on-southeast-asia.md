@@ -23,9 +23,7 @@ layout: post
 <br>
 <b>Donated by:</b> Mrs Loke Yew and Tan Yeok Seong</span>
 
-British colonial administrator John Crawfurd once wrote that the Chinese in 19th-century Southeast Asia have a “propensity to form secret societies [that] has sometimes proved inconvenient”.
-
-But on the whole “they are peaceable subjects”, he added, and in the event of a foreign invasion, “their cooperation might certainly be relied on by a British government”.[^1]
+British colonial administrator John Crawfurd once wrote that the Chinese in 19th-century Southeast Asia have a “propensity to form secret societies [that] has sometimes proved inconvenient”. But on the whole “they are peaceable subjects”, he added, and in the event of a foreign invasion, “their cooperation might certainly be relied on by a British government”.[^1]
 
 This and other nuggets of information about colonial Southeast Asia are recorded in *A Descriptive Dictionary of the Indian Islands & Adjacent Countries*, Crawfurd’s last scholarly publication before his death in 1868. Crawfurd, who was first posted to Penang in 1808 and served as Singapore’s second British Resident from 1823 to 1826, was one of a small school of colonial officials who industriously studied the local languages and cultures of the areas they governed and then published their observations.
 
@@ -33,7 +31,7 @@ This and other nuggets of information about colonial Southeast Asia are recorded
 
 Their efforts provided the earliest reliable documentations of the region, laying the foundation for modern Southeast Asian studies. During Crawfurd’s 20 years of service in the Far East, he made careful notes of the places he visited: India, Penang, Indonesia, Thailand, Vietnam and Burma. These findings were published in books such as *History of the Indian Archipelago* (1820) and *Journal of an Embassy from the Governor-General of India to the Courts of Siam and Cochin China* (1828) – classic texts that historians still refer to today.
 
-Crawfurd originally envisioned *A Descriptive Dictionary of the Indian Islands & Adjacent Countries* as a second edition of *History of the Indian Archipelago*, his definitive work on the East Indies. However, he decided to rewrite material from History and add new content, using an alphabetical format that would facilitate easy referencing on this vast subject. The keyword index he used in *A Descriptive Dictionary* proved particularly useful for readers, grouping information under broad headings like “language”, “arms”, “dress” and “weights and measures”. While the book’s focus is on Java, where Crawfurd spent five years, it also offers rich information on the Malay Peninsula, the Philippines and mainland Southeast Asia – areas Crawfurd had become familiar with through his diplomatic missions and intellectual inquiry.
+Crawfurd originally envisioned *A Descriptive Dictionary of the Indian Islands & Adjacent Countries* as a second edition of *History of the Indian Archipelago*, his definitive work on the East Indies. However, he decided to rewrite material from *History* and add new content, using an alphabetical format that would facilitate easy referencing on this vast subject. The keyword index he used in *A Descriptive Dictionary* proved particularly useful for readers, grouping information under broad headings like “language”, “arms”, “dress” and “weights and measures”. While the book’s focus is on Java, where Crawfurd spent five years, it also offers rich information on the Malay Peninsula, the Philippines and mainland Southeast Asia – areas Crawfurd had become familiar with through his diplomatic missions and intellectual inquiry.
 
 The dictionary’s entry on Singapore, for instance, spans eight pages and covers the origin of the island’s name, as well as its geological formation, climate, plants, zoology, agriculture, industry, trade, population, government, revenue and history. As one of the earliest accounts of Singapore, it set a model for later writers and provided a helpful reference for terms related to 19th-century Singapore, such as Bugis (under the entry on People), sago (Production), opium (Trade), *kati* (Weights and Measures) and *pantun* (Literature).
 
@@ -45,7 +43,7 @@ One caveat is that the *A Descriptive Dictionary* is largely based on Crawfurd�
 
 Still, the book’s extensive facts and figures reflect Crawfurd’s wide scholarly interests. Its inclusion of information dated as late as 1850 also hints at his dedication to Southeast Asia even after he returned to England for good in 1828. Crawfurd, who was born in Scotland in 1783 and started working for the British East India Company at the age of 20, began work on *A Descriptive Dictionary* in 1854[^6] and published it in London in 1856. The book served as the standard reference on the Indian Archipelago for almost 40 years until Nicholas Belfield Dennys’ *Descriptive Dictionary of British Malaysia* was published in 1894.[^7]
 
-The National Library holds three copies of the 1856 edition. One is from the Ya Yin Kwan Collection, donated in July 1964 by Penang-born merchant and scholar Tan Yeok Seong. Another copy was donated in June1965 as part of the Gibson-Hill Collection by Mrs Loke Yew on behalf of her late son Loke Wan Tho, the first chairman of the National Library Board and the owner of the Cathay chain of cinemas.
+The National Library holds four copies of the first edition published in 1856.. One is from the Ya Yin Kwan Collection, donated in July 1964 by Penang-born merchant and scholar Tan Yeok Seong. Another copy was donated in June 1965 as part of the Gibson-Hill Collection by Mrs Loke Yew on behalf of her late son Loke Wan Tho, the first chairman of the National Library Board and the owner of the Cathay chain of cinemas. The third copy comes from the John Bastin Collection.
 
 **Written by:** Gracie Lee
 
@@ -53,7 +51,7 @@ The National Library holds three copies of the 1856 edition. One is from the Ya 
 
 #### **NOTES**
 
-[^1]:Crawfurd, J. (1856). *[A descriptive dictionary of the Indian islands & adjacent countries](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=77333)* (p. 98). London: Bradbury & Evans. Retrieved from BookSG.
+[^1]:Crawfurd, J. (1856). *[A descriptive dictionary of the Indian islands & adjacent countries](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=77333)* (p. 98). London: Bradbury & Evans. Microfilm nos.: NL 6554, NL 25418.
 
 [^2]:Crawfurd, J. (1971). *[A descriptive dictionary of the Indian islands & adjacent countries](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=77333)*. Kuala Lumpur, New York: Oxford University Press. (Call no.: RCLOS 959.8 CRA) 
 
