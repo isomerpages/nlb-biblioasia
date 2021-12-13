@@ -33,13 +33,13 @@ Organised in a chronological order, the publication is not so much a serious aca
 
 <div style="background-color: white;"><br><img src="/images/vol-11-issue-4/an-expat-impression-of-sg/01_expatimpression.jpg">Title page of <i>An Anecdotal History of Old Times in Singapore</i>, with the frontispiece featuring the last page of the treaty Stamford Raffles signed with Sultan Hussein Shah of Johor and Temenggong Abdul Rahman on 6 February 1819 to establish a trading post on the island of Singapore. <i>All rights reserved, National Library Board, Singapore.</i></div>
 
-Buckley, who spent all his adult life in Singapore  – almost 50 years – came to Singapore in 1893 when he was only 20 years old, following the advice of William Henry Macleod Read, who gave him a job at A. L. Johnston & Company. Buckley worked there for 11 years, and then spent a short time at the Chendras Gold Mine near Malacca. He returned to Singapore to study law after that and was appointed assistant to Thomas Braddell, the Attorney-General. Subsequently, he became a partner in Rodyk & Davidson until his retirement in 1904.[^4]
+Buckley, who spent all his adult life in Singapore  – almost 50 years – came to Singapore when he was only 20 years old, following the advice of William Henry Macleod Read, who gave him a job at A. L. Johnston & Company. Buckley worked there for 11 years, and then spent a short time at the Chendras Gold Mine near Melaka. He returned to Singapore to study law after that and was appointed assistant to Thomas Braddell, the Attorney-General. Subsequently, he became a partner in Rodyk & Davidson until his retirement in 1904.[^4]
 
 In 1884, Buckley and 32 subscribers bought the over the *Singapore Free Press* and resumed its weekly publication. The paper had been Singapore’s second English-language newspaper after the *Singapore Chronicle* and was in circulation for more than 30 years until it ceased publication in 1869.[^5]
 
 It was then that Buckley had the idea of compiling an anecdotal account of the past from the archives of the *Singapore Free Press* to fill up the content in the newspaper. But as there was no lack of current news to write about, the newspaper became so successful that it was converted into a daily paper within three years, and was eventually handed over to professionals to manage.[^6]
 
-Buckley wrote about how he got started on his book in the preface. He “had columns of the history [articles] cut out of the [*Singapore Free Press*] newspaper, sewn into a book, and interleaved. This was sent to Mr W. H. Read, who passed it on to Mr James Guthrie… Their remarks, additions, and corrections were added to others which came in from various quarters, owing to the publicity in the newspaper”.[^7]
+Buckley wrote about how he got started on his book in the preface. He “had columns of the history [articles] cut out of the [*Singapore Free Press*] newspaper, sewn into a book, and interleaved. This was sent to Mr W. H. Read, who passed it on to Mr James Guthrie. Their remarks, additions, and corrections were added to others which came in from various quarters, owing to the publicity in the newspaper”.[^7]
 
 <div style="background-color: white;"><img style="width:350px" src="/images/vol-11-issue-4/an-expat-impression-of-sg/03_expatimpression.jpg">An advertisement of the book in <i>The Straits Times</i> dated 6 February 1903. The book was on sale at the department store John Little & Company in Commercial Square (present-day Raffles Place). <i>© The Straits Times.</i></div>
 
@@ -49,7 +49,7 @@ Buckley’s active social life in Malaya and Singapore provided ample fodder for
 
 Buckley passed away on 22 May 1912 while on a trip back to England. He had been suffering from chronic bronchitis and heart trouble before the trip and his condition deteriorated while he was overseas.[^11]
 
-Comprising 57 chapters and about 400 pages per volume, the title was first published in 1902 by Fraser & Neave. It was reprinted in 1965 by the University of Malaya Press in Kuala Lumpur, and then again in 1984 by the Oxford University Press; both editions included an introduction by Constance Mary Turnbull, well-known expert on Singapore history. The most recent edition was published in 2012 by General Books LLC in Memphis, USA.
+Comprising 57 chapters and about 400 pages per volume, the title was first published in 1902 by Fraser & Neave. It was reprinted in 1965 by the University of Malaya Press in Kuala Lumpur, and then again in 1984 by the Oxford University Press; the 1984 edition included an introduction by Constance Mary Turnbull, a well-known expert on Singapore history. The most recent edition was published in 2012 by General Books LLC in Memphis, USA.
 
 **Written by:** Ang Seow Leng
 	
@@ -57,21 +57,21 @@ Comprising 57 chapters and about 400 pages per volume, the title was first publi
 	
 #### **NOTES**
 
-[^1]:[Friday, May 24, 1912. The late Mr. Charles Burton Buckley](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19120530-1.2.28). (1912, May 30). *The Singapore Free Press*, p. 342. Retrieved from NewspaperSG.
+[^1]:[The late Mr. Charles Burton Buckley(1912, May 24)](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19120530-1.2.28). (1912, May 30). *The Singapore Free Press*, p. 342. Retrieved from NewspaperSG.
 
-[^2]:Lockard, C.A. (1986, Autumn). *Reviewed work: An anecdotal history of old times in Singapore*, by Charles Burton Buckley. *Pacific Affairs, 59* (3), 544–546, p. 545. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+[^2]:Lockard, C.A. (1986, Autumn). *Reviewed work: An anecdotal history of old times in Singapore*, by Charles Burton Buckley. *Pacific Affairs, 59* (3), 544–546, p. 545. Retrieved from JSTOR.
 
-[^3]:Means, G.P. (1967, May). *Review: An anecdotal history of old times in Singapore*, by Charles Burton Buckley. *The Journal of Asian Studies, 26* (3), 531–532, p. 531. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+[^3]:Means, G.P. (1967, May). *Review: An anecdotal history of old times in Singapore*, by Charles Burton Buckley. *The Journal of Asian Studies, 26* (3), 531–532, p. 531. Retrieved from JSTOR.
 
-[^4]:Buckley, C.B. (1984). *[An anecdotal history of old times in Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082239)* (pp. v–vi). Singapore: Oxford University Press. (Call no.: RSING 959.57 BUC)
+[^4]:Buckley, C.B. (1984). *[An anecdotal history of old times in Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082239)* (pp. v–vi). Singapore: Oxford University Press. (Call no.: RSING 959.57 BUC)-[HIS]
 
 [^5]:National Library Board. (2005, June 15). *[The Singapore Free Press](http://eresources.nlb.gov.sg/infopedia/articles/SIP_88_2005-02-03.html)* written by Naidu, Ratna Thulaja. Retrieved from Singapore Infopedia website.
 
 [^6]:[Buckley](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082239), 1984, p. ix.
 
-[^7]:Bastin, J. (1968). *Review: An anecdotal history of old times in Singapore*, by Charles Burton Buckley. *T’oung Pao*, (Second Series), 54 (1/3), 158–160, p. 159. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+[^7]:Bastin, J. (1968). *Review: An anecdotal history of old times in Singapore*, by Charles Burton Buckley. *T’oung Pao*, (Second Series), 54 (1/3), 158–160, p. 159. Retrieved from JSTOR.
 
-[^8]:Gibson-Hill, C.A. (1954, May). *Review: An anecdotal history of old times in Singapore*, by Charles Burton Buckley. *Journal of the Malayan Branch of the Royal Asiatic Society, 27* (1) (165), 235–243, p. 241. Retrieved from JSTOR via NLB’s eResources website.
+[^8]:Gibson-Hill, C.A. (1954, May). *Review: An anecdotal history of old times in Singapore*, by Charles Burton Buckley. *Journal of the Malayan Branch of the Royal Asiatic Society, 27* (1) (165), 235–243, p. 241. Retrieved from JSTOR.
 
 [^9]:National Library Board. (2016). *[Charles Burton Buckley](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1145_2006-08-29.html)* written by Chia, Yeong Jia Joshua. Retrieved from Singapore Infopedia website.
 
