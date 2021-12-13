@@ -115,7 +115,7 @@ The National Theatre was demolished in 1986 amid concerns that the building was 
 Despite its demolition, the Ministry of Culture noted that the National Theatre had played an important part in nation-building by inculcating “a spirit of self-help and a sense of nationhood”. In 2000, the location of the National Theatre was declared a historic site by the National Heritage Board.[^17]
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;">
-<img style="width:300px" src="/images/Vol-15-issue-1/making-history/08_history.png">
+<img style="width:200px" src="/images/Vol-15-issue-1/making-history/08_history.png">
 <br>
 This essay is reproduced from the book <i>50 Records from History: Highlights from the National Archives of Singapore</i>. It features 50 short essays written by archivists on selected records from the archives that commemorate major milestones in Singapore’s history. The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (<a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203816848">Call nos.: RSING 959.57 HUA-[HIS]and SING 959.57 HUA-[HIS]</a>).</span>
 
