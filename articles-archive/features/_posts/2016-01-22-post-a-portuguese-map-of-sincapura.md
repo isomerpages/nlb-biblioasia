@@ -5,6 +5,24 @@ permalink: /vol-11/issue-4/jan-mar-2016/portugesemapsincapura
 image: /images/vol-11-issue-4/portuguese-map-of-sincapura/01_portugesemap.jpg
 layout: post
 ---
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>ABOUT THE BOOK AND MAPS</b>
+<br><br>
+<b>Title:</b> <i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=12830918">Malaca, l’Inde Méridionale et le Cathay: Manuscrit Original Autographe de Godinho de Erédia, Appartenant a la Bibliothèque Royale de Bruxelles</a></i>
+<br>
+<b>Translated by:</b> Léon Janssen
+<br>
+<b>Year published:</b> 1882 (based on the original 1613 Portuguese manuscript <i>Declaracam de Malaca e India Meridional com o Cathay</i> by Manuel Godinho de Erédia)
+<br>
+<b>Publisher:</b> Librairie Europeenne C. Muquardt (Bruxelles)
+<br>
+<b>Language:</b> Portuguese and French
+<br>
+<b>Type:</b> Book with text and maps; 292 pages
+<br>
+<b>Call no.:</b> RRARE 910.9469 GOD-[SEA]
+<br>
+<b>Accession no.:</b> B18975443H</span>
+
 Originally drawn in 1604, *Discripsao chorographica dos estreitos de Sincapura e Sabbam. ano. 1604 (Chorographic Description of the Straits of Sincapura and Sabbam 1604 A.D)* is one of the earliest maps to depict pre-colonial Singapore, and more importantly, identifies recognisable names of places – Sunebodo (Sungei Bedok), Tanamena (Tanah Merah), Tanion Ru (Tanjong Rhu) and an island called Blacan Mati (Pulau Blakang Mati or Sentosa) – along its eastern coast.[^1] The map refers to the main island as Sincapura – one of several early names given to the island.
 
 <div style="background-color: white;"><br><img style="width:700px" src="/images/vol-11-issue-4/portuguese-map-of-sincapura/01_portugesemap.jpg">Originally drawn in 1604, Discripsao Chorographica dos Estreitos de Sincapura e Sabbam. ano. 1604 (Chorographic Description of the Straits of Sincapura and Sabbam 1604 A.D.) is one of the earliest maps to depict the coastal areas of pre-colonial Singapore with names that are still recognisable today. <i>All rights reserved, Janssen, L. (Trans.) (1882). Malaca, I’Inde Méridionale et le Cathay: Manuscrit Original Autographe de Godinho de Erédia, Appartenant a la Bibliothèque Royale de Bruxelles. Bruxelles: Librairie Europeenne C. Muquardt.</i></div>
@@ -31,21 +49,7 @@ This French edition of Erédia’s manuscript was part of the Raffles Museum and
 
 **Written by:** Nor-Afidah Abdul Rahman
 
-<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>ABOUT THE BOOK AND MAPS</b>
-<br><br>
-<b>Title:</b> <i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=12830918">Malaca, l’Inde Méridionale et le Cathay: Manuscrit Original Autographe de Godinho de Erédia, Appartenant a la Bibliothèque Royale de Bruxelles</a></i>
-<br>
-<b>Translated by:</b> Léon Janssen
-<br>
-<b>Year published:</b> 1882 (based on the original 1613 Portuguese manuscript <i>Declaracam de Malaca e India Meridional com o Cathay</i> by Manuel Godinho de Erédia)
-<br>
-<b>Publisher:</b> Librairie Europeenne C. Muquardt (Bruxelles)
-<br>
-<b>Language:</b> Portuguese and French
-<br>
-<b>Type:</b> Book with text and maps; 292 pages
-<br>
-<b>Location:</b> Call no.: RRARE 910.9469 GOD; Microfilm no.: NL29093</span>
+<a href="/vol-11/issue-4/jan-mar-2016/"><center>Back to Issue</center></a>
 
 #### **NOTES**
 
