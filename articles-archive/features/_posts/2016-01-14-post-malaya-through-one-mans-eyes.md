@@ -19,7 +19,9 @@ layout: post
 <br>
 <b>Type:</b> Book; 354 pages
 <br>
-<b>Location:</b> Call no.: RDKSC 959.5 SWE; Microfilm nos.: NL19101, NL3279
+<b>Call no:</b> RDKSC 959.5 SWE
+<br>
+<b>Accession nos.:</b> B20086514D, B20086515E
 <br>
 <b>Donated by:</b> Koh Seow Chuan</div>
 
