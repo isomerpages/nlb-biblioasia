@@ -19,7 +19,9 @@ layout: post
 <br>
 <b>Type:</b> Book (2 volumes); 595 pages in total
 <br>
-<b>Location:</b> Call no.: RRARE 499.15 CRA; Microfilm nos.: NL25912 (v. 1); NL26266 (v. 1–2)</span>
+<b>Call no.:</b> RRARE 499.15 CRA
+<br>
+<b>Accession no.:</b> B02954237J (v.1–2)</span>
 
 A dictionary written more than 150 years ago bears testimony to how Malay – the predominant language in the Straits Settlements at the time – was of interest to Europeans in the region. The fact that it was written by a Scotsman speaks volumes about the linguistic ability of the author and his abiding interest in the people and culture of the region.
 
