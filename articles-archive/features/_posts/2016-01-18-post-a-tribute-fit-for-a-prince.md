@@ -5,6 +5,23 @@ permalink: /vol-11/issue-4/jan-mar-2016/atributefitforaprince
 image: /images/vol-11-issue-4/a-tribute-of-a-prince/01_tributeprince.jpg
 layout: post
 ---
+<div style="background-colour:#fdf5e6; padding:20px; margin: 20px; background: #fdf5e6;"><b>ABOUT THE MANUSCRIPT</b>
+<br><br>
+<b>Title:</b> <i><a href="https://eresources.nlb.gov.sg/printheritage/detail/920ecc56-9df8-409e-b3ec-f742a6895eea.aspx">Address to Alfred, Duke of Edinburgh by the Singapore Chinese Merchants on the Occasion of His Visit to Singapore in 1869</a></i>
+<br>
+<b>Creator:</b> Unknown
+<br>
+<b>Year created:</b> 25 November 1869
+<br>
+<b>Language:</b> English and Chinese
+<br>
+<b>Type:</b> Manuscript; double-sided folded sheet with carved wooden front and back covers
+<br>
+<b>Location:</b> Call no.: RRARE 959.5703 ADD 
+<br>
+<b>Donated by:</b> Geoffrey Edwards
+</div>
+
 <div style="background-color: white;"><br><img style="width:600px" src="/images/vol-11-issue-4/a-tribute-of-a-prince/01_tributeprince.jpg">The front and back wooden covers of the Loyalty Address – created in homage to Price Alfred, the Duke of Edinburgh – are intricately handcraved with phoenixes. <i>All rights reserved, National Library Board, Singapore.</i></div>
 
 Singapore has never hesitated to roll out the red carpet for visiting dignitaries, and this is exactly what a British royal experienced when he sailed into Singapore nearly 150 years ago.
@@ -53,23 +70,6 @@ The presentation of the Address was one of the highlights of the prince’s visi
 *The Address to Alfred, Duke of Edinburgh* was donated by a private collector, Geoffrey Edwards, to the National Library in 2009.
 
 **Written by:** Nor-Afidah Abdul Rahman
-
-<div style="background-colour:#fdf5e6; padding:20px; margin: 20px; background: #fdf5e6;"><b>ABOUT THE MANUSCRIPT</b>
-<br><br>
-<b>Title:</b> <i><a href="https://eresources.nlb.gov.sg/printheritage/detail/920ecc56-9df8-409e-b3ec-f742a6895eea.aspx">Address to Alfred, Duke of Edinburgh by the Singapore Chinese Merchants on the Occasion of His Visit to Singapore in 1869</a></i>
-<br>
-<b>Creator:</b> Unknown
-<br>
-<b>Year created:</b> 25 November 1869
-<br>
-<b>Language:</b> English and Chinese
-<br>
-<b>Type:</b> Manuscript; double-sided folded sheet with carved wooden front and back covers
-<br>
-<b>Location:</b> Call no.: RRARE 959.5703 ADD 
-<br>
-<b>Donated by:</b> Geoffrey Edwards
-</div>
 
 <a href="/vol-11/issue-4/jan-mar-2016/"><center>Back to Issue</center></a>
 
