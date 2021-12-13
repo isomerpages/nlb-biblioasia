@@ -5,6 +5,23 @@ permalink: /vol-11/issue-4/jan-mar-2016/guidetojavabali
 image: /images/vol-11-issue-4/guide-to-java-and-bali/03_javaandbali.jpg
 layout: post
 ---
+<div style="background-colour:#fdf5e6; padding:20px; margin: 20px; background: #fdf5e6;"><b>ABOUT THE BOOK</b>
+<br><br>
+<b>Title:</b> <i><a href="https://eresources.nlb.gov.sg/printheritage/detail/6f5dbed1-1dd2-411f-bac8-473b4c67e30b.aspx">Journal of a Tour Along the Coast of Java and Bali etc, with a Short Account of the Island of Bali Particularly of Bali Baliling</a></i>
+<br>
+<b>Author:</b> Walter Henry Medhurst (1796–1857)
+<br>
+<b>Year published:</b> 1830
+<br>
+<b>Publisher:</b> Mission Press (Singapore)
+<br>
+<b>Language:</b> English
+<br>
+<b>Type:</b> Book; 40 pages
+<br>
+<b>Location:</b> Call no.: RRARE 992.2 JOU; Microfilm no.: NL 5827
+</div>
+
 <div style="background-color: white;"><br><img style="width:600px" src="/images/vol-11-issue-4/guide-to-java-and-bali/01_javaandbali.jpg">The title page of <i>Journal of a Tour Along the Coast of Java and Bali</i>. This is the earliest extant English publication printed in Singapore and held in the National Library’s collection. <i>All rights reserved, National Library Board, Singapore.</i></div>
 
 The earliest extant English publication printed in Singapore in the National Library’s collection is a report on Java and Bali published in 1830.
@@ -35,22 +52,7 @@ Following the end of the First Opium War (1839–42), Medhurst left for China in
 
 **Written by:** Ong Eng Chuan
 
-<div style="background-colour:#fdf5e6; padding:20px; margin: 20px; background: #fdf5e6;"><b>ABOUT THE BOOK</b>
-<br><br>
-<b>Title:</b> <i><a href="https://eresources.nlb.gov.sg/printheritage/detail/6f5dbed1-1dd2-411f-bac8-473b4c67e30b.aspx">Journal of a Tour Along the Coast of Java and Bali etc, with a Short Account of the Island of Bali Particularly of Bali Baliling</a></i>
-<br>
-<b>Author:</b> Walter Henry Medhurst (1796–1857)
-<br>
-<b>Year published:</b> 1830
-<br>
-<b>Publisher:</b> Mission Press (Singapore)
-<br>
-<b>Language:</b> English
-<br>
-<b>Type:</b> Book; 40 pages
-<br>
-<b>Location:</b> Call no.: RRARE 992.2 JOU; Microfilm no.: NL 5827
-</div>
+<a href="/vol-11/issue-4/jan-mar-2016/"><center>Back to Issue</center></a>
 	
 #### **NOTES**
 
