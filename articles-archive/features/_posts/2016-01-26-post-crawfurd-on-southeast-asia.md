@@ -5,6 +5,24 @@ permalink: /vol-11/issue-4/jan-mar-2016/crawfurdsoutheastasia
 image: /images/vol-11-issue-4/crawfurd-on-sea/02_crawfurd.jpg
 layout: post
 ---
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>ABOUT THE BOOK</b>
+<br><br>
+	<b>Title:</b> <i><a href="https://eresources.nlb.gov.sg/printheritage/detail/2f493163-969c-482a-aa4d-982efd9c5e7b.aspx">A Descriptive Dictionary of the Indian Islands & Adjacent Countries</a></i>
+<br>
+<b>Author:</b> John Crawfurd (1783–1868)
+<br>
+<b>Year published:</b> 1856
+<br>
+<b>Publisher:</b> Bradbury & Evans (London)
+<br>
+<b>Language:</b> English
+<br>
+<b>Type:</b> Book; 477 pages
+<br>
+<b>Location:</b> Call no.: RRARE 959.8 CRA; Microfilm nos.: NL6554, NL25418
+<br>
+<b>Donated by:</b> Mrs Loke Yew and Tan Yeok Seong</span>
+
 British colonial administrator John Crawfurd once wrote that the Chinese in 19th-century Southeast Asia have a “propensity to form secret societies [that] has sometimes proved inconvenient”.
 
 But on the whole “they are peaceable subjects”, he added, and in the event of a foreign invasion, “their cooperation might certainly be relied on by a British government”.[^1]
@@ -31,23 +49,7 @@ The National Library holds three copies of the 1856 edition. One is from the Ya 
 
 **Written by:** Gracie Lee
 
-<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>ABOUT THE BOOK</b>
-<br><br>
-	<b>Title:</b> <i><a href="https://eresources.nlb.gov.sg/printheritage/detail/2f493163-969c-482a-aa4d-982efd9c5e7b.aspx">A Descriptive Dictionary of the Indian Islands & Adjacent Countries</a></i>
-<br>
-<b>Author:</b> John Crawfurd (1783–1868)
-<br>
-<b>Year published:</b> 1856
-<br>
-<b>Publisher:</b> Bradbury & Evans (London)
-<br>
-<b>Language:</b> English
-<br>
-<b>Type:</b> Book; 477 pages
-<br>
-<b>Location:</b> Call no.: RRARE 959.8 CRA; Microfilm nos.: NL6554, NL25418
-<br>
-<b>Donated by:</b> Mrs Loke Yew and Tan Yeok Seong</span>
+<a href="/vol-11/issue-4/jan-mar-2016/"><center>Back to Issue</center></a>
 
 #### **NOTES**
 
