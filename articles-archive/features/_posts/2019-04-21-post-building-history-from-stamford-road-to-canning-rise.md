@@ -13,17 +13,17 @@ layout: post
 
 The archives unit is set up as part of the Raffles Museum and Library on Stamford Road (today’s National Museum of Singapore). Its initial collection comprises 170 original volumes of 19th-century records from the library of the Colonial Secretary. This collection, later named the Straits Settlements Records, documents the history of British administration in Singapore, Penang and Malacca.
 
+<div style="background-color: white;"><img style="width:600px" src="/images/Vol-15-issue-1/building-history/02a_buildinghistory.jpg">The Raffles Museum and Library on Stamford Road.</div>
+
 #### **1955**
 
 The Raffles Museum and Library is restructured into the Raffles Museum and the Raffles Library. The archives unit becomes a department under the Raffles Library.
 
-<div style="background-color: white;"><img style="width:600px" src="/images/Vol-15-issue-1/building-history/02a_buildinghistory.jpg">The Raffles Museum and Library on Stamford Road.</div>
+<div style="background-color: white;"><img style="width:500px" src="/images/Vol-15-issue-1/building-history/02b_buildinghistory.jpg">The reading room of the Raffles Library.</div>
 
 #### **1 April 1958**
 
 The Raffles Library is renamed Raffles National Library and tasked to “receive, preserve and administer the official archives”.
-
-<div style="background-color: white;"><img style="width:500px" src="/images/Vol-15-issue-1/building-history/02b_buildinghistory.jpg">The reading room of the Raffles Library.</div>
 
 #### **12 November 1960**
 
