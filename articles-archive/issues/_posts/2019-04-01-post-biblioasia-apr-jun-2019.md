@@ -44,5 +44,5 @@ Oral history is often considered as “little” – personal accounts of humble
 **[Making History](/vol-15/issue-1/apr-jun-2019/making-history)** <br>
 A treaty that sealed Singapore’s fate, a contract for the sale of child brides, and a drawing of an iconic theatre are among the items showcased in a new book, *50 Records from History*, published by the National Archives of Singapore. [(PDF)](/files/pdf/vol-15/v15-issue1_Makinghistory.pdf)
 
-**[Feeding the Hungry: Children in Post-War Singapore](/vol-15/issue-1/apr-jun-2019/feeding-the-hungry)** <br>
+**[Feeding the Hungry: Children in Post-war Singapore](/vol-15/issue-1/apr-jun-2019/feeding-the-hungry)** <br>
 In the aftermath of the Japanese Occupation, the colonial government set up feeding centres to address malnutrition among children in Singapore. *Cheryl-Ann Low* has the details. [(PDF)](/files/pdf/vol-15/v15-issue1_Feeding.pdf)
