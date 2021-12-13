@@ -60,7 +60,7 @@ The FMS was instituted in 1895 after Swettenham secured agreements from the Mala
 
 #### **NOTES**
 
-[^1]: Kwa, C.G., Heng, D., & Tan, T. Y. (2009). Singapore, a 700-year history: From early emporium to world city (pp. 3–4). Singapore: National Archives of Singapore. Call no.: RSING 959.5703 KWA
+[^1]: Kwa, C.G., Heng, D., & Tan, T. Y. (2009). *Singapore, a 700-year history: From early emporium to world city* (pp. 3–4). Singapore: National Archives of Singapore. Call no.: RSING 959.5703 KWA
 [^2]:Barlow, H.S. (1995). Writings: Swettenham as historian. *[In Swettenham](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7490524)* (pp. 691–715). Kuala Lumpur: Southdene. (Call no.: RSING 959.5104 BAR)
 
 [^2]:Reid, A. (2010). *[Imperial alchemy: Nationalism and political identity in Southeast Asia](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13352726)* (p. 94). Cambridge, UK; New York: Cambridge University Press. (Call no.: RSEA 320.540959 REI)
