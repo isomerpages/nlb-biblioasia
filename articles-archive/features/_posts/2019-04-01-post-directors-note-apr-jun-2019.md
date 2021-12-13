@@ -14,7 +14,7 @@ The Japanese Occupation remains a dark chapter in our history, and three essays 
 
 Other articles elucidate the value of the archives. [Tan Chui Hua](/vol-15/issue-1/apr-jun-2019/disco-fever) puts on her dancing shoes to uncover Singapore’s early disco scene through oral history and newspaper records. [Irene Ng](/vol-15/issue-1/apr-jun-2019/s-rajaratnam), biographer of one of our founding fathers, S. Rajaratnam, ponders the painstaking process of uncovering the life of a person using archival records. [Gretchen Liu](/vol-15/issue-1/apr-jun-2019/the-way-we-were) highlights the work of the Photo Unit, whose contributions comprise the single largest collection of photographs held by the NAS.
 
-We recently published *50 Records from History: Highlights from the National Archives of Singapore*. Three of these items – a map, a contract and an architectural drawing – provide a peek into the NAS’ vast collection of 10 million records (and counting).
+We recently published *50 Records from History: Highlights from the National Archives of Singapore*. Three of these items – [a map, a contract and an architectural drawing](/vol-15/issue-1/apr-jun-2019/making-history) – provide a peek into the NAS’ vast collection of 10 million records (and counting).
 
 Since 2012 – when the NAS became part of the National Library Board – the library and the archives have worked together to make our resources more accessible to the public. We hope this issue of *BiblioAsia* will inspire many of you to look deeper into Singapore’s documentary and publishing heritage in this bicentennial year, and gain a new appreciation of our roots.
 
