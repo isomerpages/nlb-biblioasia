@@ -19,7 +19,9 @@ layout: post
 <br>
 <b>Type:</b> Book (2 volumes); 812 pages in total
 <br>
-<b>Location:</b> Call no.: RRARE 959.57 BUC; Microfilm no.: NL269
+<b>Call no.:</b> RRARE 959.57 BUC
+<br>
+<b>Accession nos.:</b> B02862193I (v.1); B02966444B (v.1); B0286191G (v.1); B06616728C (v.1); B02862192H (v.2); B06616729D (v.2)
 <br>
 	<b>Copies donated by:</b> Mrs Loke Yew, Tan Yeok Seong and Yeh Sui-Yen</span>
 
