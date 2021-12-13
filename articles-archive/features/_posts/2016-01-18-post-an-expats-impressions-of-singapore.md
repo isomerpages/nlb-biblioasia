@@ -5,6 +5,24 @@ permalink: /vol-11/issue-4/jan-mar-2016/anexpatimpressionofsg
 image: /images/vol-11-issue-4/an-expat-impression-of-sg/02_expatimpression.jpg
 layout: post
 ---
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>ABOUT THE BOOK</b>
+<br><br>
+<b>Title:</b> <i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4470390">An Anecdotal History of Old Times in Singapore: (with portraits and illustrations) From the Foundation of the Settlements Under the Honourable the East India Company, on February 6th, 1819, to the Transfer of the Colonial Office as Part of the Colonial Possessions of theCrown on April 1st, 1867</a></i>
+<br>
+<b>Author:</b> Charles Burton Buckley (1844–1912)
+<br>
+<b>Year published:</b> 1902
+<br>
+<b>Publisher:</b> Fraser & Neave (Singapore)
+<br>
+<b>Language:</b> English
+<br>
+<b>Type:</b> Book (2 volumes); 812 pages in total
+<br>
+<b>Location:</b> Call no.: RRARE 959.57 BUC; Microfilm no.: NL269
+<br>
+	<b>Copies donated by:</b> Mrs Loke Yew, Tan Yeok Seong and Yeh Sui-Yen</span>
+
 Love it or hate it, most people find expatriates’ accounts of Singapore endlessly fascinating. One of the earliest newspaper columnists was Charles Burton Buckley, whose writings on Singapore were published as early as 1902 – the first of its kind at the time.
 
 <div style="background-color: white;"><br><img style="width:400px" src="/images/vol-11-issue-4/an-expat-impression-of-sg/02_expatimpression.jpg">Charles Burton Buckley in his Mercedes Benz, the first car brand imported into Singapore. <i>All rights reserved, Makepeace, W., Brooke, G. E., & Braddell, R. St. J. (1921). One Hundred Years of Singapore (Vol. 2). London: John Murray.</i></div>
@@ -34,24 +52,8 @@ Buckley passed away on 22 May 1912 while on a trip back to England. He had been 
 Comprising 57 chapters and about 400 pages per volume, the title was first published in 1902 by Fraser & Neave. It was reprinted in 1965 by the University of Malaya Press in Kuala Lumpur, and then again in 1984 by the Oxford University Press; both editions included an introduction by Constance Mary Turnbull, well-known expert on Singapore history. The most recent edition was published in 2012 by General Books LLC in Memphis, USA.
 
 **Written by:** Ang Seow Leng
-
-<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>ABOUT THE BOOK</b>
-<br><br>
-<b>Title:</b> <i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4470390">An Anecdotal History of Old Times in Singapore: (with portraits and illustrations) From the Foundation of the Settlements Under the Honourable the East India Company, on February 6th, 1819, to the Transfer of the Colonial Office as Part of the Colonial Possessions of theCrown on April 1st, 1867</a></i>
-<br>
-<b>Author:</b> Charles Burton Buckley (1844–1912)
-<br>
-<b>Year published:</b> 1902
-<br>
-<b>Publisher:</b> Fraser & Neave (Singapore)
-<br>
-<b>Language:</b> English
-<br>
-<b>Type:</b> Book (2 volumes); 812 pages in total
-<br>
-<b>Location:</b> Call no.: RRARE 959.57 BUC; Microfilm no.: NL269
-<br>
-	<b>Copies donated by:</b> Mrs Loke Yew, Tan Yeok Seong and Yeh Sui-Yen</span>
+	
+<a href="/vol-11/issue-4/jan-mar-2016/"><center>Back to Issue</center></a>
 	
 #### **NOTES**
 
