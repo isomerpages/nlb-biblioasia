@@ -116,3 +116,21 @@ However, my grandaunt had been so modest and retiring that even her grandchildre
 [^9]: Nan Hua High School, “History,” accessed 15 November 2021, https://nanhuahigh.moe.edu.sg/our-heritage/history. 
 
 [^10]: Lindsay Davis, ed., _Chinese Women’s Association: 100 Fabulous Years_ (Singapore: Editions Didier Millet, [2015]), 20–21. (From National Library, Singapore, Call no. RSING 305.488951095957 CHI)
+
+[^11]: “本坡精武體育會之新職員” [“New Committee Members of the Singapore Chin Woo Athletic Association”], 南洋商报 [_Nanyang Siang Pau_] 14 April 1925, 3. (From NewspaperSG)  
+
+[^12]: 招观海 [Zhao Guan Hai], 天南游记 [_Travel Beneath the Southern Skies_] (n.p.: n.p.,1933), 68–70. (Not available in NLB holdings) 
+
+[13^]: 柯木林 [Ke Mulin; Kua Bak Lim], ed., 新加坡华人通史 [_A General History of the Chinese in Singapore_]. (Singapore: Singapore Federation of Chinese Clan Associations, 2015), p.341. (From National Library, Singapore, Call no. Chinese RSING 959.57004951 GEN-[HI)
+
+[14^]: “佛教訪問…” [“A Buddhist Interview…”], 南洋商报 [_Nanyang Siang Pau_], 22 April 1940, 7. (From NewspaperSG)
+
+[^15]: “總商會籌賑會婦女部召開第一次會議議决全部分爲十二組並選出各組正副主任” [“Women’s Wing of the Chinese Chamber of Commerce, at its First Meeting, Splits into 12 Committees and Appoints their Chairmen and Vice-Chairmen”], 南洋商报 [_Nanyang Siang Pau_], 22 February 1932, 6. (From NewspaperSG)
+
+[^16]: “捐欵千元助賑之黃典嫻及梁鄧氏訪問記” [“Contributing a Thousand Dollars for Disaster Relief, An Interview with Wong Din Haan and Madam Leong Tang”], 南洋商报 [_Nanyang Siang Pau_], 31 August 1937, 7. (From NewspaperSG)
+
+[^17]: “Help for Victims in War Torn China,” _Straits Times_, 12 September 1937, 4. (From NewspaperSG)
+
+[^18]: “星華婦女會昨選出各部職員黃典嫻被舉為正會長” [“Singapore Chinese Ladies Association Elected its Office-bearers Yesterday, Wong Din Haan Elected President”], 南洋商报 [_Nanyang Siang Pau_], 11 April 1939, 8. (From NewspaperSG)
+
+[^19]: “徐悲鴻籌賑畫展在商會繼續舉行今日起至二十六日止婦女會派員担任招待” [“Xu Beihong’s Charity Painting Exhibition for China Relief Fund Held at the Chinese Chamber of Commerce, Will Begin Today until March 26”], 南洋商报 [_Nanyang Siang Pau_], 18 March 1939, 7; “Chinese Women’s Day Celebration,” _Singapore Free Press and Mercantile Advertiser_, 9 March 1940, 5. (From NewspaperSG)
