@@ -19,7 +19,9 @@ layout: post
 <br>
 <b>Type:</b> Book; 40 pages
 <br>
-<b>Location:</b> Call no.: RRARE 992.2 JOU; Microfilm no.: NL 5827
+<b>Call no.:</b> RRARE 992.2 JOU
+<br>
+<b>Accession no.:</b> B03013533B
 </div>
 
 <div style="background-color: white;"><br><img style="width:600px" src="/images/vol-11-issue-4/guide-to-java-and-bali/01_javaandbali.jpg">The title page of <i>Journal of a Tour Along the Coast of Java and Bali</i>. This is the earliest extant English publication printed in Singapore and held in the National Library’s collection. <i>All rights reserved, National Library Board, Singapore.</i></div>
