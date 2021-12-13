@@ -5,6 +5,26 @@ permalink: /vol-11/issue-4/jan-mar-2016/malayathroughoneman
 image: /images/vol-11-issue-4/malaya-through-one-man-eyes/01_malaya.jpg
 layout: post
 ---
+<div style="background-colour:#fdf5e6; padding:20px; margin: 20px; background: #fdf5e6;"><b>ABOUT THE BOOK</b>
+<br><br>
+<b>Title:</b> <i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4250035">British Malaya: An Account of the Origin and Progress of British Influence in Malaya</a></i>
+<br>
+<b>Author:</b> Frank Athelstane Swettenham (1850–1946)
+<br>
+<b>Year published:</b> 1907
+<br>
+<b>Publisher:</b> John Lane the Bodley Head (London)
+<br>
+<b>Language:</b> English
+<br>
+<b>Type:</b> Book; 354 pages
+<br>
+<b>Location:</b> Call no.: RDKSC 959.5 SWE; Microfilm nos.: NL19101, NL3279
+<br>
+<b>Donated by:</b> Koh Seow Chuan</div>
+
+<a href="/vol-11/issue-4/jan-mar-2016/"><center>Back to Issue</center></a>
+
 In the early 1900s, there were few authoritative resources that could provide an accurate picture of Malaya’s colonial history. That changed in 1906, when the book *British Malaya* was published.
 
 Written by Frank Swettenham, the first Resident-General of the Federated Malay States (FMS), the book details the history of the Straits Settlements ports of Singapore, Malacca and Penang – in particular, the establishment of British presence in these colonies.
@@ -36,24 +56,6 @@ Swettenham was born in 1850 in Derbyshire, England. He came to Singapore in 1871
 The FMS was instituted in 1895 after Swettenham secured agreements from the Malay rulers. He served as its first Resident-General from 1896 to 1901. In 1897 Swettenham was knighted, and in 1901, reached the pinnacle of his career with his appointment as the High Commissioner of the Malay States and Governor of the Straits Settlements.[^7]
 
 **Written by:** Gracie Lee
-
-<div style="background-colour:#fdf5e6; padding:20px; margin: 20px; background: #fdf5e6;"><b>ABOUT THE BOOK</b>
-<br><br>
-<b>Title:</b> <i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4250035">British Malaya: An Account of the Origin and Progress of British Influence in Malaya</a></i>
-<br>
-<b>Author:</b> Frank Athelstane Swettenham (1850–1946)
-<br>
-<b>Year published:</b> 1907
-<br>
-<b>Publisher:</b> John Lane the Bodley Head (London)
-<br>
-<b>Language:</b> English
-<br>
-<b>Type:</b> Book; 354 pages
-<br>
-<b>Location:</b> Call no.: RDKSC 959.5 SWE; Microfilm nos.: NL19101, NL3279
-<br>
-<b>Donated by:</b> Koh Seow Chuan</div>
 
 <a href="/vol-11/issue-4/jan-mar-2016/"><center>Back to Issue</center></a>
 
