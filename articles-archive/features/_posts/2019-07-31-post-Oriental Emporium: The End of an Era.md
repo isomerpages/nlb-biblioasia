@@ -3,6 +3,7 @@ title: "Oriental Emporium: The End of an Era"
 permalink: /vol-15/issue-2/jul-sep-2019/oriental-emporium/
 date: 2019-07-31
 layout: post
+image: /images/Vol-15-issue-2/oriental-emporium/Emporium1.JPG
 description: ""
 ---
 #### The Emporium chain of department stores entered the scene when the retail market in Singapore was still in its infancy. Kam Kit Geok takes a closer look at a much-loved shopping icon.
