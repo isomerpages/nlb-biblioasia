@@ -36,7 +36,7 @@ The Chinese community in particular was anxious not to be outdone. More than 80 
 
 On 3 December 1869, the very day the prince landed in Singapore, likely at Johnston’s Pier near Fullerton Square, the Loyalty Address – dated 25 November 1869 – was presented to him as a symbol of the Straits Chinese community’s loyalty and gratitude.[^6]
 
-<div style="background-color: white;"><img style="width:500px" src="/images/vol-11-issue-4/a-tribute-of-a-prince/03b_tributeprince.jpg">A view of Johnston’s Pier with Commercial Square (present-day Raffles Place) in the background. Prince Alfred most likely disembarked from Johnston’s Pier when he arrived in Singapore. <i>Fotoalbum Singapur by G. R. Lambert & Co. (1890). All rights reserved, National Library Board, Singapore.</i></div>
+<div style="background-color: white;"><img style="width:500px" src="/images/vol-11-issue-4/a-tribute-of-a-prince/03e_tributeprince.jpg">A view of Johnston’s Pier with Commercial Square (present-day Raffles Place) in the background. Prince Alfred most likely disembarked from Johnston’s Pier when he arrived in Singapore. <i>Fotoalbum Singapur by G. R. Lambert & Co. (1890). All rights reserved, National Library Board, Singapore.</i></div>
 
 The Address is suitably grand for a royal recipient, with the message written on six panels of fuchsia-coloured silk, folded into a single sheet and with front and back covers made of carved wood. Phoenixes were carved into the wooden panels such that when the document is opened they appear to be facing each other across the expanse of silk. The reverse side of the Address is a panorama of Singapore viewed from Telok Ayer, executed on cream-coloured silk and inspired by an oil painting by the English artist Percy Carpenter (1820-95).
 
