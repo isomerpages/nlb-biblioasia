@@ -152,13 +152,13 @@ As these examples demonstrate, there is still a market for the occasional drive-
 
 [^30]:“[*It’s Curtains for Jurong Drive-in Tomorrow*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850929.2.24.1.aspx)”; “[*Dismay at Drive-in*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850929-1.2.5),” *Straits Times*, 29 September 1985, 1; “[*Page 4 Advertisements Column 2*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850929-1.2.57.8.2),” *Straits Times*, 29 September 1985, 4. (From NewspaperSG); “The Woman of Wrath,” Letterboxd, accessed 23 July 2021, https://letterboxd.com/film/the-woman-of-wrath/.
 
-[^31]:Uhde and Uhde, *Latent Images*, 198; “It’s Curtains for Jurong Drive-in Tomorrow.”
+[^31]:Uhde and Uhde, [*Latent Images*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=13186916), 198; “[*It’s Curtains for Jurong Drive-in Tomorrow.*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850929.2.24.1.aspx)”
 
-[^32]:“Jurong Plans Cinema to Pull Crowds Back,” *New Paper*, 30 September 1989, 2. (From NewspaperSG); “Back Then When Jurong’s Drive-in Cinema Was All the Rage,” Remember Singapore, 15 September 2020, https://remembersingapore.org/2020/09/15/jurong-drive-in-cinema-history/.
+[^32]: “[*Jurong Plans Cinema to Pull Crowds Back*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper19890930-1.2.3.3),” *New Paper*, 30 September 1989, 2. (From NewspaperSG); “Back Then When Jurong’s Drive-in Cinema Was All the Rage,” Remember Singapore, 15 September 2020, https://remembersingapore.org/2020/09/15/jurong-drive-in-cinema-history/.
 
-[^33]:“Movie Bonuses at Fringe Fest,” *Straits Times*, 1 May 1996, 7. (From NewspaperSG)
+[^33]: “[*Movie Bonuses at Fringe Fest*](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19960501.2.64.6.1),” *Straits Times*, 1 May 1996, 7. (From NewspaperSG)
 
-[^34]:How Hwee Young, “Reliving the Good Old Days,” *Straits Times*, 23 February 2003, 4. (From NewspaperSG)
+[^34]: How Hwee Young, “[*Reliving the Good Old Days*](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20030223-1.2.7.4),” *Straits Times*, 23 February 2003, 4. (From NewspaperSG)
 
 [^35]:“MovieMob,” Ape Works Pte Ltd, last modified 2019, https://www.ape.sg/moviemob.html; MovieMob, Facebook, 2020, https://www.facebook.com/apemoviemob; “Cycle & Carriage and Citroën Organise French Drive-in Movie,” Marketing Interactive, 15 February 2016, https://www.marketing-interactive.com/cycle-carriage-citroen-organise-french-drive-movie.
 
