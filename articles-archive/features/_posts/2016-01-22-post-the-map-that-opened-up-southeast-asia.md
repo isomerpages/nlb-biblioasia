@@ -19,7 +19,9 @@ layout: post
 <br>
 <b>Type:</b> Map; 39cm by 52cm
 <br>
-<b>Location:</b> Call n.o.: RRARE 912.5 LIN
+<b>Call no.:</b> RRARE 912.5 LIN
+<br>
+<b>Accession no.:</b> B26055964D
 <br>
 <b>Donated by:</b> Koh Seow Chuan (monochrome version)</span>
 
