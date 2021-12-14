@@ -24,7 +24,7 @@ description: ""
 
 Among the 19 letters held in the Rare Materials Collection of the National Library is one from Stamford Raffles to his business agent and friend, John Tayler, a London-based East India merchant. Interesting, this is also the first letter by Raffles that the National Library acquired in 1987.
 	
-<div style="background-color: white;"><img style="width:450px" src="/images/vol-11-issue-4/anglo-dutch-political/01_political.jpg">This is the first letter by Stamford Raffles acquired by the National Library in 1987. Dated 9 June 1819, the letter was addressed to John Tayler, his business agent and friend. <i>All rights reserved, National Library Board, Singapore.</i></div>
+<div style="background-color: white;"><img style="width:450px" src="/images/vol-11-issue-4/anglo-dutch-political/01_political.jpg">This is the first letter by Stamford Raffles acquired by the National Library in 1987. Dated 9 June 1819, the letter was addressed to John Tayler, his business agent and friend. <i>Image source: National Library Board, Singapore.</i></div>
 
 This handwritten letter is slightly unusual in the sense that it reveals Raffles’ private thoughts to a confidant and friend, and offers his first-hand insights into the rivalry between the British and the Dutch in the Malay Archipelago.
 
