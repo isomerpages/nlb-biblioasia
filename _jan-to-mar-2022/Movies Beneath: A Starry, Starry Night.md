@@ -126,6 +126,10 @@ As these examples demonstrate, there is still a market for the occasional drive-
 
 [^17]:“The Mad Scramble to Get Out First.”
 
+[^18]:“Untitled,” *Straits Times*, 24 November 1972, 21. (From NewspaperSG)
 
+[^19]:Mid-Nightmare, “Too Noisy to Sleep,” *Straits Times*, 24 August 1982, 15. (From NewspaperSG)
 
+[^20]:Yeow Shang Ying, “Action Taken at Drive-in,” *Straits Times*, 27 September 1982, 15. (From NewspaperSG)
 
+[^21]:
