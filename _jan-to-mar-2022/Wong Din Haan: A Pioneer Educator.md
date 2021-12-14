@@ -143,4 +143,4 @@ However, my grandaunt had been so modest and retiring that even her grandchildre
 
 [^18]: “星華婦女會昨選出各部職員黃典嫻被舉為正會長” [“Singapore Chinese Ladies Association Elected its Office-bearers Yesterday, Wong Din Haan Elected President”], 南洋商报 [_Nanyang Siang Pau_], 11 April 1939, 8. (From NewspaperSG)
 
-[^19]: “徐悲鴻籌賑畫展在商會繼續舉行今日起至二十六日止婦女會派員担任招待” [“Xu Beihong’s Charity Painting Exhibition for China Relief Fund Held at the Chinese Chamber of Commerce, Will Begin Today until March 26”], 南洋商报 [_Nanyang Siang Pau_], 18 March 1939, 7; “Chinese Women’s Day Celebration,” _Singapore Free Press and Mercantile Advertiser_, 9 March 1940, 5. (From NewspaperSG) 
+[^19]: “徐悲鴻籌賑畫展在商會繼續舉行今日起至二十六日止婦女會派員担任招待” [“Xu Beihong’s Charity Painting Exhibition for China Relief Fund Held at the Chinese Chamber of Commerce, Will Begin Today until March 26”], 南洋商报 [_Nanyang Siang Pau_], 18 March 1939, 7; “Chinese Women’s Day Celebration,” _Singapore Free Press and Mercantile Advertiser_, 9 March 1940, 5. (From NewspaperSG)
