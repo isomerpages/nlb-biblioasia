@@ -38,7 +38,7 @@ Those early days were tumultuous times for Singapore, and the letter testifies t
 
 Raffles continued to face opposition from his own side as he tried to establish a foothold in the Far East. A strong opponent to his political manoeuvres was his superior, Colonel Bannerman. The Penang authorities had fought bitterly against the founding of Singapore, which they knew would pose a serious threat to the trade in Penang. At the peak of his resistance, Bannerman refused to send military reinforcements to Singapore when it faced possible Dutch expulsion, and the rift between the two deepened when Raffles’ bid for Bannerman’s post in Penang conflicted with the latter’s plans to pass the baton to his son-in-law, William E. Phillips.
 	
-<div style="background-color: white;"><img style="width:400px" src="/images/vol-11-issue-4/anglo-dutch-political/03_political.jpg">Colonel John Alexander Bannerman (1759–1819), Governor of Penang from 1817–19. Photo found on page 23 of the book. <i>All rights reserved, Cartwright, A., & Cartwright, H. A. (1908). Twentieth Century Impressions of British Malaya: Its History, People, Commerce, Industries, and Resources. London: lloyd’s Greater Britain Publishing Company, Ltd.</i></div>
+<div style="background-color: white;"><img style="width:350px" src="/images/vol-11-issue-4/anglo-dutch-political/03_political.jpg">Colonel John Alexander Bannerman (1759–1819), Governor of Penang from 1817–19. Photo found on page 23 of the book. <i>All rights reserved, Cartwright, A., & Cartwright, H. A. (1908). Twentieth Century Impressions of British Malaya: Its History, People, Commerce, Industries, and Resources. London: lloyd’s Greater Britain Publishing Company, Ltd.</i></div>
 
 The loss of Java to Holland in 1816 had divested Raffles of a position of high status and power, as he was  previously the Lieutenant-Governor  of Java,[^5] and the rivalry for the Penang post was alluded to in Raffles’ letter, where he justified his “stronger claims” over Bannerman’s familial stake in the governorship.[^6]
 
@@ -58,20 +58,20 @@ In 2012, the letter was transcribed by Dr John Bastin, an eminent scholar and a 
 
 [^1]:Turnbull, C.M. (2002). Penang’s changing role in the Straits Settlements, 1826–1946 (p. 4). *The Penang Story – International Conference 2002*. Retrieved from Taman Sri Nibong RA Log website.
 
-[^2]:Dobbs, S. (2003). *[The Singapore River: A social history, 1819–2002](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12149559)* (p. 7). Singapore: Singapore University Press. (Call no.: RSING 959.57 DOB)
+[^2]:Dobbs, S. (2003). *[The Singapore River: A social history, 1819–2002](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12149559)* (p. 7). Singapore: Singapore University Press. Call no.: RSING 959.57 DOB-[HIS]
 
-[^3]:Glendinning, V. (2012). *[Raffles and the golden opportunity 1781–1826](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14482247)* (p. 234). London: Profile Books. (Call no.: RSING 959.57021092 GLE)
+[^3]:Glendinning, V. (2012). *[Raffles and the golden opportunity 1781–1826](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14482247)* (p. 234). London: Profile Books. Call no.: RSING 959.57021092 GLE-[HIS]
 
-[^4]:Webster, A. (1998). *[Gentlemen capitalists: British imperialism in South East Asia, 1770–1890](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9348910)* (pp. 88–100) London; New York: Tauris Academic Studies. (Call no.: RSING 959 WEB) 
+[^4]:Webster, A. (1998). *[Gentlemen capitalists: British imperialism in South East Asia, 1770–1890](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9348910)* (pp. 88–100) London; New York: Tauris Academic Studies. Call no.: RSING 959 WEB
 
 [^5]:[Webster](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9348910), 1998, p. 70.
 
-[^6]:Bastin, J. (2012). *[The founding of Singapore 1819](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14404109)* (pp. 128–129). Singapore: National Library Board. (Call no.: RSING 959.5703 BAS)
+[^6]:Bastin, J. (2012). *[The founding of Singapore 1819](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14404109)* (pp. 128–129). Singapore: National Library Board. Call no.: RSING 959.5703 BAS-[HIS]
 
 [^7]:[Glendinning](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14482247), 2012, pp. 228–231.
 
 [^8]:National Library of Australia. (2001). *Treasures from the world’s great libraries.* Retrieved from National Library of Australia website.
 
-[^9]:National Library Board. (2002). *[Annual report 2001/2002](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8771296)* (p. 24). Singapore: National Library Board. (Call no.: RCLOS q027.05957 SNLBAR-[AR])
+[^9]:National Library Board. (2002). *[Annual report 2001/2002](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8771296)* (p. 24). Singapore: National Library Board. Call no.: RCLOS q027.05957 SNLBAR-[AR]
 
 [^10]:[Bastin](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14404109), 2012, Preface.
