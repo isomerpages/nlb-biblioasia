@@ -114,7 +114,7 @@ However, my grandaunt had been so modest and retiring that even her grandchildre
 
 #### **NOTES**
 
-[^1]: 郑良树 [Zheng Liang Shu], “新马华社早期的女子教育” [“Early Education for Girls in the New Malayan Society”], 马来西亚华人研究学刊 [Journal of Malaysian Chinese Studies](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84445336), no. 1 (1997), 49. (From National Library, Singapore, Call no. RU 959.5004951 JMCS) 
+[^1]: 郑良树 [Zheng Liang Shu], “新马华社早期的女子教育” [“Early Education for Girls in the New Malayan Society”], 马来西亚华人研究学刊 [_Journal of Malaysian Chinese Studies_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84445336), no. 1 (1997), 49. (From National Library, Singapore, Call no. RU 959.5004951 JMCS) 
 
 [^2]: Hailing from Guangdong province, China, Wong Ah Fook came to Singapore in 1854 as a carpenter. He first established himself in the building business before venturing into agriculture, revenue farming and banking. He was responsible for the construction of a number of Johor’s heritage buildings, including the Istana Besar, the royal palace of the Sultan of Johor. Jalan Wong Ah Fook in downtown Johor Bahru is named after him.
 
@@ -136,9 +136,9 @@ However, my grandaunt had been so modest and retiring that even her grandchildre
 
 [^11]: "[本坡精武體育會之新職員](eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19250414-1.2.13)" [“New Committee Members of the Singapore Chin Woo Athletic Association”], 南洋商报 [_Nanyang Siang Pau_] 14 April 1925, 3. (From NewspaperSG)  
 
-[^12]: 招观海 [Zhao Guan Hai], 天南游记 [_Travel Beneath the Southern Skies_] (n.p.: n.p.,1933), 68–70. (Not available in NLB holdings) 
+[^12]: 招观海 [Zhao Guan Hai], _天南游记_ [_Travel Beneath the Southern Skies_] (n.p.: n.p.,1933), 68–70. (Not available in NLB holdings) 
 
-[^13]: 柯木林 [Ke Mulin; Kua Bak Lim], ed., [新加坡华人通史](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202251084) [_A General History of the Chinese in Singapore_]. (Singapore: Singapore Federation of Chinese Clan Associations, 2015), p.341. (From National Library, Singapore, Call no. Chinese RSING 959.57004951 GEN-[HI)
+[^13]: 柯木林 [Ke Mulin; Kua Bak Lim], ed., _[新加坡华人通史]_(https://eservice.nlb.gov.sg/item_holding.aspx?bid=202251084) [_A General History of the Chinese in Singapore_]. (Singapore: Singapore Federation of Chinese Clan Associations, 2015), p.341. (From National Library, Singapore, Call no. Chinese RSING 959.57004951 GEN-[HI)
 
 [^14]: "[佛教訪問…](eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19400422-1.2.57.1)" [“A Buddhist Interview…”], 南洋商报 [_Nanyang Siang Pau_], 22 April 1940, 7. (From NewspaperSG)
 
