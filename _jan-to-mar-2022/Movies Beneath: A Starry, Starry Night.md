@@ -116,9 +116,9 @@ As these examples demonstrate, there is still a market for the occasional drive-
 
 [^12]: Lim, [*Cathay*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=6095688), 69; Uhde and Uhde, [*Latent Images*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=13186916), 198; “[*Jurong Drive-in’s Lot is an Unhappy one.*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19811210-1.2.57)” ; “Back Then When Jurong’s Drive-in Cinema was All the Rage,” Remember Singapore, 15 September 2020, https://remembersingapore.org/2020/09/15/jurong-drive-in-cinema-history/.
 
-[^13]:Ronald Goh Wee Huat, oral history interview by Teo Kian Giap, 15 February 2013, transcript and MP3 audio, Reel/Disc 3 of 6. (From National Archives of Singapore, Accession no. 003790) 
+[^13]: [Ronald Goh Wee Huat]() , oral history interview by Teo Kian Giap, 15 February 2013, transcript and MP3 audio, Reel/Disc 3 of 6. (From National Archives of Singapore, Accession no. 003790) 
 
-[^14]:Lim, *Cathay*, 69.
+[^14]:Lim, [*Cathay*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=6095688), 69.
 
 [^15]:“It’s Curtains for Jurong Drive-in Tomorrow.”
 
