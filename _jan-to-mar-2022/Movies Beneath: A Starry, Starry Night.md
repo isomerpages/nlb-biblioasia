@@ -148,9 +148,9 @@ As these examples demonstrate, there is still a market for the occasional drive-
 
 [^28]:“[*Jurong Drive-in’s Lot is an Unhappy One.*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19811210-1.2.57)”
 
-[^29]:“It’s Curtains for Jurong Drive-in Tomorrow.”
+[^29]:“[*It’s Curtains for Jurong Drive-in Tomorrow.*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850929.2.24.1.aspx)”
 
-[^30]:“It’s Curtains for Jurong Drive-in Tomorrow”; “Dismay at Drive-in,” *Straits Times*, 29 September 1985, 1; “Page 4 Advertisements Column 2,” *Straits Times*, 29 September 1985, 4. (From NewspaperSG); “The Woman of Wrath,” Letterboxd, accessed 23 July 2021, https://letterboxd.com/film/the-woman-of-wrath/.
+[^30]:“[*It’s Curtains for Jurong Drive-in Tomorrow*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850929.2.24.1.aspx)”; “[*Dismay at Drive-in*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850929-1.2.5),” *Straits Times*, 29 September 1985, 1; “[*Page 4 Advertisements Column 2*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850929-1.2.57.8.2),” *Straits Times*, 29 September 1985, 4. (From NewspaperSG); “The Woman of Wrath,” Letterboxd, accessed 23 July 2021, https://letterboxd.com/film/the-woman-of-wrath/.
 
 [^31]:Uhde and Uhde, *Latent Images*, 198; “It’s Curtains for Jurong Drive-in Tomorrow.”
 
