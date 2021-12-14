@@ -5,6 +5,23 @@ permalink: /vol-11/issue-4/jan-mar-2016/rafflesletterintrigue
 image: /images/vol-11-issue-4/raffles-letter-of-intrigue/01_rafflesletter.jpg
 layout: post
 ---
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;">
+	<b>Title:</b> <i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=13186897">Letters from Sir Thomas Stamford Raffles to Lord Lansdowne</a></i>
+<br>
+<b>Author:</b> Stamford Raffles (1781–1826)
+<br>
+<b>Year written:</b> <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=13186897">15 April 1820</a>; <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=13186898">19 January 1821</a>; <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=13186899">1 March 1822</a>; <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=13186900">20 January 1823</a>
+<br>
+<b>Language:</b> English
+<br>
+<b>Type:</b> Manuscript; 25cm by 20cm
+<br>
+<b>Call no.:</b> Call no.: RRARE 959.5703 RAF
+<br>
+<b>Accession nos.: </b>B20072355B; B20072356C;
+B20072357D; B20072358E
+</span>
+
 Singapore was almost not founded by Stamford Raffles. Four letters that detail Raffles’ passionate defence to establish a British trading outpost on the island in 1819 offer insight into the objections he faced from the Dutch as well as his own British masters. Written between 1820 and 1823 to Henry Petty-Fitzmaurice, the 3rd Marquess of Lansdowne, the letters reveal the lengths that Raffles went to persuade his superiors at the British East India Company (EIC) of Singapore’s achievements and its growing importance as a regional trading hub.
 
 <div style="background-color: white;"><br><img src="/images/vol-11-issue-4/raffles-letter-of-intrigue/01_rafflesletter.jpg">A letter from Stamford Raffles to Lord Lansdowne on display at the National Library’s Rare Collections Gallery on level 13 of the National Library Building. There are a total of 19 letters penned by Raffles in the possession of the National Library. <i>All rights reserved, National Library Board, Singapore.</i></div>
@@ -45,21 +62,9 @@ In 2012, these four letters were part of an exhibition displaying 20 letters wri
 
 **Written by:** Ong Eng Chuan
 
-<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>ABOUT THE MANUSCRIPT</b>
-<br><br>
-	<b>Title:</b> <i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=13186897">Letters from Sir Thomas Stamford Raffles to Lord Lansdowne</a></i>
-<br>
-<b>Author:</b> Stamford Raffles (1781–1826)
-<br>
-<b>Year written:</b> <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=13186897">15 April 1820</a>; <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=13186898">19 January 1821</a>; <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=13186899">1 March 1822</a>; <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=13186900">20 January 1823</a>
-<br>
-<b>Language:</b> English
-<br>
-<b>Type:</b> Manuscript; 25cm by 20cm
-<br>
-<b>Location:</b> Call no.: RRARE 959.5703 RAF</span>
-
 #### **NOTES**
+
+<a href="/vol-11/issue-4/jan-mar-2016/"><center>Back to Issue</center></a>
 
 [^1]:Glendinning, V. (2012). *[Raffles and the golden opportunity 1781–1826](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14482247)* (p. 209). London: Profile Books. (Call no.: RSING 959.57021092 GLE); Turnbull, C.M. (2009). *[A history of modern Singapore, 1819–2005](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13206047)* (p. 29). Singapore: NUS Press. (Call no.: RSING 959.57 TUR)
 
