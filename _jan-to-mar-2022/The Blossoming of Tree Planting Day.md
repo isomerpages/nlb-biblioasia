@@ -92,3 +92,12 @@ Since the unveiling of the OneMillionTrees Movement, about 100 individuals and m
 
 Beyond planting more trees, the OneMillionTrees Movement is about, as Minister for National Development Desmond Lee said, nurturing “a whole new generation of Singaporeans to carry on [the] responsibility to keep planting and nurturing trees for the benefit of future Singaporeans”.[^31] Some five decades after the initial Tree Planting Day event, it appears that the idea has well and truly taken root. 
 
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-17-issue-4/authors/FarisJoraimi.png" style="width: 100px; height: 100px;" />
+  <b>Lim Tin Seng</b> is a Librarian with the National Library, Singapore. He is the co-editor of <i>Roots: Tracing Family Histories – A Resource Guide</i> (2013), <i>Harmony and Development</i>: <i>ASEAN-China Relations</i> (2009) and <i>China’s New Social Policy: Initiatives for a Harmonious Society</i> (2010). He writes regularly for <i>BiblioAsia</i>.</div>
+
+
+#### **NOTES**
+
+[^1]: “Dr Goh Plants Tree to Launch T-Day,” _Straits Times_, 8 November 1971, 17. (From NewspaperSG)
