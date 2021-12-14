@@ -58,7 +58,7 @@ The huge amount of trash left behind by cinemagoers each night was also a concer
 
 There were also instances of break-ins and thefts at Jurong Drive-in, though not always competently done. On 3 May 1977, “eight masked youths armed with parangs and iron pipes broke into the restaurant and office of Jurong drive-in cinema. They earlier held up two security guards on rounds in the compound at 3 am and tied them with wire. After ransacking the premises for some time, they managed to get away with only a torchlight worth $5.25”.[^23]
 
-Waning Fortunes
+####**Waning Fortunes**
 
 Attendance at the Jurong Drive-in dropped drastically towards the end of the 1970s and early 80s. The manager of the drive-in, Peter Teo, lamented that “the novelty of the drive-in has worn off and we’d be extremely lucky if we got half the place full”.[^24]
 
@@ -68,7 +68,7 @@ In his oral history interview, former Jurong Drive-in employee Ronald Goh said: 
 
 From the late 1970s, Cathay tried several methods to draw audiences in, such as distributing free gifts to children attending Walt Disney films at the drive-in, screening first-run English films and offering cheaper tickets than those sold at other cinemas. Unfortunately, Cathay was unsuccessful in reversing the trend.[^27]
 
-As early as 1980, Cathay was already considering shuttering the drive-in but decided to let it continue operating until the lease of the land (from the Jurong Town Corporation) on which it stood expired in 1985. On 10 December 1981, the Straits Times reported that “[at]t the peak of [Jurong Drive-in’s] popularity in the early 1970s, it was fully packed every night, especially when it screened films of the late *kung-fu* star Bruce Lee. But once the novelty of Singapore’s only drive-in cinema wore off, nothing has been able to bring back the crowds. Today, only 100 cars are seen there on an average night, though weekends fare better”. A spokesman for Cathay Organisation said: “We have tried almost everything and have almost given up hope. The novelty of the drive-in seems to have faded.”[^28]
+As early as 1980, Cathay was already considering shuttering the drive-in but decided to let it continue operating until the lease of the land (from the Jurong Town Corporation) on which it stood expired in 1985. On 10 December 1981, the *Straits Times* reported that “[at]t the peak of [Jurong Drive-in’s] popularity in the early 1970s, it was fully packed every night, especially when it screened films of the late *kung-fu* star Bruce Lee. But once the novelty of Singapore’s only drive-in cinema wore off, nothing has been able to bring back the crowds. Today, only 100 cars are seen there on an average night, though weekends fare better”. A spokesman for Cathay Organisation said: “We have tried almost everything and have almost given up hope. The novelty of the drive-in seems to have faded.”[^28]
 
 Cathay also blamed video pirates for poor attendance figures and the slump in the film industry. “Video pirates have been taking advantage of Singapore’s loose copyright laws. They have even been advertising their videotape rental services,” said Cathay spokesperson Geraldine Lee in 1985. According to Lee, about 200 people were going to the drive-in cinema for its two daily screenings and the situation was no better on weekends.[^29]
 
