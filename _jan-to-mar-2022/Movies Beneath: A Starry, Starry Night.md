@@ -92,6 +92,7 @@ As these examples demonstrate, there is still a market for the occasional drive-
 
 #### **NOTES**
 
-[^1]: “Cathay’s Jurong Drive-in Cinema,”  *Straits Times* , 14 July 1971, 18. (From NewspaperSG)
+[^1]: “Cathay’s Jurong Drive-in Cinema,” *Straits Times* , 14 July 1971, 18. (From NewspaperSG)
 
-[^2]: Leonard Y. Andaya, “Johor-Riau Empire,” in [*Southeast Asia: A Historical Encyclopedia from Angkor Wat to East Timor*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12394521), ed. Ooi Keat Gin (Santa Barbara: U.C. Santa Barbara Press, 2004), 699. (From National Library, Singapore, Call no. RSING q959.003 SOU)
+[^2]: “Cathay’s Jurong Drive-in Cinema”; *Lim Kay Tong*, “Some Close Encounters at the Drive-in,” Straits Times, 18 December 1983, 9. (From NewspaperSG)
+
