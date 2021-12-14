@@ -62,7 +62,7 @@ There were also instances of break-ins and thefts at Jurong Drive-in, though not
 
 Attendance at the Jurong Drive-in dropped drastically towards the end of the 1970s and early 80s. The manager of the drive-in, Peter Teo, lamented that “the novelty of the drive-in has worn off and we’d be extremely lucky if we got half the place full”.[^24]
 
-Said the New Nation: “Jurong is a bit out of the way, even for motorists. More comfortable and better cinemas are sprouting everywhere today, especially in HDB [Housing & Development Board] new towns and estates, showing much the same stuff as Jurong drive-in. Coming home from distant Jurong to a HDB carpark late at night and having to search every nook and corner for a lot can be a deterring experience.”[^25]
+Said the *New Nation*: “Jurong is a bit out of the way, even for motorists. More comfortable and better cinemas are sprouting everywhere today, especially in HDB [Housing & Development Board] new towns and estates, showing much the same stuff as Jurong drive-in. Coming home from distant Jurong to a HDB carpark late at night and having to search every nook and corner for a lot can be a deterring experience.”[^25]
 
 In his oral history interview, former Jurong Drive-in employee Ronald Goh said: “I guess once the novelty wears off… the sound system is not so good, you have a small speaker… for serious cinemagoers, I don’t think they will enjoy the experience of going to the cinema. If you want to watch a proper movie, then with a proper sound system, of course, the theatre... It’s more for novelty, for dating teenagers that want to go to the cinema in a car and that’s it.”[^26]
 
