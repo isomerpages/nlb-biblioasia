@@ -22,13 +22,13 @@ layout: post
 B20072357D; B20072358E
 </span>
 
-Singapore was almost not founded by Stamford Raffles. Four letters that detail Raffles’ passionate defence to establish a British trading outpost on the island in 1819 offer insight into the objections he faced from the Dutch as well as his own British masters. Written between 1820 and 1823 to Henry Petty-Fitzmaurice, the 3rd Marquess of Lansdowne, the letters reveal the lengths that Raffles went to persuade his superiors at the British East India Company (EIC) of Singapore’s achievements and its growing importance as a regional trading hub.
+Singapore was almost *not* founded by Stamford Raffles. Four letters that detail Raffles’ passionate defence to establish a British trading outpost on the island in 1819 offer insight into the objections he faced from the Dutch as well as his own British masters. Written between 1820 and 1823 to Henry Petty-Fitzmaurice, the 3rd Marquess of Lansdowne, the letters reveal the lengths that Raffles went to persuade his superiors at the British East India Company (EIC) of Singapore’s achievements and its growing importance as a regional trading hub.
 
 <div style="background-color: white;"><br><img src="/images/vol-11-issue-4/raffles-letter-of-intrigue/01_rafflesletter.jpg">A letter from Stamford Raffles to Lord Lansdowne on display at the National Library’s Rare Collections Gallery on level 13 of the National Library Building. There are a total of 19 letters penned by Raffles in the possession of the National Library. <i>All rights reserved, National Library Board, Singapore.</i></div>
 
 The first letter (17 pages) was dated 15 April 1820; the second letter (15 pages) 19 January 1821; the third (12 pages) 1 March 1822; and the fourth (7 pages) 20 January 1823.
 
-It was a precarious time for the newly established settlement. Even though Raffles had signed a treaty with Sultan Hussein Shah of Johor and Temenggong Abdul Rahman on 6 February 1819 to establish a trading post on the island, the move was opposed by the Dutch, who argued that Singapore, as part of Riau’s territories, was rightfully theirs. However, Raffles knew that acquiring a trading point south of Malacca was the only way to counter the rise of the Dutch and to maintain Britain’s position in the India and China trade route.[^1]
+It was a precarious time for the newly established settlement. Even though Raffles had signed a treaty with Sultan Hussein Shah of Johor and Temenggung Abdul Rahman on 6 February 1819 to establish a trading post on the island, the move was opposed by the Dutch, who argued that Singapore, as part of Riau’s territories, was rightfully theirs. However, Raffles knew that acquiring a trading point south of Malacca was the only way to counter the rise of the Dutch and to maintain Britain’s position in the India and China trade route.[^1]
 
 <div style="background-color: white;"><br><img src="/images/vol-11-issue-4/raffles-letter-of-intrigue/02_rafflesletter.jpg">The signature of Stamford Raffles can be clearly seen at the bottom of this letter. <i>All rights reserved, National Library Board, Singapore.</i></div>
 
@@ -38,9 +38,7 @@ It was against this hostile backdrop that Raffles wrote to Lord Lansdowne for hi
 
 Raffles first wrote to Lansdowne on 15 April 1820 about Singapore:
 
-– When I hoisted the British flag the population scarcely amounted to 200 souls, in three months the number was not less than 3,000, and it now exceeds 10,000 principally Chinese
-
-– No less than 173 sail of vessels of different descriptions, principally Native, arrived & sailed in the course of the first two months, and it already has become a Commercial Port of importance –[^4]
+– When I hoisted the British flag the population scarcely amounted to 200 souls, in three months the number was not less than 3,000, and it now exceeds 10,000 principally Chinese – No less than 173 sail of vessels of different descriptions, principally Native, arrived & sailed in the course of the first two months, and it already has become a Commercial Port of importance –[^4]
 
 Raffles reiterated his vision for advancing British interests in the east, and complained about the difficulties he encountered from the Governor of Penang.[^5] In his second letter written on 19 January 1821, Raffles again emphasised Singapore’s success as a free port:
 
@@ -66,11 +64,11 @@ In 2012, these four letters were part of an exhibition displaying 20 letters wri
 
 <a href="/vol-11/issue-4/jan-mar-2016/"><center>Back to Issue</center></a>
 
-[^1]:Glendinning, V. (2012). *[Raffles and the golden opportunity 1781–1826](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14482247)* (p. 209). London: Profile Books. (Call no.: RSING 959.57021092 GLE); Turnbull, C.M. (2009). *[A history of modern Singapore, 1819–2005](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13206047)* (p. 29). Singapore: NUS Press. (Call no.: RSING 959.57 TUR)
+[^1]:Glendinning, V. (2012). *[Raffles and the golden opportunity 1781–1826](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14482247)* (p. 209). London: Profile Books. (Call no.: RSING 959.57021092 GLE-[HIS]); Turnbull, C.M. (2009). *[A history of modern Singapore, 1819–2005](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13206047)* (p. 29). Singapore: NUS Press. (Call no.: RSING 959.57 TUR-[HIS])
 
-[^2]:[Glendinning](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14482247), 2012, p. 207; Tan, K., & Lim, C.S. (2012). *[Raffles’ letters: Intrigues behind the founding of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14447075)* (p. 75). Singapore: National Library Board. (Call no.: RSING 959.5703 TAN)
+[^2]:[Glendinning](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14482247), 2012, p. 207; Tan, K., & Chen, S. (2012). *[Raffles’ letters: Intrigues behind the founding of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14447075)* (p. 75). Singapore: National Library Board. (Call no.: RSING 959.5703 TAN-[HIS])
 
-[^3]:Bastin, J. (2014). *[Raffles and Hastings: Private exchanges behind the founding of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200867141)* (pp. 210–211). Singapore: National Library Board Singapore [and] Marshall Cavendish Editions. (Call no.: RSING 959.5703 BAS); [Tan & Lim](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14447075), 2012, p. 19.
+[^3]:Bastin, J. (2014). *[Raffles and Hastings: Private exchanges behind the founding of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200867141)* (pp. 210–211). Singapore: National Library Board Singapore [and] Marshall Cavendish Editions. (Call no.: RSING 959.5703 BAS-[HIS]); [Tan & Chen](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14447075), 2012, p. 19.
 
 [^4]:[Bastin](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200867141), 2014, p. 148.
 
@@ -82,7 +80,7 @@ In 2012, these four letters were part of an exhibition displaying 20 letters wri
 
 [^8]:[Bastin](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200867141), 2014, p. 158.
 
-[^9]:[Bastin](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200867141), 2014, p. 158; [Tan & Lim](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14447075), 2012, p. 23.
+[^9]:[Bastin](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200867141), 2014, p. 158; [Tan & Chen](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14447075), 2012, p. 23.
 
 [^10]:[Bastin](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200867141), 2014, p. 205.
 
