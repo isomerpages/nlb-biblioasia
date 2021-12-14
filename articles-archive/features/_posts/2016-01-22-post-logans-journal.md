@@ -39,7 +39,7 @@ In 1843, Logan relocated to Singapore, where he worked in partnership with his b
 
 Logan started the journal in 1847 while living in Singapore and edited its articles until 1862.[^15] He displayed such dedication to his work that the journal became synonymous with his name: “Logan’s Journal” was how many referred to it. Logan personally contributed numerous articles to the journal, including “The Present Condition of the Indian Archipelago” (Vol. 1, 1847, pp. 1–21), an essay on his observations of Indonesia’s history, and considered as one of the more important papers  published  in the journal.[^16]
 
-<div style="background-color: white;"><img style="width:500px" src="/images/vol-11-issue-4/logan-journal/02a_loganjournal.jpg">A pull-out page showing the cross-section of the Horsburgh Lighthouse. <i>All rights reserved, National Library Board, Singapore.</i></div>
+<div style="background-color: white;"><img style="width:600px" src="/images/vol-11-issue-4/logan-journal/02a_loganjournal.jpg">A pull-out page showing the cross-section of the Horsburgh Lighthouse. <i>All rights reserved, National Library Board, Singapore.</i></div>
 
 For his efforts, Logan was praised by George F. Hose, the President of the Straits Branch of the Royal Asiatic Society, who noted in his inaugural speech that Logan’s bold endeavour had attracted notable writers from all classes and diverse nationalities: French, German, Dutch, Swiss and even Chinese.[^17] The sole Chinese contributor was Seah Eu Chin, a prominent merchant and leader in the Chinese community in Singapore, whose essay was titled “The Chinese in Singapore: General Sketch of the Numbers, Tribes and Advocations of the Chinese in Singapore” (Vol. 2, 1848, pp. 283–289).
 
