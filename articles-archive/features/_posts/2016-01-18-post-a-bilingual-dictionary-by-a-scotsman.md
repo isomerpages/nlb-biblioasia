@@ -27,7 +27,7 @@ A dictionary written more than 150 years ago bears testimony to how Malay – th
 
 The National Library has three sets of *A Grammar and Dictionary of the Malay Language with a Preliminary Dissertation*, one of which bears stamps from both the Raffles Library and the Syonan Library (Syonan Tosyokan), the name it was known as during the Japanese Occupation of Singapore.
 
-<div style="background-color: white;"><img style="width:500px" src="/images/vol-11-issue-4/a-bilingual-dictionary/01_dictionary.jpg">The distinct red vertical stamp of the Syonan Library (Syonan Tosyokan) – the name the National Library was known as during the Japanese Occupation from 1942–45 – is visible on the top right-hand corner of this page from A Grammar and Dictionary of the Malay Language. <i>All rights reserved, National Library Board, Singapore.</i></div>
+<div style="background-color: white;"><img style="width:500px" src="/images/vol-11-issue-4/a-bilingual-dictionary/01a_dictionary.jpg">The distinct red vertical stamp of the Syonan Library (Syonan Tosyokan) – the name the National Library was known as during the Japanese Occupation from 1942–45 – is visible on the top right-hand corner of this page from A Grammar and Dictionary of the Malay Language. <i>All rights reserved, National Library Board, Singapore.</i></div>
 
 In the book’s preface, the author, John Crawfurd, claimed to have spent 40 years working on the dictionary, 12 years of which he lived in Southeast Asia learning the language, and another 10 spent compiling relevant materials.[^1] He acknowledged receiving help from William Marsden, a pioneering orientalist who fuelled the growing interest in languages and philology at the turn of the 19th century.[^2] Marsden produced one of the earliest English-Malay dictionaries, entitled *A Dictionary of the Malayan Language in Two Parts, Malayan and English and English and Malayan*, in 1812.
 
@@ -35,7 +35,7 @@ Crawfurd also sought advice from other contemporary language experts of the time
 
 This dictionary comprises two volumes. The first volume contains two sections: a 291-page essay entitled “A Dissertation on the Affinities of the Malayan Languages”, and a shorter 84-page essay on “A Grammar of the Malay Language”. The second volume consists of two sections of about 200 pages each: “A Dictionary of the Malay and English Languages”, followed by the complementary “A Dictionary of the English and Malay Languages”. Scholars regard this as an extensive dictionary as it contains no fewer than 15,000 words.
 
-<div style="background-color: white;"><img style="width:500px" src="/images/vol-11-issue-4/a-bilingual-dictionary/02_dictionary.jpg">Page xviii of the book showing the primary consonants, secondary consonants and vowel marks of the letter “K” in Javanese script. <i>All rights reserved, Crawfurd, J. (1852). A Grammar and Dictionary of the Malay Language with a Preliminary Dissertation. London: Smith, Elder, and Co.</i></div>
+<div style="background-color: white;"><img style="width:400px" src="/images/vol-11-issue-4/a-bilingual-dictionary/02_dictionary.jpg">Page xviii of the book showing the primary consonants, secondary consonants and vowel marks of the letter “K” in Javanese script. <i>All rights reserved, Crawfurd, J. (1852). A Grammar and Dictionary of the Malay Language with a Preliminary Dissertation. London: Smith, Elder, and Co.</i></div>
 
 A *Straits Times* article dated 15 June 1852 lauded Crawfurd’s dissertation on the affinities of the Malayan and Polynesian languages for offering much originality in the systematic study of the Malay language. Though it was widely believed that most of the languages spoken from Madagascar to Easter Island in the Pacific were derived from one common source, Crawfurd examined the physical characters of the races speaking these languages, as well as the nature and extent of the action and reaction of these languages on one another during that era, and proved that a “far greater part of them bear traces of original independent syntactical or logical structure”.[^4]
 
@@ -43,7 +43,7 @@ Crawfurd also documented the number of foreign words in the languages and the so
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>WHO WAS JOHN CRAWFURD?</b>
 <br><br>
-<img style="width:400px"  src="/images/vol-11-issue-4/a-bilingual-dictionary/03_dictionary.jpg">An albumen print portrait, unknown photographer, circa late 1850s. National Portrait Gallery London. <i>Courtesy of Wikimedia Commons.</i>
+<img style="width:350px"  src="/images/vol-11-issue-4/a-bilingual-dictionary/03_dictionary.jpg">An albumen print portrait, unknown photographer, circa late 1850s. National Portrait Gallery London. <i>Courtesy of Wikimedia Commons.</i>
 <br><br>
 John Crawfurd (1783–1868) was the second British Resident of Singapore from 1823 to 1826. A medical doctor by training, Crawfurd completed his medical studies in Edinburgh in 1803 at the age of 20. In the same year, he joined the medical service of the British East India Company in India and worked there for five years before being transferred to Penang, where he first became interested in Malay language and culture.[^6]
 <br><br>
