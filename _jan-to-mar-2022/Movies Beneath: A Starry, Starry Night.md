@@ -76,5 +76,17 @@ On 29 September 1985, Cathay officially announced that Jurong Drive-in would clo
 
 Jurong Drive-in finally closed on 30 September 1985 after almost 15 years.[^31] The land formerly occupied by the drive-in was developed into Fairway Country Club and later the ActiveSG Park in 2019 as part of Jurong Lake Gardens.[^32]
 
+#### **Revival of the Drive-in Cinema** 
 
+There have been various attempts to revive the concept of the drive-in cinema in Singapore since.
+
+At the 1996 Festival of the Arts, one of the programmes under the Arts Festival Fringe was a drive-in movie screening held at the People’s Association carpark in Paya Lebar, which had a capacity of 100 cars and 300 walk-in patrons. A projection screen, measuring 7 m by 3 m, was raised 2 m off the ground. Three family-friendly movies, including Grease and the animation film Asterix Conquers America, were screened back-to-back starting at 7.30 pm on 31 May and 1 June.[^33]
+
+In 2003, a drive-in movie screening was held at a carpark in Kallang as part of the month-long event, “Romancing Singapore”, which was organised to celebrate love and romance. The admission fee of $10 per car enabled patrons to watch two movies.[^34]
+
+Also in 2003, a company named MovieMob organised free drive-in and outdoor open-air movie screenings, including local films and Hollywood blockbusters, at selected locations across Singapore. Since its inception, the company has held over 300 movie screenings for events such as Singapore’s first French drive-in movie event over the Valentine’s Day weekend in 2016, “P.S. I Love You”, which attracted close to 100 vehicles and some 600 people. The company also helped to usher in the new year with open-air screenings of Night at the Museum I and II for the Marina Bay Singapore Countdown 2019.[^35]
+
+More recently, on 25 July 2020, Downtown East announced that it would hold a monthly series of drive-in movie screenings starting from 8 August with the hit musical, The Greatest Showman. Tickets were priced at $18 per car for up to a maximum of five persons in a vehicle. Unfortunately, just 10 days later, it was announced that the screening had been cancelled due to “unforeseen circumstances” and refunds would be made.[^36] We can only surmise that the cancellation was related to the ongoing Covid-19 pandemic.
+
+As these examples demonstrate, there is still a market for the occasional drive-in movie experience. When mass events are allowed to take place again, hopefully some entrepreneurial company will resurrect the spirit of the Jurong Drive-In.
 
