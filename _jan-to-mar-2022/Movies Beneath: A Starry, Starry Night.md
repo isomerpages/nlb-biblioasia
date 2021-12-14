@@ -152,5 +152,11 @@ As these examples demonstrate, there is still a market for the occasional drive-
 
 [^30]:“It’s Curtains for Jurong Drive-in Tomorrow”; “Dismay at Drive-in,” *Straits Times*, 29 September 1985, 1; “Page 4 Advertisements Column 2,” *Straits Times*, 29 September 1985, 4. (From NewspaperSG); “The Woman of Wrath,” Letterboxd, accessed 23 July 2021, https://letterboxd.com/film/the-woman-of-wrath/.
 
+Uhde and Uhde, *Latent Images*, 198; “It’s Curtains for Jurong Drive-in Tomorrow.”
 
+“Jurong Plans Cinema to Pull Crowds Back,” *New Paper*, 30 September 1989, 2. (From NewspaperSG); “Back Then When Jurong’s Drive-in Cinema Was All the Rage,” Remember Singapore, 15 September 2020, https://remembersingapore.org/2020/09/15/jurong-drive-in-cinema-history/.
+
+“Movie Bonuses at Fringe Fest,” *Straits Times*, 1 May 1996, 7. (From NewspaperSG)
+
+How Hwee Young, “Reliving the Good Old Days,” *Straits Times*, 23 February 2003, 4. (From NewspaperSG)
 
