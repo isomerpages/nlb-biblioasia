@@ -137,3 +137,20 @@ As these examples demonstrate, there is still a market for the occasional drive-
 [^22]: Lim, *Cathay*, 69.
 
 [^23]:“Loot for 8 Armed Robbers: A Torchlight,” *New Nation*, 4 May 1977, 1. (From NewspaperSG)
+
+[^24]:“Some Close Encounters at the Drive-in.”
+
+[^25]:“End of Road for Drive-in?,” *New Nation*, 10 December 1982, 2. (From NewspaperSG); “Some Close Encounters at the Drive-in.” 
+
+[^26]:Ronald Goh Wee Huat, interview.
+
+[^27]:“Jurong Drive-in’s Lot is an Unhappy One.” *Straits Times*, 10 December 1981, 11. (From NewpaperSG)
+
+[^28]:“Jurong Drive-in’s Lot is an Unhappy One.”
+
+[^29]:“It’s Curtains for Jurong Drive-in Tomorrow.”
+
+[^30]:“It’s Curtains for Jurong Drive-in Tomorrow”; “Dismay at Drive-in,” *Straits Times*, 29 September 1985, 1; “Page 4 Advertisements Column 2,” *Straits Times*, 29 September 1985, 4. (From NewspaperSG); “The Woman of Wrath,” Letterboxd, accessed 23 July 2021, https://letterboxd.com/film/the-woman-of-wrath/.
+
+
+
