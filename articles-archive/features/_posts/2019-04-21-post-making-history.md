@@ -7,7 +7,7 @@ layout: post
 ---
 #### A treaty that sealed Singapore’s fate, a contract for the sale of child brides, and a drawing of an iconic theatre are among the items showcased in a new book, *50 Records from History*, published by the National Archives of Singapore.
 
-<div style="background-color: white;"><br><img src="/images/Vol-15-issue-1/making-history/01_history.png"></div>
+<div style="background-color: white;"><br><img src="/images/Vol-15-issue-1/making-history/01a_history.png"></div>
 
 #### **A Treaty Most Unfriendly**
 
@@ -24,14 +24,13 @@ Singapore came under the control of the British East India Company (EIC) on 2 Au
 
 This 1824 Treaty of Friendship and Alliance replaced the agreement that Stamford Raffles, representing the EIC, signed with the Malay chiefs in 1819. Unlike the earlier agreement which only permitted the EIC to set up a trading post on the island, the Sultan and Temenggong now ceded “in full Sovereignty and property to the Honourable the English East India Company, their Heirs and Successors for ever, the Island of Singapore… together with the adjacent seas, straits, and islets to the extent of the ten geographical miles, from the coast of the said main island of Singapore”.
 
-<div style="background-color: white;"><img style="width:400px" src="/images/Vol-15-issue-1/making-history/03b_history.png">The 1841 copy of the original “Record of the Treaty of Friendship and Alliance, 2 August 1824” signed between John Crawfurd, the second Resident of Singapore (1823–26) and Sultan Hussein and Temenggong Abdul Rahman. This treaty replaced the 1819 document that Raffles signed with the Malay rulers, which only permitted the British to lease a two-mile stretch of land along the northern shore and allowed them to start a trading post, or “factory”, within its confines. With this 1824 treaty, Singapore was effectively ceded to the British in its entirety. Courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;"><img style="width:400px" src="/images/Vol-15-issue-1/making-history/03b_history.png">The 1841 copy of the original “Record of the Treaty of Friendship and Alliance, 2 August 1824” signed between John Crawfurd, the second Resident of Singapore (1823–26) and Sultan Hussein and Temenggong Abdul Rahman. This treaty replaced the 1819 document that Raffles signed with the Malay rulers, which only permitted the British to lease a two-mile stretch of land along the northern shore and allowed them to start a trading post, or “factory”, within its confines. With this 1824 treaty, Singapore was effectively ceded to the British in its entirety. <i>Courtesy of National Archives of Singapore.</i></div>
 
 The British could sign this new agreement in part because of the Anglo-Dutch Treaty that had been inked only months earlier, on 17 March 1824, which clearly demarcated the territorial interests of the British and their Dutch rivals in Southeast Asia. Following the ratification of this treaty, the Dutch withdrew their claims to Singapore and ceded Malacca to the British. In return, they gained sovereign control over Bencoolen (Bengkulu) and other British possessions in Sumatra.
 
-Gaining sovereignty over Singapore gave the British a free hand in determining its future. In 1826, barely two years after the agreement was signed, Singapore, Penang and Malacca came to be ruled as the Straits Settlements, with English law introduced through a royal charter backed by the full authority of the British Crown. The charter provided the three territories with a proper and enforceable legal framework that would greatly facilitate growth in local commerce and trade.
+<div style="background-color: white;"><img style="width:350px" src="/images/Vol-15-issue-1/making-history/02d_history.png">This map shows how the Malay Peninsula was divided between the British and the Dutch prior to the 1824 Anglo-Dutch Treaty. Malacca, which is flagged as Dutch, would eventually come under British rule upon the conclusion of the treaty. <i>© The British Library Board (C11074002 IOR 1/2/1 Folio No. 345).</i></div>
 
-<div style="background-color: white;"><img style="width:700px" src="/images/Vol-15-issue-1/making-history/02_history.jpg">(Left) This map of Singapore was created using information gathered during John Crawfurd’s 10-day sail around the island after the conclusion of the Treaty of Friendship and Alliance in 1824. The map was published in his 1828 book, <i>Journal of an Embassy from the Governor-General of India to the Courts of Siam and Cochin-China</i>. <i>Courtesy of National Archives of Singapore.</i><br>
-(Right) This map shows how the Malay Peninsula was divided between the British and the Dutch prior to the 1824 Anglo-Dutch Treaty. Malacca, which is flagged as Dutch, would eventually come under British rule upon the conclusion of the treaty. <i>© The British Library Board (C11074002 IOR 1/2/1 Folio No. 345).</i></div>
+Gaining sovereignty over Singapore gave the British a free hand in determining its future. In 1826, barely two years after the agreement was signed, Singapore, Penang and Malacca came to be ruled as the Straits Settlements, with English law introduced through a royal charter backed by the full authority of the British Crown. The charter provided the three territories with a proper and enforceable legal framework that would greatly facilitate growth in local commerce and trade.
 
 However, the British held the view that Sultan Hussein and Temenggong Abdul Rahman were unsuitable partners in advancing Singapore’s further development. Under the terms of the first agreement, the three signatories – the EIC and the two Malay chiefs – shared power. However, the British felt that the authority shared with the Sultan and Temenggong were disproportionate in comparison with their contributions.
 
@@ -40,6 +39,8 @@ The Sultan and Temenggong were initially reluctant to sign the treaty as it woul
 In exchange, the Sultan and Temenggong each received a lump sum of money, had their allowances increased, and were guaranteed due respect and personal safety in Singapore and Penang. A year after the treaty was concluded, Crawfurd sailed around Singapore to mark the anniversary of official British control over Singapore and its surrounding waters and islands. A 21-gun salute was also fired on Pulau Ubin to commemorate the event.
 
 There were three original signed copies of the ratified 1824 treaty: one for the British India government, which is now archived with the British Library’s India Office collection, and the other two for the Sultan and Temenggong.[^1] The copy belonging to the National Archives of Singapore was created in September 1841 at the request of then Governor of the Straits Settlements Samuel George Bonham.
+
+<div style="background-color: white;"><img style="width:700px" src="/images/Vol-15-issue-1/making-history/02c_history.png">This map of Singapore was created using information gathered during John Crawfurd’s 10-day sail around the island after the conclusion of the Treaty of Friendship and Alliance in 1824. The map was published in his 1828 book, <i>Journal of an Embassy from the Governor-General of India to the Courts of Siam and Cochin-China</i>. <i>Courtesy of National Archives of Singapore.</i></div>
 
 #### **Child Brides for Sale**
 
@@ -54,11 +55,11 @@ Before the 1950s, it was common for impoverished Chinese parents in Singapore to
 
 This social practice of buying and selling young girls is documented in this contract (契约; *qi yue*) dated 8 September 1939. The girl in question is Tay Ai Lan (郑惜兰), a 12-year-old child bride (童养媳; *tong yang xi*), who was sold for a dowry of $88. The contract specifies her date of birth as the 18th day of the ninth lunar month. It also lists the names of her parents, the representative from the other family as well as the two matchmakers who witnessed the transaction.
 
-Child brides in Singapore were known by different dialect names: the Hokkiens referred to them as *sim pu kia*, while the Cantonese called them *san po tsa*i. Both can be loosely translated as “little daughter-in-law”. Despite its namesake, the practice of child marriages was more accurately described as an adoption rather than a marriage, as the young girl usually worked as a domestic servant for the family before she finally got married to her intended husband.[^3]
+<div style="background-color: white;"><img style="width:600px" src="/images/Vol-15-issue-1/making-history/05_history.png">契约 “Indenture of Selling Daughter”, 1939. This contract was made between the family of 12-year-old Tay Ai Lan who was “sold” for a dowry of $88 to a wealthy family. Tay ended up working as a domestic servant for the family she was indentured into – as many child brides did – before she married the second son in the family when she turned 18 years old. <i>Tan Boon Chong Collection, courtesy of the National Archives of Singapore.</i></div>
+
+Child brides in Singapore were known by different dialect names: the Hokkiens referred to them as *sim pu kia*, while the Cantonese called them *san po tsai*. Both can be loosely translated as “little daughter-in-law”. Despite its namesake, the practice of child marriages was more accurately described as an adoption rather than a marriage, as the young girl usually worked as a domestic servant for the family before she finally got married to her intended husband.[^3]
 
 A contract, like the one for Tay, may have been drawn up to legally bind both parties to the betrothal until the girl reached puberty. However, a child bride might not eventually marry her intended husband for a variety of reasons, one of which could be his objection to the marriage.[^4] Fortunately in Tay’s case, she did go on to marry the second of three sons in the family when she turned 18. It was a union of “few dramatic ups and downs”, and the couple eventually had many children and grandchildren.[^5] Tay’s contract was donated to the National Archives of Singapore by her son Tan Boon Chong in 1991.
-
-<div style="background-color: white;"><img style="width:600px" src="/images/Vol-15-issue-1/making-history/05_history.png">契约 “Indenture of Selling Daughter”, 1939. This contract was made between the family of 12-year-old Tay Ai Lan who was “sold” for a dowry of $88 to a wealthy family. Tay ended up working as a domestic servant for the family she was indentured into – as many child brides did – before she married the second son in the family when she turned 18 years old. <i>Tan Boon Chong Collection, courtesy of the National Archives of Singapore.</i></div>
 
 The practice of giving up an unwanted child for financial reasons was carried out not only in Singapore but also in rural communities in Hong Kong and other parts of Southeast Asia. In Singapore, child marriages continued to be practised until the mid-20th century by “debt-ridden, gambling, opium-smoking fathers or those who needed money to fulfill filial duties like paying for medical or funeral expenses for elderly parents”, noted Koh Choo Chin, a social worker in the Social Welfare Department in 1948.[^6] She observed that superstition was also one of the reasons why parents were willing to sell their daughters as child brides. To the Chinese, a girl born in the Year of the Tiger, for example, was believed to bring bad luck to the family.
 
@@ -114,9 +115,9 @@ The National Theatre was demolished in 1986 amid concerns that the building was 
 Despite its demolition, the Ministry of Culture noted that the National Theatre had played an important part in nation-building by inculcating “a spirit of self-help and a sense of nationhood”. In 2000, the location of the National Theatre was declared a historic site by the National Heritage Board.[^17]
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;">
-<img style="width:300px" src="/images/Vol-15-issue-1/making-history/08_history.png">
-<br><br>
-This essay is reproduced from the book <i>50 Records from History: Highlights from the National Archives of Singapore</i>. It features 50 short essays written by archivists on selected records from the archives that commemorate major milestones in Singapore’s history. The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (Call nos.: RSING 959.57 HUA-[HIS]and SING 959.57 HUA-[HIS]).</span>
+<img style="width:200px" src="/images/Vol-15-issue-1/making-history/08_history.png">
+<br>
+This essay is reproduced from the book <i>50 Records from History: Highlights from the National Archives of Singapore</i>. It features 50 short essays written by archivists on selected records from the archives that commemorate major milestones in Singapore’s history. The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (<a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203816848">Call nos.: RSING 959.57 HUA-[HIS]and SING 959.57 HUA-[HIS]</a>).</span>
 
 The three historical records covered in this essay were written by Kevin Khoo, Fiona Tan and Yap Jo Lin respectively. Kevin is an oral history specialist, while Fiona and Jo Lin are archivists. All three work at the National Archives of Singapore.
 
@@ -174,4 +175,4 @@ The three historical records covered in this essay were written by Kevin Khoo, F
 
 [^16]:*[Oral history interview with Alfred Wong Hong Kwok](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/eadb91a1-1162-11e3-83d5-0050568939ad),* 8 Feb 2012.
 
-[^17]:National Theatre location a historic site now. (2000, February 1). *The Straits Times*, p. 32. Retrieved from NewspaperSG.
+[^17]:[National Theatre location a historic site now](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20000201-1.2.77.3). (2000, February 1). *The Straits Times*, p. 32. Retrieved from NewspaperSG.

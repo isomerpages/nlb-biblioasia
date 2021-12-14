@@ -71,6 +71,10 @@ Christmas was always a special occasion at Dieppe Barracks, eagerly anticipated 
 <img style="width: 500px; height: 350px;" src="/images/Vol-15-issue-3/dieppe-barracks/Dieppe2.JPG">
 <div style="background-color: white;">As part of Christmas celebrations in 1970, a British commando dressed as Santa Claus parachuted from a helicopter and greeted the children of servicemen at Dieppe Barracks. <i>Source: The Straits Times © Singapore Press Holdings Limited. Reprinted with permission.</i></div>
 
+<img style="width: 500px; height: 360px;" src="/images/Vol-15-issue-3/dieppe-barracks/Dieppe4.JPG">
+<div style="background-color: white;">
+Christmas was always a special and joyous occasion at Dieppe Barracks. For the New Zealand troops, the tradition was for senior officers to serve the junior ranks during Christmas parties held in the messes. <i>The Straits Times, 21 December 1986, p. 4.</i></div>
+
 To be sure, life in Dieppe Barracks was not always rosy, reflecting the emotional and psychological challenges of long-term overseas deployments during peacetime. Indeed, the 1 RNZIR journal introduced an “advisory service” in 1975, noting that the “pressures of modern day living in Singapore can be considerable, leading to stress, tension and worry”.[^23] Far away from home and without a specific mission, there was a high chance of young soldiers becoming bored and restless. Indeed, in 1972, a soldier set fire to the sacred Maori meeting place in Dieppe Barracks and was sentenced to one year’s detention. During his trial, the soldier said that he had gotten up to mischief simply because he had wanted to be sent home.
 
 Almost a decade later, two New Zealand soldiers were each sentenced to three years’ jail and given three strokes of the cane by a Singaporean district court for selling cannabis to fellow servicemen (they had earlier pleaded to be court-martialled in order to escape caning). According to a lawyer, the drug problem at Dieppe Barracks “had reached unmanageable proportions despite efforts by military authorities”, leading the New Zealand army to hand over jurisdiction of the case to Singapore.[^24]
@@ -80,10 +84,6 @@ Almost a decade later, two New Zealand soldiers were each sentenced to three yea
 Why does this story of Dieppe Barracks matter? Much of Singapore’s military history remains focused on World War II and the Japanese Occupation, and scholars have increasingly called for greater attention to our more recent past.[^25]
 
 Military spaces physically express the colonial, post-colonial and neo-colonial processes that have shaped Singapore’s history and landscape over the decades. Given that foreign military bases in Singapore were a major driver of the economy in the late 1960s and employed some 25,000 locals,[^26] it is impossible to understand the social, economic and cultural changes that had taken place here without reference to the vast numbers of soldiers and seamen who passed through this island from the 19th century to the present day.
-
-<img style="width: 500px; height: 360px;" src="/images/Vol-15-issue-3/dieppe-barracks/Dieppe4.JPG">
-<div style="background-color: white;">
-Christmas was always a special and joyous occasion at Dieppe Barracks. For the New Zealand troops, the tradition was for senior officers to serve the junior ranks during Christmas parties held in the messes. <i>The Straits Times, 21 December 1986, p. 4.</i></div>
 
 I myself completed national service in Dieppe Barracks from 2018 to 2019, and in some small way was part of its geostrategic history and destiny. From British commandos to New Zealand infantry soldiers and finally to me and my fellow national service mates, places like Dieppe Barracks have witnessed and stood sentinel to the transformations of Singapore we have seen over the years.
 

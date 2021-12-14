@@ -3,6 +3,7 @@ title: "Don’t Mention the Corpses: The Erasure of Violence in Colonial Writing
   on Southeast Asia"
 date: 2019-07-31
 permalink: /vol-15/issue-2/jul-sep-2019/erasure-of-vio-sea/
+image: /images/Vol-15-issue-2/dont-mention-the-corpses/Corpses1.JPG
 layout: post
 ---
 #### History may be written by the victors, but what they conveniently leave out can be more telling. **Farish Noor** reminds us of the violent side of colonial conquest.
@@ -10,12 +11,9 @@ layout: post
 <img src="/images/Vol-15-issue-2/dont-mention-the-corpses/Corpses1.JPG">
 <div style="background-color: white;">Native Dayaks (or Dyaks) in Sarawak using <i>sumpita</i>, or blowpipes, to defend themselves from a coastal attack led by James Brooke, the White Rajah of Sarawak. <i>Image reproduced from Brooke, J., & Mundy, G.R. (1848). Narrative of Events in Borneo and Celebes, Down to the Occupation of Labuan […] (Vol. II; 2nd ed.) (facing p. 227). London: John Murray. (Microfilm no.:NL7435).</i></div>
 
-“All conquest literature seeks to explain to the conquerors ‘why we are here’ d”.[^1]
+“All conquest literature seeks to explain to the conquerors ‘why we are here’ d.”[^1]
 
-– Robert Bartlett,The Making of Europe (1993)
-
-<img style="width: 600px; height: 400px;" src="/images/Vol-15-issue-2/dont-mention-the-corpses/Corpses2.JPG">
-<div style="background-color: white;">The court of the Sultan of Borneo, with the audience chamber filled with natives, all well dressed and armed. The sultan sits cross-legged on the throne at the upper end of the chamber. Frank Marryat describes him as being bald and dressed in a “loose jacket and trousers or purple satin, richly embroidered with gold, a close-fitting vest of gold cloth, and a light cloth turban on his head”. <i>Image reproduced from Marryat, F.S. (1848). Borneo and the Indian Archipelago: With Drawings of Costume and Scenery (p. 109). London: Longman, Brown, Green, and Longmans. Retrieved from BookSG.</i></div>
+<div style="text-align: right">– Robert Bartlett,The Making of Europe (1993)</div>
 
 Among the many outcomes of the colonial era in Southeast Asia – from the 18th to the 19th century – is a body of writing that can be best described as colonial literature. By this I am referring not only to the accounts that were written by intrepid European travellers who ventured to this region, but also the writings of colonial bureaucrats, colony-builders and administrators, and the men who took part in the conquest of the region by force of arms.
 
@@ -28,6 +26,9 @@ Among those who wrote about these wars was Major John J. Snodgrass, whose accoun
 A similar kind of frankness can be found in the works of men like Admiral Henry Keppel, George Rodney Mundy and Frank Marryat. All three were navy men, and all of them had taken part in the naval campaign off the coast of Sarawak that led to the eventual attack on the Kingdom of Brunei. The works of these three men – Keppel’s *Expedition to Borneo of HMS Dido for the Suppression of Piracy* (1846);[^4] Mundy’s account in *Narrative of Events in Borneo and Celebes, Down to the Occupation of Labuan* (1848);[^5] and *Marryat’s Borneo and the Indian Archipelago* (1848)[^6] – would become the most widely read accounts of the so-called “war on piracy” in maritime Southeast Asia, ultimately adding the seal of legitimacy for what was really a sustained campaign to weaken Brunei’s standing as an independent Southeast Asian polity.
 
 Although Keppel, Mundy and Marryat were directly involved in the naval campaign in Borneo, and supportive of the efforts to expand British colonial power across the region while weakening the power of local kingdoms such as Brunei, they were also brutally frank in their accounts of the conflict and the realities of colonial warfare.
+
+<img style="width: 600px; height: 400px;" src="/images/Vol-15-issue-2/dont-mention-the-corpses/Corpses2.JPG">
+<div style="background-color: white;">The court of the Sultan of Borneo, with the audience chamber filled with natives, all well dressed and armed. The sultan sits cross-legged on the throne at the upper end of the chamber. Frank Marryat describes him as being bald and dressed in a “loose jacket and trousers or purple satin, richly embroidered with gold, a close-fitting vest of gold cloth, and a light cloth turban on his head”. <i>Image reproduced from Marryat, F.S. (1848). Borneo and the Indian Archipelago: With Drawings of Costume and Scenery (p. 109). London: Longman, Brown, Green, and Longmans. Retrieved from BookSG.</i></div>
 
 Keppel and Mundy did not hide the fact that attacks on native settlements did indeed take place, and Keppel was honest enough to admit that, in the course of the subjugation of the natives of Sarawak, the colonial forces – led by the adventurer James Brooke – had also committed acts of plunder and looting.[^7] Keppel went as far as stating that such excessive use of violence – which included the razing of native villages to the ground – was necessary, for “without a continued and determined series of operations of this sort, it is my conviction that even the most sanguinary and fatal onslaughts will achieve nothing beyond a present and temporary good”.[^8]
 
@@ -69,12 +70,12 @@ As noted earlier, there exist several accounts of the Sarawak campaign that were
 
 Low’s work purported to be a study of the land and people of Sarawak as well as a history of that part of Southeast Asia. But in the course of recounting this history, Low was also attempting to present a sanitised account of how an Englishman like James Brooke could have assumed the role and title of the “White Rajah” of Sarawak. Low’s retelling of the Brooke tale borders on the fantastical when he glibly states that Rajah Muda Hassim of Sarawak found himself “tired of Sarawak”[^15] for no explicable reason, after which he promptly handed over the territory of Sarawak to Brooke on 24 September 1841.
 
+<img style="width: 300px; height: 400px;" src="/images/Vol-15-issue-2/dont-mention-the-corpses/Corpses4.JPG">
+<div style="background-color: white;">A painting of James Brooke, the “White Rajah” of Sarawak, by Francis Grant, 1847. Brooke took Sarawak by force in 1841. The land was not gifted to him, as some colonial writers have claimed. <i>Image from Wikimedia Commons.</i></div>
+
 What is totally absent from Low’s rose-tinted account of Brooke’s rise to prominence is the fact that Brooke, as the leader of his private army of 200 men, had attacked Rajah Muda Hassim’s compound and forced the latter to surrender to him – a fact that was highlighted in the work by Gareth Knapman (2017).[^16] As far as fairytale heroes go, Low’s depiction of Brooke fits the bill in many ways: for Low, nothing of significance could be achieved in Brooke’s absence or without Brooke’s guidance; Asiatic monarchs would incredulously surrender their ancestral lands to him in return for nothing; and the man was motivated by only the best motives “to do good, to excite interest and to make friends”.[^17]
 
 Such sanitised colonial propaganda would become the norm in the decades to come. In 1862, yet another hagiographic account of the Brooke legend appeared in the form of Spenser St John’s two-volume work, *Life in the Forests of the Far East*. In this work, St John repeated the familiar trope of Brooke as the white saviour whose presence alone would restore order – which was in turn framed in bold relief against a backdrop of “savage” Bornean natives and “treacherous” Bruneians and Chinese. That Sarawak’s story could only have a fairytale ending seems obvious when we consider that the story was told in conjunction with other tales of the Empire.
-
-<img style="width: 300px; height: 400px;" src="/images/Vol-15-issue-2/dont-mention-the-corpses/Corpses4.JPG">
-<div style="background-color: white;">A painting of James Brooke, the “White Rajah” of Sarawak, by Francis Grant, 1847. Brooke took Sarawak by force in 1841. The land was not gifted to him, as some colonial writers have claimed. <i>Image from Wikimedia Commons.</i></div>
 
 In order for the story of benevolent imperial intervention to make sense, it was necessary to have as its counterpart the story of native malevolence and decline; and more perceptive readers of the works of Low and St John will be able to see that both writers have woven a number of complex narratives that developed in tandem with one another.
 

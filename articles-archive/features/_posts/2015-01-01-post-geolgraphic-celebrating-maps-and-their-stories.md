@@ -93,25 +93,6 @@ This particular project is an extension of Lim's previous solo-exhibition, "In S
 Artist Charles Lim working on <i>seabook</i> with NL librarian, Janice Loo.
 </div>
 	
-<div style="background-color: white;">
-<br/>
-<img style="width:70%" src="/images/vol-10-issue-4/geo-geographic/Notes_Towards_A_Museum_Of_Cooking_Pot_Bay.jpg">
-Close-up of Michael Lee’s <i>Notes Towards a Museum of Cooking Pot Bay</i> (2010–11), from his artwork, <i>Bibliotopia</i>.
-</div>
-
-<div style="background-color: white;">
-<br/>
-<img style="width:70%" src="/images/vol-10-issue-4/geo-geographic/polystyrene_block.jpg">
-A polystyrene block is given a textured surface in Jeremy Sharma’s <i>Outliers</i> (2014–2015).
-</div>
-
-<div style="background-color: white;">
-<br/>
-<img style="width:70%" src="/images/vol-10-issue-4/geo-geographic/sherman_ong_work.jpg">
-Stills from Sherman Ong’s work, <i>the seas will sing and the wind will carry us (Fables of Nusantara)</i>.
-</div>
-
-	
 #### **Mind the Gap: Mapping the Other** 
 
 Making up the art component of "GeolGraphic" is "Mind the Gap", which presents the works of three Singapore contemporary artists, who harness data collection and mapping to investigate what lies beneath the surface of contemporary life.
@@ -120,6 +101,11 @@ Making up the art component of "GeolGraphic" is "Mind the Gap", which presents t
 
 Michael Lee's research interest focuses on urban memory and fiction, emphasising their contexts and issues of loss. He translates his findings into diagrams and texts, in particular, the mind map. Lee finds the mind map powerful in generating ideas and organising vast amounts of data. In <i>Bibliotopia</i>, Lee uses the device of the mind map to uncover the "secret bookscape" of Singapore's book culture. Focusing on the genres of short fiction, horror and the teen novel through the literary output of Catherine Lim, Russell Lee and Adrian Tan, he seeks to draw out secrets that are hidden within, or exposed by, narratives on identity, adolescence and the ghostly in Singapore.
 	
+<div style="background-color: white;">
+<br/>
+<img style="width:70%" src="/images/vol-10-issue-4/geo-geographic/Notes_Towards_A_Museum_Of_Cooking_Pot_Bay.jpg">
+Close-up of Michael Lee’s <i>Notes Towards a Museum of Cooking Pot Bay</i> (2010–11), from his artwork, <i>Bibliotopia</i>.
+</div>
 
 #### *Outliers by Jeremy Sharma*
 In the installation work <i>Outliers</i>, by multidisciplinary artist Jeremy Sharma, are four white polystyrene blocks with undulating surfaces that capture in material form the signals of dying stars. When dying stars explode, their remnants (also known as pulsars) emit electromagnetic pulses that can be detected by a radio telescope on earth. These pulses are emitted until the star finally burns out, which could take anything between 10 and 100 million years. 
@@ -127,11 +113,22 @@ In the installation work <i>Outliers</i>, by multidisciplinary artist Jeremy Sha
 With the help of a pulsar scientist, Sharma has been collecting and categorising radiographic data of selected pulsars according to size, distance from earth and age at the time of discovery. This two-dimensional data was then converted into 3-D landscapes of valleys and peaks created by 3-D printing technology. 
 
 <i>Outliers</i> contemplates the profound space-time distance the signals of dying stars travel in order to communicate their death throes.
-	
+
+<div style="background-color: white;">
+<br/>
+<img style="width:70%" src="/images/vol-10-issue-4/geo-geographic/polystyrene_block.jpg">
+A polystyrene block is given a textured surface in Jeremy Sharma’s <i>Outliers</i> (2014–2015).
+</div>
 
 #### *the seas will sing and the wind will carry us (Fables of Nusantara) by Sherman Ong*
 
 Sherman Ong is a filmmaker, photographer and visual artist whose practice centres on the relationship between place and the human condition. In this video installation, he uses the documentary/ethnographic film genre to tell stories of migration, transborder identities, myths and memory in island Southeast Asia. The histories and contemporary stories of the region are explored through the stories of nine individuals featured in a series of video vignettes. The stories include an Acehnese living in Malaysia recounting the loss of his family in the Asian tsunami of 2004; a Peranakan (Straits Chinese) woman describing her life of servitude while waiting for the "right" man to come along; and a Chinese woman arriving in Singapore in search of a better life.
+
+<div style="background-color: white;">
+<br/>
+<img style="width:70%" src="/images/vol-10-issue-4/geo-geographic/sherman_ong_work.jpg">
+Stills from Sherman Ong’s work, <i>the seas will sing and the wind will carry us (Fables of Nusantara)</i>.
+</div>
 	
 <div style="background-color: white;">
 <br>

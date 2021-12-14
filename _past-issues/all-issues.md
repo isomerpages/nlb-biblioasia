@@ -12,7 +12,7 @@ Note: When accessing older issues, you may be directed to an archived version.
 |                                                              |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | ![BiblioAsia 17-1 cover](/images/covers/ba17-1.jpg)[Apr–Jun 2021](/vol-17/issue-1/apr-jun-2021/)<br>[Apr–Jun 2021 (PDF)](/files/pdf/BiblioAsia Apr-Jun 2021.pdf) | ![BiblioAsia 17-1 cover](/images/covers/ba17-2b.jpg)[Jul–Sep 2021](/vol-17/issue-2/jul-sep-2021/)<br>[Jul–Sep 2021 (PDF)](/files/pdf/BiblioAsia%20JUL-SEP2021.pdf)   |
-| ![BiblioAsia 17-3 cover](/images/covers/ba%2017-3e.jpg)[Oct–Dec 2021](/vol-17/issue-3/oct-dec-2021/)<br/>[Oct–Dec 2021 (PDF)](/files/pdf/BiblioAsia%20Oct-Dec%202021.pdf) | ![Blank](/images/covers/placeholdercover-v2.jpg)  | 
+| ![BiblioAsia 17-3 cover](/images/covers/ba%2017-3e.jpg)[Oct–Dec 2021](/vol-17/issue-3/oct-dec-2021/)<br/>[Oct–Dec 2021 (PDF)](/files/pdf/BiblioAsia%20Oct-Dec%202021v2.pdf) | ![Blank](/images/covers/placeholdercover-v2.jpg)  | 
 
 
 #### Volume 16
@@ -55,8 +55,8 @@ Note: When accessing older issues, you may be directed to an archived version.
 
 |                                                              |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![BiblioAsia 11-1 cover](/images/covers/ba11-1.jpg)[Apr–Jun 2015](/files/pdf/BiblioAsia Apr-Jun 2015.pdf) | ![BiblioAsia 11-2 cover](/images/covers/ba11-2.jpg)[Jul–Sep 2015](/files/pdf/BiblioAsia Jul-Sep 2015.pdf) |
-| ![BiblioAsia 11-3 cover](/images/covers/ba11-3.jpg) [Oct–Dec 2015](https://biblioasia.nlb.gov.sg/vol-11/issue-3/oct-dec-2015/) | ![BiblioAsia 11-4 cover](/images/covers/ba11-4.jpg)[Jan–Mar 2016 (web version)](https://eresources.nlb.gov.sg/webarchives/2020-10-21%2018:23:36.000/wp/details/http://www.nlb.gov.sg/biblioasia/category/vol-11-issue-4/){:target="_blank"}<br>[Jan–Mar 2016 (PDF)](/files/pdf/BiblioAsia Jan-Mar 2016.pdf) |
+| ![BiblioAsia 11-1 cover](/images/covers/ba11-1.jpg)[Apr–Jun 2015](/vol-11/issue-1/apr-jun-2015/)<br>[Apr–Jun 2015](/files/pdf/BiblioAsia Apr-Jun 2015.pdf) | ![BiblioAsia 11-2 cover](/images/covers/ba11-2.jpg)[Jul–Sep 2015](/files/pdf/BiblioAsia Jul-Sep 2015.pdf) |
+| ![BiblioAsia 11-3 cover](/images/covers/ba11-3.jpg) [Oct–Dec 2015](https://biblioasia.nlb.gov.sg/vol-11/issue-3/oct-dec-2015/) | ![BiblioAsia 11-4 cover](/images/covers/ba11-4.jpg)[Jan–Mar 2016 (web version)](/vol-11/issue-4/jan-mar-2016/){:target="_blank"}<br>[Jan–Mar 2016 (PDF)](/files/pdf/BiblioAsia Jan-Mar 2016.pdf) |
 
 ####  Volume 10
 

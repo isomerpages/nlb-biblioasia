@@ -8,9 +8,6 @@ layout: post
 
 <img style="width: 700px; height: 450px;" src="/images/Vol-15-issue-3/exploring-an-artist-s-mind/Explore1.JPG">
 <div style="background-color: white;">Tan Swie Hian jots down ideas and inspirations in his notebooks, along with preliminary sketches of his artworks. <i>Tan Swie Hian Collection, National Library, Singapore.</i></div>
-<br>
-<img style="width: 450px; height: 330px;" src="/images/Vol-15-issue-3/exploring-an-artist-s-mind/Explore2.JPG">
-<div style="background-color: white;">Tan Swie Hian’s interest in the Sanskrit epic <i>Ramayana</i> led to his discovery of this eight-volume Chinese translation by the renowned scholar, Professor Ji Xianlin. 蚁垤著; 季羡林译. (1980–1984).《罗摩衍那》. 北京:人民文学出版社. (Call no.: RDTSH 294.5922 VAL). <i>Tan Swie Hian Collection, National Library, Singapore.</i></div>
 
 Housed within the Donors Gallery at level 10 of the National Library Building is the Tan Swie Hian Collection of over 6,600 items – comprising books, artworks, manuscripts, personal notebooks and other items – that illuminate the creative journeys of an extraordinarily gifted Singaporean artist.
 
@@ -30,6 +27,9 @@ As an avid reader and bibliophile, Tan has built a vast collection of books by a
 
 Tan’s personal library includes copies of all the English translations of works written by the Danish philosopher Søren Kierkegaard, whom he deeply admires, while his fascination with the Hindu epic *Ramayana* led him to acquire the Chinese translation by the renowned scholar, Professor Ji Xianlin[^1] (季羡林). Other works that have had a profound impact on Tan include *La Divina Commedia* (*Divine Comedy*,《神曲》) and *Duineser Elegien* (*Duino Elegies*, 《杜英诺悲歌》).[^2] All these are now part of the Tan Swie Hian Collection at the National Library.
 
+<img style="width: 450px; height: 330px;" src="/images/Vol-15-issue-3/exploring-an-artist-s-mind/Explore2.JPG">
+<div style="background-color: white;">Tan Swie Hian’s interest in the Sanskrit epic <i>Ramayana</i> led to his discovery of this eight-volume Chinese translation by the renowned scholar, Professor Ji Xianlin. 蚁垤著; 季羡林译. (1980–1984).《罗摩衍那》. 北京:人民文学出版社. (Call no.: RDTSH 294.5922 VAL). <i>Tan Swie Hian Collection, National Library, Singapore.</i></div>
+
 Among the collection are books autographed by renowned art and literary masters, such as Marin Sorescu, one of Romania’s foremost poets, playwrights and novelists of the late 20th century. There is also a copy of French poet Charles Baudelaire’s *Les Fleurs du Mal* (*The Flowers of Evil*), an anthology of poetry with lithography illustrations by Arnaud d’Hauterives, a French painter and illustrator, who personally autographed and gifted the book to Tan.
 
 Another highlight of the collection are calligraphic works and paintings by renowned Chinese artists and writers, such as Wu Guanzhong (吴冠中), Ai Qing (艾青) and Li Keran (李可染), and Japanese calligrapher, Senpo Ishida.
@@ -44,7 +44,7 @@ Tan, who had an early start in writing poems, published his first poetry collect
 
 <img style="width: 350px; height: 400px;" src="/images/Vol-15-issue-3/exploring-an-artist-s-mind/Explore3.JPG">
 <div style="background-color: white;">Between 1969 and 1974, Tan Swie Hian was one of the editors of <i>Chao Foon</i> (蕉风), an important Chinese literary magazine in Malaya and first published in 1955. <i>Image reproduced from 蕉风月刊. (1971). (Call no.: RDTSH C810.05 CFM). Tan Swie Hian Collection, National Library, Singapore.</i></div>
-<br><br>
+<br>
 <img style="width: 350px; height: 400px;" src="/images/Vol-15-issue-3/exploring-an-artist-s-mind/Explore6.JPG">
 <div style="background-color: white;">Published in 1968, <i>The Giant</i> is the first poetry collection by Tan Swie Hian. <i>Image reproduced from 牧羚奴. (1968). 巨人. 新加坡: 五月出版社. (Call no.: RDTSH C811.5 MLN). Tan Swie Hian Collection, National Library, Singapore.</i></div>
 

@@ -6,7 +6,7 @@ layout: post
 ---
 #### In the aftermath of the Japanese Occupation, the colonial government set up feeding centres to address malnutrition among children in Singapore. **Cheryl-Ann Low** has the details. 
 
-<div style="background-color: white;"><br><img src="/images/Vol-15-issue-1/feeding-the-hungry/01_hungrychildren.png">A committee appointed to review the child feeding scheme in 1950 assessed that it was no longer necessary to provide full meals for children at Children’s Social Centres. Hence, the meal was replaced with a snack consisting of a vitaminised bun, a milk drink and fresh fruit such as an apple, 1952. Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;"><br><img src="/images/Vol-15-issue-1/feeding-the-hungry/01_hungrychildren.png">A committee appointed to review the child feeding scheme in 1950 assessed that it was no longer necessary to provide full meals for children at Children’s Social Centres. Hence, the meal was replaced with a snack consisting of a vitaminised bun, a milk drink and fresh fruit such as an apple, 1952. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 The Japanese Occupation of Singapore (1942–45) brought about acute shortages in basic necessities such as food as well as disruptions to health, educational and financial services.[^1] The interim British Military Administration in Singapore, set up in the wake of the Japanese surrender in September 1945, and the British civilian government that subsequently took over from 1 April 1946, had their work cut out for them: to rehabilitate Singapore’s economy, and figure out how to alleviate the pressing problems of overcrowding, poverty, disease and malnutrition.
 
@@ -21,8 +21,6 @@ To meet food shortages, the British Military Administration started a feeding sc
 When the British civilian government returned in 1946, the clinics run by the Singapore Municipal Commission continued to provide milk for babies until they turned one but, unfortunately, did not have the funds to feed older children of preschool age. The SWD, which had experience in running various feeding programmes, initially declined taking over the feeding scheme for preschool aged children.
 
 T.P.F. McNeice, Secretary for Social Welfare, was concerned that managing the scheme might jeopardise the progress of its existing feeding programmes. However, seeing that there was no other solution, he tentatively committed to the task in a letter to the Child Feeding Committee in September 1946, writing “… should your Committee be able to show to the satisfaction of the Government that no one else can undertake this work, and should the Government wish me to do so, I am prepared to reconsider what my Department can do.”[^7]
-
-<div style="background-color: white;"><img src="/images/Vol-15-issue-1/feeding-the-hungry/02_hungrychildren.png">The Children’s Social Centres sought to teach children daily living skills and good habits such as cleaning up after themselves, 1952. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 On 7 October 1946, the various powers-that-be agreed that the SWD would operate the feeding scheme for children aged two to six years old. The department also went one step further by offering to feed older children who were not attending school, although there was no scheme planned for this yet.[^8] The SWD went to work quickly, undertaking to supply a free meal a day to selected children at two existing crèches – one on Victoria Street and another on New Market Road – both of which were operated by the Child Welfare Society.[^9]
 
@@ -50,7 +48,7 @@ Besides feeding, the voluntary workers also engaged the children in activities. 
 
 “Because there was no education, they [the children] had nothing to do, nothing to occupy them… But a whole batch of volunteers taught the boys carpentry, and lessons in English and Chinese; and the girls would have also lessons in Chinese and English and learned to do knitting and sewing… I felt we were helping the children who were needy.”[^18]
 
-<div style="background-color: white;"><img src="/images/Vol-15-issue-1/feeding-the-hungry/03_hungrychildren.png">Girls learning how to knit at a Children’s Social Centre, 1951. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;"><img style="width:600px" src="/images/Vol-15-issue-1/feeding-the-hungry/03_hungrychildren.png">Girls learning how to knit at a Children’s Social Centre, 1951. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **Going Beyond Food**
 
@@ -60,7 +58,7 @@ Other than plans to expand the functions of the centres, the SWD also widened th
 
 Lady McNeice recalled that these older siblings would “look longingly at what was being done for the younger children”.[^20] Since older children were not entitled to free meals at the centres, volunteers collected money to buy them food from Family Restaurants (see text box below). The volunteers also organised meaningful activities for the older children, such as training in carpentry, sewing, handicraft and laundry work.[^21]
 
-<div style="background-color: white;"><img src="/images/Vol-15-issue-1/feeding-the-hungry/04_hungrychildren.png">A carpentry lesson for older children in progress, 1962. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;"><img style="width:650px" src="/images/Vol-15-issue-1/feeding-the-hungry/04_hungrychildren.png">A carpentry lesson for older children in progress, 1962. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 In June 1947, the Finance Committee approved the SWD’s proposal to employ full-time paid staff at selected centres so that these could be kept open throughout the day as clubs for children as well as provide older children with daily free meals – with the proviso that the number of such children not exceed 25 percent of the number of children aged between two and six.[^22] Thus, over time, the services at these centres were expanded to meet the nutritional, social and educational needs of older children up to 14 years of age.
 
@@ -70,19 +68,21 @@ The SWD noted in 1949 that this expansion was initiated and largely carried out 
 
 As the functions of the children’s feeding centres evolved over the years, most volunteers voted to rename the centres as Children’s Social Centres. So, from 29 October 1948, the feeding centres became officially known as Children’s Social Centres. In addition to the provision of free meals, the centres now provided educational and recreational activities, such as classes in English, Mandarin, arithmetic, knitting, sewing, wood modelling, basket-making, painting, hygiene, gardening, doll-making, book-binding, physical training and games.[^25]
 
+<div style="background-color: white;"><img style="width:600px" src="/images/Vol-15-issue-1/feeding-the-hungry/02_hungrychildren.png">The Children’s Social Centres sought to teach children daily living skills and good habits such as cleaning up after themselves, 1952. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
 Picnics, parties and cinema outings were also organised to keep the children entertained.[^26] Much care and thought went into organising Christmas parties at the centres. The organisers sought out sponsors for treats and gifts, taught the children to put up performances and also arranged for visits by Santa Claus.[^27] For the 1952 Christmas celebrations, C.E. MacCormack of the SWD wrote to the managing director of Rediffusion, requesting that his staff Jimmy Choo, who was known for his magic tricks, be given leave of absence on 11, 17 and 18 December to perform magic shows at Christmas parties held at the Children’s Social Centres. The request was granted.[^28]
 
-<div style="background-color: white;"><img src="/images/Vol-15-issue-1/feeding-the-hungry/06_hungrychildren.png">A Christmas party in full swing at a Children’s Social Centre, 1955. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;"><img style="width:700px" src="/images/Vol-15-issue-1/feeding-the-hungry/06_hungrychildren.png">A Christmas party in full swing at a Children’s Social Centre, 1955. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 Instructors were also hired to provide training in vocational subjects such as tailoring, carpentry and rattan-work.[^29] Alongside these training programmes, the SWD organised events in the 1950s, such as the annual sale of handicrafts made by the children at the centres.[^30] The handicrafts included woodwork, basketry, toys, knitted items and needlework.
 
 Some centres also set up food stalls at the events, and companies such as Fraser and Neave and Cold Storage sold drinks and ice cream, pledging part of the profits to charity. Cathay, Shaw, Rex and other cinemas also chipped in by screening publicity slides of the events in their theatres. Most of these fund-raising events would take place in the final months of the year when people did their annual Christmas shopping.
 
+<div style="background-color: white;"><img style="width:600px" src="/images/Vol-15-issue-1/feeding-the-hungry/07_hungrychildren.png">Lady Anne Black (wearing hat), wife of then Governor of Singapore Robert Black, at the annual sale of works organised by voluntary workers of the Children’s Social Centres, 1956. The items for sale were made by children at the centres. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
 In time, feeding children became less of a concern than it had been in the immediate post-war period. A committee appointed to review the child feeding scheme in 1950 assessed that it was no longer necessary to provide full meals for the children. Instead, a snack consisting of a vitamin-fortified bun was now dispensed together with a milk drink and fresh fruit.[^31] Education now became the focus of the Children’s Social Centres, and the SWD organised classes to train staff so that they would be better equipped to nurture the children and help develop their fullest potential. The topics included lessons in teaching and learning, planning kindergarten activities, art and craft, music, dance, identifying common children’s diseases as well as child development.[^32]
 
 In the years to come, as the government opened up more primary school places for children, the Children’s Social Centres faced falling enrolments and started closing down in the 1960s. Conversely, with more women joining the workforce, the SWD began to build more crèches for preschool-age children.[^33] These crèches provided childcare services to families in the lower income groups. The National Trades Union Congress took over the running of these crèches in the late 1970s.[^34]
-
-<div style="background-color: white;"><img src="/images/Vol-15-issue-1/feeding-the-hungry/07_hungrychildren.png">Lady Anne Black (wearing hat), wife of then Governor of Singapore Robert Black, at the annual sale of works organised by voluntary workers of the Children’s Social Centres, 1956. The items for sale were made by children at the centres. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **A Village to Raise a Child**
 
@@ -90,7 +90,7 @@ While the records of the SWD trace the history and development of child feeding 
 
 There were the staff of government departments as well as voluntary workers who collaborated in the running and funding of the centres and crèches, property owners who allowed children’s centres to be set up on their premises, businesses that supported the sale events, philanthropists like Lee Kong Chian who paid for items sold at the sale events,[^35] and various sponsors of gifts and treats.
 
-<div style="background-color: white;"><img src="/images/Vol-15-issue-1/feeding-the-hungry/05_hungrychildren.png">Baby cots and floor mats for naptime at a crèche, 1963. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;"><img style="width:700px" src="/images/Vol-15-issue-1/feeding-the-hungry/05_hungrychildren.png">Baby cots and floor mats for naptime at a crèche, 1963. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 As the familiar proverb goes, “it takes a village to raise a child”, these files offer a first-hand look into the “village” that helped to feed and nurture the children of Singapore in the decades following the Japanese Occupation.
 
@@ -98,7 +98,7 @@ As the familiar proverb goes, “it takes a village to raise a child”, these f
 <br><br>
 Family Restaurants were one of the communal feeding schemes managed by the Social Welfare Department after the Japanese Occupation. The first Family Restaurant was opened on 18 December 1946 at Maxwell Market, serving eight-cent meals consisting of rice, potatoes, salmon, green peas, gravy and iced water or Chinese tea. By then, People’s Restaurants (another communal feeding scheme) had been in operation for half a year, charging 35 cents a meal.
 <br><br>
-<img src="/images/Vol-15-issue-1/feeding-the-hungry/08_hungrychildren.png">Having a square meal for 35 cents at a People’s Restaurant, c. 1946. The first of such restaurants opened on 29 June 1946 to provide lunch for workers at subsidised rates. <i>Ministry of Culture Collection, courtesy of National Archives of Singapore.</i>
+<img style="width:500px" src="/images/Vol-15-issue-1/feeding-the-hungry/08_hungrychildren.png">Having a square meal for 35 cents at a People’s Restaurant, c. 1946. The first of such restaurants opened on 29 June 1946 to provide lunch for workers at subsidised rates. <i>Ministry of Culture Collection, courtesy of National Archives of Singapore.</i>
 <br><br>
 People’s Restaurants catered primarily to wage earners wanting a mid-day meal at a reasonable price, while Family Restaurants sought to provide healthy meals at the cheapest possible price to those of lesser means. The Social Welfare Department discontinued feeding schemes from late 1948 onwards as demand had fallen due to improved economic conditions.</span>
 
@@ -116,7 +116,7 @@ People’s Restaurants catered primarily to wage earners wanting a mid-day meal 
 
 [^1]:Cheng, S.H. (1991). Economic change and industrialization. In E.C.T. Chew & E. Lee (Eds.), *[A history of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5914108)* (p. 182). Singapore: Oxford University Press. (Call no.: RSING 959.57 HIS-[HIS]) 
 
-[^2]:Kratoska, P.H. (1988, March). The post-1945 food shortage in British Malaya. Journal of Southeast Asian Studies, 19(1), 27–47, pp. 32–33. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website. 
+[^2]:Kratoska, P.H. (1988, March). *The post-1945 food shortage in British Malaya. Journal of Southeast Asian Studies, 19* (1), 27–47, pp. 32–33. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website. 
 
 [^3]:Ho, C.T. (2013, October–December). Communal feeding in post-war Singapore. *[BiblioAsia](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx), 9* (3), 2–7; Foo, K.L. (1981, December 4). *[Oral history interview with Thomas Percy Ferguson McNeice](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/d/df4a2687-115d-11e3-83d5-0050568939ad-OHC000099_012/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png)* [Transcript of recording no. 000099/22/12]. Retrieved from National Archives of Singapore website. 
 
