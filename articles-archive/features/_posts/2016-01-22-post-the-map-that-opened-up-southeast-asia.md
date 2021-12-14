@@ -25,15 +25,15 @@ layout: post
 <br>
 <b>Donated by:</b> Koh Seow Chuan (monochrome version)</span>
 
-By the late 16th century, the Portuguese had dominated the trade in Southeast Asia for nearly a hundred years. Its monopoly depended on closely guarded knowledge about the best sailing routes to the region, known as the East Indies at the time.[^1]
+By the late 16th century, the Portuguese had dominated the trade to Southeast Asia for nearly a hundred years. Its monopoly depended on closely guarded knowledge about the best sailing routes to the region, known as the East Indies at the time.[^1]
 
 But a Dutchman called Jan Huygen van Linschoten changed the course of history for Singapore and Southeast Asia by deciphering the secrets of the Portuguese and sharing them with the world. Linschoten was the secretary to Don Frey Vicente de Fonseca, the Archbbishop of Goa, which was then under Portuguese rule. During his employment, Linschoten painstakingly made copies of archives that spelt out the closely guarded sailing directions.
 
 <div style="background-color: white;"><img style="width:400px" src="/images/vol-11-issue-4/map-that-opened-southeast-asia/01_mapthatopenedsea.jpg">Jan Huygen van Linschoten (1563–1611). Reproduced from Het Itinerario van Jan Huygen van Linschoten 1579-1592. <i>Courtesy of Wikimedia Commons.</i></div>
 
-Combining this information with his own travel experiences and observations in Goa, Linschoten created a maritime handbook that was published in 1595. The following year, he revealed even more of his hard-earned knowledge in a second, more detailed work: *Itinerario, Voyage ofte Schipvaert van Jan Huygen van Linschoten naer Oost ofte Portugaels Indien, 1579–1592* (*Travel Account of the Voyage of the Sailor Jan Huygen van Linschoten to the Portuguese East India*).
+Combining this information with his own travel experiences and observations in Goa, Linschoten created *Reysgheschrift vande navigatien der Portugaloysers in Orienten* (Travel accounts of Portuguese navigation in the Orient), a maritime handbook published in 1595. The following year, he revealed even more of his hard-earned knowledge in a second, more detailed work: *Itinerario, Voyage ofte Schipvaert van Jan Huygen van Linschoten naer Oost ofte Portugaels Indien, 1579–1592* (*Travel Account of the Voyage of the Sailor Jan Huygen van Linschoten to the Portuguese East India*).
 
-The landmark *Itinerario* laid bare the Portuguese’s unrivalled information for navigating 16th-century Southeast Asia through the Malacca Straits. Aware that the Portuguese might not look favourably on outsiders who had gained access to their routes, Linschoten also included in it a recommendation to navigators to approach the region through the Sunda Straits in order to avoid Portuguese reprisal.[^2]
+The landmark *Itinerario* laid bare the Portuguese’s unrivalled information for navigating 16th-century Southeast Asia through the Melaka Straits. Aware that the Portuguese might not look favourably on outsiders who had gained access to their routes, Linschoten also included in it a recommendation to navigators to approach the region through the Sunda Straits in order to avoid Portuguese reprisal.[^2]
 
 The exposure of the Portuguese’s secrets ended their dominance in Southeast Asia. Two years later, in 1598, an English translation of the *Itinerario* was published in London. The release of the original work and the English edition launched a race between Dutch and English companies to claim the East Indies trade. This set the stage for Stamford Raffles’ arrival on Singapore’s shores more than two centuries later in 1819.
 
@@ -61,15 +61,15 @@ This hand-coloured 1596 map is part of the National Library’s David Parry Sout
 
 #### **NOTES**
 
-[^1]:Parry, D.E. (2005). *[The cartography of the East Indian Islands = Insulae Indiae Orientalis](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12669569)* (p. 83). London: Country Editions. (Call no.: RSING q912.59 PAR)
+[^1]:Parry, D.E. (2005). *[The cartography of the East Indian Islands = Insulae Indiae Orientalis](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12669569)* (p. 83). London: Country Editions. Call no.: RSING q912.59 PAR
 
-[^2]:[Parry](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12669569), 2005, pp. 84–85; Suarez, T. (1999). *[Early mapping of Southeast Asia](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9654316)* (p. 177). Hong Kong: Periplus. (Call no.: RSING q912.59 SUA)
+[^2]:[Parry](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12669569), 2005, pp. 84–85; Suarez, T. (1999). *[Early mapping of Southeast Asia](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9654316)* (p. 177). Hong Kong: Periplus. Call no.: RSING q912.59 SUA
 
 [^3]:[Parry](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12669569), 2005, p. 87.
 
 [^4]:[Suarez](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9654316), 1999, p. 179; Sanderus Maps. (2004–2015). *Old antique map of Southeast Asia by Jan Huygen van Linschoten oriented to the East*. Retrieved from Sanderus Antiquariaat website.
 
-[^5]:Borschberg, P. (Ed.). (2004). Remapping the Straits of Singapore? New insights from old sources, In *[Iberians in the Singapore-Melaka Area (16th to 18th century)](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12493225)* (p. 96). Wiesbaden: Harrossowitz; Lisboa: Fundacao Oriente. (Call no.: RSING 959.50046 BOR)
+[^5]:Borschberg, P. (Ed.). (2004). *Remapping the Straits of Singapore?* New insights from old sources, In *[Iberians in the Singapore-Melaka Area (16th to 18th century)](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12493225)* (p. 96). Wiesbaden: Harrossowitz; Lisboa: Fundacao Oriente. Call no.: RSING 959.50046 BOR
 
 [^6]:Sanderus Maps, 2004–2015.
 
