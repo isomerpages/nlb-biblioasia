@@ -6,10 +6,25 @@ image: /images/vol-11-issue-4/anglo-dutch-political/01_political.jpg
 layout: post
 description: ""
 ---
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>ABOUT THE MANUSCRIPT</b>
+<br><br>
+	<b>Title:</b> <i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=12761796">Letter from Sir Thomas Stamford Raffles to John Tayler</a></i>
+<br>
+<b>Author:</b> Stamford Raffles (1781–1826)
+<br>
+<b>Year written:</b> 9 June 1819
+<br>
+<b>Language:</b> English
+<br>
+<b>Type:</b> Manuscript; 4 pages; 26cm by 21cm
+<br>
+<b>Location:</b> Call no.: RRARE 959.5703 RAF
+<br>
+<b>Accession no.: </b>B18835716F</span>
 
 Among the 19 letters held in the Rare Materials Collection of the National Library is one from Stamford Raffles to his business agent and friend, John Tayler, a London-based East India merchant. Interesting, this is also the first letter by Raffles that the National Library acquired in 1987.
 	
-<div style="background-color: white;"><img style="width:500px" src="/images/vol-11-issue-4/anglo-dutch-political/01_political.jpg">This is the first letter by Stamford Raffles acquired by the National Library in 1987. Dated 9 June 1819, the letter was addressed to John Tayler, his business agent and friend. <i>All rights reserved, National Library Board, Singapore.</i></div>
+<div style="background-color: white;"><img style="width:450px" src="/images/vol-11-issue-4/anglo-dutch-political/01_political.jpg">This is the first letter by Stamford Raffles acquired by the National Library in 1987. Dated 9 June 1819, the letter was addressed to John Tayler, his business agent and friend. <i>All rights reserved, National Library Board, Singapore.</i></div>
 
 This handwritten letter is slightly unusual in the sense that it reveals Raffles’ private thoughts to a confidant and friend, and offers his first-hand insights into the rivalry between the British and the Dutch in the Malay Archipelago.
 
@@ -37,19 +52,7 @@ In 2012, the letter was transcribed by Dr John Bastin, an eminent scholar and a 
 
 **Written By:** Nor-Afidah Abdul Rahman
 
-<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>ABOUT THE MANUSCRIPT</b>
-<br><br>
-	<b>Title:</b> <i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=12761796">Letter from Sir Thomas Stamford Raffles to John Tayler</a></i>
-<br>
-<b>Author:</b> Stamford Raffles (1781–1826)
-<br>
-<b>Year written:</b> 9 June 1819
-<br>
-<b>Language:</b> English
-<br>
-<b>Type:</b> Manuscript; 4 pages; 26cm by 21cm
-<br>
-<b>Location:</b> Call no.: RRARE 959.5703 RAF</span>
+<a href="/vol-11/issue-4/jan-mar-2016/"><center>Back to Issue</center></a>
 
 #### **NOTES**
 
