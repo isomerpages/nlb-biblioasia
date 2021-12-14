@@ -72,6 +72,6 @@ In 2012, the letter was transcribed by Dr John Bastin, an eminent scholar and a 
 
 [^8]:National Library of Australia. (2001). *Treasures from the world’s great libraries.* Retrieved from National Library of Australia website.
 
-[^9]:National Library Board. (2002). *[Annual report 2001/2002](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8771296)* (p. 24). Singapore: National Library Board. Call no.: RCLOS q027.05957 SNLBAR-[AR]
+[^9]:National Library Board. (2002). *[Annual report 2001/2002](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8771296)* (p. 24). Singapore: National Library Board. Call no.: RCLOS 027.05957 SNLBAR-[AR]
 
 [^10]:[Bastin](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14404109), 2012, Preface.
