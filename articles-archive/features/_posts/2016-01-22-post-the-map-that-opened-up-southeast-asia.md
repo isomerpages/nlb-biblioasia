@@ -5,6 +5,24 @@ permalink: /vol-11/issue-4/jan-mar-2016/mapthatopenedupseasia
 image: /images/vol-11-issue-4/map-that-opened-southeast-asia/01_mapthatopenedsea.jpg
 layout: post
 ---
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>ABOUT THE MAP</b>
+<br><br>
+<b>Title:</b> <i><a href="https://eresources.nlb.gov.sg/printheritage/detail/302a34a9-17c9-48db-abcb-53133aa7c27a.aspx">Exacta & Accurata Delineatio cum Orarum Maritimdrum tum etjam locorum terrestrium quae in Regionibus China, Cauchinchina, Camboja sive Champa, Syao, Malacca, Arracan & Pegu… (The True Depiction or Illustration of all the Coasts and Lands of China, Cochin China, Cambodia, Siam, Malacca, Arracan and Pegu, Likewise of all the Adjacent Islands, Large and Small, Together with the Cliffs, Riffs, Sands, Dry Parts and Shallows; All Taken from the Most Accurate Sea Charts and Rutters in Use by the Portuguese Pilots Today)</a></i>
+<br>
+<b>Creator:</b> Jan Huygen van Linschoten (1563–1611)
+<br>
+<b>Year published:</b> 1596
+<br>
+<b>Publisher:</b> Cornelis Claesz (Amsterdam)
+<br>
+<b>Language:</b> Latin and Dutch
+<br>
+<b>Type:</b> Map; 39cm by 52cm
+<br>
+<b>Location:</b> Call n.o.: RRARE 912.5 LIN
+<br>
+<b>Donated by:</b> Koh Seow Chuan (monochrome version)</span>
+
 By the late 16th century, the Portuguese had dominated the trade in Southeast Asia for nearly a hundred years. Its monopoly depended on closely guarded knowledge about the best sailing routes to the region, known as the East Indies at the time.[^1]
 
 But a Dutchman called Jan Huygen van Linschoten changed the course of history for Singapore and Southeast Asia by deciphering the secrets of the Portuguese and sharing them with the world. Linschoten was the secretary to Don Frey Vicente de Fonseca, the Archbbishop of Goa, which was then under Portuguese rule. During his employment, Linschoten painstakingly made copies of archives that spelt out the closely guarded sailing directions.
@@ -37,23 +55,7 @@ This hand-coloured 1596 map is part of the National Library’s David Parry Sout
 
 **Written by:** Irene Lim
 
-<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>ABOUT THE MAP</b>
-<br><br>
-<b>Title:</b> <i><a href="https://eresources.nlb.gov.sg/printheritage/detail/302a34a9-17c9-48db-abcb-53133aa7c27a.aspx">Exacta & Accurata Delineatio cum Orarum Maritimdrum tum etjam locorum terrestrium quae in Regionibus China, Cauchinchina, Camboja sive Champa, Syao, Malacca, Arracan & Pegu… (The True Depiction or Illustration of all the Coasts and Lands of China, Cochin China, Cambodia, Siam, Malacca, Arracan and Pegu, Likewise of all the Adjacent Islands, Large and Small, Together with the Cliffs, Riffs, Sands, Dry Parts and Shallows; All Taken from the Most Accurate Sea Charts and Rutters in Use by the Portuguese Pilots Today)</a></i>
-<br>
-<b>Creator:</b> Jan Huygen van Linschoten (1563–1611)
-<br>
-<b>Year published:</b> 1596
-<br>
-<b>Publisher:</b> Cornelis Claesz (Amsterdam)
-<br>
-<b>Language:</b> Latin and Dutch
-<br>
-<b>Type:</b> Map; 39cm by 52cm
-<br>
-<b>Location:</b> Call n.o.: RRARE 912.5 LIN
-<br>
-<b>Donated by:</b> Koh Seow Chuan (monochrome version)</span>
+<a href="/vol-11/issue-4/jan-mar-2016/"><center>Back to Issue</center></a>
 
 #### **NOTES**
 
