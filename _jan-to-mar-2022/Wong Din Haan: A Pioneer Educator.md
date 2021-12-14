@@ -105,6 +105,8 @@ Grandaunt Wong Din Haan was a remarkable woman. Although she is remembered as a 
 
 However, my grandaunt had been so modest and retiring that even her grandchildren do not know of her achievements. This essay honours her memory by bringing her out of the shadows of the past. I hope that her legacy of dedication, courage and determination will live on and serve as an inspiration for future generations to come.  
 
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">I am grateful to Lim Guan Hock, former deputy director of the National Archives of Singapore, Bak Jia How and the late Professor Zheng Liang Shu for their assistance in writing this essay.</div>
+
 #### **NOTES**
 
 [^1]: 郑良树 [Zheng Liang Shu], “新马华社早期的女子教育” [“Early Education for Girls in the New Malayan Society”], 马来西亚华人研究学刊 [*Journal of Malaysian Chinese Studies*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84445336), no. 1 (1997), 49. (From National Library, Singapore, Call no. RU 959.5004951 JMCS) 
