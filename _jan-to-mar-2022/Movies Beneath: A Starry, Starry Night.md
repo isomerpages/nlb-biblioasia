@@ -161,3 +161,5 @@ As these examples demonstrate, there is still a market for the occasional drive-
 [^34]:How Hwee Young, “Reliving the Good Old Days,” *Straits Times*, 23 February 2003, 4. (From NewspaperSG)
 
 [^35]:“MovieMob,” Ape Works Pte Ltd, last modified 2019, https://www.ape.sg/moviemob.html; MovieMob, Facebook, 2020, https://www.facebook.com/apemoviemob; “Cycle & Carriage and Citroën Organise French Drive-in Movie,” Marketing Interactive, 15 February 2016, https://www.marketing-interactive.com/cycle-carriage-citroen-organise-french-drive-movie.
+
+[^36]:Siti Hawa, “Drive-in Movie Screenings Available in S’pore for S$18 Per Car, Includes 2 Burgers & Drinks,” Mothership, 25 July 2020, https://mothership.sg/2020/07/downtown-east-drive-in-movie/; Belmont Lay, “Drive-in Movie Screening at Pasir Ris Downtown East on Aug. 8, 2020 Cancelled,” Mothership, 3 August 2020, https://mothership.sg/2020/08/pasir-ris-drive-in-movie-screennig-cancelled-downtown-east/.
