@@ -100,17 +100,17 @@ As these examples demonstrate, there is still a market for the occasional drive-
 
 [^4]:“ [*Cathay’s Jurong Drive-in Cinema*](http://eresources.nlb.gov.sg/newspapers/Digitised/Page/straitstimes19710714-1.1.18)”; “Some Close Encounters at the Drive-in.” 
 
-[^5]:“Cathay’s Jurong Drive-in Cinema.” 
+[^5]:“ [*Cathay’s Jurong Drive-in Cinema.*](http://eresources.nlb.gov.sg/newspapers/Digitised/Page/straitstimes19710714-1.1.18)” 
 
-[^6]:Eugene Ban Hing Ker, oral history interview by Teo Kian Giap, 20 December 2014, MP3 audio, Reel/Disc 1 of 20, 38:15. (From National Archives of Singapore, Accession no. 003963) 
+[^6]: [*Eugene Ban Hing Ker *](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/2adbfd53-c233-11e4-859c-0050568939ad), oral history interview by Teo Kian Giap, 20 December 2014, [*MP3 audio, Reel/Disc 1 of 20, 38:15.  (From National Archives of Singapore, Accession no. 003963) *](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/2adbfd53-c233-11e4-859c-0050568939ad?keywords=jurong%20drive%20in%20cinema&keywords-type=all)
 
-[^7]:Lim Kay Tong, Cathay: *55 Years of Cinema* (Singapore: Landmark Books, 1991), 69. (From National Library, Singapore, Call no. RSING 791.43095957 LIM); “Cathay’s Jurong Drive-in Cinema”; Arthur Richards, “Drive-in off to a Funny Start,” *Straits Times*, 27 June 1971, 20; Nancy Byramji, “900 Cars at ‘Drive-in’,” *Straits Times*, 15 July 1971, 15; “Big Rush Daily to See Films at Drive-in Cinema,” *Straits Times*, 23 July 1971, 22. (From NewspaperSG)
+[^7]:Lim Kay Tong, [*Cathay: 55 Years of Cinema* ](http://eservice.nlb.gov.sg/item_holding.aspx?bid=6095688)(Singapore: Landmark Books, 1991), 69. (From National Library, Singapore, Call no. RSING 791.43095957 LIM); "[*Cathay’s Jurong Drive-in Cinema*](http://eresources.nlb.gov.sg/newspapers/Digitised/Page/straitstimes19710714-1.1.18)”; Arthur Richards, “[*Drive-in off to a Funny Start*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710627-1.2.79),” *Straits Times*, 27 June 1971, 20; Nancy Byramji, “[*900 Cars at ‘Drive-in’*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710715-1.2.124),” *Straits Times*, 15 July 1971, 15; “[*Big Rush Daily to See Films at Drive-in Cinema*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710723-1.2.110),” *Straits Times*, 23 July 1971, 22. (From NewspaperSG)
 
-[^8]: Lim, *Cathay*, 69; Jan Uhde and Yvonne Ng Uhde, *Latent Images: Film in Singapore* (Singapore: Oxford University Press, 2000), 198. (From National Library, Singapore, Call no. RSING 384.8095957 UHD); “Cathay’s Jurong Drive-in Cinema”; Ronnie Wai, “Jurong Drive-in’s Lot is an Unhappy One,” Straits Times, 10 December 1981, 11; Judith Hale, “‘We Won’t Make Much’,” *New Nation*, 29 March 1978, 2., (From NewspaperSG)
+[^8]: Lim, [*Cathay*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=6095688), 69; Jan Uhde and Yvonne Ng Uhde, [*Latent Images: Film in Singapore*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=13186916) (Singapore: Oxford University Press, 2000), 198. (From National Library, Singapore, Call no. RSING 384.8095957 UHD); [*“Cathay’s Jurong Drive-in Cinema*](http://eresources.nlb.gov.sg/newspapers/Digitised/Page/straitstimes19710714-1.1.18)”; Ronnie Wai, “[*Jurong Drive-in’s Lot is an Unhappy One*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19811210-1.2.57),” Straits Times, 10 December 1981, 11; Judith Hale, “‘[*We Won’t Make Much’,*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19780329-1.2.16)” *New Nation*, 29 March 1978, 2., (From NewspaperSG)
 
-[^9]: Lito Gutierrez, “It’s Curtains for Jurong Drive-in Tomorrow,” *Straits Times*, 29 September 1985, 10. (From NewspaperSG); “Some Close Encounters at the Drive-in.”
+[^9]: Lito Gutierrez, “[*It’s Curtains for Jurong Drive-in Tomorrow*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850929.2.24.1.aspx),” *Straits Times*, 29 September 1985, 10. (From NewspaperSG); “[*Some Close Encounters at the Drive-in.*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19831218-1.2.124.17.1)”
 
-[^10]:“It’s Curtains for Jurong Drive-in Tomorrow.”
+[^10]:“ [*It’s Curtains for Jurong Drive-in Tomorrow.*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850929.2.24.1.aspx)”
 
 [^11]:“It’s Curtains for Jurong Drive-in Tomorrow.”
 
