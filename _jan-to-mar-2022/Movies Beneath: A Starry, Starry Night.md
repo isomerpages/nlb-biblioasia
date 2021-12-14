@@ -142,11 +142,11 @@ As these examples demonstrate, there is still a market for the occasional drive-
 
 [^25]:“ [*End of Road for Drive-in?,*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19811210-1.2.6)” *New Nation*, 10 December 1982, 2. (From NewspaperSG); “Some Close Encounters at the Drive-in.” 
 
-[^26]:Ronald Goh Wee Huat, interview.
+[^26]: [*Ronald Goh Wee Huat*](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/055bcb28-1163-11e3-83d5-0050568939ad), interview.
 
-[^27]:“Jurong Drive-in’s Lot is an Unhappy One.” *Straits Times*, 10 December 1981, 11. (From NewpaperSG)
+[^27]:“ [*Jurong Drive-in’s Lot is an Unhappy One*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19811210-1.2.57).” *Straits Times*, 10 December 1981, 11. (From NewpaperSG)
 
-[^28]:“Jurong Drive-in’s Lot is an Unhappy One.”
+[^28]:“[*Jurong Drive-in’s Lot is an Unhappy One.*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19811210-1.2.57)”
 
 [^29]:“It’s Curtains for Jurong Drive-in Tomorrow.”
 
