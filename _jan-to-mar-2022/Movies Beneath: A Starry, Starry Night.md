@@ -128,13 +128,13 @@ As these examples demonstrate, there is still a market for the occasional drive-
 
 [^18]:“[*Untitled*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19721124-1.2.98.6),” *Straits Times*, 24 November 1972, 21. (From NewspaperSG)
 
-[^19]:Mid-Nightmare, “Too Noisy to Sleep,” *Straits Times*, 24 August 1982, 15. (From NewspaperSG)
+[^19]:Mid-Nightmare, “[*Too Noisy to Sleep,*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820824-1.2.59.10.1)” *Straits Times*, 24 August 1982, 15. (From NewspaperSG)
 
-[^20]:Yeow Shang Ying, “Action Taken at Drive-in,” *Straits Times*, 27 September 1982, 15. (From NewspaperSG)
+[^20]:Yeow Shang Ying, “[*Action Taken at Drive-in,” *Straits Times*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820927-1.2.71.4.1)*, 27 September 1982, 15. (From NewspaperSG)
 
-[^21]: “Jurong Police Keeping Watch on Drive-In,” *Singapore Monitor*, 6 March 1983, 3. (From NewspaperSG)
+[^21]: “ [*Jurong Police Keeping Watch on Drive-In*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19830306-1.2.3.5),” *Singapore Monitor*, 6 March 1983, 3. (From NewspaperSG)
 
-[^22]: Lim, *Cathay*, 69.
+[^22]: Lim, [*Cathay*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=6095688), 69.
 
 [^23]:“Loot for 8 Armed Robbers: A Torchlight,” *New Nation*, 4 May 1977, 1. (From NewspaperSG)
 
