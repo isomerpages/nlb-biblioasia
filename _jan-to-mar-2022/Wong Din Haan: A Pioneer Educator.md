@@ -25,7 +25,7 @@ I was confused because no one in the family seemed to know about the existence o
 
 Founded in 1905, the school can be linked to the events in China following the aftermath of the Boxer Rebellion that lasted from 1899 to 1901.[^4] The Boxer Protocol signed on 7 September 1901 ended hostilities and those involved were executed. Following this, Empress Dowager Cixi reluctantly gave way to pressure for reforms and an extensive reform programme simply referred to as New Policies – a series of cultural, economic, educational, military, social and political reforms – was launched in late 1901.
 
-Reforms to the education system in China also had an impact on Chinese education in Singapore. The Chinese imperial examinations (科举) to select candidates for the state bureaucracy, which had been the pinnacle of the education system in China for centuries, was abolished in 1905.  The entire education system was overhauled and an Education Bureau was established to take charge of the modernisation and administration of national education leading to a university degree. In his book, The Rise of Modern China, Immanuel Hsü noted that provincial academies were transformed into colleges, prefectural schools into middle schools, and district schools into elementary schools.[^5] These reforms marked the beginning of the modern Chinese education system.
+Reforms to the education system in China also had an impact on Chinese education in Singapore. The Chinese imperial examinations (科举) to select candidates for the state bureaucracy, which had been the pinnacle of the education system in China for centuries, was abolished in 1905.  The entire education system was overhauled and an Education Bureau was established to take charge of the modernisation and administration of national education leading to a university degree. In his book, _The Rise of Modern China_, Immanuel Hsü noted that provincial academies were transformed into colleges, prefectural schools into middle schools, and district schools into elementary schools.[^5] These reforms marked the beginning of the modern Chinese education system.
 
 Although born in Singapore, my grandfather Wong Siew Nam (黄兆楠), who was better known in literary circles by his alternate name Wong Ging Tong (黄景棠), was then living in Guangzhou. Like other intellectuals of his time, he would have been caught up in the fervour for reform although we have no evidence of his role, if any, in the reform movement. However, he was a friend of the leading thinkers and political activists of the time, Kang Youwei (康有为) and Liang Qichao (梁启超), both of whom were also Cantonese. As a person who had sat for and obtained a degree in the last imperial examinations held between 1909 and 1912, my grandfather greeted the reforms in education with enthusiasm and could not resist the challenge of establishing a new category of school with a new syllabus and new teaching methods.
 
@@ -67,7 +67,7 @@ When the Singapore chapter of the international martial arts organisation, Chin 
 
 #### **Business and Religion** 
 
-It was also around the 1920s that Wong Din Haan ventured into business. She started out with rubber planting and then turned to tin mining. She owned and managed Mei Yuan Company, a tin mining company in which she was said to have invested a substantial amount of money. She was no armchair investor and made a trip to Ipoh, accompanied by her assistant He Wen Lan, to personally inspect mining pools, tin dredges and palong (a wooden structure for sorting tin ore) and to view mining operations – all this while immaculately dressed in her cheongsam and her chignon still in place. 
+It was also around the 1920s that Wong Din Haan ventured into business. She started out with rubber planting and then turned to tin mining. She owned and managed Mei Yuan Company, a tin mining company in which she was said to have invested a substantial amount of money. She was no armchair investor and made a trip to Ipoh, accompanied by her assistant He Wen Lan, to personally inspect mining pools, tin dredges and _palong_ (a wooden structure for sorting tin ore) and to view mining operations – all this while immaculately dressed in her _cheongsam_ and her _chignon_ still in place. 
 
 Author Zhao Guan Hai (招观海) described her thus:
 
@@ -82,11 +82,11 @@ My grandaunt was also a member of the first committee of the Women’s Wing of t
 
 When the Second Sino-Japanese War (1937–45) broke out in China, Japanese aggression aroused much anger from the overseas Chinese communities. The Chinese Chamber of Commerce took the lead in raising funds and set up the China Relief Fund Committee in 1937 (with prominent businessman and philanthropist Tan Kah Kee as president). My father Wong Peng Shing (黄秉盛), who was a member of the Chinese Chamber of Commerce, was very much involved in fundraising and I still vividly remember the anger and anxiety he felt and how hard he worked to raise funds to alleviate the suffering of refugees.
 
-The Nanyang Siang Pau newspaper (南洋商报) reported that the refugee relief effort was led by two elderly women, 69-year-old Mrs Leong Yuen Ho and 63-year-old Wong Din Haan. The journalist described the latter as a progressive thinker who promoted education for girls. Despite the fact that she came from a wealthy family and could have led a life of ease and leisure, she had founded a school for girls and was now active in raising funds for refugee relief. Although she seemed frail and did not speak much, she worked with strength and determination. The journalist added that all over Nanyang, everyone knew of the name “Wong Din Haan” and she was known as “The number one good person in Nanyang”.[^16] 
+The _Nanyang Siang Pau_ newspaper (南洋商报) reported that the refugee relief effort was led by two elderly women, 69-year-old Mrs Leong Yuen Ho and 63-year-old Wong Din Haan. The journalist described the latter as a progressive thinker who promoted education for girls. Despite the fact that she came from a wealthy family and could have led a life of ease and leisure, she had founded a school for girls and was now active in raising funds for refugee relief. Although she seemed frail and did not speak much, she worked with strength and determination. The journalist added that all over Nanyang, everyone knew of the name “Wong Din Haan” and she was known as “The number one good person in Nanyang”.[^16] 
 
 Fundraising took various forms. In September 1937, the Singapore Chinese Women’s Relief Fund was established at the initiative of Mrs Kao Ling-pai, wife of the Chinese Consul-General to Singapore, who became chairman of the fund. Apart from raising funds, it also provided supplies of bandages, medicine, clothing and other necessities to the war-torn areas of China[^17] as well as started a Refugee Children Shop (难童商店) in Singapore.
 
-Fundraising took on new meaning when my grandaunt became president of the Chinese Ladies Association in 1939.[^18]  Her name appeared in the headlines whenever Chinese newspapers reported on local fundraising activities. One of its activities was to run a food stall at the Great World amusement park every Saturday night. Members took turns to cook, and their names and the menus were published in the Chinese newspapers. Delicious offerings at the stall included porridge, noodles, soup, pies and even laksa. 
+Fundraising took on new meaning when my grandaunt became president of the Chinese Ladies Association in 1939.[^18]  Her name appeared in the headlines whenever Chinese newspapers reported on local fundraising activities. One of its activities was to run a food stall at the Great World amusement park every Saturday night. Members took turns to cook, and their names and the menus were published in the Chinese newspapers. Delicious offerings at the stall included porridge, noodles, soup, pies and even _laksa_. 
 
 When Women’s Day was celebrated in March 1940, nearly 1,000 women and schoolgirls gathered at Great World, where their performances, together with the sale of refreshments, raised $10,000 for the China Relief Fund.[^19] My grandaunt made a rousing speech as chairman of the event. War relief work was regarded as a patriotic duty in which the participation of women was welcomed. Fundraising created opportunities for women to exercise their organisational talents and abilities, and assert their qualities of leadership. 
 
@@ -107,7 +107,7 @@ However, my grandaunt had been so modest and retiring that even her grandchildre
 
 #### **NOTES**
 
-[^1]: 郑良树 [Zheng Liang Shu], “新马华社早期的女子教育” [“Early Education for Girls in the New Malayan Society”], 马来西亚华人研究学刊 [Journal of Malaysian Chinese Studies], no. 1 (1997), 49. (From National Library, Singapore, Call no. RU 959.5004951 JMCS) 
+[^1]: 郑良树 [Zheng Liang Shu], “新马华社早期的女子教育” [“Early Education for Girls in the New Malayan Society”], 马来西亚华人研究学刊 [*Journal of Malaysian Chinese Studies*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84445336), no. 1 (1997), 49. (From National Library, Singapore, Call no. RU 959.5004951 JMCS) 
 
 [^2]: Hailing from Guangdong province, China, Wong Ah Fook came to Singapore in 1854 as a carpenter. He first established himself in the building business before venturing into agriculture, revenue farming and banking. He was responsible for the construction of a number of Johor’s heritage buildings, including the Istana Besar, the royal palace of the Sultan of Johor. Jalan Wong Ah Fook in downtown Johor Bahru is named after him.
 
@@ -115,32 +115,32 @@ However, my grandaunt had been so modest and retiring that even her grandchildre
 
 [^4]: The Boxers, (so named because they practised Chinese martial arts, then known as Chinese boxing) were members of a secret society called the Yihequan (Society of Righteous and Harmonious Fists) that aimed to purge China of foreign influences and evict foreigners from China. In June 1900, Empress Dowager Cixi declared war on all foreign nations with diplomatic ties in China. An international force, the Eight-Nation Alliance, was formed comprising America, Austria-Hungary, Britain, France, Germany, Italy, Japan and Russia to quell the rebellion. Hostilities ended with the signing of the Boxer Protocol on 7 September 1901.
 
-[^5]: Immanuel C.Y. Hsü, _The Rise of Modern China,_ 3rd ed (Hong Kong: Oxford University Press, 1989), 410–11. NLB has the 6th edition. See Immanuel C.Y. Hsü, _The Rise of Modern China_ , 6th ed (New York: Oxford University Press, 2000). (Call no. R 951.03 HSU)
+[^5]: Immanuel C.Y. Hsü, _The Rise of Modern China,_ 3rd ed (Hong Kong: Oxford University Press, 1989), 410–11. NLB has the 6th edition. See Immanuel C.Y. Hsü, [*_The Rise of Modern China_*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9362038) , 6th ed (New York: Oxford University Press, 2000). (Call no. R 951.03 HSU)
 
 [^6]: Zheng, “新马华社早期的女子教育” [“Early Education for Girls in the new Malayan Society”], 48.
 
-[^7]: “捐欵千元助賑之黃典嫻及梁鄧氏訪問” [“Contributing a Thousand Dollars for Disaster Relief, An Interview with Wong Din Haan and Madam Leong Tang”], 南洋商报 [_Nanyang Siang Pau_], 31 August 1937, 7. (From NewspaperSG)
+[^7]: [*“捐欵千元助賑之黃典嫻及梁鄧氏訪問”*](eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19370831-1.2.32.8) [“Contributing a Thousand Dollars for Disaster Relief, An Interview with Wong Din Haan and Madam Leong Tang”], 南洋商报 [_Nanyang Siang Pau_], 31 August 1937, 7. (From NewspaperSG)
 
 [^8]: Zheng, “新马华社早期的女子教育” [“Early Education for Girls in the new Malayan Society”], 52.
 
 [^9]: Nan Hua High School, “History,” accessed 15 November 2021, https://nanhuahigh.moe.edu.sg/our-heritage/history. 
 
-[^10]: Lindsay Davis, ed., _Chinese Women’s Association: 100 Fabulous Years_ (Singapore: Editions Didier Millet, [2015]), 20–21. (From National Library, Singapore, Call no. RSING 305.488951095957 CHI)
+[^10]: Lindsay Davis, ed., [*_Chinese Women’s Association: 100 Fabulous Years_*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201295198) (Singapore: Editions Didier Millet, [2015]), 20–21. (From National Library, Singapore, Call no. RSING 305.488951095957 CHI)
 
-[^11]: “本坡精武體育會之新職員” [“New Committee Members of the Singapore Chin Woo Athletic Association”], 南洋商报 [_Nanyang Siang Pau_] 14 April 1925, 3. (From NewspaperSG)  
+[^11]: [*“本坡精武體育會之新職員”*](eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19250414-1.2.13) [“New Committee Members of the Singapore Chin Woo Athletic Association”], 南洋商报 [_Nanyang Siang Pau_] 14 April 1925, 3. (From NewspaperSG)  
 
 [^12]: 招观海 [Zhao Guan Hai], 天南游记 [_Travel Beneath the Southern Skies_] (n.p.: n.p.,1933), 68–70. (Not available in NLB holdings) 
 
-[^13]: 柯木林 [Ke Mulin; Kua Bak Lim], ed., 新加坡华人通史 [_A General History of the Chinese in Singapore_]. (Singapore: Singapore Federation of Chinese Clan Associations, 2015), p.341. (From National Library, Singapore, Call no. Chinese RSING 959.57004951 GEN-[HI)
+[^13]: 柯木林 [Ke Mulin; Kua Bak Lim], ed., [*新加坡华人通史*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202251084) [_A General History of the Chinese in Singapore_]. (Singapore: Singapore Federation of Chinese Clan Associations, 2015), p.341. (From National Library, Singapore, Call no. Chinese RSING 959.57004951 GEN-[HI)
 
-[^14]: “佛教訪問…” [“A Buddhist Interview…”], 南洋商报 [_Nanyang Siang Pau_], 22 April 1940, 7. (From NewspaperSG)
+[^14]: [*“佛教訪問…”*](eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19400422-1.2.57.1) [“A Buddhist Interview…”], 南洋商报 [_Nanyang Siang Pau_], 22 April 1940, 7. (From NewspaperSG)
 
-[^15]: “總商會籌賑會婦女部召開第一次會議議决全部分爲十二組並選出各組正副主任” [“Women’s Wing of the Chinese Chamber of Commerce, at its First Meeting, Splits into 12 Committees and Appoints their Chairmen and Vice-Chairmen”], 南洋商报 [_Nanyang Siang Pau_], 22 February 1932, 6. (From NewspaperSG)
+[^15]: [*“總商會籌賑會婦女部召開第一次會議議决全部分爲十二組並選出各組正副主任”*](eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19320222-1.2.11.2) [“Women’s Wing of the Chinese Chamber of Commerce, at its First Meeting, Splits into 12 Committees and Appoints their Chairmen and Vice-Chairmen”], 南洋商报 [_Nanyang Siang Pau_], 22 February 1932, 6. (From NewspaperSG)
 
-[^16]: “捐欵千元助賑之黃典嫻及梁鄧氏訪問記” [“Contributing a Thousand Dollars for Disaster Relief, An Interview with Wong Din Haan and Madam Leong Tang”], 南洋商报 [_Nanyang Siang Pau_], 31 August 1937, 7. (From NewspaperSG)
+[^16]: [*“捐欵千元助賑之黃典嫻及梁鄧氏訪問記”*](eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19370831-1.2.32.8) [“Contributing a Thousand Dollars for Disaster Relief, An Interview with Wong Din Haan and Madam Leong Tang”], 南洋商报 [_Nanyang Siang Pau_], 31 August 1937, 7. (From NewspaperSG)
 
-[^17]: “Help for Victims in War Torn China,” _Straits Times_, 12 September 1937, 4. (From NewspaperSG)
+[^17]: [*“Help for Victims in War Torn China,”*](eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19370912-1.2.28) _Straits Times_, 12 September 1937, 4. (From NewspaperSG)
 
-[^18]: “星華婦女會昨選出各部職員黃典嫻被舉為正會長” [“Singapore Chinese Ladies Association Elected its Office-bearers Yesterday, Wong Din Haan Elected President”], 南洋商报 [_Nanyang Siang Pau_], 11 April 1939, 8. (From NewspaperSG)
+[^18]: [*“星華婦女會昨選出各部職員黃典嫻被舉為正會長”*](eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19390411-1.2.93) [“Singapore Chinese Ladies Association Elected its Office-bearers Yesterday, Wong Din Haan Elected President”], 南洋商报 [_Nanyang Siang Pau_], 11 April 1939, 8. (From NewspaperSG)
 
-[^19]: “徐悲鴻籌賑畫展在商會繼續舉行今日起至二十六日止婦女會派員担任招待” [“Xu Beihong’s Charity Painting Exhibition for China Relief Fund Held at the Chinese Chamber of Commerce, Will Begin Today until March 26”], 南洋商报 [_Nanyang Siang Pau_], 18 March 1939, 7; “Chinese Women’s Day Celebration,” _Singapore Free Press and Mercantile Advertiser_, 9 March 1940, 5. (From NewspaperSG)
+[^19]: [*“徐悲鴻籌賑畫展在商會繼續舉行今日起至二十六日止婦女會派員担任招待”*](eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19390318-1.2.67) [“Xu Beihong’s Charity Painting Exhibition for China Relief Fund Held at the Chinese Chamber of Commerce, Will Begin Today until March 26”], 南洋商报 [_Nanyang Siang Pau_], 18 March 1939, 7; [*“Chinese Women’s Day Celebration,”*](eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19400309-1.2.65) _Singapore Free Press and Mercantile Advertiser_, 9 March 1940, 5. (From NewspaperSG)
