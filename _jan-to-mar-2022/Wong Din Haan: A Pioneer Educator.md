@@ -131,9 +131,9 @@ However, my grandaunt had been so modest and retiring that even her grandchildre
 
 [^12]: 招观海 [Zhao Guan Hai], 天南游记 [_Travel Beneath the Southern Skies_] (n.p.: n.p.,1933), 68–70. (Not available in NLB holdings) 
 
-[13^]: 柯木林 [Ke Mulin; Kua Bak Lim], ed., 新加坡华人通史 [_A General History of the Chinese in Singapore_]. (Singapore: Singapore Federation of Chinese Clan Associations, 2015), p.341. (From National Library, Singapore, Call no. Chinese RSING 959.57004951 GEN-[HI)
+[^13]: 柯木林 [Ke Mulin; Kua Bak Lim], ed., 新加坡华人通史 [_A General History of the Chinese in Singapore_]. (Singapore: Singapore Federation of Chinese Clan Associations, 2015), p.341. (From National Library, Singapore, Call no. Chinese RSING 959.57004951 GEN-[HI)
 
-[14^]: “佛教訪問…” [“A Buddhist Interview…”], 南洋商报 [_Nanyang Siang Pau_], 22 April 1940, 7. (From NewspaperSG)
+[^14]: “佛教訪問…” [“A Buddhist Interview…”], 南洋商报 [_Nanyang Siang Pau_], 22 April 1940, 7. (From NewspaperSG)
 
 [^15]: “總商會籌賑會婦女部召開第一次會議議决全部分爲十二組並選出各組正副主任” [“Women’s Wing of the Chinese Chamber of Commerce, at its First Meeting, Splits into 12 Committees and Appoints their Chairmen and Vice-Chairmen”], 南洋商报 [_Nanyang Siang Pau_], 22 February 1932, 6. (From NewspaperSG)
 
