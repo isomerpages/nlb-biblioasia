@@ -45,3 +45,15 @@ Antoine Low, Head of Cathay’s Property and Technical Section, said that during
 
 Some people even came up with ingenious ideas to avoid buying tickets. While working at a factory in Jurong, housing agent Teo Soon Kin said that he and his friends watched The Big Boss on five consecutive nights for free: “We sat outside the perimeter fence and watched. Sometimes, we would ask motorists nearest the fence to turn up the volume of their individual speakers so we could listen as well.”[^15]
 
+#### **Cinema Shenanigans and Disgruntled Patrons ** 
+
+The Jurong Drive-in was, unfortunately, also a magnet for antisocial behaviour. In 1972, a reader wrote to the Straits Times complaining that “[b]efore the ending of each show at the Jurong Drive-in cinema, [especially during the weekends] ‘speed-aces’ with beam headlights on, exhaust booming and tyres screeching will be zooming at 40 to 50 m.p.h. along the lanes to see who reaches the exit first. It is not only an annoyance to others who wish to see the end of a film but also dangerous, to everyone in the drive-in”.[^16]
+These drivers also continued racing after leaving the drive-in and the writer suggested that the traffic police “arrest these speed-aces as they race each other along Upper Ayer Rajah Road”.[^17] A month later, the police replied that they had “taken enforcement action against 28 vehicles for speeding along Upper Ayer Rajah Road”.[^18]
+
+A decade on and things were no better. On 24 August 1982, a reader complained in the Straits Times that residents living near the Jurong Drive-in had been having sleepless nights on weekends and the eve of holidays. “Motorcyclists going for the midnight show make a din both before and after the show. The situation is worse when some of them turn the drive-in into a racing circuit before the show. The race lasts about twenty minutes and the noise is unbearable.”[^19] Once again, the police responded by mounting operations to monitor the situation, resulting in 84 motorcycles being impounded and 20 motorcyclists issued tickets for speeding, inconsiderate or dangerous driving.[^20]
+
+Just six months later, on 6 March 1983, the Singapore Monitor reported that “Jurong police are keeping a close watch on the Jurong Drive-In, because a group of hell-riders have been causing trouble there”. On the previous Saturday, more than 100 of them had ridden around the open-air cinema and were causing annoyance to other patrons. One cinemagoer said: “They dashed round the place in full throttle. Not only were the noise and fumes annoying, it was dangerous. Some of them also let off fireworks to add fun to their games, they looked so wild.”[^21]
+
+The huge amount of trash left behind by cinemagoers each night was also a concern as sweepers had to clear away the garbage before the following day’s screenings. Besides food wrappers, less common items found included footwear, condoms and even lingerie.[^22]
+
+
