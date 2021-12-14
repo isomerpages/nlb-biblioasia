@@ -5,6 +5,28 @@ permalink: /vol-11/issue-4/jan-mar-2016/bookthatdidnthappen
 image: /images/vol-11-issue-4/book-that-almost-didnt-happen/01_bookdidnthappen.jpg
 layout: post
 ---
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>ABOUT THE BOOK</b>
+<br><br>
+<b>Title:</b> <i><a href="https://eresources.nlb.gov.sg/printheritage/detail/f9d3332f-3612-46d3-b134-b254d106aaf9.aspx">Notices of the Indian Archipelago, and Adjacent Countries: Being a Collection of Papers Relating to Borneo, Celebes, Bali, Java, Sumatra, Nias, the Philippine islands, Sulus, Siam, Cochin China, Malayan Peninsula, etc.</a></i>
+<br>
+<b>Author:</b> John Henry Moor (1802–43)
+<br>
+<b>Year published:</b> 1837
+<br>
+<b>Publisher:</b> Not identified
+<br>
+Printed in Singapore by the Mission Press of the American Board of Commissioners for Foreign Missions[^1]
+<br>
+<b>Language:</b> English
+<br>
+<b>Type:</b> 400 pages
+<br>
+<b>Call no.:</b> RRARE 991 MOO; Microfilm no.: NL 5722
+<br>
+<b>Accession no.: </b> B03013554J
+<br>
+<b>Donated by:</b> Mrs Loke Yew</span>
+
 By John Henry Moor’s reckoning, the book he published in December 1837[^1] was beset with failures. *Notices of the Indian Archipelago, and Adjacent Countries* had been intended as the first part of a magnum opus that the Singapore newspaper editor had grandly announced in 1835. Moor’s goal was to print a massive compendium comprising two volumes: one compiling reprints of articles first published in the *Singapore Chronicle* newspaper from 1824 to 1834, and a second volume featuring papers on key topics about Singapore and Southeast Asia.
 
 <div style="background-color: white;"><img src="/images/vol-11-issue-4/book-that-almost-didnt-happen/01a_bookdidnthappen.jpg"><i>Notices of the Indian Archipelago, and Adjacent Countries</i> contains a fold-out map titled “Map of the Indian Archipelago Including Siam and Cochin China with Parts of China and of the Burman Empire” compiled by J. B. Tassin. <i>All rights reserved, National Library Board, Singapore.</i></div>
@@ -33,25 +55,7 @@ The National Library holds two copies of the 1837 edition of *Notices*, and two 
 
 **Written By:** Gracie Lee
 
-<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>ABOUT THE BOOK</b>
-<br><br>
-<b>Title:</b> <i><a href="https://eresources.nlb.gov.sg/printheritage/detail/f9d3332f-3612-46d3-b134-b254d106aaf9.aspx">Notices of the Indian Archipelago, and Adjacent Countries: Being a Collection of Papers Relating to Borneo, Celebes, Bali, Java, Sumatra, Nias, the Philippine islands, Sulus, Siam, Cochin China, Malayan Peninsula, etc.</a></i>
-<br>
-<b>Author:</b> John Henry Moor (1802–43)
-<br>
-<b>Year published:</b> 1837
-<br>
-<b>Publisher:</b> Not identified
-<br>
-Printed in Singapore by the Mission Press of the American Board of Commissioners for Foreign Missions[^6]
-<br>
-<b>Language:</b> English
-<br>
-<b>Type:</b> Book; 400 pages
-<br>
-<b>Location:</b> Call no.: RRARE 991 MOO; Microfilm no.: NL 5722
-<br>
-<b>Donated by:</b> Mrs Loke Yew</span>
+<a href="/vol-11/issue-4/jan-mar-2016/"><center>Back to Issue</center></a>
 
 #### **NOTES**
 
