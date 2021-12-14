@@ -27,7 +27,7 @@ layout: post
 
 Love it or hate it, most people find expatriates’ accounts of Singapore endlessly fascinating. One of the earliest newspaper columnists was Charles Burton Buckley, whose writings on Singapore were published as early as 1902 – the first of its kind at the time.
 
-<div style="background-color: white;"><br><img style="width:400px" src="/images/vol-11-issue-4/an-expat-impression-of-sg/02_expatimpression.jpg">Charles Burton Buckley in his Mercedes Benz, the first car brand imported into Singapore. <i>All rights reserved, Makepeace, W., Brooke, G. E., & Braddell, R. St. J. (1921). One Hundred Years of Singapore (Vol. 2). London: John Murray.</i></div>
+<div style="background-color: white;"><br><img style="width:400px" src="/images/vol-11-issue-4/an-expat-impression-of-sg/02a_expatimpression.jpg">Charles Burton Buckley in his Mercedes Benz, the first car brand imported into Singapore. <i>All rights reserved, Makepeace, W., Brooke, G. E., & Braddell, R. St. J. (1921). One Hundred Years of Singapore (Vol. 2). London: John Murray.</i></div>
 
 This two-volume work spans 48 years of Singapore history from its founding in 1819 to the transfer from the British East India Company to the Colonial Office in 1867. There are a total of six complete sets in the National Library. One set is part of the Gibson-Hill Collection, two sets belong to the Ya Yin Kwan Collection and another set was donated by Yeh Sui-Yen.
 
@@ -43,7 +43,7 @@ It was then that Buckley had the idea of compiling an anecdotal account of the p
 
 Buckley wrote about how he got started on his book in the preface. He “had columns of the history [articles] cut out of the [*Singapore Free Press*] newspaper, sewn into a book, and interleaved. This was sent to Mr W. H. Read, who passed it on to Mr James Guthrie. Their remarks, additions, and corrections were added to others which came in from various quarters, owing to the publicity in the newspaper”.[^7]
 
-<div style="background-color: white;"><img style="width:350px" src="/images/vol-11-issue-4/an-expat-impression-of-sg/03_expatimpression.jpg">An advertisement of the book in <i>The Straits Times</i> dated 6 February 1903. The book was on sale at the department store John Little & Company in Commercial Square (present-day Raffles Place). <i>© The Straits Times.</i></div>
+<div style="background-color: white;"><img style="width:350px" src="/images/vol-11-issue-4/an-expat-impression-of-sg/03a_expatimpression.jpg">An advertisement of the book in <i>The Straits Times</i> dated 6 February 1903. The book was on sale at the department store John Little & Company in Commercial Square (present-day Raffles Place). <i>© The Straits Times.</i></div>
 
 These newspaper clippings and Buckley’s own personal reminiscences contain much information on Singapore affairs and personalities between 1819 and 1867.[^8] As an amateur actor and musician, Buckley was a popular figure in the European community’s social circles and would perform in local music and theatre groups. He was also active in charity work, and from the year he arrived in Singapore until his last Christmas in 1911, he threw Christmas parties for children every year on Boxing Day.[^9]
 
