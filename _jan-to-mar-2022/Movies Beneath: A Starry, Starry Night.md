@@ -90,3 +90,8 @@ More recently, on 25 July 2020, Downtown East announced that it would hold a mon
 
 As these examples demonstrate, there is still a market for the occasional drive-in movie experience. When mass events are allowed to take place again, hopefully some entrepreneurial company will resurrect the spirit of the Jurong Drive-In.
 
+#### **NOTES**
+
+[^1]: “Cathay’s Jurong Drive-in Cinema,”  *Straits Times* , 14 July 1971, 18. (From NewspaperSG)
+
+[^2]: Leonard Y. Andaya, “Johor-Riau Empire,” in [*Southeast Asia: A Historical Encyclopedia from Angkor Wat to East Timor*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12394521), ed. Ooi Keat Gin (Santa Barbara: U.C. Santa Barbara Press, 2004), 699. (From National Library, Singapore, Call no. RSING q959.003 SOU)
