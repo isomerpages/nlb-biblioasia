@@ -96,3 +96,13 @@ As these examples demonstrate, there is still a market for the occasional drive-
 
 [^2]: “Cathay’s Jurong Drive-in Cinema”; *Lim Kay Tong*, “Some Close Encounters at the Drive-in,” Straits Times, 18 December 1983, 9. (From NewspaperSG)
 
+[^3]:“Cathay’s Jurong Drive-in Cinema”; “S’pore’s First Drive-in Cinema Opens in June,” Straits Times, 13 April 1971, 9. (From NewspaperSG)
+
+[^4]:“Cathay’s Jurong Drive-in Cinema”; “Some Close Encounters at the Drive-in.” 
+
+[^5]:“Cathay’s Jurong Drive-in Cinema.” 
+
+[^6]:Eugene Ban Hing Ker, oral history interview by Teo Kian Giap, 20 December 2014, MP3 audio, Reel/Disc 1 of 20, 38:15. (From National Archives of Singapore, Accession no. 003963) 
+
+[^7]:Lim Kay Tong, Cathay: 55 Years of Cinema (Singapore: Landmark Books, 1991), 69. (From National Library, Singapore, Call no. RSING 791.43095957 LIM); “Cathay’s Jurong Drive-in Cinema”; Arthur Richards, “Drive-in off to a Funny Start,” Straits Times, 27 June 1971, 20; Nancy Byramji, “900 Cars at ‘Drive-in’,” Straits Times, 15 July 1971, 15; “Big Rush Daily to See Films at Drive-in Cinema,” Straits Times, 23 July 1971, 22. (From NewspaperSG)
+
