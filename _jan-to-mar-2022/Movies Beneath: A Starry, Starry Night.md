@@ -160,3 +160,4 @@ As these examples demonstrate, there is still a market for the occasional drive-
 
 [^34]:How Hwee Young, “Reliving the Good Old Days,” *Straits Times*, 23 February 2003, 4. (From NewspaperSG)
 
+[^35]:“MovieMob,” Ape Works Pte Ltd, last modified 2019, https://www.ape.sg/moviemob.html; MovieMob, Facebook, 2020, https://www.facebook.com/apemoviemob; “Cycle & Carriage and Citroën Organise French Drive-in Movie,” Marketing Interactive, 15 February 2016, https://www.marketing-interactive.com/cycle-carriage-citroen-organise-french-drive-movie.
