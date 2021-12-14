@@ -27,7 +27,7 @@ Vendors went around selling ice-cream and cold drinks which were snapped up, whi
 
 #### **The Cinema Opens** 
 
-On the opening night, 880 cars filled the 900-car capacity site. The film screened for the charity premiere was Doctor in Trouble, a British comedy set on a luxury cruise liner bound for the Mediterranean, with proceeds going to the Jurong Town Creche. Admission tickets were priced at $30 and $50 (for a reserved lot) per car for a maximum of five passengers, including the driver. An estimated $20,000 was collected that night.[^7]
+On the opening night, 880 cars filled the 900-car capacity site. The film screened for the charity premiere was *Doctor in Trouble*, a British comedy set on a luxury cruise liner bound for the Mediterranean, with proceeds going to the Jurong Town Creche. Admission tickets were priced at $30 and $50 (for a reserved lot) per car for a maximum of five passengers, including the driver. An estimated $20,000 was collected that night.[^7]
 
 The cinema screened mainly first-run English language movies from the United States and Britain as well as Mandarin kungfu and action-packed films from Hong Kong, with two screenings each night and an additional midnight screening on Saturdays. Tickets cost $2 for adults and $1 for children below 12 (admission prices were later raised in 1978 to $2.50 for adults and $1.50 for children).[^8]
 
