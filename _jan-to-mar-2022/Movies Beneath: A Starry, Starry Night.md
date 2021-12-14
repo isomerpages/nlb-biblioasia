@@ -80,7 +80,7 @@ Jurong Drive-in finally closed on 30 September 1985 after almost 15 years.[^31] 
 
 There have been various attempts to revive the concept of the drive-in cinema in Singapore since.
 
-At the 1996 Festival of the Arts, one of the programmes under the Arts Festival Fringe was a drive-in movie screening held at the People’s Association carpark in Paya Lebar, which had a capacity of 100 cars and 300 walk-in patrons. A projection screen, measuring 7 m by 3 m, was raised 2 m off the ground. Three family-friendly movies, including Grease and the animation film Asterix Conquers America, were screened back-to-back starting at 7.30 pm on 31 May and 1 June.[^33]
+At the 1996 Festival of the Arts, one of the programmes under the Arts Festival Fringe was a drive-in movie screening held at the People’s Association carpark in Paya Lebar, which had a capacity of 100 cars and 300 walk-in patrons. A projection screen, measuring 7 m by 3 m, was raised 2 m off the ground. Three family-friendly movies, including Grease and the animation film *Asterix Conquers America*, were screened back-to-back starting at 7.30 pm on 31 May and 1 June.[^33]
 
 In 2003, a drive-in movie screening was held at a carpark in Kallang as part of the month-long event, “Romancing Singapore”, which was organised to celebrate love and romance. The admission fee of $10 per car enabled patrons to watch two movies.[^34]
 
