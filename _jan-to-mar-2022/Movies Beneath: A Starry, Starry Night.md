@@ -43,7 +43,7 @@ Ronald Goh Wee Huat, who helped to install the sound system for the drive-in, re
 
 Antoine Low, Head of Cathay’s Property and Technical Section, said that during a midnight screening of The Big Boss, there had been so many people and cars that they could not handle the flow. “We kept selling tickets and putting the steady flow of money into wastepaper baskets,” he recalled. As a result, the show, which had been scheduled for midnight, didn’t start till one in the morning.[^14]
 
-Some people even came up with ingenious ideas to avoid buying tickets. While working at a factory in Jurong, housing agent Teo Soon Kin said that he and his friends watched The Big Boss on five consecutive nights for free: “We sat outside the perimeter fence and watched. Sometimes, we would ask motorists nearest the fence to turn up the volume of their individual speakers so we could listen as well.”[^15]
+Some people even came up with ingenious ideas to avoid buying tickets. While working at a factory in Jurong, housing agent Teo Soon Kin said that he and his friends watched *The Big Boss* on five consecutive nights for free: “We sat outside the perimeter fence and watched. Sometimes, we would ask motorists nearest the fence to turn up the volume of their individual speakers so we could listen as well.”[^15]
 
 #### **Cinema Shenanigans and Disgruntled Patrons** 
 
