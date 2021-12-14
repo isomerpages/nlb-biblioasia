@@ -106,5 +106,26 @@ As these examples demonstrate, there is still a market for the occasional drive-
 
 [^7]:Lim Kay Tong, Cathay: *55 Years of Cinema* (Singapore: Landmark Books, 1991), 69. (From National Library, Singapore, Call no. RSING 791.43095957 LIM); “Cathay’s Jurong Drive-in Cinema”; Arthur Richards, “Drive-in off to a Funny Start,” *Straits Times*, 27 June 1971, 20; Nancy Byramji, “900 Cars at ‘Drive-in’,” *Straits Times*, 15 July 1971, 15; “Big Rush Daily to See Films at Drive-in Cinema,” *Straits Times*, 23 July 1971, 22. (From NewspaperSG)
 
-[^7]:
+[^8]: Lim, *Cathay*, 69; Jan Uhde and Yvonne Ng Uhde, *Latent Images: Film in Singapore* (Singapore: Oxford University Press, 2000), 198. (From National Library, Singapore, Call no. RSING 384.8095957 UHD); “Cathay’s Jurong Drive-in Cinema”; Ronnie Wai, “Jurong Drive-in’s Lot is an Unhappy One,” Straits Times, 10 December 1981, 11; Judith Hale, “‘We Won’t Make Much’,” *New Nation*, 29 March 1978, 2., (From NewspaperSG)
+
+[^9]: Lito Gutierrez, “It’s Curtains for Jurong Drive-in Tomorrow,” *Straits Times*, 29 September 1985, 10. (From NewspaperSG); “Some Close Encounters at the Drive-in.”
+
+[^10]:“It’s Curtains for Jurong Drive-in Tomorrow.”
+
+[^11]:“It’s Curtains for Jurong Drive-in Tomorrow.”
+
+[^12]: Lim, *Cathay*, 69; Uhde and Uhde, Latent Images, 198; “Jurong Drive-in’s Lot is an Unhappy one.” ; “Back Then When Jurong’s Drive-in Cinema was All the Rage,” Remember Singapore, 15 September 2020, https://remembersingapore.org/2020/09/15/jurong-drive-in-cinema-history/.
+
+[^13]:Ronald Goh Wee Huat, oral history interview by Teo Kian Giap, 15 February 2013, transcript and MP3 audio, Reel/Disc 3 of 6. (From National Archives of Singapore, Accession no. 003790) 
+
+[^14]:Lim, *Cathay*, 69.
+
+[^15]:“It’s Curtains for Jurong Drive-in Tomorrow.”
+
+[^16]:J.W., “The Mad Scramble to Get Out First,”*Straits Times*, 24 October 1972, 8. (From NewspaperSG)
+
+[^17]:“The Mad Scramble to Get Out First.”
+
+
+
 
