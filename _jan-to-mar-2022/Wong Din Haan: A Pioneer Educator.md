@@ -143,6 +143,6 @@ However, my grandaunt had been so modest and retiring that even her grandchildre
 
 [^17]: [*“Help for Victims in War Torn China,”*](eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19370912-1.2.28) _Straits Times_, 12 September 1937, 4. (From NewspaperSG)
 
-[^18]: [*“星華婦女會昨選出各部職員黃典嫻被舉為正會長”*](eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19390411-1.2.93) [“Singapore Chinese Ladies Association Elected its Office-bearers Yesterday, Wong Din Haan Elected President”], 南洋商报 [_Nanyang Siang Pau_], 11 April 1939, 8. (From NewspaperSG)
+[^18]: [“星華婦女會昨選出各部職員黃典嫻被舉為正會長”](eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19390411-1.2.93) [“Singapore Chinese Ladies Association Elected its Office-bearers Yesterday, Wong Din Haan Elected President”], 南洋商报 [_Nanyang Siang Pau_], 11 April 1939, 8. (From NewspaperSG)
 
 [^19]: [*“徐悲鴻籌賑畫展在商會繼續舉行今日起至二十六日止婦女會派員担任招待”*](eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19390318-1.2.67) [“Xu Beihong’s Charity Painting Exhibition for China Relief Fund Held at the Chinese Chamber of Commerce, Will Begin Today until March 26”], 南洋商报 [_Nanyang Siang Pau_], 18 March 1939, 7; [*“Chinese Women’s Day Celebration,”*](eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19400309-1.2.65) _Singapore Free Press and Mercantile Advertiser_, 9 March 1940, 5. (From NewspaperSG)
