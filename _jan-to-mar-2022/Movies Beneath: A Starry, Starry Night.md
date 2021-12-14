@@ -92,19 +92,19 @@ As these examples demonstrate, there is still a market for the occasional drive-
 
 #### **NOTES**
 
-[^1]: “ [*Cathay’s Jurong Drive-in Cinema*](http://eresources.nlb.gov.sg/newspapers/Digitised/Page/straitstimes19710714-1.1.18),” *Straits Times* , 14 July 1971, 18. (From NewspaperSG)
+[^1]: “[*Cathay’s Jurong Drive-in Cinema*](http://eresources.nlb.gov.sg/newspapers/Digitised/Page/straitstimes19710714-1.1.18),” *Straits Times* , 14 July 1971, 18. (From NewspaperSG)
 
-[^2]: “ [*Cathay’s Jurong Drive-in Cinema*](http://eresources.nlb.gov.sg/newspapers/Digitised/Page/straitstimes19710714-1.1.18)”; *Lim Kay Tong*, “[*Some Close Encounters at the Drive-in *](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19831218-1.2.124.17.1),” Straits Times, 18 December 1983, 9. (From NewspaperSG)
+[^2]: “[*Cathay’s Jurong Drive-in Cinema*](http://eresources.nlb.gov.sg/newspapers/Digitised/Page/straitstimes19710714-1.1.18)”; *Lim Kay Tong*, “[*Some Close Encounters at the Drive-in *](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19831218-1.2.124.17.1),” Straits Times, 18 December 1983, 9. (From NewspaperSG)
 
-[^3]:“ [*Cathay’s Jurong Drive-in Cinema*](http://eresources.nlb.gov.sg/newspapers/Digitised/Page/straitstimes19710714-1.1.18)”; “[*S’pore’s First Drive-in Cinema Opens in June*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710413-1.2.72),” *Straits Times*, 13 April 1971, 9. (From NewspaperSG)
+[^3]: “[*Cathay’s Jurong Drive-in Cinema*](http://eresources.nlb.gov.sg/newspapers/Digitised/Page/straitstimes19710714-1.1.18)”; “[*S’pore’s First Drive-in Cinema Opens in June*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710413-1.2.72),” *Straits Times*, 13 April 1971, 9. (From NewspaperSG)
 
-[^4]:“ [*Cathay’s Jurong Drive-in Cinema*](http://eresources.nlb.gov.sg/newspapers/Digitised/Page/straitstimes19710714-1.1.18)”; “Some Close Encounters at the Drive-in.” 
+[^4]: “[*Cathay’s Jurong Drive-in Cinema*](http://eresources.nlb.gov.sg/newspapers/Digitised/Page/straitstimes19710714-1.1.18)”; “Some Close Encounters at the Drive-in.” 
 
-[^5]:“ [*Cathay’s Jurong Drive-in Cinema.*](http://eresources.nlb.gov.sg/newspapers/Digitised/Page/straitstimes19710714-1.1.18)” 
+[^5]: “[*Cathay’s Jurong Drive-in Cinema.*](http://eresources.nlb.gov.sg/newspapers/Digitised/Page/straitstimes19710714-1.1.18)” 
 
 [^6]: [*Eugene Ban Hing Ker *](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/2adbfd53-c233-11e4-859c-0050568939ad), oral history interview by Teo Kian Giap, 20 December 2014, [*MP3 audio, Reel/Disc 1 of 20, 38:15.  (From National Archives of Singapore, Accession no. 003963) *](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/2adbfd53-c233-11e4-859c-0050568939ad?keywords=jurong%20drive%20in%20cinema&keywords-type=all)
 
-[^7]:Lim Kay Tong, [*Cathay: 55 Years of Cinema* ](http://eservice.nlb.gov.sg/item_holding.aspx?bid=6095688)(Singapore: Landmark Books, 1991), 69. (From National Library, Singapore, Call no. RSING 791.43095957 LIM); "[*Cathay’s Jurong Drive-in Cinema*](http://eresources.nlb.gov.sg/newspapers/Digitised/Page/straitstimes19710714-1.1.18)”; Arthur Richards, “[*Drive-in off to a Funny Start*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710627-1.2.79),” *Straits Times*, 27 June 1971, 20; Nancy Byramji, “[*900 Cars at ‘Drive-in’*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710715-1.2.124),” *Straits Times*, 15 July 1971, 15; “[*Big Rush Daily to See Films at Drive-in Cinema*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710723-1.2.110),” *Straits Times*, 23 July 1971, 22. (From NewspaperSG)
+[^7]: Lim Kay Tong, [*Cathay: 55 Years of Cinema* ](http://eservice.nlb.gov.sg/item_holding.aspx?bid=6095688)(Singapore: Landmark Books, 1991), 69. (From National Library, Singapore, Call no. RSING 791.43095957 LIM); "[*Cathay’s Jurong Drive-in Cinema*](http://eresources.nlb.gov.sg/newspapers/Digitised/Page/straitstimes19710714-1.1.18)”; Arthur Richards, “[*Drive-in off to a Funny Start*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710627-1.2.79),” *Straits Times*, 27 June 1971, 20; Nancy Byramji, “[*900 Cars at ‘Drive-in’*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710715-1.2.124),” *Straits Times*, 15 July 1971, 15; “[*Big Rush Daily to See Films at Drive-in Cinema*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710723-1.2.110),” *Straits Times*, 23 July 1971, 22. (From NewspaperSG)
 
 [^8]: Lim, [*Cathay*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=6095688), 69; Jan Uhde and Yvonne Ng Uhde, [*Latent Images: Film in Singapore*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=13186916) (Singapore: Oxford University Press, 2000), 198. (From National Library, Singapore, Call no. RSING 384.8095957 UHD); [*“Cathay’s Jurong Drive-in Cinema*](http://eresources.nlb.gov.sg/newspapers/Digitised/Page/straitstimes19710714-1.1.18)”; Ronnie Wai, “[*Jurong Drive-in’s Lot is an Unhappy One*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19811210-1.2.57),” Straits Times, 10 December 1981, 11; Judith Hale, “‘[*We Won’t Make Much’,*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19780329-1.2.16)” *New Nation*, 29 March 1978, 2., (From NewspaperSG)
 
@@ -118,19 +118,19 @@ As these examples demonstrate, there is still a market for the occasional drive-
 
 [^13]: [Ronald Goh Wee Huat]() , oral history interview by Teo Kian Giap, 15 February 2013, transcript and MP3 audio, Reel/Disc 3 of 6. (From National Archives of Singapore, Accession no. 003790) 
 
-[^14]:Lim, [*Cathay*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=6095688), 69.
+[^14]: Lim, [*Cathay*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=6095688), 69.
 
-[^15]:“ [*It’s Curtains for Jurong Drive-in Tomorrow.*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850929.2.24.1.aspx)”
+[^15]: “[*It’s Curtains for Jurong Drive-in Tomorrow.*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850929.2.24.1.aspx)”
 
 [^16]: J.W., “[*The Mad Scramble to Get Out First*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19721024-1.2.72.8),”*Straits Times*, 24 October 1972, 8. (From NewspaperSG)
 
-[^17]: “ [*The Mad Scramble to Get Out First.*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19721024-1.2.72.8)”
+[^17]: “[*The Mad Scramble to Get Out First.*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19721024-1.2.72.8)”
 
-[^18]:“[*Untitled*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19721124-1.2.98.6),” *Straits Times*, 24 November 1972, 21. (From NewspaperSG)
+[^18]: “[*Untitled*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19721124-1.2.98.6),” *Straits Times*, 24 November 1972, 21. (From NewspaperSG)
 
-[^19]:Mid-Nightmare, “[*Too Noisy to Sleep,*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820824-1.2.59.10.1)” *Straits Times*, 24 August 1982, 15. (From NewspaperSG)
+[^19]: Mid-Nightmare, “[*Too Noisy to Sleep,*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820824-1.2.59.10.1)” *Straits Times*, 24 August 1982, 15. (From NewspaperSG)
 
-[^20]:Yeow Shang Ying, “[*Action Taken at Drive-in,” *Straits Times*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820927-1.2.71.4.1)*, 27 September 1982, 15. (From NewspaperSG)
+[^20]: Yeow Shang Ying, “[*Action Taken at Drive-in,” *Straits Times*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820927-1.2.71.4.1)*, 27 September 1982, 15. (From NewspaperSG)
 
 [^21]: “ [*Jurong Police Keeping Watch on Drive-In*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19830306-1.2.3.5),” *Singapore Monitor*, 6 March 1983, 3. (From NewspaperSG)
 
@@ -144,15 +144,15 @@ As these examples demonstrate, there is still a market for the occasional drive-
 
 [^26]: [*Ronald Goh Wee Huat*](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/055bcb28-1163-11e3-83d5-0050568939ad), interview.
 
-[^27]:“ [*Jurong Drive-in’s Lot is an Unhappy One*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19811210-1.2.57).” *Straits Times*, 10 December 1981, 11. (From NewpaperSG)
+[^27]: “[*Jurong Drive-in’s Lot is an Unhappy One*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19811210-1.2.57).” *Straits Times*, 10 December 1981, 11. (From NewpaperSG)
 
 [^28]:“[*Jurong Drive-in’s Lot is an Unhappy One.*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19811210-1.2.57)”
 
 [^29]:“[*It’s Curtains for Jurong Drive-in Tomorrow.*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850929.2.24.1.aspx)”
 
-[^30]:“[*It’s Curtains for Jurong Drive-in Tomorrow*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850929.2.24.1.aspx)”; “[*Dismay at Drive-in*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850929-1.2.5),” *Straits Times*, 29 September 1985, 1; “[*Page 4 Advertisements Column 2*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850929-1.2.57.8.2),” *Straits Times*, 29 September 1985, 4. (From NewspaperSG); “The Woman of Wrath,” Letterboxd, accessed 23 July 2021, https://letterboxd.com/film/the-woman-of-wrath/.
+[^30]: “[*It’s Curtains for Jurong Drive-in Tomorrow*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850929.2.24.1.aspx)”; “[*Dismay at Drive-in*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850929-1.2.5),” *Straits Times*, 29 September 1985, 1; “[*Page 4 Advertisements Column 2*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850929-1.2.57.8.2),” *Straits Times*, 29 September 1985, 4. (From NewspaperSG); “The Woman of Wrath,” Letterboxd, accessed 23 July 2021, https://letterboxd.com/film/the-woman-of-wrath/.
 
-[^31]:Uhde and Uhde, [*Latent Images*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=13186916), 198; “[*It’s Curtains for Jurong Drive-in Tomorrow.*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850929.2.24.1.aspx)”
+[^31]: Uhde and Uhde, [*Latent Images*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=13186916), 198; “[*It’s Curtains for Jurong Drive-in Tomorrow.*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850929.2.24.1.aspx)”
 
 [^32]: “[*Jurong Plans Cinema to Pull Crowds Back*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper19890930-1.2.3.3),” *New Paper*, 30 September 1989, 2. (From NewspaperSG); “Back Then When Jurong’s Drive-in Cinema Was All the Rage,” Remember Singapore, 15 September 2020, https://remembersingapore.org/2020/09/15/jurong-drive-in-cinema-history/.
 
@@ -160,6 +160,6 @@ As these examples demonstrate, there is still a market for the occasional drive-
 
 [^34]: How Hwee Young, “[*Reliving the Good Old Days*](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20030223-1.2.7.4),” *Straits Times*, 23 February 2003, 4. (From NewspaperSG)
 
-[^35]:“MovieMob,” Ape Works Pte Ltd, last modified 2019, https://www.ape.sg/moviemob.html; MovieMob, Facebook, 2020, https://www.facebook.com/apemoviemob; “Cycle & Carriage and Citroën Organise French Drive-in Movie,” Marketing Interactive, 15 February 2016, https://www.marketing-interactive.com/cycle-carriage-citroen-organise-french-drive-movie.
+[^35]: “MovieMob,” Ape Works Pte Ltd, last modified 2019, https://www.ape.sg/moviemob.html; MovieMob, Facebook, 2020, https://www.facebook.com/apemoviemob; “Cycle & Carriage and Citroën Organise French Drive-in Movie,” Marketing Interactive, 15 February 2016, https://www.marketing-interactive.com/cycle-carriage-citroen-organise-french-drive-movie.
 
-[^36]:Siti Hawa, “Drive-in Movie Screenings Available in S’pore for S$18 Per Car, Includes 2 Burgers & Drinks,” Mothership, 25 July 2020, https://mothership.sg/2020/07/downtown-east-drive-in-movie/; Belmont Lay, “Drive-in Movie Screening at Pasir Ris Downtown East on Aug. 8, 2020 Cancelled,” Mothership, 3 August 2020, https://mothership.sg/2020/08/pasir-ris-drive-in-movie-screennig-cancelled-downtown-east/.
+[^36]: Siti Hawa, “Drive-in Movie Screenings Available in S’pore for S$18 Per Car, Includes 2 Burgers & Drinks,” Mothership, 25 July 2020, https://mothership.sg/2020/07/downtown-east-drive-in-movie/; Belmont Lay, “Drive-in Movie Screening at Pasir Ris Downtown East on Aug. 8, 2020 Cancelled,” Mothership, 3 August 2020, https://mothership.sg/2020/08/pasir-ris-drive-in-movie-screennig-cancelled-downtown-east/.
