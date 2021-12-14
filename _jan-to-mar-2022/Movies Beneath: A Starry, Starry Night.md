@@ -37,7 +37,7 @@ It was also popular with courting couples, who were perhaps less interested in t
 
 For others, the journey to the far-flung cinema located in the western part of the island was itself a part of the experience. Hotel executive Lilian Gan reminisced, “My husband and I used to go there once or twice a week. We’d go on long drives on weekends and end up there.”[^11]
 
-Movies starring martial arts legend Bruce Lee were especially popular, packing in the crowds every night when these were screened. The Big Boss, which launched Lee’s movie career, was a spectacular box-office hit, raking in $12,000 in ticket sales for just an evening’s screening in 1971.[^12]
+Movies starring martial arts legend Bruce Lee were especially popular, packing in the crowds every night when these were screened. *The Big Boss*, which launched Lee’s movie career, was a spectacular box-office hit, raking in $12,000 in ticket sales for just an evening’s screening in 1971.[^12]
 
 Ronald Goh Wee Huat, who helped to install the sound system for the drive-in, recalled that on the opening night of *The Big Boss*, “the crowd was so overwhelming that the whole carpark slots, all the cinema, [were] all taken up and you have another few hundred cars along the road lining up. And you’re in the car and you’re stuck in that kind of jam, they just left the car there and actually broke through the fencing and there was chaos”. He also remembered that at the end of movie screenings, “a lot of times people drive off without removing the speakers and damaging their windscreens… some people brought a chain cutter and… took away the speaker”.[^13]
 
