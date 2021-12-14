@@ -132,4 +132,8 @@ As these examples demonstrate, there is still a market for the occasional drive-
 
 [^20]:Yeow Shang Ying, “Action Taken at Drive-in,” *Straits Times*, 27 September 1982, 15. (From NewspaperSG)
 
-[^21]:
+[^21]: “Jurong Police Keeping Watch on Drive-In,” *Singapore Monitor*, 6 March 1983, 3. (From NewspaperSG)
+
+[^22]: Lim, *Cathay*, 69.
+
+[^23]:“Loot for 8 Armed Robbers: A Torchlight,” *New Nation*, 4 May 1977, 1. (From NewspaperSG)
