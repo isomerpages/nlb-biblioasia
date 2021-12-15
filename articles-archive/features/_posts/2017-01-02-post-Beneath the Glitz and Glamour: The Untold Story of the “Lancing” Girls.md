@@ -8,7 +8,6 @@ description: These cabaret girls were better known for their risqué stage shows
   but some also donated generously to charity. Adeline Foo uncovers these women
   with hearts of gold.
 ---
-
 #### These cabaret girls were better known for their risqué stage shows, but some also donated generously to charity. **Adeline Foo** uncovers these women with hearts of gold.
 
 <div style="background-color: white;"><img style="width:550px" src="/images/Vol-12-issue-4/glitz-and-glamour/2-beneath_glitz_glamour.png"><br>A photo of five dance hostesses taken inside a cabaret in the 1930s. The women are dressed in figure-hugging cheongsams with daring side slits that showed off their legs. They were an obvious attraction for men with their artfully applied makeup and coiffured hair-dos. <i>Courtesy of Mr and Mrs Lee Kip Lee.</i></div>
@@ -33,6 +32,9 @@ On 27 August 1953, *The Singapore Free Press* newspaper reported that the prince
 <div style="background-color: white;">Eurasian and Chinese dance hostesses of the New World Cabaret posing for this photo in the 1930s. <i>Courtesy of Mr and Mrs Lee Kip Lee.</i></div>
 
 Rose Chan wasn’t the only “charity queen” from the cabaret world. There were two other women from the Happy World cabaret who worked tirelessly to start a free school for children. These women became the founders of the Happy School in Geylang.
+
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba;text-align:center"> Want more of what you’re reading? Get <i>BiblioAsia</i>’s latest stories delivered to your inbox. Subscribe <a href=https://form.gov.sg/#!/616799db4d9b61001398f79b> here</a>.</div>
+
 
 #### **A Happy School for Children**
 
