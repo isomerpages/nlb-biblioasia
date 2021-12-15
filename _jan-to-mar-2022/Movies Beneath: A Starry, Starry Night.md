@@ -79,6 +79,9 @@ There were also instances of break-ins and thefts at Jurong Drive-in, though not
 
 ####**Waning Fortunes**
 
+![Alt text for image on Isomer site](/images/vol-17-issue-4/movies-beneath/Unhappy.png)
+<div style="background-color: white;"> By the early 1980s, the novelty of the Jurong Drive-in Cinema had worn off, and nothing the operator did – such as free gifts, first-run shows and cheap tickets – could bring back the crowds.<i> Image reproduced from The Straits Times, 10 December 1981, 11. (From NewspaperSG). </i></div>
+ 
 Attendance at the Jurong Drive-in dropped drastically towards the end of the 1970s and early 80s. The manager of the drive-in, Peter Teo, lamented that “the novelty of the drive-in has worn off and we’d be extremely lucky if we got half the place full”.[^24]
 
 Said the *New Nation*: “Jurong is a bit out of the way, even for motorists. More comfortable and better cinemas are sprouting everywhere today, especially in HDB [Housing & Development Board] new towns and estates, showing much the same stuff as Jurong drive-in. Coming home from distant Jurong to a HDB carpark late at night and having to search every nook and corner for a lot can be a deterring experience.”[^25]
