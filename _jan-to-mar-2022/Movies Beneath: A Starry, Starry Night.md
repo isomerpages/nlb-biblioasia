@@ -123,6 +123,13 @@ More recently, on 25 July 2020, Downtown East announced that it would hold a mon
 
 As these examples demonstrate, there is still a market for the occasional drive-in movie experience. When mass events are allowed to take place again, hopefully some entrepreneurial company will resurrect the spirit of the Jurong Drive-In.
 
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-17-issue-4/authors/Sharon_Teng.png" style="width: 100px; height: 100px;" />
+	<b>Faris Joraimi</b> is a Lee Kong Chian Research Fellow with the National Library. As a writer and researcher specialising in the history of the Malay World, he has authored various essays for print and electronic media. He is also co-editor of <i>Raffles Renounced: Towards a Merdeka History</i> (2021), a volume of essays on 
+Singapore’s decolonial history. He graduated with a Bachelor of Arts (Honours) in History from Yale-NUS College.</div>
+
 #### **NOTES**
 
 [^1]: “[*Cathay’s Jurong Drive-in Cinema*](http://eresources.nlb.gov.sg/newspapers/Digitised/Page/straitstimes19710714-1.1.18),” *Straits Times* , 14 July 1971, 18. (From NewspaperSG)
