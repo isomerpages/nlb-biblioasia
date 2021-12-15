@@ -98,7 +98,7 @@ Cathay also blamed video pirates for poor attendance figures and the slump in th
 <div style="background-color: white;">Taiwanese film <i> The Woman of Wrath </i> was the last movie screened at the Jurong Drive-in.  <i>Image reproduced from The Straits Times, 29 September 1985, 4. (From NewspaperSG). 
  </i></div>
  
-On 29 September 1985, Cathay officially announced that Jurong Drive-in would close for good the following day, after its last show. The last movie screened was the Taiwanese film, *The Woman of Wrath*. The Straits Times described the dismal turn-up on 28 September: “The scene at the Jurong Drive-in Cinema last night. And it was a Saturday. On the screen was a Mandarin movie, *The Woman of Wrath*. But there were pathetically few patrons watching it. The gallery was almost deserted while only a few cars were found in its sprawling grounds.”[^30]
+On 29 September 1985, Cathay officially announced that Jurong Drive-in would close for good the following day, after its last show. The last movie screened was the Taiwanese film, *The Woman of Wrath*. The *Straits Times* described the dismal turn-up on 28 September: “The scene at the Jurong Drive-in Cinema last night. And it was a Saturday. On the screen was a Mandarin movie, *The Woman of Wrath*. But there were pathetically few patrons watching it. The gallery was almost deserted while only a few cars were found in its sprawling grounds.”[^30]
 
 Jurong Drive-in finally closed on 30 September 1985 after almost 15 years.[^31] The land formerly occupied by the drive-in was developed into Fairway Country Club and later the ActiveSG Park in 2019 as part of Jurong Lake Gardens.[^32]
 
