@@ -33,7 +33,7 @@ Vendors went around selling ice-cream and cold drinks which were snapped up, whi
 
 #### **The Cinema Opens** 
 
-![Alt text for image on Isomer site](/images/vol-17-issue-4/movies-beneath/Cinema_Opening.png)
+![Alt text for image on Isomer site](/images/vol-17-issue-4/movies-beneath/Opening.png)
 <div style="background-color: white;">A cinema official assisting Minister for Culture Jek Yeun Thong in setting up the car speaker. He was the guest-of-honour at the official opening , 14 July 1971. <i> Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.
 </i></div>
 
