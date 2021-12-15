@@ -16,6 +16,9 @@ A full-page announcement was published in the *Straits Times* on the day of the 
 
 #### **Location and Amenities** 
 
+![Alt text for image on Isomer site](/images/vol-17-issue-4/movies-beneath/Jurong_aerial_shot.png)
+<div style="background-color: white;">Aerial view of the Jurong Drive-in Cinema undergoing construction, 1970.<i> Image reproduced from Jurong Town Corporation, Annual Report (Singapore: Jurong Town Corporation, 1970), 27. (From National Library, Singapore, Call no. RCLOS 352.0072 JTCAR).</i></div>
+
 The construction of Jurong Drive-in was no easy task. It occupied 14 acres (5.6 hectares) of land along Yuan Ching Road, adjacent to Jurong Park, at a site now occupied by ActiveSG Park @ Jurong Lake Gardens. The site required 340,000 cubic yards (259,939 cubic metres) of earth to fill in the landscaping just for the installation of the giant screen. Measuring a whopping 47 ft by 110 ft (14.3 m by 33.5 m) and suspended 25 feet (7.6 m) from the ground, the screen was also tilted at an angle of six-and-a-half degrees for optimal viewing from the inside of a car. 
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/movies-beneath/Jurong_aerial_shot.png)
