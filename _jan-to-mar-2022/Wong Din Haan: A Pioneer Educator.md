@@ -140,7 +140,7 @@ However, my grandaunt had been so modest and retiring that even her grandchildre
 
 [^13]: 柯木林 [Ke Mulin; Kua Bak Lim], ed., [_新加坡华人通史_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202251084) [_A General History of the Chinese in Singapore_]. (Singapore: Singapore Federation of Chinese Clan Associations, 2015), p.341. (From National Library, Singapore, Call no. Chinese RSING 959.57004951 GEN-[HI)
 
-[^14]: "[佛教訪問…](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19400422-1.2.57.1)" [“A Buddhist Interview…”], 南洋商报 [_Nanyang Siang Pau_], 22 April 1940, 7. (From NewspaperSG)
+[^14]: "[佛教訪問…](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19400422-1.2.57.1)" [“A Buddhist Interview…”], 南洋商报 [_Nanyang Siang Pau_], 22 April 1940, 7. (From NewspaperSG) 
 
 [^15]: "[總商會籌賑會婦女部召開第一次會議議决全部分爲十二組並選出各組正副主任](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19320222-1.2.11.2)" [“Women’s Wing of the Chinese Chamber of Commerce, at its First Meeting, Splits into 12 Committees and Appoints their Chairmen and Vice-Chairmen”], 南洋商报 [_Nanyang Siang Pau_], 22 February 1932, 6. (From NewspaperSG)
 
