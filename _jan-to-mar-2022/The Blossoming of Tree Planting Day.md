@@ -21,7 +21,7 @@ Tree planting in Singapore did not, of course, start in 1971. The practice began
 
 The municipality planted trees to either beautify parks and public spaces under its purview or to provide shade along roads such as Battery Road, Orchard Road, Connaught Drive and Jalan Besar. Commonly planted trees include the cotton tree (_Ceiba pentandra_), angsana (_Pterocarpus indicus_), flame of the forest (_Delonix regia_) and rain tree (_Samanea saman_).
 
-![Alt text for image on Isomer site](/images/vol-17-issue-4/tree-planting/2-Tree.jpg)
+![Alt text for image on Isomer site](/images/vol-17-issue-4/tree-planting/2-Tree-2.jpg)
 <div style="background-color: white;">This towering rain tree is said to have grown from the sapling planted by Acting Prime Minister Goh Keng Swee in 1971 at the start of Tree Planting Day. It stands in Faber Point, the highest point of Mount Faber. <i>Courtesy of Jimmy Yap.</i></div>
 
 Trees were also planted in the Botanic Gardens for beautification or in its nurseries to support the municipality’s tree planting efforts as well as to experiment with new commercial crop like the pará rubber tree. Between the 1880s and 90s, the Botanic Gardens also carried out a large-scale tree planting programme in an attempt to reforest tracts of land that had once been primary forest but had been cleared to make way for plantations.[^2] 
