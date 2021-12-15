@@ -39,7 +39,7 @@ In 1963, Lee launched an island-wide tree planting campaign. He noted that such 
 
 Lee set a target of planting 10,000 trees annually. Of these, half were to be planted by the government along roads, in housing estates and parks, and the rest by the public. To prevent vandalism in housing estates, Lee suggested that “young trees be guarded by barbed wire”.[^6]
 
-However by April 1967, the government felt that more needed to be done as there was still “a lack of feeling of care for trees among the people” and “a lack of experts” within the government to provide advice on “how best to give scenic beauty to the city”. On 11 May 1967, the Garden City campaign was announced.7
+However by April 1967, the government felt that more needed to be done as there was still “a lack of feeling of care for trees among the people” and “a lack of experts” within the government to provide advice on “how best to give scenic beauty to the city”. On 11 May 1967, the Garden City campaign was announced.[^7]
 
 In its early phase, the Garden City campaign was implemented as an intensive tree planting programme. Marked by the planting of fast-growing shrubs and “instant trees”, such as the angsana, rain tree, sea apple (_Eugenia grandis_) and curtain creeper (_Vernonia elliptica_), the aim was to produce results in the shortest possible time. 
 
