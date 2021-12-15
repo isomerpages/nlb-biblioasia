@@ -46,16 +46,14 @@ It was also popular with courting couples, who were perhaps less interested in t
 
 For others, the journey to the far-flung cinema located in the western part of the island was itself a part of the experience. Hotel executive Lilian Gan reminisced, “My husband and I used to go there once or twice a week. We’d go on long drives on weekends and end up there.”[^11]
 
-
-![Alt text for image on Isomer site](/images/vol-17-issue-4/movies-beneath/Vehicles.png)
-<div style="background-color: white;">Vehicles at the Jurong Drive-in Cinema on opening night, 14 July 1971. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
-
-
 Movies starring martial arts legend Bruce Lee were especially popular, packing in the crowds every night when these were screened. *The Big Boss*, which launched Lee’s movie career, was a spectacular box-office hit, raking in $12,000 in ticket sales for just an evening’s screening in 1971.[^12]
 
 Ronald Goh Wee Huat, who helped to install the sound system for the drive-in, recalled that on the opening night of *The Big Boss*, “the crowd was so overwhelming that the whole carpark slots, all the cinema, [were] all taken up and you have another few hundred cars along the road lining up. And you’re in the car and you’re stuck in that kind of jam, they just left the car there and actually broke through the fencing and there was chaos”. He also remembered that at the end of movie screenings, “a lot of times people drive off without removing the speakers and damaging their windscreens… some people brought a chain cutter and… took away the speaker”.[^13]
 
 Antoine Low, Head of Cathay’s Property and Technical Section, said that during a midnight screening of *The Big Boss*, there had been so many people and cars that they could not handle the flow. “We kept selling tickets and putting the steady flow of money into wastepaper baskets,” he recalled. As a result, the show, which had been scheduled for midnight, didn’t start till one in the morning.[^14]
+
+![Alt text for image on Isomer site](/images/vol-17-issue-4/movies-beneath/Vehicles.png)
+<div style="background-color: white;">Vehicles at the Jurong Drive-in Cinema on opening night, 14 July 1971. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 Some people even came up with ingenious ideas to avoid buying tickets. While working at a factory in Jurong, housing agent Teo Soon Kin said that he and his friends watched *The Big Boss* on five consecutive nights for free: “We sat outside the perimeter fence and watched. Sometimes, we would ask motorists nearest the fence to turn up the volume of their individual speakers so we could listen as well.”[^15]
 
