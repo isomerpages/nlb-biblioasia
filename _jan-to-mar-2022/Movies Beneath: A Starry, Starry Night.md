@@ -102,11 +102,14 @@ Cathay also blamed video pirates for poor attendance figures and the slump in th
  
 On 29 September 1985, Cathay officially announced that Jurong Drive-in would close for good the following day, after its last show. The last movie screened was the Taiwanese film, *The Woman of Wrath*. The *Straits Times* described the dismal turn-up on 28 September: “The scene at the Jurong Drive-in Cinema last night. And it was a Saturday. On the screen was a Mandarin movie, *The Woman of Wrath*. But there were pathetically few patrons watching it. The gallery was almost deserted while only a few cars were found in its sprawling grounds.”[^30]
 
-Jurong Drive-in finally closed on 30 September 1985 after almost 15 years.[^31] The land formerly occupied by the drive-in was developed into Fairway Country Club and later the ActiveSG Park in 2019 as part of Jurong Lake Gardens.[^32]
-
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/movies-beneath/Close.png)
 <div style="background-color: white;"> Jurong Drive-in Cinema announcing that it will close for good after its last show on 30 September 1985. <i>Image reproduced from The Straits Times, 29 September 1985, 10. (From NewspaperSG).
  </i></div>
+ 
+Jurong Drive-in finally closed on 30 September 1985 after almost 15 years.[^31] The land formerly occupied by the drive-in was developed into Fairway Country Club and later the ActiveSG Park in 2019 as part of Jurong Lake Gardens.[^32]
+
+![Alt text for image on Isomer site](/images/vol-17-issue-4/movies-beneath/ActiveSG_Park.png)
+<div style="background-color: white;"> The site of the former Jurong Drive-in Cinema was first occupied by Fairway Country Club before it was demolished to build the ActiveSG Park as part of Jurong Lake Gardens. <i>Courtesy of NParks.  </i></div>
 
 #### **Revival of the Drive-in Cinema** 
 
@@ -117,9 +120,6 @@ At the 1996 Festival of the Arts, one of the programmes under the Arts Festival 
 In 2003, a drive-in movie screening was held at a carpark in Kallang as part of the month-long event, “Romancing Singapore”, which was organised to celebrate love and romance. The admission fee of $10 per car enabled patrons to watch two movies.[^34]
 
 Also in 2003, a company named MovieMob organised free drive-in and outdoor open-air movie screenings, including local films and Hollywood blockbusters, at selected locations across Singapore. Since its inception, the company has held over 300 movie screenings for events such as Singapore’s first French drive-in movie event over the Valentine’s Day weekend in 2016, “P.S. I Love You”, which attracted close to 100 vehicles and some 600 people. The company also helped to usher in the new year with open-air screenings of *Night at the Museum I* and* II* for the Marina Bay Singapore Countdown 2019.[^35]
-
-![Alt text for image on Isomer site](/images/vol-17-issue-4/movies-beneath/ActiveSG_Park.png)
-<div style="background-color: white;"> The site of the former Jurong Drive-in Cinema was first occupied by Fairway Country Club before it was demolished to build the ActiveSG Park as part of Jurong Lake Gardens. <i>Courtesy of NParks.  </i></div>
  
 More recently, on 25 July 2020, Downtown East announced that it would hold a monthly series of drive-in movie screenings starting from 8 August with the hit musical, *The Greatest Showman*. Tickets were priced at $18 per car for up to a maximum of five persons in a vehicle. Unfortunately, just 10 days later, it was announced that the screening had been cancelled due to “unforeseen circumstances” and refunds would be made.[^36] We can only surmise that the cancellation was related to the ongoing Covid-19 pandemic.
 
