@@ -5,8 +5,9 @@ description: ""
 ---
 #### Singapore has planted more than two million trees in the past 50 years. **Lim Tin Seng** traces the roots of Tree Planting Day.
 
-![Alt text for image on Isomer site](/images/vol-17-issue-4/Wong-Din-Haan/Cover-WongDinHaan.jpg)
-<div style="background-color: white;">Family photo of Wong Din Haan taken in front of Wong Ah Fook’s family home on Keng Lee Road, Singapore. First row, from left: older daughter Winnie Kwan Ming Chit; granddaughter; Wong Din Haan; grandson; Wong Peng Sook, wife of Kwan Ying Hung holding her baby son Kwan Teet Ming. Second row, from left: younger daughter Elsie Kwan Ming Tak; wife of Kwan Ying Siong holding her second son; wife of N.I. Low. Third row, from left: second son Dr Kwan Ying Hung; eldest son Kwan Ying Siong; and friend N.I. Low. <i>Courtesy of Paddy Chee.</i></div>
+![Alt text for image on Isomer site](/images/vol-17-issue-4/tree-planting/1-Header.jpg)
+<div style="background-color: white;"> Acting Prime Minister Goh Keng Swee planting a rain tree on Mount Faber on 8 November 1971, Singapore’s first annual Tree Planting Day. Source: <i>The Straits Times © SPH Media Limited. Reprinted with permission.</i>
+</div>
 
 When acting Prime Minister Goh Keng Swee planted a rain tree sapling on the summit of Mount Faber on a Sunday morning in 1971, there was little to suggest that it was a momentous occasion. The only people present were Goh’s wife, E.W. Barker, the Minister for Law and National Development, as well as senior officials from the Ministry of National Development. 
 
@@ -20,6 +21,9 @@ Tree planting in Singapore did not, of course, start in 1971. The practice began
 
 The municipality planted trees to either beautify parks and public spaces under its purview or to provide shade along roads such as Battery Road, Orchard Road, Connaught Drive and Jalan Besar. Commonly planted trees include the cotton tree (_Ceiba pentandra_), angsana (_Pterocarpus indicus_), flame of the forest (_Delonix regia_) and rain tree (_Samanea saman_).
 
+![Alt text for image on Isomer site](/images/vol-17-issue-4/tree-planting/2-Tree.jpg)
+<div style="background-color: white;">This towering rain tree is said to have grown from the sapling planted by Acting Prime Minister Goh Keng Swee in 1971 at the start of Tree Planting Day. It stands in Faber Point, the highest point of Mount Faber. <i>Courtesy of Jimmy Yap.</i></div>
+
 Trees were also planted in the Botanic Gardens for beautification or in its nurseries to support the municipality’s tree planting efforts as well as to experiment with new commercial crop like the pará rubber tree. Between the 1880s and 90s, the Botanic Gardens also carried out a large-scale tree planting programme in an attempt to reforest tracts of land that had once been primary forest but had been cleared to make way for plantations.[^2] 
 
 After World War II, the colonial government continued to hold many different tree planting activities. For instance, a tree planting campaign was launched in 1948 by the municipality to replant roadside trees that had been cut down during the Japanese Occupation. In 1955, the Singapore Improvement Trust (SIT) introduced a programme for residents to develop “a greater interest in the well-being of the estate” through tree planting. In the same year, the municipality, now renamed the City Council, also began to plant more flowering trees, such as the red bead tree (_Adenanthera pavonina_), green ebony (Jacaranda filicifolia) and Madras thorn (Pithecellobium dulce), as roadside trees in an attempt to turn Singapore into a “Garden City of the future”.[^3]
@@ -29,6 +33,9 @@ After World War II, the colonial government continued to hold many different tre
 When the People’s Action Party government came into power in 1959, it continued the practice of tree planting. Prime Minister Lee Kuan Yew believed that it was important for cities to have greenery. “I have always believed that a blighted urban jungle of concrete destroys the human spirit. We need the greenery of nature to lift up our spirits,” he said. “Even in the 1960s, when the Government had to grapple with grave problems of unemployment, lack of housing, health and education, I pushed for the planting of trees and shrubs.”[^4]
 
 In 1963, Lee launched an island-wide tree planting campaign. He noted that such a campaign was needed because Singapore was “becoming barren of trees” and estimated that only one tree had been planted for every 10 that had been felled for building projects. According to a contemporary news report, Lee said that planting more trees “would not only increase the island’s water supply – trees encourage cloud formation and retain moisture that would otherwise be lost – but would make Singapore a pleasanter [sic] place to live in”.[^5] 
+
+![Alt text for image on Isomer site](/images/vol-17-issue-4/tree-planting/3-LKY.jpg)
+<div style="background-color: white;">Prime Minister Lee Kuan Yew planting a mempat tree sapling at Farrer Circus in 1963. The ceremony also signified the beginning of an island-wide tree planting campaign. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 Lee set a target of planting 10,000 trees annually. Of these, half were to be planted by the government along roads, in housing estates and parks, and the rest by the public. To prevent vandalism in housing estates, Lee suggested that “young trees be guarded by barbed wire”.[^6]
 
@@ -55,6 +62,9 @@ Tree Planting Day has been held every year since. It usually involves the entire
 Fruit trees became the focus of Tree Planting Day in the 1980s. According to Lee, the plan was to start by planting sturdy fruit trees in all HDB estates before moving on to more delicate ones. “We can saturate our housing estates with enough of the hardy fruit trees that can withstand the initial vandalism and pilfering by children,” he said. “Then, in the next stage, we can go for the better fruit trees, after higher social standards of behavior have been the norm.”[^16] The hope was that gradually, Singapore would be able to nurture a generation with the social discipline to respect and share the fruits of communal property.
 
 Some of the fruit trees planted at the time include popular ones like rambutan (_Nephelium lappaceum_), coconut (_Cocos nucifera_), mangosteen (_Garcinia mangostana_), jambu ayer (_Syzygium aqueum_), mango (_Mangifera indica_) and jackfruit (_Artocarpus heterophyllus_), as well as lesser-known ones like jujube (_Ziziphus mauritiana_), langsat (_Lansium domesticum_), kedondong (Canarium pilosum), binjai (_Mangifera caesia_) and kundang (_Bouea macrophylla_). As Chua Sian Eng, Commissioner of Parks and Recreation Department (1983–95), noted: “The younger generation has probably never seen any of these fruits. It’s a pity to let these trees, which thrived here for centuries, die out of our environment.”[^17] 
+
+![Alt text for image on Isomer site](/images/vol-17-issue-4/tree-planting/4-treeplanting.jpg)
+<div style="background-color: white;">Prime Minister Lee Kuan Yew planting a <i>damar minyak</i> sapling at the Singapore Botanic Gardens in 1987. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **Becoming Part of the Clean and Green Campaign**
 
@@ -94,7 +104,7 @@ Beyond planting more trees, the OneMillionTrees Movement is about, as Minister f
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-17-issue-4/authors/FarisJoraimi.png" style="width: 100px; height: 100px;" />
+<img src="/images/vol-17-issue-4/authors/LimTinSeng.png" style="width: 100px; height: 100px;" />
   <b>Lim Tin Seng</b> is a Librarian with the National Library, Singapore. He is the co-editor of <i>Roots: Tracing Family Histories – A Resource Guide</i> (2013), <i>Harmony and Development</i>: <i>ASEAN-China Relations</i> (2009) and <i>China’s New Social Policy: Initiatives for a Harmonious Society</i> (2010). He writes regularly for <i>BiblioAsia</i>.</div>
 
 
