@@ -100,4 +100,64 @@ Beyond planting more trees, the OneMillionTrees Movement is about, as Minister f
 
 #### **NOTES**
 
-[^1]: “Dr Goh Plants Tree to Launch T-Day,” _Straits Times_, 8 November 1971, 17. (From NewspaperSG)
+[^1]: “[Dr Goh Plants Tree to Launch T-Day](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19711108-1.2.87),” _Straits Times_, 8 November 1971, 17. (From NewspaperSG)
+
+[^2]: Lim Tin Seng, “The Greening of Singapore: Parks and Roadside Trees from Colonial Rule to the Present,” _Journal of the Malaysian Branch of the Royal Asiatic Society_, 91, no. 2 (December 2018): 80–82, Project Muse, https://muse.jhu.edu/article/714691; Shawn Lum and IIsa Sharp, eds., [_A View from the Summit: The Story of Bukit Timah Nature Reserve_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7671502) (Singapore: Nanyang Technological University and National University of Singapore, 1996), 20–21. (From National Library, Singapore, Call no. RSING 333.78095957 VIE)
+
+[^3]: Lim, “Greening of Singapore,” 80–82; “[Singapore Replants Trees](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19480323-1.2.82),” _Straits Times_, 23 March 1948, 7. (From NewspaperSG)
+
+[^4]: Lee Kuan Yew, “[Speech by Mr Lee Kuan Yew, Senior Minister at the Launch of the National Orchid Gardenon Friday, 20 October 1995 at 6.00 pm at the Singapore Botanic Gardens](https://www.nas.gov.sg/archivesonline/speeches/record-details/72f691c9-115d-11e3-83d5-0050568939ad) ,” 20 October 1985, transcript. (From National Archives of Singapore, Document no. lky19951020)
+
+[^5]: “[‘Plant a Tree’ Drive in S’pore,](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19630612-1.2.75)” _Straits Times_, 12 June 1963, 9. (From NewspaperSG)
+
+[^6]: “[‘Plant a Tree’ Drive in S’pore.](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19630612-1.2.75)”
+
+[^7]: “[Body to Make People Care for Trees](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19670419.2.133),” _Straits Times_, 19 April 1967, 13; “[S’pore to Become Beautiful, Clean City Within Three Years](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19670512-1.2.20.aspx),” _Straits Times_, 12 May 1967, 4. (From NewspaperSG)
+
+[^8]: Lee, “[Launch of the National Orchid Garden.](https://www.nas.gov.sg/archivesonline/speeches/record-details/72f691c9-115d-11e3-83d5-0050568939ad)”
+
+[^9]: “[Dr Goh Plants Tree to Launch T-Day](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19711108-1.2.87)”; “[Ministers and MPs](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19711102-1.2.110),” _Straits Times_, 2 November 1971, 15. (From NewspaperSG)
+
+[^10]: Othman Wok, “[Speech by Inche Othman Wok, Minister for Social Affairs, at the Launching of the Tree-planting Day of the Pasir Panjang Constituency on Sunday, 7th November, 1971, at 9.00 a.m. at the Pasir Panjang Community Centre](https://www.nas.gov.sg/archivesonline/speeches/record-details/7b8ad68f-115d-11e3-83d5-0050568939ad),” 7 November 1971, transcript. (From National Archives of Singapore, Document no. PressR19711107a)
+
+[^11]: “[S’pore Will Avoid Mistake of Big Cities, Says Raja](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19711108-1.2.88),” _Straits Times_, 8 November 1971, 17. (From NewspaperSG)
+
+[^12]: “[Keep Eye on World Scene Too, Says Lee](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19711213-1.2.96.aspx),” _Straits Times_, 13 December 1971, 16. (From NewspaperSG)
+
+[^13]: Timothy Auger, [_Living in a Garden: The Greening of Singapore_](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200132926) (Singapore: Editions Didier Millet, 2013), 27. (From National Library, Singapore, Call no. RSING 363.68095957 AUG
+
+[^14]: Evangeline Gamboa, “[PM Planted It 11 Years Ago…](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19831106-1.2.41.aspx),” _Straits Times_, 6 November 1983, 12; “[Lee to ‘Spade In’ Tree Planting Day](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19751109-1.2.24),” _Straits Times_, 9 November 1975, 5; “[Mr Lee Sets Example on Tree Planting Day](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19771107-1.2.75),” _Straits Times_, 7 November 1977, 15; “[PM Launches Tree Planting Day](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19781106-1.2.9),” _Straits Times_, 6 November 1978, 1; “[People and VIPs Dig in on Tree Planting Day](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19791105-1.2.45),” _Straits Times_, 5 November 1979, 10. (From NewspaperSG)
+
+[^15]: Gamboa, “[PM Planted it 11 years ago…](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19831106-1.2.41.aspx).”; “[Lee to ‘Spade In](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19751109-1.2.24)”; “[Mr Lee Sets Example on Tree Planting Day](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19771107-1.2.75)”; “[PM Launches Tree Planting Day](eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19781106-1.2.9)”; “[People and VIPs Dig in on Tree Planting Day](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19791105-1.2.45)”; Maureen Chua, “[A Tembusu By Lee Starts Off Tree Planting Day](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19731105-1.2.78),” _Straits Times_, 5 November 1973, 15; “[Lee Starts Off Tree Planting Day at East Coast](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19741104-1.2.50),” _Straits Times_, 4 November 1974, 8. (From NewspaperSG)
+
+[^16]: Lee Kuan Yew, “[Speech by Prime Minister Lee Kuan Yew at the Opening of the 3rd Horticulture and Aquarium Fish Show on 17 Sep 80 at World Trade Centre](https://www.nas.gov.sg/archivesonline/speeches/record-details/73ae68e5-115d-11e3-83d5-0050568939ad),” 17 September 1980, transcript. (From National Archives of Singapore, Document no. lky19800917)
+
+[^17]: Lee Siew Hua, “[Bringing Back Our ‘Forgotten’ Fruits](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19851103-1.2.8.4),” _Straits Times_, 3 November 1985, 2. (From NewspaperSG)
+
+[^18]: Cherian George, “[Mr Lee Plants Last Tree as PM](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19901105-1.2.31.7.aspx),” _Straits Times_, 5 November 1990, 23. (From NewspaperSG)
+
+[^19]: Goh Chok Tong, “[Speech by Mr Goh Chok Tong, First Deputy Prime Minister and Minister for Defence, at the Launching of ‘Clean and Green Week… Green for Life’, at Esplanade Park on Sunday, 4 November 1990, at 10.00 pm](https://www.nas.gov.sg/archivesonline/speeches/record-details/73145970-115d-11e3-83d5-0050568939ad),” 4 November 1990, transcript. (From National Archives of Singapore, Document no. gct19901104)
+
+[^20]: Cherian George, “[PM: S’pore Committed to Protecting Environment](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19931108-1.2.2),” _Straits Times_, 8 November 1993, 1; “[Next Year ‘an Apt Time to Reward Nation Builders](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19941107-1.2.2)’,” _Straits Times_, 7 November 1994, 1; Hong Lee Tiam, “[ENV Plan to Help Industries Avoid Waste, Conserve Resources](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19921102-1.2.6),” _Business Times_, 2 November 1992, 1; “[A ‘Tree’ to Save the Environment](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19921102-1.2.5),” _Straits Times_, 2 November 1992, 1. (From NewspaperSG)
+
+[^21]: “[A ‘Tree’ to Save the Environment.](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19921102-1.2.5)” 
+
+[^22]: Amanda Lee, “[PM Lee Joins Residents in Reforestation Efforts](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20131104-1.2.26.1),” _Today_, 4 November 2013, 16. (From NewspaperSG); Chong Zi Liang, “PM Lee Marks Tree Planting Day by Planting a Tropical Mangrove Tree – on Water,” _Straits Times_, 13 November 2016, https://www.straitstimes.com/singapore/environment/pm-lee-marks-tree-planting-day-by-planting-a-tropical-mangrove-tree-on-water; Yuen Sin, “PM Lee Joins Residents for Annual Tree Planting in Fernvale Lane,” _Straits Times_, 4 November 2018, https://www.straitstimes.com/singapore/pm-lee-joins-residents-for-annual-tree-planting-in-fernvale-lane; Walter Sim, “PM Lee Plants Tree, Launches SG50 Clean and Green Carnival in Punggol,” _Straits Times_, 31 October 2015, https://www.straitstimes.com/singapore/environment/pm-lee-plants-tree-launches-sg50-clean-and-green-carnival-in-punggol.
+
+[^23]: “[Planting Roots in the Community](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20151109-1.2.31.7),” _Straits Times_, 9 November 2015, 4. (From NewspaperSG)
+
+[^24]: Lim Yan Liang, “[Recycling, Energy-Saving to Figure in Green Plan](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20141102-1.2.7.4),” _Straits Times_, 2 November 2014, 4. (From NewspaperSG)
+
+[^25]: Lee Hsien Loong, “Good to Meet Up with My Fellow AMK Grassroots Advisors. Let Us All Continue in Our Efforts to Make Singapore a City in Nature!,” 1 November 2020, Facebook, https://www.facebook.com/leehsienloong/photos/a.3773908769338468/
+
+[^26]: Justin Ong, “PM Lee Plants Same Type of Tree on Annual Tree Planting Day as Father Did in 1963,” _The Straits Times_, 20 November 2021, https://www.straitstimes.com/singapore/community/pm-lee-plants-symbolic-cherry-blossom-like-tree-as-ang-mo-kio-steps-up-green
+
+[^27]: Azra Moiz, [_The Singapore Green Plan: Action Programmes_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6644501) (Singapore: Times Editions Pte Ltd, 1993), 9–10. (From National Library, Singapore, Call no. RSING 363.7095957 SIN)
+
+[^28]: Audrey Tan, “Singapore Green Plan 2030 to Change the Way People Live, Work, Study and Play,” _Straits Times_, 10 February 2021, https://www.straitstimes.com/singapore/environment/singapore-green-plan-2030-to-change-the-way-people-live-work-study-and-play; Ang Hwee Min and Mathew Mohan, “Singapore Unveils Green Plan 2030, Outlines Green Targets for Next 10 Years,” _Channel NewsAsia_, 10 February 2021, https://www.channelnewsasia.com/news/singapore/singapore-green-plan-2030-targets-10-years-14161356
+
+[^29]: “About the Movement”, National Parks Board, last updated 10 September 2021, https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement; Cindy Co, “Singapore to Plant 1 Million Trees, Develop More Gardens and Parks by 2030,” _Channel NewsAsia_, 4 March 2020, https://www.channelnewsasia.com/news/singapore/singapore-to-plant-1-million-trees-develop-more-gardens-and-12500858.
+
+[^30]: “About the Movement”; Co, “Singapore to Plant 1 Million Trees, Develop More Gardens and Parks by 2030.” 
+
+[^31]: “Speech by 2M Desmond Lee at the Committee of Supply Debate 2020 – Transforming Singapore into a City of Nature,” Ministry of National Development, 4 March 2020, https://www.mnd.gov.sg/newsroom/speeches/view/speech-by-2m-desmond-lee-at-the-committee-of-supply-debate-2020---transforming-singapore-into-a-city-of-nature.
