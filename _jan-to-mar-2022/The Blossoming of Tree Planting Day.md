@@ -5,7 +5,7 @@ description: ""
 ---
 #### Singapore has planted more than two million trees in the past 50 years. **Lim Tin Seng** traces the roots of Tree Planting Day.
 
-![Alt text for image on Isomer site](/images/vol-17-issue-4/tree-planting/1-Header.jpg)
+![Alt text for image on Isomer site](/images/vol-17-issue-4/tree-planting/1-Header-2.jpg)
 <div style="background-color: white;"> Acting Prime Minister Goh Keng Swee planting a rain tree on Mount Faber on 8 November 1971, Singapore’s first annual Tree Planting Day. Source: <i>The Straits Times © SPH Media Limited. Reprinted with permission.</i>
 </div>
 
