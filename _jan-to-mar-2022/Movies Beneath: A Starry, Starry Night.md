@@ -41,7 +41,7 @@ On the opening night, 880 cars filled the 900-car capacity site. The film screen
 
 The cinema screened mainly first-run English language movies from the United States and Britain as well as Mandarin kungfu and action-packed films from Hong Kong, with two screenings each night and an additional midnight screening on Saturdays. Tickets cost $2 for adults and $1 for children below 12 (admission prices were later raised in 1978 to $2.50 for adults and $1.50 for children).[^8]
 
-![Alt text for image on Isomer site](/images/vol-17-issue-4/movies-beneath/Audience.jpg)
+![Alt text for image on Isomer site](/images/vol-17-issue-4/movies-beneath/Opening2.png)
 <div style="background-color: white;">Guests and patrons buying ice-cream from a vendor at the Jurong Drive-in Cinema on opening night, 14 July 1971. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</i></div>
 
 Jurong Drive-in appealed to those who preferred the open air to the cramped interior of indoor cinemas as they could sit on stools outdoors, on their car roofs, on the back of their pick-up trucks or even lay newspapers on the ground. Children could run about in the open without disturbing their parents. Moreover, cinemagoers could be casually dressed in T-shirts, shorts and slippers.[^9]
