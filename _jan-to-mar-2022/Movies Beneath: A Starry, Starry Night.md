@@ -64,6 +64,7 @@ Some people even came up with ingenious ideas to avoid buying tickets. While wor
 
 
 The Jurong Drive-in was, unfortunately, also a magnet for antisocial behaviour. In 1972, a reader wrote to the *Straits Times* complaining that “[b]efore the ending of each show at the Jurong Drive-in cinema, [especially during the weekends] ‘speed-aces’ with beam headlights on, exhaust booming and tyres screeching will be zooming at 40 to 50 m.p.h. along the lanes to see who reaches the exit first. It is not only an annoyance to others who wish to see the end of a film but also dangerous, to everyone in the drive-in”.[^16]
+
 These drivers also continued racing after leaving the drive-in and the writer suggested that the traffic police “arrest these speed-aces as they race each other along Upper Ayer Rajah Road”.[^17] A month later, the police replied that they had “taken enforcement action against 28 vehicles for speeding along Upper Ayer Rajah Road”.[^18]
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/movies-beneath/Evil_Karate.png)
