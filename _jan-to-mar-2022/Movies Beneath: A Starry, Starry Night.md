@@ -116,7 +116,7 @@ In 2003, a drive-in movie screening was held at a carpark in Kallang as part of 
 
 Also in 2003, a company named MovieMob organised free drive-in and outdoor open-air movie screenings, including local films and Hollywood blockbusters, at selected locations across Singapore. Since its inception, the company has held over 300 movie screenings for events such as Singapore’s first French drive-in movie event over the Valentine’s Day weekend in 2016, “P.S. I Love You”, which attracted close to 100 vehicles and some 600 people. The company also helped to usher in the new year with open-air screenings of *Night at the Museum I* and* II* for the Marina Bay Singapore Countdown 2019.[^35]
 
-![Alt text for image on Isomer site](/images/vol-17-issue-4/movies-beneath/Curtains.png)
+![Alt text for image on Isomer site](/images/vol-17-issue-4/movies-beneath/Fairway.png)
 <div style="background-color: white;"> The site of the former Jurong Drive-in Cinema was first occupied by Fairway Country Club before it was demolished to build the ActiveSG Park as part of Jurong Lake Gardens. <i>Courtesy of NParks.  </i></div>
  
 More recently, on 25 July 2020, Downtown East announced that it would hold a monthly series of drive-in movie screenings starting from 8 August with the hit musical, *The Greatest Showman*. Tickets were priced at $18 per car for up to a maximum of five persons in a vehicle. Unfortunately, just 10 days later, it was announced that the screening had been cancelled due to “unforeseen circumstances” and refunds would be made.[^36] We can only surmise that the cancellation was related to the ongoing Covid-19 pandemic.
