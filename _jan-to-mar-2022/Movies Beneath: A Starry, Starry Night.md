@@ -127,8 +127,7 @@ As these examples demonstrate, there is still a market for the occasional drive-
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-17-issue-4/authors/Sharon_Teng.png" style="width: 100px; height: 100px;" />
-	<b>Faris Joraimi</b> is a Lee Kong Chian Research Fellow with the National Library. As a writer and researcher specialising in the history of the Malay World, he has authored various essays for print and electronic media. He is also co-editor of <i>Raffles Renounced: Towards a Merdeka History</i> (2021), a volume of essays on 
-Singapore’s decolonial history. He graduated with a Bachelor of Arts (Honours) in History from Yale-NUS College.</div>
+	<b>Sharon Teng</b> is a Librarian with the National Library, Singapore. She is part of the Arts and General Reference team, and manages the Social Sciences and Humanities Collection.</div>
 
 #### **NOTES**
 
