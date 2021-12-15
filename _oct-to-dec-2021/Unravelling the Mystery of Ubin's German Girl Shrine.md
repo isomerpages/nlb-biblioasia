@@ -6,9 +6,6 @@ description: What is the truth behind the German girl shrine on Pulau Ubin?
   William L. Gibson investigates the history of Pulau Ubin to uncover the origin
   of the tale.
 ---
-
-
-
 #### What is the truth behind the German girl shrine on Pulau Ubin? **William L. Gibson** investigates the history of Pulau Ubin to uncover the origin of the tale.
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-3/ubin-shrine/Cover2.jpg)
@@ -38,6 +35,8 @@ Later, Chia freely admitted that he had no way of knowing if any part of the sto
 According to Chia, the story had been related to him by a village elder he addressed as Uncle Foon Da, a man from China who had lived on Ubin since the 1880s. Uncle Foon Da, however, was not an eyewitness to the events himself. He told young Chia that he did not personally see the body of the girl but had only been told of the story by others.  
 
 So, how much of the German girl story holds up to scrutiny? And what can it tell us about the history of Pulau Ubin?
+
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba;text-align:center"> Want more of what you’re reading? Get <i>BiblioAsia</i>’s latest stories delivered to your inbox. Subscribe <a href=https://form.gov.sg/#!/616799db4d9b61001398f79b> here</a>.</div>
 
 #### **Of Coffee Plantations and Mysterious Germans** 
 
