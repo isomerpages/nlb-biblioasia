@@ -104,7 +104,7 @@ On 29 September 1985, Cathay officially announced that Jurong Drive-in would clo
 
 Jurong Drive-in finally closed on 30 September 1985 after almost 15 years.[^31] The land formerly occupied by the drive-in was developed into Fairway Country Club and later the ActiveSG Park in 2019 as part of Jurong Lake Gardens.[^32]
 
-![Alt text for image on Isomer site](/images/vol-17-issue-4/movies-beneath/close.png)
+![Alt text for image on Isomer site](/images/vol-17-issue-4/movies-beneath/Close.png)
 <div style="background-color: white;"> Jurong Drive-in Cinema announcing that it will close for good after its last show on 30 September 1985. <i>Image reproduced from The Straits Times, 29 September 1985, 10. (From NewspaperSG).
  </i></div>
 
