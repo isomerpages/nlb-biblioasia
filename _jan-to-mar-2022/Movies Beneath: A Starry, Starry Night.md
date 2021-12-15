@@ -17,9 +17,6 @@ A full-page announcement was published in the *Straits Times* on the day of the 
 
 #### **Location and Amenities** 
 
-![Alt text for image on Isomer site](/images/vol-17-issue-4/movies-beneath/Jurong_Drive-in_site.png)
-<div style="background-color: white;">Site of the Jurong Drive-in Cinema, 1972. <i> Image reproduced from Singapore Survey Department, Singapore Guide and Street Directory: With Sectional Maps (Singapore: Singapore Survey Department, 1972), Map 131. (From National Library, Singapore, Call no. RCLOS 959.57 SIN).</i></div>
-
 The construction of Jurong Drive-in was no easy task. It occupied 14 acres (5.6 hectares) of land along Yuan Ching Road, adjacent to Jurong Park, at a site now occupied by ActiveSG Park @ Jurong Lake Gardens. The site required 340,000 cubic yards (259,939 cubic metres) of earth to fill in the landscaping just for the installation of the giant screen. Measuring a whopping 47 ft by 110 ft (14.3 m by 33.5 m) and suspended 25 feet (7.6 m) from the ground, the screen was also tilted at an angle of six-and-a-half degrees for optimal viewing from the inside of a car. 
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/movies-beneath/Aerial_view.png)
@@ -29,15 +26,18 @@ The sound system was supported by a projector that had a range of 275 ft (83.8 m
 
 Ensuring the smooth entry and exit of vehicles from the cinema required careful planning. Cars coming from Jalan Ahmad Ibrahim would turn into Yuan Ching Road to reach the entrance of the drive-in. Car marshals were on hand to guide drivers to empty parking bays, particularly latecomers, to avoid dislodging those who had arrived earlier and were already in their chosen lots. There were two screenings each night – 7 pm and 9.30 pm – and cars arriving for the later show would wait in a large holding area that could accommodate 300 vehicles. As soon as the first screening ended and cars had vacated the lots, then the next lot of cars would be allowed to enter.[^3]
 
+![Alt text for image on Isomer site](/images/vol-17-issue-4/movies-beneath/Jurong_Drive-in_site.png)
+<div style="background-color: white;">Site of the Jurong Drive-in Cinema, 1972. <i> Image reproduced from Singapore Survey Department, Singapore Guide and Street Directory: With Sectional Maps (Singapore: Singapore Survey Department, 1972), Map 131. (From National Library, Singapore, Call no. RCLOS 959.57 SIN).</i></div>
+
 Vendors went around selling ice-cream and cold drinks which were snapped up, while an air-conditioned cafeteria offered quick bites like hamburgers, hot dogs, sandwiches, fried *poh piah*, chicken salad, porridge, *mee siam*, French fries and drumsticks.[^4]There was even a playground containing a jungle gym, swings, slides, a merry-go-round and a rocker to occupy and entertain restless children.[^5] Eugene Ker Ban Hing, who used to sell newspapers at the entrance of the drive-in on weekends, recalled that “a *pasar malam* was held along the road leading to the drive-in [Yuen Ching Road] on Wednesday and Saturday nights, creating a carnival-like festive atmosphere”.[^6]
 
 #### **The Cinema Opens** 
 
+On the opening night, 880 cars filled the 900-car capacity site. The film screened for the charity premiere was *Doctor in Trouble*, a British comedy set on a luxury cruise liner bound for the Mediterranean, with proceeds going to the Jurong Town Creche. Admission tickets were priced at $30 and $50 (for a reserved lot) per car for a maximum of five passengers, including the driver. An estimated $20,000 was collected that night.[^7]
+
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/movies-beneath/Opening.png)
 <div style="background-color: white;">A cinema official assisting Minister for Culture Jek Yeun Thong in setting up the car speaker. He was the guest-of-honour at the official opening , 14 July 1971. <i> Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.
 </i></div>
-
-On the opening night, 880 cars filled the 900-car capacity site. The film screened for the charity premiere was *Doctor in Trouble*, a British comedy set on a luxury cruise liner bound for the Mediterranean, with proceeds going to the Jurong Town Creche. Admission tickets were priced at $30 and $50 (for a reserved lot) per car for a maximum of five passengers, including the driver. An estimated $20,000 was collected that night.[^7]
 
 The cinema screened mainly first-run English language movies from the United States and Britain as well as Mandarin kungfu and action-packed films from Hong Kong, with two screenings each night and an additional midnight screening on Saturdays. Tickets cost $2 for adults and $1 for children below 12 (admission prices were later raised in 1978 to $2.50 for adults and $1.50 for children).[^8]
 
