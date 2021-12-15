@@ -7,8 +7,6 @@ description: As Singapore’s Changi Airport marks its 40th anniversary in 2021,
   Rebecca Tan uncovers fascinating facts behind the decision to build the
   airport and how it eventually took shape.
 ---
-
-
 #### As Singapore’s Changi Airport marks its 40th anniversary in 2021, **Rebecca Tan** uncovers fascinating facts behind the decision to build the airport and how it eventually took shape.
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-3/how-changi-airport-came-to-be/Facing%20Page2.jpg)
@@ -53,6 +51,8 @@ Before the plan could be implemented, however, the world was gripped by the oil 
 In the early days, when Changi was still being considered, Pek Hock Thiam, director of the Ministry of Communications, organised helicopter and Skyvan trips for airport development committee members and ministers, including Lee, to view the Changi site. He recalled their excitement mixed with the fear of the unknown. As Pek noted: “There was nothing there. Worse, we knew that half the land for the airport would have to come from the sea. Who would believe we could create so much land in 2½ years?”[^7]
 
 The final decision to build the new airport at Changi came quickly. “Although [the] cost of relocating the airport to Changi was high, some $1.5 billion”, Lee believed that this would be the better option in the long term. When Lee was in Washington in April 1975, Goh Keng Swee, as acting prime minister, sent him an urgent message to say that a quick decision had to be made if Changi Airport was to be built by 1981.[^8] Lee cabled back and told Goh to proceed. 
+
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba;text-align:center"> Like what you're reading? <a href=https://form.gov.sg/#!/616799db4d9b61001398f79b>Subscribe</a> to <i>BiblioAsia</i>'s online newsletter for the latest stories.</div>
 
 #### **Building Changi**
 
