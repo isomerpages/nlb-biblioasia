@@ -7,7 +7,6 @@ layout: post
 description: Architectural conservation or real estate investment? Justin Zhuang
   ponders over the fate of a 1970s style icon that has seen better times.
 ---
-
 #### Architectural conservation or real estate investment? **Justin Zhuang** ponders over the fate of a 1970s style icon that has seen better times.
 
 <div style="background-color: white;"><br><img src="/images/Vol-12-issue-3/saving-pearl-bank-apartments/02-savingpearlbank.jpg">A dramatic view from a penthouse on the 38th floor of Pearl Bank apartments. This iconic block, completed in 1976, was the tallest apartment building in Singapore at the time. <i>Photo by Justin Zhuang.</i></div>
@@ -28,11 +27,11 @@ The result would be a modern appendage to his modernist marvel – a concrete ma
 
 <div style="background-color: white;"><br><img style="width:460px" src="/images/Vol-12-issue-3/saving-pearl-bank-apartments/01a-savingpearlbank.jpg">Tan Cheng Siong, the original architect of Pearl Bank, has come up with a conservation plan that entails demolishing part of the existing five-storey carpark and building a new block of 150 apartments. <i>Courtesy of Archurban Architects Planners.</i></div>
 
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba;text-align:center"> Like what you're reading? <a href=https://form.gov.sg/#!/616799db4d9b61001398f79b>Subscribe</a> to <i>BiblioAsia</i>'s online newsletter for the latest stories.</div>
+
 #### **Rise of an Architectural Icon**
 
 If Tan’s plan goes through, it will not be the first time he has offered a radical solution to urbanisation issues in Singapore. Pearl Bank first arose amid rapid modernisation of the city in the 1970s and 80s. Following the sales of land to private developers to build hotels, offices and commercial facilities, in 1969 the government released for the first time a piece of land in the city centre that was earmarked for private high-rise apartments. As with other land parcels offered for sale back then, the authorities had already visualised a plan for prospective tenderers: three rectilinear towers connected by a public square-cum-carpark at the foot of Pearl’s Hill.[^1]
-
-<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba;text-align:center"> Like what you're reading? <a href=https://form.gov.sg/#!/616799db4d9b61001398f79b>Subscribe</a> to BiblioAsia's online newsletter for the latest stories.</div>
 
 “Luckily, I didn’t look at it!” exclaims Tan when shown these plans during this interview – which he says he was seeing for the first time. “Otherwise, I may have followed it thinking this may be the winning design. You know how sometimes people get influenced for commercial reasons…the developer may say, ‘Eh, copy this, it’s a good thing. That’s what they want.’.”
 
