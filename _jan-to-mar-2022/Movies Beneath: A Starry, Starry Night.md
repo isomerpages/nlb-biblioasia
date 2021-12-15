@@ -77,7 +77,7 @@ The huge amount of trash left behind by cinemagoers each night was also a concer
 
 There were also instances of break-ins and thefts at Jurong Drive-in, though not always competently done. On 3 May 1977, “eight masked youths armed with parangs and iron pipes broke into the restaurant and office of Jurong drive-in cinema. They earlier held up two security guards on rounds in the compound at 3 am and tied them with wire. After ransacking the premises for some time, they managed to get away with only a torchlight worth $5.25”.[^23]
 
-####**Waning Fortunes**
+#### **Waning Fortunes** 
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/movies-beneath/Unhappy.png)
 <div style="background-color: white;"> By the early 1980s, the novelty of the Jurong Drive-in Cinema had worn off, and nothing the operator did – such as free gifts, first-run shows and cheap tickets – could bring back the crowds.<i> Image reproduced from The Straits Times, 10 December 1981, 11. (From NewspaperSG). </i></div>
