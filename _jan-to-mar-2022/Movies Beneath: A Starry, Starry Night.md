@@ -40,14 +40,16 @@ On the opening night, 880 cars filled the 900-car capacity site. The film screen
 
 The cinema screened mainly first-run English language movies from the United States and Britain as well as Mandarin kungfu and action-packed films from Hong Kong, with two screenings each night and an additional midnight screening on Saturdays. Tickets cost $2 for adults and $1 for children below 12 (admission prices were later raised in 1978 to $2.50 for adults and $1.50 for children).[^8]
 
-![Alt text for image on Isomer site](/images/vol-17-issue-4/movies-beneath/Vehicles.png)
-<div style="background-color: white;">Vehicles at the Jurong Drive-in Cinema on opening night, 14 July 1971. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
-
 Jurong Drive-in appealed to those who preferred the open air to the cramped interior of indoor cinemas as they could sit on stools outdoors, on their car roofs, on the back of their pick-up trucks or even lay newspapers on the ground. Children could run about in the open without disturbing their parents. Moreover, cinemagoers could be casually dressed in T-shirts, shorts and slippers.[^9]
 
 It was also popular with courting couples, who were perhaps less interested in the action taking place on the screen. Sales executive Felix Goh recalled going on a double date and there was some disagreement over seating arrangements. Even though sitting in front would provide a better view of the movie, it was the back seat that was in demand. “We tossed a coin over which couple should occupy the back seat. My friend won,” he quipped.[^10]
 
 For others, the journey to the far-flung cinema located in the western part of the island was itself a part of the experience. Hotel executive Lilian Gan reminisced, “My husband and I used to go there once or twice a week. We’d go on long drives on weekends and end up there.”[^11]
+
+
+![Alt text for image on Isomer site](/images/vol-17-issue-4/movies-beneath/Vehicles.png)
+<div style="background-color: white;">Vehicles at the Jurong Drive-in Cinema on opening night, 14 July 1971. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
 
 Movies starring martial arts legend Bruce Lee were especially popular, packing in the crowds every night when these were screened. *The Big Boss*, which launched Lee’s movie career, was a spectacular box-office hit, raking in $12,000 in ticket sales for just an evening’s screening in 1971.[^12]
 
