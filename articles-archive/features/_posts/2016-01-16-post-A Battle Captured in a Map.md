@@ -21,7 +21,7 @@ description: ""
 <br>
 <b>Accession no.:</b> B18835268H</span>
 
-<img style="width:600px" src="/images/vol-11-issue-4/battle-captured-in-a-map/01_battlemap.jpg">
+<div style="background-color: white;"><img style="width:600px" src="/images/vol-11-issue-4/battle-captured-in-a-map/01_battlemap.jpg">This 1606 engraved map by the de Bry family is one of the earliest in the National Library’s Rare Materials Collection that shows a distinct coastline of Singapore. <i>Image source: National Library Board, Singapore.</i></div>
 
 For a tiny island known more for its skyscrapers than its sea-faring adventures, Singapore has a surprisingly bloody history. And while most of this history has been lost over time, one record that tells of a particularly ferocious battle between the Dutch and Portuguese armadas in the early 17th century is found in the National Library.
 
