@@ -119,37 +119,36 @@ As for the Asia, various salvage efforts were undertaken over the years. In 1998
 [^1]: Geoffrey Hosken, Diary, 3 November 1941 to 19 April 1942.
 [^2]: Walter Oliver, Loss of the Empress of Asia (Unpublished memoir, 1978), p. 98.
 [^3]: Some sources state 416, but three crewmen left prior to Singapore.
-[^4]: An account by Asia Captain John Bisset Smith lists six Oerlikons, eight Hotchkiss, a six-inch gun, 
-three-inch anti-aircraft gun, four PAC rockets, and depth charges.
-Manuscript of “Empress of Asia” story dictated by Captain J. Watts to J.T. Carney in River Valley Camp, 1942, courtesy of Helen Watts.
-Geoff Tozer, Journal, 4 February 1942.
-John Drummond, Journal, 4 February 1942, p. 1.
-Hosken, 33.
-There were 70 firemen in the stokehold, plus 48 trimmers and 18 greasers.
-Hosken, 32–33.
-Watts, 11.
-Captain John Bisset Smith. 1942A. Commander’s Report, SS Empress of Asia. Voyage 151/3. Report to Canadian Pacific on final voyage, p. 1, 4 February 1942.
-William Hanson, My War Experience, 1939–1945, Far East Prisoners of War website, Ron Taylor@far-eastern-heroes.org.uk; William Harris, Imperial War Museum, Conrad Wood interview, 15 May 1989, Cat. No. 10704.
-Oliver, 98.
-Oliver, 99.
-Watts, 14; Oliver, 99.
-Smith, 1.
-Maurice Atkins, Interview, 29 January 2021.
-Oliver, 99.
-Oliver, 100.
-Atkins, Interview.
-Oliver, 100.
-Watts, 17.
-Hosken, 37.
-Geoff Tozer, Email to Nelson Oliver, 20 December 2001.
-Chief Officer Donald Smith. 5 February 1942. SS Empress of Asia Voyage 155/3. Chief Officer’s Report to CPR. 
-Smith, Commander’s report.
-Oliver, 101.
-Atkins, Interview.
-The profile of Captain Wilfred Harrington in the Australian Dictionary of Biography states that 1,804 men were rescued.
-The Yarra was destroyed on 4 March 1942 while defending a convoy in the Indian Ocean.
-Oliver, 102.
-Oliver, 102; Nelson Oliver, Empress of Asia files.
+[^4]: An account by Asia Captain John Bisset Smith lists six Oerlikons, eight Hotchkiss, a six-inch gun, three-inch anti-aircraft gun, four PAC rockets, and depth charges.
+[^5]: Manuscript of “Empress of Asia” story dictated by Captain J. Watts to J.T. Carney in River Valley Camp, 1942, courtesy of Helen Watts.
+[^6]: Geoff Tozer, Journal, 4 February 1942.
+[^7]: John Drummond, Journal, 4 February 1942, p. 1.
+[^8]: Hosken, 33.
+[^9]: There were 70 firemen in the stokehold, plus 48 trimmers and 18 greasers.
+[^10]: Hosken, 32–33.
+[^11]: Watts, 11.
+[^12]: Captain John Bisset Smith. 1942A. Commander’s Report, SS _Empress of Asia_. Voyage 151/3. Report to Canadian Pacific on final voyage, p. 1, 4 February 1942.
+[^13]: William Hanson, My War Experience, 1939–1945, Far East Prisoners of War website, Ron Taylor@far-eastern-heroes.org.uk; William Harris, Imperial War Museum, Conrad Wood interview, 15 May 1989, Cat. No. 10704.
+[^14]: Oliver, 98.
+[^15]: Oliver, 99.
+[^16]: Watts, 14; Oliver, 99.
+[^17]: Smith, 1.
+[^18]: Maurice Atkins, Interview, 29 January 2021.
+[^19]: Oliver, 99.
+[^20]: Oliver, 100.
+[^21]: Atkins, Interview.
+[^22]: Oliver, 100.
+[^23]: Watts, 17.
+[^24]: Hosken, 37.
+[^25]: Geoff Tozer, Email to Nelson Oliver, 20 December 2001.
+[^26]: Chief Officer Donald Smith. 5 February 1942. SS _Empress of Asia_ Voyage 155/3. Chief Officer’s Report to CPR. 
+[^27]: Smith, Commander’s report.
+[^28]: Oliver, 101.
+[^29]: Atkins, Interview.
+[^30]: The profile of Captain Wilfred Harrington in the _Australian Dictionary of Biography_ states that 1,804 men were rescued.
+[^31]: The _Yarra_ was destroyed on 4 March 1942 while defending a convoy in the Indian Ocean.
+[^32]: Oliver, 102.
+[^33]: Oliver, 102; Nelson Oliver, _Empress of Asia_ files.
 
 
 
