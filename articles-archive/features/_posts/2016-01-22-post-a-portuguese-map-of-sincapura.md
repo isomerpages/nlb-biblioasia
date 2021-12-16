@@ -47,7 +47,7 @@ The *Declaracam de Malaca* is a valuable resource for researchers looking into t
 
 This French edition of Erédia’s manuscript was part of the Raffles Museum and Library collection before World War II,[^12] and bears the Raffles Library stamp.
 
-**Written by:** Nor-Afidah Abdul Rahman
+– Written by Nor-Afidah Abdul Rahman
 
 <a href="/vol-11/issue-4/jan-mar-2016/"><center>Back to Issue</center></a>
 
