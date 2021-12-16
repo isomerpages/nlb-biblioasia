@@ -53,7 +53,7 @@ Moor was appointed editor of the *Singapore Chronicle* from 1830, and the newspa
 
 The National Library holds four copies of the 1837 edition of *Notices*, and two copies of the 1968 reprint with uncoloured maps. The better copy of the 1837 version was donated to the National Library in 1965 as part of the Gibson-Hill Collection. The second 1837 copy has been restored by the National Archives but the provenance of this copy is unclear, and it appears to be missing some maps.
 
-**Written By:** Gracie Lee
+– Written by Gracie Lee
 
 <a href="/vol-11/issue-4/jan-mar-2016/"><center>Back to Issue</center></a>
 
