@@ -50,7 +50,7 @@ In 2001, this letter was displayed in Canberra at the National Library of Austra
 
 In 2012, the letter was transcribed by Dr John Bastin, an eminent scholar and a leading authority on Raffles. The transcript was published in a book by Bastin titled *The Founding of Singapore, 1819*, published by the National Library Board (NLB) in conjunction with the exhibition, “Raffles’ Letters: Intrigues Behind the Founding of Singapore” held at the National Library Gallery from 29 August 2012 to 28 February 2013.[^10] In 2014, the book was republished as *Raffles and Hastings: Private Exchanges Behind the Founding of Singapore* by NLB and Marshall Cavendish Editions.
 
-**Written By:** Nor-Afidah Abdul Rahman
+– Written by Nor-Afidah Abdul Rahman
 
 <a href="/vol-11/issue-4/jan-mar-2016/"><center>Back to Issue</center></a>
 
