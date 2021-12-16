@@ -47,7 +47,7 @@ Still, the book’s extensive facts and figures reflect Crawfurd’s wide schola
 
 The National Library holds four copies of the first edition published in 1856.. One is from the Ya Yin Kwan Collection, donated in July 1964 by Penang-born merchant and scholar Tan Yeok Seong. Another copy was donated in June 1965 as part of the Gibson-Hill Collection by Mrs Loke Yew on behalf of her late son Loke Wan Tho, the first chairman of the National Library Board and the owner of the Cathay chain of cinemas. The third copy comes from the John Bastin Collection.
 
-**Written by:** Gracie Lee
+– Written by Gracie Lee
 
 <a href="/vol-11/issue-4/jan-mar-2016/"><center>Back to Issue</center></a>
 
