@@ -6,7 +6,6 @@ image: /images/vol-11-issue-4/war-crimes-trial-snapshot/01_warcrimes.jpg
 layout: post
 description: ""
 ---
-
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>ABOUT THE PHOTOGRAPGH</b>
 <br><br>
 <b>Item:</b> <i>Photographs on the Opening of the War Crimes Trial in Singapore, 21 January 1946</i>
@@ -19,7 +18,9 @@ description: ""
 <br>
 <b>Type:</b> Photograph
 <br>
-	<b>Donated by:</b> Lee Kip Lee</span>
+<b>Accession no.:</b> B26075680A
+<br>
+<b>Donated by:</b> Lee Kip Lee</span>
 
 A 1946 photograph from the opening of the War Crimes Trials held in Singapore[^1] is a grim reminder of the atrocities committed by the Japanese during the Japanese Occupation of Singapore (1942–45) – a dark period in Singapore’s history.
 
