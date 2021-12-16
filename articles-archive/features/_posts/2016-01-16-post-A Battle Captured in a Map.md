@@ -5,7 +5,9 @@ date: 2016-01-16
 layout: post
 description: ""
 ---
-<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>Title:</b> <i><a href="https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/1745190b-1fcc-11ea-a1ea-001a4a5ba61b">Contrafactur des Scharmutz els der Hollender wider die Portigesen in dem Flus Balusabar (Chart of a Skirmish between the Dutch and the Portuguese in the Balusabar River)</a></i>
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>ABOUT THE MAP</b>
+<br><br>
+<b>Title:</b> <i><a href="https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/1745190b-1fcc-11ea-a1ea-001a4a5ba61b">Contrafactur des Scharmutz els der Hollender wider die Portigesen in dem Flus Balusabar (Chart of a Skirmish between the Dutch and the Portuguese in the Balusabar River)</a></i>
 <br>
 <b>Creators:</b> Theodor de Bry, Johann Theodor de Bry, Johann Israel de Bry
 <br>
