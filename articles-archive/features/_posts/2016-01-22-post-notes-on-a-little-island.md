@@ -41,7 +41,7 @@ Although there have been other accounts of the mission, *Journal of an Embassy* 
 
 The National Library holds two copies of the first edition of *Journal of an Embassy* which was acquired in 2012 and 2016 respectively. The book features a panoramic double-folded aquatint frontispiece of Singapore, a double-folded *Map of the Kingdoms of Siam and Cochin China*, and illustrations, including 11 woodcuts, and two leaves of facsimile alphabets of Southeast Asian languages.
 
-**Written by:**  Gracie Lee
+– Written by Gracie Lee
 
 <a href="/vol-11/issue-4/jan-mar-2016/"><center>Back to Issue</center></a>
 
