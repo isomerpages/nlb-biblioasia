@@ -51,7 +51,7 @@ The third and last co-editor, Roland St. John Braddell (1880–1966) was a promi
 
 *One Hundred Years of Singapore* comprises two volumes of about 600 pages each. The two volumes featured in the facing page are the original copies in the National Library’s collection that have been rebound.
 
-**Written by:** Ang Seow Leng
+– Written by Ang Seow Leng
 
 <a href="/vol-11/issue-4/jan-mar-2016/"><center>Back to Issue</center></a>
 
