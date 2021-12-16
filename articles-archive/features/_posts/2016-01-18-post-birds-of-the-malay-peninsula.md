@@ -4,6 +4,25 @@ date: 2016-01-18
 permalink: /vol-11/issue-4/jan-mar-2016/birdsofmalaypeninsula
 layout: post
 ---
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>ABOUT THE BOOK</b>
+<br><br>
+<b>Title:</b> <i>The Birds of the Malay Peninsula: A General Account of the Birds Inhabiting the Region from the Isthmus of Kra to Singapore with the Adjacent Islands</i>
+<br>
+<b>Authors:</b> Herbert C. Robinson(Vols. 1–3), Frederick N. Chasen (Vols. 3–4), Lord Medway (Vol. 5), David R. Wells (Vol. 5)
+<br>
+<b>Year published:</b> Vol. 1 (1927), Vol. 2 (1928), Vol. 3 (1936), Vol. 4 (1939), Vol. 5 (1976)
+<br>
+<b>Publisher:</b> H. F. & G. Witherby (London)
+<br>
+<b>Language:</b> English
+<br>
+<b>Type:</b> Book (5 volumes)
+<br>
+<b>Call nos.:</b>  RRARE598.29595 ROB, RRARE598.29595 CHA
+<br>
+<b>Accession nos.:</b> B02936005C (v.1); B02936006D (v.2); B02936007E (v.3); B02935992 (v.4); B03000462D (v.5)</span>
+
+
 <div style="background-color: white;"><br><img style="width:400px" src="/images/vol-11-issue-4/birds-of-the-malay-peninsula/01_birds.jpg">From top: A mature Malay Glossy Starling, an immature Malay Glossy Starling and the Buffalo Mynah. <i>All rights reserved, Robinson, H. C. (1927). The Birds of the Malay Peninsula (Vol. I). London: H. F. & G. Witherby.</i></div>
 
 Much has been written about the history of the Malay Peninsula and its people. Far less would have been known about the region’s birds, however, if not for an extensive five-volume series painstakingly compiled by four ornithologists between 1927 and 1976.
@@ -35,23 +54,9 @@ Interest in continuing with the final volume was revived more than 20 years late
 
 H. F. & G. Witherby, the publisher of volumes 1 to 4, also produced the fifth volume, taking pains to use the same typesetting, paper and layout that had been used in previous volumes. In 1976, the last volume was finally published.[^12]
 
-**Written by:** Nor-Afidah Abdul Rahman
+– Written by Nor-Afidah Abdul Rahman
 
-<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>ABOUT THE BOOK</b>
-<br><br>
-<b>Title:</b> <i>The Birds of the Malay Peninsula: A General Account of the Birds Inhabiting the Region from the Isthmus of Kra to Singapore with the Adjacent Islands</i>
-<br>
-<b>Authors:</b> Herbert C. Robinson(Vols. 1–3), Frederick N. Chasen (Vols. 3–4), Lord Medway (Vol. 5), David R. Wells (Vol. 5)
-<br>
-<b>Year published:</b> Vol. 1 (1927), Vol. 2 (1928), Vol. 3 (1936), Vol. 4 (1939), Vol. 5 (1976)
-<br>
-<b>Publisher:</b> H. F. & G. Witherby (London)
-<br>
-<b>Language:</b> English
-<br>
-<b>Type:</b> Book (5 volumes)
-<br>
-<b>Location:</b> Call nos.: RRARE598.29595 ROB, RRARE598.29595 CHA; Microfilm nos.: NL 5139 (v.1–.4), NL 5140 (v.1–4), NL 8817 (v.1–.4), NL 8818 (v.4), NL 14480 (v.4), NL25743 (v.4), NL25926 (v.4)</span>
+<a href="/vol-11/issue-4/jan-mar-2016/"><center>Back to Issue</center></a>
 
 #### **NOTES**
 
