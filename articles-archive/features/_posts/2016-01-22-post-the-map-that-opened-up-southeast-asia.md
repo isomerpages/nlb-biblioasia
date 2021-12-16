@@ -55,7 +55,7 @@ Plancius had composed the map using the navigational charts of Fernao Vaz Dourad
 
 This hand-coloured 1596 map is part of the National Library’s David Parry Southeast Asian Map Collection. The library also holds a 1596 black-and-white version of the same map donated by the philanthropist and architect Koh Seow Chuan, which is part of the collection named after him.
 
-**Written by:** Irene Lim
+– Written by Irene Lim
 
 <a href="/vol-11/issue-4/jan-mar-2016/"><center>Back to Issue</center></a>
 
