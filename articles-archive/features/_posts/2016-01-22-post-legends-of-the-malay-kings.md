@@ -4,6 +4,27 @@ date: 2016-01-22
 permalink: /vol-11/issue-4/jan-mar-2016/legend-of-malay-kings
 layout: post
 ---
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>ABOUT THE BOOK</b>
+<br><br>
+	<b>Title:</b> <i><a href="https://eresources.nlb.gov.sg/printheritage/detail/403dde58-c3c4-4a53-ba21-f11e813f434f.aspx">Malay Annals (Sejarah Melayu)</a></i>
+<b>Author:</b> John Leyden (1775–1811), with an introduction by Stamford Raffles (1781–1826)
+<br>
+<b>Year published:</b> 1821<br>
+<b>Publisher:</b> Longman, Hurst, Rees, Orme and Brown (London)<br>
+<b>Language:</b> English<br>
+<b>Type:</b> Book; 361 pages<br>
+<b>Location:</b> Call no.: RRARE959.503 MAL<br>
+<b>Accession no.:</b> B02633069G
+<br><br>
+<b>Title:</b> <i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=12976133">Sejarah Malayu (Malay Annals)</a></i>
+<b>Author:</b> William Girdlestone Shellabear (1862–1948)<br>
+<b>Year published:</b> 1898<br>
+<b>Publisher:</b> American Mission Press (Singapore)<br>
+<b>Language:</b> Romanised Malay<br>
+<b>Type:</b> Book; 190 pages<br>
+<b>Call no.:</b>  RRARE 9.51 SEJ<br>
+<b>Accession no.:</b> B20025340E</span>
+
 The *Sejarah Melayu* is considered by scholars as an important literary work on the history and genealogy of the Malay kings of the Malacca Sultanate (1400–1511). Partially composed in the 17th century in Jawi – the modified Arabic script used to express the Malay language – the title is derived from its original Arabic name, *Sulalat al-Salatin* (*Genealogy of Kings*).[^1] But few are aware that its first English translation in the early 19th century, the *Malay Annals*, was actually undertaken by a Scotsman.
 
 <div style="background-color: white;"><img style="width:500px" src="/images/vol-11-issue-4/legend-of-malay-kings/03_malaykings.jpg">Sejarah Melayu includes an introduction by Stamford Raffles and was used as a study aid to groom British scholar administrators in the colonial service. <i>All rights reserved, National Library Board, Singapore.</i></div>
@@ -38,25 +59,9 @@ Published in Singapore by the American Mission Press, Shellabear’s romanised M
 
 <div style="background-color: white;"><img style="width:500px" src="/images/vol-11-issue-4/legend-of-malay-kings/04_malaykings.jpg">The legend of Sang Nila Utama, a prince from Srivijaya who supposedly founded Singapura (Singapore), is one of the stories featured in the Sejarah Melayu. <i>All rights reserved, National Library Board, Singapore.</i></div>
 
-**Written by:** Nor-Afidah Abdul Rahman
+– Written by Nor-Afidah Abdul Rahman
 
-<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>ABOUT THE BOOK</b>
-<br><br>
-	<b>Title:</b> <i><a href="https://eresources.nlb.gov.sg/printheritage/detail/403dde58-c3c4-4a53-ba21-f11e813f434f.aspx">Malay Annals (Sejarah Melayu)</a></i>
-<b>Author:</b> John Leyden (1775–1811), with an introduction by Stamford Raffles (1781–1826)
-<b>Year published:</b> 1821
-<b>Publisher:</b> Longman, Hurst, Rees, Orme and Brown (London)
-<b>Language:</b> English
-<b>Type:</b> Book; 361 pages
-<b>Location:</b> Call no.: RRARE959.503 MAL; Microfilm no.: NL 25782
-<br><br>
-<b>Title:</b> <i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=12976133">Sejarah Malayu (Malay Annals)</a></i>
-<b>Author:</b> William Girdlestone Shellabear (1862–1948)
-<b>Year published:</b> 1898
-<b>Publisher:</b> American Mission Press (Singapore)
-<b>Language:</b> Romanised Malay
-<b>Type:</b> Book; 190 pages
-<b>Location:</b> Call no.: RRARE 9.51 SEJ, Microfilm no.: NL 24310</span>
+<a href="/vol-11/issue-4/jan-mar-2016/"><center>Back to Issue</center></a>
 
 #### **NOTES**
 
