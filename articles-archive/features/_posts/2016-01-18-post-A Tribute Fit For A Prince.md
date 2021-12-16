@@ -72,7 +72,7 @@ The presentation of the Address was one of the highlights of the prince’s visi
 
 The *Address to Alfred, Duke of Edinburgh* was donated by a private collector, Geoffrey Edwards, to the National Library in 2009.
 
-- Written by Nor-Afidah Abdul Rahman
+– Written by Nor-Afidah Abdul Rahman
 
 <a href="/vol-11/issue-4/jan-mar-2016/"><center>Back to Issue</center></a>
 
