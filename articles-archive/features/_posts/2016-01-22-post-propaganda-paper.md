@@ -5,6 +5,37 @@ permalink: /vol-11/issue-4/jan-mar-2016/propaganda-paper
 image: /images/vol-11-issue-4/propaganda-paper/01_propagandapaper.jpg
 layout: post
 ---
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>ABOUT THE NEWSPAPER</b><br><br>
+<b>Title:</b> <i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=5891656">The Syonan Shimbun</a></i>
+<br>
+<b>Alternative titles:</b> <i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=12463919">The Shonan Times</a>, The Syonan Times, Syonan Sinbun </i>
+<br>
+<b>Year published:</b> 20 February 1942 to 4 September 1945
+<br>
+<b>Publisher:</b> Syonan Shimbun-kai (Singapore)
+<br>
+<b>Language:</b> English
+<br>
+<b>Type:</b> Newspaper
+<br>
+<b>Call no.:</b> RRARE 079.52 SS
+<br>
+<b>Accession nos.:</b>  B16283443I; B16283449D
+<br><br>
+<b>Title:</b> <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=84571423">昭南日报</a> (<i>Zhaonan ri bao</i>)
+<br>
+<b>Year published:</b> 21 February 1942 to 17 August 1945
+<br>
+<b>Publisher:</b> Syonan Shimbun-kai (Singapore)
+<br>
+<b>Language:</b> Chinese
+<br>
+<b>Type:</b> Newspaper
+<br>
+<b>Call no.:</b> RRARE 079.5957 ZNRB
+<br>
+<b>Accession nos.:</b> B03864704J</span>
+
 For a brief period in its history – 43 months to be exact, during World War II – Singapore was known by a different name. Between 15 February 1942 and 12 September 1945, Japanese-occupied Singapore was referred to as Syonan-to (昭南島), or “Brilliant Southern Island”, by its new masters.[^1]
 
 Syonan-to soon became a regional distribution centre for news, magazines and Japanese propaganda. Among the publications were two Singapore-based dailies that borrowed the island’s wartime name. Positioned as the leading broadsheets for the Southern Regions – Japan’s name for its annexed territories in Southeast Asia – the newspapers today provide a wealth of archival information about daily life during the Occupation years.[^2]
@@ -31,34 +62,9 @@ It was not long, however, before local readers became disillusioned with the per
 
 The section in the papers that were probably of most interest to local readers would have been the price lists of essential goods, which today serve as a valuable record of the runaway inflation Singapore experienced at the time.[^14] Despite the Japanese authorities’ efforts to censor media outlets and employ only officially sanctioned government propaganda channels, snapshots of the hardships that people experienced on a daily basis could be read between the lines.
 
-**Written by:** Lee Meiyu
+– Written by Lee Meiyu
 
-<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>ABOUT THE NEWSPAPER</b><br><br>
-<b>Title:</b> <i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=5891656">The Syonan Shimbun</a></i>
-<br>
-<b>Alternative titles:</b> <i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=12463919">The Shonan Times</a>, The Syonan Times, Syonan Sinbun </i>
-<br>
-<b>Year published:</b> 20 February 1942 to 4 September 1945
-<br>
-<b>Publisher:</b> Syonan Shimbun-kai (Singapore)
-<br>
-<b>Language:</b> English
-<br>
-<b>Type:</b> Newspaper
-<br>
-<b>Location:</b> Call no.: RRARE 079.52 SS; Microfilm nos.: NL255 (20 February to 7 December 1942); NL256 (8 December 1942–31 December 1943); NL257 (1944–45)
-<br><br>
-<b>Title:</b> <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=84571423">昭南日报</a> (<i>Zhaonan ri bao</i>)
-<br>
-<b>Year published:</b> 21 February 1942 to 17 August 1945
-<br>
-<b>Publisher:</b> Syonan Shimbun-kai (Singapore)
-<br>
-<b>Language:</b> Chinese
-<br>
-<b>Type:</b> Newspaper
-<br>
-<b>Location:</b> Call no.: RRARE 079.5957 ZNRB; Microfilm nos.: NL7967 (21 February to 30 June 1942), NL20482 (21 February to 30 September 1942), NL2855 (1 July to 12 November 1942), NL20483 (1 October 1942–30 June 1943), NL2856 (13 November 1942 to 17 June 1943), NL20484 (1 July 1943– 31 May 1944), NL7523 (14 March to 17 August 1945)</span>
+<a href="/vol-11/issue-4/jan-mar-2016/"><center>Back to Issue</center></a>
 
 #### **NOTES**
 
