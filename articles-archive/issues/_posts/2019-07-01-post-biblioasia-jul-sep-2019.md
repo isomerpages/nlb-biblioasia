@@ -11,7 +11,7 @@ The link between visual art and the written word in the work of Georgette Chen, 
 
 **[Director’s Note](/vol-15/issue-2/jul-sep-2019/d-note-jul-sep-2019/)**
  
-**[On Writers and their Manuscripts](/vol-15/issue-2/jul-sep-2019/writers-manuscripts)**<br>
+**[On Writers and Their Manuscripts](/vol-15/issue-2/jul-sep-2019/writers-manuscripts)**<br>
 No great work of literature is completed in just one draft. In an age where writers have gone paperless, novelist *Meira Chand* ponders over the value of manuscripts, and what they might reveal about a writer’s thought process.  [(PDF)](/files/pdf/vol-15/v15-issue2_Writers.pdf)
  
 **[Don’t Mention the Corpses: The Erasure of Violence in Colonial Writings on Southeast Asia](/vol-15/issue-2/jul-sep-2019/violence-writings)**<br>
