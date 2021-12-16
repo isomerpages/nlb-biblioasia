@@ -6,7 +6,6 @@ image: /images/vol-11-issue-4/a-tribute-of-a-prince/01_tributeprince.jpg
 layout: post
 description: ""
 ---
-
 <div style="background-colour:#fdf5e6; padding:20px; margin: 20px; background: #fdf5e6;"><b>ABOUT THE MANUSCRIPT</b>
 <br><br>
 <b>Title:</b> <i><a href="https://eresources.nlb.gov.sg/printheritage/detail/920ecc56-9df8-409e-b3ec-f742a6895eea.aspx">Address to Alfred, Duke of Edinburgh by the Singapore Chinese Merchants on the Occasion of His Visit to Singapore in 1869</a></i>
@@ -42,11 +41,11 @@ On 3 December 1869, the very day the prince landed in Singapore, likely at Johns
 
 The Address is suitably grand for a royal recipient, with the message written on six panels of fuchsia-coloured silk, folded into a single sheet and with front and back covers made of carved wood. Phoenixes were carved into the wooden panels such that when the document is opened they appear to be facing each other across the expanse of silk. The reverse side of the Address is a panorama of Singapore viewed from Telok Ayer, executed on cream-coloured silk and inspired by an oil painting by the English artist Percy Carpenter (1820-95).
 
+<div style="background-color: white;"><br><img src="/images/vol-11-issue-4/a-tribute-of-a-prince/02_tributeprince.jpg">The message on the Loyalty Address was written in gold ink on six panels of fuchsia-coloured silk folded into a single sheet. <i>All rights reserved, National Library Board, Singapore.</i></div>
+
 <div style="background-color: white;"><br><img src="/images/vol-11-issue-4/a-tribute-of-a-prince/04_tributeprince.jpg">The reverse side of the Loyalty Address features a painting of Singapore viewed from Telok Ayer by an unknown artist. The scene portrayed is inspired by the 1856 oil painting “Singapore from Mount Wallich” by the English artist Percy Carpenter but drawn from a higher vantage point. <i>All rights reserved, National Library Board, Singapore.</i></div>
 
 Written in gold Chinese characters and with an accompanying English translation, the rather overblown Address reads:
-
-<div style="background-color: white;"><br><img src="/images/vol-11-issue-4/a-tribute-of-a-prince/02_tributeprince.jpg">The message on the Loyalty Address was written in gold ink on six panels of fuchsia-coloured silk folded into a single sheet. <i>All rights reserved, National Library Board, Singapore.</i></div>
 
 We the Singapore Chinese merchants, Inhabitants & Public with purity of heart and Sincerity collectively approach in humble attitude to present this address.
 To The 2nd Prince of the Illustrious Queen of Great Britain and Ireland,
@@ -71,9 +70,9 @@ Dated Singapore 8th year of Tong Tee, 10th moon 22nd day of Kee Chee correspondi
 
 The presentation of the Address was one of the highlights of the prince’s visit, and created a custom that wss to endure long after he left the island. With this document, the tradition of presenting Loyalty Addresses to visiting royal personages was founded and continued long into the colonial period, leading some to comment that such “loyal excesses” had become “a new and exotic feature of life in the Straits”.[^7]
 
-*The Address to Alfred, Duke of Edinburgh* was donated by a private collector, Geoffrey Edwards, to the National Library in 2009.
+The *Address to Alfred, Duke of Edinburgh* was donated by a private collector, Geoffrey Edwards, to the National Library in 2009.
 
-**Written by:** Nor-Afidah Abdul Rahman
+- Written by Nor-Afidah Abdul Rahman
 
 <a href="/vol-11/issue-4/jan-mar-2016/"><center>Back to Issue</center></a>
 
