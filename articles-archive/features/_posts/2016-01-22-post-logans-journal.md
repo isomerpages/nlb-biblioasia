@@ -45,7 +45,7 @@ For his efforts, Logan was praised by George F. Hose, the President of the Strai
 
 All nine volumes of the journal dating from 1847 to 1855, along with three additional volumes that were part of a new series published between 1856 and 1859, are bound in their original state and part of the National Library’s collection. The first few volumes bear the stamp “Syonan Tosyokan” on the title page, indicating that they were part of the collection of the Syonan Library during the Japanese Occupation.
 
-**Written by:** Ang Seow Leng
+– Written by Ang Seow Leng
 
 <a href="/vol-11/issue-4/jan-mar-2016/"><center>Back to Issue</center></a>
 	
