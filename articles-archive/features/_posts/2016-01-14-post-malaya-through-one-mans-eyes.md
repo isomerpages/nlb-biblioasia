@@ -25,6 +25,8 @@ layout: post
 <br>
 <b>Donated by:</b> Koh Seow Chuan</div>
 
+<div style="background-color: white;"><br><img src="/images/vol-11-issue-4/malaya-through-one-man-eyes/03_malaya.jpg">The first edition of the book included a coloured fold out map of British Malaya with the Straits Settlements (Penang, Malacca and Singapore) highlighted in pink and over 50 illustrations. <i>All rights reserved, National Library Board, Singapore.</i></div>
+
 In the early 1900s, there were few authoritative resources that could provide an accurate picture of Malaya’s colonial history. That changed in 1906, when the book *British Malaya* was published.
 
 Written by Frank Swettenham, the first Resident-General of the Federated Malay States (FMS), the book details the history of British presence in Malaya beginning with the Straits Settlements ports of Singapore, Melaka and Penang.
@@ -44,8 +46,6 @@ In the preface to the original edition, Swettenham stated that the aim of the bo
 
 The first edition of *British Malaya* was published with a coloured map of Malaya and over 50 illustrations. The cover is bright yellow – a distinctive characteristic of Swettenham’s books. *British Malaya* was distributed locally by Kelly & Walsh at $8.50 per copy.[^6] The book was widely read and went through several reprints and editions. Corrections and additions were made in the 1920, 1929 and 1948 editions.
 
-<div style="background-color: white;"><br><img src="/images/vol-11-issue-4/malaya-through-one-man-eyes/03_malaya.jpg">The first edition of the book included a coloured fold out map of British Malaya with the Straits Settlements (Penang, Malacca and Singapore) highlighted in pink and over 50 illustrations. <i>All rights reserved, National Library Board, Singapore.</i></div>
-
 In 1920, Swettenham added an appendix to the book in response to Cecil Clementi Smith’s pamphlet, *Notes on Some of the Statements in Frank Swettenham’s Book “British Malaya”*, which challenged Swettenham’s claim that he had proposed the FMS scheme. In the appendix, Swettenham provided documentary evidence that he had submitted a memorandum on the formation of the FMS to Smith, who in 1893 was the Governor of the Straits Settlements.[^7]
 
 Swettenham again revised the book in 1929 to include corrections and a new chapter “Twenty-years After” detailing the progress of the FMS. In 1948, a reprint edition was released posthumously by the publisher George Allen and Unwin. In the introduction, written two months before his death in 1946, Swettenham voiced his opposition to the formation of the Malayan Union.
@@ -54,7 +54,7 @@ Swettenham was born in 1850 in Derbyshire, England. He came to Singapore in 1871
 
 The FMS was instituted in 1895 after Swettenham secured agreements from the Malay rulers. He served as its first Resident-General from 1896 to 1901. In 1897 Swettenham was knighted, and in 1901, reached the pinnacle of his career with his appointment as the High Commissioner of the Malay States and Governor of the Straits Settlements.[^8]
 
-**Written by:** Gracie Lee
+– Written by Gracie Lee
 
 <a href="/vol-11/issue-4/jan-mar-2016/"><center>Back to Issue</center></a>
 
@@ -68,7 +68,7 @@ The FMS was instituted in 1895 after Swettenham secured agreements from the Mala
 
 [^4]:Savage, V.R., & Kong, L. (1995). Hugh Clifford and Frank Swettenham: Environmental cognition and the Malayan colonial process. In E. Thumboo & T. Kandiah (Eds.). *[The writer as historical witness: Studies in Commonwealth literature](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7504056)* (pp. 409–425). Call no.: RSING 820.99171241120 WRI
 
-[^5]:[Barlow](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7490524), 1995, pp. 691–715; Chew, E. (1968). Sir Frank Swettenham and the Federation of the Malay States. Modern Asian Studies, 2 (I), 51–69. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+[^5]:[Barlow](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7490524), 1995, pp. 691–715; Chew, E. (1968). Sir Frank Swettenham and the Federation of the Malay States. *Modern Asian Studies, 2* (1), 51–69. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
 [^6]:[Kelly & Walsh: British Malaya](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19061124-1.2.23.1). (1906, November 24). *The Singapore Free Press*, p. 6; [Kelly & Walsh: New books](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19070204-1.2.16.1). (1907, February 4). *The Singapore Free Press*, p. 4. Retrieved from NewspaperSG.
 
