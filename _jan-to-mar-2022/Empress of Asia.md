@@ -109,12 +109,17 @@ As for the Asia, various salvage efforts were undertaken over the years. In 1998
 
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">The full story of the <i>Empress of Asia</i>, including experiences of the Canadian crew who escaped the disaster or were imprisoned, is the subject of a forthcoming book by the author and researcher Nelson Oliver.</div>
 
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-17-issue-4/authors/FarisJoraimi.png" style="width: 100px; height: 100px;" />
+  <b>Dan Black</b> is former editor of <i>Legion Magazine</i>, a publication on Canada’s military history. He has written many editorials and feature articles on Canada’s military past and present for the award-winning magazine. His third book, <i>Harry Livingstone’s Forgotten Men: Canadians and the Chinese Labour Corps in the First World War</i>, was published in 2019. He is currently working on a book about the <i>Empress of Asia</i> with researcher Nelson Oliver. </div>
+  
 #### **NOTES**
 
 [^1]: Geoffrey Hosken, Diary, 3 November 1941 to 19 April 1942.
 [^2]: Walter Oliver, Loss of the Empress of Asia (Unpublished memoir, 1978), p. 98.
-Some sources state 416, but three crewmen left prior to Singapore.
-An account by Asia Captain John Bisset Smith lists six Oerlikons, eight Hotchkiss, a six-inch gun, 
+[^3]: Some sources state 416, but three crewmen left prior to Singapore.
+[^4]: An account by Asia Captain John Bisset Smith lists six Oerlikons, eight Hotchkiss, a six-inch gun, 
 three-inch anti-aircraft gun, four PAC rockets, and depth charges.
 Manuscript of “Empress of Asia” story dictated by Captain J. Watts to J.T. Carney in River Valley Camp, 1942, courtesy of Helen Watts.
 Geoff Tozer, Journal, 4 February 1942.
