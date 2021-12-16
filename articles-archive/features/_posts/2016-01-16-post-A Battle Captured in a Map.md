@@ -5,7 +5,7 @@ date: 2016-01-16
 layout: post
 description: ""
 ---
-<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>Title:</b> Contrafactur des Scharmutz els der Hollender wider die Portigesen in dem Flus Balusabar (Chart of a Skirmish between the Dutch and the Portuguese in the Balusabar River)
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>Title:</b> <i><a href="https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/1745190b-1fcc-11ea-a1ea-001a4a5ba61b">Contrafactur des Scharmutz els der Hollender wider die Portigesen in dem Flus Balusabar (Chart of a Skirmish between the Dutch and the Portuguese in the Balusabar River)</a></i>
 <br>
 <b>Creators:</b> Theodor de Bry, Johann Theodor de Bry, Johann Israel de Bry
 <br>
@@ -48,3 +48,18 @@ For historians, the battle depicted on this map gives valuable insight into the 
 – Written by Lee Meiyu
 
 <a href="/vol-11/issue-4/jan-mar-2016/"><center>Back to Issue</center></a>
+
+**NOTES**
+
+[^1]:Parry, D.E. (2005). *[The cartography of the East Indian Islands = Insulae Indiae Orientalis](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12669569)* (p. 87). London: Country Editions. (Call no.: RSING q912.59 PAR)
+
+[^2]:Borschberg, P. (2010). *[The Singapore and Melaka Straits: Violence, security and diplomacy in the 17th century](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13218095)* (pp. 79–80). Singapore: NUS Press. (Call no.: RSING 911.16472 BOR)
+
+[^3]:[Borschberg](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13218095), 2010, pp. 73–90; Borschberg, P. (2004). A Portuguese-Dutch naval battle in the Johor River estuary and the liberation of Johor Lama in 1603. In J.N. Miksic & C.M.G. Low (Eds.), *[Early Singapore 1300s–1819: Evidence in maps, text and artefacts](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12284523)* (pp. 109, 111). Singapore: Singapore History Museum. (Call no.: RSING 959.5703 EAR)
+
+[^4]:[Borschberg](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12284523), 2004, pp. 114–115.
+
+[^5]:[Borschberg](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13218095), 2010, pp. 158–165.
+
+[^6]:[Borschberg](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13218095), 2010, p. 79.
+
