@@ -49,14 +49,11 @@ Pathologist **Prof Kanagaratnam Shanmugaratnam**, for one, made sure that anyone
 
 Another trailblazer was **Dr Tay Chong Hai**. In 1969, he was among the first Singaporeans to discover a disease that was later named after him. Tay’s Syndrome, as it became known, is a disease associated with intellectual impairment, short stature, decreased fertility, brittle hair, and dry, red and scaly skin, making an eight-year-old child look 80 years old.
 
-In 1972, Tay made newspaper headlines when he saved many Singaporeans from over-the-counter pills and tonics that had life-threatening levels of arsenic. These included Sin Lak pills, which killed a woman who had taken them to cure her asthma. He fingered poverty as the root of such drug-related deaths. “It has to do with the cost of living”, he mused. “So such over-the-counter drugs are the first line of treatment”.
+In 1972, Tay made newspaper headlines when he saved many Singaporeans from over-the-counter pills and tonics that had life-threatening levels of arsenic. These included Sin Lak pills, which killed a woman who had taken them to cure her asthma. He fingered poverty as the root of such drug-related deaths. “It has to do with the cost of living”, he mused. “So such over-the-counter drugs are the first line of treatment.”
 
 Fortunately, he noted, “Singapore is good with regulating” and so there were fewer deaths than there might have been from such self-medication.
 
 Also, in 1972, Tay became the first doctor to identify Hand, Foot and Mouth Disease (HMFD) in Singapore. His wife, who is also a doctor, alerted him that she was treating many babies with mouth ulcers and rashes on their backs and legs. Jurong was the site of Singapore’s first HFMD epidemic in the 1970s, but the disease – caused by the coxsackievirus – soon spread islandwide. In 1974, together with six other doctors, Tay published a paper on the outbreak of the disease in the September issue of the *Singapore Medical Journal*.
-
-<img src="/images/Vol-15-issue-2/singapore-medical-services/Doctor4.JPG">
-<div style="background-color: white;">The highly contagious Severe Acute Respiratory Syndrome (SARS) dominated newspaper headlines in Singapore between March and July 2003, including this front page story in <i>The Straits Times</i> on 27 March 2003. This report documented the unprecedented closure of all pre-schools, and primary, secondary and pre-university schools. During those four fretful months, SARS claimed the lives of 33 of the 238 people infected with the virus in Singapore. <i>The Straits Times, 27 March 2003, p. 1.</i></div>
 
 #### **SARS: All Hell Breaks Loose**
 
@@ -92,6 +89,9 @@ While everyone in Singapore’s healthcare system was reminded repeatedly to don
 Loo and other nurses also fumed at having to don protective gear every minute of every day during the SARS epidemic. “Sweat would be dripping down my face from the mask”, she huffed. It was all so inconvenient, she added, that at some points, she would just fling her mask aside as it kept getting in the way of saving lives. “I will never forget the SARS period”, she stressed.
 
 In June 2003, SARS was finally contained in Singapore, but not before claiming the lives of 33 among the total of 238 reported SARS patients.
+
+<img style="width: 600px; height: 400px;"  src="/images/Vol-15-issue-2/singapore-medical-services/Doctor4.JPG">
+<div style="background-color: white;">The highly contagious Severe Acute Respiratory Syndrome (SARS) dominated newspaper headlines in Singapore between March and July 2003, including this front page story in <i>The Straits Times</i> on 27 March 2003. This report documented the unprecedented closure of all pre-schools, and primary, secondary and pre-university schools. During those four fretful months, SARS claimed the lives of 33 of the 238 people infected with the virus in Singapore. <i>The Straits Times, 27 March 2003, p. 1.</i></div>
 
 Liak explained that SARS illustrated how much the world had changed due to globalisation. “Germs will always mutate and, often, viruses exchange material with human beings and animals… but in the past, whenever it mutated and killed an entire village, it could not spread after that because it had nowhere to go. But because transport became globalised, SARS could go from a Guangzhou village [in China] to towns and then cities. That is how dangerous the world has become”.
 
