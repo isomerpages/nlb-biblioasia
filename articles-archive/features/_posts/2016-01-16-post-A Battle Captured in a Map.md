@@ -21,6 +21,8 @@ description: ""
 <br>
 <b>Accession no.:</b> B18835268H</span>
 
+<img style="width:600px" src="/images/vol-11-issue-4/battle-captured-in-a-map/01_battlemap.jpg">
+
 For a tiny island known more for its skyscrapers than its sea-faring adventures, Singapore has a surprisingly bloody history. And while most of this history has been lost over time, one record that tells of a particularly ferocious battle between the Dutch and Portuguese armadas in the early 17th century is found in the National Library.
 
 The 1606 engraving with a German title, *Contrafactur des Scharmutz els der Hollender wider die Portigesen in dem Flus Balusabar*, is one of the earliest maps in the collection that shows a distinct coastline of Singapore.
@@ -62,4 +64,3 @@ For historians, the battle depicted on this map gives valuable insight into the 
 [^5]:[Borschberg](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13218095), 2010, pp. 158–165.
 
 [^6]:[Borschberg](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13218095), 2010, p. 79.
-
