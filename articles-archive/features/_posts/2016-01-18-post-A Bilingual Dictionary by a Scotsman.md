@@ -6,10 +6,9 @@ image: /images/vol-11-issue-4/a-bilingual-dictionary/01_dictionary.jpg
 layout: post
 description: ""
 ---
-
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>ABOUT THE BOOK</b>
 <br><br>
-<b>Title:</b> <i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4515189">A Grammar and Dictionary of the Malay Language with a Preliminary Dissertation</a></i>
+<b>Title:</b> <i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202671788">A Grammar and Dictionary of the Malay Language with a Preliminary Dissertation</a></i>
 <br>
 <b>Author:</b> John Crawfurd (1783–1868)
 <br>
@@ -25,11 +24,11 @@ description: ""
 <br>
 <b>Accession no.:</b> B02954237J (v.1–2)</span>
 
+<div style="background-color: white;"><img style="width:500px" src="/images/vol-11-issue-4/a-bilingual-dictionary/01a_dictionary.jpg">The distinct red vertical stamp of the Syonan Library (Syonan Tosyokan) – the name the National Library was known as during the Japanese Occupation from 1942–45 – is visible on the top right-hand corner of this page from A Grammar and Dictionary of the Malay Language. <i>All rights reserved, National Library Board, Singapore.</i></div>
+
 A dictionary written more than 150 years ago bears testimony to how Malay – the predominant language in the Straits Settlements at the time – was of interest to Europeans in the region. The fact that it was written by a Scotsman speaks volumes about the linguistic ability of the author and his abiding interest in the people and culture of the region.
 
 The National Library has three sets of *A Grammar and Dictionary of the Malay Language with a Preliminary Dissertation*, one of which bears stamps from both the Raffles Library and the Syonan Library (Syonan Tosyokan), the name it was known as during the Japanese Occupation of Singapore.
-
-<div style="background-color: white;"><img style="width:500px" src="/images/vol-11-issue-4/a-bilingual-dictionary/01a_dictionary.jpg">The distinct red vertical stamp of the Syonan Library (Syonan Tosyokan) – the name the National Library was known as during the Japanese Occupation from 1942–45 – is visible on the top right-hand corner of this page from A Grammar and Dictionary of the Malay Language. <i>All rights reserved, National Library Board, Singapore.</i></div>
 
 In the book’s preface, the author, John Crawfurd, claimed to have spent 40 years working on the dictionary, 12 years of which he lived in Southeast Asia learning the language, and another 10 spent compiling relevant materials.[^1] He acknowledged receiving help from William Marsden, a pioneering orientalist who fuelled the growing interest in languages and philology at the turn of the 19th century.[^2] Marsden produced one of the earliest English-Malay dictionaries, entitled *A Dictionary of the Malayan Language in Two Parts, Malayan and English and English and Malayan*, in 1812.
 
@@ -59,7 +58,7 @@ After a successful stint as Singapore’s Resident, Crawfurd was again sent as a
 <br><br>
 Crawfurd spent the remaining years of his life writing books and papers on Eastern subjects.[^14] Some of his better-known publications include <i>A Descriptive Dictionary of the Indian Islands & Adjacent Countries</i> (1856), <i>A Grammar and Dictionary of the Malay Language with a Preliminary Dissertation</i> (1852) and <i>Journal of an Embassy from the Governor-General of India to the Courts of Siam and Cochin China</i> (1828).</span>
 
-**Written by:** Ang Seow Leng
+– Written by Ang Seow Leng
 
 <a href="/vol-11/issue-4/jan-mar-2016/"><center>Back to Issue</center></a>
 
@@ -79,13 +78,13 @@ Crawfurd spent the remaining years of his life writing books and papers on Easte
 
 [^7]:Chew, 12 Oct 2002.
 
-[^8]:Douglas, B., & Ballard, C. (Eds.). (2008). *Foreign bodies: Oceania and the science of race, 1750–1940* (p. 167). Canberra: ANU Press.
+[^8]:Douglas, B., & Ballard, C. (Eds.). (2008). *Foreign bodies: Oceania and the science of race, 1750–1940* (p. 167). Canberra: ANU Press. Not available in NLB holdings.
 
 [^9]:Soedjatmoko (Ed.). (2007). *[An introduction to Indonesian historiography](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12876930)* (p. 266). Jakarta: Equinox Pub. (Call no.: RSEA 959.8 INT) 
 
 [^10]:Turnbull, C.M. (2009). *[A history of modern Singapore 1819–2005](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13206047)* (p. 44). Singapore: NUS Press. (Call no.: RSING 959.57 TUR-[HIS]) 
 
-[^11]:Bastin, J. (1981). The letters of Sir Stamford Raffles to Nathaniel Wallich 1819–1824. *Journal of the Malaysian Branch of the Royal Asiatic Society, 54* (2), p. 58, note 166. Call no.: RCLOS 959.5 JMBRAS
+[^11]:Bastin, J. (1981). The letters of Sir Stamford Raffles to Nathaniel Wallich 1819–1824. *[Journal of the Malaysian Branch of the Royal Asiatic Society](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4126333), 54* (2), p. 58, note 166. Call no.: RCLOS 959.5 JMBRAS
 
 [^12]:[Turnbull](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13206047), 2009, p. 47.
 
