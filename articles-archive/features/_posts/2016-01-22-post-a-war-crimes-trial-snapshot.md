@@ -5,6 +5,20 @@ permalink: /vol-11/issue-4/jan-mar-2016/war-crimes-trial-snap
 image: /images/vol-11-issue-4/war-crimes-trial-snapshot/01_warcrimes.jpg
 layout: post
 ---
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>ABOUT THE PHOTOGRAPGH</b>
+<br><br>
+<b>Item:</b> <i>Photographs on the Opening of the War Crimes Trial in Singapore, 21 January 1946</i>
+<br>
+<b>Creator:</b> Unnamed British Crown photographer
+<br>
+<b>Date:</b> 21 January 1946
+<br>
+<b>Publisher:</b> British Crown
+<br>
+<b>Type:</b> Photograph
+<br>
+	<b>Donated by:</b> Lee Kip Lee</span>
+
 A 1946 photograph from the opening of the War Crimes Trials held in Singapore[^1] is a grim reminder of the atrocities committed by the Japanese during the Japanese Occupation of Singapore (1942–45) – a dark period in Singapore’s history.
 
 <div style="background-color: white;"><br><img style="width:500px" src="/images/vol-11-issue-4/war-crimes-trial-snapshot/01_warcrimes.jpg">Opening of the War Crimes Trials held in Singapore on 21 January 1946. This photograph was shot by an unnamed British Crown photographer. <i>All rights reserved, National Library Board, Singapore.</i></div>
@@ -27,21 +41,9 @@ Although the number of people executed in Operation Sook Ching remains unknown a
 
 Another trial that took place in Singapore was the “Double Tenth” trial held from 18 March to 15 April 1946 involving 21 Japanese soldiers and interpreters accused of torturing and killing prisoners interned at Changi Prison. The Double Tenth incident was the result of Operation Jaywick, during which six Japanese oil tankers docked at Keppel Harbour were blown up on 27 September 1943. Suspecting that prisoners at Changi Prison were responsible, the Kempeitai, or Japanese military police, raided the prison on 10 October 1943 and discovered a wireless set hidden there. As a result, 57 internees were tortured and interrogated over several months, leading to 15 deaths.[^10]
 
-**Written by:** Timothy Pwee
+– Written by Timothy Pwee
 
-<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>ABOUT THE PHOTOGRAPGH</b>
-<br><br>
-<b>Item:</b> <i>Photographs on the Opening of the War Crimes Trial in Singapore, 21 January 1946</i>
-<br>
-<b>Creator:</b> Unnamed British Crown photographer
-<br>
-<b>Date:</b> 21 January 1946
-<br>
-<b>Publisher:</b> British Crown
-<br>
-<b>Type:</b> Photograph
-<br>
-	<b>Donated by:</b> Lee Kip Lee</span>
+<a href="/vol-11/issue-4/jan-mar-2016/"><center>Back to Issue</center></a>
 	
 #### **NOTES**
 
