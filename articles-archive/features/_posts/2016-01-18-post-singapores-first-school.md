@@ -5,6 +5,24 @@ permalink: /vol-11/issue-4/jan-mar-2016/singaporefirstschool
 image: /images/vol-11-issue-4/singapore-first-school/01_firstschool.jpg
 layout: post
 ---
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>ABOUT THE BOOK</b>
+<br><br>
+<b>Title:</b> <i><a href="https://eresources.nlb.gov.sg/printheritage/detail/c862d6a7-03d3-4333-9191-36bb78288b2f.aspx">Formation of the Singapore Institution, A.D. 1823</a></i>
+<br>
+<b>Author:</b> Stamford Raffles (1781–1826)
+<br>
+<b>Year published</b>: 1823
+<br>
+<b>Publisher:</b> Mission Press (Malacca)
+<br>
+<b>Language:</b> English
+<br>
+<b>Type:</b> Book; 110 pages
+<br>
+<b>Call no.:</b> RARE 373.5957 FOR
+<br>
+<b>Accession no.:</b> B20025196C</span>
+
 The founding of Raffles Institution (originally known as Singapore Institution) was fraught with difficulties and delays from the very beginning. It all started with this document – a 110-page record of a meeting held on 1 April 1823, in which Stamford Raffles laid down his plans to establish a school for Asians. First published in 1819 as *On the Advantage of Affording the Means of  Education to the  Inhabitants of the Further East*,[^1] the document reveals Raffles’ vision of Singapore as a hub not only in trade but also in learning. This was forward thinking at a time when even basic education was still not formally implemented in England.[^2]
 
 <div style="background-color: white;"><img style="width:500px" src="/images/vol-11-issue-4/singapore-first-school/01a_firstschool.jpg">The cover and title page of the <i>Formation of the Singapore Institution, A.D. 1823</i>. The Singapore Institution was eventually renamed the Raffles Institution around 1868. <i>All rights reserved, National Library Board, Singapore.</i></div>
@@ -31,23 +49,9 @@ Raffles’ views on education, gambling, slavery and other such issues of his ti
 
 Today, the school that has been renamed Raffles Institution has churned out some of the nation’s brightest minds, and ironically viewed by some, fairly or unfairly, as an institution for the elite.
 
-**Written by:** Timothy Pwee
+– Written by Timothy Pwee
 
-<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>ABOUT THE BOOK</b>
-<br><br>
-<b>Title:</b> <i><a href="https://eresources.nlb.gov.sg/printheritage/detail/c862d6a7-03d3-4333-9191-36bb78288b2f.aspx">Formation of the Singapore Institution, A.D. 1823</a></i>
-<br>
-<b>Author:</b> Stamford Raffles (1781–1826)
-<br>
-<b>Year published</b>: 1823
-<br>
-<b>Publisher:</b> Mission Press (Malacca)
-<br>
-<b>Language:</b> English
-<br>
-<b>Type:</b> Book; 110 pages
-<br>
-<b>Location:</b> Call no.: RARE 373.5957 FOR; Microfilm no.: NL28988</span>
+<a href="/vol-11/issue-4/jan-mar-2016/"><center>Back to Issue</center></a>
 
 #### **NOTES**
 
