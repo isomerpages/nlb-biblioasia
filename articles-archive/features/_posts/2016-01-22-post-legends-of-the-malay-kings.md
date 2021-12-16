@@ -25,7 +25,7 @@ layout: post
 <b>Call no.:</b>  RRARE 9.51 SEJ<br>
 <b>Accession no.:</b> B20025340E</span>
 
-The *Sejarah Melayu* is considered by scholars as an important literary work on the history and genealogy of the Malay kings of the Malacca Sultanate (1400–1511). Partially composed in the 17th century in Jawi – the modified Arabic script used to express the Malay language – the title is derived from its original Arabic name, *Sulalat al-Salatin* (*Genealogy of Kings*).[^1] But few are aware that its first English translation in the early 19th century, the *Malay Annals*, was actually undertaken by a Scotsman.
+The *Sejarah Melayu* is considered by scholars as an important literary work on the history and genealogy of the Malay kings of the Melaka Sultanate (1400–1511). Partially composed in the 17th century in Jawi – the modified Arabic script used to express the Malay language – the title is derived from its original Arabic name, *Sulalat al-Salatin* (*Genealogy of Kings*).[^1] But few are aware that its first English translation in the early 19th century, the *Malay Annals*, was actually undertaken by a Scotsman.
 
 <div style="background-color: white;"><img style="width:500px" src="/images/vol-11-issue-4/legend-of-malay-kings/03_malaykings.jpg">Sejarah Melayu includes an introduction by Stamford Raffles and was used as a study aid to groom British scholar administrators in the colonial service. <i>All rights reserved, National Library Board, Singapore.</i></div>
 
