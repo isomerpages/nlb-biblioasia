@@ -6,7 +6,6 @@ image: /images/vol-11-issue-4/propaganda-paper/01_propagandapaper.jpg
 layout: post
 description: ""
 ---
-
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>ABOUT THE NEWSPAPER</b><br><br>
 <b>Title:</b> <i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=5891656">The Syonan Shimbun</a></i>
 <br>
@@ -44,11 +43,11 @@ Syonan-to soon became a regional distribution centre for news, magazines and Jap
 
 he first issue of *The Shonan Times*, dated 20 February 1942, was printed in English at 140 Cecil Street, the former premises of *The Straits Times*, Singapore’s English daily that the Japanese forces took over. The very next day, the paper was renamed *The Syonan Times*  and sold  for five cents each.[^3] On 8 December 1942, the publication was renamed again, to *Syonan Sinbun*, this time in commemoration of the first anniversary of the Dai Toa Senso (Greater East Asia War). Its price was hiked to seven cents and a Japanese morning edition was introduced, with the English version turned into an afternoon edition.[^4] On the second anniversary of the war, the paper’s name was changed one final time to *The Syonan Shimbun*, which it retained until its last issue on 4 September 1945.[^5]
 
-<div style="background-color: white;"><img src="/images/vol-11-issue-4/propaganda-paper/01_propagandapaper.jpg">The front page of <i>The Syonan Times</i> dated 21 February 1942. <i>All rights reserved, National Library Board, Singapore.</i></div>
+<div style="background-color: white;"><img style="width:500px" src="/images/vol-11-issue-4/propaganda-paper/01a_propagandapaper.jpg">The front page of <i>The Syonan Times</i> dated 21 February 1942. <i>All rights reserved, National Library Board, Singapore.</i></div>
 
 A Chinese edition, *Zhaonan ri bao* (昭南日报), was introduced on 21 February, 1942. Priced at seven cents a copy, the paper was put together at the Robinson Road offices of *Xingzhou ri bao* (星洲日报), the pre-war Chinese newspaper.[^6] From November 1942, *Zhaonan ri bao* was issued only in the afternoons.[^7]
 
-<div style="background-color: white;"><img src="/images/vol-11-issue-4/propaganda-paper/03_propagandapaper.jpg"><i>Zhaonan ri bao</i> (昭南日报), the Chinese edition of the newspaper, was first published on 21 February 1942. <i>All rights reserved, National Library Board, Singapore.</i></div>
+<div style="background-color: white;"><img style="width:500px"  src="/images/vol-11-issue-4/propaganda-paper/03a_propagandapaper.jpg"><i>Zhaonan ri bao</i> (昭南日报), the Chinese edition of the newspaper, was first published on 21 February 1942. <i>All rights reserved, National Library Board, Singapore.</i></div>
 
 *The Syonan Shimbun* and the *Zhaonan ri bao* both carried little in the way of objective news. Apart from official notices, announcements, advertisements and obituaries, as well as the odd Saturday or movie supplement, the newspapers contained mainly Japanese wartime propaganda. Any local news the newspapers carried was heavily censored by the Japanese authorities.[^8] As such, the dailies were not particularly thick nor informative – peaking at six pages for the English edition, and a mere four pages for the Chinese edition.[^9]
 
@@ -58,7 +57,7 @@ Both papers served as official mouthpieces for Japanese propaganda. They promote
 
 The two publications were supervised first by the Propaganda Department located in the Cathay Building, and subsequently by the Domei News Agency – the official news agency of the Japanese Empire – from 8 December 1942 onwards.[^12]
 
-<div style="background-color: white;"><img src="/images/vol-11-issue-4/propaganda-paper/02_propagandapaper.jpg">Viewed from the left: No. 1 Finalyson Green, at the junction with Robinson Road; The Straits Times Office – which the Japanese forces appropriated for The Syonan Times – at the corner of Robinson Road and Cecil Street; the two-storeyed offices of KPM (Koninklijke Paketvaart Maatshappij); and the three-storeyed headquarters of Behn Meyer. <i>Lim Kheng Chye Collection, courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;"><img style="width:700px" src="/images/vol-11-issue-4/propaganda-paper/02a_propagandapaper.jpg">Viewed from the left: No. 1 Finalyson Green, at the junction with Robinson Road; The Straits Times Office – which the Japanese forces appropriated for The Syonan Times – at the corner of Robinson Road and Cecil Street; the two-storeyed offices of KPM (Koninklijke Paketvaart Maatshappij); and the three-storeyed headquarters of Behn Meyer. <i>Lim Kheng Chye Collection, courtesy of National Archives of Singapore.</i></div>
 
 It was not long, however, before local readers became disillusioned with the persistent claims of Japanese victory and dominion in both broadsheets. A new Malay phrase, “cerita-cerita domei” – meaning “the (fairy) stories of Domei”, in derogatory reference to the dubious nature of the newsstories and the Japanese news agency that policed the dailies – crept into the vernacular.[^13]
 
