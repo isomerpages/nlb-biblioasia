@@ -53,7 +53,7 @@ Medhurst was born in London in 1796 and first trained as a printer.[^7] After fi
 
 Following the end of the First Opium War (1839–42), Medhurst left for China in 1843 and established the first Protestant mission in Shanghai. He started a printing press, and engaged in the printing and distribution of religious tracts as well as the translation of the Bible into Chinese. In 1856, Medhurst returned to England due to ill health. He died on 24 January 1857, just two days after arriving home.
 
-- Written by Ong Eng Chuan
+– Written by Ong Eng Chuan
 
 <a href="/vol-11/issue-4/jan-mar-2016/"><center>Back to Issue</center></a>
 	
