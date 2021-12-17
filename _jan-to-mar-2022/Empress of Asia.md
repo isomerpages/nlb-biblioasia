@@ -40,9 +40,15 @@ With Singapore as a major prize, the Japanese chose not to attack the island fro
 
 While the _Asia_ laboured through the Bangka Strait on 4 February, the Japanese were 11 days from forcing the British to surrender what many had thought was an impregnable fortress. 
 
+![Alt text for image on Isomer site](/images/vol-17-issue-4/empress-of-asia/5_Vancouver.jpg)
+<div style="background-color: white;"> In her glory days – minus the rust and wartime grey paint – the <i>Empress of Asia</i> was a sight to behold. Resplendent in white, she is pictured here passing through the First Narrows at Vancouver during the late 1930s. <i>James Crookall, City of Vancouver Archives – 260-994.</i></div>
+
 The night before Hosken noted the _Asia_’s lack of steam, Ordinary Seaman Jack Ewart had been in the crow’s nest 23 m above the water. At the time, Convoy BM-12, which had rendezvoused with Convoy DM-2, was in the Sunda Strait between Sumatra and Java. That was when the young Canadian thought he heard aircraft engines and picked up the phone to the bridge. Ewart was told he was probably hearing the engines of another ship off _Asia_’s starboard beam. When the ships reached the northern end of the Sunda Strait, several broke off and headed east to Batavia (now Jakarta) to support the Dutch colony while five ships headed northwest towards Bangka Strait.
 
 Fourth Officer Walter Oliver had sailed most of the world’s oceans and earned the coveted master’s certificate. He had helped transport oil from the Dutch East Indies and once kept a cabin at Palembang, Sumatra. Oliver was familiar with the Singapore approaches and on 4 February the _Asia_’s position – “well in the rear” of the convoy – was apparent.[^2] 
+
+![Alt text for image on Isomer site](/images/vol-17-issue-4/empress-of-asia/6_Walter_Oliver.jpg)
+<div style="background-color: white;">Prior to the Singapore voyage, Fourth Officer Walter Oliver had sailed most of the world’s oceans. He was one of the last crew members to leave the burning <i>Empress of Asia</i> on 5 February 1942. <i>Courtesy of Nelson Oliver.</i></div>
 
 Hosken, meanwhile, could see that his ship was not only last in line, but also visible with three massive smoke stacks. She carried the most number of military personnel: 2,235 compared to the _Devonshire_’s 1,673, had a crew of 413, and was heavy with military supplies.[^3]
 
@@ -58,6 +64,9 @@ By 11 am, Hosken was helping prepare mooring lines for coming alongside at Singa
 Captain John Watts of the British 18th Div. saw the aircraft at high altitude in “V” formation “with the sun glinting on their silver bodies”. He counted 27, nine to each “V” formation, proceeding north to south.[^5]
 
 Canadian Boy Seaman Geoff Tozer remembered five bombs hitting the water on the starboard side, three falling aft and two landing near the port side. Assigned to an anti-aircraft gun, he quickly realised the targets were beyond range.[^6]
+
+![Alt text for image on Isomer site](/images/vol-17-issue-4/empress-of-asia/7_Tozer.jpg)
+<div style="background-color: white;">Canadian Boy Seaman Geoff Tozer remembered five bombs hitting the water on the starboard side of the <i>Empress of Asia</i> on 4 February 1942. Courtesy of Hightail Tozer Papers.</div>
 
 Hosken hurried aft to a gun position where he was sent below to an ammunition bunker. “2 of us went down (it was very scary). Had some boxes of shells hoisted up and we were told to come out…and keep a lookout by the gun.” He counted five enemy bombs; none of which were direct hits. “Two were near hits. No. 2 and 2A lifeboats were splintered by shrapnel. One piece landed right beside [Ordinary Seaman] Mike [Costello] and one near the gun aft.”
 
@@ -82,15 +91,24 @@ By around 10 am, the trailing section of Convoy BM-12 was approaching Sultan Sho
 
 Cadet Maurice Atkins was on the lower bridge during the attack. “There was this [enemy aircraft] coming down our bow with his machine-gun blazing, and I never felt so helpless in my life. He was heading straight for the ship – coming over the bow. All I could see was the machine-gun shells hitting the deck and bridge, and felt for sure one of them had my name on it.”[^18]
 
+![Alt text for image on Isomer site](/images/vol-17-issue-4/empress-of-asia/Atkin.jpg)
+<div style="background-color: white;">Maurice Atkins was a young cadet on board the <i>Empress of Asia.</i> He and Ordinary Seaman William McKinnon helped drop mooring lines over the side which enabled men to escape from the bow of the burning ship on 5 February 1942. <i>Courtesy of Maurice Atkins.</i></div>
+
 Although she got a pilot on board, the _Félix Roussèl_ suffered the first hit, but survived. The enemy aircraft then turned their attention on the _Asia_, which gave the two other troopships the chance to make port. “As each plane attacked, and when coming out of the dive, the bomb could be seen leaving the rack,” recalled Oliver. “Next the explosion, followed by the concussion. All these aircraft attacked from forward in line with the bow at incredible speed.”[^19] 
 
 At 10.48 am, noted Oliver, the enemy scored its first hit. An incendiary bomb penetrated the upper deck between No. 1 and No. 2 funnels, exploding in the lounge. The blast inflicted heavy casualties among the troops below.[^20] Killed instantly was British soldier Ewen McKerchar, shy of his 28th birthday. “I had a firefighting crew working for me and while I was up in the lower bridge with the chief officer I was told to go and hook up the hoses to the hydrants and be ready to help,” recalled Atkins. “When we got there, there was no water.”21
+
+![Alt text for image on Isomer site](/images/vol-17-issue-4/empress-of-asia/8_Interior.jpg)
+<div style="background-color: white;">Prior to its conversion as a troopship in 1914, the <i>Empress of Asia</i> offered luxurious travel for first-class passengers. One feature was this domed lounge with beautiful furnishings and a grand piano. During the aerial attack on 5 February 1942, a bomb exploded in the lounge inflicting casualties. <i>University of British Columbia Library, Rare Books and Special Collections – CC-PH-09390.</i></div>
 
 “From the start… our guns put up an extremely good and steady barrage,” stated Oliver. “The barrels of the Bren guns became so hot they had to be discarded and replaced…”
 
 Another bomb struck close to No. 1 funnel and exploded below deck, knocking out communications between the bridge and the after part of the ship. The fiddley deck was thick with smoke forcing the Bren gunners to the upper bridge railing facing the bow. “The concussion of all this firing set off many of our own rockets,” noted Oliver. “Some… flew horizontal around the bridge deck, adding… to the confusion. The rockets with the parachutes attached also took off on their own, at the wrong time, and landed with all the wiring back on deck.”[^22]
 
 Watts described one bomb passing over the bridge before smashing through the fiddley deck and exploding in the officers’ lounge. He noted it was an “oil bomb” weighing no more than 100 pounds (45 kg). The ship was “belching smoke from a short distance behind the bridge to the third funnel… We could see officers and men, blackened and burned, being passed and assisted through open windows of cabins and recreation rooms on the promenade deck.”[^23]
+
+![Alt text for image on Isomer site](/images/vol-17-issue-4/empress-of-asia/9_Bomb.jpg)
+<div style="background-color: white;">This illustration is a basic depiction of the <i>Empress of Asia</i>. It is not to scale and is presented to show the approximate location of where the three bombs mentioned in the essay hit the ship. <i>Illustration: Janet Watson, Mejan Graphic Design. Copyright: Dan Black, Merrickville, Ontario, Canada.</i></div>
 
 Pantryman Douglas Elworthy, a member of the catering crew, was sprayed with hot, oily shrapnel. He was in the pantry below the lounge. In his diary, Hosken mentions a steward with a “belly full of shrapnel”.[^24] This was likely Elworthy, who died five days later.
 
@@ -111,6 +129,9 @@ Amid falling embers, Ewart and Seaman Tim Cameron helped Crofts over the side an
 Meanwhile, the Australian sloop _Yarra_, commanded by Captain Wilfred Harrington, was manoeuvred next to the doomed ship. Hosken noted that 1,600 men, including him, were rescued by the sloop, although some estimates are higher.[^30] Other vessels assisted, but without the _Yarra_ hundreds could have perished.[^31] 
 
 The _Asia_ then drifted southeast of Sultan Shoal where anchors were dropped. “Before completely abandoning the afterdeck, the ammunition for the six-inch gun and the remainder from the twelve-pounder had to be thrown overboard. Only two lifeboats were intact,” noted Oliver. “Both… were launched; one made it, one capsized.”[^32] Oliver boarded the _Yarra_, but while checking the _Asia’s_ lower decks, he found a dedicated engine room crewman who said he had not received the evacuation order. 
+
+![Alt text for image on Isomer site](/images/vol-17-issue-4/empress-of-asia/10_Anchor.jpg)
+<div style="background-color: white;">The anchor salvaged from the <i>Empress of Asia</i> wreck in 1998, almost 60 years after the Allied troopship sank off Tuas while en route to Singapore to reinforce its defence. The anchor has been on permanent display at the National Museum of Singapore since 2015. <i>Courtesy of Jimmy Yap.</i></div>
 
 By 1 pm, the ship was abandoned. 
 Of the 2,648 men on the _Asia_, 16 soldiers and four crew members died, and 238 were injured as a result of the attack. The enemy, it’s believed, lost two planes.[^33] The _Asia_ eventually sank in relatively shallow water.
