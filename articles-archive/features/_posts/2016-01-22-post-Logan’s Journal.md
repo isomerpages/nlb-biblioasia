@@ -6,7 +6,6 @@ image: /images/vol-11-issue-4/logan-journal/01_loganjournal.jpg
 layout: post
 description: ""
 ---
-
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>ABOUT THE SERIAL</b>
 <br><br>
 <b>Title:</b> <i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=5007604">The Journal of the Indian Archipelago and Eastern Asia</a></i>
@@ -67,11 +66,11 @@ All nine volumes of the journal dating from 1847 to 1855, along with three addit
 
 [^7]:[Logan](http://eresources.nlb.gov.sg/printheritage/detail/f83896d8-a4bf-4b9f-909c-9af2a041fd27.aspx), 1847, pp. iv–vii.
 
-[^8]:Bastin, C., & Bastin, J. (1964). Some old Penang tombstones. *Journal of the Malaysian Branch of the Royal Asiatic Society, 37* (1) (205), 126–165, p. 146. Call no.: RCLOS 959.5JMBRAS
+[^8]:Bastin, C., & Bastin, J. (1964). Some old Penang tombstones. *[Journal of the Malaysian Branch of the Royal Asiatic Society](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4126333), 37* (1) (205), 126–165, p. 146. Call no.: RCLOS 959.5JMBRAS
 
 [^9]:[National Library Board](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1146_2009-10-27.html), 2009.
 
-[^10]:Turnbull, C.M. (1969, March). The European mercantile community in Singapore, 1819–1867. *Journal of Southeast Asian History (Singapore Commemorative Issue 1819–1969), 10* (1), 12–35, p. 17. Call no.: RCLOS 959.05 JSA
+[^10]:Turnbull, C.M. (1969, March). The European mercantile community in Singapore, 1819–1867. *[Journal of Southeast Asian History](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=2625011) (Singapore Commemorative Issue 1819–1969), 10* (1), 12–35, p. 17. Call no.: RCLOS 959.05 JSA
 
 [^11]:Logan, J.R. (1851, January). *[The Journal of the Indian Archipelago and Eastern Asia, V](http://eresources.nlb.gov.sg/printheritage/detail/96e662cb-55ca-48bd-af98-a0a9b5d4eaa5.aspx)* (Vol. 5, title page). Microfilm no.: NL 25793
 
