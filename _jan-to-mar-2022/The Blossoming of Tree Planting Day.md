@@ -35,7 +35,7 @@ When the People’s Action Party government came into power in 1959, it continue
 In 1963, Lee launched an island-wide tree planting campaign. He noted that such a campaign was needed because Singapore was “becoming barren of trees” and estimated that only one tree had been planted for every 10 that had been felled for building projects. According to a contemporary news report, Lee said that planting more trees “would not only increase the island’s water supply – trees encourage cloud formation and retain moisture that would otherwise be lost – but would make Singapore a pleasanter [sic] place to live in”.[^5] 
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/tree-planting/3-LKY.jpg)
-<div style="background-color: white;">Prime Minister Lee Kuan Yew planting a _mempat_ tree sapling at Farrer Circus in 1963. The ceremony also signified the beginning of an island-wide tree planting campaign. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;">Prime Minister Lee Kuan Yew planting a <i>mempat</i> tree sapling at Farrer Circus in 1963. The ceremony also signified the beginning of an island-wide tree planting campaign. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 Lee set a target of planting 10,000 trees annually. Of these, half were to be planted by the government along roads, in housing estates and parks, and the rest by the public. To prevent vandalism in housing estates, Lee suggested that “young trees be guarded by barbed wire”.[^6]
 
