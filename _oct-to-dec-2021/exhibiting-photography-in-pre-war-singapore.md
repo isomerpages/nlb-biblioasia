@@ -49,6 +49,8 @@ Selected photographs submitted to the two committees were displayed in one of th
 
 More crucially, the public display of photographs in the exhibition marked a significant attempt to utilise the amateur and professional pursuits of photography to advance the agenda of the colonial state. Photography was included in the array of displays and performances in the fair, which advertised and showcased the products and “development” of Malaya and Borneo, giving the impression that these were the result of “benign” British rule. In effect, photography was used by the British to visualise and shield the specific effects of colonialism. In the process of decolonisation and nation-building, the national elites retained a similar faith in photography, mobilising it for a variety of cultural, socio-political and diplomatic projects.[^16]
 
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba;text-align:center"> Want more of what you’re reading? Get <i>BiblioAsia</i>’s latest stories delivered to your inbox. Subscribe <a href=https://form.gov.sg/#!/616799db4d9b61001398f79b> here</a>.</div>
+
 #### **Overseas Chinese Photographic Exhibition, 1935** 
 
 On 24 March 1935, the Chinese Consul-General to Singapore, Philip K.C. Tyau, presided over the opening of the Overseas Chinese Photographic Exhibition. Newspaper reports hailed the exhibition as the “very first of its kind in Singapore” and the “first one promoted by the Chinese in Malaya”, presumably because it showcased the works of Chinese photographers residing in Malaya even though entries by photographers from Hong Kong were also included.[^17]

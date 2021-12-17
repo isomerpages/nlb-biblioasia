@@ -1,11 +1,12 @@
 ---
 title: "To Wreck or to Recreate: Giving New Life to Singapore’s Built Heritage"
-permalink: /vol-15/issue-2/jul-sep-2019/recreate-sg-heritage/
+permalink: /vol-15/issue-2/jul-sep-2019/preservation-buildings
 date: 2019-07-31
 layout: post
 image: /images/Vol-15-issue-2/to-wreck-or-to-recreate/Wreck1.JPG
 description: ""
 ---
+
 #### Nearly 70 years have passed since a committee was set up to look into the preservation of buildings and sites with historical value. **Lim Tin Seng** charts the journey.
 
 <img src="/images/Vol-15-issue-2/to-wreck-or-to-recreate/Wreck1.JPG">

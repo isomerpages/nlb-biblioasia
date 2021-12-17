@@ -1,11 +1,12 @@
 ---
 title: "Wong Din Haan: A Pioneer Educator"
-permalink: /vol-17/issue-4/jan-to-mar-2022/wongdinhaan
+permalink: /vol-17/issue-4/jan-to-mar-2022/wong-din-haan
 description: ""
 ---
+
 #### Wong Din Haan not only founded what is believed to be the first girls’ school in Singapore, but she was also a champion for women’s rights. **Patricia Lim** tells us more.
 
-![Alt text for image on Isomer site](/images/vol-17-issue-4/Wong-Din-Haan/Cover-WongDinHaan.jpg)
+![Alt text for image on Isomer site](/images/vol-17-issue-4/Wong-Din-Haan/Cover-WongDinHaan-R.jpg)
 <div style="background-color: white;">Family photo of Wong Din Haan taken in front of Wong Ah Fook’s family home on Keng Lee Road, Singapore. First row, from left: older daughter Winnie Kwan Ming Chit; granddaughter; Wong Din Haan; grandson; Wong Peng Sook, wife of Kwan Ying Hung holding her baby son Kwan Teet Ming. Second row, from left: younger daughter Elsie Kwan Ming Tak; wife of Kwan Ying Siong holding her second son; wife of N.I. Low. Third row, from left: second son Dr Kwan Ying Hung; eldest son Kwan Ying Siong; and friend N.I. Low. <i>Courtesy of Paddy Chee.</i></div>
 
 “When[ever] the [Wah Kiew Nui Hok] school holds a general meeting, people will see a middle-aged lady sitting at a corner, listening to the speaker patiently. No matter how long the meeting goes on [for], she maintains herself in an upright posture. However, as she had never spoken a word during meetings, someone might think she is a less enthusiastic person, or the one with inadequate words. But actually, this quiet woman is exactly the most passionate person of all.”[^1] 
@@ -14,11 +15,14 @@ This “quiet woman” is none other than my grandfather’s sister, whom I addr
 
 My family is Cantonese. Saam Koo Por’s name was Wong Mei Ho (黄美好), but as a Hokkien clerk had transcribed it in the Hokkien fashion so her name became Wong Bee Ho in official documents. At some point after her marriage, she returned with her four children to live in Singapore with her father Wong Ah Fook (黃亞福),[^2] who was my great-grandfather.
 
+![Alt text for image on Isomer site](/images/vol-17-issue-4/Wong-Din-Haan/Wong-Ah-Fook2.jpg)
+<div style="background-color: white;">Wong Din Haan was the second daughter of Wong Ah Fook, who came to Singapore in 1854 as a carpenter. He was responsible for the construction of a number of Johor’s heritage buildings, including the Istana Besar, the royal palace of the Sultan of Johor. Jalan Wong Ah Fook in downtown Johor Bahru is named after him. <i>Image reproduced from Song Ong Siang, One Hundred Years’ History of the Chinese in Singapore (London: John Murray, 1923), 354. Collection of the National Library, Singapore. (Accession no.: B20048226B).</i></div>
+
 It was much later that I discovered she was known by another name. I had attended a lecture by Professor Zheng Liang Shu (郑良树; Tay Liang Soo) of Southern University College, Johor, where he spoke about the pioneer educator Wong Din Haan (黄典娴; Huang Dian Xian). The second daughter of Wong Ah Fook, my grandaunt founded what he described as the first school for girls in Singapore.[^3]
 
 I was confused because no one in the family seemed to know about the existence of this girls’ school until I asked one of my uncles, Pang Heng Hung. He confirmed that she was indeed the founder of a school known as Wah Kiew Nui Hok (华侨女校), which was located on New Bridge Road. His mother was Wong Bee Soo, Wong Din Haan’s younger sister, who had been a teacher in the school.
 
-![Alt text for image on Isomer site](/images/vol-17-issue-4/Wong-Din-Haan/New-Bridge-Road.jpg)
+![Alt text for image on Isomer site](/images/vol-17-issue-4/Wong-Din-Haan/New-Bridge-Road2.jpg)
 <div style="background-color: white;">New Bridge Road, looking towards the Sepoy Lines, c. 1906. <i>Courtesy of National Archives of Singapore.</i></div>
 
 #### **Pioneer in Female Education** 
@@ -31,10 +35,10 @@ Although born in Singapore, my grandfather Wong Siew Nam (黄兆楠), who was be
 
 Together with my grandmother, Mah Lai Wan (马励芸), grandfather founded a girls’ school named Kuan Wai Nui Hok (坤维女学) in Guangzhou in 1905 with grandmother as headmistress. She held the post for some 20 years and after the war, the school was managed by my aunt Tang Yung Hing (邓蓉馨) until 1949. It still continues today as the 29 Middle School. 
 
-![Alt text for image on Isomer site](/images/vol-17-issue-4/Wong-Din-Haan/Wong-Ah-Fook.jpg)
-<div style="background-color: white;">Wong Din Haan was the second daughter of Wong Ah Fook (below), who came to Singapore in 1854 as a carpenter. He was responsible for the construction of a number of Johor’s heritage buildings, including the Istana Besar, the royal palace of the Sultan of Johor. Jalan Wong Ah Fook in downtown Johor Bahru is named after him. <i>Image reproduced from Song Ong Siang, One Hundred Years’ History of the Chinese in Singapore (London: John Murray, 1923), 354. Collection of the National Library, Singapore. (Accession no.: B20048226B).</i></div>
-
 Grandfather must have communicated his enthusiasm to his father because Wong Ah Fook was among the group of Cantonese businessmen in Singapore who founded Yeung Ching Hok Hau (养正学校) for boys in 1905. It is best remembered by the impressive building on Club Street that it occupied from 1918 to 1956. The school is known today as Yangzheng Primary School and is located along Serangoon Avenue 3. 
+
+![Alt text for image on Isomer site](/images/vol-17-issue-4/Wong-Din-Haan/Yeung-Ching-School.jpg)
+<div style="background-color: white;">Yeung Ching School (养正学校) on Club Street, Singapore, 1948. The school was founded by Wong Ah Fook and a group of Cantonese businessmen on Park Road in 1905. It moved to Club Street in 1918. The school is known today as Yangzheng Primary School and is located along Serangoon Avenue 3. <i>Yeung Ching Primary School Collection, courtesy of National Archives of Singapore.</i></div>
 
 Grandfather’s sister Wong Bee Ho, who had adopted the alternate name of Wong Din Haan, was affected by the same zeal: she founded Wah Kiew Nui Hok in Singapore in the same year and became its headmistress.[^6]  
 
@@ -45,9 +49,6 @@ Both Yeung Ching and Wah Kiew schools used Cantonese as the language of instruct
 After 13 years, Wah Kiew Nui Hok ceased operations in 1918 – the same year that Wong Ah Fook passed away.[^7] This suggests that he might have been the main financial benefactor of the school. However, the school probably also faced resistance from the conservative Chinese society, which was not yet ready for the education of females. The traditional view held by many then was that girls need not be educated as their primary roles in life were to be a good daughter, wife and mother.
 
 However, Wong Din Haan’s school was a pioneer in female education in that it inspired the establishment of five more Chinese girls’ schools in Singapore during its lifespan.[^8] Of these five schools, Nam Wah Nui Hok (南华女学) founded in 1917 has continued to the present day as Nan Hua High School (南华中学), a premier school for boys and girls.[^9] 
-
-![Alt text for image on Isomer site](/images/vol-17-issue-4/Wong-Din-Haan/Yeung-Ching-School.jpg)
-<div style="background-color: white;">Yeung Ching School (养正学校) on Club Street, Singapore, 1948. The school was founded by Wong Ah Fook and a group of Cantonese businessmen on Park Road in 1905. It moved to Club Street in 1918. The school is known today as Yangzheng Primary School and is located along Serangoon Avenue 3. <i>Yeung Ching Primary School Collection, courtesy of National Archives of Singapore.</i></div>
 
 This was probably her most important legacy to Singapore as she recognised the importance of educating women for their own personal development and advancement in society. She was the first woman who had the courage and the nerve to leave the comfortable seclusion of home to push for the education of women in the face of conservative opinion.
 
@@ -71,7 +72,7 @@ It was also around the 1920s that Wong Din Haan ventured into business. She star
 
 Author Zhao Guan Hai (招观海) described her thus:
 
-<div style="background-colour:#ffffff; padding:20px; margin: 20px; background: #ffffff">“Mr. He is her assistant in mining business. She has been called ‘The strong woman in the Nanyang’ (南洋之女丈夫). She was previously doing business in rubber planting but was not very successful. And then she switched to tin mining with great effort and dignity, proving herself as a leading woman of her kind. I heard that in Perak, there are only two women engaged in tin mining business, one is Madam Wong, and the other is a Hakka woman.”[^12] </div>
+Mr. He is her assistant in mining business. She has been called ‘The strong woman in the Nanyang’ (南洋之女丈夫). She was previously doing business in rubber planting but was not very successful. And then she switched to tin mining with great effort and dignity, proving herself as a leading woman of her kind. I heard that in Perak, there are only two women engaged in tin mining business, one is Madam Wong, and the other is a Hakka woman.[^12]
 
 By that time, my grandaunt had become deeply religious. When the Venerable Taixu (太虚法师) first came to Singapore in 1926 to promote the Buddhist faith, he was able to garner the support of local devotees, who founded the Singapore Chinese Buddhist Association (新加坡中华佛教会) in 1927. One of the founders was my grandaunt, who devoted much energy to the affairs of the association.[^13]  She helped to set up its medical section in 1937, possibly because her son Dr Kwan Ying Hung had by then graduated from his medical studies. In 1940, she was appointed president of the association, which is around the time that she appeared to have adopted the name Wong Fook Mei (黄福美) for her religious activities.[^14]
 
@@ -94,7 +95,7 @@ After Singapore surrendered on 15 February 1942, the Japanese military launched 
 
 My grandaunt was one of those arrested by the Japanese. I wonder what the Japanese officers thought when this tiny old lady appeared before them. She was then 67 years old. We do not know how long she was detained for or what she was subjected to during incarceration. It must have been a traumatic experience because she died in 1942, after she was released. 
 
-![Alt text for image on Isomer site](/images/vol-17-issue-4/Wong-Din-Haan/WongDinHaan.jpg)
+![Alt text for image on Isomer site](/images/vol-17-issue-4/Wong-Din-Haan/WongDinHaan2.jpg)
 <div style="background-color: white;">Wong Din Haan, family name Wong Bee Ho. <i>Courtesy of Paddy Chee.</i></div>
 
 #### **Leaving a Legacy** 
@@ -109,12 +110,13 @@ However, my grandaunt had been so modest and retiring that even her grandchildre
 
 <div style="background-color: white;">
 <br/>
-	After retiring as founding Librarian and Research Fellow at the ISEAS-Yusof Institute,<b>Patricia Lim Pui Huen</b> finds pleasure in exploring Singapore’s history and discovering the roots of her family’s past. Her publications include a biography of her great grandfather, <i>Wong Ah Fook: Immigrant, Builder and Entrepreneur</i> (Times Editions, 2003). In 2020, she published a volume of short stories <i>One-Legged Football and Other Stories</i> (Areca Books), which highlights the challenges faced by people with disabilities. 
+<img src="/images/vol-17-issue-4/authors/Patricia-Lim.png" style="width: 100px; height: 100px;" />
+	After retiring as founding Librarian and Research Fellow at the ISEAS-Yusof Institute, <b>Patricia Lim Pui Huen</b> finds pleasure in exploring Singapore’s history and discovering the roots of her family’s past. Her publications include a biography of her great grandfather, <i>Wong Ah Fook: Immigrant, Builder and Entrepreneur</i> (Times Editions, 2003). In 2020, she published a volume of short stories <i>One-Legged Football and Other Stories</i> (Areca Books), which highlights the challenges faced by people with disabilities. 
 </div>
 
 #### **NOTES**
 
-[^1]: 郑良树 [Zheng Liang Shu], “新马华社早期的女子教育” [“Early Education for Girls in the New Malayan Society”], 马来西亚华人研究学刊 [Journal of Malaysian Chinese Studies](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84445336), no. 1 (1997), 49. (From National Library, Singapore, Call no. RU 959.5004951 JMCS) 
+[^1]: 郑良树 [Zheng Liang Shu], “新马华社早期的女子教育” [“Early Education for Girls in the New Malayan Society”], 马来西亚华人研究学刊 [_Journal of Malaysian Chinese Studies_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84445336), no. 1 (1997), 49. (From National Library, Singapore, Call no. RU 959.5004951 JMCS) 
 
 [^2]: Hailing from Guangdong province, China, Wong Ah Fook came to Singapore in 1854 as a carpenter. He first established himself in the building business before venturing into agriculture, revenue farming and banking. He was responsible for the construction of a number of Johor’s heritage buildings, including the Istana Besar, the royal palace of the Sultan of Johor. Jalan Wong Ah Fook in downtown Johor Bahru is named after him.
 
@@ -126,7 +128,7 @@ However, my grandaunt had been so modest and retiring that even her grandchildre
 
 [^6]: Zheng, “新马华社早期的女子教育” [“Early Education for Girls in the new Malayan Society”], 48.
 
-[^7]: "[捐欵千元助賑之黃典嫻及梁鄧氏訪問](eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19370831-1.2.32.8)" [“Contributing a Thousand Dollars for Disaster Relief, An Interview with Wong Din Haan and Madam Leong Tang”], 南洋商报 [_Nanyang Siang Pau_], 31 August 1937, 7. (From NewspaperSG)
+[^7]: "[捐欵千元助賑之黃典嫻及梁鄧氏訪問](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19370831-1.2.32.8)" [“Contributing a Thousand Dollars for Disaster Relief, An Interview with Wong Din Haan and Madam Leong Tang”], 南洋商报 [_Nanyang Siang Pau_], 31 August 1937, 7. (From NewspaperSG)
 
 [^8]: Zheng, “新马华社早期的女子教育” [“Early Education for Girls in the new Malayan Society”], 52.
 
@@ -134,20 +136,20 @@ However, my grandaunt had been so modest and retiring that even her grandchildre
 
 [^10]: Lindsay Davis, ed., [_Chinese Women’s Association: 100 Fabulous Years_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201295198) (Singapore: Editions Didier Millet, [2015]), 20–21. (From National Library, Singapore, Call no. RSING 305.488951095957 CHI)
 
-[^11]: "[本坡精武體育會之新職員](eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19250414-1.2.13)" [“New Committee Members of the Singapore Chin Woo Athletic Association”], 南洋商报 [_Nanyang Siang Pau_] 14 April 1925, 3. (From NewspaperSG)  
+[^11]: "[本坡精武體育會之新職員](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19250414-1.2.13)" [“New Committee Members of the Singapore Chin Woo Athletic Association”], 南洋商报 [_Nanyang Siang Pau_] 14 April 1925, 3. (From NewspaperSG)  
 
-[^12]: 招观海 [Zhao Guan Hai], 天南游记 [_Travel Beneath the Southern Skies_] (n.p.: n.p.,1933), 68–70. (Not available in NLB holdings) 
+[^12]: 招观海 [Zhao Guan Hai], _天南游记_ [_Travel Beneath the Southern Skies_] (n.p.: n.p.,1933), 68–70. (Not available in NLB holdings) 
 
-[^13]: 柯木林 [Ke Mulin; Kua Bak Lim], ed., [新加坡华人通史](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202251084) [_A General History of the Chinese in Singapore_]. (Singapore: Singapore Federation of Chinese Clan Associations, 2015), p.341. (From National Library, Singapore, Call no. Chinese RSING 959.57004951 GEN-[HI)
+[^13]: 柯木林 [Ke Mulin; Kua Bak Lim], ed., [_新加坡华人通史_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202251084) [_A General History of the Chinese in Singapore_]. (Singapore: Singapore Federation of Chinese Clan Associations, 2015), p.341. (From National Library, Singapore, Call no. Chinese RSING 959.57004951 GEN-[HI)
 
-[^14]: "[佛教訪問…](eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19400422-1.2.57.1)" [“A Buddhist Interview…”], 南洋商报 [_Nanyang Siang Pau_], 22 April 1940, 7. (From NewspaperSG)
+[^14]: "[佛教訪問…](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19400422-1.2.57.1)" [“A Buddhist Interview…”], 南洋商报 [_Nanyang Siang Pau_], 22 April 1940, 7. (From NewspaperSG) 
 
-[^15]: "[總商會籌賑會婦女部召開第一次會議議决全部分爲十二組並選出各組正副主任](eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19320222-1.2.11.2)" [“Women’s Wing of the Chinese Chamber of Commerce, at its First Meeting, Splits into 12 Committees and Appoints their Chairmen and Vice-Chairmen”], 南洋商报 [_Nanyang Siang Pau_], 22 February 1932, 6. (From NewspaperSG)
+[^15]: "[總商會籌賑會婦女部召開第一次會議議决全部分爲十二組並選出各組正副主任](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19320222-1.2.11.2)" [“Women’s Wing of the Chinese Chamber of Commerce, at its First Meeting, Splits into 12 Committees and Appoints their Chairmen and Vice-Chairmen”], 南洋商报 [_Nanyang Siang Pau_], 22 February 1932, 6. (From NewspaperSG)
 
-[^16]: "[捐欵千元助賑之黃典嫻及梁鄧氏訪問記](eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19370831-1.2.32.8)" [“Contributing a Thousand Dollars for Disaster Relief, An Interview with Wong Din Haan and Madam Leong Tang”], 南洋商报 [_Nanyang Siang Pau_], 31 August 1937, 7. (From NewspaperSG)
+[^16]: "[捐欵千元助賑之黃典嫻及梁鄧氏訪問記](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19370831-1.2.32.8)" [“Contributing a Thousand Dollars for Disaster Relief, An Interview with Wong Din Haan and Madam Leong Tang”], 南洋商报 [_Nanyang Siang Pau_], 31 August 1937, 7. (From NewspaperSG)
 
-[^17]: "[Help for Victims in War Torn China](eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19370912-1.2.28)," _Straits Times_, 12 September 1937, 4. (From NewspaperSG)
+[^17]: "[Help for Victims in War Torn China](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19370912-1.2.28)," _Straits Times_, 12 September 1937, 4. (From NewspaperSG)
 
-[^18]: "[星華婦女會昨選出各部職員黃典嫻被舉為正會長](eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19390411-1.2.93)" [“Singapore Chinese Ladies Association Elected its Office-bearers Yesterday, Wong Din Haan Elected President”], 南洋商报 [_Nanyang Siang Pau_], 11 April 1939, 8. (From NewspaperSG)
+[^18]: "[星華婦女會昨選出各部職員黃典嫻被舉為正會長](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19390411-1.2.93)" [“Singapore Chinese Ladies Association Elected its Office-bearers Yesterday, Wong Din Haan Elected President”], 南洋商报 [_Nanyang Siang Pau_], 11 April 1939, 8. (From NewspaperSG)
 
-[^19]: "[徐悲鴻籌賑畫展在商會繼續舉行今日起至二十六日止婦女會派員担任招待](eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19390318-1.2.67)" [“Xu Beihong’s Charity Painting Exhibition for China Relief Fund Held at the Chinese Chamber of Commerce, Will Begin Today until March 26”], 南洋商报 [_Nanyang Siang Pau_], 18 March 1939, 7; [*“Chinese Women’s Day Celebration,”*](eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19400309-1.2.65) _Singapore Free Press and Mercantile Advertiser_, 9 March 1940, 5. (From NewspaperSG)
+[^19]: "[徐悲鴻籌賑畫展在商會繼續舉行今日起至二十六日止婦女會派員担任招待](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19390318-1.2.67)" [“Xu Beihong’s Charity Painting Exhibition for China Relief Fund Held at the Chinese Chamber of Commerce, Will Begin Today until March 26”], 南洋商报 [_Nanyang Siang Pau_], 18 March 1939, 7; [*“Chinese Women’s Day Celebration,”*](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19400309-1.2.65) _Singapore Free Press and Mercantile Advertiser_, 9 March 1940, 5. (From NewspaperSG)

@@ -6,7 +6,6 @@ breadcrumb: "Bugis Street: From Sleazy to Sanitised"
 third_nav_title: "Bugis Street: From Sleazy to Sanitised"
 image: \images\Vol-11-issue-3\bugis\BugisJunction.jpg
 ---
-
 <style>
 table { 
 	background-color: #fef0c3;
@@ -146,7 +145,7 @@ Bugis Street vendors selling stuffed animals to tourists, 1979. <i>Ronni Pinsler
 
 The street connected two busy main roads, Victoria Street and North Bridge Road, and was lined with hawker stalls along both sides. Waiters clad in white singlets and shorts ran between the tables, shouting orders over their customers’ heads, nimbly avoiding beggars holding out tins for contributions. As the witching hour drew closer, the street became more raucous with Chinese singing girls, shoe-shine boys, peddlers, prostitutes and pimps, reaching an apex when the famous drag queens made their much-awaited appearance. The locals who visited in the evenings with their families for the food would be replaced by gawking tourists as well as British servicemen and European sailors looking for beer and pleasures of the flesh. 
 
-For many tourists, the main highlight of the night would be the drag queens and transsexuals, derisively called *ah quah* (in Hokkien) or *bapok* (in Malay), the Singaporean equivalent of the famous Thai ladyboys. Scantily clad in women’s clothes, with make-up expertly applied and blonde wigs to finish the look, these “women” were a sight to behold. Some were so feminine and even more beautiful than real women that many onlookers could not tell the difference. The drag queens would sashay down the street, flaunting their bodies and stopping occasionally to flirt. Photos of these transsexual women clothed, semi-nude or even nude, could be purchased and for a fee, they could be persuaded to sit on customers’ laps and take a photo together as a souvenir.
+For many tourists, the main highlight of the night would be the drag queens and transsexuals, derisively called *ah quah* (in Hokkien) or *bapok* (in Malay), the Singaporean equivalent of the famous Thai ladyboys. Scantily clad in women’s clothes, with make-up expertly applied and blonde wigs to finish the look, these women were a sight to behold. Onlookers were astonished by their femininity and beauty. The drag queens would sashay down the street, flaunting their bodies and stopping occasionally to flirt. Photos of these transsexual women clothed, semi-nude or even nude, could be purchased and for a fee, they could be persuaded to sit on customers’ laps and take a photo together as a souvenir.
 
 <div style="background-color: white;">
 <br/>
