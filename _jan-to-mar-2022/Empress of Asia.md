@@ -17,11 +17,18 @@ The 25-year-old able seaman from Vancouver recognised the irony given his rough 
 It was February 1942, and there were 30 pages to fill, several of which would describe the next 32 hours as his ship, the RMS _Empress of Asia_, steamed towards her death off Singapore. 
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/empress-of-asia/2_Map.jpg)
-<div style="background-color: white;">Smoke billows from the <i>Empress of Asia</i> after she was attacked by Japanese dive bombers off Singapore, 5 February 1942. <i>Australian War Memorial, P01604.001.</i></div>
+<div style="background-color: white;">A 1942 map superimposed onto a current map of Singapore, showing where the <i>Empress of Asia</i> sank.</div>
 
 With an unyielding pencil, Hosken wrote: “Wed., Feb. 4, 3 A.M… Lagging behind convoy as usual and cruiser keeps signalling to pick up speed for we are endangering the whole convoy.”
 
+![Alt text for image on Isomer site](/images/vol-17-issue-4/empress-of-asia/3_Hosken.jpg)
+<div style="background-color: white;">Able Seaman Geoffrey Hosken kept a detailed diary during his time on the <i>Empress of Asia</i>. This photo was taken well after the ship’s destruction. <i>Courtesy of Margot Wallace.</i>
+</div>
+
 Worrisome words because the 30-year-old Canadian Pacific coal-burner was in dangerous waters off the east coast of Sumatra, in the narrow channel known as Bangka Strait. Just over a day’s sail from Singapore’s Keppel Harbour, the old “greyhound” of the Pacific was last in line with four other troopships in Convoy BM-12 which she had joined at Bombay (now Mumbai) on 23 January. The “firemen won’t or can’t get the steam,” noted Hosken. “Doing 12–13 knots and about a mile behind.” (Firemen are the men in the stokehold of a merchant ship who feed coal into the furnaces, heating the boilers that produce steam to drive the turbines.)
+
+![Alt text for image on Isomer site](/images/vol-17-issue-4/empress-of-asia/4_Diary.jpg)
+<div style="background-color: white;">A page from Able Seaman Geoffrey Hosken’s diary records the unfolding situation on 4 February 1942. <i>Courtesy of Margot Wallace.</i></div>
 
 At the head of the convoy was the _City of Canterbury_, followed by the Dutch liner _Plancius_, the _Devonshire_, and the ex-French, 17,083-ton _Félix Roussèl_. Escorting were British cruisers HMS _Exeter_ and HMS _Danae_, the Australian sloop HMAS _Yarra_, the Indian sloop HMIS _Sutlej_ and two destroyers.
 
