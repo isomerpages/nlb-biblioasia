@@ -22,9 +22,9 @@ description: ""
 <br>
 <b>Donated by:</b> Lee Kip Lee</span>
 
-A 1946 photograph from the opening of the War Crimes Trials held in Singapore[^1] is a grim reminder of the atrocities committed by the Japanese during the Japanese Occupation of Singapore (1942–45) – a dark period in Singapore’s history.
+<div style="background-color: white;"><img style="width:500px" src="/images/vol-11-issue-4/war-crimes-trial-snapshot/01a_warcrimes.jpg">Opening of the War Crimes Trials held in Singapore on 21 January 1946. This photograph was shot by an unnamed British Crown photographer. <i>All rights reserved, National Library Board, Singapore.</i></div>
 
-<div style="background-color: white;"><img style="width:500px" src="/images/vol-11-issue-4/war-crimes-trial-snapshot/01_warcrimes.jpg">Opening of the War Crimes Trials held in Singapore on 21 January 1946. This photograph was shot by an unnamed British Crown photographer. <i>All rights reserved, National Library Board, Singapore.</i></div>
+A 1946 photograph from the opening of the War Crimes Trials held in Singapore[^1] is a grim reminder of the atrocities committed by the Japanese during the Japanese Occupation of Singapore (1942–45) – a dark period in Singapore’s history.
 
 The photograph shows members of the court taking an oath. The men in the back row with shaven heads were the first group of Japanese soldiers to be tried in the first of 131 trials held between 21 January 1946 and 12 March 1948.[^2]
 
