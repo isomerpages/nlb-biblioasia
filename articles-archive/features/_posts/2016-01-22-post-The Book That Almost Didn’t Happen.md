@@ -6,7 +6,6 @@ image: /images/vol-11-issue-4/book-that-almost-didnt-happen/01_bookdidnthappen.j
 layout: post
 description: ""
 ---
-
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>ABOUT THE BOOK</b>
 <br><br>
 <b>Title:</b> <i><a href="https://eresources.nlb.gov.sg/printheritage/detail/f9d3332f-3612-46d3-b134-b254d106aaf9.aspx">Notices of the Indian Archipelago, and Adjacent Countries: Being a Collection of Papers Relating to Borneo, Celebes, Bali, Java, Sumatra, Nias, the Philippine islands, Sulus, Siam, Cochin China, Malayan Peninsula, etc.</a></i>
@@ -29,9 +28,9 @@ Printed in Singapore by the Mission Press of the American Board of Commissioners
 <br>
 <b>Donated by:</b> Mrs Loke Yew</span>
 
-By John Henry Moor’s reckoning, the book he published in December 1837[^2] was beset with failures. *Notices of the Indian Archipelago, and Adjacent Countries* had been intended as the first part of a magnum opus that the Singapore newspaper editor had grandly announced in 1835. Moor’s goal was to print a massive compendium comprising two volumes: one compiling reprints of articles first published in the *Singapore Chronicle* newspaper from 1824 to 1834, and a second volume featuring papers on key topics about Singapore and Southeast Asia.
-
 <div style="background-color: white;"><img src="/images/vol-11-issue-4/book-that-almost-didnt-happen/01a_bookdidnthappen.jpg"><i>Notices of the Indian Archipelago, and Adjacent Countries</i> contains a fold-out map titled “Map of the Indian Archipelago Including Siam and Cochin China with Parts of China and of the Burman Empire” compiled by J. B. Tassin. <i>All rights reserved, National Library Board, Singapore.</i></div>
+
+By John Henry Moor’s reckoning, the book he published in December 1837[^2] was beset with failures. *Notices of the Indian Archipelago, and Adjacent Countries* had been intended as the first part of a magnum opus that the Singapore newspaper editor had grandly announced in 1835. Moor’s goal was to print a massive compendium comprising two volumes: one compiling reprints of articles first published in the *Singapore Chronicle* newspaper from 1824 to 1834, and a second volume featuring papers on key topics about Singapore and Southeast Asia.
 
 But due to the scarcity of printers and paper in early Singapore, *Notices*, the first volume, took two years to complete. The 400-page volume included six maps, five coloured in outline, that had to be lithographed in Calcutta, India, which contributed to the delay in its publication. Moor later lamented that the tome was “far from producing satisfaction” due to its “wanting arrangement”: the earlier articles were arranged by geography, but later contributions had to be inserted into the appendix.
 
