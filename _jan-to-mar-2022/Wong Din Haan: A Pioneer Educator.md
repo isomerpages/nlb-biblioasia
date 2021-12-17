@@ -15,6 +15,9 @@ This “quiet woman” is none other than my grandfather’s sister, whom I addr
 
 My family is Cantonese. Saam Koo Por’s name was Wong Mei Ho (黄美好), but as a Hokkien clerk had transcribed it in the Hokkien fashion so her name became Wong Bee Ho in official documents. At some point after her marriage, she returned with her four children to live in Singapore with her father Wong Ah Fook (黃亞福),[^2] who was my great-grandfather.
 
+![Alt text for image on Isomer site](/images/vol-17-issue-4/Wong-Din-Haan/Wong-Ah-Fook2.jpg)
+<div style="background-color: white;">Wong Din Haan was the second daughter of Wong Ah Fook (below), who came to Singapore in 1854 as a carpenter. He was responsible for the construction of a number of Johor’s heritage buildings, including the Istana Besar, the royal palace of the Sultan of Johor. Jalan Wong Ah Fook in downtown Johor Bahru is named after him. <i>Image reproduced from Song Ong Siang, One Hundred Years’ History of the Chinese in Singapore (London: John Murray, 1923), 354. Collection of the National Library, Singapore. (Accession no.: B20048226B).</i></div>
+
 It was much later that I discovered she was known by another name. I had attended a lecture by Professor Zheng Liang Shu (郑良树; Tay Liang Soo) of Southern University College, Johor, where he spoke about the pioneer educator Wong Din Haan (黄典娴; Huang Dian Xian). The second daughter of Wong Ah Fook, my grandaunt founded what he described as the first school for girls in Singapore.[^3]
 
 I was confused because no one in the family seemed to know about the existence of this girls’ school until I asked one of my uncles, Pang Heng Hung. He confirmed that she was indeed the founder of a school known as Wah Kiew Nui Hok (华侨女校), which was located on New Bridge Road. His mother was Wong Bee Soo, Wong Din Haan’s younger sister, who had been a teacher in the school.
@@ -31,9 +34,6 @@ Reforms to the education system in China also had an impact on Chinese education
 Although born in Singapore, my grandfather Wong Siew Nam (黄兆楠), who was better known in literary circles by his alternate name Wong Ging Tong (黄景棠), was then living in Guangzhou. Like other intellectuals of his time, he would have been caught up in the fervour for reform although we have no evidence of his role, if any, in the reform movement. However, he was a friend of the leading thinkers and political activists of the time, Kang Youwei (康有为) and Liang Qichao (梁启超), both of whom were also Cantonese. As a person who had sat for and obtained a degree in the last imperial examinations held between 1909 and 1912, my grandfather greeted the reforms in education with enthusiasm and could not resist the challenge of establishing a new category of school with a new syllabus and new teaching methods.
 
 Together with my grandmother, Mah Lai Wan (马励芸), grandfather founded a girls’ school named Kuan Wai Nui Hok (坤维女学) in Guangzhou in 1905 with grandmother as headmistress. She held the post for some 20 years and after the war, the school was managed by my aunt Tang Yung Hing (邓蓉馨) until 1949. It still continues today as the 29 Middle School. 
-
-![Alt text for image on Isomer site](/images/vol-17-issue-4/Wong-Din-Haan/Wong-Ah-Fook.jpg)
-<div style="background-color: white;">Wong Din Haan was the second daughter of Wong Ah Fook (below), who came to Singapore in 1854 as a carpenter. He was responsible for the construction of a number of Johor’s heritage buildings, including the Istana Besar, the royal palace of the Sultan of Johor. Jalan Wong Ah Fook in downtown Johor Bahru is named after him. <i>Image reproduced from Song Ong Siang, One Hundred Years’ History of the Chinese in Singapore (London: John Murray, 1923), 354. Collection of the National Library, Singapore. (Accession no.: B20048226B).</i></div>
 
 Grandfather must have communicated his enthusiasm to his father because Wong Ah Fook was among the group of Cantonese businessmen in Singapore who founded Yeung Ching Hok Hau (养正学校) for boys in 1905. It is best remembered by the impressive building on Club Street that it occupied from 1918 to 1956. The school is known today as Yangzheng Primary School and is located along Serangoon Avenue 3. 
 
@@ -95,7 +95,7 @@ After Singapore surrendered on 15 February 1942, the Japanese military launched 
 
 My grandaunt was one of those arrested by the Japanese. I wonder what the Japanese officers thought when this tiny old lady appeared before them. She was then 67 years old. We do not know how long she was detained for or what she was subjected to during incarceration. It must have been a traumatic experience because she died in 1942, after she was released. 
 
-![Alt text for image on Isomer site](/images/vol-17-issue-4/Wong-Din-Haan/WongDinHaan.jpg)
+![Alt text for image on Isomer site](/images/vol-17-issue-4/Wong-Din-Haan/WongDinHaan2.jpg)
 <div style="background-color: white;">Wong Din Haan, family name Wong Bee Ho. <i>Courtesy of Paddy Chee.</i></div>
 
 #### **Leaving a Legacy** 
