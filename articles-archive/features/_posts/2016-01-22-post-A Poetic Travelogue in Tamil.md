@@ -24,13 +24,13 @@ description: ""
 <b>Accession no.:</b> B03040212A
 </span>
 
+<div style="background-color: white;"><img style="width:600px" src="/images/vol-11-issue-4/a-poetic-travelogue-in-tamil/02a_poetic.jpg">The old race course off Serangoon Road (photographed in 1904) was renamed Farrer Park in 1935 when it moved to Bukit Timah. Interestingly, only a small section of the book Athivinotha Kuthirai Panthaiya Lavani (which translates into English as An Anthology on Horse Racing), is devoted to the sport. <i>Arshak C. Galstaun Collection, courtesy of National Archives of Singapore.</i></div>
+
 An Indian migrant brings his wife to Singapore in the late 19th century to watch the island’s horse races. As the couple travel around the British colony, the husband, N. V. Rengasamy Dasan, describes each building and street they pass to his wife, painting a verbal picture of turn-of-the century Singapore.
 
 The travelogue, written in the form of a poem, is the first non-religious Tamil book to be printed in Singapore and notable for breaking new ground in the Tamil literature scene – using colloquialisms such as *kampong* (village), *pasar* (market) and *kopi* (coffee) at a time when most Tamil literature was written in classical Tamil.[^1]
 
 Published in 1893, the title of the book, *Athivinotha Kuthirai Panthaiya Lavani* (which translates into English as *An Anthology on Horse Racing*), is misleading as only a small section of its contents is devoted to the sport of horseracing. For the most part the book reads like a travelogue of Singapore.
-
-<div style="background-color: white;"><img style="width:600px" src="/images/vol-11-issue-4/a-poetic-travelogue-in-tamil/02a_poetic.jpg"></i>The old race course off Serangoon Road (photographed in 1904) was renamed Farrer Park in 1935 when it moved to Bukit Timah. Interestingly, only a small section of the book Athivinotha Kuthirai Panthaiya Lavani (which translates into English as An Anthology on Horse Racing), is devoted to the sport. <i>Arshak C. Galstaun Collection, courtesy of National Archives of Singapore.</i></div>
 
 Penned by the husband, N. V. Rengasamy Dasan,[^2] the anthology is divided into two broad sections. The first section is dedicated to Lord Murugan – the God of War and the patron deity of Tamil Nadu.[^3]
 
