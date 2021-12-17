@@ -1,6 +1,6 @@
 ---
 title: "The Blossoming of Tree Planting Day"
-permalink: /vol-17/issue-4/jan-to-mar-2022/treeplanting
+permalink: /vol-17/issue-4/jan-to-mar-2022/tree-planting-day
 description: ""
 ---
 #### Singapore has planted more than two million trees in the past 50 years. **Lim Tin Seng** traces the roots of Tree Planting Day.
@@ -26,7 +26,7 @@ The municipality planted trees to either beautify parks and public spaces under 
 
 Trees were also planted in the Botanic Gardens for beautification or in its nurseries to support the municipality’s tree planting efforts as well as to experiment with new commercial crop like the pará rubber tree. Between the 1880s and 90s, the Botanic Gardens also carried out a large-scale tree planting programme in an attempt to reforest tracts of land that had once been primary forest but had been cleared to make way for plantations.[^2] 
 
-After World War II, the colonial government continued to hold many different tree planting activities. For instance, a tree planting campaign was launched in 1948 by the municipality to replant roadside trees that had been cut down during the Japanese Occupation. In 1955, the Singapore Improvement Trust (SIT) introduced a programme for residents to develop “a greater interest in the well-being of the estate” through tree planting. In the same year, the municipality, now renamed the City Council, also began to plant more flowering trees, such as the red bead tree (_Adenanthera pavonina_), green ebony (Jacaranda filicifolia) and Madras thorn (Pithecellobium dulce), as roadside trees in an attempt to turn Singapore into a “Garden City of the future”.[^3]
+After World War II, the colonial government continued to hold many different tree planting activities. For instance, a tree planting campaign was launched in 1948 by the municipality to replant roadside trees that had been cut down during the Japanese Occupation. In 1955, the Singapore Improvement Trust (SIT) introduced a programme for residents to develop “a greater interest in the well-being of the estate” through tree planting. In the same year, the municipality, now renamed the City Council, also began to plant more flowering trees, such as the red bead tree (_Adenanthera pavonina_), green ebony (_Jacaranda filicifolia_) and Madras thorn (_Pithecellobium dulce_), as roadside trees in an attempt to turn Singapore into a “Garden City of the future”.[^3]
 
 #### **The 1963 Tree Planting Campaign**
 
@@ -35,7 +35,7 @@ When the People’s Action Party government came into power in 1959, it continue
 In 1963, Lee launched an island-wide tree planting campaign. He noted that such a campaign was needed because Singapore was “becoming barren of trees” and estimated that only one tree had been planted for every 10 that had been felled for building projects. According to a contemporary news report, Lee said that planting more trees “would not only increase the island’s water supply – trees encourage cloud formation and retain moisture that would otherwise be lost – but would make Singapore a pleasanter [sic] place to live in”.[^5] 
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/tree-planting/3-LKY.jpg)
-<div style="background-color: white;">Prime Minister Lee Kuan Yew planting a mempat tree sapling at Farrer Circus in 1963. The ceremony also signified the beginning of an island-wide tree planting campaign. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;">Prime Minister Lee Kuan Yew planting a _mempat_ tree sapling at Farrer Circus in 1963. The ceremony also signified the beginning of an island-wide tree planting campaign. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 Lee set a target of planting 10,000 trees annually. Of these, half were to be planted by the government along roads, in housing estates and parks, and the rest by the public. To prevent vandalism in housing estates, Lee suggested that “young trees be guarded by barbed wire”.[^6]
 
@@ -61,7 +61,7 @@ Tree Planting Day has been held every year since. It usually involves the entire
 
 Fruit trees became the focus of Tree Planting Day in the 1980s. According to Lee, the plan was to start by planting sturdy fruit trees in all HDB estates before moving on to more delicate ones. “We can saturate our housing estates with enough of the hardy fruit trees that can withstand the initial vandalism and pilfering by children,” he said. “Then, in the next stage, we can go for the better fruit trees, after higher social standards of behavior have been the norm.”[^16] The hope was that gradually, Singapore would be able to nurture a generation with the social discipline to respect and share the fruits of communal property.
 
-Some of the fruit trees planted at the time include popular ones like rambutan (_Nephelium lappaceum_), coconut (_Cocos nucifera_), mangosteen (_Garcinia mangostana_), jambu ayer (_Syzygium aqueum_), mango (_Mangifera indica_) and jackfruit (_Artocarpus heterophyllus_), as well as lesser-known ones like jujube (_Ziziphus mauritiana_), langsat (_Lansium domesticum_), kedondong (Canarium pilosum), binjai (_Mangifera caesia_) and kundang (_Bouea macrophylla_). As Chua Sian Eng, Commissioner of Parks and Recreation Department (1983–95), noted: “The younger generation has probably never seen any of these fruits. It’s a pity to let these trees, which thrived here for centuries, die out of our environment.”[^17] 
+Some of the fruit trees planted at the time include popular ones like rambutan (_Nephelium lappaceum_), coconut (_Cocos nucifera_), mangosteen (_Garcinia mangostana_), _jambu ayer_ (_Syzygium aqueum_), mango (_Mangifera indica_) and jackfruit (_Artocarpus heterophyllus_), as well as lesser-known ones like jujube (_Ziziphus mauritiana_), _langsat_ (_Lansium domesticum_), _kedondong_ (_Canarium pilosum_), _binjai_ (_Mangifera caesia_) and _kundang_ (_Bouea macrophylla_). As Chua Sian Eng, Commissioner of Parks and Recreation Department (1983–95), noted: “The younger generation has probably never seen any of these fruits. It’s a pity to let these trees, which thrived here for centuries, die out of our environment.”[^17] 
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/tree-planting/4-treeplanting.jpg)
 <div style="background-color: white;">Prime Minister Lee Kuan Yew planting a <i>damar minyak</i> sapling at the Singapore Botanic Gardens in 1987. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
@@ -112,7 +112,7 @@ Beyond planting more trees, the OneMillionTrees Movement is about, as Minister f
 
 [^1]: “[Dr Goh Plants Tree to Launch T-Day](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19711108-1.2.87),” _Straits Times_, 8 November 1971, 17. (From NewspaperSG)
 
-[^2]: Lim Tin Seng, “The Greening of Singapore: Parks and Roadside Trees from Colonial Rule to the Present,” _Journal of the Malaysian Branch of the Royal Asiatic Society_, 91, no. 2 (December 2018): 80–82, Project Muse, https://muse.jhu.edu/article/714691; Shawn Lum and IIsa Sharp, eds., [_A View from the Summit: The Story of Bukit Timah Nature Reserve_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7671502) (Singapore: Nanyang Technological University and National University of Singapore, 1996), 20–21. (From National Library, Singapore, Call no. RSING 333.78095957 VIE)
+[^2]: Lim Tin Seng, “The Greening of Singapore: Parks and Roadside Trees from Colonial Rule to the Present,” _Journal of the Malaysian Branch of the Royal Asiatic Society_ 91, no. 2 (December 2018): 80–82, Project Muse, https://muse.jhu.edu/article/714691; Shawn Lum and IIsa Sharp, eds., [_A View from the Summit: The Story of Bukit Timah Nature Reserve_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7671502) (Singapore: Nanyang Technological University and National University of Singapore, 1996), 20–21. (From National Library, Singapore, Call no. RSING 333.78095957 VIE)
 
 [^3]: Lim, “Greening of Singapore,” 80–82; “[Singapore Replants Trees](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19480323-1.2.82),” _Straits Times_, 23 March 1948, 7. (From NewspaperSG)
 
