@@ -6,8 +6,6 @@ image: /images/vol-11-issue-4/crawfurd-on-sea/02_crawfurd.jpg
 layout: post
 description: ""
 ---
-
-
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>ABOUT THE BOOK</b>
 <br><br>
 	<b>Title:</b> <i><a href="https://eresources.nlb.gov.sg/printheritage/detail/2f493163-969c-482a-aa4d-982efd9c5e7b.aspx">A Descriptive Dictionary of the Indian Islands & Adjacent Countries</a></i>
@@ -28,11 +26,11 @@ description: ""
 <br>
 <b>Copies donated by:</b> Mrs Loke Yew and Tan Yeok Seong</span>
 
+<div style="background-color: white;"><img style="width:600px" src="/images/vol-11-issue-4/crawfurd-on-sea/02a_crawfurd.jpg">The title page of <i>A Descriptive Dictionary of the Indian Islands & Adjacent Countries</i> bears the signature of Carl Alexander Gibson-Hill, a noted scholar and naturalist as well as the last British director of the Raffles Museum. This copy was donated to the National Library in June 1956 as part of the Gibson-Hill Collection by Mrs Loke Yew on behalf of her late son, Loke Wan Tho, first chairman of the National Library Board. <i>All rights reserved, National Library Board, Singapore.</i></div>
+
 British colonial administrator John Crawfurd once wrote that the Chinese in 19th-century Southeast Asia have a “propensity to form secret societies [that] has sometimes proved inconvenient”. But on the whole “they are peaceable subjects”, he added, and in the event of a foreign invasion, “their cooperation might certainly be relied on by a British government”.[^1]
 
 This and other nuggets of information about colonial Southeast Asia are recorded in *A Descriptive Dictionary of the Indian Islands & Adjacent Countries*, Crawfurd’s last scholarly publication before his death in 1868. Crawfurd, who was first posted to Penang in 1808 and served as Singapore’s second British Resident from 1823 to 1826, was one of a small school of colonial officials who industriously studied the local languages and cultures of the areas they governed and then published their observations.
-
-<div style="background-color: white;"><img style="width:600px" src="/images/vol-11-issue-4/crawfurd-on-sea/02a_crawfurd.jpg">The title page of <i>A Descriptive Dictionary of the Indian Islands & Adjacent Countries</i> bears the signature of Carl Alexander Gibson-Hill, a noted scholar and naturalist as well as the last British director of the Raffles Museum. This copy was donated to the National Library in June 1956 as part of the Gibson-Hill Collection by Mrs Loke Yew on behalf of her late son, Loke Wan Tho, first chairman of the National Library Board. <i>All rights reserved, National Library Board, Singapore.</i></div>
 
 Their efforts provided the earliest reliable documentations of the region, laying the foundation for modern Southeast Asian studies. During Crawfurd’s 20 years of service in the Far East, he made careful notes of the places he visited: India, Penang, Indonesia, Thailand, Vietnam and Burma. These findings were published in books such as *History of the Indian Archipelago* (1820) and *Journal of an Embassy from the Governor-General of India to the Courts of Siam and Cochin China* (1828) – classic texts that historians still refer to today.
 
