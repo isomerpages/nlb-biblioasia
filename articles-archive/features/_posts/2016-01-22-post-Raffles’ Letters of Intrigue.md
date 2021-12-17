@@ -6,7 +6,6 @@ image: /images/vol-11-issue-4/raffles-letter-of-intrigue/01_rafflesletter.jpg
 layout: post
 description: ""
 ---
-
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;">
 	<b>Title:</b> <i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=13186897">Letters from Sir Thomas Stamford Raffles to Lord Lansdowne</a></i>
 <br>
@@ -24,9 +23,9 @@ description: ""
 B20072357D; B20072358E
 </span>
 
-Singapore was almost *not* founded by Stamford Raffles. Four letters that detail Raffles’ passionate defence to establish a British trading outpost on the island in 1819 offer insight into the objections he faced from the Dutch as well as his own British masters. Written between 1820 and 1823 to Henry Petty-Fitzmaurice, the 3rd Marquess of Lansdowne, the letters reveal the lengths that Raffles went to persuade his superiors at the British East India Company (EIC) of Singapore’s achievements and its growing importance as a regional trading hub.
-
 <div style="background-color: white;"><img style="width:600px" src="/images/vol-11-issue-4/raffles-letter-of-intrigue/01a_rafflesletter.jpg">A letter from Stamford Raffles to Lord Lansdowne on display at the National Library’s Rare Collections Gallery on level 13 of the National Library Building. There are a total of 19 letters penned by Raffles in the possession of the National Library. <i>All rights reserved, National Library Board, Singapore.</i></div>
+
+Singapore was almost *not* founded by Stamford Raffles. Four letters that detail Raffles’ passionate defence to establish a British trading outpost on the island in 1819 offer insight into the objections he faced from the Dutch as well as his own British masters. Written between 1820 and 1823 to Henry Petty-Fitzmaurice, the 3rd Marquess of Lansdowne, the letters reveal the lengths that Raffles went to persuade his superiors at the British East India Company (EIC) of Singapore’s achievements and its growing importance as a regional trading hub.
 
 The first letter (17 pages) was dated 15 April 1820; the second letter (15 pages) 19 January 1821; the third (12 pages) 1 March 1822; and the fourth (7 pages) 20 January 1823.
 
