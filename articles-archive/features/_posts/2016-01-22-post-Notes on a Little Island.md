@@ -6,14 +6,14 @@ image: /images/vol-11-issue-4/notes-on-little-island/01_littleisland.jpg
 layout: post
 description: ""
 ---
-
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>ABOUT THE BOOK</b>
 <br><br>
 <b>Title:</b> <i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=14368093">Journal of an Embassy from the Governor-General of India to the Courts of Siam and Cochin China: Exhibiting a View of the Actual State of those Kingdoms</a></i>
 <br>
 <b>Author:</b> John Crawfurd (1783–1868)
 <br>
-<b>Year published:</b> 1828 Publisher: Henry Colburn (London)
+<b>Year published:</b> 1828 <br>
+<b>Publisher:</b> Henry Colburn (London)
 <br>
 <b>Language:</b> English
 <br>
