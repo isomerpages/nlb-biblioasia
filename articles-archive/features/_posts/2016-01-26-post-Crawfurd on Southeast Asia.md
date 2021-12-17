@@ -6,7 +6,6 @@ image: /images/vol-11-issue-4/crawfurd-on-sea/02_crawfurd.jpg
 layout: post
 description: ""
 ---
-
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>ABOUT THE BOOK</b>
 <br><br>
 	<b>Title:</b> <i><a href="https://eresources.nlb.gov.sg/printheritage/detail/2f493163-969c-482a-aa4d-982efd9c5e7b.aspx">A Descriptive Dictionary of the Indian Islands & Adjacent Countries</a></i>
@@ -47,7 +46,7 @@ One caveat is that the *A Descriptive Dictionary* is largely based on Crawfurd�
 
 Still, the book’s extensive facts and figures reflect Crawfurd’s wide scholarly interests. Its inclusion of information dated as late as 1850 also hints at his dedication to Southeast Asia even after he returned to England for good in 1828. Crawfurd, who was born in Scotland in 1783 and started working for the British East India Company at the age of 20, began work on *A Descriptive Dictionary* in 1854[^6] and published it in London in 1856. The book served as the standard reference on the Indian Archipelago for almost 40 years until Nicholas Belfield Dennys’ *Descriptive Dictionary of British Malaysia* was published in 1894.[^7]
 
-The National Library holds four copies of the first edition published in 1856.. One is from the Ya Yin Kwan Collection, donated in July 1964 by Penang-born merchant and scholar Tan Yeok Seong. Another copy was donated in June 1965 as part of the Gibson-Hill Collection by Mrs Loke Yew on behalf of her late son Loke Wan Tho, the first chairman of the National Library Board and the owner of the Cathay chain of cinemas. The third copy comes from the John Bastin Collection.
+The National Library holds four copies of the first edition published in 1856. One is from the Ya Yin Kwan Collection, donated in July 1964 by Penang-born merchant and scholar Tan Yeok Seong. Another copy was donated in June 1965 as part of the Gibson-Hill Collection by Mrs Loke Yew on behalf of her late son Loke Wan Tho, the first chairman of the National Library Board and the owner of the Cathay chain of cinemas. The third copy comes from the John Bastin Collection.
 
 – Written by Gracie Lee
 
@@ -55,7 +54,7 @@ The National Library holds four copies of the first edition published in 1856.. 
 
 #### **NOTES**
 
-[^1]:Crawfurd, J. (1856). *[A descriptive dictionary of the Indian islands & adjacent countries](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=77333)* (p. 98). London: Bradbury & Evans. Microfilm nos.: NL 6554, NL 25418.
+[^1]:Crawfurd, J. (1856). *[A descriptive dictionary of the Indian islands & adjacent countries](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4181804)* (p. 98). London: Bradbury & Evans. Microfilm nos.: NL 6554, NL 25418.
 
 [^2]:Crawfurd, J. (1971). *[A descriptive dictionary of the Indian islands & adjacent countries](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=77333)*. Kuala Lumpur, New York: Oxford University Press. (Call no.: RCLOS 959.8 CRA) 
 
