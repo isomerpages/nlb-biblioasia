@@ -5,7 +5,7 @@ description: ""
 ---
 #### The _Empress of Asia_ sank off Tuas in February 1942 while carrying troops to fight off the Japanese invasion. **Dan Black** recounts its final days.
 
-![Alt text for image on Isomer site](/images/vol-17-issue-4/Wong-Din-Haan/Cover-WongDinHaan-R.jpg)
+![Alt text for image on Isomer site](/images/vol-17-issue-4/empress-of-asia/1_Smoke.jpg)
 <div style="background-color: white;">Smoke billows from the <i>Empress of Asia</i> after she was attacked by Japanese dive bombers off Singapore, 5 February 1942. <i>Australian War Memorial, P01604.001</i></div>
 
 _A huge iron anchor has been part of the permanent exhibition at the National Museum of Singapore since 2015. About 2.4 m tall, it is originally from the RMS Empress of Asia, which was destroyed off Singapore in February 1942. At the time, the ship was transporting Allied troops to help reinforce Singapore’s defence during the Japanese invasion. The following story commemorates the 80th anniversary of this wartime loss._
