@@ -37,7 +37,7 @@ Together with my grandmother, Mah Lai Wan (马励芸), grandfather founded a gir
 
 Grandfather must have communicated his enthusiasm to his father because Wong Ah Fook was among the group of Cantonese businessmen in Singapore who founded Yeung Ching Hok Hau (养正学校) for boys in 1905. It is best remembered by the impressive building on Club Street that it occupied from 1918 to 1956. The school is known today as Yangzheng Primary School and is located along Serangoon Avenue 3. 
 
-![Alt text for image on Isomer site](/images/vol-17-issue-4/Wong-Din-Haan/Yeung-Ching-School.jpg)
+![Alt text for image on Isomer site](/images/vol-17-issue-4/Wong-Din-Haan/Yeung-Ching-School2.jpg)
 <div style="background-color: white;">Yeung Ching School (养正学校) on Club Street, Singapore, 1948. The school was founded by Wong Ah Fook and a group of Cantonese businessmen on Park Road in 1905. It moved to Club Street in 1918. The school is known today as Yangzheng Primary School and is located along Serangoon Avenue 3. <i>Yeung Ching Primary School Collection, courtesy of National Archives of Singapore.</i></div>
 
 Grandfather’s sister Wong Bee Ho, who had adopted the alternate name of Wong Din Haan, was affected by the same zeal: she founded Wah Kiew Nui Hok in Singapore in the same year and became its headmistress.[^6]  
