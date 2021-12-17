@@ -1,6 +1,6 @@
 ---
 title: "The Final Hours of the Empress of Asia"
-permalink: /vol-17/issue-4/jan-to-mar-2022/empress-of-asia
+permalink: /vol-17/issue-4/jan-to-mar-2022/empress-asia
 description: ""
 ---
 #### The _Empress of Asia_ sank off Tuas in February 1942 while carrying troops to fight off the Japanese invasion. **Dan Black** recounts its final days.
