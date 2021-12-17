@@ -6,7 +6,6 @@ image: /images/vol-11-issue-4/map-that-opened-southeast-asia/01_mapthatopenedsea
 layout: post
 description: ""
 ---
-
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>ABOUT THE MAP</b>
 <br><br>
 <b>Title:</b> <i><a href="https://eresources.nlb.gov.sg/printheritage/detail/302a34a9-17c9-48db-abcb-53133aa7c27a.aspx">Exacta & Accurata Delineatio cum Orarum Maritimdrum tum etjam locorum terrestrium quae in Regionibus China, Cauchinchina, Camboja sive Champa, Syao, Malacca, Arracan & Pegu… (The True Depiction or Illustration of all the Coasts and Lands of China, Cochin China, Cambodia, Siam, Malacca, Arracan and Pegu, Likewise of all the Adjacent Islands, Large and Small, Together with the Cliffs, Riffs, Sands, Dry Parts and Shallows; All Taken from the Most Accurate Sea Charts and Rutters in Use by the Portuguese Pilots Today)</a></i>
@@ -27,6 +26,8 @@ description: ""
 <br>
 <b>Donated by:</b> Koh Seow Chuan (monochrome version)</span>
 
+<div style="background-color: white;"><img src="/images/vol-11-issue-4/map-that-opened-southeast-asia/02a_mapthatopenedsea.jpg">The National Library has two different versions of the Exacta & Accurata map, both dated 1596: a black and-white copy donated by the philanthropist and architect Koh Seow Chuan, and this hand-coloured version in the David Parry Southeast Asian Map Collection. <i>All rights reserved, National Library Board, Singapore.</i></div>
+
 By the late 16th century, the Portuguese had dominated the trade to Southeast Asia for nearly a hundred years. Its monopoly depended on closely guarded knowledge about the best sailing routes to the region, known as the East Indies at the time.[^1]
 
 But a Dutchman called Jan Huygen van Linschoten changed the course of history for Singapore and Southeast Asia by deciphering the secrets of the Portuguese and sharing them with the world. Linschoten was the secretary to Don Frey Vicente de Fonseca, the Archbbishop of Goa, which was then under Portuguese rule. During his employment, Linschoten painstakingly made copies of archives that spelt out the closely guarded sailing directions.
@@ -40,8 +41,6 @@ The landmark *Itinerario* laid bare the Portuguese’s unrivalled information fo
 The exposure of the Portuguese’s secrets ended their dominance in Southeast Asia. Two years later, in 1598, an English translation of the *Itinerario* was published in London. The release of the original work and the English edition launched a race between Dutch and English companies to claim the East Indies trade. This set the stage for Stamford Raffles’ arrival on Singapore’s shores more than two centuries later in 1819.
 
 *Exacta & Accurata* provides detailed sailing instructions for the route to India via the Cape of Good Hope, and for negotiating the eastern coastlines of Asia. About the size of three and a half sheets of A4 paper, it was regarded as the standard reference map of the Far East until the 1630s, when Jan Jansson and William Blaeu, two Dutch map publishing houses, produced more maps of the region.
-
-<div style="background-color: white;"><img src="/images/vol-11-issue-4/map-that-opened-southeast-asia/02a_mapthatopenedsea.jpg">The National Library has two different versions of the Exacta & Accurata map, both dated 1596: a black and-white copy donated by the philanthropist and architect Koh Seow Chuan, and this hand-coloured version in the David Parry Southeast Asian Map Collection. <i>All rights reserved, National Library Board, Singapore.</i></div>
 
 The map positions the islands from Sumatra in the west to Pupua, the early reference to Papua New Guinea, in the east with  remarkable  accuracy.[^3] Displaying a marvellous blend of contemporary Portuguese knowledge and mythical cartographic detail, it also depicts Japan in the shape of a lobster or shrimp, and Korea as an odd-shaped island.
 
