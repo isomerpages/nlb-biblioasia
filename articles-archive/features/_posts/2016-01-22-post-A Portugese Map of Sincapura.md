@@ -6,7 +6,6 @@ image: /images/vol-11-issue-4/portuguese-map-of-sincapura/01_portugesemap.jpg
 layout: post
 description: ""
 ---
-
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>ABOUT THE BOOK AND MAPS</b>
 <br><br>
 <b>Title:</b> <i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=12830918">Malaca, l’Inde Méridionale et le Cathay: Manuscrit Original Autographe de Godinho de Erédia, Appartenant a la Bibliothèque Royale de Bruxelles</a></i>
@@ -25,6 +24,8 @@ description: ""
 <br>
 <b>Accession no.:</b> B18975443H</span>
 
+<div style="background-color: white;"><br><img style="width:500px" src="/images/vol-11-issue-4/portuguese-map-of-sincapura/02a_portugesemap.jpg">The title page of <i>Malaca, l’Inde Méridionale et le Cathay</i> has a floral border and bears the distinct red vertical stamp of the Syonan Library (Syonan Tosyokan) – the name the National Library was known as during the Japanese Occupation. <i>All rights reserved, National Library Board, Singapore.</i></div>
+
 Originally drawn in 1604, *Discripsao chorographica dos estreitos de Sincapura e Sabbam. ano. 1604 (Chorographic Description of the Straits of Sincapura and Sabbam 1604 A.D)* is one of the earliest maps to depict pre-colonial Singapore, and more importantly, identifies recognisable names of places – Sunebodo (Sungei Bedok), Tanamena (Tanah Merah), Tanion Ru (Tanjong Rhu) and an island called Blacan Mati (Pulau Blakang Mati or Sentosa) – along its eastern coast.[^1] The map refers to the main island as Sincapura – one of several early names given to the island.
 
 <div style="background-color: white;"><br><img style="width:500px" src="/images/vol-11-issue-4/portuguese-map-of-sincapura/01a_portugesemap.jpg">Originally drawn in 1604, Discripsao Chorographica dos Estreitos de Sincapura e Sabbam. ano. 1604 (Chorographic Description of the Straits of Sincapura and Sabbam 1604 A.D.) is one of the earliest maps to depict the coastal areas of pre-colonial Singapore with names that are still recognisable today. <i>All rights reserved, Janssen, L. (Trans.) (1882). Malaca, I’Inde Méridionale et le Cathay: Manuscrit Original Autographe de Godinho de Erédia, Appartenant a la Bibliothèque Royale de Bruxelles. Bruxelles: Librairie Europeenne C. Muquardt.</i></div>
@@ -32,8 +33,6 @@ Originally drawn in 1604, *Discripsao chorographica dos estreitos de Sincapura e
 The name Xabandaria on this map west of Tanjong Rhu would have indicated the location of a Shahbandar or harbour master’s compound. Under the antecedent 15th-century Malay law code, *Undang-undang Melaka*, the Shahbandar or harbour master was one of the four high officials appointed by the Sultan.[^2] The Sultan’s Shahbandar had jurisdiction over all foreign merchants and marine vessels. About two years after this map was produced, it would be the “Sabander van Sincapura” (Harbour master of Singapore) who first met Admiral Cornelis Matelief de Jonge in 1606.[^3] The Shahbandar then brought the Dutch Admiral to meet Sultan Alauddin Riayat Shah III and this meeting formed the Dutch-Johor alliance against the Portuguese. Not surprisingly, Jacques Coutre, a Flemish merchant writing about his Asian sojourn in the early 1600s, called Singapore “Ysla de la Sabandaria Vieja” or “Island of the Old Shahbandaria”.[^4]
 
 This map – which is part of a manuscript entitled *Declaracam de Malaca e India Meridional com o Cathay*  – is also important because it is one of the earliest to indicate the various maritime channels around Singapore. The Old Strait of Singapore (Estreito Velho) is shown on this map running close to Sincapura island while the New Strait (Estreito Nouo) runs further south. The Old Strait is the waterway that early European mariners used prior to the mid-1700s. Later European maps, however, marked the Old Strait of Singapore as the waterway separating Johor from Singapore Island, which today is called the or Johor Strait.
-
-<div style="background-color: white;"><br><img style="width:500px" src="/images/vol-11-issue-4/portuguese-map-of-sincapura/02a_portugesemap.jpg">The title page of <i>Malaca, l’Inde Méridionale et le Cathay</i> has a floral border and bears the distinct red vertical stamp of the Syonan Library (Syonan Tosyokan) – the name the National Library was known as during the Japanese Occupation. <i>All rights reserved, National Library Board, Singapore.</i></div>
 
 The details in the map suggests that the cartographer, Manuel Godinho de Erédia (1563–1623), was familiar with the region. This map was included in his manuscript written in Portuguese in 1613 and is presently in the collection of the Bibliothèque Royale in Brussels.
 
