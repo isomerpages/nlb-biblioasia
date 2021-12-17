@@ -72,7 +72,7 @@ It was also around the 1920s that Wong Din Haan ventured into business. She star
 
 Author Zhao Guan Hai (招观海) described her thus:
 
-<div style="background-colour:#ffffff; padding:20px; margin: 20px; background: #ffffff">“Mr. He is her assistant in mining business. She has been called ‘The strong woman in the Nanyang’ (南洋之女丈夫). She was previously doing business in rubber planting but was not very successful. And then she switched to tin mining with great effort and dignity, proving herself as a leading woman of her kind. I heard that in Perak, there are only two women engaged in tin mining business, one is Madam Wong, and the other is a Hakka woman.”[^12] </div>
+Mr. He is her assistant in mining business. She has been called ‘The strong woman in the Nanyang’ (南洋之女丈夫). She was previously doing business in rubber planting but was not very successful. And then she switched to tin mining with great effort and dignity, proving herself as a leading woman of her kind. I heard that in Perak, there are only two women engaged in tin mining business, one is Madam Wong, and the other is a Hakka woman.[^12]
 
 By that time, my grandaunt had become deeply religious. When the Venerable Taixu (太虚法师) first came to Singapore in 1926 to promote the Buddhist faith, he was able to garner the support of local devotees, who founded the Singapore Chinese Buddhist Association (新加坡中华佛教会) in 1927. One of the founders was my grandaunt, who devoted much energy to the affairs of the association.[^13]  She helped to set up its medical section in 1937, possibly because her son Dr Kwan Ying Hung had by then graduated from his medical studies. In 1940, she was appointed president of the association, which is around the time that she appeared to have adopted the name Wong Fook Mei (黄福美) for her religious activities.[^14]
 
@@ -110,7 +110,7 @@ However, my grandaunt had been so modest and retiring that even her grandchildre
 
 <div style="background-color: white;">
 <br/>
-	After retiring as founding Librarian and Research Fellow at the ISEAS-Yusof Institute,<b>Patricia Lim Pui Huen</b> finds pleasure in exploring Singapore’s history and discovering the roots of her family’s past. Her publications include a biography of her great grandfather, <i>Wong Ah Fook: Immigrant, Builder and Entrepreneur</i> (Times Editions, 2003). In 2020, she published a volume of short stories <i>One-Legged Football and Other Stories</i> (Areca Books), which highlights the challenges faced by people with disabilities. 
+	After retiring as founding Librarian and Research Fellow at the ISEAS-Yusof Institute, <b>Patricia Lim Pui Huen</b> finds pleasure in exploring Singapore’s history and discovering the roots of her family’s past. Her publications include a biography of her great grandfather, <i>Wong Ah Fook: Immigrant, Builder and Entrepreneur</i> (Times Editions, 2003). In 2020, she published a volume of short stories <i>One-Legged Football and Other Stories</i> (Areca Books), which highlights the challenges faced by people with disabilities. 
 </div>
 
 #### **NOTES**
