@@ -16,13 +16,13 @@ This “quiet woman” is none other than my grandfather’s sister, whom I addr
 My family is Cantonese. Saam Koo Por’s name was Wong Mei Ho (黄美好), but as a Hokkien clerk had transcribed it in the Hokkien fashion so her name became Wong Bee Ho in official documents. At some point after her marriage, she returned with her four children to live in Singapore with her father Wong Ah Fook (黃亞福),[^2] who was my great-grandfather.
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/Wong-Din-Haan/Wong-Ah-Fook2.jpg)
-<div style="background-color: white;">Wong Din Haan was the second daughter of Wong Ah Fook (below), who came to Singapore in 1854 as a carpenter. He was responsible for the construction of a number of Johor’s heritage buildings, including the Istana Besar, the royal palace of the Sultan of Johor. Jalan Wong Ah Fook in downtown Johor Bahru is named after him. <i>Image reproduced from Song Ong Siang, One Hundred Years’ History of the Chinese in Singapore (London: John Murray, 1923), 354. Collection of the National Library, Singapore. (Accession no.: B20048226B).</i></div>
+<div style="background-color: white;">Wong Din Haan was the second daughter of Wong Ah Fook, who came to Singapore in 1854 as a carpenter. He was responsible for the construction of a number of Johor’s heritage buildings, including the Istana Besar, the royal palace of the Sultan of Johor. Jalan Wong Ah Fook in downtown Johor Bahru is named after him. <i>Image reproduced from Song Ong Siang, One Hundred Years’ History of the Chinese in Singapore (London: John Murray, 1923), 354. Collection of the National Library, Singapore. (Accession no.: B20048226B).</i></div>
 
 It was much later that I discovered she was known by another name. I had attended a lecture by Professor Zheng Liang Shu (郑良树; Tay Liang Soo) of Southern University College, Johor, where he spoke about the pioneer educator Wong Din Haan (黄典娴; Huang Dian Xian). The second daughter of Wong Ah Fook, my grandaunt founded what he described as the first school for girls in Singapore.[^3]
 
 I was confused because no one in the family seemed to know about the existence of this girls’ school until I asked one of my uncles, Pang Heng Hung. He confirmed that she was indeed the founder of a school known as Wah Kiew Nui Hok (华侨女校), which was located on New Bridge Road. His mother was Wong Bee Soo, Wong Din Haan’s younger sister, who had been a teacher in the school.
 
-![Alt text for image on Isomer site](/images/vol-17-issue-4/Wong-Din-Haan/New-Bridge-Road.jpg)
+![Alt text for image on Isomer site](/images/vol-17-issue-4/Wong-Din-Haan/New-Bridge-Road2.jpg)
 <div style="background-color: white;">New Bridge Road, looking towards the Sepoy Lines, c. 1906. <i>Courtesy of National Archives of Singapore.</i></div>
 
 #### **Pioneer in Female Education** 
@@ -37,6 +37,9 @@ Together with my grandmother, Mah Lai Wan (马励芸), grandfather founded a gir
 
 Grandfather must have communicated his enthusiasm to his father because Wong Ah Fook was among the group of Cantonese businessmen in Singapore who founded Yeung Ching Hok Hau (养正学校) for boys in 1905. It is best remembered by the impressive building on Club Street that it occupied from 1918 to 1956. The school is known today as Yangzheng Primary School and is located along Serangoon Avenue 3. 
 
+![Alt text for image on Isomer site](/images/vol-17-issue-4/Wong-Din-Haan/Yeung-Ching-School.jpg)
+<div style="background-color: white;">Yeung Ching School (养正学校) on Club Street, Singapore, 1948. The school was founded by Wong Ah Fook and a group of Cantonese businessmen on Park Road in 1905. It moved to Club Street in 1918. The school is known today as Yangzheng Primary School and is located along Serangoon Avenue 3. <i>Yeung Ching Primary School Collection, courtesy of National Archives of Singapore.</i></div>
+
 Grandfather’s sister Wong Bee Ho, who had adopted the alternate name of Wong Din Haan, was affected by the same zeal: she founded Wah Kiew Nui Hok in Singapore in the same year and became its headmistress.[^6]  
 
 She was much admired as headmistress. Every morning at 8 am, she would arrive punctually at the school and leave at 4 pm in the afternoon. Although she never uttered a word during board meetings but just listened intently from the corner, she cared deeply for the school. Newspaper reports of the day praised her courage and determination.
@@ -46,9 +49,6 @@ Both Yeung Ching and Wah Kiew schools used Cantonese as the language of instruct
 After 13 years, Wah Kiew Nui Hok ceased operations in 1918 – the same year that Wong Ah Fook passed away.[^7] This suggests that he might have been the main financial benefactor of the school. However, the school probably also faced resistance from the conservative Chinese society, which was not yet ready for the education of females. The traditional view held by many then was that girls need not be educated as their primary roles in life were to be a good daughter, wife and mother.
 
 However, Wong Din Haan’s school was a pioneer in female education in that it inspired the establishment of five more Chinese girls’ schools in Singapore during its lifespan.[^8] Of these five schools, Nam Wah Nui Hok (南华女学) founded in 1917 has continued to the present day as Nan Hua High School (南华中学), a premier school for boys and girls.[^9] 
-
-![Alt text for image on Isomer site](/images/vol-17-issue-4/Wong-Din-Haan/Yeung-Ching-School.jpg)
-<div style="background-color: white;">Yeung Ching School (养正学校) on Club Street, Singapore, 1948. The school was founded by Wong Ah Fook and a group of Cantonese businessmen on Park Road in 1905. It moved to Club Street in 1918. The school is known today as Yangzheng Primary School and is located along Serangoon Avenue 3. <i>Yeung Ching Primary School Collection, courtesy of National Archives of Singapore.</i></div>
 
 This was probably her most important legacy to Singapore as she recognised the importance of educating women for their own personal development and advancement in society. She was the first woman who had the courage and the nerve to leave the comfortable seclusion of home to push for the education of women in the face of conservative opinion.
 
