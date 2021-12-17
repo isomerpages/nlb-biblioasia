@@ -50,7 +50,7 @@ One of Makepeace’s co-editors on the book, Gilbert Edward Brooke (1873–1936)
 
 The third and last co-editor, Roland St. John Braddell (1880–1966) was a prominent lawyer who also served as private legal advisor to Sultan Ibrahim of Johor for several years.[^9] Braddell wrote many legal and historical publications about Singapore and Malaya, including *The Lights of Singapore* and *The Law of the Straits Settlements: A Commentary*, and was very active in public affairs. He was the first president of the Singapore Rotary Club, president of the Malayan Branch of the Royal Asiatic Society and a member of the Singapore Centenary Committee,[^10] among other positions. His contribution to the book included two articles on law and crime and another two on the colony’s history.
 
-*One Hundred Years of Singapore* comprises two volumes of about 600 pages each. The two volumes featured in the facing page are the original copies in the National Library’s collection that have been rebound.
+*One Hundred Years of Singapore* comprises two volumes of about 600 pages each. The two volumes featured above are the original copies in the National Library’s collection that have been rebound.
 
 – Written by Ang Seow Leng
 
