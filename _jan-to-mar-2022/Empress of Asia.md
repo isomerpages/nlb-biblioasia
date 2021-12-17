@@ -113,7 +113,7 @@ As for the _Asia_, various salvage efforts were undertaken over the years. In 19
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-17-issue-4/authors/FarisJoraimi.png" style="width: 100px; height: 100px;" />
+<img src="/images/vol-17-issue-4/authors/Dan-Black.png" style="width: 100px; height: 100px;" />
   <b>Dan Black</b> is former editor of <i>Legion Magazine</i>, a publication on Canada’s military history. He has written many editorials and feature articles on Canada’s military past and present for the award-winning magazine. His third book, <i>Harry Livingstone’s Forgotten Men: Canadians and the Chinese Labour Corps in the First World War</i>, was published in 2019. He is currently working on a book about the <i>Empress of Asia</i> with researcher Nelson Oliver. </div>
   
 #### **NOTES**
