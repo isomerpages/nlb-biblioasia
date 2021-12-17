@@ -162,7 +162,7 @@ Beyond planting more trees, the OneMillionTrees Movement is about, as Minister f
 
 [^26]: Justin Ong, “PM Lee Plants Same Type of Tree on Annual Tree Planting Day as Father Did in 1963,” _The Straits Times_, 20 November 2021, https://www.straitstimes.com/singapore/community/pm-lee-plants-symbolic-cherry-blossom-like-tree-as-ang-mo-kio-steps-up-green
 
-[^27]: Azra Moiz, [_The Singapore Green Plan: Action Programmes_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6644501) (Singapore: Times Editions Pte Ltd, 1993), 9–10. (From National Library, Singapore, Call no. RSING 363.7095957 SIN)
+[^27]: Azra Moiz, [_The Singapore Green Plan: Action Programmes_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6644501) (Singapore: Times Editions Pte Ltd, 1993), 9–10. (From National Library, Singapore, Call no. RSING 363.7095957 SIN) 
 
 [^28]: Audrey Tan, “Singapore Green Plan 2030 to Change the Way People Live, Work, Study and Play,” _Straits Times_, 10 February 2021, https://www.straitstimes.com/singapore/environment/singapore-green-plan-2030-to-change-the-way-people-live-work-study-and-play; Ang Hwee Min and Mathew Mohan, “Singapore Unveils Green Plan 2030, Outlines Green Targets for Next 10 Years,” _Channel NewsAsia_, 10 February 2021, https://www.channelnewsasia.com/news/singapore/singapore-green-plan-2030-targets-10-years-14161356
 
