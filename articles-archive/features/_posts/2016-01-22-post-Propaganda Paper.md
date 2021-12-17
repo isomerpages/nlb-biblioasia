@@ -37,13 +37,13 @@ description: ""
 <br>
 <b>Accession nos.:</b> B03864704J</span>
 
+<div style="background-color: white;"><img style="width:500px" src="/images/vol-11-issue-4/propaganda-paper/01a_propagandapaper.jpg">The front page of <i>The Syonan Times</i> dated 21 February 1942. <i>All rights reserved, National Library Board, Singapore.</i></div>
+
 For a brief period in its history – 43 months to be exact, during World War II – Singapore was known by a different name. Between 15 February 1942 and 12 September 1945, Japanese-occupied Singapore was referred to as Syonan-to (昭南島), or “Brilliant Southern Island”, by its new masters.[^1]
 
 Syonan-to soon became a regional distribution centre for news, magazines and Japanese propaganda. Among the publications were two Singapore-based dailies that borrowed the island’s wartime name. Positioned as the leading broadsheets for the Southern Regions – Japan’s name for its annexed territories in Southeast Asia – the newspapers today provide a wealth of archival information about daily life during the Occupation years.[^2]
 
 The first issue of *The Shonan Times*, dated 20 February 1942, was printed in English at 140 Cecil Street, the former premises of *The Straits Times*, Singapore’s English daily that the Japanese forces took over. The very next day, the paper was renamed *The Syonan Times*  and sold  for five cents each.[^3] On 8 December 1942, the publication was renamed again, to *Syonan Sinbun*, this time in commemoration of the first anniversary of the Dai Toa Senso (Greater East Asia War). Its price was hiked to seven cents and a Japanese morning edition was introduced, with the English version turned into an afternoon edition.[^4] On the second anniversary of the war, the paper’s name was changed one final time to *The Syonan Shimbun*, which it retained until its last issue on 4 September 1945.[^5]
-
-<div style="background-color: white;"><img style="width:500px" src="/images/vol-11-issue-4/propaganda-paper/01a_propagandapaper.jpg">The front page of <i>The Syonan Times</i> dated 21 February 1942. <i>All rights reserved, National Library Board, Singapore.</i></div>
 
 A Chinese edition, *Zhaonan ri bao* (昭南日报), was introduced on 21 February, 1942. Priced at seven cents a copy, the paper was put together at the Robinson Road offices of *Xingzhou ri bao* (星洲日报), the pre-war Chinese newspaper.[^6] From November 1942, *Zhaonan ri bao* was issued only in the afternoons.[^7]
 
