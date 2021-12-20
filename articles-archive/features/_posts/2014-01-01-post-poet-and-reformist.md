@@ -5,7 +5,6 @@ permalink: /vol-9/issue-4/jan-march-2014/par
 image: /images/vol-9-issue-4/ch/NLB_KSW_Working.jpg
 layout: post
 ---
-
 #### 张人凤1940年生曾长期从事继续教育工作现为上海市文史研究馆馆员著有《张元济年谱长编》、《智民之师张元济》、《张元济研究文集》，编有十卷本《张元济全集》
 
 
@@ -35,7 +34,7 @@ Ren Feng (the first was published in <i>BiblioAsia</i> Oct–Dec 2013, Vol. 9 Is
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-9-issue-4/ch/Khoo_Seok_Wan_Collection.jpg">
+<img src="/images/vol-9-issue-4/ch/Khoo_Seok_Wan_Collection.jpg" style="width:70%;">
 附图 1. <i>All Rights Reserved, the late Khoo Seok Wan Collections, National Library Board, Singapore 2013. Courtesy of Ong Family, descendents of Khoo Seok Wan.</i></div>
 
 闻严又陵以译《天演论》得奇女子嫁之。亡人闻之，忘其忧患。妄欲论撰，以冀奇遇。以国事郁郁久矣，今日轩渠，可愈肝疾。写告观天演斋主，并寄贺译《天演》者。
@@ -69,7 +68,7 @@ Ren Feng (the first was published in <i>BiblioAsia</i> Oct–Dec 2013, Vol. 9 Is
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-9-issue-4/ch/Khoo_Seok_Wan_Collections_4.jpg">
+<img src="/images/vol-9-issue-4/ch/Khoo_Seok_Wan_Collections_4.jpg" style="width:70%;">
 附图 4. <i>All Rights Reserved, the late Khoo Seok Wan Collections, National Library Board, Singapore 2013. Courtesy of Ong Family, descendents of Khoo Seok Wan.</i></div>
 
 以唐才常为首的自立会1900年初在上海成立，及夏，八国联军攻陷北京，慈禧与光绪出亡西安。他们便以“勤王”为名，意图发动起义，推翻慈禧政权，“归政”于光绪。但一帮毫无军事、政治经验的书生，仓猝起事，能调动的力量都是无能之辈，甚至乌合之众，因此，在老谋深算、心狠手辣的湖广总督张之洞面前，即时失败，唐才常等人立遭杀害。康有为远在南洋，鞭长莫及，再说他也未必真有军事指挥的能力。邱菽园慷慨捐助自立军，一人一己之力，毕竟有限，资金流动的渠道不畅，究竟有多少可以达于自立军之手也很难说。康、邱在南洋面对的是无情的、严酷的事实。这对他们的友谊是极大的考验。更为严峻的考验是邱菽园被张之洞发现是自立军的主要资助人，于1900年多次致电清政府驻英国公使罗丰禄和驻新加坡总领事罗忠尧（按，当时新为英属地，清政府驻新领事隶属于驻英公使管辖）请其“劝导”邱菽园，与康有为断绝关系。此时，邱本人虽身居南洋，朝廷一时还奈何他不得，但他在福建原籍的家族，逃脱不了酷吏的手掌。于是邱立即在11月22日《天南日报》刊登启事，宣布“谢绝人事”，1901年6月，又有“报效闽赈银二万两，以明心迹”，以及10月22日在《天南新报》发表《论康有为》文，表示与康决裂。[^7]一次次被迫表态，终于使张之洞满意，奏请朝廷予以开脱罪责，一家满门始得活命。
