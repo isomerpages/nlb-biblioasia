@@ -171,7 +171,7 @@ The <i>sarabat</i> (original) stallholder or <i>bhai serbat</i>’s signature ta
 
 Cattlemen and milkmen were mostly Tamils from South India. Serangoon was a cattle-rearing area in Singapore before the activity was banned in 1936. <i>The Singapore Free Press</i> observed “a herd of 40 or 50 cattle which completely blocked the public thoroughfare [in Victoria Street]. Some of the animals were grazing along the Street; others were lying in the centre of the road while the herder, an old Kling man, was comfortably taking a nap on the ground under the shadow of the close hedge of a compound.”[^46]
 
-In the 1930s, the area between Cross Street and New Bridge Road was known as Kampong Susu (<i>milk kampong</i>) and the place lived up to its name from the many Indian milk sellers “identified by a tiny top knot of hair”.[^47] These Indian milkmen (or <i>bhai jual susu</i> to the Malays) ran door-to-door delivering fresh milk. Sometimes, the cow was milked on the spot: “[The milkmen came] with a cow and people [would] just buy the adulterated or diluted sort of thing. So fresh milk was really fresh...”[^48]
+In the 1930s, the area between Cross Street and New Bridge Road was known as Kampong Susu (milk <i>kampong</i>) and the place lived up to its name from the many Indian milk sellers “identified by a tiny top knot of hair”.[^47] These Indian milkmen (or <i>bhai jual susu</i> to the Malays) ran door-to-door delivering fresh milk. Sometimes, the cow was milked on the spot: “[The milkmen came] with a cow and people [would] just buy the adulterated or diluted sort of thing. So fresh milk was really fresh...”[^48]
 
 <div style="background-color: white;">
 <br/>
