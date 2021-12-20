@@ -7,36 +7,36 @@ description: ""
 ---
 ![Alt text for image on Isomer site](/images/vol-11-issue-4/ba11-4-1.jpg)
 
-**The Rare Materials Collection**
+**[The Rare Materials Collection](/vol-11/issue-4/jan-mar-2016/rare-materials)**
 
-**A Tribute Fit for a Prince**<br>
+**[A Tribute Fit for a Prince](/vol-11/issue-4/jan-mar-2016/alfred-duke-edinburgh)**<br>
 *Address to Alfred, Duke of Edinburgh by the Singapore Chinese Merchants on the Occasion of His Visit to Singapore in 1869*
 
-**A Missionary’s Guide to Java and Bali**<br>
+**[A Missionary’s Guide to Java and Bali](/vol-11/issue-4/jan-mar-2016/journal-java-bali-medhurst)**<br>
 *Journal of a Tour along the Coast of Java and Bali etc, with a Short Account of the Island of Bali Particularly of Bali Baliling*
 
-**Malaya Through One Man’s Eyes**<br>
+**[Malaya Through One Man’s Eyes](/vol-11/issue-4/jan-mar-2016/british-malaya-swettenham)**<br>
 *British Malaya: An Account of the Origin and Progress of British Influence in Malaya*
 
-**An Expat’s Impressions of Singapore**<br>
+**[An Expat’s Impressions of Singapore](/vol-11/issue-4/jan-mar-2016/history-singapore-buckley)**<br>
 *An Anecdotal History of Old Times in Singapore: From the Foundation of the Settlements Under the Honourable the East India Company, on February 6th, 1819, to the Transfer of the Colonial Office as Part of the Colonial Possessions of the Crown on April 1st, 1867*
 
-**A Bilingual Dictionary by a Scotsman**<br>
+**[A Bilingual Dictionary by a Scotsman](/vol-11/issue-4/jan-mar-2016/malay-dictionary-crawfurd)**<br>
 *A Grammar and Dictionary of the Malay Language with a Preliminary Dissertation*
 
-**Crawfurd on Southeast Asia**<br>
+**[Crawfurd on Southeast Asia](/vol-11/issue-4/jan-mar-2016/dictionary-indian-islands-crawfurd)**<br>
 *A Descriptive Dictionary of the Indian Islands & Adjacent Countries*
 
-**Notes on a Small Island**<br>
+**[Notes on a Small Island](/vol-11/issue-4/jan-mar-2016/journal-embassy-crawfurd)**<br>
 *Journal of an Embassy from the Governor-General of India to the Courts of Siam and Cochin  China: Exhibiting a View of the Actual State of Those Kingdoms*
 
-**A Portuguese Map of Sincapura**<br>
+**[A Portuguese Map of Sincapura](/vol-11/issue-4/jan-mar-2016/portuguese-map-sincapura-janssen)**<br>
 *Malaca, l’Inde Méridionale et le Cathay: Manuscrit Original Autographe de Godinho de Erédia, Appartenant a la Bibliothèque Royale de Bruxelles*
 
-**Celebrating a Centenary**<br>
+**[Celebrating a Centenary](/vol-11/issue-4/jan-mar-2016/one-hundred-years-singapore)**<br>
 *One Hundred Years of Singapore: Being Some Account of the Capital of the Straits Settlements from its Foundation by Sir Stamford Raffles on the 6th February 1819 to the 6th February 1919*
 
-**Logan’s Journal**<br>
+**[Logan’s Journal](/vol-11/issue-4/jan-mar-2016/indian-archipelago-eastern-asia-logan-journal)**<br>
 *The Journal of the Indian Archipelago and Eastern Asia*
 
 **Raffles’ Letters of Intrigue**<br>
