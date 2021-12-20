@@ -32,12 +32,11 @@ Thus most fundamentally, one’s “immortality” rests on the acclaim and reco
 
 Surely God would not have created such a being as man, with an ability to grasp the infinite, to exist only for a day! No, no, man was made for immortality. 
 
-<div style="text-align: right">—ABRAHAM LINCON</div>
+<div style="text-align: right">—ABRAHAM LINCOLN</div>
 
-<div style="background-color: white;">
 <br/>
 <img src="/images/vol-9-issue-4/enternity/Egyptian_Sulpture.jpg">
-Percy Bysshe Shelley was inspired by the imminent arrival of this colossal fractured statue of the Egyptian Pharaoh Ramesses II (image via Wikimedia Commons[^5]) in London to write his poem "Ozymandias" in 1818. The statue was acquired by the British Museum and remains a centrepiece of the museum.[^6]</div>
+Percy Bysshe Shelley was inspired by the imminent arrival of this colossal fractured statue of the Egyptian Pharaoh Ramesses II (image via Wikimedia Commons([^5]) in London to write his poem "Ozymandias" in 1818. The statue was acquired by the British Museum and remains a centrepiece of the museum.[^6]
 
 #### **Archiving and Immortality**
 
@@ -45,10 +44,9 @@ An archive is in effect a repository of memory — of records of legal, historic
 
 As records — “frozen in time” as it were — properly archived documents have a basic trustworthiness relative to other sources. Such archived documents can impart a lasting quality to works based on them. An example of this is the Justinian Code or “Corpus Juris Civilis”. Commissioned in 6th century CE by the Byzantine Emperor Justinian, the Code was based on centuries of carefully archived Roman legal precedents and remains the basis of much European civil law till today.[^7] Another example is the Historical Records of the Grand Historian Sima Qian, the famed court historian of the Han Dynasty. Written in the 1st century BCE, his work drew heavily on the Han imperial court archives and remains a classic and reliable resource on ancient Chinese history to this day.[^8]
 
-<div style="background-color: white;">
 <br/>
 <img src="/images/vol-9-issue-4/enternity/sima_qian.jpg">
-Painting of Sima Qian, who served as court historian during the Han Dynasty between 145/135–86 BCE. Image via Wikipedia Commons.[^9]</div>
+Painting of Sima Qian, who served as court historian during the Han Dynasty between 145/135–86 BCE. Image via Wikipedia Commons.[^9]
 
 As a primary function of an archive is to safekeep records that have been appraised and deemed worthy of preservation, documents selected for an archive's permanent collection acquire — by extension — a form of immortality. 
 
