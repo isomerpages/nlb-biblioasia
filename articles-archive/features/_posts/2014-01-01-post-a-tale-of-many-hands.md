@@ -49,7 +49,7 @@ His hands worked at the first watch plant in Singapore in 1973. Kok Kham Seng st
 <img src="/images/vol-9-issue-4/hands/mdm.jpg">
 Her hands worked for 67 years tailoring custom-made shirts. <i>Photography by Sean Lee.</i></div>
 
-“I try to go about the photo-making in as natural a way as possible for these folks. the main aim is to shoot them in their natural environment such as their homes or workplace so that they are comfortable. I avoid making them pose. I just want to create simple portraits where their personalities come through.” 
+“I try to go about the photo-making in as natural a way as possible for these folks. The main aim is to shoot them in their natural environment such as their homes or workplace so that they are comfortable. I avoid making them pose. I just want to create simple portraits where their personalities come through.” 
 <div style="text-align:right;">— Sean Lee</div>
 
 <div style="background-color: white;">
