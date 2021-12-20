@@ -180,6 +180,7 @@ To compile the list, the SIT took into account the age of the sites as well as t
 		<td>32 Sri Perumal Temple, 397 Serangoon Road</td>
   </tr>
 	</table>
+	<img src="/images/Vol-15-issue-2/to-wreck-or-to-recreate/Wreck4.JPG">
 </span>
 
 SIT’s heritage list was drawn up in consultation with a society known as Friends of Singapore. The society was founded in 1937 by the well-known lawyer Roland St John Braddell and other leading public figures, including Song Ong Siang, a prominent member of the Straits Chinese community who later served as the society’s first president. The society had included in its charter “the preservation of historical buildings and sites” as one of the projects it could initiate “for the embellishment or the cultural improvement of Singapore.”[^12]
@@ -208,8 +209,6 @@ In the initial years, urban renewal mainly concerned itself with the demolition 
 When the 1964 redevelopment of Precinct South 1 was rolled out, Outram Gaol, which was on the heritage list of the 1958 Master Plan, was demolished along with many colonial-era shop houses to make way for flats. In 1965, the privately owned Coleman House was razed to build the Peninsula Hotel, while other buildings, such as Raffles Institution and Killiney House, were pulled down in the 1970s to free up space for commercial projects.
 
 In less than a decade after the urban renewal programme was officially launched in 1966, nearly 300  acres of the  central area  had been redeveloped.[^21]  During the same period, the HDB built more than 130,000 flats in new housing estates. These provided accommodation for some 40 percent of the population, most of whom previously lived in the central area.[^22]
-
-<img src="/images/Vol-15-issue-2/to-wreck-or-to-recreate/Wreck4.JPG">
 
 #### **A Move Towards Conservation, Rehabilitation and Rebuilding**
 
