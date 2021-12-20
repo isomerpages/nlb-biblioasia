@@ -96,7 +96,6 @@ As early as 1980, Cathay was already considering shuttering the drive-in but dec
 
 Cathay also blamed video pirates for poor attendance figures and the slump in the film industry. “Video pirates have been taking advantage of Singapore’s loose copyright laws. They have even been advertising their videotape rental services,” said Cathay spokesperson Geraldine Lee in 1985. According to Lee, about 200 people were going to the drive-in cinema for its two daily screenings and the situation was no better on weekends.[^29]
 
- 
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/movies-beneath/Close.png)
 <div style="background-color: white;"> Jurong Drive-in Cinema announcing that it will close for good after its last show on 30 September 1985. <i>Image reproduced from The Straits Times, 29 September 1985, 10. (From NewspaperSG).
  </i></div>
