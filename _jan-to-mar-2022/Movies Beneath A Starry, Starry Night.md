@@ -162,17 +162,17 @@ As these examples demonstrate, there is still a market for the occasional drive-
 
 [^14]: Lim, [*Cathay*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=6095688), 69.
 
-[^15]: “[*It’s Curtains for Jurong Drive-in Tomorrow.*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850929.2.24.1.aspx)”
+[^15]: “[It’s Curtains for Jurong Drive-in Tomorrow.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850929.2.24.1.aspx)”
 
-[^16]: J.W., “[*The Mad Scramble to Get Out First*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19721024-1.2.72.8),”*Straits Times*, 24 October 1972, 8. (From NewspaperSG)
+[^16]: J.W., “[The Mad Scramble to Get Out First](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19721024-1.2.72.8),”*Straits Times*, 24 October 1972, 8. (From NewspaperSG)
 
-[^17]: “[*The Mad Scramble to Get Out First.*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19721024-1.2.72.8)”
+[^17]: “[The Mad Scramble to Get Out First.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19721024-1.2.72.8)”
 
-[^18]: “[*Untitled*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19721124-1.2.98.6),” *Straits Times*, 24 November 1972, 21. (From NewspaperSG)
+[^18]: “[Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19721124-1.2.98.6),” *Straits Times*, 24 November 1972, 21. (From NewspaperSG)
 
-[^19]: Mid-Nightmare, “[*Too Noisy to Sleep,*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820824-1.2.59.10.1)” *Straits Times*, 24 August 1982, 15. (From NewspaperSG)
+[^19]: Mid-Nightmare, “[Too Noisy to Sleep,](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820824-1.2.59.10.1)” *Straits Times*, 24 August 1982, 15. (From NewspaperSG)
 
-[^20]: Yeow Shang Ying, “[*Action Taken at Drive-in,” *Straits Times*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820927-1.2.71.4.1)*, 27 September 1982, 15. (From NewspaperSG)
+[^20]: Yeow Shang Ying, “[Action Taken at Drive-in],”(http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820927-1.2.71.4.1) *Straits Times*, 27 September 1982, 15. (From NewspaperSG)
 
 [^21]: “ [*Jurong Police Keeping Watch on Drive-In*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19830306-1.2.3.5),” *Singapore Monitor*, 6 March 1983, 3. (From NewspaperSG)
 
