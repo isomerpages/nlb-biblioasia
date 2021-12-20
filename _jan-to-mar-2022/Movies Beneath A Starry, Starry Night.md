@@ -198,7 +198,7 @@ As these examples demonstrate, there is still a market for the occasional drive-
 
 [^32]: “[Jurong Plans Cinema to Pull Crowds Back](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper19890930-1.2.3.3),” *New Paper*, 30 September 1989, 2. (From NewspaperSG); “Back Then When Jurong’s Drive-in Cinema Was All the Rage,” Remember Singapore, 15 September 2020, https://remembersingapore.org/2020/09/15/jurong-drive-in-cinema-history/.
 
-[^33]: “[*Movie Bonuses at Fringe Fest*](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19960501.2.64.6.1),” *Straits Times*, 1 May 1996, 7. (From NewspaperSG)
+[^33]: “[Movie Bonuses at Fringe Fest](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19960501.2.64.6.1),” *Straits Times*, 1 May 1996, 7. (From NewspaperSG)
 
 [^34]: How Hwee Young, “[*Reliving the Good Old Days*](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20030223-1.2.7.4),” *Straits Times*, 23 February 2003, 4. (From NewspaperSG)
 
