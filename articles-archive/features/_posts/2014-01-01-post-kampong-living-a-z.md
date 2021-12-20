@@ -95,7 +95,7 @@ The aim of this game is to get a free piggyback ride from your opponent (picture
 
 #### **Lambong Tin (or "Hide-And-Seek", "I Spy" or Nyorok-Nyorok)**
 
-Prior to the start of the game, a pasang (Malay for catcher) or spy would be selected via oh somm or oh beh som or wah peh ya som (see text box). next, everyone would gather around and one player would shake a tin that had been filled with stones and then fling it. The moment the tin was flung, everyone would disperse. 
+Prior to the start of the game, a pasang (Malay for catcher) or spy would be selected via <i>oh somm</i> or <i>oh beh som<i> or <i>wah peh ya som</i> (see text box). next, everyone would gather around and one player would shake a tin that had been filled with stones and then fling it. The moment the tin was flung, everyone would disperse. 
 
 The <i>pasang</i> would have to run to the tin and bring it back and shout “I spy!” which signalled that the game had started proper. If players needed a time-out they would signal for a break by making the “peace” sign with their fingers and shout <i>“chope”</i>, <i>“chope night”</i>, or <i>“chope twist”</i>! it would be honoured and everyone could take a break.
 
