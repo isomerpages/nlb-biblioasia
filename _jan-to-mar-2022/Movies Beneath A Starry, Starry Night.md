@@ -134,9 +134,9 @@ As these examples demonstrate, there is still a market for the occasional drive-
 
 #### **NOTES**
 
-[^1]: “[*Cathay’s Jurong Drive-in Cinema*](http://eresources.nlb.gov.sg/newspapers/Digitised/Page/straitstimes19710714-1.1.18),” *Straits Times* , 14 July 1971, 18. (From NewspaperSG)
+[^1]: “[Cathay’s Jurong Drive-in Cinema](http://eresources.nlb.gov.sg/newspapers/Digitised/Page/straitstimes19710714-1.1.18),” *Straits Times* , 14 July 1971, 18. (From NewspaperSG)
 
-[^2]: “[*Cathay’s Jurong Drive-in Cinema*](http://eresources.nlb.gov.sg/newspapers/Digitised/Page/straitstimes19710714-1.1.18)”; *Lim Kay Tong*, “[*Some Close Encounters at the Drive-in*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19831218-1.2.124.17.1),” *Straits Times*, 18 December 1983, 9. (From NewspaperSG)
+[^2]: “[Cathay’s Jurong Drive-in Cinema](http://eresources.nlb.gov.sg/newspapers/Digitised/Page/straitstimes19710714-1.1.18)”; *Lim Kay Tong*, “[Some Close Encounters at the Drive-in](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19831218-1.2.124.17.1),” *Straits Times*, 18 December 1983, 9. (From NewspaperSG)
 
 [^3]: “[*Cathay’s Jurong Drive-in Cinema*](http://eresources.nlb.gov.sg/newspapers/Digitised/Page/straitstimes19710714-1.1.18)”; “[*S’pore’s First Drive-in Cinema Opens in June*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710413-1.2.72),” *Straits Times*, 13 April 1971, 9. (From NewspaperSG)
 
