@@ -27,7 +27,7 @@ If you missed “Hands: Gift of a Generation” at the national Library, you can
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-9-issue-4/hands/sean_lee.jpg">
+<img src="/images/vol-9-issue-4/hands/sean_lee.jpg" style="width:70%;">
 Sean Lee photographing a ‘Hands’ profile. <i>Courtesy of Tan Huism.</i></div>
 
 “I was in full appreciation of the exhibition — it presented experiences of individuals and their contributions in a very unobtrusive way; the photographs were organic and aesthetic in composition capturing the individual in their natural element. The photographs also, I thought, teased the visitor into guessing who the individual might be, providing an experience of discovery.” 
@@ -36,12 +36,12 @@ Sean Lee photographing a ‘Hands’ profile. <i>Courtesy of Tan Huism.</i></div
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-9-issue-4/hands/hedwig_anuar.jpg">
+<img src="/images/vol-9-issue-4/hands/hedwig_anuar.jpg" style="width:70%;">
 Her hands promoted reading and libraries. Hedwig Anuar nee Aroozoo was the former Director of the National Library (1965–1988). <i>Photography by Sean Lee.</i></div>
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-9-issue-4/hands/mr_kok.jpg">
+<img src="/images/vol-9-issue-4/hands/mr_kok.jpg" style="width:70%;">
 His hands worked at the first watch plant in Singapore in 1973. Kok Kham Seng still works at Seiko Instruments. <i>Photography by Sean Lee.</i></div>
 
 <div style="background-color: white;">
@@ -54,7 +54,7 @@ Her hands worked for 67 years tailoring custom-made shirts. <i>Photography by Se
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-9-issue-4/hands/m_siraj.jpg">
+<img src="/images/vol-9-issue-4/hands/m_siraj.jpg" style="width:70%;">
 Her hands worked to bring rights and protection for Muslim women. Mrs Mohamed Siraj co-founded the Young Women's Muslim Association (1952) and the Muslim Women's Welfare Council (1964). <i>Photography by Sean Lee.</i></div>
 
 <div style="background-color: white;">
@@ -64,7 +64,7 @@ From her mid 30s till her 70s, her hands laboured on her husband’s farm planti
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-9-issue-4/hands/mr_kadir.jpg">
+<img src="/images/vol-9-issue-4/hands/mr_kadir.jpg" style="width:70%;">
 His hands punched their way to represent Singapore in the Olympics in 1972. Syed Abdul Kadir now coaches the new generation boxers. <i>Photography by Sean Lee.</i></div>
 
 <div style="background-color: white;">
