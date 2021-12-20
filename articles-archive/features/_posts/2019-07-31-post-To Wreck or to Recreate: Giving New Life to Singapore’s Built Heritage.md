@@ -36,33 +36,6 @@ Despite the lack of funds, the need to preserve historic sites was included in t
 
 To compile the list, the SIT took into account the age of the sites as well as their historical and architectural significance. It also consulted members of the Committee for the Preservation of Historic Sites and Antiquities, including Gibson-Hill and Hancock.[^10] For this reason, the SIT’s heritage list was quite similar to the one drawn up by the preservation committee, with 20 of the 32 sites identified by the SIT found on the earlier list. The new additions included Outram Gaol, 3 Oxley Rise (or Killiney House), Kampong Radin Mas cemetery and the Indian cemetery in Geylang.[^11] SIT’s list, like the one drawn by the preservation committee, comprised both secular and non-secular sites and buildings, underlining the deference the colonial government accorded to the religions observed by its resident communities (refer to the table below).
 
-SIT’s heritage list was drawn up in consultation with a society known as Friends of Singapore. The society was founded in 1937 by the well-known lawyer Roland St John Braddell and other leading public figures, including Song Ong Siang, a prominent member of the Straits Chinese community who later served as the society’s first president. The society had included in its charter “the preservation of historical buildings and sites” as one of the projects it could initiate “for the embellishment or the cultural improvement of Singapore.”[^12]
-
-During its formative years, however, Friends of Singapore achieved little in terms of conserving Singapore’s historic landmarks. It was only in 1955 that the society made some progress when it launched a public campaign calling for the preservation of Coleman House (built in 1829 as the private residence of prolific colonial architect George D. Coleman) and the commemoration of the 1942 battle site in Pasir Panjang, where the Malay regiment fought the Japanese Army.[^13]
-
-Arguing that the scheme was for the “improvement of the city and the benefit of the people”, the society planned to restore Coleman House and turn it into “a home of the arts”, where exhibitions and concerts could be held. To support its case, the society published a pamphlet detailing the historical significance and the architectural value of the house.[^14]  As for the Pasir Panjang battle site, the society opposed the War Department’s plan to construct a mess hall there and recommended that a commemorative park be created instead.[^15]
-
-Besides Coleman House and the battle site, Friends of Singapore also made public calls for nature sites such as Bukit Timah and Ulu Pandan to be preserved and turned into proper nature parks to attract tourists.[^16] In addition, in 1957, the society came out to support the SIT when Chartered Bank Trustee Company, the owner of Killiney House at 3 Oxley Rise – built by Thomas Oxley, surgeon-general of the Straits Settlements – tried to have the 1842 property removed from the 1958 Master Plan heritage site list as he was worried that the “ancient monument” status of the house would affect its sale price.
-
-During the inquiry, the society gave evidence to explain why Killiney House should be preserved, pointing out that it was one of the last surviving “planter’s home” from the 1840s, and among the first residences built in the island’s interior. In addition, the house had a dovecote to house pigeons and stables for horses, which made it architecturally unique in the Straits Settlements.[^17]
-
-<img src="/images/Vol-15-issue-2/to-wreck-or-to-recreate/Wreck3.JPG">
-<div style="background-color: white;">This stately house at 3 Oxley Rise (Killiney House) was built in 1842 by Dr Thomas Oxley, Surgeon General of the Straits Settlements and after whom Oxley Rise was named. When Jewish businessman Manasseh Meyer bought the house in 1890, he renamed it Belle Vue. The house was demolished in 1982 to make way for a private housing estate. <i>Ronni Pinsler Collection, courtesy of National Archives of Singapore.</i></div>
-
-#### **Demolition and Urban Renewal**
-
-When the People’s Action Party (PAP) came into power in 1959, preserving Singapore’s built heritage was initially accorded little, if any, attention. The new government had other more pressing concerns, chief of which was to improve the housing situation.[^18]
-
-It was estimated that in 1960, a quarter of a million people were living in overcrowded slums in the 688-hectare city centre, and another one-third in squatter areas – all of whom urgently needed rehousing. Many structures in the city centre were at least a century old and falling apart or had been crudely built by the squatters. Besides being potential fire hazards, these homes also lacked proper ventilation and sanitation. In addition, most were only two or three storeys high, and thus made uneconomical use of valuable land.[^19]
-
-To solve the problem, the government launched an aggressive public housing programme in 1960 to build housing estates beyond the city centre. The Housing & Development Board (HDB) replaced the SIT, while the Urban Renewal Department (URD; the predecessor of today’s Urban Redevelopment Authority) was created as a department under the HDB to spearhead an urban renewal programme for redeveloping the central area.
-
-In the initial years, urban renewal mainly concerned itself with the demolition of old buildings, clearing of slums, resettlement of the people from the city centre, and the planning of new buildings that maximised the redevelopment potential of the land. As the aim was “the gradual demolition of virtually the whole 1,500-odd acres of the old city and its replacement by an integrated modern city”,[^20] the priority to preserve historic sites was very low.
-
-When the 1964 redevelopment of Precinct South 1 was rolled out, Outram Gaol, which was on the heritage list of the 1958 Master Plan, was demolished along with many colonial-era shop houses to make way for flats. In 1965, the privately owned Coleman House was razed to build the Peninsula Hotel, while other buildings, such as Raffles Institution and Killiney House, were pulled down in the 1970s to free up space for commercial projects.
-
-In less than a decade after the urban renewal programme was officially launched in 1966, nearly 300  acres of the  central area  had been redeveloped.[^21]  During the same period, the HDB built more than 130,000 flats in new housing estates. These provided accommodation for some 40 percent of the population, most of whom previously lived in the central area.[^22]
-
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
 <table span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; ">
 		<b>Heritage Sites Identified in Postwar Singapore</b><br>
@@ -208,6 +181,33 @@ In less than a decade after the urban renewal programme was officially launched 
   </tr>
 	</table>
 </span>
+
+SIT’s heritage list was drawn up in consultation with a society known as Friends of Singapore. The society was founded in 1937 by the well-known lawyer Roland St John Braddell and other leading public figures, including Song Ong Siang, a prominent member of the Straits Chinese community who later served as the society’s first president. The society had included in its charter “the preservation of historical buildings and sites” as one of the projects it could initiate “for the embellishment or the cultural improvement of Singapore.”[^12]
+
+During its formative years, however, Friends of Singapore achieved little in terms of conserving Singapore’s historic landmarks. It was only in 1955 that the society made some progress when it launched a public campaign calling for the preservation of Coleman House (built in 1829 as the private residence of prolific colonial architect George D. Coleman) and the commemoration of the 1942 battle site in Pasir Panjang, where the Malay regiment fought the Japanese Army.[^13]
+
+Arguing that the scheme was for the “improvement of the city and the benefit of the people”, the society planned to restore Coleman House and turn it into “a home of the arts”, where exhibitions and concerts could be held. To support its case, the society published a pamphlet detailing the historical significance and the architectural value of the house.[^14]  As for the Pasir Panjang battle site, the society opposed the War Department’s plan to construct a mess hall there and recommended that a commemorative park be created instead.[^15]
+
+Besides Coleman House and the battle site, Friends of Singapore also made public calls for nature sites such as Bukit Timah and Ulu Pandan to be preserved and turned into proper nature parks to attract tourists.[^16] In addition, in 1957, the society came out to support the SIT when Chartered Bank Trustee Company, the owner of Killiney House at 3 Oxley Rise – built by Thomas Oxley, surgeon-general of the Straits Settlements – tried to have the 1842 property removed from the 1958 Master Plan heritage site list as he was worried that the “ancient monument” status of the house would affect its sale price.
+
+During the inquiry, the society gave evidence to explain why Killiney House should be preserved, pointing out that it was one of the last surviving “planter’s home” from the 1840s, and among the first residences built in the island’s interior. In addition, the house had a dovecote to house pigeons and stables for horses, which made it architecturally unique in the Straits Settlements.[^17]
+
+<img src="/images/Vol-15-issue-2/to-wreck-or-to-recreate/Wreck3.JPG">
+<div style="background-color: white;">This stately house at 3 Oxley Rise (Killiney House) was built in 1842 by Dr Thomas Oxley, Surgeon General of the Straits Settlements and after whom Oxley Rise was named. When Jewish businessman Manasseh Meyer bought the house in 1890, he renamed it Belle Vue. The house was demolished in 1982 to make way for a private housing estate. <i>Ronni Pinsler Collection, courtesy of National Archives of Singapore.</i></div>
+
+#### **Demolition and Urban Renewal**
+
+When the People’s Action Party (PAP) came into power in 1959, preserving Singapore’s built heritage was initially accorded little, if any, attention. The new government had other more pressing concerns, chief of which was to improve the housing situation.[^18]
+
+It was estimated that in 1960, a quarter of a million people were living in overcrowded slums in the 688-hectare city centre, and another one-third in squatter areas – all of whom urgently needed rehousing. Many structures in the city centre were at least a century old and falling apart or had been crudely built by the squatters. Besides being potential fire hazards, these homes also lacked proper ventilation and sanitation. In addition, most were only two or three storeys high, and thus made uneconomical use of valuable land.[^19]
+
+To solve the problem, the government launched an aggressive public housing programme in 1960 to build housing estates beyond the city centre. The Housing & Development Board (HDB) replaced the SIT, while the Urban Renewal Department (URD; the predecessor of today’s Urban Redevelopment Authority) was created as a department under the HDB to spearhead an urban renewal programme for redeveloping the central area.
+
+In the initial years, urban renewal mainly concerned itself with the demolition of old buildings, clearing of slums, resettlement of the people from the city centre, and the planning of new buildings that maximised the redevelopment potential of the land. As the aim was “the gradual demolition of virtually the whole 1,500-odd acres of the old city and its replacement by an integrated modern city”,[^20] the priority to preserve historic sites was very low.
+
+When the 1964 redevelopment of Precinct South 1 was rolled out, Outram Gaol, which was on the heritage list of the 1958 Master Plan, was demolished along with many colonial-era shop houses to make way for flats. In 1965, the privately owned Coleman House was razed to build the Peninsula Hotel, while other buildings, such as Raffles Institution and Killiney House, were pulled down in the 1970s to free up space for commercial projects.
+
+In less than a decade after the urban renewal programme was officially launched in 1966, nearly 300  acres of the  central area  had been redeveloped.[^21]  During the same period, the HDB built more than 130,000 flats in new housing estates. These provided accommodation for some 40 percent of the population, most of whom previously lived in the central area.[^22]
 
 <img src="/images/Vol-15-issue-2/to-wreck-or-to-recreate/Wreck4.JPG">
 
