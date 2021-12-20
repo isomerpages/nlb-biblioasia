@@ -188,13 +188,13 @@ As these examples demonstrate, there is still a market for the occasional drive-
 
 [^27]: “[Jurong Drive-in’s Lot is an Unhappy One](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19811210-1.2.57).” *Straits Times*, 10 December 1981, 11. (From NewpaperSG)
 
-[^28]:“[*Jurong Drive-in’s Lot is an Unhappy One.*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19811210-1.2.57)”
+[^28]:“[Jurong Drive-in’s Lot is an Unhappy One.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19811210-1.2.57)”
 
-[^29]:“[*It’s Curtains for Jurong Drive-in Tomorrow.*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850929.2.24.1.aspx)”
+[^29]:“[It’s Curtains for Jurong Drive-in Tomorrow.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850929.2.24.1.aspx)”
 
-[^30]: “[*It’s Curtains for Jurong Drive-in Tomorrow*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850929.2.24.1.aspx)”; “[*Dismay at Drive-in*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850929-1.2.5),” *Straits Times*, 29 September 1985, 1; “[*Page 4 Advertisements Column 2*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850929-1.2.57.8.2),” *Straits Times*, 29 September 1985, 4. (From NewspaperSG); “The Woman of Wrath,” Letterboxd, accessed 23 July 2021, https://letterboxd.com/film/the-woman-of-wrath/.
+[^30]: “[It’s Curtains for Jurong Drive-in Tomorrow](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850929.2.24.1.aspx)”; “[Dismay at Drive-in](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850929-1.2.5),” *Straits Times*, 29 September 1985, 1; “[Page 4 Advertisements Column 2](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850929-1.2.57.8.2),” *Straits Times*, 29 September 1985, 4. (From NewspaperSG); “The Woman of Wrath,” Letterboxd, accessed 23 July 2021, https://letterboxd.com/film/the-woman-of-wrath/.
 
-[^31]: Uhde and Uhde, [*Latent Images*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=13186916), 198; “[*It’s Curtains for Jurong Drive-in Tomorrow.*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850929.2.24.1.aspx)”
+[^31]: Uhde and Uhde, [*Latent Images*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=13186916), 198; “[It’s Curtains for Jurong Drive-in Tomorrow.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850929.2.24.1.aspx)”
 
 [^32]: “[*Jurong Plans Cinema to Pull Crowds Back*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper19890930-1.2.3.3),” *New Paper*, 30 September 1989, 2. (From NewspaperSG); “Back Then When Jurong’s Drive-in Cinema Was All the Rage,” Remember Singapore, 15 September 2020, https://remembersingapore.org/2020/09/15/jurong-drive-in-cinema-history/.
 
