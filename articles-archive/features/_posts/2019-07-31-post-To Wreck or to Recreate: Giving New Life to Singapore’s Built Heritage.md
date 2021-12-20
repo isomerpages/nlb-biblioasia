@@ -6,7 +6,6 @@ layout: post
 image: /images/Vol-15-issue-2/to-wreck-or-to-recreate/Wreck1.JPG
 description: ""
 ---
-
 #### Nearly 70 years have passed since a committee was set up to look into the preservation of buildings and sites with historical value. **Lim Tin Seng** charts the journey.
 
 <img src="/images/Vol-15-issue-2/to-wreck-or-to-recreate/Wreck1.JPG">
@@ -37,9 +36,6 @@ Despite the lack of funds, the need to preserve historic sites was included in t
 
 To compile the list, the SIT took into account the age of the sites as well as their historical and architectural significance. It also consulted members of the Committee for the Preservation of Historic Sites and Antiquities, including Gibson-Hill and Hancock.[^10] For this reason, the SIT’s heritage list was quite similar to the one drawn up by the preservation committee, with 20 of the 32 sites identified by the SIT found on the earlier list. The new additions included Outram Gaol, 3 Oxley Rise (or Killiney House), Kampong Radin Mas cemetery and the Indian cemetery in Geylang.[^11] SIT’s list, like the one drawn by the preservation committee, comprised both secular and non-secular sites and buildings, underlining the deference the colonial government accorded to the religions observed by its resident communities (refer to the table below).
 
-<img src="/images/Vol-15-issue-2/to-wreck-or-to-recreate/Wreck3.JPG">
-<div style="background-color: white;">This stately house at 3 Oxley Rise (Killiney House) was built in 1842 by Dr Thomas Oxley, Surgeon General of the Straits Settlements and after whom Oxley Rise was named. When Jewish businessman Manasseh Meyer bought the house in 1890, he renamed it Belle Vue. The house was demolished in 1982 to make way for a private housing estate. <i>Ronni Pinsler Collection, courtesy of National Archives of Singapore.</i></div>
-
 SIT’s heritage list was drawn up in consultation with a society known as Friends of Singapore. The society was founded in 1937 by the well-known lawyer Roland St John Braddell and other leading public figures, including Song Ong Siang, a prominent member of the Straits Chinese community who later served as the society’s first president. The society had included in its charter “the preservation of historical buildings and sites” as one of the projects it could initiate “for the embellishment or the cultural improvement of Singapore.”[^12]
 
 During its formative years, however, Friends of Singapore achieved little in terms of conserving Singapore’s historic landmarks. It was only in 1955 that the society made some progress when it launched a public campaign calling for the preservation of Coleman House (built in 1829 as the private residence of prolific colonial architect George D. Coleman) and the commemoration of the 1942 battle site in Pasir Panjang, where the Malay regiment fought the Japanese Army.[^13]
@@ -49,6 +45,9 @@ Arguing that the scheme was for the “improvement of the city and the benefit o
 Besides Coleman House and the battle site, Friends of Singapore also made public calls for nature sites such as Bukit Timah and Ulu Pandan to be preserved and turned into proper nature parks to attract tourists.[^16] In addition, in 1957, the society came out to support the SIT when Chartered Bank Trustee Company, the owner of Killiney House at 3 Oxley Rise – built by Thomas Oxley, surgeon-general of the Straits Settlements – tried to have the 1842 property removed from the 1958 Master Plan heritage site list as he was worried that the “ancient monument” status of the house would affect its sale price.
 
 During the inquiry, the society gave evidence to explain why Killiney House should be preserved, pointing out that it was one of the last surviving “planter’s home” from the 1840s, and among the first residences built in the island’s interior. In addition, the house had a dovecote to house pigeons and stables for horses, which made it architecturally unique in the Straits Settlements.[^17]
+
+<img src="/images/Vol-15-issue-2/to-wreck-or-to-recreate/Wreck3.JPG">
+<div style="background-color: white;">This stately house at 3 Oxley Rise (Killiney House) was built in 1842 by Dr Thomas Oxley, Surgeon General of the Straits Settlements and after whom Oxley Rise was named. When Jewish businessman Manasseh Meyer bought the house in 1890, he renamed it Belle Vue. The house was demolished in 1982 to make way for a private housing estate. <i>Ronni Pinsler Collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **Demolition and Urban Renewal**
 
