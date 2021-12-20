@@ -184,7 +184,7 @@ Tow, who helmed KK Hospital in the 1960s, had raised the reputation of the natio
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
 <img style="width: 250px; height: 300px;" src="/images/Vol-15-issue-2/singapore-medical-services/Doctor10.JPG">
 	<br>
-	This essay is an extract from the book, <i>The Sound of Memories: Recordings from the Oral History Centre, Singapore</i>, published by the National Archives of Singapore and World Scientific Publishing. The hardcover, paperback and ebook retail for $46, $28 and $19.95 respectively. The book is also available for reference at the Lee Kong Chian Reference Library (Call no.: RSING 959.57 CHE) and for loan at selected public libraries (Call no.: SING 959.57 CHE). The ebook is available for loan on the NLB Mobile app.
+	This essay is an extract from the book, <i>The Sound of Memories: Recordings from the Oral History Centre, Singapore</i>, published by the National Archives of Singapore and World Scientific Publishing. The hardcover, paperback and ebook retail for $46, $28 and $19.95 respectively. The book is also available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries ([Call nos.: RSING 959.57 CHE and SING 959.57 CHE](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203885796)). The ebook is available for loan on [NLB OverDrive](https://nlb.overdrive.com/media/4907261). 
 </span>
 <div style="background-color: white;">
 <img src="/images/Vol-15-issue-2/singapore-medical-services/Doctor11.jpg" style="width: 100px; height: 100px;">
