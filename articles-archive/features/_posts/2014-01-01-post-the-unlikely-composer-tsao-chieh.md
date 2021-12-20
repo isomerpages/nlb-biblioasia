@@ -115,7 +115,7 @@ Despite his varied body of work, Tsao Chieh had always lamented that composers r
 <img src="/images/vol-9-issue-4/tsaochieh/tone_raw.jpg">Tone rows for <i>Amidst the Sough of Winds. Courtesy of Vivien Chen.</i></div>
 
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> 
-<b>MAKING WATER MAGIC</b>
+<b>MAKING WATER MUSIC</b>
 <br><br>
 The Singapore Youth Orchestra brought one of Tsao Chieh's works Stasis on tour to Perth, Australia, in June 1988. The general manager of the orchestra Tan Kim Swee[^14] remembered the piece required a water tank, one “big enough to immerse a big gong”. The story was that the first tank that had been acquired was too small for the gong and a second one had to be custom-made for the piece. This must have been so stressful for Tan that he even remembered the precise dimensions of the tank — 50 centimetres in breadth and length and 100 centimetres in height — which was to be filled with water as instructed by the composer. Tan recalled the ensuing frenzy over how the water tank had to be filled exactly to four-fifths of its height using buckets and subsequently emptied the same way before and after each concert. During both the local and Australian performances, the tank was placed at the back of the orchestra but elevated so that it remained visible to the audience. Tan also recalls clearly that the commissioned work required bamboo chimes and glass chimes, both of which had to be custom made.</span>
 
