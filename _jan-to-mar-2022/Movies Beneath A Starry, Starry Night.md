@@ -124,7 +124,7 @@ Also in 2003, a company named MovieMob organised free drive-in and outdoor open-
  
 More recently, on 25 July 2020, Downtown East announced that it would hold a monthly series of drive-in movie screenings starting from 8 August with the hit musical, *The Greatest Showman*. Tickets were priced at $18 per car for up to a maximum of five persons in a vehicle. Unfortunately, just 10 days later, it was announced that the screening had been cancelled due to “unforeseen circumstances” and refunds would be made.[^36] We can only surmise that the cancellation was related to the ongoing Covid-19 pandemic.
 
-As these examples demonstrate, there is still a market for the occasional drive-in movie experience. When mass events are allowed to take place again, hopefully some entrepreneurial company will resurrect the spirit of the Jurong Drive-In.
+As these examples demonstrate, there is still a market for the occasional drive-in movie experience. When mass events are allowed to take place again, hopefully some entrepreneurial company will resurrect the spirit of the Jurong Drive-in.
 
 
 <div style="background-color: white;">
