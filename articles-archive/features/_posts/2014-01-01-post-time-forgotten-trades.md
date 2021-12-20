@@ -20,7 +20,7 @@ From the late 19th to the early 20th centuries, there was a continuous influx of
 
 A few enterprising immigrants started plying their trades along the “five-foot-ways” — which was what sheltered pedestrian walkways measuring five feet wide were called in colonial times — in front of shophouses. These makeshift stalls sold inexpensive goods and services that required minimal financial outlay and equipment to set up. These trades were known as <i>gho kha ki</i> (Hokkien for “five-foot-way”) trades[^1] and included “knife sharpeners, streetside barbers, mask makers and fortune tellers” as well as “locksmiths, letter writers, traditional medicine men or <i>bomoh</i>” (Malay shaman) and several others.[^2]
 
-#### **A Trade By and Other Name**
+#### **A Trade By any Other Name**
 
 Merriam-Webster defines a tradesman or tradesperson as a skilled worker engaged in a particular trade or craft. Trades are an integral component of the manufacturing industry; in traditionally run businesses, inter-generational workers usually engage in labour-intensive work, sometimes using simple machinery or hand tools to produce a commodity for sale. Sullivan defines these trades as “making-things business” or “cottage industries”, emphasising the “handwork aspect of such manufacturing”.[^3] These trades are usually family-run, “have less than twenty workers, including [the] working proprietor; may consist of only one or two people ... [and the] workspace and living space are combined or are nearby”. [^4]
 
