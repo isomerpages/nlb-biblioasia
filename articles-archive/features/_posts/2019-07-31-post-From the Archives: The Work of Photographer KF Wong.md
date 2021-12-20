@@ -6,7 +6,6 @@ layout: post
 image: /images/Vol-15-issue-2/from-the-archives/Archives1.JPG
 description: ""
 ---
-
 #### K.F. Wong shot to international fame with his images of Borneo, though not without controversy. **Zhuang Wubin** examines Wong’s work and sees beyond their historical value.
 
 <img style="width: 550px; height: 450px;" src="/images/Vol-15-issue-2/from-the-archives/Archives1.JPG">
@@ -14,14 +13,17 @@ description: ""
 
 In 1989, exactly 30 years ago, the late Minister S. Rajaratnam officiated the opening of a solo exhibition by photographer Wong Ken Foo, more popularly known as K.F. Wong (1916–98). Organised by the National Archives of Singapore, “Light on Historical Moments – Images on Singapore” featured 159 photographs that Wong had taken from the mid-1940s to the 1960s.
 
+<img src="/images/Vol-15-issue-2/from-the-archives/Archives3.JPG">
+<div style="background-color: white;">Photographer K.F. Wong. <i>Image reproduced from Wong, K.F. (1979). Borneo Scene (p. 9). Kuching: Anna Photo Company. (Call no.: RSEA q959.52 WON).</i></div>
+
 This was a tumultuous period in Singaporean history: the British had returned after the end of the Japanese Occupation in 1945, and instead of being welcomed with open arms, they found a population resentful of their colonial masters. The political awakening among the people sparked a series of events that would eventually lead to self-government, and then full independence in 1965.
 
 In his speech, Rajaratnam pointed out that an understanding of the “history of the private, everyday lives of Singaporeans”, however humdrum their daily routines might be, would be crucial in “moulding a Singaporean consciousness”.[^1] It is interesting that Wong, who was born in Sarawak, would be selected for this nation-building endeavour, even though he was by no means unfamiliar with Singapore.
 
-In 1947, Wong and his friends opened Straits Photographers, a photo studio at Amber Mansions on Orchard Road. An advertisement in *The Straits Times* on 10 June 1948 highlighted his “artistic portraits and transparent oil painting[s]”.[^2] Wong ran the business as the studio manager until 1956, when he decided to return to his photography business in Sarawak.
-
 <img style="width: 350px; height: 450px;" src="/images/Vol-15-issue-2/from-the-archives/Archives2.JPG">
 <div style="background-color: white;">The poster publicising K.F. Wong’s solo exhibition, “Light on Historical Moments – Images on Singapore”, organised by the National Archives of Singapore in 1989. The exhibition featured 159 photographs on Singapore that Wong had taken from the mid-1940s to the 60s. <i>Courtesy of National Archives of Singapore.</i></div>
+
+In 1947, Wong and his friends opened Straits Photographers, a photo studio at Amber Mansions on Orchard Road. An advertisement in *The Straits Times* on 10 June 1948 highlighted his “artistic portraits and transparent oil painting[s]”.[^2] Wong ran the business as the studio manager until 1956, when he decided to return to his photography business in Sarawak.
 
 Before opening Straits Photographers, Wong and his partners had already established the well-known Anna Studio in Kuching in 1938, followed by a branch bearing the same name in Sibu in 1941. Shuttling between the three studios kept Wong busy, but whenever he was in Singapore, he would head out before dawn to photograph street scenes, festivals and markets in the early morning light.[^3]
 
@@ -43,9 +45,6 @@ In 1935, Wong left Sarawak to further his studies and hone his photography skill
 
 Towards the end of 1935, Wong ended up in Quanzhou, China, and started apprenticing at Xia Guang Studio (夏光照相馆). To appease his father, Wong also studied art in a private art school, majoring in charcoal drawing. In 1937, he found work at the popular Anna Studio in Xiamen (the experience made such an impact that he named the photography business he would later open in Sarawak as Anna Studio).
 
-<img src="/images/Vol-15-issue-2/from-the-archives/Archives3.JPG">
-<div style="background-color: white;">Photographer K.F. Wong. <i>Image reproduced from Wong, K.F. (1979). Borneo Scene (p. 9). Kuching: Anna Photo Company. (Call no.: RSEA q959.52 WON).</i></div>
-
 Not long after, the Second Sino-Japanese War (1937–45) broke out, forcing Wong to flee Xiamen, bringing his wife and one-year-old daughter back to the countryside of Xianyou county before returning alone to Sarawak. He would be reunited with them only in 1975, almost 40 years later.
 
 The Anna Studio in Kuching, which Wong opened in 1938, was originally located across the post office on Rock Road (on the stretch that has since been renamed Jalan Tun Abang Haji Openg). As his business grew, Wong became friends with people of all political persuasions and social class. The fame of Kuching’s Anna Studio spread far and wide, even reaching the ears of Japanese soldiers when Malaya and subsequently British Borneo fell to the Japanese Imperial Army in December 1941.
@@ -53,9 +52,6 @@ The Anna Studio in Kuching, which Wong opened in 1938, was originally located ac
 During the dark years of the Japanese Occupation, Wong was forced to keep Anna Studio open. Business remained brisk in Kuching as the Japanese soldiers enjoyed having their portraits taken. They would frequent his studio, often accompanied by “comfort women” – girls and women who were forced to provide sexual services to Japanese soldiers in occupied territories – some of whom were abducted from as far away as Bandung in West Java.[^11] It was during the Japanese Occupation when the studio moved to 16 Carpenter Street, the address that would witness the glory years of Kuching’s Anna Studio until its relocation in 1986 to Rubber Road.
 
 Wong’s cordial relationship with his customers held him in good stead during the war years: towards the end of the Occupation, some of the younger Japanese officers who frequented Wong’s studio warned him to escape after learning that he would be arrested.[^12]
-
-<img style="width: 350px; height: 450px;" src="/images/Vol-15-issue-2/from-the-archives/Archives4.JPG">
-<div style="background-color: white;">A roadside Chinese herbal tea stall in Chinatown, 1962. Photograph by K.F. Wong. <i>Courtesy of National Archives of Singapore.</i></div>
 
 #### **Making His Mark**
 
@@ -105,6 +101,9 @@ The text makes clear the relationship between tourism and photography, pointing 
 #### **Scenes of Singapore**
 
 Most of the images credited to K.F. Wong found in the National Archives feature Singapore’s street scenes taken between 1945 and 1966. Apparently, by the late 1980s, Wong had given up staging his shots, a widespread practice in salon photography even today. Instead, he shifted his focus to the capture of fleeting moments and the myriad expressions of human life taking place on the streets.[^29]
+
+<img style="width: 350px; height: 450px;" src="/images/Vol-15-issue-2/from-the-archives/Archives4.JPG">
+<div style="background-color: white;">A roadside Chinese herbal tea stall in Chinatown, 1962. Photograph by K.F. Wong. <i>Courtesy of National Archives of Singapore.</i></div>
 
 Nevertheless, Wong’s earlier photographs of Singapore prior to this change in direction still appear candid and natural. This is because Wong photographed situations and events where his presence would not be an issue – on busy temple days in Chinatown, during the frenetic Thaipusam procession, or when storytellers spun their magic on their earnest audiences by the Singapore River.
 
