@@ -58,7 +58,7 @@ This French edition of Erédia’s manuscript was part of the Raffles Museum and
 
 [^2]:Liaw, Y. F. (1976). *[Undang-undang Melaka: The laws of Melaka. The Hague: M. Nijhoff](https://eservice.nlb.gov.sg/item_holding.aspx?bid=872059)* (pp. 62–65). Call no.: RCLOS 340.09595141 LIA-[JSB]
 
-[^3]:Matelief, C. (1646). Historische verhael, vande treffelijcke reyse... admirael Cornelis Matelief de Ionge; in den Jaren 1605, 1606, 1607, ende 1608. In I. Commelin (Comp.) [Begin ende voortgangh, van de Vereenighde Nederlantsche Geoctroyeerde Oost- Indische Compagnie... Amsterdam](https://eresources.nlb.gov.sg/printheritage/detail/da54c016-eabd-4a67-9813-b62bd1da7f7a.aspx) (p. 140) Retrieved from BookSG.
+[^3]:Matelief, C. (1646). Historische verhael, vande treffelijcke reyse... admirael Cornelis Matelief de Ionge; in den Jaren 1605, 1606, 1607, ende 1608. In I. Commelin (Comp.) *[Begin ende voortgangh, van de Vereenighde Nederlantsche Geoctroyeerde Oost- Indische Compagnie... Amsterdam](https://eresources.nlb.gov.sg/printheritage/detail/da54c016-eabd-4a67-9813-b62bd1da7f7a.aspx)* (p. 140) Retrieved from BookSG.
 
 [^4]:Borschberg, P.  (Ed.). (2014). *[The memoirs and memorials of Jacques de Coutre: Security, trade and society in 16th- and 17th- century Southeast Asia](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200128111)* (p. 234). Singapore: NUS Press. (Call no: RSING 959 COU)
 
