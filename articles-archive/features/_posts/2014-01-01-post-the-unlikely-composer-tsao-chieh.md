@@ -55,7 +55,7 @@ When his work subsequently premiered at the end-of-year Music Awards concert in 
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-9-issue-4/tsaochieh/mita_collection.jpg">
+<img src="/images/vol-9-issue-4/tsaochieh/mita_collection.jpg" style="width:70%;">
 The student orchestra performing at the official opening of the 1986 Singapore Arts Festival at Kent Ridge. Tsao Chieh’s Singapore premiered on this occasion. <i>MITA collection, courtesy of National Archives of Singapore.</i></div>
 
 
@@ -84,7 +84,7 @@ In late 1990, his work <i>Amidst the sough of winds..., Two Poems by Edwin Thumb
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-9-issue-4/tsaochieh/mita_collection_2.jpg">Several of Tsao Chieh’s pieces were performed by Singapore Symphonic Orchestra performing at the Victoria Concert Hall under the baton of Choo Hoey. <i>MITA collection, courtesy of National Archives of Singapore</i>.</div>
+<img src="/images/vol-9-issue-4/tsaochieh/mita_collection_2.jpg" style="width:70%;">Several of Tsao Chieh’s pieces were performed by Singapore Symphonic Orchestra performing at the Victoria Concert Hall under the baton of Choo Hoey. <i>MITA collection, courtesy of National Archives of Singapore</i>.</div>
 
 #### **Computer Music**
 
