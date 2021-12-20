@@ -49,7 +49,7 @@ Lim’s sense of purpose was founded on his medical education at the University 
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-9-issue-4/sgmanofscienceandmedicine/Coolies.jpg">
+<img src="/images/vol-9-issue-4/sgmanofscienceandmedicine/Coolies.jpg" style="width:70%;">
 Coolies, commonly found transporting goods along the Singapore River, formed part of the Overseas Chinese community (1948). <i>Courtesy of National Archives of Singapore.</i></div>
 
 #### **Robert Lim: Like Father, Like Son**
@@ -74,12 +74,12 @@ The delousing programme began in 1938 and expanded significantly in 1939. Traine
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-9-issue-4/sgmanofscienceandmedicine/Source_Singapore_Chinese_Clan_Assn.jpg">
+<img src="/images/vol-9-issue-4/sgmanofscienceandmedicine/Source_Singapore_Chinese_Clan_Assn.jpg" style="width:70%;">
 Entrance of New World Amusement Park at Jalan Besar, circa 1960. This was where Chinese swimmer Yang Shau King helped to raise funds for the Chinese Red Cross. <i>Chinese Clan Association collection, courtesy of National Archives of Singapore.</i></div>
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-9-issue-4/sgmanofscienceandmedicine/Source_Singapore_Chinese_Clan_Associations.jpg">
+<img src="/images/vol-9-issue-4/sgmanofscienceandmedicine/Source_Singapore_Chinese_Clan_Associations.jpg" style="width:70%;">
 Group photograph of Singapore Overseas Chinese raising relief funds for China, headed by Tan Kah Kee. <i>Singapore Chinese Clan Associations Collection, Courtesy of National Archives of Singapore.</i></div>
 
 #### **Leaving a Legacy**
