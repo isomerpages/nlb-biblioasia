@@ -174,7 +174,7 @@ As these examples demonstrate, there is still a market for the occasional drive-
 
 [^20]: Yeow Shang Ying, “[Action Taken at Drive-in],”(http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820927-1.2.71.4.1) *Straits Times*, 27 September 1982, 15. (From NewspaperSG)
 
-[^21]: “ [*Jurong Police Keeping Watch on Drive-In*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19830306-1.2.3.5),” *Singapore Monitor*, 6 March 1983, 3. (From NewspaperSG)
+[^21]: “ [Jurong Police Keeping Watch on Drive-in](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19830306-1.2.3.5),” *Singapore Monitor*, 6 March 1983, 3. (From NewspaperSG)
 
 [^22]: Lim, [*Cathay*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=6095688), 69.
 
