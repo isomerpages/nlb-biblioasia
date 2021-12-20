@@ -12,7 +12,7 @@ layout: post
 <img src="/images/vol-9-issue-4/tsaochieh/tsaochieh.jpg">
 Tsao Chieh working on a composition in 1986. <i>Courtesy of Vivien Chen.</i></div>
 
-I prefer to listen to good Michael Jackson than bad mahler. 
+I prefer to listen to good Michael Jackson than bad Mahler. 
 
 <div style="text-align:right;">— TSAO CHIEH</div>
 
