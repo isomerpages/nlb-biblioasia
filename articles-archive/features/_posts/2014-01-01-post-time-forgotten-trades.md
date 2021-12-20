@@ -48,7 +48,7 @@ A few trades have survived the march of time, such as the mobile ice-cream cart 
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-9-issue-4/forgottentrades/cobbler.jpg">
+<img src="/images/vol-9-issue-4/forgottentrades/cobbler.jpg" style="width:70%">
 Cobbler operating from pavement (1980). <i>Courtesy of National Archives of Singapore.</i></div>
 
 #### **Fortune Tellers**
@@ -71,7 +71,7 @@ Parrot astrologers were based in Serangoon Road but they also made house calls, 
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-9-issue-4/forgottentrades/fortune_teller.jpg">
+<img src="/images/vol-9-issue-4/forgottentrades/fortune_teller.jpg" style="width:70%">
 Parrot fortune teller at Serangoon Road in 1980. <i>Courtesy of National Archives of Singapore.</i></div>
 
 
@@ -102,7 +102,7 @@ An Indian ice-water seller making a syrup coated ice-ball in 1978. <i>Courtesy o
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-9-issue-4/forgottentrades/Chu_Sui_Mang.jpg">
+<img src="/images/vol-9-issue-4/forgottentrades/Chu_Sui_Mang.jpg" style="width:70%">
 A roadside <i>‘kachang puteh’</i> seller (1985). <i>Chu Sui Mang collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **Letter Writers**
@@ -117,7 +117,7 @@ A roadside <i>‘kachang puteh’</i> seller (1985). <i>Chu Sui Mang collection,
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-9-issue-4/forgottentrades/letter_writter.jpg">
+<img src="/images/vol-9-issue-4/forgottentrades/letter_writter.jpg" style="width:70%">
 A letter writer with a customer along a five foot way in Kreta Ayer. From the Kouo Shang-Wei collection 郭尚慰收集. <i>All rights reserved, family of Kouo Shang-Wei and National Library Board, Singapore, 2007.</i></div>
 
 #### **Street Barbers**
@@ -171,7 +171,7 @@ The National Museum of Singapore has also curated several exhibitions on vanishi
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-9-issue-4/forgottentrades/individuals.jpg">
+<img src="/images/vol-9-issue-4/forgottentrades/individuals.jpg" style="width:70%">
 Some of the individuals featured in the 2013 exhibition, “Trading Stories: Conversations with Six Pioneering Tradesmen” by the National Museum of Singapore include Sam Sui women and a movie poster painter. <i>Courtesy of National Museum of Singapore, National Heritage Board.</i></div>
 
 #### **Oral Recordings**
@@ -182,7 +182,7 @@ The recordings reveal fascinating details such as the reasons for entering or ab
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-9-issue-4/forgottentrades/lost_art.jpg"></div>
+<img src="/images/vol-9-issue-4/forgottentrades/lost_art.jpg" style="width:70%"></div>
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-9-issue-4/forgottentrades/lost_art1.jpg">
