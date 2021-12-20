@@ -44,9 +44,10 @@ An archive is in effect a repository of memory — of records of legal, historic
 
 As records — “frozen in time” as it were — properly archived documents have a basic trustworthiness relative to other sources. Such archived documents can impart a lasting quality to works based on them. An example of this is the Justinian Code or “Corpus Juris Civilis”. Commissioned in 6th century CE by the Byzantine Emperor Justinian, the Code was based on centuries of carefully archived Roman legal precedents and remains the basis of much European civil law till today.[^7] Another example is the Historical Records of the Grand Historian Sima Qian, the famed court historian of the Han Dynasty. Written in the 1st century BCE, his work drew heavily on the Han imperial court archives and remains a classic and reliable resource on ancient Chinese history to this day.[^8]
 
+<div style="background-color: white;">
 <br/>
 <img src="/images/vol-9-issue-4/enternity/sima_qian.jpg">
-Painting of Sima Qian, who served as court historian during the Han Dynasty between 145/135–86 BCE. Image via Wikipedia Commons.[^9]
+<p>Painting of Sima Qian, who served as court historian during the Han Dynasty between 145/135–86 BCE. Image via Wikipedia Commons.[^9]</p></div>
 
 As a primary function of an archive is to safekeep records that have been appraised and deemed worthy of preservation, documents selected for an archive's permanent collection acquire — by extension — a form of immortality. 
 
