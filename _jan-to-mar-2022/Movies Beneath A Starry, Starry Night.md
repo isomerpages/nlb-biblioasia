@@ -91,22 +91,22 @@ From the late 1970s, Cathay tried several methods to draw audiences in, such as 
 
 As early as 1980, Cathay was already considering shuttering the drive-in but decided to let it continue operating until the lease of the land (from the Jurong Town Corporation) on which it stood expired in 1985. On 10 December 1981, the *Straits Times* reported that “[at]t the peak of [Jurong Drive-in’s] popularity in the early 1970s, it was fully packed every night, especially when it screened films of the late *kung-fu* star Bruce Lee. But once the novelty of Singapore’s only drive-in cinema wore off, nothing has been able to bring back the crowds. Today, only 100 cars are seen there on an average night, though weekends fare better”. A spokesman for Cathay Organisation said: “We have tried almost everything and have almost given up hope. The novelty of the drive-in seems to have faded.”[^28]
 
+![Alt text for image on Isomer site](/images/vol-17-issue-4/movies-beneath/Unhappy_One.png)
+<div style="background-color: white;"> By the early 1980s, the novelty of the Jurong Drive-in Cinema had worn off, and nothing the operator did – such as free gifts, first-run shows and cheap tickets – could bring back the crowds.<i> Image reproduced from The Straits Times, 10 December 1981, 11. (From NewspaperSG). </i></div>
+
 Cathay also blamed video pirates for poor attendance figures and the slump in the film industry. “Video pirates have been taking advantage of Singapore’s loose copyright laws. They have even been advertising their videotape rental services,” said Cathay spokesperson Geraldine Lee in 1985. According to Lee, about 200 people were going to the drive-in cinema for its two daily screenings and the situation was no better on weekends.[^29]
 
-
+ 
+![Alt text for image on Isomer site](/images/vol-17-issue-4/movies-beneath/Close.png)
+<div style="background-color: white;"> Jurong Drive-in Cinema announcing that it will close for good after its last show on 30 September 1985. <i>Image reproduced from The Straits Times, 29 September 1985, 10. (From NewspaperSG).
+ </i></div>
  
 On 29 September 1985, Cathay officially announced that Jurong Drive-in would close for good the following day, after its last show. The last movie screened was the Taiwanese film, *The Woman of Wrath*. The *Straits Times* described the dismal turn-up on 28 September: “The scene at the Jurong Drive-in Cinema last night. And it was a Saturday. On the screen was a Mandarin movie, *The Woman of Wrath*. But there were pathetically few patrons watching it. The gallery was almost deserted while only a few cars were found in its sprawling grounds.”[^30]
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/movies-beneath/Woman_Wrath.png)
 <div style="background-color: white;">Taiwanese film <i> The Woman of Wrath </i> was the last movie screened at the Jurong Drive-in.  <i>Image reproduced from The Straits Times, 29 September 1985, 4. (From NewspaperSG). 
  </i></div>
- 
-![Alt text for image on Isomer site](/images/vol-17-issue-4/movies-beneath/Unhappy_One.png)
-<div style="background-color: white;"> By the early 1980s, the novelty of the Jurong Drive-in Cinema had worn off, and nothing the operator did – such as free gifts, first-run shows and cheap tickets – could bring back the crowds.<i> Image reproduced from The Straits Times, 10 December 1981, 11. (From NewspaperSG). </i></div>
 
-![Alt text for image on Isomer site](/images/vol-17-issue-4/movies-beneath/Close.png)
-<div style="background-color: white;"> Jurong Drive-in Cinema announcing that it will close for good after its last show on 30 September 1985. <i>Image reproduced from The Straits Times, 29 September 1985, 10. (From NewspaperSG).
- </i></div>
  
 Jurong Drive-in finally closed on 30 September 1985 after almost 15 years.[^31] The land formerly occupied by the drive-in was developed into Fairway Country Club and later the ActiveSG Park in 2019 as part of Jurong Lake Gardens.[^32]
 
