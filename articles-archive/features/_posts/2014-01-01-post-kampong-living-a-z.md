@@ -27,7 +27,7 @@ The modern <i>bidan</i> or government-trained midwife, fondly called “missy”
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-9-issue-4/kampong/trained_midwife.jpg">
+<img src="/images/vol-9-issue-4/kampong/trained_midwife.jpg" style="width:70%;">
 Infant growth assessment carried out by a trained midwife or “missy”, in 1950. <i>School of Nursing collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **Capteh and Other Childhood Games**
@@ -90,7 +90,7 @@ The aim of this game is to get a free piggyback ride from your opponent (picture
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-9-issue-4/kampong/keleret.jpg">
+<img src="/images/vol-9-issue-4/kampong/keleret.jpg" style="width:70%;">
 <i>Keleret</i> must be played in pairs or teams. Flat stones or tiles (<i>batu keleret</i>) are thrown to get close to the target line or circle (1950s). <i>Courtesy of Singapore Sports Council (SSC) collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **Lambong Tin (or "Hide-And-Seek", "I Spy" or Nyorok-Nyorok)**
@@ -116,7 +116,7 @@ Today, when a housewife in the midst of cooking realises she has no salt in her 
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-9-issue-4/kampong/bus_services.jpg">
+<img src="/images/vol-9-issue-4/kampong/bus_services.jpg" style="width:70%;">
 Unlicensed hawkers outside the Jalan Eunos Wet Market in 1958. <i>MITA collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **Open-Air Cinemas = Open Skies Treatment**
@@ -133,7 +133,7 @@ In the days before the convenience of tap water at home, <i>kampong</i> resident
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-9-issue-4/kampong/malay_house.jpg">
+<img src="/images/vol-9-issue-4/kampong/malay_house.jpg" style="width:70%;">
 A Malay house in Kampong Bedok Luat. <i>Courtesy of National Archives of Singapore.</i></div>
 
 #### **Rempah and Singapore's Own Spice Girls**
@@ -144,7 +144,7 @@ Before there were powdered spices and packaged spice mixes, women used to make t
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-9-issue-4/kampong/nyonya.jpg">
+<img src="/images/vol-9-issue-4/kampong/nyonya.jpg" style="width:70%;">
 A Nonya lady cooking in her kitchen using firewood. <i>MITA collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **Stoneware Sisters: Batu Giling and Batu Tumbuk**
@@ -190,7 +190,7 @@ Kampongs were also vulnerable to fires due to their wooden and <i>attap</i> stru
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-9-issue-4/kampong/common_standpipe.jpg">
+<img src="/images/vol-9-issue-4/kampong/common_standpipe.jpg" style="width:70%;">
 Women washing laundry at a common standpipe, circa 1960s. <i>Courtesy of National Archives of Singapore.</i></div>
 
 #### **Yeh Yeh (Zero-Point)**
