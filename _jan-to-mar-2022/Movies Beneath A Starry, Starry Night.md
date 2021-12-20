@@ -150,7 +150,7 @@ As these examples demonstrate, there is still a market for the occasional drive-
 
 [^8]: Lim, [*Cathay*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=6095688), 69; Jan Uhde and Yvonne Ng Uhde, [*Latent Images: Film in Singapore*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=13186916) (Singapore: Oxford University Press, 2000), 198. (From National Library, Singapore, Call no. RSING 384.8095957 UHD); [“Cathay’s Jurong Drive-in Cinema](http://eresources.nlb.gov.sg/newspapers/Digitised/Page/straitstimes19710714-1.1.18)”; Ronnie Wai, “[Jurong Drive-in’s Lot is an Unhappy One](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19811210-1.2.57),” *Straits Times*, 10 December 1981, 11; Judith Hale, “‘[We Won’t Make Much’,](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19780329-1.2.16)” *New Nation*, 29 March 1978, 2., (From NewspaperSG)
 
-[^9]: Lito Gutierrez, “[*It’s Curtains for Jurong Drive-in Tomorrow*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850929.2.24.1.aspx),” *Straits Times*, 29 September 1985, 10. (From NewspaperSG); “[*Some Close Encounters at the Drive-in.*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19831218-1.2.124.17.1)”
+[^9]: Lito Gutierrez, “[It’s Curtains for Jurong Drive-in Tomorrow](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850929.2.24.1.aspx),” *Straits Times*, 29 September 1985, 10. (From NewspaperSG); “[Some Close Encounters at the Drive-in.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19831218-1.2.124.17.1)”
 
 [^10]:“ [*It’s Curtains for Jurong Drive-in Tomorrow.*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850929.2.24.1.aspx)”
 
