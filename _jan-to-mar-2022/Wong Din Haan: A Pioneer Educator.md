@@ -22,7 +22,7 @@ It was much later that I discovered she was known by another name. I had attende
 
 I was confused because no one in the family seemed to know about the existence of this girls’ school until I asked one of my uncles, Pang Heng Hung. He confirmed that she was indeed the founder of a school known as Wah Kiew Nui Hok (华侨女校), which was located on New Bridge Road. His mother was Wong Bee Soo, Wong Din Haan’s younger sister, who had been a teacher in the school.
 
-![Alt text for image on Isomer site](/images/vol-17-issue-4/Wong-Din-Haan/New-Bridge-Road2.jpg)
+![Alt text for image on Isomer site](/images/vol-17-issue-4/Wong-Din-Haan/New-Bridge-Road3.jpg)
 <div style="background-color: white;">New Bridge Road, looking towards the Sepoy Lines, c. 1906. <i>Courtesy of National Archives of Singapore.</i></div>
 
 #### **Pioneer in Female Education** 
