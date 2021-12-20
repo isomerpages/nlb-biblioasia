@@ -142,7 +142,7 @@ As these examples demonstrate, there is still a market for the occasional drive-
 
 [^4]: “[Cathay’s Jurong Drive-in Cinema](http://eresources.nlb.gov.sg/newspapers/Digitised/Page/straitstimes19710714-1.1.18)”; “[Some Close Encounters at the Drive-in.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19831218-1.2.124.17.1)” 
 
-[^5]: “[*Cathay’s Jurong Drive-in Cinema.*](http://eresources.nlb.gov.sg/newspapers/Digitised/Page/straitstimes19710714-1.1.18)” 
+[^5]: “[Cathay’s Jurong Drive-in Cinema.](http://eresources.nlb.gov.sg/newspapers/Digitised/Page/straitstimes19710714-1.1.18)” 
 
 [^6]: [*Eugene Ban Hing Ker*](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/2adbfd53-c233-11e4-859c-0050568939ad), oral history interview by Teo Kian Giap, 20 December 2014, [*MP3 audio, Reel/Disc 1 of 20, 38:15.  (From National Archives of Singapore, Accession no. 003963)*](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/2adbfd53-c233-11e4-859c-0050568939ad?keywords=jurong%20drive%20in%20cinema&keywords-type=all)
 
