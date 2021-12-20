@@ -82,7 +82,7 @@ Entrance of New World Amusement Park at Jalan Besar, circa 1960. This was where 
 <img src="/images/vol-9-issue-4/sgmanofscienceandmedicine/Source_Singapore_Chinese_Clan_Associations.jpg">
 Group photograph of Singapore Overseas Chinese raising relief funds for China, headed by Tan Kah Kee. <i>Singapore Chinese Clan Associations Collection, Courtesy of National Archives of Singapore.</i></div>
 
-#### **Leaving A Legacy**
+#### **Leaving a Legacy**
 
 Lim Boon Keng and Robert Lim’s time in China were not without opposition. Lu Xun and other intellectuals from the May Fourth Movement (1917–1921) opposed Lim Boon Keng’s promotion of sciences and Confucianism at Xiamen University. Unable to resolve their differences with him, these intellectuals left the university after teaching for only a few months.[^28] 
 
