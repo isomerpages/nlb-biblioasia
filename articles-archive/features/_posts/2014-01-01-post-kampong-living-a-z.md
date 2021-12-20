@@ -84,7 +84,7 @@ Street food vendors used to travel from <i>kampong</i> to <i>kampong</i> peddlin
 
 Unlike <i>hantam bola</i>, <i>jelon</i> is played within a set boundary. This game is called <i>galah panjang</i> or <i>hadang-hadang</i> (blocking) in Malaysia but it is known as <i>jelon</i> (a corruption of “balloon”) or <i>belon acah</i> (literally meaning “tease balloon”) in Singapore. When Singaporeans moved to flats, many children played <i>jelon</i> at the void decks or badminton courts. Within those spaces, mini-courts parallel to one another were marked and one team would defend the entrances to these courts. The aim of each team was to penetrate the entrances without getting tapped by their opponents. If one player managed to break through, his team would win, but if one of them got tapped the whole team was out.
 
-#### **Kleret: He Ain't Heavey, He's My Brother**
+#### **Kleret: He Ain't Heavy, He's My Brother**
 
 The aim of this game is to get a free piggyback ride from your opponent (pictured below).
 
