@@ -44,7 +44,7 @@ Thankfully, a stronger Asian leadership emerged after the war. The church, with 
 <br/>
 <img src="/images/vol-9-issue-4/colonial/bg.jpg"></div>
 
-#### **The Anglican Archieves in Singapore**
+#### **The Anglican Archives in Singapore**
 
 As early as 1868, the Church showed concern that its records “[were] in danger of being injured or lost” and its leadership took steps to obtain a small iron safe.[^4] However, the Anglican Archives at the diocese was not formally established until 2008. 
 
