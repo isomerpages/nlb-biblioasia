@@ -196,7 +196,7 @@ As these examples demonstrate, there is still a market for the occasional drive-
 
 [^31]: Uhde and Uhde, [*Latent Images*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=13186916), 198; “[It’s Curtains for Jurong Drive-in Tomorrow.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850929.2.24.1.aspx)”
 
-[^32]: “[*Jurong Plans Cinema to Pull Crowds Back*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper19890930-1.2.3.3),” *New Paper*, 30 September 1989, 2. (From NewspaperSG); “Back Then When Jurong’s Drive-in Cinema Was All the Rage,” Remember Singapore, 15 September 2020, https://remembersingapore.org/2020/09/15/jurong-drive-in-cinema-history/.
+[^32]: “[Jurong Plans Cinema to Pull Crowds Back](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper19890930-1.2.3.3),” *New Paper*, 30 September 1989, 2. (From NewspaperSG); “Back Then When Jurong’s Drive-in Cinema Was All the Rage,” Remember Singapore, 15 September 2020, https://remembersingapore.org/2020/09/15/jurong-drive-in-cinema-history/.
 
 [^33]: “[*Movie Bonuses at Fringe Fest*](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19960501.2.64.6.1),” *Straits Times*, 1 May 1996, 7. (From NewspaperSG)
 
