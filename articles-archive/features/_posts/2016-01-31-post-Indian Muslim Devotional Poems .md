@@ -49,38 +49,21 @@ Tamil and Malay journalism in Malaya owe their origins to “locally born Indian
 <img src="/images/vol-11-issue-4/devotional-poems/I3.JPG">
 <div style="background-color: white;">Among the poems in this book is a song written in praise of Sikkandar Sahib Oli, better known as Sultan Iskandar Shah, who is believed to be the last of five kings to rule over 14th-century Singapore. Iskandar Shah is supposedly buried in this tomb found on a terrace along the northern side of Fort Canning. <i>All rights reserved, National Library Board, Singapore, 2004.</i></div>
 
-Also among the Jawi Peranakan community was philanthropist Makathum (also spelled as Makhdum) Sahib bin Ghulam Mukhyuddin Sahib, who together with Muhammad Abdul Kadir, founded a newspaper in 1875.6
- The paper, Singai 
-Vardhamani – also called Singavartamaney 
-or Singapore Commercial News – earned 
-a place in history as the earliest known 
-Tamil newspaper in Singapore. According 
-to a description in the Straits Times Overland Journal, the tiny foolscap paper-sized 
-newspaper was neatly printed in clear type 
-and included fine content selections, short 
-editorials and listings of weekly prices and 
-bank exchange rates.7
- Makathum Sahib, 
-who owned the Denodaya Venthira Press, 
-also ran another newspaper called Singai 
-Nesan in the late 1880s. He encouraged 
-writers in their work and published their 
-creative efforts himself.8
-Not much else is known about Muhammad Abdul Kadir, save that he was the 
-son of P. Muhammad Muhayatheen Sahib 
-from Nagore, in Tamil Nadu, India, and 
-that he studied under the aforementioned 
-C. V. Narayanasamy Nayagar. According 
-to a brief note in the publication Malasiya 
-Tamil Kavitaik Kalanjiam,9
- Narayanasamy 
-was known as “Cingapur Chithira Kavi”, 
-which implies he was famous for writing 
-graphical poems.
-The National Librar y’s copy of 
-Munajathu Thirattu was purchased in 
-2005 from Jaffar Mohideen, an Islamic 
-scholar, writer, poet and journalist, who 
-also came from the same Indian hometown of Nagore as Muhammad Abdul 
-Kadir. 
+Also among the Jawi Peranakan community was philanthropist Makathum (also spelled as Makhdum) Sahib bin Ghulam Mukhyuddin Sahib, who together with Muhammad Abdul Kadir, founded a newspaper in 1875.6 The paper, *Singai Vardhamani* – also called *Singavartamaney* or *Singapore Commercial News* – earned a place in history as the earliest known Tamil newspaper in Singapore. According to a description in the *Straits Times Overland Journal*, the tiny foolscap paper-sized newspaper was neatly printed in clear type and included fine content selections, short editorials and listings of weekly prices and bank exchange rates.7 Makathum Sahib, who owned the Denodaya Venthira Press, also ran another newspaper called *Singai Nesan* in the late 1880s. He encouraged writers in their work and published their creative efforts himself.8
 
+Not much else is known about Muhammad Abdul Kadir, save that he was the son of P. Muhammad Muhayatheen Sahib from Nagore, in Tamil Nadu, India, and that he studied under the aforementioned C. V. Narayanasamy Nayagar. According to a brief note in the publication *Malasiya Tamil Kavitaik Kalanjiam*,9 Narayanasamy was known as “Cingapur Chithira Kavi”, which implies he was famous for writing graphical poems.
+
+The National Librar y’s copy of *Munajathu Thirattu* was purchased in 2005 from Jaffar Mohideen, an Islamic scholar, writer, poet and journalist, who also came from the same Indian hometown of Nagore as Muhammad Abdul Kadir.
+
+– Written by Sundari Balasubramaniam
+
+#### **NOTES**
+[^1]:National Heritage Board. (2015, July 2). *Former Nagore Dargah*. Retrieved from National Heritage Board website. 
+[^2]:Mumtaz Ali Tajddin S. Ali (2002, August 5). *Introduction of the munajat (Ya Ali Khub Majalis)*. Retrieved from Ismaili Net website.
+[^3]:[Forbidden Hill of beauty](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19840307-1.2.80.5.1.aspx). (1984, March 7). *The Straits Times*, p. 3. Retrieved from NewspaperSG.
+[^4]:Roff, W. R. (1967). The origins of Malay nationalism (p. 48). Singapore: University of Malaya Press. Call no: RCLOS 320.54 ROF-[SEA]
+[^5]:Feener, R. M., & Sevea, T. (Eds.). (2009). Islamic connections: Muslim societies in South and Southeast Asia (pp. 93–94). Singapore: Institute of Southeast Asian Studies. Call no: RSING 297.0954 ISL
+[^6]:Bala, Baskaran. (2010, December 18). சி வீ குப்புசாமியும், வாழ்க்கை வரலாறும், 1967ஆம் ஆண்டு மலாயாத் தமிழ் எழுத்தாளர் சங்க ஆண்டு விழா உரையும். Retrieved from Balabaskaran blogpspot.
+[^7]:Friday 9th June. (1876, June 10). Straits Times Overland Journal, p 12. Retrieved from NewspaperSG.
+[^8]:இலங்கைத் தமிழ்மணி மானாமக்கீன் (2013, Mar). இஸ்லாமியத் தமிழ் இலக்கியத்தின் இணையம் இன்றல்ல. Retrieved from Mudukulathur website.
+[^9]:நெடுமாறன், முரசு [Muracu. Neṭumār̲an̲]. (1997). மலேசியத் தமிழ்க் கவிதைக் களஞ்சியம்: 1887–1987 [Malēciyat Tamil̲k kavitaik kaḷañciyam: 1887–1987] (pp.581–582). சிலாங்கூர்: அருள்மதியம் பதிப்பகம் [Cilāṅkūr: Aruḷmatiyam Patippakam]. Call no: R 894.8111 MAL
