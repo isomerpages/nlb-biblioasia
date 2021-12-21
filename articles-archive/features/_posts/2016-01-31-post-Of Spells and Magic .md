@@ -24,37 +24,36 @@ and practices of the Malays were left largely intact.
 <img src="/images/vol-11-issue-4/of-spells-and-magic/M1.JPG">
 <div style="background-color: white;"> An <i>anchak</i> or sacrificial tray used by the Malay medicine man (or <i>bomoh</i>). The tray has a fringe around it called “centipedes’ feet”. The <i>ketupat</i> and <i>lepat</i> (rice receptacles made of plaited palm fronds) are hung from the “suspenders” attached to the tray. <i>All rights reserved, Skeat, W. W. (1900). Malay Magic: Being an Introduction to the Folklore and Popular Religion of the Malay Peninsula. London: Macmillan and Co.</i></div>
 
-This aspect of Malay life is documented in the book, *Malay Magic: Being an Introduction to the Folklore and Popular Religion of the Malay Peninsula*, by the Englishman Walter William Skeat. When it was first published, *Malay Magic* was considered a pioneering work on Malay beliefs and practices relating to age-old superstition and magic.1
+This aspect of Malay life is documented in the book, *Malay Magic: Being an Introduction to the Folklore and Popular Religion of the Malay Peninsula*, by the Englishman Walter William Skeat. When it was first published, *Malay Magic* was considered a pioneering work on Malay beliefs and practices relating to age-old superstition and magic.[^1]
 
-One of the book’s key merits – and the reason why it is regarded as a classic – is Skeat’s meticulous description of the subject matter, which later allowed other ethnographers to compare it with similar beliefs in other cultures.2
-Previous ethnography studies lacked a sound grounding in factual information – what was available was mostly from the casual observations and writings of travellers, missionaries and administrators. His aim was not to interpret the information, but to record a traditional way of life that was in danger of disappearing, or being altered beyond recognition.3 Skeat’s work lay the foundations for future research, especially in the field of Malay and indigenous Orang Asli ethnography. At least two notable publications – *John Grim lette’s Malay Poisons and Charm Cures and Kirk Endicott’s An Analysis of Malay Magic* – are evidence of this.4
+One of the book’s key merits – and the reason why it is regarded as a classic – is Skeat’s meticulous description of the subject matter, which later allowed other ethnographers to compare it with similar beliefs in other cultures[^2] Previous ethnography studies lacked a sound grounding in factual information – what was available was mostly from the casual observations and writings of travellers, missionaries and administrators. His aim was not to interpret the information, but to record a traditional way of life that was in danger of disappearing, or being altered beyond recognition.[^3] Skeat’s work lay the foundations for future research, especially in the field of Malay and indigenous Orang Asli ethnography. At least two notable publications – *John Grim lette’s Malay Poisons and Charm Cures and Kirk Endicott’s An Analysis of Malay Magic* – are evidence of this.[^4]
 
 <img src="/images/vol-11-issue-4/of-spells-and-magic/M2.JPG">
 <div style="background-color: white;"> A miniature replica showing a Malay medicine man (<i>bomoh</i> or <i>pawang</i>) at work, with a 
 patient lying in bed and a child at his side. <i>All rights reserved, Malay Magic.</i></div>
 
-Skeat’s methodology of systematic data collection, rather than theorising or explaining social behaviours, could have been influenced by his stint at Christ’s College, Cambridge. A. C. Haddon – a former student at the college – first advocated such methodical fieldwork; Robertson Smith, another Christ’s College fellow, argued that the collection of data was more important than mere theory, a belief also held by Skeat.5
+Skeat’s methodology of systematic data collection, rather than theorising or explaining social behaviours, could have been influenced by his stint at Christ’s College, Cambridge. A. C. Haddon – a former student at the college – first advocated such methodical fieldwork; Robertson Smith, another Christ’s College fellow, argued that the collection of data was more important than mere theory, a belief also held by Skeat.[^5]
 
 The first 50 pages of Skeat’s book discuss the Malays’ native cosmogony, anthropogony, animism and notions about souls. The next 50 pages or so discuss the world of spirits, the Malay pantheon and its relation to the human world, as 
 well as the men who act as go-betweens between the two realms.
 
 The rest of the book details Malay beliefs and practices relating to fire, air, earth and water, and the relationship between the life of man and the spiritual world. It also includes descriptions of 
-paraphernalia, the recital of formulae, prayers, sacrifices, lustrations, fasting, divinations and witchcraft.6
+paraphernalia, the recital of formulae, prayers, sacrifices, lustrations, fasting, divinations and witchcraft.[^6]
 
-The book contains illustrations Skeat had earlier presented to the Cambridge University Museum of Archaeology and Ethnology in 1897.7 In addition, it contains an appendix of almost 100 pages, which largely record Malay oral texts.
+The book contains illustrations Skeat had earlier presented to the Cambridge University Museum of Archaeology and Ethnology in 1897.[^7] In addition, it contains an appendix of almost 100 pages, which largely record Malay oral texts.
 
 <img src="/images/vol-11-issue-4/of-spells-and-magic/M3.JPG">
 <div style="background-color: white;"> The title page of <i>Malay Magic</i>. The book documents rituals and superstitions relating to the spirit world as practised by Malays in the 19th century. <i>Image source: National Library Board, Singapore.</i></div>
 
 In total, *Malay Magic* records some 270 spells and charms. It has been reprinted several times, and the 2005 reprint includes an appendix showing additional annotations by Skeat on two 
-copies of the printed book over the half century following its first publication. One of the annotated copies of *Malay Magic* is kept by a member of the Skeat family, while the other is at Oxford University.8
+copies of the printed book over the half century following its first publication. One of the annotated copies of *Malay Magic* is kept by a member of the Skeat family, while the other is at Oxford University.[^8]
 
 Born in Cambridge, England, in 1866, Skeat enrolled at Christ’s College in 1885 to read classics. He graduated in 1888, and joined the Selangor Civil Service, where he spent six years, first as Assistant District Officer at the Import and Export Office at Klang in 1891, then at Kuala Langat in 1893. He was subsequently appointed as District Officer at Klang, Ulu Langat and finally at Kuala Langat in 1896.
 
-Most of Skeat’s ethnographic work, which formed the basis of *Malay Magic*, was done during his time at Kuala Langat. He wrote regularly on Malay and aborigine culture for the *Selangor Journal*, of which he was joint founder and editor. In 1897, Skeat compiled his notes and *Selangor Journal* articles to form the manuscript of *Malay Magic* and returned to England, where he approached the publishing house Macmillan.9 In a hurry to get back to Malaya, Skeat left his manuscript with his friend, Charles Otto Blagden, for revision and follow-up with Macmillan.10 The book was finally published in 1900.
+Most of Skeat’s ethnographic work, which formed the basis of *Malay Magic*, was done during his time at Kuala Langat. He wrote regularly on Malay and aborigine culture for the *Selangor Journal*, of which he was joint founder and editor. In 1897, Skeat compiled his notes and *Selangor Journal* articles to form the manuscript of *Malay Magic* and returned to England, where he approached the publishing house Macmillan.[^9] In a hurry to get back to Malaya, Skeat left his manuscript with his friend, Charles Otto Blagden, for revision and follow-up with Macmillan.[^10] The book was finally published in 1900.
 
 Skeat’s interest in the Malays and the Malayan aborigines was the subject of his second book: *Pagan Race of the Malayan Peninsula* (1906). He also published an account of his 1899–1900 expedition in *Reminiscences of the Cambridge University Expedition to the North-Eastern Malay 
-States, 1899–1900* in volume 26, issue 4 of the *Journal of the Malaysian Branch of the Royal Asiatic Studies*. Thereafter, his health failed, and he was unable to return to Malaya again.
+States, 1899–1900* in volume 26, issue 4 of the *Journal of the Malaysian Branch of the Royal Asiatic Studies*. Thereafter, his health failed, and he was unable to return to Malaya again.[^11]
 
 <img src="/images/vol-11-issue-4/of-spells-and-magic/M4.JPG">
 <div style="background-color: white;">These diagrams illustrated in the book are used for divinatory purposes. The top left figure has different points drawn on its anatomy for divination means. The bottom left diagram is used like a compass with the diviner counting around it from point to point. The two diagrams on the right are different types of “magic squares”. <i>All rights reserved, Malay Magic.</i></div>
