@@ -21,6 +21,9 @@ George L. Hicks
 As recently as the end of the 19th century, magic and superstition were a regular part of daily life among the Malays in the region. As the cultural changes brought about by European colonialism were not yet widespread, the traditional beliefs 
 and practices of the Malays were left largely intact.
 
+<img src="/images/vol-11-issue-4/of-spells-and-magic/M1.JPG">
+<div style="background-color: white;"> An <i>anchak</i> or sacrificial tray used by the Malay medicine man (or <i>bomoh</i>). The tray has a fringe around it called “centipedes’ feet”. The <i>ketupat</i> and <i>lepat</i> (rice receptacles made of plaited palm fronds) are hung from the “suspenders” attached to the tray. <i>All rights reserved, Skeat, W. W. (1900). Malay Magic: Being an Introduction to the Folklore and Popular Religion of the Malay Peninsula. London: Macmillan and Co.</i></div>
+
 This aspect of Malay life is documented in the book, *Malay Magic: Being an Introduction to the Folklore and Popular Religion of the Malay Peninsula*, by the Englishman Walter William Skeat. When it was first published, *Malay Magic* was considered a pioneering work on Malay beliefs and practices relating to age-old superstition and magic.1
 
 One of the book’s key merits – and the reason why it is regarded as a classic – is Skeat’s meticulous description of the subject matter, which later allowed other ethnographers to compare it with similar beliefs in other cultures.2
