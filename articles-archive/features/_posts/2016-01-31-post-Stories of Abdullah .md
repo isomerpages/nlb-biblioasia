@@ -28,25 +28,9 @@ Born in Melaka in 1797, young Abdullah studied under the best Malay scholars in 
 
 As a scribe and interpreter for Raffles, and a Malay teacher to several English personages, Abdullah had a front-row seat to the political and cultural developments of the time. His perceptive insights, combined with a penchant for vivid descriptions, would give future readers of his book a rich picture of 19th-century life and personalities in Singapore and the region.6
 
-Among other things, the *Hikayat* chronicles the three changes of the European guard in Melaka, the establishment of the British settlement in Singapore in 1819, 
-Sultan Husain Shah’s brief rule during 
-the early days of the settlement, and the 
-eventual ceding of the island by the sultan 
-and temenggung of Johor to the East India 
-Company. The autobiography captures the 
-breathless pace of Singapore’s development 
-as a trading port under the British Empire, 
-recounting the construction of new infrastructure, the boom in commerce, and the 
-influx of immigrants that led to the island’s 
-multi-racial population.7
-Departing from the courtly tradition 
-of Malay texts, Abdullah adopted a journalistic tenor that suited his forthright 
-views. His passages are realistic and lively, 
-incorporating many Malay idioms and 
-proverbs.8
- The unusually conversational 
-tone was inspired by the Sejarah Melayu 
-(Malay Annals) (see page 47), a book about 
-the history of the Melaka Sultanate in the 
+Among other things, the *Hikayat* chronicles the three changes of the European guard in Melaka, the establishment of the British settlement in Singapore in 1819, Sultan Husain Shah’s brief rule during the early days of the settlement, and the 
+eventual ceding of the island by the sultan and temenggung of Johor to the East India Company. The autobiography captures the breathless pace of Singapore’s development as a trading port under the British Empire, recounting the construction of new infrastructure, the boom in commerce, and the influx of immigrants that led to the island’s multi-racial population.7
+
+Departing from the courtly tradition of Malay texts, Abdullah adopted a journalistic tenor that suited his forthright views. His passages are realistic and lively, incorporating many Malay idioms and proverbs.8 The unusually conversational tone was inspired by the *Sejarah Melayu* (*Malay Annals*) (see page 47), a book about the history of the Melaka Sultanate in the 
 15th and early 16th centuries. Abdullah had 
-edited a version of Sejarah Melayu while 
+edited a version of *Sejarah Melayu* while
