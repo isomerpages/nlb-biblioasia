@@ -143,8 +143,24 @@ Ren Feng (the first was published in <i>BiblioAsia</i> Oct–Dec 2013, Vol. 9 Is
 
 #### **引注**
 
-[^1]: 《康有为全集》第12集，姜义华、张荣华编校，中国人民大学出版社2007年9月版，第201页 
+[^1]:《康有为全集》第12集，姜义华、张荣华编校，中国人民大学出版社2007年9月版，第201页 
 [^2]:《康有为全集》第12集，姜义华、张荣华编校，中国人民大学出版社2007年9月版
+[^3]: 原件，王清建藏
+[^4]:《康有为全集》第12集，第205、206页
+[^5]: 原件，王清建藏
+[^6]: 原件，王清建藏
+[^7]: 此处资料转引自茅海建《张之洞策反邱菽园》，载《四川大学学报》哲学社会科学版，2012年第1期
+[^8]: 原件，王清建藏。此信仅见此一页，未见称呼、署名、书写日期
+[^9]: 邱菽园《上粤督陶方帅书》，载《菽园赘谈》，排印线装本，上海图书馆藏
+[^10]: 原件，王清建藏
+[^11]:《康有为全集》第12集，第316页
+[^12]:《丘菽园居士诗集》，丘鸣权、王盛治同编，排印本，1949年新加坡印行出版，卷三，新加坡国家图书馆藏
+[^13]:《康有为全集》第11集，第213页
+[^14]: 原件，王清建藏
+[^15]: 原件，王清建藏
+[^16]: 原件，王清建藏
+[^17]:《康有为全集》第5集，第393页
+[^18]:《丘菽园居士诗集》，有康有为庚戌夏五（1910夏）序，与编入《康有为全集》的《啸虹生诗集序》不同
 
 <p style="font-size:15px;">Professor <b>Zhang Renfeng</b> is a member of the Shanghai Research Institute of Culture and History. He has been involved in the study of Zhang Yuanji, renowned educationist, bibliographer and founder of China’s modern publishing business. He compiled the 10-volume <i>Works of Zhang Yuanji</i>; his own works include <i>the Collection of Research papers on Zhang Yuanji, and Zhang Yuanji, an Enlightener of the people, Chronicle of life of Zhang Yuanji, and Zhang Yuanji, an Enlightener of the people.</i></p>
 
