@@ -6,13 +6,13 @@ layout: post
 image: /images/Vol-15-issue-2/declassifying-mean-decoding/Decoding1.JPG
 description: ""
 ---
-
-
 #### When the National Archives embarked on the declassification initiative to unlock documents previously labelled as “secret” and “confidential” for public access, it also had to decipher what was actually written, says **K.U. Menon**.
 
 <img src="/images/Vol-15-issue-2/declassifying-mean-decoding/Decoding1.JPG">
 
-“Those who control the present, control the past and those who control the past control the future.” – George Orwell
+“Those who control the present, control the past and those who control the past control the future.” 
+
+<div style="text-align: right">– George Orwell</div>
 
 George Orwell’s famous line from his dystopic novel *1984* is a sobering reminder of how important it is to be aware of the origins and sources of information we receive.
 
