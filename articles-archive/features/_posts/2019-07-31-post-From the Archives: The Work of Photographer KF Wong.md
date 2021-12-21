@@ -75,7 +75,7 @@ Wong first began taking pictures of the Dayaks during the Japanese Occupation, a
 
 While Wong’s photographs of the indigenous communities have important evidential value, his work is often clouded by his attempts to celebrate their primitive ways. Sunny Giam, a fellow salon photographer and frequent writer of photography for newspapers in Singapore in the 1950s and ’60s, wrote: “This genuine love for the natives, his desire to see the truth with his eyes, his rejection of all that is tragic in life and his exaltation of the happiness of the pagans, have enabled him to produce excellent photographs of them.”[^17]
 
-Visual sociologist Christine Horn, however, was more critical, taking Wong to task for romanticising the “traditional Indigenous lifestyle while suggesting that its extinction through the influence of development and modernisation was both unavoidable and desirable”. Horn also notes that Wong’s photographs were “created for the commercial market, and provided picturesque compositions of good-looking people in serene surroundings.”[^18]
+Visual sociologist Christine Horn, however, was more critical, taking Wong to task for romanticising the “traditional Indigenous lifestyle while suggesting that its extinction through the influence of development and modernisation was both unavoidable and desirable”. Horn also notes that Wong’s photographs were “created for the commercial market, and provided picturesque compositions of good-looking people in serene surroundings”.[^18]
 
 Indeed, many of Wong’s photographs were sold as souvenirs in his photo studios. Some of them were also submitted for salon competitions, which placed a premium on aesthetics and technical competency. In this sense, it is perhaps not surprising to learn that one of his iconic portraits of a Dayak girl was in fact created through darkroom manipulation, the analogue precursor to the cut-and-paste of modern-day Photoshop. The girl was photographed in Kapit in Sarawak, while the sakura tree in the same image had been shot in Kyoto, Japan.[^19]
 
@@ -90,7 +90,7 @@ In 1953, on the occasion of Malcolm MacDonald’s visit to Kapit, the Sarawak co
 
 #### **Two Landmark Photobooks**
 
-Wong produced two acclaimed photobooks from his collection of photographs of indigenous peoples, which have since become collectors’ items. *Pagan Innocence* was published in London in 1960[^23], possibly the first photobook on the Dayaks.[^24] In his introduction to the publication, Malcolm MacDonald proclaimed emphatically: “Mr K.F. Wong is a magician with his camera. Every photograph that he takes is a work of art.”[^25]
+Wong produced two acclaimed photobooks from his collection of photographs of indigenous peoples, which have since become collectors’ items. *Pagan Innocence* was published in London in 1960,[^23] possibly the first photobook on the Dayaks.[^24] In his introduction to the publication, Malcolm MacDonald proclaimed emphatically: “Mr K.F. Wong is a magician with his camera. Every photograph that he takes is a work of art.”[^25]
 
 *Pagan Innocence* is indeed an impressive photobook. Wong’s photographs are beautifully reproduced on the right-hand side of each spread, with the left page unadorned except for a single line of caption. The nudity depicted in *Pagan Innocence* made the book all the more infamous. Partly in anticipation of a backlash, a reviewer of the photobook took aim at those “fuddyduddies” who considered the female bosom as something shameful.[^26] The photobook became so popular that French and Swiss editions were later published.
 
