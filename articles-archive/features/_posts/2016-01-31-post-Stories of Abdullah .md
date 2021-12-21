@@ -50,12 +50,12 @@ Munsyi Abdullah died in Mecca in 1854 while on pilgrimage.[^16] But his legacy i
 – Written by Ang Seow Leng
 
 #### **NOTES**
-[^1]:National Library of Australia (2001). Treasures from the world’s great libraries (p. 108). Canberra: National Library of Australia. Call no.: R q025.1 TRE-[LIB]
-[^2]:Reith, G. M. (1892). Handbook to Singapore, with map and a plan of the Botanical Gardens (pp. 132–133).  Singapore: Straits Print. Office. Microfilm no.: NL 7522
-[^3]:Kennard, A. (1970, September 28). Some brilliant reporting on our history. The Straits Times, p. 20. Retrieved from NewspaperSG.
-[^4]:Abdullah Abdul Kadir Munshi. (2009). The Hikayat Abdullah; an annotated translation by A. H. Hill; with foreword by Cheah Boon Keng (pp. 8–9). Kuala Lumpur, Malaysia: The Malaysian Branch of the Royal Asiatic Society. Call no.: RSEA 959.5 ABD
-[^5]:Gallop, A. T. (1990). Early Malay printing: An introduction to the British Library collections. Journal of the Malaysian Branch of the Royal Asiatic Society, 63 (1) (258), 98. Retrieved from JSTOR via NLB’s eResources website.
-[^6]:Anuar Othman. (1993, January 4). Historical Malay works in Chinese. The Straits Times, p. 8. Retrieved from NewspaperSG.
+[^1]:National Library of Australia (2001). [*Treasures from the world’s great libraries*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10864294) (p. 108). Canberra: National Library of Australia. Call no.: R q025.1 TRE-[LIB].
+[^2]:Reith, G. M. (1892). *Handbook to Singapore, with map and a plan of the Botanical Gardens* (pp. 132–133).  Singapore: Straits Print. Office. Microfilm no.: NL 7522.
+[^3]:Kennard, A. (1970, September 28). [Some brilliant reporting on our history](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19700928-1.2.119.aspx). *The Straits Times*, p. 20. Retrieved from NewspaperSG.
+[^4]:Abdullah Abdul Kadir Munshi. (2009). [*The Hikayat Abdullah; an annotated translation by A. H. Hill; with foreword by Cheah Boon Keng*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13606908) (pp. 8–9). Kuala Lumpur, Malaysia: The Malaysian Branch of the Royal Asiatic Society. Call no.: RSEA 959.5 ABD.
+[^5]:Gallop, A. T. (1990). Early Malay printing: An introduction to the British Library collections. *Journal of the Malaysian Branch of the Royal Asiatic Society, 63* (1) (258), 98. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
+[^6]:Anuar Othman. (1993, January 4). [Historical Malay works in Chinese](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19930104-1.2.71.5.5.aspx). The Straits Times, p. 8. Retrieved from NewspaperSG.
 [^7]:Abdullah, 2009, p. v.
 [^8]:Traill, H. F. O’B. (1979). An Indian protagonist of the Malay language: Abdullah “Munshi”, his race and his mother-tongue. Journal of the Malaysian Branch of the Royal Asiatic Society, Vol. 52, No. 2 (236), 81. Retrieved from JSTOR via NLB’s eResources website; Azizah Sidek & Mazelan Anuar. (2008, January). Hikayat Abdullah. BiblioAsia, 3(4), 35–36.
 [^9]:Abdullah, 2009, pp. v, 22; National Library Board. (1998). Benjamin Keasberry written by Cornelius-Takahama, Vernon. Retrieved from Singapore Infopedia; UNESCO Memory of the World. (n.d). Sejarah Melayu (The Malay Annals). Retrieved from UNESCO website.
