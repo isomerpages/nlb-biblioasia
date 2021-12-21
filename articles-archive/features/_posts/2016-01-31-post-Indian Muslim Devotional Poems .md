@@ -61,9 +61,9 @@ The National Librar y’s copy of *Munajathu Thirattu* was purchased in 2005 fro
 [^1]:National Heritage Board. (2015, July 2). *Former Nagore Dargah*. Retrieved from National Heritage Board website. 
 [^2]:Mumtaz Ali Tajddin S. Ali (2002, August 5). *Introduction of the munajat (Ya Ali Khub Majalis)*. Retrieved from Ismaili Net website.
 [^3]:[Forbidden Hill of beauty](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19840307-1.2.80.5.1.aspx). (1984, March 7). *The Straits Times*, p. 3. Retrieved from NewspaperSG.
-[^4]:Roff, W. R. (1967). The origins of Malay nationalism (p. 48). Singapore: University of Malaya Press. Call no: RCLOS 320.54 ROF-[SEA]
-[^5]:Feener, R. M., & Sevea, T. (Eds.). (2009). Islamic connections: Muslim societies in South and Southeast Asia (pp. 93–94). Singapore: Institute of Southeast Asian Studies. Call no: RSING 297.0954 ISL
-[^6]:Bala, Baskaran. (2010, December 18). சி வீ குப்புசாமியும், வாழ்க்கை வரலாறும், 1967ஆம் ஆண்டு மலாயாத் தமிழ் எழுத்தாளர் சங்க ஆண்டு விழா உரையும். Retrieved from Balabaskaran blogpspot.
-[^7]:Friday 9th June. (1876, June 10). Straits Times Overland Journal, p 12. Retrieved from NewspaperSG.
-[^8]:இலங்கைத் தமிழ்மணி மானாமக்கீன் (2013, Mar). இஸ்லாமியத் தமிழ் இலக்கியத்தின் இணையம் இன்றல்ல. Retrieved from Mudukulathur website.
-[^9]:நெடுமாறன், முரசு [Muracu. Neṭumār̲an̲]. (1997). மலேசியத் தமிழ்க் கவிதைக் களஞ்சியம்: 1887–1987 [Malēciyat Tamil̲k kavitaik kaḷañciyam: 1887–1987] (pp.581–582). சிலாங்கூர்: அருள்மதியம் பதிப்பகம் [Cilāṅkūr: Aruḷmatiyam Patippakam]. Call no: R 894.8111 MAL
+[^4]:Roff, W. R. (1967). [*The origins of Malay nationalism*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=2003368) (p. 48). Singapore: University of Malaya Press. Call no: RCLOS 320.54 ROF-[SEA]
+[^5]:Feener, R. M., & Sevea, T. (Eds.). (2009). [*Islamic connections: Muslim societies in South and Southeast Asia*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13217014) (pp. 93–94). Singapore: Institute of Southeast Asian Studies. Call no: RSING 297.0954 ISL
+[^6]:Bala, Baskaran. (2010, December 18). *சி வீ குப்புசாமியும், வாழ்க்கை வரலாறும், 1967ஆம் ஆண்டு மலாயாத் தமிழ் எழுத்தாளர் சங்க ஆண்டு விழா உரையும்*. Retrieved from Balabaskaran blogpspot.
+[^7]:[Friday 9th June](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stoverland18760610-1.2.41.aspx). (1876, June 10). *Straits Times Overland Journal*, p 12. Retrieved from NewspaperSG.
+[^8]:*இலங்கைத் தமிழ்மணி மானாமக்கீன்* (2013, Mar). *இஸ்லாமியத் தமிழ் இலக்கியத்தின் இணையம் இன்றல்ல*. Retrieved from Mudukulathur website.
+[^9]:நெடுமாறன், முரசு [Muracu. Neṭumār̲an̲]. (1997). [மலேசியத் தமிழ்க் கவிதைக் களஞ்சியம்: 1887–1987](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84560013) [Malēciyat Tamil̲k kavitaik kaḷañciyam: 1887–1987] (pp.581–582). சிலாங்கூர்: அருள்மதியம் பதிப்பகம் [Cilāṅkūr: Aruḷmatiyam Patippakam]. Call no: R 894.8111 MAL.
