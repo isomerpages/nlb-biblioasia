@@ -65,3 +65,14 @@ Hicks.
 – Written by Lee Meiyu
 
 #### **NOTES**
+[^1]:Gullick, J. M. (2005). Introduction. In W. W. Skeat, Malay Magic: Being an introduction to the folklore and popular religion of the Malay Peninsula (p. A5). Kuala Lumpur: Academe Art & Printing Services. Call no.: RSEA 398.4 SKE
+[^2]:Gullick, 2005, p. A5.
+[^3]:Gullick, J. M. (1988). W. W. Skeat and Malayan ethnography - an appreciation. Journal of the Malaysian Branch of the Royal Asiatic Society, Vol. 61, No. 1 (254), 117. Retrieved from JSTOR via NLB’s eResources website.
+[^4]:Hood Salleh. (1984). Introduction. In W. W. Skeat, Malay Magic: Being an introduction to the folklore and popular religion of the Malay Peninsula (p. viii). Singapore: Oxford University Press. Call no.: RSING 398.4 SKE
+[^5]:Gullick, 2005, pp. A1–A2.
+[^6]:Mason, O. T. (1900, March 23). Review. Science, New Series, 11(273), 466. Retrieved from JSTOR via NLB’s eResources website.
+[^7]:A. C. H. (1900). Review: 76. The Journal of the Anthropological Institute of Great Britain and Ireland, 30, 77–78. Retrieved from JSTOR via NLB’s eResources website.
+[^8]:Gullick, 2005, pp. A3–A7.
+[^9]:Gullick, 1988, pp. 117–122.
+[^10]:Blagden, C. O. (1900). Preface. In W. W. Skeat, Malay Magic: Being an introduction to the folklore and popular religion of the Malay Peninsula (p. xv). London: Macmillan. Microfilm nos.: NL 5141, NL 8825
+[^11]:Gullick, 1988, pp. 117–152; Laidlaw, F. F. (1953, July). Obituary: W. W. Skeat, 1866–1953. Journal of the Malaysian Branch of the Royal Asiatic Society, Vol. 26, No. 1 (161), 225–228. Retrieved from JSTOR via NLB’s eResources website.
