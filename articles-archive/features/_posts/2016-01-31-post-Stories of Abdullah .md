@@ -31,6 +31,15 @@ As a scribe and interpreter for Raffles, and a Malay teacher to several English 
 Among other things, the *Hikayat* chronicles the three changes of the European guard in Melaka, the establishment of the British settlement in Singapore in 1819, Sultan Husain Shah’s brief rule during the early days of the settlement, and the 
 eventual ceding of the island by the sultan and temenggung of Johor to the East India Company. The autobiography captures the breathless pace of Singapore’s development as a trading port under the British Empire, recounting the construction of new infrastructure, the boom in commerce, and the influx of immigrants that led to the island’s multi-racial population.7
 
-Departing from the courtly tradition of Malay texts, Abdullah adopted a journalistic tenor that suited his forthright views. His passages are realistic and lively, incorporating many Malay idioms and proverbs.8 The unusually conversational tone was inspired by the *Sejarah Melayu* (*Malay Annals*) (see page 47), a book about the history of the Melaka Sultanate in the 
-15th and early 16th centuries. Abdullah had 
-edited a version of *Sejarah Melayu* while
+Departing from the courtly tradition of Malay texts, Abdullah adopted a journalistic tenor that suited his forthright views. His passages are realistic and lively, incorporating many Malay idioms and proverbs.8 The unusually 
+conversational tone was inspired by the *Sejarah Melayu* (*Malay Annals*) (see page 47), a book about the history of the Melaka Sultanate in the 
+15th and early 16th centuries. Abdullah had edited a version of *Sejarah Melayu* while working for Reverend Benjamin Keasberry, a Protestant missionary and noted leader in Malay education and in printing.9
+
+It was another missionary and printer, Alfred North, who encouraged Abdullah to write an account of the Malay people – including traditional Malay stories, customs, prejudices and superstitions – that would interest the Europeans.10 In this effort, *Hikayat Abdullah* succeeded splendidly – it became the best-known Malay literary work among Europeans.11
+
+Abdullah was the first local to have his works published in Malay, earning him the reputation of the “father of modern Malay literature”.12 In recent times, however, Abdullah has also been called a stooge of the British for his pro-British 
+views.13 Regardless, he certainly earned the epithet “father of Malay printing.” He and Reverend Claudius Henry Thomsen introduced printing to Singapore when they arrived from Melaka in 1822 (see page 100). Abdullah’s works would have been beautiful editions even then – *Hikayat*’s fine calligraphy and beautifully coloured double frontispiece made it among the most impressive Malay works ever printed in the Straits Settlements.14
+
+This copy of the *Hikayat Abdullah*, which carries a dedication in English to William J. Butterworth, governor of the Straits Settlements from 1843–55, was one of two artefacts the National Library submitted to the “Treasures from the World’s Great Libraries” exhibition held from 2001–02 at the National Library of Australia in Canberra.15
+
+Munsyi Abdullah died in Mecca in 1854 while on pilgrimage.16 But his legacy is assured: Hikayat Abdullah is a lasting milestone in modern Malay literature. 
