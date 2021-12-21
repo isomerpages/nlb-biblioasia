@@ -44,8 +44,7 @@ paraphernalia, the recital of formulae, prayers, sacrifices, lustrations, fastin
 The book contains illustrations Skeat had earlier presented to the Cambridge University Museum of Archaeology and Ethnology in 1897.7 In addition, it contains an appendix of almost 100 pages, which largely record Malay oral texts.
 
 <img src="/images/vol-11-issue-4/of-spells-and-magic/M3.JPG">
-<div style="background-color: white;"> The title page of Malay Magic. The book documents rituals and superstitions relating to the spirit world as practised by Malays in the 19th century. Image 
-source: National Library Board, Singapore.</i></div>
+<div style="background-color: white;"> The title page of <i>Malay Magic</i>. The book documents rituals and superstitions relating to the spirit world as practised by Malays in the 19th century. <i>Image source: National Library Board, Singapore.</i></div>
 
 In total, *Malay Magic* records some 270 spells and charms. It has been reprinted several times, and the 2005 reprint includes an appendix showing additional annotations by Skeat on two 
 copies of the printed book over the half century following its first publication. One of the annotated copies of *Malay Magic* is kept by a member of the Skeat family, while the other is at Oxford University.8
@@ -56,6 +55,9 @@ Most of Skeat’s ethnographic work, which formed the basis of *Malay Magic*, wa
 
 Skeat’s interest in the Malays and the Malayan aborigines was the subject of his second book: *Pagan Race of the Malayan Peninsula* (1906). He also published an account of his 1899–1900 expedition in *Reminiscences of the Cambridge University Expedition to the North-Eastern Malay 
 States, 1899–1900* in volume 26, issue 4 of the *Journal of the Malaysian Branch of the Royal Asiatic Studies*. Thereafter, his health failed, and he was unable to return to Malaya again.
+
+<img src="/images/vol-11-issue-4/of-spells-and-magic/M4.JPG">
+<div style="background-color: white;">These diagrams illustrated in the book are used for divinatory purposes. The top left figure has different points drawn on its anatomy for divination means. The bottom left diagram is used like a compass with the diviner counting around it from point to point. The two diagrams on the right are different types of “magic squares”. <i>All rights reserved, Malay Magic.</i></div>
 
 Two of the National Library’s three copies of *Malay Magic* are donated. One is part of the Ya Yin Kwan Collection donated by Tan Yeok Seong in 1964; the second was a more recent donation in 2012 by the philanthropist and writer George L. 
 Hicks.
