@@ -26,24 +26,12 @@ the printer (Haji Muhammad Nuh bin Haji Ismail) and the copyist (Tengku Yusof bi
 Pre-20th-century Southeast Asian Qur’ans, whether handwritten or printed, are generally scarce because the region’s tropi cal climate is not conducive tothe preserva tion of paper-based materials. Colophons especially, if they are even included in the book, do not often survive as they undergo much wear and tear due to their placement at the front or end pages. This rare copy 
 of the Qur’an is a product of the pioneer ing phase (1860–80) of Muslim1 publishing in Singapore.
 
-The book begins with instructions on *tajwid* (rules on the recitation of the Qur’an) before the Qur’anic text begins. It contains three decorated double-spread pages in the beginning, middle and end. The designs found on the double-spreads at the beginning and the end are exactly the same, although they been coloured differently. On closer inspection, the blue, green, yellow (likely imitating gold) and red inks have been applied rather clumsily. In
-terms of design, this Qu’ran is reminiscent 
-of the highly prized and ornate manuscript 
-Qur’ans produced in Terengganu,2
- in the 
-east coast of the Malay Peninsula.
-In typical Terengganu-style Qur’ans, 
-the text box on the double-spread pages is 
-usually enclosed within a series of decorated 
-rectangular borders and lobed arches that 
-form a continuous outline on the three outer 
-edges of the box. The opening and closing 
-double-spreads also feature decorative 
-borders on the outer edges of the pages 
-with finials that project towards the lobed 
-arches. Annabel Gallop, a scholar of Malay 
-manuscripts, calls this decorative feature a 
-“stalagmite-stalactite” effect.3
+The book begins with instructions on *tajwid* (rules on the recitation of the Qur’an) before the Qur’anic text begins. It contains three decorated double-spread pages in the beginning, middle and end. The designs found on the double-spreads at the beginning and the end are exactly the same, although they been coloured differently. On closer inspection, the blue, green, yellow (likely imitating gold) and red inks have been applied rather clumsily. In terms of design, this Qu’ran is reminiscent 
+of the highly prized and ornate manuscript Qur’ans produced in Terengganu,2 in the east coast of the Malay Peninsula.
+
+In typical Terengganu-style Qur’ans, the text box on the double-spread pages is usually enclosed within a series of decorated 
+rectangular borders and lobed arches that form a continuous outline on the three outer edges of the box. The opening and closing double-spreads also feature decorative borders on the outer edges of the pages with finials that project towards the lobed arches. Annabel Gallop, a scholar of Malay manuscripts, calls this decorative feature a “stalagmite-stalactite” effect.3
+
 The copyist of this Qur’an, Tengku Yusof 
 bin Tengku Ibrahim of Terengganu, enjoyed 
 the distinction of being one of two principal 
@@ -64,4 +52,4 @@ a big influence during the early phase of
 Muslim printing in Singapore. The lithograph 
 basically reproduced the format of the original manuscript but allowed multiple copies 
 of the book to be printed economically. The 
-copyist would transcribe the text in special 
+copyist would transcribe the text in special
