@@ -5,9 +5,8 @@ date: 2016-01-31
 layout: post
 description: ""
 ---
-
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
-	<b>Title:</b> <i>[India Tercera Nuova Tavola](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13770230)</i><br>
+	<b>Title:</b> <i><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13770230"> India Tercera Nuova Tavola </a></i><br>
 <b>Creator:</b> Girolamo Ruscelli (c. 1504–1566)<br>
 <b>Year published:</b> 1561<br>
 <b>Publisher:</b> Vincenzo Valgrisi (Venice)<br>
