@@ -46,3 +46,5 @@ In publishing his dictionary, Bowrey had help from two eminent scholars who were
 a draft manuscript of his dictionary sometime in the late 17th century, and this draft was most probably the version he showed to the directors of the British East India Company, as he alludes to in the dedication of his work.16
 
 Much of Bowrey’s private life was unknown until the discovery of his personal papers in a manor in Worcestershire, England, in 1913. Bowrey’s manuscripts and several hundred letters and business papers were later purchased by a Colonel Henry Howard, and part of it was presented to the Guildhall Library in London in 1931.17
+
+#### **NOTES**
