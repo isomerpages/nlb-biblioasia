@@ -64,9 +64,9 @@ Hicks.
 – Written by Lee Meiyu
 
 #### **NOTES**
-[^1]:Gullick, J. M. (2005). Introduction. In W. W. Skeat, Malay Magic: Being an introduction to the folklore and popular religion of the Malay Peninsula (p. A5). Kuala Lumpur: Academe Art & Printing Services. Call no.: RSEA 398.4 SKE
-[^2]:Gullick, 2005, p. A5.
-[^3]:Gullick, J. M. (1988). W. W. Skeat and Malayan ethnography - an appreciation. Journal of the Malaysian Branch of the Royal Asiatic Society, Vol. 61, No. 1 (254), 117. Retrieved from JSTOR via NLB’s eResources website.
+[^1]:Gullick, J. M. (2005). Introduction. In W. W. Skeat, [*Malay Magic: Being an introduction to the folklore and popular religion of the Malay Peninsula*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12666706) (p. A5). Kuala Lumpur: Academe Art & Printing Services. Call no.: RSEA 398.4 SKE.
+[^2]:[Gullick](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12666706), 2005, p. A5.
+[^3]:Gullick, J. M. (1988). W. W. Skeat and Malayan ethnography - an appreciation. Journal of the Malaysian Branch of the Royal Asiatic Society, Vol. 61, No. 1 (254), 117. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
 [^4]:Hood Salleh. (1984). Introduction. In W. W. Skeat, Malay Magic: Being an introduction to the folklore and popular religion of the Malay Peninsula (p. viii). Singapore: Oxford University Press. Call no.: RSING 398.4 SKE
 [^5]:Gullick, 2005, pp. A1–A2.
 [^6]:Mason, O. T. (1900, March 23). Review. Science, New Series, 11(273), 466. Retrieved from JSTOR via NLB’s eResources website.
