@@ -21,7 +21,7 @@ This edition of the Qur’an in the National Library is unique because it is one
 modified Arabic script), along with the ad dress of the printer –Lorong Masjid Sultan Ali Iskandar – in the Kampong Gelam area, is indicated in the colophon or publisher’s imprint, at the end of the book. In addition, the colophon also contains the name of 
 the printer (Haji Muhammad Nuh bin Haji Ismail) and the copyist (Tengku Yusof bin Tengku Ibrahim).
 
-<img src="images/vol-11-issue-4/a-singapore-made-quran/Q1.JPG">
+<img style="width: 450px; height: 450px;" src="images/vol-11-issue-4/a-singapore-made-quran/Q1.JPG">
 <div style="background-color: white;">This 1869 Qur’an contains three decorated double-spread pages in the beginning, middle and end. In typical Terengganu-style Qur’ans, the text box on the opening pages is usually enclosed within decorated rectangular borders and lobed arches. <i>Image source: National Library Board, Singapore.</i></div>
 
 Pre-20th-century Southeast Asian Qur’ans, whether handwritten or printed, are generally scarce because the region’s tropi cal climate is not conducive tothe preserva tion of paper-based materials. Colophons especially, if they are even included in the book, do not often survive as they undergo much wear and tear due to their placement at the front or end pages. This rare copy 
@@ -30,14 +30,14 @@ of the Qur’an is a product of the pioneer ing phase (1860–80) of Muslim[^1] 
 The book begins with instructions on *tajwid* (rules on the recitation of the Qur’an) before the Qur’anic text begins. It contains three decorated double-spread pages in the beginning, middle and end. The designs found on the double-spreads at the beginning and the end are exactly the same, although they been coloured differently. On closer inspection, the blue, green, yellow (likely imitating gold) and red inks have been applied rather clumsily. In terms of design, this Qu’ran is reminiscent 
 of the highly prized and ornate manuscript Qur’ans produced in Terengganu,[^2] in the east coast of the Malay Peninsula.
 
-<img src="images/vol-11-issue-4/a-singapore-made-quran/Q3.JPG">
+<img style="width: 300px; height: 300px;" src="images/vol-11-issue-4/a-singapore-made-quran/Q3.JPG">
 <div style="background-color: white;"> The colophon – which contains the name of the copyist (Tengku Yusof bin Tengku Ibrahim) and the printer (Haji Muhammad Nuh bin Haji Ismail) on 
 the imprint page at the end of the Qur’an – is enclosed within a roundel. <i>Image source: al-Qur’an. (1869). Singapore: Kampung Gelam.</i></div>
 
 In typical Terengganu-style Qur’ans, the text box on the double-spread pages is usually enclosed within a series of decorated 
 rectangular borders and lobed arches that form a continuous outline on the three outer edges of the box. The opening and closing double-spreads also feature decorative borders on the outer edges of the pages with finials that project towards the lobed arches. Annabel Gallop, a scholar of Malay manuscripts, calls this decorative feature a “stalagmite-stalactite” effect.[^3]
 
-<img src="images/vol-11-issue-4/a-singapore-made-quran/Q2.JPG">
+<img style="width: 400px; height: 430px;" src="images/vol-11-issue-4/a-singapore-made-quran/Q2.JPG">
 <div style="background-color: white;">The leather cover of the Qur’an shows significant wear and tear along the edges. <i>Image source: National Library Board, Singapore.</i></div>
 
 The copyist of this Qur’an, Tengku Yusof bin Tengku Ibrahim of Terengganu, enjoyed the distinction of being one of two principal 
