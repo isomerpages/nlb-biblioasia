@@ -17,7 +17,7 @@ buildings in Singapore have undergone facelifts or changed their identities, whi
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-9-issue-4/oldsg/national_theatre.jpg">
+<img src="/images/vol-9-issue-4/oldsg/national_theatre.jpg" style="width:70%;">
 <i>MITA collection, courtesy of National Achieves Singapore; Ronni Pinsier collection, courtesy of National Achieves of Singapore; Courtesy of National Archives of Singapore.</i></div>
 
 #### **City Hall**
@@ -28,7 +28,7 @@ buildings in Singapore have undergone facelifts or changed their identities, whi
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-9-issue-4/oldsg/city_hall.jpg">
+<img src="/images/vol-9-issue-4/oldsg/city_hall.jpg" style="width:70%;">
 <i>MITA collection, courtesy of National Achieves Singapore; Ronni Pinsier collection, courtesy of National Achieves of Singapore; Courtesy of National Archives of Singapore.</i></div>
 
 #### **Grand Hotel De L'europe**
@@ -39,7 +39,7 @@ buildings in Singapore have undergone facelifts or changed their identities, whi
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-9-issue-4/oldsg/hotel_de_IEurope.jpg">
+<img src="/images/vol-9-issue-4/oldsg/hotel_de_IEurope.jpg" style="width:70%;">
 <i>MITA collection, courtesy of National Achieves Singapore; Ronni Pinsier collection, courtesy of National Achieves of Singapore; Courtesy of National Archives of Singapore.</i></div>
 
 #### **National Stadium**
@@ -50,7 +50,7 @@ Very fond memories, I’ve been here before I joined the Sports Council: to watc
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-9-issue-4/oldsg/national_stadium.jpg">
+<img src="/images/vol-9-issue-4/oldsg/national_stadium.jpg" style="width:70%;">
 <i>MITA collection, courtesy of National Achieves Singapore; Ronni Pinsier collection, courtesy of National Achieves of Singapore; Courtesy of National Archives of Singapore.</i></div>
 
 #### **Capitol Theatre**
@@ -61,7 +61,7 @@ Very fond memories, I’ve been here before I joined the Sports Council: to watc
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-9-issue-4/oldsg/capital_theatre.jpg">
+<img src="/images/vol-9-issue-4/oldsg/capital_theatre.jpg" style="width:70%;">
 <i>MITA collection, courtesy of National Achieves Singapore; Ronni Pinsier collection, courtesy of National Achieves of Singapore; Courtesy of National Archives of Singapore.</i></div>
 
 #### **Old Hill Street Police Station**
@@ -72,7 +72,7 @@ Very fond memories, I’ve been here before I joined the Sports Council: to watc
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-9-issue-4/oldsg/police_station.jpg">
+<img src="/images/vol-9-issue-4/oldsg/police_station.jpg" style="width:70%;">
 <i>MITA collection, courtesy of National Achieves Singapore; Ronni Pinsier collection, courtesy of National Achieves of Singapore; Courtesy of National Archives of Singapore.</i></div>
 
 <p style="font-size:15px;"><b>Lu Wenshi</b> is an Oral History Specialist with the National archives of Singapore. She conducts oral history interviews with individuals from different walks of life. Some oral history extracts in this article were contributed by Wenshi’s interviewees, and their narrations inspired her to curate this selection. She also conducts training for institutions that are keen to embark on their own oral history programme.</p>
