@@ -144,20 +144,20 @@ The fact that Wong’s images are held in the National Archives conditions how w
 [^2]:[Page 12  advertisements column 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19480610-1.2.129.1). (1948, June 10). *The Straits Times*, p. 12. Retrieved from NewspaperSG.
 [^3]:莫美颜 [Mo, M.Y.]. (1989, November 12). [快门霎那捕捉永恒](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb19891112-1.2.67.1.1) [Shutter in a split-second captured eternity]. 联合早报 [*Lianhe Zaobao*], p. 6; 李永乐 [Li, Y.L.]. (1989, November 12). [拥抱往事](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19891112-1.2.22.1) [Embrace the past]. 联合晚报 [*Lianhe Wanbao*], p. 11. Retrieved from NewspaperSG.
 [^4]:Hoe, I. (1987, March 6). 4[1-year wait for the big winner](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19870306-1.2.26.1). *The Straits Times*, Home, p. 10. Retrieved from NewspaperSG.
-[^5]:王玉云 [Wang, Y.Y.]. (1988, November 20). 黄杰夫辗过历史 [K.F. Wong traverses history].  *联合早报*  [*Lianhe Zaobao*], p. 6. Retrieved from NewspaperSG.
+[^5]:王玉云 [Wang, Y.Y.]. (1988, November 20). [黄杰夫辗过历史](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb19881120-1.2.72.2.1) [K.F. Wong traverses history].  *联合早报*  [*Lianhe Zaobao*], p. 6. Retrieved from NewspaperSG.
 [^6]:The White Rajahs were a dynastic monarchy of the British Brooke family, who ruled Sarawak from 1841 to 1946. The first White Rajah was James Brooke, who ruled until his death in 1868. As a reward for helping the Sultan of Brunei suppress “insurgency” among the indigenous peoples, Brooke was made the Rajah of Sarawak.
 [^7]:房汉佳 & 林韶华 [Fong, H.K., & Lim, S.H.]. (1995). 《世界著名摄影师黄杰夫》 [*World famous photographer K.F. Wong*] (pp. 9–10). 福州: 海潮摄影艺术出版社. (Not available in NLB holdings)
 [^8]:The Ibans or Sea Dayaks are a subgroup of the Dayak, the indigenous peoples of Borneo. Most Ibans are located in Sarawak.
 [^9]:Fong & Lim, 1995, p. 24.
 [^10]:Fong & Lim, 1995, p. 25.
 [^11]:Fong & Lim, 1995, p. 39.
-[^12]:K F Wong’s reflection of life. (1998, October 18). *Sarawak Tribune*, Panorama. (Not in NLB holdings).
+[^12]:K F Wong’s reflection of life. (1998, October 18). *Sarawak Tribune*, Panorama. (Not available in NLB holdings).
 [^13]:K.F. Wong’s photographs also appeared in *Straits Times Pictures 1948* and *Straits Times Pictures 1949*. Published by *The Straits Times*, these are annual compilations of photographs taken by staff photographers and other prominent practitioners from Malaya and British Borneo.
 [^14]:*Sarawak Tribune*, 1998.
 [^15]:Giam, S. (1960, August 4). [Genuine love for the Dyaks made him outstanding photographer](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19600804-1.2.104). *The Singapore Free Press*, p. 8. Retrieved from NewspaperSG.
 [^16]:Wong, K.F. (1960, September). 风土摄影十五年 [*Fifteen years of photography in Borneo*]. *Photoart*, 12. (Not available in NLB holdings).
 [^17]:[*The Singapore Free Press*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19600804-1.2.104), 4 Aug 1960, p. 8.
-[^18]:Horn, C. (2015). *The Orang Ulu and the museum: Investigating traces of collaboration and agency in ethnographic photographs from the Sarawak Museum in Malaysia* (p. 139) [Unpublished doctoral dissertation]. Melbourne, Australia: Swinburne University of Technology. (Not in NLB holdings)
+[^18]:Horn, C. (2015). *The Orang Ulu and the museum: Investigating traces of collaboration and agency in ethnographic photographs from the Sarawak Museum in Malaysia* (p. 139) [Unpublished doctoral dissertation]. Melbourne, Australia: Swinburne University of Technology. (Not available in NLB holdings).
 [^19]:Fong & Lim, 1995, p. 106.
 [^20]:Howell, W. (1948, June 21). [The Sea Dyaks of Borneo](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19480621-1.2.40). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
 [^21]:Bartlett, V. (1957, October 27). [It is really a winner](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19571027-1.2.113). *The Straits Times*, p. 12. Retrieved from NewspaperSG.
