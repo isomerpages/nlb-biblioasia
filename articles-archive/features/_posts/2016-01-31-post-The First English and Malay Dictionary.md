@@ -17,9 +17,16 @@ description: ""
 <b>Accession no.:</b> B03061459F
 	</span>
 	
+<img src="/images/vol-11-issue-4/the-first-dictionary/D1.JPG">
+<div style="background-color: white;">This bilingual dictionary published in 1701 contains a double-page map titled “A Map of the Countrys 
+wherein the Malayo Language is Spoken”, illustrating the geographical reach of the language in the 17th century. <i>Image source: National Library Board, Singapore.</i></div>
+
 The first-ever English and Malay dictionary was written by an unlikely swashbuckling British trader by the name of Thomas Bowrey.1 More interestingly, it was published in 1701, more than a century before Stamford Raffles even set foot in Singapore. 
 
 The hefty 594-page bi-directional dictionary – in English-Malay and Malay-English – includes 468 pages of words and definitions, a section on Malay rules of grammar as well as a compilation of miscellaneous phrases, sentences, dialogues and specimen letters. 
+
+<img src="/images/vol-11-issue-4/the-first-dictionary/D2.JPG">
+<div style="background-color: white;"> The title page of the 594-page bilingual English-Malay and Malay-English dictionary written by an Englishman. <i>All rights reserved, Bowrey, T. (1701). A Dictionary: English and Malayo, Malayo and English. London: Printed by Sam Bridge</i></div>
 
 Both English and Malay words are listed in alphabetical order, a convention that is still used today. The dictionary also contains a double-page map titled “A Map of the Countrys wherein the Malayo Language is Spoken”, illustrating the geographical reach of the language in the 17th century. 
 
@@ -37,6 +44,9 @@ Malay language continued to be the *lingua franca* of trade in the East Indies.9
 
 Bowrey, who spoke Malay fluently, made no bones about the fact that the pursuit of trade in the Malay-speaking countries was his biggest incentive for compiling the dictionary.10 John Leyden (see page 47), a scholar of the Malay language, called the dictionary a work of “great merit and labour” a century after its publication,11 while Richard O. Winstedt in his book, *Malaya* (1923), said Bowrey’s grasp of working Malay was something “to be envied”. Stamford Raffles himself might have benefitted from Bowrey’s 
 mastery. Winstedt wrote that when Raffles sought to bring himself up to speed in Malay during his long voyage to the East, he gleaned heartily from “some antediluvian book”. This book could very well be Bowrey’s dictionary.12
+
+<img src="/images/vol-11-issue-4/the-first-dictionary/D3.JPG">
+<div style="background-color: white;"> A watercolour painting of a Malay couple performing the traditional ronggeng dance by E. Schlitter, 1858. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i></div>
 
 Bowrey, who left England in 1668 when he was barely 19 years old, likely compiled his dictionary during his return voyage home after trading in the Eastern Isles for almost 20 years. In 1688, Bowrey 
 boarded the ship *Bangala Merchant* and with time on his hands during the long journey, likely scoured from his memory the vast working knowledge of Malay he had built up over the years from his travels.13 With no access to references, Bowrey’s corpus of Malay vocabulary 
