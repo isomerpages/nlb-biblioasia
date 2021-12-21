@@ -58,7 +58,7 @@ journey to and from Mecca. This was partly due to the restrictive regulations on
 
 This particular Qur’an, donated by the academic and writer Dr Farish Noor in 2015, was purchased in Java. It could have been brought to Java by a returning pilgrim from Singapore or distributed there by the printer. 
 
-– Tan Huism
+– Written by Tan Huism
 
 #### **NOTES**
 [^1]:The term “Muslim” is used here in the same way as Ian Proudfoot, to refer to the religious faith of the agents who produced the materials and not necessarily the content of the publications. The earliest known printed Qur’an produced in Southeast Asia was published in 1854 by a Muslim from
