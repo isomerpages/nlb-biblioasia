@@ -25,7 +25,7 @@ The first-ever English and Malay dictionary was written by an unlikely swashbuck
 
 The hefty 594-page bi-directional dictionary – in English-Malay and Malay-English – includes 468 pages of words and definitions, a section on Malay rules of grammar as well as a compilation of miscellaneous phrases, sentences, dialogues and specimen letters. 
 
-<img src="/images/vol-11-issue-4/the-first-dictionary/D2.JPG">
+<img style="width: 300px; height: 400px;" src="/images/vol-11-issue-4/the-first-dictionary/D2.JPG">
 <div style="background-color: white;"> The title page of the 594-page bilingual English-Malay and Malay-English dictionary written by an Englishman. <i>All rights reserved, Bowrey, T. (1701). A Dictionary: English and Malayo, Malayo and English. London: Printed by Sam Bridge</i></div>
 
 Both English and Malay words are listed in alphabetical order, a convention that is still used today. The dictionary also contains a double-page map titled “A Map of the Countrys wherein the Malayo Language is Spoken”, illustrating the geographical reach of the language in the 17th century. 
