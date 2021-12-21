@@ -94,17 +94,16 @@ The House of Teo Hoo Lye was acquired by Mrs Loke Yew (née Lim Cheng Kim) in 19
 
 #### **NOTES**
 
-
-“Aw, the Tiger, is Dead,” Straits Times, 6 September 1954, 1. (From NewspaperSG)
-“Straits New Year Honours,” Singapore Free Press, 21 March 1918, 7. (From NewspaperSG); Song Ong Siang, One Hundred Years’ History of the Chinese in Singapore [electronic resource]: The Annotated Edition (Singapore: World Scientific Publishing Company, 2020) (From NLB OverDrive); “About Life in Malaysia…,” Straits Times, 15 December 1963, 19. (From NewspaperSG)
-Comparing two maps: Survey Department, Singapore, Land Divisions at Meyer Road, Tanjong Katong Road, Amber Road and its Surroundings, 18 April 1979, Map (From National Archives of Singapore, Accession no. SP005936); Survey Department Singapore, Singapore Road Map. Singapore South East, 1984, Map (From National Archives of Singapore, Accession no. SP006435); Peter Lee and Jennifer Chen, Rumah Baba: Life in a Peranakan House (Singapore: National Heritage Board, 1998), 31. (From National Library, Singapore, Call no. RSING 305.89510595 LEE)
-Alvin Chua, “Lee Cheng Yan,” in Singapore Infopedia, National Library Board Singapore. Article published 2009.
-Lee and Chen, Rumah Baba, 27. 
-Lee and Chen, Rumah Baba, 27. 
-Lee Kip Lin, The Singapore House, 1819–1942 (Singapore: Times Editions, 1988), 193. (From National Library, Singapore, Call no. RSING 728.095957 LEE); Lee and Chen, Rumah Baba, 31.
-“Mrs Lee Choon Guan,” Straits Times, 19 December 1931, 12. (From NewspaperSG) 
-Kwa Chong Guan, et al., Great Peranakans: Fifty Remarkable Lives, ed. Alan Chong (Singapore: Asian Civilisations Museum, 2015), 134. (From National Library, Singapore, Call no. RSING 305.895105957 GRE)
-Lee and Chen, Rumah Baba, 28.
+[^1]: “Aw, the Tiger, is Dead,” _Straits Times_, 6 September 1954, 1. (From NewspaperSG)
+[^2]: “Straits New Year Honours,” Singapore Free Press, 21 March 1918, 7. (From NewspaperSG); Song Ong Siang, _One Hundred Years’ History of the Chinese in Singapore [electronic resource]: The Annotated Edition_ (Singapore: World Scientific Publishing Company, 2020) (From NLB OverDrive); “About Life in Malaysia…,” _Straits Times_, 15 December 1963, 19. (From NewspaperSG)
+[^3]: Comparing two maps: Survey Department, Singapore, _Land Divisions at Meyer Road, Tanjong Katong Road, Amber Road and its Surroundings_, 18 April 1979, Map (From National Archives of Singapore, Accession no. SP005936); Survey Department Singapore, _Singapore Road Map. Singapore South East_, 1984, Map (From National Archives of Singapore, Accession no. SP006435); Peter Lee and Jennifer Chen, _Rumah Baba: Life in a Peranakan House_ (Singapore: National Heritage Board, 1998), 31. (From National Library, Singapore, Call no. RSING 305.89510595 LEE)
+[^4]: Alvin Chua, “Lee Cheng Yan,” in _Singapore Infopedia_, National Library Board Singapore. Article published 2009.
+[^5]: Lee and Chen, Rumah Baba, 27. 
+[^6]: Lee and Chen, Rumah Baba, 27. 
+[^7]: Lee Kip Lin, _The Singapore House, 1819–1942_ (Singapore: Times Editions, 1988), 193. (From National Library, Singapore, Call no. RSING 728.095957 LEE); Lee and Chen, _Rumah Baba_, 31.
+[^8]: “Mrs Lee Choon Guan,” _Straits Times_, 19 December 1931, 12. (From NewspaperSG) 
+[^9]: Kwa Chong Guan, et al., _Great Peranakans: Fifty Remarkable Lives_, ed. Alan Chong (Singapore: Asian Civilisations Museum, 2015), 134. (From National Library, Singapore, Call no. RSING 305.895105957 GRE)
+[^10]: Lee and Chen, _Rumah Baba_, 28.
 Sam King, “House that Aw Built,” Singapore Monitor, 22 April 1984, 26. (From NewspaperSG)
 “House that Aw Built.”
 “House that Aw Built.”
