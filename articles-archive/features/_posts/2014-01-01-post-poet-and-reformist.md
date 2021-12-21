@@ -141,6 +141,10 @@ Ren Feng (the first was published in <i>BiblioAsia</i> Oct–Dec 2013, Vol. 9 Is
 
 本文写作过程中，得到新加坡国家图书馆王连美女士、赖燕鸿先生、叶若诗女士的大力相助，谨表感谢。
 
+<p style="font-size:15px;">Professor <b>Zhang Renfeng</b> is a member of the Shanghai Research Institute of Culture and History. He has been involved in the study of Zhang Yuanji, renowned educationist, bibliographer and founder of China’s modern publishing business. He compiled the 10-volume <i>Works of Zhang Yuanji</i>; his own works include <i>the Collection of Research papers on Zhang Yuanji, and Zhang Yuanji, an Enlightener of the people, Chronicle of life of Zhang Yuanji, and Zhang Yuanji, an Enlightener of the people.</i></p>
+
+<a href="https://biblioasia.nlb.gov.sg/vol-9/issue-4/jan-mar-2014/"><center>Back to Issue</center></a>
+
 #### **引注**
 
 [^1]:《康有为全集》第12集，姜义华、张荣华编校，中国人民大学出版社2007年9月版，第201页 
@@ -161,7 +165,3 @@ Ren Feng (the first was published in <i>BiblioAsia</i> Oct–Dec 2013, Vol. 9 Is
 [^16]: 原件，王清建藏
 [^17]:《康有为全集》第5集，第393页
 [^18]:《丘菽园居士诗集》，有康有为庚戌夏五（1910夏）序，与编入《康有为全集》的《啸虹生诗集序》不同
-
-<p style="font-size:15px;">Professor <b>Zhang Renfeng</b> is a member of the Shanghai Research Institute of Culture and History. He has been involved in the study of Zhang Yuanji, renowned educationist, bibliographer and founder of China’s modern publishing business. He compiled the 10-volume <i>Works of Zhang Yuanji</i>; his own works include <i>the Collection of Research papers on Zhang Yuanji, and Zhang Yuanji, an Enlightener of the people, Chronicle of life of Zhang Yuanji, and Zhang Yuanji, an Enlightener of the people.</i></p>
-
-<a href="https://biblioasia.nlb.gov.sg/vol-9/issue-4/jan-mar-2014/"><center>Back to Issue</center></a>
