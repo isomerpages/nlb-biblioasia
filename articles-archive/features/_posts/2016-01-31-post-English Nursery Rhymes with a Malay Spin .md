@@ -16,9 +16,8 @@ description: ""
 <b>Accession no.:</b> B02822610J<br>
 	</span>
 	
-<img src="/images/vol-11-issue-4/english-nursery-rhymes/M1.JPG">
-<div style="background-color: white;">The Peranakan community is depicted in “I Love Little Pussy [Cat]” (“Sahaya Sayangkan Kuching”), by way of a drawing of a little Peranakan girl stroking a cat perched on a ledge, while the girl’s mother or 
-	grandmother looks on, clad in a traditional <i>sarong kebaya</i> and beaded slippers. <i>All rights reserved, Hamilton, A. W. (1939). Haji’s Book of Malayan Nursery Rhymes. Singapore: Printers Ltd.</i></div>
+<img style="width: 650px; height: 400px;" src="/images/vol-11-issue-4/english-nursery-rhymes/M1.JPG">
+<div style="background-color: white;">The Peranakan community is depicted in “I Love Little Pussy [Cat]” (“Sahaya Sayangkan Kuching”), by way of a drawing of a little Peranakan girl stroking a cat perched on a ledge, while the girl’s mother or grandmother looks on, clad in a traditional <i>sarong kebaya</i> and beaded slippers. <i>All rights reserved, Hamilton, A. W. (1939). Haji’s Book of Malayan Nursery Rhymes. Singapore: Printers Ltd.</i></div>
 
 Many of us would recognise nursery rhymes such as “Mary Had A Little Lamb” and “Hot Cross Buns”, but reading Malay versions of 
 these typically British children’s poems in a culturally misplaced context takes some getting used to.
@@ -39,7 +38,7 @@ for instance, features an Indian hawker selling bread, while the one for “Mary
 
 “There Was A Little Girl”(“Ada Satu Misi”) is accompanied by an illustration of a Chinese *amah* wearing wooden clogs, with a Caucasian girl holding a ball – reflecting a time when Chinese women were commonly employed as domestic helpers. The Peranakan (Straits-born Chinese) community is depicted in the nursery rhyme, “I Love Little Pussy [Cat]” (“Sahaya Sayangkan Kuching”), by way of a drawing of a little Peranakan girl stroking a cat perched on a ledge, while the girl’s mother or grandmother looks on, clad in a traditional *nonya kebaya*[^5] and beaded slippers.
  
- <img src="/images/vol-11-issue-4/english-nursery-rhymes/M3.JPG">
+ <img style="width: 350px; height: 450px;" src="/images/vol-11-issue-4/english-nursery-rhymes/M3.JPG">
 <div style="background-color: white;">The nursery rhyme “There Was A Little Girl” (“Ada Satu Misi”) is accompanied by an 
 illustration of a Chinese amah wearing wooden clogs, with a Caucasian girl holding a ball. <i>All rights reserved, Hamilton, A. W. (1939). Haji’s Book of Malayan Nursery Rhymes. Singapore: Printers Ltd.</i></div>
 	
@@ -51,7 +50,7 @@ As indicated in the book’s preface, Hamilton published several other titles su
 Malay Proverbs, Rubaiyat Omar Khayyam* (a Malay rendition of Edward Fitzgerald’s English translation of poems by the Persian 
 poet, Omar Khayyam), and *Sang Lomri* (a Malay translation of the European medieval tale *Reynard the Fox*).
 
-<img src="/images/vol-11-issue-4/english-nursery-rhymes/M2.JPG">
+<img style="width: 350px; height: 450px;" src="/images/vol-11-issue-4/english-nursery-rhymes/M2.JPG">
 <div style="background-color: white;">The cover of <i>Haji’s Book of Malayan Nursery Rhymes</i> features a group of Malay children listening to a storyteller (presumably the Haji), with a mosque and coconut palms in the background. <i>Image source: National Library Board, Singapore</i></div>
 	
 The National Librar y’s copy of *Haji’s Book of Malayan Nursery Rhymes* bears a Raffles Library stamp dated 29 May 1940. The book was republished in 1947 by the Sydney-based Australasian Publishing, and again in 1956 by Donald Moore for Eastern Universities Press in Singapore. In 1985, Times Book International published a revised edition with a new title: *Haji’s Book of Favourite Nursery Rhymes*.
