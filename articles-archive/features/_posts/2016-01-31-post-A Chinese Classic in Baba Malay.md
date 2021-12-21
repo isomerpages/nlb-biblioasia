@@ -5,14 +5,13 @@ date: 2016-01-31
 layout: post
 description: ""
 ---
-
-<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> 
-<b>Title:</b> <i>Chrita Dahulu-kala, Namanya Sam 
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
+<b>Title:</b> <i>[Chrita Dahulu-kala, Namanya Sam 
 Kok, Atau, Tiga Negri Ber-prang: Siok, 
 Gwi, Sama Gor di Jaman “Han Teow” 
 (Ancient Story Entitled Sanguo or the Three 
 Kingdoms at War: Shu, Wei and Wu During 
-	the Han Dynasty)</i><br>
+	the Han Dynasty)]</i>(http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4140500)<br>
 <b>Author:</b> Chan Kim Boon (1851–1920)<br>
 <b>Year published:</b> 1892–1896<br>
 <b>Publisher:</b> Kim Sek Chye Press (Singapore)<br>
@@ -22,7 +21,7 @@ total<br>
 <b>Location:</b> Call no.: RRARE 895.135 CHR<br>
 <b>Accession no.:</b> B00607851E (v.24)<br>
 <b>Donated by:</b> National Museum Singapore
-</div>
+</span>
 
 <img style="width: 350px; height: 450px;" src="/images/Vol-15-issue-2/rare-materials/Baba1.JPG">
 <div style="background-color: white;"><i>Chrita Dahulu-kala, Namanya Sam Kok, Atau, Tiga Negri Ber-prang: Siok, Gwi, Sama Gor di Jaman “Han Teow”</i> – based on the Chinese classic text <i>Romance of the Three Kingdoms</i> – comprises 30 volumes in the series. <i>Image source: National Library Board, Singapore.</i></div>
