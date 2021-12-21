@@ -60,3 +60,13 @@ This particular Qur’an, donated by the academic and writer Dr Farish Noor in 2
 
 – Tan Huism
 
+#### **NOTES**
+[^1]:The term “Muslim” is used here in the same way as Ian Proudfoot, to refer to the religious faith of the agents who produced the materials and not necessarily the content of the publications. The earliest known printed Qur’an produced in Southeast Asia was published in 1854 by a Muslim from
+Palembang who bought the lithographic press from Singapore. Based on confirmed dated materials, Islamic printing existed in Singapore from 1860 onwards. See Proudfoot, I. (1993), [*Early Malay printed books: A provisional account of materials published in the Singapore-Malaysia area up to 1920, noting holdings in major public collections*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6712616) (pp. 27, 432). Malaysia: Academy of Malay Studies and the Library, University of Malaya. Call no: RSING 015.5957 PRO-[LIB]
+[^2]:See for example, Tan, H. (2010, January/February). A royal Terengganu Qur’an in the Collection of the Asian Civilisations Museum. [*Arts of Asia*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=923033). Call no: R709.5AA
+[^3]:Gallop, A. T. (2005, July). The spirit of Langkasuka? Illuminated manuscripts from the East Coast of the Malay Peninsula. Indonesia and the Malay World, 33 (96), 118. Retrieved from Academia website. 
+[^4]:[Proudfoot](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6712616), 1993, p. 37.
+[^5]:Proudfoot, I. (1986). A formative period in Malay book publishing. Journal of the Malaysian Branch of the Royal Asiatic Society, 59 (2) (251), 110. Retrieved from JSTOR via NLB’s [eResources](C:\Users\nlsvchl\AppData\Local\Microsoft\Windows\INetCache\Content.Outlook\8U0SSXGP\via NLB’s eResources website) website.
+[^6]: [Proudfoot](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6712616), 1993, pp. 36–37.
+[^7]:The Dutch government in the Netherlands East Indies was suspicious and fearful of the “subversive” influence of returning haji (pilgrims), so set about instituting restrictions to hinder travel to Arabia. See Roff, W. (1964). The Malayo-Muslim world of Singapore at the close of the nineteenth century. The Journal of Asian Studies, 24 (1), 75–90. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
+
