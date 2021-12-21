@@ -32,3 +32,29 @@ A 1985 review of the reprinted edition, however, criticised Hamilton’s sometim
 Hamilton tried to create Malayan settings in his translations, demonstrating his familiarity with places in Malaya and how 
 people lived. The illustrations – all rendered by “the brush of Mrs Nora Hamerton” – for “Hot Cross Buns” (“Roti Manis Hangat”), 
 for instance, features an Indian hawker selling bread, while the one for “Mary Had A Little Lamb” (“Mariam Ada Kambing Kecil”) shows a Malay girl leading a baby goat on a leash.
+
+“There Was A Little Girl”(“Ada Satu Misi”) is accompanied by an illustration of a Chinese *amah* wearing wooden clogs, with a Caucasian girl holding a ball – reflecting a time when Chinese women were commonly employed as domestic helpers. The Peranakan (Straits-born Chinese) community is depicted in the nursery rhyme, “I Love Little Pussy [Cat]” (“Sahaya Sayangkan Kuching”), by way of a drawing of a little Peranakan girl stroking a cat perched on a ledge, while the girl’s mother or grandmother looks on, clad in a traditional *nonya kebaya*5 and beaded slippers.
+ 
+These local twists were well received: a newspaper reviewer at the time commented that “European children in Malaya who grow up to speak Malay and English equally fluently or equally hesitantly, should find delight in Mr A. W. Hamilton’s new book of Malayan nursery rhymes.”6
+
+Although a prolific writer, little is known about Hamilton, except that he spent part of his life in Teluk Belanga, Penang, where he learnt Malay and became familiar with the “kampong” way of life.7 It was also reported that he used to serve in the Federated Malay States Police as an officer, and was also a linguist, botanist and author of several Malay text books.8
+
+As indicated in the book’s preface, 
+Hamilton published several other titles such 
+as Easy Malay Vocabulary, Malay Sonnets, 
+Malay Proverbs, Rubaiyat Omar Khayyam 
+(a Malay rendition of Edward Fitzgerald’s 
+English translation of poems by the Persian 
+poet, Omar Khayyam), and Sang Lomri (a 
+Malay translation of the European medieval 
+tale Reynard the Fox).
+The National Librar y’s copy of 
+Haji’s Book of Malayan Nursery Rhymes
+bears a Raffles Library stamp dated 29 
+May 1940. The book was republished 
+in 1947 by the Sydney-based Australasian Publishing, and again in 1956 by 
+Donald Moore for Eastern Universities 
+Press in Singapore. In 1985, Times Book 
+International published a revised edition 
+with a new title: Haji’s Book of Favourite 
+Nursery Rhymes.
