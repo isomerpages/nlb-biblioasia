@@ -77,7 +77,7 @@ During the Japanese Occupation, church services ceased as the cathedral acted as
 <br><br>
 St Andrew’s Cathedral is the oldest Anglican house of worship in Singapore and was gazetted as a national monument in 1973.
 <br><br>
-<img src="/images/vol-9-issue-4/colonial/cathedral.jpg">St Andrew's Cathedral. <i>chooyutshing, via Flickr.</i></span>
+<img src="/images/vol-9-issue-4/colonial/cathedral.jpg" style="width:70%;">St Andrew's Cathedral. <i>chooyutshing, via Flickr.</i></span>
 
 <i>The author would like to thank Ms Lau Jen Sin and Reverend Canon Soon Soo Kee for reviewing this article.</i>
 
