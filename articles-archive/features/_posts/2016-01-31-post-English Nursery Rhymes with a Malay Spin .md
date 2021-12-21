@@ -16,7 +16,7 @@ description: ""
 <b>Accession no.:</b> B02822610J<br>
 	</span>
 	
-<img style="width: 650px; height: 400px;" src="/images/vol-11-issue-4/english-nursery-rhymes/M1.JPG">
+<img style="width: 650px; height: 500px;" src="/images/vol-11-issue-4/english-nursery-rhymes/M1.JPG">
 <div style="background-color: white;">The Peranakan community is depicted in “I Love Little Pussy [Cat]” (“Sahaya Sayangkan Kuching”), by way of a drawing of a little Peranakan girl stroking a cat perched on a ledge, while the girl’s mother or grandmother looks on, clad in a traditional <i>sarong kebaya</i> and beaded slippers. <i>All rights reserved, Hamilton, A. W. (1939). Haji’s Book of Malayan Nursery Rhymes. Singapore: Printers Ltd.</i></div>
 
 Many of us would recognise nursery rhymes such as “Mary Had A Little Lamb” and “Hot Cross Buns”, but reading Malay versions of 
