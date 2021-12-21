@@ -42,7 +42,7 @@ Thankfully, a stronger Asian leadership emerged after the war. The church, with 
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-9-issue-4/colonial/bg.jpg"></div>
+<img src="/images/vol-9-issue-4/colonial/bg.jpg" style="width:70%;"></div>
 
 #### **The Anglican Archives in Singapore**
 
