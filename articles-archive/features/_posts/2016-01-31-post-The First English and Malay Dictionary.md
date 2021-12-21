@@ -61,15 +61,15 @@ Much of Bowrey’s private life was unknown until the discovery of his personal 
 [^3]:Doshi, A. (1994). The development of the English/Malay Dictionary: A historical perspective (pp. 69–70). In B. & L. E. Newell. (Eds.), *Papers from the First Asia International Lexicography Conference, Manila, Philippines, 1992. LSP Special Monograph Issue*, 35. Retrieved from SIL International website; Howison, J. (1801). *A dictionary of the Malay tongue as spoken in the Peninsular of Malacca, the islands of Sumatra, Jawa, Borneo, Pulau Pinang etc. in two parts, English and Malay, and Malay and English*. London: Arabic and Persian Press. Retrieved from BookSG.
 [^4]:Jones, R. (1984). Malay studies and the British. *Archipel, 28*, 120–121. Retrieved 5 May, 2015, from Persee Revues Scientifiques website
 [^5]:Jones, 1984, p. 127; Mee, R. (1929, September). An old Malay dictionary. *Journal of the Malaysian Branch of the Royal Asiatic Society*, Vol. 7, No. 2 (107), 316. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
-[^6]:Bialuschewski, A. (2007). Thomas Bowrey’s Madagascar manuscript of 1708. History in Africa, 34, 32–33. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
-[^7]:Miller, G. (1991). Malay used by English country traders of the 18th century. Retrieved from Malay Concordance Project website.
+[^6]:Bialuschewski, A. (2007). Thomas Bowrey’s Madagascar manuscript of 1708. *History in Africa, 34*, 32–33. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
+[^7]:Miller, G. (1991). *Malay used by English country traders of the 18th century*. Retrieved from Malay Concordance Project website.
 [^8]:Doshi, 1994, p. 70.
-[^9]:Liu, A. H. (2015). Standardizing diversity: The political economy of language regimes (p. 27). Philadelphia: University of Pennsylvania Press. Call no.: RSEA 306.44959 LIU
-[^10]:Bowrey, 1701, p. 2.
+[^9]:Liu, A. H. (2015). [*Standardizing diversity: The political economy of language regimes*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201272779) (p. 27). Philadelphia: University of Pennsylvania Press. Call no.: RSEA 306.44959 LIU
+[^10]:[Bowrey](http://eresources.nlb.gov.sg/printheritage/detail/20d7b813-2055-40a0-8688-fca31227c28f.aspx), 1701, p. 2.
 [^11]:Jones, 1984, p. 128.
 [^12]:Mee, 1929, p. 316.
-[^13]:Bowrey, 1927, pp. xvii, xxx; Rei, C.  (2007, March 14). The organization of merchant empires: A case study of Portugal and England.  Retrieved from Department of Economics, University of Boston website.
-[^14]:Rost, R. (Ed.). (1886). Miscellaneous papers relating to Indo-China, (Vol. 1, p. 102). Retrieved from Google Books.
+[^13]:Bowrey, 1927, pp. xvii, xxx; Rei, C.  (2007, March 14). *The organization of merchant empires: A case study of Portugal and England.  Retrieved from Department of Economics*, University of Boston website.
+[^14]:Rost, R. (Ed.). (1886). *Miscellaneous papers relating to Indo-China*, (Vol. 1, p. 102). Retrieved from Google Books.
 [^15]:Jones, 1984, p. 120.
-[^16]:Mee, 1929, p. 316; Gallop, A. T. (2015, April 3). Early vocabularies of Malay. Retrieved from The British Library website.
+[^16]:Mee, 1929, p. 316; Gallop, A. T. (2015, April 3). *Early vocabularies of Malay*. Retrieved from The British Library website.
 [^17]:Bowrey, 1927; p. xxx; Bialuschewski, 2007, p. 31.
