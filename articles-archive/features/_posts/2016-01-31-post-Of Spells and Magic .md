@@ -29,6 +29,10 @@ This aspect of Malay life is documented in the book, *Malay Magic: Being an Intr
 One of the book’s key merits – and the reason why it is regarded as a classic – is Skeat’s meticulous description of the subject matter, which later allowed other ethnographers to compare it with similar beliefs in other cultures.2
 Previous ethnography studies lacked a sound grounding in factual information – what was available was mostly from the casual observations and writings of travellers, missionaries and administrators. His aim was not to interpret the information, but to record a traditional way of life that was in danger of disappearing, or being altered beyond recognition.3 Skeat’s work lay the foundations for future research, especially in the field of Malay and indigenous Orang Asli ethnography. At least two notable publications – *John Grim lette’s Malay Poisons and Charm Cures and Kirk Endicott’s An Analysis of Malay Magic* – are evidence of this.4
 
+<img src="/images/vol-11-issue-4/of-spells-and-magic/M2.JPG">
+<div style="background-color: white;"> A miniature replica showing a Malay medicine man (<i>bomoh</i> or <i>pawang</i>) at work, with a 
+patient lying in bed and a child at his side. <i>All rights reserved, Malay Magic.</i></div>
+
 Skeat’s methodology of systematic data collection, rather than theorising or explaining social behaviours, could have been influenced by his stint at Christ’s College, Cambridge. A. C. Haddon – a former student at the college – first advocated such methodical fieldwork; Robertson Smith, another Christ’s College fellow, argued that the collection of data was more important than mere theory, a belief also held by Skeat.5
 
 The first 50 pages of Skeat’s book discuss the Malays’ native cosmogony, anthropogony, animism and notions about souls. The next 50 pages or so discuss the world of spirits, the Malay pantheon and its relation to the human world, as 
@@ -38,6 +42,10 @@ The rest of the book details Malay beliefs and practices relating to fire, air, 
 paraphernalia, the recital of formulae, prayers, sacrifices, lustrations, fasting, divinations and witchcraft.6
 
 The book contains illustrations Skeat had earlier presented to the Cambridge University Museum of Archaeology and Ethnology in 1897.7 In addition, it contains an appendix of almost 100 pages, which largely record Malay oral texts.
+
+<img src="/images/vol-11-issue-4/of-spells-and-magic/M3.JPG">
+<div style="background-color: white;"> The title page of Malay Magic. The book documents rituals and superstitions relating to the spirit world as practised by Malays in the 19th century. Image 
+source: National Library Board, Singapore.</i></div>
 
 In total, *Malay Magic* records some 270 spells and charms. It has been reprinted several times, and the 2005 reprint includes an appendix showing additional annotations by Skeat on two 
 copies of the printed book over the half century following its first publication. One of the annotated copies of *Malay Magic* is kept by a member of the Skeat family, while the other is at Oxford University.8
