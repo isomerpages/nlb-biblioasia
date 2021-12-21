@@ -31,3 +31,31 @@ Although the Dutch – who had a longer presence in the Malay Archipelago – ha
 Credit should be given to Bowrey for reproducing his practical experience with spoken Malay into a dictionary despite the relatively short intervals of time he spent in the Malay-speaking regions.6
 Since Bowrey was likely not familiar with the written form, the Malay taught to him was not literary but idiomatic. The entries in his dictionary 
 are therefore representative of the type of Malay used in conversations between British traders and local Malays at the time.7 To ensure the Malay words are pronounced correctly, Bowrey inserted accent marks above the vowels.8
+
+The dictionary was probably useful 
+in facilitating the already significant trade 
+between British and local traders in the 
+Malay world. In earlier decades, the Portuguese (1511) and later Dutch (1641) had 
+invaded Melaka. Not only did trade thrive 
+under the different colonial powers, the 
+Malay language continued to be the lingua 
+franca of trade in the East Indies.9
+Bowrey, who spoke Malay fluently, 
+made no bones about the fact that the 
+pursuit of trade in the Malay-speaking 
+countries was his biggest incentive for 
+compiling the dictionary.10 John Leyden 
+(see page 47), a scholar of the Malay 
+language, called the dictionary a work of 
+“great merit and labour” a century after 
+its publication,11 while Richard O. Winstedt 
+in his book, Malaya (1923), said Bowrey’s 
+grasp of working Malay was something 
+“to be envied”. Stamford Raffles himself 
+might have benefitted from Bowrey’s 
+mastery. Winstedt wrote that when Raffles sought to bring himself up to speed in 
+Malay during his long voyage to the East, 
+he gleaned heartily from “some antediluvian book”. This book could very well be 
+Bowrey’s dictionary.12
+Bowrey, who left England in 1668 
+when he was barely 19 years old, likely 
