@@ -16,6 +16,10 @@ description: ""
 <b>Accession no.:</b> B02822610J<br>
 	</span>
 	
+<img src="/images/vol-11-issue-4/english-nursery-rhymes/M1.JPG">
+<div style="background-color: white;">The Peranakan community is depicted in “I Love Little Pussy [Cat]” (“Sahaya Sayangkan Kuching”), by way of a drawing of a little Peranakan girl stroking a cat perched on a ledge, while the girl’s mother or 
+	grandmother looks on, clad in a traditional <i>sarong kebaya</i> and beaded slippers. <i>All rights reserved, Hamilton, A. W. (1939). Haji’s Book of Malayan Nursery Rhymes. Singapore: Printers Ltd.</i></div>
+
 Many of us would recognise nursery rhymes such as “Mary Had A Little Lamb” and “Hot Cross Buns”, but reading Malay versions of 
 these typically British children’s poems in a culturally misplaced context takes some getting used to.
 
@@ -39,22 +43,12 @@ These local twists were well received: a newspaper reviewer at the time commente
 
 Although a prolific writer, little is known about Hamilton, except that he spent part of his life in Teluk Belanga, Penang, where he learnt Malay and became familiar with the “kampong” way of life.7 It was also reported that he used to serve in the Federated Malay States Police as an officer, and was also a linguist, botanist and author of several Malay text books.8
 
-As indicated in the book’s preface, 
-Hamilton published several other titles such 
-as Easy Malay Vocabulary, Malay Sonnets, 
-Malay Proverbs, Rubaiyat Omar Khayyam 
-(a Malay rendition of Edward Fitzgerald’s 
-English translation of poems by the Persian 
-poet, Omar Khayyam), and Sang Lomri (a 
-Malay translation of the European medieval 
-tale Reynard the Fox).
-The National Librar y’s copy of 
-Haji’s Book of Malayan Nursery Rhymes
-bears a Raffles Library stamp dated 29 
-May 1940. The book was republished 
-in 1947 by the Sydney-based Australasian Publishing, and again in 1956 by 
-Donald Moore for Eastern Universities 
-Press in Singapore. In 1985, Times Book 
-International published a revised edition 
-with a new title: Haji’s Book of Favourite 
-Nursery Rhymes.
+As indicated in the book’s preface, Hamilton published several other titles such as *Easy Malay Vocabulary, Malay Sonnets, 
+Malay Proverbs, Rubaiyat Omar Khayyam* (a Malay rendition of Edward Fitzgerald’s English translation of poems by the Persian 
+poet, Omar Khayyam), and *Sang Lomri* (a Malay translation of the European medieval tale *Reynard the Fox*).
+
+The National Librar y’s copy of *Haji’s Book of Malayan Nursery Rhymes* bears a Raffles Library stamp dated 29 May 1940. The book was republished in 1947 by the Sydney-based Australasian Publishing, and again in 1956 by Donald Moore for Eastern Universities Press in Singapore. In 1985, Times Book International published a revised edition with a new title: *Haji’s Book of Favourite Nursery Rhymes*.
+
+– Written by Ang Seow Leng
+
+#### **NOTES**
