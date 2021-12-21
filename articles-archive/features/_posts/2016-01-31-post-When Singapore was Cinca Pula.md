@@ -5,16 +5,16 @@ date: 2016-01-31
 layout: post
 description: ""
 ---
-<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> 
-	<b>Title:</b> <i>India Tercera Nuova Tavola</i><br>
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
+	<b>Title:</b> <i>[India Tercera Nuova Tavola](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13770230)</i><br>
 <b>Creator:</b> Girolamo Ruscelli (c. 1504–1566)<br>
 <b>Year published:</b> 1561<br>
-<b>Publisher:</b> Vincenzo Valgrisi (Venice<br>
+<b>Publisher:</b> Vincenzo Valgrisi (Venice)<br>
 <b>Language:</b> Italian<br>
 <b>Type:</b> Map; 17cm by 23cm<br>
 <b>Call no.:</b> RRARE 912.59 PTO<br>
 <b>Accession no.:</b> B20023657C
-</div>
+</span>
 
 <img src="/images/Vol-15-issue-2/rare-materials/Pula1.JPG">
 <div style="background-color: white;"><i>India Tercera Nuova Tavola</i> is one of the first early modern maps of Southeast Asia. It is also the National Library’s oldest map that makes reference to a C. Cinca Pula, which scholars believe refers to either the town of Singapore, one of several straits on which Singapore sits, or the southern tip of the Malay Peninsula. <i>Image source: National Library Board, Singapore.</i></div>
