@@ -26,7 +26,7 @@ In this essay, the rich history tracing the development of different chapters in
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-9-issue-4/jiapu/kimchua.jpg">
+<img src="/images/vol-9-issue-4/jiapu/kimchua.jpg" style="width:70%;">
 Women folding <i>kim chua</i> (paper money) for religious or ancestral offering along Clarke Quay in 1978. <i>Ronni Pinsler collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **Title of Genealogy (Pu Ming 谱名)**
@@ -35,7 +35,7 @@ In traditional practice, the title of a <i>jiapu</i> was important as it indicat
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-9-issue-4/jiapu/ancestral_hall.jpg">
+<img src="/images/vol-9-issue-4/jiapu/ancestral_hall.jpg" style="width:70%;">
 Ancestral altar tablets displayed in a clan ancestral hall (1978). <i>Ronni Pinsler collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **Introduction (Pu Xu 谱序)**
@@ -48,7 +48,7 @@ Since <i>jiapu</i> served to document lineage, tracing the origin of a clan’s 
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-9-issue-4/jiapu/lorong_makam.jpg">
+<img src="/images/vol-9-issue-4/jiapu/lorong_makam.jpg" style="width:70%;">
 An ancestral hall of the Hakka community at Lorong Makam (1986). <i>Courtesy of National Archives of Singapore.</i></div>
 
 #### **Origins of Surname (Xing Shi Yuan Liu 姓氏源流)**
@@ -63,7 +63,7 @@ The second section of this chapter deals with the origin of district-names (<i>j
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-9-issue-4/jiapu/lu_generation_chart.jpg">
+<img src="/images/vol-9-issue-4/jiapu/lu_generation_chart.jpg" style="width:70%;">
 <i>The Lu clan’s generation chart is an example of how traditional Chinese generation charts are laid out. It is limited to five generations, with the first generation at the top and the fifth at the bottom. It is read from right to left. Meishan Tiannei Lu shi jiapu</i> (Genealogy of the Loo clan from Tiannei Town in the Meishan area), 1994, Singapore Loo Clan Association, Singapore.</div>
 
 #### **Generation Chart (Shi Xi Tu 世系图)**
@@ -110,7 +110,7 @@ Biographies typically only contain text, while “Ancestor Portraits and Praises
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-9-issue-4/jiapu/origin_of_bai.jpg"><i>A chapter in jiapu discussing the origins of the Bai surname. Here, the chapter explores the four possible origins of the Bai surname</i>. All rights reserved. <i>Genealogy of Peh Clan Pangtou Anxi Fujian China, 1989, Singapore Peh Clan Association, Singapore.</i></div>
+<img src="/images/vol-9-issue-4/jiapu/origin_of_bai.jpg" style="width:70%;"><i>A chapter in jiapu discussing the origins of the Bai surname. Here, the chapter explores the four possible origins of the Bai surname</i>. All rights reserved. <i>Genealogy of Peh Clan Pangtou Anxi Fujian China, 1989, Singapore Peh Clan Association, Singapore.</i></div>
 
 #### **Clan Rules (Jia Fa 家法)**
 
@@ -122,7 +122,7 @@ Such chapters were heavily influenced by Confucian teachings on respecting autho
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-9-issue-4/jiapu/liugui_hall_p1.jpg"></div>
+<img src="/images/vol-9-issue-4/jiapu/liugui_hall_p1.jpg" style="width:70%;"></div>
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-9-issue-4/jiapu/liugui_hall_p2.jpg">
