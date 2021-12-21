@@ -38,3 +38,17 @@ The book contains illustrations Skeat had earlier presented to the Cambridge Uni
 
 In total, *Malay Magic* records some 270 spells and charms. It has been reprinted several times, and the 2005 reprint includes an appendix showing additional annotations by Skeat on two 
 copies of the printed book over the half century following its first publication. One of the annotated copies of *Malay Magic* is kept by a member of the Skeat family, while the other is at Oxford University.8
+
+Born in Cambridge, England, in 1866, Skeat enrolled at Christ’s College in 1885 to read classics. He graduated in 1888, and joined the Selangor Civil Service, where he spent six years, first as Assistant District Officer at the Import and Export Office at Klang in 1891, then at Kuala Langat in 1893. He was subsequently appointed as District Officer at Klang, Ulu Langat and finally at Kuala Langat in 1896.
+
+Most of Skeat’s ethnographic work, which formed the basis of *Malay Magic*, was done during his time at Kuala Langat. He wrote regularly on Malay and aborigine culture for the *Selangor Journal*, of which he was joint founder and editor. In 1897, Skeat compiled his notes and *Selangor Journal* articles to form the manuscript of *Malay Magic* and returned to England, where he approached the publishing house Macmillan.9 In a hurry to get back to Malaya, Skeat left his manuscript with his friend, Charles Otto Blagden, for revision and follow-up with Macmillan.10 The book was finally published in 1900.
+
+Skeat’s interest in the Malays and the Malayan aborigines was the subject of his second book: *Pagan Race of the Malayan Peninsula* (1906). He also published an account of his 1899–1900 expedition in *Reminiscences of the Cambridge University Expedition to the North-Eastern Malay 
+States, 1899–1900* in volume 26, issue 4 of the *Journal of the Malaysian Branch of the Royal Asiatic Studies*. Thereafter, his health failed, and he was unable to return to Malaya again.
+
+Two of the National Library’s three copies of *Malay Magic* are donated. One is part of the Ya Yin Kwan Collection donated by Tan Yeok Seong in 1964; the second was a more recent donation in 2012 by the philanthropist and writer George L. 
+Hicks.
+
+– Written by Lee Meiyu
+
+#### **NOTES**
