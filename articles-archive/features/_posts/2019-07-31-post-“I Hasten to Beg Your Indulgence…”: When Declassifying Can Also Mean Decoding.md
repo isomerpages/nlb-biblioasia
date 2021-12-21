@@ -107,7 +107,7 @@ But is the problem worse today, given the pervasiveness of the internet, social 
 
 Sadly, one of the causes of the loss of clarity in writing today must surely be the demise of letter writing. As email replaces snail mail, the price of speed is the slide of composition into truncated note. In this age of ephemerality, words appear to be designed to be short-lived. And so it is – given the short screen life of electronic mail, one might well ask, where are the gems of elegant writing to be found today?
 
-VISIT THE **SINGAPORE POLICY HISTORY PROJECT** @ [HTTP://WWW.NAS.GOV.SG/ARCHIVESONLINE/POLICY_HISTORY/](HTTP://WWW.NAS.GOV.SG/ARCHIVESONLINE/POLICY_HISTORY/) 
+VISIT THE **SINGAPORE POLICY HISTORY PROJECT** @ [HTTP://WWW.NAS.GOV.SG/ARCHIVESONLINE/POLICY_HISTORY/](https://www.nas.gov.sg/archivesonline/policy_history/)
 
 <div style="background-color: white;">
 <img src="/images/Vol-15-issue-2/declassifying-mean-decoding/Decoding7.jpg" style="width: 100px; height: 100px;">
