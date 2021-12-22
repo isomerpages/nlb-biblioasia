@@ -6,7 +6,7 @@ description: ""
 
 #### Mandalay Villa. House of Jade. House of Teo Hoo Lye. **Yap Jo Lin** gives us a tour of three opulent homes from the early 20th century.
 
-![Alt text for image on Isomer site](/images/vol-17-issue-4/Wong-Din-Haan/Cover-WongDinHaan-R.jpg)
+![Alt text for image on Isomer site](/images/vol-17-issue-4/towkay-house/Main-TKH.jpg)
 <div style="background-color: white;">Mandalay Villa was built in 1902 as a holiday resort by prominent Peranakan businessman Lee Cheng Yan, 1968. <i>Lee Kip Lin Collection, PictureSG, National Library, Singapore.</i></div>
 
 The role of an archivist at the National Archives of Singapore (NAS) mainly involves taking care of the archives’ valuable records. However, an equally important part of an archivist’s job is to highlight and showcase to the public the interesting and varied records in the collections of the NAS. One of these collections is the Building Control Division (BCD) Collection, which consists of around 246,000 plans prepared between 1884 and 1969. 
