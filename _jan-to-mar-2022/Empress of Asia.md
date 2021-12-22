@@ -8,7 +8,7 @@ description: ""
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/empress-of-asia/1_Smoke.jpg)
 <div style="background-color: white;">Smoke billows from the <i>Empress of Asia</i> after she was attacked by Japanese dive bombers off Singapore, 5 February 1942. <i>Australian War Memorial, P01604.001</i></div>
 
-_A huge iron anchor has been part of the permanent exhibition at the National Museum of Singapore since 2015. About 2.4 m tall, it is originally from the RMS Empress of Asia, which was destroyed off Singapore in February 1942. At the time, the ship was transporting Allied troops to help reinforce Singapore’s defence during the Japanese invasion. The following story commemorates the 80th anniversary of this wartime loss._
+_A huge iron anchor has been part of the permanent exhibition at the National Museum of Singapore since 2015. About 2.4 m tall, it is originally from the_ RMS Empress of Asia, _which was destroyed off Singapore in February 1942. At the time, the ship was transporting Allied troops to help reinforce Singapore’s defence during the Japanese invasion. The following story commemorates the 80th anniversary of this wartime loss._
 
 Geoffrey Hosken’s school exercise book was an odd choice for a seaman’s diary on a 16,909-ton troopship. Stamped in big black letters are six danger points for schoolchildren, starting with “Don’t run across the road without first looking both ways!” and ending with “Don’t forget to walk on the foot-path, if there is one!”[^1]
 
@@ -128,7 +128,7 @@ Amid falling embers, Ewart and Seaman Tim Cameron helped Crofts over the side an
 
 Meanwhile, the Australian sloop _Yarra_, commanded by Captain Wilfred Harrington, was manoeuvred next to the doomed ship. Hosken noted that 1,600 men, including him, were rescued by the sloop, although some estimates are higher.[^30] Other vessels assisted, but without the _Yarra_ hundreds could have perished.[^31] 
 
-The _Asia_ then drifted southeast of Sultan Shoal where anchors were dropped. “Before completely abandoning the afterdeck, the ammunition for the six-inch gun and the remainder from the twelve-pounder had to be thrown overboard. Only two lifeboats were intact,” noted Oliver. “Both… were launched; one made it, one capsized.”[^32] Oliver boarded the _Yarra_, but while checking the _Asia’s_ lower decks, he found a dedicated engine room crewman who said he had not received the evacuation order. 
+The _Asia_ then drifted southeast of Sultan Shoal where anchors were dropped. “Before completely abandoning the afterdeck, the ammunition for the six-inch gun and the remainder from the twelve-pounder had to be thrown overboard. Only two lifeboats were intact,” noted Oliver. “Both… were launched; one made it, one capsized.”[^32] Oliver boarded the _Yarra_, but while checking the _Asia_'s lower decks, he found a dedicated engine room crewman who said he had not received the evacuation order. 
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/empress-of-asia/10_Anchor.jpg)
 <div style="background-color: white;">The anchor salvaged from the <i>Empress of Asia</i> wreck in 1998, almost 60 years after the Allied troopship sank off Tuas while en route to Singapore to reinforce its defence. The anchor has been on permanent display at the National Museum of Singapore since 2015. <i>Courtesy of Jimmy Yap.</i></div>
