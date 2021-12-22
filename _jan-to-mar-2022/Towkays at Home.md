@@ -88,7 +88,7 @@ The House of Teo Hoo Lye was acquired by Mrs Loke Yew (née Lim Cheng Kim) in 19
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-17-issue-4/authors/Patricia-Lim.png" style="width: 100px; height: 100px;" />
+<img src="/images/vol-17-issue-4/authors/Yap-Jo-Lin.png" style="width: 100px; height: 100px;" />
 	<b>Yap Jo Lin</b> is an Archivist with the National Archives of Singapore. Her portfolio includes taking care of the archives’ collection of building plans.
 </div>
 
