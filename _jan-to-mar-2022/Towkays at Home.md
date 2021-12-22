@@ -76,11 +76,17 @@ The House of Jade was designed in 1926 by the architectural firm Chung & Wong, w
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/towkay-house/9-houseofjadeplan.jpg)
 <div style="background-color: white;">Building plan of House of Jade, 1926. <i>Building Control Division Collection, courtesy of National Archives of Singapore (439/1926).</i></div>
 
+![Alt text for image on Isomer site](/images/vol-17-issue-4/towkay-house/11-siteplan.jpg)
+<div style="background-color: white;">Site plan of House of Jade, 1927 (left) and amended plan of a pavilion, 1928 (right). <i>Building Control Division Collection, courtesy of National Archives of Singapore (439B-1/1926; 439F/1926).</i></div>
+
 The building was situated within extensive and well-planned-out grounds. There was even an outdoor pavilion erected on the compound. It would have been useful for musical performances.
 
 One of the occasions for such musical performances was at the housewarming that Aw held in September 1928 upon the completion of his new residence. Aw held three housewarming parties to accommodate all his friends. The _Malaya Tribune_ reported that the Merrilads, a Peranakan performing arts group, performed at one of the parties, and their performance was enjoyed by both the party guests and hundreds of spectators gathered outside the house.[^14]
 
 As its name suggests, the House of Jade was especially famous for its collection of jade and other carved minerals. Aw was an ardent collector of jade and jadeite carvings, and had a nose for sniffing out good deals and investments. By 1936, his jade exhibits had grown to become the biggest private collection in the world. Foreign dignitaries and visitors from around the world viewed the collection while visiting Singapore. They included Queen Ratna of Nepal; Princess Anne of the United Kingdom; President Varahagiri Venkata Giri of India and his wife; the Governor-General of Trinidad and Tobago, Sir Solomon Hochoy, and his wife; and Mrs Hiroko Sato, wife of Japanese Prime Minister Eisaku Sato. 
+
+![Alt text for image on Isomer site](/images/vol-17-issue-4/towkay-house/10-hirokosato.jpg)
+<div style="background-color: white;">Mrs Hiroko Sato, wife of then Japanese Prime Minister Eisaku Sato, viewing the jade display at the House of Jade, 1967. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 The collection was not just open to visiting dignitaries but to the public as well. After Aw’s death in 1954, the collection remained open for public viewing until the family donated most of the items to the National Museum of Singapore in 1979. An exhibition of the Haw Par Jade Collection was opened at the museum’s art gallery in January 1980, and items from the collection were again on display at the museum’s 2010 exhibition, “Singapore 1960”.[^15] 
 
@@ -90,7 +96,13 @@ House of Jade was demolished in 1990 and replaced by the Nassim Jade condominium
 #### **HOUSE OF TEO HOO LYE**
 Designed by Swan & Maclaren, the house of Chinese businessman Teo Hoo Lye was located at the junction of Dhoby Ghaut, Kirk Terrace and Bras Basah Road, where Cathay Building now stands. 
 
+![Alt text for image on Isomer site](/images/vol-17-issue-4/towkay-house/12-houseofteohoolye.jpg)
+<div style="background-color: white;">The House of Teo Hoo Lye at 13 Dhoby Ghaut, c. 1917–21. The ground floor was occupied at one time by the Louis Molteni Confectionery. <i>Courtesy of National Archives of Singapore</i></div>
+
 Teo’s life story is the quintessential tale of the immigrant from China who comes to Singapore with nothing, and makes a name for himself through sheer hard work and a shrewd business acumen. Teo was born in 1853 and arrived in Singapore when he was 18. He first found work as a manual labourer, earning just $2 a month, but later decided to venture into business. 
+
+![Alt text for image on Isomer site](/images/vol-17-issue-4/towkay-house/13-teohoolye.jpg)
+<div style="background-color: white;">Businessman Teo Hoo Lye built his residence in Dhoby Ghaut. <i>Image reproduced from Song Ong Siang, One Hundred Years’ History of the Chinese in Singapore (London: John Murray, 1923), 350. Collection of the National Library, Singapore. (Accession no.: B20048226B).</i></div>
 
 Starting out with a modest grocery store on Rochor Road, Teo expanded his business until it eventually included trading in copra (dried coconut kernels), sago factories in Cebu and Sarawak, and a fleet of steamers for transporting commodities. At the time of his death on 16 November 1933, he was said to have more than 14 steamships in his fleet. 
 
@@ -98,9 +110,23 @@ Teo was also one of the founders of the Singapore Chinese Chamber of Commerce an
 
 The architectural historian Julian Davison has described Teo’s house as being French-inspired, resembling the Basilique du Sacré-Coeur de Montmartre (Sacred Heart Basilica of Montmartre) in Paris.[^18]
 
+![Alt text for image on Isomer site](/images/vol-17-issue-4/towkay-house/14-southfacadeparis.jpg)
+<div style="background-color: white;">South facade of the Basilique du Sacré-Cœur de Montmartre in Paris. Photo by Tonchino, 23 October 2011. <i>Image retrieved from Wikimedia Commons (Attribution-ShareAlike 3.0 Unported [CC BY-SA 3.0]).</i></div>
+
+![Alt text for image on Isomer site](/images/vol-17-issue-4/towkay-house/15-oneplan.jpg)
+
+![Alt text for image on Isomer site](/images/vol-17-issue-4/towkay-house/16-plans.jpg)
+<div style="background-color: white;">Building plan for the House of Teo Hoo Lye, 1913. <i>Building Control Division Collection, courtesy of National Archives of Singapore (1253-4/1913).</i></div>
+
 Teo made many additions to his property over the years, which can be seen when comparing the original 1913 site plan with a later one in 1926.
 
+![Alt text for image on Isomer site](/images/vol-17-issue-4/towkay-house/18-19.jpg)
+<div style="background-color: white;">Teo Hoo Lye expanded his property over the years as can be seen by comparing the site plan in 1913 (left) with the one in 1926 (right). <i>Building Control Division Collection, courtesy of National Archives of Singapore (1253-3/1913; 1253V/1913).</i></div>
+
 Teo appears to have lived in the main house for the rest of his life, but the adjoining buildings had various occupants at different times, including the Louis Molteni Confectionery and Far Eastern Film Service Ltd. 
+
+![Alt text for image on Isomer site](/images/vol-17-issue-4/towkay-house/17-front.jpg)
+<div style="background-color: white;">The House of Teo Hoo Lye at 13 Dhoby Ghaut, c. 1920s. Far Eastern Film Service Ltd leased the front portion of the building during this time. <i>Courtesy of National Archives of Singapore. </i></div>
 
 At various points, two schools were also located on the premises: Royal English School and Teo Hoo Lye Institution.[^19] Founded in 1928 with the motto “Disce aut Discede” (Latin for “Learn or Depart”), the latter grew from an initial enrolment of about 60 boys to nearly 600 a year later.[^20] It was renamed Standard Institute after Teo’s death in 1933.[^21] 
 
