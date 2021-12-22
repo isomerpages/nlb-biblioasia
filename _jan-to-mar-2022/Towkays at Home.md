@@ -132,7 +132,7 @@ At various points, two schools were also located on the premises: Royal English 
 
 Royal English School was situated on the grounds of Teo’s residence from 1924 to 1929. During this time, Teo and the school’s headmaster, Francis Neelankavil, had an acrimonious relationship and he took Neelankavil to court on two occasions over tenancy disputes, in 1926 and 1928.[^22]
 
-Teo was 80 when he died in November 1933, just one week after his wife.[^23] The Singapore Free Press reported that his funeral cortege took 45 minutes to pass on its way from Dhoby Ghaut to Bukit Brown Cemetery.[^24]
+Teo was 80 when he died in November 1933, just one week after his wife.[^23] The _Singapore Free Press_ reported that his funeral cortege took 45 minutes to pass on its way from Dhoby Ghaut to Bukit Brown Cemetery.[^24]
 
 The House of Teo Hoo Lye was acquired by Mrs Loke Yew (née Lim Cheng Kim) in 1936. Demolition works started in 1937 for the construction of Cathay Building, which was completed in 1941. Mrs Loke Yew’s son, Loke Wan Tho, had established Associated Theatres in 1935, the predecessor of Cathay Organisation. 
 
