@@ -21,17 +21,32 @@ It wasn’t just the men who were generous though. In 1918, Mrs Lee Choon Guan (
 
 In the days before land reclamation along Singapore’s eastern coastline, Mandalay Villa at 29 Amber Road would have stood by the Katong seaside, roughly where the Amber Road roundabout junction with Marine Parade Road is today.[^3]
 
+![Alt text for image on Isomer site](/images/vol-17-issue-4/towkay-house/2-BuildingPlan.jpg)
+<div style="background-color: white;">Building plan of Mandalay Villa, 1902. <i>Building Control Division Collection, courtesy of National Archives of Singapore (5161/1902).</i></div>
+
 Mandalay Villa (efforts to uncover the origins of the name were unsuccessful) was built by prominent Peranakan businessman Lee Cheng Yan as a holiday home. Lee was one of the Chinese businessmen who partnered Dutchman Theodore Cornelius Bogaardt in 1890 to form the Straits Steamship Company, which eventually became part of Keppel Corporation. Other tycoons who were part of Straits Steamship include Tan Jiak Kim and Tan Keong Saik.[^4]
 
+![Alt text for image on Isomer site](/images/vol-17-issue-4/towkay-house/3-leechengyan.jpg)
+<div style="background-color: white;"> Peranakan businessman Lee Cheng Yan built Mandalay Villa as a holiday home as it was located by the Katong seaside. <i>Image reproduced from Song Ong Siang, One Hundred Years’ History of the Chinese in Singapore (London: John Murray, 1923), 110. Collection of the National Library, Singapore. (Accession no.: B20048226B).</i></div>
+
 Lee’s son and successor Lee Choon Guan made Mandalay Villa his residence. The latter lived there with his second wife, Tan Teck Neo, who was better known as Mrs Lee Choon Guan. She was the third daughter of Tan Keong Saik, after whom Keong Saik Road is named.
+
+![Alt text for image on Isomer site](/images/vol-17-issue-4/towkay-house/4-leechoonguan.jpg)
+<div style="background-color: white;">Lee Choon Guan, son of Lee Cheng Yan, made Mandalay Villa his residence. He lived there with his second wife, Mdm Tan Teck Neo. <i>Image reproduced from Song Ong Siang, One Hundred Years’ History of the Chinese in Singapore (London: John Murray, 1923), 111. Collection of the National Library, Singapore. (Accession no.: B20048226B).</i></div>
 
 The two-storey Mandalay Villa was designed in 1902 by the architectural firm Lermit & Westerhout. The entrance hall opened into a huge living-cum-dining room which stretched over the entire width of the house, or more than 21 m. The ground floor also had an office, which was bolted shut with horizontal iron bars every night, as it had three iron safes in it.[^5]
 
 The building plan from 1915 (see overleaf) depicts additional servants’ quarters that were to be added to the Mandalay Villa compound and gives us a sense of the more modest buildings behind the “big house”. 
 
+![Alt text for image on Isomer site](/images/vol-17-issue-4/towkay-house/5-servant.jpg)
+<div style="background-color: white;">Plan of the servants’ quarters to be built in the compound of Mandalay Villa, 1915. <i>Building Control Division Collection, courtesy of National Archives of Singapore (2658/1915).</i></div>
+
 This plan includes a site plan of the property, which shows the front, semi-circular section of the house – where the verandah was – overlooking the sea. The verandah was an ideal place to enjoy the sea view, cool breeze and lapping waves. 
 
 Not surprisingly, it became a prime spot for the family to relax and unwind. Mrs Lee would have her daily afternoon tea there at 4 pm and “sun downer” cocktails at 6 pm. Furnished with rattan armchairs and long garden benches to comfortably accommodate 14 people, the verandah was also used for entertaining the many guests and visitors calling on the Lee family.[^6]
+
+![Alt text for image on Isomer site](/images/vol-17-issue-4/towkay-house/6-family.jpg)
+<div style="background-color: white;">Mdm Tan Teck Neo (Mrs Lee Choon Guan; back row, second from left) with family members during her birthday celebration at Mandalay Villa, 1950s. Photo by Wong Ken Foo (K.F. Wong). <i>Courtesy of National Archives of Singapore.</i></div>
 
 Mrs Lee was known for hosting many glamorous social events at Mandalay Villa, the most important of which were held on her birthday on 18 December. The who’s who of Singapore society would be invited to a lavish party, both Europeans and Asians, and the fishermen of Kampong Amber would hold a parade in Mrs Lee’s honour. This was their way of thanking the family for letting them live in the kampong almost rent-free.[^7]
 
@@ -44,13 +59,22 @@ Mr Lee Choon Guan died in 1924, at the age of 56. Mrs Lee, however, outlived her
 
 The House of Jade at 2 Nassim Road was built by “Tiger Balm King” Aw Boon Haw, founder of the Tiger Balm brand of medicinal ointments. This was one of those rare houses with its full name prominently displayed on the facade: “Tiger Oil House of Jade”. A tiger’s head adorned the facade beside the letterings and tiger statues guarded the front entrance to the house, on either side of the front steps.
 
+![Alt text for image on Isomer site](/images/vol-17-issue-4/towkay-house/7-tigerbalmking.jpg)
+<div style="background-color: white;">“Tiger Balm King” Aw Boon Haw built House of Jade on Nassim Road. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i></div>
+
 In planning the house, Aw was adamant that it “must be modern yet traditional”, dignified in appearance and be painted white. It was referred to as the “White House” by employees, while family members called it the “Big House”.[^11] The four Ionic columns at the entrance bear some resemblance to the north entrance of the White House in Washington, D.C.
+
+![Alt text for image on Isomer site](/images/vol-17-issue-4/towkay-house/8-tigeroilhouseofjade.jpg)
+<div style="background-color: white;">“Tiger Oil House of Jade” is prominently displayed on the facade of the building, with a tiger head beside it, 1964. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 According to Aw Swan, a son of Aw Boon Haw, the family had initially lived in another house next to the plot of land on which the House of Jade was later constructed. There was a nearby dhoby (laundry) shop that the family sent their washing to, and this dhoby used the vacant plot to dry clothes. One day, however, Aw Boon Haw found out that the dhoby was charging him a higher price than his other customers. Although the sum of money was small, just a few more cents, Aw was angered by the principle of the matter.[^12] 
 
 According to Aw Swan, his father “dismissed the man without another word and then muttered something about teaching a crook a lesson he would never forget”. Aw Boon Haw bought the plot of land, fenced it off and decided to build his new residence on the land, thereby depriving the dhoby of space to dry his laundry.[^13]
 
 The House of Jade was designed in 1926 by the architectural firm Chung & Wong, whose stamp is seen on the bottom right of the building plan. All the main rooms of the house were located on the ground floor, although the house also had an attic, a basement as well as an impressive tower.
+
+![Alt text for image on Isomer site](/images/vol-17-issue-4/towkay-house/9-houseofjadeplan.jpg)
+<div style="background-color: white;">Building plan of House of Jade, 1926. <i>Building Control Division Collection, courtesy of National Archives of Singapore (439/1926).</i></div>
 
 The building was situated within extensive and well-planned-out grounds. There was even an outdoor pavilion erected on the compound. It would have been useful for musical performances.
 
