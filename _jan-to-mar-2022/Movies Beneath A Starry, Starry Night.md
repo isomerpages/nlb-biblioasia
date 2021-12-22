@@ -69,7 +69,7 @@ The Jurong Drive-in was, unfortunately, also a magnet for antisocial behaviour. 
 These drivers also continued racing after leaving the drive-in and the writer suggested that the traffic police “arrest these speed-aces as they race each other along Upper Ayer Rajah Road”.[^17] A month later, the police replied that they had “taken enforcement action against 28 vehicles for speeding along Upper Ayer Rajah Road”.[^18]
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/movies-beneath/Evil_Karate.png)
-<div style="background-color: white;">Mandarin film Evil Karate was screened at Jurong Drive-in Cinema. <i>Image reproduced from The Straits Times, 11 October 1971, 6. (From NewspaperSG). </i></div>
+<div style="background-color: white;">Mandarin film <i> Evil Karate</i> was screened at Jurong Drive-in Cinema. <i>Image reproduced from The Straits Times, 11 October 1971, 6. (From NewspaperSG). </i></div>
 
 A decade on and things were no better. On 24 August 1982, a reader complained in the *Straits Times* that residents living near the Jurong Drive-in had been having sleepless nights on weekends and the eve of holidays. “Motorcyclists going for the midnight show make a din both before and after the show. The situation is worse when some of them turn the drive-in into a racing circuit before the show. The race lasts about twenty minutes and the noise is unbearable.”[^19] Once again, the police responded by mounting operations to monitor the situation, resulting in 84 motorcycles being impounded and 20 motorcyclists issued tickets for speeding, inconsiderate or dangerous driving.[^20]
 
