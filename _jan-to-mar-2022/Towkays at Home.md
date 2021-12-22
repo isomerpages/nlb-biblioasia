@@ -104,17 +104,17 @@ The House of Teo Hoo Lye was acquired by Mrs Loke Yew (née Lim Cheng Kim) in 19
 [^8]: “Mrs Lee Choon Guan,” _Straits Times_, 19 December 1931, 12. (From NewspaperSG) 
 [^9]: Kwa Chong Guan, et al., _Great Peranakans: Fifty Remarkable Lives_, ed. Alan Chong (Singapore: Asian Civilisations Museum, 2015), 134. (From National Library, Singapore, Call no. RSING 305.895105957 GRE)
 [^10]: Lee and Chen, _Rumah Baba_, 28.
-Sam King, “House that Aw Built,” Singapore Monitor, 22 April 1984, 26. (From NewspaperSG)
-“House that Aw Built.”
-“House that Aw Built.”
-“House-warming,” Malaya Tribune, 10 September 1928, 10. (From NewspaperSG)
-“Haw Par Jade Collection at Museum,” Straits Times, 1 January 1980, 11; Abigail Kor and Natalie Koh, “A Look at Singapore in 1960,” Business Times, 4 June 2010, 30. (From NewspaperSG)
-Suzanne Soh, “Jade House May Be Luxury Condominium Site,” Business Times, 28 March 1990, 2; “‘Cheapest’ Apartment Costs $2.6 million,” New Paper, 23 June 1994, 12. (From NewspaperSG)
-“Death of Mr Teo Hoo Lye,” Malaya Tribune, 16 November 1933, 9; “Mr Teo Hoo Lye Dies at 80,” Straits Times, 17 November 1933, 13. (From NewspaperSG); Song, One Hundred Years’ History of the Chinese in Singapore, 503. 
-Julian Davison, Swan & Maclaren: A Story of Singapore Architecture ([Novato]: ORO Editions; Singapore: National Archives of Singapore, 2020), 244. (From National Library, Singapore, Call no. RSING 720.95957 DAV)
-“Cathay Building – Singapore’s First Skyscraper Is Opened,” in HistorySG. National Library Board Singapore. Article published April 2015. 
-“Teo Hoo Lye Institution,” Malayan Saturday Post, 26 October 1929, 20. (From NewspaperSG)
-“Page 4 Advertisements Column 3,” Malaya Tribune, 19 December 1935, 4. (From NewspaperSG)
-“Headmaster Sued,” Straits Times, 24 February 1926, 10; “School in Peril?” Malaya Tribune, 5 December 1928, 7; “Hard-working But Unfortunate,” Straits Times, 4 November 1933, 13. (From NewspaperSG)
-“Mr Teo Hoo Lye Dies at 80.”
-“As I was Saying,” Singapore Free Press, 29 November 1933, 8. (From NewspaperSG); Davison, Swan & Maclaren, 244. 
+[^11]: Sam King, “House that Aw Built,” _Singapore Monitor_, 22 April 1984, 26. (From NewspaperSG)
+[^12]: “House that Aw Built.”
+[^13]: “House that Aw Built.”
+[^14]: “House-warming,” _Malaya Tribune_, 10 September 1928, 10. (From NewspaperSG)
+[^15]: “Haw Par Jade Collection at Museum,” _Straits Times_, 1 January 1980, 11; Abigail Kor and Natalie Koh, “A Look at Singapore in 1960,” _Business Times_, 4 June 2010, 30. (From NewspaperSG)
+[^16]: Suzanne Soh, “Jade House May Be Luxury Condominium Site,” _Business Times_, 28 March 1990, 2; “‘Cheapest’ Apartment Costs $2.6 million,” _New Paper_, 23 June 1994, 12. (From NewspaperSG)
+[^17]: “Death of Mr Teo Hoo Lye,” _Malaya Tribune_, 16 November 1933, 9; “Mr Teo Hoo Lye Dies at 80,” _Straits Times_, 17 November 1933, 13. (From NewspaperSG); Song, _One Hundred Years’ History of the Chinese in Singapore_, 503. 
+[^18]: Julian Davison, _Swan & Maclaren: A Story of Singapore Architecture_ ([Novato]: ORO Editions; Singapore: National Archives of Singapore, 2020), 244. (From National Library, Singapore, Call no. RSING 720.95957 DAV)
+[^19]: “Cathay Building – Singapore’s First Skyscraper Is Opened,” in _HistorySG_. National Library Board Singapore. Article published April 2015. 
+[^20]: “Teo Hoo Lye Institution,” _Malayan Saturday Post_, 26 October 1929, 20. (From NewspaperSG)
+[^21]: “Page 4 Advertisements Column 3,” _Malaya Tribune_, 19 December 1935, 4. (From NewspaperSG)
+[^22]: “Headmaster Sued,” _Straits Times_, 24 February 1926, 10; “School in Peril?”_ Malaya Tribune_, 5 December 1928, 7; “Hard-working But Unfortunate,” _Straits Times_, 4 November 1933, 13. (From NewspaperSG)
+[^23]: “Mr Teo Hoo Lye Dies at 80.”
+[^24]: “As I was Saying,” _Singapore Free Press_, 29 November 1933, 8. (From NewspaperSG); Davison, _Swan & Maclaren_, 244. 
