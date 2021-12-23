@@ -185,7 +185,7 @@ Willis, A.C. (1936). *[Willis’ Singapore guide](https://eresources.nlb.gov.sg/
 
 [^18]: Ridley, H.N. (1906, December). The menagerie of the Botanic Gardens. <i>Journal of the Straits Branch of the Royal Asiatic Society</i>, 46, 133–194. p. 133. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
-[^19]: <u>Ridley</u>, Dec 1906, pp. 134–136.
+[^19]: Ridley, Dec 1906, pp. 134–136.
 
 [^20]: Yuen, S. (2012, July 15). [Our forgotten zoo](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper20120715-1.2.16.1). <i>The New Paper</i>, pp. 18–19. Retrieved from NewspaperSG.
 
@@ -193,7 +193,7 @@ Willis, A.C. (1936). *[Willis’ Singapore guide](https://eresources.nlb.gov.sg/
 
 [^22]: Zaccheus, M. (2013, April 6). [First zoo in Singapore rated 'wonderful' by Einstein](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20130406-1.2.54.15). <i>The Straits Times</i>, p. 18. Retrieved from NewspaperSG.
 
-[^23]: <u>Wong</u>, 29 Oct 2013, p. 33.
+[^23]: Wong, 29 Oct 2013, p. 33.
 
 [^24]: [Ponggol Zoo](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19300317-1.2.76). (1930, March 17). <i>The Straits Times</i>, p. 12. Retrieved from NewspaperSG.
 
@@ -217,7 +217,7 @@ Willis, A.C. (1936). *[Willis’ Singapore guide](https://eresources.nlb.gov.sg/
 
 [^34]: [S’pore zoo starts from scratch](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19461020-1.2.61). (1946, October 20). <i>The Straits Times</i>, p. 5. Retrieved from NewspaperSG.
 
-[^35]: <u>Wong</u>, 29 Oct 2013, p. 33.
+[^35]: Wong, 29 Oct 2013, p. 33.
 
 [^36]: Zaccheus, M. (2014, June 3). We brought a zoo: Singapore's small havens for wild animals. <i>The Straits Times</i>. Retrieved from Factiva via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
