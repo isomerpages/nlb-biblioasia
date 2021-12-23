@@ -6,10 +6,9 @@ image: /images/vol-11-issue-4/anglo-dutch-political/01_political.jpg
 layout: post
 description: ""
 ---
-
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>ABOUT THE MANUSCRIPT</b>
 <br><br>
-	<b>Title:</b> <i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=12761796">Letter from Sir Thomas Stamford Raffles to John Tayler</a></i>
+	<b>Title:</b> <i><a href="https://eresources.nlb.gov.sg/printheritage/detail/ea8630bd-0104-4aca-94e2-f348e544f32c.aspx">Letter from Sir Thomas Stamford Raffles to John Tayler</a></i>
 <br>
 <b>Author:</b> Stamford Raffles (1781–1826)
 <br>
@@ -39,13 +38,13 @@ Those early days were tumultuous times for Singapore, and the letter testifies t
 
 Raffles continued to face opposition from his own side as he tried to establish a foothold in the Far East. A strong opponent to his political manoeuvres was his superior, Colonel Bannerman. The Penang authorities had fought bitterly against the founding of Singapore, which they knew would pose a serious threat to the trade in Penang. At the peak of his resistance, Bannerman refused to send military reinforcements to Singapore when it faced possible Dutch expulsion, and the rift between the two deepened when Raffles’ bid for Bannerman’s post in Penang conflicted with the latter’s plans to pass the baton to his son-in-law, William E. Phillips.
 	
-<div style="background-color: white;"><img style="width:350px" src="/images/vol-11-issue-4/anglo-dutch-political/03a_political.jpg">Colonel John Alexander Bannerman (1759–1819), Governor of Penang from 1817–19. Photo found on page 23 of the book. <i>All rights reserved, Cartwright, A., & Cartwright, H. A. (1908). Twentieth Century Impressions of British Malaya: Its History, People, Commerce, Industries, and Resources. London: lloyd’s Greater Britain Publishing Company, Ltd.</i></div>
+<div style="background-color: white;"><img style="width:350px" src="/images/vol-11-issue-4/anglo-dutch-political/03a_political.jpg">Colonel John Alexander Bannerman (1759–1819), Governor of Penang from 1817–19. <i>All rights reserved, Cartwright, A., & Cartwright, H. A. (1908). Twentieth Century Impressions of British Malaya: Its History, People, Commerce, Industries, and Resources. (p. 23) London: lloyd’s Greater Britain Publishing Company, Ltd.</i></div>
 
 The loss of Java to Holland in 1816 had divested Raffles of a position of high status and power, as he was  previously the Lieutenant-Governor  of Java,[^5] and the rivalry for the Penang post was alluded to in Raffles’ letter, where he justified his “stronger claims” over Bannerman’s familial stake in the governorship.[^6]
 
 When Bannerman died on 8 August 1819, Phillips was sworn in as acting governor. Raffles, when informed of Bannerman’s death two months later, immediately sailed to Calcutta to pitch for the Penang governorship. But his optimism slowly faded with the Governor-General of India Lord Hastings’ wait-and-see approach on London’s verdict regarding Singapore. The Penang succession was eventually settled in favour of Bannerman’s son-in-law,[^7] and a dejected Raffles retreated into a quiet life in Bencoolen. He resigned from the British East India Company in 1822 due to poor health.
 	
-<div style="background-color: white;"><img style="width:400px" src="/images/vol-11-issue-4/anglo-dutch-political/04a_political.jpg">Portrait of Francis Rawdon-Hastings, First Marquess of Hastings (1754–1826). This is an 1829 engraving by Roger Griffith and R. J. Beevor. <i>Courtesy of Wikimedia Commons.</i></div>
+<div style="background-color: white;"><img style="width:340px" src="/images/vol-11-issue-4/anglo-dutch-political/04a_political.jpg">Portrait of Francis Rawdon-Hastings, First Marquess of Hastings (1754–1826). This is an 1829 engraving by Roger Griffith and R. J. Beevor. <i>Courtesy of Wikimedia Commons.</i></div>
 
 In 2001, this letter was displayed in Canberra at the National Library of Australia’s “Treasures from the World’s Great Libraries” exhibition from December 2001 to February 2002.[^8] It was one of two treasures on loan by the National Library, the other being the 1849 edition of the *Hikayat Abdullah*.[^9] By that time, almost 15 years after its purchase, the value of the letter had doubled.
 
