@@ -164,7 +164,7 @@ As these examples demonstrate, there is still a market for the occasional drive-
 
 [^15]: “[It’s Curtains for Jurong Drive-in Tomorrow.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850929.2.24.1.aspx)”
 
-[^16]: J.W., “[The Mad Scramble to Get Out First](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19721024-1.2.72.8),”*Straits Times*, 24 October 1972, 8. (From NewspaperSG)
+[^16]: J.W., “[The Mad Scramble to Get Out First](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19721024-1.2.72.8),” *Straits Times*, 24 October 1972, 8. (From NewspaperSG)
 
 [^17]: “[The Mad Scramble to Get Out First.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19721024-1.2.72.8)”
 
