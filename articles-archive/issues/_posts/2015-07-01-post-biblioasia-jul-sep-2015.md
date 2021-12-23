@@ -8,7 +8,7 @@ layout: post
 
 [<b>Director's Note</b>](/vol-11/issue-2/jul-sep-2015/director-note)
 
-[<b>Seizing the Singapore Dream</b>](/vol-11/issue-2/jul-sep-2015/seizing-the-sg-dream)<br>What does it take to achieve the Singapore Dream? <i>Parag Khanna</i> identifies three important pillars – diplomacy, demography and technology.
+[<b>Seizing the Singapore Dream</b>](/vol-11/issue-2/jul-sep-2015/parag-khanna-opinion)<br>What does it take to achieve the Singapore Dream? <i>Parag Khanna</i> identifies three important pillars – diplomacy, demography and technology.
 
 [<b>Singapore's Sporting Greats</b>](/vol-11/issue-2/jul-sep-2015/sg-sport-great)<br><i>Chua Chong Jin</i> recalls the glory and achievements of some of Singapore’s greatest athletes.
 
