@@ -20,7 +20,7 @@ layout: post
 
 [<b>Mohamed Eunos Abdullah: The Father of Malay Journalism</b>](/vol-11/issue-2/jul-sep-2015/mohamed-eunos)<br>The Eunos area in the east of Singapore is named after the pioneer, Mohamed Eunos Abdullah. <i>Mazelan Anuar</i> traces his legacy. 
 
-[<b>The French Can: Pineapples, Sardines and the Gallic Connection</b>](/vol-11/issue-2/jul-sep-2015/french-can)<br>The Ayam brand of canned sardines was the brainchild of Frenchman Alfred Clouët. <i>Timothy Pwee</i> reveals its history and that of the pineapple canning industry in Singapore.
+[<b>The French Can: Pineapples, Sardines and the Gallic Connection</b>](/vol-11/issue-2/jul-sep-2015/ayam-brand-singapore)<br>The Ayam brand of canned sardines was the brainchild of Frenchman Alfred Clouët. <i>Timothy Pwee</i> reveals its history and that of the pineapple canning industry in Singapore.
 
 [<b>All Creatures Great and Small: Singapore's First Zoos</b>](/vol-11/issue-2/jul-sep-2015/sg-first-zoo)<br>Few people are aware that the island’s first public zoo was set up in 1875. <i>Lim Tin Seng</i> traces the history of wildlife parks in Singapore.
 
