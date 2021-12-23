@@ -265,6 +265,6 @@ The team members behind the book, led by <i>The Straits Times</i> Editor-at-larg
 <br><br>
 This article and selected excerpts were first published in <i>The Sunday Times</i> on 17 May 2015. © Singapore Press Holdings Limited. Reprinted with permission.</span>
 
-<p style="font-size:15px;"><b>Han Fook Kwang</b> joined The Straits Times in 1989 and became its political editor in 1995. He served as editor of the paper from 2002 to 2012. He is currently Editor-at-large at the newspaper.</p>
+<p style="font-size:15px;"><b>Han Fook Kwang</b> joined <i>The Straits Times</i> in 1989 and became its political editor in 1995. He served as editor of the paper from 2002 to 2012. He is currently Editor-at-large at the newspaper.</p>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-11/issue-2/jul-sep-2015/"><center>Back to Issue</center></a>
