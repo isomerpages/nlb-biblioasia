@@ -65,6 +65,6 @@ The National Conversation in 2012 was a productive start. But it has brought Sin
 
 <i>This article was first published in The Straits Times on 7 August 2013. © Parag Khanna.</i> Reprinted with permission.
 
-<p style="font-size:15px;"><b>Parag Khanna</b> is director of Hybrid Reality, a senior fellow of the Singapore Institute of International Affairs and an adjunct professor at the Lee Kuan Yew School of Public Policy. He is the author of The Second World (2008) and How To Run The World (2011), and co-author of Hybrid Reality (2012).</p>
+<p style="font-size:15px;"><b>Parag Khanna</b> is director of Hybrid Reality, a senior fellow of the Singapore Institute of International Affairs and an adjunct professor at the Lee Kuan Yew School of Public Policy. He is the author of <i>The Second World</i> (2008) and <i>How To Run The World</i> (2011), and co-author of <i>Hybrid Reality</i> (2012).</p>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-11/issue-2/jul-sep-2015/"><center>Back to Issue</center></a>
