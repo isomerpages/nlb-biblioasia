@@ -26,4 +26,4 @@ layout: post
 
 [<b>Sketches of Singapore</b>](/vol-11/issue-2/jul-sep-2015/sketches-of-singapore)<br>Doodlings and drawings of the cityscape by the community of artists who make up Singapore’s Urban Sketchers find expression in a new book.
 
-[<b>Poetry 101: It Does Not Have to Rhyme</b>](/vol-11/issue-2/jul-sep-2015/poetry-101)<br>One of this year’s Read! Fest initiatives is a celebration of Singapore poetry. <i>Sharon Lim</i> tells you what to expect.
+[<b>Poetry 101: It Does Not Have to Rhyme</b>](/vol-11/issue-2/jul-sep-2015/read-fest-poetry)<br>One of this year’s Read! Fest initiatives is a celebration of Singapore poetry. <i>Sharon Lim</i> tells you what to expect.
