@@ -6,7 +6,6 @@ image: /images/vol-11-issue-4/war-crimes-trial-snapshot/01_warcrimes.jpg
 layout: post
 description: ""
 ---
-
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>ABOUT THE PHOTOGRAPGH</b>
 <br><br>
 <b>Item:</b> <i><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201334252">Photographs on the Opening of the War Crimes Trial in Singapore, 21 January 1946</a></i>
@@ -37,7 +36,7 @@ The Singapore trials were held in the Supreme Court building on St. Andrew’s R
 
 The trial featured in the photograph was just one of many held at the time. Trials were also conducted for those involved in some of the worst atrocities committed during the Japanese Occupation. The most notorious of these trials was the one that prosecuted those involved in Operation Sook Ching, a military exercise aimed at purging anti-Japanese elements from the Chinese community in Singapore between 21 February and 4 March 1942.[^7]
 
-<div style="background-color: white;"><img style="width:600px" src="/images/vol-11-issue-4/war-crimes-trial-snapshot/02a_warcrimes.jpg">The counsels for the accused making their defence at the Sook Ching Massacre Trial held at the Victoria Memorial Hall in 1947. <i>Tham Sien Yen Collection, courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;"><img style="width:700px" src="/images/vol-11-issue-4/war-crimes-trial-snapshot/02a_warcrimes.jpg">The counsels for the accused making their defence at the Sook Ching Massacre Trial held at the Victoria Memorial Hall in 1947. <i>Tham Sien Yen Collection, courtesy of National Archives of Singapore.</i></div>
 
 While there were several separate trials for Japanese soldiers involved in Operation Sook Ching, the main trial was held from 10 March to 2 April 1947 with seven Japanese officers charged with planning and executing the killings. All the officers were found guilty with Lieutenant-General Kawamura Saburo, garrison commander of Singapore Town, and Lieutenant-Colonel Oishi Masayuki, the Kempeitai (Japanese military police) commander, sentenced to death. The other five officers received life sentences.[^8]
 
