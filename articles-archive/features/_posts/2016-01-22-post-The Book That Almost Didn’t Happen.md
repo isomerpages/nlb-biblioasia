@@ -6,7 +6,6 @@ image: /images/vol-11-issue-4/book-that-almost-didnt-happen/01_bookdidnthappen.j
 layout: post
 description: ""
 ---
-
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>ABOUT THE BOOK</b>
 <br><br>
 <b>Title:</b> <i><a href="https://eresources.nlb.gov.sg/printheritage/detail/f9d3332f-3612-46d3-b134-b254d106aaf9.aspx">Notices of the Indian Archipelago, and Adjacent Countries: Being a Collection of Papers Relating to Borneo, Celebes, Bali, Java, Sumatra, Nias, the Philippine islands, Sulus, Siam, Cochin China, Malayan Peninsula, etc.</a></i>
@@ -15,9 +14,7 @@ description: ""
 <br>
 <b>Year published:</b> 1837
 <br>
-<b>Publisher:</b> Not identified
-<br>
-Printed in Singapore by the Mission Press of the American Board of Commissioners for Foreign Missions[^1]
+<b>Publisher:</b> Not identified; Printed in Singapore by the Mission Press of the American Board of Commissioners for Foreign Missions[^1]
 <br>
 <b>Language:</b> English
 <br>
