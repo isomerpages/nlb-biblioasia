@@ -6,8 +6,6 @@ image: /images/vol-11-issue-4/map-that-opened-southeast-asia/01_mapthatopenedsea
 layout: post
 description: ""
 ---
-
-
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>ABOUT THE MAP</b>
 <br><br>
 <b>Title:</b> <i><a href="https://eresources.nlb.gov.sg/printheritage/detail/302a34a9-17c9-48db-abcb-53133aa7c27a.aspx">Exacta & Accurata Delineatio cum Orarum Maritimdrum tum etjam locorum terrestrium quae in Regionibus China, Cauchinchina, Camboja sive Champa, Syao, Malacca, Arracan & Pegu… (The True Depiction or Illustration of all the Coasts and Lands of China, Cochin China, Cambodia, Siam, Malacca, Arracan and Pegu, Likewise of all the Adjacent Islands, Large and Small, Together with the Cliffs, Riffs, Sands, Dry Parts and Shallows; All Taken from the Most Accurate Sea Charts and Rutters in Use by the Portuguese Pilots Today)</a></i>
@@ -28,7 +26,7 @@ description: ""
 <br>
 <b>Donated by:</b> Koh Seow Chuan (monochrome version)</span>
 
-<div style="background-color: white;"><img src="/images/vol-11-issue-4/map-that-opened-southeast-asia/02a_mapthatopenedsea.jpg">The National Library has two different versions of the Exacta & Accurata map, both dated 1596: a black and-white copy donated by the philanthropist and architect Koh Seow Chuan, and this hand-coloured version in the David Parry Southeast Asian Map Collection. <i>All rights reserved, National Library Board, Singapore.</i></div>
+<div style="background-color: white;"><img src="/images/vol-11-issue-4/map-that-opened-southeast-asia/02a_mapthatopenedsea.jpg">The National Library has two different versions of the <i>Exacta & Accurata</i> map, both dated 1596: a black and-white copy donated by the philanthropist and architect Koh Seow Chuan, and this hand-coloured version in the David Parry Southeast Asian Map Collection. <i>All rights reserved, National Library Board, Singapore.</i></div>
 
 By the late 16th century, the Portuguese had dominated the trade to Southeast Asia for nearly a hundred years. Its monopoly depended on closely guarded knowledge about the best sailing routes to the region, known as the East Indies at the time.[^1]
 
@@ -36,7 +34,7 @@ But a Dutchman called Jan Huygen van Linschoten changed the course of history fo
 
 <div style="background-color: white;"><img style="width:350px" src="/images/vol-11-issue-4/map-that-opened-southeast-asia/01a_mapthatopenedsea.jpg">Jan Huygen van Linschoten (1563–1611). Reproduced from Het Itinerario van Jan Huygen van Linschoten 1579-1592. <i>Courtesy of Wikimedia Commons.</i></div>
 
-Combining this information with his own travel experiences and observations in Goa, Linschoten created *Reysgheschrift vande navigatien der Portugaloysers in Orienten* (Travel accounts of Portuguese navigation in the Orient), a maritime handbook published in 1595. The following year, he revealed even more of his hard-earned knowledge in a second, more detailed work: *Itinerario, Voyage ofte Schipvaert van Jan Huygen van Linschoten naer Oost ofte Portugaels Indien, 1579–1592* (*Travel Account of the Voyage of the Sailor Jan Huygen van Linschoten to the Portuguese East India*).
+Combining this information with his own travel experiences and observations in Goa, Linschoten created *Reysgheschrift vande navigatien der Portugaloysers in Orienten* (*Travel accounts of Portuguese navigation in the Orient*), a maritime handbook published in 1595. The following year, he revealed even more of his hard-earned knowledge in a second, more detailed work: *Itinerario, Voyage ofte Schipvaert van Jan Huygen van Linschoten naer Oost ofte Portugaels Indien, 1579–1592* (*Travel Account of the Voyage of the Sailor Jan Huygen van Linschoten to the Portuguese East India*).
 
 The landmark *Itinerario* laid bare the Portuguese’s unrivalled information for navigating 16th-century Southeast Asia through the Melaka Straits. Aware that the Portuguese might not look favourably on outsiders who had gained access to their routes, Linschoten also included in it a recommendation to navigators to approach the region through the Sunda Straits in order to avoid Portuguese reprisal.[^2]
 
