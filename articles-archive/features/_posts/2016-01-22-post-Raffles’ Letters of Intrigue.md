@@ -6,13 +6,12 @@ image: /images/vol-11-issue-4/raffles-letter-of-intrigue/01_rafflesletter.jpg
 layout: post
 description: ""
 ---
-
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;">
-	<b>Title:</b> <i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=13186897">Letters from Sir Thomas Stamford Raffles to Lord Lansdowne</a></i>
+	<b>Title:</b> <i>Letters from Sir Thomas Stamford Raffles to Lord Lansdowne</i>
 <br>
 <b>Author:</b> Stamford Raffles (1781–1826)
 <br>
-<b>Year written:</b> <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=13186897">15 April 1820</a>; <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=13186898">19 January 1821</a>; <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=13186899">1 March 1822</a>; <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=13186900">20 January 1823</a>
+<b>Year written:</b> <a href="https://eresources.nlb.gov.sg/printheritage/detail/b671e3b9-d03c-4072-a939-798546474c41.aspx">15 April 1820</a>; <a href="https://eresources.nlb.gov.sg/printheritage/detail/32f71cf5-ede5-4d44-ba38-8005611947f2.aspx">19 January 1821</a>; <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=13186899">1 March 1822</a>; <a href="https://eresources.nlb.gov.sg/printheritage/detail/db10bbd1-80ee-4281-bd9e-5c3d19ecc5ed.aspx">20 January 1823</a>
 <br>
 <b>Language:</b> English
 <br>
