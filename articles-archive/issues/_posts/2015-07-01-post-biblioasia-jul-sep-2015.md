@@ -18,7 +18,7 @@ layout: post
 
 [<b>The Music, Madness and Magic of Dick Lee</b>](/vol-11/issue-2/jul-sep-2015/dick-lee)<br>The “Mad Chinaman” was probably the first to push the boundaries of popular music in Singapore. <i>Joy Loh</i> profiles the enfant terrible of entertainment.
 
-[<b>Mohamed Eunos Abdullah: The Father of Malay Journalism</b>](/vol-11/issue-2/jul-sep-2015/malay-journalism)<br>The Eunos area in the east of Singapore is named after the pioneer, Mohamed Eunos Abdullah. <i>Mazelan Anuar</i> traces his legacy. 
+[<b>Mohamed Eunos Abdullah: The Father of Malay Journalism</b>](/vol-11/issue-2/jul-sep-2015/mohamed-eunos)<br>The Eunos area in the east of Singapore is named after the pioneer, Mohamed Eunos Abdullah. <i>Mazelan Anuar</i> traces his legacy. 
 
 [<b>The French Can: Pineapples, Sardines and the Gallic Connection</b>](/vol-11/issue-2/jul-sep-2015/french-can)<br>The Ayam brand of canned sardines was the brainchild of Frenchman Alfred Clouët. <i>Timothy Pwee</i> reveals its history and that of the pineapple canning industry in Singapore.
 
