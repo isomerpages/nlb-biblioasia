@@ -19,7 +19,7 @@ Long before Bernard Harrison and the Singapore Zoo, Singapore’s early zoo pion
 
 Another noted Singaporean from the annals of history is Mohamed Eunos Abdullah. Senior Librarian [Mazelan Anuar](/vol-11/issue-2/jul-sep-2015/mohamed-eunos) profiles the man who not only gave his name to the Eunos district in Singapore, but, more importantly, is known as the “Father of Malay Journalism” in the community.
 
-Many Singaporeans are familiar with the Ayam brand of canned sardines but who would have thought that the brand is of French origins? Senior Reference Librarian [Timothy Pwee](/vol-11/issue-2/jul-sep-2015/french-can) traces the history of the brand from its founding in Singapore in the early 1890s by Frenchman Alfred Clouët.
+Many Singaporeans are familiar with the Ayam brand of canned sardines but who would have thought that the brand is of French origins? Senior Reference Librarian [Timothy Pwee](/vol-11/issue-2/jul-sep-2015/ayam-brand-singapore) traces the history of the brand from its founding in Singapore in the early 1890s by Frenchman Alfred Clouët.
 
 Our guest columnist in this issue is the best-selling author and noted thinker [Parag Khanna](/vol-11/issue-2/jul-sep-2015/parag-khanna-opinion), who identifies diplomacy, demography and technology as the three key pillars in achieving the Singapore dream in his op-ed piece “Seizing the Singapore Dream”.
 
