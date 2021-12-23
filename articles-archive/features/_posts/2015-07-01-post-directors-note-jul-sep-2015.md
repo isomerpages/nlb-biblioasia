@@ -21,7 +21,7 @@ Another noted Singaporean from the annals of history is Mohamed Eunos Abdullah. 
 
 Many Singaporeans are familiar with the Ayam brand of canned sardines but who would have thought that the brand is of French origins? Senior Reference Librarian [Timothy Pwee](/vol-11/issue-2/jul-sep-2015/french-can) traces the history of the brand from its founding in Singapore in the early 1890s by Frenchman Alfred Clouët.
 
-Our guest columnist in this issue is the best-selling author and noted thinker [Parag Khanna](/vol-11/issue-2/jul-sep-2015/seizing-the-sg-dream), who identifies diplomacy, demography and technology as the three key pillars in achieving the Singapore dream in his op-ed piece “Seizing the Singapore Dream”.
+Our guest columnist in this issue is the best-selling author and noted thinker [Parag Khanna](/vol-11/issue-2/jul-sep-2015/parag-khanna-opinion), who identifies diplomacy, demography and technology as the three key pillars in achieving the Singapore dream in his op-ed piece “Seizing the Singapore Dream”.
 
 While we celebrate Team Singapore’s outstanding performance at the SEA Games and the nation’s Golden Jubilee, let us not forget the victims of the tragic Sabah earthquake. The National Library Board extends our sincere condolences to the affected families.
 
