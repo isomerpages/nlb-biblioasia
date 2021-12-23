@@ -44,7 +44,7 @@ The loss of Java to Holland in 1816 had divested Raffles of a position of high s
 
 When Bannerman died on 8 August 1819, Phillips was sworn in as acting governor. Raffles, when informed of Bannerman’s death two months later, immediately sailed to Calcutta to pitch for the Penang governorship. But his optimism slowly faded with the Governor-General of India Lord Hastings’ wait-and-see approach on London’s verdict regarding Singapore. The Penang succession was eventually settled in favour of Bannerman’s son-in-law,[^7] and a dejected Raffles retreated into a quiet life in Bencoolen. He resigned from the British East India Company in 1822 due to poor health.
 	
-<div style="background-color: white;"><img style="width:340px" src="/images/vol-11-issue-4/anglo-dutch-political/04a_political.jpg">Portrait of Francis Rawdon-Hastings, First Marquess of Hastings (1754–1826). This is an 1829 engraving by Roger Griffith and R. J. Beevor. <i>Courtesy of Wikimedia Commons.</i></div>
+<div style="background-color: white;"><img style="width:350px" src="/images/vol-11-issue-4/anglo-dutch-political/04b_political.jpg">Portrait of Francis Rawdon-Hastings, First Marquess of Hastings (1754–1826). This is an 1829 engraving by Roger Griffith and R. J. Beevor. <i>Courtesy of Wikimedia Commons.</i></div>
 
 In 2001, this letter was displayed in Canberra at the National Library of Australia’s “Treasures from the World’s Great Libraries” exhibition from December 2001 to February 2002.[^8] It was one of two treasures on loan by the National Library, the other being the 1849 edition of the *Hikayat Abdullah*.[^9] By that time, almost 15 years after its purchase, the value of the letter had doubled.
 
