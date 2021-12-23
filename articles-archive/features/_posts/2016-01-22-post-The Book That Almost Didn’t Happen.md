@@ -58,13 +58,13 @@ The National Library holds four copies of the 1837 edition of *Notices*, and two
 
 #### **NOTES**
 
-[^1]:Extracts from letters of Mr Tracy, dated at Singapore. (1836, May). *The Missionary Herald, 32*, 181. Retrieved May 25, 2019, from HathiTrust website.
+[^1]:Extracts from letters of Mr Tracy, dated at Singapore. (1836, May). *The Missionary Herald, 32*, 181. Retrieved from HathiTrust website.
 
 [^2]:[Untitled](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18371214-1.2.16). (1837, December 14). *The Singapore Free Press and Mercantile Advertiser* (1835–1869), p. 3. Retrieved from NewspaperSG.
 
 [^3]:Buckley, C.B. (1984). *[An anecdotal history of old times in Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082239)* (p.134). Singapore: Oxford University Press. Call no.: RSING 959.57 BUC-[HIS]
 
-[^4]:Gibson-Hill, C.A. (1953, July). The Singapore Chronicle (1824–37). *Journal of the Malaysian Branch of the Royal Asiatic Society, 26* (1), 178. Singapore: Malayan Branch, Royal Asiatic Society. (Call no.: RCLOS 959.5 JMBRAS)
+[^4]:Gibson-Hill, C.A. (1953, July). The Singapore Chronicle (1824–37). *Journal of the Malaysian Branch of the Royal Asiatic Society, 26* (1), 178. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
 
 [^5]:[Buckley](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082239), 1984, pp. 128, 133–134, 323, 467; Gibson- Hill, Jul 1953, pp. 187–195; [Death](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18430504-1.2.9). (1843, May 4). T*he Singapore Free Press and Mercantile Advertiser* (1835–1869), p. 3. Retrieved from NewspaperSG.
 
