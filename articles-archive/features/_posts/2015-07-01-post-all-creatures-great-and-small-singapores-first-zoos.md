@@ -153,9 +153,9 @@ Willis, A.C. (1936). *[Willis’ Singapore guide](https://eresources.nlb.gov.sg/
 
 [^2]: Bastin J. (1990). Sir Stamford Raffles and the study of natural history in Penang, Singapore and Indonesia. <i>Journal of the Malaysian Branch of the Royal Asiatic Society</i>, 63 (2) (259), 1–25, pp. 1–2. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website; Raffles, S. (1991). *[Memoir of the life and public services of Sir Thomas Stamford Raffles](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6164277)* (pp. 633–697). Singapore: Oxford University Press. (Call no.: RSING 959.57021092 RAF)
 
-[^3]: <u>Bastin</u>, 1990, pp. 3–4.
+[^3]: Bastin, 1990, pp. 3–4.
 
-[^4]: <u>Bastin</u>, 1990, p. 3; Abdullah  bin Abdul Kadir. (2009). *[The hikayat Abdullah](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13606908)* (p. 77). Kuala Lumpur: The Malaysian Branch of the Royal Asiatic Society. (Call no.: RSEA 959.9 ABD)
+[^4]: Bastin, 1990, p. 3; Abdullah  bin Abdul Kadir. (2009). *[The hikayat Abdullah](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13606908)* (p. 77). Kuala Lumpur: The Malaysian Branch of the Royal Asiatic Society. (Call no.: RSEA 959.9 ABD)
 
 [^5]: Bastin, J. (1981). The letters of Sir Stamford Raffles to Nathaniel Wallich, 1819–1824. <i>Journal of the Malaysian Branch of the Royal Asiatic Society</i>, 54 (2) (240), 1–73, pp. 16–17. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
@@ -177,11 +177,11 @@ Willis, A.C. (1936). *[Willis’ Singapore guide](https://eresources.nlb.gov.sg/
 
 [^14]: [Legislative Council: Supply Bill 1875](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsobserver18741228-1.2.5). (1874, December 28). <i>Straits Observer (Singapore)</i>, p. 2. Retrieved from NewspaperSG.
 
-[^15]: <u>Burkill</u>, Nov 1918, pp. 95–96.
+[^15]: *[Burkill](https://eservice.nlb.gov.sg/item_holding.aspx?bid=903181)*, Nov 1918, pp. 95–96.
 
-[^16]: <u>Burkill</u>, Nov 1918, pp. 96–97.
+[^16]: *[Burkill](https://eservice.nlb.gov.sg/item_holding.aspx?bid=903181)*, Nov 1918, pp. 96–97.
 
-[^17]: <u>Burkill</u>, Nov 1918, p. 97.
+[^17]: *[Burkill](https://eservice.nlb.gov.sg/item_holding.aspx?bid=903181)*, Nov 1918, p. 97.
 
 [^18]: Ridley, H.N. (1906, December). The menagerie of the Botanic Gardens. <i>Journal of the Straits Branch of the Royal Asiatic Society</i>, 46, 133–194. p. 133. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
