@@ -61,7 +61,7 @@ Likewise, the performance was significant for reflecting thecultural leanings of
 
 [^4]:柯思仁 [Quah, S.R.]. (2013). [戏聚百年：新加坡华文戏剧1913 – 2013](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200169140) [*Scenes: A hundred years of Singapore Chinese language theatre 1913–2013*](p. 15). 新加坡：戏剧盒：新加坡国家博物馆. (Call no.: RSING 792.095957 QSR)
 
-[^5][:筹赈闽省水灾会假座欢乐园举行演剧游艺次序表](https://eresources.nlb.gov.sg/newspapers/Digitised/Page/nysp19240808-1.1.16). (1924, August 8). 南洋商报 [*Nanyang Siang Pau*] p. 16. Retrieved from NewspaperSG.
+[^5]:[:筹赈闽省水灾会假座欢乐园举行演剧游艺次序表](https://eresources.nlb.gov.sg/newspapers/Digitised/Page/nysp19240808-1.1.16). (1924, August 8). 南洋商报 [*Nanyang Siang Pau*] p. 16. Retrieved from NewspaperSG.
 
 [^6]:[柯思仁](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200169140), 2013, p. 15.
 
