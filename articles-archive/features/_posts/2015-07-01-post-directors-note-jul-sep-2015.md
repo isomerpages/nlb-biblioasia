@@ -17,7 +17,7 @@ Performing Arts Librarian [Joy Loh](/vol-11/issue-2/jul-sep-2015/dick-lee) write
 
 Long before Bernard Harrison and the Singapore Zoo, Singapore’s early zoo pioneers included the likes of Stamford Raffles, who mooted the idea of an animal enclosure within a botanic garden in Singapore; William Lawrence Basapa, whose private zoo in Punggol showcased animals native to the Malay Peninsula and Borneo; and Tong Seng Mun, who started the Singapore Miniature Zoo in Pasir Panjang. Librarian [Lim Tin Seng](/vol-11/issue-2/jul-sep-2015/sg-first-zoo) reveals the interesting history of Singapore’s early zoos and wildlife parks in his article “All Creatures Great and Small”. 
 
-Another noted Singaporean from the annals of history is Mohamed Eunos Abdullah. Senior Librarian [Mazelan Anuar](/vol-11/issue-2/jul-sep-2015/malay-journalism) profiles the man who not only gave his name to the Eunos district in Singapore, but, more importantly, is known as the “Father of Malay Journalism” in the community.
+Another noted Singaporean from the annals of history is Mohamed Eunos Abdullah. Senior Librarian [Mazelan Anuar](/vol-11/issue-2/jul-sep-2015/mohamed-eunos) profiles the man who not only gave his name to the Eunos district in Singapore, but, more importantly, is known as the “Father of Malay Journalism” in the community.
 
 Many Singaporeans are familiar with the Ayam brand of canned sardines but who would have thought that the brand is of French origins? Senior Reference Librarian [Timothy Pwee](/vol-11/issue-2/jul-sep-2015/french-can) traces the history of the brand from its founding in Singapore in the early 1890s by Frenchman Alfred Clouët.
 
