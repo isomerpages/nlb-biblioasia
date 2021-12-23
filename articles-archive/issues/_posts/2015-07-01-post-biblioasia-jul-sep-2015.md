@@ -14,7 +14,7 @@ layout: post
 
 [<b>Stories We Can Call Our Own</b>](/vol-11/issue-2/jul-sep-2015/stories)<br> <i>Han Fook Kwang</i> shares some of his favourite stories from Singaporeans as told in *Living The Singapore Story*, a book commemorating the nation’s golden jubilee.
 
-[<b>The Art of Movement: Dance On The Singapore Stage</b>](/vol-11/issue-2/jul-sep-2015/art-of-movement)<br><i>Tara Tan</i> profiles five trailblazers of the Singapore dance scene who have pushed the envelope and created a unique Singaporean dance identity.
+[<b>The Art of Movement: Dance on the Singapore Stage</b>](/vol-11/issue-2/jul-sep-2015/art-of-movement)<br><i>Tara Tan</i> profiles five trailblazers of the Singapore dance scene who have pushed the envelope and created a unique Singaporean dance identity.
 
 [<b>The Music, Madness and Magic of Dick Lee</b>](/vol-11/issue-2/jul-sep-2015/dick-lee)<br>The “Mad Chinaman” was probably the first to push the boundaries of popular music in Singapore. <i>Joy Loh</i> profiles the enfant terrible of entertainment.
 
