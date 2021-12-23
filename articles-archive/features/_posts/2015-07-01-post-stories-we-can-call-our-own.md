@@ -213,7 +213,7 @@ At age 94, Ngalirdjo Mungin still goes to his stall, which his son runs now, to 
 </div>
  
 
-#### **Sometimes You Need More than Prayers**
+#### **Sometimes You Need More Than Prayers**
 
 <b>After two heart attacks and more than 60 years as a nurse and mid-wife, Sister Thomasina Sewell, 81, still keeps patients company every day at the Assisi Hospital and Mount Alvernia Hospital.</b>
 
