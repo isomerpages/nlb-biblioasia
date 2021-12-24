@@ -78,11 +78,11 @@ Lee Kong Chian, who bought Sun’s villa in 1937 to preserve its illustrious his
 [^8]:[陈丁辉](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200730355), 2013, pp. vii–ix.
 [^9]:张永福著. (2013). *南洋与创立民国* (p. IX). 陈丁辉主编. 新加坡: 晚晴园孙中山南洋记念馆. Call No.: RSING 951.08 ZYF
 [^10]:Tan B. H. (1988, July 28). [Villa of revolutionaries](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880728-1.2.60.9.1.aspx). *The Straits Times*, p. 5. Retrieved from NewspaperSG.
-[^11]:[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880728-1.2.60.9.1.aspx), 28 Jul 1988, p. 5.
-[^12]:[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880728-1.2.60.9.1.aspx), 28 Jul 1988. p. 5; 陈丁辉, 2013, p. 5.
-[^13]:The Straits Times, 28 Jul 1988. p. 5; 陈丁辉, 2013, p. 10.
-[^14]:Rear-Adm Teo goes down memory lane. (1995, November 26). The Straits Times, p. 1. Retrieved from NewspaperSG.
-[^15]:	It’s housed soldiers, mistress and tycoons. (2001, November 12). The Straits Times, p. 4. Retrieved from NewspaperSG.
-[^16]:Hall of fame. (2005, December 29). The Straits Times, p. 5. Retrieved from NewspaperSG.
-[^17]:Former Singapore ‘Rubber King’ dies in Hong Kong. (1959, April 11). The Straits Times, p. 2. Retrieved from NewspaperSG; 张永福, 2013, p. VII.
-[^18]:Huang, L. (2013, December 13). Six saved villa for Sun. The Straits Times. Retrieved from Factiva via NLB’s eResources website.
+[^11]:[*The Straits Times*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880728-1.2.60.9.1.aspx), 28 Jul 1988, p. 5.
+[^12]:[*The Straits Times*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880728-1.2.60.9.1.aspx), 28 Jul 1988. p. 5; [陈丁辉](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200730355), 2013, p. 5.
+[^13]:[*The Straits Times*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880728-1.2.60.9.1.aspx), 28 Jul 1988. p. 5; [陈丁辉](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200730355), 2013, p. 10.
+[^14]:[Rear-Adm Teo goes down memory lane](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19951126-1.2.6.aspx). (1995, November 26). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
+[^15]:	[It’s housed soldiers, mistress and tycoons](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20011112-1.2.65.3.3.aspx). (2001, November 12). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
+[^16]:[Hall of fame](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20051229-1.2.55.5.aspx). (2005, December 29). *The Straits Times*, p. 5. Retrieved from NewspaperSG.
+[^17]:[Former Singapore ‘Rubber King’ dies in Hong Kong](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19590411-1.2.15.aspx). (1959, April 11). *The Straits Times*, p. 2. Retrieved from NewspaperSG; 张永福, 2013, p. VII.
+[^18]:Huang, L. (2013, December 13). Six saved villa for Sun. *The Straits Times*. Retrieved from Factiva via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
