@@ -36,3 +36,16 @@ The gazette employed the same layout and maintained its minimal, graphic-free ae
 printed by Mission Press, the sole printing press in Singapore at the time.
 
 The *Straits Government Gazette* can trace its origins to some 30 years earlier in October 18285 when it began as the weekly *Government Gazette of Prince of Wales Island, Singapore and Malacca*.6 It contained announcements by the government, occasionally accompanied by Jawi translations, as well as news from India and Europe, currency updates and, quite oddly, selections from works of English literature.7
+
+This government gazette was published until July 1830, when the status of the Straits Settlements was reduced from a presidency to a residency.8 Its last issue ended with a cryptic message in Vol. 3 No.89 on 3 July 1829 in crisp Queen’s English: 
+“We beg to announce to Subscribers the termination of this Journal. Accident rather than choice led us to assume a character 
+which previous experience had little qualified us to discharge with ability”.9 No further attempts to establish another government publication were pursued until 1858, when the government started the *Straits Government Gazette*.10
+
+The Straits Government Gazette was issued from 1858 until 1867,11 when the Straits Settlements officially achieved Crown 
+Colony status and was governed directly by the Colonial Office in London instead of the Indian government in Calcutta. Thereafter, 
+the gazette underwent several title changes that were indicative of Singapore’s fluctuating political circumstances.12
+
+From 1867 to 1942, the publication was renamed the *Straits Settlements Government Gazette*, and after ceasing production during the Japanese Occupation (1942–45), it resurfaced as the British *Military Administration, Malaya Gazette, Singapore Division*, in November 1945.
+
+The following year, on 1 April 1946, the Straits Settlements was dissolved and Singapore became a separate Crown Colony helmed by its own governor. The government published its laws in 
+the newly minted Colony of Singapore Government Gazette.13 When Singapore attained internal self-government in 
