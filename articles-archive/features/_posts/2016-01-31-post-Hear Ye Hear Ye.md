@@ -19,7 +19,14 @@ B02969341A (1860); B02969342B (1965);
 B02969343C (1867)
 </span>
 
+<img src="/images/vol-11-issue-4/hear-ye-hear-ye/Ye1.JPG">
+<div style="background-color: white;"> The masthead of the Straits Government Gazette with the crest of the Straits Settlements. <i>Image source: National Library Board, Singapore.</i></div>
+
 In Singapore, notifications of all new laws passed by parliament are officially announced in the government gazette, a time-honoured practice that continues to this day.1 One of its earliest iterations was the *Straits Government Gazette*, published in 1858 when Singapore was still a part of the Straits Settlements and under the government of the Colonial Office of Calcutta in India. Similar in content to the gazette published today, the gazette at the time contained proclamations by the governors, announcements of new government appointments as well as notices of new ordinances.2
+
+<img src="/images/vol-11-issue-4/hear-ye-hear-ye/Ye2.JPG">
+<div style="background-color: white;">  The front page of the first issue, dated 1 January 1858, carries a note asserting that 
+the gazette “will be the only Official organ for Publications, Notifications and other Public Papers of this Government”. <i>All rights reserved, Straits Government Gazette (1858 –67). Singapore: Mission Press.</i></div>
 
 The front page of the first issue, dated 1 January 1858, consists of the title of the gazette in Gothic script, the crest of the 
 Straits Settlements and a note asserting that the gazette “will be the only Official organ for Publications, Notifications and other Public Papers of this Government”.3 The first issue was printed on paper embossed with the watermark of the British East India 
@@ -67,4 +74,3 @@ the newly minted *Colony of Singapore Government Gazette*.13 When Singapore atta
 [^12]:Jarman, 1998, vol. 1, p. v.
 [^13]:	Black, E. A, & Bell, F. (Eds.). (2011). Law and legal institutions of Asia: Traditions, adaptations and innovations (p. 347). Cambridge: Cambridge University Press. Call no.: RSING 349.5 LAW
 [^14]:Black & Bell, 2011, p. 347.
-
