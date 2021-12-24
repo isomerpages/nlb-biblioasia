@@ -39,19 +39,19 @@ description: ""
 **[Logan’s Journal](/vol-11/issue-4/jan-mar-2016/indian-archipelago-eastern-asia-logan-journal)**<br>
 *The Journal of the Indian Archipelago and Eastern Asia*
 
-**Raffles’ Letters of Intrigue**<br>
+**[Raffles’ Letters of Intrigue](/vol-11/issue-4/jan-mar-2016/letters-stamford-raffles-marquess-lansdowne)**<br>
 *Letters from Sir Thomas Stamford Raffles to Lord Lansdowne*
 
-**Raffles’ Political Manoeuvres**<br>
+**[Raffles’ Political Manoeuvre](/vol-11/issue-4/jan-mar-2016/letter-stamford-raffles-john-tayler)s**<br>
 *Letter from Sir Thomas Stamford Raffles to John Tayler*
 
-**The Map That Opened Up Southeast Asia**<br>
+**[The Map That Opened Up Southeast Asia](/vol-11/issue-4/jan-mar-2016/map-south-east-asia-exacta-accurata-linschoten)**<br>
 *Exacta & Accurata Delineatio cum Orarum Maritimdrum tum etjam locorum terrestrium quae in Regionibus China, Cauchinchina, Camboja sive Champa, Syao, Malacca, Arracan & Pegu…*
 
-**The Book That Almost Didn’t Happen**<br>
+**[The Book That Almost Didn’t Happen](/vol-11/issue-4/jan-mar-2016/notices-indian-archipelago-john-henry-moor)**<br>
 *Notices of the Indian Archipelago, and Adjacent Countries: Being a Collection of Papers Relating to Borneo, Celebes, Bali, Java, Sumatra, Nias, the Philippine islands, Sulus, Siam, Cochin China, Malayan Peninsula, etc*
 
-**A War Crimes Trials Snapshot**<br>
+**[A War Crimes Trials Snapshot](/vol-11/issue-4/jan-mar-2016/photographs-singapore-war-crimes-trial)**<br>
 *Photographs on the Opening of the War Crimes Trials in Singapore, 21 January 1946*
 
 **Propaganda Paper**<br>
