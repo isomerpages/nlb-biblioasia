@@ -5,10 +5,8 @@ date: 2016-01-31
 layout: post
 description: ""
 ---
-
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
-	<b>Title:</b> <i>A Dictionary: English and Malayo, 
-	Malayo and English</i><br>
+	<b>Title:</b> <a href="https://eresources.nlb.gov.sg/printheritage/detail/20d7b813-2055-40a0-8688-fca31227c28f.aspx"><i>A Dictionary: English and Malayo, Malayo and English</i></a><br>
 <b>Author:</b> Thomas Bowrey (1650–1713)<br>
 <b>Year published:</b> 1701<br>
 <b>Publisher:</b> Printed by Sam Bridge (London)<br>
@@ -43,10 +41,10 @@ are therefore representative of the type of Malay used in conversations between 
 The dictionary was probably useful in facilitating the already significant trade between British and local traders in the Malay world. In earlier decades, the Portuguese (1511) and later Dutch (1641) had invaded Melaka. Not only did trade thrive under the different colonial powers, the 
 Malay language continued to be the *lingua franca* of trade in the East Indies.[^9]
 
-Bowrey, who spoke Malay fluently, made no bones about the fact that the pursuit of trade in the Malay-speaking countries was his biggest incentive for compiling the dictionary.[^10] John Leyden (see page 47), a scholar of the Malay language, called the dictionary a work of “great merit and labour” a century after its publication,[^11] while Richard O. Winstedt in his book, *Malaya* (1923), said Bowrey’s grasp of working Malay was something “to be envied”. Stamford Raffles himself might have benefitted from Bowrey’s mastery. Winstedt wrote that when Raffles sought to bring himself up to speed in Malay during his long voyage to the East, he gleaned heartily from “some antediluvian book”. This book could very well be Bowrey’s dictionary.[^12]
+Bowrey, who spoke Malay fluently, made no bones about the fact that the pursuit of trade in the Malay-speaking countries was his biggest incentive for compiling the dictionary.[^10] John Leyden, a scholar of the Malay language, called the dictionary a work of “great merit and labour” a century after its publication,[^11] while Richard O. Winstedt in his book, *Malaya* (1923), said Bowrey’s grasp of working Malay was something “to be envied”. Stamford Raffles himself might have benefitted from Bowrey’s mastery. Winstedt wrote that when Raffles sought to bring himself up to speed in Malay during his long voyage to the East, he gleaned heartily from “some antediluvian book”. This book could very well be Bowrey’s dictionary.[^12]
 
 <img src="/images/vol-11-issue-4/the-first-dictionary/D3.JPG">
-<div style="background-color: white;"> A watercolour painting of a Malay couple performing the traditional ronggeng dance by E. Schlitter, 1858. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i></div>
+<div style="background-color: white;"> A watercolour painting of a Malay couple performing the traditional <i>ronggeng</i> dance by E. Schlitter, 1858. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i></div>
 
 Bowrey, who left England in 1668 when he was barely 19 years old, likely compiled his dictionary during his return voyage home after trading in the Eastern Isles for almost 20 years. In 1688, Bowrey 
 boarded the ship *Bangala Merchant* and with time on his hands during the long journey, likely scoured from his memory the vast working knowledge of Malay he had built up over the years from his travels.[^13] With no access to references, Bowrey’s corpus of Malay vocabulary 
@@ -56,12 +54,14 @@ In publishing his dictionary, Bowrey had help from two eminent scholars who were
 
 Much of Bowrey’s private life was unknown until the discovery of his personal papers in a manor in Worcestershire, England, in 1913. Bowrey’s manuscripts and several hundred letters and business papers were later purchased by a Colonel Henry Howard, and part of it was presented to the Guildhall Library in London in 1931.[^17]
 
+–	Written by Nor-Afidah Abdul Rahman
+
 #### **NOTES**
 [^1]:Bowrey, T. (1927). [*The papers of Thomas Bowrey, 1669–1713*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4411906) (p. 38). R. C. Temple. (Ed.). London: Hakluyt Press. Call no.: RCLOS 910.8 HAK-[RFL]
 [^2]:Bowrey, T. (1701). Preface. In [*A dictionary, English and Malayo, Malayo and English*](http://eresources.nlb.gov.sg/printheritage/detail/20d7b813-2055-40a0-8688-fca31227c28f.aspx). (pp. 4–6).  London: Printed by Sam Bridge. Retrieved from BookSG.
-[^3]:Doshi, A. (1994). The development of the English/Malay Dictionary: A historical perspective (pp. 69–70). In B. & L. E. Newell. (Eds.), *Papers from the First Asia International Lexicography Conference, Manila, Philippines, 1992. LSP Special Monograph Issue*, 35. Retrieved from SIL International website; Howison, J. (1801). *A dictionary of the Malay tongue as spoken in the Peninsular of Malacca, the islands of Sumatra, Jawa, Borneo, Pulau Pinang etc. in two parts, English and Malay, and Malay and English*. London: Arabic and Persian Press. Retrieved from BookSG.
-[^4]:Jones, R. (1984). Malay studies and the British. *Archipel, 28*, 120–121. Retrieved 5 May, 2015, from Persee Revues Scientifiques website
-[^5]:Jones, 1984, p. 127; Mee, R. (1929, September). An old Malay dictionary. *Journal of the Malaysian Branch of the Royal Asiatic Society*, Vol. 7, No. 2 (107), 316. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
+[^3]:Doshi, A. (1994). The development of the English/Malay Dictionary: A historical perspective (pp. 69–70). In B. & L. E. Newell. (Eds.), *Papers from the First Asia International Lexicography Conference, Manila, Philippines, 1992. LSP Special Monograph Issue*, 35. Retrieved from SIL International website; Howison, J. (1801). [*A dictionary of the Malay tongue as spoken in the Peninsular of Malacca, the islands of Sumatra, Jawa, Borneo, Pulau Pinang etc. in two parts, English and Malay, and Malay and English*](https://eresources.nlb.gov.sg/printheritage/detail/f6ae2ff1-796c-4023-9cdd-068f63a96fbb.aspx). London: Arabic and Persian Press. Retrieved from BookSG.
+[^4]:Jones, R. (1984). Malay studies and the British. *Archipel, 28*, 120–121. Retrieved from Persee Revues Scientifiques website
+[^5]:Jones, 1984, p. 127; Mee, R. (1929, September). An old Malay dictionary. *Journal of the Malaysian Branch of the Royal Asiatic Society, 7* (2) (107), 316. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
 [^6]:Bialuschewski, A. (2007). Thomas Bowrey’s Madagascar manuscript of 1708. *History in Africa, 34*, 32–33. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
 [^7]:Miller, G. (1991). *Malay used by English country traders of the 18th century*. Retrieved from Malay Concordance Project website.
 [^8]:Doshi, 1994, p. 70.
