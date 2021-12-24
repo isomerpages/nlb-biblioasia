@@ -48,4 +48,23 @@ the gazette underwent several title changes that were indicative of Singapore’
 From 1867 to 1942, the publication was renamed the *Straits Settlements Government Gazette*, and after ceasing production during the Japanese Occupation (1942–45), it resurfaced as the British *Military Administration, Malaya Gazette, Singapore Division*, in November 1945.
 
 The following year, on 1 April 1946, the Straits Settlements was dissolved and Singapore became a separate Crown Colony helmed by its own governor. The government published its laws in 
-the newly minted Colony of Singapore Government Gazette.13 When Singapore attained internal self-government in 
+the newly minted *Colony of Singapore Government Gazette*.13 When Singapore attained internal self-government in 1959, the publication became known as the *State of Singapore Gazette* until 1965, when Singapore gained full independence and the gazette was finally retitled as the *Republic of Singapore Government Gazette*.14 An electronic version of the gazette, the eGazette, was made available in 1999. 
+
+– Written by Genine Loo
+
+#### **NOTES**
+[^1]:Parliament of Singapore. (2011). Parliamentary glossary – G. Retrieved from Parliament of Singapore website.
+[^2]:National University of Singapore. (2015, July 14). Singapore primary sources: Executive government (1867–1965). Retrieved from NUS Library website.
+[^3]:Straits Settlements. (1858, January 1). Straits Government Gazette, 1. Microfilm no.: NL 994 (1858–59)
+[^4]:Byrd, C. K. (1970). Early printing in the Straits Settlements 1806–1858 (p. 50). Singapore: Singapore National Library. Call no.: RCLOS 686.2095957 BYR
+[^5]:Byrd, 1970, p. 7.
+[^6]:Buckley, C. B. (1984). An anecdotal history of old times in Singapore 1819–1867 (p. 153). Singapore: Oxford University Press. Call no.: RSING 959.57 BUC-[HIS]
+[^7]:Byrd, 1970, p. 7.
+[^8]:Bridgman, E. C. (1837). The Chinese Repository, 5, 146. Vaduz: Kraus Reprint Ltd.
+[^9]:Byrd, 1970, p. 7.
+[^10]:Buckley, 1984, p. 666.
+[^11]:Jarman, J. L. (Ed). (1998). Annual reports of the Straits Settlements 1855–1941 (Vol. 1, p. v). Slough: Archive Editions Limited. Call no.: RSING 959.51 STR-[AR]
+[^12]:Jarman, 1998, vol. 1, p. v.
+[^13]:	Black, E. A, & Bell, F. (Eds.). (2011). Law and legal institutions of Asia: Traditions, adaptations and innovations (p. 347). Cambridge: Cambridge University Press. Call no.: RSING 349.5 LAW
+[^14]:Black & Bell, 2011, p. 347.
+
