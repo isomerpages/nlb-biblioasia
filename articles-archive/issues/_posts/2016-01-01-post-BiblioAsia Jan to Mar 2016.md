@@ -75,7 +75,7 @@ description: ""
 **A Poetic Travelogue in Tamil**<br>
 *Athivinotha Kuthirai Panthaiya Lavani* (அதிவினோத குதிரை பந்தைய லாவணி)
 
-**When Singapore Was Cinca Pula**<br>
+**[When Singapore Was Cinca Pula](/vol-11/issue-4/jan-mar-2016/india-tercera-nuova-tavola)**<br>
 *India Tercera Nuova Tavola*
 
 **A Chinese Classic in Baba Malay**<br>
