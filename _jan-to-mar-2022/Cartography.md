@@ -130,7 +130,7 @@ As an accompaniment to the exhibition, a book with the same title has been publi
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-17-issue-4/authors/Patricia-Lim.png" style="width: 100px; height: 100px;" />
-	After retiring as founding Librarian and Research Fellow at the ISEAS-Yusof Institute, <b>Patricia Lim Pui Huen</b> finds pleasure in exploring Singapore’s history and discovering the roots of her family’s past. Her publications include a biography of her great grandfather, <i>Wong Ah Fook: Immigrant, Builder and Entrepreneur</i> (Times Editions, 2003). In 2020, she published a volume of short stories <i>One-Legged Football and Other Stories</i> (Areca Books), which highlights the challenges faced by people with disabilities. 
+	<b>Chia Jie Lin</b> is an Assistant Curator with Programmes & Exhibitions at the National Library, Singapore. She is part of the France-Singapore curatorial team of the “Mapping the World: Perspectives from Asian Cartography” exhibition.
 </div>
 
 #### **NOTES**
