@@ -22,15 +22,15 @@ B02969343C (1867)
 <img src="/images/vol-11-issue-4/hear-ye-hear-ye/Ye1.JPG">
 <div style="background-color: white;"> The masthead of the Straits Government Gazette with the crest of the Straits Settlements. <i>Image source: National Library Board, Singapore.</i></div>
 
-In Singapore, notifications of all new laws passed by parliament are officially announced in the government gazette, a time-honoured practice that continues to this day.1 One of its earliest iterations was the *Straits Government Gazette*, published in 1858 when Singapore was still a part of the Straits Settlements and under the government of the Colonial Office of Calcutta in India. Similar in content to the gazette published today, the gazette at the time contained proclamations by the governors, announcements of new government appointments as well as notices of new ordinances.2
+In Singapore, notifications of all new laws passed by parliament are officially announced in the government gazette, a time-honoured practice that continues to this day.[^1] One of its earliest iterations was the *Straits Government Gazette*, published in 1858 when Singapore was still a part of the Straits Settlements and under the government of the Colonial Office of Calcutta in India. Similar in content to the gazette published today, the gazette at the time contained proclamations by the governors, announcements of new government appointments as well as notices of new ordinances.[^2]
 
 <img src="/images/vol-11-issue-4/hear-ye-hear-ye/Ye2.JPG">
 <div style="background-color: white;">  The front page of the first issue, dated 1 January 1858, carries a note asserting that 
 the gazette “will be the only Official organ for Publications, Notifications and other Public Papers of this Government”. <i>All rights reserved, Straits Government Gazette (1858 –67). Singapore: Mission Press.</i></div>
 
 The front page of the first issue, dated 1 January 1858, consists of the title of the gazette in Gothic script, the crest of the 
-Straits Settlements and a note asserting that the gazette “will be the only Official organ for Publications, Notifications and other Public Papers of this Government”.3 The first issue was printed on paper embossed with the watermark of the British East India 
-Company (EIC), while subsequent issues used stocks of noticeably lower quality paper.4
+Straits Settlements and a note asserting that the gazette “will be the only Official organ for Publications, Notifications and other Public Papers of this Government”.[^3] The first issue was printed on paper embossed with the watermark of the British East India 
+Company (EIC), while subsequent issues used stocks of noticeably lower quality paper.[^4]
 
 So thorough was the gazette that seemingly unimportant details of the size, length and price of the paper are found on the last page, where it states that the issue contained “6–8 pages of Foolscap size. Per mensem 50 cent. Copy 25.”
 
@@ -42,20 +42,20 @@ and collections for relief funds. Gradually, weather tables, shipping news and i
 The gazette employed the same layout and maintained its minimal, graphic-free aesthetic throughout its life. The only adornment was the header crest of the Straits Settlements, which went through several revisions over the years. The gazette was 
 printed by Mission Press, the sole printing press in Singapore at the time.
 
-The *Straits Government Gazette* can trace its origins to some 30 years earlier in October 18285 when it began as the weekly *Government Gazette of Prince of Wales Island, Singapore and Malacca*.6 It contained announcements by the government, occasionally accompanied by Jawi translations, as well as news from India and Europe, currency updates and, quite oddly, selections from works of English literature.7
+The *Straits Government Gazette* can trace its origins to some 30 years earlier in October 1828[^5] when it began as the weekly *Government Gazette of Prince of Wales Island, Singapore and Malacca*.[^6] It contained announcements by the government, occasionally accompanied by Jawi translations, as well as news from India and Europe, currency updates and, quite oddly, selections from works of English literature.[^7]
 
-This government gazette was published until July 1830, when the status of the Straits Settlements was reduced from a presidency to a residency.8 Its last issue ended with a cryptic message in Vol. 3 No.89 on 3 July 1829 in crisp Queen’s English: 
+This government gazette was published until July 1830, when the status of the Straits Settlements was reduced from a presidency to a residency.[^8] Its last issue ended with a cryptic message in Vol. 3 No.89 on 3 July 1829 in crisp Queen’s English: 
 “We beg to announce to Subscribers the termination of this Journal. Accident rather than choice led us to assume a character 
-which previous experience had little qualified us to discharge with ability”.9 No further attempts to establish another government publication were pursued until 1858, when the government started the *Straits Government Gazette*.10
+which previous experience had little qualified us to discharge with ability”.[^9] No further attempts to establish another government publication were pursued until 1858, when the government started the *Straits Government Gazette*.[^10]
 
-The Straits Government Gazette was issued from 1858 until 1867,11 when the Straits Settlements officially achieved Crown 
+The Straits Government Gazette was issued from 1858 until 1867,[^11] when the Straits Settlements officially achieved Crown 
 Colony status and was governed directly by the Colonial Office in London instead of the Indian government in Calcutta. Thereafter, 
-the gazette underwent several title changes that were indicative of Singapore’s fluctuating political circumstances.12
+the gazette underwent several title changes that were indicative of Singapore’s fluctuating political circumstances.[^12]
 
 From 1867 to 1942, the publication was renamed the *Straits Settlements Government Gazette*, and after ceasing production during the Japanese Occupation (1942–45), it resurfaced as the British *Military Administration, Malaya Gazette, Singapore Division*, in November 1945.
 
 The following year, on 1 April 1946, the Straits Settlements was dissolved and Singapore became a separate Crown Colony helmed by its own governor. The government published its laws in 
-the newly minted *Colony of Singapore Government Gazette*.13 When Singapore attained internal self-government in 1959, the publication became known as the *State of Singapore Gazette* until 1965, when Singapore gained full independence and the gazette was finally retitled as the *Republic of Singapore Government Gazette*.14 An electronic version of the gazette, the eGazette, was made available in 1999. 
+the newly minted *Colony of Singapore Government Gazette*.[^13] When Singapore attained internal self-government in 1959, the publication became known as the *State of Singapore Gazette* until 1965, when Singapore gained full independence and the gazette was finally retitled as the *Republic of Singapore Government Gazette*.[^14] An electronic version of the gazette, the eGazette, was made available in 1999. 
 
 – Written by Genine Loo
 
