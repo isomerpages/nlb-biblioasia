@@ -42,7 +42,7 @@ description: ""
 **[Raffles’ Letters of Intrigue](/vol-11/issue-4/jan-mar-2016/letters-stamford-raffles-marquess-lansdowne)**<br>
 *Letters from Sir Thomas Stamford Raffles to Lord Lansdowne*
 
-**[Raffles’ Political Manoeuvre](/vol-11/issue-4/jan-mar-2016/letter-stamford-raffles-john-tayler)s**<br>
+**[Raffles’ Political Manoeuvres](/vol-11/issue-4/jan-mar-2016/letter-stamford-raffles-john-tayler)**<br>
 *Letter from Sir Thomas Stamford Raffles to John Tayler*
 
 **[The Map That Opened Up Southeast Asia](/vol-11/issue-4/jan-mar-2016/map-south-east-asia-exacta-accurata-linschoten)**<br>
