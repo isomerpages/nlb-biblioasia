@@ -18,3 +18,6 @@ description: ""
 <b>Accession no.:</b> B02930919K<br>
 Donated by:</b> Tan Yeok Seong
 	</span>
+	
+<img src="/images/vol-11-issue-4/sg-role-in-chinese-revolution/R1.JPG">
+<div style="background-color: white;">Title page of Nanyang and the Founding of the Republic in Chinese characters on the left with the donor label on the right. The book was donated by Tan Yeok Seong – a Penang-born merchant and a historian of Southeast Asian history – to the National Library in 1964. This and his other donations form part of the Ya Yin Kwan Collection. <i>Image source: National Library Board, Singapore.</i></div>
