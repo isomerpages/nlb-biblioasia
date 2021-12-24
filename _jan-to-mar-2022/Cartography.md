@@ -129,7 +129,7 @@ As an accompaniment to the exhibition, a book with the same title has been publi
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-17-issue-4/authors/Patricia-Lim.png" style="width: 100px; height: 100px;" />
+<img src="/images/vol-17-issue-4/authors/Chia-Jie-Lin.png" style="width: 100px; height: 100px;" />
 	<b>Chia Jie Lin</b> is an Assistant Curator with Programmes & Exhibitions at the National Library, Singapore. She is part of the France-Singapore curatorial team of the “Mapping the World: Perspectives from Asian Cartography” exhibition.
 </div>
 
