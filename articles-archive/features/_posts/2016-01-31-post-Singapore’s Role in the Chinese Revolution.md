@@ -47,14 +47,14 @@ Southeast Asia.[^10]
 But of all the records in the book, the most significant are perhaps the five photographs of Sun taken during his visits to Singapore. These photographs are valuable 
 because there were few such pictures of Sun and his activities,[^11] which were deliberately kept secret so that he could evade detection by the British colonial government as well as assassins hired by the Qing government.
 
-<img src="/images/vol-11-issue-4/sg-role-in-chinese-revolution/R2.JPG">
+<img style="width: 360px; height: 450px;" src="/images/vol-11-issue-4/sg-role-in-chinese-revolution/R2.JPG">
 <div style="background-color: white;"> From the left: Teo Eng Hock, Sun Yat-sen and Tan Chor Lam. Both Tan 
 and Teo were founding members of Tongmenghui, an underground resistance movement founded in 1905 to support Sun’s revolutionary cause. This photograph was taken at Sun’s residence in Singapore at 12 Tai Gin Road in 1906. <i>Courtesy of National Archives of Singapore.</i></div>
 
 The five photographs suggest the close friendship between Sun and Teo. One picture (see image above), captioned “Prior to the establishment of Tongmenghui”, shows Sun (centre) with Teo (left) and Tan Chor Lam, 
 Teo’s business partner.[^12]
 
-<img src="/images/vol-11-issue-4/sg-role-in-chinese-revolution/R3.JPG">
+<img style="width: 350px; height: 450px;" src="/images/vol-11-issue-4/sg-role-in-chinese-revolution/R3.JPG">
 <div style="background-color: white;"> The villa at 12 Tai Gin Road was where Sun Yat-sen and other Tongmenghui members discussed the design of the Chinese republic’s future national flag. Teo Eng Hock’s wife embroidered the four draft designs of the flag. <i>All rights reserved, Teo, E. H. (1933). 南洋与创立民国. Shanghai: Chung Hwa Book Co.</i></div>
 
 Another photograph, “Establishment of Tongmenghui a few days later”, shows Tongmenghui’s core members, including Teo, Tan, and Lim Nee Soon (Teo’s nephew), at a ceremony held at a villa[^13] which Teo bought in 1905 and became Sun’s residence during his third visit to Singapore in 1906.[^14]The villa, at 12 Tai Gin Road, in the Balestier area, was called Wan Qing Yuan (晚晴园), or Serene Sunset Garden, to “symbolise peace and happiness in old age”.[^15] It eventually became the base for the local Tongmenghui as well as the alliance’s headquarters in Southeast Asia.[^16]
