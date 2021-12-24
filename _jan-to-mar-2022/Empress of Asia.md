@@ -107,9 +107,6 @@ Another bomb struck close to No. 1 funnel and exploded below deck, knocking out 
 
 Watts described one bomb passing over the bridge before smashing through the fiddley deck and exploding in the officers’ lounge. He noted it was an “oil bomb” weighing no more than 100 pounds (45 kg). The ship was “belching smoke from a short distance behind the bridge to the third funnel… We could see officers and men, blackened and burned, being passed and assisted through open windows of cabins and recreation rooms on the promenade deck.”[^23]
 
-![Alt text for image on Isomer site](/images/vol-17-issue-4/empress-of-asia/9_Bomb2.jpg)
-<div style="background-color: white;">This illustration is a basic depiction of the <i>Empress of Asia</i>. It is not to scale and is presented to show the approximate location of where the three bombs mentioned in the essay hit the ship. <i>Illustration: Janet Watson, Mejan Graphic Design. Copyright: Dan Black, Merrickville, Ontario, Canada.</i></div>
-
 Pantryman Douglas Elworthy, a member of the catering crew, was sprayed with hot, oily shrapnel. He was in the pantry below the lounge. In his diary, Hosken mentions a steward with a “belly full of shrapnel”.[^24] This was likely Elworthy, who died five days later.
 
 “I can remember standing on the portside boat deck as we were trying to get some lifeboats away, and looking down fifty feet to the water at him [Elworthy] hanging on to a swamped lifeboat,” recalled Tozer. “I didn’t realise he was injured.”[^25]
@@ -140,6 +137,9 @@ Of the 2,648 men on the _Asia_, 16 soldiers and four crew members died, and 238 
 On 9 February, the morning after the Japanese crossed the Johor Strait, the ship’s catering crew volunteered to work for the Civil Medical Services in Singapore. Most served at the General Hospital until 17 February, while seven others worked at the Miyako Hospital (previously known as the Mental Hospital) until 25 April; all were subsequently interned at Changi Prison until the war’s end. Other crew remained at a military camp until instructed to leave the island. On 11 February, before the British surrendered on 15 February, these men, including Hosken, Oliver, the captain and chief officer, escaped Singapore on three small coastal vessels. Two of these vessels managed to reach Batavia while the third ran out of fuel and ended its journey in Sumatra. Its passengers and crew fled overland through the jungle to the Sunda Strait and eventually reached Batavia.
 
 As for the _Asia_, various salvage efforts were undertaken over the years. In 1998, one such effort retrieved, among other things, the ship’s anchor, which is now on display at the Singapore History Gallery of the National Museum of Singapore. In 2020, the Maritime and Port Authority of Singapore issued a notice of work to remove the wreck. The wreck has since been cleared.
+
+![Alt text for image on Isomer site](/images/vol-17-issue-4/empress-of-asia/9_Bomb2.jpg)
+<div style="background-color: white;">This illustration is a basic depiction of the <i>Empress of Asia</i>. It is not to scale and is presented to show the approximate location of where the three bombs mentioned in the essay hit the ship. <i>Illustration: Janet Watson, Mejan Graphic Design. Copyright: Dan Black, Merrickville, Ontario, Canada.</i></div>
 
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #e5dde1">The full story of the <i>Empress of Asia</i>, including experiences of the Canadian crew who escaped the disaster or were imprisoned, is the subject of a forthcoming book by the author and researcher Nelson Oliver.</div>
 
