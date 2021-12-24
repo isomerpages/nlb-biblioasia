@@ -113,6 +113,19 @@ Such histories and discourses remain relevant to Singapore – our intellectual 
 
 _The author thanks history student Jacqueline Yu for her research assistance._
 
+### **Mapping the World: Perspectives from Asian Cartography**
+
+Level 10 Gallery, National Library Building
+11 December 2021 – 8 May 2022 
+
+Discover the maps mentioned in this essay and more at the National Library’s latest exhibition produced in partnership with the Embassy of France in Singapore, in association with the vOilah! France Singapore Festival 2021 and with the support of Temasek and Tikehau Capital. 
+
+The exhibition features over 60 cartographic treasures from institutions in France, the United States, Japan and Singapore. 
+
+The exhibition is open from 10 am to 9 pm daily, except on public holidays. Admission is free.
+
+As an accompaniment to the exhibition, a book with the same title has been published. It is written by curators Pierre Singavélou and Fabrice Argounès, with inputs from the National Library’s curatorial team. Mapping the World: Perspectives from Asian Cartography is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (Call nos. RSING 526.095 SIN and SING 526.095 SIN). 
+
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">I am grateful to Lim Guan Hock, former deputy director of the National Archives of Singapore, Bak Jia How and the late Professor Zheng Liang Shu for their assistance in writing this essay.</div>
 
 <div style="background-color: white;">
@@ -124,8 +137,8 @@ _The author thanks history student Jacqueline Yu for her research assistance._
 #### **NOTES**
 
 [^1]: For more on the discussion of Qing China as a colonial empire, see Peter C. Perdue, “China and Other Colonial Empires,” The Journal of American-East Asian Relations 16, no. 1/2 (2009): 85–103. See also Julia C. Schneider, “A Non-Western Colonial Power? The Qing Empire in Postcolonial Discourse,” Journal of Asian History 54, no. 2 (2020): 311–42. (From JSTOR via NLB’s eResources website)
-John Rennie Short, “Introduction: The Globalisation of Space” in Korea: A Cartographic History (University of Chicago Press, 2012), x. (From National Library, Singapore, Call no. R 912.519 SHO)
-I follow Sanjay Subrahmanyam’s description of the early modern period as being from the 15th to the middle of the 18th centuries. Sanjay Subrahmanyam, “Hearing Voices: Vignettes of Early Modernity in South Asia, 1400–1750.” Daedalus 127, no. 3 (1998): 75–104. (From JSTOR via NLB’s eResources website)
+[^2]: John Rennie Short, “Introduction: The Globalisation of Space” in Korea: A Cartographic History (University of Chicago Press, 2012), x. (From National Library, Singapore, Call no. R 912.519 SHO)
+[^3]: I follow Sanjay Subrahmanyam’s description of the early modern period as being from the 15th to the middle of the 18th centuries. Sanjay Subrahmanyam, “Hearing Voices: Vignettes of Early Modernity in South Asia, 1400–1750.” Daedalus 127, no. 3 (1998): 75–104. (From JSTOR via NLB’s eResources website)
 Laura Hostetler, “Qing Connections to the Early Modern World: Ethnography and Cartography in Eighteenth-century China,” Modern Asian Studies 34, no. 3 (2000): 630. (From JSTOR via NLB’s eResources website)
 Laura Hostetler, “Contending Cartographic Claims? The Qing Empire in Manchu, Chinese and European Maps” in The Imperial Map: Cartography and the Mastery of Empire, vol. 15, ed. James R. Akerman (University of Chicago Press, 2009), 93–132. (Not available in NLB holdings)
 Stephen H. Whiteman, Where Dragon Veins Meet: The Kangxi Emperor and His Estate at Rehe (University of Washington Press, 2019), 65. (Not available in NLB holdings)
