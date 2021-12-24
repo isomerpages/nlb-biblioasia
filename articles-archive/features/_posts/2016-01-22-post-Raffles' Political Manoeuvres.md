@@ -18,7 +18,7 @@ description: ""
 <br>
 <b>Type:</b> Manuscript; 4 pages; 26cm by 21cm
 <br>
-<b>Location:</b> Call no.: RRARE 959.5703 RAF
+<b>Call no.:</b> RRARE 959.5703 RAF
 <br>
 <b>Accession no.: </b>B18835716F</span>
 
