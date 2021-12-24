@@ -113,6 +113,9 @@ Pantryman Douglas Elworthy, a member of the catering crew, was sprayed with hot,
 
 The Oerlikon guns ran out of ammunition while two Hotchkiss guns jammed, leaving the ship with her three-inch gun and small arms. A third bomb struck the officers’ quarters creating a fire. With the wheelhouse full of smoke and the floor buckling from heat, the engine room reported “gas forming in the stokehold”. The captain ordered its evacuation. 
 
+![Alt text for image on Isomer site](/images/vol-17-issue-4/empress-of-asia/9_Bomb2.jpg)
+<div style="background-color: white;">This illustration is a basic depiction of the <i>Empress of Asia</i>. It is not to scale and is presented to show the approximate location of where the three bombs mentioned in the essay hit the ship. <i>Illustration: Janet Watson, Mejan Graphic Design. Copyright: Dan Black, Merrickville, Ontario, Canada.</i></div>
+
 The chief officer noted that while “fire parties were immediately on the scene… no water was available… presumably due to the damaged mains”.[^26] By 11.25 am, the fires below decks were out of control.[^27] 
 
 With the ship’s midsection and lifeboats ablaze, survivors continued to muster on the fore and after decks. At 12.15 pm, the order was given to abandon the bridge. The damaged stairs and ladders were useless so ropes were strung over the port side where 36 men escaped. Those on the starboard wing could not see through the smoke to the ropes so many jumped nine metres to the foredeck or 25 metres into the sea.[^28] Second Officer Cecil Crofts, one of the last to leave the bridge, fractured a leg jumping to the foredeck.
@@ -127,9 +130,6 @@ Meanwhile, the Australian sloop _Yarra_, commanded by Captain Wilfred Harrington
 
 The _Asia_ then drifted southeast of Sultan Shoal where anchors were dropped. “Before completely abandoning the afterdeck, the ammunition for the six-inch gun and the remainder from the twelve-pounder had to be thrown overboard. Only two lifeboats were intact,” noted Oliver. “Both… were launched; one made it, one capsized.”[^32] Oliver boarded the _Yarra_, but while checking the _Asia_'s lower decks, he found a dedicated engine room crewman who said he had not received the evacuation order. 
 
-![Alt text for image on Isomer site](/images/vol-17-issue-4/empress-of-asia/10_Anchor.jpg)
-<div style="background-color: white;">The anchor salvaged from the <i>Empress of Asia</i> wreck in 1998, almost 60 years after the Allied troopship sank off Tuas while en route to Singapore to reinforce its defence. The anchor has been on permanent display at the National Museum of Singapore since 2015. <i>Courtesy of Jimmy Yap.</i></div>
-
 By 1 pm, the ship was abandoned. 
 
 Of the 2,648 men on the _Asia_, 16 soldiers and four crew members died, and 238 were injured as a result of the attack. The enemy, it’s believed, lost two planes.[^33] The _Asia_ eventually sank in relatively shallow water.
@@ -138,8 +138,8 @@ On 9 February, the morning after the Japanese crossed the Johor Strait, the ship
 
 As for the _Asia_, various salvage efforts were undertaken over the years. In 1998, one such effort retrieved, among other things, the ship’s anchor, which is now on display at the Singapore History Gallery of the National Museum of Singapore. In 2020, the Maritime and Port Authority of Singapore issued a notice of work to remove the wreck. The wreck has since been cleared.
 
-![Alt text for image on Isomer site](/images/vol-17-issue-4/empress-of-asia/9_Bomb2.jpg)
-<div style="background-color: white;">This illustration is a basic depiction of the <i>Empress of Asia</i>. It is not to scale and is presented to show the approximate location of where the three bombs mentioned in the essay hit the ship. <i>Illustration: Janet Watson, Mejan Graphic Design. Copyright: Dan Black, Merrickville, Ontario, Canada.</i></div>
+![Alt text for image on Isomer site](/images/vol-17-issue-4/empress-of-asia/10_Anchor2.jpg)
+<div style="background-color: white;">The anchor salvaged from the <i>Empress of Asia</i> wreck in 1998, almost 60 years after the Allied troopship sank off Tuas while en route to Singapore to reinforce its defence. The anchor has been on permanent display at the National Museum of Singapore since 2015. <i>Courtesy of Jimmy Yap.</i></div>
 
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #e5dde1">The full story of the <i>Empress of Asia</i>, including experiences of the Canadian crew who escaped the disaster or were imprisoned, is the subject of a forthcoming book by the author and researcher Nelson Oliver.</div>
 
