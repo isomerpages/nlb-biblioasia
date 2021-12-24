@@ -68,18 +68,18 @@ Lee Kong Chian, who bought Sun’s villa in 1937 to preserve its illustrious his
 – Written by Ang Seow Leng
 
 #### **NOTES**
-[^1]:Song, O. S. (1984). One hundred years’ history of the Chinese in Singapore (p. 34). Singapore: Oxford University Press. Call no.: RSING 959.57 SON-[HIS]
-[^2]:陈丁辉 (2013). 南洋与创立民国  (p. 2). 新加坡: 晚晴园孙中山南洋记念馆. Call no.: RSING 951.08 ZYF; Tongmenghui. (2008, April 2). Retrieved from New World Encyclopedia website.
-[^3]:‘Rubber King’ comes back. (1937, October 12). The Straits Times, p. 12. Retrieved from NewspaperSG.
-[^4]:陈丁辉, 2013, p. vii.
-[^5]:The 1911 Chinese Revolution overthrew the Qing dynasty and established the Republic of China, thereby ending imperial rule in China. See Office of the Historian (n.d.). The Chinese Revolution of 1911. Retrieved from U.S. Department of State Office of the Historian website. 
-[^6]:谢燕燕. (2013, December 12). 王赓武教授: 从一本书的际遇感受时代变迁. Lianhe Zaobao. Retrieved from Zaobao.sg website.
-[^7]:谢燕燕. (2013, December 11). 《南洋与创立民国》将重新面世晚晴园实现张永福遗愿. Lianhe Zaobao. Retrieved from Zaobao.sg website.
-[^8]:陈丁辉, 2013, pp. vii–ix.
-[^9]:张永福著. (2013). 南洋与创立民国 (p. IX). 陈丁辉主编. 新加坡: 晚晴园孙中山南洋记念馆. Call No.: RSING 951.08 ZYF
-[^10]:Tan B. H. (1988, July 28). Villa of revolutionaries. The Straits Times, p. 5. Retrieved from NewspaperSG.
-[^11]:The Straits Times, 28 Jul 1988, p. 5.
-[^12]:The Straits Times, 28 Jul 1988. p. 5; 陈丁辉, 2013, p. 5.
+[^1]:Song, O. S. (1984). [*One hundred years’ history of the Chinese in Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082287) (p. 34). Singapore: Oxford University Press. Call no.: RSING 959.57 SON-[HIS]
+[^2]:陈丁辉 (2013). [*南洋与创立民国*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200730355)  (p. 2). 新加坡: 晚晴园孙中山南洋记念馆. Call no.: RSING 951.08 ZYF; *Tongmenghui*. (2008, April 2). Retrieved from New World Encyclopedia website.
+[^3]:[‘Rubber King’ comes back](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19371012-1.2.67.aspx). (1937, October 12). *The Straits Times*, p. 12. Retrieved from NewspaperSG.
+[^4]:[陈丁辉](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200730355), 2013, p. vii.
+[^5]:The 1911 Chinese Revolution overthrew the Qing dynasty and established the Republic of China, thereby ending imperial rule in China. See Office of the Historian (n.d.). *The Chinese Revolution of 1911*. Retrieved from U.S. Department of State Office of the Historian website. 
+[^6]:谢燕燕. (2013, December 12). 王赓武教授: 从一本书的际遇感受时代变迁. *Lianhe Zaobao*. Retrieved from Zaobao.sg website.
+[^7]:谢燕燕. (2013, December 11). 《南洋与创立民国》将重新面世晚晴园实现张永福遗愿. *Lianhe Zaobao*. Retrieved from Zaobao.sg website.
+[^8]:[陈丁辉](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200730355), 2013, pp. vii–ix.
+[^9]:张永福著. (2013). *南洋与创立民国* (p. IX). 陈丁辉主编. 新加坡: 晚晴园孙中山南洋记念馆. Call No.: RSING 951.08 ZYF
+[^10]:Tan B. H. (1988, July 28). [Villa of revolutionaries](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880728-1.2.60.9.1.aspx). *The Straits Times*, p. 5. Retrieved from NewspaperSG.
+[^11]:[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880728-1.2.60.9.1.aspx), 28 Jul 1988, p. 5.
+[^12]:[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880728-1.2.60.9.1.aspx), 28 Jul 1988. p. 5; 陈丁辉, 2013, p. 5.
 [^13]:The Straits Times, 28 Jul 1988. p. 5; 陈丁辉, 2013, p. 10.
 [^14]:Rear-Adm Teo goes down memory lane. (1995, November 26). The Straits Times, p. 1. Retrieved from NewspaperSG.
 [^15]:	It’s housed soldiers, mistress and tycoons. (2001, November 12). The Straits Times, p. 4. Retrieved from NewspaperSG.
