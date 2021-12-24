@@ -65,12 +65,12 @@ the newly minted *Colony of Singapore Government Gazette*.[^13] When Singapore a
 [^3]:Straits Settlements. (1858, January 1). *Straits Government Gazette*, 1. Microfilm no.: NL 994 (1858–59)
 [^4]:Byrd, C. K. (1970). [*Early printing in the Straits Settlements 1806–1858*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081984) (p. 50). Singapore: Singapore National Library. Call no.: RCLOS 686.2095957 BYR
 [^5]:[Byrd](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081984), 1970, p. 7.
-[^6]:Buckley, C. B. (1984). [An anecdotal history of old times in Singapore 1819–1867](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082239) (p. 153). Singapore: Oxford University Press. Call no.: RSING 959.57 BUC-[HIS]
-[^7]:Byrd, 1970, p. 7.
+[^6]:Buckley, C. B. (1984). [*An anecdotal history of old times in Singapore 1819–1867*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082239) (p. 153). Singapore: Oxford University Press. Call no.: RSING 959.57 BUC-[HIS]
+[^7]:[Byrd](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081984), 1970, p. 7.
 [^8]:Bridgman, E. C. (1837). The Chinese Repository, 5, 146. Vaduz: Kraus Reprint Ltd.
-[^9]:Byrd, 1970, p. 7.
-[^10]:Buckley, 1984, p. 666.
-[^11]:Jarman, J. L. (Ed). (1998). Annual reports of the Straits Settlements 1855–1941 (Vol. 1, p. v). Slough: Archive Editions Limited. Call no.: RSING 959.51 STR-[AR]
-[^12]:Jarman, 1998, vol. 1, p. v.
-[^13]:	Black, E. A, & Bell, F. (Eds.). (2011). Law and legal institutions of Asia: Traditions, adaptations and innovations (p. 347). Cambridge: Cambridge University Press. Call no.: RSING 349.5 LAW
-[^14]:Black & Bell, 2011, p. 347.
+[^9]:[Byrd](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081984), 1970, p. 7.
+[^10]:[Buckley](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082239), 1984, p. 666.
+[^11]:Jarman, J. L. (Ed). (1998). [*Annual reports of the Straits Settlements 1855–1941* ](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9276660)(Vol. 1, p. v). Slough: Archive Editions Limited. Call no.: RSING 959.51 STR-[AR]
+[^12]:[Jarman](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9276660), 1998, vol. 1, p. v.
+[^13]:	Black, E. A, & Bell, F. (Eds.). (2011). [*Law and legal institutions of Asia: Traditions, adaptations and innovations*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13961718) (p. 347). Cambridge: Cambridge University Press. Call no.: RSING 349.5 LAW
+[^14]:[Black & Bell](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13961718), 2011, p. 347.
