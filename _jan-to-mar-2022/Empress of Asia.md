@@ -16,7 +16,7 @@ The 25-year-old able seaman from Vancouver recognised the irony given his rough 
 
 It was February 1942, and there were 30 pages to fill, several of which would describe the next 32 hours as his ship, the RMS _Empress of Asia_, steamed towards her death off Singapore. 
 
-![Alt text for image on Isomer site](/images/vol-17-issue-4/empress-of-asia/2_Map.jpg)
+![Alt text for image on Isomer site](/images/vol-17-issue-4/empress-of-asia/2_Map2.jpg)
 <div style="background-color: white;">A 1942 map superimposed onto a current map of Singapore, showing where the <i>Empress of Asia</i> sank.</div>
 
 With an unyielding pencil, Hosken wrote: “Wed., Feb. 4, 3 A.M… Lagging behind convoy as usual and cruiser keeps signalling to pick up speed for we are endangering the whole convoy.”
