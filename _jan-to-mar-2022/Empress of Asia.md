@@ -107,7 +107,7 @@ Another bomb struck close to No. 1 funnel and exploded below deck, knocking out 
 
 Watts described one bomb passing over the bridge before smashing through the fiddley deck and exploding in the officers’ lounge. He noted it was an “oil bomb” weighing no more than 100 pounds (45 kg). The ship was “belching smoke from a short distance behind the bridge to the third funnel… We could see officers and men, blackened and burned, being passed and assisted through open windows of cabins and recreation rooms on the promenade deck.”[^23]
 
-![Alt text for image on Isomer site](/images/vol-17-issue-4/empress-of-asia/9_Bomb.jpg)
+![Alt text for image on Isomer site](/images/vol-17-issue-4/empress-of-asia/9_Bomb2.jpg)
 <div style="background-color: white;">This illustration is a basic depiction of the <i>Empress of Asia</i>. It is not to scale and is presented to show the approximate location of where the three bombs mentioned in the essay hit the ship. <i>Illustration: Janet Watson, Mejan Graphic Design. Copyright: Dan Black, Merrickville, Ontario, Canada.</i></div>
 
 Pantryman Douglas Elworthy, a member of the catering crew, was sprayed with hot, oily shrapnel. He was in the pantry below the lounge. In his diary, Hosken mentions a steward with a “belly full of shrapnel”.[^24] This was likely Elworthy, who died five days later.
