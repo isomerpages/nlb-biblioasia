@@ -17,3 +17,6 @@ description: ""
 <b>Accession no.:</b> B30160615 K<br>
 <b>Donated by:</b> John Koh
 	</span>
+	
+<img style="width: 300px; height: 400px;" src="/images/vol-11-issue-4/a-handy-cookbook/C1.JPG">
+<div style="background-color: white;"></i></div>
