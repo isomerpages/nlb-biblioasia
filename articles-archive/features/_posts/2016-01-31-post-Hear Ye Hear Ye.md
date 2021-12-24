@@ -60,12 +60,12 @@ the newly minted *Colony of Singapore Government Gazette*.[^13] When Singapore a
 – Written by Genine Loo
 
 #### **NOTES**
-[^1]:Parliament of Singapore. (2011). Parliamentary glossary – G. Retrieved from Parliament of Singapore website.
-[^2]:National University of Singapore. (2015, July 14). Singapore primary sources: Executive government (1867–1965). Retrieved from NUS Library website.
-[^3]:Straits Settlements. (1858, January 1). Straits Government Gazette, 1. Microfilm no.: NL 994 (1858–59)
-[^4]:Byrd, C. K. (1970). Early printing in the Straits Settlements 1806–1858 (p. 50). Singapore: Singapore National Library. Call no.: RCLOS 686.2095957 BYR
-[^5]:Byrd, 1970, p. 7.
-[^6]:Buckley, C. B. (1984). An anecdotal history of old times in Singapore 1819–1867 (p. 153). Singapore: Oxford University Press. Call no.: RSING 959.57 BUC-[HIS]
+[^1]:Parliament of Singapore. (2011). *Parliamentary glossary – G*. Retrieved from Parliament of Singapore website.
+[^2]:National University of Singapore. (2015, July 14). *Singapore primary sources: Executive government (1867–1965)*. Retrieved from NUS Library website.
+[^3]:Straits Settlements. (1858, January 1). *Straits Government Gazette*, 1. Microfilm no.: NL 994 (1858–59)
+[^4]:Byrd, C. K. (1970). [*Early printing in the Straits Settlements 1806–1858*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081984) (p. 50). Singapore: Singapore National Library. Call no.: RCLOS 686.2095957 BYR
+[^5]:[Byrd](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081984), 1970, p. 7.
+[^6]:Buckley, C. B. (1984). [An anecdotal history of old times in Singapore 1819–1867](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082239) (p. 153). Singapore: Oxford University Press. Call no.: RSING 959.57 BUC-[HIS]
 [^7]:Byrd, 1970, p. 7.
 [^8]:Bridgman, E. C. (1837). The Chinese Repository, 5, 146. Vaduz: Kraus Reprint Ltd.
 [^9]:Byrd, 1970, p. 7.
