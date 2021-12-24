@@ -7,7 +7,7 @@ description: ""
 #### **Chia Jie Lin** highlights interesting cartographic efforts from the National Library’s latest exhibition on Asian maps.
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/Wong-Din-Haan/Cover-WongDinHaan-R.jpg)
-<div style="background-color: white;">Family photo of Wong Din Haan taken in front of Wong Ah Fook’s family home on Keng Lee Road, Singapore. First row, from left: older daughter Winnie Kwan Ming Chit; granddaughter; Wong Din Haan; grandson; Wong Peng Sook, wife of Kwan Ying Hung holding her baby son Kwan Teet Ming. Second row, from left: younger daughter Elsie Kwan Ming Tak; wife of Kwan Ying Siong holding her second son; wife of N.I. Low. Third row, from left: second son Dr Kwan Ying Hung; eldest son Kwan Ying Siong; and friend N.I. Low. <i>Courtesy of Paddy Chee.</i></div>
+<div style="background-color: white;">This map is one of the world’s earliest large-format maps to use Prussian blue, the first modern synthetic pigment, as a colourant. <i>Complete Geographical Map of the Everlasting Unified Qing Empire</i> (大清万年一统地理全图; <i>Daqing wannian yitong dili quantu</i>), Huang Qianren, 1767 (post-1815 reprint), woodblock-printed, ink on paper. <i>Courtesy of MacLean Collection, Illinois, USA.</i></div>
 
 Between the 17th and 20th centuries, Eastern and Western colonial empires expanded across the globe, carving up new territories for control, administration and economic exploitation. In East Asia, Manchu armies swept southwards from the Mongolian-Manchurian steppes and past the Great Wall of China to conquer Ming Chinese territories.[^1] 
 
