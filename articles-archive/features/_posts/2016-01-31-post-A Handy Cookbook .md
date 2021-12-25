@@ -63,12 +63,12 @@ titled *Eastern Exotica* (1978), which is a selection of recipes taken from *My 
 – Written by Irene Lim
 
 #### **NOTES**
-[^1]:Handy, E. (2012). My favourite recipes (p. 9). Singapore: Landmark Books. Call no.: RSING 641.595 HAN; The school that Sophia built. (1987, July 15). The Straits Times, p. 1. Retrieved from NewspaperSG.
-[^2]:Welfare women get awards for service. (1957, July 21). The Straits Times, p. 8. Retrieved from NewspaperSG.
-[^3]:Singapore cookery. (1952, March 31). The Straits Times, p. 8. Retrieved from NewspaperSG. 
-[^4]:Methodist Girls’ School Alumni Association. (1987). Our favourite recipes: Meals from the Asian kitchen (p. 113). Singapore: Landmark Books. Call no.: RSING 641.595 OUR; Handy, E. (2013). Our favourite recipes (p. 8). Singapore: Landmark Books. Call no.: RSING 641.595 OUR
-[^5]:Handy, 2012, pp. 10–11.
-[^6]:Lee, G. B. (2000, December 11). I wanna cook like grandma. The Straits Times, p. 8. Retrieved from NewspaperSG.
+[^1]:Handy, E. (2012). [*My favourite recipes*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14669446) (p. 9). Singapore: Landmark Books. Call no.: RSING 641.595 HAN; [The school that Sophia built](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19870715-1.2.65.3.aspx). (1987, July 15). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
+[^2]:[Welfare women get awards for service](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19570721-1.2.70.aspx). (1957, July 21). *The Straits Times*, p. 8. Retrieved from NewspaperSG.
+[^3]:[Singapore cookery](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19520331-1.2.120.3.aspx). (1952, March 31). *The Straits Times*, p. 8. Retrieved from NewspaperSG. 
+[^4]:Methodist Girls’ School Alumni Association. (1987). [*Our favourite recipes: Meals from the Asian kitchen*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4425332) (p. 113). Singapore: Landmark Books. Call no.: RSING 641.595 OUR; Handy, E. (2013). [*Our favourite recipes*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200177925) (p. 8). Singapore: Landmark Books. Call no.: RSING 641.595 OUR
+[^5]:[Handy](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14669446), 2012, pp. 10–11.
+[^6]:Lee, G. B. (2000, December 11). [I wanna cook like grandma](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20001211-1.2.129.3.8.aspx). The Straits Times, p. 8. Retrieved from NewspaperSG.
 [^7]:Handy, E. (1974). My favourite recipes (p. ii). Singapore: MPH Publications. Call no.: RSING 641.595 HAN
 [^8]:Lee, G. B. (1992, May 17). Still handy after 40 years. The Straits Times, p. 7. Retrieved from NewspaperSG.
 [^9]:Handy, 1974, p. ii.
