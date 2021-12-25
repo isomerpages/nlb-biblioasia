@@ -68,10 +68,10 @@ titled *Eastern Exotica* (1978), which is a selection of recipes taken from *My 
 [^3]:[Singapore cookery](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19520331-1.2.120.3.aspx). (1952, March 31). *The Straits Times*, p. 8. Retrieved from NewspaperSG. 
 [^4]:Methodist Girls’ School Alumni Association. (1987). [*Our favourite recipes: Meals from the Asian kitchen*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4425332) (p. 113). Singapore: Landmark Books. Call no.: RSING 641.595 OUR; Handy, E. (2013). [*Our favourite recipes*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200177925) (p. 8). Singapore: Landmark Books. Call no.: RSING 641.595 OUR
 [^5]:[Handy](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14669446), 2012, pp. 10–11.
-[^6]:Lee, G. B. (2000, December 11). [I wanna cook like grandma](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20001211-1.2.129.3.8.aspx). The Straits Times, p. 8. Retrieved from NewspaperSG.
-[^7]:Handy, E. (1974). My favourite recipes (p. ii). Singapore: MPH Publications. Call no.: RSING 641.595 HAN
-[^8]:Lee, G. B. (1992, May 17). Still handy after 40 years. The Straits Times, p. 7. Retrieved from NewspaperSG.
-[^9]:Handy, 1974, p. ii.
+[^6]:Lee, G. B. (2000, December 11). [I wanna cook like grandma](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20001211-1.2.129.3.8.aspx). *The Straits Times*, p. 8. Retrieved from NewspaperSG.
+[^7]:Handy, E. (1974). [*My favourite recipes*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4077919) (p. ii). Singapore: MPH Publications. Call no.: RSING 641.595 HAN.
+[^8]:Lee, G. B. (1992, May 17). [Still handy after 40 years](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19920517-1.2.49.10.4.aspx). *The Straits Times*, p. 7. Retrieved from NewspaperSG.
+[^9]:[Handy](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4077919), 1974, p. ii.
 [^10]:Handy, E. (1960). My favourite recipes (p. vii). Singapore: Malaya Publishing House. Call no.: RSING 641.595 HAN
 [^11]:Khor, C. (1989, November 22). A literary stroll down memory lane. The Straits Times, p. 3. Retrieved from NewspaperSG. 
 [^12]:Khng, E. M. (1989, June 10). Endearing book and great kitchen aid. The Straits Times, p. 19; Alman, J. (1983, August 9). Have spice, will travel. The Straits Times, p. 24; Where would we be…without Ellice Handy. (2011, August 9). Retrieved from Gastronaut blogspot; Ellice Handy’s light chicken stew. (2008, October 23). Retrieved from Cherry on a Cake blogspot. 
