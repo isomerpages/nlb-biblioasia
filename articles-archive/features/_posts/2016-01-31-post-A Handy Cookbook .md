@@ -45,25 +45,13 @@ The ingredients she used were commonly available and her instructions were expla
 *My Favourite Recipes* has endured the test of time, becoming the longest-selling local cookbook in Singapore.11 The book is considered by aficionados as the bible of Singaporean cooking and sparked a wave 
 of local cookery books in Singapore.12
 
-Despite 11 new editions over five 
-decades – in 1954, 1960, 1971, 1972 and 
-1974, and twice in 1975, 1976, 1980, 1990 
-and 2012 – Handy’s book has remained 
-largely the same, with the exception of 30 
-new recipes that were included from the 
-second reprint onwards. The presentation 
-has improved over the years; the first edition 
-contained only text, but photos were added 
-in the fourth and subsequent reprints. The 
-most recent version by Landmark Books 
-in 2014 is an elaborate glossy volume, with 
-the recipes packaged to suit the modern 
-consumer. The National Library has the 
-1960, 1972, 1974, 1990 and 2012 reprints.
-The Malayan Publishing House also 
-produced several Chinese editions of My 
-Favourite Recipes titled Shi shi cai pu
-(适时菜谱) in 1978 and Hua yuan jin zu shi 
-pu (华园锦族食谱) in 1980.
-In the 1970s, Handy contributed to 
-the Female Cookbook for eight years and
+Despite 11 new editions over five decades – in 1954, 1960, 1971, 1972 and 1974, and twice in 1975, 1976, 1980, 1990 and 2012 – Handy’s book has remained largely the same, with the exception of 30 new recipes that were included from the second reprint onwards. The presentation has improved over the years; the first edition contained only text, but photos were added in the fourth and subsequent reprints. The most recent version by Landmark Books in 2014 is an elaborate glossy volume, with the recipes packaged to suit the modern consumer. The National Library has the 1960, 1972, 1974, 1990 and 2012 reprints.
+
+The Malayan Publishing House also produced several Chinese editions of *My Favourite Recipes titled Shi shi cai pu* (适时菜谱) in 1978 and *Hua yuan jin zu shi pu* (华园锦族食谱) in 1980. 
+
+In the 1970s, Handy contributed to the Female Cookbook for eight years and said she considers those to be her better recipes.13 She also wrote another cookbook 
+titled *Eastern Exotica* (1978), which is a selection of recipes taken from *My Favourite Recipes*. 
+
+– Written by Irene Lim
+
+#### **NOTES**
