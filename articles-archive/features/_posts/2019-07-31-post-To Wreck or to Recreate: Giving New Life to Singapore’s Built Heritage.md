@@ -290,7 +290,7 @@ Conservation, on the other hand, is a much broader concept. Instead of perceivin
   </tr>
 	</table>
 	<img src="/images/Vol-15-issue-2/to-wreck-or-to-recreate/Wreck4.JPG">
-
+<br>
 
 <div style="background-color: white;">
 <img src="/images/Vol-15-issue-2/to-wreck-or-to-recreate/Wreck8.jpg" style="width: 100px; height: 100px;">
