@@ -61,10 +61,10 @@ writing. It was enthusiastically embraced by local printers and publishers, pavi
 [^1]:Warnk, H. (2010). The collection of 19th century printed Malay books of Emil Luring. *International Journal of the Malay World and Civilisation, 28* (1), 124. Retrieved from UKM website.
 [^2]:National Library Board. (2008). [*Mission Press*](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1074_2008-12-20.html) written by Lim, Irene. Retrieved from Singapore Infopedia.
 [^3]:National Library Board, 2008.
-[^4]:Putten, J. V. D. (2006). Abdullah Munsyi and the missionaries. Bijdragen tot de Taal -, Land-en Volkenkunde (BKI), 162 (4), 411. Retrieved from Brill Online Books and Journals website.
-[^5]:National Library Board. (1998). Benjamin Keasberry written by Cornelius-Takahama, Vernon. Retrieved from Singapore Infopedia.
+[^4]:Putten, J. V. D. (2006). Abdullah Munsyi and the missionaries. *Bijdragen tot de Taal -, Land-en Volkenkunde (BKI), 162* (4), 411. Retrieved from Brill Online Books and Journals website.
+[^5]:National Library Board. (1998). [*Benjamin Keasberry*](http://eresources.nlb.gov.sg/infopedia/articles/SIP_781_2005-01-03.html) written by Cornelius-Takahama, Vernon. Retrieved from Singapore Infopedia.
 [^6]:Putten, 2006, p. 411. 
-[^7]:Gallop, A. T. (1990). Early Malay printing: An introduction to the British Library collections.    Journal of the Malaysian Branch of the Royal Asiatic Society, Vol. 63, No. 1 (258), 98. Retreived from JSTOR via NLB’s eResources website. 
+[^7]:Gallop, A. T. (1990). Early Malay printing: An introduction to the British Library collections. *Journal of the Malaysian Branch of the Royal Asiatic Society*, Vol. 63, No. 1 (258), 98. Retreived from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website. 
 [^8]:Putten, 2006, p. 418.
 [^9]:9  Proudfoot, I. (1993). Early Malay printed books: A provisional account of materials published in the Singapore-Malaysia area up to 1920, noting holdings in major public collections (p. 201). Kuala Lumpur: Academy of Malay Studies and the Library, University of Malaya. Call no.: RSING 015.5957 PRO-[LIB]
 [^10]:Proudfoot, 1993, p. 201.
