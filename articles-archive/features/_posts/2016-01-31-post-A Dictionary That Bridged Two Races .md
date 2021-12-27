@@ -42,7 +42,7 @@ In the preface penned by Zuo Binglong (左秉隆), the first Chinese Consul to S
 migrants had settled in Nanyang (南洋 or the “South Seas”) to trade with the Malays in the region. Since the migrants – mainly from the Zhangzhou and Quanzhou regions of Fujian province and Chaozhou in Guangdong 
 province – could not conduct their business effectively due to their inability to speak Malay, a dictionary was needed.
 
-<img src="/images/vol-11-issue-4/dictionary-bridged-2-races/D3.JPG">
+<img style="width: 350px; height: 450px;" src="/images/vol-11-issue-4/dictionary-bridged-2-races/D3.JPG">
 <div style="background-color: white;"> Zuo Binglong (左秉隆), the first 
 Chinese Consul to Singapore appointed by the 
 Qing Imperial Court in China, penned the foreword 
