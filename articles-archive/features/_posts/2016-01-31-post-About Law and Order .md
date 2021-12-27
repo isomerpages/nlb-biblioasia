@@ -61,4 +61,4 @@ independent nation.9
 [^6]:Braddell, R. St. J. (1915). *The law of the Straits Settlements: A commentary*. Singapore: Kelly & Walsh. Microfilm no.: NL 5723 
 [^7]:Hickling, R. H. (1992). [*Essays in Singapore law*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6335083) (pp. 79–80). Petaling Jaya: Pelanduk Publications. Call no.: RSING 349.5957 HIC; [Chan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7602243), 1995, pp. 4–5.
 [^8]:Supreme Court, 21 May 2010. 
-[^9]:[Chan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7602243), 1995, pp. 17–20; Phang, 2005, p. 15.
+[^9]:[Chan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7602243), 1995, pp. 17–20; [Phang](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12355843), 2005, p. 15.
