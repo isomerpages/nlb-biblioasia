@@ -66,14 +66,9 @@ writers raised in an era of decolonisation and rising nationalism.12
 
 Today, Wang Gungwu is better known as a distinguished historian and scholar on the Chinese diaspora; less is known about his literary forays during his varsity days and their significance to the early development of Singaporean literature.13 When *Pulse* was published, Wang saw his work receive critical acclaim in the *Singapore Free Press* and *The Straits Times*.14 He continued writing poetry and penning short stories – some under the pseudonym Awang Kedua – which were published in student journals such as *The New Cauldron*,*The Malayan Undergrad and The Compact: A Selection of University of Malaya Short Stories, 1953–1959*.15
 
-Wang stopped writing in the early 
-1960s16 after graduating with a Doctorate in 
-History at the School of Oriental and African Studies in London. He became a noted 
-historian, assuming roles as University 
-Professor at the National University of Singapore, Chairman of the East Asian Institute 
-and Emeritus Professor at the Australian 
-National University.17 Wang‘s friendship with 
-Beda Lim endured after graduation. Lim 
-was the Chief Librarian at the University of 
-Malaya Library from 1965 to 1980. He died 
-in 1999 at the age of 73.18 Gracie Lee
+Wang stopped writing in the early 1960s16 after graduating with a Doctorate in History at the School of Oriental and African Studies in London. He became a noted historian, assuming roles as University 
+Professor at the National University of Singapore, Chairman of the East Asian Institute and Emeritus Professor at the Australian National University.17 Wang‘s friendship with Beda Lim endured after graduation. Lim was the Chief Librarian at the University of Malaya Library from 1965 to 1980. He died in 1999 at the age of 73.18 
+
+– Written by Gracie Lee
+
+#### **NOTES**
