@@ -42,7 +42,8 @@ Keasberry’s boarding school for boys was set on a hill he had acquired in 1848
 Malay type.5 Mount Zion (or Bukit Zion) was also the location of the press.
 
 <img src="/images/vol-11-issue-4/through-the-eye-glass/E3.JPG">
-<div style="background-color: white;">In <i>Cermin Mata</i>, the lithography technique was used for the first time to print Jawi text that closely resembled the natural flow of the handwritten script. This was a huge breakthrough for Malay publishing in Singapore. <i>Image source: National Library Board, Singapore.</i></div>
+<div style="background-color: white;"> Seven issues of <i>Cermin Mata</i> were published altogether but the National Library only has issues 4, 5, 6 and 7, which were printed in 1859. Each issue contains 100 pages with 
+intricately coloured frontispieces and chapter headings. <i>Image source: National Library Board, Singapore</i></div>
 
 Keasberry compiled two periodicals before he published *Cermin Mata: namely Taman Pengetahuan* (1848–52) and *Pŭngutib Sagala Remah Pengetahuan* (1852–54). Similar in content to *Cermin Mata*, these works consisted of a mix of Christian biblical and other moral stories as well as practical knowledge and science.6 However of the three periodicals, the finest was *Cermin Mata* – which has been called “a most spectacular imprint”.7
 
