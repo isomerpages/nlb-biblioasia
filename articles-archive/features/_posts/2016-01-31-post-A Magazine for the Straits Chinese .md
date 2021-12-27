@@ -35,15 +35,4 @@ response perhaps by the Chinese against a local press that was largely dominated
 The magazine’s writers and its audience were primarily the Peranakan community, localised Chinese who having resided in the Straits Settlements for several generations, had adopted indigenous practices such as speaking in Baba Malay and eating spicy food, but at the same time, equally at ease with English customs and Chinese culture. Many of the magazine’s writers were 
 distinguished leaders in the community, like Tan Teck Soon, who was educated in Singapore and China, and well-regarded for his erudite talks on Chinese culture.5
 
-The magazine was a resounding success with 800 copies of its inaugural issue 
-selling out in March 1897. Subscriptions 
-cost $1.50 a year, and by the turn of the 20th 
-century, The Straits Chinese Magazine had 
-achieved a wide circulation, both in Malaya 
-as well as in “distant corners of the globe”.6
-Subsequent issues featured regular columns 
-in the form of letters from London, Java, 
-Melaka and Penang. By 1904, the magazine 
-was read in “quiet homes in England and 
-America”,7
- and was found in the collections
+The magazine was a resounding success with 800 copies of its inaugural issue selling out in March 1897. Subscriptions cost $1.50 a year, and by the turn of the 20th century, The Straits Chinese Magazine had achieved a wide circulation, both in Malaya as well as in “distant corners of the globe”.6Subsequent issues featured regular columns in the form of letters from London, Java, Melaka and Penang. By 1904, the magazine was read in “quiet homes in England and America”,7 and was found in the collections
