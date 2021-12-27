@@ -56,3 +56,11 @@ Song became the first Malayan Chinese and the second Asian in Malaya – apart f
 – Written by Irene Lim
 
 #### **NOTES**
+[^1]:The Chinese in Singapore (1924, January 10). The Singapore Free Press and Mercantile Advertiser, p. 12. Retrieved from NewspaperSG.
+[^2]:Song, O. S. (1967). One hundred years’ history of the Chinese in Singapore. Singapore: University Malaya Press. Call no.: RCLOS 959.57 SON; Song, O. S. (1975). One hundred years’ history of the Chinese in Singapore. San Francisco: Chinese Materials Centre. Call no.: RCLOS 959.57 SON; Song, O. S. (1984). One hundred years’ history of the Chinese in Singapore. Singapore: Oxford University Press. Call no.: RSING 959.57 SON-[HIS]
+[^3]:National Library Board (2013). Selections: Early titles from the National Library (p. 23). Singapore: National Library Board. Call no.: RSING 808.840095957 SEL.; Mr. Song Ong Siang's Book (1924, March 31). The Straits Times, p. 10. Retrieved from NewspaperSG.
+[^4]:National Library Board, 2013, p. 27.
+[^5]:The Singapore Free Press and Mercantile Advertiser (1884–1942), 10 Jan 1924, p. 12.
+[^6]:Singapore Chinese Girls' School. (1928, January 19). The Singapore Free Press and Mercantile Advertiser (1884–1942), p. 14. Retrieved from NewspaperSG; 
+[^7]:National Library Board, 2013, p. 29.
+[^8]:Catholic Archdiocese of Singapore (1936, January 11). Malaya Catholic Leader, 13; Knighthood for Song Ong Siang. (1936, January 1). The Singapore Free Press and Mercantile Advertiser (1884–1942), p. 1. Retrieved from NewspaperSG.
