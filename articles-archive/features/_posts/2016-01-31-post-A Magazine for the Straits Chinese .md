@@ -35,4 +35,26 @@ response perhaps by the Chinese against a local press that was largely dominated
 The magazine’s writers and its audience were primarily the Peranakan community, localised Chinese who having resided in the Straits Settlements for several generations, had adopted indigenous practices such as speaking in Baba Malay and eating spicy food, but at the same time, equally at ease with English customs and Chinese culture. Many of the magazine’s writers were 
 distinguished leaders in the community, like Tan Teck Soon, who was educated in Singapore and China, and well-regarded for his erudite talks on Chinese culture.5
 
-The magazine was a resounding success with 800 copies of its inaugural issue selling out in March 1897. Subscriptions cost $1.50 a year, and by the turn of the 20th century, The Straits Chinese Magazine had achieved a wide circulation, both in Malaya as well as in “distant corners of the globe”.6Subsequent issues featured regular columns in the form of letters from London, Java, Melaka and Penang. By 1904, the magazine was read in “quiet homes in England and America”,7 and was found in the collections
+The magazine was a resounding success with 800 copies of its inaugural issue selling out in March 1897. Subscriptions cost $1.50 a year, and by the turn of the 20th century, *The Straits Chinese Magazine* had achieved a wide circulation, both in Malaya as well as in “distant corners of the globe”.6Subsequent issues featured regular columns in the form of letters from London, Java, Melaka and Penang. By 1904, the magazine was read in “quiet homes in England and America”,7 and was found in the collections of the Library of Congress in Washington DC and the École française d’Extrême-Orient (French School of Asian Studies), initially headquartered in Hanoi, Vietnam.
+
+The magazine’s success could be attributed to many reasons – chief of which was the quality of its editors, who were not only bilingual but also bicultural, straddling 
+and balancing both Western and Asian points of view.
+
+The magazine’s content was also progressive for its time, with articles that 
+addressed the need to educate not only 
+Chinese males but also nonya or Straits 
+Chinese women. Interestingly, while most 
+articles were routinely penned by men, the 
+eighth volume in 1904 featured the writings 
+of several Chinese women.
+More controversial was perhaps a 
+six-part series initiated by Lim to encourage social reform in marriage, education 
+and attire among the Chinese, in particular, 
+the cutting of the towchang (or braided 
+pigtail) worn by Chinese men during the 
+Qing dynasty. Lim’s arguments against the 
+pigtail led to polarising views among the 
+local Chinese community – as it would in 
+China almost 12 years later in 1911 when 
+reformists and revolutionaries swept 
+the land
