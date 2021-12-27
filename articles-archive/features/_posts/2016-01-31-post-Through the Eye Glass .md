@@ -35,21 +35,10 @@ Keasberry met Abdullah in the late 1830s, when the latter was engaged to help hi
 Keasberry produced several beautifully decorated multi-coloured lithographs of fine manuscripts. 
 
 Keasberry’s boarding school for boys was set on a hill he had acquired in 1848 at River Valley Road, which he renamed Mount Zion. His students were taught English and Malay as well as skills such as printing, lithography, bookbinding and compositors’ work in both English and 
-Malay type.5 Mount Zion (or Bukit Zion) was 
-also the location of the press.
+Malay type.5 Mount Zion (or Bukit Zion) was also the location of the press.
 
-Keasberry compiled two periodicals 
-before he published Cermin Mata: namely 
-Taman Pengetahuan (1848–52) and Pŭngutib 
-Sagala Remah Pengetahuan (1852–54). 
-Similar in content to Cermin Mata, these 
-works consisted of a mix of Christian biblical 
-and other moral stories as well as practical 
-knowledge and science.6
- However of the 
-three periodicals, the finest was Cermin 
-Mata – which has been called “a most 
-spectacular imprint”.7
+Keasberry compiled two periodicals before he published *Cermin Mata: namely Taman Pengetahuan* (1848–52) and *Pŭngutib Sagala Remah Pengetahuan* (1852–54). Similar in content to *Cermin Mata*, these works consisted of a mix of Christian biblical and other moral stories as well as practical knowledge and science.6 However of the three periodicals, the finest was *Cermin Mata* – which has been called “a most spectacular imprint”.7
+
 Cermin Mata was used as an educational magazine and a means of proselytising 
 in missionary schools. It was also used as 
 reading material in the Dutch education 
