@@ -54,5 +54,5 @@ From its first issue in 1897 until the last in 1907, a total of 11 volumes were 
 [^3]:Editorial. (1897, March). [*The Straits Chinese Magazine*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5813779)*, 1*(1), p. 2. Microfilm no.: NL 267. 
 [^4]:Editorial – The need for an Asiatic daily. (1905, June). *The Straits Chinese Magazine, 9* (2), p. 41. Microfilm no.: NL 267
 [^5]:[Revival of Straits Chinese Annual](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19291126-1.2.105.aspx). (1929, November 26). *The Straits Times*, p. 15. Retrieved from NewspaperSG.
-[^6]:News and notes – ourselves. (1903, December). [*The Straits Chinese Magazine*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5813779)*, 7*(4), p. 160. Microfilm no.: NL 267 
-[^7]:Editorial. (1904, March). [The Straits Chinese Magazine](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5813779), 8 (1), p. 1.  Microfilm no.: NL 267
+[^6]:News and notes – ourselves. (1903, December). [*The Straits Chinese Magazine*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5813779)*, 7*(4), p. 160. Microfilm no.: NL 267. 
+[^7]:Editorial. (1904, March). [*The Straits Chinese Magazine*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5813779)*, 8* (1), p. 1.  Microfilm no.: NL 267.
