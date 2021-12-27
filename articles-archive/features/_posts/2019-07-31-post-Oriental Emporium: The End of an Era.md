@@ -92,7 +92,7 @@ The Emporium Holdings Group was acquired by various entities over the years. In 
 Although the Emporium retail giant has exited from Singapore’s shopping scene, the company is still noteworthy for the innovative concepts it pioneered in the local retail scene. For over three decades, the Emporium chain of department stores, supermarkets and restaurants delighted scores of shoppers and customers – many of whom still have fond memories of the brand.
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
-	<b>THE TIES THAT BINDS</b>
+	<b>THE TIES THAT BIND</b>
 		<br><br>
 The story of Emporium Holdings Group would not be complete without mentioning the special bond shared by the company and its employees. When Emporium began battling rumours of financial difficulties during the 1985 economic recession, about 200 staff members organised a special lunch banquet at the Oriental Restaurant in Ang Mo Kio to show their unity and support for the management. During the lunch, staff presented the management with a signed declaration to demonstrate their confidence in the company and pledged to be more efficient in their work. Unfortunately, Emporium Holdings fell victim to the economic recession in 1987.
 		<br><br>
@@ -103,8 +103,9 @@ In September 1996, nine years after the liquidation of Emporium Holdings, ex-emp
 	In an interview with <i>The Straits Times</i> on 29 October 2006, Lim spoke about how the dinner organised by his staff in 1996 had motivated him and ignited his fighting spirit to restart the business in 1999. (Lim was then aged 75 and had just been discharged from bankruptcy).[^19] He said: “It [the dinner] just touched my heart and I have never forgotten it. I’ve thought about it every day for the last 10 years and I told myself that I must work hard and one day pay them back.”[^20] Lim passed away in April 2012.
 	<br><br>
 	<img style="width: 300px; height: 300px;" src="/images/Vol-15-issue-2/oriental-emporium/Emporium6x.JPG">The newspaper advertisement by Lim Tow Yong inviting former employees of Emporium Holdings Group to a get-together dinner in 2006. A memorable quote in the invite stands out: “不在乎天长地久，只在乎一起走过闪烁的日子”(“It matters not if it doesn’t last an eternity, what matters are the bright days that we have spent together”). <i>Lianhe Zaobao, 17 October 2006, p. 7.</i>
-</span><br>
-<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> <b>MILESTONES</b><br>
+</span>
+
+#### **MILESTONES**
 <table>
   <tr>
     <td>1938</td>
@@ -175,7 +176,7 @@ Oriental Slasher Emporium in Hong Lim Complex; Oriental Emporium & Supermarket i
     <td>1987</td>
     <td>Emporium Holdings Group is liquidated.</td>
   </tr>
-</table></span>
+</table>
 
 <div style="background-color: white;">
 <img src="/images/Vol-15-issue-2/oriental-emporium/Emporium7.jpg" style="width: 100px; height: 100px;">
