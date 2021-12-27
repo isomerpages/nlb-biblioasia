@@ -39,22 +39,10 @@ Malay type.5 Mount Zion (or Bukit Zion) was also the location of the press.
 
 Keasberry compiled two periodicals before he published *Cermin Mata: namely Taman Pengetahuan* (1848–52) and *Pŭngutib Sagala Remah Pengetahuan* (1852–54). Similar in content to *Cermin Mata*, these works consisted of a mix of Christian biblical and other moral stories as well as practical knowledge and science.6 However of the three periodicals, the finest was *Cermin Mata* – which has been called “a most spectacular imprint”.7
 
-Cermin Mata was used as an educational magazine and a means of proselytising 
-in missionary schools. It was also used as 
-reading material in the Dutch education 
-system in Indonesia (after Dutch official 
-Palmer van den Broek compiled parts of 
-it as an anthology).8
- This version in romanised text, or Rumi, was printed in 1866 
-in Batavia, followed by a Javanese version 
-that was printed in 1877 in Semarang.9
- A 
-literal translation of the chapter titles from 
-issues 5 and 6 shows interesting and varied content, with chapters such as “Tears 
-of a Friend”, “Travels in Africa”, “About 
-Sheep”, “Economics”, “Napoleon’s Army 
-in Russia”, “Sailing Around the World” and 
-“Robinson Crusoe”.10
+*Cermin Mata* was used as an educational magazine and a means of proselytising in missionary schools. It was also used as reading material in the Dutch education 
+system in Indonesia (after Dutch official Palmer van den Broek compiled parts of it as an anthology).8 This version in romanised text, or Rumi, was printed in 1866 
+in Batavia, followed by a Javanese version that was printed in 1877 in Semarang.9 A literal translation of the chapter titles from issues 5 and 6 shows interesting and varied content, with chapters such as “Tears of a Friend”, “Travels in Africa”, “About Sheep”, “Economics”, “Napoleon’s Army in Russia”, “Sailing Around the World” and “Robinson Crusoe”.10
+
 Keasberry’s body of work was an 
 important development for the Malay printing 
 industry. He used the lithography technique 
