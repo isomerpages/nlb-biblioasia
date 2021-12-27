@@ -18,7 +18,7 @@ description: ""
 </span>
 
 <img src="/images/vol-11-issue-4/a-magazine-straits-chinese/C1.JPG">
-<div style="background-color: white;"></i></div>
+<div style="background-color: white;">The editors of <i>The Straits Chinese Magazine</i>, Song Ong Siang (left) and Lim Boon Keng (right) were joined by Wu Lien-Teh (centre) in 1904. <i>Courtesy of National Archives of Singapore.</i></div>
 
 In the 1890s, a group of Peranakan (Straits-born Chinese) intellectuals decided to publish a magazine for the Straits community in Malaya.
 
