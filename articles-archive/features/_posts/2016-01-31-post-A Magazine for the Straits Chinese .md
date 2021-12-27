@@ -29,8 +29,8 @@ Thus was born *The Straits Chinese Magazine: A Quarterly Journal of Oriental and
 entirely edited and published by Malayans,[^2] it offered a rich collection of some of the earliest published local literary works and social commentaries by the Straits Chinese, with an aim to “promote intellectual activity 
 amongst the Straits-born people”.[^3]
 
-<img style="width: 350px; height: 450px;" src="/images/vol-11-issue-4/a-magazine-straits-chinese/C2.JPG">
-<div style="background-color: white;">The editors of <i>The Straits Chinese Magazine</i>, Song Ong Siang (left) and Lim Boon Keng (right) were joined by Wu Lien-Teh (centre) in 1904. <i>Courtesy of National Archives of Singapore.</i></div>
+<img src="/images/vol-11-issue-4/a-magazine-straits-chinese/C3.JPG">
+<div style="background-color: white;">The title page of the first issue of <i>The Straits Chinese Magazine</i> dated March 1897, with the Raffles Library stamp. <i>Image source: National Library Board, Singapore.</i></div>
 
 Although the magazine was styled after similar journals by literary societies in London, its contents were influenced by a growing interest in Chinese culture – a 
 response perhaps by the Chinese against a local press that was largely dominated by British journalists.[^4]
@@ -40,8 +40,8 @@ distinguished leaders in the community, like Tan Teck Soon, who was educated in 
 
 The magazine was a resounding success with 800 copies of its inaugural issue selling out in March 1897. Subscriptions cost $1.50 a year, and by the turn of the 20th century, *The Straits Chinese Magazine* had achieved a wide circulation, both in Malaya as well as in “distant corners of the globe”.[^6] Subsequent issues featured regular columns in the form of letters from London, Java, Melaka and Penang. By 1904, the magazine was read in “quiet homes in England and America”,[^7] and was found in the collections of the Library of Congress in Washington DC and the École française d’Extrême-Orient (French School of Asian Studies), initially headquartered in Hanoi, Vietnam.
 
-<img style="width: 370px; height: 450px;" src="/images/vol-11-issue-4/a-magazine-straits-chinese/C3.JPG">
-<div style="background-color: white;">The editors of <i>The Straits Chinese Magazine</i>, Song Ong Siang (left) and Lim Boon Keng (right) were joined by Wu Lien-Teh (centre) in 1904. <i>Courtesy of National Archives of Singapore.</i></div>
+<img style="width: 370px; height: 450px;" src="/images/vol-11-issue-4/a-magazine-straits-chinese/C2.JPG">
+<div style="background-color: white;"> The subscription page of <i>The Straits Chinese Magazine</i> announcing that the magazine will be published quarterly at the end of March, June, September and December. The subscription fee was $1.50 per annum. <i>All rights reserved, The Straits Chinese Magazine: A Quarterly Journal of Oriental and Occidental Culture (Vol. I, no. 1, Mar 1897). Singapore: Koh Yew Hean Press.</i></div>
 
 The magazine’s success could be attributed to many reasons – chief of which was the quality of its editors, who were not only bilingual but also bicultural, straddling 
 and balancing both Western and Asian points of view.
