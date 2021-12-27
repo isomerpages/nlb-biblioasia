@@ -29,13 +29,9 @@ Thus was born *The Straits Chinese Magazine: A Quarterly Journal of Oriental and
 entirely edited and published by Malayans,2 it offered a rich collection of some of the earliest published local literary works and social commentaries by the Straits Chinese, with an aim to “promote intellectual activity 
 amongst the Straits-born people”.3
 
-Although the magazine was styled 
-after similar journals by literary societies 
-in London, its contents were influenced by 
-a growing interest in Chinese culture – a 
-response perhaps by the Chinese against 
-a local press that was largely dominated by 
-British journalists.4
+Although the magazine was styled after similar journals by literary societies in London, its contents were influenced by a growing interest in Chinese culture – a 
+response perhaps by the Chinese against a local press that was largely dominated by British journalists.4
+
 The magazine’s writers and its audience were primarily the Peranakan community, localised Chinese who having resided 
 in the Straits Settlements for several generations, had adopted indigenous practices 
 such as speaking in Baba Malay and eating 
@@ -57,4 +53,4 @@ in the form of letters from London, Java,
 Melaka and Penang. By 1904, the magazine 
 was read in “quiet homes in England and 
 America”,7
- and was found in the collections 
+ and was found in the collections
