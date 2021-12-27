@@ -17,7 +17,7 @@ description: ""
 <b>Accession no.:</b> B03057034K
 </span>
 
-<img src="/images/vol-11-issue-4/through-the-eye-glass/E1.JPG">
+<img style="width: 650px; height: 400px;" src="/images/vol-11-issue-4/through-the-eye-glass/E1.JPG">
 <div style="background-color: white;">In <i>Cermin Mata</i>, the lithography technique was used for the first time to print Jawi text that closely resembled the natural flow of the handwritten script. This was a huge breakthrough for Malay publishing in Singapore. <i>Image source: National Library Board, Singapore.</i></div>
 
 The journal *Cermin Mata Bagi Segala Orang Yang Menuntut Pengetahuan* is among the earliest Malay serial publications existing today. Translated literally as An “Eye Glass for All Who Seek Knowledge”, it was one of the most ambitious and voluminous of all 19th-century missionary journals printed in Malaya.[^1] Seven issues of *Cermin Mata* in Jawi – the modified Arab script used to 
@@ -41,7 +41,7 @@ Keasberry produced several beautifully decorated multi-coloured lithographs of f
 Keasberry’s boarding school for boys was set on a hill he had acquired in 1848 at River Valley Road, which he renamed Mount Zion. His students were taught English and Malay as well as skills such as printing, lithography, bookbinding and compositors’ work in both English and 
 Malay type.[^5] Mount Zion (or Bukit Zion) was also the location of the press.
 
-<img src="/images/vol-11-issue-4/through-the-eye-glass/E3.JPG">
+<img style="width: 650px; height: 400px;" src="/images/vol-11-issue-4/through-the-eye-glass/E3.JPG">
 <div style="background-color: white;"> Seven issues of <i>Cermin Mata</i> were published altogether but the National Library only has issues 4, 5, 6 and 7, which were printed in 1859. Each issue contains 100 pages with 
 intricately coloured frontispieces and chapter headings. <i>Image source: National Library Board, Singapore</i></div>
 
