@@ -70,8 +70,28 @@ The second and third copies were donated to the library by the late Mr Lee Kip L
 <br><br>
 Roland St. John Braddell (1880–1966) was a prominent lawyer who contributed much to the public life of Malaya. 
 The third generation of Braddells to settle in the region, he was the eldest son of Thomas de Multon Lee Braddell, Chief Justice of the Federated Malay States (1913–17);1 and grandson of Thomas Braddell, the first Attorney-General of the Straits Settlements (1867–82).2
-	
-Braddell was born in Singapore on 20 December 1880. He received his education at King’s School, Canterbury, and Worcester College, Oxford, where he obtained his Bachelor of Arts degree in 1904. He was called to the Middle Temple Bar in 1905, and the Straits Bar the following year. Braddell then practised at Braddell 
+	<br><br>
+Braddell was born in Singapore on 20 December 1880. He received his education at King’s School, Canterbury, and Worcester College, Oxford, where he obtained his Bachelor of Arts degree in 1904. He was called to the Middle Temple Bar in 1905, and the Straits Bar the following year. Braddell then practised at Braddell Brothers, the law firm established by his father and uncle, Robert Wallace Glen Lee Braddell.3
+	<br><br>
+In April 1936, Braddell was appointed 
+an unofficial member of the Johor Executive Council for a period of two years by the sultan of Johor. He served as legal advisor to the United Malays National Organisation, played an instrumental role in the negotiations that led to the establishment of the Federation of Malaya in 1948 and had a hand in drafting the federation agreement. Thereafter, he continued to serve as legal and constitutional advisor to the rulers of the Malay States.4
+	<br><br>
+Legal achievements aside, Braddell was also known as a scholar of Malayan history. He was one of three editors – including Walter Makepeace and Gilbert Edward Brooke – of Singapore’s centenary celebration publication, <i>One Hundred Years of Singapore</i> (1921) (see page 26). He also wrote several legal and history books, including Commentary on the <i>Common Gaming Houses Ordinance of 1888</i> (1911), <i>The Law of the Straits Settlements: A Commentary</i> (1915) (see page 82) and <i>The Lights of Singapore</i> (1934) (see page 79). In addition, Braddell had many of his papers published in the <i>Journal of the Malayan Branch of the Royal Asiatic Society</i>.5
+	<br><br>
+Braddell made many contributions 
+to other areas of public service as a 
+municipal commissioner; member of the 
+Singapore Housing Commission;president 
+of Singapore Rotary Club; president of 
+the Malayan Branch of the Royal Asiatic 
+Society, and president of the Singapore 
+Art Society, among other appointments. 
+Described as a “real Malayan par excellence”, Braddell was knighted in 1948 for 
+his services to Malaya.6
+In July 1951, Braddell left Singapore 
+but returned to Kuala Lumpur two years 
+later to start up his legal practice there. 
+He played a part in the establishment 
 </span>
 
 – Written by Gracie Lee
