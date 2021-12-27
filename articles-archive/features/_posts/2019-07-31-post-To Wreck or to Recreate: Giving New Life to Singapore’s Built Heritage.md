@@ -249,32 +249,26 @@ Conservation, on the other hand, is a much broader concept. Instead of perceivin
 		<td>24 Buddhist Temple, Kim Keat Road</td>
 		<td>24 Killiney House (3 Oxley Rise/Belle Vue House)</td>
   </tr>
-	</tr>
 	 <tr>
 		<td>25 Tan Seng Haw, Magazine Road</td>
 		<td>25 Geok Hong Tian Temple, Havelock Road</td>
   </tr>
-	</tr>
 	 <tr>
 		<td>26 Ying Fo Fui Kun, Telok Ayer Street</td>
 		<td>26 Indian Temple in Kreta Ayer</td>
   </tr>
-	</tr>
 	 <tr>
 		<td>27 Ning Yueng Wui Kuan, South Bridge Road</td>
 		<td>27 Arab Street Keramat</td>
   </tr>
-	</tr>
 	 <tr>
 		<td>28 Benggali Mosque, Bencoolen Street</td>
 		<td>28 Sultan’s Gate House (or Istana Kampong Glam)</td>
   </tr>
-	</tr>
 	 <tr>
 		<td>29 Assembly House (Old Parliament House)</td>
 		<td>29 Cemetery, Kampong Radin Mas</td>
   </tr>
-	</tr>
 	 <tr>
 		<td>30 Yeo Kim Swee’s Godown, North Boat Quay</td>
 		<td>30 Indian cemetery off Lorong 3, Geylang</td>
