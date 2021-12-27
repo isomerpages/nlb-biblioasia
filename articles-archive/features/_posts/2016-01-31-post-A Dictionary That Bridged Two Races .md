@@ -32,12 +32,22 @@ population. But attempts to forge a common language in Singapore had begun as ea
 whom spoke Southern Min dialects (闽南语) such as Hokkien[^1] – tried to communicate with the Malay-speaking indigenous population. Several Chinese-Malay dictionaries – listing Malay words with their equivalent 
 terms in Chinese – were produced in the 19th century.[^2] One of the earliest was *Hua yi tong yu* (华夷通语), published in 1883.
 
+<img src="/images/vol-11-issue-4/dictionary-bridged-2-races/D2.JPG">
+<div style="background-color: white;">hese pages in <i>Hua yi tong yu</i> provide the pronunciation for various numerals and silver currencies. Photographed against an antique teakwood table, donated to the National Library Board by George L. Hicks. <i>Image source: National Library Board, Singapore.</i></div>
+
 This earliest known Singapore-published Chinese-Malay dictionary in the National Library’s collection contains more than 2,800 entries in 25 categories. The entries include terms used in disciplines such as cosmology and geography to mathematics as well as common business terms. The second section categorises the entries 
 according to the number of Chinese characters contained in each term, while the third and final section lists verbs and adjectives that could not be categorised in the preceding two sections.[^3]
 
 In the preface penned by Zuo Binglong (左秉隆), the first Chinese Consul to Singapore appointed by the Qing Imperial Court, the writer explains that the dictionary was necessary because large numbers of Chinese 
 migrants had settled in Nanyang (南洋 or the “South Seas”) to trade with the Malays in the region. Since the migrants – mainly from the Zhangzhou and Quanzhou regions of Fujian province and Chaozhou in Guangdong 
 province – could not conduct their business effectively due to their inability to speak Malay, a dictionary was needed.
+
+<img src="/images/vol-11-issue-4/dictionary-bridged-2-races/D3.JPG">
+<div style="background-color: white;"> Zuo Binglong (左秉隆), the first 
+Chinese Consul to Singapore appointed by the 
+Qing Imperial Court in China, penned the foreword 
+of Hua yi tong yu. <i>All rights reserved, 左秉
+隆.(1959). 勤勉堂诗钞. 新加坡:南洋历史研究会.</i></div>
 
 The author, Lin Hengnan (林衡南), came up with an ingenious solution by devising a system that uses native Southern Min dialects to phoneticise Malay words. The 
 dictionary teaches users how to pronounce Malay words by using Chinese characters that sound similar when said in the Southern Min dialects.[^4] For example, to learn the Malay word *satu*, which means ”one”, Lin used the Chinese characters “沙诛” – pronounced *sha zhu* in Mandarin but *sa tu* in Hokkien. *Tiga*, or “three”, is “知迓” – pronounced *zhi ya* in Mandarin but *ti ga* in Hokkien.[^5]
