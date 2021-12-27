@@ -16,3 +16,6 @@ description: ""
 <b>Call no.:</b> RRARE 959.5 STR<br>
 <b>Accession no.:</b> B03057011F (v.1)
 </span>
+
+<img src="/images/vol-11-issue-4/">
+<div style="background-color: white;"></i></div>
