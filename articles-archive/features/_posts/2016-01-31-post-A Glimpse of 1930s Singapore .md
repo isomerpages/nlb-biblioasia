@@ -105,9 +105,9 @@ from NewspaperSG.<br><br>
 – Written by Gracie Lee
 
 #### **NOTES**
-[^1]:Braddell, R. (1982). The lights of Singapore (pp. 3–4, 14, 17, 19, 22–23). Kuala Lumpur: Oxford University Press. Call no.: RSING 959.57 BRA-[HIS]
-[^2]:The Wanderer. (1934, July 29). Mainly about Malayans. The Straits Times, p. 2. Retrieved from NewspaperSG.
-[^3]:The lights of Singapore. (1934, September 2). The Straits Times, p. 5. Retrieved from NewspaperSG.
+[^1]:Braddell, R. (1982). [*The lights of Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=3013500) (pp. 3–4, 14, 17, 19, 22–23). Kuala Lumpur: Oxford University Press. Call no.: RSING 959.57 BRA-[HIS].
+[^2]:The Wanderer. (1934, July 29). [Mainly about Malayans](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19340729-1.2.19.aspx). *The Straits Times*, p. 2. Retrieved from NewspaperSG.
+[^3]:[The lights of Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19340902-1.2.38.aspx). (1934, September 2). *The Straits Times*, p. 5. Retrieved from NewspaperSG.
 [^4]:Wicks, P. C. (1986, September). [Review of] The lights of Singapore by Roland Braddell; glimpses into life in Malayan lands by John Turnbull Thomson. Journal of Southeast Asian Studies, 17(2), 381–383. Retrieved from JSTOR; “The lights of Singapore”. (1934, July 30). The Singapore Free Press, p. 8; W. A. H. (1934, July 30). Today’s special article. The Straits Times, p. 12. Retrieved from NewspaperSG.
 [^5]:Notes of the day. (1935, January 14). The Straits Times, p. 10. Retrieved from NewspaperSG.
 [^6]:Intimate book on Malaya. (1934, July 22). The Straits Times, p. 7. Retrieved from NewspaperSG.
