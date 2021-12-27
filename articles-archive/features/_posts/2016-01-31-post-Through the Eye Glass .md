@@ -28,7 +28,7 @@ The man behind *Cermin Mata* was Reverend Benjamin Keasberry, a Protestant missi
 Established by Christian missionaries in 1823, Mission Press is the first printing press established in Singapore. The press was specifically set up to print Christian literature that had been translated into various languages for distribution throughout the region. When the London 
 Missionary Society ceased operations in Singapore in 1846, Keasberry decided to remain behind. Having learnt the art of printing in Batavia (present-day Jakarta), he took over the operations of the press and ran it as a commercial enterprise to support his family while running a school for Malay boys.2
 
-<img src="/images/vol-11-issue-4/through-the-eye-glass/E2.JPG">
+<img style="width: 250px; height: 300px;" src="/images/vol-11-issue-4/through-the-eye-glass/E2.JPG">
 <div style="background-color: white;">Reverend Benjamin Keasberry (1811–75), a Protestant missionary who came to Singapore in 1837, was a significant figure in the development of the island’s Malay printing industry. <i>All rights reserved, Prinsep Street Presbyterian Church 1843–2013: Celebrating 170 Years of God’s Faithfulness. (2003). Singapore: Prinsep Street 
 Presbyterian Church.</i></div>
 
