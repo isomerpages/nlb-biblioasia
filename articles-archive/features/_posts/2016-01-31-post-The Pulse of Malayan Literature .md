@@ -59,6 +59,10 @@ literature, history and economics.8 Being proficient in Malay, Chinese and Engli
 sweeping political changes and nationalistic fervour of his era, Wang and other fledgling writers of the time wanted to create a form of poetry that was unique to the region. The outcome was the unique hybrid form dubbed 
 as “Engmalchin” (English, Malay, Chinese), which attempted to infuse local elements into English poems.9
 
+<img style="width: 360px; height: 400px;" src="/images/vol-11-issue-4/pulse-of-malayan-literature/P2.JPG">
+<div style="background-color: white;">Professor Wang Gungwu (pictured here in 1950) is the author of <i>Pulse</i> and a much lauded scholar today. He is chairman of three notable think tanks: the East Asian Institute, the Lee Kuan Yew School of Public Policy and the Institute of Southeast Asian Studies. <i>Courtesy of 
+Professor Wang Gungwu.</i></div>
+
 Engmalchin, however, was a failed literary experiment. The 1955 issue of *New Cauldron* explained: “We have assessed previous undergraduate attempts at the creation of an artificial language by an arbitrary mixture of phrases drawn from the existing languages spoken in Malaya. We regret to say that this language, Engmalchin, as its advocates termed it, is a failure if only because of its self-conscious artificiality and the failure of its ‘sires’ to understand that language can never be created by edict.”10
 
 Despite the failure of Engmalchin as a literary form, *Pulse*, nonetheless, serves as the standard reference for the study of Singaporean literature in English11 – literature born of the aspirations of young Anglophone 
@@ -68,6 +72,10 @@ Today, Wang Gungwu is better known as a distinguished historian and scholar on t
 
 Wang stopped writing in the early 1960s16 after graduating with a Doctorate in History at the School of Oriental and African Studies in London. He became a noted historian, assuming roles as University 
 Professor at the National University of Singapore, Chairman of the East Asian Institute and Emeritus Professor at the Australian National University.17 Wang‘s friendship with Beda Lim endured after graduation. Lim was the Chief Librarian at the University of Malaya Library from 1965 to 1980. He died in 1999 at the age of 73.18 
+
+<img style="width: 600px; height: 400px;" src="/images/vol-11-issue-4/pulse-of-malayan-literature/P3.JPG">
+<div style="background-color: white;"><i>Pulse</i> is notable for being the first published collection of English verse by a local poet and is said to have heralded the start of a Singaporean/Malayan style of poetry. <i>Image 
+source: National Library Board, Singapore.</i></div>
 
 – Written by Gracie Lee
 
