@@ -66,10 +66,10 @@ Lin wrote other books, and in 1890, founded the Chinese newspaper called Xing ba
 [^4]:林衡南. (1883). 华夷通语序. 华夷通语. 新加坡: 古月轩. Retrieved from BookSG.
 [^5]:李如龙, 1998, pp. 106, 108–122. 
 [^6]:李如龙, 1998, pp. 106, 108–122. 
-7.	林衡南, 1883, 华夷通语序.
-8.	林衡南, 1883, 自叙.
-9.	李如龙, 1998, pp. 106, 108–122. 
-10.	李如龙, 1998, pp. 105-106. 
-11.	林衡南, 1883, 华夷通语序; 郑文辉 [Zheng, Wenhui]. (1973). 新加坡华文报业史: 1881–1972 [Xinjiapo Hua wen bao ye shi: 1881–1972] (pp. 25–26). 新加坡: 新马出版印刷公司 [Xinjiapo: Xin ma chu ban yin shua]. Call no.: RCLOS 079.5957 CWH-[AKS]
-12.	叶观仕编著 (1999). 马新华人录 (1806 – 2000) (pp. 27–28). 吉隆坡: 名人出版社. Call no.: RSING q070.922595 WHO
-13.	郑文辉, 1973, p. 29.
+[^7]:林衡南, 1883, 华夷通语序.
+[^8]:林衡南, 1883, 自叙.
+[^9]:李如龙, 1998, pp. 106, 108–122. 
+[^10]:李如龙, 1998, pp. 105-106. 
+[^11]:林衡南, 1883, 华夷通语序; 郑文辉 [Zheng, Wenhui]. (1973). 新加坡华文报业史: 1881–1972 [Xinjiapo Hua wen bao ye shi: 1881–1972] (pp. 25–26). 新加坡: 新马出版印刷公司 [Xinjiapo: Xin ma chu ban yin shua]. Call no.: RCLOS 079.5957 CWH-[AKS]
+[^12]:叶观仕编著 (1999). 马新华人录 (1806 – 2000) (pp. 27–28). 吉隆坡: 名人出版社. Call no.: RSING q070.922595 WHO
+[^13]:郑文辉, 1973, p. 29.
