@@ -43,8 +43,8 @@ Keasberry compiled two periodicals before he published *Cermin Mata: namely Tama
 system in Indonesia (after Dutch official Palmer van den Broek compiled parts of it as an anthology).8 This version in romanised text, or Rumi, was printed in 1866 
 in Batavia, followed by a Javanese version that was printed in 1877 in Semarang.9 A literal translation of the chapter titles from issues 5 and 6 shows interesting and varied content, with chapters such as “Tears of a Friend”, “Travels in Africa”, “About Sheep”, “Economics”, “Napoleon’s Army in Russia”, “Sailing Around the World” and “Robinson Crusoe”.10
 
-Keasberry’s body of work was an 
-important development for the Malay printing 
-industry. He used the lithography technique 
-to print Jawi text that resembled the natural 
-flow of the handwritten script. Cermin Mata
+Keasberry’s body of work was an important development for the Malay printing industry. He used the lithography technique to print Jawi text that resembled the natural 
+flow of the handwritten script. Cermin Mata best demonstrates the advantages of this technique with its beautifully illustrated frontispiece. For the Malay world, this technique provided a cheap way of reproducing Jawi 
+writing. It was enthusiastically embraced by local printers and publishers, paving the way for Singapore to become an important publishing centre in the Malay world. 
+
+– Written by Mazelan Anuar
