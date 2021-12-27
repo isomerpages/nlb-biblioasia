@@ -84,27 +84,16 @@ Described as a “real Malayan par excellence”, Braddell was knighted in 1948 
 In July 1951, Braddell left Singapore but returned to Kuala Lumpur two years later to start up his legal practice there. He played a part in the establishment of the law faculty in the University of Malaya in Singapore through 
 the recommendations he made in the Allen-Braddell report of 1955.7 He retired to England in 1960, and died in London on 15 November 1966.8
 	<br><br>
-	<b>NOTES</b>
+	<b>NOTES</b><br><br>
 1 Death of Lady Violet Braddell. (1948, October 28). 
-The Straits Times, p. 7; New Braddell generation in 
-Singapore. (1947, October 18). The Straits Times, p. 
-7. Retrieved from NewspaperSG.<br><br>
-2 Attorneys-General of the Straits Settlements 
-from 1867 to 1936. (1936, November 8). The 
-Straits Times, p. 16; Sir Thomas Braddell (1927, 
-February 4). The Straits Times, p. 9. Retrieved 
-from NewspaperSG.<br><br>
-3 As I was saying. (1933, October 7). The 
-Singapore Free Press and Mercantile 
-Advertiser (1884–1942), p. 8. Retrieved from 
-NewspaperSG; Makepeace, W., Brooke, G. E., & 
-Braddell, R. St. J. (Eds.). (1991). One hundred 
-years of Singapore (Vol. 2, p. 430). Singapore: 
-Oxford University Press. Call no.: RSING 
-959.57 ONE.<br><br>
+<i>The Straits Times</i>, p. 7; New Braddell generation in Singapore. (1947, October 18). <i>The Straits Times</i>, p. 7. Retrieved from NewspaperSG.<br><br>
+2 Attorneys-General of the Straits Settlements from 1867 to 1936. (1936, November 8). <i>The Straits Times</i>, p. 16; Sir Thomas Braddell (1927, February 4). <i>The Straits Times</i>, p. 9. Retrieved from NewspaperSG.<br><br>
+3 As I was saying. (1933, October 7). <i>The Singapore Free Press and Mercantile Advertiser</i> (1884–1942), p. 8. Retrieved from NewspaperSG; Makepeace, W., Brooke, G. E., & Braddell, R. St. J. (Eds.). (1991). <i>One hundred 
+years of Singapore</i> (Vol. 2, p. 430). Singapore: 
+Oxford University Press. Call no.: RSING 959.57 ONE.<br><br>
 4 Dato Roland Braddell appointed to Johore 
-Executive Council. (1936, April 27). The Straits 
-Times, p. 12; Braddell retires, cuts last link. 
+Executive Council. (1936, April 27). <i>The Straits 
+Times</i>, p. 12; Braddell retires, cuts last link. 
 (1960, November 26). The Straits Times, p. 9; 
 Ramani, R. (1968, August 28). Roland Braddell. 
 The Straits Times, p. 9. Retrieved from 
