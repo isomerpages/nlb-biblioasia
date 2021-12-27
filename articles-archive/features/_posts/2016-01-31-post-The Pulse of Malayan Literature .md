@@ -26,15 +26,31 @@ classic literary works of Shakespeare, W. H. Auden and T. S. Eliot, and in the p
 
 Just 19 years old at the time, Wang was inspired to create literary works that were distinctly Malayan in character. Pulse,the first known collection of English poems by a Malayan, was the culmination of his early literary efforts. Lim helped Wang publish his maiden poetry collection,2and the year of its publication, 1950, has been hailed by prominent Singaporean writers like Edwin Thumboo as the defining moment Singaporean/Malayan poetry took root.3
 
-Reflecting its origins as an amateur 
-varsity production, Pulse – a modest 
-16-page booklet – is stapled together 
-with a cover that is adorned with a handdrawn illustration of the first poem, “To 
-Tigerland”. The cover design depicts a 
-floral wreath lying on the ground beside 
-sheaves of lallang and is framed by clouds, 
-birds and a rainbow. It contains 12 poems 
-on various topics written in a variety of 
-styles and forms, ranging from free verse 
+Reflecting its origins as an amateur varsity production, *Pulse* – a modest 16-page booklet – is stapled together 
+with a cover that is adorned with a hand-drawn illustration of the first poem, “To Tigerland”. The cover design depicts a floral wreath lying on the ground beside 
+sheaves of lallang and is framed by clouds, birds and a rainbow. It contains 12 poems on various topics written in a variety of styles and forms, ranging from free verse 
 to rhymed metrical stanzas.4
-i
+
+From a literary perspective, Pulse is the earliest attempt by a writer to avoid the imitation of English verse, and to create a new and authentic literary voice. 
+The sense of place in Wang’s poems is 
+distinctly Malayan for the most part, for 
+example in the poem “Three Faces of Night” 
+he writes:
+The crowds wait their share of the 
+steaming fun
+At the kuey-teow stalls of the 
+kerosene glare;…5
+In “Pulse”, the imagery and aesthetics draw references from English, Malay, 
+Chinese and Malayan culture:
+Trouser-wearing women
+Wor m among s ar is, s arongs 
+colourfully checked;
+Baju biru full of tailings,
+And sams unhooked at the neck;…6
+Wang also uses a mix of English and 
+Malay in his poems. This is seen in the poem 
+“Ahmad”: 
+Allah has been kind;
+Orang puteh has been kind.
+Only yesterday his brother said,
+“Can get lagi satu wife lah!”7
