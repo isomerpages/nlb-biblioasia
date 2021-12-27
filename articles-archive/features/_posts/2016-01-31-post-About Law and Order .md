@@ -31,34 +31,11 @@ In areas of law that affected British commercial interests, such as contract, co
 
 *The Law of the Straits Settlements* was first published in 1915, followed by a second edition in 1931. It was reprinted with an introduction by M. B. Hooker in 1982. The book comprises four chapters – Legal History; Modifications of English 
 Law; Institutions of Government; and The 
-Judiciary and the Bar – and five appendices on treaties; parliamentary acts; letters patent, instructions and standing orders; 
-case references and the related ordinances; 
-and decisions on the applicability of the 
-English statutes.
-6
-In his preface, Braddell acknowledged 
-that the book was modelled after Walter 
-J. Napier’s An Introduction to the Study of 
-the Law Administered in the Colony of the 
-Straits Settlements (1898), and was meant 
-to be an update and expansion of Napier’s 
-work. Although Napier’s publication is a 
-small 52-page booklet comprising just three 
-chapters, it was considered important for 
-its discussion on the application of English 
-law in the former British colonies. 
-By the 1850s, however, there was 
-much dissatisfaction with the quality of jus
--
-tice administered in Singapore. In 1853–54, 
-Chinese immigration levels reached a new 
-peak when men involved in the civil war in 
-southern China began pouring into Singa
--
-pore in large numbers. This resulted in 
-much unrest and bloodshed, necessitating 
-stricter legislation and law enforcement 
-and the administration of justice. 
-In particular, there was a need to reorganise the structure of the court in order 
-to provide for a separate division with its 
-own Recorder serving just Singapore and 
+Judiciary and the Bar – and five appendices on treaties; parliamentary acts; letters patent, instructions and standing orders; case references and the related ordinances; and decisions on the applicability of the English statutes.6
+
+In his preface, Braddell acknowledged that the book was modelled after Walter J. Napier’s *An Introduction to the Study of the Law Administered in the Colony of the Straits Settlements* (1898), and was meant to be an update and expansion of Napier’s work. Although Napier’s publication is a 
+small 52-page booklet comprising just three chapters, it was considered important for its discussion on the application of English law in the former British colonies. 
+
+By the 1850s, however, there was much dissatisfaction with the quality of justice administered in Singapore. In 1853–54, Chinese immigration levels reached a new peak when men involved in the civil war in southern China began pouring into Singapore in large numbers. This resulted in much unrest and bloodshed, necessitating stricter legislation and law enforcement and the administration of justice. 
+
+In particular, there was a need to reorganise the structure of the court in order to provide for a separate division with its own Recorder serving just Singapore and
