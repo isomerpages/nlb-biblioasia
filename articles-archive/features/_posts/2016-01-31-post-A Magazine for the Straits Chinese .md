@@ -40,21 +40,6 @@ The magazine was a resounding success with 800 copies of its inaugural issue sel
 The magazine’s success could be attributed to many reasons – chief of which was the quality of its editors, who were not only bilingual but also bicultural, straddling 
 and balancing both Western and Asian points of view.
 
-The magazine’s content was also progressive for its time, with articles that 
-addressed the need to educate not only 
-Chinese males but also nonya or Straits 
-Chinese women. Interestingly, while most 
-articles were routinely penned by men, the 
-eighth volume in 1904 featured the writings 
-of several Chinese women.
-More controversial was perhaps a 
-six-part series initiated by Lim to encourage social reform in marriage, education 
-and attire among the Chinese, in particular, 
-the cutting of the towchang (or braided 
-pigtail) worn by Chinese men during the 
-Qing dynasty. Lim’s arguments against the 
-pigtail led to polarising views among the 
-local Chinese community – as it would in 
-China almost 12 years later in 1911 when 
-reformists and revolutionaries swept 
-the land
+The magazine’s content was also progressive for its time, with articles that addressed the need to educate not only Chinese males but also nonya or Straits Chinese women. Interestingly, while most articles were routinely penned by men, the eighth volume in 1904 featured the writings of several Chinese women.
+
+More controversial was perhaps a six-part series initiated by Lim to encourage social reform in marriage, education and attire among the Chinese, in particular, the cutting of the towchang (or braided pigtail) worn by Chinese men during the Qing dynasty. Lim’s arguments against the pigtail led to polarising views among the local Chinese community – as it would in China almost 12 years later in 1911 when reformists and revolutionaries swept the land
