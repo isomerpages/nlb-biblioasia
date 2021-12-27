@@ -6,16 +6,13 @@ layout: post
 description: ""
 ---
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
-<br><br>
-	Title: The Straits Chinese Magazine: A 
-Quarterly Journal of Oriental and 
-Occidental Culture
-Editors: Lim Boon Keng (1869–1957) and 
-Song Ong Siang (1871–1941)
-Year published: 1897–1907
-Publisher: Koh Yew Hean Press (Singapore)
-Language: English
-Type: Serial (11 volumes; 4 issues a year)
-Call no.: RRARE 959.5 STR
-Accession no.: B03057011F (v.1)
+	<b>Title:</b> <i>The Straits Chinese Magazine: A 
+	Quarterly Journal of Oriental and Occidental Culture</i><br>
+<b>Editors:</b> Lim Boon Keng (1869–1957) and Song Ong Siang (1871–1941)<br>
+<b>Year published:</b> 1897–1907<br>
+<b>Publisher:</b> Koh Yew Hean Press (Singapore)<br>
+<b>Language:</b> English<br>
+<b>Type:</b> Serial (11 volumes; 4 issues a year)<br>
+<b>Call no.:</b> RRARE 959.5 STR<br>
+<b>Accession no.:</b> B03057011F (v.1)
 </span>
