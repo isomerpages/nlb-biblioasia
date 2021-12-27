@@ -16,3 +16,6 @@ description: ""
 <b>Call no.:</b> RRARE 059.9923 CER<br>
 <b>Accession no.:</b> B03057034K
 </span>
+
+<img src="/images/vol-11-issue-4/through-the-eye-glass/E1.JPG">
+<div style="background-color: white;">In <i>Cermin Mata</i>, the lithography technique was used for the first time to print Jawi text that closely resembled the natural flow of the handwritten script. This was a huge breakthrough for Malay publishing in Singapore. <i>Image source: National Library Board, Singapore.</i></div>
