@@ -18,8 +18,5 @@ description: ""
 </span>
 
 <img style="width: 360px; height: 400px;" src="/images/vol-11-issue-4/pulse-of-malayan-literature/P1.JPG">
-<div style="background-color: white;">Pulse is notable for being the first 
-published collection of English verse by a local 
-poet and is said to have heralded the start of a 
-Singaporean/Malayan style of poetry. Image 
+<div style="background-color: white;"><i>Pulse</i> is notable for being the first published collection of English verse by a local poet and is said to have heralded the start of a Singaporean/Malayan style of poetry. <i>Image 
 source: National Library Board, Singapore.</i></div>
