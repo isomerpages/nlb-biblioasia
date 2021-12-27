@@ -146,9 +146,8 @@ In Singapore, the Preservation of Sites and Monuments is the national authority 
 Conservation, on the other hand, is a much broader concept. Instead of perceiving a property as an individual entity, its historical and cultural value is considered in tandem with the surrounding built environment. Conservation can be applied to buildings (individually or in clusters), localities (streets, blocks, environments or precincts) and even special gardens or landscapes. In other words, conservation does not just focus on the physical aspects of the structures that are worth preserving, but also the stories behind them.
 </div>
 
+#### **Heritage Sites Identified in Postwar Singapore**
 <table>
-		<b>Heritage Sites Identified in Postwar Singapore</b><br>
-* indicates a site that is common to both lists.
   <tr>
 		<td><b>Committee for the Preservation of Historic Sites and Antiquities (1954)</b></td>
 		<td><b>Singapore Improvement Trust (1958)</b></td>
@@ -289,6 +288,7 @@ Conservation, on the other hand, is a much broader concept. Instead of perceivin
 		<td>32 Sri Perumal Temple, 397 Serangoon Road</td>
   </tr>
 	</table>
+	* indicates a site that is common to both lists.<br>
 	<img src="/images/Vol-15-issue-2/to-wreck-or-to-recreate/Wreck4.JPG">
 <br>
 
