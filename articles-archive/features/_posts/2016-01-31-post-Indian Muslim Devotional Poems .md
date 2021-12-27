@@ -5,10 +5,9 @@ date: 2016-01-31
 layout: post
 description: ""
 ---
-
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
-	<b>Title:</b> <a href="https://eresources.nlb.gov.sg/printheritage/detail/5f39c786-6019-47c7-895d-ee3e855f5257.aspx" ><i>Munajathu Thirattu</i> </a><b>(முனாஜாத்துத் 
-திரட்டு)</b><br>
+	<b>Title:</b> <a href="https://eresources.nlb.gov.sg/printheritage/detail/5f39c786-6019-47c7-895d-ee3e855f5257.aspx" ><i>Munajathu Thirattu (முனாஜாத்துத் 
+திரட்டு) </i> </a><b></b><br>
 <b>Author:</b> Muhammad Abdul Kadir Pulavar 
 	<b>(முகம்மதுஅப்துல்காதிறு, நாகூர், புலவர்)</b><br>
 <b>Year published:</b> 1872<br>
