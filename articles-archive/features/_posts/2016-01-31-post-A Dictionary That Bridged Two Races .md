@@ -48,15 +48,6 @@ To render the phoneticisation more accurate, Lin indicated the tone of the Chine
 
 The first edition of the dictionary was published as *Tong yi xin yu* (通夷新语) in 18777 (unfortunately the National Library does not own a copy of this). Lin wrote in his introduction that he had originally compiled the dictionary for his newly arrived fellow countrymen in Singapore. It was only through the encouragement of a friend, Chen Fengren (陈凤人) from Chaozhou, that he decided to publish the dictionary.8 For modern-day readers, *Hua yi tong yu* serves as a historical record of words in the Southern Min dialects that are either obsolete or rarely used today.
 
-An in-depth study of the text reveals that many expressions and sentence constructions – a mix of written vernacular Chinese (bai hua;白话), classical Chinese (wen yan;文言), Mandarin (guan hua;官话) and dialect (tu hua;土话) – that were unique to that era – are 
-no longer commonly used today. Linguists who have studied Hua yi tong yu agree that the dictionary helps to track the evolution of borrowed Malay words in the Southern Min dialects and vice versa, a phenomena spurred by prolonged interactions between the migrants and locals.9
+An in-depth study of the text reveals that many expressions and sentence constructions – a mix of written vernacular Chinese (*bai hua*;白话), classical Chinese (*wen yan*;文言), Mandarin (*guan hua*;官话) and dialect (tu hua;土话) – that were unique to that era – are no longer commonly used today. Linguists who have studied *Hua yi tong yu* agree that the dictionary helps to track the evolution of borrowed Malay words in the Southern Min dialects and vice versa, a phenomena spurred by prolonged interactions between the migrants and locals.9
 
-Linguistic insights aside, the dictionary 
-also provides an anthropological snapshot of the lives of these new Chinese 
-residents. The entries include shipping 
-terms and the names of different parts 
-of a ship and the tools used onboard – 
-reflecting the importance of trade in their 
-lives – as well as the names of various 
-types of food and fruits, illnesses, herbs and 
-household items.1
+Linguistic insights aside, the dictionary also provides an anthropological snapshot of the lives of these new Chinese residents. The entries include shipping terms and the names of different parts of a ship and the tools used onboard – reflecting the importance of trade in their lives – as well as the names of various types of food and fruits, illnesses, herbs and household items.1
