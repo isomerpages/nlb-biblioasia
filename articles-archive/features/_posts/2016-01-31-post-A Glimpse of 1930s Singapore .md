@@ -19,13 +19,16 @@ Lee Kip Lin
 </span>
 
 <img src="/images/vol-11-issue-4/a-glimpse-of-1930s-singapore/S1.JPG">
-<div style="background-color: white;">The frontispiece of The Lights of Singapore features a seaside view of Singapore at dusk. <i>Image source: National Library Board, Singapore</i></div>
+<div style="background-color: white;">The frontispiece of The Lights of Singapore features a seaside view of Singapore at dusk. <i>Image source: National Library Board, Singapore.</i></div>
 
 Imagine reading this about Singapore in a travel guide: “one of the cesspools of the world”, a place with “no ancient history, no romantic background”, “a paradise for second-class people”, a city with “wild night-life and opium dens”, and having a “terrible climate” that causes “bad health”.1
 
 An erudite Singapore-born Englishman who disagreed with these swipes about the island felt compelled to write a book and debunk prevailing Western impressions of his birthland.
 
 Published in 1934, Roland St. John Braddell’s *The Lights of Singapore* is an informative but yet light-hearted insider’s look at life in the colony in the early 20th century. Written between April and November 1933,2 the book was mainly targeted at Westerners but its engaging tongue-incheek style won many more readers over, its first print run of 500 copies selling out in only four days.3
+
+<img style="width: 350px; height: 450px;" src="/images/vol-11-issue-4/a-glimpse-of-1930s-singapore/S2.JPG">
+<div style="background-color: white;">A street scene of Singapore’s Chinatown. <i>All rights reserved, Braddell, R. St. J. (1934). The Lights of Singapore. London: Methuen & Co.</i></div>
 
 The book distinguished itself from other expatriate traveller accounts of the day because it was written entirely from the point of view of a local – albeit 
 one who was clearly white and from a privileged class.4
@@ -43,3 +46,21 @@ Braddell also praised Singapore for being one of the few places that had “larg
 [and] low taxation”. One of the astute observations he made in the book was that the island had an “outward modernity” that was underpinned by “age-old beliefs and ancient superstitions”.7 He also wrote of the perennial complaint by locals on Singapore’s lack of culture, a not unfamiliar rhetoric that still exists in contemporary Singapore. 
 
 *The Lights of Singapore* was published in London in July 1934, and sold for $3.50 a copy. The book includes 29 plates of photogravure8 on places of interest in Singapore and Malaya, most of which were taken by Nakajima & Co., a popular photo studio located at the Raffles Hotel.
+
+<img style="width: 350px; height: 450px;" src="/images/vol-11-issue-4/a-glimpse-of-1930s-singapore/S3.JPG">
+<div style="background-color: white;">The National Library has four copies of the first edition of <i>The Lights of Singapore</i> published in 1934. The first, donated by R. Ramachandra, the then principal of Teck Whye Secondary School, on 22 May 1981, carries a 
+handwritten dedication from the author Roland St. John Braddell to a friend. <i>Image source: National Library Board, Singapore.</i></div>
+
+To boost publicity, the book was advertised as “a new book presenting the romance and history of Malaya”, “suitable for sending home”, “full of lore and reminiscence, which will delight those who know something of this portion of the world”, and one that creates “an intimate picture of Singapore” while bringing 
+out “the romance and history of that city as well as Malaysia generally”.9
+
+Those stirring descriptions worked. A second edition was released the same year in September, and a third edition, with revisions and corrections, was published the following year. The fourth and fifth editions were released in 1939 and 1941 respectively. In all, the book sold about 5,000 copies before World War II (1942–45), making Braddell one of Malaya’s most popular authors.10 Subsequent editions were published in 1947, 1966 and 1982, the latter two by Oxford University Press.
+
+The National Library has four copies of the first edition of the book published in 1934. The first was donated by R. Ramachandra, then principal of Teck Whye Secondary School, on 22 May 1981. It carries a handwritten dedication from Braddell to a friend (whose name is not legible) with the message, “My old friend, with deepest esteem”. 
+
+The second and third copies were donated to the library by the late Mr Lee Kip Lin, an architect and author of several architectural books on Singapore and Mr Koh Seow Chuan, founder of DP Architects. The fourth copy comes from the John Bastin Collection. 
+
+<img src="/images/vol-11-issue-4/a-glimpse-of-1930s-singapore/S4.JPG">
+<div style="background-color: white;"> A <i>Straits Times</i> advertisement of the book on 22 July 1934. <i>The Lights of Singapore</i> is so popular that it has been republished several times since it was first printed <i>© The Straits Times.</i></div>
+
+– Written by Gracie Lee
