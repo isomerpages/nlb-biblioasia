@@ -74,8 +74,7 @@ Wang stopped writing in the early 1960s16 after graduating with a Doctorate in H
 Professor at the National University of Singapore, Chairman of the East Asian Institute and Emeritus Professor at the Australian National University.17 Wang‘s friendship with Beda Lim endured after graduation. Lim was the Chief Librarian at the University of Malaya Library from 1965 to 1980. He died in 1999 at the age of 73.18 
 
 <img style="width: 600px; height: 400px;" src="/images/vol-11-issue-4/pulse-of-malayan-literature/P3.JPG">
-<div style="background-color: white;"><i>Pulse</i> is notable for being the first published collection of English verse by a local poet and is said to have heralded the start of a Singaporean/Malayan style of poetry. <i>Image 
-source: National Library Board, Singapore.</i></div>
+<div style="background-color: white;">“To Tigerland” by Wang Gungwu, the first poem in <i>Pulse</i>. <i>Image source: National Library Board, Singapore.</i></div>
 
 – Written by Gracie Lee
 
