@@ -18,7 +18,7 @@ Lim Kong Chuan 林光铨)<br>
 <b>Donated by:</b> Tan Yeok Seong
 </span>
 
-<img style="width: 650px; height: 450px;" src="/images/vol-11-issue-4/dictionary-bridged-2-races/D1.JPG">
+<img style="width: 650px; height: 500px;" src="/images/vol-11-issue-4/dictionary-bridged-2-races/D1.JPG">
 <div style="background-color: white;">Left-hand page: The editor, Li Qinghui, explains in the preface why he and the author, Lin Hengnan, conceived the idea of compiling <i>Hua yi tong yu</i>.<br>
 Right-hand page: Zuo Binglong (左秉隆), the 
 first Chinese Consul to Singapore appointed by 
@@ -32,7 +32,7 @@ population. But attempts to forge a common language in Singapore had begun as ea
 whom spoke Southern Min dialects (闽南语) such as Hokkien[^1] – tried to communicate with the Malay-speaking indigenous population. Several Chinese-Malay dictionaries – listing Malay words with their equivalent 
 terms in Chinese – were produced in the 19th century.[^2] One of the earliest was *Hua yi tong yu* (华夷通语), published in 1883.
 
-<img src="/images/vol-11-issue-4/dictionary-bridged-2-races/D2.JPG">
+<img style="width: 600px; height: 430px;" src="/images/vol-11-issue-4/dictionary-bridged-2-races/D2.JPG">
 <div style="background-color: white;">hese pages in <i>Hua yi tong yu</i> provide the pronunciation for various numerals and silver currencies. Photographed against an antique teakwood table, donated to the National Library Board by George L. Hicks. <i>Image source: National Library Board, Singapore.</i></div>
 
 This earliest known Singapore-published Chinese-Malay dictionary in the National Library’s collection contains more than 2,800 entries in 25 categories. The entries include terms used in disciplines such as cosmology and geography to mathematics as well as common business terms. The second section categorises the entries 
@@ -42,7 +42,7 @@ In the preface penned by Zuo Binglong (左秉隆), the first Chinese Consul to S
 migrants had settled in Nanyang (南洋 or the “South Seas”) to trade with the Malays in the region. Since the migrants – mainly from the Zhangzhou and Quanzhou regions of Fujian province and Chaozhou in Guangdong 
 province – could not conduct their business effectively due to their inability to speak Malay, a dictionary was needed.
 
-<img style="width: 350px; height: 450px;" src="/images/vol-11-issue-4/dictionary-bridged-2-races/D3.JPG">
+<img style="width: 300px; height: 400px;" src="/images/vol-11-issue-4/dictionary-bridged-2-races/D3.JPG">
 <div style="background-color: white;"> Zuo Binglong (左秉隆), the first 
 Chinese Consul to Singapore appointed by the 
 Qing Imperial Court in China, penned the foreword 
