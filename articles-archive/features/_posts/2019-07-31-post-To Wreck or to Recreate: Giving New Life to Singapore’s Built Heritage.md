@@ -244,7 +244,6 @@ Conservation, on the other hand, is a much broader concept. Instead of perceivin
 		<td>23 Elgin Bridge</td>
 		<td>23 Outram Gaol</td>
   </tr>
-	</tr>
 	 <tr>
 		<td>24 Buddhist Temple, Kim Keat Road</td>
 		<td>24 Killiney House (3 Oxley Rise/Belle Vue House)</td>
