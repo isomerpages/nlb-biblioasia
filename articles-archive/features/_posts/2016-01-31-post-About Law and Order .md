@@ -17,6 +17,9 @@ description: ""
 <b>Accession nos.:</b> B03003248I; B03003252D
 </span>
 
+<img style="width: 310px; height: 450px;" src="/images/vol-11-issue-4/about-law-and-order/L1.JPG">
+<div style="background-color: white;">A map showing the British-controlled Straits Settlements territories of Singapore, Melaka and Penang. <i>All rights reserved, Swettenham, F. A. (1907). British Malaya: An Account of the Origin and Progress of British Influence in Malaya. London: John Lane.</i></div>
+
 The implementation of English law in Singapore, along with Penang and Melaka, is detailed in Roland St. John Braddell’s landmark *The Law of the Straits Settlements: A Commentary*. Although this book is not the first attempt at documenting the legal history of Singapore, it has, nonetheless, contributed significantly to its study, and is regarded as a classic by scholars even today.1
 
 Singapore’s legal system can trace its origins to the British colonial era when it first adopted the English legal system. The First Charter of Justice Singapore was established on 6 February 1819, when Stamford Raffles signed a treaty with Sultan 
