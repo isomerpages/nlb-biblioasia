@@ -170,7 +170,7 @@ Oriental Slasher Emporium in Hong Lim Complex; Oriental Emporium & Supermarket i
   </tr>
 	 <tr>
     <td>1985</td>
-    <td>Oriental Kimisawa Superstore opens in Hougang..</td>
+    <td>Oriental Kimisawa Superstore opens in Hougang.</td>
   </tr>
 	 <tr>
     <td>1987</td>
