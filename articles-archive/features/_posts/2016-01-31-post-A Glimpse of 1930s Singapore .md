@@ -63,4 +63,15 @@ The second and third copies were donated to the library by the late Mr Lee Kip L
 <img src="/images/vol-11-issue-4/a-glimpse-of-1930s-singapore/S4.JPG">
 <div style="background-color: white;"> A <i>Straits Times</i> advertisement of the book on 22 July 1934. <i>The Lights of Singapore</i> is so popular that it has been republished several times since it was first printed <i>© The Straits Times.</i></div>
 
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
+	<b>WHO WAS ROLAND ST. JOHN BRADDELL?</b><br><br>
+	<img style="width: 230px; height: 300px;" src="/images/vol-11-issue-4/a-glimpse-of-1930s-singapore/S5.JPG">Portrait of Roland St. John Braddell 
+(1880–1966). <i>All rights reserved, Makepeace, W., Brooke, G. E., & Braddell, R. St. J. (1921). One Hundred Years of Singapore (Vol. II). London: John Murray.</i>
+<br><br>
+Roland St. John Braddell (1880–1966) was a prominent lawyer who contributed much to the public life of Malaya. 
+The third generation of Braddells to settle in the region, he was the eldest son of Thomas de Multon Lee Braddell, Chief Justice of the Federated Malay States (1913–17);1 and grandson of Thomas Braddell, the first Attorney-General of the Straits Settlements (1867–82).2
+	
+Braddell was born in Singapore on 20 December 1880. He received his education at King’s School, Canterbury, and Worcester College, Oxford, where he obtained his Bachelor of Arts degree in 1904. He was called to the Middle Temple Bar in 1905, and the Straits Bar the following year. Braddell then practised at Braddell 
+</span>
+
 – Written by Gracie Lee
