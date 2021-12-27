@@ -86,9 +86,9 @@ Professor at the National University of Singapore, Chairman of the East Asian In
 [^5]:Wang, G. (1950). Pulse (pp. 14–15). Singapore: Beda Lim. Call no.: RCLOS 828.99595 WAN; Lim, S. (1989). The English-language writer in Singapore. In Sandhu, K. S., & Wheatley, P. (Eds.). [*Management of success: The moulding of modern Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5353304) (pp. 523–551). Singapore: Institute of Southeast Asian Studies. Call no.: RSING 959.57 MAN-[HIS].  
 [^6]:Wang, 1950, p. 2; Lim, 1989, pp. 523–551.
 [^7]:Wang, 1950, p. 13; Lim, 1989, pp. 523–551.
-[^8]:Asad, L. (2010). (Ed.). Wang Gungwu: Junzi: Scholar-gentleman in conversation with Asad-ul Iqbal Latif (p. 1). Singapore: Institute of Southeast Asian Studies. Call no.: RSING 959.007202 WAN
-[^9]:Holden, P. (2008, January 10). Introduction to “Learning Me Your Language”. Retrieved from S/PORES website.
-[^10]:Vackey, T. (1955, Michaelmas Term). Editorial. The New Cauldron, 4.
+[^8]:Asad, L. (2010). (Ed.). [*Wang Gungwu: Junzi: Scholar-gentleman in conversation with Asad-ul Iqbal Latif*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13726473) (p. 1). Singapore: Institute of Southeast Asian Studies. Call no.: RSING 959.007202 WAN.
+[^9]:Holden, P. (2008, January 10). *Introduction to “Learning Me Your Language”*. Retrieved from S/PORES website.
+[^10]:Vackey, T. (1955, Michaelmas Term). Editorial. [*The New Cauldron*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4551118), 4.
 [^11]:Holden, 2002, pp. 105–129.
 [^12]:Holden, P. (2002, July 25). Introduction. Retrieved from Post Colonial Web website; Wong P. N. (2009). In the beginnings: university verse in the first decade of the University of Malaya. In Mohammad A. Quayum, P. N. Wong & E. Thumboo, E. (Eds.). Sharing borders: Studies in contemporary Singaporean-Malaysian literature (pp. 78–82). Singapore: National Library Board in partnership with the National Arts Council. Call no.: RSING S820.9 SHA; Talib, I. S. (2002). The development of Singaporean literature in English. In Mohammad A. Quayum, & P. C. Wicks. (Eds.). Singaporean literature in English: A critical reader (p. 5). Malaysia: Universiti Putra Malaysia Press. Call no.: RSING 820.995957 SIN
 [^13]:Holden, 10 Jan 2008.
