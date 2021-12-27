@@ -38,4 +38,10 @@ small 52-page booklet comprising just three chapters, it was considered importan
 
 By the 1850s, however, there was much dissatisfaction with the quality of justice administered in Singapore. In 1853–54, Chinese immigration levels reached a new peak when men involved in the civil war in southern China began pouring into Singapore in large numbers. This resulted in much unrest and bloodshed, necessitating stricter legislation and law enforcement and the administration of justice. 
 
-In particular, there was a need to reorganise the structure of the court in order to provide for a separate division with its own Recorder serving just Singapore and
+In particular, there was a need to reorganise the structure of the court in order to provide for a separate division with its own Recorder serving just Singapore and Melaka. This was made possible by the Third Charter of Justice of 12 August 1855.7 Under the charter, the Court of Judicature was reorganised into two divisions: the first division had jurisdiction over Singapore and Melaka, while the second division had jurisdiction over the Prince of Wales Island and Province Wellesley.8
+
+The next milestone in Singapore legal history – which marked the coming of age of Singapore’s legal system – was the enactment of the Application of the English Law Act in November 1993. The act clarified the extent to which English law is applicable in Singapore, and removed much of the uncertainty about how it applied in the past. It also reduced reliance on English law and made Singapore’s commercial law independent of legislative changes in the United Kingdom, in line 
+with Singapore’s status as a sovereign and 
+independent nation.9
+
+– Written by Irene Li
