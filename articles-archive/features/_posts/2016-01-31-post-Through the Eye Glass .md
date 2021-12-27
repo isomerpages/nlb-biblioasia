@@ -28,22 +28,9 @@ The man behind *Cermin Mata* was Reverend Benjamin Keasberry, a Protestant missi
 Established by Christian missionaries in 1823, Mission Press is the first printing press established in Singapore. The press was specifically set up to print Christian literature that had been translated into various languages for distribution throughout the region. When the London 
 Missionary Society ceased operations in Singapore in 1846, Keasberry decided to remain behind. Having learnt the art of printing in Batavia (present-day Jakarta), he took over the operations of the press and ran it as a commercial enterprise to support his family while running a school for Malay boys.2
 
-Keasberry translated numerous 
-English works into Malay, many of which 
-supported the proselytising works of 
-Christian missionaries. These ranged 
-from books of the Bible such as Genesis 
-and Psalms to literature on Jesus and 
-other biblical characters. He was also 
-known as a printer and publisher of textbooks for use in mission schools. Some 
-of these textbooks were translated into 
-Malay by Abdullah bin Abdul Kadir (also 
-known as Munsyi Abdullah).3
- Abdullah, a 
-devout Muslim of Arab-Indian heritage, 
-collaborated with Keasberry on various 
-publications as copyist, writer, language 
-editor, translator and printer.4
+Keasberry translated numerous English works into Malay, many of which supported the proselytising works of Christian missionaries. These ranged from books of the Bible such as Genesis and Psalms to literature on Jesus and other biblical characters. He was also known as a printer and publisher of textbooks for use in mission schools. Some of these textbooks were translated into 
+Malay by Abdullah bin Abdul Kadir (also known as Munsyi Abdullah).3 Abdullah, a devout Muslim of Arab-Indian heritage, collaborated with Keasberry on various publications as copyist, writer, language editor, translator and printer.4
+
 Keasberry met Abdullah in the late 
 1830s, when the latter was engaged to 
 help him refine his Malay-language skills. 
