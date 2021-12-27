@@ -31,37 +31,13 @@ Missionary Society ceased operations in Singapore in 1846, Keasberry decided to 
 Keasberry translated numerous English works into Malay, many of which supported the proselytising works of Christian missionaries. These ranged from books of the Bible such as Genesis and Psalms to literature on Jesus and other biblical characters. He was also known as a printer and publisher of textbooks for use in mission schools. Some of these textbooks were translated into 
 Malay by Abdullah bin Abdul Kadir (also known as Munsyi Abdullah).3 Abdullah, a devout Muslim of Arab-Indian heritage, collaborated with Keasberry on various publications as copyist, writer, language editor, translator and printer.4
 
-Keasberry met Abdullah in the late 
-1830s, when the latter was engaged to 
-help him refine his Malay-language skills. 
-The collaboration between Abdullah and 
-Keasberry produced several beautifully 
-decorated multi-coloured lithographs of 
-fine manuscripts. 
-Keasberry’s boarding school for boys 
-was set on a hill he had acquired in 1848 
-at River Valley Road, which he renamed 
-Mount Zion. His students were taught 
-English and Malay as well as skills such 
-as printing, lithography, bookbinding and 
-Title: Cermin Mata Bagi Segala Orang Yang 
-Menuntut Pengetahuan (An Eye Glass for 
-All Who Seek Knowledge)
-Authors: Possibly a collaboration between 
-Reverend Benjamin Keasberry (1811–75) 
-and Abdullah bin Abdul Kadir (1797–1854)
-Year published: 1859
-Publisher: Mission Press (Singapore)
-Language: Malay
-Type: Serial; 7 issues (only issues 4, 5, 6 
-and 7 are available in the National Library 
-as a single bound copy)
-Call no.: RRARE 059.9923 CER
-Accession no.: B03057034K
-compositors’ work in both English and 
-Malay type.5
- Mount Zion (or Bukit Zion) was 
+Keasberry met Abdullah in the late 1830s, when the latter was engaged to help him refine his Malay-language skills. The collaboration between Abdullah and 
+Keasberry produced several beautifully decorated multi-coloured lithographs of fine manuscripts. 
+
+Keasberry’s boarding school for boys was set on a hill he had acquired in 1848 at River Valley Road, which he renamed Mount Zion. His students were taught English and Malay as well as skills such as printing, lithography, bookbinding and compositors’ work in both English and 
+Malay type.5 Mount Zion (or Bukit Zion) was 
 also the location of the press.
+
 Keasberry compiled two periodicals 
 before he published Cermin Mata: namely 
 Taman Pengetahuan (1848–52) and Pŭngutib 
