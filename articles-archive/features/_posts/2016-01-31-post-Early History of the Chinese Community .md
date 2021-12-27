@@ -38,6 +38,9 @@ its context against the munificence of the British colonists. The review noted t
 
 Song was not the first writer of choice. Lim Boon Keng, a medical doctor and philanthropist, was initially asked to pen the volume, but he declined. The task then fell on Song, a well-respected Straits Chinese lawyer, scholar and community leader.
 
+<img src="/images/vol-11-issue-4/history-of-chinese-community/P2.JPG">
+<div style="background-color: white;">Lim Boon Keng with his second wife, Grace Yin Pek Ha, and their children, Ena Lim Guat Kheng and Lim Peng Han. Lim, a medical doctor and respected Straits Chinese community leader, is one of many notable Chinese documented in this book. <i>Courtesy of National Archives of Singapore.</i></div>
+
 Born in June 1871, Song was the third son of Song Hoot Kiam, who founded the Straits Chinese Church (present-day Prinsep Street Presbyterian Church). In 1888, Song 
 was awarded the Queen’s Scholarship to study law at Downing College in Cambridge, England. He later became a member of Middle Temple and the first Straits Chinese barrister, setting up the legal firm, Aitken and Ong Siang, at the age of 22.
 
@@ -47,6 +50,9 @@ vice-president. Some of the proceeds from the sale of *One Hundred Years’ Hist
 In 1931, the Rotary Club made Song an honorary member, a tribute paid only to individuals who had excelled in community service. Five years later, in 1936, 
 Song became the first Malayan Chinese and the second Asian in Malaya – apart from the Malay rulers – to receive a knighthood when he was conferred the Knight Commander of the Order of the British Empire (K.B.E).7
  
+ <img src="/images/vol-11-issue-4/history-of-chinese-community/P3.JPG">
+<div style="background-color: white;">A group of Queen’s Scholars in a photograph taken in 1880. Fellow Peranakan Lim Boon Keng – who was first asked to write the book but declined – is seated on the ground with his arms folded, while Song Ong Siang is next to him with his hat on his lap. <i>Courtesy of National Archives of Singapore.</i></div>
+
 – Written by Irene Lim
 
 #### **NOTES**
