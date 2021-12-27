@@ -44,6 +44,15 @@ The magazine’s content was also progressive for its time, with articles that a
 
 More controversial was perhaps a six-part series initiated by Lim to encourage social reform in marriage, education and attire among the Chinese, in particular, the cutting of the towchang (or braided pigtail) worn by Chinese men during the Qing dynasty. Lim’s arguments against the pigtail led to polarising views among the local Chinese community – as it would in China almost 12 years later in 1911 when reformists and revolutionaries swept the land.
 
-From its first issue in 1897 until the last in 1907, a total of 11 volumes were published, with four quarterly issues a year on topics such as business, current events, biography, literature and science. Some articles are accompanied by illustrations and photographs, while several include Chinese script, particularly when explaining Chinese literature, thought and culture. 
+From its first issue in 1897 until the last in 1907, a total of 11 volumes were published, with four quarterly issues a year on topics such as business, current events, biography, literature and science. Some articles are accompanied by illustrations and photographs, while several include Chinese script, particularly when explaining Chinese literature, thought and culture. 
 
 – Written by Bonny Tan
+
+#### **NOTES**
+1.	Wu, L. (1904, March). The Straits Settlements Queen’s scholarships. The Straits Chinese Magazine, 8(1), p. 1. Microfilm no.: NL 267 
+2.	Jurgen, R. (1999, January 3). The Babas: Changing roles. The Straits Times, p. 28. Retrieved from NewspaperSG.
+3.	Editorial. (1897, March). The Straits Chinese Magazine, 1(1), p. 2. Microfilm no.: NL 267 
+4.	Editorial – The need for an Asiatic daily. (1905, June). The Straits Chinese Magazine, 9 (2), p. 41. Microfilm no.: NL 267
+5.	Revival of Straits Chinese Annual. (1929, November 26). The Straits Times, p. 15. Retrieved from NewspaperSG.
+6.	News and notes – ourselves. (1903, December). The Straits Chinese Magazine, 7(4), p. 160. Microfilm no.: NL 267 
+7.	Editorial. (1904, March). The Straits Chinese Magazine, 8 (1), p. 1.  Microfilm no.: NL 267
