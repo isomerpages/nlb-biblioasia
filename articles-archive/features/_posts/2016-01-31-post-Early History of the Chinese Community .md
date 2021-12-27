@@ -44,4 +44,9 @@ was awarded the Queen’s Scholarship to study law at Downing College in Cambrid
 Besides serving as a legislative councillor, Song was also involved in various efforts to improve the status of the Straits Chinese community. A strong advocate for educational reform, Song actively campaigned for the establishment of the Singapore Chinese Girls’ School, and took office as one of its governors and later as 
 vice-president. Some of the proceeds from the sale of *One Hundred Years’ History of the Chinese in Singapore* were donated to the school’s building fund. Song also collaborated with Lim Boon Keng to produce *The Straits Chinese Magazine* from 1897 to 1907 (see page 84).6
 
-In 1931, the Rotary Club made Song an honorary member, a tribute paid only to individuals who had excelled in com
+In 1931, the Rotary Club made Song an honorary member, a tribute paid only to individuals who had excelled in community service. Five years later, in 1936, 
+Song became the first Malayan Chinese and the second Asian in Malaya – apart from the Malay rulers – to receive a knighthood when he was conferred the Knight Commander of the Order of the British Empire (K.B.E).7
+ 
+– Written by Irene Lim
+
+#### **NOTES**
