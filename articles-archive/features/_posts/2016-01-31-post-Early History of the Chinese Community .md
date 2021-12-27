@@ -17,3 +17,10 @@ Development, Progress and Prosperity of Singapore; of Events and Incidents Conce
 <b>Accession no.:</b> B20048226B<br>
 <b>Donated by:</b> Lee Kip Lin
 </span>
+
+<img src="/images/vol-11-issue-4/history-of-chinese-community/P1.JPG">
+<div style="background-color: white;">The title page of One Hundred Years’ History of the 
+Chinese in Singapore. The frontispiece features a 
+picture of the Peranakan author Song Ong Siang 
+and his wife. Image source: National Library 
+Board, Singapore.</i></div>
