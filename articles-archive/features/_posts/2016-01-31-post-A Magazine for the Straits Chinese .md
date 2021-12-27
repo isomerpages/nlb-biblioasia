@@ -49,7 +49,7 @@ From its first issue in 1897 until the last in 1907, a total of 11 volumes were 
 – Written by Bonny Tan
 
 #### **NOTES**
-[^1]:Wu, L. (1904, March). The Straits Settlements Queen’s scholarships. The Straits Chinese Magazine, 8(1), p. 1. Microfilm no.: NL 267 
+[^1]:Wu, L. (1904, March). The Straits Settlements Queen’s scholarships. [*The Straits Chinese Magazine*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5813779), 8(1), p. 1. Microfilm no.: NL 267 
 [^2]:Jurgen, R. (1999, January 3). The Babas: Changing roles. The Straits Times, p. 28. Retrieved from NewspaperSG.
 [^3]:Editorial. (1897, March). The Straits Chinese Magazine, 1(1), p. 2. Microfilm no.: NL 267 
 [^4]:Editorial – The need for an Asiatic daily. (1905, June). The Straits Chinese Magazine, 9 (2), p. 41. Microfilm no.: NL 267
