@@ -91,33 +91,15 @@ the recommendations he made in the Allen-Braddell report of 1955.7 He retired to
 3 As I was saying. (1933, October 7). <i>The Singapore Free Press and Mercantile Advertiser</i> (1884–1942), p. 8. Retrieved from NewspaperSG; Makepeace, W., Brooke, G. E., & Braddell, R. St. J. (Eds.). (1991). <i>One hundred 
 years of Singapore</i> (Vol. 2, p. 430). Singapore: 
 Oxford University Press. Call no.: RSING 959.57 ONE.<br><br>
-4 Dato Roland Braddell appointed to Johore 
-Executive Council. (1936, April 27). <i>The Straits 
-Times</i>, p. 12; Braddell retires, cuts last link. 
-(1960, November 26). <i>The Straits Times</i>, p. 9; 
-Ramani, R. (1968, August 28). Roland Braddell. 
-<i>The Straits Times</i>, p. 9. Retrieved from 
-NewspaperSG.<br><br>
-5 Centenary history of Singapore. (1920, November 
-15). <i>The Singapore Free Press and Mercantile 
-Advertiser</i> (1884–1942), p. 6; Gaming and gambling.
-(1911, November 8). <i>The Singapore Free Press 
-and Mercantile Advertiser</i> (1884–1942), p. 12; 
-The making of a colony. (1916, February 19). <i>The 
-Straits Times</i>. p. 6; Intimate book on Malaya. (1934, 
-July 22). <i>The Straits Times</i>, p. 7; Retrieved from 
+4 Dato Roland Braddell appointed to Johore Executive Council. (1936, April 27). <i>The Straits Times</i>, p. 12; Braddell retires, cuts last link. (1960, November 26). <i>The Straits Times</i>, p. 9; Ramani, R. (1968, August 28). Roland Braddell. <i>The Straits Times</i>, p. 9. Retrieved from NewspaperSG.<br><br>
+5 Centenary history of Singapore. (1920, November 15). <i>The Singapore Free Press and Mercantile Advertiser</i> (1884–1942), p. 6; Gaming and gambling.
+(1911, November 8). <i>The Singapore Free Press and Mercantile Advertiser</i> (1884–1942), p. 12; The making of a colony. (1916, February 19). <i>The Straits Times</i>. p. 6; Intimate book on Malaya. (1934, July 22). <i>The Straits Times</i>, p. 7; Retrieved from 
 NewspaperSG.<br><br>
 6 <i>The Straits Times</i>, 26 Nov 1960, p. 9; Sir Roland 
-Braddell. (1948, June 11). <i>The Straits Times</i>,
-p. 4; Singapore citizen. (1951, July 21). <i>The 
-Straits Times</i>, p. 6; “The Lights of Singapore”. 
-(1934, July 30). <i>The Singapore Free Press 
-and Mercantile Advertiser</i> (1884–1942), p. 8. 
-Retrieved from NewspaperSG.<br><br>
-7 Death in London of Sir Roland Braddell. (1966, 
-November 17). The Straits Times, p. 1. Retrieved 
+Braddell. (1948, June 11). <i>The Straits Times</i>, p. 4; Singapore citizen. (1951, July 21). <i>The Straits Times</i>, p. 6; “The Lights of Singapore”. (1934, July 30). <i>The Singapore Free Press and Mercantile Advertiser</i> (1884–1942), p. 8. Retrieved from NewspaperSG.<br><br>
+7 Death in London of Sir Roland Braddell. (1966, November 17). <i>The Straits Times</i>, p. 1. Retrieved 
 from NewspaperSG.<br><br>
-8 The Straits Times, 17 Nov 1966, p. 1
+8 <i>The Straits Times</i>, 17 Nov 1966, p. 1
 </span>
 
 – Written by Gracie Lee
