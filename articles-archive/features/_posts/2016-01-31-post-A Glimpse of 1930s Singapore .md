@@ -103,3 +103,15 @@ from NewspaperSG.<br><br>
 </span>
 
 – Written by Gracie Lee
+
+#### **NOTES**
+[^1]:Braddell, R. (1982). The lights of Singapore (pp. 3–4, 14, 17, 19, 22–23). Kuala Lumpur: Oxford University Press. Call no.: RSING 959.57 BRA-[HIS]
+[^2]:The Wanderer. (1934, July 29). Mainly about Malayans. The Straits Times, p. 2. Retrieved from NewspaperSG.
+[^3]:The lights of Singapore. (1934, September 2). The Straits Times, p. 5. Retrieved from NewspaperSG.
+[^4]:Wicks, P. C. (1986, September). [Review of] The lights of Singapore by Roland Braddell; glimpses into life in Malayan lands by John Turnbull Thomson. Journal of Southeast Asian Studies, 17(2), 381–383. Retrieved from JSTOR; “The lights of Singapore”. (1934, July 30). The Singapore Free Press, p. 8; W. A. H. (1934, July 30). Today’s special article. The Straits Times, p. 12. Retrieved from NewspaperSG.
+[^5]:Notes of the day. (1935, January 14). The Straits Times, p. 10. Retrieved from NewspaperSG.
+[^6]:Intimate book on Malaya. (1934, July 22). The Straits Times, p. 7. Retrieved from NewspaperSG.
+[^7]:Braddell, 1982, pp. 39, 47–48.
+[^8]:Page 9 Advertisements Column 1. (1934, August 1). The Singapore Free Press and Mercantile Advertiser (1884–1942), p. 9. Retrieved from NewspaperSG.
+[^9]:The Singapore Free Press and Mercantile Advertiser (1884–1942), 1 Aug 1934, p. 9; Page 16 Advertisements Column 1. (1935, November 16), The Singapore Free Press and Mercantile Advertiser (1884–1942), p. 16; Page 7 Advertisements Column 1. (1934, July 22). The Straits Times, p. 7; Page 9 Advertisements Column 1. (1934, June 23). The Singapore Free Press and Mercantile Advertiser (1884–1942), p. 9. Retrieved from NewspaperSG.
+[^10]:Colony Cavalcade: Malayan record. (1935, November 3). The Straits Times, p. 2; Black market in books. (1947, July 20). The Straits Times, p. 5. Retrieved from NewspaperSG.
