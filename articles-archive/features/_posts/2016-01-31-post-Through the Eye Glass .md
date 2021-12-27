@@ -20,18 +20,15 @@ description: ""
 <img src="/images/vol-11-issue-4/through-the-eye-glass/E1.JPG">
 <div style="background-color: white;">In <i>Cermin Mata</i>, the lithography technique was used for the first time to print Jawi text that closely resembled the natural flow of the handwritten script. This was a huge breakthrough for Malay publishing in Singapore. <i>Image source: National Library Board, Singapore.</i></div>
 
-The journal Cermin Mata Bagi Segala Orang Yang Menuntut Pengetahuan is among the earliest Malay serial publications existing today. Translated literally as An “Eye Glass for All Who Seek Knowledge”, it was one of the most ambitious and voluminous of all 19th-century missionary journals printed in Malaya.1 Seven issues of Cermin Mata in Jawi – the modified Arab script used to 
+The journal *Cermin Mata Bagi Segala Orang Yang Menuntut Pengetahuan* is among the earliest Malay serial publications existing today. Translated literally as An “Eye Glass for All Who Seek Knowledge”, it was one of the most ambitious and voluminous of all 19th-century missionary journals printed in Malaya.1 Seven issues of *Cermin Mata* in Jawi – the modified Arab script used to 
 write the Malay language – were produced as quarterly publications beginning from April 1858. Each issue contains 100 pages and comes with elaborate, coloured frontispieces and chapter headings.
 
-The man behind Cermin Mata was 
-Reverend Benjamin Keasberry, a Protestant 
-missionary who moved to Singapore in 1839 
-when he saw the potential for doing missionary work among the Malays while assisting 
-at the Mission Press.
+The man behind Cermin Mata was Reverend Benjamin Keasberry, a Protestant missionary who moved to Singapore in 1839 when he saw the potential for doing missionary work among the Malays while assisting at the Mission Press.
+
 Established by Christian missionaries 
 in 1823, Mission Press is the first printing 
 press established in Singapore. The press 
 was specifically set up to print Christian literature that had been translated 
 into various languages for distribution 
 throughout the region. When the London 
-Missionary Society ceased operations in 
+Missionary Society ceased operations in
