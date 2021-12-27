@@ -38,29 +38,10 @@ its context against the munificence of the British colonists. The review noted t
 
 Song was not the first writer of choice. Lim Boon Keng, a medical doctor and philanthropist, was initially asked to pen the volume, but he declined. The task then fell on Song, a well-respected Straits Chinese lawyer, scholar and community leader.
 
-Born in June 1871, Song was the third son of Song Hoot Kiam, who founded the 
-Straits Chinese Church (present-day Prinsep 
-Street Presbyterian Church). In 1888, Song 
-was awarded the Queen’s Scholarship to 
-study law at Downing College in Cambridge, 
-England. He later became a member of 
-Middle Temple and the first Straits Chinese 
-barrister, setting up the legal firm, Aitken 
-and Ong Siang, at the age of 22.
+Born in June 1871, Song was the third son of Song Hoot Kiam, who founded the Straits Chinese Church (present-day Prinsep Street Presbyterian Church). In 1888, Song 
+was awarded the Queen’s Scholarship to study law at Downing College in Cambridge, England. He later became a member of Middle Temple and the first Straits Chinese barrister, setting up the legal firm, Aitken and Ong Siang, at the age of 22.
 
-Besides serving as a legislative councillor, Song was also involved in various 
-efforts to improve the status of the Straits 
-Chinese community. A strong advocate 
-for educational reform, Song actively 
-campaigned for the establishment of the 
-Singapore Chinese Girls’ School, and took 
-office as one of its governors and later as 
-vice-president. Some of the proceeds from 
-the sale of One Hundred Years’ History of 
-the Chinese in Singapore were donated to 
-the school’s building fund. Song also collaborated with Lim Boon Keng to produce 
-The Straits Chinese Magazine from 1897 
-to 1907 (see page 84).6
-In 1931, the Rotary Club made Song 
-an honorary member, a tribute paid only 
-to individuals who had excelled in com
+Besides serving as a legislative councillor, Song was also involved in various efforts to improve the status of the Straits Chinese community. A strong advocate for educational reform, Song actively campaigned for the establishment of the Singapore Chinese Girls’ School, and took office as one of its governors and later as 
+vice-president. Some of the proceeds from the sale of *One Hundred Years’ History of the Chinese in Singapore* were donated to the school’s building fund. Song also collaborated with Lim Boon Keng to produce *The Straits Chinese Magazine* from 1897 to 1907 (see page 84).6
+
+In 1931, the Rotary Club made Song an honorary member, a tribute paid only to individuals who had excelled in com
