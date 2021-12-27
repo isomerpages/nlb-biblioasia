@@ -25,4 +25,9 @@ Imagine reading this about Singapore in a travel guide: “one of the cesspools 
 
 An erudite Singapore-born Englishman who disagreed with these swipes about the island felt compelled to write a book and debunk prevailing Western impressions of his birthland.
 
-Published in 1934, Roland St. John Braddell’s *The Lights of Singapore* is an informative but yet light-hearted insider’s look at life in the colony in the early 20th 
+Published in 1934, Roland St. John Braddell’s *The Lights of Singapore* is an informative but yet light-hearted insider’s look at life in the colony in the early 20th century. Written between April and November 1933,2 the book was mainly targeted at Westerners but its engaging tongue-incheek style won many more readers over, its first print run of 500 copies selling out in only four days.3
+
+The book distinguished itself from other expatriate traveller accounts of the day because it was written entirely from the point of view of a local – albeit 
+one who was clearly white and from a privileged class.4
+As one reviewer so succinctly put it: “to many European 
+residents Mr Braddell has given a new pair of spectacles through which to see Singapore”.5
