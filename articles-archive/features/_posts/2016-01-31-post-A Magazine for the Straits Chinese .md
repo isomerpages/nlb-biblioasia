@@ -22,17 +22,9 @@ description: ""
 
 In the 1890s, a group of Peranakan (Straits-born Chinese) intellectuals decided to publish a magazine for the Straits community in Malaya.
 
- With China in the throes of political 
-change, the Straits Chinese in Malaya were 
-politically and financially on the rise. The 
-magazine’s editors, Lim Boon Keng and Song 
-Ong Siang, were educated professionals and 
-respected community leaders.1
- Against this 
-emerging backdrop, they sought not only to 
-articulate a new definition of being Chinese 
-in British Malaya, but also address the concerns of all who were Straits-born, including 
-Malays, Eurasians and Indians.
+With China in the throes of political change, the Straits Chinese in Malaya were politically and financially on the rise. The magazine’s editors, Lim Boon Keng and Song 
+Ong Siang, were educated professionals and respected community leaders.1 Against this emerging backdrop, they sought not only to articulate a new definition of being Chinese in British Malaya, but also address the concerns of all who were Straits-born, including Malays, Eurasians and Indians.
+
 Thus was born The Straits Chinese 
 Magazine: A Quarterly Journal of Oriental 
 and Occidental Culture. First published in 
