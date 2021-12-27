@@ -81,7 +81,8 @@ Legal achievements aside, Braddell was also known as a scholar of Malayan histor
 Braddell made many contributions to other areas of public service as a municipal commissioner; member of the Singapore Housing Commission;president of Singapore Rotary Club; president of the Malayan Branch of the Royal Asiatic Society, and president of the Singapore Art Society, among other appointments. 
 Described as a “real Malayan par excellence”, Braddell was knighted in 1948 for his services to Malaya.6
 	<br><br>
-In July 1951, Braddell left Singapore but returned to Kuala Lumpur two years later to start up his legal practice there. He played a part in the establishment 
+In July 1951, Braddell left Singapore but returned to Kuala Lumpur two years later to start up his legal practice there. He played a part in the establishment of the law faculty in the University of Malaya in Singapore through 
+the recommendations he made in the Allen-Braddell report of 1955.7 He retired to England in 1960, and died in London on 15 November 1966.8
 </span>
 
 – Written by Gracie Lee
