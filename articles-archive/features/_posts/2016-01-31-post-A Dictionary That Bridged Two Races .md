@@ -6,17 +6,14 @@ layout: post
 description: ""
 ---
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
-<br>
-	<b>Title:</b> Hua yi tong yu (华夷通语)
-<b>Author: Lin Hengnan 林衡南 (also known as 
-Lim Kong Chuan 林光铨)
-<b>Year published: 1883
-<b>Publisher: Koh Yew Hean Press 古友轩 
-(Singapore)
-<b>Language: Chinese (Southern 
-Min dialect)
-<b>Type: Book; 252 pages
-<b>Call no.: RRARE Chinese 499.23824151 LHN
-<b>Accession no.: B03018482D
-<b>Donated by: Tan Yeok Seong
+	<b>Title:</b> Hua yi tong yu (华夷通语)<br>
+<b>Author:</b> Lin Hengnan 林衡南 (also known as 
+Lim Kong Chuan 林光铨)<br>
+<b>Year published:</b> 1883<br>
+<b>Publisher:</b> Koh Yew Hean Press 古友轩(Singapore)<br>
+<b>Language:</b> Chinese (Southern Min dialect)<br>
+<b>Type:</b> Book; 252 pages<br>
+<b>Call no.:</b> RRARE Chinese 499.23824151 LHN<br>
+<b>Accession no.:</b> B03018482D<br>
+<b>Donated by:</b> Tan Yeok Seong
 </span>
