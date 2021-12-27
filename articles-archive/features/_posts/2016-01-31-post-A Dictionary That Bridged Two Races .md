@@ -50,4 +50,11 @@ The first edition of the dictionary was published as *Tong yi xin yu* (通夷新
 
 An in-depth study of the text reveals that many expressions and sentence constructions – a mix of written vernacular Chinese (*bai hua*;白话), classical Chinese (*wen yan*;文言), Mandarin (*guan hua*;官话) and dialect (tu hua;土话) – that were unique to that era – are no longer commonly used today. Linguists who have studied *Hua yi tong yu* agree that the dictionary helps to track the evolution of borrowed Malay words in the Southern Min dialects and vice versa, a phenomena spurred by prolonged interactions between the migrants and locals.9
 
-Linguistic insights aside, the dictionary also provides an anthropological snapshot of the lives of these new Chinese residents. The entries include shipping terms and the names of different parts of a ship and the tools used onboard – reflecting the importance of trade in their lives – as well as the names of various types of food and fruits, illnesses, herbs and household items.1
+Linguistic insights aside, the dictionary also provides an anthropological snapshot of the lives of these new Chinese residents. The entries include shipping terms and the names of different parts of a ship and the tools used onboard – reflecting the importance of trade in their lives – as well as the names of various types of food and fruits, illnesses, herbs and household items.10
+
+The dictionary was edited by Li Qinghui (李清辉) and published by Lin’s own publishing house, Gu You Xuan (古友轩), also known as Koh Yew Hean Press, established 
+in the 1860s at Telok Ayer Street.11
+
+Lin wrote other books, and in 1890, founded the Chinese newspaper called Xing bao (星报).12 After Lin died, the newspaper was taken over by his son who eventually sold it to Lim Boon Keng. The latter renamed it Ri xin bao (日新报) in 1899.13
+ 
+– Written by Lee Meiyu
