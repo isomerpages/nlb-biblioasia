@@ -17,5 +17,5 @@ description: ""
 <b>Accession no.:</b> B03057011F (v.1)
 </span>
 
-<img src="/images/vol-11-issue-4/">
+<img src="/images/vol-11-issue-4/a-magazine-straits-chinese/C1.JPG">
 <div style="background-color: white;"></i></div>
