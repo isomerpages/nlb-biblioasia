@@ -53,12 +53,12 @@ independent nation.9
 – Written by Irene Li
 
 #### 	**NOTES**
-[^1]:Tan, K. Y. L. (Ed.). (2005). Essays in Singapore legal history: An introduction. In K. Y. L. Tan. (Ed.), Essays in Singapore legal history (pp. 2, 41). Singapore: Marshall Cavendish Academic and the Singapore Academy of Law. Call no.: RSING 349.5957 ESS
-[^2]:Supreme Court. (2010, May 21). Milestones in Singapore’s legal history. Retrieved from Supreme Court Singapore website. 
-[^3]:Singapore Academy of Law. (2006, November 30). Tracing the roots of our legal system. Retrieved from Singapore Academy of Law website. 
-[^4]:Chan, H. H. M. (1995). The legal system of Singapore (p. 6). Singapore: Butterworth Asia. Call no.: RSING 349.5957 CHA; Phang, A. B. L. (2005). The Reception of the English Law. In K. Y. L. Tan. (Ed.), Essays in Singapore legal history (p. 7). Singapore: Marshall Cavendish Academic and the Singapore Academy of Law. Call no.: RSING 349.5957 ESS
-[^5]:Chan, 1995, pp. 8–9.
-[^6]:Braddell, R. St. J. (1915). The law of the Straits Settlements: A commentary. Singapore: Kelly & Walsh. Microfilm no.: NL 5723 
-[^7]:Hickling, R. H. (1992). Essays in Singapore law (pp. 79–80). Petaling Jaya: Pelanduk Publications. Call no.: RSING 349.5957 HIC; Chan, 1995, pp. 4–5.
+[^1]:Tan, K. Y. L. (Ed.). (2005). Essays in Singapore legal history: An introduction. In K. Y. L. Tan. (Ed.), [*Essays in Singapore legal history*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12355843) (pp. 2, 41). Singapore: Marshall Cavendish Academic and the Singapore Academy of Law. Call no.: RSING 349.5957 ESS
+[^2]:Supreme Court. (2010, May 21). *Milestones in Singapore’s legal history*. Retrieved from Supreme Court Singapore website. 
+[^3]:Singapore Academy of Law. (2006, November 30). *Tracing the roots of our legal system*. Retrieved from Singapore Academy of Law website. 
+[^4]:Chan, H. H. M. (1995). [*The legal system of Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7602243) (p. 6). Singapore: Butterworth Asia. Call no.: RSING 349.5957 CHA; Phang, A. B. L. (2005). The Reception of the English Law. In K. Y. L. Tan. (Ed.), [*Essays in Singapore legal history*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12355843) (p. 7). Singapore: Marshall Cavendish Academic and the Singapore Academy of Law. Call no.: RSING 349.5957 ESS.
+[^5]:[Chan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7602243), 1995, pp. 8–9.
+[^6]:Braddell, R. St. J. (1915). *The law of the Straits Settlements: A commentary*. Singapore: Kelly & Walsh. Microfilm no.: NL 5723 
+[^7]:Hickling, R. H. (1992). [*Essays in Singapore law*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6335083) (pp. 79–80). Petaling Jaya: Pelanduk Publications. Call no.: RSING 349.5957 HIC; [Chan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7602243), 1995, pp. 4–5.
 [^8]:Supreme Court, 21 May 2010. 
-[^9]:Chan, 1995, pp. 17–20; Phang, 2005, p. 15.
+[^9]:[Chan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7602243), 1995, pp. 17–20; Phang, 2005, p. 15.
