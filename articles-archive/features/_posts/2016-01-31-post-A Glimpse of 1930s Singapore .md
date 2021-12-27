@@ -17,3 +17,12 @@ description: ""
 <b>Copies donated by:</b> R. Ramachandra and 
 Lee Kip Lin
 </span>
+
+<img src="/images/vol-11-issue-4/a-glimpse-of-1930s-singapore/S1.JPG">
+<div style="background-color: white;">The frontispiece of The Lights of Singapore features a seaside view of Singapore at dusk. <i>Image source: National Library Board, Singapore</i></div>
+
+Imagine reading this about Singapore in a travel guide: “one of the cesspools of the world”, a place with “no ancient history, no romantic background”, “a paradise for second-class people”, a city with “wild night-life and opium dens”, and having a “terrible climate” that causes “bad health”.1
+
+An erudite Singapore-born Englishman who disagreed with these swipes about the island felt compelled to write a book and debunk prevailing Western impressions of his birthland.
+
+Published in 1934, Roland St. John Braddell’s *The Lights of Singapore* is an informative but yet light-hearted insider’s look at life in the colony in the early 20th 
