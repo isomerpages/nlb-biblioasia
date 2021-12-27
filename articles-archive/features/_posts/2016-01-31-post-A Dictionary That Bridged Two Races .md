@@ -60,9 +60,9 @@ Lin wrote other books, and in 1890, founded the Chinese newspaper called Xing ba
 – Written by Lee Meiyu
 
 #### **NOTES**
-[^1]:Straits Settlements Department of Statistics. (1883). Blue Book (p. P6). Singapore: Government Printing Office. Microfilm no.: NL 30780
-[^2]:张嘉星. (2002). 印尼、新、马闽南方言文献述要. 漳州师范学院学报（哲学社会科学版）, 3, 73–74. Retrieved from CNKI. 
-[^3]:李如龙. (1998). 华夷通语研究. 方言, 2, 105–106. Retrieved from CNKI.
+[^1]:Straits Settlements Department of Statistics. (1883). *Blue Book* (p. P6). Singapore: Government Printing Office. Microfilm no.: NL 30780
+[^2]:张嘉星. (2002). 印尼、新、马闽南方言文献述要. *漳州师范学院学报（哲学社会科学版)*, 3, 73–74. Retrieved from CNKI. 
+[^3]:李如龙. (1998). 华夷通语研究. *方言, 2*, 105–106. Retrieved from CNKI.
 [^4]:林衡南. (1883). 华夷通语序. 华夷通语. 新加坡: 古月轩. Retrieved from BookSG.
 [^5]:李如龙, 1998, pp. 106, 108–122. 
 [^6]:李如龙, 1998, pp. 106, 108–122. 
@@ -70,6 +70,6 @@ Lin wrote other books, and in 1890, founded the Chinese newspaper called Xing ba
 [^8]:林衡南, 1883, 自叙.
 [^9]:李如龙, 1998, pp. 106, 108–122. 
 [^10]:李如龙, 1998, pp. 105-106. 
-[^11]:林衡南, 1883, 华夷通语序; 郑文辉 [Zheng, Wenhui]. (1973). 新加坡华文报业史: 1881–1972 [Xinjiapo Hua wen bao ye shi: 1881–1972] (pp. 25–26). 新加坡: 新马出版印刷公司 [Xinjiapo: Xin ma chu ban yin shua]. Call no.: RCLOS 079.5957 CWH-[AKS]
-[^12]:叶观仕编著 (1999). 马新华人录 (1806 – 2000) (pp. 27–28). 吉隆坡: 名人出版社. Call no.: RSING q070.922595 WHO
+[^11]:林衡南, 1883, 华夷通语序; 郑文辉 [Zheng, Wenhui]. (1973). [新加坡华文报业史: 1881–1972](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84469781) [Xinjiapo Hua wen bao ye shi: 1881–1972] (pp. 25–26). 新加坡: 新马出版印刷公司 [Xinjiapo: Xin ma chu ban yin shua]. Call no.: RCLOS 079.5957 CWH-[AKS]
+[^12]:叶观仕编著 (1999). [马新华人录 (1806 – 2000)](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9841126) (pp. 27–28). 吉隆坡: 名人出版社. Call no.: RSING q070.922595 WHO
 [^13]:郑文辉, 1973, p. 29.
