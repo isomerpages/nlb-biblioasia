@@ -18,7 +18,7 @@ Lim Kong Chuan 林光铨)<br>
 <b>Donated by:</b> Tan Yeok Seong
 </span>
 
-<img src="/images/vol-11-issue-4/dictionary-bridged-2-races/D1.JPG">
+<img style="width: 600px; height: 450px;" src="/images/vol-11-issue-4/dictionary-bridged-2-races/D1.JPG">
 <div style="background-color: white;">Left-hand page: The editor, Li Qinghui, explains in the preface why he and the author, Lin Hengnan, conceived the idea of compiling <i>Hua yi tong yu</i>.<br>
 Right-hand page: Zuo Binglong (左秉隆), the 
 first Chinese Consul to Singapore appointed by 
