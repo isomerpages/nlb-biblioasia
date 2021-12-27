@@ -177,7 +177,7 @@ Oriental Slasher Emporium in Hong Lim Complex; Oriental Emporium & Supermarket i
     <td>Emporium Holdings Group is liquidated.</td>
   </tr>
 </table>
-
+<br>
 <div style="background-color: white;">
 <img src="/images/Vol-15-issue-2/oriental-emporium/Emporium7.jpg" style="width: 100px; height: 100px;">
 <b>Kam Kit Geok</b>, who discovered and joined the archive profession by chance, works at the National Archives of Singapore. She finds archival work meaningful and interesting, and enjoys learning new things through the archives.
