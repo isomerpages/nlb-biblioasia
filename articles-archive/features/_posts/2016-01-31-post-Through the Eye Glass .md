@@ -6,8 +6,8 @@ layout: post
 description: ""
 ---
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
-	<b>Title:</b> Cermin Mata Bagi Segala Orang Yang 
-Menuntut Pengetahuan (An Eye Glass for All Who Seek Knowledge)<br>
+	<b>Title:</b> <i>Cermin Mata Bagi Segala Orang Yang 
+	Menuntut Pengetahuan (An Eye Glass for All Who Seek Knowledge)</i><br>
 <b>Authors:</b> Possibly a collaboration between Reverend Benjamin Keasberry (1811–75) and Abdullah bin Abdul Kadir (1797–1854)<br>
 <b>Year published:</b> 1859<br>
 <b>Publisher:</b> Mission Press (Singapore)<br>
