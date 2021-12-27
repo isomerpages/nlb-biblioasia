@@ -42,4 +42,8 @@ and balancing both Western and Asian points of view.
 
 The magazine’s content was also progressive for its time, with articles that addressed the need to educate not only Chinese males but also nonya or Straits Chinese women. Interestingly, while most articles were routinely penned by men, the eighth volume in 1904 featured the writings of several Chinese women.
 
-More controversial was perhaps a six-part series initiated by Lim to encourage social reform in marriage, education and attire among the Chinese, in particular, the cutting of the towchang (or braided pigtail) worn by Chinese men during the Qing dynasty. Lim’s arguments against the pigtail led to polarising views among the local Chinese community – as it would in China almost 12 years later in 1911 when reformists and revolutionaries swept the land
+More controversial was perhaps a six-part series initiated by Lim to encourage social reform in marriage, education and attire among the Chinese, in particular, the cutting of the towchang (or braided pigtail) worn by Chinese men during the Qing dynasty. Lim’s arguments against the pigtail led to polarising views among the local Chinese community – as it would in China almost 12 years later in 1911 when reformists and revolutionaries swept the land.
+
+From its first issue in 1897 until the last in 1907, a total of 11 volumes were published, with four quarterly issues a year on topics such as business, current events, biography, literature and science. Some articles are accompanied by illustrations and photographs, while several include Chinese script, particularly when explaining Chinese literature, thought and culture. 
+
+– Written by Bonny Tan
