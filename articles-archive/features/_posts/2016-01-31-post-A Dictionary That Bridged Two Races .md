@@ -26,3 +26,9 @@ the Qing Imperial Court in China, signed off the
 foreword, which was written during the Double 
 Ninth Festival in 1883. <i>Image source: National 
 Library Board, Singapore.</i></div>
+
+Soon after Singapore gained independence in 1965, the government announced that English would be the *lingua franca* that would unite the linguistically diverse 
+population. But attempts to forge a common language in Singapore had begun as early as the 19th century, when Chinese migrants to Singapore – the majority of 
+whom spoke Southern Min dialects (闽南语) such as Hokkien1 – tried to communicate with the Malay-speaking indigenous population. Several Chinese-Malay dictionaries – listing Malay words with their equivalent 
+terms in Chinese – were produced in the 19th century.2
+One of the earliest was *Hua yi tong yu* (华夷通语), published in 1883.
