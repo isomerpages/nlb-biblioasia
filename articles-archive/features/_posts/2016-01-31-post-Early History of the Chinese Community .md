@@ -18,7 +18,7 @@ Development, Progress and Prosperity of Singapore; of Events and Incidents Conce
 <b>Donated by:</b> Lee Kip Lin
 </span>
 
-<img src="/images/vol-11-issue-4/history-of-chinese-community/P1.JPG">
+<img style="width: 630px; height: 430px;" src="/images/vol-11-issue-4/history-of-chinese-community/P1.JPG">
 <div style="background-color: white;">The title page of <i>One Hundred Years’ History of the Chinese in Singapore</i>. The frontispiece features a picture of the Peranakan author Song Ong Siang and his wife. <i>Image source: National Library Board, Singapore.</i></div>
 
 As part of the celebrations for the 100th anniversary of Singapore’s founding, a book was commissioned to detail the history and contributions of the colony’s Chinese community.[^1] This became the classic text, *One Hundred Years’ History of the Chinese in Singapore*, which chronicles 19th-century Chinese society in Singapore from 1819 to 1919. The 602-page tome also serves as an excellent reference on the who’s who in Singapore’s early Chinese community, particularly the Straits Chinese elites.
@@ -37,7 +37,7 @@ its context against the munificence of the British colonists. The review noted t
 
 Song was not the first writer of choice. Lim Boon Keng, a medical doctor and philanthropist, was initially asked to pen the volume, but he declined. The task then fell on Song, a well-respected Straits Chinese lawyer, scholar and community leader.
 
-<img src="/images/vol-11-issue-4/history-of-chinese-community/P2.JPG">
+<img style="width: 370px; height: 400px;" src="/images/vol-11-issue-4/history-of-chinese-community/P2.JPG">
 <div style="background-color: white;">Lim Boon Keng with his second wife, Grace Yin Pek Ha, and their children, Ena Lim Guat Kheng and Lim Peng Han. Lim, a medical doctor and respected Straits Chinese community leader, is one of many notable Chinese documented in this book. <i>Courtesy of National Archives of Singapore.</i></div>
 
 Born in June 1871, Song was the third son of Song Hoot Kiam, who founded the Straits Chinese Church (present-day Prinsep Street Presbyterian Church). In 1888, Song 
@@ -49,7 +49,7 @@ vice-president. Some of the proceeds from the sale of *One Hundred Years’ Hist
 In 1931, the Rotary Club made Song an honorary member, a tribute paid only to individuals who had excelled in community service. Five years later, in 1936, 
 Song became the first Malayan Chinese and the second Asian in Malaya – apart from the Malay rulers – to receive a knighthood when he was conferred the Knight Commander of the Order of the British Empire (K.B.E).[^7]
  
- <img src="/images/vol-11-issue-4/history-of-chinese-community/P3.JPG">
+ <img style="width: 400px; height: 430px;" src="/images/vol-11-issue-4/history-of-chinese-community/P3.JPG">
 <div style="background-color: white;">A group of Queen’s Scholars in a photograph taken in 1880. Fellow Peranakan Lim Boon Keng – who was first asked to write the book but declined – is seated on the ground with his arms folded, while Song Ong Siang is next to him with his hat on his lap. <i>Courtesy of National Archives of Singapore.</i></div>
 
 – Written by Irene Lim
