@@ -79,3 +79,21 @@ Professor at the National University of Singapore, Chairman of the East Asian In
 – Written by Gracie Lee
 
 #### **NOTES**
+[^1]:Yeo, R. (Interviewer). (2008, February 26). An interview with Wang Gungwu (in the mid 1980s). Retrieved from S/PORES website.
+[^2]:Holden, P. (2002). Interrogating diaspora: Wang Gungwu’s Pulse. ARIEL: A Review of International English Literature, 33(3–4), 114. Retrieved from Synergies Canada website;  Tan, T. S. (1950, May 13). A book of poems comes from a Malayan’s pen. The Singapore Free Press, p. 3. Retrieved from NewspaperSG.
+[^3]:Koh, T. A. (Ed.). (2008). Singapore literature in English: An annotated bibliography (p. 146). Singapore: National Library Board Singapore and Centre for Liberal Arts and Social Sciences, Nanyang Technological University. Call no.: RSING 016.8208 SIN-[LIB]
+[^4]:Patke, R. S., & Holden, P. (2010). Malaysian and Singaporean writing to 1965. In The Routledge concise history of Southeast Asian writing in English (p. 51). London: New York: Routledge. Call no.: RSING 895.9 PAT
+[^5]:Wang, G. (1950). Pulse (pp. 14–15). Singapore: Beda Lim. Call no.: RCLOS 828.99595 WAN; Lim, S. (1989). The English-language writer in Singapore. In Sandhu, K. S., & Wheatley, P. (Eds.). Management of success: The moulding of modern Singapore (pp. 523–551). Singapore: Institute of Southeast Asian Studies. Call no.: RSING 959.57 MAN-[HIS]  
+[^6]:Wang, 1950, p. 2; Lim, 1989, pp. 523–551.
+[^7]:Wang, 1950, p. 13; Lim, 1989, pp. 523–551.
+[^8]:Asad, L. (2010). (Ed.). Wang Gungwu: Junzi: Scholar-gentleman in conversation with Asad-ul Iqbal Latif (p. 1). Singapore: Institute of Southeast Asian Studies. Call no.: RSING 959.007202 WAN
+[^9]:Holden, P. (2008, January 10). Introduction to “Learning Me Your Language”. Retrieved from S/PORES website.
+[^10]:Vackey, T. (1955, Michaelmas Term). Editorial. The New Cauldron, 4.
+11.	Holden, 2002, pp. 105–129.
+12.	Holden, P. (2002, July 25). Introduction. Retrieved from Post Colonial Web website; Wong P. N. (2009). In the beginnings: university verse in the first decade of the University of Malaya. In Mohammad A. Quayum, P. N. Wong & E. Thumboo, E. (Eds.). Sharing borders: Studies in contemporary Singaporean-Malaysian literature (pp. 78–82). Singapore: National Library Board in partnership with the National Arts Council. Call no.: RSING S820.9 SHA; Talib, I. S. (2002). The development of Singaporean literature in English. In Mohammad A. Quayum, & P. C. Wicks. (Eds.). Singaporean literature in English: A critical reader (p. 5). Malaysia: Universiti Putra Malaysia Press. Call no.: RSING 820.995957 SIN
+13.	Holden, 10 Jan 2008.
+14.	The Singapore Free Press, 13 May 1950, p. 3; D.E.S. (1950, May 31). East & west have met. The Straits Times, p. 10; Wang, G. W. (1950, May 18). Faces of night. The Straits Times, p. 8. Retrieved from NewspaperSG.
+15.	Holden, 2002, p. 114; Brewster, A. (1989). Towards a semiotic of post-colonial discourse: University writing in Singapore and Malaysia (p. 7). Singapore: Heinemann Asia for Centre for Advanced Studies. Call no.: RSING 808.1 BRE; Patke & Holden, 2010, p. 51; Hochstadt, H. (Ed.). (1959).The compact: A selection of University of Malaya short stories, 1953–1959. Singapore: Raffles Society, University of Malaya in Singapore. Call no.: RCLOS S823 COM-[RFL]
+16.	Patke & Holden, 2010, p. 51.
+17.	Asad, 2010, pp. 1–2.
+18.	Yeo, 26 Feb 2008; Nordin, M. (1999, April 2). Farewell my friend, great reader of books. New Straits Times. Retrieved from Factiva via NLB’s eResources website.
