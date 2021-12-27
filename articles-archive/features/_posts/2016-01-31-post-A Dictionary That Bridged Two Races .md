@@ -40,24 +40,8 @@ In the preface penned by Zuo Binglong (左秉隆), the first Chinese Consul to S
 migrants had settled in Nanyang (南洋 or the “South Seas”) to trade with the Malays in the region. Since the migrants – mainly from the Zhangzhou and Quanzhou regions of Fujian province and Chaozhou in Guangdong 
 province – could not conduct their business effectively due to their inability to speak Malay, a dictionary was needed.
 
-The author, Lin Hengnan (林衡南), came 
-up with an ingenious solution by devising 
-a system that uses native Southern Min 
-dialects to phoneticise Malay words. The 
-dictionary teaches users how to pronounce 
-Malay words by using Chinese characters that sound similar when said in the 
-Southern Min dialects.4
- For example, to 
-learn the Malay word satu, which means 
-”one”, Lin used the Chinese characters 
-“沙诛” – pronounced sha zhu in Mandarin 
-but sa tu in Hokkien. Tiga, or “three”, is 
-“知迓” – pronounced zhi ya in Mandarin but 
-ti ga in Hokkien.5
-To render the phoneticisation more 
-accurate, Lin indicated the tone of the Chinese 
-character to be used when pronounced using 
-Southern Min dialects. He also switched 
-between the tones of the Zhangzhou, Quanzhou and Chaozhou dialects as needed to 
-ensure that the words were pronounced 
-correctly in Malay.6
+The author, Lin Hengnan (林衡南), came up with an ingenious solution by devising a system that uses native Southern Min dialects to phoneticise Malay words. The 
+dictionary teaches users how to pronounce Malay words by using Chinese characters that sound similar when said in the Southern Min dialects.4 For example, to learn the Malay word *satu*, which means ”one”, Lin used the Chinese characters “沙诛” – pronounced *sha zhu* in Mandarin but *sa tu* in Hokkien. *Tiga*, or “three”, is 
+“知迓” – pronounced *zhi ya* in Mandarin but *ti ga* in Hokkien.5
+
+To render the phoneticisation more accurate, Lin indicated the tone of the Chinese character to be used when pronounced using Southern Min dialects. He also switched between the tones of the Zhangzhou, Quanzhou and Chaozhou dialects as needed to ensure that the words were pronounced correctly in Malay.6
