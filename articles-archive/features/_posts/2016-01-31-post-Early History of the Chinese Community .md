@@ -31,32 +31,14 @@ times, most recently in 1984 by Oxford University Press.2
 In 12 chronological chapters organised by decade, *One Hundred Years’ History of the Chinese in Singapore* offers readers a look into “the social, commercial, political, religious, and intellectual life of the Chinese 
 in all their varied aspects and divisions”.3 Song employed an anecdotal style of writing to frame the maze of historical data, taking after Charles Buckley’s *An Anecdotal History of Old Times in Singapore* (1902) (see page 16). A 37-page index at the end of the book helps the reader navigate through the hefty compendium of facts.4
 
-According to a newspaper review 
-dated 10 January 1924, the book had three 
-objectives: record the contributions of the 
-Chinese to Singapore’s progress; survey 
-Singapore’s history from the perspective 
-of the Chinese community; and detail the 
-most prominent Chinese individuals and 
-families of the time.
-The book, according to the same 
-review, succeeded in illustrating both 
-the diligence of the Chinese as well as 
-its context against the munificence of the 
-British colonists. The review noted that 
-Chinese of every class – from coolies and 
-labourers to “merchant princes” – had an 
-“immense share in Singapore’s development”, and this was only made possible 
-because the “British theories of colonial 
-administration” offered “immense opportunities to an alien community”, namely 
-the Chinese.5
-Song was not the first writer of choice. 
-Lim Boon Keng, a medical doctor and philanthropist, was initially asked to pen the 
-volume, but he declined. The task then fell 
-on Song, a well-respected Straits Chinese 
-lawyer, scholar and community leader.
-Born in June 1871, Song was the third 
-son of Song Hoot Kiam, who founded the 
+According to a newspaper review dated 10 January 1924, the book had three objectives: record the contributions of the Chinese to Singapore’s progress; survey Singapore’s history from the perspective of the Chinese community; and detail the most prominent Chinese individuals and families of the time.
+
+The book, according to the same review, succeeded in illustrating both the diligence of the Chinese as well as 
+its context against the munificence of the British colonists. The review noted that Chinese of every class – from coolies and labourers to “merchant princes” – had an “immense share in Singapore’s development”, and this was only made possible because the “British theories of colonial administration” offered “immense opportunities to an alien community”, namely the Chinese.5
+
+Song was not the first writer of choice. Lim Boon Keng, a medical doctor and philanthropist, was initially asked to pen the volume, but he declined. The task then fell on Song, a well-respected Straits Chinese lawyer, scholar and community leader.
+
+Born in June 1871, Song was the third son of Song Hoot Kiam, who founded the 
 Straits Chinese Church (present-day Prinsep 
 Street Presbyterian Church). In 1888, Song 
 was awarded the Queen’s Scholarship to 
@@ -65,6 +47,7 @@ England. He later became a member of
 Middle Temple and the first Straits Chinese 
 barrister, setting up the legal firm, Aitken 
 and Ong Siang, at the age of 22.
+
 Besides serving as a legislative councillor, Song was also involved in various 
 efforts to improve the status of the Straits 
 Chinese community. A strong advocate 
