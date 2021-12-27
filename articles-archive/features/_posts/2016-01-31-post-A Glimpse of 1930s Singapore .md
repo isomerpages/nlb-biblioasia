@@ -31,3 +31,15 @@ The book distinguished itself from other expatriate traveller accounts of the da
 one who was clearly white and from a privileged class.4
 As one reviewer so succinctly put it: “to many European 
 residents Mr Braddell has given a new pair of spectacles through which to see Singapore”.5
+
+The book does not lend itself to easy categorisation into a single genre. It reads as a fact book on Singapore, a travel guide to places of interest, a history book on its pre-colonial past, and a collection of anecdotal stories and observations on the quirks and foibles of life in 1930s Singapore.6
+
+Despite the fact that the book was written during the years of the Great Depression (1929–39), it adopted an exuberant tone in painting Singapore as a picture of progress and modernity, with its new railway station, 
+motor cars, large buildings, massive land reclamations, and a new airport under construction in Kallang.
+
+Braddell also described the different facets of cultural life in Singapore, from the religious rituals practised by locals to the entertainment found in the colony, including Hollywood movies and grand parties where multicultural cuisines were served. Colourful depictions of the people, from Hailam (Hainanese) servants to rickshaw pullers complete his portrait of a charming and complex city that was fast becoming a glittering emporium of the East.
+
+Braddell also praised Singapore for being one of the few places that had “large surpluses, little public debt, 
+[and] low taxation”. One of the astute observations he made in the book was that the island had an “outward modernity” that was underpinned by “age-old beliefs and ancient superstitions”.7 He also wrote of the perennial complaint by locals on Singapore’s lack of culture, a not unfamiliar rhetoric that still exists in contemporary Singapore. 
+
+*The Lights of Singapore* was published in London in July 1934, and sold for $3.50 a copy. The book includes 29 plates of photogravure8 on places of interest in Singapore and Malaya, most of which were taken by Nakajima & Co., a popular photo studio located at the Raffles Hotel.
