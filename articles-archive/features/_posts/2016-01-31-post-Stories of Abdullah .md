@@ -43,7 +43,7 @@ views.[^13] Regardless, he certainly earned the epithet “father of Malay print
 This copy of the *Hikayat Abdullah*, which carries a dedication in English to William J. Butterworth, governor of the Straits Settlements from 1843–55, was one of two artefacts the National Library submitted to the “Treasures from the World’s Great Libraries” exhibition held from 2001–02 at the National Library of Australia in Canberra.[^15]
 
 <img style="width: 350px; height: 450px;" src="/images/vol-11-issue-4/stories-of-abdullah/Ab1.JPG">
-<div style="background-color: white;">A special edition of Hikayat Abdullah was printed with Abdullah’s dedication to Colonel Butterworth, the British Governor for the Straits Settlements from 1843 to 1855. <i>Image source: National Library Board, Singapore.</i></div>
+<div style="background-color: white;">A special edition of <i>Hikayat Abdullah</i> was printed with Abdullah’s dedication to Colonel Butterworth, the British Governor for the Straits Settlements from 1843 to 1855. <i>Image source: National Library Board, Singapore.</i></div>
 
 Munsyi Abdullah died in Mecca in 1854 while on pilgrimage.[^16] But his legacy is assured: *Hikayat Abdullah* is a lasting milestone in modern Malay literature.
 
@@ -57,7 +57,7 @@ Munsyi Abdullah died in Mecca in 1854 while on pilgrimage.[^16] But his legacy i
 [^5]:Gallop, A. T. (1990). Early Malay printing: An introduction to the British Library collections. *Journal of the Malaysian Branch of the Royal Asiatic Society, 63* (1) (258), 98. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
 [^6]:Anuar Othman. (1993, January 4). [Historical Malay works in Chinese](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19930104-1.2.71.5.5.aspx). *The Straits Times*, p. 8. Retrieved from NewspaperSG.
 [^7]:[Abdullah](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13606908), 2009, p. v.
-[^8]:Traill, H. F. O’B. (1979). An Indian protagonist of the Malay language: Abdullah “Munshi”, his race and his mother-tongue. *Journal of the Malaysian Branch of the Royal Asiatic Society, 52* (2) (236), 81. . Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website; Azizah Sidek & Mazelan Anuar. (2008, January). Hikayat Abdullah. [*BiblioAsia*](https://biblioasia.nlb.gov.sg/all-issues/)*, 3* (4), 35–36.
+[^8]:Traill, H. F. O’B. (1979). An Indian protagonist of the Malay language: Abdullah “Munshi”, his race and his mother-tongue. *Journal of the Malaysian Branch of the Royal Asiatic Society, 52* (2) (236), 81. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website; Azizah Sidek & Mazelan Anuar. (2008, January). Hikayat Abdullah. [*BiblioAsia*](https://biblioasia.nlb.gov.sg/all-issues/)*, 3* (4), 35–36.
 [^9]:[Abdullah](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13606908), 2009, pp. v, 22; National Library Board. (1998). [*Benjamin Keasberry*](http://eresources.nlb.gov.sg/infopedia/articles/SIP_781_2005-01-03.html) written by Cornelius-Takahama, Vernon. Retrieved from Singapore Infopedia; UNESCO Memory of the World. (n.d). *Sejarah Melayu* (The Malay Annals). Retrieved from UNESCO website.
 [^10]:Che-Ross, R. (2002). Malay Manuscripts in New Zealand: The ‘lost’ manuscript of the “Hikayat Abdullah” and other Malay manuscripts in the Thomson collection. *Journal of the Malaysian Branch of the Royal Asiatic Society, 75* (2) (283), 18. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
 [^11]:Reith, 1892, p. 132.
