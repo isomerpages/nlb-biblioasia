@@ -31,26 +31,25 @@ with a cover that is adorned with a hand-drawn illustration of the first poem, �
 sheaves of lallang and is framed by clouds, birds and a rainbow. It contains 12 poems on various topics written in a variety of styles and forms, ranging from free verse 
 to rhymed metrical stanzas.4
 
-From a literary perspective, Pulse is the earliest attempt by a writer to avoid the imitation of English verse, and to create a new and authentic literary voice. 
-The sense of place in Wang’s poems is 
-distinctly Malayan for the most part, for 
-example in the poem “Three Faces of Night” 
-he writes:
+From a literary perspective, Pulse is the earliest attempt by a writer to avoid the imitation of English verse, and to create a new and authentic literary voice. The sense of place in Wang’s poems is distinctly Malayan for the most part, for example in the poem “Three Faces of Night” he writes:
+
 The crowds wait their share of the 
 steaming fun
+
 At the kuey-teow stalls of the 
 kerosene glare;…5
-In “Pulse”, the imagery and aesthetics draw references from English, Malay, 
-Chinese and Malayan culture:
-Trouser-wearing women
-Wor m among s ar is, s arongs 
-colourfully checked;
-Baju biru full of tailings,
+
+In “Pulse”, the imagery and aesthetics draw references from English, Malay, Chinese and Malayan culture:
+
+Trouser-wearing women <br>
+Worm among saris, sarongs <br>
+colourfully checked; <br>
+Baju biru full of tailings, <br>
 And sams unhooked at the neck;…6
-Wang also uses a mix of English and 
-Malay in his poems. This is seen in the poem 
-“Ahmad”: 
-Allah has been kind;
-Orang puteh has been kind.
-Only yesterday his brother said,
+
+Wang also uses a mix of English and Malay in his poems. This is seen in the poem “Ahmad”: 
+
+Allah has been kind; <br>
+Orang puteh has been kind. <br>
+Only yesterday his brother said, <br>
 “Can get lagi satu wife lah!”7
