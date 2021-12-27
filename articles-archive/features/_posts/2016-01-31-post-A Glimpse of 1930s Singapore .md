@@ -21,21 +21,19 @@ Lee Kip Lin
 <img src="/images/vol-11-issue-4/a-glimpse-of-1930s-singapore/S1.JPG">
 <div style="background-color: white;">The frontispiece of The Lights of Singapore features a seaside view of Singapore at dusk. <i>Image source: National Library Board, Singapore.</i></div>
 
-Imagine reading this about Singapore in a travel guide: “one of the cesspools of the world”, a place with “no ancient history, no romantic background”, “a paradise for second-class people”, a city with “wild night-life and opium dens”, and having a “terrible climate” that causes “bad health”.1
+Imagine reading this about Singapore in a travel guide: “one of the cesspools of the world”, a place with “no ancient history, no romantic background”, “a paradise for second-class people”, a city with “wild night-life and opium dens”, and having a “terrible climate” that causes “bad health”.[^1]
 
 An erudite Singapore-born Englishman who disagreed with these swipes about the island felt compelled to write a book and debunk prevailing Western impressions of his birthland.
 
-Published in 1934, Roland St. John Braddell’s *The Lights of Singapore* is an informative but yet light-hearted insider’s look at life in the colony in the early 20th century. Written between April and November 1933,2 the book was mainly targeted at Westerners but its engaging tongue-incheek style won many more readers over, its first print run of 500 copies selling out in only four days.3
+Published in 1934, Roland St. John Braddell’s *The Lights of Singapore* is an informative but yet light-hearted insider’s look at life in the colony in the early 20th century. Written between April and November 1933,[^2] the book was mainly targeted at Westerners but its engaging tongue-incheek style won many more readers over, its first print run of 500 copies selling out in only four days.[^3]
 
 <img style="width: 350px; height: 450px;" src="/images/vol-11-issue-4/a-glimpse-of-1930s-singapore/S2.JPG">
 <div style="background-color: white;">A street scene of Singapore’s Chinatown. <i>All rights reserved, Braddell, R. St. J. (1934). The Lights of Singapore. London: Methuen & Co.</i></div>
 
 The book distinguished itself from other expatriate traveller accounts of the day because it was written entirely from the point of view of a local – albeit 
-one who was clearly white and from a privileged class.4
-As one reviewer so succinctly put it: “to many European 
-residents Mr Braddell has given a new pair of spectacles through which to see Singapore”.5
+one who was clearly white and from a privileged class.[^4] As one reviewer so succinctly put it: “to many European residents Mr Braddell has given a new pair of spectacles through which to see Singapore”.[^5]
 
-The book does not lend itself to easy categorisation into a single genre. It reads as a fact book on Singapore, a travel guide to places of interest, a history book on its pre-colonial past, and a collection of anecdotal stories and observations on the quirks and foibles of life in 1930s Singapore.6
+The book does not lend itself to easy categorisation into a single genre. It reads as a fact book on Singapore, a travel guide to places of interest, a history book on its pre-colonial past, and a collection of anecdotal stories and observations on the quirks and foibles of life in 1930s Singapore.[^6]
 
 Despite the fact that the book was written during the years of the Great Depression (1929–39), it adopted an exuberant tone in painting Singapore as a picture of progress and modernity, with its new railway station, 
 motor cars, large buildings, massive land reclamations, and a new airport under construction in Kallang.
@@ -43,18 +41,18 @@ motor cars, large buildings, massive land reclamations, and a new airport under 
 Braddell also described the different facets of cultural life in Singapore, from the religious rituals practised by locals to the entertainment found in the colony, including Hollywood movies and grand parties where multicultural cuisines were served. Colourful depictions of the people, from Hailam (Hainanese) servants to rickshaw pullers complete his portrait of a charming and complex city that was fast becoming a glittering emporium of the East.
 
 Braddell also praised Singapore for being one of the few places that had “large surpluses, little public debt, 
-[and] low taxation”. One of the astute observations he made in the book was that the island had an “outward modernity” that was underpinned by “age-old beliefs and ancient superstitions”.7 He also wrote of the perennial complaint by locals on Singapore’s lack of culture, a not unfamiliar rhetoric that still exists in contemporary Singapore. 
+[and] low taxation”. One of the astute observations he made in the book was that the island had an “outward modernity” that was underpinned by “age-old beliefs and ancient superstitions”.[^7] He also wrote of the perennial complaint by locals on Singapore’s lack of culture, a not unfamiliar rhetoric that still exists in contemporary Singapore. 
 
-*The Lights of Singapore* was published in London in July 1934, and sold for $3.50 a copy. The book includes 29 plates of photogravure8 on places of interest in Singapore and Malaya, most of which were taken by Nakajima & Co., a popular photo studio located at the Raffles Hotel.
+*The Lights of Singapore* was published in London in July 1934, and sold for $3.50 a copy. The book includes 29 plates of photogravure[^8] on places of interest in Singapore and Malaya, most of which were taken by Nakajima & Co., a popular photo studio located at the Raffles Hotel.
 
 <img style="width: 350px; height: 450px;" src="/images/vol-11-issue-4/a-glimpse-of-1930s-singapore/S3.JPG">
 <div style="background-color: white;">The National Library has four copies of the first edition of <i>The Lights of Singapore</i> published in 1934. The first, donated by R. Ramachandra, the then principal of Teck Whye Secondary School, on 22 May 1981, carries a 
 handwritten dedication from the author Roland St. John Braddell to a friend. <i>Image source: National Library Board, Singapore.</i></div>
 
 To boost publicity, the book was advertised as “a new book presenting the romance and history of Malaya”, “suitable for sending home”, “full of lore and reminiscence, which will delight those who know something of this portion of the world”, and one that creates “an intimate picture of Singapore” while bringing 
-out “the romance and history of that city as well as Malaysia generally”.9
+out “the romance and history of that city as well as Malaysia generally”.[^9]
 
-Those stirring descriptions worked. A second edition was released the same year in September, and a third edition, with revisions and corrections, was published the following year. The fourth and fifth editions were released in 1939 and 1941 respectively. In all, the book sold about 5,000 copies before World War II (1942–45), making Braddell one of Malaya’s most popular authors.10 Subsequent editions were published in 1947, 1966 and 1982, the latter two by Oxford University Press.
+Those stirring descriptions worked. A second edition was released the same year in September, and a third edition, with revisions and corrections, was published the following year. The fourth and fifth editions were released in 1939 and 1941 respectively. In all, the book sold about 5,000 copies before World War II (1942–45), making Braddell one of Malaya’s most popular authors.[^10] Subsequent editions were published in 1947, 1966 and 1982, the latter two by Oxford University Press.
 
 The National Library has four copies of the first edition of the book published in 1934. The first was donated by R. Ramachandra, then principal of Teck Whye Secondary School, on 22 May 1981. It carries a handwritten dedication from Braddell to a friend (whose name is not legible) with the message, “My old friend, with deepest esteem”. 
 
