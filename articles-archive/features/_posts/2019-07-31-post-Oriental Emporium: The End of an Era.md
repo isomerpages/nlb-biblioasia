@@ -105,7 +105,7 @@ In September 1996, nine years after the liquidation of Emporium Holdings, ex-emp
 	<img style="width: 300px; height: 300px;" src="/images/Vol-15-issue-2/oriental-emporium/Emporium6x.JPG">The newspaper advertisement by Lim Tow Yong inviting former employees of Emporium Holdings Group to a get-together dinner in 2006. A memorable quote in the invite stands out: “不在乎天长地久，只在乎一起走过闪烁的日子”(“It matters not if it doesn’t last an eternity, what matters are the bright days that we have spent together”). <i>Lianhe Zaobao, 17 October 2006, p. 7.</i>
 </span>
 
-#### **MILESTONES**
+#### **Milestones**
 <table>
   <tr>
     <td>1938</td>
