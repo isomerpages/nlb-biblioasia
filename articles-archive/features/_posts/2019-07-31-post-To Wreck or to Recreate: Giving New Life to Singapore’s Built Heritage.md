@@ -280,10 +280,9 @@ Conservation, on the other hand, is a much broader concept. Instead of perceivin
 	 <tr>
 		<td>&nbsp;</td>
 		<td>32 Sri Perumal Temple, 397 Serangoon Road</td>
-  </tr></table>
+  </tr>
+</table>
 	* indicates a site that is common to both lists.
-	
-	
 <img src="/images/Vol-15-issue-2/to-wreck-or-to-recreate/Wreck4.JPG">
 <br>
 <div style="background-color: white;">
