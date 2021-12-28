@@ -38,26 +38,9 @@ Each January, Chinese junks sailed from the ports of Southern China with the Nor
 In total, no fewer than 100 junks visited Singapore every year, and took with them scriptures for distribution in China and parts of the Indian Archipelago.4 The large 
 junks from China arrived early in the year and would remain for several months in port, providing ample opportunity for the missionaries to visit and proselytise to those on board. Those who were literate were supplied with books, while a small “export cargo” of pamphlets and booklets comprising the Bible and otherreligious texts would be entrusted to the captain or other crew members to be distributed in China.
 
-Among these publications was a book 
-titled 全人矩矱, which roughly translates 
-as “The Perfect Man’s Model”. Written by
-爱汉者, the Chinese pen-name of Karl Friedrich August Gützlaff, a German Protestant 
-missionary fluent in Chinese, the publication 
-is a religious tract containing “a treatise 
-on the teachings of the Holy Scripture on 
-unfeigned virtue; spiritual instruction; the 
-Saviour; explanation of the law; theory of 
-prayer; and the doctrine of Jesus true and 
-self-evident”.5
- It was printed in 1836 by Jian 
-xia shu yuan (坚夏书院), the publishing arm 
-of the American Board of Commissioners 
-for Foreign Missions,6
- and is the earliest 
-extant Chinese publication printed in Singapore in the National Library’s collection. 
-Stitched and bound in the traditional Chinese bookbinding style, the book contains 
-30 leaves, sewn together using the five-hole 
-stitching method.
+Among these publications was a book titled 全人矩矱, which roughly translates as “The Perfect Man’s Model”. Written by爱汉者, the Chinese pen-name of KarlFriedrich August Gützlaff, a German Protestant missionary fluent in Chinese, the publication is a religious tract containing “a treatise on the teachings of the Holy Scripture on unfeigned virtue; spiritual instruction; the Saviour; explanation of the law; theory of prayer; and the doctrine of Jesus true and self-evident”.5 It was printed in 1836 by Jian xia shu yuan (坚夏书院), the publishing arm of the American Board of Commissioners for Foreign Missions,6
+and is the earliest extant Chinese publication printed in Singapore in the National Library’s collection. Stitched and bound in the traditional Chinese bookbinding style, the book contains 30 leaves, sewn together using the five-hole stitching method.
+
 Gützlaff was born in Pyritz, Pomerania 
 (a historic region that lies along the border of Germany and Poland). His interest 
 in China grew after a meeting in England 
