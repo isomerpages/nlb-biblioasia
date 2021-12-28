@@ -33,31 +33,11 @@ Milton and Thomsen were tasked to establish a Chinese and Malay mission in Singa
 The larger aim of the missionaries was to convert the Chinese in China to Christianity. However, this was a challenging task because before the First Opium War 
 (1839–42), Europeans were barred from living and travelling in China except for Canton (Guangzhou) and Macau, which were the only ports open to European traders. Moreover, foreign missionaries had to carry out their work clandestinely as Christianity was banned in China until 1846.2 At a time when the Western missionaries’ access to China was restricted, the large number of Chinese junks plying between China and Singapore provided a convenient target for missionary activity directed at China.
 
-Each January, Chinese junks sailed 
-from the ports of Southern China with the 
-Northeast monsoon, and returned to China 
-with the Southwest monsoon, which blew 
-from April to October. In the 1830 report of 
-the Singapore Christian Union on its missionary work, Thomsen reported that “after 
-supplying the Spiritual wants of a numerous 
-resident population in Singapore and the 
-neighbourhood our attention is directed to 
-the junks that annually resort hither from 
-China and other parts”.3
-In total, no fewer than 100 junks visited 
-Singapore every year, and took with them 
-scriptures for distribution in China and 
-parts of the Indian Archipelago.4
- The large 
-junks from China arrived early in the year 
-and would remain for several months in 
-port, providing ample opportunity for the 
-missionaries to visit and proselytise to those 
-on board. Those who were literate were 
-supplied with books, while a small “export 
-cargo” of pamphlets and booklets comprising the Bible and other religious texts would 
-be entrusted to the captain or other crew 
-members to be distributed in China.
+Each January, Chinese junks sailed from the ports of Southern China with the Northeast monsoon, and returned to China with the Southwest monsoon, which blew from April to October. In the 1830 report of the Singapore Christian Union on its missionary work, Thomsen reported that “after supplying the Spiritual wants of a numerous resident population in Singapore and the neighbourhood our attention is directed to the junks that annually resort hither from China and other parts”.3
+
+In total, no fewer than 100 junks visited Singapore every year, and took with them scriptures for distribution in China and parts of the Indian Archipelago.4 The large 
+junks from China arrived early in the year and would remain for several months in port, providing ample opportunity for the missionaries to visit and proselytise to those on board. Those who were literate were supplied with books, while a small “export cargo” of pamphlets and booklets comprising the Bible and otherreligious texts would be entrusted to the captain or other crew members to be distributed in China.
+
 Among these publications was a book 
 titled 全人矩矱, which roughly translates 
 as “The Perfect Man’s Model”. Written by
