@@ -22,37 +22,10 @@ description: ""
 Singapore’s meteoric rise as a maritime trade centre soon after its founding in 1819 was largely due to its prime location at the tip of the Malay Peninsula. With trade came immigration and over time the population 
 increased; by 1836–37, there were some 30,000 people in Singapore, almost half of whom were Chinese.1
 
-In 1819, the Reverend Samuel Milton, 
-a missionary from the London Missionary 
-Society (LMS) in Melaka, was sent to Singapore to spread Christianity to the Chinese. 
-Shortly after, Claudius Henry Thomsen, a 
-fellow missionary from the LMS, arrived 
-in Singapore as missionary to the Malay 
-community. Thomsen brought with him a 
-s
-THE GOSPEL
-IN CHINESE
-Title: The Perfect Man’s Model (全人矩矱)
-Author: Karl Friedrich August Gützlaff 
-(爱汉者) (1803–51)
-Year published: 1836
-Publisher: 坚夏书院 (Singapore)
-Language: Chinese
-Type: Book; 30 leaves
-Call no.: RRARE 243 AHZ
-Accession no.: B29240187K
-small printing press, and, together with 
-Milton, established the Mission Press – the 
-first printing press in Singapore (see also 
-page 100).
-Milton and Thomsen were tasked to 
-establish a Chinese and Malay mission 
-in Singapore. An important part of their 
-work was the printing and distribution of 
-religious tracts to spread the Gospel among 
-the indigenous Malays as well as the large 
-Chinese migrant community.
-The larger aim of the missionaries was 
-to convert the Chinese in China to Christianity. However, this was a challenging 
-task because before the First Opium War 
-(1839–42), Europeans were barred from 
+In 1819, the Reverend Samuel Milton, a missionary from the London Missionary Society (LMS) in Melaka, was sent to Singapore to spread Christianity to the Chinese. 
+Shortly after, Claudius Henry Thomsen, a fellow missionary from the LMS, arrived in Singapore as missionary to the Malay community. Thomsen brought with him a small printing press, and, together with Milton, established the Mission Press – the first printing press in Singapore (see also page 100).
+
+Milton and Thomsen were tasked to establish a Chinese and Malay mission in Singapore. An important part of their work was the printing and distribution of religious tracts to spread the Gospel among the indigenous Malays as well as the large Chinese migrant community.
+
+The larger aim of the missionaries was to convert the Chinese in China to Christianity. However, this was a challenging task because before the First Opium War 
+(1839–42), Europeans were barred from
