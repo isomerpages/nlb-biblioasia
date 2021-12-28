@@ -41,7 +41,11 @@ junks from China arrived early in the year and would remain for several months i
 Among these publications was a book titled 全人矩矱, which roughly translates as “The Perfect Man’s Model”. Written by爱汉者, the Chinese pen-name of KarlFriedrich August Gützlaff, a German Protestant missionary fluent in Chinese, the publication is a religious tract containing “a treatise on the teachings of the Holy Scripture on unfeigned virtue; spiritual instruction; the Saviour; explanation of the law; theory of prayer; and the doctrine of Jesus true and self-evident”.5 It was printed in 1836 by Jian xia shu yuan (坚夏书院), the publishing arm of the American Board of Commissioners for Foreign Missions,6
 and is the earliest extant Chinese publication printed in Singapore in the National Library’s collection. Stitched and bound in the traditional Chinese bookbinding style, the book contains 30 leaves, sewn together using the five-hole stitching method.
 
-Gützlaff was born in Pyritz, Pomerania 
-(a historic region that lies along the border of Germany and Poland). His interest 
-in China grew after a meeting in England 
-with Robert Morrison, the LMS’ first missionary to China.7
+Gützlaff was born in Pyritz, Pomerania (a historic region that lies along the border of Germany and Poland). His interest in China grew after a meeting in England with Robert Morrison, the LMS’ first missionary to China.7
+
+Gützlaff first set sail for the East in 1826 as a missionary of the Netherlands Missionary Society (NMS). He left the NMS in 1828 when the society refused to send him to China. Thereafter, he spent time in Bangkok and learned the Thai language. He also visited Singapore where he married an English missionary, Maria Newell, in 1829. When she died in 1831, Gützlaff relocated to Macau from where he made several trips along the coast of China travelling as far north as Tianjin, and repeatedly flouted the law by preaching the Christian faith and distributing Christian literature among the Chinese.
+
+A prolific writer and translator of Christian literature, some of Gützlaff‘s notable works include the translation of the Bible into Thai, Chinese and Japanese. He also produced a Chinese-language magazine, Eastern Western Monthly Magazine (东西洋考每月统记传), which is regarded as the first contemporary Chinese periodical to be published in China.8 While living in Macau, Gützlaff translated the Gospel and Epistles of John into Japanese, which was printed in Singapore and is believed to be the first Japanese translation of the 
+Bible.9 Gützlaff died in Hong Kong in 1851. 
+
+Written by Ong Eng Chuan
