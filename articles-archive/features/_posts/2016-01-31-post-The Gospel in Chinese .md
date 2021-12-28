@@ -25,6 +25,9 @@ increased; by 1836–37, there were some 30,000 people in Singapore, almost half
 In 1819, the Reverend Samuel Milton, a missionary from the London Missionary Society (LMS) in Melaka, was sent to Singapore to spread Christianity to the Chinese. 
 Shortly after, Claudius Henry Thomsen, a fellow missionary from the LMS, arrived in Singapore as missionary to the Malay community. Thomsen brought with him a small printing press, and, together with Milton, established the Mission Press – the first printing press in Singapore (see also page 100).
 
+<img style="width: 650px; height: 450px;" src="/images/vol-11-issue-4/the-gospel-in-chinese/C2.JPG">
+<div style="background-color: white;"> Book 2 of <i>The Perfect Man’s Model</i> (全人矩矱) on “spiritual instructions”. <i>Image source: National Library Board, Singapore.</i></div>
+
 Milton and Thomsen were tasked to establish a Chinese and Malay mission in Singapore. An important part of their work was the printing and distribution of religious tracts to spread the Gospel among the indigenous Malays as well as the large Chinese migrant community.
 
 The larger aim of the missionaries was to convert the Chinese in China to Christianity. However, this was a challenging task because before the First Opium War 
