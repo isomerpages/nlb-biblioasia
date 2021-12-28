@@ -31,4 +31,54 @@ Shortly after, Claudius Henry Thomsen, a fellow missionary from the LMS, arrived
 Milton and Thomsen were tasked to establish a Chinese and Malay mission in Singapore. An important part of their work was the printing and distribution of religious tracts to spread the Gospel among the indigenous Malays as well as the large Chinese migrant community.
 
 The larger aim of the missionaries was to convert the Chinese in China to Christianity. However, this was a challenging task because before the First Opium War 
-(1839–42), Europeans were barred from
+(1839–42), Europeans were barred from living and travelling in China except for Canton (Guangzhou) and Macau, which were the only ports open to European traders. Moreover, foreign missionaries had to carry out their work clandestinely as Christianity was banned in China until 1846.2 At a time when the Western missionaries’ access to China was restricted, the large number of Chinese junks plying between China and Singapore provided a convenient target for missionary activity directed at China.
+
+Each January, Chinese junks sailed 
+from the ports of Southern China with the 
+Northeast monsoon, and returned to China 
+with the Southwest monsoon, which blew 
+from April to October. In the 1830 report of 
+the Singapore Christian Union on its missionary work, Thomsen reported that “after 
+supplying the Spiritual wants of a numerous 
+resident population in Singapore and the 
+neighbourhood our attention is directed to 
+the junks that annually resort hither from 
+China and other parts”.3
+In total, no fewer than 100 junks visited 
+Singapore every year, and took with them 
+scriptures for distribution in China and 
+parts of the Indian Archipelago.4
+ The large 
+junks from China arrived early in the year 
+and would remain for several months in 
+port, providing ample opportunity for the 
+missionaries to visit and proselytise to those 
+on board. Those who were literate were 
+supplied with books, while a small “export 
+cargo” of pamphlets and booklets comprising the Bible and other religious texts would 
+be entrusted to the captain or other crew 
+members to be distributed in China.
+Among these publications was a book 
+titled 全人矩矱, which roughly translates 
+as “The Perfect Man’s Model”. Written by
+爱汉者, the Chinese pen-name of Karl Friedrich August Gützlaff, a German Protestant 
+missionary fluent in Chinese, the publication 
+is a religious tract containing “a treatise 
+on the teachings of the Holy Scripture on 
+unfeigned virtue; spiritual instruction; the 
+Saviour; explanation of the law; theory of 
+prayer; and the doctrine of Jesus true and 
+self-evident”.5
+ It was printed in 1836 by Jian 
+xia shu yuan (坚夏书院), the publishing arm 
+of the American Board of Commissioners 
+for Foreign Missions,6
+ and is the earliest 
+extant Chinese publication printed in Singapore in the National Library’s collection. 
+Stitched and bound in the traditional Chinese bookbinding style, the book contains 
+30 leaves, sewn together using the five-hole 
+stitching method.
+Gützlaff was born in Pyritz, Pomerania 
+(a historic region that lies along the border of Germany and Poland). His interest 
+in China grew after a meeting in England 
+with Robert Morrison, the LMS’ first missionary to China.7
