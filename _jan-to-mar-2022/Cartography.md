@@ -38,7 +38,7 @@ While maps articulated the administrative intricacies and changing boundaries of
 The map is a reprint of the <i>All-Under-Heaven Complete Map of the Everlasting Unified Qing Empire</i> (大清万年一统天下全图; <i>Daqing wannian yitong tianxia quantu</i>), first produced and presented by cartographer Huang Qianren (黄千人, 1694–1771) to Emperor Qianlong (乾隆, r. 1736–96) in 1767. It depicts administrative changes in the wake of military campaigns and treaty negotiations with frontier territories.[^11] The map shows the extent of the Qing realms, including internal frontiers, and features neighbouring states such as Korea and Annam (central Vietnam). It situates China as the Middle Kingdom (中国; <i>zhongguo</i>) at the centre of the world, with Europe and the Near East on the far periphery (depicted at the topmost left of the map). Cartographic symbols of varying shapes denote the different administrative divisions and units.
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/cartography/3-QianLong.jpg)
-<div style="background-color: white;">In the mid- to late 18th century, Emperor Qianlong launched the Ten Great Campaigns (十全武功; <i>shiquanwugong</i>), which was a series of military campaigns to expand Qing control in Inner Asia and police frontier regions such as Burma and Tibet. <i>Portrait of Emperor Qianlong as a Young Man,</i> 19th century, China, hanging scroll, ink and colour on silk. <i>Courtesy of the Metropolitan Museum of Art, New York.</i></div>
+<div style="background-color: white;">In the mid- to late 18th century, Emperor Qianlong launched the Ten Great Campaigns (十全武功; <i>shiquanwugong</i>), which was a series of military campaigns to expand Qing control in Inner Asia and police frontier regions such as Burma and Tibet. <i>Portrait of Emperor Qianlong as a Young Man</i>, 19th century, China, hanging scroll, ink and colour on silk. <i>Courtesy of the Metropolitan Museum of Art, New York.</i></div>
 
 The preface, located at the bottom right, notes that the map was produced to communicate the new shape and scope of the empire (天下之广可以全览焉; “the vastness of the empire can be seen”). Furthermore, the map prominently features the newly conquered frontier regions of Mongolia, Tibet and Chinese Turkestan. In his book, <i>Cartographic Traditions in East Asian Maps</i>, Richard A. Pegg, Director of the MacLean Collection in Illinois, USA, notes that this court-produced map “confirms the Qing notion of the world”, particularly of Qianlong’s worldview at the peak of his reign.[^12] 
 
@@ -56,7 +56,17 @@ Early Joseon maps feature Korea in a Sinocentric world. They reflect the view of
 
 Conversely, late Joseon maps like the Haejwa Jeondo (海左全图; Map of Korea) depart from early Joseon cartography, and with good reason. Major foreign incursions marked the transition from the middle to late Joseon period in the 16th and 17th centuries, scarring the nation for centuries to come. 
 
+![Alt text for image on Isomer site](/images/vol-17-issue-4/cartography/4-KoreaMap.jpg)
+<div style="background-color: white;">This map, which was produced for general consumption, details the political geography of Korea. It depicts the administrative areas, from the provinces to the cities, at a scale of 1:700,000. The term <i>Haejwa</i> (“left of the sea”) is a traditional nickname for Korea. <i>Map of Korea</i> (海左全图; <i>Haejwa Jeondo</i>), unknown, c. 1857–66, woodblock-printed, ink and colour on paper. <i>Courtesy of MacLean Collection, Illinois, USA.</i>
+</div>
+
+![Alt text for image on Isomer site](/images/vol-17-issue-4/cartography/5-Hanseong.jpg)
+<div style="background-color: white;">Detail from the map featuring Hanseong (then capital, present-day Inhyeon-dong, Jung-gu district in Seoul) in a red circle with the traditional Korean (<i>hanja</i>) character for “capital” (京; <i>gyeong</i>). The lines connecting administrative units are accompanied by their distances, allowing the viewer to calculate the exact distances between anywhere on the Korean peninsula. <i>Map of Korea</i> (海左全图; <i>Haejwa Jeondo</i>), unknown, c. 1857–66, woodblock-printed, ink and colour on paper. <i>Courtesy of MacLean Collection, Illinois, USA.</i></div>
+
 The Japanese invasions of Korea (1592–98), or Imjin War, devastated the peninsula. By 9 June 1592, less than three weeks after the Japanese landing in Busan on 23 May, the capital Hanseong had fallen. Over the span of seven years, the incursions caused an estimated two million in casualties and abducted civilian figures, amounting to 20 percent of the Joseon population.[^18] Ninety percent of the population were also rendered homeless, while Japanese soldiers collected 38,000 ears of defeated Korean troops to bury in the “ear mounds” of Osaka as spoils of war.[^19] Korean scholar O Huimun described “roads lined with corpses, the destruction of farmland, mass rapes, suicides of women who sought to escape capture, and reports of cannibalism in the starved population”.[^20]
+
+![Alt text for image on Isomer site](/images/vol-17-issue-4/cartography/6-JapanBusan.jpg)
+<div style="background-color: white;">On 23 May 1592, the 18,700-strong Japanese force arrived at the harbour of Busan on the eastern coast of Korea, marking the start of the Imjin War (1592–98). <i>Battle at Busanjin Fortress</i>, Korea, 1760. <i>Retrieved from Wikimedia Commons.</i></div>
 
 Admiral Yi Sun-shin (1545–98), often celebrated as Korea’s greatest war hero, raised an armada of large armoured “turtle ships” (Geobukseon warships) and naval forces, fighting against the Japanese until his death in the war’s final campaign.[^21] 
 
@@ -80,6 +90,12 @@ Maps and plans played a pivotal role in the French invasion of Vietnam. As Frenc
 
 The Map of Northwest Tonkin, belonging to a French private collection, is one of the many maps collected during the 1880s. As early as the 1860s, the French had begun to covet Tonkin in northern Vietnam – which was then a vassal of China – as well as its capital and major port city Hanoi, and the Red River for their strategic trading access to China and the southern Vietnamese provinces. In 1883, French statesman Jules Ferry (1832–93) ordered an all-out invasion of Tonkin, leading to the Sino-French War (1883–85). While Qing Chinese forces retaliated to reclaim their tributary state, the French eventually won and affirmed its control of the protectorates of Tonkin and Annam (central Vietnam). 
 
+![Alt text for image on Isomer site](/images/vol-17-issue-4/cartography/7-RedRiver.jpg)
+<div style="background-color: white;">This map of Tonkin shows the Red River, depicted in red running downwards through northern Vietnam, between the Chinese border and the Hanoi region. <i>Map of Northwest Tonkin</i>, Vietnam, c. 1883–85, ink and colour on paper. <i>Courtesy of Private Collection, France.</i></div>
+
+![Alt text for image on Isomer site](/images/vol-17-issue-4/cartography/8-HungHoa.jpg)
+<div style="background-color: white;">A detail from the map showing the fort of Hung Hoa, which was captured by the French in 1884 during the Tonkin Campaign (1883–86). <i>Map of Northwest Tonkin</i>, Vietnam, c. 1883–85, ink and colour on paper. <i>Courtesy of Private Collection, France.</i></div>
+
 The presence of Latin romanised characters Quốc ngữ (“national language script”) alongside the Sino-Vietnamese Chữ Nôm (“southern characters”) script on the map likely facilitated its use by the French. Shown on the map are French flags marking the progression of French troops across northern Vietnam, making this Tonkin map a rare example of a Vietnamese map influenced by French colonisation.
 
 The French conquest of Indochina spanned the late 19th century. In 1887, French Indochina – the collective Orientalist term for the French colonial territories of Vietnam, Cambodia and Laos – was born.[^32] The conquest also succeeded in destroying the region’s tributary relationships to the Beijing court. This marked the end of the pre-modern “world system” of Asia, one where Qing China held sway over tributary states at its southern periphery, such as the Vietnamese and Khmer kingdoms, as well as Lao and Tai principalities. 
@@ -90,6 +106,9 @@ During the period of European colonial expansion, explorers and imperial cartogr
 
 Maps took on new roles after the establishment of French Indochina (1887–1954). Colonial maps, produced in situ by European and indigenous mapmakers, provided knowledge that allowed European administrators to govern their new colonial possessions more effectively, engendering a “progressively more invasive and direct administration over territory”.[^34] For one, the mapping of forests and their resources allowed colonial authorities to impose greater control on the use of natural resources by indigenous populations.[^35] 
 
+![Alt text for image on Isomer site](/images/vol-17-issue-4/cartography/9-CambodiaMap.jpg)
+<div style="background-color: white;">In 1863, Cambodian King Norodom (r. 1860–1904) signed a treaty with France in exchange for military protection against the dual threats of Vietnam and Siam (Thailand). Cambodia subsequently became a French protectorate until 1954, with administrative power largely held by a French Resident-General. <i>Map of Khsach-Kandal</i>, Cambodia, 1880s, ink and colour on paper. <i>Courtesy of the Bibliothèque de l’École française d’Extreme-Orient (Paris).</i></div>
+
 Cartographic documents were also pivotal in defining and demarcating imagined national boundaries, allowing colonisers to lay claim to territories. From 1884 to 1895, the French explorer and diplomat Auguste Pavie (1847–1925), dubbed “the grand doyen of Indochinese mapping”, led several missions, known as “Missions Pavie”, to explore Indochina and the surrounding regions, including Siam. Pavie surveyed 676,000 sq km of land (over 900 times the size of Singapore) around the Vietnam-Laos boundary and the Laotian-Siamese border, creating “fixed” national borders that had not existed previously.[^36] In turn, his work paved the way for the French to identify Cambodian and Laotian territories upon which they could impose their authority. 
 
 Pavie’s cartographic exploits were so transformative that the lack of them apparently weakened colonial control, as historian Olivier Schouteden wrote: 
@@ -98,7 +117,7 @@ Pavie’s cartographic exploits were so transformative that the lack of them app
 
 The unspecified colonial administrator was likely Louis Paul Luce (1856–1931), who served as Interim Commandant-Superior of Haut-Laos from May 1897 to October 1898. In his argument, the Commandant-Superior critiqued the failure of Pavie’s maps to indicate the “limits” of Indochina at its borderlands. The assumption seemed to be that had Pavie done so, the maps would have been able to effectively resolve Siam and Indochina’s competing territorial claims.
 
-Meanwhile, maps produced by indigenous mapmakers provided an in-depth look at the lives of local populations. The Map of Khsach-Kandal was produced by Cambodian elites at the behest of French authorities, and on paper supplied by the French military. It sensitively depicts the daily life of rural civilians in Khsach Kandal, near the capital Phnom Penh. 
+Meanwhile, maps produced by indigenous mapmakers provided an in-depth look at the lives of local populations. The _Map of Khsach-Kandal_ was produced by Cambodian elites at the behest of French authorities, and on paper supplied by the French military. It sensitively depicts the daily life of rural civilians in Khsach Kandal, near the capital Phnom Penh. 
 
 At close glance, we see civilians leading their cows around the villages, while Buddhist temples, pagodas and village dwellings nestle within the natural landscape featuring trees and wild animals. Marine life such as fishes and crocodiles can be seen in the water bodies (in dark grey), denoted by the term “pond” in Khmer. The larger of the two “ponds” at the bottom most likely depicts the nearby Mekong River that flows past the towns of Svay Romiet, Khsach Kandal and Lvea Aem, with all three depicted on the map.
 
@@ -129,9 +148,9 @@ The exhibition features over 60 cartographic treasures from institutions in Fran
 
 The exhibition is open from 10 am to 9 pm daily, except on public holidays. Admission is free.
 
-As an accompaniment to the exhibition, a book with the same title has been published. It is written by curators Pierre Singavélou and Fabrice Argounès, with inputs from the National Library’s curatorial team. Mapping the World: Perspectives from Asian Cartography is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (Call nos. RSING 526.095 SIN and SING 526.095 SIN). 
+As an accompaniment to the exhibition, a book with the same title has been published. It is written by curators Pierre Singavélou and Fabrice Argounès, with inputs from the National Library’s curatorial team. _Mapping the World: Perspectives from Asian Cartography_ is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (Call nos. RSING 526.095 SIN and SING 526.095 SIN). 
 
-<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">I am grateful to Lim Guan Hock, former deputy director of the National Archives of Singapore, Bak Jia How and the late Professor Zheng Liang Shu for their assistance in writing this essay.</div>
+![Alt text for image on Isomer site](/images/vol-17-issue-4/cartography/10-Cover.jpg)
 
 <div style="background-color: white;">
 <br/>
