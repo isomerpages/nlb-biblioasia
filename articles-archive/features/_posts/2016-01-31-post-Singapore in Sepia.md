@@ -6,13 +6,12 @@ layout: post
 description: ""
 ---
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
-<br>
-	<b>Title:</b> Fotoalbum Singapur
-<b>Creator:</b> G. R. Lambert & Co.
-<b>Year published:</b> 1901
-<b>Publisher:</b> Same as creator (Singapore)
-<b>Language:</b> English
-<b>Type:</b> Book with 65 black-and-white photographic prints
-<b>Call no.:</b> RRARE 959.5704 LAM
+	<b>Title:</b> Fotoalbum Singapur<br>
+<b>Creator:</b> G. R. Lambert & Co.<br>
+<b>Year published:</b> 1901<br>
+<b>Publisher:</b> Same as creator (Singapore)<br>
+<b>Language:</b> English<br>
+<b>Type:</b> Book with 65 black-and-white photographic prints<br>
+<b>Call no.:</b> RRARE 959.5704 LAM<br>
 <b>Accession no.:</b> B18975148J
 </span>
