@@ -65,4 +65,4 @@ Bible.[^9] Gützlaff died in Hong Kong in 1851.
 [^6]:In 1834, Claudius Henry Thomsen sold the Mission Press to the American Board of Commissioners for Foreign Missions in a dubious deal, see page 101.
 [^7]:Bliss, E. M., Jackson, S. M., & Gilmore, G. W. (Eds.). (2002). [*The encyclopaedia of missions: Descriptive, historical, biographical, statistical*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12280715) (Vol. 1, p. 404). London: Ganesha Pub.; Tokyo: Edition Synapse. Call no.: R q266.003 ENC.
 [^8]:Zhang, X. T. (2007). [*The origins of the modern Chinese press: The influence of the Protestant missionary press in late Qing China*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12884681) (p. 39). New York: Routledge. Call no.: R 079.51 ZHA.
-[^9]:Bliss, Jackson & Gilmore, 2002, p. 501.
+[^9]:[Bliss, Jackson & Gilmore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12280715), 2002, p. 501.
