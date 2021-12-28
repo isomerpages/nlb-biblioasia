@@ -28,4 +28,22 @@ description: ""
 </span>
 
 <img src="/images/vol-11-issue-4/the-first-public-library/L1.JPG">
-<div style="background-color: white;"></i></div>
+<div style="background-color: white;"><i>The Reports of the Singapore Library and Catalogue of Books</i> in the Singapore Library provide an invaluable account of the history of the Singapore Library and its collections. <i>All rights reserved, National Library Board, Singapore.</i></div>
+
+People visit the library for various reasons, 
+not least of which to read and look for information on interesting subjects. But what if 
+the subject is the library itself?
+The first ever annual report of the 
+Singapore Library published in 1845 has 
+just that information. Along with the Catalogue of Books in the Singapore Library, the 
+Report of the Singapore Library provides 
+an invaluable account of the history of the 
+Singapore Library and its collections. These 
+two publications contain archival information, including when Singapore’s first public 
+library was conceived and the first books 
+ever to line its shelves.
+The origins of the Singapore Library 
+can be traced to a meeting in 1823 when 
+Stamford Raffles outlined his plans for the 
+establishment of a library within the Singapore Institution, today known as the Raffles 
+Institution. The public could access the
