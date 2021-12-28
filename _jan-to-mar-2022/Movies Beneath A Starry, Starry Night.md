@@ -180,9 +180,9 @@ As these examples demonstrate, there is still a market for the occasional drive-
 
 [^23]: “[Loot for 8 Armed Robbers: A Torchlight](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19770504-1.2.5),” *New Nation*, 4 May 1977, 1. (From NewspaperSG)
 
-[^24]:“[Some Close Encounters at the Drive-in.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19831218-1.2.124.17.1)”
+[^24]: “[Some Close Encounters at the Drive-in.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19831218-1.2.124.17.1)”
 
-[^25]:“[End of Road for Drive-in?,](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19811210-1.2.6)” *New Nation*, 10 December 1982, 2. (From NewspaperSG); “[Some Close Encounters at the Drive-in](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19831218-1.2.124.17.1).” 
+[^25]: “[End of Road for Drive-in?,](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19811210-1.2.6)” *New Nation*, 10 December 1982, 2. (From NewspaperSG); “[Some Close Encounters at the Drive-in](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19831218-1.2.124.17.1).” 
 
 [^26]: [Ronald Goh Wee Huat](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/055bcb28-1163-11e3-83d5-0050568939ad), interview.
 
