@@ -39,19 +39,10 @@ library was conceived and the first books ever to line its shelves.
 The origins of the Singapore Library can be traced to a meeting in 1823 when Stamford Raffles outlined his plans for the establishment of a library within the Singapore Institution, today known as the Raffles Institution. The public could access the library – which opened in 1837 as part of the school – for a small fee, but as its popularity grew, there were calls for the library to open after school hours. Therefore, on 22 January 
 1845, the Singapore Library was established – the island’s first subscription-based public library.1 The 1845 publication is the library’s first annual report.
 
-Library patrons today can visit any public library for free, but this was not the case in the early days. The Singapore Library started with three levels of membership. The first was for shareholders, who paid an entrance fee of 40 Spanish dollars and a monthly subscription of two Spanish dollars.2 However, this turned out to be too expensive, so two additional categories of membership were created in 1847 with a monthly fee of 2.50 Spanish dollars3 – one for Singapore residents, and the other for visitors or temporary residents. A fourth category was added in 1848 with a monthly fee of one Spanish dollar.4
+Library patrons today can visit any public library for free, but this was not the case in the early days. The Singapore Library started with three levels of membership. The first was for shareholders, who paid an entrance fee of 40 Spanish dollars and a monthly subscription of two Spanish dollars.2 However, this turned out to be too expensive, so two additional categories of membership were created in 1847 with a monthly fee of 2.50 Spanish dollars3 – one for Singapore residents, and the other for visitors or temporary residents. A fourth category was added in 1848 with a monthly fee of one Spanish dollar.4 Subsequently in 1860, only the first two categories were retained, and 
+the monthly fee for Singapore residents was reduced to one Spanish dollar.5
 
- Subsequently in 1860, only 
-the first two categories were retained, and 
-the monthly fee for Singapore residents was 
-reduced to one Spanish dollar.5
-In addition to membership details, the 
-report also contains information on the collections of the library, the by-laws, including 
-its opening hours, and the fines payable for 
-overdue and lost materials. Each member 
-could only borrow one book and one periodical at a time for anywhere between two and 
-14 days, depending on the type of item and 
-whether it was a new title.6
-From just 617 volumes in 1846, the 
-library’s collection quickly grew to more 
-than 2,000 volumes by 1860. Its list of books 
+In addition to membership details, the report also contains information on the collections of the library,the by-laws, including its opening hours, and the fines payable for overdue and lost materials. Each member 
+could only borrow one book and one periodical at atime for anywhere between two and 14 days, depending on the type of item and whether it was a new title.6
+
+From just 617 volumes in 1846, the library’s collection quickly grew to more than 2,000 volumes by 1860. Its list of books
