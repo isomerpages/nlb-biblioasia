@@ -57,13 +57,13 @@ G. R. Lambert & Co. faced tough times as advances in photographic technology all
 [^1]:Toh, J. (2009). [*Singapore through 19th century photographs*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13217339) (p. 14). Singapore: Editions Didier Millet. Call no.: RSING 959.5703 TOH-[HIS]
 [^2]:Falconer, J. (1987). [*A vision of the past: A history of early photography in Singapore and Malaya: The photographs of G. R. Lambert & Co., 1880–1910*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4368234) (p. 16). Singapore: Times Editions. Call no.: RSING 779.995957 FAL
 [^3]:[Falconer](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4368234), 1987, pp.19–25.
-[^4]:Lambert, G. R. (1867, April 11). The Singapore Daily Times, p. 2. Microfilm no.: NL 5217
+[^4]:Lambert, G. R. (1867, April 11). *The Singapore Daily Times*, p. 2. Microfilm no.: NL 5217
 [^5]:[Falconer](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4368234), 1987, pp. 35–36.
-[^6]:Toh, 2009, pp. 22–27.
-[^7]:Wright, A., & Cartwright, H. A. (Eds.). (1908). Twentieth century impressions of British Malaya: Its history, people, commerce, industries, and resources (pp. 702, 705). London: Lloyd’s Greater Britain Publishing Co. Call no.: RCLOS 959.51033 TWE
-[^8]:G. R. Lambert & Co. (1899). G. R. Lambert & Co.’s catalogue of photographic views of Singapore, the Malay Archipelago, and Siam, Borneo, Java & Sumatra (inside front cover). Singapore: G. R. Lambert & Co. Not available in NLB holdings
+[^6]:[Toh](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13217339), 2009, pp. 22–27.
+[^7]:Wright, A., & Cartwright, H. A. (Eds.). (1908). [*Twentieth century impressions of British Malaya: Its history, people, commerce, industries, and resources*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4125591) (pp. 702, 705). London: Lloyd’s Greater Britain Publishing Co. Call no.: RCLOS 959.51033 TWE
+[^8]:G. R. Lambert & Co. (1899). *G. R. Lambert & Co.’s catalogue of photographic views of Singapore, the Malay Archipelago, and Siam, Borneo, Java & Sumatra* (inside front cover). Singapore: G. R. Lambert & Co. Not available in NLB holdings
 [^9]:G. R. Lambert & Co., 1899, pp. 9–18. 
-[^10]:The Straits Times dated 30 January 1897 to 10 May 1901, p. 3. Retrieved from NewspaperSG.
-[^11]:The Annual Hegira (1901, 30 March to 4 May). The Straits Times, p. 3. Retrieved from NewspaperSG. 
-[^12]:The Singapore and Straits Directory. (1901). (p. 117). Singapore: Mission Press. Microfilm nos.: NL 1180, NL 1181
+[^10]:*The Straits Times* dated 30 January 1897 to 10 May 1901, p. 3. Retrieved from NewspaperSG.
+[^11]:[The Annual Hegira](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19010330-1.2.41) (1901, 30 March to 4 May). *The Straits Times*, p. 3. Retrieved from NewspaperSG. 
+[^12]:[The Singapore and Straits Directory](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5057490). (1901). (p. 117). Singapore: Mission Press. Microfilm nos.: NL 1180, NL 1181
 [^13]:Falconer, 1987, p. 37.
