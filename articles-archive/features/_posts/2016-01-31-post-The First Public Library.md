@@ -74,7 +74,7 @@ The most expensive category was for shareholders, who paid an entrance fee of 40
 #### **NOTES**
 [^1]:Seet, K. K. (1983). [*A place for the people*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082325) (pp. 5–8). Singapore: Times Books International. Call no.: RSING 027.55957 SEE-[LIB]
 [^2]:Singapore Library. (1847). [*The second report of the Singapore Library 1846*](https://eresources.nlb.gov.sg/printheritage/detail/3c12fae7-bfb5-4524-ab57-892031e43abc.aspx) (pp. 4-5).  Singapore: Singapore Library. Microfilm: NL 5040
-[^3]:[Seet](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082325), 1983, pp. 17–18; Singapore Library. (1848). [The third Report of the Singapore Library 1847](https://eresources.nlb.gov.sg/printheritage/detail/3c12fae7-bfb5-4524-ab57-892031e43abc.aspx) (p. 11).  Singapore: Singapore Library. Microfilm: NL 5040
+[^3]:[Seet](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082325), 1983, pp. 17–18; Singapore Library. (1848). [*The third Report of the Singapore Library 1847*](https://eresources.nlb.gov.sg/printheritage/detail/3c12fae7-bfb5-4524-ab57-892031e43abc.aspx) (p. 11).  Singapore: Singapore Library. Microfilm: NL 5040
 [^4]:Singapore Library. (1849). The fourth Report of the Singapore Library 1848 (p. 5).  Singapore: Singapore Library. Microfilm: NL 5040
 [^5]:Singapore Library. (1861). The fifteenth report of the Singapore Library 1860 (p. 5). Singapore: Singapore Library. Microfilm: NL 5040
 [^6]:Singapore Library. (1845). The first report of the Singapore Library 1844 (pp. 4–7).  Singapore: Singapore Library. Microfilm: NL 5040; Singapore Library. (1860). Catalogue of books in the Singapore Library, with regulations and by-laws, September 1860 (p. 6). Singapore: The Mission Press. Microfilm: NL 2805.
