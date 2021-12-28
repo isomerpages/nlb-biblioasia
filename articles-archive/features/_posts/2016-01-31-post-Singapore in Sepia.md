@@ -24,23 +24,7 @@ Photography in Singapore has a long history dating back to 1843.1 The earliest p
 Several photographers came into the picture to cater to this new market, such as John Thomson (1860s) and Sachtler & Co (1863–74).3 But one name dominated the 
 Singapore photography scene: G. R. Lambert & Co. How Gustave Richard Lambert came to Singapore and whether he was related to the Lambert Brothers who made carriages, furniture and tombstones is unknown. The first reference to the German photographer is an announcement about his business venture on page 2 of the 11 April 1867 edition of *The Singapore Daily Times*.4
 
-The company became hugely successful after his business partner Alexander Koch 
-took over in 1885. The studio became the 
-official photographer for events organised 
-by the colonial government and the meetings 
-of Malay sultans.5 In 1897, it added picture 
-postcards to its catalogue when the postal 
-service introduced this new means of communications.6
- A 1908 book, Twentieth Century 
-Impressions of British Malaya, hailed G. R. 
-Lambert & Co. as “the leading photographic 
-artists of Singapore” with “a high reputation 
-for artistic portraiture, and of landscapes… 
-one of the finest collections in the East”. The 
-studio sold “about a quarter of a million [post]
-cards a year”,7
- and images in large format 
-for use in photo albums.
-Unfortunately, few such albums exist 
-today. This artefact, an album dedicated to 
-a Mr Vellenzer, is one rare survival. Most of 
+The company became hugely successful after his business partner Alexander Koch took over in 1885. The studio became the official photographer for events organised by the colonial government and the meetings 
+of Malay sultans.5 In 1897, it added picture postcards to its catalogue when the postal service introduced this new means of communications.6 A 1908 book, *Twentieth Century Impressions of British Malaya*, hailed G. R. Lambert & Co. as “the leading photographic artists of Singapore” with “a high reputation for artistic portraiture, and of landscapes… one of the finest collections in the East”. The studio sold “about a quarter of a million [post] cards a year”,7 and images in large format for use in photo albums.
+
+Unfortunately, few such albums exist today. This artefact, an album dedicated to a Mr Vellenzer, is one rare survival. Most of
