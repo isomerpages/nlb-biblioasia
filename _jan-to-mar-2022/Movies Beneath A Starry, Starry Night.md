@@ -188,7 +188,7 @@ As these examples demonstrate, there is still a market for the occasional drive-
 
 [^27]: “[Jurong Drive-in’s Lot is an Unhappy One](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19811210-1.2.57).” *Straits Times*, 10 December 1981, 11. (From NewpaperSG)
 
-[^28]:“[Jurong Drive-in’s Lot is an Unhappy One.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19811210-1.2.57)”
+[^28]: “[Jurong Drive-in’s Lot is an Unhappy One.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19811210-1.2.57)”
 
 [^29]:“[It’s Curtains for Jurong Drive-in Tomorrow.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850929.2.24.1.aspx)”
 
