@@ -50,4 +50,11 @@ the Singapore Library*, and since the Dewey Decimal and Library of Congress clas
 
 Many of the library’s earliest books, which were mostly donated, included titles such as *Notices of the Indian Archipelago, and Adjacent Countries* (1837) (see page 36), *Memoir of the Life and Public Services of Sir Thomas Stamford Raffles* (1830) and the entire series of *The Edinburgh Review*.9 These titles are still with the National Library today.10
 
-Over time, the role of the Singapore Library evolved. In 1849, the library assumed the additional role of a museum when Governor William J. Butterworth presented the Singapore Library with two ancient gold coins given by the Temenggong of Johor. To prepare for its new role,
+Over time, the role of the Singapore Library evolved. In 1849, the library assumed the additional role of a museum when Governor William J. Butterworth presented the Singapore Library with two ancient gold coins given by the Temenggong of Johor. To prepare for its new role, a museum committee was formed and 
+the responsibilities of the librarian were expanded to include the role of curator.11 Although this arrangement was considered as one of the causes for the eventual demise of the Singapore Library, it nonetheless laid the foundation for the next phase of development when the library’s functions were expanded to include the administration of a museum before it was reconstituted 
+as the Raffles Library and Museum on 16 July 1874.12
+
+About eight decades later, in 1955, the library and the museum split amicably, resulting in the establishment of the Raffles National Library at Stamford Road on 12 November 1960. Barely three weeks later, on 1 December, the Raffles National Library was renamed as the National Library, which would exist until 1 September 1995 when it became a statutory board known as the 
+National Library Board.13
+
+– Written by Lim Tin Seng
