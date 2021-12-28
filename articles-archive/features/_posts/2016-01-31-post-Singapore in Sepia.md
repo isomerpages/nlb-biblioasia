@@ -17,4 +17,5 @@ description: ""
 </span>
 
 <img src="/images/vol-11-issue-4/singapore-in-sepia/S1.JPG">
-<div style="background-color: white;"></i></div>
+<div style="background-color: white;">A view of South Bridge Road. In the background is Jamae Mosque with its twin minarets and further along the same street is the Sri Mariamman Temple. <i>All rights reserved, Lambert, G. R. (1890). Fotoalbum Singapur. Singapore: G. R. Lambert</i></div>
+
