@@ -46,7 +46,7 @@ Who was the mysterious Vellenzer? The album’s front and back covers depict sho
 ones who presented him with the album. From the inscription, it appears that Vellenzer left Singapore in 1901. Between 1897 and 1901, *The Straits Times* published “The Annual Hegira”, a list of Europeans leaving Singapore each spring.10 The 1901 roll-call 
 includes a T. Vellenzer, who sailed on the Prinzess Irene on 6 May.11 However, T. Vellenzer is not mentioned in the *Straits Directory* or in the newspapers before 1901. More likely, the album belonged to a J. Vellenzer, who was mentioned in the directories between 1897 and 1901. J. Vellenzer worked for Brinkmann & Co,12 a trading company with offices in Britain and Germany. Outside of work, Vellenzer was likely active in the Singapore Cricket Club as from 1899 to 1901, his name was listed regularly in the club’s tennis tournaments.
 
-<img src="/images/vol-11-issue-4/singapore-in-sepia/S4.JPG">
+<img style="width: 350px; height: 450px;" src="/images/vol-11-issue-4/singapore-in-sepia/S4.JPG">
 <div style="background-color: white;"> A portrait of a Malay girl. <i>All rights reserved, Lambert, G. R. (1890). Fotoalbum Singapur. Singapore: G. R. Lambert.</i></div>
 
 G. R. Lambert & Co. faced tough times as advances in photographic technology allowed amateurs and other companies to elbow into the market. The studio lost its manager, Koch, in 1905 or 1906, and did not recover. G. R. Lambert & Co. eventually folded in 1918.13 
