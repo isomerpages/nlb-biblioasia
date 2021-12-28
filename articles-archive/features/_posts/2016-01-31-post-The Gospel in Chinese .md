@@ -58,3 +58,12 @@ Bible.9 Gützlaff died in Hong Kong in 1851.
 – Written by Ong Eng Chuan
 
 #### **NOTES**
+[^1]:Newbold, T. J. (1839). Political and statistical account of the British settlements in the Straits of Malacca, viz. Pinang, Malacca, and Singapore: With a history of the Malayan states on the peninsula of Malacca (Vol.1, p. 284).  London: J. Murray. Microfilm: NL 5141
+[^2]:Fairbank, J. K., & Goldman, M. (2006). China: A new history (p. 195, 222). Cambridge, Mass: Belknap Press of Harvard University Press. Call no.: R 951 FAI 
+[^3]:Singapore Christian Union. (1830). The Report of the Singapore Christian Union (pp. 10–11).  Singapore: The Mission press. Microfilm: NL 30804
+[^4]:Singapore Christian Union, 1830, p. 16.
+[^5]:Wylie, A. (1867). Memorials of Protestant Missionaries to the Chinese: Giving a list of theirpublications, and obituary notices of the deceased … Shanghai: American Presbyterian Mission Press. Retrieved from Internet Archive website.
+[^6]:In 1834, Claudius Henry Thomsen sold the Mission Press to the American Board of Commissioners for Foreign Missions in a dubious deal, see page 101.
+[^7]:Bliss, E. M., Jackson, S. M., & Gilmore, G. W. (Eds.). (2002). The encyclopaedia of missions: Descriptive, historical, biographical, statistical (Vol. 1, p. 404). London: Ganesha Pub.; Tokyo: Edition Synapse. Call no.: R q266.003 ENC
+[^8]:Zhang, X. T. (2007). The origins of the modern Chinese press: The influence of the Protestant missionary press in late Qing China (p. 39). New York: Routledge. Call no.: R 079.51 ZHA
+[^9]:Bliss, Jackson & Gilmore, 2002, p. 501. 
