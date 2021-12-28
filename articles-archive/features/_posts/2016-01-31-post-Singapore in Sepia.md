@@ -26,7 +26,7 @@ Several photographers came into the picture to cater to this new market, such as
 The company became hugely successful after his business partner Alexander Koch took over in 1885. The studio became the official photographer for events organised by the colonial government and the meetings 
 of Malay sultans.[^5] In 1897, it added picture postcards to its catalogue when the postal service introduced this new means of communications.[^6] A 1908 book, *Twentieth Century Impressions of British Malaya*, hailed G. R. Lambert & Co. as “the leading photographic artists of Singapore” with “a high reputation for artistic portraiture, and of landscapes… one of the finest collections in the East”. The studio sold “about a quarter of a million [post] cards a year”,[^7] and images in large format for use in photo albums.
 
-<img src="/images/vol-11-issue-4/singapore-in-sepia/S2.JPG">
+<img style="width: 650px; height: 450px;" src="/images/vol-11-issue-4/singapore-in-sepia/S2.JPG">
 <div style="background-color: white;"> Cavenagh Bridge, erected across the Singapore River in 1870, was named after William Cavenagh, the last Governor of the 
 Straits Settlements under British India (1859–
 67). <i>All rights reserved, Lambert, G. R. (1890). 
@@ -35,7 +35,7 @@ Fotoalbum Singapur. Singapore: G. R. Lambert.</i></div>
 Unfortunately, few such albums exist today. This artefact, an album dedicated to a Mr Vellenzer, is one rare survival. Most of its 65 photos, which date from the 1890s, came from the 1899 G. R. Lambert & Co. 
 catalogue.[^8] However, the photos may not have been mounted by G. R. Lambert & Co., as they do not bear the studio’s embossed stamp. The inside front cover has a German inscription that, roughly translated, means: “[To] Our dear friend Vellenzer, for friendly remembrance. Singapore, dated 3 May 1901”. Below it are eight signatures.
 
-<img src="/images/vol-11-issue-4/singapore-in-sepia/S3.JPG">
+<img style="width: 650px; height: 420px;" src="/images/vol-11-issue-4/singapore-in-sepia/S3.JPG">
 <div style="background-color: white;">This photo album was dedicated to a Mr Vellenzer. The album’s front and back covers depict shots of a group of Europeans, possibly Vellenzer’s friends, who may have presented him with the album. <i>Image source: National Library Board, Singapore.</i></div>
 
 The album’s photos literally capture a snapshot of old Singapore, from bustling ports docked with lighter boats and ships from all over the world to busy streets plied by horse-drawn carriages and rickshaws. More than a third of the photos are of Singapore’s Asian inhabitants. The G. R. Lambert & Co. catalogue lists them as “natives” or 
