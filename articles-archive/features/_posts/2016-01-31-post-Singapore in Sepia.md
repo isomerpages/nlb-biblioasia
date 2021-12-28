@@ -65,5 +65,5 @@ G. R. Lambert & Co. faced tough times as advances in photographic technology all
 [^9]:G. R. Lambert & Co., 1899, pp. 9–18. 
 [^10]:*The Straits Times* dated 30 January 1897 to 10 May 1901, p. 3. Retrieved from NewspaperSG.
 [^11]:[The Annual Hegira](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19010330-1.2.41) (1901, 30 March to 4 May). *The Straits Times*, p. 3. Retrieved from NewspaperSG. 
-[^12]:[The Singapore and Straits Directory](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5057490). (1901). (p. 117). Singapore: Mission Press. Microfilm nos.: NL 1180, NL 1181
-[^13]:Falconer, 1987, p. 37.
+[^12]:[*The Singapore and Straits Directory*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5057490). (1901). (p. 117). Singapore: Mission Press. Microfilm nos.: NL 1180, NL 1181
+[^13]:[Falconer](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4368234), 1987, p. 37.
