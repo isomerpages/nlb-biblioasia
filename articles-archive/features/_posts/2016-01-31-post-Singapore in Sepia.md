@@ -19,3 +19,7 @@ description: ""
 <img src="/images/vol-11-issue-4/singapore-in-sepia/S1.JPG">
 <div style="background-color: white;">A view of South Bridge Road. In the background is Jamae Mosque with its twin minarets and further along the same street is the Sri Mariamman Temple. <i>All rights reserved, Lambert, G. R. (1890). Fotoalbum Singapur. Singapore: G. R. Lambert</i></div>
 
+Photography in Singapore has a long history dating back to 1843.1 The earliest photographs, or daguerrotypes, captured images on metal plates. Then, in 1851, the glass plate collodion process was introduced, which allowed photographs to be easily reproduced on albumen paper.2 This new technology was a breakthrough as it allowed photography to take off commercially.
+
+Several photographers came into the picture to cater to this new market, such as John Thomson (1860s) and Sachtler & Co (1863–74).3 But one name dominated the 
+Singapore photography scene: G. R. Lambert 
