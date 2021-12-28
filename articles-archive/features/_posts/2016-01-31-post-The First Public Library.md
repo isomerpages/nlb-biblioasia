@@ -39,6 +39,10 @@ library was conceived and the first books ever to line its shelves.
 The origins of the Singapore Library can be traced to a meeting in 1823 when Stamford Raffles outlined his plans for the establishment of a library within the Singapore Institution, today known as the Raffles Institution. The public could access the library – which opened in 1837 as part of the school – for a small fee, but as its popularity grew, there were calls for the library to open after school hours. Therefore, on 22 January 
 1845, the Singapore Library was established – the island’s first subscription-based public library.1 The 1845 publication is the library’s first annual report.
 
+<img src="/images/vol-11-issue-4/the-first-public-library/L2.JPG">
+<div style="background-color: white;"> This 1890s photograph by G. R. Lambert & Co. shows a view 
+of the original 1887 front block of the Raffles Library and Museum at Stamford Road. Today, the neo-classical building houses the National Museum of Singapore. <i>Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009.</i></div>
+
 Library patrons today can visit any public library for free, but this was not the case in the early days. The Singapore Library started with three levels of membership. The first was for shareholders, who paid an entrance fee of 40 Spanish dollars and a monthly subscription of two Spanish dollars.2 However, this turned out to be too expensive, so two additional categories of membership were created in 1847 with a monthly fee of 2.50 Spanish dollars3 – one for Singapore residents, and the other for visitors or temporary residents. A fourth category was added in 1848 with a monthly fee of one Spanish dollar.4 Subsequently in 1860, only the first two categories were retained, and 
 the monthly fee for Singapore residents was reduced to one Spanish dollar.5
 
@@ -54,7 +58,17 @@ Over time, the role of the Singapore Library evolved. In 1849, the library assum
 the responsibilities of the librarian were expanded to include the role of curator.11 Although this arrangement was considered as one of the causes for the eventual demise of the Singapore Library, it nonetheless laid the foundation for the next phase of development when the library’s functions were expanded to include the administration of a museum before it was reconstituted 
 as the Raffles Library and Museum on 16 July 1874.12
 
+<img src="/images/vol-11-issue-4/the-first-public-library/L3.JPG">
+<div style="background-color: white;">William J. Butterworth (1801–56), Governor of the Straits 
+Settlements (1843–1855), was the first president of the Singapore Library when it opened in January 1845. <i>Image source: National Library Board, Singapore.</i></div>
+
 About eight decades later, in 1955, the library and the museum split amicably, resulting in the establishment of the Raffles National Library at Stamford Road on 12 November 1960. Barely three weeks later, on 1 December, the Raffles National Library was renamed as the National Library, which would exist until 1 September 1995 when it became a statutory board known as the 
 National Library Board.13
 
+<img src="/images/vol-11-issue-4/the-first-public-library/L4.JPG">
+<div style="background-color: white;">The Singapore Library started with three levels of membership. 
+The most expensive category was for shareholders, who paid an entrance fee of 40 Spanish dollars and a monthly subscription of two Spanish dollars. <i>Image source: National Library Board, Singapore.</i></div>
+
 – Written by Lim Tin Seng
+
+#### **NOTES**
