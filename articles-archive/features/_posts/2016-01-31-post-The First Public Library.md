@@ -26,3 +26,6 @@ description: ""
 <b>Call no.:</b> RRARE 015.5951 SIN<br>
 <b>Accession nos.:</b> B03053866I; B03053867J
 </span>
+
+<img src="/images/vol-11-issue-4/the-first-public-library/L1.JPG">
+<div style="background-color: white;"></i></div>
