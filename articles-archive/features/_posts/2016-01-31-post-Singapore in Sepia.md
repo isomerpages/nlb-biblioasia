@@ -54,11 +54,11 @@ G. R. Lambert & Co. faced tough times as advances in photographic technology all
 – Written by Timothy Pwee
 
 #### **NOTES**
-[^1]:Toh, J. (2009). Singapore through 19th century photographs (p. 14). Singapore: Editions Didier Millet. Call no.: RSING 959.5703 TOH-[HIS]
-[^2]:Falconer, J. (1987). A vision of the past: A history of early photography in Singapore and Malaya: The photographs of G. R. Lambert & Co., 1880–1910 (p. 16). Singapore: Times Editions. Call no.: RSING 779.995957 FAL
-[^3]:Falconer, 1987, pp.19–25.
+[^1]:Toh, J. (2009). [*Singapore through 19th century photographs*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13217339) (p. 14). Singapore: Editions Didier Millet. Call no.: RSING 959.5703 TOH-[HIS]
+[^2]:Falconer, J. (1987). [*A vision of the past: A history of early photography in Singapore and Malaya: The photographs of G. R. Lambert & Co., 1880–1910*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4368234) (p. 16). Singapore: Times Editions. Call no.: RSING 779.995957 FAL
+[^3]:[Falconer](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4368234), 1987, pp.19–25.
 [^4]:Lambert, G. R. (1867, April 11). The Singapore Daily Times, p. 2. Microfilm no.: NL 5217
-[^5]:Falconer, 1987, pp. 35–36.
+[^5]:[Falconer](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4368234), 1987, pp. 35–36.
 [^6]:Toh, 2009, pp. 22–27.
 [^7]:Wright, A., & Cartwright, H. A. (Eds.). (1908). Twentieth century impressions of British Malaya: Its history, people, commerce, industries, and resources (pp. 702, 705). London: Lloyd’s Greater Britain Publishing Co. Call no.: RCLOS 959.51033 TWE
 [^8]:G. R. Lambert & Co. (1899). G. R. Lambert & Co.’s catalogue of photographic views of Singapore, the Malay Archipelago, and Siam, Borneo, Java & Sumatra (inside front cover). Singapore: G. R. Lambert & Co. Not available in NLB holdings
