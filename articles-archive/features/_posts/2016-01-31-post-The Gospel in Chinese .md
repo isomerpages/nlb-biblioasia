@@ -45,7 +45,7 @@ Among these publications was a book titled 全人矩矱, which roughly translate
 and is the earliest extant Chinese publication printed in Singapore in the National Library’s collection. Stitched and bound in the traditional Chinese bookbinding style, the book contains 30 leaves, sewn together using the five-hole stitching method.
 
 <img style="width: 300px; height: 310px;" src="/images/vol-11-issue-4/the-gospel-in-chinese/C3.JPG">
-<div style="background-color: white;">  The author Karl Friedrich August Gützlaff (1803–51) was a German Protestant missionary fluent in Chinese. All rights reserved, Gützlaff, K. F. A. (1834). A Sketch of Chinese History (Vol. I). New York: John P. Haven. <i>Courtesy of 
+<div style="background-color: white;">  The author Karl Friedrich August Gützlaff (1803–51) was a German Protestant missionary fluent in Chinese. <i>All rights reserved, Gützlaff, K. F. A. (1834). A Sketch of Chinese History (Vol. I). New York: John P. Haven. Courtesy of 
 Wikimedia Commons.</i></div>
 
 Gützlaff was born in Pyritz, Pomerania (a historic region that lies along the border of Germany and Poland). His interest in China grew after a meeting in England with Robert Morrison, the LMS’ first missionary to China.7
