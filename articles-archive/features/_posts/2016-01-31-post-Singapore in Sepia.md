@@ -32,3 +32,16 @@ catalogue.8 However, the photos may not have been mounted by G. R. Lambert & Co.
 
 The album’s photos literally capture a snapshot of old Singapore, from bustling ports docked with lighter boats and ships from all over the world to busy streets plied by horse-drawn carriages and rickshaws. More than a third of the photos are of Singapore’s Asian inhabitants. The G. R. Lambert & Co. catalogue lists them as “natives” or 
 “types”: Klings, Malay, Chinese, Hindoos and so on. They could have been included to give a flavour of Singapore life, or because photos of “natives” – at 25 cents each – were half the price of landscape photos.9 Three hotels are featured in the album: Hotel de la Paix, Adelphi Hotel and Raffles Hotel, in addition to the Teutonic Club – a social and recreational club for the German community in Singapore – for obvious reasons.
+
+Who was the mysterious Vellenzer? The album’s front and back covers depict shots of a group of Europeans, possibly Vellenzer’s friends, who may have been the 
+ones who presented him with the album. From the inscription, it appears that Vellenzer left Singapore in 1901. Between 1897 and 1901, The Straits Times published “The Annual Hegira”, a list of Europeans leaving Singapore each spring.10 The 1901 roll-call 
+includes a T. Vellenzer, who sailed on the Prinzess Irene on 6 May.11 However, T. Vellenzer is not mentioned in the Straits Directory or in the newspapers before 1901. More 
+likely, the album belonged to a J. Vellenzer, who was mentioned in the directories between 1897 and 1901. J. Vellenzer worked for Brinkmann & Co,12 a trading company with offices in Britain and Germany. Outside of work, Vellenzer was likely active in the Singapore Cricket Club as from 1899 to 1901, his name was listed regularly in the club’s tennis tournaments.
+
+G. R. Lambert & Co. faced tough times 
+as advances in photographic technology 
+allowed amateurs and other companies to 
+elbow into the market. The studio lost its 
+manager, Koch, in 1905 or 1906, and did 
+not recover. G. R. Lambert & Co. eventually 
+folded in 1918.13 Timothy Pwee
