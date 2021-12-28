@@ -48,4 +48,6 @@ Gützlaff first set sail for the East in 1826 as a missionary of the Netherlands
 A prolific writer and translator of Christian literature, some of Gützlaff‘s notable works include the translation of the Bible into Thai, Chinese and Japanese. He also produced a Chinese-language magazine, Eastern Western Monthly Magazine (东西洋考每月统记传), which is regarded as the first contemporary Chinese periodical to be published in China.8 While living in Macau, Gützlaff translated the Gospel and Epistles of John into Japanese, which was printed in Singapore and is believed to be the first Japanese translation of the 
 Bible.9 Gützlaff died in Hong Kong in 1851. 
 
-Written by Ong Eng Chuan
+– Written by Ong Eng Chuan
+
+#### **NOTES**
