@@ -53,10 +53,10 @@ Over the years, the directory has been published under various names: *The Strai
 – Written by Lee Meiyu
 
 #### **NOTES**
-[^1]:Turnbull, C. M. (1995). Dateline: 150 years of the Straits Times (pp. 10, 15). Singapore: Times Editions for Singapore Press Holdings.  Call no.: RSING 079.5957 TUR
-[^2]:Lee, G. B. (1989). Pages from yesteryear: A look at the printed works of Singapore, 1819–1959 (p. 22). Singapore: Singapore Heritage Society. Call no.: RSING 070.5095957 PAG; Early Straits journalism. (1899, July 29). The Singapore Free Press and Mercantile Advertiser (1884–1942), p. 3; Times past. (1995, July 15). The Straits Times, p. 7; The morning of Tues., July 15, 1845. (1953, January 18). The Straits Times, p. 3. Retrieved from NewspaperSG.
-[^3]:Turnbull, 1995, p. 23.
-[^4]:Turnbull, 1995, p. 25.
+[^1]:Turnbull, C. M. (1995). [*Dateline: 150 years of the Straits Times*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7471414) (pp. 10, 15). Singapore: Times Editions for Singapore Press Holdings.  Call no.: RSING 079.5957 TUR
+[^2]:Lee, G. B. (1989). [*Pages from yesteryear: A look at the printed works of Singapore, 1819–1959*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5360274) (p. 22). Singapore: Singapore Heritage Society. Call no.: RSING 070.5095957 PAG; [Early Straits journalism](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb18990729-1.2.20). (1899, July 29). *The Singapore Free Press and Mercantile Advertiser (1884–1942)*, p. 3; [Times past](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19950715-1.2.223.4.1). (1995, July 15). *The Straits Times*, p. 7; [The morning of Tues., July 15, 1845](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19530118-1.2.169.4). (1953, January 18). *The Straits Times*, p. 3. Retrieved from NewspaperSG.
+[^3]:[Turnbull](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7471414), 1995, p. 23.
+[^4]:[Turnbull](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7471414), 1995, p. 25.
 [^5]:Turnbull, 1995, pp. 29–34; Tan, K. Y. L (1999). The Singapore legal system (p. 34). Singapore: Singapore University Press. Call no.: RSING 349.5957 SIN
 [^6]:The first report of the Singapore Library. (1844). Singapore: Singapore Library. Microfilm no.: NL 5040; The late Mr W. H. Read C. M. G., K. N. L. (1910, July 11). The Singapore Free Press and Mercantile Advertiser (1884–1942), p. 5. Retrieved from NewspaperSG.
-[^7]:Turnbull, 1995, pp. 33–34; James Guthrie Davidson. (1891, February 11). Straits Times Weekly, p. 8; Rodyk & Davidson LLP. (2015). About us: History. Retrieved from Rodyk & Davidson website. 
+[^7]:Turnbull, 1995, pp. 33–34; James Guthrie Davidson. (1891, February 11). Straits Times Weekly, p. 8; Rodyk & Davidson LLP. (2015). About us: History. Retrieved from Rodyk & Davidson website.
