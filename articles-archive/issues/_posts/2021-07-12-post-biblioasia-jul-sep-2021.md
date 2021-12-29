@@ -31,4 +31,4 @@ in the Philippines.
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-2/jul-sep-2021/jurong-bird-park"> How Jurong Bird Park Was Hatched</a> <br>*Zoe Yeo* gives a bird’s-eye view of the setting up of one 
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-2/jul-sep-2021/chinese-artists"> Chinese Graphic Artists in Pre-war Singapore</a> <br>Several talented graphic artists moved from China to Singapore from the 1920s. *Lee Chor Lin* highlights these artists and their works.om the 1920s. *Lee Chor Lin* highlights these artists and their works.
+<a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-2/jul-sep-2021/chinese-artists"> Chinese Graphic Artists in Pre-war Singapore</a> <br>Several talented graphic artists moved from China to Singapore from the 1920s. *Lee Chor Lin* highlights these artists and their works.

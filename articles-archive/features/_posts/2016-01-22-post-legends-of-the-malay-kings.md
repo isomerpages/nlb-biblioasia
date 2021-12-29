@@ -25,9 +25,9 @@ layout: post
 <b>Call no.:</b>  RRARE 9.51 SEJ<br>
 <b>Accession no.:</b> B20025340E</span>
 
-The *Sejarah Melayu* is considered by scholars as an important literary work on the history and genealogy of the Malay kings of the Melaka Sultanate (1400–1511). Partially composed in the 17th century in Jawi – the modified Arabic script used to express the Malay language – the title is derived from its original Arabic name, *Sulalat al-Salatin* (*Genealogy of Kings*).[^1] But few are aware that its first English translation in the early 19th century, the *Malay Annals*, was actually undertaken by a Scotsman.
-
 <div style="background-color: white;"><img style="width:500px" src="/images/vol-11-issue-4/legend-of-malay-kings/03a_malaykings.jpg">Sejarah Melayu includes an introduction by Stamford Raffles and was used as a study aid to groom British scholar administrators in the colonial service. <i>All rights reserved, National Library Board, Singapore.</i></div>
+
+The *Sejarah Melayu* is considered by scholars as an important literary work on the history and genealogy of the Malay kings of the Melaka Sultanate (1400–1511). Partially composed in the 17th century in Jawi – the modified Arabic script used to express the Malay language – the title is derived from its original Arabic name, *Sulalat al-Salatin* (*Genealogy of Kings*).[^1] But few are aware that its first English translation in the early 19th century, the *Malay Annals*, was actually undertaken by a Scotsman.
 
 His name was John Leyden, a close friend of the founder of modern Singapore, Stamford Raffles, and a prominent figure of the Scottish Enlightenment movement of the late 18th century.[^2] The book, published in 1821, is the earliest English translation of the epic work, and opened up the world of Malay history and literature to 19th century colonial scholars. In some ways, the book was so revolutionary that it overshadowed the handwritten Jawi manuscript, as well as the printed Jawi version by the learned scholar Abdullah bin Abdul Kadir (also known as Munshi Abdullah), published 20 years later.[^3] In fact, the popular use of the translated title “Malay Annals” and the original “Sejarah Melayu” may be attributed to Leyden as both were likely coined in his translation.[^4]
 

@@ -49,7 +49,7 @@ Lim’s sense of purpose was founded on his medical education at the University 
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-9-issue-4/sgmanofscienceandmedicine/Coolies.jpg">
+<img src="/images/vol-9-issue-4/sgmanofscienceandmedicine/Coolies.jpg" style="width:70%;">
 Coolies, commonly found transporting goods along the Singapore River, formed part of the Overseas Chinese community (1948). <i>Courtesy of National Archives of Singapore.</i></div>
 
 #### **Robert Lim: Like Father, Like Son**
@@ -70,19 +70,19 @@ In September the same year, local ballroom dancers conducted a ballroom dancing 
 
 At the CRCMRC, Robert Lim greatly expanded medical care for the wounded Chinese in the form of preventive medicine for unoccupied China. One key aspect of preventive medicine was delousing, which killed parasitic mites and lice on soldiers. The mites spread scabies, the number one affliction of Chinese soldiers then.[^25] Scabies was a serious condition as soldiers would scratch their wounds into a secondary and more serious skin infection known as impetigo, a highly contagious bacterial infection. Typhus fever and relapsing fever were spread by lice, with the former being more serious, often leading to premature death if not treated expeditiously. These conditions were often exacerbated by the lack of access to bathing water and soap, which meant mites and lice would remain with their hosts for long periods of time.
 
-The delousing programme began in 1938 and expanded significantly in 1939. Trained sanitary engineers and doctors in mobile units were sent across unoccupied China to delouse soldiers and their clothes. By mid-1939, mobile units had reached as far east as Jinhua (金華) in Zhejiang, as far west as Chongqing (重慶), as far north as Ganguyi (甘谷驛) in Shanxi, and as far south as Liuzhou (柳洲) in Guangxi.[^26] By the mid-1940s, mobile units had reached further south to Nanning (南寧) in Guangxi and further west to Xiaguan (下關) in Yunnan.[^27] The reach of the delousing units spread far and wide as it attempted to extend treatment to all soldiers in unoccupied China. In total, the sanitary units deloused a total of around 380,000 people as well as 800,000 articles by the end of December 1940, an exponential increase from January to June 1939 where around 17,000 persons and 145,000 thousand articles were deloused. in total, Lim’s CRCMRC treated more than five million people.
+The delousing programme began in 1938 and expanded significantly in 1939. Trained sanitary engineers and doctors in mobile units were sent across unoccupied China to delouse soldiers and their clothes. By mid-1939, mobile units had reached as far east as Jinhua (金華) in Zhejiang, as far west as Chongqing (重慶), as far north as Ganguyi (甘谷驛) in Shanxi, and as far south as Liuzhou (柳洲) in Guangxi.[^26] By the mid-1940s, mobile units had reached further south to Nanning (南寧) in Guangxi and further west to Xiaguan (下關) in Yunnan.[^27] The reach of the delousing units spread far and wide as it attempted to extend treatment to all soldiers in unoccupied China. In total, the sanitary units deloused a total of around 380,000 people as well as 800,000 articles by the end of December 1940, an exponential increase from January to June 1939 where around 17,000 persons and 145,000 thousand articles were deloused. In total, Lim’s CRCMRC treated more than five million people.
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-9-issue-4/sgmanofscienceandmedicine/Source_Singapore_Chinese_Clan_Assn.jpg">
+<img src="/images/vol-9-issue-4/sgmanofscienceandmedicine/Source_Singapore_Chinese_Clan_Assn.jpg" style="width:70%;">
 Entrance of New World Amusement Park at Jalan Besar, circa 1960. This was where Chinese swimmer Yang Shau King helped to raise funds for the Chinese Red Cross. <i>Chinese Clan Association collection, courtesy of National Archives of Singapore.</i></div>
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-9-issue-4/sgmanofscienceandmedicine/Source_Singapore_Chinese_Clan_Associations.jpg">
+<img src="/images/vol-9-issue-4/sgmanofscienceandmedicine/Source_Singapore_Chinese_Clan_Associations.jpg" style="width:70%;">
 Group photograph of Singapore Overseas Chinese raising relief funds for China, headed by Tan Kah Kee. <i>Singapore Chinese Clan Associations Collection, Courtesy of National Archives of Singapore.</i></div>
 
-#### **Leaving A Legacy**
+#### **Leaving a Legacy**
 
 Lim Boon Keng and Robert Lim’s time in China were not without opposition. Lu Xun and other intellectuals from the May Fourth Movement (1917–1921) opposed Lim Boon Keng’s promotion of sciences and Confucianism at Xiamen University. Unable to resolve their differences with him, these intellectuals left the university after teaching for only a few months.[^28] 
 
@@ -94,7 +94,7 @@ Besides Lim Boon Keng and Robert Lim, there were other prominent Overseas Chines
 
 Of particular importance was Penang-born Wu Lien-teh, who was a Queen’s scholar at Cambridge University. Wu was most famous for his discovery of an unknown disease (later found to be the pneumonic plague) that wreaked havoc across North China in the 1910s, as well as his role in the expansion of the Western-style public health system in the region. After heading the NMPPS from 1912 to 1930, he left North China to head the Shanghai-based NQS and established a comprehensive system of quarantine, fumigation, and health inspections in ports such as Shanghai, Hankou and Xiamen.[^31]
 
-Wu, together with the Lims and the other Overseas Chinese, represent an unsung group of medical diaspora who returned to work in China. These medical professionals facilitated the growth of medical and scientific research in China, and popularised new notions of Western science among the Chinese public. In addition, they instituted military medicine, introduced new forms of public health and sought to save lives during the Second World War. As medical professionals, they were not simply motivated by patriotism or altruism, but rather saw China as a place where they could fully utilise their expertise not only to improve the lives of their fellow Chinese, but also to advance their own careers as medical leaders of the new republic. 
+Wu, together with the Lims and the other Overseas Chinese, represent an unsung group of medical diaspora who returned to work in China. These medical professionals facilitated the growth of medical and scientific research in China, and popularised new notions of Western science among the Chinese public. In addition, they instituted military medicine, introduced new forms of public health and sought to save lives during the Second World War. As medical professionals, they were not simply motivated by patriotism or altruism, but rather saw China as a place where they could fully utilise their expertise not only to improve the lives of their fellow Chinese, but also to advance their own careers as medical leaders of the new Republic. 
 
 <p style="font-size:15px;"><b>Wayne Soon</b> was a Lee Kong Chian Research Fellow at the National Library and is currently a PhD candidate in the History Department at Princeton University. His dissertation examines the history of Western medicine In China, with a focus on the new medical institutions created by Overseas Chinese doctors in China during the first half of the 20th century.</p>
 

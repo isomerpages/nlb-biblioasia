@@ -8,7 +8,7 @@ description: ""
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/empress-of-asia/1_Smoke.jpg)
 <div style="background-color: white;">Smoke billows from the <i>Empress of Asia</i> after she was attacked by Japanese dive bombers off Singapore, 5 February 1942. <i>Australian War Memorial, P01604.001</i></div>
 
-_A huge iron anchor has been part of the permanent exhibition at the National Museum of Singapore since 2015. About 2.4 m tall, it is originally from the RMS Empress of Asia, which was destroyed off Singapore in February 1942. At the time, the ship was transporting Allied troops to help reinforce Singapore’s defence during the Japanese invasion. The following story commemorates the 80th anniversary of this wartime loss._
+_A huge iron anchor has been part of the permanent exhibition at the National Museum of Singapore since 2015. About 2.4 m tall, it is originally from the_ RMS Empress of Asia, _which was destroyed off Singapore in February 1942. At the time, the ship was transporting Allied troops to help reinforce Singapore’s defence during the Japanese invasion. The following story commemorates the 80th anniversary of this wartime loss._
 
 Geoffrey Hosken’s school exercise book was an odd choice for a seaman’s diary on a 16,909-ton troopship. Stamped in big black letters are six danger points for schoolchildren, starting with “Don’t run across the road without first looking both ways!” and ending with “Don’t forget to walk on the foot-path, if there is one!”[^1]
 
@@ -16,7 +16,7 @@ The 25-year-old able seaman from Vancouver recognised the irony given his rough 
 
 It was February 1942, and there were 30 pages to fill, several of which would describe the next 32 hours as his ship, the RMS _Empress of Asia_, steamed towards her death off Singapore. 
 
-![Alt text for image on Isomer site](/images/vol-17-issue-4/empress-of-asia/2_Map.jpg)
+![Alt text for image on Isomer site](/images/vol-17-issue-4/empress-of-asia/2_Map2.jpg)
 <div style="background-color: white;">A 1942 map superimposed onto a current map of Singapore, showing where the <i>Empress of Asia</i> sank.</div>
 
 With an unyielding pencil, Hosken wrote: “Wed., Feb. 4, 3 A.M… Lagging behind convoy as usual and cruiser keeps signalling to pick up speed for we are endangering the whole convoy.”
@@ -57,7 +57,7 @@ Painted wartime grey, the 180-metre-long _Empress of Asia_ was not without firep
 The anti-aircraft armament consisted of a 12-pounder (three-inch gun) fitted aft, close to the six-inch gun, six large-calibre Oerlikon guns, and 10 Hotchkiss light machine guns, six of which were secured within machine-gun nests near the bridge.[^4] The ship also had a parachute and cable anti-aircraft system launched by rockets. Missing was her Bofors anti-aircraft gun, which had been transferred to the British Army in North Africa. 
 
 
-**The First Attack: Wednesday, 4 February**
+#### **The First Attack: Wednesday, 4 February**
 
 By 11 am, Hosken was helping prepare mooring lines for coming alongside at Singapore, approximately 525 km to the northwest. He detected what Ewart thought he had heard the night before: aircraft engines. “About 11:30 gunfire started and I looked up and saw nine planes coming over at quite a height. Then there were eighteen of them. I started forward to get lifebelt and helmet. Was going along the starboard alleyway on A deck, just about the purser’s office when bang, I thought the ship was broken in half.”
 
@@ -66,7 +66,7 @@ Captain John Watts of the British 18th Div. saw the aircraft at high altitude in
 Canadian Boy Seaman Geoff Tozer remembered five bombs hitting the water on the starboard side, three falling aft and two landing near the port side. Assigned to an anti-aircraft gun, he quickly realised the targets were beyond range.[^6]
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/empress-of-asia/7_Tozer.jpg)
-<div style="background-color: white;">Canadian Boy Seaman Geoff Tozer remembered five bombs hitting the water on the starboard side of the <i>Empress of Asia</i> on 4 February 1942. Courtesy of Hightail Tozer Papers.</div>
+<div style="background-color: white;">Canadian Boy Seaman Geoff Tozer remembered five bombs hitting the water on the starboard side of the <i>Empress of Asia</i> on 4 February 1942. <i>Courtesy of Hightail Tozer Papers.</i></div>
 
 Hosken hurried aft to a gun position where he was sent below to an ammunition bunker. “2 of us went down (it was very scary). Had some boxes of shells hoisted up and we were told to come out…and keep a lookout by the gun.” He counted five enemy bombs; none of which were direct hits. “Two were near hits. No. 2 and 2A lifeboats were splintered by shrapnel. One piece landed right beside [Ordinary Seaman] Mike [Costello] and one near the gun aft.”
 
@@ -85,7 +85,7 @@ Other available accounts support Hosken’s view or the claim that the ship had 
 “During the forenoon [4 February] the convoy split into two sections,” recalled Oliver. Two of the faster ships, the _Devonshire_ and _Plancius_, escorted by _Exeter_ and _Sutlej_, pulled away from the other three escorted by _Danae_ and _Yarra_. “Twilight until daylight… everything remained quiet, with the convoy proceeding towards Singapore at twelve knots in clear tropical weather.” [^14] 
 
 
-**The Second Attack: Thursday, 5 February**
+#### **The Second Attack: Thursday, 5 February**
 
 By around 10 am, the trailing section of Convoy BM-12 was approaching Sultan Shoal, 21 km from Keppel Harbour. The ships reduced speed as they prepared to embark harbour pilots. However, the pilot assigned to the _Asia_ never made it on board.[^15] At 10.37 am, a large formation of aircraft was spotted, flying west to east.[^16] Minutes later, they attacked from all directions at low and high altitudes. The three troopships and their escorts opened fire. “Bombs started falling… and it was evident the ship had been singled out to bear the brunt of the attack,” reported the captain.[^17]
 
@@ -96,7 +96,7 @@ Cadet Maurice Atkins was on the lower bridge during the attack. “There was thi
 
 Although she got a pilot on board, the _Félix Roussèl_ suffered the first hit, but survived. The enemy aircraft then turned their attention on the _Asia_, which gave the two other troopships the chance to make port. “As each plane attacked, and when coming out of the dive, the bomb could be seen leaving the rack,” recalled Oliver. “Next the explosion, followed by the concussion. All these aircraft attacked from forward in line with the bow at incredible speed.”[^19] 
 
-At 10.48 am, noted Oliver, the enemy scored its first hit. An incendiary bomb penetrated the upper deck between No. 1 and No. 2 funnels, exploding in the lounge. The blast inflicted heavy casualties among the troops below.[^20] Killed instantly was British soldier Ewen McKerchar, shy of his 28th birthday. “I had a firefighting crew working for me and while I was up in the lower bridge with the chief officer I was told to go and hook up the hoses to the hydrants and be ready to help,” recalled Atkins. “When we got there, there was no water.”21
+At 10.48 am, noted Oliver, the enemy scored its first hit. An incendiary bomb penetrated the upper deck between No. 1 and No. 2 funnels, exploding in the lounge. The blast inflicted heavy casualties among the troops below.[^20] Killed instantly was British soldier Ewen McKerchar, shy of his 28th birthday. “I had a firefighting crew working for me and while I was up in the lower bridge with the chief officer I was told to go and hook up the hoses to the hydrants and be ready to help,” recalled Atkins. “When we got there, there was no water.”[^21]
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/empress-of-asia/8_Interior.jpg)
 <div style="background-color: white;">Prior to its conversion as a troopship in 1914, the <i>Empress of Asia</i> offered luxurious travel for first-class passengers. One feature was this domed lounge with beautiful furnishings and a grand piano. During the aerial attack on 5 February 1942, a bomb exploded in the lounge inflicting casualties. <i>University of British Columbia Library, Rare Books and Special Collections – CC-PH-09390.</i></div>
@@ -107,14 +107,14 @@ Another bomb struck close to No. 1 funnel and exploded below deck, knocking out 
 
 Watts described one bomb passing over the bridge before smashing through the fiddley deck and exploding in the officers’ lounge. He noted it was an “oil bomb” weighing no more than 100 pounds (45 kg). The ship was “belching smoke from a short distance behind the bridge to the third funnel… We could see officers and men, blackened and burned, being passed and assisted through open windows of cabins and recreation rooms on the promenade deck.”[^23]
 
-![Alt text for image on Isomer site](/images/vol-17-issue-4/empress-of-asia/9_Bomb.jpg)
-<div style="background-color: white;">This illustration is a basic depiction of the <i>Empress of Asia</i>. It is not to scale and is presented to show the approximate location of where the three bombs mentioned in the essay hit the ship. <i>Illustration: Janet Watson, Mejan Graphic Design. Copyright: Dan Black, Merrickville, Ontario, Canada.</i></div>
-
 Pantryman Douglas Elworthy, a member of the catering crew, was sprayed with hot, oily shrapnel. He was in the pantry below the lounge. In his diary, Hosken mentions a steward with a “belly full of shrapnel”.[^24] This was likely Elworthy, who died five days later.
 
 “I can remember standing on the portside boat deck as we were trying to get some lifeboats away, and looking down fifty feet to the water at him [Elworthy] hanging on to a swamped lifeboat,” recalled Tozer. “I didn’t realise he was injured.”[^25]
 
 The Oerlikon guns ran out of ammunition while two Hotchkiss guns jammed, leaving the ship with her three-inch gun and small arms. A third bomb struck the officers’ quarters creating a fire. With the wheelhouse full of smoke and the floor buckling from heat, the engine room reported “gas forming in the stokehold”. The captain ordered its evacuation. 
+
+![Alt text for image on Isomer site](/images/vol-17-issue-4/empress-of-asia/9_Bomb2.jpg)
+<div style="background-color: white;">This illustration is a basic depiction of the <i>Empress of Asia</i>. It is not to scale and is presented to show the approximate location of where the three bombs mentioned in the essay hit the ship. <i>Illustration: Janet Watson, Mejan Graphic Design. Copyright: Dan Black, Merrickville, Ontario, Canada.</i></div>
 
 The chief officer noted that while “fire parties were immediately on the scene… no water was available… presumably due to the damaged mains”.[^26] By 11.25 am, the fires below decks were out of control.[^27] 
 
@@ -128,31 +128,32 @@ Amid falling embers, Ewart and Seaman Tim Cameron helped Crofts over the side an
 
 Meanwhile, the Australian sloop _Yarra_, commanded by Captain Wilfred Harrington, was manoeuvred next to the doomed ship. Hosken noted that 1,600 men, including him, were rescued by the sloop, although some estimates are higher.[^30] Other vessels assisted, but without the _Yarra_ hundreds could have perished.[^31] 
 
-The _Asia_ then drifted southeast of Sultan Shoal where anchors were dropped. “Before completely abandoning the afterdeck, the ammunition for the six-inch gun and the remainder from the twelve-pounder had to be thrown overboard. Only two lifeboats were intact,” noted Oliver. “Both… were launched; one made it, one capsized.”[^32] Oliver boarded the _Yarra_, but while checking the _Asia’s_ lower decks, he found a dedicated engine room crewman who said he had not received the evacuation order. 
-
-![Alt text for image on Isomer site](/images/vol-17-issue-4/empress-of-asia/10_Anchor.jpg)
-<div style="background-color: white;">The anchor salvaged from the <i>Empress of Asia</i> wreck in 1998, almost 60 years after the Allied troopship sank off Tuas while en route to Singapore to reinforce its defence. The anchor has been on permanent display at the National Museum of Singapore since 2015. <i>Courtesy of Jimmy Yap.</i></div>
+The _Asia_ then drifted southeast of Sultan Shoal where anchors were dropped. “Before completely abandoning the afterdeck, the ammunition for the six-inch gun and the remainder from the twelve-pounder had to be thrown overboard. Only two lifeboats were intact,” noted Oliver. “Both… were launched; one made it, one capsized.”[^32] Oliver boarded the _Yarra_, but while checking the _Asia_'s lower decks, he found a dedicated engine room crewman who said he had not received the evacuation order. 
 
 By 1 pm, the ship was abandoned. 
+
 Of the 2,648 men on the _Asia_, 16 soldiers and four crew members died, and 238 were injured as a result of the attack. The enemy, it’s believed, lost two planes.[^33] The _Asia_ eventually sank in relatively shallow water.
 
 On 9 February, the morning after the Japanese crossed the Johor Strait, the ship’s catering crew volunteered to work for the Civil Medical Services in Singapore. Most served at the General Hospital until 17 February, while seven others worked at the Miyako Hospital (previously known as the Mental Hospital) until 25 April; all were subsequently interned at Changi Prison until the war’s end. Other crew remained at a military camp until instructed to leave the island. On 11 February, before the British surrendered on 15 February, these men, including Hosken, Oliver, the captain and chief officer, escaped Singapore on three small coastal vessels. Two of these vessels managed to reach Batavia while the third ran out of fuel and ended its journey in Sumatra. Its passengers and crew fled overland through the jungle to the Sunda Strait and eventually reached Batavia.
 
 As for the _Asia_, various salvage efforts were undertaken over the years. In 1998, one such effort retrieved, among other things, the ship’s anchor, which is now on display at the Singapore History Gallery of the National Museum of Singapore. In 2020, the Maritime and Port Authority of Singapore issued a notice of work to remove the wreck. The wreck has since been cleared.
 
+![Alt text for image on Isomer site](/images/vol-17-issue-4/empress-of-asia/10_Anchor2.jpg)
+<div style="background-color: white;">The anchor salvaged from the <i>Empress of Asia</i> wreck in 1998, almost 60 years after the Allied troopship sank off Tuas while en route to Singapore to reinforce its defence. The anchor has been on permanent display at the National Museum of Singapore since 2015. <i>Courtesy of Jimmy Yap.</i></div>
+
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #e5dde1">The full story of the <i>Empress of Asia</i>, including experiences of the Canadian crew who escaped the disaster or were imprisoned, is the subject of a forthcoming book by the author and researcher Nelson Oliver.</div>
 
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-17-issue-4/authors/Dan-Black.png" style="width: 100px; height: 100px;" />
-  <b>Dan Black</b> is former editor of <i>Legion Magazine</i>, a publication on Canada’s military history. He has written many editorials and feature articles on Canada’s military past and present for the award-winning magazine. His third book, <i>Harry Livingstone’s Forgotten Men: Canadians and the Chinese Labour Corps in the First World War</i>, was published in 2019. He is currently working on a book about the <i>Empress of Asia</i> with researcher Nelson Oliver. </div>
+  <b>Dan Black</b> is former editor of <i>Legion Magazine</i>, a publication on Canada’s military history. He has written many editorials and feature articles on Canada’s military past and present for the award-winning magazine. His third book, <i>Harry Livingstone’s Forgotten Men: Canadians and the Chinese Labour Corps in the First World War</i>, was published in 2019. He is currently working on a book about the <i>Empress of Asia</i> with researcher Nelson Oliver. (Photo courtesy of Gordon MacKay)</div>
   
 #### **NOTES**
 
 [^1]: Geoffrey Hosken, Diary, 3 November 1941 to 19 April 1942.
-[^2]: Walter Oliver, Loss of the Empress of Asia (Unpublished memoir, 1978), p. 98.
+[^2]: Walter Oliver, _Loss of the Empress of Asia_ (Unpublished memoir, 1978), p. 98.
 [^3]: Some sources state 416, but three crewmen left prior to Singapore.
-[^4]: An account by Asia Captain John Bisset Smith lists six Oerlikons, eight Hotchkiss, a six-inch gun, three-inch anti-aircraft gun, four PAC rockets, and depth charges.
+[^4]: An account by _Asia_ Captain John Bisset Smith lists six Oerlikons, eight Hotchkiss, a six-inch gun, three-inch anti-aircraft gun, four PAC rockets, and depth charges.
 [^5]: Manuscript of “Empress of Asia” story dictated by Captain J. Watts to J.T. Carney in River Valley Camp, 1942, courtesy of Helen Watts.
 [^6]: Geoff Tozer, Journal, 4 February 1942.
 [^7]: John Drummond, Journal, 4 February 1942, p. 1.

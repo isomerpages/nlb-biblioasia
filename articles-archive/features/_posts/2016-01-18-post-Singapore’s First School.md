@@ -24,9 +24,9 @@ description: ""
 <br>
 <b>Accession no.:</b> B20025196C</span>
 
-The founding of Raffles Institution (originally known as Singapore Institution) was fraught with difficulties and delays from the very beginning. It all started with this document – a 110-page record of a meeting held on 1 April 1823, in which Stamford Raffles laid down his plans to establish a school for Asians. First published in 1819 as *On the Advantage of Affording the Means of  Education to the  Inhabitants of the Further East*,[^1] the document reveals Raffles’ vision of Singapore as a hub not only in trade but also in learning. This was forward thinking at a time when even basic education was still not formally implemented in England.[^2]
-
 <div style="background-color: white;"><img style="width:500px" src="/images/vol-11-issue-4/singapore-first-school/01b_firstschool.jpg">The cover and title page of the <i>Formation of the Singapore Institution, A.D. 1823</i>. The Singapore Institution was eventually renamed the Raffles Institution around 1868. <i>All rights reserved, National Library Board, Singapore.</i></div>
+
+The founding of Raffles Institution (originally known as Singapore Institution) was fraught with difficulties and delays from the very beginning. It all started with this document – a 110-page record of a meeting held on 1 April 1823, in which Stamford Raffles laid down his plans to establish a school for Asians. First published in 1819 as *On the Advantage of Affording the Means of  Education to the  Inhabitants of the Further East*,[^1] the document reveals Raffles’ vision of Singapore as a hub not only in trade but also in learning. This was forward thinking at a time when even basic education was still not formally implemented in England.[^2]
 
 With the exception of Quranic instruction[^3] and a few Chinese schools in Penang and Melaka, formal education was sorely lacking in Singapore and the Malay Peninsula.[^4] In this document, purchased by the National Library in 2006, Raffles puts forth his rationale for starting an institution of learning dedicated to the education of the Malay elites as well as employees of the British East India Company.[^5]
 

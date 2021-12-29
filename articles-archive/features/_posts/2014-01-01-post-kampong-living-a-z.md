@@ -27,7 +27,7 @@ The modern <i>bidan</i> or government-trained midwife, fondly called “missy”
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-9-issue-4/kampong/trained_midwife.jpg">
+<img src="/images/vol-9-issue-4/kampong/trained_midwife.jpg" style="width:70%;">
 Infant growth assessment carried out by a trained midwife or “missy”, in 1950. <i>School of Nursing collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **Capteh and Other Childhood Games**
@@ -51,7 +51,7 @@ It’s hard to believe that Singapore was once a sleepy village outpost. Re-live
 
 #### **Ethnic Enclaves**
 
-Stamford Raffles’ demarcation of Singapore’s urban areas into ethnic enclaves took root in the <i>kampongs</i> too with pockets of Chinese huts sited apart from the Malay cluster, often separated by a hillock or a road. It was common to be asked if one came from the <i>kampong cina</i> (Chinese <i>kampong</i>) or <i>kampong melayu</i> (Malay <i>kampong</i>), a distinction borne out by varied housing designs and other cultural markers. The most distinct marker was religion: in a Chinese <i>kampong</i>, the Tua Pek Kong temple devoted to this Taoist deity and the <i>wayang</i> (Chinese opera) stage were crowd-pullers, while in a Malay village, the <i>surau</i> (small mosque) rallied residents for congregational prayers.
+Stamford Raffles’ demarcation of Singapore’s urban areas into ethnic enclaves took root in the <i>kampongs</i> too with pockets of Chinese huts sited apart from the Malay cluster, often separated by a hillock or a road. It was common to be asked if one came from the <i>kampong cina</i> (Chinese <i>kampong</i>) or <i>kampong melayu</i> (Malay <i>kampong</i>), a distinction borne out by varied housing designs and other cultural markers. The most distinct marker was religion: in a Chinese <i>kampong</i>, the <i>Tua Pek Kong</i> temple devoted to this Taoist deity and the <i>wayang</i> (Chinese opera) stage were crowd-pullers, while in a Malay village, the <i>surau</i> (small mosque) rallied residents for congregational prayers.
 
 <i>Kampong</i> houses were designed to facilitate both easy flow of air for ventilation and neighbourly interaction via open verandas and compounds. The boundaries of each dwelling were usually delineated by natural features such as trees, which meant that the compounds frequently overlapped. This was more typical of the houses in a Malay <i>kampong</i>, whereas houses in a Chinese one usually had a waist-high wooden gate. But there was sufficient visibility around the houses in both types, fostering easy relations and camaraderie that often translated into a strong <i>kampong</i> spirit that did not significantly diminish even in a mixed <i>kampong</i> of Malay and Chinese dwellings. However, each <i>kampong</i> retained its distinct name and way of life.
 
@@ -66,7 +66,7 @@ This was a tossing game, geared towards girls with delicate fingers and usually 
 <img src="/images/vol-9-issue-4/kampong/five_stones.jpg">
 Five Stones is played with five small triangular cloth bags filled with seeds, rice grains or sand (1960s). <i>Singapore Sports Council (SSC) collection, courtesy of National Archives of Singapore.</i></div>
 
-#### **Goli(marbles)**
+#### **Goli (Marbles)**
 
 It was easy to identify the marble king of a district as he usually strutted around with pockets bulging with his spherical conquests. The earliest marbles were made of clay before they were replaced by glass ones. There were multiple ways to win each other’s marbles and regardless of their luck that day, all would return to the same patch the next day to have another go at the <i>goli galore</i>. It was a game with “lots of arguments and quarrels and fights ... But by and large, the next day everybody would turn up again as if nothing happened and start the game [again].”[^24]
 
@@ -84,18 +84,18 @@ Street food vendors used to travel from <i>kampong</i> to <i>kampong</i> peddlin
 
 Unlike <i>hantam bola</i>, <i>jelon</i> is played within a set boundary. This game is called <i>galah panjang</i> or <i>hadang-hadang</i> (blocking) in Malaysia but it is known as <i>jelon</i> (a corruption of “balloon”) or <i>belon acah</i> (literally meaning “tease balloon”) in Singapore. When Singaporeans moved to flats, many children played <i>jelon</i> at the void decks or badminton courts. Within those spaces, mini-courts parallel to one another were marked and one team would defend the entrances to these courts. The aim of each team was to penetrate the entrances without getting tapped by their opponents. If one player managed to break through, his team would win, but if one of them got tapped the whole team was out.
 
-#### **Kleret: He Ain't Heavey, He's My Brother**
+#### **Kleret: He Ain't Heavy, He's My Brother**
 
 The aim of this game is to get a free piggyback ride from your opponent (pictured below).
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-9-issue-4/kampong/keleret.jpg">
+<img src="/images/vol-9-issue-4/kampong/keleret.jpg" style="width:70%;">
 <i>Keleret</i> must be played in pairs or teams. Flat stones or tiles (<i>batu keleret</i>) are thrown to get close to the target line or circle (1950s). <i>Courtesy of Singapore Sports Council (SSC) collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **Lambong Tin (or "Hide-And-Seek", "I Spy" or Nyorok-Nyorok)**
 
-Prior to the start of the game, a pasang (Malay for catcher) or spy would be selected via oh somm or oh beh som or wah peh ya som (see text box). next, everyone would gather around and one player would shake a tin that had been filled with stones and then fling it. The moment the tin was flung, everyone would disperse. 
+Prior to the start of the game, a pasang (Malay for catcher) or spy would be selected via <i>oh somm</i> or <i>oh beh som</i> or <i>wah peh ya som</i> (see text box). next, everyone would gather around and one player would shake a tin that had been filled with stones and then fling it. The moment the tin was flung, everyone would disperse. 
 
 The <i>pasang</i> would have to run to the tin and bring it back and shout “I spy!” which signalled that the game had started proper. If players needed a time-out they would signal for a break by making the “peace” sign with their fingers and shout <i>“chope”</i>, <i>“chope night”</i>, or <i>“chope twist”</i>! it would be honoured and everyone could take a break.
 
@@ -116,7 +116,7 @@ Today, when a housewife in the midst of cooking realises she has no salt in her 
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-9-issue-4/kampong/bus_services.jpg">
+<img src="/images/vol-9-issue-4/kampong/bus_services.jpg" style="width:70%;">
 Unlicensed hawkers outside the Jalan Eunos Wet Market in 1958. <i>MITA collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **Open-Air Cinemas = Open Skies Treatment**
@@ -133,7 +133,7 @@ In the days before the convenience of tap water at home, <i>kampong</i> resident
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-9-issue-4/kampong/malay_house.jpg">
+<img src="/images/vol-9-issue-4/kampong/malay_house.jpg" style="width:70%;">
 A Malay house in Kampong Bedok Luat. <i>Courtesy of National Archives of Singapore.</i></div>
 
 #### **Rempah and Singapore's Own Spice Girls**
@@ -144,7 +144,7 @@ Before there were powdered spices and packaged spice mixes, women used to make t
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-9-issue-4/kampong/nyonya.jpg">
+<img src="/images/vol-9-issue-4/kampong/nyonya.jpg" style="width:70%;">
 A Nonya lady cooking in her kitchen using firewood. <i>MITA collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **Stoneware Sisters: Batu Giling and Batu Tumbuk**
@@ -171,7 +171,7 @@ The <i>sarabat</i> (original) stallholder or <i>bhai serbat</i>’s signature ta
 
 Cattlemen and milkmen were mostly Tamils from South India. Serangoon was a cattle-rearing area in Singapore before the activity was banned in 1936. <i>The Singapore Free Press</i> observed “a herd of 40 or 50 cattle which completely blocked the public thoroughfare [in Victoria Street]. Some of the animals were grazing along the Street; others were lying in the centre of the road while the herder, an old Kling man, was comfortably taking a nap on the ground under the shadow of the close hedge of a compound.”[^46]
 
-In the 1930s, the area between Cross Street and New Bridge Road was known as Kampong Susu (<i>milk kampong</i>) and the place lived up to its name from the many Indian milk sellers “identified by a tiny top knot of hair”.[^47] These Indian milkmen (or <i>bhai jual susu</i> to the Malays) ran door-to-door delivering fresh milk. Sometimes, the cow was milked on the spot: “[The milkmen came] with a cow and people [would] just buy the adulterated or diluted sort of thing. So fresh milk was really fresh...”[^48]
+In the 1930s, the area between Cross Street and New Bridge Road was known as Kampong Susu (milk <i>kampong</i>) and the place lived up to its name from the many Indian milk sellers “identified by a tiny top knot of hair”.[^47] These Indian milkmen (or <i>bhai jual susu</i> to the Malays) ran door-to-door delivering fresh milk. Sometimes, the cow was milked on the spot: “[The milkmen came] with a cow and people [would] just buy the adulterated or diluted sort of thing. So fresh milk was really fresh...”[^48]
 
 <div style="background-color: white;">
 <br/>
@@ -190,7 +190,7 @@ Kampongs were also vulnerable to fires due to their wooden and <i>attap</i> stru
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-9-issue-4/kampong/common_standpipe.jpg">
+<img src="/images/vol-9-issue-4/kampong/common_standpipe.jpg" style="width:70%;">
 Women washing laundry at a common standpipe, circa 1960s. <i>Courtesy of National Archives of Singapore.</i></div>
 
 #### **Yeh Yeh (Zero-Point)**

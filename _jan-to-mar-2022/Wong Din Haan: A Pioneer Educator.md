@@ -22,7 +22,7 @@ It was much later that I discovered she was known by another name. I had attende
 
 I was confused because no one in the family seemed to know about the existence of this girls’ school until I asked one of my uncles, Pang Heng Hung. He confirmed that she was indeed the founder of a school known as Wah Kiew Nui Hok (华侨女校), which was located on New Bridge Road. His mother was Wong Bee Soo, Wong Din Haan’s younger sister, who had been a teacher in the school.
 
-![Alt text for image on Isomer site](/images/vol-17-issue-4/Wong-Din-Haan/New-Bridge-Road2.jpg)
+![Alt text for image on Isomer site](/images/vol-17-issue-4/Wong-Din-Haan/New-Bridge-Road3b.jpg)
 <div style="background-color: white;">New Bridge Road, looking towards the Sepoy Lines, c. 1906. <i>Courtesy of National Archives of Singapore.</i></div>
 
 #### **Pioneer in Female Education** 
@@ -37,7 +37,7 @@ Together with my grandmother, Mah Lai Wan (马励芸), grandfather founded a gir
 
 Grandfather must have communicated his enthusiasm to his father because Wong Ah Fook was among the group of Cantonese businessmen in Singapore who founded Yeung Ching Hok Hau (养正学校) for boys in 1905. It is best remembered by the impressive building on Club Street that it occupied from 1918 to 1956. The school is known today as Yangzheng Primary School and is located along Serangoon Avenue 3. 
 
-![Alt text for image on Isomer site](/images/vol-17-issue-4/Wong-Din-Haan/Yeung-Ching-School.jpg)
+![Alt text for image on Isomer site](/images/vol-17-issue-4/Wong-Din-Haan/Yeung-Ching-School2.jpg)
 <div style="background-color: white;">Yeung Ching School (养正学校) on Club Street, Singapore, 1948. The school was founded by Wong Ah Fook and a group of Cantonese businessmen on Park Road in 1905. It moved to Club Street in 1918. The school is known today as Yangzheng Primary School and is located along Serangoon Avenue 3. <i>Yeung Ching Primary School Collection, courtesy of National Archives of Singapore.</i></div>
 
 Grandfather’s sister Wong Bee Ho, who had adopted the alternate name of Wong Din Haan, was affected by the same zeal: she founded Wah Kiew Nui Hok in Singapore in the same year and became its headmistress.[^6]  

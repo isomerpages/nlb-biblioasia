@@ -26,7 +26,7 @@ In this essay, the rich history tracing the development of different chapters in
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-9-issue-4/jiapu/kimchua.jpg">
+<img src="/images/vol-9-issue-4/jiapu/kimchua.jpg" style="width:70%;">
 Women folding <i>kim chua</i> (paper money) for religious or ancestral offering along Clarke Quay in 1978. <i>Ronni Pinsler collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **Title of Genealogy (Pu Ming 谱名)**
@@ -35,7 +35,7 @@ In traditional practice, the title of a <i>jiapu</i> was important as it indicat
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-9-issue-4/jiapu/ancestral_hall.jpg">
+<img src="/images/vol-9-issue-4/jiapu/ancestral_hall.jpg" style="width:70%;">
 Ancestral altar tablets displayed in a clan ancestral hall (1978). <i>Ronni Pinsler collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **Introduction (Pu Xu 谱序)**
@@ -48,7 +48,7 @@ Since <i>jiapu</i> served to document lineage, tracing the origin of a clan’s 
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-9-issue-4/jiapu/lorong_makam.jpg">
+<img src="/images/vol-9-issue-4/jiapu/lorong_makam.jpg" style="width:70%;">
 An ancestral hall of the Hakka community at Lorong Makam (1986). <i>Courtesy of National Archives of Singapore.</i></div>
 
 #### **Origins of Surname (Xing Shi Yuan Liu 姓氏源流)**
@@ -63,7 +63,7 @@ The second section of this chapter deals with the origin of district-names (<i>j
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-9-issue-4/jiapu/lu_generation_chart.jpg">
+<img src="/images/vol-9-issue-4/jiapu/lu_generation_chart.jpg" style="width:70%;">
 <i>The Lu clan’s generation chart is an example of how traditional Chinese generation charts are laid out. It is limited to five generations, with the first generation at the top and the fifth at the bottom. It is read from right to left. Meishan Tiannei Lu shi jiapu</i> (Genealogy of the Loo clan from Tiannei Town in the Meishan area), 1994, Singapore Loo Clan Association, Singapore.</div>
 
 #### **Generation Chart (Shi Xi Tu 世系图)**
@@ -90,7 +90,7 @@ The naming of the ancestral hall is of utmost importance. An appropriate name re
 
 Some <i>jiapu</i> are named after their ancestral halls, such as the genealogy of the Liugui Hall (六桂堂). Although the term <i>liugui</i> is not the district name of the clan, there is good reason for naming it so. The original surname of the clan was Weng (翁), descendents of the royal family of the Zhou Dynasty. During the Song Dynasty, six brothers were successful in the imperial examinations and became officials. It was a glorious occasion for the clan and the event was remembered as <i>liu gui lian fang</i> (六桂联芳), meaning “the six brothers who became officials”. Hence, the term <i>liugui</i> was associated with this significant historical event, and was used to remind descendents of their ancestors’ achievements. The six brothers later adopted different surnames — Weng (翁), Hong (洪), Fang (方), Gong (龚), Jiang (江), and Wang (汪), and lived in different parts of China. Although the descendents of these six branches live separately and have different surnames, they maintain contact with each branch through their local ancestral halls that have preserved their clan records.
 
-A 1949 drawing plan shows the Liugui Hall built in Quanzhou, China — where the six brothers originated from. There was a hall for the ancestral tablets, management offices for clan members and a stage for Chinese opera. Their <i>jiapu</i> was republished in conjunction with the construction of the ancestral hall (see page 41).
+A 1949 drawing plan shows the Liugui Hall built in Quanzhou, China — where the six brothers originated from. There was a hall for the ancestral tablets, management offices for clan members and a stage for Chinese opera. Their <i>jiapu</i> was republished in conjunction with the construction of the ancestral hall.
 
 <div style="background-color: white;">
 <br/>
@@ -110,7 +110,7 @@ Biographies typically only contain text, while “Ancestor Portraits and Praises
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-9-issue-4/jiapu/origin_of_bai.jpg"><i>A chapter in jiapu discussing the origins of the Bai surname. Here, the chapter explores the four possible origins of the Bai surname</i>. All rights reserved. <i>Genealogy of Peh Clan Pangtou Anxi Fujian China, 1989, Singapore Peh Clan Association, Singapore.</i></div>
+<img src="/images/vol-9-issue-4/jiapu/origin_of_bai.jpg" style="width:70%;"><i>A chapter in jiapu discussing the origins of the Bai surname. Here, the chapter explores the four possible origins of the Bai surname</i>. All rights reserved. <i>Genealogy of Peh Clan Pangtou Anxi Fujian China, 1989, Singapore Peh Clan Association, Singapore.</i></div>
 
 #### **Clan Rules (Jia Fa 家法)**
 
@@ -122,7 +122,7 @@ Such chapters were heavily influenced by Confucian teachings on respecting autho
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-9-issue-4/jiapu/liugui_hall_p1.jpg"></div>
+<img src="/images/vol-9-issue-4/jiapu/liugui_hall_p1.jpg" style="width:70%;"></div>
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-9-issue-4/jiapu/liugui_hall_p2.jpg">
@@ -135,7 +135,7 @@ The <i>jiapu</i> chapters discussed here offer only a peek into the wealth of in
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;">
 <b>FIVE DEGREES OF MOURNING CLOTHES (WUFU 五服)</b>
 <br><br>
-<i>Wufu</i> was the set of rules that determined the mourning clothes and the mourning periods to be observed by different clan members within nine generations (<i>jiu zu</i> 九族). The nine generations were defined as the four generations before oneself (from father to great great-grandfather) and the four generations after oneself (from children to the great great-grandchildren). Mourning clothes were separated into five different types, and mourning periods ranged from three months to three years. In general, the closest kin to the deceased wore the coarsest fabric and observed the longest mourning period. These five degrees of mourning were separately known as <i>zhancui</i> (斩衰); <i>zicui</i> (齐衰); <i>dagong</i> (大功); <i>xiaogong</i> (小功); and <i>sima</i> (缌麻).[^10]|
+<i>Wufu</i> was the set of rules that determined the mourning clothes and the mourning periods to be observed by different clan members within nine generations (<i>jiu zu</i> 九族). The nine generations were defined as the four generations before oneself (from father to great great-grandfather) and the four generations after oneself (from children to the great great-grandchildren). Mourning clothes were separated into five different types, and mourning periods ranged from three months to three years. In general, the closest kin to the deceased wore the coarsest fabric and observed the longest mourning period. These five degrees of mourning were separately known as <i>zhancui</i> (斩衰); <i>zicui</i> (齐衰); <i>dagong</i> (大功); <i>xiaogong</i> (小功); and <i>sima</i> (缌麻).[^10]
 <br><br>
 <img src="/images/vol-9-issue-4/jiapu/wufu_chart.jpg"><i>A wufu chart was used to determine the mourning clothes and duration of mourning for a clan member</i>. All rights reserved. <i>Ningxiang Nantang Liu shi si xiu zupu</i> (Genealogy of Liu clan from Nantang Town in Ningxiang County), 2002, Chen Zhanqi, China National Microfilming Center for Library Resources, Beijing.</span>
 

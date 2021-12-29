@@ -1,18 +1,17 @@
 ---
 title: Raffles’ Letters of Intrigue
 date: 2016-01-22
-permalink: /vol-11/issue-4/jan-mar-2016/letters-from-raffles-to-lansdowne
+permalink: /vol-11/issue-4/jan-mar-2016/letters-stamford-raffles-marquess-lansdowne
 image: /images/vol-11-issue-4/raffles-letter-of-intrigue/01_rafflesletter.jpg
 layout: post
 description: ""
 ---
-
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;">
-	<b>Title:</b> <i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=13186897">Letters from Sir Thomas Stamford Raffles to Lord Lansdowne</a></i>
+	<b>Title:</b> <i>Letters from Sir Thomas Stamford Raffles to Lord Lansdowne</i>
 <br>
 <b>Author:</b> Stamford Raffles (1781–1826)
 <br>
-<b>Year written:</b> <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=13186897">15 April 1820</a>; <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=13186898">19 January 1821</a>; <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=13186899">1 March 1822</a>; <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=13186900">20 January 1823</a>
+<b>Year written:</b> <a href="https://eresources.nlb.gov.sg/printheritage/detail/b671e3b9-d03c-4072-a939-798546474c41.aspx">15 April 1820</a>; <a href="https://eresources.nlb.gov.sg/printheritage/detail/32f71cf5-ede5-4d44-ba38-8005611947f2.aspx">19 January 1821</a>; <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=13186899">1 March 1822</a>; <a href="https://eresources.nlb.gov.sg/printheritage/detail/db10bbd1-80ee-4281-bd9e-5c3d19ecc5ed.aspx">20 January 1823</a>
 <br>
 <b>Language:</b> English
 <br>
@@ -24,9 +23,9 @@ description: ""
 B20072357D; B20072358E
 </span>
 
-Singapore was almost *not* founded by Stamford Raffles. Four letters that detail Raffles’ passionate defence to establish a British trading outpost on the island in 1819 offer insight into the objections he faced from the Dutch as well as his own British masters. Written between 1820 and 1823 to Henry Petty-Fitzmaurice, the 3rd Marquess of Lansdowne, the letters reveal the lengths that Raffles went to persuade his superiors at the British East India Company (EIC) of Singapore’s achievements and its growing importance as a regional trading hub.
-
 <div style="background-color: white;"><img style="width:600px" src="/images/vol-11-issue-4/raffles-letter-of-intrigue/01a_rafflesletter.jpg">A letter from Stamford Raffles to Lord Lansdowne on display at the National Library’s Rare Collections Gallery on level 13 of the National Library Building. There are a total of 19 letters penned by Raffles in the possession of the National Library. <i>All rights reserved, National Library Board, Singapore.</i></div>
+
+Singapore was almost *not* founded by Stamford Raffles. Four letters that detail Raffles’ passionate defence to establish a British trading outpost on the island in 1819 offer insight into the objections he faced from the Dutch as well as his own British masters. Written between 1820 and 1823 to Henry Petty-Fitzmaurice, the 3rd Marquess of Lansdowne, the letters reveal the lengths that Raffles went to persuade his superiors at the British East India Company (EIC) of Singapore’s achievements and its growing importance as a regional trading hub.
 
 The first letter (17 pages) was dated 15 April 1820; the second letter (15 pages) 19 January 1821; the third (12 pages) 1 March 1822; and the fourth (7 pages) 20 January 1823.
 

@@ -5,9 +5,19 @@ date: 2016-01-22
 layout: post
 description: ""
 ---
-Travel guides are more than just books that tell you about interesting sights in a destination, or where to eat, and how to get from one place to another. As a guidebook becomes worn and dated over time, it turns into a bona fide history book, providing valuable insights into the past. This is exactly what *Handbook to Singapore* has become: a history book of sorts documenting life in the colony in the late 19th century. 
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>ABOUT THE BOOK</b>
+<br><br>
+<b>Title:</b> <i><a href="https://eresources.nlb.gov.sg/printheritage/detail/2cf2ccde-1931-4e93-b265-a46254084820.aspx">Handbook to Singapore, with Map and a Plan of the Botanical Gardens</a></i><br>
+<b>Author:</b> George Murray Reith (1863–1948)<br>
+<b>Year published:</b> 1892<br>
+<b>Publisher:</b> The Singapore and Straits Printing Office (Singapore)<br>
+<b>Language:</b> English<br>
+<b>Type:</b> Book; 135 pages<br>
+<b>Location:</b> Call no.: RRARE 959.57 REI; Microfilm no.: NL7522</span>
 
-<div style="background-color: white;"><br><img src="/images/vol-11-issue-4/a-bona-fide-history-book/01_bonafide.jpg">The title page of Handbook to Singapore, one of the first travel guidebooks to the city. <i>Image source: National Library Board, Singapore.</i></div>
+<div style="background-color: white;"><img style="width:500px" src="/images/vol-11-issue-4/a-bona-fide-history-book/01_bonafide.jpg">The title page of Handbook to Singapore, one of the first travel guidebooks to the city. <i>Image source: National Library Board, Singapore.</i></div>
+
+Travel guides are more than just books that tell you about interesting sights in a destination, or where to eat, and how to get from one place to another. As a guidebook becomes worn and dated over time, it turns into a bona fide history book, providing valuable insights into the past. This is exactly what *Handbook to Singapore* has become: a history book of sorts documenting life in the colony in the late 19th century. 
 
 As travel became increasingly popular towards the end of the 1900s, guidebooks were published to fill a gap in the market. Sensing the need for one, Reverend George Murray Reith, resident minister of the Presbyterian Church in Singapore wrote a handy guide for visitors to the island.
 
@@ -25,7 +35,7 @@ Reith’s appreciation for the Malay language was evident in *Handbook*. Malay c
 
 Although there are no photographs or illustrations, there is a map of Singapore with an accompanying index and a plan of the Botanical Gardens. Unfortunately, the map and plan are missing from the National Library’s copy of the book. Eleven pages of text-based advertisements round off the guide.
 
-<div style="background-color: white;"><img style="width: 500px" src="/images/vol-11-issue-4/a-bona-fide-history-book/02_bonafide.jpg">One of the advertisements in the book promoting the Raffles Hotel in Singapore, the Eastern & Oriental Hotel in Penang and the Sarkies’ Hotel in Rangoon. All three were owned by the famous Sarkies brothers. <i>All rights reserved, Reith, G. M. (1892). Handbook to Singapore, with Map and Plan of the Botanical Gardens. Singapore: The Singapore and Straits Printing Office.</i></div>
+<div style="background-color: white;"><img style="width: 400px" src="/images/vol-11-issue-4/a-bona-fide-history-book/02_bonafide.jpg">One of the advertisements in the book promoting the Raffles Hotel in Singapore, the Eastern & Oriental Hotel in Penang and the Sarkies’ Hotel in Rangoon. All three were owned by the famous Sarkies brothers. <i>All rights reserved, Reith, G. M. (1892). Handbook to Singapore, with Map and Plan of the Botanical Gardens. Singapore: The Singapore and Straits Printing Office.</i></div>
 
 In 1907, Walter Makepeace, a journalist and editor of *The Singapore Free Press*, published a new edition of the guide with updated information, a new chapter on the Federated Malay States and photographic plates of landmarks and sights in Singapore by G. R. Lambert & Co., besides providing the most current statistical data for 1907.[^5]
 
@@ -33,17 +43,7 @@ As informative as *Handbook* might be, some historians have noted that it catere
 
 Born in 1863 in Scotland, Reith studied at Aberdeen University and New College, Edinburgh.[^8] He arrived in Singapore in 1889, and became minister of the Presbyterian Church here between 2 July 1889 and February 1896.[^9] Active in the Singapore community, Reith was the first secretary-treasurer of the Straits Philosophical Society.[^10] He was a frequent contributor to *The Singapore Free Press*, and published Padre in Partibus in 1897, a collection of writings about his travels in Java and Siam. Reith passed away in Edinburgh on 27 February 1948.[^11]
 
-**Written By:** Bonny Tan
-
-<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>ABOUT THE BOOK</b>
-<br><br>
-<b>Title:</b> <i><a href="https://eresources.nlb.gov.sg/printheritage/detail/2cf2ccde-1931-4e93-b265-a46254084820.aspx">Handbook to Singapore, with Map and a Plan of the Botanical Gardens</a></i><br>
-<b>Author:</b> George Murray Reith (1863–1948)<br>
-<b>Year published:</b> 1892<br>
-<b>Publisher:</b> The Singapore and Straits Printing Office (Singapore)<br>
-<b>Language:</b> English<br>
-<b>Type:</b> Book; 135 pages<br>
-<b>Location:</b> Call no.: RRARE 959.57 REI; Microfilm no.: NL7522</span>
+– Written by Bonny Tan
 
 <a href="/vol-11/issue-4/jan-mar-2016/"><center>Back to Issue</center></a>
 

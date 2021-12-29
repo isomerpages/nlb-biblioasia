@@ -12,7 +12,7 @@ layout: post
 <img src="/images/vol-9-issue-4/tsaochieh/tsaochieh.jpg">
 Tsao Chieh working on a composition in 1986. <i>Courtesy of Vivien Chen.</i></div>
 
-I prefer to listen to good Michael Jackson than bad mahler. 
+I prefer to listen to good Michael Jackson than bad Mahler. 
 
 <div style="text-align:right;">— TSAO CHIEH</div>
 
@@ -55,13 +55,13 @@ When his work subsequently premiered at the end-of-year Music Awards concert in 
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-9-issue-4/tsaochieh/mita_collection.jpg">
+<img src="/images/vol-9-issue-4/tsaochieh/mita_collection.jpg" style="width:70%;">
 The student orchestra performing at the official opening of the 1986 Singapore Arts Festival at Kent Ridge. Tsao Chieh’s Singapore premiered on this occasion. <i>MITA collection, courtesy of National Archives of Singapore.</i></div>
 
 
 #### **Music With a Singapore Spin**
 
-From 1984 to 1985, not only did the accomplished polymath work on his engineering PhD dissertation, he also composed and orchestrated his symphonic poem, which was given the grand title <i>Singapore</i>. The idea of composing a series of tone poems based on the history of Singapore had already been churning in his head for over two years after reading Constance Mary Turnbull’s <i>A History of Singapore</i>. It had been compulsory reading for the Ministry of Defence officer and the subject had surfaced in conversations over the dinner table. The engineer in him instinctively decided that each of the five movements of the suite would be based upon a specific period in Singapore’s history. The 40-minute work, Tsao Chieh explained in an interview, charts the chronological progress of Singapore from the pre-colonial era to the Japanese occupation to independent republic. He said, “it’s what I call an abstract work with symphonic unity... a cyclical symphony. Each section evokes a period in the history of Singapore. It will give an atmosphere, for instance, of Singapore before raffles discovered it.”[^4]
+From 1984 to 1985, not only did the accomplished polymath work on his engineering PhD dissertation, he also composed and orchestrated his symphonic poem, which was given the grand title <i>Singapore</i>. The idea of composing a series of tone poems based on the history of Singapore had already been churning in his head for over two years after reading Constance Mary Turnbull’s <i>A History of Singapore</i>. It had been compulsory reading for the Ministry of Defence officer and the subject had surfaced in conversations over the dinner table. The engineer in him instinctively decided that each of the five movements of the suite would be based upon a specific period in Singapore’s history. The 40-minute work, Tsao Chieh explained in an interview, charts the chronological progress of Singapore from the pre-colonial era to the Japanese occupation to independent republic. He said, “It’s what I call an abstract work with symphonic unity... a cyclical symphony. Each section evokes a period in the history of Singapore. It will give an atmosphere, for instance, of Singapore before raffles discovered it.”[^4]
 
 Aligned with his preference for classical forms, the five movements are based on the characteristics of generic symphonic movements with programmatic subtitles. The first movement is a prelude and Fugue, subtitled <i>Temasek</i>, while the second and third movements are a March and Scherzo, subtitled <i>Colonial Days</i> and <i>War</i> respectively. Music for the latter section was inspired by <i>Seventy Days to Singapore</i> by Stanley Falk, a telling of the Japanese invasion from Siam to Singapore. Before the Finale, which contains a quotation of the National Anthem as a proclamation of the new <i>Republic</i>, a Passacaglia is used to depict the cathartic <i>Aftermath</i> of the Japanese occupation. 
 
@@ -72,8 +72,6 @@ When asked by an arts correspondent on his working process, Tsao Chieh mused abo
 For two evenings in June 1986, the work, together with <i>Joseph Haydn’s Cello Concerto</i> and <i>Igor Stravinsky’s Symphony of Psalms</i>, was performed by the SSO at the Victoria Concert Hall. Stravinsky happened to be one of Tsao Chieh’s favourite composers. Responses to the symphonic suite ranged from the slightly disdainful: “a huge first novel, overstuffed with ideas” and “a hodgepodge of various styles” to the laudatory: an “imaginative handling of the orchestra” with “pastoral woodwind lending a tranquil mood over a gentle landscape of strings.”[^7] The piece was correspondingly broadcast on public radio twice and televised on the now-defunct Channel 12 for the next few months. 
 
 Citing Luciano Berio and Pierre Boulez as influences, the masterpiece also aroused interest from both the musical circles and the general public. It provoked discussions on the definition of Singaporean music as well as the art of composition itself. Later, <i>The Straits Times</i> music critic Chang Tou Liang would recall that after listening to the masterpiece, he left the concert hall feeling proud to be a Singaporean.[^8] In September, Tsao Chieh was selected to represent Singapore as the Outstanding Young Person of the Year in recognition of his contributions to society and his leadership qualities.[^9]
-
-Several of Tsao Chieh’s pieces were performed by Singapore Symphonic Orchestra performing at the Victoria Concert Hall under the baton of Choo Hoey. <i>MITA collection, courtesy of National Archives of Singapore.</i>
 
 In 1988, Tsao Chieh, now a Lieutenant-Colonel with the Ministry of Defence, was commissioned by the Chief of Artillery, then-Lieutenant-Colonel Low Yee Kah, to compose a military march for the Artillery’s 100th anniversary celebrations.[^10] The <i>Singapore Artillery Centennial March</i> was performed by the Singapore Infantry Regiment Band on 22 February 1988 at the military parade at Khatib Camp with past and present Artillery soldiers as well as members of the public in attendance.[^11] The march was re-arranged the following year by Major Tonni Wei for the Singapore Symphony Orchestra’s concert performance under the baton of Lim Yau.
 
@@ -86,7 +84,7 @@ In late 1990, his work <i>Amidst the sough of winds..., Two Poems by Edwin Thumb
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-9-issue-4/tsaochieh/mita_collection_2.jpg">Several of Tsao Chieh’s pieces were performed by Singapore Symphonic Orchestra performing at the Victoria Concert Hall under the baton of Choo Hoey. <i>MITA collection, courtesy of National Archives of Singapore</i>.</div>
+<img src="/images/vol-9-issue-4/tsaochieh/mita_collection_2.jpg" style="width:70%;">Several of Tsao Chieh’s pieces were performed by Singapore Symphonic Orchestra performing at the Victoria Concert Hall under the baton of Choo Hoey. <i>MITA collection, courtesy of National Archives of Singapore</i>.</div>
 
 #### **Computer Music**
 
@@ -115,12 +113,12 @@ Despite his varied body of work, Tsao Chieh had always lamented that composers r
 <img src="/images/vol-9-issue-4/tsaochieh/tone_raw.jpg">Tone rows for <i>Amidst the Sough of Winds. Courtesy of Vivien Chen.</i></div>
 
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> 
-<b>MAKING WATER MAGIC</b>
+<b>MAKING WATER MUSIC</b>
 <br><br>
 The Singapore Youth Orchestra brought one of Tsao Chieh's works Stasis on tour to Perth, Australia, in June 1988. The general manager of the orchestra Tan Kim Swee[^14] remembered the piece required a water tank, one “big enough to immerse a big gong”. The story was that the first tank that had been acquired was too small for the gong and a second one had to be custom-made for the piece. This must have been so stressful for Tan that he even remembered the precise dimensions of the tank — 50 centimetres in breadth and length and 100 centimetres in height — which was to be filled with water as instructed by the composer. Tan recalled the ensuing frenzy over how the water tank had to be filled exactly to four-fifths of its height using buckets and subsequently emptied the same way before and after each concert. During both the local and Australian performances, the tank was placed at the back of the orchestra but elevated so that it remained visible to the audience. Tan also recalls clearly that the commissioned work required bamboo chimes and glass chimes, both of which had to be custom made.</span>
 
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> 
-<b>REVIEW OF TSAO CHIEH'S MUSIC</b>
+<b>REVIEWS OF TSAO CHIEH'S MUSIC</b>
 <br><br>
 Under the baton of Lan Shui, the Singapore Symphonic Orchestra recorded three compact discs of Tsao Chieh's orchestral works. In his review, Chang Tou Liang considered the composer to be a “modern-day Charles Ives, one who composed in his spare time.” He said: 
 <br><br>

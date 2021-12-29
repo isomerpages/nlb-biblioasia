@@ -20,7 +20,7 @@ From the late 19th to the early 20th centuries, there was a continuous influx of
 
 A few enterprising immigrants started plying their trades along the “five-foot-ways” — which was what sheltered pedestrian walkways measuring five feet wide were called in colonial times — in front of shophouses. These makeshift stalls sold inexpensive goods and services that required minimal financial outlay and equipment to set up. These trades were known as <i>gho kha ki</i> (Hokkien for “five-foot-way”) trades[^1] and included “knife sharpeners, streetside barbers, mask makers and fortune tellers” as well as “locksmiths, letter writers, traditional medicine men or <i>bomoh</i>” (Malay shaman) and several others.[^2]
 
-#### **A Trade By and Other Name**
+#### **A Trade By any Other Name**
 
 Merriam-Webster defines a tradesman or tradesperson as a skilled worker engaged in a particular trade or craft. Trades are an integral component of the manufacturing industry; in traditionally run businesses, inter-generational workers usually engage in labour-intensive work, sometimes using simple machinery or hand tools to produce a commodity for sale. Sullivan defines these trades as “making-things business” or “cottage industries”, emphasising the “handwork aspect of such manufacturing”.[^3] These trades are usually family-run, “have less than twenty workers, including [the] working proprietor; may consist of only one or two people ... [and the] workspace and living space are combined or are nearby”. [^4]
 
@@ -48,7 +48,7 @@ A few trades have survived the march of time, such as the mobile ice-cream cart 
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-9-issue-4/forgottentrades/cobbler.jpg">
+<img src="/images/vol-9-issue-4/forgottentrades/cobbler.jpg" style="width:70%">
 Cobbler operating from pavement (1980). <i>Courtesy of National Archives of Singapore.</i></div>
 
 #### **Fortune Tellers**
@@ -71,7 +71,7 @@ Parrot astrologers were based in Serangoon Road but they also made house calls, 
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-9-issue-4/forgottentrades/fortune_teller.jpg">
+<img src="/images/vol-9-issue-4/forgottentrades/fortune_teller.jpg" style="width:70%">
 Parrot fortune teller at Serangoon Road in 1980. <i>Courtesy of National Archives of Singapore.</i></div>
 
 
@@ -94,7 +94,7 @@ An Indian ice-water seller making a syrup coated ice-ball in 1978. <i>Courtesy o
 
 **History**<br>A Malay phrase, <i>“kachang”</i> (nuts, beans or peas) and <i>“puteh”</i> (meaning white) was a popular snack up until the 1990s. The peanuts coated with melted white sugar is one of the most popular varieties and probably accounts for the name “white nuts”. <i>Kachang puteh</i> originated from an Indian snack called <i>chevdo</i>.[^10] Nuts of various colours and prepared in a variety of ways (steamed, fried, roasted or coated with sugar) were sold by the vendors, who were mostly Indians.
 
-**Job Scope**<br>The early itinerant <i>kachang puteh</i> seller hawked his wares stored in bottles or paper bags from a tray balanced on his head, moving from one location to the next. Some used pushcarts or bicycles, while others stationed themselves at fixed locales. Typically between five and 20 varieties of <i>kachang puteh</i> would be sold and each serving (either a single or mixed flavour of nuts) would be packed into rolled-up paper cones, using pages torn from old newspapers, yellow pages directories and school exercise books.
+**Job Scope**<br>The early itinerant <i>kachang puteh</i> seller hawked his wares stored in bottles or paper bags from a tray balanced on his head, moving from one location to the next. Some used pushcarts or bicycles, while others stationed themselves at fixed locales. Typically between five and 20 varieties of <i>kachang puteh</i> would be sold and each serving (either a single or mixed flavour of nuts) would be packed into rolled-up paper cones, using pages torn from old newspapers, Yellow pages directories and school exercise books.
 
 **Tools of the Trade**<br><i>Kachang puteh</i> vendors either roasted and flavoured their own <i>kachang</i> at home (a lengthy and painstaking process) or bought ready-made <i>kachang</i> directly from suppliers.
 
@@ -102,7 +102,7 @@ An Indian ice-water seller making a syrup coated ice-ball in 1978. <i>Courtesy o
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-9-issue-4/forgottentrades/Chu_Sui_Mang.jpg">
+<img src="/images/vol-9-issue-4/forgottentrades/Chu_Sui_Mang.jpg" style="width:70%">
 A roadside <i>‘kachang puteh’</i> seller (1985). <i>Chu Sui Mang collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **Letter Writers**
@@ -117,7 +117,7 @@ A roadside <i>‘kachang puteh’</i> seller (1985). <i>Chu Sui Mang collection,
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-9-issue-4/forgottentrades/letter_writter.jpg">
+<img src="/images/vol-9-issue-4/forgottentrades/letter_writter.jpg" style="width:70%">
 A letter writer with a customer along a five foot way in Kreta Ayer. From the Kouo Shang-Wei collection 郭尚慰收集. <i>All rights reserved, family of Kouo Shang-Wei and National Library Board, Singapore, 2007.</i></div>
 
 #### **Street Barbers**
@@ -171,7 +171,7 @@ The National Museum of Singapore has also curated several exhibitions on vanishi
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-9-issue-4/forgottentrades/individuals.jpg">
+<img src="/images/vol-9-issue-4/forgottentrades/individuals.jpg" style="width:70%">
 Some of the individuals featured in the 2013 exhibition, “Trading Stories: Conversations with Six Pioneering Tradesmen” by the National Museum of Singapore include Sam Sui women and a movie poster painter. <i>Courtesy of National Museum of Singapore, National Heritage Board.</i></div>
 
 #### **Oral Recordings**
@@ -182,7 +182,7 @@ The recordings reveal fascinating details such as the reasons for entering or ab
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-9-issue-4/forgottentrades/lost_art.jpg"></div>
+<img src="/images/vol-9-issue-4/forgottentrades/lost_art.jpg" style="width:70%"></div>
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-9-issue-4/forgottentrades/lost_art1.jpg">

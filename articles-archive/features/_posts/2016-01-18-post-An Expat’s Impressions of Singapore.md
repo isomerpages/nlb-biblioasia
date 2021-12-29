@@ -72,7 +72,7 @@ Comprising 57 chapters and about 400 pages per volume, the title was first publi
 
 [^6]:[Buckley](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082239), 1984, p. ix.
 
-[^7]:Bastin, J. (1968). *Review: An anecdotal history of old times in Singapore*, by Charles Burton Buckley. *T’oung Pao*, (Second Series), 54 (1/3), 158–160, p. 159. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
+[^7]:Bastin, J. (1968). *Review: An anecdotal history of old times in Singapore*, by Charles Burton Buckley. *T’oung Pao*, (Second Series), *54* (1/3), 158–160, p. 159. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
 
 [^8]:Gibson-Hill, C.A. (1954, May). *Review: An anecdotal history of old times in Singapore*, by Charles Burton Buckley. *Journal of the Malayan Branch of the Royal Asiatic Society, 27* (1) (165), 235–243, p. 241. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
 

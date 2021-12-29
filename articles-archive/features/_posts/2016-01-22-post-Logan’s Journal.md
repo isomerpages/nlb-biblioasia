@@ -1,12 +1,11 @@
 ---
 title: Logan’s Journal
 date: 2016-01-22
-permalink: /vol-11/issue-4/jan-mar-2016/logan-indian-archipelago-eastern-asia-journal
+permalink: /vol-11/issue-4/jan-mar-2016/indian-archipelago-eastern-asia-logan-journal
 image: /images/vol-11-issue-4/logan-journal/01_loganjournal.jpg
 layout: post
 description: ""
 ---
-
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>ABOUT THE SERIAL</b>
 <br><br>
 <b>Title:</b> <i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=5007604">The Journal of the Indian Archipelago and Eastern Asia</a></i>
@@ -25,6 +24,8 @@ description: ""
 <br>
 <b>Accession nos.:</b> B03014448B (v.1); B03014449C (v.2); B03014450F (v.3); B03014451G (v.4); B03014452H (v.5); B03043596H (v.6); B03014453I (v.7); B03014454J (v.8); B03014455K (v.9); B03013644J (new series, v.1); B03013645K (new series, v.2); B03013649D (new series, v.3)</span>
 
+<div style="background-color: white;"><img style="width:600px" src="/images/vol-11-issue-4/logan-journal/02a_loganjournal.jpg">A pull-out page showing the cross-section of the Horsburgh Lighthouse. <i>All rights reserved, National Library Board, Singapore.</i></div>
+
 In the pre-Wikipedia era, scientific and literary knowledge was mainly documented in the form of periodicals and journals. In the early 19th century, most of such publications in circulation in the region comprised missionary-related magazines and Dutch-produced scientific journals of Java.[^1] But one local publication stood out for its single-minded focus on the thriving scientific and literary activity within the Straits Settlements.[^2] *The Journal of the Indian Archipelago and Eastern Asia* marked a pioneering attempt to produce a scholarly journal in the British settlements of the Far East,[^3] showcasing the intellectual prowess of writers from professions as diverse as priests, lawyers, doctors, soldiers,  merchants  and planters.[^4]
 
 The journal’s main purpose was to introduce its readers to all the available sources of information on the Indian Archipelago, and to treat every subject in a scientific manner. It covered a comprehensive sweep of topics, including history, language, literature, ethnography, natural history, physical science, topography, agriculture and economics.[^5]
@@ -40,8 +41,6 @@ The journal’s creator, James Richardson Logan, was born in Scotland in 1819.[^
 In 1843, Logan relocated to Singapore, where he worked in partnership with his brother before returning to Penang in 1853.[^10] He then took over the *Penang Gazette*, transforming it into an influential newspaper. As a member of the Asiatic Society of Bengal, and corresponding member of the Ethnological Society of London, and the Batavian Society of Arts and Sciences,[^11] Logan had a wide range of interests spanning geological enquiry, geographical exploration  and philological  studies.[^12] His personal collection of philological books was purchased in 1878 by the Singapore Library.[^13] Logan died in Penang in 1869 at the age of 51 from malaria, and a public statue was erected in Penang in his honour.[^14]
 
 Logan started the journal in 1847 while living in Singapore and edited its articles until 1862.[^15] He displayed such dedication to his work that the journal became synonymous with his name: “Logan’s Journal” was how many referred to it. Logan personally contributed numerous articles to the journal, including “The Present Condition of the Indian Archipelago” (Vol. 1, 1847, pp. 1–21), an essay on his observations of Indonesia’s history, and considered as one of the more important papers  published  in the journal.[^16]
-
-<div style="background-color: white;"><img style="width:600px" src="/images/vol-11-issue-4/logan-journal/02a_loganjournal.jpg">A pull-out page showing the cross-section of the Horsburgh Lighthouse. <i>All rights reserved, National Library Board, Singapore.</i></div>
 
 For his efforts, Logan was praised by George F. Hose, the President of the Straits Branch of the Royal Asiatic Society, who noted in his inaugural speech that Logan’s bold endeavour had attracted notable writers from all classes and diverse nationalities: French, German, Dutch, Swiss and even Chinese.[^17] The sole Chinese contributor was Seah Eu Chin, a prominent merchant and leader in the Chinese community in Singapore, whose essay was titled “The Chinese in Singapore: General Sketch of the Numbers, Tribes and Advocations of the Chinese in Singapore” (Vol. 2, 1848, pp. 283–289).
 
@@ -67,11 +66,11 @@ All nine volumes of the journal dating from 1847 to 1855, along with three addit
 
 [^7]:[Logan](http://eresources.nlb.gov.sg/printheritage/detail/f83896d8-a4bf-4b9f-909c-9af2a041fd27.aspx), 1847, pp. iv–vii.
 
-[^8]:Bastin, C., & Bastin, J. (1964). Some old Penang tombstones. *Journal of the Malaysian Branch of the Royal Asiatic Society, 37* (1) (205), 126–165, p. 146. Call no.: RCLOS 959.5JMBRAS
+[^8]:Bastin, C., & Bastin, J. (1964). Some old Penang tombstones. *[Journal of the Malaysian Branch of the Royal Asiatic Society](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4126333), 37* (1) (205), 126–165, p. 146. Call no.: RCLOS 959.5JMBRAS
 
 [^9]:[National Library Board](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1146_2009-10-27.html), 2009.
 
-[^10]:Turnbull, C.M. (1969, March). The European mercantile community in Singapore, 1819–1867. *Journal of Southeast Asian History (Singapore Commemorative Issue 1819–1969), 10* (1), 12–35, p. 17. Call no.: RCLOS 959.05 JSA
+[^10]:Turnbull, C.M. (1969, March). The European mercantile community in Singapore, 1819–1867. *[Journal of Southeast Asian History](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=2625011) (Singapore Commemorative Issue 1819–1969), 10* (1), 12–35, p. 17. Call no.: RCLOS 959.05 JSA
 
 [^11]:Logan, J.R. (1851, January). *[The Journal of the Indian Archipelago and Eastern Asia, V](http://eresources.nlb.gov.sg/printheritage/detail/96e662cb-55ca-48bd-af98-a0a9b5d4eaa5.aspx)* (Vol. 5, title page). Microfilm no.: NL 25793
 

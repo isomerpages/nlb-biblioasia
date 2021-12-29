@@ -1,12 +1,11 @@
 ---
 title: The Book That Almost Didn’t Happen
 date: 2016-01-22
-permalink: /vol-11/issue-4/jan-mar-2016/john-moor-book-that-didnt-happen
+permalink: /vol-11/issue-4/jan-mar-2016/notices-indian-archipelago-john-henry-moor
 image: /images/vol-11-issue-4/book-that-almost-didnt-happen/01_bookdidnthappen.jpg
 layout: post
 description: ""
 ---
-
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>ABOUT THE BOOK</b>
 <br><br>
 <b>Title:</b> <i><a href="https://eresources.nlb.gov.sg/printheritage/detail/f9d3332f-3612-46d3-b134-b254d106aaf9.aspx">Notices of the Indian Archipelago, and Adjacent Countries: Being a Collection of Papers Relating to Borneo, Celebes, Bali, Java, Sumatra, Nias, the Philippine islands, Sulus, Siam, Cochin China, Malayan Peninsula, etc.</a></i>
@@ -15,9 +14,7 @@ description: ""
 <br>
 <b>Year published:</b> 1837
 <br>
-<b>Publisher:</b> Not identified
-<br>
-Printed in Singapore by the Mission Press of the American Board of Commissioners for Foreign Missions[^1]
+<b>Publisher:</b> Not identified; Printed in Singapore by the Mission Press of the American Board of Commissioners for Foreign Missions[^1]
 <br>
 <b>Language:</b> English
 <br>
@@ -29,9 +26,9 @@ Printed in Singapore by the Mission Press of the American Board of Commissioners
 <br>
 <b>Donated by:</b> Mrs Loke Yew</span>
 
-By John Henry Moor’s reckoning, the book he published in December 1837[^2] was beset with failures. *Notices of the Indian Archipelago, and Adjacent Countries* had been intended as the first part of a magnum opus that the Singapore newspaper editor had grandly announced in 1835. Moor’s goal was to print a massive compendium comprising two volumes: one compiling reprints of articles first published in the *Singapore Chronicle* newspaper from 1824 to 1834, and a second volume featuring papers on key topics about Singapore and Southeast Asia.
-
 <div style="background-color: white;"><img src="/images/vol-11-issue-4/book-that-almost-didnt-happen/01a_bookdidnthappen.jpg"><i>Notices of the Indian Archipelago, and Adjacent Countries</i> contains a fold-out map titled “Map of the Indian Archipelago Including Siam and Cochin China with Parts of China and of the Burman Empire” compiled by J. B. Tassin. <i>All rights reserved, National Library Board, Singapore.</i></div>
+
+By John Henry Moor’s reckoning, the book he published in December 1837[^2] was beset with failures. *Notices of the Indian Archipelago, and Adjacent Countries* had been intended as the first part of a magnum opus that the Singapore newspaper editor had grandly announced in 1835. Moor’s goal was to print a massive compendium comprising two volumes: one compiling reprints of articles first published in the *Singapore Chronicle* newspaper from 1824 to 1834, and a second volume featuring papers on key topics about Singapore and Southeast Asia.
 
 But due to the scarcity of printers and paper in early Singapore, *Notices*, the first volume, took two years to complete. The 400-page volume included six maps, five coloured in outline, that had to be lithographed in Calcutta, India, which contributed to the delay in its publication. Moor later lamented that the tome was “far from producing satisfaction” due to its “wanting arrangement”: the earlier articles were arranged by geography, but later contributions had to be inserted into the appendix.
 
@@ -61,13 +58,13 @@ The National Library holds four copies of the 1837 edition of *Notices*, and two
 
 #### **NOTES**
 
-[^1]:Extracts from letters of Mr Tracy, dated at Singapore. (1836, May). *The Missionary Herald, 32*, 181. Retrieved May 25, 2019, from HathiTrust website.
+[^1]:Extracts from letters of Mr Tracy, dated at Singapore. (1836, May). *The Missionary Herald, 32*, 181. Retrieved from HathiTrust website.
 
 [^2]:[Untitled](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18371214-1.2.16). (1837, December 14). *The Singapore Free Press and Mercantile Advertiser* (1835–1869), p. 3. Retrieved from NewspaperSG.
 
 [^3]:Buckley, C.B. (1984). *[An anecdotal history of old times in Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082239)* (p.134). Singapore: Oxford University Press. Call no.: RSING 959.57 BUC-[HIS]
 
-[^4]:Gibson-Hill, C.A. (1953, July). The Singapore Chronicle (1824–37). *Journal of the Malaysian Branch of the Royal Asiatic Society, 26* (1), 178. Singapore: Malayan Branch, Royal Asiatic Society. (Call no.: RCLOS 959.5 JMBRAS)
+[^4]:Gibson-Hill, C.A. (1953, July). The Singapore Chronicle (1824–37). *Journal of the Malaysian Branch of the Royal Asiatic Society, 26* (1), 178. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
 
 [^5]:[Buckley](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082239), 1984, pp. 128, 133–134, 323, 467; Gibson- Hill, Jul 1953, pp. 187–195; [Death](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18430504-1.2.9). (1843, May 4). T*he Singapore Free Press and Mercantile Advertiser* (1835–1869), p. 3. Retrieved from NewspaperSG.
 

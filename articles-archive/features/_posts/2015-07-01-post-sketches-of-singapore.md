@@ -13,7 +13,7 @@ layout: post
 Fort Canning Park by Dawn Lo, pharmacist.
 </div>
 
-Urban Sketchers is a global community of artists – from different walks of life, of varying ages, and living in different parts of the world – with one thing in common: a love for sketching the world around them. The movement was started in Seattle U.S. by the journalist and illustrator Gabriel Campanario, and today it has taken root in almost every major city worldwide. The Urban Sketchers group in Singapore is exceptionally active, having self- or co-published books in partnership with community and cultural institutions, and also held exhibitions of their works.
+Urban Sketchers is a global community of artists – from different walks of life, of varying ages, and living in different parts of the world – with one thing in common: a love for sketching the world around them. The movement was started in Seattle, U.S. by the journalist and illustrator Gabriel Campanario, and today it has taken root in almost every major city worldwide. The Urban Sketchers group in Singapore is exceptionally active, having self- or co-published books in partnership with community and cultural institutions, and also held exhibitions of their works.
 
 Group members regularly meet up for a mass “sketchwalk” every last Saturday of the month – always at a different part of Singapore. Participants use all manner of art tools and techniques to capture their surroundings. There are neither joining fees, attendance sign-ups nor skill requirements to fulfil; the community has only two simple rules – to always sketch the scenes on location, and be truthful in capturing what they see. More information is available at: [http://urbansketchers-singapore.blogspot.sg/](http://urbansketchers-singapore.blogspot.sg/)
 
