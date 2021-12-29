@@ -26,33 +26,15 @@ Thomsen most likely translated the *Sermon on the Mount* into Malay. The Sermon 
 
 As student of the learned teacher and interpreter Abdullah bin Abdul Kadir (also known as Munsyi Abdullah),4 Thomsen translated a number of Christian works into Malay under Abdullah’s tutelage. Prior to his arrival in Singapore in 1822, Thomsen spent several years in the Dutch East Indies before joining the LMS’ Melaka station in 1815. Besides managing the Mission Press in Singapore, he also founded a small school for the Malay community.5
 
-Under Thomsen’s supervision, the Mission Press became more active, printing Malay books and tracts on a regular basis. In the 1830 report of the Singapore Christian Union, Thomsen reported that a sum of 18 dollars and 50 cents was disbursed for the printing of 1,000 copies of the Sermon on the Mount.6 Other publications printed by 
-the Mission Press in the same year included religious tracts such as Scripture Tickets,Abdullah and Sabat and Good News for the Children of Adam.7
+Under Thomsen’s supervision, the Mission Press became more active, printing Malay books and tracts on a regular basis. In the 1830 report of the Singapore Christian Union, Thomsen reported that a sum of 18 dollars and 50 cents was disbursed for the printing of 1,000 copies of the *Sermon on the Mount*.6 Other publications printed by the Mission Press in the same year included religious tracts such as *Scripture Tickets*, *Abdullah and Sabat and Good News for the Children of Adam*.7
 
-Quite apart from its evangelical work, 
-LMS and its missionaries played a pioneering role in Singapore’s printing industry. 
-These missionaries were the first to venture 
-into printing and publishing in Singapore, 
-albeit primarily as a means of spreading 
-the Christian faith. Earlier, in January 1823, 
-Milton and Thomsen had sought permission from the government to establish a 
-printing press on the island. Their request 
-was granted the same month and so S. C. 
-Mission Press, the first printing press in 
-Singapore, was born.8
-In addition to printing religious booklets and tracts, Mission Press also produced 
-publications for the government and the 
-mercantile community. In fact, as early as 
-1823, Thomsen was engaged by Raffles to 
-print public documents containing the rules 
-and regulations for the settlement.9
-The first newspaper in Singapore, the 
-Singapore Chronicle (see page 114), was initially printed by the Mission Press. The first 
-issue was printed on 1 January 1824, and 
-the newspaper continued to be printed by 
-Mission Press until September 1830, when 
-the newspaper set up its own printing press 
-called the Singapore Chronicle Press.10
+Quite apart from its evangelical work, LMS and its missionaries played a pioneering role in Singapore’s printing industry. These missionaries were the first to venture into printing and publishing in Singapore, albeit primarily as a means of spreading the Christian faith. Earlier, in January 1823, Milton and Thomsen had sought permission from the government to establish a printing press on the island. Their request was granted the same month and so S. C. Mission Press, the first printing press in Singapore, was born.8
+
+In addition to printing religious booklets and tracts, Mission Press also produced publications for the government and the mercantile community. In fact, as early as 1823, Thomsen was engaged by Raffles to print public documents containing the rules and regulations for the settlement.9
+
+The first newspaper in Singapore, the Singapore Chronicle (see page 114), was initially printed by the Mission Press. The first issue was printed on 1 January 1824, and the newspaper continued to be printed by 
+Mission Press until September 1830, when the newspaper set up its own printing press called the Singapore Chronicle Press.10
+
 The presence of the printing press 
 spurred the growth of printing and publishing in Singapore. Besides missionaryrelated materials that were printed in Malay, 
 publications destined for China and other 
