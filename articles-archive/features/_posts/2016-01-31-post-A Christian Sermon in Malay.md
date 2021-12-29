@@ -38,4 +38,8 @@ Mission Press until September 1830, when the newspaper set up its own printing p
 The presence of the printing press spurred the growth of printing and publishing in Singapore. Besides missionary related materials that were printed in Malay, publications destined for China and other parts of the region were also printed here. In addition, missionaries who ran into trouble for publishing their proselytising tracts in China turned to the Mission Press in Singapore. When the missionaries eventually moved to China, they left behind a fledgling printing industry which later grew with the 
 settlement. More importantly, the missionaries also left behind a literary legacy of Singapore’s earliest printed works.
 
-Thomsen left Singapore in 1834 under a cloud after selling the Mission Press’ equipment and land to the American Board of Commissioners for Foreign Missions in a dubious deal. The LMS opposed the
+Thomsen left Singapore in 1834 under a cloud after selling the Mission Press’ equipment and land to the American Board of Commissioners for Foreign Missions in a dubious deal. The LMS opposed the transaction and contested the ownership of the purchases, but the matter was not resolved until 1843 when the American Board of Commissioners for Foreign Missions ceased its operations in Singapore and returned the items to the LMS.11
+
+– Written by Ong Eng Chuan
+
+#### **NOTES**
