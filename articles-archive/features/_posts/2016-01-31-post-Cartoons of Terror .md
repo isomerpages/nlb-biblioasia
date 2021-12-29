@@ -57,3 +57,13 @@ Liu Kang enlisted the help of Zheng Zhenen to write the captions in English.10A 
 – Written by Timothy Pwee
 
 #### **NOTES**
+[^1]:Frei, H. P. (2004). Guns of February: Ordinary Japanese soldiers’ views of the Malayan campaign and the fall of Singapore, 1941–42 (p. 148). Singapore: Singapore University Press. Call no.: RSING 940.5425 FRE-[WAR]; Koh, E. (2013). Diaspora at war: The Chinese of Singapore between empire and nation, 1937–1945. Leiden: Brill. Call no.: RSING 305.89510595709044 KOH
+[^2]:Cheah, B. K. (2000). Memory as history and moral judgement: Oral and written accounts of the Japanese Occupation of Malaya. In P. H. Lim & D. Wong (Eds.), War and memory in Malaysia and Singapore (pp. 23–41). Singapore: Institute of Southeast Asian Studies. Call no.: RSING 959.503 WAR
+[^3]:Lim, C. T. (2004, Fall). Chop Suey – Cartoons about the Japanese Occupation and National Education in Singapore. International Journal of Comic Art, 6(2), 415–430; Alfred, H. (1983, December 24). History simple and relevant. The Straits Times, p. 1. Retrieved from NewspaperSG.
+[^4]:Chong, W. H. (1986, September 23). Cartoons on a reign of terror. The Straits Times, p. 3. Retrieved from NewspaperSG.
+[^5]:Nakahara, M. (1990). チョプスイ: シンガポールの日本兵たち. Tokyo: めこん. Call no.: RSING 940.53595 CHO; Asian treasure. (1991, April 6). The Straits Times, p. 9. Retrieved from NewspaperSG.
+[^6]:Liu, K. (1991). Za sui hua ji = Chop suey. Singapore: Global Arts & Crafts Pte Ltd. Call no.: RSING 940.53595 LK-[WAR]; Liu, K. (2014). Za sui hua ji = Chop suey. Global Publishing Company. Call no.: RSING 940.53595 LK
+[^7]:The Straits Times, 23 Sep 1986, p. 3; 黄玉云 (1986, September 19). 漫画缩写三年八个月. 联合早报 [Lianhe Zaobao], p. 5. Retrieved from NewspaperSG.
+[^8]:Yeo, W. W. (Ed.). (2011). Liu Kang: Colourful modernist (p. 8). Singapore: The National Art Gallery. Call no.: RSING 759.95957 LIU
+[^9]:The Straits Times, 23 Sep 1986, p. 3.
+[^10]:李永乐 (1987, February 16). 绘出染血的历史. 联合晚报 [Lianhe Wanbao], p. 12. Retrieved from NewspaperSG.
