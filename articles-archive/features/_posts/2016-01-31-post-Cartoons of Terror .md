@@ -49,7 +49,7 @@ collecting stories of people who suffered during the Occupation. The 36 illustra
 
 After the war, Liu Kang became widely known as one of the Nanyang artists, a famous pioneering group of modernist Singapore artists who painted idyllic rural scenes and people in oils or Chinese ink.8 In *Chop Suey*, however, Liu Kang did charcoal sketches and caricatures, methods not characteristic of his signature works. This led art critics to interpret Liu Kang’s work in *Chop Suey* as representative of the experience of the community rather than a significant phase in his development as an artist. In fact, Liu Kang himself appeared to have had forgotten about the illustrations; he was reportedly surprised when the National Archives presented him with a rebound copy of the Chinese volume in 1982.9
 
-<img src="/images/vol-11-issue-4/cartoons-of-terror/T5.JPG">
+<img style="width: 650px; height: 400px;" src="/images/vol-11-issue-4/cartoons-of-terror/T5.JPG">
 <div style="background-color: white;"> Those chosen to be massacred were often made to dig their own graves before they were killed by the Japanese soldiers. <i>Image source: National Library Board, Singapore.</i></div>
 
 Liu Kang enlisted the help of Zheng Zhenen to write the captions in English.10A Zheng Shouzhuo (郑守拙) wrote the captions for the fourth Chinese-language volume, which mostly documents the experiences of prisoner-of-war (POW) internees and contains illustrations from the first two English-language volumes. Only the sketches in the first volume were signed by Liu Kang.Unfortunately, the National Library has only a photocopy of the Chinese edition and not an original. 
