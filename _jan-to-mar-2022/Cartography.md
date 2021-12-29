@@ -74,7 +74,7 @@ Decades later, Manchu forces invaded the Korean peninsula, angered by the latter
 
 These invasions cast a long shadow over the Korean psyche. In their aftermath, Korea pursued a policy of seclusion that restricted relations with Japan, China and Europe until the mid-19th century. Korean cartographic interest turned from delineating the boundaries of national territory to asserting a sense of self-sovereignty as well as rejecting both Japanese and Chinese colonial ambitions over Korea. Joseon mapmaking “underwent groundbreaking developments, spurred on by an increased demand as the population was attempting to come to terms with the harmful effects of war,” writes Associate Curator Baik Seungmi of the National Museum of Korea.[^23] 
 
-In the mid-18th century, Korean cartographer Jeong Sanggi (1678–1752) produced the _Dongkuk jido_ (Map of Korea), hailed as the first map to “truly describe the Korean territory”.[^24] The _Dongkuk jido_ was widely copied and disseminated by government officials and civilians, and later became the basis of block-printed national maps like the _Haejwa Jeondo_.[^25] 
+In the mid-18th century, Korean cartographer Jeong Sanggi (1678–1752) produced the _Dongkuk jido_ (_Map of Korea_), hailed as the first map to “truly describe the Korean territory”.[^24] The _Dongkuk jido_ was widely copied and disseminated by government officials and civilians, and later became the basis of block-printed national maps like the _Haejwa Jeondo_.[^25] 
 
 ### **The French Conquest of Indochina**
 
