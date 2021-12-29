@@ -150,7 +150,6 @@ The exhibition is open from 10 am to 9 pm daily, except on public holidays. Admi
 <br><br>
 As an accompaniment to the exhibition, a book with the same title has been published. It is written by curators Pierre Singavélou and Fabrice Argounès, with inputs from the National Library’s curatorial team. <i>Mapping the World: Perspectives from Asian Cartography</i> is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (Call nos. RSING 526.095 SIN and SING 526.095 SIN) <br><br>
 <img src="/images/vol-17-issue-4/cartography/10-Cover.png">
-<div style="text-align:center">A durian tree with its thorny fruit. <i>Photograph by Law Soo Phye, courtesy of Khir Johari.</i>
 </div>
 	
 <div style="background-color: white;">
