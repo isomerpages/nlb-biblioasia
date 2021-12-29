@@ -57,7 +57,7 @@ Leyden was assisted by a Malay scribe, whom he had met in Penang. “Ibrahim, so
 
 Unfortunately, Leyden died the following year on 28 August. His books, private papers, manuscripts and translations were shipped to Calcutta by his executors. However, Raffles kept many of Leyden’s materials, including the *Malay Annals*, until he left Java for London in 1816 and likely handed the translation to Leyden’s cousin, Reverend James Morton. Raffles provided Morton with information on Leyden’s life and agreed to write an introduction to the *Malay Annals*, which he completed in 1817.[^17]
 
-<div style="background-color: white;"><img style="width:500px" src="/images/vol-11-issue-4/legend-of-malay-kings/04a_malaykings.jpg">The legend of Sang Nila Utama, a prince from Srivijaya who supposedly founded Singapura (Singapore), is one of the stories featured in the Sejarah Melayu. <i>All rights reserved, National Library Board, Singapore.</i></div>
+<div style="background-color: white;"><img style="width:500px" src="/images/vol-11-issue-4/legend-of-malay-kings/04a_malaykings.jpg">The legend of Sang Nila Utama, a prince from Srivijaya who supposedly founded Singapura (Singapore), is one of the stories featured in the <i>Sejarah Melayu</i>. <i>All rights reserved, National Library Board, Singapore.</i></div>
 
 #### **W. G. Shellabear’s Version**
 
