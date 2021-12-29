@@ -59,4 +59,4 @@ Thomsen left Singapore in 1834 under a cloud after selling the Mission Press’ 
 [^8]:[Byrd](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081984), 1970, p. 14.
 [^9]:O'Sullivan, 1984, p. 74.
 [^10]:Gibson-Hill, C. A. (1953, July). *The Singapore Chronicle, 1824–37*. *Journal of the Malayan Branch of the Royal Asiatic Society*. Vol. 26, No. 1 (161), 192. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
-[^11]:Lee, 1989, p. 4.
+[^11]:[Lee](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5360274), 1989, p. 4.
