@@ -5,7 +5,6 @@ date: 2016-01-31
 layout: post
 description: ""
 ---
-
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
 	<b>Title:</b> The Manners and Customs of the 
 Chinese of the Straits Settlements<br>
@@ -52,10 +51,10 @@ a midshipman and stopped over in Singapore in 1842 while en route to China to fi
 – Written by Lee Meiyu
 
 #### **NOTES**
-[^1]:Fortier, D. H. (1974, September). Review. American Anthropologist, 76(3), 611. Retrieved from JSTOR via NLB’s eResources website.
-[^2]:Fortier, Sep 1974, p. 611; Blythe, W. (1971). Introduction. In J. D. Vaughan. (1971), The manners and customs of the Chinese of the Straits Settlements. Singapore: Oxford University Press. Call no.: RSING 390.0951 VAU-[CUS]  
-[^3]:Vaughan, J. D. (1879). The manners and customs of the Chinese of the Straits Settlements (p. 4). Singapore: Printed at the Mission Press. Retrieved from BookSG; Blythe, 1971, Introduction.
-[^4]:Vaughan, 1879, pp. 63–81, 92–94, 110–119.
+[^1]:Fortier, D. H. (1974, September). Review. *American Anthropologist, 76* (3), 611. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
+[^2]:Fortier, Sep 1974, p. 611; Blythe, W. (1971). Introduction. In J. D. Vaughan. (1971), [*The manners and customs of the Chinese of the Straits Settlements*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4250059). Singapore: Oxford University Press. Call no.: RSING 390.0951 VAU-[CUS].  
+[^3]:Vaughan, J. D. (1879). [*The manners and customs of the Chinese of the Straits Settlements*](https://eresources.nlb.gov.sg/printheritage/detail/d158bcea-eb92-4e6a-8622-e1762c4b4de1.aspx) (p. 4). Singapore: Printed at the Mission Press. Retrieved from BookSG; [Blythe](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4250059), 1971, Introduction.
+[^4]:[Vaughan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=116812), 1879, pp. 63–81, 92–94, 110–119.
 [^5]:Kaufman, H. K. (1972, November). Review. The Journal of Asian Studies, 32(1), 215–216. Retrieved from JSTOR via NLB’s eResources website.
 [^6]:One Hundred Years of Singapore gives the date as 1842. See Makepeace, W., Brooke, G. E., & Braddell, R. St. J. (1991). One hundred years of Singapore (Vol. 1, p. 223). Singapore: Oxford University Press. Call no.: RSING 959.57ONE-[HIS]        
 [^7]:Gibson-Hill, C. A. (1960, May). The Master Attendants at Singapore, 1819–67. Journal of the Malaysian Branch of the Royal Asiatic Society, Vol. 33, No. 1 (189), 57. Retrieved from JSTOR via NLB’s eResources website. 
