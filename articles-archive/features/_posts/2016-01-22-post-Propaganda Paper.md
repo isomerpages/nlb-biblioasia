@@ -73,8 +73,7 @@ The section in the papers that were probably of most interest to local readers w
 
 [^2]:Pitt, K.W., & Leong, W.K. (Eds.). (2009). *[Syonan years 1942–1945: Living beneath the rising sun](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13221326)* (p. 112). Singapore: National Archives of Singapore. (Call no.: RSING 940.530745957 TAN-[WAR]); [The Shonan Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/syonantimes19420220-1.2.1). (1942, February 20). *The Shonan Times*, p. 1. Retrieved from NewspaperSG.
 
-[^3]:Turnbull, C.M. (1995). *[Dateline Singapore: 150 years of The Straits Times](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7471414)* (p. 116). Singapore: Times
-Editions for Singapore Press Holdings. (Call no.: RSING 079.5957 TUR); *[The Shonan Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/syonantimes19420220-1.2.1)*, 20 Feb 1942, p. 1; *[The Syonan Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/syonantimes19420221-1.2.3)*, 21 Feb 1942, p. 1.
+[^3]:Turnbull, C.M. (1995). *[Dateline Singapore: 150 years of The Straits Times](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7471414)* (p. 116). Singapore: Times Editions for Singapore Press Holdings. (Call no.: RSING 079.5957 TUR); *[The Shonan Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/syonantimes19420220-1.2.1)*, 20 Feb 1942, p. 1; *[The Syonan Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/syonantimes19420221-1.2.3)*, 21 Feb 1942, p. 1.
 
 [^4]:[Syonan Sinbun issues first edition today in Japanese and English](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/syonantimes19421208-1.2.3). (1942, December 8). *The Syonan Sinbun*, p. 1. Retrieved from NewspaperSG.
 
