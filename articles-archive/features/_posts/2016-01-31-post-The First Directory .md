@@ -32,6 +32,9 @@ The almanack begins with a calendar of daily events and the lunar calendar for d
 their full names, occupations and affiliated organisations – sometimes with addresses – making it a comprehensive directory. A schedule of mail arrivals and departures was included in the publication’s appendix. Besides Singapore, the publication also 
 included personalities residing in Penang and Melaka.
 
+<img src="/images/vol-11-issue-4/the-first-directory/D3.JPG">
+<div style="background-color: white;">The title page of <i>The Straits Times Almanack, Calendar and Directory of the Year 1846. Image source: National Library Board, Singapore.</i></div>
+
 As Singapore grew into an international port city, later editions of the almanack were expanded to include more information on trade, including annual trade statistics; tables of exchange as well as records of shipping vessels, harbour rules and fees, and postage fees.
 
 In the preface of the first edition, the editor and compiler, lawyer Robert Carr Woods, had envisaged that the publication would be a useful and convenient reference tool for the public. Woods (1816–75) came from Bombay to Singapore in 1845. Then 29, he was hired by an Armenian merchant in Singapore, Catchick Moses, as the editor of a new daily, *The Straits Times*. Singapore’s oldest surviving newspaper was published in a small office in Commercial Square (present-day Raffles Place) in the same year.1 The almanack was started a year later and is still published today as *Buku Merah, or the Times Business Directory of Singapore*.2 Moses subsequently handed over the printing business to Woods when he felt that there were no commercial prospects for the enterprise.3
@@ -43,4 +46,11 @@ In 1860, Woods sold off the printing business in order to spend more time on his
 
 From the 1960s, compilation of the almanack was carried out by the Straits Times office and then by Thomas J. Keaughran. It was initially printed by Straits Times Press, followed by Commercial Press from 1865, Mission Press from 1880 and Fraser & Neave from 1922.
 
-Over the years, the directory has been published under various names: The Straits Times Almanack, Calendar and Directory (1846–49); Singapore Almanack and Directory (1850–58), Royal Almanack and Directory (1859-64); Straits Calendar and Directory (1865–77), Singapore Directory
+<img src="/images/vol-11-issue-4/the-first-directory/D2.JPG">
+<div style="background-color: white;">The directory provides a glimpse into pre-war Singapore as it contains the names of its principal residents at the time along with their professions. <i>Image source: National Library Board, Singapore.</i></div>
+
+Over the years, the directory has been published under various names: *The Straits Times Almanack, Calendar and Directory* (1846–49); *Singapore Almanack and Directory* (1850–58), *Royal Almanack and Directory* (1859-64); *Straits Calendar and Directory* (1865–77), *Singapore Directory for the Straits Settlements* (1878–79), *Singapore and Straits Directory* (1880–1921), *Singapore and Malayan Directory* (1922–40), *Straits Times Directory of Malaysia & Singapore* (1965–73), *The Straits Times Directory of Singapore* (1974–83), and *Times Business Directory of Singapore* (1984–present). 
+
+– Written by Lee Meiyu
+
+#### **NOTES**
