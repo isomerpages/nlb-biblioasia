@@ -17,4 +17,4 @@ description: ""
 </span>
 
 <img style="width: 350px; height: 450px;" src="/images/vol-11-issue-4/a-christian-sermon-in-malay/M1.JPG">
-<div style="background-color: white;"></i></div>
+<div style="background-color: white;">The <i>Sermon on the Mount</i> is the longest and one of the most often quoted teachings of Jesus from the Gospel of Matthew in the Bible. The translation by Claudius Henry Thomsen is one of the earliest extant Malay publications printed in Singapore. <i>Image source: National Library Board, Singapore.</i></div>
