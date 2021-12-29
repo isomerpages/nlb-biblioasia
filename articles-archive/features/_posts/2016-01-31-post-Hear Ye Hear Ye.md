@@ -48,7 +48,7 @@ This government gazette was published until July 1830, when the status of the St
 “We beg to announce to Subscribers the termination of this Journal. Accident rather than choice led us to assume a character 
 which previous experience had little qualified us to discharge with ability.”[^9] No further attempts to establish another government publication were pursued until 1858, when the government started the *Straits Government Gazette*.[^10]
 
-The Straits Government Gazette was issued from 1858 until 1867,[^11] when the Straits Settlements officially achieved Crown 
+The *Straits Government Gazette* was issued from 1858 until 1867,[^11] when the Straits Settlements officially achieved Crown 
 Colony status and was governed directly by the Colonial Office in London instead of the Indian government in Calcutta. Thereafter, 
 the gazette underwent several title changes that were indicative of Singapore’s fluctuating political circumstances.[^12]
 
