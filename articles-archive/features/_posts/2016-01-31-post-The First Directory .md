@@ -21,13 +21,7 @@ who lived there during this period and their livelihoods. Apart from the newspap
 and Directory* was one of the most useful sources of information about people at the time as it contained the names of the 
 principal residents in Singapore and their professions.
 
-Published annually from 1846, the almanack is also a record of the development of trade and commerce in Singapore. Included in the almanack are the full names, official titles and designations of people working in the government departments, various professions as well as in companies 
-and organisations that had made significant 
-contributions to Singapore. These include 
-the Peninsular & Oriental Steam Navigation Company for shipping and Singapore 
-Institution (now Raffles Institution) (see 
-page 42) for education.
-The almanack begins with a calendar 
-of daily events and the lunar calendar for 
-different ethnic groups – Jews, Muslims, 
-Turks and Chinese – and their major holidays. It also contains information on the 
+Published annually from 1846, the almanack is also a record of the development of trade and commerce in Singapore. Included in the almanack are the full names, official titles and designations of people working in the government departments, various professions as well as in companies and organisations that had made significant contributions to Singapore. These include 
+the Peninsular & Oriental Steam Navigation Company for shipping and Singapore Institution (now Raffles Institution) (see page 42) for education.
+
+The almanack begins with a calendar of daily events and the lunar calendar for different ethnic groups – Jews, Muslims, Turks and Chinese – and their major holidays. It also contains information on the
