@@ -6,8 +6,7 @@ image: /images/vol-11-issue-4/notes-on-little-island/01_littleisland.jpg
 layout: post
 description: ""
 ---
-<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>ABOUT THE BOOK</b>
-<br><br>
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;">
 <b>Title:</b> <i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=14368093">Journal of an Embassy from the Governor-General of India to the Courts of Siam and Cochin China: Exhibiting a View of the Actual State of those Kingdoms</a></i>
 <br>
 <b>Author:</b> John Crawfurd (1783–1868)
