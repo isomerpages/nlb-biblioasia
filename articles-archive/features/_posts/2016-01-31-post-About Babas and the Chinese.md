@@ -51,3 +51,13 @@ a midshipman and stopped over in Singapore in 1842 while en route to China to fi
 – Written by Lee Meiyu
 
 #### **NOTES**
+[^1]:Fortier, D. H. (1974, September). Review. American Anthropologist, 76(3), 611. Retrieved from JSTOR via NLB’s eResources website.
+[^2]:Fortier, Sep 1974, p. 611; Blythe, W. (1971). Introduction. In J. D. Vaughan. (1971), The manners and customs of the Chinese of the Straits Settlements. Singapore: Oxford University Press. Call no.: RSING 390.0951 VAU-[CUS]  
+[^3]:Vaughan, J. D. (1879). The manners and customs of the Chinese of the Straits Settlements (p. 4). Singapore: Printed at the Mission Press. Retrieved from BookSG; Blythe, 1971, Introduction.
+[^4]:Vaughan, 1879, pp. 63–81, 92–94, 110–119.
+[^5]:Kaufman, H. K. (1972, November). Review. The Journal of Asian Studies, 32(1), 215–216. Retrieved from JSTOR via NLB’s eResources website.
+[^6]:One Hundred Years of Singapore gives the date as 1842. See Makepeace, W., Brooke, G. E., & Braddell, R. St. J. (1991). One hundred years of Singapore (Vol. 1, p. 223). Singapore: Oxford University Press. Call no.: RSING 959.57ONE-[HIS]        
+[^7]:Gibson-Hill, C. A. (1960, May). The Master Attendants at Singapore, 1819–67. Journal of the Malaysian Branch of the Royal Asiatic Society, Vol. 33, No. 1 (189), 57. Retrieved from JSTOR via NLB’s eResources website. 
+[^8]:Makepeace, Brooke & Braddell, 1991, p. 223.        
+[^9]:Gibson-Hill, May 1960, pp. 58–62. 
+[^10]:Makepeace, Brooke & Braddell, 1991, p. 224.
