@@ -23,21 +23,21 @@ description: ""
 <b>Accession nos.:</b> B02936005C (v.1); B02936006D (v.2); B02936007E (v.3); B02935992 (v.4); B03000462D (v.5)</span>
 
 
-<div style="background-color: white;"><br><img style="width:400px" src="/images/vol-11-issue-4/birds-of-the-malay-peninsula/01_birds.jpg">From top: A mature Malay Glossy Starling, an immature Malay Glossy Starling and the Buffalo Mynah. <i>All rights reserved, Robinson, H. C. (1927). The Birds of the Malay Peninsula (Vol. I). London: H. F. & G. Witherby.</i></div>
+<div style="background-color: white;"><img style="width:400px" src="/images/vol-11-issue-4/birds-of-the-malay-peninsula/01_birds.jpg">From top: A mature Malay Glossy Starling, an immature Malay Glossy Starling and the Buffalo Mynah. <i>All rights reserved, Robinson, H. C. (1927). The Birds of the Malay Peninsula (Vol. I). London: H. F. & G. Witherby.</i></div>
 
 Much has been written about the history of the Malay Peninsula and its people. Far less would have been known about the region’s birds, however, if not for an extensive five-volume series painstakingly compiled by four ornithologists between 1927 and 1976.
 
 Titled *The Birds of the Malay Peninsula: A General Account of the Birds Inhabiting the Region from the Isthmus of Kra to Singapore with the Adjacent Islands* and accompanied by detailed maps and illustrated plates, the first volume of the series is titled “The Commoner Birds” (1927). The subsequent four volumes are: “The Birds of the Hill Stations” (1928); “Sporting Birds: Birds of the Shore and Estuaries” (1936); “The Birds of the Low-Country Jungle and Scrub” (1939); and “Conclusion, and Survey of Every Species” (1976).
 
-<img style="width:400px" src="/images/vol-11-issue-4/birds-of-the-malay-peninsula/04a_birds.jpg">Volume V of <i>The Birds of the Malay Peninsula</i>. This book in the series is titled “Conclusion, and Survey of Every Species” (1976) and was written by Lord Medway and David R. Wells. <i>All rights reserved, National Library Board, Singapore.</i>
+<div style="background-color: white;"><img style="width:400px" src="/images/vol-11-issue-4/birds-of-the-malay-peninsula/04a_birds.jpg">Volume V of <i>The Birds of the Malay Peninsula</i>. This book in the series is titled “Conclusion, and Survey of Every Species” (1976) and was written by Lord Medway and David R. Wells. <i>All rights reserved, National Library Board, Singapore.</i></div>
 
 The series of books, which has been endorsed by the global ornithology community, is an ambitious body of work that contains comprehensive scientific descriptions of the birds of the Malay Peninsula. Accompanied by rich and vibrant illustrations of the region’s birdlife, the series was authored by four British naturalists – Herbert C. Robinson (1874–1929), Frederick N. Chasen (1896–1942), Lord Medway and David R. Wells.
 
 Until these volumes were published, research works on the region’s birdlife were considered unsatisfactory.[^1] The series is even more remarkable when one considers the fact that its authors researched and compiled its contents over the span of almost 50 years, all this while combing the thick, impenetrable Malayan jungles to document the 700 bird species that inhabit the region.[^2]
 
-<img style="width:400px" src="/images/vol-11-issue-4/birds-of-the-malay-peninsula/02a_birds.jpg">From top: Tail feathers of the Common or Fantail Snipe, Chinese or Swinhoe’s Snipe and the Pintail Snipe. <i>All rights reserved, Robinson, R. C., & Chasen, F. N. (1936). The Birds of the Malay Peninsula (Vol. III). London: H. F. & G. Witherby.</i>
+<div style="background-color: white;"><img style="width:400px" src="/images/vol-11-issue-4/birds-of-the-malay-peninsula/02a_birds.jpg">From top: Tail feathers of the Common or Fantail Snipe, Chinese or Swinhoe’s Snipe and the Pintail Snipe. <i>All rights reserved, Robinson, R. C., & Chasen, F. N. (1936). The Birds of the Malay Peninsula (Vol. III). London: H. F. & G. Witherby.</i></div>
 
-<img style="width:400px" src="/images/vol-11-issue-4/birds-of-the-malay-peninsula/03a_birds.jpg">From top: Heads of the Bushy-Crested Hornbill, Malaysian Wreathed Hornbill, Wrinkled Hornbill, Long-crested Hornbill and Helmeted Hornbill. <i>All rights reserved, Robinson, H. C. (1928). The Birds of the Malay Peninsula (Vol. II). London: H. F. & G. Witherby.</i>
+<div style="background-color: white;"><br><img style="width:400px" src="/images/vol-11-issue-4/birds-of-the-malay-peninsula/03a_birds.jpg">From top: Heads of the Bushy-Crested Hornbill, Malaysian Wreathed Hornbill, Wrinkled Hornbill, Long-crested Hornbill and Helmeted Hornbill. <i>All rights reserved, Robinson, H. C. (1928). The Birds of the Malay Peninsula (Vol. II). London: H. F. & G. Witherby.</i></div>
 
 The accounts contain the birds’ Latin, English and Malay names, as well as detailed descriptions of their soft parts, dimensions, the areas they inhabit in the Malay Peninsula and their habits. In 1928, the American ornithology community praised the publication’s “scope and method of treatment [as] admirable and the finely printed plates most satisfactory”.[^3]
 
