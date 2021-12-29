@@ -5,8 +5,7 @@ date: 2016-01-21
 layout: post
 description: ""
 ---
-<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>ABOUT THE PROGRAMME BOOKLET</b>
-<br><br>
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;">
 <b>Title:</b>  <i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=84506050">Singapore Tong Seok Dramatic Association Charity Performance for the Shantung Relief Fund</a></i> <br>(星洲通俗白话剧团演 剧筹赈山东惨灾会特刊)
 <br>
 <b>Creator:</b> Tong Seok Dramatic Association (通俗白话剧团)
