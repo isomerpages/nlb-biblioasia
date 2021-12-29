@@ -36,6 +36,12 @@ About a quarter of the book is devoted to descriptions of Peranakan ritual behav
 
 The concluding chapter on secret societies is by far the book’s most substantial contribution to our understanding of the Chinese community in general. Its value, in part, lies in the special position of the author, who as a police magistrate maintained a close relationship with the many factions of the Triad Society (Thian Ti Hui) and had insider knowledge of their activities. The chapter contains a comprehensive description of the society’s initiation rites and a list of rules that make up the charter of another formidable Chinese triad – the Ghee Hok Society.4
 
-Overall, despite Vaughan’s ethnocentric approach and his tendency to 
-overgeneralise and regard all Chinese 
-as a homogeneous ethnic group, the book
+Overall, despite Vaughan’s ethnocentric approach and his tendency to overgeneralise and regard all Chinese 
+as a homogeneous ethnic group, the book is significant for providing a baseline from which researchers can compare festivals, domestic habits and rites of passage with those practised by the Chinese in Malaya as well as other areas of Southeast Asia at the time.5 These keen observations have made the book a valuable resource and it was reprinted twice over a century later by Oxford University Press, in 1971 and 1974.
+
+Born in 1825, Vaughan was a sailor who became a public official and later, a prominent lawyer in colonial Singapore. He joined the Bengal Marine in 18416 as 
+a midshipman and stopped over in Singapore in 1842 while en route to China to fight the First Opium War (1839–42).7After the war, he was posted to the Straits region and participated in the capture of Brunei and the destruction of pirate strongholds in Northwest Borneo.8 He was later appointed superintendent for Penang, Master Attendant of Singapore, a police magistrate, and finally, Assistant Resident Councillor before entering private service.9 In October 1891, Vaughan disappeared at sea while returning to Singapore from Perak and was presumed to have fallen overboard. Vaughan Road was named after him in 1934.10
+
+– Written by Lee Meiyu
+
+#### **NOTES**
