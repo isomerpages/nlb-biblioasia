@@ -39,7 +39,7 @@ About a quarter of the book is devoted to descriptions of Peranakan ritual behav
 
 The concluding chapter on secret societies is by far the book’s most substantial contribution to our understanding of the Chinese community in general. Its value, in part, lies in the special position of the author, who as a police magistrate maintained a close relationship with the many factions of the Triad Society (Thian Ti Hui) and had insider knowledge of their activities. The chapter contains a comprehensive description of the society’s initiation rites and a list of rules that make up the charter of another formidable Chinese triad – the Ghee Hok Society.[^4]
 
-<img src="/images/vol-11-issue-4/about-babas-and-the-chinese/B3.JPG">
+<img style="width: 300px; height: 300px;" src="/images/vol-11-issue-4/about-babas-and-the-chinese/B3.JPG">
 <div style="background-color: white;">The chop or seal of the Ghi Hin (or Ghee Hin) secret society, which operated in the Chinatown area. <i>All rights reserved, Vaughan, J. D. (1879). The Manners and Customs of the Chinese of the Straits Settlements. Singapore: Mission Press.</i></div>
 
 Overall, despite Vaughan’s ethnocentric approach and his tendency to overgeneralise and regard all Chinese 
