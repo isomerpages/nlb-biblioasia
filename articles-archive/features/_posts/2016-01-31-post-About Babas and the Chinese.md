@@ -17,3 +17,6 @@ Chinese of the Straits Settlements<br>
 <b>Accession no.:</b> B03061460I<br>
 <b>Donated by:</b> Tan Yeok Seong
 </span>
+
+<img src="/images/vol-11-issue-4/about-babas-and-the-chinese/B1.JPG">
+<div style="background-color: white;"></i></div>
