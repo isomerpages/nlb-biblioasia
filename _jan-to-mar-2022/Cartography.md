@@ -160,39 +160,39 @@ As an accompaniment to the exhibition, a book with the same title has been publi
 
 #### **NOTES**
 
-[^1]: For more on the discussion of Qing China as a colonial empire, see Peter C. Perdue, “China and Other Colonial Empires,” The Journal of American-East Asian Relations 16, no. 1/2 (2009): 85–103. See also Julia C. Schneider, “A Non-Western Colonial Power? The Qing Empire in Postcolonial Discourse,” Journal of Asian History 54, no. 2 (2020): 311–42. (From JSTOR via NLB’s eResources website)
-[^2]: John Rennie Short, “Introduction: The Globalisation of Space” in Korea: A Cartographic History (University of Chicago Press, 2012), x. (From National Library, Singapore, Call no. R 912.519 SHO)
-[^3]: I follow Sanjay Subrahmanyam’s description of the early modern period as being from the 15th to the middle of the 18th centuries. Sanjay Subrahmanyam, “Hearing Voices: Vignettes of Early Modernity in South Asia, 1400–1750.” Daedalus 127, no. 3 (1998): 75–104. (From JSTOR via NLB’s eResources website)
-[^4]: Laura Hostetler, “Qing Connections to the Early Modern World: Ethnography and Cartography in Eighteenth-century China,” Modern Asian Studies 34, no. 3 (2000): 630. (From JSTOR via NLB’s eResources website)
-[^5]: Laura Hostetler, “Contending Cartographic Claims? The Qing Empire in Manchu, Chinese and European Maps” in The Imperial Map: Cartography and the Mastery of Empire, vol. 15, ed. James R. Akerman (University of Chicago Press, 2009), 93–132. (Not available in NLB holdings)
-[^6]: Stephen H. Whiteman, Where Dragon Veins Meet: The Kangxi Emperor and His Estate at Rehe (University of Washington Press, 2019), 65. (Not available in NLB holdings)
-[^7]: Arthur Hummel, “Atlases of Kwangtung Province,” in Annual Report of the Librarian of Congress for the Fiscal Year Ended June 30, 1938 (Washington: United States Government Printing Office, 1939), 229–30, HathiTrust, https://babel.hathitrust.org/cgi/pt?id=mdp.39015019350415&view=1up&seq=9&skin=2021. 
-[^8]: Laura Hostetler, Qing Colonial Enterprise: Ethnography and Cartography in Early Modern China (University of Chicago Press, 2001), 70–71. (From National Library, Singapore, Call no. R 951.03 HOS)
-[^9]: Mario Cams, “The China Maps of Jean-Baptiste Bourguignon d’Anville: Origins and Supporting Networks,” Imago Mundi 66, no. 1 (2014): 51–69, Taylor & Francis Online, https://www.tandfonline.com/doi/abs/10.1080/03085694.2014.845949.
-[^10]: Hostetler, Qing Colonial Enterprise, 4, 72.
-[^11]: Richard A. Pegg, Cartographic Traditions in East Asian Maps (Honolulu: The MacLean Collection and University of Hawai’i Press, 2014), 24–25. (Not available in NLB holdings)
-[^12]: Pegg, Cartographic Traditions in East Asian Maps, 18–25.
+[^1]: For more on the discussion of Qing China as a colonial empire, see Peter C. Perdue, “China and Other Colonial Empires,” <i>The Journal of American-East Asian Relations</i> 16, no. 1/2 (2009): 85–103. See also Julia C. Schneider, “A Non-Western Colonial Power? The Qing Empire in Postcolonial Discourse,” <i>Journal of Asian History</i> 54, no. 2 (2020): 311–42. (From JSTOR via NLB’s eResources website)
+[^2]: John Rennie Short, “Introduction: The Globalisation of Space” in <i>Korea: A Cartographic History</i> (University of Chicago Press, 2012), x. (From National Library, Singapore, Call no. R 912.519 SHO)
+[^3]: I follow Sanjay Subrahmanyam’s description of the early modern period as being from the 15th to the middle of the 18th centuries. Sanjay Subrahmanyam, “Hearing Voices: Vignettes of Early Modernity in South Asia, 1400–1750.” <i>Daedalus</i> 127, no. 3 (1998): 75–104. (From JSTOR via NLB’s eResources website)
+[^4]: Laura Hostetler, “Qing Connections to the Early Modern World: Ethnography and Cartography in Eighteenth-century China,” <i>Modern Asian Studies</i> 34, no. 3 (2000): 630. (From JSTOR via NLB’s eResources website)
+[^5]: Laura Hostetler, “Contending Cartographic Claims? The Qing Empire in Manchu, Chinese and European Maps” in <i>The Imperial Map: Cartography and the Mastery of Empire</i>, vol. 15, ed. James R. Akerman (University of Chicago Press, 2009), 93–132. (Not available in NLB holdings)
+[^6]: Stephen H. Whiteman, <i>Where Dragon Veins Meet: The Kangxi Emperor and His Estate at Rehe</i> (University of Washington Press, 2019), 65. (Not available in NLB holdings)
+[^7]: Arthur Hummel, “Atlases of Kwangtung Province,” in <i>Annual Report of the Librarian of Congress for the Fiscal Year Ended June 30, 1938</i> (Washington: United States Government Printing Office, 1939), 229–30, HathiTrust, https://babel.hathitrust.org/cgi/pt?id=mdp.39015019350415&view=1up&seq=9&skin=2021. 
+[^8]: Laura Hostetler, <i>Qing Colonial Enterprise: Ethnography and Cartography in Early Modern China</i> (University of Chicago Press, 2001), 70–71. (From National Library, Singapore, Call no. R 951.03 HOS)
+[^9]: Mario Cams, “The China Maps of Jean-Baptiste Bourguignon d’Anville: Origins and Supporting Networks,” <i>Imago Mundi</i> 66, no. 1 (2014): 51–69, Taylor & Francis Online, https://www.tandfonline.com/doi/abs/10.1080/03085694.2014.845949.
+[^10]: Hostetler, <i>Qing Colonial Enterprise<i>, 4, 72.
+[^11]: Richard A. Pegg, <i>Cartographic Traditions in East Asian Maps<i> (Honolulu: The MacLean Collection and University of Hawai’i Press, 2014), 24–25. (Not available in NLB holdings)
+[^12]: Pegg, <i>Cartographic Traditions in East Asian Maps</i>, 18–25.
 [^13]: Hostetler, “Contending Cartographic Claims?,” 123.
-[^14]: Short, Korea: A Cartographic History, 18.
-[^15]: Short, Korea: A Cartographic History, 18.
-[^16]: The Gangnido world map is the oldest extant national map of Korea and one of the oldest world maps from East Asia.
-[^17]: Short, Korea: A Cartographic History, 4.
+[^14]: Short, <i>Korea: A Cartographic History</i>, 18.
+[^15]: Short, <i>Korea: A Cartographic History</i>, 18.
+[^16]: The <i>Gangnido</i> world map is the oldest extant national map of Korea and one of the oldest world maps from East Asia.
+[^17]: Short, <i>Korea: A Cartographic History</i>, 4.
 [^18]: Universitat Autònoma de Barcelona, “About,” Aftermath of the East Asian War of 1592–1598, accessed 1 November 2021, https://aftermath.uab.cat/about/. 
-[^19]: Marc Jason Gilbert, “Admiral Yi Sun-Shin, the Turtle Ships, and Modern Asian History,” Asia in World History: 1450–1770 12, no. 1 (Spring 2007): 29–35, Association for Asian Studies, https://www.asianstudies.org/publications/eaa/archives/admiral-yi-sun-shin-the-turtle-ships-and-modern-asian-history/.
+[^19]: Marc Jason Gilbert, “Admiral Yi Sun-Shin, the Turtle Ships, and Modern Asian History,” <i>Asia in World History: 1450–1770</i> 12, no. 1 (Spring 2007): 29–35, Association for Asian Studies, https://www.asianstudies.org/publications/eaa/archives/admiral-yi-sun-shin-the-turtle-ships-and-modern-asian-history/.
 [^20]: John Woodford, “Imjin War Diaries are Memorial of Invasions for Koreans,” The University Record, 22 February 1999, University of Michigan, https://www.ur.umich.edu/9899/Feb22_99/imjin.htm. 
-[^21]: Editors of Encyclopedia Britannica, “Yi Sun-shin,” Encyclopedia Britannica, 24 April 2021, https://www.britannica.com/biography/Yi-Sun-shin. 
-[^22]: John Kallander, “Introduction” in The Diary of 1636: The Second Manchu Invasion of Korea (University of Chicago Press, 2020), xii. (Not available in NLB holdings)
-[^23]: Baik Seungmi, “500 Years of the Joseon Dynasty Maps,” National Museum of Korea: Quarterly Magazine 44 (Summer 2018), issuu, accessed 1 November 2021, https://issuu.com/museumofkorea/docs/nmk_v44/s/12345626. 
+[^21]: Editors of Encyclopedia Britannica, “Yi Sun-shin,” <i>Encyclopedia Britannica</i>, 24 April 2021, https://www.britannica.com/biography/Yi-Sun-shin. 
+[^22]: John Kallander, “Introduction” in <i>The Diary of 1636: The Second Manchu Invasion of Korea</i> (University of Chicago Press, 2020), xii. (Not available in NLB holdings)
+[^23]: Baik Seungmi, “500 Years of the Joseon Dynasty Maps,” <i>National Museum of Korea: Quarterly Magazine</i> 44 (Summer 2018), issuu, accessed 1 November 2021, https://issuu.com/museumofkorea/docs/nmk_v44/s/12345626. 
 [^24]: “Territory and Ancient Maps,” National Atlas of Korea, accessed 1 November 2021, http://nationalatlas.ngii.go.kr/pages/page_554.php. 
 [^25]: “Territory and Ancient Maps.” 
-[^26]: Pierre Brocheux and Daniel Hémery, “Introduction” in Indochina: An Ambiguous Colonization, 1858–1954 (University of California Press, 2009), 14. (From National Library, Singapore, Call no. RSEA 959.703 BRO)
+[^26]: Pierre Brocheux and Daniel Hémery, “Introduction” in <i>Indochina: An Ambiguous Colonization, 1858–1954</i> (University of California Press, 2009), 14. (From National Library, Singapore, Call no. RSEA 959.703 BRO)
 [^27]: Xavier Lacroix, “Unequal Treaties with China”, Encyclopédie d’histoire numérique de l’Europe , 22 June 2020, https://ehne.fr/en/node/12502. 
-[^28]: Brocheux and Hémery, Indochina: An Ambiguous Colonization, 1858–1954, 9.
-[^29]: Quoted by Georges Taboulet, La Geste Francaise en Indochine, vol. 1 (Paris: Adrien-Maisonneuve, 1955–56), 242. (Not available in NLB holdings)
-[^30]: Brocheux and Hemery, Indochina: An Ambiguous Colonization, 1858–1954, 9.
+[^28]: Brocheux and Hémery, <i>Indochina: An Ambiguous Colonization, 1858–1954</i>, 9.
+[^29]: Quoted by Georges Taboulet, <i>La Geste Francaise en Indochine</i>, vol. 1 (Paris: Adrien-Maisonneuve, 1955–56), 242. (Not available in NLB holdings)
+[^30]: Brocheux and Hemery, <i>Indochina: An Ambiguous Colonization, 1858–1954</i>, 9.
 [^31]: Marseille Chamber of Commerce, letter to the ministre de la marine et des colonies, May 9, 1865, Centre des archives d’outre-mer, Aix-en-Provence [CAOM], AFJ, d. 11. 
-[^32]: Editors of Encyclopedia Britannica, “Indochina,” Encyclopedia Britannica, 28 January 2020, https://www.britannica.com/place/Indochina.
-[^33]: J.B. Harley, “Maps, Knowledge, and Power,” in The New Nature of Maps: Essays in the History of Cartography, ed. Paul Laxton (Baltimore and London: Johns Hopkins University Press, 2001), 57. (Not available in NLB holdings); Olivier Schouteden, “Impossible Indochina: Obstacles, Problems and Failures of French Exploration in Southeast Asia, 1862–1914” (PhD diss., Northeastern University, 2018), 167, accessed 29 November 2021, https://repository.library.northeastern.edu/files/neu:m044c558x. 
+[^32]: Editors of <i>Encyclopedia Britannica</i>, “Indochina,” Encyclopedia Britannica, 28 January 2020, https://www.britannica.com/place/Indochina.
+[^33]: J.B. Harley, “Maps, Knowledge, and Power,” in <i>The New Nature of Maps: Essays in the History of Cartography</i>, ed. Paul Laxton (Baltimore and London: Johns Hopkins University Press, 2001), 57. (Not available in NLB holdings); Olivier Schouteden, “Impossible Indochina: Obstacles, Problems and Failures of French Exploration in Southeast Asia, 1862–1914” (PhD diss., Northeastern University, 2018), 167, accessed 29 November 2021, https://repository.library.northeastern.edu/files/neu:m044c558x. 
 [^34]: L.F. Braun, “Colonial and Imperial Cartography,” in The History of Cartography, Volume 6: Cartography in the Twentieth Century, Part 1, ed. Mark Monmonier (Chicago: University of Chicago Press, 2015), 251–52; accessed 29 November 2021, https://press.uchicago.edu/books/HOC/HOC_V6/Volume6.html.
 [^35]: These included “the classification of species, the delimitation of forest reserves, and the creation of forest institutions such as botanical gardens and forest agencies.” Pamela McElwee and Mark Cleary, cited in Thuy Linh Nguyen, “Coal Mining, Forest Management, and Deforestation in French Colonial Vietnam,” Environmental History 26, no. 2 (April 2021): 256, Oxford Academic, https://academic.oup.com/envhis/article-abstract/26/2/255/6207546.
 [^36]: Milton E. Osborne, The Mekong: Turbulent Past, Uncertain Future (New York: Grove Press, 2000), 118–21. (From National Library, Singapore, Call no. RSEA 959.7 OSB)
