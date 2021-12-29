@@ -138,7 +138,7 @@ Such histories and discourses remain relevant to Singapore – our intellectual 
 _The author thanks history student Jacqueline Yu for her research assistance._
 
 
-<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"><b>Mapping the World: Perspectives from Asian Cartography</b><br><br>
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"><b>MAPPING THE WORLD: PERSPECTIVES FROM ASIAN CARTOGRAPHY</b><br><br>
 Level 10 Gallery, National Library Building<br><br>
 11 December 2021 – 8 May 2022 
 <br><br>
