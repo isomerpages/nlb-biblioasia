@@ -21,3 +21,7 @@ B02756777H (Chinese)
 
 <img src="/images/vol-11-issue-4/cartoons-of-terror/T1.JPG">
 <div style="background-color: white;"></i></div>
+
+The horrors of the Japanese Occupation (1942–45) in Singapore can be read in any number of history books. But few are likely to be as visceral as a series of cartoon books published after World War II in 1946. Titled *Chop Suey*, the four volumes of illustrations by the artist Liu Kang offer a rare insight into how people in Singapore were persecuted and tortured by the Japanese during the Occupation years.
+
+When Singapore fell to Japan on 15 February 1942, the Chinese community suffered the greatest backlash when Chinese males aged between 18 and 59 were singled out for mass executions by the Japanese military. Operation Sook Ching (the Chinese term means “purge through cleansing”) was an opportunity for the Japanese to rid Singapore of its anti-Japanese elements and 
