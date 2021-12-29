@@ -6,7 +6,6 @@ image: /images/vol-11-issue-4/singapore-first-school/01_firstschool.jpg
 layout: post
 description: ""
 ---
-
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;">
 <b>Title:</b> <i><a href="https://eresources.nlb.gov.sg/printheritage/detail/c862d6a7-03d3-4333-9191-36bb78288b2f.aspx">Formation of the Singapore Institution, A.D. 1823</a></i>
 <br>
@@ -36,11 +35,11 @@ The proposal pertaining to its founding can be read from pages 34 to 42, which d
 
 The rest of the document concerns details on how the proposed institution would function, including regulations governing student admissions; the administration of the library, museum and printing press; as well as staffing and appointment of patrons and trustees. The last three pages (108–110) list the names of subscribers and donors, and the amounts pledged to start the school. The total sum donated amounted to 17,495 Spanish dollars, including pledges of 1,000 Spanish dollars each by Sultan Hussein Shah and Temenggong Abdul Rahman, members of the Johor empire that ruled Singapore.
 
-<div style="background-color: white;"><img src="/images/vol-11-issue-4/singapore-first-school/02a_firstschool.jpg">An 1841 watercolour painting of the since demolished Singapore Institution along the seafront at Bras Basah Road by J. A. Marsh. <i>© The British Library Board, WD 2969.</i></div>
-
 William Farquhar, the first British Resident of Singapore, supported Raffles’ plan. He donated 1,000 Spanish dollars towards the project,[^8] and was originally slated to run the school. Ironically, Raffles replaced Farquhar with John Crawfurd as the second Resident on 9 June 1823, who opposed using East India Company funds for the school and withheld the 4,000 Spanish dollars that Raffles had committed.[^9] Instead, Crawfurd proposed setting up elementary schools.[^10] The death of Raffles three years later in 1826 ended the proposed partnership with the Anglo-Chinese College.[^11]
 
 Fortunately, a memorial fund came to the rescue in 1832, providing funds to start the Singapore Free School in 1833 with John Henry Moor as headmaster. In 1837, the school moved into its new premises along the seafront Bras Basah Road (where Raffles City today stands) and became known as the Singapore Institution Free School.[^12]
+
+<div style="background-color: white;"><img src="/images/vol-11-issue-4/singapore-first-school/02a_firstschool.jpg">An 1841 watercolour painting of the since demolished Singapore Institution along the seafront at Bras Basah Road by J. A. Marsh. <i>© The British Library Board, WD 2969.</i></div>
 
 Thus was Singapore’s first school founded, not as a higher education institution as Raffles and Morrison had envisioned, but to provide more foundational basic education.[^13] In 1856, it was renamed Singapore Institution, and remained so for at least a decade until the school’s annual report for 1868 referred to it as the Raffles Institution.[^14]
 
@@ -80,6 +79,5 @@ Today, the school that has been renamed Raffles Institution has churned out some
 
 [^13]:[Wijeysingha](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5662156), 1989, pp. 57–64.
 
-[^14]:Buckley, C. B. (1984). *An anecdotal history of old times
-in Singapore 1819–1867* (p. 139). Singapore: Oxford
+[^14]:Buckley, C. B. (1984). *An anecdotal history of old times in Singapore 1819–1867* (p. 139). Singapore: Oxford
 University Press. (Call no.: RSING 959.57 BUC-[HIS])
