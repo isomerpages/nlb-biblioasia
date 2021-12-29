@@ -81,7 +81,7 @@ The most expensive category was for shareholders, who paid an entrance fee of 40
 [^7]:[Singapore Library, 1847](https://eresources.nlb.gov.sg/printheritage/detail/3c12fae7-bfb5-4524-ab57-892031e43abc.aspx), p. 6; [Singapore Library, 1845](https://eresources.nlb.gov.sg/printheritage/detail/3c12fae7-bfb5-4524-ab57-892031e43abc.aspx), p. 6; [Singapore Library, 1860](https://eresources.nlb.gov.sg/printheritage/detail/3c12fae7-bfb5-4524-ab57-892031e43abc.aspx), pp. 1–41.
 [^8]:[Singapore Library, 1860](https://eresources.nlb.gov.sg/printheritage/detail/3c12fae7-bfb5-4524-ab57-892031e43abc.aspx), pp. 1–41.
 [^9]:[Singapore Library, 1845](https://eresources.nlb.gov.sg/printheritage/detail/3c12fae7-bfb5-4524-ab57-892031e43abc.aspx), pp. 9–11.  
-[^10]:Chan, F. W., et. al. (2008). Catalogue of rare materials in Lee Kong Chian Reference Library. Singapore: National Library Board. Call no.: RSING 016.95 CAT-[LIB]
-[^11]:Singapore Library. (1850). The fifth report of the Singapore Library 1849 (pp. 10–12, 20–21). Singapore: Singapore Library. Microfilm: NL 5040
-[^12]:Seet, 1983, pp. 19–20.
+[^10]:Chan, F. W., et. al. (2008). [*Catalogue of rare materials in Lee Kong Chian Reference Library*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12995119). Singapore: National Library Board. Call no.: RSING 016.95 CAT-[LIB]
+[^11]:Singapore Library. (1850). [*The fifth report of the Singapore Library 1849*](https://eresources.nlb.gov.sg/printheritage/detail/3c12fae7-bfb5-4524-ab57-892031e43abc.aspx) (pp. 10–12, 20–21). Singapore: Singapore Library. Microfilm: NL 5040
+[^12]:[Seet](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082325), 1983, pp. 19–20.
 [^13]:Ministry of Communications and Information. (2014, November 20). Milestones in libraries. Retrieved from Ministry of Communications and Information website.
