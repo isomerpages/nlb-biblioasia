@@ -6,8 +6,7 @@ image: /images/vol-11-issue-4/war-crimes-trial-snapshot/01_warcrimes.jpg
 layout: post
 description: ""
 ---
-<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>ABOUT THE PHOTOGRAPGH</b>
-<br><br>
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;">
 <b>Item:</b> <i><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201334252">Photographs on the Opening of the War Crimes Trial in Singapore, 21 January 1946</a></i>
 <br>
 <b>Creator:</b> Unnamed British Crown photographer
