@@ -37,33 +37,33 @@ The first ever annual report of the Singapore Library published in 1845 has just
 library was conceived and the first books ever to line its shelves.
 
 The origins of the Singapore Library can be traced to a meeting in 1823 when Stamford Raffles outlined his plans for the establishment of a library within the Singapore Institution, today known as the Raffles Institution. The public could access the library – which opened in 1837 as part of the school – for a small fee, but as its popularity grew, there were calls for the library to open after school hours. Therefore, on 22 January 
-1845, the Singapore Library was established – the island’s first subscription-based public library.1 The 1845 publication is the library’s first annual report.
+1845, the Singapore Library was established – the island’s first subscription-based public library.[^1] The 1845 publication is the library’s first annual report.
 
 <img src="/images/vol-11-issue-4/the-first-public-library/L2.JPG">
 <div style="background-color: white;"> This 1890s photograph by G. R. Lambert & Co. shows a view 
 of the original 1887 front block of the Raffles Library and Museum at Stamford Road. Today, the neo-classical building houses the National Museum of Singapore. <i>Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009.</i></div>
 
-Library patrons today can visit any public library for free, but this was not the case in the early days. The Singapore Library started with three levels of membership. The first was for shareholders, who paid an entrance fee of 40 Spanish dollars and a monthly subscription of two Spanish dollars.2 However, this turned out to be too expensive, so two additional categories of membership were created in 1847 with a monthly fee of 2.50 Spanish dollars3 – one for Singapore residents, and the other for visitors or temporary residents. A fourth category was added in 1848 with a monthly fee of one Spanish dollar.4 Subsequently in 1860, only the first two categories were retained, and 
-the monthly fee for Singapore residents was reduced to one Spanish dollar.5
+Library patrons today can visit any public library for free, but this was not the case in the early days. The Singapore Library started with three levels of membership. The first was for shareholders, who paid an entrance fee of 40 Spanish dollars and a monthly subscription of two Spanish dollars.[^2] However, this turned out to be too expensive, so two additional categories of membership were created in 1847 with a monthly fee of 2.50 Spanish dollars[^3] – one for Singapore residents, and the other for visitors or temporary residents. A fourth category was added in 1848 with a monthly fee of one Spanish dollar.[^4] Subsequently in 1860, only the first two categories were retained, and 
+the monthly fee for Singapore residents was reduced to one Spanish dollar.[^5]
 
 In addition to membership details, the report also contains information on the collections of the library,the by-laws, including its opening hours, and the fines payable for overdue and lost materials. Each member 
-could only borrow one book and one periodical at atime for anywhere between two and 14 days, depending on the type of item and whether it was a new title.6
+could only borrow one book and one periodical at atime for anywhere between two and 14 days, depending on the type of item and whether it was a new title.[^6]
 
 From just 617 volumes in 1846, the library’s collection quickly grew to more than 2,000 volumes by 1860. Its list of books was published in the *Catalogue of Books in 
-the Singapore Library*, and since the Dewey Decimal and Library of Congress classification systems had not yet been developed, the items were arranged by genre and then alphabetically by title.7 The National Library does not have the first copy of *Catalogue of Books of the Singapore Library* but it has the September 1860 and January 1863 issues. The two catalogues reveal that the Singapore Library used six genre classes, namely: Biography; Divinity, Ecclesiastical History, etc; General Literature; History, Voyages and Travels, etc; Novels, Tales, etc; and Poetry and Drama.8
+the Singapore Library*, and since the Dewey Decimal and Library of Congress classification systems had not yet been developed, the items were arranged by genre and then alphabetically by title.[^7] The National Library does not have the first copy of *Catalogue of Books of the Singapore Library* but it has the September 1860 and January 1863 issues. The two catalogues reveal that the Singapore Library used six genre classes, namely: Biography; Divinity, Ecclesiastical History, etc; General Literature; History, Voyages and Travels, etc; Novels, Tales, etc; and Poetry and Drama.[^8]
 
-Many of the library’s earliest books, which were mostly donated, included titles such as *Notices of the Indian Archipelago, and Adjacent Countries* (1837) (see page 36), *Memoir of the Life and Public Services of Sir Thomas Stamford Raffles* (1830) and the entire series of *The Edinburgh Review*.9 These titles are still with the National Library today.10
+Many of the library’s earliest books, which were mostly donated, included titles such as *Notices of the Indian Archipelago, and Adjacent Countries* (1837) (see page 36), *Memoir of the Life and Public Services of Sir Thomas Stamford Raffles* (1830) and the entire series of *The Edinburgh Review*.[^9] These titles are still with the National Library today.[^10]
 
 Over time, the role of the Singapore Library evolved. In 1849, the library assumed the additional role of a museum when Governor William J. Butterworth presented the Singapore Library with two ancient gold coins given by the Temenggong of Johor. To prepare for its new role, a museum committee was formed and 
-the responsibilities of the librarian were expanded to include the role of curator.11 Although this arrangement was considered as one of the causes for the eventual demise of the Singapore Library, it nonetheless laid the foundation for the next phase of development when the library’s functions were expanded to include the administration of a museum before it was reconstituted 
-as the Raffles Library and Museum on 16 July 1874.12
+the responsibilities of the librarian were expanded to include the role of curator.[^11] Although this arrangement was considered as one of the causes for the eventual demise of the Singapore Library, it nonetheless laid the foundation for the next phase of development when the library’s functions were expanded to include the administration of a museum before it was reconstituted 
+as the Raffles Library and Museum on 16 July 1874.[^12]
 
 <img src="/images/vol-11-issue-4/the-first-public-library/L3.JPG">
 <div style="background-color: white;">William J. Butterworth (1801–56), Governor of the Straits 
 Settlements (1843–1855), was the first president of the Singapore Library when it opened in January 1845. <i>Image source: National Library Board, Singapore.</i></div>
 
 About eight decades later, in 1955, the library and the museum split amicably, resulting in the establishment of the Raffles National Library at Stamford Road on 12 November 1960. Barely three weeks later, on 1 December, the Raffles National Library was renamed as the National Library, which would exist until 1 September 1995 when it became a statutory board known as the 
-National Library Board.13
+National Library Board.[^13]
 
 <img src="/images/vol-11-issue-4/the-first-public-library/L4.JPG">
 <div style="background-color: white;">The Singapore Library started with three levels of membership. 
