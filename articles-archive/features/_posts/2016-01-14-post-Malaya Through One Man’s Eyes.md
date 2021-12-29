@@ -6,9 +6,7 @@ image: /images/vol-11-issue-4/malaya-through-one-man-eyes/01_malaya.jpg
 layout: post
 description: ""
 ---
-
-<div style="background-colour:#fdf5e6; padding:20px; margin: 20px; background: #fdf5e6;"><b>ABOUT THE BOOK</b>
-<br><br>
+<div style="background-colour:#fdf5e6; padding:20px; margin: 20px; background: #fdf5e6;">
 <b>Title:</b> <i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4250035">British Malaya: An Account of the Origin and Progress of British Influence in Malaya</a></i>
 <br>
 <b>Author:</b> Frank Athelstane Swettenham (1850–1946)
