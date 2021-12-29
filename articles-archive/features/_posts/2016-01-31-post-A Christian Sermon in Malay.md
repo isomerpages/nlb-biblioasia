@@ -32,22 +32,10 @@ Quite apart from its evangelical work, LMS and its missionaries played a pioneer
 
 In addition to printing religious booklets and tracts, Mission Press also produced publications for the government and the mercantile community. In fact, as early as 1823, Thomsen was engaged by Raffles to print public documents containing the rules and regulations for the settlement.9
 
-The first newspaper in Singapore, the Singapore Chronicle (see page 114), was initially printed by the Mission Press. The first issue was printed on 1 January 1824, and the newspaper continued to be printed by 
+The first newspaper in Singapore, the *Singapore Chronicle* (see page 114), was initially printed by the Mission Press. The first issue was printed on 1 January 1824, and the newspaper continued to be printed by 
 Mission Press until September 1830, when the newspaper set up its own printing press called the Singapore Chronicle Press.10
 
-The presence of the printing press 
-spurred the growth of printing and publishing in Singapore. Besides missionaryrelated materials that were printed in Malay, 
-publications destined for China and other 
-parts of the region were also printed here. In 
-addition, missionaries who ran into trouble 
-for publishing their proselytising tracts in 
-China turned to the Mission Press in Singapore. When the missionaries eventually 
-moved to China, they left behind a fledgling 
-printing industry which later grew with the 
-settlement. More importantly, the missionaries also left behind a literary legacy of 
-Singapore’s earliest printed works.
-Thomsen left Singapore in 1834 under 
-a cloud after selling the Mission Press’ 
-equipment and land to the American Board 
-of Commissioners for Foreign Missions 
-in a dubious deal. The LMS opposed the
+The presence of the printing press spurred the growth of printing and publishing in Singapore. Besides missionary related materials that were printed in Malay, publications destined for China and other parts of the region were also printed here. In addition, missionaries who ran into trouble for publishing their proselytising tracts in China turned to the Mission Press in Singapore. When the missionaries eventually moved to China, they left behind a fledgling printing industry which later grew with the 
+settlement. More importantly, the missionaries also left behind a literary legacy of Singapore’s earliest printed works.
+
+Thomsen left Singapore in 1834 under a cloud after selling the Mission Press’ equipment and land to the American Board of Commissioners for Foreign Missions in a dubious deal. The LMS opposed the
