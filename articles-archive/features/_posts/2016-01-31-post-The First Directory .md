@@ -16,6 +16,11 @@ description: ""
 <b>Accession nos.:</b> B03061508A (1846–52); B03014408I (1853–60); B03057026A (1861–63); B02993230F (1864–66); B02269789J (1867–69)
 </span>
 
+<img src="/images/vol-11-issue-4/the-first-directory/D1.JPG">
+<div style="background-color: white;"><i>The Straits Times Almanack, Calendar and	Directory</i> was first issued in 1846 and is still published today as <i>Buku Merah</i>, or the <i>Times 
+Business Directory of Singapore. Image source: 
+National Library Board, Singapore.</i></div>
+
 A publication dating back to the mid-1800s provides a glimpse into Singapore in the first decades of its founding – the people 
 who lived there during this period and their livelihoods. Apart from the newspapers, *The Straits Times Almanack*, *Calendar 
 and Directory* was one of the most useful sources of information about people at the time as it contained the names of the 
