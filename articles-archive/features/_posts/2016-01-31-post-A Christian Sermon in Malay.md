@@ -53,10 +53,10 @@ Thomsen left Singapore in 1834 under a cloud after selling the Mission Press’ 
 [^2]:Makepeace, W., Brooke G. E., & Braddell, R. St. J. (Eds.). (1991). [*One hundred years of Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6203718) (Vol. 2, p. 236). Singapore: Oxford University Press. Call no.: RSING 959.57 ONE-[HIS].
 [^3]:Byrd, C. K. (1970). [*Early printing in the Straits Settlements, 1806–1858*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081984) (p. 14). Singapore: National Library. Call no.: RSING 686.2095957 BYR
 [^4]:Hunt, R. A. (1989). The history of the translation of the bible into Bahasa Malaysia. [*Journal of the Malaysian Branch of the Royal Asiatic Society*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4126333), Vol. 62, No. 1 (256), 38. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
-[^5]:Lee, G. B. (1989). [Pages from yesteryear: A look at the printed works of Singapore, 1819–1959](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5360274) (p. 4). Singapore: Singapore Heritage Society. Call no.: RSING 070.5095957 PAG
-[^6]:Singapore Christian Union. (1830). The report of the Singapore Christian Union (p. 48). Singapore: The Mission press. Microfilm: NL 30804
-[^7]:Byrd, 1970, p. 15.
-[^8]:Byrd, 1970, p. 14.
+[^5]:Lee, G. B. (1989). [*Pages from yesteryear: A look at the printed works of Singapore, 1819–1959*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5360274) (p. 4). Singapore: Singapore Heritage Society. Call no.: RSING 070.5095957 PAG
+[^6]:Singapore Christian Union. (1830). [*The report of the Singapore Christian Union*](https://eresources.nlb.gov.sg/printheritage/detail/f6c7e4f9-05d1-4281-85c4-ad2bfbbaf28d.aspx) (p. 48). Singapore: The Mission press. Microfilm: NL 30804
+[^7]:[Byrd](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081984), 1970, p. 15.
+[^8]:[Byrd](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081984), 1970, p. 14.
 [^9]:O'Sullivan, 1984, p. 74.
-[^10]:Gibson-Hill, C. A. (1953, July). The Singapore Chronicle, 1824–37. Journal of the Malayan Branch of the Royal Asiatic Society. Vol. 26, No. 1 (161), 192. Retrieved from JSTOR via NLB’s eResources website.
+[^10]:Gibson-Hill, C. A. (1953, July). *The Singapore Chronicle, 1824–37*. *Journal of the Malayan Branch of the Royal Asiatic Society*. Vol. 26, No. 1 (161), 192. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
 [^11]:Lee, 1989, p. 4.
