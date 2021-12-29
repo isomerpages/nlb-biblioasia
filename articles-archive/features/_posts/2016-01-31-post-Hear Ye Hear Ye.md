@@ -5,9 +5,8 @@ date: 2016-01-31
 layout: post
 description: ""
 ---
-
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
-	<b>Title:</b> <i>Straits Government Gazette</i><br>
+	<b>Title:</b> <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5289724"><i>Straits Government Gazette</i></a><br>
 <b>Creator:</b> Straits Government<br>
 <b>Year published:</b> 1858–67<br>
 <b>Publisher:</b> Mission Press (Singapore)<br>
@@ -21,19 +20,19 @@ B02969343C (1867)
 </span>
 
 <img src="/images/vol-11-issue-4/hear-ye-hear-ye/Ye1.JPG">
-<div style="background-color: white;"> The masthead of the Straits Government Gazette with the crest of the Straits Settlements. <i>Image source: National Library Board, Singapore.</i></div>
+<div style="background-color: white;"> The masthead of the <i>Straits Government Gazette</i> with the crest of the Straits Settlements. <i>Image source: National Library Board, Singapore.</i></div>
 
 In Singapore, notifications of all new laws passed by parliament are officially announced in the government gazette, a time-honoured practice that continues to this day.[^1] One of its earliest iterations was the *Straits Government Gazette*, published in 1858 when Singapore was still a part of the Straits Settlements and under the government of the Colonial Office of Calcutta in India. Similar in content to the gazette published today, the gazette at the time contained proclamations by the governors, announcements of new government appointments as well as notices of new ordinances.[^2]
-
-<img src="/images/vol-11-issue-4/hear-ye-hear-ye/Ye2.JPG">
-<div style="background-color: white;">  The front page of the first issue, dated 1 January 1858, carries a note asserting that 
-the gazette “will be the only Official organ for Publications, Notifications and other Public Papers of this Government”. <i>All rights reserved, Straits Government Gazette (1858 –67). Singapore: Mission Press.</i></div>
 
 The front page of the first issue, dated 1 January 1858, consists of the title of the gazette in Gothic script, the crest of the 
 Straits Settlements and a note asserting that the gazette “will be the only Official organ for Publications, Notifications and other Public Papers of this Government”.[^3] The first issue was printed on paper embossed with the watermark of the British East India 
 Company (EIC), while subsequent issues used stocks of noticeably lower quality paper.[^4]
 
-So thorough was the gazette that seemingly unimportant details of the size, length and price of the paper are found on the last page, where it states that the issue contained “6–8 pages of Foolscap size. Per mensem 50 cent. Copy 25.”
+<img src="/images/vol-11-issue-4/hear-ye-hear-ye/Ye2.JPG">
+<div style="background-color: white;">  The front page of the first issue, dated 1 January 1858, carries a note asserting that 
+the gazette “will be the only Official organ for Publications, Notifications and other Public Papers of this Government”. <i>All rights reserved, Straits Government Gazette (1858 –67). Singapore: Mission Press.</i></div>
+
+So thorough was the gazette that seemingly unimportant details of the size, length and price of the paper are found on the last page, where it states that the issue contained “6–8 pages of Foolscap size. Per mensem 50 cent. Copy 25”.
 
 The gazette was divided into sections and comprised notifications, notices and other news. Notifications typically included official announcements of new port rules, information about appointments or leave taken within the civil service, as well as bills and ordinances passed by the Legislative Council in India.
 
@@ -47,7 +46,7 @@ The *Straits Government Gazette* can trace its origins to some 30 years earlier 
 
 This government gazette was published until July 1830, when the status of the Straits Settlements was reduced from a presidency to a residency.[^8] Its last issue ended with a cryptic message in Vol. 3 No.89 on 3 July 1829 in crisp Queen’s English: 
 “We beg to announce to Subscribers the termination of this Journal. Accident rather than choice led us to assume a character 
-which previous experience had little qualified us to discharge with ability”.[^9] No further attempts to establish another government publication were pursued until 1858, when the government started the *Straits Government Gazette*.[^10]
+which previous experience had little qualified us to discharge with ability.”[^9] No further attempts to establish another government publication were pursued until 1858, when the government started the *Straits Government Gazette*.[^10]
 
 The Straits Government Gazette was issued from 1858 until 1867,[^11] when the Straits Settlements officially achieved Crown 
 Colony status and was governed directly by the Colonial Office in London instead of the Indian government in Calcutta. Thereafter, 
