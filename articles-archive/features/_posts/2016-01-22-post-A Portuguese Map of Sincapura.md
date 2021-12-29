@@ -6,8 +6,7 @@ image: /images/vol-11-issue-4/portuguese-map-of-sincapura/01_portugesemap.jpg
 layout: post
 description: ""
 ---
-<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>ABOUT THE BOOK AND MAPS</b>
-<br><br>
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;">
 <b>Title:</b> <i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=12830918">Malaca, l’Inde Méridionale et le Cathay: Manuscrit Original Autographe de Godinho de Erédia, Appartenant a la Bibliothèque Royale de Bruxelles</a></i>
 <br>
 <b>Translated by:</b> Léon Janssen
