@@ -19,4 +19,4 @@ Chinese of the Straits Settlements<br>
 </span>
 
 <img src="/images/vol-11-issue-4/about-babas-and-the-chinese/B1.JPG">
-<div style="background-color: white;"></i></div>
+<div style="background-color: white;">The section on gambling in <i>The Manners and Customs of the Chinese of the Straits Settlements</i> includes illustrations of Chinese playing cards and descriptions of the games. <i>Image source: National Library Board, Singapore.</i></div>
