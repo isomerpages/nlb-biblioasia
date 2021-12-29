@@ -5,10 +5,7 @@ date: 2016-01-26
 layout: post
 description: ""
 ---
-
-
-<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>ABOUT THE SERIAL</b>
-<br><br>
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;">
 <b>Title:</b> <i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=11508249">Singapore Chronicle and Commercial Register</a></i><br>
 <b>Year published:</b> 1833–37<br>
 <b>Publisher:</b> Mission Press and Singapore Chronicle Press (Singapore)<br>
@@ -88,4 +85,3 @@ Unfortunately, the National Library does not have the earlier issues of the Sing
 [^16]:Seow, F. (1998). *[The media enthralled: Singapore revisited](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7860911)* (p. 7). Colorado: Lynne Rienner Publishers. (Call no.: RSING 323.44509595 SEO)
 
 [^17]:*[The Straits Times](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19500105-1.2.95),* 5 Jan 1950, p. 6.
-
