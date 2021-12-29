@@ -15,3 +15,6 @@ description: ""
 <b>Call no.:</b> RRARE 226.9059923 SER<br>
 <b>Accession no.:</b> B00787644C
 </span>
+
+<img style="width: 350px; height: 450px;" src="/images/vol-11-issue-4/a-christian-sermon-in-malay/M1.JPG">
+<div style="background-color: white;"></i></div>
