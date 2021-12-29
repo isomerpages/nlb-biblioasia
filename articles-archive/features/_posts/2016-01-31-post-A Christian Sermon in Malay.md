@@ -16,7 +16,7 @@ description: ""
 <b>Accession no.:</b> B00787644C
 </span>
 
-<img style="width: 350px; height: 450px;" src="/images/vol-11-issue-4/a-christian-sermon-in-malay/M1.JPG">
+<img src="/images/vol-11-issue-4/a-christian-sermon-in-malay/M1.JPG">
 <div style="background-color: white;">The <i>Sermon on the Mount</i> is the longest and one of the most often quoted teachings of Jesus from the Gospel of Matthew in the Bible. The translation by Claudius Henry Thomsen is one of the earliest extant Malay publications printed in Singapore. <i>Image source: National Library Board, Singapore.</i></div>
 
 Shortly after Stamford Raffles established a British trading outpost in Singapore on 6 February 1819, missionaries began arriving here in hopes of spreading Christianity to the people. The first of these missionary 
