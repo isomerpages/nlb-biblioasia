@@ -49,3 +49,14 @@ Thomsen left Singapore in 1834 under a cloud after selling the Mission Press’ 
 – Written by Ong Eng Chuan
 
 #### **NOTES**
+[^1]:O'Sullivan, L. (1984). The London Missionary Society: A written record of missionaries and printing presses in the Straits Settlements, 1815–1847. Journal of the Malaysian Branch of the Royal Asiatic Society, Vol. 57, No. 2 (247), 73. Retrieved from JSTOR via NLB’s eResources website.
+[^2]:Makepeace, W., Brooke G. E., & Braddell, R. St. J. (Eds.). (1991). One hundred years of Singapore (Vol. 2, p. 236). Singapore: Oxford University Press. Call no.: RSING 959.57 ONE-[HIS]
+[^3]:Byrd, C. K. (1970). Early printing in the Straits Settlements, 1806–1858 (p. 14). Singapore: National Library. Call no.: RSING 686.2095957 BYR
+[^4]:Hunt, R. A. (1989). The history of the translation of the bible into Bahasa Malaysia. Journal of the Malaysian Branch of the Royal Asiatic Society, Vol. 62, No. 1 (256), 38. Retrieved from JSTOR via NLB’s eResources website.
+[^5]:Lee, G. B. (1989). Pages from yesteryear: A look at the printed works of Singapore, 1819–1959 (p. 4). Singapore: Singapore Heritage Society. Call no.: RSING 070.5095957 PAG
+[^6]:Singapore Christian Union. (1830). The report of the Singapore Christian Union (p. 48). Singapore: The Mission press. Microfilm: NL 30804
+[^7]:Byrd, 1970, p. 15.
+[^8]:Byrd, 1970, p. 14.
+[^9]:O'Sullivan, 1984, p. 74.
+[^10]:Gibson-Hill, C. A. (1953, July). The Singapore Chronicle, 1824–37. Journal of the Malayan Branch of the Royal Asiatic Society. Vol. 26, No. 1 (161), 192. Retrieved from JSTOR via NLB’s eResources website.
+[^11]:Lee, 1989, p. 4.
