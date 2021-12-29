@@ -5,9 +5,8 @@ permalink: /vol-11/issue-4/jan-mar-2016/birds-malay-peninsula
 layout: post
 description: ""
 ---
-
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;">
-<b>Title:</b> <i>The Birds of the Malay Peninsula: A General Account of the Birds Inhabiting the Region from the Isthmus of Kra to Singapore with the Adjacent Islands</i>
+<b>Title:</b> <i><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5028847">The Birds of the Malay Peninsula: A General Account of the Birds Inhabiting the Region from the Isthmus of Kra to Singapore with the Adjacent Islands</a></i>
 <br>
 <b>Authors:</b> Herbert C. Robinson(Vols. 1–3), Frederick N. Chasen (Vols. 3–4), Lord Medway (Vol. 5), David R. Wells (Vol. 5)
 <br>
