@@ -6,8 +6,7 @@ image: /images/vol-11-issue-4/celebrating-a-centenary/01_celebratingcentenary.jp
 layout: post
 description: ""
 ---
-<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>ABOUT THE BOOK</b>
-<br><br>
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;">
 <b>Title:</b> <i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4183132">One Hundred Years of Singapore: Being Some Account of the Capital of the Straits Settlements from its Foundation by Sir Stamford Raffles on the 6th February 1819 to the 6th February 1919</a></i>
 <br>
 <b>Editors:</b> Walter Makepeace (1859–1941), Gilbert Edward Brooke (1873–1936) and Roland St. John Braddell (1880–1966)
