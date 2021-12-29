@@ -16,8 +16,7 @@ description: ""
 <b>Accession no.:</b> B02822610J<br>
 	</span>
 	
-<img style="width: 650px; height: 500px;" src="/images/vol-11-issue-4/english-nursery-rhymes/M1.JPG">
-<div style="background-color: white;">The Peranakan community is depicted in “I Love Little Pussy [Cat]” (“Sahaya Sayangkan Kuching”), by way of a drawing of a little Peranakan girl stroking a cat perched on a ledge, while the girl’s mother or grandmother looks on, clad in a traditional <i>sarong kebaya</i> and beaded slippers. <i>All rights reserved, Hamilton, A. W. (1939). Haji’s Book of Malayan Nursery Rhymes. Singapore: Printers Ltd.</i></div>
+
 
 Many of us would recognise nursery rhymes such as “Mary Had A Little Lamb” and “Hot Cross Buns”, but reading Malay versions of 
 these typically British children’s poems in a culturally misplaced context takes some getting used to.
@@ -40,9 +39,12 @@ for instance, features an Indian hawker selling bread, while the one for “Mary
  
  <img style="width: 350px; height: 450px;" src="/images/vol-11-issue-4/english-nursery-rhymes/M3.JPG">
 <div style="background-color: white;">The nursery rhyme “There Was A Little Girl” (“Ada Satu Misi”) is accompanied by an 
-illustration of a Chinese amah wearing wooden clogs, with a Caucasian girl holding a ball. <i>All rights reserved, Hamilton, A. W. (1939). Haji’s Book of Malayan Nursery Rhymes. Singapore: Printers Ltd.</i></div>
+	illustration of a Chinese <i>amah</i> wearing wooden clogs, with a Caucasian girl holding a ball. <i>All rights reserved, Hamilton, A. W. (1939). Haji’s Book of Malayan Nursery Rhymes. Singapore: Printers Ltd.</i></div>
 	
 These local twists were well received: a newspaper reviewer at the time commented that “European children in Malaya who grow up to speak Malay and English equally fluently or equally hesitantly, should find delight in Mr A. W. Hamilton’s new book of Malayan nursery rhymes.”[^6]
+
+<img style="width: 650px; height: 500px;" src="/images/vol-11-issue-4/english-nursery-rhymes/M1.JPG">
+<div style="background-color: white;">The Peranakan community is depicted in “I Love Little Pussy [Cat]” (“Sahaya Sayangkan Kuching”), by way of a drawing of a little Peranakan girl stroking a cat perched on a ledge, while the girl’s mother or grandmother looks on, clad in a traditional <i>sarong kebaya</i> and beaded slippers. <i>All rights reserved, Hamilton, A. W. (1939). Haji’s Book of Malayan Nursery Rhymes. Singapore: Printers Ltd.</i></div>
 
 Although a prolific writer, little is known about Hamilton, except that he spent part of his life in Teluk Belanga, Penang, where he learnt Malay and became familiar with the “kampong” way of life.[^7] It was also reported that he used to serve in the Federated Malay States Police as an officer, and was also a linguist, botanist and author of several Malay text books.[^8]
 
