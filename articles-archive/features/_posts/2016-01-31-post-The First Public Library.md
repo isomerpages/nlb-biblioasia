@@ -79,8 +79,8 @@ The most expensive category was for shareholders, who paid an entrance fee of 40
 [^5]:Singapore Library. (1861). [*The fifteenth report of the Singapore Library 1860*](https://eresources.nlb.gov.sg/printheritage/detail/3c12fae7-bfb5-4524-ab57-892031e43abc.aspx) (p. 5). Singapore: Singapore Library. Microfilm: NL 5040
 [^6]:Singapore Library. (1845). [*The first report of the Singapore Library 1844*](https://eresources.nlb.gov.sg/printheritage/detail/3c12fae7-bfb5-4524-ab57-892031e43abc.aspx) (pp. 4–7).  Singapore: Singapore Library. Microfilm: NL 5040; Singapore Library. (1860). [*Catalogue of books in the Singapore Library, with regulations and by-laws, September 1860*](https://eresources.nlb.gov.sg/printheritage/detail/bf634eb4-67cb-4352-8c78-dea52e2372d2.aspx) (p. 6). Singapore: The Mission Press. Microfilm: NL 2805.
 [^7]:[Singapore Library, 1847](https://eresources.nlb.gov.sg/printheritage/detail/3c12fae7-bfb5-4524-ab57-892031e43abc.aspx), p. 6; [Singapore Library, 1845](https://eresources.nlb.gov.sg/printheritage/detail/3c12fae7-bfb5-4524-ab57-892031e43abc.aspx), p. 6; [Singapore Library, 1860](https://eresources.nlb.gov.sg/printheritage/detail/3c12fae7-bfb5-4524-ab57-892031e43abc.aspx), pp. 1–41.
-[^8]:Singapore Library, 1860, pp. 1–41.
-[^9]:Singapore Library, 1845, pp. 9–11.  
+[^8]:[Singapore Library, 1860](https://eresources.nlb.gov.sg/printheritage/detail/3c12fae7-bfb5-4524-ab57-892031e43abc.aspx), pp. 1–41.
+[^9]:[Singapore Library, 1845](https://eresources.nlb.gov.sg/printheritage/detail/3c12fae7-bfb5-4524-ab57-892031e43abc.aspx), pp. 9–11.  
 [^10]:Chan, F. W., et. al. (2008). Catalogue of rare materials in Lee Kong Chian Reference Library. Singapore: National Library Board. Call no.: RSING 016.95 CAT-[LIB]
 [^11]:Singapore Library. (1850). The fifth report of the Singapore Library 1849 (pp. 10–12, 20–21). Singapore: Singapore Library. Microfilm: NL 5040
 [^12]:Seet, 1983, pp. 19–20.
