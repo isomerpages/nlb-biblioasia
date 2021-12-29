@@ -5,8 +5,7 @@ date: 2016-01-22
 layout: post
 description: ""
 ---
-<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>ABOUT THE BOOK</b>
-<br><br>
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;">
 <b>Title:</b> <i><a href="https://eresources.nlb.gov.sg/printheritage/detail/2cf2ccde-1931-4e93-b265-a46254084820.aspx">Handbook to Singapore, with Map and a Plan of the Botanical Gardens</a></i><br>
 <b>Author:</b> George Murray Reith (1863–1948)<br>
 <b>Year published:</b> 1892<br>
