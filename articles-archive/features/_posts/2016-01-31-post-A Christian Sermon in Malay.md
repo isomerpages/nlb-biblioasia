@@ -24,11 +24,17 @@ groups was the London Missionary Society (LMS) – a non-denominational Protesta
 
 Thomsen most likely translated the *Sermon on the Mount* into Malay. The Sermon is the longest and one of the most often quoted teachings of Jesus from the Gospel of Matthew in the Bible. The translation by Thomsen is one of the earliest extant Malay publications printed in Singapore. It is a small booklet printed by S. C. Mission Press in 1829 – “S. C.” refers to the Singapore Christian Union, which was formed by Protestant missionaries in Singapore.2For the first few years, S. C. Mission Press was managed by Milton, but he was later dismissed by the LMS after some dispute arose over the finances for printing equipment that he had purchased. The Mission Press was subsequently put under Thomsen’s charge.3
 
+<img style="width: 300px; height: 400px;" src="/images/vol-11-issue-4/a-christian-sermon-in-malay/M2.JPG">
+<div style="background-color: white;">Claudius Henry Thomsen (1782–unknown) was a pioneer of the printing and publishing industry in Singapore. <i>All rights reserved, Lee, G. B. (1989). Pages from Yesteryear: A Look at the Printed Works of Singapore, 1819–1959. Singapore: Singapore Heritage Society.</i></div>
+
 As student of the learned teacher and interpreter Abdullah bin Abdul Kadir (also known as Munsyi Abdullah),4 Thomsen translated a number of Christian works into Malay under Abdullah’s tutelage. Prior to his arrival in Singapore in 1822, Thomsen spent several years in the Dutch East Indies before joining the LMS’ Melaka station in 1815. Besides managing the Mission Press in Singapore, he also founded a small school for the Malay community.5
 
 Under Thomsen’s supervision, the Mission Press became more active, printing Malay books and tracts on a regular basis. In the 1830 report of the Singapore Christian Union, Thomsen reported that a sum of 18 dollars and 50 cents was disbursed for the printing of 1,000 copies of the *Sermon on the Mount*.6 Other publications printed by the Mission Press in the same year included religious tracts such as *Scripture Tickets*, *Abdullah and Sabat and Good News for the Children of Adam*.7
 
 Quite apart from its evangelical work, LMS and its missionaries played a pioneering role in Singapore’s printing industry. These missionaries were the first to venture into printing and publishing in Singapore, albeit primarily as a means of spreading the Christian faith. Earlier, in January 1823, Milton and Thomsen had sought permission from the government to establish a printing press on the island. Their request was granted the same month and so S. C. Mission Press, the first printing press in Singapore, was born.8
+
+<img src="/images/vol-11-issue-4/a-christian-sermon-in-malay/M3.JPG">
+<div style="background-color: white;">This particular teaching of Jesus from the <i>Sermon on the Mount</i> exhorts his followers to help the less fortunate and be sympathetic towards those with misfortunes. <i>Image source: National Library Board, Singapore.</i></div>
 
 In addition to printing religious booklets and tracts, Mission Press also produced publications for the government and the mercantile community. In fact, as early as 1823, Thomsen was engaged by Raffles to print public documents containing the rules and regulations for the settlement.9
 
