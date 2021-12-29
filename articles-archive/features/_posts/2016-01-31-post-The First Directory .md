@@ -36,5 +36,11 @@ As Singapore grew into an international port city, later editions of the almanac
 
 In the preface of the first edition, the editor and compiler, lawyer Robert Carr Woods, had envisaged that the publication would be a useful and convenient reference tool for the public. Woods (1816–75) came from Bombay to Singapore in 1845. Then 29, he was hired by an Armenian merchant in Singapore, Catchick Moses, as the editor of a new daily, *The Straits Times*. Singapore’s oldest surviving newspaper was published in a small office in Commercial Square (present-day Raffles Place) in the same year.1 The almanack was started a year later and is still published today as *Buku Merah, or the Times Business Directory of Singapore*.2 Moses subsequently handed over the printing business to Woods when he felt that there were no commercial prospects for the enterprise.3
 
-As business continued to decline, 
-Woods became a law agent and enjoyed
+As business continued to decline, Woods became a law agent and enjoyed a successful legal career.4 The various positions he held in Singapore included deputy sheriff, municipal commissioner and attorney-general. Woods, together with William Henry Macleod Read, was instrumental in leading a group of prominent individuals to lobby for the transfer of the administration of the Straits Settlements from the India Office to the Colonial Office in London.5 Read took an avid interest in the social and political affairs of Singapore; he had served as the first treasurer of the Singapore Library, honorary police magistrate 
+and a member of the Legislative Council.6
+
+In 1860, Woods sold off the printing business in order to spend more time on his legal career and public service. The following year, he went into partnership with James Guthrie Davidson, establishing the legal firm Woods & Davidson, the predecessor of Rodyk & Davidson. Woods passed away in March 1875 and his remains were laid to rest at Bukit Timah cemetery.7
+
+From the 1960s, compilation of the almanack was carried out by the Straits Times office and then by Thomas J. Keaughran. It was initially printed by Straits Times Press, followed by Commercial Press from 1865, Mission Press from 1880 and Fraser & Neave from 1922.
+
+Over the years, the directory has been published under various names: The Straits Times Almanack, Calendar and Directory (1846–49); Singapore Almanack and Directory (1850–58), Royal Almanack and Directory (1859-64); Straits Calendar and Directory (1865–77), Singapore Directory
