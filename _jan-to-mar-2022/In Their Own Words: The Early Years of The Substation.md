@@ -118,4 +118,25 @@ Pao Kun’s response was (and I paraphrase his words here): “The Substation is
 
 Having a vision does not make a place tick. The values that the place embodies must be upheld by strong and firm leadership. All the artistic directors of The Substation are strong artists, visionary and also resilient. I have witnessed Pao Kun defending why certain artworks or performances were allowed to be showcased at The Substation gallery when queried by the public or even by the board of directors. By doing so, Pao Kun gave artists a sense of security that the place is one of freedom and openness. 
 
-The Board Member
+#### **The Board Member**
+
+#### “What is fringe today will become the centre of tomorrow”
+
+Arun Mahizhnan, special research advisor at the Institute of Policy Studies, has had a long association with the arts. As Mobil Oil Singapore’s public affairs manager in the 1980s, he helped pave the way for the internationalisation and professionalisation of the Singapore Arts Festival through Mobil’s sponsorship of the festival, and was on the PPACL and then The Substation board for many years.
+
+I was one of the pioneers in the arts domain in Singapore with management experience, but [who had] a very soft spot in our heart for the artist. I was not going to impose management on the artist, but I was going to impose management on the institution so the artists perform 
+at their best.
+
+Pao Kun was perhaps the greatest artist and arts leader Singapore has produced in modern times, but he was not a terrific manager. At the board level, I was one of those who brought that kind of experience. I think Pao Kun liked me because I could speak to him openly and frankly, which is saying more about him than me, in that he was able to accommodate such a diversity of perspectives, people who bring different talents to the table.
+
+Funding was a challenge, but because it was Pao Kun, he could always bail us out; he just had to go and ask certain Chinese patrons, and they would give [him money]. 
+
+More challenging was he was the father of the fringe theatre, the people who would not be recognised by established procedures. He was willing to give them space, both in a physical as well as creative sense. Every time a controversial issue like performance art emerged  – it was a big controversy  – he did give space for that. And he argued for it.[^9]
+
+Pao Kun’s contribution is in pushing the boundaries for what is allowed, which I think today, very few artists can do as well as he did. On the other hand, space is not as critical today because there are a number of other groups and platforms that have given space. When you talk about the 1990s, this wasn’t the case in Singapore. The Substation actually had a series called Raw Theatre. To think of it as a worthy cause, and to provide support for it in a systematic way, this is what Pao Kun basically institutionalised. 
+
+I think that the essence of The Substation is that we must always be at the fringe. Now, many board members and even some artistic directors disagree with this, but you see, what Pao Kun created was the fringe. It was not the centre, and I felt in whatever The Substation does in the arts, we must be very mindful of pushing the boundaries, extending and nurturing the fringe.
+
+And what is fringe today will become the centre of tomorrow, you know, and then my point is we have to move on to the fringe. This was actually one of the big problems at The Substation’s board level. Whenever we were reaching the boundaries, some board members were very uncomfortable. At some point, 
+Pao Kun felt very frustrated that the board was not unanimously supporting him. But I felt that the risk is worth taking. And Singapore is the better for it, The Substation is the better for it. I still feel that should be the role of The Substation.
+
