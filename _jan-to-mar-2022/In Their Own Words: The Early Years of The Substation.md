@@ -85,6 +85,9 @@ While the government’s capital grant paid for the building, the money for equi
 
 But we did have supporters. Our first fundraising event was supported by many visual artists who donated paintings to The Substation that we sold. Our salaries were supported by the Practice Performing Arts School, an entity under PPACL which was financially stable and had a regular income through its classes. Up until Guinness [the beer company] approached us in 1991, it was very hard to get corporate sponsorship. This was before the establishment of the NAC, and when it came to sponsoring the arts, companies were very cautious.
 
+![Alt text for image on Isomer site](/images/vol-17-issue-4/substation/KuoPaoKon2.png)
+<div style="background-color: white;">Tan Beng Luan left her civil service job to join Practice Performing Arts Centre Ltd. <i>Courtesy of Tan Beng Luan. </i></div>
+
 One day we were having a meeting in the office. Suddenly the door opened, a gentleman and a lady walked in. They asked to speak to the manager. So I said, “Yes, what is your business?” They were from Guinness and wanted to find out more about The Substation. I took them to the café downstairs, answered all their questions, and then they expressed their interest in sponsoring.
 
 Before Guinness, there was another company which wanted to support The Substation. But the condition was to have naming rights over the entire Substation. Of course, Pao Kun’s reaction was, no, The Substation [had] to maintain its name; we can name individual spaces within The Substation after a sponsor but not the entire building. When Guinness came in, they wanted to support The Substation with $1 million over five years, provided the theatre was named the Guinness Theatre. That was okay. 
