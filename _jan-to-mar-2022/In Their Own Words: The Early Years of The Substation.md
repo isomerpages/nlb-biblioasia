@@ -138,6 +138,9 @@ Every year, the number of gigs around town increased. In the late ’90s and ear
 
 The co-artistic director of established socially engaged theatre company Drama Box, Kok Heng Leun got his “baptism of fire” in the arts working as a programme executive at The Substation from 1992 to 1993. He credits the centre as a place of beginnings for many artists like himself.[^8] 
 
+![Alt text for image on Isomer site](/images/vol-17-issue-4/substation/Nuradee.png)
+<div style="background-color: white;">Music duo Nuradee performing at The Substation Garden in 1991. <i>The Substation Collection, PictureSG, National Library, Singapore.  </i></div>
+
 On one October evening in 1990, a group of young people – myself included – who had just graduated from the National University of Singapore, gathered at the garden of The Substation and decided to form Drama Box. We formed [the theatre company] because we wanted to do our own Chinese-language theatre, telling our stories. Drama Box’s first production, a double bill, was held at the Guinness Theatre in 1991.
 
 Young practitioners like myself found The Substation a good place to start something new. Drama Box started without much connection with the bigger community; coming to The Substation made us feel like you were part of something bigger, part of a community.
