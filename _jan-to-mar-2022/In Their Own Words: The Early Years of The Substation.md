@@ -54,5 +54,20 @@ For the capital grant [to cover the building’s renovations], we went to the Mi
 
 **Lim:** On the garden, I think what Pao Kun said was, “I want the link to nature.” There was a huge banyan tree. Basically, once we agreed with his vision of the building, we were very much swayed in his direction. The garden was Tao Nan School’s playing field, and I think the neighbour was also asking for it. The Land Office had to arbitrate, and they gave it to Pao Kun.
 
+#### **The General Manager**
+
+#### “Every day, I had to think, where to get money.”
+
+In 1989, Tan Beng Luan left her civil service job to join PPACL. She knew Kuo from attending his directing course a few years before. Overseeing the founding of The Substation, she recounts the fundraising challenges of the early years – a Straits Times article in 1990 reported that the arts centre had to raise $700,000 for its first year’s operations.[^7]
+
+The Substation operated in this way: it rented out its spaces for artists to use at very affordable rates, and also initiated its own programmes. Dance Space, Word Space, Music Space and Raw Theatre were all programmes created by Pao Kun to spearhead or explore new possibilities in artmaking. We had a 120-seat black-box theatre, a garden, art gallery, dance studio, two classrooms, as well as a meeting room and office. There was also an art bookshop and café. MCD allowed us to sublet our spaces to commercial tenants. The ministry gave Pao Kun the freedom to set the artistic direction for the centre and we never had to seek approval for any of our programmes.
+
+While the government’s capital grant paid for the building, the money for equipment and fittings had to be raised by PPACL. And it was really very hard. Every day, I remember one of my administrators would receive a call from the contractor to ask for payment. Once, we couldn’t even find $800 to pay for the air-con instalment.
+
+But we did have supporters. Our first fundraising event was supported by many visual artists who donated paintings to The Substation that we sold. Our salaries were supported by the Practice Performing Arts School, an entity under PPACL which was financially stable and had a regular income through its classes. Up until Guinness [the beer company] approached us in 1991, it was very hard to get corporate sponsorship. This was before the establishment of the NAC, and when it came to sponsoring the arts, companies were very cautious.
+
+One day we were having a meeting in the office. Suddenly the door opened, a gentleman and a lady walked in. They asked to speak to the manager. So I said, “Yes, what is your business?” They were from Guinness and wanted to find out more about The Substation. I took them to the café downstairs, answered all their questions, and then they expressed their interest in sponsoring. 
+
+
 
 
