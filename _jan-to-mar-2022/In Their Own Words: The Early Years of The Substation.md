@@ -143,6 +143,9 @@ The co-artistic director of established socially engaged theatre company Drama B
 
 On one October evening in 1990, a group of young people – myself included – who had just graduated from the National University of Singapore, gathered at the garden of The Substation and decided to form Drama Box. We formed [the theatre company] because we wanted to do our own Chinese-language theatre, telling our stories. Drama Box’s first production, a double bill, was held at the Guinness Theatre in 1991.
 
+![Alt text for image on Isomer site](/images/vol-17-issue-4/substation/DramaBox.png)
+<div style="background-color: white;">Members of Drama Box at a discussion at The Substation Garden in the early 1990s. Courtesy of Drama Box.</i></div>
+
 Young practitioners like myself found The Substation a good place to start something new. Drama Box started without much connection with the bigger community; coming to The Substation made us feel like you were part of something bigger, part of a community.
 
 For a new group, a beginning would require a supportive environment. The Guinness Theatre black box is small, with a manageable audience capacity. The flexible space in the theatre also allows directors to try things, to reconfigure, to start from “zero”. The floor plan of the black box indicated that the seats could be moved, and during the 1990s, it was such an exciting possibility.
