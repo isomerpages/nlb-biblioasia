@@ -5,23 +5,14 @@ date: 2016-01-31
 layout: post
 description: ""
 ---
-
-
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;">
-<b>Title:</b>  <i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=84506050">Singapore Tong Seok Dramatic Association Charity Performance for the Shantung Relief Fund</a></i> <br>(星洲通俗白话剧团演 剧筹赈山东惨灾会特刊)
-<br>
-<b>Creator:</b> Tong Seok Dramatic Association (通俗白话剧团)
-<br>
-<b>Year published:</b> 1928
-<br>
-<b>Publisher:</b> Unknown
-<br>
-<b>Language:</b> Chinese
-<br>
-<b>Type:</b> Programme booklet; 115 pages
-<br>
-<b>Call no.:</b> RRARE 792.0605957 HCP
-<br>
+<b>Title:</b>  <i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=84506050">Singapore Tong Seok Dramatic Association Charity Performance for the Shantung Relief Fund</a></i> <br>(星洲通俗白话剧团演 剧筹赈山东惨灾会特刊)<br>
+<b>Creator:</b> Tong Seok Dramatic Association (通俗白话剧团)<br>
+<b>Year published:</b> 1928<br>
+<b>Publisher:</b> Unknown<br>
+<b>Language:</b> Chinese<br>
+<b>Type:</b> Programme booklet; 115 pages<br>
+<b>Call no.:</b> RRARE 792.0605957 HCP<br>
 <b>Accession no.:</b> B02834916K</span>
 
 <div style="background-color: white;"><img style="width:700px" src="/images/vol-11-issue-4/in-aid-of-the-motherland/02_motherland.jpg">Group photo taken during the opening ceremony of the Singapore Tong Seok Dramatic Association. <i>All rights reserved, Tong Seok Dramatic Association. (1928). 星洲通俗白话剧团演剧筹赈 山东惨灾会特刊. Publisher unknown.</i></div>
