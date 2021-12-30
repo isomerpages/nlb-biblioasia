@@ -185,6 +185,9 @@ More challenging was he was the father of the fringe theatre, the people who wou
 
 Pao Kun’s contribution is in pushing the boundaries for what is allowed, which I think today, very few artists can do as well as he did. On the other hand, space is not as critical today because there are a number of other groups and platforms that have given space. When you talk about the 1990s, this wasn’t the case in Singapore. The Substation actually had a series called Raw Theatre. To think of it as a worthy cause, and to provide support for it in a systematic way, this is what Pao Kun basically institutionalised. 
 
+![Alt text for image on Isomer site](/images/vol-17-issue-4/substation/stalls.png)
+<div style="background-color: white;">Craft stalls at The Substation’s Sunday Market, c. 1990s. <i>Singapore Tourist Promotion Board Collection, courtesy of National Archives of Singapore.</i></div>
+
 I think that the essence of The Substation is that we must always be at the fringe. Now, many board members and even some artistic directors disagree with this, but you see, what Pao Kun created was the fringe. It was not the centre, and I felt in whatever The Substation does in the arts, we must be very mindful of pushing the boundaries, extending and nurturing the fringe.
 
 And what is fringe today will become the centre of tomorrow, you know, and then my point is we have to move on to the fringe. This was actually one of the big problems at The Substation’s board level. Whenever we were reaching the boundaries, some board members were very uncomfortable. At some point, 
