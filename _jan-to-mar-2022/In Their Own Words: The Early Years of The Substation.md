@@ -3,7 +3,6 @@ title: "In Their Own Words: The Early Years of The Substation"
 permalink: /vol-17/issue-4/jan-to-mar-2022/the-early-years-of-the-substation
 description: ""
 ---
-
 #### The development of the arts in Singapore is unimaginable without this arts centre dedicated to alternative voices. Key individuals from its early history tell **Clarissa Oon** how it got started. 
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/movies-beneath/Jurong_Drive-in_bg.png)
