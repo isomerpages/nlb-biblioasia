@@ -39,3 +39,20 @@ MCD allowed the former power station, earmarked for conservation, to be managed 
 
 At the time, veteran arts administrators Juliana Lim and Tisa Ho were, respectively, deputy director and assistant director in MCD’s cultural affairs division. They share the decisions they undertook to let the arts centre fly, including allocating a garden behind the building to The Substation with permission from the Land Office.[^5] The garden became a key performance space before being sublet to a commercial tenant in the mid-2000s.[^6]
 
+**Tisa Ho:** Juliana had the idea that old buildings that were lying fallow could be better used, as the artists and arts groups that we knew were struggling for working space. The Telok Ayer Performing Arts Centre [TAPAC, now defunct] was, I think, the first experiment. 
+
+**Juliana Lim:** I went to take a look at The Substation. I remember climbing into the building, through this vertical ladder on the side of the building. I slid open this big, heavy door, entered this room, and found a floor with holes in it, and then the Land Office chaps came and said it was the generator room. This building was unlike the others, unlike TAPAC and all which used to be schools with many classrooms. The power station was not a building for co-sharing. In my subconscious mind, I thought, this is a building that has to go to one player because it’s quite a compact building, it was not big. 
+
+**Ho:** Structurally, it was obviously very sound, it was a very solid building. “Disused” doesn’t begin to describe the state that it was in; it was encrusted with bat and mouse droppings. But I thought the potential was exciting. There was one big space which could be used for a slightly different kind of performance space than the proscenium theatres and Drama Centre that we had then, and some potential workspaces upstairs.
+
+**Lim:** We invited concepts from the bigger arts groups at the time. The reason why Pao Kun got the building was his proposal went way beyond an individual group’s need, unlike the rest who were looking for rehearsal space. It was multicultural, multidisciplinary – those were the words we liked. 
+This was a fresh concept, entirely his, and we were not going to co-own it, because we got no means to do this. We saw ourselves more as an enabler with PPACL as a tenant, than a co-owner.
+
+For the capital grant [to cover the building’s renovations], we went to the Ministry of Finance, and I remember they were very lukewarm. And to be frank, I was very disheartened, and I think Tisa was the one who pushed it further.
+
+**Ho:** I think we also made a case for preservation of our buildings, because there was a lot of talk about conserving the former Tao Nan School beside it [now The Peranakan Museum]. The climate was right, there was an awareness of urgency, of keeping your architectural heritage.
+
+**Lim:** On the garden, I think what Pao Kun said was, “I want the link to nature.” There was a huge banyan tree. Basically, once we agreed with his vision of the building, we were very much swayed in his direction. The garden was Tao Nan School’s playing field, and I think the neighbour was also asking for it. The Land Office had to arbitrate, and they gave it to Pao Kun.
+
+
+
