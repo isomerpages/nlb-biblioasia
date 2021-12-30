@@ -119,12 +119,18 @@ In 1990, I was involved in writing for [pioneering indie music magazine] *BigO*.
 
 When Pao Kun opened The Substation, me and [music producer] Nazir Husain went to meet him. We knew someone who facilitated the meeting. We said, “Hey look, can we also have music at The Substation Garden? The music will be what I’ll call left-wing music. There will be punk rock, there will be thrash metal, anything that is really non-mainstream, no Abba, no Richard Clayderman.” And Pao Kun was very cool about it and he said, “Oh sure.” Then I looked at him and I said, “Hey, it won’t be pretty music,” and then he said something like this: “The Substation is a place for people to experiment, a place for people to do anything they want.” 
 
+![Alt text for image on Isomer site](/images/vol-17-issue-4/substation/Rock.png)
+<div style="background-color: white;">Musician Joe Ng of The Padres. <i>Courtesy of Zen Yeo. </i></div>
+
 And true to his words, many years down the line, it wasn’t just non-mainstream music, you also had mainstream artists performing at The Substation. The genre, the categorisation of it for him, does not matter. What matters for him is that you have something to say, we have a space here, say it the way you want to say it. 
 The first gig that we organised, for the life of me I cannot remember who played, I cannot remember anything about it. But [Pao Kun] was there at the gig, and I think [he and] Professor Tommy Koh were sitting in the crowd in the garden, watching some thrash metal or heavy metal band.
 
 I dare say that from 1990 to 1991, we must at least have had four or five gigs, and that was more than all the gigs featuring local music in the 1980s. 
 The impact The Substation made was incalculable. Teenagers would come for the gigs and say “Hey, why can’t we have this in my school?” At Ngee Ann Polytechnic, for example, they started their own series of concerts. 
 Every year, the number of gigs around town increased. In the late ’90s and early noughties, I remember looking at a newspaper or magazine listing and thinking, “Wah, so many gigs ah.” It was a domino effect where pundits started organising gigs themselves, and venues looking at this said, “Well, there’s a trend. There’s a market for Singapore indie music.” And [clubs like] Hard Rock Café, Sparks and Fire started to have indie music nights too. 
+
+![Alt text for image on Isomer site](/images/vol-17-issue-4/substation/JoeNg.png)
+<div style="background-color: white;">Musician Joe Ng of The Padres. <i>Courtesy of Zen Yeo. </i></div>
 
 #### **The Theatre Maker**
 
