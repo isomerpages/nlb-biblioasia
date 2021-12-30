@@ -86,7 +86,7 @@ While the government’s capital grant paid for the building, the money for equi
 But we did have supporters. Our first fundraising event was supported by many visual artists who donated paintings to The Substation that we sold. Our salaries were supported by the Practice Performing Arts School, an entity under PPACL which was financially stable and had a regular income through its classes. Up until Guinness [the beer company] approached us in 1991, it was very hard to get corporate sponsorship. This was before the establishment of the NAC, and when it came to sponsoring the arts, companies were very cautious.
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/substation/KuoPaoKon2.png)
-<div style="background-color: white;">Tan Beng Luan left her civil service job to join Practice Performing Arts Centre Ltd. <i>Courtesy of Tan Beng Luan. </i></div>
+<div style="background-color: white;">Kuo Pao Kun (in black) and Professor Tommy Koh (in sports attire) at The Substation’s First Anniversary Walk-a-Jog event in September 1991. <i>The Substation Collection, PictureSG, National Library, Singapore. </i></div>
 
 One day we were having a meeting in the office. Suddenly the door opened, a gentleman and a lady walked in. They asked to speak to the manager. So I said, “Yes, what is your business?” They were from Guinness and wanted to find out more about The Substation. I took them to the café downstairs, answered all their questions, and then they expressed their interest in sponsoring.
 
@@ -96,6 +96,9 @@ Up to that point, everything went quite well. But when we were about to close th
 
 There was a lot of “ding-donging” [back-and-forth]. I often heard Pao Kun over the phone, trying to persuade the Guinness representative in Singapore so he could in turn persuade the UK office. Eventually Guinness counter-proposed to change the wording to something like: “The Substation has no intention of creating any damages to the image of the sponsor.” That finally was okay. 
 I remember asking Pao Kun – what if Guinness drops this whole sponsorship idea because you disagree with their original condition. You guess what his response was? He said, “Well, then we start all over again and look for another sponsor.” This ability to endure hardship and willingness to take a difficult journey is the character of Pao Kun.
+
+![Alt text for image on Isomer site](/images/vol-17-issue-4/substation/KuoPaoKon2.png)
+<div style="background-color: white;">Tan Beng Luan left her civil service job to join Practice Performing Arts Centre Ltd. <i>Courtesy of Tan Beng Luan. </i></div>
 
 I remember another incident. In early 1990, one of our board members, Mdm Li Lienfung [the late writer and vice-chairman of the Wah Chang group of manufacturing companies], called me. She had a friend who could be willing to occupy the gallery space for the entire year, which meant we could collect rental revenue. But I said the gallery cannot be rented out for a year because we won’t have the space for our [own] visual art activities. 
 
