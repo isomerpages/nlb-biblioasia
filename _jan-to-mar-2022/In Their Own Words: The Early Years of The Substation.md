@@ -97,8 +97,8 @@ Up to that point, everything went quite well. But when we were about to close th
 There was a lot of “ding-donging” [back-and-forth]. I often heard Pao Kun over the phone, trying to persuade the Guinness representative in Singapore so he could in turn persuade the UK office. Eventually Guinness counter-proposed to change the wording to something like: “The Substation has no intention of creating any damages to the image of the sponsor.” That finally was okay. 
 I remember asking Pao Kun – what if Guinness drops this whole sponsorship idea because you disagree with their original condition. You guess what his response was? He said, “Well, then we start all over again and look for another sponsor.” This ability to endure hardship and willingness to take a difficult journey is the character of Pao Kun.
 
-![Alt text for image on Isomer site](/images/vol-17-issue-4/substation/KuoPaoKon2.png)
-<div style="background-color: white;">Tan Beng Luan left her civil service job to join Practice Performing Arts Centre Ltd. <i>Courtesy of Tan Beng Luan. </i></div>
+![Alt text for image on Isomer site](/images/vol-17-issue-4/substation/FrontDoor.png)
+<div style="background-color: white;">The front door of The Substation, with its slogan “A Home for the Arts”, 1991. It officially opened on 16 September 1990. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore. </i></div>
 
 I remember another incident. In early 1990, one of our board members, Mdm Li Lienfung [the late writer and vice-chairman of the Wah Chang group of manufacturing companies], called me. She had a friend who could be willing to occupy the gallery space for the entire year, which meant we could collect rental revenue. But I said the gallery cannot be rented out for a year because we won’t have the space for our [own] visual art activities. 
 
