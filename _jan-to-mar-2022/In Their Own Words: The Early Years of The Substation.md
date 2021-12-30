@@ -28,3 +28,5 @@ In the three decades that it existed on Armenian Street, it had been an incubato
 Most critical of all were its values and culture. As Koh noted, “The Substation is about the freedom to innovate, to experiment, to challenge the establishment and conventional wisdom. It is about the process of art-making and less about its outcome.”[^3]
 
 At this point in the Substation’s history, it is now apt to revisit its beginnings. Key players of the time share their perspectives on the centre’s founding years.
+
+#### **The Arts Administrators**
