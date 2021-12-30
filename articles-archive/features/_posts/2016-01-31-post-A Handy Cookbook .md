@@ -5,9 +5,8 @@ date: 2016-01-31
 layout: post
 description: ""
 ---
-
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
-	<b>Title:</b> My Favourite Recipes<br>
+	<b>Title:</b> <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202764155"><i>My Favourite Recipes</i></a><br>
 <b>Author:</b> Ellice Handy (1902–89)<br>
 <b>Year published:</b> 1952 (1st edition)<br>
 <b>Publisher:</b> Malaya Publishing House 
@@ -19,8 +18,7 @@ description: ""
 <b>Donated by:</b> John Koh
 	</span>
 	
-<img style="width: 300px; height: 400px;" src="/images/vol-11-issue-4/a-handy-cookbook/C1.JPG">
-<div style="background-color: white;">Mrs Ellice Handy (1902–89), author of <i>My Favourite Recipes</i>, was a Eurasian and the first Singaporean principal of Methodist Girls’ School. <i>All rights reserved, Lim, L. U. W. (1987). Memories, Gems and Sentiments: 100 Years of Methodist Girls’ School. Singapore: Methodist Girls’ School.</i></div>
+
 
 In the days before eating at a hawker centre became so commonplace, housewives in Singapore would routinely whip up freshly cooked meals for their families. No good 
 kitchen would be complete without condiments such as *sambal belachan* (a fiery concoction of chilli and shrimp paste) and *tau cheo* (fermented bean paste).
@@ -32,9 +30,11 @@ Own Cookery Book (1929, 3rd edition) (see page 110) and Y.W.C.A. International C
 <img src="/images/vol-11-issue-4/a-handy-cookbook/C2.JPG">
 <div style="background-color: white;">The inclusion of Indian, Malay, Chinese and Eurasian recipes reflected Singapore’s multicultural society. The book was an instant hit when it was first published in 1952. <i>All rights reserved, Handy, E. (1952). My Favourite Recipes. Singapore: Malaya Publishing House.</i></div>
 
-Into this vacuum stepped Ellice Handy, née Ellice Zuberbuhler, a Eurasian and the first Singaporean principal of Methodist Girls’ School (MGS). Among her key tasks was to rebuild the school after the war[^1] – an 
-assignment she tackled so efficiently that she was awarded the Order of the British Empire when she stepped down as principal in 1957. Even after that, she stayed on as a teacher in the school until her retirement 
+Into this vacuum stepped Ellice Handy, née Ellice Zuberbuhler, a Eurasian and the first Singaporean principal of Methodist Girls’ School (MGS). Among her key tasks was to rebuild the school after the war[^1] – an assignment she tackled so efficiently that she was awarded the Order of the British Empire when she stepped down as principal in 1957. Even after that, she stayed on as a teacher in the school until her retirement 
 in 1964.[^2] 
+
+<img style="width: 300px; height: 400px;" src="/images/vol-11-issue-4/a-handy-cookbook/C1.JPG">
+<div style="background-color: white;">Mrs Ellice Handy (1902–89), author of <i>My Favourite Recipes</i>, was a Eurasian and the first Singaporean principal of Methodist Girls’ School. <i>All rights reserved, Lim, L. U. W. (1987). Memories, Gems and Sentiments: 100 Years of Methodist Girls’ School. Singapore: Methodist Girls’ School.</i></div>
 
 One of the ways Handy sought to raise funds for the school’s rebuilding was to write a cookbook.[^3] She readily acknowledged that she was no great cook, but had acquired enough proficiency to create her own recipes and modify others she had tried. These included a dish of chicken and ham with white sauce, one of the first recipes she attempted, which was taught to her by MGS’ English founder Sophia Black-more.[^4] Handy compiled and handwrote her original and altered recipes, and published *My Favourite Recipes* in 1952 – the first cookbook by a Singaporean author. It was sold for $5 a copy.
 
