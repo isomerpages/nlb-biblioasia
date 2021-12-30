@@ -62,6 +62,10 @@ This was a fresh concept, entirely his, and we were not going to co-own it, beca
 
 For the capital grant [to cover the building’s renovations], we went to the Ministry of Finance, and I remember they were very lukewarm. And to be frank, I was very disheartened, and I think Tisa was the one who pushed it further.
 
+![Alt text for image on Isomer site](/images/vol-17-issue-4/substation/mural2.png)
+<div style="background-color: white;">Colourful murals at The Substation Garden. These were painted by local artists in the 1990s. <i>The Substation Collection, PictureSG, National Library, Singapore.
+</i></div>
+
 **Ho:** I think we also made a case for preservation of our buildings, because there was a lot of talk about conserving the former Tao Nan School beside it [now The Peranakan Museum]. The climate was right, there was an awareness of urgency, of keeping your architectural heritage.
 
 **Lim:** On the garden, I think what Pao Kun said was, “I want the link to nature.” There was a huge banyan tree. Basically, once we agreed with his vision of the building, we were very much swayed in his direction. The garden was Tao Nan School’s playing field, and I think the neighbour was also asking for it. The Land Office had to arbitrate, and they gave it to Pao Kun.
