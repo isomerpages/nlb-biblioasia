@@ -175,6 +175,10 @@ at their best.
 
 Pao Kun was perhaps the greatest artist and arts leader Singapore has produced in modern times, but he was not a terrific manager. At the board level, I was one of those who brought that kind of experience. I think Pao Kun liked me because I could speak to him openly and frankly, which is saying more about him than me, in that he was able to accommodate such a diversity of perspectives, people who bring different talents to the table.
 
+![Alt text for image on Isomer site](/images/vol-17-issue-4/substation/playwright.png)
+<div style="background-color: white;">Malaysian playwright and theatre director Krishen Jit (left) chats with Substation founder Kuo Pao Kun (right) at the launch of Kuo’s book, Images in the Margin, in 2000. Artistic director T. Sasitharan is in the background between them. <i>The Substation Collection, PictureSG, National Library, Singapore.
+</i></div>
+
 Funding was a challenge, but because it was Pao Kun, he could always bail us out; he just had to go and ask certain Chinese patrons, and they would give [him money]. 
 
 More challenging was he was the father of the fringe theatre, the people who would not be recognised by established procedures. He was willing to give them space, both in a physical as well as creative sense. Every time a controversial issue like performance art emerged  – it was a big controversy  – he did give space for that. And he argued for it.[^9]
