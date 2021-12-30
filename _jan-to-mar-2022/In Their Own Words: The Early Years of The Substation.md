@@ -6,7 +6,7 @@ description: ""
 #### The development of the arts in Singapore is unimaginable without this arts centre dedicated to alternative voices. Key individuals from its early history tell **Clarissa Oon** how it got started. 
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/substation/substation.png)
-<div style="background-color: white;">Vehicles at the Jurong Drive-in Cinema on the opening night, 14 July 1971.  <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;">The Substation on Armenian Street, 2006. It officially opened on 16 September 1990. Photo by Sengkang. <i>Retrieved from Wikimedia Commons.</i></div>
 
 A rundown former power station was transformed by artists and the government into an arts centre. And so began the almost inconceivable journey of Singapore’s first independent, multidisciplinary arts space – The Substation.
 
