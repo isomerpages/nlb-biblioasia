@@ -30,3 +30,12 @@ Most critical of all were its values and culture. As Koh noted, “The Substatio
 At this point in the Substation’s history, it is now apt to revisit its beginnings. Key players of the time share their perspectives on the centre’s founding years.
 
 #### **The Arts Administrators**
+
+#### Securing the Building and Garden
+
+In 1986, the power station on Armenian Street became the first property under NAC’s then new Arts Housing Scheme to receive a capital grant of $1.07 million for renovations;[^4] the scheme was administered by the MCD’s cultural affairs division, precursor of today’s NAC. 
+
+MCD allowed the former power station, earmarked for conservation, to be managed by a private, not-for-profit company on a 10-year lease. This was unheard of at the time: other buildings – shells of former schools converted into workspaces for arts groups – were leased out for only up to three years. 
+
+At the time, veteran arts administrators Juliana Lim and Tisa Ho were, respectively, deputy director and assistant director in MCD’s cultural affairs division. They share the decisions they undertook to let the arts centre fly, including allocating a garden behind the building to The Substation with permission from the Land Office.[^5] The garden became a key performance space before being sublet to a commercial tenant in the mid-2000s.[^6]
+
