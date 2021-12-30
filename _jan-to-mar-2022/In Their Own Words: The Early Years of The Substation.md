@@ -156,6 +156,9 @@ I remembered asking Pao Kun about the diversity of programming in The Substation
 
 Pao Kun’s response was (and I paraphrase his words here): “The Substation is a home for the arts. So it should accommodate any kind of arts – traditional, contemporary, experimental and pop. So when people come to The Substation, they get to meet different artists, they get to meet different kinds of arts. Isn’t that good?”
 
+![Alt text for image on Isomer site](/images/vol-17-issue-4/substation/Dance.png)
+<div style="background-color: white;">A dance performance in The Substation Garden by Singapore group Dance Dimension Project as part of SeptFest 1996. <i>The Substation Collection, PictureSG, National Library, Singapore.</i></div>
+
 Having a vision does not make a place tick. The values that the place embodies must be upheld by strong and firm leadership. All the artistic directors of The Substation are strong artists, visionary and also resilient. I have witnessed Pao Kun defending why certain artworks or performances were allowed to be showcased at The Substation gallery when queried by the public or even by the board of directors. By doing so, Pao Kun gave artists a sense of security that the place is one of freedom and openness. 
 
 #### **The Board Member**
