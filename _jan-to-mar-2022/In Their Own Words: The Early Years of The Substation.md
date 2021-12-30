@@ -113,7 +113,7 @@ With the government’s ban on long hair and tightening of rules for live entert
 Musician Joe Ng – frontman of 1990s indie band The Padres – talks about how things changed when indie music gigs began to be held at The Substation Garden.
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/substation/JoeNg.png)
-<div style="background-color: white;">The front door of The Substation, with its slogan “A Home for the Arts”, 1991. It officially opened on 16 September 1990. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore. </i></div>
+<div style="background-color: white;">Musician Joe Ng of The Padres. <i>Courtesy of Zen Yeo. </i></div>
 
 In 1990, I was involved in writing for [pioneering indie music magazine] *BigO*. I was also starting to work in a record company and trying to organise gigs. It was quite challenging because the concept of original music was new for a lot of people. When I knocked on the doors of pubs and schools and said, “We’d like to have a local band play at your space, and they’ll be playing original music,” their reaction would be like “Hmm? Local music?” 
 
