@@ -10,7 +10,7 @@ description: ""
 
 A rundown former power station was transformed by artists and the government into an arts centre. And so began the almost inconceivable journey of Singapore’s first independent, multidisciplinary arts space – The Substation.
 
-![Alt text for image on Isomer site](/images/vol-17-issue-4/movies-beneath/Jurong_Drive-in_bg.png)
+![Alt text for image on Isomer site](/images/vol-17-issue-4/substation/KuoPaoKon.png)
 <div style="background-color: white;">Vehicles at the Jurong Drive-in Cinema on the opening night, 14 July 1971.  <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 In 1985, the late influential drama doyen Kuo Pao Kun had a vision of an arts centre that would be accessible to all art forms, artists and cultures. The then Ministry of Community Development (MCD; now Ministry of Culture, Community and Youth) accepted his proposal and leased the building at 45 Armenian Street to Kuo’s Practice Performing Arts Centre Ltd (PPACL). The government also provided a $1.07-million grant towards the reconstruction and renovation of the building, which was completed in June 1990. 
