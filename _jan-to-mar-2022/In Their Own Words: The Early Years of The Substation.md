@@ -77,5 +77,9 @@ I remember asking Pao Kun – what if Guinness drops this whole sponsorship idea
 
 I remember another incident. In early 1990, one of our board members, Mdm Li Lienfung [the late writer and vice-chairman of the Wah Chang group of manufacturing companies], called me. She had a friend who could be willing to occupy the gallery space for the entire year, which meant we could collect rental revenue. But I said the gallery cannot be rented out for a year because we won’t have the space for our [own] visual art activities. 
 
-So of course Mdm Li was very upset because she was really concerned about the financial situation of The Substation. But then, what to do? This issue about the strong artistic mission of The Substation – versus commercial usage and revenue collection – was a constant tension. You have to make a decision. For that same reason, it would never occur to Pao Kun to rent out the garden [as] it was the second biggest space after the theatre. I often say he led his team of board members through a difficult path full of ups and downs and hurdles. Fortunately, they were willing to come along [on the journey]. 
+So of course Mdm Li was very upset because she was really concerned about the financial situation of The Substation. But then, what to do? This issue about the strong artistic mission of The Substation – versus commercial usage and revenue collection – was a constant tension. You have to make a decision. For that same reason, it would never occur to Pao Kun to rent out the garden [as] it was the second biggest space after the theatre. I often say he led his team of board members through a difficult path full of ups and downs and hurdles. Fortunately, they were willing to come along [on the journey].
+
+#### **The Indie Musician**
+
+#### Building the Music Ecosystem, One Gig a Time
 
