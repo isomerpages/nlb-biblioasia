@@ -106,9 +106,6 @@ During the period of European colonial expansion, explorers and imperial cartogr
 
 Maps took on new roles after the establishment of French Indochina (1887–1954). Colonial maps, produced in situ by European and indigenous mapmakers, provided knowledge that allowed European administrators to govern their new colonial possessions more effectively, engendering a “progressively more invasive and direct administration over territory”.[^34] For one, the mapping of forests and their resources allowed colonial authorities to impose greater control on the use of natural resources by indigenous populations.[^35] 
 
-![Alt text for image on Isomer site](/images/vol-17-issue-4/cartography/9-CambodiaMap.jpg)
-<div style="background-color: white;">In 1863, Cambodian King Norodom (r. 1860–1904) signed a treaty with France in exchange for military protection against the dual threats of Vietnam and Siam (Thailand). Cambodia subsequently became a French protectorate until 1954, with administrative power largely held by a French Resident-General. <i>Map of Khsach-Kandal</i>, Cambodia, 1880s, ink and colour on paper. <i>Courtesy of the Bibliothèque de l’École française d’Extreme-Orient (Paris).</i></div>
-
 Cartographic documents were also pivotal in defining and demarcating imagined national boundaries, allowing colonisers to lay claim to territories. From 1884 to 1895, the French explorer and diplomat Auguste Pavie (1847–1925), dubbed “the grand doyen of Indochinese mapping”, led several missions, known as “Missions Pavie”, to explore Indochina and the surrounding regions, including Siam. Pavie surveyed 676,000 sq km of land (over 900 times the size of Singapore) around the Vietnam-Laos boundary and the Laotian-Siamese border, creating “fixed” national borders that had not existed previously.[^36] In turn, his work paved the way for the French to identify Cambodian and Laotian territories upon which they could impose their authority. 
 
 Pavie’s cartographic exploits were so transformative that the lack of them apparently weakened colonial control, as historian Olivier Schouteden wrote: 
@@ -120,6 +117,9 @@ The unspecified colonial administrator was likely Louis Paul Luce (1856–1931),
 Meanwhile, maps produced by indigenous mapmakers provided an in-depth look at the lives of local populations. The _Map of Khsach-Kandal_ was produced by Cambodian elites at the behest of French authorities, and on paper supplied by the French military. It sensitively depicts the daily life of rural civilians in Khsach Kandal, near the capital Phnom Penh. 
 
 At close glance, we see civilians leading their cows around the villages, while Buddhist temples, pagodas and village dwellings nestle within the natural landscape featuring trees and wild animals. Marine life such as fishes and crocodiles can be seen in the water bodies (in dark grey), denoted by the term “pond” in Khmer. The larger of the two “ponds” at the bottom most likely depicts the nearby Mekong River that flows past the towns of Svay Romiet, Khsach Kandal and Lvea Aem, with all three depicted on the map.
+
+![Alt text for image on Isomer site](/images/vol-17-issue-4/cartography/9-CambodiaMap.jpg)
+<div style="background-color: white;">In 1863, Cambodian King Norodom (r. 1860–1904) signed a treaty with France in exchange for military protection against the dual threats of Vietnam and Siam (Thailand). Cambodia subsequently became a French protectorate until 1954, with administrative power largely held by a French Resident-General. <i>Map of Khsach-Kandal</i>, Cambodia, 1880s, ink and colour on paper. <i>Courtesy of the Bibliothèque de l’École française d’Extreme-Orient (Paris).</i></div>
 
 This commissioned map is part of a collection of maps from the library of the École française d’Extrême-Orient (EFEO; French School of Asian Studies). Headquartered in Hanoi, the EFEO was founded as the Indochina Archaeological Mission in 1898 before taking on its current name in 1900. 
 
