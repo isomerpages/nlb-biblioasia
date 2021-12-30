@@ -83,3 +83,39 @@ So of course Mdm Li was very upset because she was really concerned about the fi
 
 #### Building the Music Ecosystem, One Gig a Time
 
+With the government’s ban on long hair and tightening of rules for live entertainment in the 1970s, the decade after that saw the entire local music scene in the doldrums. Original music in English by Singapore bands had largely disappeared from radio and TV, and the live music venues in those days were mainly hotel lounges. 
+
+Musician Joe Ng – frontman of 1990s indie band The Padres – talks about how things changed when indie music gigs began to be held at The Substation Garden.
+
+In 1990, I was involved in writing for [pioneering indie music magazine] BigO. I was also starting to work in a record company and trying to organise gigs. It was quite challenging because the concept of original music was new for a lot of people. When I knocked on the doors of pubs and schools and said, “We’d like to have a local band play at your space, and they’ll be playing original music,” their reaction would be like “Hmm? Local music?” 
+
+When Pao Kun opened The Substation, me and [music producer] Nazir Husain went to meet him. We knew someone who facilitated the meeting. We said, “Hey look, can we also have music at The Substation Garden? The music will be what I’ll call left-wing music. There will be punk rock, there will be thrash metal, anything that is really non-mainstream, no Abba, no Richard Clayderman.” And Pao Kun was very cool about it and he said, “Oh sure.” Then I looked at him and I said, “Hey, it won’t be pretty music,” and then he said something like this: “The Substation is a place for people to experiment, a place for people to do anything they want.” 
+
+And true to his words, many years down the line, it wasn’t just non-mainstream music, you also had mainstream artists performing at The Substation. The genre, the categorisation of it for him, does not matter. What matters for him is that you have something to say, we have a space here, say it the way you want to say it. 
+The first gig that we organised, for the life of me I cannot remember who played, I cannot remember anything about it. But [Pao Kun] was there at the gig, and I think [he and] Professor Tommy Koh were sitting in the crowd in the garden, watching some thrash metal or heavy metal band.
+
+I dare say that from 1990 to 1991, we must at least have had four or five gigs, and that was more than all the gigs featuring local music in the 1980s. 
+The impact The Substation made was incalculable. Teenagers would come for the gigs and say “Hey, why can’t we have this in my school?” At Ngee Ann Polytechnic, for example, they started their own series of concerts. 
+Every year, the number of gigs around town increased. In the late ’90s and early noughties, I remember looking at a newspaper or magazine listing and thinking, “Wah, so many gigs ah.” It was a domino effect where pundits started organising gigs themselves, and venues looking at this said, “Well, there’s a trend. There’s a market for Singapore indie music.” And [clubs like] Hard Rock Café, Sparks and Fire started to have indie music nights too. 
+
+#### **The Theatre Maker**
+
+#### Learning and Receiving Criticism
+
+The co-artistic director of established socially engaged theatre company Drama Box, Kok Heng Leun got his “baptism of fire” in the arts working as a programme executive at The Substation from 1992 to 1993. He credits the centre as a place of beginnings for many artists like himself.[^8] 
+
+On one October evening in 1990, a group of young people – myself included – who had just graduated from the National University of Singapore, gathered at the garden of The Substation and decided to form Drama Box. We formed [the theatre company] because we wanted to do our own Chinese-language theatre, telling our stories. Drama Box’s first production, a double bill, was held at the Guinness Theatre in 1991.
+
+Young practitioners like myself found The Substation a good place to start something new. Drama Box started without much connection with the bigger community; coming to The Substation made us feel like you were part of something bigger, part of a community.
+
+For a new group, a beginning would require a supportive environment. The Guinness Theatre black box is small, with a manageable audience capacity. The flexible space in the theatre also allows directors to try things, to reconfigure, to start from “zero”. The floor plan of the black box indicated that the seats could be moved, and during the 1990s, it was such an exciting possibility.
+
+Yet at the same time, we knew that once we started on something, we would subject our work to being critically examined by others. There were so many different practitioners of different backgrounds visiting and working at The Substation. Your work would be seen by these artists. You would even get to talk to them after the show at the café in The Substation. The Substation was the place where we knew we could be free, without being judged, but where we must learn how to receive critical opinions.
+
+I remembered asking Pao Kun about the diversity of programming in The Substation. After a year, there were people who were quite confused about what the place was about. In fact, there were people who asked that The Substation should have a clearer identity for easy marketing purposes.
+
+Pao Kun’s response was (and I paraphrase his words here): “The Substation is a home for the arts. So it should accommodate any kind of arts – traditional, contemporary, experimental and pop. So when people come to The Substation, they get to meet different artists, they get to meet different kinds of arts. Isn’t that good?”
+
+Having a vision does not make a place tick. The values that the place embodies must be upheld by strong and firm leadership. All the artistic directors of The Substation are strong artists, visionary and also resilient. I have witnessed Pao Kun defending why certain artworks or performances were allowed to be showcased at The Substation gallery when queried by the public or even by the board of directors. By doing so, Pao Kun gave artists a sense of security that the place is one of freedom and openness. 
+
+The Board Member
