@@ -15,7 +15,7 @@ description: ""
 <b>Call no.:</b> RRARE 641.59595 KIN<br>
 <b>Accession no.:</b> B02938274B</span>
 
-<div  style="background-color: white;"><img style="width: 300px; height: 400px;" src="/images/vol-11-issue-4/a-colonial-cookbook/01_cookbook.jpg">The first edition of <i>The “Mem’s” Own Cookery Book</i>, issued in 1920, sold out within a few months; the second edition, published in 1922, was so popular that a third was published in 1929. This is the cover of the third edition. <i>All rights reserved, National Library Board, Singapore.</i></div>
+<div style="background-color: white;"><img style="width: 300px; height: 400px;" src="/images/vol-11-issue-4/a-colonial-cookbook/01_cookbook.jpg">The first edition of <i>The “Mem’s” Own Cookery Book</i>, issued in 1920, sold out within a few months; the second edition, published in 1922, was so popular that a third was published in 1929. This is the cover of the third edition. <i>All rights reserved, National Library Board, Singapore.</i></div>
 
 The year 1914 brought with it the devastation of World War I, and the beginning of widespread food shortages and hikes in food prices. The expatriate community in Malaya was not spared either, but one woman’s passion for cooking – documented in a compilation of 420 recipes – helped numerous expatriate women in the region prepare flavourful meals for their families on their shoestring budgets.
 
