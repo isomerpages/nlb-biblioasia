@@ -149,3 +149,21 @@ Pao Kun felt very frustrated that the board was not unanimously supporting him. 
 
 [^1]: Audrey Wong, ed., [*25 Years of The Substation: Reflections on Singapore’s First Independent Art Centre*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202144908) (Singapore: The Substation and Ethos Books, 2015), 12. (From National Library Singapore, Call no. RSING 700.95957 TWE)
 
+[^2]: Tommy Koh, “Fare Thee Well: The Substation’s 
+Legacy Will Endure”. *Straits Times*, 6 March 2021,
+https://www.straitstimes.com/opinion/fare-thee-well-the-substations-legacy-will-endure.
+
+[^3]: Koh, “Fare Thee Well: The Substation’s Legacy 
+Will Endure.”
+
+[^4]: Clarissa Oon, [*Theatre Life!; A History of Singapore English-language Theatre in Singapore Through The Straits Times (1958–2000)*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10520186) (Singapore: Singapore Press Holdings, 2001), 147. (From National Library, Singapore, Call no. RSING 792.095957 OON). See also Juliana Lim, “Arts Housing Scheme – $10 a Classroom a Month,” Singapore Arts Manager 1980s/90s: Memories and Musings, 24 May 2009, https://julianalim.wordpress.com/2009/05/24/arts-housing-scheme-10-a-classroom-a-month/.
+
+[^5]: Juliana Lim, “Substation Stories,” *Singapore Arts Manager 1980s/90s: Memories and Musings*, 15 December 2009, https://julianalim.wordpress.com/2009/12/15/substation-stories/.
+
+[^6]: Lee Weng Choy, “The Substation: Artistic Practice and Cultural Policy,” in [*The State and the Arts in Singapore: Policies and Institutions*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203201759), ed. Terence Chong (New Jersey: World Scientific, 2019), 204, 210. (From National Library, Singapore, Call no. RSING 700.959570904 STA)
+
+[^7]: “The Substation Plans Host of Activities to Raise Funds,” The Straits Times, 16 May 1990, 26. (From NewspaperSG).
+
+[^8]: Kok Heng Leun, “The Place of The Substation: A Space and a Place for a Beginning,”  in [*25 Years of The Substation: Reflections on Singapore’s First Independent Art Centre*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202144908), ed. Audrey Wong (Singapore: The Substation and Ethos Books, 2015), 38–45. (From National Library Singapore, Call no. RSING 700.95957 TWE)
+
+[^9]: Performance art was not funded by the government for 10 years starting from 1994.
