@@ -129,7 +129,7 @@ I dare say that from 1990 to 1991, we must at least have had four or five gigs, 
 The impact The Substation made was incalculable. Teenagers would come for the gigs and say “Hey, why can’t we have this in my school?” At Ngee Ann Polytechnic, for example, they started their own series of concerts. 
 Every year, the number of gigs around town increased. In the late ’90s and early noughties, I remember looking at a newspaper or magazine listing and thinking, “Wah, so many gigs ah.” It was a domino effect where pundits started organising gigs themselves, and venues looking at this said, “Well, there’s a trend. There’s a market for Singapore indie music.” And [clubs like] Hard Rock Café, Sparks and Fire started to have indie music nights too. 
 
-![Alt text for image on Isomer site](/images/vol-17-issue-4/substation/JoeNg.png)
+![Alt text for image on Isomer site](/images/vol-17-issue-4/substation/Nuradee.png)
 <div style="background-color: white;">Musician Joe Ng of The Padres. <i>Courtesy of Zen Yeo. </i></div>
 
 #### **The Theatre Maker**
