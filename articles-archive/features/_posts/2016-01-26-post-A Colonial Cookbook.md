@@ -6,20 +6,13 @@ layout: post
 description: ""
 ---
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;">
-<b>Title:</b> <i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=5232525">The “Mem’s” Own Cookery Book: 420 Tried and Economical Recipes for Malaya</a></i>
-<br>
-<b>Author:</b> Mrs W. E. Kinsey
-<br>
-<b>Year published:</b> 1929 (3rd edition)
-<br>
-<b>Publisher:</b> Kelly & Walsh, Limited (Singapore)
-<br>
-<b>Language:</b> English
-<br>
-<b>Type:</b> Book; 171 pages
-<br>
-<b>Call no.:</b> RRARE 641.59595 KIN
-<br>
+<b>Title:</b> <i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=5232525">The “Mem’s” Own Cookery Book: 420 Tried and Economical Recipes for Malaya</a></i><br>
+<b>Author:</b> Mrs W. E. Kinsey<br>
+<b>Year published:</b> 1929 (3rd edition)<br>
+<b>Publisher:</b> Kelly & Walsh, Limited (Singapore)<br>
+<b>Language:</b> English<br>
+<b>Type:</b> Book; 171 pages<br>
+<b>Call no.:</b> RRARE 641.59595 KIN<br>
 <b>Accession no.:</b> B02938274B</span>
 
 <div style="background-color: white;"><img style="width:450px" src="/images/vol-11-issue-4/a-colonial-cookbook/01_cookbook.jpg">The first edition of <i>The “Mem’s” Own Cookery Book</i>, issued in 1920, sold out within a few months; the second edition, published in 1922, was so popular that a third was published in 1929. This is the cover of the third edition. <i>All rights reserved, National Library Board, Singapore.</i></div>
