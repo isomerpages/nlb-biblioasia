@@ -147,4 +147,5 @@ Pao Kun felt very frustrated that the board was not unanimously supporting him. 
 
 #### **NOTES**
 
-[^1]: “[Cathay’s Jurong Drive-in Cinema](http://eresources.nlb.gov.sg/newspapers/Digitised/Page/straitstimes19710714-1.1.18),” *Straits Times* , 14 July 1971, 18. (From NewspaperSG)
+[^1]: Audrey Wong, ed., [*25 Years of The Substation: Reflections on Singapore’s First Independent Art Centre*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202144908) (Singapore: The Substation and Ethos Books, 2015), 12. (From National Library Singapore, Call no. RSING 700.95957 TWE)
+
