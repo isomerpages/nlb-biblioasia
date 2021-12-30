@@ -41,7 +41,7 @@ MCD allowed the former power station, earmarked for conservation, to be managed 
 At the time, veteran arts administrators Juliana Lim and Tisa Ho were, respectively, deputy director and assistant director in MCD’s cultural affairs division. They share the decisions they undertook to let the arts centre fly, including allocating a garden behind the building to The Substation with permission from the Land Office.[^5] The garden became a key performance space before being sublet to a commercial tenant in the mid-2000s.[^6]
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/substation/TisaHo.png)
-<div style="background-color: white;">The Substation on Armenian Street, 2006. It officially opened on 16 September 1990. Photo by Sengkang. <i>Retrieved from Wikimedia Commons.</i></div>
+<div style="background-color: white;">Tisa Ho, former assistant director in the then Ministry of Community Development’s cultural affairs division. <i>Courtesy of Tisa Ho.</i></div>
 
 **Tisa Ho:** Juliana had the idea that old buildings that were lying fallow could be better used, as the artists and arts groups that we knew were struggling for working space. The Telok Ayer Performing Arts Centre [TAPAC, now defunct] was, I think, the first experiment. 
 
