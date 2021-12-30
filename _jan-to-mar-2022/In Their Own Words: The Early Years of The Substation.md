@@ -142,7 +142,7 @@ Pao Kun felt very frustrated that the board was not unanimously supporting him. 
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-17-issue-4/authors/Sharon_Teng.png" style="width: 100px; height: 100px;" />
+<img src="/images/vol-17-issue-4/authors/Clarissa_Oon.png" style="width: 100px; height: 100px;" />
 	<b>Clarissa Oon</b>  is an arts writer and former journalist who heads Esplanade – Theatres on the Bay’s digital content and archives. She is working on a year-long series, PopLore, which celebrates and documents Singapore popular music and includes an exhibition on live music venues.</div>
 
 #### **NOTES**
