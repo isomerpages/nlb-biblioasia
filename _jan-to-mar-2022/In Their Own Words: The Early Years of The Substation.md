@@ -140,3 +140,11 @@ I think that the essence of The Substation is that we must always be at the frin
 And what is fringe today will become the centre of tomorrow, you know, and then my point is we have to move on to the fringe. This was actually one of the big problems at The Substation’s board level. Whenever we were reaching the boundaries, some board members were very uncomfortable. At some point, 
 Pao Kun felt very frustrated that the board was not unanimously supporting him. But I felt that the risk is worth taking. And Singapore is the better for it, The Substation is the better for it. I still feel that should be the role of The Substation.
 
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-17-issue-4/authors/Sharon_Teng.png" style="width: 100px; height: 100px;" />
+	<b>Clarissa Oon</b>  is an arts writer and former journalist who heads Esplanade – Theatres on the Bay’s digital content and archives. She is working on a year-long series, PopLore, which celebrates and documents Singapore popular music and includes an exhibition on live music venues.</div>
+
+#### **NOTES**
+
+[^1]: “[Cathay’s Jurong Drive-in Cinema](http://eresources.nlb.gov.sg/newspapers/Digitised/Page/straitstimes19710714-1.1.18),” *Straits Times* , 14 July 1971, 18. (From NewspaperSG)
