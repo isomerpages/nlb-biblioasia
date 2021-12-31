@@ -81,16 +81,16 @@ description: ""
 **A Chinese Classic in Baba Malay**<br>
 *Chrita Dahulu-kala, Namanya Sam Kok, Atau, Tiga Negri Ber-prang: Siok, Gwi, Sama Gor di Jaman “Han Teow” [Ancient Story Entitled Sanguo or the Three Kingdoms at War: Shu, Wei and Wu During the Han Dynasty]*
 
-**A Singapore-made Qur’an**<br>
+**[A Singapore-made Qur’an](/vol-11/issue-4/jan-mar-2016/singapore-lithographed-quran)**<br>
 *Lithographed Qur’an*
 
-**Indian Muslim Devotional Poems**<br>
+**[Indian Muslim Devotional Poems](/vol-11/issue-4/jan-mar-2016/indian-muslim-devotional-poems-munajathu-thirattu)**<br>
 *Munajathu Thirattu* (முனாஜாத்துத் திரட்டு)
 
 **[English Nursey Rhymes with a Malay Spin](/vol-11/issue-4/jan-mar-2016/haji-malayan-nursery-rhymes)**<br>
 *Haji’s Book of Malayan Nursery Rhymes*
 
-**Stories of Abdullah**<br>
+**[Stories of Abdullah](/vol-11/issue-4/jan-mar-2016/hikayat-abdullah-abdul-kadir-munsyi)**<br>
 *Hikayat Abdullah (Stories of Abdullah)*
 
 **The First English and Malay Dictionary**<br>
@@ -102,10 +102,10 @@ description: ""
 **[Hear Ye Hear Ye](/vol-11/issue-4/jan-mar-2016/straits-government-gazette)**<br>
 *Straits Government Gazette*
 
-**Singapore’s Role in the Chinese Revolution**<br>
+**[Singapore’s Role in the Chinese Revolution](/vol-11/issue-4/jan-mar-2016/singapore-chinese-revolution-nanyang-republic)**<br>
 *Nanyang and the Founding of the Republic* (南洋与创立民国)
 
-**A Handy Cookbook**<br>
+**[A Handy Cookbook](/vol-11/issue-4/jan-mar-2016/my-favourite-recipes-ellice-handy)**<br>
 *My Favourite Recipes*
 
 **A Glimpse of 1930s Singapore**<br>
