@@ -8,7 +8,6 @@ description: ""
 #### The National Library Board wins hearts (and minds) around the world with its SG50 Gift of Books initiative. **Amelia Tan** has the details.
 
 <img src="/images/vol-11-issue-4/a-gift-of-books/g.JPG">
-<div style="background-color: white;"></i></div>
 
 In a year when Singapore celebrated its 50th year of independence, the nation predictably looked back at its achievements and also cast an eye forward on its hopes and dreams. At the same time, the city also reached out to share its joy with friends from around the world. 
 
@@ -18,7 +17,6 @@ The SG50 Gift of Books saw national and public libraries in countries such as Ma
 books. Each library was given about 300 books, and in return, asked to display the titles for a month.
 
 <img src="/images/vol-11-issue-4/a-gift-of-books/f.JPG">
-<div style="background-color: white;"></i></div>
 
 The books were carefully selected to cater to the reading habits and demands of diverse foreign audiences. The book lists differed for each library, depending on whether they were national or public libraries. It also took into account varying patron demographics as well as political and cultural sensitivities.
 
@@ -45,3 +43,14 @@ Foreigners who remain befuddled by our brand of colloquial English can learn a t
 Complete Eh, Goondu!* by Sylvia Toh Paik Choo. Comics such as *Scenegapore* by Miel and *The Girl Under the Bed* by Dave Chua also made the list.
 
 The SG50 Gift of Books is a gesture of goodwill that will hopefully bolster NLB’s relationship with overseas libraries. Said an MFA spokesperson: “Through the SG50 project with NLB, our overseas missions have made new friends and strengthened our links with the countries of the 46 recipient libraries, 29 of which are also partner libraries of NLB.”
+
+<img src="/images/vol-11-issue-4/a-gift-of-books/e.JPG">
+<div style="background-color: white;"> From the left: Han Yong 
+Jing, President of the National Library of China, Mrs Mary Tan 
+and President Tony Tan Keng Yam. <i>All rights reserved, Ministry of Communications and Information, Singapore</i></div>
+<br>
+<img src="/images/vol-11-issue-4/a-gift-of-books/b.JPG">
+<div style="background-color: white;"></i></div>
+<br>
+<img src="/images/vol-11-issue-4/a-gift-of-books/d.JPG">
+<div style="background-color: white;"></i></div>
