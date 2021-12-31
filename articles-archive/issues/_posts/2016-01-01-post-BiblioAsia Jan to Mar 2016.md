@@ -150,15 +150,15 @@ description: ""
 **The First Directory**<br>
 *The Straits Times Almanack, Calendar and Directory*
 
-**A Colonial Cookbook**<br>
+**[A Colonial Cookbook](/vol-11/issue-4/jan-mar-2016/a-colonial-cookbook)**<br>
 *The “Mem’s” Own Cookery Book: 420 Tried and Economical Recipes for Malaya*
 
-**In Aid of the Motherland**<br>
+**[In Aid of the Motherland](/vol-11/issue-4/jan-mar-2016/in-aid-of-the-motherland)**<br>
 *Singapore Tong Seok Dramatic Association Charity Performance for the Shantung Relief Fund* (星洲通俗白话剧团演剧筹赈山东惨灾会特刊)
 
-**The First Newspaper**<br>
+**[The First Newspaper](/vol-11/issue-4/jan-mar-2016/the-first-newspaper)**<br>
 *Singapore Chronicle and Commercial Register*
 
-**A Gift of Books**
+**[A Gift of Books](/vol-11/issue-4/jan-mar-2016/a-gift-of-books)**
 
-**Preserving Our Published Heritage**
+**[Preserving Our Published Heritage](/vol-11/issue-4/jan-mar-2016/preserving-our-published-heritage)**
