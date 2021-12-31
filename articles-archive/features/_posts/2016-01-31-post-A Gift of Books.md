@@ -38,24 +38,10 @@ books and comics. Well-known political titles included the Battle for Merger by 
 Needless to say, there were several titles that shared the success of the Singapore economic story, such as *Heart Work 2: EDB & Partners – New Frontiers for the Singapore Economy* by Chan Chin Bock as well as Terence Chong’s *Management of Success: 
 Singapore Revisited*.
 
-The softer, and lighter, side of Singapore was 
-not forgotten. Books on the city’s famous food 
-culture were also part of the collection, including 
-Singapore Heritage Food: Yesterday’s Recipes for 
-Today’s Cook by Sylvia Tan, The Little Singapore 
-Cookbook: A Collection of Singapore’s Best-Loved 
-Dishes by Wendy Hutton, and The End of Char Kway 
-Teow and Other Hawker Mysteries by Leslie Tay.
-Foreigners who remain befuddled by our 
-brand of colloquial English can learn a thing or 
-two about Singlish through two humour texts: 
-An Essential Guide to Singlish by Miel and The 
-Complete Eh, Goondu! by Sylvia Toh Paik Choo. 
-Comics such as Scenegapore by Miel and The Girl 
-Under the Bed by Dave Chua also made the list.
-The SG50 Gift of Books is a gesture of goodwill that will hopefully bolster NLB’s relationship 
-with overseas libraries. Said an MFA spokesperson: “Through the SG50 project with NLB, our 
-overseas missions have made new friends and 
-strengthened our links with the countries of the 
-46 recipient libraries, 29 of which are also partner 
-libraries of NLB.” 
+The softer, and lighter, side of Singapore was not forgotten. Books on the city’s famous food culture were also part of the collection, including *Singapore Heritage Food: Yesterday’s Recipes for Today’s Cook* by Sylvia Tan, *The Little Singapore 
+Cookbook: A Collection of Singapore’s Best-Loved Dishes* by Wendy Hutton, and *The End of Char Kway Teow and Other Hawker Mysteries* by Leslie Tay.
+
+Foreigners who remain befuddled by our brand of colloquial English can learn a thing or two about Singlish through two humour texts: *An Essential Guide to Singlish* by Miel and *The 
+Complete Eh, Goondu!* by Sylvia Toh Paik Choo. Comics such as *Scenegapore* by Miel and *The Girl Under the Bed* by Dave Chua also made the list.
+
+The SG50 Gift of Books is a gesture of goodwill that will hopefully bolster NLB’s relationship with overseas libraries. Said an MFA spokesperson: “Through the SG50 project with NLB, our overseas missions have made new friends and strengthened our links with the countries of the 46 recipient libraries, 29 of which are also partner libraries of NLB.”
