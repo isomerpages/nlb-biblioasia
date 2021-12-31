@@ -6,7 +6,7 @@ description: ""
 
 #### **Chia Jie Lin** highlights interesting cartographic efforts from the National Library’s latest exhibition on Asian maps.
 
-![Alt text for image on Isomer site](/images/vol-17-issue-4/cartography/1-Map2.jpg)
+![Alt text for image on Isomer site](/images/vol-17-issue-4/cartography/1-Map3.jpg)
 <div style="background-color: white;">This map is one of the world’s earliest large-format maps to use Prussian blue, the first modern synthetic pigment, as a colourant. <i>Complete Geographical Map of the Everlasting Unified Qing Empire</i> (大清万年一统地理全图; <i>Daqing wannian yitong dili quantu</i>), Huang Qianren, 1767 (post-1815 reprint), woodblock-printed, ink on paper. <i>Courtesy of MacLean Collection, Illinois, USA.</i></div>
 
 Between the 17th and 20th centuries, Eastern and Western colonial empires expanded across the globe, carving up new territories for control, administration and economic exploitation. In East Asia, Manchu armies swept southwards from the Mongolian-Manchurian steppes and past the Great Wall of China to conquer Ming Chinese territories.[^1] 
