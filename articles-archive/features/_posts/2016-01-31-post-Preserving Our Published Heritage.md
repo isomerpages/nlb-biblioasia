@@ -8,7 +8,7 @@ description: ""
 #### The nation’s published heritage is preserved by the National Library for posterity. **Ivy Lee** reveals the aim of the Legal Deposit and shares highlights from the collection.
 
 <img src="/images/vol-11-issue-4/published-heritage/i.JPG">
-<div style="background-color: white;">PublicationSG is a dedicated online catalogue of all physical materials found in the Legal Deposit Collection. <i>All rights reserved, National Library Board, Singapore</i></div>
+<div style="background-color: white;">PublicationSG is a dedicated online catalogue of all physical materials found in the Legal Deposit Collection. <i>All rights reserved, National Library Board, Singapore.</i></div>
 
 The National Library of Singapore is the custodian of Singapore’s published heritage. One of the statutory functions mandated by the National Library Board Act is the Legal Deposit, which empowers the National Library to collect published works by writers and publishers in Singapore. Under the act, publishers are required by law to deposit two copies of every work published in Singapore – within four weeks of its publication – with the National Library. 
 
@@ -50,6 +50,13 @@ The Legal Deposit Collections aims to provide researchers with a rich repository
 draw on, and to also provide an accurate and complete picture of the printing and publishing sector in Singapore. All these could not have been possible without the support of the local publishing fraternity.
 
 It is important to note that the Legal Deposit Collection is not an exclusive collection. While some of the publications deposited with Legal Deposit – in line with the National Library Board’s aim to provide interesting and useful publications to the public – are available for reference at the National Library’s Lee Kong Chian Reference Library, the board also purchases copies of selected titles for its 26 branches of the Public Libraries.
+
+<img src="/images/vol-11-issue-4/published-heritage/a.JPG">
+<div style="background-color: white;"> Clyde Terrace Market 
+at the junction of Beach Road and Rochor Road in 1920. The 
+programme booklet dating 29 March 1873 that commemorates 
+the laying of the foundation stone is the oldest item deposited in 
+the Legal Deposit Collection. <i>Courtesy of Dr Cheah Jin Seng.</i></div>
 
 #### **The Next Leap for Legal Deposit**
 
