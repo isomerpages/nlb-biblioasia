@@ -28,4 +28,21 @@ With the passing of the Book Registration Ordinance of 1886, the Raffles Library
 
 The enactment of the Raffles National Library Ordinance, which came into force on 1 April 1958, marked an important milestone in 
 the history of the National Library. The ordinance mandated the National Library as the depository library for all materials published and printed in Singapore, a function that was continued 
-under the Printers and Publishers Act in 1970 and subsequently under the National Library Board Act in 1995
+under the Printers and Publishers Act in 1970 and subsequently under the National Library Board Act in 1995.
+
+#### **Legal Deposit Today**
+
+With the support of local publishers and writers, the National Library has been able to build up a robust Legal Deposit Collection comprising more than a million items over the years. 
+
+The collection provides a comprehensive picture of the local publishing scene, featuring materials that span across subjects ranging from the arts, culture and entertainment to politics, economics and science. The collection also includes an assortment of non-print formats – reflecting how technology has evolved over time – such as cassette tapes, video cassettes, floppy disks and compact discs as well as electronic publications 
+in PDF, JPEG and MP3 formats.
+
+The National Library also serves as the Singapore agency for issuing the International Standard Book Number (ISBN), International Standard Serial Number (ISSN) and International 
+Standard Music Number (ISMN). These International Standard Numbers can be likened to a publication’s fingerprint, an international code that helps publishers, suppliers and libraries locate, order and track published material.
+
+Additionally, the Legal Deposit function also covers materials that have not been assigned International Standard Numbers. Under the National Library Board Act, the National Library is mandated by law to collect local publications without international standard numbers, but have been made available for public distribution. These include school magazines, publications from clans and associations, company annual reports, conference papers and proceedings, posters and even theatre programmes and exhibition catalogues. 
+
+The Legal Deposit Collections aims to provide researchers with a rich repository of primary and secondary research materials to 
+draw on, and to also provide an accurate and complete picture of the printing and publishing sector in Singapore. All these could not have been possible without the support of the local publishing fraternity.
+
+It is important to note that the Legal Deposit Collection is not an exclusive collection. While some of the publications deposited with Legal Deposit – in line with the National Library Board’s aim to provide interesting and useful publications to the public – are available for reference at the National Library’s Lee Kong Chian Reference Library, the board also purchases copies of selected titles for its 26 branches of the Public Libraries.
