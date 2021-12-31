@@ -87,7 +87,7 @@ description: ""
 **Indian Muslim Devotional Poems**<br>
 *Munajathu Thirattu* (முனாஜாத்துத் திரட்டு)
 
-**English Nursey Rhymes with a Malay Spin**<br>
+**[English Nursey Rhymes with a Malay Spin](/vol-11/issue-4/jan-mar-2016/haji-malayan-nursery-rhymes)**<br>
 *Haji’s Book of Malayan Nursery Rhymes*
 
 **Stories of Abdullah**<br>
@@ -99,7 +99,7 @@ description: ""
 **Of Spells and Magic**<br>
 *Malay Magic: Being an Introduction to the Folklore and Popular Religion of the Malay Peninsula*
 
-**Hear Ye Hear Ye**<br>
+**[Hear Ye Hear Ye](/vol-11/issue-4/jan-mar-2016/straits-government-gazette)**<br>
 *Straits Government Gazette*
 
 **Singapore’s Role in the Chinese Revolution**<br>
@@ -123,10 +123,10 @@ description: ""
 **The Pulse of Malayan Literature**<br>
 *Pulse*
 
-**Early History of the Chinese Community**<br>
+**[Early History of the Chinese Community](/vol-11/issue-4/jan-mar-2016/history-of-chinese-community)**<br>
 *One Hundred Years’ History of the Chinese in Singapore*
 
-**A Dictionary That Bridged Two Races**<br>
+**[A Dictionary That Bridged Two Races](/vol-11/issue-4/jan-mar-2016/dictionary-that-bridged-two-races)**<br>
 *Hua yi tong yu* (华夷通语)
 
 **Singapore in Sepia**<br>
@@ -147,7 +147,7 @@ description: ""
 **About Babas and the Chinese**<br>
 *The Manners and Customs of the Chinese of the Straits Settlements*
 
-**The First Directory**<br>
+**[The First Directory](/vol-11/issue-4/jan-mar-2016/the-first-directory)**<br>
 *The Straits Times Almanack, Calendar and Directory*
 
 **[A Colonial Cookbook](/vol-11/issue-4/jan-mar-2016/a-colonial-cookbook)**<br>
