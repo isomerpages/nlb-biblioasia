@@ -17,6 +17,9 @@ The National Library Board (NLB) – working in collaboration with the Ministry 
 The SG50 Gift of Books saw national and public libraries in countries such as Malaysia, Indonesia, Thailand, China, India, New Zealand and the United Kingdom receiving a total of 10,300 
 books. Each library was given about 300 books, and in return, asked to display the titles for a month.
 
+<img src="/images/vol-11-issue-4/a-gift-of-books/f.JPG">
+<div style="background-color: white;"></i></div>
+
 The books were carefully selected to cater to the reading habits and demands of diverse foreign audiences. The book lists differed for each library, depending on whether they were national or public libraries. It also took into account varying patron demographics as well as political and cultural sensitivities.
 
 The book list that eventually made the final cut was based on feedback provided by experts as well as members of the Steering Committee for Read! Singapore, NLB’s annual nationwide 
@@ -26,3 +29,33 @@ Singaporean leaders such as President Tony Tan Keng Yam, Deputy Prime Minister T
 
 “We thank all the libraries around the world who have received the SG50 Gift of Books and have made these books available to their patrons, who can use them to learn more about Singapore. 
 Our deepest appreciation goes out to the Ministry of Foreign Affairs, who helped us, through its overseas missions, with the book presentation ceremonies to the libraries and organisations,” said Mrs Elaine Ng, Chief Executive Officer, National Library Board.
+
+New Zealand’s National Librarian Bill Macnaught said his country shares Singapore’s belief in the importance of books in marking a nation’s development. He added: “I am sure that in addition to giving insights into the history of Singapore, many of them [books] will deal with historical matters and contemporary regional issues in which we have a shared involvement.”
+
+The books spanned genres ranging from history to politics and from art to biodiversity. The selection also included children’s 
+books and comics. Well-known political titles included the Battle for Merger by Singapore’s first Prime Minister Lee Kuan Yew and Singapore and the Silk Road of the Sea, 1300–1800 by John N. Miksic. 
+
+Needless to say, there were several titles that shared the success of the Singapore economic story, such as *Heart Work 2: EDB & Partners – New Frontiers for the Singapore Economy* by Chan Chin Bock as well as Terence Chong’s *Management of Success: 
+Singapore Revisited*.
+
+The softer, and lighter, side of Singapore was 
+not forgotten. Books on the city’s famous food 
+culture were also part of the collection, including 
+Singapore Heritage Food: Yesterday’s Recipes for 
+Today’s Cook by Sylvia Tan, The Little Singapore 
+Cookbook: A Collection of Singapore’s Best-Loved 
+Dishes by Wendy Hutton, and The End of Char Kway 
+Teow and Other Hawker Mysteries by Leslie Tay.
+Foreigners who remain befuddled by our 
+brand of colloquial English can learn a thing or 
+two about Singlish through two humour texts: 
+An Essential Guide to Singlish by Miel and The 
+Complete Eh, Goondu! by Sylvia Toh Paik Choo. 
+Comics such as Scenegapore by Miel and The Girl 
+Under the Bed by Dave Chua also made the list.
+The SG50 Gift of Books is a gesture of goodwill that will hopefully bolster NLB’s relationship 
+with overseas libraries. Said an MFA spokesperson: “Through the SG50 project with NLB, our 
+overseas missions have made new friends and 
+strengthened our links with the countries of the 
+46 recipient libraries, 29 of which are also partner 
+libraries of NLB.” 
