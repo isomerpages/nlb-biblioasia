@@ -50,7 +50,12 @@ Jing, President of the National Library of China, Mrs Mary Tan
 and President Tony Tan Keng Yam. <i>All rights reserved, Ministry of Communications and Information, Singapore</i></div>
 <br>
 <img src="/images/vol-11-issue-4/a-gift-of-books/b.JPG">
-<div style="background-color: white;"></i></div>
+<div style="background-color: white;">From the left: Aubeck 
+Kam, Permanent Secretary, Ministry of Communications 
+and Information; Foo Chi Hsia, Singapore’s High Commissioner 
+to the United Kingdom; Kristian Jensen, Head of Collections 
+and Curation, The British Library; Dr Yaacob Ibrahim, Minister for Communications and Information; Elaine Ng, Chief Executive Officer, National Library Board; Roly Keating, Chief Executive, The British Library; and Caroline Brazier, Chief Librarian, The British Library. <i>All rights reserved, Ministry of Communications and Information, Singapore.</i></div>
 <br>
 <img src="/images/vol-11-issue-4/a-gift-of-books/d.JPG">
-<div style="background-color: white;"></i></div>
+<div style="background-color: white;">Vanu Gopala Menon, 
+Singapore’s High Commissioner to Malaysia and Hajah Nafisah Ahmad, Director General of the National Library of Malaysia. <i>All rights reserved, Ministry of Foreign Affairs, Singapore.</i></div>
