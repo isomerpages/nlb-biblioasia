@@ -129,7 +129,7 @@ description: ""
 **[A Dictionary That Bridged Two Races](/vol-11/issue-4/jan-mar-2016/dictionary-that-bridged-two-races)**<br>
 *Hua yi tong yu* (华夷通语)
 
-**Singapore in Sepia**<br>
+**[Singapore in Sepia](/vol-11/issue-4/jan-mar-2016/fotoalbum-singapur-gustave-richard-lambert)**<br>
 *Fotoalbum Singapur*
 
 **The Gospel in Chinese**<br>
