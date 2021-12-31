@@ -46,7 +46,7 @@ This plan includes a site plan of the property, which shows the front, semi-circ
 Not surprisingly, it became a prime spot for the family to relax and unwind. Mrs Lee would have her daily afternoon tea there at 4 pm and “sun downer” cocktails at 6 pm. Furnished with rattan armchairs and long garden benches to comfortably accommodate 14 people, the verandah was also used for entertaining the many guests and visitors calling on the Lee family.[^6]
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/towkay-house/6-family.jpg)
-<div style="background-color: white;">Mdm Tan Teck Neo (Mrs Lee Choon Guan; back row, second from left) with family members during her birthday celebration at Mandalay Villa, 1950s. Photo by Wong Ken Foo (K.F. Wong). <i>Courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;">Mdm Tan Teck Neo (Mrs Lee Choon Guan; back row, second from left) with family members during her birthday celebration at Mandalay Villa, 1950s. Photo by Ken Foo (K.F. Wong). <i>Courtesy of National Archives of Singapore.</i></div>
 
 Mrs Lee was known for hosting many glamorous social events at Mandalay Villa, the most important of which were held on her birthday on 18 December. The who’s who of Singapore society would be invited to a lavish party, both Europeans and Asians, and the fishermen of Kampong Amber would hold a parade in Mrs Lee’s honour. This was their way of thanking the family for letting them live in the kampong almost rent-free.[^7]
 
