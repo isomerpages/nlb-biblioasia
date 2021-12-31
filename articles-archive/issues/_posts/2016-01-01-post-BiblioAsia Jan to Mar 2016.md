@@ -135,16 +135,16 @@ description: ""
 **The Gospel in Chinese**<br>
 *The Perfect Man’s Model* (全人矩矱)
 
-**The First Public Library**<br>
+**[The First Public Library](/vol-11/issue-4/jan-mar-2016/the-first-public-library)**<br>
 *Reports of the Singapore Library (1844– 52, 1860)*
 
-**A Christian Sermon in Malay**<br>
+**[A Christian Sermon in Malay](/vol-11/issue-4/jan-mar-2016/a-christian-sermon-in-malay)**<br>
 *The Substance of Our Saviour’s Sermon on the Mount Contained in the 5th, 6th &c. 7th Chapters of the Gospel According to St. Matthew*
 
-**Cartoons of Terror**<br>
+**[Cartoons of Terror](https://nlb-ba-staging.netlify.app/vol-11/issue-4/jan-mar-2016/cartoons-of-terror)**<br>
 *Chop Suey* (杂碎画集)
 
-**About Babas and the Chinese**<br>
+**[About Babas and the Chinese](https://nlb-ba-staging.netlify.app/vol-11/issue-4/jan-mar-2016/about-babas-and-chinese)**<br>
 *The Manners and Customs of the Chinese of the Straits Settlements*
 
 **[The First Directory](/vol-11/issue-4/jan-mar-2016/the-first-directory)**<br>
