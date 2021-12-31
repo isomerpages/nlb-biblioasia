@@ -93,10 +93,10 @@ description: ""
 **[Stories of Abdullah](/vol-11/issue-4/jan-mar-2016/hikayat-abdullah-abdul-kadir-munsyi)**<br>
 *Hikayat Abdullah (Stories of Abdullah)*
 
-**The First English and Malay Dictionary**<br>
+**[The First English and Malay Dictionary](/vol-11/issue-4/jan-mar-2016/first-english-malay-dictionary-thomas-bowrey)**<br>
 *A Dictionary: English and Malayo, Malayo and English*
 
-**Of Spells and Magic**<br>
+**[Of Spells and Magic](/vol-11/issue-4/jan-mar-2016/malay-magic-walterwilliam-skeat)**<br>
 *Malay Magic: Being an Introduction to the Folklore and Popular Religion of the Malay Peninsula*
 
 **[Hear Ye Hear Ye](/vol-11/issue-4/jan-mar-2016/straits-government-gazette)**<br>
