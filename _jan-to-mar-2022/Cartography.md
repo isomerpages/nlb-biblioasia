@@ -56,7 +56,7 @@ Early Joseon maps feature Korea in a Sinocentric world. They reflect the view of
 
 Conversely, late Joseon maps like the _Haejwa Jeondo_ (海左全图; _Map of Korea_) depart from early Joseon cartography, and with good reason. Major foreign incursions marked the transition from the middle to late Joseon period in the 16th and 17th centuries, scarring the nation for centuries to come. 
 
-![Alt text for image on Isomer site](/images/vol-17-issue-4/cartography/4-KoreaMap.jpg)
+![Alt text for image on Isomer site](/images/vol-17-issue-4/cartography/4-KoreaMap2.jpg)
 <div style="background-color: white;">This map, which was produced for general consumption, details the political geography of Korea. It depicts the administrative areas, from the provinces to the cities, at a scale of 1:700,000. The term <i>Haejwa</i> (“left of the sea”) is a traditional nickname for Korea. <i>Map of Korea</i> (海左全图; <i>Haejwa Jeondo</i>), unknown, c. 1857–66, woodblock-printed, ink and colour on paper. <i>Courtesy of MacLean Collection, Illinois, USA.</i>
 </div>
 
@@ -90,7 +90,7 @@ Maps and plans played a pivotal role in the French invasion of Vietnam. As Frenc
 
 The _Map of Northwest Tonkin_, belonging to a French private collection, is one of the many maps collected during the 1880s. As early as the 1860s, the French had begun to covet Tonkin in northern Vietnam – which was then a vassal of China – as well as its capital and major port city Hanoi, and the Red River for their strategic trading access to China and the southern Vietnamese provinces. In 1883, French statesman Jules Ferry (1832–93) ordered an all-out invasion of Tonkin, leading to the Sino-French War (1883–85). While Qing Chinese forces retaliated to reclaim their tributary state, the French eventually won and affirmed its control of the protectorates of Tonkin and Annam (central Vietnam). 
 
-![Alt text for image on Isomer site](/images/vol-17-issue-4/cartography/7-RedRiver.jpg)
+![Alt text for image on Isomer site](/images/vol-17-issue-4/cartography/7-RedRiver2.jpg)
 <div style="background-color: white;">This map of Tonkin shows the Red River, depicted in red running downwards through northern Vietnam, between the Chinese border and the Hanoi region. <i>Map of Northwest Tonkin</i>, Vietnam, c. 1883–85, ink and colour on paper. <i>Courtesy of Private Collection, France.</i></div>
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/cartography/8-HungHoa.jpg)
@@ -118,7 +118,7 @@ Meanwhile, maps produced by indigenous mapmakers provided an in-depth look at th
 
 At close glance, we see civilians leading their cows around the villages, while Buddhist temples, pagodas and village dwellings nestle within the natural landscape featuring trees and wild animals. Marine life such as fishes and crocodiles can be seen in the water bodies (in dark grey), denoted by the term “pond” in Khmer. The larger of the two “ponds” at the bottom most likely depicts the nearby Mekong River that flows past the towns of Svay Romiet, Khsach Kandal and Lvea Aem, with all three depicted on the map.
 
-![Alt text for image on Isomer site](/images/vol-17-issue-4/cartography/9-CambodiaMap.jpg)
+![Alt text for image on Isomer site](/images/vol-17-issue-4/cartography/9-CambodiaMap2.jpg)
 <div style="background-color: white;">In 1863, Cambodian King Norodom (r. 1860–1904) signed a treaty with France in exchange for military protection against the dual threats of Vietnam and Siam (Thailand). Cambodia subsequently became a French protectorate until 1954, with administrative power largely held by a French Resident-General. <i>Map of Khsach-Kandal</i>, Cambodia, 1880s, ink and colour on paper. <i>Courtesy of the Bibliothèque de l’École française d’Extreme-Orient (Paris).</i></div>
 
 This commissioned map is part of a collection of maps from the library of the École française d’Extrême-Orient (EFEO; French School of Asian Studies). Headquartered in Hanoi, the EFEO was founded as the Indochina Archaeological Mission in 1898 before taking on its current name in 1900. 
