@@ -46,3 +46,11 @@ The Legal Deposit Collections aims to provide researchers with a rich repository
 draw on, and to also provide an accurate and complete picture of the printing and publishing sector in Singapore. All these could not have been possible without the support of the local publishing fraternity.
 
 It is important to note that the Legal Deposit Collection is not an exclusive collection. While some of the publications deposited with Legal Deposit – in line with the National Library Board’s aim to provide interesting and useful publications to the public – are available for reference at the National Library’s Lee Kong Chian Reference Library, the board also purchases copies of selected titles for its 26 branches of the Public Libraries.
+
+#### **The Next Leap for Legal Deposit**
+
+In the Internet age, many libraries in the world have revised their Legal Deposit legislation to include the mandatory submission of electronic publications and web content. Countries that have extended the scope of their legal deposit framework include the United Kingdom, Australia, New Zealand, France, Denmark, Finland, Japan and Korea. 
+
+Although the National Library Board Act of Singapore has yet to make the deposit of electronic publications and web content mandatory, publishers and producers of such content are strongly encouraged to deposit their electronic materials with the National Library for preservation. To date, the National Library has received more than 1,000 electronic publications deposited voluntarily by publishers. The full text of these materials is available for onsite access via the dedicated BookSG terminal on level 11 of the Lee Kong Chian Reference Library at the National Library Building.
+
+Selected highlights of the Legal Deposit Collection are currently on display at level 11 of the National Library Building until 29 February 2016. 
