@@ -81,36 +81,12 @@ Members of the public can place reservations to view legal deposit items at $1.5
 The National Library launched an exhibition of its Legal Deposit Collection on 3 October 2015 – providing a peek into 
 what matters occupied the minds of Singaporeans over the years. Here are some highlights.<br><br>
 	1. <i>Her World</i>, July 1960<br>
-Launched in July 1960 by the Straits Times Press (now known as Singapore Press Holdings), <i>Her World</i>, which centres on fashion and beauty, women’s issues and lifestyle trends, has since established itself as the most popular women’s magazine in Singapore. Topics of interest in the debut issue discussed “family planning in Singapore” and “what my country means to me”, which supported the various national campaigns launched at the time. Fast forward 55 years: the idea of family planning in Singapore has evolved into quite a different picture today. It is also interesting to see how fashion, hairstyles and makeup along with subjects such as sexual mores and attitudes to work have evolved over the years.<br>
+Launched in July 1960 by the Straits Times Press (now known as Singapore Press Holdings), <i>Her World</i>, which centres on fashion and beauty, women’s issues and lifestyle trends, has since established itself as the most popular women’s magazine in Singapore. Topics of interest in the debut issue discussed “family planning in Singapore” and “what my country means to me”, which supported the various national campaigns launched at the time. Fast forward 55 years: the idea of family planning in Singapore has evolved into quite a different picture today. It is also interesting to see how fashion, hairstyles and makeup along with subjects such as sexual mores and attitudes to work have evolved over the years.<br><br>
 	2 <i>Malayan Penfriends</i>, September 1961
-Before the advent of email, Whatsapp 
-and social networking sites like Facebook, Instagram and Twitter, there was 
-snail mail. The allure of making friends 
-through letter-writing – with the possibility of friendship turning into romance 
-– made pen pal correspondence one of 
-the popular pastimes among youths 
-in Singapore and Malaya. Malayan 
-Penfriends is a Chinese publication 
-featuring essays and compositions, 
-as well as friendship columns with 
-photos and addresses of young people 
-seeking pen pals.<br>
-3 National Pioneer, 9 August 1969
-The inaugural issue of the Singapore 
-Armed Forces’ (SAF) Pioneer magazine was published as the National 
-Pioneer on National Day in 1969. The 
-foreword by then Minister for Defence 
-Lim Kim San made reference to the 
-“few thousand young men and women 
-in our Armed Forces”, and said the 
-bulletin would help members of the 
-Armed Forces to be “enlightened 
-and entertained”. Pioneer magazine, 
-which has been in publication for 46 
-years, has since undergone many 
-changes in design as well as content. 
-Today, there is even a digital version to 
-complement the print edition.
+Before the advent of email, Whatsapp and social networking sites like Facebook, Instagram and Twitter, there was snail mail. The allure of making friends through letter-writing – with the possibility of friendship turning into romance – made pen pal correspondence one of the popular pastimes among youths in Singapore and Malaya. <i>Malayan Penfriends</i> is a Chinese publication featuring essays and compositions, as well as friendship columns with photos and addresses of young people 
+seeking pen pals.<br><br>
+	3 <i>National Pioneer</i>, 9 August 1969
+	The inaugural issue of the Singapore Armed Forces’ (SAF) <i>Pioneer</i> magazine was published as the <i>National Pioneer</i> on National Day in 1969. The foreword by then Minister for Defence Lim Kim San made reference to the “few thousand young men and women in our Armed Forces”, and said the bulletin would help members of the Armed Forces to be “enlightened and entertained”. <i>Pioneer</i> magazine, which has been in publication for 46 years, has since undergone many changes in design as well as content. Today, there is even a digital version to complement the print edition.<br><br>
 
 	
 	</span>
