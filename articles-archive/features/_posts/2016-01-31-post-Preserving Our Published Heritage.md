@@ -82,12 +82,41 @@ The National Library launched an exhibition of its Legal Deposit Collection on 3
 what matters occupied the minds of Singaporeans over the years. Here are some highlights.<br><br>
 	1. <i>Her World</i>, July 1960<br>
 Launched in July 1960 by the Straits Times Press (now known as Singapore Press Holdings), <i>Her World</i>, which centres on fashion and beauty, women’s issues and lifestyle trends, has since established itself as the most popular women’s magazine in Singapore. Topics of interest in the debut issue discussed “family planning in Singapore” and “what my country means to me”, which supported the various national campaigns launched at the time. Fast forward 55 years: the idea of family planning in Singapore has evolved into quite a different picture today. It is also interesting to see how fashion, hairstyles and makeup along with subjects such as sexual mores and attitudes to work have evolved over the years.<br><br>
-	2 <i>Malayan Penfriends</i>, September 1961
+	2. <i>Malayan Penfriends</i>, September 1961<br>
 Before the advent of email, Whatsapp and social networking sites like Facebook, Instagram and Twitter, there was snail mail. The allure of making friends through letter-writing – with the possibility of friendship turning into romance – made pen pal correspondence one of the popular pastimes among youths in Singapore and Malaya. <i>Malayan Penfriends</i> is a Chinese publication featuring essays and compositions, as well as friendship columns with photos and addresses of young people 
 seeking pen pals.<br><br>
-	3 <i>National Pioneer</i>, 9 August 1969
+	3. <i>National Pioneer</i>, 9 August 1969<br>
 	The inaugural issue of the Singapore Armed Forces’ (SAF) <i>Pioneer</i> magazine was published as the <i>National Pioneer</i> on National Day in 1969. The foreword by then Minister for Defence Lim Kim San made reference to the “few thousand young men and women in our Armed Forces”, and said the bulletin would help members of the Armed Forces to be “enlightened and entertained”. <i>Pioneer</i> magazine, which has been in publication for 46 years, has since undergone many changes in design as well as content. Today, there is even a digital version to complement the print edition.<br><br>
-
+	4. <i>Farm School</i>, 1967<br>
+It’s hard to imagine this today, but 50 years ago, Singapore had its own residential Farm School on Sembawang Road. It was set up in August 1965 as part of the Primary Production Department’s 
+rural education programme for farmers and fishermen as well as teachers-in training from the Ministry of Education. These teachers were expected to teach in rural vocational schools that included farming subjects in the curriculum. The publication provides a glimpse of life as a stay-in student at the Farm School. <br><br>
+5. <i>50,000 Up: Homes for the People – A Review of Public Housing</i>, 1965<br>
+This glowing report card for the Housing and Development Board (HDB) in 1965 noted that over 50,000 homes had been built for Singaporeans since the board was established in 1960. This was more than double the total achieved by HDB’s predecessor, the Singapore Improvement Trust (SIT), over a 30-year period. 
+The publication also includes an opening 
+message by then Prime Minister Lee 
+Kuan Yew. In his trademark style, Lee 
+expressed his disdain at the British for 
+constructing imposing buildings and 
+monuments “to impress the multitude 
+with their superiority and to overawe 
+their subjects into obedience” when 
+Singapore was under colonial rule.
+6 Ceremony of Laying the Foundation 
+Stone of the Clyde Terrace Market at 
+Singapore, the 29th Day of March, 1873
+The oldest publication in the collection 
+is a legacy from the Raffles Library: a 
+programme booklet commemorating 
+the foundation stone-laying ceremony 
+of Clyde Terrace Market on 29 March 
+1873. The market was located on Beach 
+Road and built over the sea to facilitate 
+unloading of goods from tongkang (a 
+type of light wooden boat) at high tide. 
+This historical market was demolished 
+in 1983 to make way for The Gateway, a 
+set of two glass-and-steel towers that 
+now stand on its site.
 	
 	</span>
 
