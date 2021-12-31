@@ -78,7 +78,7 @@ description: ""
 **[When Singapore Was Cinca Pula](/vol-11/issue-4/jan-mar-2016/india-tercera-nuova-tavola)**<br>
 *India Tercera Nuova Tavola*
 
-**A Chinese Classic in Baba Malay**<br>
+**[A Chinese Classic in Baba Malay](/vol-11/issue-4/jan-mar-2016/chrita-dahulu-kala-sam-kok)**<br>
 *Chrita Dahulu-kala, Namanya Sam Kok, Atau, Tiga Negri Ber-prang: Siok, Gwi, Sama Gor di Jaman “Han Teow” [Ancient Story Entitled Sanguo or the Three Kingdoms at War: Shu, Wei and Wu During the Han Dynasty]*
 
 **[A Singapore-made Qur’an](/vol-11/issue-4/jan-mar-2016/singapore-lithographed-quran)**<br>
@@ -108,13 +108,13 @@ description: ""
 **[A Handy Cookbook](/vol-11/issue-4/jan-mar-2016/my-favourite-recipes-ellice-handy)**<br>
 *My Favourite Recipes*
 
-**A Glimpse of 1930s Singapore**<br>
+**[A Glimpse of 1930s Singapore](/vol-11/issue-4/jan-mar-2016/a-glimpse-of-1930s-singapore)**<br>
 *The Lights of Singapore*
 
-**About Law and Order**<br>
+**[About Law and Order](/vol-11/issue-4/jan-mar-2016/about-law-and-order)**<br>
 *The Law of the Straits Settlements: A Commentary*
 
-**A Magazine for the Straits Chinese**<br>
+**[A Magazine for the Straits Chinese](/vol-11/issue-4/jan-mar-2016/magazine-for-straits-chinese)**<br>
 *The Straits Chinese Magazine: A Quarterly Journal of Oriental and Occidental Culture*
 
 **[Through the Eye Glass](/vol-11/issue-4/jan-mar-2016/through-the-eye-glass)**<br>
