@@ -117,10 +117,10 @@ description: ""
 **A Magazine for the Straits Chinese**<br>
 *The Straits Chinese Magazine: A Quarterly Journal of Oriental and Occidental Culture*
 
-**Through the Eye Glass**<br>
+**[Through the Eye Glass](/vol-11/issue-4/jan-mar-2016/through-the-eye-glass)**<br>
 *Cermin Mata Bagi Segala Orang Yang Menuntut Pengetahuan (An Eye Glass for All Who Seek Knowledge)*
 
-**The Pulse of Malayan Literature**<br>
+**[The Pulse of Malayan Literature](/vol-11/issue-4/jan-mar-2016/pulse-of-malayan-literature)**<br>
 *Pulse*
 
 **[Early History of the Chinese Community](/vol-11/issue-4/jan-mar-2016/history-of-chinese-community)**<br>
@@ -132,7 +132,7 @@ description: ""
 **[Singapore in Sepia](/vol-11/issue-4/jan-mar-2016/fotoalbum-singapur-gustave-richard-lambert)**<br>
 *Fotoalbum Singapur*
 
-**The Gospel in Chinese**<br>
+**[The Gospel in Chinese](/vol-11/issue-4/jan-mar-2016/the-gospel-in-chinese)**<br>
 *The Perfect Man’s Model* (全人矩矱)
 
 **[The First Public Library](/vol-11/issue-4/jan-mar-2016/the-first-public-library)**<br>
