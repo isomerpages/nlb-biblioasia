@@ -90,11 +90,11 @@ seeking pen pals.<br><br>
 	4. <i>Farm School</i>, 1967<br>
 It’s hard to imagine this today, but 50 years ago, Singapore had its own residential Farm School on Sembawang Road. It was set up in August 1965 as part of the Primary Production Department’s 
 rural education programme for farmers and fishermen as well as teachers-in training from the Ministry of Education. These teachers were expected to teach in rural vocational schools that included farming subjects in the curriculum. The publication provides a glimpse of life as a stay-in student at the Farm School. <br><br>
-5. <i>50,000 Up: Homes for the People – A Review of Public Housing</i>, 1965<br>
+	5. <i>50,000 Up: Homes for the People – A Review of Public Housing</i>, 1965<br>
 This glowing report card for the Housing and Development Board (HDB) in 1965 noted that over 50,000 homes had been built for Singaporeans since the board was established in 1960. This was more than double the total achieved by HDB’s predecessor, the Singapore Improvement Trust (SIT), over a 30-year period. 
 The publication also includes an opening message by then Prime Minister Lee Kuan Yew. In his trademark style, Lee expressed his disdain at the British for constructing imposing buildings and 
 monuments “to impress the multitude with their superiority and to overawe their subjects into obedience” when Singapore was under colonial rule.<br><br>
-6. <i>Ceremony of Laying the Foundation Stone of the Clyde Terrace Market at Singapore, the 29th Day of March</i>, 1873
+	6. <i>Ceremony of Laying the Foundation Stone of the Clyde Terrace Market at Singapore, the 29th Day of March</i>, 1873
 The oldest publication in the collection is a legacy from the Raffles Library: a programme booklet commemorating the foundation stone-laying ceremony of Clyde Terrace Market on 29 March 1873. The market was located on Beach Road and built over the sea to facilitate	unloading of goods from <i>tongkang</i> (a type of light wooden boat) at high tide. This historical market was demolished in 1983 to make way for The Gateway, a set of two glass-and-steel towers that now stand on its site.
 	<br>
 	<img src="/images/vol-11-issue-4/published-heritage/c.JPG">
