@@ -144,8 +144,8 @@ The House of Teo Hoo Lye was acquired by Mrs Loke Yew (née Lim Cheng Kim) in 19
 
 #### **NOTES**
 
-[^1]: “Aw, the Tiger, is Dead,” _Straits Times_, 6 September 1954, 1. (From NewspaperSG)
-[^2]: “Straits New Year Honours,” Singapore Free Press, 21 March 1918, 7. (From NewspaperSG); Song Ong Siang, _One Hundred Years’ History of the Chinese in Singapore [electronic resource]: The Annotated Edition_ (Singapore: World Scientific Publishing Company, 2020) (From NLB OverDrive); “About Life in Malaysia…,” _Straits Times_, 15 December 1963, 19. (From NewspaperSG)
+[^1]: “[Aw, the Tiger, is Dead](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19540906-1.2.9),” _Straits Times_, 6 September 1954, 1. (From NewspaperSG)
+[^2]: “[Straits New Year Honours](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19180321-1.2.49),” Singapore Free Press, 21 March 1918, 7. (From NewspaperSG); Song Ong Siang, [_One Hundred Years’ History of the Chinese in Singapore [electronic resource]: The Annotated Edition_](https://www.overdrive.com/media/5400193/one-hundred-years-history-of-the-chinese-in-singapore) (Singapore: World Scientific Publishing Company, 2020) (From NLB OverDrive); “[About Life in Malaysia…](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19631215-1.2.57),” _Straits Times_, 15 December 1963, 19. (From NewspaperSG)
 [^3]: Comparing two maps: Survey Department, Singapore, _Land Divisions at Meyer Road, Tanjong Katong Road, Amber Road and its Surroundings_, 18 April 1979, Map (From National Archives of Singapore, Accession no. SP005936); Survey Department Singapore, _Singapore Road Map. Singapore South East_, 1984, Map (From National Archives of Singapore, Accession no. SP006435); Peter Lee and Jennifer Chen, _Rumah Baba: Life in a Peranakan House_ (Singapore: National Heritage Board, 1998), 31. (From National Library, Singapore, Call no. RSING 305.89510595 LEE)
 [^4]: Alvin Chua, “Lee Cheng Yan,” in _Singapore Infopedia_, National Library Board Singapore. Article published 2009.
 [^5]: Lee and Chen, Rumah Baba, 27. 
