@@ -145,11 +145,11 @@ The House of Teo Hoo Lye was acquired by Mrs Loke Yew (née Lim Cheng Kim) in 19
 #### **NOTES**
 
 [^1]: “[Aw, the Tiger, is Dead](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19540906-1.2.9),” _Straits Times_, 6 September 1954, 1. (From NewspaperSG)
-[^2]: “[Straits New Year Honours](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19180321-1.2.49),” Singapore Free Press, 21 March 1918, 7. (From NewspaperSG); Song Ong Siang, [_One Hundred Years’ History of the Chinese in Singapore [electronic resource]: The Annotated Edition_](https://www.overdrive.com/media/5400193/one-hundred-years-history-of-the-chinese-in-singapore) (Singapore: World Scientific Publishing Company, 2020) (From NLB OverDrive); “[About Life in Malaysia…](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19631215-1.2.57),” _Straits Times_, 15 December 1963, 19. (From NewspaperSG)
+[^2]: “[Straits New Year Honours](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19180321-1.2.49),” _Singapore Free Press_, 21 March 1918, 7. (From NewspaperSG); Song Ong Siang, [_One Hundred Years’ History of the Chinese in Singapore [electronic resource]: The Annotated Edition_](https://www.overdrive.com/media/5400193/one-hundred-years-history-of-the-chinese-in-singapore) (Singapore: World Scientific Publishing Company, 2020) (From NLB OverDrive); “[About Life in Malaysia…](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19631215-1.2.57),” _Straits Times_, 15 December 1963, 19. (From NewspaperSG)
 [^3]: Comparing two maps: Survey Department, Singapore, _Land Divisions at Meyer Road, Tanjong Katong Road, Amber Road and its Surroundings_, 18 April 1979, Map (From National Archives of Singapore, Accession no. SP005936); Survey Department Singapore, _Singapore Road Map. Singapore South East_, 1984, Map (From National Archives of Singapore, Accession no. SP006435); Peter Lee and Jennifer Chen, _Rumah Baba: Life in a Peranakan House_ (Singapore: National Heritage Board, 1998), 31. (From National Library, Singapore, Call no. RSING 305.89510595 LEE)
 [^4]: Alvin Chua, “Lee Cheng Yan,” in _Singapore Infopedia_, National Library Board Singapore. Article published 2009.
-[^5]: Lee and Chen, Rumah Baba, 27. 
-[^6]: Lee and Chen, Rumah Baba, 27. 
+[^5]: Lee and Chen, _Rumah Baba_, 27. 
+[^6]: Lee and Chen, _Rumah Baba_, 27. 
 [^7]: Lee Kip Lin, _The Singapore House, 1819–1942_ (Singapore: Times Editions, 1988), 193. (From National Library, Singapore, Call no. RSING 728.095957 LEE); Lee and Chen, _Rumah Baba_, 31.
 [^8]: “Mrs Lee Choon Guan,” _Straits Times_, 19 December 1931, 12. (From NewspaperSG) 
 [^9]: Kwa Chong Guan, et al., _Great Peranakans: Fifty Remarkable Lives_, ed. Alan Chong (Singapore: Asian Civilisations Museum, 2015), 134. (From National Library, Singapore, Call no. RSING 305.895105957 GRE)
@@ -165,6 +165,6 @@ The House of Teo Hoo Lye was acquired by Mrs Loke Yew (née Lim Cheng Kim) in 19
 [^19]: “Cathay Building – Singapore’s First Skyscraper Is Opened,” in _HistorySG_. National Library Board Singapore. Article published April 2015. 
 [^20]: “Teo Hoo Lye Institution,” _Malayan Saturday Post_, 26 October 1929, 20. (From NewspaperSG)
 [^21]: “Page 4 Advertisements Column 3,” _Malaya Tribune_, 19 December 1935, 4. (From NewspaperSG)
-[^22]: “Headmaster Sued,” _Straits Times_, 24 February 1926, 10; “School in Peril?”_ Malaya Tribune_, 5 December 1928, 7; “Hard-working But Unfortunate,” _Straits Times_, 4 November 1933, 13. (From NewspaperSG)
+[^22]: “Headmaster Sued,” _Straits Times_, 24 February 1926, 10; “School in Peril?”_Malaya Tribune_, 5 December 1928, 7; “Hard-working But Unfortunate,” _Straits Times_, 4 November 1933, 13. (From NewspaperSG)
 [^23]: “Mr Teo Hoo Lye Dies at 80.”
 [^24]: “As I was Saying,” _Singapore Free Press_, 29 November 1933, 8. (From NewspaperSG); Davison, _Swan & Maclaren_, 244. 
