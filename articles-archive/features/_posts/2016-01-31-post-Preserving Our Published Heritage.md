@@ -107,6 +107,6 @@ Retrieved from UNESCO website.
 History of National Library Singapore. Retrieved from 
 National Library Board website.
 
-Ivy Lee is a Manager with the National Library Office. She 
+**Ivy Lee** is a Manager with the National Library Office. She 
 manages the statutory functions of the National Library of 
 Singapore, including its Legal Deposit system.
