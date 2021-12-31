@@ -5,3 +5,4 @@ date: 2016-01-31
 layout: post
 description: ""
 ---
+#### The nation’s published heritage is preserved by the National Library for posterity. **Ivy Lee** reveals the aim of the Legal Deposit and shares highlights from the collection.
