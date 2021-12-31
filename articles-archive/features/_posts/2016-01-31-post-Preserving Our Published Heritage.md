@@ -30,6 +30,10 @@ The enactment of the Raffles National Library Ordinance, which came into force o
 the history of the National Library. The ordinance mandated the National Library as the depository library for all materials published and printed in Singapore, a function that was continued 
 under the Printers and Publishers Act in 1970 and subsequently under the National Library Board Act in 1995.
 
+<img src="/images/vol-11-issue-4/published-heritage/h.JPG">
+<div style="background-color: white;">Viewing the displays of the Legal Deposit Collection are (from the left) Chan Heng Kee, Chairman, National Library Board; Alicia Yeo, Assistant 
+Director, Collections & Services, National Library; Dr Yaacob Ibrahim, Minister for Communications and Information; and Elaine Ng, Chief Executive Officer, National Library Board. <i>All rights reserved, National Library Board, Singapore</i></div>
+
 #### **Legal Deposit Today**
 
 With the support of local publishers and writers, the National Library has been able to build up a robust Legal Deposit Collection comprising more than a million items over the years. 
