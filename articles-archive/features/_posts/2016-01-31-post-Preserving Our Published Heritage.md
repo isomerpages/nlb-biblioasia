@@ -53,4 +53,15 @@ In the Internet age, many libraries in the world have revised their Legal Deposi
 
 Although the National Library Board Act of Singapore has yet to make the deposit of electronic publications and web content mandatory, publishers and producers of such content are strongly encouraged to deposit their electronic materials with the National Library for preservation. To date, the National Library has received more than 1,000 electronic publications deposited voluntarily by publishers. The full text of these materials is available for onsite access via the dedicated BookSG terminal on level 11 of the Lee Kong Chian Reference Library at the National Library Building.
 
-Selected highlights of the Legal Deposit Collection are currently on display at level 11 of the National Library Building until 29 February 2016. 
+Selected highlights of the Legal Deposit Collection are currently on display at level 11 of the National Library Building until 29 February 2016.
+
+#### **REFERENCES**
+1. Larivière, J. (2000). Guidelines for legal deposit legislation. 
+Retrieved from UNESCO website.
+2. National Library Board Singapore. (2015, November 4). 
+History of National Library Singapore. Retrieved from 
+National Library Board website.
+
+Ivy Lee is a Manager with the National Library Office. She 
+manages the statutory functions of the National Library of 
+Singapore, including its Legal Deposit system.
