@@ -77,4 +77,4 @@ Today, the school that has been renamed Raffles Institution has churned out some
 
 [^12]:[Wijeysingha](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5662156), 1989, pp. 57–64.
 
-[^13]:Buckley, C. B. (1984). *An anecdotal history of old times in Singapore 1819–1867* (p. 139). Singapore: Oxford University Press. (Call no.: RSING 959.57 BUC-[HIS])
+[^13]:Buckley, C. B. (1984). *[An anecdotal history of old times in Singapore 1819–1867](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082239)* (p. 139). Singapore: Oxford University Press. (Call no.: RSING 959.57 BUC-[HIS])
