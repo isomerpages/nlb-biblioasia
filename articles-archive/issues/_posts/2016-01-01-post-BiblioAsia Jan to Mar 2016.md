@@ -7,6 +7,8 @@ description: ""
 ---
 ![Alt text for image on Isomer site](/images/vol-11-issue-4/ba11-4-1.jpg)
 
+**[Director's Note](/vol-11/issue-4/jan-mar-2016/directors-note)**
+
 **[The Rare Materials Collection](/vol-11/issue-4/jan-mar-2016/rare-materials)**
 
 **[A Tribute Fit for a Prince](/vol-11/issue-4/jan-mar-2016/alfred-duke-edinburgh)**<br>
@@ -54,25 +56,25 @@ description: ""
 **[A War Crimes Trials Snapshot](/vol-11/issue-4/jan-mar-2016/photographs-singapore-war-crimes-trial)**<br>
 *Photographs on the Opening of the War Crimes Trials in Singapore, 21 January 1946*
 
-**Propaganda Paper**<br>
+**[Propaganda Paper](/vol-11/issue-4/jan-mar-2016/syonan-shimbun)**<br>
 *The Syonan Shimbun*
 
-**Singapore’s First School**<br>
+**[Singapore’s First School](/vol-11/issue-4/jan-mar-2016/singapore-institution-school-stamford-raffles)**<br>
 *Formation of the Singapore Institution, A.D. 1823*
 
-**Birds of the Malay Peninsula**<br>
+**[Birds of the Malay Peninsula](/vol-11/issue-4/jan-mar-2016/birds-malay-peninsula)**<br>
 *The Birds of the Malay Peninsula: A General Account of the Birds Inhabiting the Region from the Isthmus of Kra to Singapore with the Adjacent Islands*
 
-**Legends of the Malay Kings**<br>
+**[Legends of the Malay Kings](/vol-11/issue-4/jan-mar-2016/sejarah-malayu-malay-annals)**<br>
 *Malay Annals [Sejarah Melayu]*
 
-**A Bona Fide History Book**<br>
+**[A Bona Fide History Book](/vol-11/issue-4/jan-mar-2016/handbook-singapore-george-murray-reith)**<br>
 *Handbook to Singapore, with Map and a Plan of the Botanical Gardens*
 
-**A Battle Captured in a Map**<br>
+**[A Battle Captured in a Map](/vol-11/issue-4/jan-mar-2016/contrafactur-battle-dutch-portuguese-de-bry)**<br>
 *Contrafactur des Scharmutz els der Hollender wider die Portigesen in dem Flus Balusabar [Chart of a Skirmish between the Dutch and the Portuguese in the Balusabar River]*
 
-**A Poetic Travelogue in Tamil**<br>
+**[A Poetic Travelogue in Tamil](/vol-11/issue-4/jan-mar-2016/travelogue-tamil-athivinotha-kuthirai-panthaiya-lavani)**<br>
 *Athivinotha Kuthirai Panthaiya Lavani* (அதிவினோத குதிரை பந்தைய லாவணி)
 
 **[When Singapore Was Cinca Pula](/vol-11/issue-4/jan-mar-2016/india-tercera-nuova-tavola)**<br>
