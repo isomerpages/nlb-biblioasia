@@ -176,3 +176,5 @@ In the later stage of her life, Siti Radhiah, true to her spirit of helping and 
 [^29]: “[Around Malaya](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/comrade19461104-1.2.6),” *Comrade*, 4 November 1946, 4. (From NewspaperSG)
 
 [^30]: Siti Radhiah Mohamed Saleh, [*Memilih Selera*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200055900), [n.p.]. [Note: English translation by author.]
+
+[^31]: N.A. Canton, J.L. Rosedale and J.P. Morris, [*Chemical Analyses of the Foods in Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4979976) (Singapore: Authority, 1940), 161–163, 166. (From National Library, Singapore, Call no. RRARE 664.07 CAN; Microfilm no. NL8059)
