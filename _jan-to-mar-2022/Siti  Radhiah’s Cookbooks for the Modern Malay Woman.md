@@ -124,4 +124,8 @@ In the later stage of her life, Siti Radhiah, true to her spirit of helping and 
 
 [^4]: Sundusia Rosdi, “[Harun Aminurrashid](https://biblioasia.nlb.gov.sg/files/pdf/BiblioAsia%20Jul%202007.pdf),” [*BiblioAsia*](https://biblioasia.nlb.gov.sg/all-issues/) 3, no. 2 (2007): 4–10. For more information about his time as a student and later a teacher at Sultan Idris Training College, see Abdullah Hussain, [*Harun Aminurrashid: Pembangkit Semangat Kebangsaan*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12815413) (Kuala Lumpur: Dewan Bahasa dan Pustaka, 2006), 20–39. (From National Library, Singapore, Call no. R 899.283 ABD)
 
-[^5]: Abdullah Hussain, [*Harun Aminurrashid: Pembangkit Semangat Kebangsaan*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12815413), 32. 
+[^5]: Abdullah Hussain, [*Harun Aminurrashid: Pembangkit Semangat Kebangsaan*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12815413), 32.
+
+[^6]: Sundusia Rosdi, “[Harun Aminurrashid](https://biblioasia.nlb.gov.sg/files/pdf/BiblioAsia%20Jul%202007.pdf),” 5–7.
+
+[^7]: 
