@@ -6,13 +6,13 @@ layout: post
 description: ""
 ---
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;">
-<b>Title:</b> <i><a href="https://eresources.nlb.gov.sg/printheritage/detail/a44042f8-e29e-4fea-8b2c-015ef96d90a4.aspx">Athivinotha Kuthirai Panthaiya Lavani</a> (அதிவின􀁋ோதக் குதிரைப் பந்தயலாவணி)</i>
+<b>Title:</b> <i><a href="https://eresources.nlb.gov.sg/printheritage/detail/a44042f8-e29e-4fea-8b2c-015ef96d90a4.aspx">Athivinotha Kuthirai Panthaiya Lavani</a> (அதிவினோதக் குதிரைப் பந்தய லாவணிி)</i>
 <br>
 <b>Author:</b> N. V. Rengasamy Dasan (இரங்கசாமி தாசன், நா. வ.)
 <br>
 <b>Year published:</b> 1893
 <br>
-<b>Publisher:</b> Denothaya Venthira Press (Singapore) (தனீ􀁋ோதய வே ந்திர சாலை ,சிங்கப்பூர்)
+<b>Publisher:</b> Denothaya Venthira Press (Singapore) (தீனோதய வேந்திரசாலை, சிங்கப்பூர்)
 <br>
 <b>Language:</b> Tamil
 <br>
@@ -59,7 +59,7 @@ The anthology was published by Denothaya Venthira Press, which was owned by Maka
 
 **NOTES**
 
-[^1]:திண்ணப்பன், சுப. (2014, May 2). சிங்கைத் தமிழர் வரலாற் றிலக்கி ய வளம். Retrieved from Thinmaith Tamil blogspot; Thinnappan, S.P. (2001). குதரைப் பந்தய லாவண. In கடிகாசலம் ந., & சிவசாமி சு [Na. Kaṭikācalam, & Ca. Civacāmi]. (Eds.). [அயலகத் தமிழ்க்கலை, இலக்கியம் – சமகாலச் செல்நெறிகள்](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11268439) [Ayalakat Tamil̲kkalai, ilakkiyam-camakālac celner̲ikaḷ] (p. 430). Cen̲n̲ai: Ulakat Tamil̲ārāycci Nir̲uvan̲am. (Call no.: Tamil RSING 894.81109 AYA)
+[^1]:திண்ணப்பன், சுப. (2014, May 2). சிங்கைத் தமிழர் வரலாற்றிலக்கிய வளம். Retrieved from Thinmaith Tamil blogspot; Thinnappan, S.P. (2001). குதிரைப் பந்தய லாவணி. In கடிகாசலம் ந., & சிவசாமி சு [Na. Kaṭikācalam, & Ca. Civacāmi]. (Eds.). [அயலகத் தமிழ்க்கலை, இலக்கியம் – சமகாலச் செல்நெறிகள்](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11268439) [Ayalakat Tamil̲kkalai, ilakkiyam-camakālac celner̲ikaḷ] (p. 430). Cen̲n̲ai: Ulakat Tamil̲ārāycci Nir̲uvan̲am. (Call no.: Tamil RSING 894.81109 AYA)
 
 [^2]:இரங்கசாமி தாசன், நா. வ [Iraṅkacāmi Tācan̲ , Nā. Va]. (1893). [அதிவினோதக் குதிரைப் பந்தய லாவண](https://eresources.nlb.gov.sg/printheritage/detail/a44042f8-e29e-4fea-8b2c-015ef96d90a4.aspx)ி [Ativin̲ ōtak kutiraip pantaya lāvaṇi] (p. 9). சிங்கப்பூர்: தீனோதயவேந்திர சாலை [Ciṅkappūr: s. n]. Retrieved from BookSG.
 
