@@ -1,7 +1,8 @@
 ---
 title: "Cartography and the Rise of Colonial Empires in Asia"
 permalink: /vol-17/issue-4/jan-to-mar-2022/asia-maps-cartography
-description: ""
+image: /images/vol-17-issue-4/cartography/1-Map3.jpg
+description: "Chia Jie Lin highlights interesting cartographic efforts from the National Library’s latest exhibition on Asian maps."
 ---
 
 #### **Chia Jie Lin** highlights interesting cartographic efforts from the National Library’s latest exhibition on Asian maps.
