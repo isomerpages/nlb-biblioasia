@@ -177,11 +177,11 @@ Willis, A.C. (1936). *[Willis’ Singapore guide](https://eresources.nlb.gov.sg/
 
 [^14]: [Legislative Council: Supply Bill 1875](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsobserver18741228-1.2.5). (1874, December 28). <i>Straits Observer (Singapore)</i>, p. 2. Retrieved from NewspaperSG.
 
-[^15]: *[Burkill](https://eservice.nlb.gov.sg/item_holding.aspx?bid=903181)*, Nov 1918, pp. 95–96.
+[^15]: [Burkill](https://eservice.nlb.gov.sg/item_holding.aspx?bid=903181), Nov 1918, pp. 95–96.
 
-[^16]: *[Burkill](https://eservice.nlb.gov.sg/item_holding.aspx?bid=903181)*, Nov 1918, pp. 96–97.
+[^16]: [Burkill](https://eservice.nlb.gov.sg/item_holding.aspx?bid=903181), Nov 1918, pp. 96–97.
 
-[^17]: *[Burkill](https://eservice.nlb.gov.sg/item_holding.aspx?bid=903181)*, Nov 1918, p. 97.
+[^17]: [Burkill](https://eservice.nlb.gov.sg/item_holding.aspx?bid=903181), Nov 1918, p. 97.
 
 [^18]: Ridley, H.N. (1906, December). The menagerie of the Botanic Gardens. <i>Journal of the Straits Branch of the Royal Asiatic Society</i>, 46, 133–194. p. 133. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
