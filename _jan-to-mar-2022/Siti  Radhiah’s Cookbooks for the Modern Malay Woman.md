@@ -8,7 +8,7 @@ description: ""
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/substation/substation.png)
 <div style="background-color: white;">The Substation on Armenian Street, 2006. It officially opened on 16 September 1990. Photo by Sengkang. <i>Retrieved from Wikimedia Commons.</i></div>
 
-The name Siti Radhiah Mohamed Saleh may not ring a bell to many, but she was one of the few female Malay cookbook authors whose works were produced and published in Singapore in the period between the end of World War II and independence in 1965.[^1] All in all, she wrote four cookbooks: *Hidangan Melayu* (*Malay Dishes*; 1948), *Hidangan Wanita Sekarang* (*Dishes for Today’s Women*; first printed in Jawi script in 1949 and reprinted three more times in Jawi before it was published in romanised Malay in 1961), Memilih Selera (Choosing Tastes; 1953) and Hidangan Kuih Moden (Modern Kuih Dishes; 1957).[^2] 
+The name Siti Radhiah Mohamed Saleh may not ring a bell to many, but she was one of the few female Malay cookbook authors whose works were produced and published in Singapore in the period between the end of World War II and independence in 1965.[^1] All in all, she wrote four cookbooks: *Hidangan Melayu* (*Malay Dishes*; 1948), *Hidangan Wanita Sekarang* (*Dishes for Today’s Women*; first printed in Jawi script in 1949 and reprinted three more times in Jawi before it was published in romanised Malay in 1961), *Memilih Selera* (*Choosing Tastes*; 1953) and *Hidangan Kuih Moden* (*Modern Kuih Dishes*; 1957).[^2] 
 
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/substation/KuoPaoKon.png)
@@ -19,7 +19,7 @@ These publications not only reflect Siti Radhiah’s modern attitude towards foo
 
 #### **Early Life**
 
-Siti Radhiah’s cookbooks do not provide much biographical information about her, and we do not know the year she was born. We can only surmise that she was likely born in Selangor. It is only in her second book, Hidangan Wanita Sekarang, that she was described as a graduate of Selangor Malay School, a former teacher of Kuang Malay School in Selangor and the wife of Harun Aminurrashid who was also a writer.
+Siti Radhiah’s cookbooks do not provide much biographical information about her, and we do not know the year she was born. We can only surmise that she was likely born in Selangor. It is only in her second book, *Hidangan Wanita Sekarang*, that she was described as a graduate of Selangor Malay School, a former teacher of Kuang Malay School in Selangor and the wife of Harun Aminurrashid who was also a writer.
 
 Much of the information about Siti Radhiah in this essay has been gleaned from the biographies about her husband Harun Aminurrashid – who gained a reputation over time as a renowned educator, writer, editor, publisher and political activist from Singapore – whom she married in the 1930s.[^3] Together, they had 15 children. Siti Radhiah was once a teacher. She likely chose this career because there were not many options available to Malay women at the time. Her father, Mohamed Saleh, was the principal of Serendah Malay School in Selangor. 
 
