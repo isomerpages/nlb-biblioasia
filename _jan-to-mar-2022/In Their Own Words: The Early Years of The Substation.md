@@ -205,8 +205,7 @@ Pao Kun felt very frustrated that the board was not unanimously supporting him. 
 [^2]: Tommy Koh, “Fare Thee Well: The Substation’s Legacy Will Endure”. *Straits Times*, 6 March 2021,
 https://www.straitstimes.com/opinion/fare-thee-well-the-substations-legacy-will-endure.
 
-[^3]: Koh, “Fare Thee Well: The Substation’s Legacy 
-Will Endure.”
+[^3]: Koh, “Fare Thee Well: The Substation’s Legacy Will Endure.”
 
 [^4]: Clarissa Oon, [*Theatre Life!; A History of Singapore English-language Theatre in Singapore Through The Straits Times (1958–2000)*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10520186) (Singapore: Singapore Press Holdings, 2001), 147. (From National Library, Singapore, Call no. RSING 792.095957 OON). See also Juliana Lim, “Arts Housing Scheme – $10 a Classroom a Month,” Singapore Arts Manager 1980s/90s: Memories and Musings, 24 May 2009, https://julianalim.wordpress.com/2009/05/24/arts-housing-scheme-10-a-classroom-a-month/.
 
