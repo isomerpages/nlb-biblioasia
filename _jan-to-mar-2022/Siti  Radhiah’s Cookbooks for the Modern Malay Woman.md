@@ -59,7 +59,7 @@ While acknowledging that women should be educated, an article by Rahmah Daud in 
 
 #### ** A Taste for Modern Kuih**
 
-Siti Radhiah’s second book, *Hidangan Wanita Sekarang*, and fourth book, Hidangan Kuih Moden, feature the recipes for a smorgasbord of delicacies which she referred to as kuih cara baru (“new-fashioned kuih”), kuih zaman sekarang (“kuih of this time and age”) and kuih moden (“modern kuih”). She explained that many of the 50 recipes in Hidangan Wanita Sekarang closely followed the recipes and cooking techniques of Western cuisine. 
+Siti Radhiah’s second book, *Hidangan Wanita Sekarang*, and fourth book, *Hidangan Kuih Moden*, feature the recipes for a smorgasbord of delicacies which she referred to as *kuih cara baru* (“new-fashioned *kuih*”), *kuih zaman sekarang* (“*kuih* of this time and age”) and *kuih moden* (“modern *kuih*”). She explained that many of the 50 recipes in *Hidangan Wanita Sekarang* closely followed the recipes and cooking techniques of Western cuisine. 
 
 Siti Radhiah saw how modern Western recipes – of assorted cakes, tarts, biscuits and puddings – could be adapted to fit into the traditional Malay culinary repertoire. She therefore encouraged her readers to increase the variety of kuih served in Malay homes especially during Hari Raya and other festive occasions. To Siti Radhiah, the modern Malay woman was not one who rejected kuih cara lama (“old-fashioned kuih”), but one who was not afraid to embrace new cooking styles so as to further develop her culinary know-how and expand her recipe collection. 
 
