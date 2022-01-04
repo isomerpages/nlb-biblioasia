@@ -149,3 +149,7 @@ In the later stage of her life, Siti Radhiah, true to her spirit of helping and 
 [^16]: Md. Sidin Ahmad Ishak, “Malay Book Publishing and Printing in Malaya and Singapore 1807–1949,” vol. 1, 175. See also Alicia Izharuddin, “The New Malay Woman: The Rise of the Modern Female Subject and Transnational Encounters in Postcolonial Malay Literature,” in [*The Southeast Asian Woman Writes Back: Gender, Identity and Nation in the Literatures of Brunei Darussalam, Malaysia, Singapore, Indonesia and the Philippines*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204473965), ed. Grace V.S. Chin and Kathrina Mohd Daud (Singapore: Springer, 2019), 57. (From National Library, Singapore, Call no. RSING 809.8959 SOU)
 
 [^17]: Siti Radhiah Mohamed Saleh, [*Memilih Selera*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200055900), [n.p.].
+
+[^18]: Alicia Izharuddin, “The New Malay Woman,” 57.
+
+[^19]: NLB has the 1962 edition. See Harun Aminurrashid, [*Melur Kuala Lumpur*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4183840) (Singapore: Royal Press, 1962). (From National Library, Singapore, Call no. RCLOS 899.2305 HAR).
