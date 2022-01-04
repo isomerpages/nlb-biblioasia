@@ -178,3 +178,7 @@ In the later stage of her life, Siti Radhiah, true to her spirit of helping and 
 [^30]: Siti Radhiah Mohamed Saleh, [*Memilih Selera*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200055900), [n.p.]. [Note: English translation by author.]
 
 [^31]: N.A. Canton, J.L. Rosedale and J.P. Morris, [*Chemical Analyses of the Foods in Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4979976) (Singapore: Authority, 1940), 161–163, 166. (From National Library, Singapore, Call no. RRARE 664.07 CAN; Microfilm no. NL8059)
+
+[^32]: Kartini Saparudin, “‘Colonisation of Everyday Life’ in the 1950s and 1960s”, 34–36. 
+
+[^33]: In the advertisements of the publication catalogue that the Royal Press ran in *Berita Harian* between 1961 and 1964, this cookbook was the only culinary literature on the publisher’s list despite the interest in cookery among Malay women. 
