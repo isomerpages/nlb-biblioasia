@@ -153,3 +153,5 @@ In the later stage of her life, Siti Radhiah, true to her spirit of helping and 
 [^18]: Alicia Izharuddin, “The New Malay Woman,” 57.
 
 [^19]: NLB has the 1962 edition. See Harun Aminurrashid, [*Melur Kuala Lumpur*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4183840) (Singapore: Royal Press, 1962). (From National Library, Singapore, Call no. RCLOS 899.2305 HAR).
+
+[^20]: Rahmah Daud, “Wanita Dengan Rumah Tangga,” in [*Hiboran 10 Tahun 1946–1956*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12611108), ed. Harun Aminurrashid (Singapore: Abdullah Ali, 1956), 81. (From National Library, Singapore, Call no. Malay RCLOS 059.9928 H)
