@@ -37,7 +37,7 @@ Encouraged by the success of her first cookbook, *Hidangan Melayu*, published in
 
 Siti Radhiah regarded cookery as an important body of knowledge that needed to be documented and disseminated. Attuned to the culinary trends of the period, she compiled recipes that were in vogue in the Malay world at the time. In the process of writing her cookbooks, she employed the same method of gathering information: by learning from women who were good cooks and knowledgeable about cookery, and trying out and testing their recipes. 
 
-For her third cookbook, Memilih Selera, published in 1953, Siti Radhiah obtained several of its 53 recipes from various Indonesian women. These women were most probably her friends.[^9]
+For her third cookbook, *Memilih Selera*, published in 1953, Siti Radhiah obtained several of its 53 recipes from various Indonesian women. These women were most probably her friends.[^9]
 
 In 1957, Siti Radhiah’s fourth cookbook, Hidangan Kuih Moden, was published by Geliga Limited.[^10] It was the first instalment in the publishing company’s Women’s Series. By then, Siti Radhiah had graduated from a cookery course taught by a “Miss Asmah”. It is likely that she incorporated what she had learnt from Miss Asmah into this cookbook, which features modern recipes accompanied by photographs of cakes and tarts taken by her instructor.[^11]
 
