@@ -81,7 +81,7 @@ This cookbook contains, for instance, several recipes that are of Dutch origin o
 
  *Hidangan Kuih Moden* also has many recipes for cakes with names such as “doll cake”, “butterfly cake”, “zig zag”, “double heart” and “magic cake”. An interesting recipe is for *Kek Hari Raya* (Hari Raya Cake), which is basically a butter cake with fondant poured and spread over it and then decorated with royal icing. But this has failed to become a Hari Raya staple. 
  
-Modern kuih was, however, not without its critics. In 1946, a Comrade correspondent using the pseudonym Orang Pelayaran (Sailor) lamented: “It is inevitable that in a cosmopolitan city like Singapore the Malays here have lost the art of making good old-fashioned Malay cakes and have taken to [W]estern cakes.” Comparing the situation in Singapore with that in Malaya, he wrote: “But in the Union, the art is not lost, though taste[s] may have changed.”[^29]
+Modern *kuih* was, however, not without its critics. In 1946, a Comrade correspondent using the pseudonym Orang Pelayaran (Sailor) lamented: “It is inevitable that in a cosmopolitan city like Singapore the Malays here have lost the art of making good old-fashioned Malay cakes and have taken to [W]estern cakes.” Comparing the situation in Singapore with that in Malaya, he wrote: “But in the Union, the art is not lost, though taste[s] may have changed.”[^29]
 
 #### **An Appetite for Culinary Diversity**
 
