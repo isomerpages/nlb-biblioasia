@@ -20,7 +20,7 @@ Much of the information about Siti Radhiah in this essay has been gleaned from t
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/cookbook/photo1.png)
 <div style="background-color: white;"> Siti Radhiah and her family lived in Brunei between 1939 and 1946. Her husband, Harun Aminurrashid, was transferred there by the British colonial authorities to take up the position of Superintendent of Education. <i>Image reproduced from Abdullah Hussain, Harun Aminurrashid: Pembangkit Semangat Kebangsaan (Kuala Lumpur: Dewan Bahasa dan Pustaka, 2006), 272. (From National Library, Singapore, Call no. Malay R 899.283 ABD).
-)</i></div>
+</i></div>
 
 In 1939, Siti Radhiah and her family moved to Brunei when Harun was transferred there as Superintendent of Education. He had in fact been banished there by the British colonial authorities for his nationalist teachings as a teacher at the Sultan Idris Training College in Tanjung Malim, Perak.[^4] While in Brunei, Siti Radhiah lost her fifth child, and gave birth to her sixth and seventh children.[^5]  
 
@@ -39,6 +39,9 @@ Siti Radhiah regarded cookery as an important body of knowledge that needed to b
 For her third cookbook, *Memilih Selera*, published in 1953, Siti Radhiah obtained several of its 53 recipes from various Indonesian women. These women were most probably her friends.[^9]
 
 In 1957, Siti Radhiah’s fourth cookbook, *Hidangan Kuih Moden*, was published by Geliga Limited.[^10] It was the first instalment in the publishing company’s Women’s Series. By then, Siti Radhiah had graduated from a cookery course taught by a “Miss Asmah”. It is likely that she incorporated what she had learnt from Miss Asmah into this cookbook, which features modern recipes accompanied by photographs of cakes and tarts taken by her instructor.[^11]
+
+![Alt text for image on Isomer site](/images/vol-17-issue-4/cookbook/chef.png)
+<div style="background-color: white;"> Siti Radhiah’s fourth cookbook, Hidangan Kuih Moden (Modern Kuih Dishes), was published in 1957. The cover of the cookbook reads Sajian Kuih2 Moden whereas its title page says Hidangan Kuih Moden. The different titles on the cover and title page might have been a printing error. Image reproduced from Siti Radhiah Mohamed Saleh, Hidangan Kuih Moden (Singapore: Geliga, 1957). (From National Library, Singapore, via PublicationSG).</i></div>
 
 Being able to compile recipes from various culinary traditions suggests that Siti Radhiah belonged to a cosmopolitan community of like-minded women who were eager to share their culinary knowledge and uplift each other. Between September 1955 and September 1958, only 20 percent of the market for Malay books came from Singapore, compared to 75 percent from the Federation of Malaya, and the remaining 5 percent from Sarawak, Brunei and British North Borneo.[^12]  Hence, Siti Radhiah’s cookbooks contributed to the corpus of works on domestic science and enabled knowledge about cookery to be shared publicly and to a wider audience, including those residing beyond the shores of Singapore. 
 
