@@ -162,4 +162,6 @@ In the later stage of her life, Siti Radhiah, true to her spirit of helping and 
 
 [^23]: It was reported in 1949 that four English and two Malay schools in Singapore were training more than 1,000 girls between the ages of 11 and 16 in domestic science. See “[Making School Girls Better Wives](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19490328-1.2.44),” *Singapore Free Press*, 28 March 1949, 5. (From NewspaperSG) 
 
-[^24]: 
+[^24]: Lenore Manderson, “The Shaping of the Kaum Ibu (Women’s Section) of the United Malays National Organisation,” Signs 3, no. 1 (Autumn 1977): 210–28. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)
+
+[^25]: Opened in 1947, Tenaga Murni at Onan Road was the first tailoring school for Malay women in Singapore. Recipes by its students were frequent features in *Fesyen*’s recipe column. Another of such school was Borneo Tailoring School located at 200 Joo Chiat Road. Despite its name, it was popular among Malay women who learned how to make Western cakes there. These schools also attracted students from other parts of British Malaya as well as Brunei. See “[Malay Women Take Up Tailoring & Embroidery](http://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19490127-1.2.53),” *Straits Times*, 27 January 1949, 5; “[*190 Girls Attend Tailoring School*](http://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19510314-1.2.47),” *Straits Times*, 14 March 1951, 4. (From NewspaperSG)
