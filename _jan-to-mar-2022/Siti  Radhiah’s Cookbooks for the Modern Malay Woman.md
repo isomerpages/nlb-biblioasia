@@ -112,3 +112,6 @@ In the later stage of her life, Siti Radhiah, true to her spirit of helping and 
 
 *The author thanks Dr Geoffrey Pakiam for his assistance and advice.*
 
+#### **NOTES**
+
+[^1]: Audrey Wong, ed., [*25 Years of The Substation: Reflections on Singapore’s First Independent Art Centre*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202144908) (Singapore: The Substation and Ethos Books, 2015), 12. (From National Library Singapore, Call no. RSING 700.95957 TWE)
