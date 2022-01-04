@@ -144,4 +144,4 @@ In the later stage of her life, Siti Radhiah, true to her spirit of helping and 
 
 [^14]: Before 1920, there were at least two female writers whose works were in the form of *syair* (traditional Malay poetry made up of four-line stanzas or quatrains). Three more female writers appeared on the scene in the 1920s, including Sophia Blackmore, a female missionary, who wrote *Pelajaran Melayu* (*Malay Lesson*) in 1923. See Md. Sidin Ahmad Ishak, “Malay Book Publishing and Printing in Malaya and Singapore 1807–1949” vol. 1, PhD. Diss., (University of Stirling, 1992), 132–133, 175–78.
 
-[^15]: 
+[^15]: Md. Sidin Ahmad Ishak, “Malay Book Publishing and Printing in Malaya and Singapore 1807–1949,” vol. 1, 213–216.
