@@ -15,3 +15,8 @@ The name Siti Radhiah Mohamed Saleh may not ring a bell to many, but she was one
 <div style="background-color: white;">The Substation’s founder, Kuo Pao Kun, 1990. <i>All Rights Reserved. Eric Foo Chee Meng 1979–2001. Courtesy of National Arts Council.
 </i></div>
 
+These publications not only reflect Siti Radhiah’s modern attitude towards food and her advocacy of women’s education and progress, they were also a medium through which she could voice the importance of enlarging the scope of Malay literature so that it would serve the needs of women who were interested in domestic science.
+
+#### **Early Life**
+
+Siti Radhiah’s cookbooks do not provide much biographical information about her, and we do not know the 
