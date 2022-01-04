@@ -106,5 +106,6 @@ This cookbook, therefore, had its purposes expanded – from a culinary, educati
 
 It is interesting to note that this other cookbook, titled Aneka Selera (All Kinds of Tastes), was written by Siti Radhiah’s daughter, Siti Haida Harun, and published in romanised Malay in 1965.[^37]  Siti Radhiah must have imparted her culinary skills and knowledge to her daughter. In the preface, Siti Haida acknowledges and credits her parents for the book: 
 
-“With encouragement from my mother, Siti Radhiah binti Mohd. Saleh the author of Hidangan Wanita Sekarang, Hidangan Melayu and other cookbooks, and encouragement from my father, Harun Aminurrashid, I have been able to write a cookbook from my experiences and the lessons [I took] on making kuih-muih and lauk-pauk. Hopefully, this book will be well received by our women.”38 
-In the later stage of her life, Siti Radhiah, true to her spirit of helping and learning from others, continued to share recipes through her submissions to Berita Harian’s column, Masakan Hari Ini (Today’s Dish). She died in 1983, three years before her husband’s passing in 1986.39
+“With encouragement from my mother, Siti Radhiah binti Mohd. Saleh the author of Hidangan Wanita Sekarang, Hidangan Melayu and other cookbooks, and encouragement from my father, Harun Aminurrashid, I have been able to write a cookbook from my experiences and the lessons [I took] on making kuih-muih and lauk-pauk. Hopefully, this book will be well received by our women.”[^38]
+
+In the later stage of her life, Siti Radhiah, true to her spirit of helping and learning from others, continued to share recipes through her submissions to Berita Harian’s column, Masakan Hari Ini (Today’s Dish). She died in 1983, three years before her husband’s passing in 1986.[^39]
