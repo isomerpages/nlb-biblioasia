@@ -1,7 +1,8 @@
 ---
 title: "Wong Din Haan: A Pioneer Educator"
 permalink: /vol-17/issue-4/jan-to-mar-2022/wong-din-haan
-description: ""
+image: /images/vol-17-issue-4/Wong-Din-Haan/Cover-WongDinHaan-R.jpg
+description: "Wong Din Haan not only founded what is believed to be the first girls’ school in Singapore, but she was also a champion for women’s rights."
 ---
 
 #### Wong Din Haan not only founded what is believed to be the first girls’ school in Singapore, but she was also a champion for women’s rights. **Patricia Lim** tells us more.
