@@ -157,3 +157,5 @@ In the later stage of her life, Siti Radhiah, true to her spirit of helping and 
 [^20]: Rahmah Daud, “Wanita Dengan Rumah Tangga,” in [*Hiboran 10 Tahun 1946–1956*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12611108), ed. Harun Aminurrashid (Singapore: Abdullah Ali, 1956), 81. (From National Library, Singapore, Call no. Malay RCLOS 059.9928 H)
 
 [^21]: “Soal Kuih-muih Melayu,” [*Fesyen*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12611145) (4 July 1954): 4. (From National Library, Singapore, Call no. RCLOS 391.005 F)
+
+[^22]: “[*Hygiene Among Malay Mothers*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19490111-1.2.69),” *Straits Times*, 11 January 1949, 5. (From NewspaperSG)
