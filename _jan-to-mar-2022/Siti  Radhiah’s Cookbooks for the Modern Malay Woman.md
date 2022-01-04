@@ -159,3 +159,7 @@ In the later stage of her life, Siti Radhiah, true to her spirit of helping and 
 [^21]: “Soal Kuih-muih Melayu,” [*Fesyen*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12611145) (4 July 1954): 4. (From National Library, Singapore, Call no. RCLOS 391.005 F)
 
 [^22]: “[*Hygiene Among Malay Mothers*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19490111-1.2.69),” *Straits Times*, 11 January 1949, 5. (From NewspaperSG)
+
+[^23]: It was reported in 1949 that four English and two Malay schools in Singapore were training more than 1,000 girls between the ages of 11 and 16 in domestic science. See “[Making School Girls Better Wives](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19490328-1.2.44),” *Singapore Free Press*, 28 March 1949, 5. (From NewspaperSG) 
+
+[^24]: 
