@@ -31,7 +31,7 @@ During this time, Siti Radhiah and her children found refuge with the Kedayan, o
 
 #### **A Mission to Spread Knowledge**
 
-Encouraged by the success of her first cookbook, Hidangan Melayu, published in 1948, Siti Radhiah went on to write a second one in 1949.[^7] In the preface she wrote: 
+Encouraged by the success of her first cookbook, *Hidangan Melayu*, published in 1948, Siti Radhiah went on to write a second one in 1949.[^7] In the preface she wrote: 
 
 “Since my first book titled ‘Hidangan Melayu’ was well received by my female readers, here I attempt to arrange and write a cookbook of kuih to develop our library. For the contents of this book, I have compiled [recipes for] new styles of kuih that I have tried, which were taught to me by my friends who are experts at making kuih, and found to be nice. Since I feel that it would be good to share this knowledge, I have compiled [the recipes of] as many as 50 kinds of kuih for my sisters who would love to try them too... Hopefully, [this cookbook] will become a bit of a service to my bangsa [nation], particularly to the women.”[^8]
 
