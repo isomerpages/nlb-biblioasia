@@ -141,3 +141,7 @@ In the later stage of her life, Siti Radhiah, true to her spirit of helping and 
 [^12]: Kartini Saparudin, “‘Colonisation of Everyday Life’ in the 1950s and 1960s: Towards the Malayan Dream,” (Master’s thesis, National University of Singapore, 2005), 16,  https://scholarbank.nus.edu.sg/handle/10635/15580.
 
 [^13]: Siti Radhiah, [*Memilih Selera*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200055900), [n.p.]. [Note: English translation by author.]
+
+[^14]: Before 1920, there were at least two female writers whose works were in the form of *syair* (traditional Malay poetry made up of four-line stanzas or quatrains). Three more female writers appeared on the scene in the 1920s, including Sophia Blackmore, a female missionary, who wrote *Pelajaran Melayu* (*Malay Lesson*) in 1923. See Md. Sidin Ahmad Ishak, “Malay Book Publishing and Printing in Malaya and Singapore 1807–1949” vol. 1, PhD. Diss., (University of Stirling, 1992), 132–133, 175–78.
+
+[^15]: 
