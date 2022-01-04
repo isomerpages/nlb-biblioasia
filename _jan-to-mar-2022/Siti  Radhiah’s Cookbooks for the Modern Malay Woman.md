@@ -138,3 +138,6 @@ In the later stage of her life, Siti Radhiah, true to her spirit of helping and 
 
 [^11]: Siti Radhiah Mohamed Saleh, [*Hidangan Kuih Moden*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200109401), [n.p.]. Geliga Limited also published *Sajian Pilihan* (*Selected Dishes*) as the second instalment of the *Women’s Series* in the same year due to public demand. The publisher noted that the authors, Hamimah Mohamed and Rashimah Mohamed, had passed their cookery course at one of the cookery schools in Singapore. See Hamimah Mohamed and Rashimah Mohamed, [*Sajian Pilihan*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12605422) (Singapore: Geliga, 1957). (From National Library, Singapore, Call no. Malay RCLOS 640.2 HAM)
 
+[^12]: Kartini Saparudin, “‘Colonisation of Everyday Life’ in the 1950s and 1960s: Towards the Malayan Dream,” (Master’s thesis, National University of Singapore, 2005), 16,  https://scholarbank.nus.edu.sg/handle/10635/15580.
+
+[^13]: Siti Radhiah, [*Memilih Selera*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200055900), [n.p.]. [Note: English translation by author.]
