@@ -98,9 +98,9 @@ It is interesting to note that the cover of *Memilih Selera* features a Western 
 
 #### **A Guide for Life**
 
-Due to its popularity, Hidangan Wanita Sekarang, Siti Radhiah’s second cookbook, first published in Jawi script in 1949, went through three reprints before it was published by the same publisher, Royal Press (also known as Pustaka Melayu), in romanised Malay script in 1961.[^33] This was done to cater to a wider audience which included non-Malay readers who were learning Malay but could not read Jawi. 
+Due to its popularity, *Hidangan Wanita Sekarang*, Siti Radhiah’s second cookbook, first published in Jawi script in 1949, went through three reprints before it was published by the same publisher, Royal Press (also known as Pustaka Melayu), in romanised Malay script in 1961.[^33] This was done to cater to a wider audience which included non-Malay readers who were learning Malay but could not read Jawi. 
 
-In December 1961, Royal Press advertised its publication catalogue of 15 new titles in the Berita Harian newspaper, encouraging teachers to place their orders for supplementary reading books for the following school year. The publisher also urged that these books “must be read and studied by every National School student and students of bangsa asing [foreign nations] who [were] learning the National language [Malay]”.[^34]
+In December 1961, Royal Press advertised its publication catalogue of 15 new titles in the *Berita Harian* newspaper, encouraging teachers to place their orders for supplementary reading books for the following school year. The publisher also urged that these books “must be read and studied by every National School student and students of bangsa asing [foreign nations] who [were] learning the National language [Malay]”.[^34]
 
 What is worth mentioning is that not only was Hidangan Wanita Sekarang the only culinary text in the series of new books – which aimed to “increase and widen knowledge as well as promote Malay literature with correct grammar”[^35]  – Siti Radhiah was the only female author in the list, which includes her husband Harun Aminurrashid and other Malay authors such as Abdul Ghani Hamid, Shaharom Husain and Muhammad Ariff Ahmad (who was listed as “Mas”). 
 
