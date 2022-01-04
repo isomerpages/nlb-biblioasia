@@ -202,8 +202,7 @@ Pao Kun felt very frustrated that the board was not unanimously supporting him. 
 
 [^1]: Audrey Wong, ed., [*25 Years of The Substation: Reflections on Singapore’s First Independent Art Centre*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202144908) (Singapore: The Substation and Ethos Books, 2015), 12. (From National Library Singapore, Call no. RSING 700.95957 TWE)
 
-[^2]: Tommy Koh, “Fare Thee Well: The Substation’s 
-Legacy Will Endure”. *Straits Times*, 6 March 2021,
+[^2]: Tommy Koh, “Fare Thee Well: The Substation’s Legacy Will Endure”. *Straits Times*, 6 March 2021,
 https://www.straitstimes.com/opinion/fare-thee-well-the-substations-legacy-will-endure.
 
 [^3]: Koh, “Fare Thee Well: The Substation’s Legacy 
