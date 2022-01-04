@@ -82,7 +82,10 @@ Unlike *Hidangan Wanita Sekarang*, which features a number of traditional Malay 
 This cookbook contains, for instance, several recipes that are of Dutch origin or have Dutch influences. In addition to *kuih lapis*, there are *kaasstengel*, a savoury cookie made with cheese, butter, wheat flour, egg yolks and baking powder, which is usually eaten during festive occasions in Indonesia today; and *speculaas*, a Dutch spiced cookie traditionally consumed just before or on Saint Nicholas Day. 
 
  *Hidangan Kuih Moden* also has many recipes for cakes with names such as “doll cake”, “butterfly cake”, “zig zag”, “double heart” and “magic cake”. An interesting recipe is for *Kek Hari Raya* (Hari Raya Cake), which is basically a butter cake with fondant poured and spread over it and then decorated with royal icing. But this has failed to become a Hari Raya staple. 
- 
+
+![Alt text for image on Isomer site](/images/vol-17-issue-4/cookbook/cakes.png)
+<div style="background-color: white;"> These are two of the cakes featured in <i>Hidangan Kuih Moden</i> (<i>Modern Kuih Dishes</i>). They are the Double Heart (top) and <i>Kek Dam</i> (Checkers Cake) (bottom). <i>Images reproduced from Siti Radhiah Mohamed Saleh, Hidangan Kuih Moden (Singapore: Geliga, 1957), 30, 44. (From National Library, Singapore, via PublicationSG).</i></div>
+
 Modern *kuih* was, however, not without its critics. In 1946, a *Comrade* correspondent using the pseudonym Orang Pelayaran (Sailor) lamented: “It is inevitable that in a cosmopolitan city like Singapore the Malays here have lost the art of making good old-fashioned Malay cakes and have taken to [W]estern cakes.” Comparing the situation in Singapore with that in Malaya, he wrote: “But in the Union, the art is not lost, though taste[s] may have changed.”[^29]
 
 #### **An Appetite for Culinary Diversity**
