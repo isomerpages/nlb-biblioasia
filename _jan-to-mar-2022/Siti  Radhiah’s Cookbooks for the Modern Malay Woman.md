@@ -85,8 +85,8 @@ Modern *kuih* was, however, not without its critics. In 1946, a *Comrade* corres
 
 #### **An Appetite for Culinary Diversity**
 
-Moving away from *kuih*, Siti Radhiah’s third cookbook, *Memilih Selera*, contains 53 recipes for *lauk-pauk* (*lauk* refers to a dish that is eaten with rice; *lauk-pauk* means an assortment of lauk). In the preface she wrote: “With the encouragement from my previous books, namely Hidangan Melayu and Hidangan Wanita Sekarang which have been celebrated by my Malay sisters,
- I have compiled a cookbook of lauk-pauk and I named it Memilih Selera. Hopefully, this book can be a companion to the sisters who would like to own it.”[^30]
+Moving away from *kuih*, Siti Radhiah’s third cookbook, *Memilih Selera*, contains 53 recipes for *lauk-pauk* (*lauk* refers to a dish that is eaten with rice; *lauk-pauk* means an assortment of *lauk*). In the preface she wrote: “With the encouragement from my previous books, namely *Hidangan Melayu* and *Hidangan Wanita Sekarang* which have been celebrated by my Malay sisters,
+ I have compiled a cookbook of *lauk-pauk* and I named it *Memilih Selera*. Hopefully, this book can be a companion to the sisters who would like to own it.”[^30]
  
 As mentioned earlier, several of these recipes were obtained from Indonesian women. Hailing from different parts of Indonesia such as Sumatra, Kalimantan and Java, these recipes make up a wide variety that include sate (satay, or grilled skewered meat), otak-otak (fish paste mixed with spices, wrapped in banana or coconut leaves and then grilled), soto (a soup comprising meat and vegetables), gulai and opor (both dishes are cooked in spices and coconut milk). Indonesian dishes with European influences such as bistik (beef steak), kroket (croquette) and pastel (a type of filled pastry like empanada and curry puff) are also featured. 
 
