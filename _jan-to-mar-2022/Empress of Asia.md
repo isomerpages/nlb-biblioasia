@@ -2,7 +2,7 @@
 title: "The Final Hours of the Empress of Asia"
 permalink: /vol-17/issue-4/jan-to-mar-2022/empress-asia
 image: /images/vol-17-issue-4/empress-of-asia/1_Smoke.jpg
-description: "The _Empress of Asia_ sank off Tuas in February 1942 while carrying troops to fight off the Japanese invasion. Dan Black recounts its final days."
+description: "The <i>Empress of Asia</i> sank off Tuas in February 1942 while carrying troops to fight off the Japanese invasion. Dan Black recounts its final days."
 ---
 #### The _Empress of Asia_ sank off Tuas in February 1942 while carrying troops to fight off the Japanese invasion. **Dan Black** recounts its final days.
 
