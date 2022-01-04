@@ -6,7 +6,7 @@ layout: post
 description: ""
 ---
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;">
-<b>Title:</b> <i><a href="https://eresources.nlb.gov.sg/printheritage/detail/a44042f8-e29e-4fea-8b2c-015ef96d90a4.aspx">Athivinotha Kuthirai Panthaiya Lavani</a> (அதிவினோதக் குதிரைப் பந்தய லாவணிி)</i>
+<b>Title:</b> <i><a href="https://eresources.nlb.gov.sg/printheritage/detail/a44042f8-e29e-4fea-8b2c-015ef96d90a4.aspx">Athivinotha Kuthirai Panthaiya Lavani</a> (அதிவினோதக் குதிரைப் பந்தய லாவணி)</i>
 <br>
 <b>Author:</b> N. V. Rengasamy Dasan (இரங்கசாமி தாசன், நா. வ.)
 <br>
