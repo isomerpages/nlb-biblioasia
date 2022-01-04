@@ -23,6 +23,9 @@ Siti Radhiah’s cookbooks do not provide much biographical information about he
 
 Much of the information about Siti Radhiah in this essay has been gleaned from the biographies about her husband Harun Aminurrashid – who gained a reputation over time as a renowned educator, writer, editor, publisher and political activist from Singapore – whom she married in the 1930s.[^3] Together, they had 15 children. Siti Radhiah was once a teacher. She likely chose this career because there were not many options available to Malay women at the time. Her father, Mohamed Saleh, was the principal of Serendah Malay School in Selangor. 
 
+![Alt text for image on Isomer site](/images/vol-17-issue-4/cookbook/photo1.png)
+<div style="background-color: white;"> Siti Radhiah’s second cookbook, <i>Hidangan Wanita Sekarang</i> (Dishes for Today’s Women), was first published in Jawi script in 1949. <i>Image reproduced from Siti Radhiah Mohamed Saleh, Hidangan Wanita Sekarang: Kuih-kuih Zaman Sekarang Untuk Hidangan Pada Ketika Minum Teh Petang Atau Pada Ketika Hari-hari Keramaian Atau Hari Besar (Singapore: Royal Press, 1949). (From National Library, Singapore, call no. RCLOS 641.5 RAD)</i></div>
+
 In 1939, Siti Radhiah and her family moved to Brunei when Harun was transferred there as Superintendent of Education. He had in fact been banished there by the British colonial authorities for his nationalist teachings as a teacher at the Sultan Idris Training College in Tanjung Malim, Perak.[^4] While in Brunei, Siti Radhiah lost her fifth child, and gave birth to her sixth and seventh children.[^5]  
 
 When the British returned upon Japan’s surrender in 1945, Siti Radhiah’s husband was imprisoned without trial by the British Military Administration, the interim administrator of British Malaya, for 86 days as he was accused of colluding with the Japanese.  
