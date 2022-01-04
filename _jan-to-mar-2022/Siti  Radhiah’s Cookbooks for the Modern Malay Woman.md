@@ -134,3 +134,6 @@ In the later stage of her life, Siti Radhiah, true to her spirit of helping and 
 
 [^9]: Siti Radhiah Mohamed Saleh, [*Memilih Selera*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200055900) (Singapore: HARMY, 1953). (From National Library, Singapore, via PublicationSG)
 
+[^10]: Siti Radhiah Mohamed Saleh, [*Hidangan Kuih Moden*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200109401) (Singapore: Geliga, 1957). (From National Library, Singapore, via PublicationSG)
+
+[^11]: 
