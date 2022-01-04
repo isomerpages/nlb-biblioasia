@@ -110,7 +110,7 @@ It is interesting to note that this other cookbook, titled *Aneka Selera* (*All 
 
 “With encouragement from my mother, Siti Radhiah binti Mohd. Saleh the author of *Hidangan Wanita Sekarang, Hidangan Melayu* and other cookbooks, and encouragement from my father, Harun Aminurrashid, I have been able to write a cookbook from my experiences and the lessons [I took] on making *kuih-muih* and *lauk-pauk*. Hopefully, this book will be well received by our women.”[^38]
 
-In the later stage of her life, Siti Radhiah, true to her spirit of helping and learning from others, continued to share recipes through her submissions to Berita Harian’s column, Masakan Hari Ini (Today’s Dish). She died in 1983, three years before her husband’s passing in 1986.[^39]
+In the later stage of her life, Siti Radhiah, true to her spirit of helping and learning from others, continued to share recipes through her submissions to *Berita Harian*’s column, Masakan Hari Ini (Today’s Dish). She died in 1983, three years before her husband’s passing in 1986.[^39]
 
 *The author thanks Dr Geoffrey Pakiam for his assistance and advice.*
 
