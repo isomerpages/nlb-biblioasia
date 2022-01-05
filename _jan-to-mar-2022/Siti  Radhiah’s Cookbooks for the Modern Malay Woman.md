@@ -122,6 +122,11 @@ In the later stage of her life, Siti Radhiah, true to her spirit of helping and 
 
 *The author thanks Dr Geoffrey Pakiam for his assistance and advice.*
 
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-17-issue-4/authors/Clarissa_Oon.png" style="width: 100px; height: 100px;" />
+	<b>Clarissa Oon</b>  is an arts writer and former journalist who heads Esplanade – Theatres on the Bay’s digital content and archives. She is working on a year-long series, PopLore, which celebrates and documents Singapore popular music and includes an exhibition on live music venues.</div>
+
 #### **NOTES**
 
 [^1]: Her name has also been spelled “Radiah” and “Radziah”, and her father’s name has also been spelled “Salleh”. For this essay, I have used the spelling “Radhiah” and “Saleh” from Siti Haida Harun’s cookbook. 
