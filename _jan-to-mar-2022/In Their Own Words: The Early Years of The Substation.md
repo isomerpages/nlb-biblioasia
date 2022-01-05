@@ -128,6 +128,7 @@ When Pao Kun opened The Substation, me and [music producer] Nazir Husain went to
 <div style="background-color: white;">Audiences and musicians at the Rock the Garden Endowment Fundraising Concert, organised by The Substation in its garden in 1996. <i>The Substation Collection, PictureSG, National Library, Singapore. </i></div>
 
 And true to his words, many years down the line, it wasn’t just non-mainstream music, you also had mainstream artists performing at The Substation. The genre, the categorisation of it for him, does not matter. What matters for him is that you have something to say, we have a space here, say it the way you want to say it. 
+
 The first gig that we organised, for the life of me I cannot remember who played, I cannot remember anything about it. But [Pao Kun] was there at the gig, and I think [he and] Professor Tommy Koh were sitting in the crowd in the garden, watching some thrash metal or heavy metal band.
 
 I dare say that from 1990 to 1991, we must at least have had four or five gigs, and that was more than all the gigs featuring local music in the 1980s. 
