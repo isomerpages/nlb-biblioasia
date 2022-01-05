@@ -124,7 +124,7 @@ In the later stage of her life, Siti Radhiah, true to her spirit of helping and 
 
 #### **NOTES**
 
-[^1]:  Her name has also been spelled “Radiah” and “Radziah”, and her father’s name has also been spelled “Salleh”. For this essay, I have used the spelling “Radhiah” and “Saleh” from Siti Haida Harun’s cookbook. 
+[^1]:  Siti Radhiah Mohamed Saleh was the only cookbook author based in Singapore between 1921 and 1949. She was mentioned in a catalogue compiled by Md. Sidin Ahmad Ishak for his dissertation. See Md. Sidin Ahmad Ishak, “Malay Book Publishing and Printing in Malaya and Singapore 1807–1949,” vol. 2, PhD. Diss., (University of Stirling, 1992), http://hdl.handle.net/1893/31182. Her name has also been spelled “Radiah” and “Radziah”, and her father’s name has also been spelled “Salleh”. For this essay, I have used the spelling “Radhiah” and “Saleh” from Siti Haida Harun’s cookbook. 
 
 [^2]: According to Christopher Tan, food writer and author of *The Way of Kueh* (2019), the word *kueh* or *kuih* refers to a diverse variety of sweet and savoury foods and snacks. *Kuih* is the formal spelling used in Malay today. I have used this spelling to replace all instances of *kueh* mentioned in the materials consulted for this essay, including Siti Radhiah’s cookbooks. See Christopher Tan, “[*The Way of Kueh: Savouring & Saving Singapore's Heritage Desserts*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203962932),” (Singapore: National Heritage Board, 2019), 2. (From National Library, Singapore, Call no. RSING 641.595957 TAN)
 
