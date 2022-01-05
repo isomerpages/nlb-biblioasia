@@ -12,11 +12,11 @@ layout: post
 
 [<b>My Memories of Reading</b>](/vol-10/issue-1/apr-jun-2014/reading-memory)<br>Each book is a memory, a reminder of the person we were when we read it. Here, <i>Claire Tham</i> shares with us the books she remembers – the ones that shaped her thoughts and her writing, and ultimately the person she became.
 
-[<b>A Journey Into Memory</b>](/vol-10/issue-1/apr-jun-2014/journey-memory)<br><i>Meira Chand</i> shares with us her experience writing A Different Sky; what it was like to study the memories of others – and what it was like to make them hers.
+[<b>A Journey into Memory</b>](/vol-10/issue-1/apr-jun-2014/journey-memory)<br><i>Meira Chand</i> shares with us her experience writing *A Different Sky*; what it was like to study the memories of others – and what it was like to make them hers.
 
 [<b>First Words:   Women Poets from  Singapore </b>](/vol-10/issue-1/apr-jun-2014/first-women-poets)<br>Poems written by Singapore’s women writers in the 1950s to 1970s depict both their personal and national struggles. <i>Gracie Lee</i> highlights these poets and the literary works that captured the sentiment of the times.
 
-[<b>Folk Tales From Asia</b>](/vol-10/issue-1/apr-jun-2014/folk-tales)<br>The Asian Children’s Literature collection at Woodlands Regional Library has some of the oldest and rarest children’s books from Asia. <i>Lynn Chua</i> highlights these treasures.
+[<b>Folk Tales from Asia</b>](/vol-10/issue-1/apr-jun-2014/folk-tales)<br>The Asian Children’s Literature collection at Woodlands Regional Library has some of the oldest and rarest children’s books from Asia. <i>Lynn Chua</i> highlights these treasures.
 
 [<b>Suratman Markasan: Malay Literature and Social Memory</b>](/vol-10/issue-1/apr-jun-2014/suratman)<br><i>Azhar Ibrahim</i> examines how the illustrious Malay writer Suratman Markasan uses literature as a means to propagate ideas and mark signposts in our social memory. 
 
