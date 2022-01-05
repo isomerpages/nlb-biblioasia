@@ -178,8 +178,7 @@ In the later stage of her life, Siti Radhiah, true to her spirit of helping and 
 
 [^26]: In 1950, the first batch of teachers completed their training in domestic science at the Domestic Science Centre for Malay Women Teachers at Kuala Kangsar, Perak. The teachers were then posted to schools to teach domestic science to students from Standards IV to VI. See “[Domestic Science Centre in Perak](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/indiandailymail19500612-1.2.60),” *Indian Daily Mail*, 12 June 1950, 4. (From NewspaperSG)
 
-[^27]: For more information about the different types of *kuih lapis*, see Christopher Tan, 
-“[Love is a Many-layered Thing](https://biblioasia.nlb.gov.sg/vol-16/issue-4/jan-mar-2021/kueh-lapis),” [*BiblioAsia*](https://biblioasia.nlb.gov.sg/all-issues/)( 16 no. 4 (Jan-Mar 2021). 
+[^27]: For more information about the different types of *kuih lapis*, see Christopher Tan, “[Love is a Many-layered Thing](https://biblioasia.nlb.gov.sg/vol-16/issue-4/jan-mar-2021/kueh-lapis),” [*BiblioAsia*](https://biblioasia.nlb.gov.sg/all-issues/)( 16 no. 4 (Jan-Mar 2021). 
 
 [^28]:  Interestingly, instead of using glutinous rice flour, Siti Radhiah’s recipes for *dodol* and *wajik* use potato instead. In the recipe for *dodol kentang* (*kentang* is potato in Malay) which involves making potato flour, she wrote: “Potatoes are sliced thinly, left to dry, pounded into a fine flour. Pandan leaves are pounded, squeezed with coconut [milk] then mixed with potato flour and sugar. Lastly, place into a wok, cook until it thickens.” To make *wajik kentang*, she wrote: “Potatoes are sliced thinly. [Coconut] is grated, mixed with sugar [then] cooked. [Then] add the potatoes and cook by stirring until [the mixture] dries. [After] it is cooked, add a bit of vanilla then remove [from stove].” See Siti Radhiah Mohamed Saleh, [*Hidangan Wanita Sekarang*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12804944), 9–10.
 
