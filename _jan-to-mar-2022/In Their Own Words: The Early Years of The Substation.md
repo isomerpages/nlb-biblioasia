@@ -66,7 +66,7 @@ This was a fresh concept, entirely his, and we were not going to co-own it, beca
 
 For the capital grant [to cover the building’s renovations], we went to the Ministry of Finance, and I remember they were very lukewarm. And to be frank, I was very disheartened, and I think Tisa was the one who pushed it further.
 
-![Alt text for image on Isomer site](/images/vol-17-issue-4/substation/mural2.png)
+![Alt text for image on Isomer site](/images/vol-17-issue-4/substation/murals.png)
 <div style="background-color: white;">Colourful murals at The Substation Garden. These were painted by local artists in the 1990s. <i>The Substation Collection, PictureSG, National Library, Singapore.
 </i></div>
 
