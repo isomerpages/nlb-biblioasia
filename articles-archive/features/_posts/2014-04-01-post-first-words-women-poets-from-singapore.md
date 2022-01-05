@@ -193,7 +193,7 @@ Brewster, A. (1989). *[Towards a semiotic of post-colonial discourse: University
 
 Chan, F. (1999). *[Silences may speak: The poetry of Lee Tzu Pheng](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9248106)* (pp. 11, 14, 38, 44–45, 52–55). Singapore: Times Books International. (Call no.: RSING 828.995957 CHA)
 
-Chung, Y.C. et al. (1974). *[Five takes: Poems](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081736)*. [Singapore]: University of Singapore Society. (Call no.: RSING 828.995957 FIV)
+Chung, Y.C. et al. (1974). *[Five takes: Poems](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081736)*. Singapore: University of Singapore Society. (Call no.: RSING 828.995957 FIV)
 
 College of Liberal Arts. (n.d.). <i>Geraldine Heng</i>. Retrieved from The University of Texas at Austin website.
 
@@ -233,7 +233,7 @@ Patke, R.S., & Philip. H. (2010). *[The Routledge concise history of Southeast A
 
 PEN America. (2013, April 24). <i>Four poems by Wong May</i>. Retrieved from PEN American website.
 
-Peters, A. (1972, November 5). [Geraldine wins yet another essay contest](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19721105-1.2.15.2). The Straits Times, p. 3. Retrieved from NewspaperSG.
+Peters, A. (1972, November 5). [Geraldine wins yet another essay contest](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19721105-1.2.15.2). <i>The Straits Times</i>, p. 3. Retrieved from NewspaperSG.
 
 Poetry Foundation. (2014). <i>Wong May</i>. Retrieved from Poetry Foundation website. 
 
@@ -247,7 +247,9 @@ Thumboo, E. (Ed.). (1976). *[The second tongue: An anthology of poetry from Mala
 
 Trope, L.R. (2009). Poetry on the brink: the indeterminate persona in the poetry of Lee Tzu Pheng (pp. 49–64). In E. Thumboo. (Ed.), *[Sharing borders: Studies in contemporary Singaporean-Malaysian literature](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13217811)*. Singapore: National Library Board in partnership with the National Arts Council (Call no.: RSING S820.9 SHA)
 
-University of Malaya in Singapore Literary Society. (1961– ). *[Focus](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4584806)*; Wong, M. (1969). *[A bad girl’s books of animals](https://eservice.nlb.gov.sg/item_holding.aspx?bid=31320)*. New York, Harcourt, Brace & World. (Call no.: RCLOS 828.99 WON)
+University of Malaya in Singapore Literary Society. (1961– ). *[Focus](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4584806)*. Singapore. (Call no.: 828.995957 F)
+
+Wong, M. (1969). *[A bad girl’s books of animals](https://eservice.nlb.gov.sg/item_holding.aspx?bid=31320)*. New York, Harcourt, Brace & World. (Call no.: RCLOS 828.99 WON)
 
 Wong, M. (1972). *[Reports](https://eservice.nlb.gov.sg/item_holding.aspx?bid=582270)*. New York, Harcourt Brace Jovanovich. (Call no.: RSING 828.99 WON)
 
@@ -270,9 +272,9 @@ Yap. A. (2011). *[Closing my eyes to listen](https://eservice.nlb.gov.sg/item_ho
 
 [^7]: Patke, R.S., & Philip. H. (2010). *[The Routledge concise history of Southeast Asian writing](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13215147)* (p. 123). London; New York: Routledge. (Call no.: RSING 895.9 PAT)
 
-[^8]: [Malayan spirit in her poems](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19581223-1.2.101.1). (1958, December 23). The Straits Times, p. 26. Retrieved from NewspaperSG.
+[^8]: [Malayan spirit in her poems](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19581223-1.2.101.1). (1958, December 23). <i>The Straits Times</i>, p. 26. Retrieved from NewspaperSG.
 
-[^9]: [Dedicated poetry to son who hates it](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19561208-1.2.45). (1956, December 8). The Straits Times, p. 20. Retrieved from NewspaperSG.
+[^9]: [Dedicated poetry to son who hates it](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19561208-1.2.45). (1956, December 8). <i>The Straits Times</i>, p. 20. Retrieved from NewspaperSG.
 
 [^10]: [Thumboo](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1113163), 1976, p. xxiii.
 
