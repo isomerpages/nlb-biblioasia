@@ -22,6 +22,6 @@ layout: post
 
 [<b>1980年代儿童小说中的"新加坡儿童"</b>](/vol-10/issue-1/apr-jun-2014/sg-children)<br> <i>叶若诗</i>为李光前参考图书馆之参考咨询馆员，专责中文艺术类馆藏。她毕业于北京大学中文系，后赴英国剑桥大学东方学系专攻中国现代文学，考获硕士学位。身为土生土长新加坡人的她，自小喜爱中华文学。
 
-[<b>Heat and Rain in the Poetry of Khoo Seok Wan</b>](/vol-10/issue-1/apr-jun-2014/heat-and-rain)<br>
+[<b>Heat and Rain in the Poetry of Khoo Seok Wan</b>](/vol-10/issue-1/apr-jun-2014/heat-and-rain)<br>One of Singapore’s most prolific literary pioneers, Khoo Seok Wan was a multi-talented Chinese scholar, poet, passionate newspaperman and ardent reformist. Ho Yi Kai considers the themes of heat and rain in Khoo’s works.
 
-[<b>Going Places: The Place Poetry of Singapore</b>](/vol-10/issue-1/apr-jun-2014/going-places)<br>
+[<b>Going Places: The Place Poetry of Singapore</b>](/vol-10/issue-1/apr-jun-2014/going-places)<br>In conjunction with its 10th anniversary celebrations, The Arts House presents Going Places, an audio poetry exhibitions featuring 45 recordings by some of Singapore’s most beloved poets on familiar places in Singapore.
