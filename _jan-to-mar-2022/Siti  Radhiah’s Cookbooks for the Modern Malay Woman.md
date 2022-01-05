@@ -125,7 +125,7 @@ In the later stage of her life, Siti Radhiah, true to her spirit of helping and 
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-17-issue-4/authors/Clarissa_Oon.png" style="width: 100px; height: 100px;" />
-	<b>Clarissa Oon</b>  is an arts writer and former journalist who heads Esplanade – Theatres on the Bay’s digital content and archives. She is working on a year-long series, PopLore, which celebrates and documents Singapore popular music and includes an exhibition on live music venues.</div>
+	<b>Toffa Abdul Wahed</b> is an Associate Librarian with the National Library, Singapore, and works with the Singapore and Southeast Asia collection. She was previously a research assistant (2018–20) for a project titled Culinary Biographies: Charting Singapore’s History Through Cooking and Consumption, funded by the National Heritage Board’s Heritage Research Grant. </div>
 
 #### **NOTES**
 
