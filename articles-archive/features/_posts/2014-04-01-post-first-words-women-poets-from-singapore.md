@@ -123,7 +123,7 @@ Geraldine Heng is an associate professor at the University of Texas, Austin. Her
 
 Nalla Tan and Rosaly Puthucheary were two prolific women writers in the 1970s. Though their works have not achieved critical standing, they are mentioned in this article for their contributions to the production of women writing.
 
-Born in Ipoh, Malaysia, Nalla Tan is better known for her ground-breaking work as a physician on sex education in schools and her advocacy work with women in Singapore. She has written two poetry collections, <i>Emerald Autumn and Other Poems</i> (1976) and <i>The Gift, and Other Poems</i> (1978). They were republished, along with new poems, in <i>The Collected Poems of Nalla Tan</i> in 1998. She also wrote prose, which met with greater success. Her short stories have been anthologised in <i>The Sun in Her Eyes</i> and <i>Singapore Short Stories Volume II</i>, and released as a collection as Hearts and Crosses (1989). Much of Tan’s poems draw on her life experiences growing up in Ipoh, and living in Singapore and the causes she championed. The following extract, from <i>“Coffee at Eleven”</i>, satires the world of kept mistresses.
+Born in Ipoh, Malaysia, Nalla Tan is better known for her ground-breaking work as a physician on sex education in schools and her advocacy work with women in Singapore. She has written two poetry collections, <i>Emerald Autumn and Other Poems</i> (1976) and <i>The Gift, and Other Poems</i> (1978). They were republished, along with new poems, in <i>The Collected Poems of Nalla Tan</i> in 1998. She also wrote prose, which met with greater success. Her short stories have been anthologised in <i>The Sun in Her Eyes</i> and <i>Singapore Short Stories Volume II</i>, and released as a collection as <i>Hearts and Crosses</i> (1989). Much of Tan’s poems draw on her life experiences growing up in Ipoh, and living in Singapore and the causes she championed. The following extract, from “Coffee at Eleven”, satires the world of kept mistresses.
 
 Coffee at eleven<br>Singapore mean time. <br>Leisured women, <br>Chauffeur driven <br>With nothing better to do <br>Than to sip hot coffee <br>Replacing the ‘mems’ <br>Of not so long ago
 
@@ -141,7 +141,7 @@ Nalla Tan wore many hats – doctor, academic, writer. She advocated a diverse r
 <img style="width:70%" src="/images/vol-10-issue-1/womenpoets/rosaly.jpg">
 Rosaly Puthucheary has been writing poetry since 1952. She obtained her doctorate in English Literature at the National University of Singapore. <i>Courtesy of Rosaly Puthucheary.</i></div>
 
-Rosaly Puthucheary, sister of former left-wing politician James Puthchucheary and Malaysian poet Susie Puthucheary, was born in Johor Bahru. She came to Singapore in 1974 and is now a retired teacher. To date, she has published six volumes of poetry <i>Pillow Your Dreams</i> (1978); <i>The Fragmented Ego</i> (1978); <i>Dance on His Doorstep</i> (1992); <i>Mirrored Images</i> (2008); <i>Footfalls in the Rain</i> (2008); <i>My Burning Hill</i> (2012); and two novels <i>The Tessellated Path</i> (2009) and <i>In the Wake of Terror</i> (2012). Her poems from the 1970s are short introspective pieces that dwell on the subject of romantic love and self-discovery. Poems, such as <i>“A Door-Mat”</i>, hint at her feminist sentiments.
+Rosaly Puthucheary, sister of former left-wing politician James Puthchucheary and Malaysian poet Susie Puthucheary, was born in Johor Bahru. She came to Singapore in 1974 and is now a retired teacher. To date, she has published six volumes of poetry <i>Pillow Your Dreams</i> (1978); <i>The Fragmented Ego</i> (1978); <i>Dance on His Doorstep</i> (1992); <i>Mirrored Images</i> (2008); <i>Footfalls in the Rain</i> (2008); <i>My Burning Hill</i> (2012); and two novels <i>The Tessellated Path</i> (2009) and <i>In the Wake of Terror</i> (2012). Her poems from the 1970s are short introspective pieces that dwell on the subject of romantic love and self-discovery. Poems, such as “A Door-Mat”, hint at her feminist sentiments.
 
 I will not be your door-mat <br>a piece of convenience <br>waiting at the door, <br>to dust the ash of your desire <br>a rug to throw your weariness <br>crushing the rush of my fibre <br>with your heavy indifference.
 
@@ -154,11 +154,11 @@ These books are a sampling of Rosaly Puthucheary’s poetry. She has also writte
 
 #### **Angeline Yap (1959–)**
 
-Angeline Yap is the youngest poet featured in this article. She began writing as a child and contributed many poems during the 1970s and 1980s to periodicals such as <i>Saya, Focus</i> and <i>Singa</i>. Nurtured by the late Marie Bong who taught her to write not with her head but her heart, Yap won many prizes in writing competitions organised by the Ministry of Culture, NUS Literary Society and the National Book Development Council. Marie Bong was the former headmistress of CHIJ Katong and long-time editor of the student literary magazine <i>Saya</i>. Yap’s poems were republished in 1986 under the title <i>Collected Poems</i>, and have appeared in contemporary anthologies such as <i>The Poetry of Singapore</i> (1985) and <i>Journeys: Words, Home and Nation</i> (1995). Yap is also a mentor with the National Arts Council’s Mentor Access Project and released her second book of poems <i>Closing My Eyes to Listen</i> in 2011. Her latest outing sees a shift in direction towards spiritual contemplation, much like Lee Tzu Pheng’s more recent works. The following poem written in “almost colloquial”[^11] language is the first of two poems titled <i>“Song of a Singaporean”</i>.
+Angeline Yap is the youngest poet featured in this article. She began writing as a child and contributed many poems during the 1970s and 1980s to periodicals such as <i>Saya, Focus</i> and <i>Singa</i>. Nurtured by the late Marie Bong who taught her to write not with her head but her heart, Yap won many prizes in writing competitions organised by the Ministry of Culture, NUS Literary Society and the National Book Development Council. Marie Bong was the former headmistress of CHIJ Katong and long-time editor of the student literary magazine <i>Saya</i>. Yap’s poems were republished in 1986 under the title <i>Collected Poems</i>, and have appeared in contemporary anthologies such as <i>The Poetry of Singapore</i> (1985) and <i>Journeys: Words, Home and Nation</i> (1995). Yap is also a mentor with the National Arts Council’s Mentor Access Project and released her second book of poems <i>Closing My Eyes to Listen</i> in 2011. Her latest outing sees a shift in direction towards spiritual contemplation, much like Lee Tzu Pheng’s more recent works. The following poem written in “almost colloquial”[^11] language is the first of two poems titled “Song of a Singaporean”.
 
-Yap’s poem, <i>“Colours”</i>, was also featured in the exhibition <i>“Calligraphy in Collaboration with Poets and Artists”</i> with American calligrapher, Thomas Ingmire, in 2013.
+Yap’s poem, “Colours”, was also featured in the exhibition “Calligraphy in Collaboration with Poets and Artists” with American calligrapher, Thomas Ingmire, in 2013.
 
-<i>In Modern English (Song of a Singaporean)</i> (1975) 
+In Modern English (Song of a Singaporean) (1975) 
 
 (i) <br>Are you mad with me <br>‘Cos I’m not hooked <br>On Culture <br>Spelt with capital ‘C’, <br>‘Cos I don’t dig ballet, <br>Don’t talk Chopin, <br>Beethoven or Bizet, <br>‘Cos my spirit answers <br>To the call of the Chinese flute <br>And it dances <br>To the rhythm of the Malay beat, <br>‘Cos my culture starts with ‘c’, <br>Not capital, <br>Not spoken with uplift of nose or brows, <br>Can you be mad with me? 
 
@@ -170,7 +170,10 @@ Yap’s poem, <i>“Colours”</i>, was also featured in the exhibition <i>“Ca
 <img style="width:70%" src="/images/vol-10-issue-1/womenpoets/collected_poem.jpg">
 <i>Collected Poems</i> by Angeline Yap was published in 1986. <i>All rights reserved, National Library Board Singapore, 2014.</i></div>
 
-<p style="font-size:15px;"><b>Gracie Lee</b> is a Senior Librarian with the National Library. She was involved in the curation of the Singapore Literary Pioneers Gallery and in the compilation of <i>Singapore Literature in English: An Annotated Bibliography (2008)</i>.</p>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-1/womenpoets/Gracie_Lee.jpg">
+<b>Gracie Lee</b> is a Senior Librarian with the National Library. She was involved in the curation of the Singapore Literary Pioneers Gallery and in the compilation of <i>Singapore Literature in English: An Annotated Bibliography</i> (2008).</div>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-10/issue-1/apr-jun-2014/"><center>Back to Issue</center></a>
 
