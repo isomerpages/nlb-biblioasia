@@ -143,7 +143,8 @@ In the later stage of her life, Siti Radhiah, true to her spirit of helping and 
 
 [^9]: Siti Radhiah Mohamed Saleh, [*Memilih Selera*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200055900) (Singapore: HARMY, 1953). (From National Library, Singapore, via PublicationSG)
 
-[^10]: Siti Radhiah Mohamed Saleh, [*Hidangan Kuih Moden*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200109401) (Singapore: Geliga, 1957). (From National Library, Singapore, via PublicationSG)
+[^10]: Siti Radhiah Mohamed Saleh, [*Hidangan Kuih Moden*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200109401) (Singapore: Geliga, 1957). (From National Library, Singapore, via PublicationSG) [Note: The cover of this cookbook reads Sajian Kuih2 Moden whereas its title page says Hidangan Kuih Moden. The different titles on the cover and title page might have been a printing error. For this essay, I have taken the title that appears on the title page.]
+
 
 [^11]: Siti Radhiah Mohamed Saleh, [*Hidangan Kuih Moden*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200109401), [n.p.]. Geliga Limited also published *Sajian Pilihan* (*Selected Dishes*) as the second instalment of the *Women’s Series* in the same year due to public demand. The publisher noted that the authors, Hamimah Mohamed and Rashimah Mohamed, had passed their cookery course at one of the cookery schools in Singapore. See Hamimah Mohamed and Rashimah Mohamed, [*Sajian Pilihan*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12605422) (Singapore: Geliga, 1957). (From National Library, Singapore, Call no. Malay RCLOS 640.2 HAM)
 
