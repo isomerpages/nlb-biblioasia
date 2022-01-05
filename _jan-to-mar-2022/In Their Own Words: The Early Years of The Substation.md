@@ -132,7 +132,9 @@ And true to his words, many years down the line, it wasn’t just non-mainstream
 The first gig that we organised, for the life of me I cannot remember who played, I cannot remember anything about it. But [Pao Kun] was there at the gig, and I think [he and] Professor Tommy Koh were sitting in the crowd in the garden, watching some thrash metal or heavy metal band.
 
 I dare say that from 1990 to 1991, we must at least have had four or five gigs, and that was more than all the gigs featuring local music in the 1980s. 
+
 The impact The Substation made was incalculable. Teenagers would come for the gigs and say “Hey, why can’t we have this in my school?” At Ngee Ann Polytechnic, for example, they started their own series of concerts. 
+
 Every year, the number of gigs around town increased. In the late ’90s and early noughties, I remember looking at a newspaper or magazine listing and thinking, “Wah, so many gigs ah.” It was a domino effect where pundits started organising gigs themselves, and venues looking at this said, “Well, there’s a trend. There’s a market for Singapore indie music.” And [clubs like] Hard Rock Café, Sparks and Fire started to have indie music nights too. 
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/substation/Nuradee.png)
