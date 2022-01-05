@@ -109,7 +109,7 @@ The lending section of the old National Library in 1962. <i>All rights reserved.
 <div style="background-color: white;">
 <br/>
 <img style="width:70%" src="/images/vol-10-issue-1/library/Boey_Kim_Cheng_res.jpg">
-Singapore-born <b>Boey Kim Cheng</b> has written five collections of poetry and a travel memoir Between Stations. Boey lives in Australia, where he is now a citizen and teaches creative writing at the University of Newcastle. He is currently a writer-in-residence at Nanyang Technological University, Singapore.</div>
+Singapore-born <b>Boey Kim Cheng</b> has written five collections of poetry and a travel memoir <i>Between Stations</i>. Boey lives in Australia, where he is now a citizen and teaches creative writing at the University of Newcastle. He is currently a writer-in-residence at Nanyang Technological University, Singapore.</div>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-10/issue-1/apr-jun-2014/"><center>Back to Issue</center></a>
 
