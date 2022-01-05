@@ -61,6 +61,7 @@ At the time, veteran arts administrators Juliana Lim and Tisa Ho were, respectiv
 **Ho:** Structurally, it was obviously very sound, it was a very solid building. “Disused” doesn’t begin to describe the state that it was in; it was encrusted with bat and mouse droppings. But I thought the potential was exciting. There was one big space which could be used for a slightly different kind of performance space than the proscenium theatres and Drama Centre that we had then, and some potential workspaces upstairs.
 
 **Lim:** We invited concepts from the bigger arts groups at the time. The reason why Pao Kun got the building was his proposal went way beyond an individual group’s need, unlike the rest who were looking for rehearsal space. It was multicultural, multidisciplinary – those were the words we liked. 
+
 This was a fresh concept, entirely his, and we were not going to co-own it, because we got no means to do this. We saw ourselves more as an enabler with PPACL as a tenant, than a co-owner.
 
 For the capital grant [to cover the building’s renovations], we went to the Ministry of Finance, and I remember they were very lukewarm. And to be frank, I was very disheartened, and I think Tisa was the one who pushed it further.
