@@ -136,7 +136,8 @@ In the later stage of her life, Siti Radhiah, true to her spirit of helping and 
 
 [^6]: Sundusia Rosdi, “[Harun Aminurrashid](https://biblioasia.nlb.gov.sg/files/pdf/BiblioAsia%20Jul%202007.pdf),” 5–7.
 
-[^7]: NLB does not have a copy of *Hidangan Melayu*. It is available at Arkib Negara (National Archives of Malaysia). See Siti Radhiah Mohamed Saleh, *Hidangan Melayu*, Arkib Negara, h_ttps://ofa.arkib.gov.my/ofa/group/asset/810802. Interestingly, the cookbook is also not listed in Md. Sidin Ahmad Ishak’s dissertation. 
+[^7]: NLB does not have a copy of *Hidangan Melayu*. It is available at Arkib Negara (National Archives of Malaysia). See Siti Radhiah Mohamed Saleh, *Hidangan Melayu*, Arkib Negara, h_ttps://ofa.arkib.gov.my/ofa/group/asset/810802. Interestingly, the cookbook is also not listed in Md. Sidin Ahmad Ishak’s dissertation. [Note: The cookbook is not listed in a catalogue compiled by Md. Sidin Ahmad Ishak for his dissertation. See Md. Sidin Ahmad Ishak, “Malay Book Publishing and Printing in Malaya and Singapore 1807–1949,” vol. 2, PhD Diss. (University of Stirling, 1992), http://hdl.handle.net/1893/31182.]
+
 
 [^8]: Siti Radhiah Mohamed Saleh, [*Hidangan Wanita Sekarang: Kuih-kuih Zaman Sekarang Untuk Hidangan Pada Ketika Minum Teh Petang Atau Pada Ketika Hari-hari Keramaian Atau Hari Besar*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12804944) (Singapore: The Royal Press, 1949), 4–5. (From National Library, Singapore, Call no. Malay RCLOS 641.5 RAD). [Note: English translation by author.]
 
