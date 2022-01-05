@@ -99,6 +99,7 @@ Before Guinness, there was another company which wanted to support The Substatio
 Up to that point, everything went quite well. But when we were about to close the deal, there was a request from Guinness’ UK office to say that in the agreement, The Substation had to guarantee that no performances or activities take place there that will damage the image of Guinness. Pao Kun said there’s no way The Substation can make this guarantee; we would have to work out a system to scrutinise all events in detail before we even let artists use the space, and it just wasn’t possible. 
 
 There was a lot of “ding-donging” [back-and-forth]. I often heard Pao Kun over the phone, trying to persuade the Guinness representative in Singapore so he could in turn persuade the UK office. Eventually Guinness counter-proposed to change the wording to something like: “The Substation has no intention of creating any damages to the image of the sponsor.” That finally was okay. 
+
 I remember asking Pao Kun – what if Guinness drops this whole sponsorship idea because you disagree with their original condition. You guess what his response was? He said, “Well, then we start all over again and look for another sponsor.” This ability to endure hardship and willingness to take a difficult journey is the character of Pao Kun.
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/substation/FrontDoor.png)
