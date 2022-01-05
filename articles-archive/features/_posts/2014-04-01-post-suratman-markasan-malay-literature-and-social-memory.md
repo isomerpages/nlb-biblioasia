@@ -56,13 +56,13 @@ His literary works, firstly, present social commentaries on the Malay community,
 
 Suratman often writes about themes commonly expressed by the Singapore Malay community. He attempts to engage his readers to think about the issues raised, encouraging them to contemplate their existential and social conditions. These issues include parental neglect, spiritual emptiness, cultural alienation, language deprivation, the plight of the poor, the leadership crisis in the Malay community and the mismanagement of mosques.[^7]
 
-His poetry considers several aspects of social memory such as his memory of physical spaces that used to be part of his life, and which have now disappeared. This is captured in his poem on his alma mater, Sultan Idris Training College. One recurring reference in his poems is Tun Seri Lanang Secondary School, a Malay-medium school whose establishment was a seen as a triumph for Malay education in Singapore. When the school was formed in 1963, Suratman described the joy he felt: “apparently Seri Lanang was born beside Kallang River/ all the Malays who were supportive were joyous” <i>(ternyata lahir Seri Lanang di tepi Sungai Kallang/ segala Melayu yang suka menatang gembira.)</i> [^8] But by 1989, these Malay-medium schools were closed as enrolment fell drastically, with Malay families preferring to send their children to English-medium schools instead. Suratman lamented: 
+His poetry considers several aspects of social memory such as his memory of physical spaces that used to be part of his life, and which have now disappeared. This is captured in his poem on his alma mater, Sultan Idris Training College. One recurring reference in his poems is Tun Seri Lanang Secondary School, a Malay-medium school whose establishment was a seen as a triumph for Malay education in Singapore. When the school was formed in 1963, Suratman described the joy he felt: “apparently Seri Lanang was born beside Kallang River/ all the Malays who were supportive were joyous” (<i>ternyata lahir Seri Lanang di tepi Sungai Kallang/ segala Melayu yang suka menatang gembira.</i>) [^8] But by 1989, these Malay-medium schools were closed as enrolment fell drastically, with Malay families preferring to send their children to English-medium schools instead. Suratman lamented: 
 
 negara Seri Lanang kian pudar di mata Mat layu / pelajar tinggal sedikit guru menjadi buntu / di sana sini orang bercakap Inggeris tentu / biar dianggap punya pelajaran tinggi / atau di kedai kopi yang tak memerlu degree / Melayu sudah lesap Inggeris belum lengkap / pada detik yang bernama 1987 / Tun Seri Lanang mengikuti jejak Sang Nila Utama / tak terduga tenggelam di Sungai Sejarahnya.[^9]
 
 the state of Seri Lanang was fading in the eyes of Mat Layu / students were getting fewer, teachers were at their wits’ end / hither and thither people spoke English for certain / in order to be deemed as highly educated / even in coffee shops that didn’t need a degree / Malay was gone, English was yet to take over completely / in the year called 1987 / Tun Seri Lanang followed the footsteps of Sang Nila Utama / unexpectedly sank in Historical River.
 
-Again in another poem, “Masih Adakah Melayu di Sini?” (“Will Malays Still be Around?”) 
+Again in another poem, “Masih Adakah Melayu di Sini?” (Will Malays Still be Around?) 
 
 Nila Utama dan Seri Lanang sudah tenggelam / satu di bidadari satu di Sungai Kallang / Swiss Cottage sudah hilang Cottagenya / Pasir Panjang Monk’s Hill dan Siglap / sudah terkubur tanpa nisannya / anak dan cucu mereka sudah hilang jati dirinya / itulah nasib peribumi Melayu namanya[^10]
 
@@ -78,21 +78,21 @@ These lines refer to the Southern islanders who were forced to resettle on mainl
 
 Aku kehilangan lautku / aku kehilangan bukitku / aku kehilangan diriku.[^12]
 
-have lost my sea / I have lost my hill / I have lost my self
+I have lost my sea / I have lost my hill / I have lost my self
 
-The close knit village community is gone. Suratman remembers the small village and all its residents; he knows them personally without needing to differentiate between a Malay and Chinese person. This is illustrated in “Dalam Perjalanan Masa,” (“With the Passage of Time”): 
+The close knit village community is gone. Suratman remembers the small village and all its residents; he knows them personally without needing to differentiate between a Malay and Chinese person. This is illustrated in “Dalam Perjalanan Masa,” (With the Passage of Time): 
 
 Ketika aku masih kecil / banyak yang aku tahu / kerana duniaku sesumpit kampungku / peduduknya kuhafal dalam kepala / aku kenal mereka bukan kenal Cina / daun-daun gugur bisa tertangkap mata[^13]
 
 As a little child / I knew a lot / as my world was as narrow as my village / the villagers were entrenched in my mind / I knew them all, not casually? / falling leaves can be caught by the eye
 
-Suratman is especially sensitive to junctures in Singapore’s history where social memory is both affirmed and denied. In “<i>Balada Seorang Lelaki Di Depan Patung Raffles</i>” (“The Ballad of a Man Before the Statue of Raffles”) Suratman describes a mad man who posed questions before the statue of Sir Stamford Raffles, founder of modern Singapore. The insane man who railed at the statue of Raffles can be seen as the representative of the indigenous man who became a victim of colonialism. In another poem, Suratman challenges the dominant historical narrative, reminding the reader that the victims of colonialism are his own people: 
+Suratman is especially sensitive to junctures in Singapore’s history where social memory is both affirmed and denied. In “Balada Seorang Lelaki Di Depan Patung Raffles” (The Ballad of a Man Before the Statue of Raffles) Suratman describes a mad man who posed questions before the statue of Sir Stamford Raffles, founder of modern Singapore. The insane man who railed at the statue of Raffles can be seen as representative of the indigenous man who became a victim of colonialism. In another poem, Suratman challenges the dominant historical narrative, reminding the reader that the victims of colonialism are his own people: 
 
 Telah kukatakan seribu kali / kau menipu datukku hidup mati / kau merampas hartanya pupus rakus / kau bagikan kepada kawan lawan / kau dengar Raffles? Kau dengar? / seharusnya kau kubawa ke muka pengadilan.[^14]
 
 I’ve said it a thousand times / you deceived my grandparents totally / you seized their properties till it’s gone, greedily / you gave it away to your friends, enemies / do you hear, Raffles? Do you hear? / I should have brought you to face justice
 
-The questioning of history by this mad man reminds us of the weapons of the weak in their confrontation with the dominant power. The fight may be futile, but the sentiment reflects the angst of humiliation and the struggle to resist it. The weak may have no power to challenge authority, except with words of affirmation of their dignity and rights. Thus the mad man’s curse against the two colonial figures (Raffles and William Farquhar), is the objection to history by the very people who have been denied in history. 
+The questioning of history by this mad man reminds us of the weapons of the weak in their confrontation with the dominant power. The fight may be futile, but the sentiment reflects the angst of humiliation and the struggle to resist it. The weak may have no power to challenge authority, except with words of affirmation of their dignity and rights. Thus the mad man’s curse on the two colonial figures (Raffles and William Farquhar) is the objection to history by the very people who have been denied in history. 
 
 Dosamu tujuh turunan kusumpah terus / kau membawa Faquhar dan Lord Minto / siasatmu halus. Membuka pintu kotaku / pedagang b u r u h p e m i m p i n m e n a m b a h kantung / membangun Temasek menjadi Singapura / masuk sama penipu perompak pembunuh / aku sekarang tinggal tulang dan gigi cuma / kusumpah tujuh turunanmu tanpa tangguh![^15]
 
@@ -110,7 +110,7 @@ Aku berjalan di pesisir Geylang / terpekik-pukau raja kuih / tak kutemui kuih Me
 
 I walked along the sidewalk in Geylang / the king of <i>kuih</i> was hollering / I didn’t find Malay <i>kuih</i> / but plenty of biscuits and cookies / I was prompted to go to the Malay Village / yet, a mother and her child there didn’t speak Malay / I was looking for a <i>teluk belanga baju kurung</i> / what I found was <i>cekak musang baju</i> with Chinese buttons
 
-The phenomenon of levelling down of cultural standards and excellence in our modern fast-paced society is a state of affairs that Suratman bemoans. Cultural sensibilities are lost alongside the fading memories of the past. With cultural amnesia comes historical amnesia. The younger generation, Suratman notes, has lost its reverence for Malay historical figures: 
+The phenomenon of levelling down cultural standards and excellence in our modern fast-paced society is a state of affairs that Suratman bemoans. Cultural sensibilities are lost alongside the fading memories of the past. With cultural amnesia comes historical amnesia. The younger generation, Suratman notes, has lost its reverence for Malay historical figures: 
 
 pahlawan Nila Utama kurang disanjung pendekar Melayu / penulis Seri Lanang berdiri termangu menunggu budak Melayu[^18]
 
@@ -120,8 +120,6 @@ the warrior Nila Utama was hardly celebrated by Malay fighters / the writer Seri
 <br/>
 <img style="width:70%" src="/images/vol-10-issue-1/suratman/large_body_of_work.jpg">
 Suratman has produced a large body of work, with themes that cover issues such as race and nationhood. <i>All rights reserved, National Library Board Singapore, 2014.</i></div>
-
-To build a future, moulding it to our needs and character requires a sense of place and being. 
 
 Suratman, however, clearly remembers the Malay historical figure whose actions precipitated the plight of his people: 
 
@@ -141,7 +139,7 @@ Aku tak punya apa lagi / Seri Lanang dan Nila Utama tinggal nama / saudara perib
 
 I no longer have anything / Sri Lanang and Nila Utama remain names / my native siblings have rejected the Malay language / they are pursuing English as a symbol of progress
 
-Suratman’s works, especially his poems, capture a variety of memories that he encountered and perceived as well as imagined. His personal recollections of the past are in themselves a rich of source of the lives that are no longer part of our collective memory. In his poem, “70 Tahun Usiaku” (“The Seventienth Year of My Life”), he charts each decade of his life, noting his experiences in witnessing unfolding history.
+Suratman’s works, especially his poems, capture a variety of memories that he encountered and perceived as well as imagined. His personal recollections of the past are in themselves a rich of source of the lives that are no longer part of our collective memory. In his poem, “70 Tahun Usiaku” (The Seventienth Year of My Life), he charts each decade of his life, noting his experiences in witnessing unfolding history.
 
 He starts his first decade with his basic education and the Japanese interregnum. His second decade marked his life-changing stint at the famous Sultan Idris Training College in Malaysia, a hotbed of Malay nationalism where Malay teachers throughout Malaya, Borneo and Singapore were trained; his third decade saw his active involvement in ASAS ’50 (The Singapore’s Writers’ Movement established in 1950) and the impending independence of Malaya; his fourth decade saw the push for Malay language as a medium of education; and his fifth decade saw the institutionalisation of two Malay-Muslim bodies in Singapore, namely MUIS and MENDAKI, to oversee the educational and religious welfare of the community.
 
