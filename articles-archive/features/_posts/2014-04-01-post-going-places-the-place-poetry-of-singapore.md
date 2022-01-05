@@ -9,7 +9,7 @@ layout: post
 <br/>
 <img src="/images/vol-10-issue-1/goingplace/bg.jpg"></div>
 
-In conjunction with its 10th anniversary celebrations, The Arts House presents an audio poetry exhibition entitled “Going Places”, which features 45 recordings by some of Singapore’s most well-loved poets on familiar places in Singapore. Some of these poems include <i>Bras Basah</i> by Edwin Thumboo; <i>Shophouse, Victoria Street</i> by Eileen Chong; <i>Katong</i> by Damon Chua; and <i>Elegy for Changi Beach</i> by Robert Yeo.
+In conjunction with its 10th anniversary celebrations, The Arts House presents an audio poetry exhibition entitled “Going Places”, which features 45 recordings by some of Singapore’s most well-loved poets on familiar places in Singapore. Some of these poems include “Bras Basah” by Edwin Thumboo; “Shophouse, Victoria Street” by Eileen Chong; “Katong” by Damon Chua; and “Elegy for Changi Beach” by Robert Yeo.
 
 The exhibition invites the visitor to embark on a lyrical journey of Singapore’s cityscape and history through the personal memories of poets who have captured some of the changes Singapore experienced between 1953 and 2014. This poetic approach to the individual experiences of the writers’ will draw on original audio-visual portraits of the city-state, highlighting its rich literary history and artistic diversity. 
 
@@ -27,16 +27,16 @@ Here, the poet expresses a sense of nostalgia for a place that is vastly differe
 
 What “Going Places” does hope to ultimately achieve is to provide Singaporeans with an alternate perspective of the places that are already familiar to them. Take the Merlion for example; while it may not have “organically” morphed into a legitimate national icon, it still has had a lasting influence on the sense of history and national identity of Singaporeans. The exhibition features a number of Merlion poems that reflect the connection (or lack thereof) that Singaporeans may feel toward this somewhat kitschy icon.
 
-<i>But this lion of the sea <br>Salt-maned, scaly, wondrous of tail, <br>Touched with power, insistent <br>On this brief promontory... <br>Puzzles.</i>
+But this lion of the sea <br>Salt-maned, scaly, wondrous of tail, <br>Touched with power, insistent <br>On this brief promontory... <br>Puzzles.
 
 
-<div style="text-align: right"> "<i>Ulysses By The Merlion</i>", Edwin Thumboo</div>
+<div style="text-align: right"> "Ulysses By The Merlion", Edwin Thumboo</div>
 
-<i>I am the scion of a wealthy race. <br>I wear the silver armour of my moneyed people.</i>
+I am the scion of a wealthy race. <br>I wear the silver armour of my moneyed people.
 
-<div style="text-align: right"> "<i>The Merlion To Ulysses</i>", Lee Tzu Pheng</div>
+<div style="text-align: right"> "The Merlion To Ulysses", Lee Tzu Pheng</div>
 
-All the poems featured in the exhibition are accompanied by the voice recordings of the poets reading their work(s) and recounting the occasional inside-story behind the poem. While the memories may be specific to the poets themselves, the ideas and histories of the places that they mention undeniably form a part of who we are as Singaporeans whether we choose to accept it or not. Places such as Chinatown, with its contrasts between new and old, “authentic” and “artificial”, form a part of our multifarious <i>“rojak culture”</i> as described by Terence Heng. 
+All the poems featured in the exhibition are accompanied by the voice recordings of the poets reading their work(s) and recounting the occasional inside-story behind the poem. While the memories may be specific to the poets themselves, the ideas and histories of the places that they mention undeniably form a part of who we are as Singaporeans whether we choose to accept it or not. Places such as Chinatown, with its contrasts between new and old, “authentic” and “artificial”, form a part of our multifarious “<i>rojak</i> culture” as described by Terence Heng. 
 
 Old images and videos of Singapore provided by the National Archives Singapore (NAS) are showcased alongside the poems, providing audiences with a more immersive and meaningful experience of the exhibition. 
 
@@ -48,13 +48,13 @@ While the visual aspect of the exhibition may invoke feelings of displacement an
 Chinatown in 1998. <i>Image courtesy of Terence Heng.</i></div>
 
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> 
-Going Places” is held at the Print & Film Gallery at The Arts House between 26 March and 18 May 2014.
+“Going Places” is held at the Print & Film Gallery at The Arts House between 26 March and 18 May 2014.
 <br><br>
-Special thanks to: Dr. Angelia Poon Dr. Loh Chin Ee Professor Rajeev Patke Department of English Language and Literature, National University of Singapore Jerome Lim, The Long & Winding Road Nguan 2902 Gallery Derek Tait Philipp Aldrup.
+Special thanks to: Dr. Angelia Poon, Dr. Loh Chin Ee, Professor Rajeev Patke (Department of English Language and Literature, National University of Singapore), Jerome Lim (The Long & Winding Road), Nguan, 2902 Gallery, Derek Tait and Philipp Aldrup.
 <br><br>
-Programme Partners: National Institute of Education Singapore Memory Project.
+Programme Partners: National Institute of Education and Singapore Memory Project.
 <br><br>
-Supported by: National Museum of Singapore Institute Francaise Singapore.
+Supported by: National Museum of Singapore and Institute Francaise Singapore.
 <br><br>
 For more information, visit [www.theartshouse.com.sg](www.theartshouse.com.sg)</span>
 
