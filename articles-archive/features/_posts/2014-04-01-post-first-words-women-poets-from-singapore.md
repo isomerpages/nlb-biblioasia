@@ -29,19 +29,23 @@ The lady says she’s willing<br>She declares the prospect thrilling, <br>But th
 
 Though Aroozoo was a contemporary of well-known historian Wang Gungwu, who belonged to a group of pioneering writers, she is not perceived as part of that circle for her writing was primarily a private endeavour. Her poems have mainly appeared in non-literary journals, many were never published, and some (such as her love poems) were even destroyed. After graduation, Aroozoo went on to carve out an illustrious career as the Director of the National Library and discontinued her poetry writing. It was only in 1999 that her published poems were gathered and re-introduced in <i>Under the Apple Tree: Political Parodies of the 1950s.</i> 
 
+<div style="background-color: white;">
+<br/>
+<img style="width:70%" src="/images/vol-10-issue-1/womenpoets/Uder_the_Apple_Tree_res.jpg">
+In 1999, Hedwig Aroozoo’s published poems were collected and released in <i>Under the Apple Tree. All rights reserved, National Library Board Singapore, 2014.</i></div>
 
 
 #### **Wong May (1944–)**
 
 As higher education in English was rare in the early years, creative writing in English was scarce right up to the mid-1960s. This is even more apparent in Singapore women’s writing as women had far less educational opportunities than men. In Edwin Thumboo’s seminal anthology on Singapore and Malaysia poetry, <i>The Second Tongue</i> (1976), he writes: “Women are now beginning to enjoy professional and intellectual parity with men...Before the mid-sixties, very few women wrote creatively; there were no women among the pioneer poets. Wong May and Lee Geok Lan [Malaysian] were about the first.”[^2] He also adds that “women have contributed positively to that shift in the choice and treatment of theme from the public to the personal” and have also introduced “delicate” nuances to the poetic language. The nascent growth of women writers from the mid-1960s onwards was noticed by NUS academics Rajeer Patke and Philip Holden as well. In their survey of pre-1965 Malaysian and Singapore writing, Wong May, Daisy Chan Heng Chee, Theresa Ng and Lee Tzu Pheng were cited as leading women poets of this period.
 
-Wong May occupies an interesting place in Singapore literature. Born in Chongqing, China in 1944, she was raised in Singapore and received her Bachelor of Arts degree from the University of Singapore (now NUS). She left Singapore to study in the United States in 1966 and eventually settled in Dublin, Ireland. A contemporary of Arthur Yap and Robert Yeo, her early poems appeared in <i>Focus: the Journal of the University of Malaya’s Literary Society</i> and in several key anthologies on Singapore and Malaysian writings such as <i>The Flowering Tree</i> (1970), <i>Seven Poets</i> (1973) and <i>The Second Tongue.</i> Though Wong went on to publish three collections of poems overseas, <i>A Bad Girl’s Book of Animals</i> (1969), <i>Reports</i> (1972) and <i>Superstitions</i> (1978), only her early poems in Singapore are entered into discussion as national literature. Nevertheless, her place in Singapore’s canon of writers is undisputed.
+Wong May occupies an interesting place in Singapore literature. Born in Chongqing, China in 1944, she was raised in Singapore and received her Bachelor of Arts degree from the University of Singapore (now NUS). She left Singapore to study in the United States in 1966 and eventually settled in Dublin, Ireland. A contemporary of Arthur Yap and Robert Yeo, her early poems appeared in <i>Focus: The Journal of the University of Malaya’s Literary Society</i> and in several key anthologies on Singapore and Malaysian writings such as <i>The Flowering Tree</i> (1970), <i>Seven Poets</i> (1973) and <i>The Second Tongue.</i> Though Wong went on to publish three collections of poems overseas, <i>A Bad Girl’s Book of Animals</i> (1969), <i>Reports</i> (1972) and <i>Superstitions</i> (1978), only her early poems in Singapore are entered into discussion as national literature. Nevertheless, her place in Singapore’s canon of writers is undisputed.
 
 In the introduction to his anthology <i>A Private Landscape</i> (1967) David Ormerod lauds Wong May as a “powerful and valid voice” who has the potential to lead the development of English-language poetry in Malaysia and Singapore.[^3] The blurb on her first book of poetry provides further evidence of this close association with Singapore; her place of birth was erroneously printed as Singapore. Wong’s fourth volume of poems <i>Picasso’s Tears</i> is due to be released in 2014.
 
-Aside from her nationality, Wong’s place in Singapore literature is made more complex by the type of poetry she writes. Most of her poems are concerned with the personal and are universal in their treatment of the subject matter. Only a handful of poems such as “<i>This Fine Day </i>” and “<i>Study of a Millionairess: Still Life</i>” contain recognisable Chinese or local references. 
+Aside from her nationality, Wong’s place in Singapore literature is made more complex by the type of poetry she writes. Most of her poems are concerned with the personal and are universal in their treatment of the subject matter. Only a handful of poems such as “This Fine Day” and “Study of a Millionairess: Still Life” contain recognisable Chinese or local references. 
 
-Despite her obscurity from the general reading public, Wong’s poems have been well-received by critics locally and abroad, receiving descriptions such as quirky, unpredictable, intense, graceful and otherworldly. Stylistically, her poems are marked by silences – a quality Wong terms as “wordlessness”, [^4] which she relies on to convey the limitations of language in communication and in establishing human connection. She also adopts an intriguing elliptical structure in a number of her poems. These traits are visible in poems such as “<i>The Shroud </i>”, a poem on the loss of childhood innocence:
+Despite her obscurity from the general reading public, Wong’s poems have been well-received by critics locally and abroad, receiving descriptions such as quirky, unpredictable, intense, graceful and otherworldly. Stylistically, her poems are marked by silences – a quality Wong terms as “wordlessness”, [^4] which she relies on to convey the limitations of language in communication and in establishing human connection. She also adopts an intriguing elliptical structure in a number of her poems. These traits are visible in poems such as “The Shroud”, a poem on the loss of childhood innocence:
 
 The old school uniform <br>With the little childish delights and giggles <br>Is folded and locked up in the top drawer <br>Forever.
 
@@ -51,10 +55,7 @@ Yet I hear somebody weeping – <br>Crying louder and louder – howling <br>I f
 
 (Lines 9–20; <i>Seven Poets</i>, p. 111)
 
-<div style="background-color: white;">
-<br/>
-<img style="width:70%" src="/images/vol-10-issue-1/womenpoets/Uder_the_Apple_Tree_res.jpg">
-In 1999, Hedwig Aroozoo’s published poems were collected and released in <i>Under the Apple Tree. All rights reserved, National Library Board Singapore, 2014.</i></div>
+
 
 #### **Lee Tzu Pheng (1946–)**
 
