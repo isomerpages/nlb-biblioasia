@@ -144,7 +144,7 @@ Every year, the number of gigs around town increased. In the late ’90s and ear
 
 #### Learning and Receiving Criticism
 
-The co-artistic director of established socially engaged theatre company Drama Box, Kok Heng Leun got his “baptism of fire” in the arts working as a programme executive at The Substation from 1992 to 1993. He credits the centre as a place of beginnings for many artists like himself.[^8] 
+**The co-artistic director of established socially engaged theatre company Drama Box, Kok Heng Leun got his “baptism of fire” in the arts working as a programme executive at The Substation from 1992 to 1993. He credits the centre as a place of beginnings for many artists like himself.**[^8] 
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/substation/KokHengLeun.png)
 <div style="background-color: white;">Kok Heng Leun, co-artistic director of Drama Box. <i>Courtesy of Alecia Neo.</i></div>
