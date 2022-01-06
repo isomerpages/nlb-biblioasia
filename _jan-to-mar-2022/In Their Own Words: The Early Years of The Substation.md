@@ -78,7 +78,7 @@ For the capital grant [to cover the building’s renovations], we went to the Mi
 
 #### “Every day, I had to think, where to get money.”
 
-In 1989, Tan Beng Luan left her civil service job to join PPACL. She knew Kuo from attending his directing course a few years before. Overseeing the founding of The Substation, she recounts the fundraising challenges of the early years – a Straits Times article in 1990 reported that the arts centre had to raise $700,000 for its first year’s operations.[^7]
+**In 1989, Tan Beng Luan left her civil service job to join PPACL. She knew Kuo from attending his directing course a few years before. Overseeing the founding of The Substation, she recounts the fundraising challenges of the early years – a Straits Times article in 1990 reported that the arts centre had to raise $700,000 for its first year’s operations.**[^7]
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/substation/TanBengLuan.png)
 <div style="background-color: white;">Tan Beng Luan left her civil service job to join Practice Performing Arts Centre Ltd. <i>Courtesy of Tan Beng Luan. </i></div>
