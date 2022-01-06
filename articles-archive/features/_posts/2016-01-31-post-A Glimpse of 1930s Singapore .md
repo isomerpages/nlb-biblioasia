@@ -57,7 +57,7 @@ The National Library has four copies of the first edition of the book published 
 
 The second and third copies were donated to the library by the late Mr Lee Kip Lin, an architect and author of several architectural books on Singapore and Mr Koh Seow Chuan, founder of DP Architects. The fourth copy comes from the John Bastin Collection. 
 
-<img src="/images/vol-11-issue-4/a-glimpse-of-1930s-singapore/S4.JPG">
+<img style="width: 450px; height: 300px;" src="/images/vol-11-issue-4/a-glimpse-of-1930s-singapore/S4.JPG">
 <div style="background-color: white;"> A <i>Straits Times</i> advertisement of the book on 22 July 1934. <i>The Lights of Singapore</i> is so popular that it has been republished several times since it was first printed <i>© The Straits Times.</i></div>
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
