@@ -5,9 +5,8 @@ date: 2016-01-31
 layout: post
 description: ""
 ---
-
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
-	<b>Title:</b> The Lights of Singapore<br>
+	<b>Title:</b> <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5850129"><i>The Lights of Singapore</i></a><br>
 <b>Author:</b> Roland St. John Braddell (1880–1966) <br>
 <b>Year published:</b> 1934<br>
 <b>Publisher:</b> Methuen & Co. (London)<br>
@@ -20,7 +19,7 @@ Lee Kip Lin
 </span>
 
 <img src="/images/vol-11-issue-4/a-glimpse-of-1930s-singapore/S1.JPG">
-<div style="background-color: white;">The frontispiece of The Lights of Singapore features a seaside view of Singapore at dusk. <i>Image source: National Library Board, Singapore.</i></div>
+<div style="background-color: white;">The frontispiece of <i>The Lights of Singapore</i> features a seaside view of Singapore at dusk. <i>Image source: National Library Board, Singapore.</i></div>
 
 Imagine reading this about Singapore in a travel guide: “one of the cesspools of the world”, a place with “no ancient history, no romantic background”, “a paradise for second-class people”, a city with “wild night-life and opium dens”, and having a “terrible climate” that causes “bad health”.[^1]
 
@@ -46,16 +45,15 @@ Braddell also praised Singapore for being one of the few places that had “larg
 
 *The Lights of Singapore* was published in London in July 1934, and sold for $3.50 a copy. The book includes 29 plates of photogravure[^8] on places of interest in Singapore and Malaya, most of which were taken by Nakajima & Co., a popular photo studio located at the Raffles Hotel.
 
-<img style="width: 350px; height: 450px;" src="/images/vol-11-issue-4/a-glimpse-of-1930s-singapore/S3.JPG">
-<div style="background-color: white;">The National Library has four copies of the first edition of <i>The Lights of Singapore</i> published in 1934. The first, donated by R. Ramachandra, the then principal of Teck Whye Secondary School, on 22 May 1981, carries a 
-handwritten dedication from the author Roland St. John Braddell to a friend. <i>Image source: National Library Board, Singapore.</i></div>
-
 To boost publicity, the book was advertised as “a new book presenting the romance and history of Malaya”, “suitable for sending home”, “full of lore and reminiscence, which will delight those who know something of this portion of the world”, and one that creates “an intimate picture of Singapore” while bringing 
 out “the romance and history of that city as well as Malaysia generally”.[^9]
 
 Those stirring descriptions worked. A second edition was released the same year in September, and a third edition, with revisions and corrections, was published the following year. The fourth and fifth editions were released in 1939 and 1941 respectively. In all, the book sold about 5,000 copies before World War II (1942–45), making Braddell one of Malaya’s most popular authors.[^10] Subsequent editions were published in 1947, 1966 and 1982, the latter two by Oxford University Press.
 
 The National Library has four copies of the first edition of the book published in 1934. The first was donated by R. Ramachandra, then principal of Teck Whye Secondary School, on 22 May 1981. It carries a handwritten dedication from Braddell to a friend (whose name is not legible) with the message, “My old friend, with deepest esteem”. 
+
+<img style="width: 350px; height: 450px;" src="/images/vol-11-issue-4/a-glimpse-of-1930s-singapore/S3.JPG">
+<div style="background-color: white;">The National Library has four copies of the first edition of <i>The Lights of Singapore</i> published in 1934. The first, donated by R. Ramachandra, the then principal of Teck Whye Secondary School, on 22 May 1981, carries a handwritten dedication from the author Roland St. John Braddell to a friend. <i>Image source: National Library Board, Singapore.</i></div>
 
 The second and third copies were donated to the library by the late Mr Lee Kip Lin, an architect and author of several architectural books on Singapore and Mr Koh Seow Chuan, founder of DP Architects. The fourth copy comes from the John Bastin Collection. 
 
