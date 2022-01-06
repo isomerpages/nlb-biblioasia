@@ -45,7 +45,7 @@ At this point in the Substation’s history, it is now apt to revisit its beginn
 
 **MCD allowed the former power station, earmarked for conservation, to be managed by a private, not-for-profit company on a 10-year lease. This was unheard of at the time: other buildings – shells of former schools converted into workspaces for arts groups – were leased out for only up to three years.** 
 
-**At the time, veteran arts administrators <a style="font: white;">Juliana Lim</a> and Tisa Ho were, respectively, deputy director and assistant director in MCD’s cultural affairs division. They share the decisions they undertook to let the arts centre fly, including allocating a garden behind the building to The Substation with permission from the Land Office.[^5] The garden became a key performance space before being sublet to a commercial tenant in the mid-2000s.**[^6]
+**At the time, veteran arts administrators Juliana Lim and Tisa Ho were, respectively, deputy director and assistant director in MCD’s cultural affairs division. They share the decisions they undertook to let the arts centre fly, including allocating a garden behind the building to The Substation with permission from the Land Office.[^5] The garden became a key performance space before being sublet to a commercial tenant in the mid-2000s.**[^6]
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/substation/TisaHo.png)
 <div style="background-color: white;">Tisa Ho, former assistant director in the then Ministry of Community Development’s cultural affairs division. <i>Courtesy of Tisa Ho.</i></div>
