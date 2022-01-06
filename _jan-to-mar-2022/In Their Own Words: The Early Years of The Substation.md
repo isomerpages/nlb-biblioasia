@@ -39,6 +39,9 @@ At this point in the Substation’s history, it is now apt to revisit its beginn
 
 **In 1986, the power station on Armenian Street became the first property under NAC’s then new Arts Housing Scheme to receive a capital grant of $1.07 million for renovations;[^4] the scheme was administered by the MCD’s cultural affairs division, precursor of today’s NAC.**
 
+![Alt text for image on Isomer site](/images/vol-17-issue-4/substation/murals.png)
+<div style="background-color: white;">Colourful murals at The Substation Garden. These were painted by local artists in the 1990s. <i>The Substation Collection, PictureSG, National Library, Singapore.
+</i></div>
 
 **MCD allowed the former power station, earmarked for conservation, to be managed by a private, not-for-profit company on a 10-year lease. This was unheard of at the time: other buildings – shells of former schools converted into workspaces for arts groups – were leased out for only up to three years.** 
 
@@ -62,10 +65,6 @@ At this point in the Substation’s history, it is now apt to revisit its beginn
 This was a fresh concept, entirely his, and we were not going to co-own it, because we got no means to do this. We saw ourselves more as an enabler with PPACL as a tenant, than a co-owner.
 
 For the capital grant [to cover the building’s renovations], we went to the Ministry of Finance, and I remember they were very lukewarm. And to be frank, I was very disheartened, and I think Tisa was the one who pushed it further.
-
-![Alt text for image on Isomer site](/images/vol-17-issue-4/substation/murals.png)
-<div style="background-color: white;">Colourful murals at The Substation Garden. These were painted by local artists in the 1990s. <i>The Substation Collection, PictureSG, National Library, Singapore.
-</i></div>
 
 **Ho:** I think we also made a case for preservation of our buildings, because there was a lot of talk about conserving the former Tao Nan School beside it [now The Peranakan Museum]. The climate was right, there was an awareness of urgency, of keeping your architectural heritage.
 
