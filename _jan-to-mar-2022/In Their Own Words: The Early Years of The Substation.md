@@ -113,9 +113,9 @@ So of course Mdm Li was very upset because she was really concerned about the fi
 
 #### Building the Music Ecosystem, One Gig a Time
 
-With the government’s ban on long hair and tightening of rules for live entertainment in the 1970s, the decade after that saw the entire local music scene in the doldrums. Original music in English by Singapore bands had largely disappeared from radio and TV, and the live music venues in those days were mainly hotel lounges. 
+**With the government’s ban on long hair and tightening of rules for live entertainment in the 1970s, the decade after that saw the entire local music scene in the doldrums. Original music in English by Singapore bands had largely disappeared from radio and TV, and the live music venues in those days were mainly hotel lounges. **
 
-Musician Joe Ng – frontman of 1990s indie band The Padres – talks about how things changed when indie music gigs began to be held at The Substation Garden.
+**Musician Joe Ng – frontman of 1990s indie band The Padres – talks about how things changed when indie music gigs began to be held at The Substation Garden.**
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/substation/JoeNg.png)
 <div style="background-color: white;">Musician Joe Ng of The Padres. <i>Courtesy of Zen Yeo. </i></div>
