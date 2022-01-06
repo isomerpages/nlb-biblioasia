@@ -74,7 +74,7 @@ According to Aw Swan, his father “dismissed the man without another word and t
 
 The House of Jade was designed in 1926 by the architectural firm Chung & Wong, whose stamp is seen on the bottom right of the building plan. All the main rooms of the house were located on the ground floor, although the house also had an attic, a basement as well as an impressive tower.
 
-![Alt text for image on Isomer site](/images/vol-17-issue-4/towkay-house/9-houseofjadeplan.jpg)
+![Alt text for image on Isomer site](/images/vol-17-issue-4/towkay-house/9-houseofjadeplan2.jpg)
 <div style="background-color: white;">Building plan of House of Jade, 1926. <i>Building Control Division Collection, courtesy of National Archives of Singapore (439/1926).</i></div>
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/towkay-house/11-siteplan.jpg)
@@ -111,12 +111,10 @@ Teo was also one of the founders of the Singapore Chinese Chamber of Commerce an
 
 The architectural historian Julian Davison has described Teo’s house as being French-inspired, resembling the Basilique du Sacré-Coeur de Montmartre (Sacred Heart Basilica of Montmartre) in Paris.[^18]
 
-![Alt text for image on Isomer site](/images/vol-17-issue-4/towkay-house/14-southfacadeparis.jpg)
+![Alt text for image on Isomer site](/images/vol-17-issue-4/towkay-house/14-southfacadeparis2.jpg)
 <div style="background-color: white;">South facade of the Basilique du Sacré-Cœur de Montmartre in Paris. Photo by Tonchino, 23 October 2011. <i>Image retrieved from Wikimedia Commons (Attribution-ShareAlike 3.0 Unported [CC BY-SA 3.0]).</i></div>
 
-![Alt text for image on Isomer site](/images/vol-17-issue-4/towkay-house/15-oneplan.jpg)
-
-![Alt text for image on Isomer site](/images/vol-17-issue-4/towkay-house/16-plans.jpg)
+![Alt text for image on Isomer site](/images/vol-17-issue-4/towkay-house/16-plans2.jpg)
 <div style="background-color: white;">Building plan for the House of Teo Hoo Lye, 1913. <i>Building Control Division Collection, courtesy of National Archives of Singapore (1253-4/1913).</i></div>
 
 Teo made many additions to his property over the years, which can be seen when comparing the original 1913 site plan with a later one in 1926.
