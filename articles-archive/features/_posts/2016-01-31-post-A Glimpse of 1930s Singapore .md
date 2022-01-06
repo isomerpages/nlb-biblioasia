@@ -102,6 +102,5 @@ Times*, p. 12; [Braddell retires, cuts last link](http://eresources.nlb.gov.sg/n
 [^16]:[*The Straits Times*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19601126-1.2.84), 26 Nov 1960, p. 9; [Sir Roland Braddell](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19480611-1.2.38). (1948, June 11). *The Straits Times*,
 p. 4; [Singapore citizen](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19510721-1.2.93). (1951, July 21). *The Straits Times*, p. 6; [“The Lights of Singapore”](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19340730-1.2.39).
 (1934, July 30). *The Singapore Free Press and Mercantile Advertiser (1884–1942)*, p. 8. Retrieved from NewspaperSG.
-[^17]:[Death in London of Sir Roland Braddell](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19661117-1.2.2). (1966, November 17). The Straits Times, p. 1. Retrieved
-from NewspaperSG.
-[^18]:[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19661117-1.2.2), 17 Nov 1966, p. 1.
+[^17]:[Death in London of Sir Roland Braddell](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19661117-1.2.2). (1966, November 17). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
+[^18]:[*The Straits Times*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19661117-1.2.2), 17 Nov 1966, p. 1.
