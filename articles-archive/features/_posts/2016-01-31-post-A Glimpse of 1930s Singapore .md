@@ -93,18 +93,20 @@ In July 1951, Braddell left Singapore but returned to Kuala Lumpur two years lat
 [^8]:[Page 9 Advertisements Column 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19340801-1.2.82.1.aspx). (1934, August 1). *The Singapore Free Press and Mercantile Advertiser (1884–1942)*, p. 9. Retrieved from NewspaperSG.
 [^9]:[*The Singapore Free Press and Mercantile Advertiser (1884–1942)*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19340801-1.2.82.1.aspx), 1 Aug 1934, p. 9; [Page 16 Advertisements Column 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19351116-1.2.109.1.aspx). (1935, November 16), *The Singapore Free Press and Mercantile Advertiser (1884–1942)*, p. 16; [Page 7 Advertisements Column 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19351116-1.2.109.1.aspx). (1934, July 22). *The Straits Times*, p. 7; [Page 9 Advertisements Column 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19340623-1.2.75.1.aspx). (1934, June 23). *The Singapore Free Press and Mercantile Advertiser (1884–1942)*, p. 9. Retrieved from NewspaperSG.
 [^10]:[Colony Cavalcade: Malayan record](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19351103-1.2.23.aspx). (1935, November 3). *The Straits Times*, p. 2; [Black market in books](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19470720-1.2.38.aspx). (1947, July 20). *The Straits Times*, p. 5. Retrieved from NewspaperSG.
-1 Death of Lady Violet Braddell. (1948, October 28). 
-<i>The Straits Times</i>, p. 7; New Braddell generation in Singapore. (1947, October 18). <i>The Straits Times</i>, p. 7. Retrieved from NewspaperSG.<br><br>
-2 Attorneys-General of the Straits Settlements from 1867 to 1936. (1936, November 8). <i>The Straits Times</i>, p. 16; Sir Thomas Braddell (1927, February 4). <i>The Straits Times</i>, p. 9. Retrieved from NewspaperSG.<br><br>
-3 As I was saying. (1933, October 7). <i>The Singapore Free Press and Mercantile Advertiser</i> (1884–1942), p. 8. Retrieved from NewspaperSG; Makepeace, W., Brooke, G. E., & Braddell, R. St. J. (Eds.). (1991). <i>One hundred 
-years of Singapore</i> (Vol. 2, p. 430). Singapore: 
-Oxford University Press. Call no.: RSING 959.57 ONE.<br><br>
-4 Dato Roland Braddell appointed to Johore Executive Council. (1936, April 27). <i>The Straits Times</i>, p. 12; Braddell retires, cuts last link. (1960, November 26). <i>The Straits Times</i>, p. 9; Ramani, R. (1968, August 28). Roland Braddell. <i>The Straits Times</i>, p. 9. Retrieved from NewspaperSG.<br><br>
-5 Centenary history of Singapore. (1920, November 15). <i>The Singapore Free Press and Mercantile Advertiser</i> (1884–1942), p. 6; Gaming and gambling.
-(1911, November 8). <i>The Singapore Free Press and Mercantile Advertiser</i> (1884–1942), p. 12; The making of a colony. (1916, February 19). <i>The Straits Times</i>. p. 6; Intimate book on Malaya. (1934, July 22). <i>The Straits Times</i>, p. 7; Retrieved from 
-NewspaperSG.<br><br>
-6 <i>The Straits Times</i>, 26 Nov 1960, p. 9; Sir Roland 
-Braddell. (1948, June 11). <i>The Straits Times</i>, p. 4; Singapore citizen. (1951, July 21). <i>The Straits Times</i>, p. 6; “The Lights of Singapore”. (1934, July 30). <i>The Singapore Free Press and Mercantile Advertiser</i> (1884–1942), p. 8. Retrieved from NewspaperSG.<br><br>
-7 Death in London of Sir Roland Braddell. (1966, November 17). <i>The Straits Times</i>, p. 1. Retrieved 
-from NewspaperSG.<br><br>
-8 <i>The Straits Times</i>, 17 Nov 1966, p. 1
+[^11]:Death of Lady Violet Braddell. (1948, October 28). The Straits Times, p. 7; New Braddell generation in Singapore. (1947, October 18). The Straits Times, p. 7. Retrieved from NewspaperSG. 
+[^12]:Attorneys-General of the Straits Settlements from 1867 to 1936. (1936, November 8). The Straits Times, p. 16; Sir Thomas Braddell (1927, February 4). The Straits Times, p. 9. Retrieved
+from NewspaperSG. 
+[^13]:As I was saying. (1933, October 7). The Singapore Free Press and Mercantile Advertiser (1884–1942), p. 8. Retrieved from NewspaperSG; Makepeace, W., Brooke, G. E., & Braddell, R. St. J. (Eds.). (1991). One hundred years of Singapore (Vol. 2, p. 430). Singapore: Oxford University Press. Call no.: RSING 959.57 ONE
+[^14]:Dato Roland Braddell appointed to Johore Executive Council. (1936, April 27). The Straits
+Times, p. 12; Braddell retires, cuts last link. (1960, November 26). The Straits Times, p. 9;
+Ramani, R. (1968, August 28). Roland Braddell. The Straits Times, p. 9. Retrieved from
+NewspaperSG.
+[^15]:Centenary history of Singapore. (1920, November 15). The Singapore Free Press and Mercantile
+Advertiser (1884–1942), p. 6; Gaming and gambling. (1911, November 8). The Singapore Free Press and Mercantile Advertiser (1884–1942), p. 12; The making of a colony. (1916, February 19). The Straits Times. p. 6; Intimate book on Malaya. (1934, July 22). The Straits Times, p. 7; Retrieved from NewspaperSG.
+[^16]:The Straits Times, 26 Nov 1960, p. 9; Sir Roland Braddell. (1948, June 11). The Straits Times,
+p. 4; Singapore citizen. (1951, July 21). The Straits Times, p. 6; “The Lights of Singapore”.
+(1934, July 30). The Singapore Free Press and Mercantile Advertiser (1884–1942), p. 8.
+Retrieved from NewspaperSG.
+[^17]:Death in London of Sir Roland Braddell. (1966, November 17). The Straits Times, p. 1. Retrieved
+from NewspaperSG.
+[^18]:The Straits Times, 17 Nov 1966, p. 1.
