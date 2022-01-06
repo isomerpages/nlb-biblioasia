@@ -39,9 +39,6 @@ At this point in the Substation’s history, it is now apt to revisit its beginn
 
 **In 1986, the power station on Armenian Street became the first property under NAC’s then new Arts Housing Scheme to receive a capital grant of $1.07 million for renovations;[^4] the scheme was administered by the MCD’s cultural affairs division, precursor of today’s NAC.**
 
-![Alt text for image on Isomer site](/images/vol-17-issue-4/substation/mural1.png)
-<div style="background-color: white;">Colourful murals at The Substation Garden. These were painted by local artists in the 1990s. <i>The Substation Collection, PictureSG, National Library, Singapore.
-</i></div>
 
 **MCD allowed the former power station, earmarked for conservation, to be managed by a private, not-for-profit company on a 10-year lease. This was unheard of at the time: other buildings – shells of former schools converted into workspaces for arts groups – were leased out for only up to three years.** 
 
