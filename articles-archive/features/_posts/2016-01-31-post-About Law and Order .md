@@ -5,9 +5,8 @@ date: 2016-01-31
 layout: post
 description: ""
 ---
-
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
-	<b>Title:</b> <i>The Law of the Straits Settlements: A Commentary</i><br>
+	<b>Title:</b> <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4367158"><i>The Law of the Straits Settlements: A Commentary</i></a><br>
 <b>Author:</b> Roland St. John Braddell (1880–
 1966)<br>
 <b>Year published:</b> 1915<br>
