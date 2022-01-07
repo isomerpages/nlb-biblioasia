@@ -102,7 +102,7 @@ Designed by Swan & Maclaren, the house of Chinese businessman Teo Hoo Lye was lo
 
 Teo’s life story is the quintessential tale of the immigrant from China who comes to Singapore with nothing, and makes a name for himself through sheer hard work and a shrewd business acumen. Teo was born in 1853 and arrived in Singapore when he was 18. He first found work as a manual labourer, earning just $2 a month, but later decided to venture into business. 
 
-![Alt text for image on Isomer site](/images/vol-17-issue-4/towkay-house/13-teohoolye2.jpg)
+![Alt text for image on Isomer site](/images/vol-17-issue-4/towkay-house/13-teohoolye3.jpg)
 <div style="background-color: white;">Businessman Teo Hoo Lye built his residence in Dhoby Ghaut. <i>Image reproduced from Song Ong Siang, One Hundred Years’ History of the Chinese in Singapore (London: John Murray, 1923), 350. Collection of the National Library, Singapore. (Accession no.: B20048226B).</i></div>
 
 Starting out with a modest grocery store on Rochor Road, Teo expanded his business until it eventually included trading in copra (dried coconut kernels), sago factories in Cebu and Sarawak, and a fleet of steamers for transporting commodities. At the time of his death on 16 November 1933, he was said to have more than 14 steamships in his fleet. 
