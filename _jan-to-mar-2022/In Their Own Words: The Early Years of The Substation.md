@@ -169,7 +169,7 @@ Having a vision does not make a place tick. The values that the place embodies m
 
 #### “What is fringe today will become the centre of tomorrow”
 
-**Arun Mahizhnan, special research advisor at the Institute of Policy Studies, has had a long association with the arts. As Mobil Oil Singapore’s public affairs manager in the 1980s, he helped pave the way for the internationalisation and professionalisation of the Singapore Arts Festival through Mobil’s sponsorship of the festival, and was on the PPACL and then The Substation board for many years.**
+***Arun Mahizhnan*, special research advisor at the Institute of Policy Studies, has had a long association with the arts. As Mobil Oil Singapore’s public affairs manager in the 1980s, he helped pave the way for the internationalisation and professionalisation of the Singapore Arts Festival through Mobil’s sponsorship of the festival, and was on the PPACL and then The Substation board for many years.**
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/substation/ArunMahizhnan.png)
 <div style="background-color: white;">Arun Mahizhnan, former board member of The Substation. <i>Courtesy of Institute of Policy Studies.</i></div>
