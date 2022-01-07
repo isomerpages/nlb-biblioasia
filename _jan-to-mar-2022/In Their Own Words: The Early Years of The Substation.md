@@ -74,7 +74,7 @@ For the capital grant [to cover the building’s renovations], we went to the Mi
 
 #### “Every day, I had to think, where to get money.”
 
-**In 1989, Tan Beng Luan left her civil service job to join PPACL. She knew Kuo from attending his directing course a few years before. Overseeing the founding of The Substation, she recounts the fundraising challenges of the early years – a Straits Times article in 1990 reported that the arts centre had to raise $700,000 for its first year’s operations.**[^7]
+**In 1989, *Tan Beng Luan* left her civil service job to join PPACL. She knew Kuo from attending his directing course a few years before. Overseeing the founding of The Substation, she recounts the fundraising challenges of the early years – a Straits Times article in 1990 reported that the arts centre had to raise $700,000 for its first year’s operations.**[^7]
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/substation/TanBengLuan.png)
 <div style="background-color: white;">Tan Beng Luan left her civil service job to join Practice Performing Arts Centre Ltd. <i>Courtesy of Tan Beng Luan. </i></div>
@@ -111,7 +111,7 @@ So of course Mdm Li was very upset because she was really concerned about the fi
 
 **With the government’s ban on long hair and tightening of rules for live entertainment in the 1970s, the decade after that saw the entire local music scene in the doldrums. Original music in English by Singapore bands had largely disappeared from radio and TV, and the live music venues in those days were mainly hotel lounges.**
 
-**Musician Joe Ng – frontman of 1990s indie band The Padres – talks about how things changed when indie music gigs began to be held at The Substation Garden.**
+**Musician *Joe Ng* – frontman of 1990s indie band The Padres – talks about how things changed when indie music gigs began to be held at The Substation Garden.**
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/substation/JoeNg.png)
 <div style="background-color: white;">Musician Joe Ng of The Padres. <i>Courtesy of Zen Yeo. </i></div>
@@ -140,7 +140,7 @@ Every year, the number of gigs around town increased. In the late ’90s and ear
 
 #### Learning and Receiving Criticism
 
-**The co-artistic director of established socially engaged theatre company Drama Box, Kok Heng Leun got his “baptism of fire” in the arts working as a programme executive at The Substation from 1992 to 1993. He credits the centre as a place of beginnings for many artists like himself.**[^8] 
+**The co-artistic director of established socially engaged theatre company Drama Box, *Kok Heng Leun* got his “baptism of fire” in the arts working as a programme executive at The Substation from 1992 to 1993. He credits the centre as a place of beginnings for many artists like himself.**[^8] 
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/substation/KokHengLeun.png)
 <div style="background-color: white;">Kok Heng Leun, co-artistic director of Drama Box. <i>Courtesy of Alecia Neo.</i></div>
