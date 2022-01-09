@@ -10,20 +10,20 @@ It’s a bird! It’s a plane! It’s a history of the comics in Singapore in th
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-3/oct-dec-2021/director-note">Director's Note</a>
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-3/oct-dec-2021/singapore-comics">Singapore Comics: Panels Past and Present</a><br>Singapore has its own comic superheroes too, as *Jacqueline Lee* and *Chiang Yu Xiang* discover.
+<a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-3/oct-dec-2021/singapore-comics">Singapore Comics: Panels Past and Present</a><br>Singapore has its own comic superheroes too, as *Jacqueline Lee* and *Chiang Yu Xiang* discover. [(PDF)](/files/pdf/vol-17/issue-3/v17-issue3_Singapore_Comics_Panel_Past_Present.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-3/oct-dec-2021/ubinsgermangirlshrine">Unravelling the Mystery of Ubin’s German Girl Shrine
-</a><br>*William L. Gibson* makes many trips to Pulau Ubin to uncover the origin of the mysterious shrine.
+</a><br>*William L. Gibson* makes many trips to Pulau Ubin to uncover the origin of the mysterious shrine. [(PDF)](/files/pdf/vol-17/issue-3/v17-issue3_Unravelling_Mystery_Ubin_German_Girl_Shrine.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-3/oct-dec-2021/theroleofforaging">The Role of Foraging in Malay Cuisine
-</a><br>Foraging for food has been carried out by the Malays for centuries, as *Khir Johari* tells us. (PDF)
+</a><br>Foraging for food has been carried out by the Malays for centuries, as *Khir Johari* tells us. [(PDF)](/files/pdf/vol-17/issue-3/v17-issue3_Role_of_Foraging_Malay_Cuisine.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-3/oct-dec-2021/moderngirl">The Modern Girls of Pre-war Singapore
-</a><br>*Andrea Kee* explores how the Modern Girl asserted her new-found identity in interwar Singapore. (PDF)
+</a><br>*Andrea Kee* explores how the Modern Girl asserted her new-found identity in interwar Singapore. [(PDF)](/files/pdf/vol-17/issue-3/v17-issue3_Modern_Girls_Pre-war_Singapore.pdf)
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-3/oct-dec-2021/ancientgold">Ancient Gold in Southeast Asia</a><br>Where did ancient gold come from? What gold discoveries have been made here? *Foo Shu Tieng* has the answers. (PDF)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-3/oct-dec-2021/ancientgold">Ancient Gold in Southeast Asia</a><br>Where did ancient gold come from? What gold discoveries have been made here? *Foo Shu Tieng* has the answers. [(PDF)](/files/pdf/vol-17/issue-3/v17-issue3_Ancient_Gold_Southeast_Asia.pdf)
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-3/oct-dec-2021/strangevision">Strange Visions of Singapore and the Malay Peninsula</a><br>A human-monkey chimera. A dog king. *Benjamin J.Q. Khoo* examines early European views of Southeast Asia. (PDF)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-3/oct-dec-2021/strangevision">Strange Visions of Singapore and the Malay Peninsula</a><br>A human-monkey chimera. A dog king. *Benjamin J.Q. Khoo* examines early European views of Southeast Asia. [(PDF)](/files/pdf/vol-17/issue-3/v17-issue3_Strange_Visions_Singapore_and_Malay_Peninsula.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-3/oct-dec-2021/changi-airport">How Changi Airport Came To Be</a><br>*Rebecca Tan* uncovers fascinating facts behind the decision to build the airport and how it eventually took shape. [(PDF)](/files/pdf/vol-17/issue-3/v17-issue3_How_Changi%20Airport_Came_To_Be.pdf)
 
