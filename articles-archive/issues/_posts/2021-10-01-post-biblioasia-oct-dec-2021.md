@@ -25,9 +25,9 @@ It’s a bird! It’s a plane! It’s a history of the comics in Singapore in th
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-3/oct-dec-2021/strangevision">Strange Visions of Singapore and the Malay Peninsula</a><br>A human-monkey chimera. A dog king. *Benjamin J.Q. Khoo* examines early European views of Southeast Asia. (PDF)
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-3/oct-dec-2021/changi-airport">How Changi Airport Came To Be</a><br>*Rebecca Tan* uncovers fascinating facts behind the decision to build the airport and how it eventually took shape. (PDF)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-3/oct-dec-2021/changi-airport">How Changi Airport Came To Be</a><br>*Rebecca Tan* uncovers fascinating facts behind the decision to build the airport and how it eventually took shape. [(PDF)](/files/pdf/vol-17/issue-3/v17-issue3_How_Changi%20Airport_Came_To_Be.pdf)
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-3/oct-dec-2021/huianinsingapore">Carving Cultural Imprints: The Hui’an in Singapore</a><br>A group of contractors from Hui’an county in China were responsible for building some of Singapore’s iconic landmarks. *Athanasios Tsakonas* has the story. (PDF)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-3/oct-dec-2021/huianinsingapore">Carving Cultural Imprints: The Hui’an in Singapore</a><br>A group of contractors from Hui’an county in China were responsible for building some of Singapore’s iconic landmarks. *Athanasios Tsakonas* has the story. [(PDF)](/files/pdf/vol-17/issue-3/v17-issue3_Carving_Cultural_Imprints.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-3/oct-dec-2021/prewarphotography">Exhibiting Photography in Pre-war Singapore</a><br>*Zhuang Wubin* revisits three significant photo exhibitions in pre-war Singapore and examines their implications. [(PDF)](/files/pdf/vol-17/issue-3/v17-issue3_Photography_in_Pre-war_Singapore.pdf)
 
