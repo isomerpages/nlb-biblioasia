@@ -75,7 +75,7 @@ At the same time, there was an increase in the number of schools and courses off
 
 Despite having already written three cookbooks, Siti Radhiah enrolled in a cookery course to further deepen her culinary knowledge, incorporating what she had learnt from the course in her fourth cookbook, *Hidangan Kuih Moden*.
 
- As for *Hidangan Wanita Sekarang*, it included perennial favourites of modern Malay women at the time: marble cake, “roll cake” or Swiss roll with jam, oatmeal biscuit, *kuih lapis* (layer cake)[^27] and *kuih semperit* (a butter cookie usually in the shape of a dahlia flower and is also known today as *biskut* or *kuih dahlia*). In addition, there are a handful of variations of kuih lapis in these books, including *lapis Betawi* and *lapis bumbu*. 
+ As for *Hidangan Wanita Sekarang*, it included perennial favourites of modern Malay women at the time: marble cake, “roll cake” or Swiss roll with jam, oatmeal biscuit, *kuih lapis* (layer cake)[^27] and *kuih semperit* (a butter cookie usually in the shape of a dahlia flower and is also known today as *biskut* or *kuih dahlia*). In addition, there are a handful of variations of *kuih lapis* in these books, including *lapis Betawi* and *lapis bumbu*. 
  
 Unlike *Hidangan Wanita Sekarang*, which features a number of traditional Malay *kuih* such as *dodol* (a sticky confection made from glutinous rice flour, coconut milk and palm sugar) and *wajik* (a diamond-shaped snack made with steamed glutinous rice and cooked in palm sugar and coconut milk), *Hidangan Kuih Moden* has no recipes for these.Instead, it consists entirely of Western-style recipes.[^28] The book cover depicts a man in a chef’s uniform and illustrations of Western cakes. 
 
