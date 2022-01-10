@@ -5,9 +5,8 @@ date: 2016-01-31
 layout: post
 description: ""
 ---
-
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
-	<b>Title:</b> <i>Fotoalbum Singapur</i><br>
+	<b>Title:</b> <a href="https://eresources.nlb.gov.sg/printheritage/detail/069efb0a-38a6-4f5a-9814-83aad8f0b724.aspx"><i>Fotoalbum Singapur</i></a><br>
 <b>Creator:</b> G. R. Lambert & Co.<br>
 <b>Year published:</b> 1901<br>
 <b>Publisher:</b> Same as creator (Singapore)<br>
