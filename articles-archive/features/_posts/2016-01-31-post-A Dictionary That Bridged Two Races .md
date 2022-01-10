@@ -61,9 +61,9 @@ An in-depth study of the text reveals that many expressions and sentence constru
 Linguistic insights aside, the dictionary also provides an anthropological snapshot of the lives of these new Chinese residents. The entries include shipping terms and the names of different parts of a ship and the tools used onboard – reflecting the importance of trade in their lives – as well as the names of various types of food and fruits, illnesses, herbs and household items.[^10]
 
 The dictionary was edited by Li Qinghui (李清辉) and published by Lin’s own publishing house, Gu You Xuan (古友轩), also known as Koh Yew Hean Press, established 
-in the 1860s at Telok Ayer Street.[^11]
+in the 1860s on Telok Ayer Street.[^11]
 
-Lin wrote other books, and in 1890, founded the Chinese newspaper called Xing bao (星报).[^12] After Lin died, the newspaper was taken over by his son who eventually sold it to Lim Boon Keng. The latter renamed it Ri xin bao (日新报) in 1899.[^13]
+Lin wrote other books, and in 1890, founded the Chinese newspaper called *Xing bao* (星报).[^12] After Lin died, the newspaper was taken over by his son who eventually sold it to Lim Boon Keng. The latter renamed it *Ri xin bao* (日新报) in 1899.[^13]
  
 – Written by Lee Meiyu
 
@@ -71,11 +71,11 @@ Lin wrote other books, and in 1890, founded the Chinese newspaper called Xing ba
 [^1]:Straits Settlements Department of Statistics. (1883). *Blue Book* (p. P6). Singapore: Government Printing Office. Microfilm no.: NL 30780
 [^2]:张嘉星. (2002). 印尼、新、马闽南方言文献述要. *漳州师范学院学报（哲学社会科学版)*, 3, 73–74. Retrieved from CNKI. 
 [^3]:李如龙. (1998). 华夷通语研究. *方言, 2*, 105–106. Retrieved from CNKI.
-[^4]:林衡南. (1883). 华夷通语序. 华夷通语. 新加坡: 古月轩. Retrieved from BookSG.
+[^4]:林衡南. (1883). [*华夷通语序. 华夷通语*](https://eresources.nlb.gov.sg/printheritage/detail/3b07f148-8b6f-492f-b2fa-7c1c3dc1f188.aspx). 新加坡: 古月轩. Retrieved from BookSG.
 [^5]:李如龙, 1998, pp. 106, 108–122. 
 [^6]:李如龙, 1998, pp. 106, 108–122. 
-[^7]:林衡南, 1883, 华夷通语序.
-[^8]:林衡南, 1883, 自叙.
+[^7]:[林衡南](https://eresources.nlb.gov.sg/printheritage/detail/3b07f148-8b6f-492f-b2fa-7c1c3dc1f188.aspx), 1883, 华夷通语序.
+[^8]:[林衡南](https://eresources.nlb.gov.sg/printheritage/detail/3b07f148-8b6f-492f-b2fa-7c1c3dc1f188.aspx), 1883, 自叙.
 [^9]:李如龙, 1998, pp. 106, 108–122. 
 [^10]:李如龙, 1998, pp. 105-106. 
 [^11]:林衡南, 1883, 华夷通语序; 郑文辉 [Zheng, Wenhui]. (1973). [新加坡华文报业史: 1881–1972](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84469781) [Xinjiapo Hua wen bao ye shi: 1881–1972] (pp. 25–26). 新加坡: 新马出版印刷公司 [Xinjiapo: Xin ma chu ban yin shua]. Call no.: RCLOS 079.5957 CWH-[AKS]
