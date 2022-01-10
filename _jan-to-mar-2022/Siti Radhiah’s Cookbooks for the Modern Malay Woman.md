@@ -7,7 +7,7 @@ description: ""
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/cookbook/cookbook.png)
 <div style="background-color: white;"> (Left) Siti Radhiah’s second cookbook, <i>Hidangan Wanita Sekarang</i> (Dishes for Today’s Women), was first published in Jawi script in 1949. <i>Image reproduced from Siti Radhiah Mohamed Saleh, Hidangan Wanita Sekarang: Kuih-kuih Zaman Sekarang Untuk Hidangan Pada Ketika Minum Teh Petang Atau Pada Ketika Hari-hari Keramaian Atau Hari Besar (Singapore: Royal Press, 1949). (From National Library, Singapore, call no. RCLOS 641.5 RAD)</i><br>
-(Right)</div>
+	(Right) In 1961, Siti Radhiah’s second cookbook, <i>Hidangan Wanita Sekarang</i>, was published in romanised Malay. <i>Image reproduced from Siti Radhiah Mohamed Saleh, Hidangan Wanita Sekarang (Singapore: Royal Press, 1961). (From National Library, Singapore, via PublicationSG).</i></div>
 
 The name Siti Radhiah Mohamed Saleh may not ring a bell to many, but she was one of the few female Malay cookbook authors whose works were produced and published in Singapore in the period between the end of World War II and independence in 1965.[^1] All in all, she wrote four cookbooks: *Hidangan Melayu* (*Malay Dishes*; 1948), *Hidangan Wanita Sekarang* (*Dishes for Today’s Women*; first printed in Jawi script in 1949 and reprinted three more times in Jawi before it was published in romanised Malay in 1961), *Memilih Selera* (*Choosing Tastes*; 1953) and *Hidangan Kuih Moden* (*Modern Kuih Dishes*; 1957).[^2] 
 
