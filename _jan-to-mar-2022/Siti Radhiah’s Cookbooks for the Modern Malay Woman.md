@@ -3,7 +3,6 @@ title: Siti Radhiah’s Cookbooks for the Modern Malay Woman
 permalink: /vol-17/issue-4/jan-to-mar-2022/siti-radhiah-cookbooks
 description: ""
 ---
-
 #### A number of cookbooks written in the 1940s and 1950s helped expand the traditional Malay culinary repertoire, as **Toffa Abdul Wahed** tells us.  
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/cookbook/cookbook.png)
@@ -60,7 +59,7 @@ It is highly likely that Siti Radhiah was encouraged by her husband Harun Aminur
 
 While acknowledging that women should be educated, an article by Rahmah Daud in 1956 published in a special issue celebrating 10 years of *Hiboran*, edited by Harun, mentions that women’s struggle (*perjuangan*) for the nation began at home, and that they must fulfill their domestic responsibilities as wives, mothers and daughters first before venturing out to work in education, politics and other fields.[^20] According to a *Fesyen* article in 1954, women’s role had expanded after World War II from being the *ratu dapur* (“queen of the kitchen”) to the *ratu rumah tangga* (“queen of the household”), signifying that they were expected to be knowledgeable about and responsible for various household matters.[^21]
 
-#### ** A Taste for Modern Kuih**
+#### **A Taste for Modern Kuih**
 
 Siti Radhiah’s second book, *Hidangan Wanita Sekarang*, and fourth book, *Hidangan Kuih Moden*, feature the recipes for a smorgasbord of delicacies which she referred to as *kuih cara baru* (“new-fashioned *kuih*”), *kuih zaman sekarang* (“*kuih* of this time and age”) and *kuih moden* (“modern *kuih*”). She explained that many of the 50 recipes in *Hidangan Wanita Sekarang* closely followed the recipes and cooking techniques of Western cuisine. 
 
