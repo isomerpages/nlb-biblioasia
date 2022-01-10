@@ -31,9 +31,12 @@ with a cover that is adorned with a hand-drawn illustration of the first poem, �
 sheaves of lallang and is framed by clouds, birds and a rainbow. It contains 12 poems on various topics written in a variety of styles and forms, ranging from free verse 
 to rhymed metrical stanzas.[^4]
 
+<img style="width: 600px; height: 400px;" src="/images/vol-11-issue-4/pulse-of-malayan-literature/P3.JPG">
+<div style="background-color: white;">“To Tigerland” by Wang Gungwu, the first poem in <i>Pulse</i>. <i>Image source: National Library Board, Singapore.</i></div>
+
 From a literary perspective, Pulse is the earliest attempt by a writer to avoid the imitation of English verse, and to create a new and authentic literary voice. The sense of place in Wang’s poems is distinctly Malayan for the most part, for example in the poem “Three Faces of Night” he writes:
 
-The crowds wait their share of the steaming fun
+The crowds wait their share of the steaming fun <br>
 At the kuey-teow stalls of the kerosene glare;…[^5]
 
 In “Pulse”, the imagery and aesthetics draw references from English, Malay, Chinese and Malayan culture:
@@ -65,13 +68,10 @@ Engmalchin, however, was a failed literary experiment. The 1955 issue of *New Ca
 Despite the failure of Engmalchin as a literary form, *Pulse*, nonetheless, serves as the standard reference for the study of Singaporean literature in English[^11] – literature born of the aspirations of young Anglophone 
 writers raised in an era of decolonisation and rising nationalism.[^12]
 
-Today, Wang Gungwu is better known as a distinguished historian and scholar on the Chinese diaspora; less is known about his literary forays during his varsity days and their significance to the early development of Singaporean literature.[^13] When *Pulse* was published, Wang saw his work receive critical acclaim in the *Singapore Free Press* and *The Straits Times*.[^14] He continued writing poetry and penning short stories – some under the pseudonym Awang Kedua – which were published in student journals such as *The New Cauldron*,*The Malayan Undergrad and The Compact: A Selection of University of Malaya Short Stories, 1953–1959*.[^15]
+Today, Wang Gungwu is better known as a distinguished historian and scholar on the Chinese diaspora; less is known about his literary forays during his varsity days and their significance to the early development of Singaporean literature.[^13] When *Pulse* was published, Wang saw his work receive critical acclaim in the *Singapore Free Press* and *The Straits Times*.[^14] He continued writing poetry and penning short stories – some under the pseudonym Awang Kedua – which were published in student journals such as *The New Cauldron*,*The Malayan Undergrad* and *The Compact: A Selection of University of Malaya Short Stories, 1953–1959*.[^15]
 
 Wang stopped writing in the early 1960s[^16] after graduating with a Doctorate in History at the School of Oriental and African Studies in London. He became a noted historian, assuming roles as University 
 Professor at the National University of Singapore, Chairman of the East Asian Institute and Emeritus Professor at the Australian National University.[^17] Wang‘s friendship with Beda Lim endured after graduation. Lim was the Chief Librarian at the University of Malaya Library from 1965 to 1980. He died in 1999 at the age of 73.[^18] 
-
-<img style="width: 600px; height: 400px;" src="/images/vol-11-issue-4/pulse-of-malayan-literature/P3.JPG">
-<div style="background-color: white;">“To Tigerland” by Wang Gungwu, the first poem in <i>Pulse</i>. <i>Image source: National Library Board, Singapore.</i></div>
 
 – Written by Gracie Lee
 
@@ -80,9 +80,9 @@ Professor at the National University of Singapore, Chairman of the East Asian In
 [^2]:Holden, P. (2002). Interrogating diaspora: Wang Gungwu’s Pulse. *ARIEL: A Review of International English Literature, 33* (3–4), 114. Retrieved from Synergies Canada website;  Tan, T. S. (1950, May 13). [A book of poems comes from a Malayan’s pen](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19500513-1.2.64.19.aspx). *The Singapore Free Press*, p. 3. Retrieved from NewspaperSG.
 [^3]:Koh, T. A. (Ed.). (2008). [*Singapore literature in English: An annotated bibliography*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13094749) (p. 146). Singapore: National Library Board Singapore and Centre for Liberal Arts and Social Sciences, Nanyang Technological University. Call no.: RSING 016.8208 SIN-[LIB].
 [^4]:Patke, R. S., & Holden, P. (2010). Malaysian and Singaporean writing to 1965. In [*The Routledge concise history of Southeast Asian writing in English*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13215147) (p. 51). London: New York: Routledge. Call no.: RSING 895.9 PAT.
-[^5]:Wang, G. (1950). Pulse (pp. 14–15). Singapore: Beda Lim. Call no.: RCLOS 828.99595 WAN; Lim, S. (1989). The English-language writer in Singapore. In Sandhu, K. S., & Wheatley, P. (Eds.). [*Management of success: The moulding of modern Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5353304) (pp. 523–551). Singapore: Institute of Southeast Asian Studies. Call no.: RSING 959.57 MAN-[HIS].  
-[^6]:Wang, 1950, p. 2; Lim, 1989, pp. 523–551.
-[^7]:Wang, 1950, p. 13; Lim, 1989, pp. 523–551.
+[^5]:Wang, G. (1950). [Pulse](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5030873) (pp. 14–15). Singapore: Beda Lim. Call no.: RCLOS 828.99595 WAN; Lim, S. (1989). The English-language writer in Singapore. In Sandhu, K. S., & Wheatley, P. (Eds.). [*Management of success: The moulding of modern Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5353304) (pp. 523–551). Singapore: Institute of Southeast Asian Studies. Call no.: RSING 959.57 MAN-[HIS].  
+[^6]:Wang, 1950, p. 2; [Lim](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5030873), 1989, pp. 523–551.
+[^7]:Wang, 1950, p. 13; [Lim](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5353304), 1989, pp. 523–551.
 [^8]:Asad, L. (2010). (Ed.). [*Wang Gungwu: Junzi: Scholar-gentleman in conversation with Asad-ul Iqbal Latif*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13726473) (p. 1). Singapore: Institute of Southeast Asian Studies. Call no.: RSING 959.007202 WAN.
 [^9]:Holden, P. (2008, January 10). *Introduction to “Learning Me Your Language”*. Retrieved from S/PORES website.
 [^10]:Vackey, T. (1955, Michaelmas Term). Editorial. [*The New Cauldron*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4551118), 4.
