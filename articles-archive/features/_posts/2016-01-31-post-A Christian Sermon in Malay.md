@@ -5,9 +5,8 @@ date: 2016-01-31
 layout: post
 description: ""
 ---
-
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
-	<b>Title:</b> The Substance of Our Saviour’s Sermon on the Mount Contained in the 5th, 6th &c. 7th Chapters of the Gospel According to St. Matthew<br>
+	<b>Title:</b> <a href="https://eresources.nlb.gov.sg/printheritage/detail/b3254e5b-902c-46d6-b1a0-f2c5badc25cf.aspx"><i>The Substance of Our Saviour’s Sermon on the Mount Contained in the 5th, 6th &c. 7th Chapters of the Gospel According to St. Matthew</i></a><br>
 <b>Author and translator:</b> Claudius Henry Thomsen (1782–unknown)<br>
 <b>Year published:</b> 1829<br>
 <b>Publisher:</b> S. C. Mission Press (Singapore)<br>
@@ -30,7 +29,7 @@ Thomsen most likely translated the *Sermon on the Mount* into Malay. The Sermon 
 
 As student of the learned teacher and interpreter Abdullah bin Abdul Kadir (also known as Munsyi Abdullah),[^4] Thomsen translated a number of Christian works into Malay under Abdullah’s tutelage. Prior to his arrival in Singapore in 1822, Thomsen spent several years in the Dutch East Indies before joining the LMS’ Melaka station in 1815. Besides managing the Mission Press in Singapore, he also founded a small school for the Malay community.[^5]
 
-Under Thomsen’s supervision, the Mission Press became more active, printing Malay books and tracts on a regular basis. In the 1830 report of the Singapore Christian Union, Thomsen reported that a sum of 18 dollars and 50 cents was disbursed for the printing of 1,000 copies of the *Sermon on the Mount*.[^6] Other publications printed by the Mission Press in the same year included religious tracts such as *Scripture Tickets*, *Abdullah and Sabat and Good News for the Children of Adam*.[^7]
+Under Thomsen’s supervision, the Mission Press became more active, printing Malay books and tracts on a regular basis. In the 1830 report of the Singapore Christian Union, Thomsen reported that a sum of 18 dollars and 50 cents was disbursed for the printing of 1,000 copies of the *Sermon on the Mount*.[^6] Other publications printed by the Mission Press in the same year included religious tracts such as *Scripture Tickets*, *Abdullah* and *Sabat and Good News for the Children of Adam*.[^7]
 
 Quite apart from its evangelical work, LMS and its missionaries played a pioneering role in Singapore’s printing industry. These missionaries were the first to venture into printing and publishing in Singapore, albeit primarily as a means of spreading the Christian faith. Earlier, in January 1823, Milton and Thomsen had sought permission from the government to establish a printing press on the island. Their request was granted the same month and so S. C. Mission Press, the first printing press in Singapore, was born.[^8]
 
