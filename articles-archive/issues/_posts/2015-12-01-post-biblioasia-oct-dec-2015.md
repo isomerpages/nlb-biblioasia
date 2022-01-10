@@ -21,7 +21,7 @@ Opium-smoking, gambling, prostitution and triad activities were common in Singap
 
 **[Men in Blue: A History of the Singapore Police Force](/vol-11/issue-3/oct-dec-2015/blue)**<br>The Singapore Police Force has made great strides – along with several changes in uniform – since its inception in 1819. *Ang Seow Leng* traces its history. [(PDF)](/files/pdf/vol-11/issue-3/v11-issues3_MenBlue.pdf)
 
-**[Di Balik Pintu: Seksualiti di dalam Sastera Melayu](/vol-11/issue-3/oct-dec-2015/pintu)**<br>*Juffri Bin Supa’at* examines the controversial topic of sex and sexuality in Malay literature and how these subjects are represented in both traditional and modern literary texts. [(PDF)](/files/pdf/vol-11/issue-3/v11-issue3_Balik-Pintu.pdf)
+**[Di Balik Pintu: Seksualiti di dalam Sastera Melayu](/vol-11/issue-3/oct-dec-2015/pintu)**<br>*Juffri Bin Supa’at* examines the controversial topic of sex and sexuality in Malay literature and how these subjects are represented in both traditional and modern literary texts.[(PDF)](/files/pdf/vol-11/issue-3/v11-issue3_Balik-Pintu.pdf)
 
 **[Convict Labour in Colonial Singapore](/vol-11/issue-3/oct-dec-2015/convict)**<br>Singapore was once a penal colony for convicts shipped in from overseas. *Bonny Tan* documents how their humble service raised some of Singapore’s famous buildings. [(PDF)](/files/pdf/vol-11/issue-3/v11-issue3_ConvictLabour.pdf)
 
