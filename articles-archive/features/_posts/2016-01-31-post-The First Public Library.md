@@ -48,6 +48,10 @@ the monthly fee for Singapore residents was reduced to one Spanish dollar.[^5]
 In addition to membership details, the report also contains information on the collections of the library,the by-laws, including its opening hours, and the fines payable for overdue and lost materials. Each member 
 could only borrow one book and one periodical at atime for anywhere between two and 14 days, depending on the type of item and whether it was a new title.[^6]
 
+<img style="width: 650px; height: 400px;" src="/images/vol-11-issue-4/the-first-public-library/L4.JPG">
+<div style="background-color: white;">The Singapore Library started with three levels of membership. 
+The most expensive category was for shareholders, who paid an entrance fee of 40 Spanish dollars and a monthly subscription of two Spanish dollars. <i>Image source: National Library Board, Singapore.</i></div>
+
 From just 617 volumes in 1846, the library’s collection quickly grew to more than 2,000 volumes by 1860. Its list of books was published in the *Catalogue of Books in 
 the Singapore Library*, and since the Dewey Decimal and Library of Congress classification systems had not yet been developed, the items were arranged by genre and then alphabetically by title.[^7] The National Library does not have the first copy of *Catalogue of Books of the Singapore Library* but it has the September 1860 and January 1863 issues. The two catalogues reveal that the Singapore Library used six genre classes, namely: Biography; Divinity, Ecclesiastical History, etc; General Literature; History, Voyages and Travels, etc; Novels, Tales, etc; and Poetry and Drama.[^8]
 
@@ -64,10 +68,6 @@ Settlements (1843–1855), was the first president of the Singapore Library when
 About eight decades later, in 1955, the library and the museum split amicably, resulting in the establishment of the Raffles National Library at Stamford Road on 12 November 1960. Barely three weeks later, on 1 December, the Raffles National Library was renamed as the National Library, which would exist until 1 September 1995 when it became a statutory board known as the 
 National Library Board.[^13]
 
-<img src="/images/vol-11-issue-4/the-first-public-library/L4.JPG">
-<div style="background-color: white;">The Singapore Library started with three levels of membership. 
-The most expensive category was for shareholders, who paid an entrance fee of 40 Spanish dollars and a monthly subscription of two Spanish dollars. <i>Image source: National Library Board, Singapore.</i></div>
-
 – Written by Lim Tin Seng
 
 #### **NOTES**
@@ -83,4 +83,4 @@ The most expensive category was for shareholders, who paid an entrance fee of 40
 [^10]:Chan, F. W., et. al. (2008). [*Catalogue of rare materials in Lee Kong Chian Reference Library*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12995119). Singapore: National Library Board. Call no.: RSING 016.95 CAT-[LIB]
 [^11]:Singapore Library. (1850). [*The fifth report of the Singapore Library 1849*](https://eresources.nlb.gov.sg/printheritage/detail/3c12fae7-bfb5-4524-ab57-892031e43abc.aspx) (pp. 10–12, 20–21). Singapore: Singapore Library. Microfilm: NL 5040
 [^12]:[Seet](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082325), 1983, pp. 19–20.
-[^13]:Ministry of Communications and Information. (2014, November 20). Milestones in libraries. Retrieved from Ministry of Communications and Information website.
+[^13]:Ministry of Communications and Information. (2014, November 20). *Milestones in libraries*. Retrieved from Ministry of Communications and Information website.
