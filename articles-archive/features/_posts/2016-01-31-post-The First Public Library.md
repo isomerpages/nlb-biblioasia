@@ -57,7 +57,7 @@ Over time, the role of the Singapore Library evolved. In 1849, the library assum
 the responsibilities of the librarian were expanded to include the role of curator.[^11] Although this arrangement was considered as one of the causes for the eventual demise of the Singapore Library, it nonetheless laid the foundation for the next phase of development when the library’s functions were expanded to include the administration of a museum before it was reconstituted 
 as the Raffles Library and Museum on 16 July 1874.[^12]
 
-<img style="width: 650px; height: 400px;" src="/images/vol-11-issue-4/the-first-public-library/L3.JPG">
+<img style="width: 650px; height: 450px;" src="/images/vol-11-issue-4/the-first-public-library/L3.JPG">
 <div style="background-color: white;">William J. Butterworth (1801–56), Governor of the Straits 
 Settlements (1843–1855), was the first president of the Singapore Library when it opened in January 1845. <i>Image source: National Library Board, Singapore.</i></div>
 
