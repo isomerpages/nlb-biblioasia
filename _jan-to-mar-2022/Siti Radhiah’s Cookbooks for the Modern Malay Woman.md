@@ -95,7 +95,7 @@ Moving away from *kuih*, Siti Radhiah’s third cookbook, *Memilih Selera*, cont
  I have compiled a cookbook of *lauk-pauk* and I named it *Memilih Selera*. Hopefully, this book can be a companion to the sisters who would like to own it.”[^30]
  
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/cookbook/1953.png)
-<div style="background-color: white;"> Siti Radhiah’s third cookbook, <i>Memilih Selera</i> (Choosing Tastes), was published in 1953. <i>Image reproduced from Siti Radhiah Mohamed Saleh, Memilih Selera (Singapore: HARMY, 1953). (From National Library, Singapore, via PublicationSG).</i></div>
+<div style="background-color: white;"> Siti Radhiah’s third cookbook, <i>Memilih Selera</i> (<i>Choosing Tastes</i>), was published in 1953. <i>Image reproduced from Siti Radhiah Mohamed Saleh, Memilih Selera (Singapore: HARMY, 1953). (From National Library, Singapore, via PublicationSG).</i></div>
  
 As mentioned earlier, several of these recipes were obtained from Indonesian women. Hailing from different parts of Indonesia such as Sumatra, Kalimantan and Java, these recipes make up a wide variety that include *sate* (*satay*, or grilled skewered meat), *otak-otak* (fish paste mixed with spices, wrapped in banana or coconut leaves and then grilled), *soto* (a soup comprising meat and vegetables), *gulai* and *opor* (both dishes are cooked in spices and coconut milk). Indonesian dishes with European influences such as *bistik* (beef steak), *kroket* (croquette) and *pastel* (a type of filled pastry like *empanada* and curry puff) are also featured. 
 
