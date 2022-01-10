@@ -13,7 +13,7 @@ description: The development of the arts in Singapore is unimaginable without
 
 A rundown former power station was transformed by artists and the government into an arts centre. And so began the almost inconceivable journey of Singapore’s first independent, multidisciplinary arts space – The Substation.
 
-![Alt text for image on Isomer site](/images/vol-17-issue-4/substation/KuoPaoKon.png)
+![Alt text for image on Isomer site](/images/vol-17-issue-4/substation/KuoPaoKon0.png)
 <div style="background-color: white;">The Substation’s founder, Kuo Pao Kun, 1990. <i>All Rights Reserved. Eric Foo Chee Meng 1979–2001. Courtesy of National Arts Council.
 </i></div>
 
