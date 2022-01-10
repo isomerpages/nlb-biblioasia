@@ -29,6 +29,9 @@ The Substation moved out from Armenian Street on 30 July 2021 and has entered a 
 
 In the three decades that it existed on Armenian Street, it had been an incubator of young artistic talent. Professor Tommy Koh noted in an op-ed in the *Straits Times* that the arts centre “has nurtured many recipients of the Cultural Medallion and Young Artist Award.” He said: “Eminent theatre practitioners, such as Wild Rice founding artistic director Ivan Heng, TNS [The Necessary Stage] artistic director Alvin Tan and TheatreWorks artistic director Ong Keng Seng were mentored by Pao Kun at The Substation.” The Substation also nurtured other lesser known artists as well, he added.[^2]
 
+![Alt text for image on Isomer site](/images/vol-17-issue-4/substation/KuoPaoKon2.png)
+<div style="background-color: white;">Kuo Pao Kun (in black) and Professor Tommy Koh (in sports attire) at The Substation’s First Anniversary Walk-a-Jog event in September 1991. <i>The Substation Collection, PictureSG, National Library, Singapore. </i></div>
+
 Most critical of all were its values and culture. As Koh noted, “The Substation is about the freedom to innovate, to experiment, to challenge the establishment and conventional wisdom. It is about the process of art-making and less about its outcome.”[^3]
 
 At this point in the Substation’s history, it is now apt to revisit its beginnings. Key players of the time share their perspectives on the centre’s founding years.
@@ -81,9 +84,6 @@ The Substation operated in this way: it rented out its spaces for artists to use
 While the government’s capital grant paid for the building, the money for equipment and fittings had to be raised by PPACL. And it was really very hard. Every day, I remember one of my administrators would receive a call from the contractor to ask for payment. Once, we couldn’t even find $800 to pay for the air-con instalment.
 
 But we did have supporters. Our first fundraising event was supported by many visual artists who donated paintings to The Substation that we sold. Our salaries were supported by the Practice Performing Arts School, an entity under PPACL which was financially stable and had a regular income through its classes. Up until Guinness [the beer company] approached us in 1991, it was very hard to get corporate sponsorship. This was before the establishment of the NAC, and when it came to sponsoring the arts, companies were very cautious.
-
-![Alt text for image on Isomer site](/images/vol-17-issue-4/substation/KuoPaoKon2.png)
-<div style="background-color: white;">Kuo Pao Kun (in black) and Professor Tommy Koh (in sports attire) at The Substation’s First Anniversary Walk-a-Jog event in September 1991. <i>The Substation Collection, PictureSG, National Library, Singapore. </i></div>
 
 One day we were having a meeting in the office. Suddenly the door opened, a gentleman and a lady walked in. They asked to speak to the manager. So I said, “Yes, what is your business?” They were from Guinness and wanted to find out more about The Substation. I took them to the café downstairs, answered all their questions, and then they expressed their interest in sponsoring.
 
