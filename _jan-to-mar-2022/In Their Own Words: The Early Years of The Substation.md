@@ -105,7 +105,7 @@ So of course Mdm Li was very upset because she was really concerned about the fi
 
 **With the government’s ban on long hair and tightening of rules for live entertainment in the 1970s, the decade after that saw the entire local music scene in the doldrums. Original music in English by Singapore bands had largely disappeared from radio and TV, and the live music venues in those days were mainly hotel lounges.**
 
-**Musician *Joe Ng* – frontman of 1990s indie band The Padres – talks about how things changed when indie music gigs began to be held at The Substation Garden.**
+**Musician Joe Ng – frontman of 1990s indie band The Padres – talks about how things changed when indie music gigs began to be held at The Substation Garden.**
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/substation/JoeNg.png)
 <div style="background-color: white;">Musician Joe Ng of The Padres. <i>Courtesy of Zen Yeo. </i></div>
@@ -134,7 +134,7 @@ Every year, the number of gigs around town increased. In the late ’90s and ear
 
 #### Learning and Receiving Criticism
 
-**The co-artistic director of established socially engaged theatre company Drama Box, *Kok Heng Leun* got his “baptism of fire” in the arts working as a programme executive at The Substation from 1992 to 1993. He credits the centre as a place of beginnings for many artists like himself.**[^8] 
+**The co-artistic director of established socially engaged theatre company Drama Box, Kok Heng Leun got his “baptism of fire” in the arts working as a programme executive at The Substation from 1992 to 1993. He credits the centre as a place of beginnings for many artists like himself.**[^8] 
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/substation/KokHengLeun.png)
 <div style="background-color: white;">Kok Heng Leun, co-artistic director of Drama Box. <i>Courtesy of Alecia Neo.</i></div>
@@ -166,7 +166,7 @@ Having a vision does not make a place tick. The values that the place embodies m
 
 #### “What is fringe today will become the centre of tomorrow”
 
-***Arun Mahizhnan*, special research advisor at the Institute of Policy Studies, has had a long association with the arts. As Mobil Oil Singapore’s public affairs manager in the 1980s, he helped pave the way for the internationalisation and professionalisation of the Singapore Arts Festival through Mobil’s sponsorship of the festival, and was on the PPACL and then The Substation board for many years.**
+**Arun Mahizhnan, special research advisor at the Institute of Policy Studies, has had a long association with the arts. As Mobil Oil Singapore’s public affairs manager in the 1980s, he helped pave the way for the internationalisation and professionalisation of the Singapore Arts Festival through Mobil’s sponsorship of the festival, and was on the PPACL and then The Substation board for many years.**
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/substation/ArunMahizhnan.png)
 <div style="background-color: white;">Arun Mahizhnan, former board member of The Substation. <i>Courtesy of Institute of Policy Studies.</i></div>
