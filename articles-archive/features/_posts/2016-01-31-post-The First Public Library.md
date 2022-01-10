@@ -5,10 +5,8 @@ date: 2016-01-31
 layout: post
 description: ""
 ---
-
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
-	<b>Title:</b> <i>Reports of the Singapore Library</i> 
-(1844–52, 1860)<br>
+	<b>Title:</b> <a href="https://eresources.nlb.gov.sg/printheritage/detail/3c12fae7-bfb5-4524-ab57-892031e43abc.aspx"><i>Reports of the Singapore Library</i> 	(1844–52, 1860)</a><br>
 <b>Creator:</b> Singapore Library<br>
 <b>Year published:</b> 1845–53, 1861<br>
 <b>Publisher:</b> Mission Press (Singapore)<br>
@@ -20,7 +18,7 @@ description: ""
 <b>Title:</b> <i>Catalogue of Books in the Singapore 
 	Library, with Regulations and By-laws</i><br>
 <b>Creator:</b> Singapore Library<br>
-<b>Year published:</b> September 1860 and January 1863
+<b>Year published:</b> <a href="https://eresources.nlb.gov.sg/printheritage/detail/bf634eb4-67cb-4352-8c78-dea52e2372d2.aspx">September 1860</a> and <a href="https://eresources.nlb.gov.sg/printheritage/detail/ee15f9b1-d56f-4940-9b68-8d8329b780d0.aspx">January 1863</a><br>
 <b>Publisher:</b> Mission Press (Singapore)<br>
 <b>Language</b>: English<br>
 <b>Type:</b> Serial<br>
