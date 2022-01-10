@@ -49,8 +49,6 @@ At this point in the Substation’s history, it is now apt to revisit its beginn
 
 **Tisa Ho:** Juliana had the idea that old buildings that were lying fallow could be better used, as the artists and arts groups that we knew were struggling for working space. The Telok Ayer Performing Arts Centre [TAPAC, now defunct] was, I think, the first experiment. 
 
-
-
 **Juliana Lim:** I went to take a look at The Substation. I remember climbing into the building, through this vertical ladder on the side of the building. I slid open this big, heavy door, entered this room, and found a floor with holes in it, and then the Land Office chaps came and said it was the generator room. This building was unlike the others, unlike TAPAC and all which used to be schools with many classrooms. The power station was not a building for co-sharing. In my subconscious mind, I thought, this is a building that has to go to one player because it’s quite a compact building, it was not big. 
 
 **Ho:** Structurally, it was obviously very sound, it was a very solid building. “Disused” doesn’t begin to describe the state that it was in; it was encrusted with bat and mouse droppings. But I thought the potential was exciting. There was one big space which could be used for a slightly different kind of performance space than the proscenium theatres and Drama Centre that we had then, and some potential workspaces upstairs.
