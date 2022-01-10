@@ -13,11 +13,11 @@ description: The development of the arts in Singapore is unimaginable without
 
 A rundown former power station was transformed by artists and the government into an arts centre. And so began the almost inconceivable journey of Singapore’s first independent, multidisciplinary arts space – The Substation.
 
-![Alt text for image on Isomer site](/images/vol-17-issue-4/substation/KuoPaoKon0.png)
-<div style="background-color: white;">The Substation’s founder, Kuo Pao Kun, 1990. <i>All Rights Reserved. Eric Foo Chee Meng 1979–2001. Courtesy of National Arts Council.
-</i></div>
-
 In 1985, the late influential drama doyen Kuo Pao Kun had a vision of an arts centre that would be accessible to all art forms, artists and cultures. The then Ministry of Community Development (MCD; now Ministry of Culture, Community and Youth) accepted his proposal and leased the building at 45 Armenian Street to Kuo’s Practice Performing Arts Centre Ltd (PPACL). The government also provided a $1.07-million grant towards the reconstruction and renovation of the building, which was completed in June 1990. 
+
+![Alt text for image on Isomer site](/images/vol-17-issue-4/substation/KuoPaoKon0.png)
+<div style="background-color: white;">The Substation’s founder, Kuo Pao Kun, 1990. <i>All Rights Reserved. Eric Foo Chee Meng 1979–2001. Courtesy of National Arts Council, Singapore.
+</i></div>
 
 Opening in September 1990, The Substation predated the National Arts Council (NAC) and much of today’s state-planned arts infrastructure. In its heyday in the 1990s, particularly during Kuo’s tenure as artistic director from 1990 to 1995, it was *the* place to be in the arts. It was a space in which to experiment and make art and also engage in robust debate about one’s work, the arts and society. Singapore’s Ambassador-at-Large Tommy Koh was The Substation’s patron, and its board members during that period included former cabinet minister Ong Pang Boon.
 
