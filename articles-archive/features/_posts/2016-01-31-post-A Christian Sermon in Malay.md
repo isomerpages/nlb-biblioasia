@@ -38,7 +38,7 @@ Quite apart from its evangelical work, LMS and its missionaries played a pioneer
 
 In addition to printing religious booklets and tracts, Mission Press also produced publications for the government and the mercantile community. In fact, as early as 1823, Thomsen was engaged by Raffles to print public documents containing the rules and regulations for the settlement.[^9]
 
-The first newspaper in Singapore, the *Singapore Chronicle* (see page 114), was initially printed by the Mission Press. The first issue was printed on 1 January 1824, and the newspaper continued to be printed by 
+The first newspaper in Singapore, the *Singapore Chronicle*, was initially printed by the Mission Press. The first issue was printed on 1 January 1824, and the newspaper continued to be printed by 
 Mission Press until September 1830, when the newspaper set up its own printing press called the Singapore Chronicle Press.[^10]
 
 The presence of the printing press spurred the growth of printing and publishing in Singapore. Besides missionary related materials that were printed in Malay, publications destined for China and other parts of the region were also printed here. In addition, missionaries who ran into trouble for publishing their proselytising tracts in China turned to the Mission Press in Singapore. When the missionaries eventually moved to China, they left behind a fledgling printing industry which later grew with the 
@@ -49,14 +49,14 @@ Thomsen left Singapore in 1834 under a cloud after selling the Mission Press’ 
 – Written by Ong Eng Chuan
 
 #### **NOTES**
-[^1]:O'Sullivan, L. (1984). The London Missionary Society: A written record of missionaries and printing presses in the Straits Settlements, 1815–1847. [*Journal of the Malaysian Branch of the Royal Asiatic Society*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4126333), Vol. 57, No. 2 (247), 73. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
+[^1]:O'Sullivan, L. (1984). The London Missionary Society: A written record of missionaries and printing presses in the Straits Settlements, 1815–1847. [*Journal of the Malaysian Branch of the Royal Asiatic Society*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4126333)*, Society, 57* (2) (247), 73. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
 [^2]:Makepeace, W., Brooke G. E., & Braddell, R. St. J. (Eds.). (1991). [*One hundred years of Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6203718) (Vol. 2, p. 236). Singapore: Oxford University Press. Call no.: RSING 959.57 ONE-[HIS].
 [^3]:Byrd, C. K. (1970). [*Early printing in the Straits Settlements, 1806–1858*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081984) (p. 14). Singapore: National Library. Call no.: RSING 686.2095957 BYR
-[^4]:Hunt, R. A. (1989). The history of the translation of the bible into Bahasa Malaysia. [*Journal of the Malaysian Branch of the Royal Asiatic Society*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4126333), Vol. 62, No. 1 (256), 38. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
+[^4]:Hunt, R. A. (1989). The history of the translation of the bible into Bahasa Malaysia. [*Journal of the Malaysian Branch of the Royal Asiatic Society*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4126333)*, Society, 62* (1)  (256), 38. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
 [^5]:Lee, G. B. (1989). [*Pages from yesteryear: A look at the printed works of Singapore, 1819–1959*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5360274) (p. 4). Singapore: Singapore Heritage Society. Call no.: RSING 070.5095957 PAG
 [^6]:Singapore Christian Union. (1830). [*The report of the Singapore Christian Union*](https://eresources.nlb.gov.sg/printheritage/detail/f6c7e4f9-05d1-4281-85c4-ad2bfbbaf28d.aspx) (p. 48). Singapore: The Mission press. Microfilm: NL 30804
 [^7]:[Byrd](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081984), 1970, p. 15.
 [^8]:[Byrd](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081984), 1970, p. 14.
 [^9]:O'Sullivan, 1984, p. 74.
-[^10]:Gibson-Hill, C. A. (1953, July). *The Singapore Chronicle, 1824–37*. *Journal of the Malayan Branch of the Royal Asiatic Society*. Vol. 26, No. 1 (161), 192. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
+[^10]:Gibson-Hill, C. A. (1953, July). *The Singapore Chronicle, 1824–37*. *Journal of the Malayan Branch of the Royal Asiatic Society*. *Society, 26* (1) (161), 192. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
 [^11]:[Lee](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5360274), 1989, p. 4.
