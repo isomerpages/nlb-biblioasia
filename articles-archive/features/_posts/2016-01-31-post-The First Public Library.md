@@ -51,13 +51,13 @@ could only borrow one book and one periodical at atime for anywhere between two 
 From just 617 volumes in 1846, the library’s collection quickly grew to more than 2,000 volumes by 1860. Its list of books was published in the *Catalogue of Books in 
 the Singapore Library*, and since the Dewey Decimal and Library of Congress classification systems had not yet been developed, the items were arranged by genre and then alphabetically by title.[^7] The National Library does not have the first copy of *Catalogue of Books of the Singapore Library* but it has the September 1860 and January 1863 issues. The two catalogues reveal that the Singapore Library used six genre classes, namely: Biography; Divinity, Ecclesiastical History, etc; General Literature; History, Voyages and Travels, etc; Novels, Tales, etc; and Poetry and Drama.[^8]
 
-Many of the library’s earliest books, which were mostly donated, included titles such as *Notices of the Indian Archipelago, and Adjacent Countries* (1837) (see page 36), *Memoir of the Life and Public Services of Sir Thomas Stamford Raffles* (1830) and the entire series of *The Edinburgh Review*.[^9] These titles are still with the National Library today.[^10]
+Many of the library’s earliest books, which were mostly donated, included titles such as *Notices of the Indian Archipelago, and Adjacent Countries* (1837), *Memoir of the Life and Public Services of Sir Thomas Stamford Raffles* (1830) and the entire series of *The Edinburgh Review*.[^9] These titles are still with the National Library today.[^10]
 
 Over time, the role of the Singapore Library evolved. In 1849, the library assumed the additional role of a museum when Governor William J. Butterworth presented the Singapore Library with two ancient gold coins given by the Temenggong of Johor. To prepare for its new role, a museum committee was formed and 
 the responsibilities of the librarian were expanded to include the role of curator.[^11] Although this arrangement was considered as one of the causes for the eventual demise of the Singapore Library, it nonetheless laid the foundation for the next phase of development when the library’s functions were expanded to include the administration of a museum before it was reconstituted 
 as the Raffles Library and Museum on 16 July 1874.[^12]
 
-<img src="/images/vol-11-issue-4/the-first-public-library/L3.JPG">
+<img style="width: 650px; height: 400px;" src="/images/vol-11-issue-4/the-first-public-library/L3.JPG">
 <div style="background-color: white;">William J. Butterworth (1801–56), Governor of the Straits 
 Settlements (1843–1855), was the first president of the Singapore Library when it opened in January 1845. <i>Image source: National Library Board, Singapore.</i></div>
 
