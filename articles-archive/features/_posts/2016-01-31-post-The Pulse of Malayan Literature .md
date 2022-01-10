@@ -5,14 +5,13 @@ date: 2016-01-31
 layout: post
 description: ""
 ---
-
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
-	<b>Title:</b> <i>Pulse</i><br>
+	<b>Title:</b> <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5030873"><i>Pulse</i></a><br>
 <b>Author:</b> Wang Gungwu (1930–)<br>
 <b>Year published:</b> 1950<br>
 <b>Publisher:</b> Beda Lim (Singapore)<br>
 <b>Language:</b> English<br>
-<b>Type:</b> Book; 16 pages
+<b>Type:</b> Book; 16 pages<br>
 <b>Call no.:</b> RCLOS 828.99595 WAN<br>
 <b>Accession nos.:</b> B02863093I; B29230019D<br>
 <b>Donated by:</b> Professor Wang Gungwu
@@ -34,11 +33,8 @@ to rhymed metrical stanzas.[^4]
 
 From a literary perspective, Pulse is the earliest attempt by a writer to avoid the imitation of English verse, and to create a new and authentic literary voice. The sense of place in Wang’s poems is distinctly Malayan for the most part, for example in the poem “Three Faces of Night” he writes:
 
-The crowds wait their share of the 
-steaming fun
-
-At the kuey-teow stalls of the 
-kerosene glare;…[^5]
+The crowds wait their share of the steaming fun
+At the kuey-teow stalls of the kerosene glare;…[^5]
 
 In “Pulse”, the imagery and aesthetics draw references from English, Malay, Chinese and Malayan culture:
 
