@@ -20,7 +20,7 @@ layout: post
 [<b>Lay of the Land: 
 The National Archives of Singapore’s Map Collection</b>](/vol-10/issue-4/jan-march-2015/map-collection)<br>From Singapore's days as a colony to modern times, maps have been an integral part of the nation's development. <i>Kevin Khoo</i> highlights the National Archives of Singapore's 10,000-strong map collection. [(PDF)](/files/pdf/vol-10/issue-4/v10-issue4_NASMaps.pdf)
 
-[<b>The Secret Maps of Singapore</b>](/vol-10/issue-4/jan-march-2015/secretmap)<br>Hidden temples and food haunts are just some of the things found in two psychedelic maps published in the 1980s. <i>Bonny Tan</i> explore the origins of these one-of-a-kind maps. [(PDF)](/files/pdf/vol-10/issue-4/v10-issue4_SecretMaps.pdf)
+[<b>The Secret Maps of Singapore</b>](/vol-10/issue-4/jan-march-2015/secretmap)<br>Hidden temples and food haunts are just some of the things found in two psychedelic maps published in the 1980s. <i>Bonny Tan</i> explore the origins of these one-of-a-kind maps.[(PDF)](/files/pdf/vol-10/issue-4/v10-issue4_SecretMaps.pdf)
 
 [<b>On the Trail of Francis P. Ng: Author of F.M.S.R.</b>](/vol-10/issue-4/jan-march-2015/on-the-trail)<br>In her effort to republish one of our unknown literary treasures, <i>Dr Eriko Ogihara-Schuck</i> tracks down the elusive Francis P. Ng, author of possibly the first notable work of poetry in English by a Singapore writer. [(PDF)](/files/pdf/vol-10/issue-4/v10-issue4_FrancisPang.pdf)
 
