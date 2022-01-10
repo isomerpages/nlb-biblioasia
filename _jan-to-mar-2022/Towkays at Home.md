@@ -149,7 +149,7 @@ The House of Teo Hoo Lye was acquired by Mrs Loke Yew (née Lim Cheng Kim) in 19
 [^4]: Alvin Chua, “[Lee Cheng Yan](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1542_2009-08-31.html),” in _Singapore Infopedia_, National Library Board Singapore. Article published 2009.
 [^5]: Lee and Chen, [_Rumah Baba_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9266554), 27. 
 [^6]: Lee and Chen, [_Rumah Baba_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9266554), 27. 
-[^7]: Lee Kip Lin, [_The Singapore House_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5087274) [_1819–1942_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5087274) (Singapore: Times Editions, 1988), 193. (From National Library, Singapore, Call no. RSING 728.095957 LEE); Lee and Chen, [_Rumah Baba_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9266554), 31.
+[^7]: Lee Kip Lin, [_The Singapore House 1819-1942_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5087274)(Singapore: Times Editions, 1988), 193. (From National Library, Singapore, Call no. RSING 728.095957 LEE); Lee and Chen, [_Rumah Baba_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9266554), 31.
 [^8]: “[Mrs Lee Choon Guan](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19311219-1.2.58),” _Straits Times_, 19 December 1931, 12. (From NewspaperSG) 
 [^9]: Kwa Chong Guan, et al., [_Great Peranakans: Fifty Remarkable Lives_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201273828), ed. Alan Chong (Singapore: Asian Civilisations Museum, 2015), 134. (From National Library, Singapore, Call no. RSING 305.895105957 GRE)
 [^10]: Lee and Chen, [_Rumah Baba_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9266554), 28.
