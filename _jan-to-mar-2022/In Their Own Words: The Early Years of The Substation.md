@@ -43,14 +43,13 @@ At this point in the Substation’s history, it is now apt to revisit its beginn
 
 **At the time, veteran arts administrators Juliana Lim and Tisa Ho were, respectively, deputy director and assistant director in MCD’s cultural affairs division. They share the decisions they undertook to let the arts centre fly, including allocating a garden behind the building to The Substation with permission from the Land Office.[^5] The garden became a key performance space before being sublet to a commercial tenant in the mid-2000s.**[^6]
 
-![Alt text for image on Isomer site](/images/vol-17-issue-4/substation/TisaHo.png)
-<div style="background-color: white;">Tisa Ho, former assistant director in the then Ministry of Community Development’s cultural affairs division. <i>Courtesy of Tisa Ho.</i></div>
+![Alt text for image on Isomer site](/images/vol-17-issue-4/substation/Juliana_Tisa.png)
+<div style="background-color: white;">(Left) Juliana Lim, former deputy director in the then Ministry of Community Development’s cultural affairs division. <i>Courtesy of Juliana Lim. </i><br>
+(Right) Tisa Ho, former assistant director in the then Ministry of Community Development’s cultural affairs division. <i>Courtesy of Tisa Ho.</i></div>
 
 **Tisa Ho:** Juliana had the idea that old buildings that were lying fallow could be better used, as the artists and arts groups that we knew were struggling for working space. The Telok Ayer Performing Arts Centre [TAPAC, now defunct] was, I think, the first experiment. 
 
-![Alt text for image on Isomer site](/images/vol-17-issue-4/substation/JulianaLim.png)
-<div style="background-color: white;">Juliana Lim, former deputy director in the then Ministry of Community Development’s cultural affairs division. <i>Courtesy of Juliana Lim. 
-</i></div>
+
 
 **Juliana Lim:** I went to take a look at The Substation. I remember climbing into the building, through this vertical ladder on the side of the building. I slid open this big, heavy door, entered this room, and found a floor with holes in it, and then the Land Office chaps came and said it was the generator room. This building was unlike the others, unlike TAPAC and all which used to be schools with many classrooms. The power station was not a building for co-sharing. In my subconscious mind, I thought, this is a building that has to go to one player because it’s quite a compact building, it was not big. 
 
