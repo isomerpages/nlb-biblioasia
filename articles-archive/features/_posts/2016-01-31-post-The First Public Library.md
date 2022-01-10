@@ -27,7 +27,7 @@ description: ""
 </span>
 
 <img style="width: 450px; height: 420px;" src="/images/vol-11-issue-4/the-first-public-library/L1.JPG">
-<div style="background-color: white;"><i>The Reports of the Singapore Library and Catalogue of Books</i> in the Singapore Library provide an invaluable account of the history of the Singapore Library and its collections. <i>All rights reserved, National Library Board, Singapore.</i></div>
+<div style="background-color: white;">The <i>Reports of the Singapore Library</i> and <i>Catalogue of Books</i> in the Singapore Library provide an invaluable account of the history of the Singapore Library and its collections. <i>All rights reserved, National Library Board, Singapore.</i></div>
 
 People visit the library for various reasons, not least of which to read and look for information on interesting subjects. But what if the subject is the library itself?
 
