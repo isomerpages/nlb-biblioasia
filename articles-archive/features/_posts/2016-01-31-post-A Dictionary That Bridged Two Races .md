@@ -5,9 +5,8 @@ date: 2016-01-31
 layout: post
 description: ""
 ---
-
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
-	<b>Title:</b> <i>Hua yi tong yu</i> (华夷通语)<br>
+	<b>Title:</b> <a href="https://eresources.nlb.gov.sg/printheritage/detail/3b07f148-8b6f-492f-b2fa-7c1c3dc1f188.aspx"><i>Hua yi tong yu</i> (华夷通语)</a><br>
 <b>Author:</b> Lin Hengnan 林衡南 (also known as 
 Lim Kong Chuan 林光铨)<br>
 <b>Year published:</b> 1883<br>
