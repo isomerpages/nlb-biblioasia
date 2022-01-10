@@ -95,9 +95,6 @@ There was a lot of “ding-donging” [back-and-forth]. I often heard Pao Kun ov
 
 I remember asking Pao Kun – what if Guinness drops this whole sponsorship idea because you disagree with their original condition. You guess what his response was? He said, “Well, then we start all over again and look for another sponsor.” This ability to endure hardship and willingness to take a difficult journey is the character of Pao Kun.
 
-![Alt text for image on Isomer site](/images/vol-17-issue-4/substation/FrontDoor.png)
-<div style="background-color: white;">The front door of The Substation, with its slogan “A Home for the Arts”, 1991. It officially opened on 16 September 1990. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore. </i></div>
-
 I remember another incident. In early 1990, one of our board members, Mdm Li Lienfung [the late writer and vice-chairman of the Wah Chang group of manufacturing companies], called me. She had a friend who could be willing to occupy the gallery space for the entire year, which meant we could collect rental revenue. But I said the gallery cannot be rented out for a year because we won’t have the space for our [own] visual art activities. 
 
 So of course Mdm Li was very upset because she was really concerned about the financial situation of The Substation. But then, what to do? This issue about the strong artistic mission of The Substation – versus commercial usage and revenue collection – was a constant tension. You have to make a decision. For that same reason, it would never occur to Pao Kun to rent out the garden [as] it was the second biggest space after the theatre. I often say he led his team of board members through a difficult path full of ups and downs and hurdles. Fortunately, they were willing to come along [on the journey].
@@ -156,6 +153,9 @@ Yet at the same time, we knew that once we started on something, we would subjec
 I remembered asking Pao Kun about the diversity of programming in The Substation. After a year, there were people who were quite confused about what the place was about. In fact, there were people who asked that The Substation should have a clearer identity for easy marketing purposes.
 
 Pao Kun’s response was (and I paraphrase his words here): “The Substation is a home for the arts. So it should accommodate any kind of arts – traditional, contemporary, experimental and pop. So when people come to The Substation, they get to meet different artists, they get to meet different kinds of arts. Isn’t that good?”
+
+![Alt text for image on Isomer site](/images/vol-17-issue-4/substation/FrontDoor2.png)
+<div style="background-color: white;">The front door of The Substation, with its slogan “A Home for the Arts”, 1991. It officially opened on 16 September 1990. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore. </i></div>
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/substation/Dance2.png)
 <div style="background-color: white;">A dance performance in The Substation Garden by Singapore group Dance Dimension Project as part of SeptFest 1996. <i>The Substation Collection, PictureSG, National Library, Singapore.</i></div>
