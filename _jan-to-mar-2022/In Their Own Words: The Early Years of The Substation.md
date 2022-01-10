@@ -39,10 +39,6 @@ At this point in the Substation’s history, it is now apt to revisit its beginn
 
 **In 1986, the power station on Armenian Street became the first property under NAC’s then new Arts Housing Scheme to receive a capital grant of $1.07 million for renovations;[^4] the scheme was administered by the MCD’s cultural affairs division, precursor of today’s NAC.**
 
-![Alt text for image on Isomer site](/images/vol-17-issue-4/substation/murals.png)
-<div style="background-color: white;">Colourful murals at The Substation Garden. These were painted by local artists in the 1990s. <i>The Substation Collection, PictureSG, National Library, Singapore.
-</i></div>
-
 **MCD allowed the former power station, earmarked for conservation, to be managed by a private, not-for-profit company on a 10-year lease. This was unheard of at the time: other buildings – shells of former schools converted into workspaces for arts groups – were leased out for only up to three years.** 
 
 **At the time, veteran arts administrators *Juliana Lim* and *Tisa Ho* were, respectively, deputy director and assistant director in MCD’s cultural affairs division. They share the decisions they undertook to let the arts centre fly, including allocating a garden behind the building to The Substation with permission from the Land Office.[^5] The garden became a key performance space before being sublet to a commercial tenant in the mid-2000s.**[^6]
@@ -69,6 +65,10 @@ For the capital grant [to cover the building’s renovations], we went to the Mi
 **Ho:** I think we also made a case for preservation of our buildings, because there was a lot of talk about conserving the former Tao Nan School beside it [now The Peranakan Museum]. The climate was right, there was an awareness of urgency, of keeping your architectural heritage.
 
 **Lim:** On the garden, I think what Pao Kun said was, “I want the link to nature.” There was a huge banyan tree. Basically, once we agreed with his vision of the building, we were very much swayed in his direction. The garden was Tao Nan School’s playing field, and I think the neighbour was also asking for it. The Land Office had to arbitrate, and they gave it to Pao Kun.
+
+![Alt text for image on Isomer site](/images/vol-17-issue-4/substation/murals.png)
+<div style="background-color: white;">Colourful murals at The Substation Garden. These were painted by local artists in the 1990s. <i>The Substation Collection, PictureSG, National Library, Singapore.
+</i></div>
 
 #### **The General Manager**
 
