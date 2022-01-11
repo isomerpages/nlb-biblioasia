@@ -110,7 +110,7 @@ description: ""
 **[A Handy Cookbook](/vol-11/issue-4/jan-mar-2016/my-favourite-recipes-ellice-handy)**<br>
 *My Favourite Recipes*
 
-**[A Glimpse of 1930s Singapore](/vol-11/issue-4/jan-mar-2016/a-glimpse-of-1930s-singapore)**<br>
+**[A Glimpse of 1930s Singapore](/vol-11/issue-4/jan-mar-2016/lights-singapore-roland-st-john-braddell)**<br>
 *The Lights of Singapore*
 
 **[About Law and Order](/vol-11/issue-4/jan-mar-2016/law-straits-settlements-roland-st-john-braddell)**<br>
