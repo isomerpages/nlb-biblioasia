@@ -14,7 +14,7 @@ description: ""
 <b>Call no.:</b> RRARE 079.5957 SCCR<br>
 <b>Accession no.:</b> B20025195B</span>	
 
-<div style="background-color: white;"><img src="/images/vol-11-issue-4/the-first-newspaper/01_firstnewspaper.jpg"><i>The Singapore Chronicle</i> – the city’s first English newspaper – was first published on 1 January 1824, with Francis James Bernard as its first editor. However, the earliest issue in the National Library’s possession is dated 3 January 1833. <i>All rights Reserved, National Library Board, Singapore.</i></div>
+<div style="background-color: white;"><img src="/images/vol-11-issue-4/the-first-newspaper/02_firstnewspaper.jpg"><i>The Singapore Chronicle</i> – the city’s first English newspaper – was first published on 1 January 1824, with Francis James Bernard as its first editor. However, the earliest issue in the National Library’s possession is dated 3 January 1833. <i>All rights Reserved, National Library Board, Singapore.</i></div>
 
 Long before the advent of modern communications and transportation systems, merchants in 19th-century Singapore relied on the humble newspaper to track shipping arrivals and departures. As the movement of cargo, people and mail was key to the island’s rise as a maritime port, the *Singapore Chronicle*‘s chief task was to disseminate commercial information and news.[^1]
 
@@ -29,8 +29,6 @@ Commercial information aside, the newspaper also included official notifications
 Government notices typically appeared on the first column, at the top of the front page. For this dedicated space, the editor of the newspaper received a regular fixed subsidy of 60 Spanish dollars per month from the government until 1829, when the subsidy was withdrawn in order to save costs.[^8]
 
 *The Singapore Chronicle* was published once a fortnight on Thursdays. It was initially printed on a single sheet of rough, Chinese-made paper and folded once to make four quarto pages, each with three columns of type. The paper later expanded to five or six pages, and became a weekly paper in 1830.[^9]
-
-<div style="background-color: white;"><img src="/images/vol-11-issue-4/the-first-newspaper/02_firstnewspaper.jpg"><i>The Singapore Chronicle</i> – the city’s first English newspaper – was first published on 1 January 1824, with Francis James Bernard as its first editor. However, the earliest issue in the National Library’s possession is dated 3 January 1833. <i>All rights Reserved, National Library Board, Singapore.</i></div>
 
 From mid-1826 onwards, a separate complementary single-sheet weekly paper, *Commercial Register and Advertiser*, was published on Saturdays containing the list of imports and exports during the week, current prices of foreign markets, advertisements as well as shipping information. It was sold at half a Spanish dollar per month to subscribers and 25 cents per issue to non-subscribers.[^10]
 
