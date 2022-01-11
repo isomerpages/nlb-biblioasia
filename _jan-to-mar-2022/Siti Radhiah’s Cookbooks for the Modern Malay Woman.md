@@ -200,7 +200,7 @@ In the later stage of her life, Siti Radhiah, true to her spirit of helping and 
 
 [^34]: “[Halaman 5 Iklan Ruangan 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19611205-1.2.62.1),” *Berita Harian*, 5 December 1961, 5. (From NewspaperSG)
 
-[^35]: ”[Halaman 5 Iklan Ruangan 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19611205-1.2.62.1),” 5. 
+[^35]: ”[Halaman 5 Iklan Ruangan 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19611205-1.2.62.1).” 
 
 [^36]: “[Halaman 10 Iklan Ruangan 4](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19691101-1.2.96.4),” *Berita Harian*, 1 November 1969, (From NewspaperSG).
 
