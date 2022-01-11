@@ -105,8 +105,9 @@ manages the statutory functions of the National Library of
 Singapore, including its Legal Deposit system.
 
 #### **REFERENCES**
-1. Larivière, J. (2000). Guidelines for legal deposit legislation. 
+Larivière, J. (2000). *Guidelines for legal deposit legislation*. 
 Retrieved from UNESCO website.
-2. National Library Board Singapore. (2015, November 4). 
-History of National Library Singapore. Retrieved from 
+
+ National Library Board Singapore. (2015, November 4). 
+*History of National Library Singapore*. Retrieved from 
 National Library Board website.
