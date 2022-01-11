@@ -5,8 +5,6 @@ date: 2016-01-31
 layout: post
 description: ""
 ---
-
-
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;">
 <b>Title:</b> <i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=11508249">Singapore Chronicle and Commercial Register</a></i><br>
 <b>Year published:</b> 1833–37<br>
@@ -46,7 +44,7 @@ As a result, in some issues, questionable paragraphs and articles were removed, 
 
 The *Singapore Chronicle* remained the only newspaper published in Singapore until 1835, when the gagging act was lifted and Singapore’s second newspaper, *The Singapore Free Press*, was established.[^16] Unable to cope with the competition, the *Singapore Chronicle* ceased publication after 30 September 1837.[^17]
 
-Unfortunately, the National Library does not have the earlier issues of the Singapore Chronicle. The earliest issue found in the library’s collection is dated 3 January 1833. However, a collaboration with The British Library has made issues from 1827 accessible in NewspaperSG.
+Unfortunately, the National Library does not have the earlier issues of the *Singapore Chronicle*. The earliest issue found in the library’s collection is dated 3 January 1833. However, a collaboration with The British Library has made issues from 1827 accessible in NewspaperSG.
 
 – Written by Mazelan Anuar
 
