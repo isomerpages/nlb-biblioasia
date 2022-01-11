@@ -5,7 +5,6 @@ date: 2016-01-31
 layout: post
 description: ""
 ---
-
 #### The nation’s published heritage is preserved by the National Library for posterity. **Ivy Lee** reveals the aim of the Legal Deposit and shares highlights from the collection.
 
 <img src="/images/vol-11-issue-4/published-heritage/i.JPG">
@@ -25,7 +24,7 @@ Germany and Britain.
 
 In Singapore, the Legal Deposit function has its roots in the British government’s Indian Act XI of 1835, which required printers and publishers to conform to rules governing public information. 
 With the passing of the Book Registration Ordinance of 1886, the Raffles Library and Museum became the designated Legal Deposit library for all books published in the Straits Settlements 
-(Singapore, Malacca and Penang). 
+(Singapore, Melaka and Penang). 
 
 The enactment of the Raffles National Library Ordinance, which came into force on 1 April 1958, marked an important milestone in 
 the history of the National Library. The ordinance mandated the National Library as the depository library for all materials published and printed in Singapore, a function that was continued 
@@ -68,17 +67,17 @@ Although the National Library Board Act of Singapore has yet to make the deposit
 Selected highlights of the Legal Deposit Collection are currently on display at level 11 of the National Library Building until 29 February 2016.
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
-	<b>Deposit Web</b><br><br>
+	<b>DEPOSIT WEB</b><br><br>
 Information on Legal Deposit and instructions on how to deposit print and digital content with the National Library can be found on 
 Deposit Web at [www.nlb.gov.sg/deposit](www.nlb.gov.sg/deposit). This portal also contains 
 information on International Standard Numbers.<br><br>
-<b>PublicationSG</b><br><br>
+<b>PUBLICATIONSG</b><br><br>
 Launched in October 2015, PublicationSG is a dedicated online catalogue of all physical materials found in the Legal Deposit Collection, a rich archive of nearly 1.1 million items that is now 
 available for public access. Serials and magazines comprise 70 percent of the collection, with 25 percent being books and the rest made up of audiovisual materials and maps as well as ephemera.<br>
 Members of the public can place reservations to view legal deposit items at $1.55 each at the information counters of the Lee Kong Chian Reference Library on levels 7–13 of the National Library Building, or via an online form on the National Library Board website at [catalogue.nlb.gov.sg/publicationsg](catalogue.nlb.gov.sg/publicationsg). The items can only be reviewed at designated work stations at the reference library.
 </span>
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
-	<b>Highlights of the Legal Deposit Collection</b><br><br>
+	<b>HIGHLIGHTS OF THE LEGAL DEPOSIT COLLECTION</b><br><br>
 The National Library launched an exhibition of its Legal Deposit Collection on 3 October 2015 – providing a peek into 
 what matters occupied the minds of Singaporeans over the years. Here are some highlights.<br><br>
 	1. <i>Her World</i>, July 1960<br>
@@ -111,4 +110,3 @@ Retrieved from UNESCO website.
 2. National Library Board Singapore. (2015, November 4). 
 History of National Library Singapore. Retrieved from 
 National Library Board website.
-
