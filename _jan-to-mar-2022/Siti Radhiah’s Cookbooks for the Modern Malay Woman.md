@@ -19,7 +19,7 @@ Siti Radhiah’s cookbooks do not provide much biographical information about he
 
 Much of the information about Siti Radhiah in this essay has been gleaned from the biographies about her husband Harun Aminurrashid – who gained a reputation over time as a renowned educator, writer, editor, publisher and political activist from Singapore – whom she married in the 1930s.[^3] Together, they had 15 children. Siti Radhiah was once a teacher. She likely chose this career because there were not many options available to Malay women at the time. Her father, Mohamed Saleh, was the principal of Serendah Malay School in Selangor. 
 
-![Alt text for image on Isomer site](/images/vol-17-issue-4/cookbook/photo1.png)
+![Alt text for image on Isomer site](/images/vol-17-issue-4/cookbook/Family.png)
 <div style="background-color: white;"> Siti Radhiah and her family lived in Brunei between 1939 and 1946. Her husband, Harun Aminurrashid, was transferred there by the British colonial authorities to take up the position of Superintendent of Education. <i>Image reproduced from Abdullah Hussain, Harun Aminurrashid: Pembangkit Semangat Kebangsaan (Kuala Lumpur: Dewan Bahasa dan Pustaka, 2006), 272. (From National Library, Singapore, Call no. Malay R 899.283 ABD).
 </i></div>
 
