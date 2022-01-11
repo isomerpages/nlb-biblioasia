@@ -149,18 +149,20 @@ description: ""
 **[About Babas and the Chinese](https://nlb-ba-staging.netlify.app/vol-11/issue-4/jan-mar-2016/about-babas-and-chinese)**<br>
 *The Manners and Customs of the Chinese of the Straits Settlements*
 
-**[The First Directory](/vol-11/issue-4/jan-mar-2016/the-first-directory)**<br>
+**[The First Directory](/vol-11/issue-4/jan-mar-2016/straits-times-almanack-calendar-directory)**<br>
 *The Straits Times Almanack, Calendar and Directory*
 
-**[A Colonial Cookbook](/vol-11/issue-4/jan-mar-2016/a-colonial-cookbook)**<br>
+**[A Colonial Cookbook](/vol-11/issue-4/jan-mar-2016/mems-cookery-book-william-edward-kinsey)**<br>
 *The “Mem’s” Own Cookery Book: 420 Tried and Economical Recipes for Malaya*
 
-**[In Aid of the Motherland](/vol-11/issue-4/jan-mar-2016/in-aid-of-the-motherland)**<br>
+**[In Aid of the Motherland](/vol-11/issue-4/jan-mar-2016/tong-seok-association-charity-shantung-relief-fund)**<br>
 *Singapore Tong Seok Dramatic Association Charity Performance for the Shantung Relief Fund* (星洲通俗白话剧团演剧筹赈山东惨灾会特刊)
 
-**[The First Newspaper](/vol-11/issue-4/jan-mar-2016/the-first-newspaper)**<br>
+**[The First Newspaper](/vol-11/issue-4/jan-mar-2016/singapore-chronicle-first-newspaper)**<br>
 *Singapore Chronicle and Commercial Register*
 
-**[A Gift of Books](/vol-11/issue-4/jan-mar-2016/a-gift-of-books)**
+**[A Gift of Books](/vol-11/issue-4/jan-mar-2016/gift-of-books-SG50)**<br>
+The National Library Board wins hearts (and minds) around the world with its SG50 Gift of Books initiative. *Amelia Tan* has the details.
 
-**[Preserving Our Published Heritage](/vol-11/issue-4/jan-mar-2016/preserving-our-published-heritage)**
+**[Preserving Our Published Heritage](/vol-11/issue-4/jan-mar-2016/preservation-published-heritage-national-library-legal-deposit)**<br>
+The nation’s published heritage is preserved by the National Library for posterity. Ivy Lee reveals the aim of the Legal Deposit and shares highlights from the collection.
