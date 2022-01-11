@@ -113,13 +113,13 @@ description: ""
 **[A Glimpse of 1930s Singapore](/vol-11/issue-4/jan-mar-2016/a-glimpse-of-1930s-singapore)**<br>
 *The Lights of Singapore*
 
-**[About Law and Order](/vol-11/issue-4/jan-mar-2016/about-law-and-order)**<br>
+**[About Law and Order](/vol-11/issue-4/jan-mar-2016/law-straits-settlements-roland-st-john-braddell)**<br>
 *The Law of the Straits Settlements: A Commentary*
 
-**[A Magazine for the Straits Chinese](/vol-11/issue-4/jan-mar-2016/magazine-for-straits-chinese)**<br>
+**[A Magazine for the Straits Chinese](/vol-11/issue-4/jan-mar-2016/straits-chinese-magazine)**<br>
 *The Straits Chinese Magazine: A Quarterly Journal of Oriental and Occidental Culture*
 
-**[Through the Eye Glass](/vol-11/issue-4/jan-mar-2016/through-the-eye-glass)**<br>
+**[Through the Eye Glass](/vol-11/issue-4/jan-mar-2016/cermin-mata-benjamin-keasberry)**<br>
 *Cermin Mata Bagi Segala Orang Yang Menuntut Pengetahuan (An Eye Glass for All Who Seek Knowledge)*
 
 **[The Pulse of Malayan Literature](/vol-11/issue-4/jan-mar-2016/pulse-malayan-literature-wang-gung-wu)**<br>
