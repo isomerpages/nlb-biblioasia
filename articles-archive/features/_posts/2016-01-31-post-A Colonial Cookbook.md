@@ -5,8 +5,6 @@ date: 2016-01-31
 layout: post
 description: ""
 ---
-
-
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;">
 <b>Title:</b> <i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=5232525">The “Mem’s” Own Cookery Book: 420 Tried and Economical Recipes for Malaya</a></i><br>
 <b>Author:</b> Mrs W. E. Kinsey<br>
@@ -51,11 +49,11 @@ After the first cookbook was published, Mrs Kinsey went on to publish a sequel, 
 
 #### **NOTES**
 
-[^1]:Tan, B. (2011). [Malayan cookery book: The mem’s own cookery book](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx). *BiblioAsia, (3)*, 30–34. Retrieved from BiblioAsia website.
+[^1]:Tan, B. (2011). Malayan cookery book: The mem’s own cookery book. [*BiblioAsia*](https://biblioasia.nlb.gov.sg/all-issues/*), 7* (3), 30–34. 
 
 [^2]:[Page 6 Advertisements Column 3](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19340130-1.2.44.3). (1934, January 30). *The Singapore Free Press and Mercantile Advertiser*, p. 6. Retrieved from NewspaperSG. 
 
-[^3]:[Tan](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx), 2011, p. 34.
+[^3]:[Tan](https://biblioasia.nlb.gov.sg/all-issues/), 2011, p. 34.
 
 [^4]:[Europeans in the East](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19191022-1.2.45). (1919, October 22). *The Singapore Free Press and Mercantile Advertiser*, p. 12. Retrieved from NewspaperSG.
 
@@ -67,6 +65,6 @@ After the first cookbook was published, Mrs Kinsey went on to publish a sequel, 
 
 [^8]:[Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19251009-1.2.98). (1925, October 9). *The Singapore Free Press*, p. 16; [Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19250407-1.2.41). (1925, April 7). *The Straits Times*, p. 8. Retrieved from NewspaperSG.
 
-[^9]:[Tan](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx), 2011, p. 30.
+[^9]:[Tan](https://biblioasia.nlb.gov.sg/all-issues/), 2011, p. 30.
 
 [^10]:*[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19300131-1.2.105),* 31 Jan 1930, p. 17.
