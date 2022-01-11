@@ -5,7 +5,6 @@ date: 2016-01-31
 layout: post
 description: ""
 ---
-
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;">
 <b>Title:</b>  <i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=84506050">Singapore Tong Seok Dramatic Association Charity Performance for the Shantung Relief Fund</a></i> <br>(星洲通俗白话剧团演 剧筹赈山东惨灾会特刊)<br>
 <b>Creator:</b> Tong Seok Dramatic Association (通俗白话剧团)<br>
@@ -34,7 +33,8 @@ The publication provides a rare insight into the political allegiances of the Si
 
 The Shantung Relief Fund was one of the largest in early 20th century Singapore, raising a staggering $1.34 million in nine months,[^8] with many well-known overseas Chinese leaders such as Tan Kah Kee and Eu Tong Sen contributing to it. In fact, the Shantung Relief Fund Committee, formed on 17 May 1928, was led by Tan.[^9]
 
-<div style="background-color: white;"><img style="width: 320px; height: 450px;" src="/images/vol-11-issue-4/in-aid-of-the-motherland/01_motherland.jpg">The prominent businessman Tan Kah Kee (1874–1961), who led the Shantung Relief Fund Committee, was a major contributor himself. The success of the fundraising effort was an indication of how strongly local Chinese still felt about the motherland. <i>Tan Kah Kee Memorial Museum Collection, courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;">
+	<img style="width: 280px; height: 400px;" src="/images/vol-11-issue-4/in-aid-of-the-motherland/01_motherland.jpg">The prominent businessman Tan Kah Kee (1874–1961), who led the Shantung Relief Fund Committee, was a major contributor himself. The success of the fundraising effort was an indication of how strongly local Chinese still felt about the motherland. <i>Tan Kah Kee Memorial Museum Collection, courtesy of National Archives of Singapore.</i></div>
 
 Many associations, individuals and businesses took part in the relief effort, and the extraordinary extent of mass participation was significant for three reasons: first, it reflected the involvement of Malayan Chinese in China’s politics;[^10] second, it broke the bang or dialect limitations and barriers of the different Chinese dialect groups, making them more committed to community goals; and third, it set the pattern of mass mobilisation in the 1930s when similar methods to raise money were used in other relief efforts.[^11]
 
