@@ -33,5 +33,5 @@ Opium-smoking, gambling, prostitution and triad activities were common in Singap
 
 **[The Circus Comes to Town](/vol-11/issue-3/oct-dec-2015/circus)**<br>The story of a homegrown circus finds expression in a new book called *Life Beyond the Big Top: Stories of the Tai Thean Kew Circus*, by *Adele Wong*. [(PDF)](/files/pdf/vol-11/issue-3/v11-issue3_CircusTown.pdf)
 
-**[Pay it Forward: The Tamil Digital Heritage Project](/vol-11/issue-3/oct-dec-2015/payitforward)**<br>
+**[Pay It Forward: The Tamil Digital Heritage Project](/vol-11/issue-3/oct-dec-2015/payitforward)**<br>
 *Chitra Sankaran* charts the history of a community-driven project that has seen the digitisation of 350 homegrown Tamil literary works. [(PDF)](/files/pdf/vol-11/issue-3/v11-issue3_Pay-Forward.pdf)
