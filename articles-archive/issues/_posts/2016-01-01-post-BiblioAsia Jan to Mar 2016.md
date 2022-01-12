@@ -9,79 +9,79 @@ description: ""
 
 **[Director's Note](/vol-11/issue-4/jan-mar-2016/directors-note)**
 
-**[The Rare Materials Collection](/vol-11/issue-4/jan-mar-2016/rare-materials)**
+**[The Rare Materials Collection](/vol-11/issue-4/jan-mar-2016/rare-materials)**<br> [Example Filename](/files/pdf/vol-11/issue-4/v11-issue4_RareMaterials.pdf)
 
 **[A Tribute Fit for a Prince](/vol-11/issue-4/jan-mar-2016/alfred-duke-edinburgh)**<br>
-*Address to Alfred, Duke of Edinburgh by the Singapore Chinese Merchants on the Occasion of His Visit to Singapore in 1869*
+*Address to Alfred, Duke of Edinburgh by the Singapore Chinese Merchants on the Occasion of His Visit to Singapore in 1869* [Example Filename](/files/pdf/vol-11/issue-4/v11-issue4_TributePrince.pdf)
 
 **[A Missionary’s Guide to Java and Bali](/vol-11/issue-4/jan-mar-2016/journal-java-bali-medhurst)**<br>
-*Journal of a Tour along the Coast of Java and Bali etc, with a Short Account of the Island of Bali Particularly of Bali Baliling*
+*Journal of a Tour along the Coast of Java and Bali etc, with a Short Account of the Island of Bali Particularly of Bali Baliling* [Example Filename](/files/pdf/vol-11/issue-4/v11-issue4_JavaBali.pdf)
 
 **[Malaya Through One Man’s Eyes](/vol-11/issue-4/jan-mar-2016/british-malaya-swettenham)**<br>
-*British Malaya: An Account of the Origin and Progress of British Influence in Malaya*
+*British Malaya: An Account of the Origin and Progress of British Influence in Malaya* [Example Filename](/files/pdf/vol-11/issue-4/v11-issue4_OneManEyes.pdf)
 
 **[An Expat’s Impressions of Singapore](/vol-11/issue-4/jan-mar-2016/history-singapore-buckley)**<br>
-*An Anecdotal History of Old Times in Singapore: From the Foundation of the Settlements Under the Honourable the East India Company, on February 6th, 1819, to the Transfer of the Colonial Office as Part of the Colonial Possessions of the Crown on April 1st, 1867*
+*An Anecdotal History of Old Times in Singapore: From the Foundation of the Settlements Under the Honourable the East India Company, on February 6th, 1819, to the Transfer of the Colonial Office as Part of the Colonial Possessions of the Crown on April 1st, 1867* [Example Filename](/files/pdf/vol-11/issue-4/v11-issue4_ExpatImpressions.pdf)
 
 **[A Bilingual Dictionary by a Scotsman](/vol-11/issue-4/jan-mar-2016/malay-dictionary-crawfurd)**<br>
-*A Grammar and Dictionary of the Malay Language with a Preliminary Dissertation*
+*A Grammar and Dictionary of the Malay Language with a Preliminary Dissertation* [Example Filename](/files/pdf/vol-11/issue-4/v11-issue4_BilingualDictionary.pdf)
 
 **[Crawfurd on Southeast Asia](/vol-11/issue-4/jan-mar-2016/dictionary-indian-islands-crawfurd)**<br>
-*A Descriptive Dictionary of the Indian Islands & Adjacent Countries*
+*A Descriptive Dictionary of the Indian Islands & Adjacent Countries* [Example Filename](/files/pdf/vol-11/issue-4/v11-issue4_Crawfurd.pdf)
 
-**[Notes on a Small Island](/vol-11/issue-4/jan-mar-2016/journal-embassy-crawfurd)**<br>
-*Journal of an Embassy from the Governor-General of India to the Courts of Siam and Cochin  China: Exhibiting a View of the Actual State of Those Kingdoms*
+**[Notes on a Little Island](/vol-11/issue-4/jan-mar-2016/journal-embassy-crawfurd)**<br>
+*Journal of an Embassy from the Governor-General of India to the Courts of Siam and Cochin  China: Exhibiting a View of the Actual State of Those Kingdoms* [Example Filename](/files/pdf/vol-11/issue-4/v11-issue4_LittleIsland.pdf)
 
 **[A Portuguese Map of Sincapura](/vol-11/issue-4/jan-mar-2016/portuguese-map-sincapura-janssen)**<br>
-*Malaca, l’Inde Méridionale et le Cathay: Manuscrit Original Autographe de Godinho de Erédia, Appartenant a la Bibliothèque Royale de Bruxelles*
+*Malaca, l’Inde Méridionale et le Cathay: Manuscrit Original Autographe de Godinho de Erédia, Appartenant a la Bibliothèque Royale de Bruxelles* [Example Filename](/files/pdf/vol-11/issue-4/v11-issue4_MapSincapura.pdf)
 
 **[Celebrating a Centenary](/vol-11/issue-4/jan-mar-2016/one-hundred-years-singapore)**<br>
-*One Hundred Years of Singapore: Being Some Account of the Capital of the Straits Settlements from its Foundation by Sir Stamford Raffles on the 6th February 1819 to the 6th February 1919*
+*One Hundred Years of Singapore: Being Some Account of the Capital of the Straits Settlements from its Foundation by Sir Stamford Raffles on the 6th February 1819 to the 6th February 1919* [Example Filename](/files/pdf/vol-11/issue-4/v11-issue4_Centenary.pdf)
 
 **[Logan’s Journal](/vol-11/issue-4/jan-mar-2016/indian-archipelago-eastern-asia-logan-journal)**<br>
-*The Journal of the Indian Archipelago and Eastern Asia*
+*The Journal of the Indian Archipelago and Eastern Asia* [Example Filename](/files/pdf/vol-11/issue-4/v11-issue4_LoganJournal.pdf)
 
 **[Raffles’ Letters of Intrigue](/vol-11/issue-4/jan-mar-2016/letters-stamford-raffles-marquess-lansdowne)**<br>
-*Letters from Sir Thomas Stamford Raffles to Lord Lansdowne*
+*Letters from Sir Thomas Stamford Raffles to Lord Lansdowne* [Example Filename](/files/pdf/vol-11/issue-4/v11-issue4_RafflesLetters.pdf)
 
 **[Raffles’ Political Manoeuvres](/vol-11/issue-4/jan-mar-2016/letter-stamford-raffles-john-tayler)**<br>
-*Letter from Sir Thomas Stamford Raffles to John Tayler*
+*Letter from Sir Thomas Stamford Raffles to John Tayler* [Example Filename](/files/pdf/vol-11/issue-4/v11-issue4_PoliticalManoeuvres.pdf)
 
 **[The Map That Opened Up Southeast Asia](/vol-11/issue-4/jan-mar-2016/map-south-east-asia-exacta-accurata-linschoten)**<br>
-*Exacta & Accurata Delineatio cum Orarum Maritimdrum tum etjam locorum terrestrium quae in Regionibus China, Cauchinchina, Camboja sive Champa, Syao, Malacca, Arracan & Pegu…*
+*Exacta & Accurata Delineatio cum Orarum Maritimdrum tum etjam locorum terrestrium quae in Regionibus China, Cauchinchina, Camboja sive Champa, Syao, Malacca, Arracan & Pegu…* [Example Filename](/files/pdf/vol-11/issue-4/v11-issue4_MapOpenedUp.pdf)
 
 **[The Book That Almost Didn’t Happen](/vol-11/issue-4/jan-mar-2016/notices-indian-archipelago-john-henry-moor)**<br>
-*Notices of the Indian Archipelago, and Adjacent Countries: Being a Collection of Papers Relating to Borneo, Celebes, Bali, Java, Sumatra, Nias, the Philippine islands, Sulus, Siam, Cochin China, Malayan Peninsula, etc*
+*Notices of the Indian Archipelago, and Adjacent Countries: Being a Collection of Papers Relating to Borneo, Celebes, Bali, Java, Sumatra, Nias, the Philippine islands, Sulus, Siam, Cochin China, Malayan Peninsula, etc* [Example Filename](/files/pdf/vol-11/issue-4/v11-issue4_BookDidntHappen.pdf)
 
 **[A War Crimes Trials Snapshot](/vol-11/issue-4/jan-mar-2016/photographs-singapore-war-crimes-trial)**<br>
-*Photographs on the Opening of the War Crimes Trials in Singapore, 21 January 1946*
+*Photographs on the Opening of the War Crimes Trials in Singapore, 21 January 1946* [Example Filename](/files/pdf/vol-11/issue-4/v11-issue4_WarCrimes.pdf)
 
 **[Propaganda Paper](/vol-11/issue-4/jan-mar-2016/syonan-shimbun)**<br>
-*The Syonan Shimbun*
+*The Syonan Shimbun* [Example Filename](/files/pdf/vol-11/issue-4/v11-issue4_PropagandaPaper.pdf)
 
 **[Singapore’s First School](/vol-11/issue-4/jan-mar-2016/singapore-institution-school-stamford-raffles)**<br>
-*Formation of the Singapore Institution, A.D. 1823*
+*Formation of the Singapore Institution, A.D. 1823* [Example Filename](/files/pdf/vol-11/issue-4/v11-issue4_FirstSchool.pdf)
 
 **[Birds of the Malay Peninsula](/vol-11/issue-4/jan-mar-2016/birds-malay-peninsula)**<br>
-*The Birds of the Malay Peninsula: A General Account of the Birds Inhabiting the Region from the Isthmus of Kra to Singapore with the Adjacent Islands*
+*The Birds of the Malay Peninsula: A General Account of the Birds Inhabiting the Region from the Isthmus of Kra to Singapore with the Adjacent Islands* [Example Filename](/files/pdf/vol-11/issue-4/v11-issue4_BirdsHaventSeparate.pdf)
 
 **[Legends of the Malay Kings](/vol-11/issue-4/jan-mar-2016/sejarah-malayu-malay-annals)**<br>
-*Malay Annals [Sejarah Melayu]*
+*Malay Annals [Sejarah Melayu]* [Example Filename](/files/pdf/vol-11/issue-4/v11-issue4_MalayKings-Havent-Separate.pdf)
 
 **[A Bona Fide History Book](/vol-11/issue-4/jan-mar-2016/handbook-singapore-george-murray-reith)**<br>
-*Handbook to Singapore, with Map and a Plan of the Botanical Gardens*
+*Handbook to Singapore, with Map and a Plan of the Botanical Gardens* [Example Filename](/files/pdf/vol-11/issue-4/v11-issue4_HistoryBook.pdf)
 
 **[A Battle Captured in a Map](/vol-11/issue-4/jan-mar-2016/contrafactur-battle-dutch-portuguese-de-bry)**<br>
-*Contrafactur des Scharmutz els der Hollender wider die Portigesen in dem Flus Balusabar [Chart of a Skirmish between the Dutch and the Portuguese in the Balusabar River]*
+*Contrafactur des Scharmutz els der Hollender wider die Portigesen in dem Flus Balusabar [Chart of a Skirmish between the Dutch and the Portuguese in the Balusabar River]* 
 
 **[A Poetic Travelogue in Tamil](/vol-11/issue-4/jan-mar-2016/travelogue-tamil-athivinotha-kuthirai-panthaiya-lavani)**<br>
-*Athivinotha Kuthirai Panthaiya Lavani* (அதிவினோத குதிரை பந்தைய லாவணி)
+*Athivinotha Kuthirai Panthaiya Lavani* (அதிவினோத குதிரை பந்தைய லாவணி) [Example Filename](/files/pdf/vol-11/issue-4/v11-issue4_Travelogue.pdf)
 
 **[When Singapore Was Cinca Pula](/vol-11/issue-4/jan-mar-2016/india-tercera-nuova-tavola)**<br>
-*India Tercera Nuova Tavola*
+*India Tercera Nuova Tavola* [Example Filename](/files/pdf/vol-11/issue-4/v11-issue4_CincaPula.pdf)
 
 **[A Chinese Classic in Baba Malay](/vol-11/issue-4/jan-mar-2016/chrita-dahulu-kala-sam-kok)**<br>
-*Chrita Dahulu-kala, Namanya Sam Kok, Atau, Tiga Negri Ber-prang: Siok, Gwi, Sama Gor di Jaman “Han Teow” [Ancient Story Entitled Sanguo or the Three Kingdoms at War: Shu, Wei and Wu During the Han Dynasty]*
+*Chrita Dahulu-kala, Namanya Sam Kok, Atau, Tiga Negri Ber-prang: Siok, Gwi, Sama Gor di Jaman “Han Teow” [Ancient Story Entitled Sanguo or the Three Kingdoms at War: Shu, Wei and Wu During the Han Dynasty]* 
 
 **[A Singapore-made Qur’an](/vol-11/issue-4/jan-mar-2016/singapore-lithographed-quran)**<br>
 *Lithographed Qur’an*
