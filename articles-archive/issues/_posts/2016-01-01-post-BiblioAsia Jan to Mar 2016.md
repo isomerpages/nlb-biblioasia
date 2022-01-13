@@ -63,16 +63,16 @@ description: ""
 *Formation of the Singapore Institution, A.D. 1823* [(PDF)](/files/pdf/vol-11/issue-4/v11-issue4_FirstSchool.pdf)
 
 **[Birds of the Malay Peninsula](/vol-11/issue-4/jan-mar-2016/birds-malay-peninsula)**<br>
-*The Birds of the Malay Peninsula: A General Account of the Birds Inhabiting the Region from the Isthmus of Kra to Singapore with the Adjacent Islands* [(PDF)](/files/pdf/vol-11/issue-4/v11-issue4_BirdsHaventSeparate.pdf)
+*The Birds of the Malay Peninsula: A General Account of the Birds Inhabiting the Region from the Isthmus of Kra to Singapore with the Adjacent Islands* [(PDF)](/files/pdf/vol-11/issue-4/v11-issue4_Birds.pdf)
 
 **[Legends of the Malay Kings](/vol-11/issue-4/jan-mar-2016/sejarah-malayu-malay-annals)**<br>
-*Malay Annals [Sejarah Melayu]* [(PDF)](/files/pdf/vol-11/issue-4/v11-issue4_MalayKings-Havent-Separate.pdf)
+*Malay Annals [Sejarah Melayu]* [(PDF)](/files/pdf/vol-11/issue-4/v11-issue4_MalayKings.pdf)
 
 **[A Bona Fide History Book](/vol-11/issue-4/jan-mar-2016/handbook-singapore-george-murray-reith)**<br>
 *Handbook to Singapore, with Map and a Plan of the Botanical Gardens* [(PDF)](/files/pdf/vol-11/issue-4/v11-issue4_HistoryBook.pdf)
 
 **[A Battle Captured in a Map](/vol-11/issue-4/jan-mar-2016/contrafactur-battle-dutch-portuguese-de-bry)**<br>
-*Contrafactur des Scharmutz els der Hollender wider die Portigesen in dem Flus Balusabar [Chart of a Skirmish between the Dutch and the Portuguese in the Balusabar River]* 
+*Contrafactur des Scharmutz els der Hollender wider die Portigesen in dem Flus Balusabar [Chart of a Skirmish between the Dutch and the Portuguese in the Balusabar River]* [(PDF)](/files/pdf/vol-11/issue-4/v11-issue4_BattleMap.pdf)
 
 **[A Poetic Travelogue in Tamil](/vol-11/issue-4/jan-mar-2016/travelogue-tamil-athivinotha-kuthirai-panthaiya-lavani)**<br>
 *Athivinotha Kuthirai Panthaiya Lavani* (அதிவினோத குதிரை பந்தைய லாவணி) [(PDF)](/files/pdf/vol-11/issue-4/v11-issue4_Travelogue.pdf)
@@ -81,7 +81,7 @@ description: ""
 *India Tercera Nuova Tavola* [(PDF)](/files/pdf/vol-11/issue-4/v11-issue4_CincaPula.pdf)
 
 **[A Chinese Classic in Baba Malay](/vol-11/issue-4/jan-mar-2016/chrita-dahulu-kala-sam-kok)**<br>
-*Chrita Dahulu-kala, Namanya Sam Kok, Atau, Tiga Negri Ber-prang: Siok, Gwi, Sama Gor di Jaman “Han Teow” [Ancient Story Entitled Sanguo or the Three Kingdoms at War: Shu, Wei and Wu During the Han Dynasty]* 
+*Chrita Dahulu-kala, Namanya Sam Kok, Atau, Tiga Negri Ber-prang: Siok, Gwi, Sama Gor di Jaman “Han Teow” [Ancient Story Entitled Sanguo or the Three Kingdoms at War: Shu, Wei and Wu During the Han Dynasty]* [(PDF)](/files/pdf/vol-11/issue-4/v11-issue4_ChineseclassicBabaMalay.pdf)
 
 **[A Singapore-made Qur’an](/vol-11/issue-4/jan-mar-2016/singapore-lithographed-quran)**<br>
 *Lithographed Qur’an* [(PDF)](/files/pdf/vol-11/issue-4/v11-issue4_Quran.pdf)
@@ -93,7 +93,7 @@ description: ""
 *Haji’s Book of Malayan Nursery Rhymes* [(PDF)](/files/pdf/vol-11/issue-4/v11-issue4_MalaySpin.pdf)
 
 **[Stories of Abdullah](/vol-11/issue-4/jan-mar-2016/hikayat-abdullah-abdul-kadir-munsyi)**<br>
-*Hikayat Abdullah (Stories of Abdullah)* 
+*Hikayat Abdullah (Stories of Abdullah)* [(PDF)](/files/pdf/vol-11/issue-4/v11-issue4_Abdullah.pdf)
 
 **[The First English and Malay Dictionary](/vol-11/issue-4/jan-mar-2016/first-english-malay-dictionary-thomas-bowrey)**<br>
 *A Dictionary: English and Malayo, Malayo and English* [(PDF)](/files/pdf/vol-11/issue-4/v11-issue4_EnglishMalayDictionary.pdf)
@@ -111,7 +111,7 @@ description: ""
 *My Favourite Recipes* [(PDF)](/files/pdf/vol-11/issue-4/v11-issue4_HandyCookbook.pdf)
 
 **[A Glimpse of 1930s Singapore](/vol-11/issue-4/jan-mar-2016/lights-singapore-roland-st-john-braddell)**<br>
-*The Lights of Singapore* 
+*The Lights of Singapore* [(PDF)](/files/pdf/vol-11/issue-4/v11-issue4_1930sSingapore.pdf)
 
 **[About Law and Order](/vol-11/issue-4/jan-mar-2016/law-straits-settlements-roland-st-john-braddell)**<br>
 *The Law of the Straits Settlements: A Commentary* [(PDF)](/files/pdf/vol-11/issue-4/v11-issue4_LawOrder.pdf)
@@ -147,7 +147,7 @@ description: ""
 *Chop Suey* (杂碎画集) [(PDF)](/files/pdf/vol-11/issue-4/v11-issue4_CartoonsTerror.pdf)
 
 **[About Babas and the Chinese](/vol-11/issue-4/jan-mar-2016/manners-customs-chinese-straits-settlements)**<br>
-*The Manners and Customs of the Chinese of the Straits Settlements* 
+*The Manners and Customs of the Chinese of the Straits Settlements* [(PDF)](/files/pdf/vol-11/issue-4/v11-issue4_%20BabasandChinese.pdf)
 
 **[The First Directory](/vol-11/issue-4/jan-mar-2016/straits-times-almanack-calendar-directory)**<br>
 *The Straits Times Almanack, Calendar and Directory* [(PDF)](/files/pdf/vol-11/issue-4/v11-issue4_FirstDirectory.pdf)
@@ -162,7 +162,7 @@ description: ""
 *Singapore Chronicle and Commercial Register* [(PDF)](/files/pdf/vol-11/issue-4/v11-issue4_FirstNewspaper.pdf)
 
 **[A Gift of Books](/vol-11/issue-4/jan-mar-2016/gift-of-books-SG50)**<br>
-The National Library Board wins hearts (and minds) around the world with its SG50 Gift of Books initiative. *Amelia Tan* has the details. 
+The National Library Board wins hearts (and minds) around the world with its SG50 Gift of Books initiative. *Amelia Tan* has the details. [(PDF)](/files/pdf/vol-11/issue-4/v11-issue4_GiftBooks.pdf)
 
 **[Preserving Our Published Heritage](/vol-11/issue-4/jan-mar-2016/preservation-published-heritage-national-library-legal-deposit)**<br>
-The nation’s published heritage is preserved by the National Library for posterity. Ivy Lee reveals the aim of the Legal Deposit and shares highlights from the collection.
+The nation’s published heritage is preserved by the National Library for posterity. Ivy Lee reveals the aim of the Legal Deposit and shares highlights from the collection.[(PDF)](/files/pdf/vol-11/issue-4/v11-issue4_PreservingPublishedHeritage.pdf)
