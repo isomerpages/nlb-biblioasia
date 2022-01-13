@@ -165,4 +165,4 @@ description: ""
 The National Library Board wins hearts (and minds) around the world with its SG50 Gift of Books initiative. *Amelia Tan* has the details. [(PDF)](/files/pdf/vol-11/issue-4/v11-issue4_GiftBooks.pdf)
 
 **[Preserving Our Published Heritage](/vol-11/issue-4/jan-mar-2016/preservation-published-heritage-national-library-legal-deposit)**<br>
-The nation’s published heritage is preserved by the National Library for posterity. Ivy Lee reveals the aim of the Legal Deposit and shares highlights from the collection.[(PDF)](/files/pdf/vol-11/issue-4/v11-issue4_PreservingPublishedHeritage.pdf)
+The nation’s published heritage is preserved by the National Library for posterity. *Ivy Lee* reveals the aim of the Legal Deposit and shares highlights from the collection.[(PDF)](/files/pdf/vol-11/issue-4/v11-issue4_PreservingPublishedHeritage.pdf)
