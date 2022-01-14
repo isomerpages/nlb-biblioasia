@@ -25,7 +25,7 @@ From fish head curry to Indian *rojak*, Indian food in Singapore has evolved ove
 <b>On The Dining Table - Changing Palates Through The Decades </b><br>
 What we eat is often shaped not only by culture and tradition but also society and government policies. Through one family's changing palate, find out how all these factors have influenced what appears on the dinner table.
 
-<b>In Cookery We Trust - The YWCA Cookery Book (1932 - 1964)</b><br>
+<b>In Cookery We Trust - The YWCA Cookery Book (1932 – 1964)</b><br>
 
 <b> Chinese Article</b><br> Summary
 
