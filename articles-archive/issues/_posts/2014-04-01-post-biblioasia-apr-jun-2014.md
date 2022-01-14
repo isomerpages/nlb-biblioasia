@@ -10,7 +10,7 @@ layout: post
 
 [<b>The Library of Memory </b>](/vol-10/issue-1/apr-jun-2014/library-memory)<br><i>Boey Kim Cheng</i>’s memories of Singapore are closely tied to his recollections of reading and the old red-bricked National Library. Here, he remembers his love affair with the library, with words and with books. [(PDF)](/files/pdf/vol-10/issue-1/v10-issue1_LibraryMemory.pdf)
 
-[<b>My Memories of Reading</b>](/vol-10/issue-1/apr-jun-2014/reading-memory)<br>Each book is a memory, a reminder of the person we were when we read it. Here, <i>Claire Tham</i> shares with us the books she remembers – the ones that shaped her thoughts and her writing, and ultimately the person she became.[(PDF)](/files/pdf/vol-10/issue-1/v10-issue1_MyMemories.pdf)
+[<b>My Memories of Reading</b>](/vol-10/issue-1/apr-jun-2014/reading-memory)<br>Each book is a memory, a reminder of the person we were when we read it. Here, <i>Claire Tham</i> shares with us the books she remembers – the ones that shaped her thoughts and her writing, and ultimately the person she became.[(PDF)](/files/pdf/vol-10/issue-1/v10-issue1_My-Memories-Reading.pdf)
 
 [<b>A Journey into Memory</b>](/vol-10/issue-1/apr-jun-2014/journey-memory)<br><i>Meira Chand</i> shares with us her experience writing <i>A Different Sky</i>; what it was like to study the memories of others – and what it was like to make them hers.[(PDF)](/files/pdf/vol-10/issue-1/v10-issue1_JourneyMemory.pdf)
 
