@@ -30,7 +30,7 @@ sections:
       subtitle: highlights
       button: Read more
       url: /vol-17/issue-4/jan-to-mar-2022/empress-asia
-      image: /images/vol-17-issue-4/empress-of-asia/1_Smoke.jpg
+      image: /images/vol-17-issue-4/empress-of-asia/1_Smoke_CP.jpg
       description: The Empress of Asia sank off Tuas in February 1942 while carrying
         troops to fight off the Japanese invasion. Dan Black recounts her last
         days.
