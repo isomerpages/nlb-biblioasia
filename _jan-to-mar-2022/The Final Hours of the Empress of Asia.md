@@ -5,7 +5,6 @@ description: The Empress of Asia sank off Tuas in February 1942 while carrying
   troops to fight off the Japanese invasion. Dan Black recounts its final days.
 image: /images/vol-17-issue-4/empress-of-asia/1_Smoke.jpg
 ---
-
 #### The _Empress of Asia_ sank off Tuas in February 1942 while carrying troops to fight off the Japanese invasion. **Dan Black** recounts its final days.
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/empress-of-asia/1_Smoke.jpg)
@@ -63,6 +62,8 @@ The anti-aircraft armament consisted of a 12-pounder (three-inch gun) fitted aft
 #### **The First Attack: Wednesday, 4 February**
 
 By 11 am, Hosken was helping prepare mooring lines for coming alongside at Singapore, approximately 525 km to the northwest. He detected what Ewart thought he had heard the night before: aircraft engines. “About 11:30 gunfire started and I looked up and saw nine planes coming over at quite a height. Then there were eighteen of them. I started forward to get lifebelt and helmet. Was going along the starboard alleyway on A deck, just about the purser’s office when bang, I thought the ship was broken in half.”
+
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba;text-align:center"> Like what you're reading? <a href=https://form.gov.sg/#!/616799db4d9b61001398f79b>Subscribe</a> to BiblioAsia's online newsletter for the latest stories.</div>
 
 Captain John Watts of the British 18th Div. saw the aircraft at high altitude in “V” formation “with the sun glinting on their silver bodies”. He counted 27, nine to each “V” formation, proceeding north to south.[^5]
 
