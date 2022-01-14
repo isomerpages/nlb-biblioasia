@@ -5,7 +5,6 @@ description: Mandalay Villa. House of Jade. House of Teo Hoo Lye. Yap Jo Lin
   gives us a tour of three opulent homes from the early 20th century.
 image: /images/vol-17-issue-4/towkay-house/Main-TKH.jpg
 ---
-
 #### Mandalay Villa. House of Jade. House of Teo Hoo Lye. **Yap Jo Lin** gives us a tour of three opulent homes from the early 20th century.
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/towkay-house/Main-TKH.jpg)
@@ -94,6 +93,7 @@ The collection was not just open to visiting dignitaries but to the public as we
 
 House of Jade was demolished in 1990 and replaced by the Nassim Jade condominium.[^16]
 
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba;text-align:center"> Like what you're reading? <a href=https://form.gov.sg/#!/616799db4d9b61001398f79b>Subscribe</a> to BiblioAsia's online newsletter for the latest stories.</div>
 
 #### **HOUSE OF TEO HOO LYE**
 Designed by Swan & Maclaren, the house of Chinese businessman Teo Hoo Lye was located at the junction of Dhoby Ghaut, Kirk Terrace and Bras Basah Road, where Cathay Building now stands. 
