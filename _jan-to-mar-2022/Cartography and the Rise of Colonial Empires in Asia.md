@@ -5,8 +5,6 @@ description: Chia Jie Lin highlights interesting cartographic efforts from the
   National Library’s latest exhibition on Asian maps.
 image: /images/vol-17-issue-4/cartography/1-Map3.jpg
 ---
-
-
 #### **Chia Jie Lin** highlights interesting cartographic efforts from the National Library’s latest exhibition on Asian maps.
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/cartography/1-Map3.jpg)
@@ -42,6 +40,8 @@ While maps articulated the administrative intricacies and changing boundaries of
 <div style="background-color: white;">Detail from the map featuring the capital Beijing (京师; <i>jingshi</i>) in a square with a line denoting a province (省; <i>sheng</i>). Within it is the Shuntian (顺天) administrative division and Wanping (宛平) district. The squares denote prefectures (府; <i>fu</i>) while the circles represent districts (县; <i>xian</i>). To the north of the capital is the Great Wall of China, shown winding around the landscape. <i>Complete Geographical Map of the Everlasting Unified Qing Empire</i> (大清万年一统地理全图; <i>Daqing wannian yitong dili quantu</i>), Huang Qianren, 1767 (post-1815 reprint), woodblock-printed, ink on paper. <i>Courtesy of MacLean Collection, Illinois, USA.</i></div>
 
 The map is a reprint of the _All-Under-Heaven Complete Map of the Everlasting Unified Qing Empire_ (大清万年一统天下全图; _Daqing wannian yitong tianxia quantu_), first produced and presented by cartographer Huang Qianren (黄千人, 1694–1771) to Emperor Qianlong (乾隆, r. 1736–96) in 1767. It depicts administrative changes in the wake of military campaigns and treaty negotiations with frontier territories.[^11] The map shows the extent of the Qing realms, including internal frontiers, and features neighbouring states such as Korea and Annam (central Vietnam). It situates China as the Middle Kingdom (中国; _zhongguo_) at the centre of the world, with Europe and the Near East on the far periphery (depicted at the topmost left of the map). Cartographic symbols of varying shapes denote the different administrative divisions and units.
+
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba;text-align:center"> Want more of what you’re reading? Get BiblioAsia’s latest stories delivered to your inbox. Subscribe <a href=https://form.gov.sg/#!/616799db4d9b61001398f79b>here</a>. </div>
 
 The preface, located at the bottom right, notes that the map was produced to communicate the new shape and scope of the empire (天下之广可以全览焉; “the vastness of the empire can be seen”). Furthermore, the map prominently features the newly conquered frontier regions of Mongolia, Tibet and Chinese Turkestan. In his book, _Cartographic Traditions in East Asian Maps_, Richard A. Pegg, Director of the MacLean Collection in Illinois, USA, notes that this court-produced map “confirms the Qing notion of the world”, particularly of Qianlong’s worldview at the peak of his reign.[^12] 
 
