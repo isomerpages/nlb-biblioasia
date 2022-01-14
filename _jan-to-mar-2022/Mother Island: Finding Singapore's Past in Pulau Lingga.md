@@ -1,7 +1,10 @@
 ---
 title: "Mother Island: Finding Singapore's Past in Pulau Lingga"
 permalink: /vol-17/issue-4/jan-to-mar-2022/pulau-lingga
-description: "Singapore’s history is closely intertwined with that of Lingga’s. The kings that once reigned from its shores played a pivotal role in the fate of the Malay world, including the birth of modern Singapore, as Faris Joraimi reveals."
+description: Singapore’s history is closely intertwined with that of Lingga’s.
+  The kings that once reigned from its shores played a pivotal role in the fate
+  of the Malay world, including the birth of modern Singapore, as Faris Joraimi
+  reveals.
 image: /images/vol-17-issue-3/ancient-gold/Armband%20with%20Kala%20motif%20.jpg
 ---
 #### Singapore’s history is closely intertwined with that of Lingga’s. The kings that once reigned from its shores played a pivotal role in the fate of the Malay world, including the birth of modern Singapore, as **Faris Joraimi** reveals.
@@ -21,7 +24,6 @@ Today, many Singaporeans associate the Riau islands, now part of Indonesia, with
 <div style="background-color: white;">Map titled <i>Carte de l’Archipel et des Detroits compris entre Singapour et Banca</i>, 1855, showing Lingga in relation to Singapore. <i>© British Library Board H.F.SEC.18.(1530.).</i></div>
 
 
-
 #### **A Trading Power** 
 
 The name “Riau-Lingga” is a collective geographic expression for an archipelago of islands located south of Singapore and east of Sumatra. The archipelago includes familiar places such as Bintan and Batam, but also other isles, such as Pulau Lingga and Pulau Penyengat, that once loomed large over the region. Riau-Lingga referred to the kingdom’s (uneasy) system of dual government: Riau being the domain of the Bugis chiefs centred around Bintan and Pulau Penyengat, while Pulau Lingga served as the sultan’s headquarters.
@@ -36,6 +38,9 @@ Association with the Malay court gave the Bugis newcomers prestige and also a st
 Old Johor reached its height in the 18th century when it was ruled from the port city of Riau, on the Carang River in Bintan. Stable, prosperous and competitive, it posed a threat to Dutch trading interests in the region.[^5] This rivalry led to an all-out war in 1784 that witnessed the heroic stand of the Bugis chief Raja Haji Fisabilillah against the European invaders. The Dutch, however, eventually triumphed. They destroyed Riau and extended their influence over the polity. 
 
 The echoes of such splendours and struggles can be glimpsed from a seven-hour voyage that begins at the Tanah Merah Ferry Terminal in Singapore and ends at Pulau Lingga, the former kingdom’s royal seat since 1788. Lingga is a land of palaces, forts and tombs, and nearly every royal landmark here bears the imprint of a broader reach.
+
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba;text-align:center"> Like what you're reading? <a href=https://form.gov.sg/#!/616799db4d9b61001398f79b>Subscribe</a> to BiblioAsia's online newsletter for the latest stories.</div>
+
 
 #### **The Isle of Kings** 
 
