@@ -2,9 +2,9 @@
 title: "Wong Din Haan: A Pioneer Educator"
 permalink: /vol-17/issue-4/jan-to-mar-2022/wong-din-haan
 image: /images/vol-17-issue-4/Wong-Din-Haan/Cover-WongDinHaan-R.jpg
-description: "Wong Din Haan not only founded what is believed to be the first girls’ school in Singapore, but she was also a champion for women’s rights."
+description: Wong Din Haan not only founded what is believed to be the first
+  girls’ school in Singapore, but she was also a champion for women’s rights.
 ---
-
 #### Wong Din Haan not only founded what is believed to be the first girls’ school in Singapore, but she was also a champion for women’s rights. **Patricia Lim** tells us more.
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/Wong-Din-Haan/Cover-WongDinHaan-R.jpg)
@@ -52,6 +52,8 @@ After 13 years, Wah Kiew Nui Hok ceased operations in 1918 – the same year tha
 However, Wong Din Haan’s school was a pioneer in female education in that it inspired the establishment of five more Chinese girls’ schools in Singapore during its lifespan.[^8] Of these five schools, Nam Wah Nui Hok (南华女学) founded in 1917 has continued to the present day as Nan Hua High School (南华中学), a premier school for boys and girls.[^9] 
 
 This was probably her most important legacy to Singapore as she recognised the importance of educating women for their own personal development and advancement in society. She was the first woman who had the courage and the nerve to leave the comfortable seclusion of home to push for the education of women in the face of conservative opinion.
+
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba;text-align:center"> Like what you're reading? <a href=https://form.gov.sg/#!/616799db4d9b61001398f79b>Subscribe</a> to BiblioAsia's online newsletter for the latest stories.</div>
 
 
 #### **Advocate for Women’s Rights** 
