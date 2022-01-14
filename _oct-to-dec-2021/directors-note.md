@@ -2,7 +2,6 @@
 title: Director’s Note
 permalink: /vol-17/issue-3/oct-dec-2021/director-note
 ---
-
 Life, as you know, is a never-ending process of change. In that light, I would like to say hello to readers of *BiblioAsia* as the new head of the National Library.
 
 While change might be the only constant in life, what hasn’t changed is our commitment to delivering great reads to you, illuminating interesting nuggets of Singapore’s history.
