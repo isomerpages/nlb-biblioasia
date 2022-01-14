@@ -30,6 +30,8 @@ Trees were also planted in the Botanic Gardens for beautification or in its nurs
 
 After World War II, the colonial government continued to hold many different tree planting activities. For instance, a tree planting campaign was launched in 1948 by the municipality to replant roadside trees that had been cut down during the Japanese Occupation. In 1955, the Singapore Improvement Trust (SIT) introduced a programme for residents to develop “a greater interest in the well-being of the estate” through tree planting. In the same year, the municipality, now renamed the City Council, also began to plant more flowering trees, such as the red bead tree (_Adenanthera pavonina_), green ebony (_Jacaranda filicifolia_) and Madras thorn (_Pithecellobium dulce_), as roadside trees in an attempt to turn Singapore into a “Garden City of the future”.[^3]
 
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba;text-align:center"> Like what you're reading? <a href=https://form.gov.sg/#!/616799db4d9b61001398f79b>Subscribe</a> to BiblioAsia's online newsletter for the latest stories.</div>
+
 #### **The 1963 Tree Planting Campaign**
 
 When the People’s Action Party government came into power in 1959, it continued the practice of tree planting. Prime Minister Lee Kuan Yew believed that it was important for cities to have greenery. “I have always believed that a blighted urban jungle of concrete destroys the human spirit. We need the greenery of nature to lift up our spirits,” he said. “Even in the 1960s, when the Government had to grapple with grave problems of unemployment, lack of housing, health and education, I pushed for the planting of trees and shrubs.”[^4]
