@@ -12,45 +12,34 @@ sections:
       background: /images/vol-17-issue-3/Hero%20Banner.jpg
       key_highlights:
         - title: ""
-          description: Be enthralled by the comics collection at the National Library,
-            ancient gold in Southeast Asia and more!
-          url: /vol-17/issue-3/oct-dec-2021/
+          description: From shipwrecks to cookbooks,
+          url: /vol-17/issue-4/jan-to-mar-2022/
       button: Read the current issue
-      url: /vol-17/issue-3/oct-dec-2021/
+      url: /vol-17/issue-4/jan-to-mar-2022/
   - infopic:
-      title: "French Impressions "
-      subtitle: Diard & Duvaucel
-      description: A little-known collection of drawings from 1818 to 1820 sheds light
-        on the early study of the region’s flora and fauna.
+      title: Cartography and the Rise of Colonial Empires in Asia
+      subtitle: HIGHLIGHTS
+      description: Chia Jie Lin highlights interesting cartographic efforts from the
+        National Library’s latest exhibition on Asian maps.
       button: Read more
-      url: /vol-17/issue-4/jan-mar-2022/diardduvaucel
-      image: /images/vol-17-issue-4/diard-duvaucel/monkey%20BA%20cover.jpg
-      alt: Image alt text
+      url: /vol-17/issue-4/jan-to-mar-2022/asia-maps-cartography
+      image: /images/vol-17-issue-4/cartography/1-Map3.jpg
   - infopic:
-      title: "Singapore Comics: Panels Past and Present"
+      title: The Final Hours of the Empress of Asia
       subtitle: highlights
       button: Read more
-      url: /vol-17/issue-3/oct-dec-2021/singapore-comics
-      image: /images/vol-17-issue-3/singapore-comics/pythongang3.jpg
-      alt: Sample of murals
-      description: Singapore has its own comic superheroes too, as Jacqueline Lee and
-        Chiang Yu Xiang discover.
+      url: /vol-17/issue-4/jan-to-mar-2022/empress-asia
+      image: /images/vol-17-issue-4/empress-of-asia/1_Smoke.jpg
+      description: The Empress of Asia sank off Tuas in February 1942 while carrying
+        troops to fight off the Japanese invasion. Dan Black recounts her last
+        days.
   - infopic:
-      title: Unravelling the Mystery of Ubin’s German Girl Shrine
+      title: "In Their Own Words: The Early Years of The Substation"
       subtitle: highlights
       button: Read more
-      url: /vol-17/issue-3/oct-dec-2021/ubinsgermangirlshrine
-      image: /images/vol-17-issue-3/ubin-shrine/Cover2.jpg
-      alt: sample of vaccination
-      description: William L. Gibson makes many trips to Pulau Ubin to uncover the
-        origin of the mysterious shrine.
-  - infopic:
-      title: The Modern Girls of Pre-war Singapore
-      subtitle: highlights
-      description: Andrea Kee explores how the Modern Girl asserted her new-found
-        identity in interwar Singapore.
-      button: Read more
-      url: /vol-17/issue-3/oct-dec-2021/moderngirl
-      image: /images/vol-17-issue-3/modern-girl/moderngirlhome2.jpg
-      alt: sample of JBP
+      url: /vol-17/issue-4/jan-to-mar-2022/early-years-substation
+      image: /images/vol-17-issue-4/substation/substation.png
+      description: The development of the arts in Singapore is unimaginable without
+        this arts centre. Key individuals from its early history tell Clarissa
+        Oon how it got started.
 ---
