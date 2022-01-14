@@ -5,7 +5,7 @@ date: 2013-10-01
 layout: post
 description: ""
 ---
-Image
+![Alt text for image on Isomer site](/images/covers/ba9-3.jpg)
 
 **Director's Note**
 
@@ -14,7 +14,7 @@ Image
 <b>Hawkers From Public Nuisance to National Icons</b><br>
 From bane of the government to boon of tourism, hawkers in Singapore have come a long way from the time they were viewed by government officials as progenitors of disorder and disease.
 
-<b>"Mrs Beeton" in Malaya</b><br>
+<b>"Mrs Beeton" in Malaya - Women, Cookbooks And The Making of The Housewife</b><br>
 Cookbooks offer interesting insights into the oft-overlooked domestic space of British Malaya, shedding light on how women saw themselves and how feminine ideals from the West were propagated in the colonial era.
 
 <b>Spicy Nation: From India to Singapore</b><br>
