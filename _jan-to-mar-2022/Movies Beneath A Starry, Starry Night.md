@@ -1,7 +1,9 @@
 ---
 title: Movies Beneath A Starry, Starry Night
 permalink: /vol-17/issue-4/jan-to-mar-2022/jurong-drive-in-cinema
-description: "The Jurong Drive-in was Singapore’s one and only drive-in cinema. In its heyday in the 1970s, it was packed bumper to bumper with vehicles. Sharon Teng tracks its rise and subsequent decline."
+description: The Jurong Drive-in was Singapore’s one and only drive-in cinema.
+  In its heyday in the 1970s, it was packed bumper to bumper with vehicles.
+  Sharon Teng tracks its rise and subsequent decline.
 image: /images/vol-17-issue-4/movies-beneath/Banner_Jurong%20Drive-in%20bg.png
 ---
 #### The Jurong Drive-in was Singapore’s one and only drive-in cinema. In its heyday in the 1970s, it was packed bumper to bumper with vehicles. **Sharon Teng** tracks its rise and subsequent decline.
@@ -47,6 +49,8 @@ The cinema screened mainly first-run English language movies from the United Sta
 Jurong Drive-in appealed to those who preferred the open air to the cramped interior of indoor cinemas as they could sit on stools outdoors, on their car roofs, on the back of their pick-up trucks or even lay newspapers on the ground. Children could run about in the open without disturbing their parents. Moreover, cinemagoers could be casually dressed in T-shirts, shorts and slippers.[^9]
 
 It was also popular with courting couples, who were perhaps less interested in the action taking place on the screen. Sales executive Felix Goh recalled going on a double date and there was some disagreement over seating arrangements. Even though sitting in front would provide a better view of the movie, it was the back seat that was in demand. “We tossed a coin over which couple should occupy the back seat. My friend won,” he quipped.[^10]
+
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba;text-align:center"> Want more of what you’re reading? Get BiblioAsia’s latest stories delivered to your inbox. Subscribe <a href=https://form.gov.sg/#!/616799db4d9b61001398f79b>here</a>. </div>
 
 For others, the journey to the far-flung cinema located in the western part of the island was itself a part of the experience. Hotel executive Lilian Gan reminisced, “My husband and I used to go there once or twice a week. We’d go on long drives on weekends and end up there.”[^11]
 
