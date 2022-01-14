@@ -2,6 +2,8 @@ collections:
   jan-to-mar-2022:
     output: true
     order:
+      - "French Impressions: 19th Century Natural History Drawings of Singapore
+        and Southeast Asia.md"
       - Director's Note.md
       - Cartography and the Rise of Colonial Empires in Asia.md
       - The Final Hours of the Empress of Asia.md
