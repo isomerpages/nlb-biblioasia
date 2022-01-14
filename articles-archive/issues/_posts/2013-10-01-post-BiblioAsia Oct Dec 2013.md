@@ -17,7 +17,7 @@ From bane of the government to boon of tourism, hawkers in Singapore have come a
 <b>"Mrs Beeton" in Malaya - Women, Cookbooks And The Making of The Housewife</b><br>
 Cookbooks offer interesting insights into the oft-overlooked domestic space of British Malaya, shedding light on how women saw themselves and how feminine ideals from the West were propagated in the colonial era.
 
-<b>Spicy Nation: From India to Singapore</b><br>
+<b>Spicy Nation: From India To Singapore</b><br>
 From fish head curry to Indian *rojak*, Indian food in Singapore has evolved over time, drawing influences from the various local cultures, and finding its place in the hearts of Singaporeans.
 
 <b>Into The Melting Pot Food As Culture</b><br>Through the lens of that unique Lunar New Year creation *yu sheng*, find out hoe the simplest dishes can be canvases upon which cultural and national identities are inscribed.
