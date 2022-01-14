@@ -12,7 +12,7 @@ sections:
       background: /images/vol-17-issue-3/Hero%20Banner.jpg
       key_highlights:
         - title: ""
-          description: From shipwrecks to cookbooks,
+          description: From shipwrecks to cookbooks, this issue is a must-read!
           url: /vol-17/issue-4/jan-to-mar-2022/
       button: Read the current issue
       url: /vol-17/issue-4/jan-to-mar-2022/
