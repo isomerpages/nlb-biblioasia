@@ -39,9 +39,6 @@ Old Johor reached its height in the 18th century when it was ruled from the port
 
 The echoes of such splendours and struggles can be glimpsed from a seven-hour voyage that begins at the Tanah Merah Ferry Terminal in Singapore and ends at Pulau Lingga, the former kingdom’s royal seat since 1788. Lingga is a land of palaces, forts and tombs, and nearly every royal landmark here bears the imprint of a broader reach.
 
-<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba;text-align:center"> Like what you're reading? <a href=https://form.gov.sg/#!/616799db4d9b61001398f79b>Subscribe</a> to BiblioAsia's online newsletter for the latest stories.</div>
-
-
 #### **The Isle of Kings** 
 
 In 2019, a friend of mine, the researcher and photographer Marcus Ng, invited me on a trip to Lingga. There is no direct route there from Singapore as the ferry from Tanah Merah stops in Tanjong Pinang, the capital of Indonesia’s Riau Islands Province (Provinsi Kepulauan Riau, or “Kepri” for short). Visible across the water is Pulau Penyengat, the tiny island fortress of the former Bugis chiefs. On Pulau Penyengat are the tombs of renowned figures from the history of the sultanate – from Engku Puteri Raja Hamidah, consort of Sultan Mahmud Shah III (r. 1770–1811), to the scholar and chronicler Raja Ali Haji.
@@ -99,6 +96,7 @@ In return for granting the EIC a lease to establish a trading post on Singapore,
 
 After this “one kingdom” ceased to exist with its formal partition by the Dutch and British in the treaty of 1824, Riau-Lingga limped on as a separate kingdom under Abdul Rahman I and his successors.
 
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba;text-align:center"> Like what you're reading? <a href="https://form.gov.sg/#!/616799db4d9b61001398f79b">Subscribe</a> to BiblioAsia's online newsletter for the latest stories.</div>
 
 #### **Spinning Tops and Other Pastimes**
 
