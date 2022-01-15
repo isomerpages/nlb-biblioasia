@@ -93,7 +93,6 @@ The collection was not just open to visiting dignitaries but to the public as we
 
 House of Jade was demolished in 1990 and replaced by the Nassim Jade condominium.[^16]
 
-<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba;text-align:center"> Like what you're reading? <a href="https://form.gov.sg/#!/616799db4d9b61001398f79b">Subscribe</a> to BiblioAsia's online newsletter for the latest stories.</div>
 
 #### **HOUSE OF TEO HOO LYE**
 Designed by Swan & Maclaren, the house of Chinese businessman Teo Hoo Lye was located at the junction of Dhoby Ghaut, Kirk Terrace and Bras Basah Road, where Cathay Building now stands. 
@@ -136,11 +135,16 @@ Teo was 80 when he died in November 1933, just one week after his wife.[^23] The
 
 The House of Teo Hoo Lye was acquired by Mrs Loke Yew (née Lim Cheng Kim) in 1936. Demolition works started in 1937 for the construction of Cathay Building, which was completed in 1941. Mrs Loke Yew’s son, Loke Wan Tho, had established Associated Theatres in 1935, the predecessor of Cathay Organisation. 
 
+
+
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba;text-align:center"> Like what you're reading? <a href="https://form.gov.sg/#!/616799db4d9b61001398f79b">Subscribe</a> to BiblioAsia's online newsletter for the latest stories.</div>
+
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-17-issue-4/authors/Yap-Jo-Lin.png" style="width: 100px; height: 100px;" />
 	<b>Yap Jo Lin</b> is an Archivist with the National Archives of Singapore. Her portfolio includes taking care of the archives’ collection of building plans.
 </div>
+
 
 #### **NOTES**
 
