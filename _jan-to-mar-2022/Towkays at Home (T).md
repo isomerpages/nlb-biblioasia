@@ -135,8 +135,6 @@ Teo was 80 when he died in November 1933, just one week after his wife.[^23] The
 
 The House of Teo Hoo Lye was acquired by Mrs Loke Yew (née Lim Cheng Kim) in 1936. Demolition works started in 1937 for the construction of Cathay Building, which was completed in 1941. Mrs Loke Yew’s son, Loke Wan Tho, had established Associated Theatres in 1935, the predecessor of Cathay Organisation. 
 
-
-
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba;text-align:center"> Like what you're reading? <a href="https://form.gov.sg/#!/616799db4d9b61001398f79b">Subscribe</a> to BiblioAsia's online newsletter for the latest stories.</div>
 
 <div style="background-color: white;">
