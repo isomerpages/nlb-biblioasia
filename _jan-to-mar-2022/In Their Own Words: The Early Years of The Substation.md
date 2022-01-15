@@ -70,7 +70,7 @@ For the capital grant [to cover the building’s renovations], we went to the Mi
 <div style="background-color: white;">Colourful murals at The Substation Garden. These were painted by local artists in the 1990s. <i>The Substation Collection, PictureSG, National Library, Singapore.
 </i></div>
 
-<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba;text-align:center"> Want more of what you’re reading? Get BiblioAsia’s latest stories delivered to your inbox. Subscribe <a href=https://form.gov.sg/#!/616799db4d9b61001398f79b>here</a>. </div>
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba;text-align:center"> Want more of what you’re reading? Get BiblioAsia’s latest stories delivered to your inbox. Subscribe <a href="https://form.gov.sg/#!/616799db4d9b61001398f79b">here</a>. </div>
 
 #### **The General Manager**
 
