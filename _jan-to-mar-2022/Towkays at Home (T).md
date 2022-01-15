@@ -93,7 +93,7 @@ The collection was not just open to visiting dignitaries but to the public as we
 
 House of Jade was demolished in 1990 and replaced by the Nassim Jade condominium.[^16]
 
-<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba;text-align:center"> Like what you're reading? <a href=https://form.gov.sg/#!/616799db4d9b61001398f79b>Subscribe</a> to BiblioAsia's online newsletter for the latest stories.</div>
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba;text-align:center"> Like what you're reading? <a href="https://form.gov.sg/#!/616799db4d9b61001398f79b">Subscribe</a> to BiblioAsia's online newsletter for the latest stories.</div>
 
 #### **HOUSE OF TEO HOO LYE**
 Designed by Swan & Maclaren, the house of Chinese businessman Teo Hoo Lye was located at the junction of Dhoby Ghaut, Kirk Terrace and Bras Basah Road, where Cathay Building now stands. 
