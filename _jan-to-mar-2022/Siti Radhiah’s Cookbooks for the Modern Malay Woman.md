@@ -60,8 +60,6 @@ It is highly likely that Siti Radhiah was encouraged by her husband Harun Aminur
 
 While acknowledging that women should be educated, an article by Rahmah Daud in 1956 published in a special issue celebrating 10 years of *Hiboran*, edited by Harun, mentions that women’s struggle (*perjuangan*) for the nation began at home, and that they must fulfill their domestic responsibilities as wives, mothers and daughters first before venturing out to work in education, politics and other fields.[^20] According to a *Fesyen* article in 1954, women’s role had expanded after World War II from being the *ratu dapur* (“queen of the kitchen”) to the *ratu rumah tangga* (“queen of the household”), signifying that they were expected to be knowledgeable about and responsible for various household matters.[^21]
 
-<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba;text-align:center"> Want more of what you’re reading? Get BiblioAsia’s latest stories delivered to your inbox. Subscribe <a href="https://form.gov.sg/#!/616799db4d9b61001398f79b">here</a>. </div>
-
 #### **A Taste for Modern Kuih**
 
 Siti Radhiah’s second book, *Hidangan Wanita Sekarang*, and fourth book, *Hidangan Kuih Moden*, feature the recipes for a smorgasbord of delicacies which she referred to as *kuih cara baru* (“new-fashioned *kuih*”), *kuih zaman sekarang* (“*kuih* of this time and age”) and *kuih moden* (“modern *kuih*”). She explained that many of the 50 recipes in *Hidangan Wanita Sekarang* closely followed the recipes and cooking techniques of Western cuisine. 
@@ -122,6 +120,8 @@ It is interesting to note that this other cookbook, titled *Aneka Selera* (*All 
 “With encouragement from my mother, Siti Radhiah binti Mohd. Saleh the author of *Hidangan Wanita Sekarang*, *Hidangan Melayu* and other cookbooks, and encouragement from my father, Harun Aminurrashid, I have been able to write a cookbook from my experiences and the lessons [I took] on making *kuih-muih* and *lauk-pauk*. Hopefully, this book will be well received by our women.”[^38]
 
 In the later stage of her life, Siti Radhiah, true to her spirit of helping and learning from others, continued to share recipes through her submissions to *Berita Harian*’s column, *Masakan Hari Ini* (*Today’s Dish*). She died in 1983, three years before her husband’s passing in 1986.[^39]
+
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba;text-align:center"> Want more of what you’re reading? Get BiblioAsia’s latest stories delivered to your inbox. Subscribe <a href="https://form.gov.sg/#!/616799db4d9b61001398f79b">here</a>. </div>
 
 *The author thanks Dr Geoffrey Pakiam for his assistance and advice.*
 
