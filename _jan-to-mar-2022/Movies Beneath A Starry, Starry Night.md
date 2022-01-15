@@ -50,8 +50,6 @@ Jurong Drive-in appealed to those who preferred the open air to the cramped inte
 
 It was also popular with courting couples, who were perhaps less interested in the action taking place on the screen. Sales executive Felix Goh recalled going on a double date and there was some disagreement over seating arrangements. Even though sitting in front would provide a better view of the movie, it was the back seat that was in demand. “We tossed a coin over which couple should occupy the back seat. My friend won,” he quipped.[^10]
 
-<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba;text-align:center"> Want more of what you’re reading? Get BiblioAsia’s latest stories delivered to your inbox. Subscribe <a href=https://form.gov.sg/#!/616799db4d9b61001398f79b>here</a>. </div>
-
 For others, the journey to the far-flung cinema located in the western part of the island was itself a part of the experience. Hotel executive Lilian Gan reminisced, “My husband and I used to go there once or twice a week. We’d go on long drives on weekends and end up there.”[^11]
 
 Movies starring martial arts legend Bruce Lee were especially popular, packing in the crowds every night when these were screened. *The Big Boss*, which launched Lee’s movie career, was a spectacular box-office hit, raking in $12,000 in ticket sales for just an evening’s screening in 1971.[^12]
@@ -64,6 +62,8 @@ Antoine Low, Head of Cathay’s Property and Technical Section, said that during
 <div style="background-color: white;">Vehicles at the Jurong Drive-in Cinema on opening night, 14 July 1971. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 Some people even came up with ingenious ideas to avoid buying tickets. While working at a factory in Jurong, housing agent Teo Soon Kin said that he and his friends watched *The Big Boss* on five consecutive nights for free: “We sat outside the perimeter fence and watched. Sometimes, we would ask motorists nearest the fence to turn up the volume of their individual speakers so we could listen as well.”[^15]
+
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba;text-align:center"> Want more of what you’re reading? Get BiblioAsia’s latest stories delivered to your inbox. Subscribe <a href="https://form.gov.sg/#!/616799db4d9b61001398f79b">here</a>. </div>
 
 #### **Cinema Shenanigans and Disgruntled Patrons** 
 
