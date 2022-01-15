@@ -37,8 +37,6 @@ This woodpecker with a yellow-tipped crest can still be spotted in Singapore tod
 <img style="width:630px;" src="/images/vol-17-issue-4/diard-duvaucel/Green%20Broadbill2.jpg"><br>
 On 1 June 1820, Stamford Raffles wrote about the Green Broadbill in his *Descriptive Catalogue of a Zoological Collection* thus: “Found in the retired parts of the forests of Singapore and of the interior of Sumatra.” There are two depictions of this broadbill in the collection. They are nearly identical, differing only in the composition of the tuft of feathers on the forehead. In both drawings, the birds are male, as indicated by the small yellow spots above their eyes. From Raffles’ catalogue entry, it can be inferred that he must have procured at least two specimens, one from Singapore and another from the environs of Bencoolen (Bengkulu) in Sumatra. Diard, Duvaucel and William Jack (a botanist working with Raffles) could have collected the Singapore specimen during their visit in 1819. This species has the distinction of being the first bird from Singapore to be given a scientific name.
 
-<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba;text-align:center"> Like what you're reading? <a href=https://form.gov.sg/#!/616799db4d9b61001398f79b>Subscribe</a> to BiblioAsia's online newsletter for the latest stories.</div>
-
 #### **Nº 11: Nº 67: Javanese Lapwing<br>*Vanellus macropterus***
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/diard-duvaucel/Javanese%20Lapwing.jpg)
@@ -66,6 +64,7 @@ The specimen portrayed in this drawing was obtained in Sumatra. This conspicuous
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/diard-duvaucel/Flask-shaped%20Pitcher2.jpg)
 Stamford Raffles collected pitcher plants when he first visited Singapore in early 1819, and these became the first botanical specimens from mainland Singapore. The Scottish botanist William Jack was working for Raffles at the time, but he did not accompany Raffles on this first visit to Singapore and instead remained at Prince of Wales Island (Penang). When Raffles returned to Penang from Singapore, these botanical specimens were passed to Jack for study. Jack named one of the species after Raffles – *Nepenthes rafflesiana* Jack (better known as the Raffles’ Pitcher Plant) – to honour the collector. What is depicted in this drawing though is the *Nepenthes ampullaria*. These names were only published in 1835, years after Jack’s death in 1822 and based on research and drawings that were sent back to England. Diard and Duvaucel would have known about Jack’s work, although this painting was probably drawn from a separate specimen at a later date.
 
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba;text-align:center"> Like what you're reading? <a href="https://form.gov.sg/#!/616799db4d9b61001398f79b">Subscribe</a> to BiblioAsia's online newsletter for the latest stories.</div>
 
 
 #### **NOTES**
