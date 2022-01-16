@@ -20,7 +20,7 @@ description: ""
 [(PDF)](/files/pdf/vol-6/issue-1/v6-issue1_WomenWarfare.pdf)
 
 **Chinese Dialect Groups and their Occupations in 19th and early 20th century Singapore** <br>
-[(PDF)](/files/pdf/vol-6/issue-1/v6-issue1_ChineseDialect.pdf)
+[(PDF)](/files/pdf/vol-6/issue-1/v6--issue1_ChineseDialect.pdf)
 
 **National Library Distinguished Reader: Insights from Dr Andrew Chew** <br>
 [(PDF)](/files/pdf/vol-6/issue-1/v6-issue1_AndrewChew.pdf)
