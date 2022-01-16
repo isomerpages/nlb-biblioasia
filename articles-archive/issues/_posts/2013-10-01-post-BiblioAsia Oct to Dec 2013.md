@@ -7,7 +7,7 @@ description: ""
 ---
 ![Alt text for image on Isomer site](/images/covers/ba9-3.jpg)
 
-**Director's Note**
+**Director's Column**
 
 <b>Communal Feeding in Post-War Singapore </b><br>The colonial government's communal feeding programme was a novel response to chronic food shortages and malnutrition in the aftermath of the Japanese Occupation, and laid the foundation for the basis of social welfare schemes in Singapore.
 
