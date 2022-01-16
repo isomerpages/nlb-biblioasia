@@ -5,6 +5,8 @@ date: 2010-07-01
 layout: post
 description: ""
 ---
+![Alt text for image on Isomer site](/images/covers/ba6-2.jpg)
+
 **Director’s Column**
 
 **Journey: A story About the Past and Future** <br>
