@@ -39,4 +39,3 @@ description: ""
 
 **Navigating A Sea of Resources to Find Hidden Treasures** <br>
 [(PDF)](/past-issues/pdf/vol-6/v6-issue2_HiddenTreasures.pdf)
-
