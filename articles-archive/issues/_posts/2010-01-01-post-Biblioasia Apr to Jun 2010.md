@@ -26,7 +26,7 @@ description: ""
 [(PDF)](/files/pdf/vol-6/issue-1/v6-issue1_AndrewChew.pdf)
 
 **Green Matters: The Environment and Sustainability Collection at the Lee Kong Chian Reference Library** <br>
-[(PDF)](/pdf/vol-6/issue-1/v6-issue1_GreenMatters.pdf)
+[(PDF)](/files/pdf/vol-6/issue-1/v6-issue1_GreenMatters.pdf)
 
 **Early Tourist Guidebooks to Singapore the Handbook to Singapore (1892)** <br>
 [(PDF)](/files/pdf/vol-6/issue-1/v6-issue1_TouristGuidebooks.pdf)
