@@ -22,7 +22,7 @@ Founded in 1887, the Methodist Girls' School (MGS) is among the oldest and most 
 
 **Chinese Article**<br>
 
-**Saya Dan Bulan Bahasa**<br>
+**Saya dan Bulan Bahasa**<br>
 Saya diminta menulis tentang memori saya mengenai pelibatan saya dalam kegiatan dan perayaan Bulan Bahasa di Singapura. Sepanjang ingatan saya, dengan name Bulan Bahasa, kegiatan dan perayaan melestari dan menggunakan bahasa itu di Singapura telah dimulai semenjak tahun 1959. Hanya nama bahasa itu yang berubah-ubah sesuai dengan rasa, selesa dan kuasa yang selari dengan fenomena hidup di Singapura pada masa itu: 1959 – 1966 disebut bahasa Kebangsaan; 1966 – kini disebut bahasa Kedua; 1982 – kini disebut semula bahasa Melayu, atau bahasa ibunda. Dalam tulisan ini akan saya cuba sedapat-dapatnye menyatakan pengalaman dan keterlibatan saya dalam kegiatan dan perayaan bulan-bulan bahasa itu.
 
 **In the Family: Family History Resources in the National Library**<br>
