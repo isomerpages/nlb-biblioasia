@@ -10,7 +10,7 @@ description: ""
 **Director’s Column**
 
 **Remembering Dr Goh Keng Swee (1918–2010)** <br>
-[(PDF)](/files/pdf/vol-6/issue-3/v6-issue3_Goh KengSwee.pdf)
+[(PDF)](/files/pdf/vol-6/issue-3/v6-issue3_GohKengSwee.pdf)
 
 **Education for Living: Epitome of Civics Education?** <br>
 [(PDF)](/files/pdf/vol-6/issue-3/v6-issue3_CivicsEducation.pdf)
