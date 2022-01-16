@@ -5,3 +5,4 @@ date: 2012-10-01
 layout: post
 description: ""
 ---
+![Alt text for image on Isomer site](/images/covers/ba8-3.jpg)
