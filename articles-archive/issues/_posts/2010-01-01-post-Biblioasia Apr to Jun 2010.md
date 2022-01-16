@@ -5,6 +5,8 @@ date: 2010-01-01
 layout: post
 description: ""
 ---
+![Alt text for image on Isomer site](/images/covers/ba6-1.jpg)
+
 **Director’s Column**
 
 **Tamil Literary Development in Singapore** <br>
