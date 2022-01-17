@@ -30,4 +30,4 @@ description: ""
 [(PDF)](/files/pdf/vol-8/issue-1/v8-issue1_Krishnan.pdf)
 
 **Melihat Alam melalui Mata & Hati Abdul Ghani Hamid** <br>
-[(PDF)](/files/pdf/vol-6/issue-3/v6-issue3_CreditAdvisory.pdf)
+[(PDF)](/files/pdf/vol-8/issue-1/v8-issue1_AbdulGhani.pdf)
