@@ -52,7 +52,7 @@ After the war, Liu Kang became widely known as one of the Nanyang artists, a fam
 <img style="width: 650px; height: 400px;" src="/images/vol-11-issue-4/cartoons-of-terror/T5.JPG">
 <div style="background-color: white;"> Those chosen to be massacred were often made to dig their own graves before they were killed by the Japanese soldiers. <i>Image source: National Library Board, Singapore.</i></div>
 
-Liu Kang enlisted the help of Zheng Zhenen to write the captions in English.10A Zheng Shouzhuo (郑守拙) wrote the captions for the fourth Chinese-language volume, which mostly documents the experiences of prisoner-of-war (POW) internees and contains illustrations from the first two English-language volumes. Only the sketches in the first volume were signed by Liu Kang.Unfortunately, the National Library has only a photocopy of the Chinese edition and not an original. 
+Liu Kang enlisted the help of Zheng Zhenen to write the captions in English.[^10] A Zheng Shouzhuo (郑守拙) wrote the captions for the fourth Chinese-language volume, which mostly documents the experiences of prisoner-of-war (POW) internees and contains illustrations from the first two English-language volumes. Only the sketches in the first volume were signed by Liu Kang.Unfortunately, the National Library has only a photocopy of the Chinese edition and not an original. 
 
 – Written by Timothy Pwee
 
