@@ -21,7 +21,7 @@ description: ""
 [(PDF)](/files/pdf/vol-8/issue-1/v8-issue1_YaoZi.pdf)
 
 **Illustrating the Future: Southeast Asian Ceramic Special Exhibition Catalogues, 1970-2009** <br>
-[(PDF)]
+[(PDF)](/files/pdf/vol-8/issue-1/v8-issue1_AsianCeramic.pdf)
 
 **Early Tourist Guidebooks: Willis' Singapore Guide (1936)** <br>
 [(PDF)](/files/pdf/vol-6/issue-3/v6-issue3_WillisGuide.pdf)
