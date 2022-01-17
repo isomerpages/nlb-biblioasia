@@ -20,8 +20,8 @@ description: ""
 **姚紫小说与文学语言研究** <br>
 [(PDF)](/files/pdf/vol-8/issue-1/v8-issue1_YaoZi.pdf)
 
-**Living Legacy: A Brief Survey of Literature on Dr Goh Keng Swee** <br>
-[(PDF)](/files/pdf/vol-6/issue-3/v6-issue3_LivingLegacy.pdf)
+**Illustrating the Future: Southeast Asian Ceramic Special Exhibition Catalogues, 1970-2009** <br>
+[(PDF)]
 
 **Early Tourist Guidebooks: Willis' Singapore Guide (1936)** <br>
 [(PDF)](/files/pdf/vol-6/issue-3/v6-issue3_WillisGuide.pdf)
