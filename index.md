@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/vol-17-issue-3/Hero%20Banner.jpg
+      background: /images/vol-17-issue-4/JM22-HeroBanner.jpg
       key_highlights:
         - title: ""
           description: From shipwrecks to cookbooks, this issue is a must-read!
