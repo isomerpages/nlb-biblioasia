@@ -20,8 +20,8 @@ description: ""
 **Comic Books: As Windows into a Singapore of the 1980s and 1990s**<br>
  [(PDF)](/files/pdf/vol-7/issue-4/v7-issue4_ComicBooks.pdf)
 
-An Experimental Study: Using Graphic Novels to Teach English Language in Secondary Schools in Singapore.<br>
+**An Experimental Study: Using Graphic Novels to Teach English Language in Secondary Schools in Singapore**<br>
  [(PDF)](/files/pdf/vol-7/issue-4/v7-issue4_GraphicNovels.pdf)
 
-**A Life Less Ordinary**<br>
-Dr Wu Lien-Teh the Plague Fighter. [(PDF)](/files/pdf/vol-7/issue-4/v7-issue4_WuLienTeh.pdf)
+**A Life Less Ordinary: Dr Wu Lien-Teh the Plague Fighter**<br>
+[(PDF)](/files/pdf/vol-7/issue-4/v7-issue4_WuLienTeh.pdf)
