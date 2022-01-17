@@ -9,11 +9,10 @@ description: ""
 
 **Director’s Column**
 
-**Remembering Dr Goh Keng Swee (1918–2010)** <br>
-[(PDF)](/files/pdf/vol-6/issue-3/v6-issue3_GohKengSwee.pdf)
+**A Founder's Literacy Legacy: The Short Stories and Radio Plays of S. Rajaratnam** <br> [(PDF)](/files/pdf/vol-8/issue-1/v8-issue1_Rajaratnam.pdf)
 
 **Education for Living: Epitome of Civics Education?** <br>
-[(PDF)](/files/pdf/vol-6/issue-3/v6-issue3_CivicsEducation.pdf)
+[](/files/pdf/vol-6/issue-3/v6-issue3_CivicsEducation.pdf)
 
 **Physical Education and Sports in Singapore Schools (Part II) Developing National Sports Talents** <br>
 [(PDF)](/files/pdf/vol-6/issue-3/v6-issue3_PhysicalEducation.pdf)
