@@ -14,8 +14,8 @@ description: ""
 **撕裂与重铸** <br>
 读林子平丙戌后之作 [(PDF)](/files/pdf/vol-8/issue-1/v8-issue1_LimTzePeng.pdf)
 
-**Physical Education and Sports in Singapore Schools (Part II) Developing National Sports Talents** <br>
-[(PDF)](/files/pdf/vol-6/issue-3/v6-issue3_PhysicalEducation.pdf)
+**The Historical and Cultural Influence of the Record Industry of Singapore, 1903-1975** <br>
+[(PDF)](/files/pdf/vol-8/issue-1/v8-issue1_RecordIndustry.pdf)
 
 **The Educational Movement in Early 20th Century Batavia and its Connections with Singapore and China** <br>
 [(PDF)](/files/pdf/vol-6/issue-3/v6-issue3_EducationBatavia.pdf)
