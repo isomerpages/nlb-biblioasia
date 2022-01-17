@@ -9,19 +9,19 @@ description: ""
 
 **Director's Column**
 
-**Tell It ‘Slanted’**<br>
-An Approach to Writing my Memoir. [(PDF)](/files/pdf/vol-7/issue-4/v7-issue4_WritingMemoir.pdf)
+**Tell It ‘Slanted’: An Approach to Writing My Memoir**<br>
+ [(PDF)](/files/pdf/vol-7/issue-4/v7-issue4_WritingMemoir.pdf)
  
-**A Work of Many Hands**<br>
-The First Japanese Translation of John’s Gospel and his Epistles. [(PDF)](/files/pdf/vol-7/issue-4/v7-issue4_JohnGospelEpistles.pdf)
+**A Work of Many Hands: The First Japanese Translation of John’s Gospel and His Epistles**<br>
+ [(PDF)](/files/pdf/vol-7/issue-4/v7-issue4_JohnGospelEpistles.pdf)
 
 **Lunch with Mr Einstein**<br> [(PDF)](/files/pdf/vol-7/issue-4/v7-issue4_EinsteinLunch.pdf)
 
-**Comic Books**<br>
-As Windows into a Singapore of the 1980s and 1990s. [(PDF)](/files/pdf/vol-7/issue-4/v7-issue4_ComicBooks.pdf)
+**Comic Books: As Windows into a Singapore of the 1980s and 1990s**<br>
+ [(PDF)](/files/pdf/vol-7/issue-4/v7-issue4_ComicBooks.pdf)
 
-**An Experimental Study**<br>
-Using Graphic Novels to Teach English Language in Secondary Schools in Singapore. [(PDF)](/files/pdf/vol-7/issue-4/v7-issue4_GraphicNovels.pdf)
+An Experimental Study: Using Graphic Novels to Teach English Language in Secondary Schools in Singapore.<br>
+ [(PDF)](/files/pdf/vol-7/issue-4/v7-issue4_GraphicNovels.pdf)
 
 **A Life Less Ordinary**<br>
 Dr Wu Lien-Teh the Plague Fighter. [(PDF)](/files/pdf/vol-7/issue-4/v7-issue4_WuLienTeh.pdf)
