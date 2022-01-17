@@ -49,7 +49,7 @@ After the first cookbook was published, Mrs Kinsey went on to publish a sequel, 
 
 #### **NOTES**
 
-[^1]:Tan, B. (2011). Malayan cookery book: The mem’s own cookery book. [*BiblioAsia*](https://biblioasia.nlb.gov.sg/all-issues/*)*, 7* (3), 30–34. 
+[^1]:Tan, B. (2011). Malayan cookery book: The mem’s own cookery book. [*BiblioAsia*](https://biblioasia.nlb.gov.sg/all-issues/)*, 7* (3), 30–34. 
 
 [^2]:[Page 6 Advertisements Column 3](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19340130-1.2.44.3). (1934, January 30). *The Singapore Free Press and Mercantile Advertiser*, p. 6. Retrieved from NewspaperSG. 
 
