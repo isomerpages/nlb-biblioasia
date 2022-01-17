@@ -26,8 +26,8 @@ description: ""
 **新加坡华文书业历史简述** <br>
 [(PDF)](/files/pdf/vol-8/issue-1/v8-issue1_ChineseBook.pdf)
 
-**The Berita Database: An Online Treasury on Brunei, Malaysia and Singapore** <br>
-[(PDF)](/files/pdf/vol-6/issue-3/v6-issue3_BeritaDatabase.pdf)
+**** <br>
+[(PDF)](/files/pdf/vol-8/issue-1/v8-issue1_Krishnan.pdf)
 
-**Business and Personal Credit Advisory Services at the National Library** <br>
+**Melihat Alam melalui Mata & Hati Abdul Ghani Hamid** <br>
 [(PDF)](/files/pdf/vol-6/issue-3/v6-issue3_CreditAdvisory.pdf)
