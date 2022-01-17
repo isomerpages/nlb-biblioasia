@@ -18,3 +18,6 @@ In late 2010, the National Library was privileged to receive a donation of 65 va
 Books have a significant role to play in recording and transmitting information and ideas; not only textual books but graphic novels as well. In “Comic Books as Windows into a Singapore of the 1980s and 1990s”, Lim Cheng Tju examines how graphic novels, also known as comic books, offer an alternative means of understanding the past social and political conditions of Singapore. Clarence Lee follows with an article that argues for the increased use of graphic novels to teach English Language in schools, presenting the results of an experimental study that tests the effectiveness of such books in helping students learn descriptive writing skills compared with traditional texts.
 
 I hope you will enjoy the articles in this issue of BiblioAsia as much as I have. Happy reading!
+
+<b>Ms Ngian Lek Choh</b><br>
+Director, National Library
