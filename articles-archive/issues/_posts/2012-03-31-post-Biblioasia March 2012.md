@@ -9,10 +9,11 @@ description: ""
 
 **Director's Column**
 
-**Tell It ‘Slanted’, An Approach to Writing my Memoir**<br>
-
-**Chinese Article**<br>
-China: Planning and Implementation of the Digital Library Promotion Project.
+**Tell It ‘Slanted’**<br>
+An Approach to Writing my Memoir. 
+ 
+**A Work of Many Hands**<br>
+The First Japanese Translation of John’s Gospel and his Epistles.
 
 **Books that Shaped the World**<br>
 The importance of books lies in its substance and not its form. Whether on page or in pixel, the ideas perpetuated by books will continue to influence people and communities.
