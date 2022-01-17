@@ -21,3 +21,5 @@ I hope you will enjoy the articles in this issue of BiblioAsia as much as I have
 
 <b>Ms Ngian Lek Choh</b><br>
 Director, National Library
+
+<a href="https://biblioasia.nlb.gov.sg/vol-7/issue-4/mar-2012/"><center>Back to Issue</center></a>
