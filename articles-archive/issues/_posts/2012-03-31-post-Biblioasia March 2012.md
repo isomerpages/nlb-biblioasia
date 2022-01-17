@@ -15,11 +15,10 @@ An Approach to Writing my Memoir.
 **A Work of Many Hands**<br>
 The First Japanese Translation of John’s Gospel and his Epistles.
 
-**Books that Shaped the World**<br>
-The importance of books lies in its substance and not its form. Whether on page or in pixel, the ideas perpetuated by books will continue to influence people and communities.
+**Lunch with Mr Einstein**<br>
 
-**u-Pustaka: The Malaysian Ubiquitous Library Pilot Project**<br>
-In pursuit of a knowledge-based society, the National Library of Malaysia has embarked on an ambitious project to connect all its libraries. The first step toward this vision is u-Pustaka, a pilot project changing the way information is accessed. 
+**Comic Books**<br>
+As Windows into a Singapore of the 1980s and 1990s.
 
 **Library Networking in Progress: The Jogja Experience**<br>
 Yogyakarta is home to several institutions of higher education and their libraries. As part of its efforts to encourage sharing of information and resources, the city has implemented the Jogja Library for All (JLA).
