@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/vol-17-issue-4/JM22-HeroBanner2.jpg
+      background: /images/vol-17-issue-4/Hero%20Banner.jpg
       key_highlights:
         - title: ""
           description: From shipwrecks to cookbooks, this issue is a must-read!
@@ -23,7 +23,7 @@ sections:
         National Library’s latest exhibition on Asian maps.
       button: Read more
       url: /vol-17/issue-4/jan-to-mar-2022/asia-maps-cartography
-      image: /images/vol-17-issue-4/cartography/1-Map3.jpg
+      image: /images/vol-17-issue-4/C-Highlight.jpg
       alt: cartography
   - infopic:
       title: The Final Hours of the Empress of Asia
