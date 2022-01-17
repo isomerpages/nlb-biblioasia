@@ -66,4 +66,4 @@ Liu Kang enlisted the help of Zheng Zhenen to write the captions in English.[^10
 [^7]:[*The Straits Times*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19860923-1.2.71.5.1.aspx), 23 Sep 1986, p. 3; 黄玉云 (1986, September 19). [漫画缩写三年八个月](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb19860919-1.2.15.1.aspx). *联合早报* [Lianhe Zaobao], p. 5. Retrieved from NewspaperSG.
 [^8]:Yeo, W. W. (Ed.). (2011). [*Liu Kang: Colourful modernist*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13919955) (p. 8). Singapore: The National Art Gallery. Call no.: RSING 759.95957 LIU.
 [^9]:[*The Straits Times*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19860923-1.2.71.5.1.aspx), 23 Sep 1986, p. 3.
-[^10]:李永乐 (1987, February 16). [绘出染血的历史](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19870216-1.2.21.2.1.aspx). *联合晚报* [Lianhe Wanbao], p. 12. Retrieved from NewspaperSG.
+[^10]:李永乐 (1987, February 16). [绘出染血的历史](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19870216-1.2.21.2.1.aspx). *联合晚报* [*Lianhe Wanbao*], p. 12. Retrieved from NewspaperSG.
