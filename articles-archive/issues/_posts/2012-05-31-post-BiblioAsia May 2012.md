@@ -17,8 +17,8 @@ description: ""
 **The Historical and Cultural Influence of the Record Industry of Singapore, 1903-1975** <br>
 [(PDF)](/files/pdf/vol-8/issue-1/v8-issue1_RecordIndustry.pdf)
 
-**The Educational Movement in Early 20th Century Batavia and its Connections with Singapore and China** <br>
-[(PDF)](/files/pdf/vol-6/issue-3/v6-issue3_EducationBatavia.pdf)
+**姚紫小说与文学语言研究** <br>
+[(PDF)](/files/pdf/vol-8/issue-1/v8-issue1_YaoZi.pdf)
 
 **Living Legacy: A Brief Survey of Literature on Dr Goh Keng Swee** <br>
 [(PDF)](/files/pdf/vol-6/issue-3/v6-issue3_LivingLegacy.pdf)
