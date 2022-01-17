@@ -20,11 +20,11 @@ The First Japanese Translation of John’s Gospel and his Epistles.
 **Comic Books**<br>
 As Windows into a Singapore of the 1980s and 1990s.
 
-**Library Networking in Progress: The Jogja Experience**<br>
-Yogyakarta is home to several institutions of higher education and their libraries. As part of its efforts to encourage sharing of information and resources, the city has implemented the Jogja Library for All (JLA).
+**An Experimental Study**<br>
+Using Graphic Novels to Teach English Language in Secondary Schools in Singapore.
 
-**Tomorrow's Libraries: Embracing Change to Create the Future**<br>
-To face the challenges of the new knowledge economy, libraries must be willing to shift their paradigms, adapt and evolve. 
+**A Life Less Ordinary**<br>
+Dr Wu Lien-Teh the Plague Fighter.
 
 **National Library of Australia's Trove: Achievements and Possibilities**<br>
 Canberra's National Library of Australia's free online discovery service, Trove is used widely by both Australian residents and the international community, making it not only an Australian resource, but a global one. 
