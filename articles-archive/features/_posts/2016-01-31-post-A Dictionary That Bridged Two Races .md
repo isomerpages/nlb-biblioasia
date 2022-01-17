@@ -33,7 +33,7 @@ whom spoke Southern Min dialects (闽南语) such as Hokkien[^1] – tried to co
 terms in Chinese – were produced in the 19th century.[^2] One of the earliest was *Hua yi tong yu* (华夷通语), published in 1883.
 
 <img style="width: 600px; height: 430px;" src="/images/vol-11-issue-4/dictionary-bridged-2-races/D2.JPG">
-<div style="background-color: white;">hese pages in <i>Hua yi tong yu</i> provide the pronunciation for various numerals and silver currencies. Photographed against an antique teakwood table, donated to the National Library Board by George L. Hicks. <i>Image source: National Library Board, Singapore.</i></div>
+<div style="background-color: white;">These pages in <i>Hua yi tong yu</i> provide the pronunciation for various numerals and silver currencies. Photographed against an antique teakwood table, donated to the National Library Board by George L. Hicks. <i>Image source: National Library Board, Singapore.</i></div>
 
 This earliest known Singapore-published Chinese-Malay dictionary in the National Library’s collection contains more than 2,800 entries in 25 categories. The entries include terms used in disciplines such as cosmology and geography to mathematics as well as common business terms. The second section categorises the entries 
 according to the number of Chinese characters contained in each term, while the third and final section lists verbs and adjectives that could not be categorised in the preceding two sections.[^3]
