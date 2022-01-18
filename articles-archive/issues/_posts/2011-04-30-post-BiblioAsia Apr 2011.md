@@ -13,10 +13,9 @@ description: ""
 
 **Popular Music in 1960s Singapore** <br>
 
-**Physical Education and Sports in Singapore Schools (Part II) Developing National Sports Talents** <br>
-[(PDF)](/files/pdf/vol-6/issue-3/v6-issue3_PhysicalEducation.pdf)
+**Undiscovered Spaces: An Interview With Boo JunFeng** <br>
 
-**The Educational Movement in Early 20th Century Batavia and its Connections with Singapore and China** <br>
+**The Growth Of Imagination in Singapore ** <br>
 [(PDF)](/files/pdf/vol-6/issue-3/v6-issue3_EducationBatavia.pdf)
 
 **Living Legacy: A Brief Survey of Literature on Dr Goh Keng Swee** <br>
