@@ -76,8 +76,8 @@ Note: When accessing older issues, you may be directed to an archived version.
 
 |                                                              |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![BiblioAsia 8-1 cover](/images/covers/ba8-1.jpg)[May 2012](/files/pdf/BiblioAsia May 2012.pdf) | ![BiblioAsia 8-2 cover](/images/covers/ba8-2.jpg)[Jul 2012](/vol-8/issue-2/jul-2012/)<br>[Jul 2012](/files/pdf/BiblioAsia Jul 2012.pdf) |
-| ![BiblioAsia 8-3 cover](/images/covers/ba8-3.jpg)[Oct–Dec 2012](/files/pdf/Biblioasia Oct-Dec 2012.pdf) | ![BiblioAsia 8-4 cover](/images/covers/ba8-4.jpg)[Jan–Mar 2013](/files/pdf/Biblioasia Jan-Mar 2013.pdf) |
+| ![BiblioAsia 8-1 cover](/images/covers/ba8-1.jpg)[May 2012](/vol-8/issue-1/may-2012/)<br>[May 2012](/files/pdf/BiblioAsia May 2012.pdf) | ![BiblioAsia 8-2 cover](/images/covers/ba8-2.jpg)[Jul 2012](/vol-8/issue-2/jul-2012/)<br>[Jul 2012](/files/pdf/BiblioAsia Jul 2012.pdf) |
+| ![BiblioAsia 8-3 cover](/images/covers/ba8-3.jpg)[Oct–Dec 2012](/vol-8/issue-3/oct-dec-2012/)<br>[Oct–Dec 2012](/files/pdf/Biblioasia Oct-Dec 2012.pdf) | ![BiblioAsia 8-4 cover](/images/covers/ba8-4.jpg)[Jan–Mar 2013](/vol-8/issue-4/jan-mar-2013/)<br>[Jan–Mar 2013](/files/pdf/Biblioasia Jan-Mar 2013.pdf) |
 
 ####  Volume 7
 
