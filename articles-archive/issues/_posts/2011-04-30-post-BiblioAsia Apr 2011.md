@@ -25,8 +25,4 @@ description: ""
 
 **NLB and IES Renew Partnership** <br>
 
-**方修: 新加坡文艺先驱的光辉** <br>
-[(PDF)](/files/pdf/vol-6/issue-3/v6-issue3_FangXiu.pdf)
-
-**A Passion for Communication: Investigations into Different Cultures and Media** <br>
-[(PDF)](/files/pdf/vol-6/issue-3/v6-issue3_CulturesMedia.pdf)
+**Tune Into Singapore's Musical Heritage on MusicSG** <br>
