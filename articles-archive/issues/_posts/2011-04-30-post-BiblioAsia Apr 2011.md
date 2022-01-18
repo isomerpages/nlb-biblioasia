@@ -21,11 +21,9 @@ description: ""
 
 **Women's Perspectives On Malaya Emily Innes on The Malay States** <br>
 
-**The Berita Database: An Online Treasury on Brunei, Malaysia and Singapore** <br>
-[(PDF)](/files/pdf/vol-6/issue-3/v6-issue3_BeritaDatabase.pdf)
+**The 3rd Taiwan-Singapore-Thailand Workshop On Library And Information Research** <br>
 
-**Business and Personal Credit Advisory Services at the National Library** <br>
-[(PDF)](/files/pdf/vol-6/issue-3/v6-issue3_CreditAdvisory.pdf)
+**NLB and IES Renew Partnership** <br>
 
 **方修: 新加坡文艺先驱的光辉** <br>
 [(PDF)](/files/pdf/vol-6/issue-3/v6-issue3_FangXiu.pdf)
