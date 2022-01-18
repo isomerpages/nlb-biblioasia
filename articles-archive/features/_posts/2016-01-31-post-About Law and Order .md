@@ -27,7 +27,7 @@ Husain Shah of Johor and Temenggung Abdul Rahman to establish a trading post in 
 
 As Singapore’s population increased and commercial activity grew, it became clear that the administration of law on the island was inadequate to prevent and control crime. The promulgation of the Second Charter of Justice on 27 November 1826 – the year Singapore became part of the Straits Settlements together with Melaka and Penang – marked a watershed in Singapore’s legal history. The charter created the Court of Judicature of Singapore, Prince of Wales Island (Penang) and Melaka. It also introduced a single system of law and order for all inhabitants of Singapore and established a proper legal system based on English common law.[^3]
 
-<img src="/images/vol-11-issue-4/about-law-and-order/L1.JPG">
+<img style="width: 350px; height: 350px;" src="/images/vol-11-issue-4/about-law-and-order/L1.JPG">
 <div style="background-color: white;">A map showing the British-controlled Straits Settlements territories of Singapore, Melaka and Penang. <i>All rights reserved, Swettenham, F. A. (1907). British Malaya: An Account of the Origin and Progress of British Influence in Malaya. London: John Lane.</i></div>
 
 However, not all English laws were suited for the Straits Settlements, and the colonial judges had to adapt the laws to suit the local context, especially in matters relating to religion, local manners and customs.[^4] Modifications were made mainly to several aspects of family law, such as those concerning marriage, divorce, adoption and succession. For example, Chinese polygamous marriages were recognised so that secondary wives and their children would be provided for.
