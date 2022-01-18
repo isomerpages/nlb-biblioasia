@@ -5,5 +5,4 @@ date: 2011-04-30
 layout: post
 description: ""
 ---
-<img src="/images/vol-7-issue-1/Apr%202011.JPG">
-
+<img style="width: 350px; height: 450px;" src="/images/vol-7-issue-1/Apr%202011.JPG">
