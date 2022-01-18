@@ -6,8 +6,7 @@ image: /images/vol-11-issue-4/an-expat-impression-of-sg/02_expatimpression.jpg
 layout: post
 description: ""
 ---
-<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>ABOUT THE BOOK</b>
-<br><br>
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;">
 <b>Title:</b> <i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4470390">An Anecdotal History of Old Times in Singapore: (with portraits and illustrations) From the Foundation of the Settlements Under the Honourable the East India Company, on February 6th, 1819, to the Transfer of the Colonial Office as Part of the Colonial Possessions of theCrown on April 1st, 1867</a></i>
 <br>
 <b>Author:</b> Charles Burton Buckley (1844–1912)

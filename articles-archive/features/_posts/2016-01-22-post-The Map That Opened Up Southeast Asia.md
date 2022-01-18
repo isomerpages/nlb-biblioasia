@@ -6,8 +6,7 @@ image: /images/vol-11-issue-4/map-that-opened-southeast-asia/01_mapthatopenedsea
 layout: post
 description: ""
 ---
-<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>ABOUT THE MAP</b>
-<br><br>
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;">
 <b>Title:</b> <i><a href="https://eresources.nlb.gov.sg/printheritage/detail/302a34a9-17c9-48db-abcb-53133aa7c27a.aspx">Exacta & Accurata Delineatio cum Orarum Maritimdrum tum etjam locorum terrestrium quae in Regionibus China, Cauchinchina, Camboja sive Champa, Syao, Malacca, Arracan & Pegu… (The True Depiction or Illustration of all the Coasts and Lands of China, Cochin China, Cambodia, Siam, Malacca, Arracan and Pegu, Likewise of all the Adjacent Islands, Large and Small, Together with the Cliffs, Riffs, Sands, Dry Parts and Shallows; All Taken from the Most Accurate Sea Charts and Rutters in Use by the Portuguese Pilots Today)</a></i>
 <br>
 <b>Creator:</b> Jan Huygen van Linschoten (1563–1611)

@@ -1,7 +1,10 @@
 ---
 title: "Mother Island: Finding Singapore's Past in Pulau Lingga"
 permalink: /vol-17/issue-4/jan-to-mar-2022/pulau-lingga
-description: ""
+description: Singapore’s history is closely intertwined with that of Lingga’s.
+  The kings that once reigned from its shores played a pivotal role in the fate
+  of the Malay world, including the birth of modern Singapore, as Faris Joraimi
+  reveals.
 image: /images/vol-17-issue-3/ancient-gold/Armband%20with%20Kala%20motif%20.jpg
 ---
 #### Singapore’s history is closely intertwined with that of Lingga’s. The kings that once reigned from its shores played a pivotal role in the fate of the Malay world, including the birth of modern Singapore, as **Faris Joraimi** reveals.
@@ -19,7 +22,6 @@ Today, many Singaporeans associate the Riau islands, now part of Indonesia, with
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/mother-island/Map2.jpg)
 <div style="background-color: white;">Map titled <i>Carte de l’Archipel et des Detroits compris entre Singapour et Banca</i>, 1855, showing Lingga in relation to Singapore. <i>© British Library Board H.F.SEC.18.(1530.).</i></div>
-
 
 
 #### **A Trading Power** 
@@ -94,6 +96,7 @@ In return for granting the EIC a lease to establish a trading post on Singapore,
 
 After this “one kingdom” ceased to exist with its formal partition by the Dutch and British in the treaty of 1824, Riau-Lingga limped on as a separate kingdom under Abdul Rahman I and his successors.
 
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba;text-align:center"> Like what you're reading? <a href="https://form.gov.sg/#!/616799db4d9b61001398f79b">Subscribe</a> to BiblioAsia's online newsletter for the latest stories.</div>
 
 #### **Spinning Tops and Other Pastimes**
 

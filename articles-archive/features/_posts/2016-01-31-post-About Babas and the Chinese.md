@@ -1,13 +1,13 @@
 ---
 title: About Babas and the Chinese
-permalink: /vol-11/issue-4/jan-mar-2016/about-babas-and-chinese
+permalink: /vol-11/issue-4/jan-mar-2016/manners-customs-chinese-straits-settlements
 date: 2016-01-31
 layout: post
 description: ""
 ---
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
-	<b>Title:</b> The Manners and Customs of the 
-Chinese of the Straits Settlements<br>
+	<b>Title:</b> <a href="https://eresources.nlb.gov.sg/printheritage/detail/d158bcea-eb92-4e6a-8622-e1762c4b4de1.aspx"><i>The Manners and Customs of the 
+	Chinese of the Straits Settlements</i></a><br>
 <b>Author:</b> Jonas Daniel Vaughan (1825–91)<br>
 <b>Year published:</b> 1879<br>
 <b>Publisher:</b> Mission Press (Singapore)<br>
@@ -55,9 +55,9 @@ a midshipman and stopped over in Singapore in 1842 while en route to China to fi
 [^2]:Fortier, Sep 1974, p. 611; Blythe, W. (1971). Introduction. In J. D. Vaughan. (1971), [*The manners and customs of the Chinese of the Straits Settlements*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4250059). Singapore: Oxford University Press. Call no.: RSING 390.0951 VAU-[CUS].  
 [^3]:Vaughan, J. D. (1879). [*The manners and customs of the Chinese of the Straits Settlements*](https://eresources.nlb.gov.sg/printheritage/detail/d158bcea-eb92-4e6a-8622-e1762c4b4de1.aspx) (p. 4). Singapore: Printed at the Mission Press. Retrieved from BookSG; [Blythe](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4250059), 1971, Introduction.
 [^4]:[Vaughan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=116812), 1879, pp. 63–81, 92–94, 110–119.
-[^5]:Kaufman, H. K. (1972, November). Review. *The Journal of Asian Studies, 32*(1), 215–216. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
-[^6]:*One Hundred Years of Singapore* gives the date as 1842. See Makepeace, W., Brooke, G. E., & Braddell, R. St. J. (1991). [One hundred years of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6203718) (Vol. 1, p. 223). Singapore: Oxford University Press. Call no.: RSING 959.57ONE-[HIS]        
-[^7]:Gibson-Hill, C. A. (1960, May). The Master Attendants at Singapore, 1819–67. *Journal of the Malaysian Branch of the Royal Asiatic Society*, Vol. 33, No. 1 (189), 57. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website. 
+[^5]:Kaufman, H. K. (1972, November). Review. *The Journal of Asian Studies, 32* (1), 215–216. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
+[^6]:*One Hundred Years of Singapore* gives the date as 1842. See Makepeace, W., Brooke, G. E., & Braddell, R. St. J. (1991). [*One hundred years of Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6203718) (Vol. 1, p. 223). Singapore: Oxford University Press. Call no.: RSING 959.57ONE-[HIS]        
+[^7]:Gibson-Hill, C. A. (1960, May). The Master Attendants at Singapore, 1819–67. [*Journal of the Malaysian Branch of the Royal Asiatic Society*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4126333)*, 33* (1) (189), 57. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website. 
 [^8]:[Makepeace, Brooke & Braddell](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6203718), 1991, p. 223.        
 [^9]:[Gibson-Hill](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4982709), May 1960, pp. 58–62. 
 [^10]:[Makepeace, Brooke & Braddell](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6203718), 1991, p. 224.

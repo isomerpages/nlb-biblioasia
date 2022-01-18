@@ -1,13 +1,13 @@
 ---
 title: "Through the Eye Glass "
-permalink: /vol-11/issue-4/jan-mar-2016/through-the-eye-glass
+permalink: /vol-11/issue-4/jan-mar-2016/cermin-mata-benjamin-keasberry
 date: 2016-01-31
 layout: post
 description: ""
 ---
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
-	<b>Title:</b> <i>Cermin Mata Bagi Segala Orang Yang 
-	Menuntut Pengetahuan (An Eye Glass for All Who Seek Knowledge)</i><br>
+	<b>Title:</b> <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4412481"><i>Cermin Mata Bagi Segala Orang Yang 
+	Menuntut Pengetahuan (An Eye Glass for All Who Seek Knowledge)</i></a><br>
 <b>Authors:</b> Possibly a collaboration between Reverend Benjamin Keasberry (1811–75) and Abdullah bin Abdul Kadir (1797–1854)<br>
 <b>Year published:</b> 1859<br>
 <b>Publisher:</b> Mission Press (Singapore)<br>
@@ -45,7 +45,7 @@ Malay type.[^5] Mount Zion (or Bukit Zion) was also the location of the press.
 <div style="background-color: white;"> Seven issues of <i>Cermin Mata</i> were published altogether but the National Library only has issues 4, 5, 6 and 7, which were printed in 1859. Each issue contains 100 pages with 
 intricately coloured frontispieces and chapter headings. <i>Image source: National Library Board, Singapore</i></div>
 
-Keasberry compiled two periodicals before he published *Cermin Mata: namely Taman Pengetahuan* (1848–52) and *Pŭngutib Sagala Remah Pengetahuan* (1852–54). Similar in content to *Cermin Mata*, these works consisted of a mix of Christian biblical and other moral stories as well as practical knowledge and science.[^6] However of the three periodicals, the finest was *Cermin Mata* – which has been called “a most spectacular imprint”.[^7]
+Keasberry compiled two periodicals before he published *Cermin Mata*: namely *Taman Pengetahuan* (1848–52) and *Pŭngutib Sagala Remah Pengetahuan* (1852–54). Similar in content to *Cermin Mata*, these works consisted of a mix of Christian biblical and other moral stories as well as practical knowledge and science.[^6] However of the three periodicals, the finest was *Cermin Mata* – which has been called “a most spectacular imprint”.[^7]
 
 *Cermin Mata* was used as an educational magazine and a means of proselytising in missionary schools. It was also used as reading material in the Dutch education 
 system in Indonesia (after Dutch official Palmer van den Broek compiled parts of it as an anthology).[^8] This version in romanised text, or Rumi, was printed in 1866 
@@ -64,7 +64,7 @@ writing. It was enthusiastically embraced by local printers and publishers, pavi
 [^4]:Putten, J. V. D. (2006). Abdullah Munsyi and the missionaries. *Bijdragen tot de Taal -, Land-en Volkenkunde (BKI), 162* (4), 411. Retrieved from Brill Online Books and Journals website.
 [^5]:National Library Board. (1998). [*Benjamin Keasberry*](http://eresources.nlb.gov.sg/infopedia/articles/SIP_781_2005-01-03.html) written by Cornelius-Takahama, Vernon. Retrieved from Singapore Infopedia.
 [^6]:Putten, 2006, p. 411. 
-[^7]:Gallop, A. T. (1990). Early Malay printing: An introduction to the British Library collections. *Journal of the Malaysian Branch of the Royal Asiatic Society*, Vol. 63, No. 1 (258), 98. Retreived from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website. 
+[^7]:Gallop, A. T. (1990). Early Malay printing: An introduction to the British Library collections. *Journal of the Malaysian Branch of the Royal Asiatic Society, 63* (1) (258), 98. Retreived from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website. 
 [^8]:Putten, 2006, p. 418.
 [^9]:Proudfoot, I. (1993). [*Early Malay printed books: A provisional account of materials published in the Singapore-Malaysia area up to 1920, noting holdings in major public collections*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6712616) (p. 201). Kuala Lumpur: Academy of Malay Studies and the Library, University of Malaya. Call no.: RSING 015.5957 PRO-[LIB]
 [^10]:[Proudfoot](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6712616), 1993, p. 201.

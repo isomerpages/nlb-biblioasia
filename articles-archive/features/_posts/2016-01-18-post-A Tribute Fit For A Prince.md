@@ -6,8 +6,7 @@ image: /images/vol-11-issue-4/a-tribute-of-a-prince/01_tributeprince.jpg
 layout: post
 description: ""
 ---
-<div style="background-colour:#fdf5e6; padding:20px; margin: 20px; background: #fdf5e6;"><b>ABOUT THE MANUSCRIPT</b>
-<br><br>
+<div style="background-colour:#fdf5e6; padding:20px; margin: 20px; background: #fdf5e6;">
 <b>Title:</b> <i><a href="https://eresources.nlb.gov.sg/printheritage/detail/920ecc56-9df8-409e-b3ec-f742a6895eea.aspx">Address to Alfred, Duke of Edinburgh by the Singapore Chinese Merchants on the Occasion of His Visit to Singapore in 1869</a></i>
 <br>
 <b>Creator:</b> Unknown

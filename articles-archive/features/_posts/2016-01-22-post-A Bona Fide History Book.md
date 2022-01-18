@@ -1,12 +1,11 @@
 ---
 title: A Bona Fide History Book
-permalink: /vol-11/issue-4/jan-mar-2016/bona-fide-history
+permalink: /vol-11/issue-4/jan-mar-2016/handbook-singapore-george-murray-reith
 date: 2016-01-22
 layout: post
 description: ""
 ---
-<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>ABOUT THE BOOK</b>
-<br><br>
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;">
 <b>Title:</b> <i><a href="https://eresources.nlb.gov.sg/printheritage/detail/2cf2ccde-1931-4e93-b265-a46254084820.aspx">Handbook to Singapore, with Map and a Plan of the Botanical Gardens</a></i><br>
 <b>Author:</b> George Murray Reith (1863–1948)<br>
 <b>Year published:</b> 1892<br>
@@ -15,7 +14,7 @@ description: ""
 <b>Type:</b> Book; 135 pages<br>
 <b>Location:</b> Call no.: RRARE 959.57 REI; Microfilm no.: NL7522</span>
 
-<div style="background-color: white;"><img style="width:500px" src="/images/vol-11-issue-4/a-bona-fide-history-book/01_bonafide.jpg">The title page of Handbook to Singapore, one of the first travel guidebooks to the city. <i>Image source: National Library Board, Singapore.</i></div>
+<div style="background-color: white;"><img style="width:500px" src="/images/vol-11-issue-4/a-bona-fide-history-book/01_bonafide.jpg">The title page of <i>Handbook to Singapore</i>, one of the first travel guidebooks to the city. <i>Image source: National Library Board, Singapore.</i></div>
 
 Travel guides are more than just books that tell you about interesting sights in a destination, or where to eat, and how to get from one place to another. As a guidebook becomes worn and dated over time, it turns into a bona fide history book, providing valuable insights into the past. This is exactly what *Handbook to Singapore* has become: a history book of sorts documenting life in the colony in the late 19th century. 
 
@@ -49,8 +48,7 @@ Born in 1863 in Scotland, Reith studied at Aberdeen University and New College, 
 
 **NOTES**
 
-[^1]:Reith, G. M. (1892). *[Handbook to Singapore, with map and a plan of the Botanical Gardens](http://eresources.nlb.gov.sg/printheritage/detail/2cf2ccde-1931-4e93-b265-a46254084820.aspx)* (p. iii). Singapore: Singapore and Straits Print. Office.
-Microfilm no.: NL 7522
+[^1]:Reith, G. M. (1892). *[Handbook to Singapore, with map and a plan of the Botanical Gardens](http://eresources.nlb.gov.sg/printheritage/detail/2cf2ccde-1931-4e93-b265-a46254084820.aspx)* (p. iii). Singapore: Singapore and Straits Print. Office. Microfilm no.: NL 7522
 
 [^2]:Reith, G. M., & Makepeace, W. (1907). *[Handbook to Singapore with map](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13202689)*. Singapore: Fraser and Neave. Microfilm nos.: NL 24341 and NL 30196
 
@@ -62,7 +60,7 @@ Microfilm no.: NL 7522
 
 [^6]:[Reith & Makepeace](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082247), 1985, pp. v–vi.
 
-[^7]:Turnbull, C. M. (1988, June). Reviewed work: 1907 Handbook to Singapore by G. M. Reith. *The China Quarterly, 114*, 301–302. Retrieved from JSTOR.
+[^7]:Turnbull, C. M. (1988, June). Reviewed work: 1907 Handbook to Singapore by G. M. Reith. *The China Quarterly, 114*, 301–302. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
 
 [^8]:National Library of Scotland. (n.d). *Inventory Acc 3564 – Papers of the Rev George M. Reith*. Retrieved from National Library of Scotland website.
 

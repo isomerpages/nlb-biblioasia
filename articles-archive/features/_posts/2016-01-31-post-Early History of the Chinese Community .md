@@ -1,13 +1,13 @@
 ---
 title: "Early History of the Chinese Community "
-permalink: /vol-11/issue-4/jan-mar-2016/history-of-chinese-community
+permalink: /vol-11/issue-4/jan-mar-2016/one-hundred-years-history-chinese-singapore
 date: 2016-01-31
 layout: post
 description: ""
 ---
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
-	<b>Title:</b> One Hundred Years’ History of the Chinese in Singapore: Being a Chronological Record of the Contribution by the Chinese Community to the 
-Development, Progress and Prosperity of Singapore; of Events and Incidents Concerning the Whole or Sections of that Community; and of the Lives, Pursuits and Public Service of Individual Members Thereof from the Foundation of Singapore on 6th February 1819 to its Centenary on 6th February 1919<br>
+	<b>Title:</b> <a href="https://eresources.nlb.gov.sg/printheritage/detail/f8082431-1c7b-460e-b59c-bbc5793035a3.aspx"><i>One Hundred Years’ History of the Chinese in Singapore: Being a Chronological Record of the Contribution by the Chinese Community to the 
+Development, Progress and Prosperity of Singapore; of Events and Incidents Concerning the Whole or Sections of that Community; and of the Lives, Pursuits and Public Service of Individual Members Thereof from the Foundation of Singapore on 6th February 1819 to its Centenary on 6th February 1919</i></a><br>
 <b>Author:</b> Song Ong Siang (1871–1941)<br>
 <b>Year published:</b> 1923<br>
 <b>Publisher:</b> John Murray (London)<br>
@@ -23,12 +23,12 @@ Development, Progress and Prosperity of Singapore; of Events and Incidents Conce
 
 As part of the celebrations for the 100th anniversary of Singapore’s founding, a book was commissioned to detail the history and contributions of the colony’s Chinese community.[^1] This became the classic text, *One Hundred Years’ History of the Chinese in Singapore*, which chronicles 19th-century Chinese society in Singapore from 1819 to 1919. The 602-page tome also serves as an excellent reference on the who’s who in Singapore’s early Chinese community, particularly the Straits Chinese elites.
 
-Originally envisioned as individual chapters in another seminal publication, *One Hundred Years of Singapore* (see page 26), the history of the Chinese in Singapore 
+Originally envisioned as individual chapters in another seminal publication, *One Hundred Years of Singapore*, the history of the Chinese in Singapore 
 proved weighty enough for the book’s editors – Walter Makepeace, Gilbert Edward Brooke and Roland St. John Braddell – to spin it off as a separate title. Song Ong Siang was asked to write the book, and it was published in London by John Murray in 1923 (and not in 1902 as stated on its flyleaf). The book has been reprinted three 
 times, most recently in 1984 by Oxford University Press.[^2]
 
 In 12 chronological chapters organised by decade, *One Hundred Years’ History of the Chinese in Singapore* offers readers a look into “the social, commercial, political, religious, and intellectual life of the Chinese 
-in all their varied aspects and divisions”.[^3] Song employed an anecdotal style of writing to frame the maze of historical data, taking after Charles Buckley’s *An Anecdotal History of Old Times in Singapore* (1902) (see page 16). A 37-page index at the end of the book helps the reader navigate through the hefty compendium of facts.[^4]
+in all their varied aspects and divisions”.[^3] Song employed an anecdotal style of writing to frame the maze of historical data, taking after Charles Buckley’s *An Anecdotal History of Old Times in Singapore* (1902). A 37-page index at the end of the book helps the reader navigate through the hefty compendium of facts.[^4]
 
 According to a newspaper review dated 10 January 1924, the book had three objectives: record the contributions of the Chinese to Singapore’s progress; survey Singapore’s history from the perspective of the Chinese community; and detail the most prominent Chinese individuals and families of the time.
 
@@ -44,7 +44,7 @@ Born in June 1871, Song was the third son of Song Hoot Kiam, who founded the Str
 was awarded the Queen’s Scholarship to study law at Downing College in Cambridge, England. He later became a member of Middle Temple and the first Straits Chinese barrister, setting up the legal firm, Aitken and Ong Siang, at the age of 22.
 
 Besides serving as a legislative councillor, Song was also involved in various efforts to improve the status of the Straits Chinese community. A strong advocate for educational reform, Song actively campaigned for the establishment of the Singapore Chinese Girls’ School, and took office as one of its governors and later as 
-vice-president. Some of the proceeds from the sale of *One Hundred Years’ History of the Chinese in Singapore* were donated to the school’s building fund. Song also collaborated with Lim Boon Keng to produce *The Straits Chinese Magazine* from 1897 to 1907 (see page 84).[^6]
+vice-president. Some of the proceeds from the sale of *One Hundred Years’ History of the Chinese in Singapore* were donated to the school’s building fund. Song also collaborated with Lim Boon Keng to produce *The Straits Chinese Magazine* from 1897 to 1907.[^6]
 
 In 1931, the Rotary Club made Song an honorary member, a tribute paid only to individuals who had excelled in community service. Five years later, in 1936, 
 Song became the first Malayan Chinese and the second Asian in Malaya – apart from the Malay rulers – to receive a knighthood when he was conferred the Knight Commander of the Order of the British Empire (K.B.E).[^7]

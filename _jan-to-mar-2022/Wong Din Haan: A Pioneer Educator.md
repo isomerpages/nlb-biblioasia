@@ -1,9 +1,10 @@
 ---
 title: "Wong Din Haan: A Pioneer Educator"
 permalink: /vol-17/issue-4/jan-to-mar-2022/wong-din-haan
-description: ""
+image: /images/vol-17-issue-4/Wong-Din-Haan/Cover-WongDinHaan-R.jpg
+description: Wong Din Haan not only founded what is believed to be the first
+  girls’ school in Singapore, but she was also a champion for women’s rights.
 ---
-
 #### Wong Din Haan not only founded what is believed to be the first girls’ school in Singapore, but she was also a champion for women’s rights. **Patricia Lim** tells us more.
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/Wong-Din-Haan/Cover-WongDinHaan-R.jpg)
@@ -52,7 +53,6 @@ However, Wong Din Haan’s school was a pioneer in female education in that it i
 
 This was probably her most important legacy to Singapore as she recognised the importance of educating women for their own personal development and advancement in society. She was the first woman who had the courage and the nerve to leave the comfortable seclusion of home to push for the education of women in the face of conservative opinion.
 
-
 #### **Advocate for Women’s Rights** 
 
 My grandaunt must have been bitterly disappointed when the school had to close but she continued to be socially active in community affairs. When the Chinese Ladies Association (now known as Chinese Women’s Association Singapore) was established in 1915, she was a founding member along with her younger sister Wong Bee Soo and the wives of her two younger brothers, Mrs Wong Siew Qui (née Ng Yung Chee) and Mrs Wong Siew Yuen (née Mark Shou Young).[^10] 
@@ -97,6 +97,8 @@ My grandaunt was one of those arrested by the Japanese. I wonder what the Japane
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/Wong-Din-Haan/WongDinHaan2.jpg)
 <div style="background-color: white;">Wong Din Haan, family name Wong Bee Ho. <i>Courtesy of Paddy Chee.</i></div>
+
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba;text-align:center"> Like what you're reading? <a href="https://form.gov.sg/#!/616799db4d9b61001398f79b">Subscribe</a> to BiblioAsia's online newsletter for the latest stories.</div>
 
 #### **Leaving a Legacy** 
 

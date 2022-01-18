@@ -16,9 +16,9 @@ Born in Haicheng in Fujian Province, China, Khoo settled in Singapore with his p
 
 Educated in the Confucian tradition, Khoo Seok Wan returned to his hometown in China when he was 15 to prepare for the all-important Chinese imperial examinations. In 1894, he passed the provincial level of the examinations and attained the level of <i>juren</i> (举人), which meant that he qualified to sit for the next level conducted by the central government in Beijing the following year. However, Khoo was unsuccessful in his attempt, and in 1896 he returned to Singapore somewhat disheartened.
 
-Khoo and his siblings came into their inheritance after their father’s death and Khoo stayed in Singapore for good. Like most Chinese literati of the day, Khoo led an extravagant lifestyle during his early years, enjoying life’s many pleasures. Besides managing the family business, he advocated the promotion of culture and education, founding poetic societies such as Lize and Huiyin, and establishing the Singapore Chinese Girls’ School with prominent contemporaries such as Lim Boon Keng and Song Ong Siang. He even edited the <i>Thousand Character Classics: A New Version</i> (《新出千字文》), probably the earliest existing original Chinese preschool text in Singapore.
+Khoo and his siblings came into their inheritance after their father’s death and Khoo stayed in Singapore for good. Like most Chinese literati of the day, Khoo led an extravagant lifestyle during his early years, enjoying life’s many pleasures. Besides managing the family business, he advocated the promotion of culture and education, founding poetic societies such as Lize and Huiyin, and establishing the Singapore Chinese Girls’ School with prominent contemporaries such as Lim Boon Keng and Song Ong Siang. He even edited <i>Thousand Character Classics: A New Version</i> (《新出千字文》), probably the earliest existing original Chinese preschool text in Singapore.
 
-As a newspaperman and journalist, he founded the newspaper <i>Thien Nan Shin Pao</i> (《天南新报》) in 1898, became chief editor for <i>Cheng Nam Jit Poh</i> (《振南日报》) in 1912, and was appointed editor for the literary supplement of <i>Sin Chew Jit Poh</i> (星洲日报) in 1929. Politically, Khoo supported the reformists, in particular, Kang Youwei and Liang Qichao, contributing financially and helping out where he could.
+As a newspaperman and journalist, he founded the newspaper <i>Thien Nan Shin Pao</i> (《天南新报》) in 1898, became chief editor for <i>Cheng Nam Jit Poh</i> (《振南日报》) in 1912, and was appointed editor for the literary supplement of <i>Sin Chew Jit Poh</i> (《星洲日报》) in 1929. Politically, Khoo supported the reformists, in particular, Kang Youwei and Liang Qichao, contributing financially and helping out where he could.
 
 As a result of his extravagant ways Khoo went bankrupt when he was 34; this was a major turning point in his life and led him to live the rest of his life frugally. As the Chinese poetry pioneer of Nanyang, Khoo had written more than a thousand poems in the traditional form. His works include <i>Notes of Khoo Seok Wan</i>《菽园赘谈》, <i>Collected Poems of Xiao Hong Sheng</i>《啸虹生诗钞》, <i>Five Hundred Stones: A Collection of Literary Criticism</i>《五百石洞天 挥麈》, including his poetry collection <i>Collected Poems of Khoo Seok Wan</i>《丘菽园居士诗集》 edited by his family. 
 
@@ -103,7 +103,7 @@ National Library Board. (2021, March 22). *[Qiu Shuyuan biography](https://ereso
 
 [^1]: National Environment Agency. (n.d). Weather/Climate information. Retrieved from National Environment Agency website. 
 
-[^2]: In Chinese
+[^2]:《新嘉坡风土记》， 见饶宗颐编《新加坡古事记》，香港：中文大学出版社，1994年，页167。
 
 [^3]: … it is the moist heat which makes it unpleasant (p. 125). (2008). In M. Wise, *[Travellers' tales of old Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13084961)*. Singapore: Marshall Cavendish Editions. (Available via PublicationSG)
 

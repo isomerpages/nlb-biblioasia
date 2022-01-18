@@ -1,13 +1,12 @@
 ---
 title: The First Public Library
-permalink: /vol-11/issue-4/jan-mar-2016/the-first-public-library
+permalink: /vol-11/issue-4/jan-mar-2016/singapore-public-library-reports-catalogue
 date: 2016-01-31
 layout: post
 description: ""
 ---
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
-	<b>Title:</b> <i>Reports of the Singapore Library</i> 
-(1844–52, 1860)<br>
+	<b>Title:</b> <a href="https://eresources.nlb.gov.sg/printheritage/detail/3c12fae7-bfb5-4524-ab57-892031e43abc.aspx"><i>Reports of the Singapore Library</i> 	(1844–52, 1860)</a><br>
 <b>Creator:</b> Singapore Library<br>
 <b>Year published:</b> 1845–53, 1861<br>
 <b>Publisher:</b> Mission Press (Singapore)<br>
@@ -19,7 +18,7 @@ description: ""
 <b>Title:</b> <i>Catalogue of Books in the Singapore 
 	Library, with Regulations and By-laws</i><br>
 <b>Creator:</b> Singapore Library<br>
-<b>Year published:</b> September 1860 and January 1863
+<b>Year published:</b> <a href="https://eresources.nlb.gov.sg/printheritage/detail/bf634eb4-67cb-4352-8c78-dea52e2372d2.aspx">September 1860</a> and <a href="https://eresources.nlb.gov.sg/printheritage/detail/ee15f9b1-d56f-4940-9b68-8d8329b780d0.aspx">January 1863</a><br>
 <b>Publisher:</b> Mission Press (Singapore)<br>
 <b>Language</b>: English<br>
 <b>Type:</b> Serial<br>
@@ -28,7 +27,7 @@ description: ""
 </span>
 
 <img style="width: 450px; height: 420px;" src="/images/vol-11-issue-4/the-first-public-library/L1.JPG">
-<div style="background-color: white;"><i>The Reports of the Singapore Library and Catalogue of Books</i> in the Singapore Library provide an invaluable account of the history of the Singapore Library and its collections. <i>All rights reserved, National Library Board, Singapore.</i></div>
+<div style="background-color: white;">The <i>Reports of the Singapore Library</i> and <i>Catalogue of Books</i> in the Singapore Library provide an invaluable account of the history of the Singapore Library and its collections. <i>All rights reserved, National Library Board, Singapore.</i></div>
 
 People visit the library for various reasons, not least of which to read and look for information on interesting subjects. But what if the subject is the library itself?
 
@@ -49,25 +48,25 @@ the monthly fee for Singapore residents was reduced to one Spanish dollar.[^5]
 In addition to membership details, the report also contains information on the collections of the library,the by-laws, including its opening hours, and the fines payable for overdue and lost materials. Each member 
 could only borrow one book and one periodical at atime for anywhere between two and 14 days, depending on the type of item and whether it was a new title.[^6]
 
+<img style="width: 650px; height: 400px;" src="/images/vol-11-issue-4/the-first-public-library/L4.JPG">
+<div style="background-color: white;">The Singapore Library started with three levels of membership. 
+The most expensive category was for shareholders, who paid an entrance fee of 40 Spanish dollars and a monthly subscription of two Spanish dollars. <i>Image source: National Library Board, Singapore.</i></div>
+
 From just 617 volumes in 1846, the library’s collection quickly grew to more than 2,000 volumes by 1860. Its list of books was published in the *Catalogue of Books in 
 the Singapore Library*, and since the Dewey Decimal and Library of Congress classification systems had not yet been developed, the items were arranged by genre and then alphabetically by title.[^7] The National Library does not have the first copy of *Catalogue of Books of the Singapore Library* but it has the September 1860 and January 1863 issues. The two catalogues reveal that the Singapore Library used six genre classes, namely: Biography; Divinity, Ecclesiastical History, etc; General Literature; History, Voyages and Travels, etc; Novels, Tales, etc; and Poetry and Drama.[^8]
 
-Many of the library’s earliest books, which were mostly donated, included titles such as *Notices of the Indian Archipelago, and Adjacent Countries* (1837) (see page 36), *Memoir of the Life and Public Services of Sir Thomas Stamford Raffles* (1830) and the entire series of *The Edinburgh Review*.[^9] These titles are still with the National Library today.[^10]
+Many of the library’s earliest books, which were mostly donated, included titles such as *Notices of the Indian Archipelago, and Adjacent Countries* (1837), *Memoir of the Life and Public Services of Sir Thomas Stamford Raffles* (1830) and the entire series of *The Edinburgh Review*.[^9] These titles are still with the National Library today.[^10]
 
 Over time, the role of the Singapore Library evolved. In 1849, the library assumed the additional role of a museum when Governor William J. Butterworth presented the Singapore Library with two ancient gold coins given by the Temenggong of Johor. To prepare for its new role, a museum committee was formed and 
 the responsibilities of the librarian were expanded to include the role of curator.[^11] Although this arrangement was considered as one of the causes for the eventual demise of the Singapore Library, it nonetheless laid the foundation for the next phase of development when the library’s functions were expanded to include the administration of a museum before it was reconstituted 
 as the Raffles Library and Museum on 16 July 1874.[^12]
 
-<img src="/images/vol-11-issue-4/the-first-public-library/L3.JPG">
+<img style="width: 650px; height: 450px;" src="/images/vol-11-issue-4/the-first-public-library/L3.JPG">
 <div style="background-color: white;">William J. Butterworth (1801–56), Governor of the Straits 
 Settlements (1843–1855), was the first president of the Singapore Library when it opened in January 1845. <i>Image source: National Library Board, Singapore.</i></div>
 
 About eight decades later, in 1955, the library and the museum split amicably, resulting in the establishment of the Raffles National Library at Stamford Road on 12 November 1960. Barely three weeks later, on 1 December, the Raffles National Library was renamed as the National Library, which would exist until 1 September 1995 when it became a statutory board known as the 
 National Library Board.[^13]
-
-<img src="/images/vol-11-issue-4/the-first-public-library/L4.JPG">
-<div style="background-color: white;">The Singapore Library started with three levels of membership. 
-The most expensive category was for shareholders, who paid an entrance fee of 40 Spanish dollars and a monthly subscription of two Spanish dollars. <i>Image source: National Library Board, Singapore.</i></div>
 
 – Written by Lim Tin Seng
 
@@ -84,4 +83,4 @@ The most expensive category was for shareholders, who paid an entrance fee of 40
 [^10]:Chan, F. W., et. al. (2008). [*Catalogue of rare materials in Lee Kong Chian Reference Library*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12995119). Singapore: National Library Board. Call no.: RSING 016.95 CAT-[LIB]
 [^11]:Singapore Library. (1850). [*The fifth report of the Singapore Library 1849*](https://eresources.nlb.gov.sg/printheritage/detail/3c12fae7-bfb5-4524-ab57-892031e43abc.aspx) (pp. 10–12, 20–21). Singapore: Singapore Library. Microfilm: NL 5040
 [^12]:[Seet](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082325), 1983, pp. 19–20.
-[^13]:Ministry of Communications and Information. (2014, November 20). Milestones in libraries. Retrieved from Ministry of Communications and Information website.
+[^13]:Ministry of Communications and Information. (2014, November 20). *Milestones in libraries*. Retrieved from Ministry of Communications and Information website.

@@ -1,7 +1,9 @@
 ---
 title: Movies Beneath A Starry, Starry Night
 permalink: /vol-17/issue-4/jan-to-mar-2022/jurong-drive-in-cinema
-description: ""
+description: The Jurong Drive-in was Singapore’s one and only drive-in cinema.
+  In its heyday in the 1970s, it was packed bumper to bumper with vehicles.
+  Sharon Teng tracks its rise and subsequent decline.
 image: /images/vol-17-issue-4/movies-beneath/Banner_Jurong%20Drive-in%20bg.png
 ---
 #### The Jurong Drive-in was Singapore’s one and only drive-in cinema. In its heyday in the 1970s, it was packed bumper to bumper with vehicles. **Sharon Teng** tracks its rise and subsequent decline.
@@ -60,6 +62,8 @@ Antoine Low, Head of Cathay’s Property and Technical Section, said that during
 <div style="background-color: white;">Vehicles at the Jurong Drive-in Cinema on opening night, 14 July 1971. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 Some people even came up with ingenious ideas to avoid buying tickets. While working at a factory in Jurong, housing agent Teo Soon Kin said that he and his friends watched *The Big Boss* on five consecutive nights for free: “We sat outside the perimeter fence and watched. Sometimes, we would ask motorists nearest the fence to turn up the volume of their individual speakers so we could listen as well.”[^15]
+
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba;text-align:center"> Want more of what you’re reading? Get BiblioAsia’s latest stories delivered to your inbox. Subscribe <a href="https://form.gov.sg/#!/616799db4d9b61001398f79b">here</a>. </div>
 
 #### **Cinema Shenanigans and Disgruntled Patrons** 
 

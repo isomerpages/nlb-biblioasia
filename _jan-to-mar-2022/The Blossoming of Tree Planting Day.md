@@ -1,7 +1,9 @@
 ---
-title: "The Blossoming of Tree Planting Day"
+title: The Blossoming of Tree Planting Day
 permalink: /vol-17/issue-4/jan-to-mar-2022/tree-planting-day
-description: ""
+description: Singapore has planted more than two million trees in the past 50
+  years. Lim Tin Seng traces the roots of Tree Planting Day.
+image: /images/vol-17-issue-4/tree-planting/1-Header-2.jpg
 ---
 #### Singapore has planted more than two million trees in the past 50 years. **Lim Tin Seng** traces the roots of Tree Planting Day.
 
@@ -27,6 +29,7 @@ The municipality planted trees to either beautify parks and public spaces under 
 Trees were also planted in the Botanic Gardens for beautification or in its nurseries to support the municipality’s tree planting efforts as well as to experiment with new commercial crop like the pará rubber tree. Between the 1880s and 90s, the Botanic Gardens also carried out a large-scale tree planting programme in an attempt to reforest tracts of land that had once been primary forest but had been cleared to make way for plantations.[^2] 
 
 After World War II, the colonial government continued to hold many different tree planting activities. For instance, a tree planting campaign was launched in 1948 by the municipality to replant roadside trees that had been cut down during the Japanese Occupation. In 1955, the Singapore Improvement Trust (SIT) introduced a programme for residents to develop “a greater interest in the well-being of the estate” through tree planting. In the same year, the municipality, now renamed the City Council, also began to plant more flowering trees, such as the red bead tree (_Adenanthera pavonina_), green ebony (_Jacaranda filicifolia_) and Madras thorn (_Pithecellobium dulce_), as roadside trees in an attempt to turn Singapore into a “Garden City of the future”.[^3]
+
 
 #### **The 1963 Tree Planting Campaign**
 
@@ -107,6 +110,7 @@ Beyond planting more trees, the OneMillionTrees Movement is about, as Minister f
 <img src="/images/vol-17-issue-4/authors/LimTinSeng.png" style="width: 100px; height: 100px;" />
   <b>Lim Tin Seng</b> is a Librarian with the National Library, Singapore. He is the co-editor of <i>Roots: Tracing Family Histories – A Resource Guide</i> (2013), <i>Harmony and Development</i>: <i>ASEAN-China Relations</i> (2009) and <i>China’s New Social Policy: Initiatives for a Harmonious Society</i> (2010). He writes regularly for <i>BiblioAsia</i>.</div>
 
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba;text-align:center"> Like what you're reading? <a href="https://form.gov.sg/#!/616799db4d9b61001398f79b">Subscribe</a> to BiblioAsia's online newsletter for the latest stories.</div>
 
 #### **NOTES**
 

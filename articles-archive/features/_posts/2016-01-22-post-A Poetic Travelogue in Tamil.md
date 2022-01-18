@@ -1,19 +1,18 @@
 ---
 title: A Poetic Travelogue in Tamil
-permalink: /vol-11/issue-4/jan-mar-2016/travelogue-in-tamil
+permalink: /vol-11/issue-4/jan-mar-2016/travelogue-tamil-athivinotha-kuthirai-panthaiya-lavani
 date: 2016-01-22
 layout: post
 description: ""
 ---
-<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>ABOUT THE BOOK</b>
-<br><br>
-<b>Title:</b> <i><a href="https://eresources.nlb.gov.sg/printheritage/detail/a44042f8-e29e-4fea-8b2c-015ef96d90a4.aspx">Athivinotha Kuthirai Panthaiya Lavani</a></i> (அதிவின􀁋ோதக் குதிரைப் பந்தயலாவணி)
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;">
+<b>Title:</b> <i><a href="https://eresources.nlb.gov.sg/printheritage/detail/a44042f8-e29e-4fea-8b2c-015ef96d90a4.aspx">Athivinotha Kuthirai Panthaiya Lavani (அதிவினோதக் குதிரைப் பந்தய லாவணி)</a></i>
 <br>
 <b>Author:</b> N. V. Rengasamy Dasan (இரங்கசாமி தாசன், நா. வ.)
 <br>
 <b>Year published:</b> 1893
 <br>
-<b>Publisher:</b> Denothaya Venthira Press (Singapore) (தனீ􀁋ோதய வே ந்திர சாலை ,சிங்கப்பூர்)
+<b>Publisher:</b> Denothaya Venthira Press (Singapore) (தீனோதய வேந்திரசாலை, சிங்கப்பூர்)
 <br>
 <b>Language:</b> Tamil
 <br>
@@ -24,7 +23,7 @@ description: ""
 <b>Accession no.:</b> B03040212A
 </span>
 
-<div style="background-color: white;"><img style="width:600px" src="/images/vol-11-issue-4/a-poetic-travelogue-in-tamil/02a_poetic.jpg">The old race course off Serangoon Road (photographed in 1904) was renamed Farrer Park in 1935 when it moved to Bukit Timah. Interestingly, only a small section of the book Athivinotha Kuthirai Panthaiya Lavani (which translates into English as An Anthology on Horse Racing), is devoted to the sport. <i>Arshak C. Galstaun Collection, courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;"><img style="width:600px" src="/images/vol-11-issue-4/a-poetic-travelogue-in-tamil/02a_poetic.jpg">The old race course off Serangoon Road (photographed in 1904) was renamed Farrer Park in 1935 when it moved to Bukit Timah. Interestingly, only a small section of the book <i>Athivinotha Kuthirai Panthaiya Lavani</i> (which translates into English as <i>An Anthology on Horse Racing</i>), is devoted to the sport. <i>Arshak C. Galstaun Collection, courtesy of National Archives of Singapore.</i></div>
 
 An Indian migrant brings his wife to Singapore in the late 19th century to watch the island’s horse races. As the couple travel around the British colony, the husband, N. V. Rengasamy Dasan, describes each building and street they pass to his wife, painting a verbal picture of turn-of-the century Singapore.
 
@@ -60,11 +59,11 @@ The anthology was published by Denothaya Venthira Press, which was owned by Maka
 
 **NOTES**
 
-[^1]:திண்ணப்பன், சுப. (2014, May 2). சிங்கைத் தமிழர் வரலாற் றிலக்கி ய வளம். Retrieved from Thinmaith Tamil blogspot; Thinnappan, S.P. (2001). குதரைப் பந்தய லாவண. In கடிகாசலம் ந., & சிவசாமி சு [Na. Kaṭikācalam, & Ca. Civacāmi]. (Eds.). [அயலகத் தமிழ்க்கலை, இலக்கியம் – சமகாலச் செல்நெறிகள்](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11268439) [Ayalakat Tamil̲kkalai, ilakkiyam-camakālac celner̲ikaḷ] (p. 430). Cen̲n̲ai: Ulakat Tamil̲ārāycci Nir̲uvan̲am. (Call no.: Tamil RSING 894.81109 AYA)
+[^1]:திண்ணப்பன், சுப. (2014, May 2). சிங்கைத் தமிழர் வரலாற்றிலக்கிய வளம். Retrieved from Thinmaith Tamil blogspot; Thinnappan, S.P. (2001). குதிரைப் பந்தய லாவணி. In கடிகாசலம் ந., & சிவசாமி சு [Na. Kaṭikācalam, & Ca. Civacāmi]. (Eds.). [அயலகத் தமிழ்க்கலை, இலக்கியம் – சமகாலச் செல்நெறிகள்](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11268439) [Ayalakat Tamil̲kkalai, ilakkiyam-camakālac celner̲ikaḷ] (p. 430). Cen̲n̲ai: Ulakat Tamil̲ārāycci Nir̲uvan̲am. (Call no.: Tamil RSING 894.81109 AYA)
 
 [^2]:இரங்கசாமி தாசன், நா. வ [Iraṅkacāmi Tācan̲ , Nā. Va]. (1893). [அதிவினோதக் குதிரைப் பந்தய லாவண](https://eresources.nlb.gov.sg/printheritage/detail/a44042f8-e29e-4fea-8b2c-015ef96d90a4.aspx)ி [Ativin̲ ōtak kutiraip pantaya lāvaṇi] (p. 9). சிங்கப்பூர்: தீனோதயவேந்திர சாலை [Ciṅkappūr: s. n]. Retrieved from BookSG.
 
-[^3]:New World Encyclopedia. (2008, November 9). Murugan. Retrieved from New World Encyclopedia website.
+[^3]:New World Encyclopedia. (2008, November 9). *Murugan*. Retrieved from New World Encyclopedia website.
 
 [^4]:Thielemann, S. (1999). *[The music of South Asia](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9772784)* (p. 521). New Delhi: A.P.H. Pub. Corp. (Call no.: RART 780.954 THI)
 
