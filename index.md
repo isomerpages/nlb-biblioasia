@@ -15,7 +15,7 @@ sections:
           description: From shipwrecks to cookbooks, this issue is a must-read!
           url: /vol-17/issue-4/jan-to-mar-2022/
       button: Read the current issue
-      url: /vol-17/issue-4/jan-to-mar-2022/
+      url: /vol-17/issue-4/jan-mar-2022/
   - infopic:
       title: Cartography and the Rise of Colonial Empires in Asia
       subtitle: HIGHLIGHTS
