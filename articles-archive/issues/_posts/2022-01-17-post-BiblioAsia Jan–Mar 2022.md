@@ -20,7 +20,7 @@ Since time immemorial, maps have been used as tools to explore the world and con
 </a><br>In the 1970s, Jurong Drive-in Cinema drew in the crowds, at least while the novelty lasted. *Sharon Teng* reminisces its glory days. 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-mar-2022/diardduvaucel">French Impressions: 19th-century Natural History Drawings of Singapore and Southeast Asia
-</a><br>Illustrations commissioned by two French naturalists between 1818 and 1820 providing fascinating insights into the region's flora and fauna. 
+</a><br>Illustrations commissioned by two French naturalists between 1818 and 1820 provide fascinating insights into the region's flora and fauna. 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/pulau-lingga">Mother Island: Finding Singapore's Past in Pulau Lingga</a><br>*Faris Joraimi* visits Pulau Lingga in search of forgotten links. 
 
@@ -32,4 +32,4 @@ Since time immemorial, maps have been used as tools to explore the world and con
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/siti-radhiah-cookbooks">Siti Radhiah’s Cookbooks for the Modern Malay Woman</a><br>*Toffa Abdul Wahed* pores through Siti Radhiah's cookbooks published in the 1940s and 50s to uncover their contributions to traditional Malay gastronomy and identity. 
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/tree-planting-day">The Blossoming of Tree Planting Day</a><br>Tree Planting Day began with the first rain tree sapling planted by acting Prime Minister Goh Keng Swee in November 1971. *Lim Tin Seng* traces the roots of this annual event. 
+<a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/tree-planting-day">The Blossoming of Tree Planting Day</a><br>Tree Planting Day began with the first rain tree sapling planted by acting Prime Minister Goh Keng Swee in November 1971. *Lim Tin Seng* traces the roots of this annual event.
