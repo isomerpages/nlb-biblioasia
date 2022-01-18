@@ -13,9 +13,9 @@ colors:
     - title: media-color-three
       color: "#eed000"
     - title: media-color-four
-      color: "#fdef8f"
+      color: "#feedde"
     - title: media-color-five
-      color: "#fdef8f"
+      color: "#feedde"
 resources_name: articles-archive
 permalink: none
 baseurl: ""
