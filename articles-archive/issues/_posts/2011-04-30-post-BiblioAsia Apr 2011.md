@@ -15,14 +15,11 @@ description: ""
 
 **Undiscovered Spaces: An Interview With Boo JunFeng** <br>
 
-**The Growth Of Imagination in Singapore ** <br>
-[(PDF)](/files/pdf/vol-6/issue-3/v6-issue3_EducationBatavia.pdf)
+**The Growth Of Imagination in Singapore Children's Literature in English (1965-2005)** <br>
 
-**Living Legacy: A Brief Survey of Literature on Dr Goh Keng Swee** <br>
-[(PDF)](/files/pdf/vol-6/issue-3/v6-issue3_LivingLegacy.pdf)
+**Penerbitan Buku Melayu Singapura 2001-2010** <br>
 
-**Early Tourist Guidebooks: Willis' Singapore Guide (1936)** <br>
-[(PDF)](/files/pdf/vol-6/issue-3/v6-issue3_WillisGuide.pdf)
+**Women's Perspectives On Malaya Emily Innes on The Malay States** <br>
 
 **The Berita Database: An Online Treasury on Brunei, Malaysia and Singapore** <br>
 [(PDF)](/files/pdf/vol-6/issue-3/v6-issue3_BeritaDatabase.pdf)
