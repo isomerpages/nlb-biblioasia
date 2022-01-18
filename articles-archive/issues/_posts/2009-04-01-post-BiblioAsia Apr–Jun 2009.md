@@ -1,10 +1,11 @@
 ---
-title: Biblioasia Apr–Jun 2009
+title: BiblioAsia Apr–Jun 2009
 permalink: /vol-5/issue-1/apr-jun-2009/
 date: 2009-04-01
 layout: post
 description: ""
 ---
+
 
 
 

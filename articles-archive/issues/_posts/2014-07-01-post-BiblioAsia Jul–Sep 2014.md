@@ -1,9 +1,13 @@
 ---
-title: BiblioAsia Jul-Sep 2014
+title: BiblioAsia Jul–Sep 2014
 date: 2014-07-01
-permalink: /vol-9/issue-4/jul-sep-2014/
+permalink: /vol-10/issue-2/jul-sep-2014/
 layout: post
+description: ""
 ---
+
+
+
 <img src="/images/vol-9-issue-4/background/covered.jpg">
 
 [<b>Director's Note</b>](/vol-10/issue-2/jul-sep-2014/director-note)

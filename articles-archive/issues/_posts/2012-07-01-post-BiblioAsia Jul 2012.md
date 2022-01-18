@@ -1,10 +1,11 @@
 ---
-title: Biblioasia Jul 2012
+title: BiblioAsia Jul 2012
 permalink: /vol-8/issue-3/jul-2012/
 date: 2012-07-01
 layout: post
 description: ""
 ---
+
 
 ![Alt text for image on Isomer site](/images/covers/ba8-2.jpg)
 

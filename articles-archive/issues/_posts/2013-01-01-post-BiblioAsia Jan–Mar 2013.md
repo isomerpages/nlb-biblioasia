@@ -1,10 +1,11 @@
 ---
-title: Biblioasia Jan–Mar 2013
+title: BiblioAsia Jan–Mar 2013
 permalink: /vol-8/issue-4/jan-mar-2013/
 date: 2013-01-01
 layout: post
 description: ""
 ---
+
 
 ![Alt text for image on Isomer site](/images/covers/ba8-4.jpg)
 

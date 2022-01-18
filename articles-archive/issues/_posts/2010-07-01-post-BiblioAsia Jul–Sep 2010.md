@@ -1,10 +1,11 @@
 ---
-title: Biblioasia Jul–Sep 2010
+title: BiblioAsia Jul–Sep 2010
 permalink: /vol-6/issue-2/jul-sep-2010/
 date: 2010-07-01
 layout: post
 description: ""
 ---
+
 
 
 ![Alt text for image on Isomer site](/images/covers/ba6-2.jpg)

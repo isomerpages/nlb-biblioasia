@@ -1,10 +1,11 @@
 ---
-title: Biblioasia Oct–Dec 2010
+title: BiblioAsia Oct–Dec 2010
 permalink: /vol-6/issue-3/oct-dec-2010/
 date: 2010-10-01
 layout: post
 description: ""
 ---
+
 
 
 ![Alt text for image on Isomer site](/images/covers/ba6-3.jpg)
