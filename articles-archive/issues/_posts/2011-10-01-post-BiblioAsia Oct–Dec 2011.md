@@ -7,6 +7,8 @@ description: ""
 ---
 ![Alt text for image on Isomer site](/images/covers/ba7-3.jpg)
 
+**Director's Column**
+
 **The Enigma of Departure: Remembering Singapore's Railway Lines and Stations**<br>[(PDF)](/files/pdf/vol-7/issue-3/v7-issue3_Enigma.pdf)
 
 **Lived Spaces and Memories: The Indian Business Communities in Colonial Singapore**<br>[(PDF)](/files/pdf/vol-7/issue-3/v7-issue3_SpacesMemories.pdf)
@@ -21,7 +23,7 @@ description: ""
 
 **Newspaper SG: From Press to Screen**<br>[(PDF)](/files/pdf/vol-7/issue-3/v7-issue3_NewspaperSg.pdf)
 
-**Gotong Royong in the Kampung Life**<br>
+**Gotong Royong in the Kampung Life**<br>[Example Filename](/files/pdf/vol-7/issue-3/v7-issue3_IRememberSg.pdf)
 
 **More Than Just a Flower: The Orchid's Manifold Faces**<br>[(PDF](/files/pdf/vol-7/issue-3/v7-issue3_OrchidManifold.pdf)
 
