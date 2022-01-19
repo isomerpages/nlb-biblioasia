@@ -59,6 +59,10 @@ The chapter on surnames from the genealogy of the Bai (白) clan from Bangtou To
 
 The second section of this chapter deals with the origin of district-names (<i>junwang</i> 郡望) of the Bai clan. District names refer to the geographical areas where clans first originated or prospered. The district-names associated with the Bai clan are: Fengyi (冯翊, in modern-day Shanxi); Taiyuan (太原, in modern-day Shanxi); Nanyang (南阳, in modern-day Henan); and Xiangshan in the Luoyang area (洛阳香山, in modern-day Henan). This is followed by the migration history of the Bai clan from northern China into the southern regions. The first ancestor to migrate to Anxi was Yi Yu (逸宇公) during the Ming Dynasty in 1424 CE. Yi Yu escaped to Anxi with his family when they were falsely accused of treason.
 
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-9-issue-4/jiapu/origin_of_bai.jpg" style="width:70%;">A chapter in jiapu discussing the origins of the Bai surname. Here, the chapter explores the four possible origins of the Bai surname. <i>All rights reserved. Genealogy of Peh Clan Pangtou Anxi Fujian China, 1989, Singapore Peh Clan Association, Singapore.</i></div>
+
 #### **Generation Chart (Shi Xi Tu 世系图)**
 
 The Zhou Dynasty (1066–221 BCE) rulers incorporated the patriarchal lineage system into their ruling structure so successfully that it had a lasting impact on the entire Chinese civilisation. The Zhou people were ruled by a king who was known as the Son of Heaven. This position was passed down from a father to his eldest surviving son. Younger sons were conferred the title of feudal lords, and their titles were in turn inherited by their eldest sons. Lineages formed by the eldest sons of each feudal lord family were known as the “Main Branch” (<i>dazong</i> 大宗), while those formed by younger sons were known as the “Side Branch” (<i>xiaozong</i> 小宗). The Main Branch enjoyed higher social status than the Side Branch and was granted more privilege, respect and power. As blood relatives to the Son of Heaven, feudal lords were obliged to protect him and rule their given lands on his behalf. The Zhou ruling class created a society that used lineage as the basis to determine the distribution of wealth and power. This set of societal rules was known as the “System of Lineages” (<i>zong fa zhi du</i> 宗法制度).
@@ -92,23 +96,27 @@ A 1949 drawing plan shows the Liugui Hall built in Quanzhou, China — where the
 
 <div style="background-color: white;">
 <br/>
+<img src="/images/vol-9-issue-4/jiapu/liugui_hall_p1.jpg" style="width:70%;"></div>
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-9-issue-4/jiapu/liugui_hall_p2.jpg">
+Floorplans of the ancestral hall of the Liugui clan. Ancestral halls were the focal points for clans, where ancestral tablets were kept, and ancestral worship rites and other clan activities took place. <i>All rights reserved. Leok Kooi Tong genealogy, 1949, Hong Tiansong, Leok Kooi Tong, Quanzhou</i>. </div>
+
+<div style="background-color: white;">
+<br/>
 <img src="/images/vol-9-issue-4/jiapu/info.jpg"></div>
 
 #### **Lands Belonging to the Ancestral Hall (Ji Tian 祭田)**
 
-Funds were needed to upkeep the ancestral hall as well as pay for the expansion of the building, the performance of ancestral rites, clan events, distribution of money to needy members, and even updating of the <i>jiapu</i>. Different households would contribute funds to the ancestral hall, but it was common for richer clan members to donate land to the ancestral hall. These were rented out as sources of revenue that went to the management of the ancestral hall. information on these lands was often recorded in the <i>jiapu</i> as well.[^13]
+Funds were needed to upkeep the ancestral hall as well as pay for the expansion of the building, the performance of ancestral rites, clan events, distribution of money to needy members, and even updating of the <i>jiapu</i>. Different households would contribute funds to the ancestral hall, but it was common for richer clan members to donate land to the ancestral hall. These were rented out as sources of revenue that went to the management of the ancestral hall. Information on these lands was often recorded in the <i>jiapu</i> as well.[^13]
 
 #### **Biographies (Zhuan Ji 传记)**
 
 Biographical writings in <i>jiapu</i> appeared as early as the Han Dynasty. An example would be the “Records of the Grand Historian” (Shi ji《史记》) by Sima Qian in which a compilation of 12 royal genealogies appeared in the “Imperial Biographies”. Biographical writings continued to appear in <i>jiapu</i>, eventually forming its own chapter. As biographies detailed the lives of individuals, they were used to highlight illustrious ancestors, glorifying the clan indirectly.[^15]
 
-Similar to biographies were chapters of “Ancestor Portraits and Praises” (<i>zu xian xiang zan</i> 祖先像赞) and “Records of Meritorious deeds” (<i>en rong lu</i> 恩荣录). Important individuals such as first migrant ancestors, ancestors within the nine generations, ancestors who had illustrious careers, and ancestors who had performed virtuous or meritorious acts are included in these chapters.
+Similar to biographies were chapters of “Ancestor Portraits and Praises” (<i>zu xian xiang zan</i> 祖先像赞) and “Records of Meritorious Deeds” (<i>en rong lu</i> 恩荣录). Important individuals such as first migrant ancestors, ancestors within the nine generations, ancestors who had illustrious careers, and ancestors who had performed virtuous or meritorious acts are included in these chapters.
 
 Biographies typically only contain text, while “Ancestor Portraits and Praises” include pictures and poems that praise the importance of an individual. The biographies in the genealogy of the Xu (许) clan from the Shigui and Yaolin areas in Jinjiang, Fujian (福建晋江石龟瑶林) combine both the “Ancestor Portraits and Praises” and biographical writings into one chapter. It highlights the first migrant ancestor of the Shigui and Yaolin branch, Ai (Ai Gong, 爱公). The poem recounts that Ai, on orders from the imperial court, was assigned to develop the Quanzhou area during the Tang Dynasty. The biography states the year of his assignment (678 CE) and that he moved from Yaolin to Shigui in 710 CE after deciding that Yaolin was too small for the clan if its numbers grew. Ai was a general with an illustrious military career and had three sons. The ancestral temple honouring him and his sons was destroyed and rebuilt several times over the course of time. 
-
-<div style="background-color: white;">
-<br/>
-<img src="/images/vol-9-issue-4/jiapu/origin_of_bai.jpg" style="width:70%;"><i>A chapter in jiapu discussing the origins of the Bai surname. Here, the chapter explores the four possible origins of the Bai surname</i>. All rights reserved. <i>Genealogy of Peh Clan Pangtou Anxi Fujian China, 1989, Singapore Peh Clan Association, Singapore.</i></div>
 
 #### **Clan Rules (Jia Fa 家法)**
 
@@ -117,25 +125,17 @@ Besides documenting familial ties, <i>jiapu</i> were also instrumental in guidin
 The genealogy of the Huang (黄) clan from Pengzhou and Xialu village (蓬洲霞露) had 15 rules to abide by: to be filial, maintain harmony within the clan, maintain peace with neighbours; be humble and courteous; committed to work; to strive for knowledge; obey teachers; maintain ancestors’ graves; avoid having same names as elders; avoid court cases; avoid bad habits; obey superiors; avoid deviating from sagely teachings; avoid committing crimes; and to revise <i>jiapu</i> regularly. This was followed by a chapter on implementing the rules in daily activities.
 
 Such chapters were heavily influenced by Confucian teachings on respecting authority and elders, and emphasised that rituals were important activities that reinforced hierarchy and united clan members. These chapters also proved that <i>jiapu</i> were used as basic documents that recorded the “laws” of a clan.
-
-<div style="background-color: white;">
-<br/>
-<img src="/images/vol-9-issue-4/jiapu/liugui_hall_p1.jpg" style="width:70%;"></div>
-<div style="background-color: white;">
-<br/>
-<img src="/images/vol-9-issue-4/jiapu/liugui_hall_p2.jpg">
-<i>Floorplans of the ancestral hall of the Liugui clan. Ancestral halls were the focal points for clans, where ancestral tablets were kept, and ancestral worship rites and other clan activities took place</i>. All rights reserved. <i>Leok Kooi Tong genealogy</i>, 1949, Hong Tiansong, Leok Kooi Tong, Quanzhou. </div>
  
 #### **Conclusion**
 
-The <i>jiapu</i> chapters discussed here offer only a peek into the wealth of information found in traditional Chinese genealogical records. There are no fixed rules on how to write a genealogy, and many Chinese families have adapted aspects of <i>jiapu</i> that best suit the needs of their families. As a result, the <i>jiapu</i> is an ever-evolving document that captures the characteristics of society at a particular point in time, and also offers a glimpse into the historical continuity of Chinese family structure and beliefs. 
+The <i>jiapu</i> chapters discussed here offer only a peek into the wealth of information found in traditional Chinese genealogical records. There are no fixed rules on how to write a genealogy, and many Chinese families have adapted aspects of <i>jiapu</i> that best suit the needs of their families. As a result, <i>jiapu</i> is an ever-evolving document that captures the characteristics of society at a particular point in time, and also offers a glimpse into the historical continuity of Chinese family structure and beliefs. 
 
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;">
 <b>FIVE DEGREES OF MOURNING CLOTHES (WUFU 五服)</b>
 <br><br>
-<i>Wufu</i> was the set of rules that determined the mourning clothes and the mourning periods to be observed by different clan members within nine generations (<i>jiu zu</i> 九族). The nine generations were defined as the four generations before oneself (from father to great great-grandfather) and the four generations after oneself (from children to the great great-grandchildren). Mourning clothes were separated into five different types, and mourning periods ranged from three months to three years. In general, the closest kin to the deceased wore the coarsest fabric and observed the longest mourning period. These five degrees of mourning were separately known as <i>zhancui</i> (斩衰); <i>zicui</i> (齐衰); <i>dagong</i> (大功); <i>xiaogong</i> (小功); and <i>sima</i> (缌麻).[^10]
+<i>Wufu</i> was the set of rules that determined the mourning clothes and mourning periods to be observed by different clan members within nine generations (<i>jiu zu</i> 九族). The nine generations were defined as the four generations before oneself (from father to great great-grandfather) and the four generations after oneself (from children to the great great-grandchildren). Mourning clothes were separated into five different types, and mourning periods ranged from three months to three years. In general, the closest kin to the deceased wore the coarsest fabric and observed the longest mourning period. These five degrees of mourning were separately known as <i>zhancui</i> (斩衰); <i>zicui</i> (齐衰); <i>dagong</i> (大功); <i>xiaogong</i> (小功); and <i>sima</i> (缌麻).[^10]
 <br><br>
-<img src="/images/vol-9-issue-4/jiapu/wufu_chart.jpg"><i>A wufu chart was used to determine the mourning clothes and duration of mourning for a clan member</i>. All rights reserved. <i>Ningxiang Nantang Liu shi si xiu zupu</i> (Genealogy of Liu clan from Nantang Town in Ningxiang County), 2002, Chen Zhanqi, China National Microfilming Center for Library Resources, Beijing.</span>
+<img src="/images/vol-9-issue-4/jiapu/wufu_chart.jpg">A <i>wufu</i> chart was used to determine the mourning clothes and duration of mourning for a clan member. <i>All rights reserved. Ningxiang Nantang Liu shi si xiu zupu (Genealogy of Liu clan from Nantang Town in Ningxiang County), 2002, Chen Zhanqi, China National Microfilming Center for Library Resources, Beijing.</i></span>
 
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;">
 <b>MEMORIAL ARCHES (PAI FANG 牌坊)</b>
