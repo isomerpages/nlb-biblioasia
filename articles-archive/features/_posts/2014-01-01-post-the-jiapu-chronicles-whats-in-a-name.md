@@ -143,7 +143,8 @@ The <i>jiapu</i> chapters discussed here offer only a peek into the wealth of in
 In general, there were two main types of memorial arches: the Meritorious Deeds Memorial Arch (<i>gong de pai fang</i> 功德牌坊) and the Virtuous Memorial Arch (<i>dao de pai fang</i> 道德牌坊). These arches glorified the clan and reminded descendents of desired virtues and conduct through the stories inscribed on the arches. Memorial arches were sometimes located near the ancestral hall and considered part of the compound.
 <br><br>
 In traditional Chinese society, women were usually not mentioned in <i>jiapu</i>, unless they had given birth to sons, in which case, their surnames would be recorded. However, if a widow did not re-marry after the death of her husband, her virtue would earn her a chastity memorial arch. These women were also granted a chapter in the biographical section of the <i>jiapu</i>, which was considered to be a great honour.[^14]</span>
-
+<br/>
+<img style="width:100px;height:100px;margin-bottom:-30px; border-radius:100%; box-shadow: 1px 2px 0px #424242;" src="/images/vol-9-issue-4/jiapu/Lee_Meiyu.jpg">
 <p style="font-size:15px;"><b>Lee Meiyu</b> is a librarian at the Lee Kong Chian Reference Library at the National Library Board. The subject of genealogy is close to her heart and she has worked on resource publications that complement NLB’s exhibitions such as <i>Money by Mail to China: Dreams and Struggles of Early Migrants (2012)</i> and <i>ROOTS: Tracing Family Histories — A Resource Guide (2013).</i></p>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-9/issue-4/jan-mar-2014/"><center>Back to Issue</center></a>
