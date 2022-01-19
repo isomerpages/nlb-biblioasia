@@ -14,7 +14,7 @@ layout: post
 
 [<b>The Unlikely Composer: Tsao Chieh</b>](/vol-9/issue-4/jan-march-2014/tsao-chieh)<br>Despite his untimely death at the age of 43, Singaporean composer Tsao Chieh’s legacy lives on — immortalised through his small but significant body of experimental works. <i>Jun Zubillaga-Pow</i> traces the life of this underrated artist.[(PDF)](/files/pdf/vol-9/issue-4/v9-issue4_TsaoChieh.pdf)
 
-[<b>Kampong Living: A–Z</b>](/vol-9/issue-4/jan-march-2014/kampong-living)<br>[(PDF)](/files/pdf/vol-9/issue-4/v9-issue4_KampongLiving.pdf)
+[<b>Kampong Living: A–Z</b>](/vol-9/issue-4/jan-march-2014/kampung-living)<br>[(PDF)](/files/pdf/vol-9/issue-4/v9-issue4_KampongLiving.pdf)
 
 [<b>Time-Forgotten Trades</b>](/vol-9/issue-4/jan-march-2014/forgotten-trades)<br>Unable to keep pace with Singapore’s economic progress and development, many of Singapore’s early crafts and trades have disappeared. <i>Sharon Teng</i> tells us about these trades and what is being done to remember them.[(PDF)](/files/pdf/vol-9/issue-4/v9-issue4_ForgottenTrades.pdf)
 
@@ -22,7 +22,7 @@ layout: post
 
 [<b>From Here to Eternity: Archiving and Immortality</b>](/vol-9/issue-4/jan-march-2014/archivingimmortality)<br>Man is immortal; therefore he must die endlessly. For life is creating idea; it can only find itself in charging forms[(PDF)](/files/pdf/vol-9/issue-4/v9-issue4_Eternity.pdf)
 
-[<b> A Colonial Heritage:  Collections of the  Anglican Diocese of Singapore</b>](/vol-9/issue-4/jan-march-2014/colonial-heritage)<br>[(PDF)](/files/pdf/vol-9/issue-4/v9-issue4_ColonialHeritage.pdf)
+[<b> A Colonial Heritage:  Collections of the  Anglican Diocese of Singapore</b>](/vol-9/issue-4/jan-march-2014/sg-anglican-archives)<br>[(PDF)](/files/pdf/vol-9/issue-4/v9-issue4_ColonialHeritage.pdf)
 
 [<b>Old Singapore: Places in Pictures and Oral History</b>](/vol-9/issue-4/jan-march-2014/old-sg)<br>[(PDF)](/files/pdf/vol-9/issue-4/v9-issue4_OldSingapore.pdf)
 
