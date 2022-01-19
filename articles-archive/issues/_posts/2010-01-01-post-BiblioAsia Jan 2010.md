@@ -27,7 +27,7 @@ description: ""
 [(PDF)](/files/pdf/vol-5/issue-4/v5-issue4_Itinerario.pdf)
 
 **The Jamshed & Parvati Fozdar Collection** <br>
-[(PDF)](/files/pdf/vol-5/issue-4/v5-issue4_JamshedParvatiFozdar.pdf)
+[(PDF)](/files/pdf/vol-5/issue-4/v5-isssue4_JamshedParvatiFozdar.pdf)
 
 **李金龙捐赠文献介绍** <br>
 [(PDF)](/files/pdf/vol-5/issue-4/v5-issue4_LeeKimLong.pdf)
