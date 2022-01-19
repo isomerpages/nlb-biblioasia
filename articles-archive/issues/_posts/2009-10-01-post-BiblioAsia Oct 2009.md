@@ -39,7 +39,7 @@ description: ""
 **Paper Boat: A Convincing Tale** <br>
 [(PDF)](/files/pdf/vol-5/issue-3/v5-issue3_PaperBoat.pdf)
 
-**National Library Singapore Celebrates Customer Appreciation Day** <br.
+**National Library Singapore Celebrates Customer Appreciation Day** <br>
 [(PDF)](/files/pdf/vol-5/issue-3/v5-issue3_CustomerAppreciation.pdf)
 
 **Lee Kong Chian Research Fellow: Dr Mahani Binti Awang Avid Believer of Peace and Justice** <br>
