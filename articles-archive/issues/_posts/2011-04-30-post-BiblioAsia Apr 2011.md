@@ -5,7 +5,8 @@ date: 2011-04-30
 layout: post
 description: ""
 ---
-<img style="width: 350px; height: 450px;" src="/images/vol-7-issue-1/Apr%202011.JPG">
+![Alt text for image on Isomer site](/images/covers/ba7-1.jpg)
+
 
 **Director’s Column**
 
