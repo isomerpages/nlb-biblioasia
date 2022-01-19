@@ -18,12 +18,12 @@ layout: post
 
 [<b>Time-Forgotten Trades</b>](/vol-9/issue-4/jan-march-2014/forgotten-trades)<br>Unable to keep pace with Singapore’s economic progress and development, many of Singapore’s early crafts and trades have disappeared. <i>Sharon Teng</i> tells us about these trades and what is being done to remember them.[(PDF)](/files/pdf/vol-9/issue-4/v9-issue4_ForgottenTrades.pdf)
 
-[<b>The Jiapu Chronicles: What’s in a Name?</b>](/vol-9/issue-4/jan-march-2014/jiapu)<br>Records of family lineage were important in traditional Chinese society. <i>Lee Meiyu</i> charts the history of these documents, or jiapu, which track not only family roots but also the social norms and cultural values of China at the time.[(PDF)](/files/pdf/vol-9/issue-4/v9-issue4_JiapuChronicles.pdf)
+[<b>The Jiapu Chronicles: What’s in a Name?</b>](/vol-9/issue-4/jan-march-2014/jiapu)<br>Records of family lineage were important in traditional Chinese society. <i>Lee Meiyu</i> charts the history of these documents, or <i>jiapu</i>, which track not only family roots but also the social norms and cultural values of China at the time.[(PDF)](/files/pdf/vol-9/issue-4/v9-issue4_JiapuChronicles.pdf)
 
-[<b>From Here to Eternity: Archiving and Immortality</b>](/vol-9/issue-4/jan-march-2014/archivingimmortality)<br>Man is immortal; therefore he must die endlessly. For life is creating idea; it can only find itself in charging forms[(PDF)](/files/pdf/vol-9/issue-4/v9-issue4_Eternity.pdf)
+[<b>From Here to Eternity: Archiving and Immortality</b>](/vol-9/issue-4/jan-march-2014/archivingimmortality)<br><i>Kevin Khoo</i> considers the link between memory, immortality and archiving, and what this means for the National Archives of Singapore.[(PDF)](/files/pdf/vol-9/issue-4/v9-issue4_Eternity.pdf)
 
-[<b> A Colonial Heritage:  Collections of the  Anglican Diocese of Singapore</b>](/vol-9/issue-4/jan-march-2014/sg-anglican-archives)<br>[(PDF)](/files/pdf/vol-9/issue-4/v9-issue4_ColonialHeritage.pdf)
+[<b> A Colonial Heritage:  Collections of the  Anglican Diocese of Singapore</b>](/vol-9/issue-4/jan-march-2014/sg-anglican-archives)<br><i>Bonny Tan</i> explores the rich collections of the Anglican Diocese of Singapore, which holds materials such as birth and death records, publications and other documents.[(PDF)](/files/pdf/vol-9/issue-4/v9-issue4_ColonialHeritage.pdf)
 
-[<b>Old Singapore: Places in Pictures and Oral History</b>](/vol-9/issue-4/jan-march-2014/old-sg)<br>[(PDF)](/files/pdf/vol-9/issue-4/v9-issue4_OldSingapore.pdf)
+[<b>Old Singapore: Places in Pictures and Oral History</b>](/vol-9/issue-4/jan-march-2014/old-sg)<br>Grand Hotel de l’Europe, National Theatre and National Stadium are just some of the places in Singapore that have might have been forgotten if not for the National Archives of Singapore. Rediscover these buildings of old with Oral History Specialist <i>Lu Wenshi</i>.[(PDF)](/files/pdf/vol-9/issue-4/v9-issue4_OldSingapore.pdf)
 
-[<b>Poet And Reformist</b>](/vol-9/issue-4/jan-march-2014/khoo-seok-wan-kang-you-wei)<br>[(PDF)](/files/pdf/vol-9/issue-4/v9-issue4_Chinese.pdf)
+[<b>Poet And Reformist</b>](/vol-9/issue-4/jan-march-2014/khoo-seok-wan-kang-you-wei)<br>Based on letters exchanged by Khoo Seok Wan and Kang You Wei, <i>Professor Zhang Renfeng</i> debunks myths about their friendship and provides insight into historical events during the late Qing Dynasty.[(PDF)](/files/pdf/vol-9/issue-4/v9-issue4_Chinese.pdf)
