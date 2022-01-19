@@ -102,10 +102,6 @@ A 1949 drawing plan shows the Liugui Hall built in Quanzhou, China — where the
 <img src="/images/vol-9-issue-4/jiapu/liugui_hall_p2.jpg">
 Floorplans of the ancestral hall of the Liugui clan. Ancestral halls were the focal points for clans, where ancestral tablets were kept, and ancestral worship rites and other clan activities took place. <i>All rights reserved. Leok Kooi Tong genealogy, 1949, Hong Tiansong, Leok Kooi Tong, Quanzhou</i>. </div>
 
-<div style="background-color: white;">
-<br/>
-<img src="/images/vol-9-issue-4/jiapu/info.jpg"></div>
-
 #### **Lands Belonging to the Ancestral Hall (Ji Tian 祭田)**
 
 Funds were needed to upkeep the ancestral hall as well as pay for the expansion of the building, the performance of ancestral rites, clan events, distribution of money to needy members, and even updating of the <i>jiapu</i>. Different households would contribute funds to the ancestral hall, but it was common for richer clan members to donate land to the ancestral hall. These were rented out as sources of revenue that went to the management of the ancestral hall. Information on these lands was often recorded in the <i>jiapu</i> as well.[^13]
