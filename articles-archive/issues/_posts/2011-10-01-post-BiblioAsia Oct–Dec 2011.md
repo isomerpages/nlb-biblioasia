@@ -22,8 +22,3 @@ description: ""
 **Newspaper SG: From Press to Screen**<br>
 
 **Gotong Royong in the Kampung Life**<br>
-
-
-
-
-
