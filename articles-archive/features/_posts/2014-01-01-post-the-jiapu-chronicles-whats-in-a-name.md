@@ -153,9 +153,9 @@ In traditional Chinese society, women were usually not mentioned in <i>jiapu</i>
 
 Bose, J.K., & Palmer, S.J. (Eds.). (1972). *[Studies in Asian genealogy](https://eservice.nlb.gov.sg/item_holding.aspx?bid=55949)*. Provo, Utah: Brigham Young University Press. (Call no.: RSEA 929.1095 WOR)
 
-程维荣 [Chen, W.]. (2008). [中国近代宗族制度](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13104407) *[The lineage organisations in Contemporary China]*. Shanghai: Xuelin. (Call no.: Chinese R 306.830951 CWR)
+程维荣 [Chen, W.]. (2008). [中国近代宗族制度](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13104407) [The lineage organisations in Contemporary China]. Shanghai: Xuelin. (Call no.: Chinese R 306.830951 CWR)
 
-陈湛绮 [Chen, Z.]. (2002). [宁乡南塘刘氏四修族谱](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11926437) *[Genealogy of Liu clan from Nantang Town in Ningxiang County]*. Beijing: China National Microfilming Center for Library Resouces. (Call no.: Chinese R q929.20951 NXN)
+陈湛绮 [Chen, Z.]. (2002). [宁乡南塘刘氏四修族谱](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11926437) [Genealogy of Liu clan from Nantang Town in Ningxiang County]. Beijing: China National Microfilming Center for Library Resouces. (Call no.: Chinese R q929.20951 NXN)
 
 Hong, T. (1949). *[Leok Kooi Tong genealogy](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14716443)*. Quanzhou: Leok Kooi Tong. (Call no.: RCO 929.20951 LEO)
 
