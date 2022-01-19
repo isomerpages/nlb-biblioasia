@@ -23,7 +23,7 @@ description: ""
 
 **Newspaper SG: From Press to Screen**<br>[(PDF)](/files/pdf/vol-7/issue-3/v7-issue3_NewspaperSg.pdf)
 
-**iRememberSG:Gotong Royong in the Kampung Life**<br>[Example Filename](/files/pdf/vol-7/issue-3/v7-issue3_IRememberSg.pdf)
+**iRememberSG: Gotong Royong in the Kampung Life**<br>[Example Filename](/files/pdf/vol-7/issue-3/v7-issue3_IRememberSg.pdf)
 
 **More Than Just a Flower: The Orchid's Manifold Faces**<br>[(PDF](/files/pdf/vol-7/issue-3/v7-issue3_OrchidManifold.pdf)
 
