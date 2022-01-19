@@ -23,7 +23,7 @@ description: ""
 **The SGX Collection: Business Heritage Collection — Bridging the Legal Deposit Gap** <br>
 [(PDF)](/files/pdf/vol-5/issue-4/v5-issue4_SGXCollection.pdf)
 
-**The Itinerario: The Key to the East** br>
+**The Itinerario: The Key to the East** <br>
 [(PDF)](/files/pdf/vol-5/issue-4/v5-issue4_Itinerario.pdf)
 
 **The Jamshed & Parvati Fozdar Collection** <br>
