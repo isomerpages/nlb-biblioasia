@@ -83,7 +83,7 @@ Note: When accessing older issues, you may be directed to an archived version.
 
 |                                                              |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![BiblioAsia 7-1 cover](/images/covers/ba7-1.jpg)[Apr 2011](/files/pdf/BiblioAsia Apr 2011.pdf) | ![BiblioAsia 7-2 cover](/images/covers/ba7-2.jpg) [Jul 2011](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx){:target="_blank"} |
+| ![BiblioAsia 7-1 cover](/images/covers/ba7-1.jpg)[Apr 2011](/vol-7/issue-1/apr-2011/)<br>[Apr 2011](/files/pdf/BiblioAsia Apr 2011.pdf) | ![BiblioAsia 7-2 cover](/images/covers/ba7-2.jpg) [Jul 2011](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx){:target="_blank"} |
 | ![BiblioAsia 7-3 cover](/images/covers/ba7-3.jpg) [Oct–Dec 2011](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx){:target="_blank"} | ![BiblioAsia 7-4 cover](/images/covers/ba7-4.jpg)[Mar 2012](/files/pdf/BiblioAsia March 2012.pdf) |
 
 ####  Volume 6
