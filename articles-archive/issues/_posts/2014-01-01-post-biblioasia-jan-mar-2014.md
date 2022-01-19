@@ -14,7 +14,7 @@ layout: post
 
 [<b>The Unlikely Composer: Tsao Chieh</b>](/vol-9/issue-4/jan-march-2014/tsao-chieh)<br>Despite his untimely death at the age of 43, Singaporean composer Tsao Chieh’s legacy lives on — immortalised through his small but significant body of experimental works. <i>Jun Zubillaga-Pow</i> traces the life of this underrated artist.[(PDF)](/files/pdf/vol-9/issue-4/v9-issue4_TsaoChieh.pdf)
 
-[<b>Kampong Living: A–Z</b>](/vol-9/issue-4/jan-march-2014/kampung-living)<br>[(PDF)](/files/pdf/vol-9/issue-4/v9-issue4_KampongLiving.pdf)
+[<b>Kampung Living: A–Z</b>](/vol-9/issue-4/jan-march-2014/kampung-living)<br>It’s hard to believe that Singapore was once a sleepy village outpost. <i>Nor Afidah Abd Rahman</i> relives those nostalgic <i>kampung</i> days with this laundry list of life as it once was.[(PDF)](/files/pdf/vol-9/issue-4/v9-issue4_KampongLiving.pdf)
 
 [<b>Time-Forgotten Trades</b>](/vol-9/issue-4/jan-march-2014/forgotten-trades)<br>Unable to keep pace with Singapore’s economic progress and development, many of Singapore’s early crafts and trades have disappeared. <i>Sharon Teng</i> tells us about these trades and what is being done to remember them.[(PDF)](/files/pdf/vol-9/issue-4/v9-issue4_ForgottenTrades.pdf)
 
