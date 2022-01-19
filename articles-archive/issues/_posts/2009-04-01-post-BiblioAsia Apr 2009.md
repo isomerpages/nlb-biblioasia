@@ -21,7 +21,7 @@ description: ""
 **Social Innovation in Singapore: Two Case Studies of Non-Governmental Organisations** <br>
 [(PDF)](/files/pdf/vol-5/issue-1/v5-issue1_SocialInnovation.pdf)
 
-** Building the Mosaic: In Search of Southeast Asian Contemporary Art Writing and Publications** <br>
+**Building the Mosaic: In Search of Southeast Asian Contemporary Art Writing and Publications** <br>
 [(PDF)](/files/pdf/vol-5/issue-1/v5-issue1_BuildingMosaic.pdf)
 
 **Knowledge Economy: Linchpin of Asean Integration** <br>
