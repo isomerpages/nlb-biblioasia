@@ -1,10 +1,12 @@
 ---
 title: Poet & Reformist
 date: 2014-01-01
-permalink: /vol-9/issue-4/jan-march-2014/par
+permalink: /vol-9/issue-4/jan-march-2014/khoo-seok-wan-kang-you-wei
 image: /images/vol-9-issue-4/ch/NLB_KSW_Working.jpg
 layout: post
+description: ""
 ---
+
 #### 张人凤1940年生曾长期从事继续教育工作现为上海市文史研究馆馆员著有《张元济年谱长编》、《智民之师张元济》、《张元济研究文集》，编有十卷本《张元济全集》
 
 

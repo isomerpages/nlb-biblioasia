@@ -4,7 +4,7 @@ date: 2014-01-01
 permalink: /vol-9/issue-4/jan-march-2014/director-note
 layout: post
 ---
-HOW DOES ONE ACHIEVE IMMORTALITY IN A CROWDED SPACE? 
+How does one achieve immortality in a crowded space?
 
 Some people may be content with their scant 15 minutes of fame, the fleeting media publicity that celebrated pop artist Andy Warhol famously referred to in 1968. 
 
@@ -12,11 +12,11 @@ The reality is quite different: humans seek a more enduring form of immortality,
 
 In this issue of <i>BiblioAsia</i>, I hope time will stand still long enough for us to provide context and specificity to the memories that are fast fading — as well as the ones we thought we’d understood for the longest time.
 
-In the light of recent aspirations to achieve in our urban space the <i>kampong</i> spirit and the easy associations of neighbourliness and community, [Nor Afidah](/vol-9/issue-4/jan-march-2014/kampong-living) recaptures in “Kampong Living: A – Z”, the details of life in the village — how once the breaking of dawn and the end of daylight were significant events in daily life.
+In the light of recent aspirations to achieve in our urban space the <i>kampung</i> spirit and the easy associations of neighbourliness and community, [Nor Afidah](/vol-9/issue-4/jan-march-2014/kampung-living) recaptures in “Kampung Living: A – Z”, the details of life in the village — how once the breaking of dawn and the end of daylight were significant events in daily life.
 
 In a similar vein, [Sharon Teng](/vol-9/issue-4/jan-march-2014/forgotten-trades) documents the vanishing trades of Singapore in “Time-Forgotten Trades” and explores new ways to “immortalise” the old ways, including digital recreations of these vanishing (or rather vanquished) trades and, in the case of Chye Seng Huat Hardware, keeping the original facade of a shophouse and reinventing it as a hip coffee bar. 
 
-The social norms and cultural values of generations past encapsulated in clans and kinsfolk are explored in [Lee Meiyu](/vol-9/issue-4/jan-march-2014/jiapu)’s article — “The Jiapu Chronicles: What’s in a Name?” — which traces family lineage using the means of <i>jiapu</i>, or Chinese genealogical records. Curator [Tan Huism](/vol-9/issue-4/jan-march-2014/tale-of-many-hands) with gifted photographer Sean Lee show how the tracing of lineage can also be performed through the lines and contours of one’s hands in their photographic showcase from the Singapore Memory project’s “Hands: Gift of a Generation” exhibition. I am especially taken with the story of Huism’s grandmother’s hands as they experienced different life stages, and how those hands are now indelibly reflected in Huism’s own. 
+The social norms and cultural values of generations past encapsulated in clans and kinsfolk are explored in [Lee Meiyu](/vol-9/issue-4/jan-march-2014/jiapu)’s article — “The Jiapu Chronicles: What’s in a Name?” — which traces family lineage using the means of <i>jiapu</i>, or Chinese genealogical records. Curator [Tan Huism](/vol-9/issue-4/jan-march-2014/tale-of-many-hands) with gifted photographer Sean Lee show how the tracing of lineage can also be performed through the lines and contours of one’s hands in their photographic showcase from the Singapore Memory Project’s “Hands: Gift of a Generation” exhibition. I am especially taken with the story of Huism’s grandmother’s hands as they experienced different life stages, and how those hands are now indelibly reflected in Huism’s own. 
 
 The capturing of an older Singapore is a growing fixation for Singaporeans and in [Jun Zubillaga-pow](/vol-9/issue-4/jan-march-2014/tsao-chieh)’s article on the life of the late Singaporean composer, Tsao Chieh, read how the latter attempted a composition based on Turnbull’s <i>A History of Singapore</i>; the dramatic work charts Singapore’s progress, with each section of Tsao’s work evoking a distinctive period of our nation. 
 
