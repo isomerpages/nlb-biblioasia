@@ -132,26 +132,27 @@ The <i>jiapu</i> chapters discussed here offer only a peek into the wealth of in
 
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;">
 	<b>In traditional Chinese society, <i>jiapu</i> could comprise the following 18 types of information</b>[^2] 
-<br><br>
-* Ancestor portraits and praises<br>
-* Content page<br>
-* List of editorial members<br>
-* Introduction<br>
-* Writing style guide<br>
-* Records of meritorious deeds<br>
-* Genealogy studies and its history<br>
-* Origin of surname<br>
-* Generation chart<br>
-* Biographies<br>
-* Clan rules<br>
-* Clan practices<br>
-* Ancestral hall<br>
-* Ancestral graves<br>
-* Clan properties<br>
-* Documents pertaining to properties<br>
-* Literary works<br>
-* List of members who had a copy of the genealogy<br>
 <br>
+	<ul>
+		<li style="font-size:1rem;">Ancestor portraits and praises</li>
+		<li style="font-size:1rem;">Content page</li>
+		<li style="font-size:1rem;">List of editorial members</li>
+		<li style="font-size:1rem;">Introduction</li>
+		<li style="font-size:1rem;">Writing style guide</li>
+		<li style="font-size:1rem;">Records of meritorious deeds</li>
+		<li style="font-size:1rem;">Genealogy studies and its history</li>
+		<li style="font-size:1rem;">Origin of surname</li>
+		<li style="font-size:1rem;">Generation chart</li>
+		<li style="font-size:1rem;">Biographies</li>
+		<li style="font-size:1rem;">Clan rules</li>
+		<li style="font-size:1rem;">Clan practices</li>
+		<li style="font-size:1rem;">Ancestral hall</li>
+		<li style="font-size:1rem;">Ancestral graves</li>
+		<li style="font-size:1rem;">Clan properties</li>
+		<li style="font-size:1rem;">Documents pertaining to properties</li>
+		<li style="font-size:1rem;">Literary works</li>
+		<li style="font-size:1rem;">List of members who had a copy of the genealogy</li>
+	</ul>
 Some of the information listed, also known as chapters as they appeared in the <i>jiapu</i>, are still being recorded today. This is especially true for modern publications that are merely updated editions of older <i>jiapu</i></span>
 
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;">
