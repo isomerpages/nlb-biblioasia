@@ -201,6 +201,8 @@ Vanishing trades have been featured in commemorative memorabilia such as the 197
 
 While the demise of these trades is inevitable due to economic progress and advancements in technology, continual efforts are being made at the individual, community and national levels to capture, document and preserve the memory of our early trades and the people who toiled at their crafts. We can take comfort that Singapore’s pioneer tradesmen and craftsmen will not likely disappear from society’s consciousness but continue to live on in our communal memories and national chronicles. 
 
+<br/>
+<img style="width:100px;height:100px;margin-bottom:-30px; border-radius:100%; box-shadow: 1px 2px 0px #424242;" src="/images/vol-9-issue-4/forgottentrades/Sharon_Teng.jpg">
 <p style="font-size:15px;"><b>Sharon Teng</b> is a Librarian with the National Library Board. She has contributed articles to <i>BiblioAsia</i> as well as Infopedia, NLB's online encyclopedia of Singapore. Her interest areas include the use of technology and social media in libraries.</p>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-9/issue-4/jan-mar-2014/"><center>Back to Issue</center></a>
@@ -283,9 +285,9 @@ Teo, J. (2013). <i>Vanishing trades/Scenes in Singapore</i>. Retrieved from [Jen
 
 Toh, K. (2011, September 11). [Keeping alive a vanishing trade](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20110911-1.2.11.15). <i>The Straits Times</i>, pp. 16–17. Retrieved from NewspaperSG.
 
-<u>Vanishing Trades</u>. (1999). Retrieved from ThinkQuest Library website. 
+<i>Vanishing Trades</i>. (1999). Retrieved from ThinkQuest Library website. 
 
-[Vanishing trades: How do they fare?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19830305-1.2.34.2) (1983, March 5). Singapore Monitor, p. 21. Retrieved from NewspaperSG.
+[Vanishing trades: How do they fare?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19830305-1.2.34.2) (1983, March 5). <i>Singapore Monitor</i>, p. 21. Retrieved from NewspaperSG.
 
 [Vanishing trades MRT cards](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19970629-1.2.40.7.3). (1997, June 29). <i>The Straits Times</i>, p. 28. Retrieved from NewspaperSG.
 
@@ -327,7 +329,7 @@ Toh, K. (2011, September 11). [Keeping alive a vanishing trade](http://eresource
 
 [^17]: Ghetto Singapore. (2013). <i>Vanishing trades of Singapore</i>. Retrieved from ghettosingapore website; Lim, J. (2013, March 15). <i>Trading stories with six tradesmen</i>. Retrieved from The Long and Winding Road website; <i>The vanishing trade: Trishaws in Singapore</i>. (2010, May 17). Retrieved from sgtrishaws.wordpress.com website; Teo, J. (2013). <i>Vanishing trades/scenes in Singapore</i>. Retrieved from pinterest.com wesbite; <i>Vanishing Trades</i>. (1999). Retrieved from ThinkQuest Library website. 
 
-[^18]: Ng, S., & Yeo, J. (2012). <i>Lost arts of The Republic of Singapore</i>. Retrieved from flickr.com website. 
+[^18]: Ng, S., & Yeo, J. (2012). <i>Lost Arts of the Republic of Singapore</i>. Retrieved from flickr.com website. 
 
 [^19]: Nathan, D. (1990, March 12). [Indian heritage to go on show at Indian village in two weeks](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900312-1.2.30.8). <i>The Straits Times</i>, p. 19; Lim, P., & Lim, S.T. (1982, June 6). [Glimpses into trades and tidbits of bygone days](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820606-1.2.21). <i>The Straits Times</i>, p. 7; [Craftsman behind another vanishing trade….](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19771119-1.2.27) (1977, November 19). <i>The Straits Times</i>, p. 7; Sim, G. (2004, April 12). [Chinatown nightlife to return](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20040412-1.2.24.3). <i>The Straits Times</i>, p. 1. Retrieved from NewspaperSG.
 
