@@ -26,4 +26,4 @@ layout: post
 
 [<b>Old Singapore: Places in Pictures and Oral History</b>](/vol-9/issue-4/jan-march-2014/old-sg)<br>[(PDF)](/files/pdf/vol-9/issue-4/v9-issue4_OldSingapore.pdf)
 
-[<b>Poet And Reformist</b>](/vol-9/issue-4/jan-march-2014/par)<br>[(PDF)](/files/pdf/vol-9/issue-4/v9-issue4_Chinese.pdf)
+[<b>Poet And Reformist</b>](/vol-9/issue-4/jan-march-2014/khoo-seok-wan-kang-you-wei)<br>[(PDF)](/files/pdf/vol-9/issue-4/v9-issue4_Chinese.pdf)
