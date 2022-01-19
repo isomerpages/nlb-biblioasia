@@ -130,9 +130,10 @@ Such chapters were heavily influenced by Confucian teachings on respecting autho
 
 The <i>jiapu</i> chapters discussed here offer only a peek into the wealth of information found in traditional Chinese genealogical records. There are no fixed rules on how to write a genealogy, and many Chinese families have adapted aspects of <i>jiapu</i> that best suit the needs of their families. As a result, <i>jiapu</i> is an ever-evolving document that captures the characteristics of society at a particular point in time, and also offers a glimpse into the historical continuity of Chinese family structure and beliefs. 
 
-<div style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;">
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px 20px 0 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;">
 	<b>In traditional Chinese society, <i>jiapu</i> could comprise the following 18 types of information</b>[^2] 
-<div>
+</span>
+<div style="background-colour: #fff6ba; padding: 20px; margin: 0 20px 20px 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;">
 	<ul>
 		<li style="font-size:1rem;">Ancestor portraits and praises</li>
 		<li style="font-size:1rem;">Content page</li>
@@ -153,7 +154,6 @@ The <i>jiapu</i> chapters discussed here offer only a peek into the wealth of in
 		<li style="font-size:1rem;">Literary works</li>
 		<li style="font-size:1rem;">List of members who had a copy of the genealogy</li>
 	</ul>
-</div>
 Some of the information listed, also known as chapters as they appeared in the <i>jiapu</i>, are still being recorded today. This is especially true for modern publications that are merely updated editions of older <i>jiapu</i></div>
 
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;">
