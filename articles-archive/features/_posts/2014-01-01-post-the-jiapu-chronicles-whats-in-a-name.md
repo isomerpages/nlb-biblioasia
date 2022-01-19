@@ -140,6 +140,17 @@ The <i>jiapu</i> chapters discussed here offer only a peek into the wealth of in
 > Writing style guide<br>
 > Records of meritorious deeds<br>
 > Genealogy studies and its history<br>
+> Origin of surname<br>
+> Generation chart<br>
+> Biographies<br>
+> Clan rules<br>
+> Clan practices<br>
+> Ancestral hall<br>
+> Ancestral graves<br>
+> Clan properties<br>
+> Documents pertaining to properties<br>
+> Literary works<br>
+> List of members who had a copy of the genealogy<br>
 <br>
 Some of the information listed, also known as chapters as they appeared in the <i>jiapu</i>, are still being recorded today. This is especially true for modern publications that are merely updated editions of older <i>jiapu</i></span>
 
