@@ -7,7 +7,6 @@ description: ""
 ---
 ![Alt text for image on Isomer site](/images/covers/ba7-1.jpg)
 
-
 **Director’s Column**
 
 **Drying Fish In Singapore Art: Making Sense of The Nanyang Style** <br>[(PDF)](/files/pdf/vol-7/issue-1/v7-issue1_DryingFish.pdf)
