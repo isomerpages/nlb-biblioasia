@@ -132,7 +132,8 @@ The <i>jiapu</i> chapters discussed here offer only a peek into the wealth of in
 
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;">
 	<b>In traditional Chinese society, <i>jiapu</i> could comprise the following 18 types of information</b>[^2] 
-<ul>
+<div>
+	<ul>
 		<li style="font-size:1rem;">Ancestor portraits and praises</li>
 		<li style="font-size:1rem;">Content page</li>
 		<li style="font-size:1rem;">List of editorial members</li>
@@ -152,6 +153,7 @@ The <i>jiapu</i> chapters discussed here offer only a peek into the wealth of in
 		<li style="font-size:1rem;">Literary works</li>
 		<li style="font-size:1rem;">List of members who had a copy of the genealogy</li>
 	</ul>
+</div>
 Some of the information listed, also known as chapters as they appeared in the <i>jiapu</i>, are still being recorded today. This is especially true for modern publications that are merely updated editions of older <i>jiapu</i></span>
 
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;">
