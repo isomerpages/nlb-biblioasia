@@ -15,7 +15,7 @@ description: ""
 
 **Negotiating the Cultural and the Religious: The Recasting of the Chinese Indonesian Buddhist**<br>[(PDF)](/files/pdf/vol-7/issue-3/v7-issue3_CulturalReligious.pdf)
 
-**Malayan Cookery Books: The "*Mems*" Own Cookery Book (1929)**<br>
+**Malayan Cookery Books: The "*Mems*" Own Cookery Book (1929)**<br> [(PDF)](/files/pdf/vol-7/issue-3/v7-issue3_Malayan-Cookery.pdf)
 
 **Chinese Article**<br>[(PDF)](/files/pdf/vol-7/issue-3/v7-issue3_Chinese.pdf)
 
