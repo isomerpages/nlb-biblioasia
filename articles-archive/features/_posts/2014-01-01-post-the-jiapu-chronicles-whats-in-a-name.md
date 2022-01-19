@@ -14,7 +14,7 @@ layout: post
 
 In ancient Chinese society, <i>jiapu</i> (家谱) or Chinese genealogy records, were created for the express reason of documenting the ancestry of each family. Before the Song Dynasty (960–1279 CE), lineage determined a person’s social class in China, and <i>jiapu</i> were used as official documents by the imperial court to prove the identity of a member of the ruling class and justify his position. This objective, however, evolved during the Song Dynasty when <i>jiapu</i> became a social tool to unify families by kinship instead. This shift took the practice of recording <i>jiapu</i> beyond the realm of the courts to the non-ruling classes, leading to a peak in genealogy studies and documentation.[^1]
 
-As genealogical studies flourished and matured in China, guidelines on how, what and when a <i>jiapu</i> could be written were formulated. These guidelines were flexible and evolved with the times. As the <i>jiapu</i> was a lineage blueprint that served as a basis for families to function, its presentation and content reflected the characteristics and beliefs of society at a particular point in time. As society evolved, so did the function of the <i>jiapu</i>, and consequently, its content. 
+As genealogical studies flourished and matured in China, guidelines on how, what and when <i>jiapu</i> could be written were formulated. These guidelines were flexible and evolved with the times. As <i>jiapu</i> was a lineage blueprint that served as a basis for families to function, its presentation and content reflected the characteristics and beliefs of society at a particular point in time. As society evolved, so did the function of <i>jiapu</i>, and consequently, its content. 
 
 #### **Invented Traditions and Nationalism**
 
@@ -22,7 +22,7 @@ Although the history of <i>jiapu</i> documentation in Singapore can be traced to
 
 This new form of <i>jiapu</i> is written in English and commonly records only three to five generations due to the short history of the migrant family, and includes names of female members, which is a departure from the traditional norm. Their contents are simpler, often comprising generation charts, oral history documentations and photographs. In fact, it might be more appropriate to describe these as family history records as opposed to traditional <i>jiapu</i>. The changing content of the new <i>jiapu</i> reflects the environment in which Singapore Chinese found themselves. For example, it is uncommon for clan rules to be detailed in <i>jiapu</i> in the context of a society with a fully developed legal system, as the legal framework would supercede the clan rules. These texts reflect a change in the purpose of recording <i>jiapu</i>; today, the documentation is more for creating a sense of self-identity than a social tool to regulate the functions of a clan. 
 
-In this essay, the rich history tracing the development of different chapters in a traditional Chinese <i>jiapu</i> will be explored, illustrated with selected examples from the national Library’s <i>jiapu</i> collection.
+In this essay, the rich history tracing the development of different chapters in a traditional Chinese <i>jiapu</i> will be explored, illustrated with selected examples from the National Library’s <i>jiapu</i> collection.
 
 <div style="background-color: white;">
 <br/>
@@ -31,7 +31,7 @@ Women folding <i>kim chua</i> (paper money) for religious or ancestral offering 
 
 #### **Title of Genealogy (Pu Ming 谱名)**
 
-In traditional practice, the title of a <i>jiapu</i> was important as it indicated which clan the records belonged to. It was common for the title to be made up of a combination of the name of the settlement area, surname, name of the ancestral temple, district-names, name of first migrant ancestor, and even the number of revisions done to the <i>jiapu</i>.[^3]
+In traditional practice, the title of <i>jiapu</i> was important as it indicated which clan the records belonged to. It was common for the title to be made up of a combination of the name of the settlement area, surname, name of the ancestral temple, district-names, name of first migrant ancestor, and even the number of revisions done to the <i>jiapu</i>.[^3]
 
 <div style="background-color: white;">
 <br/>
@@ -43,8 +43,6 @@ Ancestral altar tablets displayed in a clan ancestral hall (1978). <i>Ronni Pins
 Provenance was a very important criteria in <i>jiapu</i>. The reason and goals for revision, identity of the reviser, the year and background of revision, and the revision process were all recorded in the introduction. An interesting practice was to include all previous introductions found in the older editions of the <i>jiapu</i> in the current edition, so as to keep the provenance intact.
 
 Apart from updating the <i>jiapu</i> with the latest clan members’ information, the compiler also had to ensure and verify that all information recorded was true, accurate and authoritative. This included information that had been recorded in the previous edition. Hence, it was not uncommon for earlier compilers to record unverified information and leave remarks for future generations to verify the content when new sources of information surfaced. Due to the nature of the research, compilers tended to be scholars or clan members who had an in-depth knowledge of classical texts.[^4]
-
-Since <i>jiapu</i> served to document lineage, tracing the origin of a clan’s surname became an important chapter in the evolution of the <i>jiapu</i>. This was especially so if the surname could be traced to an ancient king or noble line that glorified the clan and affirmed their social status.
 
 <div style="background-color: white;">
 <br/>
@@ -59,12 +57,12 @@ Due to the form in which surnames were derived, they became associated with the 
 
 The chapter on surnames from the genealogy of the Bai (白) clan from Bangtou Town in Anxi County in Fujian province (福建安溪榜头), China, is a classic example of how surnames and district names reveal information about the lineage and migration history of a clan. The chapter begins by pointing out the uncertainty of the surname’s origin, with four possible origins proposed. These origins separately suggest that the Bai surname descended from either an official, Bai Fu (白阜), who lived during the pre-dynastic times of the Yan Emperor; Bai Fen (白份, 12th-century BCE), lord of the feudal state of Zhang; Bai Yibing (白乙丙, 7th-century BCE), a general of the State of Qin; or Bai Gongsheng (白公胜, 5th-century BCE), an advisor in the State of Chu.
 
-The second section of this chapter deals with the origin of district-names (<i>junwang</i> 郡望) of the Bai clan. district names refer to the geographical areas where clans first originated or prospered. The district-names associated with the Bai clan are: Fengyi (冯翊, in modern-day Shanxi); Taiyuan (太原, in modern-day Shanxi); Nanyang (南阳, in modern-day Henan); and Xiangshan in the Luoyang area (洛阳香山, in modern-day Henan). This is followed by the migration history of the Bai clan from northern China into the southern regions. The first ancestor to migrate to Anxi was Yi Yu (逸宇公) during the Ming Dynasty in 1424 CE. Yi Yu escaped to Anxi with his family when they were falsely accused of treason.
+The second section of this chapter deals with the origin of district-names (<i>junwang</i> 郡望) of the Bai clan. District names refer to the geographical areas where clans first originated or prospered. The district-names associated with the Bai clan are: Fengyi (冯翊, in modern-day Shanxi); Taiyuan (太原, in modern-day Shanxi); Nanyang (南阳, in modern-day Henan); and Xiangshan in the Luoyang area (洛阳香山, in modern-day Henan). This is followed by the migration history of the Bai clan from northern China into the southern regions. The first ancestor to migrate to Anxi was Yi Yu (逸宇公) during the Ming Dynasty in 1424 CE. Yi Yu escaped to Anxi with his family when they were falsely accused of treason.
 
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-9-issue-4/jiapu/lu_generation_chart.jpg" style="width:70%;">
-<i>The Lu clan’s generation chart is an example of how traditional Chinese generation charts are laid out. It is limited to five generations, with the first generation at the top and the fifth at the bottom. It is read from right to left. Meishan Tiannei Lu shi jiapu</i> (Genealogy of the Loo clan from Tiannei Town in the Meishan area), 1994, Singapore Loo Clan Association, Singapore.</div>
+The Lu clan’s generation chart is an example of how traditional Chinese generation charts are laid out. It is limited to five generations, with the first generation at the top and the fifth at the bottom. It is read from right to left. <i>Meishan Tiannei Lu shi jiapu (Genealogy of the Loo clan from Tiannei Town in the Meishan area), 1994, Singapore Loo Clan Association, Singapore.</i></div>
 
 #### **Generation Chart (Shi Xi Tu 世系图)**
 
