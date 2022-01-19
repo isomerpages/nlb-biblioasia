@@ -133,7 +133,7 @@ The <i>jiapu</i> chapters discussed here offer only a peek into the wealth of in
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px 20px 0 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;">
 	<b>In traditional Chinese society, <i>jiapu</i> could comprise the following 18 types of information</b>[^2] 
 </span>
-<div style="background-colour: #fff6ba; padding: 20px; margin: 0 20px 20px 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;">
+<div style="background-colour: #fff6ba; padding: 20px; margin: -40px 20px 20px 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;">
 	<ul>
 		<li style="font-size:1rem;">Ancestor portraits and praises</li>
 		<li style="font-size:1rem;">Content page</li>
