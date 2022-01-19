@@ -22,3 +22,7 @@ description: ""
 **Newspaper SG: From Press to Screen**<br>[(PDF)](/files/pdf/vol-7/issue-3/v7-issue3_NewspaperSg.pdf)
 
 **Gotong Royong in the Kampung Life**<br>
+
+**More Than Just a Flower: The Orchid's Manifold Faces**<br>[(PDF](/files/pdf/vol-7/issue-3/v7-issue3_OrchidManifold.pdf)
+
+**Wealthy Reserves in Natural Heritage: A Decade of Biodiversity Conservation and Discoveries in Singapore**<br>[(PDF](/files/pdf/vol-7/issue-3/v7-issue3_BiodiversityDiscoveries.pdf)
