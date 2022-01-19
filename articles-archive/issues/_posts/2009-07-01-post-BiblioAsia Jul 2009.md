@@ -34,7 +34,7 @@ description: ""
 [(PDF)](/files/pdf/vol-5/issue-2/v5-issue2_EnglishLiterature.pdf)
 
 **Early Travels and Voyages in Southeast Asia Showcase Exhibition** <br>
-[(PDF)](/files/pdf/vol-5/issue-2/v5-issue2_TraveslVoyages.pdf)
+[(PDF)](/files/pdf/vol-5/issue-2/v5-issue2_TravelsVoyages.pdf)
 
 **Heritage Road Show IV Commemorates 50 Years of Singapore’s Self-Governance** <br>
 [(PDF)](/files/pdf/vol-5/issue-2/V5-issue2_HeritageRoad.pdf)
