@@ -35,7 +35,7 @@ description: ""
 
 **Chinese** <br>
 (Title in English: Intelligence, Innovatlon and Library Services the Second Paper, "Repositioning our Inforrnation Services in the 4th Shanghai Internatlonal Library Forum)
-[(PDF)](/files/pdf/vol-5/issue-1/v5-issue1_Chinese.pdf)
+[(PDF)](/files/pdf/vol-5/issue-1/v5-issue1_IntelligenceInnovation.pdf)
 
 **சிங்கப்பூர்த் தமிழ் இலக்கிய வளர்ச்சி** <br>
 (Title in English: Singapore Tamil Literature)
