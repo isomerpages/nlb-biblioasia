@@ -131,6 +131,19 @@ Such chapters were heavily influenced by Confucian teachings on respecting autho
 The <i>jiapu</i> chapters discussed here offer only a peek into the wealth of information found in traditional Chinese genealogical records. There are no fixed rules on how to write a genealogy, and many Chinese families have adapted aspects of <i>jiapu</i> that best suit the needs of their families. As a result, <i>jiapu</i> is an ever-evolving document that captures the characteristics of society at a particular point in time, and also offers a glimpse into the historical continuity of Chinese family structure and beliefs. 
 
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;">
+	<b>In traditional Chinese society, <i>jiapu</i> could comprise the following 18 types of information</b>[^2] 
+<br><br>
+> Ancestor portraits and praises<br>
+> Content page<br>
+> List of editorial members<br>
+> Introduction<br>
+> Writing style guide<br>
+> Records of meritorious deeds<br>
+> Genealogy studies and its history<br>
+<br>
+Some of the information listed, also known as chapters as they appeared in the <i>jiapu</i>, are still being recorded today. This is especially true for modern publications that are merely updated editions of older <i>jiapu</i></span>
+
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;">
 <b>FIVE DEGREES OF MOURNING CLOTHES (WUFU 五服)</b>
 <br><br>
 <i>Wufu</i> was the set of rules that determined the mourning clothes and mourning periods to be observed by different clan members within nine generations (<i>jiu zu</i> 九族). The nine generations were defined as the four generations before oneself (from father to great great-grandfather) and the four generations after oneself (from children to the great great-grandchildren). Mourning clothes were separated into five different types, and mourning periods ranged from three months to three years. In general, the closest kin to the deceased wore the coarsest fabric and observed the longest mourning period. These five degrees of mourning were separately known as <i>zhancui</i> (斩衰); <i>zicui</i> (齐衰); <i>dagong</i> (大功); <i>xiaogong</i> (小功); and <i>sima</i> (缌麻).[^10]
