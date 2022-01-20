@@ -38,7 +38,7 @@ With the Passing of Time, Many Places and buildings in Singapore have undergone 
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-9-issue-4/oldsg/hotel_de_IEurope.jpg" style="width:70%;">
-<i>MITA collection, courtesy of National Achieves Singapore; Ronni Pinsier collection, courtesy of National Achieves of Singapore; Courtesy of National Archives of Singapore.</i></div>
+<i>The Grand Hotel de l’Europe was one of the finest hotels in Singapore and overlooked the Esplanade. Courtesy of National Archives of Singapore.</i></div>
 
 #### **National Stadium**
 
