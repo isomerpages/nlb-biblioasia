@@ -72,7 +72,7 @@ An image of Orchard Road circa 1900s when its surroundings were mostly spice and
 
 <i>NAS protects the rights of citizens by providing evidence and accountability of government actions. Its repository of archival materials makes NAS an important research centre for those in search of information about the country's history. NAS also promotes public interest in Singapore history and heritage through educational programmes and exhibitions.</i>
 
-<p style="font-size:15px;"><b>Kevin Khoo</b> is an archivist at the National archives of Singapore. He is a historian by training, and alumni of the National University of Singapore’s history department. His interests include cultural and social history, comparative religion, philosophy, literature and poetry, economics and archival science.</p>
+<p style="font-size:15px;"><b>Kevin Khoo</b> is an archivist at the National Archives of Singapore. He is a historian by training, and alumni of the National University of Singapore’s History Department. His interests include cultural and social history, comparative religion, philosophy, literature and poetry, economics and archival science.</p>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-9/issue-4/jan-mar-2014/"><center>Back to Issue</center></a>
 
