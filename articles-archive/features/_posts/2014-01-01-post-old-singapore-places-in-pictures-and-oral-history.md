@@ -16,7 +16,7 @@ With the Passing of Time, Many Places and buildings in Singapore have undergone 
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-9-issue-4/oldsg/national_theatre.jpg" style="width:70%;">
-<i>MITA collection, courtesy of National Achieves Singapore; Ronni Pinsier collection, courtesy of National Achieves of Singapore; Courtesy of National Archives of Singapore.</i></div>
+<i>Opened in 1963, the National Theatre was located at the corner of Clemenceau Avenue and River Valley Road. Courtesy of National Archives of Singapore.</i></div>
 
 #### **City Hall**
 
@@ -27,7 +27,7 @@ With the Passing of Time, Many Places and buildings in Singapore have undergone 
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-9-issue-4/oldsg/city_hall.jpg" style="width:70%;">
-<i>MITA collection, courtesy of National Achieves Singapore; Ronni Pinsier collection, courtesy of National Achieves of Singapore; Courtesy of National Archives of Singapore.</i></div>
+<i>The former City Hall and former Supreme Court today make up the National Gallery Singapore, which opened in 2015. Courtesy of National Archives of Singapore.</i></div>
 
 #### **Grand Hotel De L'europe**
 
