@@ -9,15 +9,17 @@ description: ""
 
 **Director's Column**<br>
 
-**A Meeting of Minds: Interviews with Mr Michael Keller and Professor Howard Besser**<br>
+#### **Features** 
 
-**A Wealth of Business Resources: The Business Collection at the Lee Kong Chiang Reference Library**<br>
+**Multi-ethnic Enclaves around Middle Road: An Examination of Early Urban Settlement in Singapore**<br>
 
-**Supporting Economy, Enriching Knowledge: The Science and Technology Collection at the Lee Kong Chian Reference Library**<br>
+**Tongkangs: Hybrid Ships in a Moment of Singapore's Maritime History**<br>
 
-**Monument of Memory and More: The History of Victoria Street**<br>
+**Beyond Readers and Folktales: Observations about Singapore Children's Literature**<br>
 
-**This is My Story: Biographies as Research Resources for Chinese Diasporas**<br>
+**Sebuah Mercu Tanda IImu**<br>
+
+**Fostering an Inventive Spirit in the City-State**<br>
 
 **Snakes & Devil's: A History of the Singapore Grand Prix 1961–1973**<br>
 
