@@ -80,6 +80,8 @@ St Andrew’s Cathedral is the oldest Anglican house of worship in Singapore and
 
 <i>The author would like to thank Ms Lau Jen Sin and Reverend Canon Soon Soo Kee for reviewing this article.</i>
 
+<br/>
+<img style="width:100px;height:100px;margin-bottom:-30px; border-radius:100%; box-shadow: 1px 2px 0px #424242;" src="/images/vol-9-issue-4/colonial/Bonny_Tan.jpg">
 <p style="font-size:15px;"><b>Bonny Tan</b> is a Senior Librarian who has served at the Reference Library at the National Library Board (NLB) since 1997. She has a keen interest in Singapore church history and has been researching this subject since the early 1990s.</p>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-9/issue-4/jan-mar-2014/"><center>Back to Issue</center></a>
