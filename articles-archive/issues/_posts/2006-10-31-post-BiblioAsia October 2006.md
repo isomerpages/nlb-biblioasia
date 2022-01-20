@@ -11,19 +11,19 @@ description: ""
 
 #### **Features**
 
-**Journey of Faith: Haj Pilgrimage in the Malay Archipelago before the 20th Century**<br>
+**Journey of Faith: Haj Pilgrimage in the Malay Archipelago before the 20th Century**<br> [(PDF)](/files/pdf/vol-2/issue-3/v2-issue3_HajPilgrimage.pdf)
 
-**Menyelusuri Evolusi Aksara Melayu**<br>
+**Menyelusuri Evolusi Aksara Melayu**<br> [(PDF)](/files/pdf/vol-2/issue-3/v2-issue3_AksaraMelayu.pdf)
 
-**Portrait of Poetry In Art**<br>
+**Portrait of Poetry In Art**<br> [(PDF)](/files/pdf/vol-2/issue-3/v2-issue3_PortraitsPoetry.pdf)
 
-**Descendants of Dragons and Fairies: Vietnamese History before French Colonisation**<br>
+**Descendants of Dragons and Fairies: Vietnamese History before French Colonisation**<br> [(PDF)](/files/pdf/vol-2/issue-3/v2-issue3_DragonsFairies.pdf)
 
-**Tamil Cinema**<br>
+**Tamil Cinema**<br> [(PDF)](/files/pdf/vol-2/issue-3/v2-issue3_Tamil.pdf)
 
 #### **Exhibition Highlights**
 
-**A Brief History of Woodcuts in Singapore**<br>
+**A Brief History of Woodcuts in Singapore**<br> [(PDF)](/files/pdf/vol-2/issue-3/v2-issue3_WoodcutsHistory.pdf)
 
 **The Evolution of Malay Scripts Exhibition (EMAS) Exhibition**<br>
 
