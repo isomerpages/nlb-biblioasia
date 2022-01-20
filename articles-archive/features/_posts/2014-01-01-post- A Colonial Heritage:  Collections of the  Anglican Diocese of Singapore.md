@@ -17,21 +17,11 @@ The Anglican church first gained a foothold in the Malay Peninsula when Captain 
 
 In 1823, Stamford Raffles chose the strategic location — the Esplanade — as the place to build the first Anglican church in Singapore soon after establishing the settlement. The large green expanse sat in the heart of the European residential population, locked between the business centre and the Chinese town to the west, and the Malay community to the east. St Andrew’s Cathedral (see text box on page 48) still stands there today, a towering testament to the vision of Raffles.
 
-<div style="background-color: white;">
-<br/>
-<img src="/images/vol-9-issue-4/colonial/Singapore_Diocesan_Quarterly_Leaflet.jpg">
-The <i>Singapore Diocesan Quarterly Leaflet</i>, Vol. 1, No. 2, May 1939. <i>Image courtesy of the Archives of the Anglican Diocese of Singapore.</i></div>
-
 #### **The Straits Settlements Period**
 
 After Singapore, Malacca and Penang were brought together to form the Straits Settlements in 1826 and the colonial capital was established in Singapore, the Anglican church received its first full-time Chaplain, Reverend Robert Burns. Subsequently, a year after the control of the Straits Settlements was transferred from Bengal (in India) to the Colonial Office in Britain, the first Colonial Chaplain, Reverend John Beckles, was appointed in 1868.
 
 The centre of authority for the Anglican church moved gradually from Calcutta to Southeast Asia when a United Diocese of Singapore, Labuan and Sarawak was formed in 1881. In the late 19th century, churches were increasingly established across the Peninsula, including Taiping (1887), Kuala Lumpur (1887) and Seremban (1893).[^1] This was a natural consequence as the Malay States opened up with the signing of the Pangkor Treaty in 1874 and the British started to establish themselves commercially, in businesses and plantations, in the Peninsula. During this time, local Tamils and Chinese from various dialect groups began joining the Anglican church.
-
-<div style="background-color: white;">
-<br/>
-<img src="/images/vol-9-issue-4/colonial/Singapore_Diocesan_Association_Magazine_1964.jpg">
-An example of subsequent editions renamed the <i>Singapore Diocesan Association Magazine</i>, August 1964. <i>Image courtesy of the Archives of the Anglican Diocese of Singapore.</i></div>
 
 #### **The Anglican Church in the 20th Century**
 
@@ -52,6 +42,16 @@ That same year, the National Library Board of Singapore (NLB) began digitising t
 For the genealogist, there are several resources that may prove valuable for research. Baptism records indicate pertinent details of a child and the family such as date of birth, parents’ names, location of home and even father’s vocation. There are also marriage notices, including records of marriages consecrated at St Andrew’s Cathedral during the Japanese Occupation between 1944 and 1945. The records indicate the ages of the newlyweds, the profession of the groom, the residential addresses of both partners and the name as well as profession of the groom’s father. The respective nationalities of the bride and groom were also required, revealing several Chinese and Indian names. Nominations to lay leadership present details such as place of birth, marital status, number of children and occupation, alongside details of ministry experience. The Cathedral’s most extensive death records is the nine-volume Book of Remembrances, acknowledging those who had died in the war.
 
 Besides primary BMD[^5] records, the archival holdings also include several publications unique to the diocese, namely <i>Singapore Diocesan Magazine</i> and the <i>Singapore Diocesan Quarterly</i>. Minutes of meetings such as the Singapore Diocesan Association records (1911–1931) are not merely administrative records; when taken as a whole, these unfold much of the history and ministry of the Anglican community in the Malay Peninsula. The records include profiles of leaders and details on the establishment of churches, schools, hospitals and other forms of social infrastructure. These are supplemented with information contained in the <i>Singapore Auxiliary Diocesan Association Quarterly Leaflets</i>. Much earlier records have also been digitised, such as the Church Records of the St Andrew’s Church Committee from the mid-19th century; these are often scrawled minutes of meetings in elegant but not always legible handwriting.
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-9-issue-4/colonial/Singapore_Diocesan_Quarterly_Leaflet.jpg">
+The <i>Singapore Diocesan Quarterly Leaflet</i>, Vol. 1, No. 2, May 1939. <i>Image courtesy of the Archives of the Anglican Diocese of Singapore.</i></div>
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-9-issue-4/colonial/Singapore_Diocesan_Association_Magazine_1964.jpg">
+An example of subsequent editions renamed the <i>Singapore Diocesan Association Magazine</i>, August 1964. <i>Image courtesy of the Archives of the Anglican Diocese of Singapore.</i></div>
 
 These digitised resources are available for onsite viewing at the National Library of Singapore. Some significant national gems within its holdings include the Letters of Patent to the Straits Settlements in the 33rd year of HM Queen Victoria (1869), which officially placed the Diocese of Singapore, Labuan and Sarawak directly under the jurisdiction of the Archdiocese of Canterbury as well as the Letters of Patent to Labuan and its dependencies in the 34th year of HM’s reign (1870). These massive manuscripts are housed in glass cases along with their impressive large seals complete with embossed images.
 
