@@ -98,7 +98,7 @@ National Archives (Singapore). (2011). [Records management handbook: Creating, a
 
 Posner, E. (1972). <i>Archives in the ancient world</i>. Cambridge, Massachusetts, Harvard University Press. (Not available in NLB holdings)
 
-Raffles, S. (1819, June 25). Original instructions to William Farquhar on the Plan of Singapore Town. *[Straits Settlements Records. Series L, Singapore: Letters to Bencoolen](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13844485) [Straits Settlement Records, L10]. Singapore: National Archives of Singapore (Microfilm no.: NL57)
+Raffles, S. (1819, June 25). <i>Original instructions to William Farquhar on the Plan of Singapore Town</i>. [Straits Settlements Records. Series L, Singapore: Letters to Bencoolen](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13844485) [Straits Settlement Records, L10]. Singapore: National Archives of Singapore (Microfilm no.: NL57)
 
 Shelly, P.B. (1818). The complete poetic works of Percy Bysshe Shellt (Vol. 2). <i>Ozymandias</i>, Retrieved from The Literature Network online website. 
 
