@@ -12,9 +12,7 @@ description: ""
 
 张人凤1940年生曾长期从事继续教育工作现为上海市文史研究馆馆员著有《张元济年谱长编》、《智民之师张元济》、《张元济研究文集》，编有十卷本《张元济全集》
 
-#### **In This Second Article by Professor Zhang**
-
-Ren Feng (the first was published in <i>BiblioAsia</i> Oct–Dec 2013, Vol. 9 Issue 3), he outlines the 20 years of friendship between Khoo Seok Wan (1874–1941) and Kang You Wei (1858–1927) that began at the start of the 20th century by piecing together their letters to one another over the years, as well as their respective poetry. In the course of his research, Professor Zhang clarifies some myths about their friendship, as well as provides insights into certain historical events in the late Qing dynasty (1644–1911). The manuscript of Khoo and Kang’s letters are kept by the family of Mr. Ong Cheng Kian, descendent of Khoo Seok Wan.
+In This Second Article by Professor Zhang Ren Feng (the first was published in <i>BiblioAsia</i> Oct–Dec 2013, Vol. 9 Issue 3), he outlines the 20 years of friendship between Khoo Seok Wan (1874–1941) and Kang You Wei (1858–1927) that began at the start of the 20th century by piecing together their letters to one another over the years, as well as their respective poetry. In the course of his research, Professor Zhang clarifies some myths about their friendship, as well as provides insights into certain historical events in the late Qing dynasty (1644–1911). The manuscript of Khoo and Kang’s letters are kept by the family of Mr. Ong Cheng Kian, descendent of Khoo Seok Wan.
 
 邱菽园与康有为的友谊与交往，历二十余载，然而记述这段历史的文章不多见。2007年中国人民大学出版社出版姜义华、张荣华两位先生编校的《康有为全集》，是目前收集康氏著述最完满的文本，书后选用三篇极具权威性的康传：梁启超《南海康先生传》、陆乃翔、陆敦骙《南海先生传》和张伯桢《南海康先生传》，对此均未提及。本文试图以在新加坡国家图书馆见到邱菽园外孙王清建先生所藏历史文献，参以其它史料，勾勒出邱、康两人友谊与交往的初步框架，亦冀随着这批史料的进一步解读而不断充实，日臻完善。
 
