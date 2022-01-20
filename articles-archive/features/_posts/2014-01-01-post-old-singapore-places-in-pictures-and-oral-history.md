@@ -71,8 +71,8 @@ With the Passing of Time, Many Places and buildings in Singapore have undergone 
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-9-issue-4/oldsg/police_station.jpg" style="width:70%;">
-<i>MITA collection, courtesy of National Achieves Singapore; Ronni Pinsier collection, courtesy of National Achieves of Singapore; Courtesy of National Archives of Singapore.</i></div>
+<i>The old Hill Street Police Station officially opened in 1934 and was gazetted as a national monument on 18 December 1998. Courtesy of National Archives of Singapore.</i></div>
 
-<p style="font-size:15px;"><b>Lu Wenshi</b> is an Oral History Specialist with the National archives of Singapore. She conducts oral history interviews with individuals from different walks of life. Some oral history extracts in this article were contributed by Wenshi’s interviewees, and their narrations inspired her to curate this selection. She also conducts training for institutions that are keen to embark on their own oral history programme.</p>
+<p style="font-size:15px;"><b>Lu Wenshi</b> is an Oral History Specialist with the National Archives of Singapore. She conducts oral history interviews with individuals from different walks of life. Some oral history extracts in this article were contributed by Wenshi’s interviewees, and their narrations inspired her to curate this selection. She also conducts training for institutions that are keen to embark on their own oral history programme.</p>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-9/issue-4/jan-mar-2014/"><center>Back to Issue</center></a>
