@@ -102,7 +102,7 @@ The Diocese of Singapore (2020). <i>Our history</i>. Retrieved from The Diocese 
 
 #### **NOTES**
 
-[^1]: Loh, K.A. (1963). [Fifty years of the Anglican Church in Singapore Island 1909–1959](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4181734)* (p. 4). Singapore: The Department of History, University of Singapore. (Call no.: RDLKL 283.5957 LOH)
+[^1]: Loh, K.A. (1963). *[Fifty years of the Anglican Church in Singapore Island 1909–1959](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4181734)* (p. 4). Singapore: The Department of History, University of Singapore. (Call no.: RDLKL 283.5957 LOH)
 
 [^2]: Batumalai, S. (2007). *[A bicentenary history of the Anglican Church of the Diocese of West Malaysia (1805–2005): From historical, theological and missiological perspectives (p. 16)](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13101675)*. Melaka: Syarikat Percetakan Muncul Sistem. (Call no.: RSEA 283.95951 BAT)
 
