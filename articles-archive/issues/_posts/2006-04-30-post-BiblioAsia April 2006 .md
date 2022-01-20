@@ -27,8 +27,6 @@ description: ""
 
 **Urban Libraries Councils Visits NLB F.A.T.**<br>
 
-**Turning Information to Knowledge: Researchers Networking Tee@Library**<br>
+#### **Services**
 
-**Building an Audience for National Library Programmes**<br>
-
-**Life Sciences Comes to National Library**<br>
+**Microfilm Collection and Services in the Lee Kong Chian Reference Library**<br>
