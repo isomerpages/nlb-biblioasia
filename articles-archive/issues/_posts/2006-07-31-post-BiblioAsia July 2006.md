@@ -21,14 +21,16 @@ description: ""
 
 **Fostering an Inventive Spirit in the City-State**<br>
 
-**Snakes & Devil's: A History of the Singapore Grand Prix 1961–1973**<br>
+**Marching Through the Decades: Singapore on Parade, an Online Exhibition**<br>
 
-**லீ கொங் சியன் மேற்கோள் நூலகத்தின் தமிழ்ப் பிரிவும் சேவைகளும்**<br>
+#### **News** 
 
-**“中国资料”专题介绍**<br>
+**Publishing and Legal Deposit for Posterity Lee Kong Chian (LKC) Research Fellows**<br>
 
-**Turning Information to Knowledge: Researchers Networking Tee@Library**<br>
+**National Library (NL) Distinguished Readers**<br>
 
-**Building an Audience for National Library Programmes**<br>
+**NLB's Executive Management Programme Former Director of National Library Honoured**<br>
+
+**Emperor and Empress of Japan Visit the National Library <i>Singapore Honours</i> – An Exhibition**<br>
 
 **Life Sciences Comes to National Library**<br>
