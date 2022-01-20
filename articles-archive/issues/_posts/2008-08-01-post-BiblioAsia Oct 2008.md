@@ -5,3 +5,5 @@ date: 2008-08-01
 layout: post
 description: ""
 ---
+![Alt text for image on Isomer site](/images/covers/ba4-3.jpg)
+
