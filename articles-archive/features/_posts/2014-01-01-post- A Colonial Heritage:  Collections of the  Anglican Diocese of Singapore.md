@@ -15,7 +15,7 @@ Established in the Early 19th Century by the East India Company (EIC), the devel
 
 The Anglican church first gained a foothold in the Malay Peninsula when Captain Francis Light took formal possession of Penang in 1786. Services for the British colonials and their families were at first conducted by itinerant chaplains but, gradually, as the community became more established, priests were assigned to specific churches, and the building of schools and more churches followed. In 1814, the Diocese of Calcutta was formed under the EIC. Its jurisdiction covered all Anglican missionary work east of the Suez, including that of Penang and later Malacca and Singapore.
 
-In 1823, Stamford Raffles chose the strategic location — the Esplanade — as the place to build the first Anglican church in Singapore soon after establishing the settlement. The large green expanse sat in the heart of the European residential population, locked between the business centre and the Chinese town to the west, and the Malay community to the east. St Andrew’s Cathedral (see text box on page 48) still stands there today, a towering testament to the vision of Raffles.
+In 1823, Stamford Raffles chose the strategic location — the Esplanade — as the place to build the first Anglican church in Singapore soon after establishing the settlement. The large green expanse sat in the heart of the European residential population, locked between the business centre and the Chinese town to the west, and the Malay community to the east. St Andrew’s Cathedral still stands there today, a towering testament to the vision of Raffles.
 
 #### **The Straits Settlements Period**
 
