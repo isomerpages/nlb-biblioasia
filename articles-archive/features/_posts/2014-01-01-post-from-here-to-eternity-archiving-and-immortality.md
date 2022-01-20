@@ -39,6 +39,11 @@ An archive is in effect a repository of memory — of records of legal, historic
 
 As records — “frozen in time” as it were — properly archived documents have a basic trustworthiness relative to other sources. Such archived documents can impart a lasting quality to works based on them. An example of this is the Justinian Code or “Corpus Juris Civilis”. Commissioned in 6th century CE by the Byzantine Emperor Justinian, the Code was based on centuries of carefully archived Roman legal precedents and remains the basis of much European civil law till today.[^7] Another example is the Historical Records of the Grand Historian Sima Qian, the famed court historian of the Han Dynasty. Written in the 1st century BCE, his work drew heavily on the Han imperial court archives and remains a classic and reliable resource on ancient Chinese history to this day.[^8]
 
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-9-issue-4/enternity/meister.jpg">
+Mural depiction of the Emperor Justinian who ruled between 527–565 CE at the height of the Byzantine Empire's influence. <i>Image via Wikipedia Commons</i>.</div>
+
 <br/>
 <img src="/images/vol-9-issue-4/enternity/sima_qian.jpg">
 Painting of Sima Qian, who served as court historian during the Han Dynasty between 145/135–86 BCE. <i>Image via Wikipedia Commons</i>.[^9]
@@ -52,13 +57,6 @@ Highly operational records, such as lighthouse maintenance and administrative re
 Many modern archives also have growing collections of photographic and audio-visual records that capture everyday scenes in which historical changes in aesthetics, mannerisms, technology and others aspects of material culture are captured in a highly evocative form. As the famed British archivist Sir Hilary Jenkinson put it — because routine records are created as a by-product of everyday actions, and were not consciously produced “in the interest or for the information of posterity” they ironically can become some of the best sources for telling us, with relative impartiality and naturalness, things as they actually happened in the past.[^13]<sup>,</sup> [^14]
 
 Immortality is a concept fraught with paradoxes. As far as physical immortality remains impossible, it implies a non-material existence which extends beyond mortal life; the continuation of a personality beyond death (whether in spirit or on record), and the retention of its capacity to influence this world however disembodied. The idea has pre-scientific roots, but retains a hold on a popular culture that is increasingly dominated by empirical studies and science. Immortality is granted to people and events that merit remembering, but also, as reflected in the contents of an archive, it is given to things which may have had no intention or conscious desire of being remembered. 
-
-<div style="background-color: white;">
-<br/>
-<img src="/images/vol-9-issue-4/enternity/meister.jpg">
-Mural depiction of the Emperor Justinian who ruled between 527–565 CE at the height of the Byzantine Empire's influence. <i>Image via Wikipedia Commons</i>.</div>
-
-
 
 <i>The National Archives of Singapore (NAS) houses the collective memory of the nation, which allows current and future generations of Singaporeans to understand its different cultures, explore its common heritage and appreciate who we are as a people and how we became a nation.</i>
 
