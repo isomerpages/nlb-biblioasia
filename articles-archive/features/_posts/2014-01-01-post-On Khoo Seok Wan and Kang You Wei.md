@@ -136,7 +136,7 @@ In This Second Article by Professor Zhang Ren Feng (the first was published in <
 
 本文写作过程中，得到新加坡国家图书馆王连美女士、赖燕鸿先生、叶若诗女士的大力相助，谨表感谢。
 
-<p style="font-size:15px;">Professor <b>Zhang Renfeng</b> is a member of the Shanghai Research Institute of Culture and History. He has been involved in the study of Zhang Yuanji, renowned educationist, bibliographer and founder of China’s modern publishing business. He compiled the 10-volume <i>Works of Zhang Yuanji</i>; his own works include <i>the Collection of Research papers on Zhang Yuanji, and Zhang Yuanji, an Enlightener of the people, Chronicle of life of Zhang Yuanji, and Zhang Yuanji, an Enlightener of the people.</i></p>
+<p style="font-size:15px;">Professor <b>Zhang Renfeng</b> is a member of the Shanghai Research Institute of Culture and History. He has been involved in the study of Zhang Yuanji, renowned educationist, bibliographer and founder of China’s modern publishing business. He compiled the 10-volume <i>Works of Zhang Yuanji</i>; his own works include <i>the Collection of Research Papers on Zhang Yuanji, Chronicle of life of Zhang Yuanji,</i> and <i>Zhang Yuanji, An Enlightener of the People.</i></p>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-9/issue-4/jan-mar-2014/"><center>Back to Issue</center></a>
 
