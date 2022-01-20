@@ -58,12 +58,6 @@ Many modern archives also have growing collections of photographic and audio-vis
 
 Immortality is a concept fraught with paradoxes. As far as physical immortality remains impossible, it implies a non-material existence which extends beyond mortal life; the continuation of a personality beyond death (whether in spirit or on record), and the retention of its capacity to influence this world however disembodied. The idea has pre-scientific roots, but retains a hold on a popular culture that is increasingly dominated by empirical studies and science. Immortality is granted to people and events that merit remembering, but also, as reflected in the contents of an archive, it is given to things which may have had no intention or conscious desire of being remembered. 
 
-<i>The National Archives of Singapore (NAS) houses the collective memory of the nation, which allows current and future generations of Singaporeans to understand its different cultures, explore its common heritage and appreciate who we are as a people and how we became a nation.</i>
-
-<i>As the official custodian of the corporate memory of the government of Singapore, NAS manages public records and provides advice to government agencies on records management. From government files, private memoirs, historical maps and photographs to oral history interviews and audio-visual materials, NAS is responsible for the collection, preservation and management of Singapore's public and private archival records, some of which date back to the early 19th century.</i>
-
-<i>NAS protects the rights of citizens by providing evidence and accountability of government actions. Its repository of archival materials makes NAS an important research centre for those in search of information about the country's history. NAS also promotes public interest in Singapore history and heritage through educational programmes and exhibitions.</i>
-
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-9-issue-4/enternity/orchard_old.jpg" style="width:70%;"></div>
@@ -71,6 +65,12 @@ Immortality is a concept fraught with paradoxes. As far as physical immortality 
 <br/>
 <img src="/images/vol-9-issue-4/enternity/orchard_new.jpg" style="width:70%;">
 An image of Orchard Road circa 1900s when its surroundings were mostly spice and fruit plantations. This is a far cry from Orchard Road today (ABOVE), which is a highly urbanised and chic shopping belt. <i>Courtesy of National Archives of Singapore and Kevin Khoo, respectively.</i></div>
+
+<i>The National Archives of Singapore (NAS) houses the collective memory of the nation, which allows current and future generations of Singaporeans to understand its different cultures, explore its common heritage and appreciate who we are as a people and how we became a nation.</i>
+
+<i>As the official custodian of the corporate memory of the government of Singapore, NAS manages public records and provides advice to government agencies on records management. From government files, private memoirs, historical maps and photographs to oral history interviews and audio-visual materials, NAS is responsible for the collection, preservation and management of Singapore's public and private archival records, some of which date back to the early 19th century.</i>
+
+<i>NAS protects the rights of citizens by providing evidence and accountability of government actions. Its repository of archival materials makes NAS an important research centre for those in search of information about the country's history. NAS also promotes public interest in Singapore history and heritage through educational programmes and exhibitions.</i>
 
 <p style="font-size:15px;"><b>Kevin Khoo</b> is an archivist at the National archives of Singapore. He is a historian by training, and alumni of the National University of Singapore’s history department. His interests include cultural and social history, comparative religion, philosophy, literature and poetry, economics and archival science.</p>
 
