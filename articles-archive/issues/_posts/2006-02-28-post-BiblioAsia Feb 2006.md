@@ -13,13 +13,13 @@ description: ""
 
 **A Wealth of Business Resources: The Business Collection at the Lee Kong Chiang Reference Library**<br>
 
-**சிங்கப்பூர் இலக்கிய முன்னோடி திரு ந. பழநிவேல**<br>
+**Supporting Economy, Enriching Knowledge: The Science and Technology Collection at the Lee Kong Chian Reference Library**<br>
 
-**走近传统中医药 - 李光前参考图书馆 "医药保健” 专题**<br>
+**Monument of Memory and More: The History of Victoria Street**<br>
 
-**Babas and Nonyas: The Peranakan Chinese in Singapore**<br>
+**This is My Story: Biographies as Research Resources for Chinese Diasporas**<br>
 
-**Mrs Laura Bush, First Lady of the United States of America, Visits the National Library**<br>
+**Snakes & Devil's: A History of the Singapore Grand Prix 1961 1973**<br>
 
 **Digital Terrorism Conference**<br>
 
