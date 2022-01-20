@@ -7,13 +7,13 @@ description: ""
 ---
 <img style="width: 350px; height: 450px;" src="/images/vol-2-issue-1/Apr06.JPG">
 
-**Director's Column**<br>
+#### **Features**
 
-**A Meeting of Minds: Interviews with Mr Michael Keller and Professor Howard Besser**<br>
+**Singapore Art, <i>Nanyang</i> Style**<br>
 
-**A Wealth of Business Resources: The Business Collection at the Lee Kong Chiang Reference Library**<br>
+**Old Man Yip: Photography Master in Slippers **<br>
 
-**Supporting Economy, Enriching Knowledge: The Science and Technology Collection at the Lee Kong Chian Reference Library**<br>
+**The Motor Millions – Towards Our Own Car: Six Years to Assembling cars in the Peninsula 1963 – 1968**<br>
 
 **Monument of Memory and More: The History of Victoria Street**<br>
 
