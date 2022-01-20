@@ -31,4 +31,8 @@ description: ""
 
 **LFLA, Seoul 2006**<br>
 **Talk on Intepreting Jihadi Websites**<br>
-**Life Sciences Comes to National Library**<br>
+**Bhutan Crown Prince Visits the National Library**<br>
+**Collaboration and Networking with NTU MSC Students**<br>
+**Professor Edwin Thumboo Donates** <br>
+**Collection to National Library** <br>
+**Cover Story – Rethinking Culture** <br>
