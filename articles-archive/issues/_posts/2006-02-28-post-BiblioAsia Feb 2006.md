@@ -19,14 +19,14 @@ description: ""
 
 **This is My Story: Biographies as Research Resources for Chinese Diasporas**<br>
 
-**Snakes & Devil's: A History of the Singapore Grand Prix 1961 1973**<br>
+**Snakes & Devil's: A History of the Singapore Grand Prix 1961–1973**<br>
 
-**Digital Terrorism Conference**<br>
+**லீ கொங் சியன் மேற்கோள் நூலகத்தின் தமிழ்ப் பிரிவும் சேவைகளும் **<br>
 
-**Partnering with Librarians in Vietnam**<br>
+**“中国资料”专题介绍**<br>
 
-**Heritage Road Show @ the National Library**<br>
+**Turning Information to Knowledge: Researchers Networking Tee@Library**<br>
 
-**XIMediaLab Comes to the Library**<br>
+**Building an Audience for National Library Programmes**<br>
 
-**Lee Kong Chian Research Fellowship Series**<br>
+**Life Sciences Comes to National Library**<br>
