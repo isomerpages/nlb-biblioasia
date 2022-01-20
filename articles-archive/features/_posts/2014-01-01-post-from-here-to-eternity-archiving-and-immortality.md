@@ -56,7 +56,7 @@ Immortality is a concept fraught with paradoxes. As far as physical immortality 
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-9-issue-4/enternity/meister.jpg">
-Mural depiction of the Emperor Justinian who ruled between 527–565 CE at the height of the Byzantine Empire's influence. Image via Wikipedia Commons.</div>
+Mural depiction of the Emperor Justinian who ruled between 527–565 CE at the height of the Byzantine Empire's influence. <i>Image via Wikipedia Commons</i>.</div>
 
 
 
