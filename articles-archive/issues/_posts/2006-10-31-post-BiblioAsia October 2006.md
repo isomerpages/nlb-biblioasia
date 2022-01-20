@@ -27,7 +27,7 @@ description: ""
 
 **The Evolution of Malay Scripts Exhibition (EMAS) Exhibition**<br>
 
-#### **News**
+#### **News** [(PDF)](/files/pdf/vol-2/issue-3/News%20for%20Oct%202006.pdf)
 
 **LFLA, Seoul 2006**<br>
 **Talk on Intepreting Jihadi Websites**<br>
