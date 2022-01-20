@@ -41,7 +41,7 @@ As records — “frozen in time” as it were — properly archived documents h
 
 <br/>
 <img src="/images/vol-9-issue-4/enternity/sima_qian.jpg">
-Painting of Sima Qian, who served as court historian during the Han Dynasty between 145/135–86 BCE. Image via Wikipedia Commons.[^9]
+Painting of Sima Qian, who served as court historian during the Han Dynasty between 145/135–86 BCE. <i>Image via Wikipedia Commons</i>.[^9]
 
 As a primary function of an archive is to safekeep records that have been appraised and deemed worthy of preservation, documents selected for an archive's permanent collection acquire — by extension — a form of immortality. 
 
