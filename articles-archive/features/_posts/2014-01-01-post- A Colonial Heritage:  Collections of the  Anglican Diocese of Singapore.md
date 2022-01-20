@@ -29,10 +29,6 @@ Increasingly, the need to centre Anglican missionary work in Singapore became ap
 
 Thankfully, a stronger Asian leadership emerged after the war. The church, with an awakened local laity, arose ready to ride the new wave of nationalism. The chaplaincy system was replaced by parishes in 1947, a signal of the endorsement of “a permanent civil establishment”.[^3] In 1960, the Diocese was renamed the Diocese of Singapore and Malaya, soon after Malaya’s independence from British rule in 1957. By 1970, five years after Singapore separated from Malaysia, the Diocese of Singapore reverted back to her former name with jurisdiction only over Singapore initially but later expanding in the 1990s to encompass the six deanery countries of Cambodia, Indonesia, Laos, Nepal, Thailand and Vietnam. 
 
-<div style="background-color: white;">
-<br/>
-<img src="/images/vol-9-issue-4/colonial/bg.jpg" style="width:70%;"></div>
-
 #### **The Anglican Archives in Singapore**
 
 As early as 1868, the Church showed concern that its records “[were] in danger of being injured or lost” and its leadership took steps to obtain a small iron safe.[^4] However, the Anglican Archives at the diocese was not formally established until 2008. 
