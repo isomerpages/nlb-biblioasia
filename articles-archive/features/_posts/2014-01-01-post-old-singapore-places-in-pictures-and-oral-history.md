@@ -29,7 +29,7 @@ With the Passing of Time, Many Places and buildings in Singapore have undergone 
 <img src="/images/vol-9-issue-4/oldsg/city_hall.jpg" style="width:70%;">
 <i>The former City Hall and former Supreme Court today make up the National Gallery Singapore, which opened in 2015. Courtesy of National Archives of Singapore.</i></div>
 
-#### **Grand Hotel De L'europe**
+#### **Grand Hotel de l'Europe**
 
 “...when we were at Europe Hotel, for dinner we used to play classical music which included opera, German waltzes and all sorts of things. French waltzes, all sorts of things we used to play... We frequently [played] the Italian operas. Any tune, I tried to improvise the thing and it turned out to be well.”
 
