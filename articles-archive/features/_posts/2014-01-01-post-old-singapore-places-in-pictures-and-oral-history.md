@@ -42,31 +42,31 @@ With the Passing of Time, Many Places and buildings in Singapore have undergone 
 
 #### **National Stadium**
 
-Very fond memories, I’ve been here before I joined the Sports Council: to watch football games, of course watched some concerts as well. Michael Jackson sang here twice. Before I joined the Sports Council, I think the early part of 1993, that was the first time Michael Jackson came here. [T]he stage was right at the northern end of the stadium, at the other side. And I remember I came with my family, we were watching on the stands. Second time he came back was I think 2001 or 2002 around that period. So I watched it the second time. So there are a lot of concerts here, of course National Day Parade has always been here and I attend every National Day Parade so I watched a lot of National Day Parades here, watched a lot of football games. So I’ve got very pleasant memories of this place.”
+“Very fond memories, I’ve been here before I joined the Sports Council: to watch football games, of course, watched some concerts as well. Michael Jackson sang here twice. Before I joined the Sports Council, I think the early part of 1993, that was the first time Michael Jackson came here. [T]he stage was right at the northern end of the stadium, at the other side. And I remember I came with my family, we were watching on the stands. Second time he came back was I think 2001 or 2002 around that period. So I watched it the second time. So there are a lot of concerts here, of course National Day Parade has always been here and I attend every National Day Parade so I watched a lot of National Day Parades here, watched a lot of football games. So I’ve got very pleasant memories of this place.”
 
-— Col (Ret) Kwan Yue Yeong, former executive director of the Singapore Sports Council, on his memories of the National Stadium in the 1990s and early 2000s. Oral history interview no. 3101, reel 3, conducted in 2006.
+— Col (Ret) Kwan Yue Yeong, former executive director of the Singapore Sports Council, on his memories of the National Stadium in the 1990s and early 2000s. <i>Oral history interview no. 3101, reel 3, conducted in 2006</i>.
 
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-9-issue-4/oldsg/national_stadium.jpg" style="width:70%;">
-<i>MITA collection, courtesy of National Achieves Singapore; Ronni Pinsier collection, courtesy of National Achieves of Singapore; Courtesy of National Archives of Singapore.</i></div>
+<i>The National Stadium was the venue for many sporting, cultural and entertainment events. It officially closed in 2007. MITA Collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **Capitol Theatre**
 
 “Capitol [had] a very wide hall, I mean, it may [have been] three times as large as Pavilion [Cinema] and it’s got some three dimensional figures on the sides. It had quite a decorative ceiling, they had curtains that come down and come up – very attractive. Well, all in all it’s a building that would have caught the attention of many people who went there for the first time to admire, unlike [the] Pavilion.”
 
-— Mr Khoo Beng Chuan Benjamin, former principal of Chai Chee Secondary School, on the interior of Capitol Theatre and why it was such a distinctive cinema in the 1930s. Oral history interview no. 2911, reel 26, conducted in 2005.
+— Mr Khoo Beng Chuan Benjamin, former principal of Chai Chee Secondary School, on the interior of Capitol Theatre and why it was such a distinctive cinema in the 1930s. <i>Oral history interview no. 2911, reel 26, conducted in 2005</i>.
 
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-9-issue-4/oldsg/capital_theatre.jpg" style="width:70%;">
-<i>MITA collection, courtesy of National Achieves Singapore; Ronni Pinsier collection, courtesy of National Achieves of Singapore; Courtesy of National Archives of Singapore.</i></div>
+<i>Capitol Theatre opened in 1930 and was designed British architects P. H. Keys and F. Dowdeswell. Ronni Pinsler collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **Old Hill Street Police Station**
 
-“The area where family activities were held was at the café area of the current MICA building — at that time the space was larger. There was a screen showing black-and-white films. They would sit there and eat. To be frank, [the] level of hygiene was low; there was the smell of food. As children, we would walk in from the main door. The police officer would ask why we wanted to go in. Sometimes he would not allow us to enter. We would ask ourselves what to do. So we went by the back door; there was a drain. We went in from there and blended in with the police officers’ children. We were playful, we watched black and white films. I remember they showed Tarzan, (The) Lone Ranger, those old Western films. There were also Indian films.”
+“The area where family activities were held was at the café area of the current MICA building — at that time the space was larger. There was a screen showing black-and-white films. They would sit there and eat. To be frank, [the] level of hygiene was low; there was the smell of food. As children, we would walk in from the main door. The police officer would ask why we wanted to go in. Sometimes he would not allow us to enter. We would ask ourselves what to do. So we went by the back door; there was a drain. We went in from there and blended in with the police officers’ children. We were playful, we watched black-and-white films. I remember they showed <i>Tarzan</i>, (The) <i>Lone Ranger</i>, those old Western films. There were also Indian films.”
 
-— Mr Tay Kiam Hong, artist and interior designer, on his childhood memories of the Old Hill Street Police Station, where he would participate in activities organised for the families of police officers in the 1950s. Translated from Chinese oral history interview no. 1504, reel 2, conducted in 2010.
+— Mr Tay Kiam Hong, artist and interior designer, on his childhood memories of the Old Hill Street Police Station, where he would participate in activities organised for the families of police officers in the 1950s. <i>Translated from Chinese oral history interview no. 1504, reel 2, conducted in 2010</i>.
 
 <div style="background-color: white;">
 <br/>
