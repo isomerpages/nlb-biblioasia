@@ -9,10 +9,9 @@ layout: post
 
 <div style="text-align:right;">RABINDRANATH TAGORE</div>
 
-<div style="background-color: white;">
 <br/>
 <img src="/images/vol-9-issue-4/enternity/Farquhar_Raffles_re.jpg">
-Selected pages from Sir Stamford Raffles' original instructions to Sir William Farquhar for the development of Singapore Town, 25 June 1819.[^10] Courtesy of National Archives of Singapore.</div>
+Selected pages from Sir Stamford Raffles' original instructions to Sir William Farquhar for the development of Singapore Town, 25 June 1819.[^1] Courtesy of National Archives of Singapore.
 
 Immortality — the idea of living eternally, never aging, dying or being forgotten — has captivated mankind throughout history. Humans — as sentient beings gifted with intellect, self-awareness and creativity, capable of love and the capacity to conceive and perceive infinity, yet bound by mortal bodies which invariably age and die — have always sought an escape from this inevitable fate.
 
@@ -24,19 +23,15 @@ Immortality is also at the heart of many religions and forms of spirituality —
 
 More tangible is the idea of immortality gained through memory, in the remembrance and recollection of human accomplishments, recorded permanently in the annals of history. Here “one lives in the hope of becoming a memory” as the Argentine poet Antonio Porchia said. Recollection gives one’s achievements permanence far beyond a mortal life, creating a legacy and freeing one’s work from the futility inherent in most human activity, to be forgotten soon after it is accomplished. Today, we still recall and honour the works and deeds of people such as Aristotle, Alexander the Great, Newton, Lao Zi, Shakespeare, Paul of Tarsus and Pythagoras centuries and even millennia after their deaths. But how many remember a news article (or worse, an email) written the last year, or perhaps even last week?
 
-As memory is probably the most plausible way for man to attain a measure of immortality in this world, it has encouraged many to strive to realise excellences that merit recalling. Yet the paradox is that while an achievement might be personal, the process of recollection and recognition depends on the ones who remember. For unless others actually choose to remember, the memory of one’s achievement invariably dies. Rulers, seeking immortality, have erected vast monuments to commemorate the achievements of their reigns. But such efforts are typically futile if there is no general and voluntary consensus corresponding with the self image of those in power. Shelley’s haunting poem, <i>Ozymandias</i> comes to mind:
+As memory is probably the most plausible way for man to attain a measure of immortality in this world, it has encouraged many to strive to realise excellences that merit recalling. Yet the paradox is that while an achievement might be personal, the process of recollection and recognition depends on the ones who remember. For unless others actually choose to remember, the memory of one’s achievement invariably dies. Rulers, seeking immortality, have erected vast monuments to commemorate the achievements of their reigns. But such efforts are typically futile if there is no general and voluntary consensus corresponding with the self image of those in power. Shelley’s haunting poem, “Ozymandias” comes to mind:
 
 I met a traveler from an antique land / Who said: Two vast and trunkless legs of stone / Stand in the desert. Near them, on the sand, / Half sunk, a shattered visage lies, whose frown, / And wrinkled lip, and sneer of cold command... / And on the pedestal these words appear: / “My name is Ozymandias, king of kings: / Look on my works, ye Mighty, and despair!” / Nothing besides remains. Round the decay / Of that colossal wreck, boundless and bare / The lone and level sands stretch far away.[^4]
 
 Thus most fundamentally, one’s “immortality” rests on the acclaim and recognition by others. Memory cannot be forced, and immortality is not something won by mere dictate or design.
 
-Surely God would not have created such a being as man, with an ability to grasp the infinite, to exist only for a day! No, no, man was made for immortality. 
-
-<div style="text-align: right">—ABRAHAM LINCOLN</div>
-
 <br/>
 <img src="/images/vol-9-issue-4/enternity/Egyptian_Sulpture.jpg">
-Percy Bysshe Shelley was inspired by the imminent arrival of this colossal fractured statue of the Egyptian Pharaoh Ramesses II (image via Wikimedia Commons([^5]) in London to write his poem "Ozymandias" in 1818. The statue was acquired by the British Museum and remains a centrepiece of the museum.[^6]
+Percy Bysshe Shelley was inspired by the imminent arrival of this colossal fractured statue of the Egyptian Pharaoh Ramesses II (<i>image via Wikimedia Commons</i>[^5]) in London to write his poem "Ozymandias" in 1818. The statue was acquired by the British Museum and remains a centrepiece of the museum.[^6]
 
 #### **Archiving and Immortality**
 
