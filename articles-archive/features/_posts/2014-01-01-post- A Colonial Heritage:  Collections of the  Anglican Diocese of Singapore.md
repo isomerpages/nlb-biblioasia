@@ -64,6 +64,26 @@ First published as the <i>Singapore Diocesan Magazine</i> in November 1910,[^6] 
 <br><br>
 <img style="width:50%" src="/images/vol-9-issue-4/colonial/singapore_diocesan_magazine1.jpg">Cover page of the first issue of the Singapore Diocesan Magazine. <i>Courtesy of the Archives of the Anglican Diocese of Singapore</i>.</span>
 
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> 
+<b>Brief History of the Anglican Church in Southeast Asia</b>
+<br><br>
+<b>1786–1814</b>: The British annexed Penang in 1786 and established the Anglican Church through the EIC in the Malay Peninsula.
+<br><br>
+<b>1814–1869</b>: The Malayan chaplaincies of the Straits Settlements – Penang, Malacca and Singapore – come under the jurisdiction of the Bishop of Calcutta.
+<br><br>
+<b>1869–1881</b>: Singapore and the rest of the Malayan chaplaincies of the Straits Settlements are placed under the jurisdiction of the Diocese of Singapore, Labuan and Sarawak.
+<br><br>
+<b>1881–1908</b>: A United Diocese of Singapore, Labuan and Sarawak is formed with St Andrew’s Church in Singapore being made the Cathedral Church of the newly established Diocese.
+<br><br>
+<b>1908–1959</b>: The Diocese of Singapore becomes a separate entity.
+<br><br>
+<b>1960–1969</b>: The Diocese of Singapore and Malaya is formed.
+<br><br>
+<b>1970</b>: With the separation of Singapore from Malaysia, the Diocese of Singapore becomes a geographically distinct Diocese.
+<br><br>
+<b>1996</b>: The establishment of the Province of South East Asia sees Bishop Moses Tay from Singapore serving as the first Archbishop of the Province. The province of South East Asia covers the Dioceses of Kuchin, Sabah, Singapore and West Malaysia.
+<br><br>
+<img src="/images/vol-9-issue-4/colonial/cathedral.jpg" style="width:70%;">Caption: (Left to right) The front cover of the January 1937 issue of The Courier can be found in the holdings of the Anglican Archives;[^9] Letters of Patent to the Straits Settlements in the 33rd year of HM Queen Victoria (1869) and its accompanying seal. All rights reserved, National Library Board.</span>
 
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> 
 <b>ST ANDREW'S CATHEDRAL</b>
