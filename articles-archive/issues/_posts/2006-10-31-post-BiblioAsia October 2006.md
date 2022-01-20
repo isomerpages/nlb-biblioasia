@@ -9,24 +9,26 @@ description: ""
 
 **Director's Column**<br>
 
+#### **Features**
+
 **Journey of Faith: Haj Pilgrimage in the Malay Archipelago before the 20th Century**<br>
 
 **Menyelusuri Evolusi Aksara Melayu**<br>
 
 **Portrait of Poetry In Art**<br>
 
-**Monument of Memory and More: The History of Victoria Street**<br>
+**Descendants of Dragons and Fairies: Vietnamese History before French Colonisation**<br>
 
-**This is My Story: Biographies as Research Resources for Chinese Diasporas**<br>
+**Tamil Cinema**<br>
 
-**Snakes & Devil's: A History of the Singapore Grand Prix 1961–1973**<br>
+#### **Exhibition Highlights**
 
-**லீ கொங் சியன் மேற்கோள் நூலகத்தின் தமிழ்ப் பிரிவும் சேவைகளும் **<br>
+**A Brief History of Woodcuts in Singapore**<br>
 
-**“中国资料”专题介绍**<br>
+**The Evolution of Malay Scripts Exhibition (EMAS) Exhibition**<br>
 
-**Turning Information to Knowledge: Researchers Networking Tee@Library**<br>
+#### **News**
 
-**Building an Audience for National Library Programmes**<br>
-
+**LFLA, Seoul 2006**<br>
+**Talk on Intepreting Jihadi Websites**<br>
 **Life Sciences Comes to National Library**<br>
