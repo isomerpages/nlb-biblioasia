@@ -5,7 +5,7 @@ date: 2007-10-01
 layout: post
 description: ""
 ---
-![Alt text for image on Isomer site](/images/covers/ba3-3.jpg)
+![Alt text for image on Isomer site](/images/covers/ba3-3-v2.jpg)
 
 **Director's Column**<br>
 
