@@ -6,18 +6,11 @@ image: /images/vol-9-issue-4/ch/NLB_KSW_Working.jpg
 layout: post
 description: ""
 ---
-
-
-#### 张人凤1940年生曾长期从事继续教育工作现为上海市文史研究馆馆员著有《张元济年谱长编》、《智民之师张元济》、《张元济研究文集》，编有十卷本《张元济全集》
-
-
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-9-issue-4/ch/NLB_KSW_Working.jpg"></div>
 
-Khoo Seok Wan (1874-1941) was a master poet and a key player in the reformist activities of early Singapore. Visit this exhibition to discover a slice of 20th century Singapore through Khoo’s poetry and colourful life.
-
-邱菽园 (1874-1941) 是享誉文坛的新加坡早期诗人，也是 光绪末年维新运动在本地的主要支持者。浪漫的诗意和革新的激情在他身上交织着，谱写出他跌宕起伏的一生。欢迎亲 临本展，借由邱菽园的诗歌和富传奇性的人生，一探新加坡廿世纪初历史。
+张人凤1940年生曾长期从事继续教育工作现为上海市文史研究馆馆员著有《张元济年谱长编》、《智民之师张元济》、《张元济研究文集》，编有十卷本《张元济全集》
 
 #### **In This Second Article by Professor Zhang**
 
