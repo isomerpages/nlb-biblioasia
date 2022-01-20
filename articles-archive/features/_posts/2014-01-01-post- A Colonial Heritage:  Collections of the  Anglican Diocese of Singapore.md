@@ -83,7 +83,7 @@ First published as the <i>Singapore Diocesan Magazine</i> in November 1910,[^6] 
 <br><br>
 <b>1996</b>: The establishment of the Province of South East Asia sees Bishop Moses Tay from Singapore serving as the first Archbishop of the Province. The province of South East Asia covers the Dioceses of Kuchin, Sabah, Singapore and West Malaysia.
 <br><br>
-<img src="/images/vol-9-issue-4/colonial/cathedral.jpg" style="width:70%;">Caption: (Left to right) The front cover of the January 1937 issue of <i>The Courier</i> can be found in the holdings of the Anglican Archives;[^9] Letters of Patent to the Straits Settlements in the 33rd year of HM Queen Victoria (1869) and its accompanying seal. <i>All rights reserved, National Library Board</i>.</span>
+<img src="/images/vol-9-issue-4/colonial/anglican_church.png" style="width:90%;">Caption: (Left to right) The front cover of the January 1937 issue of <i>The Courier</i> can be found in the holdings of the Anglican Archives;[^9] Letters of Patent to the Straits Settlements in the 33rd year of HM Queen Victoria (1869) and its accompanying seal. <i>All rights reserved, National Library Board</i>.</span>
 
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> 
 <b>ST ANDREW'S CATHEDRAL</b>
