@@ -6,7 +6,6 @@ image: /images/vol-10-issue-1/folktales/acl_collection.jpg
 layout: post
 description: ""
 ---
-
 #### The Asian Children’s Literature collection at Woodlands Regional Library has some of the oldest and rarest children’s books from Asia. **Lynn Chua** highlights these treasures.
 
 <div style="background-color: white;">
@@ -58,7 +57,7 @@ Another example of a handmade book is <i>Princess Meera</i>. Published in 1963, 
 
 llustrations of Japanese literature typically feature woodblock colour-printing called <i>ukiyo-e</i>, one of the most famous traditional Japanese art forms.
 
-The beauty of woodblock prints can be seen in <i>Otogi-Banashi</i>, a bilingual title packaged as an old-style toy book, which combines concepts of learning with play and serves an educational toy for children as well. Relatively few specimens in good condition exist today as, in many cases, these toy books were literally read to pieces.[^1]
+The beauty of woodblock prints can be seen in <i>Otogi-Banashi</i>, a bilingual title packaged as an old-style toy book, which combines concepts of learning with play and serves as an educational toy for children as well. Relatively few specimens in good condition exist today as, in many cases, these toy books were literally read to pieces.[^1]
 
 The craft of toy books were originally created as playthings for Japanese children. Three Japanese folktales are featured in this volume: <i>The Old Man Who Makes the Flowers Bloom, Momotaro</i> and <i>KachiKachi Mountain</i>. The binding and outer slipcover for this particular volume is made of <i>chiyogami</i>, a traditional Japanese paper characterised by its hand-stencilled and block-printed patterns. 
 
@@ -90,7 +89,7 @@ Often featured in flight with his expansive wings spanning entire two-page sprea
 <div style="background-color: white;">
 <br/>
 <img style="width:70%" src="/images/vol-10-issue-1/folktales/Three_of_Keizaburo_Tejima.jpg">
-Three of Keizaburo Tejima’s books from the Asian Children’s Literature collection – <i>Owl Lake, Woodpecker Forest</i> and <i>Fox’s Dream</i>. One of Tejima’s purposes was to transport the reader to observe the wildlife of Hokkaido, his birthplace, and to showcase the island’s natural beauty through his works. He used a tinted woodblock technique which he sometimes supplemented with brush-on paint. This traditional form allows for a good deal of texture in solid blocks of colour as well as very strong, bold lines.</div>
+Three of Keizaburo Tejima’s books from the Asian Children’s Literature collection – <i>Owl Lake, Woodpecker Forest</i> and <i>Fox’s Dream</i>. One of Tejima’s purposes was to transport the reader to Hokkaido, his birthplace, to observe the wildlife and to showcase the island’s natural beauty through his works. He used a tinted woodblock technique which he sometimes supplemented with brush-on paint. This traditional form allows for a good deal of texture in solid blocks of colour as well as very strong, bold lines.</div>
 
 #### **China, Bookbinding and Papercuts**
 
