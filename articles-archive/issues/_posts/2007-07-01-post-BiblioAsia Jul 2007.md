@@ -9,24 +9,16 @@ description: ""
 
 **Director's Column**<br>
 
-**Harun Aminurrashid**<br>
+**Harun Aminurrashid**<br>[(PDF)](/files/pdf/vol-3/issue-2/v3-issue2_Aminurrashid.pdf)
 
-**Tapping History**<br>
+**Tapping History**<br>[(PDF)](/files/pdf/vol-3/issue-2/v3-issue2_TappingHistory.pdf)
 
-**The Access to Learning Award: Improving Lives Through Greater Access to Information Through Technology**<br>
+**The Access to Learning Award: Improving Lives Through Greater Access to Information Through Technology**<br>[(PDF)](/files/pdf/vol-3/issue-2/v3-issue2_LearningAward.pdf)
 
-**Chinese Article**<br>
+**Chinese Article**<br>[(PDF)](/files/pdf/vol-3/issue-2/v3-issue2_Chinese.pdf)
 
-**Creating the Right Environment: Poster Collection at the Lee Kong Chian Reference Library**<br>
+**Creating the Right Environment: Poster Collection at the Lee Kong Chian Reference Library**<br>[(PDF)](/files/pdf/vol-3/issue-2/v3-issue2_PosterCollection.pdf)
 
-**Early Maps of Singapore**<br>
+**Early Maps of Singapore**<br>[(PDF)](/files/pdf/vol-3/issue-2/v3-issue2_EarlyMaps.pdf)
 
-**Publications by the National Library Board**<br>
-
-**Managing Regional Change: Singapore in a Larger Asia**<br>
-
-**The National Library Board and Raffles Institution Sign a Memorandum of Understanding**<br>
-
-**Singapore International Story Telling Festival**<br>
-
-**Conferences by the National Library Board**<br>
+**News**<br>[(PDF)](/files/pdf/vol-3/issue-2/v3-issue2_News.pdf)
