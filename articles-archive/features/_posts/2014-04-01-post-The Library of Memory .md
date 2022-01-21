@@ -79,14 +79,14 @@ Then I found Albert Camus’ <i>The Myth of Sisyphus</i>; it had a salmon-pink d
 
 I went to the catalogue and tracked down more Camus. <i>The Outsider</i> was in the fiction section, <i>The Rebel</i> in philosophy, <i>Lyrical and Critical Essays</i> in the French literature section. This reflects the challenge of classification but also underscores the physical act of reading, the routes you take to get from book to book. Like <i>The Myth of Sisyphus, Essays</i> was plain and austere in appearance, with just the letters in stark relief. I have since bought a pre-read paperback copy of it in Thessaloniki in a bookstore of mostly Greek books, a cover with a portrait of Camus in discussion, leaning forward with his penetrating gaze and hands spread to underscore a point. From these essays, especially the ones set in Algiers, I derived a sense of stoic calm, even joy, as I struggled in my youthful dark night. The tenet “There is no love of life without despair of it” has been a shaping belief.
 
-In <i>Time Regained</i>, Marcel Proust remarks of the relationship between reading and memory:
-
-If, ever in thought, I take up <i>François le Champi</i> in the library, immediately a child rises within me and replaces me, who alone has the right to read that title <i>François le Champi</i> and who reads it as he read it then with the same impression of the weather out in the garden, with the same old dreams about countries and life, the same anguish of the morrow.
-
 <div style="background-color: white;">
 <br/>
 <img style="width:70%" src="/images/vol-10-issue-1/library/franch_nobel.jpg">
 The writings of French Nobel laureate author Albert Camus (1913–1960), especially <i>The Myth of Sisyphus</i>, made a deep impression on Boey Kim Cheng during his formative years. It spurred him to read several of Camus’ other books. Left: <i>Portrait from New York World-Telegram and the Sun Newspaper Photograph Collection, 1957.</i> Right: <i>Cover image all rights reserved, Penguin, London, 2000.</i></div>
+
+In <i>Time Regained</i>, Marcel Proust remarks of the relationship between reading and memory:
+
+If, ever in thought, I take up <i>François le Champi</i> in the library, immediately a child rises within me and replaces me, who alone has the right to read that title <i>François le Champi</i> and who reads it as he read it then with the same impression of the weather out in the garden, with the same old dreams about countries and life, the same anguish of the morrow.
 
 I remember reading Nietzsche’s <i>The Birth of Tragedy</i> and pondering his insights into Wagner and then going upstairs to the audio-visual section of the Lee Kong Chian Reference Library to listen to <i>Parsifal and the Ring Cycle</i>. I started alternating between the fan-cooled Adult Section and the air-conditioned Reference Library. I sifted the catalogue of the audio-visual section and filled up request slips for vinyl treasures. The librarian would direct me to a listening booth and go into a backroom where the records were stored. I had discovered Mahler at the British Council Library opposite Clifford Pier, and here at the National Library I listened to his Third Symphony after reading <i>Thus Spake Zarathustra</i>. It was a heady mix, and for days something akin to delirium possessed me, the secret truth of Nietzsche’s “Midnight Song” scored deeply in Mahler’s notes. But there was also the anxiety that had been accumulating since I had started reading Keats, the fear that I was taking a path less-travelled and the way ahead was fraught with uncertainty and pain.
 
