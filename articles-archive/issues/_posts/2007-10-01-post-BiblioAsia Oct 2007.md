@@ -17,6 +17,6 @@ description: ""
 
 **Chinese Article**<br>[(PDF)](/files/pdf/vol-3/issue-3/v3-issue%203_Chinese.pdf)
 
-**Tamil Article**<br>[(PDF)](/files/pdf/vol-3/issue-3/v3-issue3_Tamil2.pdf)
+**Tamil Article 2**<br>[(PDF)](/files/pdf/vol-3/issue-3/v3-issue3_Tamil2.pdf)
 
 **News**<br>[(PDF)](/files/pdf/vol-3/issue-3/v3-issue%203_News.pdf)
