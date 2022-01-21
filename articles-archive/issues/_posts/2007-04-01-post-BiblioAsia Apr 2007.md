@@ -9,14 +9,14 @@ description: ""
 
 **Director's Column**<br>
 
-**Storm in Shuang Lin**<br>
+**Storm in Shuang Lin**<br>[(PDF)](/files/pdf/vol-3/issue-1/v3-issue1_ShuangLinStorm.pdf)
 
-**Educating Malayan Gentlemen**<br>
+**Educating Malayan Gentlemen**<br>[(PDF)](/files/pdf/vol-3/issue-1/v3-issue1_EducatingMalayan.pdf)
 
-**Tamil Article**<br>
+**சிங்கப்பூர்த் தமிழர்களின் கலாச்சாரத்தில் விழாக்கள்**<br>[(PDF)](/files/pdf/vol-3/issue-1/v3-issue1_Tamil.pdf)
 
-**Money- Lending: A Short History**<br>
+**Money-Lending: A Short History**<br>[(PDF)](/files/pdf/vol-3/issue-1/v3-issue1_MoneyLending.pdf)
 
-**Digital Archiving: Storing For the Future**<br>
+**Digital Archiving: Storing For the Future**<br>[(PDF)](/files/pdf/vol-3/issue-1/v3-issue1_DigitalArchiving.pdf)
 
-**Library Association of Singapore Conference Research Collaboration with NTU Aksara: The Passage of Malay Scripts Exhibition NLB, Asian Film Archive sign MOU**<br>
+**News**<br>[(PDF)](/files/pdf/vol-3/issue-1/v3-issue1_News.pdf)
