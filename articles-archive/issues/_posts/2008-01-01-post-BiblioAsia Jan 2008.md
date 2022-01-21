@@ -22,17 +22,5 @@ Photography in Early Singapore c.1840–1860**<br>[(PDF)](/files/pdf/vol-3/issue
 
 **Hikayat Abdullah**<br>[(PDF)](/files/pdf/vol-3/issue-4/v3-issue4_HikayatAbdullah.pdf)
 
-#### **News**
+**News**
 [(PDF)](/files/pdf/vol-3/issue-4/v3-issue%204_News.pdf)
-
-**KaalaChakra (‘Wheel of Time’) Exhibition on Early Indian Influences in Southeast Asia 17 Nov 2007 – 16 May 2008**<br>
-
-**National Library Board and Public Utilities Board to Develop Resources on Water at Library**<br>
-
-**Get Inspired and Achieve More!**<br>
-
-**Digital A to Z Databases: A is for Ancient, Art and Asia!**<br>
-
-**Donors Gallery**<br>
-
-**IFLA International Newspaper Conference 2008**<br>
