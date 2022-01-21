@@ -22,5 +22,5 @@ Photography in Early Singapore c.1840–1860**<br>[(PDF)](/files/pdf/vol-3/issue
 
 **Hikayat Abdullah**<br>[(PDF)](/files/pdf/vol-3/issue-4/v3-issue4_HikayatAbdullah.pdf)
 
-**News**
+**News**<br>
 [(PDF)](/files/pdf/vol-3/issue-4/v3-issue%204_News.pdf)
