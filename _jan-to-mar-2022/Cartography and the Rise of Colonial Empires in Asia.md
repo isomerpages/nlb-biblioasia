@@ -151,7 +151,7 @@ The exhibition features over 60 cartographic treasures from institutions in Fran
 <br><br>
 The exhibition is open from 10 am to 9 pm daily, except on public holidays. Admission is free.
 <br><br>
-As an accompaniment to the exhibition, a book with the same title has been published. It is written by curators Pierre Singavélou and Fabrice Argounès, with inputs from the National Library’s curatorial team. <i>Mapping the World: Perspectives from Asian Cartography</i> is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=205545090">Call nos. RSING 526.095 SIN and SING 526.095 SIN</a>) <br><br>
+As an accompaniment to the exhibition, a book with the same title has been published. It is written by curators Pierre Singavélou and Fabrice Argounès, with inputs from the National Library’s curatorial team. <i>Mapping the World: Perspectives from Asian Cartography</i> is available for download on [BookSG](https://eresources.nlb.gov.sg/printheritage/detail/90d85fba-f1a9-4456-b675-37335ddf7865.aspx?s=mapping%20world) and for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=205545090">Call nos. RSING 526.095 SIN and SING 526.095 SIN</a>) <br><br>
 <img src="/images/vol-17-issue-4/cartography/10-Cover.png">
 </div>
 	
