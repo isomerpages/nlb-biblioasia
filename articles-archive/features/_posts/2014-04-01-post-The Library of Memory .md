@@ -6,7 +6,6 @@ image: /images/vol-10-issue-1/library/old_National_Library.jpg
 layout: post
 description: ""
 ---
-
 #### **Boey Kim Cheng**’s memories of Singapore are closely tied to his recollections of reading and the old red-bricked National Library. Here, he remembers his love affair with the library, with words and with books.
 
 <div style="background-color: white;">
@@ -53,7 +52,6 @@ A librarian teaching young patrons how to use the catalogue in 1965. <i>All righ
 The building, though unassuming in appearance and size, commanded attention and respect. Next to the grander domed National Museum, facing the Edwardian-style MPH building and the mock Venetian-Renaissance Stamford House up the road, it looked modern, and was criticised for being “out of character” and “forbidding.” But its exposed bricks gave it an earthy look, their various shades of red exuding warmth and depth; the medley of rectangle and square art deco white trim windows with jambs extending beyond the bricks and the rectilinear planes made it an honest, elegant and dignified edifice.
 
 <div style="background-color: white;">
-<br/>
 <img style="width:70%" src="/images/vol-10-issue-1/library/librarian_stamping.jpg">
 A librarian stamping the due date on a book at the old National Library in 1966. <i>All rights reserved. National Library Board Singapore, 2014.</i></div>
 
