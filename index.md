@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: ""
           description: From shipwrecks to cookbooks, this issue is a must-read!
-          url: /vol-17/issue-4/jan-to-mar-2022/
+          url: /vol-17/issue-4/jan-mar-2022/
       button: Read the current issue
       url: /vol-17/issue-4/jan-mar-2022/
   - infopic:
