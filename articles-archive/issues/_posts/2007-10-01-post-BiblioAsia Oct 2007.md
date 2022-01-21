@@ -9,28 +9,14 @@ description: ""
 
 **Director's Column**<br>
 
-**Indian Migration into Malaya and Singapore During the British Period**<br>
+**Indian Migration into Malaya and Singapore During the British Period**<br>[(PDF)](/files/pdf/vol-3/issue-3/v3-issue3_IndianMigration.pdf)
 
-**A Historical Review of the Pre-War Chinese Curriculum and Textbooks Used in Singapore: Pages from a Community in Transition**<br>
+**A Historical Review of the Pre-War Chinese Curriculum and Textbooks Used in Singapore: Pages from a Community in Transition**<br>[(PDF)](/files/pdf/vol-3/issue-3/v3-issue3_HistoricalReview.pdf)
 
-**Chinese Articles**<br>
+**Tamil Article 1**<br>[(PDF)](/files/pdf/vol-3/issue-3/v3-issue3_Tamil1.pdf)
 
-**Tamil Article**<br>
+**Chinese Article**<br>[(PDF)](/files/pdf/vol-3/issue-3/v3-issue%203_Chinese.pdf)
 
-**The Library in November**<br>
+**Tamil Article**<br>[(PDF)](/files/pdf/vol-3/issue-3/v3-issue3_Tamil2.pdf)
 
-**KaalaChakra (Wheel of Time) Exhibition on the Early Indian Influences in Southeast Asia**<br>
- 
-**National Library Celebrates 3.5 Million Visitors**<br>
-
-**Plugging into the Business World**<br>
-
-**The National Library Board and S. Rajaratnam School of International Studies Form a Strategic Partnership in Terrorism Informatics and Information Archival**<br>
-
-**Past “Times” Move into the Future**<br>
-
-**Preserving Your School’s Published Heritage**<br>
-
-**Unveiling the Collaborative Reference Network Services**<br>
-
-**Lee Kong Chian Research Fellowship Series: Research Fellows 2007 **<br>
+**News**<br>[(PDF)](/files/pdf/vol-3/issue-3/v3-issue%203_News.pdf)
