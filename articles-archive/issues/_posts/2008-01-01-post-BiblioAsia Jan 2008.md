@@ -22,6 +22,8 @@ Photography in Early Singapore c.1840–1860**<br>
 
 **Hikayat Abdullah**<br>
 
+#### **News**
+
 **KaalaChakra (‘Wheel of Time’) Exhibition on Early Indian Influences in Southeast Asia 17 Nov 2007 – 16 May 2008**<br>
 
 **National Library Board and Public Utilities Board to Develop Resources on Water at Library**<br>
