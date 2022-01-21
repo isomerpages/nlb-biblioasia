@@ -94,7 +94,7 @@ I’ve said it a thousand times / you deceived my grandparents totally / you sei
 
 The questioning of history by this mad man reminds us of the weapons of the weak in their confrontation with the dominant power. The fight may be futile, but the sentiment reflects the angst of humiliation and the struggle to resist it. The weak may have no power to challenge authority, except with words of affirmation of their dignity and rights. Thus the mad man’s curse on the two colonial figures (Raffles and William Farquhar) is the objection to history by the very people who have been denied in history. 
 
-Dosamu tujuh turunan kusumpah terus / kau membawa Faquhar dan Lord Minto / siasatmu halus. Membuka pintu kotaku / pedagang b u r u h p e m i m p i n m e n a m b a h kantung / membangun Temasek menjadi Singapura / masuk sama penipu perompak pembunuh / aku sekarang tinggal tulang dan gigi cuma / kusumpah tujuh turunanmu tanpa tangguh![^15]
+Dosamu tujuh turunan kusumpah terus / kau membawa Faquhar dan Lord Minto / siasatmu halus. Membuka pintu kotaku / pedagang buruh pemimpin menambah kantung / membangun Temasek menjadi Singapura / masuk sama penipu perompak pembunuh / aku sekarang tinggal tulang dan gigi cuma / kusumpah tujuh turunanmu tanpa tangguh![^15]
 
 Your sins for seven generations I put a curse on / you brought with you Farquhar and Lord Minto / your intelligence was subtle. By opening my city doors / traders, labourers, leaders filled up their pockets / they developed Temasik into Singapore / swindlers, robbers, murderers all entered too / I’m now left with only bones and teeth / I curse you for seven generations now!
 
