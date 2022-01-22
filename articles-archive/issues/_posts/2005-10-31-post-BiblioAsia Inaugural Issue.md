@@ -5,4 +5,4 @@ date: 2005-10-31
 layout: post
 description: ""
 ---
-<img src="/images/vol-11-issue-4/">
+<img style="width: 350px; height: 450px;" src="/images/inaugural-issue/inaugural.JPG">
