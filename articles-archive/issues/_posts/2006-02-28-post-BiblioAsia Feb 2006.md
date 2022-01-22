@@ -21,12 +21,12 @@ description: ""
 
 **Snakes & Devil's: A History of the Singapore Grand Prix 1961–1973**<br>
 
-**லீ கொங் சியன் மேற்கோள் நூலகத்தின் தமிழ்ப் பிரிவும் சேவைகளும்**<br>
+**லீ கொங் சியன் மேற்கோள் நூலகத்தின் தமிழ்ப் பிரிவும் சேவைகளும்**<br> [(PDF)](/files/pdf/vol-1/issue-2/v1-issue2_Tamil.pdf)
 
-**“中国资料”专题介绍**<br>
+**“中国资料”专题介绍**<br> [(PDF)](/files/pdf/vol-1/issue-2/v1-issue2_Chinese.pdf)
 
-**Turning Information to Knowledge: Researchers Networking Tee@Library**<br>
+**Turning Information to Knowledge: Researchers Networking Tee@Library**<br> [(PDF)](/files/pdf/vol-1/issue-2/v1-issue2_Turning%20Information.pdf)
 
-**Building an Audience for National Library Programmes**<br> 
+**Building an Audience for National Library Programmes**<br> [(PDF)](/files/pdf/vol-1/issue-2/v1-issue2_Building%20Audience.pdf)
 
-**Life Sciences Comes to National Library**<br>
+**Life Sciences Comes to National Library**<br> [(PDF)](/files/pdf/vol-1/issue-2/v1-issue2_Life%20Sciences.pdf)
