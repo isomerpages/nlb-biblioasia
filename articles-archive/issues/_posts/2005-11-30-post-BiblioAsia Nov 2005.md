@@ -11,19 +11,17 @@ description: ""
 
 #### **Features**
 
-**A – Z Guide to the National Library**<br> [(PDF)](/files/pdf/vol-2/issue-1/v2-issue1_NanyangStyle.pdf)
+**A – Z Guide to the National Library**<br> 
 
-**Old Man Yip: Photography Master in Slippers**<br> [(PDF)](/files/pdf/vol-2/issue-1/v2-issue1_OldManYip.pdf)
+**Library's New Home**<br> 
 
-**The Motor Millions – Towards Our Own Car: Six Years to Assembling cars in the Peninsula 1963 – 1968**<br> [(PDF)](/files/pdf/vol-2/issue-1/v2-issue1_MotorMillions.pdf)
+**Our Reference Librarians**<br> 
 
-**陈育崧先生与椰阴馆馆藏**<br> [(PDF)](/files/pdf/vol-2/issue-1/v2-issue1_Chinese.pdf)
+**Continuities and Changes: Singapore as a Port-city over 700 Years**<br> 
 
-**Politics: Science or Art? The Political Science Collection at the Lee Kong Chian Reference Library**<br> [(PDF)](/files/pdf/vol-2/issue-1/v2-issue1_PoliticalScience.pdf)
+**Gems in the Library: The Rare Materials Collections at the Lee Kong Chian Reference Library**<br> 
 
-#### **News** [(PDF)](/files/pdf/vol-2/issue-1/News%20for%20Apr%202006.pdf)
-
-**National Library (NL) Distinguished Readers**<br>
+**李光前参考图书馆的中文馆藏与服务**<br>
 
 **Queen Elizabeth II Tours the National Library NLB – NTU Memorandum of Understanding**<br>
 
