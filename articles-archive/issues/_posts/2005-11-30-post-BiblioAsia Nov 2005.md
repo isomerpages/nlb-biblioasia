@@ -32,3 +32,13 @@ description: ""
 **Design – More than Graphics and Prints**<br>
 
 **Singapore Literary Pioneers Gallery**<br>
+
+**Book Reviews**<br> 
+
+#### **Services**
+
+**Audiovisual Services**<br> 
+
+**Just Ask Services**<br> 
+
+**Publishing and Research Services**<br>
