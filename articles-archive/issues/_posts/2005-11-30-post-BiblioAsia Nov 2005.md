@@ -11,21 +11,21 @@ description: ""
 
 #### **Features**
 
-**A – Z Guide to the National Library**<br> [(PDF)](/files/pdf/vol-1/issue-1/A-Z%20Guide.pdf)
+**A – Z Guide to the National Library**<br> [(PDF)](/files/pdf/vol-1/issue-1/v1-Issue1_A-Z%20Guide.pdf)
 
-**Library's New Home**<br> [(PDF)](/files/pdf/vol-1/issue-1/Library%20New%20Home.pdf)
+**Library's New Home**<br> [(PDF)](/files/pdf/vol-1/issue-1/v1-Issue1_Library%20New%20Home.pdf)
 
 **Our Reference Librarians**<br> 
 
-**Continuities and Changes: Singapore as a Port-city over 700 Years**<br> [(PDF)](/files/pdf/vol-1/issue-1/ContinuitiesChanges.pdf)
+**Continuities and Changes: Singapore as a Port-city over 700 Years**<br> [(PDF)](/files/pdf/vol-1/issue-1/v1-Issue1_ContinuitiesChanges.pdf)
 
-**Gems in the Library: The Rare Materials Collections at the Lee Kong Chian Reference Library**<br> [(PDF)](/files/pdf/vol-1/issue-1/Gems.pdf)
+**Gems in the Library: The Rare Materials Collections at the Lee Kong Chian Reference Library**<br> [(PDF)](/files/pdf/vol-1/issue-1/v1-Issue1_Gems.pdf)
 
-**李光前参考图书馆的中文馆藏与服务**<br> [(PDF)](/files/pdf/vol-1/issue-1/Chinese.pdf)
+**李光前参考图书馆的中文馆藏与服务**<br> [(PDF)](/files/pdf/vol-1/issue-1/v1-Issue1_Chinese.pdf)
 
-**The Library Online**<br> [(PDF)](/files/pdf/vol-1/issue-1/Library%20Online.pdf)
+**The Library Online**<br> [(PDF)](/files/pdf/vol-1/issue-1/v1-Issue1_Library%20Online.pdf)
 
-#### **Programmes@the Library** [(PDF)](/files/pdf/vol-1/issue-1/Programmes%20for%20Nov%202005.pdf)
+#### **Programmes@the Library** [(PDF)](/files/pdf/vol-1/issue-1/v1-Issue1_Programmes%20for%20Nov%202005.pdf)
 
 **Knowledge – The New Currency of the Future**<br>
 
@@ -37,8 +37,8 @@ description: ""
 
 #### **Services**
 
-**Audiovisual Services**<br> [(PDF)](/files/pdf/vol-1/issue-1/AV%20services%20for%20Nov%202005.pdf)
+**Audiovisual Services**<br> [(PDF)](/files/pdf/vol-1/issue-1/v1-Issue1_AV%20services%20for%20Nov%202005.pdf)
 
-**Just Ask Services**<br> [(PDF)](/files/pdf/vol-1/issue-1/Just%20Ask%20services%20for%20Nov%202005.pdf)
+**Just Ask Services**<br> [(PDF)](/files/pdf/vol-1/issue-1/v1-Issue1_Just%20Ask%20services%20for%20Nov%202005.pdf)
 
-**Publishing and Research Services**<br> [(PDF)](/files/pdf/vol-1/issue-1/Publishing%20and%20Research%20Services%20for%20Nov%202005.pdf)
+**Publishing and Research Services**<br> [(PDF)](/files/pdf/vol-1/issue-1/v1-Issue1_Publishing%20and%20Research%20Services%20for%20Nov%202005.pdf)
