@@ -23,10 +23,12 @@ description: ""
 
 **李光前参考图书馆的中文馆藏与服务**<br>
 
-**Queen Elizabeth II Tours the National Library NLB – NTU Memorandum of Understanding**<br>
+**The Library Online**<br>
 
-**Urban Libraries Councils Visits NLB F.A.T.**<br>
+#### **Programmes@the Library**
 
-#### **Services** [(PDF)](/files/pdf/vol-2/issue-1/Microfilm%20service%20for%20Apr%202006.pdf)
+**Knowledge – The New Currency of the Future**<br>
 
-**Microfilm Collection and Services in the Lee Kong Chian Reference Library**<br>
+**Design – More than Graphics and Prints**<br>
+
+**Singapore Literary Pioneers Gallery**<br>
