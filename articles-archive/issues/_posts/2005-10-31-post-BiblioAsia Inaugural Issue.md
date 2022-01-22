@@ -6,3 +6,4 @@ layout: post
 description: ""
 ---
 <img style="width: 350px; height: 450px;" src="/images/inaugural-issue/inaugural.JPG">
+
