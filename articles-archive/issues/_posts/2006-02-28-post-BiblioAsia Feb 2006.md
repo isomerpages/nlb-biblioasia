@@ -9,7 +9,7 @@ description: ""
 
 **Director's Column**<br>
 
-**A Meeting of Minds: Interviews with Mr Michael Keller and Professor Howard Besser**<br>
+**A Meeting of Minds: Interviews with Mr Michael Keller and Professor Howard Besser**<br> 
 
 **A Wealth of Business Resources: The Business Collection at the Lee Kong Chiang Reference Library**<br>
 
@@ -27,6 +27,6 @@ description: ""
 
 **Turning Information to Knowledge: Researchers Networking Tee@Library**<br>
 
-**Building an Audience for National Library Programmes**<br>
+**Building an Audience for National Library Programmes**<br> 
 
 **Life Sciences Comes to National Library**<br>
