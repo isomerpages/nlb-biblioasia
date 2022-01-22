@@ -22,26 +22,14 @@ description: ""
 
 **Celebrating Singapore's 40 Years**<br>
 
+#### **The Singapore Identity:**
+
+**Is it a Futile Chase?**<br> 
+
+**Zheng He in Singapore?**<br>
+
+#### **Bookworm Bonanza**
+
+**The 2005 Singapore Writers' Festival**<br>
 
 
-**李光前参考图书馆的中文馆藏与服务**<br> [(PDF)](/files/pdf/vol-1/issue-1/Chinese.pdf)
-
-**The Library Online**<br> [(PDF)](/files/pdf/vol-1/issue-1/Library%20Online.pdf)
-
-#### **Programmes@the Library** [(PDF)](/files/pdf/vol-1/issue-1/Programmes%20for%20Nov%202005.pdf)
-
-**Knowledge – The New Currency of the Future**<br>
-
-**Design – More than Graphics and Prints**<br>
-
-**Singapore Literary Pioneers Gallery**<br>
-
-**Book Reviews**<br> 
-
-#### **Services**
-
-**Audiovisual Services**<br> [(PDF)](/files/pdf/vol-1/issue-1/AV%20services%20for%20Nov%202005.pdf)
-
-**Just Ask Services**<br> [(PDF)](/files/pdf/vol-1/issue-1/Just%20Ask%20services%20for%20Nov%202005.pdf)
-
-**Publishing and Research Services**<br> [(PDF)](/files/pdf/vol-1/issue-1/Publishing%20and%20Research%20Services%20for%20Nov%202005.pdf)
