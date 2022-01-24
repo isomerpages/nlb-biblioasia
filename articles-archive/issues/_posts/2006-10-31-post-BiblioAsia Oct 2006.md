@@ -15,9 +15,9 @@ description: ""
 
 **Portrait of Poetry in Art**<br> [(PDF)](/files/pdf/vol-2/issue-3/v2-issue3_PortraitsPoetry.pdf)
 
-**Descendants of Dragons and Fairies: Vietnamese History before French Colonisation**<br> [(PDF)](/files/pdf/vol-2/issue-3/v2-issue3_DragonsFairies.pdf)
+**Descendants of Dragons and Fairies: Vietnamese History Before French Colonisation**<br> [(PDF)](/files/pdf/vol-2/issue-3/v2-issue3_DragonsFairies.pdf)
 
-**Tamil Cinema**<br> [(PDF)](/files/pdf/vol-2/issue-3/v2-issue3_Tamil.pdf)
+**தமிழ்த் திரை உலகம் ஒரு பார்வை**<br> [(PDF)](/files/pdf/vol-2/issue-3/v2-issue3_Tamil.pdf)
 
 **A Brief History of Woodcuts in Singapore**<br> [(PDF)](/files/pdf/vol-2/issue-3/v2-issue3_WoodcutsHistory.pdf)
 
