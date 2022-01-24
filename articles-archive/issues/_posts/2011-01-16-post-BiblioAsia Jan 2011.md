@@ -5,7 +5,6 @@ date: 2011-01-16
 layout: post
 description: ""
 ---
-
 ![Alt text for image on Isomer site](/images/covers/ba6-4.jpg)
 
 **Director’s Column**
@@ -28,11 +27,10 @@ description: ""
 **Sastera Melayu Singapura Pasca 1965** <br>
 [(PDF)](/files/pdf/vol-6/issue-4/v6-issue4_SasteraMelayu.pdf)
 
-**新加坡华文文学的 滥觞与进程：馆藏华文文学史料选介** <br>
+**新加坡华文文学的 滥觞与进程: 馆藏华文文学史料选介** <br>
 [(PDF)](/files/pdf/vol-6/issue-4/v6-issue4_ChineseLiterature.pdf)
 
-**Tamil** <br>
-சிங்கப்பூர்த் தேசிய நூல்கள் அரிய நூல்கள் தொகுப்பு
+**சிங்கப்பூர்த் தேசிய நூலகத்தின் அரிய நூல்த் தொகுப்பு** <br>
 [(PDF)](/files/pdf/vol-6/issue-4/v6-issue4_TamilRareMaterials.pdf)
 
 **Keeping Memories Alive: Reflection on the “When Nations Remember” Conference** <br>
