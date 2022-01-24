@@ -41,7 +41,7 @@ The Library Society of China has been encouraging academic exchange, organising 
 From programmes and initiatives targeted at children, to courses and senior-friendly print material for the elderly, and even mobile bus services for those with special needs, the public libraries of Singapore have been tirelessly serving and engaging the residents of the nation.[(PDF)](/files/pdf/vol-9/issue-2/v9-issue2_PublicLibraries.pdf)
 
 **The Way We Were: Evolution of the Singapore Family**<br>
-In conjunction with the launch of the exhibition Roots: Tracing Family History, this essay ruminates on the question of family in Singapore.[(PDF)](/files/pdf/vol-9/issue-2/v9-issue2_SingaporeFamily.pdf)
+In conjunction with the launch of the exhibition “Roots: Tracing Family History”, this essay ruminates on the question of family in Singapore.[(PDF)](/files/pdf/vol-9/issue-2/v9-issue2_SingaporeFamily.pdf)
 
 **Memories in Our Hands: The Singapore Memory Project Exhibition**<br>
 The Singapore Memory Project, spearheaded by the National Library and launched in August 2011, aims to capture the memories of Singapore. Memories take centre stage in this exhibition titled “Hands”. [(PDF)](/files/pdf/vol-9/issue-2/v9-issue2_MemoriesHands.pdf)
