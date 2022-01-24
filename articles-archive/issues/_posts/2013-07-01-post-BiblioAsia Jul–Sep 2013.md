@@ -5,11 +5,13 @@ date: 2013-07-01
 layout: post
 description: ""
 ---
-
-
 ![Alt text for image on Isomer site](/images/covers/ba9-2.jpg)
 
 **Director's Column**
+
+**Message from IFLA President-elect**
+
+**Libraries for Life**<br>[(PDF)](/files/pdf/vol-9/issue-2/v9-issue2_LibrariesforLife.pdf)
 
 **Libraries: A Force to Transform Societies**<br>
 More than just repositories of knowledge, libraries are spaces of innovation and collaboration with the power to change society.[(PDF)](/files/pdf/vol-9/issue-2/v9-issue2_LibrariesSocieties.pdf)
