@@ -15,7 +15,7 @@ description: ""
 
 **Sacred Dance in Singapore**<br>
 
-**Tamil Article**<br>
+**பல துறை நுண்ணறிவுகள் அணுகுமுறை வழிப் (Multiple Intelligences Approach) பேச்சுத்திறனை மேம்படுத்துவோம்!)**<br>
 
 **The “Earliest” And “Firsts”: A Selection From The Treasures of The National Library of Singapore**<br>
 
