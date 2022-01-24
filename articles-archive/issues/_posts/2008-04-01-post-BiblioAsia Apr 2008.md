@@ -9,25 +9,25 @@ description: ""
 
 **Director's Column**<br>
 
-**Reviving The Silk Road and the Role of Singapore**<br>
+**Reviving The Silk Road and the Role of Singapore**<br>[(PDF)](/files/pdf/vol-4/issue-1/v4-issue1_RevivingSilkRoad.pdf)
 
-**Conceiving Ethnic-Dialectal Church Communities: A Mission Growth Strategy From 1888–1935**<br>
+**Conceiving Ethnic-Dialectal Church Communities: A Mission Growth Strategy From 1888–1935**<br>[(PDF)](/files/pdf/vol-4/issue-1/v4-issue1_EthnicDialectal.pdf)
 
 **Eyes on Nature: The Glorious Periods of Picturing Natural History**<br>
 
-**Conceptualizing The Chinese World: Jinan University, Lee Kong Chian, and the Nanyang Connection 1900–1942**<br>
+**Conceptualizing The Chinese World: Jinan University, Lee Kong Chian, and the Nanyang Connection 1900–1942**<br>[(PDF)](/files/pdf/vol-4/issue-1/v4-issue1_JinanUniversity.pdf)
 
-**Hikayat Abdullah**<br>
+**Hikayat Abdullah**<br>[(PDF)](/files/pdf/vol-4/issue-1/v4-issue1_HikayatAbdullah.pdf)
 
-**Edwin Arthur Brown’s Musical Contributions to Singapore**<br>
+**Edwin Arthur Brown’s Musical Contributions to Singapore**<br>[(PDF)](/files/pdf/vol-4/issue-1/v4-issue1_EdwinBrown.pdf)
 
 **南益三厂所见所闻**<br>
 
 **Launch of National Essay Competition on “Singapore: The
-First Ten Years of Independence”**<br>
+First Ten Years of Independence”**<br>[(PDF)](/files/pdf/vol-4/issue-1/v4-issue1_NationalEssay.pdf)
 
-**Launch of “French Corner” at the National Library**<br>
+**Launch of “French Corner” at the National Library**<br>[(PDF)](/files/pdf/vol-4/issue-1/v4-issue1_FrenchCorner.pdf)
 
-**Research Fellows 2008: Lee Kong Chian Research Fellowship Series**<br>
+**Research Fellows 2008: Lee Kong Chian Research Fellowship Series**<br>[(PDF)](/files/pdf/vol-4/issue-1/v4-issue1_ResearchFellows2008.pdf)
 
-**Digital A to Z Databases: B is for Bloom’s and Bloomberg. C is for Camio, China and Credo Reference**<br>
+**Digital A to Z Databases: B is for Bloom’s and Bloomberg. C is for Camio, China and Credo Reference**<br>[(PDF)](/files/pdf/vol-4/issue-1/v4-issue1_DigitalA-Z.pdf)
