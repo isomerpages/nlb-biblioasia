@@ -11,7 +11,7 @@ description: ""
 
 **A Meeting of Minds: Interviews with Mr Michael Keller and Professor Howard Besser**<br> 
 
-**A Wealth of Business Resources: The Business Collection at the Lee Kong Chiang Reference Library**<br>
+**A Wealth of Business Resources: The Business Collection at the Lee Kong Chian Reference Library**<br>
 
 **Supporting Economy, Enriching Knowledge: The Science and Technology Collection at the Lee Kong Chian Reference Library**<br>
 
@@ -25,7 +25,7 @@ description: ""
 
 **“中国资料”专题介绍**<br> [(PDF)](/files/pdf/vol-1/issue-2/v1-issue2_Chinese.pdf)
 
-**Turning Information to Knowledge: Researchers Networking Tee@Library**<br> [(PDF)](/files/pdf/vol-1/issue-2/v1-issue2_Turning%20Information.pdf)
+**Turning Information to Knowledge: Researchers Networking Tea@Library**<br> [(PDF)](/files/pdf/vol-1/issue-2/v1-issue2_Turning%20Information.pdf)
 
 **Building an Audience for National Library Programmes**<br> [(PDF)](/files/pdf/vol-1/issue-2/v1-issue2_Building%20Audience.pdf)
 
