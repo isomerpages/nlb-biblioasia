@@ -5,13 +5,11 @@ date: 2013-01-01
 layout: post
 description: ""
 ---
-
-
 ![Alt text for image on Isomer site](/images/covers/ba8-4.jpg)
 
 **Director's Column**
 
-**Singapore: A City of Campaigns**<br>[(PDF)](/files/pdf/vol-8/issue-4/v8-issue4_SingaporeCampaigns.pdf)
+**Singapore: A City of Campaigns**<br>[Example Filename](/files/pdf/vol-8/issue-4/v8-issue4_CityofCampaigns.pdf)
 
 **Edwin Thumboo - Time-travelling: A Poetry Exhibition**<br>[(PDF)](/files/pdf/vol-8/issue-4/v8-issue4_PoetryExhibition.pdf)
 
