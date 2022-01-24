@@ -69,15 +69,15 @@ Note: When accessing older issues, you may be directed to an archived version.
 
 |                                                              |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![BiblioAsia 9-1 cover](/images/covers/ba9-1.jpg)[Apr–Jun 2013](/vol-9/issue-1/apr-jun-2013/)<br>[Apr–Jun 2013](/files/pdf/Biblioasia Apr-Jun 2013.pdf) | ![BiblioAsia 9-2 cover](/images/covers/ba9-2.jpg)[Jul–Sep 2013](/vol-9/issue-2/jul-sep-2013/)<br>[Jul–Sep 2013](/files/pdf/Biblioasia Jul-Sep 2013.pdf) |
-| ![BiblioAsia 9-3 cover](/images/covers/ba9-3.jpg)[Oct–Dec 2013](/vol-9/issue-3/oct-dec-2013/)<br>[Oct–Dec 2013](/files/pdf/BiblioAsia Oct-Dec 2013.pdf) | ![BiblioAsia 9-4 cover](/images/covers/ba9-4.jpg)[Jan–Mar 2014](/files/pdf/BiblioAsia Jan-Mar 2014.pdf) |
+| ![BiblioAsia 9-1 cover](/images/covers/ba9-1.jpg)<br>[Apr–Jun 2013](/files/pdf/Biblioasia Apr-Jun 2013.pdf) | ![BiblioAsia 9-2 cover](/images/covers/ba9-2.jpg)<br>[Jul–Sep 2013](/files/pdf/Biblioasia Jul-Sep 2013.pdf) |
+| ![BiblioAsia 9-3 cover](/images/covers/ba9-3.jpg)<br>[Oct–Dec 2013](/files/pdf/BiblioAsia Oct-Dec 2013.pdf) | ![BiblioAsia 9-4 cover](/images/covers/ba9-4.jpg)[Jan–Mar 2014](/files/pdf/BiblioAsia Jan-Mar 2014.pdf) |
 
 ####  Volume 8
 
 |                                                              |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![BiblioAsia 8-1 cover](/images/covers/ba8-1.jpg)[May 2012](/vol-8/issue-1/may-2012/)<br>[May 2012](/files/pdf/BiblioAsia May 2012.pdf) | ![BiblioAsia 8-2 cover](/images/covers/ba8-2.jpg)[Jul 2012](/vol-8/issue-2/jul-2012/)<br>[Jul 2012](/files/pdf/BiblioAsia Jul 2012.pdf) |
-| ![BiblioAsia 8-3 cover](/images/covers/ba8-3.jpg)[Oct–Dec 2012](/vol-8/issue-3/oct-dec-2012/)<br>[Oct–Dec 2012](/files/pdf/Biblioasia Oct-Dec 2012.pdf) | ![BiblioAsia 8-4 cover](/images/covers/ba8-4.jpg)[Jan–Mar 2013](/vol-8/issue-4/jan-mar-2013/)<br>[Jan–Mar 2013](/files/pdf/Biblioasia Jan-Mar 2013.pdf) |
+| ![BiblioAsia 8-1 cover](/images/covers/ba8-1.jpg)[May 2012](/vol-8/issue-1/may-2012/)<br>[May 2012](/files/pdf/BiblioAsia May 2012.pdf) | ![BiblioAsia 8-2 cover](/images/covers/ba8-2.jpg)<br>[Jul 2012](/files/pdf/BiblioAsia Jul 2012.pdf) |
+| ![BiblioAsia 8-3 cover](/images/covers/ba8-3.jpg)<br>[Oct–Dec 2012](/files/pdf/Biblioasia Oct-Dec 2012.pdf) | ![BiblioAsia 8-4 cover](/images/covers/ba8-4.jpg)<br>[Jan–Mar 2013](/files/pdf/Biblioasia Jan-Mar 2013.pdf) |
 
 ####  Volume 7
 
@@ -91,7 +91,7 @@ Note: When accessing older issues, you may be directed to an archived version.
 |                                                              |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | ![BiblioAsia 6-1 cover](/images/covers/ba6-1.jpg)[Apr 2010](/vol-6/issue-1/apr-jun-2010/)<br>[Apr 2010](/files/pdf/Biblioasia Apr 2010.pdf) | ![BiblioAsia 6-2 cover](/images/covers/ba6-2.jpg)[Jul 2010](/vol-6/issue-2/jul-sep-2010/)<br>[Jul 2010](/files/pdf/BiblioAsia Jul 2010.pdf) |
-| ![BiblioAsia 6-3 cover](/images/covers/ba6-3.jpg)[Oct 2010](/vol-6/issue-3/oct-dec-2010/)<br>[Oct 2010](/files/pdf/BiblioAsia Oct 2010.pdf) | ![BiblioAsia 6-4 cover](/images/covers/ba6-4.jpg)[Jan 2011](/vol-6/issue-4/jan-mar-2011/)<br>[Jan 2011](/files/pdf/BiblioAsia Jan 2011.pdf) |
+| ![BiblioAsia 6-3 cover](/images/covers/ba6-3.jpg)[Oct 2010](/vol-6/issue-3/oct-dec-2010/)<br>[Oct 2010](/files/pdf/BiblioAsia Oct 2010.pdf) | ![BiblioAsia 6-4 cover](/images/covers/ba6-4.jpg)<br>[Jan 2011](/files/pdf/BiblioAsia Jan 2011.pdf) |
 
 ####  Volume 5
 
