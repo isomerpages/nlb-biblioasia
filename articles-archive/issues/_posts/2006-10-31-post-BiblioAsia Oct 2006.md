@@ -21,6 +21,6 @@ description: ""
 
 **A Brief History of Woodcuts in Singapore**<br> [(PDF)](/files/pdf/vol-2/issue-3/v2-issue3_WoodcutsHistory.pdf)
 
-**The Evolution of Malay Scripts Exhibition (EMAS) Exhibition**<br>
+**The Evolution of Malay Scripts Exhibition (EMAS) Exhibition**<br> [(PDF)](/files/pdf/vol-2/issue-3/v2-issue3_MalayScriptsExhibition.pdf)
 
-**News** [(PDF)](/files/pdf/vol-2/issue-3/News%20for%20Oct%202006.pdf)
+**News** [(PDF)](/files/pdf/vol-2/issue-3/v2-Issue%203_News.pdf)
