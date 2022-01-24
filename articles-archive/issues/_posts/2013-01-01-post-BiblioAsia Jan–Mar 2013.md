@@ -9,7 +9,7 @@ description: ""
 
 **Director's Column**
 
-**Singapore: A City of Campaigns**<br>[Example Filename](/files/pdf/vol-8/issue-4/v8-issue4_CityofCampaigns.pdf)
+**Singapore: A City of Campaigns**<br>[(PDF)](/files/pdf/vol-8/issue-4/v8-issue4_CityofCampaigns.pdf)
 
 **Edwin Thumboo – Time-travelling: A Poetry Exhibition**<br>[(PDF)](/files/pdf/vol-8/issue-4/v8-issue4_PoetryExhibition.pdf)
 
