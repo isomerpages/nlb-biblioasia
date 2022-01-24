@@ -5,8 +5,6 @@ date: 2013-04-01
 layout: post
 description: ""
 ---
-
-
 ![Alt text for image on Isomer site](/images/covers/ba9-1.jpg)
 
 **Director's Column**
@@ -26,6 +24,8 @@ Many have considered the digital age and technological innovation as the death k
 **An introduction to Design, Aesthetics and Ethics of the Built Environment**<br>
 The built environment is a space that reflects the dialogue among private, public and political spheres. Design impacts our lives everyday and good design can transform a mere place to one imbued with life and meaning.[(PDF)](/files/pdf/vol-9/issue-1/v9-issue1_AestheticsEthics.pdf)
 
-**Writing to Print: The Shifting Roles of Malay Scribes in the 19th Century**<br>[(PDF)](/files/pdf/vol-9/issue-1/v9-issue1_MalayScribes.pdf)
+**Writing to Print: The Shifting Roles of Malay Scribes in the 19th Century**<br>
+The practice of copying and re-copying Malay manuscripts can be viewed as a simultaneous act of reading and writing in which the Malay scribe actively interprets and reinterprets the text as he copies. The Malay scribe, therefore, makes the text copies accessible to his intended reader. [(PDF)](/files/pdf/vol-9/issue-1/v9-issue1_MalayScribes.pdf)
 
-**Sumbangsih MAS: An Exhibition on Muhammad Ariff Ahmad**<br>[(PDF)](/files/pdf/vol-9/issue-1/v9-issue1_AriffAhmad.pdf)
+**Sumbangsih MAS: An Exhibition on Muhammad Ariff Ahmad**<br>
+Haji Muhammad Ariff Ahmad is better known by his pen name MAS, which stands for Muhammad Ariff Singapura (Muhammad Ariff of Singapore). He had made significant contributions to Malay language, literature and culture. [(PDF)](/files/pdf/vol-9/issue-1/v9-issue1_AriffAhmad.pdf)
