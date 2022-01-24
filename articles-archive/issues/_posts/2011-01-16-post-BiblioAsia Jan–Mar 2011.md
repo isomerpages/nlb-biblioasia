@@ -5,10 +5,6 @@ date: 2011-01-16
 layout: post
 description: ""
 ---
-
-
-
-
 ![Alt text for image on Isomer site](/images/covers/ba6-4.jpg)
 
 **Director’s Column**
@@ -31,7 +27,7 @@ description: ""
 **Sastera Melayu Singapura Pasca 1965** <br>
 [(PDF)](/files/pdf/vol-6/issue-4/v6-issue4_SasteraMelayu.pdf)
 
-**新加坡华文文学的 滥觞与进程： 馆藏华文文学史料选介** <br>
+**新加坡华文文学的 滥觞与进程：馆藏华文文学史料选介** <br>
 [(PDF)](/files/pdf/vol-6/issue-4/v6-issue4_ChineseLiterature.pdf)
 
 **Tamil** <br>
