@@ -11,17 +11,14 @@ description: ""
 
 **Singapore: A City of Campaigns**<br>[Example Filename](/files/pdf/vol-8/issue-4/v8-issue4_CityofCampaigns.pdf)
 
-**Edwin Thumboo - Time-travelling: A Poetry Exhibition**<br>[(PDF)](/files/pdf/vol-8/issue-4/v8-issue4_PoetryExhibition.pdf)
-
-**PictureSG**<br>
-Digitalizing Our Past, Capturing Our Present, Tagging Our Collective Memories.
+**Edwin Thumboo – Time-travelling: A Poetry Exhibition**<br>[(PDF)](/files/pdf/vol-8/issue-4/v8-issue4_PoetryExhibition.pdf)
 
 **Life in Death: The Case of Keramats in Singapore**<br>
-Keramats (or shrines) have endured the fast-paced changes characteristic of Singapore's urban progress and development. Over the centuries, keramats have obtained a symbolic significance that transcends the vibrant social fabric of multiple religions and cultures.[(PDF)](/files/pdf/vol-8/issue-4/v8-issue4_Keramats.pdf)
+*Keramats* (or shrines) have endured the fast-paced changes characteristic of Singapore's urban progress and development. Over the centuries, *keramats* have obtained a symbolic significance that transcends the vibrant social fabric of multiple religions and cultures.[(PDF)](/files/pdf/vol-8/issue-4/v8-issue4_Keramats.pdf)
 
 **Grave Matters: The Burial Registers in Singapore**<br>[(PDF)](/files/pdf/vol-8/issue-4/v8-issue4_GraveMatters.pdf)
 
-**Digging Bidadari's Past: From Palace to Fist Muslim State Cemetery**<br>[(PDF)](/files/pdf/vol-8/issue-4/v8-issue4_BidadariPast.pdf)
+**Digging Bidadari's Past: From Palace to First Muslim State Cemetery**<br>[(PDF)](/files/pdf/vol-8/issue-4/v8-issue4_BidadariPast.pdf)
 
 **Sago Lane: “Street of the Dead”**<br>
 Among the older generation of Singaporeans who have lived, grown up in or worked in Chinatown during the 1930s to 1960s, death houses bestir grim and depressing memories of the old two- to three- storey red-tiled roof houses that used to line Sago Lane, scattered intermittently among residential dwellings.[(PDF)](/files/pdf/vol-8/issue-4/v8-issue4_SagoLane.pdf)
