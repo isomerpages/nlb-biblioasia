@@ -5,14 +5,11 @@ date: 2006-07-31
 layout: post
 description: ""
 ---
-
 <img style="width: 350px; height: 450px;" src="/images/vol-2-issue-2/Jul06.JPG">
 
 **Director's Column**<br>
 
-#### **Features** 
-
-**Multi-ethnic Enclaves around Middle Road: An Examination of Early Urban Settlement in Singapore**<br> [(PDF)](/files/pdf/vol-2/issue-2/v2-issue2_MultiEthnic.pdf)
+**Multi-ethnic Enclaves Around Middle Road: An Examination of Early Urban Settlement in Singapore**<br> [(PDF)](/files/pdf/vol-2/issue-2/v2-issue2_MultiEthnic.pdf)
 
 **Tongkangs: Hybrid Ships in a Moment of Singapore's Maritime History**<br> [(PDF)](/files/pdf/vol-2/issue-2/v2-issue2_Tongkangs.pdf)
 
@@ -24,7 +21,7 @@ description: ""
 
 **Marching Through the Decades: Singapore on Parade, an Online Exhibition**<br> [(PDF)](/files/pdf/vol-2/issue-2/v2-issue2_MarchingParade.pdf)
 
-#### **News** [(PDF)](/files/pdf/vol-2/issue-2/News%20for%20Jul%202006.pdf)
+###### **News** [(PDF)](/files/pdf/vol-2/issue-2/News%20for%20Jul%202006.pdf)
 
 **Publishing and Legal Deposit for Posterity Lee Kong Chian (LKC) Research Fellows**<br>
 
