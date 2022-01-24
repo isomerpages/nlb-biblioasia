@@ -29,7 +29,7 @@ A study of Yao Zi’s literary language through his novels.
 A brief history of the Chinese book industry in Singapore.
 [(PDF)](/files/pdf/vol-8/issue-1/v8-issue1_ChineseBook.pdf)
 
-**** <br>
+**புதுமைதாசன் எனும் இலக்கியவாதி** <br>
 The literary works and accomplishments of P. Krishnan.
 [(PDF)](/files/pdf/vol-8/issue-1/v8-issue1_Krishnan.pdf)
 

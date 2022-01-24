@@ -19,7 +19,7 @@ From Hedwig Aroozoo’s parodies of 1950s Singapore politics to Angeline Yap’s
 
 During the 1950s, the University of Malaya – now the National University of Singapore (NUS) – was fertile ground for creative expression when Singapore attained self-government and later nationhood. Gripped by rising nationalistic fervour, a group of English-educated students sought to create literary works and to find an appropriate idiom that would express the culture, landscape and identity of the Singapore-Malaya Union. Academics have identified this developmental phase as the beginning of Singapore literature in English.
 
-One of the earliest women poets of this period was Hedwig Anuar <i>nee</i> Aroozoo. As a literature student at the University of Malaya, she contributed one of her early poems <i>“A Rhyme in Time”</i> (later republished as <i>“Fragments of a Wasteland”</i> in 1999) to the <i>Malayan Undergrad</i>, a student journal, in 1951. The poem, which examines colonial Singapore languishing in the embers of the British Empire, was conceptualised as a satirical piece for a class exercise on T. S. Eliot’s “The Waste Land” and later anthologised in <i>Litmus One</i>, the first anthology of Malayan verses in 1958. The poem was singled out by leading Malaysian poet Ee Tiang Hong as a work that “merits a place in any anthology of Malaysian poetry that has a historical import”.[^1]
+One of the earliest women poets of this period was Hedwig Anuar <i>nee</i> Aroozoo. As a literature student at the University of Malaya, she contributed one of her early poems “A Rhyme in Time” (later republished as “Fragments of a Wasteland” in 1999) to the <i>Malayan Undergrad</i>, a student journal, in 1951. The poem, which examines colonial Singapore languishing in the embers of the British Empire, was conceptualised as a satirical piece for a class exercise on T. S. Eliot’s “The Waste Land” and later anthologised in <i>Litmus One</i>, the first anthology of Malayan verses in 1958. The poem was singled out by leading Malaysian poet Ee Tiang Hong as a work that “merits a place in any anthology of Malaysian poetry that has a historical import”.[^1]
 
 After graduation, Aroozoo furthered her studies in London where she co-edited <i>Suara Merdeka</i> the organ of the Malayan Forum. This was a political discussion group formed by Malayan students in London and its alumni include political luminaries such as Goh Keng Swee, Lee Kuan Yew and Toh Chin Chye. Several of Aroozoo’s political parodies appeared in this newsletter. “Love Match” (1956), a satirical piece on the merger of Singapore and the Federation of Malaya, was one of them. This piece drew its inspiration from then Chief Minister Lim Yew Hock’s comment to the press on his return from discussions with Tengku Abdul Rahman on a possible union between Singapore and Malaya. He said, “Well, gentlemen, the love-making has started. As you know yourselves, once you start making love, there are always chances of a marriage.” Aroozoo seized on this analogy of courtship and matrimony to depict the political bartering and complexities of merger. In this poem, Singapore is personified as the lady, and Malaya the gentleman.
 
@@ -131,6 +131,12 @@ Who’s being kept? <br>What, a second establishment! <br>With Woman’s Charter
 
 (Lines 1–8, 30–32; <i>The Gift and Other Poems</i>, pp. 34–35)
 
+Rosaly Puthucheary, sister of former left-wing politician James Puthchucheary and Malaysian poet Susie Puthucheary, was born in Johor Bahru. She came to Singapore in 1974 and is now a retired teacher. To date, she has published six volumes of poetry <i>Pillow Your Dreams</i> (1978); <i>The Fragmented Ego</i> (1978); <i>Dance on His Doorstep</i> (1992); <i>Mirrored Images</i> (2008); <i>Footfalls in the Rain</i> (2008); <i>My Burning Hill</i> (2012); and two novels <i>The Tessellated Path</i> (2009) and <i>In the Wake of Terror</i> (2012). Her poems from the 1970s are short introspective pieces that dwell on the subject of romantic love and self-discovery. Poems, such as “A Door-Mat”, hint at her feminist sentiments.
+
+I will not be your door-mat <br>a piece of convenience <br>waiting at the door, <br>to dust the ash of your desire <br>a rug to throw your weariness <br>crushing the rush of my fibre <br>with your heavy indifference.
+
+(Lines 1–7; <i>Pillow Your Dreams</i>, p. 1)
+
 <div style="background-color: white;">
 <br/>
 <img style="width:70%" src="/images/vol-10-issue-1/womenpoets/dr_nalla_tan.jpg">
@@ -140,12 +146,6 @@ Nalla Tan wore many hats – doctor, academic, writer. She advocated a diverse r
 <br/>
 <img style="width:70%" src="/images/vol-10-issue-1/womenpoets/rosaly.jpg">
 Rosaly Puthucheary has been writing poetry since 1952. She obtained her doctorate in English Literature at the National University of Singapore. <i>Courtesy of Rosaly Puthucheary.</i></div>
-
-Rosaly Puthucheary, sister of former left-wing politician James Puthchucheary and Malaysian poet Susie Puthucheary, was born in Johor Bahru. She came to Singapore in 1974 and is now a retired teacher. To date, she has published six volumes of poetry <i>Pillow Your Dreams</i> (1978); <i>The Fragmented Ego</i> (1978); <i>Dance on His Doorstep</i> (1992); <i>Mirrored Images</i> (2008); <i>Footfalls in the Rain</i> (2008); <i>My Burning Hill</i> (2012); and two novels <i>The Tessellated Path</i> (2009) and <i>In the Wake of Terror</i> (2012). Her poems from the 1970s are short introspective pieces that dwell on the subject of romantic love and self-discovery. Poems, such as “A Door-Mat”, hint at her feminist sentiments.
-
-I will not be your door-mat <br>a piece of convenience <br>waiting at the door, <br>to dust the ash of your desire <br>a rug to throw your weariness <br>crushing the rush of my fibre <br>with your heavy indifference.
-
-(Lines 1–7; <i>Pillow Your Dreams</i>, p. 1)
 
 <div style="background-color: white;">
 <br/>

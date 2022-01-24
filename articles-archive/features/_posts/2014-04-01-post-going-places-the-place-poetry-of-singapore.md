@@ -19,9 +19,9 @@ As The Arts House enters into a new decade and celebrates its 10th anniversary w
 
 Terence Heng provides such an example:
 
-<i>Racks of clothes along racks of clocks, as if ticking away the fashion of the eras. <br>Fortune telling weight machine, I never stepped on one before. Durian sign sale, bicycle underneath no-bicycle sign. <br>Rusty trishaw parked outside renovated lifts. And an old dental surgery somewhere next to an older barber in the HDB. <br>Urn, three joss sticks burnt out sometime ago.</i>
+Racks of clothes along racks of clocks, as if ticking away the fashion of the eras. <br>Fortune telling weight machine, I never stepped on one before. Durian sign sale, bicycle underneath no-bicycle sign. <br>Rusty trishaw parked outside renovated lifts. And an old dental surgery somewhere next to an older barber in the HDB. <br>Urn, three joss sticks burnt out sometime ago.
 
-<div style="text-align: right">– Excerpt from "<i>Postcards from Chinatown</i>", Terence Heng (October 2009)</div>
+<div style="text-align: right">– Excerpt from "Postcards from Chinatown", Terence Heng (October 2009)</div>
 
 Here, the poet expresses a sense of nostalgia for a place that is vastly different between how he remembers it to be and how commercialised it is now. While his descriptions of some of these sights and sounds of Chinatown may be specific to a particular space and time, they nevertheless paint a picture of a place that is familiar to us all. By actively remembering a place for what it once was, or while it still exists, the poet keeps it alive in the national rhetoric. In this interplay between memory and loss, “Going Places” hopes to keep these places alive in spite of their absence from the cityscape. 
 

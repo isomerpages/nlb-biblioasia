@@ -1,11 +1,12 @@
 ---
 title: A Journey into Memory
 date: 2014-04-01
-permalink: /vol-10/issue-1/apr-jun-2014/journey-memory
+permalink: /vol-10/issue-1/apr-jun-2014/meira-chand-opinion
 image: /images/vol-10-issue-1/journey/A_Different_Sky.jpg
 layout: post
 description: ""
 ---
+
 #### **Meira Chand** shares with us her experience writing *A Different Sky* ; what it was like to study the memories of others – and what it was like to make them hers.
 
 <div style="background-color: white;">
