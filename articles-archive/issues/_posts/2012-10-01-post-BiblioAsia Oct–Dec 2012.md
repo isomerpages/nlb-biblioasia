@@ -21,7 +21,7 @@ Founded in 1887, the Methodist Girls' School (MGS) is among the oldest and most 
 Koh Eng Soon shares his personal memories of Rediffusion and the impact it had on the social and recreational life of Singaporeans.[(PDF)](/files/pdf/vol-8/issue-3/v8-issue3_Rediffusion.pdf)
 
 **Saya dan Bulan Bahasa**<br>
-Award-winning author and Malay language expert Muhammad Ariff Ahmad recounts his experience and involvement in the activities of the Malay Language Month since in 1959.  [(PDF)](/files/pdf/vol-8/issue-3/v8-issue3_BulanBahasa.pdf)
+Award-winning author and Malay language expert Muhammad Ariff Ahmad recounts his experience and involvement in the activities of the Malay Language Month since 1959.  [(PDF)](/files/pdf/vol-8/issue-3/v8-issue3_BulanBahasa.pdf)
 
 **In the Family: Family History Resources in the National Library**<br>
 Tracing our family history can be a slow and laborious process. The National Library has various resources to help the researcher complete the journey of discovering one’s roots.[(PDF)](/files/pdf/vol-8/issue-3/v8-issue3_FamilyHistory.pdf)
