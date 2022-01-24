@@ -34,7 +34,7 @@ description: ""
 சிங்கப்பூர்த் தேசிய நூல்கள் அரிய நூல்கள் தொகுப்பு
 [(PDF)](/files/pdf/vol-6/issue-4/v6-issue4_TamilRareMaterials.pdf)
 
-**Keeping Memories Alive: Reflections On The When Nations Remember Conference** <br>
+**Keeping Memories Alive: Reflection on the “When Nations Remember” Conference** <br>
 [(PDF)](/files/pdf/vol-6/issue-4/v6-issue4_MemoriesAlive.pdf)
 
 **青年书局与新加坡国家图书馆 签署数字化合作协议书** <br>
