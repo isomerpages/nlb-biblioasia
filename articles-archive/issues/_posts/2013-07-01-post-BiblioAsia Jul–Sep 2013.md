@@ -16,10 +16,10 @@ description: ""
 **Libraries: A Force to Transform Societies**<br>
 More than just repositories of knowledge, libraries are spaces of innovation and collaboration with the power to change society.[(PDF)](/files/pdf/vol-9/issue-2/v9-issue2_LibrariesSocieties.pdf)
 
-**Chinese Article**<br>
+**建设覆盖城乡的数字图书馆服务体系**<br>
 China: Planning and Implementation of the Digital Library Promotion Project.[(PDF)](/files/pdf/vol-9/issue-2/v9-issue2_ChinaPlanning.pdf)
 
-**Books that Shaped the World**<br>
+**Books That Shaped the World**<br>
 The importance of books lies in its substance and not its form. Whether on page or in pixel, the ideas perpetuated by books will continue to influence people and communities.[(PDF)](/files/pdf/vol-9/issue-2/v9-issue2_BooksWorld.pdf)
 
 **u-Pustaka: The Malaysian Ubiquitous Library Pilot Project**<br>
