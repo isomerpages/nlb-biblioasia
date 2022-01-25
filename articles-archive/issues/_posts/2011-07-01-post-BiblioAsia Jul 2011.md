@@ -25,6 +25,6 @@ description: ""
 
 **The Masuri S.N. Collection: A Legacy Sown in Passion and Persistence**<br>[(PDF)](/files/pdf/vol-7/issue-2/v7-issue2_MasuriSN.pdf)
 
-**From Verdant Grounds to a Whole New Town: Reflections on Serangoon A Place Like No Other**<br>[(PDF)](/files/pdf/vol-7/issue-2/v7-issue2_VerdantGrounds2.pdf)
+**From Verdant Grounds to a Whole New Town: Reflections on Serangoon – A Place Like No Other**<br>[(PDF)](/files/pdf/vol-7/issue-2/v7-issue2_VerdantGrounds2.pdf)
 
 **Asian Content Demands Asian Excellence: At the Asian Festival of Children's Content 2011**<br>[(PDF)](/files/pdf/vol-7/issue-2/v7-issue2_AsianExcellence.pdf)
