@@ -5,9 +5,6 @@ date: 2010-10-01
 layout: post
 description: ""
 ---
-
-
-
 ![Alt text for image on Isomer site](/images/covers/ba6-3.jpg)
 
 **Director’s Column**
@@ -18,7 +15,7 @@ description: ""
 **Education for Living: Epitome of Civics Education?** <br>
 [(PDF)](/files/pdf/vol-6/issue-3/v6-issue3_CivicsEducation.pdf)
 
-**Physical Education and Sports in Singapore Schools (Part II) Developing National Sports Talents** <br>
+**Physical Education and Sports in Singapore Schools (Part II): Developing National Sports Talents** <br>
 [(PDF)](/files/pdf/vol-6/issue-3/v6-issue3_PhysicalEducation.pdf)
 
 **The Educational Movement in Early 20th Century Batavia and its Connections with Singapore and China** <br>
