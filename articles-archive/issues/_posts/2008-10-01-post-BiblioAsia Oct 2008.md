@@ -9,9 +9,9 @@ description: ""
 
 **Director's Column**
 
-**Interactions Between Uplands and Lowlands Through The 'Riverina Exhange Network': An Exploration Of The Historical Cultural Landscape Of Central Vietnam**<br>[(PDF)](/files/pdf/vol-4/issue-3/v4-issue3_UplandsLowlands.pdf)
+**Interactions Between Uplands and Lowlands Through the 'Riverine Exhange Network': An Exploration of the Historical Cultural Landscape of Central Vietnam**<br>[(PDF)](/files/pdf/vol-4/issue-3/v4-issue3_UplandsLowlands.pdf)
 
-**Icon Of Justice: Highlights Of The Life Of David Saul Marshall (1908–1995)**<br>[(PDF)](/files/pdf/vol-4/issue-3/v4-issue3_DavidSaulMarshall.pdf)
+**Icon of Justice: Highlights of the Life of David Saul Marshall (1908–1995)**<br>[(PDF)](/files/pdf/vol-4/issue-3/v4-issue3_DavidSaulMarshall.pdf)
 
 **தமிழ் மக்களின் குலதெய்வ வழிபாடுகள்**<br>[(PDF)](/files/pdf/vol-4/issue-3/v4-issue3_Tamil.pdf)
 
@@ -19,7 +19,9 @@ description: ""
 
 **林光挺文献集简介**<br>[(PDF)](/files/pdf/vol-4/issue-3/v4-issue3_Chinese.pdf)
 
-**The Legacy Of Tan Kah Kee and Lee Kong Chian**<br>[(PDF)](/files/pdf/vol-4/issue-3/v4-issue3_KahKeeKongChian.pdf)
+**The Legacy of Tan Kah Kee and Lee Kong Chian**<br>[(PDF)](/files/pdf/vol-4/issue-3/v4-issue3_KahKeeKongChian.pdf)
+
+**承前启后 继往开来 陈嘉庚与李光前览 中国方面资料收集情况介绍**
 
 **Seminar on “The Science and Art of Green Building Design” and Launch of Architectural Book on the National Library Building**<br>[(PDF)](/files/pdf/vol-4/issue-3/v4-issue3_ScienceArtGreen.pdf)
 
