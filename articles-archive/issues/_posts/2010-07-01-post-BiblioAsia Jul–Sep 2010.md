@@ -24,7 +24,7 @@ description: ""
 **Bibliography, A Treasure Trove on Hadhramis in Southeast Asia Much to Discover** <br>
 [(PDF)](/files/pdf/vol-6/issue-2/v6-issue2_TreasureTrove.pdf)
 
-**Book Review: Bibliography on The Hadhrami Arabs in Southeast Asia With Special Reference to Singapore** <br>
+**Book Review – Bibliography on The Hadhrami Arabs in Southeast Asia With Special Reference to Singapore** <br>
 [(PDF)](/files/pdf/vol-6/issue-2/v6-issue2_HadhramiArabs.pdf)
 
 **Early Tourist Guidebooks: The Illustrated Guide to the Federated Malay States** <br>
