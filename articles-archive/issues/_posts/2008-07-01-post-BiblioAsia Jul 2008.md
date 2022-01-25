@@ -17,11 +17,11 @@ description: ""
 
 **பல துறை நுண்ணறிவுகள் அணுகுமுறை வழிப் (Multiple Intelligences Approach) பேச்சுத்திறனை மேம்படுத்துவோம்!)**<br>[(PDF)](/files/pdf/vol-4/issue-2/v4-issue2_Tamil.pdf)
 
-**The “Earliest” and “Firsts”: A Selection from the Treasures of the National Library of Singapore**<br>
+**The “Earliest” and “Firsts”: A Selection from the Treasures of the National Library of Singapore**<br>[(PDF)](/files/pdf/vol-4/issue-2/v4-issue2_EarliestFirsts2.pdf)
 
 **Hikayat Abdullah**<br>[(PDF)](/files/pdf/vol-4/issue-2/v4-issue2_HikayatAbdullah.pdf)
 
-**Masuri S N**<br>
+**Masuri S N**<br>[(PDF)](/files/pdf/vol-4/issue-2/v4-issue2_MasuriSN2.pdf)
 
 **Singapore as a Centre for Asian Children’s Books: The Asian Children’s Collection at the Lee Kong Chian Reference Library**<br>[(PDF)](/files/pdf/vol-4/issue-2/v4-issue2_AsianChildrenBooks.pdf)
 
