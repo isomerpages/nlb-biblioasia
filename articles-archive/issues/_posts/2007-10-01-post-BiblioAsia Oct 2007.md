@@ -11,12 +11,12 @@ description: ""
 
 **Indian Migration into Malaya and Singapore During the British Period**<br>[(PDF)](/files/pdf/vol-3/issue-3/v3-issue3_IndianMigration.pdf)
 
-**A Historical Review of the Pre-War Chinese Curriculum and Textbooks Used in Singapore: Pages from a Community in Transition**<br>[(PDF)](/files/pdf/vol-3/issue-3/v3-issue3_HistoricalReview.pdf)
+**A Historical Review of the Pre-war Chinese Curriculum and Textbooks Used in Singapore: Pages from a Community in Transition**<br>[(PDF)](/files/pdf/vol-3/issue-3/v3-issue3_HistoricalReview.pdf)
 
-**Tamil Article 1**<br>[(PDF)](/files/pdf/vol-3/issue-3/v3-issue3_Tamil1.pdf)
+**சோழர் காலக் கோயில்கள்**<br>[(PDF)](/files/pdf/vol-3/issue-3/v3-issue3_Tamil1.pdf)
 
-**Chinese Article**<br>[(PDF)](/files/pdf/vol-3/issue-3/v3-issue%203_Chinese.pdf)
+**借鉴新加坡管理经验建设公共服务型政府**<br>[(PDF)](/files/pdf/vol-3/issue-3/v3-issue%203_Chinese.pdf)
 
-**Tamil Article 2**<br>[(PDF)](/files/pdf/vol-3/issue-3/v3-issue3_Tamil2.pdf)
+**ஆகப்பழைய தமிழ் நூல் – முனாஜாத்து திரட்டு**<br>[(PDF)](/files/pdf/vol-3/issue-3/v3-issue3_Tamil2.pdf)
 
 **News**<br>[(PDF)](/files/pdf/vol-3/issue-3/v3-issue%203_News.pdf)
