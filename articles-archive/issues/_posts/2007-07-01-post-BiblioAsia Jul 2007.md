@@ -15,7 +15,7 @@ description: ""
 
 **The Access to Learning Award: Improving Lives Through Greater Access to Information Through Technology**<br>[(PDF)](/files/pdf/vol-3/issue-2/v3-issue2_LearningAward.pdf)
 
-**Chinese Article**<br>[(PDF)](/files/pdf/vol-3/issue-2/v3-issue2_Chinese.pdf)
+**族群、文化认同从: 华文报纸历史看其与新马华人的关系**<br>[(PDF)](/files/pdf/vol-3/issue-2/v3-issue2_Chinese.pdf)
 
 **Creating the Right Environment: Poster Collection at the Lee Kong Chian Reference Library**<br>[(PDF)](/files/pdf/vol-3/issue-2/v3-issue2_PosterCollection.pdf)
 
