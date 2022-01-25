@@ -23,7 +23,7 @@ description: ""
 
 **The Library Online**<br> [(PDF)](/files/pdf/vol-1/issue-1/v1-Issue1_Library%20Online.pdf)
 
-**Programmes@the Library** [(PDF)](/files/pdf/vol-1/issue-1/v1-Issue1_Programmes%20for%20Nov%202005.pdf)
+**Programmes@the Library** [(PDF)](/files/pdf/vol-1/issue-1/v1-Issue1_Programmes.pdf)
 
 **Audiovisual Services**<br> [(PDF)](/files/pdf/vol-1/issue-1/v1-issue1_AudiovisualServices.pdf)
 
