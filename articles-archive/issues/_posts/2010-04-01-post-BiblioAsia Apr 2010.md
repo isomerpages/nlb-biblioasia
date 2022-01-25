@@ -9,8 +9,7 @@ description: ""
 
 **Director’s Column**
 
-**Tamil Literary Development in Singapore (சிங்கப்பூரில் தமிழ் இலக்கிய வளர்ச்சி)** <br>
-
+**சிங்கப்பூரில் தமிழ் இலக்கிய வளர்ச்சி** <br>
 [(PDF)](/files/pdf/vol-6/issue-1/v6-issue1_TamilLiterary.pdf)
 
 **A Comparative Study of Film Criticism on Singapore Films in Post–1965 Singapore Chinese and English Newspapers and Journals** <br>
