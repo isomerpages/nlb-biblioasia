@@ -17,7 +17,7 @@ description: ""
 **Hadhramaut: Encountering the Familiar in a Far Away Place** <br>
 [(PDF)](/files/pdf/vol-5/issue-4/v5-issue4_Hadhramaut.pdf)
 
-**Keeping the Legacy Alive Chin Mee Chin Coffee & Cake Shop, a Traditional Family-Run Hainanese Coffee Shop Faces the Passing of an Era** <br>
+**Keeping the Legacy Alive: Chin Mee Chin Coffee & Cake Shop, a Traditional Family-run Hainanese Coffee Shop Faces the Passing of an Era** <br>
 [(PDF)](/files/pdf/vol-5/issue-4/v5-issue4_ChinMeeChin.pdf)
 
 **The SGX Collection: Business Heritage Collection — Bridging the Legal Deposit Gap** <br>
@@ -32,8 +32,8 @@ description: ""
 **李金龙捐赠文献介绍** <br>
 [(PDF)](/files/pdf/vol-5/issue-4/v5-issue4_LeeKimLong.pdf)
 
-**Sharing Borders** <br>
+**Book Review – Sharing Borders** <br>
 [(PDF)](/files/pdf/vol-5/issue-4/v5-issue4_SharingBorders.pdf)
 
-**Lee Kong Chian Research Fellow: Dr Julian Davison A Fourth-Generation 'Local'** <br>
+**Lee Kong Chian Research Fellow: Dr Julian Davison** <br>
 [(PDF)](/files/pdf/vol-5/issue-4/v5-issue4_JulianDavidson.pdf)
