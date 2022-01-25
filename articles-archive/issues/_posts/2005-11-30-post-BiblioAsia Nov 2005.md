@@ -25,8 +25,8 @@ description: ""
 
 **Programmes@the Library** [(PDF)](/files/pdf/vol-1/issue-1/v1-Issue1_Programmes%20for%20Nov%202005.pdf)
 
-**Audiovisual Services**<br> [(PDF)]
+**Audiovisual Services**<br> [(PDF)](/files/pdf/vol-1/issue-1/v1-issue1_AudiovisualServices.pdf)
 
-**Just Ask Services**<br> [(PDF)]
+**Just Ask Services**<br> [(PDF)](/files/pdf/vol-1/issue-1/v1-issue1_JustAskServices.pdf)
 
-**Publishing and Research Services**<br> [(PDF)]
+**Publishing and Research Services**<br> [(PDF)](/files/pdf/vol-1/issue-1/v1-issue1_PublishingandResearch.pdf)
