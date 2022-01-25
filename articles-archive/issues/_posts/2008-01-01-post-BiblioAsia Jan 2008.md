@@ -18,7 +18,7 @@ Photography in Early Singapore c.1840–1860**<br>[(PDF)](/files/pdf/vol-3/issue
 
 **新加坡十九世纪华人教育的改革**<br>[(PDF)](/files/pdf/vol-3/issue-4/v3-issue4_EducationReforms_Chinese.pdf)
 
-**Karya Sastera sebagai tapak Ingatan sosial: Mengingati yang lalu pada masa kini sebagai peringatan pada masa depan melalui novel Mail Mau Kawin, Batas Langit dan Atas Nama Cinta**<br>[(PDF)](/files/pdf/vol-3/issue-4/v3-issue4_KaryaSastera.pdf)
+**Karya Sastera Sebagai Tapak Ingatan Sosial: Mengingati yang Lalu Pada Masa Kini Sebagai Peringatan Pada Masa Depan Melalui Novel Mail Mau Kawin, Batas Langit dan Atas Nama Cinta**<br>[(PDF)](/files/pdf/vol-3/issue-4/v3-issue4_KaryaSastera.pdf)
 
 **Hikayat Abdullah**<br>[(PDF)](/files/pdf/vol-3/issue-4/v3-issue4_HikayatAbdullah.pdf)
 
