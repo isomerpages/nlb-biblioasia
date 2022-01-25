@@ -13,7 +13,7 @@ description: ""
 
 **Conceiving Ethnic-Dialectal Church Communities: A Mission Growth Strategy From 1888–1935**<br>[(PDF)](/files/pdf/vol-4/issue-1/v4-issue1_EthnicDialectal.pdf)
 
-**Eyes on Nature: The Glorious Periods of Picturing Natural History**<br>
+**Eyes on Nature: The Glorious Periods of Picturing Natural History**<br>[(PDF)](/files/pdf/vol-4/issue-1/v4-issue1_EyesNature2.pdf)
 
 **Conceptualizing The Chinese World: Jinan University, Lee Kong Chian, and the Nanyang Connection 1900–1942**<br>[(PDF)](/files/pdf/vol-4/issue-1/v4-issue1_JinanUniversity.pdf)
 
@@ -21,7 +21,7 @@ description: ""
 
 **Edwin Arthur Brown’s Musical Contributions to Singapore**<br>[(PDF)](/files/pdf/vol-4/issue-1/v4-issue1_EdwinBrown.pdf)
 
-**南益三厂所见所闻**<br>
+**南益三厂所见所闻**<br>[(PDF)](/files/pdf/vol-4/issue-1/v4-issue1_Chinese2.pdf)
 
 **Launch of National Essay Competition on “Singapore: The
 First Ten Years of Independence”**<br>[(PDF)](/files/pdf/vol-4/issue-1/v4-issue1_NationalEssay.pdf)
