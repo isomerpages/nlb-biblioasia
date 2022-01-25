@@ -15,7 +15,7 @@ description: ""
 
 **Library's New Home**<br> [(PDF)](/files/pdf/vol-1/issue-1/v1-Issue1_Library%20New%20Home.pdf)
 
-**Continuities and Changes: Singapore as a Port-city over 700 Years**<br> [(PDF)](/files/pdf/vol-1/issue-1/v1-Issue1_ContinuitiesChanges.pdf)
+**Continuities and Changes: Singapore as a Port-city Over 700 Years**<br> [(PDF)](/files/pdf/vol-1/issue-1/v1-Issue1_ContinuitiesChanges.pdf)
 
 **Gems in the Library: The Rare Materials Collections at the Lee Kong Chian Reference Library**<br> [(PDF)](/files/pdf/vol-1/issue-1/v1-Issue1_Gems.pdf)
 
