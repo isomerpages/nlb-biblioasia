@@ -17,7 +17,7 @@ description: ""
 
 **Istoria: Celebrating Singapore’s 40 Years**<br> [(PDF)](/files/pdf/inaugural-issue/inaugural_Istoria.pdf)
 
-**The Singapore Identity: Is it a Futile Chase? **<br> [(PDF)](/files/pdf/inaugural-issue/inaugural_Singaporean%20Identity.pdf)
+**The Singapore Identity: Is it a Futile Chase?**<br> [(PDF)](/files/pdf/inaugural-issue/inaugural_Singaporean%20Identity.pdf)
 
 **Zheng He in Singapore?**<br> [(PDF)](/files/pdf/inaugural-issue/inaugural_Zheng%20He.pdf)
 
