@@ -5,22 +5,15 @@ date: 2010-04-01
 layout: post
 description: ""
 ---
-
-
-
-
-
-
-
 ![Alt text for image on Isomer site](/images/covers/ba6-1.jpg)
 
 **Director’s Column**
 
-**Tamil Literary Development in Singapore** <br>
-(Title in Tamil: சிங்கப்பூரில் தமிழ் இலக்கிய வளர்ச்சி)
+**Tamil Literary Development in Singapore (சிங்கப்பூரில் தமிழ் இலக்கிய வளர்ச்சி)** <br>
+
 [(PDF)](/files/pdf/vol-6/issue-1/v6-issue1_TamilLiterary.pdf)
 
-**A Comparative Study of Film Criticism on Singapore Films in post–1965 Singapore Chinese and English Newspapers and Journal** <br>
+**A Comparative Study of Film Criticism on Singapore Films in Post–1965 Singapore Chinese and English Newspapers and Journals** <br>
 [(PDF)](/files/pdf/vol-6/issue-1/v6-issue1_FilmCriticism.pdf)
 
 **Women and Warfare in Malaysia and Singapore, 1941–89** <br>
