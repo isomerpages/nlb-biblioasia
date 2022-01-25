@@ -19,7 +19,9 @@ description: ""
 
 **Drafting A Nation: Memories of Conscription in Singapore**<br>[(PDF)](/files/pdf/vol-7/issue-2/v7-issue2_DraftingNation.pdf)
 
-**Chinese Article**<br>[(PDF)](/files/pdf/vol-7/issue-2/v7-issue2_Chinese.pdf)
+**The Straits Chinese Magazine: A Malayan Voice**
+
+**耕耘半世纪·执着一辈子: 新加坡的音乐创作推手梁荣平**<br>[(PDF)](/files/pdf/vol-7/issue-2/v7-issue2_Chinese.pdf)
 
 **The Masuri S.N. Collection: A Legacy Sown in Passion and Persistence**<br>[(PDF)](/files/pdf/vol-7/issue-2/v7-issue2_MasuriSN.pdf)
 
