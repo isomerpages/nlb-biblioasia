@@ -21,7 +21,7 @@ description: ""
 
 **Marching Through the Decades: Singapore on Parade, an Online Exhibition**<br> [(PDF)](/files/pdf/vol-2/issue-2/v2-issue2_MarchingParade.pdf)
 
-**News** [(PDF)](/files/pdf/vol-2/issue-2/News%20for%20Jul%202006.pdf)
+**News**  [(PDF)](/files/pdf/vol-2/issue-2/v2-issue2_News.pdf)
 
 **Publishing and Legal Deposit for Posterity Lee Kong Chian (LKC) Research Fellows**<br>
 
@@ -31,6 +31,4 @@ description: ""
 
 **Emperor and Empress of Japan Visit the National Library <i>Singapore Honours</i> – An Exhibition**<br>
 
- **Services** [(PDF)](/files/pdf/vol-2/issue-2/SMS%20service%20for%20Jul%202006.pdf)
-
-**SMS Your Enquiry: SMS Reference Service at the National Library**<br>
+**SMS Your Enquiry: SMS Reference Service at the National Library**<br> [(PDF)](/files/pdf/vol-2/issue-2/v2-issue2_SMS.pdf)
