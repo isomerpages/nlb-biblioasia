@@ -15,7 +15,7 @@ description: ""
 
 **சிங்கப்பூர்த் தமிழர்களின் கலாச்சாரத்தில் விழாக்கள்**<br>[(PDF)](/files/pdf/vol-3/issue-1/v3-issue1_Tamil.pdf)
 
-**Money-Lending: A Short History**<br>[(PDF)](/files/pdf/vol-3/issue-1/v3-issue1_MoneyLending.pdf)
+**Money-lending: A Short History**<br>[(PDF)](/files/pdf/vol-3/issue-1/v3-issue1_MoneyLending.pdf)
 
 **Digital Archiving: Storing For the Future**<br>[(PDF)](/files/pdf/vol-3/issue-1/v3-issue1_DigitalArchiving.pdf)
 
