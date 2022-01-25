@@ -11,11 +11,11 @@ description: ""
 
 **Reviving The Silk Road and the Role of Singapore**<br>[(PDF)](/files/pdf/vol-4/issue-1/v4-issue1_RevivingSilkRoad.pdf)
 
-**Conceiving Ethnic-Dialectal Church Communities: A Mission Growth Strategy From 1888–1935**<br>[(PDF)](/files/pdf/vol-4/issue-1/v4-issue1_EthnicDialectal.pdf)
+**Conceiving Ethnic-dialectal Church Communities: A Mission Growth Strategy from 1888–1935**<br>[(PDF)](/files/pdf/vol-4/issue-1/v4-issue1_EthnicDialectal.pdf)
 
 **Eyes on Nature: The Glorious Periods of Picturing Natural History**<br>[(PDF)](/files/pdf/vol-4/issue-1/v4-issue1_EyesNature2.pdf)
 
-**Conceptualizing The Chinese World: Jinan University, Lee Kong Chian, and the Nanyang Connection 1900–1942**<br>[(PDF)](/files/pdf/vol-4/issue-1/v4-issue1_JinanUniversity.pdf)
+**Conceptualizing the Chinese World: Jinan University, Lee Kong Chian, and the Nanyang Connection 1900–1942**<br>[(PDF)](/files/pdf/vol-4/issue-1/v4-issue1_JinanUniversity.pdf)
 
 **Hikayat Abdullah**<br>[(PDF)](/files/pdf/vol-4/issue-1/v4-issue1_HikayatAbdullah.pdf)
 
