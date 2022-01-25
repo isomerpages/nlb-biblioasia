@@ -11,11 +11,11 @@ description: ""
 
 **Of Towchangs and the 'Republic Beard': Dr Lim Boon Keng's Life and Achievements**<br>[(PDF)](/files/pdf/vol-2/issue-4/v2-issue4_TowchangsBeard.pdf)
 
-**'Reading' Contemporary Art: The Singapore Biennale by Roberta Balagopal**<br>[(PDF)](/files/pdf/vol-2/issue-4/v2-issue4_SingaporeBiennale.pdf)
+**'Reading' Contemporary Art: The Singapore Biennale**<br>[(PDF)](/files/pdf/vol-2/issue-4/v2-issue4_SingaporeBiennale.pdf)
 
 **சிங்கப்பூர் இலக்கிய முன்னோடி திரு ந. பழநிவேல**<br>[(PDF)](/files/pdf/vol-2/issue-4/v2-issue4_Tamil.pdf)
 
-**走近传统中医药 - 李光前参考图书馆 "医药保健” 专题**<br>[(PDF)](/files/pdf/vol-2/issue-4/v2-issue4_Chinese2.pdf)
+**走近传统中医药 – 李光前参考图书馆 "医药保健” 专题**<br>[(PDF)](/files/pdf/vol-2/issue-4/v2-issue4_Chinese2.pdf)
 
 **Babas and Nonyas: The Peranakan Chinese in Singapore**<br>[(PDF)](/files/pdf/vol-2/issue-4/v2-issue4_BabasNonyas.pdf)
 
