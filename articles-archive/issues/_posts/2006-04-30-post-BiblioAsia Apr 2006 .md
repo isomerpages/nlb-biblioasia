@@ -19,6 +19,6 @@ description: ""
 
 **Politics: Science or Art? The Political Science Collection at the Lee Kong Chian Reference Library**<br> [(PDF)](/files/pdf/vol-2/issue-1/v2-issue1_PoliticalScience.pdf)
 
- **News** [(PDF)]
+ **News** [(PDF)](/files/pdf/vol-2/issue-1/v2-issue1_News.pdf)
 
-**Microfilm Collection and Services in the Lee Kong Chian Reference Library**<br> [(PDF)]
+**Microfilm Collection and Services in the Lee Kong Chian Reference Library**<br>  [(PDF)](/files/pdf/vol-2/issue-1/v2-issue1_Microfilm.pdf)
