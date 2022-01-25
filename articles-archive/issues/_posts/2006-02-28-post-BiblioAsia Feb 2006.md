@@ -11,7 +11,7 @@ description: ""
 
 **A Meeting of Minds: Interviews with Mr Michael Keller and Professor Howard Besser**<br> [(PDF)](/files/pdf/vol-1/issue-2/v1-issue2_Meeting%20Minds.pdf)
 
-**A Wealth of Business Resources: The Business Collection at the Lee Kong Chian Reference Library**<br>
+**A Wealth of Business Resources: The Business Collection at the Lee Kong Chian Reference Library**<br> [(PDF)](/files/pdf/vol-1/issue-2/v1-issue2_BusinessResources.pdf)
 
 **Supporting Economy, Enriching Knowledge: The Science and Technology Collection at the Lee Kong Chian Reference Library**<br> [(PDF)](/files/pdf/vol-1/issue-2/v1-issue2_Supporting%20Economy.pdf)
 
