@@ -9,7 +9,7 @@ description: ""
 
 **Director's Column**<br>
 
-**Journey of Faith: Haj Pilgrimage in the Malay Archipelago before the 20th Century**<br> [(PDF)](/files/pdf/vol-2/issue-3/v2-issue3_HajPilgrimage.pdf)
+**Journey of Faith: Haj Pilgrimage in the Malay Archipelago Before the 20th Century**<br> [(PDF)](/files/pdf/vol-2/issue-3/v2-issue3_HajPilgrimage.pdf)
 
 **Menyelusuri Evolusi Aksara Melayu**<br> [(PDF)](/files/pdf/vol-2/issue-3/v2-issue3_AksaraMelayu.pdf)
 
