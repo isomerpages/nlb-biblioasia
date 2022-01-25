@@ -9,7 +9,7 @@ description: ""
 
 **Director’s Column**
 
-**An Overview of Singapore’s Education System From 1819 to the 1970s** <br>
+**An Overview of Singapore’s Education System from 1819 to the 1970s** <br>
 [(PDF)](/files/pdf/vol-5/issue-2/v5-issue2_EducationSystem.pdf)
 
 **In Search of the Child: Children’s Books Depicting World War II in Singapore** <br>
@@ -18,7 +18,7 @@ description: ""
 **Journey to the West: Dusty Roads, Stormy Seas and Transcendence** <br>
 [(PDF)](/files/pdf/vol-5/issue-2/v5-issue2_JourneyWest.pdf)
 
-**Why Politicians Don't Stay? Making Sense of Critical Political Events in Post-War Asia** <br>
+**Why Politicians Don't Stay? Making Sense of Critical Political Events in Post-war Asia** <br>
 [(PDF)](/files/pdf/vol-5/issue-2/v5-issue2_CriticalPolitical.pdf)
 
 **Pantun: Sumber Rujukan Sosiobudaya Masyarakat Melayu** <br>
@@ -30,13 +30,13 @@ description: ""
 **邓小平与新加坡经验** <br>
 [(PDF)](/files/pdf/vol-5/issue-2/v5-issue2_Chinese.pdf)
 
-**Book Review: Singapore English Literature** <br>
+**Book Review – Singapore English Literature** <br>
 [(PDF)](/files/pdf/vol-5/issue-2/v5-issue2_EnglishLiterature.pdf)
 
-**Early Travels and Voyages in Southeast Asia Showcase Exhibition** <br>
+**Early Travels and Voyages in Southeast Asia: Showcase Exhibition** <br>
 [(PDF)](/files/pdf/vol-5/issue-2/v5-issue2_TravelsVoyages.pdf)
 
-**Heritage Road Show IV Commemorates 50 Years of Singapore’s Self-Governance** <br>
+**Heritage Road Show IV Commemorates 50 Years of Singapore’s Self-governance** <br>
 [(PDF)](/files/pdf/vol-5/issue-2/V5-issue2_HeritageRoad.pdf)
 
 **Legal Deposit Showcase Heightens Public Awareness** <br>
