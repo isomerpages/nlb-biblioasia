@@ -23,12 +23,10 @@ description: ""
 
 **The Library Online**<br> [(PDF)](/files/pdf/vol-1/issue-1/v1-Issue1_Library%20Online.pdf)
 
-#### **Programmes@the Library** [(PDF)](/files/pdf/vol-1/issue-1/v1-Issue1_Programmes%20for%20Nov%202005.pdf)
+**Programmes@the Library** [(PDF)](/files/pdf/vol-1/issue-1/v1-Issue1_Programmes%20for%20Nov%202005.pdf)
 
-#### **Services**
+**Audiovisual Services**<br> [(PDF)]
 
-**Audiovisual Services**<br> [(PDF)](/files/pdf/vol-1/issue-1/v1-Issue1_AV%20services%20for%20Nov%202005.pdf)
+**Just Ask Services**<br> [(PDF)]
 
-**Just Ask Services**<br> [(PDF)](/files/pdf/vol-1/issue-1/v1-Issue1_Just%20Ask%20services%20for%20Nov%202005.pdf)
-
-**Publishing and Research Services**<br> [(PDF)](/files/pdf/vol-1/issue-1/v1-Issue1_Publishing%20and%20Research%20Services%20for%20Nov%202005.pdf)
+**Publishing and Research Services**<br> [(PDF)]
