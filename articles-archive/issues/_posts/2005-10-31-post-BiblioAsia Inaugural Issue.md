@@ -11,7 +11,7 @@ description: ""
 
 **A Knowledge Hub**<br> [(PDF)](/files/pdf/inaugural-issue/inaugural_Knowledge%20Hub.pdf)
 
-**Services at the Lee Kong Chian Reference Library**<br> [(PDF)] (/files/pdf/inaugural-issue/inaugural_Services%20at%20the%20library.pdf)
+**Services at the Lee Kong Chian Reference Library**<br> [(PDF)](/files/pdf/inaugural-issue/inaugural_Services%20at%20the%20library.pdf)
 
 **Singapore Pages: National Library Board’s Online Heritage Collection**<br> [(PDF)](/files/pdf/inaugural-issue/inaugural_Online%20Heritage.pdf)
 
