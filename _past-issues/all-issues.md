@@ -132,4 +132,4 @@ Note: When accessing older issues, you may be directed to an archived version.
 
 |                                                              |                                                  |
 | :----------------------------------------------------------: | :----------------------------------------------: |
-| ![BiblioAsia inaugural issue cover](/images/covers/ba-inaugural.jpg)[[Inaugural issue]](/inaugural-issue/)<br>[Inaugural issue](/files/pdf/BiblioAsia Inaugural issue.pdf) | ![Blank](/images/covers/placeholdercover-v2.jpg) |
+| ![BiblioAsia inaugural issue cover](/images/covers/ba-inaugural.jpg)[Inaugural issue](/inaugural-issue/)<br>[Inaugural issue](/files/pdf/BiblioAsia Inaugural issue.pdf) | ![Blank](/images/covers/placeholdercover-v2.jpg) |
