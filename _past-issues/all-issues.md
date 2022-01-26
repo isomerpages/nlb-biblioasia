@@ -118,8 +118,8 @@ Note: When accessing older issues, you may be directed to an archived version.
 
 |                                                              |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![BiblioAsia 2-1 cover](/images/covers/ba2-1.jpg)[Apr 2006](/files/pdf/BiblioAsia Apr 2006.pdf) | ![BiblioAsia 2-2 cover](/images/covers/ba2-2.jpg)[Jul 2006](/files/pdf/BiblioAsia Jul 2006.pdf) |
-| ![BiblioAsia 2-3 cover](/images/covers/ba2-3.jpg)[Oct 2006](/files/pdf/BiblioAsia Oct 2006.pdf) | ![BiblioAsia 2-4 cover](/images/covers/ba2-4.jpg)[Jan 2007](/vol-2/issue-4/jan-2007/)<br> [Jan 2007](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx){:target="_blank"} |
+| ![BiblioAsia 2-1 cover](/images/covers/ba2-1.jpg)[Apr 2006](/vol-2/issue-1/apr-2006/)<br>[Apr 2006](/files/pdf/BiblioAsia Apr 2006.pdf) | ![BiblioAsia 2-2 cover](/images/covers/ba2-2.jpg)[Jul 2006](/vol-2/issue-2/jul-2006/)<br>[Jul 2006](/files/pdf/BiblioAsia Jul 2006.pdf) |
+| ![BiblioAsia 2-3 cover](/images/covers/ba2-3.jpg)[Oct 2006](/vol-2/issue-3/oct-2006/)<br>[Oct 2006](/files/pdf/BiblioAsia Oct 2006.pdf) | ![BiblioAsia 2-4 cover](/images/covers/ba2-4.jpg)[Jan 2007](/vol-2/issue-4/jan-2007/)<br> [Jan 2007](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx){:target="_blank"} |
 
 ####  Volume 1
 
