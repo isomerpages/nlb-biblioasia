@@ -125,7 +125,7 @@ Note: When accessing older issues, you may be directed to an archived version.
 
 |                                                              |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![BiblioAsia 1-1 cover](/images/covers/ba1-1.jpg)[Nov 2005](/files/pdf/BiblioAsia Nov 2005.pdf) | ![BiblioAsia 1-2 cover](/images/covers/ba1-2.jpg) [Feb 2006](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx){:target="_blank"} |
+| ![BiblioAsia 1-1 cover](/images/covers/ba1-1.jpg)[Nov 2005](/vol-1/issue-1/nov-2005/)<br>[Nov 2005](/files/pdf/BiblioAsia Nov 2005.pdf) | ![BiblioAsia 1-2 cover](/images/covers/ba1-2.jpg) [Feb 2006](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx){:target="_blank"} |
 
 
 ####  Inaugural issue
