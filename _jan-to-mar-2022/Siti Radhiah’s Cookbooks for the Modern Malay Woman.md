@@ -27,7 +27,7 @@ In 1939, Siti Radhiah and her family moved to Brunei when Harun was transferred 
 
 When the British returned upon Japan’s surrender in 1945, Siti Radhiah’s husband was imprisoned without trial by the British Military Administration, the interim administrator of British Malaya, for 86 days as he was accused of colluding with the Japanese.  
 
-During this time, Siti Radhiah and her children found refuge with the Kedayan, one of the indigenous peoples of Borneo. When her husband was later found not guilty, he was first offered a position as a member of the state executive council for Ulu Yam in Selangor, and then a teaching position in Singapore. He turned down both appointments as he had lost faith in the British colonial authorities and wanted nothing to do with them. In 1946, Siti Radhiah and her family moved to Singapore, where sheand her husband became involved in the writing and publishing industry.[^6] 
+During this time, Siti Radhiah and her children found refuge with the Kedayan, one of the indigenous peoples of Borneo. When her husband was later found not guilty, he was first offered a position as a member of the state executive council for Ulu Yam in Selangor, and then a teaching position in Singapore. He turned down both appointments as he had lost faith in the British colonial authorities and wanted nothing to do with them. In 1946, Siti Radhiah and her family moved to Singapore, where she and her husband became involved in the writing and publishing industry.[^6] 
 
 #### **A Mission to Spread Knowledge**
 
