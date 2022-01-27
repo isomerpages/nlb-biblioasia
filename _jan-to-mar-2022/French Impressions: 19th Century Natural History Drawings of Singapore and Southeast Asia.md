@@ -9,7 +9,7 @@ image: /images/vol-17-issue-4/diard-duvaucel/turtle%20spiny%20BA%20meta%20image.
 date: 2021-12-08
 layout: post
 ---
-#### A little-known collection from 1818 to 1820 commissioned under the watch of two French naturalists sheds light on the early study of the region’s flora and fauna.
+#### A little-known collection from 1818 to 1820 commissioned under the watch of two French naturalists sheds light on the early study of the region’s flora and fauna. 
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/diard-duvaucel/DiardDuvaucel2.jpg)
 <span style="background-color: white; display:block; font-size:1rem; line-height:1.5rem"><i>Diard & Duvaucel: French Natural History Drawings of Singapore and Southeast Asia 1818–1820</i> is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries ([Call nos.: RSING 508.0222 DIA and SING 508.0222 DIA](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695)) and for sale at all major bookstores, including Epigram’s online store at epigrambookshop.sg.</span>
@@ -50,7 +50,7 @@ When Duvaucel was staying in Chandernagor (Chandannagar) in West Bengal, India, 
 #### **Nº 2: Spiny Turtle<br>*Heosemys spinosa***
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/diard-duvaucel/Spiny%20Turtle.jpg)
-“The island of Singapore” or “isle de Singapour” states the annotation on the drawing. This is quite a remarkable statement to make at a time when Singapore had only just entered the public consciousness in Europe because of Raffles and the East India Company. Diard and Duvaucel were in Singapore between January and February as well as May and June 1819, during which time they could have observed the young turtle represented in this drawing. Although no date was written on the paper, this may well have been the first illustration of an animal found in Singapore. The Spiny Turtle is found widely across Southeast Asia, usually in lowland rainforests near rivers or streams. The half-completed aspect of some of drawings, like this example, suggests that the artist (or artists) working in the field with Diard and Duvaucel were under pressure to record time-critical aspects of the animals. This is particularly obvious with the drawing of the Spiny Turtle – the identical left legs could have been added later.
+“The island of Singapore” or “isle de Singapour” states the annotation on the drawing. This is quite a remarkable statement to make at a time when Singapore had only just entered the public consciousness in Europe because of Raffles and the East India Company. Diard and Duvaucel were in Singapore between January and February as well as May and June 1819, during which time they could have observed the young turtle represented in this drawing. Although no date was written on the paper, this may well have been the first illustration of an animal found in Singapore. The Spiny Turtle is found widely across Southeast Asia, usually in lowland rainforests near rivers or streams. The half-completed aspect of some of the drawings, like this example, suggests that the artist (or artists) working in the field with Diard and Duvaucel were under pressure to record time-critical aspects of the animals. This is particularly obvious with the drawing of the Spiny Turtle – the identical left legs could have been added later.
 
 
 #### **Nº 3: Kuhl’s Gliding Gecko<br>*Gekko kuhli***
