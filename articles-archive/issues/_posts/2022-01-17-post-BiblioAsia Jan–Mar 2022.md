@@ -5,7 +5,6 @@ date: 2022-01-17
 layout: post
 description: ""
 ---
-
 Since time immemorial, maps have been used as tools to explore the world and conquer new territories. This issue’s cover story showcases a number of Asian maps from the National Library’s latest exhibition.
 
 <img src="/images/vol-17-issue-4/cover-vol17-issue4.jpg">
@@ -29,7 +28,7 @@ Since time immemorial, maps have been used as tools to explore the world and con
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/wong-din-haan">Wong Din Haan: A Pioneer Educator</a><br>This trailblazer founded the first girls' school in Singapore and was also a firm believer of women's rights. *Patricia Lim* remembers her grandaunt's legacy. 
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/towkays-houses">Towkays at Home</a><br>Mandalay Villa, House of Jade and House of Teo Hoo Lye were owned by prominent members of the Singapore community in the early 20th century. *Yap Jo Lin* takes us on whirlwind tour.
+<a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/towkays-houses">Towkays at Home</a><br>Mandalay Villa, House of Jade and House of Teo Hoo Lye were owned by prominent members of the Singapore community in the early 20th century. *Yap Jo Lin* takes us on a whirlwind tour.
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/siti-radhiah-cookbooks">Siti Radhiah’s Cookbooks for the Modern Malay Woman</a><br>*Toffa Abdul Wahed* pores through Siti Radhiah's cookbooks published in the 1940s and 50s to uncover their contributions to traditional Malay gastronomy and identity. 
 
