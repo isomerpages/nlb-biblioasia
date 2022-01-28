@@ -18,7 +18,26 @@ Over two years, the feeding pro-gramme expanded to include a catering service, f
 
 The return of the British after World War II did not bring immediate relief to Singapore and its people. The delayed return of the British after the sudden surrender of the Japanese resulted in a gaping void. The Malayan Anti-Japanese People’s Army (MPAJA) poured out of the jungles and attempted to establish its authority in Singapore and Malaya — of¬ten violently. Political challenges aside, a critical shortage of rice in Southeast Asia also threatened to undermine British au¬thority by worsening malnutrition and a rampant black market.
 
-The communal feeding programme can be attributed to the recommenda¬tions of the Wages and Cost of Living Committee. In May 1946, an inquiry to re¬view the wages of the clerical and working class was commissioned in response to the rising costs of living, particularly the cost of food. After witnessing the desper¬ate conditions of workers, the committee recommended several interim measures, such as temporary cash allowances, cap¬ping of food prices, the setting up of can¬teens by government departments and employers with the means to do so, and opening “in all large urban areas” pub¬lic restaurants “on the lines of British Restaurants in the United Kingdom.”1 The committee also recommended that the canteens and restaurants “should not 
+The communal feeding programme can be attributed to the recommendations of the Wages and Cost of Living Committee. In May 1946, an inquiry to review the wages of the clerical and working class was commissioned in response to the rising costs of living, particularly the cost of food. After witnessing the desperate conditions of workers, the committee recommended several interim measures, such as temporary cash allowances, capping of food prices, the setting up of canteens by government departments and employers with the means to do so, and opening “in all large urban areas” public restaurants “on the lines of British Restaurants in the United Kingdom.”1 The committee also recommended that the canteens and restaurants “should not be operated under contract but should be run directly by a division of the Welfare Department.”2 
+
+The British concept of subsidised state feeding originated in the early 20th century. An emerging social con-sciousness encouraged the expansion of the state feeding programme, from ini-tially prisoners and the poor to include school-going children and factory work-ers.3 Eventually, this led to the creation of community restaurants — known as National Kitchens during the Great War and British Restaurants during World War II.4 State provision of food not only helped to ration limited foodstuffs, but also raised overall morale during times of war and strife.
+
+#### **THE PEOPLE’S RESTAURANTS**
+
+On 29 June 1946, the first People’s Restaurant opened in a converted godown at Telok Ayer.5 Tan Beng Neo, a Salvation Army volunteer, described the restaurant as an “attap [palm-thatched] shack with barbed wire fencing,” and recalled that they managed to sell two to three thou¬sand meals in two hours.6 The first meal consisted of “rice, pork and vegetables, or rice and fish curry for Muslims, and a mug of iced water.”7 “Nutrition experts” from the King Edward VII College of Medicine also ensured that each meal was “not only tasty, but good.”8 For a paltry 35 cents, the customer received roughly 700 calories of rice, meat and vegetables, or a third of his daily nutritional needs, with coffee or tea.
+
+The Social Welfare Department’s first official report, *Beginnings*, describes the process of buying lunch:
+The customer enters by one of
+perhaps several lanes leading to a
+ticket box. He buys his ticket and 
+passes on to a long serving counter
+where the complete meal is handed to
+him in a mess tin [or an enamel plate] 
+by a server in exchange for his ticket.
+On his way to his table he passes 
+other counters where he can pick up
+his spoon and his mug, and dip them
+in a sterilizer; where he can collect 
 
 
 
