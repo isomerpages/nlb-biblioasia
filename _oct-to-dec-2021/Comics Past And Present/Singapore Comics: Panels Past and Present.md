@@ -5,9 +5,6 @@ third_nav_title: Comics Past And Present
 image: /images/vol-17-issue-3/singapore-comics/Facing%20Page2.jpg
 description: Singapore has its own comic superheroes too.
 ---
-
-
-
 #### With great power comes great responsibility. **Jacqueline Lee** and **Chiang Yu Xiang** use their power to give us an overview of the history of comics in Singapore.
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-3/singapore-comics/Facing%20Page2.jpg)
@@ -69,7 +66,7 @@ Anthologies are a popular format for comics. A number of collections have been p
 	
 The <i>Liquid City</i> anthology, the brainchild of Sonny Liew, brought together a star-studded cast of artists who contributed short comics that have been compiled in three volumes. The series has received much attention, with volume two being nominated for Best Anthology Series at the 2011 Eisner Awards. Many of the participating artists went on to produce their own comic books. Otto Fong, a contributor to the anthology, said: “The experience of being in an anthology and working alongside other comics artists spurred my competitiveness.”[^9]
 
-<img src="/images/vol-17-issue-3/singapore-comics/liquidcitycomic.jpg"/>
+<img src="/images/vol-17-issue-3/singapore-comics/liquidcitycomic.jpg">
 
 <div style="background-color: white;">Volume two of the  <i>Liquid City </i> anthology was nominated for Best Anthology Series at the 2011 Eisner Awards.  <i>Image reproduced from Sonny Liew and Lim Cheng Tju, eds., Liquid City Volume Two (Berkeley, California: Image Comics, [2010]). (From National Library, Singapore, Call no. RSING 741.59 LIQ).</i></div>
 
@@ -109,13 +106,13 @@ In 1985, the Singapore Police Force unveiled Captain V as the mascot for the Nat
 
 In 1987, Captain V was given his own comic book series when the first issue of <i>The Amazing Adventures of Captain V</i> was launched at Singapore’s second comics convention (Comicon ’87). Although Captain V combats crime using technology such as jet boots, he does not possess any inherent superpowers but has qualities such as vigilance and valour.
 
-<img src="/images/vol-17-issue-3/singapore-comics/captainvproductions.jpg"/>
+<img src="/images/vol-17-issue-3/singapore-comics/captainvproductions.jpg">
 
 <div style="background-color: white;">Due to Captain V’s popularity, he was given his own comic book series. <i>Images reproduced from Captain V Productions, The Amazing Adventures of Captain V (Singapore: Captain V Productions, 1988). (From PublicationSG).</i></div>
 
 As a sidenote, while not strictly a superhero comic, among the older comics in the National Library is <i>Python Gang</i> by Ronald Wild. Written in English, Chinese and Malay, the comic revolves around police investigations into a criminal syndicate called the Python Gang. While it was printed in Singapore, there are no details about the publisher or year of publication. However, we do know that the comic has been in the National Library’s Legal Deposit collection since 1963.
 
-<img src="/images/vol-17-issue-3/singapore-comics/pythongang3.jpg"/>
+<img src="/images/vol-17-issue-3/singapore-comics/pythongang3.jpg">
 
 <div style="background-color: white;">The police investigates the Python Gang in this comic book. <i>Images reproduced from Ronald Wild, 蟒蛇党 = Python Gang = Kumpulan Ular Sawa (Singapore: n.p., n.d.). (From PublicationSG).</i></div>
 
@@ -124,7 +121,7 @@ As a sidenote, while not strictly a superhero comic, among the older comics in t
 
 The <i>Dim Sum Warriors</i> (点心侠; <i>Dian Xin Xia</i>) series is the creation of husband-and-wife duo Colin Goh and Woo Yen Yen, of the TalkingCock.com satirical website and the <i>Coxford Singlish Dictionary</i> fame.[^12] The series features a colourful cast of familiar <i>dim sum</i> such as <i>cha shao bao</i> (roast pork bun), <i>xia jiao</i> (shrimp dumpling) and <i>shao mai</i> (pork and shrimp dumpling), imagined as kungfu warriors. The idea was conceived out of the couple’s love for <i>dim sum</i> and kungfu movies.
 
-<img src="/images/vol-17-issue-3/singapore-comics/dimsum.jpg"/>
+<img src="/images/vol-17-issue-3/singapore-comics/dimsum.jpg">
 
 <div style="background-color: white;">Different types of <i>dim sum</i> are imagined as kungfu warriors in this comic series. <i>Image reproduced from Colin Goh, Woo Yen Yen, Soo Lee and Lauren Baker, Dim Sum Warriors = Dian Xin Xia. Volume 1, Enter the Dumpling (New York: Yumcha Studios, 2012). (From National Library, Singapore, Call no. JR SING 741.595957 GOH).</i></div>
 
@@ -142,7 +139,7 @@ Set in the 7th century on the island of Tumasik (Temasek), the story follows the
 
 Various organisations, companies and government agencies in Singapore have used comics as a medium to convey important information and messages in an effective yet highly entertaining manner.
 
-One of the best examples is the poster on toilet etiquette found in public toilets across Singapore. Rendered in a comic strip format, these posters are a collaboration between the National Environment Agency and the cartoonist Lee Chee Chew as part of the Clean & Green Singapore campaign.[^16]
+One of the best examples is the poster on toilet etiquette found in public toilets across Singapore. Rendered in a comic strip format, these posters are a collaboration between the National Environment Agency and the cartoonist Lee Chee Chew as part of the Clean &amp; Green Singapore campaign.[^16]
 
 Another example of an educational comic is Otto Fong’s popular “Sir Fong’s Adventures in Science” comic series that impart scientific concepts in a fun and accessible way. Fong drew on his many years of experience as a secondary school science teacher for his comic series featuring a teacher who is a monkey and his student-rabbits.
 
@@ -150,7 +147,7 @@ Another example of an educational comic is Otto Fong’s popular “Sir Fong’s
 
 Published by the Singapore Anti-Narcotics Association in 1979, <i>What If They Call Me Chicken?</i> is a cautionary tale about the dangers of taking drugs. A schoolboy named Kok Meng is offered a cigarette laced with drugs. While his friends agree to try it, he turns it down and goes home and tells his parents what had happened. Kok Meng is called a “chicken” for saying no to drugs, but he is vindicated in the end as his friends are arrested and punished. The message is blunt and direct: taking drugs is wrong and will ruin your life.
 
-<img src="/images/vol-17-issue-3/singapore-comics/chicken.jpg"/>
+<img src="/images/vol-17-issue-3/singapore-comics/chicken.jpg">
 
 <div style="background-color: white;">A cautionary tale about the dangers of taking drugs. <i>Images reproduced from Singapore Anti-Narcotics Association, What If They Call Me Chicken? (Singapore: Singapore Anti-Narcotics Association, [1979]). (From PublicationSG).</i></div>
 
@@ -158,14 +155,14 @@ Published by the Singapore Anti-Narcotics Association in 1979, <i>What If They C
 	
 Graphic medicine is a genre in which comics are used as a medium for communicating about medicine and healthcare.[^17] Examples of local comics in this category include <i>All That Remains</i> (2018) and <i>All Death Matters</i> (2020) about dementia, and end-of-life and palliative care respectively. Created by James Tan and funded by the Lien Foundation, the two comics aim to initiate “die-logues” about taboo topics such as death and illness and to start thinking about palliative care planning.
 
-<img src="/images/vol-17-issue-3/singapore-comics/medicalnovles.jpg"/>
+<img src="/images/vol-17-issue-3/singapore-comics/medicalnovles.jpg">
 
 <div style="background-color: white;">(Left) A graphic novel about dementia. <i>Image reproduced from James Tan, All That Remains (Singapore: Lien Foundation: Alzheimer’s Disease Association, Singapore, 2018). (From National Library, Singapore, Call no. RSING 616.83 TAN).<br>
 </i> (Right) This graphic medicine talks about end-of-life and palliative care. <i>Image reproduced from James Tan, All Death Matters (Singapore: Lien Foundation, 2020). (From National Library, Singapore, Call no. RSING 741.59597 TAN).</i></div>
 
 In <i>The Antibiotic Tales</i> (2019), Sonny Liew partnered infectious diseases physician Hsu Li Yang to create a cautionary tale of an apocalyptic future because of a general resistance to antibiotics.
 
-<img src="/images/vol-17-issue-3/singapore-comics/antibiotictales.jpg"/>
+<img src="/images/vol-17-issue-3/singapore-comics/antibiotictales.jpg">
 
 <div style="background-color: white;">A cautionary tale about an apocalyptic future with antibiotic resistance. <i>Image reproduced from Sonny Liew and Hsu Li Yang, The Antibiotic Tales (Singapore: Epigram, 2019). (From National Library, Singapore, Call no. RSING 615.329 LIE).</i></div>
 
@@ -179,9 +176,9 @@ There are also locally published comics inspired by local legends. In the Chines
 
 #### PAST...
 
-Published in 1949, <i>Tani of the Tigers</i> is an adventure comic and a Malayan spin on legends like <i>The Jungle Book</i> and <i>Tarzan</i>.[^18] It tells the story of Tani, an orphaned child raised by tigers in the Pahang jungle of Malaya and who is able to converse with animals. An advertisement in the <i>Malaya Tribune</i> described it as being “drawn, written & published by Malayans” and that it “[excelled] any American comics published overseas!”[^19]
+Published in 1949, <i>Tani of the Tigers</i> is an adventure comic and a Malayan spin on legends like <i>The Jungle Book</i> and <i>Tarzan</i>.[^18] It tells the story of Tani, an orphaned child raised by tigers in the Pahang jungle of Malaya and who is able to converse with animals. An advertisement in the <i>Malaya Tribune</i> described it as being “drawn, written &amp; published by Malayans” and that it “[excelled] any American comics published overseas!”[^19]
 
-<img src="/images/vol-17-issue-3/singapore-comics/tanicomic.jpg"/>
+<img src="/images/vol-17-issue-3/singapore-comics/tanicomic.jpg">
 
 <div style="background-color: white;">Tani is an orphaned child raised by tigers in the Pahang jungle of Malaya and who is able to converse with animals. <i>Images reproduced from Willie and Bio, Tani of the Tigers (Singapore: Keng Yan Leng, [19--]). (From PublicationSG).</i></div>
 	
@@ -191,13 +188,13 @@ In the 1950s, one of the early publishing houses in Singapore that published com
 
 Nora Abdullah, also known as Nek Norzarah Abdullah, was Geliga’s first female cartoonist and also the first known Malay female cartoonist in Singapore and Malaya.[^20] Born in Kelantan, Nora Abdullah was only 15 years old when she published her first comic book with Geliga in 1955, titled <i>Cik Siti Wan Kembang</i>.[^21] Siti Wan Kembang is the legendary queen who ruled Kelantan in the 17th century. She was renowned for her wisdom and mystical powers, and rode to battle on horseback armed with a sword and accompanied by an army of female warriors.
 
-<img src="/images/vol-17-issue-3/singapore-comics/noraandcover.jpg" />
+<img src="/images/vol-17-issue-3/singapore-comics/noraandcover.jpg">
 
 <div style="background-color: white;">(Left) Nora Abdullah, also known as Nek Norzarah Abdullah, was Geliga’s first female cartoonist and also the first known Malay female cartoonist in Singapore and Malaya. <i>Courtesy of the Malay Heritage Centre.</i><br>(Right) Siti Wan Kembang is the legendary queen who ruled Kelantan in the 17th century. <i>Image reproduced from Nora Abdullah, Cik Siti Wan Kembang (London: The British Library, [2010–2013]). (From National Library, Singapore, Call no. Malay RCLOS 899.28 NOR).</i></div>
 
 Between 1955 and 1961, Nora Abdullah published at least 12 comic books with Geliga, including <i>Bawang Puteh Bawang Merah</i> (1957), which is based on an Indonesian folktale about a gentle and obedient village girl living with her evil stepsister and stepmother. The village girl eventually marries a prince.
 
-<img src="/images/vol-17-issue-3/singapore-comics/putehbawang2.jpg"/>
+<img src="/images/vol-17-issue-3/singapore-comics/putehbawang2.jpg">
 
 <div style="background-color: white;">An Indonesian folktale about a gentle and obedient village girl. <i>Images reproduced from Nora Abdullah, Bawang Puteh Bawang Merah (Singapura: Geliga, 1957). (From PublicationSG).</i></div>
 
@@ -205,7 +202,7 @@ Between 1955 and 1961, Nora Abdullah published at least 12 comic books with Geli
 
 The Comics of Singapore Histories (COSH Studios) – a collective of artists and writers – has produced seven graphic novels on local history between 2017 and 2018, with funding from the National Heritage Board. These comics offer stories relating to Singapore history and heritage but with a speculative twist. From supernatural encounters in Bukit Brown Cemetery (<i>Final Resting Place</i>) to cooking chicken rice in a zombie apocalypse (<i>We’ll Eat When We’re Done</i>), COSH comics present Singapore stories in a creative and fun way, reinterpreting familiar situations in new and witty ways.
 
-<img src="/images/vol-17-issue-3/singapore-comics/finalrestingplace.jpg"/>
+<img src="/images/vol-17-issue-3/singapore-comics/finalrestingplace.jpg">
 
 <div style="background-color: white;">A boy, abandoned by his parents at Bukit Brown Cemetery, has to find a way out and is given a tour by its “residents”. <i>Image reproduced from James Tan, Final Resting Place, ed. Lim Cheng Tju (Singapore: COSH Studio, [2017]). (From National Library, Singapore, Call no. RSING 741.59597 TAN).</i></div>
 
@@ -222,14 +219,14 @@ Lim Cheng Tju notes that political cartoons in Singapore walk a fine line betwee
 	
 In 1932, <i>Dream Awhile: Cartoons from Straits Produce Showing in Pictorial Form the Main Events in Local History</i> was published.[^24] The volume was produced to commemorate 10 years of continuous publication of <i>Straits Produce</i> and is probably the earliest publication of local political cartoons in the National Library’s collection.
 
-<img src="/images/vol-17-issue-3/singapore-comics/politiccomics.jpg"/>
+<img src="/images/vol-17-issue-3/singapore-comics/politiccomics.jpg">
 
 <div style="background-color: white;">(Left) In 1923, Neil Malcolm, General Officer Commanding the Troops in the Straits Settlements, called Singapore “the centre of the empire” in a speech at the British naval base in Sembawang, inspiring this pictorial response of Britannia (the personification of Britain as a helmeted female warrior holding a trident and shield) using a compass to draw a circle on a map with Singapore at the centre.<br>(Right) Captioned “The Past Greets the Future,” the cartoon was drawn on the occasion of the Prince of Wales’s visit to Singapore in April 1922. He is depicted shaking hands with the ghost of Stamford Raffles.<br>
 <i>Both images reproduced from Dream Awhile: Cartoons from Straits Produce Showing in Pictorial Form the Main Events in Local History (Singapore: Printers, 1932). (From National Library, Singapore, Call no. RCLOS 959.5 STR-[RFL].</i></div>
 
 A better-known example of a comic that tackles history and politics is Liu Kang’s <i>Chop Suey</i>, which records the horrors of the Japanese Occupation in Singapore (1942–45). First published in 1946, and with reprints thereafter, <i>Chop Suey</i> is a four-volume publication (three in English and one in Chinese) of charcoal sketches and caricatures.[^25] Liu and his friend, Zheng Zhenen, had collected stories from people who suffered during the Occupation, and these were depicted in the illustrations showing the various ways in which the Japanese tortured prisoners-of-war to force confessions. Liu’s work remains a poignant record of wartime memories.[^26] 
 
-<img src="/images/vol-17-issue-3/singapore-comics/chopsuey.jpg"/>
+<img src="/images/vol-17-issue-3/singapore-comics/chopsuey.jpg">
 
 <div style="background-color: white;">(Left) <i>Chop Suey</i> is a four-volume publication of charcoal sketches and caricatures by Liu Kang. <i>Image reproduced from Liu Kang, Chop Suey, vol. 2 (Singapore: Eastern Art Co., 1946). (From National Library, Singapore, Call no. RRARE 959.5106 CHO; Accession no. B02901746G).</i><br>(Right) Sharp pencils being poked into the ears of a prisoner as a form of torture. <i>Image reproduced from Liu Kang, Chop Suey, vol. 1 (Singapore: Eastern Art Co., 1946). (From National Library, Singapore, Call no. RRARE 959.5106 CHO; Accession no. B02901745F).</i></div>
 	
@@ -238,7 +235,7 @@ A better-known example of a comic that tackles history and politics is Liu Kang�
 
 In conjunction with the 90th anniversary of <i>Lianhe Zaobao</i> in 2013, Singapore Press Holdings organised an exhibition titled “A Collection of our Shared Memories”, featuring comics published in the <i>Sin Chew Jit Poh</i>, <i>Nanyang Siang Pau</i> and <i>Lianhe Zaobao</i> Chinese newspapers between 1929 and 2013. In 2015, more than 100 of these comics were compiled and published into a book, offering a glimpse into the daily lives of people in the past. Many of the works are a form of social commentary – reflecting the changing social, political and economic conditions in Singapore over the decades.
 
-<img src="/images/vol-17-issue-3/singapore-comics/sharedmemories.jpg"/>
+<img src="/images/vol-17-issue-3/singapore-comics/sharedmemories.jpg">
 
 <div style="background-color: white;">A collection of more than 100 comics showcasing the story and development of Singapore. <i>Image reproduced from Singapore Press Holdings Limited, 我们的另一种集体记 = A Collection of our Shared Memories (新加坡: 新加坡报业控股有限公司: 国家图书馆管理局, 2015). (From National Library, Singapore, Call no. Chinese RSING 741.5695957 COL).</i></div>
 
@@ -263,7 +260,7 @@ In 2005, NLB hosted the first Comix Jam at the National Library Building, follow
 
 NLB has also hosted longer comics workshops where participants underwent a comprehensive editorial and mentorship process of comic creation, with peer review of comic drafts. An extension of the 24-hour Comics Day Challenge, the first Panelgraph (the authoring of stories using comic-book panels) sessions were held at Toa Payoh Public Library from 2015 to 2016. The comics created during the sessions were compiled as digital issues and made available on the Panelgraph website.[^29]
 
-In 2016, Tampines Regional Library was the venue for Places, a 13-week art co-creation workshop organised as part of the Community Arts & Culture Nodes initiative of the National Arts Council. Under the guidance of Gwee Li Swee – poet, graphic artist and author of several books, including the graphic novel *Myth of the Stone* – participants created comics with a select few compiled into an anthology.
+In 2016, Tampines Regional Library was the venue for Places, a 13-week art co-creation workshop organised as part of the Community Arts &amp; Culture Nodes initiative of the National Arts Council. Under the guidance of Gwee Li Swee – poet, graphic artist and author of several books, including the graphic novel *Myth of the Stone* – participants created comics with a select few compiled into an anthology.
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-3/singapore-comics/placescomic.jpg)
 <div style="background-color: white;">A compilation of comics created for Places, a 13-week art co-creation workshop, in 2016. <i>Image reproduced from Gwee Li Sui, ed., Places: A Graphic Anthology on the East of Singapore (Singapore: National Library Board, Singapore, [2016]). (From National Library, Singapore, call no. RSING 741.59597 PLA).</i></div>
@@ -280,14 +277,14 @@ With all these ongoing efforts and initiatives by comic groups and societies in 
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">The writers would like to thank Lim Cheng Tju for reviewing this essay. His essays on comics have been published in <i>BiblioAsia</i> Vol. 7, issue 4 (March 2012) and Vol. 9, issue 3 (Oct–Dec 2013). For a list of the comics featured in this article, check <a href="https://biblioasia.nlb.gov.sg/vol-17/issue-3/oct-dec-2021/singapore-comics-list">here</a>.</div>
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-17-issue-1/authors/Jacqueline_Lee.png" style="width: 100px; height: 100px;" />
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Vol-17-issue-1/authors/Jacqueline_Lee.png">
 <b>Jacqueline Lee</b> is an Associate Librarian with the National Library, Singapore, who works with the Singapore and Southeast Asia collections. Her responsibilities include developing and promoting the Legal Deposit and Web Archive Singapore collections.</div>
 
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/vol-17-issue-3/authors/Chiang%20Yu%20Xiang.png" style="width: 100px; height: 100px;" />
+<br>
+<img style="width: 100px; height: 100px;" src="/images/vol-17-issue-3/authors/Chiang%20Yu%20Xiang.png">
 <b>Chiang Yu Xiang</b> is an Associate Librarian with the Public Libraries, Singapore. He has had the opportunity to meet and work with many creative Singaporean comic artists.</div>
 
 #### **NOTES**
@@ -355,3 +352,10 @@ With all these ongoing efforts and initiatives by comic groups and societies in 
 [^31]: Find out more about the Singapore Original Comics Festival at https://www.sgocf.com.
 
 [^32]: The links to all “How to Fall in Love with Classics” lecture videos and notes up to the 6th instalment (comics) can be found at https://www.facebook.com/notes/335051027599649/.
+
+
+ 
+
+ 
+ 
+ 
