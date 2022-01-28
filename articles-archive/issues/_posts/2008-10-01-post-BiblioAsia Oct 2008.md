@@ -21,7 +21,7 @@ description: ""
 
 **The Legacy of Tan Kah Kee and Lee Kong Chian**<br>[(PDF)](/files/pdf/vol-4/issue-3/v4-issue3_KahKeeKongChian.pdf)
 
-**承前启后 继往开来 陈嘉庚与李光前览 中国方面资料收集情况介绍**<br>[(PDF)](/files/pdf/vol-4/issue-3/v4-issue3_TanKahKee_LeeKongChian-Chinese.pdf)
+**承前启后 继往开来 陈嘉庚与李光前览** <br>中国方面资料收集情况介绍[(PDF)](/files/pdf/vol-4/issue-3/v4-issue3_TanKahKee_LeeKongChian-Chinese.pdf)
 
 **Seminar on “The Science and Art of Green Building Design” and Launch of Architectural Book on the National Library Building**<br>[(PDF)](/files/pdf/vol-4/issue-3/v4-issue3_ScienceArtGreen.pdf)
 
