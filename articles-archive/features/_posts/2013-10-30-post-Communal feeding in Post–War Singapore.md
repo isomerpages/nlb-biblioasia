@@ -85,32 +85,31 @@ The novelty of the communal feed-ing programme quickly gained traction and it pr
 In its first year or so, the People’s Restaurants and the other feeding schemes were in the news almost ev¬ery other day. Between September 1946 and May 1947, announcements called “Today’s Menu” informing the public of the meal (or meals) of the day were reg¬ularly published in *The Straits Times*.27 Editorials were mostly positive about the impact of the feeding schemes, with one claiming that “Singapore Did Not Starve” due to the Department’s efforts.28 When the Malayan Union (1946-48) started its own People's Restaurants in its territo-ries across the border, Singapore's Social Welfare Department was actively con¬sulted on its feeding programme,29 sug- 
  
 People's Restaurant menu: October 1946
-Rice, boiLed chicken with white sauce, or rabbit stew, green peas, chye huay
-Fried mee, beef or prawns, bean sprouts; bean cake, choy sim
-Rice, vegetabLe omeLette with tomato or paprika sauce or New EngLand [sic]
-Rice, fish fritters with tomato sauce, spinach, beetroot
-NoodLes and gouLash or Hokkien mee, beef or prawns, choy sim, towgay
-NoodLes in Amoy or Java styLe
-Rice; bean cake with garnishment; peanut butter, sambal
-Rice and New EngLand [sic] or beef stew and vegetabLe, omeLette
-Rice; Vienna sausages; bean cake and mixed vegetabLe stew, tomato sauce
-Fried noodLes, bean cake, towgay, kangkong
-Rice; fish curry; or masak asam; saLad (cucumber, kangkong); tomato sauce
-Rice; chicken or rabbit stew or chicken kruma; yam beans and chye huay
-Hokkien mee; beef soup; prawns; brown fried onions; green chiLLi;
-bean sprouts; water cress
+Rice, boiLed chicken with white sauce, or rabbit stew, green peas, chye huay <br>
+Fried mee, beef or prawns, bean sprouts; bean cake, choy sim <br>
+Rice, vegetabLe omeLette with tomato or paprika sauce or New EngLand [sic] <br>
+Rice, fish fritters with tomato sauce, spinach, beetroot<br>
+NoodLes and gouLash or Hokkien mee, beef or prawns, choy sim, towgay<br>
+NoodLes in Amoy or Java styLe<br>
+Rice; bean cake with garnishment; peanut butter, sambal<br>
+Rice and New EngLand [sic] or beef stew and vegetabLe, omeLette<br>
+Rice; Vienna sausages; bean cake and mixed vegetabLe stew, tomato sauce<br>
+Fried noodLes, bean cake, towgay, kangkong<br>
+Rice; fish curry; or masak asam; saLad (cucumber, kangkong); tomato sauce<br>
+Rice; chicken or rabbit stew or chicken kruma; yam beans and chye huay<br>
+Hokkien mee; beef soup; prawns; brown fried onions; green chiLLi;<br>
+bean sprouts; water cress<br>
 Rice; fried Liver or Liver curry; pak choy; green peas, tomatoes;
-peanut butter; gravy
-Fried noodLes; beef stew and fried prawns; choy sim and towgay
-Rice, roast chicken or turkey or chicken curry, Long beans, spinach
-Rice, beef and onions with garnishment, bayam, and green pea sprouts
-Fried noodLes, fried pork and prawns, towgay, fried onions, koo chye,
-chew chow and choy sim
-Rice, steamed or fried fish; onions; tomatoes, spinach
-Rice; braised pork (Chinese styLe) or fish; speciaL mixed chup chye; cucumbers
-Rice porridge (bubor); meat baLLs and saLted vegetabLes with garnishment
-Rice; beef stew and green peas or beef curry; marrow and chye sim
-
+peanut butter; gravy<br>
+Fried noodLes; beef stew and fried prawns; choy sim and towgay<br>
+Rice, roast chicken or turkey or chicken curry, Long beans, spinach<br>
+Rice, beef and onions with garnishment, bayam, and green pea sprouts<br>
+Fried noodLes, fried pork and prawns, towgay, fried onions, koo chye,<br>
+chew chow and choy sim<br>
+Rice, steamed or fried fish; onions; tomatoes, spinach<br>
+Rice; braised pork (Chinese styLe) or fish; speciaL mixed chup chye; cucumbers<br>
+Rice porridge (bubor); meat baLLs and saLted vegetabLes with garnishment<br>
+Rice; beef stew and green peas or beef curry; marrow and chye sim<br>
  
 
 
