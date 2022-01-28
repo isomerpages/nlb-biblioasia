@@ -119,7 +119,11 @@ with elementary education besides other activities (1952). <i>MITA collection, c
 <img src="/images/vol-9-issue-3/communal-feeding/C6.JPG">
 <div style="background-color: white;"> Children feeding centres were set up in a bid to provide adequate nutrition for children (1952). <i>MITA collection, courtesy of National Archives of Singapore.</i></div>
  
+The response of the general pub¬lic was more mixed. Some were pleased with the initiative and asked for similar restaurants to be opened in their vicinity; one asked for a 40-cent meal with more rice and food;31 others voiced their sus¬picions about government profiteering.32 The public also wrote several letters to the Social Welfare Department, pointing out gaps in service.
 
+By April 1947, the Social Welfare Department felt confident enough to announce the success of its feeding schemes.33 In June 1947, the Department introduced 50-cent lunches, in addition to the 30- or 35-cent versions, to meet in¬creasing demand for meals with larger quantities and better ingredients as the economic situation eased.34 The demand was a clear signal that the hungry cus¬tomer with spending power wanted more than the Department's inexpensive but limited meal options.
+
+The easing economic situation also resulted in the decline of demand for the Department's meals through¬out 1947. Between June and December 1946, 1,321,115 meals were cooked and served by the People's Restaurants and People's Kitchens, while the number of meals for the whole of 1947 only reached 1,575,640, with the daily average fall¬ing from 6,000 meals in January 1947 to about 4,000 in December 1947.35 The de
 
 
 
