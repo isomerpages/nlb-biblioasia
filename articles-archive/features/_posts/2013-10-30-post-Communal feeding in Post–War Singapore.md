@@ -5,3 +5,4 @@ date: 2013-10-30
 layout: post
 description: ""
 ---
+The colonial government’s communal feeding programme was a novel response to chronic food shortages and malnutrition in the aftermath of the Japanese Occupation, and laid the foundation for the basis of social welfare schemes in Singapore.
