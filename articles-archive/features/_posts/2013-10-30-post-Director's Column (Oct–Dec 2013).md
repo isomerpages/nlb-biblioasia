@@ -21,9 +21,9 @@ This sense of how food binds us with unbreakable ties can almost be vicariously 
 
 Equally enchanting as the origins of food are the beginnings of our food establishments. I am particularly fascinated by the People’s Restaurants described by Ho Chi Tim in “Communal Feeding in Post-war Singapore”. These restaurants were set up between 1946 and 1948 as part of a government communal feeding programme. Three and a half million meals later, the scheme was able to pressurise commercial restaurants of the day into raising the standards and value of the meals they served.
 
-Perhaps the bonafide People’s Restaurants of Singapore are the hawker
-centres — which began their lives along the streets and in alleys as villains and a general menace to society. Lim Tin Seng charts the intriguing journey from their origins as street hawkers to the much-loved culinary darlings they are today in “Hawkers: From Public Nuisance to National Icons.” It is ironic that a livelihood that the authorities once tried to root out and control has become an endangered artisanal profession that society now seeks to nurture and grow.
+Perhaps the bonafide People’s Restaurants of Singapore are the hawker centres — which began their lives along the streets and in alleys as villains and a general menace to society. Lim Tin Seng charts the intriguing journey from their origins as street hawkers to the much-loved culinary darlings they are today in “Hawkers: From Public Nuisance to National Icons.” It is ironic that a livelihood that the authorities once tried to root out and control has become an endangered artisanal profession that society now seeks to nurture and grow.
+
 I hope you will be as enthralled as I am by the complex relationships and interactions between different peoples and the mix of culinary heritage they brought to Singapore. May the resulting complex repertoire of foods — and by extension cultures — we enjoy in Singapore outlast the march of time and not succumb to the bland homogeneity of an “Everything” concoction.
-Gene Tan
+
+Gene Tan<br>
 Director, National Library
- 
