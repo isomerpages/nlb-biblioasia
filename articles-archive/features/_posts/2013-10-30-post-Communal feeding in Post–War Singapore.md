@@ -63,21 +63,24 @@ The Social Welfare Department paid more attention to those who could not even af
 #### **PUBLICISING THE FEEDING SCHEMES**
 
 <img src="/images/vol-9-issue-3/communal-feeding/C2.JPG">
-<div style="background-color: white;"> Children playing outside a Children's Social Centre in 1951. <i>MITA collection, courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;">Food being distributed at a Children's Feeding Centre in 1947. <i>Courtesy of Ministry of Communication and Information. </i></div>
 
 At the peak of the feeding programme in October 1946, nearly 40,000 lunches were cooked and served daily. In a mere six 
 months, over one million meals had been served to the hungry public.
 
 <img src="/images/vol-9-issue-3/communal-feeding/C3.JPG">
-<div style="background-color: white;"> Children playing outside a Children's Social Centre in 1951. <i>MITA collection, courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;">Children's Feeding Centre located at Clyde Terrace in 1947. <i>Courtesy of Ministry of Communication and Information. </i></div>
 <br>
 <img src="/images/vol-9-issue-3/communal-feeding/C4.JPG">
 <div style="background-color: white;"> Children playing outside a Children's Social Centre in 1951. <i>MITA collection, courtesy of National Archives of Singapore.</i></div>
 
 These feeding schemes catered mostly to the working population and its primary objective, in the words of Percy McNeice, the Secretary for Social Welfare, was to "counteract the black market."18 It was not enough just to provide cheap meals. The word had to be put out to the gener¬al public that nutritious food was readily available at inexpensive prices.
-The day after the Wage and Cost of Living Committee announced its recom-mendations on 27 June 1946, the colonial government ran an announcement in The Straits Times about the 35-cent lunch being a "reality."19 Both the Governor of Singapore and the Colonial Secretary sat down to lunch at the People's Restaurant at Telok Ayer on opening day, which was duly reported in The Straits Times.20 In the same article, McNeice fired the opening salvo of a rather public battle with the black market. Under the sub-heading "Killing Black Market", McNeice declared that "Our main purpose is to reduce pric¬es and to put a stop to the black market."21 
+
+The day after the Wage and Cost of Living Committee announced its recom-mendations on 27 June 1946, the colonial government ran an announcement in *The Straits Times* about the 35-cent lunch being a "reality."19 Both the Governor of Singapore and the Colonial Secretary sat down to lunch at the People's Restaurant at Telok Ayer on opening day, which was duly reported in *The Straits Times*.20 In the same article, McNeice fired the opening salvo of a rather public battle with the black market. Under the sub-heading "Killing Black Market", McNeice declared that "Our main purpose is to reduce pric¬es and to put a stop to the black market."21 
+
 There was an immediate reaction as rumours began circulating that the cheap meals were only possible because of gov¬ernment subsidies.22 McNeice respond¬ed by giving a detailed interview to The Straits Times, explaining how the 35-cent meal was put together and cited the pric¬es of the various foodstuffs purchased by the Department.23 McNeice declared that all food purchases were made in the open market (at government controlled-prices), and even after taking into consid¬eration the salaries of the cooks and staff, the feeding programme was still able to make a small profit. He observed that peo¬ple were still paying too much for food and offered his services to any restau¬rateur willing to sell meals at the Department's prices.
-The novelty of the communal feed-ing programme quickly gained traction and it pressured existing restaurants to at least provide better value for meals they served. The Singapore Free Press con- 
+
+The novelty of the communal feed-ing programme quickly gained traction and it pressured existing restaurants to at least provide better value for meals they served. *The Singapore Free Press* con- 
 
  
 
