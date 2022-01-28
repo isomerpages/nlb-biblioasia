@@ -48,6 +48,23 @@ from profiteering street hawkers, <br>
 agents for the most part of the<br>
 black market.9 
 
+By the end of 1946, about 10 People’s Restaurants were in operation at refur¬bished godowns, or as part of existing buildings, including one in the “boxing arena of an Amusement Park.”10 These restaurants were located in “Telok Ayer, Seng Poh Road, Queen Street, Handy Road, Happy World, Katong Kitchen/ New World, Maxwell Road, and Harbour Board.”11 As the People’s Restaurants were targeted at workers, it only served lunch five days a week.
+
+#### **FEEDING SCHEMES**
+
+Overseen by a committee that includ¬ed Lim Yew Hock and Goh Keng Swee (Singapore's second chief minister and second deputy prime minister respective¬ly), the communal feeding programme expanded to include various schemes, such as the People’s Kitchens, Sponsored and Approved Restaurants, Family Restaurants and children feeding centres.
+
+The People’s Restaurants were limited to the confines of the city and could not serve factories and workshops in isolated locations. The Social Welfare Department worked with the Labour Office to sponsor "the formation of factory canteens, with the latter arranging permits for the sup¬ply of controlled foodstuffs and the former provid[ing] the expertise and resourc¬es to get the canteens going."12 About 60 Sponsored Restaurants were established between July and December 1946. The Social Welfare Department also attempt¬ed to work with existing restaurants and invited applications for the Approved Restaurants scheme, where successful applicants could buy controlled foodstuffs on the condition that the meal was sold at prices determined by the Department. Although close to 200 applications were received, only a very small number were deemed suitable after assessment. As such, the scheme was scrapped in favour of other feeding programmes to cater to more urgent needs.
+
+To reach out to more people quick¬ly and efficiently, the Social Welfare Department established centralised People's Kitchens, which could sup¬ply "any number of ready-cooked meals in bulk to any unit anywhere in the Colony...."13 At the peak of the feeding programme in October 1946, nearly 40,000 lunches were cooked and served daily. In a mere six months, over one million meals had been served to the hungry public.14 
+
+The Social Welfare Department paid more attention to those who could not even afford the 35-cent meal. It was rec¬ognised early on that the 35-cent meal was not often "within the reach of the poor, the old, the unemployable and the many-progenied."15 In December 1946, the first Family Restaurant opened at Maxwell Road, selling lunch at only 8 cents per meal. Benefiting from the bulk purchase of army foodstuffs, the Department ensured that the 8-cent meal was similar in proportion to the 35-cent version and even lowered the price of the latter to 30 cents for most of 1947.16 Demand for the 8-cent meal was suffi¬ciently high - all 2,500 meals were sold out on the first day - and three existing People's Restaurants were converted into Family Restaurants by the end of 1946.17 
+
+#### **PUBLICISING THE FEEDING SCHEMES**
+
+These feeding schemes catered mostly to the working population and its primary objective, in the words of Percy McNeice, the Secretary for Social Welfare, was to
+
+ 
 
 
 
