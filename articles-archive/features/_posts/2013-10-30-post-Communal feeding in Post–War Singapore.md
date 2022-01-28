@@ -72,7 +72,7 @@ months, over one million meals had been served to the hungry public.
 <div style="background-color: white;">Children's Feeding Centre located at Clyde Terrace in 1947. <i>Courtesy of Ministry of Communication and Information. </i></div>
 <br>
 <img src="/images/vol-9-issue-3/communal-feeding/C4.JPG">
-<div style="background-color: white;"> Children playing outside a Children's Social Centre in 1951. <i>MITA collection, courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;"> The People's Restaurants sold affordable nutritious lunches to the masses (1947). <I>Courtesy of Ministry of Communication and Information.</i></div>
 
 These feeding schemes catered mostly to the working population and its primary objective, in the words of Percy McNeice, the Secretary for Social Welfare, was to "counteract the black market."18 It was not enough just to provide cheap meals. The word had to be put out to the gener¬al public that nutritious food was readily available at inexpensive prices.
 
