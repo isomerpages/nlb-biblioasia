@@ -62,7 +62,19 @@ The Social Welfare Department paid more attention to those who could not even af
 
 #### **PUBLICISING THE FEEDING SCHEMES**
 
-These feeding schemes catered mostly to the working population and its primary objective, in the words of Percy McNeice, the Secretary for Social Welfare, was to
+These feeding schemes catered mostly to the working population and its primary objective, in the words of Percy McNeice, the Secretary for Social Welfare, was to At the peak of the 
+feeding programme in 
+October 1946, nearly 40,000 
+lunches were cooked and 
+served daily. In a mere six 
+months, over one million 
+meals had been served 
+to the hungry public.
+
+"counteract the black market."18 It was not enough just to provide cheap meals. The word had to be put out to the gener¬al public that nutritious food was readily available at inexpensive prices.
+The day after the Wage and Cost of Living Committee announced its recom-mendations on 27 June 1946, the colonial government ran an announcement in The Straits Times about the 35-cent lunch being a "reality."19 Both the Governor of Singapore and the Colonial Secretary sat down to lunch at the People's Restaurant at Telok Ayer on opening day, which was duly reported in The Straits Times.20 In the same article, McNeice fired the opening 
+ 
+
 
  
 
