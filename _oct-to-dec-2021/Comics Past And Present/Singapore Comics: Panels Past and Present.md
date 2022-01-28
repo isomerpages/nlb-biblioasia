@@ -278,13 +278,13 @@ With all these ongoing efforts and initiatives by comic groups and societies in 
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Vol-17-issue-1/authors/Jacqueline_Lee.png">
+<img src="/images/Vol-17-issue-1/authors/Jacqueline_Lee.png" style="width: 100px; height: 100px;">
 <b>Jacqueline Lee</b> is an Associate Librarian with the National Library, Singapore, who works with the Singapore and Southeast Asia collections. Her responsibilities include developing and promoting the Legal Deposit and Web Archive Singapore collections.</div>
 
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/vol-17-issue-3/authors/Chiang%20Yu%20Xiang.png">
+<img src="/images/vol-17-issue-3/authors/Chiang%20Yu%20Xiang.png" style="width: 100px; height: 100px;">
 <b>Chiang Yu Xiang</b> is an Associate Librarian with the Public Libraries, Singapore. He has had the opportunity to meet and work with many creative Singaporean comic artists.</div>
 
 #### **NOTES**
