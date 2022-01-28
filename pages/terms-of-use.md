@@ -19,10 +19,10 @@ The NLB DIGITAL LIBRARY does not warrant that any of the Materials or that this 
 #### **2. Intellectual Property**
 All content included on this site, such as text, graphics, logos, button icons, images, audio clips, digital downloads, data compilations, and software, is the property of NLB DIGITAL LIBRARY or its content suppliers and protected by Singapore and international copyright laws. The compilation of all content on this site is the exclusive property of NLB DIGITAL LIBRARY and protected by Singapore and international copyright laws. All software used on this site is the property of NLB DIGITAL LIBRARY or its software suppliers and/or affiliates and is protected by Singapore and international copyright laws. All contents on this website, both textual and graphic, are copyrighted by NLB DIGITAL LIBRARY, unless otherwise noted
 
-Copyright
+##### Copyright
 The copyright in this website is owned by NLB DIGITAL LIBRARY or its licensors. No part or parts hereof may be reproduced, distributed, adapted, modified, republished, displayed, broadcast, hyperlinked, framed or transmitted in any manner or by any means or stored in an information retrieval system without the prior written permission of NLB DIGITAL LIBRARY. However, you may download and print the Materials on this website for personal, non-commercial use only provided you do not modify the Materials and that you retain all copyright and other proprietary notices contained in the Materials. You also may not, without the permission of NLB DIGITAL LIBRARY, insert a hyperlink to this website on any other website or "mirror" any Material contained on this website on any other server. NLB DIGITAL LIBRARY and its affiliates respect the intellectual property of others. If you believe that your work has been copied in a way that constitutes copyright infringement, please inform the Intellectual Property Office of Singapore.
 
-Trademark 
+##### Trademark 
 The trademarks, service marks and logo (the "Trade Marks") used and displayed on this website are registered and unregistered Trade Marks of NLB DIGITAL LIBRARY or its licensors. Nothing on this website should be construed as granting, by implication, estoppel, or otherwise, any license or right to use any of the Trade Marks displayed on this website, without the written permission of NLB DIGITAL LIBRARY. NLB DIGITAL LIBRARY aggressively enforces its intellectual property rights to the fullest extent of the law. The name of NLB DIGITAL LIBRARY or the Trade Marks may not be used in any way, including in advertising or publicity pertaining to the distribution of Materials on this website, without prior written permission of NLB DIGITAL LIBRARY. The NLB DIGITAL LIBRARY prohibits use of the Trade Marks as a "hot" link or in link to any NLB DIGITAL LIBRARY site or any other site unless establishment of such a link is approved in advance by NLB DIGITAL LIBRARY in writing.
 
 #### **3. Non-confidentiality**
@@ -31,11 +31,11 @@ You agree that all information and/or particulars sent or submitted by you to NL
 #### **4. Exclusion of Liability (General Disclaimer)**
 NLB DIGITAL LIBRARY shall in no event be liable for any damages, loss or expense including without limitation, direct, indirect, special, or consequential damage, or economic loss arising from or in connection with:
 
-a)any access, use or the inability to access or use this website, or reliance on the Materials and/or any information in this website;
+a) any access, use or the inability to access or use this website, or reliance on the Materials and/or any information in this website;
 
-b)any system, server or connection failure, error, omission, interruption, delay in transmission, or computer virus; and
+b )any system, server or connection failure, error, omission, interruption, delay in transmission, or computer virus; and
 
-c)any use of or access to any other website linked to this website.
+c) any use of or access to any other website linked to this website.
 
 Even if NLB DIGITAL LIBRARY or its agents or employees are advised of the possibility of such damages, losses and/or expenses. Any hyperlinks to any other websites are not an endorsement or verification of such websites and such websites should only be accessed at the user's own risks. This exclusion clause shall take effect to the fullest extent permitted by law. The NLB DIGITAL LIBRARY maintains a set of information repositories, and provides access to the data in these repositories. In addition, NLB DIGITAL LIBRARY interoperates with other, related libraries, databases, content providers, etc that provide information, videos, images, e-books, etc, and may make use of the data and services of these other organizations in providing the result for a query. NLB DIGITAL LIBRARY makes no representation, explicit or otherwise, about the completeness, accuracy, or consistency of the data in these repositories, of the integrity of the services NLB DIGITAL LIBRARY provides, or of those with which NLB DIGITAL LIBRARY interoperate. Virtually most of the data in NLB DIGITAL LIBRARY repositories originates elsewhere, and NLB DIGITAL LIBRARY cannot guarantee its correctness, nor does NLB DIGITAL LIBRARY guarantee that the processing NLB DIGITAL LIBRARY performs on these data is free from errors. While NLB DIGITAL LIBRARY attempts to provide accurate data and services, and are continually correcting errors upon discovery, individuals concerned with the correctness or accuracy of individual data items are advised to seek independent verification of such data. NLB DIGITAL LIBRARY makes this data available for the purpose of research and experimentation. Some of the particular collections to which NLB DIGITAL LIBRARY provides access contain restrictions about repackaging, commercial use, or other aspects of the use. These restrictions are stated elsewhere and NLB DIGITAL LIBRARY disclaims any liabilities associated with the NLB DIGITAL LIBRARY user's breach of these restrictions. Additionally, NLB DIGITAL LIBRARY categorically disclaims any damages, losses, and/or financial losses suffered by the NLB DIGITAL LIBRARY users as a result of users' lack of taking notice of these restrictions or ignorance thereof.
 
@@ -45,18 +45,16 @@ When you visit NLB DIGITAL LIBRARY or send e-mails to us, you are communicating 
 #### **6. Your Account**
 If you use this site, you are responsible for maintaining the confidentiality of your account and password and for restricting access to your computer, and you agree to accept responsibility for all activities that occur under your account or password. NLB DIGITAL LIBRARY does sell products for children, but it sells them to adults, who can purchase with a credit card or cash card or via the use of the NLB DIGITAL LIBRARY virtual purse/account and all similar means of on-line payment. If you are under 21, if you want to buy products offered by NLB DIGITAL LIBRARY you may do so only with involvement of a parent or guardian. NLB DIGITAL LIBRARY and its affiliates reserve the right to refuse service, terminate accounts, remove or edit content, or cancel orders in their sole discretion. If however, you make accidental purchases by keying in your personal information and/or you change your mind, NLB DIGITAL LIBRARY will not be responsible for refunding you any monies or crediting any monies to your virtual account purse/account.
 
-Conditions of Refund by the NLB, namely:-
-
+##### Conditions of Refund by the NLB, namely:
 a) The death of the owner of NLB DIGITAL LIBRARY prepaid account.
 
 b) Owner of pre-paid account migrating away from the Republic of Singapore. The NLB needs written proof of the same, to show that the move away from Singapore, is permanent.
 
 c) Failure in delivery of a database content that was paid in advance by the User. (e.g. If a database requires advance payment prior to use)
 
-4) Wrong deduction due to a systems error.
+d) Wrong deduction due to a systems error.
 
-No refund shall be given by the NLB, under the following circumstances:-
-
+##### No refund shall be given by the NLB, under the following circumstances:
 a) Where the User complains to NLB that the systems were slow and unrealiable, as these technical matters are exempted under these terms and conditions of use.
 
 b) Printing too many copies / not able to get print-out (service recovery for this is to print page for customer)
