@@ -80,7 +80,36 @@ The day after the Wage and Cost of Living Committee announced its recom-mendatio
 
 There was an immediate reaction as rumours began circulating that the cheap meals were only possible because of gov¬ernment subsidies.22 McNeice respond¬ed by giving a detailed interview to The Straits Times, explaining how the 35-cent meal was put together and cited the pric¬es of the various foodstuffs purchased by the Department.23 McNeice declared that all food purchases were made in the open market (at government controlled-prices), and even after taking into consid¬eration the salaries of the cooks and staff, the feeding programme was still able to make a small profit. He observed that peo¬ple were still paying too much for food and offered his services to any restau¬rateur willing to sell meals at the Department's prices.
 
-The novelty of the communal feed-ing programme quickly gained traction and it pressured existing restaurants to at least provide better value for meals they served. *The Singapore Free Press* con- 
+The novelty of the communal feed-ing programme quickly gained traction and it pressured existing restaurants to at least provide better value for meals they served. *The Singapore Free Press* conducted a before-and-after survey of a par¬ticular restaurant that had consistently flouted the maximum controlled price of three dollars per meal.24 Once the People’s Restaurants started, the restaurant served visibly bigger portions, even if the price was not reduced.25 The Sponsored Restaurants scheme also helped to spread the message that cheap meals were pos¬sible. For instance, on 19 July 1946, the owners of Singapore’s leading Chinese newspaper, the *Sin Chew Jit Poh*, opened a canteen for its staff that sold meals at only 10 cents.26 
+
+In its first year or so, the People’s Restaurants and the other feeding schemes were in the news almost ev¬ery other day. Between September 1946 and May 1947, announcements called “Today’s Menu” informing the public of the meal (or meals) of the day were reg¬ularly published in *The Straits Times*.27 Editorials were mostly positive about the impact of the feeding schemes, with one claiming that “Singapore Did Not Starve” due to the Department’s efforts.28 When the Malayan Union (1946-48) started its own People's Restaurants in its territo-ries across the border, Singapore's Social Welfare Department was actively con¬sulted on its feeding programme,29 sug- 
+ 
+People's Restaurant menu: October 1946
+Rice, boiLed chicken with white sauce, or rabbit stew, green peas, chye huay
+Fried mee, beef or prawns, bean sprouts; bean cake, choy sim
+Rice, vegetabLe omeLette with tomato or paprika sauce or New EngLand [sic]
+Rice, fish fritters with tomato sauce, spinach, beetroot
+NoodLes and gouLash or Hokkien mee, beef or prawns, choy sim, towgay
+NoodLes in Amoy or Java styLe
+Rice; bean cake with garnishment; peanut butter, sambal
+Rice and New EngLand [sic] or beef stew and vegetabLe, omeLette
+Rice; Vienna sausages; bean cake and mixed vegetabLe stew, tomato sauce
+Fried noodLes, bean cake, towgay, kangkong
+Rice; fish curry; or masak asam; saLad (cucumber, kangkong); tomato sauce
+Rice; chicken or rabbit stew or chicken kruma; yam beans and chye huay
+Hokkien mee; beef soup; prawns; brown fried onions; green chiLLi;
+bean sprouts; water cress
+Rice; fried Liver or Liver curry; pak choy; green peas, tomatoes;
+peanut butter; gravy
+Fried noodLes; beef stew and fried prawns; choy sim and towgay
+Rice, roast chicken or turkey or chicken curry, Long beans, spinach
+Rice, beef and onions with garnishment, bayam, and green pea sprouts
+Fried noodLes, fried pork and prawns, towgay, fried onions, koo chye,
+chew chow and choy sim
+Rice, steamed or fried fish; onions; tomatoes, spinach
+Rice; braised pork (Chinese styLe) or fish; speciaL mixed chup chye; cucumbers
+Rice porridge (bubor); meat baLLs and saLted vegetabLes with garnishment
+Rice; beef stew and green peas or beef curry; marrow and chye sim
 
  
 
