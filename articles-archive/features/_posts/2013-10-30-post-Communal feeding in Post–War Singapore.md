@@ -27,18 +27,26 @@ The British concept of subsidised state feeding originated in the early 20th cen
 On 29 June 1946, the first People’s Restaurant opened in a converted godown at Telok Ayer.5 Tan Beng Neo, a Salvation Army volunteer, described the restaurant as an “attap [palm-thatched] shack with barbed wire fencing,” and recalled that they managed to sell two to three thou¬sand meals in two hours.6 The first meal consisted of “rice, pork and vegetables, or rice and fish curry for Muslims, and a mug of iced water.”7 “Nutrition experts” from the King Edward VII College of Medicine also ensured that each meal was “not only tasty, but good.”8 For a paltry 35 cents, the customer received roughly 700 calories of rice, meat and vegetables, or a third of his daily nutritional needs, with coffee or tea.
 
 The Social Welfare Department’s first official report, *Beginnings*, describes the process of buying lunch:
-The customer enters by one of
-perhaps several lanes leading to a
-ticket box. He buys his ticket and 
-passes on to a long serving counter
-where the complete meal is handed to
-him in a mess tin [or an enamel plate] 
-by a server in exchange for his ticket.
-On his way to his table he passes 
-other counters where he can pick up
-his spoon and his mug, and dip them
-in a sterilizer; where he can collect 
 
+The customer enters by one of <br>
+perhaps several lanes leading to a <br>
+ticket box. He buys his ticket and <br>
+passes on to a long serving counter <br>
+where the complete meal is handed to <br>
+him in a mess tin [or an enamel plate] <br>
+by a server in exchange for his ticket. <br>
+On his way to his table he passes <br>
+other counters where he can pick up <br>
+his spoon and his mug, and dip them <br>
+in a sterilizer; where he can collect <br>
+files past yet another counter where <br>
+occasionally he will find on sale <br>
+things like fruit, tinned provisions <br>
+and cigarettes, which otherwise he<br>
+could only get at inflated prices<br>
+from profiteering street hawkers, <br>
+agents for the most part of the<br>
+black market.9 
 
 
 
