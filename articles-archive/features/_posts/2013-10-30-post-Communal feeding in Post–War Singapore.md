@@ -111,7 +111,10 @@ Rice; braised pork (Chinese styLe) or fish; speciaL mixed chup chye; cucumbers<b
 Rice porridge (bubor); meat baLLs and saLted vegetabLes with garnishment<br>
 Rice; beef stew and green peas or beef curry; marrow and chye sim<br>
  
-
+<img src="/images/vol-9-issue-3/communal-feeding/C5.JPG">
+<div style="background-color: white;"> Children feeding centres were renamed as Children's Social Centres and provided children 
+with elementary education besides other activities (1952). <i>MITA collection, courtesy of National Archives of Singapore.
+</i></div>
 
  
 
