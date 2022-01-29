@@ -172,52 +172,139 @@ The development of the children’s feeding scheme is also insightful. It faced 
 
 In this particular case, civil society not only played a practical role (provid¬ing otherwise unavailable resources such as labour and physical sites), but was also instrumental in influencing and shap¬ing state policy. What started out as a rel¬atively uncomplicated scheme to provide adequate nutrition for children evolved into a programme that provided educa-tional and social development activities, positioning the children social centres as the forerunners to present-day childcare centres. State policy was also affected by the response of the women volunteers to the sight of wretched poverty. The Singapore Family Planning Association these women founded became the basis of state efforts to manage the population of post-colonial Singapore.66 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <b>Ho Chi Tim</b> was a Lee Kong Chian Research Fellow at the National Library in 2012. He graduated with a BA and MA from the Department of History, National University of Singapore. He is presently a Ph.D candidate with the Department of History, University of Hawai’i at Mānoa. His dissertation examines the historical development of social welfare in colonial Singapore.
 </div>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-9/issue-3/oct-dec-2012/"><center>Back to Issue</center></a>
+
+#### **Notes**
+1 Malayan cost of living report. (1946, June 27). The Straits Times, p. 2. (Retrieved from NewspaperSG); Malayan Union. The wages and cost of living committee. (1946). The interim report of the wages and cost of living committee. Singapore: G.P.O. 
+2 The Straits Times, 27 Jun 1946, p. 2; Malayan Union. The wages and cost of living committee. (1946). The interim report of the wages and cost of living committee. Singapore: G.P.O. 
+3 Vernon, J. (2007). Hunger: A modern history (pp. 160–161). England: The Belknap Press of Harvard University Press. (Not available in NLB holdings)
+4 Vernon, 2007, pp. 181, 187.
+5 Tan, L. (Interviewer). (1984, April 17). Oral history interview with Tan Beng Neo [Transcript of MP3 recording no. 000371/26/16, p. 249]. Retrieved from National Archives of Singapore website; Wong, H.S. (2009). Wartime kitchen: Food and eating in Singapore 1942–1950 (p. 83). Singapore: National Museum of Singapore and Editions Didier Millet. (Call no.: RSING 641.30095957 WON)
+6 Oral history interview with Tan Beng Neo, 17 Apr 1984; Wong, 2009, p. 83.
+7 Cheap lunch from today. (1946, June 29). The Straits Times, p. 5. Retrieved from NewspaperSG. 
+8 Singapore. Department of Social Welfare. (1947). Beginnings: The first report of the Singapore Department of Social Welfare, June to December 1946 (p. 22). Singapore: Department of Social Welfare. (Call no.: RRARE 361.6 SIN; Microfilm no.: NL28506)
+9 Singapore. Department of Social Welfare, 1947, pp. 22–23.
+10 Singapore. Department of Social Welfare, 1947, pp. 23, 51.
+11 Singapore. Department of Social Welfare, 1947, p. 53.
+12 Singapore. Department of Social Welfare, 1947, p. 24.
+13 Singapore. Department of Social Welfare, 1947, p. 26.
+14 Singapore. Department of Social Welfare, 1947, p. 24.
+15 Singapore. Department of Social Welfare, 1947, p. 28.
+16 Singapore. Department of Social Welfare, 1947, p. 28.
+17 Big rush for 8-cents meal. (1946, December 19). The Straits Times, p. 7. Retrieved form NewspaperSG.
+18 McNiece, 1983.
+19 35-cent lunch is a reality. (1946, June 28). The Straits Times, p. 3. Retrieved from NewspaperSG.
+20 Governor eats and likes 35-cent lunch. (1946, June 30). The Straits Times, p. 5. Retrieved from NewspaperSG.
+21 The Straits Times, 30 Jun 1946, p. 5.
+22 Alarm in the black market. (1946, July 13). The Straits Times, p. 4. Retrieved from NewspaperSG. 
+23 All restaurants can sell 35-cent meal. (1946, July 12). The Straits Times, p. 5. Retrieved from NewspaperSG.
+24 Untitled. (1946, July 16). The Singapore Free Press, p. 4. Retrieved from NewspaperSG. 
+25 The Singapore Free Press, 16 Jul 1946, p. 4.
+26 Chinese Press runs 10-cent canteen. (1946, July 19). The Singapore Free Press, p. 5. Retrieved from NewspaperSG.
+27 From a cursory scan of selected newspapers published in the same period, such announcements seemed exclusive to The Straits Times or the Singapore Free Press, with little to no similar announcements in rival newspapers such as The Malaya Tribune or the Chinese newspapers.
+28 Fernandes, O. (1947, March 12). Singapore did not starve. The Singapore Free Press, p. 2; Ikan bilis on the menu. (1946, October 21). The Straits Times, p. 4. Retrieved from NewspaperSG.
+29. Singapore. Department of Social Welfare. (1946–1979). Annual report (p. 22). Singapore: Department of Social Welfare. Available via PublicationSG.
+30. S. E. Asia winning war on famine. (1947, January 31). The Straits Times, p. 5. Retrieved from NewspaperSG.
+31. Forty-cent plate? (1946, August 15). The Straits Times, p. 6. Retrieved from NewspaperSG.
+32. Cheaper meals can be cheaper still. (1946, October 17). The Straits Times, p. 10. Retrieved from NewspaperSG.
+33. 4½ million meals sold in S’pore. (1947, April 27). The Straits Times, p. 5. Retrieved from NewspaperSG.
+34. Singapore Department of Social Welfare, 1948, p. 30.
+35.  Singapore Department of Social Welfare, 1948, p. 29.
+36. Restaurants to close. (1948, August 12). The Straits Times, p. 5. Retrieved from NewspaperSG.
+37. Singapore Department of Social Welfare, 1949, p. 34.
+38. Money before food. (1946, December 10). The Singapore Free Press, p. 4. Retrieved from NewspaperSG.
+39. Scheme to feed Singapore children. (1945, November 30). The Straits Times, p. 3. Retrieved from NewspaperSG.
+40. The Straits Times, 20 Nov 1945, 3.
+41. Feeding scheme to be enlarged. (1946, July 31). The Straits Times, p. 3. Retrieved from NewspaperSG.
+42. Singapore. Department of Social Welfare. (1948). The second report of the Singapore Department of Social Welfare 1947 (p. 33). Singapore: Department of Social Welfare. (Call no.: RSING 361.6 SIN); Also announced in the press New feeding scheme starts Jan. 2. (1946, December 30). The Singapore Free Press, p. 5. Retrieved from NewspaperSG.
+43. Singapore Department of Social Welfare, 1948, n. p. 
+44. Mr Attlee ordered free meals for S’pore. (1946, July 17). The Singapore Free Press, p. 5.  Retrieved from NewspaperSG.
+45. Lack of money for child feeding plan. (1946, November 23). The Straits Times, p. 5; see
+also Baby in a dust bin. (1946, November 27).  The Singapore Free Press, p. 4. Retrieved from NewspaperSG.
+
+46. The Singapore Free Press, 10 Dec 1946, p. 4.
+47. Heavy expenditure criticised — Cost of new Singapore Departments. (6 September 1946).  The Straits Times, 1. Retrieved from NewspaperSG.
+48. Singapore Department of Social Welfare, 1948, p. 34. 
+49. Singapore Department of Social Welfare, 1948, p. 34. 
+50. Volunteers run feeding centres. (1947, October 23). The Singapore Free Press, p. 5. Retrieved from NewspaperSG.
+51. S’pore’s children get fed. (1947, February 3). The Singapore Free Press, p. 2. Retrieved from NewspaperSG.
+52. McNeice, 1982. 
+53. McNiece, 1982. 
+54. Zhou, M. (1996). The life and family planning pioneer, Constance Goh: Point of light. Singapore: Graham Brash, 133–135. (Call no.: RSING 363.96092 ZHO)
+55. See McNeice, 1982 and McNeice, 1983 for personal recollections of how Constance Goh established the association.
+56. Singapore Department of Social Welfare, 1948, pp. 20–21.
+57. Singapore. Department of Social Welfare. (1949). The third report of the Singapore Department of Social Welfare 1948 (p. 4). Singapore: Department of Social Welfare. (Call no.: RSING 361.6 SIN) 
+58. Singapore Department of Social Welfare, 1948, p. 9.
+59. Singapore Department of Social Welfare, 1948, p. 9.
+60. See Axe may fall on feeding schemes. (1949, November 16). The Straits Times, 5; Scotching a rumour. (1949, December 20). The Straits Times, p. 6. Retrieved from NewspaperSG.
+61. Welfare snacks will continue. (1950, September 14). The Straits Times, p. 4. Retrieved from NewspaperSG.
+62. See Kratoska, P.H. (1988, March). The Post-1945 food shortage in British Malaya. Journal of Southeast Asian Studies, 19 (1), 27–47. Retrieved from JSTOR via NLB’s eResources website.
+63. 3,500,000 meals in 2 years. (1948, August 14). The Straits Times, p. 5. Retrieved from NewspaperSG.
+64. Singapore. Ministry of Community Development, Youth and Sports. (2007). Helping hands, touching lives. Singapore: Ministry of Community Development, Youth and Sports. (Call no.: RSING 361.95957 HEL)
+65. Singapore, British Military Administration Chinese Affairs. (n.d.). Social welfare. [Long-term policy directive for Social welfare]. British Military Administration Chinese Affairs (27/45). Government Records Information database. 
+66. National Library Board. (2010). Launch of Family Planning Publicity Campaign written by Lim, Irene. Retrieved from Singapore Infopedia. 
+
+References
+Fraser, D. (2003). The evolution of the British welfare state: A history of social policy since the industrial revolution. Basingstoke: Palgrave Macmillan. (Not available in NLB holdings)
+Kratoska, P.H. (1988, March). The Post-1945 food shortage in British Malaya. Journal of Southeast Asian Studies, 19 (1), 27–47. Retrieved from JSTOR via NLB’s eResources website.
+Malayan Union. The wages and cost of living committee. (1946). The interim report of the wages and cost of living committee. Singapore: G.P.O. 
+McNiece, L.P. (1982, August 4). Pioneers of Singapore. In the collection of Oral history recording database. National Archives of Singapore. 
+McNiece, T.P.F. (1981, November 10). The civil service – A retrospection. In the collection of Oral history recording. 
+Singapore, British Military Administration Chinese Affairs. (n.d.). Social welfare. [Long-term policy directive for Social welfare]. British Military Administration Chinese Affairs (27/45). Government Records Information database. 
+Singapore. Department of Social Welfare. (1947). Beginnings: The first report of the Singapore Department of Social Welfare, June to December 1946. Singapore: Department of Social Welfare. (Call no.: RRARE 361.6 SIN; Microfilm no.: NL28506)
+Singapore. Department of Social Welfare. (1948). The second report of the Singapore Department of Social Welfare 1947. Singapore: Department of Social Welfare. (Call no.: RSING 361.6 SIN) 
+Singapore. Department of Social Welfare. (1949). The third report of the Singapore Department of Social Welfare 1948. Singapore: Department of Social Welfare. (Call no.: RSING 361.6 SIN) 
+Singapore. Department of Social Welfare. (1946–1979). Annual report. Singapore: Department of Social Welfare. Available via PublicationSG.
+Singapore. Ministry of Community Development, Youth and Sports. (2007). Helping hands, touching lives. Singapore: Ministry of Community Development, Youth and Sports. (Call no.: RSING 361.95957 HEL)
+Tan, B.N. (1983, November 26). Women through the years: Economic and family lives. In the collection of oral history recording database. National Archives of Singapore. 
+Vernon, J. (2007). Hunger: A modern history. England: The Belknap Press of Harvard University Press. (Not available in NLB holdings)
+Wong, H.S. (2009). Wartime kitchen: Food and eating in Singapore 1942–1950. Singapore: National Museum of Singapore and Editions Didier Millet. (Call no.: RSING 641.30095957 WON)
+Zhou, M. (1996). The life and family planning pioneer, Constance Goh: Point of light. Singapore: Graham Brash. (Call no.: RSING 363.96092 ZHO)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
