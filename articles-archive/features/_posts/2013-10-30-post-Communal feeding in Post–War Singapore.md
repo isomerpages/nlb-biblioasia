@@ -229,22 +229,22 @@ also Baby in a dust bin. (1946, November 27).  The Singapore Free Press, p. 4. R
 [^48]: Singapore Department of Social Welfare, 1948, p. 34. 
 [^49]:Singapore Department of Social Welfare, 1948, p. 34. 
 [^50]:Volunteers run feeding centres. (1947, October 23). The Singapore Free Press, p. 5. Retrieved from NewspaperSG.
-51. S’pore’s children get fed. (1947, February 3). The Singapore Free Press, p. 2. Retrieved from NewspaperSG.
-52. McNeice, 1982. 
-53. McNiece, 1982. 
-54. Zhou, M. (1996). The life and family planning pioneer, Constance Goh: Point of light. Singapore: Graham Brash, 133–135. (Call no.: RSING 363.96092 ZHO)
-55. See McNeice, 1982 and McNeice, 1983 for personal recollections of how Constance Goh established the association.
-56. Singapore Department of Social Welfare, 1948, pp. 20–21.
-57. Singapore. Department of Social Welfare. (1949). The third report of the Singapore Department of Social Welfare 1948 (p. 4). Singapore: Department of Social Welfare. (Call no.: RSING 361.6 SIN) 
-58. Singapore Department of Social Welfare, 1948, p. 9.
-59. Singapore Department of Social Welfare, 1948, p. 9.
-60. See Axe may fall on feeding schemes. (1949, November 16). The Straits Times, 5; Scotching a rumour. (1949, December 20). The Straits Times, p. 6. Retrieved from NewspaperSG.
-61. Welfare snacks will continue. (1950, September 14). The Straits Times, p. 4. Retrieved from NewspaperSG.
-62. See Kratoska, P.H. (1988, March). The Post-1945 food shortage in British Malaya. Journal of Southeast Asian Studies, 19 (1), 27–47. Retrieved from JSTOR via NLB’s eResources website.
-63. 3,500,000 meals in 2 years. (1948, August 14). The Straits Times, p. 5. Retrieved from NewspaperSG.
-64. Singapore. Ministry of Community Development, Youth and Sports. (2007). Helping hands, touching lives. Singapore: Ministry of Community Development, Youth and Sports. (Call no.: RSING 361.95957 HEL)
-65. Singapore, British Military Administration Chinese Affairs. (n.d.). Social welfare. [Long-term policy directive for Social welfare]. British Military Administration Chinese Affairs (27/45). Government Records Information database. 
-66. National Library Board. (2010). Launch of Family Planning Publicity Campaign written by Lim, Irene. Retrieved from Singapore Infopedia. 
+[^51]:S’pore’s children get fed. (1947, February 3). The Singapore Free Press, p. 2. Retrieved from NewspaperSG.
+[^52]:McNeice, 1982. 
+[^53]:McNiece, 1982. 
+[^54]:Zhou, M. (1996). The life and family planning pioneer, Constance Goh: Point of light. Singapore: Graham Brash, 133–135. (Call no.: RSING 363.96092 ZHO)
+[^55]:See McNeice, 1982 and McNeice, 1983 for personal recollections of how Constance Goh established the association.
+[^56]:Singapore Department of Social Welfare, 1948, pp. 20–21.
+[^57]: Singapore. Department of Social Welfare. (1949). The third report of the Singapore Department of Social Welfare 1948 (p. 4). Singapore: Department of Social Welfare. (Call no.: RSING 361.6 SIN) 
+[^58]:Singapore Department of Social Welfare, 1948, p. 9.
+[^59]:Singapore Department of Social Welfare, 1948, p. 9.
+[^60]:See Axe may fall on feeding schemes. (1949, November 16). The Straits Times, 5; Scotching a rumour. (1949, December 20). The Straits Times, p. 6. Retrieved from NewspaperSG.
+[^61]:Welfare snacks will continue. (1950, September 14). The Straits Times, p. 4. Retrieved from NewspaperSG.
+[^62]:See Kratoska, P.H. (1988, March). The Post-1945 food shortage in British Malaya. Journal of Southeast Asian Studies, 19 (1), 27–47. Retrieved from JSTOR via NLB’s eResources website.
+[^63]:3,500,000 meals in 2 years. (1948, August 14). The Straits Times, p. 5. Retrieved from NewspaperSG.
+[^64]:Singapore. Ministry of Community Development, Youth and Sports. (2007). Helping hands, touching lives. Singapore: Ministry of Community Development, Youth and Sports. (Call no.: RSING 361.95957 HEL)
+[^65]:Singapore, British Military Administration Chinese Affairs. (n.d.). Social welfare. [Long-term policy directive for Social welfare]. British Military Administration Chinese Affairs (27/45). Government Records Information database. 
+[^66]:National Library Board. (2010). Launch of Family Planning Publicity Campaign written by Lim, Irene. Retrieved from Singapore Infopedia. 
 
 References
 Fraser, D. (2003). The evolution of the British welfare state: A history of social policy since the industrial revolution. Basingstoke: Palgrave Macmillan. (Not available in NLB holdings)
