@@ -236,31 +236,31 @@ In this particular case, civil society not only played a practical role (provid�
 [^57]: Singapore. Department of Social Welfare. (1949). [The third report of the Singapore Department of Social Welfare 1948](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12447461) (p. 4). Singapore: Department of Social Welfare. (Call no.: RSING 361.6 SIN) 
 [^58]:[Singapore Department of Social Welfare](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12447461), 1948, p. 9.
 [^59]:[Singapore Department of Social Welfare](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12447461), 1948, p. 9.
-[^60]:See [Axe may fall on feeding schemes](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19491116-1.2.50). (1949, November 16). The Straits Times, 5; [Scotching a rumour](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19491220-1.2.71). (1949, December 20). The Straits Times, p. 6. Retrieved from NewspaperSG.
-[^61]:Welfare snacks will continue. (1950, September 14). The Straits Times, p. 4. Retrieved from NewspaperSG.
-[^62]:See Kratoska, P.H. (1988, March). The Post-1945 food shortage in British Malaya. Journal of Southeast Asian Studies, 19 (1), 27–47. Retrieved from JSTOR via NLB’s eResources website.
-[^63]:3,500,000 meals in 2 years. (1948, August 14). The Straits Times, p. 5. Retrieved from NewspaperSG.
-[^64]:Singapore. Ministry of Community Development, Youth and Sports. (2007). Helping hands, touching lives. Singapore: Ministry of Community Development, Youth and Sports. (Call no.: RSING 361.95957 HEL)
+[^60]:See [Axe may fall on feeding schemes](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19491116-1.2.50). (1949, November 16). *The Straits Times*, 5; [Scotching a rumour](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19491220-1.2.71). (1949, December 20). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
+[^61]:[Welfare snacks will continue](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19500914-1.2.51). (1950, September 14). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
+[^62]:See Kratoska, P.H. (1988, March). The Post-1945 food shortage in British Malaya. *Journal of Southeast Asian Studies, 19* (1), 27–47. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+[^63]:[3,500,000 meals in 2 years](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19480814-1.2.55). (1948, August 14). *The Straits Times*, p. 5. Retrieved from NewspaperSG.
+[^64]:Singapore. Ministry of Community Development, Youth and Sports. (2007). [*Helping hands, touching lives*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12881916). Singapore: Ministry of Community Development, Youth and Sports. (Call no.: RSING 361.95957 HEL)
 [^65]:Singapore, British Military Administration Chinese Affairs. (n.d.). Social welfare. [Long-term policy directive for Social welfare]. British Military Administration Chinese Affairs (27/45). Government Records Information database. 
-[^66]:National Library Board. (2010). Launch of Family Planning Publicity Campaign written by Lim, Irene. Retrieved from Singapore Infopedia. 
+[^66]:National Library Board. (2010). [Launch of Family Planning Publicity Campaign](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1651_2010-02-26.html) written by Lim, Irene. Retrieved from Singapore Infopedia. 
 
 #### **References**
 
-Fraser, D. (2003). The evolution of the British welfare state: A history of social policy since the industrial revolution. Basingstoke: Palgrave Macmillan. (Not available in NLB holdings)
+Fraser, D. (2003). *The evolution of the British welfare state: A history of social policy since the industrial revolution*. Basingstoke: Palgrave Macmillan. (Not available in NLB holdings)
 
-Kratoska, P.H. (1988, March). The Post-1945 food shortage in British Malaya. Journal of Southeast Asian Studies, 19 (1), 27–47. Retrieved from JSTOR via NLB’s eResources website.
+Kratoska, P.H. (1988, March). The Post-1945 food shortage in British Malaya. *Journal of Southeast Asian Studies, 19* (1), 27–47. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
-Malayan Union. The wages and cost of living committee. (1946). The interim report of the wages and cost of living committee. Singapore: G.P.O. 
+Malayan Union. The wages and cost of living committee. (1946). *The interim report of the wages and cost of living committee*. Singapore: G.P.O. 
 
-McNiece, L.P. (1982, August 4). Pioneers of Singapore. In the collection of Oral history recording database. National Archives of Singapore. 
+McNiece, L.P. (1982, August 4). *Pioneers of Singapore*. In the collection of Oral history recording database. National Archives of Singapore. 
 
-McNiece, T.P.F. (1981, November 10). The civil service – A retrospection. In the collection of Oral history recording. 
+McNiece, T.P.F. (1981, November 10). *The civil service – A retrospection*. In the collection of Oral history recording. 
 
-Singapore, British Military Administration Chinese Affairs. (n.d.). Social welfare. [Long-term policy directive for Social welfare]. British Military Administration Chinese Affairs (27/45). Government Records Information database. 
+Singapore, British Military Administration Chinese Affairs. (n.d.). *Social welfare. [Long-term policy directive for Social welfare]. British Military Administration Chinese Affairs* (27/45). Government Records Information database. 
 
-Singapore. Department of Social Welfare. (1947). Beginnings: The first report of the Singapore Department of Social Welfare, June to December 1946. Singapore: Department of Social Welfare. (Call no.: RRARE 361.6 SIN; Microfilm no.: NL28506)
+Singapore. Department of Social Welfare. (1947). [*Beginnings: The first report of the Singapore Department of Social Welfare, June to December 1946*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12447461). Singapore: Department of Social Welfare. (Call no.: RRARE 361.6 SIN; Microfilm no.: NL28506)
 
-Singapore. Department of Social Welfare. (1948). The second report of the Singapore Department of Social Welfare 1947. Singapore: Department of Social Welfare. (Call no.: RSING 361.6 SIN) 
+Singapore. Department of Social Welfare. (1948). [*The second report of the Singapore Department of Social Welfare 1947*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12447461). Singapore: Department of Social Welfare. (Call no.: RSING 361.6 SIN) 
 
 Singapore. Department of Social Welfare. (1949). The third report of the Singapore Department of Social Welfare 1948. Singapore: Department of Social Welfare. (Call no.: RSING 361.6 SIN) 
 
