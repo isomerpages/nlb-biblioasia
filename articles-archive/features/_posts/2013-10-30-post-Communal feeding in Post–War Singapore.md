@@ -191,9 +191,9 @@ In this particular case, civil society not only played a practical role (providÂ
 [^12]:[Singapore. Department of Social Welfare](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12447461), 1947, p. 24.
 [^13]:[Singapore. Department of Social Welfare](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12447461), 1947, p. 26.
 [^14]:[Singapore. Department of Social Welfare](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12447461), 1947, p. 24.
-[^15]:Singapore. Department of Social Welfare, 1947, p. 28.
-[^16]:Singapore. Department of Social Welfare, 1947, p. 28.
-[^17]:Big rush for 8-cents meal. (1946, December 19). The Straits Times, p. 7. Retrieved form NewspaperSG.
+[^15]:[Singapore. Department of Social Welfare](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12447461), 1947, p. 28.
+[^16]:[Singapore. Department of Social Welfare](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12447461), 1947, p. 28.
+[^17]:[Big rush for 8-cents meal](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19461219-1.2.84). (1946, December 19). *The Straits Times*, p. 7. Retrieved form NewspaperSG.
 [^18]:McNiece, 1983.
 [^19]:35-cent lunch is a reality. (1946, June 28). The Straits Times, p. 3. Retrieved from NewspaperSG.
 [^20]: Governor eats and likes 35-cent lunch. (1946, June 30). The Straits Times, p. 5. Retrieved from NewspaperSG.
