@@ -234,9 +234,9 @@ In this particular case, civil society not only played a practical role (provid�
 [^55]:See McNeice, 1982 and McNeice, 1983 for personal recollections of how Constance Goh established the association.
 [^56]:[Singapore Department of Social Welfare](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12447461), 1948, pp. 20–21.
 [^57]: Singapore. Department of Social Welfare. (1949). [The third report of the Singapore Department of Social Welfare 1948](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12447461) (p. 4). Singapore: Department of Social Welfare. (Call no.: RSING 361.6 SIN) 
-[^58]:Singapore Department of Social Welfare, 1948, p. 9.
-[^59]:Singapore Department of Social Welfare, 1948, p. 9.
-[^60]:See Axe may fall on feeding schemes. (1949, November 16). The Straits Times, 5; Scotching a rumour. (1949, December 20). The Straits Times, p. 6. Retrieved from NewspaperSG.
+[^58]:[Singapore Department of Social Welfare](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12447461), 1948, p. 9.
+[^59]:[Singapore Department of Social Welfare](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12447461), 1948, p. 9.
+[^60]:See [Axe may fall on feeding schemes](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19491116-1.2.50). (1949, November 16). The Straits Times, 5; [Scotching a rumour](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19491220-1.2.71). (1949, December 20). The Straits Times, p. 6. Retrieved from NewspaperSG.
 [^61]:Welfare snacks will continue. (1950, September 14). The Straits Times, p. 4. Retrieved from NewspaperSG.
 [^62]:See Kratoska, P.H. (1988, March). The Post-1945 food shortage in British Malaya. Journal of Southeast Asian Studies, 19 (1), 27–47. Retrieved from JSTOR via NLB’s eResources website.
 [^63]:3,500,000 meals in 2 years. (1948, August 14). The Straits Times, p. 5. Retrieved from NewspaperSG.
