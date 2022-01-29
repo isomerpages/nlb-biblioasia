@@ -187,10 +187,10 @@ In this particular case, civil society not only played a practical role (providÂ
 [^8]:Singapore. Department of Social Welfare. (1947). [*Beginnings: The first report of the Singapore Department of Social Welfare, June to December 1946*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12447461) (p. 22). Singapore: Department of Social Welfare. (Call no.: RRARE 361.6 SIN; Microfilm no.: NL28506)
 [^9]:[Singapore. Department of Social Welfare](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12447461), 1947, pp. 22â€“23.
 [^10]:[Singapore. Department of Social Welfare](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12447461), 1947, pp. 23, 51.
-[^11]:Singapore. Department of Social Welfare, 1947, p. 53.
-[^12]:Singapore. Department of Social Welfare, 1947, p. 24.
-[^13]:Singapore. Department of Social Welfare, 1947, p. 26.
-[^14]:Singapore. Department of Social Welfare, 1947, p. 24.
+[^11]:[Singapore. Department of Social Welfare](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12447461), 1947, p. 53.
+[^12]:[Singapore. Department of Social Welfare](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12447461), 1947, p. 24.
+[^13]:[Singapore. Department of Social Welfare](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12447461), 1947, p. 26.
+[^14]:[Singapore. Department of Social Welfare](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12447461), 1947, p. 24.
 [^15]:Singapore. Department of Social Welfare, 1947, p. 28.
 [^16]:Singapore. Department of Social Welfare, 1947, p. 28.
 [^17]:Big rush for 8-cents meal. (1946, December 19). The Straits Times, p. 7. Retrieved form NewspaperSG.
