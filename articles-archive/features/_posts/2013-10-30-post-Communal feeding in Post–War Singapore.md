@@ -266,12 +266,12 @@ Singapore. Department of Social Welfare. (1949). [The third report of the Singap
 
 Singapore. Department of Social Welfare. (1946–1979). [Annual report](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5367088). Singapore: Department of Social Welfare. Available via PublicationSG.
 
-Singapore. Ministry of Community Development, Youth and Sports. (2007). Helping hands, touching lives. Singapore: Ministry of Community Development, Youth and Sports. (Call no.: RSING 361.95957 HEL)
+Singapore. Ministry of Community Development, Youth and Sports. (2007). [*Helping hands, touching lives*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12881916). Singapore: Ministry of Community Development, Youth and Sports. (Call no.: RSING 361.95957 HEL)
 
-Tan, B.N. (1983, November 26). Women through the years: Economic and family lives. In the collection of oral history recording database. National Archives of Singapore. 
+Tan, B.N. (1983, November 26). *Women through the years*: Economic and family lives. In the collection of oral history recording database. National Archives of Singapore. 
 
-Vernon, J. (2007). Hunger: A modern history. England: The Belknap Press of Harvard University Press. (Not available in NLB holdings)
+Vernon, J. (2007). *Hunger: A modern history*. England: The Belknap Press of Harvard University Press. (Not available in NLB holdings)
 
-Wong, H.S. (2009). Wartime kitchen: Food and eating in Singapore 1942–1950. Singapore: National Museum of Singapore and Editions Didier Millet. (Call no.: RSING 641.30095957 WON)
+Wong, H.S. (2009). [*Wartime kitchen: Food and eating in Singapore 1942–1950*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13158872). Singapore: National Museum of Singapore and Editions Didier Millet. (Call no.: RSING 641.30095957 WON)
 
-Zhou, M. (1996). The life and family planning pioneer, Constance Goh: Point of light. Singapore: Graham Brash. (Call no.: RSING 363.96092 ZHO)
+Zhou, M. (1996). [*The life and family planning pioneer, Constance Goh: Point of light*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7893264). Singapore: Graham Brash. (Call no.: RSING 363.96092 ZHO)
