@@ -262,9 +262,9 @@ Singapore. Department of Social Welfare. (1947). [*Beginnings: The first report 
 
 Singapore. Department of Social Welfare. (1948). [*The second report of the Singapore Department of Social Welfare 1947*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12447461). Singapore: Department of Social Welfare. (Call no.: RSING 361.6 SIN) 
 
-Singapore. Department of Social Welfare. (1949). The third report of the Singapore Department of Social Welfare 1948. Singapore: Department of Social Welfare. (Call no.: RSING 361.6 SIN) 
+Singapore. Department of Social Welfare. (1949). [The third report of the Singapore Department of Social Welfare 1948](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12447461). Singapore: Department of Social Welfare. (Call no.: RSING 361.6 SIN) 
 
-Singapore. Department of Social Welfare. (1946–1979). Annual report. Singapore: Department of Social Welfare. Available via PublicationSG.
+Singapore. Department of Social Welfare. (1946–1979). [Annual report](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5367088). Singapore: Department of Social Welfare. Available via PublicationSG.
 
 Singapore. Ministry of Community Development, Youth and Sports. (2007). Helping hands, touching lives. Singapore: Ministry of Community Development, Youth and Sports. (Call no.: RSING 361.95957 HEL)
 
