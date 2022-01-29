@@ -195,15 +195,15 @@ In this particular case, civil society not only played a practical role (providÂ
 [^16]:[Singapore. Department of Social Welfare](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12447461), 1947, p. 28.
 [^17]:[Big rush for 8-cents meal](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19461219-1.2.84). (1946, December 19). *The Straits Times*, p. 7. Retrieved form NewspaperSG.
 [^18]:McNiece, 1983.
-[^19]:35-cent lunch is a reality. (1946, June 28). The Straits Times, p. 3. Retrieved from NewspaperSG.
-[^20]: Governor eats and likes 35-cent lunch. (1946, June 30). The Straits Times, p. 5. Retrieved from NewspaperSG.
-[^21]:The Straits Times, 30 Jun 1946, p. 5.
-[^22]:Alarm in the black market. (1946, July 13). The Straits Times, p. 4. Retrieved from NewspaperSG. 
-[^23]:All restaurants can sell 35-cent meal. (1946, July 12). The Straits Times, p. 5. Retrieved from NewspaperSG.
-[^24]:Untitled. (1946, July 16). The Singapore Free Press, p. 4. Retrieved from NewspaperSG. 
-[^25]:The Singapore Free Press, 16 Jul 1946, p. 4.
-[^26]:Chinese Press runs 10-cent canteen. (1946, July 19). The Singapore Free Press, p. 5. Retrieved from NewspaperSG.
-[^27]:From a cursory scan of selected newspapers published in the same period, such announcements seemed exclusive to The Straits Times or the Singapore Free Press, with little to no similar announcements in rival newspapers such as The Malaya Tribune or the Chinese newspapers.
+[^19]:[35-cent lunch is a reality](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19460628-1.2.41). (1946, June 28). *The Straits Times*, p. 3. Retrieved from NewspaperSG.
+[^20]: [Governor eats and likes 35-cent lunch](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19460630-1.2.46). (1946, June 30). *The Straits Times*, p. 5. Retrieved from NewspaperSG.
+[^21]:[*The Straits Times*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19460630-1.2.46), 30 Jun 1946, p. 5.
+[^22]:[Alarm in the black market](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19460713-1.2.61). (1946, July 13). *The Straits Times*, p. 4. Retrieved from NewspaperSG. 
+[^23]:[All restaurants can sell 35-cent meal](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19460712-1.2.65). (1946, July 12). *The Straits Times*, p. 5. Retrieved from NewspaperSG.
+[^24]:[Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19460716-1.2.31). (1946, July 16). *The Singapore Free Press*, p. 4. Retrieved from NewspaperSG. 
+[^25]:[*The Singapore Free Press*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19460716-1.2.31), 16 Jul 1946, p. 4.
+[^26]:[Chinese Press runs 10-cent canteen](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19460719-1.2.25.11). (1946, July 19). *The Singapore Free Press*, p. 5. Retrieved from NewspaperSG.
+[^27]:From a cursory scan of selected newspapers published in the same period, such announcements seemed exclusive to *The Straits Times* or *The Singapore Free Press*, with little to no similar announcements in rival newspapers such as *The Malaya Tribune* or the Chinese newspapers.
 [^28]:Fernandes, O. (1947, March 12). Singapore did not starve. The Singapore Free Press, p. 2; Ikan bilis on the menu. (1946, October 21). The Straits Times, p. 4. Retrieved from NewspaperSG.
 [^29]:Singapore. Department of Social Welfare. (1946â€“1979). Annual report (p. 22). Singapore: Department of Social Welfare. Available via PublicationSG.
 [^30]:S. E. Asia winning war on famine. (1947, January 31). The Straits Times, p. 5. Retrieved from NewspaperSG.
