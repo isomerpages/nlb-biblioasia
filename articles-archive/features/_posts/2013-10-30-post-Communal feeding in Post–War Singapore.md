@@ -204,14 +204,14 @@ In this particular case, civil society not only played a practical role (provid�
 [^25]:[*The Singapore Free Press*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19460716-1.2.31), 16 Jul 1946, p. 4.
 [^26]:[Chinese Press runs 10-cent canteen](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19460719-1.2.25.11). (1946, July 19). *The Singapore Free Press*, p. 5. Retrieved from NewspaperSG.
 [^27]:From a cursory scan of selected newspapers published in the same period, such announcements seemed exclusive to *The Straits Times* or *The Singapore Free Press*, with little to no similar announcements in rival newspapers such as *The Malaya Tribune* or the Chinese newspapers.
-[^28]:Fernandes, O. (1947, March 12). Singapore did not starve. The Singapore Free Press, p. 2; Ikan bilis on the menu. (1946, October 21). The Straits Times, p. 4. Retrieved from NewspaperSG.
-[^29]:Singapore. Department of Social Welfare. (1946–1979). Annual report (p. 22). Singapore: Department of Social Welfare. Available via PublicationSG.
-[^30]:S. E. Asia winning war on famine. (1947, January 31). The Straits Times, p. 5. Retrieved from NewspaperSG.
-[^31]:Forty-cent plate? (1946, August 15). The Straits Times, p. 6. Retrieved from NewspaperSG.
-[^32]:Cheaper meals can be cheaper still. (1946, October 17). The Straits Times, p. 10. Retrieved from NewspaperSG.
-[^33]:4½ million meals sold in S’pore. (1947, April 27). The Straits Times, p. 5. Retrieved from NewspaperSG.
-[^34]:Singapore Department of Social Welfare, 1948, p. 30.
-[^35]:Singapore Department of Social Welfare, 1948, p. 29.
+[^28]:Fernandes, O. (1947, March 12). [Singapore did not starve](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19470312-1.2.23). *The Singapore Free Press*, p. 2; [Ikan bilis on the menu](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19461021-1.2.49). (1946, October 21). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
+[^29]:Singapore. Department of Social Welfare. (1946–1979). [Annual report](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5367088) (p. 22). Singapore: Department of Social Welfare. Available via PublicationSG.
+[^30]:[S. E. Asia winning war on famine](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19470131-1.2.62). (1947, January 31). *The Straits Times*, p. 5. Retrieved from NewspaperSG.
+[^31]:[Forty-cent plate?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19460815-1.2.62.3) (1946, August 15). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
+[^32]:[Cheaper meals can be cheaper still](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19461017-1.2.98.1). (1946, October 17). *The Straits Times*, p. 10. Retrieved from NewspaperSG.
+[^33]:[4½ million meals sold in S’pore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19470427-1.2.45). (1947, April 27). *The Straits Times*, p. 5. Retrieved from NewspaperSG.
+[^34]:[Singapore Department of Social Welfare](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12447461), 1948, p. 30.
+[^35]:[Singapore Department of Social Welfare](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12447461), 1948, p. 29.
 [^36]:Restaurants to close. (1948, August 12). The Straits Times, p. 5. Retrieved from NewspaperSG.
 [^37]:Singapore Department of Social Welfare, 1949, p. 34.
 [^38]:Money before food. (1946, December 10). The Singapore Free Press, p. 4. Retrieved from NewspaperSG.
