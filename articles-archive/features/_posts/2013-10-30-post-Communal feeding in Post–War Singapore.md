@@ -166,7 +166,12 @@ As far as anecdotal evidence went, the feeding programme did force pric¬es down
 
 The programme was lauded global-ly, with countries like India and China seeking advice from the Social Welfare Department and the Singapore gov-ernment. One positive effect of the pro-gramme was its success in establishing a fledgling social welfare department and social welfare as a function of gov-ernment. The presence of a government social welfare department arguably re-versed the laissez-faire approach to gover¬nance that had guided the development of Singapore since 1819.
 
-The feeding schemes marked the be¬ginning of greater involvement by the state in Singapore, to the extent that the government assumed responsibility for
+The feeding schemes marked the be¬ginning of greater involvement by the state in Singapore, to the extent that the government assumed responsibility for some aspects of society’s welfare. The current Ministry of Social and Family Development, successor to the Ministry of Community Development, Youth and Sports, acknowledges the feeding schemes as a historical milestone.64 
+
+The development of the children’s feeding scheme is also insightful. It faced many obstacles and probably would have failed without the female volunteers. Indeed, the colonial government, in at¬tempting to implement a social welfare policy, had from the beginning stressed the importance of “unofficial” or non-gov-ernmental associations as they would theoretically be better placed to under-stand local needs.65 
+
+In this particular case, civil society not only played a practical role (provid¬ing otherwise unavailable resources such as labour and physical sites), but was also instrumental in influencing and shap¬ing state policy. What started out as a rel¬atively uncomplicated scheme to provide adequate nutrition for children evolved into a programme that provided educa-tional and social development activities, positioning the children social centres as the forerunners to present-day childcare centres. State policy was also affected by the response of the women volunteers to the sight of wretched poverty. The Singapore Family Planning Association these women founded became the basis of state efforts to manage the population of post-colonial Singapore.66 
+
 
 
 
