@@ -191,45 +191,44 @@ In this particular case, civil society not only played a practical role (provid�
 [^11]:Singapore. Department of Social Welfare, 1947, p. 53.
 [^12]:Singapore. Department of Social Welfare, 1947, p. 24.
 [^13]:Singapore. Department of Social Welfare, 1947, p. 26.
-14 Singapore. Department of Social Welfare, 1947, p. 24.
-15 Singapore. Department of Social Welfare, 1947, p. 28.
-16 Singapore. Department of Social Welfare, 1947, p. 28.
-17 Big rush for 8-cents meal. (1946, December 19). The Straits Times, p. 7. Retrieved form NewspaperSG.
-18 McNiece, 1983.
-19 35-cent lunch is a reality. (1946, June 28). The Straits Times, p. 3. Retrieved from NewspaperSG.
-20 Governor eats and likes 35-cent lunch. (1946, June 30). The Straits Times, p. 5. Retrieved from NewspaperSG.
-21 The Straits Times, 30 Jun 1946, p. 5.
-22 Alarm in the black market. (1946, July 13). The Straits Times, p. 4. Retrieved from NewspaperSG. 
-23 All restaurants can sell 35-cent meal. (1946, July 12). The Straits Times, p. 5. Retrieved from NewspaperSG.
-24 Untitled. (1946, July 16). The Singapore Free Press, p. 4. Retrieved from NewspaperSG. 
-25 The Singapore Free Press, 16 Jul 1946, p. 4.
-26 Chinese Press runs 10-cent canteen. (1946, July 19). The Singapore Free Press, p. 5. Retrieved from NewspaperSG.
-27 From a cursory scan of selected newspapers published in the same period, such announcements seemed exclusive to The Straits Times or the Singapore Free Press, with little to no similar announcements in rival newspapers such as The Malaya Tribune or the Chinese newspapers.
-28 Fernandes, O. (1947, March 12). Singapore did not starve. The Singapore Free Press, p. 2; Ikan bilis on the menu. (1946, October 21). The Straits Times, p. 4. Retrieved from NewspaperSG.
-29. Singapore. Department of Social Welfare. (1946–1979). Annual report (p. 22). Singapore: Department of Social Welfare. Available via PublicationSG.
-30. S. E. Asia winning war on famine. (1947, January 31). The Straits Times, p. 5. Retrieved from NewspaperSG.
-31. Forty-cent plate? (1946, August 15). The Straits Times, p. 6. Retrieved from NewspaperSG.
-32. Cheaper meals can be cheaper still. (1946, October 17). The Straits Times, p. 10. Retrieved from NewspaperSG.
-33. 4½ million meals sold in S’pore. (1947, April 27). The Straits Times, p. 5. Retrieved from NewspaperSG.
-34. Singapore Department of Social Welfare, 1948, p. 30.
-35.  Singapore Department of Social Welfare, 1948, p. 29.
-36. Restaurants to close. (1948, August 12). The Straits Times, p. 5. Retrieved from NewspaperSG.
-37. Singapore Department of Social Welfare, 1949, p. 34.
-38. Money before food. (1946, December 10). The Singapore Free Press, p. 4. Retrieved from NewspaperSG.
-39. Scheme to feed Singapore children. (1945, November 30). The Straits Times, p. 3. Retrieved from NewspaperSG.
-40. The Straits Times, 20 Nov 1945, 3.
-41. Feeding scheme to be enlarged. (1946, July 31). The Straits Times, p. 3. Retrieved from NewspaperSG.
-42. Singapore. Department of Social Welfare. (1948). The second report of the Singapore Department of Social Welfare 1947 (p. 33). Singapore: Department of Social Welfare. (Call no.: RSING 361.6 SIN); Also announced in the press New feeding scheme starts Jan. 2. (1946, December 30). The Singapore Free Press, p. 5. Retrieved from NewspaperSG.
-43. Singapore Department of Social Welfare, 1948, n. p. 
-44. Mr Attlee ordered free meals for S’pore. (1946, July 17). The Singapore Free Press, p. 5.  Retrieved from NewspaperSG.
-45. Lack of money for child feeding plan. (1946, November 23). The Straits Times, p. 5; see
+[^14]:Singapore. Department of Social Welfare, 1947, p. 24.
+[^15]:Singapore. Department of Social Welfare, 1947, p. 28.
+[^16]:Singapore. Department of Social Welfare, 1947, p. 28.
+[^17]:Big rush for 8-cents meal. (1946, December 19). The Straits Times, p. 7. Retrieved form NewspaperSG.
+[^18]:McNiece, 1983.
+[^19]:35-cent lunch is a reality. (1946, June 28). The Straits Times, p. 3. Retrieved from NewspaperSG.
+[^20]: Governor eats and likes 35-cent lunch. (1946, June 30). The Straits Times, p. 5. Retrieved from NewspaperSG.
+[^21]:The Straits Times, 30 Jun 1946, p. 5.
+[^22]:Alarm in the black market. (1946, July 13). The Straits Times, p. 4. Retrieved from NewspaperSG. 
+[^23]:All restaurants can sell 35-cent meal. (1946, July 12). The Straits Times, p. 5. Retrieved from NewspaperSG.
+[^24]:Untitled. (1946, July 16). The Singapore Free Press, p. 4. Retrieved from NewspaperSG. 
+[^25]:The Singapore Free Press, 16 Jul 1946, p. 4.
+[^26]:Chinese Press runs 10-cent canteen. (1946, July 19). The Singapore Free Press, p. 5. Retrieved from NewspaperSG.
+[^27]:From a cursory scan of selected newspapers published in the same period, such announcements seemed exclusive to The Straits Times or the Singapore Free Press, with little to no similar announcements in rival newspapers such as The Malaya Tribune or the Chinese newspapers.
+[^28]:Fernandes, O. (1947, March 12). Singapore did not starve. The Singapore Free Press, p. 2; Ikan bilis on the menu. (1946, October 21). The Straits Times, p. 4. Retrieved from NewspaperSG.
+[^29]:Singapore. Department of Social Welfare. (1946–1979). Annual report (p. 22). Singapore: Department of Social Welfare. Available via PublicationSG.
+[^30]:S. E. Asia winning war on famine. (1947, January 31). The Straits Times, p. 5. Retrieved from NewspaperSG.
+[^31]:Forty-cent plate? (1946, August 15). The Straits Times, p. 6. Retrieved from NewspaperSG.
+[^32]:Cheaper meals can be cheaper still. (1946, October 17). The Straits Times, p. 10. Retrieved from NewspaperSG.
+[^33]:4½ million meals sold in S’pore. (1947, April 27). The Straits Times, p. 5. Retrieved from NewspaperSG.
+[^34]:Singapore Department of Social Welfare, 1948, p. 30.
+[^35]:Singapore Department of Social Welfare, 1948, p. 29.
+[^36]:Restaurants to close. (1948, August 12). The Straits Times, p. 5. Retrieved from NewspaperSG.
+[^37]:Singapore Department of Social Welfare, 1949, p. 34.
+[^38]:Money before food. (1946, December 10). The Singapore Free Press, p. 4. Retrieved from NewspaperSG.
+[^39]:Scheme to feed Singapore children. (1945, November 30). The Straits Times, p. 3. Retrieved from NewspaperSG.
+[^40]:The Straits Times, 20 Nov 1945, 3.
+[^41]:Feeding scheme to be enlarged. (1946, July 31). The Straits Times, p. 3. Retrieved from NewspaperSG.
+[^42]:Singapore. Department of Social Welfare. (1948). The second report of the Singapore Department of Social Welfare 1947 (p. 33). Singapore: Department of Social Welfare. (Call no.: RSING 361.6 SIN); Also announced in the press New feeding scheme starts Jan. 2. (1946, December 30). The Singapore Free Press, p. 5. Retrieved from NewspaperSG.
+[^43]:Singapore Department of Social Welfare, 1948, n. p. 
+[^44]:Mr Attlee ordered free meals for S’pore. (1946, July 17). The Singapore Free Press, p. 5.  Retrieved from NewspaperSG.
+[^45]:Lack of money for child feeding plan. (1946, November 23). The Straits Times, p. 5; see
 also Baby in a dust bin. (1946, November 27).  The Singapore Free Press, p. 4. Retrieved from NewspaperSG.
-
-46. The Singapore Free Press, 10 Dec 1946, p. 4.
-47. Heavy expenditure criticised — Cost of new Singapore Departments. (6 September 1946).  The Straits Times, 1. Retrieved from NewspaperSG.
-48. Singapore Department of Social Welfare, 1948, p. 34. 
-49. Singapore Department of Social Welfare, 1948, p. 34. 
-50. Volunteers run feeding centres. (1947, October 23). The Singapore Free Press, p. 5. Retrieved from NewspaperSG.
+[^46]:The Singapore Free Press, 10 Dec 1946, p. 4.
+[^47]:Heavy expenditure criticised — Cost of new Singapore Departments. (6 September 1946).  The Straits Times, 1. Retrieved from NewspaperSG.
+[^48]: Singapore Department of Social Welfare, 1948, p. 34. 
+[^49]:Singapore Department of Social Welfare, 1948, p. 34. 
+[^50]:Volunteers run feeding centres. (1947, October 23). The Singapore Free Press, p. 5. Retrieved from NewspaperSG.
 51. S’pore’s children get fed. (1947, February 3). The Singapore Free Press, p. 2. Retrieved from NewspaperSG.
 52. McNeice, 1982. 
 53. McNiece, 1982. 
