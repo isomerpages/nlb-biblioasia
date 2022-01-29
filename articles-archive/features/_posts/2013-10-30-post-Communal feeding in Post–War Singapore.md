@@ -226,14 +226,14 @@ In this particular case, civil society not only played a practical role (provid�
 [^47]:[Heavy expenditure criticised — Cost of new Singapore Departments](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19460906-1.2.2). (6 September 1946).  *The Straits Times*, 1. Retrieved from NewspaperSG.
 [^48]: [Singapore Department of Social Welfare](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12447461), 1948, p. 34. 
 [^49]:[Singapore Department of Social Welfare](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12447461), 1948, p. 34. 
-[^50]:Volunteers run feeding centres. (1947, October 23). The Singapore Free Press, p. 5. Retrieved from NewspaperSG.
-[^51]:S’pore’s children get fed. (1947, February 3). The Singapore Free Press, p. 2. Retrieved from NewspaperSG.
+[^50]:[Volunteers run feeding centres](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19471023-1.2.30.1). (1947, October 23). *The Singapore Free Press*, p. 5. Retrieved from NewspaperSG.
+[^51]:[S’pore’s children get fed](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19470203-1.2.22.1). (1947, February 3). *The Singapore Free Press*, p. 2. Retrieved from NewspaperSG.
 [^52]:McNeice, 1982. 
 [^53]:McNiece, 1982. 
-[^54]:Zhou, M. (1996). The life and family planning pioneer, Constance Goh: Point of light. Singapore: Graham Brash, 133–135. (Call no.: RSING 363.96092 ZHO)
+[^54]:Zhou, M. (1996). [*The life and family planning pioneer, Constance Goh: Point of light*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7893264). Singapore: Graham Brash, 133–135. (Call no.: RSING 363.96092 ZHO)
 [^55]:See McNeice, 1982 and McNeice, 1983 for personal recollections of how Constance Goh established the association.
-[^56]:Singapore Department of Social Welfare, 1948, pp. 20–21.
-[^57]: Singapore. Department of Social Welfare. (1949). The third report of the Singapore Department of Social Welfare 1948 (p. 4). Singapore: Department of Social Welfare. (Call no.: RSING 361.6 SIN) 
+[^56]:[Singapore Department of Social Welfare](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12447461), 1948, pp. 20–21.
+[^57]: Singapore. Department of Social Welfare. (1949). [The third report of the Singapore Department of Social Welfare 1948](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12447461) (p. 4). Singapore: Department of Social Welfare. (Call no.: RSING 361.6 SIN) 
 [^58]:Singapore Department of Social Welfare, 1948, p. 9.
 [^59]:Singapore Department of Social Welfare, 1948, p. 9.
 [^60]:See Axe may fall on feeding schemes. (1949, November 16). The Straits Times, 5; Scotching a rumour. (1949, December 20). The Straits Times, p. 6. Retrieved from NewspaperSG.
