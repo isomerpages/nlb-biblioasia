@@ -178,19 +178,19 @@ In this particular case, civil society not only played a practical role (provid�
 <a href="https://biblioasia.nlb.gov.sg/vol-9/issue-3/oct-dec-2012/"><center>Back to Issue</center></a>
 
 #### **Notes**
-1 Malayan cost of living report. (1946, June 27). The Straits Times, p. 2. (Retrieved from NewspaperSG); Malayan Union. The wages and cost of living committee. (1946). The interim report of the wages and cost of living committee. Singapore: G.P.O. 
-2 The Straits Times, 27 Jun 1946, p. 2; Malayan Union. The wages and cost of living committee. (1946). The interim report of the wages and cost of living committee. Singapore: G.P.O. 
-3 Vernon, J. (2007). Hunger: A modern history (pp. 160–161). England: The Belknap Press of Harvard University Press. (Not available in NLB holdings)
-4 Vernon, 2007, pp. 181, 187.
-5 Tan, L. (Interviewer). (1984, April 17). Oral history interview with Tan Beng Neo [Transcript of MP3 recording no. 000371/26/16, p. 249]. Retrieved from National Archives of Singapore website; Wong, H.S. (2009). Wartime kitchen: Food and eating in Singapore 1942–1950 (p. 83). Singapore: National Museum of Singapore and Editions Didier Millet. (Call no.: RSING 641.30095957 WON)
-6 Oral history interview with Tan Beng Neo, 17 Apr 1984; Wong, 2009, p. 83.
-7 Cheap lunch from today. (1946, June 29). The Straits Times, p. 5. Retrieved from NewspaperSG. 
-8 Singapore. Department of Social Welfare. (1947). Beginnings: The first report of the Singapore Department of Social Welfare, June to December 1946 (p. 22). Singapore: Department of Social Welfare. (Call no.: RRARE 361.6 SIN; Microfilm no.: NL28506)
-9 Singapore. Department of Social Welfare, 1947, pp. 22–23.
-10 Singapore. Department of Social Welfare, 1947, pp. 23, 51.
-11 Singapore. Department of Social Welfare, 1947, p. 53.
-12 Singapore. Department of Social Welfare, 1947, p. 24.
-13 Singapore. Department of Social Welfare, 1947, p. 26.
+[^1]:Malayan cost of living report. (1946, June 27). The Straits Times, p. 2. (Retrieved from NewspaperSG); Malayan Union. The wages and cost of living committee. (1946). The interim report of the wages and cost of living committee. Singapore: G.P.O. 
+[^2]:The Straits Times, 27 Jun 1946, p. 2; Malayan Union. The wages and cost of living committee. (1946). The interim report of the wages and cost of living committee. Singapore: G.P.O. 
+[^3]:Vernon, J. (2007). Hunger: A modern history (pp. 160–161). England: The Belknap Press of Harvard University Press. (Not available in NLB holdings)
+[^4]:Vernon, 2007, pp. 181, 187.
+[^5]:Tan, L. (Interviewer). (1984, April 17). Oral history interview with Tan Beng Neo [Transcript of MP3 recording no. 000371/26/16, p. 249]. Retrieved from National Archives of Singapore website; Wong, H.S. (2009). Wartime kitchen: Food and eating in Singapore 1942–1950 (p. 83). Singapore: National Museum of Singapore and Editions Didier Millet. (Call no.: RSING 641.30095957 WON)
+[^6]:Oral history interview with Tan Beng Neo, 17 Apr 1984; Wong, 2009, p. 83.
+[^7]:Cheap lunch from today. (1946, June 29). The Straits Times, p. 5. Retrieved from NewspaperSG. 
+[^8]:Singapore. Department of Social Welfare. (1947). Beginnings: The first report of the Singapore Department of Social Welfare, June to December 1946 (p. 22). Singapore: Department of Social Welfare. (Call no.: RRARE 361.6 SIN; Microfilm no.: NL28506)
+[^9]:Singapore. Department of Social Welfare, 1947, pp. 22–23.
+[^10]:Singapore. Department of Social Welfare, 1947, pp. 23, 51.
+[^11]:Singapore. Department of Social Welfare, 1947, p. 53.
+[^12]:Singapore. Department of Social Welfare, 1947, p. 24.
+[^13]:Singapore. Department of Social Welfare, 1947, p. 26.
 14 Singapore. Department of Social Welfare, 1947, p. 24.
 15 Singapore. Department of Social Welfare, 1947, p. 28.
 16 Singapore. Department of Social Welfare, 1947, p. 28.
@@ -263,48 +263,3 @@ Tan, B.N. (1983, November 26). Women through the years: Economic and family live
 Vernon, J. (2007). Hunger: A modern history. England: The Belknap Press of Harvard University Press. (Not available in NLB holdings)
 Wong, H.S. (2009). Wartime kitchen: Food and eating in Singapore 1942–1950. Singapore: National Museum of Singapore and Editions Didier Millet. (Call no.: RSING 641.30095957 WON)
 Zhou, M. (1996). The life and family planning pioneer, Constance Goh: Point of light. Singapore: Graham Brash. (Call no.: RSING 363.96092 ZHO)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
