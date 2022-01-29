@@ -212,9 +212,9 @@ In this particular case, civil society not only played a practical role (provid�
 [^33]:[4½ million meals sold in S’pore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19470427-1.2.45). (1947, April 27). *The Straits Times*, p. 5. Retrieved from NewspaperSG.
 [^34]:[Singapore Department of Social Welfare](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12447461), 1948, p. 30.
 [^35]:[Singapore Department of Social Welfare](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12447461), 1948, p. 29.
-[^36]:Restaurants to close. (1948, August 12). The Straits Times, p. 5. Retrieved from NewspaperSG.
-[^37]:Singapore Department of Social Welfare, 1949, p. 34.
-[^38]:Money before food. (1946, December 10). The Singapore Free Press, p. 4. Retrieved from NewspaperSG.
+[^36]:[Restaurants to close](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19480812-1.2.48). (1948, August 12). *The Straits Times*, p. 5. Retrieved from NewspaperSG.
+[^37]:[Singapore Department of Social Welfare](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12447461), 1949, p. 34.
+[^38]:[Money before food](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19461210-1.2.4.1). (1946, December 10). The Singapore Free Press, p. 4. Retrieved from NewspaperSG.
 [^39]:Scheme to feed Singapore children. (1945, November 30). The Straits Times, p. 3. Retrieved from NewspaperSG.
 [^40]:The Straits Times, 20 Nov 1945, 3.
 [^41]:Feeding scheme to be enlarged. (1946, July 31). The Straits Times, p. 3. Retrieved from NewspaperSG.
