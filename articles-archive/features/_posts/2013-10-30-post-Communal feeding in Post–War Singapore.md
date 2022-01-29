@@ -176,15 +176,47 @@ In this particular case, civil society not only played a practical role (provid�
 
 <a href="https://biblioasia.nlb.gov.sg/vol-9/issue-3/oct-dec-2012/"><center>Back to Issue</center></a>
 
+#### **References**
+
+Fraser, D. (2003). *The evolution of the British welfare state: A history of social policy since the industrial revolution*. Basingstoke: Palgrave Macmillan. (Not available in NLB holdings).
+
+Kratoska, P.H. (1988, March). The Post-1945 food shortage in British Malaya. *Journal of Southeast Asian Studies, 19* (1), 27–47. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+
+Malayan Union. The wages and cost of living committee. (1946). *The interim report of the wages and cost of living committee*. Singapore: G.P.O. 
+
+McNiece, L.P. (1982, August 4). *Pioneers of Singapore*. In the collection of Oral history recording database. National Archives of Singapore. 
+
+McNiece, T.P.F. (1981, November 10). *The civil service – A retrospection*. In the collection of Oral history recording. 
+
+Singapore, British Military Administration Chinese Affairs. (n.d.). *Social welfare. [Long-term policy directive for Social welfare]. British Military Administration Chinese Affairs* (27/45). Government Records Information database. 
+
+Singapore. Department of Social Welfare. (1947). [*Beginnings: The first report of the Singapore Department of Social Welfare, June to December 1946*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12447461). Singapore: Department of Social Welfare. (Call no.: RRARE 361.6 SIN; Microfilm no.: NL28506).
+
+Singapore. Department of Social Welfare. (1948). [*The second report of the Singapore Department of Social Welfare 1947*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12447461). Singapore: Department of Social Welfare. (Call no.: RSING 361.6 SIN). 
+
+Singapore. Department of Social Welfare. (1949). [The third report of the Singapore Department of Social Welfare 1948](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12447461). Singapore: Department of Social Welfare. (Call no.: RSING 361.6 SIN).
+
+Singapore. Department of Social Welfare. (1946–1979). [Annual report](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5367088). Singapore: Department of Social Welfare. Available via PublicationSG.
+
+Singapore. Ministry of Community Development, Youth and Sports. (2007). [*Helping hands, touching lives*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12881916). Singapore: Ministry of Community Development, Youth and Sports. (Call no.: RSING 361.95957 HEL).
+
+Tan, B.N. (1983, November 26). *Women through the years*: Economic and family lives. In the collection of oral history recording database. National Archives of Singapore. 
+
+Vernon, J. (2007). *Hunger: A modern history*. England: The Belknap Press of Harvard University Press. (Not available in NLB holdings).
+
+Wong, H.S. (2009). [*Wartime kitchen: Food and eating in Singapore 1942–1950*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13158872). Singapore: National Museum of Singapore and Editions Didier Millet. (Call no.: RSING 641.30095957 WON).
+
+Zhou, M. (1996). [*The life and family planning pioneer, Constance Goh: Point of light*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7893264). Singapore: Graham Brash. (Call no.: RSING 363.96092 ZHO).
+
 #### **Notes**
 [^1]:[Malayan cost of living report](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19460627-1.2.15). (1946, June 27). *The Straits Times*, p. 2. (Retrieved from NewspaperSG); Malayan Union. The wages and cost of living committee. (1946). *The interim report of the wages and cost of living committee*. Singapore: G.P.O. 
 [^2]:[*The Straits Times*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19460627-1.2.15), 27 Jun 1946, p. 2; Malayan Union. The wages and cost of living committee. (1946). *The interim report of the wages and cost of living committee*. Singapore: G.P.O. 
 [^3]:Vernon, J. (2007). *Hunger: A modern history* (pp. 160–161). England: The Belknap Press of Harvard University Press. (Not available in NLB holdings)
 [^4]:Vernon, 2007, pp. 181, 187.
-[^5]:Tan, L. (Interviewer). (1984, April 17). [*Oral history interview with Tan Beng Neo*](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/4/44a93e59-115f-11e3-83d5-0050568939ad-OHC000371_016/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=15) [Transcript of MP3 recording no. 000371/26/16, p. 249]. Retrieved from National Archives of Singapore website; Wong, H.S. (2009). [*Wartime kitchen: Food and eating in Singapore 1942–1950*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13158872) (p. 83). Singapore: National Museum of Singapore and Editions Didier Millet. (Call no.: RSING 641.30095957 WON)
+[^5]:Tan, L. (Interviewer). (1984, April 17). [*Oral history interview with Tan Beng Neo*](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/4/44a93e59-115f-11e3-83d5-0050568939ad-OHC000371_016/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=15) [Transcript of MP3 recording no. 000371/26/16, p. 249]. Retrieved from National Archives of Singapore website; Wong, H.S. (2009). [*Wartime kitchen: Food and eating in Singapore 1942–1950*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13158872) (p. 83). Singapore: National Museum of Singapore and Editions Didier Millet. (Call no.: RSING 641.30095957 WON).
 [^6]:[*Oral history interview with Tan Beng Neo*](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/4/44a93e59-115f-11e3-83d5-0050568939ad-OHC000371_016/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=15), 17 Apr 1984; [Wong](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13158872), 2009, p. 83.
 [^7]:[Cheap lunch from today](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19460629-1.2.55). (1946, June 29). *The Straits Times*, p. 5. Retrieved from NewspaperSG. 
-[^8]:Singapore. Department of Social Welfare. (1947). [*Beginnings: The first report of the Singapore Department of Social Welfare, June to December 1946*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12447461) (p. 22). Singapore: Department of Social Welfare. (Call no.: RRARE 361.6 SIN; Microfilm no.: NL28506)
+[^8]:Singapore. Department of Social Welfare. (1947). [*Beginnings: The first report of the Singapore Department of Social Welfare, June to December 1946*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12447461) (p. 22). Singapore: Department of Social Welfare. (Call no.: RRARE 361.6 SIN; Microfilm no.: NL28506).
 [^9]:[Singapore. Department of Social Welfare](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12447461), 1947, pp. 22–23.
 [^10]:[Singapore. Department of Social Welfare](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12447461), 1947, pp. 23, 51.
 [^11]:[Singapore. Department of Social Welfare](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12447461), 1947, p. 53.
@@ -244,34 +276,3 @@ In this particular case, civil society not only played a practical role (provid�
 [^65]:Singapore, British Military Administration Chinese Affairs. (n.d.). Social welfare. [Long-term policy directive for Social welfare]. British Military Administration Chinese Affairs (27/45). Government Records Information database. 
 [^66]:National Library Board. (2010). [Launch of Family Planning Publicity Campaign](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1651_2010-02-26.html) written by Lim, Irene. Retrieved from Singapore Infopedia. 
 
-#### **References**
-
-Fraser, D. (2003). *The evolution of the British welfare state: A history of social policy since the industrial revolution*. Basingstoke: Palgrave Macmillan. (Not available in NLB holdings)
-
-Kratoska, P.H. (1988, March). The Post-1945 food shortage in British Malaya. *Journal of Southeast Asian Studies, 19* (1), 27–47. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
-
-Malayan Union. The wages and cost of living committee. (1946). *The interim report of the wages and cost of living committee*. Singapore: G.P.O. 
-
-McNiece, L.P. (1982, August 4). *Pioneers of Singapore*. In the collection of Oral history recording database. National Archives of Singapore. 
-
-McNiece, T.P.F. (1981, November 10). *The civil service – A retrospection*. In the collection of Oral history recording. 
-
-Singapore, British Military Administration Chinese Affairs. (n.d.). *Social welfare. [Long-term policy directive for Social welfare]. British Military Administration Chinese Affairs* (27/45). Government Records Information database. 
-
-Singapore. Department of Social Welfare. (1947). [*Beginnings: The first report of the Singapore Department of Social Welfare, June to December 1946*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12447461). Singapore: Department of Social Welfare. (Call no.: RRARE 361.6 SIN; Microfilm no.: NL28506)
-
-Singapore. Department of Social Welfare. (1948). [*The second report of the Singapore Department of Social Welfare 1947*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12447461). Singapore: Department of Social Welfare. (Call no.: RSING 361.6 SIN) 
-
-Singapore. Department of Social Welfare. (1949). [The third report of the Singapore Department of Social Welfare 1948](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12447461). Singapore: Department of Social Welfare. (Call no.: RSING 361.6 SIN) 
-
-Singapore. Department of Social Welfare. (1946–1979). [Annual report](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5367088). Singapore: Department of Social Welfare. Available via PublicationSG.
-
-Singapore. Ministry of Community Development, Youth and Sports. (2007). [*Helping hands, touching lives*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12881916). Singapore: Ministry of Community Development, Youth and Sports. (Call no.: RSING 361.95957 HEL)
-
-Tan, B.N. (1983, November 26). *Women through the years*: Economic and family lives. In the collection of oral history recording database. National Archives of Singapore. 
-
-Vernon, J. (2007). *Hunger: A modern history*. England: The Belknap Press of Harvard University Press. (Not available in NLB holdings)
-
-Wong, H.S. (2009). [*Wartime kitchen: Food and eating in Singapore 1942–1950*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13158872). Singapore: National Museum of Singapore and Editions Didier Millet. (Call no.: RSING 641.30095957 WON)
-
-Zhou, M. (1996). [*The life and family planning pioneer, Constance Goh: Point of light*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7893264). Singapore: Graham Brash. (Call no.: RSING 363.96092 ZHO)
