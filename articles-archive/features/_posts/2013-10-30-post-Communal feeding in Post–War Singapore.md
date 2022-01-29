@@ -246,19 +246,34 @@ also Baby in a dust bin. (1946, November 27).  The Singapore Free Press, p. 4. R
 [^65]:Singapore, British Military Administration Chinese Affairs. (n.d.). Social welfare. [Long-term policy directive for Social welfare]. British Military Administration Chinese Affairs (27/45). Government Records Information database. 
 [^66]:National Library Board. (2010). Launch of Family Planning Publicity Campaign written by Lim, Irene. Retrieved from Singapore Infopedia. 
 
-References
+#### **References**
+
 Fraser, D. (2003). The evolution of the British welfare state: A history of social policy since the industrial revolution. Basingstoke: Palgrave Macmillan. (Not available in NLB holdings)
+
 Kratoska, P.H. (1988, March). The Post-1945 food shortage in British Malaya. Journal of Southeast Asian Studies, 19 (1), 27–47. Retrieved from JSTOR via NLB’s eResources website.
+
 Malayan Union. The wages and cost of living committee. (1946). The interim report of the wages and cost of living committee. Singapore: G.P.O. 
+
 McNiece, L.P. (1982, August 4). Pioneers of Singapore. In the collection of Oral history recording database. National Archives of Singapore. 
+
 McNiece, T.P.F. (1981, November 10). The civil service – A retrospection. In the collection of Oral history recording. 
+
 Singapore, British Military Administration Chinese Affairs. (n.d.). Social welfare. [Long-term policy directive for Social welfare]. British Military Administration Chinese Affairs (27/45). Government Records Information database. 
+
 Singapore. Department of Social Welfare. (1947). Beginnings: The first report of the Singapore Department of Social Welfare, June to December 1946. Singapore: Department of Social Welfare. (Call no.: RRARE 361.6 SIN; Microfilm no.: NL28506)
+
 Singapore. Department of Social Welfare. (1948). The second report of the Singapore Department of Social Welfare 1947. Singapore: Department of Social Welfare. (Call no.: RSING 361.6 SIN) 
+
 Singapore. Department of Social Welfare. (1949). The third report of the Singapore Department of Social Welfare 1948. Singapore: Department of Social Welfare. (Call no.: RSING 361.6 SIN) 
+
 Singapore. Department of Social Welfare. (1946–1979). Annual report. Singapore: Department of Social Welfare. Available via PublicationSG.
+
 Singapore. Ministry of Community Development, Youth and Sports. (2007). Helping hands, touching lives. Singapore: Ministry of Community Development, Youth and Sports. (Call no.: RSING 361.95957 HEL)
+
 Tan, B.N. (1983, November 26). Women through the years: Economic and family lives. In the collection of oral history recording database. National Archives of Singapore. 
+
 Vernon, J. (2007). Hunger: A modern history. England: The Belknap Press of Harvard University Press. (Not available in NLB holdings)
+
 Wong, H.S. (2009). Wartime kitchen: Food and eating in Singapore 1942–1950. Singapore: National Museum of Singapore and Editions Didier Millet. (Call no.: RSING 641.30095957 WON)
+
 Zhou, M. (1996). The life and family planning pioneer, Constance Goh: Point of light. Singapore: Graham Brash. (Call no.: RSING 363.96092 ZHO)
