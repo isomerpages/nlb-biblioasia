@@ -5,8 +5,6 @@ date: 2013-10-30
 layout: post
 description: ""
 ---
-
-
 <img src="/images/vol-9-issue-3/communal-feeding/C1.JPG">
 <div style="background-color: white;"> Children playing outside a Children's Social Centre in 1951. <i>MITA collection, courtesy of National Archives of Singapore.</i></div>
 
@@ -16,7 +14,7 @@ Between June 1946 and August 1948, Singapore’s colonial government operated a 
 
 Over two years, the feeding programme expanded to include a catering service, financial support for the creation of private canteens and a children’s feeding scheme. Though short-lived, the impact of the programme was wide-ranging. It eased considerable pressure on the colonial government at a time when food was scarce, helped established a new social welfare department, and laid the foundations for a post-war social welfare landscape in Singapore.
 
-#### **ORIGINS OF THE FOOD PROGRAMME**
+#### **Origins of the Food Programme**
 
 The return of the British after World War II did not bring immediate relief to Singapore and its people. The delayed return of the British after the sudden surrender of the Japanese resulted in a gaping void. The Malayan Anti-Japanese People’s Army (MPAJA) poured out of the jungles and attempted to establish its authority in Singapore and Malaya — often violently. Political challenges aside, a critical shortage of rice in Southeast Asia also threatened to undermine British authority by worsening malnutrition and a rampant black market.
 
