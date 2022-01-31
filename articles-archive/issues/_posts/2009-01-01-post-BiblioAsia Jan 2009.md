@@ -17,7 +17,7 @@ description: ""
 
 **A History More Refined: Malay Women's and Men's Magazines of the 1950s in Singapore and Malaya**<br>[(PDF)](/files/pdf/vol-4/issue-4/v4-issue4_WomenMenMagazines.pdf)
 
-**Behind Street Names: Prominent People of Early Singapore Some Perspectives from the Koh Seow Chuan Collection**<br>[(PDF)](/files/pdf/vol-4/issue-4/v4-issue4_StreetNames.pdf)
+**Behind Street Names: Prominent People of Early Singapore – Some Perspectives from the Koh Seow Chuan Collection**<br>[(PDF)](/files/pdf/vol-4/issue-4/v4-issue4_StreetNames.pdf)
 
 **Lembaran Akhbar Silam: Jawi Peranakkan, 1876–1895**<br>[(PDF)](/files/pdf/vol-4/issue-4/v4-issue4_JawiPeranakkan.pdf)
 

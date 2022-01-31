@@ -9,28 +9,28 @@ description: ""
 
 **Director's Column**<br>
 
-**Resonating With Youths in Singapore: Managing Cultural Identity in Wed Design**<br>
+**Resonating with Youths in Singapore: Managing Cultural Identity in Web Design**<br>[(PDF)](/files/pdf/vol-4/issue-2/v4-issue2_ResonatingYouths.pdf)
 
-**Destined To Be An Entrepreneur and A Philanthropist To Be Remembered**<br>
+**Destined to be an Entrepreneur and a Philanthropist to be Remembered**<br>[(PDF)](/files/pdf/vol-4/issue-2/v4-issue2_EntrepreneurPhilantropist.pdf)
 
-**Sacred Dance in Singapore**<br>
+**Sacred Dance in Singapore**<br>[(PDF)](/files/pdf/vol-4/issue-2/v4-issue2_SacredDance.pdf)
 
-**Tamil Article**<br>
+**பல துறை நுண்ணறிவுகள் அணுகுமுறை வழிப் (Multiple Intelligences Approach) பேச்சுத்திறனை மேம்படுத்துவோம்!)**<br>[(PDF)](/files/pdf/vol-4/issue-2/v4-issue2_Tamil.pdf)
 
-**The “Earliest” And “Firsts”: A Selection From The Treasures of The National Library of Singapore**<br>
+**The “Earliest” and “Firsts”: A Selection from the Treasures of the National Library of Singapore**<br>[(PDF)](/files/pdf/vol-4/issue-2/v4-issue2_EarliestFirsts2.pdf)
 
-**Hikayatt Abdullah**<br>
+**Hikayat Abdullah**<br>[(PDF)](/files/pdf/vol-4/issue-2/v4-issue2_HikayatAbdullah.pdf)
 
-**Masuri S N**<br>
+**Masuri S N**<br>[(PDF)](/files/pdf/vol-4/issue-2/v4-issue2_MasuriSN2.pdf)
 
-**Singapore As A Centre For Asian Children's Books The Asian Children's Collection At The Lee Kong Chian Reference Library**<br>
+**Singapore as a Centre for Asian Children’s Books: The Asian Children’s Collection at the Lee Kong Chian Reference Library**<br>[(PDF)](/files/pdf/vol-4/issue-2/v4-issue2_AsianChildrenBooks.pdf)
 
-**The Legacy of Tan Kah Kee and Lee Kong Chian**<br>
+**The Legacy of Tan Kah Kee and Lee Kong Chian**<br>[(PDF)](/files/pdf/vol-4/issue-2/v4-issue2_KahKeeKongChian.pdf)
 
-**The Percy R Hill Collection**<br>
+**The Percy R Hill Collection**<br>[(PDF)](/files/pdf/vol-4/issue-2/v4-issue2_PercyHill.pdf)
 
-**Launch of “Screen To Print”**<br>
+**Launch of “Screen To Print”**<br>[(PDF)](/files/pdf/vol-4/issue-2/v4-issue2_ScreenPrint.pdf)
 
-**Research Fellows 2008: Lee Kong Chian Research Fellowship Series**<br>
+**Research Fellows 2008: Lee Kong Chian Research Fellowship Series**<br>[(PDF)](/files/pdf/vol-4/issue-2/v4-issue2_ResearchFellows2008.pdf)
 
-**Digital A To Z Databases: D is for Dance, E is for EBSCO, Economics, Education and Engineering**<br>
+**Digital A To Z Databases: D is for Dance, E is for EBSCO, Economics, Education and Engineering**<br>[(PDF)](/files/pdf/vol-4/issue-2/v4-issue2_DigitalA-Z.pdf)

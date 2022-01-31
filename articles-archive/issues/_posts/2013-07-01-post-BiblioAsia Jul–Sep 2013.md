@@ -5,19 +5,21 @@ date: 2013-07-01
 layout: post
 description: ""
 ---
-
-
 ![Alt text for image on Isomer site](/images/covers/ba9-2.jpg)
 
 **Director's Column**
 
+**Message from IFLA President-elect**
+
+**Libraries for Life**<br>[(PDF)](/files/pdf/vol-9/issue-2/v9-issue2_LibrariesforLife.pdf)
+
 **Libraries: A Force to Transform Societies**<br>
 More than just repositories of knowledge, libraries are spaces of innovation and collaboration with the power to change society.[(PDF)](/files/pdf/vol-9/issue-2/v9-issue2_LibrariesSocieties.pdf)
 
-**Chinese Article**<br>
+**建设覆盖城乡的数字图书馆服务体系**<br>
 China: Planning and Implementation of the Digital Library Promotion Project.[(PDF)](/files/pdf/vol-9/issue-2/v9-issue2_ChinaPlanning.pdf)
 
-**Books that Shaped the World**<br>
+**Books That Shaped the World**<br>
 The importance of books lies in its substance and not its form. Whether on page or in pixel, the ideas perpetuated by books will continue to influence people and communities.[(PDF)](/files/pdf/vol-9/issue-2/v9-issue2_BooksWorld.pdf)
 
 **u-Pustaka: The Malaysian Ubiquitous Library Pilot Project**<br>
@@ -38,6 +40,8 @@ The Library Society of China has been encouraging academic exchange, organising 
 **Singapore Public Libraries: Past, Present and Future**<br>
 From programmes and initiatives targeted at children, to courses and senior-friendly print material for the elderly, and even mobile bus services for those with special needs, the public libraries of Singapore have been tirelessly serving and engaging the residents of the nation.[(PDF)](/files/pdf/vol-9/issue-2/v9-issue2_PublicLibraries.pdf)
 
-**The Way We Were: Evolution of the Singapore Family**<br>[(PDF)](/files/pdf/vol-9/issue-2/v9-issue2_SingaporeFamily.pdf)
+**The Way We Were: Evolution of the Singapore Family**<br>
+In conjunction with the launch of the exhibition “Roots: Tracing Family History”, this essay ruminates on the question of family in Singapore.[(PDF)](/files/pdf/vol-9/issue-2/v9-issue2_SingaporeFamily.pdf)
 
-**Memories in Our Hands: The Singapore Memory Project-Exhibition**<br>[(PDF)](/files/pdf/vol-9/issue-2/v9-issue2_MemoriesHands.pdf)
+**Memories in Our Hands: The Singapore Memory Project Exhibition**<br>
+The Singapore Memory Project, spearheaded by the National Library and launched in August 2011, aims to capture the memories of Singapore. Memories take centre stage in this exhibition titled “Hands”. [(PDF)](/files/pdf/vol-9/issue-2/v9-issue2_MemoriesHands.pdf)

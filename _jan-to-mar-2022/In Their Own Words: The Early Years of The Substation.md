@@ -27,7 +27,7 @@ The art centre’s operating model was unique for a Singapore arts organisation 
 
 The Substation moved out from Armenian Street on 30 July 2021 and has entered a new phase of its journey as an arts company.  
 
-In the three decades that it existed on Armenian Street, it had been an incubator of young artistic talent. Professor Tommy Koh noted in an op-ed in the *Straits Times* that the arts centre “has nurtured many recipients of the Cultural Medallion and Young Artist Award.” He said: “Eminent theatre practitioners, such as Wild Rice founding artistic director Ivan Heng, TNS [The Necessary Stage] artistic director Alvin Tan and TheatreWorks artistic director Ong Keng Seng were mentored by Pao Kun at The Substation.” The Substation also nurtured other lesser known artists as well, he added.[^2]
+In the three decades that it existed on Armenian Street, it had been an incubator of young artistic talent. Professor Tommy Koh noted in an op-ed in the *Straits Times* that the arts centre “has nurtured many recipients of the Cultural Medallion and Young Artist Award.” He said: “Eminent theatre practitioners, such as Wild Rice founding artistic director Ivan Heng, TNS [The Necessary Stage] artistic director Alvin Tan and TheatreWorks artistic director Ong Keng Sen were mentored by Pao Kun at The Substation.” The Substation also nurtured other lesser known artists as well, he added.[^2]
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/substation/KuoPaoKon2.png)
 <div style="background-color: white;">Kuo Pao Kun (in black) and Professor Tommy Koh (in sports attire) at The Substation’s First Anniversary Walk-a-Jog event in September 1991. <i>The Substation Collection, PictureSG, National Library, Singapore. </i></div>

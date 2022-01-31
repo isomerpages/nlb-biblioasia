@@ -5,28 +5,27 @@ date: 2013-10-01
 layout: post
 description: ""
 ---
-
 ![Alt text for image on Isomer site](/images/covers/ba9-3.jpg)
 
 **Director's Column**
 
-**Communal Feeding in Post-War Singapore**<br>The colonial government's communal feeding programme was a novel response to chronic food shortages and malnutrition in the aftermath of the Japanese Occupation, and laid the foundation for the basis of social welfare schemes in Singapore.[(PDF)](/files/pdf/vol-9/issue-3/v9-issue3_CommunalFeeding.pdf)
+**Communal Feeding in Post-war Singapore**<br>The colonial government's communal feeding programme was a novel response to chronic food shortages and malnutrition in the aftermath of the Japanese Occupation, and laid the foundation for the basis of social welfare schemes in Singapore.[(PDF)](/files/pdf/vol-9/issue-3/v9-issue3_CommunalFeeding.pdf)
 
 **Hawkers: From Public Nuisance to National Icons**<br>
 From bane of the government to boon of tourism, hawkers in Singapore have come a long way from the time they were viewed by government officials as progenitors of disorder and disease.[(PDF)](/files/pdf/vol-9/issue-3/v9-issue3_HawkersIcon.pdf)
 
-**"Mrs Beeton" in Malaya: Women, Cookbooks And The Making of The Housewife**<br>
+**"Mrs Beeton" in Malaya: Women, Cookbooks and the Makings of the Housewife**<br>
 Cookbooks offer interesting insights into the oft-overlooked domestic space of British Malaya, shedding light on how women saw themselves and how feminine ideals from the West were propagated in the colonial era.[(PDF)](/files/pdf/vol-9/issue-3/v9-issue3_BeetonMalaya.pdf)
 
-**Spicy Nation: From India To Singapore**<br>
+**Spicy Nation: From India to Singapore**<br>
 From fish head curry to Indian *rojak*, Indian food in Singapore has evolved over time, drawing influences from the various local cultures, and finding its place in the hearts of Singaporeans.[(PDF)](/files/pdf/vol-9/issue-3/v9-issue3_SpicyNation.pdf)
 
-**Into the Melting Pot: Food As Culture**<br>Through the lens of that unique Lunar New Year creation *yu sheng*, find out how the simplest dishes can be canvases upon which cultural and national identities are inscribed.[(PDF)](/files/pdf/vol-9/issue-3/v9-issue3_MeltingPot.pdf)
+**Into the Melting Pot: Food as Culture**<br>Through the lens of that unique Lunar New Year creation *yu sheng*, find out how the simplest dishes can be canvases upon which cultural and national identities are inscribed.[(PDF)](/files/pdf/vol-9/issue-3/v9-issue3_MeltingPot.pdf)
 
 **On the Dining Table: Changing Palates Through the Decades**<br>
 What we eat is often shaped not only by culture and tradition but also society and government policies. Through one family's changing palate, find out how all these factors have influenced what appears on the dinner table.[(PDF)](/files/pdf/vol-9/issue-3/v9-issue3_DiningTable.pdf)
 
-**In Cookery We Trust: The YWCA Cookery Book (1932 – 1964)**<br>
+**In Cookery We Trust: The YWCA Cookery Book (1932–1964)**<br>
 Updated and republished nine times, the *YWCA Cookery Book* is a treatise on the changing culinary styles, domestic practices and eating habits of Singaporeans over three decades.[(PDF)](/files/pdf/vol-9/issue-3/v9-issue3_YWCACookery.pdf)
 
 **1900–1801, 康有为在南洋—读邱菽园后人王建先生藏康有为致邱菽园信函及其他历史文献**<br> 

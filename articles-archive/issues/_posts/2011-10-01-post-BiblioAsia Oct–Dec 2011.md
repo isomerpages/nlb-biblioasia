@@ -17,13 +17,13 @@ description: ""
 
 **Negotiating the Cultural and the Religious: The Recasting of the Chinese Indonesian Buddhist**<br>[(PDF)](/files/pdf/vol-7/issue-3/v7-issue3_CulturalReligious.pdf)
 
-**Malayan Cookery Books: The "*Mems*" Own Cookery Book (1929)**<br> [(PDF)](/files/pdf/vol-7/issue-3/v7-issue3_Malayan-Cookery.pdf)
+**Malayan Cookery Books: The "Mems" Own Cookery Book (1929)**<br> [(PDF)](/files/pdf/vol-7/issue-3/v7-issue3_Malayan-Cookery.pdf)
 
-**Chinese Article**<br>[(PDF)](/files/pdf/vol-7/issue-3/v7-issue3_Chinese.pdf)
+**悠悠百年路 漫漫世纪情 – 传统中医药文化在新加坡**<br>[(PDF)](/files/pdf/vol-7/issue-3/v7-issue3_Chinese.pdf)
+
+**iremembersg: Gotong Royong in the Kampung Life**<br>[(PDF)](/files/pdf/vol-7/issue-3/v7-issue3_IRememberSg.pdf)
 
 **Newspaper SG: From Press to Screen**<br>[(PDF)](/files/pdf/vol-7/issue-3/v7-issue3_NewspaperSg.pdf)
-
-**iRememberSG: Gotong Royong in the Kampung Life**<br>[(PDF)](/files/pdf/vol-7/issue-3/v7-issue3_IRememberSg.pdf)
 
 **More Than Just a Flower: The Orchid's Manifold Faces**<br>[(PDF)](/files/pdf/vol-7/issue-3/v7-issue3_OrchidManifold.pdf)
 

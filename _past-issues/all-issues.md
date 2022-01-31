@@ -62,15 +62,15 @@ Note: When accessing older issues, you may be directed to an archived version.
 
 |                                                              |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![BiblioAsia 10-1 cover](/images/covers/ba10-1.jpg)[Apr–Jun 2014](/files/pdf/Bibliosia Apr-Jun 2014.pdf) | ![BiblioAsia 10-2 cover](/images/covers/ba10-2.jpg)[Jul–Sep 2014](/files/pdf/BiblioAsia Jul-Sep 2014.pdf) |
-| ![BiblioAsia 10-3 cover](/images/covers/ba10-3.jpg)[Oct–Dec 2014](/files/pdf/BiblioAsia_Oct-Dec 2014.pdf) | ![BiblioAsia 10-4 cover](/images/covers/ba10-4.jpg)[Jan–Mar 2015](/vol-10/issue-4/jan-mar-2015/)<br>[Jan–Mar 2015](/files/pdf/BiblioAsia Jan-Mar 2015.pdf) |
+| ![BiblioAsia 10-1 cover](/images/covers/ba10-1.jpg)[Apr–Jun 2014](/vol-10/issue-1/apr-jun-2014/)<br>[Apr–Jun 2014](/files/pdf/Bibliosia Apr-Jun 2014.pdf) | ![BiblioAsia 10-2 cover](/images/covers/ba10-2.jpg)[Jul–Sep 2014](/vol-10/issue-2/jul-sep-2014/)<br>[Jul–Sep 2014](/files/pdf/BiblioAsia Jul-Sep 2014.pdf) |
+| ![BiblioAsia 10-3 cover](/images/covers/ba10-3.jpg)[Oct–Dec 2014](/vol-10/issue-3/oct-dec-2014/)<br>[Oct–Dec 2014](/files/pdf/BiblioAsia_Oct-Dec 2014.pdf) | ![BiblioAsia 10-4 cover](/images/covers/ba10-4.jpg)[Jan–Mar 2015](/vol-10/issue-4/jan-mar-2015/)<br>[Jan–Mar 2015](/files/pdf/BiblioAsia Jan-Mar 2015.pdf) |
 
 ####  Volume 9
 
 |                                                              |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | ![BiblioAsia 9-1 cover](/images/covers/ba9-1.jpg)[Apr–Jun 2013](/vol-9/issue-1/apr-jun-2013/)<br>[Apr–Jun 2013](/files/pdf/Biblioasia Apr-Jun 2013.pdf) | ![BiblioAsia 9-2 cover](/images/covers/ba9-2.jpg)[Jul–Sep 2013](/vol-9/issue-2/jul-sep-2013/)<br>[Jul–Sep 2013](/files/pdf/Biblioasia Jul-Sep 2013.pdf) |
-| ![BiblioAsia 9-3 cover](/images/covers/ba9-3.jpg)[Oct–Dec 2013](/vol-9/issue-3/oct-dec-2013/)<br>[Oct–Dec 2013](/files/pdf/BiblioAsia Oct-Dec 2013.pdf) | ![BiblioAsia 9-4 cover](/images/covers/ba9-4.jpg)[Jan–Mar 2014](/files/pdf/BiblioAsia Jan-Mar 2014.pdf) |
+| ![BiblioAsia 9-3 cover](/images/covers/ba9-3.jpg)[Oct–Dec 2013](/vol-9/issue-3/oct-dec-2013/)<br>[Oct–Dec 2013](/files/pdf/BiblioAsia Oct-Dec 2013.pdf) | ![BiblioAsia 9-4 cover](/images/covers/ba9-4.jpg)[Jan–Mar 2014](/vol-9/issue-4/jan-mar-2014/)<br>[Jan–Mar 2014](/files/pdf/BiblioAsia Jan-Mar 2014.pdf) |
 
 ####  Volume 8
 
@@ -84,14 +84,14 @@ Note: When accessing older issues, you may be directed to an archived version.
 |                                                              |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | ![BiblioAsia 7-1 cover](/images/covers/ba7-1.jpg)[Apr 2011](/vol-7/issue-1/apr-2011/)<br>[Apr 2011](/files/pdf/BiblioAsia Apr 2011.pdf) | ![BiblioAsia 7-2 cover](/images/covers/ba7-2.jpg) [Jul 2011](/vol-7/issue-2/jul-2011/)<br>[Jul 2011](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx){:target="_blank"} |
-| ![BiblioAsia 7-3 cover](/images/covers/ba7-3.jpg) [Oct–Dec 2011](/vol-7/issue-3/oct-dec-2011/)<br>[Oct–Dec 2011](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx){:target="_blank"} | ![BiblioAsia 7-4 cover](/images/covers/ba7-4.jpg)[Mar 2012](/files/pdf/BiblioAsia March 2012.pdf) |
+| ![BiblioAsia 7-3 cover](/images/covers/ba7-3.jpg) [Oct–Dec 2011](/vol-7/issue-3/oct-dec-2011/)<br>[Oct–Dec 2011](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx){:target="_blank"} | ![BiblioAsia 7-4 cover](/images/covers/ba7-4.jpg)[Mar 2012](/vol-7/issue-4/mar-2012/)<br>[Mar 2012](/files/pdf/BiblioAsia March 2012.pdf) |
 
 ####  Volume 6
 
 |                                                              |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![BiblioAsia 6-1 cover](/images/covers/ba6-1.jpg)[Apr 2010](/vol-6/issue-1/apr-jun-2010/)<br>[Apr 2010](/files/pdf/Biblioasia Apr 2010.pdf) | ![BiblioAsia 6-2 cover](/images/covers/ba6-2.jpg)[Jul 2010](/vol-6/issue-2/jul-sep-2010/)<br>[Jul 2010](/files/pdf/BiblioAsia Jul 2010.pdf) |
-| ![BiblioAsia 6-3 cover](/images/covers/ba6-3.jpg)[Oct 2010](/vol-6/issue-3/oct-dec-2010/)<br>[Oct 2010](/files/pdf/BiblioAsia Oct 2010.pdf) | ![BiblioAsia 6-4 cover](/images/covers/ba6-4.jpg)[Jan 2011](/vol-6/issue-4/jan-mar-2011/)<br>[Jan 2011](/files/pdf/BiblioAsia Jan 2011.pdf) |
+| ![BiblioAsia 6-1 cover](/images/covers/ba6-1.jpg)[Apr 2010](/vol-6/issue-1/apr-2010/)<br>[Apr 2010](/files/pdf/Biblioasia Apr 2010.pdf) | ![BiblioAsia 6-2 cover](/images/covers/ba6-2.jpg)[Jul 2010](/vol-6/issue-2/jul-2010/)<br>[Jul 2010](/files/pdf/BiblioAsia Jul 2010.pdf) |
+| ![BiblioAsia 6-3 cover](/images/covers/ba6-3.jpg)[Oct 2010](/vol-6/issue-3/oct-2010/)<br>[Oct 2010](/files/pdf/BiblioAsia Oct 2010.pdf) | ![BiblioAsia 6-4 cover](/images/covers/ba6-4.jpg)[Jan 2011](/vol-6/issue-4/jan-2011/)<br>[Jan 2011](/files/pdf/BiblioAsia Jan 2011.pdf) |
 
 ####  Volume 5
 
@@ -104,32 +104,32 @@ Note: When accessing older issues, you may be directed to an archived version.
 
 |                                                              |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![BiblioAsia 4-1 cover](/images/covers/ba4-1.jpg) [Apr 2008](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx){:target="_blank"} | ![BiblioAsia 4-2 cover](/images/covers/ba4-2.jpg)[Jul 2008](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx){:target="_blank"} |
-| ![BiblioAsia 4-3 cover](/images/covers/ba4-3.jpg)[Oct 2008](/files/pdf/BiblioAsia Oct 2008.pdf) | ![BiblioAsia 4-4 cover](/images/covers/ba4-4.jpg)[Jan 2009](/files/pdf/BiblioAsia Jan 2009.pdf) |
+| ![BiblioAsia 4-1 cover](/images/covers/ba4-1.jpg)[Apr 2008](/vol-4/issue-1/apr-2008/)<br> [Apr 2008](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx){:target="_blank"} | ![BiblioAsia 4-2 cover](/images/covers/ba4-2.jpg)[Jul 2008](/vol-4/issue-2/jul-2008/)<br>[Jul 2008](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx){:target="_blank"} |
+| ![BiblioAsia 4-3 cover](/images/covers/ba4-3.jpg)[Oct 2008](/vol-4/issue-3/oct-2008/)<br>[Oct 2008](/files/pdf/BiblioAsia Oct 2008.pdf) | ![BiblioAsia 4-4 cover](/images/covers/ba4-4.jpg)[Jan 2009](/vol-4/issue-4/jan-2009/)<br>[Jan 2009](/files/pdf/BiblioAsia Jan 2009.pdf) |
 
 ####  Volume 3
 
 |                                                              |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![BiblioAsia 3-1 cover](/images/covers/ba3-1.jpg)[Apr 2007](/files/pdf/BiblioAsia Apr 2007.pdf) | ![BiblioAsia 3-2 cover](/images/covers/ba3-2.jpg)[Jul 2007](/files/pdf/BiblioAsia Jul 2007.pdf) |
-| ![BiblioAsia 3-3 cover](/images/covers/ba3-3-v2.jpg)[Oct 2007](/files/pdf/BiblioAsia Oct 2007.pdf) | ![BiblioAsia 3-4 cover](/images/covers/ba3-4.jpg)[Jan 2008](/files/pdf/BiblioAsia Jan 2008.pdf) |
+| ![BiblioAsia 3-1 cover](/images/covers/ba3-1.jpg)[Apr 2007](/vol-3/issue-1/apr-2007/)<br>[Apr 2007](/files/pdf/BiblioAsia Apr 2007.pdf) | ![BiblioAsia 3-2 cover](/images/covers/ba3-2.jpg)[Jul 2007](/vol-3/issue-2/jul-2007/)<br>[Jul 2007](/files/pdf/BiblioAsia Jul 2007.pdf) |
+| ![BiblioAsia 3-3 cover](/images/covers/ba3-3-v2.jpg)[Oct 2007](/vol-3/issue-3/oct-2007/)<br>[Oct 2007](/files/pdf/BiblioAsia Oct 2007.pdf) | ![BiblioAsia 3-4 cover](/images/covers/ba3-4.jpg)[Jan 2008](/vol-3/issue-4/jan-2008/)<br>[Jan 2008](/files/pdf/BiblioAsia Jan 2008.pdf) |
 
 ####  Volume 2
 
 |                                                              |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![BiblioAsia 2-1 cover](/images/covers/ba2-1.jpg)[Apr 2006](/files/pdf/BiblioAsia Apr 2006.pdf) | ![BiblioAsia 2-2 cover](/images/covers/ba2-2.jpg)[Jul 2006](/files/pdf/BiblioAsia Jul 2006.pdf) |
-| ![BiblioAsia 2-3 cover](/images/covers/ba2-3.jpg)[Oct 2006](/files/pdf/BiblioAsia Oct 2006.pdf) | ![BiblioAsia 2-4 cover](/images/covers/ba2-4.jpg) [Jan 2007](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx){:target="_blank"} |
+| ![BiblioAsia 2-1 cover](/images/covers/ba2-1.jpg)[Apr 2006](/vol-2/issue-1/apr-2006/)<br>[Apr 2006](/files/pdf/BiblioAsia Apr 2006.pdf) | ![BiblioAsia 2-2 cover](/images/covers/ba2-2.jpg)[Jul 2006](/vol-2/issue-2/jul-2006/)<br>[Jul 2006](/files/pdf/BiblioAsia Jul 2006.pdf) |
+| ![BiblioAsia 2-3 cover](/images/covers/ba2-3.jpg)[Oct 2006](/vol-2/issue-3/oct-2006/)<br>[Oct 2006](/files/pdf/BiblioAsia Oct 2006.pdf) | ![BiblioAsia 2-4 cover](/images/covers/ba2-4.jpg)[Jan 2007](/vol-2/issue-4/jan-2007/)<br> [Jan 2007](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx){:target="_blank"} |
 
 ####  Volume 1
 
 |                                                              |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![BiblioAsia 1-1 cover](/images/covers/ba1-1.jpg)[Nov 2005](/files/pdf/BiblioAsia Nov 2005.pdf) | ![BiblioAsia 1-2 cover](/images/covers/ba1-2.jpg) [Feb 2006](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx){:target="_blank"} |
+| ![BiblioAsia 1-1 cover](/images/covers/ba1-1.jpg)[Nov 2005](/vol-1/issue-1/nov-2005/)<br>[Nov 2005](/files/pdf/BiblioAsia Nov 2005.pdf) | ![BiblioAsia 1-2 cover](/images/covers/ba1-2.jpg) [Feb 2006](/vol-1/issue-2/feb-2006/)|
 
 
 ####  Inaugural issue
 
 |                                                              |                                                  |
 | :----------------------------------------------------------: | :----------------------------------------------: |
-| ![BiblioAsia inaugural issue cover](/images/covers/ba-inaugural.jpg)[Inaugural issue](/files/pdf/BiblioAsia Inaugural issue.pdf) | ![Blank](/images/covers/placeholdercover-v2.jpg) |
+| ![BiblioAsia inaugural issue cover](/images/covers/ba-inaugural.jpg)[Inaugural issue](/inaugural-issue/)<br>[Inaugural issue](/files/pdf/BiblioAsia Inaugural issue.pdf) | ![Blank](/images/covers/placeholdercover-v2.jpg) |
