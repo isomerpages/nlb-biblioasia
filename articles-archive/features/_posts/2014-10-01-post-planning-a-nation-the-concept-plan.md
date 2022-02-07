@@ -90,6 +90,8 @@ The most recent review of the Concept Plan was carried out in 2011. However, the
 
 The key findings included: the creation of more people-centric homes; incorporation of the principles of community and inter-generational bonding in the design of public housing; better community facilities and infrastructure; expanding existing public transportation and park connector systems; strengthening the nation’s green infrastructure; and protecting the country’s built heritage.[^63] These findings serve as the backdrop for a number of initiatives in the Land Use Plan. For example, the “Remaking Our Heartland” programme hopes to redevelop older estates such as East Coast, Yishun and Queenstown with more people-centric homes and multi-generational facilities, while the “City in the Garden” vision will see the creation of more parks and a 150-kilometre Round-Island-Route that will link the major built and natural heritage landmarks of Singapore.[^64]
 
+#### **More Concept Plans Ahead**
+
 It is clear that the government will continue to use the Concept Plans to express its long-term planning intentions. Through a collective consultative process with relevant government agencies and the public, the Concept Plan of the future will continue to chart the land use and infrastructure development of Singapore, create solutions to safeguard the environment, sustain the economy and improve the quality of living for future generations. The Concept Plans will also be reviewed regularly so that they can remain flexible and responsive in order to meet the changing needs of the nation.
 
 <div style="background-color: white;">
