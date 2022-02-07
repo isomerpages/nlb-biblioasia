@@ -57,7 +57,7 @@ Rebuilt in 1922 as quarters for policemen, the police station was a familiar lan
 <img src="/images/vol-10-issue-3/overorchard/police_station.jpg">
 Orchard Road Police Station in the 1950s. <i>Singapore Police Force collection, courtesy of National Archives of Singapore.</i></div>
 
-#### **02 C. L. Tang**
+#### **02 C. K. Tang**
 
 Now a household name, C. K. Tang started out in a nondescript shophouse in River Valley Road before moving to Orchard Road in 1958. Founder Tang Choon Keng ignored superstition and selected a location opposite the Tai San Ting Teochew cemetery, setting up what would become an Oriental landmark in Orchard Road.[^5] Designed by Ang Eng Leng, the building’s unique green tiled sloping roofs and red doors were said to be modelled after the Imperial Palace in the Forbidden City in Beijing.[^6] The green roof tiles were produced in Kuala Lumpur, while the carvings adorning the eaves were made by Teochew craftsmen in Singapore.[^7] Elements of this design still remain in the new Tangs building today and the adjacent Marriott Hotel (formerly Dynasty Hotel), both of which were completed in 1982.
 
