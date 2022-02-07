@@ -43,7 +43,7 @@ The energy of the European character... would turn the tables, as it were, upon 
 
 <span style="text-align:right;">–Captain Charles Bethune, from an 1840 China expedition[^26]</span>
 
-#### **The Tamed Jujnlge of Untapped Spoils and Curious Races...**
+#### **The Tamed Jungle of Untapped Spoils and Curious Races...**
 
 The Western travellers’ senses frequently turned to the natives of Singapore. The different races, each with its own unique colour[^27] and sound,[^28] formed a heady mix:
 
