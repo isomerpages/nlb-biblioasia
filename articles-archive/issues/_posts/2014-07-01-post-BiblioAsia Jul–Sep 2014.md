@@ -5,10 +5,7 @@ permalink: /vol-10/issue-2/jul-sep-2014/
 layout: post
 description: ""
 ---
-
-
-
-<img src="/images/vol-9-issue-4/background/covered.jpg">
+<img src="/images/vol-10-issue-2/background/coveredJul2014.jpg">
 
 [<b>Director's Note</b>](/vol-10/issue-2/jul-sep-2014/director-note)
 
