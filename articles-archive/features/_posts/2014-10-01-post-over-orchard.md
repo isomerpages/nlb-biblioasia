@@ -66,7 +66,7 @@ Now a household name, C. K. Tang started out in a nondescript shophouse in River
 <img src="/images/vol-10-issue-3/overorchard/CK_Tang.jpg">
 C. K. Tang in the 1960s. It was demolished in 1982, replaced with an enlarged Tangs and Dynasty Hotel (now Marriott Hotel).4 <i>Courtesy of Bill Johnston.</i></div>
 
-#### **03 Heren Building**
+#### **03 Heeren Building**
 
 Located at the junction of Orchard Road and Cairnhill Road, Heeren Building was designed by Keys and Dowdeswell, a Shanghai architectural firm also responsible for Capitol Cinema and Fullerton Hotel.[^8] A more modest three-storey building in the firm’s typical pseudo-Classical style, the Heeren featured long cantilevered balconies and a strong cornice as prominent elements, similar to Capitol Cinema.[^9] It was a familiar sight and home to many beloved establishments such as the Heeren beauty salon, Beethoven Music House and even a fur shop! Tan Wee Him recollects: 
 
