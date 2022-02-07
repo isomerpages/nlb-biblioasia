@@ -20,7 +20,7 @@ Pulau Ubin was first visited by the Second Resident, John Crawfurd, on 4 August 
 
 In the 1840s, Chinese stone cutters, and later convicts were deployed to quarry the granite in Pulau Ubin, which was later transported to Pedra Branca to build the Horsburgh Lighthouse in 1851.[^6] Granite from Pulau Ubin was also used to build the Raffles Lighthouse in 1855[^7] and the Causeway in 1923.[^8][^9] Pearl’s Hill Reservoir, Fort Canning, Fort Canning Reservoir, the expansion of Fort Fullerton and the Singapore Harbour were also built using granite from Ubin.[^10] A block of granite was even reportedly sent to build the extension of Portsmouth Cathedral in the south of England.[^11]
 
-#### **The Prople of Ubin**
+#### **The People of Ubin**
 
 The earliest inhabitants on Pulau Ubin were the Orang Laut and indigenous Malay of Bugis and Javanese origins. Subsequently, Chinese quarry workers settled on the island – mostly Hakkas, followed by the Hokkiens and later Teochews.[^12] In the 1880s, large numbers of inhabitants from the Kallang River area moved to Pulau Ubin. Migration spiked again prior to the Japanese invasion in 1942 when the mainland residents fled to Pulau Ubin for its perceived safety.[^13] Apart from quarrying granite, the main industry from the 1800s to 1999,[^14] other economic activities in the early days included rearing poultry and the cultivation of rubber and cash crops such as coffee, nutmeg, pineapple, coconut, durian and tobacco, as well as prawn farming and fishing.[^15]
 
