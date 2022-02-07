@@ -118,7 +118,7 @@ I was a young architect in a hurry to do international style of architecture. He
 
 <div style="text-align:right;">From an interview with Prof Bobby Wong on 6 June 2012 by Bonny Tan</div>
 
-#### **Professor Tse Swee Ling's Impressions of Lee Kip Lim**
+#### **Professor Tse Swee Ling's Impressions of Lee Kip Lin**
 
 I have known him for more than 40 years, from working in “Team 3” to teaching in NUS. He’s really a good boss ... whenever there was some argument, unhappiness amongst staff or whatever [in Team 3], he will always help to settle and he’s very good in human relationships. And the staff respect[ed] him.
 
