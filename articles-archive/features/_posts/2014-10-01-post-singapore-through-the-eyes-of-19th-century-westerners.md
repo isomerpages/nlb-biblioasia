@@ -62,7 +62,7 @@ The native portion of the city is entirely separate from the foreign portion. Th
 <img src="/images/vol-10-issue-3/19thcentury/Chinese_merchant_Malay_porter.jpg">
 An engraving of the port of Singapore entitled “Chinese Merchant, Malay Porter” by the official artist of the corvette <i>L’Astrolabe</i> and published in the <i>Voyage pittoresque autour du monde</i> in 1834. <i>Courtesy of National Museum of Singapore, Singapore Heritage Board.</i></div>
 
-#### **The Tamed Junlge of Untapped Spoils and Curious Races Revisited**
+#### **The Tamed Jungle of Untapped Spoils and Curious Races Revisited**
 
 Nineteenth-century travel accounts of Singapore generally celebrated the civilising effect of imperial rule. There were, however, observations that recorded some of its casualties:
 
