@@ -9,7 +9,7 @@ layout: post
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-2/women/washing.jpg">
+<img src="/images/vol-10-issue-2/women/washing.jpg" style="width:70%;">
 Women washing clothes at the kampong’s standpipe in the 1960s. Before Independence, women were mostly engaged in domestic activities. <i>MITA collection, courtesy of National Archives of Singapore.</i></div>
 
 It was 3 July 1959. Chooi Yong was working at the lathe machine when voices and footsteps along the corridor signaled their approach. She hurriedly smoothed her hair and straightened her apron just as the men entered the cabinet-making room. Incidentally, the first Cabinet of Singapore had been sworn in just a month earlier after the People’s Action Party (PAP) swept the 1959 general election. The newly minted Deputy Prime Minister Toh Chin Chye and the Minister for Education Yong Nyuk Lin were inspecting the Singapore Polytechnic, where first-year student Tan Chooi Yong was the only girl in the Engineering Department. 
@@ -30,7 +30,7 @@ The situation soon changed. Between 1970 and 1980, the FLFPR rose impressively f
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-2/women/roxy_electric.jpg">
+<img src="/images/vol-10-issue-2/women/roxy_electric.jpg" style="width:70%;">
 Women working in the factory of Roxy Electric Company Ltd in 1966. <i>MITA collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **Women, Get *Right*  to Work!**
@@ -59,7 +59,7 @@ Conversely, government policies on education, housing and family planning, coupl
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-2/women/tancho_corporation.jpg">
+<img src="/images/vol-10-issue-2/women/tancho_corporation.jpg" style="width:70%;">
 Workers at the factory of Tancho Corporation Limited at Little Road in 1967. Tancho was a sticky pomade that men used to style their hair. <i>MITA collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **Singapore Needs (Wo)manpower**
@@ -72,14 +72,14 @@ The severe labour shortage prompted the government not only to relax regulations
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-2/women/setron_limited.jpg">
+<img src="/images/vol-10-issue-2/women/setron_limited.jpg" style="width:70%;">
 A female worker at Setron Limited – which manufactured television sets – at Tanglin Halt in 1966. <i>MITA collection, courtesy of National Archives of Singapore.</i></div>
 
 For a country that prizes human capital as its sole asset, the high proportion of economically inactive women represented a critically under-utilised resource. As such, housewives and young unmarried women who stayed home to help with domestic chores were identified by the state in 1971 as “the largest source for potential increase of the labour force.”[^33] Official measures taken to attract and retain women in the workforce included providing additional public childcare facilities, locating light-manufacturing industries within housing estates, and urging employers to offer part-time work arrangements.[^34]
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-2/women/Child_care_centre.jpg">
+<img src="/images/vol-10-issue-2/women/Child_care_centre.jpg" style="width:70%;">
 People’s Association Child Care Centre at Queen’s Street in 1985. Child care was and is a pressing concern of many working mothers. <i>MITA collection, courtesy of National Archives of Singapore.</i></div>
 
 Improvements in female educational attainment have given women access to more career options.[^35] The official view on the purpose of female education is best encapsulated in the words of then Minister for Law and National Development E. W. Barker, who in July 1968 said, “In providing girls the same educational opportunities as the boys, we [the government] expect the girls to be equally capable of contributing to the economic growth of our nation.”[^36] The impact that education had on transforming the pattern of female employment is expressed by Chua Hui Neo in an interview in 1995:
