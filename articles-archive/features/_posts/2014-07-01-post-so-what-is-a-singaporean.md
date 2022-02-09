@@ -7,7 +7,7 @@ layout: post
 ---
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-2/singaporean/outside_City_Hall.jpg">
+<img src="/images/vol-10-issue-2/singaporean/outside_City_Hall.jpg" style="width:70%;">
 The National Day emblem outside City Hall at the 1963 National Day Rally held at the Padang. <i>MITA collection, courtesy of National Archives of Singapore.</i></div>
 
 Let me begin with a paradox. I know that I am a Singaporean. But I do not know what a Singaporean is.
@@ -37,12 +37,12 @@ Both Indians and Indonesians have no difficulty recruiting people to die for the
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-2/singaporean/hospital.jpg">
+<img src="/images/vol-10-issue-2/singaporean/hospital.jpg" style="width:70%;">
 Medical staff at the General Hospital attending to racial riot victims in 1964. <i>MITA collection, courtesy of National Archives of Singapore.</i></div>
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-2/singaporean/on_road.jpg">
+<img src="/images/vol-10-issue-2/singaporean/on_road.jpg" style="width:70%;">
 Row of shophouses along Onan Road in 1983. This multiracial neighbourhood in the East Coast was where the author spent his formative years. <i>From the Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009.</i></div>
 
 #### **Poor But Happy Community**
