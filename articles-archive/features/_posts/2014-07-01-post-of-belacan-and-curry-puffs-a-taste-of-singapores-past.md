@@ -9,7 +9,7 @@ layout: post
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-2/belacanandcurrypuff/belacan_used.jpg">
+<img src="/images/vol-10-issue-2/belacanandcurrypuff/belacan_used.jpg" style="width:70%;">
 <i>Belacan</i> is used extensively in Malayan cooking and gives it its distinctive taste.</div>
 
 Research into Singapore's food heritage often neglects the unusually rich minefield of data found in newspapers. NewspaperSG, the National Library's digital archives of local newspapers dating from 1831, provides easy access to a fascinating wealth of information found in otherwise banal resources such as news articles and columns, recipes, restaurant reviews, and even advertisements.
@@ -30,7 +30,7 @@ The <i>Malaya Tribune</i>, a newspaper started in 1914 and targeting Asiatic rea
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-2/belacanandcurrypuff/belacan_packing.jpg">
+<img src="/images/vol-10-issue-2/belacanandcurrypuff/belacan_packing.jpg" style="width:70%;">
 <i>Belacan</i> in traditional packing.</div>
 
 #### **Flavours of Singapore**
@@ -45,7 +45,7 @@ The pungent <i>belacan</i> is manufactured through a crude process of fermenting
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-2/belacanandcurrypuff/belacan_bought_by_Portuguese.jpg">
+<img src="/images/vol-10-issue-2/belacanandcurrypuff/belacan_bought_by_Portuguese.jpg" style="width:70%;">
 <i>Belacan</i> is thought to have been brought to Southeast Asia by the Portuguese.</div>
 
 However, newspaper reports, one as early as 1874,[^11] indicate that a few Europeans had a connoisseur’s appreciation for this foul-smelling ingredient as suggested by its nickname – the Malayan caviar[^12] or the Malaccan cheese, where its best versions came from.[^13] Interest in its flavours was reflected by an enquiry on how to make <i>“blachan toast”</i> in the English newspapers in 1901[^14] and by the 1920s a greater discernment of its varied use in dishes was seen: “The <i>balachan</i> [sic] is decidedly a delicious compound. It can be cooked in various ways, fried simply and mixed with chillies, onions, garlic, and aromatic herbs of different kinds with prawns, fish, crabs... The ‘curry’ so well known in this part of the world has got to be flavoured with this condiment without which it will lose much of its palatable taste. <i>Balacan</i> is equal to or superior (to some tastes) to any European caviarre [sic]... but the taste for it must be acquired. The smell is decidedly objectionable.”[^15]
@@ -62,19 +62,19 @@ The famous Polar Cafe is believed to have created the first baked curry puff in 
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-2/belacanandcurrypuff/polar_cafe.jpg">
+<img src="/images/vol-10-issue-2/belacanandcurrypuff/polar_cafe.jpg" style="width:70%;">
 The original Polar Cafe was located along High Street in the 1920s and popular with those who frequented the area. <i>Courtesy of Polar Puffs & Cakes Pte Ltd.</i></div>
 
 By the 1980s, frozen versions of this baked curry puff were being mass produced for sale, and included exotic variations such as the black pepper chicken puff. These Western curry puffs were shaped and served as pies, with hot meat and potato filling encased in flaky puff pastry and eaten in a restaurant setting. Today, these trademark snacks known as “Polar puffs” come with a variety of fillings and are sold everywhere in Singapore, including petrol stations, convenience stores and supermarkets. 
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-2/belacanandcurrypuff/chan_hinky.jpg">
+<img src="/images/vol-10-issue-2/belacanandcurrypuff/chan_hinky.jpg" style="width:70%;">
 Founder of Polar Cafe, Chan Hinky, arrived in Singapore in the early 20th century, with little to his name. <i>Courtesy of Polar Puffs & Cakes Pte Ltd.</i></div>
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-2/belacanandcurrypuff/curry_puff.jpg">
+<img src="/images/vol-10-issue-2/belacanandcurrypuff/curry_puff.jpg" style="width:70%;">
 Established in the 1920s, the flaky polar puff can now be found island-wide in convenience stores and supermarkets. <i>Courtesy of Polar Puffs & Cakes Pte Ltd.</i></div>
 
 
@@ -96,7 +96,7 @@ In exploring iconic local dishes, newspaper articles help paint a multi-dimensio
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-2/belacanandcurrypuff/filling_and_sealing.jpg">
+<img src="/images/vol-10-issue-2/belacanandcurrypuff/filling_and_sealing.jpg" style="width:70%;">
 Workers filling and sealing curry puffs to be baked and sold. <i>Image from currypuff.com, all rights reserve.</i></div>
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> 
 <b>STEPPING ON IT</b>
@@ -237,7 +237,7 @@ The British Newspaper Archive.
 
 [^15]: [Balachan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19250829-1.2.78). (1925, August 29). <i>The Singapore Free Press and Mercantile Advertiser</i>, p. 11. Retrieved from NewspaperSG.
 
-[^16]: [The belachan trade](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19240927-1.2.62). (1924, September 27). </i>The Singapore Free Press and Mercantile Advertiser</i>, p. 12, Retrieved from NewspaperSG.
+[^16]: [The belachan trade](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19240927-1.2.62). (1924, September 27). <i>The Singapore Free Press and Mercantile Advertiser</i>, p. 12, Retrieved from NewspaperSG.
 
 [^17]: [Distressful Malacca](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19100512-1.2.42). (1910, May 12). <i>The Singapore Free Press and Mercantile Advertiser</i>, p. 5. Retrieved from NewspaperSG.
 
