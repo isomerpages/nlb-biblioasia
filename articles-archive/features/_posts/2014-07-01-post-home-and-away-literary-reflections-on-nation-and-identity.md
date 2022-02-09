@@ -10,7 +10,7 @@ layout: post
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-2/homeandaway/bg.jpg">
+<img src="/images/vol-10-issue-2/homeandaway/bg.jpg" style="width:70%;">
 Singapore’s stunning skyline is a much-photographed sight. While the soaring steel-and-glass buildings are a powerful symbol of the city’s triumphant nation-building efforts, it’s also a reminder of lost heritage and lives that have been displaced in the unrelenting pursuit of commercial success. As the poet Goh Poh Seng so succinctly described in his poem “Singapore”, it is a “city that does not even permit the memory of the sky”.</div>
 
 In the aftermath of a devastating World War II, budding writers in Malaya honed their craft by publishing works that appeared in varsity literature, empowered as they were by a fiery desire to forge a common literary voice in English. With the establishment of the University of Malaya in 1949, the students were likely moved to wield their pens by the 1948 Carr-Saunders Commission Report which articulated that “The University of Malaya will provide for the first time a common centre where varieties of race, religion and economic interest could mingle in a joint endeavour...For a University of Malaya must inevitably realise that it is a university for Malaya.” 
@@ -52,7 +52,7 @@ It is here that another literary pioneer in Singapore must be given equal mentio
 
 His first novel, <i>If We Dream Too Long</i> (1972), is widely recognised as the first true Singaporean novel. It was awarded the National Book Development Council of Singapore Book Prize in 1976 and has been translated into Russian, Tagalog and Japanese. In the novel, Goh explores the theme of searching for self and meaning against the dreary backdrop of rapid urbanisation and an increasingly materialistic society set in 1960s Singapore. 
 
-As the eldest son in a lower-middleclass family, the protagonist, Kwang Meng, is bound both by filial duty and his meagre circumstances in a dead-end job as a clerk to fulfil his role as sole breadwinner. In a futile attempt to escape the anxiety and insecurity of his situation, Kwang Meng tries to brush away the shroud-like pall of ennui that hangs over him by frequenting nightspots, bars and brothels and retreating into the familiar comfort of the cinema or beach to fantasise and daydream.[^9] The restless anxiety and struggle to come to terms with one’s existence in a meritocratic and driven society that has no place for the weak and timid is a recurring motif in Goh’s later novels, <i>Dance of Moths</i> (1995) and <i>Dance with White Clouds: A Fable for Grown-ups</i> (2001).
+As the eldest son in a lower-middle class family, the protagonist, Kwang Meng, is bound both by filial duty and his meagre circumstances in a dead-end job as a clerk to fulfil his role as sole breadwinner. In a futile attempt to escape the anxiety and insecurity of his situation, Kwang Meng tries to brush away the shroud-like pall of ennui that hangs over him by frequenting nightspots, bars and brothels and retreating into the familiar comfort of the cinema or beach to fantasise and daydream.[^9] The restless anxiety and struggle to come to terms with one’s existence in a meritocratic and driven society that has no place for the weak and timid is a recurring motif in Goh’s later novels, <i>Dance of Moths</i> (1995) and <i>Dance with White Clouds: A Fable for Grown-ups</i> (2001).
 
 Apart from his award-winning literary pursuits, Goh worked as a medical practitioner and held many honorary positions in the Singapore arts scene. As chairman of the National Theatre Trust Board between 1967 and 1972, he was responsible for the development of the arts and cultural policies of post-Independence Singapore, as well as the development of cultural institutions such as the Singapore National Symphony, the Chinese Orchestra and the Singapore Dance Company. 
 
@@ -85,7 +85,7 @@ Then, during one night of night-long rain, alone in his room, listening to the m
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-2/homeandaway/singapore_river.jpg">
+<img src="/images/vol-10-issue-2/homeandaway/singapore_river.jpg" style="width:70%;">
 The Singapore River after the removal of river craft such as <i>tongkangs</i> in 1984. Goh Poh Seng was involved in the redevelopment of Boat Quay in the 1980s. Today, the gentrified Boat Quay is a hub of bars, restaurants and cafés. <i>Ronni Pinsler collection, courtesy of National Archives of Singapore.</i></div>
 
 In a 2007 news article about Goh’s visit to Singapore for the first time in 21 years following his move to Canada, he was quoted as saying that he would have taken like a “duck to water” when asked if he could ever live in Singapore again.[^15] This was as fitting a denouement as one could expect for a diasporic homegrown writer who has left an indelible imprint on the nation’s works-in-progress mapping of its literary and cultural boundaries. 
@@ -102,7 +102,7 @@ The main character in Hwee Hwee Tan’s novel <i>Mammon Inc.</i>, Chiah Deng Gan
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-2/homeandaway/boey.jpg">
+<img src="/images/vol-10-issue-2/homeandaway/boey.jpg" style="width:70%;">
 Award-winning writer Boey Kim Cheng in Palenque, Mexico. His latest works include <i>Between Stations</i> (2009) and <i>Clear Brightness</i> (2012). <i>Courtesy of Boey Kim Cheng.</i></div>
 
 <div style="background-color: white;">
