@@ -5,10 +5,10 @@ date: 2013-10-30
 layout: post
 description: ""
 ---
+#### The colonial government’s communal feeding programme was a novel response to chronic food shortages and malnutrition in the aftermath of the Japanese Occupation, and laid the foundation for the basis of social welfare schemes in Singapore.
+
 <img src="/images/vol-9-issue-3/communal-feeding/C1.JPG">
 <div style="background-color: white;"> Children playing outside a Children's Social Centre in 1951. <i>MITA collection, courtesy of National Archives of Singapore.</i></div>
-
-The colonial government’s communal feeding programme was a novel response to chronic food shortages and malnutrition in the aftermath of the Japanese Occupation, and laid the foundation for the basis of social welfare schemes in Singapore.
 
 Between June 1946 and August 1948, Singapore’s colonial government operated a novel communal feeding programme. Supervised by the Singapore Department of Social Welfare, the programme aimed to provide one nutritious meal a day for Singaporeans at affordable prices. Targeted at mainly workers, the meals were provided by the so-called People’s Restaurants located in different parts of the city.
 
@@ -22,7 +22,7 @@ The communal feeding programme can be attributed to the recommendations of the W
 
 The British concept of subsidised state feeding originated in the early 20th century. An emerging social consciousness encouraged the expansion of the state feeding programme, from initially prisoners and the poor to include school-going children and factory workers.[^3] Eventually, this led to the creation of community restaurants — known as National Kitchens during the Great War and British Restaurants during World War II.[^4] State provision of food not only helped to ration limited foodstuffs, but also raised overall morale during times of war and strife.
 
-#### **THE PEOPLE’S RESTAURANTS**
+#### **The People’s Restaurants**
 
 On 29 June 1946, the first People’s Restaurant opened in a converted godown at Telok Ayer.[^5] Tan Beng Neo, a Salvation Army volunteer, described the restaurant as an “attap [palm-thatched] shack with barbed wire fencing,” and recalled that they managed to sell two to three thousand meals in two hours.[^6] The first meal consisted of “rice, pork and vegetables, or rice and fish curry for Muslims, and a mug of iced water.”[^7] “Nutrition experts” from the King Edward VII College of Medicine also ensured that each meal was “not only tasty, but good.”[^8] For a paltry 35 cents, the customer received roughly 700 calories of rice, meat and vegetables, or a third of his daily nutritional needs, with coffee or tea.
 
@@ -36,7 +36,7 @@ and cigarettes, which otherwise he could only get at inflated prices from profit
 
 By the end of 1946, about 10 People’s Restaurants were in operation at refurbished godowns, or as part of existing buildings, including one in the “boxing arena of an Amusement Park.”[^10] These restaurants were located in “Telok Ayer, Seng Poh Road, Queen Street, Handy Road, Happy World, Katong Kitchen/ New World, Maxwell Road, and Harbour Board.”[^11] As the People’s Restaurants were targeted at workers, it only served lunch five days a week.
 
-#### **FEEDING SCHEMES**
+#### **Feeding Schemes**
 
 Overseen by a committee that included Lim Yew Hock and Goh Keng Swee (Singapore's second chief minister and second deputy prime minister respectively), the communal feeding programme expanded to include various schemes, such as the People’s Kitchens, Sponsored and Approved Restaurants, Family Restaurants and children feeding centres.
 
@@ -46,7 +46,7 @@ To reach out to more people quickly and efficiently, the Social Welfare Departme
 
 The Social Welfare Department paid more attention to those who could not even afford the 35-cent meal. It was recognised early on that the 35-cent meal was not often "within the reach of the poor, the old, the unemployable and the many-progenied."[^15] In December 1946, the first Family Restaurant opened at Maxwell Road, selling lunch at only 8 cents per meal. Benefiting from the bulk purchase of army foodstuffs, the Department ensured that the 8-cent meal was similar in proportion to the 35-cent version and even lowered the price of the latter to 30 cents for most of 1947.[^16] Demand for the 8-cent meal was sufficiently high - all 2,500 meals were sold out on the first day - and three existing People's Restaurants were converted into Family Restaurants by the end of 1946.[^17] 
 
-#### **PUBLICISING THE FEEDING SCHEMES**
+#### **Publicising the Feeding Schemes**
 
 <img src="/images/vol-9-issue-3/communal-feeding/C2.JPG">
 <div style="background-color: white;">Food being distributed at a Children's Feeding Centre in 1947. <i>Courtesy of Ministry of Communication and Information. </i></div>
@@ -110,7 +110,7 @@ By April 1947, the Social Welfare Department felt confident enough to announce t
 
 The easing economic situation also resulted in the decline of demand for the Department's meals throughout 1947. Between June and December 1946, 1,321,115 meals were cooked and served by the People's Restaurants and People's Kitchens, while the number of meals for the whole of 1947 only reached 1,575,640, with the daily average falling from 6,000 meals in January 1947 to about 4,000 in December 1947.[^35] The declining demand meant that it was no longer cost-effective to continue the feeding schemes. In August 1948, the People's Restaurants were officially closed and the other feeding schemes discontinued or scaled down.[^36] Over two years, close to three and half million meals via the People's Restaurants and the People's Kitchens had been served.[^37] 
 
-#### **THE CHILDREN'S FEEDING SCHEME**
+#### **The Children’s Feeding Scheme**
 
 The relative success of the communal feeding programme provided the colonial government with ready-made mechanisms to implement policies that were otherwise difficult to put in place. A case in point was the children's feeding scheme, a programme that actually predated the various feeding schemes and the Social Welfare Department - both of which were established in June 1946.
 
@@ -139,7 +139,7 @@ In 1948, the number of children be-low school-going age - the target group of th
 
 A contributing factor for the change was financial. Feeding centres were fur¬ther reduced to 16 "static" centres by the end of 1948.[^59]  In 1949, the Social Welfare Department made a passionate defence of the children's feeding scheme in its annual report (for the year 1948). The Legislative Council had approved fund¬ing for the scheme for only six months in 1950. The Council also requested a com¬mittee to look into the viability of the scheme.[^60] The committee recommended that the scheme continue, but to replace the cooked rice meal with a supposedly more nutritious meal comprising bread, milk and fruits. Costing eight cents per meal, compared to the previous 15 cents per cooked meal, the new meal was un¬deniably cheaper. Perhaps unwittingly, it also indicated that the new meal merely supplemented the family diet.[^61]
 
-#### **THE IMPACT OF COMMUNAL FEEDING**
+#### **The Impact of Communal Feeding**
 
 It is difficult to conclude decisively whether the People's Restaurants and the other communal feeding schemes broke the grip of the black market. While use¬ful, statistics are limited in providing an overall picture. Declining attendance at the People's Restaurants throughout 1947 did not necessarily mean the black mar¬ket was in retreat. It could have indicated that wages on the whole were increas¬ing, hence allowing the individual more choices. Similarly, the popularity of the People's Restaurants during the first six months of operations did not necessari¬ly mean that fewer people patronised the black market. It could have been simply a situation where there was insufficient food, especially rice, to go around, and the people taking advantage of a cheap alter¬native in tandem with the black market.
 
