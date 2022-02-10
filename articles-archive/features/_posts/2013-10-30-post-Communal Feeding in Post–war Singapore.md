@@ -47,8 +47,6 @@ The Social Welfare Department paid more attention to those who could not even af
 
 #### **Publicising the Feeding Schemes**
 
-At the peak of the feeding programme in October 1946, nearly 40,000 lunches were cooked and served daily. In a mere six months, over one million meals had been served to the hungry public.
-
 <img src="/images/vol-9-issue-3/communal-feeding/C4.JPG">
 <div style="background-color: white;"> The People's Restaurants sold affordable nutritious lunches to the masses (1947). <I>Courtesy of Ministry of Communication and Information.</i></div>
 
