@@ -28,11 +28,10 @@ On 29 June 1946, the first People’s Restaurant opened in a converted godown at
 
 The Social Welfare Department’s first official report, *Beginnings*, describes the process of buying lunch:
 
-The customer enters by one of perhaps several lanes leading to a 
-ticket box. He buys his ticket and passes on to a long serving counter where the complete meal is handed to him in a mess tin [or an enamel plate] by a server in exchange for his ticket. 
+“The customer enters by one of perhaps several lanes leading to a ticket box. He buys his ticket and passes on to a long serving counter where the complete meal is handed to him in a mess tin [or an enamel plate] by a server in exchange for his ticket. 
 On his way to his table he passes other counters where he can pick up his spoon and his mug, and dip them in a sterilizer; where he can collect files past yet another counter where 
 occasionally he will find on sale things like fruit, tinned provisions 
-and cigarettes, which otherwise he could only get at inflated prices from profiteering street hawkers, agents for the most part of the black market.[^9] 
+and cigarettes, which otherwise he could only get at inflated prices from profiteering street hawkers, agents for the most part of the black market”.[^9] 
 
 By the end of 1946, about 10 People’s Restaurants were in operation at refurbished godowns, or as part of existing buildings, including one in the “boxing arena of an Amusement Park.”[^10] These restaurants were located in “Telok Ayer, Seng Poh Road, Queen Street, Handy Road, Happy World, Katong Kitchen/ New World, Maxwell Road, and Harbour Board.”[^11] As the People’s Restaurants were targeted at workers, it only served lunch five days a week.
 
