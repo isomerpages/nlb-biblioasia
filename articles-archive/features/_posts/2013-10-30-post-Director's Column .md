@@ -5,10 +5,7 @@ date: 2013-10-30
 layout: post
 description: ""
 ---
-
-
-
-IN 2012, THE DUTCH ARTISTS LERNERT AND SANDER — known for their irreverent sense of humour — created a new perfume by blending 1,400 fragrances — in essence every perfume released the previous year — into one potent concoction. The end result was a fragrance packed with the overwhelming cocktail of scents that permeates the perfumes and cosmetics floor of any major department store.
+In 2012, the Dutch artists Lernert and Sander — known for their irreverent sense of humour — created a new perfume by blending 1,400 fragrances — in essence every perfume released the previous year — into one potent concoction. The end result was a fragrance packed with the overwhelming cocktail of scents that permeates the perfumes and cosmetics floor of any major department store.
 
 The fragrance was called “Everything”.
 
@@ -18,7 +15,7 @@ For even as expatriate colonial housewives attempted to reproduce a sense of hom
 
 In “Spicy Nation: From India to Singapore”, Malarvele Ilangovan traces the evolution of Indian food that followed the Indian diaspora to Singapore, picking up Southeast Asian influences and nuances that have resulted in distinctively multi¬ethnic concoctions that are still Indian at their core.
 
-Amanda Lee Koe’s article “Into the Melting Pot: Food as Culture” is perhaps the best example of this mixing of cultures, memories and values — yu sheng, though still disputed as a Singaporean invention, is described as a communal dance of feasting and invocation to the God of Wealth.
+Amanda Lee Koe’s article “Into the Melting Pot: Food as Culture” is perhaps the best example of this mixing of cultures, memories and values — *yu sheng*, though still disputed as a Singaporean invention, is described as a communal dance of feasting and invocation to the God of Wealth.
 
 This sense of how food binds us with unbreakable ties can almost be vicariously tasted in Ang Seow Leng’s personal account of her family’s love story with Teochew food and her despair that most of it will be lost in translation in years to come as ties to our dialect heritage weakens with each passing generation.
 
@@ -29,4 +26,5 @@ Perhaps the bonafide People’s Restaurants of Singapore are the hawker centres 
 I hope you will be as enthralled as I am by the complex relationships and interactions between different peoples and the mix of culinary heritage they brought to Singapore. May the resulting complex repertoire of foods — and by extension cultures — we enjoy in Singapore outlast the march of time and not succumb to the bland homogeneity of an “Everything” concoction.
 
 Gene Tan<br>
-Director, National Library
+Director <br>
+National Library
