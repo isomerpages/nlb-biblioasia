@@ -83,3 +83,7 @@ However, after the 1930s, mentions of rubber latex paper dried up in the Malayan
 [^13]: “[First Rubber Newspaper](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19230108-1.2.40),” *Malaya Tribune*, 8 January 1923, 7; “[Rubber Paper](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19230108-1.2.58),” *Straits Times*, 8 January 1923, 9. (From NewspaperSG)
 
 [^14]: “[Malayan Propaganda](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19240501-1.2.23),” *Singapore Free Press and Mercantile Advertiser*, 1 May 1924, 6. (From NewspaperSG)
+
+[^15]: “[Latex Paper](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19230113-1.2.77),” *Malaya Tribune*, 13 January 1923, 10. (From NewspaperSG)
+
+[^16]: 
