@@ -75,3 +75,5 @@ However, after the 1930s, mentions of rubber latex paper dried up in the Malayan
 [^9]: “[Use of Latex in Paper-making](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19221116-1.2.58.3),” *Straits Times*, 16 November 1922, 10. (From NewspaperSG)
 
 [^10]: “[Rubber Latex in Paper](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19230118-1.2.71),” *Straits Times*, 18 January 1923, 9. (From NewspaperSG)
+
+[^11]: “[Latex Paper](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19240625-1.2.30),” *Singapore Free Press and Mercantile Advertiser*, 25 June 1924, 6. (From NewspaperSG)
