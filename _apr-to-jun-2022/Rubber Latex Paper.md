@@ -59,6 +59,10 @@ A company that manufactured latex paper was Messrs Lepard and Smiths, Limited, o
 
 In Singapore and Malaya, latex paper was advertised and sold by major merchandisers like Fraser and Neave, Ltd.[^16], John Little & Co., Ltd.[^17] and G.H. Kiat & Co., Ltd.[^18] 
 
+![](/images/Vol%2018%20Issue%201/Rubber%20Latex%20Paper/G_H_Kiat.png)
+<div style="background-color: white;">G.H. Kiat & Co. advertising its latex paper. <i>Image reproduced from “Page 6 Advertisements Column 1,” Malaya Tribune, 19 June 1923, 6. (From NewspaperSG).
+</i></div>
+
 In 1925 and 1927, printing company Rickard on Cecil Street embarked on a targeted advertising campaign for its latex paper. The marketing slogan in the daily newspapers was “Keep Up the Price of Rubber by Having All Your Printing Done on Latex Paper” and “To Managers of Rubber Estates – Insist on Having All Your Printing – Letter Heads, Memos, Check Rolls, Etc. Etc. Done on Latex Paper”.[^19] The bookshop G.H. Kiat & Co. attempted to prod companies into using the paper by asking: “Are You Helping the Rubber Industry by Using Latex Paper?”[^20] 
 
 ![](/images/Vol%2018%20Issue%201/Rubber%20Latex%20Paper/Rickard.png)
