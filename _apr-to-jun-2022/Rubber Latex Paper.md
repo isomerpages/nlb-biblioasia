@@ -38,4 +38,12 @@ There were some efforts to use rubber latex paper commercially. It was used for 
 
 For the Malaya Pavilion at the British Empire Exhibition in 1924, the 2,000 copies of various pamphlets on different topics produced for sale used up two tons of paper, 3 percent of which was made of rubber latex.[^14]
 
-A company that manufactured latex paper was Messrs Lepard and Smiths, Limited, one of the oldest paper merchants in London. They produced envelopes, bank and bond papers as 
+A company that manufactured latex paper was Messrs Lepard and Smiths, Limited, one of the oldest paper merchants in London. They produced envelopes, bank and bond papers aswell as cream laid writing papers, known as “Latex Papers”, at their warehouses in London. These were then shipped and stored in Singapore and elsewhere to meet demand.[^15]
+
+In Singapore and Malaya, latex paper was advertised and sold by major merchandisers like Fraser and Neave, Ltd.[^16], John Little & Co., Ltd.[^17] and G.H. Kiat & Co., Ltd.[^18] 
+
+In 1925 and 1927, printing company Rickard on Cecil Street embarked on a targeted advertising campaign for its latex paper. The marketing slogan in the daily newspapers was “Keep Up the Price of Rubber by Having All Your Printing Done on Latex Paper” and “To Managers of Rubber Estates – Insist on Having All Your Printing – Letter Heads, Memos, Check Rolls, Etc. Etc. Done on Latex Paper”.[^19] The bookshop G.H. Kiat & Co. attempted to prod companies into using the paper by asking: “Are You Helping the Rubber Industry by Using Latex Paper?”[^20] 
+
+In 1926, John Little & Co. offered a new series of Christmas greetings cards featuring “etchings of local beauty spots by Mrs G. Sinclair”, printed on a special grade of latex paper.[^21] Three years later, John Little launched its exclusive stationery brand of writing pads, note paper and envelopes called Rubtext Stationery. These used “distinctive high quality paper with semi-smooth finish” and were made in two finishes, antique and ripple, with each finish in four colours – white, sea blue, maize and mauve.[^22]
+
+However, after the 1930s, mentions of rubber latex paper dried up in the Malayan press. Although the term “rubber latex paper” may not be familiar to the younger generations today, we still have handbooks and publications that serve as reminders of this fascinating attempt to create a new market for a product that was very much a part of the history of Singapore and Malaya.
