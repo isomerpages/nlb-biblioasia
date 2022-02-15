@@ -56,4 +56,4 @@ However, after the 1930s, mentions of rubber latex paper dried up in the Malayan
 
 #### **NOTES**
 
-[^1]: “[Cathay’s Jurong Drive-in Cinema](http://eresources.nlb.gov.sg/newspapers/Digitised/Page/straitstimes19710714-1.1.18),” *Straits Times* , 14 July 1971, 18. (From NewspaperSG)
+[^1]: The National Library has some of these titles. See Malay States Information Service, [*British Malaya: Trade & Commerce*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=4412330) (London: Malay States Information Agency, 1924). (From National Library, Singapore, Call no. RDTYS 381.09595 BRI); Theodore Rathbone Hubback, John H.M. Robson and Howard Henry Banks, [*Big-game Shooting*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=13047714) (London: Malay States Information Agency, 1924). (From National Library, Singapore, Call no. RRARE 799.29595 HUB; Microfilm no. NL29281); Gordon Eastley Greig, [*Mining in Malaya*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=4407353) (London: Malay States Information Agency, 1924). (From National Library, Singapore, Call no. RCLOS 622.09595 GRE-[RFL])    
