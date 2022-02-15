@@ -75,10 +75,15 @@ However, after the 1930s, mentions of rubber latex paper dried up in the Malayan
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-2018-Issue-1/Authors/Alex_Teoh.png"style="width: 100px; height: 100px;"/>
+<img src="/images/Vol-2018-Issue-1/authors/Alex_Teoh.png"style="width: 100px; height: 100px;"/>
 	<b>Alex Teoh</b> is a paper and book conservator, providing collection care for rare manuscripts, collectible prints, antique maps and antiquarian books. He is interested in the local material culture of the written text in Southeast Asia.</div>
 
-
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-17-issue-4/authors/Sharon_Teng.png" style="width: 100px; height: 100px;" />
+	<b>Sharon Teng</b> is a Librarian with the National Library, Singapore. She is part of the Arts and General Reference team, and manages the Social Sciences and Humanities Collection.</div>
+	
+	
 #### **NOTES**
 
 [^1]: The National Library has some of these titles. See Malay States Information Service, [*British Malaya: Trade & Commerce*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=4412330) (London: Malay States Information Agency, 1924). (From National Library, Singapore, Call no. RDTYS 381.09595 BRI); Theodore Rathbone Hubback, John H.M. Robson and Howard Henry Banks, [*Big-game Shooting*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=13047714) (London: Malay States Information Agency, 1924). (From National Library, Singapore, Call no. RRARE 799.29595 HUB; Microfilm no. NL29281); Gordon Eastley Greig, [*Mining in Malaya*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=4407353) (London: Malay States Information Agency, 1924). (From National Library, Singapore, Call no. RCLOS 622.09595 GRE-[RFL])
