@@ -75,12 +75,12 @@ However, after the 1930s, mentions of rubber latex paper dried up in the Malayan
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-2018-Issue-1/authors/Alex_Teoh.png"style="width: 100px; height: 100px;"/>
+<img src="/images/Vol%2018%20Issue%201/Authors/Alex_Teoh.png"style="width: 100px; height: 100px;"/>
 	<b>Alex Teoh</b> is a paper and book conservator, providing collection care for rare manuscripts, collectible prints, antique maps and antiquarian books. He is interested in the local material culture of the written text in Southeast Asia.</div>
 
 <div style="background-color: white;">
 <br/>
-<img src="/images%2FVol%2018%20Issue%201%2FAuthors/editMediaSettings/Alex_Teoh.png" style="width: 100px; height: 100px;" />
+<img src="![](/images/Vol%2018%20Issue%201/Authors/Alex_Teoh.png)" style="width: 100px; height: 100px;" />
 	<b>Sharon Teng</b> is a Librarian with the National Library, Singapore. She is part of the Arts and General Reference team, and manages the Social Sciences and Humanities Collection.</div>
 	
 	
