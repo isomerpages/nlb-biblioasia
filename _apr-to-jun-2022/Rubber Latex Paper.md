@@ -86,4 +86,6 @@ However, after the 1930s, mentions of rubber latex paper dried up in the Malayan
 
 [^15]: “[Latex Paper](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19230113-1.2.77),” *Malaya Tribune*, 13 January 1923, 10. (From NewspaperSG)
 
-[^16]: “[Latex Paper in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19230324-1.2.41),” *Singapore Free Press and Mercantile Advertiser*, 24 March 1923, 1; “[Page 1 Advertisements Column 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19230324-1.2.4.1),” *Singapore Free Press and Mercantile Advertiser*, 24 March 1923, 1. (From NewspaperSG) 
+[^16]: “[Latex Paper in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19230324-1.2.41),” *Singapore Free Press and Mercantile Advertiser*, 24 March 1923, 1; “[Page 1 Advertisements Column 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19230324-1.2.4.1),” *Singapore Free Press and Mercantile Advertiser*, 24 March 1923, 1. (From NewspaperSG)
+
+[^17]: “[Page 8 Advertisements Column 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19290617-1.2.37.1),” *Singapore Free Press and Mercantile Advertiser*, 17 June 1929, 8. (From NewspaperSG).
