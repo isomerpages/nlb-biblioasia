@@ -47,3 +47,13 @@ In 1925 and 1927, printing company Rickard on Cecil Street embarked on a targete
 In 1926, John Little & Co. offered a new series of Christmas greetings cards featuring “etchings of local beauty spots by Mrs G. Sinclair”, printed on a special grade of latex paper.[^21] Three years later, John Little launched its exclusive stationery brand of writing pads, note paper and envelopes called Rubtext Stationery. These used “distinctive high quality paper with semi-smooth finish” and were made in two finishes, antique and ripple, with each finish in four colours – white, sea blue, maize and mauve.[^22]
 
 However, after the 1930s, mentions of rubber latex paper dried up in the Malayan press. Although the term “rubber latex paper” may not be familiar to the younger generations today, we still have handbooks and publications that serve as reminders of this fascinating attempt to create a new market for a product that was very much a part of the history of Singapore and Malaya.
+
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-17-issue-4/authors/Sharon_Teng.png" style="width: 100px; height: 100px;" />
+	<b>Alex Teoh</b> is a paper and book conservator, providing collection care for rare manuscripts, collectible prints, antique maps and antiquarian books. He is interested in the local material culture of the written text in Southeast Asia.</div>
+
+#### **NOTES**
+
+[^1]: “[Cathay’s Jurong Drive-in Cinema](http://eresources.nlb.gov.sg/newspapers/Digitised/Page/straitstimes19710714-1.1.18),” *Straits Times* , 14 July 1971, 18. (From NewspaperSG)
