@@ -60,4 +60,8 @@ However, after the 1930s, mentions of rubber latex paper dried up in the Malayan
 
 [^2]: Eric MacFadyen, *Rubber Planting in Malaya* (London: Malay States Information Agency, 1924). (Not available in NLB holdings)
 
-[^3]: The writer referenced the 1926 edition which is not available in NLB. The earliest version that NLB has is the 1935 edition. See Ralph Lionel German, [*Handbook to British Malaya*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202651541) (London: Malay States Information Agency, 1935). (From National Library, Singapore, Call no. RRARE 959.503 HAN-[JSB])  	
+[^3]: The writer referenced the 1926 edition which is not available in NLB. The earliest version that NLB has is the 1935 edition. See Ralph Lionel German, [*Handbook to British Malaya*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202651541) (London: Malay States Information Agency, 1935). (From National Library, Singapore, Call no. RRARE 959.503 HAN-[JSB])
+
+[^4]: “[Rubber and Paper](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19220724-1.2.77),” *Straits Times*, 24 July 1922, 9. (From NewspaperSG)
+
+[^5]: “Latex in Paper-making,” Singapore Free Press and Mercantile Advertiser, 5 October 1922, 7; “The Kaye Process,” Straits Times, 11 October 1922, 12. (From NewspaperSG)
