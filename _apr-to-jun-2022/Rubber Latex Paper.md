@@ -61,6 +61,9 @@ In Singapore and Malaya, latex paper was advertised and sold by major merchandis
 
 In 1925 and 1927, printing company Rickard on Cecil Street embarked on a targeted advertising campaign for its latex paper. The marketing slogan in the daily newspapers was “Keep Up the Price of Rubber by Having All Your Printing Done on Latex Paper” and “To Managers of Rubber Estates – Insist on Having All Your Printing – Letter Heads, Memos, Check Rolls, Etc. Etc. Done on Latex Paper”.[^19] The bookshop G.H. Kiat & Co. attempted to prod companies into using the paper by asking: “Are You Helping the Rubber Industry by Using Latex Paper?”[^20] 
 
+![](/images/Vol%2018%20Issue%201/Rubber%20Latex%20Paper/Rickard.png)
+<div style="background-color: white;">A Rickard Ltd. advertisement encouraging consumers to use latex paper.<i> Image reproduced from “Page 2 Advertisements Column 2,” Straits Times, 9 November 1925, 2. (From NewspaperSG).</i></div>
+
 In 1926, John Little & Co. offered a new series of Christmas greetings cards featuring “etchings of local beauty spots by Mrs G. Sinclair”, printed on a special grade of latex paper.[^21] Three years later, John Little launched its exclusive stationery brand of writing pads, note paper and envelopes called Rubtext Stationery. These used “distinctive high quality paper with semi-smooth finish” and were made in two finishes, antique and ripple, with each finish in four colours – white, sea blue, maize and mauve.[^22]
 
 However, after the 1930s, mentions of rubber latex paper dried up in the Malayan press. Although the term “rubber latex paper” may not be familiar to the younger generations today, we still have handbooks and publications that serve as reminders of this fascinating attempt to create a new market for a product that was very much a part of the history of Singapore and Malaya.
