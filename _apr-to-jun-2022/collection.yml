@@ -1,4 +1,5 @@
 collections:
   apr-to-jun-2022:
     output: true
-    order: []
+    order:
+      - Rubber Latex Paper.md
