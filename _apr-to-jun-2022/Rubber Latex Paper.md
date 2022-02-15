@@ -46,6 +46,10 @@ There were some efforts to use rubber latex paper commercially. It was used for 
 
 For the Malaya Pavilion at the British Empire Exhibition in 1924, the 2,000 copies of various pamphlets on different topics produced for sale used up two tons of paper, 3 percent of which was made of rubber latex.[^14]
 
+![](/images/Vol%2018%20Issue%201/Rubber%20Latex%20Paper/Pamphlet.png)
+<div style="background-color: white;">The title page of each handbook published by the Malay States Information Agency for the British Empire Exhibition states: “The text portion of this pamphlet is printed on Rubber Latex Paper.”<i> Image reproduced from Gordon Eastley Greig, Mining in Malaya (London: Malay States Information Agency, 1924). (From National Library, Singapore, Call no. RCLOS 622.09595 GRE-[RFL]).
+</i></div>
+
 A company that manufactured latex paper was Messrs Lepard and Smiths, Limited, one of the oldest paper merchants in London. They produced envelopes, bank and bond papers aswell as cream laid writing papers, known as “Latex Papers”, at their warehouses in London. These were then shipped and stored in Singapore and elsewhere to meet demand.[^15]
 
 In Singapore and Malaya, latex paper was advertised and sold by major merchandisers like Fraser and Neave, Ltd.[^16], John Little & Co., Ltd.[^17] and G.H. Kiat & Co., Ltd.[^18] 
