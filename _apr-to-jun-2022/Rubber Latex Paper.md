@@ -14,5 +14,12 @@ The agency was set up in 1910 as the Malay States Development Agency, which was 
 
 In addition to producing handbooks about topics related to Malaya, the agency also subtly aimed to show off Malayan products in other ways. On the title page of each handbook published by the agency for the British Empire Exhibition is the line: “The text portion of this pamphlet is printed on Rubber Latex Paper.” The printed pages appear off-white, slightly glossy and, after all these decades, still in good condition. The wove paper has a uniform surface, not ribbed or watermarked, and has a thickness of around 0.1 mm (similar to the 70gsm paper used today for photocopying). 
 
-#### **What is Rubber Latex Paper?** 
+#### **What is Rubber Latex Paper?**
 
+Rubber was, of course, the chief agricultural product of the Malay Peninsula at the time.[^2] Commercially planted since 1895, British Malaya supplied more than half of the world’s rubber by the 1930s.[^3] 
+
+Rubber latex paper was made by mixing liquid latex into paper pulp during paper-making. This process was developed by Professor Frederick Kaye of the Manchester College of Technology and patented in 1920.[^4] It was then commercially tested with free shipments of rubber latex to paper mills in England, Holland, Belgium and the United States.[^5]
+
+During the 1920s, the price of rubber slumped and rubber export restrictions were instituted to halt falling prices. As such, any new uses of rubber to increase demand would have been welcomed by Malayan planters and rubber investors.
+
+The use of rubber latex in paper-making garnered considerable news coverage in 1922 and 1923. In April 1922, the Straits Times noted that rubber latex appeared to “improve the texture [of paper] and makes the paper more uniform when viewed by transmitted light. The feel of the paper, especially with paper containing large amounts of rubber, is much improved and becomes pleasant to the touch”. It added that “paper containing rubber latex is more water-repellent than the same paper without rubber, and a suitable treatment of the fibres in paper-making with rubber latex will give a water-proof paper”. In addition, the “electrical resistance and dielectric properties of paper may be improved by the addition of rubber latex”. The paper became more absorbent with better hydration, while the production cost was also reduced considerably.[^6]
