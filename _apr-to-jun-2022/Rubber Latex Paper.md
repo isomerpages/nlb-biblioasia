@@ -65,3 +65,5 @@ However, after the 1930s, mentions of rubber latex paper dried up in the Malayan
 [^4]: “[Rubber and Paper](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19220724-1.2.77),” *Straits Times*, 24 July 1922, 9. (From NewspaperSG)
 
 [^5]: “[Latex in Paper-making](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk19221005-1.2.96),” *Singapore Free Press and Mercantile Advertiser*, 5 October 1922, 7; “[The Kaye Process](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19221011-1.2.79),” *Straits Times*, 11 October 1922, 12. (From NewspaperSG)
+
+[^6]: “[Rubber for Paper Making](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19220422-1.2.3),” *Straits Times*, 22 April 1922, 2. (From NewspaperSG); “[Latex in Paper-making](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk19221005-1.2.96)”; “[The Kaye Process](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19221011-1.2.79).” 
