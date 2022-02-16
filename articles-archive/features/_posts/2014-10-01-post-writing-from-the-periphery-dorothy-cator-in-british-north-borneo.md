@@ -9,7 +9,7 @@ layout: post
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-3/dorothycator/cover.jpg">
+<img src="/images/vol-10-issue-3/dorothycator/cover.jpg" style="width:70%;">
 Sandakan, formerly known as Elopura (1889). <i>Courtesy of the Sabah Museum.</i></div>
 
 The journey was slow as the vessel steered carefully through treacherous waters riddled with corals and submerged islands. Gradually, the bay, “one of the finest harbours in the world”,[^1] came into view; its entrance guarded by “fine red sandstone cliffs backed with forest-clad hills rising to a height of about 800 feet.”[^2] Dick and Dorothy Cator had at last reached Sandakan, the capital of British North Borneo (present-day Sabah, Malaysia), where the newly wedded couple were to be based for more than two years between 1893 and 1896.[^3]
@@ -43,7 +43,7 @@ The writer, Dorothy Cator. Everyday Life Among the Head-Hunters (1905).</div>
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-3/dorothycator/head_hunting_Dayaks.jpg">
+<img src="/images/vol-10-issue-3/dorothycator/head_hunting_Dayaks.jpg" style="width:70%;">
 This illustration of head-hunting Dayaks was featured in the Illustrated London News in October 1887. <i>Courtesy of the Sabah Museum.</i></div>
 
 Cator further underscored the superiority of British imperialism by representing the conduct of other European powers in diametric contrast as inhumane and unjust. She denounced the Spanish as “very bad colonists, cruel masters, who hate and are hated by the natives over whom they rule”[^18]; the Dutch as being “inclined to look upon [the natives] as not merely a lower race than themselves, but lower than their animals” and they were responsible for the “most brutal cases of cruelty on the estates which [her husband] Dick and the other magistrates had to inquire into.”[^19] This affirmed the conventional rationalisation for British intervention in terms of a moral obligation to rescue and extend protection to populations “outside the pale of civilisation.”[^20]
@@ -84,7 +84,7 @@ Despite occupying a marginal position in the masculine space of the British Empi
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-3/dorothycator/Mt_Kinabalu_from_the_Tempasuk_River.jpg">
+<img src="/images/vol-10-issue-3/dorothycator/Mt_Kinabalu_from_the_Tempasuk_River.jpg" style="width:70%;">
 View of Mount Kinabalu (background) from the Tempasuk River (1889). <i>Courtesy of the Sabah Museum.</i></div>
 
 <p style="font-size:15px;"><b>Janice Loo</b> is an Associate Librarian with the National Library of Singapore. She was the author of “A Quiet Revolution: Women and Work in Industrialising Singapore”, published in BiblioAsia Vol. 10, Iss. 2.</p>
