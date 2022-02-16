@@ -47,10 +47,10 @@ Wang’s detailed observations also reveal the different attires worn by locals 
 
 Early texts such as Wang Dayuan’s travel accounts are important in the study of Singapore’s pre-colonial history. The Bugis, Siamese, Malay, Arabs and Chinese were active in Southeast Asia’s waters long before the European powers (Portuguese, Dutch and British) were involved in the power struggle for the region’s trade and hegemony. Fortunately, Chinese sources have been relatively well-documented and maintained, thus ensuring the survival of important ancient texts and offering us a glimpse into Singapore’s past.
 
-<div style="background-color: white;">
+<span style="background-color: white;">
 <br/>
 <img src="/images/vol-10-issue-3/tales/map.jpg" style="width:70%;">
-Map of the environs of ancient Singapore. Based on descriptions in the <i>Dao Yi Zhi Lue, the Sejarah Melayu,</i> and on remains still visble at the beginning of the 19th century.[^19] All rights reserved. <i>The Golden Khersonese: Studies in the historical geography of the Malay Peninsula before A.D. 1500</i>, 1961, Wheatley, P., University of Malaya Press, Kuala Lumpur.</div>
+Map of the environs of ancient Singapore. Based on descriptions in the <i>Dao Yi Zhi Lue, the Sejarah Melayu,</i> and on remains still visble at the beginning of the 19th century.[^19] All rights reserved. <i>The Golden Khersonese: Studies in the historical geography of the Malay Peninsula before A.D. 1500</i>, 1961, Wheatley, P., University of Malaya Press, Kuala Lumpur.</span>
 
 <div style="background-color: white;">
 <br/>
