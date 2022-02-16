@@ -135,10 +135,10 @@ Itinerant hawkers at what was known as “Koek’s Bazaar” in 1905. Koek Road 
 
 A mixed-use development that combined shops and residences in a large complex, Amber Mansions was developed in 1922 by the prominent Jewish businessman, J. A. Elias.[^29] Forming what notable architect Tay Kheng Soon called a “design trinity” with MacDonald House and the old Malayan Motors Showroom,[^30] Amber Mansions was designed by Swan and Maclaren in a decorative style typical of Art Deco buildings in the 1920s.[^31] Its distinctive arcaded front adorned the junction of Orchard Road and Penang Lane for more than 60 years until it was demolished to make way for Dhoby Ghaut MRT station in 1984.[^32]
 
-<div style="background-color: white;">
+<span style="background-color: white;">
 <br/>
 <img src="/images/vol-10-issue-3/overorchard/Amber_Mansions.jpg" style="width:70%;">
-Home to tenants such as the Municipal Gas Department, the British Council, High Street Provision Store (pictured here c. 1960s), University Bookstore, Fosters steakhouse and City Development Limited,[^28] Amber Mansions is a reminder of Orchard Road’s early 20th century incarnation as a suburban residential area. <i>R. Browne collection, courtesy of National Archive of Singapore.</i></div>
+Home to tenants such as the Municipal Gas Department, the British Council, High Street Provision Store (pictured here c. 1960s), University Bookstore, Fosters steakhouse and City Development Limited,[^28] Amber Mansions is a reminder of Orchard Road’s early 20th century incarnation as a suburban residential area. <i>R. Browne collection, courtesy of National Archive of Singapore.</i></span>
 
 #### **09 Cathay Building**
 
