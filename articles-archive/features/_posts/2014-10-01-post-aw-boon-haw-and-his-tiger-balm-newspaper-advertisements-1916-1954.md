@@ -35,7 +35,7 @@ Source: <i>Malayan Saturday Post</i>, 21 May 1927 ,p. 32.</div>
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-3/tigerbalm/micky_makes_magic.jpg">
+<img src="/images/vol-10-issue-3/tigerbalm/micky_makes_magic.jpg" style="width:70%;">
 Source: <i>The Straits Times</i>, 13 August 1946, p.3. <i>All rights reserved, Singapore Press Holdings</i>.</div>
 
 #### **三、虎标四大良药的故事**
@@ -52,7 +52,7 @@ Source: <i>The Straits Times</i>, 13 August 1946, p.3. <i>All rights reserved, S
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-3/tigerbalm/fai_di_sek.jpg">
+<img src="/images/vol-10-issue-3/tigerbalm/fai_di_sek.jpg" style="width:70%;">
 资料来源：《新国民日报》，1923年5月1日，第16版。</div>
 
 **（二）虎标头痛粉**
@@ -73,7 +73,7 @@ Source: <i>The Straits Times</i>, 13 August 1946, p.3. <i>All rights reserved, S
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-3/tigerbalm/ba_gua_dan.jpg">
+<img src="/images/vol-10-issue-3/tigerbalm/ba_gua_dan.jpg" style="width:70%;">
 资料来源：《新国民日报》，1923年9月15日，第15版。</div>
 
 除了以上的功效外，八卦丹还宣称可帮助戒除鸦片、烟酒，并重整人生（《新国民日报》，1924年2月1日；《叻报》，1924年6月6日）。这不仅反映了当时华侨社会中还普遍存在着吸鸦片的恶习，也反映了胡文虎致力倡导禁烟运动。胡氏就曾慷慨捐助新加坡的戒烟（Singapore Free Press, 18 March 1937; Straits Times, 20 March 1934）。
@@ -118,7 +118,7 @@ Source: <i>The Straits Times</i>, 13 August 1946, p.3. <i>All rights reserved, S
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-3/tigerbalm/de_guo_wan_an_you.jpg">
+<img src="/images/vol-10-issue-3/tigerbalm/de_guo_wan_an_you.jpg" style="width:70%;">
 资料来源：《新国民日报》，1923年5月1日，第16版</div>
 
 #### **五、结论**
