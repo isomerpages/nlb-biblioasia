@@ -10,7 +10,7 @@ layout: post
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-3/19thcentury/Wallich_image.jpg">
+<img src="/images/vol-10-issue-3/19thcentury/Wallich_image.jpg" style="width:70%;">
 This scene stretches from Pearl’s Hill on the left to Tanjong Rhu on the right. In the centre is Government Hill (now Fort Canning). <i>Courtesy of National Museum of Singapore, National Heritage Boar.</i></div>
 
 From the mid-18th century onwards, Western powers enthusiastically explored the “mysterious” East through military, scientific and commercial missions. Under the flags of different imperial sponsors, the underlying aim of these expeditions was to outdo each other through the accumulation of first-hand knowledge. The broad quest for local knowledge dictated the assembly of experts; in one expedition for example “there was a naturalist, conchologist, mineralogist, botanist, horticulturalist and draughtsmen”.[^1] Their investigations were shared in travel accounts that fit into the standard narrative of scientific exploration.[^2] Steam technology-empowered mass travel and the mid-19th century saw more independent travellers exploring the East.[^3] These travel writers stressed the experience of travel itself over methodical reporting of the lands visited. Unfortunately, these accounts, while still informative, have been coloured by the “meditations, reflection and reverie” of the Western traveller.[^4] 
@@ -59,7 +59,7 @@ The native portion of the city is entirely separate from the foreign portion. Th
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-3/19thcentury/Chinese_merchant_Malay_porter.jpg">
+<img src="/images/vol-10-issue-3/19thcentury/Chinese_merchant_Malay_porter.jpg" style="width:70%;">
 An engraving of the port of Singapore entitled “Chinese Merchant, Malay Porter” by the official artist of the corvette <i>L’Astrolabe</i> and published in the <i>Voyage pittoresque autour du monde</i> in 1834. <i>Courtesy of National Museum of Singapore, Singapore Heritage Board.</i></div>
 
 #### **The Tamed Jungle of Untapped Spoils and Curious Races Revisited**
