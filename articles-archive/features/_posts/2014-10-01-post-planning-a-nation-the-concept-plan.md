@@ -9,7 +9,7 @@ layout: post
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-3/conceptplan/Plan_of_the_Town_of_Singapore.jpg">
+<img src="/images/vol-10-issue-3/conceptplan/Plan_of_the_Town_of_Singapore.jpg" style="width:70%;">
 Plan of the Town of Singapore, 1823, by Lt. Philip Jackson, which is also known as the Raffles Town Plan. <i>Jackson, L. (1822). Plan of the town of Singapore. London: J & C Walker.</i></div>
 
 Since Independence, Singapore has witnessed many dramatic changes to its urban landscape. The overcrowded city centre of the 1960s characterised by slums, filthy drains, congested roads and ageing infrastructure has been replaced by a modern business and financial hub. The streets are safe and clean, and lined with buildings that provide a vibrant mix of retail and entertainment activities. Beyond the city limits lies an impressive network of self-sufficient towns. Not only do these towns provide good quality homes and ample recreational space for residents, they are also connected to the city and each other by an efficient transportation system.
@@ -32,7 +32,7 @@ Despite the comprehensive planning, the 1958 Master Plan was fundamentally a sta
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-3/conceptplan/1958_Master_Plan.jpg">
+<img src="/images/vol-10-issue-3/conceptplan/1958_Master_Plan.jpg" style="width:70%;">
 Map 2: 1958 Master Plan © Urban Redevelopment Authority. <i>All rights reserved.</i></div>
 
 #### **From Static to Strategic: The Concept Plan**
@@ -49,12 +49,12 @@ Based on the planning directions set out in the Concept Plan and Master Plan, la
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-3/conceptplan/1971_Concept_Plan.jpg">
+<img src="/images/vol-10-issue-3/conceptplan/1971_Concept_Plan.jpg" style="width:70%;">
 1971 Concept Plan © Urban Redevelopment Authority. <i>All rights reserved.</i></div>
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-3/conceptplan/1991_Concept_Plan.jpg">
+<img src="/images/vol-10-issue-3/conceptplan/1991_Concept_Plan.jpg" style="width:70%;">
 1991 Concept Plan © Urban Redevelopment Authority. <i>All rights reserved.</i></div>
 
 #### **The 1971 Concept Plan**
@@ -65,7 +65,7 @@ The Ring Plan was the 1971 Concept Plan’s strategy to move the population, pro
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-3/conceptplan/Tanjong_Pagar.jpg">
+<img src="/images/vol-10-issue-3/conceptplan/Tanjong_Pagar.jpg" style="width:70%;">
 Shophouses in the Tanjong Pagar area were among the first heritage structures to be restored in 1987. <i>MITA collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **The 1991 Concept Plan**
@@ -96,7 +96,7 @@ It is clear that the government will continue to use the Concept Plans to expres
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-3/conceptplan/2013_land_use_plan_re.jpg">
+<img src="/images/vol-10-issue-3/conceptplan/2013_land_use_plan_re.jpg" style="width:70%;">
 2013 Land Use Plan © Urban Redevelopment Authority. <i>All rights reserved.</i></div>
 
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> 
@@ -109,7 +109,7 @@ One of the most enduring impacts of the nation’s town planning efforts was the
 <br><br>
 Spanning 360 hectares, Marina Bay downtown is the extension of Singapore’s central business district along Shenton Way. It is a waterfront business district similar to London’s Canary Wharf and Shanghai’s Pudong.[^65] Most people think of the glittering Marina Bay area as a 21st century addition to the skyline when in actual fact the new downtown plan was first proposed in the 1991 Concept Plan, and the massive land reclamation project to create Marina Bay actually started in the 1970s.[^66] Marina Bay is different from other urban areas in Singapore in that it encourages a mix of commercial, residential and entertainment activities in land usage. This is to ensure vibrancy in the area around the clock. To facilitate this, “white” site zoning was introduced to demarcate sites for mixed-use development.[^67] This different planning approach is clearly reflected in the skyline of Marina Bay as its glass and steel financial buildings stand side-by-side with high-rise luxury apartments while overlooking green spaces such as Gardens by the Bay and the entertainment and dining hub of Marina Bay Sands.
 <br><br>
-<img style="width: 100%;" src="/images/vol-10-issue-3/conceptplan/Marina_Bay.jpg">The development of Marina Bay downtown was first proposed in the 1991 Concept Plan. <i>Courtesy of Gardens by the Bay.</i>
+<img src="/images/vol-10-issue-3/conceptplan/Marina_Bay.jpg" style="width:70%;">The development of Marina Bay downtown was first proposed in the 1991 Concept Plan. <i>Courtesy of Gardens by the Bay.</i>
  </span>
 
 <p style="font-size:15px;"><b>Lim Tin Seng</b> is a Librarian with the National Library of Singapore. He is the co-editor of Roots: Tracing Family Histories – A Resource Guide (2013); Harmony and Development: ASEAN-China Relations (2009) and China’s New Social Policy: Initiatives for a Harmonious Society (2010).</p>
