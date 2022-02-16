@@ -354,6 +354,8 @@ Yeoh, B., & Wong, T. (2007). *[Over Singapore: 50 years ago: An aerial view in t
 
 [^37]: [Showtime](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20060321-1.2.130.9.1). (2006, March 21). <i>The Straits Times</i>, p. 10. Retrieved from NewspaperSG.
 
-[^38]: Flower, R. (2002). *[The Y: First 100 years in Singapore, 1902–2002](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11179222)* (pp. 6–8). Singapore: YMCA. (Call no.: RSING q267.395957 FLO); Fong, V. (1984, June 3). [The ‘Y’ over the years](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19840603-1.2.23.25.1). <i>Singapore Monitor</i>, p. 38. Retrieved from NewspaperSG. (39 Lyne, R., et al. (1992). *[The YMCA of Singapore: 90 years of service to the community](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6377686)* (p. 59). Singapore: YMCA.  (Call no.: RSING 267.395957 YMC)
+[^38]: Flower, R. (2002). *[The Y: First 100 years in Singapore, 1902–2002](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11179222)* (pp. 6–8). Singapore: YMCA. (Call no.: RSING q267.395957 FLO); Fong, V. (1984, June 3). [The ‘Y’ over the years](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19840603-1.2.23.25.1). <i>Singapore Monitor</i>, p. 38. Retrieved from NewspaperSG. 
+
+[^39]: R. Lyne, C. G. Menon, E. K. W. Ong & A. T. Ong. (1992). *[The YMCA of Singapore: 90 years of service to the community](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6377686)* (p. 59). Singapore: YMCA.  (Call no.: RSING 267.395957 YMC)
 
 [^40]: [Flower](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11179222), 2002, p. 88.
