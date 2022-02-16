@@ -30,7 +30,7 @@ It is only the European part of Singapore which is dull and sleepy looking. No l
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-3/punkahs/view_of_sg_from_sea.jpg">
+<img src="/images/vol-10-issue-3/punkahs/view_of_sg_from_sea.jpg" style="width:70%;">
 “View of Singapore from the Sea”, produced around 1848 by an unknown artist, offers a glimpse of what early travellers would have seen as they arrived in Singapore by sea. <i>Courtesy of National Museum of Singapore, National Heritage Board.</i></div>
 
 The native streets monopolise the picturesqueness of Singapore with their bizarre crowds, but more interesting still are the bazaars or continuous rows of open shops which create for themselves a perpetual twilight by hanging tatties or other screens outside the sidewalks, forming long shady alleys, in which crowds of buyers and sellers chaffer over their goods, the Chinese shopkeepers asking a little more than they mean to take, and the Klings always asking double. The bustle and noise of this quarter are considerable, and the vociferation mingles with the ringing of bells and the rapid beating of drums and tom-toms, an intensely heathenish sound. And heathenish this great city is. Chinese joss-houses, Hindu temples, and Mohammedan mosques almost jostle each other, and the indescribable clamour of the temples and the din of the joss-houses are faintly pierced by the shrill cry from the minarets calling the faithful to prayer, and proclaiming the divine unity and the mission of Mahomet in one breath.
