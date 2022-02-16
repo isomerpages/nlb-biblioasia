@@ -25,13 +25,13 @@ I remember the desperation of a fruit peddler trying to sell us bananas through 
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-3/backyard/phuket.jpg">
+<img src="/images/vol-10-issue-3/backyard/phuket.jpg" style="width:70%;">
 Sunburned and homebound from Phuket on Thai Airways in 1984. <i>All photos courtesy of Desiree Koh.</i></div>
 
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-3/backyard/kangaroo.jpg">
+<img src="/images/vol-10-issue-3/backyard/kangaroo.jpg" style="width:70%;">
 The writer with Captain Kangaroo at Australia’s Gold Coast in 1988. <i>All photos courtesy of Desiree Koh.</i></div>
 
 What was normal for the Koh family made me stand out at school, beyond the shenanigans I was notorious for (perhaps my roaming the classroom to play with friends in between lessons may have been an early sign of my repressed wanderlust?). When I moved from my neighbourhood primary school to a well-known one, I found myself in the company of peers who went skiing in Lake Tahoe in the US or on multi-city European tours. Although it sometimes crossed my mind that Disneyland could be fun, I didn’t feel completely deprived either – no matter how new or weird my experiences in Southeast Asia, the warmth, the smiles and humility of the people and the spicy flavours always reminded me of home. The school compositions I wrote were inspired by people, food and scenes like nothing I knew of in too quickly developing Singapore, and I learnt to empathise – by the time I first encountered a rancid outhouse in Zhengzhou, China, I didn’t turn back and run but bravely sallied forth.
@@ -52,7 +52,7 @@ I’ve always described Singapore as Asia Lite to friends from overseas, a place
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-3/backyard/Desiree_Koh.jpg"></div>
+<img src="/images/vol-10-issue-3/backyard/Desiree_Koh.jpg" style="width:70%;"></div>
 <p style="font-size:15px;">Born and raised in Singapore, <b>Desiree Koh</b> is a writer and editor who spent 12 years in Chicago, studying at the Medill School of Journalism and later experiencing the other side of the world. Now back home, she enjoys discovering a city that is constantly changing and travels further afield for work and adventure. She writes on popular culture, food and sports for in-flight magazines such as SilverKris, Sawasdee and enVoyage, as well as local and international publications. Her most recent work was for the Louis Vuitton City Guide: Singapore, slated for publication in November 2014.</p>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-10/issue-3/oct-dec-2014/"><center>Back to Issue</center></a>
