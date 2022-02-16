@@ -7,7 +7,7 @@ layout: post
 ---
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-3/library/cover.jpg">
+<img src="/images/vol-10-issue-3/library/cover.jpg" style="width:70%;">
 Patrons enjoying the environment and collections at the newly opened library@orchard.</div>
 
 
@@ -23,7 +23,7 @@ Here are some design elements that make up the library@orchard experience.
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-3/library/BiblioInfographic_1.jpg">
+<img src="/images/vol-10-issue-3/library/BiblioInfographic_1.jpg" style="width:70%;">
 Using the principles of Design Thinking, the National Library Board worked closely with Singapore Polytechnic and the public to develop library@orchard. <i>Courtesy of Annusia Jaybalan.</i></div>
 
 #### **Pluck and Ponder**
@@ -44,7 +44,7 @@ Hint: The cocoon with the best view is situated in between the People and Visual
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-3/library/Bookshelves .jpg">
+<img src="/images/vol-10-issue-3/library/Bookshelves .jpg" style="width:70%;">
 Bookshelves in the revamped library span floor-to-ceiling.</div>
 
 #### **Walk and Wander**
@@ -59,7 +59,7 @@ Hint: In true library fashion, library@ orchard has arranged the books to form a
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-3/library/intimate_pod-like_cocoons.jpg">
+<img src="/images/vol-10-issue-3/library/intimate_pod-like_cocoons.jpg" style="width:70%;">
 These intimate pod-like cocoons allow undisturbed reading. There are five of such seats in the upper level.</div>
 
 #### **Sit and Speak**
@@ -96,7 +96,7 @@ With so many new features available at library@ orchard, endless possibilities a
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-3/library/Visitors_browsing.jpg">
+<img src="/images/vol-10-issue-3/library/Visitors_browsing.jpg" style="width:70%;">
 Visitors browsing through publications at the wall of magazines, which houses the largest collection of design and creative titles found in any public library in Singapore.</div>
 
 <p style="font-size:15px;"><b>Sufyan Alimon</b> is an Associate Librarian with the National Library Board. He is part of the library@orchard team and manages the Visual and People Design Collection.</p>
