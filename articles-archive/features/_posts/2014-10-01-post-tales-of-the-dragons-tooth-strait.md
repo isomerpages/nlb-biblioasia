@@ -9,7 +9,7 @@ layout: post
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-3/tales/cover.jpg">
+<img src="/images/vol-10-issue-3/tales/cover.jpg" style="width:70%;">
 Lot’s Wife and W. W. Ker’s house on Bukit Chermin in 1845 or 1848. <i>Courtesy of National Museum of Singapore, National Heritage Board.</i></div>
 
 The strait runs between the two hills of the Tan-ma-hsi barbarians, which look like “dragon teeth”. Through the centre runs a waterway. The fields are barren and there is little padi. The climate is hot with very heavy rains in the fourth and fifth moons. The inhabitants are addicted to piracy. In ancient times, when digging the ground, a chief came upon a jewelled head-dress. The beginning of the year is calculated from the [first] rising of the moon, when the chief put on his head-gear and wore his [ceremonial] dress to receive the congratulations [of the people]. Nowadays this custom is still continued. The natives and the Chinese dwell side-by-side. Most [of the natives] gather their hair in chignons, and wear short cotton bajus girded about with black cotton sarong.
@@ -20,7 +20,7 @@ When junks sail to the Western Ocean, the local barbarians allow them to pass un
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-3/tales/Illustrated_London_News.jpg">
+<img src="/images/vol-10-issue-3/tales/Illustrated_London_News.jpg" style="width:70%;">
 Print from <i>Illustrated London News</i> showing Her Majesty’s ship, <i>Royalist</i>, being chased by a fleet of Malay pirates at Endeavour Straits (near Palawan Island), drawn by Captain Bate of the <i>Royalist</i>. The highland in the background is Malampaya Table (1852). <i>Courtesy of National Archives of Singapore.</i></div>
 
 Piracy, pillage, ancient rituals and barbarians – hardly a picture associated with the soaring skyscrapers and success of modern Singapore. Yet, this is how Wang Dayuan (汪大渊), the intrepid 14th-century traveller from Quanzhou (泉州), China, describes Dragon’s Tooth Strait (龙牙门or <i>Longyamen</i>), a place now identified as the western entrance of Keppel Harbour in former times.[^2]
@@ -49,12 +49,12 @@ Early texts such as Wang Dayuan’s travel accounts are important in the study o
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-3/tales/map.jpg">
+<img src="/images/vol-10-issue-3/tales/map.jpg" style="width:70%;">
 Map of the environs of ancient Singapore. Based on descriptions in the <i>Dao Yi Zhi Lue, the Sejarah Melayu,</i> and on remains still visble at the beginning of the 19th century.[^19] All rights reserved. <i>The Golden Khersonese: Studies in the historical geography of the Malay Peninsula before A.D. 1500</i>, 1961, Wheatley, P., University of Malaya Press, Kuala Lumpur.</div>
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-3/tales/Kappel_Habour.jpg">
+<img src="/images/vol-10-issue-3/tales/Kappel_Habour.jpg" style="width:70%;">
 Construction of the new harbour in the 1880s, which was renamed Keppel Harbour in 1900. <i>Courtesy of National Archives of Singapore.</i></div>
 
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> 
