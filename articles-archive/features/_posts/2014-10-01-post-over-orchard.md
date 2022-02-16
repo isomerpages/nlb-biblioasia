@@ -17,7 +17,7 @@ I think Orchard Road has been transformed into a very commercialised district. Y
 
 Of course, it speaks well and good for our economy. But maybe a bit of our soul is lost in the name of progress. Perhaps, we cannot hold back progress. But perhaps, every time when we move forward, we have to think a bit of the past and try to maintain perhaps a resemblance of something of the past, not just this little bronze or plaque that you find on the pedestrian walkway, what tree or what it used to be... For example, as I said, Fitzpatrick’s [supermarket], the electronic door. Or perhaps, you know not many people knew Orchard Cinema was the first location of the first escalator in Singapore. That signifies the first step of progress, you see. I think these are moments that our people need to know. So that we can remember our past, and then appreciate today, and look forward to the changes ahead.
 
-<span style="text-align:right;">Tan Wee Him, who spent his formative years in the 1950s and 1960s in Orchard Road. <i>Courtesy of an interview with the Oral History Centre.</i>[^1]</span>
+<span style="text-align:right; display:inline-block; font-size:1rem;">Tan Wee Him, who spent his formative years in the 1950s and 1960s in Orchard Road. <i>Courtesy of an interview with the Oral History Centre.</i>[^1]</span>
 
 <div style="background-color: white;">
 <br/>
