@@ -22,7 +22,7 @@ Although the contemporary fashion scene today is peppered with designers like As
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-3/sgfashion/hw_nov_sep_1967.jpg">
+<img src="/images/vol-10-issue-3/sgfashion/hw_nov_sep_1967.jpg" style="width:70%;">
 Front covers from <i>Her World</i> November and September 1967. <i>All rights reserved. Singapore Press Holdings, 2014.</i></div>
 
 Here are some key trends through the decades:
@@ -103,12 +103,12 @@ The 1990s saw casual and comfortable clothes gaining popularity. <i>Her World</i
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-3/sgfashion/hw_oct_1990.jpg">
+<img src="/images/vol-10-issue-3/sgfashion/hw_oct_1990.jpg" style="width:70%;">
 In the 1990s, clothes were a reflection of the lifestyle of the wearer. <i>Her World</i> October 1990, p.211. <i>All rights reserved, Singapore Press Holdings, 2014.</i></div>
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-3/sgfashion/casual_friday.jpg">
+<img src="/images/vol-10-issue-3/sgfashion/casual_friday.jpg" style="width:70%;">
 Casual Fridays saw workers trade in their business attire for more casual wear. <i>Her World</i> December 1990, p.32. <i>All rights reserved, Singapore Press Holdings, 2014.</i></div>
 
 <p style="font-size:15px;"><b>Jessie Yak</b> is a Librarian with the National Library of Singapore. She manages the library’s fashion and Chinese arts collections. She is a graduate of Beijing University and the University of Cambridge.</p>
