@@ -66,7 +66,7 @@ Behind the scenes, the kitchens were frequently upgraded with the latest in culi
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-3/raffles/ballroom.jpg">
+<img src="/images/vol-10-issue-3/raffles/ballroom.jpg" style="width:70%;">
 The ballroom of Raffles Hotel opened in 1921 and was reputed to be the largest hotel ballroom in the east at the time. <i>Courtesy of Raffles Singapore.</i></div>
 
 Tigran Sarkies did not live to read that praise. He set sail for England in November 1910 and two years later Singapore papers carried news of his death at St Leonard’s-on-Sea in Sussex, England. He was 51. His obituary noted that he had been ill for some time so his death was not unexpected. The business of Sarkies Brothers, Hotel Proprietors, however, continued without interruption. 
@@ -77,7 +77,7 @@ The 1920s was, on the whole, a splendid decade for Raffles. The opening of the b
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-3/raffles/fancy_dress_ball.jpg">
+<img src="/images/vol-10-issue-3/raffles/fancy_dress_ball.jpg" style="width:70%;">
 The New Year’s Eve Fancy Dress Ball held at Raffles Hotel was the highlight of Singapore’s social calendar until World War II. This photograph was taken in 1934. <i>Courtesy of Raffles Singapore.</i></div>
 
 #### **Raffles Falls on Hard Times**
