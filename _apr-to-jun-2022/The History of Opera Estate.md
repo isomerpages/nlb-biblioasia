@@ -134,3 +134,7 @@ Jalan Bintang Tiga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
 [^16]: “[Appeal to Govt. for Bus Service](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19580625-1.2.55),” *Singapore Standard*, 25 June 1958, 5. (From NewspaperSG) 
 
 [^17]: “[‘Pirate’ Taxi Men Have Monopoly in Opera Estate](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19590215-1.2.50),” *Straits Times*, 15 February 1959, 7. (From NewspaperSG)
+
+[^18]: “[This ‘Bridge of Sighs’ for 4,000 Residents of Opera Estate in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/sundaystandard19580803-1.2.13),” *Sunday Standard*, 3 August 1958, 2; “[Estate Gets New Bridge: Residents Thank Standard](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19580905-1.2.26),” *Singapore Standard*, 5 September 1958, 2; “[Bus Service For Housing Estate](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19590531-1.2.20),” *Straits Times*, 31 May 1959, 5; “[Now Opera Estate Gets Buses](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19590601-1.2.26),” *Straits Times*, 1 June 1959, 2. (From NewspaperSG)
+
+[^19]; 
