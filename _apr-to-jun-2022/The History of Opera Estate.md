@@ -105,4 +105,12 @@ Jalan Bintang Tiga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
 
 [^2]: “[Homes Will Rise on this Million $ Land](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19510402-1.2.28),” *Singapore Standard*, 2 April 1951, 2; [“$500,000 Estate Deal in S’pore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19470308-1.2.2),” *Malaya Tribune*, 8 March 1947, 1; “[40 New Homes for Squatters](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19510505-1.2.73),” *Singapore Free Press*, 5 May 1951, 5 (From NewspaperSG); Thomas Coomans, “China Papers: The Architecture Archives of the Building Company Crédit Foncier d’Extrême-Orient (1907–1959),” ABE *Journal Architecture Beyond Europe*, no. 5 (2014, December), ResearchGate, https://www.researchgate.net/publication/277885016_China_Papers_The_architecture_archives_of_the_building_company_Credit_Foncier_d'Extreme-Orient_1907-59.
 
-[^3]:
+[^3]: Victor R. Savage and Brenda S. Yeoh, [*Toponymics: A Study of Singapore Street Names*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12303283) (Singapore: Eastern Universities Press, 2004), 20. (From National Library, Singapore, Call no. RSING 9159570014 SAV)
+
+[^4]: [Chua Chye Chua](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/02ed9572-1161-11e3-83d5-0050568939ad), oral history interview by Jesley Chua Chee Huan, 23 July 1999,  MP3 audio, Reel/Disc 13 of 23. (From National Archives of Singapore, Accession no. 002140).
+
+[^5]: [Chua Chye Chua](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/02ed9572-1161-11e3-83d5-0050568939ad), interview.
+
+[^6]: “[Credit Foncier Starts New Building Project](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19560103-1.2.108),” *Singapore Standard*, 3 January 1956, 8. (From NewspaperSG)
+
+[^7]: “[Page 7 Advertisements Column 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19561027-1.2.62.1),” *The Straits Times*, 27 October 1956, 7. (From NewspaerSG)
