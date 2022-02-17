@@ -101,4 +101,6 @@ Jalan Bintang Tiga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
 	
 #### **NOTES**
 
-[^1]: The National Library has some of these titles. See Malay States Information Service, [*British Malaya: Trade & Commerce*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=4412330) (London: Malay States Information Agency, 1924). (From National Library, Singapore, Call no. RDTYS 381.09595 BRI); Theodore Rathbone Hubback, John H.M. Robson and Howard Henry Banks, [*Big-game Shooting*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=13047714) (London: Malay States Information Agency, 1924). (From National Library, Singapore, Call no. RRARE 799.29595 HUB; Microfilm no. NL29281); Gordon Eastley Greig, [*Mining in Malaya*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=4407353) (London: Malay States Information Agency, 1924). (From National Library, Singapore, Call no. RCLOS 622.09595 GRE-[RFL])
+[^1]: Joan Bieder, ed., [*The Jews of Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12944221) (Singapore: Suntree Media, 2007), 29, 80–81. (From National Library, Singapore, Call no. RSING 959.57004924 BIE); Lisa Ginsburgh, “Worlds Apart in Singapore: A Jewish Family Story,” *Asian Jewish Life*, no. 15 (October 2014), https://asianjewishlife.org/pages/articles/AJL_Issue_15_Oct2014/AJL_Issue15_CoverStory_Worlds_Apart_in_Singapore.html; “[Death of Mr. A. Frankel](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19280528-1.2.21),” *Malaya Tribune*, 28 May 1928, 7. (From NewspaperSG) 
+
+[^2]: 
