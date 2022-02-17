@@ -114,3 +114,7 @@ Jalan Bintang Tiga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
 [^6]: “[Credit Foncier Starts New Building Project](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19560103-1.2.108),” *Singapore Standard*, 3 January 1956, 8. (From NewspaperSG)
 
 [^7]: “[Page 7 Advertisements Column 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19561027-1.2.62.1),” *The Straits Times*, 27 October 1956, 7. (From NewspaerSG)
+
+[^8]: “[Page 3 Advertisements Column 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19570321-1.2.31.1),” *The Straits Times*, 21 March 1957, 3 (From NewspaperSG). 
+
+[^9]: 
