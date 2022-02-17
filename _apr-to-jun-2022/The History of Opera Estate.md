@@ -147,4 +147,10 @@ Jalan Bintang Tiga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
 
 [^23]: Abdullah Tarmugi, “[Speech by Mr Abullah Tarmugi Minister for Community Development and Member of Parliament for Bedok GRC (Siglap) at the Launching Ceremony for the Opera Estate Drainage Scheme on Saturday 28 September 1996 at 11.35 am Opera Estate Primary School](https://www.nas.gov.sg/archivesonline/speeches/record-details/70823232-115d-11e3-83d5-0050568939ad),” 28 September 1996, transcript. (From National Archives of Singapore, Document no. at19960928s); Ng Joo Hee, “[How We May Tame Storm Water](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20161118-1.2.60.6),” *Straits Times*, 18 November 2016, 18. (From NewspaperSG)
 
-[^24]: 
+[^24]: Opera Estate Facebook, accessed 7 January 2022, https://www.facebook.com/operaestatenc/; “Editorial,” [*Opera News*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200025257), no. 1 (2-A) (February 1959): 1; “[Opera News Makes Debut](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19590129-1.2.42),” *Singapore Standard*, 29 January 1959, 5. (From NewspaperSG)
+
+[^25]: Alan Khoo, “[‘Operation Chantek’ in Opera Estate](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19600330-1.2.86),” *Singapore Free Press*, 30 March 1960, 7. (From NewspaperSG)
+
+[^26]: “[Residents’ ‘Changkol Squad’ Fix Estate Roads](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19610601-1.2.55),” *Singapore Free Press*, 1 June 1961, 4; “[Example of the Good Citizens](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19610602-1.2.16.1),” *Singapore Free Press*, 2 June 1961, 6. (From NewspaperSG)
+
+[^27]: 
