@@ -157,4 +157,10 @@ Jalan Bintang Tiga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
 
 [^28]: James Suresh, “[A Neighbourly Connection](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20140305-1.2.53),” *Today*, 5 March 2015, 45. (From NewspaperSG)
 
-[^29]: Mrs Irene Chee, interview, 6 January 2022. 
+[^29]: Mrs Irene Chee, interview, 6 January 2022.
+
+[^30]: “Singapore Names its First Friendly Street.” 
+
+[^31]: “History,” Opera Estate Primary School, accessed 7 January 2022, https://operaestatepri.moe.edu.sg/history/.
+
+[^32]: “[Back Under One Roof After 14 years](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stoverseas19900505-1.2.8.12),” *Straits Times*, 5 May 1990, 8. (From NewspaperSG); “History,” CHIJ (Katong) Primary, accessed 7 January 2022, https://www.chijkcp.moe.edu.sg/school-info/history.
