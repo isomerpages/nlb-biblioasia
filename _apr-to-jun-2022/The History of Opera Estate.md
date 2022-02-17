@@ -103,4 +103,6 @@ Jalan Bintang Tiga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
 
 [^1]: Joan Bieder, ed., [*The Jews of Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12944221) (Singapore: Suntree Media, 2007), 29, 80–81. (From National Library, Singapore, Call no. RSING 959.57004924 BIE); Lisa Ginsburgh, “Worlds Apart in Singapore: A Jewish Family Story,” *Asian Jewish Life*, no. 15 (October 2014), https://asianjewishlife.org/pages/articles/AJL_Issue_15_Oct2014/AJL_Issue15_CoverStory_Worlds_Apart_in_Singapore.html; “[Death of Mr. A. Frankel](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19280528-1.2.21),” *Malaya Tribune*, 28 May 1928, 7. (From NewspaperSG) 
 
-[^2]: 
+[^2]: “[Homes Will Rise on this Million $ Land](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19510402-1.2.28),” *Singapore Standard*, 2 April 1951, 2; [“$500,000 Estate Deal in S’pore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19470308-1.2.2),” *Malaya Tribune*, 8 March 1947, 1; “[40 New Homes for Squatters](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19510505-1.2.73),” *Singapore*
+
+[^3]: 
