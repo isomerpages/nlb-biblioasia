@@ -136,7 +136,7 @@ Today, more than 60 years after the estate was first developed, most of the orig
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol%2018%20Issue%201/Authors/Alex_Teoh.png"style="width: 100px; height: 100px;"/>
+<img src="/images/Vol%2018%20Issue%201/Authors/Asrina_Tanuri.png"style="width: 100px; height: 100px;"/>
 	<b>Asrina Tanuri</b> is a Manager (Research) with the National Library, Singapore, where she provides information services to government agencies. Her research areas include community safety and security, and adult learning.</div>
 
 	
