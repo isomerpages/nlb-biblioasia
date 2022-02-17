@@ -128,3 +128,5 @@ Jalan Bintang Tiga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
 [^13]: Mrs Nancy Tan, interview, 5 January 2022. 
 
 [^14]: Ravi Veloo, “[The Story of Singapore’s Race Relations As Seen Through His Eyes](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19970125-1.2.56.1),” *Straits Times*, 25 January 1997, 44; Jackie Sam, “[3 New Ministers](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19631018-1.2.2),” *Straits Times*, 18 October 1963, 1. (From NewspaperSG)
+
+[^15]: “[4,000 Still Have to Hike a Mile to Bus-Stop](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19581025-1.2.45),” *Singapore Standard*, 25 October 1958, 5. (From NewspaperSG)
