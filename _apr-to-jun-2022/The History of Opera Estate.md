@@ -12,7 +12,7 @@ Today, no one buying a home in Opera Estate would bat an eyelid at paying over a
 
 In those days, life in the estate was a bit of a struggle. It was off the beaten track, buses did not ply the area and residents had to deal with constant flooding. However, some six decades later, life is very different.
 
-Opera Estate is a private residential estate bordered by New Upper Changi Road, Bedok South Road, Upper East Coast Road and Siglap Road. The street names in the estate were inspired by European operas and bangsawan (traditional Malay opera). 
+Opera Estate is a private residential estate bordered by New Upper Changi Road, Bedok South Road, Upper East Coast Road and Siglap Road. The street names in the estate were inspired by European operas and *bangsawan* (traditional Malay opera). 
 
 The area was part of almost 500 acres of coconut and rubber plantations owned by the Frankel family. Abraham Frankel had arrived in Singapore in 1888 from a poor village in Lithuania to pursue a better life for his family, and eventually became a prominent and wealthy merchant. The Frankels’ sprawling landholdings in Siglap (which was near the sea at the time before land reclamation) included a house in which the family lived until World War II.[^1]
 
