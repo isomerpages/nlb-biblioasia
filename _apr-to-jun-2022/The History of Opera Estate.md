@@ -164,3 +164,7 @@ Jalan Bintang Tiga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
 [^31]: “History,” Opera Estate Primary School, accessed 7 January 2022, https://operaestatepri.moe.edu.sg/history/.
 
 [^32]: “[Back Under One Roof After 14 years](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stoverseas19900505-1.2.8.12),” *Straits Times*, 5 May 1990, 8. (From NewspaperSG); “History,” CHIJ (Katong) Primary, accessed 7 January 2022, https://www.chijkcp.moe.edu.sg/school-info/history.
+
+[^33]: Michelle Goh, [*Celebrating Siglap*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13211252) (Singapore: Straits Times Press, 2009), 67. (From National Library, Singapore, Call no. RSING 959.57 GOH)
+
+[^34]: 
