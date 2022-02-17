@@ -117,4 +117,6 @@ Jalan Bintang Tiga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
 
 [^8]: “[Page 3 Advertisements Column 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19570321-1.2.31.1),” *The Straits Times*, 21 March 1957, 3 (From NewspaperSG). 
 
-[^9]: 
+[^9]: Hanim Mohd Saleh, “[‘Estet Bangsawan’ di Opera Estate](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19891110-1.2.19.4),” *Berita Harian*, 10 November 1989, 8. (From NewspaperSG)
+
+[^10]: Mrs Nancy Tan, interview, 5 January 2022. 
