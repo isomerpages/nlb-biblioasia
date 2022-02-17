@@ -24,6 +24,7 @@ Around 1947, the land was acquired by Crédit Foncier d’Extrême-Orient, a pio
 #### **Private Residential Development**
 
 The development of Opera Estate into a residential area began in the 1950s.[^3] Crédit Foncier d’Extrême-Orient divided up the land and sold the plots to various developers who embarked on different housing projects in the estate. These included Crédit Foncier itself, the Singapore Trading Company and Nassim & Co.
+
 Nassim & Co. in turn sold off a small parcel of land to a developer, Chua Chye Chua, in 1957. Chua recalled: “[T]he environment there… it was a semi-deserted place, jungle-like environment with a lot of rubber trees, ponds for the ducks and… pig [farms]. Then you have small hillocks made of limestone and so on. … [After I purchased the land], I have [sic] to do all this clearance, filling up all the ponds, knocking down the hillocks before I could start building. It took me some time.”[^4] Chua built 12 bungalows with modern sanitation which were sold between $15,000 and $18,000 each. 
 
 According to him, the houses in Opera Estate were not targeted at the wealthy: “They were the usual working-class people who are clerical workers or some semi-professional ones and so on. These are the kind of houses they can only afford to buy. Other houses in the other parts of Singapore would probably cost them well over a hundred thousand [dollars]. A hundred thousand [dollars] in those days were big money.”[^5] 
