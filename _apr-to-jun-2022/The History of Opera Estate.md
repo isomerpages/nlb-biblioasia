@@ -124,3 +124,7 @@ Jalan Bintang Tiga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
 [^11]: Mohd Anis Tairan, [*Kampungku Siglap: Memoir Mohd Anis Tairan*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13176543) (Singapore: Majlis Pusat Pertubuhan-Pertubuhan Budaya Melayu Singapura, 2010), 33. (From National Library, Singapore, Call no. RSING 959.57 MOH)
 
 [^12]: David Kraal, “[The President, My Friend](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850906-1.2.83.4.1),” *Straits Times*, 6 September 1985, 2. (From NewspaperSG)
+
+[^13]: Mrs Nancy Tan, interview, 5 January 2022. 
+
+[^14]: Ravi Veloo, “[The Story of Singapore’s Race Relations As Seen Through His Eyes](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19970125-1.2.56.1),” *Straits Times*, 25 January 1997, 44; Jackie Sam, “[3 New Ministers](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19631018-1.2.2),” *Straits Times*, 18 October 1963, 1. (From NewspaperSG)
