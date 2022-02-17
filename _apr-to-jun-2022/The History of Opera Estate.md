@@ -14,6 +14,9 @@ In those days, life in the estate was a bit of a struggle. It was off the beaten
 
 Opera Estate is a private residential estate bordered by New Upper Changi Road, Bedok South Road, Upper East Coast Road and Siglap Road. The street names in the estate were inspired by European operas and *bangsawan* (traditional Malay opera). 
 
+![](/images/Vol%2018%20Issue%201/Opera%20Estate/Road_signs.png)
+<div style="background-color: white;"> Swan Lake Avenue is named after a ballet by the Russian composer Pyotr Ilyich Tchaikovsky. Jalan Bintang Tiga is derived from Jula Juli Bintang Tiga, a popular Malay bangsawan. Bintang tiga means “three stars” in Malay. Photo by and courtesy of Veronica Chee.</i></div>
+
 The area was part of almost 500 acres of coconut and rubber plantations owned by the Frankel family. Abraham Frankel had arrived in Singapore in 1888 from a poor village in Lithuania to pursue a better life for his family, and eventually became a prominent and wealthy merchant. The Frankels’ sprawling landholdings in Siglap (which was near the sea at the time before land reclamation) included a house in which the family lived until World War II.[^1]
 
 Around 1947, the land was acquired by Crédit Foncier d’Extrême-Orient, a pioneer Franco-Belgian land developer in Singapore, for about $1.1 million. The deal was brokered by Nassim & Co. Limited.[^2] The area was eventually divided into Frankel Estate and Opera Estate.
