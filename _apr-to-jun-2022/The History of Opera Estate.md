@@ -87,6 +87,9 @@ The neighbourhood spirit is perhaps best exemplified by Jalan Bintang Tiga’s �
 
 Suresh, co-creator of the popular local comic book series *Mr Kiasu*, moved into Opera Estate in 1993. In 2015, he told the newspaper *Today*: “Organising the annual street party is just a small way to bring neighbours together in acknowledgement of our common space and neighbourly ties. It also provides opportunities for us to show our care and concern for each other.”[^28] 
 
+![](/images/Vol%2018%20Issue%201/Opera%20Estate/JBT%20street%20party%20VIPs.png)
+<div style="background-color: white;"> Jalan Bintang Tiga’s “Let’s Makan” party in 2015. (From left) James Suresh; Emeritus Senior Minister Goh Chok Tong; former Non-constituency Member of Parliament Yee Jenn Jong; Member of Parliament for Marine Parade GRC (Joo Chiat) Edwin Tong; William Wan, General Secretary of the Singapore Kindness Movement; and former Member of Parliament for Joo Chiat SMC Charles Chong. <i>Photo by and courtesy of Irene Loh</i></div>
+
 Over the years, the attendance grew as old neighbours who had moved out returned for the event and new residents joined in. Mdm Irene Loh, who now resides on Aida Street, and her family still make it a point to attend the street party. She said: “I look forward to the event each year as it’s a time to catch up with former neighbours, soak up the atmosphere and look at the mango tree in my old home.”[^29]
 
 The Singapore Kindness Movement began supporting the annual event in 2013 by sponsoring the tent and some food. Six years later, it named Jalan Bintang Tiga Singapore’s first “Friendly Street” with a special identity motif affixed to its street sign.[^30]
