@@ -35,4 +35,18 @@ One of Opera Estate’s most prominent residents was the first president of Sing
 
 From the backyard of Mrs Nancy Tan’s former home on Tosca Street, she could see Yusof Ishak’s house. She recalled of his wife: “Puan Noor Aishah was a very warm and friendly lady. She would give us kueh during Hari Raya.”[^13] 
 
-Another well-known figure that resided in Opera Estate was Singapore’s first Minister for Home Affairs and Social Welfare, Othman Wok.[^14] 
+Another well-known figure that resided in Opera Estate was Singapore’s first Minister for Home Affairs and Social Welfare, Othman Wok.[^14]
+
+#### **A Plea for Bus Services**
+
+As residents began moving into their new homes in Opera Estate, they found commuting difficult as no public buses were plying the estate.15 In a letter written in June 1958 to the authorities appealing for a bus company to service the area, the residents wrote: “It is a tragic sight, nay, pathetic to see office workers (men and women of all ages) climb the steep incline and walk one mile to Changi Road panting and perspiring, in order to get a bus to their offices in town; schoolchildren ranging from six years and upwards rushing from as early as seven o’clock in the morning to get to one of the 12 schools in Katong or Geylang areas.”16 
+
+Residents had to rely on pirate taxis instead, who charged unreasonably high fares.17 It was only after a concrete bridge replaced a makeshift one made from coconut tree trunks and the widening of a road to accommodate buses that a daily bus service eventually began running in May 1959.  The service was provided by Katong-Bedok Bus Service and started from Guillemard Road and ran through Opera Estate via Frankel Estate.18
+
+#### **The Flood Menace**
+
+Opera Estate also used to be prone to flooding. The floods mainly occurred in the areas bound by New Changi Road, Fidelio Street and Dido Street, as well as Carmen Street, Carmen Terrace and Lakme Terrace. 
+
+In October 1973, a heavy morning downpour caused massive floods that submerged more than a hundred houses under three to four feet (1 to 1.2 m) of water. The Straits Times reported that “housewives, who had anticipated flooding because it had occurred on four previous occasions during the rainy spell this month rushed back from markets and telephoned their husbands to return and help in evacuating furniture and goods”. The Chua family on Aida Street was badly hit as their rock garden, which was worth thousands of dollars, was damaged. Their pet dog also drowned in the flooding.19 
+
+Floods continued to plague residents well into the 1990s. Each time heavy rainfall was forecasted, residents would move their belongings to higher ground. After the floodwater receded, residents had to spend hours clearing the debris and cleaning their homes, salvaging what could be saved and discarding the rest.
