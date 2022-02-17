@@ -3,7 +3,6 @@ title: Printed on Rubber Latex Paper
 permalink: /apr-to-jun-2022/vol-18/issue-1/rubber-latex-paper/
 description: ""
 ---
-
 #### An innovation patented in 1920 produced paper that was more durable, had greater tensile strength and was resistant to folding, as **Alex Teoh** tells us.
 
 ![](/images/Vol%2018%20Issue%201/Rubber%20Latex%20Paper/Rubber%20Latex%20Covers.png)
@@ -76,7 +75,7 @@ However, after the 1930s, mentions of rubber latex paper dried up in the Malayan
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol%2018%20Issue%201/Authors/Alex_Teoh.png"style="width: 100px; height: 100px;"/>
+<img src="/images/Vol-18-Issue-1/Authors/Alex_Teoh.png"style="width: 100px; height: 100px;"/>
 	<b>Alex Teoh</b> is a paper and book conservator, providing collection care for rare manuscripts, collectible prints, antique maps and antiquarian books. He is interested in the local material culture of the written text in Southeast Asia.</div>
 
 	
