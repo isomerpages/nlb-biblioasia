@@ -137,4 +137,10 @@ Jalan Bintang Tiga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
 
 [^18]: “[This ‘Bridge of Sighs’ for 4,000 Residents of Opera Estate in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/sundaystandard19580803-1.2.13),” *Sunday Standard*, 3 August 1958, 2; “[Estate Gets New Bridge: Residents Thank Standard](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19580905-1.2.26),” *Singapore Standard*, 5 September 1958, 2; “[Bus Service For Housing Estate](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19590531-1.2.20),” *Straits Times*, 31 May 1959, 5; “[Now Opera Estate Gets Buses](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19590601-1.2.26),” *Straits Times*, 1 June 1959, 2. (From NewspaperSG)
 
-[^19]; 
+[^19]: Gerald Pereira, Maureen Chua and Jacob Daniel, “[Flood of Protest After Big Downpour](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19731027-1.2.62),” *Straits Times*, 27 October 1973, 6. (From NewspaperSG)
+
+[^20]: Celine Tan, “[Family Stays Awake If It Rains At Night](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/weekendeast19961004-1.2.3.1),” *Weekend East*, 4 October 1996, 2. (From NewspaperSG)
+
+[^21]: Mrs Irene Chee, interview, 6 January 2022. 
+
+[^22]: 
