@@ -66,6 +66,9 @@ Floods continued to plague residents well into the 1990s. Each time heavy rainfa
 
 One such resident was Basil Fernando, who had a piano and radio destroyed in a flood in 1974. Since then, he had been diligently recording every flood in a logbook. He told the *WEEKENDeast* weekly newspaper in 1996: “After the floods, you see the neighbours throwing away their carpets. Once our neighbours came back from a holiday to find their speakers destroyed.” He said that if it rained at night, his family would stay up in case it flooded.[^20] 
 
+![](/images/Vol%2018%20Issue%201/Opera%20Estate/flood.png)
+<div style="background-color: white;"> Opera Estate is a private residential estate located in the eastern region of Singapore.  It was developed in the 1950s. <i>Photo by and courtesy of Asrina Tanuri.</i></div>
+
 Mdm Irene Loh, 75, was a resident of Jalan Bintang Tiga. She recalled the flooding that occurred in the 1980s and 90s: “Once it rained so heavily that water entered the kitchen from the overflowing drain behind my house. At the same time, water also gushed in from the front. The entire first floor was flooded. My daughters even saw some fish swimming in the living room, but luckily there were no snakes.”[^21]
 
 In 1996, the Ministry of Environment embarked on a $46-million drainage project to ease the flooding in the estate.[^22] Taking about six years to complete, the scheme involved “impound[ing] the stormwater in an underground pond and then pump[ing] it into the main canal” to “control and regulate the rate of flow in the canal”. An underground storage tank was built under the Opera Estate Primary School field which would temporarily store rainwater during heavy storms.[^23] 
