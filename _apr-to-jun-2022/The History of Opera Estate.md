@@ -143,4 +143,8 @@ Jalan Bintang Tiga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
 
 [^21]: Mrs Irene Chee, interview, 6 January 2022. 
 
-[^22]: 
+[^22]: Tracy Lee, “[Opera Estate Plan to Ease Floods](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19960929-1.2.40.3),” *Straits Times*, 29 September 1996, 29. (From NewspaperSG)
+
+[^23]: Abdullah Tarmugi, “[Speech by Mr Abullah Tarmugi Minister for Community Development and Member of Parliament for Bedok GRC (Siglap) at the Launching Ceremony for the Opera Estate Drainage Scheme on Saturday 28 September 1996 at 11.35 am Opera Estate Primary School](https://www.nas.gov.sg/archivesonline/speeches/record-details/70823232-115d-11e3-83d5-0050568939ad),” 28 September 1996, transcript. (From National Archives of Singapore, Document no. at19960928s); Ng Joo Hee, “[How We May Tame Storm Water](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20161118-1.2.60.6),” *Straits Times*, 18 November 2016, 18. (From NewspaperSG)
+
+[^24]: 
