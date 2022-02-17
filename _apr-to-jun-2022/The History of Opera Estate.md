@@ -182,7 +182,7 @@ Today, more than 60 years after the estate was first developed, most of the orig
 
 [^19]: Gerald Pereira, Maureen Chua and Jacob Daniel, “[Flood of Protest After Big Downpour](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19731027-1.2.62),” *Straits Times*, 27 October 1973, 6. (From NewspaperSG)
 
-[^20]: Celine Tan, “[Family Stays Awake If It Rains At Night](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/weekendeast19961004-1.2.3.1),” *Weekend East*, 4 October 1996, 2. (From NewspaperSG)
+[^20]: Celine Tan, “[Family Stays Awake If It Rains At Night](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/weekendeast19961004-1.2.3.1),” *WEEKENDEast*, 4 October 1996, 2. (From NewspaperSG)
 
 [^21]: Mrs Irene Chee, interview, 6 January 2022. 
 
