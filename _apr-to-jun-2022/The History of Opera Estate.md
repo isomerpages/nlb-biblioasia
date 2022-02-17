@@ -125,6 +125,9 @@ Located on Jalan Khairuddin, the Convent of the Holy Infant Jesus (CHIJ) Opera E
 There are three parks in Opera Estate: Aida Park, which is between Aida Street and Bedok South Road; Bangsawan Park along Bangsawan Road; and Siglap Linear Park. The last was completed in 2002 and stretches from Swan Lake Avenue all the way to East Coast Park by the sea.[^33] An open field on Swan Lake Avenue known as Opera Estate Football Field is also popular with residents.
 Swan Lake Avenue is also where you can find a row of shophouses housing eateries such as Baker & Cook and Plank Sourdough Pizza, as well as a number of food catering companies. 
 
+![](/images/Vol%2018%20Issue%201/Opera%20Estate/Bangsawan%20Park%20(2).png)
+<div style="background-color: white;"> Bangsawan Park on Jalan Bangsawan, 2022. It has a children’s playground and an exercise area. <i>Photo by and courtesy of Veronica Chee.</i></div>
+
 Today, more than 60 years after the estate was first developed, most of the original houses have been torn down and replaced with modern, multi-storeyed homes worth millions. Many of the original residents have moved out and young families with children in tow have made Opera Estate their home. But one thing remains the same: Opera Estate is still a peaceful and quiet residential area with neighbours living together in harmony.
 
 <div style="background-color: white;">
