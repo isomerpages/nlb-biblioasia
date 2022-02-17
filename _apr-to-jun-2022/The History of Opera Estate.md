@@ -92,6 +92,19 @@ Jalan Bintang Tiga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
 	<b>REFERENCES</b><br><br>1. Dunlop, Peter K.G. <i>Street Names of Singapore</i>, 39, 65, 68, 77, 82-83, 116, 118, 131, 153, 178, 210, 225, 263, <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;296, 308, 312. Singapore: Who’s Who, 2000. (From National Library, Singapore, Call no. <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RSING 959.57 DUN)<br><br>2. Hanim Mohd Saleh. “‘Estet Bangsawan’ di Opera Estate,” <i>Berita Harian</i>, 10 November 1989, 8. <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(From NewspaperSG)<br><br>3. Ng, Desmond. “Named After Famous Operas,” <i>New Paper</i>, 12 June 2002, 39. (From NewspaperSG) <br><br>4. Ng, Yew Peng. <i>What’s in the Name? How the Streets and Villages in Singapore Got Their Names</i>, 66, 108,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 137, 141, 150, 154, 191, 194, 213, 280, 326, 341, 372, 404, 416, 422. Singapore: World Scientific, 2018. <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(From National Library, Singapore, Call no. RSING 915.9570014 NG) <br><br> 5.  Sulaiman Jeem. “Pak Din – Tokoh Bangsawan Yg Ta’ Ada Tolok Banding-nya,” <i>Berita Harian</i>, 18 April 1964, 7.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (From NewspaperSG)<br>
 </div>
 
+The street party ran every year for about two decades. Unfortunately, because of the Covid-19 pandemic, the party did not take place in 2020 and 2021.
+
+#### **Amenities in the Neighbourhood**
+
+Very early on, a number of primary schools were set up in the area. Opera Estate Boys’ School and Opera Estate Girls’ School were established in 1959. The buildings of the two primary schools stood side-by-side along Fidelio Street. Both schools were then merged to form Opera Estate Primary School in 1985, which is still on Fidelio Street today.[^31]
+
+Located on Jalan Khairuddin, the Convent of the Holy Infant Jesus (CHIJ) Opera Estate, also known as Opera Estate Convent, was also founded in 1959. In 1990, it merged with the primary school section of Katong Convent and both became known as CHIJ (Katong) Primary. The Red Cross Campsite currently occupies the old school premises on Jalan Khairuddin.[^32]
+
+There are three parks in Opera Estate: Aida Park, which is between Aida Street and Bedok South Road; Bangsawan Park along Bangsawan Road; and Siglap Linear Park. The last was completed in 2002 and stretches from Swan Lake Avenue all the way to East Coast Park by the sea.[^33] An open field on Swan Lake Avenue known as Opera Estate Football Field is also popular with residents.
+Swan Lake Avenue is also where you can find a row of shophouses housing eateries such as Baker & Cook and Plank Sourdough Pizza, as well as a number of food catering companies. 
+
+Today, more than 60 years after the estate was first developed, most of the original houses have been torn down and replaced with modern, multi-storeyed homes worth millions. Many of the original residents have moved out and young families with children in tow have made Opera Estate their home. But one thing remains the same: Opera Estate is still a peaceful and quiet residential area with neighbours living together in harmony.
+
 <div style="background-color: white;">
 <br/>
 <img src="/images/Vol%2018%20Issue%201/Authors/Alex_Teoh.png"style="width: 100px; height: 100px;"/>
