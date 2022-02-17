@@ -119,4 +119,6 @@ Jalan Bintang Tiga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
 
 [^9]: Hanim Mohd Saleh, “[‘Estet Bangsawan’ di Opera Estate](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19891110-1.2.19.4),” *Berita Harian*, 10 November 1989, 8. (From NewspaperSG)
 
-[^10]: Mrs Nancy Tan, interview, 5 January 2022. 
+[^10]: Mrs Nancy Tan, interview, 5 January 2022.
+
+[^11]: Mohd Anis Tairan, [Kampungku Siglap: Memoir Mohd Anis Tairan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13176543) (Singapore: Majlis Pusat Pertubuhan-Pertubuhan Budaya Melayu Singapura, 2010), 33. (From National Library, Singapore, Call no. RSING 959.57 MOH) 
