@@ -121,4 +121,6 @@ Jalan Bintang Tiga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
 
 [^10]: Mrs Nancy Tan, interview, 5 January 2022.
 
-[^11]: Mohd Anis Tairan, [Kampungku Siglap: Memoir Mohd Anis Tairan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13176543) (Singapore: Majlis Pusat Pertubuhan-Pertubuhan Budaya Melayu Singapura, 2010), 33. (From National Library, Singapore, Call no. RSING 959.57 MOH) 
+[^11]: Mohd Anis Tairan, [*Kampungku Siglap: Memoir Mohd Anis Tairan*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13176543) (Singapore: Majlis Pusat Pertubuhan-Pertubuhan Budaya Melayu Singapura, 2010), 33. (From National Library, Singapore, Call no. RSING 959.57 MOH)
+
+[^12]: David Kraal, “[The President, My Friend](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850906-1.2.83.4.1),” *Straits Times*, 6 September 1985, 2. (From NewspaperSG)
