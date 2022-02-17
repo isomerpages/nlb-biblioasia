@@ -153,4 +153,8 @@ Jalan Bintang Tiga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
 
 [^26]: “[Residents’ ‘Changkol Squad’ Fix Estate Roads](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19610601-1.2.55),” *Singapore Free Press*, 1 June 1961, 4; “[Example of the Good Citizens](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19610602-1.2.16.1),” *Singapore Free Press*, 2 June 1961, 6. (From NewspaperSG)
 
-[^27]: 
+[^27]: [Mr Kiasu and His Kampung Spirit](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/tabla20151016-1.2.2),” *Tabla*, 16 October 2015, 1. (From NewspaperSG); “Singapore Names its First Friendly Street,” Singapore Kindness Movement, 17 August 2019, https://www.kindness.sg/news/singapore-names-its-first-friendly-street/; Marilyn Peh, “For the past 20 years, this tight-knit group of neighbours have kept a special street party tradition alive,” The Pride, 2 September 2019, https://pride.kindness.sg/20-years-neighbours-jalan-bintang-tiga-james-suresh-street-party/.
+
+[^28]: James Suresh, “[A Neighbourly Connection](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20140305-1.2.53),” *Today*, 5 March 2015, 45. (From NewspaperSG)
+
+[^29]: Mrs Irene Chee, interview, 6 January 2022. 
