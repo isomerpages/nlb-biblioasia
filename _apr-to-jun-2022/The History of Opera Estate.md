@@ -51,7 +51,7 @@ In October 1973, a heavy morning downpour caused massive floods that submerged m
 
 Floods continued to plague residents well into the 1990s. Each time heavy rainfall was forecasted, residents would move their belongings to higher ground. After the floodwater receded, residents had to spend hours clearing the debris and cleaning their homes, salvaging what could be saved and discarding the rest.
 
-One such resident was Basil Fernando, who had a piano and radio destroyed in a flood in 1974. Since then, he had been diligently recording every flood in a logbook. He told the WEEKENDeast weekly newspaper in 1996: “After the floods, you see the neighbours throwing away their carpets. Once our neighbours came back from a holiday to find their speakers destroyed.” He said that if it rained at night, his family would stay up in case it flooded.[^20] 
+One such resident was Basil Fernando, who had a piano and radio destroyed in a flood in 1974. Since then, he had been diligently recording every flood in a logbook. He told the *WEEKENDeast* weekly newspaper in 1996: “After the floods, you see the neighbours throwing away their carpets. Once our neighbours came back from a holiday to find their speakers destroyed.” He said that if it rained at night, his family would stay up in case it flooded.[^20] 
 
 Mdm Irene Loh, 75, was a resident of Jalan Bintang Tiga. She recalled the flooding that occurred in the 1980s and 90s: “Once it rained so heavily that water entered the kitchen from the overflowing drain behind my house. At the same time, water also gushed in from the front. The entire first floor was flooded. My daughters even saw some fish swimming in the living room, but luckily there were no snakes.”[^21]
 
