@@ -2,4 +2,5 @@ collections:
   apr-to-jun-2022:
     output: true
     order:
+      - Opera Estate.md
       - Rubber Latex Paper.md
