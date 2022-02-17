@@ -40,6 +40,9 @@ Mrs Nancy Tan, 75, lived in a bungalow on Tosca Street in the 1950s and 60s unti
 
 One of Opera Estate’s most prominent residents was the first president of Singapore, Yusof Ishak, who lived on Aida Street when he was still a journalist. He was known among the neighbours to have a keen interest in gardening.[^11] Journalist David Kraal had his first encounter with Yusof Ishak and his wife at Kraal’s uncle’s new terrace house in the neighbourhood. Kraal recalled: “Before we said our goodnights, the gallant journalist [Yusof Ishak] picked a choice orchid from his nearby garden and handed it to my flower-loving mother. It was the perfect end to a fine evening.”[^12] 
 
+![](/images/Vol%2018%20Issue%201/Opera%20Estate/yusof2.png)
+<div style="background-color: white;"> Yusof Ishak and Puan Noor Aishah with their children in their Opera Estate home on Aida Street, 1955. <i>Yusof Ishak Collection, courtesy of National Archives of Singapore.</i></div>
+
 From the backyard of Mrs Nancy Tan’s former home on Tosca Street, she could see Yusof Ishak’s house. She recalled of his wife: “Puan Noor Aishah was a very warm and friendly lady. She would give us *kueh* during Hari Raya.”[^13] 
 
 Another well-known figure that resided in Opera Estate was Singapore’s first Minister for Home Affairs and Social Welfare, Othman Wok.[^14]
