@@ -5,7 +5,7 @@ description: ""
 ---
 #### **Asrina Tanuri** traces the development of Opera Estate from its early beginnings as coconut and rubber plantations to a private residential estate.
 
-![](/images/Vol%2018%20Issue%201/Opera%20Estate/Edited-Jalan-Bintang-Tiga.png)
+![](/images/Vol%2018%20Issue%201/Opera%20Estate/Jalan%20Bintang%20Tiga%20(2020)%20(orig).png)
 <div style="background-color: white;"> Jalan Bintang Tiga, 2020. Floods are no longer an occurrence there. <i>Photo by and courtesy of Irene Loh</i></div>
 
 Today, no one buying a home in Opera Estate would bat an eyelid at paying over a million dollars for a place there. This is in stark contrast to the 1950s when developers first began selling homes there. Back then, a one-storey terrace house in Opera Estate would sell for just under $10,000. 
