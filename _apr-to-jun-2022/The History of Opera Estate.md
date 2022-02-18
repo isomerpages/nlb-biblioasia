@@ -95,7 +95,7 @@ Over the years, the attendance grew as old neighbours who had moved out returned
 
 The Singapore Kindness Movement began supporting the annual event in 2013 by sponsoring the tent and some food. Six years later, it named Jalan Bintang Tiga Singapore’s first “Friendly Street” with a special identity motif affixed to its street sign.[^30]
 
-![](/images/Vol%2018%20Issue%201/Opera%20Estate/JBT-Group.png)
+![](/images/Vol%2018%20Issue%201/Opera%20Estate/JBT_Group.png)
 <div style="background-color: white;"> The Singapore Kindness Movement named Jalan Bintang Tiga Singapore’s first “Friendly Street” in 2019. The street sign has a special identity motif affixed to it. Member of Parliament for Marine Parade GRC (Joo Chiat) Edwin Tong (left), and William Wan (right), General Secretary of the Singapore Kindness Movement, unveiling the sign. <i>Courtesy of the Singapore Kindness Movement.</i></div>
 
 Guests who have been invited to the street party include former Emeritus Senior Minister Goh Chok Tong; former Member of Parliament for Joo Chiat SMC, Charles Chong; Member of Parliament for Marine Parade GRC (Joo Chiat) Edwin Tong; former Non-constituency Member of Parliament Yee Jenn Jong, who grew up in Opera Estate; and William Wan, General Secretary of the Singapore Kindness Movement.
@@ -125,7 +125,7 @@ Located on Jalan Khairuddin, the Convent of the Holy Infant Jesus (CHIJ) Opera E
 
 There are three parks in Opera Estate: Aida Park, which is between Aida Street and Bedok South Road; Bangsawan Park along Bangsawan Road; and Siglap Linear Park. The last was completed in 2002 and stretches from Swan Lake Avenue all the way to East Coast Park by the sea.[^33] An open field on Swan Lake Avenue known as Opera Estate Football Field is also popular with residents.
 
-![](/images/Vol%2018%20Issue%201/Opera%20Estate/Bangsawan%20Park%20(2).png)
+![](/images/Vol%2018%20Issue%201/Opera%20Estate/Bangsawan%20Park%20(editted).png)
 <div style="background-color: white;">  Shophouses on Swan Lake Avenue, 2022. <i>Photo by and courtesy of Veronica Chee.</i></div>
 
 Swan Lake Avenue is also where you can find a row of shophouses housing eateries such as Baker & Cook and Plank Sourdough Pizza, as well as a number of food catering companies. 
