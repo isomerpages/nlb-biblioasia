@@ -5,7 +5,7 @@ description: ""
 ---
 #### **Asrina Tanuri** traces the development of Opera Estate from its early beginnings as coconut and rubber plantations to a private residential estate.
 
-![](/images/Vol%2018%20Issue%201/Opera%20Estate/Jalan-Bintang-Tiga(2020).png)
+![](/images/Vol%2018%20Issue%201/Opera%20Estate/Jalan%20Bintang%20Tiga%20(2020).png)
 <div style="background-color: white;"> Jalan Bintang Tiga, 2020. Floods are no longer an occurrence there. <i>Photo by and courtesy of Irene Loh</i></div>
 
 Today, no one buying a home in Opera Estate would bat an eyelid at paying over a million dollars for a place there. This is in stark contrast to the 1950s when developers first began selling homes there. Back then, a one-storey terrace house in Opera Estate would sell for just under $10,000. 
@@ -31,7 +31,7 @@ According to him, the houses in Opera Estate were not targeted at the wealthy: �
 
 In addition to bungalows, there were also smaller and cheaper terrace houses. The homes sold by Crédit Foncier were on Dafne and Aida streets and were one-storey terrace houses with asbestos roofs and cement floors. Their prices started at $9,760.[^6] Nassim & Co. sold single-storey terrace houses along Fidelio Street starting from $14,000. Each came with two bedrooms, a utility room, a spacious lounge and dining room, and a front and back garden.[^7] In 1957, Nassim & Co. advertised a “modern two-storey bungalow” with three bedrooms in Opera Estate for $24,900.[^8] 
 
-![](/images/Vol%2018%20Issue%201/Opera%20Estate/Jalan%20Bintang%20Tiga%20(2020).png)
+![](/images/Vol%2018%20Issue%201/Opera%20Estate/Screenshot_Opera.png)
 <div style="background-color: white;">  In 1957, a two-storey a bungalow in Opera Estate cost $24,900. <i>Image reproduced from “Page 3 Advertisements Column 1,” Straits Times, 21 March 1957, 3 (From NewspaperSG).
 </i></div>
 
