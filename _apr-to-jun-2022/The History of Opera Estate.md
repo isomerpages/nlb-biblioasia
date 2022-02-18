@@ -95,7 +95,7 @@ Over the years, the attendance grew as old neighbours who had moved out returned
 
 The Singapore Kindness Movement began supporting the annual event in 2013 by sponsoring the tent and some food. Six years later, it named Jalan Bintang Tiga Singapore’s first “Friendly Street” with a special identity motif affixed to its street sign.[^30]
 
-![](/images/Vol%2018%20Issue%201/Opera%20Estate/HC-JBT-Group.png)
+![](/images/Vol%2018%20Issue%201/Opera%20Estate/JBT-Group.png)
 <div style="background-color: white;"> The Singapore Kindness Movement named Jalan Bintang Tiga Singapore’s first “Friendly Street” in 2019. The street sign has a special identity motif affixed to it. Member of Parliament for Marine Parade GRC (Joo Chiat) Edwin Tong (left), and William Wan (right), General Secretary of the Singapore Kindness Movement, unveiling the sign. <i>Courtesy of the Singapore Kindness Movement.</i></div>
 
 Guests who have been invited to the street party include former Emeritus Senior Minister Goh Chok Tong; former Member of Parliament for Joo Chiat SMC, Charles Chong; Member of Parliament for Marine Parade GRC (Joo Chiat) Edwin Tong; former Non-constituency Member of Parliament Yee Jenn Jong, who grew up in Opera Estate; and William Wan, General Secretary of the Singapore Kindness Movement.
@@ -130,7 +130,7 @@ There are three parks in Opera Estate: Aida Park, which is between Aida Street a
 
 Swan Lake Avenue is also where you can find a row of shophouses housing eateries such as Baker & Cook and Plank Sourdough Pizza, as well as a number of food catering companies. 
 
-![](/images/Vol%2018%20Issue%201/Opera%20Estate/Swan-Lake-Avenue.png)
+![](/images/Vol%2018%20Issue%201/Opera%20Estate/Swan%20Lake%20Avenue%20shophouses%20(2).png)
 <div style="background-color: white;"> Bangsawan Park on Jalan Bangsawan, 2022. It has a children’s playground and an exercise area. <i>Photo by and courtesy of Veronica Chee.</i></div>
 
 Today, more than 60 years after the estate was first developed, most of the original houses have been torn down and replaced with modern, multi-storeyed homes worth millions. Many of the original residents have moved out and young families with children in tow have made Opera Estate their home. But one thing remains the same: Opera Estate is still a peaceful and quiet residential area with neighbours living together in harmony.
