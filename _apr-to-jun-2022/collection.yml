@@ -2,5 +2,6 @@ collections:
   apr-to-jun-2022:
     output: true
     order:
+      - The Evolution of Chinese Food in Singapore.md
       - The History of Opera Estate.md
       - Printed on Rubber Latex Paper.md
