@@ -5,12 +5,12 @@ description: ""
 ---
 #### An innovation patented in 1920 produced paper that was more durable, had greater tensile strength and was resistant to folding, as **Alex Teoh** tells us.
 
-![](/images/Vol%2018%20Issue%201/Rubber%20Latex%20Paper/Rubber%20Latex%20Covers.png)
+![](/images/Vol%2018%20Issue%201/Rubber%20Latex%20Paper/Edit_Rubber%20Latex%20Covers.png)
 <div style="background-color: white;">Titles published by the Malay States Information Agency/Malayan Information Agency and printed on rubber latex paper. (Left to right) <i> Images reproduced from Eric MacFadyen, Rubber Planting in Malaya (London: Malay States Information Agency, 1924). (Not available in NLB holdings); Sport and Motoring in Malaya (London: Malay States Information Agency, 1924). (Not available in  NLB holdings); British Malaya: General Description of the Country and Life Therein (London: Malayan Information Agency, 1929). (Not available in NLB holdings)</i></div>
 
 During the British Empire Exhibition held at Wembley Park, England, from 23 April to 1 November 1924, a number of handbooks were published and distributed that promoted the economy and produce of British Malaya. Published by the London-based Malay States Information Agency, these handbooks included titles such as *British Malaya: Trade & Commerce*; *Rubber Planting in Malaya*; *Coconut Industry in Malaya*; *Big Game Shooting & Motoring in Malaya*; and *Mining in Malaya*.[^1]
 
-![](/images/Vol%2018%20Issue%201/Rubber%20Latex%20Paper/Mining%20in%20Malaya%20Cover.png)
+![](/images/Vol%2018%20Issue%201/Rubber%20Latex%20Paper/edit_Mining%20in%20Malaya%20Cover.png)
 <div style="background-color: white;">Cover and title page of <i>Mining in Malaya</i>, which was printed on rubber latex paper.<i> Images reproduced from Gordon Eastley Greig, Mining in Malaya (London: Malay States Information Agency, 1924). (From National Library, Singapore, Call no. RCLOS 622.09595 GRE-[RFL]).</i></div>
 
 The agency was set up in 1910 as the Malay States Development Agency, which was renamed Malay States Information Agency the next year. Its mission was to provide information to prospective investors to boost land cultivation and trade in British Malaya. Through various public relations initiatives, advertisements and exhibitions, Malaya’s primary produce like rubber, coconut, pineapple and gambier and minerals such as tin were made known to the British Empire and the world. In 1928, the agency was renamed yet again as the Malayan Information Agency and occupied a building called Malaya House in London’s Trafalgar Square. 
@@ -32,7 +32,7 @@ During the 1920s, the price of rubber slumped and rubber export restrictions wer
 
 The use of rubber latex in paper-making garnered considerable news coverage in 1922 and 1923. In April 1922, the *Straits Times* noted that rubber latex appeared to “improve the texture [of paper] and makes the paper more uniform when viewed by transmitted light. The feel of the paper, especially with paper containing large amounts of rubber, is much improved and becomes pleasant to the touch”. It added that “paper containing rubber latex is more water-repellent than the same paper without rubber, and a suitable treatment of the fibres in paper-making with rubber latex will give a water-proof paper”. In addition, the “electrical resistance and dielectric properties of paper may be improved by the addition of rubber latex”. The paper became more absorbent with better hydration, while the production cost was also reduced considerably.[^6]
 
-![](/images/Vol%2018%20Issue%201/Rubber%20Latex%20Paper/Malaya%20House.png)
+![](/images/Vol%2018%20Issue%201/Rubber%20Latex%20Paper/edit_Malaya_house.png)
 <div style="background-color: white;"> A sketch of Malaya House in Trafalgar Square, London. The building housed the Malayan Information Agency. <i>Image reproduced from British Malaya: General Description of the Country and Life Therein (London: Malayan Information Agency, 1932), back cover. (From National Library, Singapore, Call no. RCLOS 959.5 MAL).
 
 </i></div>
@@ -51,7 +51,7 @@ There were some efforts to use rubber latex paper commercially. It was used for 
 
 For the Malaya Pavilion at the British Empire Exhibition in 1924, the 2,000 copies of various pamphlets on different topics produced for sale used up two tons of paper, 3 percent of which was made of rubber latex.[^14]
 
-![](/images/Vol%2018%20Issue%201/Rubber%20Latex%20Paper/Pamphlet.png)
+![](/images/Vol%2018%20Issue%201/Rubber%20Latex%20Paper/edit_pamphlet.png)
 <div style="background-color: white;">An advertisement of the Malay States Information Agency in 1928.<i> Image reproduced from Federated Malay States Railways: Pamphlet of Information for Travellers 1928: Tours in the Malay Peninsula (Kuala Lumpur: Federated Malay States Railways, 1928), 87. (From National Library, Singapore, Call no. RRARE 959.51 FED; Microfilm no. NL28657).
 </i></div>
 
@@ -59,13 +59,13 @@ A company that manufactured latex paper was Messrs Lepard and Smiths, Limited, o
 
 In Singapore and Malaya, latex paper was advertised and sold by major merchandisers like Fraser and Neave, Ltd.[^16], John Little & Co., Ltd.[^17] and G.H. Kiat & Co., Ltd.[^18] 
 
-![](/images/Vol%2018%20Issue%201/Rubber%20Latex%20Paper/G_H_Kiat.png)
+![](/images/Vol%2018%20Issue%201/Rubber%20Latex%20Paper/2_edit.png)
 <div style="background-color: white;">G.H. Kiat & Co. advertising its latex paper. <i>Image reproduced from “Page 6 Advertisements Column 1,” Malaya Tribune, 19 June 1923, 6. (From NewspaperSG).
 </i></div>
 
 In 1925 and 1927, printing company Rickard on Cecil Street embarked on a targeted advertising campaign for its latex paper. The marketing slogan in the daily newspapers was “Keep Up the Price of Rubber by Having All Your Printing Done on Latex Paper” and “To Managers of Rubber Estates – Insist on Having All Your Printing – Letter Heads, Memos, Check Rolls, Etc. Etc. Done on Latex Paper”.[^19] The bookshop G.H. Kiat & Co. attempted to prod companies into using the paper by asking: “Are You Helping the Rubber Industry by Using Latex Paper?”[^20] 
 
-![](/images/Vol%2018%20Issue%201/Rubber%20Latex%20Paper/Rickard.png)
+![](/images/Vol%2018%20Issue%201/Rubber%20Latex%20Paper/1_edit.png)
 <div style="background-color: white;">A Rickard Ltd. advertisement encouraging consumers to use latex paper.<i> Image reproduced from “Page 2 Advertisements Column 2,” Straits Times, 9 November 1925, 2. (From NewspaperSG).</i></div>
 
 In 1926, John Little & Co. offered a new series of Christmas greetings cards featuring “etchings of local beauty spots by Mrs G. Sinclair”, printed on a special grade of latex paper.[^21] Three years later, John Little launched its exclusive stationery brand of writing pads, note paper and envelopes called Rubtext Stationery. These used “distinctive high quality paper with semi-smooth finish” and were made in two finishes, antique and ripple, with each finish in four colours – white, sea blue, maize and mauve.[^22]
