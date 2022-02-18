@@ -39,7 +39,7 @@ In a *Berita Harian* article about Opera Estate in 1989, *bangsawan* actor Shari
 
 Mrs Nancy Tan, 75, lived in a bungalow on Tosca Street in the 1950s and 60s until she got married and moved out. Her mother had bought the bungalow for $30,000 in the mid-1950s. She recalled that the area was very quiet back then. “Tosca Street had only one row of houses,” she said. “On the opposite side of the road was a grassy field where cows used to graze. My mother would collect the cow dung to be used as fertilisers for her plants. There was a small, rocky hill on Aida Street and I’ve seen goats on the hill. An Indian man would go around the estate on a bicycle selling goat’s milk.”[^10]
 
-![](/images/Vol%2018%20Issue%201/Opera%20Estate/Opera-State-Sign.png)
+![](/images/Vol%2018%20Issue%201/Opera%20Estate/01%20-%20Opera%20Estate%20sign.png)
 <div style="background-color: white;"> Opera Estate is a private residential estate located in the eastern region of Singapore.  It was developed in the 1950s. <i>Photo by and courtesy of Asrina Tanuri.</i></div>
 
 One of Opera Estate’s most prominent residents was the first president of Singapore, Yusof Ishak, who lived on Aida Street when he was still a journalist. He was known among the neighbours to have a keen interest in gardening.[^11] Journalist David Kraal had his first encounter with Yusof Ishak and his wife at Kraal’s uncle’s new terrace house in the neighbourhood. Kraal recalled: “Before we said our goodnights, the gallant journalist [Yusof Ishak] picked a choice orchid from his nearby garden and handed it to my flower-loving mother. It was the perfect end to a fine evening.”[^12] 
