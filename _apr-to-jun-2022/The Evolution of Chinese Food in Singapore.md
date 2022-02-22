@@ -52,7 +52,7 @@ This was served in Hainanese-run *kopitiams* (coffee shops) in early Singapore a
 
 There, they served food and drinks commonly seen in their former employers’ homes such as the Western-style breakfast of eggs with toast, eaten with coffee or tea. As fruits like strawberries were not easily available in Singapore to make jam, the Hainanese, like the Peranakan Chinese, adapted and used coconut milk, eggs and *pandan* leaves to make *kaya*. And in a twist on half-boiled eggs with salt and pepper, the Hainanese drizzled dark soy sauce over the eggs, thereby putting their own local spin on this British breakfast classic. 
 
-Hainanese curry rice is another example of the mix of east and west. Curry rice is a rice dish served with pork chop, curry chicken, *babi pongteh* (Peranakan-style braised pork) and chap chye (braised mixed vegetables), all heavily doused in curry gravy. The pork chop is an adaptation of the Western dish, using ground crackers as coating instead of breadcrumbs. Curry chicken, babi pongteh and chap chye are well-known Peranakan Chinese dishes. These days, options like sambal prawn and squid, sardine, prawn fritter and assam fish are also available.  
+Hainanese curry rice is another example of the mix of east and west. Curry rice is a rice dish served with pork chop, curry chicken, *babi pongteh* (Peranakan-style braised pork) and *chap chye* (braised mixed vegetables), all heavily doused in curry gravy. The pork chop is an adaptation of the Western dish, using ground crackers as coating instead of breadcrumbs. Curry chicken, *babi pongteh* and chap chye are well-known Peranakan Chinese dishes. These days, options like sambal prawn and squid, sardine, prawn fritter and assam fish are also available.  
 
 #### **A Rich Legacy**
 
