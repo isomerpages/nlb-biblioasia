@@ -32,7 +32,7 @@ During the 1920s, the price of rubber slumped and rubber export restrictions wer
 
 The use of rubber latex in paper-making garnered considerable news coverage in 1922 and 1923. In April 1922, the *Straits Times* noted that rubber latex appeared to “improve the texture [of paper] and makes the paper more uniform when viewed by transmitted light. The feel of the paper, especially with paper containing large amounts of rubber, is much improved and becomes pleasant to the touch”. It added that “paper containing rubber latex is more water-repellent than the same paper without rubber, and a suitable treatment of the fibres in paper-making with rubber latex will give a water-proof paper”. In addition, the “electrical resistance and dielectric properties of paper may be improved by the addition of rubber latex”. The paper became more absorbent with better hydration, while the production cost was also reduced considerably.[^6]
 
-![](/images/Vol%2018%20Issue%201/Rubber%20Latex%20Paper/edit_Malaya_house.png)
+![](/images/Vol%2018%20Issue%201/Rubber%20Latex%20Paper/Malaya%20House_edit.png)
 <div style="background-color: white;"> A sketch of Malaya House in Trafalgar Square, London. The building housed the Malayan Information Agency. <i>Image reproduced from British Malaya: General Description of the Country and Life Therein (London: Malayan Information Agency, 1932), back cover. (From National Library, Singapore, Call no. RCLOS 959.5 MAL).
 
 </i></div>
