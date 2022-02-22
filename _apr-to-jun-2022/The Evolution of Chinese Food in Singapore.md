@@ -5,7 +5,7 @@ description: ""
 ---
 #### Chinese food in Singapore is a product of the country’s history and geography, reveals **Low Sze Wee**.
 
-![](/images/Vol%2018%20Issue%201/Opera%20Estate/Jalan%20Bintang%20Tiga%20(2020)%20(orig).png)
+![](/images/Vol%2018%20Issue%201/Chinese%20Food/chicken%20rice.png)
 <div style="background-color: white;"> Hainanese chicken rice has its origins in Wenchang county in Hainan, China. The chicken is cooked Cantonese-style and best eaten with a dip made of chilli, garlic and ground ginger. <i>From Shutterstock.</i></div>
 
 Eating out is very much a part of the national identity of Singaporeans. Given the wide variety of eateries available here, from hawker stalls to Michelin-starred restaurants, this is not surprising. 
