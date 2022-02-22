@@ -44,7 +44,7 @@ Through their familiarity with Malay cooking techniques and Southeast Asian ingr
 
 The Peranakan Chinese version, known as *nonya* dumpling, uses candied wintermelon in the filling, hence its colloquial name *puah kiam ti chang*, which means “sweet and salty dumpling” in Hokkien. Believed to have “a cooling effect”, wintermelon is commonly used in traditional Chinese desserts. Coriander powder and aniseed powder – spices used in Malay cooking – are used to flavour the braised pork filling.
 
-Another example of Malay influence in the dumpling is the extraction of the juice from the petals of the local butterfly pea flower (*bunga telang*) to colour the rice, a technique borrowed from Malay kueh-making. Nonya dumplings also use pandan leaves to encase the rice. Apart from adding fragrance, pandan leaves are also more easily available in Southeast Asia compared to bamboo leaves which are traditionally used for wrapping dumplings in China.
+Another example of Malay influence in the dumpling is the extraction of the juice from the petals of the local butterfly pea flower (*bunga telang*) to colour the rice, a technique borrowed from Malay *kueh*-making. Nonya dumplings also use pandan leaves to encase the rice. Apart from adding fragrance, pandan leaves are also more easily available in Southeast Asia compared to bamboo leaves which are traditionally used for wrapping dumplings in China.
 
 In addition to Asian influences, hawker food bears the hallmarks of Singapore’s colonial past. This can be seen in the popular breakfast set of toast slathered with kaya (jam made from coconut milk, eggs and sugar) and accompanied by freshly brewed kopi (Malay for “coffee”) or teh (Hokkien for “tea”). 
 
