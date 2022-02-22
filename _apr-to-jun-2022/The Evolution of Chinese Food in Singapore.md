@@ -32,6 +32,9 @@ When the Hakkas arrived in Southeast Asia in the 19th century, they started usin
 
 Hokkien *mee* is another dish that showcases different regional influences. Despite its name, Hokkien *mee* also has significant Cantonese influence. This can be seen in the evolution of local fried Hokkien *mee*, which is a dish of thick yellow Hokkien noodles and *beehoon* (rice vermicelli) with prawns, pork belly, chives, egg, squid and fish cake cooked in crispy cubes of lard. 
 
+![](/images/Vol%2018%20Issue%201/Chinese%20Food/hokkien%20mee.png)
+<div style="background-color: white;"> Singapore Hokkien <i>mee</i> uses thick yellow Hokkien noodles and <i>beehoon</i> (rice vermicelli), which are cooked with prawns, pork belly, chives, egg, squid and fish cake, topped off with <i>sambal belacan</i> and lime. <i>From Shutterstock.</i></div>
+
 Instead of the flat noodles in traditional Hokkien *mee* from Fujian, the Singaporean version uses round yellow noodles and is served with *sambal belacan* (chilli paste with fermented shrimp) and lime, ingredients more commonly found in Malay cuisine. The Cantonese influence is evident as the dish is fried over a very hot fire to achieve *wok hei* (literally “breath of the wok” in Cantonese, referring to the smoky flavour created by stir-frying over high heat), a foundational Cantonese cooking technique. 
 
 #### **Local Ingredients and Ethnic Diversity**
