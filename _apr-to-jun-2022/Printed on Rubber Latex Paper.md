@@ -44,15 +44,15 @@ However, paper manufacturers were not entirely receptive to using rubber latex. 
 
 A *Singapore Free Press* report summarised the problem: “In the first place, excepting in rubber producing countries, there is no general demand for rubber latex paper, and consequently a strong case has to be made out for the inclusion of rubber latex in the raw ingredients, which go to form the finished paper material.” Paper manufacturers were also reluctant to “add more than 2 per cent of rubber latex to the total ingredients of the paper pulp, and in practice manufacturers have found that even this 2 per cent, instead of finding its way to the finished paper, merely tends to accumulate on the various exposed surfaces of the paper-making machinery causing the machinery to become ‘tacked up’ which results in the necessity at the end of the run in which the rubber latex has been used, for a complete cleaning up of the machinery”. Manufacturers claimed that the tackiness interfered with the running of the machinery, “resulting in a loss of time in cleaning up the machine after its use, and a consequent loss of money which in turn has to be added to the cost of the paper”.[^11]
 
+![](/images/Vol%2018%20Issue%201/Rubber%20Latex%20Paper/edit_pamphlet.png)
+<div style="background-color: white;">An advertisement of the Malay States Information Agency in 1928.<i> Image reproduced from Federated Malay States Railways: Pamphlet of Information for Travellers 1928: Tours in the Malay Peninsula (Kuala Lumpur: Federated Malay States Railways, 1928), 87. (From National Library, Singapore, Call no. RRARE 959.51 FED; Microfilm no. NL28657).
+</i></div>
+
 #### **Commercial Latex Paper**
 
 There were some efforts to use rubber latex paper commercially. It was used for the printing of company reports of several major publicly listed companies and associations in Malaya, including Guthrie & Co., Fraser and Neave, Ltd., Robinson and Co., Singapore United Rubber and the Planters’ Association of Malaya.[^12] In 1923, London’s *Investors’ Chronicle* became the first newspaper to be printed on rubber latex paper.[^13]
 
 For the Malaya Pavilion at the British Empire Exhibition in 1924, the 2,000 copies of various pamphlets on different topics produced for sale used up two tons of paper, 3 percent of which was made of rubber latex.[^14]
-
-![](/images/Vol%2018%20Issue%201/Rubber%20Latex%20Paper/edit_pamphlet.png)
-<div style="background-color: white;">An advertisement of the Malay States Information Agency in 1928.<i> Image reproduced from Federated Malay States Railways: Pamphlet of Information for Travellers 1928: Tours in the Malay Peninsula (Kuala Lumpur: Federated Malay States Railways, 1928), 87. (From National Library, Singapore, Call no. RRARE 959.51 FED; Microfilm no. NL28657).
-</i></div>
 
 A company that manufactured latex paper was Messrs Lepard and Smiths, Limited, one of the oldest paper merchants in London. They produced envelopes, bank and bond papers aswell as cream laid writing papers, known as “Latex Papers”, at their warehouses in London. These were then shipped and stored in Singapore and elsewhere to meet demand.[^15]
 
