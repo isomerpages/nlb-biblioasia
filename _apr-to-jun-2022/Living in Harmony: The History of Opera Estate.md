@@ -151,7 +151,7 @@ Jalan Bintang Tiga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
 
 [^3]: Victor R. Savage and Brenda S. Yeoh, [*Toponymics: A Study of Singapore Street Names*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12303283) (Singapore: Eastern Universities Press, 2004), 20. (From National Library, Singapore, Call no. RSING 9159570014 SAV)
 
-[^4]: [Chua Chye Chua](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/02ed9572-1161-11e3-83d5-0050568939ad), oral history interview by Jesley Chua Chee Huan, 23 July 1999,  MP3 audio, Reel/Disc 13 of 23. (From National Archives of Singapore, Accession no. 002140).
+[^4]: [Chua Chye Chua](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/02ed9572-1161-11e3-83d5-0050568939ad), oral history interview by Jesley Chua Chee Huan, 23 July 1999,  MP3 audio, Reel/Disc 13 of 23. (From National Archives of Singapore, Accession no. 002140)
 
 [^5]: [Chua Chye Chua](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/02ed9572-1161-11e3-83d5-0050568939ad), interview.
 
@@ -159,7 +159,7 @@ Jalan Bintang Tiga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
 
 [^7]: “[Page 7 Advertisements Column 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19561027-1.2.62.1),” *The Straits Times*, 27 October 1956, 7. (From NewspaerSG)
 
-[^8]: “[Page 3 Advertisements Column 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19570321-1.2.31.1),” *The Straits Times*, 21 March 1957, 3. (From NewspaperSG). 
+[^8]: “[Page 3 Advertisements Column 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19570321-1.2.31.1),” *The Straits Times*, 21 March 1957, 3. (From NewspaperSG)
 
 [^9]: Hanim Mohd Saleh, “[‘Estet Bangsawan’ di Opera Estate](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19891110-1.2.19.4),” *Berita Harian*, 10 November 1989, 8. (From NewspaperSG)
 
