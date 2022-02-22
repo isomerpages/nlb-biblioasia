@@ -31,7 +31,7 @@ Lee Kip Lin’s sketch of Carcasonne, France, copied from Taylor, G.‘s <i>Urba
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-3/leekiplin/boat.jpg">
+<img src="/images/vol-10-issue-3/leekiplin/boat.jpg" style="width:70%;">
 Lee Kip Lin (centre) with his brother Kip Lee (right) and a neighbour on a boat just off their family home in Amber Road, Katong, circa 1935. <i>Courtesy of Mrs Lee Li-Ming.</i></div>
 
 <div style="background-color: white;">
@@ -41,7 +41,7 @@ Lee Kip Lin (right) with friends in Paris circa 1950s. <i>Courtesy of Mrs Lee Li
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-3/leekiplin/Lee_Kip_Lin_with_students.jpg">
+<img src="/images/vol-10-issue-3/leekiplin/Lee_Kip_Lin_with_students.jpg" style="width:70%;">
 Lee and his architecture students at his Binjai Park home. <i>Courtesy of Mrs Lee Li-Ming.</i></div>
 
 <div style="background-color: white;">
@@ -71,17 +71,17 @@ After Lee retired, he began systematically photographing, neighbourhood by neigh
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-3/leekiplin/The_Straits_of_Singapore.jpg">
+<img src="/images/vol-10-issue-3/leekiplin/The_Straits_of_Singapore.jpg" style="width:70%;">
 The Straits of Singapore with those of Durion, Sabon and Mandol by Thomas Jefferys, Geographer to the King. <i>From the Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009.</i></div>
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-3/leekiplin/The_Straits_of_Malacca_and_Malaya.jpg">
+<img src="/images/vol-10-issue-3/leekiplin/The_Straits_of_Malacca_and_Malaya.jpg" style="width:70%;">
 A navigational chart showing the Straits of Malacca and Malaya. Created by Bellin, Jacques Nicolas in 1775. <i>From the Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009.</i></div>
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-3/leekiplin/Report_on_Empress_Place.jpg">
+<img src="/images/vol-10-issue-3/leekiplin/Report_on_Empress_Place.jpg" style="width:70%;">
 Report on Empress Place by Preservation of Monuments Board, 1973. A unique typescript publication in the Lee Kip Lin collection. <i>From the Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009.</i></div>
 
 #### **The Lee Kip Lin Collection**
@@ -118,7 +118,7 @@ I was a young architect in a hurry to do international style of architecture. He
 
 <div style="text-align:right;">From an interview with Prof Bobby Wong on 6 June 2012 by Bonny Tan</div>
 
-#### **Professor Tse Swee Ling's Impressions of Lee Kip Lim**
+#### **Professor Tse Swee Ling's Impressions of Lee Kip Lin**
 
 I have known him for more than 40 years, from working in “Team 3” to teaching in NUS. He’s really a good boss ... whenever there was some argument, unhappiness amongst staff or whatever [in Team 3], he will always help to settle and he’s very good in human relationships. And the staff respect[ed] him.
 

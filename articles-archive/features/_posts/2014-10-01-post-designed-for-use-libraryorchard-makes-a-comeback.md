@@ -7,11 +7,11 @@ layout: post
 ---
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-3/library/cover.jpg">
+<img src="/images/vol-10-issue-3/library/cover.jpg" style="width:70%;">
 Patrons enjoying the environment and collections at the newly opened library@orchard.</div>
 
 
-Patrons who have missed the old library@ orchard at Ngee Ann City will be pleased to know that the new library@orchard opened on 23 October 2014, making it the 26th branch in the National Library Board’s (NLB) network of public libraries. Apart from a prime location in the heart of the city’s premier shopping district, library@orchard is the first public library with a collection focused on Lifestyle, Design and the Applied Arts. Located on the third and fourth levels of Orchard Gateway – a brand new shopping mall straddling both sides of Orchard Road and linked by a striking tubular glass bridge – the library not only serves the needs of those interested in design but also caters to the general public with its fiction and lifestyle collections. library@orchard complements the existing Central Public Library and library@esplanade, which focus on the Literary Arts and Performing Arts respectively. 
+Patrons who have missed the old library@orchard at Ngee Ann City will be pleased to know that the new library@orchard opened on 23 October 2014, making it the 26th branch in the National Library Board’s (NLB) network of public libraries. Apart from a prime location in the heart of the city’s premier shopping district, library@orchard is the first public library with a collection focused on Lifestyle, Design and the Applied Arts. Located on the third and fourth levels of Orchard Gateway – a brand new shopping mall straddling both sides of Orchard Road and linked by a striking tubular glass bridge – the library not only serves the needs of those interested in design but also caters to the general public with its fiction and lifestyle collections. library@orchard complements the existing Central Public Library and library@esplanade, which focus on the Literary Arts and Performing Arts respectively. 
 
 Not surprisingly, design and the creative use of space was a major consideration when the idea for library@orchard was first mooted. It is the first public library in Singapore that is based on the concept of Design Thinking, a problem-solving and solution-based methodology used by designers to create products, services and experiences. In Design Thinking, meeting the needs of the user is of prime importance, with user inputs taken into consideration at every step of the design process. Such user inputs have been incorporated as much as possible in the design of library@orchard, resulting in a specially customised space that is tailored to the needs of the library user. 
 
@@ -23,7 +23,7 @@ Here are some design elements that make up the library@orchard experience.
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-3/library/BiblioInfographic_1.jpg">
+<img src="/images/vol-10-issue-3/library/BiblioInfographic_1.jpg" style="width:70%;">
 Using the principles of Design Thinking, the National Library Board worked closely with Singapore Polytechnic and the public to develop library@orchard. <i>Courtesy of Annusia Jaybalan.</i></div>
 
 #### **Pluck and Ponder**
@@ -44,7 +44,7 @@ Hint: The cocoon with the best view is situated in between the People and Visual
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-3/library/Bookshelves .jpg">
+<img src="/images/vol-10-issue-3/library/Bookshelves .jpg" style="width:70%;">
 Bookshelves in the revamped library span floor-to-ceiling.</div>
 
 #### **Walk and Wander**
@@ -59,7 +59,7 @@ Hint: In true library fashion, library@ orchard has arranged the books to form a
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-3/library/intimate_pod-like_cocoons.jpg">
+<img src="/images/vol-10-issue-3/library/intimate_pod-like_cocoons.jpg" style="width:70%;">
 These intimate pod-like cocoons allow undisturbed reading. There are five of such seats in the upper level.</div>
 
 #### **Sit and Speak**
@@ -96,7 +96,7 @@ With so many new features available at library@ orchard, endless possibilities a
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-3/library/Visitors_browsing.jpg">
+<img src="/images/vol-10-issue-3/library/Visitors_browsing.jpg" style="width:70%;">
 Visitors browsing through publications at the wall of magazines, which houses the largest collection of design and creative titles found in any public library in Singapore.</div>
 
 <p style="font-size:15px;"><b>Sufyan Alimon</b> is an Associate Librarian with the National Library Board. He is part of the library@orchard team and manages the Visual and People Design Collection.</p>

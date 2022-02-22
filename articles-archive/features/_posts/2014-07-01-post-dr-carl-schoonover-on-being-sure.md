@@ -7,7 +7,7 @@ layout: post
 ---
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-2/drcarl/sure_diagram.jpg">
+<img src="/images/vol-10-issue-2/drcarl/sure_diagram.jpg" style="width:70%;">
 The National Information Literacy Programme promotes four simple steps – Source, Understand, Research and Evaluate – to assess information.</div>
 
 Dr Carl Schoonover, a neuroscience postdoctoral fellow at the Axel Laboratory at Columbia University, was a keynote speaker at S.U.R.E. Day held on 14 November 2013 at the National Library as part of its National Information Literacy Programme (NILP). The NILP seeks to simplify and promote information literacy, emphasising the importance of evaluation and discernment of information sources.

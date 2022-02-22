@@ -9,7 +9,7 @@ layout: post
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-3/overorchard/orchard_road.jpg">
+<img src="/images/vol-10-issue-3/overorchard/orchard_road.jpg" style="width:70%;">
 Orchard Road, named after the fruit orchards and nutmeg plantations that were wiped out by plant diseases in the late 1860s, continued to be lined by other surviving trees well into the early 1900s, as seen in this image. <i>Courtesy of National Archives of Singapore.</i></div>
 
 
@@ -17,16 +17,16 @@ I think Orchard Road has been transformed into a very commercialised district. Y
 
 Of course, it speaks well and good for our economy. But maybe a bit of our soul is lost in the name of progress. Perhaps, we cannot hold back progress. But perhaps, every time when we move forward, we have to think a bit of the past and try to maintain perhaps a resemblance of something of the past, not just this little bronze or plaque that you find on the pedestrian walkway, what tree or what it used to be... For example, as I said, Fitzpatrick’s [supermarket], the electronic door. Or perhaps, you know not many people knew Orchard Cinema was the first location of the first escalator in Singapore. That signifies the first step of progress, you see. I think these are moments that our people need to know. So that we can remember our past, and then appreciate today, and look forward to the changes ahead.
 
-<div style="text-align:right;">Tan Wee Him, who spent his formative years in the 1950s and 1960s in Orchard Road. <i>Courtesy of an interview with the Oral History Centre.</i>[^1]</div>
+<span style="text-align:right; display:inline-block; font-size:1rem;">Tan Wee Him, who spent his formative years in the 1950s and 1960s in Orchard Road. <i>Courtesy of an interview with the Oral History Centre.</i>[^1]</span>
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-3/overorchard/orchard_road_railway_bridge.jpg">
+<img src="/images/vol-10-issue-3/overorchard/orchard_road_railway_bridge.jpg" style="width:70%;">
 The overhead link between the two buildings that comprise Orchard Gateway today harkens back to the railway bridge (1903–1932) that was once found in Orchard Road. It is a reminder that we can find resemblances of the past in Orchard Road’s present if we look hard enough – perhaps some consolation to Tan Wee Him (see quote below) and his like-minded peers. <i>Courtesy of National Archives of Singapore.</i></div>
 
 It is hard to imagine the Orchard Road of yesteryear, as Tan Wee Him reminds us, when looking at the multiple transformations it has undergone over time. Originally a hilly suburban fringe sandwiched between the main commercial town area and Tanglin, Orchard Road is now arguably Singapore’s most iconic street. The bustling street lined with shiny megamalls is almost unrecognisable from the cluster of spice plantations and fruit orchards it was in the early 19th century, and later, for a large part of the 20th century, a suburban residential and commercial street lined with low-rise shophouses.
 
-<i>iremember</i> Orchard is an exhibition that traces the transformation of Orchard Road through personal recollections and stories. Through archival photographs, oral history interviews from the Oral History Centre (OHC), memories collected by the Singapore Memory Project (SMP) as well as stories recounted in published sources and newspapers, the exhibition uncovers the many layers of Orchard Road through time and space. The exhibition, which runs from 23 October 2014 to April 2015 at the new library@Orchard at Orchard Gateway, is testimony that places are a tapestry of overlapping stories, with the past never fully fading away.
+<i>irememberOrchard</i> is an exhibition that traces the transformation of Orchard Road through personal recollections and stories. Through archival photographs, oral history interviews from the Oral History Centre (OHC), memories collected by the Singapore Memory Project (SMP) as well as stories recounted in published sources and newspapers, the exhibition uncovers the many layers of Orchard Road through time and space. The exhibition, which runs from 23 October 2014 to April 2015 at the new library@Orchard at Orchard Gateway, is testimony that places are a tapestry of overlapping stories, with the past never fully fading away.
 
 The specific stretch of Orchard Road covered in the aerial map (see overleaf) – which is a composite of three separate aerial photographs taken in 1957 – stretches from Tanglin Circus on the bottom left and ends at the Young Men’s Christian Association building on the top right. This article only highlights 10 of the landmarks along Orchard Road. Visitors who want to enjoy the full experience should visit the exhibition, where a 3.5m by 3.5m version of the map, accompanying display panels and a Kinect station that allows visitors to download more information, will transport people back into the Orchard Road of times past.
 
@@ -44,7 +44,7 @@ The specific stretch of Orchard Road covered in the aerial map (see overleaf) �
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-3/overorchard/Aerial_Map.jpg">
+<img src="/images/vol-10-issue-3/overorchard/Aerial_Map.jpg" style="width:70%;">
 Note: This image is a composite of three aerial photographs of the South Central region taken by the Royal Air Force, dated 14 February 1957. Orchard Road – from Young Men’s Christian Association building (top right) to Tanglin Circus (bottom left) – is highlighted. Graphics with thanks to Kingsmen Pte Ltd.
 <br><br>Landmarks identified based on 1957 <i>Singapore Street Directory and Guide</i>, (Singapore: Survey Dept, 1957) and <i>Over Singapore: 50 years ago: An aerial view in the 1950s</i> (Singapore: Editions Didier Millet in association with NAS, 2007) by Brenda Yeoh & Theresa Wong.</div>
 
@@ -54,19 +54,19 @@ Rebuilt in 1922 as quarters for policemen, the police station was a familiar lan
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-3/overorchard/police_station.jpg">
+<img src="/images/vol-10-issue-3/overorchard/police_station.jpg" style="width:70%;">
 Orchard Road Police Station in the 1950s. <i>Singapore Police Force collection, courtesy of National Archives of Singapore.</i></div>
 
-#### **02 C. L. Tang**
+#### **02 C. K. Tang**
 
 Now a household name, C. K. Tang started out in a nondescript shophouse in River Valley Road before moving to Orchard Road in 1958. Founder Tang Choon Keng ignored superstition and selected a location opposite the Tai San Ting Teochew cemetery, setting up what would become an Oriental landmark in Orchard Road.[^5] Designed by Ang Eng Leng, the building’s unique green tiled sloping roofs and red doors were said to be modelled after the Imperial Palace in the Forbidden City in Beijing.[^6] The green roof tiles were produced in Kuala Lumpur, while the carvings adorning the eaves were made by Teochew craftsmen in Singapore.[^7] Elements of this design still remain in the new Tangs building today and the adjacent Marriott Hotel (formerly Dynasty Hotel), both of which were completed in 1982.
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-3/overorchard/CK_Tang.jpg">
+<img src="/images/vol-10-issue-3/overorchard/CK_Tang.jpg" style="width:70%;">
 C. K. Tang in the 1960s. It was demolished in 1982, replaced with an enlarged Tangs and Dynasty Hotel (now Marriott Hotel).4 <i>Courtesy of Bill Johnston.</i></div>
 
-#### **03 Heren Building**
+#### **03 Heeren Building**
 
 Located at the junction of Orchard Road and Cairnhill Road, Heeren Building was designed by Keys and Dowdeswell, a Shanghai architectural firm also responsible for Capitol Cinema and Fullerton Hotel.[^8] A more modest three-storey building in the firm’s typical pseudo-Classical style, the Heeren featured long cantilevered balconies and a strong cornice as prominent elements, similar to Capitol Cinema.[^9] It was a familiar sight and home to many beloved establishments such as the Heeren beauty salon, Beethoven Music House and even a fur shop! Tan Wee Him recollects: 
 
@@ -76,7 +76,7 @@ In 1990, the old Heeren Building was demolished for a road realignment project.[
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-3/overorchard/heeren_building.jpg">
+<img src="/images/vol-10-issue-3/overorchard/heeren_building.jpg" style="width:70%;">
 The distinctive architecture of the old Heeren Building as well as anchor tenants such as the beauty salon, which had been there since the pre-war period, were familiar sights along Orchard Road up till the 1980s. <i>Singapore Tourist Promotion Board collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **04 Singapore Chinese  Girls’ School**
@@ -85,7 +85,7 @@ The Singapore Chinese Girls’ School, formerly located at Hill Street, official
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-3/overorchard/girl_school.jpg">
+<img src="/images/vol-10-issue-3/overorchard/girl_school.jpg" style="width:70%;">
 Singapore Chinese Girls’ School students putting up a gymnastics display at the school’s Games Day in 1964, at their Emerald Hill premises. <i>Yusof Ishak collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **05 Cold Storage**
@@ -98,7 +98,7 @@ The Salad Bowl was famous for its set lunches, with three courses going for unde
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-3/overorchard/cold_storage.jpg">
+<img src="/images/vol-10-issue-3/overorchard/cold_storage.jpg" style="width:70%;">
 Cold Storage at the junction of Orchard Road and Koek Road, captured below in 1970. Just across the road was the Orchard Road carpark, which was a food haven by night for hawkers. <i>Ministry of Information and the Arts collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **06 Pavilion**
@@ -111,7 +111,7 @@ The building was demolished in 1969 and replaced with Phoenix Hotel and Speciali
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-3/overorchard/Pavilion.jpg">
+<img src="/images/vol-10-issue-3/overorchard/Pavilion.jpg" style="width:70%;">
 Such was the view that greeted the person who stepped out of the Pavilion cinema and looked towards Cold Storage (the building on left) in 1957. <i>William Wee collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **07 Koek Road Hawkers**
@@ -122,23 +122,23 @@ So the favourite joint that I used to go to is Koek Road where you have your <i>
 
 And in the same stretch of the old dirty looking coffee shop, there was a dirty little monsoon drain with a platform over it, 30 huge rats running around. The Teck Kee Pau, which is now in Bukit Timah Road, originated from there...
 
-The <i>kway teow</i> man, the <i>okkien mee</i> chap, [wore] just a singlet. [He] would be having a little towel... – I remember the white towel...[with] the name Good Morning – he would have it round his neck; he would sit down and fry the <i>hokkien mee</i>. His was the best <i>hokkien mee</i> of the whole of Singapore at that time.[^24]
+The <i>kway teow</i> man, the <i>hokkien mee</i> chap, [wore] just a singlet. [He] would be having a little towel... – I remember the white towel...[with] the name Good Morning – he would have it round his neck; he would sit down and fry the <i>hokkien mee</i>. His was the best <i>hokkien mee</i> of the whole of Singapore at that time.[^24]
 
 As early as 1933, Municipal Commissioners had prohibited itinerant hawkers from overcrowding Koek Road and Koek Lane.[^25] However, patrons were spoilt for choice and often unconcerned with the finer points of hawker licensing and other legal details, despite the occasional complaint of road obstruction.[^26] That compromise lasted till the mid-1970s when the Koek Road and Koek Lane hawkers, itinerant or otherwise, were relocated, some to the new Cuppage Centre.[^27]
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-3/overorchard/Koek_Road_hawkers.jpg">
+<img src="/images/vol-10-issue-3/overorchard/Koek_Road_hawkers.jpg" style="width:70%;">
 Itinerant hawkers at what was known as “Koek’s Bazaar” in 1905. Koek Road and Koek Lane became a favourite haunt for foodies in search of Singapore’s hawker delights. <i>Courtesy of National Archives of Singapore.</i></div>
 
 #### **08 Amber Mansions**
 
 A mixed-use development that combined shops and residences in a large complex, Amber Mansions was developed in 1922 by the prominent Jewish businessman, J. A. Elias.[^29] Forming what notable architect Tay Kheng Soon called a “design trinity” with MacDonald House and the old Malayan Motors Showroom,[^30] Amber Mansions was designed by Swan and Maclaren in a decorative style typical of Art Deco buildings in the 1920s.[^31] Its distinctive arcaded front adorned the junction of Orchard Road and Penang Lane for more than 60 years until it was demolished to make way for Dhoby Ghaut MRT station in 1984.[^32]
 
-<div style="background-color: white;">
+<span style="background-color: white; font-size:1rem;">
 <br/>
-<img src="/images/vol-10-issue-3/overorchard/Amber_Mansions.jpg">
-Home to tenants such as the Municipal Gas Department, the British Council, High Street Provision Store (pictured here c. 1960s), University Bookstore, Fosters steakhouse and City Development Limited,[^28] Amber Mansions is a reminder of Orchard Road’s early 20th century incarnation as a suburban residential area. <i>R. Browne collection, courtesy of National Archive of Singapore.</i></div>
+<img src="/images/vol-10-issue-3/overorchard/Amber_Mansions.jpg" style="width:70%;">
+Home to tenants such as the Municipal Gas Department, the British Council, High Street Provision Store (pictured here c. 1960s), University Bookstore, Fosters steakhouse and City Development Limited,[^28] Amber Mansions is a reminder of Orchard Road’s early 20th century incarnation as a suburban residential area. <i>R. Browne collection, courtesy of National Archive of Singapore.</i></span>
 
 #### **09 Cathay Building**
 
@@ -155,7 +155,7 @@ Founded by Robert Pringle in 1903, the Young Men’s Christian Association (YMCA
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-3/overorchard/young_men_christian_association.jpg">
+<img src="/images/vol-10-issue-3/overorchard/young_men_christian_association.jpg" style="width:70%;">
 The Edwardian-style building fitted with arched windows and a double-decker portico – featured here with matching red-and-white national day decorations in the late 1960s – was a familiar sight at 1 Orchard Road until it was demolished in 1982. <i>John C. Young collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **Nas' Aerial Photographs Collection**
@@ -354,6 +354,8 @@ Yeoh, B., & Wong, T. (2007). *[Over Singapore: 50 years ago: An aerial view in t
 
 [^37]: [Showtime](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20060321-1.2.130.9.1). (2006, March 21). <i>The Straits Times</i>, p. 10. Retrieved from NewspaperSG.
 
-[^38]: Flower, R. (2002). *[The Y: First 100 years in Singapore, 1902–2002](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11179222)* (pp. 6–8). Singapore: YMCA. (Call no.: RSING q267.395957 FLO); Fong, V. (1984, June 3). [The ‘Y’ over the years](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19840603-1.2.23.25.1). <i>Singapore Monitor</i>, p. 38. Retrieved from NewspaperSG. (39 Lyne, R., et al. (1992). *[The YMCA of Singapore: 90 years of service to the community](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6377686)* (p. 59). Singapore: YMCA.  (Call no.: RSING 267.395957 YMC)
+[^38]: Flower, R. (2002). *[The Y: First 100 years in Singapore, 1902–2002](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11179222)* (pp. 6–8). Singapore: YMCA. (Call no.: RSING q267.395957 FLO); Fong, V. (1984, June 3). [The ‘Y’ over the years](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19840603-1.2.23.25.1). <i>Singapore Monitor</i>, p. 38. Retrieved from NewspaperSG. 
+
+[^39]: Lyne, R., et al. (1992). *[The YMCA of Singapore: 90 years of service to the community](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6377686)* (p. 59). Singapore: YMCA.  (Call no.: RSING 267.395957 YMC)
 
 [^40]: [Flower](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11179222), 2002, p. 88.

@@ -9,7 +9,7 @@ layout: post
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-2/nationalday/National_Day_Parade.jpg">
+<img src="/images/vol-10-issue-2/nationalday/National_Day_Parade.jpg" style="width:70%;">
 The 1968 National Day Parade carried on despite torrential rain. <i>Yusof Ishak collection, courtesy of National Archives of Singapore.</i></div>
 
 Since becoming a sovereign state on 9 August 1965, the Singapore government has introduced numerous nation-building efforts – with varying degrees of success – to remind Singaporeans of their national identity. But none is more visceral and engaging than the annual National Day Parade (NDP), which draws patriotic flag-waving Singaporeans by the thousands to this colourful outdoor event. Held on 9 August each year, the parade not only commemorates Singapore’s Independence, but also serves to remind people of the country’s struggles and successes and to celebrate its unique multicultural identity. The main organiser of the NDP is the Singapore Armed Forces (SAF) and its preparation, from initial blueprint to full dress rehearsal, typically takes more than six months. 
@@ -44,12 +44,12 @@ Bringing the parades to the people is only one aspect of the decentralised conce
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-2/nationalday/celebration_2012.jpg">
+<img src="/images/vol-10-issue-2/nationalday/celebration_2012.jpg" style="width:70%;">
 National Day celebration in 2012. National Day celebrations in Singapore have evolved over the years and have become a grand visual spectacle. <i>Image by Jordan Tan.</i></div>
 
 Roadshows and exhibitions are organised in the heartlands to explain the meaning of the celebration to the people.[^29] These NDP roadshows move to different locations in Singapore and showcase exhibits that deepen the people’s understanding of Singapore and its identity. In addition, the organisers and participants regularly publish commemorative books or magazines that share their NDP experiences, from planning and rehearsals to the actual performances, among other memories.[^30]
 
-In addition to these activities , the use of nationalist images on commemorative T-shirts, badges, stickers and mugs further reinforce the significance of National Day as these objects are used in everyday life.[^31] In 1988, the government took a further step by allowing Singaporeans to fly the national flag outside their homes as part of the National Day celebrations, giving the people a tangible way of expressing their loyalty to the country.[^32] Since then, it has become a tradition for housing estates to decorate their premises with rows of national flags as National Day approaches. In fact, estates often compete to put up the most creative flag decoration.[^33]
+In addition to these activities, the use of nationalist images on commemorative T-shirts, badges, stickers and mugs further reinforce the significance of National Day as these objects are used in everyday life.[^31] In 1988, the government took a further step by allowing Singaporeans to fly the national flag outside their homes as part of the National Day celebrations, giving the people a tangible way of expressing their loyalty to the country.[^32] Since then, it has become a tradition for housing estates to decorate their premises with rows of national flags as National Day approaches. In fact, estates often compete to put up the most creative flag decoration.[^33]
 
 #### **The National Day Tally**
 
@@ -78,7 +78,7 @@ Despite a change in the political climate and the subsequent tone of today’s r
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-2/nationalday/process_full.jpg"></div>
+<img src="/images/vol-10-issue-2/nationalday/process_full.jpg" style="width:80%;"></div>
 
 #### **NDP 2015: The Big Bang**
 

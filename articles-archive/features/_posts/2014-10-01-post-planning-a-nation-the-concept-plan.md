@@ -9,7 +9,7 @@ layout: post
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-3/conceptplan/Plan_of_the_Town_of_Singapore.jpg">
+<img src="/images/vol-10-issue-3/conceptplan/Plan_of_the_Town_of_Singapore.jpg" style="width:70%;">
 Plan of the Town of Singapore, 1823, by Lt. Philip Jackson, which is also known as the Raffles Town Plan. <i>Jackson, L. (1822). Plan of the town of Singapore. London: J & C Walker.</i></div>
 
 Since Independence, Singapore has witnessed many dramatic changes to its urban landscape. The overcrowded city centre of the 1960s characterised by slums, filthy drains, congested roads and ageing infrastructure has been replaced by a modern business and financial hub. The streets are safe and clean, and lined with buildings that provide a vibrant mix of retail and entertainment activities. Beyond the city limits lies an impressive network of self-sufficient towns. Not only do these towns provide good quality homes and ample recreational space for residents, they are also connected to the city and each other by an efficient transportation system.
@@ -20,7 +20,7 @@ The changes to Singapore’s urban landscape have been shaped by a land use stra
 
 Land use planning in Singapore is not a recent concept. In fact, the first town plan of Singapore was drawn up by surveyor Lieutenant Philip Jackson in 1823. Widely referred to as the Raffles Town Plan, it was based on instructions by Stamford Raffles to the town committee in November 1822.[^1] The aim of the town plan was to ensure “an economical and proper allotment of the ground intended to form the site of the principal town”.[^2] To this end, the plan parcelled the proposed town area, located within a 2- to 3-kilometre radius from the Singapore River, into distinctive districts for the seat of government, merchants and each of the major ethnic communities, namely the Chinese, Malays, Indians and Europeans.[^3]
 
-The Raffles Town Plan largely dictated the physical development of the city centre until the 1870s. However, the effectiveness of the colonial plan began to erode as it succumbed to the pressure of the settlement’s ballooning population – 10,683 in 1834 to 137,722 by the end of 1881.[^4] In the absence of an updated town plan and proper controls, the city centre was described in the press as a “pigsty” by the turn of the century.[^5] It was severely overcrowded, disorganised and polluted, compounded by huge pockets of slums and hampered by congested roads.[^6]
+The Raffles Town Plan largely dictated the physical development of the city centre until the 1870s. However, the effectiveness of the colonial plan began to erode as it succumbed to the pressure of the settlement’s ballooning population – 10,683 in 1834 to 137,722 by the end of 1881.[^4] In the absence of an updated town plan and proper controls, the city centre was described in the press as a “pig sty” by the turn of the century.[^5] It was severely overcrowded, disorganised and polluted, compounded by huge pockets of slums and hampered by congested roads.[^6]
 
 As the population explosion continued throughout the pre-war and immediate post-war years – almost reaching 1 million by the end of 1947 – it became clear to the colonial government that something had to be done to address the deteriorating living conditions in the city.[^7] The Singapore Improvement Trust (SIT) was set up in 1927 to alleviate the overcrowding and housing problems in the city area by building low- to medium-rise flats, but the attempt met with little success.[^8] The lack of housing fuelled the growth of the squatter population that rose to about 150,000 (15 percent of the total population) in 1953.[^9] To prevent the problem from escalating further, the colonial government decided to re-introduce the idea of a planned environment to regulate the physical development of the city centre.[^10]
 
@@ -32,7 +32,7 @@ Despite the comprehensive planning, the 1958 Master Plan was fundamentally a sta
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-3/conceptplan/1958_Master_Plan.jpg">
+<img src="/images/vol-10-issue-3/conceptplan/1958_Master_Plan.jpg" style="width:70%;">
 Map 2: 1958 Master Plan © Urban Redevelopment Authority. <i>All rights reserved.</i></div>
 
 #### **From Static to Strategic: The Concept Plan**
@@ -49,12 +49,12 @@ Based on the planning directions set out in the Concept Plan and Master Plan, la
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-3/conceptplan/1971_Concept_Plan.jpg">
+<img src="/images/vol-10-issue-3/conceptplan/1971_Concept_Plan.jpg" style="width:70%;">
 1971 Concept Plan © Urban Redevelopment Authority. <i>All rights reserved.</i></div>
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-3/conceptplan/1991_Concept_Plan.jpg">
+<img src="/images/vol-10-issue-3/conceptplan/1991_Concept_Plan.jpg" style="width:70%;">
 1991 Concept Plan © Urban Redevelopment Authority. <i>All rights reserved.</i></div>
 
 #### **The 1971 Concept Plan**
@@ -65,7 +65,7 @@ The Ring Plan was the 1971 Concept Plan’s strategy to move the population, pro
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-3/conceptplan/Tanjong_Pagar.jpg">
+<img src="/images/vol-10-issue-3/conceptplan/Tanjong_Pagar.jpg" style="width:70%;">
 Shophouses in the Tanjong Pagar area were among the first heritage structures to be restored in 1987. <i>MITA collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **The 1991 Concept Plan**
@@ -90,11 +90,13 @@ The most recent review of the Concept Plan was carried out in 2011. However, the
 
 The key findings included: the creation of more people-centric homes; incorporation of the principles of community and inter-generational bonding in the design of public housing; better community facilities and infrastructure; expanding existing public transportation and park connector systems; strengthening the nation’s green infrastructure; and protecting the country’s built heritage.[^63] These findings serve as the backdrop for a number of initiatives in the Land Use Plan. For example, the “Remaking Our Heartland” programme hopes to redevelop older estates such as East Coast, Yishun and Queenstown with more people-centric homes and multi-generational facilities, while the “City in the Garden” vision will see the creation of more parks and a 150-kilometre Round-Island-Route that will link the major built and natural heritage landmarks of Singapore.[^64]
 
+#### **More Concept Plans Ahead**
+
 It is clear that the government will continue to use the Concept Plans to express its long-term planning intentions. Through a collective consultative process with relevant government agencies and the public, the Concept Plan of the future will continue to chart the land use and infrastructure development of Singapore, create solutions to safeguard the environment, sustain the economy and improve the quality of living for future generations. The Concept Plans will also be reviewed regularly so that they can remain flexible and responsive in order to meet the changing needs of the nation.
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-3/conceptplan/2013_land_use_plan_re.jpg">
+<img src="/images/vol-10-issue-3/conceptplan/2013_land_use_plan_re.jpg" style="width:70%;">
 2013 Land Use Plan © Urban Redevelopment Authority. <i>All rights reserved.</i></div>
 
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> 
@@ -107,7 +109,7 @@ One of the most enduring impacts of the nation’s town planning efforts was the
 <br><br>
 Spanning 360 hectares, Marina Bay downtown is the extension of Singapore’s central business district along Shenton Way. It is a waterfront business district similar to London’s Canary Wharf and Shanghai’s Pudong.[^65] Most people think of the glittering Marina Bay area as a 21st century addition to the skyline when in actual fact the new downtown plan was first proposed in the 1991 Concept Plan, and the massive land reclamation project to create Marina Bay actually started in the 1970s.[^66] Marina Bay is different from other urban areas in Singapore in that it encourages a mix of commercial, residential and entertainment activities in land usage. This is to ensure vibrancy in the area around the clock. To facilitate this, “white” site zoning was introduced to demarcate sites for mixed-use development.[^67] This different planning approach is clearly reflected in the skyline of Marina Bay as its glass and steel financial buildings stand side-by-side with high-rise luxury apartments while overlooking green spaces such as Gardens by the Bay and the entertainment and dining hub of Marina Bay Sands.
 <br><br>
-<img style="width: 100%;" src="/images/vol-10-issue-3/conceptplan/Marina_Bay.jpg">The development of Marina Bay downtown was first proposed in the 1991 Concept Plan. <i>Courtesy of Gardens by the Bay.</i>
+<img src="/images/vol-10-issue-3/conceptplan/Marina_Bay.jpg" style="width:70%;">The development of Marina Bay downtown was first proposed in the 1991 Concept Plan. <i>Courtesy of Gardens by the Bay.</i>
  </span>
 
 <p style="font-size:15px;"><b>Lim Tin Seng</b> is a Librarian with the National Library of Singapore. He is the co-editor of Roots: Tracing Family Histories – A Resource Guide (2013); Harmony and Development: ASEAN-China Relations (2009) and China’s New Social Policy: Initiatives for a Harmonious Society (2010).</p>

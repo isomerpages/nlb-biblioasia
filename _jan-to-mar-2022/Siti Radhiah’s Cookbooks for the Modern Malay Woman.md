@@ -2,7 +2,9 @@
 title: Siti Radhiah’s Cookbooks for the Modern Malay Woman
 permalink: /vol-17/issue-4/jan-to-mar-2022/siti-radhiah-cookbooks
 description: ""
+image: /images/vol-17-issue-4/cookbook/cookbook.png
 ---
+
 #### A number of cookbooks written in the 1940s and 1950s helped expand the traditional Malay culinary repertoire, as **Toffa Abdul Wahed** tells us.  
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/cookbook/cookbook.png)

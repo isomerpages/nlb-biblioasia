@@ -9,7 +9,7 @@ layout: post
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-2/ubin/Pulau_Ubin.jpg">
+<img src="/images/vol-10-issue-2/ubin/Pulau_Ubin.jpg" style="width:70%;">
 Sunset at Pulau Ubin jetty. <i>Courtesy of Ria Tan, www.wildsingapore.com</i></div>
 
 Offshore islands such as Pulau Ubin have been largely spared the development that has taken place on mainland Singapore. However, recent land use plans have impacted Pulau Ubin’s landscape, its islanders and their rustic way of life.
@@ -20,7 +20,7 @@ Pulau Ubin was first visited by the Second Resident, John Crawfurd, on 4 August 
 
 In the 1840s, Chinese stone cutters, and later convicts were deployed to quarry the granite in Pulau Ubin, which was later transported to Pedra Branca to build the Horsburgh Lighthouse in 1851.[^6] Granite from Pulau Ubin was also used to build the Raffles Lighthouse in 1855[^7] and the Causeway in 1923.[^8][^9] Pearl’s Hill Reservoir, Fort Canning, Fort Canning Reservoir, the expansion of Fort Fullerton and the Singapore Harbour were also built using granite from Ubin.[^10] A block of granite was even reportedly sent to build the extension of Portsmouth Cathedral in the south of England.[^11]
 
-#### **The Prople of Ubin**
+#### **The People of Ubin**
 
 The earliest inhabitants on Pulau Ubin were the Orang Laut and indigenous Malay of Bugis and Javanese origins. Subsequently, Chinese quarry workers settled on the island – mostly Hakkas, followed by the Hokkiens and later Teochews.[^12] In the 1880s, large numbers of inhabitants from the Kallang River area moved to Pulau Ubin. Migration spiked again prior to the Japanese invasion in 1942 when the mainland residents fled to Pulau Ubin for its perceived safety.[^13] Apart from quarrying granite, the main industry from the 1800s to 1999,[^14] other economic activities in the early days included rearing poultry and the cultivation of rubber and cash crops such as coffee, nutmeg, pineapple, coconut, durian and tobacco, as well as prawn farming and fishing.[^15]
 
@@ -54,7 +54,7 @@ In Chinese folklore, the Goddess of the Sea, or Mazu (妈祖), is an important c
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-2/ubin/chinese_opera_performance.jpg">
+<img src="/images/vol-10-issue-2/ubin/chinese_opera_performance.jpg" style="width:70%;">
 A crowd watching a Chinese opera performance on Pulau Ubin in 1992. The <i>wayang</i> (opera) stage still stands on the island. <i>Courtesy of National Archives of Singapore.</i></div>
 
 However, not all of Ubin’s buildings face closure or demolition. The Pulau Ubin Fo Shan Teng Tua Pek Kong Temple pre-dates 1869 according to the date inscribed on the temple’s renovation stele. The temple is located near the jetty and is one of the rare Chinese temples in Singapore that has a permanent stage for Chinese opera <i>(wayang)</i>.[^46] The temple and its stage come alive twice a year, during the fourth and seventh months of the Chinese lunar calendar. Chinese operas and contemporary <i>getai</i> performances are staged in honour of Tua Pek Kong and to mark the Hungry Ghost Festival. This is a far cry from the 1950s when weekly <i>wayang</i> shows were put up to entertain the villagers.[^47]
@@ -67,25 +67,25 @@ Author Dr Chua Ee Kiam located a similar rock that resembles the one captured in
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-2/ubin/Pulau_Ubin_painting.jpg">
+<img src="/images/vol-10-issue-2/ubin/Pulau_Ubin_painting.jpg" style="width:70%;">
 Painting of Pulau Ubin by John Turnbull Thomson. <i>“Grooved stones on Pulo Ubin near Singapore, 1850”. Used with permission from the Hall-Jones family.</i></div>
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-2/ubin/rock_facade.jpg">
+<img src="/images/vol-10-issue-2/ubin/rock_facade.jpg" style="width:70%;">
 Rock facade similar to that in the 1850 painting by John Turnbull Thomson photographed by Dr Chua Ee Kiam. <i>Courtesy of Dr Chua Ee Kiam.</i></div>
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-2/ubin/ong_kim_seng_painting.jpg">
+<img src="/images/vol-10-issue-2/ubin/ong_kim_seng_painting.jpg" style="width:70%;">
 Painting of prawn ponds on Ubin by Cultural Medallion winner Ong Kim Seng. Ong spent eight months painting on the island and his paintings were showcased in 2001 at “Charms of Ubin”, an exhibition held at the People’s Association headquarters, organised by the Outward Bound School to raise funds to develop an adventure park for children. Ong’s time on Ubin reminded him of his <i>kampong</i> days. <i>Courtesy of Ong Kim Seng.</i></div>
 
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;">
 <b>UBIN'S FLORA AND FAUNA</b>
 <br><br>
-In his book, <i>Pulau Ubin: Ours to Treasure</i> (2000), wildlife enthusiast Dr Chua Ee Kiam wrote about the natural areas in Pulau Ubin that were “a little wild, relatively undisturbed and support a large variety of indigenous flora and fauna”.[^27] He recorded a total of 179 species of birds, 382 species of vascular plants and 19 animal species on the island despite the fact that Ubin’s original rainforest was destroyed during the1950s and early 1960s when entire hills were blasted for the extraction of granite.[^28] Ubin is still home to a relatively large number of rare animals, birds and plants. A National Parks Board (NParks) website on Ubin provides detailed records on the flora and fauna of the island.[^29] As of January 2014, the island is home to 603 species of plants, 207 species of birds, 153 species of butterflies and 39 species of reptiles.[^30]
+In his book, <i>Pulau Ubin: Ours to Treasure</i> (2000), wildlife enthusiast Dr Chua Ee Kiam wrote about the natural areas in Pulau Ubin that were “a little wild, relatively undisturbed and support a large variety of indigenous flora and fauna”.[^27] He recorded a total of 179 species of birds, 382 species of vascular plants and 19 animal species on the island despite the fact that Ubin’s original rainforest was destroyed during the 1950s and early 1960s when entire hills were blasted for the extraction of granite.[^28] Ubin is still home to a relatively large number of rare animals, birds and plants. A National Parks Board (NParks) website on Ubin provides detailed records on the flora and fauna of the island.[^29] As of January 2014, the island is home to 603 species of plants, 207 species of birds, 153 species of butterflies and 39 species of reptiles.[^30]
 <br><br>
-<img src="/images/vol-10-issue-2/ubin/snake.jpg">The oriental whip snake is also known as the green vine snake and can grow up to 2 metres long.
+<img src="/images/vol-10-issue-2/ubin/snake.jpg" style="width:70%;">The oriental whip snake is also known as the green vine snake and can grow up to 2 metres long.
 <br><br>
 <img style="width:50%" src="/images/vol-10-issue-2/ubin/nipah_palm1.jpg">The nipah palm can be found in the mangrove swamps of Pulau Ubin. The leaves can be used as thatch for roofs and its sap, when fermented, is drunk as an alcoholic drink called “toddy”. <i>Images courtesy of Ria Tan, www.wildsingapore.com</i></span>
 
@@ -99,7 +99,7 @@ In December 2000, Nature Society (Singapore) members made an accidental discover
 <br><br>
 On 14 January 2002, the Ministry of National Development announced that land reclamation work at Chek Jawa would be postponed indefinitely. In addition, NParks formed a committee with representatives from the Nature Society, Raffles Museum of Biodiversity Research and other experts to study how Chek Jawa’s unique and fragile ecosystem could be maintained.[^58]
 <br><br>
-<img src="/images/vol-10-issue-2/ubin/high_tide.jpg">High tide at the Chek Jawa boardwalk. <i>Courtesy of Ria Tan, www.wildsingapore.com</i></span>
+<img src="/images/vol-10-issue-2/ubin/high_tide.jpg" style="width:70%;">High tide at the Chek Jawa boardwalk. <i>Courtesy of Ria Tan, www.wildsingapore.com</i></span>
 
 <p style="font-size:15px;"><b>Ang Seow Leng</b> is a Senior Reference Librarian with the National Library of Singapore. Her responsibilities include managing and developing content, as well as providing reference and research services relating to Singapore and Southeast Asia.</p>
 
@@ -173,7 +173,7 @@ Tan, C. (1987, November 10). [MPs take a boat ride to remote parts of their ward
 
 Tan, H.Y. (1996, August 2). [Take me to the headman’s house](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19960802-1.2.49.9). <i>The Straits Times</i>, p. 40. Retrieved from NewspaperSG.
 
-Tan, T. (2000, December 4). [Island living](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20001204-1.2.34.2)he Straits Times, p. 1. Retrieved from NewspaperSG.
+Tan, T. (2000, December 4). [Island living](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20001204-1.2.34.2) <i>The Straits Times</i>, p. 1. Retrieved from NewspaperSG.
 
 Tay, S.C. (2007, October 6). [Chek Jawa Visitor Centre](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20071006-1.2.122.12.2). <i>The Straits Times</i>, p. 109. Retrieved from NewspaperSG.
 
@@ -220,7 +220,7 @@ Zaccheus, M., & Ee, D. (2013, October 4). [Pulau Ubin: Rustic or just rustling a
 
 [^13]: Low, Y.L (1994, July). Isle be seeing you. *[Singapore Tatler](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5049360)*, 78.
 
-[^14]: Surana, S. (2014, January 5). Where the concrete hasn’t reached. <i>The New York Times</i>. Retreived from Factiva via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+[^14]: Surana, S. (2014, January 5). Where the concrete hasn’t reached. <i>The New York Times</i>. Retrieved from Factiva via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
 [^15]: National Heritage Board, 14 Mar 2013.
 

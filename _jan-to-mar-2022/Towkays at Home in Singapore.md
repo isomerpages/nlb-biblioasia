@@ -7,6 +7,7 @@ image: /images/vol-17-issue-4/towkay-house/Main-TKH.jpg
 ---
 
 
+
 #### Mandalay Villa. House of Jade. House of Teo Hoo Lye. **Yap Jo Lin** gives us a tour of three opulent homes from the early 20th century.
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/towkay-house/Main-TKH.jpg)
