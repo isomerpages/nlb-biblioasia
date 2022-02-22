@@ -15,12 +15,11 @@ During the British Empire Exhibition held at Wembley Park, England, from 23 Apri
 
 The agency was set up in 1910 as the Malay States Development Agency, which was renamed Malay States Information Agency the next year. Its mission was to provide information to prospective investors to boost land cultivation and trade in British Malaya. Through various public relations initiatives, advertisements and exhibitions, Malaya’s primary produce like rubber, coconut, pineapple and gambier and minerals such as tin were made known to the British Empire and the world. In 1928, the agency was renamed yet again as the Malayan Information Agency and occupied a building called Malaya House in London’s Trafalgar Square. 
 
+In addition to producing handbooks about topics related to Malaya, the agency also subtly aimed to show off Malayan products in other ways. On the title page of each handbook published by the agency for the British Empire Exhibition is the line: “The text portion of this pamphlet is printed on Rubber Latex Paper.” The printed pages appear off-white, slightly glossy and, after all these decades, still in good condition. The wove paper has a uniform surface, not ribbed or watermarked, and has a thickness of around 0.1 mm (similar to the 70gsm paper used today for photocopying). 
+
 ![](/images/Vol%2018%20Issue%201/Rubber%20Latex%20Paper/Mining%20in%20Malaya%202.png)
 <div style="background-color: white;">The title page of each handbook published by the Malay States Information Agency for the British Empire Exhibition states: “The text portion of this pamphlet is printed on Rubber Latex Paper.”<i> Image reproduced from Gordon Eastley Greig, Mining in Malaya (London: Malay States Information Agency, 1924). (From National Library, Singapore, Call no. RCLOS 622.09595 GRE-[RFL]).
 </i></div>
-
-
-In addition to producing handbooks about topics related to Malaya, the agency also subtly aimed to show off Malayan products in other ways. On the title page of each handbook published by the agency for the British Empire Exhibition is the line: “The text portion of this pamphlet is printed on Rubber Latex Paper.” The printed pages appear off-white, slightly glossy and, after all these decades, still in good condition. The wove paper has a uniform surface, not ribbed or watermarked, and has a thickness of around 0.1 mm (similar to the 70gsm paper used today for photocopying). 
 
 #### **What is Rubber Latex Paper?**
 
