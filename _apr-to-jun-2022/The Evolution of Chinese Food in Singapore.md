@@ -79,3 +79,7 @@ Many of the hawker dishes mentioned are featured in the Singapore Chinese Cultur
 [^1]: “PM Lee Hsien Loong Spoke About Singaporean Chinese Culture and the Singaporean Identity at the Official Opening of the Singapore Chinese Cultural Centre on 19 May 2017,” Prime Minister’s Office, 19 May 2017, https://www.pmo.gov.sg/Newsroom/pm-lee-hsien-loong-official-opening-singapore-chinese-cultural-centre.
 
 [^2]: “[Hainanese Chicken Rice](https://eresources.nlb.gov.sg/infopedia/articles/SIP_910_2005-01-11.html),” in *Singapore Infopedia*. National Library Board Singapore. Article published 2016.
+
+[^3]: Meryl Koh, “Restaurant Labyrinth Serves Up Chicken Rice, with No Rice,” *The Peak*, 17 May 2016, https://www.thepeakmagazine.com.sg/gourmet-travel/restaurant-labyrinth-creates-chicken-rice-no-rice-han-li-guang/; “Awards,” Restaurant Labyrinth, accessed 14 February 2022, https://www.restaurantlabyrinth.com/awards.
+
+[^4]: This is eaten during the Duanwu Festival (Dragon Boat Festival) to commemorate Qu Yuan (c. 340 –278 BCE), a Chinese poet and politician in the State of Chu during the Warring States Period.
