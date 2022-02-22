@@ -78,4 +78,4 @@ Many of the hawker dishes mentioned are featured in the Singapore Chinese Cultur
 
 [^1]: “PM Lee Hsien Loong Spoke About Singaporean Chinese Culture and the Singaporean Identity at the Official Opening of the Singapore Chinese Cultural Centre on 19 May 2017,” Prime Minister’s Office, 19 May 2017, https://www.pmo.gov.sg/Newsroom/pm-lee-hsien-loong-official-opening-singapore-chinese-cultural-centre.
 
-[^2]: “Hainanese Chicken Rice,” in *Singapore Infopedia*. National Library Board Singapore. Article published 2016.
+[^2]: “[Hainanese Chicken Rice](https://eresources.nlb.gov.sg/infopedia/articles/SIP_910_2005-01-11.html),” in *Singapore Infopedia*. National Library Board Singapore. Article published 2016.
