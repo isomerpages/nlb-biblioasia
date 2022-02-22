@@ -25,6 +25,9 @@ Around 1947, the land was acquired by Crédit Foncier d’Extrême-Orient, a pio
 
 The development of Opera Estate into a residential area began in the 1950s.[^3] Crédit Foncier d’Extrême-Orient divided up the land and sold the plots to various developers who embarked on different housing projects in the estate. These included Crédit Foncier itself, the Singapore Trading Company and Nassim & Co.
 
+![](/images/Vol%2018%20Issue%201/Opera%20Estate/01%20-%20Opera%20Estate%20sign.png)
+<div style="background-color: white;"> Opera Estate is a private residential estate located in the eastern region of Singapore.  It was developed in the 1950s. <i>Photo by and courtesy of Asrina Tanuri.</i></div>
+
 Nassim & Co. in turn sold off a small parcel of land to a developer, Chua Chye Chua, in 1957. Chua recalled: “[T]he environment there… it was a semi-deserted place, jungle-like environment with a lot of rubber trees, ponds for the ducks and… pig [farms]. Then you have small hillocks made of limestone and so on. … [After I purchased the land], I have [*sic*] to do all this clearance, filling up all the ponds, knocking down the hillocks before I could start building. It took me some time.”[^4] Chua built 12 bungalows with modern sanitation which were sold between $15,000 and $18,000 each. 
 
 According to him, the houses in Opera Estate were not targeted at the wealthy: “They were the usual working-class people who are clerical workers or some semi-professional ones and so on. These are the kind of houses they can only afford to buy. Other houses in the other parts of Singapore would probably cost them well over a hundred thousand [dollars]. A hundred thousand [dollars] in those days were big money.”[^5] 
@@ -38,9 +41,6 @@ In addition to bungalows, there were also smaller and cheaper terrace houses. Th
 In a *Berita Harian* article about Opera Estate in 1989, *bangsawan* actor Shariff Medan, one of the estate’s early residents, said he bought his single-storey terrace house on Dido Street for only $7,800. He recalled that the area was not popular at the time. “Tetapi ramai orang tak suka tempat ini sebab jalannya berlekuk, berlumpur, tak ada kemudahan dan banyak nyamuk.”[^9] (Translation: But many people did not like this place because the roads were full of potholes and muddy. The area also lacked facilities and was infested with mosquitoes.)
 
 Mrs Nancy Tan, 75, lived in a bungalow on Tosca Street in the 1950s and 60s until she got married and moved out. Her mother had bought the bungalow for $30,000 in the mid-1950s. She recalled that the area was very quiet back then. “Tosca Street had only one row of houses,” she said. “On the opposite side of the road was a grassy field where cows used to graze. My mother would collect the cow dung to be used as fertilisers for her plants. There was a small, rocky hill on Aida Street and I’ve seen goats on the hill. An Indian man would go around the estate on a bicycle selling goat’s milk.”[^10]
-
-![](/images/Vol%2018%20Issue%201/Opera%20Estate/01%20-%20Opera%20Estate%20sign.png)
-<div style="background-color: white;"> Opera Estate is a private residential estate located in the eastern region of Singapore.  It was developed in the 1950s. <i>Photo by and courtesy of Asrina Tanuri.</i></div>
 
 One of Opera Estate’s most prominent residents was the first president of Singapore, Yusof Ishak, who lived on Aida Street when he was still a journalist. He was known among the neighbours to have a keen interest in gardening.[^11] Journalist David Kraal had his first encounter with Yusof Ishak and his wife at Kraal’s uncle’s new terrace house in the neighbourhood. Kraal recalled: “Before we said our goodnights, the gallant journalist [Yusof Ishak] picked a choice orchid from his nearby garden and handed it to my flower-loving mother. It was the perfect end to a fine evening.”[^12] 
 
