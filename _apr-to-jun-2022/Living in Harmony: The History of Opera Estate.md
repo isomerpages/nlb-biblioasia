@@ -106,7 +106,7 @@ The street party ran every year for about two decades. Unfortunately, because of
 
 Very early on, a number of primary schools were set up in the area. Opera Estate Boys’ School and Opera Estate Girls’ School were established in 1959. The buildings of the two primary schools stood side-by-side along Fidelio Street. Both schools were then merged to form Opera Estate Primary School in 1985, which is still on Fidelio Street today.[^31]
 
-Located on Jalan Khairuddin, the Convent of the Holy Infant Jesus (CHIJ) Opera Estate, also known as Opera Estate Convent, was also founded in 1959. In 1990, it merged with the primary school section of Katong Convent and both became known as CHIJ (Katong) Primary. The Red Cross Campsite currently occupies the old school premises on Jalan Khairuddin.[^32]
+Located on Jalan Khairuddin, the Convent of the Holy Infant Jesus (CHIJ) Opera Estate, also known as Opera Estate Convent, was also founded in 1959. In 1990, it merged with the primary school section of Katong Convent and both became known as CHIJ (Katong) Primary. The Red Cross Training Camp currently occupies the old school premises on Jalan Khairuddin.[^32]
 
 There are three parks in Opera Estate: Aida Park, which is between Aida Street and Bedok South Road; Bangsawan Park along Bangsawan Road; and Siglap Linear Park. The last was completed in 2002 and stretches from Swan Lake Avenue all the way to East Coast Park by the sea.[^33] An open field on Swan Lake Avenue known as Opera Estate Football Field is also popular with residents.
 
@@ -147,7 +147,7 @@ Jalan Bintang Tiga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
 
 [^1]: Joan Bieder, ed., [*The Jews of Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12944221) (Singapore: Suntree Media, 2007), 29, 80–81. (From National Library, Singapore, Call no. RSING 959.57004924 BIE); Lisa Ginsburgh, “Worlds Apart in Singapore: A Jewish Family Story,” *Asian Jewish Life*, no. 15 (October 2014), https://asianjewishlife.org/pages/articles/AJL_Issue_15_Oct2014/AJL_Issue15_CoverStory_Worlds_Apart_in_Singapore.html; “[Death of Mr. A. Frankel](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19280528-1.2.21),” *Malaya Tribune*, 28 May 1928, 7. (From NewspaperSG) 
 
-[^2]: “[Homes Will Rise on this Million $ Land](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19510402-1.2.28),” *Singapore Standard*, 2 April 1951, 2; [“$500,000 Estate Deal in S’pore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19470308-1.2.2),” *Malaya Tribune*, 8 March 1947, 1; “[40 New Homes for Squatters](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19510505-1.2.73),” *Singapore Free Press*, 5 May 1951, 5 (From NewspaperSG); Thomas Coomans, “China Papers: The Architecture Archives of the Building Company Crédit Foncier d’Extrême-Orient (1907–1959),” ABE *Journal Architecture Beyond Europe*, no. 5 (2014, December), ResearchGate, https://www.researchgate.net/publication/277885016_China_Papers_The_architecture_archives_of_the_building_company_Credit_Foncier_d'Extreme-Orient_1907-59.
+[^2]: “[Homes Will Rise on this Million $ Land](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19510402-1.2.28),” *Singapore Standard*, 2 April 1951, 2; [“$500,000 Estate Deal in S’pore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19470308-1.2.2),” *Malaya Tribune*, 8 March 1947, 1; “[40 New Homes for Squatters](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19510505-1.2.73),” *Singapore Free Press*, 5 May 1951, 5. (From NewspaperSG); Thomas Coomans, “China Papers: The Architecture Archives of the Building Company Crédit Foncier d’Extrême-Orient (1907–1959),” ABE *Journal Architecture Beyond Europe*, no. 5 (2014, December), ResearchGate, https://www.researchgate.net/publication/277885016_China_Papers_The_architecture_archives_of_the_building_company_Credit_Foncier_d'Extreme-Orient_1907-59.
 
 [^3]: Victor R. Savage and Brenda S. Yeoh, [*Toponymics: A Study of Singapore Street Names*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12303283) (Singapore: Eastern Universities Press, 2004), 20. (From National Library, Singapore, Call no. RSING 9159570014 SAV)
 
@@ -159,7 +159,7 @@ Jalan Bintang Tiga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
 
 [^7]: “[Page 7 Advertisements Column 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19561027-1.2.62.1),” *The Straits Times*, 27 October 1956, 7. (From NewspaerSG)
 
-[^8]: “[Page 3 Advertisements Column 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19570321-1.2.31.1),” *The Straits Times*, 21 March 1957, 3 (From NewspaperSG). 
+[^8]: “[Page 3 Advertisements Column 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19570321-1.2.31.1),” *The Straits Times*, 21 March 1957, 3. (From NewspaperSG). 
 
 [^9]: Hanim Mohd Saleh, “[‘Estet Bangsawan’ di Opera Estate](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19891110-1.2.19.4),” *Berita Harian*, 10 November 1989, 8. (From NewspaperSG)
 
@@ -197,7 +197,7 @@ Jalan Bintang Tiga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
 
 [^26]: “[Residents’ ‘Changkol Squad’ Fix Estate Roads](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19610601-1.2.55),” *Singapore Free Press*, 1 June 1961, 4; “[Example of the Good Citizens](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19610602-1.2.16.1),” *Singapore Free Press*, 2 June 1961, 6. (From NewspaperSG)
 
-[^27]: [Mr Kiasu and His Kampung Spirit](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/tabla20151016-1.2.2),” *Tabla*, 16 October 2015, 1. (From NewspaperSG); “Singapore Names its First Friendly Street,” Singapore Kindness Movement, 17 August 2019, https://www.kindness.sg/news/singapore-names-its-first-friendly-street/; Marilyn Peh, “For the past 20 years, this tight-knit group of neighbours have kept a special street party tradition alive,” The Pride, 2 September 2019, https://pride.kindness.sg/20-years-neighbours-jalan-bintang-tiga-james-suresh-street-party/.
+[^27]: [Mr Kiasu and His Kampung Spirit](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/tabla20151016-1.2.2),” *Tabla*, 16 October 2015, 1. (From NewspaperSG); “Singapore Names its First Friendly Street,” Singapore Kindness Movement, 17 August 2019, https://www.kindness.sg/news/singapore-names-its-first-friendly-street/; Marilyn Peh, “For the past 20 years, this tight-knit group of neighbours have kept a special street party tradition alive,” *The Pride*, 2 September 2019, https://pride.kindness.sg/20-years-neighbours-jalan-bintang-tiga-james-suresh-street-party/.
 
 [^28]: James Suresh, “[A Neighbourly Connection](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20140305-1.2.53),” *Today*, 5 March 2015, 45. (From NewspaperSG)
 
