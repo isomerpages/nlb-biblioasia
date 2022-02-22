@@ -7,7 +7,7 @@ description: ""
 ---
 #### The colonial government’s communal feeding programme was a novel response to chronic food shortages and malnutrition in the aftermath of the Japanese Occupation, and laid the foundation for the basis of social welfare schemes in Singapore.
 
-<img src="/images/vol-9-issue-3/communal-feeding/C1.JPG">
+<img src="/images/vol-9-issue-3/communal-feeding/C1.jpg">
 <div style="background-color: white;"> Children playing outside a Children's Social Centre in 1951. <i>MITA collection, courtesy of National Archives of Singapore.</i></div>
 
 Between June 1946 and August 1948, Singapore’s colonial government operated a novel communal feeding programme. Supervised by the Singapore Department of Social Welfare, the programme aimed to provide one nutritious meal a day for Singaporeans at affordable prices. Targeted at mainly workers, the meals were provided by the so-called People’s Restaurants located in different parts of the city.
