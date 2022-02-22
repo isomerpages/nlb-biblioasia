@@ -3,10 +3,9 @@ title: Printed on Rubber Latex Paper
 permalink: /apr-to-jun-2022/vol-18/issue-1/rubber-latex-paper
 description: ""
 ---
-
 #### An innovation patented in 1920 produced paper that was more durable, had greater tensile strength and was resistant to folding, as **Alex Teoh** tells us.
 
-![](/images/Vol%2018%20Issue%201/Rubber%20Latex%20Paper/covers.png)
+![](/images/Vol%2018%20Issue%201/Rubber%20Latex%20Paper/covers_editted.png)
 <div style="background-color: white;">Titles published by the Malay States Information Agency/Malayan Information Agency and printed on rubber latex paper. (Left to right) <i> Images reproduced from Eric MacFadyen, Rubber Planting in Malaya (London: Malay States Information Agency, 1924). (Not available in NLB holdings); Sport and Motoring in Malaya (London: Malay States Information Agency, 1924). (Not available in  NLB holdings); British Malaya: General Description of the Country and Life Therein (London: Malayan Information Agency, 1929). (Not available in NLB holdings)</i></div>
 
 During the British Empire Exhibition held at Wembley Park, England, from 23 April to 1 November 1924, a number of handbooks were published and distributed that promoted the economy and produce of British Malaya. Published by the London-based Malay States Information Agency, these handbooks included titles such as *British Malaya: Trade & Commerce*; *Rubber Planting in Malaya*; *Coconut Industry in Malaya*; *Big Game Shooting & Motoring in Malaya*; and *Mining in Malaya*.[^1]
