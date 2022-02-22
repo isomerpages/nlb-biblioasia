@@ -84,7 +84,7 @@ Many of the hawker dishes mentioned are featured in the Singapore Chinese Cultur
 	
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol%2018%20Issue%201/Authors/Asrina_Tanuri.png" style="width: 100px; height: 100px;"/>
+<img src="/images/Vol%2018%20Issue%201/Authors/Low_Sze_Wee.png" style="width: 100px; height: 100px;"/>
 	<b>Low Sze Wee</b> is Chief Executive Officer of the Singapore Chinese Cultural Centre. Formerly head of the curatorial departments at the Singapore Art Museum and then National Gallery Singapore, Sze Wee has curated many local and international exhibitions, including important retrospectives on Singaporean artists and the Singapore pavilion at the 50th Venice Biennale in 2003.</div>
 	
 #### **NOTES**
