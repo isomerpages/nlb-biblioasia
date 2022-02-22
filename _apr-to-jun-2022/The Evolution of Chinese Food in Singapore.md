@@ -24,6 +24,10 @@ Today, this delicious hawker dish is ubiquitous: *halal* versions are very popul
 
 *Yong tau foo* is another example of the confluence of different Chinese dialect groups. The dish as we know it today is a collective term for various stuffed, boiled items but it originally referred to just one thing – stuffed tofu (*yong* means “stuffed” in the Hakka dialect). Its origins may be traced back to the nomadic Hakka people of northern China, where dumplings were a key part of their lunar new year celebrations. However, as they migrated south, they could not find the wheat flour needed to make the dumplings. Hence, they improvised by stuffing ground meat into tofu instead. This was likely the first incarnation of our local *yong tau foo*. 
 
+![](/images/Vol%2018%20Issue%201/Chinese%20Food/ytf.png)
+<div style="background-color: white;"> <i>Yong tau foo</i> was introduced to Singapore by Hakka migrants. Today, it is a collective term for various stuffed, boiled items such as bitter gourd, chilli and eggplant. 
+ <i>From Shutterstock.</i></div>
+
 When the Hakkas arrived in Southeast Asia in the 19th century, they started using seafood and fish paste for the filling as these ingredients were readily available here. This dish was later adopted by Cantonese hawkers in Singapore who started using different items like bitter gourd, chilli and eggplant to hold the filling. 
 
 Hokkien *mee* is another dish that showcases different regional influences. Despite its name, Hokkien *mee* also has significant Cantonese influence. This can be seen in the evolution of local fried Hokkien *mee*, which is a dish of thick yellow Hokkien noodles and *beehoon* (rice vermicelli) with prawns, pork belly, chives, egg, squid and fish cake cooked in crispy cubes of lard. 
