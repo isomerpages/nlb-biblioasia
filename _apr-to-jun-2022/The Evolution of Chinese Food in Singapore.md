@@ -32,15 +32,15 @@ Instead of the flat noodles in traditional Hokkien *mee* from Fujian, the Singap
 
 #### **Local Ingredients and Ethnic Diversity**
 
-Chinese food in Singapore does not merely reflect the admixture of different Chinese groups who migrated here; Singapore’s geography also plays an important role. When they came to Southeast Asia, the Chinese started using more locally sourced spices, fruit and vegetables in their cooking. This led to the use of ingredients such as pandan (screwpine), nutmeg, torch ginger, coconut and banana.
+Chinese food in Singapore does not merely reflect the admixture of different Chinese groups who migrated here; Singapore’s geography also plays an important role. When they came to Southeast Asia, the Chinese started using more locally sourced spices, fruit and vegetables in their cooking. This led to the use of ingredients such as *pandan* (screwpine), nutmeg, torch ginger, coconut and banana.
 
-The local version of popiah illustrates this. A spring roll containing ingredients such as turnip, carrots, bean sprouts and thinly sliced fried tofu, popiah was originally from Fujian and Chaoshan. Singaporean version has bangkuang or jicama (Mexican turnip) instead of bamboo shoots as the latter were not readily available in Singapore at the time. 
+The local version of *popiah* illustrates this. A spring roll containing ingredients such as turnip, carrots, bean sprouts and thinly sliced fried tofu, *popiah* was originally from Fujian and Chaoshan. Singaporean version has *bangkuang* or *jicama* (Mexican turnip) instead of bamboo shoots as the latter were not readily available in Singapore at the time. 
 
-In addition to local ingredients, the cosmopolitan nature of a port city like Singapore also played a part in shaping local Chinese food. Laksa, for example, is now a common dish found in many restaurants and hawker centres. The dish is essentially a Chinese noodle soup cooked with a blend of Malay spices, fish stock and coconut milk. Tau pok and cockles were later added to the original dish. Regional touches are the inclusion of belacan, lemongrass and dried chilli.
+In addition to local ingredients, the cosmopolitan nature of a port city like Singapore also played a part in shaping local Chinese food. *Laksa*, for example, is now a common dish found in many restaurants and hawker centres. The dish is essentially a Chinese noodle soup cooked with a blend of Malay spices, fish stock and coconut milk. *Tau pok* and cockles were later added to the original dish. Regional touches are the inclusion of *belacan*, lemongrass and dried chilli.
 
 This popular dish is today most associated with the Peranakan Chinese, descendants of early Chinese traders who had settled down in Southeast Asia and married local women.
 
-Through their familiarity with Malay cooking techniques and Southeast Asian ingredients, the Peranakan Chinese are also known for their localised version of the Chinese rice dumpling (bak chang in Hokkien and zongzi in Mandarin; glutinous rice stuffed with meat and wrapped in bamboo leaves).[^4]
+Through their familiarity with Malay cooking techniques and Southeast Asian ingredients, the Peranakan Chinese are also known for their localised version of the Chinese rice dumpling (*bak chang* in Hokkien and zongzi in Mandarin; glutinous rice stuffed with meat and wrapped in bamboo leaves).[^4]
 
 The Peranakan Chinese version, known as nonya dumpling, uses candied wintermelon in the filling, hence its colloquial name puah kiam ti chang, which means “sweet and salty dumpling” in Hokkien. Believed to have “a cooling effect”, wintermelon is commonly used in traditional Chinese desserts. Coriander powder and aniseed powder – spices used in Malay cooking – are used to flavour the braised pork filling.
 
