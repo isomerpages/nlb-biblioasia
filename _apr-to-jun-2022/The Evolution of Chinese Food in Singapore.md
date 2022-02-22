@@ -64,4 +64,12 @@ Chinese rojak is different from Indian rojak, however, which was said to have be
 
 As different cultures continue to meet, interact and learn from each other in Singapore, new, delicious creations will arise. As there is no limit to human creativity, the possibilities are endless.
 
-
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">
+Many of the hawker dishes mentioned are featured in the Singapore Chinese Cultural Centre’s permanent exhibition, “SINGAPO人 – Discovering Chinese Singaporean Culture”. <br><br>
+<b>For more information, visit <a href="https://singaporeccc.org.sg/permanent-exhibition/"> https://singaporeccc.org.sg/permanent-exhibition/</a>.</b>
+</div>
+	
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol%2018%20Issue%201/Authors/Asrina_Tanuri.png" style="width: 100px; height: 100px;"/>
+	<b>Asrina Tanuri</b> is a Manager (Research) with the National Library, Singapore, where she provides information services to government agencies. Her research areas include community safety and security, and adult learning.</div>
