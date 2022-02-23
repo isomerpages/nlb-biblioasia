@@ -46,7 +46,7 @@ One of Opera Estate’s most prominent residents was the first president of Sing
 
 From the backyard of Mrs Nancy Tan’s former home on Tosca Street, she could see Yusof Ishak’s house. She recalled of his wife: “Puan Noor Aishah was a very warm and friendly lady. She would give us *kueh* during Hari Raya.”[^13] 
 
-![](/images/Vol%2018%20Issue%201/Opera%20Estate/yusof2.png)
+![](/images/Vol%2018%20Issue%201/Opera%20Estate/yusof2_hires.png)
 <div style="background-color: white;"> Yusof Ishak and Puan Noor Aishah with their children in their Opera Estate home on Aida Street, 1955. <i>Yusof Ishak Collection, courtesy of National Archives of Singapore.</i></div>
 
 Another well-known figure that resided in Opera Estate was Singapore’s first Minister for Home Affairs and Social Welfare, Othman Wok.[^14]
