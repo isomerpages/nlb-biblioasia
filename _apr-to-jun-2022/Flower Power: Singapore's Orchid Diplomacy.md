@@ -139,4 +139,6 @@ https://www.asiaone.com/lifestyle/power-flower-these-orchids-are-named-after-vip
 
 [^22]: Teo Yun Yun, “[VIPs in Full Bloom](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper19970610-1.2.9.1),” *New Paper*, 10 June 1997, 5; Irene Hoe, “[A Bloom of Vigour for the Lady](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850409-1.2.18.2),” *Straits Times*, 9 April 1985, 8; “[Orchid Named After Thatcher Wins Three Honours](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19870912-1.2.26.10),” *Straits Times*, 12 September 1987, 13. (From NewspaperSG)
 
-[^23]: 
+[^23]:Teo, “[VIPs in Full Bloom](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper19970610-1.2.9.1)”; “[An Orchid Gift for Japanese Royal Bride](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19930529-1.2.58.2),” *Straits Times*, 29 May 1993, 28; “[S'pore Orchid for Japan's Royal Newlyweds](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19930608-1.2.5),” *Straits Times*, 8 June 1993, 1. (From NewspaperSG)
+
+[^24]: 
