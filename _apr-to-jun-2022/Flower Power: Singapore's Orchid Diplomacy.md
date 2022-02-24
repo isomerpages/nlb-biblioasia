@@ -90,8 +90,6 @@ While some might hanker after an orchid named after a favourite celebrity, these
 
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">The author is grateful to the National Parks Board and Peggy Tan, former president of the Orchid Society of South East Asia, for providing additional information for this essay.</div>
 
-
-
 <div style="background-color: white;">
 <br/>
 <img src="/images/Vol%2018%20Issue%201/Authors/Low_Sze_Wee.png" style="width: 100px; height: 100px;"/>
