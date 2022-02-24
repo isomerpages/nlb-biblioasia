@@ -64,6 +64,9 @@ When Japan’s Crown Prince Naruhito (now Emperor) wed Masako Owada in June 1993
 
 Once an orchid is named, it is registered with the Royal Horticultural Society in London, the international registration authority for orchid hybrids. VIPs are presented with the orchid’s official birth certificate – with details such as the hybrid’s parents, appearance, date of pollination and flowering – and in some cases they get to keep the orchid too.[^25]
 
+![](/images/Vol%2018%20Issue%201/Orchid%20Diplomacy/Queen%20Elizabeth.png)
+<div style="background-color: white;"> The <i>Dendrobium</i> Elizabeth has twisted petals and the sepals are yellow with light greyish-purple streaks. <i>Photo by and courtesy of Jimmy Yap.</i></div>
+
 If the VIPs wish to grow their namesake orchid in their home country, the Singapore Botanic Gardens will provide them with the orchid plant cutting with flower stalks, accompanied by instructions on how to care for the orchid. The plant cutting is cushioned and secured in a box, and the flowers are wrapped. The Singapore Botanic Gardens also ensures that any plant import documents requested by the VIP’s home country are complete and in good order.[^26]
 
 ![](/images/Vol%2018%20Issue%201/Orchid%20Diplomacy/elizabeth.png)
