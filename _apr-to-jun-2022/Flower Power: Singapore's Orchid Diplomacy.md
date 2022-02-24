@@ -8,7 +8,7 @@ description: ""
 ![](/images/Vol%2018%20Issue%201/Opera%20Estate/Jalan%20Bintang%20Tiga%20(2020)%20(orig).png)
 <div style="background-color: white;"> Jalan Bintang Tiga, 2020. Floods are no longer an occurrence there. <i>Photo by and courtesy of Irene Loh.</i></div>
 
-In August 2021, during a visit to Singapore, United States Vice President Kamala Harris was welcomed to the Istana by Prime Minister Lee Hsien Loong. As a welcome gift, she was presented with a spray of purplish-pink orchids named after her, the Papilionanda Kamala Harris (Vanda Kulwadee Fragrance × Papilionanthe hookeriana).[^1]
+In August 2021, during a visit to Singapore, United States Vice President Kamala Harris was welcomed to the Istana by Prime Minister Lee Hsien Loong. As a welcome gift, she was presented with a spray of purplish-pink orchids named after her, the *Papilionanda* Kamala Harris (*Vanda* Kulwadee Fragrance × *Papilionanthe* *hookeriana*).[^1]
 
 Whenever world leaders visit a foreign country in an official capacity, they are usually given tokens of appreciation and enjoy tours of the country’s attractions. In Singapore, however, some receive something special – an orchid hybrid named after them. This initiative – known as “orchid diplomacy” – serves as a gesture of friendship to promote goodwill between Singapore and other countries and plays an important role in building bilateral ties, as it is accorded to dignitaries such as royalty, heads of state and heads of government.[^2]
 
@@ -16,7 +16,7 @@ Why orchids specifically? And why hybrids? Orchids, which belong to the family O
 
 Selected orchid hybrids are named after visiting heads of state and heads of government as well as celebrities and important guests to the Singapore Botanic Gardens.[^4] This tradition dates back to 1956, and today there are over 200 of such orchids in the National Orchid Garden at the Singapore Botanic Gardens.[^5] VIP orchids, including those named in honour of the wives of heads of state and heads of government, are housed in the VIP Orchid Garden, while celebrity orchids can be viewed at the Celebrity Orchid Garden. 
 
-The first VIP orchid is the Aranthera Anne Black (Arachnis Maggie Oei × Renanthera coccinea), named after Lady Anne Black in 1956. She was the wife of Robert Black, a former governor of Singapore.[^6] This hybrid makes a good cut flower as older flowers in a spray do not wither when new ones bloom. Following independence in 1965, Singapore formalised the procedures for the naming of VIP orchids.
+The first VIP orchid is the *Aranthera* Anne Black (*Arachnis* Maggie Oei × *Renanthera coccinea*), named after Lady Anne Black in 1956. She was the wife of Robert Black, a former governor of Singapore.[^6] This hybrid makes a good cut flower as older flowers in a spray do not wither when new ones bloom. Following independence in 1965, Singapore formalised the procedures for the naming of VIP orchids.
 
 #### **Cultivating Orchid Hybrids**
 
