@@ -66,6 +66,9 @@ Once an orchid is named, it is registered with the Royal Horticultural Society i
 
 If the VIPs wish to grow their namesake orchid in their home country, the Singapore Botanic Gardens will provide them with the orchid plant cutting with flower stalks, accompanied by instructions on how to care for the orchid. The plant cutting is cushioned and secured in a box, and the flowers are wrapped. The Singapore Botanic Gardens also ensures that any plant import documents requested by the VIP’s home country are complete and in good order.[^26]
 
+![](/images/Vol%2018%20Issue%201/Orchid%20Diplomacy/elizabeth.png)
+<div style="background-color: white;">Queen Elizabeth II with A.G. Alphonso, Acting Director of the Singapore Botanic Gardens, 1972. The queen had an orchid named after her, the Dendrobium Elizabeth. <i>Image reproduced from “A Saffron Spray Gets the Royal Vote,” Straits Times, 21 February 1972, 5. (From NewspaperSG). </i></div>
+
 After being presented with their namesake orchids, dignitaries may go on to view other VIP orchids of significance to them. Following the unveiling of the *Vanda* William Catherine (*Vanda* First and Last × *Vanda* Motes Toledo Blue), Britain’s Prince William and Catherine, the Duchess of Cambridge, viewed the *Dendrobium* Elizabeth (*Dendrobium* Mustard × *Dendrobium* Noor Aishah; Noor Aishah is the wife of Singapore’s first president, YusofIshak) and the *Dendrobium* Memoria Princess Diana, named after Prince William’s grandmother and late mother respectively. Singapore was the royal couple’s first stop in their Asia-Pacific tour to commemorate Queen Elizabeth’s Diamond Jubilee in 2012.[^27]
 
 ![](/images/Vol%2018%20Issue%201/Orchid%20Diplomacy/The%20Duke%20and%20Duchess%20of%20Cambridge.png)
