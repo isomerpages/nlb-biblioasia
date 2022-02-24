@@ -168,3 +168,7 @@ https://www.channelnewsasia.com/commentary/commentary-prince-charles-orchid-and-
 [^35]: Whang and Lim, “Flower Power”; Zachariah, “[Growing VIP Orchids](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20151024-1.2.106.1.2).”  
 
 [^36]: “[$900 Orchid On Show Today](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19570906-1.2.61),” *Straits Times*, 6 September 1957, 5; Lim Hong Hee, “[Orchid Story](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19570329-1.2.98.8),” *Singapore Free Press*, 29 March 1957, 3; Grace Tan, “[Vanda Tan Chay Yan, a Worthier National Flower](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19810426-1.2.44),” *New Nation*, 26 April 1981, 21. (From NewspaperSG); “National Orchid Garden,” Singapore Botanic Gardens, last updated 28 January 2022, https://www.nparks.gov.sg/sbg/our-gardens/tyersall-entrance/national-orchid-garden.
+
+[^37]: National Parks Board, email, 10 December 2021.
+
+[^38]: Nigel Taylor and Prisca Teh, “[Plants and Seeds Sold at Two Gardens](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20150907-1.2.22.8),” *Straits Times*, 7 September 2015, 23. (From NewspaperSG)
