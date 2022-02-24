@@ -89,3 +89,16 @@ To date, the Orchid Hybridisation Programme has produced more than 630 registere
 While some might hanker after an orchid named after a favourite celebrity, these plants are, unfortunately, not for sale. The National Parks Board and Gardens by the Bay explained in 2015: “VIP orchids are named after individuals as a gesture of goodwill and friendship. Each named orchid is exclusive to the individual and is not for sale. This is what makes the orchid significant and special.”[^38] Hence, the only way to admire these beautiful flowers is to make a trip to the National Orchid Garden.
 
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">The author is grateful to the National Parks Board and Peggy Tan, former president of the Orchid Society of South East Asia, for providing additional information for this essay.</div>
+
+#### **NOTES**
+
+[^1]: Gabrielle Andres, “US Vice President Kamala Harris Receives Namesake Orchid, Official Welcome at Istana,” *Channel NewsAsia*, 23 August 2021, https://www.channelnewsasia.com/singapore/us-vice-president-kamala-harris-orchid-welcome-istana-official-visit-2130576.
+
+[^2]: National Parks Board, email, 10 December 2021; Lin Suling, “Commentary: Prince Charles’ Orchid and the Art of Diplomatic Gift-giving,” *Channel NewsAsia*, 3 November 2017,
+https://www.channelnewsasia.com/commentary/commentary-prince-charles-orchid-and-art-diplomatic-gift-giving-987426. 
+
+[^3]: Lin Suling, “Commentary: Prince Charles’ Orchid and the Art of Diplomatic Gift-giving.”
+
+[^4]: Nigel Taylor, “[Orchids Are Named After Celebrities Too](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20130427-1.2.122.11.4),” *Straits Times*, 27 April 2013, 10. (From NewspaperSG); Natasha Ann Zachariah, “[Growing VIP Orchids](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20151024-1.2.106.1.2),” *Straits Times*, 24 October 2015, 4–5. (From NewspaperSG)
+
+[^5]: National Parks Board, email, 10 December 2021
