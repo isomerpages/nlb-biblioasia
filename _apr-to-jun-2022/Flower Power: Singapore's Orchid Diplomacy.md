@@ -121,3 +121,18 @@ https://www.nparks.gov.sg/nparksbuzz/issue-43-vol-4-2019/gardening/flower-power.
 [^13]: Timothy P. Barnard, [*Nature's Colony: Empire, Nation and Environment in the Singapore Botanic Gardens*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202468295) (Singapore: NUS Press, 2016), 220. (From National Library, Singapore, Call no. RSING 580.735957 BAR); “[We Grow Our VIPs](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20090809-1.2.106.12), *Straits Times*, 9 August 2009, 109. (From NewspaperSG)
 
 [^14]: “[From Princesses to Premiers](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19840318-1.2.138.7),” *Straits Times*, 18 March 1984, 3. (From NewspaperSG)
+
+[^15]: Barnard, [*Nature's Colony*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202468295), 220. 
+
+[^16]: Zachariah, “[Growing VIP Orchids](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20151024-1.2.106.1.2).”
+
+[^17]: Janelle Yong, “Power Flower: These Orchids Are Named After VIPs,” AsiaOne, 24 August 2021, 
+https://www.asiaone.com/lifestyle/power-flower-these-orchids-are-named-after-vips.
+
+[^18]:  Alexis Lai and Nick Thompson, “William and Catherine View Princess Diana Orchid in Singapore,” CNN, 12 September 2012, https://edition.cnn.com/2012/09/11/world/asia/princess-diana-orchid-singapore/index.html.
+
+[^19]: Teo Yun Yun, “[Singapore Orchid for ‘England’s Rose’](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper19971002-1.2.18.3),” *New Paper*, 2 October 1997, 13. (From NewspaperSG)
+
+[^20]: Yong, “Power Flower.”
+
+[^21]: 
