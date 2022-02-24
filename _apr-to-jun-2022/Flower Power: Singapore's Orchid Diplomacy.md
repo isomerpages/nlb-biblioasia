@@ -109,3 +109,13 @@ https://www.nparks.gov.sg/nparksbuzz/issue-43-vol-4-2019/gardening/flower-power.
 [^7]: The Orchid Hybridisation Programme was initiated in 1928 by Richard Eric Holttum, then Director of the Singapore Botanic Gardens. His first hybrid, *Spathoglottis* Primrose (*Spathoglottis aurea* x *Spathoglottis plicata*), bloomed in 1931.
 
 [^8]: National Parks Board, email, 10 December 2021.
+
+[^9]: Elysa Chen, “[He Grows Orchid Hybrids for VIPs](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper20091122-1.2.3.7),” *New Paper*, 22 November 2009, 10–11. (From NewspaperSG)
+
+[^10]: Peggy Tan, email, 10 January 2022. 
+
+[^11]: Chen, “[He Grows Orchid Hybrids for VIPs](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper20091122-1.2.3.7).”
+
+[^12]: Feng Zengkun, “[It Takes Years for a Newly Created Orchid Hybrid to Flower](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20150710-1.2.61.2),” *Straits Times*, 10 July 2015, 15. (From NewspaperSG)
+
+[^13]: Timothy P. Barnard, Nature's Colony: Empire, Nation and Environment in the Singapore Botanic Gardens (Singapore: NUS Press, 2016), 220. (From National Library, Singapore, Call no. RSING 580.735957 BAR); “We Grow Our VIPs, Straits Times, 9 August 2009, 109. (From NewspaperSG)
