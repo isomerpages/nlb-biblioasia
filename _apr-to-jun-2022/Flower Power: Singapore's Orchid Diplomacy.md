@@ -150,4 +150,10 @@ https://www.asiaone.com/lifestyle/power-flower-these-orchids-are-named-after-vip
 [^27]: “Orchid Hybrid Named in Honour of President Xi Jinping and His Wife at Botanic Gardens,” *Straits Times*, 7 November 2015, 
 https://www.straitstimes.com/singapore/orchid-hybrid-named-in-honour-of-president-xi-jinping-and-his-wife-at-botanic-gardens, Rachel Au-Yong, “[Orchid Hybrid Named After Chinese President and Wife](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20151108-1.2.5.7),” *Straits Times*, 8 November 2015, 7. (From NewspaperSG)
 
-[^28]: 
+[^28]: National Parks Board, email, 17 December 2021.
+
+[^29]: “[Sun Flower](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20061217-1.2.5.4),” *Straits Times*, 17 December 2006, 6. (From NewspaperSG)
+
+[^30]: “Joseph Schooling, Yip Pin Xiu Have Orchids Named after Them,” *Today*, 7 August 2017, https://www.todayonline.com/singapore/orchid-named-after-joseph-schooling-yip-pin-xiu.
+
+[^31]: 
