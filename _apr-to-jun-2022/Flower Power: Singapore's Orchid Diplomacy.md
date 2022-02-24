@@ -141,4 +141,13 @@ https://www.asiaone.com/lifestyle/power-flower-these-orchids-are-named-after-vip
 
 [^23]:Teo, “[VIPs in Full Bloom](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper19970610-1.2.9.1)”; “[An Orchid Gift for Japanese Royal Bride](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19930529-1.2.58.2),” *Straits Times*, 29 May 1993, 28; “[S'pore Orchid for Japan's Royal Newlyweds](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19930608-1.2.5),” *Straits Times*, 8 June 1993, 1. (From NewspaperSG)
 
-[^24]: 
+[^24]: Chen, “[He Grows Orchid Hybrids for VIPs](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper20091122-1.2.3.7)”; Gwendolyn Ng, “[Worthy Boasts & Other Quirks](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20090809-1.2.106.13),” *Straits Times*, 9 August 2009, 109. (From NewspaperSG) 
+
+[^25]: National Parks Board, email, 17 December 2021. 
+
+[^26]: “Orchid Named After Duke and Duchess of Cambridge,” National Parks Board, 11 September 2012, https://www.nparks.gov.sg/news/2012/9/orchid-named-after-duke-and-duchess-of-cambridge; Alexis Lai and Nick Thompson, “William and Catherine View Princess Diana Orchid in Singapore.”
+
+[^27]: “Orchid Hybrid Named in Honour of President Xi Jinping and His Wife at Botanic Gardens,” *Straits Times*, 7 November 2015, 
+https://www.straitstimes.com/singapore/orchid-hybrid-named-in-honour-of-president-xi-jinping-and-his-wife-at-botanic-gardens, Rachel Au-Yong, “[Orchid Hybrid Named After Chinese President and Wife](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20151108-1.2.5.7),” *Straits Times*, 8 November 2015, 7. (From NewspaperSG)
+
+[^28]: 
