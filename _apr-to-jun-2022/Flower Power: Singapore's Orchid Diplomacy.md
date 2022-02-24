@@ -49,6 +49,9 @@ Several months before a notable dignitary is set to visit Singapore, the Ministr
 
 Much care is also taken in selecting an orchid that befits the dignitary it will be named after. For example, the *Paravanda* Nelson Mandela (*Papilionanda* Mas Los Angeles × *Paraphalaenopsis labukensis*), named in honour of the anti-apartheid leader and president of South Africa when he visited Singapore in March 1997, has “a bright greenish-yellow hue with a reddish tinge, resembling the colours of the South African flag”. It won the second prize at the 18th World Orchid Conference held in France in March 2005.[^18]
 
+![](/images/Vol%2018%20Issue%201/Orchid%20Diplomacy/Nelson%20Mandela.png)
+<div style="background-color: white;"> President of South Africa, Nelson Mandela, at the National Orchid Garden, 1997. The Paravanda Nelson Mandela was named after him during his visit to Singapore. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
 Another example is the *Dendrobium* Memoria Princess Diana (*Dendrobium* Pattaya Beauty × *Dendrobium* Fairy Wong), christened on 22 September 1997, a month after Princess Diana’s death.[^19] Yam noted that the orchid was white, a “very regal or royal colour” that also reflected the late Princess of Wales’ efforts to promote peace, such as by banning land mines. He added that the flower “has a tinge of pink on its petals which make it seem warm and approachable, just like the personality of the Princess”.[^20]
 
 In yet another example, the orchids *Aranda* Lee Kuan Yew and *Vanda* Kwa Geok Choo (*Vanda* Amelita Ramos × *Vanda* Harvest Time) – named after the founding prime minister and his wife – were chosen to match in terms of colour, form and stature. They also share common species in their lineages.[^21]
