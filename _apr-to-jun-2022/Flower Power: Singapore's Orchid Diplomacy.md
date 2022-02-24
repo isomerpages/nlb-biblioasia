@@ -135,4 +135,8 @@ https://www.asiaone.com/lifestyle/power-flower-these-orchids-are-named-after-vip
 
 [^20]: Yong, “Power Flower.”
 
-[^21]: 
+[^21]:“Remembering Lee Kuan Yew: Orchid Named after Mr Lee Kuan Yew Matches the Hybrid Named After Late Mrs Lee: Khaw Boon Wan,” *Straits Times*, 24 March 2015, https://www.straitstimes.com/singapore/orchid-named-after-mr-lee-kuan-yew-matches-the-hybrid-named-after-late-mrs-lee-khaw-boon.
+
+[^22]: Teo Yun Yun, “[VIPs in Full Bloom](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper19970610-1.2.9.1),” *New Paper*, 10 June 1997, 5; Irene Hoe, “[A Bloom of Vigour for the Lady](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850409-1.2.18.2),” *Straits Times*, 9 April 1985, 8; “[Orchid Named After Thatcher Wins Three Honours](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19870912-1.2.26.10),” *Straits Times*, 12 September 1987, 13. (From NewspaperSG)
+
+[^23]: 
