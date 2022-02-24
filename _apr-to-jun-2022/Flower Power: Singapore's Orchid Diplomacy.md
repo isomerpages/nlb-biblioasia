@@ -87,3 +87,5 @@ Since then, Singapore has become well known for its expertise in breeding orchid
 To date, the Orchid Hybridisation Programme has produced more than 630 registered hybrids. Many of these hybrids, in addition to being potential VIP orchids, are also cultivated for use in landscaping and as potted plants. 
 
 While some might hanker after an orchid named after a favourite celebrity, these plants are, unfortunately, not for sale. The National Parks Board and Gardens by the Bay explained in 2015: “VIP orchids are named after individuals as a gesture of goodwill and friendship. Each named orchid is exclusive to the individual and is not for sale. This is what makes the orchid significant and special.”[^38] Hence, the only way to admire these beautiful flowers is to make a trip to the National Orchid Garden.
+
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">The author is grateful to the National Parks Board and Peggy Tan, former president of the Orchid Society of South East Asia, for providing additional information for this essay.</div>
