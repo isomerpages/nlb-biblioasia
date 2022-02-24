@@ -104,4 +104,8 @@ https://www.channelnewsasia.com/commentary/commentary-prince-charles-orchid-and-
 [^5]: National Parks Board, email, 10 December 2021
 
 [^6]: Whang Lay Keng and Lim Siu Ann, “Flower Power,” *NParks Buzz* 4, no. 43 (2019), 
-https://www.nparks.gov.sg/nparksbuzz/issue-43-vol-4-2019/gardening/flower-power. 
+https://www.nparks.gov.sg/nparksbuzz/issue-43-vol-4-2019/gardening/flower-power.
+
+[^7]: The Orchid Hybridisation Programme was initiated in 1928 by Richard Eric Holttum, then Director of the Singapore Botanic Gardens. His first hybrid, *Spathoglottis* Primrose (*Spathoglottis aurea* x *Spathoglottis plicata*), bloomed in 1931.
+
+[^8]: National Parks Board, email, 10 December 2021.
