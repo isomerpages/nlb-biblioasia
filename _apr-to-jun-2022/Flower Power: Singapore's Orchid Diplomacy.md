@@ -6,7 +6,7 @@ description: ""
 #### Singapore’s diplomatic efforts may take several forms, including naming hybrid orchids after foreign dignitaries. **Rebecca Tan** tells us more.
 
 ![](/images/Vol%2018%20Issue%201/Orchid%20Diplomacy/Sealara%20Nelson%20Mandela%20(credit%20NParks).png)
-<div style="background-color: white;"> Jalan Bintang Tiga, 2020. Floods are no longer an occurrence there. <i>Photo by and courtesy of Irene Loh.</i></div>
+<div style="background-color: white;"> The <i>Paravanda</i> Nelson Mandela, named after the former president of South Africa, bears flowers that have a bright greenish-yellow hue with a reddish tinge, resembling the colours of the South African flag. <i>Courtesy of the National Parks Board.</i></div>
 
 In August 2021, during a visit to Singapore, United States Vice President Kamala Harris was welcomed to the Istana by Prime Minister Lee Hsien Loong. As a welcome gift, she was presented with a spray of purplish-pink orchids named after her, the *Papilionanda* Kamala Harris (*Vanda* Kulwadee Fragrance × *Papilionanthe* *hookeriana*).[^1]
 
