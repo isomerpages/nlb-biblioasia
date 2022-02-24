@@ -108,6 +108,10 @@ Tan named the flower *Papilionanda* Tan Chay Yan (previously known as *Vanda* Ta
 
 Since then, Singapore has become well known for its expertise in breeding orchids. The Singapore Botanic Gardens has intensified its acquisition of new species and hybrids, and set up a seed bank for conserving the genetic material of these orchids. These efforts help ensure the continued viability of “orchid diplomacy”, and the richness of the collections in the National Orchid Garden.[^37]
 
+![](/images/Vol%2018%20Issue%201/Orchid%20Diplomacy/xijinping_ed.png)
+<div style="background-color: white;">The Papilionanda Xi Jinping-Peng Liyuan was named in honour of the Chinese President and his wife in 2015. <i> Image reproduced from Rachel Au-Yong, “Orchid Hybrid Named After Chinese President and Wife,” Straits Times, 8 November 2015, 7. (From NewspaperSG).
+</i></div>
+
 To date, the Orchid Hybridisation Programme has produced more than 630 registered hybrids. Many of these hybrids, in addition to being potential VIP orchids, are also cultivated for use in landscaping and as potted plants. 
 
 While some might hanker after an orchid named after a favourite celebrity, these plants are, unfortunately, not for sale. The National Parks Board and Gardens by the Bay explained in 2015: “VIP orchids are named after individuals as a gesture of goodwill and friendship. Each named orchid is exclusive to the individual and is not for sale. This is what makes the orchid significant and special.”[^38] Hence, the only way to admire these beautiful flowers is to make a trip to the National Orchid Garden.
