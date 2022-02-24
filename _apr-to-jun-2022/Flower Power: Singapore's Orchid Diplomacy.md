@@ -79,6 +79,9 @@ After being presented with their namesake orchids, dignitaries may go on to view
 
 Dignitaries may also enjoy other aspects of the Botanic Gardens during their visit. In November 2015, after the *Papilionanda* Xi Jinping-Peng Liyuan (*Vanda* Kulwadee Fragrance × *Papilionanthe* Miss Joaquim) was named in honour of the Chinese President and his wife, the couple enjoyed a four-course lunch at the Corner House restaurant in the Botanic Gardens. They were hosted by Prime Minister Lee Hsien Loong and his wife Ho Ching. The orchid has pink petals with fine red spots, an orangey-red prominent lip with dark red markings, and an orangey-yellow centre.[^28]
 
+![](/images/Vol%2018%20Issue%201/Orchid%20Diplomacy/Xi%20Jinping-Peng%20Liyuan.png)
+<div style="background-color: white;">The <i>Papilionanda</i> Xi Jinping-Peng Liyuan has pink petals with fine red spots, an orangey-red prominent lip with dark red markings, and an orangey-yellow centre. <i>Photo by and courtesy of Jimmy Yap.</i></div>
+
 #### **Non-VIP Orchids**
 
 The naming of orchids after prominent personalities has also been expanded to include not only royalty and dignitaries, but also celebrities and Singaporeans who have brought honour to the country. 
