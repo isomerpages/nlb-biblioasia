@@ -97,7 +97,7 @@ Orchids are also named to commemorate milestones. In 2015, when Singapore celebr
 
 Also in the same year, the *Dendrobium* Golden Friendship (*Dendrobium* Memoria Olive Hu × *Dendrobium* *discolor*) was unveiled to celebrate 50 years of diplomatic ties between Singapore and Australia. It was grown from a Singaporean hybrid and an Australian species, and named by then Australian Prime Minister Tony Abbott.[^35]
 
-A Leader in Orchid Cultivation
+#### **A Leader in Orchid Cultivation**
 
 Singapore’s reputation for orchid cultivation dates to the 1950s. After the Japanese Occupation, businessman-lawyer Tan Hoon Siang, who later became president of the Malayan Orchid Society (today’s Orchid Society of South East Asia), bred an orchid hybrid that put Singapore on the world map of orchid cultivation. The orchid seeds were then sown in the Singapore Botanic Gardens in 1949, flowering in 1952. 
 
