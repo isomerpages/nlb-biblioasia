@@ -174,8 +174,7 @@ While some might hanker after an orchid named after a favourite celebrity, these
 
 [^26]: “Orchid Named After Duke and Duchess of Cambridge,” National Parks Board, 11 September 2012, https://www.nparks.gov.sg/news/2012/9/orchid-named-after-duke-and-duchess-of-cambridge; Alexis Lai and Nick Thompson, “William and Catherine View Princess Diana Orchid in Singapore.”
 
-[^27]: “Orchid Hybrid Named in Honour of President Xi Jinping and His Wife at Botanic Gardens,” *Straits Times*, 7 November 2015, 
-https://www.straitstimes.com/singapore/orchid-hybrid-named-in-honour-of-president-xi-jinping-and-his-wife-at-botanic-gardens, Rachel Au-Yong, “[Orchid Hybrid Named After Chinese President and Wife](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20151108-1.2.5.7),” *Straits Times*, 8 November 2015, 7. (From NewspaperSG)
+[^27]: “Orchid Hybrid Named in Honour of President Xi Jinping and His Wife at Botanic Gardens,” *Straits Times*, 7 November 2015, https://www.straitstimes.com/singapore/orchid-hybrid-named-in-honour-of-president-xi-jinping-and-his-wife-at-botanic-gardens, Rachel Au-Yong, “[Orchid Hybrid Named After Chinese President and Wife](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20151108-1.2.5.7),” *Straits Times*, 8 November 2015, 7. (From NewspaperSG)
 
 [^28]: National Parks Board, email, 17 December 2021.
 
