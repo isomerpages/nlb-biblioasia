@@ -18,7 +18,7 @@ Selected orchid hybrids are named after visiting heads of state and heads of gov
 
 The first VIP orchid is the *Aranthera* Anne Black (*Arachnis* Maggie Oei × *Renanthera coccinea*), named after Lady Anne Black in 1956. She was the wife of Robert Black, a former governor of Singapore.[^6] This hybrid makes a good cut flower as older flowers in a spray do not wither when new ones bloom. Following independence in 1965, Singapore formalised the procedures for the naming of VIP orchids.
 
-![](/images/Vol%2018%20Issue%201/Orchid%20Diplomacy/VIP_Anne%20Black.png)
+![](/images/Vol%2018%20Issue%201/Orchid%20Diplomacy/VIP_Anne%20Black_edited.png)
 <div style="background-color: white;"> The first VIP orchid is the Aranthera Anne Black, named in 1956 after the wife of Robert Black, former governor of Singapore. <i>Photos by and courtesy of Jimmy Yap.</i></div>
 
 #### **Cultivating Orchid Hybrids**
