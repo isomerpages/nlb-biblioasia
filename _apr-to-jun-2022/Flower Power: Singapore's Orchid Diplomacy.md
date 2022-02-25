@@ -77,6 +77,10 @@ If the VIPs wish to grow their namesake orchid in their home country, the Singap
 
 After being presented with their namesake orchids, dignitaries may go on to view other VIP orchids of significance to them. Following the unveiling of the *Vanda* William Catherine (*Vanda* First and Last × *Vanda* Motes Toledo Blue), Britain’s Prince William and Catherine, the Duchess of Cambridge, viewed the *Dendrobium* Elizabeth (*Dendrobium* Mustard × *Dendrobium* Noor Aishah; Noor Aishah is the wife of Singapore’s first president, YusofIshak) and the *Dendrobium* Memoria Princess Diana, named after Prince William’s grandmother and late mother respectively. Singapore was the royal couple’s first stop in their Asia-Pacific tour to commemorate Queen Elizabeth’s Diamond Jubilee in 2012.[^27]
 
+![](/images/Vol%2018%20Issue%201/Orchid%20Diplomacy/xijinping_ed.png)
+<div style="background-color: white;">The <i>Papilionanda</i> Xi Jinping-Peng Liyuan was named in honour of the Chinese President and his wife in 2015. <i> Image reproduced from Rachel Au-Yong, “Orchid Hybrid Named After Chinese President and Wife,” Straits Times, 8 November 2015, 7. (From NewspaperSG).
+</i></div>
+
 Dignitaries may also enjoy other aspects of the Botanic Gardens during their visit. In November 2015, after the *Papilionanda* Xi Jinping-Peng Liyuan (*Vanda* Kulwadee Fragrance × *Papilionanthe* Miss Joaquim) was named in honour of the Chinese President and his wife, the couple enjoyed a four-course lunch at the Corner House restaurant in the Botanic Gardens. They were hosted by Prime Minister Lee Hsien Loong and his wife Ho Ching. The orchid has pink petals with fine red spots, an orangey-red prominent lip with dark red markings, and an orangey-yellow centre.[^28]
 
 ![](/images/Vol%2018%20Issue%201/Orchid%20Diplomacy/Xi%20Jinping-Peng%20Liyuan.png)
@@ -107,10 +111,6 @@ Singapore’s reputation for orchid cultivation dates to the 1950s. After the Ja
 Tan named the flower *Papilionanda* Tan Chay Yan (previously known as *Vanda* Tan Chay Yan; *Vanda dearei* × *Papilionanda* Josephine van Brero) after his late father, a commercial rubber planter from Melaka and a grandson of merchant and philanthropist Tan Tock Seng. The mauve and salmon-coloured orchid received a First Class Certificate from the Royal Horticultural Society at the Chelsea Flower Show in 1954. The orchid garnered much attention from orchid growers around the world and many came to see the orchids in Singapore. Tan himself also has an orchid in his honour – the *Papilionanda* Tan Hoon Siang, a hybrid of *Papilionanda* Josephine van Brero and *Vanda* Somsri Pink.[^36]
 
 Since then, Singapore has become well known for its expertise in breeding orchids. The Singapore Botanic Gardens has intensified its acquisition of new species and hybrids, and set up a seed bank for conserving the genetic material of these orchids. These efforts help ensure the continued viability of “orchid diplomacy”, and the richness of the collections in the National Orchid Garden.[^37]
-
-![](/images/Vol%2018%20Issue%201/Orchid%20Diplomacy/xijinping_ed.png)
-<div style="background-color: white;">The <i>Papilionanda</i> Xi Jinping-Peng Liyuan was named in honour of the Chinese President and his wife in 2015. <i> Image reproduced from Rachel Au-Yong, “Orchid Hybrid Named After Chinese President and Wife,” Straits Times, 8 November 2015, 7. (From NewspaperSG).
-</i></div>
 
 To date, the Orchid Hybridisation Programme has produced more than 630 registered hybrids. Many of these hybrids, in addition to being potential VIP orchids, are also cultivated for use in landscaping and as potted plants. 
 
