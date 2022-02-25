@@ -148,9 +148,9 @@ While some might hanker after an orchid named after a favourite celebrity, these
 
 [^13]: Timothy P. Barnard, [*Nature's Colony: Empire, Nation and Environment in the Singapore Botanic Gardens*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202468295) (Singapore: NUS Press, 2016), 220. (From National Library, Singapore, Call no. RSING 580.735957 BAR); “[We Grow Our VIPs](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20090809-1.2.106.12), *Straits Times*, 9 August 2009, 109. (From NewspaperSG)
 
-[^14]: National Parks Board, email, 17 December 2021.
+[^14]: “[From Princesses to Premiers](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19840318-1.2.138.7),” *Straits Times*, 18 March 1984, 3. (From NewspaperSG)
 
-[^15]: “[From Princesses to Premiers](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19840318-1.2.138.7),” *Straits Times*, 18 March 1984, 3. (From NewspaperSG)
+[^15]: National Parks Board, email, 17 December 2021.
 
 [^16]: Barnard, [*Nature's Colony*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202468295), 220. 
 
