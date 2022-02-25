@@ -130,7 +130,7 @@ While some might hanker after an orchid named after a favourite celebrity, these
 
 [^4]: Nigel Taylor, “[Orchids Are Named After Celebrities Too](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20130427-1.2.122.11.4),” *Straits Times*, 27 April 2013, 10. (From NewspaperSG); Natasha Ann Zachariah, “[Growing VIP Orchids](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20151024-1.2.106.1.2),” *Straits Times*, 24 October 2015, 4–5. (From NewspaperSG)
 
-[^5]: National Parks Board, email, 10 December 2021
+[^5]: National Parks Board, email, 10 December 2021.
 
 [^6]: Whang Lay Keng and Lim Siu Ann, “Flower Power,” *NParks Buzz* 4, no. 43 (2019), https://www.nparks.gov.sg/nparksbuzz/issue-43-vol-4-2019/gardening/flower-power.
 
