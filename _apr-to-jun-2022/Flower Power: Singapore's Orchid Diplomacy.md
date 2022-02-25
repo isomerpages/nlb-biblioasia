@@ -27,10 +27,7 @@ The creation of orchid hybrids is undertaken by the Orchid Hybridisation Program
 
 The hybrid breeding process entails five steps: (1) deciding the type of orchid hybrid and then searching for the “parents” with the right characteristics; (2) transferring the pollen from the male parent to the female parent for fertilisation; (3) sowing the orchid seeds in a culture medium containing nutrients so that the seeds can germinate and grow into seedlings; (4) growing the seedlings in flasks for six to 12 months before they are transferred to pots in a nursery; and (5) waiting for the plants to flower, which usually takes two to three years of growing the orchids in pots.[^9]
 
-
-![](/images/Vol%2018%20Issue%201/Orchid%20Diplomacy/DL%20Removal%20of%20pollen%20from%20Pollen%20plant.png)
-![](/images/Vol%2018%20Issue%201/Orchid%20Diplomacy/Transfer%20of%20pollen%20from%20pollen%20plant%20to%20seed%20plant.png)
-![](/images/Vol%2018%20Issue%201/Orchid%20Diplomacy/seedpod2.png)
+![](/images/Vol%2018%20Issue%201/Orchid%20Diplomacy/Steps.png)
 <div style="background-color: white;"> During the pollination process, (1) pollen is carefully removed from the pollen plant and (2) transferred to the seed plant. (3) If fertilisation succeeds, a seed pod will develop several weeks later. <i>Courtesy of the National Parks Board.</i></div>
 
 According to Peggy Tan, former president of the Orchid Society of South East Asia, a toothpick is used to harvest the pollen from a flower, which is immediately placed onto the stigma of another flower. If pollination succeeds, the flower will fade but remains on the stem until a seed pod develops several weeks later. However, if an orchid’s resultant flowers are defective, then the plant may be discarded.[^10]
