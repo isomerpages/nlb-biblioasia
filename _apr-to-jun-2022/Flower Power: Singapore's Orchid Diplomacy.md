@@ -127,8 +127,7 @@ While some might hanker after an orchid named after a favourite celebrity, these
 
 [^1]: Gabrielle Andres, “US Vice President Kamala Harris Receives Namesake Orchid, Official Welcome at Istana,” *Channel NewsAsia*, 23 August 2021, https://www.channelnewsasia.com/singapore/us-vice-president-kamala-harris-orchid-welcome-istana-official-visit-2130576.
 
-[^2]: National Parks Board, email, 10 December 2021; Lin Suling, “Commentary: Prince Charles’ Orchid and the Art of Diplomatic Gift-giving,” *Channel NewsAsia*, 3 November 2017,
-https://www.channelnewsasia.com/commentary/commentary-prince-charles-orchid-and-art-diplomatic-gift-giving-987426. 
+[^2]: National Parks Board, email, 10 December 2021; Lin Suling, “Commentary: Prince Charles’ Orchid and the Art of Diplomatic Gift-giving,” *Channel NewsAsia*, 3 November 2017, https://www.channelnewsasia.com/commentary/commentary-prince-charles-orchid-and-art-diplomatic-gift-giving-987426. 
 
 [^3]: Lin Suling, “Commentary: Prince Charles’ Orchid and the Art of Diplomatic Gift-giving.”
 
@@ -136,8 +135,7 @@ https://www.channelnewsasia.com/commentary/commentary-prince-charles-orchid-and-
 
 [^5]: National Parks Board, email, 10 December 2021
 
-[^6]: Whang Lay Keng and Lim Siu Ann, “Flower Power,” *NParks Buzz* 4, no. 43 (2019), 
-https://www.nparks.gov.sg/nparksbuzz/issue-43-vol-4-2019/gardening/flower-power.
+[^6]: Whang Lay Keng and Lim Siu Ann, “Flower Power,” *NParks Buzz* 4, no. 43 (2019), https://www.nparks.gov.sg/nparksbuzz/issue-43-vol-4-2019/gardening/flower-power.
 
 [^7]: The Orchid Hybridisation Programme was initiated in 1928 by Richard Eric Holttum, then Director of the Singapore Botanic Gardens. His first hybrid, *Spathoglottis* Primrose (*Spathoglottis aurea* x *Spathoglottis plicata*), bloomed in 1931.
 
@@ -159,8 +157,7 @@ https://www.nparks.gov.sg/nparksbuzz/issue-43-vol-4-2019/gardening/flower-power.
 
 [^16]: Zachariah, “[Growing VIP Orchids](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20151024-1.2.106.1.2).”
 
-[^17]: Janelle Yong, “Power Flower: These Orchids Are Named After VIPs,” AsiaOne, 24 August 2021, 
-https://www.asiaone.com/lifestyle/power-flower-these-orchids-are-named-after-vips.
+[^17]: Janelle Yong, “Power Flower: These Orchids Are Named After VIPs,” AsiaOne, 24 August 2021, https://www.asiaone.com/lifestyle/power-flower-these-orchids-are-named-after-vips.
 
 [^18]:  Alexis Lai and Nick Thompson, “William and Catherine View Princess Diana Orchid in Singapore,” CNN, 12 September 2012, https://edition.cnn.com/2012/09/11/world/asia/princess-diana-orchid-singapore/index.html.
 
@@ -189,8 +186,7 @@ https://www.straitstimes.com/singapore/orchid-hybrid-named-in-honour-of-presiden
 
 [^30]: “Joseph Schooling, Yip Pin Xiu Have Orchids Named after Them,” *Today*, 7 August 2017, https://www.todayonline.com/singapore/orchid-named-after-joseph-schooling-yip-pin-xiu.
 
-[^31]: Yam Tin Wing, *[Orchids of the Singapore Botanic Gardens](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12909904)* (Singapore: Singapore Botanic Gardens), 148. (From National Library, Singapore, Call no. RSING 584.4095957 YAM); Chen, “[He Grows Orchid Hybrids for VIPs](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper20091122-1.2.3.7)”; Tay Suan Chiang, “[Orchid’s Name is for Life](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20100515-1.2.112.10.5),” *Straits Times*, 15 May 2010, 11; “[We Grow Our VIPs](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20090809-1.2.106.12),” *Straits Times*, 9 August 2009, 109. (From NewspaperSG); Lin Suling, “Commentary: Prince Charles’ Orchid and the Art of Diplomatic Gift-giving,” Channel NewsAsia, 3 November 2017,
-https://www.channelnewsasia.com/commentary/commentary-prince-charles-orchid-and-art-diplomatic-gift-giving-987426; “10 Celebrity Orchids Who Are Named After Famous People,” The Singapore Women’s Weekly, 15 November 2016, https://www.womensweekly.com.sg/gallery/entertainment/10-celebrity-orchids-named-famous-people/.
+[^31]: Yam Tin Wing, *[Orchids of the Singapore Botanic Gardens](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12909904)* (Singapore: Singapore Botanic Gardens), 148. (From National Library, Singapore, Call no. RSING 584.4095957 YAM); Chen, “[He Grows Orchid Hybrids for VIPs](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper20091122-1.2.3.7)”; Tay Suan Chiang, “[Orchid’s Name is for Life](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20100515-1.2.112.10.5),” *Straits Times*, 15 May 2010, 11; “[We Grow Our VIPs](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20090809-1.2.106.12),” *Straits Times*, 9 August 2009, 109. (From NewspaperSG); Lin Suling, “Commentary: Prince Charles’ Orchid and the Art of Diplomatic Gift-giving,” Channel NewsAsia, 3 November 2017, https://www.channelnewsasia.com/commentary/commentary-prince-charles-orchid-and-art-diplomatic-gift-giving-987426; “10 Celebrity Orchids Who Are Named After Famous People,” The Singapore Women’s Weekly, 15 November 2016, https://www.womensweekly.com.sg/gallery/entertainment/10-celebrity-orchids-named-famous-people/.
 
 [^32]: Angeline Song, “[Secret Asean Lady Orchid](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper19920123-1.2.13.6),” *New Paper*, 23 January 1992, 10. (From NewspaperSG)
 
