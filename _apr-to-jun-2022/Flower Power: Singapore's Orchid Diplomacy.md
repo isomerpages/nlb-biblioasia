@@ -158,7 +158,7 @@ While some might hanker after an orchid named after a favourite celebrity, these
 
 [^18]: Janelle Yong, “Power Flower: These Orchids Are Named After VIPs,” *AsiaOne*, 24 August 2021, https://www.asiaone.com/lifestyle/power-flower-these-orchids-are-named-after-vips.
 
-[^19]:  Alexis Lai and Nick Thompson, “William and Catherine View Princess Diana Orchid in Singapore,” CNN, 12 September 2012, https://edition.cnn.com/2012/09/11/world/asia/princess-diana-orchid-singapore/index.html.
+[^19]:  Alexis Lai and Nick Thompson, “William and Catherine View Princess Diana Orchid in Singapore,” *CNN*, 12 September 2012, https://edition.cnn.com/2012/09/11/world/asia/princess-diana-orchid-singapore/index.html.
 
 [^20]: Teo Yun Yun, “[Singapore Orchid for ‘England’s Rose’](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper19971002-1.2.18.3),” *New Paper*, 2 October 1997, 13. (From NewspaperSG)
 
