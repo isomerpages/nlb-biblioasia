@@ -120,7 +120,7 @@ While some might hanker after an orchid named after a favourite celebrity, these
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol%2018%20Issue%201/Authors/Low_Sze_Wee.png" style="width: 100px; height: 100px;"/>
+<img src="/images/Vol%2018%20Issue%201/Authors/Rebecca_tan.png" style="width: 100px; height: 100px;"/>
 	<b>Rebecca Tan</b> is an Associate Librarian with the National Library, Singapore. She is part of the digital heritage team and works on curating and promoting access to the library’s digital collections.</div>
 
 #### **NOTES**
