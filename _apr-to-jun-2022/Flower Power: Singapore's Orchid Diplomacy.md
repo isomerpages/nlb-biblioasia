@@ -57,15 +57,9 @@ Said then Minister for National Development Khaw Boon Wan in a blog post on 24 M
 
 VIPs may also have a say in which orchid is named after them. Then British Prime Minister Margaret Thatcher personally selected her orchid, the *Dendrobium* Margaret Thatcher (*Dendrobium Concham* × *Dendrobium lasianthera*), during her visit to Singapore in April 1985. Chua Sian Eng, Commissioner of Parks and Recreation, explained to Mrs Thatcher that “the orchid was chosen for its vigour and growth”. Sporting petals that resemble antelope horns, the orchid won three prizes at the Singapore Orchid Show in 1987.[^23]
 
-![](/images/Vol%2018%20Issue%201/Orchid%20Diplomacy/elizabeth.png)
-<div style="background-color: white;">Queen Elizabeth II with A.G. Alphonso, Acting Director of the Singapore Botanic Gardens, 1972. The queen had an orchid named after her, the <i>Dendrobium</i> Elizabeth. <i>Image reproduced from “A Saffron Spray Gets the Royal Vote,” Straits Times, 21 February 1972, 5. (From NewspaperSG). </i></div>
-
 When Japan’s Crown Prince Naruhito (now Emperor) wed Masako Owada in June 1993, then President of Singapore Wee Kim Wee presented the royal couple with an orchid that had been specially flown to Tokyo to commemorate the wedding. This was a white orchid, the *Dendrobium* Masako Kotaishi Hidenka (also known as *Dendrobium* Her Imperial Highness the Crown Princess Masako; *Dendrobium* Singa Snow × *Dendrobium* Subang). The crown princess had selected this particular hybrid after viewing photos of different orchids.[^24]
 
 Once an orchid is named, it is registered with the Royal Horticultural Society in London, the international registration authority for orchid hybrids. VIPs are presented with the orchid’s official birth certificate – with details such as the hybrid’s parents, appearance, date of pollination and flowering – and in some cases they get to keep the orchid too.[^25]
-
-![](/images/Vol%2018%20Issue%201/Orchid%20Diplomacy/Queen%20Elizabeth.png)
-<div style="background-color: white;"> The <i>Dendrobium</i> Elizabeth has twisted petals and the sepals are yellow with light greyish-purple streaks. <i>Photo by and courtesy of Jimmy Yap.</i></div>
 
 If the VIPs wish to grow their namesake orchid in their home country, the Singapore Botanic Gardens will provide them with the orchid plant cutting with flower stalks, accompanied by instructions on how to care for the orchid. The plant cutting is cushioned and secured in a box, and the flowers are wrapped. The Singapore Botanic Gardens also ensures that any plant import documents requested by the VIP’s home country are complete and in good order.[^26]
 
@@ -73,6 +67,10 @@ If the VIPs wish to grow their namesake orchid in their home country, the Singap
 <div style="background-color: white;">During the visit by Prince William and Catherine, the Duchess of Cambridge, to the National Orchid Garden on 11 September 2012, the royal couple was presented with an orchid named after them, the <i>Vanda</i> William Catherine. <i>Courtesy of the National Parks Board</i></div>
 
 After being presented with their namesake orchids, dignitaries may go on to view other VIP orchids of significance to them. Following the unveiling of the *Vanda* William Catherine (*Vanda* First and Last × *Vanda* Motes Toledo Blue), Britain’s Prince William and Catherine, the Duchess of Cambridge, viewed the *Dendrobium* Elizabeth (*Dendrobium* Mustard × *Dendrobium* Noor Aishah; Noor Aishah is the wife of Singapore’s first president, Yusof Ishak) and the *Dendrobium* Memoria Princess Diana, named after Prince William’s grandmother and late mother respectively. Singapore was the royal couple’s first stop in their Asia-Pacific tour to commemorate Queen Elizabeth’s Diamond Jubilee in 2012.[^27]
+
+![](/images/Vol%2018%20Issue%201/Orchid%20Diplomacy/Queen%20Elizabeth_and_flower.png)
+<div style="background-color: white;">(Left)The <i>Dendrobium</i> Elizabeth has twisted petals and the sepals are yellow with light greyish-purple streaks. <i>Photo by and courtesy of Jimmy Yap.</i><br>(Right) Queen Elizabeth II with A.G. Alphonso, Acting Director of the Singapore Botanic Gardens, 1972. The queen had an orchid named after her, the <i>Dendrobium</i> Elizabeth. <i>Image reproduced from “A Saffron Spray Gets the Royal Vote,” Straits Times, 21 February 1972, 5. (From NewspaperSG). </i></div>
+
 
 Dignitaries may also enjoy other aspects of the Botanic Gardens during their visit. In November 2015, after the *Papilionanda* Xi Jinping-Peng Liyuan (*Vanda* Kulwadee Fragrance × *Papilionanthe* Miss Joaquim) was named in honour of the Chinese President and his wife, the couple enjoyed a four-course lunch at the Corner House restaurant in the Botanic Gardens. They were hosted by Prime Minister Lee Hsien Loong and his wife Ho Ching. The orchid has pink petals with fine red spots, an orangey-red prominent lip with dark red markings, and an orangey-yellow centre.[^28]
 
