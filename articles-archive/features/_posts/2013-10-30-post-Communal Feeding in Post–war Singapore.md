@@ -65,20 +65,21 @@ The novelty of the communal feeding programme quickly gained traction and it pre
 
 In its first year or so, the People’s Restaurants and the other feeding schemes were in the news almost every other day. Between September 1946 and May 1947, announcements called “Today’s Menu” informing the public of the meal (or meals) of the day were regularly published in *The Straits Times*.[^27] Editorials were mostly positive about the impact of the feeding schemes, with one claiming that “Singapore Did Not Starve” due to the Department’s efforts.[^28] When the Malayan Union (1946–48) started its own People's Restaurants in its territories across the border, Singapore's Social Welfare Department was actively consulted on its feeding programme,[^29] suggesting that the People's Restaurants and its ancillaries may have helped Singapore and Southeast Asia avoid famine during this period.[^30] 
  
-People's Restaurant menu: October 1946 <br>
-Rice, boiLed chicken with white sauce, or rabbit stew, green peas, chye huay <br>
-Fried mee, beef or prawns, bean sprouts; bean cake, choy sim <br>
+ <div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> 
+<b>PEOPLE'S RESTAURANT MENU: OOCTOBER 1946</b><br><br>
+	Rice, boiLed chicken with white sauce, or rabbit stew, green peas, <i>chye huay</i> <br>
+Fried mee, beef or prawns, bean sprouts; bean cake, <i>choy sim</i> <br>
 Rice, vegetabLe omeLette with tomato or paprika sauce or New EngLand [sic] <br>
 Rice, fish fritters with tomato sauce, spinach, beetroot<br>
-NoodLes and gouLash or Hokkien mee, beef or prawns, choy sim, towgay<br>
+NoodLes and gouLash or <i>Hokkien mee</i>, beef or prawns, <i>choy sim</i>, <i>towgay</i><br>
 NoodLes in Amoy or Java styLe<br>
-Rice; bean cake with garnishment; peanut butter, sambal<br>
+Rice; bean cake with garnishment; peanut butter, <i>sambal</i><br>
 Rice and New EngLand [sic] or beef stew and vegetabLe, omeLette<br>
 Rice; Vienna sausages; bean cake and mixed vegetabLe stew, tomato sauce<br>
-Fried noodLes, bean cake, towgay, kangkong<br>
-Rice; fish curry; or masak asam; saLad (cucumber, kangkong); tomato sauce<br>
-Rice; chicken or rabbit stew or chicken kruma; yam beans and chye huay<br>
-Hokkien mee; beef soup; prawns; brown fried onions; green chiLLi;<br>
+Fried noodLes, bean cake, <i>towgay</i>, <i>kangkong</i><br>
+Rice; fish curry; or <i>masak asam</i>; saLad (cucumber, <i>kangkong</i>); tomato sauce<br>
+Rice; chicken or rabbit stew or chicken <i>kruma</i>; yam beans and <i>chye huay</i><br>
+<i>Hokkien mee</i>; beef soup; prawns; brown fried onions; green chiLLi;<br>
 bean sprouts; water cress<br>
 Rice; fried Liver or Liver curry; pak choy; green peas, tomatoes;
 peanut butter; gravy<br>
@@ -90,7 +91,7 @@ chew chow and choy sim<br>
 Rice, steamed or fried fish; onions; tomatoes, spinach<br>
 Rice; braised pork (Chinese styLe) or fish; speciaL mixed chup chye; cucumbers<br>
 Rice porridge (bubor); meat baLLs and saLted vegetabLes with garnishment<br>
-Rice; beef stew and green peas or beef curry; marrow and chye sim<br>
+Rice; beef stew and green peas or beef curry; marrow and chye sim<br></div>
  
 <img src="/images/vol-9-issue-3/communal-feeding/C5.JPG">
 <div style="background-color: white;"> Children feeding centres were renamed as Children's Social Centres and provided children 
