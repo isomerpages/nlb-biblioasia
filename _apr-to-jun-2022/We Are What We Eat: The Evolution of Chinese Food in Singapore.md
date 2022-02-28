@@ -58,10 +58,10 @@ Another example of Malay influence in the dumpling is the extraction of the juic
 
 In addition to Asian influences, hawker food bears the hallmarks of Singapore’s colonial past. This can be seen in the popular breakfast set of toast slathered with *kaya* (jam made from coconut milk, eggs and sugar) and accompanied by freshly brewed *kopi* (Malay for “coffee”) or *teh* (Hokkien for “tea”). 
 
+This was served in Hainanese-run *kopitiams* (coffee shops) in early Singapore and remains a breakfast staple for many Singaporeans today. During the colonial period, the Hainanese worked as cooks in wealthy Peranakan Chinese and British homes and even aboard British ships. After the Japanese Occupation (1942–45), some Hainanese who had lost these jobs sought to make a living by running *kopitiams*. 
+
 ![](/images/Vol%2018%20Issue%201/Chinese%20Food/kayatoast.png)
 <div style="background-color: white;"> <i>Kaya</i>  toast paired with half-boiled eggs is a popular breakfast item in Singapore. <i>From Shutterstock.</i></div>
-
-This was served in Hainanese-run *kopitiams* (coffee shops) in early Singapore and remains a breakfast staple for many Singaporeans today. During the colonial period, the Hainanese worked as cooks in wealthy Peranakan Chinese and British homes and even aboard British ships. After the Japanese Occupation (1942–45), some Hainanese who had lost these jobs sought to make a living by running *kopitiams*. 
 
 There, they served food and drinks commonly seen in their former employers’ homes such as the Western-style breakfast of eggs with toast, eaten with coffee or tea. As fruits like strawberries were not easily available in Singapore to make jam, the Hainanese, like the Peranakan Chinese, adapted and used coconut milk, eggs and *pandan* leaves to make *kaya*. And in a twist on half-boiled eggs with salt and pepper, the Hainanese drizzled dark soy sauce over the eggs, thereby putting their own local spin on this British breakfast classic. 
 
