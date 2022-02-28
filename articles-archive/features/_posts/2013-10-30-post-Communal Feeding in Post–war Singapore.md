@@ -15,7 +15,7 @@ Between June 1946 and August 1948, Singapore’s colonial government operated a 
 
 Over two years, the feeding programme expanded to include a catering service, financial support for the creation of private canteens and a children’s feeding scheme. Though short-lived, the impact of the programme was wide-ranging. It eased considerable pressure on the colonial government at a time when food was scarce, helped established a new social welfare department, and laid the foundations for a post-war social welfare landscape in Singapore.
 
-<img src="/images/vol-9-issue-3/communal-feeding/C8.JPG">
+<img style="width: 650px; height: 450px;" src="/images/vol-9-issue-3/communal-feeding/C8.JPG">
 <div style="background-color: white;">Originally built by George Coleman in 1827 as a private home, this Palladian-style structure housed the Social Welfare Department from 1946 to 1953. For nearly 30 years (1965–1999) it served as the Parliament House, and after a major refurbishment in 2003, the building was renamed the Arts House. <i>MITA collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **Origins of the Food Programme**
