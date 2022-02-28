@@ -67,30 +67,30 @@ In its first year or so, the People’s Restaurants and the other feeding scheme
  
  <div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> 
 <b>PEOPLE'S RESTAURANT MENU: OOCTOBER 1946</b><br><br>
-	Rice, boiLed chicken with white sauce, or rabbit stew, green peas, <i>chye huay</i> <br>
+	Rice, boiled chicken with white sauce, or rabbit stew, green peas, <i>chye huay</i> <br>
 Fried mee, beef or prawns, bean sprouts; bean cake, <i>choy sim</i> <br>
-Rice, vegetabLe omeLette with tomato or paprika sauce or New EngLand [sic] <br>
+Rice, vegetabLe omelette with tomato or paprika sauce or New England [sic] <br>
 Rice, fish fritters with tomato sauce, spinach, beetroot<br>
-NoodLes and gouLash or <i>Hokkien mee</i>, beef or prawns, <i>choy sim</i>, <i>towgay</i><br>
-NoodLes in Amoy or Java styLe<br>
+Noodles and goulash or <i>Hokkien mee</i>, beef or prawns, <i>choy sim</i>, <i>towgay</i><br>
+Noodles in Amoy or Java style<br>
 Rice; bean cake with garnishment; peanut butter, <i>sambal</i><br>
-Rice and New EngLand [sic] or beef stew and vegetabLe, omeLette<br>
-Rice; Vienna sausages; bean cake and mixed vegetabLe stew, tomato sauce<br>
-Fried noodLes, bean cake, <i>towgay</i>, <i>kangkong</i><br>
-Rice; fish curry; or <i>masak asam</i>; saLad (cucumber, <i>kangkong</i>); tomato sauce<br>
+Rice and New England [sic] or beef stew and vegetable, omelette<br>
+Rice; Vienna sausages; bean cake and mixed vegetable stew, tomato sauce<br>
+Fried noodles, bean cake, <i>towgay</i>, <i>kangkong</i><br>
+Rice; fish curry; or <i>masak asam</i>; salad (cucumber, <i>kangkong</i>); tomato sauce<br>
 Rice; chicken or rabbit stew or chicken <i>kruma</i>; yam beans and <i>chye huay</i><br>
-<i>Hokkien mee</i>; beef soup; prawns; brown fried onions; green chiLLi;<br>
+<i>Hokkien mee</i>; beef soup; prawns; brown fried onions; green chilli;<br>
 bean sprouts; water cress<br>
-Rice; fried Liver or Liver curry; <i>pak choy</i>; green peas, tomatoes;
+Rice; fried liver or liver curry; <i>pak choy</i>; green peas, tomatoes;
 peanut butter; gravy<br>
-Fried noodLes; beef stew and fried prawns; <i>choy sim</i> and <i>towgay</i><br>
-Rice, roast chicken or turkey or chicken curry, Long beans, spinach<br>
+Fried noodles; beef stew and fried prawns; <i>choy sim</i> and <i>towgay</i><br>
+Rice, roast chicken or turkey or chicken curry, long beans, spinach<br>
 Rice, beef and onions with garnishment, <i>bayam</i>, and green pea sprouts<br>
-Fried noodLes, fried pork and prawns, <i>towgay</i>, fried onions, <i>koo chye</i>,<br>
+Fried noodles, fried pork and prawns, <i>towgay</i>, fried onions, <i>koo chye</i>,<br>
 <i>chew chow</i> and <i>choy sim</i><br>
 Rice, steamed or fried fish; onions; tomatoes, spinach<br>
-Rice; braised pork (Chinese styLe) or fish; speciaL mixed <i>chup chye</i>; cucumbers<br>
-Rice porridge (<i>bubor</i>); meat baLLs and saLted vegetabLes with garnishment<br>
+Rice; braised pork (Chinese styLe) or fish; special mixed <i>chup chye</i>; cucumbers<br>
+Rice porridge (<i>bubor</i>); meat balls and salted vegetables with garnishment<br>
 Rice; beef stew and green peas or beef curry; marrow and <i>chye sim</i><br></div>
  
 <img src="/images/vol-9-issue-3/communal-feeding/C5.JPG">
