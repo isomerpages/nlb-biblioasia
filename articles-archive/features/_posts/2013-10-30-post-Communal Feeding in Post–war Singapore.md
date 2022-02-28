@@ -163,7 +163,6 @@ The development of the children’s feeding scheme is also insightful. It faced 
 In this particular case, civil society not only played a practical role (providing otherwise unavailable resources such as labour and physical sites), but was also instrumental in influencing and shaping state policy. What started out as a relatively uncomplicated scheme to provide adequate nutrition for children evolved into a programme that provided educational and social development activities, positioning the children social centres as the forerunners to present-day childcare centres. State policy was also affected by the response of the women volunteers to the sight of wretched poverty. The Singapore Family Planning Association these women founded became the basis of state efforts to manage the population of post-colonial Singapore.[^66] 
 
 <b>Ho Chi Tim</b> was a Lee Kong Chian Research Fellow at the National Library in 2012. He graduated with a BA and MA from the Department of History, National University of Singapore. He is presently a Ph.D candidate with the Department of History, University of Hawai’i at Mānoa. His dissertation examines the historical development of social welfare in colonial Singapore.
-</div>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-9/issue-3/oct-dec-2012/"><center>Back to Issue</center></a>
 
