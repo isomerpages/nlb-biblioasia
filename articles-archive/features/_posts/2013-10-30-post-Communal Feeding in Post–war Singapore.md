@@ -112,7 +112,8 @@ A nutrition survey conducted in late 1945 found that malnutrition among children
 
 The succeeding civil government set aside $360,000 to provide free meals to children aged between two and six in 1947.[^42] The first Children's Feeding Centre was opened in January 1947. Nine similar centres followed in February, and by the end of the year, 23 centres were in operation, serving a total of 810,000 meals to about 40,000 children, at a daily average of some 4,000 meals.[^43] 
 
-<img src="/images/vol-9-issue-3/communal-feeding/C1.jpg">
+<img style="width: 650px; height: 400px;"
+ src="/images/vol-9-issue-3/communal-feeding/C1.jpg">
 <div style="background-color: white;">Children's Feeding Centre located at Clyde Terrace in 1947. <i>Courtesy of Ministry of Communication and Information. </i></div>
 
 These seemingly rosy statistics, while showing that more children were helped via the programme, tell only half the story. As the scheme lacked financial support, child feeding efforts throughout the British Military Administration (BMA) period remained small. Both military and civil governments had initially perceived the child feeding scheme as temporary. In mid-1946, meals for school-going children, already limited to a small number of schools, were so threatened that direct appeals were made to the British Prime Minister.[^44] Problems continued even after the Social Welfare Department took over.
