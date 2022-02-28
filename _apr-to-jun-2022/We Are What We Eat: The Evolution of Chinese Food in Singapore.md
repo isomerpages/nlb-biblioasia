@@ -79,7 +79,7 @@ As different cultures continue to meet, interact and learn from each other in Si
 
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">
 Many of the hawker dishes mentioned are featured in the Singapore Chinese Cultural Centre’s permanent exhibition, “SINGAPO人 – Discovering Chinese Singaporean Culture”. <br><br>
-<b>For more information, visit <a href="https://singaporeccc.org.sg/permanent-exhibition/"> https://singaporeccc.org.sg/permanent-exhibition/</a>.</b>
+For more information, visit <a href="https://singaporeccc.org.sg/permanent-exhibition/"> https://singaporeccc.org.sg/permanent-exhibition/</a>.
 </div>
 	
 <div style="background-color: white;">
