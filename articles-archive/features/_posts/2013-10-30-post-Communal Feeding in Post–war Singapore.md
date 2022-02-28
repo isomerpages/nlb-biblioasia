@@ -93,14 +93,6 @@ Rice; braised pork (Chinese styLe) or fish; special mixed <i>chup chye</i>; cucu
 Rice porridge (<i>bubor</i>); meat balls and salted vegetables with garnishment<br>
 Rice; beef stew and green peas or beef curry; marrow and <i>chye sim</i><br></div>
  
-<img src="/images/vol-9-issue-3/communal-feeding/C5.JPG">
-<div style="background-color: white;"> Children feeding centres were renamed as Children's Social Centres and provided children 
-with elementary education besides other activities (1952). <i>MITA collection, courtesy of National Archives of Singapore.
-</i></div>
-<br>
-<img src="/images/vol-9-issue-3/communal-feeding/C6.JPG">
-<div style="background-color: white;"> Children feeding centres were set up in a bid to provide adequate nutrition for children (1952). <i>MITA collection, courtesy of National Archives of Singapore.</i></div>
- 
 The response of the general public was more mixed. Some were pleased with the initiative and asked for similar restaurants to be opened in their vicinity; one asked for a 40-cent meal with more rice and food;[^31] others voiced their suspicions about government profiteering.[^32] The public also wrote several letters to the Social Welfare Department, pointing out gaps in service.
 
 By April 1947, the Social Welfare Department felt confident enough to announce the success of its feeding schemes.[^33] In June 1947, the Department introduced 50-cent lunches, in addition to the 30- or 35-cent versions, to meet increasing demand for meals with larger quantities and better ingredients as the economic situation eased.[^34] The demand was a clear signal that the hungry customer with spending power wanted more than the Department's inexpensive but limited meal options.
@@ -125,6 +117,9 @@ These seemingly rosy statistics, while showing that more children were helped vi
 
 From the start, McNeice was not keen on taking over the scheme as the government could not guarantee the necessary funds. The first child feeding centre was to open in November 1946, but it only commenced operations two months later as uncertainty over funding led McNeice to put the entire scheme on hold.[^45] When the funds were eventually approved, the amount provided was only enough for children aged between two and six, excluding infants and school-going children.[^46] Even then, the meals could only be given to children whose families were already receiving assistance from the Social Welfare Department. Money was tight and the post-war rehabilitation of Singapore was costly. The creation of new government departments, such as the Social Welfare Department and its services, came under some scrutiny and even criticism towards the end of 1946.[^47]
 
+<img src="/images/vol-9-issue-3/communal-feeding/C6.JPG">
+<div style="background-color: white;"> Children feeding centres were set up in a bid to provide adequate nutrition for children (1952). <i>MITA collection, courtesy of National Archives of Singapore.</i></div>
+
 Despite the obstacles, the Department succeeded in establishing over 20 children feeding centres by the end of 1947, aided by the central kitchens supporting the communal feeding programme. The meals were “prepared according to the specifications provided by the Professor of Bio-Chemistry of the College of Medicine.”[^48] Each meal usually consisted of rice, green peas, green vegetables and ikan bilis (dried anchovies) and was supplemented by milk and fresh fruit.[^49] The centres were slightly different from the People’s and Sponsored Restaurants. Unlike the latter, the children feeding centres were managed by volunteers, mostly women. A core group, made up of the spouses of British officials and local elites, was led by Lady Dorothy Gimson, wife of the Governor of Singapore. Volunteers also came from the Chinese community, such as the Singapore Women Federation, Singapore Chinese Women Association and Singapore Women Mutual Aid Association of Victims’ Families. Other volunteers also came forward in their personal capacities, offering their residences as feeding centres.[^50] 
 
 <img style="width: 650px; height: 400px;"
@@ -138,7 +133,12 @@ All centres were visited by a team of two female medical doctors to observe and 
 <img src="/images/vol-9-issue-3/communal-feeding/C7.JPG">
 <div style="background-color: white;">Christmas celebration at a Children's Social Centre in 1950. <i>MITA collection, courtesy of National Archives of Singapore.</i></div>
 
-The nature and purpose of the feed¬ing centres themselves also evolved. Volunteers at several centres introduced various social and educational activi¬ties to keep over-aged kids who did not qualify for the free meals occupied so as to not disrupt the centre.[^56]  Such ac¬tivities were planned and managed by a committee of lady volunteers led by Lady Gimson. The committee also raised funds to pay for manpower, equipment and programmes, beyond what the Social Welfare Department could provide. From January 1948, the centres were renamed Children Social Centres, as the centres began providing "elementary education in English and Chinese" and a host of hand¬icraft and artwork activities.[^57]  
+The nature and purpose of the feeding centres themselves also evolved. Volunteers at several centres introduced various social and educational activi¬ties to keep over-aged kids who did not qualify for the free meals occupied so as to not disrupt the centre.[^56]  Such ac¬tivities were planned and managed by a committee of lady volunteers led by Lady Gimson. The committee also raised funds to pay for manpower, equipment and programmes, beyond what the Social Welfare Department could provide. From January 1948, the centres were renamed Children Social Centres, as the centres began providing "elementary education in English and Chinese" and a host of hand¬icraft and artwork activities.[^57]  
+
+<img src="/images/vol-9-issue-3/communal-feeding/C5.JPG">
+<div style="background-color: white;"> Children feeding centres were renamed as Children's Social Centres and provided children 
+with elementary education besides other activities (1952). <i>MITA collection, courtesy of National Archives of Singapore.
+</i></div>
 
 In 1948, the number of children be-low school-going age - the target group of the scheme - benefitting from the programme fell from over 750,000 in 1947 to below 500,000.[^58]  In the same year, the Social Welfare Department began winding down its communal feeding programme, which officially ended in August 1948. At the same time, the fleet of mobile canteens was also reduced, re¬sulting in a decrease in the number of children that could be reached. Out of the over 20 feeding centres, only four allowed children to consume their meals in them, while the other centres were supplied by mobile canteens. The loss of mobile can¬teens made it inconvenient for moth¬ers to bring their children to the "static" centres - some of which were quite a distance from their homes - for only a few hours.
 
