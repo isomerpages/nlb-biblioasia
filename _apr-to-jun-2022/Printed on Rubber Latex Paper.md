@@ -15,7 +15,7 @@ During the British Empire Exhibition held at Wembley Park, England, from 23 Apri
 
 The agency was set up in 1910 as the Malay States Development Agency, which was renamed Malay States Information Agency the next year. Its mission was to provide information to prospective investors to boost land cultivation and trade in British Malaya. Through various public relations initiatives, advertisements and exhibitions, Malaya’s primary produce like rubber, coconut, pineapple and gambier and minerals such as tin were made known to the British Empire and the world. In 1928, the agency was renamed yet again as the Malayan Information Agency and occupied a building called Malaya House in London’s Trafalgar Square. 
 
-![](/images/Vol%2018%20Issue%201/Rubber%20Latex%20Paper/Malaya%20House_edit.png)
+![](/images/Vol%2018%20Issue%201/Rubber%20Latex%20Paper/Malaya%20House_edit2.png)
 <div style="background-color: white;"> A sketch of Malaya House in Trafalgar Square, London. The building housed the Malayan Information Agency. <i>Image reproduced from British Malaya: General Description of the Country and Life Therein (London: Malayan Information Agency, 1932), back cover. (From National Library, Singapore, Call no. RCLOS 959.5 MAL).
 </i></div>
 
