@@ -74,11 +74,11 @@ If the VIPs wish to grow their namesake orchid in their home country, the Singap
 
 After being presented with their namesake orchids, dignitaries may go on to view other VIP orchids of significance to them. Following the unveiling of the *Vanda* William Catherine (*Vanda* First and Last × *Vanda* Motes Toledo Blue), Britain’s Prince William and Catherine, the Duchess of Cambridge, viewed the *Dendrobium* Elizabeth (*Dendrobium* Mustard × *Dendrobium* Noor Aishah; Noor Aishah is the wife of Singapore’s first president, Yusof Ishak) and the *Dendrobium* Memoria Princess Diana, named after Prince William’s grandmother and late mother respectively. Singapore was the royal couple’s first stop in their Asia-Pacific tour to commemorate Queen Elizabeth’s Diamond Jubilee in 2012.[^27]
 
+Dignitaries may also enjoy other aspects of the Botanic Gardens during their visit. In November 2015, after the *Papilionanda* Xi Jinping-Peng Liyuan (*Vanda* Kulwadee Fragrance × *Papilionanthe* Miss Joaquim) was named in honour of the Chinese President and his wife, the couple enjoyed a four-course lunch at the Corner House restaurant in the Botanic Gardens. They were hosted by Prime Minister Lee Hsien Loong and his wife Ho Ching. The orchid has pink petals with fine red spots, an orangey-red prominent lip with dark red markings, and an orangey-yellow centre.[^28]
+
 ![](/images/Vol%2018%20Issue%201/Orchid%20Diplomacy/xijinping_ed.png)
 <div style="background-color: white;">The <i>Papilionanda</i> Xi Jinping-Peng Liyuan was named in honour of the Chinese President and his wife in 2015. <i> Image reproduced from Rachel Au-Yong, “Orchid Hybrid Named After Chinese President and Wife,” Straits Times, 8 November 2015, 7. (From NewspaperSG).
 </i></div>
-
-Dignitaries may also enjoy other aspects of the Botanic Gardens during their visit. In November 2015, after the *Papilionanda* Xi Jinping-Peng Liyuan (*Vanda* Kulwadee Fragrance × *Papilionanthe* Miss Joaquim) was named in honour of the Chinese President and his wife, the couple enjoyed a four-course lunch at the Corner House restaurant in the Botanic Gardens. They were hosted by Prime Minister Lee Hsien Loong and his wife Ho Ching. The orchid has pink petals with fine red spots, an orangey-red prominent lip with dark red markings, and an orangey-yellow centre.[^28]
 
 ![](/images/Vol%2018%20Issue%201/Orchid%20Diplomacy/Xi%20Jinping-Peng%20Liyuan.png)
 <div style="background-color: white;">The <i>Papilionanda</i> Xi Jinping-Peng Liyuan has pink petals with fine red spots, an orangey-red prominent lip with dark red markings, and an orangey-yellow centre. <i>Photo by and courtesy of Jimmy Yap.</i></div>
