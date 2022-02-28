@@ -81,17 +81,17 @@ Rice; fish curry; or <i>masak asam</i>; saLad (cucumber, <i>kangkong</i>); tomat
 Rice; chicken or rabbit stew or chicken <i>kruma</i>; yam beans and <i>chye huay</i><br>
 <i>Hokkien mee</i>; beef soup; prawns; brown fried onions; green chiLLi;<br>
 bean sprouts; water cress<br>
-Rice; fried Liver or Liver curry; pak choy; green peas, tomatoes;
+Rice; fried Liver or Liver curry; <i>pak choy</i>; green peas, tomatoes;
 peanut butter; gravy<br>
-Fried noodLes; beef stew and fried prawns; choy sim and towgay<br>
+Fried noodLes; beef stew and fried prawns; <i>choy sim</i> and <i>towgay</i><br>
 Rice, roast chicken or turkey or chicken curry, Long beans, spinach<br>
-Rice, beef and onions with garnishment, bayam, and green pea sprouts<br>
-Fried noodLes, fried pork and prawns, towgay, fried onions, koo chye,<br>
-chew chow and choy sim<br>
+Rice, beef and onions with garnishment, <i>bayam</i>, and green pea sprouts<br>
+Fried noodLes, fried pork and prawns, <i>towgay</i>, fried onions, <i>koo chye</i>,<br>
+<i>chew chow</i> and <i>choy sim</i><br>
 Rice, steamed or fried fish; onions; tomatoes, spinach<br>
-Rice; braised pork (Chinese styLe) or fish; speciaL mixed chup chye; cucumbers<br>
-Rice porridge (bubor); meat baLLs and saLted vegetabLes with garnishment<br>
-Rice; beef stew and green peas or beef curry; marrow and chye sim<br></div>
+Rice; braised pork (Chinese styLe) or fish; speciaL mixed <i>chup chye</i>; cucumbers<br>
+Rice porridge (<i>bubor</i>); meat baLLs and saLted vegetabLes with garnishment<br>
+Rice; beef stew and green peas or beef curry; marrow and <i>chye sim</i><br></div>
  
 <img src="/images/vol-9-issue-3/communal-feeding/C5.JPG">
 <div style="background-color: white;"> Children feeding centres were renamed as Children's Social Centres and provided children 
