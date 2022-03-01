@@ -167,7 +167,7 @@ In this particular case, civil society not only played a practical role (providi
 <div>
 <b>Ho Chi Tim</b> was a Lee Kong Chian Research Fellow at the National Library in 2012. He graduated with a BA and MA from the Department of History, National University of Singapore. He is presently a Ph.D candidate with the Department of History, University of Hawai’i at Mānoa. His dissertation examines the historical development of social welfare in colonial Singapore.</div>
 
-<a href="https://biblioasia.nlb.gov.sg/vol-9/issue-3/oct-dec-2012/"><center>Back to Issue</center></a>
+<a href="https://biblioasia.nlb.gov.sg//vol-9/issue-3/oct-dec-2013/"><center>Back to Issue</center></a>
 
 #### **References**
 
