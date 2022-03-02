@@ -14,11 +14,11 @@ layout: post
 
 Research into Singapore's food heritage often neglects the unusually rich minefield of data found in newspapers. NewspaperSG, the National Library's digital archive of local newspapers dating from 1831, provides easy access to a fascinating wealth of information found in otherwise banal resources such as news articles and columns, recipes, restaurant reviews, and even advertisements.
 
-The history of <i>belacan</i>, a local condiment, and curry puff[^1], a popular snack, is traced in this article, pieced together from reports taken from digitised English newspapers in Malaya during the interwar period. These newspaper reports unveil the faces and flavours behind these local foods, their evolution through racial adaptations and their colloqualisation into place names and language.
+The history of <i>belacan</i>, a local condiment, and curry puff,[^1] a popular snack, is traced in this article, pieced together from reports taken from digitised English newspapers in Malaya during the interwar period. These newspaper reports unveil the faces and flavours behind these local foods, their evolution through racial adaptations and their colloqualisation into place names and language.
 
 #### **Food Reporting During Colonial Times**
 
-World War I saw a spike in marriage rates in Europe and a large number of women entering the workforce, a trend echoed in the expatriate community in Malaya.[^2] As more expatriate women, both married as well as working singles, settled in Malaya after World War I[^3], the local culinary scene and, subsequently, newspapers began reflecting the interests and concerns of this new audience. 
+World War I saw a spike in marriage rates in Europe and a large number of women entering the workforce, a trend echoed in the expatriate community in Malaya.[^2] As more expatriate women, both married as well as working singles, settled in Malaya after World War I,[^3] the local culinary scene and, subsequently, newspapers began reflecting the interests and concerns of this new audience. 
 
 Where previously, articles on cooking and food in the newspapers mainly referenced the cook employed in the home, by the mid-1930s, regular columns in the English dailies that targeted women and their newfound spending power had started appearing. Thus, <i>The Straits Times</i> published "The World of Women"[^4] column in January 1935 which evolved into the "Women's Supplement"[^5] while <i>The Malayan Saturday Post</i> ran a page entitled "A Woman's Viewpoint". 
 
