@@ -266,7 +266,7 @@ The British Newspaper Archive.
 
 [^30]: Neo, L. (1980, July 12). [Curry puffs from old man Chang in Albert Street](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19800712-1.2.124.9). <i>The Straits Times</i>, p. 7. Retrieved from NewspaperSG.
 
-[^31]: *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19800712-1.2.124.9), 12 Jul 1980, p. 4.
+[^31]: *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19800712-1.2.124.9)*, 12 Jul 1980, p. 4.
 
 [^32]: Chan, M. (1982, December 26). [Stroll down Kali Pup lane](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19821226-1.2.51). <i>The Straits Times</i>, p. 16. Retrieved from NewspaperSG.
 
