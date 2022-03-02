@@ -25,6 +25,6 @@ description: ""
 
 [<b>Remembering John Turnbull Thomson</b>](/vol-10/issue-2/jul-sep-2014/john-turnbull-thomson)<br><i>Timothy Pwee</i> introduces the life, times and works of John Turnbull Thomson, engineer, painter, Government Surveyor and Superintendent of Public Works of Singapore.[(PDF)](/files/pdf/vol-10/issue-2/v10-issue2_JohnTurnbull.pdf)
 
-[<b>邱菽园与晚清政府四位福建籍高官的交往</b>](/vol-10/issue-2/jul-sep-2014/fu-jian-gao-guan)<br><i>张人凤</i>，1940年生，曾长期从事继续教育工作，现为上海市文史研究馆馆员；著有《张元济年谱长编》、《智民之师张元济》、《张元济研究文集》，编有十卷本《张元济全集》。[(PDF)](/files/pdf/vol-10/issue-2/v10-issue2_Chinese.pdf)
+[<b>邱菽园与晚清政府四位福建籍高官的交往</b>](/vol-10/issue-2/jul-sep-2014/fu-jian-gao-guan)<br><i>张人凤</i>，1940年生，曾长期从事继续教育工作，现为上海市文史研究馆馆员；著有《张元济年谱长编》、《智民之师张元济》、《张元济研究文集》，编有十卷本《张元济全集》。<i>Professor Zhang Renfeng</i> pieces together the lives of the Fujian people and the helping hand offered by the Overseas Chinese to their homeland through letters between poet Khoo Seok Wan and Chinese officials from Fujian, China.[(PDF)](/files/pdf/vol-10/issue-2/v10-issue2_Chinese.pdf)
 
 [<b>Dr Carl Schoonover on Being S.U.R.E</b>](/vol-10/issue-2/jul-sep-2014/carl-schoonover-nlb-info-literacy)<br>In this exclusive interview, <i>Dr Carl Schoonover</i> shares how the brain processes information and the importance of Information Literacy and the S.U.R.E. ways in the corroboration of information and data.[(PDF)](/files/pdf/vol-10/issue-2/v10-issue2_CarlSchoonover.pdf)
