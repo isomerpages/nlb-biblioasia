@@ -240,11 +240,11 @@ The British Newspaper Archive.
 
 [^17]: [Distressful Malacca](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19100512-1.2.42). (1910, May 12). <i>The Singapore Free Press and Mercantile Advertiser</i>, p. 5. Retrieved from NewspaperSG.
 
-[^18]: Twentieth century newspaper articles still refer to the more economically established local Eurasians as ‘grago’ though in a less contemptuous fashion.
+[^18]: Twentieth century newspaper articles still refer to the more economically established local Eurasians as ‘<i>grago</i>’ though in a less contemptuous fashion.
 
 [^19]: [A Kelantan Malay on Asiatics](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19500803-1.2.93.1). (1950, August 3). <i>The Straits Times</i>, p. 6. Retrieved from NewspaperSG.
 
-[^20]: Abdul Ghani Hamid. (2003, July 17). [Belacan dulu, belacan hari ini](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian20030717-1.2.21.2). </i>Berita Harian</i>, p. 9. Retrieved from newspaperSG.
+[^20]: Abdul Ghani Hamid. (2003, July 17). [Belacan dulu, belacan hari ini](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian20030717-1.2.21.2). <i>Berita Harian</i>, p. 9. Retrieved from newspaperSG.
 
 [^21]: Boey, S. (1971, June 30). [Red camp where blachan bombs were made](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710630-1.2.101). <i>The Straits Times</i>, p. 19. Retrieved from NewspaperSG.
 
