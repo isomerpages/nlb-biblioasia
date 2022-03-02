@@ -36,11 +36,6 @@ Both Indians and Indonesians have no difficulty recruiting people to die for the
 <img src="/images/vol-10-issue-2/singaporean/hospital.jpg" style="width:70%;">
 Medical staff at the General Hospital attending to racial riot victims in 1964. <i>MITA collection, courtesy of National Archives of Singapore.</i></div>
 
-<div style="background-color: white;">
-<br/>
-<img src="/images/vol-10-issue-2/singaporean/on_road.jpg" style="width:70%;">
-Row of shophouses along Onan Road in 1983. This multiracial neighbourhood in the East Coast was where the author spent his formative years. <i>From the Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009.</i></div>
-
 #### **Poor But Happy Community**
 
 Singapore does not belong to any of these three categories. Virtually everyone knows that Singapore is an accidental nation. Yet few seem to be conscious of how difficult it is to create a sense of national identity out of an accidental nation.
@@ -58,6 +53,11 @@ We lived together almost as one family. Just beyond them were two Chinese famili
 Hence, in the space of seven or eight houses, we could see almost the full spectrum of Singapore’s ethnic composition living cheek by jowl with each other.
 
 And we lived with deep ethnic harmony. At the height of the racial riots in 1964, even though one of my Malay neighbours returned home badly bruised and bloodied after being beaten by a Chinese mob, the ethnic harmony of our Onan Road community was never shaken. We saw ourselves as belonging to one community despite our ethnic and religious diversity.
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-2/singaporean/on_road.jpg" style="width:70%;">
+Row of shophouses along Onan Road in 1983. This multiracial neighbourhood in the East Coast was where the author spent his formative years. <i>From the Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009.</i></div>
 
 #### **Natural, Artificial Harmony?**
 
