@@ -102,9 +102,11 @@ New avenues are provided for aspiring hawkers. In 2013, Singapore’s Work Devel
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
 <b>THE GENESIS OF THE MODERN FOOD COURT</b><br><br>
-	<img src="/images/vol-9-issue-3/Hawkers/H9.png">
+	<img src="/images/vol-9-issue-3/Hawkers/H9.png">The Food Republic at Wisma Atria boasts 23 food stations and three mini restaurants in a 23,000 square foot space. <i>Image courtesy of Food Republic.</i><br><br>
+	As the construction of new hawker centres came to a halt, private food operators began setting up food courts. To differentiate themselves from hawker centres, food courts were air-conditioned. The first of its kind was the well known Picnic Food Court, set up in 1985 in the basement of Scotts Shopping Centre along Scotts Road.41 Since then, such air-conditioned food courts have sprouted in many shopping centres, business parks, tertiary institutions and hospitals.<br><br>
+Other than air-conditioning, there are a number of marked differences between hawker centres and food courts. In hawker centres, the stallholders are individual tenants whereas a single operator manages the food court and rents out the stalls. Invariably, the food prices in food courts are higher too. Unfortunately, in many cases, food court fare tends to be slightly characterless thanks to the mass-produced standard recipes that these vendors use compared to rough and tumble hawker centres where one might find older hawkers who have been honing their craft for several decades using carefully guarded recipes. To be fair, however, such hawkers are a dying breed, and their children are not eager to take over the long hours and sweaty work that the job demands.<br><br>
+Cutlery and uniforms used in food courts also tend to be standard issue, and many food court operators employ a common design theme to brand their food court chains. Major food court operators in Singapore include Food Republic, Food Junction, Kopitiam and Koufu. Food Republic at Wisma Atria for instance has a 1960s-theme complete with old furniture and stalls operating from pushcarts; another of its outlets at Suntec City Convention Centre was designed around the concept of a White Garden.
 </span>
-
 <br>
 <div style="background-color: white;">
 <img src="/images/Vol-14-issue-4/bridging-history-pswy-ars-wtr/LTS.JPG" style="width: 100px; height: 100px;">
@@ -112,3 +114,68 @@ New avenues are provided for aspiring hawkers. In 2013, Singapore’s Work Devel
 </div>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-9/issue-3/oct-dec-2013/"><center>Back to Issue</center></a>
+
+#### **REFERENCES**
+
+“20,000 Hawkers Defy The Law”. (1949, October 3). The Straits Times, p. 3.
+
+“7,000 unlicensed hawkers resited since 1968”. (1975, August 12). The Straits Times, p. 11.
+
+Bartley, W. (1932). Report of the Committee Appointed to Investigate the Hawker Question in Singapore. Singapore: Govt. Print. Off. Call No.: RARE 331.798095957 SIN
+
+Cameron, J. (1865). Our tropical possessions in Malayan India. London: Smith, Elder and Co. [Reprinted 1965, Kuala Lumpur: Oxford University Press.]. Call No.: RARE 959.5 CAM
+
+Cheung, H. (2013, May 16) Can Singapore's hawker food heritage survive? BBC News. Retrieved from http://www.bbc.co.uk/news/world-asia-22506475 
+
+“City opens hawker war”. (1953, October 13). The Straits Times, p. 7. Commission on hawkers appointed”. (1950, April 18). The Singapore Free Press, p. 6.
+ 
+Feng, Z. (2013, January 11). “2 bodies to start training would-be hawkers”. The Straits Times.
+
+“Hawker centres or shocker centres?” (1985, October 6). The Straits Times, p. 2.
+
+“Hawkers draw up ‘charter’ to guard rights of 30,000”. (1958, September 21). The Straits Times, p. 7.
+
+Hawkers Inquiry Commission. (1950). Report of the Hawkers Inquiry Commission. Singapore: Govt. Print. Off. Call No.: RCLOS 331.798095957 SIN
+
+“Hawkers worried about grading”. (1998, April 17). The Straits Times, p. 44.
+
+“Health Ministry committee to plan hawker centres”. (1971, August 23). The Straits Times, p. 11.
+
+“Health Officers alarmed at dangers”. (1957, January 7). The Singapore Free Press, p. 2.
+
+“Hot debate expected on expansion of Markets Department”. (1958, May 29). The Singapore Free Press, p.7.
+
+Kong, L. (2007). Singapore hawker centres: people, places, food. Singapore: National Environment Agency. Call No.: RSING 381.18095957 KON
+
+Kwek, M. L. (2004). “Singapore: A Skyline of Pragmatism”. In Bishop, R., et. al. (Eds.). Beyond Description: Singapore Space Historicity. London: Routledge, p. 118. Call No.: RSING 307.1216095957 BEY
+
+Markets and Hawkers Department. (1957). Annual report of the Markets and Hawkers Department 1957. Singapore: The Council.
+Call No.: RARE 388.31 SIN
+
+“Minister suggests: Sell city as a food paradise”. (1994, July 2). The Straits Times, p. 31.
+
+“Mr Leow wants big space”. (1953, December 19). The Straits Times, p. 5.
+
+“New Ministry’s $5m plan for hawker resettlement”. (1972, September 25). The Straits Times, p. 19.
+
+“No new licences for hawkers’ policy won't be relaxed: Kim San”. (1973, March 14). The Straits Times, p. 6.
+
+Simpson, W. J. (1907). Report on the sanitary condition of Singapore. London: Waterlow & Sons.
+
+Siong, O. (2013, April 7). “Hawkers cautious about sharing ‘trade secrets’ at proposed training institute”. Channel News Asia. Retrieved from http://www. channelnewsasia.com/news/singapore/hawkers-cautious-about-sharing-trade-sec/630032.html. 
+
+“Singapore are the biggest spenders in Asia-Pacific for dining: Survey.” (2013, May 8). The Straits Times.
+
+Singapore Municipality. (1896). Administration report of the Singapore Municipality for the year 1895. Singapore: Franser & Neave Limited. Call No.: RARE 352.05951 SIN
+
+“Street Hawking Nuisance”. (1905, October 12). Eastern
+Daily Mail and Straits Morning Advertiser, p.2.
+
+Tan, W. J. (1971, August 27). “2 super hawker centres for
+the city”. The Straits Times, p. 26. “The last hawkers to be re-sited”. (1986, April 29). The Straits Times, p. 21.
+
+Town Cleansing Department. (1948). Annual report 1948. Singapore: Govt. Print. Off. Call No.: RARE 352.4 SIN
+
+Wong, H. S. (2007). “A taste of the past: historically themed restaurants and social memory in Singapore”. In Cheung, S. C. H. & Tan, C. B. (Eds). Food and Foodways in Asia: Resource, Tradition and Cooking. London: Routledge, p.124. Call No.: RSING 394.12095 FOO
+
+Yeoh, B. S. A. (2003). Contesting Space in Colonial Singapore: Power Relations and the Urban Built Environment. Singapore: Singapore University Press. Call No.: RSING 307.76095957 YEO
