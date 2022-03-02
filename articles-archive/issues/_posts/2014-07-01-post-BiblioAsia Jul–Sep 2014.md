@@ -19,7 +19,7 @@ description: ""
 
 [<b>Chinese Clan Associations in Singapore: Then and Now</b>](/vol-10/issue-2/jul-sep-2014/chinese-clan-sg)<br>Chinese clan associations in Singapore date back to the time of Stamford Raffles. <i>Lee Meiyu</i> shows us how the functions of clan associations have changed over the years according to the needs of the local Chinese community as well as changes in state policy.[(PDF)](/files/pdf/vol-10/issue-2/v10-issue2_ChineseClan.pdf)
 
-[<b>A Quiet Revolution: Women and Work in Industrialising Singapore</b>](/vol-10/issue-2/jul-sep-2014/a-quiet-revolution)<br>The role of women in Singapore’s nation-building efforts in the post-Independence years is sometimes overlooked. <i>Janice Loo</i> examines the impact that women have had on the nation’s development.[(PDF)](/files/pdf/vol-10/issue-2/v10-issue2_QuietRevolution.pdf)
+[<b>A Quiet Revolution: Women and Work in Industrialising Singapore</b>](/vol-10/issue-2/jul-sep-2014/nation-building-women-singapore)<br>The role of women in Singapore’s nation-building efforts in the post-Independence years is sometimes overlooked. <i>Janice Loo</i> examines the impact that women have had on the nation’s development.[(PDF)](/files/pdf/vol-10/issue-2/v10-issue2_QuietRevolution.pdf)
 
 [<b>Standing Firm: Stories of Ubin</b>](/vol-10/issue-2/jul-sep-2014/stories-of-ubin)<br>Apart from being an escape from the hubbub of city life, Pulau Ubin is home to a small but dwindling number of Singaporeans. <i>Ang Seow Leng</i> sheds some light on life on the island.[(PDF)](/files/pdf/vol-10/issue-2/v10-issue2_StoriesUbin.pdf)
 
