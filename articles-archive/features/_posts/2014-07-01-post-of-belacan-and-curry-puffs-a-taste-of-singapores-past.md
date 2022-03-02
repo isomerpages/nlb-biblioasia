@@ -212,9 +212,9 @@ The British Newspaper Archive.
 
 [^3]: [Butcher](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1901870), 1979, p. 134.
 
-[^4]: This column seemed to have begun on January 10, 1935 with a half-page but soon expanded to a full page.
+[^4]: This column seemed to have begun on 10 January 1935 with a half-page but soon expanded to a full page.
 
-[^5]: This continued the weekly Thursday column which was expanded into a four-page supplement first released on January 16, 1936.
+[^5]: This continued the weekly Thursday column which was expanded into a four-page supplement first released on 16 January 1936.
 
 [^6]: Granted the main targets for the “grow more food” campaigns were local farmers, but there are articles that appeal to the Malayan to venture growing his own food such as [Vegetables and “Grow More Food” campaign](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19400212-1.2.45). (1940, February 12). <i>The Singapore Free Press and Mercantile Advertiser</i>, p. 5; [Changkol for victory](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19400810-1.2.58). (1940, August 10). <i>The Singapore Free Press and Mercantile Advertiser</i>, p. 4. Retrieved from NewspaperSG.
 
