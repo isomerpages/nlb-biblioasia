@@ -62,6 +62,11 @@ Apart from his award-winning literary pursuits, Goh worked as a medical practiti
 <img src="/images/vol-10-issue-2/homeandaway/Profile_Goh_Poh_Seng.jpg" style="width:80%;">
 Goh Poh Seng was deeply involved in the development of Singapore’s arts and culture scene. <i>Courtesy of Tribute.sg, an initiative by Esplanade – Theatres on the Bay and the Goh family.</i></div>
 
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-2/homeandaway/singapore_river.jpg" style="width:70%;">
+The Singapore River after the removal of river craft such as <i>tongkangs</i> in 1984. Goh Poh Seng was involved in the redevelopment of Boat Quay in the 1980s. Today, the gentrified Boat Quay is a hub of bars, restaurants and cafés. <i>Ronni Pinsler collection, courtesy of National Archives of Singapore.</i></div>
+
 Goh’s interests were not confined to just the highbrowed and cerebral. As a visionary cultural entrepreneur, Goh led the Boat Quay Conservation Scheme in the 1980s and crafted a blueprint for the development of Boat Quay into a vibrant lifestyle and entertainment area while preserving the historical buildings along the Singapore River. He also established Bistro Toulouse-Lautrec, a fashionable poetry-and-jazz café, and trendy Rainbow Lounge, Singapore’s first live disco and music venue.
 
 Goh received the Cultural Medallion Award for Literature in 1982. In 1986, Goh and his family emigrated to Canada. While the reason for his abrupt departure from Singapore is well documented in newsprint – an alleged risqué remark made by a member of the house band at Rainbow Lounge led to the shutdown of the popular nightspot and heavy financial losses followed[^10] – the private strain of uprooting oneself from a much-beloved home and starting over in new country became apparent in several poignant stanzas of his later poetry.
@@ -83,11 +88,6 @@ Where Goh’s travels had previously served as a catalyst for artistic change an
 More importantly, the suffocating and restless anxiety looming over his earlier protagonists in <i>If We Dream Too Long</i> and <i>Dance of Moths</i> gives way to a tranquil optimism in <i>Dance with White Clouds</i>, as seen through the unnamed wealthy but ageing protagonist’s sense of equilibrium and equanimity during a moment of spiritual epiphany – a departure from the somewhat pessimistic plots of his earlier novels:[^14]
 
 Then, during one night of night-long rain, alone in his room, listening to the monotonous drumming, to the anxious wind flapping the blind against the window sill, he found what he was looking for. He suddenly understood that there indeed was nothing to understand, that this was what all the wise men and sages of all the ages, what all the poets from time immemorial railed against, lamented – that there was nothing to understand, that it was impossible to know the unknowable...In extension, he had been wrong to feel that he had squandered his life, that it had been badly lived, that he had failed. Indeed, he had tried to love the whole world, and it was all right to live a life burdened with the love of family, children, friends, strangers. That night, he lost his fear, his anguish.
-
-<div style="background-color: white;">
-<br/>
-<img src="/images/vol-10-issue-2/homeandaway/singapore_river.jpg" style="width:70%;">
-The Singapore River after the removal of river craft such as <i>tongkangs</i> in 1984. Goh Poh Seng was involved in the redevelopment of Boat Quay in the 1980s. Today, the gentrified Boat Quay is a hub of bars, restaurants and cafés. <i>Ronni Pinsler collection, courtesy of National Archives of Singapore.</i></div>
 
 In a 2007 news article about Goh’s visit to Singapore for the first time in 21 years following his move to Canada, he was quoted as saying that he would have taken like a “duck to water” when asked if he could ever live in Singapore again.[^15] This was as fitting a denouement as one could expect for a diasporic homegrown writer who has left an indelible imprint on the nation’s works-in-progress mapping of its literary and cultural boundaries. 
 
