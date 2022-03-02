@@ -6,7 +6,6 @@ image: /images/vol-10-issue-2/nationalday/National_Day_Parade.jpg
 layout: post
 description: ""
 ---
-
 #### National Day parades have been a ubiquitous part of Singapore’s National Day celebrations since Independence. **Lim Tin Seng** delves into its history, its significance and its evolution.
 
 <div style="background-color: white;">
@@ -20,7 +19,7 @@ Besides the NDP, a series of ancillary National Day events such as community act
 
 #### **National Day Parades**
 
-Every NDP is marked by military and civilian processions, mass cultural performances, grand parades of the national colours and spectacular fireworks displays. Singapore has enjoyed a series of majestic visual spectacles of parades since its colonial days where grand receptions were held regularly to celebrate the birthdays and coronations of the British monarchs.[^1] However, what sets the parades of both eras apart are their significance: colonial parades were held to celebrate the might of the British Empire; NDPs are orchestrated to highlight the aspirations and ideals of the fledgling nation to the people.
+Every NDP is marked by military and civilian processions, mass cultural performances, grand parades of the national colours and spectacular fireworks displays. Singapore has enjoyed a series of majestic visual spectacles of parades since its colonial days where grand receptions were held regularly to celebrate the birthdays and coronations of British monarchs.[^1] However, what sets the parades of both eras apart are their significance: colonial parades were held to celebrate the might of the British Empire; NDPs are orchestrated to highlight the aspirations and ideals of the fledgling nation to the people.
 
 NDPs of the immediate post-independence years aimed to instil a sense of pride and responsibility in the people as citizens of a new nation.[^2] To the government, this meant building a “rugged society”, or as then Prime Minister Lee Kuan Yew envisaged, a generation of people who are hardworking, self-sacrificing and willing to live a lean, hard life for the country.[^3] In line with this, the NDPs of the 1960s articulated themes such as “Rugged and Vigorous Singapore” (1967), “Rugged Society” (1968), and “Youth and Discipline” (1969).[^4] Ironically, the 1968 parade’s theme of ruggedness was portrayed literally as it carried on despite a fierce thunderstorm. The experience was so enduring that television broadcasting station, Mediacorp, produced a drama series in 2012 based on the episode.[^5] The 1969 parade was equally inspiring as the first mobile column comprising 18 AMX-13 tanks joined the march-past. As Singapore was the first country in the region to acquire such military hardware, it conveyed the message that Singapore was not going to be cowed by its stronger neighbours in the region.[^6]
 
