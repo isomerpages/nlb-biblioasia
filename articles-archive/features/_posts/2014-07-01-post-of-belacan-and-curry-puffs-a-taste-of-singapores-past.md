@@ -95,7 +95,7 @@ In exploring iconic local dishes, newspaper articles help paint a multi-dimensio
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-10-issue-2/belacanandcurrypuff/filling_and_sealing.jpg" style="width:70%;">
-Workers filling and sealing curry puffs to be baked and sold. <i>Image from currypuff.com, all rights reserve.</i></div>
+Workers filling and sealing curry puffs to be baked and sold. <i>Image from currypuff.com, All rights reserved.</i></div>
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> 
 <b>STEPPING ON IT</b>
 <br><br>
