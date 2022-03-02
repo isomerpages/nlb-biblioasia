@@ -70,14 +70,12 @@ Founder of Polar Cafe, Chan Hinky, arrived in Singapore in the early 20th centur
 <img src="/images/vol-10-issue-2/belacanandcurrypuff/polar_cafe.jpg" style="width:70%;">
 The original Polar Cafe was located along High Street in the 1920s and popular with those who frequented the area. <i>Courtesy of Polar Puffs & Cakes Pte Ltd.</i></div>
 
-By the 1980s, frozen versions of this baked curry puff were being mass produced for sale, and included exotic variations such as the black pepper chicken puff. These Western curry puffs were shaped and served as pies, with hot meat and potato filling encased in flaky puff pastry and eaten in a restaurant setting. Today, these trademark snacks known as “Polar puffs” come with a variety of fillings and are sold everywhere in Singapore, including petrol stations, convenience stores and supermarkets. 
-
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-10-issue-2/belacanandcurrypuff/curry_puff.jpg" style="width:70%;">
 Established in the 1920s, the flaky polar puff can now be found island-wide in convenience stores and supermarkets. <i>Courtesy of Polar Puffs & Cakes Pte Ltd.</i></div>
 
-
+By the 1980s, frozen versions of this baked curry puff were being mass produced for sale, and included exotic variations such as the black pepper chicken puff. These Western curry puffs were shaped and served as pies, with hot meat and potato filling encased in flaky puff pastry and eaten in a restaurant setting. Today, these trademark snacks known as “Polar puffs” come with a variety of fillings and are sold everywhere in Singapore, including petrol stations, convenience stores and supermarkets. 
 
 Like the <i>samosa</i> in India which can be either baked or fried, there are two versions of local curry puffs – a baked version made of puff pastry and offered at Western-style cafes and a fried version encased in shortcrust pastry and sold as streetside fare, especially popular among the Muslim community. <i>Straits Times</i> writer Derek Drabble’s 1950 caricature of an Indian Muslim <i>thamby</i> (meaning “little brother” in Tamil), Adam Ghat, shows him serving curry puffs and other streetside delights such as “gluey <i>kaya</i> jam”, “<i>pisang mas</i>” (fried banana fritters) and “Bengali <i>roti</i> buns” (bread rolls) along Finlayson Green to office workers of various races, including Indian, Malay and Chinese.[^28] This Malay version of the curry puff – a deep-fried crescent-shaped dough crimped and stuffed with a spicy sardine or potato filling and served with a sweet chilli dipping sauce – is today known as <i>epok-epok</i>.
 
