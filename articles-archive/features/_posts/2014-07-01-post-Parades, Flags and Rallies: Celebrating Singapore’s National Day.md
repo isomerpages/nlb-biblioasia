@@ -91,7 +91,8 @@ Due to this ground-up approach, it is likely that the celebrations in 2015, incl
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-10-issue-2/nationalday/process_full.jpg" style="width:80%;"></div>
-
+<br>
+<img style="width:100px;height:100px;margin-bottom:-30px; border-radius:100%; box-shadow: 1px 2px 0px #424242;" src="/images/vol-10-issue-2/nationalday/Lim_Tin_Seng.jpg">
 <p style="font-size:15px;"><b>Lim Tin Seng</b> is a Librarian with the National Library of Singapore. He is the co-editor of Roots: Tracing Family Histories – A Resource Guide (2013); Harmony and Development: ASEAN-China Relations (2009) and China’s New Social Policy: Initiatives for a Harmonious Society (2010).</p>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-10/issue-2/jul-sep-2014/"><center>Back to Issue</center></a>
