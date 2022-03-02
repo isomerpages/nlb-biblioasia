@@ -100,6 +100,11 @@ After the fight to ensure that hawkers could continue their trade, there are now
 
 New avenues are provided for aspiring hawkers. In 2013, Singapore’s Work Development Agency launched its first official hawker training programme.53 The programme contains training modules that introduces the basics of the hawker trade such as how to cook basic hawker staples like roti prata and chicken rice, maintain good food hygiene and teach innovative ways to display dishes in stalls. Furthermore, the government is considering setting up a training institute for hawkers. If this materialises, the school will hire successful hawkers to teach and transfer their skills to new hawkers.54 While these actions have generated a great amount of interests among Singaporeans, it remains to be seen whether they can help preserve the unique hawker culture of Singapore.
 
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
+<b>THE GENESIS OF THE MODERN FOOD COURT</b><br><br>
+	<img src="/images/vol-9-issue-3/Hawkers/H9.png">
+</span>
+
 <br>
 <div style="background-color: white;">
 <img src="/images/Vol-14-issue-4/bridging-history-pswy-ars-wtr/LTS.JPG" style="width: 100px; height: 100px;">
@@ -107,4 +112,3 @@ New avenues are provided for aspiring hawkers. In 2013, Singapore’s Work Devel
 </div>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-9/issue-3/oct-dec-2013/"><center>Back to Issue</center></a>
-
