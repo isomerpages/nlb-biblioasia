@@ -218,7 +218,7 @@ The British Newspaper Archive.
 
 [^6]: Granted the main targets for the “grow more food” campaigns were local farmers, but there are articles that appeal to the Malayan to venture growing his own food such as [Vegetables and “Grow More Food” campaign](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19400212-1.2.45). (1940, February 12). <i>The Singapore Free Press and Mercantile Advertiser</i>, p. 5; [Changkol for victory](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19400810-1.2.58). (1940, August 10). <i>The Singapore Free Press and Mercantile Advertiser</i>, p. 4. Retrieved from NewspaperSG.
 
-[^7]: [Broadcast talks on wartime cooking](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19410815-1.2.97). (1941, August 15). The Straits Times, p. 12. Retrieved from NewspaperSG.
+[^7]: [Broadcast talks on wartime cooking](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19410815-1.2.97). (1941, August 15). <i>The Straits Times</i>, p. 12. Retrieved from NewspaperSG.
 
 [^8]: Peet, G.L. (2011). *[Within Changi’s walls: A record of civilian internment in World War II](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13796733)* (pp. 67–68). Singapore: Marshall Cavendish Editions. (Call no.: RSING 940.53175957092 PEE)
 
