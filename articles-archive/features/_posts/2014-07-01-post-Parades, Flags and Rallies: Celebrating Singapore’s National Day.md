@@ -52,7 +52,7 @@ Roadshows and exhibitions are organised in the heartlands to explain the meaning
 
 In addition to these activities, the use of nationalist images on commemorative T-shirts, badges, stickers and mugs further reinforce the significance of National Day as these objects are used in everyday life.[^31] In 1988, the government went a further step by allowing Singaporeans to fly the national flag outside their homes as part of National Day celebrations, giving the people a tangible way of expressing their loyalty to the country.[^32] Since then, it has become tradition for housing estates to decorate their premises with rows of national flags as National Day approaches. In fact, estates often compete to put up the most creative flag decoration.[^33]
 
-#### **The National Day Tally**
+#### **The National Day Rally**
 
 A key component of the NDP celebrations is the National Day Rally speech, Singapore’s equivalent of the US President’s State of the Union address. The speech is delivered by the prime minister in the four national languages and has been an annual event since the first NDP celebrations in 1966.
 
