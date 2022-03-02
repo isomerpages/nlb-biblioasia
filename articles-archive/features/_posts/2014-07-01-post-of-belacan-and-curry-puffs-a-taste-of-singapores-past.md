@@ -130,11 +130,11 @@ Wu, D.Y.H., & Tan, C.B. (Eds.). (2001). *[Changing Chinese foodways in Asia](htt
 
 **Newspaper articles**
 
-[300 children go gay](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19601220-1.2.84). (1960, December 20). <i></i>The Singapore Free Press</i>, p. 8. Retrieved from NewspaperSG.
+[300 children go gay](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19601220-1.2.84). (1960, December 20). <i>The Singapore Free Press</i>, p. 8. Retrieved from NewspaperSG.
 
-[A Kelantan Malay on Asiatics](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19500803-1.2.93.1). (1950, August 3). <i></i>The Straits Times</i>, p. 6. Retrieved from NewspaperSG.
+[A Kelantan Malay on Asiatics](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19500803-1.2.93.1). (1950, August 3). <i>The Straits Times</i>, p. 6. Retrieved from NewspaperSG.
 
-Abdul Ghani Hamid. (2003, July 17). [Belacan dulu, belacan hari ini](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian20030717-1.2.21.2). </i>Berita Harian</i>, p. 9. Retrieved from newspaperSG.
+Abdul Ghani Hamid. (2003, July 17). [Belacan dulu, belacan hari ini](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian20030717-1.2.21.2). <i>Berita Harian</i>, p. 9. Retrieved from newspaperSG.
 
 Abu Bakar Mardiana. (1988, March 1). [Bahasa: Focus now on pronunciation](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880301-1.2.61.16.1). <i>The Straits Times</i>, p. 5. Retrieved from NewspaperSG.
 
