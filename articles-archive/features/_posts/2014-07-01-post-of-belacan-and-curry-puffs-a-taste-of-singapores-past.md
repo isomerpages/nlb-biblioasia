@@ -28,11 +28,6 @@ Encouraged by the conveniences of tinned food, refrigeration and fresh imports o
 
 The <i>Malaya Tribune</i>, a newspaper started in 1914 and targeting Asiatic readers, is credited with training local journalists, particularly in the 1930s.[^9] Eventually, these journalists went on to anchor the increasingly localised English newspapers in post-war Singapore. Local food columnists of the 1970s and 1980s such as Violet Oon, Lee Geok Boi and Sylvia Toh Paik Choo, reinforced the romanticisation of the iconic dishes of the 1950s and 1960s as they reminisced over the food they grew up with. Thus, the flavours of local cuisine began to take centre stage in food columns, with greater attention paid to its ingredients, preparation methods and consumption.
 
-<div style="background-color: white;">
-<br/>
-<img src="/images/vol-10-issue-2/belacanandcurrypuff/belacan_packing.jpg" style="width:70%;">
-<i>Belacan</i> in traditional packing.</div>
-
 #### **Flavours of Singapore**
 
 **Belacan**
@@ -42,6 +37,11 @@ The <i>Malaya Tribune</i>, a newspaper started in 1914 and targeting Asiatic rea
 The pungent <i>belacan</i> is manufactured through a crude process of fermenting tiny shrimp (<i>grago or gerago</i>) or krill, which includes salting, grinding (or foot-pounding before the advent of modern machinery) and sunning for several weeks, during which time the paste turns from a rosy pink to a deep shade of brown. The resulting cake of <i>belacan</i> is thinly sliced, toasted and then used to flavour meats, enhance curries, gravies and stews, and add a distinctive edge to <i>sambal belacan</i>, a spicy hand pounded condiment of <i>belacan</i> and fresh chillies brightened with lime juice. Many Malayan dishes rely on <i>belacan</i> to give it a unique Malayan flavour.
 
 <i>Belacan</i> may have been indispensable for flavouring local food, but newspapers reveal that its overpowering olfactory presence, particularly in the 19th and early 20th centuries when Singapore had several belacan factories by the coast, offended the European population's sense of smell. <i>Belacan</i> naturally became one of the few local food items written about in English newspapers, almost always because of its potent stink. An 1891 letter from "one with a sensitive nose" complaining about the nefarious effusions from a government licensed <i>belacan</i> factory along Tanjong Rhu, a coastal health getaway in colonial Singapore, described it thus: "The odour of <i>blachang</i> [sic] is peculiarly Asiatic, there is nothing in Europe to contend with it; it is ghastly, penetrating and abominable... if a tired city man happens to land at ‘Sandy Point’ to reach Tanjong Katong... then a whiff comes from the <i>blachang</i> factory that makes his hair stand on end, and fills him with criminal impulses”.[^10]
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-2/belacanandcurrypuff/belacan_packing.jpg" style="width:60%;">
+<i>Belacan</i> in traditional packing.</div>
 
 <div style="background-color: white;">
 <br/>
