@@ -125,6 +125,7 @@ Award-winning writer Boey Kim Cheng in Palenque, Mexico. His latest works includ
 
 In conclusion, while poets articulated their views in purpose-driven public or personal verses in the period immediately after Independence and during the nation-building years, alternative voices of the Singapore diaspora spoke with a measured calm, contemplating the imprints made by national policies and initiatives. Their refreshing perspectives continue to push the creative boundaries as the Republic finds its footing in this era of globalisation and transnationalism.
 
+<img style="width:100px;height:100px;margin-bottom:-30px; border-radius:100%; box-shadow: 1px 2px 0px #424242;" src="/images/vol-10-issue-2/homeandaway/michelle_heng.jpg">
 <p style="font-size:15px;"><b>Michelle Heng</b> is a Librarian with the National Library of Singapore. She compiled and edited Singapore Word Maps: A Chapbook of Edwin Thumboo’s New and Selected Place Poems and more recently, Selected Poems of Goh Poh Seng. She was also the co-compiler and joint editor of Edwin Thumboo – Time-travelling: A Selected Annotated Bibliography.</p>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-10/issue-2/jul-sep-2014/"><center>Back to Issue</center></a>
