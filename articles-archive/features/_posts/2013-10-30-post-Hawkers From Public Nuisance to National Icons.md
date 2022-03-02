@@ -100,4 +100,11 @@ After the fight to ensure that hawkers could continue their trade, there are now
 
 New avenues are provided for aspiring hawkers. In 2013, Singapore’s Work Development Agency launched its first official hawker training programme.53 The programme contains training modules that introduces the basics of the hawker trade such as how to cook basic hawker staples like roti prata and chicken rice, maintain good food hygiene and teach innovative ways to display dishes in stalls. Furthermore, the government is considering setting up a training institute for hawkers. If this materialises, the school will hire successful hawkers to teach and transfer their skills to new hawkers.54 While these actions have generated a great amount of interests among Singaporeans, it remains to be seen whether they can help preserve the unique hawker culture of Singapore.
 
-**Lim Tin Seng** is a Librarian with the National Library of Singapore. He is the co-editor of *Roots: Tracing Family Histories — A Resource Guide; Harmony and Development: ASEAN-China Relations* (2009) *and China’s New Social Policy: Initiatives for a Harmonious Society* (2010).
+<br>
+<div style="background-color: white;">
+<img src="/images/Vol-14-issue-4/bridging-history-pswy-ars-wtr/LTS.JPG" style="width: 100px; height: 100px;">
+<b>Lim Tin Seng</b> is a Librarian with the National Library of Singapore. He is the co-editor of *Roots: Tracing Family Histories — A Resource Guide; Harmony and Development: ASEAN-China Relations* (2009) *and China’s New Social Policy: Initiatives for a Harmonious Society* (2010).
+</div>
+
+<a href="https://biblioasia.nlb.gov.sg/vol-9/issue-3/oct-dec-2013/"><center>Back to Issue</center></a>
+
