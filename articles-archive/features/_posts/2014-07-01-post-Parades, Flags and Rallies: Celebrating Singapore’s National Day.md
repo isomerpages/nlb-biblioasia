@@ -137,7 +137,7 @@ Leong, W.T.L. (2001, December). Consuming the nation: National Day Parades in Si
 
 Pearson, H.F. (1954). *[Stories of early Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4087398)*. London: University of London Press. (Call no.: RCLOS 959.51 PEA)
 
-Peet, G.L. (2009). *[Rickshaw reporter](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13164104). Singapore: Marshall Cavendish Editions. (Call no.: RSING 070.92 PEE)
+Peet, G.L. (2009). [Rickshaw reporter](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13164104). Singapore: Marshall Cavendish Editions. (Call no.: RSING 070.92 PEE)
 
 [Rain…rain…rain](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19600604-1.2.2). (1960, June 4). <i>The Straits Times</i>, p. 1. Retrieved from NewspaperSG.
 
@@ -147,9 +147,9 @@ Peet, G.L. (2009). *[Rickshaw reporter](https://eservice.nlb.gov.sg/item_holding
 
 Salma Khalik. (1987, August 8). [Remembering parades past](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19870808-1.2.104.3.1). <i>The Straits Times</i>, p. 2. Retrieved from NewspaperSG.
 
-Tan, K.P. (2007). Singapore National Day Rally speech: A site of ideological negotiation. Journal of Contemporary Asia, 37 (3), 292─308, pp. 293–308. Retrieved from Taylor & Francis Online website.
+Tan, K.P. (2007). Singapore National Day Rally speech: A site of ideological negotiation. <i>Journal of Contemporary Asia</i>, 37 (3), 292─308, pp. 293–308. Retrieved from Taylor & Francis Online website.
 
-[Tattoo thrills at the stadium](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19600605-1.2.10). (1960, June 5). The Straits Times, p. 1. Retrieved from NewspaperSG.
+[Tattoo thrills at the stadium](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19600605-1.2.10). (1960, June 5). <i>The Straits Times</i>, p. 1. Retrieved from NewspaperSG.
 
 *[The NDP journey: Commemorating National Day Parade 2002. (2002)](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11827570)*. Singapore: NDP 2002 EXCO. (Call no.: RSING 959.57 NDP)
 
@@ -235,7 +235,7 @@ Volcic, Z., & Andrejevic, M. (2011). Nation branding in the era of commercial na
 
 [^39]: [Lee on the need to inculcate right attitudes and values](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19750821-1.2.60). (1971, August 21). <i>The Straits Times</i>, p. 10. Retrieved from NewspaperSG.
 
-[^40]:. Tan, 2007, p. 297.
+[^40]: Tan, 2007, p. 297.
 
 [^41]: Ministry of Information, Communications and Arts. (2003, August 17). *[Speech by Prime Minister Goh Chok Tong at the National Day Rally 2003](https://www.nas.gov.sg/archivesonline/speeches/record-details/76d4a135-115d-11e3-83d5-0050568939ad)* [Speech]. Retrieved from National Archives of Singapore website.
 
