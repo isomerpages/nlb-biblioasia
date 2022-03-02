@@ -16,7 +16,7 @@ The most powerful articulation of the complexity of identity comes through our l
 
 Perhaps the identity of being Singaporean is far too complex and ephemeral to encapsulate within a few pat catchphrases. While thinking about this issue, I chanced upon a book by Paul Johnson on the life of Socrates in Athens at the height of the Greek civilisation. In examining the flourishing of the city state under its leader Pericles, Johnson described Athenian optimism as a constructive, dynamic and practical force propelled by the belief that Athenians were capable of turning their attention to anything – arts, science, philosophy – and making it better than anyone else could.
 
-Can the fledgling Singaporean identity match the vigour of the Athenian spirit of 5th-century BC? Yes, perhaps, in time to come. In the meantime, we should take heart in the experience of the talented late Singaporean writer Goh Poh Seng. When visiting Singapore in 2007 after a long absence – having emigrated to Canada in 1986 – Goh was asked if he could ever live in Singapore again. Yes he replied almost immediately, to paraphrase his words, “like how a duck takes to water”.
+Can the fledgling Singaporean identity match the vigour of the Athenian spirit of 5th-century BC? Yes, perhaps, in time to come. In the meantime, we should take heart in the experience of the talented late Singaporean writer Goh Poh Seng. When visiting Singapore in 2007 after a long absence – having emigrated to Canada in 1986 – Goh was asked if he could ever live in Singapore again. Yes, he replied almost immediately, to paraphrase his words, “like how a duck takes to water”.
 
 <b>Gene Tan</b><br>
 Director, National Library
