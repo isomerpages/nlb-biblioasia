@@ -190,13 +190,13 @@ Shukor Rahman. (1973, July 9). [Blachan: Where it all began](http://eresources.n
 
 [T.F. Hwang takes you down memory lane](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19740309-1.2.67). (1974, March 9). <i>The Straits Times</i>, p. 12. Retrieved from NewspaperSG.
 
-[The belachan trade](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19240927-1.2.62). (1924, September 27). <i>The Singapore Free Press</i> and Mercantile Advertiser, p. 12, Retrieved from NewspaperSG.
+[The belachan trade](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19240927-1.2.62). (1924, September 27). <i>The Singapore Free Press and Mercantile Advertiser</i>, p. 12, Retrieved from NewspaperSG.
 
-[The smells of Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18910721-1.2.72). (1891, July 21). Straits Times Weekly, p. 12. Retrieved from NewspaperSG.
+[The smells of Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18910721-1.2.72). (1891, July 21). <i>Straits Times Weekly</i>, p. 12. Retrieved from NewspaperSG.
 
-The women’s page. (1917, June 8). <i></i>The Land</i>, pp. 10–11. Retrieved from The Australian Trove.
+The women’s page. (1917, June 8). <i>The Land</i>, pp. 10–11. Retrieved from The Australian Trove.
 
-[Vegetables and “Grow More Food” campaign](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19400212-1.2.45). (1940, February 12). <i>The Singapore Free Press</i> and Mercantile Advertiser, p. 5. Retrieved from NewspaperSG.
+[Vegetables and “Grow More Food” campaign](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19400212-1.2.45). (1940, February 12). <i>The Singapore Free Press and Mercantile Advertiser</i>, p. 5. Retrieved from NewspaperSG.
 
 **Websites**
 
@@ -206,7 +206,7 @@ The British Newspaper Archive.
 
 #### **NOTES**
 
-[^1]: These items have been selected because of several reasons – their pervasive reference in newspapers spanning the period studied and their localised flavours. Although there are many other dishes such as Hainanese chicken rice, laksa, mee siam etc, their articulation especially in the English newspapers of the interwar period is not extensive.
+[^1]: These items have been selected because of several reasons – their pervasive reference in newspapers spanning the period studied and their localised flavours. Although there are many other dishes such as Hainanese chicken rice, <i>laksa</i>, <i>mee siam</i> etc, their articulation especially in the English newspapers of the interwar period is not extensive.
 
 [^2]: Butcher, J.G. (1979). [*The British in Malaya*, 1880–1941: The social history of a European community in colonial South-East Asia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1901870) (p. 142). Kuala Lumpur: Oxford University Press. (Call no.: RSING 301.4512105951033 BUT)
 
