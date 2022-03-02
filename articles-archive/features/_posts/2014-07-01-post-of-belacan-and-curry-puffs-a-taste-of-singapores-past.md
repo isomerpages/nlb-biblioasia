@@ -62,15 +62,15 @@ The famous Polar Cafe is believed to have created the first baked curry puff in 
 
 <div style="background-color: white;">
 <br/>
+<img src="/images/vol-10-issue-2/belacanandcurrypuff/chan_hinky.jpg" style="width:60%;">
+Founder of Polar Cafe, Chan Hinky, arrived in Singapore in the early 20th century, with little to his name. <i>Courtesy of Polar Puffs & Cakes Pte Ltd.</i></div>
+
+<div style="background-color: white;">
+<br/>
 <img src="/images/vol-10-issue-2/belacanandcurrypuff/polar_cafe.jpg" style="width:70%;">
 The original Polar Cafe was located along High Street in the 1920s and popular with those who frequented the area. <i>Courtesy of Polar Puffs & Cakes Pte Ltd.</i></div>
 
 By the 1980s, frozen versions of this baked curry puff were being mass produced for sale, and included exotic variations such as the black pepper chicken puff. These Western curry puffs were shaped and served as pies, with hot meat and potato filling encased in flaky puff pastry and eaten in a restaurant setting. Today, these trademark snacks known as “Polar puffs” come with a variety of fillings and are sold everywhere in Singapore, including petrol stations, convenience stores and supermarkets. 
-
-<div style="background-color: white;">
-<br/>
-<img src="/images/vol-10-issue-2/belacanandcurrypuff/chan_hinky.jpg" style="width:70%;">
-Founder of Polar Cafe, Chan Hinky, arrived in Singapore in the early 20th century, with little to his name. <i>Courtesy of Polar Puffs & Cakes Pte Ltd.</i></div>
 
 <div style="background-color: white;">
 <br/>
