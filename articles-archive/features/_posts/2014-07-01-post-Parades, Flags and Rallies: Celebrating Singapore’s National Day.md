@@ -33,6 +33,11 @@ One reason for the reorientation of the parades was to make them more engaging s
 
 Today, the parades continue to be highly anticipated by Singaporeans. In fact, before the e-balloting system to allocate NDP tickets was introduced in 2003, it was not unusual to see people camping overnight at distribution centres for tickets. As the tickets were usually sold out within minutes, there would be a mad scramble the moment the centres opened their doors.[^14]
 
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> 
+<b>THE FIRST NATIONAL DAY</b>
+<br><br>
+Singapore’s first National Day was held on 4 June 1960, one year after it achieved self-government. However, the ensuing parade, which was to have included a march-past and mass rally, was cancelled due to heavy rain disappointing the 25,000 participants who had turned up. Fortunately, the National Day celebration was a three-day event and thanks to clear skies the following day, more than 22,000 people, including then Yang di-Pertuan Negara Yusof Ishak, then Prime Minister Lee Kuan Yew and members of the Cabinet crowded into Jalan Besar stadium for a spectacular tattoo that was filled with rhythmic drills, music, singing, dances and displays of military prowess.</span>
+
 #### **Decentralising the Celebrations**
 
 Traditionally NDPs were held in two centralised locations, the Padang and the National Stadium. After the National Stadium closed in 2006 to make way for a new stadium, The Float at Marina Bay became another NDP venue.[^15] The first ever NDP was held at the Padang, the historic field opposite City Hall. NDP in its early days was a simple march-past involving some 23,000 participants. Starting at nine in the morning with the arrival of President Yusof Ishak, the parade only lasted 90 minutes.[^16] The next nine NDPs were held at the Padang until 1975 when the government decided to decentralise the celebration, holding it at different parts of island in the form of “pocket pageants”. The aim was to bring the parades “closer to the people” so that they could have “the opportunity of witnessing the pomp and pageantry” at their doorsteps.[^17]
@@ -86,11 +91,6 @@ Due to this ground-up approach, it is likely that the celebrations in 2015, incl
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-10-issue-2/nationalday/process_full.jpg" style="width:80%;"></div>
-
-<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> 
-<b>THE FIRST NATIONAL DAY</b>
-<br><br>
-Singapore’s first National Day was held on 4 June 1960, one year after it achieved self-government. However, the ensuing parade, which was to have included a march-past and mass rally, was cancelled due to heavy rain disappointing the 25,000 participants who had turned up. Fortunately, the National Day celebration was a three-day event and thanks to clear skies the following day, more than 22,000 people, including then Yang di-Pertuan Negara Yusof Ishak, then Prime Minister Lee Kuan Yew and members of the Cabinet crowded into Jalan Besar stadium for a spectacular tattoo that was filled with rhythmic drills, music, singing, dances and displays of military prowess.</span>
 
 <p style="font-size:15px;"><b>Lim Tin Seng</b> is a Librarian with the National Library of Singapore. He is the co-editor of Roots: Tracing Family Histories – A Resource Guide (2013); Harmony and Development: ASEAN-China Relations (2009) and China’s New Social Policy: Initiatives for a Harmonious Society (2010).</p>
 
