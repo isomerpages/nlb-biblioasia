@@ -6,7 +6,6 @@ image: /images/vol-10-issue-2/drcarl/sure_diagram.jpg
 layout: post
 description: ""
 ---
-
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-10-issue-2/drcarl/sure_diagram.jpg" style="width:70%;">
@@ -56,7 +55,7 @@ I can speak about my own experience as a scientist, where basically we need to a
 
 So, these are skills that translate back and forth between regular life on the street, life in the laboratory, life in the library and these are really critical skills that we need to develop. I think it’s very exciting that NLB has launched this initiative. And for me personally, also as a scientist, the approaches of S.U.R.E are important ways of making sense of an increasingly complicated world, both in life and science.
 
-**Would you say that the way that the brain processes information is similar to how we would apply the S.u.R.E. steps?**
+**Would you say that the way that the brain processes information is similar to how we would apply the S.U.R.E. steps?**
 
 I would say that in some cases yes and some cases no. The brain takes shortcuts and the reason it takes shortcuts is because we cannot process everything. So, the nervous system, even at the very early levels – that of the purely sensory levels – is constantly filtering what is coming in and extracting the general shape of things without giving you all of the information. In some cases, this is very useful because this means we can react quickly to different situations, we can make decisions very quickly; but of course that leads us to errors sometimes.
 
