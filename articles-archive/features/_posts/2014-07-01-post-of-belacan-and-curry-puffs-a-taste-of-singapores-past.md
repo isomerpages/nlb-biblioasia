@@ -150,7 +150,7 @@ Chan, M. (1982, December 26). [Stroll down Kali Pup lane](http://eresources.nlb.
 
 Chan, M. (1987, November 22). [An old recipe adds fillip to satay dish](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19871122-1.2.80.8.2). <i>The Straits Times</i>, p. 4. Retrieved from NewspaperSG.
 
-[Changkol for victory](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19400810-1.2.58). (1940, August 10). <i>The Singapore Free Press</i> and Mercantile Advertiser, p. 4. Retrieved from NewspaperSG.
+[Changkol for victory](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19400810-1.2.58). (1940, August 10). <i>The Singapore Free Press and Mercantile Advertiser</i>, p. 4. Retrieved from NewspaperSG.
 
 Chia, K.S. (1952, February 28). [The shrimpers of Tanjong Bungah](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19520228-1.2.173). <i>The Straits Times</i>, p. 10. Retrieved from NewspaperSG.
 
@@ -158,9 +158,9 @@ Chia, K.S. (1952, February 28). [The shrimpers of Tanjong Bungah](http://eresour
 
 Drabble, D. (1950, February 23). [A Tamby takes it easy – with a curry puff](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19500223-1.2.140). <i>The Straits Times</i>, p. 12. Retrieved from NewspaperSG.
 
-[Free Press news feature](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19400604-1.2.41). (1940, June 4). <i>The Singapore Free Press</i> and Mercantile Advertiser, p. 3. Retrieved from NewspaperSG.
+[Free Press news feature](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19400604-1.2.41). (1940, June 4). <i>The Singapore Free Press and Mercantile Advertiser</i>, p. 3. Retrieved from NewspaperSG.
 
-House and home. (1914, May 28). Hull Daily Mail, England. Retrieved from the Australian Trove.
+House and home. (1914, May 28). <i>Hull Daily Mail</i>, England. Retrieved from the Australian Trove.
 
 [Learn to be a cook of many dishes](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19390824-1.2.152.19). (1939, August 24). <i>The Straits Times</i>, p. 6. Retrieved from NewspaperSG.
 
