@@ -70,11 +70,11 @@ A more intimate portrait of the poet is seen in a blog entry written by architec
 
 In a similar lament for “home”, some of Goh Poh Seng’s earlier poems, penned years before his move to Canada, chip away at the gleaming façade of this island nation to reveal the rusty framework of a “city that does not permit even a memory of the sky”. In his poem “Singapore”, we witness the relentless tide of changes that have swept through this country during its nation-building years; the poet laments the tainting of a simpler way of life, now threatened by the allure of commerce: 
 
-Towards the sea’s fresh salt the river bears pollution whose source was simple hills
+Towards the sea’s fresh salt<br>the river bears pollution<br>whose source was simple hills
 
-Whose migration was tainted when man decided to dip his hand 
+Whose migration was tainted<br>when man<br>decided to dip his hand 
 
-Nourishing his wants a commercial waterway greased with waste 
+Nourishing his wants<br>a commercial waterway<br>greased with waste 
 
 In the latter phase of Goh’s writing career, readers can detect an unmistakable transcendence in his works. A previously claustrophobic urban despondence seen in the troubled milieu of his earlier protagonists – the disillusioned office worker Kwang Meng in <i>If We Dream Too Long</i> and the intense but ineffectual advertising executive Ong Kian Teck in <i>A Dance of Moths</i> – thaws amid the peaceful acceptance of the flawed ways of the human condition, as seen through the travails of the unnamed elderly protagonist in <i>Dance with White Clouds</i>.
 
