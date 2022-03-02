@@ -8,7 +8,7 @@ layout: post
 
 In this vein, the essay “Parades, Flags and Rallies: Celebrating Singapore’s National Day” by [Lim Tin Seng](/vol-10/issue-2/jul-sep-2014/national-day) traces the evolution of the celebrations and the marked shifts in tone from the 1970s’ socialist-tinged “rugged society” messages that urged Singaporeans to pull together and work harder, to the parades of the 80s and 90s that were supercharged with pride and emotion.
 
-As we reflect on our identity this National Day, take a minute to ponder on the perennial question by [Kishore Mahbubani](/vol-10/issue-2/jul-sep-2014/what-is-singaporean) in “So, What is a Singaporean?” as he considers if our multicultural harmony and identity is a result of careful government planning and policy, or a natural assimilation and acceptance of different cultures over time.
+As we reflect on our identity this National Day, take a minute to ponder on the perennial question by [Kishore Mahbubani](/vol-10/issue-2/jul-sep-2014/singapore-identity-kishore-mahbubani) in “So, What is a Singaporean?” as he considers if our multicultural harmony and identity is a result of careful government planning and policy, or a natural assimilation and acceptance of different cultures over time.
 
 Food is a great leveller in society and the idea of unforced multiculturalism is best expressed in “Of Belacan and Curry Puffs: A Taste of Singapore’s Past”. [Bonny Tan](/vol-10/issue-2/jul-sep-2014/taste-of-sg-past)’s essay reveals how the humble curry puff is a “product of the ingenious marriage between colonial and colonised taste buds” – the spicy chicken filling from an Indian merchant and the puff pastry, a distinct British influence.
 
