@@ -15,7 +15,7 @@ description: ""
 
 [<b>Parades, Flags and Rallies: Celebrating Singapore’s National Day</b>](/vol-10/issue-2/jul-sep-2014/singapore-national-day-parades)<br>National Day parades have been a ubiquitous part of Singapore’s National Day celebrations since Independence. <i>Lim Tin Seng</i> delves into its history, its significance and its evolution.[(PDF)](/files/pdf/vol-10/issue-2/v10-issue2_ParadesFlags.pdf)
 
-[<b>Home and Away: Literary Reflections on Nation and Identity</b>](/vol-10/issue-2/jul-sep-2014/home-and-away)<br><i>Michelle Heng</i> meanders through Singapore’s post-Independence literary landscape and discovers diasporic works that display a quiet strength even as they explore refreshingly dissonant views on nation and one’s identity.[(PDF)](/files/pdf/vol-10/issue-2/v10-issue2_HomeAway.pdf)
+[<b>Home and Away: Literary Reflections on Nation and Identity</b>](/vol-10/issue-2/jul-sep-2014/singapore-literature-identity-history)<br><i>Michelle Heng</i> meanders through Singapore’s post-Independence literary landscape and discovers diasporic works that display a quiet strength even as they explore refreshingly dissonant views on nation and one’s identity.[(PDF)](/files/pdf/vol-10/issue-2/v10-issue2_HomeAway.pdf)
 
 [<b>Chinese Clan Associations in Singapore: Then and Now</b>](/vol-10/issue-2/jul-sep-2014/chinese-clan-sg)<br>Chinese clan associations in Singapore date back to the time of Stamford Raffles. <i>Lee Meiyu</i> shows us how the functions of clan associations have changed over the years according to the needs of the local Chinese community as well as changes in state policy.[(PDF)](/files/pdf/vol-10/issue-2/v10-issue2_ChineseClan.pdf)
 
