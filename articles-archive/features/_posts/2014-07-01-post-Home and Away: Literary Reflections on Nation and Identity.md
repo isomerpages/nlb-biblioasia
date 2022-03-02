@@ -103,15 +103,10 @@ The main character in Hwee Hwee Tan’s novel <i>Mammon Inc.</i>, Chiah Deng Gan
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-2/homeandaway/boey.jpg" style="width:70%;">
-Award-winning writer Boey Kim Cheng in Palenque, Mexico. His latest works include <i>Between Stations</i> (2009) and <i>Clear Brightness</i> (2012). <i>Courtesy of Boey Kim Cheng.</i></div>
-
-<div style="background-color: white;">
-<br/>
 <img src="/images/vol-10-issue-2/homeandaway/Hwee_Hwee_Tan.jpg">
-Hwee Hwee Tan is the author of Foreign Bodies (1997) and <i>Mammon Inc.</i> (2001).</div>
+Hwee Hwee Tan is the author of <i>Foreign Bodies</i> (1997) and <i>Mammon Inc.</i> (2001).</div>
 
-As Chiah Deng navigates her way in a transnational paradigm and mingles with the cosmopolitan Gen-Vexers who identify themselves with the latest fashion and gadgets, she finds herself drawn siren-like into the embrace of a formless consumerist entity. At the end of the story, Chiah Deng chooses to be a member of the diabolical global corporation, thus sealing her Faustian pact in a modern morality play. Chiah Deng’s choice plays up the difficult dilemma of how to become an effective citizen of the globalised world and yet retain ties to one’s homeland.[^19] It is no coincidence that <i>Mammon</i>’s Singapore-born author Hwee Hwee Tan was educated in both the United Kingdom and the United States; hence her oeuvre can be read as a reflection of her personal experiences outside Singapore.[^20]
+As Chiah Deng navigates her way in a transnational paradigm and mingles with the cosmopolitan Gen-Vexers who identify themselves with the latest fashion and gadgets, she finds herself drawn siren-like into the embrace of a formless consumerist entity. At the end of the story, Chiah Deng chooses to be a member of the diabolical global corporation, thus sealing her Faustian pact in a modern morality play. Chiah Deng’s choice plays up the difficult dilemma of how to become an effective citizen of the globalised world and yet retain ties to one’s homeland.[^19] It is no coincidence that <i>Mammon</i>’s Singapore-born author Hwee Hwee Tan was educated in both the United Kingdom and the US; hence her oeuvre can be read as a reflection of her personal experiences outside Singapore.[^20]
 
 Another voice of conscience is Singapore-born poet Boey Kim Cheng who emigrated to Australia in 1997. Hailed as the “best post-1965 English language poet in the Republic”,21 Boey’s poetry veers between a private, introspective world of almost spiritual contemplation and public engagement with his immediate surroundings. The poet’s voice echoes his dislocation in a nation that is dedicated to economic growth, success and efficiency, and one of the ways he can resist the state’s invasive reach is to travel overseas.[^22]
 
@@ -122,6 +117,11 @@ In his later works written after emigrating to Australia, Boey makes the proverb
 Perhaps great-grandfather sallied forth / with Quong Tart on the same junk, / and disembarked in Malaya, while Quong Tart / continued south. Perhaps they were brothers.
 
 The imaginary narrative gives the poet a sense of belonging and binds the diasporic trajectories of the Boey’s ancestor and Quong Tart, enabling the poet to project their divergent yet similar personal histories onto a single tapestry. Emigration entails bidding farewell to one’s homeland and all three men share the same “family history” but the poet is comforted that his daughter’s tracing of the pictograms in her Chinese name reconnects an earlier diasporic tale and makes meaning of the present.
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-2/homeandaway/boey.jpg" style="width:70%;">
+Award-winning writer Boey Kim Cheng in Palenque, Mexico. His latest works include <i>Between Stations</i> (2009) and <i>Clear Brightness</i> (2012). <i>Courtesy of Boey Kim Cheng.</i></div>
 
 In conclusion, while poets articulated their views in purpose-driven public or personal verses in the period immediately after Independence and during the nation-building years, alternative voices of the Singapore diaspora spoke with a measured calm, contemplating the imprints made by national policies and initiatives. Their refreshing perspectives continue to push the creative boundaries as the Republic finds its footing in this era of globalisation and transnationalism.
 
