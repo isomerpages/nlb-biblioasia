@@ -5,3 +5,4 @@ date: 2013-10-30
 layout: post
 description: ""
 ---
+From bane of the government to boon of tourism, hawkers in Singapore have come a long way from the time they were viewed by government officials as progenitors of disorder and disease.
