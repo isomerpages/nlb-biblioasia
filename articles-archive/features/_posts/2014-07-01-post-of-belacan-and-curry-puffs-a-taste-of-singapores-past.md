@@ -12,7 +12,7 @@ layout: post
 <img src="/images/vol-10-issue-2/belacanandcurrypuff/belacan_used.jpg" style="width:70%;">
 <i>Belacan</i> is used extensively in Malayan cooking and gives it its distinctive taste.</div>
 
-Research into Singapore's food heritage often neglects the unusually rich minefield of data found in newspapers. NewspaperSG, the National Library's digital archives of local newspapers dating from 1831, provides easy access to a fascinating wealth of information found in otherwise banal resources such as news articles and columns, recipes, restaurant reviews, and even advertisements.
+Research into Singapore's food heritage often neglects the unusually rich minefield of data found in newspapers. NewspaperSG, the National Library's digital archive of local newspapers dating from 1831, provides easy access to a fascinating wealth of information found in otherwise banal resources such as news articles and columns, recipes, restaurant reviews, and even advertisements.
 
 The history of <i>belacan</i>, a local condiment, and curry puff[^1], a popular snack, is traced in this article, pieced together from reports taken from digitised English newspapers in Malaya during the interwar period. These newspaper reports unveil the faces and flavours behind these local foods, their evolution through racial adaptations and their colloqualisation into place names and language.
 
