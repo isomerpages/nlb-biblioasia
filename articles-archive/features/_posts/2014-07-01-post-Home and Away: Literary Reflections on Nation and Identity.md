@@ -6,14 +6,13 @@ image: /images/vol-10-issue-2/homeandaway/bg.jpg
 layout: post
 description: ""
 ---
-
 #### **Michelle Heng** meanders through Singapore’s post-Independence literary landscape and discovers diasporic works that display a quiet strength even as they explore refreshingly dissonant views on nation and one’s identity.
 
 
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-10-issue-2/homeandaway/bg.jpg" style="width:70%;">
-Singapore’s stunning skyline is a much-photographed sight. While the soaring steel-and-glass buildings are a powerful symbol of the city’s triumphant nation-building efforts, it’s also a reminder of lost heritage and lives that have been displaced in the unrelenting pursuit of commercial success. As the poet Goh Poh Seng so succinctly described in his poem “Singapore”, it is a “city that does not even permit the memory of the sky”.</div>
+Singapore’s stunning skyline is a much-photographed sight. While the soaring steel-and-glass buildings are a powerful symbol of the city’s triumphant nation-building efforts, it is also a reminder of lost heritage and lives that have been displaced in the unrelenting pursuit of commercial success. As the poet Goh Poh Seng so succinctly described in his poem “Singapore”, it is a “city that does not even permit the memory of the sky”.</div>
 
 In the aftermath of a devastating World War II, budding writers in Malaya honed their craft by publishing works that appeared in varsity literature, empowered as they were by a fiery desire to forge a common literary voice in English. With the establishment of the University of Malaya in 1949, the students were likely moved to wield their pens by the 1948 Carr-Saunders Commission Report which articulated that “The University of Malaya will provide for the first time a common centre where varieties of race, religion and economic interest could mingle in a joint endeavour...For a University of Malaya must inevitably realise that it is a university for Malaya.” 
 
