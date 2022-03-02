@@ -31,11 +31,6 @@ The third category is the mixed category where national identity is a mixture of
 
 Both Indians and Indonesians have no difficulty recruiting people to die for their countries. And they have done this despite the tremendous diversity of their societies. The story of Indian diversity is well known. In the case of Indonesia, it continues to be a source of daily discovery. The late Indonesian foreign minister Ali Alatas, a distinguished diplomat, told me how the Indonesian people were totally riveted by a series of TV programmes in the 1990s which showcased how children worked, studied and played all over the archipelago. Many Indonesians discovered this diversity for the first time.
 
-<div style="background-color: white;">
-<br/>
-<img src="/images/vol-10-issue-2/singaporean/hospital.jpg" style="width:70%;">
-Medical staff at the General Hospital attending to racial riot victims in 1964. <i>MITA collection, courtesy of National Archives of Singapore.</i></div>
-
 #### **Poor But Happy Community**
 
 Singapore does not belong to any of these three categories. Virtually everyone knows that Singapore is an accidental nation. Yet few seem to be conscious of how difficult it is to create a sense of national identity out of an accidental nation.
@@ -58,6 +53,11 @@ And we lived with deep ethnic harmony. At the height of the racial riots in 1964
 <br/>
 <img src="/images/vol-10-issue-2/singaporean/on_road.jpg" style="width:70%;">
 Row of shophouses along Onan Road in 1983. This multiracial neighbourhood in the East Coast was where the author spent his formative years. <i>From the Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009.</i></div>
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-2/singaporean/hospital.jpg" style="width:70%;">
+Medical staff at the General Hospital attending to racial riot victims in 1964. <i>MITA collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **Natural, Artificial Harmony?**
 
