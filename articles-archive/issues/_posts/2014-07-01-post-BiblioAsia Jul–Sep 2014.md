@@ -9,7 +9,7 @@ description: ""
 
 [<b>Director's Note</b>](/vol-10/issue-2/jul-sep-2014/director-note)
 
-[<b>So, What is a Singaporean?</b>](/vol-10/issue-2/jul-sep-2014/singapore-identity-kishore-mahbubani)[(PDF)](/files/pdf/vol-10/issue-2/v10-issue2_Singaporean.pdf)
+[<b>So, What is a Singaporean?</b>](/vol-10/issue-2/jul-sep-2014/singapore-identity-kishore-mahbubani)<br><i>Kishore Mahbubani</i> contemplates the Singaporean identity, its basis and its fragility.[(PDF)](/files/pdf/vol-10/issue-2/v10-issue2_Singaporean.pdf)
 
 [<b>Of Belacan and Curry Puffs: A Taste of Singapore’s Past</b>](/vol-10/issue-2/jul-sep-2014/taste-of-sg-past)<br><i>Bonny Tan</i> pores through the rich archives of Malayan newspapers and shows how disparate communities have come together to create a food culture that is truly emblematic of Singapore's multicultural character.[(PDF)](/files/pdf/vol-10/issue-2/v10-issue2_BelacanCurryPuffs.pdf)
 
@@ -23,8 +23,8 @@ description: ""
 
 [<b>Standing Firm: Stories of Ubin</b>](/vol-10/issue-2/jul-sep-2014/stories-of-ubin)<br>Apart from being an escape from the hubbub of city life, Pulau Ubin is home to a small but dwindling number of Singaporeans. <i>Ang Seow Leng</i> sheds some light on life on the island.[(PDF)](/files/pdf/vol-10/issue-2/v10-issue2_StoriesUbin.pdf)
 
-[<b>Remembering John Turnbull Thomson</b>](/vol-10/issue-2/jul-sep-2014/john-turnbull-thomson)<br>[(PDF)](/files/pdf/vol-10/issue-2/v10-issue2_JohnTurnbull.pdf)
+[<b>Remembering John Turnbull Thomson</b>](/vol-10/issue-2/jul-sep-2014/john-turnbull-thomson)<br><i>Timothy Pwee</i> introduces the life, times and works of John Turnbull Thomson, engineer, painter, Government Surveyor and Superintendent of Public Works of Singapore.[(PDF)](/files/pdf/vol-10/issue-2/v10-issue2_JohnTurnbull.pdf)
 
 [<b>邱菽园与晚清政府四位福建籍高官的交往</b>](/vol-10/issue-2/jul-sep-2014/fu-jian-gao-guan)<br><i>张人凤</i>，1940年生，曾长期从事继续教育工作，现为上海市文史研究馆馆员；著有《张元济年谱长编》、《智民之师张元济》、《张元济研究文集》，编有十卷本《张元济全集》。[(PDF)](/files/pdf/vol-10/issue-2/v10-issue2_Chinese.pdf)
 
-[<b>Dr Carl Schoonover on Being S.U.R.E</b>](/vol-10/issue-2/jul-sep-2014/carl-schoonover-nlb-info-literacy)<br>[(PDF)](/files/pdf/vol-10/issue-2/v10-issue2_CarlSchoonover.pdf)
+[<b>Dr Carl Schoonover on Being S.U.R.E</b>](/vol-10/issue-2/jul-sep-2014/carl-schoonover-nlb-info-literacy)<br>In this exclusive interview, <i>Dr Carl Schoonover</i> shares how the brain processes information and the importance of Information Literacy and the S.U.R.E. ways in the corroboration of information and data.[(PDF)](/files/pdf/vol-10/issue-2/v10-issue2_CarlSchoonover.pdf)
