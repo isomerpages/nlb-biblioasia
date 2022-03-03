@@ -198,7 +198,7 @@ Zhonghui san nian [Singapore Federation of Chinese Clan Associations: The third 
 
 [^13]: Yen, C.H. (1995). *[Community and politics: The Chinese in colonial Singapore and Malaysia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7363583)* (p. 35). Singapore: Times Academic Press. (Call no.: RSING 305.895105957 YEN)
 
-[^14]: In Singapore, ancestral worship activities organised by Chinese clan associations typically take place during Spring and Autumn, that is March to May and August to October. These rites are separately known as Spring Sacrifice [chunji (in Chinese)] and Autumn sacrifice [qiuji (in Chinese)]. 
+[^14]: In Singapore, ancestral worship activities organised by Chinese clan associations typically take place during Spring and Autumn, that is March to May and August to October. These rites are separately known as Spring Sacrifice [<i>chunji</i> (in Chinese)] and Autumn sacrifice [<i>qiuji</i> (in Chinese)]. 
 
 [^15]: [Yen](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7363583), 1995, pp. 44–52.
 
