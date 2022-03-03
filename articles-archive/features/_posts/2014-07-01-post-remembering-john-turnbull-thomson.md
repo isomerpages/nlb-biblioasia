@@ -7,7 +7,7 @@ layout: post
 ---
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-2/thomson/thomson_map.jpg" style="width:70%;">
+<img src="/images/vol-10-issue-2/thomson/thomson_map.jpg" style="width:90%;">
 John Turnbull Thomson’s 1846 <i>Plan of Singapore Town and Adjoining Districts From Actual Survey</i> donated to the National Library by Koh Seow Chuan.</div>
 
 One naturally tends to gravitate towards political and economic figures when thinking about Singapore’s pioneers. Yet the physical environment of Singapore has been indelibly shaped by another class of men: the engineers.
