@@ -215,7 +215,7 @@ Zaccheus, M., & Ee, D. (2013, October 4). [Pulau Ubin: Rustic or just rustling a
 
 [^10]: National Heritage Board, 14 Mar 2013.
 
-[^11]: Stone from Malaya to help build English Cathedral. (1939, July 23). <i>The Straits Times</i>, p. 7. Retrieved from NewspaperSG.
+[^11]: [Stone from Malaya to help build English Cathedral](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19390723-1.2.83). (1939, July 23). <i>The Straits Times</i>, p. 7. Retrieved from NewspaperSG.
 
 [^12]: Singapore. Oral History Department. (1990). *[Recollections: People and places](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5519492)* (p. 60). Singapore: Oral History Dept. (Call no.: RSING 959.5703 REC)
 
