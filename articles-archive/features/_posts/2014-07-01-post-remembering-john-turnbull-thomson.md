@@ -7,14 +7,14 @@ layout: post
 ---
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-2/thomson/thomson_map.jpg" style="width:70%;">
+<img src="/images/vol-10-issue-2/thomson/thomson_map.jpg" style="width:90%;">
 John Turnbull Thomson’s 1846 <i>Plan of Singapore Town and Adjoining Districts From Actual Survey</i> donated to the National Library by Koh Seow Chuan.</div>
 
 One naturally tends to gravitate towards political and economic figures when thinking about Singapore’s pioneers. Yet the physical environment of Singapore has been indelibly shaped by another class of men: the engineers.
 
 In Stamford Raffles’ day, engineering was a trade learnt through apprenticeship. A mathematics graduate of Aberdeen University by the name of John Turnbull Thomson (1821–1884) did an engineering apprenticeship in Newcastle upon Tyne before venturing out to Penang in 1838 as a surveyor. Thomson was subsequently appointed as Government Surveyor of Singapore in 1841, and became Superintendent of Public Works in 1844, taking over from George D. Coleman, Singapore’s most prominent colonial architect, after the latter returned home.
 
-Thomson’s Singapore story was researched and told by a New Zealand relative in <i>An Early Surveyor in Singapore</i> (1979). Author John HallJones filled the book with Thomson’s watercolour paintings and ink drawings depicting many scenes of life in early Singapore. In 1983, the second volume, <i>The Thomson Paintings</i>, was published in colour.
+Thomson’s Singapore story was researched and told by a New Zealand relative in <i>An Early Surveyor in Singapore</i> (1979). Author John Hall-Jones filled the book with Thomson’s watercolour paintings and ink drawings depicting many scenes of life in early Singapore. In 1983, the second volume, <i>The Thomson Paintings</i>, was published in colour.
 
 Thomson also wrote two books, <i>Some Glimpses into Life in the Far East</i> (1864) and <i>Sequel to Some Glimpses into Life in the Far East</i> (1865). Written as a series of short vignettes, Thomson’s interesting stories of early colonial Singapore are filled with witty and wry observations about bureaucratic tangles and bold deeds. He also spent time translating parts of Munshi Abdullah’s autobiography as <i>Translations from Hakayit Abdulla</i> (1874). While the original editions have been preserved in the National Library’s rare collection, microfilm copies, reprints and digitised ebooks are available for public use.
 
@@ -58,7 +58,8 @@ Plan of Horsburgh Lighthouse from Thomson’s 1852 article about its constructio
 <br/>
 <img src="/images/vol-10-issue-2/thomson/The_Esplanade_from_Scandal_Point.jpg" style="width:70%;">
 “The Esplanade from Scandal Point, 1851” by John Turnbull Thomson. Scandal Point – a popular meeting place for evening gossip among the European community – was the name given to the small knoll above the shoreline which originally came up to the edge of the Padang (where the present Connaught Drive stands). This was where Lt. Henry Ralfe built the Saluting Battery, a bastion of earth and sand in February 1819, and later mounted the first fixed defence battery with 12 pounder guns to protect the settlement. The painting illustrates the typical social and sporting activities that took place at the Padang during this period. In the background are buildings, several of which were designed by the colony’s foremost architect G.D. Coleman. On the far right is St Andrew’s Church (later demolished to build St Andrew’s Cathedral) and adjacent is the Armenian Church of St Gregory the Illuminator, followed by a series of private residences (including Coleman’s house). Rising behind is Government Hill (present-day Fort Canning). It is believed that the European man in the white suit, top hat and cane on the right of the foreground is Thomson himself with possibly Munshi Abdullah, his Malay teacher. <i>Courtesy of National Museum of Singapore, National Heritage Board.</i></div>
-
+<br>
+<img style="width:100px;height:100px;margin-bottom:-30px; border-radius:100%; box-shadow: 1px 2px 0px #424242;" src="/images/vol-10-issue-2/thomson/timothy_pwee.jpg">
 <p style="font-size:15px;"><b>Timothy Pwee</b> is a Senior Reference Librarian with the National Library of Singapore. Visual materials from paintings and photographs to maps and scale models have always fascinated him.</p>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-10/issue-2/jul-sep-2014/"><center>Back to Issue</center></a>

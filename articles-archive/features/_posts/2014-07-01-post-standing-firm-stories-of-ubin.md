@@ -24,7 +24,7 @@ In the 1840s, Chinese stone cutters, and later convicts were deployed to quarry 
 
 The earliest inhabitants on Pulau Ubin were the Orang Laut and indigenous Malay of Bugis and Javanese origins. Subsequently, Chinese quarry workers settled on the island – mostly Hakkas, followed by the Hokkiens and later Teochews.[^12] In the 1880s, large numbers of inhabitants from the Kallang River area moved to Pulau Ubin. Migration spiked again prior to the Japanese invasion in 1942 when the mainland residents fled to Pulau Ubin for its perceived safety.[^13] Apart from quarrying granite, the main industry from the 1800s to 1999,[^14] other economic activities in the early days included rearing poultry and the cultivation of rubber and cash crops such as coffee, nutmeg, pineapple, coconut, durian and tobacco, as well as prawn farming and fishing.[^15]
 
-The 1970 Singapore population census indicated that there were 2,028 residents living on Pulau Ubin at the time.[^16] This number was halved by 1987 due to resettlement and the closure of the granite quarries. Even then, Ubin was the most populous island compared with Pulau Sakeng’s 250 residents, St John’s Island’s 10 residents and Kusu Island’s solitary temple keeper.[^17] By 2002, however, the number of residents on Ubin was down to just 100;[^18] today, fewer than 100 people live on the island.[^19] During a speech made on 15 March 2014, Prime Minister Lee Hsien Loong highlighted Pulau Ubin as one of the last two <i>kampongs</i> left in Singapore, the other being Kampong Buangkok.[^20]
+The 1970 Singapore population census indicated that there were 2,028 residents living on Pulau Ubin at the time.[^16] This number was halved by 1987 due to resettlement and the closure of the granite quarries. Even then, Ubin was the most populous island compared with Pulau Sakeng’s 250 residents, St John’s Island’s 10 residents and Kusu Island’s solitary temple keeper.[^17] By 2002, however, the number of residents on Ubin was down to just 100;[^18] today, fewer than 100 people live on the island.[^19] During a speech made on 15 March 2014, Prime Minister Lee Hsien Loong highlighted Pulau Ubin as one of the last two <i>kampungs</i> left in Singapore, the other being Kampong Buangkok.[^20]
 
 The rapid urbanisation of mainland Singapore has impacted Pulau Ubin in more ways than one. In the late 1960s and early 70s, Singapore embarked on a labour-intensive industrial programme, setting up factories and hiring as many workers as possible. At the same time, a public housing scheme was launched, which proved so effective that by 1985, some 80 percent of Singapore’s resident population was living in subsidised public flats.[^21] These flats on the mainland came with facilities that were sorely lacking in Pulau Ubin, such as piped water and electricity. Not surprisingly, Ubin’s more educated younger residents started moving to the mainland to seek jobs and a better life.
 
@@ -48,16 +48,16 @@ Making the move to the mainland has not been easy. A newspaper report in 2001 te
 
 There are some significant buildings in Pulau Ubin that bring people together and stand as markers of the island’s history. Bin Kiang School was the first and only primary school on the island. Set up in 1952, it had over 400 students at its peak until it closed in 1985 and was demolished in 2000.[^42]
 
-Pulau Ubin Community Centre was once a hive of activity and a key landmark on the island as Singapore’s only waterfront community centre. Built in 1961, the building was originally a community hall that was converted into a community centre in 1966.[^43] In the 1970s and 1980s, the centre offered residents a wide array of activities, from soccer and <i>sepak takraw</i> to dragon boat racing and traditional Malay sports such as miniature sailboats <i>(jong)</i> races and spinning tops <i>(gasing)</i> competitions.[^44] The community centre also followed the fate of the school, closing down in 2003.
+Pulau Ubin Community Centre was once a hive of activity and a key landmark on the island as Singapore’s only waterfront community centre. Built in 1961, the building was originally a community hall that was converted into a community centre in 1966.[^43] In the 1970s and 1980s, the centre offered residents a wide array of activities, from soccer and <i>sepak takraw</i> to dragon boat racing and traditional Malay sports such as miniature sailboats (<i>jong</i>) races and spinning tops (<i>gasing</i>) competitions.[^44] The community centre also followed the fate of the school, closing down in 2003.
 
 In Chinese folklore, the Goddess of the Sea, or Mazu (妈祖), is an important celestial guardian who ensures the safe passage of fishermen and seafarers in rough seas. Worshipping Mazu is a practice that is mostly prevalent among Southeast Asian Chinese, and temples dedicated to Mazu are often situated along coastal areas. The Ma Zu Temple at Pulau Ubin was originally sea-facing but when the land it sat on was acquired to make way for the Outward Bound School Camp 2 site in 2001, the temple was moved to Sengkang on the mainland.[^45]
+
+However, not all of Ubin’s buildings face closure or demolition. The Pulau Ubin Fo Shan Teng Tua Pek Kong Temple pre-dates 1869 according to the date inscribed on the temple’s renovation stele. The temple is located near the jetty and is one of the rare Chinese temples in Singapore that has a permanent stage for <i>wayang</i> (Chinese opera).[^46] The temple and its stage come alive twice a year, during the fourth and seventh months of the Chinese lunar calendar. Chinese operas and contemporary <i>getai</i> performances are staged in honour of Tua Pek Kong and to mark the Hungry Ghost Festival. This is a far cry from the 1950s when weekly <i>wayang</i> shows were put up to entertain the villagers.[^47]
 
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-10-issue-2/ubin/chinese_opera_performance.jpg" style="width:70%;">
 A crowd watching a Chinese opera performance on Pulau Ubin in 1992. The <i>wayang</i> (opera) stage still stands on the island. <i>Courtesy of National Archives of Singapore.</i></div>
-
-However, not all of Ubin’s buildings face closure or demolition. The Pulau Ubin Fo Shan Teng Tua Pek Kong Temple pre-dates 1869 according to the date inscribed on the temple’s renovation stele. The temple is located near the jetty and is one of the rare Chinese temples in Singapore that has a permanent stage for Chinese opera <i>(wayang)</i>.[^46] The temple and its stage come alive twice a year, during the fourth and seventh months of the Chinese lunar calendar. Chinese operas and contemporary <i>getai</i> performances are staged in honour of Tua Pek Kong and to mark the Hungry Ghost Festival. This is a far cry from the 1950s when weekly <i>wayang</i> shows were put up to entertain the villagers.[^47]
 
 House No.1, situated at the eastern end of the island near Chek Jawa, was built in the 1930s by the British Chief Surveyor, Landon Williams, as a holiday or weekend retreat.[^48] It is a significant landmark with commanding views of Changi Point and the Straits of Singapore. The structure is believed to be Singapore’s only remaining authentic Tudor-style house with a fireplace.[^49] A <i>Lianhe Zaobao</i> article reported that the building used to house the managers of the island’s rubber plantations.[^50] Rubber tapping activities ceased during the 1980s due to increasing costs of production.[^51] The house gradually fell into neglect but was given a new lease of life when it was restored and turned into the Chek Jawa visitor centre, and was given conservation status by the URA in 2007.[^52]
 
@@ -73,12 +73,12 @@ Painting of Pulau Ubin by John Turnbull Thomson. <i>“Grooved stones on Pulo Ub
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-10-issue-2/ubin/rock_facade.jpg" style="width:70%;">
-Rock facade similar to that in the 1850 painting by John Turnbull Thomson photographed by Dr Chua Ee Kiam. <i>Courtesy of Dr Chua Ee Kiam.</i></div>
+Rock facade similar to that in the 1850 painting by John Turnbull Thomson, photographed by Dr Chua Ee Kiam. <i>Courtesy of Dr Chua Ee Kiam.</i></div>
 
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-10-issue-2/ubin/ong_kim_seng_painting.jpg" style="width:70%;">
-Painting of prawn ponds on Ubin by Cultural Medallion winner Ong Kim Seng. Ong spent eight months painting on the island and his paintings were showcased in 2001 at “Charms of Ubin”, an exhibition held at the People’s Association headquarters, organised by the Outward Bound School to raise funds to develop an adventure park for children. Ong’s time on Ubin reminded him of his <i>kampong</i> days. <i>Courtesy of Ong Kim Seng.</i></div>
+Painting of prawn ponds on Ubin by Cultural Medallion winner Ong Kim Seng. Ong spent eight months painting on the island and his paintings were showcased in 2001 at “Charms of Ubin”, an exhibition held at the People’s Association headquarters, organised by the Outward Bound School to raise funds to develop an adventure park for children. Ong’s time on Ubin reminded him of his <i>kampung</i> days. <i>Courtesy of Ong Kim Seng.</i></div>
 
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;">
 <b>UBIN'S FLORA AND FAUNA</b>
@@ -101,6 +101,7 @@ On 14 January 2002, the Ministry of National Development announced that land rec
 <br><br>
 <img src="/images/vol-10-issue-2/ubin/high_tide.jpg" style="width:70%;">High tide at the Chek Jawa boardwalk. <i>Courtesy of Ria Tan, www.wildsingapore.com</i></span>
 
+<img style="width:100px;height:100px;margin-bottom:-30px; border-radius:100%; box-shadow: 1px 2px 0px #424242;" src="/images/vol-10-issue-2/ubin/ang_seow_leng.jpg">
 <p style="font-size:15px;"><b>Ang Seow Leng</b> is a Senior Reference Librarian with the National Library of Singapore. Her responsibilities include managing and developing content, as well as providing reference and research services relating to Singapore and Southeast Asia.</p>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-10/issue-2/jul-sep-2014/"><center>Back to Issue</center></a>
@@ -151,7 +152,7 @@ Chua, A. (2009). *[The Causeway](https://eresources.nlb.gov.sg/infopedia/article
 
 Chew, V. (2009). *[Housing and Development Board](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1589_2009-10-26.html)*. Retrieved from Singapore Infopedia, National Library Singapore.
 
-Cornelius-Takahama, V. (2018, July). *[Raffles Lighthouse](https://eresources.nlb.gov.sg/infopedia/articles/SIP_147_2005-01-18.html). Retrieved from Singapore Infopedia, National Library Singapore.
+Cornelius-Takahama, V. (2018, July). [Raffles Lighthouse](https://eresources.nlb.gov.sg/infopedia/articles/SIP_147_2005-01-18.html). Retrieved from Singapore Infopedia, National Library Singapore.
 
 National Parks Board. (2013, May 19). <i>Pulau Ubin</i>. Singapore: National Parks Board. Retrieved from National Parks Board website.
 
@@ -214,7 +215,7 @@ Zaccheus, M., & Ee, D. (2013, October 4). [Pulau Ubin: Rustic or just rustling a
 
 [^10]: National Heritage Board, 14 Mar 2013.
 
-[^11]: Stone from Malaya to help build English Cathedral. (1939, July 23). <i>The Straits Times</i>, p. 7. Retrieved from NewspaperSG.
+[^11]: [Stone from Malaya to help build English Cathedral](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19390723-1.2.83). (1939, July 23). <i>The Straits Times</i>, p. 7. Retrieved from NewspaperSG.
 
 [^12]: Singapore. Oral History Department. (1990). *[Recollections: People and places](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5519492)* (p. 60). Singapore: Oral History Dept. (Call no.: RSING 959.5703 REC)
 
@@ -270,7 +271,7 @@ Zaccheus, M., & Ee, D. (2013, October 4). [Pulau Ubin: Rustic or just rustling a
 
 [^38]: Pulau Ubin residents to start paying rent for first year. (2013, April 17). <i>Channel NewsAsia</i>. Retrieved from Factiva via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
-[^39]: The Straits Times, 24 Aug 2002, p. 8.
+[^39]: *[The Straits Times](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20020824-1.2.42.14)*, 24 Aug 2002, p. 8.
 
 [^40]: White, T. (2001, February 12). [Leaving Ubin for life on mainland](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20010212-1.2.40.3.20). <i>The Straits Times</i>, p. 8. Retrieved from NewspaperSG.
 
@@ -306,6 +307,6 @@ Zaccheus, M., & Ee, D. (2013, October 4). [Pulau Ubin: Rustic or just rustling a
 
 [^56]: Leong, K.P. (2001, December 24). [Chek Jawa has unique ecosystem](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20011224-1.2.23.1). <i>The Straits Times</i>, p. 14. Retrieved from NewspaperSG.
 
-[^57]: The letters included those written by prominent personalities in Nature Society. *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20010716-1.2.23.4)*, 16 Jul 2001, p. 14; *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20010728-1.2.50.6)*, 28 Jul 2001, p. 25; *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20011224-1.2.23.1)*, 24 Dec 2001, p. 14; [The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20011228-1.2.26.4)*, 28 Dec 2001, p. 18.
+[^57]: The letters included those written by prominent personalities in Nature Society. *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20010716-1.2.23.4)*, 16 Jul 2001, p. 14; *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20010728-1.2.50.6)*, 28 Jul 2001, p. 25; *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20011224-1.2.23.1)*, 24 Dec 2001, p. 14; *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20011228-1.2.26.4)*, 28 Dec 2001, p. 18.
 
 [^58]: Lim, L, (2002, January 15). [Reprieve for rustic Ubin](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20020115-1.2.3). <i>The Straits Times</i>, p. 1. Retrieved from NewspaperSG.

@@ -6,13 +6,12 @@ image: /images/vol-10-issue-2/women/washing.jpg
 layout: post
 description: ""
 ---
-
 #### The role of women in Singapore’s nation-building efforts in the post-Independence years is sometimes overlooked. **Janice Loo** examines the impact that women have had on the nation’s development.
 
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-10-issue-2/women/washing.jpg" style="width:70%;">
-Women washing clothes at the kampong’s standpipe in the 1960s. Before Independence, women were mostly engaged in domestic activities. <i>MITA collection, courtesy of National Archives of Singapore.</i></div>
+Women washing clothes at the <i>kampung’</i>s standpipe in the 1960s. Before Independence, women were mostly engaged in domestic activities. <i>MITA collection, courtesy of National Archives of Singapore.</i></div>
 
 It was 3 July 1959. Chooi Yong was working at the lathe machine when voices and footsteps along the corridor signaled their approach. She hurriedly smoothed her hair and straightened her apron just as the men entered the cabinet-making room. Incidentally, the first Cabinet of Singapore had been sworn in just a month earlier after the People’s Action Party (PAP) swept the 1959 general election. The newly minted Deputy Prime Minister Toh Chin Chye and the Minister for Education Yong Nyuk Lin were inspecting the Singapore Polytechnic, where first-year student Tan Chooi Yong was the only girl in the Engineering Department. 
 
@@ -86,7 +85,7 @@ People’s Association Child Care Centre at Queen’s Street in 1985. Child care
 
 Improvements in female educational attainment have given women access to more career options.[^35] The official view on the purpose of female education is best encapsulated in the words of then Minister for Law and National Development E. W. Barker, who in July 1968 said, “In providing girls the same educational opportunities as the boys, we [the government] expect the girls to be equally capable of contributing to the economic growth of our nation.”[^36] The impact that education had on transforming the pattern of female employment is expressed by Chua Hui Neo in an interview in 1995:
 
-If you got education, you can work. Before, if you have no education, what can you work? Like my mother she washed clothes for people. But now where got people want to wash clothes for others. Now no one. What for I work housework, how many... hundred. I might as well go and work in a factory. Morning I go, I wear nice clothes. I come back happy, one month I got how much and CPF [Central Provident Fund], everything. Now it is different. Now where to find a maid? Before, you get so many girls [...] Now everyone, 15/16 years old they can go to the factory and work.[^37]
+“If you got education, you can work. Before, if you have no education, what can you work? Like my mother she washed clothes for people. But now where got people want to wash clothes for others. Now no one. What for I work housework, how many... hundred. I might as well go and work in a factory. Morning I go, I wear nice clothes. I come back happy, one month I got how much and CPF [Central Provident Fund], everything. Now it is different. Now where to find a maid? Before, you get so many girls [...] Now everyone, 15/16 years old they can go to the factory and work.”[^37]
 
 With education, women have been able to seize employment opportunities that offered regular hours, fringe benefits and better working conditions in the formal sector. Yet despite the near equal female to male ratio in the student population, the lack of technical training among women meant that they typically entered the manufacturing sector as low-pay, unskilled or semiskilled production workers with limited prospects and occupational mobility.[^38]
 
@@ -94,7 +93,7 @@ At the same time, those who could not obtain employment in the industrial and co
 
 #### **Changes on the Home Front**
 
-The costs of urban, high-rise living have rendered women’s employment a matter of financial necessity. In 1964, four years after the state public housing programme was launched, the <i>New Lives in New Homes</i> survey by the Persatuan Wanita Singapura found that respondents were of the unanimous opinion that life was costlier in Housing & Development Board (HDB) flats than in <i>kampongs</i> and pre-war tenements in the city centre.[^40] The additional expenditure was chiefly met by increased income through the wife’s efforts, for example, through making cakes for sale and taking in sewing jobs, or increases in the husband’s income as well as more careful budgeting and by working in small factories in the estate.[^41] At the time, about 20 percent of the population lived in HDB flats.[^42] By 1980, the figure had risen to 67.8 percent.[^43]
+The costs of urban, high-rise living have rendered women’s employment a matter of financial necessity. In 1964, four years after the state public housing programme was launched, the <i>New Lives in New Homes</i> survey by the Persatuan Wanita Singapura found that respondents were of the unanimous opinion that life was costlier in Housing & Development Board (HDB) flats than in <i>kampungs</i> and pre-war tenements in the city centre.[^40] The additional expenditure was chiefly met by increased income through the wife’s efforts, for example, through making cakes for sale and taking in sewing jobs, or increases in the husband’s income as well as more careful budgeting and by working in small factories in the estate.[^41] At the time, about 20 percent of the population lived in HDB flats.[^42] By 1980, the figure had risen to 67.8 percent.[^43]
 
 Mass resettlement and home ownership propelled more women into the workforce to help cover daily expenses such as food and utilities, and the purchase of home appliances, furnishings, consumer goods and other trappings of the new lifestyle.[^44] When interviewed in the mid-1970s on her reasons for working, Ah Geok, who worked in an electronics assembly, replied, “Prices and inflation are so high nowadays that I have to work.”[^45] Faced with rising cash needs, the gainful employment of women became increasingly essential for the maintenance and improvement of family living standards. 
 
@@ -111,9 +110,9 @@ By and large, working mothers relied on familial support for childcare and house
 
 On the whole, community networks proved to be the critical resource that facilitated women’s entry into the work force at a time when government social services for working mothers was in its nascence.[^54]
 
-#### **A Women's Work Is Never Done**
+#### **A Women's Work is Never Done**
 
-“Only a good woman can create a good family [...] only a group of good families can make a good nation.”[^55] That was the role of women in nation-building as enunciated by Puan Noor Aishah, the wife of then Yang di-Pertuan Negara (Head of State), Inche Yusof Ishak, in 1962. Her words hark back to a time when a woman’s place was in the home. However, as Singapore rapidly industrialised after Independence, it was imperative that women “become not just good housewives but economic assets as well.”[^56] More than a creature of legal reform and state policies, the “working woman” of Singapore came into being by dint of financial circumstance, initiative on the part of the individual woman, familial support and aspirations for upward social mobility.
+“Only a good woman can create a good family [...] only a group of good families can make a good nation.”[^55] That was the role of women in nation-building as enunciated by Puan Noor Aishah, the wife of then Yang di-Pertuan Negara (Head of State) Inche Yusof Ishak in 1962. Her words hark back to a time when a woman’s place was in the home. However, as Singapore rapidly industrialised after Independence, it was imperative that women “become not just good housewives but economic assets as well.”[^56] More than a creature of legal reform and state policies, the “working woman” of Singapore came into being by dint of financial circumstance, initiative on the part of the individual woman, familial support and aspirations for upward social mobility.
 
 The sex/gender division of labour has been breached but is by no means overturned as housework and childcare remain for the most part in female hands. [^57] Women continue to juggle career and motherhood today. The quiet revolution is arguably still underway. 
 
@@ -151,7 +150,7 @@ Ong, K.B. (1972, June 6). [Housewife by day, worker by night](http://eresources.
 
 Purushotam, N. (2003). Silent witnesses: The ‘woman’ in the photograph. In K.B. Chan & C.K. Tong (Eds.), *[Past times: A social history of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11800570)* (pp. 33–55). Singapore: Times Editions. (Call no.: RSING 959.57 PAS)
 
-Purushotam, N. (2004). Women and knowledge/power: Notes on the Singaporean dilemma. In K.C. Ban, A. Pakir & C.K. Tong (Eds.), [Imagining Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12272896) (pp. 328–364). Singapore: Eastern Universities Press. (Call no.: RSING 959.57 IMA)
+Purushotam, N. (2004). Women and knowledge/power: Notes on the Singaporean dilemma. In K.C. Ban, A. Pakir & C.K. Tong (Eds.), *[Imagining Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12272896)* (pp. 328–364). Singapore: Eastern Universities Press. (Call no.: RSING 959.57 IMA)
 
 Salaff, J.W. (1988). *[State and family in Singapore: Restructuring an industrial society](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4493502)*. Ithaca: Cornell University Press. (Call no.: RSING 406.85095957 SAL)
 
@@ -175,11 +174,11 @@ Wee, C. (1980, May 25). [Why housewives are opting for part-time work](http://er
 
 Wong, A.K. (1975). *[Women in modern Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=875315)*, Singapore: Singapore University Education Press. (Call no.: RSING 301.412095957 WON)
 
-Wong, A.K. (1979). Women’s status and changing family values. In E. Kuo & A.K. Wong (Eds.), *[The Contemporary family in Singapore: Structure and change](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081987)* (pp. 40–61). Singapore: Singapore University Press. (Call no.: RSING 301.42095957 CON)
+Wong, A.K. (1979). Women’s status and changing family values. In E. Kuo & A.K. Wong (Eds.), *[The contemporary family in Singapore: Structure and change](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081987)* (pp. 40–61). Singapore: Singapore University Press. (Call no.: RSING 301.42095957 CON)
 
 Wong, A.K. (1980). *[Economic development and women’s place: Women in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4138744)*. London: Change International Report. (Call no.: RSING 301.412095957 WON)
 
-Wong, A.K. (1981, Winter). Planned development, social stratification, and the sexual division of labour in Singapore. Signs, 7 (2), 434–452. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+Wong, A.K. (1981, Winter). Planned development, social stratification, and the sexual division of labour in Singapore. <i>Signs</i>, 7 (2), 434–452. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
 Wong, A.K., & Leong, W.K. (Eds.). (1993). *[Singapore women: Three decades of change](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6442564)*. Singapore: Times Academic Press. (Call no.: RSING 305.42095957 SIN)
 
@@ -243,7 +242,7 @@ Wong, L.W. (1972, October 29). [Quiet revolution in modern homes](http://eresour
 
 [^28]: [Lim](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4080228), 1982, pp. 10–12.
 
-[^29]: Wong, A.K. (1981, Winter). Planned development, social stratification, and the sexual division of labour in Singapore. Signs, 7 (2), 434–452, p. 441. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+[^29]: Wong, A.K. (1981, Winter). Planned development, social stratification, and the sexual division of labour in Singapore. <i>Signs</i>, 7 (2), 434–452, p. 441. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
 [^30]: Toh, T.S. (1971). *[Increasing Singapore’s effective supply of labour](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4648614)* (p. iii). Singapore: National Productivity Centre. (Call no.: RCLOS 331.12095957 TOH)
 
