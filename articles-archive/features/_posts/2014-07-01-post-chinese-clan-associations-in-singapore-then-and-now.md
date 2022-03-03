@@ -220,7 +220,7 @@ Zhonghui san nian [Singapore Federation of Chinese Clan Associations: The third 
 
 [^24]: Before the formation of the Singapore Federation of Chinese Clan Associations, the Singapore Chinese Chamber of Commerce acted as overall coordinator.
 
-[^25]: [Kuah-Pearce & Hu-Dehart](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12825518), 2006, pp. 63–65. For more details on SFCCA’s activities, refer to their periodical Yuan or their anniversary publications.
+[^25]: [Kuah-Pearce & Hu-Dehart](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12825518), 2006, pp. 63–65. For more details on SFCCA’s activities, refer to their periodical <i>Yuan</i> or their anniversary publications.
 
 [^26]: [Kuah-Pearce & Hu-Dehart](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12825518), 2006, pp. 67–71.
 
