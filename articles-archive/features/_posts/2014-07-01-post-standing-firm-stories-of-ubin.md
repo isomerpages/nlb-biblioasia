@@ -152,7 +152,7 @@ Chua, A. (2009). *[The Causeway](https://eresources.nlb.gov.sg/infopedia/article
 
 Chew, V. (2009). *[Housing and Development Board](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1589_2009-10-26.html)*. Retrieved from Singapore Infopedia, National Library Singapore.
 
-Cornelius-Takahama, V. (2018, July). *[Raffles Lighthouse](https://eresources.nlb.gov.sg/infopedia/articles/SIP_147_2005-01-18.html). Retrieved from Singapore Infopedia, National Library Singapore.
+Cornelius-Takahama, V. (2018, July). *[Raffles Lighthouse](https://eresources.nlb.gov.sg/infopedia/articles/SIP_147_2005-01-18.html)*. Retrieved from Singapore Infopedia, National Library Singapore.
 
 National Parks Board. (2013, May 19). <i>Pulau Ubin</i>. Singapore: National Parks Board. Retrieved from National Parks Board website.
 
