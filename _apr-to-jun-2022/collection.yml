@@ -2,6 +2,7 @@ collections:
   apr-to-jun-2022:
     output: true
     order:
-      - The Evolution of Chinese Food in Singapore.md
+      - "Flower Power: Singapore's Orchid Diplomacy.md"
+      - "We Are What We Eat: The Evolution of Chinese Food in Singapore.md"
       - "Living in Harmony: The History of Opera Estate.md"
       - Printed on Rubber Latex Paper.md

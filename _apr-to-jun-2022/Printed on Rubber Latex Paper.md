@@ -15,6 +15,10 @@ During the British Empire Exhibition held at Wembley Park, England, from 23 Apri
 
 The agency was set up in 1910 as the Malay States Development Agency, which was renamed Malay States Information Agency the next year. Its mission was to provide information to prospective investors to boost land cultivation and trade in British Malaya. Through various public relations initiatives, advertisements and exhibitions, Malaya’s primary produce like rubber, coconut, pineapple and gambier and minerals such as tin were made known to the British Empire and the world. In 1928, the agency was renamed yet again as the Malayan Information Agency and occupied a building called Malaya House in London’s Trafalgar Square. 
 
+![](/images/Vol%2018%20Issue%201/Rubber%20Latex%20Paper/Malaya%20House_edit2.png)
+<div style="background-color: white;"> A sketch of Malaya House in Trafalgar Square, London. The building housed the Malayan Information Agency. <i>Image reproduced from British Malaya: General Description of the Country and Life Therein (London: Malayan Information Agency, 1932), back cover. (From National Library, Singapore, Call no. RCLOS 959.5 MAL).
+</i></div>
+
 In addition to producing handbooks about topics related to Malaya, the agency also subtly aimed to show off Malayan products in other ways. On the title page of each handbook published by the agency for the British Empire Exhibition is the line: “The text portion of this pamphlet is printed on Rubber Latex Paper.” The printed pages appear off-white, slightly glossy and, after all these decades, still in good condition. The wove paper has a uniform surface, not ribbed or watermarked, and has a thickness of around 0.1 mm (similar to the 70gsm paper used today for photocopying). 
 
 ![](/images/Vol%2018%20Issue%201/Rubber%20Latex%20Paper/Mining%20in%20Malaya%202.png)
@@ -30,11 +34,6 @@ Rubber latex paper was made by mixing liquid latex into paper pulp during paper-
 During the 1920s, the price of rubber slumped and rubber export restrictions were instituted to halt falling prices. As such, any new uses of rubber to increase demand would have been welcomed by Malayan planters and rubber investors.
 
 The use of rubber latex in paper-making garnered considerable news coverage in 1922 and 1923. In April 1922, the *Straits Times* noted that rubber latex appeared to “improve the texture [of paper] and makes the paper more uniform when viewed by transmitted light. The feel of the paper, especially with paper containing large amounts of rubber, is much improved and becomes pleasant to the touch”. It added that “paper containing rubber latex is more water-repellent than the same paper without rubber, and a suitable treatment of the fibres in paper-making with rubber latex will give a water-proof paper”. In addition, the “electrical resistance and dielectric properties of paper may be improved by the addition of rubber latex”. The paper became more absorbent with better hydration, while the production cost was also reduced considerably.[^6]
-
-![](/images/Vol%2018%20Issue%201/Rubber%20Latex%20Paper/Malaya%20House_edit.png)
-<div style="background-color: white;"> A sketch of Malaya House in Trafalgar Square, London. The building housed the Malayan Information Agency. <i>Image reproduced from British Malaya: General Description of the Country and Life Therein (London: Malayan Information Agency, 1932), back cover. (From National Library, Singapore, Call no. RCLOS 959.5 MAL).
-
-</i></div>
 
 In addition, rubber latex paper also reportedly had increased “folding resistance” (a measure of the paper’s resistance to cracking along the crease when folded) and “bursting strength”. “[A]n untreated manila paper gave a folding resistance of 726, and a bursting strength of 41 lb. (per square inch calculated to a thickness of 1–10th millimetre), while the same paper, treated, increased its folding resistance to 24,000, and its bursting strength to 60 lb. An ordinary printing paper, untreated, had the low folding resistance of 2; treated, this rose to no less than 250, or 125-fold; the increase in bursting strength was from 7 lb. to 20 lb.”[^7]
 
@@ -112,11 +111,11 @@ However, after the 1930s, mentions of rubber latex paper dried up in the Malayan
 
 [^16]: “[Latex Paper in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19230324-1.2.41),” *Singapore Free Press and Mercantile Advertiser*, 24 March 1923, 1; “[Page 1 Advertisements Column 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19230324-1.2.4.1),” *Singapore Free Press and Mercantile Advertiser*, 24 March 1923, 1. (From NewspaperSG)
 
-[^17]: “[Page 8 Advertisements Column 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19290617-1.2.37.1),” *Singapore Free Press and Mercantile Advertiser*, 17 June 1929, 8. (From NewspaperSG).
+[^17]: “[Page 8 Advertisements Column 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19290617-1.2.37.1),” *Singapore Free Press and Mercantile Advertiser*, 17 June 1929, 8. (From NewspaperSG)
 
 [^18]: “[Page 6 Advertisements Column 1](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19230619-1.2.35.1),” *Malaya Tribune*, 19 June 1923, 6. (From NewspaperSG)
 
-[^19]:  “[Page 2 Advertisements Column 2](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19251109-1.2.4.2),” *Straits Times*, 9 November 1925, p. 2; “[Page 2 Advertisements Column 2](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19271107-1.2.6.2),” *Straits Times*, 7 November 1927, 2; “[Page 2 Advertisements Column 2](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19251202-1.2.5.2),” *Straits Times*, 2 December 1925, 2. (From NewspaperSG).
+[^19]:  “[Page 2 Advertisements Column 2](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19251109-1.2.4.2),” *Straits Times*, 9 November 1925, p. 2; “[Page 2 Advertisements Column 2](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19271107-1.2.6.2),” *Straits Times*, 7 November 1927, 2; “[Page 2 Advertisements Column 2](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19251202-1.2.5.2),” *Straits Times*, 2 December 1925, 2. (From NewspaperSG)
 
 [^20]: “[Page 6 Advertisements Column 1](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19230619-1.2.35.1).”
 

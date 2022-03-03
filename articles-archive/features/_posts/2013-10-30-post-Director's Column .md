@@ -25,6 +25,6 @@ Perhaps the bonafide People’s Restaurants of Singapore are the hawker centres 
 
 I hope you will be as enthralled as I am by the complex relationships and interactions between different peoples and the mix of culinary heritage they brought to Singapore. May the resulting complex repertoire of foods — and by extension cultures — we enjoy in Singapore outlast the march of time and not succumb to the bland homogeneity of an “Everything” concoction.
 
-Gene Tan<br>
+Mr Gene Tan<br>
 Director <br>
 National Library

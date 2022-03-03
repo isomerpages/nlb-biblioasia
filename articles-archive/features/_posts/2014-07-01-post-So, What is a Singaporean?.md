@@ -1,9 +1,10 @@
 ---
 title: So, What is a Singaporean?
 date: 2014-07-01
-permalink: /vol-10/issue-2/jul-sep-2014/what-is-singaporean
+permalink: /vol-10/issue-2/jul-sep-2014/singapore-identity-kishore-mahbubani
 image: /images/vol-10-issue-2/singaporean/outside_City_Hall.jpg
 layout: post
+description: ""
 ---
 <div style="background-color: white;">
 <br/>
@@ -24,26 +25,11 @@ A shared history, common historical myths, deep attachment to values like freedo
 
 It also helps to belong to the most successful nation in human history. A deep sense of national pride accompanies the sense of national identity.
 
-<div style="background-color: white;">
-<br/>
-<img src="/images/vol-10-issue-2/singaporean/article.jpg">
-This article was first printed in <i>The Straits Times</i> on 8 June, 2013. <i>The Straits Times</i> © Singapore Press Holdings Pte Ltd. Reprinted with permission.</div>
-
 #### **Old Cultures, New Nations**
 
 The third category is the mixed category where national identity is a mixture of new and old. India and Indonesia, and Brazil and Nigeria exemplify this category. Both India and Indonesia have old cultures. But their sense of nationhood is relatively new. The boundaries that they have inherited are the accidental leftovers of European colonisation. For example, in the pre-colonial period, there were no nation states such as India and Pakistan or Indonesia and Malaysia. Their modern borders are a result of colonial divisions. Yet despite all this, both India and Indonesia have managed to develop strong and unique national identities. 
 
 Both Indians and Indonesians have no difficulty recruiting people to die for their countries. And they have done this despite the tremendous diversity of their societies. The story of Indian diversity is well known. In the case of Indonesia, it continues to be a source of daily discovery. The late Indonesian foreign minister Ali Alatas, a distinguished diplomat, told me how the Indonesian people were totally riveted by a series of TV programmes in the 1990s which showcased how children worked, studied and played all over the archipelago. Many Indonesians discovered this diversity for the first time.
-
-<div style="background-color: white;">
-<br/>
-<img src="/images/vol-10-issue-2/singaporean/hospital.jpg" style="width:70%;">
-Medical staff at the General Hospital attending to racial riot victims in 1964. <i>MITA collection, courtesy of National Archives of Singapore.</i></div>
-
-<div style="background-color: white;">
-<br/>
-<img src="/images/vol-10-issue-2/singaporean/on_road.jpg" style="width:70%;">
-Row of shophouses along Onan Road in 1983. This multiracial neighbourhood in the East Coast was where the author spent his formative years. <i>From the Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009.</i></div>
 
 #### **Poor But Happy Community**
 
@@ -63,6 +49,16 @@ Hence, in the space of seven or eight houses, we could see almost the full spect
 
 And we lived with deep ethnic harmony. At the height of the racial riots in 1964, even though one of my Malay neighbours returned home badly bruised and bloodied after being beaten by a Chinese mob, the ethnic harmony of our Onan Road community was never shaken. We saw ourselves as belonging to one community despite our ethnic and religious diversity.
 
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-2/singaporean/on_road.jpg" style="width:70%;">
+Row of shophouses along Onan Road in 1983. This multiracial neighbourhood in the East Coast was where the author spent his formative years. <i>From the Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009.</i></div>
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-2/singaporean/hospital.jpg" style="width:70%;">
+Medical staff at the General Hospital attending to racial riot victims in 1964. <i>MITA collection, courtesy of National Archives of Singapore.</i></div>
+
 #### **Natural, Artificial Harmony?**
 
 Singapore’s continued ethnic harmony, which has survived even bitter race riots, is clearly a key component of our sense of national identity. But one question remains unanswered: Is this ethnic harmony a result of natural evolution (as it was with our Onan Road community) or is it a result of harsh and unforgiving laws which allow no expression of ethnic prejudices? In short, is ethnic harmony in Singapore a natural or artificial development?
@@ -71,6 +67,9 @@ The answer to this question will determine Singapore’s future. If it is a natu
 
 If it is an artificial development, we will remain in a state of continuous fragility. As Singapore continues its mighty metamorphosis, we have to hope and pray that our ethnic harmony is a result of natural development.
 
+This article was first printed in <i>The Straits Times</i> on 8 June, 2013. <i>The Straits Times</i> © Singapore Press Holdings Pte Ltd. Reprinted with permission.
+
+<img style="width:100px;height:100px;margin-bottom:-30px; border-radius:100%; box-shadow: 1px 2px 0px #424242;" src="/images/vol-10-issue-2/singaporean/kishore.png">
 <p style="font-size:15px;"><b>Kishore Mahbubani</b> was with the Singapore Foreign Service for 33 years (1971–2004) and was Permanent Secretary at the Foreign Ministry from 1993 to 1998. Currently, he is the Dean and Professor in the Practice of Public Policy at the Lee Kuan Yew School of Public Policy of the National University of Singapore. His latest book, <i>The Great Convergence: Asia, the West, and the Logic of One World</i>, was selected by the <i>Financial Times</i> as one of the best books of 2013 and long listed for the 2014 Lionel Gelber Prize. Most recently, he was selected by <i>Prospect</i> magazine as one of the top 50 world thinkers for 2014.</p>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-10/issue-2/jul-sep-2014/"><center>Back to Issue</center></a>

@@ -1,10 +1,12 @@
 ---
 title: "A Quiet Revolution: Women and Work in Industrialising Singapore"
 date: 2014-07-01
-permalink: /vol-10/issue-2/jul-sep-2014/a-quiet-revolution
+permalink: /vol-10/issue-2/jul-sep-2014/nation-building-women-singapore
 image: /images/vol-10-issue-2/women/washing.jpg
 layout: post
+description: ""
 ---
+
 #### The role of women in Singapore’s nation-building efforts in the post-Independence years is sometimes overlooked. **Janice Loo** examines the impact that women have had on the nation’s development.
 
 <div style="background-color: white;">
