@@ -172,7 +172,7 @@ Zhonghui san nian [Singapore Federation of Chinese Clan Associations: The third 
 
 #### **NOTES**
 
-[^1]: Wu, H.Z. (1975). [新加坡华族会馆志](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84502638) <i>[Records of Chinese associations in Singapore]</i> (Vol. 2; pp. 1–3). Singapore: South Seas Society. (Call no.: RCO 369.25957 WH)
+[^1]: Wu, H.Z. (1975). [新加坡华族会馆志](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84502638) [Records of Chinese associations in Singapore] (Vol. 2; pp. 1–3). Singapore: South Seas Society. (Call no.: RCO 369.25957 WH)
 
 [^2]: 星洲谯国堂曹家馆 [Sing Chow Chu Kwok Thong Cho Kah Koon]. (1985). [星洲谯国堂曹家馆一百六十五周年纪念特刊 = Sing chow chiu kwok thong cho kah koon 165th anniversary souvenir magazine 1984](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84484882) (p. 142). Xin jia po: [Gai guan]. (Call no.: Chinese RSING 369.25957 SIN)
 
