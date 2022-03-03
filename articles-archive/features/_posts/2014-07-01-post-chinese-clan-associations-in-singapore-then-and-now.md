@@ -178,7 +178,7 @@ Zhonghui san nian [Singapore Federation of Chinese Clan Associations: The third 
 
 [^3]: According to oral history, Cho Kah Koon was founded in 1819. However, there has been no documentation supporting this yet. There have also been debates that the real name of Chow Ah Chey could be Chow Ah Chi. For more details, refer to volume two of <i>Xin jia po hua zu hui guan zhi</i> [Records of Chinese associations in Singapore] by Wu Hua.
 
-[^4]: 庄国土 [Zhuang, G.], 清水纯 [Qing, S.]., & 潘宏立等著 [Pan, H.Z.D.]. (2010). [近30年东亚华人社团的新变化 = The changes of ethnic Chinese associations in East Asia since last 30 years](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13935559) (p. 32). Xiamen: Xiamen University Press. (Call no.: Chinese RSING 305.895106 CHA)
+[^4]: 庄国土 [Zhuang, G.], 清水纯 [Qing, S.]., & 潘宏立等著 [Pan, H.Z.D.]. (2010). [近30年东亚华人社团的新变化](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13935559) = The changes of ethnic Chinese associations in East Asia since last 30 years(https://eservice.nlb.gov.sg/item_holding.aspx?bid=13935559) (p. 32). Xiamen: Xiamen University Press. (Call no.: Chinese RSING 305.895106 CHA)
 
 [^5]: 潘明智 [Pan, M.]. (Ed.). (1996). [华人社会与宗乡会馆](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84443790) <i>[The Chinese society and clan associations)</i> (pp. 419–420). Singapore: Ling zi da zhong chuan bo zhong xin. (Call no.: RCO 909.04951 PBT)
 
