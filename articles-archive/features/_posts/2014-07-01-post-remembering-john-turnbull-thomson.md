@@ -58,7 +58,8 @@ Plan of Horsburgh Lighthouse from Thomson’s 1852 article about its constructio
 <br/>
 <img src="/images/vol-10-issue-2/thomson/The_Esplanade_from_Scandal_Point.jpg" style="width:70%;">
 “The Esplanade from Scandal Point, 1851” by John Turnbull Thomson. Scandal Point – a popular meeting place for evening gossip among the European community – was the name given to the small knoll above the shoreline which originally came up to the edge of the Padang (where the present Connaught Drive stands). This was where Lt. Henry Ralfe built the Saluting Battery, a bastion of earth and sand in February 1819, and later mounted the first fixed defence battery with 12 pounder guns to protect the settlement. The painting illustrates the typical social and sporting activities that took place at the Padang during this period. In the background are buildings, several of which were designed by the colony’s foremost architect G.D. Coleman. On the far right is St Andrew’s Church (later demolished to build St Andrew’s Cathedral) and adjacent is the Armenian Church of St Gregory the Illuminator, followed by a series of private residences (including Coleman’s house). Rising behind is Government Hill (present-day Fort Canning). It is believed that the European man in the white suit, top hat and cane on the right of the foreground is Thomson himself with possibly Munshi Abdullah, his Malay teacher. <i>Courtesy of National Museum of Singapore, National Heritage Board.</i></div>
-
+<br>
+<img style="width:100px;height:100px;margin-bottom:-30px; border-radius:100%; box-shadow: 1px 2px 0px #424242;" src="/images/vol-10-issue-2/thomson/timothy_pwee.jpg">
 <p style="font-size:15px;"><b>Timothy Pwee</b> is a Senior Reference Librarian with the National Library of Singapore. Visual materials from paintings and photographs to maps and scale models have always fascinated him.</p>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-10/issue-2/jul-sep-2014/"><center>Back to Issue</center></a>
