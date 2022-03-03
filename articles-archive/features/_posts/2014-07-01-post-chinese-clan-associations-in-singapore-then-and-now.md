@@ -20,13 +20,13 @@ Although historians have questioned the accuracy of the origins of Cho Kah Koon,
 
 The Chinese community responded by transplanting their revered centuries-old social structures, in the form of clan associations, into Singapore. To the Chinese, their elaborate family and clan systems had always been the biological, economic and social units that formed the basis of traditional society. These structures also provided social support as family or clan members had an obligation to help one another. In a fledgling Singapore where integration was not encouraged and a state-led support system was absent, the Chinese community turned to their clan organisations for leadership and assistance.
 
-#### **Rise of Religious Associations and Secret Societies (1819-1889)**
+#### **Rise of Religious Associations and Secret Societies (1819–1889)**
 
-Interestingly, clan associations were not the default go-to the Chinese in the early years: instead the newly arrived migrants turned to religious associations and secret societies. The Chinese community at the time comprised small-time businessmen, craftsmen and labourers who had come to Singapore alone, hence there were not enough clan members to form an association. However, religious rites and processions were often organised for the migrants who prayed for protection and asked for blessings from the deities. Such activities became a central part of an Overseas Chinese’s social life and eventually gave rise to religious associations.
+Interestingly, clan associations were not the default go-to for the Chinese in the early years: instead the newly arrived migrants turned to religious associations and secret societies. The Chinese community at the time comprised small-time businessmen, craftsmen and labourers who had come to Singapore alone, hence there were not enough clan members to form an association. However, religious rites and processions were often organised for the migrants who prayed for protection and asked for blessings from the deities. Such activities became a central part of an Overseas Chinese’s social life and eventually gave rise to religious associations.
 
-Temples soon became key organisations providing the Chinese with much needed guidance and entertainment in a society where back-breaking work and loneliness was the order of the day. These temple associations also offered help in settling burial matters, finding jobs and served as meeting places. The board members were usually influential leaders in the Chinese community who presented the concerns of their members to the colonial government or settled disputes between members and associations.[^5]
+Temples soon became key organisations providing the Chinese with much needed guidance and entertainment in a society where back-breaking work and loneliness were the order of the day. These temple associations also offered help in settling burial matters, finding jobs and served as meeting places. Their board members were usually influential leaders in the Chinese community who presented the concerns of their members to the colonial government or settled disputes between members and associations.[^5]
 
-While religious associations flourished due to the Chinese community’s need for spiritual fulfillment, secret societies grew out of the colonial government’s need to control and organise the Chinese community without hampering the economic progress of Singapore. The British were more preoccupied with economic activities and turning Singapore into a successful entrepôt in the early years, leaving them with scant time and resources to develop a state governance system. The only governance systems available were the existing Kapitan China and Kangchu systems, which were adopted from the Malay rulers or earlier colonial powers in the region.
+While religious associations flourished due to the Chinese community’s need for spiritual fulfillment, secret societies grew out of the colonial government’s need to control and organise the Chinese community without hampering the economic progress of Singapore. The British were more preoccupied with economic activities and turning Singapore into a successful entrepôt in the early years, leaving them with scant time and resources to develop a state governance system. The only governance systems available were the existing Kapitan China and Kangchu systems, which had been adopted from the Malay rulers or earlier colonial powers in the region.
 
 <div style="background-color: white;">
 <br/>
@@ -40,13 +40,13 @@ Tattoo on a secret society member. Secret societies have existed in Singapore si
 
 Both systems involved appointing an influential Chinese to oversee all issues related to the Chinese community, including maintaining law and order in the Chinese quarter. This person, known as the Kapitan or Kangchu, served as the liaison between the colonial government and the Chinese, and enjoyed privileges such as market monopoly and tax collection rights. Eventually, the Kapitan and Kangchu became a very rich and powerful group. As leaders of the Chinese community, the Kapitan and Kangchu played an active role in both the religious associations and secret societies, since these were the two most powerful Chinese organisations at the time. Many of their members might also have held memberships in both organisations.[^6]
 
-#### **Rise of Clan Associations (1890-1947)** [^7]
+#### **Rise of Clan Associations (1890–1947)** [^7]
 
 Secret societies were at their peak in the late 19th century. The Chinese who came to Singapore were from different parts of China and spoke dialects that were unintelligible to each other, making it impossible to communicate outside their own dialect groups. This communication barrier facilitated the formation of secret societies that were divided by dialect. Over time, the secret societies grew powerful and started to actively protect their own group interests at the expense of others. They established their own territories and other dialect groups were not allowed to cross the invisible boundaries; if they did, fights would break out.
 
 The increasing conflict and fights between dialect groups soon drew the attention of the colonial government as great financial losses were incurred in terms of property damage and social disruption. The colonial government started clamping down on secret societies with a series of legislations starting from 1869.[^8] This included the 1889 Society Ordinance which effectively outlawed secret societies by requiring all organisations to register themselves with the colonial government before they could be recognised as legal bodies.[^9]
 
-<span style="background-color: white;">
+<span style="background-color: white; font-size:1rem;line-height:1.5;">
 <br/>
 <img src="/images/vol-10-issue-2/chineseclan/table1.jpg" style="width:70%;">
 Table 1: Distribution of Chinese population by the five major dialect groups in Singapore.</span>[^10]
@@ -70,7 +70,7 @@ Fundraising and mobilisation of support required organisation and by this time, 
 <img src="/images/vol-10-issue-2/chineseclan/member_of_Kiung_Chow_Hwee_Kuan .jpg" style="width:70%;">
 Members of Kiung Chow Hwee Kuan helping out with registration of Singapore citizenship at the Chinese Chamber of Commerce, one of six registration centres in 1957. <i>Courtesy of National Archives of Singapore.</i></div>
 
-#### **Decline of Clan Associations (1942-1985)**
+#### **Decline of Clan Associations (1942–1985)**
 
 During the Japanese Occupation (1942–1945) of Singapore, the active involvement of clan associations’ leaders and their members in anti-Japanese activities made them targets. Many of these leaders and members either fled Singapore or risked being captured and executed by the Japanese. Clan associations went into hibernation as their leaders and members disappeared and the Chinese community lived in fear of their new Japanese masters.[^17]
 
