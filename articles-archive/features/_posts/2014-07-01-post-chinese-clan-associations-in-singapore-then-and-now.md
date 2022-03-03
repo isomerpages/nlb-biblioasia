@@ -148,7 +148,7 @@ Lin, Y. (2010). [回顾25: 宗乡总会二十五周年文辑, 1985-2010](https:/
 
 Liu, H., & Wong, S.K. (2004). *[Singapore Chinese society in transitions: Business, politics, and socio-economic change, 1945–1965](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12263197)*. New York: Peter Lang Pub. (Call no.: RSING 959.5704 LIU)
 
-潘明智 [Pan, M.]. (Ed.). (1996). [华人社会与宗乡会馆](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84443790) *[The Chinese society and clan associations]*. Singapore: Ling zi da zhong chuan bo zhong xin. (Call no.: RCO 909.04951 PBT)
+潘明智 [Pan, M.]. (Ed.). (1996). [华人社会与宗乡会馆](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84443790) [The Chinese society and clan associations]. Singapore: Ling zi da zhong chuan bo zhong xin. (Call no.: RCO 909.04951 PBT)
 
 星洲谯国堂曹家馆 [Sing Chow Chu Kwok Thong Cho Kah Koon]. (1985). [星洲谯国堂曹家馆一百六十五周年纪念特刊 = Sing chow chiu kwok thong cho kah koon 165th anniversary souvenir magazine 1984](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84484882). Xin jia po: [Gai guan]. (Call no.: Chinese RSING 369.25957 SIN)
 
@@ -160,15 +160,15 @@ Singapore. Department of Statistics. (2006). *[General household survey 2005: So
 
 Singapore Federation of Chinese Clan Associations. (2005). [新加坡宗乡会馆史略 = History of Clan Associations in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12665149). (Vol. 2). 新加坡: 新加坡宗乡会馆联合总. (Call no.: Chinese RSING q369.25957 HIS)
 
-Wu, H.Z. (1975). [新加坡华族会馆志](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84502638) *[Records of Chinese associations in Singapore]* (Vol. 2). Singapore: South Seas Society. (Call no.: RCO 369.25957 WH)
+Wu, H.Z. (1975). [新加坡华族会馆志](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84502638) [Records of Chinese associations in Singapore] (Vol. 2). Singapore: South Seas Society. (Call no.: RCO 369.25957 WH)
 
 Yen, C.H. (1995). *[Community and politics: The Chinese in colonial Singapore and Malaysia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7363583)*. Singapore: Times Academic Press. (Call no.: RSING 305.895105957 YEN)
 
 庄国土 [Zhuang, G.], 清水纯 [Qing, S.]., & 潘宏立等著 [Pan, H.Z.D.]. (2010). [近30年东亚华人社团的新变化 = The changes of ethnic Chinese associations in East Asia since last 30 years](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13935559).  Xiamen: Xiamen University Press. (Call no.: Chinese RSING 305.895106 CHA)
 
-Zhonghui 20 nian. *[Singapore Federation of Chinese Clan Associations: The twentieth year]*. (2005). Singapore: Singapore Federation of Chinese Clan Associations. (Not available in NLB holdings)
+Zhonghui 20 nian. [Singapore Federation of Chinese Clan Associations: The twentieth year]. (2005). Singapore: Singapore Federation of Chinese Clan Associations. (Not available in NLB holdings)
 
-Zhonghui san nian *[Singapore Federation of Chinese Clan Associations: The third year]*. (1989). Singapore: Singapore Federation of Chinese Clan Associations. (Not available in NLB holdings)
+Zhonghui san nian [Singapore Federation of Chinese Clan Associations: The third year]. (1989). Singapore: Singapore Federation of Chinese Clan Associations. (Not available in NLB holdings)
 
 #### **NOTES**
 
