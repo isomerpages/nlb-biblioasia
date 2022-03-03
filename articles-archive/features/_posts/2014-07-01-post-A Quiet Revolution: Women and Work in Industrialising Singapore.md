@@ -174,11 +174,11 @@ Wee, C. (1980, May 25). [Why housewives are opting for part-time work](http://er
 
 Wong, A.K. (1975). *[Women in modern Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=875315)*, Singapore: Singapore University Education Press. (Call no.: RSING 301.412095957 WON)
 
-Wong, A.K. (1979). Women’s status and changing family values. In E. Kuo & A.K. Wong (Eds.), *[The Contemporary family in Singapore: Structure and change](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081987)* (pp. 40–61). Singapore: Singapore University Press. (Call no.: RSING 301.42095957 CON)
+Wong, A.K. (1979). Women’s status and changing family values. In E. Kuo & A.K. Wong (Eds.), *[The contemporary family in Singapore: Structure and change](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081987)* (pp. 40–61). Singapore: Singapore University Press. (Call no.: RSING 301.42095957 CON)
 
 Wong, A.K. (1980). *[Economic development and women’s place: Women in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4138744)*. London: Change International Report. (Call no.: RSING 301.412095957 WON)
 
-Wong, A.K. (1981, Winter). Planned development, social stratification, and the sexual division of labour in Singapore. Signs, 7 (2), 434–452. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+Wong, A.K. (1981, Winter). Planned development, social stratification, and the sexual division of labour in Singapore. <i>Signs</i>, 7 (2), 434–452. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
 Wong, A.K., & Leong, W.K. (Eds.). (1993). *[Singapore women: Three decades of change](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6442564)*. Singapore: Times Academic Press. (Call no.: RSING 305.42095957 SIN)
 
@@ -242,7 +242,7 @@ Wong, L.W. (1972, October 29). [Quiet revolution in modern homes](http://eresour
 
 [^28]: [Lim](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4080228), 1982, pp. 10–12.
 
-[^29]: Wong, A.K. (1981, Winter). Planned development, social stratification, and the sexual division of labour in Singapore. Signs, 7 (2), 434–452, p. 441. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+[^29]: Wong, A.K. (1981, Winter). Planned development, social stratification, and the sexual division of labour in Singapore. <i>Signs</i>, 7 (2), 434–452, p. 441. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
 [^30]: Toh, T.S. (1971). *[Increasing Singapore’s effective supply of labour](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4648614)* (p. iii). Singapore: National Productivity Centre. (Call no.: RCLOS 331.12095957 TOH)
 
