@@ -105,7 +105,7 @@ Table 2: Language most frequently spoken at home by resident Chinese population 
 
 #### **Revitalisation of Clan Associations (1986–2000s)**
 
-On 27 January 1986, the Singapore Federation of Chinese Clan Associations (SFCCA),[^24] an umbrella authority for all Chinese clan associations, was established. This bold move was to unite the various clan associations under one common purpose and direction: that of promoting Chinese culture and language to all, regardless of their dialect, ethnicity and nationality. Major cultural events (for instance River Hongbao, which celebrates Chinese New Year), exhibitions and publications related to Chinese culture and language are held or produced with support from the Singapore government.The SFCCA also publishes a magazine, <i>Yuan</i>(《源》), that serves as the publicity channel introducing members’ activities and articles about Chinese culture.[^25]
+On 27 January 1986, the Singapore Federation of Chinese Clan Associations (SFCCA),[^24] an umbrella authority for all Chinese clan associations, was established. This bold move was to unite the various clan associations under one common purpose and direction: that of promoting Chinese culture and language to all, regardless of their dialect, ethnicity and nationality. Major cultural events (for instance River Hongbao, which celebrates Chinese New Year), exhibitions and publications related to Chinese culture and language are held or produced with support from the Singapore government. The SFCCA also publishes a magazine, <i>Yuan</i> (《源》), that serves as the publicity channel introducing members’ activities and articles about Chinese culture.[^25]
 
 <div style="background-color: white;">
 <br/>
