@@ -110,9 +110,9 @@ By and large, working mothers relied on familial support for childcare and house
 
 On the whole, community networks proved to be the critical resource that facilitated women’s entry into the work force at a time when government social services for working mothers was in its nascence.[^54]
 
-#### **A Women's Work Is Never Done**
+#### **A Women's Work is Never Done**
 
-“Only a good woman can create a good family [...] only a group of good families can make a good nation.”[^55] That was the role of women in nation-building as enunciated by Puan Noor Aishah, the wife of then Yang di-Pertuan Negara (Head of State), Inche Yusof Ishak, in 1962. Her words hark back to a time when a woman’s place was in the home. However, as Singapore rapidly industrialised after Independence, it was imperative that women “become not just good housewives but economic assets as well.”[^56] More than a creature of legal reform and state policies, the “working woman” of Singapore came into being by dint of financial circumstance, initiative on the part of the individual woman, familial support and aspirations for upward social mobility.
+“Only a good woman can create a good family [...] only a group of good families can make a good nation.”[^55] That was the role of women in nation-building as enunciated by Puan Noor Aishah, the wife of then Yang di-Pertuan Negara (Head of State) Inche Yusof Ishak in 1962. Her words hark back to a time when a woman’s place was in the home. However, as Singapore rapidly industrialised after Independence, it was imperative that women “become not just good housewives but economic assets as well.”[^56] More than a creature of legal reform and state policies, the “working woman” of Singapore came into being by dint of financial circumstance, initiative on the part of the individual woman, familial support and aspirations for upward social mobility.
 
 The sex/gender division of labour has been breached but is by no means overturned as housework and childcare remain for the most part in female hands. [^57] Women continue to juggle career and motherhood today. The quiet revolution is arguably still underway. 
 
