@@ -150,7 +150,7 @@ Ong, K.B. (1972, June 6). [Housewife by day, worker by night](http://eresources.
 
 Purushotam, N. (2003). Silent witnesses: The ‘woman’ in the photograph. In K.B. Chan & C.K. Tong (Eds.), *[Past times: A social history of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11800570)* (pp. 33–55). Singapore: Times Editions. (Call no.: RSING 959.57 PAS)
 
-Purushotam, N. (2004). Women and knowledge/power: Notes on the Singaporean dilemma. In K.C. Ban, A. Pakir & C.K. Tong (Eds.), [Imagining Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12272896) (pp. 328–364). Singapore: Eastern Universities Press. (Call no.: RSING 959.57 IMA)
+Purushotam, N. (2004). Women and knowledge/power: Notes on the Singaporean dilemma. In K.C. Ban, A. Pakir & C.K. Tong (Eds.), *[Imagining Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12272896)* (pp. 328–364). Singapore: Eastern Universities Press. (Call no.: RSING 959.57 IMA)
 
 Salaff, J.W. (1988). *[State and family in Singapore: Restructuring an industrial society](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4493502)*. Ithaca: Cornell University Press. (Call no.: RSING 406.85095957 SAL)
 
