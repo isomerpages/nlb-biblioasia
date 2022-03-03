@@ -73,7 +73,7 @@ Painting of Pulau Ubin by John Turnbull Thomson. <i>“Grooved stones on Pulo Ub
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-10-issue-2/ubin/rock_facade.jpg" style="width:70%;">
-Rock facade similar to that in the 1850 painting by John Turnbull Thomson photographed by Dr Chua Ee Kiam. <i>Courtesy of Dr Chua Ee Kiam.</i></div>
+Rock facade similar to that in the 1850 painting by John Turnbull Thomson, photographed by Dr Chua Ee Kiam. <i>Courtesy of Dr Chua Ee Kiam.</i></div>
 
 <div style="background-color: white;">
 <br/>
