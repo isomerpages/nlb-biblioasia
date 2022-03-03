@@ -180,7 +180,7 @@ Zhonghui san nian [Singapore Federation of Chinese Clan Associations: The third 
 
 [^4]: 庄国土 [Zhuang, G.], 清水纯 [Qing, S.]., & 潘宏立等著 [Pan, H.Z.D.]. (2010). [近30年东亚华人社团的新变化 = The changes of ethnic Chinese associations in East Asia since last 30 years](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13935559) (p. 32). Xiamen: [Xiamen](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84502638) University Press. (Call no.: Chinese RSING 305.895106 CHA)
 
-[^5]: 潘明智 [Pan, M.]. (Ed.). (1996). [华人社会与宗乡会馆](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84443790) <i>[The Chinese society and clan associations)</i> (pp. 419–420). Singapore: Ling zi da zhong chuan bo zhong xin. (Call no.: RCO 909.04951 PBT)
+[^5]: 潘明智 [Pan, M.]. (Ed.). (1996). [华人社会与宗乡会馆](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84443790) <i>[The Chinese society and clan associations]</i> (pp. 419–420). Singapore: Ling zi da zhong chuan bo zhong xin. (Call no.: RCO 909.04951 PBT)
 
 [^6]: [Pan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84443790), 1996, pp. 424–426.
 
