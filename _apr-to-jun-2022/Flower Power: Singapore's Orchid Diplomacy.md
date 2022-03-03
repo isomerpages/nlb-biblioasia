@@ -68,7 +68,7 @@ If the VIPs wish to grow their namesake orchid in their home country, the Singap
 
 After being presented with their namesake orchids, dignitaries may go on to view other VIP orchids of significance to them. Following the unveiling of the *Vanda* William Catherine (*Vanda* First and Last × *Vanda* Motes Toledo Blue), Britain’s Prince William and Catherine, the Duchess of Cambridge, viewed the *Dendrobium* Elizabeth (*Dendrobium* Mustard × *Dendrobium* Noor Aishah; Noor Aishah is the wife of Singapore’s first president, Yusof Ishak) and the *Dendrobium* Memoria Princess Diana, named after Prince William’s grandmother and late mother respectively. Singapore was the royal couple’s first stop in their Asia-Pacific tour to commemorate Queen Elizabeth’s Diamond Jubilee in 2012.[^27]
 
-![](/images/Vol%2018%20Issue%201/Orchid%20Diplomacy/E_Queen%20Elizabeth_and_flower.png)
+![](/images/Vol%2018%20Issue%201/Orchid%20Diplomacy/new%20elizabeth.png)
 <div style="background-color: white;">(Left) Queen Elizabeth II touring the Singapore Botanic Gardens, 1972. Accompanying
 her are (from left) Permanent Secretary to the Ministry of National Development Cheng Tong Fatt, Minister for Law and National Development E.W. Barker, and Acting Director of the Singapore Botanic Gardens A.G. Alphonso. The queen had an orchid named in her honour, the Dendrobium Elizabeth.<i> Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i><br>(Right)The <i>Dendrobium</i> Elizabeth has twisted petals and the sepals are yellow with light greyish-purple streaks. <i>Photo by and courtesy of Jimmy Yap.</i></div>
 
