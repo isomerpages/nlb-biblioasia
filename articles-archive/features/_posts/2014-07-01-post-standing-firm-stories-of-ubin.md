@@ -271,7 +271,7 @@ Zaccheus, M., & Ee, D. (2013, October 4). [Pulau Ubin: Rustic or just rustling a
 
 [^38]: Pulau Ubin residents to start paying rent for first year. (2013, April 17). <i>Channel NewsAsia</i>. Retrieved from Factiva via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
-[^39]: The Straits Times, 24 Aug 2002, p. 8.
+[^39]: *[The Straits Times](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20020824-1.2.42.14)*, 24 Aug 2002, p. 8.
 
 [^40]: White, T. (2001, February 12). [Leaving Ubin for life on mainland](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20010212-1.2.40.3.20). <i>The Straits Times</i>, p. 8. Retrieved from NewspaperSG.
 
