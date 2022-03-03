@@ -78,7 +78,7 @@ Dignitaries may also enjoy other aspects of the Botanic Gardens during their vis
 
 
 ![](/images/Vol%2018%20Issue%201/Orchid%20Diplomacy/Xi%20Jinping-Peng%20Liyuan.png)
-<div style="background-color: white;">The <i>Papilionanda</i> Xi Jinping-Peng Liyuan has pink petals with fine red spots, an orangey-red prominent lip with dark red markings, and an orangey-yellow centre. <i>Photo by and courtesy of Jimmy Yap.</i></div>
+<div style="background-color: white;">The <i>Papilionanda</i> Xi Jinping-Peng Liyuan is named in honour of the Chinese President and his wife. <i>Photo by and courtesy of Jimmy Yap.</i></div>
 
 #### **Non-VIP Orchids**
 
