@@ -78,7 +78,7 @@ Rock facade similar to that in the 1850 painting by John Turnbull Thomson, photo
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-10-issue-2/ubin/ong_kim_seng_painting.jpg" style="width:70%;">
-Painting of prawn ponds on Ubin by Cultural Medallion winner Ong Kim Seng. Ong spent eight months painting on the island and his paintings were showcased in 2001 at “Charms of Ubin”, an exhibition held at the People’s Association headquarters, organised by the Outward Bound School to raise funds to develop an adventure park for children. Ong’s time on Ubin reminded him of his <i>kampong</i> days. <i>Courtesy of Ong Kim Seng.</i></div>
+Painting of prawn ponds on Ubin by Cultural Medallion winner Ong Kim Seng. Ong spent eight months painting on the island and his paintings were showcased in 2001 at “Charms of Ubin”, an exhibition held at the People’s Association headquarters, organised by the Outward Bound School to raise funds to develop an adventure park for children. Ong’s time on Ubin reminded him of his <i>kampung</i> days. <i>Courtesy of Ong Kim Seng.</i></div>
 
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;">
 <b>UBIN'S FLORA AND FAUNA</b>
