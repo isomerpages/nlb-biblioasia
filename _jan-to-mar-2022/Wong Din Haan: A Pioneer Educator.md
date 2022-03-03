@@ -2,10 +2,9 @@
 title: "Wong Din Haan: A Pioneer Educator"
 permalink: /vol-17/issue-4/jan-to-mar-2022/wong-din-haan
 image: /images/vol-17-issue-4/Wong-Din-Haan/Cover-WongDinHaan-R.jpg
-description: Wong Din Haan not only founded what is believed to be the first
-  girls’ school in Singapore, but she was also a champion for women’s rights.
+description: Wong Din Haan, who founded a girls’ school in Singapore, was also a champion for women’s rights.
 ---
-#### Wong Din Haan not only founded what is believed to be the first girls’ school in Singapore, but she was also a champion for women’s rights. **Patricia Lim** tells us more.
+#### Wong Din Haan, who founded a first girls’ school in Singapore, was also a champion for women’s rights. **Patricia Lim** tells us more.
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/Wong-Din-Haan/Cover-WongDinHaan-R.jpg)
 <div style="background-color: white;">Family photo of Wong Din Haan taken in front of Wong Ah Fook’s family home on Keng Lee Road, Singapore. First row, from left: older daughter Winnie Kwan Ming Chit; granddaughter; Wong Din Haan; grandson; Wong Peng Sook, wife of Kwan Ying Hung holding her baby son Kwan Teet Ming. Second row, from left: younger daughter Elsie Kwan Ming Tak; wife of Kwan Ying Siong holding her second son; wife of N.I. Low. Third row, from left: second son Dr Kwan Ying Hung; eldest son Kwan Ying Siong; and friend N.I. Low. <i>Courtesy of Paddy Chee.</i></div>
@@ -19,7 +18,7 @@ My family is Cantonese. Saam Koo Por’s name was Wong Mei Ho (黄美好), but a
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/Wong-Din-Haan/Wong-Ah-Fook2.jpg)
 <div style="background-color: white;">Wong Din Haan was the second daughter of Wong Ah Fook, who came to Singapore in 1854 as a carpenter. He was responsible for the construction of a number of Johor’s heritage buildings, including the Istana Besar, the royal palace of the Sultan of Johor. Jalan Wong Ah Fook in downtown Johor Bahru is named after him. <i>Image reproduced from Song Ong Siang, One Hundred Years’ History of the Chinese in Singapore (London: John Murray, 1923), 354. Collection of the National Library, Singapore. (Accession no.: B20048226B).</i></div>
 
-It was much later that I discovered she was known by another name. I had attended a lecture by Professor Zheng Liang Shu (郑良树; Tay Liang Soo) of Southern University College, Johor, where he spoke about the pioneer educator Wong Din Haan (黄典娴; Huang Dian Xian). The second daughter of Wong Ah Fook, my grandaunt founded what he described as the first school for girls in Singapore.[^3]
+It was much later that I discovered she was known by another name. I had attended a lecture by Professor Zheng Liang Shu (郑良树; Tay Liang Soo) of Southern University College, Johor, where he spoke about the pioneer educator Wong Din Haan (黄典娴; Huang Dian Xian). The second daughter of Wong Ah Fook, my grandaunt had founded a school for girls in Singapore.[^3]
 
 I was confused because no one in the family seemed to know about the existence of this girls’ school until I asked one of my uncles, Pang Heng Hung. He confirmed that she was indeed the founder of a school known as Wah Kiew Nui Hok (华侨女校), which was located on New Bridge Road. His mother was Wong Bee Soo, Wong Din Haan’s younger sister, who had been a teacher in the school.
 
