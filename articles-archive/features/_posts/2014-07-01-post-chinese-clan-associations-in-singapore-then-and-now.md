@@ -128,7 +128,8 @@ The role of Chinese clan associations in Singapore, from the colonial years to m
 <br/>
 <img src="/images/vol-10-issue-2/chineseclan/Fujian_Association.jpg">
 The Fujian Association at Telok Ayer Street still stands today, looking little different from when it was first built in 1913.</div>
-
+<br/>
+<img style="width:100px;height:100px;margin-bottom:-30px; border-radius:100%; box-shadow: 1px 2px 0px #424242;" src="/images/vol-10-issue-2/chineseclan/Lee_Meiyu.jpg">
 <p style="font-size:15px;"><b>Lee Meiyu</b> is a Librarian with the National Library of Singapore. She has co-written publications such as Money by Mail to China: Dreams and Struggles of Early Migrants and Roots: Tracing Family Histories – a Resource Guide.</p>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-10/issue-2/jul-sep-2014/"><center>Back to Issue</center></a>
