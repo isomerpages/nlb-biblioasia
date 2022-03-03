@@ -101,6 +101,7 @@ On 14 January 2002, the Ministry of National Development announced that land rec
 <br><br>
 <img src="/images/vol-10-issue-2/ubin/high_tide.jpg" style="width:70%;">High tide at the Chek Jawa boardwalk. <i>Courtesy of Ria Tan, www.wildsingapore.com</i></span>
 
+<img style="width:100px;height:100px;margin-bottom:-30px; border-radius:100%; box-shadow: 1px 2px 0px #424242;" src="/images/vol-10-issue-2/ubin/ang_seow_leng.jpg">
 <p style="font-size:15px;"><b>Ang Seow Leng</b> is a Senior Reference Librarian with the National Library of Singapore. Her responsibilities include managing and developing content, as well as providing reference and research services relating to Singapore and Southeast Asia.</p>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-10/issue-2/jul-sep-2014/"><center>Back to Issue</center></a>
