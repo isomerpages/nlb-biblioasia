@@ -55,13 +55,13 @@ With intervention by the colonial government, the control of secret societies ov
 
 However, as more Chinese migrants arrived, clan associations grew bigger and stronger, particularly when kinship-sponsored schemes brought more people of the same lineage in. Later, when clan associations were recognised as legal bodies by the colonial government, they became more attractive than secret societies.[^12]
 
-There were two types of clan associations: (a) locality-based, where members came from the same geographical area, but might not be blood related; and (b) line-age-based, where members had the same surname but were not necessarily from the same geographical area.[^13] Both associations generally provided services related to welfare and religious activities such as:
+There were two types of clan associations: (a) locality-based, where members came from the same geographical area, but might not be blood related; and (b) lineage-based, where members had the same surname but were not necessarily from the same geographical area.[^13] Both associations generally provided services related to welfare and religious activities such as:
 
 (a) worship of Protector Gods; <br>(b) ancestral worship;[^14] <br>(c) observance of seasonal festivals, <br>(d) helping destitute members by recommending jobs, financing education or burial matters and others; and <br>(e) arbitration of disputes.[^15]
 
 Looking at the functions that early clan associations fulfilled, it is clear that their primary aim was to help newly arrived kin to settle down in Singapore. This became especially important when migrants arrived alone and clan associations were the only places they could turn to for help. It became vital to join clan associations for one’s success, or even survival.
 
-In the early 1900s, the clan associations became more directly involved with the political situation in China. The Chinese revolutionaries who came to Southeast Asia seeking financial support from the Overseas Chinese for their activities in China found favour with the Chinese community in Singapore. Most Overseas Chinese viewed Singapore as a temporary stop for work and trade, hoping to return to China one day with their riches. Their emotional and political allegiance was to China where their families were. Historical events such as the fall of the Qing Dynasty in 1911 and the Sino-Japanese War in the 1930s led to the realisation that China had to become stronger in order to protect her own interests. To this end, the Overseas Chinese were willing to contribute money to the motherland or even volunteer to fight in her wars.
+In the early 1900s, clan associations became more directly involved with the political situation in China. The Chinese revolutionaries who came to Southeast Asia seeking financial support from the Overseas Chinese for their activities in China found favour with the Chinese community in Singapore. Most Overseas Chinese viewed Singapore as a temporary stop for work and trade, hoping to return to China one day with their riches. Their emotional and political allegiance was to China where their families were. Historical events such as the fall of the Qing Dynasty in 1911 and the Sino-Japanese War in the 1930s led to the realisation that China had to become stronger in order to protect her own interests. To this end, the Overseas Chinese were willing to contribute money to the motherland or even volunteer to fight in her wars.
 
 Fundraising and mobilisation of support required organisation and by this time, there were already several established clan associations led by respected Chinese leaders, many of whom were successful businessmen in the Chinese community.[^16] These leaders were politically well connected and their wealth and networks made them the best people to organise such activities.
 
@@ -83,8 +83,6 @@ In its first 10 years of Independence, the Singapore government faced an uphill 
 <img src="/images/vol-10-issue-2/chineseclan/1984_seminar.jpg" style="width:70%;">
 The 1984 seminar which re-examined the roles of Chinese clan associations in modern-day Singapore. It led to the formation of the umbrella body, Singapore Federation of Chinese Clan Associations, in 1986. <i>Courtesy of Singapore Federation of Chinese Clan Associations.</i></div>
 
-It became vital to join clan associations for one’s success, or even survival.
-
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-10-issue-2/chineseclan/campaign_to_use_Mandarin.jpg" style="width:70%;">
@@ -96,11 +94,11 @@ The government also started taking steps to remove elements of society that were
 
 Voices pushing for transformation began to surface in the 1970s. On 2 December 1984, a seminar focusing on the new roles of clan associations in the modern era was held. Attended by 185 clan associations, the opening speech given by then Second Deputy Prime Minister Ong Teng Cheong outlined five directions of future development for the associations:
 
-(a) open their membership to all Singaporeans, irrespective of race and dialect; <br>(b) groom a younger leadership for renewal; <br>(c) intensify cultural and educational activities such as organising largescale cultural and recreational activities to promote arts and festivals, publishing books and magazines, and collecting, preserving and exhibiting cultural heritage of associations; <br>(d) set up homes for the aged, crèches, and care-centres for different age-groups; and <br>(e) co-ordinate with other community organisations for community development.[^21]
+(a) open their membership to all Singaporeans, irrespective of race and dialect; <br>(b) groom a younger leadership for renewal; <br>(c) intensify cultural and educational activities such as organising large-scale cultural and recreational activities to promote arts and festivals, publishing books and magazines, and collecting, preserving and exhibiting cultural heritage of associations; <br>(d) set up homes for the aged, crèches, and care-centres for different age-groups; and <br>(e) co-ordinate with other community organisations for community development.[^21]
 
 The seminar concluded that regardless how the political environment might have changed, it was still important to retain one’s cultural roots. In an increasingly Westernised Singapore society, the task of preserving and promoting Chinese culture and language took on an urgent note as younger Singaporeans were becoming increasingly detached from their own heritage. From the 1980s onwards, both the government and clan associations agreed that the associations should take an active role in promoting Chinese culture to all.[^22]
 
-<span style="background-color: white;">
+<span style="background-color: white; font-size:1rem;line-height:1.5;">
 <br/>
 <img src="/images/vol-10-issue-2/chineseclan/table2.jpg" style="width:70%;">
 Table 2: Language most frequently spoken at home by resident Chinese population aged five years and over.</span>[^23]
