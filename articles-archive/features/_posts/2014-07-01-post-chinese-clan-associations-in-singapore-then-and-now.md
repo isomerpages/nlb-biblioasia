@@ -176,7 +176,7 @@ Zhonghui san nian [Singapore Federation of Chinese Clan Associations: The third 
 
 [^2]: 星洲谯国堂曹家馆 [Sing Chow Chu Kwok Thong Cho Kah Koon]. (1985). [星洲谯国堂曹家馆一百六十五周年纪念特刊 = Sing chow chiu kwok thong cho kah koon 165th anniversary souvenir magazine 1984](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84484882) (p. 142). Xin jia po: [Gai guan]. (Call no.: Chinese RSING 369.25957 SIN)
 
-[^3]: According to oral history, Cho Kah Koon was founded in 1819. However, there has been no documentation supporting this yet. There have also been debates that the real name of Chow Ah Chey could be Chow Ah Chi. For more details, refer to volume two of Xin jia po hua zu hui guan zhi [Records of Chinese associations in Singapore] by Wu Hua.
+[^3]: According to oral history, Cho Kah Koon was founded in 1819. However, there has been no documentation supporting this yet. There have also been debates that the real name of Chow Ah Chey could be Chow Ah Chi. For more details, refer to volume two of <i>Xin jia po hua zu hui guan zhi</i> [Records of Chinese associations in Singapore] by Wu Hua.
 
 [^4]: 庄国土 [Zhuang, G.], 清水纯 [Qing, S.]., & 潘宏立等著 [Pan, H.Z.D.]. (2010). [近30年东亚华人社团的新变化 = The changes of ethnic Chinese associations in East Asia since last 30 years](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13935559) (p. 32). Xiamen: Xiamen University Press. (Call no.: Chinese RSING 305.895106 CHA)
 
