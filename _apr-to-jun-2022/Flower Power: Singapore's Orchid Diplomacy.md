@@ -3,7 +3,6 @@ title: "Flower Power: Singapore's Orchid Diplomacy"
 permalink: /apr-to-jun-2022/vol-18/issue-1/singapore-orchid-diplomacy
 description: ""
 ---
-
 #### Singapore’s diplomatic efforts may take several forms, including naming hybrid orchids after foreign dignitaries. **Rebecca Tan** tells us more.
 
 ![](/images/Vol%2018%20Issue%201/Orchid%20Diplomacy/Sealara%20Nelson%20Mandela%20(credit%20NParks).png)
@@ -70,7 +69,8 @@ If the VIPs wish to grow their namesake orchid in their home country, the Singap
 After being presented with their namesake orchids, dignitaries may go on to view other VIP orchids of significance to them. Following the unveiling of the *Vanda* William Catherine (*Vanda* First and Last × *Vanda* Motes Toledo Blue), Britain’s Prince William and Catherine, the Duchess of Cambridge, viewed the *Dendrobium* Elizabeth (*Dendrobium* Mustard × *Dendrobium* Noor Aishah; Noor Aishah is the wife of Singapore’s first president, Yusof Ishak) and the *Dendrobium* Memoria Princess Diana, named after Prince William’s grandmother and late mother respectively. Singapore was the royal couple’s first stop in their Asia-Pacific tour to commemorate Queen Elizabeth’s Diamond Jubilee in 2012.[^27]
 
 ![](/images/Vol%2018%20Issue%201/Orchid%20Diplomacy/E_Queen%20Elizabeth_and_flower.png)
-<div style="background-color: white;">(Left) Queen Elizabeth II with A.G. Alphonso, Acting Director of the Singapore Botanic Gardens, 1972. The queen had an orchid named after her, the <i>Dendrobium</i> Elizabeth. <i>Image reproduced from “A Saffron Spray Gets the Royal Vote,” Straits Times, 21 February 1972, 5. (From NewspaperSG). </i><br>(Right)The <i>Dendrobium</i> Elizabeth has twisted petals and the sepals are yellow with light greyish-purple streaks. <i>Photo by and courtesy of Jimmy Yap.</i></div>
+<div style="background-color: white;">(Left) Queen Elizabeth II touring the Singapore Botanic Gardens, 1972. Accompanying
+her are (from left) Permanent Secretary to the Ministry of National Development Cheng Tong Fatt, Minister for Law and National Development E.W. Barker, and Acting Director of the Singapore Botanic Gardens A.G. Alphonso. The queen had an orchid named in her honour, the Dendrobium Elizabeth.<i> Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i><br>(Right)The <i>Dendrobium</i> Elizabeth has twisted petals and the sepals are yellow with light greyish-purple streaks. <i>Photo by and courtesy of Jimmy Yap.</i></div>
 
 
 Dignitaries may also enjoy other aspects of the Botanic Gardens during their visit. In November 2015, after the *Papilionanda* Xi Jinping-Peng Liyuan (*Vanda* Kulwadee Fragrance × *Papilionanthe* Miss Joaquim) was named in honour of the Chinese President and his wife, the couple enjoyed a four-course lunch at the Corner House restaurant in the Botanic Gardens. They were hosted by Prime Minister Lee Hsien Loong and his wife Ho Ching. The orchid has pink petals with fine red spots, an orangey-red prominent lip with dark red markings, and an orangey-yellow centre.[^28]
