@@ -168,11 +168,15 @@ Singapore. Markets and Hawkers Department. (1957). [*Annual report of the Market
 
 Singapore. Town Cleansing Department. (1948). [*Annual report 1948*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5047259). Singapore: G.P.O. Available via PublicationSG.
 
-Singapore Municipality. (1896). Administration report of the Singapore Municipality for the year 1895. Singapore: Fraser & Neave Limited. (Call no.: RRARE 352.05951 SIN; Microfilm no.: NL3351)
+Singapore Municipality. (1896). [*Administration report of the Singapore Municipality for the year 1895*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5042316). Singapore: Fraser & Neave Limited. (Call no.: RRARE 352.05951 SIN; Microfilm no.: NL3351)
 
-Siong, O. (2013, April 7). Hawkers cautious about sharing ‘trade secrets’ at proposed training institute. Channel NewsAsia. Retrieved from Channel NewsAsia website. 
-Street hawking nuisance. (1905, October 12). Eastern Daily Mail and Straits Morning Advertiser, p. 2. Retrieved from NewspaperSG.
-Tan, W.J. (1971, August 27). 2 super hawker centres for the city. The Straits Times, p. 26. Retrieved from NewspaperSG.
-The last hawkers to be resited. (1986, April 29). The Straits Times, p. 21. Retrieved from NewspaperSG.
+Siong, O. (2013, April 7). Hawkers cautious about sharing ‘trade secrets’ at proposed training institute. *Channel NewsAsia*. Retrieved from Channel NewsAsia website. 
+
+[Street hawking nuisance](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/easterndaily19051012-1.2.10). (1905, October 12). *Eastern Daily Mail and Straits Morning Advertiser*, p. 2. Retrieved from NewspaperSG.
+
+Tan, W.J. (1971, August 27). [2 super hawker centres for the city](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710827-1.2.152). *The Straits Times*, p. 26. Retrieved from NewspaperSG.
+
+[The last hawkers to be resited](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19860429-1.2.37.1). (1986, April 29). *The Straits Times*, p. 21. Retrieved from NewspaperSG.
+
 Wong, H.S. (2007). A taste of the past: Historically themed restaurants and social memory in Singapore (p. 124). In S.C.H. Cheung & C.B. Tan (Eds.), Food and foodways in Asia: Resource, tradition and cooking. London: Routledge. (Call no.: R 394.12095 FOO)
 Yeo, B.S.A. (2003). Contesting space in colonial Singapore: Power relations and the urban built environment. Singapore: Singapore University Press. (Call no.: RSING 307.76095957 YEO)
