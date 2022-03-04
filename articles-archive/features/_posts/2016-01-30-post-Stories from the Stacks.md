@@ -90,7 +90,7 @@ Look out also for the collection of delightful English nursery rhymes translated
 <div>
 	<b>Chung Sang Hong</b> is Assistant Director, Exhibitions & Curation, with the National Library of Singapore. His responsibilities include project management and the curation of exhibitions.</div>
 	
-#### **	NOTES**
+#### **NOTES**
 [^1]:Oxford University Press. (2015). Stack. Retrieved from Oxford Dictionaries website. 
   
 [^2]:Raffles, T.S. (1819). Minute by Sir T. S. Raffles on the establishment of a Malay college at Singapore (p. 17). [S.l. : s.n.]. Retrieved from BookSG. 
@@ -109,4 +109,4 @@ Look out also for the collection of delightful English nursery rhymes translated
   
 [^9]:Lu Shicong [吕世聪]. (2015, October 25). Guyouxuan, Bendi Zuizao Huaren Yinwuguan (古友轩 – 本地最早华人印务馆) [Koh Yew Hean Press – the oldest Chinese printing press in Singapore]. Lianhe Zaobao [联合早报], pp. 18–19. Retrieved from NewspaperSG. 
   
-[^10]:Tan, B. (July 2011). The Straits Chinese Magazine: A Malayan Voice, BibioAsia,7 (2), 30–35. Retrieved from BiblioAsia website.  
+[^10]:Tan, B. (July 2011). The Straits Chinese Magazine: A Malayan Voice, BibioAsia,7 (2), 30–35. Retrieved from BiblioAsia website.
