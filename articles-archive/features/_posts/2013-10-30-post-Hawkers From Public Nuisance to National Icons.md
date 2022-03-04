@@ -183,15 +183,15 @@ Wong, H.S. (2007). A taste of the past: Historically themed restaurants and soci
 Yeo, B.S.A. (2003). [*Contesting space in colonial Singapore: Power relations and the urban built environment*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11827061). Singapore: Singapore University Press. (Call no.: RSING 307.76095957 YEO)
 
 #### **NOTES**
-[^1]:Lim, J. (2013, May 8). Singapore are the biggest spenders in Asia-Pacific for dining: Survey. (2013, May 8). The Straits Times. Retrieved from The Straits Times website.
-[^2]:Cameron, J. (1865). Our tropical possessions in Malayan India (pp. 65–66). London: Smith, Elder and Co. Retrieved from BookSG.
-[^3]:Street hawking nuisance. (1905, October 12). Eastern Daily Mail and Straits Morning Advertiser, p. 2. Retrieved from NewspaperSG.
-[^4]:Yeo, B.S.A. (2003). Contesting space in colonial Singapore: Power relations and the urban built environment (p. 262). Singapore: Singapore University Press. (Call no.: RSING 307.76095957 YEO)
-[^5]:Singapore Municipality. (1896). Administration report of the Singapore Municipality for the year 1895 (p. 62). Singapore: Fraser & Neave Limited. (Call no.: RRARE 352.05951 SIN; Microfilm no.: NL3351)
-[^6]:Simpson, W.J. (1907). Report on the sanitary condition of Singapore (p. 16). London: Waterlow & Sons. (Not available in NLB holdings)
-[^7]:Bartley, W. (1932). Report of the committee appointed to investigate the hawker question in Singapore (pp. 3–4). Singapore: G.P.O. Retrieved from BookSG.
-[^8]:Bartley, 1932, pp. 4–5.
-[^9]:Bartley, 1932, p. 3.
+[^1]:Lim, J. (2013, May 8). Singapore are the biggest spenders in Asia-Pacific for dining: Survey. (2013, May 8). *The Straits Times*. Retrieved from The Straits Times website.
+[^2]:Cameron, J. (1865). [*Our tropical possessions in Malayan India*](https://eresources.nlb.gov.sg/printheritage/detail/7658c549-f1c5-47c7-b8b6-831f7eb90c58.aspx) (pp. 65–66). London: Smith, Elder and Co. Retrieved from BookSG.
+[^3]:[Street hawking nuisance](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/easterndaily19051012-1.2.10). (1905, October 12). *Eastern Daily Mail and Straits Morning Advertiser*, p. 2. Retrieved from NewspaperSG.
+[^4]:Yeo, B.S.A. (2003). [*Contesting space in colonial Singapore: Power relations and the urban built environment*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11827061) (p. 262). Singapore: Singapore University Press. (Call no.: RSING 307.76095957 YEO)
+[^5]:Singapore Municipality. (1896). [*Administration report of the Singapore Municipality for the year 1895*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5042316) (p. 62). Singapore: Fraser & Neave Limited. (Call no.: RRARE 352.05951 SIN; Microfilm no.: NL3351)
+[^6]:Simpson, W.J. (1907). *Report on the sanitary condition of Singapore* (p. 16). London: Waterlow & Sons. (Not available in NLB holdings)
+[^7]:Bartley, W. (1932). [*Report of the committee appointed to investigate the hawker question in Singapore*](https://eresources.nlb.gov.sg/printheritage/detail/d0b2b40a-dec8-466e-8230-11bd0dc42597.aspx) (pp. 3–4). Singapore: G.P.O. Retrieved from BookSG.
+[^8]:[Bartley](https://eresources.nlb.gov.sg/printheritage/detail/d0b2b40a-dec8-466e-8230-11bd0dc42597.aspx), 1932, pp. 4–5.
+[^9]:[Bartley](https://eresources.nlb.gov.sg/printheritage/detail/d0b2b40a-dec8-466e-8230-11bd0dc42597.aspx), 1932, p. 3.
 [^10]:Bartley, 1932, pp. 2–3.
 [^11]:Bartley, 1932, pp. 2–4.
 [^12]:Yeoh, 2003, pp. 264–266.
