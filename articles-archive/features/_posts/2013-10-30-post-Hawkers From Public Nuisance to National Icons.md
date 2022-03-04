@@ -127,13 +127,15 @@ Cameron, J. (1865). [*Our tropical possessions in Malayan India*](https://eresou
 
 Cheung, H. (2013, May 16) Can Singapore's hawker food heritage survive? *BBC News*. Retrieved from [BBC News](http://www.bbc.co.uk/news/world-asia-22506475 ).
 
-“City opens hawker war”. (1953, October 13). The Straits Times, p. 7. Commission on hawkers appointed”. (1950, April 18). The Singapore Free Press, p. 6.
+[“City opens hawker war”](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19531026-1.2.105). (1953, October 13). *The Straits Times*, p. 7. Retrieved from NewspaperSG.
+
+[Commission on hawkers appointed](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19500418-1.2.88). (1950, April 18). *The Singapore Free Press*, p. 6. Retrieved from NewspaperSG.
  
-Feng, Z. (2013, January 11). “2 bodies to start training would-be hawkers”. The Straits Times.
+Feng, Z. (2013, January 9). [2 bodies to start training would-be hawkers](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20130109-1.2.5.8). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
 
-“Hawker centres or shocker centres?” (1985, October 6). The Straits Times, p. 2.
+“Hawker centres or shocker centres?” (1985, October 6). The Straits Times, p. 2. Retrieved from NewspaperSG. 
 
-“Hawkers draw up ‘charter’ to guard rights of 30,000”. (1958, September 21). The Straits Times, p. 7.
+“Hawkers draw up ‘charter’ to guard rights of 30,000”. (1958, September 21). The Straits Times, p. 7. Retrieved from NewspaperSG.
 
 Hawkers Inquiry Commission. (1950). Report of the Hawkers Inquiry Commission. Singapore: Govt. Print. Off. Call No.: RCLOS 331.798095957 SIN
 
