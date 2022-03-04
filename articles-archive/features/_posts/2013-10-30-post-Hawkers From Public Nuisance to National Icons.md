@@ -196,14 +196,14 @@ Yeo, B.S.A. (2003). [*Contesting space in colonial Singapore: Power relations an
 [^11]:[Bartley](https://eresources.nlb.gov.sg/printheritage/detail/d0b2b40a-dec8-466e-8230-11bd0dc42597.aspx), 1932, pp. 2–4.
 [^12]:[Yeoh](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11827061), 2003, pp. 264–266.
 [^13]:[Yeoh](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11827061), 2003, p. 264.
-[^14]:Singapore Municipality. (1896). Administration report of the Singapore Municipality for the year 1895 (p. 62). Singapore: Fraser & Neave Limited. (Call no.: RRARE 352.05951 SIN; Microfilm no.: NL3351)
-[^15]:Singapore Municipality. (1928). Administration report of the Singapore Municipality for the year 1927 (p. 23). Singapore: Singapore Municipality. (Call no.: RCLOS 363.61095957 SIN)
-[^16]:20,000 hawkers defy the law. (1949, October 3). The Straits Times, p. 3. Retrieved from NewspaperSG.
-[^17]:Singapore. Town Cleansing Department. (1948). Annual report 1948 (p. 24). Singapore: G.P.O. Available via PublicationSG.
-[^18]:Singapore. Hawkers Inquiry Commission. (1950). Report of the hawkers inquiry commission (pp. 11–12). Singapore: G.P.O. (Call no.: RCLOS 331.798095957 SIN)
-[^19]:Commission on hawkers appointed. (1950, April 18). The Singapore Free Press, p. 6. Retrieved from NewspaperSG.
-[^20]:Singapore. Hawkers Inquiry Commission, 1950, pp. 9–11, 16–17.
-[^21]:Singapore. Hawkers Inquiry Commission, 1950, pp. 16–17.
+[^14]:Singapore Municipality. (1896). [*Administration report of the Singapore Municipality for the year 1895*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5042316) (p. 62). Singapore: Fraser & Neave Limited. (Call no.: RRARE 352.05951 SIN; Microfilm no.: NL3351)
+[^15]:Singapore Municipality. (1928). [*Administration report of the Singapore Municipality for the year 1927*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201041566) (p. 23). Singapore: Singapore Municipality. (Call no.: RCLOS 363.61095957 SIN)
+[^16]:[20,000 hawkers defy the law](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19491003-1.2.51). (1949, October 3). *The Straits Times*, p. 3. Retrieved from NewspaperSG.
+[^17]:Singapore. Town Cleansing Department. (1948). [*Annual report 1948*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5047259) (p. 24). Singapore: G.P.O. Available via PublicationSG.
+[^18]:Singapore. Hawkers Inquiry Commission. (1950). [*Report of the hawkers inquiry commission*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200077485) (pp. 11–12). Singapore: G.P.O. (Call no.: RCLOS 331.798095957 SIN)
+[^19]:[Commission on hawkers appointed](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19500418-1.2.88). (1950, April 18). *The Singapore Free Press*, p. 6. Retrieved from NewspaperSG.
+[^20]:[Singapore. Hawkers Inquiry Commission](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200077485), 1950, pp. 9–11, 16–17.
+[^21]:[Singapore. Hawkers Inquiry Commission](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200077485), 1950, pp. 16–17.
 [^22]:Singapore. Hawkers Inquiry Commission, 1950, p. 19.
 [^23]:Singapore. Hawkers Inquiry Commission, 1950, pp. 19–20.
 [^24]:Singapore. Hawkers Inquiry Commission, 1950, pp. 25–28.
