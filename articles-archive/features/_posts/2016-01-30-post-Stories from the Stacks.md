@@ -58,4 +58,48 @@ on display at the exhibition.
 When China was forced to open its doors to foreigners after the Opium War, many missionaries in Southeast Asia shifted their base to China, leaving behind a legacy of publications that had been printed in the region. The history of publishing in Singapore owes a clear debt of gratitude to the work of these pioneering 
 Christian missionaries.
 
-However, publishing in Singapore was by no means the monopoly of the Protestant missionaries. In the later part of the 19th century, other printing presses were established. The first locally printed Tamil publication in the National Library is a collection of Islamic devotional poems titled *Munajathu Thirattu*, dated
+However, publishing in Singapore was by no means the monopoly of the Protestant missionaries. In the later part of the 19th century, other printing presses were established. The first locally printed Tamil publication in the National Library is a collection of Islamic devotional poems titled *Munajathu Thirattu*, dated 1872 (see page 58). It was written by Muhammad Abdul Kadir Pulavar, a pioneer Indian Muslim poet and publisher of the earliest known Tamil newspaper in Singapore,* Singai Vardhamani or Singapore Commercial News*. The Indian Muslim community, which owned several printing presses, came to dominate the publishing of Tamil and Malay newspapers in Singapore.
+
+One of the oldest Chinese printing presses in Singapore was Koh Yew Hean Press (古友轩), founded by Lin Hengnan（林衡南）in the 1860s at Telok Ayer Street. Lin came to Singapore in 1861 
+and became fascinated with the lithographic technology of the British.8 He picked up the trade within a short time and set up his own printing press. Koh Yew Hean Press published the first 
+Chinese-Malay dictionary in Singapore, *Hua yi tong yu* (华夷通语) in 1883 (see page 88), as well as other publications in other languages, such as a Jawi version of the *Hikayat Abdullah* (1880), and the first four issues of the English-language *Straits Chinese Magazine* (1897) (see page 80).9
+
+#### **Loyalties and Identities in Transition**
+
+Also included in the exhibition are artefacts that 
+provide important clues to the political affiliations 
+and cultural affinities of various communities in 
+Singapore. One of the most elaborate items is 
+a double-fold fuschia-coloured silk manuscript 
+titled “Address to Alfred, Duke of Edinburgh by the 
+Singapore Chinese Merchants on the Occasion of 
+His Visit to Singapore in 1869”. The handwritten 
+manuscript, flanked by carved wooden covers and 
+featuring a panorama of Singapore painted on 
+the reverse, expresses the Chinese merchants’ 
+steadfast loyalty and gratitude to Queen Victoria 
+and British rule. The Loyalty Address bears the 
+signatures of prominent Chinese merchants 
+such as Tan Kim Ching, Chiang Hong Lim, Seah 
+Eu Chin and Hoo Ah Kay (see page 2).
+
+Many Chinese in the upper crust of colonial 
+society were Peranakan (Straits-born Chinese), 
+who were educated in English and embraced 
+the culture of the British. By the late 19th century, however, social and political changes in 
+China revived their interest in Chinese culture 
+and affairs.
+One manifestation of this was The Straits 
+Chinese Magazine (see page 80), published 
+between 1897 and 1907 by two well-known Peranakan personalities, Lim Boon Keng and Song 
+Ong Siang, a doctor and lawyer respectively. The 
+magazine featured articles on wide-ranging 
+topics that concerned the Peranakan as well as 
+other communities. It advocated social, political 
+and cultural reforms for the Chinese – warning of the ills of opium, championing education 
+for Chinese girls and calling for Chinese men 
+to cut their queues, or pigtails. As the first 
+English periodical published by locals, the 
+magazine presented a unified Malayan voice 
+and explored what it meant to be Chinese in 
+the British colony.10
