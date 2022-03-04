@@ -117,15 +117,15 @@ Cutlery and uniforms used in food courts also tend to be standard issue, and man
 
 #### **REFERENCES**
 
-“20,000 Hawkers Defy The Law”. (1949, October 3). The Straits Times, p. 3.
+[“20,000 Hawkers Defy The Law”](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19491003-1.2.51). (1949, October 3). *The Straits Times*, p. 3.
 
-“7,000 unlicensed hawkers resited since 1968”. (1975, August 12). The Straits Times, p. 11.
+[“7,000 unlicensed hawkers resited since 1968”](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19750812-1.2.54). (1975, August 12). *The Straits Times*, p. 11.
 
-Bartley, W. (1932). Report of the Committee Appointed to Investigate the Hawker Question in Singapore. Singapore: Govt. Print. Off. Call No.: RARE 331.798095957 SIN
+Bartley, W. (1932). [*Report of the Committee Appointed to Investigate the Hawker Question in Singapore*](https://eresources.nlb.gov.sg/printheritage/detail/d0b2b40a-dec8-466e-8230-11bd0dc42597.aspx). Singapore: Govt. Print. Off. Call No.: RARE 331.798095957 SIN
 
-Cameron, J. (1865). Our tropical possessions in Malayan India. London: Smith, Elder and Co. [Reprinted 1965, Kuala Lumpur: Oxford University Press.]. Call No.: RARE 959.5 CAM
+Cameron, J. (1865). [*Our tropical possessions in Malayan India*](https://eresources.nlb.gov.sg/printheritage/detail/7658c549-f1c5-47c7-b8b6-831f7eb90c58.aspx). London: Smith, Elder and Co. [Reprinted 1965, Kuala Lumpur: Oxford University Press.]. Call No.: RARE 959.5 CAM
 
-Cheung, H. (2013, May 16) Can Singapore's hawker food heritage survive? BBC News. Retrieved from http://www.bbc.co.uk/news/world-asia-22506475 
+Cheung, H. (2013, May 16) Can Singapore's hawker food heritage survive? *BBC News*. Retrieved from [BBC News](http://www.bbc.co.uk/news/world-asia-22506475 ).
 
 “City opens hawker war”. (1953, October 13). The Straits Times, p. 7. Commission on hawkers appointed”. (1950, April 18). The Singapore Free Press, p. 6.
  
