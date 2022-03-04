@@ -226,13 +226,13 @@ Yeo, B.S.A. (2003). [*Contesting space in colonial Singapore: Power relations an
 [^41]:[Kong](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12874730), 2007, p. 51.
 [^42]:Singapore. Parliament. [*Parliamentary debates: Official report*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4826189). (1968, December 16). Second Reading of the Environmental Public Health Bill (Vol. 24, cols. 396–424). Singapore: Govt. Printer. (Call no.: RCLOS 328.5957 SIN)
 [^43]:Hedwig, A., & Perera, A. (1985, October 6). [Hawker centres or shocker centres?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19851006-1.2.8.1) *The Straits Times*, p. 2. Retrieved from NewspaperSG.
-[^44]:Kanagasingam, F., & Ho, E. (1998, April 17). Hawkers worried about grading. The Straits Times, p. 44. Retrieved from NewspaperSG.
-[^45]:Kwek, M.L. (2004). Singapore: A skyline of pragmatism (p. 118). In R. Bishop., J. Philips., & W.W. Yeo (Eds.), Beyond description: Singapore space historicity. London: Routledge. (Call no.: RSING 307.1216095957 BEY)
-[^46]:Wong, H.S. (2007). A taste of the past: Historically themed restaurants and social memory in Singapore (p. 124). In S.C.H. Cheung & C.B. Tan (Eds.), Food and foodways in Asia: Resource, tradition and cooking. London: Routledge. (Call no.: R 394.12095 FOO)
-[^47]:Minister suggests: Sell city as a food paradise. (1994, July 2). The Straits Times, p. 31. Retrieved from NewspaperSG.
-[^48]:National Environment Agency. (2019, March 21). Hawker Centres Upgrading Programme. Retrieved from National Environment Agency website. 
-[^49]:Kong, 2007, p. 35.
-[^50]:Kong, 2007, p. 41.
+[^44]:Kanagasingam, F., & Ho, E. (1998, April 17). [Hawkers worried about grading](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19980417-1.2.52.8). *The Straits Times*, p. 44. Retrieved from NewspaperSG.
+[^45]:Kwek, M.L. (2004). Singapore: A skyline of pragmatism (p. 118). In R. Bishop., J. Philips., & W.W. Yeo (Eds.), [*Beyond description: Singapore space historicity*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12266654). London: Routledge. (Call no.: RSING 307.1216095957 BEY)
+[^46]:Wong, H.S. (2007). A taste of the past: Historically themed restaurants and social memory in Singapore (p. 124). In S.C.H. Cheung & C.B. Tan (Eds.), [*Food and foodways in Asia: Resource, tradition and cooking*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12827884). London: Routledge. (Call no.: R 394.12095 FOO)
+[^47]:[Minister suggests: Sell city as a food paradise](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19940702-1.2.36.15). (1994, July 2). *The Straits Times*, p. 31. Retrieved from NewspaperSG.
+[^48]:National Environment Agency. (2019, March 21). *Hawker Centres Upgrading Programme*. Retrieved from National Environment Agency website. 
+[^49]:[Kong](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12874730), 2007, p. 35.
+[^50]:[Kong](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12874730), 2007, p. 41.
 [^51]:Cheung, H. (2013, May 16). Can Singapore’s hawker food heritage survive? BBC News. Retrieved from BBC News website.
 [^52]:National Environment Agency. (2012, March 6). Sites for seven new Hawker Centres confirmed [Media News]. Retrieved from National Environment Agency website.
 [^53]:Feng, Z. (2013, January 9). 2 bodies to start training would-be hawkers. The Straits Times, p. 6. Retrieved from NewspaperSG.
