@@ -233,7 +233,7 @@ Yeo, B.S.A. (2003). [*Contesting space in colonial Singapore: Power relations an
 [^48]:National Environment Agency. (2019, March 21). *Hawker Centres Upgrading Programme*. Retrieved from National Environment Agency website. 
 [^49]:[Kong](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12874730), 2007, p. 35.
 [^50]:[Kong](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12874730), 2007, p. 41.
-[^51]:Cheung, H. (2013, May 16). Can Singapore’s hawker food heritage survive? BBC News. Retrieved from BBC News website.
-[^52]:National Environment Agency. (2012, March 6). Sites for seven new Hawker Centres confirmed [Media News]. Retrieved from National Environment Agency website.
-[^53]:Feng, Z. (2013, January 9). 2 bodies to start training would-be hawkers. The Straits Times, p. 6. Retrieved from NewspaperSG.
-[^54]:Siong, O. (2013, April 7). Hawkers cautious about sharing ‘trade secrets’ at proposed training institute. Channel NewsAsia. Retrieved from Channel NewsAsia website.
+[^51]:Cheung, H. (2013, May 16). Can Singapore’s hawker food heritage survive? *BBC News*. Retrieved from BBC News website.
+[^52]:National Environment Agency. (2012, March 6). *Sites for seven new Hawker Centres confirmed* [Media News]. Retrieved from National Environment Agency website.
+[^53]:Feng, Z. (2013, January 9). [2 bodies to start training would-be hawkers](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20130109-1.2.5.8). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
+[^54]:Siong, O. (2013, April 7). Hawkers cautious about sharing ‘trade secrets’ at proposed training institute. *Channel NewsAsia*. Retrieved from Channel NewsAsia website.
