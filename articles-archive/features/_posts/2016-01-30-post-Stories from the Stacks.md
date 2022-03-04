@@ -55,7 +55,7 @@ find its way into China and be disseminated among the people.7
 Some of the publications printed in Singapore and Malacca would be the first encounters of Western ideas and knowledge for the people of China. The Mission Press also undertook the printing of secular works, including government gazettes, the first local newspaper, the *Singapore Chronicle* in 1824 (see page 110), and the *Hikayat Abdullah* by Munshi Abdullah in 1849 (see page 62), one of the most important works of Malay literature and an important source of early Singapore history. Both publications are 
 on display at the exhibition.
 
-<img style="width: 650px; height: 400px;"
+<img style="width: 700px; height: 400px;"
 src="/images/vol-11-issue-4/Stories%20stack%20exhibition/a3.png">
 <div style="background-color: white;">Exhibition teasers for “From the Stacks: Highlights of the National Library”, which takes place from 30 January to 28 August 2016 at level 10 of the National Library Building. <i>All rights reserved, National Library Board, Singapore.</i></div>
 
