@@ -28,4 +28,15 @@ or instructive to the people.”2
 
 The proposal was not acted upon until 1823 
 when Raffles convened a meeting to establish the 
-Singapore Institution. At the recommendation of the missionary Robert Morrison, plans for a library, museum and printing press were included in the formation of the institution.3 However, its opening was delayed again for various reasons
+Singapore Institution. At the recommendation of the missionary Robert Morrison, plans for a library, museum and printing press were included in the formation of the institution.3 However, its opening was delayed again for various reasons and deviated from Raffles’ original intent. Eventually, when the Singapore Free School moved into the building that was meant for the Singapore Institution at Bras Basah Road in 1837, it housed a small library that was available for public use for a small fee.
+
+In response to appeals from residents for a proper public library that could be accessed beyond school hours, the Singapore Library eventually opened on 22 January 1845 on the premises of the Singapore Institution. The library, however, could only be used by paid subscribers. Such were the humble beginnings of the first school and library in Singapore.
+
+#### **The First Printing Press**
+
+Several items in the exhibition are rare editions 
+of the earliest publications printed in Singapore. 
+Interestingly, Singapore’s publishing history is closely intertwined with the proselytising activities of early Christian missionaries in the region. The earliest English, Chinese and Malay titles in the National Library are all outputs of printing presses in Singapore that were run 
+by Protestant missions in the early years of the 19th century.
+
+Christian missionaries followed the footsteps of Raffles and started work in Singapore soon after it was founded. The Reverend Samuel Milton of the London Missionary Society (LMS) 
