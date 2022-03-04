@@ -192,10 +192,10 @@ Yeo, B.S.A. (2003). [*Contesting space in colonial Singapore: Power relations an
 [^7]:Bartley, W. (1932). [*Report of the committee appointed to investigate the hawker question in Singapore*](https://eresources.nlb.gov.sg/printheritage/detail/d0b2b40a-dec8-466e-8230-11bd0dc42597.aspx) (pp. 3–4). Singapore: G.P.O. Retrieved from BookSG.
 [^8]:[Bartley](https://eresources.nlb.gov.sg/printheritage/detail/d0b2b40a-dec8-466e-8230-11bd0dc42597.aspx), 1932, pp. 4–5.
 [^9]:[Bartley](https://eresources.nlb.gov.sg/printheritage/detail/d0b2b40a-dec8-466e-8230-11bd0dc42597.aspx), 1932, p. 3.
-[^10]:Bartley, 1932, pp. 2–3.
-[^11]:Bartley, 1932, pp. 2–4.
-[^12]:Yeoh, 2003, pp. 264–266.
-[^13]:Yeoh, 2003, p. 264.
+[^10]:[Bartley](https://eresources.nlb.gov.sg/printheritage/detail/d0b2b40a-dec8-466e-8230-11bd0dc42597.aspx), 1932, pp. 2–3.
+[^11]:[Bartley](https://eresources.nlb.gov.sg/printheritage/detail/d0b2b40a-dec8-466e-8230-11bd0dc42597.aspx), 1932, pp. 2–4.
+[^12]:[Yeoh](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11827061), 2003, pp. 264–266.
+[^13]:[Yeoh](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11827061), 2003, p. 264.
 [^14]:Singapore Municipality. (1896). Administration report of the Singapore Municipality for the year 1895 (p. 62). Singapore: Fraser & Neave Limited. (Call no.: RRARE 352.05951 SIN; Microfilm no.: NL3351)
 [^15]:Singapore Municipality. (1928). Administration report of the Singapore Municipality for the year 1927 (p. 23). Singapore: Singapore Municipality. (Call no.: RCLOS 363.61095957 SIN)
 [^16]:20,000 hawkers defy the law. (1949, October 3). The Straits Times, p. 3. Retrieved from NewspaperSG.
