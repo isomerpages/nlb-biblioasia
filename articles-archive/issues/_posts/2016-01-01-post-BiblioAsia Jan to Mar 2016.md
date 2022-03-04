@@ -161,6 +161,9 @@ description: ""
 **[The First Newspaper](/vol-11/issue-4/jan-mar-2016/singapore-chronicle-first-newspaper)**<br>
 *Singapore Chronicle and Commercial Register* [(PDF)](/files/pdf/vol-11/issue-4/v11-issue4_FirstNewspaper.pdf)
 
+**[Stories from the Stacks](/vol-11/issue-4/jan-mar-2016/stories-stacks-exhibition)**<br>
+The National Library’s newest exhibition, “From the Stacks”, presents highlights of its Rare Materials Collection. Chung Sang Hong explains why you should not miss this event. [(PDF)](/files/pdf/vol-11/issue-4/v11-issue4_FirstNewspaper.pdf)
+
 **[A Gift of Books](/vol-11/issue-4/jan-mar-2016/gift-of-books-SG50)**<br>
 The National Library Board wins hearts (and minds) around the world with its SG50 Gift of Books initiative. *Amelia Tan* has the details. [(PDF)](/files/pdf/vol-11/issue-4/v11-issue4_GiftBooks.pdf)
 
