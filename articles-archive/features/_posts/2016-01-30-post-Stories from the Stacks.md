@@ -85,3 +85,9 @@ The exhibits cover a wide array of topics, from politics, history, sociology, la
 
 Look out also for the collection of delightful English nursery rhymes translated into Malay (1939) (see page 60); probably the first Qu’ran printed in Singapore in 1869 (see page 56); a Baba Malay translation of the Chinese classic *Romance of the Three Kingdoms* (see page 54); and a series of chilling cartoons on Japanese brutality and torture, going by the unlikely name of *Chop Suey* (1946) (see page 98).
 
+– Written by Chung Sang Hong
+
+<div>
+Chung Sang Hong is Assistant Director, Exhibitions & Curation, 
+with the National Library of Singapore. His responsibilities 
+include project management and the curation of exhibitions.</div>
