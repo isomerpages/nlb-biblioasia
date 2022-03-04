@@ -38,7 +38,7 @@ Several items in the exhibition are rare editions of the earliest publications p
 
 <img style="width: 450px; height: 300px;"
 src="/images/vol-11-issue-4/Stories%20stack%20exhibition/a2.png">
-<div style="background-color: white;">n 1841 watercolour painting of the library floor plan at the Singapore Institution (later renamed as Raffles Institution) by J. A. Marsh. Singapore’s first library officially opened in 1837 as part of the school. <i>© The British Library Board, WD 2970.</i></div>
+<div style="background-color: white;">In 1841 watercolour painting of the library floor plan at the Singapore Institution (later renamed as Raffles Institution) by J. A. Marsh. Singapore’s first library officially opened in 1837 as part of the school. <i>© The British Library Board, WD 2970.</i></div>
 
 Christian missionaries followed the footsteps of Raffles and started work in Singapore soon after it was founded. The Reverend Samuel Milton of the London Missionary Society (LMS) came to Singapore from Malacca in October 1819 to start a station on the island. In 1822, fellow missionary Claudius Henry Thomsen arrived in Singapore and brought with him a printing press and a few workers. The following year, the first printing press in Singapore, the Mission Press, came into operation.4Thomsen learnt Malay from the accomplished Muslim scholar, Abdullah bin Abdul Kadir (better known as Munshi Abdullah) and collaborated with the latter in the translation and 
 publication of Christian gospels and literature into Malay.5
@@ -54,6 +54,10 @@ find its way into China and be disseminated among the people.7
 
 Some of the publications printed in Singapore and Malacca would be the first encounters of Western ideas and knowledge for the people of China. The Mission Press also undertook the printing of secular works, including government gazettes, the first local newspaper, the *Singapore Chronicle* in 1824 (see page 110), and the *Hikayat Abdullah* by Munshi Abdullah in 1849 (see page 62), one of the most important works of Malay literature and an important source of early Singapore history. Both publications are 
 on display at the exhibition.
+
+<img style="width: 650px; height: 400px;"
+src="/images/vol-11-issue-4/Stories%20stack%20exhibition/a3.png">
+<div style="background-color: white;">Exhibition teasers for “From the Stacks: Highlights of the National Library”, which takes place from 30 January to 28 August 2016 at level 10 of the National Library Building. <i>All rights reserved, National Library Board, Singapore.</i></div>
 
 When China was forced to open its doors to foreigners after the Opium War, many missionaries in Southeast Asia shifted their base to China, leaving behind a legacy of publications that had been printed in the region. The history of publishing in Singapore owes a clear debt of gratitude to the work of these pioneering 
 Christian missionaries.
@@ -80,3 +84,4 @@ of *BiblioAsia*. The earliest item on display in the exhibition is the first eve
 The exhibits cover a wide array of topics, from politics, history, sociology, language and religion to current affairs, nature, travel, food and more. Some of the more novel items on display include a rare 1901 photo album by G. R. Lambert & Co. containing faded images of old Singapore (see page 90), a colonial cookbook of “420 tried and economical recipes” published in 1920 for British housewives struggling to run their households in Malaya (see page 106), and what is probably the first travel guidebook of Singapore, published in 1892 (see page 46).
 
 Look out also for the collection of delightful English nursery rhymes translated into Malay (1939) (see page 60); probably the first Qu’ran printed in Singapore in 1869 (see page 56); a Baba Malay translation of the Chinese classic *Romance of the Three Kingdoms* (see page 54); and a series of chilling cartoons on Japanese brutality and torture, going by the unlikely name of *Chop Suey* (1946) (see page 98).
+
