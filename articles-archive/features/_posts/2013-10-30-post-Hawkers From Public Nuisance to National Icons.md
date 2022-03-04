@@ -215,9 +215,9 @@ Yeo, B.S.A. (2003). [*Contesting space in colonial Singapore: Power relations an
 [^30]:[Mr Leow wants ‘big spaces’](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19531219-1.2.88). (1953, December 19). *The Straits Times*, p. 5. Retrieved from NewspaperSG.
 [^31]:Kong, L. (2007). [*Singapore hawker centres: People, places, food*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12874730) (pp. 27–28). Singapore: National Environment Agency. (Call no.: RSING 381.18095957 KON)
 [^32]:Singapore. Parliament. [*Parliamentary debates: Official report*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4826189). (1965, December 21). Addenda health (Vol. 24, col. 413). Singapore: Govt. Printer. (Call no.: RCLOS 328.5957 SIN)
-[^33]:Singapore. Parliament. Parliamentary debates: Official report. (1965, December 30). Budget, Ministry of Health (Vol. 24, col. 802). Singapore: Govt. Printer. (Call no.: RCLOS 328.5957 SIN)
-[^34]:Kong, 2007, p. 30. 
-[^35]:‘No new licences for hawkers’ policy won’t be relaxed: Kim San. (1973, March 14). The Straits Times, p. 6. Retrieved from NewspaperSG.
+[^33]:Singapore. Parliament. [*Parliamentary debates: Official report*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4826189). (1965, December 30). Budget, Ministry of Health (Vol. 24, col. 802). Singapore: Govt. Printer. (Call no.: RCLOS 328.5957 SIN)
+[^34]:[Kong](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12874730), 2007, p. 30. 
+[^35]:[‘No new licences for hawkers’ policy won’t be relaxed: Kim San](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19730314-1.2.27.1). (1973, March 14). The Straits Times, p. 6. Retrieved from NewspaperSG.
 [^36]:Health Ministry committee to plan hawker centres. (1971, August 23). The Straits Times, p. 11. Retrieved from NewspaperSG.
 [^37]:Tan, W.J. (1971, August 27). 2 super hawker centres for the city. The Straits Times, p. 26. Retrieved from NewspaperSG.
 [^38]:New Ministry’s $5m plan for hawker resettlement. (1972, September 25). The Straits Times, p. 19. Retrieved from NewspaperSG.
