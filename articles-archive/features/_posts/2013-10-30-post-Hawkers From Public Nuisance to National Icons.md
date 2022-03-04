@@ -212,29 +212,28 @@ Yeo, B.S.A. (2003). [*Contesting space in colonial Singapore: Power relations an
 [^27]:Singapore. Markets and Hawkers Department. (1957). Annual report of the Markets and Hawkers department (p. 1). Singapore: The Council. (Call no.: RCLOS 338.31 SIN)
 [^28]:Hot debate expected on expansion of Markets Department. (1958, May 29). The Singapore Free Press, p. 7. Retrieved from NewspaperSG.
 [^29]:City opens hawker war. (1953, October 26). The Straits Times, p. 7. Retrieved from NewspaperSG.
-30 Mr Leow wants ‘big spaces’. (1953, December 19). The Straits Times, p. 5. Retrieved from NewspaperSG.
-31 Kong, L. (2007). Singapore hawker centres: People, places, food (pp. 27–28). Singapore: National Environment Agency. (Call no.: RSING 381.18095957 KON)
-32 Singapore. Parliament. Parliamentary debates: Official report. (1965, December 21). Addenda health (Vol. 24, col. 413). Singapore: Govt. Printer. (Call no.: RCLOS 328.5957 SIN)
-33 Singapore. Parliament. Parliamentary debates: Official report. (1965, December 30). Budget, Ministry of Health (Vol. 24, col. 802). Singapore: Govt. Printer. (Call no.: RCLOS 328.5957 SIN)
-34 Kong, 2007, p. 30. 
-35 ‘No new licences for hawkers’ policy won’t be relaxed: Kim San. (1973, March 14). The Straits Times, p. 6. Retrieved from NewspaperSG.
-36 Health Ministry committee to plan hawker centres. (1971, August 23). The Straits Times, p. 11. Retrieved from NewspaperSG.
-37 Tan, W.J. (1971, August 27). 2 super hawker centres for the city. The Straits Times, p. 26. Retrieved from NewspaperSG.
-38 New Ministry’s $5m plan for hawker resettlement. (1972, September 25). The Straits Times, p. 19. Retrieved from NewspaperSG.
-39 Kong, 2007, p. 31.
-40 The last hawkers to be resited. (1986, April 29). The Straits Times, p. 21. Retrieved from NewspaperSG.
-41 Kong, 2007, p. 51.
-42 Singapore. Parliament. Parliamentary debates: Official report. (1968, December 16). Second Reading of the Environmental Public Health Bill (Vol. 24, cols. 396–424). Singapore: Govt. Printer. (Call no.: RCLOS 328.5957 SIN)
-43 Hedwig, A., & Perera, A. (1985, October 6). Hawker centres or shocker centres? The Straits Times, p. 2. Retrieved from NewspaperSG.
-44 Kanagasingam, F., & Ho, E. (1998, April 17). Hawkers worried about grading. The Straits Times, p. 44. Retrieved from NewspaperSG.
-45 Kwek, M.L. (2004). Singapore: A skyline of pragmatism (p. 118). In R. Bishop., J. Philips., & W.W. Yeo (Eds.), Beyond description: Singapore space historicity. London: Routledge. (Call no.: RSING 307.1216095957 BEY)
-46 Wong, H.S. (2007). A taste of the past: Historically themed restaurants and social memory in Singapore (p. 124). In S.C.H. Cheung & C.B. Tan (Eds.), Food and foodways in Asia: Resource, tradition and cooking. London: Routledge. (Call no.: R 394.12095 FOO)
-47 Minister suggests: Sell city as a food paradise. (1994, July 2). The Straits Times, p. 31. Retrieved from NewspaperSG.
-48 National Environment Agency. (2019, March 21). Hawker Centres Upgrading Programme. Retrieved from National Environment Agency website. 
-49 Kong, 2007, p. 35.
-50 Kong, 2007, p. 41.
-51 Cheung, H. (2013, May 16). Can Singapore’s hawker food heritage survive? BBC News. Retrieved from BBC News website.
-52 National Environment Agency. (2012, March 6). Sites for seven new Hawker Centres confirmed [Media News]. Retrieved from National Environment Agency website.
-53 Feng, Z. (2013, January 9). 2 bodies to start training would-be hawkers. The Straits Times, p. 6. Retrieved from NewspaperSG.
-54 Siong, O. (2013, April 7). Hawkers cautious about sharing ‘trade secrets’ at proposed training institute. Channel NewsAsia. Retrieved from Channel NewsAsia website. 
-
+[^30]:Mr Leow wants ‘big spaces’. (1953, December 19). The Straits Times, p. 5. Retrieved from NewspaperSG.
+[^31]:Kong, L. (2007). Singapore hawker centres: People, places, food (pp. 27–28). Singapore: National Environment Agency. (Call no.: RSING 381.18095957 KON)
+[^32]:Singapore. Parliament. Parliamentary debates: Official report. (1965, December 21). Addenda health (Vol. 24, col. 413). Singapore: Govt. Printer. (Call no.: RCLOS 328.5957 SIN)
+[^33]:Singapore. Parliament. Parliamentary debates: Official report. (1965, December 30). Budget, Ministry of Health (Vol. 24, col. 802). Singapore: Govt. Printer. (Call no.: RCLOS 328.5957 SIN)
+[^34]:Kong, 2007, p. 30. 
+[^35]:‘No new licences for hawkers’ policy won’t be relaxed: Kim San. (1973, March 14). The Straits Times, p. 6. Retrieved from NewspaperSG.
+[^36]:Health Ministry committee to plan hawker centres. (1971, August 23). The Straits Times, p. 11. Retrieved from NewspaperSG.
+[^37]:Tan, W.J. (1971, August 27). 2 super hawker centres for the city. The Straits Times, p. 26. Retrieved from NewspaperSG.
+[^38]:New Ministry’s $5m plan for hawker resettlement. (1972, September 25). The Straits Times, p. 19. Retrieved from NewspaperSG.
+[^39]:Kong, 2007, p. 31.
+[^40]:The last hawkers to be resited. (1986, April 29). The Straits Times, p. 21. Retrieved from NewspaperSG.
+[^41]:Kong, 2007, p. 51.
+[^42]:Singapore. Parliament. Parliamentary debates: Official report. (1968, December 16). Second Reading of the Environmental Public Health Bill (Vol. 24, cols. 396–424). Singapore: Govt. Printer. (Call no.: RCLOS 328.5957 SIN)
+[^43]:Hedwig, A., & Perera, A. (1985, October 6). Hawker centres or shocker centres? The Straits Times, p. 2. Retrieved from NewspaperSG.
+[^44]:Kanagasingam, F., & Ho, E. (1998, April 17). Hawkers worried about grading. The Straits Times, p. 44. Retrieved from NewspaperSG.
+[^45]:Kwek, M.L. (2004). Singapore: A skyline of pragmatism (p. 118). In R. Bishop., J. Philips., & W.W. Yeo (Eds.), Beyond description: Singapore space historicity. London: Routledge. (Call no.: RSING 307.1216095957 BEY)
+[^46]:Wong, H.S. (2007). A taste of the past: Historically themed restaurants and social memory in Singapore (p. 124). In S.C.H. Cheung & C.B. Tan (Eds.), Food and foodways in Asia: Resource, tradition and cooking. London: Routledge. (Call no.: R 394.12095 FOO)
+[^47]:Minister suggests: Sell city as a food paradise. (1994, July 2). The Straits Times, p. 31. Retrieved from NewspaperSG.
+[^48]:National Environment Agency. (2019, March 21). Hawker Centres Upgrading Programme. Retrieved from National Environment Agency website. 
+[^49]:Kong, 2007, p. 35.
+[^50]:Kong, 2007, p. 41.
+[^51]:Cheung, H. (2013, May 16). Can Singapore’s hawker food heritage survive? BBC News. Retrieved from BBC News website.
+[^52]:National Environment Agency. (2012, March 6). Sites for seven new Hawker Centres confirmed [Media News]. Retrieved from National Environment Agency website.
+[^53]:Feng, Z. (2013, January 9). 2 bodies to start training would-be hawkers. The Straits Times, p. 6. Retrieved from NewspaperSG.
+[^54]:Siong, O. (2013, April 7). Hawkers cautious about sharing ‘trade secrets’ at proposed training institute. Channel NewsAsia. Retrieved from Channel NewsAsia website.
