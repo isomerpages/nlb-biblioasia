@@ -222,10 +222,10 @@ Yeo, B.S.A. (2003). [*Contesting space in colonial Singapore: Power relations an
 [^37]:Tan, W.J. (1971, August 27). [2 super hawker centres for the city](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710827-1.2.152). *The Straits Times*, p. 26. Retrieved from NewspaperSG.
 [^38]:[New Ministry’s $5m plan for hawker resettlement](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720925-1.2.104). (1972, September 25). *The Straits Times*, p. 19. Retrieved from NewspaperSG.
 [^39]:[Kong](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12874730), 2007, p. 31.
-[^40]:[The last hawkers to be resited](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19860429-1.2.37.1). (1986, April 29). The Straits Times, p. 21. Retrieved from NewspaperSG.
-[^41]:Kong, 2007, p. 51.
-[^42]:Singapore. Parliament. Parliamentary debates: Official report. (1968, December 16). Second Reading of the Environmental Public Health Bill (Vol. 24, cols. 396–424). Singapore: Govt. Printer. (Call no.: RCLOS 328.5957 SIN)
-[^43]:Hedwig, A., & Perera, A. (1985, October 6). Hawker centres or shocker centres? The Straits Times, p. 2. Retrieved from NewspaperSG.
+[^40]:[The last hawkers to be resited](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19860429-1.2.37.1). (1986, April 29). *The Straits Times*, p. 21. Retrieved from NewspaperSG.
+[^41]:[Kong](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12874730), 2007, p. 51.
+[^42]:Singapore. Parliament. [*Parliamentary debates: Official report*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4826189). (1968, December 16). Second Reading of the Environmental Public Health Bill (Vol. 24, cols. 396–424). Singapore: Govt. Printer. (Call no.: RCLOS 328.5957 SIN)
+[^43]:Hedwig, A., & Perera, A. (1985, October 6). [Hawker centres or shocker centres?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19851006-1.2.8.1) *The Straits Times*, p. 2. Retrieved from NewspaperSG.
 [^44]:Kanagasingam, F., & Ho, E. (1998, April 17). Hawkers worried about grading. The Straits Times, p. 44. Retrieved from NewspaperSG.
 [^45]:Kwek, M.L. (2004). Singapore: A skyline of pragmatism (p. 118). In R. Bishop., J. Philips., & W.W. Yeo (Eds.), Beyond description: Singapore space historicity. London: Routledge. (Call no.: RSING 307.1216095957 BEY)
 [^46]:Wong, H.S. (2007). A taste of the past: Historically themed restaurants and social memory in Singapore (p. 124). In S.C.H. Cheung & C.B. Tan (Eds.), Food and foodways in Asia: Resource, tradition and cooking. London: Routledge. (Call no.: R 394.12095 FOO)
