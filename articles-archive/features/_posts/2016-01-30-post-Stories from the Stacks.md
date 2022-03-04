@@ -102,8 +102,8 @@ Look out also for the collection of delightful English nursery rhymes translated
  
 [^7]:Singapore Christian Union. (1830). [*The first report of the Singapore Christian Union*](https://eresources.nlb.gov.sg/printheritage/detail/f6c7e4f9-05d1-4281-85c4-ad2bfbbaf28d.aspx) (pp. 10–11). Singapore: The Mission Press. Retrieved from BookSG.
   
-[^8]:Beijing tu shu guan [北京图书馆]. (2000). Beijing tu shu guan cang jia pu cong kan. Min yue (qiao xiang) juan (北京图书馆藏家谱丛刊 – 闽粤（侨乡）卷) [Collection of genealogies in the Beijing Library – Fujian & Guangdong Provinces] (pp. 1, 423). [北京]: 北京图书馆出版社.(Call no.: Chinese RCO q929.10720512 BJT) 
+[^8]:Beijing tu shu guan [北京图书馆]. (2000). Beijing tu shu guan cang jia pu cong kan. Min yue (qiao xiang) juan ([北京图书馆藏家谱丛刊 – 闽粤（侨乡）卷](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10088407)) [*Collection of genealogies in the Beijing Library – Fujian & Guangdong Provinces*] (pp. 1, 423). [北京]: 北京图书馆出版社.(Call no.: Chinese RCO q929.10720512 BJT) 
   
-[^9]:Lu Shicong [吕世聪]. (2015, October 25). Guyouxuan, Bendi Zuizao Huaren Yinwuguan (古友轩 – 本地最早华人印务馆) [Koh Yew Hean Press – the oldest Chinese printing press in Singapore]. Lianhe Zaobao [联合早报], pp. 18–19. Retrieved from NewspaperSG. 
+[^9]:Lu Shicong [吕世聪]. (2015, October 25). Guyouxuan, Bendi Zuizao Huaren Yinwuguan ([古友轩 – 本地最早华人印务馆](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb20151025-1.2.33.9.1)) [*Koh Yew Hean Press – the oldest Chinese printing press in Singapore*]. *Lianhe Zaobao* [*联合早报*], pp. 18–19. Retrieved from NewspaperSG. 
   
-[^10]:Tan, B. (July 2011). The Straits Chinese Magazine: A Malayan Voice, BibioAsia,7 (2), 30–35. Retrieved from BiblioAsia website.
+[^10]:Tan, B. (July 2011). The Straits Chinese Magazine: A Malayan Voice, [*BibioAsia*](https://biblioasia.nlb.gov.sg/all-issues/)*,7* (2), 30–35. Retrieved from BiblioAsia website.
