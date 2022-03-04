@@ -88,19 +88,19 @@ Look out also for the collection of delightful English nursery rhymes translated
 	<b>Chung Sang Hong</b> is Assistant Director, Exhibitions & Curation, with the National Library of Singapore. His responsibilities include project management and the curation of exhibitions.</div>
 	
 #### **NOTES**
-[^1]:Oxford University Press. (2015). Stack. Retrieved from Oxford Dictionaries website. 
+[^1]:Oxford University Press. (2015). *Stack*. Retrieved from Oxford Dictionaries website. 
   
-[^2]:Raffles, T.S. (1819). Minute by Sir T. S. Raffles on the establishment of a Malay college at Singapore (p. 17). [S.l. : s.n.]. Retrieved from BookSG. 
+[^2]:Raffles, T.S. (1819). [*Minute by Sir T. S. Raffles on the establishment of a Malay college at Singapore*](https://eresources.nlb.gov.sg/printheritage/detail/ec629c60-58e9-40c6-847e-43d191dada47.aspx) (p. 17). [S.l. : s.n.]. Retrieved from BookSG. 
   
-[^3]:Raffles, T. S. (1823). Formation of the Singapore Institution, A.D. 1823 (pp. 56–59). Malacca: Mission Press. Retrieved from BookSG. 
+[^3]:Raffles, T. S. (1823). [*Formation of the Singapore Institution, A.D. 1823*](https://eresources.nlb.gov.sg/printheritage/detail/c862d6a7-03d3-4333-9191-36bb78288b2f.aspx) (pp. 56–59). Malacca: Mission Press. Retrieved from BookSG. 
   
-[^4]:National Library Board. (2008). Mission Press written by Lim, Irene. Retrieved from Singapore Infopedia. 
+[^4]:National Library Board. (2008). [*Mission Press*](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1074_2008-12-20.html) written by Lim, Irene. Retrieved from Singapore Infopedia. 
   
-[^5]:Hunt, R. A. (1989). The history of the translation of the bible into Bahasa Malaysia. Journal of the Malaysian Branch of the Royal Asiatic Society, 62 (1) (256), p. 38. Retrieved from JSTOR via NLB’s eResources website.  
+[^5]:Hunt, R. A. (1989). The history of the translation of the bible into Bahasa Malaysia. *Journal of the Malaysian Branch of the Royal Asiatic Society, 62* (1) (256), p. 38. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.  
  
-[^6]:Su, C. (1996). The printing presses of the London Missionary Society among the Chinese (p. 97). Unpublished doctoral dissertation, University College London. 
+[^6]:Su, C. (1996). *The printing presses of the London Missionary Society among the Chinese* (p. 97). Unpublished doctoral dissertation, University College London. 
  
-[^7]:Singapore Christian Union. (1830). The first report of the Singapore Christian Union (pp. 10–11). Singapore: The Mission Press. Retrieved from BookSG.
+[^7]:Singapore Christian Union. (1830). [*The first report of the Singapore Christian Union*](https://eresources.nlb.gov.sg/printheritage/detail/f6c7e4f9-05d1-4281-85c4-ad2bfbbaf28d.aspx) (pp. 10–11). Singapore: The Mission Press. Retrieved from BookSG.
   
 [^8]:Beijing tu shu guan [北京图书馆]. (2000). Beijing tu shu guan cang jia pu cong kan. Min yue (qiao xiang) juan (北京图书馆藏家谱丛刊 – 闽粤（侨乡）卷) [Collection of genealogies in the Beijing Library – Fujian & Guangdong Provinces] (pp. 1, 423). [北京]: 北京图书馆出版社.(Call no.: Chinese RCO q929.10720512 BJT) 
   
