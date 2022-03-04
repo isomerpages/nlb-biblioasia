@@ -11,9 +11,7 @@ The National Library’s newest exhibition, “From the Stacks”, presents high
 src="/images/vol-11-issue-4/Stories%20stack%20exhibition/a1.png">
 <div style="background-color: white;">A steam-powered lithographic printing machine, 1870. <i>fotolibra.</i></div>
 
-The noun “stack” usually refers to a pile of objects, such as “a stack of books”. It also means, by extension, a large quantity of something, as in the idiom “needle in a haystack”. In digital language, “stacks” can refer to computer memory 
-storage. However, in libraryspeak, “stacks” are 
-shelving units in a section of a library that is usually closed to the public.1 In most libraries, the less frequently consulted publications are usually kept in “closed stacks”.
+The noun “stack” usually refers to a pile of objects, such as “a stack of books”. It also means, by extension, a large quantity of something, as in the idiom “needle in a haystack”. In digital language, “stacks” can refer to computer memory storage. However, in libraryspeak, “stacks” are shelving units in a section of a library that is usually closed to the public.1 In most libraries, the less frequently consulted publications are usually kept in “closed stacks”.
 
 The exhibition “From the Stacks: Highlights of the National Library” – which takes place from 30 January to 28 August 2016 at Level 10 of the National Library Building – presents over 100 items largely drawn from the library’s Rare Materials Collection. Given the size of the library’s 11,000-item strong collection, the exhibition provides only a snapshot of what its archives contain. But it is nonetheless a snapshot that presents a broad spectrum of materials across various subjects. 
 
@@ -23,12 +21,9 @@ On display are publications, manuscripts, maps, documents and photographs from t
 
 As stories go, we must start from the beginning: the exhibition first traces the origins of the National Library, which is closely linked to the formation of the first school, the Singapore Institution – better known today as Raffles Institution.
 
-Stamford Raffles envisioned Singapore as a commercial hub and a centre for learning and culture. Shortly after its founding in 1819, he drafted a proposal for the establishment of an institution of higher learning that would include 
-a library and publishing function. One of the 
-institution’s objectives was:
+Stamford Raffles envisioned Singapore as a commercial hub and a centre for learning and culture. Shortly after its founding in 1819, he drafted a proposal for the establishment of an institution of higher learning that would include a library and publishing function. One of the institution’s objectives was:
 
-“To collect the scattered literature and traditions of the country, with whatever 
-may illustrate their laws and customs, and to publish and circulate in a correct form the most important of these…to raise the character of the institution and to be useful 
+“To collect the scattered literature and traditions of the country, with whatever may illustrate their laws and customs, and to publish and circulate in a correct form the most important of these…to raise the character of the institution and to be useful 
 or instructive to the people.”2
 
 The proposal was not acted upon until 1823 
