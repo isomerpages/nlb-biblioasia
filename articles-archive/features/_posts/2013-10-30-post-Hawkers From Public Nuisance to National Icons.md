@@ -178,5 +178,6 @@ Tan, W.J. (1971, August 27). [2 super hawker centres for the city](http://eresou
 
 [The last hawkers to be resited](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19860429-1.2.37.1). (1986, April 29). *The Straits Times*, p. 21. Retrieved from NewspaperSG.
 
-Wong, H.S. (2007). A taste of the past: Historically themed restaurants and social memory in Singapore (p. 124). In S.C.H. Cheung & C.B. Tan (Eds.), Food and foodways in Asia: Resource, tradition and cooking. London: Routledge. (Call no.: R 394.12095 FOO)
-Yeo, B.S.A. (2003). Contesting space in colonial Singapore: Power relations and the urban built environment. Singapore: Singapore University Press. (Call no.: RSING 307.76095957 YEO)
+Wong, H.S. (2007). A taste of the past: Historically themed restaurants and social memory in Singapore (p. 124). In S.C.H. Cheung & C.B. Tan (Eds.), [*Food and foodways in Asia: Resource, tradition and cooking*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12827884). London: Routledge. (Call no.: R 394.12095 FOO)
+
+Yeo, B.S.A. (2003). [*Contesting space in colonial Singapore: Power relations and the urban built environment*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11827061). Singapore: Singapore University Press. (Call no.: RSING 307.76095957 YEO)
