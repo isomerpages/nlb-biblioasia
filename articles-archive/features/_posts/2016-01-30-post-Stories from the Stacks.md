@@ -66,40 +66,17 @@ Chinese-Malay dictionary in Singapore, *Hua yi tong yu* (华夷通语) in 1883 (
 
 #### **Loyalties and Identities in Transition**
 
-Also included in the exhibition are artefacts that 
-provide important clues to the political affiliations 
-and cultural affinities of various communities in 
-Singapore. One of the most elaborate items is 
-a double-fold fuschia-coloured silk manuscript 
-titled “Address to Alfred, Duke of Edinburgh by the 
-Singapore Chinese Merchants on the Occasion of 
-His Visit to Singapore in 1869”. The handwritten 
-manuscript, flanked by carved wooden covers and 
-featuring a panorama of Singapore painted on 
-the reverse, expresses the Chinese merchants’ 
-steadfast loyalty and gratitude to Queen Victoria 
-and British rule. The Loyalty Address bears the 
-signatures of prominent Chinese merchants 
-such as Tan Kim Ching, Chiang Hong Lim, Seah 
-Eu Chin and Hoo Ah Kay (see page 2).
+Also included in the exhibition are artefacts that provide important clues to the political affiliations and cultural affinities of various communities in Singapore. One of the most elaborate items is a double-fold fuschia-coloured silk manuscript titled “Address to Alfred, Duke of Edinburgh by the Singapore Chinese Merchants on the Occasion of His Visit to Singapore in 1869”. The handwritten manuscript, flanked by carved wooden covers and 
+featuring a panorama of Singapore painted on the reverse, expresses the Chinese merchants’ steadfast loyalty and gratitude to Queen Victoria and British rule. The Loyalty Address bears the 
+signatures of prominent Chinese merchants such as Tan Kim Ching, Chiang Hong Lim, Seah Eu Chin and Hoo Ah Kay (see page 2).
 
-Many Chinese in the upper crust of colonial 
-society were Peranakan (Straits-born Chinese), 
-who were educated in English and embraced 
-the culture of the British. By the late 19th century, however, social and political changes in 
-China revived their interest in Chinese culture 
-and affairs.
-One manifestation of this was The Straits 
-Chinese Magazine (see page 80), published 
-between 1897 and 1907 by two well-known Peranakan personalities, Lim Boon Keng and Song 
-Ong Siang, a doctor and lawyer respectively. The 
-magazine featured articles on wide-ranging 
-topics that concerned the Peranakan as well as 
-other communities. It advocated social, political 
-and cultural reforms for the Chinese – warning of the ills of opium, championing education 
-for Chinese girls and calling for Chinese men 
-to cut their queues, or pigtails. As the first 
-English periodical published by locals, the 
-magazine presented a unified Malayan voice 
-and explored what it meant to be Chinese in 
-the British colony.10
+Many Chinese in the upper crust of colonial society were Peranakan (Straits-born Chinese), who were educated in English and embraced the culture of the British. By the late 19th century, however, social and political changes in China revived their interest in Chinese culture and affairs.
+
+One manifestation of this was *The Straits Chinese Magazine* (see page 80), published between 1897 and 1907 by two well-known Peranakan personalities, Lim Boon Keng and Song Ong Siang, a doctor and lawyer respectively. The magazine featured articles on wide-ranging topics that concerned the Peranakan as well as other communities. It advocated social, political and cultural reforms for the Chinese – warning of the ills ofopium, championing education for Chinese girls and calling for Chinese men to cut their queues, or pigtails. As the first English periodical published by locals, the magazine presented a unified Malayan voice and explored what it meant to be Chinese in the British colony.10
+
+There are too many publications of note in the exhibition to be highlighted in this article. Most are outlined in detail in this issue 
+of *BiblioAsia*. The earliest item on display in the exhibition is the first ever English-Malay dictionary published in 1701 (see page 64) and the most recent is the first cookbook by a Singaporean author, Ellice Handy’s *My Favourite Recipes* (revised edition, 1960) (see page 72).
+
+The exhibits cover a wide array of topics, from politics, history, sociology, language and religion to current affairs, nature, travel, food and more. Some of the more novel items on display include a rare 1901 photo album by G. R. Lambert & Co. containing faded images of old Singapore (see page 90), a colonial cookbook of “420 tried and economical recipes” published in 1920 for British housewives struggling to run their households in Malaya (see page 106), and what is probably the first travel guidebook of Singapore, published in 1892 (see page 46).
+
+Look out also for the collection of delightful English nursery rhymes translated into Malay (1939) (see page 60); probably the first Qu’ran printed in Singapore in 1869 (see page 56); a Baba Malay translation of the Chinese classic *Romance of the Three Kingdoms* (see page 54); and a series of chilling cartoons on Japanese brutality and torture, going by the unlikely name of *Chop Suey* (1946) (see page 98).
