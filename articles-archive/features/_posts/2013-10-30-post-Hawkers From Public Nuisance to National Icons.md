@@ -217,12 +217,12 @@ Yeo, B.S.A. (2003). [*Contesting space in colonial Singapore: Power relations an
 [^32]:Singapore. Parliament. [*Parliamentary debates: Official report*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4826189). (1965, December 21). Addenda health (Vol. 24, col. 413). Singapore: Govt. Printer. (Call no.: RCLOS 328.5957 SIN)
 [^33]:Singapore. Parliament. [*Parliamentary debates: Official report*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4826189). (1965, December 30). Budget, Ministry of Health (Vol. 24, col. 802). Singapore: Govt. Printer. (Call no.: RCLOS 328.5957 SIN)
 [^34]:[Kong](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12874730), 2007, p. 30. 
-[^35]:[‘No new licences for hawkers’ policy won’t be relaxed: Kim San](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19730314-1.2.27.1). (1973, March 14). The Straits Times, p. 6. Retrieved from NewspaperSG.
-[^36]:Health Ministry committee to plan hawker centres. (1971, August 23). The Straits Times, p. 11. Retrieved from NewspaperSG.
-[^37]:Tan, W.J. (1971, August 27). 2 super hawker centres for the city. The Straits Times, p. 26. Retrieved from NewspaperSG.
-[^38]:New Ministry’s $5m plan for hawker resettlement. (1972, September 25). The Straits Times, p. 19. Retrieved from NewspaperSG.
-[^39]:Kong, 2007, p. 31.
-[^40]:The last hawkers to be resited. (1986, April 29). The Straits Times, p. 21. Retrieved from NewspaperSG.
+[^35]:[‘No new licences for hawkers’ policy won’t be relaxed: Kim San](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19730314-1.2.27.1). (1973, March 14). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
+[^36]:[Health Ministry committee to plan hawker centres](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710823-1.2.64). (1971, August 23). *The Straits Times*, p. 11. Retrieved from NewspaperSG.
+[^37]:Tan, W.J. (1971, August 27). [2 super hawker centres for the city](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710827-1.2.152). *The Straits Times*, p. 26. Retrieved from NewspaperSG.
+[^38]:[New Ministry’s $5m plan for hawker resettlement](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720925-1.2.104). (1972, September 25). *The Straits Times*, p. 19. Retrieved from NewspaperSG.
+[^39]:[Kong](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12874730), 2007, p. 31.
+[^40]:[The last hawkers to be resited](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19860429-1.2.37.1). (1986, April 29). The Straits Times, p. 21. Retrieved from NewspaperSG.
 [^41]:Kong, 2007, p. 51.
 [^42]:Singapore. Parliament. Parliamentary debates: Official report. (1968, December 16). Second Reading of the Environmental Public Health Bill (Vol. 24, cols. 396–424). Singapore: Govt. Printer. (Call no.: RCLOS 328.5957 SIN)
 [^43]:Hedwig, A., & Perera, A. (1985, October 6). Hawker centres or shocker centres? The Straits Times, p. 2. Retrieved from NewspaperSG.
