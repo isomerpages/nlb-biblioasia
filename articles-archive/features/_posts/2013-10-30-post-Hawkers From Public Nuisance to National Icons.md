@@ -204,17 +204,17 @@ Yeo, B.S.A. (2003). [*Contesting space in colonial Singapore: Power relations an
 [^19]:[Commission on hawkers appointed](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19500418-1.2.88). (1950, April 18). *The Singapore Free Press*, p. 6. Retrieved from NewspaperSG.
 [^20]:[Singapore. Hawkers Inquiry Commission](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200077485), 1950, pp. 9–11, 16–17.
 [^21]:[Singapore. Hawkers Inquiry Commission](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200077485), 1950, pp. 16–17.
-[^22]:Singapore. Hawkers Inquiry Commission, 1950, p. 19.
-[^23]:Singapore. Hawkers Inquiry Commission, 1950, pp. 19–20.
-[^24]:Singapore. Hawkers Inquiry Commission, 1950, pp. 25–28.
-[^25]:Hawkers draw up ‘charter’ to guard rights of 30,000. (1958, September 21). The Straits Times, p. 7. Retrieved from NewspaperSG.
-[^26]:Health Officers alarmed at dangers. (1957, January 7). The Singapore Free Press, p. 2. Retrieved from NewspaperSG.
-[^27]:Singapore. Markets and Hawkers Department. (1957). Annual report of the Markets and Hawkers department (p. 1). Singapore: The Council. (Call no.: RCLOS 338.31 SIN)
-[^28]:Hot debate expected on expansion of Markets Department. (1958, May 29). The Singapore Free Press, p. 7. Retrieved from NewspaperSG.
-[^29]:City opens hawker war. (1953, October 26). The Straits Times, p. 7. Retrieved from NewspaperSG.
-[^30]:Mr Leow wants ‘big spaces’. (1953, December 19). The Straits Times, p. 5. Retrieved from NewspaperSG.
-[^31]:Kong, L. (2007). Singapore hawker centres: People, places, food (pp. 27–28). Singapore: National Environment Agency. (Call no.: RSING 381.18095957 KON)
-[^32]:Singapore. Parliament. Parliamentary debates: Official report. (1965, December 21). Addenda health (Vol. 24, col. 413). Singapore: Govt. Printer. (Call no.: RCLOS 328.5957 SIN)
+[^22]:[Singapore. Hawkers Inquiry Commission](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200077485), 1950, p. 19.
+[^23]:[Singapore. Hawkers Inquiry Commission](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200077485), 1950, pp. 19–20.
+[^24]:[Singapore. Hawkers Inquiry Commission](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200077485), 1950, pp. 25–28.
+[^25]:[Hawkers draw up ‘charter’ to guard rights of 30,000](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19580921-1.2.46). (1958, September 21). *The Straits Times*, p. 7. Retrieved from NewspaperSG.
+[^26]:[Health Officers alarmed at dangers](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19570107-1.2.10). (1957, January 7). *The Singapore Free Press*, p. 2. Retrieved from NewspaperSG.
+[^27]:Singapore. Markets and Hawkers Department. (1957). [*Annual report of the Markets and Hawkers department*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5421376) (p. 1). Singapore: The Council. (Call no.: RCLOS 338.31 SIN)
+[^28]:[Hot debate expected on expansion of Markets Department](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19580529-1.2.47). (1958, May 29). *The Singapore Free Press*, p. 7. Retrieved from NewspaperSG.
+[^29]:[City opens hawker war](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19531026-1.2.105). (1953, October 26). *The Straits Times*, p. 7. Retrieved from NewspaperSG.
+[^30]:[Mr Leow wants ‘big spaces’](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19531219-1.2.88). (1953, December 19). *The Straits Times*, p. 5. Retrieved from NewspaperSG.
+[^31]:Kong, L. (2007). [*Singapore hawker centres: People, places, food*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12874730) (pp. 27–28). Singapore: National Environment Agency. (Call no.: RSING 381.18095957 KON)
+[^32]:Singapore. Parliament. [*Parliamentary debates: Official report*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4826189). (1965, December 21). Addenda health (Vol. 24, col. 413). Singapore: Govt. Printer. (Call no.: RCLOS 328.5957 SIN)
 [^33]:Singapore. Parliament. Parliamentary debates: Official report. (1965, December 30). Budget, Ministry of Health (Vol. 24, col. 802). Singapore: Govt. Printer. (Call no.: RCLOS 328.5957 SIN)
 [^34]:Kong, 2007, p. 30. 
 [^35]:‘No new licences for hawkers’ policy won’t be relaxed: Kim San. (1973, March 14). The Straits Times, p. 6. Retrieved from NewspaperSG.
