@@ -34,9 +34,6 @@ In response to appeals from residents for a proper public library that could be 
 
 #### **The First Printing Press**
 
-Several items in the exhibition are rare editions 
-of the earliest publications printed in Singapore. 
-Interestingly, Singapore’s publishing history is closely intertwined with the proselytising activities of early Christian missionaries in the region. The earliest English, Chinese and Malay titles in the National Library are all outputs of printing presses in Singapore that were run 
-by Protestant missions in the early years of the 19th century.
+Several items in the exhibition are rare editions of the earliest publications printed in Singapore. Interestingly, Singapore’s publishing history is closely intertwined with the proselytising activities of early Christian missionaries in the region. The earliest English, Chinese and Malay titles in the National Library are all outputs of printing presses in Singapore that were run by Protestant missions in the early years of the 19th century.
 
-Christian missionaries followed the footsteps of Raffles and started work in Singapore soon after it was founded. The Reverend Samuel Milton of the London Missionary Society (LMS) 
+Christian missionaries followed the footsteps of Raffles and started work in Singapore soon after it was founded. The Reverend Samuel Milton of the London Missionary Society (LMS)
