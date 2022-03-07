@@ -31,7 +31,7 @@ Women folding <i>kim chua</i> (paper money) for religious or ancestral offering 
 
 #### **Title of Genealogy (Pu Ming 谱名)**
 
-In traditional practice, the title of <i>jiapu</i> was important as it indicated which clan the records belonged to. It was common for the title to be made up of a combination of the name of the settlement area, surname, name of the ancestral temple, district-names, name of first migrant ancestor, and even the number of revisions done to the <i>jiapu</i>.[^3]
+In traditional practice, the title of a <i>jiapu</i> was important as it indicated which clan the records belonged to. It was common for the title to be made up of a combination of the name of the settlement area, surname, name of the ancestral temple, district-names, name of first migrant ancestor, and even the number of revisions done to the <i>jiapu</i>.[^3]
 
 <div style="background-color: white;">
 <br/>
@@ -150,7 +150,7 @@ The <i>jiapu</i> chapters discussed here offer only a peek into the wealth of in
 		<li style="font-size:1rem;">Literary works</li>
 		<li style="font-size:1rem;">List of members who had a copy of the genealogy</li>
 	</ul>
-Some of the information listed, also known as chapters as they appeared in the <i>jiapu</i>, are still being recorded today. This is especially true for modern publications that are merely updated editions of older <i>jiapu</i></div>
+Some of the information listed, also known as chapters as they appear in the <i>jiapu</i>, are still being recorded today. This is especially true for modern publications that are merely updated editions of older <i>jiapu</i>.</div>
 
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;">
 <b>FIVE DEGREES OF MOURNING CLOTHES (WUFU 五服)</b>
