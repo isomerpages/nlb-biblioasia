@@ -46,7 +46,7 @@ Mural depiction of the Emperor Justinian who ruled between 527–565 CE at the h
 
 <br/>
 <img src="/images/vol-9-issue-4/enternity/sima_qian.jpg">
-Painting of Sima Qian, who served as court historian during the Han Dynasty between 145/135–86 BCE. <i>Image via Wikipedia Commons</i>.[^10]
+<span style="font-size:1rem; line-height:1.5;">Painting of Sima Qian, who served as court historian during the Han Dynasty between 145/135–86 BCE. <i>Image via Wikipedia Commons</i>.[^10]</span>
 
 For all its impressive possibilities in relation to immortality, a notable feature of an archive is that it may contain many records that are not monumental. While treasures can be found in most state archives — iconic documents such as the English Magna Carta (1215), the Declaration of Independence of the United States of America (1776), and here in Singapore, records such as the letters of Sir Stamford Raffles and the Singapore’s own Proclamation of Independence (1965) — a large part of archived records are more operational and administrative in nature. At the National Archives of Singapore (NAS), one finds alongside records on key decisions and policy-making, documents on school attendance, marriages, cemetery records, applications for licences, appeals for wage increases, and other records that might be considered routine in nature.
 
