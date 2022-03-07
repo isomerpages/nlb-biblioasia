@@ -31,7 +31,7 @@ Thus most fundamentally, one’s “immortality” rests on the acclaim and reco
 
 <br/>
 <img src="/images/vol-9-issue-4/enternity/Egyptian_Sulpture.jpg">
-Percy Bysshe Shelley was inspired by the imminent arrival of this colossal fractured statue of the Egyptian Pharaoh Ramesses II (<i>image via Wikimedia Commons</i>[^6]) in London to write his poem "Ozymandias" in 1818. The statue was acquired by the British Museum and remains a centrepiece of the museum.[^7]
+<span style="font-size:1rem; line-height:1.5;">Percy Bysshe Shelley was inspired by the imminent arrival of this colossal fractured statue of the Egyptian Pharaoh Ramesses II (<i>image via Wikimedia Commons</i>[^6]) in London to write his poem "Ozymandias" in 1818. The statue was acquired by the British Museum and remains a centrepiece of the museum.[^7]</span>
 
 #### **Archiving and Immortality**
 
