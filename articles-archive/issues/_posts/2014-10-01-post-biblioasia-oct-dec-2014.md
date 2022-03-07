@@ -14,7 +14,7 @@ layout: post
 
 [<b>Raffles Hotel & the Romance of Travel</b>](/vol-10/issue-3/oct-dec-2014/raffles-hotel-singapore-history)<br><i>Gretchen Liu</i> traces the history of this grand hotel, from its heyday of glitz and glamour to near ruin and its subsequent reincarnation into the heritage icon it is today.[(PDF)](/files/pdf/vol-10/issue-3/v10-issue3_RafflesHotel.pdf)
 
-[<b>Singapore Through the Eyes of 19th-century Westerners</b>](/vol-10/issue-3/oct-dec-2014/19th-century-western)<br><i>Nor Afidah Abd Rahman</i> shares how the impressions the first Western travellers held of colonial Singapore were influenced by their preconceived perceptions of the exotic East.[(PDF)](/files/pdf/vol-10/issue-3/v10-issue3_19thCentury.pdf)
+[<b>Singapore Through the Eyes of 19th-century Westerners</b>](/vol-10/issue-3/oct-dec-2014/singapore-19th-century-traveller-western-impressions)<br><i>Nor Afidah Abd Rahman</i> shares how the impressions the first Western travellers held of colonial Singapore were influenced by their preconceived perceptions of the exotic East.[(PDF)](/files/pdf/vol-10/issue-3/v10-issue3_19thCentury.pdf)
 
 [<b>Tales of the Dragon’s Tooth Strait</b>](/vol-10/issue-3/oct-dec-2014/dragons-tooth-strait)<br><i>Lee Meiyu</i> offers us a glimpse of pre-colonial Singapore as seen through the eyes of the 14th-century Chinese traveller Wang Dayuan.[(PDF)](/files/pdf/vol-10/issue-3/v10-issue3_DragonTooth.pdf)
 
