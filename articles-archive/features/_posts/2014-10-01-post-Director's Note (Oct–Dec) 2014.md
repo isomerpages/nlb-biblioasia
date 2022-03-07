@@ -5,14 +5,13 @@ permalink: /vol-10/issue-3/oct-dec-2014/director-note
 layout: post
 description: ""
 ---
-
 How does one convey the idea of a city? 
 
 In her exuberant account of 19th-century Singapore, Isabella Bird wrote of a city that was full of character, thanks to the varying skin tones of its Oriental inhabitants and their exotic multi-hued costumes while deploring the pallid and detached European residents whose primary obsession was to faithfully send mail home each week. Truly, a tale of two cities depending on which side of the divide you stand.
 
 [Lee Meiyu](/vol-10/issue-3/oct-dec-2014/dragons-tooth-strait)’s review of Chinese traveller Wang Dayuan’s description of Singapore, almost half a millennium earlier in the 14th century, was similarly of a city straddling two divergent parts – a rich ruling royalty ensconced at Fort Canning Hill and a more depraved pirate lair that perhaps gave Singapore its infamous early reputation of crime and danger. 
 
-The destiny of early Singapore was shaped by the rock-solid faith investors had in the colony. When Raffles Hotel faced imminent bankruptcy in 1933, [Gretchen Liu](/vol-10/issue-3/oct-dec-2014/raffles-hotel) reminds us of the sanguine official who mustered up support from the hotel’s shareholders by proclaiming: “I can only put it to you this way, that the measure of your faith in the shares which you hold in Raffles Hotel must be the measure of your faith in the colony.”
+The destiny of early Singapore was shaped by the rock-solid faith investors had in the colony. When Raffles Hotel faced imminent bankruptcy in 1933, [Gretchen Liu](/vol-10/issue-3/oct-dec-2014/raffles-hotel-singapore-history) reminds us of the sanguine official who mustered up support from the hotel’s shareholders by proclaiming: “I can only put it to you this way, that the measure of your faith in the shares which you hold in Raffles Hotel must be the measure of your faith in the colony.”
 
 The portrayal of Singapore as a city of promise is similarly conspicuous in 19thcentury accounts of Singapore by Westerners. [Nor Afidah Abd Rahman](/vol-10/issue-3/oct-dec-2014/19th-century-western) describes landscape paintings of early Singapore as almost “visual propaganda” – the island’s richness often depicted from vantage points of hills and elevated points so that the distant squalor and mangrove swamps were scarcely seen.
 
