@@ -13,7 +13,7 @@ description: ""
 <img src="/images/vol-9-issue-4/forgottentrades/bg.jpg">
 A barbershop along a five-foot way at Wayang Street in 1986. <i>Ronni Pinsler collection, courtesy of National Archives of Singapore.</i></div>
 
-The Streets of Chinatown, Little India and the arterial roads encircling the Central Business District were once crammed cheek by jowl with shophouses, street vendors and roadside stallholders peddling a mind-boggling variety of goods and services. These traditional peddlers are now virtually extinct — economic progress and urbanisation having dealt a death blow to these small-time trading activities. 
+The streets of Chinatown, Little India and the arterial roads encircling the Central Business District were once crammed cheek by jowl with shophouses, street vendors and roadside stallholders peddling a mind-boggling variety of goods and services. These traditional peddlers are now virtually extinct — economic progress and urbanisation having dealt a death blow to these small-time trading activities. 
 
 From the late 19th to the early 20th centuries, there was a continuous influx of unskilled immigrants from China, India and Southeast Asia who came to seek their fortunes in Singapore. Many had minimal or no education, meagre possessions and limited funds. Some were already skilled tinsmiths, goldsmiths, locksmiths, seal carvers, image carvers, boat makers, and mask and dragon makers while others with more artistic inclinations had been trained as portrait and photo artists, opera actors and actresses, glove puppeteers and calligraphers. Others picked up various trades after they arrived in Singapore by serving as apprentices to local barbers, cobblers, furniture restorers and clog makers.
 
@@ -64,7 +64,7 @@ Indian fortune tellers relied on their specially trained green parakeets to fore
 
 An Indian fortune teller, dressed in a white <i>dhoti</i> and shirt, would have had an even more basic set-up: a small table or even just the pavement itself, where a deck of 27 fortune cards would be displayed along with some charts, a notebook and caged parakeets. To supplement their paltry daily incomes of $10 to $15, they would also participate in cultural shows and trade exhibitions, earning up to $100 to $200 per job. 
 
-**Then and Now**<br>In the past, fortune tellers were usually found along five-foot-ways and in temple grounds. Today, Chinese fortune tellers are still commonly seen around Chinatown, at Kwan Im Thong Hood Cho Temple on Waterloo Street, and at older HDB estates such as Bedok, Toa Payoh and Ang Mo Kio.
+**Then and Now**<br>In the past, fortune tellers were usually found along five-foot-ways and on temple grounds. Today, Chinese fortune tellers are still commonly seen around Chinatown, at Kwan Im Thong Hood Cho Temple on Waterloo Street, and at older HDB estates such as Bedok, Toa Payoh and Ang Mo Kio.
 
 Parrot astrologers were based at Serangoon Road but they also made house calls, especially during festive occasions. Today, there are fewer than five still in business in Little India, as many Indians have ceased to believe in this method of divination.[^8]
 
