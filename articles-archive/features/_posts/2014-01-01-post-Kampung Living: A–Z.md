@@ -107,7 +107,7 @@ The aim of this game is to get a free piggyback ride from your opponent (picture
 <img src="/images/vol-9-issue-4/kampong/keleret.jpg" style="width:70%;">
 <i>Keleret</i> must be played in pairs or teams. Flat stones or tiles (<i>batu keleret</i>) are thrown to get close to the target line or circle (1950s). <i>Courtesy of Singapore Sports Council (SSC) collection, courtesy of National Archives of Singapore.</i></div>
 
-#### **Lambong Tin (or "Hide-And-Seek", "I Spy" or Nyorok-Nyorok)**
+#### **Lambong Tin (or "Hide-and-Seek", "I Spy" or Nyorok-Nyorok)**
 
 Prior to the start of the game, a <i>pasang</i> (Malay for catcher) or spy would be selected via <i>oh somm</i> or <i>oh beh som</i> or <i>wah peh ya som</i> (see text box). Next, everyone would gather around and one player would shake a tin that had been filled with stones and then fling it. The moment the tin was flung, everyone would disperse. 
 
@@ -130,7 +130,7 @@ Today, when a housewife in the midst of cooking realises she has no salt in her 
 
 #### **Open-air Cinemas = Open Skies Treatment**
 
-Children who lived in rural areas were able to enjoy movies thanks to open air cinemas. It cost 50 cents to secure a (wooden) seat. Many children caught reruns after school and when it rained, people would huddle to the side for shelter. One movie-goer remembered “patronising the cheap open air cinema called Peking Theatre located opposite the present Macpherson market... [movies were only] 5 cents but [one had] to endure the mosquitoes and there were no refunds if the show was cancelled due to heavy rain or power failure.”[^32]
+Children who lived in rural areas were able to enjoy movies thanks to open-air cinemas. It cost 50 cents to secure a (wooden) seat. Many children caught reruns after school and when it rained, people would huddle to the side for shelter. One movie-goer remembered “patronising the cheap open air cinema called Peking Theatre located opposite the present Macpherson market... [movies were only] 5 cents but [one had] to endure the mosquitoes and there were no refunds if the show was cancelled due to heavy rain or power failure.”[^32]
 
 #### **Police and Thief**
 
@@ -159,7 +159,7 @@ Before blenders and food processors, stoneware ruled the kitchen and came in a f
 
 The game starts with a child sitting on an <i>upih</i> (dried palm leaf) which is then dragged by his friend with as much speed as he can muster. The team that crosses the finishing line with the “passenger” <i>still</i> on top of the <i>upih</i> wins. Girls, or the leaner ones, almost always enjoyed “priority seating” because it did not pay to have a heavyset player sit on the <i>upih</i> if the team wanted to win. The steeper the slope, the bigger the thrill and the trickier it was to remain on the <i>upih</i>.[^38]
 
-#### **Use-First-Pay-Later: 555 Notebook**
+#### **Use-first-pay-later: 555 Notebook**
 
 The “555” notebook — with literally these numbers printed on the front cover — was used by businesses to keep a record of customers’ tabs. It was a system built on trust: “When you go [to the provision store], you buy provisions from them... you can just take [items], there’s a little book and then they will write your name, block, your address and all this... And then, [at the] end of the month they will tell you how much you owe them.”[^39] This handy little notebook also went round the <i>kopitiam</i> and <i>warungs</i> (coffeeshops) taking unpaid orders. At the end of the month however, the “owner would wave the 555 notebook; [a reminder] that the bills had not been settled.” [^40]
 
