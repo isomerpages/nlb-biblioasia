@@ -20,7 +20,7 @@ layout: post
 
 [<b>Writing from the Periphery: Dorothy Cator in British North Borneo</b>](/vol-10/issue-3/oct-dec-2014/dorothy-cator)<br><i>Janice Loo</i> explains how the travel writings by women such as Dorothy Cator reveal the complex relationships between colonisers and the colonised.[(PDF)](/files/pdf/vol-10/issue-3/v10-issue3_DorothyCator.pdf)
 
-[<b>Planning a Nation: The Concept Plan</b>](/vol-10/issue-3/oct-dec-2014/concept-plan)<br>Singapore’s towering skyscrapers and its evolving landscape is by no means accidental. <i>Lim Tin Seng</i> walks us through the country’s various Concept Plans, each carefully put together in response to the city’s changing needs.[(PDF)](/files/pdf/vol-10/issue-3/v10-issue3_ConceptPlan.pdf)
+[<b>Planning a Nation: The Concept Plan</b>](/vol-10/issue-3/oct-dec-2014/singapore-concept-plan)<br>Singapore’s towering skyscrapers and its evolving landscape is by no means accidental. <i>Lim Tin Seng</i> walks us through the country’s various Concept Plans, each carefully put together in response to the city’s changing needs.[(PDF)](/files/pdf/vol-10/issue-3/v10-issue3_ConceptPlan.pdf)
 
 [<b>Over Orchard</b>](/vol-10/issue-3/oct-dec-2014/over-orchard)<br>Orchard Road as we know it today is a far cry from its quiet beginnings as a plantation and residential area. <i>Fiona Tan</i> takes us back in time to revisit some of Orchard’s most distinctive landmarks.[(PDF)](/files/pdf/vol-10/issue-3/v10-issue3_OverOrchard.pdf)
 
