@@ -30,4 +30,4 @@ layout: post
 
 [<b>Designed for Use: library@orchard Makes a Comeback</b>](/vol-10/issue-3/oct-dec-2014/singapore-orchard-library)<br>Featuring wall-to-ceiling bookshelves, collaborative spaces and innovative services, Sufyan Alimon and Eunice Ang share more about what the newly reopened and revamped library@orchard has to offer.[(PDF)](/files/pdf/vol-10/issue-3/v10-issue3_LibraryOrchard.pdf)
 
-[<b>In Vogue: Singapore Fashion Trends from 1960s to 1990s</b>](/vol-10/issue-3/oct-dec-2014/in-vogue)<br>From traditional dress to mini-skirts, pantsuits and bell-bottoms, <i>Jessie Yak</i> and <i>Sundari Balasubramaniam</i> highlight Singapore’s style trends of the 1960s to 1990s through fashion magazines.[(PDF)](/files/pdf/vol-10/issue-3/v10-issue3_InVogue.pdf)
+[<b>In Vogue: Singapore Fashion Trends from 1960s to 1990s</b>](/vol-10/issue-3/oct-dec-2014/singapore-fashion-trends-1960s-1990s)<br>From traditional dress to mini-skirts, pantsuits and bell-bottoms, <i>Jessie Yak</i> and <i>Sundari Balasubramaniam</i> highlight Singapore’s style trends of the 1960s to 1990s through fashion magazines.[(PDF)](/files/pdf/vol-10/issue-3/v10-issue3_InVogue.pdf)
