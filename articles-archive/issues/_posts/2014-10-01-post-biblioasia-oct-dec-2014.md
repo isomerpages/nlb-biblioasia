@@ -22,9 +22,9 @@ layout: post
 
 [<b>Planning a Nation: The Concept Plan</b>](/vol-10/issue-3/oct-dec-2014/singapore-concept-plan)<br>Singapore’s towering skyscrapers and its evolving landscape is by no means accidental. <i>Lim Tin Seng</i> walks us through the country’s various Concept Plans, each carefully put together in response to the city’s changing needs.[(PDF)](/files/pdf/vol-10/issue-3/v10-issue3_ConceptPlan.pdf)
 
-[<b>Over Orchard</b>](/vol-10/issue-3/oct-dec-2014/over-orchard)<br>Orchard Road as we know it today is a far cry from its quiet beginnings as a plantation and residential area. <i>Fiona Tan</i> takes us back in time to revisit some of Orchard’s most distinctive landmarks.[(PDF)](/files/pdf/vol-10/issue-3/v10-issue3_OverOrchard.pdf)
+[<b>Over Orchard</b>](/vol-10/issue-3/oct-dec-2014/singapore-orchard-road-history)<br>Orchard Road as we know it today is a far cry from its quiet beginnings as a plantation and residential area. <i>Fiona Tan</i> takes us back in time to revisit some of Orchard’s most distinctive landmarks.[(PDF)](/files/pdf/vol-10/issue-3/v10-issue3_OverOrchard.pdf)
 
-[<b>Aw Boon Haw and His Tiger Balm Newspaper Advertisements 1916–1954</b>](/vol-10/issue-3/oct-dec-2014/aw-boon-haw)<br>Lee Kong Chian Research Fellow <i>Sin Yee Theng</i> examines how Aw Boon Haw advertised Tiger Balm products in Singapore newspapers and attributes Tiger Balm’s success to his unique storytelling skills.[(PDF)](/files/pdf/vol-10/issue-3/v10-issue3_AwBoonHaw.pdf)
+[<b>Aw Boon Haw and His Tiger Balm Newspaper Advertisements 1916–1954</b>](/vol-10/issue-3/oct-dec-2014/aw-boon-haw-tiger-balm-ads)<br>Lee Kong Chian Research Fellow <i>Sin Yee Theng</i> examines how Aw Boon Haw advertised Tiger Balm products in Singapore newspapers and attributes Tiger Balm’s success to his unique storytelling skills.[(PDF)](/files/pdf/vol-10/issue-3/v10-issue3_AwBoonHaw.pdf)
 
 [<b>Lee Kip Lin: Kampung Boy Conservateur</b>](/vol-10/issue-3/oct-dec-2014/lee-kip-lin)<br>Bonny Tan takes a look into the life of the late Lee Kip Lin, a man who wore many hats as student, educator and mentor, but perhaps best remembered for his passion for conserving Singapore’s pre-war architecture in his writings and teaching.[(PDF)](/files/pdf/vol-10/issue-3/v10-issue3_LeeKipLin.pdf)
 
