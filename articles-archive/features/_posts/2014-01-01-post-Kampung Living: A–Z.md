@@ -188,11 +188,11 @@ This slim rectangular wooden block was a dirt-crusher that all housewives swore 
 
 #### **"Xtreme" Disasters: Floods and Fires**
 
-<i>Kampungs</i> were subject to frequent flooding that occurred during heavy rainfall. The flood waters often dragged objects in its wake and, once, the residents of Lorong Kinchir were astounded to spot a crocodile in the Kallang River near their <i>kampung</i> after a huge flood – apparently an inmate that had managed to escape from the Lorong Chuan farm.[^49]
+<i>Kampungs</i> were subject to frequent flooding that occurred during heavy rainfall. The flood waters often dragged objects in their wake and, once, the residents of Lorong Kinchir were astounded to spot a crocodile in the Kallang River near their <i>kampung</i> after a huge flood – apparently an inmate that had managed to escape from the Lorong Chuan farm.[^49]
 
-Kampungs were also vulnerable to fires due to their wooden and <i>attap</i> structures. The Bukit Ho Swee fire of 1961 is one that is etched in the nation’s consciousness. The famous 19th-century Malay writer Munsyi Abdullah was living in Kampong Glam when it was gutted by a fire in 1847, robbing him of his valuables and letters. The incident so affected the writer that he was moved to pen his now-famous poem “Syair Kampung Glam Terbakar (Kampong Gelam On Fire)” that was published in the same year.[^50]
+<i>Kampungs</i> were also vulnerable to fires due to their wooden and <i>attap</i> structures. The Bukit Ho Swee fire of 1961 is one that is etched in the nation’s consciousness. The famous 19th-century Malay writer Munsyi Abdullah was living in Kampong Glam when it was gutted by a fire in 1847, robbing him of his valuables and letters. The incident so affected the writer that he was moved to pen his now-famous poem “Syair Kampung Glam Terbakar” (Kampong Gelam On Fire) that was published in the same year.[^50]
 
-#### **Yeh Yeh (Zero-Point)**
+#### **Yeh Yeh (Zero-point)**
 
 <i>Yeh yeh</i> requires a rope that is made by stringing rubber bands together. The aim is to jump over the rope as it is hoisted higher and higher by two other players each holding one end of the rope. At the start of the game, the rope is laid flat on the ground with players exclaiming “zero-point” as they jump over. Players then jump across at increasingly “varying heights beginning with the ankle and ending with the head. To compete further, an ‘inch’ above the head is added. The rule of thumb is no part of [your] body can touch the rubber rope. Once any part of [the] body accidentally touch[es] the rope, the jumper <i>‘mati’</i> (‘dies’) and the next person has to jump.”[^51]
 
