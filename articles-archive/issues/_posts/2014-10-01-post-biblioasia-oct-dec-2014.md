@@ -24,10 +24,10 @@ layout: post
 
 [<b>Over Orchard</b>](/vol-10/issue-3/oct-dec-2014/over-orchard)<br>Orchard Road as we know it today is a far cry from its quiet beginnings as a plantation and residential area. <i>Fiona Tan</i> takes us back in time to revisit some of Orchard’s most distinctive landmarks.[(PDF)](/files/pdf/vol-10/issue-3/v10-issue3_OverOrchard.pdf)
 
-[<b>Aw Boon Haw and His Tiger Balm Newspaper Advertisements 1916–1954</b>](/vol-10/issue-3/oct-dec-2014/aw-boon-haw)<br>[(PDF)](/files/pdf/vol-10/issue-3/v10-issue3_AwBoonHaw.pdf)
+[<b>Aw Boon Haw and His Tiger Balm Newspaper Advertisements 1916–1954</b>](/vol-10/issue-3/oct-dec-2014/aw-boon-haw)<br>Lee Kong Chian Research Fellow <i>Sin Yee Theng</i> examines how Aw Boon Haw advertised Tiger Balm products in Singapore newspapers and attributes Tiger Balm’s success to his unique storytelling skills.[(PDF)](/files/pdf/vol-10/issue-3/v10-issue3_AwBoonHaw.pdf)
 
-[<b>Lee Kip Lin: Kampung Boy Conservateur</b>](/vol-10/issue-3/oct-dec-2014/lee-kip-lin)<br>[(PDF)](/files/pdf/vol-10/issue-3/v10-issue3_LeeKipLin.pdf)
+[<b>Lee Kip Lin: Kampung Boy Conservateur</b>](/vol-10/issue-3/oct-dec-2014/lee-kip-lin)<br>Bonny Tan takes a look into the life of the late Lee Kip Lin, a man who wore many hats as student, educator and mentor, but perhaps best remembered for his passion for conserving Singapore’s pre-war architecture in his writings and teaching.[(PDF)](/files/pdf/vol-10/issue-3/v10-issue3_LeeKipLin.pdf)
 
-[<b>Designed for Use: library@orchard Makes a Comeback</b>](/vol-10/issue-3/oct-dec-2014/designed-for-use)<br>[(PDF)](/files/pdf/vol-10/issue-3/v10-issue3_LibraryOrchard.pdf)
+[<b>Designed for Use: library@orchard Makes a Comeback</b>](/vol-10/issue-3/oct-dec-2014/designed-for-use)<br>Featuring wall-to-ceiling bookshelves, collaborative spaces and innovative services, Sufyan Alimon and Eunice Ang share more about what the newly reopened and revamped library@orchard has to offer.[(PDF)](/files/pdf/vol-10/issue-3/v10-issue3_LibraryOrchard.pdf)
 
-[<b>In Vogue: Singapore Fashion Trends from 1960s to 1990s</b>](/vol-10/issue-3/oct-dec-2014/in-vogue)<br>[(PDF)](/files/pdf/vol-10/issue-3/v10-issue3_InVogue.pdf)
+[<b>In Vogue: Singapore Fashion Trends from 1960s to 1990s</b>](/vol-10/issue-3/oct-dec-2014/in-vogue)<br>From traditional dress to mini-skirts, pantsuits and bell-bottoms, <i>Jessie Yak</i> and <i>Sundari Balasubramaniam</i> highlight Singapore’s style trends of the 1960s to 1990s through fashion magazines.[(PDF)](/files/pdf/vol-10/issue-3/v10-issue3_InVogue.pdf)
