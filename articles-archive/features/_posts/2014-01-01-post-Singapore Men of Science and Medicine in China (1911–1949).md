@@ -205,7 +205,7 @@ Yip, K-C. (1995). *[Health and national reconstruction in nationalist China: The
 
 [^28]: Xun, L. (1981). Hai shang tong xin [Maritime communications] (pp. 158–161). In <i>Lu Xun quanji</i> [Complete works of Lu Xun]. Beijing: Renmin wenxue. (Not available in NLB holdings); Also see Lin, Y., Liu, Z., & Bian, Y. (1991). Lin Yutang zi zhuan [Lin Yutan’s autobiography] (pp. 98–100). Shijiazhuang Shi: Hebei renmin chubanshe. (Not available in NLB holdings)
 
-[^29]: In folder "Alfred Kohlberg Original Memo" and "Alfred Kohlberg Second Report", <i>American Bureau for Medical Aid to China Records, Rare Book & Manuscript Library, Columbia university in the city of New York</i>.
+[^29]: In folder "Alfred Kohlberg Original Memo" and "Alfred Kohlberg Second Report", American Bureau for Medical Aid to China Records, Rare Book & Manuscript Library, Columbia University in the city of New York.
 
 [^30]: American Bureau for Medical Aid to China Records, Rare Book & Manuscript Library; Wakeman, F.E. (2003). <i>Spymaster Dai Li and the Chinese secret service</i> (p. 389). Berkeley, CA: University of California Press. (Not available in NLB holdings)
 
