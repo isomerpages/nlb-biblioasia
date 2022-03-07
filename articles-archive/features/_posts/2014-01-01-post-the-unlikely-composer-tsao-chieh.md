@@ -124,11 +124,11 @@ In her review on Tsao Chieh’s electronic music, the ethnomusicologist Tan Shzr
 <br><br>
 “It is a treasure box of weird and delightful sounds either simulating acoustic instruments to eerie effect, or churning out frenetic blubs of nonsensical noises which must surely carry abstracted meanings in their own right...
 <br><br>
-“Just when you think you have nailed the composer to a pastiche of Debussy or Bartok-styled chromatic harmonies, a tinkly horror-movie soundtrack surges into your hearing, stealing your breath away. Small and sparse jumbles of sound are thrown away here and there against a backdrop of tense calm created by near-silent electronic “whooshes”.
+“Just when you think you have nailed the composer to a pastiche of Debussy or Bartok-styled chromatic harmonies, a tinkly horror-movie soundtrack surges into your hearing, stealing your breath away. Small and sparse jumbles of sound are thrown away here and there against a backdrop of tense calm created by near-silent electronic ‘whooshes’.
 <br><br>
 “Sometimes, a woman laughs and a man snatches the space for his moment with a scramble of words. Themes which sound transplanted from a drama-mama Chinese opera groove against a dizzying spiral of unremitting notes. It is a trippy and absolutely mesmerising experience.
 <br><br>
-“But every now and then, a curious refrain of a decaying, owl-like “woo”, flattened out in pitch towards its tail, rears up like a leitmotif. It reminds you of the constancy of — work? everyday existence? the inner rhythms of life? — that punctuate this album’s otherwise over-the-top splendour.”[^23]</span>
+“But every now and then, a curious refrain of a decaying, owl-like ‘woo’, flattened out in pitch towards its tail, rears up like a leitmotif. It reminds you of the constancy of — work? everyday existence? the inner rhythms of life? — that punctuate this album’s otherwise over-the-top splendour.”[^23]</span>
 
 <p style="font-size:15px;"><b>Jun Zubillaga-Pow</b> is a PhD Candidate in music research at King’s College London. He has performed and curated music events at the Esplanade, the Arts House, Theatreworks and the Substation. With the support of the National Arts Council, Jun is the co-editor of <i>Queer Singapore</i> and <i>Singapore Soundscape</i>.</p>
 
