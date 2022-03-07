@@ -38,7 +38,7 @@ The former City Hall and former Supreme Court today make up the National Gallery
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-9-issue-4/oldsg/hotel_de_IEurope.jpg" style="width:70%;">
-<i>The Grand Hotel de l’Europe was one of the finest hotels in Singapore and overlooked the Esplanade. Courtesy of National Archives of Singapore.</i></div>
+The Grand Hotel de l’Europe was one of the finest hotels in Singapore and overlooked the Esplanade. <i>Courtesy of National Archives of Singapore.</i></div>
 
 #### **National Stadium**
 
@@ -49,7 +49,7 @@ The former City Hall and former Supreme Court today make up the National Gallery
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-9-issue-4/oldsg/national_stadium.jpg" style="width:70%;">
-<i>The National Stadium was the venue for many sporting, cultural and entertainment events. It officially closed in 2007. MITA Collection, courtesy of National Archives of Singapore.</i></div>
+The National Stadium was the venue for many sporting, cultural and entertainment events. It officially closed in 2007. <i>MITA Collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **Capitol Theatre**
 
@@ -60,7 +60,7 @@ The former City Hall and former Supreme Court today make up the National Gallery
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-9-issue-4/oldsg/capital_theatre.jpg" style="width:70%;">
-<i>Capitol Theatre opened in 1930 and was designed British architects P. H. Keys and F. Dowdeswell. Ronni Pinsler collection, courtesy of National Archives of Singapore.</i></div>
+Capitol Theatre opened in 1930 and was designed British architects P. H. Keys and F. Dowdeswell. <i>Ronni Pinsler collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **Old Hill Street Police Station**
 
@@ -71,7 +71,7 @@ The former City Hall and former Supreme Court today make up the National Gallery
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-9-issue-4/oldsg/police_station.jpg" style="width:70%;">
-<i>The old Hill Street Police Station officially opened in 1934 and was gazetted as a national monument on 18 December 1998. Courtesy of National Archives of Singapore.</i></div>
+The old Hill Street Police Station officially opened in 1934 and was gazetted as a national monument on 18 December 1998. <i>Courtesy of National Archives of Singapore.</i></div>
 
 <br/>
 <img style="width:100px;height:100px;margin-bottom:-30px; border-radius:100%; box-shadow: 1px 2px 0px #424242;" src="/images/vol-9-issue-4/oldsg/Lu_Wenshi.jpg">
