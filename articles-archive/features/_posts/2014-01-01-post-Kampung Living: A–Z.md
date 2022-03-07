@@ -83,7 +83,7 @@ It was easy to identify the marble king of a district as he usually strutted aro
 
 One of most exhilarating <i>kampung</i> games, <i>hantam</i> (or <i>hentam</i>) bola or <i>rembat bola</i> (whack ball) is a fiercely competitive and physical game. Speed and power reign supreme; players from one team will chase and hit their opponents with a tennis ball as one player described, “I was very good at <i>hantam bola</i> in my younger days, catch tennis ball with left hand and whack anyone in front with the right hand.” 
 
-If unlucky, the ball would <i>kena</i> (hit) your face or head (followed by “<i>tao pio ah</i>” or “hit lottery”, a euphemism for being doused on the head with bird poop). Playing <i>hantam bola</i> in the rain would send one rolling into muddy puddles but the fun would end immediately when your mother saw your dirty state; she would <i>hantam</i> (whack) you instead![^25], [^26]
+If unlucky, the ball would <i>kena</i> (hit) your face or head (followed by “<i>tao pio ah</i>” or “hit lottery”, a euphemism for being doused on the head with bird poop). Playing <i>hantam bola</i> in the rain would send one rolling into muddy puddles but the fun would end immediately when your mother saw your dirty state; she would <i>hantam</i> (whack) you instead![^25]<sup>,</sup> [^26]
 
 #### **Itinerant Hawkers: Unlicensed Taste**
 
