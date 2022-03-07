@@ -15,7 +15,7 @@ Selected pages from Sir Stamford Raffles' original instructions to Sir William F
 
 Immortality — the idea of living eternally, never aging, dying or being forgotten — has captivated mankind throughout history. Humans — as sentient beings gifted with intellect, self-awareness and creativity, capable of love and the capacity to conceive and perceive infinity, yet bound by mortal bodies which invariably age and die — have always sought an escape from this inevitable fate.
 
-Mankind has sought immortality in a variety of ways, the most obvious being physical immortality. Rooted in the joys of mortal life and the fear of oblivion at death, this form of immortality — to be forever youthful and deathless — remains a goal of medical science and has found expression in contemporary popular culture, with its morbid fascination for vampires, who live forever, albeit at a terrible cost.[^1] Indeed the pursuit of physical immortality, perhaps for its hubris and overreach, has a history closely intertwined with morbidity. One recalls the Chinese Emperor Qin Shih Huang’s attempts to prolong his life by consuming mercury pills, which instead led to his insanity and premature death,[^2] as well as the grim Greek legend of Tithonus, a handsome youth for whom the goddess Eos procures immortality. But she forgets to ask for enduring youth, and Tithonus degenerates into a withered object of horror, longing to die but unable to.[^3]
+Mankind has sought immortality in a variety of ways, the most obvious being physical immortality. Rooted in the joys of mortal life and the fear of oblivion at death, this form of immortality — to be forever youthful and deathless — remains a goal of medical science and has found expression in contemporary popular culture, with its morbid fascination for vampires, who live forever, albeit at a terrible cost.[^2] Indeed the pursuit of physical immortality, perhaps for its hubris and overreach, has a history closely intertwined with morbidity. One recalls the Chinese Emperor Qin Shih Huang’s attempts to prolong his life by consuming mercury pills, which instead led to his insanity and premature death,[^3] as well as the grim Greek legend of Tithonus, a handsome youth for whom the goddess Eos procures immortality. But she forgets to ask for enduring youth, and Tithonus degenerates into a withered object of horror, longing to die but unable to.[^4]
 
 Immortality is also at the heart of many religions and forms of spirituality — whether Platonic, Abrahamic, Buddhist, Confucian, Hindu or Taoist — in the notion of an immortal soul that survives the death of the physical body and continues in an afterlife as a spirit, or in a reincarnated body or a glorified resurrected body — depending on one’s belief. Immortality in such instances is never questioned either because of one’s firsthand interaction with immortal beings or a personal conviction that such supernatural beings exist, whether as spirits, angels, or God Almighty. As the reasoning goes — since immortals exist, and because humanity has the means to relate with them, immortality is possible. But such immortality is at best intangible because it is experienced in another place and time.
 
@@ -25,19 +25,19 @@ More tangible is the idea of immortality gained through memory, in the remembran
 
 As memory is probably the most plausible way for man to attain a measure of immortality in this world, it has encouraged many to strive to realise excellences that merit recalling. Yet the paradox is that while an achievement might be personal, the process of recollection and recognition depends on the ones who remember. For unless others actually choose to remember, the memory of one’s achievement invariably dies. Rulers, seeking immortality, have erected vast monuments to commemorate the achievements of their reigns. But such efforts are typically futile if there is no general and voluntary consensus corresponding with the self image of those in power. Shelley’s haunting poem, “Ozymandias” comes to mind:
 
-I met a traveler from an antique land / Who said: Two vast and trunkless legs of stone / Stand in the desert. Near them, on the sand, / Half sunk, a shattered visage lies, whose frown, / And wrinkled lip, and sneer of cold command... / And on the pedestal these words appear: / “My name is Ozymandias, king of kings: / Look on my works, ye Mighty, and despair!” / Nothing besides remains. Round the decay / Of that colossal wreck, boundless and bare / The lone and level sands stretch far away.[^4]
+I met a traveler from an antique land / Who said: Two vast and trunkless legs of stone / Stand in the desert. Near them, on the sand, / Half sunk, a shattered visage lies, whose frown, / And wrinkled lip, and sneer of cold command... / And on the pedestal these words appear: / “My name is Ozymandias, king of kings: / Look on my works, ye Mighty, and despair!” / Nothing besides remains. Round the decay / Of that colossal wreck, boundless and bare / The lone and level sands stretch far away.[^5]
 
 Thus most fundamentally, one’s “immortality” rests on the acclaim and recognition by others. Memory cannot be forced, and immortality is not something won by mere dictate or design.
 
 <br/>
 <img src="/images/vol-9-issue-4/enternity/Egyptian_Sulpture.jpg">
-Percy Bysshe Shelley was inspired by the imminent arrival of this colossal fractured statue of the Egyptian Pharaoh Ramesses II (<i>image via Wikimedia Commons</i>[^5]) in London to write his poem "Ozymandias" in 1818. The statue was acquired by the British Museum and remains a centrepiece of the museum.[^6]
+Percy Bysshe Shelley was inspired by the imminent arrival of this colossal fractured statue of the Egyptian Pharaoh Ramesses II (<i>image via Wikimedia Commons</i>[^6]) in London to write his poem "Ozymandias" in 1818. The statue was acquired by the British Museum and remains a centrepiece of the museum.[^7]
 
 #### **Archiving and Immortality**
 
 An archive is in effect a repository of memory — of records of legal, historical and cultural significance, generated and organised in the course of business or social transactions across the lifetime of individuals and organisations. As a primary function of an archive is to safekeep records that have been appraised and deemed worthy of preservation, documents selected for an archive’s permanent collection acquire — by extension — a form of immortality. Archives form a select corpus of records that allow people to reconstruct and understand events that have occurred in past times. As archived records are carefully safeguarded to preserve their provenance — or their original form and context — they have been accorded a special value by researchers and historians since ancient times.
 
-As records — “frozen in time” as it were — properly archived documents have a basic trustworthiness relative to other sources. Such archived documents can impart a lasting quality to works based on them. An example of this is the Justinian Code or “Corpus Juris Civilis”. Commissioned in 6th century CE by the Byzantine Emperor Justinian, the Code was based on centuries of carefully archived Roman legal precedents and remains the basis of much European civil law till today.[^7] Another example is the Historical Records of the Grand Historian Sima Qian, the famed court historian of the Han Dynasty. Written in the 1st century BCE, his work drew heavily on the Han imperial court archives and remains a classic and reliable resource on ancient Chinese history to this day.[^8]
+As records — “frozen in time” as it were — properly archived documents have a basic trustworthiness relative to other sources. Such archived documents can impart a lasting quality to works based on them. An example of this is the Justinian Code or “Corpus Juris Civilis”. Commissioned in 6th century CE by the Byzantine Emperor Justinian, the Code was based on centuries of carefully archived Roman legal precedents and remains the basis of much European civil law till today.[^8] Another example is the Historical Records of the Grand Historian Sima Qian, the famed court historian of the Han Dynasty. Written in the 1st century BCE, his work drew heavily on the Han imperial court archives and remains a classic and reliable resource on ancient Chinese history to this day.[^9]
 
 <div style="background-color: white;">
 <br/>
@@ -46,7 +46,7 @@ Mural depiction of the Emperor Justinian who ruled between 527–565 CE at the h
 
 <br/>
 <img src="/images/vol-9-issue-4/enternity/sima_qian.jpg">
-Painting of Sima Qian, who served as court historian during the Han Dynasty between 145/135–86 BCE. <i>Image via Wikipedia Commons</i>.[^9]
+Painting of Sima Qian, who served as court historian during the Han Dynasty between 145/135–86 BCE. <i>Image via Wikipedia Commons</i>.[^10]
 
 For all its impressive possibilities in relation to immortality, a notable feature of an archive is that it may contain many records that are not monumental. While treasures can be found in most state archives — iconic documents such as the English Magna Carta (1215), the Declaration of Independence of the United States of America (1776), and here in Singapore, records such as the letters of Sir Stamford Raffles and the Singapore’s own Proclamation of Independence (1965) — a large part of archived records are more operational and administrative in nature. At the National Archives of Singapore (NAS), one finds alongside records on key decisions and policy-making, documents on school attendance, marriages, cemetery records, applications for licences, appeals for wage increases, and other records that might be considered routine in nature.
 
@@ -112,25 +112,25 @@ Wright, D.C. (2011). <i>The history of China</i>. California: Greenwood Press. (
 
 #### **NOTES**
 
-[^1]: Housel, R., & Wisnewski, J.J. (2009). *[Twilight & philosophy: Vampires, vegetarians and the pursuit of immortality](https://nlb.overdrive.com/media/F73624CD-CFDA-4183-B370-BA988EEA31DD)*. Hoboken, New Jersey: John Wiley & Sons. Retrieved from OverDrive. (myLibrary ID is required to access this ebook) 
+[^1]: Raffles, S. (1819, June 25). Original instructions to William Farquhar on the Plan of Singapore Town. *[Straits Settlements Records. Series L, Singapore: Letters to Bencoolen](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13844485)* [Straits Settlement Records, L10]. Singapore: National Archives of Singapore (Microfilm no.: NL 57) 
 
-[^2]: Wright, D.C. (2011). <i>The history of China</i>. California: Greenwood Press. (Not available in NLB holdings)
+[^2]: Housel, R., & Wisnewski, J.J. (2009). *[Twilight & philosophy: Vampires, vegetarians and the pursuit of immortality](https://nlb.overdrive.com/media/F73624CD-CFDA-4183-B370-BA988EEA31DD)*. Hoboken, New Jersey: John Wiley & Sons. Retrieved from OverDrive. (myLibrary ID is required to access this ebook) 
 
-[^3]: Bullfinch, T. (2004). <i>Bullfinch’s mythology: The age of fables or stories of Gods & heroes</i>. New York: Modern Library Paperbacks. (Not available in NLB holdings)
+[^3]: Wright, D.C. (2011). <i>The history of China</i>. California: Greenwood Press. (Not available in NLB holdings)
 
-[^4]: Shelly, P.B. (1818). The complete poetic works of Percy Bysshe Shellt (Vol. 2). <i>Ozymandias</i>, Retrieved from The Literature Network online website. 
+[^4]: Bullfinch, T. (2004). <i>Bullfinch’s mythology: The age of fables or stories of Gods & heroes</i>. New York: Modern Library Paperbacks. (Not available in NLB holdings)
 
-[^5]: Image of Ramesses II Bust: Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.2 or any later version published by the Free Software Foundation; With no invariant sections, no Front-Cover texts, and no Back-Cover Texts. A copy of the license is included in the section entitled GNU Free Documentation License.
+[^5]: Shelly, P.B. (1818). The complete poetic works of Percy Bysshe Shellt (Vol. 2). <i>Ozymandias</i>, Retrieved from The Literature Network online website. 
 
-[^6]: The British Museum. (2013). <i>Statue of Ramesses II, the “younger memnon’</i>. Retrieved from the British Museum website. 
+[^6]: Image of Ramesses II Bust: Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.2 or any later version published by the Free Software Foundation; With no invariant sections, no Front-Cover texts, and no Back-Cover Texts. A copy of the license is included in the section entitled GNU Free Documentation License.
 
-[^7]: Freedman. P. (2011, Fall). <i>The reign of Justinian – the early middle ages: 284-1000 AD</i> [Yale Open courses]. Retrieved from Yale University website. 
+[^7]: The British Museum. (2013). <i>Statue of Ramesses II, the “younger memnon’</i>. Retrieved from the British Museum website. 
 
-[^8]: Watson, B. (1958). <i>Ssuma Ch’ien: Grand historian of China</i>. New York: Columbia University Press. (Not available in NLB holdings)
+[^8]: Freedman. P. (2011, Fall). <i>The reign of Justinian – the early middle ages: 284-1000 AD</i> [Yale Open courses]. Retrieved from Yale University website. 
 
-[^9]: Image of Emperor Justinian: The work of art depicted in this image and the reproduction thereof are in the public domain worldwide. The reproduction is part of a collection of reproductions compiled by The Yorck Project. The compilation copyright is held by Zenodot Verlagsgesellchaft mbH and licensed under the GNU Free Documentation License. Image of Sima Qian: This image (or other media file) is in the public domain because its copyright has expired. This applies to Australia, the European Union and those countries with a copyright term of life of the author plus 70 years.
+[^9]: Watson, B. (1958). <i>Ssuma Ch’ien: Grand historian of China</i>. New York: Columbia University Press. (Not available in NLB holdings)
 
-[^10]: Raffles, S. (1819, June 25). Original instructions to William Farquhar on the Plan of Singapore Town. *[Straits Settlements Records. Series L, Singapore: Letters to Bencoolen](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13844485)* [Straits Settlement Records, L10]. Singapore: National Archives of Singapore (Microfilm no.: NL 57)
+[^10]: Image of Emperor Justinian: The work of art depicted in this image and the reproduction thereof are in the public domain worldwide. The reproduction is part of a collection of reproductions compiled by The Yorck Project. The compilation copyright is held by Zenodot Verlagsgesellchaft mbH and licensed under the GNU Free Documentation License. Image of Sima Qian: This image (or other media file) is in the public domain because its copyright has expired. This applies to Australia, the European Union and those countries with a copyright term of life of the author plus 70 years.
 
 [^11]: Jayakumar, S., & Koh, T. (2009). *[Pedra Branca: The road to the world court](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13097148)*. Singapore: National University of Singapore Press. (Call no.: RSING 341.448095957 JAY)
 
