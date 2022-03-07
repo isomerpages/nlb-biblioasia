@@ -134,4 +134,4 @@ The Diocese of Singapore (2020). <i>Our history</i>. Retrieved from The Diocese 
 
 [^8]: Cornelius-Takahama, V., & Tan, J.H.S. (2017). *[St Andrew’s Cathedral](https://eresources.nlb.gov.sg/infopedia/articles/SIP_25_2_2008-12-01.html)*. Retrieved from Singapore Infopedia, National Library Singapore.
 
-[^9]: The Courier is not in NLB holdings but is available at the Anglican Archives.
+[^9]: <i>The Courier</i> is not in NLB holdings but is available at the Anglican Archives.
