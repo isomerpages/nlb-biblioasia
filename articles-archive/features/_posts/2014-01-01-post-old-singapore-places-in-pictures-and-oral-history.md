@@ -11,29 +11,29 @@ With the passing of time, many places and buildings in Singapore have undergone 
 
 “There were cats running up the stage, bats flying around the stage and sometimes brushing against the performers because they picked up sounds but not lights due to their blindness. Such things would affect the performance. But we could not do anything when faced with such incidents. We tried to prevent, for example, prior to the performance we would blast loud music to chase the bats away; our cleaning staff would get rid of the cats and rats but since animals moved around, they could return.”
 
-— Mr Yap Pau Eng, former director of National Theatre Trust, on precautionary measures taken to minimise disruptions during performances. Translated from Chinese oral history interview no. 1489, reel 2, conducted in 2009.
+— Mr Yap Pau Eng, former director of National Theatre Trust, on precautionary measures taken to minimise disruptions during performances. <i>Translated from Chinese oral history interview no. 1489, reel 2, conducted in 2009</i>.
 
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-9-issue-4/oldsg/national_theatre.jpg" style="width:70%;">
-<i>Opened in 1963, the National Theatre was located at the corner of Clemenceau Avenue and River Valley Road. Courtesy of National Archives of Singapore.</i></div>
+Opened in 1963, the National Theatre was located at the corner of Clemenceau Avenue and River Valley Road. <i>Courtesy of National Archives of Singapore</i>.</div>
 
 #### **City Hall**
 
 “Third floor, Ministry of Culture... All I remember was that I just went up there. It was just a room. I don’t know what it was before. It was just a City Council office with little cubby-holes. All I had was a table and a chair. So I said “How do you start?” I think the first couple of days was just bringing in furniture and files and digging up stuff. At one point, I thought of having my Ministry in Radio Singapore because that was one part of the Ministry of Culture. But that would have been out of the way.”
 
-— Mr S. Rajaratnam, then-Minister for Culture, describing his office in City Hall on his first day of work in 1959. Oral history interview no. 0149, reel 28, conducted in 1982.
+— Mr S. Rajaratnam, then-Minister for Culture, describing his office in City Hall on his first day of work in 1959. <i>Oral history interview no. 0149, reel 28, conducted in 1982</i>.
 
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-9-issue-4/oldsg/city_hall.jpg" style="width:70%;">
-<i>The former City Hall and former Supreme Court today make up the National Gallery Singapore, which opened in 2015. Courtesy of National Archives of Singapore.</i></div>
+The former City Hall and former Supreme Court today make up the National Gallery Singapore, which opened in 2015. <i>Courtesy of National Archives of Singapore</i>.</div>
 
 #### **Grand Hotel de l'Europe**
 
 “...when we were at Europe Hotel, for dinner we used to play classical music which included opera, German waltzes and all sorts of things. French waltzes, all sorts of things we used to play... We frequently [played] the Italian operas. Any tune, I tried to improvise the thing and it turned out to be well.”
 
-— Mr Claude Oliveiro, pianist at Grand Hotel de l’Europe, on the music he used to play at the luxury hotel, which eventually made way for the Old Supreme Court in the 1930s. Oral history interview no. 1085, reel 2, conducted in 1989
+— Mr Claude Oliveiro, pianist at Grand Hotel de l’Europe, on the music he used to play at the luxury hotel, which eventually made way for the Old Supreme Court in the 1930s. <i>Oral history interview no. 1085, reel 2, conducted in 1989</i>
 
 <div style="background-color: white;">
 <br/>
