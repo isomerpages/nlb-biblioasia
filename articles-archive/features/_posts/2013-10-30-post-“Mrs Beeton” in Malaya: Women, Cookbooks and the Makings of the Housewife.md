@@ -9,8 +9,6 @@ description: ""
 
 <img style="width: 400px; height: 500px;" src="/images/vol-9-issue-3/Women%2C%20cookbook%2C%20housewife/w6.jpg">
 
-Janice Loo is an Associate Librarian with the National Library Content and Services division. She graduated with a B.A. (Hons) in Southeast Asian Studies with a second major in History from the National University of Singapore in 2011. She keeps a casual record of food-related discoveries from the library's collections at eatarchive.tumblr.com.
-
 Cookbooks, pamphlets, newspapers, domestic manuals and the like are rich sources of recipes, diet and nutrition advice as well as kitchen anecdotes and trivia. The non-literary and utilitarian nature of these writings belies their narrative potential as texts that contain rich socio-historical material on food-related culture. Despite their seeming inconsequentiality, details on everyday cooking and eating provide clues to wider debates about national, colonial, postcolonial, class, race and gender politics. English-language cookery texts published in early 20th century British Malaya provide a discursive space where women - whether writing, reading or practising the culinary arts - can participate in fashioning the feminine ideal.
 
 Regarded as the paragon of progressive womanhood in the history of British domesticity, the legacy of Isabella Beeton's magnum opus, *Beeton's Book of Household Management* (1861), refigures Malayan cookery texts beyond the parochial, suggesting the influence of domestic discourses from Victorian England. Cookbooks reproduce dominant gendered ideologies as "explicit emblems of women's relegation to the domestic sphere - the world of the home."[^1] Yet boundaries shift and blur when these texts also demonstrate how women, ostensibly acting in their traditional capacities as housekeeper and caregiver, could influence the well-being of the family, the wider community and beyond.
@@ -113,6 +111,14 @@ Unlike the Y.W.C.A volume, the recipes in Hing's book are presented together in 
 As has been shown, cookbooks can be read beyond their literal content to explore meanings embedded in the structure, tone, language and other aspects of textuality. The cookbook has emerged as a cultural form that not only reaffirmed the association between domesticity and femininity but is also identified with female self-expression. The cookbook is an amalgamation of ideas and inspirations derived from women (and men) of different generations, ethnicities and even social strata as recipes are recurrently exchanged and reproduced.
 
 Insofar as cookbooks appear to document reality, they possess an element of fantasy in prescribing a feminine ideal that may not concur with the real-life experiences of its readers. Cookbooks allow women to maintain a self-image that conforms to convention, while at the same time offer an opportunity to envision themselves in positions of authority and influence. Even if women merely perused the recipes and daydreamed about cooking, cookbooks nonetheless have the potential to transform how women perceived themselves and their identities.[^55]
+<br>
+<div style="background-color: white;">
+<img src="/images/Vol-15-issue-3/daguerreotypes-to-dry-plates/Daguerreotypes19.jpg" style="width: 100px; height: 100px;">
+<b>Janice Loo</b> is an Associate Librarian with the National Library Content and Services division. She graduated with a B.A. (Hons) in Southeast Asian Studies with a second major in History from the National University of Singapore in 2011. She keeps a casual record of food-related discoveries from the library's collections at eatarchive.tumblr.com.
+</div>
+
+<a href="https://biblioasia.nlb.gov.sg/vol-9/issue-3/oct-dec-2013/"><center>Back to Issue</center></a>
+
 
 #### **REFERENCES**
 
