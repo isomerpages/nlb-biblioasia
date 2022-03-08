@@ -67,4 +67,15 @@ Mary Heathcott recounts an episode where, tired of the usual *ikan merah* (red s
 
 #### **The domestication of malayan foods**
 
-Cookbooks reveal the processes through which the colonial knowledge of Malaya was constructed. The inclusion of recipes for *rundang* (a spicy meat stew, or *rendang*) and *satai* (skewered, grilled meat or *satay*) in "*Mems*" *Own* introduced and ex
+Cookbooks reveal the processes through which the colonial knowledge of Malaya was constructed. The inclusion of recipes for *rundang* (a spicy meat stew, or *rendang*) and *satai* (skewered, grilled meat or *satay*) in "*Mems*" *Own* introduced and explicated the preparation and consumption of otherwise unfamiliar local foods, consequently normalising their presence within the colonial diet.
+
+Published in 1935, the second edi-tion of the Y.W.C.A *International Cookery Book of Malaya* by Mrs R. E. Holttum and Mrs T. W. Hinch differs markedly from Kinsey's work in ways that signal the extent to which food and nutrition in Malaya had become a subject of intellectual and practical study. As a compilation of "the numerous recipes used in the in-ternational cooking lessons conducted [...] by the [Young Women's Christian] Association,"33 the volume is perhaps more closely identified with the teaching of domestic science than "*Mems*" *Own*.
+
+<img style="width: 550px; height: 350px;" src="/images/vol-9-issue-3/Women%2C%20cookbook%2C%20housewife/w3.jpg">
+<div style="background-color: white;"><br>
+<img style="width: 550px; height: 350px;" src="/images/vol-9-issue-3/Women%2C%20cookbook%2C%20housewife/w4.jpg">
+<div style="background-color: white;"> Note the stylistic differences for the same potato soup recipe between 'Hems" Own and the Y.W.C.A cookbook. <i>Top: Kinsey, 1929, p.10; Bottom: Holttum & Hinch, 1935, p. 52.</i></div>
+
+In contrast to the almost exclusive focus on recipes in Kinsey's book, the Y.W.C.A volume offers comprehensive guidance that covers meal planning, purchase of ingredients and other preparatory tasks preliminary to the actual cooking. Most sections are prefaced by general remarks on cooking methods and principles; for example, a brief overview on "How to make soup"34 precedes the section on the soup recipes. The ingredients are listed separately from the cooking process of which each step is relayed plainly and succinctly.
+
+Placing the knowledge of local foods and the colonial diet on a scientific footing, the Y.W.C.A cookbook introduces the concept of "food values", in which an in¬dividual's energy and nutritional requirements dictate the basis for efficient and healthful eating in the tropics." This is complemented by a "chemical analyses
