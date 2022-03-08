@@ -55,12 +55,12 @@ Despite being provided with a policy framework, the colonial administration was 
 
 The failed attempt to resolve the hawker problems was due to numerous factors. First, the government was slow to introduce the licensing scheme. In fact, the scheme was established three years after the commission’s report, and a proper Markets and Hawkers Department to manage it was not established until 1957.[^27] Second, there were not enough inspectors to monitor the hawkers. In 1958, there were only 16 inspectors monitoring the 30,000 hawkers operating in Singapore.[^28] Third, and perhaps the biggest factor, was that the authorities were unable to secure cooperation from the hawkers. This was mostly due to the all-out “war” the government declared on unlicensed hawkers.[^29] Aided by the police, the Town Cleansing Department conducted daily raids. This caused many hawkers to resent the authorities, resulting in their defiance against the licensing policy. Many hawkers also resorted to bribing the enforcers or turning to the protection of secret societies and gangs.
 
-<img src="/images/vol-9-issue-3/Hawkers/H5.png">
+<img style="width: 650px; height: 400px;" src="/images/vol-9-issue-3/Hawkers/H5.png">
 <div style="background-color: white;">Police patrolling the streets before the demolition of hawker stalls at Margaret Drive in 1962. <i>Courtesy of National Archives of Singapore.</i></div>
 
 Besides the hawkers, the daily raids irked both the Hawkers’ Union and the public. Rallying behind the hawkers, the Hawkers’ Union suggested that a better approach was not to punish the hawkers but to work with them to preserve their livelihood by building shelters so that hawkers would have an alternate site to continue their trade.[^30] In the 1950s, some hawkers formed syndicates to buy land and build markets and hawkers’ shelters. Some of these were located in Somerset Road, Sennett Estate, Mackenzie Road and Serangoon Road.[^31] However, this bold endeavour failed to trigger a similar response from the authorities. As a result, illegal hawker stalls and the mass raids continued. It was only after Singapore became an independent nation in 1965 that a concerted government effort to resolve the hawker problem was made.
 
-<img src="/images/vol-9-issue-3/Hawkers/H7.png">
+<img style="width: 650px; height: 400px;" src="/images/vol-9-issue-3/Hawkers/H7.png">
 <div style="background-color: white;"> Demolition of hawker stalls at St Michael's estate in progress in 1962. <i>Courtesy of National Archives of Singapore.</i></div>
 
 #### **Building Hawker Centres**
@@ -83,7 +83,7 @@ Despite these regulations, many hawkers still operated in filthy conditions. Man
 
 In 1998, a grading system that indicated the cleanliness of each stall replaced the demerit point system that had been implemented a decade earlier.[^44] An "A" grade implies excellence in cleanliness and food hygiene and "D" for below average standards. This is based on several criteria such as housekeeping standards, cleanliness levels, food hygiene levels and the hawker's hygiene habits. Stallholders have to display their grades prominently so that the public are aware of the cleanliness levels of their stall. This move incentivised hawkers to maintain or improve their grades.
 
-<img src="/images/vol-9-issue-3/Hawkers/H8.png">
+<img style="width: 650px; height: 400px;" src="/images/vol-9-issue-3/Hawkers/H8.png">
 <div style="background-color: white;">The hawker centre at the top floor of Funan Shopping Centre in 1985. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **Hawker Fare as Heritage**
