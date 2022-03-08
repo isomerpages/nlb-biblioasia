@@ -133,15 +133,15 @@ Brownfoot, J.N. (1984). Memsahibs in colonial Malaya: A study of European wives 
 
 George, R.M. (1993–1994, Winter). Homes in the empire, empires in the home. *Cultural critique*, 26, 95–127. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
-Homi Bhabha. (1997). Of mimicry and man: The ambivalence of colonial discourse (pp. 152–162). In F. Cooper & A.L. Stoler (Eds.). [Tensions of empire: Colonial cultures in a bourgeois world](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7846747). Berkeley: University of California Press. (Call no.: RUBC 909.8 COO)
+Homi Bhabha. (1997). Of mimicry and man: The ambivalence of colonial discourse (pp. 152–162). In F. Cooper & A.L. Stoler (Eds.). [*Tensions of empire: Colonial cultures in a bourgeois world*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7846747). Berkeley: University of California Press. (Call no.: RUBC 909.8 COO)
 
-Newlyn, A.K. (1999, Fall). Challenging contemporary narrative theory: The alternative textual strategies of nineteenth-century manuscript cookbooks. Journal of American Culture, 22 (3), 35–47. Retrieved from Wiley Online website.
+Newlyn, A.K. (1999, Fall). Challenging contemporary narrative theory: The alternative textual strategies of nineteenth-century manuscript cookbooks. *Journal of American Culture, 22* (3), 35–47. Retrieved from Wiley Online website.
 
-Procida, M. (2003, Summer). Feeding the imperial appetite: Imperial knowledge and Anglo-Indian domesticity. Journal of Women’s History, 15 (2), 123–149.
+Procida, M. (2003, Summer). Feeding the imperial appetite: Imperial knowledge and Anglo-Indian domesticity. *Journal of Women’s History, 15* (2), 123–149.
 
-Tobias, S.M. (1998). Early American cookbooks as cultural artifacts. Papers on language & literature, 34 (1), 3–18.
+Tobias, S.M. (1998). Early American cookbooks as cultural artifacts. *Papers on language & literature, 34* (1), 3–18.
 
-Zlotnick, S. (1996). Domesticating imperialism: Curry and cookbooks in Victorian England. Frontiers: A Journal of Women Studies, 16 (2/3), 51–68. Retrieved from JSTOR via NLB’s eResources website.
+Zlotnick, S. (1996). Domesticating imperialism: Curry and cookbooks in Victorian England. *Frontiers: A Journal of Women Studies, 16* (2/3), 51–68. Retrieved from JSTOR via NLB’s eResources website.
 
 ##### **Newspapers**
 “Cookie”. (1929, October 16). The Straits Times, p. 15. Retrieved from NewspaperSG.
