@@ -8,7 +8,6 @@ description: ""
 #### Cookbooks offer interesting insights into the oft-overlooked domestic space of British Malaya, shedding light on how women saw themselves and how feminine ideals from the West were propagated in the colonial era.
 
 <img src="/images/vol-9-issue-3/Women%2C%20cookbook%2C%20housewife/w6.jpg">
-<div style="background-color: white;"></i></div>
 
 Janice Loo is an Associate Librarian with the National Library Content and Services division. She graduated with a B.A. (Hons) in Southeast Asian Studies with a second major in History from the National University of Singapore in 2011. She keeps a casual record of food-related discoveries from the library's collections at eatarchive.tumblr.com.
 
@@ -38,6 +37,9 @@ By the early 20th century, extracts of the original work had been published in b
 
 In Malaya, the recipe book became indispensable to the newly arrived European wife, or *memsahib*12 (often truncated as *mem*), as a guide to reproducing home - or rather the familiar taste of it - abroad. More than a means for educating the self, the recipe book was used to instruct servants where, for example, "with the aid of "Mrs Beeton" and a little tact and courage [the *mem*] may convert a bad or indifferent cook into a quite pre-sentable exponent of the art."13 
 
+<img src="/images/vol-9-issue-3/Women%2C%20cookbook%2C%20housewife/w2.jpg">
+<div style="background-color: white;">First published in 1920, "Mems" Own featured a recipe style that was quite different from the Beeton format.</div>
+
 Beyond the use of "Mrs Beeton" books in colonial homes, the "presence" of "Mrs Beeton" in Malaya alludes to the translation of feminine domesticity from Victorian England to the Malayan context in the form of texts that deal with cookery. While it is admittedly difficult to determine the extent of direct influence that Beeton's volume had on Malayan cookery texts, "Mrs Beeton", as a symbol of domesticity, an embodiment of the multi-layered nature and discursive potential of the recipe book, as "a practical manual, and a method for scientific education and a fantasy text"14 offer approaches to interpreting the recipe books of Malaya.
 
 #### **The myth of the lazy mem**
@@ -45,7 +47,7 @@ Beyond the use of "Mrs Beeton" books in colonial homes, the "presence" of "Mrs B
 "The housewives who come out to Malaya from Europe may be divided into two distinct groups. The first is composed of dilettante wives, who leave everything pertaining to culinary matters and the control of their households entirely to their native staffs, and who, consequently, are forever (sic) complaining of the lack of flavour and nourishment of the food in Malaya and the absence of training and honesty of those who serve them. The other group consists of those who take an intelligent interest in the supplies and preparation of food and all which affects the comfort of their homes. [...] Has it not been said, "Home-making hearts are happiest." — E. M. M. (1933, April 23).
 
 <img src="/images/vol-9-issue-3/Women%2C%20cookbook%2C%20housewife/w1.jpg">
-<div style="background-color: white;">The Y.M.C.A. International Cookery Book of Malaya was a very successful cookbook with nine editions. It was first published in 1932.</i></div>
+<div style="background-color: white;">The Y.M.C.A. International Cookery Book of Malaya was a very successful cookbook with nine editions. It was first published in 1932.</div>
 
 The above observation made by an experienced *mem* implies that the fundamental purpose - in fact, the very happiness - of the English wife in Malaya resides in the conscientious care of the home. The establishment of the English home in colonial territories led to a "physical repositioning of the hitherto private into [...] the most public of realms - the British empire."15 As will be subsequently explained, this intersection of domesticity with imperial power provided an avenue through which European women could advance the work of the British Empire in ways that were consistent with prevailing gender roles.
 
