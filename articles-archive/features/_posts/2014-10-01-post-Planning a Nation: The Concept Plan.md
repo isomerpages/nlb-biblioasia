@@ -59,11 +59,6 @@ The Concept Plan has been revised several times since its introduction in 1971. 
 
 The Ring Plan was the 1971 Concept Plan’s strategy to move the population, projected to hit 4 million by 1991, out of the overcrowded central area to outlying satellite towns. This is similar to the satellite town concept proposed in the 1958 Master Plan, albeit on a grander scale. The Ring Plan is a ring of high-density satellite residential towns encircling the central water catchment area.[^37] Populated with mostly medium-density and high-density public housing, the plan was for the towns to be linked to each other as well as to the Jurong Industrial Estate and the city area by the MRT and expressways. At the same time, the satellite towns were to be separated from each other by a system of parks and green spaces – another key feature of Singapore’s present landscape.[^38] The central area was designed to be a strong financial business district to attract foreign capital as well as local investments and expedite Singapore’s industrialisation programme.[^39]
 
-<div style="background-color: white;">
-<br/>
-<img src="/images/vol-10-issue-3/conceptplan/Tanjong_Pagar.jpg" style="width:70%;">
-Shophouses in the Tanjong Pagar area were among the first heritage structures to be restored in 1987. <i>MITA collection, courtesy of National Archives of Singapore.</i></div>
-
 #### **The 1991 Concept Plan**
 
 The 1971 Concept Plan was subsequently reviewed and replaced by the 1991 Concept Plan. The new Concept Plan came at a very different period in Singapore’s history; by this time many problems linked with the colonial era, such as housing and unemployment, had been effectively ironed out. Moreover, the country was on the verge of reaching developed status with one of the strongest economies and highest GDP per capita in Asia.[^40] With this change in socioeconomic status, the vision of the 1991 Concept Plan was to turn Singapore into a Tropical City of Excellence that balanced work, play, culture and commerce by Year X beyond 2010.[^41]
@@ -104,7 +99,10 @@ It is clear that the government will continue to use the Concept Plans to expres
 <b>Preserving Heritage</b>
 <br><br>
 One of the most enduring impacts of the nation’s town planning efforts was the launch of the conservation programme in the 1980s. Prior to that, the lack of an articulated conservation plan had resulted in the demolition of many buildings with historical and architectural significance such as Bukit Rose in Bukit Timah, the OId China Building and the Old Arcade in the name of progress.[^45] As noted in the 1991 Concept Plan, the aim of conservation is preserve the nation’s built heritage so that historic buildings can be used as physical landmarks that illustrate Singapore’s rich, multi-ethnic background.[^46] The first shophouses to be conserved and restored were in Tanjong Pagar in 1987. Thereafter, over 7,000 heritage buildings and structures in more than 100 locations were gazetted for conservation. These buildings were selected based on their architectural significance and rarity; cultural, social, religious and historical significance; contribution to the environment and identity; and economic impact.[^47]
- </span>
+<br/><br/>
+<img src="/images/vol-10-issue-3/conceptplan/Tanjong_Pagar.jpg" style="width:70%;">
+Shophouses in the Tanjong Pagar area were among the first heritage structures to be restored in 1987. <i>MITA collection, courtesy of National Archives of Singapore.</i>
+</span>
  
  <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> <b>MARINA BAY DOWNTOWN: A VISION FROM 1991</b>
 <br><br>
