@@ -144,11 +144,11 @@ Tobias, S.M. (1998). Early American cookbooks as cultural artifacts. *Papers on 
 Zlotnick, S. (1996). Domesticating imperialism: Curry and cookbooks in Victorian England. *Frontiers: A Journal of Women Studies, 16* (2/3), 51–68. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
 ##### **Newspapers**
-“Cookie”. (1929, October 16). The Straits Times, p. 15. Retrieved from NewspaperSG.
+[“Cookie”](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19291026-1.2.115.3). (1929, October 16). *The Straits Times*, p. 15. Retrieved from NewspaperSG.
 
-E.M.M. (1933, April 23). The housewives of Malaya. The Singapore Free Press and Mercantile Advertiser, p. 1. Retrieved from NewspaperSG.
+E.M.M. (1933, April 23). [The housewives of Malaya](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19330425-1.2.4). *The Singapore Free Press and Mercantile Advertiser*, p. 1. Retrieved from NewspaperSG.
 
-Heathcott, M. (1941, August 22). Fish on the menu need not be ikan merah. The Singapore Free Press and Mercantile Advertiser, p. 5. Retrieved from NewspaperSG.
+Heathcott, M. (1941, August 22). [Fish on the menu need not be ikan merah](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19410822-1.2.45). The Singapore Free Press and Mercantile Advertiser, p. 5. Retrieved from NewspaperSG.
 
 ‘Mrs Beeton’ in action. (1954, May 6). The Straits Times, p. 4. Retrieved from NewspaperSG.
 
