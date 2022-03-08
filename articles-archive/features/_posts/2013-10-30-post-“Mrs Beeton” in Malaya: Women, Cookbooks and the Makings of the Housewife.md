@@ -7,7 +7,7 @@ description: ""
 ---
 #### Cookbooks offer interesting insights into the oft-overlooked domestic space of British Malaya, shedding light on how women saw themselves and how feminine ideals from the West were propagated in the colonial era.
 
-<img src="/images/vol-9-issue-3/Women%2C%20cookbook%2C%20housewife/w6.jpg">
+<img style="width: 400px; height: 500px;" src="/images/vol-9-issue-3/Women%2C%20cookbook%2C%20housewife/w6.jpg">
 
 Janice Loo is an Associate Librarian with the National Library Content and Services division. She graduated with a B.A. (Hons) in Southeast Asian Studies with a second major in History from the National University of Singapore in 2011. She keeps a casual record of food-related discoveries from the library's collections at eatarchive.tumblr.com.
 
