@@ -54,9 +54,9 @@ The Western travellers’ senses frequently turned to the natives of Singapore. 
 
 The townsfolk perpetuated the common perception that the East was peopled by exotic races, an idea that influenced the photographic treatment of Singapore during the photography boom of the 1880s and 1890s.[^30] The natives’ outlandish attire, movements and other habits set them apart from the Europeans and created the racial divide expected of a colonial society. Implicit in accounts that paint the native races in this light is the lofty position of the Europeans within that stratified society.[^31] The distinction gets sharper when the toiling working class (locals waving the punkah fans, carrying the umbrella, preparing saddles, driving gharries, bearing torches) or else their wretched living spaces featured side-by-side with the well-off Europeans who passed their days in leisure and dinner parties:[^32]
 
-The native portion of the city is entirely separate from the foreign portion. The Malays live in small, poorly-built huts and houses, each house containing many people. The native portion is very closely-built and densely-populated, but the English officials succeed in making the natives keep the houses and streets comparatively clean. Europeans in Singapore manage to get about as much ease and pleasure out of life as is possible, and yet at the same time to make as much money as possible. Servants are so cheap that every foreigner has two or three to attend to his every want...The usual method of entertaining is by giving dinners.
+“The native portion of the city is entirely separate from the foreign portion. The Malays live in small, poorly-built huts and houses, each house containing many people. The native portion is very closely-built and densely-populated, but the English officials succeed in making the natives keep the houses and streets comparatively clean. Europeans in Singapore manage to get about as much ease and pleasure out of life as is possible, and yet at the same time to make as much money as possible. Servants are so cheap that every foreigner has two or three to attend to his every want...The usual method of entertaining is by giving dinners.”
 
-<span style="text-align:right;">–E.W. Eberle, Lieutenant, United States Navy, taken from <i>The Washington Post, 1892</i>[^33]</span>
+<span style="display: block; text-align:right;">–E.W. Eberle, Lieutenant, United States Navy, taken from <i>The Washington Post</i>, 1892[^33]</span>
 
 <div style="background-color: white;">
 <br/>
@@ -67,13 +67,13 @@ An engraving of the port of Singapore entitled “Chinese Merchant, Malay Porter
 
 Nineteenth-century travel accounts of Singapore generally celebrated the civilising effect of imperial rule. There were, however, observations that recorded some of its casualties:
 
-But in this part of the world [Singapore], the word palanquin is applied to a kind of long chest, placed on four wheels...A courier, called a says, [syce] holds the head of the horse to direct its movements, and excite it to speed. These men are generally either miserable Bengalese or the very poorest of the Malays, and a painful sight it is to see these poor fellows who are usually emaciated, debilitated by poverty and wretchedness, running about for hours together, until they are weary and breathless. Their costume is of the simple kind; their feet and legs are naked, their chests uncovered, and their hair is concealed under a cotton handkerchief rolled like a turban round the head: the only garment they wear is a pair of drawers, fastened round the waist and descending no further than the knees.
+“But in this part of the world [Singapore], the word palanquin is applied to a kind of long chest, placed on four wheels...A courier, called a says, [syce] holds the head of the horse to direct its movements, and excite it to speed. These men are generally either miserable Bengalese or the very poorest of the Malays, and a painful sight it is to see these poor fellows who are usually emaciated, debilitated by poverty and wretchedness, running about for hours together, until they are weary and breathless. Their costume is of the simple kind; their feet and legs are naked, their chests uncovered, and their hair is concealed under a cotton handkerchief rolled like a turban round the head: the only garment they wear is a pair of drawers, fastened round the waist and descending no further than the knees.”
 
-<span style="text-align:right;">–Yvan, Melchior, a French physician in Singapore[^34]</span>
+<span style="display: block; text-align:right;">–Yvan, Melchior, a French physician in Singapore[^34]</span>
 
 Sober reflections on the abject poverty of the working class[^35] shatter the perception that an all-round wholesome development was taking shape and beg to examine the natives beyond their peculiar traits. The bounty that lay hidden in the fertile soil was also a story shy of a happy ending. The nutmeg disaster of the 1850s and 1860s shattered the British spice dream and left many European planters in Singapore ruined:[^36]
 
-The soil is generally very inferior, its disposition and the climate diminish the number of valuable staples capable of being advantageously cultivated... The cultivation of coffee, sugar and nutmegs has been tried largely but at a lavish and hitherto vain expenditure.[^37]
+“The soil is generally very inferior, its disposition and the climate diminish the number of valuable staples capable of being advantageously cultivated... The cultivation of coffee, sugar and nutmegs has been tried largely but at a lavish and hitherto vain expenditure.”[^37]
 
 Singapore was indeed a picture of progress on the eve of the 20th century. Yet its success story unfolds in more nuanced plots than the themes found in the writings of many early Western travellers. Colonial literary and visual images produced by travellers were very much a product of Western cultural and aesthetic expectations of the East. In living up to these expectations, Western visitors to Singapore were likely to see the country more as an aesthetic construct rather than as an evolving habitat and society filled with real people.[^38]
 
@@ -135,7 +135,7 @@ Mazower, M. (2002). Travellers and the Oriental city, c. 1840–1920. <i>Transac
 
 [Notes in the Straits](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18430907-1.2.7). (1843, September 7). <i>The Singapore Free Press</i>, p. 3. Retrieved from NewspaperSG.
 
-[Oddities of Singapore}(http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18920802-1.2.21). (1892, August 2). <i>Straits Times Weekly</i>, p. 462. Retrieved from NewspaperSG.
+[Oddities of Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18920802-1.2.21). (1892, August 2). <i>Straits Times Weekly</i>, p. 462. Retrieved from NewspaperSG.
 
 Ramsland, M. (2010). Impressions of a young French gentleman’s 1866 visit to the Australian colonies. <i>Australian Studies</i>, 2. Retrieved from National Library of Australia website.
 
