@@ -183,13 +183,13 @@ V.St.J. (1938, March 6). [I return to Malaya as a bride](http://eresources.nlb.g
 [^26]:[*The Straits Times*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19300919-1.2.110), 30 Jan 1931, p. 17.
 [^27]:[Kinsey](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5232525), 1929, p. 3. 
 [^28]:[Kinsey](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5232525), 1929, preface.
-[^29]:Leong-Salobir, C. (2011). Food culture in colonial Asia: A taste of empire (p. 12). London: Routledge. (Call no.: RSING 394.12095 LEO)
-[^30]:Heathcott, M. (1941, August 22). Fish on the menu need not be ikan merah. The Singapore Free Press and Mercantile Advertiser, p. 5. Retrieved from NewspaperSG.
-[^31]:The Singapore Free Press and Mercantile Advertiser, 22 Aug 1941, p. 5.
+[^29]:Leong-Salobir, C. (2011). [*Food culture in colonial Asia: A taste of empire*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13935765) (p. 12). London: Routledge. (Call no.: RSING 394.12095 LEO)
+[^30]:Heathcott, M. (1941, August 22). [Fish on the menu need not be ikan merah](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19410822-1.2.45). *The Singapore Free Press and Mercantile Advertiser*, p. 5. Retrieved from NewspaperSG.
+[^31]:[*The Singapore Free Press and Mercantile Advertiser*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19410822-1.2.45), 22 Aug 1941, p. 5.
 [^32]:Compiled by Assistant Director of Fisheries, D.W. Le Mare, Malayan Fish and How to Cook Them is a pamphlet issued by the Department of Information and Publicity to encourage the consumption of local food fishes.
-[^33]:Holttum, R.E., & Hinch, T.W. (Eds.). (1935). International cookery book of Malaya (p. 5). [Malaya]: YWCA of Malaya. (Call no.: RRARE 641.59595 YOU; Microfilm no.: NL16675)
-[^34]:Holttum & HInch, 1935, p. 49.
-[^35]:Holttum & HInch, 1935, pp. 7–10.
+[^33]:Holttum, R.E., & Hinch, T.W. (Eds.). (1935). [*International cookery book of Malaya*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4396418) (p. 5). [Malaya]: YWCA of Malaya. (Call no.: RRARE 641.59595 YOU; Microfilm no.: NL16675)
+[^34]:[Holttum & HInch](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4396418), 1935, p. 49.
+[^35]:[Holttum & HInch](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4396418), 1935, pp. 7–10.
 [^36]:Holttum & HInch, 1935, pp. 13–20.
 [^37]:Procida, Summer 2003, p. 138. 
 [^38]:Brownfoot, 1984, p. 199.
