@@ -190,14 +190,14 @@ V.St.J. (1938, March 6). [I return to Malaya as a bride](http://eresources.nlb.g
 [^33]:Holttum, R.E., & Hinch, T.W. (Eds.). (1935). [*International cookery book of Malaya*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4396418) (p. 5). [Malaya]: YWCA of Malaya. (Call no.: RRARE 641.59595 YOU; Microfilm no.: NL16675)
 [^34]:[Holttum & HInch](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4396418), 1935, p. 49.
 [^35]:[Holttum & HInch](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4396418), 1935, pp. 7–10.
-[^36]:Holttum & HInch, 1935, pp. 13–20.
+[^36]:[Holttum & HInch](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4396418), 1935, pp. 13–20.
 [^37]:Procida, Summer 2003, p. 138. 
 [^38]:Brownfoot, 1984, p. 199.
 [^39]:Brownfoot, 1984, p. 200.
-[^40]:Holttum & HInch, 1935, p. 5.
+[^40]:[Holttum & HInch](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4396418), 1935, p. 5.
 [^41]:The editors expressed regret that “so small a section should be presented […] about the cookery of the native inhabitants of Malaya”. The few recipes contained in the “Malay Section: were contributed by M.C. Murray of the Malay Girls’ School in Malacca, Ishak, a senior fishery officer in Singapore and Miss M.A Bixton. 
-[^42]:Zlotnick, S. (1996). Domesticating imperialism: Curry and cookbooks in Victorian England. Frontiers: A Journal of Women Studies, 16 (2–3), 51–68, p. 64. Retrieved from JSTOR via NLB’s eResources website.
-[^43]:Heathcott, M. (1950, November 28). Singapore revisited. The Straits Times, p. 8. Retrieved from NewspaperSG.
+[^42]:Zlotnick, S. (1996). Domesticating imperialism: Curry and cookbooks in Victorian England. *Frontiers: A Journal of Women Studies, 16* (2–3), 51–68, p. 64. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+[^43]:Heathcott, M. (1950, November 28). [Singapore revisited](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19501128-1.2.130). The Straits Times, p. 8. Retrieved from NewspaperSG.
 [^44]:The Straits Times, 28 Nov 1950, p. 8. 
 [^45]:The Straits Times, 28 Nov 1950, p. 8.
 [^46]:The Straits Times, 28 Nov 1950, p. 8.
