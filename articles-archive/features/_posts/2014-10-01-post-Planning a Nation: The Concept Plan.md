@@ -48,19 +48,14 @@ Interestingly, the injection of the Concept Plan into Singapore’s land plannin
 
 Based on the planning directions set out in the Concept Plan and Master Plan, land for development is then released through the Government Land Sales (GLS) programme. Singapore’s built heritage is not forgotten in this strategy as conservation plans are also drawn up to preserve the city’s overall urban design.[^32] All these different stages of planning and implementation ensure that the country’s limited land resources are optimised to the fullest and the urban environment made attractive.[^33]
 
+#### **The 1971 Concept Plan**
+
+The Concept Plan has been revised several times since its introduction in 1971. In each revision, an overall strategy was adopted to ensure that the country’s land use plans meet the changing needs of the nation. New features were added based on these strategies, which in turn had a profound effect on Singapore’s physical landscape. For instance, the 1971 Concept Plan was drafted with the infrastructure needs of a new nation in mind. As such, the plan was instrumental in laying the foundation of Singapore’s transportation infrastructure.[^34] Key transport developments such as Changi Airport, the Mass Rapid Transit (MRT) system and the island-wide network of expressways were the outcomes of strategies outlined in the 1971 Concept Plan.[^35] Apart from serving the needs of an industrialised economy, these developments also facilitated the “Ring Plan” structure.[^36]
+
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-10-issue-3/conceptplan/1971_Concept_Plan.jpg" style="width:70%;">
 1971 Concept Plan © Urban Redevelopment Authority. <i>All rights reserved.</i></div>
-
-<div style="background-color: white;">
-<br/>
-<img src="/images/vol-10-issue-3/conceptplan/1991_Concept_Plan.jpg" style="width:70%;">
-1991 Concept Plan © Urban Redevelopment Authority. <i>All rights reserved.</i></div>
-
-#### **The 1971 Concept Plan**
-
-The Concept Plan has been revised several times since its introduction in 1971. In each revision, an overall strategy was adopted to ensure that the country’s land use plans meet the changing needs of the nation. New features were added based on these strategies, which in turn had a profound effect on Singapore’s physical landscape. For instance, the 1971 Concept Plan was drafted with the infrastructure needs of a new nation in mind. As such, the plan was instrumental in laying the foundation of Singapore’s transportation infrastructure.[^34] Key transport developments such as Changi Airport, the Mass Rapid Transit (MRT) system and the island-wide network of expressways were the outcomes of strategies outlined in the 1971 Concept Plan.[^35] Apart from serving the needs of an industrialised economy, these developments also facilitated the “Ring Plan” structure.[^36]
 
 The Ring Plan was the 1971 Concept Plan’s strategy to move the population, projected to hit 4 million by 1991, out of the overcrowded central area to outlying satellite towns. This is similar to the satellite town concept proposed in the 1958 Master Plan, albeit on a grander scale. The Ring Plan is a ring of high-density satellite residential towns encircling the central water catchment area.[^37] Populated with mostly medium-density and high-density public housing, the plan was for the towns to be linked to each other as well as to the Jurong Industrial Estate and the city area by the MRT and expressways. At the same time, the satellite towns were to be separated from each other by a system of parks and green spaces – another key feature of Singapore’s present landscape.[^38] The central area was designed to be a strong financial business district to attract foreign capital as well as local investments and expedite Singapore’s industrialisation programme.[^39]
 
@@ -78,6 +73,11 @@ To realise this higher quality of living, the Concept Plan introduced a “Green
 To meet the needs of the changing economic structure, particularly to facilitate the growth of high-technology industries, the 1991 Concept Plan called for the creation of technological corridors. Comprising business parks, science parks and academic institutions, these corridors were designed to provide researchers with integrated working, living and leisure environments. Situated near existing tertiary institutions, these corridors aim to facilitate the exchange of ideas and innovation among researchers at all levels.[^48] The establishment of Science Park and OneNorth in the western part of Singapore near the National University of Singapore and Singapore Polytechnic are the outcomes of this proposal.[^49] Besides technological corridors, the Concept Plan catered for other value-added industries, proposing for the amalgamation of the southern islands off Jurong to support the development of a petrochemical industry.[^50] It also planned for a new downtown to be created in Marina South to expand the business district.[^51]
 
 The 1991 Concept Plan also included the creation of 10 new satellite towns to accommodate a population that was projected to hit 3.23 million by 2000. It also revised the 1971 Ring Plan to a “Constellation Plan”. Based on a policy of decentralisation, this housing strategy was to “fan” the commercial centres out to the heartlands so that jobs could be brought closer to homes and alleviate congestion in the city centre. The plan called for the development of regional and sub-regional commercial centres that would be served by new expressways and MRT lines.[^52] This led to the development of the Woodlands, Tampines and Jurong East regional centres respectively in the northern, eastern and western parts of Singapore as well as the introduction of the North-East MRT line and the Paya Lebar Expressway.[^53]
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-3/conceptplan/1991_Concept_Plan.jpg" style="width:70%;">
+1991 Concept Plan © Urban Redevelopment Authority. <i>All rights reserved.</i></div>
 
 #### **The 2001 Concept Plan**
 
