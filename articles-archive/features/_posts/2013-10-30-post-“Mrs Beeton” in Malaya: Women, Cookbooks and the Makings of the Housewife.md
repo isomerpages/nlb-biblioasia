@@ -153,3 +153,60 @@ Heathcott, M. (1941, August 22). [Fish on the menu need not be ikan merah](http:
 [‘Mrs Beeton’ in action](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19540506-1.2.87). (1954, May 6). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
 
 V.St.J. (1938, March 6). [I return to Malaya as a bride](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19380306-1.2.130). *The Straits Times*, p. 16. Retrieved from NewspaperSG.
+
+#### **NOTES**
+[^1]:Newlyn, A.K. (1999, Fall). Challenging contemporary narrative theory: The alternative textual strategies of nineteenth-century manuscript cookbooks. Journal of American Culture, 22 (3), 35–47. Retrieved from Wiley Online website.
+[^2]:Beetham, M. (2010). Of recipe books and reading in the nineteenth century: Mrs Beeton and her cultural consequences (pp. 15–30). In J. Floyd., & L. Forster (Eds.), The recipe reader: Narratives, contexts, traditions. Lincoln and London: University of Nebraska Press. (Not available in NLB holdings)
+[^3]:Beetham, 2010, pp. 16–17, 20.
+[^4]:Beetham, 2010, p. 17.
+[^5]:Beetham, 2010, p. 18.
+[^6]:Beetham, 2010, p. 21.
+[^7]:Beetham, 2010, p. 21.
+[^8]:Beetham, 2010, p. 22. 
+[^9]:Tobias, S.M. (1998). Early American cookbooks as cultural artifacts. Papers on language & literature, 34 (1), 3–18, p. 9.
+[^10]:see, for example, Beeton, I., & Baker, G. (2012). Mrs Beeton's cakes & bakes. London: Weidenfeld & Nicolson. (Call no.: 641.865 BEE); Beeton, I., & Baker, G. (2012). Mrs Beeton puddings. London: Weidenfeld & Nicolson. (Call no.: 641.865 BEE); Beeton, I., & Baker, G. (2012). Mrs Beeton classic meat dishes. London: Weidenfeld & Nicolson. (Call no.: 641.865 BEE). Available at Public Libraries.
+[^11]:V.St.J. (1938, March 6). I return to Malaya as a bride. The Straits Times, p. 16. Retrieved from NewspaperSG.
+[^12]:Europeans wives were collectively called ‘memsahibs’, a generic term borrowed from India that literally means “Madam Boss”.
+[^13]:“Cookie”. (1929, October 16). The Straits Times, p. 15. Retrieved from NewspaperSG.
+[^14]:Beetham, 2010, p. 29.
+[^15]:George, R.M. (1993–1994, Winter). Homes in the empire, empires in the home. Cultural critique, 26, 95–127, p. 99. Retrieved from JSTOR via NLB’s eResources website.
+[^16]:Brownfoot, J.N. (1984). Memsahibs in colonial Malaya: A study of European wives in a British colony and protectorate 1900–1940 (pp. 186–190). In H. Callan & S. Ardener (Eds.). The incorporated wife. London: Croom Helm. (Not available in NLB holdings)
+[^17]:Blunt, A. (1999). Imperial geographies of home: British domesticity in India, 1886–1925. Transactions of the Institute of British Geographers, 24 (4), 421–440, 429–431. Retrieved from JSTOR via NLB’s eResources website.
+[^18]:Brownfoot, 1984, p. 196.
+[^19]:MacCallum Scott, J.H. (1939). Eastern journey (p. 14). London: Travel Book Club. (Call no.: RCLOS 959 MAC)
+[^20]:Dirks, N.B. (1996). Foreword. In B. Cohn, Colonialism and its forms of knowledge: The British in India (p. ix). New Jersey: Princeton University Press. (Call no.: R 954 COH), quoted in Procida, M. (2003). Feeding the imperial appetite: Imperial knowledge and Anglo-Indian domesticity. Journal of Women’s History, 15 (2), 123–149, p. 138.
+[^21]:Blunt, 1999, p. 431.
+[^22]:For a description of the content and aspects of food history, see Tan, B. (2011). Malayan cookery books. BiblioAsia, 7 (3), 30–34. Retrieved from BiblioAsia website. 
+[^23]:Kinsey, W.E. (1929). The mem's own cookery book: 420 tried and economical recipes for Malaya (Preface). Singapore: Kelly & Walsh. (Call no.: RRARE 641.59595 KIN; Microfilm no.: NL9852)
+[^24]:The literary page – new books reviewed. (1930, January 31). The Straits Times, p. 17. Retrieved from NewspaperSG.
+[^25]:Some new books. (1922, May 6). The Singapore Free Press and Mercantile Advertiser, p. 9. Retrieved from NewspaperSG.
+[^26]:The Straits Times, 30 Jan 1931, p. 17.
+[^27]:Kinsey, 1929, p. 3. 
+[^28]:Kinsey, 1929, preface.
+[^29]:Leong-Salobir, C. (2011). Food culture in colonial Asia: A taste of empire (p. 12). London: Routledge. (Call no.: RSING 394.12095 LEO)
+[^30]:Heathcott, M. (1941, August 22). Fish on the menu need not be ikan merah. The Singapore Free Press and Mercantile Advertiser, p. 5. Retrieved from NewspaperSG.
+[^31]:The Singapore Free Press and Mercantile Advertiser, 22 Aug 1941, p. 5.
+[^32]:Compiled by Assistant Director of Fisheries, D.W. Le Mare, Malayan Fish and How to Cook Them is a pamphlet issued by the Department of Information and Publicity to encourage the consumption of local food fishes.
+[^33]:Holttum, R.E., & Hinch, T.W. (Eds.). (1935). International cookery book of Malaya (p. 5). [Malaya]: YWCA of Malaya. (Call no.: RRARE 641.59595 YOU; Microfilm no.: NL16675)
+[^34]:Holttum & HInch, 1935, p. 49.
+[^35]:Holttum & HInch, 1935, pp. 7–10.
+[^36]:Holttum & HInch, 1935, pp. 13–20.
+[^37]:Procida, Summer 2003, p. 138. 
+[^38]:Brownfoot, 1984, p. 199.
+[^39]:Brownfoot, 1984, p. 200.
+[^40]:Holttum & HInch, 1935, p. 5.
+[^41]:The editors expressed regret that “so small a section should be presented […] about the cookery of the native inhabitants of Malaya”. The few recipes contained in the “Malay Section: were contributed by M.C. Murray of the Malay Girls’ School in Malacca, Ishak, a senior fishery officer in Singapore and Miss M.A Bixton. 
+[^42]:Zlotnick, S. (1996). Domesticating imperialism: Curry and cookbooks in Victorian England. Frontiers: A Journal of Women Studies, 16 (2–3), 51–68, p. 64. Retrieved from JSTOR via NLB’s eResources website.
+[^43]:Heathcott, M. (1950, November 28). Singapore revisited. The Straits Times, p. 8. Retrieved from NewspaperSG.
+[^44]:The Straits Times, 28 Nov 1950, p. 8. 
+[^45]:The Straits Times, 28 Nov 1950, p. 8.
+[^46]:The Straits Times, 28 Nov 1950, p. 8.
+[^47]:The Straits Times, 28 Nov 1950, p. 8.
+[^48]:‘Mrs Beeton’ in action. (1954, May 6). The Straits Times, p. 4. Retrieved from NewspaperSG.
+[^49]:Procida, Summer 2003, p. 124.
+[^50]:Homi Bhabha. (1997). Of mimicry and man: The ambivalence of colonial discourse (pp. 152–162). In F. Cooper & A.L. Stoler (Eds.). Tensions of empire: Colonial cultures in a bourgeois world. Berkeley: University of California Press. (Call no.: RUBC 909.8 COO)
+[^51]:Newlyn, Fall 1999, p. 37.
+[^52]:Hing, S. (1956). In a Malayan kitchen (p. 7). Singapore: Mun Seong Press. (Call no.: RCLOS 641.59595 HIN)
+[^53]:Hing, 1956, p. 7.
+[^54]:Hing, 1956, p. 5.
+[^55]:For more on cookbooks as romance or “escapist” reading that allowed women to imagine themselves in different roles, see Bower, A.L. (2004, May). Romanced by cookbooks. Gastromonica: The Journal of Food and Culture, 4 (2), 35–42. Retrieved from JSTOR via NLB’s eResources website.
