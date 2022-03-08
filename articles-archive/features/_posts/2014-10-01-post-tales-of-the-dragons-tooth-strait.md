@@ -126,10 +126,10 @@ Wheatley, P. (1961). *[The Golden Khersonese: Studies in the historical geograph
 
 [^15]: [Miskic](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123868), 2013, p. 169.
 
-[^16]: <u>Su</u>, 2000, pp. 5–6.
+[^16]: Su, 2000, pp. 5–6.
 
 [^17]: Su, J. (2000). Opening comments. In Su Jing, Dao Yi Zhi Lue Jiao Shi [Annotations of Dao Yi Zhi Lue] (pp. 10–11). Beijing: Zhonghua Book Company. (Not available in NLB’s holdings)
 
-[^18]: <u>Su</u>, 2000, pp. 1–2.
+[^18]: Su, 2000, pp. 1–2.
 
 [^19]: [Wheatley](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3283462), 1961, p. 81.
