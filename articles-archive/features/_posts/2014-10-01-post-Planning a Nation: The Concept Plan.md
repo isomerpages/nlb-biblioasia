@@ -137,7 +137,7 @@ Ministry of National Development. (2013). *[A high quality living environment fo
 
 Ong, K. Y., & Lee, T.Y. (2010). *[Final report of focus group on sustainability and identity: Concept plan review 2011](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200142054)*. Singapore: Urban Redevelopment Authority. (Call no.: RSING 307.76095957 SIN)
 
-Pearson, H.F. (1969, July). Lt. Jackson’s plan of Singapore. <i>Journal of the Malaysian Branch of the Royal Asiatic Society</i>, 42 (1) (215), pp. 161–165. Retrieved from JSTOR via NLB’s eResources website.
+Pearson, H.F. (1969, July). Lt. Jackson’s plan of Singapore. <i>Journal of the Malaysian Branch of the Royal Asiatic Society</i>, 42 (1) (215), pp. 161–165. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
 Saw, S-H. (2012). *[The population of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14383911)*. Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 304.6095957 SAW)
 
