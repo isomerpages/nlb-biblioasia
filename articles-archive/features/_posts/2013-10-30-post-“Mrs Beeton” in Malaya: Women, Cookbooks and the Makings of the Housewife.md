@@ -72,7 +72,7 @@ Cookbooks reveal the processes through which the colonial knowledge of Malaya wa
 Published in 1935, the second edi-tion of the Y.W.C.A *International Cookery Book of Malaya* by Mrs R. E. Holttum and Mrs T. W. Hinch differs markedly from Kinsey's work in ways that signal the extent to which food and nutrition in Malaya had become a subject of intellectual and practical study. As a compilation of "the numerous recipes used in the in-ternational cooking lessons conducted [...] by the [Young Women's Christian] Association,"33 the volume is perhaps more closely identified with the teaching of domestic science than "*Mems*" *Own*.
 
 <img style="width: 550px; height: 350px;" src="/images/vol-9-issue-3/Women%2C%20cookbook%2C%20housewife/w3.jpg">
-<div style="background-color: white;"><br>
+<br>
 <img style="width: 550px; height: 350px;" src="/images/vol-9-issue-3/Women%2C%20cookbook%2C%20housewife/w4.jpg">
 <div style="background-color: white;"> Note the stylistic differences for the same potato soup recipe between 'Hems" Own and the Y.W.C.A cookbook. <i>Top: Kinsey, 1929, p.10; Bottom: Holttum & Hinch, 1935, p. 52.</i></div>
 
@@ -97,4 +97,4 @@ Holttum and Hinch would have been pleased to learn of Che Azizah binte Ja'affar 
 	
 It is intriguing how Asian women, particularly those who were trained in domestic science and became its propo-nents, could be viewed as having adopt-ed attributes associated with Western notions of feminine modernity. "MRS BEETON' IN ACTION (sic)" ran the cap¬tion of a photograph in The Straits Times that showed Esther Chen, author of two books on Chinese cooking, teaching in the kitchen of the Y.W.C.A in 1954. The writer highlighted the presence of sev¬eral European women in the beginners' class, however, "no European woman has yet graduated to the advanced classes..."48 
 	
-Che Azizah was one among sever¬al who gained recognition for their cu-linary expertise to the extent of being dubbed 
+Che Azizah was one among sever¬al who gained recognition for their cu-linary expertise to the extent of being dubbed
