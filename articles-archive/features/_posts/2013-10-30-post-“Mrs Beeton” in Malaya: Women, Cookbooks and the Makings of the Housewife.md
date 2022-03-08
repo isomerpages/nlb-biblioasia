@@ -7,3 +7,5 @@ description: ""
 ---
 #### Cookbooks offer interesting insights into the oft-overlooked domestic space of British Malaya, shedding light on how women saw themselves and how feminine ideals from the West were propagated in the colonial era.
 
+<img src="/images/vol-9-issue-3/Women%2C%20cookbook%2C%20housewife/w6.jpg">
+<div style="background-color: white;"></i></div>
