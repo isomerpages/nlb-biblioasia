@@ -10,7 +10,7 @@ description: ""
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-3/raffles/cover.jpg">
+<img src="/images/vol-10-issue-3/raffles/raffles_cover.jpg">
 Jinrickshaws picking up travellers just outside Raffles Hotel, circa 1910. <i>Courtesy of Raffles Singapore.</i></div>
 
 For over a century, Raffles Hotel has shared Singapore’s prosperity and endured its vicissitudes, along the way becoming one of those rare places in the world where truth, legend, myth and mystery merge effortlessly together. The very name conjures up all that is romantic in travel. Over the years, the hotel has enjoyed several incarnations: modest start-up, grand caravanserai, fable-encrusted attraction, faded dowager, national landmark and restored beauty. The story of how Raffles Hotel became so celebrated, and how it survived when so many other hotels fell by the wayside, begins over a century ago and connects with the larger story of the “Golden Age of Travel” when, for the first time in human history, people began to circumnavigate the globe for the pleasure of taking in the sights.
