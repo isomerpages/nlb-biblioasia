@@ -209,4 +209,4 @@ V.St.J. (1938, March 6). [I return to Malaya as a bride](http://eresources.nlb.g
 [^52]:Hing, S. (1956). [*In a Malayan kitchen*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4078437) (p. 7). Singapore: Mun Seong Press. (Call no.: RCLOS 641.59595 HIN)
 [^53]:[Hing](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4078437), 1956, p. 7.
 [^54]:[Hing](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4078437), 1956, p. 5.
-[^55]:For more on cookbooks as romance or “escapist” reading that allowed women to imagine themselves in different roles, see Bower, A.L. (2004, May). Romanced by cookbooks. Gastromonica: The Journal of Food and Culture, 4 (2), 35–42. Retrieved from JSTOR via NLB’s eResources website.
+[^55]:For more on cookbooks as romance or “escapist” reading that allowed women to imagine themselves in different roles, see Bower, A.L. (2004, May). Romanced by cookbooks. *Gastromonica: The Journal of Food and Culture, 4* (2), 35–42. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
