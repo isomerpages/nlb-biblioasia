@@ -17,7 +17,7 @@ Since Independence, Singapore has witnessed many dramatic changes to its urban l
 
 The changes to Singapore’s urban landscape have been shaped by a land use strategy that has been evolving for the past five decades in tandem with the nation’s changing needs. These changes have been systematic and implemented under the guidance of the Concept Plan – the country’s strategic land use and transportation plan. By examining Singapore’s previous concept plans as well as their objectives and directions, this article will assess the impact of this planning instrument in transforming the country’s physical landscape.
 
-#### **Raffles Town Plan and The 1958 Master Plan**
+#### **Raffles Town Plan and the 1958 Master Plan**
 
 Land use planning in Singapore is not a recent concept. In fact, the first town plan of Singapore was drawn up by surveyor Lieutenant Philip Jackson in 1823. Widely referred to as the Raffles Town Plan, it was based on instructions by Stamford Raffles to the town committee in November 1822.[^1] The aim of the town plan was to ensure “an economical and proper allotment of the ground intended to form the site of the principal town”.[^2] To this end, the plan parcelled the proposed town area, located within a 2- to 3-kilometre radius from the Singapore River, into distinctive districts for the seat of government, merchants and each of the major ethnic communities, namely the Chinese, Malays, Indians and Europeans.[^3]
 
