@@ -202,11 +202,11 @@ V.St.J. (1938, March 6). [I return to Malaya as a bride](http://eresources.nlb.g
 [^45]:[*The Straits Times*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19501128-1.2.130), 28 Nov 1950, p. 8.
 [^46]:[*The Straits Times*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19501128-1.2.130), 28 Nov 1950, p. 8.
 [^47]:[*The Straits Times*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19501128-1.2.130), 28 Nov 1950, p. 8.
-[^48]:‘Mrs Beeton’ in action. (1954, May 6). The Straits Times, p. 4. Retrieved from NewspaperSG.
+[^48]:[‘Mrs Beeton’ in action](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19540506-1.2.87). (1954, May 6). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
 [^49]:Procida, Summer 2003, p. 124.
-[^50]:Homi Bhabha. (1997). Of mimicry and man: The ambivalence of colonial discourse (pp. 152–162). In F. Cooper & A.L. Stoler (Eds.). Tensions of empire: Colonial cultures in a bourgeois world. Berkeley: University of California Press. (Call no.: RUBC 909.8 COO)
+[^50]:Homi Bhabha. (1997). Of mimicry and man: The ambivalence of colonial discourse (pp. 152–162). In F. Cooper & A.L. Stoler (Eds.). [*Tensions of empire: Colonial cultures in a bourgeois world*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7846747). Berkeley: University of California Press. (Call no.: RUBC 909.8 COO)
 [^51]:Newlyn, Fall 1999, p. 37.
-[^52]:Hing, S. (1956). In a Malayan kitchen (p. 7). Singapore: Mun Seong Press. (Call no.: RCLOS 641.59595 HIN)
-[^53]:Hing, 1956, p. 7.
-[^54]:Hing, 1956, p. 5.
+[^52]:Hing, S. (1956). [*In a Malayan kitchen*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4078437) (p. 7). Singapore: Mun Seong Press. (Call no.: RCLOS 641.59595 HIN)
+[^53]:[Hing](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4078437), 1956, p. 7.
+[^54]:[Hing](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4078437), 1956, p. 5.
 [^55]:For more on cookbooks as romance or “escapist” reading that allowed women to imagine themselves in different roles, see Bower, A.L. (2004, May). Romanced by cookbooks. Gastromonica: The Journal of Food and Culture, 4 (2), 35–42. Retrieved from JSTOR via NLB’s eResources website.
