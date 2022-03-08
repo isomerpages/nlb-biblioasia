@@ -164,12 +164,12 @@ V.St.J. (1938, March 6). [I return to Malaya as a bride](http://eresources.nlb.g
 [^7]:Beetham, 2010, p. 21.
 [^8]:Beetham, 2010, p. 22. 
 [^9]:Tobias, S.M. (1998). Early American cookbooks as cultural artifacts. *Papers on language & literature, 34* (1), 3–18, p. 9.
-[^10]:see, for example, Beeton, I., & Baker, G. (2012). [Mrs Beeton's cakes & bakes](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14658701). London: Weidenfeld & Nicolson. (Call no.: 641.865 BEE); Beeton, I., & Baker, G. (2012). [Mrs Beeton puddings](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14658698). London: Weidenfeld & Nicolson. (Call no.: 641.865 BEE); Beeton, I., & Baker, G. (2012). Mrs Beeton classic meat dishes. London: Weidenfeld & Nicolson. (Call no.: 641.865 BEE). Available at Public Libraries.
-[^11]:V.St.J. (1938, March 6). I return to Malaya as a bride. The Straits Times, p. 16. Retrieved from NewspaperSG.
+[^10]:see, for example, Beeton, I., & Baker, G. (2012). [*Mrs Beeton's cakes & bakes*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14658701). London: Weidenfeld & Nicolson. (Call no.: 641.865 BEE); Beeton, I., & Baker, G. (2012). [*Mrs Beeton puddings*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14658698). London: Weidenfeld & Nicolson. (Call no.: 641.865 BEE); Beeton, I., & Baker, G. (2012). [*Mrs Beeton classic meat dishes*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14658699). London: Weidenfeld & Nicolson. (Call no.: 641.865 BEE). Available at Public Libraries.
+[^11]:V.St.J. (1938, March 6). [I return to Malaya as a bride](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19380306-1.2.130). *The Straits Times*, p. 16. Retrieved from NewspaperSG.
 [^12]:Europeans wives were collectively called ‘memsahibs’, a generic term borrowed from India that literally means “Madam Boss”.
-[^13]:“Cookie”. (1929, October 16). The Straits Times, p. 15. Retrieved from NewspaperSG.
+[^13]:[“Cookie”](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19291026-1.2.115.3). (1929, October 16). *The Straits Times*, p. 15. Retrieved from NewspaperSG.
 [^14]:Beetham, 2010, p. 29.
-[^15]:George, R.M. (1993–1994, Winter). Homes in the empire, empires in the home. Cultural critique, 26, 95–127, p. 99. Retrieved from JSTOR via NLB’s eResources website.
+[^15]:George, R.M. (1993–1994, Winter). Homes in the empire, empires in the home. *Cultural critique*, 26, 95–127, p. 99. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 [^16]:Brownfoot, J.N. (1984). Memsahibs in colonial Malaya: A study of European wives in a British colony and protectorate 1900–1940 (pp. 186–190). In H. Callan & S. Ardener (Eds.). The incorporated wife. London: Croom Helm. (Not available in NLB holdings)
 [^17]:Blunt, A. (1999). Imperial geographies of home: British domesticity in India, 1886–1925. Transactions of the Institute of British Geographers, 24 (4), 421–440, 429–431. Retrieved from JSTOR via NLB’s eResources website.
 [^18]:Brownfoot, 1984, p. 196.
