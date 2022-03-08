@@ -20,6 +20,11 @@ At a glance, <i>Everyday Life Among the Head-hunters and Other Experiences East 
 
 Although Cator identified with British imperialism, her account of North Borneo questioned the dominant discourses on gender and race that structured colonial society. While suggesting rhetorical alternatives, Cator’s writings did not amount to counter-hegemonic resistance against the status quo but rather contained “moments of outbreak [and] discursive freedoms [...] when imperial and patriarchal conventions, though seldom disappearing, lose their hermeneutic force.”[^6] 
 
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-3/dorothycator/head_hunting_Dayaks.jpg" style="width:70%;">
+	This illustration of head-hunting Dayaks was featured in the <i>Illustrated London News</i> in October 1887. <i>Courtesy of the Sabah Museum.</i></div>
+	
 #### **Writing Power**
 
 Imperial dominance, in terms of cultural hegemony, was enacted in colonial travel writing, where the coloniser – epitomised by the “figure of the settler-colonial white man”[^7] – possessed and exercised “the capacity to build and sustain some truths about land and people, and to denigrate and marginalise them.”[^8] Women, however, faced difficulties in adopting the same authoritative and imperialist narrative voice because of their interstitial position as the “inferior sex within the superior race,”[^9] betwixt power and the lack thereof.[^10]
@@ -40,11 +45,6 @@ Cator’s claim to narrative authority, based on self-identification as a white 
 Female identification with imperialism typically echoed and endorsed masculine imperial rhetoric, which was rooted in white superiority and its “civilising” impulse. By invoking Eurocentric reasoning and Orientalist tropes (the “savage” native, the “enterprising” Chinese) recurrently deployed in the hegemonic (masculine) rhetoric of imperial domination, Cator took on the position of British (male) colonialism in an act of appropriation that signified both subversion and submission.[^12]
 
 Cator portrayed the different ethnic communities in North Borneo within the overarching paradigm of a “Pax Britannica”, emphasising the unprecedented peace and security afforded by firm but benevolent British governance. She described the Chinese as “a most industrious, law-abiding people <i>if only they are governed properly</i> [emphasis added]”[^13]; the Dayaks “make splendid soldiers and best of friends, as they are faithful and trustworthy [...] <i>Held in with an iron hand</i> [emphasis added] they are very valuable [otherwise] they are worse than wild beasts”[^14]; the Bajows, “a dark-skinned, wild sea-gipsy race roving from place to place – pirates <i>until the English arrived</i> [emphasis added], and the terror of the whole coast, but now living peaceable, quiet lives”[^15]; likewise, the Dusuns “have settled down wonderfully quietly under British rule, and [gave] very little trouble.”[^16] Recounting petty disputes that her husband helped resolve, Cator remarked that “the people’s unquestioning confidence in the justice of an Englishman is very touching,”[^17] thus vindicating her conviction in the integrity and fairness of British rule. 
-
-<div style="background-color: white;">
-<br/>
-<img src="/images/vol-10-issue-3/dorothycator/head_hunting_Dayaks.jpg" style="width:70%;">
-This illustration of head-hunting Dayaks was featured in the Illustrated London News in October 1887. <i>Courtesy of the Sabah Museum.</i></div>
 
 Cator further underscored the superiority of British imperialism by representing the conduct of other European powers in diametric contrast as inhumane and unjust. She denounced the Spanish as “very bad colonists, cruel masters, who hate and are hated by the natives over whom they rule”[^18]; the Dutch as being “inclined to look upon [the natives] as not merely a lower race than themselves, but lower than their animals” and they were responsible for the “most brutal cases of cruelty on the estates which [her husband] Dick and the other magistrates had to inquire into.”[^19] This affirmed the conventional rationalisation for British intervention in terms of a moral obligation to rescue and extend protection to populations “outside the pale of civilisation.”[^20]
 
