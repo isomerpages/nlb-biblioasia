@@ -30,16 +30,16 @@ This can explain for the vacillations between self-assuredness and diffidence in
 
 Cator’s claim to narrative authority, based on self-identification as a white woman with original, first-hand knowledge of unexplored territories and undiscovered cultures, was undermined by her own confessed ignorance of how to systematically document what she knew. Cator acknowledged the epistemological superiority of science (incidentally a male domain), yet her tongue-in-cheek disparagement of its language as “unintelligible gibberish” seemed to indicate otherwise. Notwithstanding her self-deprecation, her ability to quote obscure geological terms could be seen as a subtle act of showing off while maintaining a cloak of modesty. Cator’s negotiation of her feminine subjectivity at the intersection of gender and race in the colonial context produced some degree of ambivalence, self-contradiction and inconsistence in her writing.
 
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-3/dorothycator/carte.jpg">
+	The writer, Dorothy Cator. <i>Everyday Life Among the Head-Hunters</i> (1905).</div>
+	
 #### **Women for Empire**
 
 Female identification with imperialism typically echoed and endorsed masculine imperial rhetoric, which was rooted in white superiority and its “civilising” impulse. By invoking Eurocentric reasoning and Orientalist tropes (the “savage” native, the “enterprising” Chinese) recurrently deployed in the hegemonic (masculine) rhetoric of imperial domination, Cator took on the position of British (male) colonialism in an act of appropriation that signified both subversion and submission.[^12]
 
 Cator portrayed the different ethnic communities in North Borneo within the overarching paradigm of a “Pax Britannica”, emphasising the unprecedented peace and security afforded by firm but benevolent British governance. She described the Chinese as “a most industrious, law-abiding people <i>if only they are governed properly</i> [emphasis added]”[^13]; the Dayaks “make splendid soldiers and best of friends, as they are faithful and trustworthy [...] <i>Held in with an iron hand</i> [emphasis added] they are very valuable [otherwise] they are worse than wild beasts”[^14]; the Bajows, “a dark-skinned, wild sea-gipsy race roving from place to place – pirates <i>until the English arrived</i> [emphasis added], and the terror of the whole coast, but now living peaceable, quiet lives”[^15]; likewise, the Dusuns “have settled down wonderfully quietly under British rule, and [gave] very little trouble.”[^16] Recounting petty disputes that her husband helped resolve, Cator remarked that “the people’s unquestioning confidence in the justice of an Englishman is very touching,”[^17] thus vindicating her conviction in the integrity and fairness of British rule. 
-
-<div style="background-color: white;">
-<br/>
-<img src="/images/vol-10-issue-3/dorothycator/carte.jpg">
-The writer, Dorothy Cator. Everyday Life Among the Head-Hunters (1905).</div>
 
 <div style="background-color: white;">
 <br/>
