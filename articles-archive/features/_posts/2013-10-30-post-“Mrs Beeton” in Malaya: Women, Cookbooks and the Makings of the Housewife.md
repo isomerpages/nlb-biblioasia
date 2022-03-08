@@ -110,3 +110,42 @@ Unlike the Y.W.C.A volume, the recipes in Hing's book are presented together in 
 As has been shown, cookbooks can be read beyond their literal content to explore meanings embedded in the structure, tone, language and other aspects of textuality. The cookbook has emerged as a cultural form that not only reaffirmed the association between domesticity and femininity but is also identified with female self-expression. The cookbook is an amalgamation of ideas and inspirations derived from women (and men) of different generations, ethnicities and even social strata as recipes are recurrently exchanged and reproduced.
 
 Insofar as cookbooks appear to document reality, they possess an element of fantasy in prescribing a feminine ideal that may not concur with the real-life experiences of its readers. Cookbooks allow women to maintain a self-image that conforms to convention, while at the same time offer an opportunity to envision themselves in positions of authority and influence. Even if women merely perused the recipes and daydreamed about cooking, cookbooks nonetheless have the potential to transform how women perceived themselves and their identities.55
+
+#### **REFERENCES**
+
+##### **Books**
+Hing, S. (1956). [*In a Malayan kitchen*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4078437). Singapore: Mun Seong Press. (Call no.: RCLOS 641.59595 HIN)
+
+Holttum, R.E., & Hinch, T.W. (Eds.). (1935). [*International cookery book of Malaya*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4396418). [Malaya]: YWCA of Malaya. (Call no.: RRARE 	641.59595 YOU; Microfilm no.: NL16675)
+
+Kinsey, W.E. (1929). [*The mem's own cookery book: 420 tried and economical recipes for Malaya*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5232525). Singapore: Kelly & Walsh. (Call no.: RRARE 641.59595 KIN; Microfilm no.: NL9852)
+
+Leong-Salobir, C. (2011). [*Food culture in colonial Asia: A taste of empire*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13935765). London: Routledge. (Call no.: RSING 394.12095 LEO)
+
+MacCallum Scott, J.H. (1939). [*Eastern journey*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4316240). London: Travel Book Club. (Call no.: RCLOS 959 MAC)
+
+##### **Articles and chapters in books**
+Beetham, M. (2010). Of recipe books and reading in the nineteenth century: Mrs Beeton and her cultural consequences (pp. 15–30). In J. Floyd., & L. Forster (Eds.), *The recipe reader: Narratives, contexts, traditions*. Lincoln and London: University of Nebraska Press. (Not available in NLB holdings)
+
+Blunt, A. (1999). Imperial geographies of home: British domesticity in India, 1886–1925. *Transactions of the Institute of British Geographers, 24* (4), 421–440. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+
+Brownfoot, J.N. (1984). Memsahibs in colonial Malaya: A study of European wives in a British colony and protectorate 1900–1940 (pp. 186–210). In H. Callan & S. Ardener (Eds.). *The incorporated wife*. London: Croom Helm. (Not available in NLB holdings)
+
+George, R.M. (1993–1994, Winter). Homes in the empire, empires in the home. *Cultural critique*, 26, 95–127. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+
+Homi Bhabha. (1997). Of mimicry and man: The ambivalence of colonial discourse (pp. 152–162). In F. Cooper & A.L. Stoler (Eds.). [Tensions of empire: Colonial cultures in a bourgeois world](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7846747). Berkeley: University of California Press. (Call no.: RUBC 909.8 COO)
+
+Newlyn, A.K. (1999, Fall). Challenging contemporary narrative theory: The alternative textual strategies of nineteenth-century manuscript cookbooks. Journal of American Culture, 22 (3), 35–47. Retrieved from Wiley Online website.
+
+Procida, M. (2003, Summer). Feeding the imperial appetite: Imperial knowledge and Anglo-Indian domesticity. Journal of Women’s History, 15 (2), 123–149.
+
+Tobias, S.M. (1998). Early American cookbooks as cultural artifacts. Papers on language & literature, 34 (1), 3–18.
+
+Zlotnick, S. (1996). Domesticating imperialism: Curry and cookbooks in Victorian England. Frontiers: A Journal of Women Studies, 16 (2/3), 51–68. Retrieved from JSTOR via NLB’s eResources website.
+
+##### **Newspapers**
+“Cookie”. (1929, October 16). The Straits Times, p. 15. Retrieved from NewspaperSG.
+E.M.M. (1933, April 23). The housewives of Malaya. The Singapore Free Press and Mercantile Advertiser, p. 1. Retrieved from NewspaperSG.
+Heathcott, M. (1941, August 22). Fish on the menu need not be ikan merah. The Singapore Free Press and Mercantile Advertiser, p. 5. Retrieved from NewspaperSG.
+‘Mrs Beeton’ in action. (1954, May 6). The Straits Times, p. 4. Retrieved from NewspaperSG.
+V.St.J. (1938, March 6). I return to Malaya as a bride. The Straits Times, p. 16. Retrieved from NewspaperSG.
