@@ -67,7 +67,7 @@ Wang’s book was originally published in 1349 as an appendix in a local gazette
 In his own postscript, Wang stated that the 1349 edition was known as <i>Dao Yi Zhi</i> (《岛夷志》or <i>Description of the Barbarians of the Isles)</i>. Another preface written by Zhang Zhu (张翥) relates that the account was re-published as a standalone travel account in 1350 in Nanchang, China. This particular edition is known as <i>Dao Yi Zhi Lue.</i>[^18]</span>
 
 <img style="width:100px;height:100px;margin-bottom:-30px; border-radius:100%; box-shadow: 1px 2px 0px #424242;" src="/images/vol-10-issue-3/tales/Lee_Meiyu.jpg">
-<p style="font-size:15px;"><b>Lee Meiyu</b> is a Librarian with the National Library of Singapore. She is co-writer of publications such as Money by Mail to China: Dreams and Struggles of Early Migrants and Roots: Tracing Family Histories – A Resource Guide.</p>
+<p style="font-size:15px;"><b>Lee Meiyu</b> is a Librarian with the National Library of Singapore. She is co-writer of publications such as <i>Money by Mail to China: Dreams and Struggles of Early Migrants</i> and <i>Roots: Tracing Family Histories – A Resource Guide</i>.</p>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-10/issue-3/oct-dec-2014/"><center>Back to Issue</center></a>
 
