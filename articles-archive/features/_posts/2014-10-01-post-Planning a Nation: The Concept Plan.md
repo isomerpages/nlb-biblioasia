@@ -171,7 +171,7 @@ Yuen, B. (Ed.). (1998). *[Planning Singapore: From plan to implementation](https
 
 [^4]: [Yeoh](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11827061), 2003, pp. 37–38; Saw, S-H. (2012). *[The population of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14383911)* (p. 9). Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 304.6095957 SAW)
 
-[^5]: [Municipal Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19191121-1.2.22). (1919, November 21). The Straits Times, p. 8. Retrieved from NewspaperSG.
+[^5]: [Municipal Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19191121-1.2.22). (1919, November 21). <i>The Straits Times</i>, p. 8. Retrieved from NewspaperSG.
 
 [^6]: [Singapore slums](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19340821-1.2.43). (1934, August 21). <i>The Straits Times</i>, p. 10. Retrieved from NewspaperSG.
 
