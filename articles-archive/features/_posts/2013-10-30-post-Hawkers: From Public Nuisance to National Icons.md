@@ -115,17 +115,17 @@ Cutlery and uniforms used in food courts also tend to be standard issue, and man
 
 #### **REFERENCES**
 
-[“20,000 Hawkers Defy The Law”](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19491003-1.2.51). (1949, October 3). *The Straits Times*, p. 3.
+[20,000 Hawkers Defy The Law](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19491003-1.2.51). (1949, October 3). *The Straits Times*, p. 3. Retrieved from NewspaperSG. 
 
-[“7,000 unlicensed hawkers resited since 1968”](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19750812-1.2.54). (1975, August 12). *The Straits Times*, p. 11.
+[7,000 unlicensed hawkers resited since 1968](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19750812-1.2.54). (1975, August 12). *The Straits Times*, p. 11. Retrieved from NewspaperSG. 
 
-Bartley, W. (1932). [*Report of the Committee Appointed to Investigate the Hawker Question in Singapore*](https://eresources.nlb.gov.sg/printheritage/detail/d0b2b40a-dec8-466e-8230-11bd0dc42597.aspx). Singapore: Govt. Print. Off. Call No.: RARE 331.798095957 SIN
+Bartley, W. (1932). [*Report of the Committee Appointed to Investigate the Hawker Question in Singapore*](https://eresources.nlb.gov.sg/printheritage/detail/d0b2b40a-dec8-466e-8230-11bd0dc42597.aspx). Singapore: Govt. Print. Off. Retrieved from BookSG.
 
-Cameron, J. (1865). [*Our tropical possessions in Malayan India*](https://eresources.nlb.gov.sg/printheritage/detail/7658c549-f1c5-47c7-b8b6-831f7eb90c58.aspx). London: Smith, Elder and Co. [Reprinted 1965, Kuala Lumpur: Oxford University Press.]. Call No.: RARE 959.5 CAM
+Cameron, J. (1865). [*Our tropical possessions in Malayan India*](https://eresources.nlb.gov.sg/printheritage/detail/7658c549-f1c5-47c7-b8b6-831f7eb90c58.aspx). London: Smith, Elder and Co. [Reprinted 1965, Kuala Lumpur: Oxford University Press.]. Retrieved from BookSG.
 
-Cheung, H. (2013, May 16) Can Singapore's hawker food heritage survive? *BBC News*. Retrieved from [BBC News](http://www.bbc.co.uk/news/world-asia-22506475 ).
+Cheung, H. (2013, May 16) Can Singapore's hawker food heritage survive? *BBC News*. Retrieved from BBC News website. 
 
-[“City opens hawker war”](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19531026-1.2.105). (1953, October 13). *The Straits Times*, p. 7. Retrieved from NewspaperSG.
+[City opens hawker war](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19531026-1.2.105). (1953, October 13). *The Straits Times*, p. 7. Retrieved from NewspaperSG.
 
 [Commission on hawkers appointed](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19500418-1.2.88). (1950, April 18). *The Singapore Free Press*, p. 6. Retrieved from NewspaperSG.
  
@@ -197,7 +197,7 @@ Yeo, B.S.A. (2003). [*Contesting space in colonial Singapore: Power relations an
 [^14]:Singapore Municipality. (1896). [*Administration report of the Singapore Municipality for the year 1895*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5042316) (p. 62). Singapore: Fraser & Neave Limited. (Call no.: RRARE 352.05951 SIN; Microfilm no.: NL3351)
 [^15]:Singapore Municipality. (1928). [*Administration report of the Singapore Municipality for the year 1927*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201041566) (p. 23). Singapore: Singapore Municipality. (Call no.: RCLOS 363.61095957 SIN)
 [^16]:[20,000 hawkers defy the law](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19491003-1.2.51). (1949, October 3). *The Straits Times*, p. 3. Retrieved from NewspaperSG.
-[^17]:Singapore. Town Cleansing Department. (1948). [*Annual report 1948*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5047259) (p. 24). Singapore: G.P.O. Available via PublicationSG.
+[^17]:Singapore. Town Cleansing Department. (1948). [*Annual report 1948*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5047259) (p. 24). Singapore: G.P.O. (Available via Publication SG)
 [^18]:Singapore. Hawkers Inquiry Commission. (1950). [*Report of the hawkers inquiry commission*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200077485) (pp. 11–12). Singapore: G.P.O. (Call no.: RCLOS 331.798095957 SIN)
 [^19]:[Commission on hawkers appointed](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19500418-1.2.88). (1950, April 18). *The Singapore Free Press*, p. 6. Retrieved from NewspaperSG.
 [^20]:[Singapore. Hawkers Inquiry Commission](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200077485), 1950, pp. 9–11, 16–17.
@@ -206,7 +206,7 @@ Yeo, B.S.A. (2003). [*Contesting space in colonial Singapore: Power relations an
 [^23]:[Singapore. Hawkers Inquiry Commission](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200077485), 1950, pp. 19–20.
 [^24]:[Singapore. Hawkers Inquiry Commission](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200077485), 1950, pp. 25–28.
 [^25]:[Hawkers draw up ‘charter’ to guard rights of 30,000](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19580921-1.2.46). (1958, September 21). *The Straits Times*, p. 7. Retrieved from NewspaperSG.
-[^26]:[Health Officers alarmed at dangers](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19570107-1.2.10). (1957, January 7). *The Singapore Free Press*, p. 2. Retrieved from NewspaperSG.
+[^26]:[Health officers alarmed at dangers](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19570107-1.2.10). (1957, January 7). *The Singapore Free Press*, p. 2. Retrieved from NewspaperSG.
 [^27]:Singapore. Markets and Hawkers Department. (1957). [*Annual report of the Markets and Hawkers department*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5421376) (p. 1). Singapore: The Council. (Call no.: RCLOS 338.31 SIN)
 [^28]:[Hot debate expected on expansion of Markets Department](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19580529-1.2.47). (1958, May 29). *The Singapore Free Press*, p. 7. Retrieved from NewspaperSG.
 [^29]:[City opens hawker war](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19531026-1.2.105). (1953, October 26). *The Straits Times*, p. 7. Retrieved from NewspaperSG.
@@ -216,9 +216,9 @@ Yeo, B.S.A. (2003). [*Contesting space in colonial Singapore: Power relations an
 [^33]:Singapore. Parliament. [*Parliamentary debates: Official report*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4826189). (1965, December 30). Budget, Ministry of Health (Vol. 24, col. 802). Singapore: Govt. Printer. (Call no.: RCLOS 328.5957 SIN)
 [^34]:[Kong](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12874730), 2007, p. 30. 
 [^35]:[‘No new licences for hawkers’ policy won’t be relaxed: Kim San](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19730314-1.2.27.1). (1973, March 14). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
-[^36]:[Health Ministry committee to plan hawker centres](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710823-1.2.64). (1971, August 23). *The Straits Times*, p. 11. Retrieved from NewspaperSG.
+[^36]:[Health ministry committee to plan hawker centres](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710823-1.2.64). (1971, August 23). *The Straits Times*, p. 11. Retrieved from NewspaperSG.
 [^37]:Tan, W.J. (1971, August 27). [2 super hawker centres for the city](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710827-1.2.152). *The Straits Times*, p. 26. Retrieved from NewspaperSG.
-[^38]:[New Ministry’s $5m plan for hawker resettlement](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720925-1.2.104). (1972, September 25). *The Straits Times*, p. 19. Retrieved from NewspaperSG.
+[^38]:[New ministry’s $5m plan for hawker resettlement](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720925-1.2.104). (1972, September 25). *The Straits Times*, p. 19. Retrieved from NewspaperSG.
 [^39]:[Kong](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12874730), 2007, p. 31.
 [^40]:[The last hawkers to be resited](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19860429-1.2.37.1). (1986, April 29). *The Straits Times*, p. 21. Retrieved from NewspaperSG.
 [^41]:[Kong](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12874730), 2007, p. 51.
