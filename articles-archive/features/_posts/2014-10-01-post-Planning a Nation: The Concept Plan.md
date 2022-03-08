@@ -6,7 +6,6 @@ image: /images/vol-10-issue-3/conceptplan/Plan_of_the_Town_of_Singapore.jpg
 layout: post
 description: ""
 ---
-
 #### Singapore’s towering skyscrapers and its evolving landscape is by no means accidental. **Lim Tin Seng** walks us through the country’s various Concept Plans, each carefully put together in response to the city’s changing needs.
 
 <div style="background-color: white;">
@@ -16,7 +15,7 @@ Plan of the Town of Singapore, 1823, by Lt. Philip Jackson, which is also known 
 
 Since Independence, Singapore has witnessed many dramatic changes to its urban landscape. The overcrowded city centre of the 1960s characterised by slums, filthy drains, congested roads and ageing infrastructure has been replaced by a modern business and financial hub. The streets are safe and clean, and lined with buildings that provide a vibrant mix of retail and entertainment activities. Beyond the city limits lies an impressive network of self-sufficient towns. Not only do these towns provide good quality homes and ample recreational space for residents, they are also connected to the city and each other by an efficient transportation system.
 
-The changes to Singapore’s urban landscape have been shaped by a land use strategy that has been evolving for the past five decades in tandem with the nation’s changing needs. These changes have been systematic and implemented under the guidance of the Concept Plan – the country’s strategic land use and transportation plan. By examining Singapore’s previous concept plans as well as their objectives and directions, the article will assess the impact of this planning instrument in transforming the country’s physical landscape.
+The changes to Singapore’s urban landscape have been shaped by a land use strategy that has been evolving for the past five decades in tandem with the nation’s changing needs. These changes have been systematic and implemented under the guidance of the Concept Plan – the country’s strategic land use and transportation plan. By examining Singapore’s previous concept plans as well as their objectives and directions, this article will assess the impact of this planning instrument in transforming the country’s physical landscape.
 
 #### **Raffles Town Plan and The 1958 Master Plan**
 
