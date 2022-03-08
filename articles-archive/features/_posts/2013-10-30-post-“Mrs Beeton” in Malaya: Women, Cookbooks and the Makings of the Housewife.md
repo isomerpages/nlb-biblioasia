@@ -155,16 +155,16 @@ Heathcott, M. (1941, August 22). [Fish on the menu need not be ikan merah](http:
 V.St.J. (1938, March 6). [I return to Malaya as a bride](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19380306-1.2.130). *The Straits Times*, p. 16. Retrieved from NewspaperSG.
 
 #### **NOTES**
-[^1]:Newlyn, A.K. (1999, Fall). Challenging contemporary narrative theory: The alternative textual strategies of nineteenth-century manuscript cookbooks. Journal of American Culture, 22 (3), 35–47. Retrieved from Wiley Online website.
-[^2]:Beetham, M. (2010). Of recipe books and reading in the nineteenth century: Mrs Beeton and her cultural consequences (pp. 15–30). In J. Floyd., & L. Forster (Eds.), The recipe reader: Narratives, contexts, traditions. Lincoln and London: University of Nebraska Press. (Not available in NLB holdings)
+[^1]:Newlyn, A.K. (1999, Fall). Challenging contemporary narrative theory: The alternative textual strategies of nineteenth-century manuscript cookbooks. *Journal of American Culture, 22* (3), 35–47. Retrieved from Wiley Online website.
+[^2]:Beetham, M. (2010). Of recipe books and reading in the nineteenth century: Mrs Beeton and her cultural consequences (pp. 15–30). In J. Floyd., & L. Forster (Eds.), *The recipe reader: Narratives, contexts, traditions*. Lincoln and London: University of Nebraska Press. (Not available in NLB holdings)
 [^3]:Beetham, 2010, pp. 16–17, 20.
 [^4]:Beetham, 2010, p. 17.
 [^5]:Beetham, 2010, p. 18.
 [^6]:Beetham, 2010, p. 21.
 [^7]:Beetham, 2010, p. 21.
 [^8]:Beetham, 2010, p. 22. 
-[^9]:Tobias, S.M. (1998). Early American cookbooks as cultural artifacts. Papers on language & literature, 34 (1), 3–18, p. 9.
-[^10]:see, for example, Beeton, I., & Baker, G. (2012). Mrs Beeton's cakes & bakes. London: Weidenfeld & Nicolson. (Call no.: 641.865 BEE); Beeton, I., & Baker, G. (2012). Mrs Beeton puddings. London: Weidenfeld & Nicolson. (Call no.: 641.865 BEE); Beeton, I., & Baker, G. (2012). Mrs Beeton classic meat dishes. London: Weidenfeld & Nicolson. (Call no.: 641.865 BEE). Available at Public Libraries.
+[^9]:Tobias, S.M. (1998). Early American cookbooks as cultural artifacts. *Papers on language & literature, 34* (1), 3–18, p. 9.
+[^10]:see, for example, Beeton, I., & Baker, G. (2012). [Mrs Beeton's cakes & bakes](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14658701). London: Weidenfeld & Nicolson. (Call no.: 641.865 BEE); Beeton, I., & Baker, G. (2012). [Mrs Beeton puddings](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14658698). London: Weidenfeld & Nicolson. (Call no.: 641.865 BEE); Beeton, I., & Baker, G. (2012). Mrs Beeton classic meat dishes. London: Weidenfeld & Nicolson. (Call no.: 641.865 BEE). Available at Public Libraries.
 [^11]:V.St.J. (1938, March 6). I return to Malaya as a bride. The Straits Times, p. 16. Retrieved from NewspaperSG.
 [^12]:Europeans wives were collectively called ‘memsahibs’, a generic term borrowed from India that literally means “Madam Boss”.
 [^13]:“Cookie”. (1929, October 16). The Straits Times, p. 15. Retrieved from NewspaperSG.
