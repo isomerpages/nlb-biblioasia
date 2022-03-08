@@ -5,3 +5,5 @@ date: 2013-10-30
 layout: post
 description: ""
 ---
+#### Cookbooks offer interesting insights into the oft-overlooked domestic space of British Malaya, shedding light on how women saw themselves and how feminine ideals from the West were propagated in the colonial era.
+
