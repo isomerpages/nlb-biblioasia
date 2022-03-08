@@ -145,7 +145,11 @@ Zlotnick, S. (1996). Domesticating imperialism: Curry and cookbooks in Victorian
 
 ##### **Newspapers**
 “Cookie”. (1929, October 16). The Straits Times, p. 15. Retrieved from NewspaperSG.
+
 E.M.M. (1933, April 23). The housewives of Malaya. The Singapore Free Press and Mercantile Advertiser, p. 1. Retrieved from NewspaperSG.
+
 Heathcott, M. (1941, August 22). Fish on the menu need not be ikan merah. The Singapore Free Press and Mercantile Advertiser, p. 5. Retrieved from NewspaperSG.
+
 ‘Mrs Beeton’ in action. (1954, May 6). The Straits Times, p. 4. Retrieved from NewspaperSG.
+
 V.St.J. (1938, March 6). I return to Malaya as a bride. The Straits Times, p. 16. Retrieved from NewspaperSG.
