@@ -197,11 +197,11 @@ V.St.J. (1938, March 6). [I return to Malaya as a bride](http://eresources.nlb.g
 [^40]:[Holttum & HInch](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4396418), 1935, p. 5.
 [^41]:The editors expressed regret that “so small a section should be presented […] about the cookery of the native inhabitants of Malaya”. The few recipes contained in the “Malay Section: were contributed by M.C. Murray of the Malay Girls’ School in Malacca, Ishak, a senior fishery officer in Singapore and Miss M.A Bixton. 
 [^42]:Zlotnick, S. (1996). Domesticating imperialism: Curry and cookbooks in Victorian England. *Frontiers: A Journal of Women Studies, 16* (2–3), 51–68, p. 64. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
-[^43]:Heathcott, M. (1950, November 28). [Singapore revisited](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19501128-1.2.130). The Straits Times, p. 8. Retrieved from NewspaperSG.
-[^44]:The Straits Times, 28 Nov 1950, p. 8. 
-[^45]:The Straits Times, 28 Nov 1950, p. 8.
-[^46]:The Straits Times, 28 Nov 1950, p. 8.
-[^47]:The Straits Times, 28 Nov 1950, p. 8.
+[^43]:Heathcott, M. (1950, November 28). [Singapore revisited](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19501128-1.2.130). *The Straits Times*, p. 8. Retrieved from NewspaperSG.
+[^44]:[*The Straits Times*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19501128-1.2.130), 28 Nov 1950, p. 8. 
+[^45]:[*The Straits Times*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19501128-1.2.130), 28 Nov 1950, p. 8.
+[^46]:[*The Straits Times*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19501128-1.2.130), 28 Nov 1950, p. 8.
+[^47]:[*The Straits Times*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19501128-1.2.130), 28 Nov 1950, p. 8.
 [^48]:‘Mrs Beeton’ in action. (1954, May 6). The Straits Times, p. 4. Retrieved from NewspaperSG.
 [^49]:Procida, Summer 2003, p. 124.
 [^50]:Homi Bhabha. (1997). Of mimicry and man: The ambivalence of colonial discourse (pp. 152–162). In F. Cooper & A.L. Stoler (Eds.). Tensions of empire: Colonial cultures in a bourgeois world. Berkeley: University of California Press. (Call no.: RUBC 909.8 COO)
