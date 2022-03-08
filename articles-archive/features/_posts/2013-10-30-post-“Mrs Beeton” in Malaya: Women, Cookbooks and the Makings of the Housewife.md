@@ -141,7 +141,7 @@ Procida, M. (2003, Summer). Feeding the imperial appetite: Imperial knowledge an
 
 Tobias, S.M. (1998). Early American cookbooks as cultural artifacts. *Papers on language & literature, 34* (1), 3–18.
 
-Zlotnick, S. (1996). Domesticating imperialism: Curry and cookbooks in Victorian England. *Frontiers: A Journal of Women Studies, 16* (2/3), 51–68. Retrieved from JSTOR via NLB’s eResources website.
+Zlotnick, S. (1996). Domesticating imperialism: Curry and cookbooks in Victorian England. *Frontiers: A Journal of Women Studies, 16* (2/3), 51–68. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
 ##### **Newspapers**
 “Cookie”. (1929, October 16). The Straits Times, p. 15. Retrieved from NewspaperSG.
