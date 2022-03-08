@@ -6,7 +6,6 @@ image: /images/vol-10-issue-3/19thcentury/Wallich_image.jpg
 layout: post
 description: ""
 ---
-
 #### **Nor Afidah Abd Rahman** shares how the impressions the first Western travellers held of colonial Singapore were influenced by their preconceived perceptions of the exotic East.
 
 
@@ -23,7 +22,7 @@ Singapore was a natural stopover for ships because of its location at the crossr
 
 Observations by Western travellers stimulated ideas about Singapore that endeared this faraway British settlement to the West. They fed the European market’s curiosity about exotic locations, depicting lush scenes of native lands and a nascent colony on the other side of the world.[^7] The quick jottings and candid musings about Singapore did not disappoint as these accounts frequently praised the colony’s progress. The perception of Singapore as an inhabitable jungle swarming with bandits was the predominant theme, while the taming of the island into a flourishing port under the British barely hid the gushing approval for imperial rule:
 
-I remained lost in the thoughts aroused in me by the unexpected sight of the commercial achievement of the English. On this shore where not 20 years ago were grouped a few wretched Malay villages, half fishermen, half pirates, where virgin forest extended to the seashore, where the tiger hidden in the jungle awaited his prey, where a pirate canoe scarcely disturbed an empty sea, has risen today to a huge town, bustling with an industrious population...safe from the tigers which have fled into the depths of the jungle as from the bandits who are kept in check by the vigilant eyes of a tireless police; and this hospitable shore has become the centre for ships of all nations.
+“I remained lost in the thoughts aroused in me by the unexpected sight of the commercial achievement of the English. On this shore where not 20 years ago were grouped a few wretched Malay villages, half fishermen, half pirates, where virgin forest extended to the seashore, where the tiger hidden in the jungle awaited his prey, where a pirate canoe scarcely disturbed an empty sea, has risen today to a huge town, bustling with an industrious population...safe from the tigers which have fled into the depths of the jungle as from the bandits who are kept in check by the vigilant eyes of a tireless police; and this hospitable shore has become the centre for ships of all nations”.
 
 <span style="text-align:right;">–Jules Itier, Head of French commercial mission to China and the Indies, 1843–46[^8]</span>
 
