@@ -90,7 +90,7 @@ Suresh, co-creator of the popular local comic book series *Mr Kiasu*, moved into
 
 ![](/images/Vol%2018%20Issue%201/Opera%20Estate/Pinata.png)
 <div style="background-color: white;"> Children taking turns to hit the piñata at Jalan Bintang Tiga’s “Let’s Makan” party in 2019. <i>Courtesy
-of the Singapore Kindness Movement</i></div>
+of the Singapore Kindness Movement.</i></div>
 
 Over the years, the attendance grew as old neighbours who had moved out returned for the event and new residents joined in. Mdm Irene Loh, who now resides on Aida Street, and her family still make it a point to attend the street party. She said: “I look forward to the event each year as it’s a time to catch up with former neighbours, soak up the atmosphere and look at the mango tree in my old home.”[^29]
 
