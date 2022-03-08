@@ -86,7 +86,7 @@ Despite occupying a marginal position in the masculine space of the British Empi
 <br/>
 <img src="/images/vol-10-issue-3/dorothycator/Mt_Kinabalu_from_the_Tempasuk_River.jpg" style="width:70%;">
 View of Mount Kinabalu (background) from the Tempasuk River (1889). <i>Courtesy of the Sabah Museum.</i></div>
-
+<br/>
 <img style="width:100px;height:100px;margin-bottom:-30px; border-radius:100%; box-shadow: 1px 2px 0px #424242;" src="/images/vol-10-issue-3/dorothycator/Janice_Loo.jpg">
 <p style="font-size:15px;"><b>Janice Loo</b> is an Associate Librarian with the National Library of Singapore. She was the author of “A Quiet Revolution: Women and Work in Industrialising Singapore”, published in <i>BiblioAsia</i> Vol. 10, Iss. 2.</p>
 
