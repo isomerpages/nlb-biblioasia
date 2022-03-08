@@ -170,13 +170,13 @@ V.St.J. (1938, March 6). [I return to Malaya as a bride](http://eresources.nlb.g
 [^13]:[“Cookie”](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19291026-1.2.115.3). (1929, October 16). *The Straits Times*, p. 15. Retrieved from NewspaperSG.
 [^14]:Beetham, 2010, p. 29.
 [^15]:George, R.M. (1993–1994, Winter). Homes in the empire, empires in the home. *Cultural critique*, 26, 95–127, p. 99. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
-[^16]:Brownfoot, J.N. (1984). Memsahibs in colonial Malaya: A study of European wives in a British colony and protectorate 1900–1940 (pp. 186–190). In H. Callan & S. Ardener (Eds.). The incorporated wife. London: Croom Helm. (Not available in NLB holdings)
-[^17]:Blunt, A. (1999). Imperial geographies of home: British domesticity in India, 1886–1925. Transactions of the Institute of British Geographers, 24 (4), 421–440, 429–431. Retrieved from JSTOR via NLB’s eResources website.
+[^16]:Brownfoot, J.N. (1984). Memsahibs in colonial Malaya: A study of European wives in a British colony and protectorate 1900–1940 (pp. 186–190). In H. Callan & S. Ardener (Eds.). *The incorporated wife*. London: Croom Helm. (Not available in NLB holdings)
+[^17]:Blunt, A. (1999). Imperial geographies of home: British domesticity in India, 1886–1925. *Transactions of the Institute of British Geographers, 24* (4), 421–440, 429–431. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 [^18]:Brownfoot, 1984, p. 196.
-[^19]:MacCallum Scott, J.H. (1939). Eastern journey (p. 14). London: Travel Book Club. (Call no.: RCLOS 959 MAC)
-[^20]:Dirks, N.B. (1996). Foreword. In B. Cohn, Colonialism and its forms of knowledge: The British in India (p. ix). New Jersey: Princeton University Press. (Call no.: R 954 COH), quoted in Procida, M. (2003). Feeding the imperial appetite: Imperial knowledge and Anglo-Indian domesticity. Journal of Women’s History, 15 (2), 123–149, p. 138.
+[^19]:MacCallum Scott, J.H. (1939). [*Eastern journey*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4316240) (p. 14). London: Travel Book Club. (Call no.: RCLOS 959 MAC)
+[^20]:Dirks, N.B. (1996). Foreword. In B. Cohn, [*Colonialism and its forms of knowledge: The British in India*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7758745) (p. ix). New Jersey: Princeton University Press. (Call no.: R 954 COH), quoted in Procida, M. (2003). Feeding the imperial appetite: Imperial knowledge and Anglo-Indian domesticity. *Journal of Women’s History, 15* (2), 123–149, p. 138.
 [^21]:Blunt, 1999, p. 431.
-[^22]:For a description of the content and aspects of food history, see Tan, B. (2011). Malayan cookery books. BiblioAsia, 7 (3), 30–34. Retrieved from BiblioAsia website. 
+[^22]:For a description of the content and aspects of food history, see Tan, B. (2011). Malayan cookery books. [*BiblioAsia*](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx), 7 (3), 30–34. Retrieved from BiblioAsia website. 
 [^23]:Kinsey, W.E. (1929). The mem's own cookery book: 420 tried and economical recipes for Malaya (Preface). Singapore: Kelly & Walsh. (Call no.: RRARE 641.59595 KIN; Microfilm no.: NL9852)
 [^24]:The literary page – new books reviewed. (1930, January 31). The Straits Times, p. 17. Retrieved from NewspaperSG.
 [^25]:Some new books. (1922, May 6). The Singapore Free Press and Mercantile Advertiser, p. 9. Retrieved from NewspaperSG.
