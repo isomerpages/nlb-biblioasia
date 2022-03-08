@@ -34,7 +34,7 @@ According to him, the houses in Opera Estate were not targeted at the wealthy: �
 
 In addition to bungalows, there were also smaller and cheaper terrace houses. The homes sold by Crédit Foncier were on Dafne and Aida streets and were one-storey terrace houses with asbestos roofs and cement floors. Their prices started at $9,760.[^6] Nassim & Co. sold single-storey terrace houses along Fidelio Street starting from $14,000. Each came with two bedrooms, a utility room, a spacious lounge and dining room, and a front and back garden.[^7] In 1957, Nassim & Co. advertised a “modern two-storey bungalow” with three bedrooms in Opera Estate for $24,900.[^8] 
 
-![](/images/Vol%2018%20Issue%201/Opera%20Estate/edited_Screenshot.png)
+![](/images/Vol%2018%20Issue%201/Opera%20Estate/Opera-Estate%20Ad%20Hi%20Res.png)
 <div style="background-color: white;">  In 1957, a two-storey a bungalow in Opera Estate cost $24,900. <i>Image reproduced from “Page 3 Advertisements Column 1,” Straits Times, 21 March 1957, 3 (From NewspaperSG).
 </i></div>
 
