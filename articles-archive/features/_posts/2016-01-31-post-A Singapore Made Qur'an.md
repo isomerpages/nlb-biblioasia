@@ -60,6 +60,8 @@ This particular Qur’an, donated by the academic and writer Dr Farish Noor in 2
 
 – Written by Tan Huism
 
+<a href="/vol-11/issue-4/jan-mar-2016/"><center>Back to Issue</center></a>
+
 #### **NOTES**
 [^1]:The term “Muslim” is used here in the same way as Ian Proudfoot, to refer to the religious faith of the agents who produced the materials and not necessarily the content of the publications. The earliest known printed Qur’an produced in Southeast Asia was published in 1854 by a Muslim from Palembang who bought the lithographic press from Singapore. Based on confirmed dated materials, Islamic printing existed in Singapore from 1860 onwards. See Proudfoot, I. (1993), [*Early Malay printed books: A provisional account of materials published in the Singapore-Malaysia area up to 1920, noting holdings in major public collections*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6712616) (pp. 27, 432). Malaysia: Academy of Malay Studies and the Library, University of Malaya. Call no: RSING 015.5957 PRO-[LIB]
 [^2]:See for example, Tan, H. (2010, January/February). A royal Terengganu Qur’an in the Collection of the Asian Civilisations Museum. [*Arts of Asia*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=923033). Call no: R709.5AA
