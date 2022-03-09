@@ -109,11 +109,11 @@ Such was the view that greeted the person who stepped out of the Pavilion cinema
 
 Located in the vicinity of Orchard Road Market, Koek Road and Koek Lane were home to many hawkers and the site of many mouth-watering memories for people who remember this street food haunt. Pakirisamy Rajagopal fondly recollects the variety of food available there in the 1950s:
 
-So the favourite joint that I used to go to is Koek Road where you have your <i>kolo mee</i>, your <i>char kway teow</i>, your <i>mee goreng</i>, your soup <i>kambing</i>, name whatever you want. The roadside stalls will open up after 6pm. Whereas the coffeeshop stalls are open from morning to nighttime...
+“So the favourite joint that I used to go to is Koek Road where you have your <i>kolo mee</i>, your <i>char kway teow</i>, your <i>mee goreng</i>, your soup <i>kambing</i>, name whatever you want. The roadside stalls will open up after 6pm. Whereas the coffeeshop stalls are open from morning to nighttime...
 
-And in the same stretch of the old dirty looking coffee shop, there was a dirty little monsoon drain with a platform over it, 30 huge rats running around. The Teck Kee Pau, which is now in Bukit Timah Road, originated from there...
+“And in the same stretch of the old dirty looking coffee shop, there was a dirty little monsoon drain with a platform over it, 30 huge rats running around. The Teck Kee Pau, which is now in Bukit Timah Road, originated from there...
 
-The <i>kway teow</i> man, the <i>hokkien mee</i> chap, [wore] just a singlet. [He] would be having a little towel... – I remember the white towel...[with] the name Good Morning – he would have it round his neck; he would sit down and fry the <i>hokkien mee</i>. His was the best <i>hokkien mee</i> of the whole of Singapore at that time.[^24]
+“The <i>kway teow</i> man, the <i>hokkien mee</i> chap, [wore] just a singlet. [He] would be having a little towel... – I remember the white towel...[with] the name Good Morning – he would have it round his neck; he would sit down and fry the <i>hokkien mee</i>. His was the best <i>hokkien mee</i> of the whole of Singapore at that time”.[^24]
 
 As early as 1933, Municipal Commissioners had prohibited itinerant hawkers from overcrowding Koek Road and Koek Lane.[^25] However, patrons were spoilt for choice and often unconcerned with the finer points of hawker licensing and other legal details, despite the occasional complaint of road obstruction.[^26] That compromise lasted till the mid-1970s when the Koek Road and Koek Lane hawkers, itinerant or otherwise, were relocated, some to the new Cuppage Centre.[^27]
 
