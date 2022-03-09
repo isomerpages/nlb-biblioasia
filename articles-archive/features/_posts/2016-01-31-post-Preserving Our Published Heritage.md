@@ -104,6 +104,8 @@ The oldest publication in the collection is a legacy from the Raffles Library: a
 manages the statutory functions of the National Library of 
 Singapore, including its Legal Deposit system.</div>
 
+<a href="/vol-11/issue-4/jan-mar-2016/"><center>Back to Issue</center></a>
+
 #### **REFERENCES**
 Larivière, J. (2000). *Guidelines for legal deposit legislation*. 
 Retrieved from UNESCO website.
