@@ -50,7 +50,7 @@ Lee returned to Singapore in October 1956, a time of political and social unrest
 
 In 1965, Lee established his own company, Lee, Lim and Partners, which originally included David Lim and Whang Tar Kway. One of his company’s major accomplishments was winning the landmark Industrial Commercial Bank (ICB) project. The partnership dissolved soon after Lim Chin Leong’s death and Lee started the firm Silat[^12] Associates along with partner Lim Chong Keat, which had a tie-up with Architect Team 3 before Lee finally joined the latter. 
 
-Unfortunately, between 1960 and 1969, tumultuous times dogged the building industry. New projects for small companies were scant and sustaining an architectural firm proved financially challenging. Lee and his partners started concurrently working and lecturing, first at the newly established architectural schools at the Singapore Polytechnic and, subsequently, the University of Singapore (now the National University of Singapore, NUS). Their pay packets were often shared among the partners, but they seldom saw any returns.
+Unfortunately, between 1960 and 1969, tumultuous times dogged the building industry. New projects for small companies were scant and sustaining an architectural firm proved financially challenging. Lee and his partners started concurrently working and lecturing, first at the newly established architectural schools at Singapore Polytechnic and, subsequently, the University of Singapore (now the National University of Singapore, NUS). Their pay packets were often shared among the partners, but they seldom saw any returns.
 
 #### **Lee the Lecturer**
 
