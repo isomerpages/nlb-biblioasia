@@ -129,7 +129,7 @@ A mixed-use development that combined shops and residences in a large complex, A
 <span style="background-color: white; font-size:1rem;">
 <br/>
 <img src="/images/vol-10-issue-3/overorchard/Amber_Mansions.jpg" style="width:70%;">
-Home to tenants such as the Municipal Gas Department, the British Council, High Street Provision Store (pictured here c. 1960s), University Bookstore, Fosters steakhouse and City Development Limited,[^28] Amber Mansions is a reminder of Orchard Road’s early 20th century incarnation as a suburban residential area. <i>R. Browne collection, courtesy of National Archive of Singapore.</i></span>
+Home to tenants such as the Municipal Gas Department, the British Council, High Street Provision Store (pictured here c. 1960s), University Bookstore, Fosters steakhouse and City Development Limited,[^28] Amber Mansions is a reminder of Orchard Road’s early 20th century incarnation as a suburban residential area. <i>R. Browne collection, courtesy of National Archives of Singapore.</i></span>
 
 #### **09 Cathay Building**
 
@@ -149,7 +149,7 @@ Founded by Robert Pringle in 1903, the Young Men’s Christian Association (YMCA
 <img src="/images/vol-10-issue-3/overorchard/young_men_christian_association.jpg" style="width:70%;">
 The Edwardian-style building fitted with arched windows and a double-decker portico – featured here with matching red-and-white national day decorations in the late 1960s – was a familiar sight at 1 Orchard Road until it was demolished in 1982. <i>John C. Young collection, courtesy of National Archives of Singapore.</i></div>
 
-#### **Nas' Aerial Photographs Collection**
+#### **NAS' Aerial Photographs Collection**
 
 NAS has a collection of over 45,000 aerial photographs taken from 1946 to 1968, publicly accessible from its Archives Online portal. Taken by the Royal Air Force, these aerial photographs were once an important source of reconnaissance data and were used to create maps by photogrammetric methods. Capturing the period of drastic landscape changes that accompanied the political changes in the 1950s and 1960s, the aerial photographs offer a bird’s eye view of Singapore.
 
@@ -157,6 +157,8 @@ NAS has a collection of over 45,000 aerial photographs taken from 1946 to 1968, 
 
 Set up in 1979, the Oral History Centre records, documents, preserves and disseminates oral history interviews of national and historical significance. Using a rigorous methodology and approach towards interviewing, the oral history collection not only provides researchers with a detailed look into an individual’s life, but also allows rich insights into social, political and economic circumstances. Comprising more than 20,000 interview hours from over 3,600 individuals, the collection allows us to listen firsthand to the voices of these eyewitnesses of history.
 
+<br/>
+<img style="width:100px;height:100px;margin-bottom:-30px; border-radius:100%; box-shadow: 1px 2px 0px #424242;" src="/images/vol-10-issue-3/overorchard/Fiona_Tan.jpg">
 <p style="font-size:15px;"><b>Fiona Tan</b> is an Assistant Archivist (Outreach) with the National Archives of Singapore. Fairly new to the occupation but not the institution, she firmly believes that archival research often yields unexpected finds for those who persevere. She continues to promote the quirky and curious nature of the archives through her work. She thanks Eric Chin, Irene Lim, June Pok, Janelle Chua, Denise Ng and Noor Fadilah Yusof for their inputs to this article.</p>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-10/issue-3/oct-dec-2014/"><center>Back to Issue</center></a>
