@@ -80,7 +80,7 @@ The exhibits cover a wide array of topics, from politics, history, sociology, la
 Look out also for the collection of delightful [English nursery rhymes translated into Malay](https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/haji-malayan-nursery-rhymes) (1939); probably the first [Qu’ran printed in Singapore](https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/singapore-lithographed-quran) in 1869 (see page 56); a Baba Malay translation of the Chinese classic [*Romance of the Three Kingdoms*](https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/chrita-dahulu-kala-sam-kok); and a series of chilling cartoons on Japanese brutality and torture, going by the unlikely name of [*Chop Suey*](https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/chop-suey-liu-kang) (1946).
 <br>
 <div style="background-color: white;">
-<img src="/images/Vol-11-issue-4/" style="width: 100px; height: 100px;">
+<img src="/images/vol-14-issue-2/the-stuff-of-dreams/dreams10.jpg" style="width: 100px; height: 100px;">
 	<b>Chung Sang Hong</b> is Assistant Director, Exhibitions & Curation, with the National Library of Singapore. His responsibilities include project management and the curation of exhibitions.
 </div>
 	
