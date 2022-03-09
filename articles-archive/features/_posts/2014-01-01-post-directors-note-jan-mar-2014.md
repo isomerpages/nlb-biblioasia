@@ -12,7 +12,7 @@ The reality is quite different: humans seek a more enduring form of immortality,
 
 In this issue of <i>BiblioAsia</i>, I hope time will stand still long enough for us to provide context and specificity to the memories that are fast fading — as well as the ones we thought we’d understood for the longest time.
 
-In the light of recent aspirations to achieve in our urban space the <i>kampung</i> spirit and the easy associations of neighbourliness and community, [Nor Afidah](/vol-9/issue-4/jan-march-2014/kampung-living) recaptures in “Kampung Living: A – Z”, the details of life in the village — how once the breaking of dawn and the end of daylight were significant events in daily life.
+In the light of recent aspirations to achieve in our urban space the <i>kampung</i> spirit and the easy associations of neighbourliness and community, [Nor Afidah](/vol-9/issue-4/jan-march-2014/kampung-living-singapore) recaptures in “Kampung Living: A – Z”, the details of life in the village — how once the breaking of dawn and the end of daylight were significant events in daily life.
 
 In a similar vein, [Sharon Teng](/vol-9/issue-4/jan-march-2014/forgotten-trades) documents the vanishing trades of Singapore in “Time-Forgotten Trades” and explores new ways to “immortalise” the old ways, including digital recreations of these vanishing (or rather vanquished) trades and, in the case of Chye Seng Huat Hardware, keeping the original facade of a shophouse and reinventing it as a hip coffee bar. 
 
