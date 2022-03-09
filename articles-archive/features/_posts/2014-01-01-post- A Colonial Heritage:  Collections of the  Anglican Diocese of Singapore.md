@@ -10,7 +10,7 @@ description: ""
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-9-issue-4/colonial/IMG_2166-edit.jpg">
+<img src="/images/vol-9-issue-4/colonial/IMG_2166-edit.jpg" style="width:70%;">
 The Anglican Diocese at St Andrew's Village. <i>All rights reserved, National Library Board, Singapore.</i></div>
 
 Established in the early 19th Century by the East India Company (EIC), the development of the Anglican church in Singapore was closely intertwined with that of the colonial government, which initially supported the chaplains and priests as government employees and subsidised the construction of Anglican churches on the island. Singapore’s evolution as a political entity, first as a colony of Great Britain and subsequently as an independent nation, has thus strongly influenced the growth and shape of the Anglican Church in Singapore. In turn, woven into the story of the local Anglican church are the larger stories of changes within the Malay Peninsula during colonial times. 
