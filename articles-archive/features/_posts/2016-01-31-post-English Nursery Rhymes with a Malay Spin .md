@@ -57,6 +57,8 @@ The National Librar y’s copy of *Haji’s Book of Malayan Nursery Rhymes* bear
 
 – Written by Ang Seow Leng
 
+<a href="/vol-11/issue-4/jan-mar-2016/"><center>Back to Issue</center></a>
+
 #### **NOTES**
 [^1]:[Photos at exhibition](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19220320-1.2.82.1). (1922, March 20). *The Straits Times*, p. 10. Retrieved from NewspaperSG.
 [^2]:The National Library has two copies of the book, *Malayan Nursery Rhymes*, published in 1923. It contains the Malay translations of 51 favourite English nursery rhymes. The original nursery rhymes in English were not included in this edition as it was assumed that native English speakers were familiar with these nursery rhymes and hence able to identify the Malay-translated nursery rhymes.
