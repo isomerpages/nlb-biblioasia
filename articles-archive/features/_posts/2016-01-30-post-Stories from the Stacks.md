@@ -7,8 +7,9 @@ description: ""
 ---
 #### The National Library’s newest exhibition, “From the Stacks”, presents highlights of its Rare Materials Collection. **Chung Sang Hong** explains why you should not miss this event.
 
-<img style="width: 300px; height: 300px;"
-src="/images/vol-11-issue-4/Stories%20stack%20exhibition/a4.png">
+<img style="width: 700px; height: 400px;"
+src="/images/vol-11-issue-4/Stories%20stack%20exhibition/a3.png">
+<div style="background-color: white;">Exhibition teasers for “From the Stacks: Highlights of the National Library”, which takes place from 30 January to 28 August 2016 at level 10 of the National Library Building. <i>All rights reserved, National Library Board, Singapore.</i></div>
 
 The noun “stack” usually refers to a pile of objects, such as “a stack of books”. It also means, by extension, a large quantity of something, as in the idiom “needle in a haystack”. In digital language, “stacks” can refer to computer memory storage. However, in libraryspeak, “stacks” are shelving units in a section of a library that is usually closed to the public.[^1] In most libraries, the less frequently consulted publications are usually kept in “closed stacks”.
 
@@ -43,7 +44,7 @@ src="/images/vol-11-issue-4/Stories%20stack%20exhibition/a1.png">
 
 Christian missionaries followed the footsteps of Raffles and started work in Singapore soon after it was founded. The Reverend Samuel Milton of the London Missionary Society (LMS) came to Singapore from Malacca in October 1819 to start a station on the island. In 1822, fellow missionary Claudius Henry Thomsen arrived in Singapore and brought with him a printing press and a few workers. The following year, the first printing press in Singapore, the Mission Press, came into operation.[^4] Thomsen learnt Malay from the accomplished Muslim scholar, Abdullah bin Abdul Kadir (better known as Munshi Abdullah) and collaborated with the latter in the translation and publication of Christian gospels and literature into Malay.[^5]
 
-The printing and distribution of Christian literature was a major part of missionary work, besides preaching and establishing schools. Religious scripture, tracts, periodicals and fiction were published in Malay and Chinese in order to proselytise to the local communities as well as to those in the surrounding regions. On display at the exhibition are two significant publications: a Malay translation of the [*Sermon on the Mount*](https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/christian-sermon-malay-claudius-henry-thomsen) – based on the Gospel of Matthew – published in 1829 (see page 96), and a gospel tract in Chinese titled [*The Perfect Man’s Model (全人矩矱)*](https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/gospel-chinese-karl-friedrich-august-gutzlaff), written by the German missionary Karl Friedrich August Gützlaff and printed in 1836 (see page 92).
+The printing and distribution of Christian literature was a major part of missionary work, besides preaching and establishing schools. Religious scripture, tracts, periodicals and fiction were published in Malay and Chinese in order to proselytise to the local communities as well as to those in the surrounding regions. On display at the exhibition are two significant publications: a Malay translation of the [*Sermon on the Mount*](https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/christian-sermon-malay-claudius-henry-thomsen) – based on the Gospel of Matthew – published in 1829, and a gospel tract in Chinese titled [*The Perfect Man’s Model (全人矩矱)*](https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/gospel-chinese-karl-friedrich-august-gutzlaff), written by the German missionary Karl Friedrich August Gützlaff and printed in 1836 (see page 92).
 
 The Mission Press’s publishing output was prolific – close to one million copies of religious and secular publications in Chinese, Malay and other languages were printed in Penang, Malacca, Singapore and Batavia between 1815 and 1846.[^6] Southeast Asia, however, was just a pit stop en route to a much larger prize – the missionaries’ ultimate aim was to spread Christianity in China.
 
@@ -52,21 +53,17 @@ missionaries set up bases in the British settlements in Southeast Asia to reach 
 Southeast Asia. Taking advantage of this, the missionaries actively distributed their publications to the Chinese on board these ships, with the hope that the literature would eventually 
 find its way into China and be disseminated among the people.[^7]
 
-Some of the publications printed in Singapore and Malacca would be the first encounters of Western ideas and knowledge for the people of China. The Mission Press also undertook the printing of secular works, including government gazettes, the first local newspaper, the *Singapore Chronicle* in 1824 (see page 110), and the *Hikayat Abdullah* by Munshi Abdullah in 1849 (see page 62), one of the most important works of Malay literature and an important source of early Singapore history. Both publications are 
+Some of the publications printed in Singapore and Malacca would be the first encounters of Western ideas and knowledge for the people of China. The Mission Press also undertook the printing of secular works, including government gazettes, the first local newspaper, the [*Singapore Chronicle*](https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/singapore-chronicle-first-newspaper) in 1824, and the [*Hikayat Abdullah*](https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/hikayat-abdullah-abdul-kadir-munsyi) by Munshi Abdullah in 1849, one of the most important works of Malay literature and an important source of early Singapore history. Both publications are 
 on display at the exhibition.
-
-<img style="width: 700px; height: 400px;"
-src="/images/vol-11-issue-4/Stories%20stack%20exhibition/a3.png">
-<div style="background-color: white;">Exhibition teasers for “From the Stacks: Highlights of the National Library”, which takes place from 30 January to 28 August 2016 at level 10 of the National Library Building. <i>All rights reserved, National Library Board, Singapore.</i></div>
 
 When China was forced to open its doors to foreigners after the Opium War, many missionaries in Southeast Asia shifted their base to China, leaving behind a legacy of publications that had been printed in the region. The history of publishing in Singapore owes a clear debt of gratitude to the work of these pioneering 
 Christian missionaries.
 
-However, publishing in Singapore was by no means the monopoly of the Protestant missionaries. In the later part of the 19th century, other printing presses were established. The first locally printed Tamil publication in the National Library is a collection of Islamic devotional poems titled *Munajathu Thirattu*, dated 1872 (see page 58). It was written by Muhammad Abdul Kadir Pulavar, a pioneer Indian Muslim poet and publisher of the earliest known Tamil newspaper in Singapore, *Singai Vardhamani or Singapore Commercial News*. The Indian Muslim community, which owned several printing presses, came to dominate the publishing of Tamil and Malay newspapers in Singapore.
+However, publishing in Singapore was by no means the monopoly of the Protestant missionaries. In the later part of the 19th century, other printing presses were established. The first locally printed Tamil publication in the National Library is a collection of Islamic devotional poems titled [*Munajathu Thirattu*](https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/indian-muslim-devotional-poems-munajathu-thirattu), dated 1872. It was written by Muhammad Abdul Kadir Pulavar, a pioneer Indian Muslim poet and publisher of the earliest known Tamil newspaper in Singapore, *Singai Vardhamani or Singapore Commercial News*. The Indian Muslim community, which owned several printing presses, came to dominate the publishing of Tamil and Malay newspapers in Singapore.
 
-One of the oldest Chinese printing presses in Singapore was Koh Yew Hean Press (古友轩), founded by Lin Hengnan（林衡南）in the 1860s at Telok Ayer Street. Lin came to Singapore in 1861 
+One of the oldest Chinese printing presses in Singapore was Koh Yew Hean Press (古友轩), founded by Lin Hengnan (林衡南) in the 1860s at Telok Ayer Street. Lin came to Singapore in 1861 
 and became fascinated with the lithographic technology of the British.[^8] He picked up the trade within a short time and set up his own printing press. Koh Yew Hean Press published the first 
-Chinese-Malay dictionary in Singapore, *Hua yi tong yu* (华夷通语) in 1883 (see page 88), as well as other publications in other languages, such as a Jawi version of the *Hikayat Abdullah* (1880), and the first four issues of the English-language *Straits Chinese Magazine* (1897) (see page 80).[^9]
+Chinese-Malay dictionary in Singapore, [*Hua yi tong yu* (华夷通语)](https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/hua-yi-tong-yu-chinese-malay-dictionary) in 1883 (see page 88), as well as other publications in other languages, such as a Jawi version of the *Hikayat Abdullah* (1880), and the first four issues of the English-language [*Straits Chinese Magazine*](https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/straits-chinese-magazine) (1897) (see page 80).[^9]
 
 #### **Loyalties and Identities in Transition**
 
