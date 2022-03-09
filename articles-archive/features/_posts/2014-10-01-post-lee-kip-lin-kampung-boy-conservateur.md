@@ -41,11 +41,6 @@ Lee Kip Lin (right) with friends in Paris circa 1950s. <i>Courtesy of Mrs Lee Li
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-3/leekiplin/Lee_Kip_Lin_with_students.jpg" style="width:70%;">
-Lee and his architecture students at his Binjai Park home. <i>Courtesy of Mrs Lee Li-Ming.</i></div>
-
-<div style="background-color: white;">
-<br/>
 <img src="/images/vol-10-issue-3/leekiplin/Lee_Kip_Lin_with_wife.jpg">
 	Lee Kip Lin and his wife, Ong Li-Ming, married in 1959. <i>Courtesy of Mrs Lee Li-Ming.</i></div>
 
@@ -62,6 +57,11 @@ Unfortunately, between 1960 and 1969, tumultuous times dogged the building indus
 Lee began lecturing in architectural studies at Singapore Polytechnic in 1961, while the field was still in its infancy in Singapore. Prominent local architect Tay Kheng Soon (who designed People’s Park Complex and the Golden Mile Complex[^13]) was one of the pioneer students of the polytechnic’s architecture faculty. This batch of students had been nicknamed “the horrors” as they had a reputation for being difficult. Lee was assigned to teach this class but cleverly won them over on the first day by offering his students sticks of Du Maurier’s[^14] cigarettes out of an elegant vermillion box. His unorthodox, relaxed style of teaching also helped him gain the trust of these mature students.
 
 Lee’s experience in teaching ran almost concurrently with his years of practice, and he frequently made himself available to his students, seeming to find mentoring more fulfilling than running an architectural firm. In 1976, he was appointed senior lecturer at the Faculty of Architecture at NUS, having left full-time practice. Students regularly visited his home to discuss projects or to just hang out with him. His camaraderie with his students was well-known because of his unassuming nature and his fatherly concern as Tse Swee Ling recalls. Tse had not only been his student but had also been recruited into Lee’s company and followed in his footsteps, lecturing at the same faculty in NUS. Not one for seeking position or limelight, Lee retired two years after he was promoted to associate professor at NUS in 1982.
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-3/leekiplin/Lee_Kip_Lin_with_students.jpg" style="width:70%;">
+Lee and his architecture students at his Binjai Park home. <i>Courtesy of Mrs Lee Li-Ming.</i></div>
 
 #### **Lee the Conservationist**
 
