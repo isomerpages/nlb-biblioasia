@@ -57,6 +57,8 @@ writing. It was enthusiastically embraced by local printers and publishers, pavi
 
 – Written by Mazelan Anuar
 
+<a href="/vol-11/issue-4/jan-mar-2016/"><center>Back to Issue</center></a>
+
 #### **NOTES**
 [^1]:Warnk, H. (2010). The collection of 19th century printed Malay books of Emil Luring. *International Journal of the Malay World and Civilisation, 28* (1), 124. Retrieved from UKM website.
 [^2]:National Library Board. (2008). [*Mission Press*](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1074_2008-12-20.html) written by Lim, Irene. Retrieved from Singapore Infopedia.
