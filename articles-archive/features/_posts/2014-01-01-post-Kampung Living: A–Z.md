@@ -205,7 +205,7 @@ However, many unfortunate villagers became victims of fires as a result of accid
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> 
 <b>OH BEY SOM!</b>
 <br><br>
-<i>Oh bey som</i> was a means by which teams or individual players were selected. Player would shout "<i>oh bey som</i>!" and simultaneously stick out their hands with their palms facing either up or down. All who had their palms facing in the same direction would be part of one team, and the rest on the other. A player would be singled out to be the <i>pasang</i> (catcher) if he or she was the only person with the palm facing a different direction from the rest of the group. Otherwise, the players would continue to <i>oh bey som</i>, eliminating the majority until a single player remained.</span>
+<i>Oh bey som</i> was a means by which teams or individual players were selected. Players would shout "<i>oh bey som</i>!" and simultaneously stick out their hands with their palms facing either up or down. All who had their palms facing in the same direction would be part of one team, and the rest on the other. A player would be singled out to be the <i>pasang</i> (catcher) if he or she was the only person with the palm facing a different direction from the rest of the group. Otherwise, the players would continue to <i>oh bey som</i>, eliminating the majority until a single player remained.</span>
 
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> 
 <b>THE TAJAM BATU MAN</b>
