@@ -20,7 +20,7 @@ layout: post
 
 [<b>The Jiapu Chronicles: What’s in a Name?</b>](/vol-9/issue-4/jan-march-2014/jiapu-chinese-family-lineage)<br>Records of family lineage were important in traditional Chinese society. <i>Lee Meiyu</i> charts the history of these documents, or <i>jiapu</i>, which track not only family roots but also the social norms and cultural values of China at the time.[(PDF)](/files/pdf/vol-9/issue-4/v9-issue4_JiapuChronicles.pdf)
 
-[<b>From Here to Eternity: Archiving and Immortality</b>](/vol-9/issue-4/jan-march-2014/archivingimmortality)<br><i>Kevin Khoo</i> considers the link between memory, immortality and archiving, and what this means for the National Archives of Singapore.[(PDF)](/files/pdf/vol-9/issue-4/v9-issue4_Eternity.pdf)
+[<b>From Here to Eternity: Archiving and Immortality</b>](/vol-9/issue-4/jan-march-2014/national-archives-singapore)<br><i>Kevin Khoo</i> considers the link between memory, immortality and archiving, and what this means for the National Archives of Singapore.[(PDF)](/files/pdf/vol-9/issue-4/v9-issue4_Eternity.pdf)
 
 [<b> A Colonial Heritage:  Collections of the  Anglican Diocese of Singapore</b>](/vol-9/issue-4/jan-march-2014/sg-anglican-archives)<br><i>Bonny Tan</i> explores the rich collections of the Anglican Diocese of Singapore, which holds materials such as birth and death records, publications and other documents.[(PDF)](/files/pdf/vol-9/issue-4/v9-issue4_ColonialHeritage.pdf)
 
