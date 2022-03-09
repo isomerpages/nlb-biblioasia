@@ -39,14 +39,13 @@ Note: This image is a composite of three aerial photographs of the South Central
 
 **Legend**: 1. Orchard Road Police Station; 2. C. K. Tang; 3. Heeren Building; 4. Singapore Chinese Girls’ School; 5. Cold Storage; 6. Pavilion; 7. Koek Road hawkers; 8. Amber Mansions; 9. Cathay Building; 10. Young Men’s Christian Association.
 
-#### **01 Orchard Road Police Station**
-
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> <b>01 Orchard Road Police Station</b>
+<br><br>
 Rebuilt in 1922 as quarters for policemen, the police station was a familiar landmark at the junction of Orchard Road, Scotts Road and Paterson Road. One interesting feature of the police station was its five chimneys at the rear of the building where the kitchen was once located.[^2] Orchard Road Police station was the ‘E’ Division Headquarters and thus responsible for a precinct with a population of approximately 230,000, comprising the areas of Bukit Batok, Bukit Timah, Tanglin, Ulu Pandan, Cairnhill, River Valley, Kim Seng, Havelock, Bukit Ho Swee, and parts of Boon Lay and Jurong. The building was demolished in 1982 and the site is now occupied by ION Orchard.[^3]
-
-<div style="background-color: white;">
-<br/>
+<br><br>
 <img src="/images/vol-10-issue-3/overorchard/police_station.jpg" style="width:70%;">
-Orchard Road Police Station in the 1950s. <i>Singapore Police Force collection, courtesy of National Archives of Singapore.</i></div>
+Orchard Road Police Station in the 1950s. <i>Singapore Police Force collection, courtesy of National Archives of Singapore.</i>
+ </span>
 
 #### **02 C. K. Tang**
 
