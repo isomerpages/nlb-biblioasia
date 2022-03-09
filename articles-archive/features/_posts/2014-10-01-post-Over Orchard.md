@@ -45,7 +45,7 @@ The specific stretch of Orchard Road covered in the aerial map (see overleaf) �
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-3/overorchard/Aerial_Map.jpg" style="width:70%;">
+<img src="/images/vol-10-issue-3/overorchard/Aerial_Map.jpg" style="width:100%;">
 Note: This image is a composite of three aerial photographs of the South Central region taken by the Royal Air Force, dated 14 February 1957. Orchard Road – from Young Men’s Christian Association building (top right) to Tanglin Circus (bottom left) – is highlighted. Graphics with thanks to Kingsmen Pte Ltd.
 <br><br>Landmarks identified based on 1957 <i>Singapore Street Directory and Guide</i>, (Singapore: Survey Dept, 1957) and <i>Over Singapore: 50 years ago: An aerial view in the 1950s</i> (Singapore: Editions Didier Millet in association with NAS, 2007) by Brenda Yeoh & Theresa Wong.</div>
 
