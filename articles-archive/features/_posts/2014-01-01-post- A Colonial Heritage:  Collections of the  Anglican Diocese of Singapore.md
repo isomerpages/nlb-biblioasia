@@ -6,6 +6,8 @@ image: /images/vol-9-issue-4/colonial/IMG_2166-edit.jpg
 layout: post
 description: ""
 ---
+#### <i>Bonny Tan</i> explores the rich collections of the Anglican Diocese of Singapore, which holds materials such as birth and death records, publications and other documents.
+
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-9-issue-4/colonial/IMG_2166-edit.jpg">
