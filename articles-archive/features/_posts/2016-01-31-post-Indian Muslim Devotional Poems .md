@@ -57,6 +57,8 @@ The National Librar y’s copy of *Munajathu Thirattu* was purchased in 2005 fro
 
 – Written by Sundari Balasubramaniam
 
+<a href="/vol-11/issue-4/jan-mar-2016/"><center>Back to Issue</center></a>
+
 #### **NOTES**
 [^1]:National Heritage Board. (2015, July 2). *Former Nagore Dargah*. Retrieved from National Heritage Board website. 
 [^2]:Mumtaz Ali Tajddin S. Ali (2002, August 5). *Introduction of the munajat (Ya Ali Khub Majalis)*. Retrieved from Ismaili Net website.
