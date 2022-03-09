@@ -23,7 +23,7 @@ Orchard Road, named after the fruit orchards and nutmeg plantations that were wi
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-10-issue-3/overorchard/orchard_road_railway_bridge.jpg" style="width:70%;">
-The overhead link between the two buildings that comprise Orchard Gateway today harkens back to the railway bridge (1903–1932) that was once found in Orchard Road. It is a reminder that we can find resemblances of the past in Orchard Road’s present if we look hard enough – perhaps some consolation to Tan Wee Him (see quote below) and his like-minded peers. <i>Courtesy of National Archives of Singapore.</i></div>
+The overhead link between the two buildings that comprise Orchard Gateway today harkens back to the railway bridge (1903–1932) that was once found in Orchard Road. It is a reminder that we can find resemblances of the past in Orchard Road’s present if we look hard enough – perhaps some consolation to Tan Wee Him (see quote above) and his like-minded peers. <i>Courtesy of National Archives of Singapore.</i></div>
 
 It is hard to imagine the Orchard Road of yesteryear, as Tan Wee Him reminds us, when looking at the multiple transformations it has undergone over time. Originally a hilly suburban fringe sandwiched between the main commercial town area and Tanglin, Orchard Road is now arguably Singapore’s most iconic street. The bustling street lined with shiny megamalls is almost unrecognisable from the cluster of spice plantations and fruit orchards it was in the early 19th century, and later, for a large part of the 20th century, a suburban residential and commercial street lined with low-rise shophouses.
 
