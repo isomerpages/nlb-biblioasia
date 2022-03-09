@@ -7,8 +7,7 @@ description: ""
 ---
 #### The National Library’s newest exhibition, “From the Stacks”, presents highlights of its Rare Materials Collection. **Chung Sang Hong** explains why you should not miss this event.
 
-<img style="width: 700px; height: 400px;"
-src="/images/vol-11-issue-4/Stories%20stack%20exhibition/a3.png">
+<img src="/images/vol-11-issue-4/Stories%20stack%20exhibition/a3.png">
 <div style="background-color: white;">Exhibition teasers for “From the Stacks: Highlights of the National Library”, which takes place from 30 January to 28 August 2016 at level 10 of the National Library Building. <i>All rights reserved, National Library Board, Singapore.</i></div>
 
 The noun “stack” usually refers to a pile of objects, such as “a stack of books”. It also means, by extension, a large quantity of something, as in the idiom “needle in a haystack”. In digital language, “stacks” can refer to computer memory storage. However, in libraryspeak, “stacks” are shelving units in a section of a library that is usually closed to the public.[^1] In most libraries, the less frequently consulted publications are usually kept in “closed stacks”.
