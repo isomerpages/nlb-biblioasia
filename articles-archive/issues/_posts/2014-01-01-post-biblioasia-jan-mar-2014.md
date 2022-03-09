@@ -12,7 +12,7 @@ layout: post
 
 [<b>A Tale of Many Hands</b>](/vol-9/issue-4/jan-march-2014/nlb-hands-exhibition)<br>There’s more to the hand than meets the eye, as <i>Tan Huism</i> found out when she curated an exhibition using the motif of hands for the National Library recently.[(PDF)](/files/pdf/vol-9/issue-4/v9-issue4_ManyHands.pdf)
 
-[<b>The Unlikely Composer: Tsao Chieh</b>](/vol-9/issue-4/jan-march-2014/tsao-chieh)<br>Despite his untimely death at the age of 43, Singaporean composer Tsao Chieh’s legacy lives on — immortalised through his small but significant body of experimental works. <i>Jun Zubillaga-Pow</i> traces the life of this underrated artist.[(PDF)](/files/pdf/vol-9/issue-4/v9-issue4_TsaoChieh.pdf)
+[<b>The Unlikely Composer: Tsao Chieh</b>](/vol-9/issue-4/jan-march-2014/tsao-chieh-singapore-composer)<br>Despite his untimely death at the age of 43, Singaporean composer Tsao Chieh’s legacy lives on — immortalised through his small but significant body of experimental works. <i>Jun Zubillaga-Pow</i> traces the life of this underrated artist.[(PDF)](/files/pdf/vol-9/issue-4/v9-issue4_TsaoChieh.pdf)
 
 [<b>Kampung Living: A–Z</b>](/vol-9/issue-4/jan-march-2014/kampung-living)<br>It’s hard to believe that Singapore was once a sleepy village outpost. <i>Nor Afidah Abd Rahman</i> relives those nostalgic <i>kampung</i> days with this laundry list of life as it once was.[(PDF)](/files/pdf/vol-9/issue-4/v9-issue4_KampongLiving.pdf)
 
