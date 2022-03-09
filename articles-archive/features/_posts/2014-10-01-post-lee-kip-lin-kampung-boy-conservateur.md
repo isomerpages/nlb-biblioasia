@@ -118,7 +118,7 @@ I was a young architect in a hurry to do international style of architecture. He
 
 #### **Professor Tse Swee Ling's Impressions of Lee Kip Lin**
 
-I have known him for more than 40 years, from working in “Team 3” to teaching in NUS. He’s really a good boss ... whenever there was some argument, unhappiness amongst staff or whatever [in Team 3], he will always help to settle and he’s very good in human relationships. And the staff respect[ed] him.
+I have known him for more than 40 years, from working in Team 3 to teaching in NUS. He’s really a good boss ... whenever there was some argument, unhappiness amongst staff or whatever [in Team 3], he will always help to settle and he’s very good in human relationships. And the staff respect[ed] him.
 
 His book, <i>Singapore House</i>, it’s not only about the architecture. He actually took the effort to find out about the lives of the people who lived there. 
 
@@ -188,7 +188,7 @@ Taylor, T.G. (1951). *[Urban geography: A study of site, evolution, pattern and 
 
 [^13]: Tay, S.C. (2010, June 12). [A happy man of many words](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20100612-1.2.110.4.3). <i>The Straits Times</i>, p. 8. Retrieved from NewspaperSG.
 
-[^14]: These are cigarettes out of Canada, a much sought after foreign brand in that time (Tay, oral interview)
+[^14]: These are cigarettes out of Canada, a much sought after foreign brand at that time (Tay, oral interview)
 
 [^15]: As seen in the personally signed books. Hall-John, J. (1995). *[The Horsburgh Lighthouse](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7481919)*. Invercargill, N.Z.: John Hall-Jones. (Call no.: RSING 623.8942 HAL)
 
