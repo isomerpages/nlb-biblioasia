@@ -39,14 +39,14 @@ Lee Kip Lin’s sketch of Carcasonne, France, copied from Taylor, G.‘s <i>Urba
 <img src="/images/vol-10-issue-3/leekiplin/Lee_Kip_Lin_with_friends.jpg">
 Lee Kip Lin (right) with friends in Paris circa 1950s. <i>Courtesy of Mrs Lee Li-Ming.</i></div>
 
+#### **Lee the Architect**
+
+Lee returned to Singapore in October 1956, a time of political and social unrest as Malaya was actively defining its political boundaries in its bid to gain independence from Britain. With a year’s experience at the Housing Division of the London County Council under his belt, Lee started work in 1957 as an Architectural Assistant to Wee Soo Bee before joining well-known architect Seow Eu Jin in 1958. The following year, in 1959, he married Li-Ming, daughter of H. T. Ong, the first Chief Justice of Malaya. Between 1960 and 1964, Lee worked with one of Singapore’s key architects, Ng Keng Siang who was highly regarded for creating many of the country’s landmark buildings such as the Singapore Badminton Hall (1952) at Guillemard Road and the former Asia Insurance Building (1954) in Finlayson Green (now converted into the serviced apartments Ascott Raffles Place). 
+
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-10-issue-3/leekiplin/Lee_Kip_Lin_with_wife.jpg">
 	Lee Kip Lin and his wife, Ong Li-Ming, married in 1959. <i>Courtesy of Mrs Lee Li-Ming.</i></div>
-
-#### **Lee the Architect**
-
-Lee returned to Singapore in October 1956, a time of political and social unrest as Malaya was actively defining its political boundaries in its bid to gain independence from Britain. With a year’s experience at the Housing Division of the London County Council under his belt, Lee started work in 1957 as an Architectural Assistant to Wee Soo Bee before joining well-known architect Seow Eu Jin in 1958. The following year, in 1959, he married Li-Ming, daughter of H. T. Ong, the first Chief Justice of Malaya. Between 1960 and 1964, Lee worked with one of Singapore’s key architects, Ng Keng Siang who was highly regarded for creating many of the country’s landmark buildings such as the Singapore Badminton Hall (1952) at Guillemard Road and the former Asia Insurance Building (1954) in Finlayson Green (now converted into the serviced apartments Ascott Raffles Place). 
 
 In 1965, Lee established his own company, Lee, Lim and Partners, which originally included David Lim and Whang Tar Kway. One of his company’s major accomplishments was winning the landmark Industrial Commercial Bank (ICB) project. The partnership dissolved soon after Lim Chin Leong’s death and Lee started the firm Silat[^12] Associates along with partner Lim Chong Keat, which had a tie-up with Architect Team 3 before Lee finally joined the latter. 
 
