@@ -18,7 +18,7 @@ layout: post
 
 [<b>Time-forgotten Trades</b>](/vol-9/issue-4/jan-march-2014/forgotten-trades-singapore)<br>Unable to keep pace with Singapore’s economic progress and development, many of Singapore’s early crafts and trades have disappeared. <i>Sharon Teng</i> tells us about these trades and what is being done to remember them.[(PDF)](/files/pdf/vol-9/issue-4/v9-issue4_ForgottenTrades.pdf)
 
-[<b>The Jiapu Chronicles: What’s in a Name?</b>](/vol-9/issue-4/jan-march-2014/jiapu)<br>Records of family lineage were important in traditional Chinese society. <i>Lee Meiyu</i> charts the history of these documents, or <i>jiapu</i>, which track not only family roots but also the social norms and cultural values of China at the time.[(PDF)](/files/pdf/vol-9/issue-4/v9-issue4_JiapuChronicles.pdf)
+[<b>The Jiapu Chronicles: What’s in a Name?</b>](/vol-9/issue-4/jan-march-2014/jiapu-chinese-family-lineage)<br>Records of family lineage were important in traditional Chinese society. <i>Lee Meiyu</i> charts the history of these documents, or <i>jiapu</i>, which track not only family roots but also the social norms and cultural values of China at the time.[(PDF)](/files/pdf/vol-9/issue-4/v9-issue4_JiapuChronicles.pdf)
 
 [<b>From Here to Eternity: Archiving and Immortality</b>](/vol-9/issue-4/jan-march-2014/archivingimmortality)<br><i>Kevin Khoo</i> considers the link between memory, immortality and archiving, and what this means for the National Archives of Singapore.[(PDF)](/files/pdf/vol-9/issue-4/v9-issue4_Eternity.pdf)
 
