@@ -49,6 +49,8 @@ The map, which the National Library Board acquired in 2012, offers historians va
 
 – Written by Irene Lim
 
+<a href="/vol-11/issue-4/jan-mar-2016/"><center>Back to Issue</center></a>
+
 #### **NOTES**
 [^1]:Borschberg, P. (Ed.). (2004). Remapping the Straits of Singapore: New insights from old sources? In [*Iberians in the Singapore-Melaka Area and adjacent regions (16th to 18th century)*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12493225) (p. 96). Wiesbaden: Harrassowitz; Lisboa: Fundação Oriente. Call no.: RSING 959.50046 IBE; Borschberg, P. (2005). *Fictitious strait and imagined island: “Singapura” in the late sixteenth and early seventeenth century, water and state in mainland Southeast Asia*. Retrieved from academia.edu website; Borschberg, P. (2010). [*The Singapore and Melaka straits: Violence, security and diplomacy in the 17th century*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13218095) (p. 21). Singapore: NUS Press. Call no.: RSING 911.16472 BOR.
 [^2]:Parry, D. E. (2005). [*The cartography of the East Indian Islands = Insulae Indiae Orientalis*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12669569) (p. 69). London: Country Editions. Call no.: RSING q912.59 PAR; Suarez, T. (1999). [*Early mapping of Southeast Asia*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9654316) (p. 130). Hong Kong: Periplus. Call no.: RSING q912.59SUA.
