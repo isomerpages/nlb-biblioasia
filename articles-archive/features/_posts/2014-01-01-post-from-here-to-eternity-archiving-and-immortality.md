@@ -122,7 +122,7 @@ Wright, D.C. (2011). <i>The history of China</i>. California: Greenwood Press. (
 
 [^4]: Bullfinch, T. (2004). <i>Bullfinch’s mythology: The age of fables or stories of Gods & heroes</i>. New York: Modern Library Paperbacks. (Not available in NLB holdings)
 
-[^5]: Shelly, P.B. (1818). The complete poetic works of Percy Bysshe Shellt (Vol. 2). <i>Ozymandias</i>, Retrieved from The Literature Network online website. 
+[^5]: Shelly, P.B. (1818). The complete poetic works of Percy Bysshe Shelly (Vol. 2). <i>Ozymandias</i>, Retrieved from The Literature Network online website. 
 
 [^6]: Image of Ramesses II Bust: Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.2 or any later version published by the Free Software Foundation; With no invariant sections, no Front-Cover texts, and no Back-Cover Texts. A copy of the license is included in the section entitled GNU Free Documentation License.
 
