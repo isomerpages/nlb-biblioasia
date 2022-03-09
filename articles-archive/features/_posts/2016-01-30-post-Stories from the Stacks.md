@@ -5,11 +5,9 @@ date: 2016-01-30
 layout: post
 description: ""
 ---
-The National Library’s newest exhibition, “From the Stacks”, presents highlights of its Rare Materials Collection. Chung Sang Hong explains why you should not miss this event.
+#### The National Library’s newest exhibition, “From the Stacks”, presents highlights of its Rare Materials Collection. **Chung Sang Hong** explains why you should not miss this event.
 
-<img style="width: 450px; height: 300px;"
-src="/images/vol-11-issue-4/Stories%20stack%20exhibition/a1.png">
-<div style="background-color: white;">A steam-powered lithographic printing machine, 1870. <i>fotolibra.</i></div>
+
 
 The noun “stack” usually refers to a pile of objects, such as “a stack of books”. It also means, by extension, a large quantity of something, as in the idiom “needle in a haystack”. In digital language, “stacks” can refer to computer memory storage. However, in libraryspeak, “stacks” are shelving units in a section of a library that is usually closed to the public.[^1] In most libraries, the less frequently consulted publications are usually kept in “closed stacks”.
 
@@ -23,8 +21,12 @@ As stories go, we must start from the beginning: the exhibition first traces the
 
 Stamford Raffles envisioned Singapore as a commercial hub and a centre for learning and culture. Shortly after its founding in 1819, he drafted a proposal for the establishment of an institution of higher learning that would include a library and publishing function. One of the institution’s objectives was:
 
-“To collect the scattered literature and traditions of the country, with whatever may illustrate their laws and customs, and to publish and circulate in a correct form the most important of these…to raise the character of the institution and to be useful 
+“To collect the scattered literature and traditions of the country, with whatever may illustrate their laws and customs, and to publish and circulate in a correct form the most important of these… to raise the character of the institution and to be useful 
 or instructive to the people.”[^2]
+
+<img style="width: 450px; height: 300px;"
+src="/images/vol-11-issue-4/Stories%20stack%20exhibition/a2.png">
+<div style="background-color: white;">In 1841 watercolour painting of the library floor plan at the Singapore Institution (later renamed as Raffles Institution) by J. A. Marsh. Singapore’s first library officially opened in 1837 as part of the school. <i>© The British Library Board, WD 2970.</i></div>
 
 The proposal was not acted upon until 1823 when Raffles convened a meeting to establish the Singapore Institution. At the recommendation of the missionary Robert Morrison, plans for a library, museum and printing press were included in the formation of the institution.[^3] However, its opening was delayed again for various reasons and deviated from Raffles’ original intent. Eventually, when the Singapore Free School moved into the building that was meant for the Singapore Institution at Bras Basah Road in 1837, it housed a small library that was available for public use for a small fee.
 
@@ -35,12 +37,12 @@ In response to appeals from residents for a proper public library that could be 
 Several items in the exhibition are rare editions of the earliest publications printed in Singapore. Interestingly, Singapore’s publishing history is closely intertwined with the proselytising activities of early Christian missionaries in the region. The earliest English, Chinese and Malay titles in the National Library are all outputs of printing presses in Singapore that were run by Protestant missions in the early years of the 19th century.
 
 <img style="width: 450px; height: 300px;"
-src="/images/vol-11-issue-4/Stories%20stack%20exhibition/a2.png">
-<div style="background-color: white;">In 1841 watercolour painting of the library floor plan at the Singapore Institution (later renamed as Raffles Institution) by J. A. Marsh. Singapore’s first library officially opened in 1837 as part of the school. <i>© The British Library Board, WD 2970.</i></div>
+src="/images/vol-11-issue-4/Stories%20stack%20exhibition/a1.png">
+<div style="background-color: white;">A steam-powered lithographic printing machine, 1870. <i>fotolibra.</i></div>
 
 Christian missionaries followed the footsteps of Raffles and started work in Singapore soon after it was founded. The Reverend Samuel Milton of the London Missionary Society (LMS) came to Singapore from Malacca in October 1819 to start a station on the island. In 1822, fellow missionary Claudius Henry Thomsen arrived in Singapore and brought with him a printing press and a few workers. The following year, the first printing press in Singapore, the Mission Press, came into operation.[^4] Thomsen learnt Malay from the accomplished Muslim scholar, Abdullah bin Abdul Kadir (better known as Munshi Abdullah) and collaborated with the latter in the translation and publication of Christian gospels and literature into Malay.[^5]
 
-The printing and distribution of Christian literature was a major part of missionary work, besides preaching and establishing schools. Religious scripture, tracts, periodicals and fiction were published in Malay and Chinese in order to proselytise to the local communities as well as to those in the surrounding regions. On display at the exhibition are two significant publications: a Malay translation of the *Sermon on the Mount* – based on the Gospel of Matthew – published in 1829 (see page 96), and a gospel tract in Chinese titled *The Perfect Man’s Model (全人矩矱)*, written by the German missionary Karl Friedrich August Gützlaff and printed in 1836 (see page 92).
+The printing and distribution of Christian literature was a major part of missionary work, besides preaching and establishing schools. Religious scripture, tracts, periodicals and fiction were published in Malay and Chinese in order to proselytise to the local communities as well as to those in the surrounding regions. On display at the exhibition are two significant publications: a Malay translation of the [*Sermon on the Mount*](https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/christian-sermon-malay-claudius-henry-thomsen) – based on the Gospel of Matthew – published in 1829 (see page 96), and a gospel tract in Chinese titled [*The Perfect Man’s Model (全人矩矱)*](https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/gospel-chinese-karl-friedrich-august-gutzlaff), written by the German missionary Karl Friedrich August Gützlaff and printed in 1836 (see page 92).
 
 The Mission Press’s publishing output was prolific – close to one million copies of religious and secular publications in Chinese, Malay and other languages were printed in Penang, Malacca, Singapore and Batavia between 1815 and 1846.[^6] Southeast Asia, however, was just a pit stop en route to a much larger prize – the missionaries’ ultimate aim was to spread Christianity in China.
 
