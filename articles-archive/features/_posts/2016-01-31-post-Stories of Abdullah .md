@@ -49,6 +49,8 @@ Munsyi Abdullah died in Mecca in 1854 while on pilgrimage.[^16] But his legacy i
 
 – Written by Ang Seow Leng
 
+<a href="/vol-11/issue-4/jan-mar-2016/"><center>Back to Issue</center></a>
+
 #### **NOTES**
 [^1]:National Library of Australia (2001). [*Treasures from the world’s great libraries*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10864294) (p. 108). Canberra: National Library of Australia. Call no.: R q025.1 TRE-[LIB].
 [^2]:Reith, G. M. (1892). *Handbook to Singapore, with map and a plan of the Botanical Gardens* (pp. 132–133).  Singapore: Straits Print. Office. Microfilm no.: NL 7522.
