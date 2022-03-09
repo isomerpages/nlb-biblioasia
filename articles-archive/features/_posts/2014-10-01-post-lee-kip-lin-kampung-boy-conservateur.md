@@ -20,6 +20,11 @@ Born in 1925, Lee was the fourth of five children[^1] and part of a distinguishe
 
 Lee had a creative bent from childhood but he was no quiet and self-absorbed artist. Golf and boating, twin passions he inherited from his father, kept him outdoors and active. In fact, some of his early childhood drawings were of passing ships and boats[^3] that he observed while growing up by the sea along Singapore’s East Coast.[^4] The Lee boys were given their own row boats[^5] and the family regularly took a small launch to family gatherings at their grandaunt’s, Mrs Lee Choon Guan (famous for her charity work, lavish parties and her family connections) seaside holiday home in Changi.[^6] Even in adulthood, Lee maintained his own boat, which his architectural students often used on their after-school escapades.[^7] 
 
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-3/leekiplin/boat.jpg" style="width:70%;">
+Lee Kip Lin (centre) with his brother Kip Lee (right) and a neighbour on a boat just off their family home in Amber Road, Katong, circa 1935. <i>Courtesy of Mrs Lee Li-Ming.</i></div>
+
 Lee came into his profession almost by accident. His academic records were poor because his education was disrupted by the war. As he prepared to further his studies in London in 1948, Lee’s mother advised him to pursue a degree in agriculture, promising him land upon completion of his studies. But Lee’s passion for sketching led him to seek a placement in architectural studies instead. Unfortunately, his lack of a foundation in science saw him rejected by 20 universities before he was finally accepted by the Brixton School of Building in London. The polytechnic gave him a good grounding in technical skills but he sought a more professional training in architecture. Not one to give up easily, Lee reapplied to London’s Bartlett School of Architecture, famed for its Beaux Arts approach – a French neo-classical perspective of architecture that would later influence Lee’s approach to architecture in Singapore. Lee had failed an entrance test the previous year when he was asked to sketch a building from memory and, unprepared, he submitted a poor sketch of the 1926 neo-classical College of Medicine building.[^8] In his second attempt, Lee drew the Pantheon in Rome, so well executed that it even gained the invigilator’s attention.[^9]
 
 During his six-year study at Bartlett, Lee was influenced by architectural greats such as William Holford (1907–1975), a noteworthy town planner; A. E. Richardson (1880–1964), an expert in the art of architecture especially of the Renaissance period; and Hector Corfiato (1893–1963?),[^10] Richardson’s protégé who later took over as Bartlett’s Professor of Architecture. Lee had expressed regret that much of his time was spent socialising at bars rather than drinking in Europe’s architectural heritage.[^11]
@@ -28,11 +33,6 @@ During his six-year study at Bartlett, Lee was influenced by architectural great
 <br/>
 <img src="/images/vol-10-issue-3/leekiplin/sketch_of_Carcasonne.jpg">
 Lee Kip Lin’s sketch of Carcasonne, France, copied from Taylor, G.‘s <i>Urban Geography</i> (1951), which shows off some of his drawing skills. <i>From the Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009.</i></div>
-
-<div style="background-color: white;">
-<br/>
-<img src="/images/vol-10-issue-3/leekiplin/boat.jpg" style="width:70%;">
-Lee Kip Lin (centre) with his brother Kip Lee (right) and a neighbour on a boat just off their family home in Amber Road, Katong, circa 1935. <i>Courtesy of Mrs Lee Li-Ming.</i></div>
 
 <div style="background-color: white;">
 <br/>
