@@ -108,7 +108,7 @@ Cutlery and uniforms used in food courts also tend to be standard issue, and man
 <br>
 <div style="background-color: white;">
 <img src="/images/Vol-14-issue-4/bridging-history-pswy-ars-wtr/LTS.JPG" style="width: 100px; height: 100px;">
-<b>Lim Tin Seng</b> is a Librarian with the National Library of Singapore. He is the co-editor of <i>Roots: Tracing Family Histories — A Resource Guide; Harmony and Development: ASEAN-China Relations</i> (2009) and <i>China’s New Social Policy: Initiatives for a Harmonious Society</i> (2010).
+<b>Lim Tin Seng</b> is a Librarian with the National Library of Singapore. He is the co-editor of <i>Roots: Tracing Family Histories — A Resource Guide</i>; <i>Harmony and Development: ASEAN-China Relations</i> (2009) and <i>China’s New Social Policy: Initiatives for a Harmonious Society</i> (2010).
 </div>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-9/issue-3/oct-dec-2013/"><center>Back to Issue</center></a>
