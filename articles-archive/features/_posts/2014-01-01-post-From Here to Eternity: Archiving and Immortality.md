@@ -6,7 +6,6 @@ image: /images/vol-9-issue-4/enternity/Farquhar_Raffles_re.jpg
 layout: post
 description: ""
 ---
-
 #### <i>Kevin Khoo</i> considers the link between memory, immortality and archiving, and what this means for the National Archives of Singapore.
 
 <br/>
@@ -104,7 +103,7 @@ Posner, E. (1972). <i>Archives in the ancient world</i>. Cambridge, Massachusett
 
 Raffles, S. (1819, June 25). <i>Original instructions to William Farquhar on the Plan of Singapore Town</i>. [Straits Settlements Records. Series L, Singapore: Letters to Bencoolen](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13844485) [Straits Settlement Records, L10]. Singapore: National Archives of Singapore (Microfilm no.: NL57)
 
-Shelly, P.B. (1818). The complete poetic works of Percy Bysshe Shellt (Vol. 2). <i>Ozymandias</i>, Retrieved from The Literature Network online website. 
+Shelly, P.B. (1818). The complete poetic works of Percy Bysshe Shelly (Vol. 2). <i>Ozymandias</i>, Retrieved from The Literature Network online website. 
 
 The British Museum. (2013). <i>Statue of Ramesses II, the “younger memnon’</i>. Retrieved from the British Museum website. 
 
