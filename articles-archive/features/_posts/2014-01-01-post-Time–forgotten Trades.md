@@ -6,7 +6,6 @@ image: /images/vol-9-issue-4/forgottentrades/bg.jpg
 layout: post
 description: ""
 ---
-
 #### Unable to keep pace with Singapore’s economic progress and development, many of Singapore’s early crafts and trades have disappeared. **Sharon Teng** tells us about these trades and what is being done to remember them.
 
 <div style="background-color: white;">
@@ -246,7 +245,7 @@ Ministry of Defence. (2013). <i>Vanishing trades in Singapore</i>. Retrieved fro
 
 Nathan, D. (1990, March 12). [Indian heritage to go on show at Indian village in two weeks](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900312-1.2.30.8). <i>The Straits Times</i>, p. 19. Retrieved from NewspaperSG.
 
-National Archives of Singapore. (2002). <u>*PICAS*</u>. Retrieved from National Archives of Singapore website. 
+National Archives of Singapore. (2002). <u><i>PICAS</i></u>. Retrieved from National Archives of Singapore website. 
 
 National Archives of Singapore. (2003). <i>Collection of oral history collection database</i>. Retrieved from National Archives of Singapore website. 
 
