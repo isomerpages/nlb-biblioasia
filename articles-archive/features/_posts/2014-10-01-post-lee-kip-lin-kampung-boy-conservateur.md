@@ -71,16 +71,6 @@ After Lee retired, he began systematically photographing, neighbourhood by neigh
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-3/leekiplin/The_Straits_of_Singapore.jpg" style="width:70%;">
-The Straits of Singapore with those of Durion, Sabon and Mandol by Thomas Jefferys, Geographer to the King. <i>From the Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009.</i></div>
-
-<div style="background-color: white;">
-<br/>
-<img src="/images/vol-10-issue-3/leekiplin/The_Straits_of_Malacca_and_Malaya.jpg" style="width:70%;">
-A navigational chart showing the Straits of Malacca and Malaya. Created by Bellin, Jacques Nicolas in 1775. <i>From the Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009.</i></div>
-
-<div style="background-color: white;">
-<br/>
 <img src="/images/vol-10-issue-3/leekiplin/Report_on_Empress_Place.jpg" style="width:70%;">
 Report on Empress Place by Preservation of Monuments Board, 1973. A unique typescript publication in the Lee Kip Lin collection. <i>From the Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009.</i></div>
 
@@ -95,6 +85,16 @@ Yet the Lee Kip Lin collection is not confined to the history of Singapore’s a
 Lee purchased much of his heritage books, postcards and photographs from antiquarian resellers in London and had them delivered to his Amber Road home. Others were gifted directly to him by the authors.[^15] Much of Lee’s handwritten research notes and sketches were bound and are now part of his donated collection. These include hand-copied paragraphs and sketches from some of his early studies of classical architecture as well as copied letters and records relating to significant people and places in Singapore. He regularly visited the National Archives and the National Library after his retirement, taking copious notes from hard-to-read manuscripts such as the <i>Straits Settlement Records</i> that outline the decisions and plans for streets in the early days of Singapore’s urban growth.
 
 Lee’s map collection of 291 items is particularly valuable as they capture the cartographic narrative of Singapore as reflected by mapmakers over the centuries. One of the oldest maps in his collection, dated 1794[^16] and drawn by the geographer to King George III, Thomas Jefferys, shows details of the Malay Peninsula and Singapore’s surrounding islands extending to the Carimon Islands and beyond. Interestingly the map shows not only how names of Singapore’s surroundings have changed or remained the same across the centuries, but also shows this island at an awkward angle. A large channel seems to cut through Singapore with its southern portion named “Toly”. This was a common error found in the earliest maps of Singapore and its interpretation is discussed at length by scholars like Gibson-Hill.[^17]
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-3/leekiplin/The_Straits_of_Singapore.jpg" style="width:70%;">
+The Straits of Singapore with those of Durion, Sabon and Mandol by Thomas Jefferys, Geographer to the King. <i>From the Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009.</i></div>
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-3/leekiplin/The_Straits_of_Malacca_and_Malaya.jpg" style="width:70%;">
+A navigational chart showing the Straits of Malacca and Malaya. Created by Bellin, Jacques Nicolas in 1775. <i>From the Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009.</i></div>
 
 Another 18th-century map by French cartographers reflects Singapore’s ancient name, Pulo Panjang, and shows elevated views of its surroundings, including Malacca. The map collection also bears several drawings of Malacca plan sketches from the colonial architectural firm Swan and Maclaren, and copies of various maps.
 
