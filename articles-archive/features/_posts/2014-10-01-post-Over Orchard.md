@@ -87,62 +87,57 @@ The Salad Bowl was famous for its set lunches, with three courses going for unde
 Cold Storage at the junction of Orchard Road and Koek Road, captured below in 1970. Just across the road was the Orchard Road carpark, which was a food haven by night for hawkers. <i>Ministry of Information and the Arts collection, courtesy of National Archives of Singapore.</i>
  </span>
 
-#### **06 Pavilion**
-
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> <b>06 Pavilion</b>
+<br><br>
 Formerly known as the Palladium (1913–1925), the Pavilion cinema was a pioneer in screening films along Orchard Road. Described as an architectural “reproduction of the Stoll houses in England”, its similarities with the grand theatres built by Sir Oswald Stoll in England in the early 20th century did not end there.[^21] The films screened at the Pavilion catered mainly to British tastes. As English expat George Yuille Caldwell, a frequent patron of the Pavilion in the late 1950s and early 1960s, recalls: 
-
+<br/><br/>
 “On the whole, it was more convenient for the expats to go to the Pavilion Cinema... I think it had two angular pediments on the street front and probably a sign saying “Pavilion Cinema”... [T]here was a restaurant there as well, we used to have dinner there. You either have fish and chips or you had steak and chips, a prawn cocktail for starters and probably an ice-cream and chocolate sauce. And then you just walked straight through the door, from the restaurant, into the circle of the cinema. And you’d take your whiskey with you. And then halfway through the film, the film would stop, and you would go out, get another whiskey, and bring it back into the cinema with you. And then the film would start again...”[^22]
-
+<br/><br/>
 The building was demolished in 1969 and replaced with Phoenix Hotel and Specialists’ Shopping Centre.[^23] Both buildings have since been demolished and replaced by Orchard Gateway.
-
-<div style="background-color: white;">
-<br/>
+<br><br>
 <img src="/images/vol-10-issue-3/overorchard/Pavilion.jpg" style="width:70%;">
-Such was the view that greeted the person who stepped out of the Pavilion cinema and looked towards Cold Storage (the building on left) in 1957. <i>William Wee collection, courtesy of National Archives of Singapore.</i></div>
+Such was the view that greeted the person who stepped out of the Pavilion cinema and looked towards Cold Storage (the building on left) in 1957. <i>William Wee collection, courtesy of National Archives of Singapore.</i>
+ </span>
 
-#### **07 Koek Road Hawkers**
-
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> <b>07 Koek Road Hawkers</b>
+<br><br>
 Located in the vicinity of Orchard Road Market, Koek Road and Koek Lane were home to many hawkers and the site of many mouth-watering memories for people who remember this street food haunt. Pakirisamy Rajagopal fondly recollects the variety of food available there in the 1950s:
-
+<br/><br/>
 “So the favourite joint that I used to go to is Koek Road where you have your <i>kolo mee</i>, your <i>char kway teow</i>, your <i>mee goreng</i>, your soup <i>kambing</i>, name whatever you want. The roadside stalls will open up after 6pm. Whereas the coffeeshop stalls are open from morning to nighttime...
-
+<br/><br/>
 “And in the same stretch of the old dirty looking coffee shop, there was a dirty little monsoon drain with a platform over it, 30 huge rats running around. The Teck Kee Pau, which is now in Bukit Timah Road, originated from there...
-
+<br/><br/>
 “The <i>kway teow</i> man, the <i>hokkien mee</i> chap, [wore] just a singlet. [He] would be having a little towel... – I remember the white towel...[with] the name Good Morning – he would have it round his neck; he would sit down and fry the <i>hokkien mee</i>. His was the best <i>hokkien mee</i> of the whole of Singapore at that time”.[^24]
-
+<br/><br/>
 As early as 1933, Municipal Commissioners had prohibited itinerant hawkers from overcrowding Koek Road and Koek Lane.[^25] However, patrons were spoilt for choice and often unconcerned with the finer points of hawker licensing and other legal details, despite the occasional complaint of road obstruction.[^26] That compromise lasted till the mid-1970s when the Koek Road and Koek Lane hawkers, itinerant or otherwise, were relocated, some to the new Cuppage Centre.[^27]
-
-<div style="background-color: white;">
-<br/>
+<br><br>
 <img src="/images/vol-10-issue-3/overorchard/Koek_Road_hawkers.jpg" style="width:70%;">
-Itinerant hawkers at what was known as “Koek’s Bazaar” in 1905. Koek Road and Koek Lane became a favourite haunt for foodies in search of Singapore’s hawker delights. <i>Courtesy of National Archives of Singapore.</i></div>
+Itinerant hawkers at what was known as “Koek’s Bazaar” in 1905. Koek Road and Koek Lane became a favourite haunt for foodies in search of Singapore’s hawker delights. <i>Courtesy of National Archives of Singapore.</i>
+ </span>
 
-#### **08 Amber Mansions**
-
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> <b>08 Amber Mansions</b>
+<br><br>
 A mixed-use development that combined shops and residences in a large complex, Amber Mansions was developed in 1922 by the prominent Jewish businessman, J. A. Elias.[^29] Forming what notable architect Tay Kheng Soon called a “design trinity” with MacDonald House and the old Malayan Motors Showroom,[^30] Amber Mansions was designed by Swan and Maclaren in a decorative style typical of Art Deco buildings in the 1920s.[^31] Its distinctive arcaded front adorned the junction of Orchard Road and Penang Lane for more than 60 years until it was demolished to make way for Dhoby Ghaut MRT station in 1984.[^32]
-
-<span style="background-color: white; font-size:1rem;">
-<br/>
+<br><br>
 <img src="/images/vol-10-issue-3/overorchard/Amber_Mansions.jpg" style="width:70%;">
-Home to tenants such as the Municipal Gas Department, the British Council, High Street Provision Store (pictured here c. 1960s), University Bookstore, Fosters steakhouse and City Development Limited,[^28] Amber Mansions is a reminder of Orchard Road’s early 20th century incarnation as a suburban residential area. <i>R. Browne collection, courtesy of National Archives of Singapore.</i></span>
+Home to tenants such as the Municipal Gas Department, the British Council, High Street Provision Store (pictured here c. 1960s), University Bookstore, Fosters steakhouse and City Development Limited,[^28] Amber Mansions is a reminder of Orchard Road’s early 20th century incarnation as a suburban residential area. <i>R. Browne collection, courtesy of National Archives of Singapore.</i>
+ </span>
 
-#### **09 Cathay Building**
-
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> <b>09 Cathay Building</b>
+<br><br>
 Designed by Frank Brewer, Cathay Building stood out at the foot of Mount Sophia. Comprising residences, a hotel, restaurant and cinema, the 16-storey Cathay Building was the first skyscraper and the tallest building in Singapore until 1954.[^33] The cinema opened on 3 October 1939, while the other wings followed in 1941.[^34] In the immediate post-war years, this was where Cathay Organisation’s director Loke Wan Tho rebuilt his film empire during what turned out to be the golden years of Singapore film production and distribution, and Cathay Cinema became the filmgoer’s cinema of choice.[^35] Cathay Building was demolished in 2003, replaced with a new seven-storey complex with cinemas and retail outlets; its façade, however, was maintained as it was gazetted in February 2003.[^36] The Cathay, as it is now known, re-opened in 2006.[^37]
-
-<div style="background-color: white;">
-<br/>
+<br><br>
 <img src="/images/vol-10-issue-3/overorchard/cathay_building_re.jpg">
-Cathay was a popular haunt for filmgoers, offering both European blockbusters and local productions in the 1950s and 1960s. <i>Courtesy of National Archives of Singapore.</i></div>
+Cathay was a popular haunt for filmgoers, offering both European blockbusters and local productions in the 1950s and 1960s. <i>Courtesy of National Archives of Singapore.</i>
+ </span>
 
-#### **10 Young Men’s Christian Association**
-
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> <b>10 Young Men’s Christian Association</b>
+<br><br>
 Founded by Robert Pringle in 1903, the Young Men’s Christian Association (YMCA) was initially located within Whitfield’s Guest House (also known as Zetland House) on Armenian Street. In 1911, after securing a 999-year lease from the colonial government and two years of construction, the iconic red-and-white brick building opened.[^38] More than just an affordable hostel, the YMCA also actively organised a wide range of sports and recreational activities, programmes and educational and enhancement classes for all age groups under its roof.[^39] In 1982, the building was demolished, making way for a nine-storey modern facility called YMCA International House.[^40]
-
-<div style="background-color: white;">
-<br/>
+<br><br>
 <img src="/images/vol-10-issue-3/overorchard/young_men_christian_association.jpg" style="width:70%;">
-The Edwardian-style building fitted with arched windows and a double-decker portico – featured here with matching red-and-white national day decorations in the late 1960s – was a familiar sight at 1 Orchard Road until it was demolished in 1982. <i>John C. Young collection, courtesy of National Archives of Singapore.</i></div>
+The Edwardian-style building fitted with arched windows and a double-decker portico – featured here with matching red-and-white national day decorations in the late 1960s – was a familiar sight at 1 Orchard Road until it was demolished in 1982. <i>John C. Young collection, courtesy of National Archives of Singapore.</i>
+ </span>
 
 #### **NAS' Aerial Photographs Collection**
 
