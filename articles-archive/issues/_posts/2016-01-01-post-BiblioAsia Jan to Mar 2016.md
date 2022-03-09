@@ -101,7 +101,7 @@ The National Library’s newest exhibition, “From the Stacks”, presents high
 **[The First English and Malay Dictionary](/vol-11/issue-4/jan-mar-2016/first-english-malay-dictionary-thomas-bowrey)**<br>
 *A Dictionary: English and Malayo, Malayo and English* [(PDF)](/files/pdf/vol-11/issue-4/v11-issue4_EnglishMalayDictionary.pdf)
 
-**[Of Spells and Magic](/vol-11/issue-4/jan-mar-2016/malay-magic-walterwilliam-skeat)**<br>
+**[Of Spells and Magic](/vol-11/issue-4/jan-mar-2016/malay-magic-walter-william-skeat)**<br>
 *Malay Magic: Being an Introduction to the Folklore and Popular Religion of the Malay Peninsula* [(PDF)](/files/pdf/vol-11/issue-4/v11-issue4_SpellsMagic.pdf)
 
 **[Hear Ye Hear Ye](/vol-11/issue-4/jan-mar-2016/straits-government-gazette)**<br>
