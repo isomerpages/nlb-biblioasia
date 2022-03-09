@@ -47,49 +47,45 @@ Rebuilt in 1922 as quarters for policemen, the police station was a familiar lan
 Orchard Road Police Station in the 1950s. <i>Singapore Police Force collection, courtesy of National Archives of Singapore.</i>
  </span>
 
-#### **02 C. K. Tang**
-
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> <b>02 C. K. Tang</b>
+<br><br>
 Now a household name, C. K. Tang started out in a nondescript shophouse in River Valley Road before moving to Orchard Road in 1958. Founder Tang Choon Keng ignored superstition and selected a location opposite the Tai San Ting Teochew cemetery, setting up what would become an Oriental landmark in Orchard Road.[^5] Designed by Ang Eng Leng, the building’s unique green tiled sloping roofs and red doors were said to be modelled after the Imperial Palace in the Forbidden City in Beijing.[^6] The green roof tiles were produced in Kuala Lumpur, while the carvings adorning the eaves were made by Teochew craftsmen in Singapore.[^7] Elements of this design still remain in the new Tangs building today and the adjacent Marriott Hotel (formerly Dynasty Hotel), both of which were completed in 1982.
-
-<span style="background-color: white;">
-<br/>
+<br><br>
 <img src="/images/vol-10-issue-3/overorchard/CK_Tang.jpg" style="width:70%;">
-C. K. Tang in the 1960s. It was demolished in 1982, replaced with an enlarged Tangs and Dynasty Hotel (now Marriott Hotel).[^4] <i>Courtesy of Bill Johnston.</i></span>
+C. K. Tang in the 1960s. It was demolished in 1982, replaced with an enlarged Tangs and Dynasty Hotel (now Marriott Hotel).[^4] <i>Courtesy of Bill Johnston.</i>
+ </span>
 
-#### **03 Heeren Building**
-
-Located at the junction of Orchard Road and Cairnhill Road, Heeren Building was designed by Keys and Dowdeswell, a Shanghai architectural firm also responsible for Capitol Cinema and Fullerton Hotel.[^8] A more modest three-storey building in the firm’s typical pseudo-Classical style, the Heeren featured long cantilevered balconies and a strong cornice as prominent elements, similar to Capitol Cinema.[^9] It was a familiar sight and home to many beloved establishments such as the Heeren beauty salon, Beethoven Music House and even a fur shop! Tan Wee Him recollects: 
-
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> <b>03 Heeren Building</b>
+<br><br>
+Located at the junction of Orchard Road and Cairnhill Road, Heeren Building was designed by Keys and Dowdeswell, a Shanghai architectural firm also responsible for Capitol Cinema and Fullerton Hotel.[^8] A more modest three-storey building in the firm’s typical pseudo-Classical style, the Heeren featured long cantilevered balconies and a strong cornice as prominent elements, similar to Capitol Cinema.[^9] It was a familiar sight and home to many beloved establishments such as the Heeren beauty salon, Beethoven Music House and even a fur shop! Tan Wee Him recollects:
+<br/><br/>
 “Now, Heeren Building is another old colonial building, three or four storeys. Right at the corner is a barber shop, facing the traffic light junction. And that row, in the old Hereen Building, facing Orchard Road side, has a record shop. And at the corner is a first shop called Ali Joo, where every time people want to go Europe or England, the rich and famous will go there and buy their fur coat”.[^10]
-
+<br/><br/>
 In 1990, the old Heeren Building was demolished for a road realignment project.[^11] In 1997, a $300-million 28-storey shopping and office complex known as the Heeren opened on part of the same site, taking over the row of pre-war shophouses linking the old Heeren Building to the former Yen San Building.[^12]
-
-<div style="background-color: white;">
-<br/>
+<br><br>
 <img src="/images/vol-10-issue-3/overorchard/heeren_building.jpg" style="width:70%;">
-The distinctive architecture of the old Heeren Building as well as anchor tenants such as the beauty salon, which had been there since the pre-war period, were familiar sights along Orchard Road up till the 1980s. <i>Singapore Tourist Promotion Board collection, courtesy of National Archives of Singapore.</i></div>
+The distinctive architecture of the old Heeren Building as well as anchor tenants such as the beauty salon, which had been there since the pre-war period, were familiar sights along Orchard Road up till the 1980s. <i>Singapore Tourist Promotion Board collection, courtesy of National Archives of Singapore.</i>
+ </span>
 
-#### **04 Singapore Chinese  Girls’ School**
-
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> <b>04 Singapore Chinese  Girls’ School</b>
+<br><br>
 The Singapore Chinese Girls’ School, formerly located at Hill Street, officially opened their premises at 37 Emerald Hill Road on 6 February 1926.[^13] The two-storey building – which cost 60,000 Straits dollars to build – offered 12 classrooms, an assembly hall, a staff room and principal’s office, with gardens planted with the fruit trees Orchard Road was known for.[^14] Started in 1899 by two prominent Straits-born Chinese community leaders – Lim Boon Keng and Song Ong Siang – it was the colony’s first English school for Chinese girls, who were taught subjects such as Malay, music, sewing and cookery.[^15] The school remained on Emerald Hill for 70 years before relocating to its present Dunearn Road site in 1994.[^16] In 1997, the school’s Emerald Hill building was added to the National Heritage’s Board’s list of significant historical sites.[^17]
-
-<div style="background-color: white;">
-<br/>
+<br><br>
 <img src="/images/vol-10-issue-3/overorchard/girl_school.jpg" style="width:70%;">
-Singapore Chinese Girls’ School students putting up a gymnastics display at the school’s Games Day in 1964, at their Emerald Hill premises. <i>Yusof Ishak collection, courtesy of National Archives of Singapore.</i></div>
-
-#### **05 Cold Storage**
-
+Singapore Chinese Girls’ School students putting up a gymnastics display at the school’s Games Day in 1964, at their Emerald Hill premises. <i>Yusof Ishak collection, courtesy of National Archives of Singapore.</i>
+ </span>
+ 
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> <b>05 Cold Storage</b>
+<br><br>
 Cold Storage, a standalone building at the time, was a landmark in Orchard Road from 1905 onwards.[^18] In addition to catering to the local demand for frozen meat and imported groceries, Cold Storage was also known for its eateries, such as Magnolia Snack Bar. Tan Wee Him recalls his student years in the 1960s:
-
+<br/><br/>
 “In the good old days, the snack bar was a popular haunt for students... Magnolia Snack Bar is supposed to be the in-place where you go for a milkshake, or the popular fish and chips for $1.80... [The milkshake] would easily cost around 80 cents... they gave you a tall glass and it also come with the aluminium mixer that contains the other half of the milkshake. So you actually got something more than you bargained for, for maybe 80, 90 cents! ... The snack bar was upfront. But Cold Storage has a restaurant on the second floor of the supermarket itself. And it’s called Salad Bowl”.[^19]
-
+<br/><br/>
 The Salad Bowl was famous for its set lunches, with three courses going for under S$6 in the 1970s. Although the Cold Storage building was supplanted by Centrepoint in the 1980s,[^20] the supermarket chain now is a common sight in many malls (including Centrepoint), both along and beyond Orchard Road. 
-
-<div style="background-color: white;">
-<br/>
+<br><br>
 <img src="/images/vol-10-issue-3/overorchard/cold_storage.jpg" style="width:70%;">
-Cold Storage at the junction of Orchard Road and Koek Road, captured below in 1970. Just across the road was the Orchard Road carpark, which was a food haven by night for hawkers. <i>Ministry of Information and the Arts collection, courtesy of National Archives of Singapore.</i></div>
+Cold Storage at the junction of Orchard Road and Koek Road, captured below in 1970. Just across the road was the Orchard Road carpark, which was a food haven by night for hawkers. <i>Ministry of Information and the Arts collection, courtesy of National Archives of Singapore.</i>
+ </span>
 
 #### **06 Pavilion**
 
