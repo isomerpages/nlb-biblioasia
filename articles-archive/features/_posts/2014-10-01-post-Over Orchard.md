@@ -81,7 +81,7 @@ Singapore Chinese Girls’ School students putting up a gymnastics display at th
 
 #### **05 Cold Storage**
 
-Cold Storage, a standalone building at the time, was a landmark in Orchard Road from 1905 onwards.[^18] In addition to catering to the local demand for frozen meat and imported groceries, Cold Storage was also known for its eateries, such as the Magnolia Snack Bar. Tan Wee Him recalls his student years in the 1960s:
+Cold Storage, a standalone building at the time, was a landmark in Orchard Road from 1905 onwards.[^18] In addition to catering to the local demand for frozen meat and imported groceries, Cold Storage was also known for its eateries, such as Magnolia Snack Bar. Tan Wee Him recalls his student years in the 1960s:
 
 In the good old days, the snack bar was a popular haunt for students... Magnolia Snack Bar is supposed to be the in-place where you go for a milkshake, or the popular fish and chips for $1.80... [The milkshake] would easily cost around 80 cents... they gave you a tall glass and it also come with the aluminium mixer that contains the other half of the milkshake. So you actually got something more than you bargained for, for maybe 80, 90 cents! ... The snack bar was upfront. But Cold Storage has a restaurant on the second floor of the supermarket itself. And it’s called Salad Bow.[^19]
 
