@@ -48,6 +48,8 @@ Thomsen left Singapore in 1834 under a cloud after selling the Mission Press’ 
 
 – Written by Ong Eng Chuan
 
+<a href="/vol-11/issue-4/jan-mar-2016/"><center>Back to Issue</center></a>
+
 #### **NOTES**
 [^1]:O'Sullivan, L. (1984). The London Missionary Society: A written record of missionaries and printing presses in the Straits Settlements, 1815–1847. [*Journal of the Malaysian Branch of the Royal Asiatic Society*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4126333)*, 57* (2) (247), 73. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
 [^2]:Makepeace, W., Brooke G. E., & Braddell, R. St. J. (Eds.). (1991). [*One hundred years of Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6203718) (Vol. 2, p. 236). Singapore: Oxford University Press. Call no.: RSING 959.57 ONE-[HIS].
