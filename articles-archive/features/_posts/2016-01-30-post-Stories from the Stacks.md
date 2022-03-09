@@ -84,6 +84,8 @@ Look out also for the collection of delightful [English nursery rhymes translate
 <div>
 	<b>Chung Sang Hong</b> is Assistant Director, Exhibitions & Curation, with the National Library of Singapore. His responsibilities include project management and the curation of exhibitions.</div>
 	
+<a href="/vol-11/issue-4/jan-mar-2016/"><center>Back to Issue</center></a>
+	
 #### **NOTES**
 [^1]:Oxford University Press. (2015). *Stack*. Retrieved from Oxford Dictionaries website. 
   
