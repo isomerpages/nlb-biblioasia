@@ -1,15 +1,16 @@
 ---
 title: Raffles Hotel & the Romance of Travel
 date: 2014-10-01
-permalink: /vol-10/issue-3/oct-dec-2014/raffles-hotel
+permalink: /vol-10/issue-3/oct-dec-2014/raffles-hotel-singapore-history
 image: /images/vol-10-issue-3/raffles/cover.jpg
 layout: post
+description: ""
 ---
 #### **Gretchen Liu** traces the history of this grand hotel, from its heyday of glitz and glamour to near ruin and its subsequent reincarnation into the heritage icon it is today.
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-3/raffles/cover.jpg">
+<img src="/images/vol-10-issue-3/raffles/raffles_cover.jpg">
 Jinrickshaws picking up travellers just outside Raffles Hotel, circa 1910. <i>Courtesy of Raffles Singapore.</i></div>
 
 For over a century, Raffles Hotel has shared Singapore’s prosperity and endured its vicissitudes, along the way becoming one of those rare places in the world where truth, legend, myth and mystery merge effortlessly together. The very name conjures up all that is romantic in travel. Over the years, the hotel has enjoyed several incarnations: modest start-up, grand caravanserai, fable-encrusted attraction, faded dowager, national landmark and restored beauty. The story of how Raffles Hotel became so celebrated, and how it survived when so many other hotels fell by the wayside, begins over a century ago and connects with the larger story of the “Golden Age of Travel” when, for the first time in human history, people began to circumnavigate the globe for the pleasure of taking in the sights.
@@ -43,11 +44,6 @@ Eventually four brothers – Martin, Tigran, Aviet and Arshak – were involved 
 
 During Raffles Hotel’s first two decades, Tigran oversaw almost unabated construction. Three projects were completed in 1890: a pair of buildings comprising 22 suites flanking the old bungalow and the first iteration of the Billiard Room. In 1894, the Palm Court Wing was completed on the adjacent parcel of land at No 3 Beach Road, adding another 30 suites to the inventory.
 
-<div style="background-color: white;">
-<br/>
-<img src="/images/vol-10-issue-3/raffles/the_armenians.jpg">
-The Armenians behind the success of Raffles Hotel. From left: manager Joe Constantine, brothers Tigran and Martin Sarkies (seated), and accountant Martyrose Sarkies Arathoon in 1906. <i>Courtesy of Raffles Singapore.</i></div>
-
 #### **The Main Building Opens in 1899**
 
 In 1899, the magnificent Main Building was constructed, replacing the original Beach House. The hotel’s grand opening in November was celebrated in style and secured Raffles’ status as a Grand Hotel. Beneath its elegant “Renaissance-style” exterior, the Main Building was thoroughly modern with its own generator, among Singapore’s first, powering electric lights, ceiling fans and a network of call bells. The design was unconventional as the ground floor was given over to the “Grand Marble Dining Saloon capable of seating 500”.
@@ -60,20 +56,25 @@ Tigran, ever the merchant, proudly, and often, advertised this fact: “First Cl
 
 In the minds of many, Raffles Hotel was now inexorably linked with Singapore as the great “Crossroads of the East”. As one traveller remarked in 1912, “Singapore is the only city which everyone encircling the globe is forced to visit, at least for a day.” The ritual of arrival was often described in early travel books, the first impression of lush coconut groves, mangrove swamps and coastal villages giving way to praise for the expanse of handsome buildings – Singapore’s own Bund – lining the shore as the town came into view. The large steamers operated by international companies moored at the expanded Tanjong Pagar Wharves, two miles from town. Smaller steamers handling regional routes discharged passengers in the open roadstead where they were ferried to Johnston’s Pier, later replaced by Clifford Pier. 
 
-Raffles’ management strived to stay ahead of the competition. Refinements large and small were ongoing. A telephone system and elevator were installed around 1907. Other innovations included a dark room for amateur photographers, cinema evenings, roller skating parties in the Dining Room and lawn tennis in the gardens. The private jinrikisha (two-wheeled carriages pulled by human labour) were replaced by a motor garage with a fleet of passenger cars for hire. 
+Raffles’ management strived to stay ahead of the competition. Refinements large and small were ongoing. A telephone system and elevator were installed around 1907. Other innovations included a dark room for amateur photographers, cinema evenings, roller skating parties in the Dining Room and lawn tennis in the gardens. The private <i>jinrikisha</i> (two-wheeled carriages pulled by human labour) were replaced by a motor garage with a fleet of passenger cars for hire. 
 
 Behind the scenes, the kitchens were frequently upgraded with the latest in culinary technology. Raffles even had its own slaughterhouse, located away from the hotel, and, briefly, a dairy farm. Travellers noticed: “Raffles is one of the oldest and yet one of the most modern hotels in Singapore, for every effort is made to keep pace in all directions in the matter of building fixtures, appliances,” praised a writer in 1917.
-
-<div style="background-color: white;">
-<br/>
-<img src="/images/vol-10-issue-3/raffles/ballroom.jpg" style="width:70%;">
-The ballroom of Raffles Hotel opened in 1921 and was reputed to be the largest hotel ballroom in the east at the time. <i>Courtesy of Raffles Singapore.</i></div>
 
 Tigran Sarkies did not live to read that praise. He set sail for England in November 1910 and two years later Singapore papers carried news of his death at St Leonard’s-on-Sea in Sussex, England. He was 51. His obituary noted that he had been ill for some time so his death was not unexpected. The business of Sarkies Brothers, Hotel Proprietors, however, continued without interruption. 
 
 Aviet, now senior partner, continued to oversee Raffles from Rangoon and left the day-to-day affairs to others. Two fellow Armenians now played key roles: Joe Constantine, manager from 1903 to 1915, and Martyrose Sarkies Arathoon who joined as an accountant in 1906 and was made partner in the Sarkies Brothers business in 1918, when he essentially took charge. 
 
 The 1920s was, on the whole, a splendid decade for Raffles. The opening of the ballroom in January 1921 was timed perfectly to usher in the “roaring twenties” with an in-house band and nightly dancing. Large groups of tourists now regularly visited Singapore on round-the-world cruises. In 1925 alone, Raffles made arrangements to entertain some 3,000 tourists from six different ships. Evenings took the form of an elegant cruise dinner and dance laid out in the spacious ballroom. When it was realised that the hotel’s best cutlery was being pocketed as souvenirs, inexpensive pieces were substituted.
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-3/raffles/ballroom.jpg" style="width:70%;">
+The ballroom of Raffles Hotel opened in 1921 and was reputed to be the largest hotel ballroom in the east at the time. <i>Courtesy of Raffles Singapore.</i></div>
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-3/raffles/the_armenians.jpg">
+The Armenians behind the success of Raffles Hotel. From left: manager Joe Constantine, brothers Tigran and Martin Sarkies (seated), and accountant Martyrose Sarkies Arathoon in 1906. <i>Courtesy of Raffles Singapore.</i></div>
 
 <div style="background-color: white;">
 <br/>
@@ -102,8 +103,6 @@ By the mid-1930s, Raffles’ fortunes were back on the mend. People resumed trav
 
 Although still ranked as one of the best hotels in the East, one visitor observed, not without fondness, that Raffles was “cherished rather for its Somerset Maugham associations than for the distinction of its décor”. The management responded by bestowing a new title on Raffles – “the historic hotel of Singapore”. And so it was called on hotel stationery and in advertisements. In the eyes of many, Raffles was no longer just a hotel but a meeting place of world travellers, an attraction in its own right that once visited could be added to the list of sights seen and extolled. It had become an icon that was perceived to be romantic and exotic in travel and a symbol of the fables of the East – immortalised by writers, patronised by all.
 
-Raffles Hotel had become an icon that was perceived to be romantic and exotic in travel and a symbol of the fables of the East – immortalised by writers, patronised by all. 
-
 With this we come to the end of the story of Raffles Hotel’s early heyday – but not the end of the Raffles story. On 16 February 1942, Raffles was taken over by the invading Japanese forces and renamed Syonan Ryokan – Light of the South Hotel, and after the Japanese exited in August 1945, it was briefly occupied by the Allied forces. But the hotel emerged from the war relatively unscathed. “Like a dowager at the end of a long night, she showed a touch of genteel shabbiness but no real scars”, recalled the Australian journalist Harry Gordon in 1946.
 
 The 1950s were a happy decade. Raffles remained the haunt of the well-to-do and well-known. Buoyant conditions financed a much-needed facelift with suites and public areas modernised and airconditioning installed. For some visitors the patina of age took on negative connotations. Oswald Wynd, in his novel <i>Moon of the Tiger</i> published in 1958, described Raffles as “alien to the time, a hangover from something that really no longer existed. Even the (war) hadn’t altered the tone permanently; it had returned to being something colonial, cool and pillared, once again consecrated to the doings of the Tuans and Mems who, as a species, were doomed”.
@@ -124,7 +123,7 @@ The lease signed in 1887 was renewed periodically. Significantly, the hotel was 
 <br><br>
 It must be noted that Syed Mohamed was an outstanding landlord. He funded most of the early building projects and it is his name that appears on most of the original Raffles Hotel building plans that survive in the National Archives, Singapore.
 <br><br>
-This article was adapted from the book Raffles Hotel by Gretchen Liu, Editions Didier Millet, Singapore, 2006.</span>
+This article was adapted from the book <i>Raffles Hotel</i> by Gretchen Liu, Editions Didier Millet, Singapore, 2006.</span>
 
 <p style="font-size:15px;"><b>Gretchen Liu</b> is a former journalist and book editor as well as the author of several illustrated books, including <i>Pastel Portraits: Singapore’s Architectural Heritage</i> and <i>Singapore: A Pictorial History</i>. As the former curator of the Raffles Hotel Collection, she oversaw all of the heritage projects during the hotel’s 1989–1992 restoration and for some years after that.</p>
 

@@ -1,11 +1,12 @@
 ---
 title: "Kampung Living: A–Z"
 date: 2014-01-01
-permalink: /vol-9/issue-4/jan-march-2014/kampung-living
+permalink: /vol-9/issue-4/jan-march-2014/kampung-living-singapore
 image: /images/vol-9-issue-4/kampong/trained_midwife.jpg
 layout: post
 description: ""
 ---
+
 #### It’s hard to believe that Singapore was once a sleepy village outpost. Re-live those nostalgic kampung days with this laundry list of life as it once was.
 
 <div style="background-color: white;">
@@ -13,7 +14,7 @@ description: ""
 <img src="/images/vol-9-issue-4/kampong/malay_house.jpg" style="width:70%;">
 A Malay house in Kampong Bedok Luat. <i>Courtesy of National Archives of Singapore.</i></div>
 
-Singapore is a City that Rarely Sleeps – commuters, workers, students and holiday-makers contribute to its near-insomniac thoroughfares, offices and shopping malls, blurring the transition from night to day. The breaking of dawn was more discernible until the early 1970s when many parts of Singapore were made up of <i>kampongs</i> (villages). Then, distinct sounds and habits signalled the end of nighttime and the start of a new day as W. Alexander wrote in <i>The Straits Times</i> in 1936:
+Singapore is a city that rarely sleeps – commuters, workers, students and holiday-makers contribute to its near-insomniac thoroughfares, offices and shopping malls, blurring the transition from night to day. The breaking of dawn was more discernible until the early 1970s when many parts of Singapore were made up of <i>kampungs</i> (villages). Then, distinct sounds and habits signalled the end of nighttime and the start of a new day as W. Alexander wrote in <i>The Straits Times</i> in 1936:
 
 Nowhere in the world does the first flush of dawn [signal] a more rapid and general awakening than in Singapore... The noisy splash of water indicates early ablutions in one direction, while from another the clatter of cooking utensils and plates gives promise of breakfast on the way. Charcoal fires, slumbering throughout the night, leap to life when fanned... while a noisy clatter as pails are banged on stone draws attention to the first patron of the standpipe — an elderly woman who carries her burdens slung from a yoke... Perhaps a quarter of an hour, perhaps twenty minutes after the first streak in the sky, Singapore has fully awakened from its slumber.[^1]
 
@@ -34,7 +35,7 @@ In the early 1950s, the prices of firewood and charcoal soared, prompting the go
 
 The <i>bidan kampung</i> (also known as <i>Mak Bidan</i> in Malay, or <i>jie sheng fu</i> in Chinese) — traditional midwives — were once the preferred choice of pregnant mothers. What many <i>bidan</i> lacked in certification they made up with experience. In fact in 1949, more babies were delivered at home in <i>kampungs</i> by rural midwives than at Kandang Kerbau Hospital (KK).[^12] Families were poor but still continued to have children. In the 1950s, babies were born at the rate of 1,000 a week. [^13] <i>Bidans</i> literally lost sleep over this frenzied reproduction, with one <i>bidan</i> confessing in <i>The Singapore Free Press</i>, “Sometimes I’d like to pretend I haven’t heard the bell and turn over and go to sleep... but I never do. I always think of the poor mother waiting for me.”[^14]
 
-The modern <i>bidan</i> or government-trained midwife, fondly called “missy”, surfaced when the colonial government felt that the infant mortality rate was too high and that Singapore needed the guiding hand of western maternity services. The “missy” visited <i>kampungs</i> and co-existed with the <i>bidan</i>. Her trademark was the neat white uniform, but keeping it white was a challenge during her <i>kampung</i> rounds. The sight of a “missy” was often a welcome forebearer of an <i>akan datang</i> (meaning “coming soon”) member to the kampung.
+The modern <i>bidan</i> or government-trained midwife, fondly called “missy”, surfaced when the colonial government felt that the infant mortality rate was too high and that Singapore needed the guiding hand of western maternity services. The “missy” visited <i>kampungs</i> and co-existed with the <i>bidan</i>. Her trademark was the neat white uniform, but keeping it white was a challenge during her <i>kampung</i> rounds. The sight of a “missy” was often a welcome forebearer of an <i>akan datang</i> (meaning “coming soon”) member to the <i>kampung</i>.
 
 <div style="background-color: white;">
 <br/>
@@ -83,7 +84,7 @@ It was easy to identify the marble king of a district as he usually strutted aro
 
 One of most exhilarating <i>kampung</i> games, <i>hantam</i> (or <i>hentam</i>) bola or <i>rembat bola</i> (whack ball) is a fiercely competitive and physical game. Speed and power reign supreme; players from one team will chase and hit their opponents with a tennis ball as one player described, “I was very good at <i>hantam bola</i> in my younger days, catch tennis ball with left hand and whack anyone in front with the right hand.” 
 
-If unlucky, the ball would <i>kena</i> (hit) your face or head (followed by “<i>tao pio ah</i>” or “hit lottery”, a euphemism for being doused on the head with bird poop). Playing <i>hantam bola</i> in the rain would send one rolling into muddy puddles but the fun would end immediately when your mother saw your dirty state; she would <i>hantam</i> (whack) you instead![^25], [^26]
+If unlucky, the ball would <i>kena</i> (hit) your face or head (followed by “<i>tao pio ah</i>” or “hit lottery”, a euphemism for being doused on the head with bird poop). Playing <i>hantam bola</i> in the rain would send one rolling into muddy puddles but the fun would end immediately when your mother saw your dirty state; she would <i>hantam</i> (whack) you instead![^25]<sup>,</sup> [^26]
 
 #### **Itinerant Hawkers: Unlicensed Taste**
 
@@ -107,7 +108,7 @@ The aim of this game is to get a free piggyback ride from your opponent (picture
 <img src="/images/vol-9-issue-4/kampong/keleret.jpg" style="width:70%;">
 <i>Keleret</i> must be played in pairs or teams. Flat stones or tiles (<i>batu keleret</i>) are thrown to get close to the target line or circle (1950s). <i>Courtesy of Singapore Sports Council (SSC) collection, courtesy of National Archives of Singapore.</i></div>
 
-#### **Lambong Tin (or "Hide-And-Seek", "I Spy" or Nyorok-Nyorok)**
+#### **Lambong Tin (or "Hide-and-Seek", "I Spy" or Nyorok-Nyorok)**
 
 Prior to the start of the game, a <i>pasang</i> (Malay for catcher) or spy would be selected via <i>oh somm</i> or <i>oh beh som</i> or <i>wah peh ya som</i> (see text box). Next, everyone would gather around and one player would shake a tin that had been filled with stones and then fling it. The moment the tin was flung, everyone would disperse. 
 
@@ -130,7 +131,7 @@ Today, when a housewife in the midst of cooking realises she has no salt in her 
 
 #### **Open-air Cinemas = Open Skies Treatment**
 
-Children who lived in rural areas were able to enjoy movies thanks to open air cinemas. It cost 50 cents to secure a (wooden) seat. Many children caught reruns after school and when it rained, people would huddle to the side for shelter. One movie-goer remembered “patronising the cheap open air cinema called Peking Theatre located opposite the present Macpherson market... [movies were only] 5 cents but [one had] to endure the mosquitoes and there were no refunds if the show was cancelled due to heavy rain or power failure.”[^32]
+Children who lived in rural areas were able to enjoy movies thanks to open-air cinemas. It cost 50 cents to secure a (wooden) seat. Many children caught reruns after school and when it rained, people would huddle to the side for shelter. One movie-goer remembered “patronising the cheap open air cinema called Peking Theatre located opposite the present Macpherson market... [movies were only] 5 cents but [one had] to endure the mosquitoes and there were no refunds if the show was cancelled due to heavy rain or power failure.”[^32]
 
 #### **Police and Thief**
 
@@ -159,7 +160,7 @@ Before blenders and food processors, stoneware ruled the kitchen and came in a f
 
 The game starts with a child sitting on an <i>upih</i> (dried palm leaf) which is then dragged by his friend with as much speed as he can muster. The team that crosses the finishing line with the “passenger” <i>still</i> on top of the <i>upih</i> wins. Girls, or the leaner ones, almost always enjoyed “priority seating” because it did not pay to have a heavyset player sit on the <i>upih</i> if the team wanted to win. The steeper the slope, the bigger the thrill and the trickier it was to remain on the <i>upih</i>.[^38]
 
-#### **Use-First-Pay-Later: 555 Notebook**
+#### **Use-first-pay-later: 555 Notebook**
 
 The “555” notebook — with literally these numbers printed on the front cover — was used by businesses to keep a record of customers’ tabs. It was a system built on trust: “When you go [to the provision store], you buy provisions from them... you can just take [items], there’s a little book and then they will write your name, block, your address and all this... And then, [at the] end of the month they will tell you how much you owe them.”[^39] This handy little notebook also went round the <i>kopitiam</i> and <i>warungs</i> (coffeeshops) taking unpaid orders. At the end of the month however, the “owner would wave the 555 notebook; [a reminder] that the bills had not been settled.” [^40]
 
@@ -188,11 +189,11 @@ This slim rectangular wooden block was a dirt-crusher that all housewives swore 
 
 #### **"Xtreme" Disasters: Floods and Fires**
 
-<i>Kampungs</i> were subject to frequent flooding that occurred during heavy rainfall. The flood waters often dragged objects in its wake and, once, the residents of Lorong Kinchir were astounded to spot a crocodile in the Kallang River near their <i>kampung</i> after a huge flood – apparently an inmate that had managed to escape from the Lorong Chuan farm.[^49]
+<i>Kampungs</i> were subject to frequent flooding that occurred during heavy rainfall. The flood waters often dragged objects in their wake and, once, the residents of Lorong Kinchir were astounded to spot a crocodile in the Kallang River near their <i>kampung</i> after a huge flood – apparently an inmate that had managed to escape from the Lorong Chuan farm.[^49]
 
-Kampungs were also vulnerable to fires due to their wooden and <i>attap</i> structures. The Bukit Ho Swee fire of 1961 is one that is etched in the nation’s consciousness. The famous 19th-century Malay writer Munsyi Abdullah was living in Kampong Glam when it was gutted by a fire in 1847, robbing him of his valuables and letters. The incident so affected the writer that he was moved to pen his now-famous poem “Syair Kampung Glam Terbakar (Kampong Gelam On Fire)” that was published in the same year.[^50]
+<i>Kampungs</i> were also vulnerable to fires due to their wooden and <i>attap</i> structures. The Bukit Ho Swee fire of 1961 is one that is etched in the nation’s consciousness. The famous 19th-century Malay writer Munsyi Abdullah was living in Kampong Glam when it was gutted by a fire in 1847, robbing him of his valuables and letters. The incident so affected the writer that he was moved to pen his now-famous poem “Syair Kampung Glam Terbakar” (Kampong Gelam On Fire) that was published in the same year.[^50]
 
-#### **Yeh Yeh (Zero-Point)**
+#### **Yeh Yeh (Zero-point)**
 
 <i>Yeh yeh</i> requires a rope that is made by stringing rubber bands together. The aim is to jump over the rope as it is hoisted higher and higher by two other players each holding one end of the rope. At the start of the game, the rope is laid flat on the ground with players exclaiming “zero-point” as they jump over. Players then jump across at increasingly “varying heights beginning with the ankle and ending with the head. To compete further, an ‘inch’ above the head is added. The rule of thumb is no part of [your] body can touch the rubber rope. Once any part of [the] body accidentally touch[es] the rope, the jumper <i>‘mati’</i> (‘dies’) and the next person has to jump.”[^51]
 
@@ -205,12 +206,12 @@ However, many unfortunate villagers became victims of fires as a result of accid
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> 
 <b>OH BEY SOM!</b>
 <br><br>
-<i>Oh bey som</i> was a means by which teams or individual players were selected. Player would shout "<i>oh bey som</i>!" and simultaneously stick out their hands with their palms facing either up or down. All who had their palms facing in the same direction would be part of one team, and the rest on the other. A player would be singled out to be the <i>pasang</i> (catcher) if he or she was the only person with the palm facing a different direction from the rest of the group. Otherwise, the players would continue to <i>oh bey som</i>, eliminating the majority until a single player remained.</span>
+<i>Oh bey som</i> was a means by which teams or individual players were selected. Players would shout "<i>oh bey som</i>!" and simultaneously stick out their hands with their palms facing either up or down. All who had their palms facing in the same direction would be part of one team, and the rest on the other. A player would be singled out to be the <i>pasang</i> (catcher) if he or she was the only person with the palm facing a different direction from the rest of the group. Otherwise, the players would continue to <i>oh bey som</i>, eliminating the majority until a single player remained.</span>
 
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> 
 <b>THE TAJAM BATU MAN</b>
 <br><br>
-The <i>tajam batu</i> man was usually a Punjabi (Sikh) who made his bicycle rounds in the kampung with his sharp tools. He would call out <i>“tajam batu!”</i>, which literally means “stone sharp(ening)” in Malay. The women would take out their stone slabs that had become too smooth to crush spices for him to service. He would chisel the surface of the slabs with a giant nail and hammer, etching small holes to make the surface rough for better grinding.[^36] For some reason, adults would scare children with stories of the <i>tajam batu</i> man kidnapping children, decapitating them and offering their heads for new constructions, bridges in particular. Scenes of scampering children would often precede the arrival of this “devilish” man.[^37]</span>
+The <i>tajam batu</i> man was usually a Punjabi (Sikh) who made his bicycle rounds in the <i>kampung</i> with his sharp tools. He would call out <i>“tajam batu!”</i>, which literally means “stone sharp(ening)” in Malay. The women would take out their stone slabs that had become too smooth to crush spices for him to service. He would chisel the surface of the slabs with a giant nail and hammer, etching small holes to make the surface rough for better grinding.[^36] For some reason, adults would scare children with stories of the <i>tajam batu</i> man kidnapping children, decapitating them and offering their heads for new constructions, bridges in particular. Scenes of scampering children would often precede the arrival of this “devilish” man.[^37]</span>
 
 <p style="font-size:15px;">This article was researched by <b>Nor Afidah Abd Rahman</b>, a Senior Librarian with the National Library Board (NLB).</p>
 

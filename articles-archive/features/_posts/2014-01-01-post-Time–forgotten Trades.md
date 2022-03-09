@@ -1,11 +1,12 @@
 ---
-title: Time forgotten Trades
+title: Time–forgotten Trades
 date: 2014-01-01
-permalink: /vol-9/issue-4/jan-march-2014/forgotten-trades
+permalink: /vol-9/issue-4/jan-march-2014/forgotten-trades-singapore
 image: /images/vol-9-issue-4/forgottentrades/bg.jpg
 layout: post
 description: ""
 ---
+
 #### Unable to keep pace with Singapore’s economic progress and development, many of Singapore’s early crafts and trades have disappeared. **Sharon Teng** tells us about these trades and what is being done to remember them.
 
 <div style="background-color: white;">
@@ -13,7 +14,7 @@ description: ""
 <img src="/images/vol-9-issue-4/forgottentrades/bg.jpg">
 A barbershop along a five-foot way at Wayang Street in 1986. <i>Ronni Pinsler collection, courtesy of National Archives of Singapore.</i></div>
 
-The Streets of Chinatown, Little India and the arterial roads encircling the Central Business District were once crammed cheek by jowl with shophouses, street vendors and roadside stallholders peddling a mind-boggling variety of goods and services. These traditional peddlers are now virtually extinct — economic progress and urbanisation having dealt a death blow to these small-time trading activities. 
+The streets of Chinatown, Little India and the arterial roads encircling the Central Business District were once crammed cheek by jowl with shophouses, street vendors and roadside stallholders peddling a mind-boggling variety of goods and services. These traditional peddlers are now virtually extinct — economic progress and urbanisation having dealt a death blow to these small-time trading activities. 
 
 From the late 19th to the early 20th centuries, there was a continuous influx of unskilled immigrants from China, India and Southeast Asia who came to seek their fortunes in Singapore. Many had minimal or no education, meagre possessions and limited funds. Some were already skilled tinsmiths, goldsmiths, locksmiths, seal carvers, image carvers, boat makers, and mask and dragon makers while others with more artistic inclinations had been trained as portrait and photo artists, opera actors and actresses, glove puppeteers and calligraphers. Others picked up various trades after they arrived in Singapore by serving as apprentices to local barbers, cobblers, furniture restorers and clog makers.
 
@@ -64,7 +65,7 @@ Indian fortune tellers relied on their specially trained green parakeets to fore
 
 An Indian fortune teller, dressed in a white <i>dhoti</i> and shirt, would have had an even more basic set-up: a small table or even just the pavement itself, where a deck of 27 fortune cards would be displayed along with some charts, a notebook and caged parakeets. To supplement their paltry daily incomes of $10 to $15, they would also participate in cultural shows and trade exhibitions, earning up to $100 to $200 per job. 
 
-**Then and Now**<br>In the past, fortune tellers were usually found along five-foot-ways and in temple grounds. Today, Chinese fortune tellers are still commonly seen around Chinatown, at Kwan Im Thong Hood Cho Temple on Waterloo Street, and at older HDB estates such as Bedok, Toa Payoh and Ang Mo Kio.
+**Then and Now**<br>In the past, fortune tellers were usually found along five-foot-ways and on temple grounds. Today, Chinese fortune tellers are still commonly seen around Chinatown, at Kwan Im Thong Hood Cho Temple on Waterloo Street, and at older HDB estates such as Bedok, Toa Payoh and Ang Mo Kio.
 
 Parrot astrologers were based at Serangoon Road but they also made house calls, especially during festive occasions. Today, there are fewer than five still in business in Little India, as many Indians have ceased to believe in this method of divination.[^8]
 
@@ -93,7 +94,7 @@ An Indian ice-water seller making a syrup coated ice-ball in 1978. <i>Courtesy o
 
 **History**<br>A Malay phrase, <i>“kachang”</i> (nuts, beans or peas) and <i>“puteh”</i> (meaning white) was a popular snack up until the 1990s. The peanuts coated with melted white sugar was one of the most popular varieties and probably accounts for the name “white nuts”. <i>Kachang puteh</i> originated from an Indian snack called <i>chevdo</i>.[^10] Nuts of various colours and prepared in a variety of ways (steamed, fried, roasted or coated with sugar) were sold by the vendors, who were mostly Indian.
 
-**Job Scope**<br>The early itinerant <i>kachang puteh</i> seller hawked his wares stored in bottles or paper bags from a tray balanced on his head, moving from one location to the next. Some used pushcarts or bicycles, while others stationed themselves at fixed locales. Typically between five and 20 varieties of <i>kachang puteh</i> would be sold and each serving (either a single or mixed flavour of nuts) would be packed into rolled-up paper cones, using pages torn from old newspapers, Yellow Pages directories and school exercise books.
+**Job Scope**<br>The early itinerant <i>kachang puteh</i> seller hawked his wares stored in bottles or paper bags from a tray balanced on his head, moving from one location to the next. Some used pushcarts or bicycles, while others stationed themselves at fixed locales. Typically between five and 20 varieties of <i>kachang puteh</i> would be sold and each serving (either a single or mixed flavour of nuts) would be packed into rolled-up paper cones, using pages torn from old newspapers, <i>Yellow Pages</i> directories and school exercise books.
 
 **Tools of the Trade**<br><i>Kachang puteh</i> vendors either roasted and flavoured their own <i>kachang</i> at home (a lengthy and painstaking process) or bought ready-made <i>kachang</i> directly from suppliers.
 
@@ -245,7 +246,7 @@ Ministry of Defence. (2013). <i>Vanishing trades in Singapore</i>. Retrieved fro
 
 Nathan, D. (1990, March 12). [Indian heritage to go on show at Indian village in two weeks](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900312-1.2.30.8). <i>The Straits Times</i>, p. 19. Retrieved from NewspaperSG.
 
-National Archives of Singapore. (2002). <u>*PICAS*</u>. Retrieved from National Archives of Singapore website. 
+National Archives of Singapore. (2002). <u><i>PICAS</i></u>. Retrieved from National Archives of Singapore website. 
 
 National Archives of Singapore. (2003). <i>Collection of oral history collection database</i>. Retrieved from National Archives of Singapore website. 
 
@@ -279,9 +280,9 @@ Tan, B.H. (1983, June 27). [That old barber shop is going](http://eresources.nlb
 
 Tan, J., & Leong, W.K. (1977, November 24). [‘Protect our vanishing trades’ call to govt](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19771124-1.2.52). <i>The Straits Times</i>, p. 10. Retrieved from NewspaperSG.
 
-Teo, J. (2013). <i>Vanishing trades/Scenes in Singapore</i>. Retrieved from [Jenniferteophotography.com](Jenniferteophotography.com) website.
+Teo, J. (2013). <i>Vanishing trades/Scenes in Singapore</i>. Retrieved from Jenniferteophotography.com website.
 
-<i>The vanishing trade: Trishaws in Singapore</i>. (2010, May 17). Retrieved from [sgtrishaws.wordpress.com](sgtrishaws.wordpress.com) website.
+<i>The vanishing trade: Trishaws in Singapore</i>. (2010, May 17). Retrieved from sgtrishaws.wordpress.com website.
 
 Toh, K. (2011, September 11). [Keeping alive a vanishing trade](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20110911-1.2.11.15). <i>The Straits Times</i>, pp. 16–17. Retrieved from NewspaperSG.
 

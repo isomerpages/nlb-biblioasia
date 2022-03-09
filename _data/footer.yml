@@ -1,13 +1,12 @@
 contact_us: /contact-us/
-show_reach: 
-feedback: 
-faq: 
+show_reach: null
+feedback: null
+faq: null
 copyright_agency: National Library Board, Singapore
 social_media:
-    facebook: https://www.facebook.com/NationalLibrarySG
-    youtube: https://www.youtube.com/c/NationalLibrarySG
-    instagram: https://www.instagram.com/NationalLibrarySG/
+  facebook: https://www.facebook.com/NationalLibrarySG
+  youtube: https://www.youtube.com/c/NLBsg
+  instagram: https://www.instagram.com/NationalLibrarySG/
 links:
   - title: About Us
     url: /pages/about-us/
-

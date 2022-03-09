@@ -3,7 +3,6 @@ title: "Flower Power: Singapore's Orchid Diplomacy"
 permalink: /apr-to-jun-2022/vol-18/issue-1/singapore-orchid-diplomacy
 description: ""
 ---
-
 #### Singapore’s diplomatic efforts may take several forms, including naming hybrid orchids after foreign dignitaries. **Rebecca Tan** tells us more.
 
 ![](/images/Vol%2018%20Issue%201/Orchid%20Diplomacy/Sealara%20Nelson%20Mandela%20(credit%20NParks).png)
@@ -69,18 +68,17 @@ If the VIPs wish to grow their namesake orchid in their home country, the Singap
 
 After being presented with their namesake orchids, dignitaries may go on to view other VIP orchids of significance to them. Following the unveiling of the *Vanda* William Catherine (*Vanda* First and Last × *Vanda* Motes Toledo Blue), Britain’s Prince William and Catherine, the Duchess of Cambridge, viewed the *Dendrobium* Elizabeth (*Dendrobium* Mustard × *Dendrobium* Noor Aishah; Noor Aishah is the wife of Singapore’s first president, Yusof Ishak) and the *Dendrobium* Memoria Princess Diana, named after Prince William’s grandmother and late mother respectively. Singapore was the royal couple’s first stop in their Asia-Pacific tour to commemorate Queen Elizabeth’s Diamond Jubilee in 2012.[^27]
 
-![](/images/Vol%2018%20Issue%201/Orchid%20Diplomacy/E_Queen%20Elizabeth_and_flower.png)
-<div style="background-color: white;">(Left) Queen Elizabeth II with A.G. Alphonso, Acting Director of the Singapore Botanic Gardens, 1972. The queen had an orchid named after her, the <i>Dendrobium</i> Elizabeth. <i>Image reproduced from “A Saffron Spray Gets the Royal Vote,” Straits Times, 21 February 1972, 5. (From NewspaperSG). </i><br>(Right)The <i>Dendrobium</i> Elizabeth has twisted petals and the sepals are yellow with light greyish-purple streaks. <i>Photo by and courtesy of Jimmy Yap.</i></div>
+![](/images/Vol%2018%20Issue%201/Orchid%20Diplomacy/new%20elizabeth.png)
+<div style="background-color: white;">(Left) Queen Elizabeth II touring the Singapore Botanic Gardens, 1972. Accompanying
+her are (from left) Permanent Secretary to the Ministry of National Development Cheng Tong Fatt, Minister for Law and National Development E.W. Barker, and Acting Director of the Singapore Botanic Gardens A.G. Alphonso. The queen had an orchid named in her honour, the <i>Dendrobium</i> Elizabeth.<i> Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i><br>(Right) The <i>Dendrobium</i> Elizabeth has twisted petals and the sepals are yellow with light greyish-purple streaks. <i>Photo by and courtesy of Jimmy Yap.</i></div>
 
 
 Dignitaries may also enjoy other aspects of the Botanic Gardens during their visit. In November 2015, after the *Papilionanda* Xi Jinping-Peng Liyuan (*Vanda* Kulwadee Fragrance × *Papilionanthe* Miss Joaquim) was named in honour of the Chinese President and his wife, the couple enjoyed a four-course lunch at the Corner House restaurant in the Botanic Gardens. They were hosted by Prime Minister Lee Hsien Loong and his wife Ho Ching. The orchid has pink petals with fine red spots, an orangey-red prominent lip with dark red markings, and an orangey-yellow centre.[^28]
 
-![](/images/Vol%2018%20Issue%201/Orchid%20Diplomacy/xijinping_ed.png)
-<div style="background-color: white;">The <i>Papilionanda</i> Xi Jinping-Peng Liyuan was named in honour of the Chinese President and his wife in 2015. <i> Image reproduced from Rachel Au-Yong, “Orchid Hybrid Named After Chinese President and Wife,” Straits Times, 8 November 2015, 7. (From NewspaperSG).
-</i></div>
+
 
 ![](/images/Vol%2018%20Issue%201/Orchid%20Diplomacy/Xi%20Jinping-Peng%20Liyuan.png)
-<div style="background-color: white;">The <i>Papilionanda</i> Xi Jinping-Peng Liyuan has pink petals with fine red spots, an orangey-red prominent lip with dark red markings, and an orangey-yellow centre. <i>Photo by and courtesy of Jimmy Yap.</i></div>
+<div style="background-color: white;">The <i>Papilionanda</i> Xi Jinping-Peng Liyuan is named in honour of the Chinese President and his wife. <i>Photo by and courtesy of Jimmy Yap.</i></div>
 
 #### **Non-VIP Orchids**
 
@@ -111,6 +109,10 @@ Since then, Singapore has become well known for its expertise in breeding orchid
 To date, the Orchid Hybridisation Programme has produced more than 630 registered hybrids. Many of these hybrids, in addition to being potential VIP orchids, are also cultivated for use in landscaping and as potted plants. 
 
 While some might hanker after an orchid named after a favourite celebrity, these plants are, unfortunately, not for sale. The National Parks Board and Gardens by the Bay explained in 2015: “VIP orchids are named after individuals as a gesture of goodwill and friendship. Each named orchid is exclusive to the individual and is not for sale. This is what makes the orchid significant and special.”[^38] Hence, the only way to admire these beautiful flowers is to make a trip to the National Orchid Garden.
+
+![](/images/Vol%2018%20Issue%201/Orchid%20Diplomacy/Mahathir%202.png)
+<div style="background-color: white;">The <i>Dendrobium</i> Mahathir Siti Hasmah, a hybrid of <i>Dendrobium</i> Kiyoshi Blue and <i>Dendrobium</i> Pink Lips, is named after Tun Dr Mahathir Mohamad, the former prime minister of Malaysia, and his wife, Tun Dr Siti Hasmah binti Haji Mohamad Ali. <i>Photo by and courtesy of Jimmy Yap.
+</i></div>
 
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">The author is grateful to the National Parks Board and Peggy Tan, former president of the Orchid Society of South East Asia, for providing additional information for this essay.</div>
 

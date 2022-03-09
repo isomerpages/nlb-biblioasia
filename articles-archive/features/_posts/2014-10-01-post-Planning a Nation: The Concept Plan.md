@@ -1,9 +1,10 @@
 ---
 title: "Planning a Nation: The Concept Plan"
 date: 2014-10-01
-permalink: /vol-10/issue-3/oct-dec-2014/concept-plan
+permalink: /vol-10/issue-3/oct-dec-2014/singapore-concept-plan
 image: /images/vol-10-issue-3/conceptplan/Plan_of_the_Town_of_Singapore.jpg
 layout: post
+description: ""
 ---
 #### Singapore’s towering skyscrapers and its evolving landscape is by no means accidental. **Lim Tin Seng** walks us through the country’s various Concept Plans, each carefully put together in response to the city’s changing needs.
 
@@ -14,9 +15,9 @@ Plan of the Town of Singapore, 1823, by Lt. Philip Jackson, which is also known 
 
 Since Independence, Singapore has witnessed many dramatic changes to its urban landscape. The overcrowded city centre of the 1960s characterised by slums, filthy drains, congested roads and ageing infrastructure has been replaced by a modern business and financial hub. The streets are safe and clean, and lined with buildings that provide a vibrant mix of retail and entertainment activities. Beyond the city limits lies an impressive network of self-sufficient towns. Not only do these towns provide good quality homes and ample recreational space for residents, they are also connected to the city and each other by an efficient transportation system.
 
-The changes to Singapore’s urban landscape have been shaped by a land use strategy that has been evolving for the past five decades in tandem with the nation’s changing needs. These changes have been systematic and implemented under the guidance of the Concept Plan – the country’s strategic land use and transportation plan. By examining Singapore’s previous concept plans as well as their objectives and directions, the article will assess the impact of this planning instrument in transforming the country’s physical landscape.
+The changes to Singapore’s urban landscape have been shaped by a land use strategy that has been evolving for the past five decades in tandem with the nation’s changing needs. These changes have been systematic and implemented under the guidance of the Concept Plan – the country’s strategic land use and transportation plan. By examining Singapore’s previous concept plans as well as their objectives and directions, this article will assess the impact of this planning instrument in transforming the country’s physical landscape.
 
-#### **Raffles Town Plan and The 1958 Master Plan**
+#### **Raffles Town Plan and the 1958 Master Plan**
 
 Land use planning in Singapore is not a recent concept. In fact, the first town plan of Singapore was drawn up by surveyor Lieutenant Philip Jackson in 1823. Widely referred to as the Raffles Town Plan, it was based on instructions by Stamford Raffles to the town committee in November 1822.[^1] The aim of the town plan was to ensure “an economical and proper allotment of the ground intended to form the site of the principal town”.[^2] To this end, the plan parcelled the proposed town area, located within a 2- to 3-kilometre radius from the Singapore River, into distinctive districts for the seat of government, merchants and each of the major ethnic communities, namely the Chinese, Malays, Indians and Europeans.[^3]
 
@@ -28,7 +29,7 @@ In 1951, following an amendment to the Singapore Improvement Ordinance, the SIT 
 
 The Master Plan also catered land for schools, infrastructural facilities and recreational use, including a green belt to limit the expansion of the city.[^15] Most importantly, it accounted for the creation of new satellite towns such as Woodlands, Bulim (now a sub-zone of Jurong West) and Yio Chu Kang that were located away from the city centre.[^16] This concept was an idea borrowed from the Greater London Plan of 1944 and sought to tackle the acute overcrowding and housing problems by moving people away from the city centre to outlying areas.[^17]
 
-Despite the comprehensive planning, the 1958 Master Plan was fundamentally a static concept, providing for limited and predictable change and for a city of finite size.[^18] The land use changes it proposed were based on the assumption that urban growth would be slow and steady, premised on a projected population of 2 million by 1972.[^19] The plan also assumed that the private rather than the public sector would lead the physical development of the city after Singapore achieved full internal self-government in 1959.[^20] With such a rigid and limited scope, the 1958 Master Plan was unable to respond the to the country’s land use pattern which changed dramatically after the newly elected People’s Action Party (PAP) government introduced a series of large-scale housing and industrial projects.[^21] Recognising the ineffectiveness of the Master Plan, the government decided to review the plan’s planning strategies with the intention of replacing them with a more responsive instrument to facilitate long-term planning in land use.[^22]
+Despite the comprehensive planning, the 1958 Master Plan was fundamentally a static concept, providing for limited and predictable change and for a city of finite size.[^18] The land use changes it proposed were based on the assumption that urban growth would be slow and steady, premised on a projected population of 2 million by 1972.[^19] The plan also assumed that the private rather than public sector would lead the physical development of the city after Singapore achieved full internal self-government in 1959.[^20] With such a rigid and limited scope, the 1958 Master Plan was unable to respond to the country’s land use pattern which changed dramatically after the newly elected People’s Action Party (PAP) government introduced a series of large-scale housing and industrial projects.[^21] Recognising the ineffectiveness of the Master Plan, the government decided to review the plan’s planning strategies with the intention of replacing them with a more responsive instrument to facilitate long-term planning in land use.[^22]
 
 <div style="background-color: white;">
 <br/>
@@ -47,26 +48,16 @@ Interestingly, the injection of the Concept Plan into Singapore’s land plannin
 
 Based on the planning directions set out in the Concept Plan and Master Plan, land for development is then released through the Government Land Sales (GLS) programme. Singapore’s built heritage is not forgotten in this strategy as conservation plans are also drawn up to preserve the city’s overall urban design.[^32] All these different stages of planning and implementation ensure that the country’s limited land resources are optimised to the fullest and the urban environment made attractive.[^33]
 
+#### **The 1971 Concept Plan**
+
+The Concept Plan has been revised several times since its introduction in 1971. In each revision, an overall strategy was adopted to ensure that the country’s land use plans met the changing needs of the nation. New features were added based on these strategies, which in turn had a profound effect on Singapore’s physical landscape. For instance, the 1971 Concept Plan was drafted with the infrastructure needs of a new nation in mind. As such, the plan was instrumental in laying the foundation of Singapore’s transportation infrastructure.[^34] Key transport developments such as Changi Airport, the Mass Rapid Transit (MRT) system and the island-wide network of expressways were the outcomes of strategies outlined in the 1971 Concept Plan.[^35] Apart from serving the needs of an industrialised economy, these developments also facilitated the “Ring Plan” structure.[^36]
+
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-10-issue-3/conceptplan/1971_Concept_Plan.jpg" style="width:70%;">
 1971 Concept Plan © Urban Redevelopment Authority. <i>All rights reserved.</i></div>
 
-<div style="background-color: white;">
-<br/>
-<img src="/images/vol-10-issue-3/conceptplan/1991_Concept_Plan.jpg" style="width:70%;">
-1991 Concept Plan © Urban Redevelopment Authority. <i>All rights reserved.</i></div>
-
-#### **The 1971 Concept Plan**
-
-The Concept Plan has been revised several times since its introduction in 1971. In each revision, an overall strategy was adopted to ensure that the country’s land use plans meet the changing needs of the nation. New features were added based on these strategies, which in turn had a profound effect on Singapore’s physical landscape. For instance, the 1971 Concept Plan was drafted with the infrastructure needs of a new nation in mind. As such, the plan was instrumental in laying the foundation of Singapore’s transportation infrastructure.[^34] Key transport developments such as Changi Airport, the Mass Rapid Transit (MRT) system and the island-wide network of expressways were the outcomes of strategies outlined in the 1971 Concept Plan.[^35] Apart from serving the needs of an industrialised economy, these developments also facilitated the “Ring Plan” structure.[^36]
-
 The Ring Plan was the 1971 Concept Plan’s strategy to move the population, projected to hit 4 million by 1991, out of the overcrowded central area to outlying satellite towns. This is similar to the satellite town concept proposed in the 1958 Master Plan, albeit on a grander scale. The Ring Plan is a ring of high-density satellite residential towns encircling the central water catchment area.[^37] Populated with mostly medium-density and high-density public housing, the plan was for the towns to be linked to each other as well as to the Jurong Industrial Estate and the city area by the MRT and expressways. At the same time, the satellite towns were to be separated from each other by a system of parks and green spaces – another key feature of Singapore’s present landscape.[^38] The central area was designed to be a strong financial business district to attract foreign capital as well as local investments and expedite Singapore’s industrialisation programme.[^39]
-
-<div style="background-color: white;">
-<br/>
-<img src="/images/vol-10-issue-3/conceptplan/Tanjong_Pagar.jpg" style="width:70%;">
-Shophouses in the Tanjong Pagar area were among the first heritage structures to be restored in 1987. <i>MITA collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **The 1991 Concept Plan**
 
@@ -77,6 +68,11 @@ To realise this higher quality of living, the Concept Plan introduced a “Green
 To meet the needs of the changing economic structure, particularly to facilitate the growth of high-technology industries, the 1991 Concept Plan called for the creation of technological corridors. Comprising business parks, science parks and academic institutions, these corridors were designed to provide researchers with integrated working, living and leisure environments. Situated near existing tertiary institutions, these corridors aim to facilitate the exchange of ideas and innovation among researchers at all levels.[^48] The establishment of Science Park and OneNorth in the western part of Singapore near the National University of Singapore and Singapore Polytechnic are the outcomes of this proposal.[^49] Besides technological corridors, the Concept Plan catered for other value-added industries, proposing for the amalgamation of the southern islands off Jurong to support the development of a petrochemical industry.[^50] It also planned for a new downtown to be created in Marina South to expand the business district.[^51]
 
 The 1991 Concept Plan also included the creation of 10 new satellite towns to accommodate a population that was projected to hit 3.23 million by 2000. It also revised the 1971 Ring Plan to a “Constellation Plan”. Based on a policy of decentralisation, this housing strategy was to “fan” the commercial centres out to the heartlands so that jobs could be brought closer to homes and alleviate congestion in the city centre. The plan called for the development of regional and sub-regional commercial centres that would be served by new expressways and MRT lines.[^52] This led to the development of the Woodlands, Tampines and Jurong East regional centres respectively in the northern, eastern and western parts of Singapore as well as the introduction of the North-East MRT line and the Paya Lebar Expressway.[^53]
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-3/conceptplan/1991_Concept_Plan.jpg" style="width:70%;">
+1991 Concept Plan © Urban Redevelopment Authority. <i>All rights reserved.</i></div>
 
 #### **The 2001 Concept Plan**
 
@@ -90,20 +86,23 @@ The most recent review of the Concept Plan was carried out in 2011. However, the
 
 The key findings included: the creation of more people-centric homes; incorporation of the principles of community and inter-generational bonding in the design of public housing; better community facilities and infrastructure; expanding existing public transportation and park connector systems; strengthening the nation’s green infrastructure; and protecting the country’s built heritage.[^63] These findings serve as the backdrop for a number of initiatives in the Land Use Plan. For example, the “Remaking Our Heartland” programme hopes to redevelop older estates such as East Coast, Yishun and Queenstown with more people-centric homes and multi-generational facilities, while the “City in the Garden” vision will see the creation of more parks and a 150-kilometre Round-Island-Route that will link the major built and natural heritage landmarks of Singapore.[^64]
 
-#### **More Concept Plans Ahead**
-
-It is clear that the government will continue to use the Concept Plans to express its long-term planning intentions. Through a collective consultative process with relevant government agencies and the public, the Concept Plan of the future will continue to chart the land use and infrastructure development of Singapore, create solutions to safeguard the environment, sustain the economy and improve the quality of living for future generations. The Concept Plans will also be reviewed regularly so that they can remain flexible and responsive in order to meet the changing needs of the nation.
-
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-10-issue-3/conceptplan/2013_land_use_plan_re.jpg" style="width:70%;">
 2013 Land Use Plan © Urban Redevelopment Authority. <i>All rights reserved.</i></div>
 
+#### **More Concept Plans Ahead**
+
+It is clear that the government will continue to use the Concept Plans to express its long-term planning intentions. Through a collective consultative process with relevant government agencies and the public, the Concept Plan of the future will continue to chart the land use and infrastructure development of Singapore, create solutions to safeguard the environment, sustain the economy and improve the quality of living for future generations. The Concept Plans will also be reviewed regularly so that they can remain flexible and responsive in order to meet the changing needs of the nation.
+
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> 
-<b>Preserving Heritage</b>
+<b>PRESERVING HERITAGE</b>
 <br><br>
 One of the most enduring impacts of the nation’s town planning efforts was the launch of the conservation programme in the 1980s. Prior to that, the lack of an articulated conservation plan had resulted in the demolition of many buildings with historical and architectural significance such as Bukit Rose in Bukit Timah, the OId China Building and the Old Arcade in the name of progress.[^45] As noted in the 1991 Concept Plan, the aim of conservation is preserve the nation’s built heritage so that historic buildings can be used as physical landmarks that illustrate Singapore’s rich, multi-ethnic background.[^46] The first shophouses to be conserved and restored were in Tanjong Pagar in 1987. Thereafter, over 7,000 heritage buildings and structures in more than 100 locations were gazetted for conservation. These buildings were selected based on their architectural significance and rarity; cultural, social, religious and historical significance; contribution to the environment and identity; and economic impact.[^47]
- </span>
+<br/><br/>
+<img src="/images/vol-10-issue-3/conceptplan/Tanjong_Pagar.jpg" style="width:70%;">
+Shophouses in the Tanjong Pagar area were among the first heritage structures to be restored in 1987. <i>MITA collection, courtesy of National Archives of Singapore.</i>
+</span>
  
  <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> <b>MARINA BAY DOWNTOWN: A VISION FROM 1991</b>
 <br><br>
@@ -111,7 +110,8 @@ Spanning 360 hectares, Marina Bay downtown is the extension of Singapore’s cen
 <br><br>
 <img src="/images/vol-10-issue-3/conceptplan/Marina_Bay.jpg" style="width:70%;">The development of Marina Bay downtown was first proposed in the 1991 Concept Plan. <i>Courtesy of Gardens by the Bay.</i>
  </span>
-
+ <br/>
+<img style="width:100px;height:100px;margin-bottom:-30px; border-radius:100%; box-shadow: 1px 2px 0px #424242;" src="/images/vol-10-issue-3/conceptplan/Lim_Tin_Seng.jpg">
 <p style="font-size:15px;"><b>Lim Tin Seng</b> is a Librarian with the National Library of Singapore. He is the co-editor of Roots: Tracing Family Histories – A Resource Guide (2013); Harmony and Development: ASEAN-China Relations (2009) and China’s New Social Policy: Initiatives for a Harmonious Society (2010).</p>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-10/issue-3/oct-dec-2014/"><center>Back to Issue</center></a>
@@ -137,7 +137,7 @@ Ministry of National Development. (2013). *[A high quality living environment fo
 
 Ong, K. Y., & Lee, T.Y. (2010). *[Final report of focus group on sustainability and identity: Concept plan review 2011](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200142054)*. Singapore: Urban Redevelopment Authority. (Call no.: RSING 307.76095957 SIN)
 
-Pearson, H.F. (1969, July). Lt. Jackson’s plan of Singapore. <i>Journal of the Malaysian Branch of the Royal Asiatic Society</i>, 42 (1) (215), pp. 161–165. Retrieved from JSTOR via NLB’s eResources website.
+Pearson, H.F. (1969, July). Lt. Jackson’s plan of Singapore. <i>Journal of the Malaysian Branch of the Royal Asiatic Society</i>, 42 (1) (215), pp. 161–165. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
 Saw, S-H. (2012). *[The population of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14383911)*. Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 304.6095957 SAW)
 
@@ -171,7 +171,7 @@ Yuen, B. (Ed.). (1998). *[Planning Singapore: From plan to implementation](https
 
 [^4]: [Yeoh](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11827061), 2003, pp. 37–38; Saw, S-H. (2012). *[The population of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14383911)* (p. 9). Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 304.6095957 SAW)
 
-[^5]: [Municipal Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19191121-1.2.22). (1919, November 21). The Straits Times, p. 8. Retrieved from NewspaperSG.
+[^5]: [Municipal Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19191121-1.2.22). (1919, November 21). <i>The Straits Times</i>, p. 8. Retrieved from NewspaperSG.
 
 [^6]: [Singapore slums](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19340821-1.2.43). (1934, August 21). <i>The Straits Times</i>, p. 10. Retrieved from NewspaperSG.
 

@@ -11,7 +11,7 @@ layout: post
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-10-issue-3/backyard/temple_trotting.jpg">
-Temple-trotting in Bali in 1982. <i>All photos courtesy of Desiree Koh.</i></div>
+Temple-trotting in Bali in 1982. <i>Courtesy of Desiree Koh.</i></div>
 
 My earliest travel memory is of my dad dunking me into a toddler-sized wooden barrel of warm water after a long day of building misshapen forts and castles on Tanjung Pinang beach on Bintan. I was four years old at the time, and had scraped my knees spilling and tumbling on the sand. Although the soap stung, nothing but sweet memories remain.
 
@@ -26,19 +26,18 @@ I remember the desperation of a fruit peddler trying to sell us bananas through 
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-10-issue-3/backyard/phuket.jpg" style="width:70%;">
-Sunburned and homebound from Phuket on Thai Airways in 1984. <i>All photos courtesy of Desiree Koh.</i></div>
-
-
-<div style="background-color: white;">
-<br/>
-<img src="/images/vol-10-issue-3/backyard/kangaroo.jpg" style="width:70%;">
-The writer with Captain Kangaroo at Australia’s Gold Coast in 1988. <i>All photos courtesy of Desiree Koh.</i></div>
+Sunburned and homebound from Phuket on Thai Airways in 1984. <i>Courtesy of Desiree Koh.</i></div>
 
 What was normal for the Koh family made me stand out at school, beyond the shenanigans I was notorious for (perhaps my roaming the classroom to play with friends in between lessons may have been an early sign of my repressed wanderlust?). When I moved from my neighbourhood primary school to a well-known one, I found myself in the company of peers who went skiing in Lake Tahoe in the US or on multi-city European tours. Although it sometimes crossed my mind that Disneyland could be fun, I didn’t feel completely deprived either – no matter how new or weird my experiences in Southeast Asia, the warmth, the smiles and humility of the people and the spicy flavours always reminded me of home. The school compositions I wrote were inspired by people, food and scenes like nothing I knew of in too quickly developing Singapore, and I learnt to empathise – by the time I first encountered a rancid outhouse in Zhengzhou, China, I didn’t turn back and run but bravely sallied forth.
 
 For show-and-tell in primary four, I brought an ashtray (with a mermaid perched on one side) made of fake coral from Hua Hin and said I wanted to be a “travellogist” when I grew up (whatever that meant). I didn’t know it then, but it was only when I arrived at university in Chicago and newfound American friends marvelled at my “jetsetting” ways that I realised how fortunate I was to have grown up in Singapore and traversed the riches of our region. I tried to explain that getting on a three-hour flight to Hanoi wasn’t too different from taking the Amtrak train from Chicago to Boston. <i>But it’s still the same country!</i>  they would retort, and I had to agree. Southeast Asia is unique in that it’s a mosaic of individual countries with their own distinct histories, cultures and cuisines, despite their close proximity to each other. No one slurping a bowl of beef pho in Ho Chi Minh City is going to confuse that soupy dish with a plate of wok-fried soy-sauce blackened Hokkien noodles in Kuala Lumpur. The flavour profiles of both dishes are as different as night and day – as both cities are. 
 
 More than 30 years removed from that Tanjung Pinang beach and having traversed many countries across four other continents since, I know that those childhood travels to Southeast Asian countries on the cusp of progress is one of the best of many life lessons my parents have given me. For every Paris, New Orleans, Caribbean and Melbourne, there is a Chiang Mai, Ho Chi Minh City, Inle Lake and Penang that I will never get tired of. It’s been uplifting watching our neighbouring countries come into their own and, together with Singapore, form one of the most exciting parts of the world right now. 
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-3/backyard/kangaroo.jpg" style="width:70%;">
+The writer with Captain Kangaroo at Australia’s Gold Coast in 1988. <i>Courtesy of Desiree Koh.</i></div>
 
 Everybody, it seems, wants a piece of Southeast Asia – there’s Burmese food in Iowa, Malaysian in every London neighbourhood and Indian vendors flipping <i>prata</i> in Copenhagen’s trendy Vesterbro district. At the Diageo Reserve World Class championships in July, possibly the most prestigious bartending championships ever, Singapore’s Peter Chua finished top six and Bangkok’s Ronnaporn Kanivichaporn held his own in the final 12 – that is how hot Southeast Asia has become, and less than a heartbeat behind trendsetting global cities. I have been incredibly lucky to enjoy front row seats to what feels like an indie film morphing into a blockbuster franchise – happening right here in my own backyard.
 
@@ -52,7 +51,7 @@ I’ve always described Singapore as Asia Lite to friends from overseas, a place
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-3/backyard/Desiree_Koh.jpg" style="width:70%;"></div>
-<p style="font-size:15px;">Born and raised in Singapore, <b>Desiree Koh</b> is a writer and editor who spent 12 years in Chicago, studying at the Medill School of Journalism and later experiencing the other side of the world. Now back home, she enjoys discovering a city that is constantly changing and travels further afield for work and adventure. She writes on popular culture, food and sports for in-flight magazines such as SilverKris, Sawasdee and enVoyage, as well as local and international publications. Her most recent work was for the Louis Vuitton City Guide: Singapore, slated for publication in November 2014.</p>
+<img style="width:100px;height:100px;margin-bottom:-30px; border-radius:100%; box-shadow: 1px 2px 0px #424242;" src="/images/vol-10-issue-3/backyard/desiree_koh_2.jpg">
+<p style="font-size:15px;">Born and raised in Singapore, <b>Desiree Koh</b> is a writer and editor who spent 12 years in Chicago, studying at the Medill School of Journalism and later experiencing the other side of the world. Now back home, she enjoys discovering a city that is constantly changing and travels further afield for work and adventure. She writes on popular culture, food and sports for in-flight magazines such as <i>SilverKris</i>, <i>Sawasdee</i> and <i>enVoyage</i>, as well as local and international publications. Her most recent work was for the <i>Louis Vuitton City Guide: Singapore</i>, slated for publication in November 2014.</p>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-10/issue-3/oct-dec-2014/"><center>Back to Issue</center></a>

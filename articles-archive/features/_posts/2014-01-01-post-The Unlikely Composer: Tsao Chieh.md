@@ -1,10 +1,12 @@
 ---
 title: "The Unlikely Composer: Tsao Chieh"
 date: 2014-01-01
-permalink: /vol-9/issue-4/jan-march-2014/tsao-chieh
+permalink: /vol-9/issue-4/jan-march-2014/tsao-chieh-singapore-composer
 image: /images/vol-9-issue-4/tsaochieh/tsaochieh.jpg
 layout: post
+description: ""
 ---
+
 #### Despite his untimely death at the age of 43, Singaporean composer Tsao Chieh’s legacy lives on — immortalised through his small but significant body of experimental works. **Jun Zubillaga-Pow** traces the life of this underrated artist.
 
 <div style="background-color: white;">
@@ -67,7 +69,7 @@ The student orchestra performing at the official opening of the 1986 Singapore A
 
 When asked by an arts correspondent on his working process, Tsao Chieh mused about the concept of small beginnings, “An idea here. Another spark there. They can occur to me when I am brushing my teeth or going to sleep. Slowly, these fragments accumulate until they cohere to form a picture.”[^6]
 
-For two evenings in June 1986, the work, together with Joseph Haydn’s <i>Cello Concerto</i> and <i>Igor Stravinsky’s Symphony of Psalms</i>, was performed by the SSO at the Victoria Concert Hall. Stravinsky happened to be one of Tsao Chieh’s favourite composers. Responses to the symphonic suite ranged from the slightly disdainful: “a huge first novel, overstuffed with ideas” and “a hodgepodge of various styles” to the laudatory: an “imaginative handling of the orchestra” with “pastoral woodwind lending a tranquil mood over a gentle landscape of strings.”[^7] The piece was correspondingly broadcast on public radio twice and televised on the now-defunct Channel 12 for the next few months. 
+For two evenings in June 1986, the work, together with Joseph Haydn’s <i>Cello Concerto</i> and Igor Stravinsky’s <i>Symphony of Psalms</i>, was performed by the SSO at the Victoria Concert Hall. Stravinsky happened to be one of Tsao Chieh’s favourite composers. Responses to the symphonic suite ranged from the slightly disdainful: “a huge first novel, overstuffed with ideas” and “a hodgepodge of various styles” to the laudatory: an “imaginative handling of the orchestra” with “pastoral woodwind lending a tranquil mood over a gentle landscape of strings.”[^7] The piece was correspondingly broadcast on public radio twice and televised on the now-defunct Channel 12 for the next few months. 
 
 Citing Luciano Berio and Pierre Boulez as influences, the masterpiece also aroused interest from both music circles and general public. It provoked discussions on the definition of Singaporean music as well as the art of composition itself. Later, <i>The Straits Times</i> music critic Chang Tou Liang would recall that after listening to the masterpiece, he left the concert hall feeling proud to be a Singaporean.[^8] In September, Tsao Chieh was selected to represent Singapore as the Outstanding Young Person of the Year in recognition of his contributions to society and his leadership qualities.[^9]
 
@@ -124,11 +126,11 @@ In her review on Tsao Chieh’s electronic music, the ethnomusicologist Tan Shzr
 <br><br>
 “It is a treasure box of weird and delightful sounds either simulating acoustic instruments to eerie effect, or churning out frenetic blubs of nonsensical noises which must surely carry abstracted meanings in their own right...
 <br><br>
-“Just when you think you have nailed the composer to a pastiche of Debussy or Bartok-styled chromatic harmonies, a tinkly horror-movie soundtrack surges into your hearing, stealing your breath away. Small and sparse jumbles of sound are thrown away here and there against a backdrop of tense calm created by near-silent electronic “whooshes”.
+“Just when you think you have nailed the composer to a pastiche of Debussy or Bartok-styled chromatic harmonies, a tinkly horror-movie soundtrack surges into your hearing, stealing your breath away. Small and sparse jumbles of sound are thrown away here and there against a backdrop of tense calm created by near-silent electronic ‘whooshes’.
 <br><br>
 “Sometimes, a woman laughs and a man snatches the space for his moment with a scramble of words. Themes which sound transplanted from a drama-mama Chinese opera groove against a dizzying spiral of unremitting notes. It is a trippy and absolutely mesmerising experience.
 <br><br>
-“But every now and then, a curious refrain of a decaying, owl-like “woo”, flattened out in pitch towards its tail, rears up like a leitmotif. It reminds you of the constancy of — work? everyday existence? the inner rhythms of life? — that punctuate this album’s otherwise over-the-top splendour.”[^23]</span>
+“But every now and then, a curious refrain of a decaying, owl-like ‘woo’, flattened out in pitch towards its tail, rears up like a leitmotif. It reminds you of the constancy of — work? everyday existence? the inner rhythms of life? — that punctuate this album’s otherwise over-the-top splendour.”[^23]</span>
 
 <p style="font-size:15px;"><b>Jun Zubillaga-Pow</b> is a PhD Candidate in music research at King’s College London. He has performed and curated music events at the Esplanade, the Arts House, Theatreworks and the Substation. With the support of the National Arts Council, Jun is the co-editor of <i>Queer Singapore</i> and <i>Singapore Soundscape</i>.</p>
 

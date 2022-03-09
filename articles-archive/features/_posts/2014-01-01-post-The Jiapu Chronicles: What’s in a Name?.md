@@ -1,15 +1,17 @@
 ---
 title: "The Jiapu Chronicles: What’s in a Name?"
 date: 2014-01-01
-permalink: /vol-9/issue-4/jan-march-2014/jiapu
+permalink: /vol-9/issue-4/jan-march-2014/jiapu-chinese-family-lineage
 image: /images/vol-9-issue-4/jiapu/bg.jpg
 layout: post
+description: ""
 ---
+
 #### Records of family lineage were important in traditional Chinese society. **Lee Meiyu** charts the history of these documents, or <i>jiapu</i>, which track not only family roots but also the social norms and cultural values of China at the time.
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-9-issue-4/jiapu/bg.jpg">
+<img src="/images/vol-9-issue-4/jiapu/bg.jpg" style="width:80%;">
 </div>
 
 In ancient Chinese society, <i>jiapu</i> (家谱) or Chinese genealogy records, were created for the express reason of documenting the ancestry of each family. Before the Song Dynasty (960–1279 CE), lineage determined a person’s social class in China, and <i>jiapu</i> were used as official documents by the imperial court to prove the identity of a member of the ruling class and justify his position. This objective, however, evolved during the Song Dynasty when <i>jiapu</i> became a social tool to unify families by kinship instead. This shift took the practice of recording <i>jiapu</i> beyond the realm of the courts to the non-ruling classes, leading to a peak in genealogy studies and documentation.[^1]
@@ -31,7 +33,7 @@ Women folding <i>kim chua</i> (paper money) for religious or ancestral offering 
 
 #### **Title of Genealogy (Pu Ming 谱名)**
 
-In traditional practice, the title of <i>jiapu</i> was important as it indicated which clan the records belonged to. It was common for the title to be made up of a combination of the name of the settlement area, surname, name of the ancestral temple, district-names, name of first migrant ancestor, and even the number of revisions done to the <i>jiapu</i>.[^3]
+In traditional practice, the title of a <i>jiapu</i> was important as it indicated which clan the records belonged to. It was common for the title to be made up of a combination of the name of the settlement area, surname, name of the ancestral temple, district-names, name of first migrant ancestor, and even the number of revisions done to the <i>jiapu</i>.[^3]
 
 <div style="background-color: white;">
 <br/>
@@ -150,7 +152,7 @@ The <i>jiapu</i> chapters discussed here offer only a peek into the wealth of in
 		<li style="font-size:1rem;">Literary works</li>
 		<li style="font-size:1rem;">List of members who had a copy of the genealogy</li>
 	</ul>
-Some of the information listed, also known as chapters as they appeared in the <i>jiapu</i>, are still being recorded today. This is especially true for modern publications that are merely updated editions of older <i>jiapu</i></div>
+Some of the information listed, also known as chapters as they appear in the <i>jiapu</i>, are still being recorded today. This is especially true for modern publications that are merely updated editions of older <i>jiapu</i>.</div>
 
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;">
 <b>FIVE DEGREES OF MOURNING CLOTHES (WUFU 五服)</b>

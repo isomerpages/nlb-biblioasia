@@ -116,6 +116,7 @@ On the whole, community networks proved to be the critical resource that facilit
 
 The sex/gender division of labour has been breached but is by no means overturned as housework and childcare remain for the most part in female hands. [^57] Women continue to juggle career and motherhood today. The quiet revolution is arguably still underway. 
 
+<img style="width:100px;height:100px;margin-bottom:-30px; border-radius:100%; box-shadow: 1px 2px 0px #424242;" src="/images/vol-10-issue-2/women/Janice_Loo.jpg">
 <p style="font-size:15px;"><b>Janice Loo</b> is an Associate Librarian with the National Library of Singapore. This is her second article on women in history following “Mrs Beeton in Malaya: Women, Cookbooks and the Makings of the Housewife” in the Oct–Dec 2013 issue of <i>BiblioAsia.</i> </p>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-10/issue-2/jul-sep-2014/"><center>Back to Issue</center></a>

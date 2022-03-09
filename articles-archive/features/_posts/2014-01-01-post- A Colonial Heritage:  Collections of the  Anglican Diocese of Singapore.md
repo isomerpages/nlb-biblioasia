@@ -6,12 +6,14 @@ image: /images/vol-9-issue-4/colonial/IMG_2166-edit.jpg
 layout: post
 description: ""
 ---
+#### <i>Bonny Tan</i> explores the rich collections of the Anglican Diocese of Singapore, which holds materials such as birth and death records, publications and other documents.
+
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-9-issue-4/colonial/IMG_2166-edit.jpg">
+<img src="/images/vol-9-issue-4/colonial/IMG_2166-edit.jpg" style="width:70%;">
 The Anglican Diocese at St Andrew's Village. <i>All rights reserved, National Library Board, Singapore.</i></div>
 
-Established in the Early 19th Century by the East India Company (EIC), the development of the Anglican church in Singapore was closely intertwined with that of the colonial government, which initially supported the chaplains and priests as government employees and subsidised the construction of Anglican churches on the island. Singapore’s evolution as a political entity, first as a colony of Great Britain and subsequently as an independent nation, has thus strongly influenced the growth and shape of the Anglican Church in Singapore. In turn, woven into the story of the local Anglican church are the larger stories of changes within the Malay Peninsula during colonial times. 
+Established in the early 19th century by the East India Company (EIC), the development of the Anglican church in Singapore was closely intertwined with that of the colonial government, which initially supported the chaplains and priests as government employees and subsidised the construction of Anglican churches on the island. Singapore’s evolution as a political entity, first as a colony of Great Britain and subsequently as an independent nation, has thus strongly influenced the growth and shape of the Anglican Church in Singapore. In turn, woven into the story of the local Anglican church are the larger stories of changes within the Malay Peninsula during colonial times. 
 
 The Anglican church first gained a foothold in the Malay Peninsula when Captain Francis Light took formal possession of Penang in 1786. Services for the British colonials and their families were at first conducted by itinerant chaplains but, gradually, as the community became more established, priests were assigned to specific churches, and the building of schools and more churches followed. In 1814, the Diocese of Calcutta was formed under the EIC. Its jurisdiction covered all Anglican missionary work east of the Suez, including that of Penang and later Malacca and Singapore.
 
@@ -61,7 +63,7 @@ First published as the <i>Singapore Diocesan Magazine</i> in November 1910,[^6] 
 <img style="width:50%" src="/images/vol-9-issue-4/colonial/singapore_diocesan_magazine1.jpg">Cover page of the first issue of the Singapore Diocesan Magazine. <i>Courtesy of the Archives of the Anglican Diocese of Singapore</i>.</span>
 
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> 
-<b>Brief History of the Anglican Church in Southeast Asia</b>
+<b>BRIEF HISTORY OF THE ANGLICAN CHURCH IN SOUTHEAST ASIA</b>
 <br><br>
 <b>1786–1814</b>: The British annexed Penang in 1786 and established the Anglican Church through the EIC in the Malay Peninsula.
 <br><br>
@@ -79,7 +81,7 @@ First published as the <i>Singapore Diocesan Magazine</i> in November 1910,[^6] 
 <br><br>
 <b>1996</b>: The establishment of the Province of South East Asia sees Bishop Moses Tay from Singapore serving as the first Archbishop of the Province. The province of South East Asia covers the Dioceses of Kuchin, Sabah, Singapore and West Malaysia.
 <br><br>
-<img src="/images/vol-9-issue-4/colonial/anglican_church.png" style="width:90%;">Caption: (Left to right) The front cover of the January 1937 issue of <i>The Courier</i> can be found in the holdings of the Anglican Archives;[^9] Letters of Patent to the Straits Settlements in the 33rd year of HM Queen Victoria (1869) and its accompanying seal. <i>All rights reserved, National Library Board</i>.</span>
+<img src="/images/vol-9-issue-4/colonial/anglican_church.png" style="width:90%;">(Left to right) The front cover of the January 1937 issue of <i>The Courier</i> can be found in the holdings of the Anglican Archives;[^9] Letters of Patent to the Straits Settlements in the 33rd year of HM Queen Victoria (1869) and its accompanying seal. <i>All rights reserved, National Library Board</i>.</span>
 
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> 
 <b>ST ANDREW'S CATHEDRAL</b>
@@ -134,4 +136,4 @@ The Diocese of Singapore (2020). <i>Our history</i>. Retrieved from The Diocese 
 
 [^8]: Cornelius-Takahama, V., & Tan, J.H.S. (2017). *[St Andrew’s Cathedral](https://eresources.nlb.gov.sg/infopedia/articles/SIP_25_2_2008-12-01.html)*. Retrieved from Singapore Infopedia, National Library Singapore.
 
-[^9]: The Courier is not in NLB holdings but is available at the Anglican Archives.
+[^9]: <i>The Courier</i> is not in NLB holdings but is available at the Anglican Archives.

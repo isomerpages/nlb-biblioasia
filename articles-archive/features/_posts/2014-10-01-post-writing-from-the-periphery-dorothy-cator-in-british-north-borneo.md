@@ -20,37 +20,37 @@ At a glance, <i>Everyday Life Among the Head-hunters and Other Experiences East 
 
 Although Cator identified with British imperialism, her account of North Borneo questioned the dominant discourses on gender and race that structured colonial society. While suggesting rhetorical alternatives, Cator’s writings did not amount to counter-hegemonic resistance against the status quo but rather contained “moments of outbreak [and] discursive freedoms [...] when imperial and patriarchal conventions, though seldom disappearing, lose their hermeneutic force.”[^6] 
 
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-3/dorothycator/head_hunting_Dayaks.jpg" style="width:70%;">
+	This illustration of head-hunting Dayaks was featured in the <i>Illustrated London News</i> in October 1887. <i>Courtesy of the Sabah Museum.</i></div>
+	
 #### **Writing Power**
 
 Imperial dominance, in terms of cultural hegemony, was enacted in colonial travel writing, where the coloniser – epitomised by the “figure of the settler-colonial white man”[^7] – possessed and exercised “the capacity to build and sustain some truths about land and people, and to denigrate and marginalise them.”[^8] Women, however, faced difficulties in adopting the same authoritative and imperialist narrative voice because of their interstitial position as the “inferior sex within the superior race,”[^9] betwixt power and the lack thereof.[^10]
 
 This can explain for the vacillations between self-assuredness and diffidence in Cator’s attitude towards her writing, as seen in the “Introduction” of her book:
 
-As I have travelled where no other white woman has ever been, and lived among practically unknown tribes both in Borneo and Africa, I have often been asked to write a book; but till now I have wisely refused, as I have no idea how it ought to be done. I have a hazy notion that I ought to know all about prehistoric and glacial periods, whereas they convey nothing to my mind; and the subject of composed and decomposed porphyrite rocks and metamorphic states is unintelligible gibberish to me: so if this ever appears in print, please don’t expect too much.[^11]
+“As I have travelled where no other white woman has ever been, and lived among practically unknown tribes both in Borneo and Africa, I have often been asked to write a book; but till now I have wisely refused, as I have no idea how it ought to be done. I have a hazy notion that I ought to know all about prehistoric and glacial periods, whereas they convey nothing to my mind; and the subject of composed and decomposed porphyrite rocks and metamorphic states is unintelligible gibberish to me: so if this ever appears in print, please don’t expect too much”.[^11]
 
 Cator’s claim to narrative authority, based on self-identification as a white woman with original, first-hand knowledge of unexplored territories and undiscovered cultures, was undermined by her own confessed ignorance of how to systematically document what she knew. Cator acknowledged the epistemological superiority of science (incidentally a male domain), yet her tongue-in-cheek disparagement of its language as “unintelligible gibberish” seemed to indicate otherwise. Notwithstanding her self-deprecation, her ability to quote obscure geological terms could be seen as a subtle act of showing off while maintaining a cloak of modesty. Cator’s negotiation of her feminine subjectivity at the intersection of gender and race in the colonial context produced some degree of ambivalence, self-contradiction and inconsistence in her writing.
-
-#### **Women for Empire**
-
-Female identification with imperialism typically echoed and endorsed masculine imperial rhetoric, which was rooted in white superiority and its “civilising” impulse. By invoking Eurocentric reasoning and Orientalist tropes (the “savage” native, the “enterprising” Chinese) recurrently deployed in the hegemonic (masculine) rhetoric of imperial domination, Cator took on the position of British (male) colonialism in an act of appropriation that signified both subversion and submission.[^12]
-
-Cator portrayed the different ethnic communities in North Borneo within the overarching paradigm of a “Pax Britannica”, emphasising the unprecedented peace and security afforded by firm but benevolent British governance. She described the Chinese as “a most industrious, law-abiding people <i>if only they are governed properly</i> [emphasis added]“[^13]; the Dayaks “make splendid soldiers and best of friends, as they are faithful and trustworthy [...] <i>Held in with an iron hand</i> [emphasis added] they are very valuable [otherwise] they are worse than wild beasts”[^14]; the Bajows, “a dark-skinned, wild sea-gipsy race roving from place to place – pirates <i>until the English arrived</i> [emphasis added], and the terror of the whole coast, but now living peaceable, quiet lives”[^15]; likewise, the Dusuns “have settled down wonderfully quietly under British rule, and [gave] very little trouble.”[^16] Recounting petty disputes that her husband helped resolve, Cator remarked that “the people’s unquestioning confidence in the justice of an Englishman is very touching,”[^17] thus vindicating her conviction in the integrity and fairness of British rule. 
 
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-10-issue-3/dorothycator/carte.jpg">
-The writer, Dorothy Cator. Everyday Life Among the Head-Hunters (1905).</div>
+	The writer, Dorothy Cator. <i>Everyday Life Among the Head-Hunters</i> (1905).</div>
+	
+#### **Women for Empire**
 
-<div style="background-color: white;">
-<br/>
-<img src="/images/vol-10-issue-3/dorothycator/head_hunting_Dayaks.jpg" style="width:70%;">
-This illustration of head-hunting Dayaks was featured in the Illustrated London News in October 1887. <i>Courtesy of the Sabah Museum.</i></div>
+Female identification with imperialism typically echoed and endorsed masculine imperial rhetoric, which was rooted in white superiority and its “civilising” impulse. By invoking Eurocentric reasoning and Orientalist tropes (the “savage” native, the “enterprising” Chinese) recurrently deployed in the hegemonic (masculine) rhetoric of imperial domination, Cator took on the position of British (male) colonialism in an act of appropriation that signified both subversion and submission.[^12]
+
+Cator portrayed the different ethnic communities in North Borneo within the overarching paradigm of a “Pax Britannica”, emphasising the unprecedented peace and security afforded by firm but benevolent British governance. She described the Chinese as “a most industrious, law-abiding people <i>if only they are governed properly</i> [emphasis added]”[^13]; the Dayaks “make splendid soldiers and best of friends, as they are faithful and trustworthy [...] <i>Held in with an iron hand</i> [emphasis added] they are very valuable [otherwise] they are worse than wild beasts”[^14]; the Bajows, “a dark-skinned, wild sea-gipsy race roving from place to place – pirates <i>until the English arrived</i> [emphasis added], and the terror of the whole coast, but now living peaceable, quiet lives”[^15]; likewise, the Dusuns “have settled down wonderfully quietly under British rule, and [gave] very little trouble.”[^16] Recounting petty disputes that her husband helped resolve, Cator remarked that “the people’s unquestioning confidence in the justice of an Englishman is very touching,”[^17] thus vindicating her conviction in the integrity and fairness of British rule. 
 
 Cator further underscored the superiority of British imperialism by representing the conduct of other European powers in diametric contrast as inhumane and unjust. She denounced the Spanish as “very bad colonists, cruel masters, who hate and are hated by the natives over whom they rule”[^18]; the Dutch as being “inclined to look upon [the natives] as not merely a lower race than themselves, but lower than their animals” and they were responsible for the “most brutal cases of cruelty on the estates which [her husband] Dick and the other magistrates had to inquire into.”[^19] This affirmed the conventional rationalisation for British intervention in terms of a moral obligation to rescue and extend protection to populations “outside the pale of civilisation.”[^20]
 
 Interestingly, Cator referenced narratives of feminine dominance in the domestic sphere, specifically the absolute superiority of the mistress to her servant, to justify colonial rule: 
 
-Black races [referring to the natives] were, of course, never meant to be in the same position as white ones, any more than a kitchenmaid of a house, however excellent she may be, is made to be the equal of her mistress. They were meant to serve, not to rule; and it is entirely our faults when they fail in positions of authority in which we have placed them, for which and to which they were neither qualified nor born, <i>but they wouldn’t have been given legs unless they were meant to stand on them</i> [emphasis added].[^21]
+“Black races [referring to the natives] were, of course, never meant to be in the same position as white ones, any more than a kitchenmaid of a house, however excellent she may be, is made to be the equal of her mistress. They were meant to serve, not to rule; and it is entirely our faults when they fail in positions of authority in which we have placed them, for which and to which they were neither qualified nor born, <i>but they wouldn’t have been given legs unless they were meant to stand on them</i> [emphasis added].”[^21]
 
 Cator assumed the paternalist (or rather, maternalist) and patronising stance of the well-meaning colonial parent who claimed full responsibility for the failings of her native charges; this implied that it was native incompetence that necessitated colonial supervision. However, there appears to be an abrupt twist in the last sentence; the idiom “standing on your two feet” suggests that the native had the capacity to be independent and self-reliant. On that note, Cator’s endorsement of British imperialism and its ideological underpinnings nevertheless does not preclude other ruminations and self-reflexive critique that potentially disrupt the hegemonic discourse.
 
@@ -86,8 +86,9 @@ Despite occupying a marginal position in the masculine space of the British Empi
 <br/>
 <img src="/images/vol-10-issue-3/dorothycator/Mt_Kinabalu_from_the_Tempasuk_River.jpg" style="width:70%;">
 View of Mount Kinabalu (background) from the Tempasuk River (1889). <i>Courtesy of the Sabah Museum.</i></div>
-
-<p style="font-size:15px;"><b>Janice Loo</b> is an Associate Librarian with the National Library of Singapore. She was the author of “A Quiet Revolution: Women and Work in Industrialising Singapore”, published in BiblioAsia Vol. 10, Iss. 2.</p>
+<br/>
+<img style="width:100px;height:100px;margin-bottom:-30px; border-radius:100%; box-shadow: 1px 2px 0px #424242;" src="/images/vol-10-issue-3/dorothycator/Janice_Loo.jpg">
+<p style="font-size:15px;"><b>Janice Loo</b> is an Associate Librarian with the National Library of Singapore. She was the author of “A Quiet Revolution: Women and Work in Industrialising Singapore”, published in <i>BiblioAsia</i> Vol. 10, Iss. 2.</p>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-10/issue-3/oct-dec-2014/"><center>Back to Issue</center></a>
 
