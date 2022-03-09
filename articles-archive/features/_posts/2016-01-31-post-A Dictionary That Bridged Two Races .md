@@ -67,6 +67,8 @@ Lin wrote other books, and in 1890, founded the Chinese newspaper called *Xing b
  
 – Written by Lee Meiyu
 
+<a href="/vol-11/issue-4/jan-mar-2016/"><center>Back to Issue</center></a>
+
 #### **NOTES**
 [^1]:Straits Settlements Department of Statistics. (1883). *Blue Book* (p. P6). Singapore: Government Printing Office. Microfilm no.: NL 30780
 [^2]:张嘉星. (2002). 印尼、新、马闽南方言文献述要. *漳州师范学院学报（哲学社会科学版)*, 3, 73–74. Retrieved from CNKI. 
