@@ -100,31 +100,32 @@ Another 18th-century map by French cartographers reflects Singapore’s ancient 
 
 A large number of Lee’s maps date from the 19th century right into the pre-war era, from which the researcher can review the gradual urbanisation of Singapore, particularly his maps spanning the 1950s right into Independence in 1965. Besides revealing insights from individual maps, many of Lee’s maps are topographical records of urban as well as rural developments of Singapore. Interestingly, Lee has several maps reflecting the location of plantations in Singapore. Complementing these maps is a monograph with notes derived from records and documents giving details of these plantations. The map collection, when studied alongside his monographs, photographs and postcards, form a rich and multi-layered resource for the study of Singapore’s rural and urban landscapes. 
 
-#### **Lee Kip Lin On Studying Architecture**
-
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> <b>Lee Kip Lin On Studying Architecture</b>
+<br><br>
 I took architecture by accident ... my mother ... wanted me to do agriculture and she promised me that [if I] graduated, [she would] buy a piece of land somewhere...
-
+<br/><br/>
 I considered those [as] wasteful years [studying architecture in the UK]. Truly wasteful. I mean there I was drinking away... and Lim Chong Keat [a fellow student] was busily measuring buildings and photographing them. I took the whole thing [architectural studies] as a joke...
-
-<div style="text-align:right;">From an interview with Lee on 26 June 1985 by Tay Kheng Soon</div>
-
-#### **Prof Bobby Wong's Impressions of Lee Kip Lin**
-
+<br/><br/>
+<span style="display:block; text-align:right;">From an interview with Lee on 26 June 1985 by Tay Kheng Soon</span>
+<br/><br/>
+<b>Prof Bobby Wong's Impressions of Lee Kip Lin</b>
+<br/><br/>
 I was assigned to teach with him ... and he said, “Don’t worry, it’s my first time teaching too”. I asked him, “Oh, where were you practising before that?” And he said, “Team 3.” So I was really thrown off [as] Team 3 at that time was really <i>the</i> firm. There was something very informal [about LKL] and yet at the same time, from what he said, they were fairly insightful. He came across with no airs, nothing. But someone, you know who has so much history, so much background and yet so ordinary.
-
+<br/><br/>
 I was a young architect in a hurry to do international style of architecture. He [LKL] was someone who placed great importance in imparting to many around us the importance of the geography, the culture, the land and also the social and cultural life that came with this climate and this place. 
-
-<div style="text-align:right;">From an interview with Prof Bobby Wong on 6 June 2012 by Bonny Tan</div>
-
-#### **Professor Tse Swee Ling's Impressions of Lee Kip Lin**
-
+<br/><br/>
+<span style="display:block; text-align:right;">From an interview with Prof Bobby Wong on 6 June 2012 by Bonny Tan</span>
+<br><br>
+<b>Professor Tse Swee Ling's Impressions of Lee Kip Lin</b>
+<br/><br/>
 I have known him for more than 40 years, from working in Team 3 to teaching in NUS. He’s really a good boss ... whenever there was some argument, unhappiness amongst staff or whatever [in Team 3], he will always help to settle and he’s very good in human relationships. And the staff respect[ed] him.
-
+<br/><br/>
 His book, <i>Singapore House</i>, it’s not only about the architecture. He actually took the effort to find out about the lives of the people who lived there. 
-
-<div style="text-align:right;">From an interview with Prof Tse Swee Ling on 6 June 2012 by Bonny Tan</div>
-
+<br/><br/>
+<span style="display: block; text-align:right;">From an interview with Prof Tse Swee Ling on 6 June 2012 by Bonny Tan</span>
+<br/><br/>
 The Lee Kip Lin collection can be accessed on PictureSG at http://eresources.nlb.gov.sg/pictures. The publications are located in the donor collection at Level 13, but specific titles can be searched via the online OPAC and accessed directly from Level 11 counter.
+</span>
 
 <p style="font-size:15px;"><b>Bonny Tan</b> is a Senior Librarian with the National Library of Singapore. She has researched the Lee Kip Lee Collection over several years since it was first donated to the National Library Board. Her published work on the Baba Bibliography and the Gibson-Hill Collection amply qualify her to write on Lee’s life and his collection.</p>
 
