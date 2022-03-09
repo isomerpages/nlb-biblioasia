@@ -126,7 +126,8 @@ His book, <i>Singapore House</i>, it’s not only about the architecture. He act
 <br/><br/>
 The Lee Kip Lin collection can be accessed on PictureSG at http://eresources.nlb.gov.sg/pictures. The publications are located in the donor collection at Level 13, but specific titles can be searched via the online OPAC and accessed directly from Level 11 counter.
 </span>
-
+<br/>
+<img style="width:100px;height:100px;margin-bottom:-30px; border-radius:100%; box-shadow: 1px 2px 0px #424242;" src="/images/vol-10-issue-3/leekiplin/Bonny_Tan.jpg">
 <p style="font-size:15px;"><b>Bonny Tan</b> is a Senior Librarian with the National Library of Singapore. She has researched the Lee Kip Lee Collection over several years since it was first donated to the National Library Board. Her published work on the Baba Bibliography and the Gibson-Hill Collection amply qualify her to write on Lee’s life and his collection.</p>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-10/issue-3/oct-dec-2014/"><center>Back to Issue</center></a>
