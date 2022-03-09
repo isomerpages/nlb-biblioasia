@@ -265,7 +265,7 @@ Toh, E. (1991, July 10). [Owner of Heeren site gets nod to build $300m complex](
 
 Tyers, R., & Siow, J.H. (1993). *[Ray Tyers’ Singapore: Then & now](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6442235)*. Singapore: Landmark Books. (Call no.: RSING 959.57 TYE)
 
-[Waiting for the beat](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19970417-1.2.7). (1997, April 17). The Business Times, p. 1. Retrieved from NewspaperSG.
+[Waiting for the beat](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19970417-1.2.7). (1997, April 17). <i>The Business Times</i>, p. 1. Retrieved from NewspaperSG.
 
 Wan, M.H., & Lau, J. (2009). *[Heritage places of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13220774)*. Singapore Marshall Cavendish International. (Call no.: RSING 959.57 WAN)
 
@@ -295,7 +295,7 @@ Yeoh, B., & Wong, T. (2007). *[Over Singapore: 50 years ago: An aerial view in t
 
 [^11]: Ang, A. (1990, February 17). [Heeren Building has to make way for road project](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900217-1.2.32.2.2). <i>The Straits Times</i>, p. 22. Retrieved from NewspaperSG.
 
-[^12]: Toh, E. (1991, July 10). [Owner of Heeren site gets nod to build $300m complex](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19910710-1.2.55.6). <i>The Straits Times</i>, p. 36; [Waiting for the beat](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19970417-1.2.7). (1997, April 17). The Business Times, p. 1. Retrieved from NewspaperSG.
+[^12]: Toh, E. (1991, July 10). [Owner of Heeren site gets nod to build $300m complex](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19910710-1.2.55.6). <i>The Straits Times</i>, p. 36; [Waiting for the beat](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19970417-1.2.7). (1997, April 17). <i>The Business Times</i>, p. 1. Retrieved from NewspaperSG.
 
 [^13]: Singapore Chinese Girls’ School. (2020). <i>SCGS Milestones</i>. Retrieved from Singapore Chinese Girls’ School website.
 
@@ -327,7 +327,7 @@ Yeoh, B., & Wong, T. (2007). *[Over Singapore: 50 years ago: An aerial view in t
 
 [^27]: [Koek Lane food stalls move out](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19761005-1.2.93). (1976, October 5). <i>The Straits Times</i>, p. 15; [Cuppage Road stalls open in August](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19780629-1.2.31). (1978, June 29). <i>The Straits Times</i>, p. 6; [‘New look’ plan by URA for Orchard Road](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19781202-1.2.44). (1978, December 2). <i>The Straits Times</i>, p. 13. Retrieved from NewspaperSG.
 
-[^28]: [Our lost treasures](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900401-1.2.48.3.1). (1990, April 1). <i>The Straits Times</i>, p. 2; Quek, C. (2005, February 3). [Building stability](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes20050203-1.2.36.3). The Business Times, p. 24. Retrieved from NewspaperSG.
+[^28]: [Our lost treasures](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900401-1.2.48.3.1). (1990, April 1). <i>The Straits Times</i>, p. 2; Quek, C. (2005, February 3). [Building stability](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes20050203-1.2.36.3). <i>The Business Times</i>, p. 24. Retrieved from NewspaperSG.
 
 [^29]: [Singapore Building Corp.: Chairman explains position of Amber Mansions](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19221214-1.2.70). (1922, December 14). <i>The Straits Times</i>, p. 14. Retrieved from NewspaperSG.
 
