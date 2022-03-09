@@ -65,6 +65,8 @@ Lee Kong Chian, who bought Sun’s villa in 1937 to preserve its illustrious his
 
 – Written by Ang Seow Leng
 
+<a href="/vol-11/issue-4/jan-mar-2016/"><center>Back to Issue</center></a>
+
 #### **NOTES**
 [^1]:Song, O. S. (1984). [*One hundred years’ history of the Chinese in Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082287) (p. 34). Singapore: Oxford University Press. Call no.: RSING 959.57 SON-[HIS]
 [^2]:陈丁辉 (2013). [*南洋与创立民国*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200730355)  (p. 2). 新加坡: 晚晴园孙中山南洋记念馆. Call no.: RSING 951.08 ZYF; *Tongmenghui*. (2008, April 2). Retrieved from New World Encyclopedia website.
