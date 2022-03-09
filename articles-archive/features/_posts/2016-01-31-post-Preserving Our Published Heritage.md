@@ -99,10 +99,10 @@ The oldest publication in the collection is a legacy from the Raffles Library: a
 	<br>
 	<img src="/images/vol-11-issue-4/published-heritage/c.JPG">
 	</span>
-
-**Ivy Lee** is a Manager with the National Library Office. She 
+<div>
+<b>Ivy Lee</b> is a Manager with the National Library Office. She 
 manages the statutory functions of the National Library of 
-Singapore, including its Legal Deposit system.
+Singapore, including its Legal Deposit system.</div>
 
 #### **REFERENCES**
 Larivière, J. (2000). *Guidelines for legal deposit legislation*. 
