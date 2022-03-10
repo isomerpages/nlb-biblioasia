@@ -111,9 +111,11 @@ In the 1990s, clothes were a reflection of the lifestyle of the wearer. <i>Her W
 <br/>
 <img src="/images/vol-10-issue-3/sgfashion/casual_friday.jpg" style="width:70%;">
 Casual Fridays saw workers trade in their business attire for more casual wear. <i>Her World</i> December 1990, p.32. <i>All rights reserved, Singapore Press Holdings, 2014.</i></div>
-
+<br/>
+<img style="width:100px;height:100px;margin-bottom:-30px; border-radius:100%; box-shadow: 1px 2px 0px #424242;" src="/images/vol-10-issue-3/sgfashion/jessie_yak.jpg">
 <p style="font-size:15px;"><b>Jessie Yak</b> is a Librarian with the National Library of Singapore. She manages the library’s fashion and Chinese arts collections. She is a graduate of Beijing University and the University of Cambridge.</p>
-
+<br/>
+<img style="width:100px;height:100px;margin-bottom:-30px; border-radius:100%; box-shadow: 1px 2px 0px #424242;" src="/images/vol-10-issue-3/sgfashion/Sundari_Balasubramaniam.jpg">
 <p style="font-size:15px;"><b>Sundari Balasubramaniam</b> is a Librarian with the National Library of Singapore. Her responsibilities include managing and developing content as well as providing reference and research services. She also manages the library’s Tamil collection.</p>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-10/issue-3/oct-dec-2014/"><center>Back to Issue</center></a>
