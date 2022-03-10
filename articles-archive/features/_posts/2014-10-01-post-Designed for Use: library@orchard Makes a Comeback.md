@@ -60,7 +60,9 @@ At library@orchard, books are arranged such that it is easy to browse and explor
 
 If the upper level of the library projects the vibe of a peaceful and quiet bedroom, the lower level embodies the cheerful buzz of the living room. This is where people of varying backgrounds and interests can come together to build a vibrant and creative community within the library.
 
-Hint: In true library fashion, library@ orchard has arranged the books to form a narrative with sections on People, Space, Product, Visual and Lifestyle. It all starts with People. One of the most basic needs besides food, air and water is shelter. People naturally want a Space to occupy and make their own. Then come Products to decorate your space and Visuals to help you to decide on the products you need. After furnishing your space, you will realise that the items you have chosen actually reflect your Lifestyle.
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;">
+<b>Hint</b>: In true library fashion, library@ orchard has arranged the books to form a narrative with sections on People, Space, Product, Visual and Lifestyle. It all starts with People. One of the most basic needs besides food, air and water is shelter. People naturally want a Space to occupy and make their own. Then come Products to decorate your space and Visuals to help you to decide on the products you need. After furnishing your space, you will realise that the items you have chosen actually reflect your Lifestyle.
+</span>
 
 <div style="background-color: white;">
 <br/>
