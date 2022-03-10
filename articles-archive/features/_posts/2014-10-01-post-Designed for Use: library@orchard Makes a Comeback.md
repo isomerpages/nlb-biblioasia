@@ -20,12 +20,12 @@ As Singapore Polytechnic (SP) is one of the pioneers of Design Thinking in Singa
 
 Guided by broad themes such as “Learn and Discover”, “Engage” and “Escape”, library@orchard has spaces dedicated for different uses – reading and exploring books in cosy cocoon-like spaces; learning and thinking by literally plucking from the tree of learning; or just sitting and pondering or sharing ideas with fellow library users. A library has to be more than just a repository of books, and to this end, library@orchard is equipped with features that allow users to enjoy a library experience like no other. Magazines, audio-visual materials and fiction titles are found on the lower level of the library, while the upper level is where the bulk of the library’s collection is held.
 
-Here are some design elements that make up the library@orchard experience.
-
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-10-issue-3/library/BiblioInfographic_1.jpg" style="width:70%;">
 Using the principles of Design Thinking, the National Library Board worked closely with Singapore Polytechnic and the public to develop library@orchard. <i>Courtesy of Annusia Jaybalan.</i></div>
+
+Here are some design elements that make up the library@orchard experience.
 
 #### **Pluck and Ponder**
 
