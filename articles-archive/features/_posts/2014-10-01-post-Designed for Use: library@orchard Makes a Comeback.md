@@ -6,7 +6,6 @@ image: /images/vol-10-issue-3/library/cover.jpg
 layout: post
 description: ""
 ---
-
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-10-issue-3/library/cover.jpg" style="width:70%;">
@@ -15,7 +14,7 @@ Patrons enjoying the environment and collections at the newly opened library@orc
 
 Patrons who have missed the old library@orchard at Ngee Ann City will be pleased to know that the new library@orchard opened on 23 October 2014, making it the 26th branch in the National Library Board’s (NLB) network of public libraries. Apart from a prime location in the heart of the city’s premier shopping district, library@orchard is the first public library with a collection focused on Lifestyle, Design and the Applied Arts. Located on the third and fourth levels of Orchard Gateway – a brand new shopping mall straddling both sides of Orchard Road and linked by a striking tubular glass bridge – the library not only serves the needs of those interested in design but also caters to the general public with its fiction and lifestyle collections. library@orchard complements the existing Central Public Library and library@esplanade, which focus on the Literary Arts and Performing Arts respectively. 
 
-Not surprisingly, design and the creative use of space was a major consideration when the idea for library@orchard was first mooted. It is the first public library in Singapore that is based on the concept of Design Thinking, a problem-solving and solution-based methodology used by designers to create products, services and experiences. In Design Thinking, meeting the needs of the user is of prime importance, with user inputs taken into consideration at every step of the design process. Such user inputs have been incorporated as much as possible in the design of library@orchard, resulting in a specially customised space that is tailored to the needs of the library user. 
+Not surprisingly, design and the creative use of space were major considerations when the idea for library@orchard was first mooted. It is the first public library in Singapore based on the concept of Design Thinking, a problem-solving and solution-based methodology used by designers to create products, services and experiences. In Design Thinking, meeting the needs of the user is of prime importance, with user inputs taken into consideration at every step of the design process. Such user inputs have been incorporated as much as possible in the design of library@orchard, resulting in a specially customised space that is tailored to the needs of the library user. 
 
 As Singapore Polytechnic (SP) is one of the pioneers of Design Thinking in Singapore, it was natural for NLB to team up with SP when it came to conceptualising the new library@orchard. As the methodology of Design Thinking is never a linear process, the team had to balance the needs of users and test the viability of several prototypes. After much discussion between the SP and NLB teams and potential users, the feedback from the exhibition prototypes was used to formulate library@orchard’s design concept.
 
