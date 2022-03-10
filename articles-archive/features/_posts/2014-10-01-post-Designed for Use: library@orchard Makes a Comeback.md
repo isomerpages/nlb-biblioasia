@@ -52,6 +52,11 @@ These pod-like cocoons are built to encourage learning and discovering in an int
 <b>Hint</b>: The cocoon with the best view is situated in between the People and Visual collections. It overlooks the park bound by Somerset, Exeter and Killiney roads. With vantage views of such beautiful lush greenery, you can easily spend a whole day reading in this cosy space.
 </span>
 
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-3/library/intimate_pod-like_cocoons.jpg" style="width:70%;">
+These intimate pod-like cocoons allow undisturbed reading. There are five of such seats in the upper level.</div>
+
 #### **Walk and Wander**
 
 library@orchard offers magazines, audio-visual materials and fiction titles on its lower level, with five design collections on the upper level: People, Space, Product, Visual and Lifestyle. Wander around the shelves and users will find that the experience of searching for books in library@orchard differs slightly from that of other public libraries. 
@@ -64,40 +69,45 @@ If the upper level of the library projects the vibe of a peaceful and quiet bedr
 <b>Hint</b>: In true library fashion, library@ orchard has arranged the books to form a narrative with sections on People, Space, Product, Visual and Lifestyle. It all starts with People. One of the most basic needs besides food, air and water is shelter. People naturally want a Space to occupy and make their own. Then come Products to decorate your space and Visuals to help you to decide on the products you need. After furnishing your space, you will realise that the items you have chosen actually reflect your Lifestyle.
 </span>
 
-<div style="background-color: white;">
-<br/>
-<img src="/images/vol-10-issue-3/library/intimate_pod-like_cocoons.jpg" style="width:70%;">
-These intimate pod-like cocoons allow undisturbed reading. There are five of such seats in the upper level.</div>
-
 #### **Sit and Speak**
 
 Occupying a prominent spot on the first level of library@orchard is a spacious semi-circle shaped open-plan seating area. Channelling the spirit of the agora (meaning “gathering place” in Greek), this is where users can gather in the library to sit and speak to other users. Do not worry that the librarian walking past will start shushing you as soon as you start talking. In this open space, users are encouraged to make conversation and to share their knowledge with one another at selected times. In this vein, library@orchard will host Communities – free twice-weekly self-help sessions where library users can come together to learn by using the resources available in the library.
 
-Hint: This is the place to put those extra 40 minutes of conversation material to good use!
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;">
+<b>Hint</b>: This is the place to put those extra 40 minutes of conversation material to good use!
+</span>
 
 #### **Swipe and Save**
 
 Get ready to stretch your muscles at this station. Located in the lower level of the library, this interactive wall can display up to 20 book titles at once. If print books are not good enough, the eBooks on this panel – known as the Kinect Glass – should do the trick. To start, mimic the pose shown on the screen with your body and start grabbing titles. Grab as many titles as you want and download them using the QR codes. A maximum of two users can use this station at the same time. To make the library a truly social experience, the Kinect Glass also doubles as a digital collaborative space for you to upload your creations. Other users can download and modify your creations, and then re-upload them onto this platform. Through remixing and reusing, the Kinect Glass encourages conversations and creative collaborations between users.
 
-Hint: Remember to stand at least one metre away from the glass in order for it to pick up your movements.
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;">
+<b>Hint</b>: Remember to stand at least one metre away from the glass in order for it to pick up your movements.
+</span>
 
 #### **Flip and Find**
 
 Imagine a newsstand with an array of magazine titles. Now imagine that newsstand spanning floor-to-ceiling and stretching as far as the eye can see. That is what you will be looking at when you peruse the wall of magazines – filled with a dizzying selection of professional and creative titles that library@orchard has to offer. This is the first public library in Singapore to shelve its entire collection of magazines with the covers facing outward.
 
-Hint: library@orchard holds the largest collection of design magazines of any public library, so get your lifestyle reading fix here!
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;">
+<b>Hint</b>: library@orchard holds the largest collection of design magazines of any public library, so get your lifestyle reading fix here!
+</span>
 
 #### **Look and Listen**
 
 Featuring a total of six screens pushing content out simultaneously, this video wall positioned at the entrance of the library welcomes visitors to library@ orchard. Virtually anything in digital format can be flashed on these screens. The screens will be used to showcase films from the library’s collection or from library@orchard’s partners.
 
-Hint: If this is your first visit to library@orchard, you may not know where to start. Make a quick stop at this wall to get a feel of the layout of the library from the digital library map or to get the latest information on happenings at library@orchard.
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;">
+<b>Hint</b>: If this is your first visit to library@orchard, you may not know where to start. Make a quick stop at this wall to get a feel of the layout of the library from the digital library map or to get the latest information on happenings at library@orchard.
+</span>
 
 #### **Dabble and Delight**
 
 library@orchard is the first mall library to have three dedicated programme zones for activities and events. Delineated by glass doors, these zones can be segregated into three separate spaces or merged into one big space, making it one of the most versatile spaces in the library.
 
-Hint: If you are curious by nature, head to library@orchard on the last Friday and Saturday of the month to catch the Resident Maker in action. Taking inspiration from the Artistin-Residence concept, library@orchard will feature talented individuals – such as artists and designers – working at their craft in the dedicated MakerSpace. Visitors can watch as the Resident Maker potters about or interrupt and ask them questions about their work. 
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;">
+<b>Hint</b>: If you are curious by nature, head to library@orchard on the last Friday and Saturday of the month to catch the Resident Maker in action. Taking inspiration from the Artist-in-Residence concept, library@orchard will feature talented individuals – such as artists and designers – working at their craft in the dedicated MakerSpace. Visitors can watch as the Resident Maker potters about or interrupt and ask them questions about their work.
+</span>
 
 With so many new features available at library@ orchard, endless possibilities await. We welcome you to keep coming back for more.
 
