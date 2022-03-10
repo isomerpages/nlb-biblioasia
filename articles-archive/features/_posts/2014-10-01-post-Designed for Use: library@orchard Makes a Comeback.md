@@ -41,14 +41,16 @@ The interactive screen growing out of each book tree allows users to read about 
 Communities can go one step further to take charge of planting, growing and taking care of their very own book tree. They can adopt a tree and curate their own collection of books at library@orchard and hopefully be able to nurture a community of loyal readers over time.
 
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;">
-	<b>Hint</b>: If you find it hard to start conversations with new people or find yourself at a loss of what to talk to people about, then these book trees are made for you. After reading the visual displays, you should be able to take part in a 10-minute conversation on the topic. Given that there are four trees and the topics are rotated monthly, users can gain an extra 40 minutes of conversation material every month!
+<b>Hint</b>: If you find it hard to start conversations with new people or find yourself at a loss of what to talk to people about, then these book trees are made for you. After reading the visual displays, you should be able to take part in a 10-minute conversation on the topic. Given that there are four trees and the topics are rotated monthly, users can gain an extra 40 minutes of conversation material every month!
 </span>
 
 #### **Cosy and Cocooned**
 
 These pod-like cocoons are built to encourage learning and discovering in an intimate setting. Each cocoon has a smooth wood panel that wraps around the seat, leaving an opening at the front. It is perfect for users who wish to immerse themselves in a book and block out distractions while reading. The five cocoons – likely to be favourite hideouts for library@orchard visitors – are scattered throughout the upper level of the library.
 
-Hint: The cocoon with the best view is situated in between the People and Visual collections. It overlooks the park bound by Somerset, Exeter and Killiney roads. With vantage views of such beautiful lush greenery, you can easily spend a whole day reading in this cosy space.
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;">
+<b>Hint</b>: The cocoon with the best view is situated in between the People and Visual collections. It overlooks the park bound by Somerset, Exeter and Killiney roads. With vantage views of such beautiful lush greenery, you can easily spend a whole day reading in this cosy space.
+</span>
 
 #### **Walk and Wander**
 
