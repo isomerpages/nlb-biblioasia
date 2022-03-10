@@ -31,6 +31,11 @@ Here are some design elements that make up the library@orchard experience.
 
 Once you are done with your reading, head over to one of the library’s tall and commanding bookshelf structures. Stretching from floor-to-ceiling, these stunning book trees are a series of shelves containing information waiting to be perused. The book trees integrate various content channels and customers are free to “pluck” books, magazines and audio-visual materials off these trees. The book trees are permanent fixtures found on the upper level of the library, next to their respective collections: Visual, Product, People and Space.
 
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-3/library/Bookshelves .jpg" style="width:70%;">
+Bookshelves in the revamped library span floor-to-ceiling.</div>
+
 The interactive screen growing out of each book tree allows users to read about design personalities and iconic products featured for the month. Content will be strategically “planted” by library@orchard staff but customers can help to nurture these trees by “fertilising” them with their own book recommendations, a process as simple as scanning the physical copy of the book. Other users exploring the display will be able to see this same book in the user-recommended list. To download the list of book recommendations, just scan the QR code on the display with your phone and it will be downloaded onto your eBookshelf. 
 
 Communities can go one step further to take charge of planting, growing and taking care of their very own book tree. They can adopt a tree and curate their own collection of books at library@orchard and hopefully be able to nurture a community of loyal readers over time.
@@ -44,11 +49,6 @@ Communities can go one step further to take charge of planting, growing and taki
 These pod-like cocoons are built to encourage learning and discovering in an intimate setting. Each cocoon has a smooth wood panel that wraps around the seat, leaving an opening at the front. It is perfect for users who wish to immerse themselves in a book and block out distractions while reading. The five cocoons – likely to be favourite hideouts for library@orchard visitors – are scattered throughout the upper level of the library.
 
 Hint: The cocoon with the best view is situated in between the People and Visual collections. It overlooks the park bound by Somerset, Exeter and Killiney roads. With vantage views of such beautiful lush greenery, you can easily spend a whole day reading in this cosy space.
-
-<div style="background-color: white;">
-<br/>
-<img src="/images/vol-10-issue-3/library/Bookshelves .jpg" style="width:70%;">
-Bookshelves in the revamped library span floor-to-ceiling.</div>
 
 #### **Walk and Wander**
 
