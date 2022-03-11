@@ -12,6 +12,9 @@ description: ""
 
 Back in the 1980s and 90s, when Atie was a young girl swimming in the waters surrounding Seletar Island, the Orang Seletar travelled freely on their boats across the Tebrau Strait[^2] between Malaysia and Singapore. Today, more than 20 years later, Atie, together with some of her fellow Orang Seletar, were visiting Singapore again. Not by boat this time though. They were here as tourists, having travelled by land across the Causeway from their village of Kampung Sungai Temon in Johor Bahru, passing through both countries’ immigration checkpoints. My team member Chan Kah Mei and I played host. 
 
+![](/images/Vol%2018%20Issue%201/Orang%20Seletar/children.png)
+<div style="background-color: white;"> Orang Seletar children in their <i>pau kajang</i> at Seletar Island, 1950s. <i>Dr Ivan Polunin Collection, courtesy of National Archives of Singapore.</i></div>
+
 This one-day tour[^3] in October 2019 around parts of Singapore – where they once lived – was the least we could do for them given the incredible hospitality they had shown us since we embarked on our research project in 2018 with another team member, Ruslina Affandi. We had set out to collect oral history interviews from the Orang Seletar, and were able to do so thanks to their time and generosity in sharing their stories.
 
 #### **Who Are the Orang Seletar?**
