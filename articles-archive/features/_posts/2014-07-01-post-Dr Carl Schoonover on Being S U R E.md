@@ -6,6 +6,8 @@ image: /images/vol-10-issue-2/drcarl/sure_diagram.jpg
 layout: post
 description: ""
 ---
+#### In this exclusive interview, <i>Dr Carl Schoonover</i> shares how the brain processes information and the importance of Information Literacy and the S.U.R.E. ways in the corroboration of information and data.
+
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-10-issue-2/drcarl/sure_diagram.jpg" style="width:70%;">
