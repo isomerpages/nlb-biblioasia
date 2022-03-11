@@ -77,6 +77,9 @@ Entel’s younger sister, Mina, is in her early 60s. She has lived in Kampung Pa
 
 During their lifetime, the two siblings, Entel and Mina, have seen immense changes overtake their once-seafaring community. Their ancestors had the liberty of travelling freely along the Tebrau Strait, choosing where and when to row or dock their boats. Unfortunately, the Orang Seletar were eventually compelled to give up their nomadic lifestyle and move to settlements in Johor Bahru. 
 
+![](/images/Vol%2018%20Issue%201/Orang%20Seletar/Map%20of%20Orang%20Seletar%20settlements.png)
+<div style="background-color: white;"> A map showing the locations of the Orang Seletar’s docking spots in Singapore as well as present-day Orang Seletar villages in Johor Bahru. <i>Courtesy of Ilya Katrinnada.</i></div>
+
 This turning point began in around 1948, during the Malayan Emergency, when the British government urged them to relocate to villages so as to control movement in the strait. According to anthropologist Clifford Sather, many families began spending their nights in self-built wooden houses at Kuala Redan (an estuary in Johor), and returning to their *pau kajang* to fish in the daytime.[^11] Another permanent settlement was established in Bakar Batu in the 1950s.
 
 There were, however, families who chose not to settle on land but continued living in their boats. Anthropologist Mariam Ali writes that someone she spoke to mentioned the presence of many Orang Seletar on Seletar Island in around 1963 or 1965. Many moved out in around 1967 – after Singapore gained independence. Without any form of citizenship or identification cards, the Orang Seletar were afraid of being arrested by the police. Almost two decades later, in 1986, those still living in the Seletar area had to relocate due to further development projects.[^12]
