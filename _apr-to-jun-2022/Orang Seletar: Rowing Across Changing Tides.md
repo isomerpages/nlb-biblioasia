@@ -63,7 +63,7 @@ Jefree’s mother, Letih, told us that Tok Batin Buruk once used his spiritual p
 
 Tok Batin Buruk had a son, Entel, who is currently the village headman of Kampung Pasir Putih. Now in his mid-70s, Entel recalls living on Seletar Island for about two months when he was around 18 years old. He later applied to live on the island where his parents earned a living cutting mangrove wood for charcoal, but his application was unsuccessful.
 
-![](/images/Vol%2018%20Issue%201/Orang%20Seletar/10.png)
+![](/images/Vol%2018%20Issue%201/Orang%20Seletar/Entel.png)
 <div style="background-color: white;"> Tok Batin Entel (a son of Tok Batin Buruk) with his wife at Kampung Pasir Putih, Johor Bahru, 2018. <i>Photo by and courtesy of Ilya Katrinnada.
 </i></div>
 
