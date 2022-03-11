@@ -57,7 +57,7 @@ The anthology was published by Denothaya Venthira Press, which was owned by Maka
 
 <a href="/vol-11/issue-4/jan-mar-2016/"><center>Back to Issue</center></a>
 
-**NOTES**
+#### **NOTES**
 
 [^1]:திண்ணப்பன், சுப. (2014, May 2). சிங்கைத் தமிழர் வரலாற்றிலக்கிய வளம். Retrieved from Thinmaith Tamil blogspot; Thinnappan, S.P. (2001). குதிரைப் பந்தய லாவணி. In கடிகாசலம் ந., & சிவசாமி சு [Na. Kaṭikācalam, & Ca. Civacāmi]. (Eds.). [அயலகத் தமிழ்க்கலை, இலக்கியம் – சமகாலச் செல்நெறிகள்](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11268439) [Ayalakat Tamil̲kkalai, ilakkiyam-camakālac celner̲ikaḷ] (p. 430). Cen̲n̲ai: Ulakat Tamil̲ārāycci Nir̲uvan̲am. (Call no.: Tamil RSING 894.81109 AYA)
 
