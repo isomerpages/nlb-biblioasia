@@ -7,6 +7,11 @@ layout: post
 ---
 #### <i>Timothy Pwee</i> introduces the life, times and works of John Turnbull Thomson, engineer, painter, Government Surveyor and Superintendent of Public Works of Singapore.
 
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-2/thomson/john_turnbull_thomson.jpg">
+Portrait of John Turnbull Thomson when he was 26 years old. Used with permission from the Hall-Jones family.</div>
+
 One naturally tends to gravitate towards political and economic figures when thinking about Singapore’s pioneers. Yet the physical environment of Singapore has been indelibly shaped by another class of men: the engineers.
 
 In Stamford Raffles’ day, engineering was a trade learnt through apprenticeship. A mathematics graduate of Aberdeen University by the name of John Turnbull Thomson (1821–1884) did an engineering apprenticeship in Newcastle upon Tyne before venturing out to Penang in 1838 as a surveyor. Thomson was subsequently appointed as Government Surveyor of Singapore in 1841, and became Superintendent of Public Works in 1844, taking over from George D. Coleman, Singapore’s most prominent colonial architect, after the latter returned home.
@@ -39,11 +44,6 @@ Much remains to be researched about Thomson and the works mentioned in this arti
 <br/>
 <img src="/images/vol-10-issue-2/thomson/view_of_sg_from_government_hill.jpg" style="width:70%;">
 “View of Singapore from Government Hill, 1846” by John Turnbull Thomson. In this scene, then Governor of the Straits Settlements, Lt-Col William J. Butterworth, depicted in the foreground with his family, has just presented the ceremonial state sword to Daing Ibrahim, the Temenggong of Johor on 31 August 1846 for the latter’s efforts in helping to curb piracy in the area. Thomson painted the scene from the verandah of Government House, the residence built for Stamford Raffles in 1822 on Government Hill (present-day Fort Canning). <i>Courtesy of National Museum of Singapore, National Heritage Board.</i></div>
-
-<div style="background-color: white;">
-<br/>
-<img src="/images/vol-10-issue-2/thomson/john_turnbull_thomson.jpg">
-Portrait of John Turnbull Thomson when he was 26 years old. Used with permission from the Hall-Jones family.</div>
 
 <div style="background-color: white;">
 <br/>
