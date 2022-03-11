@@ -137,7 +137,7 @@ Leong, W.T.L. (2001, December). Consuming the nation: National Day Parades in Si
 
 Pearson, H.F. (1954). *[Stories of early Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4087398)*. London: University of London Press. (Call no.: RCLOS 959.51 PEA)
 
-Peet, G.L. (2009). [Rickshaw reporter](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13164104). Singapore: Marshall Cavendish Editions. (Call no.: RSING 070.92 PEE)
+Peet, G.L. (2009). *[Rickshaw reporter](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13164104)*. Singapore: Marshall Cavendish Editions. (Call no.: RSING 070.92 PEE)
 
 [Rain…rain…rain](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19600604-1.2.2). (1960, June 4). <i>The Straits Times</i>, p. 1. Retrieved from NewspaperSG.
 
