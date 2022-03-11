@@ -52,7 +52,7 @@ For historians, the battle depicted on this map gives valuable insight into the 
 
 <a href="/vol-11/issue-4/jan-mar-2016/"><center>Back to Issue</center></a>
 
-**NOTES**
+#### **NOTES**
 
 [^1]:Parry, D.E. (2005). *[The cartography of the East Indian Islands = Insulae Indiae Orientalis](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12669569)* (p. 87). London: Country Editions. (Call no.: RSING q912.59 PAR)
 
