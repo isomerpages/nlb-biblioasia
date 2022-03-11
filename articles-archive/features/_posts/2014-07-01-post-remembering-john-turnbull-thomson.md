@@ -5,10 +5,7 @@ permalink: /vol-10/issue-2/jul-sep-2014/john-turnbull-thomson
 image: /images/vol-10-issue-2/thomson/thomson_map.jpg
 layout: post
 ---
-<div style="background-color: white;">
-<br/>
-<img src="/images/vol-10-issue-2/thomson/thomson_map.jpg" style="width:90%;">
-John Turnbull Thomson’s 1846 <i>Plan of Singapore Town and Adjoining Districts From Actual Survey</i> donated to the National Library by Koh Seow Chuan.</div>
+#### <i>Timothy Pwee</i> introduces the life, times and works of John Turnbull Thomson, engineer, painter, Government Surveyor and Superintendent of Public Works of Singapore.
 
 One naturally tends to gravitate towards political and economic figures when thinking about Singapore’s pioneers. Yet the physical environment of Singapore has been indelibly shaped by another class of men: the engineers.
 
@@ -17,6 +14,16 @@ In Stamford Raffles’ day, engineering was a trade learnt through apprenticeshi
 Thomson’s Singapore story was researched and told by a New Zealand relative in <i>An Early Surveyor in Singapore</i> (1979). Author John Hall-Jones filled the book with Thomson’s watercolour paintings and ink drawings depicting many scenes of life in early Singapore. In 1983, the second volume, <i>The Thomson Paintings</i>, was published in colour.
 
 Thomson also wrote two books, <i>Some Glimpses into Life in the Far East</i> (1864) and <i>Sequel to Some Glimpses into Life in the Far East</i> (1865). Written as a series of short vignettes, Thomson’s interesting stories of early colonial Singapore are filled with witty and wry observations about bureaucratic tangles and bold deeds. He also spent time translating parts of Munshi Abdullah’s autobiography as <i>Translations from Hakayit Abdulla</i> (1874). While the original editions have been preserved in the National Library’s rare collection, microfilm copies, reprints and digitised ebooks are available for public use.
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-2/thomson/noted_surveyor.jpg" style="width:70%;">
+John Turnbull Thomson was a noted surveyor, architect and painter. Some of his works were featured in <i>An Early Surveyor in Singapore</i> as well as <i>The Thomson Paintings</i> by his great grandson, John Hall-Jones. <i>Glimpses into Life in Malayan Lands</i> was published in 1984 and is an Oxford University Press reprint of Thomson’s 1864 <i>Glimpses into Life in the Far East</i>. All these books are available for either loan or reference at the National Library and its branches.</div>
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-2/thomson/thomson_map.jpg" style="width:90%;">
+John Turnbull Thomson’s 1846 <i>Plan of Singapore Town and Adjoining Districts From Actual Survey</i> donated to the National Library by Koh Seow Chuan.</div>
 
 Some surviving <i>mukim</i> (district) property maps by Thomson can be found in the National Archives. However, his most well-known map must be the 1846 <i>Plan of Singapore Town</i> (copies can be viewed at the National Library’s Lee Kong Chian Reference Library on the 11th floor).
 
@@ -27,11 +34,6 @@ From 1844 onwards, Thomson took charge of many public works in Singapore, includ
 The pinnacle of Thomson’s career was the construction of Horsburgh Lighthouse (1849– 1851) on Pedra Branca. He described its construction in the July and August 1852 issue of <i>Journal of the Indian Archipelago and Eastern Asia</i> (vol. VI, pp. 376–498). Thomson’s meticulous account is accompanied not just by engineering diagrams but also copious notes about his dealings with the workmen and their foremen, as well as explanations of his actions.
 
 Much remains to be researched about Thomson and the works mentioned in this article are just a few highlights of the material about him in the National Library’s collection. Thomson’s legacy lives on today, not only through his works but also, interestingly, on a wine label. Surveyor Thomson Wines in Central Otago, South New Zealand, was named in honour and memory of Thomson by his great-great-grandson David Hall-Jones.
-
-<div style="background-color: white;">
-<br/>
-<img src="/images/vol-10-issue-2/thomson/noted_surveyor.jpg" style="width:70%;">
-John Turnbull Thomson was a noted surveyor, architect and painter. Some of his works were featured in <i>An Early Surveyor in Singapore</i> as well as <i>The Thomson Paintings</i> by his great grandson, John Hall-Jones. <i>Glimpses into Life in Malayan Lands</i> was published in 1984 and is an Oxford University Press reprint of Thomson’s 1864 <i>Glimpses into Life in the Far East</i>. All these books are available for either loan or reference at the National Library and its branches.</div>
 
 <div style="background-color: white;">
 <br/>
