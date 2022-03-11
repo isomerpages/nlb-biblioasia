@@ -71,12 +71,12 @@ Published in 1935, the second edition of the *Y.W.C.A International Cookery Book
 <img style="width: 350px; height: 450px;" src="/images/vol-9-issue-3/Women%2C%20cookbook%2C%20housewife/w1.jpg">
 <div style="background-color: white;">The <i>Y.M.C.A. International Cookery Book of Malaya</i> was a very successful cookbook with nine editions. It was first published in 1932.</div>
 
+In contrast to the almost exclusive focus on recipes in Kinsey's book, the Y.W.C.A volume offers comprehensive guidance that covers meal planning, purchase of ingredients and other preparatory tasks preliminary to the actual cooking. Most sections are prefaced by general remarks on cooking methods and principles; for example, a brief overview on "How to make soup"[^34] precedes the section on the soup recipes. The ingredients are listed separately from the cooking process of which each step is relayed plainly and succinctly.
+
 <img style="width: 550px; height: 350px;" src="/images/vol-9-issue-3/Women%2C%20cookbook%2C%20housewife/w3.jpg">
 <br>
 <img style="width: 550px; height: 350px;" src="/images/vol-9-issue-3/Women%2C%20cookbook%2C%20housewife/w4.jpg">
-<div style="background-color: white;"> Note the stylistic differences for the same potato soup recipe between 'Hems" Own and the Y.W.C.A cookbook. <i>Top: Kinsey, 1929, p.10; Bottom: Holttum & Hinch, 1935, p. 52.</i></div>
-
-In contrast to the almost exclusive focus on recipes in Kinsey's book, the Y.W.C.A volume offers comprehensive guidance that covers meal planning, purchase of ingredients and other preparatory tasks preliminary to the actual cooking. Most sections are prefaced by general remarks on cooking methods and principles; for example, a brief overview on "How to make soup"[^34] precedes the section on the soup recipes. The ingredients are listed separately from the cooking process of which each step is relayed plainly and succinctly.
+<div style="background-color: white;"> Note the stylistic differences for the same potato soup recipe between <i>“Mems” Own</i> and the Y.W.C.A cookbook. <i>Top: Kinsey, 1929, p.10; Bottom: Holttum & Hinch, 1935, p. 52.</i></div>
 
 Placing the knowledge of local foods and the colonial diet on a scientific footing, the Y.W.C.A cookbook introduces the concept of "food values", in which an individual's energy and nutritional requirements dictate the basis for efficient and healthful eating in the tropics.[^35] This is complemented by a "chemical analyses of Malayan foods", in which over 90 local products, including *blachan* (dried shrimp paste), shark's fin and edible bird's nest, are reduced to their caloric content and nutritional composition."[^36] 
 	
