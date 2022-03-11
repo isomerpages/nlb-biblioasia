@@ -37,7 +37,7 @@ Today, there are nine Orang Seletar settlements in Johor Bahru with a combined p
 The minibus stopped at the roadside by the Merlion Park. As we were taking photos with the Merlion overlooking the Singapore River, our guests took out their handwoven *tajak* (headdress) to wear. We strolled by the river, eventually arriving at the statue of Stamford Raffles at Empress Place. 
 
 ![](/images/Vol%2018%20Issue%201/Orang%20Seletar/Girls%20in%20traditional%20wear.png)
-<div style="background-color: white;"> Orang Seletar girls in traditional wear, which include a handwoven tajak (headdress), 2019. Nowadays, the traditional attire is worn for performances during special occasions such as weddings and designated special days like the International Day of the World’s Indigenous Peoples. <i>Photo courtesy of Jefree bin Salim.</i></div>
+<div style="background-color: white;"> Orang Seletar girls in traditional wear, which include a handwoven <i>tajak<i> (headdress), 2019. Nowadays, the traditional attire is worn for performances during special occasions such as weddings and designated special days like the International Day of the World’s Indigenous Peoples. <i>Photo courtesy of Jefree bin Salim.</i></div>
 
 When Raffles first set foot on Singapore in January 1819, the Orang Seletar made up a fifth of the 1,000 or so inhabitants recorded by Raffles.[^8] It was also documented that there were about 20 to 30 Malays in the temenggong’s entourage at the time. The fact that the number of Orang Seletar and Malays were reported separately imply that the two were seen as distinct ethnic groups, despite similarities in their physical appearance. This still rings true today. 
 
@@ -94,6 +94,9 @@ There were, however, families who chose not to settle on land but continued livi
 Up until 1987, the Orang Seletar who had taken up Malaysian citizenship were still granted unrestricted movement across the Tebrau Strait into Singapore territory, albeit unofficially. But following the arrest of an Orang Seletar who was exploited to smuggle illicit goods across the strait, Jefree said that they were no longer able to access Singapore waters. Although Jefree’s mother dates this incident to the 1980s, he recalls tagging along on fishing trips to Lim Chu Kang and Woodlands as a young boy in the 1990s. Interestingly, a relative of Jefree’s recently managed to fish at the Singapore side of the waters upon handing over his Malaysian identity card to the coastguards on duty. Once done, he retrieved his card from the guards before returning to his village in Johor.
 
 Standing on the boardwalk at Lower Seletar Reservoir Park, it felt surreal to think that some of our guests and their ancestors had travelled here on their boats. This was back when the reservoir was a flowing river that drained into the Tebrau Strait. We walked to the end of the boardwalk to the large patio. Kah Mei and I helped our guests take a group shot – a rare modern-day photo of the Orang Seletar at what used to be the Seletar River.
+
+![](/images/Vol%2018%20Issue%201/Orang%20Seletar/13-2%20(6x9cm).png)
+<div style="background-color: white;"> The Orang Seletar at the Lower Seletar Reservoir Park, 2019. The reservoir was once the Seletar River that drained into the Tebrau Strait. <i>Photo courtesy of Jefree bin Salim. <i>Photo courtesy of Jefree bin Salim.</i></div>
 
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">
 In 2018 and 2019, a project was set up to formally archive the voices of one of Singapore’s indigenous groups – the Orang Seletar. Nine people from four Orang Seletar kampongs in Johor Bahru were interviewed. The project team aims to eventually deposit these interviews at the National Archives of Singapore.
