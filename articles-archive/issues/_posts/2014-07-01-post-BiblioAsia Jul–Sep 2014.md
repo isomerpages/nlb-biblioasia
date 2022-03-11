@@ -11,7 +11,7 @@ description: ""
 
 [<b>So, What is a Singaporean?</b>](/vol-10/issue-2/jul-sep-2014/singapore-identity-kishore-mahbubani)<br><i>Kishore Mahbubani</i> contemplates the Singaporean identity, its basis and its fragility.[(PDF)](/files/pdf/vol-10/issue-2/v10-issue2_Singaporean.pdf)
 
-[<b>Of Belacan and Curry Puffs: A Taste of Singapore’s Past</b>](/vol-10/issue-2/jul-sep-2014/belachan-curry-puff-singapore-food-heritaget)<br><i>Bonny Tan</i> pores through the rich archives of Malayan newspapers and shows how disparate communities have come together to create a food culture that is truly emblematic of Singapore's multicultural character.[(PDF)](/files/pdf/vol-10/issue-2/v10-issue2_BelacanCurryPuffs.pdf)
+[<b>Of Belacan and Curry Puffs: A Taste of Singapore’s Past</b>](/vol-10/issue-2/jul-sep-2014/belachan-curry-puff-singapore-food-heritage)<br><i>Bonny Tan</i> pores through the rich archives of Malayan newspapers and shows how disparate communities have come together to create a food culture that is truly emblematic of Singapore's multicultural character.[(PDF)](/files/pdf/vol-10/issue-2/v10-issue2_BelacanCurryPuffs.pdf)
 
 [<b>Parades, Flags and Rallies: Celebrating Singapore’s National Day</b>](/vol-10/issue-2/jul-sep-2014/singapore-national-day-parades)<br>National Day parades have been a ubiquitous part of Singapore’s National Day celebrations since Independence. <i>Lim Tin Seng</i> delves into its history, its significance and its evolution.[(PDF)](/files/pdf/vol-10/issue-2/v10-issue2_ParadesFlags.pdf)
 
