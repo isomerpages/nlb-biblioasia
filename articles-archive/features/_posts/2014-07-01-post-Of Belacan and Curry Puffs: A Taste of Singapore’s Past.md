@@ -6,7 +6,6 @@ image: /images/vol-10-issue-2/belacanandcurrypuff/belacan_used.jpg
 layout: post
 description: ""
 ---
-
 #### **Bonny Tan** pores through the rich archives of Malayan newspapers and shows how disparate communities have come together to create a food culture that is truly emblematic of Singapore's multicultural character.
 
 <div style="background-color: white;">
@@ -97,7 +96,7 @@ In exploring iconic local dishes, newspaper articles help paint a multi-dimensio
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-10-issue-2/belacanandcurrypuff/filling_and_sealing.jpg" style="width:70%;">
-Workers filling and sealing curry puffs to be baked and sold. <i>Image from currypuff.com, All rights reserved.</i></div>
+Workers filling and sealing curry puffs to be baked and sold. <i>Image from currypuff.com. All rights reserved.</i></div>
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> 
 <b>STEPPING ON IT</b>
 <br><br>
@@ -156,7 +155,7 @@ Chan, M. (1987, November 22). [An old recipe adds fillip to satay dish](http://e
 
 Chia, K.S. (1952, February 28). [The shrimpers of Tanjong Bungah](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19520228-1.2.173). <i>The Straits Times</i>, p. 10. Retrieved from NewspaperSG.
 
-[Distressful Malacca](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19100512-1.2.42). (1910, May 12). <i>The Singapore Free Press</i> and Mercantile Advertiser, p. 5. Retrieved from NewspaperSG.
+[Distressful Malacca](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19100512-1.2.42). (1910, May 12). <i>The Singapore Free Press and Mercantile Advertiser</i>, p. 5. Retrieved from NewspaperSG.
 
 Drabble, D. (1950, February 23). [A Tamby takes it easy – with a curry puff](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19500223-1.2.140). <i>The Straits Times</i>, p. 12. Retrieved from NewspaperSG.
 
