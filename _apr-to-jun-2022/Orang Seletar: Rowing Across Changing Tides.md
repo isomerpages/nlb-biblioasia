@@ -99,14 +99,14 @@ The author is grateful that what had started out as an independent passion proje
 
 [^6]: Amir Ahmad and Hamid Mohd Isa, “The Influence of Environmental Adaptation on Orang Seletar Cultures.”
 
-[^7]: Mariam Ali, “Singapore’s Orang Seletar, Orang Kallang, and Orang Selat: The Last Settlements,” in Tribal Communities in the Malay World: Historical, Cultural, and Social Perspectives, ed. Geoffrey Benjamin and Cynthia Chou (Singapore: Institute of Southeast Asian Studies, 2002), 273–92. (From National Library, Singapore, Call no. RSING 305.8959 TRI)
+[^7]: Mariam Ali, “Singapore’s Orang Seletar, Orang Kallang, and Orang Selat: The Last Settlements,” in *[Tribal Communities in the Malay World: Historical, Cultural, and Social Perspectives](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11113017)*, ed. Geoffrey Benjamin and Cynthia Chou (Singapore: Institute of Southeast Asian Studies, 2002), 273–92. (From National Library, Singapore, Call no. RSING 305.8959 TRI)
 
-[^8]: “1819 Singapore Treaty,” in Singapore Infopedia. National Library Board Singapore. Article published 15 May 2014
+[^8]: “[1819 Singapore Treaty](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2014-05-16_133354.html),” in *Singapore Infopedia*. National Library Board Singapore. Article published 15 May 2014
 
-[^9]: Clifford Sather, The Orang Laut (n.p.: Academy of Social Sciences in cooperation with Universiti Sains Malaysia, Royal Netherlands Government, 1999), 12. (From National Library, Singapore, Call no. RSEA 306.08095951 SAT) 
+[^9]: Clifford Sather, *[The Orang Laut](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12247857)* (n.p.: Academy of Social Sciences in cooperation with Universiti Sains Malaysia, Royal Netherlands Government, 1999), 12. (From National Library, Singapore, Call no. RSEA 306.08095951 SAT) 
 
-[^10]: Tok Batin is a title used to refer to a village headman. This term was coined by the Malays, and is commonly used today. In the Orang Seletar language, the headman is called Pak Ketuak.
+[^10]: *Tok Batin* is a title used to refer to a village headman. This term was coined by the Malays, and is commonly used today. In the Orang Seletar language, the headman is called *Pak Ketuak*.
 
-[^11]: Sather, The Orang Laut, 8.
+[^11]: Sather, *[The Orang Laut](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12247857)*, 8.
 
 [^12]: Mariam Ali, “Singapore’s Orang Seletar, Orang Kallang, and Orang Selat: The Last Settlements,” 273–92.
