@@ -37,7 +37,7 @@ Today, there are nine Orang Seletar settlements in Johor Bahru with a combined p
 The minibus stopped at the roadside by the Merlion Park. As we were taking photos with the Merlion overlooking the Singapore River, our guests took out their handwoven *tajak* (headdress) to wear. We strolled by the river, eventually arriving at the statue of Stamford Raffles at Empress Place. 
 
 ![](/images/Vol%2018%20Issue%201/Orang%20Seletar/Girls%20in%20traditional%20wear.png)
-<div style="background-color: white;"> Orang Seletar girls in traditional wear, which include a handwoven <i>tajak<i> (headdress), 2019. Nowadays, the traditional attire is worn for performances during special occasions such as weddings and designated special days like the International Day of the World’s Indigenous Peoples. <i>Photo courtesy of Jefree bin Salim.</i></div>
+<div style="background-color: white;"> Orang Seletar girls in traditional wear, which include a handwoven <i>tajak</i> (headdress), 2019. Nowadays, the traditional attire is worn for performances during special occasions such as weddings and designated special days like the International Day of the World’s Indigenous Peoples. <i>Photo courtesy of Jefree bin Salim.</i></div>
 
 When Raffles first set foot on Singapore in January 1819, the Orang Seletar made up a fifth of the 1,000 or so inhabitants recorded by Raffles.[^8] It was also documented that there were about 20 to 30 Malays in the temenggong’s entourage at the time. The fact that the number of Orang Seletar and Malays were reported separately imply that the two were seen as distinct ethnic groups, despite similarities in their physical appearance. This still rings true today. 
 
