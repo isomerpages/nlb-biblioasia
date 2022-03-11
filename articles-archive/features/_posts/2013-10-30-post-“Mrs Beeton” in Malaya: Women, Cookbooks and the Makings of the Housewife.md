@@ -42,9 +42,6 @@ Beyond the use of "Mrs Beeton" books in colonial homes, the "presence" of "Mrs B
 
 "The housewives who come out to Malaya from Europe may be divided into two distinct groups. The first is composed of dilettante wives, who leave everything pertaining to culinary matters and the control of their households entirely to their native staffs, and who, consequently, are forever (sic) complaining of the lack of flavour and nourishment of the food in Malaya and the absence of training and honesty of those who serve them. The other group consists of those who take an intelligent interest in the supplies and preparation of food and all which affects the comfort of their homes. [...] Has it not been said, ‘Home-making hearts are happiest’.” 
 <div style="text-align: right">— E. M. M. (1933, April 23)</div>
-<br>
-<img style="width: 350px; height: 450px;" src="/images/vol-9-issue-3/Women%2C%20cookbook%2C%20housewife/w1.jpg">
-<div style="background-color: white;">The Y.M.C.A. International Cookery Book of Malaya was a very successful cookbook with nine editions. It was first published in 1932.</div>
 
 The above observation made by an experienced *mem* implies that the fundamental purpose - in fact, the very happiness - of the English wife in Malaya resides in the conscientious care of the home. The establishment of the English home in colonial territories led to a "physical repositioning of the hitherto private into [...] the most public of realms - the British empire."[^15] As will be subsequently explained, this intersection of domesticity with imperial power provided an avenue through which European women could advance the work of the British Empire in ways that were consistent with prevailing gender roles.
 
@@ -73,6 +70,9 @@ Mary Heathcott recounts an episode where, tired of the usual *ikan merah* (red s
 Cookbooks reveal the processes through which the colonial knowledge of Malaya was constructed. The inclusion of recipes for *rundang* (a spicy meat stew, or *rendang*) and *satai* (skewered, grilled meat or *satay*) in "*Mems*" *Own* introduced and explicated the preparation and consumption of otherwise unfamiliar local foods, consequently normalising their presence within the colonial diet.
 
 Published in 1935, the second edi-tion of the Y.W.C.A *International Cookery Book of Malaya* by Mrs R. E. Holttum and Mrs T. W. Hinch differs markedly from Kinsey's work in ways that signal the extent to which food and nutrition in Malaya had become a subject of intellectual and practical study. As a compilation of "the numerous recipes used in the in-ternational cooking lessons conducted [...] by the [Young Women's Christian] Association,"[^33] the volume is perhaps more closely identified with the teaching of domestic science than "*Mems*" *Own*.
+
+<img style="width: 350px; height: 450px;" src="/images/vol-9-issue-3/Women%2C%20cookbook%2C%20housewife/w1.jpg">
+<div style="background-color: white;">The <i>Y.M.C.A. International Cookery Book of Malaya</i> was a very successful cookbook with nine editions. It was first published in 1932.</div>
 
 <img style="width: 550px; height: 350px;" src="/images/vol-9-issue-3/Women%2C%20cookbook%2C%20housewife/w3.jpg">
 <br>
