@@ -51,7 +51,7 @@ We made our way to the boardwalk leading out to the reservoir. While walking, I 
 
 “This is Tok Batin Buruk,”[^10] Jefree bin Salim said as he pointed to a black-and-white photo on the panel. Jefree had a camera in his hand, as he usually does. Having taught himself photography, Jefree has since been visually documenting the Orang Seletar community across the nine villages in Johor Bahru. A son of the headman of Kampung Sungai Temon, Jefree, who is in his early 40s, is active in advocating for the rights of his people and has contributed his images to court cases against commercial developers looking to gain control over the land that his village sits on.
 
-Taken at Seletar Island in the 1950s by Ivan Polunin, the photo depicts some Orang Seletar sitting atop their pau kajang. In the middle of the photo is Tok Batin Buruk, Jefree’s granduncle, who was the headman at the time. We were told that Tok Batin Buruk was a spiritually powerful man. 
+Taken at Seletar Island in the 1950s by Ivan Polunin, the photo depicts some Orang Seletar sitting atop their *pau kajang*. In the middle of the photo is Tok Batin Buruk, Jefree’s granduncle, who was the headman at the time. We were told that Tok Batin Buruk was a spiritually powerful man. 
 
 Jefree’s mother, Letih, told us that Tok Batin Buruk once used his spiritual prowess, along with a handkerchief, to help the then sultan of Johor court the Princess of Kelantan. This story reflects the close patron-client relationship between the Orang Seletar and the sultan in the past. Before World War II, they worked for the sultan, who paid them to catch crabs and fishes. They also often received invitations to the palace and accompanied the sultan on his hunting trips. 
 
