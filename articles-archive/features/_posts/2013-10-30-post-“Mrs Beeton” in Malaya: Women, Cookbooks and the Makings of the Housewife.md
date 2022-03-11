@@ -16,7 +16,7 @@ Regarded as the paragon of progressive womanhood in the history of British domes
  
 This essay examines individuals in Malaya who were privileged enough to have received English language education, who saw the value of penning down what they knew and who possessed the wherewithal to publish their writings. The primary focus is on English-language cookbooks, largely due to the relative paucity of extant vernacular cookery texts published in the same period.
 
-#### **The Recipe Book and its implications**
+#### **The Recipe Book and Its Implications**
 
 A recipe book may seem unique to the socio-cultural context in which it was written and published, but, it speaks across time when it borrows from earlier works and draws on the conventions of its genre. In contextualising the recipe book within the history of British publishing, Margaret Beetham said: "The systematic reproduction of cooking instructions in commercial forms of print was symptomatic of a much wider process by which oral knowledges (sic) were gradually superseded by print."[^2] Instructions on food preparation appeared as part of general household advice in printed books of "receipts" that predated the 19th century as well as in magazines and manuals that increasingly targeted a middle-class female readership since the 1850s.[^3] 
 
@@ -28,7 +28,7 @@ Her volume nevertheless contained an innovation that has since become a defining
 
 In this way, Beeton's volume delineated the practicalities of running the home with unprecedented clarity and brevity. This paved the way for "a science of domestic management, one that could be systematically taught through textbooks."[^8] As a result, Beeton not only articulated the responsibilities and expected conduct of the middleclass woman as the mistress of the household but also provided detailed and precise instructions for the fulfilment of her role. Therein lies the "public normalising impulse"[^9] of the cookbook, among other household manuals, in setting the criteria for the proper management of the kitchen/ domestic sphere and as the arbiter of consumption.
 
-#### **"Mrs Beeton” arrives in Malaya**
+#### **"Mrs Beeton” Arrives in Malaya**
 
 The success of Beeton's book lies in its ability to explicitly address the particular cultural anxieties of its intended audience by offering a feminine ideal to which the women could aspire. Decades after its initial publication, "Mrs Beeton" still spoke with authority and relevance to a new generation of Englishwomen setting up their homes in the far-flung lands of the British Empire.
 
@@ -38,7 +38,7 @@ In Malaya, the recipe book became indispensable to the newly arrived European wi
 
 Beyond the use of "Mrs Beeton" books in colonial homes, the "presence" of "Mrs Beeton" in Malaya alludes to the translation of feminine domesticity from Victorian England to the Malayan context in the form of texts that deal with cookery. While it is admittedly difficult to determine the extent of direct influence that Beeton's volume had on Malayan cookery texts, "Mrs Beeton", as a symbol of domesticity, an embodiment of the multi-layered nature and discursive potential of the recipe book, as "a practical manual, and a method for scientific education and a fantasy text"[^14] offer approaches to interpreting the recipe books of Malaya.
 
-#### **The myth of the lazy mem**
+#### **The Myth of the Lazy Mem**
 
 "The housewives who come out to Malaya from Europe may be divided into two distinct groups. The first is composed of dilettante wives, who leave everything pertaining to culinary matters and the control of their households entirely to their native staffs, and who, consequently, are forever (sic) complaining of the lack of flavour and nourishment of the food in Malaya and the absence of training and honesty of those who serve them. The other group consists of those who take an intelligent interest in the supplies and preparation of food and all which affects the comfort of their homes. [...] Has it not been said, ‘Home-making hearts are happiest’.” 
 <div style="text-align: right">— E. M. M. (1933, April 23)</div>
@@ -62,7 +62,7 @@ The colonial cookbook was an administrative text that conceivably helped the *me
 
 Mary Heathcott recounts an episode where, tired of the usual *ikan merah* (red snapper) and pomfret, her attempt to introduce a new fish encountered resistance from her cook, Ah Lee, as he protested "Fish no good" and even questioned, "Why you not buy *ikan merah*?" While Ah Lee eventually cooked the fish for lunch, Heathcott "had the ground undermined beneath [her] feet" by her family's refusal to eat the fish on account that "The cook knows. It's probably bad [...] and we'll all look much sillier with fish poisoning."[^30] Heathcott pronounced this incident a "Complete rout of Mem".[^31] In this particular instance, *mem* had the last laugh as she later discovers from *Malayan Fish and How to Cook Them*,[^32] that the fish was, in fact, edible and of "good flavour".
 
-#### **The domestication of malayan foods**
+#### **The Domestication of Malayan Foods**
 
 Cookbooks reveal the processes through which the colonial knowledge of Malaya was constructed. The inclusion of recipes for *rundang* (a spicy meat stew, or *rendang*) and *satai* (skewered, grilled meat or *satay*) in "*Mems*" *Own* introduced and explicated the preparation and consumption of otherwise unfamiliar local foods, consequently normalising their presence within the colonial diet.
 
@@ -108,7 +108,7 @@ In her introduction to the book, Hing casts ethnic pluralism in a positive light
 
 Unlike the Y.W.C.A volume, the recipes in Hing's book are presented together in one chapter regardless of their ethnic affiliations. For example, the recipes for Java *nasi goreng* (fried rice) and Cantonese-style fried rice are listed in the same category, "Dishes", in the index. In fact, both recipes are featured on the same page. This manner of mapping the culinary diversity of Malaya encourages the reader to readily perceive commonalities between the cuisine of her community and that of others. Hing’s cookbook thus points to how women, through the food they prepare, create opportunities in which they and their families, and by extension, their communities, could experience — albeit superficially — the everyday lives of fellow Malayans.
 
-#### **Food for thought**
+#### **Food for Thought**
 
 As has been shown, cookbooks can be read beyond their literal content to explore meanings embedded in the structure, tone, language and other aspects of textuality. The cookbook has emerged as a cultural form that not only reaffirmed the association between domesticity and femininity but is also identified with female self-expression. The cookbook is an amalgamation of ideas and inspirations derived from women (and men) of different generations, ethnicities and even social strata as recipes are recurrently exchanged and reproduced.
 
