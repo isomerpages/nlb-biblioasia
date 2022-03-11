@@ -5,8 +5,8 @@ description: ""
 ---
 #### Singapore was once a home to the seafaring Orang Seletar who now reside in Johor Bahru. **Ilya Katrinnada** takes them on a tour around Singapore visiting Merlion Park, Sembawang Park and Lower Seletar Reservoir Park.
 
-![](/images/Vol%2018%20Issue%201/Orchid%20Diplomacy/Sealara%20Nelson%20Mandela%20(credit%20NParks).png)
-<div style="background-color: white;"> The <i>Paravanda</i> Nelson Mandela, named after the former president of South Africa, bears flowers that have a bright greenish-yellow hue with a reddish tinge, resembling the colours of the South African flag. <i>Courtesy of the National Parks Board.</i></div>
+![](/images/Vol%2018%20Issue%201/Orang%20Seletar/orang_seletar_cover.png)
+<div style="background-color: white;"> An Orang Seletar with his dogs (<i>angkook</i> in the Orang Seletar language), 2018. These pets are loyal companions. <i>Photo courtesy of Jefree bin Salim.</i></div>
 
 “I remember playing over there when I was a kid!” Atie[^1] exclaimed while pointing to the sea. A fisherwoman now in her late 30s, her wide eyes glinted with unmistakeable joy. Her excitement was matched by the 15 or so other people around us. Eagerly looking out the windows of the minibus, they chattered in their native Kon Seletar language as we drove along Yishun Dam, giving us a glimpse of Seletar Island, a place that is intimately tied to the history of the Orang Seletar.
 
