@@ -89,9 +89,9 @@ The author is grateful that what had started out as an independent passion proje
 
 [^1]: This name is a pseudonym.
 
-[^2]: The Tebrau Strait is perhaps more popularly known as the Johor Strait. In the Kon Seletar language, the term tebrau refers to a big fish.
+[^2]: The Tebrau Strait is perhaps more popularly known as the Johor Strait. In the Kon Seletar language, the term *tebrau* refers to a big fish.
 
-[^3]: The tour was part of a longer three-day visit, during which the Orang Seletar were invited to watch Tanah • Air 水 • 土：A Play in Two Parts by Drama Box. The play highlighted the displacement of the indigenous Malays and Orang Seletar of Singapore.
+[^3]: The tour was part of a longer three-day visit, during which the Orang Seletar were invited to watch *Tanah • Air 水 • 土：A Play in Two Parts by Drama Box.* The play highlighted the displacement of the indigenous Malays and Orang Seletar of Singapore.
 
 [^4]: The Orang Seletar are one of the 18 Orang Asli (indigenous people) ethnic groups in Malaysia. They are also part of the Orang Laut (Sea People), an umbrella term for the various groups of sea nomads who occupied the waters surrounding the Melaka Strait. The Orang Seletar refer to themselves as Kon and speak their own language.
 
