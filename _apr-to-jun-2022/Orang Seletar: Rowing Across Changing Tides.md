@@ -76,3 +76,37 @@ In 2018 and 2019, a project was set up to formally archive the voices of one of 
 <br><br>
 The author is grateful that what had started out as an independent passion project turned into genuine, longstanding friendships. She would like to express her heartfelt thanks to her project teammates, Ruslina Affandi and Chan Kah Mei, as well as to the Orang Seletar who contributed to the project: Eddy bin Salim, Jefree bin Salim, Kelah bin Lah @ Kilo, Komeng, Letih, Lel bin Jantan, Tok Batin Entel, Tok Batin Salim bin Palun and Mina binte Buruk. Special thanks are also due to Jefree bin Salim for contributing photographs for this essay.
 </div>
+
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol%2018%20Issue%201/Authors/Asrina_Tanuri.png" style="width: 100px; height: 100px;"/>
+	<b>Asrina Tanuri</b> is a Manager (Research) with the National Library, Singapore, where she provides information services to government agencies. Her research areas include community safety and security, and adult learning.</div>
+
+	
+	
+#### **NOTES**
+
+[^1]: This name is a pseudonym.
+
+[^2]: The Tebrau Strait is perhaps more popularly known as the Johor Strait. In the Kon Seletar language, the term tebrau refers to a big fish.
+
+[^3]: The tour was part of a longer three-day visit, during which the Orang Seletar were invited to watch Tanah • Air 水 • 土：A Play in Two Parts by Drama Box. The play highlighted the displacement of the indigenous Malays and Orang Seletar of Singapore.
+
+[^4]: The Orang Seletar are one of the 18 Orang Asli (indigenous people) ethnic groups in Malaysia. They are also part of the Orang Laut (Sea People), an umbrella term for the various groups of sea nomads who occupied the waters surrounding the Melaka Strait. The Orang Seletar refer to themselves as Kon and speak their own language.
+
+[^5]: Amir Ahmad and Hamid Mohd Isa, “The Influence of Environmental Adaptation on Orang Seletar Cultures,” 7th International Seminar on Ecology, Human Habitat and Environmental Change in the Malay World, 27 January 2015, Repository University of Riau, https://repository.unri.ac.id/xmlui/handle/123456789/6662.
+
+[^6]: Amir Ahmad and Hamid Mohd Isa, “The Influence of Environmental Adaptation on Orang Seletar Cultures.”
+
+[^7]: Mariam Ali, “Singapore’s Orang Seletar, Orang Kallang, and Orang Selat: The Last Settlements,” in Tribal Communities in the Malay World: Historical, Cultural, and Social Perspectives, ed. Geoffrey Benjamin and Cynthia Chou (Singapore: Institute of Southeast Asian Studies, 2002), 273–92. (From National Library, Singapore, Call no. RSING 305.8959 TRI)
+
+[^8]: “1819 Singapore Treaty,” in Singapore Infopedia. National Library Board Singapore. Article published 15 May 2014
+
+[^9]: Clifford Sather, The Orang Laut (n.p.: Academy of Social Sciences in cooperation with Universiti Sains Malaysia, Royal Netherlands Government, 1999), 12. (From National Library, Singapore, Call no. RSEA 306.08095951 SAT) 
+
+[^10]: Tok Batin is a title used to refer to a village headman. This term was coined by the Malays, and is commonly used today. In the Orang Seletar language, the headman is called Pak Ketuak.
+
+[^11]: Sather, The Orang Laut, 8.
+
+[^12]: Mariam Ali, “Singapore’s Orang Seletar, Orang Kallang, and Orang Selat: The Last Settlements,” 273–92.
