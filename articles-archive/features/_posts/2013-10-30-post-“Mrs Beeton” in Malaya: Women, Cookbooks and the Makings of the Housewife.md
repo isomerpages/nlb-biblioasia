@@ -148,9 +148,9 @@ Homi Bhabha. (1997). Of mimicry and man: The ambivalence of colonial discourse (
 
 Newlyn, A.K. (1999, Fall). Challenging contemporary narrative theory: The alternative textual strategies of nineteenth-century manuscript cookbooks. *Journal of American Culture, 22* (3), 35–47. Retrieved from Wiley Online website.
 
-Procida, M. (2003, Summer). Feeding the imperial appetite: Imperial knowledge and Anglo-Indian domesticity. *Journal of Women’s History, 15* (2), 123–149.
+Procida, M. (2003, Summer). Feeding the imperial appetite: Imperial knowledge and Anglo-Indian domesticity. *Journal of Women’s History, 15* (2), 123–149. Retrieved from ProQuest via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
-Tobias, S.M. (1998). Early American cookbooks as cultural artifacts. *Papers on language & literature, 34* (1), 3–18.
+Tobias, S.M. (1998). Early American cookbooks as cultural artifacts. *Papers on language & literature, 34* (1), 3–18. Retrieved from ProQuest via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
 Zlotnick, S. (1996). Domesticating imperialism: Curry and cookbooks in Victorian England. *Frontiers: A Journal of Women Studies, 16* (2/3), 51–68. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
@@ -185,9 +185,9 @@ V.St.J. (1938, March 6). [I return to Malaya as a bride](http://eresources.nlb.g
 [^17]:Blunt, A. (1999). Imperial geographies of home: British domesticity in India, 1886–1925. *Transactions of the Institute of British Geographers, 24* (4), 421–440, 429–431. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 [^18]:Brownfoot, 1984, p. 196.
 [^19]:MacCallum Scott, J.H. (1939). [*Eastern journey*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4316240) (p. 14). London: Travel Book Club. (Call no.: RCLOS 959 MAC)
-[^20]:Dirks, N.B. (1996). Foreword. In B. Cohn, [*Colonialism and its forms of knowledge: The British in India*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7758745) (p. ix). New Jersey: Princeton University Press. (Call no.: R 954 COH), quoted in Procida, M. (2003). Feeding the imperial appetite: Imperial knowledge and Anglo-Indian domesticity. *Journal of Women’s History, 15* (2), 123–149, p. 138.
+[^20]:Dirks, N.B. (1996). Foreword. In B. Cohn, [*Colonialism and its forms of knowledge: The British in India*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7758745) (p. ix). New Jersey: Princeton University Press. (Call no.: R 954 COH), quoted in Procida, M. (2003). Feeding the imperial appetite: Imperial knowledge and Anglo-Indian domesticity. *Journal of Women’s History, 15* (2), 123–149, p. 138. Retrieved from ProQuest via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 [^21]:Blunt, 1999, p. 431.
-[^22]:For a description of the content and aspects of food history, see Tan, B. (2011). Malayan cookery books. [*BiblioAsia*](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx)*, 7* (3), 30–34. Retrieved from BiblioAsia website. 
+[^22]:For a description of the content and aspects of food history, see Tan, B. (2011). Malayan cookery books. [*BiblioAsia*](https://biblioasia.nlb.gov.sg/all-issues/)*, 7* (3), 30–34. Retrieved from BiblioAsia website. 
 [^23]:Kinsey, W.E. (1929). [*The mem's own cookery book: 420 tried and economical recipes for Malaya*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5232525) (Preface). Singapore: Kelly & Walsh. (Call no.: RRARE 641.59595 KIN; Microfilm no.: NL9852)
 [^24]:[The literary page – new books reviewed](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19300919-1.2.110). (1930, January 31). *The Straits Times*, p. 17. Retrieved from NewspaperSG.
 [^25]:[Some new books](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19220506-1.2.56). (1922, May 6). *The Singapore Free Press and Mercantile Advertiser*, p. 9. Retrieved from NewspaperSG.
