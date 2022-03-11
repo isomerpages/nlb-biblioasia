@@ -36,15 +36,13 @@ By the early 20th century, extracts of the original work had been published in b
 
 In Malaya, the recipe book became indispensable to the newly arrived European wife, or *memsahib*[^12] (often truncated as *mem*), as a guide to reproducing home – or rather the familiar taste of it – abroad. More than a means for educating the self, the recipe book was used to instruct servants where, for example, "with the aid of ‘Mrs Beeton’ and a little tact and courage [the *mem*] may convert a bad or indifferent cook into a quite presentable exponent of the art".[^13] 
 
-<img style="width: 350px; height: 450px;" src="/images/vol-9-issue-3/Women%2C%20cookbook%2C%20housewife/w2.jpg">
-<div style="background-color: white;">First published in 1920, "Mems" Own featured a recipe style that was quite different from the Beeton format.</div>
-
 Beyond the use of "Mrs Beeton" books in colonial homes, the "presence" of "Mrs Beeton" in Malaya alludes to the translation of feminine domesticity from Victorian England to the Malayan context in the form of texts that deal with cookery. While it is admittedly difficult to determine the extent of direct influence that Beeton's volume had on Malayan cookery texts, "Mrs Beeton", as a symbol of domesticity, an embodiment of the multi-layered nature and discursive potential of the recipe book, as "a practical manual, and a method for scientific education and a fantasy text"[^14] offer approaches to interpreting the recipe books of Malaya.
 
 #### **The myth of the lazy mem**
 
-"The housewives who come out to Malaya from Europe may be divided into two distinct groups. The first is composed of dilettante wives, who leave everything pertaining to culinary matters and the control of their households entirely to their native staffs, and who, consequently, are forever (sic) complaining of the lack of flavour and nourishment of the food in Malaya and the absence of training and honesty of those who serve them. The other group consists of those who take an intelligent interest in the supplies and preparation of food and all which affects the comfort of their homes. [...] Has it not been said, "Home-making hearts are happiest." — E. M. M. (1933, April 23).
-
+"The housewives who come out to Malaya from Europe may be divided into two distinct groups. The first is composed of dilettante wives, who leave everything pertaining to culinary matters and the control of their households entirely to their native staffs, and who, consequently, are forever (sic) complaining of the lack of flavour and nourishment of the food in Malaya and the absence of training and honesty of those who serve them. The other group consists of those who take an intelligent interest in the supplies and preparation of food and all which affects the comfort of their homes. [...] Has it not been said, ‘Home-making hearts are happiest’.” 
+<div style="text-align: right">— E. M. M. (1933, April 23)</div>
+<br>
 <img style="width: 350px; height: 450px;" src="/images/vol-9-issue-3/Women%2C%20cookbook%2C%20housewife/w1.jpg">
 <div style="background-color: white;">The Y.M.C.A. International Cookery Book of Malaya was a very successful cookbook with nine editions. It was first published in 1932.</div>
 
@@ -58,6 +56,9 @@ The domestic role of the European wife thus carried a political significance in 
 <div style="background-color: white;"> In a Malayan Kitchen by Mrs Susie Hing was published in 1956 and did not segregate recipes along ethnic lines.</div>
 
 First published in 1920, W. E. Kinsey's *The "Mems" Own Cookery Book*[^22] ("*Mems*" *Own*) would have been much favoured by the "other group" of European housewives who took "an intelligent interest" in domestic affairs. Kinsey expressed that the book aims "to help those '*mems*' who are keen on taking advantage of the possibilities of catering in this country."[^23] Boasting 420 "tried and economical" recipes based on "FIVE Years (sic) [...] practical application by the writer", Kinsey clearly presented herself as an authority on colonial cooking. As if to allay any doubts, the preface concludes with an "IMPORTANT (sic)" note declaring "*ALL* (sic) these recipes have been TRIED AND PROVED (sic) by the writer in Seremban, Negri Sembilan, F. M. S." Kinsey thus ap¬pealed to aspiring *mems* with the prospect of efficient domestic management made easier through failsafe recipes - "not one is beyond the resources of the average kitchen even in the absence of scales".[^24] 
+
+<img style="width: 350px; height: 450px;" src="/images/vol-9-issue-3/Women%2C%20cookbook%2C%20housewife/w2.jpg">
+<div style="background-color: white;">First published in 1920, <i>"Mems" Own</i> featured a recipe style that was quite different from the Beeton format.</div>
 
 The instruction for each dish weaves together ingredients, method and personal opinion in a single paragraph. No doubt a cookery book, "*Mems*" *Own*, however, did not adopt the Beeton format, which demonstrates how older styles of recipe writing continued alongside newer conventions. Reflecting the hybrid nature of colonial cuisine, the reci¬pes cover quintessential English fare as well as French and Anglo-Indian dishes familiar to the British palate. The *mem* is therefore able to overcome "the extreme difficulty of fixing the menu for the next day [...] by constructing a roster of courses"[^25] from Kinsey's recipes. Then, book in hand, the *mem* "can either prepare herself or instruct 'cookie' in a host of dishes which should do a great deal to remove the charge of monotony which is sometimes levelled at food in Malaya."[^26]
 
