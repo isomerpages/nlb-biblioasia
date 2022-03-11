@@ -61,9 +61,9 @@ In 2012, these four letters were part of an exhibition displaying 20 letters wri
 
 – Written by Ong Eng Chuan
 
-#### **NOTES**
-
 <a href="/vol-11/issue-4/jan-mar-2016/"><center>Back to Issue</center></a>
+
+#### **NOTES**
 
 [^1]:Glendinning, V. (2012). *[Raffles and the golden opportunity 1781–1826](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14482247)* (p. 209). London: Profile Books. (Call no.: RSING 959.57021092 GLE-[HIS]); Turnbull, C.M. (2009). *[A history of modern Singapore, 1819–2005](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13206047)* (p. 29). Singapore: NUS Press. (Call no.: RSING 959.57 TUR-[HIS])
 
