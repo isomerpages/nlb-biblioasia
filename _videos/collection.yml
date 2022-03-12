@@ -2,10 +2,10 @@ collections:
   videos:
     output: true
     order:
-      - Stories from BiblioAsia/.keep
       - From Book to Cook/.keep
       - From Book to Cook/The Curry Chronicles.md
       - From Book to Cook/Tapioca Tales.md
       - From Book to Cook/Nasi Lemak Istimewa.md
       - From Book to Cook/Eat More Wheat!.md
       - From Book to Cook/Definitely Not Spaghetti Bolognese.md
+      - Stories from BiblioAsia/.keep
