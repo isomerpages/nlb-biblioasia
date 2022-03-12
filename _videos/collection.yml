@@ -2,5 +2,6 @@ collections:
   videos:
     output: true
     order:
+      - Tapioca Tales/Stories from BiblioAsia.md
       - Tapioca Tales/From Book to Cook.md
       - Tapioca Tales/.keep
