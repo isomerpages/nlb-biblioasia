@@ -2,5 +2,6 @@ collections:
   videos:
     output: true
     order:
+      - Tapioca Tales.md
       - The Curry Chronicles.md
       - Stories from BiblioAsia.md
