@@ -2,5 +2,6 @@ collections:
   videos:
     output: true
     order:
+      - The Curry Chronicles.md
       - Stories from BiblioAsia.md
       - From Book to Cook.md
