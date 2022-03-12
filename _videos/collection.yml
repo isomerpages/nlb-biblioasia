@@ -1,4 +1,5 @@
 collections:
   videos:
     output: true
-    order: []
+    order:
+      - From Book to Cook.md
