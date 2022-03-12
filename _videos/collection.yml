@@ -2,6 +2,7 @@ collections:
   videos:
     output: true
     order:
+      - Stories from BiblioAsia/.keep
       - From Book to Cook/.keep
       - From Book to Cook/The Curry Chronicles.md
       - From Book to Cook/Tapioca Tales.md
