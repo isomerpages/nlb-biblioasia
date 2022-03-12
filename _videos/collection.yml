@@ -2,4 +2,5 @@ collections:
   videos:
     output: true
     order:
+      - Stories from BiblioAsia.md
       - From Book to Cook.md
