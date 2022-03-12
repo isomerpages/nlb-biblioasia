@@ -2,6 +2,7 @@ collections:
   videos:
     output: true
     order:
+      - From Book to Cook/.keep
       - Definitely Not Spaghetti Bolognese.md
       - Eat More Wheat!.md
       - Nasi Lemak Istimewa.md
