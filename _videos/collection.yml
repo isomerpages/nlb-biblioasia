@@ -2,6 +2,7 @@ collections:
   videos:
     output: true
     order:
+      - Nasi Lemak Istimewa.md
       - Tapioca Tales.md
       - The Curry Chronicles.md
       - Stories from BiblioAsia.md
