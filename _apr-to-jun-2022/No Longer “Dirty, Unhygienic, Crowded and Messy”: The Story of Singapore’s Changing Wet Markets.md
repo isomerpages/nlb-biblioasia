@@ -173,7 +173,7 @@ It remains to be seen what will happen to the wet market in the future. Will it 
 
 [^32]: “[Wet Market Slaughtering To Be Phased Out by ’92](Wet Market Slaughtering To Be Phased Out by ’92),” *Straits Times*, 6 July 1990, 3; Tan Ban Huat, “[Call for Study on Slaughter of Chickens at One Place](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820112-1.2.42),” *Straits Times*, 12 January 1982, 10. (From NewspaperSG)
 
-[^33]: L.E. Prema, “Cuppage Market to Sell Dressed Fowls Only,” *Straits Times*, 19 August 1987, 16. (From NewspaperSG) 
+[^33]: L.E. Prema, “[Cuppage Market to Sell Dressed Fowls Only](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19870819-1.2.26.28),” *Straits Times*, 19 August 1987, 16. (From NewspaperSG) 
 
 [^34]: Prema, “Cuppage Market to Sell Dressed Fowls Only.” 
 
