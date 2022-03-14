@@ -110,3 +110,5 @@ It remains to be seen what will happen to the wet market in the future. Will it 
 #### **NOTES**
 
 [^1]: Najmul Haider, et al., “Covid-19 – Zoonosis or Emerging Infectious Disease?,” *Frontiers in Public Health* 8, 26 November 2020, https://www.frontiersin.org/articles/10.3389/fpubh.2020.596944/full.
+
+[^2]: Dina Fine Maron, “‘Wet Markets’ Likely Launched the Coronavirus. Here’s What You Need to Know,” *National Geographic*, 15 April 2020, https://www.nationalgeographic.com/animals/article/coronavirus-linked-to-chinese-wet-markets.
