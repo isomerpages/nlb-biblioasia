@@ -125,9 +125,9 @@ Tan’s notebooks and will, as well as the receipt book for the rental of the Ma
 
 [^22]: Tan Cheng Kee, *Will of Tan Cheng Kee* (Singapore: n.p., 1935–39). (From National Library Singapore, Call no. RRARE 384.8092 WIL)
 
-[^23]: Tan, *Will of Tan Cheng Kee*, 5. 
+[^23]: Tan, [*Will of Tan Cheng Kee*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203916535), 5. 
 
-[^24]: “Death of Mr. Tan Cheng Kee”; “Domestic Occurrences,” *Malaya Tribune*, 14 September 1939,  15; “Untitled,” *Straits Times*, 28 January 1927, 9. (From NewspaperSG)
+[^24]: “[Death of Mr. Tan Cheng Kee](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19390912-1.2.28)”; “[Domestic Occurrences](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19390914-1.2.121),” *Malaya Tribune*, 14 September 1939,  15; “[Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19270128-1.2.73),” *Straits Times*, 28 January 1927, 9. (From NewspaperSG)
 
 [^25]: “[Legal Tussle Over Sites of 2 Theatres](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19470510-1.2.62),” *Malaya Tribune*, 10 May 1947, 5. (From NewspaperSG)
 
