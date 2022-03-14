@@ -126,7 +126,7 @@ It remains to be seen what will happen to the wet market in the future. Will it 
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol%2018%20Issue%201/Authors/Rebecca_tan.png" style="width: 100px; height: 100px;"/>
+<img src="/images/Vol%2018%20Issue%201/Authors/Zoe%20Yeo.png" style="width: 100px; height: 100px;"/>
 	<b>Zoe Yeo</b> is a Librarian with the National Library, Singapore. She is part of the team that oversees the statutory functions at the National Library Board. She manages the Legal Deposit function and collection, including its collection policies, workflows and enforcement as well as engagement with publishers and the public.</div>
 
 #### **NOTES**
