@@ -123,7 +123,7 @@ Tan’s notebooks and will, as well as the receipt book for the rental of the Ma
 
 [^21]: *Tan Cheng Kee*, Tan Cheng Kee’s Notebooks (Singapore: n.p., 1912–38). (From National Library Singapore, Call no. RRARE 384.8092 TAN)
 
-[^22]: Tan Cheng Kee, *Will of Tan Cheng Kee* (Singapore: n.p., 1935–39). (From National Library Singapore, Call no. RRARE 384.8092 WIL)
+[^22]: Tan Cheng Kee, [*Will of Tan Cheng Kee*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203916535) (Singapore: n.p., 1935–39). (From National Library Singapore, Call no. RRARE 384.8092 WIL)
 
 [^23]: Tan, [*Will of Tan Cheng Kee*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203916535), 5. 
 
