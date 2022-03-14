@@ -13,6 +13,8 @@ To most people in Singapore, the wet market is so much a part of the landscape t
 
 To explain the concept of a wet market, the *National Geographic* in April 2020 described it as “large collections of open-air stalls selling fresh seafood, meat, fruits, and vegetables”. These markets “sell and slaughter live animals on site, including chickens, fish, and shellfish”. The “wet” in wet markets is attributed to “live fish splashing in tubs of water, melting ice keeping meat cold, the blood and innards of slaughtered animals”. [^2] Unfortunately, “wet market” is often conflated with “wildlife market” even though most wet markets don’t sell wildlife.
 
+![](/images/Vol%2018%20Issue%201/Wet%20Market/8ed6060f-1162-11e3-83d5-0050568939ad.png)
+
 Although the interest in wet markets, particularly the one in Wuhan, skyrocketed in 2020, many are unaware that the term “wet market” may have first arisen in Singapore. The term began to appear in the late 1970s. A *Straits Times* article published on 13 July 1978 noted that the Trade Department said that it was “reluctant to introduce the sale of frozen fish in ‘wet’ markets for fear of profiteering by hawkers” and also “fear that some hawkers may thaw the fish and sell it as fresh”.[^3] The use of quote marks around the word wet suggests that it was a novel term.
 
 The term “wet market” was formally recorded in the Oxford English Dictionary in 2016 and was defined as a “market for the sale of fresh meat, fish, and produce” in Southeast Asia.[^4] 
@@ -38,9 +40,13 @@ By the end of the 19th century, the Municipal Commission had established four ot
 
 Ellenborough Market was located between Ellenborough Street and Fish Street (both expunged). The market was known in Malay as Pasar Bahru, which means “New Market”. It was also nicknamed “Teochew Market” as many Teochews lived in the area. The market was noted for its fresh fish and dried seafood products. However, a fire that gutted the market in January 1968, during the lunar new year, affected some 1,000 hawkers and stallholders. The remnants of the market were later demolished, and Housing and Development Board flats, a market and a hawker centre were constructed at the site in the 1970s.[^15] These were demolished in the 1990s to make way for Clarke Quay Central and Swissôtel Merchant Court. 
 
+![](/images/Vol%2018%20Issue%201/Wet%20Market/19980007378%20IMG0037.png)
+
 #### **Clyde Terrace Market**
 
 Clyde Terrace Market, also known as Pasar Besi and Ti-Pa-Sat (铁巴刹), meaning “Iron Market” in Malay and Hokkien respectively, was well known for its structure that was mostly constructed of iron. The market was initially a cluster of tiled sheds at Campong (Kampong) Glam Beach. In August 1871, the sheds were described in the press as “not only disgraceful in their outward appearance, but their internal condition is anything but inviting, and it is next to impossible to keep them clean”.[^16] 
+
+![](/images/Vol%2018%20Issue%201/Wet%20Market/Clyde%20Terrace%20Market.png)
 
 Preparations for a new market began in 1872 when iron pillars and other building materials were imported from England, with the laying of the foundation stone on 29 March 1873. Located near Clyde Terrace (present-day Beach Road) on the reclaimed stretch of land facing the sea, the market began operations around 1874. It later also functioned as a wholesale market and distribution centre where vendors purchased fresh produce and sold them in rural villages and other smaller markets.[^17] Clyde Terrace Market was demolished in 1983 and the Gateway office complex stands at the site today.[^18]
 
@@ -48,9 +54,13 @@ Preparations for a new market began in 1872 when iron pillars and other building
 
 Rochor Market, built in 1872, was a popular landmark in the Sungei Road district. The market served the surrounding community for more than a century before it was demolished in August 1982.[^19] Little is known about this market and an open-air carpark occupies the site today. 
 
+![](/images/Vol%2018%20Issue%201/Wet%20Market/19980005879%20IMG0002.png)
+
 #### **Orchard Road Market**
 
 Located at what is now Orchard Point, Orchard Road Market was known by the locals as Tang Leng Pa Sat or Tanglin Pa Sat.[^20] It sold fresh produce at higher prices compared to other markets in Singapore due to its wealthier European customers.[^21] The fountain that currently stands in the courtyard of Raffles Hotel was once located in front of Orchard Road Market.[^22] The market was demolished and replaced by Orchard Point in 1982.[^23]
+
+![](/images/Vol%2018%20Issue%201/Wet%20Market/d6044f63-1161-11e3-83d5-0050568939ad.png)
 
 #### **New-generation Wet Markets**
 
