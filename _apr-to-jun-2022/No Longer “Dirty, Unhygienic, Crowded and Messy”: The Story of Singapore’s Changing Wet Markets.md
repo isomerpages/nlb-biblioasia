@@ -147,3 +147,14 @@ It remains to be seen what will happen to the wet market in the future. Will it 
 
 [^19]: Ratnala Thulaja Naidu, “Sungei Road,” in *Singapore Infopedia*. National Library Board Singapore. Article published 2017.
 
+[^20]: Stephen Sim, “Singapore Streets Have Nicknames,” *Straits Times*, 29 September 1949, 8; Jackie Sam, “Orchard Road in Retrospect,” *Singapore Monitor*, 21 October 1884, 1. (From NewspaperSG)
+
+[^21]: “Don’t Aid the Black Market,” *Singapore Free Press*, 19 May 1947, 4; “Price Chief Flays Orchard Road Market ‘Ring’,” *Malaya Tribune*, 5 June 1948, 1; “2 Reasons for High Food Prices,” *Singapore Standard*, 30 March 1951, 2. (From NewspaperSG)
+
+[^22]: Gretchen Liu, *Raffles Hotel* (Singapore: Landmark Books, 1992), 212. (From National Library, Singapore, Call no. RSING 647.94595701 LIU)
+
+[^23]: Marsita Omar, “Orchard Road Market,” in *Singapore Infopedia*. National Library Board Singapore. Article published April 2021; *Ray K. Tyers, Ray Tyers’ Singapore: Then & Now*, revised and updated by Siow Jin Hua (Singapore: Landmark Books, 1993), 162, 164 (From National Library, Singapore, Call no. RSING 959.57 TYE-[HIS]); “‘New Look’ Plan by URA for Orchard Rd,” *Straits Times*, 2 December 1978, 13. (From NewspaperSG)
+
+[^24]: Tan, *Wet Markets*, 5; “买菜光景 不同啰!” [“Grocery Shopping Scene Is Different”], 新明日报 [*Xin Min Ri Bao*], 8 August 1995, 16; 冯剑斌 [Feng Jianbin], “湿巴刹气数未尽” [“Not the End of Wet Markets”], 联合早报 [*Lianhe Zaobao*], 25 October 2009, 24. (From NewspaperSG) 
+
+[^25]: Lizzy Lee, *巴刹 Pasar: The Personalities of Singapore’s Wet Markets* (Singapore: National Library Board, 2014), 6. (From National Library, Singapore, Call no. RSING 381.1095957 LEE)
