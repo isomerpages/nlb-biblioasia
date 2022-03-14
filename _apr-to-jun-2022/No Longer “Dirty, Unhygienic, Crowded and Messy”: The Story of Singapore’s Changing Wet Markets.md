@@ -165,7 +165,7 @@ It remains to be seen what will happen to the wet market in the future. Will it 
 
 [^28]: [Sew](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/13f6459a-1160-11e3-83d5-0050568939ad), interview; [Thian](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/45db4864-3b0a-11e5-b55d-0050568939ad), interview. 
 
-[^29]: Serendipity, “Inscrutably Oriental,” *New Nation*, 3 November 1974, 18. (From NewspaperSG)
+[^29]: Serendipity, “[Inscrutably Oriental](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19741103-1.2.37),” *New Nation*, 3 November 1974, 18. (From NewspaperSG)
 
 [^30]: Serendipity, “Inscrutably Oriental.”
 
