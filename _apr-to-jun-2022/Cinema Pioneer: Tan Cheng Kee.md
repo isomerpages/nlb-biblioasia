@@ -135,6 +135,6 @@ Tan’s notebooks and will, as well as the receipt book for the rental of the Ma
 
 [^27]: “Alhambra to Reopen in October,” *Singapore Free Press*, 17 September 1947, 5. (From NewspaperSG)
 
-[^28]: “Alhambra to be Renovated,” *Straits Times*, 13 January 1951, 5; “[Face Lift for S’pore Cinema](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19510114-1.2.80.2),” *Straits Times*, 14 January 1951, 11. (From NewspaperSG)
+[^28]: “[Alhambra to be Renovated](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19510113-1.2.103),” *Straits Times*, 13 January 1951, 5; “[Face Lift for S’pore Cinema](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19510114-1.2.80.2),” *Straits Times*, 14 January 1951, 11. (From NewspaperSG)
 
 [^29]: Lim, [*Cathay: 55 Years of Cinema*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=6095688), 72; “[100, Beach Road, Through the Years](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/citywkly19960719-1.2.4),” *City Weekly*, 19 July 1996, 2; “[Gala Cinema to Open with Charity Show](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19661221-1.2.178),” *Straits Times*, 21 December 1966, 24. (From NewspaperSG)
