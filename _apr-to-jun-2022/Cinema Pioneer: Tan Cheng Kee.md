@@ -3,7 +3,6 @@ title: "Cinema Pioneer: Tan Cheng Kee"
 permalink: /apr-to-jun-2022/vol-18/issue-1/cinema-pioneer-tan-cheng-kee
 description: ""
 ---
-
 #### The Alhambra and Marlborough theatres were famous landmarks in pre-war Singapore. **Barbara Quek** looks at these cinemas, and the man behind the curtain.
 
 ![](/images/Vol%2018%20Issue%201/Orang%20Seletar/orang_seletar_cover.png)
@@ -85,3 +84,32 @@ Tan’s notebooks and will, as well as the receipt book for the rental of the Ma
 [^1]: Gloria Chandy, “The Pioneer Cinemas,” *New Nation*, 19 March 1979, 9. (From NewspaperSG)
 
 [^2]: “Remembering Garrick.” *Straits Times*, 13 May 1990, 26. (From NewspaperSG)
+
+[^3]: Song Ong Siang, *One Hundred Years’ History of the Chinese in Singapore* (London: John Murray, 1923), 222. (From BookSG); “The Late Mr. Tan Keong Saik,” Straits Times, 6 October 1909, 7; “Death of Mr. Tan Cheng Kee,” *Malaya Tribune*, 12 September 1939, 2. (From NewspaperSG)
+
+[^4]: “Thirty Years of Film Entertainment,” *Singapore Free Press and Mercantile Advertiser*, 2 January 1932, 20. (From NewspaperSG); Chua Ai Lin, “Cultural Consumption and Cosmopolitan Connections: Chinese Cinema Entrepreneurs in 1920s and 1930s Singapore,” in *The Business of Culture: Cultural Entrepreneurs in China and Southeast Asia, 1900–65,* ed. Christopher Rea and Nicolai Volland (Vancouver: UBC Press, [2015]), 209. (From National Library, Singapore, Call no. 330.951 BUS)
+
+[^5]: “The Grand Cinematograph,” *Singapore Free Press and Mercantile Advertiser*, 14 September 1907, 12; “Page 2 Advertisements Column 3,” *Singapore Free Press and Mercantile Advertiser*, 16 October 1907, 2. (From NewspaperSG)
+
+[^6]: “Mountain-air Climate in Singapore”; “Thirty Years of Film Entertainment,” *Singapore Free Press and Mercantile Advertiser*, 2 January 1932, 20, “Page 8 Advertisements Column 5,” Straits Times, 9 July 1909, 8. (From NewspaperSG)
+
+[^7]: “Still Another Theatre for Singapore,” *Malaya Tribune*, 12 February 1914, 5. (From NewspaperSG)
+
+[^8]: “The New Alhambra,” *Malaya Tribune*, 13 January 1916, 9. (From NewspaperSG); Alan Chong, ed. *Great Peranakans: Fifty Remarkable Lives.* (Singapore: Asian Civilisations Museum, 2015), 146. (From National Library, Singapore, Call no. RSING 305.895105957 GRE)
+
+[^9]: “The New Alhambra.”
+
+[^10]: Chandy, “The Pioneer Cinemas”; Lim, Kay Tong, *Cathay: 55 Years of Cinema* (Singapore: Landmark Books, 1991), 72. (From National Library, Singapore, Call no. RSING 791.43095957 LIM)
+
+[^11]: George L. Peet, Rickshaw Reporter (Singapore: Eastern Universities Press, 1985), 133. (From National Library, Singapore, Call no. RSING 070.924 PEE)
+
+[^12]: “The Palladium,” Malaya Tribune, 1 May 1918, 4; “Untitled,” *Singapore Free Press and Mercantile Advertiser*, 2 May 1918, 275. (From NewspaperSG)
+
+[^13]: “Page 4 Advertisements Column 2,” *Malaya Tribune*, 2 October 1925, 4; “Page 6 Advertisements Column 1,” *Straits Times*, 1 December 1925, 6. (From NewspaperSG)
+
+[^14]: Susanna Kulatissa, “... Not Forgotten,” *Straits Times*, 21 July 1985, 10; “Orchard Gateway Opens After Delay,” *Straits Times*, 19 April 2014. (From NewspaperSG)
+
+[^15]: “Picture Shows,” *Singapore Free Press and Mercantile Advertiser*, 26 February 1918, 10. (From NewspaperSG)
+
+
+
