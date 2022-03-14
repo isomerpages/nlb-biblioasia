@@ -91,11 +91,11 @@ Tan’s notebooks and will, as well as the receipt book for the rental of the Ma
 
 [^5]: “The Grand Cinematograph,” *Singapore Free Press and Mercantile Advertiser*, 14 September 1907, 12; “Page 2 Advertisements Column 3,” *Singapore Free Press and Mercantile Advertiser*, 16 October 1907, 2. (From NewspaperSG)
 
-[^6]: “Mountain-air Climate in Singapore”; “Thirty Years of Film Entertainment,” *Singapore Free Press and Mercantile Advertiser*, 2 January 1932, 20, “Page 8 Advertisements Column 5,” Straits Times, 9 July 1909, 8. (From NewspaperSG)
+[^6]: “[Mountain-air Climate in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19380727-1.2.150.23)”; “[Thirty Years of Film Entertainment](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19320102-1.2.133.49),” *Singapore Free Press and Mercantile Advertiser*, 2 January 1932, 20, “[Page 8 Advertisements Column 5](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19090709-1.2.98.5),” Straits Times, 9 July 1909, 8. (From NewspaperSG)
 
-[^7]: “Still Another Theatre for Singapore,” *Malaya Tribune*, 12 February 1914, 5. (From NewspaperSG)
+[^7]: “[Still Another Theatre for Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19140212-1.2.17),” *Malaya Tribune*, 12 February 1914, 5. (From NewspaperSG)
 
-[^8]: “The New Alhambra,” *Malaya Tribune*, 13 January 1916, 9. (From NewspaperSG); Alan Chong, ed. *Great Peranakans: Fifty Remarkable Lives.* (Singapore: Asian Civilisations Museum, 2015), 146. (From National Library, Singapore, Call no. RSING 305.895105957 GRE)
+[^8]: “[The New Alhambra](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19160113-1.2.28),” *Malaya Tribune*, 13 January 1916, 9. (From NewspaperSG); Alan Chong, ed. [*Great Peranakans: Fifty Remarkable Lives.*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201273828) (Singapore: Asian Civilisations Museum, 2015), 146. (From National Library, Singapore, Call no. RSING 305.895105957 GRE)
 
 [^9]: “The New Alhambra.”
 
