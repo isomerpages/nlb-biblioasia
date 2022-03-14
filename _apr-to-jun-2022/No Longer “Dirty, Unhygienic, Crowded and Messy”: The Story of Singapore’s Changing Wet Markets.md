@@ -177,11 +177,11 @@ It remains to be seen what will happen to the wet market in the future. Will it 
 
 [^34]: Prema, “[Cuppage Market to Sell Dressed Fowls Only](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19870819-1.2.26.28).” 
 
-[^35]: “Wet Market Slaughtering To Be Phased Out by ’92”; Susan Loh and Anne Tan, “Housewives Ready to Switch to Chilled Fowl,” Straits Times, 3 August 1990, 33. (From NewspaperSG) 
+[^35]: “[Wet Market Slaughtering To Be Phased Out by ’92](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900706-1.2.7.5)”; Susan Loh and Anne Tan, “[Housewives Ready to Switch to Chilled Fowl](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900706-1.2.7.5,” Straits Times, 3 August 1990, 33.) (From NewspaperSG) 
 
-[^36]: “Date and ‘Halal’ Marks for Abbatoir Poultry from July 15,” *Straits Times*, 23 May 1992, 2; “Tags to Ensure Pre-Slaughtered Poultry is Fresh,” *Straits Times*, 13 March 1992, 26. (From NewspaperSG)
+[^36]: “[Date and ‘Halal’ Marks for Abbatoir Poultry from July 15](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19920523-1.2.6.6),” *Straits Times*, 23 May 1992, 2; “[Tags to Ensure Pre-Slaughtered Poultry is Fresh](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19920313-1.2.39.6),” *Straits Times*, 13 March 1992, 26. (From NewspaperSG)
 
-[^37]: “Wet Markets End Poultry Slaughtering,” *Straits Times*, 28 February 1993, 21. (From NewspaperSG) 
+[^37]: “[Wet Markets End Poultry Slaughtering](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19930228-1.2.25.19),” *Straits Times*, 28 February 1993, 21. (From NewspaperSG) 
 
 [^38]: Ang Qing, “Sale and Slaughter of Live Turtles, Frogs Banned at Wet Markets in S’pore Due to Health Concerns,” Straits Times, 14 July 2021, https://www.straitstimes.com/singapore/sale-and-slaughter-of-live-turtles-frogs-banned-at-wet-markets-in-spore-due-to-health. 
 
