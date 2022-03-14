@@ -112,3 +112,24 @@ It remains to be seen what will happen to the wet market in the future. Will it 
 [^1]: Najmul Haider, et al., “Covid-19 – Zoonosis or Emerging Infectious Disease?,” *Frontiers in Public Health* 8, 26 November 2020, https://www.frontiersin.org/articles/10.3389/fpubh.2020.596944/full.
 
 [^2]: Dina Fine Maron, “‘Wet Markets’ Likely Launched the Coronavirus. Here’s What You Need to Know,” *National Geographic*, 15 April 2020, https://www.nationalgeographic.com/animals/article/coronavirus-linked-to-chinese-wet-markets.
+
+[^3]: “Frozen Fish: Fear of Profiteering at ‘Wet’ Markets,” *Straits Times*, 13 July 1978, 9. (From NewspaperSG)
+
+[^4]: “Wet Market,” *Oxford English Dictionary*, accessed 3 February 2022, https://www.oed.com/view/Entry/227970#eid12103480.
+
+[^5]: Russell Jones, ed., *Loan-words in Indonesian and Malay* (Leiden: KITLV Press, 2007), 235. (From National Library, Singapore, Call no. RSEA 499.22124 LOA); Britannica, T. Editors of Encyclopaedia, “bazaar,” *Encyclopedia Britannica*, 31 May 2016, https://www.britannica.com/topic/bazaar.
+
+[^6]: “巴刹: Market,” Promote Mandarin Council, last updated 11 June 2020, https://www.languagecouncils.sg/mandarin/en/learning-resources/singaporean-mandarin-database/terms/market.
+
+[^7]: Alvin Tan, *Community Heritage Series II: Wet Markets* (Singapore: National Heritage Board, 2013), 5, accessed 3 February 2022, https://www.nhb.gov.sg/~/media/nhb/files/resources/publications/ebooks/nhb_ebook_wet_markets.pdf.
+
+[^8]: Lee Kip Lin, *Telok Ayer Market: A Historical Account of the Market from the Founding of the Settlement of Singapore to the Present Time* (Singapore: Archives & Oral History Dept., 1983), 9–10 (From National Library, Singapore, Call no. RCLOS 725.21095957 LEE); Charles Burton Buckley, *An Anecdotal History of Old Times in Singapore: From the Foundation of the Settlement… on February 6th, 1819 to the Transfer to the Colonial Office … on April 1st, 1867* (Singapore: Oxford University Press, 1984), 74. (From National Library, Singapore, Call no. RSING 959.57 BUC)
+
+[^9]: Lee, *Telok Ayer Market*, 11, 16–17. 
+
+[^10]: Tan, *Wet Markets*, 5; “Former Telok Ayer Market (now known as Lau Pa Sat),” National Heritage Board, last updated 2 November 2020, https://www.roots.gov.sg/places/places-landing/Places/national-monuments/former-telok-ayer-market-now-known-as-lau-pa-sat; Lee, *Telok Ayer Market*, 19, 21. 
+
+[^11]: In July 1876, Annie Brassey boarded the *Sunbeam* to travel around the world with her husband, four children and a number of pet dogs. An account of her travels was published in 1878. See Annie Brassey,* A Voyage in the ‘Sunbeam’: Our Home on the Ocean for Eleven Months* (London: Longmans, Green, 1878). (From National Library, Singapore, Call no. RRARE 910.41 BRA; Microfilm no. NL25750); Bonny Tan, “Globetrotting Mums: Then and Now,” *BiblioAsia* 14, no. 2 (Jul–Sep 2018).
+
+[^12]:
+
