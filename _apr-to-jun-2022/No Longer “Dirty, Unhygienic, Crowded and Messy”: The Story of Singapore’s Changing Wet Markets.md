@@ -157,11 +157,11 @@ It remains to be seen what will happen to the wet market in the future. Will it 
 
 [^24]: Tan, *Wet Markets*, 5; “[买菜光景 不同啰](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/shinmin19950808-1.2.47.9)!” [“Grocery Shopping Scene Is Different”], 新明日报 [*Xin Min Ri Bao*], 8 August 1995, 16; 冯剑斌 [Feng Jianbin], “[湿巴刹气数未尽](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb20091025-1.2.26.3)” [“Not the End of Wet Markets”], 联合早报 [*Lianhe Zaobao*], 25 October 2009, 24. (From NewspaperSG) 
 
-[^25]: Lizzy Lee, *巴刹 Pasar: The Personalities of Singapore’s Wet Markets* (Singapore: National Library Board, 2014), 6. (From National Library, Singapore, Call no. RSING 381.1095957 LEE)
+[^25]: Lizzy Lee, [*巴刹 Pasar: The Personalities of Singapore’s Wet Markets*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200172456) (Singapore: National Library Board, 2014), 6. (From National Library, Singapore, Call no. RSING 381.1095957 LEE)
 
 [^26]:“Tiong Bahru Wet Market,” The Best Singapore, 8 January 2021, https://www.thebestsingapore.com/best-place/tiong-bahru-wet-market/.
 
-[^27]: Sew Teng Kwok, oral history interview by Yoo Loo Feng, 13 October 1999, MP3 audio, Reel/Disc 9 of 23. (From National Archives of Singapore, Accession no. 002209); Thian Boon Hua, oral history interview by Jesley Chua Chee Huan, 25 July 2014, MP3 audio, Reel/Disc 12 of 66. (From National Archives of Singapore, Accession no. 003888)
+[^27]: [Sew Teng Kwok](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/13f6459a-1160-11e3-83d5-0050568939ad), oral history interview by Yoo Loo Feng, 13 October 1999, MP3 audio, Reel/Disc 9 of 23. (From National Archives of Singapore, Accession no. 002209); [Thian Boon Hua](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/45db4864-3b0a-11e5-b55d-0050568939ad), oral history interview by Jesley Chua Chee Huan, 25 July 2014, MP3 audio, Reel/Disc 12 of 66. (From National Archives of Singapore, Accession no. 003888)
 
 [^28]: Sew, interview; Thian, interview. 
 
