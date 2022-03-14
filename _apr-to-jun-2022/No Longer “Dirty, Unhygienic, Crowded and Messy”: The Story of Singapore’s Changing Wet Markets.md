@@ -85,3 +85,28 @@ The Environment Ministry said that MUIS would issue the “halal” label to cer
 While the slaughter of chickens in wet markets had stopped, the sale and slaughter of wild-caught live soft-shelled turtles continued in some wet markets. It was only in December 2020 that the sale and slaughter of live turtles and frogs at wet markets in Singapore were banned following a review conducted by the Singapore Food Agency (SFA) in consultation with the National Parks Board and the National Environment Agency (NEA). 
 
 “While the public health risks posed by such slaughtering activity are low, SFA and NEA started phasing out slaughtering and sale of live frogs and turtles at market stalls since June 2020 to further reduce the risk and improve environmental hygiene and food safety,” said the SFA.[^38]
+
+#### **The Future of Wet Markets**
+
+In July 1981, the Environment Ministry convened a committee to “recommend to the Cabinet what HDB [Housing and Development Board] markets of the future should look like”. This was in response to a report on Singapore markets that had been presented to the Cabinet. The report highlighted that wet markets were not fully utilised due to their short operating hours, there were too many workers in wet markets (an estimated 10,000 to 20,000 workers) and that this labour source should be directed to trades of higher productivity, and wet markets were non-economical to operate since they consisted of mostly small-scale businesses.[^39]
+
+The committee, led by then Senior Parliamentary Secretary (Environment) Chor Yeok Eng, studied the matter and came to the view that wet markets should no longer be built and instead modern mini-supermarkets and air-conditioned groceries should replace these markets. The committee also recommended that starting from 1982, market stallholders be allowed to take up more than one stall in order to diversify and sell other items and that stallholders should be encouraged to extend their business hours.[^40]
+
+Chor noted that the lifestyle of Singaporeans had changed considerably compared to 30 years ago. One of the biggest changes was the growing number of families where both husband and wife worked. “As such, a wife has little time for marketing,” he noted. “She can afford it only on Sunday or [during her] free time.” As a result, wet markets, with the “small variety of goods and short business hours, will eventually fall short of people’s demands”.[^41]
+
+The last two traditional wet markets, with adjoining hawker centres, were built in Jurong East and Jurong West in 1984. Different lifestyles, changing preferences and new demands from residents were reasons cited by the HDB for phasing out wet markets. The Straits Times reported that “traditional wet markets [had] lost their popularity and the patronage of many people who prefer[red] to shop at modern supermarkets [with] more flexible marketing hours”.[^42]
+
+Today, there are 83 wet markets in Singapore managed by the NEA and NEA-appointed operators.[^43] In a survey conducted by the NEA in 2018, 39 percent of Singaporeans had not visited any wet markets in a year. This number has been steadily increasing, from 23 percent and 33 percent in 2014 and 2016 respectively.[^44]
+
+Apart from the waning interest in wet markets, the issue of succession is also a cause for concern. The current generation of stall owners are facing an uphill battle in convincing their children, who tend to be better educated, to take over the family business. “I think in the next 20 years or so there will be no more wet markets, there will only be supermarkets,” lamented Lim Toh Khoon, a fishmonger at Fajar Shopping Centre’s wet market.[^45]
+
+It remains to be seen what will happen to the wet market in the future. Will it become increasingly irrelevant as busy working people turn to the convenience of supermarkets? Or will there always be a demand for the personal touch that wet markets can offer? There is no doubt that older Singaporeans still prefer the wet market and have fond childhood memories of tagging along with their parents to the markets – experiencing the sights, smells and sounds of these local landmarks that are so uniquely Singaporean.
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol%2018%20Issue%201/Authors/Rebecca_tan.png" style="width: 100px; height: 100px;"/>
+	<b>Rebecca Tan</b> is an Associate Librarian with the National Library, Singapore. She is part of the digital heritage team and works on curating and promoting access to the library’s digital collections.</div>
+
+#### **NOTES**
+
+[^1]: Najmul Haider, et al., “Covid-19 – Zoonosis or Emerging Infectious Disease?,” *Frontiers in Public Health 8*, 26 November 2020, https://www.frontiersin.org/articles/10.3389/fpubh.2020.596944/full.
