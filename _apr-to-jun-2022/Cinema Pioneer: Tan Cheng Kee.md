@@ -55,15 +55,15 @@ During the Japanese Occupation of Singapore (1942–45), the Japanese military a
 
 Not much has been written about Tan Cheng Kee, especially compared to the Shaw brothers and Loke Wan Tho. However, the National Library has three notebooks that Tan left behind as well as his will.[^21] These documents give an insight into the kind of person he was.
 
-![](/images/Vol%2018%20Issue%201/Tan%20Cheng%20Kee/Tan%20Cheng%20Kee%20notebook%20(Jan2022).png)
-<div style="background-color: white;"> Tan Cheng Kee writes about “The Wonderful Future of the Cinema” on this page in his notebook. <i>Image reproduced from Tan Cheng Kee, Tan Cheng Kee’s Notebooks (Singapore, n.p., 1912–38). (From National Library Singapore, Call no. RRARE 384.8092 TAN). All rights reserved, Peter Wee, Katong Antique House Collection, National Library Board, Singapore.
-</i></div>
-
 Tan believed in the importance of hard work and downplayed the role of luck. In his notebook, he wrote that “luck does not hold forever” and so a man is the “architect of his own fortune by means of his ability”. He also strongly believed that “idleness is the handmaid of the devil”.
 
 At the same time, Tan also believed in turning to the divine for assistance. He wrote: “I feel that every step in my plan has been guided with Divine help and I hope this will continue until the end of all things” and “I ask daily for Divine help and I have succeeded beyond my dreams.” 
 
 In his notebooks, Tan devoted many pages to the importance of writing a will, pertaining to family and business. He first made his will in 1935 and appointed Estate and Trust Agencies in 1937 as the executor and trustee of his will.[^22] In his will, Tan ensured that his immediate and close family members had life interests in the properties that they resided in. He also bequeathed money to his uncle, cousin, clerk and cook.
+
+![](/images/Vol%2018%20Issue%201/Tan%20Cheng%20Kee/Tan%20Cheng%20Kee%20notebook%20(Jan2022).png)
+<div style="background-color: white;"> Tan Cheng Kee writes about “The Wonderful Future of the Cinema” on this page in his notebook. <i>Image reproduced from Tan Cheng Kee, Tan Cheng Kee’s Notebooks (Singapore, n.p., 1912–38). (From National Library Singapore, Call no. RRARE 384.8092 TAN). All rights reserved, Peter Wee, Katong Antique House Collection, National Library Board, Singapore.
+</i></div>
 
 What was interesting were his plans for the Alhambra and Marlborough after his death, which were bequeathed to his trustee. He instructed his trustee to “discontinue the business of a cinematograph exhibitor carried on by me” and let the Theatres “on rents to the highest bidders by tender from time to time for a period not exceeding three years each time”. This was in line with how he had leased out the cinemas to the Shaw Brothers in 1938.
 
