@@ -81,15 +81,15 @@ Tan’s notebooks and will, as well as the receipt book for the rental of the Ma
 	
 #### **NOTES**
 
-[^1]: Gloria Chandy, “The Pioneer Cinemas,” *New Nation*, 19 March 1979, 9. (From NewspaperSG)
+[^1]: Gloria Chandy, “[The Pioneer Cinemas](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19790319-1.2.48),” *New Nation*, 19 March 1979, 9. (From NewspaperSG)
 
-[^2]: “Remembering Garrick.” *Straits Times*, 13 May 1990, 26. (From NewspaperSG)
+[^2]: “[Remembering Garrick](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900513-1.2.48.40).” *Straits Times*, 13 May 1990, 26. (From NewspaperSG)
 
-[^3]: Song Ong Siang, *One Hundred Years’ History of the Chinese in Singapore* (London: John Murray, 1923), 222. (From BookSG); “The Late Mr. Tan Keong Saik,” Straits Times, 6 October 1909, 7; “Death of Mr. Tan Cheng Kee,” *Malaya Tribune*, 12 September 1939, 2. (From NewspaperSG)
+[^3]: Song Ong Siang, [*One Hundred Years’ History of the Chinese in Singapore*](https://eresources.nlb.gov.sg/printheritage/detail/f8082431-1c7b-460e-b59c-bbc5793035a3.aspx) (London: John Murray, 1923), 222. (From BookSG); “[The Late Mr. Tan Keong Saik](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19091006-1.2.66),” Straits Times, 6 October 1909, 7; “[Death of Mr. Tan Cheng Kee](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19390912-1.2.28),” *Malaya Tribune*, 12 September 1939, 2. (From NewspaperSG)
 
-[^4]: “Thirty Years of Film Entertainment,” *Singapore Free Press and Mercantile Advertiser*, 2 January 1932, 20. (From NewspaperSG); Chua Ai Lin, “Cultural Consumption and Cosmopolitan Connections: Chinese Cinema Entrepreneurs in 1920s and 1930s Singapore,” in *The Business of Culture: Cultural Entrepreneurs in China and Southeast Asia, 1900–65,* ed. Christopher Rea and Nicolai Volland (Vancouver: UBC Press, [2015]), 209. (From National Library, Singapore, Call no. 330.951 BUS)
+[^4]: “[Thirty Years of Film Entertainment](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19320102-1.2.133.49),” *Singapore Free Press and Mercantile Advertiser*, 2 January 1932, 20. (From NewspaperSG); Chua Ai Lin, “Cultural Consumption and Cosmopolitan Connections: Chinese Cinema Entrepreneurs in 1920s and 1930s Singapore,” in [*The Business of Culture: Cultural Entrepreneurs in China and Southeast Asia, 1900–65*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201211459), ed. Christopher Rea and Nicolai Volland (Vancouver: UBC Press, [2015]), 209. (From National Library, Singapore, Call no. 330.951 BUS)
 
-[^5]: “The Grand Cinematograph,” *Singapore Free Press and Mercantile Advertiser*, 14 September 1907, 12; “Page 2 Advertisements Column 3,” *Singapore Free Press and Mercantile Advertiser*, 16 October 1907, 2. (From NewspaperSG)
+[^5]: “[The Grand Cinematograph](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19070914-1.2.80),” *Singapore Free Press and Mercantile Advertiser*, 14 September 1907, 12; “[Page 2 Advertisements Column 3](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19071016-1.2.9.3),” *Singapore Free Press and Mercantile Advertiser*, 16 October 1907, 2. (From NewspaperSG)
 
 [^6]: “[Mountain-air Climate in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19380727-1.2.150.23)”; “[Thirty Years of Film Entertainment](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19320102-1.2.133.49),” *Singapore Free Press and Mercantile Advertiser*, 2 January 1932, 20, “[Page 8 Advertisements Column 5](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19090709-1.2.98.5),” Straits Times, 9 July 1909, 8. (From NewspaperSG)
 
