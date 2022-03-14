@@ -7,13 +7,14 @@ description: ""
 #### Wet markets have existed in Singapore since 1825. **Zoe Yeo** looks at how these markets have changed over time.
 
 ![](/images/Vol%2018%20Issue%201/Wet%20Market/cover.png)
-<div style="background-color: white;"> The <i>Paravanda</i> Nelson Mandela, named after the former president of South Africa, bears flowers that have a bright greenish-yellow hue with a reddish tinge, resembling the colours of the South African flag. <i>Courtesy of the National Parks Board.</i></div>
+<div style="background-color: white;">The bustling morning market in Chinatown’s Pagoda Street, c. 1970. In the early 1980s, stallholders were moved into what is now called Chinatown Complex, referred to colloquially as Chinatown Market. <i>Courtesy of National Archives of Singapore.</i></div>
 
 To most people in Singapore, the wet market is so much a part of the landscape that it is barely worth noticing. However, the term is not in common use around the world. It was only in early 2020, at the start of the Covid-19 pandemic, that the term “wet markets” was thrust into the international limelight. The first diagnosed cases were linked to the former Huanan Seafood Wholesale Market (now closed) in Wuhan, China, in late 2019. The coronavirus was classified as a zoonotic disease,[^1] which raises speculation that the virus had jumped from wild animals sold at that market to humans. 
 
 To explain the concept of a wet market, the *National Geographic* in April 2020 described it as “large collections of open-air stalls selling fresh seafood, meat, fruits, and vegetables”. These markets “sell and slaughter live animals on site, including chickens, fish, and shellfish”. The “wet” in wet markets is attributed to “live fish splashing in tubs of water, melting ice keeping meat cold, the blood and innards of slaughtered animals”. [^2] Unfortunately, “wet market” is often conflated with “wildlife market” even though most wet markets don’t sell wildlife.
 
 ![](/images/Vol%2018%20Issue%201/Wet%20Market/8ed6060f-1162-11e3-83d5-0050568939ad.png)
+<div style="background-color: white;">A scene at a local wet market, c.1900. <i>Lim Kheng Chye Collection, courtesy of National Archives of Singapore.</i></div>
 
 Although the interest in wet markets, particularly the one in Wuhan, skyrocketed in 2020, many are unaware that the term “wet market” may have first arisen in Singapore. The term began to appear in the late 1970s. A *Straits Times* article published on 13 July 1978 noted that the Trade Department said that it was “reluctant to introduce the sale of frozen fish in ‘wet’ markets for fear of profiteering by hawkers” and also “fear that some hawkers may thaw the fish and sell it as fresh”.[^3] The use of quote marks around the word wet suggests that it was a novel term.
 
