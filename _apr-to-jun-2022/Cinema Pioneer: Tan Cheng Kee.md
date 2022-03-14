@@ -131,7 +131,7 @@ Tan’s notebooks and will, as well as the receipt book for the rental of the Ma
 
 [^25]: “Legal Tussle Over Sites of 2 Theatres,” *Malaya Tribune*, 10 May 1947, 5. (From NewspaperSG)
 
-[^26]: “Legal Tussle Over Sites of 2 Theatres.”
+[^26]: “[Legal Tussle Over Sites of 2 Theatres.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19470510-1.2.62)”
 
 [^27]: “[Alhambra to Reopen in October](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19470917-1.2.57),” *Singapore Free Press*, 17 September 1947, 5. (From NewspaperSG)
 
