@@ -167,7 +167,7 @@ It remains to be seen what will happen to the wet market in the future. Will it 
 
 [^29]: Serendipity, “[Inscrutably Oriental](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19741103-1.2.37),” *New Nation*, 3 November 1974, 18. (From NewspaperSG)
 
-[^30]: Serendipity, “Inscrutably Oriental.”
+[^30]: Serendipity, “[Inscrutably Oriental](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19741103-1.2.37).”
 
 [^31]: “You Could Eat Bats & Lizards Here in the Past,” New Paper, 14 January 2004, 9. (From NewspaperSG)
 
