@@ -46,22 +46,42 @@ Preparations for a new market began in 1872 when iron pillars and other building
 
 #### **Rochor Market**
 
-Rochor Market, built in 1872, was a popular landmark in the Sungei Road district. The market served the surrounding community for more than a century before it was demolished in August 1982.19 Little is known about this market and an open-air carpark occupies the site today. 
+Rochor Market, built in 1872, was a popular landmark in the Sungei Road district. The market served the surrounding community for more than a century before it was demolished in August 1982.[^19] Little is known about this market and an open-air carpark occupies the site today. 
 
 #### **Orchard Road Market**
 
-Located at what is now Orchard Point, Orchard Road Market was known by the locals as Tang Leng Pa Sat or Tanglin Pa Sat.20 It sold fresh produce at higher prices compared to other markets in Singapore due to its wealthier European customers.21 The fountain that currently stands in the courtyard of Raffles Hotel was once located in front of Orchard Road Market.22 The market was demolished and replaced by Orchard Point in 1982.23
+Located at what is now Orchard Point, Orchard Road Market was known by the locals as Tang Leng Pa Sat or Tanglin Pa Sat.[^20] It sold fresh produce at higher prices compared to other markets in Singapore due to its wealthier European customers.[^21] The fountain that currently stands in the courtyard of Raffles Hotel was once located in front of Orchard Road Market.[^22] The market was demolished and replaced by Orchard Point in 1982.[^23]
 
 #### **New-generation Wet Markets**
 
-In post-war Singapore, the government began building a new type of market that was co-located with cooked food stalls. These food stalls were manned by people who used to make a living as itinerant hawkers. A desire to remove street obstructions and to better monitor the hygiene of cooked food resulted in the setting up of hawker centres that adjoined markets.24
+In post-war Singapore, the government began building a new type of market that was co-located with cooked food stalls. These food stalls were manned by people who used to make a living as itinerant hawkers. A desire to remove street obstructions and to better monitor the hygiene of cooked food resulted in the setting up of hawker centres that adjoined markets.[^24]
 
-One of the earliest examples of this is Tiong Bahru Market, also known as Seng Poh Road Market in its early days. Opened in 1950, the market was described as a “dirty, unhygienic, crowded and messy single storey structure” by Lizzy Lee in her book, 巴刹 Pasar: The Personalities of Singapore’s Wet Markets.25
+One of the earliest examples of this is Tiong Bahru Market, also known as Seng Poh Road Market in its early days. Opened in 1950, the market was described as a “dirty, unhygienic, crowded and messy single storey structure” by Lizzy Lee in her book, 巴刹 Pasar: The Personalities of Singapore’s Wet Markets.[^25]
 
-These wet markets became an integral part of new housing estates that were built. In many ways, the centre of each neighbourhood was the wet market. Over time, these wet markets underwent a series of upgrading as the authorities improved the lighting, ventilation and drainage in these structures. Today, the Tiong Bahru Market and Hawker Centre is a wheelchair-accessible two-storey building with a large central garden courtyard. The wet market is located on the first floor with the hawker centre on the second. Instead of being dark, dirty, smelly and wet, the market is airy, brightly lit, clean, mostly dry and not particularly malodorous.26
+These wet markets became an integral part of new housing estates that were built. In many ways, the centre of each neighbourhood was the wet market. Over time, these wet markets underwent a series of upgrading as the authorities improved the lighting, ventilation and drainage in these structures. Today, the Tiong Bahru Market and Hawker Centre is a wheelchair-accessible two-storey building with a large central garden courtyard. The wet market is located on the first floor with the hawker centre on the second. Instead of being dark, dirty, smelly and wet, the market is airy, brightly lit, clean, mostly dry and not particularly malodorous.[^26]
 
 #### **Live Slaughter of Animals**
 
-While most wet markets in Singapore were alike, there was one that was unique: Chinatown Market. This market was infamous for the sale of meat from animals such as snakes, crocodiles, monkeys, dogs, cats, rabbits and bats.27
+While most wet markets in Singapore were alike, there was one that was unique: Chinatown Market. This market was infamous for the sale of meat from animals such as snakes, crocodiles, monkeys, dogs, cats, rabbits and bats.[^27]
 
-It is believed that these animals were smuggled from outlying islands such as Pulau Ubin and neighbouring countries like Malaysia and Indonesia. The meat 
+It is believed that these animals were smuggled from outlying islands such as Pulau Ubin and neighbouring countries like Malaysia and Indonesia. The meat from these animals were sought after for their “healing properties”.[^28]
+
+Chinatown Market had originally consisted of stalls concentrated along Trengganu Street, Sago Street and Banda Street, with a few spilling onto Temple Street and Pagoda Street. A 1974 New Nation article noted that a stall at the junction of Smith and Trengganu streets was selling almost everything from rabbits, guinea pigs and turtles to anteaters, pythons, crocodiles and monitor lizards.[^29] 
+
+“These are kept in makeshift cages about the stall and are only slaughtered when sold,” the newspaper added. “Pieces of various meat and entrails are also displayed for the older-generation Chinese who still believe in the curative and or strengthening powers of these exotic meats cooked with various herbs. At night, in nearby Trengganu Street, you can even buy a bowl of these brews for only $1.”[^30] 
+
+In the early 1980s, stallholders were moved into what is now called Chinatown Complex, referred to colloquially as Chinatown Market. Some continued selling wildlife meat until the practice eventually died out, especially after Singapore became a signatory to the Convention on International Trade in Endangered Species of Wild Fauna and Flora in 1986.[^31]
+
+Chinatown Market was an exception though. In the other wet markets in Singapore, the only animals regularly slaughtered on the premises were chickens. Up till the 1980s, customers could select live chickens in wet markets and have them slaughtered on the spot. A total of 69,000 birds was estimated to be slaughtered daily at these markets, making up two-thirds of the total number of birds slaughtered in Singapore. As a result, “even in the cleanest markets, the poultry stalls always make their presence felt by their stench. People living near markets have also complained of the noise when live poultry is unloaded from lorries in the early morning,” said the Straits Times.[^32] 
+
+In March 1988, Cuppage Road Market became the first wet market to sell “dressed” (pre-slaughtered and cleaned) poultry as live slaughtering was no longer carried out at the market. This was a pilot at the market to gauge public acceptance.[^33]
+
+There were mixed reactions from customers. “How will I know if the chicken I buy is fresh?,” asked one woman rhetorically. She noted: “[T]here’s no way you can avoid the bad smell in a wet market. Even the fish stalls have a bad smell.” However, others welcomed the change. Another woman commented that “marketing would be more pleasant and cleaner without the ‘nauseating experience’ of watching chickens being slaughtered”.[^34]
+
+Two years later, the Ministry of Environment announced the decision to phase out poultry slaughtering at all local markets and centralising all slaughtering at poultry service abattoirs by early 1992. According to a news report, this was to “ensure that the birds are killed in hygienic conditions and prevent pollution of drains within the wet markets”. The ministry also gave assurances that the birds would be slaughtered according to halal methods with the approval of the Islamic Religious Council of Singapore (Majlis Ugama Islam Singapura; MUIS).[^35]
+
+The Environment Ministry said that MUIS would issue the “halal” label to certified poultry abattoirs after the inspection of their premises. The label would be printed on a tag tied to the dressed poultry or on the wrapper of the poultry along with the date of slaughter (to indicate freshness) and the  name of the abattoir.[^36] The slaughtering of live poultry at wet markets officially ceased from March 1993.[^37]
+
+While the slaughter of chickens in wet markets had stopped, the sale and slaughter of wild-caught live soft-shelled turtles continued in some wet markets. It was only in December 2020 that the sale and slaughter of live turtles and frogs at wet markets in Singapore were banned following a review conducted by the Singapore Food Agency (SFA) in consultation with the National Parks Board and the National Environment Agency (NEA). 
+
+“While the public health risks posed by such slaughtering activity are low, SFA and NEA started phasing out slaughtering and sale of live frogs and turtles at market stalls since June 2020 to further reduce the risk and improve environmental hygiene and food safety,” said the SFA.[^38]
