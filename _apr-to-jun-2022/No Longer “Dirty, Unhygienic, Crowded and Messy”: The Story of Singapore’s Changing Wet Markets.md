@@ -59,14 +59,17 @@ Preparations for a new market began in 1872 when iron pillars and other building
 Rochor Market, built in 1872, was a popular landmark in the Sungei Road district. The market served the surrounding community for more than a century before it was demolished in August 1982.[^19] Little is known about this market and an open-air carpark occupies the site today. 
 
 ![](/images/Vol%2018%20Issue%201/Wet%20Market/19980005879%20IMG0002.png)
+<div style="background-color: white;">Rochor Market, 1930s. An open-air carpark sits on the site today. <i>Lim Kheng Chye Collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **Orchard Road Market**
 
 Located at what is now Orchard Point, Orchard Road Market was known by the locals as Tang Leng Pa Sat or Tanglin Pa Sat.[^20] It sold fresh produce at higher prices compared to other markets in Singapore due to its wealthier European customers.[^21] The fountain that currently stands in the courtyard of Raffles Hotel was once located in front of Orchard Road Market.[^22] The market was demolished and replaced by Orchard Point in 1982.[^23]
 
 ![](/images/Vol%2018%20Issue%201/Wet%20Market/d6044f63-1161-11e3-83d5-0050568939ad.png)
+<div style="background-color: white;">Orchard Road Market, c. 1911. The cast-iron fountain on the right currently stands at the courtyard of Raffles Hotel. <i>Courtesy of National Archives of Singapore.</i></div>
 
 ![](/images/Vol%2018%20Issue%201/Wet%20Market/Ladies%20Orchard%20Market.png)
+<div style="background-color: white;">Ladies waiting to be served at a meat stall at the Orchard Road Market, 1960s. <i>All rights reserved, Sons of David “Danny” Daniel, PictureSG, National Library, Singapore.</i></div>
 
 #### **New-generation Wet Markets**
 
