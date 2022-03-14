@@ -117,11 +117,11 @@ Tan’s notebooks and will, as well as the receipt book for the rental of the Ma
 
 [^18]: “Singapore Cinema to be Air-conditioned,” *Straits Times*, 20 March 1938, 4. (From NewspaperSG)
 
-[^19]: “Air-Conditioning of the Alhambra Theatre Begun,” Straits Times, 19 June 1938, 3; “Alhambra to Reopen in October,” *Singapore Free Press*, 17 September 1947, 5. (From NewspaperSG)
+[^19]: “[Air-Conditioning of the Alhambra Theatre Begun](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19380619-1.2.38),” Straits Times, 19 June 1938, 3; “[Alhambra to Reopen in October](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19470917-1.2.57),” *Singapore Free Press*, 17 September 1947, 5. (From NewspaperSG)
 
-[^20]: “Alhambra to Reopen in October.”
+[^20]: “[Alhambra to Reopen in October](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19470917-1.2.57).”
 
-[^21]: *Tan Cheng Kee*, Tan Cheng Kee’s Notebooks (Singapore: n.p., 1912–38). (From National Library Singapore, Call no. RRARE 384.8092 TAN)
+[^21]: Tan Cheng Kee, [*Tan Cheng Kee’s Notebooks* ](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203908049)(Singapore: n.p., 1912–38). (From National Library Singapore, Call no. RRARE 384.8092 TAN)
 
 [^22]: Tan Cheng Kee, [*Will of Tan Cheng Kee*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203916535) (Singapore: n.p., 1935–39). (From National Library Singapore, Call no. RRARE 384.8092 WIL)
 
