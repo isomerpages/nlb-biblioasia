@@ -42,4 +42,26 @@ Ellenborough Market was located between Ellenborough Street and Fish Street (bot
 
 Clyde Terrace Market, also known as Pasar Besi and Ti-Pa-Sat (铁巴刹), meaning “Iron Market” in Malay and Hokkien respectively, was well known for its structure that was mostly constructed of iron. The market was initially a cluster of tiled sheds at Campong (Kampong) Glam Beach. In August 1871, the sheds were described in the press as “not only disgraceful in their outward appearance, but their internal condition is anything but inviting, and it is next to impossible to keep them clean”.[^16] 
 
-Preparations for a new market began in 1872 when iron pillars and other building materials were imported from England, with the laying of the foundation stone on 29 March 1873. Located near Clyde Terrace (present-day Beach Road) on the reclaimed stretch of land facing the sea, the market began operations around 1874. It later also functioned as a wholesale market and distribution centre where vendors purchased fresh produce and sold them in rural villages and other smaller markets.[^17] Clyde Terrace Market was demolished 
+Preparations for a new market began in 1872 when iron pillars and other building materials were imported from England, with the laying of the foundation stone on 29 March 1873. Located near Clyde Terrace (present-day Beach Road) on the reclaimed stretch of land facing the sea, the market began operations around 1874. It later also functioned as a wholesale market and distribution centre where vendors purchased fresh produce and sold them in rural villages and other smaller markets.[^17] Clyde Terrace Market was demolished in 1983 and the Gateway office complex stands at the site today.[^18]
+
+#### **Rochor Market**
+
+Rochor Market, built in 1872, was a popular landmark in the Sungei Road district. The market served the surrounding community for more than a century before it was demolished in August 1982.19 Little is known about this market and an open-air carpark occupies the site today. 
+
+#### **Orchard Road Market**
+
+Located at what is now Orchard Point, Orchard Road Market was known by the locals as Tang Leng Pa Sat or Tanglin Pa Sat.20 It sold fresh produce at higher prices compared to other markets in Singapore due to its wealthier European customers.21 The fountain that currently stands in the courtyard of Raffles Hotel was once located in front of Orchard Road Market.22 The market was demolished and replaced by Orchard Point in 1982.23
+
+#### **New-generation Wet Markets**
+
+In post-war Singapore, the government began building a new type of market that was co-located with cooked food stalls. These food stalls were manned by people who used to make a living as itinerant hawkers. A desire to remove street obstructions and to better monitor the hygiene of cooked food resulted in the setting up of hawker centres that adjoined markets.24
+
+One of the earliest examples of this is Tiong Bahru Market, also known as Seng Poh Road Market in its early days. Opened in 1950, the market was described as a “dirty, unhygienic, crowded and messy single storey structure” by Lizzy Lee in her book, 巴刹 Pasar: The Personalities of Singapore’s Wet Markets.25
+
+These wet markets became an integral part of new housing estates that were built. In many ways, the centre of each neighbourhood was the wet market. Over time, these wet markets underwent a series of upgrading as the authorities improved the lighting, ventilation and drainage in these structures. Today, the Tiong Bahru Market and Hawker Centre is a wheelchair-accessible two-storey building with a large central garden courtyard. The wet market is located on the first floor with the hawker centre on the second. Instead of being dark, dirty, smelly and wet, the market is airy, brightly lit, clean, mostly dry and not particularly malodorous.26
+
+#### **Live Slaughter of Animals**
+
+While most wet markets in Singapore were alike, there was one that was unique: Chinatown Market. This market was infamous for the sale of meat from animals such as snakes, crocodiles, monkeys, dogs, cats, rabbits and bats.27
+
+It is believed that these animals were smuggled from outlying islands such as Pulau Ubin and neighbouring countries like Malaysia and Indonesia. The meat 
