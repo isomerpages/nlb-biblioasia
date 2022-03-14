@@ -12,7 +12,7 @@ description: ""
 
 Back in the 1980s and 90s, when Atie was a young girl swimming in the waters surrounding Seletar Island, the Orang Seletar travelled freely on their boats across the Tebrau Strait[^2] between Malaysia and Singapore. Today, more than 20 years later, Atie, together with some of her fellow Orang Seletar, were visiting Singapore again. Not by boat this time though. They were here as tourists, having travelled by land across the Causeway from their village of Kampung Sungai Temon in Johor Bahru, passing through both countries’ immigration checkpoints. My team member Chan Kah Mei and I played host. 
 
-![](/images/Vol%2018%20Issue%201/Orang%20Seletar/children.png)
+![](/images/Vol%2018%20Issue%201/Orang%20Seletar/NAS%2019980005041%20IMG0105wm2022.png)
 <div style="background-color: white;"> Orang Seletar children in their <i>pau kajang</i> at Seletar Island, 1950s. <i>Dr Ivan Polunin Collection, courtesy of National Archives of Singapore.</i></div>
 
 This one-day tour[^3] in October 2019 around parts of Singapore – where they once lived – was the least we could do for them given the incredible hospitality they had shown us since we embarked on our research project in 2018 with another team member, Ruslina Affandi. We had set out to collect oral history interviews from the Orang Seletar, and were able to do so thanks to their time and generosity in sharing their stories.
@@ -21,7 +21,7 @@ This one-day tour[^3] in October 2019 around parts of Singapore – where they o
 
 A nomadic sea people, the Orang Seletar[^4] have for centuries called the Tebrau Strait (Johor Strait) their home as they roamed along the mangroves, shores and rivers in the northern part of Singapore and on the southern side of peninsular Malaysia. They relied heavily on their multifunctional *pau kajang* – a wooden boat that typically houses a family of up to six people. Besides serving as a mode of transportation, the vessel was also their home – a place where they slept, cooked and played. 
 
-![](/images/Vol%2018%20Issue%201/Orang%20Seletar/NAS%2019980005041%20IMG0093wm2022.png)
+![](/images/Vol%2018%20Issue%201/Orang%20Seletar/orangseletaronboat.png)
 <div style="background-color: white;"> The Orang Seletar in their pau kajang, 1950s. Third from the left is Tok Batin Buruk. <i>Dr Ivan Polunin Collection, courtesy of National Archives of Singapore.</i></div>
 
 Each *pau kajang* had a thatched roof made of *mengkuang* (screw pine), or *pandan* leaves, that shielded its inhabitants from the relentless tropical sun and heavy rains.[^5]The distinct way the leaves were woven identified the Orang Seletar from other Orang Laut communities living around Singapore, such as the Orang Gelam who occupied the Singapore River, the Orang Kallang who situated themselves at the Kallang River, and the Orang Selat who travelled around the Southern Islands.
@@ -70,7 +70,7 @@ Jefree’s mother, Letih, told us that Tok Batin Buruk once used his spiritual p
 
 Tok Batin Buruk had a son, Entel, who is currently the village headman of Kampung Pasir Putih. Now in his mid-70s, Entel recalls living on Seletar Island for about two months when he was around 18 years old. He later applied to live on the island where his parents earned a living cutting mangrove wood for charcoal, but his application was unsuccessful.
 
-![](/images/Vol%2018%20Issue%201/Orang%20Seletar/Entel2.png)
+![](/images/Vol%2018%20Issue%201/Orang%20Seletar/NAS%2019980005041%20IMG0098wm2022.png)
 <div style="background-color: white;"> A photo of Mah, wife of Tok Batin Buruk, surrounded by her children, 1950s. The young boy on the extreme left is Entel, currently the village headman of Kampung Pasir Putih. <i>Dr Ivan Polunin Collection, courtesy of National Archives of Singapore.
 </i></div>
 
