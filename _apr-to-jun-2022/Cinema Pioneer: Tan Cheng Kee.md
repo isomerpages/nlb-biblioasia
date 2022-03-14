@@ -89,7 +89,7 @@ Tan’s notebooks and will, as well as the receipt book for the rental of the Ma
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol%2018%20Issue%201/Authors/Ilya.png" style="width: 100px; height: 100px;"/>
+<img src="/images/Vol%2018%20Issue%201/Authors/Barbara_Quek.png" style="width: 100px; height: 100px;"/>
 	<b>Barbara Quek</b> is a Senior Librarian with the National Library, Singapore. She is in the team that oversees the statutory functions of the National Library Board in the compliance of Legal Deposit in Singapore. Her work involves developing the National Library’s collections through gifts and exchange as well as providing content and reference services.</div>
 
 	
