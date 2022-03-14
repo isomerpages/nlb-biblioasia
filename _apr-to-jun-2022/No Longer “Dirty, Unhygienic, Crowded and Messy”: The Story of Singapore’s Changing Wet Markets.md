@@ -158,3 +158,43 @@ It remains to be seen what will happen to the wet market in the future. Will it 
 [^24]: Tan, *Wet Markets*, 5; “买菜光景 不同啰!” [“Grocery Shopping Scene Is Different”], 新明日报 [*Xin Min Ri Bao*], 8 August 1995, 16; 冯剑斌 [Feng Jianbin], “湿巴刹气数未尽” [“Not the End of Wet Markets”], 联合早报 [*Lianhe Zaobao*], 25 October 2009, 24. (From NewspaperSG) 
 
 [^25]: Lizzy Lee, *巴刹 Pasar: The Personalities of Singapore’s Wet Markets* (Singapore: National Library Board, 2014), 6. (From National Library, Singapore, Call no. RSING 381.1095957 LEE)
+
+[^26]:“Tiong Bahru Wet Market,” The Best Singapore, 8 January 2021, https://www.thebestsingapore.com/best-place/tiong-bahru-wet-market/.
+
+[^27]: Sew Teng Kwok, oral history interview by Yoo Loo Feng, 13 October 1999, MP3 audio, Reel/Disc 9 of 23. (From National Archives of Singapore, Accession no. 002209); Thian Boon Hua, oral history interview by Jesley Chua Chee Huan, 25 July 2014, MP3 audio, Reel/Disc 12 of 66. (From National Archives of Singapore, Accession no. 003888)
+
+[^28]: Sew, interview; Thian, interview. 
+
+[^29]: Serendipity, “Inscrutably Oriental,” *New Nation*, 3 November 1974, 18. (From NewspaperSG)
+
+[^30]: Serendipity, “Inscrutably Oriental.”
+
+[^31]: “You Could Eat Bats & Lizards Here in the Past,” New Paper, 14 January 2004, 9. (From NewspaperSG)
+
+[^32]: “Wet Market Slaughtering To Be Phased Out by ’92,” *Straits Times*, 6 July 1990, 3; Tan Ban Huat, “Call for Study on Slaughter of Chickens at One Place,” *Straits Times*, 12 January 1982, 10. (From NewspaperSG)
+
+[^33]: L.E. Prema, “Cuppage Market to Sell Dressed Fowls Only,” *Straits Times*, 19 August 1987, 16. (From NewspaperSG) 
+
+[^34]: Prema, “Cuppage Market to Sell Dressed Fowls Only.” 
+
+[^35]: “Wet Market Slaughtering To Be Phased Out by ’92”; Susan Loh and Anne Tan, “Housewives Ready to Switch to Chilled Fowl,” Straits Times, 3 August 1990, 33. (From NewspaperSG) 
+
+[^36]: “Date and ‘Halal’ Marks for Abbatoir Poultry from July 15,” *Straits Times*, 23 May 1992, 2; “Tags to Ensure Pre-Slaughtered Poultry is Fresh,” *Straits Times*, 13 March 1992, 26. (From NewspaperSG)
+
+[^37]: “Wet Markets End Poultry Slaughtering,” *Straits Times*, 28 February 1993, 21. (From NewspaperSG) 
+
+[^38]: Ang Qing, “Sale and Slaughter of Live Turtles, Frogs Banned at Wet Markets in S’pore Due to Health Concerns,” Straits Times, 14 July 2021, https://www.straitstimes.com/singapore/sale-and-slaughter-of-live-turtles-frogs-banned-at-wet-markets-in-spore-due-to-health. 
+
+[^39]: “Markets of the Future,” *Straits Times*, 20 October 1981, 1. (From NewspaperSG) 
+
+[^40]: “Markets of the Future.” 
+
+[^41]: “Markets of the Future.” 
+
+[^42]: Matthew Yap, “The Last Two Wet Markets,” *Straits Times*, 12 October 1984, 2. (From NewspaperSG) 
+
+[^43]: 陈映蓁 [Chen Yingzhen], “湿巴刹 人情味不打折” [”The Personal Touch of Wet Markets”], 联合早报 [*Lianhe Zaobao*], 14 January 2021. (From Factiva via NLB’s eResources website)
+
+[^44]: Rebecca Metteo and Lauren Ong, “As Young Home Cooks Seek Convenience, the Fate of Singapore’s Wet Markets Hangs in the Balance,” *Today*, 22 June 2019, https://www.todayonline.com/singapore/young-home-cooks-seek-convenience-fate-singapores-wet-markets-hang-balance.
+
+[^45]: Metteo and Ong, “As Young Home Cooks Seek Convenience.”
