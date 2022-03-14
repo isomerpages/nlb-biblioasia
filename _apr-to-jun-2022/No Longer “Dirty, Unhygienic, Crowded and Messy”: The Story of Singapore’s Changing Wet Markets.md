@@ -76,6 +76,8 @@ These wet markets became an integral part of new housing estates that were built
 
 While most wet markets in Singapore were alike, there was one that was unique: Chinatown Market. This market was infamous for the sale of meat from animals such as snakes, crocodiles, monkeys, dogs, cats, rabbits and bats.[^27]
 
+![](/images/Vol%2018%20Issue%201/Wet%20Market/Chinatown%20Wildlife%20Stall.png)
+
 It is believed that these animals were smuggled from outlying islands such as Pulau Ubin and neighbouring countries like Malaysia and Indonesia. The meat from these animals were sought after for their “healing properties”.[^28]
 
 Chinatown Market had originally consisted of stalls concentrated along Trengganu Street, Sago Street and Banda Street, with a few spilling onto Temple Street and Pagoda Street. A 1974 *New Nation* article noted that a stall at the junction of Smith and Trengganu streets was selling almost everything from rabbits, guinea pigs and turtles to anteaters, pythons, crocodiles and monitor lizards.[^29] 
@@ -84,9 +86,13 @@ Chinatown Market had originally consisted of stalls concentrated along Trengganu
 
 In the early 1980s, stallholders were moved into what is now called Chinatown Complex, referred to colloquially as Chinatown Market. Some continued selling wildlife meat until the practice eventually died out, especially after Singapore became a signatory to the Convention on International Trade in Endangered Species of Wild Fauna and Flora in 1986.[^31]
 
+![](/images/Vol%2018%20Issue%201/Wet%20Market/Sago%20Street%20Market.png)
+
 Chinatown Market was an exception though. In the other wet markets in Singapore, the only animals regularly slaughtered on the premises were chickens. Up till the 1980s, customers could select live chickens in wet markets and have them slaughtered on the spot. A total of 69,000 birds was estimated to be slaughtered daily at these markets, making up two-thirds of the total number of birds slaughtered in Singapore. As a result, “even in the cleanest markets, the poultry stalls always make their presence felt by their stench. People living near markets have also complained of the noise when live poultry is unloaded from lorries in the early morning,” said the *Straits Times*.[^32] 
 
 In March 1988, Cuppage Road Market became the first wet market to sell “dressed” (pre-slaughtered and cleaned) poultry as live slaughtering was no longer carried out at the market. This was a pilot at the market to gauge public acceptance.[^33]
+
+![](/images/Vol%2018%20Issue%201/Wet%20Market/Live%20Poultry.png)
 
 There were mixed reactions from customers. “How will I know if the chicken I buy is fresh?,” asked one woman rhetorically. She noted: “[T]here’s no way you can avoid the bad smell in a wet market. Even the fish stalls have a bad smell.” However, others welcomed the change. Another woman commented that “marketing would be more pleasant and cleaner without the ‘nauseating experience’ of watching chickens being slaughtered”.[^34]
 
