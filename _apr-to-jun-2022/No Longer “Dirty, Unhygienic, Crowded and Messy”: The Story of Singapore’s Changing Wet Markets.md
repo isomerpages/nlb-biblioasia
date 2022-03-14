@@ -169,7 +169,7 @@ It remains to be seen what will happen to the wet market in the future. Will it 
 
 [^30]: Serendipity, “[Inscrutably Oriental](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19741103-1.2.37).”
 
-[^31]: “You Could Eat Bats & Lizards Here in the Past,” New Paper, 14 January 2004, 9. (From NewspaperSG)
+[^31]: “[You Could Eat Bats & Lizards Here in the Past](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper20041016-1.2.12.3),” New Paper, 14 January 2004, 9. (From NewspaperSG)
 
 [^32]: “Wet Market Slaughtering To Be Phased Out by ’92,” *Straits Times*, 6 July 1990, 3; Tan Ban Huat, “Call for Study on Slaughter of Chickens at One Place,” *Straits Times*, 12 January 1982, 10. (From NewspaperSG)
 
