@@ -137,8 +137,6 @@ Khoo, C.K. (1981). *[Census of population 1980 Singapore. Release No. 4, Economi
 
 Lai, A.E. (Interviewer). (1985, April 18). *[Oral history interview with Chua Hui Neo](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/3/3c70eb03-115e-11e3-83d5-0050568939ad-OHC001632_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&&pn=13)* [Transcript of MP3 recording no. 001632/04/01, p. 8]. Retrieved from National Archives of Singapore website.
 
-Pwu, L.J., Campbell, K., & Chia-Chan, A. (1999). *[The 3 paradoxes: Working women in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9379053)*. Singapore: Association of Women for Action and Research. (Call no.: RSING 305.4 LEE)
-
 Lim, L.Y.C. (1982). *[Women in the Singapore economy](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4080228)*. Singapore: Chopmen Publishers. (Call no.: RSING 331.4095957 LIM)
 
 Lim, L., & Pang, E.F. (1986). *[Trade, employment and industrialisation in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4139357)*. Geneva, Switzerland: International Labour Organisation. (Call no.: RSING 330.95957 LIM)
@@ -152,6 +150,8 @@ Ong, K.B. (1972, June 6). [Housewife by day, worker by night](http://eresources.
 Purushotam, N. (2003). Silent witnesses: The ‘woman’ in the photograph. In K.B. Chan & C.K. Tong (Eds.), *[Past times: A social history of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11800570)* (pp. 33–55). Singapore: Times Editions. (Call no.: RSING 959.57 PAS)
 
 Purushotam, N. (2004). Women and knowledge/power: Notes on the Singaporean dilemma. In K.C. Ban, A. Pakir & C.K. Tong (Eds.), *[Imagining Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12272896)* (pp. 328–364). Singapore: Eastern Universities Press. (Call no.: RSING 959.57 IMA)
+
+Pwu, L.J., Campbell, K., & Chia-Chan, A. (1999). *[The 3 paradoxes: Working women in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9379053)*. Singapore: Association of Women for Action and Research. (Call no.: RSING 305.4 LEE)
 
 Salaff, J.W. (1988). *[State and family in Singapore: Restructuring an industrial society](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4493502)*. Ithaca: Cornell University Press. (Call no.: RSING 406.85095957 SAL)
 
