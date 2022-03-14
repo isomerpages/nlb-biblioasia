@@ -50,6 +50,7 @@ Ellenborough Market was located between Ellenborough Street and Fish Street (bot
 Clyde Terrace Market, also known as Pasar Besi and Ti-Pa-Sat (铁巴刹), meaning “Iron Market” in Malay and Hokkien respectively, was well known for its structure that was mostly constructed of iron. The market was initially a cluster of tiled sheds at Campong (Kampong) Glam Beach. In August 1871, the sheds were described in the press as “not only disgraceful in their outward appearance, but their internal condition is anything but inviting, and it is next to impossible to keep them clean”.[^16] 
 
 ![](/images/Vol%2018%20Issue%201/Wet%20Market/Clyde%20Terrace%20Market.png)
+<div style="background-color: white;">Clyde Terrace Market, 1963. It was demolished in 1983 and the Gateway office complex stands at the site today. <i>Courtesy of National Archives of Singapore.</i></div>
 
 Preparations for a new market began in 1872 when iron pillars and other building materials were imported from England, with the laying of the foundation stone on 29 March 1873. Located near Clyde Terrace (present-day Beach Road) on the reclaimed stretch of land facing the sea, the market began operations around 1874. It later also functioned as a wholesale market and distribution centre where vendors purchased fresh produce and sold them in rural villages and other smaller markets.[^17] Clyde Terrace Market was demolished in 1983 and the Gateway office complex stands at the site today.[^18]
 
