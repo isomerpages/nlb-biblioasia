@@ -56,6 +56,7 @@ The Orang Seletar were also involved in other ambitious development projects in 
 #### **Migration to Johor Bahru**
 
 The minibus pulled up at the entrance of Lower Seletar Reservoir Park. Kah Mei and I brought our guests to the bank of the reservoir, which was neatly lined with grey stones. To our right was a shallow, empty pool with fountain spouts, enclosed by terraced steps – likely a popular spot for young families on weekends. On our left was an expansive golf course. 
+
 We made our way to the boardwalk leading out to the reservoir. While walking, I could hear our guests talking about the fish in the water beneath us. Several informational panels on the boardwalk prompted us to stop. These panels provided an overview of the history of the area. The first panel paid homage to the communities who used to frequent the place, including the Orang Seletar. 
 
 “This is Tok Batin Buruk,”[^10] Jefree bin Salim said as he pointed to a black-and-white photo on the panel. Jefree had a camera in his hand, as he usually does. Having taught himself photography, Jefree has since been visually documenting the Orang Seletar community across the nine villages in Johor Bahru. A son of the headman of Kampung Sungai Temon, Jefree, who is in his early 40s, is active in advocating for the rights of his people and has contributed his images to court cases against commercial developers looking to gain control over the land that his village sits on.
