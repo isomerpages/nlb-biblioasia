@@ -111,5 +111,6 @@ Tan’s notebooks and will, as well as the receipt book for the rental of the Ma
 
 [^15]: “Picture Shows,” *Singapore Free Press and Mercantile Advertiser*, 26 February 1918, 10. (From NewspaperSG)
 
+[^16]: “‘Talkies’ Every Night,” *Malaya Tribune*, 11 Feb 1930, 8; “A $250,000 Deal,” *Straits Times*, 14 November 1930, 14. (From NewspaperSG)
 
-
+[^17]: “Marlborough Theatre,” *Malaya Tribune*, 19 April 1930, 8; “Talkies in Singapore,” *Straits Times*, 19 April 1930, 12. (From NewspaperSG)
