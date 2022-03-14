@@ -106,6 +106,10 @@ Standing on the boardwalk at Lower Seletar Reservoir Park, it felt surreal to th
 In 2018 and 2019, a project was set up to formally archive the voices of one of Singapore’s indigenous groups – the Orang Seletar. Nine people from four Orang Seletar kampongs in Johor Bahru were interviewed. The project team aims to eventually deposit these interviews at the National Archives of Singapore.
 <br><br>
 The author is grateful that what had started out as an independent passion project turned into genuine, longstanding friendships. She would like to express her heartfelt thanks to her project teammates, Ruslina Affandi and Chan Kah Mei, as well as to the Orang Seletar who contributed to the project: Eddy bin Salim, Jefree bin Salim, Kelah bin Lah @ Kilo, Komeng, Letih, Lel bin Jantan, Tok Batin Entel, Tok Batin Salim bin Palun and Mina binte Buruk. Special thanks are also due to Jefree bin Salim for contributing photographs for this essay.
+<br><br>
+<img src="/images/Vol%2018%20Issue%201/Orang%20Seletar/08.png"/>
+	<br><br>
+<img src="/images/Vol%2018%20Issue%201/Orang%20Seletar/11.png"/>
 </div>
 
 
