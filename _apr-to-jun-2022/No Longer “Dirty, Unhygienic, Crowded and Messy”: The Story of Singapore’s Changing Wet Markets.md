@@ -122,7 +122,7 @@ While the slaughter of chickens in wet markets had stopped, the sale and slaught
 In July 1981, the Environment Ministry convened a committee to “recommend to the Cabinet what HDB [Housing and Development Board] markets of the future should look like”. This was in response to a report on Singapore markets that had been presented to the Cabinet. The report highlighted that wet markets were not fully utilised due to their short operating hours, there were too many workers in wet markets (an estimated 10,000 to 20,000 workers) and that this labour source should be directed to trades of higher productivity, and wet markets were non-economical to operate since they consisted of mostly small-scale businesses.[^39]
 
 ![](/images/Vol%2018%20Issue%201/Wet%20Market/Tekka.png)
-<div style="background-color: white;">An aerial view of Tekka Market (Zhujiao Market), 1984. Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;">An aerial view of Tekka Market (Zhujiao Market), 1984. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 The committee, led by then Senior Parliamentary Secretary (Environment) Chor Yeok Eng, studied the matter and came to the view that wet markets should no longer be built and instead modern mini-supermarkets and air-conditioned groceries should replace these markets. The committee also recommended that starting from 1982, market stallholders be allowed to take up more than one stall in order to diversify and sell other items and that stallholders should be encouraged to extend their business hours.[^40]
 
