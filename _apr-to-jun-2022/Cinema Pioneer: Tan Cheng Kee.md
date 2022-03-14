@@ -65,3 +65,20 @@ In September 1947, the court ordered United Film Distributors Syndicate to quit 
 The Alhambra was subsequently acquired by Cathay Organisation and opened on 5 February 1951 after a facelift.28 In December 1966, it was renamed the Gala following major renovations and a massive upgrading of the entire cinema. Earmarked for urban redevelopment, it was demolished in the late 1970s, in what was described as a “sad ending to a monumental building in the history of Singapore”.29
 
 Shaw Towers was built on the land where the Alhambra and the Marlborough once stood. Shaw Towers itself had two cinemas: Prince and Jade. However, Shaw Towers is now being torn down as well, to be replaced by a 35-storey integrated development with offices, retail and food and beverage offerings. It is not known whether there will be a cinema or cineplex in the new development.
+
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">
+Tan’s notebooks and will, as well as the receipt book for the rental of the Marlborough and Alhambra theatres (1 March 1935–3 August 1939), were donated to the National Library, Singapore, and are found in the Rare Materials Collection. For information on accessing titles in the Rare Materials Collection, visit https://www.nlb.gov.sg/research/rarecollections.aspx.
+<br>
+</div>
+
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol%2018%20Issue%201/Authors/Ilya.png" style="width: 100px; height: 100px;"/>
+	<b>Ilya Katrinnada</b> is an educator and writer with a keen interest in the intersections of creativity, community and education. Having graduated with a major in anthropology, she currently works as a special education teacher.</div>
+
+	
+	
+#### **NOTES**
+
+[^1]: This name is a pseudonym.
