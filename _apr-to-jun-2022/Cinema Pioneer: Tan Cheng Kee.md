@@ -43,4 +43,25 @@ During the Japanese Occupation of Singapore (1942–45), the Japanese military a
 #### **Tan Cheng Kee’s Notebooks**
 
 Not much has been written about Tan Cheng Kee, especially compared to the Shaw brothers and Loke Wan Tho. However, the National Library has three notebooks that Tan left behind as well as his will.21 These documents give an insight into the kind of person he was.
-Tan believed in the importance of hard work and downplayed the role of luck. In his notebook, he wrote that “luck does not hold forever” and so a man is the “architect of his own fortune by means of his ability”. He also strongly believed that “idleness is the handmaid of the devil”.  
+
+Tan believed in the importance of hard work and downplayed the role of luck. In his notebook, he wrote that “luck does not hold forever” and so a man is the “architect of his own fortune by means of his ability”. He also strongly believed that “idleness is the handmaid of the devil”.
+
+At the same time, Tan also believed in turning to the divine for assistance. He wrote: “I feel that every step in my plan has been guided with Divine help and I hope this will continue until the end of all things” and “I ask daily for Divine help and I have succeeded beyond my dreams.” 
+
+In his notebooks, Tan devoted many pages to the importance of writing a will, pertaining to family and business. He first made his will in 1935 and appointed Estate and Trust Agencies in 1937 as the executor and trustee of his will.22 In his will, Tan ensured that his immediate and close family members had life interests in the properties that they resided in. He also bequeathed money to his uncle, cousin, clerk and cook.
+
+What was interesting were his plans for the Alhambra and Marlborough after his death, which were bequeathed to his trustee. He instructed his trustee to “discontinue the business of a cinematograph exhibitor carried on by me” and let the Theatres “on rents to the highest bidders by tender from time to time for a period not exceeding three years each time”. This was in line with how he had leased out the cinemas to the Shaw Brothers in 1938.
+
+He also entrusted his trustee “to use his best endeavours to secure an extension or renewal of the leases” but in the event of the Government declining to extend or renew the leases, he directed his trustee “to cause the buildings therein to be demolished before the expiration of the leases tenders being called”.23
+
+Tan died on 12 September 1939 in his residence at 319 East Coast Road, and was laid to rest at Bukit Brown Cemetery. He left behind a son Tan Soon Lay, daughter-in-law Yeo Siok Tin, a daughter Josephine Tan, son-in-law Wee Guan Hong, and three grandchildren. His wife had died in 1927.24
+
+In May 1947, there was a legal tussle for the sites of the Alhambra and Marlborough between the Commissioner of Land and the Executor and Trustees of the Estate of Tan Cheng Kee (deceased). Tan had obtained three leases from the government for a period of 30 years for the sites of the two cinemas, the last of which expired on 30 September 1943. The condition was that the sites should be used for show business only and could not be sublet; when the lease expired, the buildings remaining on the land would belong to the Crown.25
+
+After the Japanese Occupation, the Executor and Trustees of the Estate continued to occupy the Alhambra and Marlborough sites under temporary occupation licences, with the condition that the land was not transferable. It was later revealed that the United Film Distributors Syndicate had been operating the cinemas without permission from the Land Office and was paying a percentage of the net takings from the cinemas to the Executor and Trustees of Tan’s estate. A notice to quit was served by the Land Office on 31 January 1947.26
+
+In September 1947, the court ordered United Film Distributors Syndicate to quit and vacate the Alhambra and Marlborough. A new company, Singapore Amusement Syndicate, then leased the cinemas from the government and began screening films in October that year.27
+
+The Alhambra was subsequently acquired by Cathay Organisation and opened on 5 February 1951 after a facelift.28 In December 1966, it was renamed the Gala following major renovations and a massive upgrading of the entire cinema. Earmarked for urban redevelopment, it was demolished in the late 1970s, in what was described as a “sad ending to a monumental building in the history of Singapore”.29
+
+Shaw Towers was built on the land where the Alhambra and the Marlborough once stood. Shaw Towers itself had two cinemas: Prince and Jade. However, Shaw Towers is now being torn down as well, to be replaced by a 35-storey integrated development with offices, retail and food and beverage offerings. It is not known whether there will be a cinema or cineplex in the new development.
