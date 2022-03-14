@@ -99,23 +99,23 @@ Tan’s notebooks and will, as well as the receipt book for the rental of the Ma
 
 [^9]: “The New Alhambra.”
 
-[^10]: Chandy, “The Pioneer Cinemas”; Lim, Kay Tong, *Cathay: 55 Years of Cinema* (Singapore: Landmark Books, 1991), 72. (From National Library, Singapore, Call no. RSING 791.43095957 LIM)
+[^10]: Chandy, “[The Pioneer Cinemas](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19790319-1.2.48)”; Lim, Kay Tong, [*Cathay: 55 Years of Cinema*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=6095688) (Singapore: Landmark Books, 1991), 72. (From National Library, Singapore, Call no. RSING 791.43095957 LIM)
 
-[^11]: George L. Peet, Rickshaw Reporter (Singapore: Eastern Universities Press, 1985), 133. (From National Library, Singapore, Call no. RSING 070.924 PEE)
+[^11]: George L. Peet, [Rickshaw Reporter](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4080269) (Singapore: Eastern Universities Press, 1985), 133. (From National Library, Singapore, Call no. RSING 070.924 PEE)
 
-[^12]: “The Palladium,” Malaya Tribune, 1 May 1918, 4; “Untitled,” *Singapore Free Press and Mercantile Advertiser*, 2 May 1918, 275. (From NewspaperSG)
+[^12]: “[The Palladium](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19180501-1.2.13),” Malaya Tribune, 1 May 1918, 4; “[Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19180502-1.2.19),” *Singapore Free Press and Mercantile Advertiser*, 2 May 1918, 275. (From NewspaperSG)
 
-[^13]: “Page 4 Advertisements Column 2,” *Malaya Tribune*, 2 October 1925, 4; “Page 6 Advertisements Column 1,” *Straits Times*, 1 December 1925, 6. (From NewspaperSG)
+[^13]: “[Page 4 Advertisements Column 2](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19251002-1.2.7.2),” *Malaya Tribune*, 2 October 1925, 4; “[Page 6 Advertisements Column 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19251201-1.2.10.1),” *Straits Times*, 1 December 1925, 6. (From NewspaperSG)
 
-[^14]: Susanna Kulatissa, “... Not Forgotten,” *Straits Times*, 21 July 1985, 10; “Orchard Gateway Opens After Delay,” *Straits Times*, 19 April 2014. (From NewspaperSG)
+[^14]: Susanna Kulatissa, “[... Not Forgotten](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850721-1.2.49.10.7),” *Straits Times*, 21 July 1985, 10; “[Orchard Gateway Opens After Delay](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20140419-1.2.90.1),” *Straits Times*, 19 April 2014. (From NewspaperSG)
 
-[^15]: “Picture Shows,” *Singapore Free Press and Mercantile Advertiser*, 26 February 1918, 10. (From NewspaperSG)
+[^15]: “[Picture Shows](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19180226-1.2.58),” *Singapore Free Press and Mercantile Advertiser*, 26 February 1918, 10. (From NewspaperSG)
 
-[^16]: “‘Talkies’ Every Night,” *Malaya Tribune*, 11 Feb 1930, 8; “A $250,000 Deal,” *Straits Times*, 14 November 1930, 14. (From NewspaperSG)
+[^16]: “[‘Talkies’ Every Night](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19300211-1.2.31),” *Malaya Tribune*, 11 Feb 1930, 8; “[A $250,000 Deal](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19301114-1.2.71),” *Straits Times*, 14 November 1930, 14. (From NewspaperSG)
 
-[^17]: “Marlborough Theatre,” *Malaya Tribune*, 19 April 1930, 8; “Talkies in Singapore,” *Straits Times*, 19 April 1930, 12. (From NewspaperSG)
+[^17]: “[Marlborough Theatre](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19300419-1.2.33),” *Malaya Tribune*, 19 April 1930, 8; “[Talkies in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19300419-1.2.69),” *Straits Times*, 19 April 1930, 12. (From NewspaperSG)
 
-[^18]: “Singapore Cinema to be Air-conditioned,” *Straits Times*, 20 March 1938, 4. (From NewspaperSG)
+[^18]: “[Singapore Cinema to be Air-conditioned](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19380320-1.2.39),” *Straits Times*, 20 March 1938, 4. (From NewspaperSG)
 
 [^19]: “[Air-Conditioning of the Alhambra Theatre Begun](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19380619-1.2.38),” Straits Times, 19 June 1938, 3; “[Alhambra to Reopen in October](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19470917-1.2.57),” *Singapore Free Press*, 17 September 1947, 5. (From NewspaperSG)
 
