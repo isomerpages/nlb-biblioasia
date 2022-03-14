@@ -163,7 +163,7 @@ It remains to be seen what will happen to the wet market in the future. Will it 
 
 [^27]: [Sew Teng Kwok](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/13f6459a-1160-11e3-83d5-0050568939ad), oral history interview by Yoo Loo Feng, 13 October 1999, MP3 audio, Reel/Disc 9 of 23. (From National Archives of Singapore, Accession no. 002209); [Thian Boon Hua](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/45db4864-3b0a-11e5-b55d-0050568939ad), oral history interview by Jesley Chua Chee Huan, 25 July 2014, MP3 audio, Reel/Disc 12 of 66. (From National Archives of Singapore, Accession no. 003888)
 
-[^28]: Sew, interview; Thian, interview. 
+[^28]: [Sew](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/13f6459a-1160-11e3-83d5-0050568939ad), interview; [Thian](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/45db4864-3b0a-11e5-b55d-0050568939ad), interview. 
 
 [^29]: Serendipity, “Inscrutably Oriental,” *New Nation*, 3 November 1974, 18. (From NewspaperSG)
 
