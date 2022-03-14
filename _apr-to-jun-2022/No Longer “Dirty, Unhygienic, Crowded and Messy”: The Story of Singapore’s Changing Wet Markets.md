@@ -96,6 +96,8 @@ In March 1988, Cuppage Road Market became the first wet market to sell “dresse
 
 There were mixed reactions from customers. “How will I know if the chicken I buy is fresh?,” asked one woman rhetorically. She noted: “[T]here’s no way you can avoid the bad smell in a wet market. Even the fish stalls have a bad smell.” However, others welcomed the change. Another woman commented that “marketing would be more pleasant and cleaner without the ‘nauseating experience’ of watching chickens being slaughtered”.[^34]
 
+![](/images/Vol%2018%20Issue%201/Wet%20Market/19980006535%20IMG0037.png)
+
 Two years later, the Ministry of Environment announced the decision to phase out poultry slaughtering at all local markets and centralising all slaughtering at poultry service abattoirs by early 1992. According to a news report, this was to “ensure that the birds are killed in hygienic conditions and prevent pollution of drains within the wet markets”. The ministry also gave assurances that the birds would be slaughtered according to *halal* methods with the approval of the Islamic Religious Council of Singapore (Majlis Ugama Islam Singapura; MUIS).[^35]
 
 The Environment Ministry said that MUIS would issue the “halal” label to certified poultry abattoirs after the inspection of their premises. The label would be printed on a tag tied to the dressed poultry or on the wrapper of the poultry along with the date of slaughter (to indicate freshness) and the  name of the abattoir.[^36] The slaughtering of live poultry at wet markets officially ceased from March 1993.[^37]
@@ -107,6 +109,8 @@ While the slaughter of chickens in wet markets had stopped, the sale and slaught
 #### **The Future of Wet Markets**
 
 In July 1981, the Environment Ministry convened a committee to “recommend to the Cabinet what HDB [Housing and Development Board] markets of the future should look like”. This was in response to a report on Singapore markets that had been presented to the Cabinet. The report highlighted that wet markets were not fully utilised due to their short operating hours, there were too many workers in wet markets (an estimated 10,000 to 20,000 workers) and that this labour source should be directed to trades of higher productivity, and wet markets were non-economical to operate since they consisted of mostly small-scale businesses.[^39]
+
+![](/images/Vol%2018%20Issue%201/Wet%20Market/Tekka.png)
 
 The committee, led by then Senior Parliamentary Secretary (Environment) Chor Yeok Eng, studied the matter and came to the view that wet markets should no longer be built and instead modern mini-supermarkets and air-conditioned groceries should replace these markets. The committee also recommended that starting from 1982, market stallholders be allowed to take up more than one stall in order to diversify and sell other items and that stallholders should be encouraged to extend their business hours.[^40]
 
