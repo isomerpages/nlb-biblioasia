@@ -114,3 +114,27 @@ Tan’s notebooks and will, as well as the receipt book for the rental of the Ma
 [^16]: “‘Talkies’ Every Night,” *Malaya Tribune*, 11 Feb 1930, 8; “A $250,000 Deal,” *Straits Times*, 14 November 1930, 14. (From NewspaperSG)
 
 [^17]: “Marlborough Theatre,” *Malaya Tribune*, 19 April 1930, 8; “Talkies in Singapore,” *Straits Times*, 19 April 1930, 12. (From NewspaperSG)
+
+[^18]: “Singapore Cinema to be Air-conditioned,” *Straits Times*, 20 March 1938, 4. (From NewspaperSG)
+
+[^19]: “Air-Conditioning of the Alhambra Theatre Begun,” Straits Times, 19 June 1938, 3; “Alhambra to Reopen in October,” *Singapore Free Press*, 17 September 1947, 5. (From NewspaperSG)
+
+[^20]: “Alhambra to Reopen in October.”
+
+[^21]: *Tan Cheng Kee*, Tan Cheng Kee’s Notebooks (Singapore: n.p., 1912–38). (From National Library Singapore, Call no. RRARE 384.8092 TAN)
+
+[^22]: Tan Cheng Kee, *Will of Tan Cheng Kee* (Singapore: n.p., 1935–39). (From National Library Singapore, Call no. RRARE 384.8092 WIL)
+
+[^23]: Tan, *Will of Tan Cheng Kee*, 5. 
+
+[^24]: “Death of Mr. Tan Cheng Kee”; “Domestic Occurrences,” *Malaya Tribune*, 14 September 1939,  15; “Untitled,” *Straits Times*, 28 January 1927, 9. (From NewspaperSG)
+
+[^25]: “Legal Tussle Over Sites of 2 Theatres,” *Malaya Tribune*, 10 May 1947, 5. (From NewspaperSG)
+
+[^26]: “Legal Tussle Over Sites of 2 Theatres.”
+
+[^27]: “Alhambra to Reopen in October,” *Singapore Free Press*, 17 September 1947, 5. (From NewspaperSG)
+
+[^28]: “Alhambra to be Renovated,” *Straits Times*, 13 January 1951, 5; “Face Lift for S’pore Cinema,” *Straits Times*, 14 January 1951, 11. (From NewspaperSG)
+
+[^29]: Lim, Cathay: *55 Years of Cinema*, 72; “100, Beach Road, Through the Years,” *City Weekly*, 19 July 1996, 2; “Gala Cinema to Open with Charity Show,” *Straits Times*, 21 December 1966, 24. (From NewspaperSG)
