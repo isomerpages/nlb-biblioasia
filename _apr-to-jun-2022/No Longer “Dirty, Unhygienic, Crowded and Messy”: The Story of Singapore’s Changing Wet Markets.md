@@ -185,11 +185,11 @@ It remains to be seen what will happen to the wet market in the future. Will it 
 
 [^38]: Ang Qing, “Sale and Slaughter of Live Turtles, Frogs Banned at Wet Markets in S’pore Due to Health Concerns,” Straits Times, 14 July 2021, https://www.straitstimes.com/singapore/sale-and-slaughter-of-live-turtles-frogs-banned-at-wet-markets-in-spore-due-to-health. 
 
-[^39]: “Markets of the Future,” *Straits Times*, 20 October 1981, 1. (From NewspaperSG) 
+[^39]: “[Markets of the Future](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19811020-1.2.2),” *Straits Times*, 20 October 1981, 1. (From NewspaperSG) 
 
-[^40]: “Markets of the Future.” 
+[^40]: “[Markets of the Future](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19811020-1.2.2).” 
 
-[^41]: “Markets of the Future.” 
+[^41]: “[Markets of the Future](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19811020-1.2.2).” 
 
 [^42]: Matthew Yap, “The Last Two Wet Markets,” *Straits Times*, 12 October 1984, 2. (From NewspaperSG) 
 
