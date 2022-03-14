@@ -5,8 +5,9 @@ description: ""
 ---
 #### The Alhambra and Marlborough theatres were famous landmarks in pre-war Singapore. **Barbara Quek** looks at these cinemas, and the man behind the curtain.
 
-![](/images/Vol%2018%20Issue%201/Orang%20Seletar/orang_seletar_cover.png)
-<div style="background-color: white;"> An Orang Seletar with his dogs (<i>angkook</i> in the Orang Seletar language), 2018. These pets are loyal companions. <i>Photo courtesy of Jefree bin Salim.</i></div>
+![](/images/Vol%2018%20Issue%201/Tan%20Cheng%20Kee/cover.png)
+<div style="background-color: white;"> The Alhambra (left) and Marlborough (right) theatres on Beach Road, 1947. Both theatres were demolished in the 1970s to make way for the Shaw Towers complex. <i>Tan Kok Kheng Collection, courtesy of National Archives of Singapore.
+</i></div>
 
 Many older Singaporeans today will remember the names Runme Shaw, Run Run Shaw and Loke Wan Tho. These people were synonymous with the early cinema industry in Singapore. The two Shaws, who founded Shaw Brothers in 1925, operated major movie theatres in Singapore and were also film distributors. A decade later, Loke Wan Tho set up Associated Theatres, the forerunner of Cathay Organisation. The company also rolled out movie theatres around Singapore and made movies.
 
