@@ -175,7 +175,7 @@ It remains to be seen what will happen to the wet market in the future. Will it 
 
 [^33]: L.E. Prema, “[Cuppage Market to Sell Dressed Fowls Only](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19870819-1.2.26.28),” *Straits Times*, 19 August 1987, 16. (From NewspaperSG) 
 
-[^34]: Prema, “Cuppage Market to Sell Dressed Fowls Only.” 
+[^34]: Prema, “[Cuppage Market to Sell Dressed Fowls Only](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19870819-1.2.26.28).” 
 
 [^35]: “Wet Market Slaughtering To Be Phased Out by ’92”; Susan Loh and Anne Tan, “Housewives Ready to Switch to Chilled Fowl,” Straits Times, 3 August 1990, 33. (From NewspaperSG) 
 
