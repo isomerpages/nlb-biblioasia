@@ -107,6 +107,7 @@ In March 1988, Cuppage Road Market became the first wet market to sell “dresse
 There were mixed reactions from customers. “How will I know if the chicken I buy is fresh?,” asked one woman rhetorically. She noted: “[T]here’s no way you can avoid the bad smell in a wet market. Even the fish stalls have a bad smell.” However, others welcomed the change. Another woman commented that “marketing would be more pleasant and cleaner without the ‘nauseating experience’ of watching chickens being slaughtered”.[^34]
 
 ![](/images/Vol%2018%20Issue%201/Wet%20Market/19980006535%20IMG0037.png)
+<div style="background-color: white;">Chickens being slaughtered and cleaned in a wet market in Serangoon, 1986. Live slaughtering of poultry ceased from March 1993. <i>Courtesy of National Archives of Singapore.</i></div>
 
 Two years later, the Ministry of Environment announced the decision to phase out poultry slaughtering at all local markets and centralising all slaughtering at poultry service abattoirs by early 1992. According to a news report, this was to “ensure that the birds are killed in hygienic conditions and prevent pollution of drains within the wet markets”. The ministry also gave assurances that the birds would be slaughtered according to *halal* methods with the approval of the Islamic Religious Council of Singapore (Majlis Ugama Islam Singapura; MUIS).[^35]
 
