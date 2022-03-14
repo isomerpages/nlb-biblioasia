@@ -129,7 +129,7 @@ Tan’s notebooks and will, as well as the receipt book for the rental of the Ma
 
 [^24]: “Death of Mr. Tan Cheng Kee”; “Domestic Occurrences,” *Malaya Tribune*, 14 September 1939,  15; “Untitled,” *Straits Times*, 28 January 1927, 9. (From NewspaperSG)
 
-[^25]: “Legal Tussle Over Sites of 2 Theatres,” *Malaya Tribune*, 10 May 1947, 5. (From NewspaperSG)
+[^25]: “[Legal Tussle Over Sites of 2 Theatres](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19470510-1.2.62),” *Malaya Tribune*, 10 May 1947, 5. (From NewspaperSG)
 
 [^26]: “[Legal Tussle Over Sites of 2 Theatres.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19470510-1.2.62)”
 
