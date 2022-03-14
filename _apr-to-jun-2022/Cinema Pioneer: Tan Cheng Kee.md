@@ -3,6 +3,7 @@ title: "Cinema Pioneer: Tan Cheng Kee"
 permalink: /apr-to-jun-2022/vol-18/issue-1/cinema-pioneer-tan-cheng-kee
 description: ""
 ---
+
 #### The Alhambra and Marlborough theatres were famous landmarks in pre-war Singapore. **Barbara Quek** looks at these cinemas, and the man behind the curtain.
 
 ![](/images/Vol%2018%20Issue%201/Orang%20Seletar/orang_seletar_cover.png)
@@ -81,4 +82,6 @@ Tan’s notebooks and will, as well as the receipt book for the rental of the Ma
 	
 #### **NOTES**
 
-[^1]: Gloria Chandy, “The Pioneer Cinemas,” *New Nation*, 19 March 1979, 9. (From NewspaperSG) 
+[^1]: Gloria Chandy, “The Pioneer Cinemas,” *New Nation*, 19 March 1979, 9. (From NewspaperSG)
+
+[^2]: “Remembering Garrick.” *Straits Times*, 13 May 1990, 26. (From NewspaperSG)
