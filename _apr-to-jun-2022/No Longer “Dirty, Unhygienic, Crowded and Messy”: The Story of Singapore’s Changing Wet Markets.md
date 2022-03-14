@@ -155,7 +155,7 @@ It remains to be seen what will happen to the wet market in the future. Will it 
 
 [^23]: Marsita Omar, “[Orchard Road Market](https://eresources.nlb.gov.sg/infopedia/articles/SIP_993__2009-01-06.html),” in *Singapore Infopedia*. National Library Board Singapore. Article published April 2021; [*Ray K. Tyers, Ray Tyers’ Singapore: Then & Now*](https://safe.menlosecurity.com/http:/eservice.nlb.gov.sg/item_holding.aspx?bid=6442235), revised and updated by Siow Jin Hua (Singapore: Landmark Books, 1993), 162, 164 (From National Library, Singapore, Call no. RSING 959.57 TYE-[HIS]); “[‘New Look’ Plan by URA for Orchard Rd](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19781202-1.2.44),” *Straits Times*, 2 December 1978, 13. (From NewspaperSG)
 
-[^24]: Tan, *Wet Markets*, 5; “买菜光景 不同啰!” [“Grocery Shopping Scene Is Different”], 新明日报 [*Xin Min Ri Bao*], 8 August 1995, 16; 冯剑斌 [Feng Jianbin], “湿巴刹气数未尽” [“Not the End of Wet Markets”], 联合早报 [*Lianhe Zaobao*], 25 October 2009, 24. (From NewspaperSG) 
+[^24]: Tan, *Wet Markets*, 5; “[买菜光景 不同啰](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/shinmin19950808-1.2.47.9)!” [“Grocery Shopping Scene Is Different”], 新明日报 [*Xin Min Ri Bao*], 8 August 1995, 16; 冯剑斌 [Feng Jianbin], “[湿巴刹气数未尽](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb20091025-1.2.26.3)” [“Not the End of Wet Markets”], 联合早报 [*Lianhe Zaobao*], 25 October 2009, 24. (From NewspaperSG) 
 
 [^25]: Lizzy Lee, *巴刹 Pasar: The Personalities of Singapore’s Wet Markets* (Singapore: National Library Board, 2014), 6. (From National Library, Singapore, Call no. RSING 381.1095957 LEE)
 
