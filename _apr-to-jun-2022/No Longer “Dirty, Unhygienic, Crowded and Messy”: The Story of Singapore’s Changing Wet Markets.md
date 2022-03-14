@@ -42,6 +42,8 @@ By the end of the 19th century, the Municipal Commission had established four ot
 Ellenborough Market was located between Ellenborough Street and Fish Street (both expunged). The market was known in Malay as Pasar Bahru, which means “New Market”. It was also nicknamed “Teochew Market” as many Teochews lived in the area. The market was noted for its fresh fish and dried seafood products. However, a fire that gutted the market in January 1968, during the lunar new year, affected some 1,000 hawkers and stallholders. The remnants of the market were later demolished, and Housing and Development Board flats, a market and a hawker centre were constructed at the site in the 1970s.[^15] These were demolished in the 1990s to make way for Clarke Quay Central and Swissôtel Merchant Court. 
 
 ![](/images/Vol%2018%20Issue%201/Wet%20Market/19980007378%20IMG0037.png)
+<div style="background-color: white;">Ellenborough Market, c. 1910. A fire gutted the market on 30 January 1968. Housing and Development Board flats, a market and a hawker centre were constructed at the site in the early 1970s. <i>Courtesy of National Archives of Singapore.</i></div>
+
 
 #### **Clyde Terrace Market**
 
