@@ -139,11 +139,11 @@ It remains to be seen what will happen to the wet market in the future. Will it 
 
 [^15]: Vernon Cornelius-Takahama, “[Ellenborough Market](https://eresources.nlb.gov.sg/infopedia/articles/SIP_480_2005-01-07.html),” in *Singapore Infopedia*. National Library Board Singapore. Article published 1999; “[22-storey Flats at Former Market](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710727-1.2.72),” *Straits Times*, 27 July 1971, 9; “[25 Years Ago](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19930207-1.2.80.3),” *Straits Times*, 7 February 1993, 2. (From NewspaperSG) 
 
-[^16]: “From the Daily Times, August 22nd. The Campong Glam Beach,” *Straits Times Overland Journal*, 26 August 1871, 3. (From NewspaperSG)
+[^16]: “[From the Daily Times, August 22nd. The Campong Glam Beach](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stoverland18710826-1.2.12),” *Straits Times Overland Journal*, 26 August 1871, 3. (From NewspaperSG)
 
-[^17]: National Library Board Singapore, *Stories from the Stacks* (Singapore: National Library Board, 2020), 19. (From National Library, Singapore, Call no. RSING 016.95957 SIN)
+[^17]: National Library Board Singapore, [*Stories from the Stacks*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205258180) (Singapore: National Library Board, 2020), 19. (From National Library, Singapore, Call no. RSING 016.95957 SIN)
 
-[^18]: Malay Heritage Centre, *Kampong Gelam: Beyond the Port Town* (Singapore: Malay Heritage Centre, 2016), 69. (From National Library, Singappore, Call no.: RSING 305.8992805957 KAM)
+[^18]: Malay Heritage Centre, [*Kampong Gelam: Beyond the Port Town* ](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202849927)(Singapore: Malay Heritage Centre, 2016), 69. (From National Library, Singappore, Call no.: RSING 305.8992805957 KAM)
 
 [^19]: Ratnala Thulaja Naidu, “Sungei Road,” in *Singapore Infopedia*. National Library Board Singapore. Article published 2017.
 
