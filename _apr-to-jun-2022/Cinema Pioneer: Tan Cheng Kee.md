@@ -55,6 +55,10 @@ During the Japanese Occupation of Singapore (1942–45), the Japanese military a
 
 Not much has been written about Tan Cheng Kee, especially compared to the Shaw brothers and Loke Wan Tho. However, the National Library has three notebooks that Tan left behind as well as his will.[^21] These documents give an insight into the kind of person he was.
 
+![](/images/Vol%2018%20Issue%201/Tan%20Cheng%20Kee/Tan%20Cheng%20Kee%20notebook%20(Jan2022).png)
+<div style="background-color: white;"> Tan Cheng Kee writes about “The Wonderful Future of the Cinema” on this page in his notebook. <i>Image reproduced from Tan Cheng Kee, Tan Cheng Kee’s Notebooks (Singapore, n.p., 1912–38). (From National Library Singapore, Call no. RRARE 384.8092 TAN). All rights reserved, Peter Wee, Katong Antique House Collection, National Library Board, Singapore.
+</i></div>
+
 Tan believed in the importance of hard work and downplayed the role of luck. In his notebook, he wrote that “luck does not hold forever” and so a man is the “architect of his own fortune by means of his ability”. He also strongly believed that “idleness is the handmaid of the devil”.
 
 At the same time, Tan also believed in turning to the divine for assistance. He wrote: “I feel that every step in my plan has been guided with Divine help and I hope this will continue until the end of all things” and “I ask daily for Divine help and I have succeeded beyond my dreams.” 
