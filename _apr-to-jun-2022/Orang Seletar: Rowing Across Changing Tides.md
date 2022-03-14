@@ -117,7 +117,7 @@ The author is grateful that what had started out as an independent passion proje
 <div style="background-color: white;">
 <br/>
 <img src="/images/Vol%2018%20Issue%201/Authors/Ilya.png" style="width: 100px; height: 100px;"/>
-	<b>Asrina Tanuri</b> is a Manager (Research) with the National Library, Singapore, where she provides information services to government agencies. Her research areas include community safety and security, and adult learning.</div>
+	<b>Ilya Katrinnada</b> is an educator and writer with a keen interest in the intersections of creativity, community and education. Having graduated with a major in anthropology, she currently works as a special education teacher.</div>
 
 	
 	
