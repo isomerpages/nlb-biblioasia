@@ -191,9 +191,9 @@ It remains to be seen what will happen to the wet market in the future. Will it 
 
 [^41]: “[Markets of the Future](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19811020-1.2.2).” 
 
-[^42]: Matthew Yap, “The Last Two Wet Markets,” *Straits Times*, 12 October 1984, 2. (From NewspaperSG) 
+[^42]: Matthew Yap, “[The Last Two Wet Markets](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19841012-1.2.86.4.2),” *Straits Times*, 12 October 1984, 2. (From NewspaperSG) 
 
-[^43]: 陈映蓁 [Chen Yingzhen], “湿巴刹 人情味不打折” [”The Personal Touch of Wet Markets”], 联合早报 [*Lianhe Zaobao*], 14 January 2021. (From Factiva via NLB’s eResources website)
+[^43]: 陈映蓁 [Chen Yingzhen], “湿巴刹 人情味不打折” [”The Personal Touch of Wet Markets”], 联合早报 [*Lianhe Zaobao*], 14 January 2021. (From Factiva via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)
 
 [^44]: Rebecca Metteo and Lauren Ong, “As Young Home Cooks Seek Convenience, the Fate of Singapore’s Wet Markets Hangs in the Balance,” *Today*, 22 June 2019, https://www.todayonline.com/singapore/young-home-cooks-seek-convenience-fate-singapores-wet-markets-hang-balance.
 
