@@ -81,4 +81,4 @@ Tan’s notebooks and will, as well as the receipt book for the rental of the Ma
 	
 #### **NOTES**
 
-[^1]: This name is a pseudonym.
+[^1]: Gloria Chandy, “The Pioneer Cinemas,” *New Nation*, 19 March 1979, 9. (From NewspaperSG) 
