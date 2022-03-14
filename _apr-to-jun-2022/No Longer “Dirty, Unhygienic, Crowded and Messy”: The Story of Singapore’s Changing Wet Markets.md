@@ -145,7 +145,7 @@ It remains to be seen what will happen to the wet market in the future. Will it 
 
 [^18]: Malay Heritage Centre, [*Kampong Gelam: Beyond the Port Town* ](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202849927)(Singapore: Malay Heritage Centre, 2016), 69. (From National Library, Singappore, Call no.: RSING 305.8992805957 KAM)
 
-[^19]: Ratnala Thulaja Naidu, “Sungei Road,” in *Singapore Infopedia*. National Library Board Singapore. Article published 2017.
+[^19]: Ratnala Thulaja Naidu, “[Sungei Road](https://eresources.nlb.gov.sg/infopedia/articles/SIP_588_2004-12-23.html),” in *Singapore Infopedia*. National Library Board Singapore. Article published 2017.
 
 [^20]: Stephen Sim, “Singapore Streets Have Nicknames,” *Straits Times*, 29 September 1949, 8; Jackie Sam, “Orchard Road in Retrospect,” *Singapore Monitor*, 21 October 1884, 1. (From NewspaperSG)
 
