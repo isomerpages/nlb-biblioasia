@@ -102,6 +102,7 @@ Chinatown Market was an exception though. In the other wet markets in Singapore,
 In March 1988, Cuppage Road Market became the first wet market to sell “dressed” (pre-slaughtered and cleaned) poultry as live slaughtering was no longer carried out at the market. This was a pilot at the market to gauge public acceptance.[^33]
 
 ![](/images/Vol%2018%20Issue%201/Wet%20Market/Live%20Poultry.png)
+<div style="background-color: white;">Live poultry kept in baskets at a wet market awaiting slaughter, 1950s. <i>Arthur B. Reich Collection, courtesy of National Archives of Singapore.</i></div>
 
 There were mixed reactions from customers. “How will I know if the chicken I buy is fresh?,” asked one woman rhetorically. She noted: “[T]here’s no way you can avoid the bad smell in a wet market. Even the fish stalls have a bad smell.” However, others welcomed the change. Another woman commented that “marketing would be more pleasant and cleaner without the ‘nauseating experience’ of watching chickens being slaughtered”.[^34]
 
