@@ -133,7 +133,7 @@ Tan’s notebooks and will, as well as the receipt book for the rental of the Ma
 
 [^26]: “Legal Tussle Over Sites of 2 Theatres.”
 
-[^27]: “Alhambra to Reopen in October,” *Singapore Free Press*, 17 September 1947, 5. (From NewspaperSG)
+[^27]: “[Alhambra to Reopen in October](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19470917-1.2.57),” *Singapore Free Press*, 17 September 1947, 5. (From NewspaperSG)
 
 [^28]: “[Alhambra to be Renovated](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19510113-1.2.103),” *Straits Times*, 13 January 1951, 5; “[Face Lift for S’pore Cinema](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19510114-1.2.80.2),” *Straits Times*, 14 January 1951, 11. (From NewspaperSG)
 
