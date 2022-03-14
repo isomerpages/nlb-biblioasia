@@ -113,11 +113,11 @@ It remains to be seen what will happen to the wet market in the future. Will it 
 
 [^2]: Dina Fine Maron, “‘Wet Markets’ Likely Launched the Coronavirus. Here’s What You Need to Know,” *National Geographic*, 15 April 2020, https://www.nationalgeographic.com/animals/article/coronavirus-linked-to-chinese-wet-markets.
 
-[^3]: “Frozen Fish: Fear of Profiteering at ‘Wet’ Markets,” *Straits Times*, 13 July 1978, 9. (From NewspaperSG)
+[^3]: “[Frozen Fish: Fear of Profiteering at ‘Wet’ Markets](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19780713-1.2.43),” *Straits Times*, 13 July 1978, 9. (From NewspaperSG)
 
 [^4]: “Wet Market,” *Oxford English Dictionary*, accessed 3 February 2022, https://www.oed.com/view/Entry/227970#eid12103480.
 
-[^5]: Russell Jones, ed., *Loan-words in Indonesian and Malay* (Leiden: KITLV Press, 2007), 235. (From National Library, Singapore, Call no. RSEA 499.22124 LOA); Britannica, T. Editors of Encyclopaedia, “bazaar,” *Encyclopedia Britannica*, 31 May 2016, https://www.britannica.com/topic/bazaar.
+[^5]: Russell Jones, ed., [*Loan-words in Indonesian and Malay*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13063490) (Leiden: KITLV Press, 2007), 235. (From National Library, Singapore, Call no. RSEA 499.22124 LOA); Britannica, T. Editors of Encyclopaedia, “bazaar,” *Encyclopedia Britannica*, 31 May 2016, https://www.britannica.com/topic/bazaar.
 
 [^6]: “巴刹: Market,” Promote Mandarin Council, last updated 11 June 2020, https://www.languagecouncils.sg/mandarin/en/learning-resources/singaporean-mandarin-database/terms/market.
 
