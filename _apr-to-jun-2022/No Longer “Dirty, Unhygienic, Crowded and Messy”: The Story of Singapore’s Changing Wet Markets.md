@@ -62,6 +62,8 @@ Located at what is now Orchard Point, Orchard Road Market was known by the local
 
 ![](/images/Vol%2018%20Issue%201/Wet%20Market/d6044f63-1161-11e3-83d5-0050568939ad.png)
 
+![](/images/Vol%2018%20Issue%201/Wet%20Market/Ladies%20Orchard%20Market.png)
+
 #### **New-generation Wet Markets**
 
 In post-war Singapore, the government began building a new type of market that was co-located with cooked food stalls. These food stalls were manned by people who used to make a living as itinerant hawkers. A desire to remove street obstructions and to better monitor the hygiene of cooked food resulted in the setting up of hawker centres that adjoined markets.[^24]
