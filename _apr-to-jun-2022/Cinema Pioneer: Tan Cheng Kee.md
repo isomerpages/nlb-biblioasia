@@ -36,6 +36,10 @@ In order to accommodate “talkies” (films with sound), which were replacing s
 
 The Marlborough was also upgraded. In April 1930, the *Malaya Tribune* reported that the cinema hall had been rewired, the seating capacity increased from 550 to 682 and the operating room “enlarged to take in two machines, which are absolutely necessary in the case of the talkie performances, so as to ensure uninterrupted projection”.[^17]
 
+![](/images/Vol%2018%20Issue%201/Tan%20Cheng%20Kee/marlborough-ad.png)
+<div style="background-color: white;"> Shows screened at the Marlborough in August 1909, before the introduction of “talkies” (films with sound). <i>Image reproduced from “Page 8 Advertisements Column 3,” Straits Times, 17 August 1909, 8. (From NewspaperSG).
+</i></div>
+
 Tan’s management of the Alhambra came to an end when he leased out the cinema to the Shaw Brothers – which operated 60 cinemas and four amusement parks in Malaya at the time. This took effect from 1 April 1938, about a year before his death at the age of 64.
 
 The *Straits Times* reported: “As the first step toward bringing the theatre back to its former status, an air-conditioning plant is being installed to make the Alhambra the first cinema in Malaya to possess such equipment. Shaw Brothers will take over control of the cinema as from April 1. During May, the building will be closed for a fortnight to enable extensive renovation and changes to be effected in interior and exterior decorations.”[^18]
