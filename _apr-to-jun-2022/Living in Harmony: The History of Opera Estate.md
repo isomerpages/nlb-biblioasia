@@ -88,7 +88,7 @@ The neighbourhood spirit is perhaps best exemplified by Jalan Bintang Tiga’s �
 
 Suresh, co-creator of the popular local comic book series *Mr Kiasu*, moved into Opera Estate in 1993. In 2015, he told the newspaper *Today*: “Organising the annual street party is just a small way to bring neighbours together in acknowledgement of our common space and neighbourly ties. It also provides opportunities for us to show our care and concern for each other.”[^28] 
 
-![](/images/Vol%2018%20Issue%201/Opera%20Estate/Pinata.png)
+![](/images/Vol%2018%20Issue%201/Opera%20Estate/Pinata_edit.png)
 <div style="background-color: white;"> Children taking turns to hit the piñata at Jalan Bintang Tiga’s “Let’s Makan” party in 2019. <i>Courtesy
 of the Singapore Kindness Movement.</i></div>
 
