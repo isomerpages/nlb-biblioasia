@@ -147,9 +147,9 @@ It remains to be seen what will happen to the wet market in the future. Will it 
 
 [^19]: Ratnala Thulaja Naidu, “[Sungei Road](https://eresources.nlb.gov.sg/infopedia/articles/SIP_588_2004-12-23.html),” in *Singapore Infopedia*. National Library Board Singapore. Article published 2017.
 
-[^20]: Stephen Sim, “Singapore Streets Have Nicknames,” *Straits Times*, 29 September 1949, 8; Jackie Sam, “Orchard Road in Retrospect,” *Singapore Monitor*, 21 October 1884, 1. (From NewspaperSG)
+[^20]: Stephen Sim, “[Singapore Streets Have Nicknames](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19490929-1.2.92.1),” *Straits Times*, 29 September 1949, 8; Jackie Sam, “[Orchard Road in Retrospect](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19841021-1.2.47.2),” *Singapore Monitor*, 21 October 1884, 1. (From NewspaperSG)
 
-[^21]: “Don’t Aid the Black Market,” *Singapore Free Press*, 19 May 1947, 4; “Price Chief Flays Orchard Road Market ‘Ring’,” *Malaya Tribune*, 5 June 1948, 1; “2 Reasons for High Food Prices,” *Singapore Standard*, 30 March 1951, 2. (From NewspaperSG)
+[^21]: “[Don’t Aid the Black Market](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19470519-1.2.27.2),” *Singapore Free Press*, 19 May 1947, 4; “[Price Chief Flays Orchard Road Market ‘Ring’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19480605-1.2.2)”, *Malaya Tribune*, 5 June 1948, 1; “2 Reasons for High Food Prices,” *Singapore Standard*, 30 March 1951, 2. (From NewspaperSG)
 
 [^22]: Gretchen Liu, *Raffles Hotel* (Singapore: Landmark Books, 1992), 212. (From National Library, Singapore, Call no. RSING 647.94595701 LIU)
 
