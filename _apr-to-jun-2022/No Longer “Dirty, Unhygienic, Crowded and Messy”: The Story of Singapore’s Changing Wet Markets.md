@@ -131,5 +131,19 @@ It remains to be seen what will happen to the wet market in the future. Will it 
 
 [^11]: In July 1876, Annie Brassey boarded the *Sunbeam* to travel around the world with her husband, four children and a number of pet dogs. An account of her travels was published in 1878. See Annie Brassey,* A Voyage in the ‘Sunbeam’: Our Home on the Ocean for Eleven Months* (London: Longmans, Green, 1878). (From National Library, Singapore, Call no. RRARE 910.41 BRA; Microfilm no. NL25750); Bonny Tan, “Globetrotting Mums: Then and Now,” *BiblioAsia* 14, no. 2 (Jul–Sep 2018).
 
-[^12]:
+[^12]: John Sturgus Bastin, *Travellers’ Singapore: An Anthology* (New York: Oxford University Press, 1994), 114–17. (From National Library, Singapore, Call no. RSING 959.5705 TRA-[HIS])
+
+[^13]: Tan, *Wet Markets*, 5; “Former Telok Ayer Market (now known as Lau Pa Sat)”; Lee, *Telok Ayer Market*, 19, 21.
+
+[^14]: Tan, *Wet Markets*, 5–7; “Former Telok Ayer Market (now known as Lau Pa Sat).”
+
+[^15]: Vernon Cornelius-Takahama, “Ellenborough Market,” in *Singapore Infopedia*. National Library Board Singapore. Article published 1999; “22-storey Flats at Former Market,” *Straits Times*, 27 July 1971, 9; “25 Years Ago,” *Straits Times*, 7 February 1993, 2. (From NewspaperSG) 
+
+[^16]: “From the Daily Times, August 22nd. The Campong Glam Beach,” *Straits Times Overland Journal*, 26 August 1871, 3. (From NewspaperSG)
+
+[^17]: National Library Board Singapore, *Stories from the Stacks* (Singapore: National Library Board, 2020), 19. (From National Library, Singapore, Call no. RSING 016.95957 SIN)
+
+[^18]: Malay Heritage Centre, *Kampong Gelam: Beyond the Port Town* (Singapore: Malay Heritage Centre, 2016), 69. (From National Library, Singappore, Call no.: RSING 305.8992805957 KAM)
+
+[^19]: Ratnala Thulaja Naidu, “Sungei Road,” in *Singapore Infopedia*. National Library Board Singapore. Article published 2017.
 
