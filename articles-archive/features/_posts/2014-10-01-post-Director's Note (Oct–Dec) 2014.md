@@ -7,7 +7,7 @@ description: ""
 ---
 How does one convey the idea of a city? 
 
-In her exuberant account of 19th-century Singapore, Isabella Bird wrote of a city that was full of character, thanks to the varying skin tones of its Oriental inhabitants and their exotic multi-hued costumes while deploring the pallid and detached European residents whose primary obsession was to faithfully send mail home each week. Truly, a tale of two cities depending on which side of the divide you stand.
+In her exuberant account of 19th-century Singapore, [Isabella Bird](/vol-10/issue-3/oct-dec-2014/isabella-bird-travel-singapore) wrote of a city that was full of character, thanks to the varying skin tones of its Oriental inhabitants and their exotic multi-hued costumes while deploring the pallid and detached European residents whose primary obsession was to faithfully send mail home each week. Truly, a tale of two cities depending on which side of the divide you stand.
 
 [Lee Meiyu](/vol-10/issue-3/oct-dec-2014/dragons-tooth-strait)’s review of Chinese traveller Wang Dayuan’s description of Singapore, almost half a millennium earlier in the 14th century, was similarly of a city straddling two divergent parts – a rich ruling royalty ensconced at Fort Canning Hill and a more depraved pirate lair that perhaps gave Singapore its infamous early reputation of crime and danger. 
 
