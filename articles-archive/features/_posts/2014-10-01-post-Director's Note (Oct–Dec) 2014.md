@@ -21,6 +21,6 @@ This time last year, I was in Hong Kong delivering a speech on preserving a nati
 
 In that light, I read [Lim Tin Seng](/vol-10/issue-3/oct-dec-2014/singapore-concept-plan)’s tracing of Singapore’s fast-changing landscape through planning instruments such as master and concept plans. The 1958 Ring Plan of satellite towns separated by green spaces, the waterways in the Green Blue Plan of the 1991 Concept Plan and the core of the city centre as envisioned in the original 1823 Raffles Town Plan – in each generation of planning, we see an emergent trait that eventually became dominant in our cityscape.
 
-The idea of a place, city or otherwise, that is constantly shifting course and transforming itself is what travel writer [Desiree Koh](/vol-10/issue-3/oct-dec-2014/explore-own-backyard) encountered in every Southeast Asian destination she has visited since the 1980s – lovingly remembered in her article on “Exploring My Own Backyard”.
+The idea of a place, city or otherwise, that is constantly shifting course and transforming itself is what travel writer [Desiree Koh](/vol-10/issue-3/oct-dec-2014/desiree-koh-travel-southeast-asia-memories) encountered in every Southeast Asian destination she has visited since the 1980s – lovingly remembered in her article on “Exploring My Own Backyard”.
 
 <b>Gene Tan</b><br>Director, National Library
