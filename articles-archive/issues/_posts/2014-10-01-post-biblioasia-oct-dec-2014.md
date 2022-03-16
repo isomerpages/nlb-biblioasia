@@ -10,7 +10,7 @@ layout: post
 
 [<b>Punkahs Everywhere</b>](/vol-10/issue-3/oct-dec-2014/isabella-bird-travel-singapore)<br>One of the great travel writers of the 19th century, Isabella Bird was 47 when she visited Singapore. She had just spent several months exploring Japan and was about to embark on a journey through the Malay Peninsula. In between, she made a brief stop in Singapore and wrote about it in a letter to her sister in Edinburgh.[(PDF)](/files/pdf/vol-10/issue-3/v10-issue3_Punkahs.pdf)
 
-[<b>Exploring My Own Backyard</b>](/vol-10/issue-3/oct-dec-2014/explore-own-backyard)<br>Travel writer <i>Desiree Koh</i> shares her wanderlust and love for Southeast Asia and remembers the places that have impacted her life and the way she sees the world.[(PDF)](/files/pdf/vol-10/issue-3/v10-issue3_Backyard.pdf)
+[<b>Exploring My Own Backyard</b>](/vol-10/issue-3/oct-dec-2014/desiree-koh-travel-southeast-asia-memories)<br>Travel writer <i>Desiree Koh</i> shares her wanderlust and love for Southeast Asia and remembers the places that have impacted her life and the way she sees the world.[(PDF)](/files/pdf/vol-10/issue-3/v10-issue3_Backyard.pdf)
 
 [<b>Raffles Hotel & the Romance of Travel</b>](/vol-10/issue-3/oct-dec-2014/raffles-hotel-singapore-history)<br><i>Gretchen Liu</i> traces the history of this grand hotel, from its heyday of glitz and glamour to near ruin and its subsequent reincarnation into the heritage icon it is today.[(PDF)](/files/pdf/vol-10/issue-3/v10-issue3_RafflesHotel.pdf)
 
