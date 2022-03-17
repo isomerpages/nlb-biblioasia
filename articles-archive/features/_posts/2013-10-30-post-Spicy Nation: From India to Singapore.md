@@ -28,7 +28,8 @@ Apart from using spices individually, masala, basically a mix of spices, is used
 #### Curry, Curry Leaves and Curry Powder
 
 <img src="/images/vol-9-issue-3/Spicy%20Nation/s2.jpg">
-<div style="background-color: white;">Indian <i>Rojak</i>. Indian cuisine is a hot favourite of Singaporeans. </i></div>
+<div style="background-color: white;">An assortment of spices that make up curry powder. <i>Hildgrim, via Flickr.
+</i></div>
 
 Native to India and Sri Lanka, the curry leaf is an important herb in South Indian cooking. This small, fragrant and dark green leaf has a distinctive peppery flavour that adds robustness to any dish. Curry leaves are chopped or used whole and added to hot oil for tempering, and used as garnishes in salads, curries, marinades and soups to improve the taste. As observed by Wendy Hutton in Singapore Food, the Indians say there is “no substitute for these small, dark green leaves from the karuvapillai tree.” The use of curry leaves is even mentioned in early Tamil literature dat¬ing back to the 1st to 4th century CE.
 
@@ -53,4 +54,14 @@ The time-honoured food traditions of South India continue till this day and it i
 <img src="/images/vol-9-issue-3/Spicy%20Nation/s3.jpg">
 <div style="background-color: white;"><i>Gulab jamun</i> is a popular sweet dessert. <i>Image via iStock.</i></div>
 
-Whether in the north or south, sweets, most of which are highly calorific and contain lashings of sugar and ghee, are traditionally served after meals. Payasam (in Tamil) or kheer (in Hindi), made of rice or wheat vermicelli, is commonly eaten during festive occasions and weddings. The payasam served at Ambalappuzha Temple (see text box) in Kerala is espe¬cially famous among Hindu devotees.7 Other traditional Indian sweets include gulab jamun, mysore pak, halwa and lad-doo. Gulab jamun are little balls of milk powder and plain flour deep fried and drenched in sugary syrup, and usually served at North Indian weddings. Mysore pak — made of ghee, gram flour and sug¬ar — hails from Mysore, in the southern state of Karnataka. It is often referred to as a royal sweet as it was concocted in the kitchen of Mysore Palace for the king. There are several variations of halwa with either semolina, wheat flour, mung bean or carrot as its base while laddoo are bright orange ball-shaped confections offered as a prasad (gift) to guests at weddings and religious occasions.
+Whether in the north or south, sweets, most of which are highly calorific and contain lashings of sugar and ghee, are traditionally served after meals. *Payasam* (in Tamil) or *kheer* (in Hindi), made of rice or wheat vermicelli, is commonly eaten during festive occasions and weddings. The payasam served at Ambalappuzha Temple (see text box) in Kerala is especially famous among Hindu devotees.7 Other traditional Indian sweets include *gulab jamun*, *mysore pak*, *halwa* and *laddoo*. *Gulab jamun* are little balls of milk powder and plain flour deep fried and drenched in sugary syrup, and usually served at North Indian weddings. *Mysore pak* — made of ghee, gram flour and sugar — hails from Mysore, in the southern state of Karnataka. It is often referred to as a royal sweet as it was concocted in the kitchen of Mysore Palace for the king. There are several variations of *halwa* with either semolina, wheat flour, mung bean or carrot as its base while *laddoo* are bright orange ball-shaped confections offered as a *prasad* (gift) to guests at weddings and religious occasions.
+
+#### The origins of vegetarianism
+
+The roots of vegetarianism in India can be traced to religions such as Buddhism, Jainism and Hinduism. Many consider "Indian cuisine ... to be the cradle of vegetarian culinary art."8 Gujeratis, who are mostly vegetarian, have perfected the art of vegetarian cooking. Using the simplest ingredients, they transform the most basic dishes into mouthwatering delicacies. Typically, a Gujerati meal begins with cumin-spiked buttermilk, followed by hot fluffy *roti* (unleavened bread), accompanied by a variety of lentils, vegetables, curds and pickles.
+
+The South Indians also offer an astonishing variety of vegetarian dishes. Both Karnataka and Tamil Nadu have a "strong vegetarian bent to their cuisine."9 In Kerala, during an ancient harvest festival called the Onam festival, as many as 24 vegetarian dishes are served at just one sitting. Indian cooks take great pride in creating exciting vegetarian dishes out of exotic greens like snake gourd, ridge gourd and the pod-like drumstick or *murungaltai* in Tamil, as well as more prosaic leafy vegetables, lentils, dried beans of all kinds, and unripened jackfruit and plantains.
+
+#### Indian Vegetarian Restaurants
+
+Multicultural Singapore is a paradise for food. Among the many local cui-sines available here, Indian food is one of the favourites. The early Tamil immi- 
