@@ -35,9 +35,9 @@ The specific stretch of Orchard Road covered in the aerial map (see below) – w
 <br/>
 <img src="/images/vol-10-issue-3/overorchard/Aerial_Map.jpg" style="width:100%;">
 Note: This image is a composite of three aerial photographs of the South Central region taken by the Royal Air Force, dated 14 February 1957. Orchard Road – from Young Men’s Christian Association building (top right) to Tanglin Circus (bottom left) – is highlighted. Graphics with thanks to Kingsmen Pte Ltd.
-<br><br>Landmarks identified based on 1957 <i>Singapore Street Directory and Guide</i>, (Singapore: Survey Dept, 1957) and <i>Over Singapore: 50 years ago: An aerial view in the 1950s</i> (Singapore: Editions Didier Millet in association with NAS, 2007) by Brenda Yeoh & Theresa Wong.</div>
-
-**Legend**: 1. Orchard Road Police Station; 2. C. K. Tang; 3. Heeren Building; 4. Singapore Chinese Girls’ School; 5. Cold Storage; 6. Pavilion; 7. Koek Road hawkers; 8. Amber Mansions; 9. Cathay Building; 10. Young Men’s Christian Association.
+<br><br>Landmarks identified based on 1957 <i>Singapore Street Directory and Guide</i>, (Singapore: Survey Dept, 1957) and <i>Over Singapore: 50 years ago: An aerial view in the 1950s</i> (Singapore: Editions Didier Millet in association with NAS, 2007) by Brenda Yeoh & Theresa Wong.
+<br/><br/>
+	<b>Legend</b>: 1. Orchard Road Police Station; 2. C. K. Tang; 3. Heeren Building; 4. Singapore Chinese Girls’ School; 5. Cold Storage; 6. Pavilion; 7. Koek Road hawkers; 8. Amber Mansions; 9. Cathay Building; 10. Young Men’s Christian Association.</div>
 
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> <b>01 Orchard Road Police Station</b>
 <br><br>
