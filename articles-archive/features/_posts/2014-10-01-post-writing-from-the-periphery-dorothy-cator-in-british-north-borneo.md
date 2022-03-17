@@ -110,7 +110,7 @@ Mills, S. (1991). <i>Discourses of difference: An analysis of women’s travel w
 
 Morgan, S. (1996). *[Place matters: Gendered geography in Victorian women’s travel books about Southeast Asia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7548761)*. New Jersey: Rutgers University Press. (Call no.: RSING 820.9355 MOR)
 
-Strobel, M. (1991). *[European women and the second British empire]*. Indianapolis: Indiana University Press. (Not available in NLB’s holdings)
+Strobel, M. (1991). *European women and the second British empire*. Indianapolis: Indiana University Press. (Not available in NLB’s holdings)
 
 *[The Singapore and Straits directory for 1894, containing also directories of Sarawak, Labuan, Siam, Johor and the Protected Native States of the Malay Peninsula and an appendix](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5057490)*. (1890–1895). (1894). Singapore; The Singapore & Straits Printing Office. (Call no.: RRARE 382.09595 STR; Microfilm no.: NL1180)
 
