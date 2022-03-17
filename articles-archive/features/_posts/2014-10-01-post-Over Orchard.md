@@ -127,7 +127,7 @@ Home to tenants such as the Municipal Gas Department, the British Council, High 
 <br><br>
 Designed by Frank Brewer, Cathay Building stood out at the foot of Mount Sophia. Comprising residences, a hotel, restaurant and cinema, the 16-storey Cathay Building was the first skyscraper and the tallest building in Singapore until 1954.[^33] The cinema opened on 3 October 1939, while the other wings followed in 1941.[^34] In the immediate post-war years, this was where Cathay Organisation’s director Loke Wan Tho rebuilt his film empire during what turned out to be the golden years of Singapore film production and distribution, and Cathay Cinema became the filmgoer’s cinema of choice.[^35] Cathay Building was demolished in 2003, replaced with a new seven-storey complex with cinemas and retail outlets; its façade, however, was maintained as it was gazetted in February 2003.[^36] The Cathay, as it is now known, re-opened in 2006.[^37]
 <br><br>
-<img src="/images/vol-10-issue-3/overorchard/cathay_building_re.jpg">
+<img src="/images/vol-10-issue-3/overorchard/cathay_building.png">
 Cathay was a popular haunt for filmgoers, offering both European blockbusters and local productions in the 1950s and 1960s. <i>Courtesy of National Archives of Singapore.</i>
  </span>
 
