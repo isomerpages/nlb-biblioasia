@@ -62,10 +62,23 @@ The roots of vegetarianism in India can be traced to religions such as Buddhism,
 
 The South Indians also offer an astonishing variety of vegetarian dishes. Both Karnataka and Tamil Nadu have a "strong vegetarian bent to their cuisine."9 In Kerala, during an ancient harvest festival called the Onam festival, as many as 24 vegetarian dishes are served at just one sitting. Indian cooks take great pride in creating exciting vegetarian dishes out of exotic greens like snake gourd, ridge gourd and the pod-like drumstick or *murungaltai* in Tamil, as well as more prosaic leafy vegetables, lentils, dried beans of all kinds, and unripened jackfruit and plantains.
 
-<img src="/images/vol-9-issue-3/Spicy%20Nation/s4.jpg">
-<div style="background-color: white;"><i>Gulab jamun</i> is a popular sweet dessert. <i>Image via iStock.</i></div>
+<img src="/images/vol-9-issue-3/Spicy%20Nation/s4.jpg"><br>
 <img src="/images/vol-9-issue-3/Spicy%20Nation/s5.jpg">
-<div style="background-color: white;"><i>Gulab jamun</i> is a popular sweet dessert. <i>Image via iStock.</i></div>
+<div style="background-color: white;"> The interior and exterior of Komala Vilas in 1986. The restaurant has since been renovated and has five branches. <i>Courtesy of ISEAS Library, Institute of Southeast Asian Studies, Singapore and Sharon Siddiique.</i></div>
+
 #### Indian Vegetarian Restaurants
 
-Multicultural Singapore is a paradise for food. Among the many local cui-sines available here, Indian food is one of the favourites. The early Tamil immi-
+Multicultural Singapore is a paradise for food. Among the many local cuisines available here, Indian food is one of the favourites. The early Tamil immigrants opened their first Indian vegetarian eatery, Ananda Bhavan Vegetarian Restaurant, in 1924 along Selegie Road to satiate the appetites of homesick Indians. Known as the "most authentic old world restaurant,"10 the original Selegie Road outlet has since closed but there are five branches, the largest of which is located along Serangoon Road. Its signature dishes cover a wide range of traditional dishes such as *thosai*, *idli*, *chapati* (bread made from whole wheat flour) and *puri* (deep fried bread).
+
+Komala Vilas, another vegetarian restaurant, opened in 1934, and has been proclaimed by some as the most popular vegetarian restaurant in Singapore. The restaurant owner, Mr Gunasekaran, says the reason why Komala Vilas has remained popular is because it has successfully retained its traditional flavours all these years without any compromise. His late father Mr Rajoo, whose hometown is in Thanjaur (renowned for its good food) in Tamil Nadu, South India, was the founder of Komala Vilas. "Komala" was the name of his boss's wife and "vilas" means home. So Komala Vilas means a home for good Indian vegetarian food.
+
+Komala Vilas' speciality is the *masala thosai*; so popular that even non-Indians love it. It is a crisp, savoury, thin pancake eaten with potatoes spiced with *masala*. Other accompaniments include *sambhar* (lentil curry) and coconut chutney. The restaurant hardly advertises and it has been through word of mouth that Komala Vilas has expanded to three locations and is now a household name in Singapore.
+
+When Mr Gunasekaran noticed more and more people ordering *masala thosai*, he added more varieties. The menu has since expanded from simple *thosai* to other South Indian dishes like, *idli*, variations of *thosai* (crisp thin Indian pancake), *rava thosai*, (thosai made with semolina flour) pepper *thosai*, *utthappam*, (thick pancake) vadai (a savoury snack made from dal, len¬til or gram flour and deep fried), as well as North Indian meals with an assortment of chutneys. Its subsidiary, Komalas, run by Mr Gunasekaran’s brother, employs a fast food concept to vegetarian food.
+
+#### SINGAPOREAN INDIAN FARE
+
+Some of the most renowned Indian restau¬rants in Singapore are Samy’s Curry, which opened in the 1950s, Muthu’s Curry in 1969 and Banana Leaf Apolo in 1974. These three restaurants are known in particu¬lar for their mouthwatering and eye-pop-pingly hot fish head curry. Few people are aware that fish head curry is actually a Singaporean concoction. Eating the fish head is not something common among ethnic Indians, as only those who could not afford to buy the whole fish would eat the head. On the other hand, the Chinese had long ago discovered the delecta¬ble sweetness of the flesh from the head and cheeks of a fish; the Teochews for in¬stance eat steamed fish head with gin¬ger and pickled vegetables. Enterprising Indian restaurateurs must have noticed this peculiar habit and decided to experi¬ment cooking fish head with curry spices instead, leading to the birth of this fu¬sion dish.11 No one could have imagined its popularity.
+The genesis of fish head curry can be traced to an Indian migrant, Mr M.J. 
+
+
