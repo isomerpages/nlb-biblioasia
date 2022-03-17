@@ -178,7 +178,7 @@ Taylor, T.G. (1951). *[Urban geography: A study of site, evolution, pattern and 
 
 [^7]: Tay, oral interview
 
-[^8]: This was the building Lee was most familiar with as he had ferried his sister to medical school regularly. The building in post-war Singapore was the Medical Faculty of the University of Malaya. [Tay, oral interview).
+[^8]: This was the building Lee was most familiar with as he had ferried his sister to medical school regularly. The building in post-war Singapore was the Medical Faculty of the University of Malaya. (Tay, oral interview).
 
 [^9]: Lee claimed the invigilator was David Aberdeen who had recently won a competition to design the Trade Union Congress building in London. He had sensed Aberdeen observing him sketching for at least 5 minutes during the exam (Tay oral interview)
 
