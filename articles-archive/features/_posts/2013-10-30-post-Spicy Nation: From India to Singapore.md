@@ -62,6 +62,10 @@ The roots of vegetarianism in India can be traced to religions such as Buddhism,
 
 The South Indians also offer an astonishing variety of vegetarian dishes. Both Karnataka and Tamil Nadu have a "strong vegetarian bent to their cuisine."9 In Kerala, during an ancient harvest festival called the Onam festival, as many as 24 vegetarian dishes are served at just one sitting. Indian cooks take great pride in creating exciting vegetarian dishes out of exotic greens like snake gourd, ridge gourd and the pod-like drumstick or *murungaltai* in Tamil, as well as more prosaic leafy vegetables, lentils, dried beans of all kinds, and unripened jackfruit and plantains.
 
+<img src="/images/vol-9-issue-3/Spicy%20Nation/s4.jpg">
+<div style="background-color: white;"><i>Gulab jamun</i> is a popular sweet dessert. <i>Image via iStock.</i></div>
+<img src="/images/vol-9-issue-3/Spicy%20Nation/s5.jpg">
+<div style="background-color: white;"><i>Gulab jamun</i> is a popular sweet dessert. <i>Image via iStock.</i></div>
 #### Indian Vegetarian Restaurants
 
-Multicultural Singapore is a paradise for food. Among the many local cui-sines available here, Indian food is one of the favourites. The early Tamil immi- 
+Multicultural Singapore is a paradise for food. Among the many local cui-sines available here, Indian food is one of the favourites. The early Tamil immi-
