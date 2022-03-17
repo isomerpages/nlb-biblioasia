@@ -91,7 +91,7 @@ In fact, the preface of the book acknowledges the "help of Chinese and Indian fr
 #### **Becoming "Mrs Beeton” of Malaya**
 	
 "Perhaps one day some lady living in Malaya will give her time and patience to research in Malayan cookery, and if she has a flair for cooking herself, be able to write down the information in those measures and method-descriptions that we know as recipes."
-<div style="text-align: right">— Holttum & Hinch (1935), p. 196.</div>
+<div style="text-align: right">— Holttum & Hinch (1935), p. 196</div>
 	
 Holttum and Hinch would have been pleased to learn of Che Azizah binte Ja'affar who, in November 1950, was "compiling a cookery book with international recipes giving exact quantities of all ingredients for each dish".[^43] Che Azizah was "very interested in cookery" and sought to give traditional Malay dishes "a new twist" with the infusion of Western techniques where, for example, she baked *otalt-otalt* (a concoction of fish paste and spices) in a pastry case instead of coconut leaves.[^44] Desiring "more education [...] and more economic independence"[^45] for Malay women, she ran a domestic science school in Johor and was personally involved in "teaching her pupils how to run their homes on modern, hygienic lines, [and] how to provide meals which are delicious and nutritious".[^46] For her efforts, Che Azizah was described as "perhaps [...] another Mrs Beeton [for she was] not only a good cook but a very progressively minded woman as well".[^47] 
 	
@@ -99,7 +99,7 @@ It is intriguing how Asian women, particularly those who were trained in domesti
 	
 Che Azizah was one among several who gained recognition for their culinary expertise to the extent of being dubbed "Mrs Beeton", which suggests comparability with those whom they emulated. Such cultural appropriation symbolised both submission and sub-version.[^49] Imitation may be the sincerest form of flattery but successful mimicry at the same time undermined the myth of colonial superiority.[^50] 
 
-The cookbook offered Asian women, as it did for European women, "a textual apparatus which enabled [...] some claim to legitimation and public spaces".[^51] Published in 1956, Susie Hing's *In a Malayan Kitchen* provides recipes for "dishes as varied and as colourful as our Malayan people”,[^52], thus expressing a nascent national consciousness at a time of decolonisation and political awakening.
+The cookbook offered Asian women, as it did for European women, "a textual apparatus which enabled [...] some claim to legitimation and public spaces".[^51] Published in 1956, Susie Hing's *In a Malayan Kitchen* provides recipes for "dishes as varied and as colourful as our Malayan people”,[^52] thus expressing a nascent national consciousness at a time of decolonisation and political awakening.
 
 <img style="width: 350px; height: 450px;" src="/images/vol-9-issue-3/Women%2C%20cookbook%2C%20housewife/w5.jpg">
 <div style="background-color: white;"> <i>In a Malayan Kitchen</i> by Mrs Susie Hing was published in 1956 and did not segregate recipes along ethnic lines.</div>
@@ -174,7 +174,7 @@ V.St.J. (1938, March 6). [I return to Malaya as a bride](http://eresources.nlb.g
 [^6]:Beetham, 2010, p. 21.
 [^7]:Beetham, 2010, p. 21.
 [^8]:Beetham, 2010, p. 22. 
-[^9]:Tobias, S.M. (1998). Early American cookbooks as cultural artifacts. *Papers on language & literature, 34* (1), 3–18, p. 9.
+[^9]:Tobias, S.M. (1998). Early American cookbooks as cultural artifacts. *Papers on language & literature, 34* (1), 3–18, p. 9. Retrieved from ProQuest via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 [^10]:see, for example, Beeton, I., & Baker, G. (2012). [*Mrs Beeton's cakes & bakes*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14658701). London: Weidenfeld & Nicolson. (Call no.: 641.865 BEE); Beeton, I., & Baker, G. (2012). [*Mrs Beeton puddings*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14658698). London: Weidenfeld & Nicolson. (Call no.: 641.865 BEE); Beeton, I., & Baker, G. (2012). [*Mrs Beeton classic meat dishes*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14658699). London: Weidenfeld & Nicolson. (Call no.: 641.865 BEE). Available at Public Libraries.
 [^11]:V.St.J. (1938, March 6). [I return to Malaya as a bride](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19380306-1.2.130). *The Straits Times*, p. 16. Retrieved from NewspaperSG.
 [^12]:Europeans wives were collectively called ‘memsahibs’, a generic term borrowed from India that literally means “Madam Boss”.
