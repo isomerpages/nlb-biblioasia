@@ -37,7 +37,7 @@ English traveller Annie Brassey[^11]  visited the market in 1877 and was impress
 Due to a land reclamation project, the market was demolished in 1879 and the market stalls relocated to newly reclaimed land at Collyer Quay. A new market – which retained the octagonal shape of the original market – was designed by Municipal Engineer James MacRitchie and completed in 1894. Operating for almost 80 years, it ceased to function as a wet market in 1972, following the area’s transformation into a commercial and financial district, and was gazetted as a national monument in 1973. Officially renamed Lau Pa Sat (Old Market) in 1989, the food centre is today a popular haunt for tourists as well as office workers in the Central Business District.[^13]
 By the end of the 19th century, the Municipal Commission had established four other markets: Ellenborough Market built in 1845, Clyde Terrace Market and Rochor Market established in the 1870s, and Orchard Road Market in 1891.[^14]
 
-#### **Ellenborough Market**
+#### ***Ellenborough Market***
 
 Ellenborough Market was located between Ellenborough Street and Fish Street (both expunged). The market was known in Malay as Pasar Bahru, which means “New Market”. It was also nicknamed “Teochew Market” as many Teochews lived in the area. The market was noted for its fresh fish and dried seafood products. However, a fire that gutted the market in January 1968, during the lunar new year, affected some 1,000 hawkers and stallholders. The remnants of the market were later demolished, and Housing and Development Board flats, a market and a hawker centre were constructed at the site in the 1970s.[^15] These were demolished in the 1990s to make way for Clarke Quay Central and Swissôtel Merchant Court. 
 
@@ -54,14 +54,14 @@ Clyde Terrace Market, also known as Pasar Besi and Ti-Pa-Sat (铁巴刹), meanin
 
 Preparations for a new market began in 1872 when iron pillars and other building materials were imported from England, with the laying of the foundation stone on 29 March 1873. Located near Clyde Terrace (present-day Beach Road) on the reclaimed stretch of land facing the sea, the market began operations around 1874. It later also functioned as a wholesale market and distribution centre where vendors purchased fresh produce and sold them in rural villages and other smaller markets.[^17] Clyde Terrace Market was demolished in 1983 and the Gateway office complex stands at the site today.[^18]
 
-#### **Rochor Market**
+#### ***Rochor Market***
 
 Rochor Market, built in 1872, was a popular landmark in the Sungei Road district. The market served the surrounding community for more than a century before it was demolished in August 1982.[^19] Little is known about this market and an open-air carpark occupies the site today. 
 
 ![](/images/Vol%2018%20Issue%201/Wet%20Market/19980005879%20IMG0002.png)
 <div style="background-color: white;">Rochor Market, 1930s. An open-air carpark sits on the site today. <i>Lim Kheng Chye Collection, courtesy of National Archives of Singapore.</i></div>
 
-#### **Orchard Road Market**
+#### ***Orchard Road Market***
 
 Located at what is now Orchard Point, Orchard Road Market was known by the locals as Tang Leng Pa Sat or Tanglin Pa Sat.[^20] It sold fresh produce at higher prices compared to other markets in Singapore due to its wealthier European customers.[^21] The fountain that currently stands in the courtyard of Raffles Hotel was once located in front of Orchard Road Market.[^22] The market was demolished and replaced by Orchard Point in 1982.[^23]
 
