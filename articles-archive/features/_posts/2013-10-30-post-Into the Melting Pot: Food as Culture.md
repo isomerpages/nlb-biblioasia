@@ -16,4 +16,20 @@ According to chinese folklore, the four corners of the sky collapsed onto itself
 
 Her work done, Nuwa grew restless and a little lonely, so on the first day, she created chickens to keep her company. On the second day, she created dogs, followed by sheep on the third, pigs on the fourth, cows on the fifth and horses on the sixth. On the seventh day, Nuwa folded up the sleeves of her robes and fashioned human beings from yellow clay, sculpting each one carefully. She was fatigued — and a little impatient — after creating hundreds of such figures in this manner, so she dipped a rope in the clay and flicked it so that blobs of clay landed everywhere. The handcrafted figures became nobles, while the blobs turned into commoners.
 
-This seventh day falls on *zhengyue*, the first month of the Chinese calendar
+This seventh day falls on *zhengyue*, the first month of the Chinese calendar and is known as *renri* (literally Human Day) — the birthday of mankind. *Renri* also coincides with the seventh day of the Chinese Lunar New Year.
+
+On *renri*, Singaporeans and Malaysians of Chinese descent celebrate their universal birthday by eating *yu sheng* — more popularly known as *yee sang* in Malaysia — a peculiarly local practice of eating raw fish salad (see text box) that traces its history back to the 1960s.
+
+#### A lucky dish of fish 
+
+Fortune or luck is a great arbiter in Chinese culture and the Chinese are unabashed in their pointed preference for material wealth. The longing for instant prosperity and wealth is underscored in the *lo hei* exercise, with its broad tossing and sweeping gestures.
+
+One of Singapore’s most renowned cooks, Chef Sin Leong, recalls how upset his diners were when in the early days the dish of *yu sheng* was tossed by the chefs in the kitchen before it was served. “They said we were taking away their good fortune, so they would rather toss it themselves!”
+
+The performatory ritual of ushering in wealth is only symbolical; more importantly, eating in ritual contexts can also reaffirm relationships with other people.1 The communal partaking of *yu sheng* is perhaps the closest thing the Chinese, known for their usually reserved natures, ever come to "dancing like no one is watching" as a family over food. 
+
+FOOD AS A FORM OF CULTURE
+The department of anthropology at Oregon State University defines culture as "learned patterns of behaviour and thought that help a group adapt to its surroundings".2 Culinary culture is cen-tral to diasporic identification, with the focus on the place of food in society, more specifically in the enduring habits, rit¬uals and daily practices that are collec¬tively used to create and sustain a shared sense of cultural identity.
+To this end, restaurateur, chef and F&B consultant, David Yip, hopes to re¬invigorate cultural identity across the Chinese dialect groups in Singapore with his epicurean club Jumping Tables, a spo¬radic and informal culinary gathering that features respected chefs whipping up time-honoured recipes the traditional way. Yip invites a number of chefs - from humble eateries to established restau-rants - to cook at these gatherings.
+One of the chefs Yip was most eager to feature at Jumping Tables was Chef Sin Leong, one of the founding chefs of Red Star restaurant in Chin Swee Road and owner of the now defunct Sin Leong Restaurant, a local institution in Cantonese cuisine that first opened in 1971. When Sin, 86, agreed to participate in Jumping Tables, Yip and his guests could barely contain their excitement.
+Before the meal commenced, Chef Sin insisted that the guests visit the altar he keeps in his kitchen, where his men¬tor, the late Master Luo Cheng, smiles out of an 
