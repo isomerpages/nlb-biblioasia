@@ -96,7 +96,7 @@ Chinatown Market had originally consisted of stalls concentrated along Trengganu
 In the early 1980s, stallholders were moved into what is now called Chinatown Complex, referred to colloquially as Chinatown Market. Some continued selling wildlife meat until the practice eventually died out, especially after Singapore became a signatory to the Convention on International Trade in Endangered Species of Wild Fauna and Flora in 1986.[^31]
 
 ![](/images/Vol%2018%20Issue%201/Wet%20Market/Sago%20Street%20Market.png)
-<div style="background-color: white;">The wet market on Sago Street in Chinatown, 1964. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore..</i></div>
+<div style="background-color: white;">The wet market on Sago Street in Chinatown, 1964. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 Chinatown Market was an exception though. In the other wet markets in Singapore, the only animals regularly slaughtered on the premises were chickens. Up till the 1980s, customers could select live chickens in wet markets and have them slaughtered on the spot. A total of 69,000 birds was estimated to be slaughtered daily at these markets, making up two-thirds of the total number of birds slaughtered in Singapore. As a result, “even in the cleanest markets, the poultry stalls always make their presence felt by their stench. People living near markets have also complained of the noise when live poultry is unloaded from lorries in the early morning,” said the *Straits Times*.[^32] 
 
