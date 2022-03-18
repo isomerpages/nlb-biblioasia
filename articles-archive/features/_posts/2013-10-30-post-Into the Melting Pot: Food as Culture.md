@@ -28,8 +28,14 @@ One of Singapore’s most renowned cooks, Chef Sin Leong, recalls how upset his 
 
 The performatory ritual of ushering in wealth is only symbolical; more importantly, eating in ritual contexts can also reaffirm relationships with other people.1 The communal partaking of *yu sheng* is perhaps the closest thing the Chinese, known for their usually reserved natures, ever come to "dancing like no one is watching" as a family over food. 
 
-FOOD AS A FORM OF CULTURE
-The department of anthropology at Oregon State University defines culture as "learned patterns of behaviour and thought that help a group adapt to its surroundings".2 Culinary culture is cen-tral to diasporic identification, with the focus on the place of food in society, more specifically in the enduring habits, rit¬uals and daily practices that are collec¬tively used to create and sustain a shared sense of cultural identity.
-To this end, restaurateur, chef and F&B consultant, David Yip, hopes to re¬invigorate cultural identity across the Chinese dialect groups in Singapore with his epicurean club Jumping Tables, a spo¬radic and informal culinary gathering that features respected chefs whipping up time-honoured recipes the traditional way. Yip invites a number of chefs - from humble eateries to established restau-rants - to cook at these gatherings.
+#### Food as a form of culture 
+
+The department of anthropology at Oregon State University defines culture as "learned patterns of behaviour and thought that help a group adapt to its surroundings".2 Culinary culture is central to diasporic identification, with the focus on the place of food in society, more specifically in the enduring habits, rituals and daily practices that are collectively used to create and sustain a shared sense of cultural identity.
+
+To this end, restaurateur, chef and F&B consultant, David Yip, hopes to reinvigorate cultural identity across the Chinese dialect groups in Singapore with his epicurean club Jumping Tables, a sporadic and informal culinary gathering that features respected chefs whipping up time-honoured recipes the traditional way. Yip invites a number of chefs – from humble eateries to established restaurants – to cook at these gatherings.
+
 One of the chefs Yip was most eager to feature at Jumping Tables was Chef Sin Leong, one of the founding chefs of Red Star restaurant in Chin Swee Road and owner of the now defunct Sin Leong Restaurant, a local institution in Cantonese cuisine that first opened in 1971. When Sin, 86, agreed to participate in Jumping Tables, Yip and his guests could barely contain their excitement.
-Before the meal commenced, Chef Sin insisted that the guests visit the altar he keeps in his kitchen, where his men¬tor, the late Master Luo Cheng, smiles out of an 
+
+Before the meal commenced, Chef Sin insisted that the guests visit the altar he keeps in his kitchen, where his mentor, the late Master Luo Cheng, smiles out of an ornate frame, amid offerings of orchid blooms and clouds of incense. Hailing from Shanghai, China, Master Luo groomed Singapore's four most prominent Chinese chefs in the 1970s. His protégés, Sin Leong, Hooi Kok Wai, Tham Yui Kai and Lau Yoke Pui, were lat¬er crowned as Singapore's "Four Heavenly Culinary Kings".
+
+Under the tutelage of Master Luo, the four young junior chefs toiled in the kitchen under his stern eye and exacting standards at the famed Cathay Restaurant (at the old Cathay Building). Opened in 1940, it initially served European fare, but underwent a revamp in 1951 un¬der Master Luo to become the finest Chinese restaurant in Singapore, special¬ising in Cantonese cuisine. The Cathay
