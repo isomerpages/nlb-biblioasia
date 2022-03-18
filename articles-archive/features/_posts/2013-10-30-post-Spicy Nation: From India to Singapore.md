@@ -131,20 +131,34 @@ Hutton, W. (2007). [*Singapore food*](https://eservice.nlb.gov.sg/item_holding.a
 
 *Indian cookery: Piquant, spicy & aromatic*. (2007). Cologne: Naumann & Gobel. (Not available in NLB holdings)
 
-Joshi, A., & Roberts, A. (2006). Regional Indian cooking. North Clarendon, VT: Periplus. (Not available in NLB holdings)
-Kenihan, K. (2004). Indian food. Brunswick, Vic.: R & R Publications. (Not available in NLB holdings)
-Kew Royal Botanic Gardens. Plant cultures: Curry leaf. Retrieved from Kew.org website. 
-Malhi, M. (2011). Classic Indian recipes: 75 signature dishes. London: Hamlyn. (Not available in NLB holdings)
-Narula, B. et al. (2004). Authentic recipes from India. Singapore: Periplus Editions. (Not available in NLB holdings)
-National Library Board. (2016). Mee Goreng written by Tan, Bonny. Retrieved from Singapore Infopedia website
-Panickar, G. (2013, July 19). Prata paradise. Tabla, p. 14. Retrieved from Tabla website. 
-Sanmugam, D., & Shanmugam, K. (2011). Indian heritage cooking. Singapore: Marshall Cavendish Cuisine. (Call no.: RSING 641.595957 DEV)
-Siddique, S., & Shotum, N. (1990). Singapore’s little India: Past, present, and future. Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 305.89141105957 SID)
-Sur, C. (2003). Continental Cuisine for the Indian palate. New Delhi: Lustre Press/Roli; Lancaster: Gazelle. (Not available in NLB holdings)
-Tan, B. (2013). Ask the foodie kitchen knowhow explained. Singapore: Straits Times Press. (Call no.: RSING 641.5 TAN)
-Tay, L. (2012). Only the best!: The ieat, ishoot, ipost guide to Singapore’s shiokiest hawker food. Singapore: Epigram Books. (Call no.: RSING 641.595957 TAY)
-Tay, L. (2012, March 5). Islamic Restaurant: The granddaddy of Briyanis! Retrieved from ieatishootipost website.
-‘The Straits Times’ annual 1974 (p. 86). Retrieved from Roots website. 
-Wickramasingher, P., & Selva Rajah, C. (2002). The food of India. London: Murdoch Books. (Not available in NLB holdings)
-Wong, D., & Wibisono, D. (2001). The food of Singapore: Authentic recipes from the Manhattan of the East. Singapore: Periplus Editions. (Call no.: RSING 641.595957 WON)
+Joshi, A., & Roberts, A. (2006). *Regional Indian cooking*. North Clarendon, VT: Periplus. (Not available in NLB holdings)
 
+Kenihan, K. (2004). *Indian food*. Brunswick, Vic.: R & R Publications. (Not available in NLB holdings)
+
+Kew Royal Botanic Gardens. *Plant cultures: Curry leaf*. Retrieved from Kew.org website. 
+
+Malhi, M. (2011). Classic *Indian recipes: 75 signature dishes*. London: Hamlyn. (Not available in NLB holdings)
+
+Narula, B. et al. (2004). *Authentic recipes from India*. Singapore: Periplus Editions. (Not available in NLB holdings)
+
+National Library Board. (2016). [*Mee Goreng*](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1740_2010-12-13.html) written by Tan, Bonny. Retrieved from Singapore Infopedia website
+
+Panickar, G. (2013, July 19). Prata paradise. *Tabla*, p. 14. Retrieved from Tabla website. 
+
+Sanmugam, D., & Shanmugam, K. (2011). [*Indian heritage cooking*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13992386). Singapore: Marshall Cavendish Cuisine. (Call no.: RSING 641.595957 DEV)
+
+Siddique, S., & Shotum, N. (1990). [Singapore’s little India: Past, present, and future](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5688592). Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 305.89141105957 SID)
+
+Sur, C. (2003). *Continental Cuisine for the Indian palate*. New Delhi: Lustre Press/Roli; Lancaster: Gazelle. (Not available in NLB holdings)
+
+Tan, B. (2013). [*Ask the foodie kitchen knowhow explained*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14517489). Singapore: Straits Times Press. (Call no.: RSING 641.5 TAN)
+
+Tay, L. (2012). [*Only the best!: The ieat, ishoot, ipost guide to Singapore’s shiokiest hawker food*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14544980). Singapore: Epigram Books. (Call no.: RSING 641.595957 TAY)
+
+Tay, L. (2012, March 5). *Islamic Restaurant: The granddaddy of Briyanis!* Retrieved from ieatishootipost website.
+
+*‘The Straits Times’ annual 1974* (p. 86). Retrieved from Roots website. 
+
+Wickramasingher, P., & Selva Rajah, C. (2002). *The food of India*. London: Murdoch Books. (Not available in NLB holdings)
+
+Wong, D., & Wibisono, D. (2001). [*The food of Singapore: Authentic recipes from the Manhattan of the East*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11093999). Singapore: Periplus Editions. (Call no.: RSING 641.595957 WON)
