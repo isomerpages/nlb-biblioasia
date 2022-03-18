@@ -71,7 +71,7 @@ The distinctive architecture of the old Heeren Building as well as anchor tenant
 <br><br>
 The Singapore Chinese Girls’ School, formerly located at Hill Street, officially opened their premises at 37 Emerald Hill Road on 6 February 1926.[^13] The two-storey building – which cost 60,000 Straits dollars to build – offered 12 classrooms, an assembly hall, a staff room and principal’s office, with gardens planted with the fruit trees Orchard Road was known for.[^14] Started in 1899 by two prominent Straits-born Chinese community leaders – Lim Boon Keng and Song Ong Siang – it was the colony’s first English school for Chinese girls, who were taught subjects such as Malay, music, sewing and cookery.[^15] The school remained on Emerald Hill for 70 years before relocating to its present Dunearn Road site in 1994.[^16] In 1997, the school’s Emerald Hill building was added to the National Heritage’s Board’s list of significant historical sites.[^17]
 <br><br>
-<img src="/images/vol-10-issue-3/overorchard/girl_school.jpg" style="width:70%;">
+<img src="/images/vol-10-issue-3/overorchard/girl_school.png" style="width:70%;">
 Singapore Chinese Girls’ School students putting up a gymnastics display at the school’s Games Day in 1964, at their Emerald Hill premises. <i>Yusof Ishak collection, courtesy of National Archives of Singapore.</i>
  </span>
  
@@ -95,7 +95,7 @@ Formerly known as the Palladium (1913–1925), the Pavilion cinema was a pioneer
 <br/><br/>
 The building was demolished in 1969 and replaced with Phoenix Hotel and Specialists’ Shopping Centre.[^23] Both buildings have since been demolished and replaced by Orchard Gateway.
 <br><br>
-<img src="/images/vol-10-issue-3/overorchard/Pavilion.jpg" style="width:70%;">
+<img src="/images/vol-10-issue-3/overorchard/Pavilion.png" style="width:70%;">
 Such was the view that greeted the person who stepped out of the Pavilion cinema and looked towards Cold Storage (the building on left) in 1957. <i>William Wee collection, courtesy of National Archives of Singapore.</i>
  </span>
 
@@ -111,7 +111,7 @@ Located in the vicinity of Orchard Road Market, Koek Road and Koek Lane were hom
 <br/><br/>
 As early as 1933, Municipal Commissioners had prohibited itinerant hawkers from overcrowding Koek Road and Koek Lane.[^25] However, patrons were spoilt for choice and often unconcerned with the finer points of hawker licensing and other legal details, despite the occasional complaint of road obstruction.[^26] That compromise lasted till the mid-1970s when the Koek Road and Koek Lane hawkers, itinerant or otherwise, were relocated, some to the new Cuppage Centre.[^27]
 <br><br>
-<img src="/images/vol-10-issue-3/overorchard/Koek_Road_hawkers.jpg" style="width:70%;">
+<img src="/images/vol-10-issue-3/overorchard/Koek_Road_hawkers.png" style="width:70%;">
 Itinerant hawkers at what was known as “Koek’s Bazaar” in 1905. Koek Road and Koek Lane became a favourite haunt for foodies in search of Singapore’s hawker delights. <i>Courtesy of National Archives of Singapore.</i>
  </span>
 
