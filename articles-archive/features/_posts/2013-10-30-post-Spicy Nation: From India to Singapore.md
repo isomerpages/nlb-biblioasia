@@ -8,7 +8,7 @@ description: ""
 #### From fish head curry to Indian rojak, Indian food in Singapore has evolved over time, drawing influences from the various local cultures, and finding its place in the hearts of Singaporeans.
 
 <img src="/images/vol-9-issue-3/Spicy%20Nation/s1.jpg">
-<div style="background-color: white;">Indian <i>Rojak</i>. Indian cuisine is a hot favourite of Singaporeans. </i></div>
+<div style="background-color: white;">Indian <i>Rojak</i>. Indian cuisine is a hot favourite of Singaporeans.</div>
 
 “The discovery of a new dish does more for the happiness of man than the discovery of a star.”
 <div style="text-align: right">— Jean Anthelme Brillat-Savarin</div>
