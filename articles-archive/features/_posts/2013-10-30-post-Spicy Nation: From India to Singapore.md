@@ -106,3 +106,45 @@ Roti prata is the most popular and common Indian food in Singapore. Indian migra
 </span>
 
 **Malarvele ilangovan** is a Senior Librarian at the Resource Discovery and Management Division of the National Library Board. She has written three children’s books. Her re¬search article, “Library provision to the Tamil community in Singapore” (co-authored with Dr Susan Higgins), was published in LIBRES in 2003.
+
+#### **REFERENCES**
+
+Association of Dutch Businessmen in Singapore. (2008, July–August). [*ADB newsbrief: A publication of the Association of Dutch Businessmen in Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7404733). (Call no.: RSING 330.95957 ADBN)
+
+An interview with Mr Gunasegaran, 11 January 2013.
+
+*Ananda Bhavan Vegetarian*. (2018). Retrieved from Anandabhavan.com website.
+
+Brinder, N et al. (2004). *The food of India: 84 easy and delicious recipes from the spicy subcontinent*. Singapore: Periplus Editions. (Not available in NLB holdings)
+
+Chapman, P. (2007). *India food & cooking: The ultimate book on Indian cuisine*. London: New Holland. (Not available in NLB holdings)
+
+Cheung, T. (2017, July 12). *Your pick: World’s 50 best foods*. Retrieved from travel.cnn.com website.
+
+Daley, S., & Hirani, R. (2008). *Cooking with my Indian mother-in-law*. London: Pavilion. (Not available in NLB holdings)
+
+Dalmia, V., & Sadana, R. (Eds.). (2012). [*The Cambridge companion to modern Indian culture*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14490200). Cambridge, New York: Cambridge University Press. (Call no.: 954.05 CAM)
+
+*History of Indian Food*. (n.d.) Retrieved from Haldiram website. 
+
+Hutton, W. (2007). [*Singapore food*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12775975). Singapore: Marshall Cavendish Cuisine. (Call no.: RSING 641.5955957 HUT)
+
+*Indian cookery: Piquant, spicy & aromatic*. (2007). Cologne: Naumann & Gobel. (Not available in NLB holdings)
+
+Joshi, A., & Roberts, A. (2006). Regional Indian cooking. North Clarendon, VT: Periplus. (Not available in NLB holdings)
+Kenihan, K. (2004). Indian food. Brunswick, Vic.: R & R Publications. (Not available in NLB holdings)
+Kew Royal Botanic Gardens. Plant cultures: Curry leaf. Retrieved from Kew.org website. 
+Malhi, M. (2011). Classic Indian recipes: 75 signature dishes. London: Hamlyn. (Not available in NLB holdings)
+Narula, B. et al. (2004). Authentic recipes from India. Singapore: Periplus Editions. (Not available in NLB holdings)
+National Library Board. (2016). Mee Goreng written by Tan, Bonny. Retrieved from Singapore Infopedia website
+Panickar, G. (2013, July 19). Prata paradise. Tabla, p. 14. Retrieved from Tabla website. 
+Sanmugam, D., & Shanmugam, K. (2011). Indian heritage cooking. Singapore: Marshall Cavendish Cuisine. (Call no.: RSING 641.595957 DEV)
+Siddique, S., & Shotum, N. (1990). Singapore’s little India: Past, present, and future. Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 305.89141105957 SID)
+Sur, C. (2003). Continental Cuisine for the Indian palate. New Delhi: Lustre Press/Roli; Lancaster: Gazelle. (Not available in NLB holdings)
+Tan, B. (2013). Ask the foodie kitchen knowhow explained. Singapore: Straits Times Press. (Call no.: RSING 641.5 TAN)
+Tay, L. (2012). Only the best!: The ieat, ishoot, ipost guide to Singapore’s shiokiest hawker food. Singapore: Epigram Books. (Call no.: RSING 641.595957 TAY)
+Tay, L. (2012, March 5). Islamic Restaurant: The granddaddy of Briyanis! Retrieved from ieatishootipost website.
+‘The Straits Times’ annual 1974 (p. 86). Retrieved from Roots website. 
+Wickramasingher, P., & Selva Rajah, C. (2002). The food of India. London: Murdoch Books. (Not available in NLB holdings)
+Wong, D., & Wibisono, D. (2001). The food of Singapore: Authentic recipes from the Manhattan of the East. Singapore: Periplus Editions. (Call no.: RSING 641.595957 WON)
+
