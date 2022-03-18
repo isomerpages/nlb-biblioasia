@@ -35,6 +35,7 @@ A new building replaced the dilapidated structure at the same site in 1833. Desi
 English traveller Annie Brassey[^11]  visited the market in 1877 and was impressed by what she saw. “The fish market is the cleanest, and best arranged, and sweetest smelling that I ever went through,” she wrote. “The poultry market is a curious place. On account of the intense heat everything is brought alive to the market, and the quacking, cackling, gobbling and crowing that go on are really marvelous,” said Brassey.[^12]
 
 Due to a land reclamation project, the market was demolished in 1879 and the market stalls relocated to newly reclaimed land at Collyer Quay. A new market – which retained the octagonal shape of the original market – was designed by Municipal Engineer James MacRitchie and completed in 1894. Operating for almost 80 years, it ceased to function as a wet market in 1972, following the area’s transformation into a commercial and financial district, and was gazetted as a national monument in 1973. Officially renamed Lau Pa Sat (Old Market) in 1989, the food centre is today a popular haunt for tourists as well as office workers in the Central Business District.[^13]
+
 By the end of the 19th century, the Municipal Commission had established four other markets: Ellenborough Market built in 1845, Clyde Terrace Market and Rochor Market established in the 1870s, and Orchard Road Market in 1891.[^14]
 
 #### ***Ellenborough Market***
