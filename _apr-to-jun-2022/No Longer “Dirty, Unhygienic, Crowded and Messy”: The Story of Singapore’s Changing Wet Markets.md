@@ -46,7 +46,7 @@ Ellenborough Market was located between Ellenborough Street and Fish Street (bot
 <div style="background-color: white;">Ellenborough Market, c. 1910. A fire gutted the market on 30 January 1968. Housing and Development Board flats, a market and a hawker centre were constructed at the site in the early 1970s. <i>Courtesy of National Archives of Singapore.</i></div>
 
 
-#### **Clyde Terrace Market**
+#### ***Clyde Terrace Market***
 
 Clyde Terrace Market, also known as Pasar Besi and Ti-Pa-Sat (铁巴刹), meaning “Iron Market” in Malay and Hokkien respectively, was well known for its structure that was mostly constructed of iron. The market was initially a cluster of tiled sheds at Campong (Kampong) Glam Beach. In August 1871, the sheds were described in the press as “not only disgraceful in their outward appearance, but their internal condition is anything but inviting, and it is next to impossible to keep them clean”.[^16] 
 
