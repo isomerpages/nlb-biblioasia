@@ -122,7 +122,8 @@ Unfortunately, they could never hope to purchase the other two parcels because t
 The lease signed in 1887 was renewed periodically. Significantly, the hotel was able to secure a generous 70-year lease on good terms from the Alsagoff estate effective from 1 January 1926. Thus, when the new company of Raffles Hotel Limited was formed in 1933, the remainder of this long lease was its most important asset. 
 <br><br>
 It must be noted that Syed Mohamed was an outstanding landlord. He funded most of the early building projects and it is his name that appears on most of the original Raffles Hotel building plans that survive in the National Archives, Singapore.</span>
-<i>This article was adapted from the book</i> Raffles Hotel <i>by Gretchen Liu, Editions Didier Millet, Singapore, 2006.</i>
+<div style="background-color: white;">
+<i>This article was adapted from the book</i> Raffles Hotel <i>by Gretchen Liu, Editions Didier Millet, Singapore, 2006.</i></div>
 
 <p style="font-size:15px;"><b>Gretchen Liu</b> is a former journalist and book editor as well as the author of several illustrated books, including <i>Pastel Portraits: Singapore’s Architectural Heritage</i> and <i>Singapore: A Pictorial History</i>. As the former curator of the Raffles Hotel Collection, she oversaw all of the heritage projects during the hotel’s 1989–1992 restoration and for some years after that.</p>
 
