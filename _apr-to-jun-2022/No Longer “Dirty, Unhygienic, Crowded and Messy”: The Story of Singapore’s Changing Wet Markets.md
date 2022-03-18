@@ -217,7 +217,7 @@ It remains to be seen what will happen to the wet market in the future. Will it 
 
 [^37]: “[Wet Markets End Poultry Slaughtering](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19930228-1.2.25.19),” *Straits Times*, 28 February 1993, 21. (From NewspaperSG) 
 
-[^38]: Ang Qing, “Sale and Slaughter of Live Turtles, Frogs Banned at Wet Markets in S’pore Due to Health Concerns,” Straits Times, 14 July 2021, https://www.straitstimes.com/singapore/sale-and-slaughter-of-live-turtles-frogs-banned-at-wet-markets-in-spore-due-to-health. 
+[^38]: Ang Qing, “Sale and Slaughter of Live Turtles, Frogs Banned at Wet Markets in S’pore Due to Health Concerns,” *Straits Times*, 14 July 2021, https://www.straitstimes.com/singapore/sale-and-slaughter-of-live-turtles-frogs-banned-at-wet-markets-in-spore-due-to-health. 
 
 [^39]: “[Markets of the Future](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19811020-1.2.2),” *Straits Times*, 20 October 1981, 1. (From NewspaperSG) 
 
