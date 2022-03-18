@@ -7,7 +7,7 @@ description: ""
 ---
 #### From fish head curry to Indian rojak, Indian food in Singapore has evolved over time, drawing influences from the various local cultures, and finding its place in the hearts of Singaporeans.
 
-<img src="/images/vol-9-issue-3/Spicy%20Nation/s1.jpg">
+<img style="width: 650px; height: 400px;" src="/images/vol-9-issue-3/Spicy%20Nation/s1.jpg">
 <div style="background-color: white;">Indian <i>Rojak</i>. Indian cuisine is a hot favourite of Singaporeans.</div>
 
 “The discovery of a new dish does more for the happiness of man than the discovery of a star.”
@@ -39,7 +39,7 @@ The time-honoured food traditions of South India continue till this day and it i
  
 #### Indian sweets
 
-<img src="/images/vol-9-issue-3/Spicy%20Nation/s3.jpg">
+<img style="width: 350px; height: 450px;" src="/images/vol-9-issue-3/Spicy%20Nation/s3.jpg">
 <div style="background-color: white;"><i>Gulab jamun</i> is a popular sweet dessert. <i>Image via iStock.</i></div>
 
 Whether in the north or south, sweets, most of which are highly calorific and contain lashings of sugar and ghee, are traditionally served after meals. *Payasam* (in Tamil) or *kheer* (in Hindi), made of rice or wheat vermicelli, is commonly eaten during festive occasions and weddings. The payasam served at Ambalappuzha Temple (see text box) in Kerala is especially famous among Hindu devotees.[^7] Other traditional Indian sweets include *gulab jamun*, *mysore pak*, *halwa* and *laddoo*. *Gulab jamun* are little balls of milk powder and plain flour deep fried and drenched in sugary syrup, and usually served at North Indian weddings. *Mysore pak* — made of ghee, gram flour and sugar — hails from Mysore, in the southern state of Karnataka. It is often referred to as a royal sweet as it was concocted in the kitchen of Mysore Palace for the king. There are several variations of *halwa* with either semolina, wheat flour, mung bean or carrot as its base while *laddoo* are bright orange ball-shaped confections offered as a *prasad* (gift) to guests at weddings and religious occasions.
@@ -50,8 +50,8 @@ The roots of vegetarianism in India can be traced to religions such as Buddhism,
 
 The South Indians also offer an astonishing variety of vegetarian dishes. Both Karnataka and Tamil Nadu have a "strong vegetarian bent to their cuisine."[^9] In Kerala, during an ancient harvest festival called the Onam festival, as many as 24 vegetarian dishes are served at just one sitting. Indian cooks take great pride in creating exciting vegetarian dishes out of exotic greens like snake gourd, ridge gourd and the pod-like drumstick or *murungaltai* in Tamil, as well as more prosaic leafy vegetables, lentils, dried beans of all kinds, and unripened jackfruit and plantains.
 
-<img src="/images/vol-9-issue-3/Spicy%20Nation/s4.jpg"><br>
-<img src="/images/vol-9-issue-3/Spicy%20Nation/s5.jpg">
+<img style="width: 650px; height: 400px;" src="/images/vol-9-issue-3/Spicy%20Nation/s4.jpg"><br>
+<img style="width: 650px; height: 400px;" src="/images/vol-9-issue-3/Spicy%20Nation/s5.jpg">
 <div style="background-color: white;"> The interior and exterior of Komala Vilas in 1986. The restaurant has since been renovated and has five branches. <i>Courtesy of ISEAS Library, Institute of Southeast Asian Studies, Singapore and Sharon Siddiique.</i></div>
 
 #### Indian Vegetarian Restaurants
@@ -70,7 +70,7 @@ Some of the most renowned Indian restaurants in Singapore are Samy’s Curry, wh
 
 The genesis of fish head curry can be traced to an Indian migrant, Mr M.J. Gomez, who originally came from Kerala. He “began humbly with an eating shop in Mt Sophia which was, back in 1952, a relatively quiet little suburban backwater behind the Cathay cinema. The most famous dish, prepared by Gomez, was fish head curry, a culinary delight reputedly unknown in Singapore before his arrival.”[^12] Mr Gomez used the huge heads of *ikan merah* and grouper in a piping hot and spicy curry dish complemented by chunks of eggplant and lady’s fingers, and flavoured with onions, garlic, ginger, turmeric, chilli and curry leaves. Fish head aficionados know that the tastiest part of the fish head are the fleshy pockets at the side of the head, where the meat is the sweetest and most textured.[^13] 
 
-<img src="/images/vol-9-issue-3/Spicy%20Nation/s6.jpg">
+<img style="width: 650px; height: 400px;" src="/images/vol-9-issue-3/Spicy%20Nation/s6.jpg">
 <div style="background-color: white;">Opened in 1969, Muthu's Curry is renowned for its signature dish, fish head curry. <i>Courtesy of Muthu's Curry.</i></div>
 
 The Gomez eatery eventually closed, but with the opening of Muthu’s Curry in 1969, the fish head curry craze was revived. From a small coffee shop in Klang Road, the restaurant now has three outlets at Race Course Road, Suntec City and Dempsey Road. Today, fish head curry is one of Singapore’s most iconic foods. This single dish from Muthu’s Curry has won numerous accolades such as “Best Local Dish” by the Singapore Tourism Board, “Best Fish Head Curry” by *Makansutra* and “Best Local Food — Fish Head Curry” by *Singapore Tatler* from 2010 to 2013.[^14]
@@ -84,7 +84,7 @@ Indian food is one of the world’s oldest cuisines with a long and rich traditi
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
 	<b>Curry, Curry Leaves and Curry Powder</b>
 <br><br>
-<img src="/images/vol-9-issue-3/Spicy%20Nation/s2.jpg">
+<img style="width: 650px; height: 400px;" src="/images/vol-9-issue-3/Spicy%20Nation/s2.jpg">
 <div style="background-color: white;">An assortment of spices that make up curry powder. <i>Hildgrim, via Flickr.</i></div>
 <br><br>
 Native to India and Sri Lanka, the curry leaf is an important herb in South Indian cooking. This small, fragrant and dark green leaf has a distinctive peppery flavour that adds robustness to any dish. Curry leaves are chopped or used whole and added to hot oil for tempering, and used as garnishes in salads, curries, marinades and soups to improve the taste. As observed by Wendy Hutton in Singapore Food, the Indians say there is “no substitute for these small, dark green leaves from the karuvapillai tree.” The use of curry leaves is even mentioned in early Tamil literature dating back to the 1st to 4th century CE.
@@ -98,7 +98,7 @@ According to Hindu legend, Lord Krishna transformed into an old sage one day and
 </span>
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
 	<b>The Ubiquitous Roti Prata</b><br><br>
-	<img src="/images/vol-9-issue-3/Spicy%20Nation/s7.jpg">
+	<img style="width: 650px; height: 400px;" src="/images/vol-9-issue-3/Spicy%20Nation/s7.jpg">
 Roti prata is now an integraL part of Singapore's cuisine. <i>rpslee, via Flickr.</i><br><br>
 Roti prata is the most popular and common Indian food in Singapore. Indian migrants brought this griddle-toasted flatbread to Singapore and 'by the 1920s, this dish was established throughout the Malayan penin-sula.”[^18] It is thought to have originated from Madras where it is known as parota. Some believe that it originated from Punjab where it is called prontha or parontay. In South India and Bengal, it is called parotta, porotta or barotta, while in Sri Lanka, it is known as kothu parotta. In Mauritius and Maldives, it is called farata and in Myanmar as paLata. Across the causeway in Malaysia, it is known as roti canai. While some believe “canai” refers to 'Chennai”, others say “canai” is derived from the Malay word for the process of kneading and shaping the dough.[^19] 
 		<br><br>
