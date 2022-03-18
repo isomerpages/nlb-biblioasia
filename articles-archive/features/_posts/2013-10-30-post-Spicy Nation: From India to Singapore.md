@@ -178,9 +178,9 @@ Wong, D., & Wibisono, D. (2001). [*The food of Singapore: Authentic recipes from
 [^12]:*‘The Straits Times’ annual 1974*, pp. 88–89. 
 [^13]:National Heritage Board. (2021, October 18). *Fish head curry*. Retrieved from Roots website. 
 [^14]:National Heritage Board, 18 Oct 2021. 
-[^15]:Tay, L. (2012, March 5). Islamic Restaurant: The granddaddy of Briyanis! Retrieved from ieatishootipost website.
-[^16]:Sanmugam, D., & Shanmugam, K. (2011). Indian heritage cooking (p. 36). Singapore: Marshall Cavendish Cuisine. (Call no.: RSING 641.595957 DEV)
-[^17]:Sur, C. (2003). Continental Cuisine for the Indian palate. New Delhi: Lustre Press/Roli; Lancaster: Gazelle. (Not available in NLB holdings)
-[^18]:Panickar, G. (2013, July 19). Prata paradise. Tabla, p. 14. Retrieved from Tabla website.
+[^15]:Tay, L. (2012, March 5). *Islamic Restaurant: The granddaddy of Briyanis!* Retrieved from ieatishootipost website.
+[^16]:Sanmugam, D., & Shanmugam, K. (2011). [*Indian heritage cooking*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13992386) (p. 36). Singapore: Marshall Cavendish Cuisine. (Call no.: RSING 641.595957 DEV)
+[^17]:Sur, C. (2003). *Continental Cuisine for the Indian palate*. New Delhi: Lustre Press/Roli; Lancaster: Gazelle. (Not available in NLB holdings)
+[^18]:Panickar, G. (2013, July 19). Prata paradise. *Tabla*, p. 14. Retrieved from Tabla website.
 [^19]:Panickar, 19 Jul 2013, p. 14. 
-[^20]:Cheung, T. (2017, July 12). Your pick: World’s 50 best foods. Retrieved from travel.cnn.com website.
+[^20]:Cheung, T. (2017, July 12). *Your pick: World’s 50 best foods*. Retrieved from travel.cnn.com website.
