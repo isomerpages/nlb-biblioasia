@@ -108,7 +108,7 @@ I considered those [as] wasteful years [studying architecture in the UK]. Truly 
 <br/><br/>
 <span style="display:block; text-align:right;">From an interview with Lee on 26 June 1985 by Tay Kheng Soon</span>
 <br/><br/>
-<b>PROF BOBBY WONG'S IMPRESSIONS OF LEE KIP LIN</b>
+<b>PROFESSOR BOBBY WONG'S IMPRESSIONS OF LEE KIP LIN</b>
 <br/><br/>
 I was assigned to teach with him ... and he said, “Don’t worry, it’s my first time teaching too”. I asked him, “Oh, where were you practising before that?” And he said, “Team 3.” So I was really thrown off [as] Team 3 at that time was really <i>the</i> firm. There was something very informal [about LKL] and yet at the same time, from what he said, they were fairly insightful. He came across with no airs, nothing. But someone, you know who has so much history, so much background and yet so ordinary.
 <br/><br/>
