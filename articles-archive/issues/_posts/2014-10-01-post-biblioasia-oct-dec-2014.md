@@ -26,7 +26,7 @@ layout: post
 
 [<b>Aw Boon Haw and His Tiger Balm Newspaper Advertisements 1916–1954</b>](/vol-10/issue-3/oct-dec-2014/aw-boon-haw-tiger-balm-ads)<br>Lee Kong Chian Research Fellow <i>Sin Yee Theng</i> examines how Aw Boon Haw advertised Tiger Balm products in Singapore newspapers and attributes Tiger Balm’s success to his unique storytelling skills.[(PDF)](/files/pdf/vol-10/issue-3/v10-issue3_AwBoonHaw.pdf)
 
-[<b>Lee Kip Lin: Kampung Boy Conservateur</b>](/vol-10/issue-3/oct-dec-2014/lee-kip-lin)<br><i>Bonny Tan</i> takes a look into the life of the late Lee Kip Lin, a man who wore many hats as student, educator and mentor – but who is perhaps best remembered for his passion for conserving Singapore’s pre-war architecture in his writings and teaching.[(PDF)](/files/pdf/vol-10/issue-3/v10-issue3_LeeKipLin.pdf)
+[<b>Lee Kip Lin: Kampung Boy Conservateur</b>](/vol-10/issue-3/oct-dec-2014/lee-kip-lin)<br><i>Bonny Tan</i> takes a look into the life of the late Lee Kip Lin, a man who wore many hats – as student, educator and mentor – but who is perhaps best remembered for his passion for conserving Singapore’s pre-war architecture in his writings and teaching.[(PDF)](/files/pdf/vol-10/issue-3/v10-issue3_LeeKipLin.pdf)
 
 [<b>Designed for Use: library@orchard Makes a Comeback</b>](/vol-10/issue-3/oct-dec-2014/singapore-orchard-library)<br>Featuring wall-to-ceiling bookshelves, collaborative spaces and innovative services, <i>Sufyan Alimon</i> and <i>Eunice Ang</i> share more about what the newly reopened and revamped library@orchard has to offer.[(PDF)](/files/pdf/vol-10/issue-3/v10-issue3_LibraryOrchard.pdf)
 
