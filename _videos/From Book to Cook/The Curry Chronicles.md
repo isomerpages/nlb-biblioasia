@@ -16,7 +16,7 @@ Mrs Kinsey's "rundang" recipe from
 (Singapore : Kelly & Walsh, 1929).
 ![](/images/Videos:%20From%20Book%20to%20Cook/Rundang-Mems%20Own%20Cookery%20Book.png)
  
-<a style="text-decoration: none;" href="https://devagisanmugam.com/2022/01/devagis-beef-rendang/" target="_blank"> Chef Devagi Sanmugam's rendang recipe</a> created specially to almost match Mrs Kinsey’s example.
+<a style="text-decoration: none;" href="https://devagisanmugam.com/2022/01/devagis-beef-rendang/" target="_blank"> Chef Devagi Sanmugam's rendang recipe</a> created specially to almost match Mrs Kinsey’s recipe, which calls for beef cut into small sugar cube sizes.
 
 #### **Related Articles**
 <a style="text-decoration: none;" href="/vol-12/issue-2/jul-sep-2016/dontmesswiththecook"> Mem, Don’t Mess with the Cook</a>
