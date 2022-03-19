@@ -4,7 +4,7 @@ permalink: /videos/curry-chronicles
 description: ""
 third_nav_title: From Book to Cook
 ---
-<iframe width="800" height="auto" src="https://www.youtube.com/embed/cyGskg-X-N8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="auto" src="https://www.youtube.com/embed/cyGskg-X-N8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### **Recipes**
 Mrs Kinsey's "Rundang" Recipe from 
