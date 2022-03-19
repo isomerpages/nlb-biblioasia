@@ -14,7 +14,7 @@ Mrs Kinsey's "rundang" recipe from
 (Singapore : Kelly & Walsh, 1929).
 ![](/images/Videos:%20From%20Book%20to%20Cook/Rundang-Mems%20Own%20Cookery%20Book.png)
 
-<img src="/images/Videos:%20From%20Book%20to%20Cook/Rundang-Mems%20Own%20Cookery%20Book.png" width="800" height="auto">
+<img src="/images/Videos:%20From%20Book%20to%20Cook/Rundang-Mems%20Own%20Cookery%20Book.png" width="300" height="auto">
 
 <a style="text-decoration: none;" href="https://devagisanmugam.com/2022/01/devagis-beef-rendang/" target="_blank"> Chef Devagi Sanmugam's rendang rRecipe</a>
 
