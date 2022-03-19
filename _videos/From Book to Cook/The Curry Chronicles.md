@@ -7,9 +7,9 @@ third_nav_title: From Book to Cook
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cyGskg-X-N8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### **Recipes**
-<a style="text-decoration: none; font-weight: bold" href="/vol-12/issue-2/jul-sep-2016/dontmesswiththecook" > Mrs Kinsey's "Rundang" Recipe</a>
+<a style="text-decoration: none;" href="/vol-12/issue-2/jul-sep-2016/dontmesswiththecook" > Mrs Kinsey's "Rundang" Recipe</a>
 
-<a style="text-decoration: none; font-weight: bold" href="https://devagisanmugam.com/2022/01/devagis-beef-rendang/" target="_blank"> Chef Devagi Sanmugam's Rendang Recipe</a>
+<a style="text-decoration: none;" href="https://devagisanmugam.com/2022/01/devagis-beef-rendang/" target="_blank"> Chef Devagi Sanmugam's Rendang Recipe</a>
 
 #### **Related Articles**
 <a style="text-decoration: none; font-weight: bold" href="/vol-12/issue-2/jul-sep-2016/dontmesswiththecook"> Mem, Don’t Mess with the Cook</a>
