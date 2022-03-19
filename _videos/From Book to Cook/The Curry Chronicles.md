@@ -8,7 +8,7 @@ third_nav_title: From Book to Cook
  
 
 #### **Recipes**
-Mrs Kinsey's "Rundang" Recipe from 
+Mrs Kinsey's "rundang" recipe from 
 [*The Mem's Own Cookery Book *
 ](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5232525) 
 (Singapore : Kelly & Walsh, 1929).
@@ -16,7 +16,7 @@ Mrs Kinsey's "Rundang" Recipe from
 
 <img src="/images/Videos:%20From%20Book%20to%20Cook/Rundang-Mems%20Own%20Cookery%20Book.png" width="800" height="auto">
 
-<a style="text-decoration: none;" href="https://devagisanmugam.com/2022/01/devagis-beef-rendang/" target="_blank"> Chef Devagi Sanmugam's Rendang Recipe</a>
+<a style="text-decoration: none;" href="https://devagisanmugam.com/2022/01/devagis-beef-rendang/" target="_blank"> Chef Devagi Sanmugam's rendang rRecipe</a>
 
 #### **Related Articles**
 <a style="text-decoration: none;" href="/vol-12/issue-2/jul-sep-2016/dontmesswiththecook"> Mem, Don’t Mess with the Cook</a>
