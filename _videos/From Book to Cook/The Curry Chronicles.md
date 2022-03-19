@@ -22,14 +22,9 @@ third_nav_title: From Book to Cook
 
 
 #### **Book Recommendations**
-Curry: A Tale of Cooks and Conquerors
-by Elizabeth M. Collingham
-Oxford University Press, 2006
+Devagi Sanmugam, [Indian Heritage Cooking](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13992386) (Singapore: Marshall Cavendish Cuisine, 2011).
 
-Indian Heritage Cooking
-by Devagi Sanmugam
-Marshall Cavendish Cuisine, 2011
+Elizabeth M. Collingham, *[Curry: A Tale of Cooks and Conquerors](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12728802)* (Oxford: Oxford University Press, 2006).
 
-Curried Cultures: Globalization, Food, and South Asia
-by Krishnendu Ray and Tulasi Srinivas
-University of California Press, 2012
+Krishnendu Ray and Tulasi Srinivas, *[Curried Cultures: Globalization, Food, and South Asia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200125930v)*
+(Berkeley: University of California Press, 2012).
