@@ -7,7 +7,11 @@ third_nav_title: From Book to Cook
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cyGskg-X-N8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### **Recipes**
-Mrs Kinsey's "Rundang" Recipe</a>
+Mrs Kinsey's "Rundang" Recipe from 
+[*The Mem's Own Cookery Book *
+](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5232525) 
+(Singapore : Kelly & Walsh, 1929).
+
 ![](/images/Videos:%20From%20Book%20to%20Cook/Rundang%20in%20Mems%20Own%20Cookery%20Book.jpg)
 
 ![](/images/Videos:%20From%20Book%20to%20Cook/Rundang-Mems%20Own%20Cookery%20Book.png)
