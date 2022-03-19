@@ -4,7 +4,8 @@ permalink: /videos/curry-chronicles
 description: ""
 third_nav_title: From Book to Cook
 ---
-<iframe width="100%" height="auto" src="https://www.youtube.com/embed/cyGskg-X-N8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800px" height="500px" src="https://www.youtube.com/embed/cyGskg-X-N8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
 
 #### **Recipes**
 Mrs Kinsey's "Rundang" Recipe from 
@@ -26,7 +27,7 @@ Mrs Kinsey's "Rundang" Recipe from
 
 
 #### **Book Recommendations**
-Devagi Sanmugam, [Indian Heritage Cooking](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13992386) (Singapore: Marshall Cavendish Cuisine, 2011).
+Devagi Sanmugam, [*Indian Heritage Cooking*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13992386) (Singapore: Marshall Cavendish Cuisine, 2011).
 
 Elizabeth M. Collingham, *[Curry: A Tale of Cooks and Conquerors](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12728802)* (Oxford: Oxford University Press, 2006).
 
