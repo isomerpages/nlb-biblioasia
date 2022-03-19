@@ -10,6 +10,9 @@ third_nav_title: From Book to Cook
 <a style="text-decoration: none;" href="/vol-12/issue-2/jul-sep-2016/dontmesswiththecook" > Mrs Kinsey's "Rundang" Recipe</a>
 ![](/images/Videos:%20From%20Book%20to%20Cook/Rundang%20in%20Mems%20Own%20Cookery%20Book.jpg)
 
+ <img src="/images/Videos:%20From%20Book%20to%20Cook/Rundang%20in%20Mems%20Own%20Cookery%20Book.jpg" style="width:500px;"> 
+<hr>
+
 <a style="text-decoration: none;" href="https://devagisanmugam.com/2022/01/devagis-beef-rendang/" target="_blank"> Chef Devagi Sanmugam's Rendang Recipe</a>
 
 #### **Related Articles**
