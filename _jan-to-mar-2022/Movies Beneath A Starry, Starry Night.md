@@ -6,7 +6,6 @@ description: The Jurong Drive-in was Singapore’s one and only drive-in cinema.
   Sharon Teng tracks its rise and subsequent decline.
 image: /images/vol-17-issue-4/movies-beneath/Jurong_Drive-in_bg.png
 ---
-
 #### The Jurong Drive-in was Singapore’s one and only drive-in cinema. In its heyday in the 1970s, it was packed bumper to bumper with vehicles. **Sharon Teng** tracks its rise and subsequent decline.
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/movies-beneath/Jurong_Drive-in_bg.png)
