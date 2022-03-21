@@ -52,7 +52,7 @@ Through their familiarity with Malay cooking techniques and Southeast Asian ingr
 The Peranakan Chinese version, known as *nonya* dumpling, uses candied wintermelon in the filling, hence its colloquial name *puah kiam ti chang*, which means “sweet and salty dumpling” in Hokkien. Believed to have “a cooling effect”, wintermelon is commonly used in traditional Chinese desserts. Coriander powder and aniseed powder – spices used in Malay cooking – are used to flavour the braised pork filling.
 
 ![](/images/Vol%2018%20Issue%201/Chinese%20Food/dumplings.png)
-<div style="background-color: white;"> <i>Nonya</i> dumplings, which are different from Chinese dumplings, use candied wintermelon in the filling, the local blue pea flower as a colouring and pandan leaves to encase the rice. <i>From Shutterstock.</i></div>
+<div style="background-color: white;"> <i>Nonya</i> dumplings, which are different from Chinese dumplings, use candied wintermelon in the filling, the local blue pea flower as a colouring and *pandan* leaves to encase the rice. <i>From Shutterstock.</i></div>
 
 Another example of Malay influence in the dumpling is the extraction of the juice from the petals of the local butterfly pea flower (*bunga telang*) to colour the rice, a technique borrowed from Malay *kueh*-making. *Nonya* dumplings also use *pandan* leaves to encase the rice. Apart from adding fragrance, *pandan* leaves are also more easily available in Southeast Asia compared to bamboo leaves which are traditionally used for wrapping dumplings in China.
 
