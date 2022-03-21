@@ -112,7 +112,7 @@ Tan’s notebooks and will, as well as the receipt book for the rental of the Ma
 
 [^8]: “[The New Alhambra](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19160113-1.2.28),” *Malaya Tribune*, 13 January 1916, 9. (From NewspaperSG); Alan Chong, ed. [*Great Peranakans: Fifty Remarkable Lives.*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201273828) (Singapore: Asian Civilisations Museum, 2015), 146. (From National Library, Singapore, Call no. RSING 305.895105957 GRE)
 
-[^9]: “The New Alhambra.”
+[^9]: “[The New Alhambra](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19160113-1.2.28).”
 
 [^10]: Chandy, “[The Pioneer Cinemas](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19790319-1.2.48)”; Lim, Kay Tong, [*Cathay: 55 Years of Cinema*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=6095688) (Singapore: Landmark Books, 1991), 72. (From National Library, Singapore, Call no. RSING 791.43095957 LIM)
 
