@@ -82,7 +82,7 @@ The Alhambra was subsequently acquired by Cathay Organisation and opened on 5 Fe
 Shaw Towers was built on the land where the Alhambra and the Marlborough once stood. Shaw Towers itself had two cinemas: Prince and Jade. However, Shaw Towers is now being torn down as well, to be replaced by a 35-storey integrated development with offices, retail and food and beverage offerings. It is not known whether there will be a cinema or cineplex in the new development.
 
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">
-Tan’s notebooks and will, as well as the receipt book for the rental of the Marlborough and Alhambra theatres (1 March 1935–3 August 1939), were donated to the National Library, Singapore, and are found in the Rare Materials Collection. For information on accessing titles in the Rare Materials Collection, visit https://www.nlb.gov.sg/research/rarecollections.aspx.
+Tan’s notebooks and will, as well as the receipt book for the rental of the Marlborough and Alhambra theatres (1 March 1935–3 August 1939), were donated to the National Library, Singapore, and are found in the Rare Materials Collection. For information on accessing titles in the Rare Materials Collection, visit <a href="https://www.nlb.gov.sg/research/rarecollections.aspx">https://www.nlb.gov.sg/research/rarecollections.aspx</a>.
 <br>
 </div>
 
