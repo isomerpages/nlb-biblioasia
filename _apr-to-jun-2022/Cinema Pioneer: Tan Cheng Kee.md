@@ -35,13 +35,13 @@ Tan was an ambitious man and in 1918, he acquired one of the Alhambra’s main r
 
 Tan believed in upgrading his cinemas. In 1918, the *Singapore Free Press and Mercantile Advertiser* reported that the Marlborough had been renamed the New Marlborough and “was recently rebuilt and transformed into a substantial and commodious picture palace with up to date electric fans and lighting, fitted with comfortable sitting to suit all classes of patrons”.[^15]
 
-In order to accommodate “talkies” (films with sound), which were replacing silent films, Tan reportedly spent $100,000 on alterations and renovations on the Alhambra in 1930. These included insulation on the main ceiling and under the balcony, new upholstered arm seats and an increase in capacity from 800 to 1,200. Tan also announced that the Alhambra had secured screening rights from four well-known movie companies – Goldwyn-Mayer, United Artists, Fox Film Corporation and Warner Brothers – for their “sound-film productions”, and that the cinema would reopen with a “talkie” screened every night, including Sundays. In November 1930, the management of the Alhambra announced a $250,000-agreement with Fox for its productions to be shown at the Alhambra from 1931–32.[^16]
-
-The Marlborough was also upgraded. In April 1930, the *Malaya Tribune* reported that the cinema hall had been rewired, the seating capacity increased from 550 to 682 and the operating room “enlarged to take in two machines, which are absolutely necessary in the case of the talkie performances, so as to ensure uninterrupted projection”.[^17]
-
 ![](/images/Vol%2018%20Issue%201/Tan%20Cheng%20Kee/marlborough-ad.png)
 <div style="background-color: white;"> Shows screened at the Marlborough in August 1909, before the introduction of “talkies” (films with sound). <i>Image reproduced from “Page 8 Advertisements Column 3,” Straits Times, 17 August 1909, 8. (From NewspaperSG).
 </i></div>
+
+In order to accommodate “talkies” (films with sound), which were replacing silent films, Tan reportedly spent $100,000 on alterations and renovations on the Alhambra in 1930. These included insulation on the main ceiling and under the balcony, new upholstered arm seats and an increase in capacity from 800 to 1,200. Tan also announced that the Alhambra had secured screening rights from four well-known movie companies – Goldwyn-Mayer, United Artists, Fox Film Corporation and Warner Brothers – for their “sound-film productions”, and that the cinema would reopen with a “talkie” screened every night, including Sundays. In November 1930, the management of the Alhambra announced a $250,000-agreement with Fox for its productions to be shown at the Alhambra from 1931–32.[^16]
+
+The Marlborough was also upgraded. In April 1930, the *Malaya Tribune* reported that the cinema hall had been rewired, the seating capacity increased from 550 to 682 and the operating room “enlarged to take in two machines, which are absolutely necessary in the case of the talkie performances, so as to ensure uninterrupted projection”.[^17]
 
 Tan’s management of the Alhambra came to an end when he leased out the cinema to the Shaw Brothers – which operated 60 cinemas and four amusement parks in Malaya at the time. This took effect from 1 April 1938, about a year before his death at the age of 64.
 
