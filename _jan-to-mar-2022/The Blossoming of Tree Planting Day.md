@@ -138,7 +138,7 @@ Beyond planting more trees, the OneMillionTrees Movement is about, as Minister f
 
 [^12]: “[Keep Eye on World Scene Too, Says Lee](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19711213-1.2.96.aspx),” _Straits Times_, 13 December 1971, 16. (From NewspaperSG)
 
-[^13]: Timothy Auger, [_Living in a Garden: The Greening of Singapore_](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200132926) (Singapore: Editions Didier Millet, 2013), 27. (From National Library, Singapore, Call no. RSING 363.68095957 AUG
+[^13]: Timothy Auger, [_Living in a Garden: The Greening of Singapore_](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200132926) (Singapore: Editions Didier Millet, 2013), 27. (From National Library, Singapore, Call no. RSING 363.68095957 AUG)
 
 [^14]: Evangeline Gamboa, “[PM Planted It 11 Years Ago…](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19831106-1.2.41.aspx),” _Straits Times_, 6 November 1983, 12; “[Lee to ‘Spade In’ Tree Planting Day](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19751109-1.2.24),” _Straits Times_, 9 November 1975, 5; “[Mr Lee Sets Example on Tree Planting Day](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19771107-1.2.75),” _Straits Times_, 7 November 1977, 15; “[PM Launches Tree Planting Day](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19781106-1.2.9),” _Straits Times_, 6 November 1978, 1; “[People and VIPs Dig in on Tree Planting Day](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19791105-1.2.45),” _Straits Times_, 5 November 1979, 10. (From NewspaperSG)
 
