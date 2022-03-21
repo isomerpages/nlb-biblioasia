@@ -162,7 +162,7 @@ Beyond planting more trees, the OneMillionTrees Movement is about, as Minister f
 
 [^24]: Lim Yan Liang, “[Recycling, Energy-Saving to Figure in Green Plan](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20141102-1.2.7.4),” _Straits Times_, 2 November 2014, 4. (From NewspaperSG)
 
-[^25]: Lee Hsien Loong, “Good to Meet Up with My Fellow AMK Grassroots Advisors. Let Us All Continue in Our Efforts to Make Singapore a City in Nature!,” 1 November 2020, Facebook, https://www.facebook.com/leehsienloong/photos/a.3773908769338468/
+[^25]: Lee Hsien Loong, “Good to Meet Up with My Fellow AMK Grassroots Advisors. Let Us All Continue in Our Efforts to Make Singapore a City in Nature!,” 1 November 2020, Facebook, https://www.facebook.com/leehsienloong.
 
 [^26]: Justin Ong, “PM Lee Plants Same Type of Tree on Annual Tree Planting Day as Father Did in 1963,” _The Straits Times_, 20 November 2021, https://www.straitstimes.com/singapore/community/pm-lee-plants-symbolic-cherry-blossom-like-tree-as-ang-mo-kio-steps-up-green
 
