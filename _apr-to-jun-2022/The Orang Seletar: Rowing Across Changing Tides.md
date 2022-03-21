@@ -12,17 +12,14 @@ description: ""
 
 Back in the 1980s and 90s, when Atie was a young girl swimming in the waters surrounding Seletar Island, the Orang Seletar travelled freely on their boats across the Tebrau Strait[^2] between Malaysia and Singapore. Today, more than 20 years later, Atie, together with some of her fellow Orang Seletar, were visiting Singapore again. Not by boat this time though. They were here as tourists, having travelled by land across the Causeway from their village of Kampung Sungai Temon in Johor Bahru, passing through both countries’ immigration checkpoints. My team member Chan Kah Mei and I played host. 
 
-![](/images/Vol%2018%20Issue%201/Orang%20Seletar/NAS%2019980005041%20IMG0105wm2022.png)
-<div style="background-color: white;"> Orang Seletar children in their <i>pau kajang</i> at Seletar Island, 1950s. <i>Dr Ivan Polunin Collection, courtesy of National Archives of Singapore.</i></div>
-
 This one-day tour[^3] in October 2019 around parts of Singapore – where they once lived – was the least we could do for them given the incredible hospitality they had shown us since we embarked on our research project in 2018 with another team member, Ruslina Affandi. We had set out to collect oral history interviews from the Orang Seletar, and were able to do so thanks to their time and generosity in sharing their stories.
 
 #### **Who Are the Orang Seletar?**
 
 A nomadic sea people, the Orang Seletar[^4] have for centuries called the Tebrau Strait (Johor Strait) their home as they roamed along the mangroves, shores and rivers in the northern part of Singapore and on the southern side of peninsular Malaysia. They relied heavily on their multifunctional *pau kajang* – a wooden boat that typically houses a family of up to six people. Besides serving as a mode of transportation, the vessel was also their home – a place where they slept, cooked and played. 
 
-![](/images/Vol%2018%20Issue%201/Orang%20Seletar/orangseletaronboat.png)
-<div style="background-color: white;"> The Orang Seletar in their <i>pau kajang</i>, 1950s. Third from the left is Tok Batin Buruk. <i>Dr Ivan Polunin Collection, courtesy of National Archives of Singapore.</i></div>
+![](/images/Vol%2018%20Issue%201/Orang%20Seletar/NAS%2019980005041%20IMG0105wm2022.png)
+<div style="background-color: white;"> Orang Seletar children in their <i>pau kajang</i> at Seletar Island, 1950s. <i>Dr Ivan Polunin Collection, courtesy of National Archives of Singapore.</i></div>
 
 Each *pau kajang* had a thatched roof made of *mengkuang* (screw pine), or *pandan* leaves, that shielded its inhabitants from the relentless tropical sun and heavy rains.[^5]The distinct way the leaves were woven identified the Orang Seletar from other Orang Laut communities living around Singapore, such as the Orang Gelam who occupied the Singapore River, the Orang Kallang who situated themselves at the Kallang River, and the Orang Selat who travelled around the Southern Islands.
 
@@ -65,6 +62,9 @@ We made our way to the boardwalk leading out to the reservoir. While walking, I 
 “This is Tok Batin Buruk,”[^10] Jefree bin Salim said as he pointed to a black-and-white photo on the panel. Jefree had a camera in his hand, as he usually does. Having taught himself photography, Jefree has since been visually documenting the Orang Seletar community across the nine villages in Johor Bahru. A son of the headman of Kampung Sungai Temon, Jefree, who is in his early 40s, is active in advocating for the rights of his people and has contributed his images to court cases against commercial developers looking to gain control over the land that his village sits on.
 
 Taken at Seletar Island in the 1950s by Ivan Polunin, the photo depicts some Orang Seletar sitting atop their *pau kajang*. In the middle of the photo is Tok Batin Buruk, Jefree’s granduncle, who was the headman at the time. We were told that Tok Batin Buruk was a spiritually powerful man. 
+
+![](/images/Vol%2018%20Issue%201/Orang%20Seletar/orangseletaronboat.png)
+<div style="background-color: white;"> The Orang Seletar in their <i>pau kajang</i>, 1950s. Third from the left is Tok Batin Buruk. <i>Dr Ivan Polunin Collection, courtesy of National Archives of Singapore.</i></div>
 
 Jefree’s mother, Letih, told us that Tok Batin Buruk once used his spiritual prowess, along with a handkerchief, to help the then sultan of Johor court the Princess of Kelantan. This story reflects the close patron-client relationship between the Orang Seletar and the sultan in the past. Before World War II, they worked for the sultan, who paid them to catch crabs and fishes. They also often received invitations to the palace and accompanied the sultan on his hunting trips. 
 
