@@ -2,7 +2,8 @@
 title: "Wong Din Haan: A Pioneer Educator"
 permalink: /vol-17/issue-4/jan-to-mar-2022/wong-din-haan
 image: /images/vol-17-issue-4/Wong-Din-Haan/Cover-WongDinHaan-R.jpg
-description: Wong Din Haan, who founded a girls’ school in Singapore, was also a champion for women’s rights.
+description: Wong Din Haan, who founded a girls’ school in Singapore, was also a
+  champion for women’s rights.
 ---
 #### Wong Din Haan, who founded a girls’ school in Singapore, was also a champion for women’s rights. **Patricia Lim** tells us more.
 
@@ -141,7 +142,7 @@ However, my grandaunt had been so modest and retiring that even her grandchildre
 
 [^12]: 招观海 [Zhao Guan Hai], _天南游记_ [_Travel Beneath the Southern Skies_] (n.p.: n.p.,1933), 68–70. (Not available in NLB holdings) 
 
-[^13]: 柯木林 [Ke Mulin; Kua Bak Lim], ed., [_新加坡华人通史_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202251084) [_A General History of the Chinese in Singapore_]. (Singapore: Singapore Federation of Chinese Clan Associations, 2015), p.341. (From National Library, Singapore, Call no. Chinese RSING 959.57004951 GEN-[HI)
+[^13]: 柯木林 [Ke Mulin; Kua Bak Lim], ed., [_新加坡华人通史_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202251084) [_A General History of the Chinese in Singapore_]. (Singapore: Singapore Federation of Chinese Clan Associations, 2015), 341. (From National Library, Singapore, Call no. Chinese RSING 959.57004951 GEN-[HI)
 
 [^14]: "[佛教訪問…](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19400422-1.2.57.1)" [“A Buddhist Interview…”], 南洋商报 [_Nanyang Siang Pau_], 22 April 1940, 7. (From NewspaperSG) 
 
