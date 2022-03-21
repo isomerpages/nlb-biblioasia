@@ -27,7 +27,7 @@ Mrs Kinsey's "rundang" recipe from
 
 
 #### **Book Recommendations**
-Devagi Sanmugam, [*Indian Heritage Cooking*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13992386) (Singapore: Marshall Cavendish Cuisine, 2011).
+Devagi Sanmugam, *[Indian Heritage Cooking](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13992386)* (Singapore: Marshall Cavendish Cuisine, 2011).
 
 Elizabeth M. Collingham, *[Curry: A Tale of Cooks and Conquerors](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12728802)* (Oxford: Oxford University Press, 2006).
 
