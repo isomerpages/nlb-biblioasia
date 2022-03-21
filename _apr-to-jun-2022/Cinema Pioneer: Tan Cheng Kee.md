@@ -24,9 +24,6 @@ Tan subsequently had the Alhambra rebuilt. In February 1914, he told the *Malaya
 
 The newspaper reported that the Alhambra combined Eastern and Western architectural elements. “Though the two do not blend into a happy ensemble yet has this style been chosen with a view to make interior arrangements airy, and in this the architects have succeeded admirably,” the newspaper wrote. It added approvingly that on entering the place, “every modern convenience will be found, including a ladies’ cloak-room, a private telephone cabinet with writing tables, shaded lamp and chair, refreshment room and last, but not least, a spacious drawing-room”. The presumably more expensive seats were in 12 boxes in two tiers upstairs. The boxes – each “holding six comfortable carved teak chairs” – “allow a view of all present”. On the ground floor were brown wooden chairs, “each fitted with a hat rack [and] arranged [to] offer comfortable seating capacity”. There were also fans on the walls.[^9]
 
-![](/images/Vol%2018%20Issue%201/Tan%20Cheng%20Kee/alhambra-talkie-ad.png)
-<div style="background-color: white;"> The Alhambra was the first cinema in Singapore to screen “talkies”, or films with sound. The first talkie was <i>The Rainbow Man</i>. The public was lured by the promise of “the most perfect of all sound reproduction”. <i>Image reproduced from “Page 6 Advertisements Column 2,” Malaya Tribune, 5 November 1929, 6. (From NewspaperSG).</i></div>
-
 This picture house by the sea boasted a gigantic cinema hall that could seat about 3,500 and a tea garden with a live orchestra to entertain before the start of the show. Cinema manager Chia Soo Ann was full of praise for the orchestra and its conductor: “Many times we were mesmerised by his swinging and swishing baton as he led his musicians through the scenes.”[^10]
 
 The Alhambra’s location right next to the beach gave the theatre its nickname “Hai Kee” which means “by the sea” in Hokkien. In his book, *Rickshaw Reporter*, George L. Peet recalled that while at the Alhambra, “we could hear the junks swaying and creaking with the tide as we watched the screen, for the windows at the back of the dress circle upstairs (where the European patrons always sat) were open to the harbour outside”.[^11]
@@ -40,6 +37,9 @@ Tan believed in upgrading his cinemas. In 1918, the *Singapore Free Press and Me
 </i></div>
 
 In order to accommodate “talkies” (films with sound), which were replacing silent films, Tan reportedly spent $100,000 on alterations and renovations on the Alhambra in 1930. These included insulation on the main ceiling and under the balcony, new upholstered arm seats and an increase in capacity from 800 to 1,200. Tan also announced that the Alhambra had secured screening rights from four well-known movie companies – Goldwyn-Mayer, United Artists, Fox Film Corporation and Warner Brothers – for their “sound-film productions”, and that the cinema would reopen with a “talkie” screened every night, including Sundays. In November 1930, the management of the Alhambra announced a $250,000-agreement with Fox for its productions to be shown at the Alhambra from 1931–32.[^16]
+
+![](/images/Vol%2018%20Issue%201/Tan%20Cheng%20Kee/alhambra-talkie-ad.png)
+<div style="background-color: white;"> The Alhambra was the first cinema in Singapore to screen “talkies”, or films with sound. The first talkie was <i>The Rainbow Man</i>. The public was lured by the promise of “the most perfect of all sound reproduction”. <i>Image reproduced from “Page 6 Advertisements Column 2,” Malaya Tribune, 5 November 1929, 6. (From NewspaperSG).</i></div>
 
 The Marlborough was also upgraded. In April 1930, the *Malaya Tribune* reported that the cinema hall had been rewired, the seating capacity increased from 550 to 682 and the operating room “enlarged to take in two machines, which are absolutely necessary in the case of the talkie performances, so as to ensure uninterrupted projection”.[^17]
 
