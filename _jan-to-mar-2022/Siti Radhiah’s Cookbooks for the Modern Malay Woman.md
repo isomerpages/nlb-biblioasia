@@ -205,7 +205,7 @@ In the later stage of her life, Siti Radhiah, true to her spirit of helping and 
 
 [^35]: “[Halaman 5 Iklan Ruangan 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19611205-1.2.62.1).”
 
-[^36]: “[Halaman 10 Iklan Ruangan 4](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19691101-1.2.96.4),” *Berita Harian*, 1 November 1969, (From NewspaperSG).
+[^36]: “[Halaman 10 Iklan Ruangan 4](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19691101-1.2.96.4),” *Berita Harian*, 1 November 1969, 10. (From NewspaperSG).
 
 [^37]: Siti Haida Harun, [*Aneka Selera: Kuih-kuih dan Lauk-pauk Pilihan Selera*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200066618) (Singapore: Malaysia Press, 1965). (From National Library, Singapore, via PublicationSG)
 
