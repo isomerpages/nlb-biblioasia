@@ -59,7 +59,7 @@ Preparations for a new market began in 1872 when iron pillars and other building
 
 Rochor Market, built in 1872, was a popular landmark in the Sungei Road district. The market served the surrounding community for more than a century before it was demolished in August 1982.[^19] Little is known about this market and an open-air carpark occupies the site today. 
 
-![](/images/Vol%2018%20Issue%201/Wet%20Market/19980005879%20IMG0002.png)
+![](/images/Vol%2018%20Issue%201/Wet%20Market/rochor.png)
 <div style="background-color: white;">Rochor Market, 1930s. An open-air carpark sits on the site today. <i>Lim Kheng Chye Collection, courtesy of National Archives of Singapore.</i></div>
 
 #### ***Orchard Road Market***
