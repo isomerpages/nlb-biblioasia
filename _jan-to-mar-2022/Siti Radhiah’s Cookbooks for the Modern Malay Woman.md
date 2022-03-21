@@ -211,4 +211,4 @@ In the later stage of her life, Siti Radhiah, true to her spirit of helping and 
 
 [^38]: Siti Haida Harun, [*Aneka Selera*](https://eresources.nlb.gov.sg/printheritage/detail/4dfb78b1-b21b-48af-901b-ebc0fefbe87e.aspx), [n.p.]. [Note: English translation by author.]
 
-[^39]: “[Anumerta Kenang Jasa Harun](/https:/eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19950717-1.2.11.3),” *Berita Harian*, 17 July 1995, 3. (From NewspaperSG)
+[^39]: “[Anumerta Kenang Jasa Harun](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19950717-1.2.11.3),” *Berita Harian*, 17 July 1995, 3. (From NewspaperSG)
