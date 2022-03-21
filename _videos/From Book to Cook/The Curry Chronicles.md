@@ -5,7 +5,8 @@ description: ""
 third_nav_title: From Book to Cook
 ---
 #### **Episode summary** ####
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+Before curry powder was commonly sold in packets, it was ground in spice grinding mills or hand-ground at home. Chef Devagi Sanmugam tells us the story of curry in Singapore and demonstrates a rendang recipe from 1920, cooked with curry powder and eaten with spaghetti!
+
 
 <style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/7u8uNHRJ1HM' frameborder='0' allowfullscreen></iframe></div>
   
