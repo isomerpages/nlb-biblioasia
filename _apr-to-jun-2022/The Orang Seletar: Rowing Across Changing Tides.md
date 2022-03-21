@@ -22,7 +22,7 @@ This one-day tour[^3] in October 2019 around parts of Singapore – where they o
 A nomadic sea people, the Orang Seletar[^4] have for centuries called the Tebrau Strait (Johor Strait) their home as they roamed along the mangroves, shores and rivers in the northern part of Singapore and on the southern side of peninsular Malaysia. They relied heavily on their multifunctional *pau kajang* – a wooden boat that typically houses a family of up to six people. Besides serving as a mode of transportation, the vessel was also their home – a place where they slept, cooked and played. 
 
 ![](/images/Vol%2018%20Issue%201/Orang%20Seletar/orangseletaronboat.png)
-<div style="background-color: white;"> The Orang Seletar in their *pau kajang*, 1950s. Third from the left is Tok Batin Buruk. <i>Dr Ivan Polunin Collection, courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;"> The Orang Seletar in their <i>pau kajang</i>, 1950s. Third from the left is Tok Batin Buruk. <i>Dr Ivan Polunin Collection, courtesy of National Archives of Singapore.</i></div>
 
 Each *pau kajang* had a thatched roof made of *mengkuang* (screw pine), or *pandan* leaves, that shielded its inhabitants from the relentless tropical sun and heavy rains.[^5]The distinct way the leaves were woven identified the Orang Seletar from other Orang Laut communities living around Singapore, such as the Orang Gelam who occupied the Singapore River, the Orang Kallang who situated themselves at the Kallang River, and the Orang Selat who travelled around the Southern Islands.
 
