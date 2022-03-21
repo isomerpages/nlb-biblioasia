@@ -98,7 +98,7 @@ Tan’s notebooks and will, as well as the receipt book for the rental of the Ma
 
 [^1]: Gloria Chandy, “[The Pioneer Cinemas](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19790319-1.2.48),” *New Nation*, 19 March 1979, 9. (From NewspaperSG)
 
-[^2]: “[Remembering Garrick](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900513-1.2.48.40).” *Straits Times*, 13 May 1990, 26. (From NewspaperSG)
+[^2]: “[Remembering Garrick](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900513-1.2.48.40),” *Straits Times*, 13 May 1990, 26. (From NewspaperSG)
 
 [^3]: Song Ong Siang, [*One Hundred Years’ History of the Chinese in Singapore*](https://eresources.nlb.gov.sg/printheritage/detail/f8082431-1c7b-460e-b59c-bbc5793035a3.aspx) (London: John Murray, 1923), 222. (From BookSG); “[The Late Mr. Tan Keong Saik](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19091006-1.2.66),” *Straits Times*, 6 October 1909, 7; “[Death of Mr. Tan Cheng Kee](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19390912-1.2.28),” *Malaya Tribune*, 12 September 1939, 2. (From NewspaperSG)
 
