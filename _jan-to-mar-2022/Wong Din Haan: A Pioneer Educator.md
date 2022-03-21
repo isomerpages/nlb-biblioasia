@@ -148,7 +148,7 @@ However, my grandaunt had been so modest and retiring that even her grandchildre
 
 [^15]: "[總商會籌賑會婦女部召開第一次會議議决全部分爲十二組並選出各組正副主任](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19320222-1.2.11.2)" [“Women’s Wing of the Chinese Chamber of Commerce, at its First Meeting, Splits into 12 Committees and Appoints their Chairmen and Vice-Chairmen”], 南洋商报 [_Nanyang Siang Pau_], 22 February 1932, 6. (From NewspaperSG)
 
-[^16]: "[捐欵千元助賑之黃典嫻及梁鄧氏訪問記](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19370831-1.2.32.8)" [“Contributing a Thousand Dollars for Disaster Relief, An Interview with Wong Din Haan and Madam Leong Tang”], 南洋商报 [_Nanyang Siang Pau_], 31 August 1937, 7. (From NewspaperSG)
+[^16]: "[捐欵千元助賑之黃典嫻及梁鄧氏訪問記](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19370831-1.2.32.8)" [“Contributing a Thousand Dollars for Disaster Relief, An Interview with Wong Din Haan and Madam Leong Tang”].
 
 [^17]: "[Help for Victims in War Torn China](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19370912-1.2.28)," _Straits Times_, 12 September 1937, 4. (From NewspaperSG)
 
