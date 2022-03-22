@@ -18,8 +18,7 @@ In 1967, the Singapore government launched the Eat More Wheat campaign to reduce
 <br>Prior to the 1970s, Singapore used three different systems of weights and measures. Shereen Tay traces how we transitioned to the metric system.
 
 
-#### **Book Recommendations**
-
+#### **Related Books**
 RTS Enterprises, *["The Proof Is in the Eating" Recipe Book](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4402029)* (Singapore: RTS Enterprises, 1969).
 
 Christopher Tan, *[The Way of Kueh: Savouring & Saving Singapore’s Heritage Desserts ](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203962932)*(Singapore: Epigram Books, 2019).
