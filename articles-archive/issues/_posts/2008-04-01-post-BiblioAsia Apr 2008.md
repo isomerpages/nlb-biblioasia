@@ -9,7 +9,7 @@ description: ""
 
 **Director's Column**<br>
 
-**Reviving The Silk Road and the Role of Singapore**<br>[(PDF)](/files/pdf/vol-4/issue-1/v4-issue1_RevivingSilkRoad.pdf)
+**Reviving the Silk Road and the Role of Singapore**<br>[(PDF)](/files/pdf/vol-4/issue-1/v4-issue1_RevivingSilkRoad.pdf)
 
 **Conceiving Ethnic-dialectal Church Communities: A Mission Growth Strategy from 1888–1935**<br>[(PDF)](/files/pdf/vol-4/issue-1/v4-issue1_EthnicDialectal.pdf)
 
@@ -17,7 +17,7 @@ description: ""
 
 **Conceptualizing the Chinese World: Jinan University, Lee Kong Chian, and the Nanyang Connection 1900–1942**<br>[(PDF)](/files/pdf/vol-4/issue-1/v4-issue1_JinanUniversity.pdf)
 
-**Hikayat Abdullah**<br>[(PDF)](/files/pdf/vol-4/issue-1/v4-issue1_HikayatAbdullah.pdf)
+**Excerpts from Hikayat Abdullah**<br>[(PDF)](/files/pdf/vol-4/issue-1/v4-issue1_HikayatAbdullah.pdf)
 
 **Edwin Arthur Brown’s Musical Contributions to Singapore**<br>[(PDF)](/files/pdf/vol-4/issue-1/v4-issue1_EdwinBrown.pdf)
 
