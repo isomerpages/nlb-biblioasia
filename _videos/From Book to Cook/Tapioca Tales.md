@@ -17,13 +17,16 @@ Because there was a rice shortage during the Japanese Occupation, people ate swe
 <br>Desperate times call for desperate measures. Lee Geok Boi trawls the oral history collection of the National Archives to document how people coped with the precious little food they had during the war.
 
 <a style="text-decoration: none;" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1223_2008-12-05.html ">Grow More Food Campaign</a>
+<br>The Grow More Food Campaign was started during the Japanese Occupation to place a check on inflation and prepare for an eventual blockade from enemy forces. 
  
 <a style="text-decoration: none;" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1220_2006-12-29.html ">Bahau Settlement</a>
+<br>Bahau in the Malayan state of Negeri Sembilan was established as an agricultural settlement during the Japanese Occupation of Singapore (1942–45). This settlement was also known as Fuji-Go in Japanese, which means “Fuji village” or “beautiful village”.
  
 <a style="text-decoration: none;" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1221_2006-12-29.html">Endau Settlement</a>
+<br>Endau Settlement was a 300,000-acre agricultural settlement set up at Endau, in the Malayan state of Johor during the Japanese Occupation for Chinese settlers. It was considered the most successful self-sufficiency scheme initiated by the Japanese authorities to ease the food supply problem in Singapore.
 
-<a style="text-decoration: none;" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_823_2004-12-13.html  ">Former Ford Factory </a>
-
+<a style="text-decoration: none;" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_823_2004-12-13.html">Former Ford Factory </a>
+<br>The Former Ford Factory, located at 351 Upper Bukit Timah Road, was the site where British forces officially surrendered Singapore to the Japanese on 15 February 1942 during World War II. In 2004, the site was handed over to the National Archives of Singapore (NAS).
 
 #### **Book Recommendations**
 Lee Geok Boi, *[Syonan: Singapore under the Japanese 1942–1945](https://eservice.nlb.gov.sg/itemholding.aspx?bid=202733922)* (Singapore: Singapore Heritage Society and Landmark Books, 2017).
