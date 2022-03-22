@@ -103,8 +103,12 @@ Mints, S.W., & Du Bois, C.M. (2002). The anthropology of food and eating. Annual
 
 Oregon State University. (2012, December 26). *Definitions of anthropological terms*. Retrieved from oregonstate.edu website.
 
-Safran, W. (1991, Spring). Diasporas in modern societies: Myths of homeland and return. Diaspora: A Journal of Transnational Studies, 1 (1), 83–99. Retrieved from UTP Journals website. 
-Singapore Tourism Board. (n.d.). Faces of Singapore. Retrieved from visitsingapore.com website. 
-Trillin, C. (2007, September 3). Singapore Journal: Three chopsticks. The New Yorker, p. 48. Retrieved from New Yorker.com website.
-Wilk, R.R. (1999, June). Real Belizen food: Building local identity in the transnational Caribbean. American Anthropologist, 101 (2), 244–255. Retrieved from JSTOR via NLB’s eResources website.
-Yong, N. (2013, April 28). Singapore shiok, or just silly? The Straits Times, p. 10. Retrieved from NewspaperSG.
+Safran, W. (1991, Spring). Diasporas in modern societies: Myths of homeland and return. *Diaspora: A Journal of Transnational Studies, 1* (1), 83–99. Retrieved from UTP Journals website. 
+
+Singapore Tourism Board. (n.d.). *Faces of Singapore*. Retrieved from visitsingapore.com website. 
+
+Trillin, C. (2007, September 3). Singapore Journal: Three chopsticks. *The New Yorker*, p. 48. Retrieved from New Yorker.com website.
+
+Wilk, R.R. (1999, June). Real Belizen food: Building local identity in the transnational Caribbean. *American Anthropologist, 101* (2), 244–255. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+
+Yong, N. (2013, April 28). [Singapore shiok, or just silly?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20130428-1.2.59.7.3) *The Straits Times*, p. 10. Retrieved from NewspaperSG.
