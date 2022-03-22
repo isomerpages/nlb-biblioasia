@@ -13,6 +13,9 @@ Because there was a rice shortage during the Japanese Occupation, people ate swe
 #### **Recipes**
 
 #### **Related Articles**
+<a style="text-decoration: none;" href="/vol-15/issue-1/apr-jun-2019/wartime-victuals">Wartime Victuals</a>
+<br>Desperate times call for desperate measures. Lee Geok Boi trawls the oral history collection of the National Archives to document how people coped with the precious little food they had during the war.
+
 
 BiblioAsia article
 Wartime Victuals
