@@ -32,7 +32,7 @@ Check out how
 <br> Thrift, hard work and resilience are qualities that can be nurtured through food. Chantal Sajan recalls the legacy of her grandaunt.
 
 
-#### **Book Recommendations**
+#### **Related Books**
 Devagi Sanmugam, *[Indian Heritage Cooking](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13992386)* (Singapore: Marshall Cavendish Cuisine, 2011).
 
 Elizabeth M. Collingham, *[Curry: A Tale of Cooks and Conquerors](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12728802)* (Oxford: Oxford University Press, 2006).
