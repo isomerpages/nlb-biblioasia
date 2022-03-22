@@ -11,8 +11,8 @@ third_nav_title: From Book to Cook
 Home economics was taught in Singapore schools to train teenage girls to be good homemakers. The changing syllabus for this subject over the different decades tells a story of the “ideal” Singaporean woman and gender roles. Food writer and researcher Sheere Ng explores home economics while making a unique pasta dish, one that she was taught in her home economics class. (Hint: It involves a sauce that normally goes with fries!)
 
 #### **Recipe**
-In the video, Sheere replaced lean meat with hot dogs, pasta sauce with tomato sauce, and 
-
+In the video, Sheere replaced some ingredients in the original recipe in the 1997 home economics textbook: lean meat with hot dogs, pasta sauce with tomato sauce, and cooking oil with olive oil. 
+![](/images/Videos:%20From%20Book%20to%20Cook/home%20econs%20recipe.jpg)
 
 #### **Related Articles**
 <a style="text-decoration: none;" href="/vol-13/issue-4/jan-mar-2018/ideal-sgporean-female"> Recipes for the Ideal Singaporean Female</a>
@@ -27,4 +27,4 @@ Ethel Chong Su-Hsin et al., *[Home Economics Today 2E](https://eservice.nlb.gov.
 
 Linda Lim, *[Women in the Singapore Economy](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4080228)* (Singapore: Chopmen, 1982).
 
-Aline K. Wong and Leong Wai Kum, *[Singapore Women: Three Decades of Change](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6442564)* (Singapore: Times Academic Press, 1993). 
+Aline K. Wong and Leong Wai Kum, *[Singapore Women: Three Decades of Change](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6442564)* (Singapore: Times Academic Press, 1993).
