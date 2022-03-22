@@ -9,9 +9,12 @@ description: ""
 
 **Director's Column**<br>
 
-**Indian Migration into Malaya and Singapore During the British Period**<br>[(PDF)](/files/pdf/vol-3/issue-3/v3-issue3_IndianMigration.pdf)
+**Indian Migration into Malaya and Singapore During the British Period**<br>Hailing from the Indian subcontinent – which comprises India, Pakistan, Bangladesh, Sri Lanka, Nepal, Bhutan and the Maldives – Indians have played an important role in the historical, economic, cultural and political development of Singapore. [(PDF)](/files/pdf/vol-3/issue-3/v3-issue3_IndianMigration.pdf)
 
-**A Historical Review of the Pre-war Chinese Curriculum and Textbooks Used in Singapore: Pages from a Community in Transition**<br>[(PDF)](/files/pdf/vol-3/issue-3/v3-issue3_HistoricalReview.pdf)
+**A Historical Review of the Pre-war Chinese Curriculum and Textbooks Used in Singapore: Pages from a Community in Transition**<br>Studies on the education of overseas Chinese communities have often been carried out within the framework of examining the education policies and politics of China and that
+of the local governments. By examining other local events and factors, a more exact
+picture of the Chinese modern education in Singapore could be discerned.
+[(PDF)](/files/pdf/vol-3/issue-3/v3-issue3_HistoricalReview.pdf)
 
 **சோழர் காலக் கோயில்கள்**<br>[(PDF)](/files/pdf/vol-3/issue-3/v3-issue3_Tamil1.pdf)
 
