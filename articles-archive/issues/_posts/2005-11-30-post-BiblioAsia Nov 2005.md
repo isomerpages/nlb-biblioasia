@@ -21,15 +21,17 @@ description: ""
 
 **Gems in the Library: The Rare Materials Collections at the Lee Kong Chian Reference Library**<br>The Rare Materials Collection reflects Singapore’s literary and social heritage, and contains valuable historical research materials on Singapore and Southeast Asia.  [(PDF)](/files/pdf/vol-1/issue-1/v1-Issue1_Gems.pdf)
 
-**李光前参考图书馆的中文馆藏与服务**<br> [(PDF)](/files/pdf/vol-1/issue-1/v1-Issue1_Chinese.pdf)
+**李光前参考图书馆的中文馆藏与服务**<br>An overview of the Chinese collections and services at the Lee Kong Chian Reference Library.  [(PDF)](/files/pdf/vol-1/issue-1/v1-Issue1_Chinese.pdf)
 
-**The Library Online**<br> [(PDF)](/files/pdf/vol-1/issue-1/v1-Issue1_Library%20Online.pdf)
+**The Library Online**<br>Launch of the revamped National Library Board’s Digital Library. [(PDF)](/files/pdf/vol-1/issue-1/v1-Issue1_Library%20Online.pdf)
 
-**Programmes@the Library** <br> [(PDF)](/files/pdf/vol-1/issue-1/v1-Issue1_Programmes%20.pdf)
+**Programmes@the Library** <br>A showcase of programmes at the National Library Building.  [(PDF)](/files/pdf/vol-1/issue-1/v1-Issue1_Programmes%20.pdf)
 
-**Audiovisual Services at the Lee Kong Chian Reference Library**<br> [(PDF)](/files/pdf/vol-1/issue-1/v1-issue1_AudiovisualServices.pdf)
+**Audiovisual Services at the Lee Kong Chian Reference Library**<br> Materials in the Audiovisual Collection are available for browsing on Level 11 of the Lee Kong Chian Reference Library. Audiovisual materials include videotapes, compact discs, VCDs, DVDs, laserdiscs, audiocassettes, slides and long players records (LPs).[(PDF)](/files/pdf/vol-1/issue-1/v1-issue1_AudiovisualServices.pdf)
 
-**Just Ask Services**<br> [(PDF)](/files/pdf/vol-1/issue-1/v1-issue1_JustAskServices.pdf)
+**Just Ask Services**<br>Just Ask aims to educate, cultivate and encourage library patrons to ask any questions they may have and to inculcate in them a questioning mind and culture. [(PDF)](/files/pdf/vol-1/issue-1/v1-issue1_JustAskServices.pdf)
 
 **Publishing and Research Services**<br>
+The Publishing & Research Services division of the National Library Board provides professional
+research services to meet the needs of the industry and the community.
 [(PDF)](/files/pdf/vol-1/issue-1/v1-issue1_PublishingandResearch.pdf)
