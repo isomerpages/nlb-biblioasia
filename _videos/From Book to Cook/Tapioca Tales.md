@@ -12,6 +12,7 @@ Because there was a rice shortage during the Japanese Occupation, people ate swe
 
 #### **Recipes**
 Geok Boi's recipes are inspired by tapioca noodles that were sold during wartime, and memories of her father's tapioca dessert. 
+[screenshot]
 
 #### **Related Articles**
 <a style="text-decoration: none;" href="/vol-15/issue-1/apr-jun-2019/wartime-victuals">Wartime Victuals</a>
