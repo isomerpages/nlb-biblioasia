@@ -88,3 +88,23 @@ Casting an anthropological lens on the food we enjoy allows us to understand our
 **Amanda lee Koe** is a 2013 Honorary Fellow at the International Writing Program, University of Iowa. She is also the fiction editor of *Esquire* (Singapore), editor of creative non-fiction online magazine POSKOD, communications director at studio *KALEIDO*, and co¬editor of literary journal *Ceriph*.
 
 <a href="https://biblioasia.nlb.gov.sg/vol-9/issue-3/oct-dec-2013/"><center>Back to Issue</center></a>
+
+#### **REFERENCES**
+
+Holtzman, J.D. (2006). Food and memory. *Annual Review of Anthropology, 35*, 361–378. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+
+Kalimniou, D. (2006, June 6). *Political Kouzina*. Retrieved from diatribe-column.blogspot.sg website.
+
+Let’s Yee Sang for another round of food fight. (2012, January 30). *The Star*. Retrieved from Thestar.com. website.
+
+Mankekar, P. (2002). India shopping: Indian grocery stores and transnational configuration of belonging. *Ethnos, 67* (1), 75–97. Retrieved from Taylor & Francis Online website.
+
+Mints, S.W., & Du Bois, C.M. (2002). The anthropology of food and eating. Annual review of Anthropology, 31, 99–119. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+
+Oregon State University. (2012, December 26). *Definitions of anthropological terms*. Retrieved from oregonstate.edu website.
+
+Safran, W. (1991, Spring). Diasporas in modern societies: Myths of homeland and return. Diaspora: A Journal of Transnational Studies, 1 (1), 83–99. Retrieved from UTP Journals website. 
+Singapore Tourism Board. (n.d.). Faces of Singapore. Retrieved from visitsingapore.com website. 
+Trillin, C. (2007, September 3). Singapore Journal: Three chopsticks. The New Yorker, p. 48. Retrieved from New Yorker.com website.
+Wilk, R.R. (1999, June). Real Belizen food: Building local identity in the transnational Caribbean. American Anthropologist, 101 (2), 244–255. Retrieved from JSTOR via NLB’s eResources website.
+Yong, N. (2013, April 28). Singapore shiok, or just silly? The Straits Times, p. 10. Retrieved from NewspaperSG.
