@@ -28,3 +28,5 @@ These recipes were originally published in Jawi in *Memilih Selera* (Choosing Ta
 Siti Radhiah Mohamed Saleh, *[Memilih Selera](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200055900)* (Singapore: Harmy, 1953).
 
 Khir Johari, *[The Food of Singapore Malays: Gastronomic Travels Through the Archipelago](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205498204)* (Singapore: Marshall Cavendish Editions, 2021).
+
+Rita Zahara, *[The Many Flavours of Malay Cooking](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202563239)* (Singapore: Marshall Cavendish Cuisine, 2016).
