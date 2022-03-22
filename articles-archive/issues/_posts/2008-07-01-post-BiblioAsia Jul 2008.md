@@ -15,11 +15,11 @@ description: ""
 
 **Sacred Dance in Singapore**<br>[(PDF)](/files/pdf/vol-4/issue-2/v4-issue2_SacredDance.pdf)
 
-**பல துறை நுண்ணறிவுகள் அணுகுமுறை வழிப் (Multiple Intelligences Approach) பேச்சுத்திறனை மேம்படுத்துவோம்!)**<br>[(PDF)](/files/pdf/vol-4/issue-2/v4-issue2_Tamil.pdf)
+**பல துறை நுண்ணறிவுகள் அணுகுமுறை வழிப் (Multiple Intelligences Approach) பேச்சுத்திறனை மேம்படுத்துவோம்!**<br>[(PDF)](/files/pdf/vol-4/issue-2/v4-issue2_Tamil.pdf)
 
 **The “Earliest” and “Firsts”: A Selection from the Treasures of the National Library of Singapore**<br>[(PDF)](/files/pdf/vol-4/issue-2/v4-issue2_EarliestFirsts2.pdf)
 
-**Hikayat Abdullah**<br>[(PDF)](/files/pdf/vol-4/issue-2/v4-issue2_HikayatAbdullah.pdf)
+**Excerpts from Hikayat Abdullah**<br>[(PDF)](/files/pdf/vol-4/issue-2/v4-issue2_HikayatAbdullah.pdf)
 
 **Masuri S N**<br>[(PDF)](/files/pdf/vol-4/issue-2/v4-issue2_MasuriSN2.pdf)
 
@@ -29,8 +29,8 @@ description: ""
 
 **The Percy R Hill Collection**<br>[(PDF)](/files/pdf/vol-4/issue-2/v4-issue2_PercyHill.pdf)
 
-**Launch of “Screen To Print”**<br>[(PDF)](/files/pdf/vol-4/issue-2/v4-issue2_ScreenPrint.pdf)
+**Launch of “Screen to Print”**<br>[(PDF)](/files/pdf/vol-4/issue-2/v4-issue2_ScreenPrint.pdf)
 
 **Research Fellows 2008: Lee Kong Chian Research Fellowship Series**<br>[(PDF)](/files/pdf/vol-4/issue-2/v4-issue2_ResearchFellows2008.pdf)
 
-**Digital A To Z Databases: D is for Dance, E is for EBSCO, Economics, Education and Engineering**<br>[(PDF)](/files/pdf/vol-4/issue-2/v4-issue2_DigitalA-Z.pdf)
+**Digital A to Z Databases: D is for Dance, E is for EBSCO, Economics, Education and Engineering**<br>[(PDF)](/files/pdf/vol-4/issue-2/v4-issue2_DigitalA-Z.pdf)
