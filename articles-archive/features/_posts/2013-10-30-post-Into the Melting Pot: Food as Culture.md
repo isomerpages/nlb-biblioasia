@@ -112,3 +112,5 @@ Trillin, C. (2007, September 3). Singapore Journal: Three chopsticks. *The New Y
 Wilk, R.R. (1999, June). Real Belizen food: Building local identity in the transnational Caribbean. *American Anthropologist, 101* (2), 244–255. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
 Yong, N. (2013, April 28). [Singapore shiok, or just silly?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20130428-1.2.59.7.3) *The Straits Times*, p. 10. Retrieved from NewspaperSG.
+
+#### **NOTES**
