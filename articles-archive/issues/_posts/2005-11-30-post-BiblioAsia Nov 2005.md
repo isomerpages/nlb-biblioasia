@@ -12,7 +12,6 @@ description: ""
 **Director's Column** <br>
 
 **A – Z Guide to the National Library**<br>This bumper guide will tell you what to look out for in the new National Library Building.
-
  [(PDF)](/files/pdf/vol-1/issue-1/v1-Issue1_A-Z%20Guide.pdf)
 
 **Library's New Home**<br> The new National Library on Victoria Street is five times bigger than the old one on Stamford Road. It houses a comprehensive range of collections, facilities and services. [(PDF)](/files/pdf/vol-1/issue-1/v1-Issue1_Library%20New%20Home.pdf)
