@@ -11,7 +11,7 @@ third_nav_title: From Book to Cook
 Home economics was taught in Singapore schools to train teenage girls to be good homemakers. The changing syllabus for this subject over the different decades tells a story of the “ideal” Singaporean woman and gender roles. Food writer and researcher Sheere Ng explores home economics while making a unique pasta dish, one that she was taught in her home economics class. (Hint: It involves a sauce that normally goes with fries!)
 
 #### **Recipe**
-In the video, Sheere replaced some ingredients in the original recipe in the 1997 home economics textbook: lean meat with hot dogs, pasta sauce with tomato sauce, and cooking oil with olive oil. 
+In the video, Sheere replaced some ingredients in the original recipe below from the 1997 home economics textbook: lean meat with hot dogs, pasta sauce with tomato sauce, and cooking oil with olive oil. 
 ![](/images/Videos:%20From%20Book%20to%20Cook/home%20econs%20recipe.jpg)
 
 #### **Related Articles**
