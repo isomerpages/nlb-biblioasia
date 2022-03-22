@@ -11,14 +11,16 @@ Curry powder is now commonly sold in pre-mixed packets, but in the past, people 
   
 #### **Recipes**
 Chef Devagi made Mrs Kinsey’s “rundang” "rundang" recipe from 
-*[The Mem's Own Cookery Book](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5232525)* (Singapore : Kelly & Walsh, 1929).
+*[The Mem's Own Cookery Book](/vol-11/issue-4/jan-mar-2016/mems-cookery-book-william-edward-kinsey)* (Singapore : Kelly & Walsh, 1929).
 ![](/images/Videos:%20From%20Book%20to%20Cook/Rundang-Mems%20Own%20Cookery%20Book.png)
  
-<a style="text-decoration: none;" href="https://devagisanmugam.com/2022/01/devagis-beef-rendang/" target="_blank"> Chef Devagi's rendang recipe</a> created specially to almost match Mrs Kinsey’s recipe, which calls for beef cut into small sugar cube sizes.
+Check out how 
+<a style="text-decoration: none;" href="https://devagisanmugam.com/2022/01/devagis-beef-rendang/" target="_blank"> Chef Devagi</a> made small but critical tweaks to Mrs Kinsey’s recipe that made it vastly more “rendang-like”
 
 #### **Related Articles**
 <a style="text-decoration: none;" href="/vol-12/issue-2/jul-sep-2016/dontmesswiththecook"> Mem, Don’t Mess with the Cook</a>
- 
+<br>European families in colonial Singapore had a retinue of servants – cook, chauffeur, nanny, gardener and houseboy – but this did not guarantee a life of ease, as Janice Loo tells us.
+
 <a style="text-decoration: none;" href="/vol-11/issue-4/jan-mar-2016/mems-own-cookery-book "> A Colonial Cookbook</a>
  
 <a style="text-decoration: none;" href="/vol-10/issue-2/jul-sep-2014/taste-of-sg-past "> Of Belacan and Curry Puffs: A Taste of Singapore’s Past</a>
