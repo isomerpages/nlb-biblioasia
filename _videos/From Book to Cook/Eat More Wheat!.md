@@ -14,8 +14,7 @@ In 1967, the Singapore government launched the Eat More Wheat campaign to reduce
 ![](/images/Videos:%20From%20Book%20to%20Cook/Milk%20Noodle%20Soup%20pg%2018-19.jpg)
 
 #### **Related Articles**
-[Milestones to the Metric System
-](https://biblioasia.nlb.gov.sg/vol-16/issue-1/apr-jun-2020/metric)
+<a style="text-decoration: none;" href="//vol-16/issue-1/apr-jun-2020/metric"> Milestones to the Metric System</a>
 <br>Prior to the 1970s, Singapore used three different systems of weights and measures. Shereen Tay traces how we transitioned to the metric system.
 
 
