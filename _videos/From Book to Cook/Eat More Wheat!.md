@@ -14,3 +14,8 @@ In 1967, the Singapore government launched the Eat More Wheat campaign to reduce
 
 
 #### **Related Articles**
+
+
+#### **Book Recommendations**
+
+RTS Enterprises, "The Proof Is in the Eating" Recipe Book (Singapore: RTS Enterprises, 1969).
