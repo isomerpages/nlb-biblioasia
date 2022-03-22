@@ -85,6 +85,16 @@ Food comes to Singaporeans naturally — we are passionate about it, we join sna
 
 Casting an anthropological lens on the food we enjoy allows us to understand ourselves more deeply even as our eyes sweep over chilli crab, *chendol* and *mee rebus*. What we are consuming is not just crustacean and chillies, coconut milk and palm sugar, or noodles with piquant gravy, but unwritten parts of the histories of our diasporas, hidden in the woven intricacy of a *ketupat* (Malay rice cake), the folds of a *zongzi* (Chinese dumpling) and the artful blend of spices in a curry, passed down through generations in recipes and memory-laden flavours. And when we bend our heads to eat, we sud-denly realise that we are drinking from the bowl of our culture’s belly.
 
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> <b>The Art of Vu Sheng</b>
+<br><br>
+Typically, diners gather around a large platter filled with slivers of raw fish, usually ikan parang (wolf herring), shredded green and white radish and carrot, pickled ginger, pomelo segments, chopped peanuts, deep-fried flour crisps and sesame seeds, among other ingredients. Someone usually takes the lead, calling out certain auspicious phrases in Mandarin – all of which invariably invoke wealth and long life – as the various ingredients and dressings (including pepper, plum sauce and oil) are thrown into the mix. Then all hell breaks loose.
+	
+	Amid raucous cries of <i>lo hei</i> - a Cantonese term referring to the action of lifting one's chopsticks and tossing the raw fish salad - diners will dig into the dish, raising their chopsticks as high as they can and mixing the ingredients while trying to keep everything on the plate.
+	
+	In Chinese culinary symbolism, fit (<i>yu</i>, meaning fish) is frequently conflated with its homophone Vr (<i>yu</i>) meaning "abundance", whilst t (sheng, meaning raw) can be taken as its homophone 1-1- (<i>sheng</i>), meaning "to rise". When coupled, <i>yu sheng</i> is a symbol of a rise in abundance - be it prosperity, vigour, personal growth or happiness.
+
+</span>
+
 **Amanda lee Koe** is a 2013 Honorary Fellow at the International Writing Program, University of Iowa. She is also the fiction editor of *Esquire* (Singapore), editor of creative non-fiction online magazine POSKOD, communications director at studio *KALEIDO*, and co¬editor of literary journal *Ceriph*.
 
 <a href="https://biblioasia.nlb.gov.sg/vol-9/issue-3/oct-dec-2013/"><center>Back to Issue</center></a>
