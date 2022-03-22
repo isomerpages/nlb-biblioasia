@@ -21,10 +21,12 @@ In the video, Sheere replaced some ingredients in the original recipe below from
 <a style="text-decoration: none;" href="/vol-10/issue-2/jul-sep-2014/nation-building-women-singapore">A Quiet Revolution: Women and Work in Industrialising Singapore</a>
 <br>The role of women in Singapore’s nation-building efforts in the post-Independence years is sometimes overlooked. Janice Loo examines the impact that women have had on the nation’s development.
 
-
 #### **Book Recommendations**
 Ethel Chong Su-Hsin et al., *[Home Economics Today 2E](https://eservice.nlb.gov.sg/itemholding.aspx?bid=8888488)* (Singapore: Pan Pacific Book for Curriculum Development Institute of Singapore, 1997).
 
 Linda Lim, *[Women in the Singapore Economy](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4080228)* (Singapore: Chopmen, 1982).
 
 Aline K. Wong and Leong Wai Kum, *[Singapore Women: Three Decades of Change](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6442564)* (Singapore: Times Academic Press, 1993).
+
+#### **Resources from the archives**
+ 
