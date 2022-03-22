@@ -11,13 +11,15 @@ description: ""
 
 **Director's Column** <br>
 
-**A – Z Guide to the National Library**<br> [(PDF)](/files/pdf/vol-1/issue-1/v1-Issue1_A-Z%20Guide.pdf)
+**A – Z Guide to the National Library**<br>This bumper guide will tell you what to look out for in the new National Library Building.
 
-**Library's New Home**<br> [(PDF)](/files/pdf/vol-1/issue-1/v1-Issue1_Library%20New%20Home.pdf)
+ [(PDF)](/files/pdf/vol-1/issue-1/v1-Issue1_A-Z%20Guide.pdf)
 
-**Continuities and Changes: Singapore as a Port-city Over 700 Years**<br> [(PDF)](/files/pdf/vol-1/issue-1/v1-Issue1_ContinuitiesChanges.pdf)
+**Library's New Home**<br> The new National Library on Victoria Street is five times bigger than the old one on Stamford Road. It houses a comprehensive range of collections, facilities and services. [(PDF)](/files/pdf/vol-1/issue-1/v1-Issue1_Library%20New%20Home.pdf)
 
-**Gems in the Library: The Rare Materials Collections at the Lee Kong Chian Reference Library**<br> [(PDF)](/files/pdf/vol-1/issue-1/v1-Issue1_Gems.pdf)
+**Continuities and Changes: Singapore as a Port-city Over 700 Years**<br>Strategically situated at the southern tip of the Malay Peninsula, Singapore’s history as a port city stretches back to the 13th century. [(PDF)](/files/pdf/vol-1/issue-1/v1-Issue1_ContinuitiesChanges.pdf)
+
+**Gems in the Library: The Rare Materials Collections at the Lee Kong Chian Reference Library**<br>The Rare Materials Collection reflects Singapore’s literary and social heritage, and contains valuable historical research materials on Singapore and Southeast Asia.  [(PDF)](/files/pdf/vol-1/issue-1/v1-Issue1_Gems.pdf)
 
 **李光前参考图书馆的中文馆藏与服务**<br> [(PDF)](/files/pdf/vol-1/issue-1/v1-Issue1_Chinese.pdf)
 
@@ -25,7 +27,7 @@ description: ""
 
 **Programmes@the Library** <br> [(PDF)](/files/pdf/vol-1/issue-1/v1-Issue1_Programmes%20.pdf)
 
-**Audiovisual Services**<br> [(PDF)](/files/pdf/vol-1/issue-1/v1-issue1_AudiovisualServices.pdf)
+**Audiovisual Services at the Lee Kong Chian Reference Library**<br> [(PDF)](/files/pdf/vol-1/issue-1/v1-issue1_AudiovisualServices.pdf)
 
 **Just Ask Services**<br> [(PDF)](/files/pdf/vol-1/issue-1/v1-issue1_JustAskServices.pdf)
 
