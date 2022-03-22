@@ -17,7 +17,7 @@ description: ""
 
 **Monument of Memory and More: The History of Victoria Street**<br> [(PDF)](/files/pdf/vol-1/issue-2/v1-issue2_MonumentMemory.pdf)
 
-**This is My Story: Biographies as Research Resources for Chinese Diasporas**<br> [(PDF)](/files/pdf/vol-1/issue-2/v1-issue2-AutobiographiesBiographies.pdf)
+**This is My Story: Autobiographies and Biographies As Research Resources for Chinese Diasporas**<br> [(PDF)](/files/pdf/vol-1/issue-2/v1-issue2-AutobiographiesBiographies.pdf)
 
 **Snakes & Devil's: A History of the Singapore Grand Prix 1961–1973**<br> [(PDF)](/files/pdf/vol-1/issue-2/v1-issue2_GrandPrix.pdf)
 
@@ -29,4 +29,3 @@ description: ""
 
 **Building an Audience for National Library Programmes**<br> [(PDF)](/files/pdf/vol-1/issue-2/v1-issue2_Buildingaudience.pdf) 
 
-**Life Sciences Comes to National Library**<br> [(PDF)](/files/pdf/vol-1/issue-2/v1-issue%202_Lifesciences.pdf)
