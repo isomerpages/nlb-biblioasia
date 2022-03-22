@@ -14,6 +14,11 @@ Home economics was taught in Singapore schools to train teenage girls to be good
 
 
 #### **Related Articles**
+<a style="text-decoration: none;" href="/vol-13/issue-4/jan-mar-2018/ideal-sgporean-female"> Recipes for the Ideal Singaporean Female</a>
+<br>From cooking, cleaning and becoming a good mother to outsourcing housework as careers for women took off. Sheere Ng charts how home economics lessons have evolved over the years.
+
+<a style="text-decoration: none;" href="/vol-10/issue-2/jul-sep-2014/nation-building-women-singapore">A Quiet Revolution: Women and Work in Industrialising Singapore</a>
+<br>The role of women in Singapore’s nation-building efforts in the post-Independence years is sometimes overlooked. Janice Loo examines the impact that women have had on the nation’s development.
 
 
 #### **Book Recommendations**
