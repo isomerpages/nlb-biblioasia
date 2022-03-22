@@ -22,7 +22,9 @@ Photography in Early Singapore c.1840–1860**<br>Traces Singapore’s photograp
 
 **Karya Sastera sebagai Tapak Ingatan Sosial: Mengingati yang Lalu pada Masa Kini sebagai Peringatan pada Masa Depan Melalui Novel Mail Mau Kawin, Batas Langit dan Atas Nama Cinta**<br>Memory plays an important role in our life. It forms a bridge between the past and the present. Places, events and characters in literary works are some elements that can trigger social memories. This is illustrated in three novels: *Atas Nama Cinta*, *Mail Mau Kawin* and *Batas Langit*.[(PDF)](/files/pdf/vol-3/issue-4/v3-issue4_KaryaSastera.pdf)
 
-**Hikayat Abdullah**<br>[(PDF)](/files/pdf/vol-3/issue-4/v3-issue4_HikayatAbdullah.pdf)
+**Hikayat Abdullah**<br>Published in 1849, the autobiography of Munshi Abdullah Abdul Kadir was written in Jawi between 1840 and 1843. The author was the interpreter and scribe of Stamford Raffles. This work serves as an important record of Singapore’s early history and the most accurate account of Raffles’ arrival.[(PDF)](/files/pdf/vol-3/issue-4/v3-issue4_HikayatAbdullah.pdf)
 
 **News**<br>
+The “Kaalachakra” exhibition on early Indian influences in Southeast Asia; the memorandum of
+understanding signed between the National Library Board and Public Utilities Board; Singapore Library Week with the theme “Get inspired @ your library”; digital databases at the National Library; and the opening of the Donors Gallery. 
 [(PDF)](/files/pdf/vol-3/issue-4/v3-issue%204_News.pdf)
