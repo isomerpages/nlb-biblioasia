@@ -24,8 +24,10 @@ Check out how
 <a style="text-decoration: none;" href="/vol-11/issue-4/jan-mar-2016/mems-own-cookery-book "> A Colonial Cookbook</a>
  
 <a style="text-decoration: none;" href="/vol-10/issue-2/jul-sep-2014/taste-of-sg-past "> Of Belacan and Curry Puffs: A Taste of Singapore’s Past</a>
+<br>Bonny Tan pores through the rich archives of Malayan newspapers and shows how disparate communities have come together to create a food culture that is truly emblematic of Singapore’s multicultural character.
 
 <a style="text-decoration: none;" href="/vol-14/issue-4/jan-mar-2019/life-lson-chetty-m-k/"> Life Lessons in a Chetty Melaka Kitchen</a>
+<br> Thrift, hard work and resilience are qualities that can be nurtured through food. Chantal Sajan recalls the legacy of her grandaunt.
 
 
 #### **Book Recommendations**
