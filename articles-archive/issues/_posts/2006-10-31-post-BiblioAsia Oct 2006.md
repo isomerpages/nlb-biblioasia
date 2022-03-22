@@ -9,18 +9,18 @@ description: ""
 
 **Director's Column**<br>
 
-**Journey of Faith: Haj Pilgrimage in the Malay Archipelago Before the 20th Century**<br> [(PDF)](/files/pdf/vol-2/issue-3/v2-issue3_HajPilgrimage.pdf)
+**Journey of Faith: Haj Pilgrimage in the Malay Archipelago Before the 20th Century**<br> Making the journey to Mecca to fulfil the obligation of the Haj is a long and cherished ambition for most Muslims. In heeding the call of the Ka’bah (House of God) in Mecca, where all Muslims turned to in their prayers, the Haj is not for the faint-hearted or the ill-prepared. [(PDF)](/files/pdf/vol-2/issue-3/v2-issue3_HajPilgrimage.pdf)
 
-**Menyelusuri Evolusi Aksara Melayu**<br> [(PDF)](/files/pdf/vol-2/issue-3/v2-issue3_AksaraMelayu.pdf)
+**Menyelusuri Evolusi Aksara Melayu**<br> Traces the evolution of Malay scripts, such as the Pallava, Kawi, Jawi and Roman scripts. It also illustrates how the interactions of the Malay people with major civilisations had impacted the evolution of these scripts. [(PDF)](/files/pdf/vol-2/issue-3/v2-issue3_AksaraMelayu.pdf)
 
-**Portrait of Poetry in Art**<br> [(PDF)](/files/pdf/vol-2/issue-3/v2-issue3_PortraitsPoetry.pdf)
+**Portrait of Poetry in Art**<br> The artist-cum-poet Abdul Ghani Hamid is one of the earliest proponents of Pablo Picasso in the region. He is well known for his controversial artwork in 1957 which he named Mata dan Hati, meaning “Eyes and Heart”. [(PDF)](/files/pdf/vol-2/issue-3/v2-issue3_PortraitsPoetry.pdf)
 
-**Descendants of Dragons and Fairies: Vietnamese History Before French Colonisation**<br> [(PDF)](/files/pdf/vol-2/issue-3/v2-issue3_DragonsFairies.pdf)
+**Descendants of Dragons and Fairies: Vietnamese History Before French Colonisation**<br> We tend to associate Vietnam with the horrific battles at Dien Bien Phu and the Vietnam War, but there is much more to Vietnamese history. This essay provides a historical sketch of Vietnam up to the 19th century, before French military forces overran Indochina and transformed it into a colony.[(PDF)](/files/pdf/vol-2/issue-3/v2-issue3_DragonsFairies.pdf)
 
-**தமிழ்த் திரை உலகம் ஒரு பார்வை**<br> [(PDF)](/files/pdf/vol-2/issue-3/v2-issue3_Tamil.pdf)
+**தமிழ்த் திரை உலகம் ஒரு பார்வை**<br> Traces how Tamil cinema first came to Tamil Nadu and talks about the growth of Tamil cinema, happenings behind the screen, and how music was introduced into the films. [(PDF)](/files/pdf/vol-2/issue-3/v2-issue3_Tamil.pdf)
 
-**A Brief History of Woodcuts in Singapore**<br> [(PDF)](/files/pdf/vol-2/issue-3/v2-issue3_WoodcutsHistory.pdf)
+**A Brief History of Woodcuts in Singapore**<br>In 1966, six local woodcut artists held their first group show at the National Library on Stamford Road. In 2006, works by the same artists take centre stage in an anniversary exhibition at the National Library Building on Victoria Street. This  introduces the art of woodcut printmaking, and its history and practice as an art form in Singapore.   [(PDF)](/files/pdf/vol-2/issue-3/v2-issue3_WoodcutsHistory.pdf)
 
-**The Evolution of Malay Scripts Exhibition (EMAS) Exhibition**<br> [(PDF)](/files/pdf/vol-2/issue-3/v2-issue3_MalayScriptsExhibition.pdf)
+**The Evolution of Malay Scripts Exhibition**<br> The exhibition is more than just about Malay scripts or the Malays. It is about learning, being open to ideas and the dissemination of knowledge. [(PDF)](/files/pdf/vol-2/issue-3/v2-issue3_MalayScriptsExhibition.pdf)
 
-**News** [(PDF)](/files/pdf/vol-2/issue-3/v2-Issue%203_News.pdf)
+**News** <br> The 72nd IFLA General Conference and Council held in Seoul, Korea; a talk on interpreting Jihadi websites; visit by the crown prince of Bhutan to the National Library; a collaboration and networking session with students from Nanyang Technological University pursuing their Master of Science in Information Studies; and the memorandum of understanding signed between the National Library Board and Professor Edwin Thumboo. [(PDF)](/files/pdf/vol-2/issue-3/v2-Issue%203_News.pdf)
