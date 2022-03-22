@@ -23,8 +23,8 @@ In the video, Sheere replaced lean meat with hot dogs, pasta sauce with tomato s
 
 
 #### **Book Recommendations**
-Linda Lim, Women in the Singapore Economy (Chopmen, 1982).
+Ethel Chong Su-Hsin et al., *[Home Economics Today 2E](https://eservice.nlb.gov.sg/itemholding.aspx?bid=8888488)* (Singapore: Pan Pacific Book for Curriculum Development Institute of Singapore, 1997).
+
+Linda Lim, *[Women in the Singapore Economy](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4080228)* (Singapore: Chopmen, 1982).
 
 Aline K. Wong and Leong Wai Kum, *[Singapore Women: Three Decades of Change](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6442564)* (Singapore: Times Academic Press, 1993). 
-
-Ethel Chong Su-Hsin et al., *[Home Economics Today 2E](https://eservice.nlb.gov.sg/itemholding.aspx?bid=8888488)* (Singapore: Pan Pacific Book for Curriculum Development Institute of Singapore, 1997). 
