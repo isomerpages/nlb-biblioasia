@@ -29,4 +29,6 @@ Linda Lim, *[Women in the Singapore Economy](https://eservice.nlb.gov.sg/item_ho
 Aline K. Wong and Leong Wai Kum, *[Singapore Women: Three Decades of Change](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6442564)* (Singapore: Times Academic Press, 1993).
 
 #### **Resources from the archives**
- 
+Ong Pang Boon, "[Speech by Minister for Education, Mr. Ong Pang Boon, at the Opening of the Home Economics Exhibition—Victoria Memorial Hall of 27th April, 1970 at 5.15 p.m.,](https://www.nas.gov.sg/archivesonline/speeches/record-details/7a96fb67-115d-11e3-83d5-0050568939ad)" transcript, Ministry of Culture. (From National Archives of Singapore document no. PressR19700427c)
+
+Tay Eng Soon, "[Speech by Tay Eng Soon, Minister of State (Education), at the Home Economics Seminar: New Dimensions Organised by the Home Economics Teachers' Association at the Mandarin Hotel on Wednesday, 19 March '86, at 2.30 pm.](https://www.nas.gov.sg/archivesonline/speeches/record-details/736f9de6-115d-11e3-83d5-0050568939ad)," transcript, Ministry of Culture. (From National Archives of Singapore document no. tes19860319as)
