@@ -9,7 +9,7 @@ description: ""
 
 **Director's Column**
 
-**Singapore Art, <i>Nanyang</i> Style**<br> [(PDF)](/files/pdf/vol-2/issue-1/v2-issue1_NanyangStyle.pdf)
+**Singapore Art, Nanyang Style**<br>The Nanyang style of painting was practised by migrant Chinese painters in Singapore in the 1950s. It combines elements from the Western Schools of Paris with Chinese painting traditions, styles and techniques. [(PDF)](/files/pdf/vol-2/issue-1/v2-issue1_NanyangStyle.pdf)
 
 **Old Man Yip: Photography Master in Slippers**<br> [(PDF)](/files/pdf/vol-2/issue-1/v2-issue1_OldManYip.pdf)
 
