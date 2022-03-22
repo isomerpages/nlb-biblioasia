@@ -26,13 +26,13 @@ Because there was a rice shortage during the Japanese Occupation, people ate swe
 
 
 #### **Book Recommendations**
-Lee Geok Boi
+Lee Geok Boi, *[Syonan: Singapore under the Japanese, 1942–1945](https://eservice.nlb.gov.sg/itemholding.aspx?bid=202733922)* (Singapore: Singapore Heritage Society and Landmark Books, 2017).
 
 
-The Syonan Years: Singapore Under Japanese Rule, 1942–1945 
-by 
 National Archives of Singapore and Epigram, 2005
  
-Wartime Kitchen: Food and Eating in Singapore, 1942–1950
-by Wong Hong Suen
-Editions Didier Millet and National Museum of Singapore, 2009
+Lee Geok Boi, 
+ 
+Lee Geok Boi, 
+ 
+Wong Hong Suen, *[Wartime Kitchen: Food and Eating in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13158872)*, 1942–1950 (Singapore: Editions Didier Millet and National Museum of Singapore, 2009).
