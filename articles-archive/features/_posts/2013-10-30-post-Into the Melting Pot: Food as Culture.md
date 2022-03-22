@@ -114,3 +114,14 @@ Wilk, R.R. (1999, June). Real Belizen food: Building local identity in the trans
 Yong, N. (2013, April 28). [Singapore shiok, or just silly?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20130428-1.2.59.7.3) *The Straits Times*, p. 10. Retrieved from NewspaperSG.
 
 #### **NOTES**
+[^1]:Mints, S.W., & Du Bois, C.M. (2002). The anthropology of food and eating. Annual review of Anthropology, 31, 99–119. Retrieved from JSTOR via NLB’s eResources website.
+[^2]:Oregon State University. (2012, December 26). Definitions of anthropological terms. Retrieved from oregonstate.edu website.
+[^3]:Mankekar, P. (2002). India shopping: Indian grocery stores and transnational configuration of belonging. Ethnos, 67 (1), 75–97. Retrieved from Taylor & Francis Online website.
+[^4]:Let’s Yee Sang for another round of food fight. (2012, January 30). The Star. Retrieved from Thestar.com. website.
+[^5]:The Star, 30 Jan 2012.
+[^6]:Holtzman, J.D. (2006). Food and memory. Annual Review of Anthropology, 35, 361–378. Retrieved from JSTOR via NLB’s eResources website.
+[^7]:Kalimniou, D. (2006, June 6). Political Kouzina. Retrieved from diatribe-column.blogspot.sg website.
+[^8]:Wilk, R.R. (1999, June). Real Belizen food: Building local identity in the transnational Caribbean. American Anthropologist, 101 (2), 244–255. Retrieved from JSTOR via NLB’s eResources website.
+[^9]:Yong, N. (2013, April 28). Singapore shiok, or just silly? The Straits Times, p. 10. Retrieved from NewspaperSG.
+[^10]:Trillin, C. (2007, September 3). Singapore Journal: Three chopsticks. The New Yorker. Retrieved from New Yorker.com website.
+[^11]:Safran, W. (1991, Spring). Diasporas in modern societies: Myths of homeland and return. Diaspora: A Journal of Transnational Studies, 1 (1), 83–99. Retrieved from UTP Journals website. 
