@@ -88,16 +88,16 @@ Casting an anthropological lens on the food we enjoy allows us to understand our
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> <b>The Art of Vu Sheng</b>
 <br><br>
 Typically, diners gather around a large platter filled with slivers of raw fish, usually ikan parang (wolf herring), shredded green and white radish and carrot, pickled ginger, pomelo segments, chopped peanuts, deep-fried flour crisps and sesame seeds, among other ingredients. Someone usually takes the lead, calling out certain auspicious phrases in Mandarin – all of which invariably invoke wealth and long life – as the various ingredients and dressings (including pepper, plum sauce and oil) are thrown into the mix. Then all hell breaks loose.
-	
+	<br><br>
 	Amid raucous cries of <i>lo hei</i> - a Cantonese term referring to the action of lifting one's chopsticks and tossing the raw fish salad - diners will dig into the dish, raising their chopsticks as high as they can and mixing the ingredients while trying to keep everything on the plate.
-	
+	<br><br>
 	In Chinese culinary symbolism, fit (<i>yu</i>, meaning fish) is frequently conflated with its homophone Vr (<i>yu</i>) meaning "abundance", whilst t (sheng, meaning raw) can be taken as its homophone 1-1- (<i>sheng</i>), meaning "to rise". When coupled, <i>yu sheng</i> is a symbol of a rise in abundance - be it prosperity, vigour, personal growth or happiness.
-
+<br><br>
 Like a layered Tang dynasty poem where each noun is a palimpsest for something more pertinent, many Chinese dishes and their ingredients are specially selected for their ability to engender good fortune. Even the humble deep-fried bits, in the hue and shape of "golden pillows", belie a greater hope of AAA* <i>man di huang jin</i>, that is, floors full of gold. Traditionally, the addition of each ingredient to <i>yu sheng</i> is accompanied by the recitation of a specific aiff (<i>chen yu</i>), a four-character idiom.
-	
-Yu sheng is not for the shy and retiring. The partaking of the dish is as much about the ritual as the consumption. During the ensuing melee, diners might find themselves losing a chopstick, pelted in the eye by a peanut shrapnel, or worse, have their new clothes stained by plum sauce.
-Yu sheng has become a Lunar New Year staple and it has become so popular that restaurants in Singapore serve it throughout the 15-day Lunar New Year period - not just on the seventh day. In the spirit of gastro¬nomic creativity (and conspicuous consump¬tion), the traditional translucent slivers of ikan parang have been replaced with salmon, lobster and abalone.
-
+	<br><br>
+	<i>Yu sheng</i> is not for the shy and retiring. The partaking of the dish is as much about the ritual as the consumption. During the ensuing melee, diners might find themselves losing a chopstick, pelted in the eye by a peanut shrapnel, or worse, have their new clothes stained by plum sauce.
+	<br><br>
+	<i>Yu sheng</i> has become a Lunar New Year staple and it has become so popular that restaurants in Singapore serve it throughout the 15-day Lunar New Year period - not just on the seventh day. In the spirit of gastronomic creativity (and conspicuous consumption), the traditional translucent slivers of <i>ikan parang</i> have been replaced with salmon, lobster and abalone.
 </span>
 
 **Amanda lee Koe** is a 2013 Honorary Fellow at the International Writing Program, University of Iowa. She is also the fiction editor of *Esquire* (Singapore), editor of creative non-fiction online magazine POSKOD, communications director at studio *KALEIDO*, and co¬editor of literary journal *Ceriph*.
