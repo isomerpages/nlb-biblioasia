@@ -68,6 +68,10 @@ The periodic tussles between Singapore and Malaysia over the origins of their �
 
 Beyond specific nationalist and ethnic anxieties, perhaps another primary distinction to make of the *yu sheng-lo hei* conundrum is one of etymology versus semiotics: Is the tussle over *yu sheng* — the dish of raw fish salad and its constituents, variations of which had long been in existence in China’s Canton province, or is it over *lo hei* — the performatory ritual of tossing slivers of raw fish and its accompaniments in a communal social setting? Where does one end and the other begin?
 
+<img src="/images/vol-9-issue-3/Into%20the%20Melting%20Pot/Melt2.jpg"><br>
+<img src="/images/vol-9-issue-3/Into%20the%20Melting%20Pot/Melt3.jpg"><br>
+<img src="/images/vol-9-issue-3/Into%20the%20Melting%20Pot/Melt4.jpg">
+<div style="background-color: white;">(From top to bottom) Chef Sin Leong casting a watchful eye over proceedings in his kitchen. The wise words of Chef Sin Leong. The altar of Master Luo. (2013). <i>Images courtesy of Urban Achiever (www.urbanachiever.com).</i></div>
 #### The gastronomic memory of diaspora 
 
 In a nation that has often been accused — by foreigners and locals — of not having a strong local culture, questions on how and what we eat, as well as when and by whom our national dishes were invented can be particularly pressing. The city-state is after all marketed by the Singapore Tourism Board to the world as a food and shopping haven. Singapore’s latest tourism tagline is “Shiok!”9, a succinct Singlish term that translates loosely to “extreme pleasure”, derived from “*syok*” the Malay word for “nice”.
