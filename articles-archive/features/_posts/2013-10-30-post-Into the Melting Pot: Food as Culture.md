@@ -10,8 +10,6 @@ description: ""
 <img src="/images/vol-9-issue-3/Into%20the%20Melting%20Pot/Melt1.jpg">
 <div style="background-color: white;"></i></div>
 
-Amanda lee Koe is a 2013 Honorary Fellow at the International Writing Program, University of Iowa. She is also the fiction editor of *Esquire* (Singapore), editor of creative non-fiction online magazine POSKOD, communications director at studio *KALEIDO*, and co¬editor of literary journal *Ceriph*.
-
 According to chinese folklore, the four corners of the sky collapsed onto itself after a fierce battle between the gods of water and fire. The Chinese Goddess Nuwa tempered five-coloured stones to mend the sky, then cut off the feet of a great but luckless turtle, whose formidable appendages were used as struts to hold up the firmament.
 
 Her work done, Nuwa grew restless and a little lonely, so on the first day, she created chickens to keep her company. On the second day, she created dogs, followed by sheep on the third, pigs on the fourth, cows on the fifth and horses on the sixth. On the seventh day, Nuwa folded up the sleeves of her robes and fashioned human beings from yellow clay, sculpting each one carefully. She was fatigued — and a little impatient — after creating hundreds of such figures in this manner, so she dipped a rope in the clay and flicked it so that blobs of clay landed everywhere. The handcrafted figures became nobles, while the blobs turned into commoners.
@@ -80,4 +78,8 @@ In this mutating world, Singaporeans need to cultivate concern about their food 
 
 Food comes to Singaporeans naturally — we are passionate about it, we join snaking queues for ambrosial *laksa* (noodles in spicy coconut broth), we seek out obscure corners of the island for the best fish-head curry, and our conversations are frequently peppered with musings about all things related to food.
 
-Casting an anthropological lens on the food we enjoy allows us to understand ourselves more deeply even as our eyes sweep over chilli crab, *chendol* and *mee rebus*. What we are consuming is not just crustacean and chillies, coconut milk and palm sugar, or noodles with piquant gravy, but unwritten parts of the histories of our diasporas, hidden in the woven intricacy of a *ketupat* (Malay rice cake), the folds of a *zongzi* (Chinese dumpling) and the artful blend of spices in a curry, passed down through generations in recipes and memory-laden flavours. And when we bend our heads to eat, we sud-denly realise that we are drinking from the bowl of our culture’s belly. 
+Casting an anthropological lens on the food we enjoy allows us to understand ourselves more deeply even as our eyes sweep over chilli crab, *chendol* and *mee rebus*. What we are consuming is not just crustacean and chillies, coconut milk and palm sugar, or noodles with piquant gravy, but unwritten parts of the histories of our diasporas, hidden in the woven intricacy of a *ketupat* (Malay rice cake), the folds of a *zongzi* (Chinese dumpling) and the artful blend of spices in a curry, passed down through generations in recipes and memory-laden flavours. And when we bend our heads to eat, we sud-denly realise that we are drinking from the bowl of our culture’s belly.
+
+**Amanda lee Koe** is a 2013 Honorary Fellow at the International Writing Program, University of Iowa. She is also the fiction editor of *Esquire* (Singapore), editor of creative non-fiction online magazine POSKOD, communications director at studio *KALEIDO*, and co¬editor of literary journal *Ceriph*.
+
+<a href="https://biblioasia.nlb.gov.sg/vol-9/issue-3/oct-dec-2013/"><center>Back to Issue</center></a>
