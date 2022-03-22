@@ -121,7 +121,7 @@ Yong, N. (2013, April 28). [Singapore shiok, or just silly?](http://eresources.n
 [^5]:*The Star*, 30 Jan 2012.
 [^6]:Holtzman, J.D. (2006). Food and memory. *Annual Review of Anthropology, 35*, 361–378. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 [^7]:Kalimniou, D. (2006, June 6). *Political Kouzina*. Retrieved from diatribe-column.blogspot.sg website.
-[^8]:Wilk, R.R. (1999, June). Real Belizen food: Building local identity in the transnational Caribbean. American Anthropologist, 101 (2), 244–255. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
-[^9]:Yong, N. (2013, April 28). Singapore shiok, or just silly? The Straits Times, p. 10. Retrieved from NewspaperSG.
-[^10]:Trillin, C. (2007, September 3). Singapore Journal: Three chopsticks. The New Yorker. Retrieved from New Yorker.com website.
-[^11]:Safran, W. (1991, Spring). Diasporas in modern societies: Myths of homeland and return. Diaspora: A Journal of Transnational Studies, 1 (1), 83–99. Retrieved from UTP Journals website.
+[^8]:Wilk, R.R. (1999, June). Real Belizen food: Building local identity in the transnational Caribbean. *American Anthropologist, 101* (2), 244–255. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+[^9]:Yong, N. (2013, April 28). [Singapore shiok, or just silly?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20130428-1.2.59.7.3) *The Straits Times*, p. 10. Retrieved from NewspaperSG.
+[^10]:Trillin, C. (2007, September 3). Singapore Journal: Three chopsticks. *The New Yorker*. Retrieved from New Yorker.com website.
+[^11]:Safran, W. (1991, Spring). Diasporas in modern societies: Myths of homeland and return. *Diaspora: A Journal of Transnational Studies, 1* (1), 83–99. Retrieved from UTP Journals website.
