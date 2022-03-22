@@ -18,4 +18,6 @@ In 1967, the Singapore government launched the Eat More Wheat campaign to reduce
 
 #### **Book Recommendations**
 
-RTS Enterprises, "The Proof Is in the Eating" Recipe Book (Singapore: RTS Enterprises, 1969).
+RTS Enterprises, *["The Proof Is in the Eating" Recipe Book](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4402029)* (Singapore: RTS Enterprises, 1969).
+
+Christopher Tan, *[The Way of Kueh: Savouring & Saving Singapore’s Heritage Desserts ](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203962932)*(Singapore: Epigram Books, 2019).
