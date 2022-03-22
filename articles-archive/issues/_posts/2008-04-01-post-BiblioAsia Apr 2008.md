@@ -19,15 +19,15 @@ description: ""
 
 **Excerpts from Hikayat Abdullah**<br>*Hikayat Abdullah* (*The Story of Abdullah*) by Munshi Abdullah Abdul Kadir provides glimpses of life in early Singapore. Abdullah arrived in Singapore from Melaka about four months after Stamford Raffles established a trading post on the island in February 1819.[(PDF)](/files/pdf/vol-4/issue-1/v4-issue1_HikayatAbdullah.pdf)
 
-**Edwin Arthur Brown’s Musical Contributions to Singapore**<br>[(PDF)](/files/pdf/vol-4/issue-1/v4-issue1_EdwinBrown.pdf)
+**Edwin Arthur Brown’s Musical Contributions to Singapore**<br>Sheds light on Edwin Arthur Brown’s significant contributions to amateur theatricals and musical scenes in Singapore in the first half of the 20th century. He was also a long-time municipal commissioner and a member of the Singapore Volunteer Corps.[(PDF)](/files/pdf/vol-4/issue-1/v4-issue1_EdwinBrown.pdf)
 
-**南益三厂所见所闻**<br>[(PDF)](/files/pdf/vol-4/issue-1/v4-issue1_Chinese2.pdf)
+**南益三厂所见所闻**<br>An account of the trip to Johor in November 2007 made by the author Wu Wah, a researcher on Chinese clan societies in Singapore and Malaysia, and three staff members from the National Library. The objective of the trip was to gather materials and insights into the enterprises set up by Lee Kong Chian for “The Legacy of Tan Kah Kee and Lee Kong Chian” exhibition.[(PDF)](/files/pdf/vol-4/issue-1/v4-issue1_Chinese2.pdf)
 
 **Launch of National Essay Competition on “Singapore: The
-First Ten Years of Independence”**<br>[(PDF)](/files/pdf/vol-4/issue-1/v4-issue1_NationalEssay.pdf)
+First Ten Years of Independence”**<br>The National Library Board launched the National Essay Com¬petition and the publication, *Singapore: The First Ten Years of Independence*, on 29 March 2008. The event was co-organised with the History Association of Sin¬gapore. [(PDF)](/files/pdf/vol-4/issue-1/v4-issue1_NationalEssay.pdf)
 
-**Launch of “French Corner” at the National Library**<br>[(PDF)](/files/pdf/vol-4/issue-1/v4-issue1_FrenchCorner.pdf)
+**Launch of “French Corner” at the National Library**<br>The “French Corner” located on Level 7 of the Lee Kong Chian Reference Library was launched on 28 March 2008. The collection includes classical French literary works as well as titles in philosophy, humanities and the social sciences. [(PDF)](/files/pdf/vol-4/issue-1/v4-issue1_FrenchCorner.pdf)
 
-**Research Fellows 2008: Lee Kong Chian Research Fellowship Series**<br>[(PDF)](/files/pdf/vol-4/issue-1/v4-issue1_ResearchFellows2008.pdf)
+**Research Fellows 2008: Lee Kong Chian Research Fellowship Series**<br>The “French Corner” located on Level 7 of the Lee Kong Chian Reference Library was launched on 28 March 2008. The collection includes classical French literary works as well as titles in philosophy, humanities and the social sciences. [(PDF)](/files/pdf/vol-4/issue-1/v4-issue1_ResearchFellows2008.pdf)
 
-**Digital A to Z Databases: B is for Bloom’s and Bloomberg. C is for Camio, China and Credo Reference**<br>[(PDF)](/files/pdf/vol-4/issue-1/v4-issue1_DigitalA-Z.pdf)
+**Digital A to Z Databases: B is for Bloom’s and Bloomberg. C is for Camio, China and Credo Reference**<br>A highlight of some digital databases available at the National Library.[(PDF)](/files/pdf/vol-4/issue-1/v4-issue1_DigitalA-Z.pdf)
