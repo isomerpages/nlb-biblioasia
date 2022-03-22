@@ -72,6 +72,7 @@ Beyond specific nationalist and ethnic anxieties, perhaps another primary distin
 <img src="/images/vol-9-issue-3/Into%20the%20Melting%20Pot/Melt3.jpg"><br>
 <img src="/images/vol-9-issue-3/Into%20the%20Melting%20Pot/Melt4.jpg">
 <div style="background-color: white;">(From top to bottom) Chef Sin Leong casting a watchful eye over proceedings in his kitchen. The wise words of Chef Sin Leong. The altar of Master Luo. (2013). <i>Images courtesy of Urban Achiever (www.urbanachiever.com).</i></div>
+
 #### The gastronomic memory of diaspora 
 
 In a nation that has often been accused — by foreigners and locals — of not having a strong local culture, questions on how and what we eat, as well as when and by whom our national dishes were invented can be particularly pressing. The city-state is after all marketed by the Singapore Tourism Board to the world as a food and shopping haven. Singapore’s latest tourism tagline is “Shiok!”9, a succinct Singlish term that translates loosely to “extreme pleasure”, derived from “*syok*” the Malay word for “nice”.
