@@ -26,7 +26,7 @@ Because there was a rice shortage during the Japanese Occupation, people ate swe
 
 
 #### **Book Recommendations**
-Lee Geok Boi, *[Syonan: Singapore under the Japanese, 1942–1945](https://eservice.nlb.gov.sg/itemholding.aspx?bid=202733922)* (Singapore: Singapore Heritage Society and Landmark Books, 2017).
+Lee Geok Boi, *[Syonan: Singapore under the Japanese 1942–1945](https://eservice.nlb.gov.sg/itemholding.aspx?bid=202733922)* (Singapore: Singapore Heritage Society and Landmark Books, 2017).
 
 Lee Geok Boi, *[The Syonan Years: Singapore under Japanese Rule 1942–1945](https://eservice.nlb.gov.sg/itemholding.aspx?bid=12661517)* (Singapore: National Archives of Singapore and Epigram, 2005).
 
