@@ -8,7 +8,7 @@ description: ""
 #### Through the lens of that unique Lunar New Year creation yu sheng, find out how the simplest dishes can be canvases upon which cultural and national identities are inscribed.
 
 <img src="/images/vol-9-issue-3/Into%20the%20Melting%20Pot/Melt1.jpg">
-<div style="background-color: white;"></i></div>
+<div style="background-color: white;"><i>Lo hei</i>, or <i>yu sheng</i>, is a noisy, messy affair and a staple of Chinese New Year celebrations. <i>Image courtesy of Urban Achiever (www.urbanachiever.com).</i></div>
 
 According to chinese folklore, the four corners of the sky collapsed onto itself after a fierce battle between the gods of water and fire. The Chinese Goddess Nuwa tempered five-coloured stones to mend the sky, then cut off the feet of a great but luckless turtle, whose formidable appendages were used as struts to hold up the firmament.
 
