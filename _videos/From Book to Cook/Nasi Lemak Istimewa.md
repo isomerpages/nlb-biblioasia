@@ -15,8 +15,7 @@ Toffa made Siti Radhiah's recipes of *nasi lemak berkukus dengan lauk-pauknya* (
 ![](/images/Videos:%20From%20Book%20to%20Cook/nasi%20lemak%20recipe.png)
 <div style="background-color: white;">Recipe of* nasi lemak berkukus* or steamed nasi lemak, from Siti Radhiah, *Memilih Selera* (Choosing tastes) (Singapore: Harmy, 1953).</div>
 
-English translations by Toffa
-<br>**Nasi lemak berkukus dengan lauk-pauknya (Steamed nasi lemak and its accompaniments)**
+<br>**English translation by Toffa of *nasi lemak berkukus dengan lauk-pauknya* (Steamed nasi lemak and its accompaniments)** 
 <br><u>*Nasi lemak berkukus*</u>
 <br>2 *kati* (~1210 g) Thai rice
 <br>2 coconuts
@@ -26,7 +25,7 @@ Rice is cooked with some thin coconut milk in a steamer. Then, remove it and pou
  
 Its accompaniments are thinly sliced cucumber, fried anchovies, and chicken eggs or duck eggs made into omelette. *Kacang putih* is soaked first and then fried, or fried peanuts. Red onions and chillies are sliced thinly and fried. Chicken or meat opor. Sambal goreng and serunding.  
 
-<br><u>*Opor ayam*</u> 
+<u>*Opor ayam*</u> 
 <br>1 chicken
 <br>½ tbsp. coriander seeds
 <br>½ tsp. white pepper
@@ -40,9 +39,9 @@ Its accompaniments are thinly sliced cucumber, fried anchovies, and chicken eggs
 <br>3 bay leaves
 <br>Some lemongrass
 
-Coriander seeds, salt and white pepper are ground together. Then, add garlic, candlenuts, galangal, ginger and red onions. Grind them until fine. All of the spices (*rempah*) are sauted (tumis) with a bit of coconut oil. Then, add bay leaves, lemongrass and chicken that has been cleaned and chopped up, and stir. When most of the liquid has dried up, add coconut milk and if the gravy is quite thick and the chicken is tender, then remove from the stove.
+Coriander seeds, salt and white pepper are ground together. Then, add garlic, candlenuts, galangal, ginger and red onions. Grind them until fine. All of the spices (*rempah*) are sautéd (*tumis*) with a bit of coconut oil. Then, add bay leaves, lemongrass and chicken that has been cleaned and chopped up, and stir. When most of the liquid has dried up, add coconut milk. If the gravy is quite thick and the chicken is tender,  remove from the stove.
 
-<br><u>*Sambal goreng*</u> 
+<u>*Sambal goreng*</u> 
 <br>½ *kati* (~303 g) meat 
 <br>4 tbsp. sliced red onions
 <br>4 slices of ginger
@@ -55,7 +54,7 @@ Coriander seeds, salt and white pepper are ground together. Then, add garlic, ca
 <br>Salt 
 <br>A bit of tamarind
 
-Meat is cut into small pieces, cleaned well, then fried. Red onions, garlic, ginger, lemongrass are sautéd with cooking oil until yellowish. Then, add the dried chillies that have been sliced thinly, and stir. Add meat that has been fried and tofu that has been cut and fried earlier. Add shrimp paste, and a bit of salt and sugar and tamarind juice. If you like, add some *pati santa*n (coconut milk that has been extracted without adding any water), and stir until dry and remove. Some people also like making this *sambal goreng* with tempeh and long beans that are sliced thinly.
+Meat is cut into small pieces, cleaned well, then fried. Red onions, garlic, ginger, lemongrass are sautéd with cooking oil until yellowish. Then, add the dried chillies that have been sliced thinly, and stir. Add meat that has been fried and tofu that has been cut and fried earlier. Add shrimp paste, and a bit of salt and sugar and tamarind juice. If you like, add some *pati santan* (coconut milk that has been extracted without adding any water), and stir until dry and remove. Some people also like making this *sambal goreng* with tempeh and long beans that are sliced thinly.
 
 #### **Related Articles**
 <a style="text-decoration: none;" href="/vol-17/issue-4/jan-to-mar-2022/siti-radhiah-cookbooks ">Siti Radhiah’s Cookbooks for the Modern Malay Woman</a>
