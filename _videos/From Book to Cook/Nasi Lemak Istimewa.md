@@ -29,7 +29,7 @@ Its accompaniments are thinly sliced cucumber, fried anchovies, and chicken eggs
 <br><u>*Opor ayam*</u> 
 <br>1 chicken
 <br>½ tbsp. coriander seeds
-<br>½ teaspoon white pepper
+<br>½ tsp. white pepper
 <br>A pinch of salt
 <br>3 cloves garlic
 <br>10 red onions
@@ -42,9 +42,20 @@ Its accompaniments are thinly sliced cucumber, fried anchovies, and chicken eggs
 
 Coriander seeds, salt and white pepper are ground together. Then, add garlic, candlenuts, galangal, ginger and red onions. Grind them until fine. All of the spices (*rempah*) are sauted (tumis) with a bit of coconut oil. Then, add bay leaves, lemongrass and chicken that has been cleaned and chopped up, and stir. When most of the liquid has dried up, add coconut milk and if the gravy is quite thick and the chicken is tender, then remove from the stove.
 
+<br><u>*Sambal goreng*</u> 
+<br>½ *kati* (~303 g) meat 
+<br>4 tbsp. sliced red onions
+<br>4 slices of ginger
+<br>A bit of sliced lemongrass
+<br>4 cloves garlic, sliced
+<br>½ tspn. shrimp paste
+<br>A bit of granulated sugar
+<br>15 red chillies, thinly-sliced (dried chillies can also be used)
+<br>4 tofu, sliced
+<br>Salt 
+<br>A bit of tamarind
 
-
-
+Meat is cut into small pieces, cleaned well, then fried. Red onions, garlic, ginger, lemongrass are sautéd with cooking oil until yellowish. Then, add the dried chillies that have been sliced thinly, and stir. Add meat that has been fried and tofu that has been cut and fried earlier. Add shrimp paste, and a bit of salt and sugar and tamarind juice. If you like, add some *pati santa*n (coconut milk that has been extracted without adding any water), and stir until dry and remove. Some people also like making this *sambal goreng* with tempeh and long beans that are sliced thinly.
 
 #### **Related Articles**
 <a style="text-decoration: none;" href="/vol-17/issue-4/jan-to-mar-2022/siti-radhiah-cookbooks ">Siti Radhiah’s Cookbooks for the Modern Malay Woman</a>
