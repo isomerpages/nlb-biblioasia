@@ -14,21 +14,25 @@ Because there was a rice shortage during the Japanese Occupation, people ate swe
 Geok Boi's recipes are inspired by tapioca noodles that were sold during wartime, and memories of her father's tapioca dessert. 
 
 <b>Tapioca noodles</b>
-Tapioca Noodles 
-Makes about 500 g noodles
-Serves 4
+<br>Makes about 500 g noodles
+<br>Serves 4
 
 1 heaped rice bowl tapioca chunks (about 150 g)
-1 rice bowl water
-1 heaped rice bowl grated tapioca (about 150 g)
-1 heaped rice bowl tapioca starch (150 g)
-1½ tsp salt
-Coconut milk (optional)
-Cold water
+<br>1 rice bowl water
+<br>1 heaped rice bowl grated tapioca (about 150 g)
+<br>1 heaped rice bowl tapioca starch (150 g)
+<br>1½ tsp salt
+<br>coconut milk (optional)
+<br>clams (optional)
 
-1 pot boiling water
-1 large bowl cold water
-1 cutting board, oiled lightly
+1. In a small pot, mix the tapioca chunks with 1 rice bowl water and bring to the boil. Turn down heat and simmer till tapioca is very tender. Add a little more water if necessary. Cool well, then mash the tapioca till fairly smooth, taking care to remove the tough string in the centre. The boiled tapioca can be mashed into the boiling water, if there is any left.  
+2. In a mixing bowl, mix the mashed tapioca, tapioca starch and grated tapioca together with salt. Add enough coconut milk or water and knead well to form a medium-firm dough. 
+3. Shape into rolls or flat cakes. 
+4. Have ready a pot of boiling water. Drop the rolls or cakes into the boiling water. 
+5. Boil till cakes float up and are translucent. It does not matter if cakes are not completely cooked through.
+6. Scoop out and leave in a large bowl of cold water till ready to prepare the noodles. 
+8. Before stir-frying or dropping into a hot soup, the cakes of noodles have to be cut to preferred thickness. 
+ 
 
 
 <b>Boiled tapioca with grated coconut</b>
