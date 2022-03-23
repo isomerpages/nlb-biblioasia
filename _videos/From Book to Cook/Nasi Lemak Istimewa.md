@@ -26,6 +26,7 @@ Rice is cooked with some thin coconut milk in a steamer. Then, remove it and pou
 Its accompaniments are thinly sliced cucumber, fried anchovies, and chicken eggs or duck eggs made into omelette. *Kacang putih* is soaked first and then fried, or fried peanuts. Red onions and chillies are sliced thinly and fried. Chicken or meat opor. Sambal goreng and serunding.  
 
 <b>*Opor ayam*</b>
+![](/images/Videos:%20From%20Book%20to%20Cook/opor.png)
 <br>1 chicken
 <br>½ tbsp. coriander seeds
 <br>½ tsp. white pepper
