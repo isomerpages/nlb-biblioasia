@@ -29,7 +29,7 @@ RTS Enterprises, *["The Proof Is in the Eating" Recipe Book](https://eservice.nl
 
 Christopher Tan, *[The Way of Kueh: Savouring & Saving Singapore’s Heritage Desserts ](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203962932)*(Singapore: Epigram Books, 2019).
 
-#### **Resources from the archives**
+#### **Resources from the Archives**
 Ministry of Culture, *[Eat More Wheat](https://www.nas.gov.sg/archivesonline/government_records/record-details/aec708c8-aa0a-11ea-a812-001a4a5ba61b)*, July 1967–August 1970. (National Archives of Singapore record reference no. DDB 43 Pt)
 
 Ministry of Culture, *[Eat More Wheat Campaign](https://www.nas.gov.sg/archivesonline/government_records/record-details/a03d75f3-2bb8-11e8-a2a9-001a4a5ba61b)*, July 1967–November 1969. (National Archives of Singapore record reference no. MC 218-67)
