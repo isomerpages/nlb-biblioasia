@@ -12,6 +12,10 @@ In this episode, we make an unusual version of nasi lemak using a recipe from 19
 
 #### **Recipes**
 These recipes were originally published in Jawi in *Memilih Selera* (Choosing Tastes; 1953), and Toffa has translated them into English.
+![](/images/Videos:%20From%20Book%20to%20Cook/nasi%20lemak%20recipe.png)
+
+English translations by Toffa
+
 
 #### **Related Articles**
 <a style="text-decoration: none;" href="/vol-17/issue-4/jan-to-mar-2022/siti-radhiah-cookbooks ">Siti Radhiah’s Cookbooks for the Modern Malay Woman</a>
