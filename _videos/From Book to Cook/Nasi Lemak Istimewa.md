@@ -16,6 +16,34 @@ Toffa made Siti Radhiah's recipes of *nasi lemak berkukus dengan lauk-pauknya* (
 <div style="background-color: white;">Recipe of* nasi lemak berkukus* or steamed nasi lemak, from Siti Radhiah, *Memilih Selera* (Choosing tastes) (Singapore: Harmy, 1953).</div>
 
 English translations by Toffa
+<br>**Nasi lemak berkukus dengan lauk-pauknya (Steamed nasi lemak and its accompaniments)**
+<br><u>*Nasi lemak berkukus*</u>
+<br>2 *kati* (~1210 g) Thai rice
+<br>2 coconuts
+<br>Salt
+
+Rice is cooked with some thin coconut milk in a steamer. Then, remove it and pour in salted thick coconut milk and stir. Steam again until cooked. If you like it fragrant, add a few bay leaves or lemongrass.
+ 
+Its accompaniments are thinly sliced cucumber, fried anchovies, and chicken eggs or duck eggs made into omelette. *Kacang putih* is soaked first and then fried, or fried peanuts. Red onions and chillies are sliced thinly and fried. Chicken or meat opor. Sambal goreng and serunding.  
+
+<br><u>*Opor ayam*</u> 
+<br>1 chicken
+<br>½ tbsp. coriander seeds
+<br>½ teaspoon white pepper
+<br>A pinch of salt
+<br>3 cloves garlic
+<br>10 red onions
+<br>10 candlenuts
+<br>A thumb-sized piece of ginger
+<br>A bit of galangal
+<br>1 coconut
+<br>3 bay leaves
+<br>Some lemongrass
+
+Coriander seeds, salt and white pepper are ground together. Then, add garlic, candlenuts, galangal, ginger and red onions. Grind them until fine. All of the spices (*rempah*) are sauted (tumis) with a bit of coconut oil. Then, add bay leaves, lemongrass and chicken that has been cleaned and chopped up, and stir. When most of the liquid has dried up, add coconut milk and if the gravy is quite thick and the chicken is tender, then remove from the stove.
+
+
+
 
 
 #### **Related Articles**
