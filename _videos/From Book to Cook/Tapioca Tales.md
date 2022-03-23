@@ -12,7 +12,36 @@ Because there was a rice shortage during the Japanese Occupation, people ate swe
 
 #### **Recipes**
 Geok Boi's recipes are inspired by tapioca noodles that were sold during wartime, and memories of her father's tapioca dessert. 
-[screenshot]
+
+<b>Tapioca noodles</b>
+Tapioca Noodles 
+Makes about 500 g noodles
+Serves 4
+
+1 heaped rice bowl tapioca chunks (about 150 g)
+1 rice bowl water
+1 heaped rice bowl grated tapioca (about 150 g)
+1 heaped rice bowl tapioca starch (150 g)
+1½ tsp salt
+Coconut milk (optional)
+Cold water
+
+1 pot boiling water
+1 large bowl cold water
+1 cutting board, oiled lightly
+
+
+<b>Boiled tapioca with grated coconut</b>
+<br>500 g tapioca, peeled and cut into chunks
+<br>200 g gula melaka or to taste
+<br>1/2 tsp. salt 
+<br>500 ml water / thin coconut milk ( coconut milk optional) 
+1. Put all ingredients into a pot and boil till tapioca chunks are done, fluffy and dryish. 
+2. Add more water if needed. The amount of water needed will depend on the size of chunks. 
+3. To check for doneness, stick a fork into the largest piece and break it up. 
+4. When little liquid is left, stir and turn over the tapioca frequently to prevent burning. A few burnt spots are fragrant though. 
+5. To serve, sprinkle freshly grated coconut or a squeeze of coconut cream.
+
 
 #### **Related Articles**
 <a style="text-decoration: none;" href="/vol-15/issue-1/apr-jun-2019/wartime-victuals">Wartime Victuals</a>
