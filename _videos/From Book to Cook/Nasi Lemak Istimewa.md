@@ -21,7 +21,7 @@ Toffa made Siti Radhiah's recipes of *nasi lemak berkukus dengan lauk-pauknya* (
 <br>2 coconuts
 <br>Salt
 
-Rice is cooked with some thin coconut milk in a steamer. Then, remove it and pour in salted thick coconut milk and stir. Steam again until cooked. If you like it fragrant, add a few bay leaves or lemongrass.
+Rice is cooked with  thin coconut milk in a steamer. Then, remove it and pour in salted thick coconut milk and stir. Steam again until cooked. If you like it fragrant, add a few bay leaves or lemongrass.
  
 Its accompaniments are thinly sliced cucumber, fried anchovies, and chicken eggs or duck eggs made into omelette. *Kacang putih* is soaked first and then fried, or fried peanuts. Red onions and chillies are sliced thinly and fried. Chicken or meat opor. Sambal goreng and serunding.  
 
