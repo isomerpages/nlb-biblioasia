@@ -11,7 +11,7 @@ third_nav_title: From Book to Cook
 Curry powder is now commonly sold in pre-mixed packets, but in the past, people used to bring their spices to spice mills to have them ground, before mixing them at home. Well-known chef, cookbook author and culinary instructor Devagi Sanmugam talks about what life was like back then. She also whips up a quick beef rendang using a recipe from 1920, cooked with curry powder and eaten with spaghetti!
   
 #### **Recipes**
-Chef Devagi made Mrs Kinsey’s “rundang” "rundang" recipe from 
+Chef Devagi made Mrs Kinsey’s “rundang” recipe from 
 *[The Mem's Own Cookery Book](/vol-11/issue-4/jan-mar-2016/mems-cookery-book-william-edward-kinsey)* (Singapore : Kelly & Walsh, 1929).
 ![](/images/Videos:%20From%20Book%20to%20Cook/Rundang-Mems%20Own%20Cookery%20Book.png)
  
