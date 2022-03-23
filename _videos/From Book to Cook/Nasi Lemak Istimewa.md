@@ -42,6 +42,7 @@ Its accompaniments are thinly sliced cucumber, fried anchovies, and chicken eggs
 Coriander seeds, salt and white pepper are ground together. Then, add garlic, candlenuts, galangal, ginger and red onions. Grind them until fine. All of the spices (*rempah*) are sautéd (*tumis*) with a bit of coconut oil. Then, add bay leaves, lemongrass and chicken that has been cleaned and chopped up, and stir. When most of the liquid has dried up, add coconut milk. If the gravy is quite thick and the chicken is tender,  remove from the stove.
 
 <b>*Sambal goreng*</b> 
+![](/images/Videos:%20From%20Book%20to%20Cook/sambal%20goreng.png)
 <br>½ *kati* (~303 g) meat 
 <br>4 tbsp. sliced red onions
 <br>4 slices of ginger
