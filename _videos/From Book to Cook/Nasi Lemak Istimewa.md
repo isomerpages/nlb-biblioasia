@@ -49,7 +49,7 @@ Coriander seeds, salt and white pepper are ground together. Then, add garlic, ca
 <br>4 cloves garlic, sliced
 <br>½ tspn. shrimp paste
 <br>A bit of granulated sugar
-<br>15 red chillies, thinly-sliced (dried chillies can also be used)
+<br>15 red chillies, thinly sliced (dried chillies can also be used)
 <br>4 tofu, sliced
 <br>Salt 
 <br>A bit of tamarind
