@@ -13,7 +13,7 @@ In 1967, the Singapore government launched the Eat More Wheat campaign to reduce
 #### **Recipe**
 This recipe calls for unusual ingredients in the noodle dough: evaporated milk and egg. 
 ![](/images/Videos:%20From%20Book%20to%20Cook/Milk%20Noodle%20Soup%20pg%2018-19.jpg)
-<div style="background-color: white;">Recipe of milk noodle soup, from *"The Proof Is in the Eating" Recipe Book* (Singapore: RTS Enterprises, 1969).</div>
+<div style="background-color: white;">Recipe of milk noodle soup, from <i>"The Proof Is in the Eating" Recipe Book</i> (Singapore: RTS Enterprises, 1969).</div>
 
 In the video, Christopher used a *murukku* press to make the noodles!
 ![](/images/Videos:%20From%20Book%20to%20Cook/murukku.png)
