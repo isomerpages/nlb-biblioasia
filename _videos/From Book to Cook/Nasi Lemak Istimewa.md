@@ -11,7 +11,7 @@ third_nav_title: From Book to Cook
 In this episode, we make an unusual version of nasi lemak using a recipe from 1953. The recipe comes from book by Siti Radhiah, an early female Malay cookbook author. Is it really *nasi lemak* if it doesn’t use pandan? Join librarian and food researcher Toffa Abdul Wahed as we find out!
 
 #### **Recipes**
-These recipes were originally published in Jawi in *Memilih Selera* (Choosing Tastes; 1953).
+Toffa made Siti Radhiah's recipes of "steamed nasi lemak and its accompaniments" (*nasi lemak berkukus dengan lauk-pauknya*), which were originally published in Jawi in *Memilih Selera* (Choosing Tastes; 1953).
 ![](/images/Videos:%20From%20Book%20to%20Cook/nasi%20lemak%20recipe.png)
 
 English translations by Toffa
