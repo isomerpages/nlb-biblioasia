@@ -13,6 +13,7 @@ Home economics was taught in Singapore schools to train teenage girls to be good
 #### **Recipe**
 In the video, Sheere replaced some ingredients in the original recipe below from the 1997 home economics textbook: lean meat with hot dogs, pasta sauce with tomato sauce, and cooking oil with olive oil. 
 ![](/images/Videos:%20From%20Book%20to%20Cook/home%20econs%20recipe.jpg)
+<div style="background-color: white;">Recipe of spaghetti Bolognese, from Ethel Chong Su-Hsin et al., *Home Economics Today 2E* (Singapore: Pan Pacific Book for Curriculum Development Institute of Singapore, 1997).</div>
 
 #### **Related Articles**
 <a style="text-decoration: none;" href="/vol-13/issue-4/jan-mar-2018/ideal-sgporean-female"> Recipes for the Ideal Singaporean Female</a>
