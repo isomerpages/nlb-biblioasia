@@ -13,7 +13,7 @@ In this episode, we make an unusual version of nasi lemak using a recipe from 19
 #### **Recipes**
 Toffa made Siti Radhiah's recipes of *nasi lemak berkukus dengan lauk-pauknya* (steamed *nasi lemak* and its accompaniments), which were originally published in Jawi in 1953. True to Siti Radhiah's spirit of sharing recipes, Toffa has translated the recipes into English.
 ![](/images/Videos:%20From%20Book%20to%20Cook/nasi%20lemak%20recipe.png)
-<div style="background-color: white;">Recipe of *nasi lemak berkukus* or steamed nasi lemak, from Siti Radhiah, *Memilih Selera* (Choosing tastes) (Singapore: Harmy, 1953).</div>
+<div style="background-color: white;">Recipe of <i>nasi lemak berkukus</i> or steamed nasi lemak, from Siti Radhiah, <i>Memilih Selera</i> [Choosing tastes] (Singapore: Harmy, 1953).</div>
 
 <b>*Nasi lemak berkukus*</b>
 ![](/images/Videos:%20From%20Book%20to%20Cook/nasi%20lemak.png)
@@ -70,7 +70,7 @@ Meat is cut into small pieces, cleaned well, then fried. Red onions, garlic, gin
 
 
 #### **Related Books**
-Siti Radhiah Mohamed Saleh, *[Memilih Selera](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200055900)* (Singapore: Harmy, 1953).
+Siti Radhiah Mohamed Saleh, *[Memilih Selera](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200055900)* [Choosing tastes] (Singapore: Harmy, 1953).
 
 Khir Johari, *[The Food of Singapore Malays: Gastronomic Travels Through the Archipelago](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205498204)* (Singapore: Marshall Cavendish Editions, 2021).
 
