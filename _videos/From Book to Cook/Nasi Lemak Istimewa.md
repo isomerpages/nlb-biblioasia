@@ -16,6 +16,7 @@ Toffa made Siti Radhiah's recipes of *nasi lemak berkukus dengan lauk-pauknya* (
 <div style="background-color: white;">Recipe of *nasi lemak berkukus* or steamed nasi lemak, from Siti Radhiah, *Memilih Selera* (Choosing tastes) (Singapore: Harmy, 1953).</div>
 
 <b>*Nasi lemak berkukus*</b>
+![](/images/Videos:%20From%20Book%20to%20Cook/nasi%20lemak.png)
 <br>2 *kati* (~1210 g) Thai rice
 <br>2 coconuts
 <br>Salt
