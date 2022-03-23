@@ -22,6 +22,7 @@ Geok Boi's recipes are inspired by tapioca noodles that were sold during wartime
 <br>1 heaped rice bowl grated tapioca (about 150 g)
 <br>1 heaped rice bowl tapioca starch (150 g)
 <br>1½ tsp salt
+<br>fish sauce
 <br>coconut milk (optional)
 <br>clams (optional)
 
