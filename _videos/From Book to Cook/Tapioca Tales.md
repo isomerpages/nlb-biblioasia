@@ -32,10 +32,8 @@ Geok Boi's recipes are inspired by tapioca noodles that were sold during wartime
 6. Scoop out and leave in a large bowl of cold water till ready to prepare the noodles. 
 8. Before stir-frying or dropping into a hot soup, the cakes of noodles have to be cut to preferred thickness. 
  
-
-![](/images/Videos:%20From%20Book%20to%20Cook/tapioca%20boiled.png)
-
 <b>Boiled tapioca with grated coconut</b>
+![](/images/Videos:%20From%20Book%20to%20Cook/tapioca%20boiled.png)
 <br>500 g tapioca, peeled and cut into chunks
 <br>200 g gula melaka or to taste
 <br>1/2 tsp. salt 
