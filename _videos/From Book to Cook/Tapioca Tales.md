@@ -24,7 +24,7 @@ Geok Boi's recipes are inspired by tapioca noodles that were sold during wartime
 <br>ginger
 <br> clams
 <br>Chinese celery
-<br>*For sweet potato noodles, use 300g of sweet potato instead of
+<br>*For sweet potato noodles, use 300 g of sweet potato instead of tapioca, and 300 g of tapioca starch instead of 150 g. 
 
 1. In a small pot, mix the tapioca chunks with one rice bowl water and bring to the boil. Turn down heat and simmer till tapioca is very tender. Add a little more water if necessary. Cool well, then mash the tapioca till fairly smooth, taking care to remove the tough string in the centre. The boiled tapioca can be mashed into the boiling water, if there is any left.  
 2. In a mixing bowl, mix the mashed tapioca, tapioca starch and grated tapioca together with salt. Add enough coconut milk or water and knead well to form a medium-firm dough. 
