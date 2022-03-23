@@ -13,7 +13,7 @@ Curry powder is now commonly sold in pre-mixed packets, but in the past, people 
 #### **Recipes**
 Chef Devagi made Mrs Kinsey’s “rundang” recipe from more than a century ago.
 ![](/images/Videos:%20From%20Book%20to%20Cook/Rundang-Mems%20Own%20Cookery%20Book.png)
-<div style="background-color: white;">Recipe of “rundang”, from W. E. Kinsey, *The Mem's Own Cookery Book* (Singapore: Kelly & Walsh, 1929).</div>
+<div style="background-color: white;">Recipe of “rundang”, from W. E. Kinsey, <i>The Mem's Own Cookery Book</i> (Singapore: Kelly & Walsh, 1929).</div>
 
 Check out how 
 <a style="text-decoration: none;" href="https://devagisanmugam.com/2022/01/devagis-beef-rendang/" target="_blank"> Chef Devagi</a> made small but critical tweaks to Mrs Kinsey’s recipe that made it vastly more “rendang-like”.
