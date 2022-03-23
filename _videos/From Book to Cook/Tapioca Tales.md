@@ -12,15 +12,14 @@ Because there was a rice shortage during the Japanese Occupation, people ate swe
 
 #### **Recipes**
 Geok Boi's recipes are inspired by tapioca noodles that were sold during wartime, and memories of her father's tapioca dessert. 
+![](/images/Videos:%20From%20Book%20to%20Cook/tapioca%20noodles.png)
 
 <b>Tapioca noodles</b>
-<br>Makes about 500 g noodles
-<br>Serves 4
+<br>Makes about 500 g noodles, serves 4
 
 1 heaped rice bowl tapioca chunks (about 150 g)
-<br>1 rice bowl water
-<br>1 heaped rice bowl grated tapioca (about 150 g)
-<br>1 heaped rice bowl tapioca starch (150 g)
+<br>150 g grated tapioca 
+<br>150 g tapioca starch  
 <br>1½ tsp salt
 <br>fish sauce
 <br>coconut milk (optional)
