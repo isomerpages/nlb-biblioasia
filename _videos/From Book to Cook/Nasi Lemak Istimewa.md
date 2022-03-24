@@ -46,7 +46,7 @@ Coriander seeds, salt and white pepper are ground together. Then add garlic, can
 ![](/images/Videos:%20From%20Book%20to%20Cook/sambal%20goreng.png)
 <br>½ *kati* (~303 g) meat 
 <br>4 tbsp. sliced red onions
-<br>4 slices of ginger
+<br>4 slices ginger
 <br>A bit of sliced lemongrass
 <br>4 cloves garlic, sliced
 <br>½ tspn. shrimp paste
