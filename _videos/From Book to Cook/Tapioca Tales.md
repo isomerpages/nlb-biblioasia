@@ -31,11 +31,11 @@ Geok Boi's recipes are inspired by tapioca noodles that were sold during wartime
 3. Shape into rolls or flat cakes. 
 4. Have ready a pot of boiling water. Drop the rolls or cakes into the boiling water. 
 5. Boil till the cakes float up and turn translucent. It does not matter if cakes are not completely cooked through.
-6. Scoop out the cakes and leave them in a large bowl of cold water till one is ready to prepare the noodles. 
-8. Before stir-frying, cut the cakes of noodles into preferred thickness. 
+6. Scoop out the cakes and leave them in a large bowl of cold water.
+8. Cut the cakes into preferred thickness of noodles. 
 9. Heat oil in a wok and lightly fry the aromatics till fragrant. 
 10. Add clams.
-11. Add noodles to the wok together with fish sauce or salt. 
+11. When the clams have opened, add noodles to the wok together with fish sauce or salt. 
 14. Add enough water for gravy and bring it to a boil to meld the flavours. 
 15. Serve hot with sprinkling of chopped herbs. 
  
