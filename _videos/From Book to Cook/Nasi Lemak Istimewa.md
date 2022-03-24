@@ -56,7 +56,7 @@ Ground coriander seeds, salt and white pepper together. Then add garlic, candlen
 <br>Salt 
 <br>A bit of tamarind
 
-Cut the meat into small pieces, cleaned well, then fried. Red onions, garlic, ginger, lemongrass are sautéd with cooking oil until yellowish. Then add the thinly sliced dried chillies and stir. Add the fried meat and cut tofu, followed by shrimp paste, and a bit of salt, sugar and tamarind juice. If you like, add some *pati santan* (coconut milk that has been extracted without adding any water), and stir until dry, and remove from heat. Some people also like making this *sambal goreng* with tempeh and long beans that are sliced thinly.
+Clean the meat well, cut it into small pieces, and fry them. Sautéd red onions, garlic, ginger and lemongrass in cooking oil until yellowish. Then add the thinly sliced dried chillies and stir. Add the fried meat and cut tofu, followed by shrimp paste, and a bit of salt, sugar and tamarind juice. If you like, add some *pati santan* (coconut milk that has been extracted without adding any water). Stir until dry, and remove from heat. Some people also like making this *sambal goreng* with tempeh and long beans that are sliced thinly.
 
 #### **Related Articles**
 <a style="text-decoration: none;" href="/vol-17/issue-4/jan-to-mar-2022/siti-radhiah-cookbooks ">Siti Radhiah’s Cookbooks for the Modern Malay Woman</a>
