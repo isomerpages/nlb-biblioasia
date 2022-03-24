@@ -40,7 +40,7 @@ Its accompaniments are thinly sliced cucumber, fried anchovies, and chicken eggs
 <br>3 bay leaves
 <br>Some lemongrass
 
-Ground coriander seeds, salt and white pepper together. Then add garlic, candlenuts, galangal, ginger and red onions. Grind them until fine. Sautéd (*tumis*) all of the spices (*rempah*) with a bit of coconut oil. Then add bay leaves, lemongrass and chicken that has been cleaned and chopped up, and stir. When most of the liquid has dried up, add coconut milk. When the gravy is quite thick and the chicken is tender, remove from the stove.
+Ground coriander seeds, salt and white pepper together. Then add garlic, candlenuts, galangal, ginger and red onions. Grind them until fine. Sauté (*tumis*) all of the spices (*rempah*) with a bit of coconut oil. Then add bay leaves, lemongrass and chicken that has been cleaned and chopped up, and stir. When most of the liquid has dried up, add coconut milk. When the gravy is quite thick and the chicken is tender, remove from heat.
 
 <b>*Sambal goreng*</b> 
 ![](/images/Videos:%20From%20Book%20to%20Cook/sambal%20goreng.png)
@@ -56,7 +56,7 @@ Ground coriander seeds, salt and white pepper together. Then add garlic, candlen
 <br>Salt 
 <br>A bit of tamarind
 
-Clean the meat well, cut it into small pieces, and fry them. Sautéd red onions, garlic, ginger and lemongrass in cooking oil until yellowish. Then add the thinly sliced dried chillies and stir. Add the fried meat and cut tofu, followed by shrimp paste, and a bit of salt, sugar and tamarind juice. If you like, add some *pati santan* (coconut milk that has been extracted without adding any water). Stir until dry, and remove from heat. Some people also like making this *sambal goreng* with tempeh and long beans that are sliced thinly.
+Clean the meat well, cut it into small pieces, and fry them. Sauté red onions, garlic, ginger and lemongrass in cooking oil until yellowish. Then add the thinly sliced dried chillies and stir. Add the fried meat and cut tofu, followed by shrimp paste, and a bit of salt, sugar and tamarind juice. If you like, add some *pati santan* (coconut milk that has been extracted without adding any water). Stir until dry, and remove from heat. Some people also like making this *sambal goreng* with tempeh and long beans that are sliced thinly.
 
 #### **Related Articles**
 <a style="text-decoration: none;" href="/vol-17/issue-4/jan-to-mar-2022/siti-radhiah-cookbooks ">Siti Radhiah’s Cookbooks for the Modern Malay Woman</a>
