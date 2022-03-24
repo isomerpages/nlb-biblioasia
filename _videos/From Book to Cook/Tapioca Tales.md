@@ -18,7 +18,7 @@ Geok Boi's recipes are inspired by tapioca noodles that were [sold during wartim
 <br>Makes about 500 g of noodles, serves 4
 <br>300 g tapioca*
 <br>150 g tapioca starch 
-<br>1½ tsp salt
+<br>1½ tsp. salt
 <br>fish sauce
 <br>chilli
 <br>ginger
