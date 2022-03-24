@@ -47,8 +47,8 @@ Geok Boi's recipes are inspired by tapioca noodles that were sold during wartime
 <br>500 ml water / thin coconut milk ( coconut milk optional) 
 1. Put all ingredients into a pot and boil till tapioca chunks are done, fluffy and dryish. 
 2. Add more water if needed. The amount of water needed will depend on the size of chunks. 
-3. To check for doneness, stick a fork into the largest piece and break it up. 
-4. When little liquid is left, stir and turn over the tapioca frequently to prevent burning. A few burnt spots are fragrant though. 
+3. To check for doneness, stick a fork into the largest piece. It should break up. 
+4. When little liquid is left, stir and turn over the tapioca frequently to prevent burning, though a few burnt spots are fragrant. 
 5. To serve, sprinkle freshly grated coconut or a squeeze of coconut cream.
 
 
