@@ -40,7 +40,7 @@ Its accompaniments are thinly sliced cucumber, fried anchovies, and chicken eggs
 <br>3 bay leaves
 <br>Some lemongrass
 
-Ground coriander seeds, salt and white pepper together. Then add garlic, candlenuts, galangal, ginger and red onions. Grind them until fine. Sauté (*tumis*) all of the spices (*rempah*) with a bit of coconut oil. Then add bay leaves, lemongrass and chicken that has been cleaned and chopped up, and stir. When most of the liquid has dried up, add coconut milk. When the gravy is thick and the chicken is tender, remove from heat.
+Ground coriander seeds, salt and white pepper together. Then add garlic, candlenuts, galangal, ginger and red onions. Grind them until fine. Sauté all of the spices with a bit of coconut oil. Then add bay leaves, lemongrass and chicken that has been cleaned and chopped up, and stir. When most of the liquid has dried up, add coconut milk. When the gravy is thick and the chicken is tender, remove from heat.
 
 <b>*Sambal goreng*</b> 
 ![](/images/Videos:%20From%20Book%20to%20Cook/sambal%20goreng.png)
