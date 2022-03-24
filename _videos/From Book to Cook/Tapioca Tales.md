@@ -49,7 +49,7 @@ Geok Boi's recipes are inspired by tapioca noodles that were [sold during wartim
 2. Add more water if needed. The amount of water needed will depend on the size of chunks. 
 3. To check for doneness, stick a fork into the largest piece. It should break up. 
 4. When little liquid is left, stir and turn over the tapioca frequently to prevent burning, though a few burnt spots are fragrant. 
-5. To serve, sprinkle freshly grated coconut or a squeeze of coconut cream.
+5. To serve, sprinkle freshly grated coconut or top with a squeeze of coconut cream.
 
 
 #### **Related Articles**
