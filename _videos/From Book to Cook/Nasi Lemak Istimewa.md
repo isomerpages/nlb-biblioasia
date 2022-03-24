@@ -23,7 +23,7 @@ Toffa made Siti Radhiah's recipes of *nasi lemak berkukus dengan lauk-pauknya* (
 
 Rice is cooked with  thin coconut milk in a steamer. Then, remove it and pour in salted thick coconut milk and stir. Steam again until cooked. If you like it fragrant, add a few bay leaves or lemongrass.
  
-Its accompaniments are thinly sliced cucumber, fried anchovies, and chicken eggs or duck eggs made into omelette. *Kacang putih* is soaked first and then fried, or fried peanuts. Red onions and chillies are sliced thinly and fried. Chicken or meat opor. Sambal goreng and serunding.  
+Its accompaniments are thinly sliced cucumber, fried anchovies, and chicken eggs or duck eggs made into omelette. *Kacang putih* is soaked first and then fried, or fried peanuts. Red onions and chillies are sliced thinly and fried. 
 
 <b>*Opor ayam*</b>
 ![](/images/Videos:%20From%20Book%20to%20Cook/opor.png)
@@ -40,7 +40,7 @@ Its accompaniments are thinly sliced cucumber, fried anchovies, and chicken eggs
 <br>3 bay leaves
 <br>Some lemongrass
 
-Coriander seeds, salt and white pepper are ground together. Then, add garlic, candlenuts, galangal, ginger and red onions. Grind them until fine. All of the spices (*rempah*) are sautéd (*tumis*) with a bit of coconut oil. Then, add bay leaves, lemongrass and chicken that has been cleaned and chopped up, and stir. When most of the liquid has dried up, add coconut milk. If the gravy is quite thick and the chicken is tender,  remove from the stove.
+Coriander seeds, salt and white pepper are ground together. Then add garlic, candlenuts, galangal, ginger and red onions. Grind them until fine. All of the spices (*rempah*) are sautéd (*tumis*) with a bit of coconut oil. Then, add bay leaves, lemongrass and chicken that has been cleaned and chopped up, and stir. When most of the liquid has dried up, add coconut milk. If the gravy is quite thick and the chicken is tender,  remove from the stove.
 
 <b>*Sambal goreng*</b> 
 ![](/images/Videos:%20From%20Book%20to%20Cook/sambal%20goreng.png)
