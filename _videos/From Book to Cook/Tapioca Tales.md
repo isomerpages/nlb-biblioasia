@@ -26,14 +26,14 @@ Geok Boi's recipes are inspired by tapioca noodles that were sold during wartime
 <br>Chinese celery
 <br>*For sweet potato noodles, use 300 g of sweet potato instead of tapioca, and 300 g of tapioca starch instead of 150 g. 
 
-1. In a small pot, mix the tapioca chunks with one rice bowl water and bring to the boil. Turn down heat and simmer till tapioca is very tender. Add a little more water if necessary. Cool well, then mash the tapioca till fairly smooth, taking care to remove the tough string in the centre. The boiled tapioca can be mashed into the boiling water, if there is any left.  
+1. In a small pot, mix the tapioca chunks with one rice bowl of water and bring it to a boil. Turn down the heat and simmer till tapioca is very tender. Add a little more water if necessary. Cool well, then mash the tapioca till fairly smooth, taking care to remove the tough string in the centre. The boiled tapioca can be mashed into the boiling water, if there is any left.  
 2. In a mixing bowl, mix the mashed tapioca, tapioca starch and grated tapioca together with salt. Add enough coconut milk or water and knead well to form a medium-firm dough. 
 3. Shape into rolls or flat cakes. 
 4. Have ready a pot of boiling water. Drop the rolls or cakes into the boiling water. 
-5. Boil till cakes float up and are translucent. It does not matter if cakes are not completely cooked through.
-6. Scoop out and leave in a large bowl of cold water till ready to prepare the noodles. 
+5. Boil till the cakes float up and turn translucent. It does not matter if cakes are not completely cooked through.
+6. Scoop out the cakes and leave them in a large bowl of cold water till one is ready to prepare the noodles. 
 8. Before stir-frying, cut the cakes of noodles into preferred thickness. 
-9. Heat oil in a wok and lightly fry the aromatics (chilli and ginger) till fragrant. 
+9. Heat oil in a wok and lightly fry the aromatics till fragrant. 
 10. Add clams.
 11. Add noodles to the wok together with fish sauce or salt. 
 14. Add enough water for gravy and bring it to a boil to meld the flavours. 
