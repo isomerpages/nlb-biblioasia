@@ -4,7 +4,7 @@ permalink: /videos/nasi-lemak
 description: ""
 third_nav_title: From Book to Cook
 ---
-#### Watch this space! ####
+#### Video coming your way on 21 April ####
 
 
 #### **Episode summary** ####
