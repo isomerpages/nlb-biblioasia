@@ -4,7 +4,7 @@ permalink: /videos/tapioca-tales
 description: ""
 third_nav_title: From Book to Cook
 ---
-#### Watch this space! ####
+#### Video coming your way on 14 April ####
 
 
 #### **Episode summary** ####
