@@ -14,7 +14,6 @@ Because there was a rice shortage during the Japanese Occupation, people ate swe
 Geok Boi's recipes are inspired by tapioca noodles that were [sold during wartime](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/syonantimes19440404-1.2.19), and memories of her father's tapioca dessert. 
 
 <b>Tapioca noodles</b>
-![](/images/Videos:%20From%20Book%20to%20Cook/tapioca%20noodles.png)
 <br>Makes about 500 g of noodles, serves 4
 <br>300 g tapioca*
 <br>150 g tapioca starch 
@@ -39,8 +38,9 @@ Geok Boi's recipes are inspired by tapioca noodles that were [sold during wartim
 14. Add enough water for gravy and bring it to a boil to meld the flavours. 
 15. Serve hot with sprinkling of chopped herbs. 
  
+ ![](/images/Videos:%20From%20Book%20to%20Cook/tapioca%20noodles.png)
+
 <b>Boiled tapioca with grated coconut</b>
-![](/images/Videos:%20From%20Book%20to%20Cook/tapioca%20boiled.png)
 <br>500 g tapioca, peeled and cut into chunks
 <br>200 g gula melaka or to taste
 <br>1/2 tsp. salt 
@@ -51,6 +51,7 @@ Geok Boi's recipes are inspired by tapioca noodles that were [sold during wartim
 4. When little liquid is left, stir and turn over the tapioca frequently to prevent burning, though a few burnt spots are fragrant. 
 5. To serve, sprinkle freshly grated coconut or top with a squeeze of coconut cream.
 
+![](/images/Videos:%20From%20Book%20to%20Cook/tapioca%20boiled.png)
 
 #### **Related Articles**
 <a style="text-decoration: none;" href="/vol-15/issue-1/apr-jun-2019/wartime-victuals">Wartime Victuals</a>
