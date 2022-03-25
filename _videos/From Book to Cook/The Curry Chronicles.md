@@ -4,7 +4,7 @@ permalink: /videos/curry-chronicles
 description: ""
 third_nav_title: From Book to Cook
 ---
-#### Video to be released on 7 April ####
+#### Video coming your way on  7 April ####
 
 ![](/images/Videos:%20From%20Book%20to%20Cook/devagi%20nlb.png)
 
