@@ -19,7 +19,7 @@ Toffa made Siti Radhiah's recipes of *nasi lemak berkukus dengan lauk-pauknya* (
 ![](/images/Videos:%20From%20Book%20to%20Cook/nasi%20lemak.png)
 <br>2 *kati* (~1210 g) Thai rice
 <br>2 coconuts
-<br>Salt
+<br>salt
 
 Cook rice with thin coconut milk in a steamer. Then remove it and pour in salted thick coconut milk and stir. Steam again until cooked. If you like it fragrant, add a few bay leaves or lemongrass.
  
@@ -30,15 +30,15 @@ Its accompaniments are thinly sliced cucumber, fried anchovies, and chicken eggs
 <br>1 chicken
 <br>½ tbsp. coriander seeds
 <br>½ tsp. white pepper
-<br>A pinch of salt
+<br>a pinch of salt
 <br>3 cloves garlic
 <br>10 red onions
 <br>10 candlenuts
-<br>A thumb-sized piece of ginger
-<br>A bit of galangal
+<br>a thumb-sized piece of ginger
+<br>a bit of galangal
 <br>1 coconut
 <br>3 bay leaves
-<br>Some lemongrass
+<br>some lemongrass
 
 Ground coriander seeds, salt and white pepper together. Then add garlic, candlenuts, galangal, ginger and red onions. Grind them until fine. Sauté all of the spices with a bit of coconut oil. Then add bay leaves, lemongrass and chicken that has been cleaned and chopped up, and stir. When most of the liquid has dried up, add coconut milk. When the gravy is thick and the chicken is tender, remove from heat.
 
@@ -47,14 +47,14 @@ Ground coriander seeds, salt and white pepper together. Then add garlic, candlen
 <br>½ *kati* (~303 g) meat 
 <br>4 tbsp. sliced red onions
 <br>4 slices ginger
-<br>A bit of sliced lemongrass
+<br>a bit of sliced lemongrass
 <br>4 cloves garlic, sliced
 <br>½ tsp. shrimp paste
-<br>A bit of granulated sugar
+<br>a bit of granulated sugar
 <br>15 red chillies, thinly sliced (dried chillies can also be used)
 <br>4 tofu, sliced
-<br>Salt 
-<br>A bit of tamarind
+<br>salt 
+<br>a bit of tamarind
 
 Clean the meat well, cut it into small pieces, and fry them. Sauté red onions, garlic, ginger and lemongrass in cooking oil. Then add the thinly sliced dried chillies and stir. Add the fried meat and cut tofu, followed by shrimp paste, and a bit of salt, sugar and tamarind juice. If you like, add some *pati santan* (undiluted coconut milk). Stir until dry, and remove from heat. *Sambal goreng* is also made with tempeh and thinly sliced long beans.
 
