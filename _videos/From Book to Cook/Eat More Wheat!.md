@@ -4,8 +4,7 @@ permalink: /videos/eat-more-wheat-campaign
 description: ""
 third_nav_title: From Book to Cook
 ---
-#### Watch this space! ####
-
+![](/images/Videos:%20From%20Book%20to%20Cook/Christoper%20Tan%20with%20Paddy.png)
 
 #### **Episode summary** ####
 In 1967, the Singapore government launched the Eat More Wheat campaign to reduce the import of rice, because it was expensive compared to wheat. Award-winning cookbook author and culinary instructor Christopher Tan tells us about the campaign and makes a unique milk noodle soup dish from a 1969 cookbook, which was published in conjunction with the campaign.
