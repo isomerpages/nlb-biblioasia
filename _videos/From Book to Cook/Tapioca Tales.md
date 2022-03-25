@@ -10,7 +10,12 @@ third_nav_title: From Book to Cook
 #### **Episode summary** ####
 Because there was a rice shortage during the Japanese Occupation, people ate sweet potato and tapioca instead. Lee Geok Boi shows us what the human imagination is capable of by taking the humble tapioca and turning it into two delicious dishes, using only ingredients that were available in Japanese-occupied Singapore.
 
+ ![](/images/Videos:%20From%20Book%20to%20Cook/tapioca%20noodles.png)
+<div style="background-color: white;">Lee Geok Boi’s homemade tapioca and sweet potato noodles with clams.</div>
+
 #### **Recipes**
+
+
 Geok Boi's recipes are inspired by tapioca noodles that were [sold during wartime](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/syonantimes19440404-1.2.19), and memories of her father's tapioca dessert. 
 
 <b>Tapioca noodles</b>
@@ -37,8 +42,7 @@ Geok Boi's recipes are inspired by tapioca noodles that were [sold during wartim
 11. When the clams have opened, add noodles to the wok together with fish sauce or salt. 
 14. Add enough water for gravy and bring it to a boil to meld the flavours. 
 15. Serve hot with sprinkling of chopped herbs. 
- 
- ![](/images/Videos:%20From%20Book%20to%20Cook/tapioca%20noodles.png)
+
 
 <b>Boiled tapioca with grated coconut</b>
 <br>500 g tapioca, peeled and cut into chunks
