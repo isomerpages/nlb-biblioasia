@@ -9,6 +9,9 @@ third_nav_title: From Book to Cook
 
 #### **Episode summary** ####
 In this episode, we make an unusual version of nasi lemak using a recipe from 1953. The recipe comes from a cookbook by Siti Radhiah, an early female Malay cookbook author. Is it really *nasi lemak* if it doesn’t use pandan? Join librarian and food researcher Toffa Abdul Wahed as we find out!
+![](/images/Videos:%20From%20Book%20to%20Cook/nasi%20lemak.png)
+<div style="background-color: white;">Toffa made Siti Radhiah's recipes of <i>nasi lemak berkukus dengan lauk-pauknya</i> (steamed <i>nasi lemak</i> and its accompaniments).</div>
+
 
 #### **Recipes**
 Toffa made Siti Radhiah's recipes of *nasi lemak berkukus dengan lauk-pauknya* (steamed *nasi lemak* and its accompaniments), which were originally published in Jawi. True to Siti Radhiah's spirit of spreading knowledge, Toffa has translated the recipes into English.
@@ -16,7 +19,6 @@ Toffa made Siti Radhiah's recipes of *nasi lemak berkukus dengan lauk-pauknya* (
 <div style="background-color: white;">Recipe of <i>nasi lemak berkukus</i> or steamed nasi lemak, from Siti Radhiah, <i>Memilih Selera</i> [Choosing tastes] (Singapore: Harmy, 1953).</div>
 
 <b>*Nasi lemak berkukus*</b>
-![](/images/Videos:%20From%20Book%20to%20Cook/nasi%20lemak.png)
 <br>2 *kati* (~1210 g) Thai rice
 <br>2 coconuts
 <br>salt
