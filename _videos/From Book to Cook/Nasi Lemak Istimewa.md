@@ -28,7 +28,6 @@ Cook rice with thin coconut milk in a steamer. Then remove it and pour in salted
 Its accompaniments are thinly sliced cucumber, fried anchovies, and chicken eggs or duck eggs made into omelette. *Kacang putih* is soaked first and then fried. Slice red onions and chillies thinly, and fry them. 
 
 <b>*Opor ayam*</b>
-![](/images/Videos:%20From%20Book%20to%20Cook/opor.png)
 <br>1 chicken
 <br>½ tbsp. coriander seeds
 <br>½ tsp. white pepper
@@ -44,8 +43,10 @@ Its accompaniments are thinly sliced cucumber, fried anchovies, and chicken eggs
 
 Ground coriander seeds, salt and white pepper together. Then add garlic, candlenuts, galangal, ginger and red onions. Grind them until fine. Sauté all of the spices with a bit of coconut oil. Then add bay leaves, lemongrass and chicken that has been cleaned and chopped up, and stir. When most of the liquid has dried up, add coconut milk. When the gravy is thick and the chicken is tender, remove from heat.
 
+![](/images/Videos:%20From%20Book%20to%20Cook/opor.png)
+
+
 <b>*Sambal goreng*</b> 
-![](/images/Videos:%20From%20Book%20to%20Cook/sambal%20goreng.png)
 <br>½ *kati* (~303 g) meat 
 <br>4 tbsp. sliced red onions
 <br>4 slices ginger
@@ -59,6 +60,9 @@ Ground coriander seeds, salt and white pepper together. Then add garlic, candlen
 <br>a bit of tamarind
 
 Clean the meat well, cut it into small pieces, and fry them. Sauté red onions, garlic, ginger and lemongrass in cooking oil. Then add the thinly sliced dried chillies and stir. Add the fried meat and cut tofu, followed by shrimp paste, and a bit of salt, sugar and tamarind juice. If you like, add some *pati santan* (undiluted coconut milk). Stir until dry, and remove from heat. *Sambal goreng* is also made with tempeh and thinly sliced long beans.
+
+![](/images/Videos:%20From%20Book%20to%20Cook/sambal%20goreng.png)
+
 
 #### **Related Articles**
 <a style="text-decoration: none;" href="/vol-17/issue-4/jan-to-mar-2022/siti-radhiah-cookbooks ">Siti Radhiah’s Cookbooks for the Modern Malay Woman</a>
