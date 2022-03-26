@@ -14,7 +14,7 @@ Because there was a rice shortage during the Japanese Occupation, people ate swe
 <div style="background-color: white;">Lee Geok Boi’s homemade tapioca and sweet potato noodles with clams.</div>
 
 #### **Recipes**
-Geok Boi's recipes are inspired by tapioca noodles that were [sold during wartime](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/syonantimes19440404-1.2.19), and memories of her father's tapioca dessert. 
+Geok Boi's recipes are inspired by tapioca noodles, which were sold and distributed as rations during the Japanese Occupation, and memories of her father's tapioca dessert. Tapioca, as well as sweet potato, replaced rice as a staple during the war, because it was an easy crop to cultivate and took only three months to mature.
 
 <b>Tapioca noodles</b>
 <br>Makes about 500 g of noodles, serves 4
@@ -84,3 +84,6 @@ Wong Hong Suen, *[Wartime Kitchen: Food and Eating in Singapore](https://eservic
 
 #### **Resources from the Archives**
 Ethel Rogers Mulvany, comp., *[Prisoners of War Cookbook: This is a Collection of Recipes Made by Starving Prisoners of War When They Were Interned in Changi Jail, Singapore](https://www.nas.gov.sg/archivesonline/private_records/record-details/f69c2cf9-7c5d-11e5-ac2a-0050568939ad)* (n.p. 1946). (From National Archives of Singapore accession number 29/2005)
+
+
+[^1] 
