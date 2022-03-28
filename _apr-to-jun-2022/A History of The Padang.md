@@ -116,7 +116,7 @@ Given its age, historical significance and global prominence, it is timely that 
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol%2018%20Issue%201/Authors/Barbara_Quek.png" style="width: 100px; height: 100px;"/>
+<img src="/images/Vol%2018%20Issue%201/Authors/Kevin_Tan.png" style="width: 100px; height: 100px;"/>
 	<b>Dr Kevin Y.L. Tan</b> is Adjunct Professor at the Faculty of Law, National University of Singapore, and Visiting Professor at the S. Rajaratnam School of International Studies, Nanyang Technological University. He specialises in constitutional and administrative law, Singapore legal history and international human rights. He has written and edited over 50 books on the law, history and politics of Singapore.</div>
 
 	
