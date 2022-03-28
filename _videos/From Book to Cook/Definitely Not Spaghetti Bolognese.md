@@ -5,10 +5,13 @@ description: ""
 third_nav_title: From Book to Cook
 ---
 #### Video coming your way on 5 May #### 
-
+![](/images/Videos:%20From%20Book%20to%20Cook/spaghetti%20ketchup%20measuring%20technique.png)
 
 #### **Episode summary** ####
 Home economics was taught in Singapore schools to train teenage girls to be good homemakers. The changing syllabus for this subject over the different decades tells a story of the “ideal” Singaporean woman and gender roles. Food writer and researcher Sheere Ng explores home economics while making a unique pasta dish, one that she was taught in her home economics class. (Hint: It involves a sauce that normally goes with fries!)
+![](/images/Videos:%20From%20Book%20to%20Cook/spaghetti%20ketchup.png)
+<div style="background-color: white;">A twist on the classic spaghetti Bolognese.</div>
+
 
 #### **Recipe**
 Instead of using lean meat and tomato paste as called for in the recipe from the 1997 home economics textbook, Sheere used hot dogs and tomato ketchup instead. In fact, home economics textbooks of the 1990s taught students how to use convenience foods with fresh food to make nutritious home-cooked meals. Those textbooks conveyed a different notion of homemaking, that household chores could be outsourced.
