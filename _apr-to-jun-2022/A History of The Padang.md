@@ -104,4 +104,4 @@ Given its age, historical significance and global prominence, it is timely that 
 	
 #### **NOTES**
 
-[^1]: Gloria Chandy, “[The Pioneer Cinemas](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19790319-1.2.48),” *New Nation*, 19 March 1979, 9. (From NewspaperSG)
+[^1]: *Sulalat al-Salatin* (*Genealogy of Kings*) is one of the most important works in Malay literature. It was likely composed in the 17th century by Bendahara Tun Seri Lanang, Prime Minister of the Johor Sultanate. 
