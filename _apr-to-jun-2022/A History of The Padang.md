@@ -5,7 +5,7 @@ description: ""
 ---
 #### **Kevin Tan** looks at what makes the 4.3-hectare patch of green in front of the former City Hall building so special.
 
-![](/images/Vol%2018%20Issue%201/Tan%20Cheng%20Kee/cover.png)
+![](/images/Vol%2018%20Issue%201/The%20Padang/padang12.png)
 <div style="background-color: white;"> <i>The Esplanade 1847</i>, an oil painting by John Turnbull Thomson, first Government Surveyor of Singapore. <i>Collection of the National Museum of Singapore, National Heritage Board. Gift of Dr John Hall-Jones.
 </i></div>
 
