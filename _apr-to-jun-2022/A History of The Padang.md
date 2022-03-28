@@ -6,8 +6,7 @@ description: ""
 #### **Kevin Tan** looks at what makes the 4.3-hectare patch of green in front of the former City Hall building so special.
 
 ![](/images/Vol%2018%20Issue%201/The%20Padang/padang12.png)
-<div style="background-color: white;"> <i>The Esplanade 1847</i>, an oil painting by John Turnbull Thomson, first Government Surveyor of Singapore. <i>Collection of the National Museum of Singapore, National Heritage Board. Gift of Dr John Hall-Jones.
-</i></div>
+<div style="background-color: white;"> <i>The Esplanade 1847</i>, an oil painting by John Turnbull Thomson, first Government Surveyor of Singapore. <i>Collection of the National Museum of Singapore, National Heritage Board. Gift of Dr John Hall-Jones.</i></div>
 
 The Padang occupies a special place in Singapore’s history. Younger Singaporeans know it as the traditional site for many National Day Parades while older Singaporeans will remember it as the venue for the installation of Yusof Ishak as Yang di-Pertuan Negara (Malay for “Head of State”) in December 1959. Four years later, it was at the Padang that founding Prime Minister Lee Kuan Yew announced Singapore’s merger with Malaysia. A little further back, in September 1945, a victory parade was held at the Padang to commemorate Japan’s formal surrender following the end of World War II. 
 
@@ -42,6 +41,10 @@ The Singapore Recreation Club, which occupies the eastern end of the Esplanade, 
 The Padang’s emergence as Singapore’s most important colonial civic space was organic, rather than by design. If it was intended as a *maidan* – the Persian term for a planned urban field around which major official buildings were built, as can be found in India and Penang – as architectural historian Lai Chee Kien argues,[14] then that planning came very late in Britain’s colonisation of Singapore, almost 100 years after Raffles first set foot on the island. 
 
 Raffles had instructed that the north bank of the Singapore River be reserved for civic and public purposes, but his plan was thwarted when Farquhar allowed Europeans to build their private residences on the fringe of the Padang. One of these houses was later converted into the London Hotel, and subsequently renamed Hotel de l’Esperance and thereafter as Hotel de l’Europe.[15]
+
+![](/images/Vol%2018%20Issue%201/The%20Padang/Padang%201911.png)
+<div style="background-color: white;"> View of the Padang, 1911. In the background from left: clock tower of Victoria Memorial Hall, Singapore Cricket Club, Old Court House and Grand Hotel de l’Europe. The statue of Stamford Raffles can be seen on the right. <i>Arshak C. Galstaun Collection, courtesy of National Archives of Singapore.</i></div>
+
 
 The first move in transforming the Padang into a centrepiece of British power was the Municipal Commission’s (formerly the Municipal Committee) acquisition of part of the Hotel de l’Europe site nearer the junction of Coleman Street in 1899 for its new Municipal Building.[16] Due to World War I and other delays, the new Municipal Building (renamed City Hall in 1951) was completed only in 1929. 
 
