@@ -10,8 +10,7 @@ third_nav_title: From Book to Cook
 #### **Episode summary** ####
 Because there was a rice shortage during the Japanese Occupation, people ate sweet potato and tapioca instead. Writer and cookbook author Lee Geok Boi shows us what the human imagination is capable of by taking the humble tapioca and turning it into two delicious dishes, using only ingredients that were available in Japanese-occupied Singapore.
 
- ![](/images/Videos:%20From%20Book%20to%20Cook/tapioca%20noodles.png)
-<div style="background-color: white;">Lee Geok Boi’s homemade tapioca and sweet potato noodles with clams.</div>
+![](/images/Videos:%20From%20Book%20to%20Cook/ww2%20tapioca%20sweet%20potato%20noodles.png)<div style="background-color: white;">Lee Geok Boi’s homemade tapioca and sweet potato noodles with clams.</div>
 
 #### **Recipes**
 Geok Boi's recipes are inspired by tapioca noodles, which were sold and distributed as rations during the Japanese Occupation, and memories of her father's tapioca dessert. Tapioca, as well as sweet potato, replaced rice as a staple during the war, because it was an easy crop to cultivate and took only three months to mature.
@@ -41,7 +40,6 @@ Geok Boi's recipes are inspired by tapioca noodles, which were sold and distribu
 11. Serve hot with sprinkling of chopped herbs. 
 
 
-
 <b>Boiled tapioca with grated coconut</b>
 <br>500 g tapioca, peeled and cut into chunks
 <br>200 g gula melaka or to taste
@@ -53,8 +51,8 @@ Geok Boi's recipes are inspired by tapioca noodles, which were sold and distribu
 4. When little liquid is left, stir and turn over the tapioca frequently to prevent burning, though a few burnt spots are fragrant. 
 5. To serve, sprinkle freshly grated coconut or top with a squeeze of coconut cream.
 
-
-
+![](/images/Videos:%20From%20Book%20to%20Cook/geok%20boi%20boiled%20tapioca.png)
+<div style="background-color: white;">Lee Geok Boi’s boiled tapioca with grated coconut.</div>
 
 #### **Related Articles**
 <a style="text-decoration: none;" href="/vol-15/issue-1/apr-jun-2019/wartime-victuals">Wartime Victuals</a>
