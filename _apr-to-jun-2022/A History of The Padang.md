@@ -104,4 +104,16 @@ Given its age, historical significance and global prominence, it is timely that 
 	
 #### **NOTES**
 
-[^1]: *Sulalat al-Salatin* (*Genealogy of Kings*) is one of the most important works in Malay literature. It was likely composed in the 17th century by Bendahara Tun Seri Lanang, Prime Minister of the Johor Sultanate. 
+[^1]: *Sulalat al-Salatin* (*Genealogy of Kings*) is one of the most important works in Malay literature. It was likely composed in the 17th century by Bendahara Tun Seri Lanang, Prime Minister of the Johor Sultanate.
+
+[^2]: John Leyden, *John Leyden’s Malay Annals* (Malaysia: MBRAS, 2001), 43. (From National Library, Singapore, Call no. RSING 959.51 JOH)
+
+[^3]: Munshi Abdullah, “The Hikayat Abdullah,” trans. A.H. Hill, *Journal of the Malayan Branch of the Royal Asiatic Society* 38, no. 3 (June 1955): 128, 130. (From JSTOR via NLB’s eResources website) 
+
+[^4]: Munshi Abdullah, “The Hikayat Abdullah,” 137–141.
+
+[^5]: Charles Burton Buckley, *An Anecdotal History of Old Times in Singapore* (Singapore: Oxford University Press, 1984), 286. (From National Library, Singapore, Call no. RSING 959.57 BUC)
+
+[^6]: “Our Esplanade,” *Singapore Free Press and Mercantile Advertiser*, 23 August 1900, 3; “Editorial,” Straits Times, 12 August 1903, 4. (From NewspaperSG)
+
+[^7]: This famous etching was published in Sophia Raffles, *Memoir of the Life and Public Services of Sir Thomas Stamford Raffles, F.R.S. &c. Particularly in the Government of Java, 1811–1816, and of Bencoolen and Its Dependencies 1817–1824; with Details of the Commerce and Resources of the Eastern Archipelago, and Selections from His Correspondence* (London: John Murray, 1830), 525. (From BookSG)
