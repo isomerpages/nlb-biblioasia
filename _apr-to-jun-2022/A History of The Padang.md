@@ -59,3 +59,40 @@ The official programme for the Tentyo-Setu (Emperor’s birthday) published on 2
 Beyond ceremonial events, the Japanese took a practical attitude towards the Padang. On 17 February 1942, shortly after the fall of Singapore, they used it as an assembly ground to hold and interrogate the European population – civilians and prisoners-of-war – before marching them off to internment camps in Changi and Katong.[24] In 1944, the Padang was turned into a plot for planting tapioca as part of the Grow More Food Campaign which proved ultimately futile.[25]
 
 After the British reimposed its authority on Singapore, it celebrated the end of the war with a grand surrender ceremony at the Municipal Building and a military parade at the Padang in September 1945. On 12 September 1945, before the surrender ceremony, Admiral Lord Louis Mountbatten, Supreme Allied Commander Southeast Asia, inspected the parade, “stopping here and there to talk to a British marine, a Dogra, a Punjabi, a British soldier and a French soldier”.[26]
+
+#### **Of Contestation and Confrontation**
+
+Given the Padang’s role at the heart of British colonial power, it comes as no surprise that it was also the site of confrontation, rallies, protests and demonstrations. The first confrontation was silent but deeply symbolic. On 6 January 1946, a contingent of 16 guerrilla leaders of the Malayan Resistance Movement, led by Chin Peng, received the Burma Star and the 1939–45 War Medal from Mountbatten at an award ceremony. As they did so, 11 of them gave silent clenched-fist salutes. Two years later, the Malayan Communist Party, led by Chin Peng, launched its anti-colonial armed struggle from the Malayan jungle.[27]
+
+The Padang was also where the Maria Hertogh riots first erupted. On 11 December 1950, “mob violence broke out… in front of the Supreme Court” at around 1 pm over an appeal related to the custody lawsuit of Maria Hertogh. “Two Malays were shot, and several other Malays and Muslims were injured.”[28] Riots broke out throughout the city and when law and order was finally restored on 13 December, 18 people had died and 173 injured.[29]
+
+Because it was so easy to stage large rallies and gatherings at the Padang, it was just as easy to capitalise on these huge crowds to foment trouble. Take the 1963 protest rally organised by the Chinese Chamber of Commerce, for example. Held on 25 August, the rally was organised to demand reparations from Japan for its wartime atrocities. A massive crowd of some 120,000 people – reportedly one of the largest in Singapore’s history – gathered at the Padang.[30] In the run-up to this rally, the Special Branch and the Criminal Investigations Department discovered that pro-communist elements planned to exploit the meeting to stage an anti-Malaysia campaign. The entire police force – 5,000 men and troops – was placed on emergency alert.[31]
+
+As then Prime Minister Lee Kuan Yew started speaking, the agitators began their organised booing. Lee challenged them to “come up to the City Hall and present their case” and then ordered floodlights to be turned on the several thousand pro-communist elements who had “formed a belt from one end of the Padang to the other”.[32] The booing died down and the agitators faded into the crowd. A potential public order disruption had been averted. 
+
+#### **The People’s Padang**
+
+In 1959, Singapore became a self-governing state after the People’s Action Party won the much-anticipated and fiercely contested general election on 30 May 1959 by a huge margin. Speaking at a victory rally on the steps of City Hall on 3 June, Prime Minister Lee Kuan Yew told the crowd that his party had planned election rallies at the Padang at night but could not have them because “a small group of Europeans who were given this field by the former Colonial Government, refused it, although they only use it in the day time for a few people to play games”. “Well,” he noted, “times have changed, and will stay changed.”[33]
+
+From 3 to 10 December 1959, this zeitgeist was translated into National Loyalty Week, a campaign to evoke a sense of loyalty and patriotism in the citizens of the newly self-governing state. By 8 am on 3 December, a crowd of 10,000 had gathered at the Padang. Inside City Hall, Yusof Ishak was sworn in as Singapore’s first Malayan-born Yang di-Pertuan Negara in a historic nine-minute ceremony. Following a 17-gun salute, the state flag was unfurled for the first time and the “huge crowd which jammed the Padang and its approaches… down Nicoll Highway, stood and joined in the singing of the new national anthem”, Majulah Singapura, composed by Zubir Said. A big march-past lasting over an hour followed.[34]
+
+At the conclusion of National Loyalty Week on 10 December, a star-studded Aneka Ragam Ra’ayat (People’s Cultural Concerts) was held on the steps of City Hall. These shows featured a multiracial and multicultural programme with the hope that a new Malayan culture would emerge through “the interaction of our rich and varied cultures”.[35]
+
+The Padang was also witness to a pivotal moment in Singapore’s history: merger with Malaysia. After many rounds of fraught and complex negotiations over the terms of the merger, an agreement was finally signed on 9 July 1963. On 31 August 1963, Prime Minister Lee unilaterally declared Singapore’s de facto independence at the Padang as “trustees for the Federal Government (in) these 15 days”.[36]
+
+Two weeks later, on Malaysia Day, Prime Minister Lee spoke at the Padang again in front of thousands of people. His voice shaking with emotion and with tears welling up in his eyes, he declared his hope, in a 275-word proclamation, that the merger would be “a relationship between brothers, not a relationship between master and servant”.[37] However, the relationship was not a happy one, and on 9 August 1965, Singapore separated from Malaysia and became an independent and sovereign nation.
+
+#### **A Place for the Nation**
+
+When Singapore celebrated its first anniversary as an independent state with a parade on 9 August 1966, it was only natural that it be held at the Padang. Over 23,000 Singaporeans took part in the parade which began at 9 am (parades were held in the evening from 1973 onwards). Six contingents of the People’s Defence Force were on parade, and four government ministers marched as officer cadets in that contingent.[38] It was a simple but momentous parade that instilled great pride in the new nation. Two years later, in 1968, it became “a gigantic display of the rugged society” as an hour-long downpour pelted the parade formations and spectators relentlessly.[39]
+
+As an independent state, Singapore continued to use the Padang as a major parade ground and gathering space to galvanise the people, instil pride in them and rally them to a cause. It comes as no surprise that it was the sole site for the annual National Day Parade (NDP) for the next 10 years. It was only in 1975 that decentralised parades were held, but the main parade returned to the Padang every few years. 
+
+Other than the NDP, the Padang continues to be the venue for sporting events at local, regional and international levels. For many years, the finals of the inter-school rugby competition were held at the Padang, which is also home to the Singapore Cricket Club International Rugby 7s.[40]
+
+The Padang was also the backdrop to the world’s first-ever nighttime Formula 1 Grand Prix. During the inaugural race on 14 September 2008 – as Fernando Alonso raced around the 5.06-kilometre Marina Bay Circuit to clinch first place – images of the Padang were beamed live into living rooms across the world.[41] Singapore had truly come of age as a global city and destination.
+
+
+
+Given its age, historical significance and global prominence, it is timely that the legislation has been amended to allow the Padang to take its place on the list of Singapore’s national monuments.
+
