@@ -11,8 +11,7 @@ third_nav_title: From Book to Cook
 Home economics was taught in Singapore schools to train teenage girls to be good homemakers. The changing syllabus for this subject over the different decades tells a story of the “ideal” Singaporean woman and gender roles. Food writer and researcher Sheere Ng explores home economics while making a unique pasta dish, one that she was taught in her home economics class. (Hint: It involves a sauce that normally goes with fries!)
 
 #### **Recipe**
-The spaghetti Bolognese recipe in the 1997 home economics textbook called for lean meat and tomato paste, and Sheere replaced them with hot dogs and tomato ketchup. 
-In fact, [home economics textbooks of the 1990s](https://biblioasia.nlb.gov.sg/vol-13/issue-4/jan-mar-2018/ideal-sgporean-female) taught students how to use convenience foods with fresh food to make nutritious home-cooked meals. Those textbooks conveyed a different notion of homemaking, that household chores could be outsourced.
+Instead of using lean meat and tomato paste as called for in the recipe from the 1997 home economics textbook, Sheere used hot dogs and tomato ketchup instead. In fact, home economics textbooks of the 1990s taught students how to use convenience foods with fresh food to make nutritious home-cooked meals. Those textbooks conveyed a different notion of homemaking, that household chores could be outsourced.
 ![](/images/Videos:%20From%20Book%20to%20Cook/home%20econs%20recipe.jpg)
 <div style="background-color: white;">Recipe of spaghetti Bolognese, from Ethel Chong Su-Hsin et al., <i>Home Economics Today 2E</i> (Singapore: Pan Pacific Book for Curriculum Development Institute of Singapore, 1997).</div>
 
