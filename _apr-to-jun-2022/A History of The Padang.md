@@ -107,17 +107,17 @@ Given its age, historical significance and global prominence, it is timely that 
 
 [^1]: *Sulalat al-Salatin* (*Genealogy of Kings*) is one of the most important works in Malay literature. It was likely composed in the 17th century by Bendahara Tun Seri Lanang, Prime Minister of the Johor Sultanate.
 
-[^2]: John Leyden, *John Leyden’s Malay Annals* (Malaysia: MBRAS, 2001), 43. (From National Library, Singapore, Call no. RSING 959.51 JOH)
+[^2]: John Leyden, [*John Leyden’s Malay Annals*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10399338) (Malaysia: MBRAS, 2001), 43. (From National Library, Singapore, Call no. RSING 959.51 JOH)
 
-[^3]: Munshi Abdullah, “The Hikayat Abdullah,” trans. A.H. Hill, *Journal of the Malayan Branch of the Royal Asiatic Society* 38, no. 3 (June 1955): 128, 130. (From JSTOR via NLB’s eResources website) 
+[^3]: Munshi Abdullah, “The Hikayat Abdullah,” trans. A.H. Hill, *Journal of the Malayan Branch of the Royal Asiatic Society* 38, no. 3 (June 1955): 128, 130. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website) 
 
 [^4]: Munshi Abdullah, “The Hikayat Abdullah,” 137–141.
 
-[^5]: Charles Burton Buckley, *An Anecdotal History of Old Times in Singapore* (Singapore: Oxford University Press, 1984), 286. (From National Library, Singapore, Call no. RSING 959.57 BUC)
+[^5]: Charles Burton Buckley, [*An Anecdotal History of Old Times in Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082239) (Singapore: Oxford University Press, 1984), 286. (From National Library, Singapore, Call no. RSING 959.57 BUC)
 
-[^6]: “Our Esplanade,” *Singapore Free Press and Mercantile Advertiser*, 23 August 1900, 3; “Editorial,” Straits Times, 12 August 1903, 4. (From NewspaperSG)
+[^6]: “[Our Esplanade](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19000823-1.2.24),” *Singapore Free Press and Mercantile Advertiser*, 23 August 1900, 3; “[Editorial](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19030812-1.2.9),” Straits Times, 12 August 1903, 4. (From NewspaperSG)
 
-[^7]: This famous etching was published in Sophia Raffles, *Memoir of the Life and Public Services of Sir Thomas Stamford Raffles, F.R.S. &c. Particularly in the Government of Java, 1811–1816, and of Bencoolen and Its Dependencies 1817–1824; with Details of the Commerce and Resources of the Eastern Archipelago, and Selections from His Correspondence* (London: John Murray, 1830), 525. (From BookSG)
+[^7]: This famous etching was published in Sophia Raffles, [*Memoir of the Life and Public Services of Sir Thomas Stamford Raffles, F.R.S. &c. Particularly in the Government of Java, 1811–1816, and of Bencoolen and Its Dependencies 1817–1824; with Details of the Commerce and Resources of the Eastern Archipelago, and Selections from His Correspondence*](https://eresources.nlb.gov.sg/printheritage/detail/6dd159de-811f-4012-9b43-01676a9c49a7.aspx) (London: John Murray, 1830), 525. (From BookSG)
 
 [^8]: For a depiction from the shoreline, see the painting titled *Singapore, From the Esplanade* by Captain Charles Ramsay Drinkwater Bethune published in James Augustus St John, *Views in the Eastern Archipelago: Borneo, Sarawak, Labuan, &c. &c. &c. *(London: McLean, 1847), 65. (Not available in NLB holdings)
 
