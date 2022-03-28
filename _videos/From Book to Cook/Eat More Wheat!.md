@@ -10,7 +10,7 @@ third_nav_title: From Book to Cook
 
 #### **Episode summary** ####
 In 1967, the Singapore government launched the Eat More Wheat campaign to reduce the import of rice, because it was expensive compared to wheat. Award-winning cookbook author and culinary instructor Christopher Tan tells us about the campaign and makes a unique milk noodle soup dish from a 1969 cookbook, which was published in conjunction with the campaign.
- ![](/images/Videos:%20From%20Book%20to%20Cook/eat%20more%20wheat%20campaign%20milk%20noodles.png)<div style="background-color: white;">Milk noodle soup, a recipe submitted by a contestant Mrs Choa to an Eat More Wheat cooking contest in the late 1960s.</div>
+![](/images/Videos:%20From%20Book%20to%20Cook/eat%20more%20wheat%20campaign%20milk%20noodles.png) <div style="background-color: white;">Milk noodle soup, a recipe submitted by a contestant Mrs Choa to an Eat More Wheat cooking contest in the late 1960s.</div>
 
 
 #### **Recipe**
@@ -18,8 +18,7 @@ This recipe calls for evaporated milk in the noodle dough, an unusual ingredient
 <div style="background-color: white;">Recipe of milk noodle soup, from <i>"The Proof Is in the Eating" Recipe Book</i> (Singapore: RTS Enterprises, 1969).</div>
 
 In the video, Christopher used a *murukku* press to make the noodles.
-![](/images/Videos:%20From%20Book%20to%20Cook/murukku.png)
-
+![](/images/Videos:%20From%20Book%20to%20Cook/eat%20more%20wheat%20campaign%20milk%20noodles%20murukku%20press.png)
 
 #### **Related Articles**
 <a style="text-decoration: none;" href="/vol-16/issue-1/apr-jun-2020/metric"> Milestones to the Metric System</a>
