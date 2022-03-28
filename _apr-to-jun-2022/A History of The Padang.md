@@ -169,19 +169,19 @@ Given its age, historical significance and global prominence, it is timely that 
 
 [^32]: R. Chandran, F. Rozario, R. Pestana and Lim Beng Tee, “[Lee Foils Bid to Spark Off Trouble at Rally](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19630826-1.2.6),” *Straits Times*, 26 August 1963, 3. (From NewspaperSG)
 
-[^33]: Lee Kuan Yew, “Victory Rally at the Padang,” speech, 3 June 1959, transcript. (From National Archives of Singapore, Document no. lky19590603)
+[^33]: Lee Kuan Yew, “[Victory Rally at the Padang](https://www.nas.gov.sg/archivesonline/speeches/record-details/73ccb0e5-115d-11e3-83d5-0050568939ad),” speech, 3 June 1959, transcript. (From National Archives of Singapore, Document no. lky19590603)
 
-[^34]: “Singapore Rejoices,” *Straits Times*, 4 December 1959, 1. (From NewspaperSG) 
+[^34]: “[Singapore Rejoices](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19591204-1.2.2),” *Straits Times*, 4 December 1959, 1. (From NewspaperSG) 
 
-[^35]: “A Memorable Week Ends,” *Straits Times*, 10 December 1959, 1; “Lee: We’ll Breed New Strain of Culture,” *Straits Times*, 3 August 1959, 4. (From NewspaperSG)
+[^35]: “[A Memorable Week Ends](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19591210-1.2.7),” *Straits Times*, 10 December 1959, 1; “[Lee: We’ll Breed New Strain of Culture](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19590803-1.2.37),” *Straits Times*, 3 August 1959, 4. (From NewspaperSG)
 
-[^36]: “Lee: We Are Free!,” *Straits Times*, 1 September 1963, 1. (From NewspaperSG)
+[^36]: “[Lee: We Are Free!](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19630901-1.2.14),” *Straits Times*, 1 September 1963, 1. (From NewspaperSG)
 
-[^37]: “Lee’s Proud Moment,” *Straits Times*, 17 September 1963, 4; “Singapore Celebrates its Proudest Moment,” *Straits Times*, 17 September 1964, 15. (From NewspaperSG) 
+[^37]: “[Lee’s Proud Moment](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19630917-1.2.14),” *Straits Times*, 17 September 1963, 4; “[Singapore Celebrates its Proudest Moment](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19630917-1.2.76),” *Straits Times*, 17 September 1964, 15. (From NewspaperSG) 
 
-[^38]: Chew Hui Min, “National Day Parade 1966: 10 Things About the Inaugural Parade,” *Straits Times*, 5 March 2015, https://www.straitstimes.com/singapore/national-day-parade-1966-10-things-about-the-inaugural-parade; “Day and Night of Joy and Fun in Singapore,” *Straits Times*, 10 August 1966, 1; “Ministers and MPs Seen in Uniform by Public for the First Time,” *Straits Times*, 10 August 1966, 6. (From NewspaperSG)
+[^38]: Chew Hui Min, “National Day Parade 1966: 10 Things About the Inaugural Parade,” *Straits Times*, 5 March 2015, https://www.straitstimes.com/singapore/national-day-parade-1966-10-things-about-the-inaugural-parade; “[Day and Night of Joy and Fun in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19660810-1.2.4),” *Straits Times*, 10 August 1966, 1; “[Ministers and MPs Seen in Uniform by Public for the First Time](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19660810-1.2.33),” *Straits Times*, 10 August 1966, 6. (From NewspaperSG)
 
-[^39]: Jackie Sam and Judith Yong, “The Rugged Society’s Day...,” *Straits Times*, 10 August 1968, 1. (From NewspaperSG) 
+[^39]: Jackie Sam and Judith Yong, “[The Rugged Society’s Day...](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19680810-1.2.3),” *Straits Times*, 10 August 1968, 1. (From NewspaperSG) 
 
 [^40]: “About Us,” Singapore Cricket Club, accessed 15 February 2022, https://www.sccrugbysevens.com/. 
 
