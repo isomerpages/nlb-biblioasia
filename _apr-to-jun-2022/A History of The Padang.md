@@ -185,4 +185,3 @@ Given its age, historical significance and global prominence, it is timely that 
 [^40]: “About Us,” Singapore Cricket Club, accessed 15 February 2022, https://www.sccrugbysevens.com/. 
 
 [^41]: “Singapore – Marina Bay,” Formula One World Championship Limited, accessed 15 February 2022, https://www.formula1.com/en/information.singapore-marina-baystreetcircuit.7LXNQUCHTyR5yMQPlIk7Lv.html; “Do You Remember… F1’s First Ever Night Race,” Formula One World Championship Limited, 14 September 2015, https://www.formula1.com/en/latest/features/2015/9/do-you-remember----f1s-first-ever-night-race.html.
-
