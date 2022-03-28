@@ -145,13 +145,13 @@ Given its age, historical significance and global prominence, it is timely that 
 
 [^20]: “[Centenary of Singapore](https://safe.menlosecurity.com/http:/eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19190207-1.2.45),” *Straits Times*, 7 February 1919, 27. (From NewspaperSG)
 
-[^21]: Constance Mary Turnbull, *A History of Singapore, 1819–2005* (Singapore: NUS Press, 2009), 199. (From National Library, Singapore, Call no. RSING 959.57 TUR)
+[^21]: Constance Mary Turnbull, [*A History of Singapore, 1819–2005*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13206047) (Singapore: NUS Press, 2009), 199. (From National Library, Singapore, Call no. RSING 959.57 TUR)
 
-[^22]: Turnbull, *History of Singapore*, 1819–2005, 205; “Tentyo-Setu Celebrations,” *Syonan Shimbun*, 30 April 1942, 5. (From NewspaperSG). [Note: Odate Shigeo was Mayor from March 1942 to July 1943. He was replaced by Naito Kanichi who held the office until the end of the Japanese Occupation.]
+[^22]: Turnbull, [*History of Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13206047), 1819–2005, 205; “[Tentyo-Setu Celebrations](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/syonantimes19420430-1.2.31),” *Syonan Shimbun*, 30 April 1942, 5. (From NewspaperSG). [Note: Odate Shigeo was Mayor from March 1942 to July 1943. He was replaced by Naito Kanichi who held the office until the end of the Japanese Occupation.]
 
-[^23]: Turnbull, *History of Singapore*, 1819–2005, 217–18; “With ‘Freedom or Death’ for Motto, Men Ready to Die for Indian Independence,” *Syonan Shimbun*, 9 July 1943, 1. (From NewspaperSG)
+[^23]: Turnbull, [*History of Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13206047), 1819–2005, 217–18; “[With ‘Freedom or Death’ for Motto, Men Ready to Die for Indian Independence](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/syonantimes19430709-1.2.2.3),” *Syonan Shimbun*, 9 July 1943, 1. (From NewspaperSG)
 
-[^24]: Turnbull, *History of Singapore, 1819–2005,* 196–97.
+[^24]: Turnbull, [*History of Singapore, 1819–2005*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13206047), 196–97.
 
 [^25]: Lee Geok Boi, *The Syonan Years: Singapore Under Japanese Rule 1942–1945* (Singapore: National Archives of Singapore and Epigram, 2005), 163 (From National Library, Singapore, Call no. RSING q940.535957 LEE-[WAR]); Joshua Chia Yeong Jia, “Grow More Food Campaign,” in *Singapore Infopedia*. National Library Board Singapore. Article published 2016.
 
