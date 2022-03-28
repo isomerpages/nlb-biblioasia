@@ -84,5 +84,3 @@ Wong Hong Suen, *[Wartime Kitchen: Food and Eating in Singapore](https://eservic
 #### **Resources from the Archives**
 Ethel Rogers Mulvany, comp., *[Prisoners of War Cookbook: This is a Collection of Recipes Made by Starving Prisoners of War When They Were Interned in Changi Jail, Singapore](https://www.nas.gov.sg/archivesonline/private_records/record-details/f69c2cf9-7c5d-11e5-ac2a-0050568939ad)* (n.p. 1946). (From National Archives of Singapore accession number 29/2005)
 
-
-[^1]
