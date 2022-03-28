@@ -121,21 +121,21 @@ Given its age, historical significance and global prominence, it is timely that 
 
 [^8]: For a depiction from the shoreline, see the painting titled *Singapore, From the Esplanade* by Captain Charles Ramsay Drinkwater Bethune published in James Augustus St John, *Views in the Eastern Archipelago: Borneo, Sarawak, Labuan, &c. &c. &c. *(London: McLean, 1847), 65. (Not available in NLB holdings)
 
-[*9]: Buckley, *Anecdotal History of Old Times in Singapore*, 30. 
+[*9]: Buckley, [*Anecdotal History of Old Times in Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082239), 30. 
 
-[^10]: “Untitled,” *Straits Times*, 20 December 1848, 2. (From NewspaperSG)
+[^10]: “[Untitled](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18481220-1.2.7),” *Straits Times*, 20 December 1848, 2. (From NewspaperSG)
 
-[^11]: Roland St John Braddell, “The Good Old Days” in Walter Makepeace, Gilbert E. Brooke & Roland St John Braddell, eds., *One Hundred Years of Singapore*, vol. 2 (London: John Murray, 1921), 317. (From National Library, Singapore, Call no. RCLOS 959.51 ONE)
+[^11]: Roland St John Braddell, “The Good Old Days” in Walter Makepeace, Gilbert E. Brooke & Roland St John Braddell, eds., [*One Hundred Years of Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4183132), vol. 2 (London: John Murray, 1921), 317. (From National Library, Singapore, Call no. RCLOS 959.51 ONE)
 
-[^12]: Braddell, “Good Old Days,” 321. 
+[^12]: Braddell, “[Good Old Days](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4183132),” 321. 
 
-[^13]: “Recreation Club,” *Eastern Daily Mail and Straits Morning Advertiser*, 4 September 1905, 3; “Singapore Recreation Club: New Pavilion Opened,” *Straits Times*, 4 September 1905, 5. (From NewspaperSG)
+[^13]: “[Recreation Club](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/easterndaily19050904-1.2.45),” *Eastern Daily Mail and Straits Morning Advertiser*, 4 September 1905, 3; “[Singapore Recreation Club: New Pavilion Opened](https://safe.menlosecurity.com/http:/eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19050904.2.29.aspx),” *Straits Times*, 4 September 1905, 5. (From NewspaperSG)
 
-[^14]: Lai Chee Kien, “The Padang: Centrepiece of Colonial Design,” *BiblioAsia* 12, no. 3 (Oct–Dec 2016): 40–4.
+[^14]: Lai Chee Kien, “[The Padang: Centrepiece of Colonial Design](https://biblioasia.nlb.gov.sg/vol-12/issue-3/oct-dec-2016/the-padang),” *BiblioAsia* 12, no. 3 (Oct–Dec 2016): 40–4.
 
-[^15]: Vernon Cornelius and Joanna H.S. Tan, “Former Supreme Court Building,” in *Singapore Infopedia*. National Library Board Singapore. Article published 2011.
+[^15]: Vernon Cornelius and Joanna H.S. Tan, “[Former Supreme Court Building](https://eresources.nlb.gov.sg/infopedia/articles/SIP_774_2005-01-10.html),” in *Singapore Infopedia*. National Library Board Singapore. Article published 2011.
 
-[^16]: “Municipal Commission,” *Singapore Free Press*, 17 May 1900, 10; “A Desirable Acquisition,” Singapore Free Press, 25 May 1900, 317. (From NewspaperSG)
+[^16]: “[Municipal Commission](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk19000517-1.2.95),” *Singapore Free Press*, 17 May 1900, 10; “[A Desirable Acquisition](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk19000525-1.2.6),” Singapore Free Press, 25 May 1900, 317. (From NewspaperSG)
 
 [^17]: “Europe Hotel’s Future,” *Singapore Free Press*, 21 July 1932, 8; “Facilitation of Justice,” *Morning Tribune*, 2 April 1937, 24. (From NewspaperSG)
 
