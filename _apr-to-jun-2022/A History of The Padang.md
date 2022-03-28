@@ -92,7 +92,16 @@ Other than the NDP, the Padang continues to be the venue for sporting events at 
 
 The Padang was also the backdrop to the world’s first-ever nighttime Formula 1 Grand Prix. During the inaugural race on 14 September 2008 – as Fernando Alonso raced around the 5.06-kilometre Marina Bay Circuit to clinch first place – images of the Padang were beamed live into living rooms across the world.[41] Singapore had truly come of age as a global city and destination.
 
-
-
 Given its age, historical significance and global prominence, it is timely that the legislation has been amended to allow the Padang to take its place on the list of Singapore’s national monuments.
 
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol%2018%20Issue%201/Authors/Barbara_Quek.png" style="width: 100px; height: 100px;"/>
+	<b>Barbara Quek</b> is a Senior Librarian with the National Library, Singapore. She is in the team that oversees the statutory functions of the National Library Board in the compliance of Legal Deposit in Singapore. Her work involves developing the National Library’s collections through gifts and exchange as well as providing content and reference services.</div>
+
+	
+	
+#### **NOTES**
+
+[^1]: Gloria Chandy, “[The Pioneer Cinemas](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19790319-1.2.48),” *New Nation*, 19 March 1979, 9. (From NewspaperSG)
