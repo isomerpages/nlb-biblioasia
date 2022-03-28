@@ -78,6 +78,9 @@ The Padang was also where the Maria Hertogh riots first erupted. On 11 December 
 
 Because it was so easy to stage large rallies and gatherings at the Padang, it was just as easy to capitalise on these huge crowds to foment trouble. Take the 1963 protest rally organised by the Chinese Chamber of Commerce, for example. Held on 25 August, the rally was organised to demand reparations from Japan for its wartime atrocities. A massive crowd of some 120,000 people – reportedly one of the largest in Singapore’s history – gathered at the Padang.[30] In the run-up to this rally, the Special Branch and the Criminal Investigations Department discovered that pro-communist elements planned to exploit the meeting to stage an anti-Malaysia campaign. The entire police force – 5,000 men and troops – was placed on emergency alert.[31]
 
+![](/images/Vol%2018%20Issue%201/The%20Padang/reparation_demonstration.png)
+<div style="background-color: white;">  A massive crowd of 120,000 at a rally organised by the Chinese Chamber of Commerce on 25 August 1963 to demand reparations from Japan for wartime atrocities. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
 As then Prime Minister Lee Kuan Yew started speaking, the agitators began their organised booing. Lee challenged them to “come up to the City Hall and present their case” and then ordered floodlights to be turned on the several thousand pro-communist elements who had “formed a belt from one end of the Padang to the other”.[32] The booing died down and the agitators faded into the crowd. A potential public order disruption had been averted. 
 
 #### **The People’s Padang**
