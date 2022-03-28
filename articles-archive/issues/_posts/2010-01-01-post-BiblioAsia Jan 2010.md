@@ -9,7 +9,7 @@ description: ""
 
 **Director’s Column**
 
-**Sumbangan Cendekiawan Peranakan Arab Persuratan Melayu: 1900-an Hingga 1960-an** <br>[(PDF)](/files/pdf/vol-5/issue-4/v5-issue4_SumbanganArab.pdf)
+**Sumbangan Cendekiawan Peranakan Arab Persuratan Melayu: 1900-an Hingga 1960-an** <br>Senior Librarian *Sundusia Rosdi* explores the contributions of several Arab immigrants in the literary fields of Malay journalism, publishing and printing from the 1900s to the 1960s.[(PDF)](/files/pdf/vol-5/issue-4/v5-issue4_SumbanganArab.pdf)
 
 **In Touch with My Routes: Becoming a Tourist in Singapore** <br>
 [(PDF)](/files/pdf/vol-5/issue-4/v5-issue4_TouristRoutes.pdf)
