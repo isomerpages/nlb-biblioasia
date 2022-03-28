@@ -151,3 +151,38 @@ Given its age, historical significance and global prominence, it is timely that 
 [^23]: Turnbull, *History of Singapore*, 1819–2005, 217–18; “With ‘Freedom or Death’ for Motto, Men Ready to Die for Indian Independence,” *Syonan Shimbun*, 9 July 1943, 1. (From NewspaperSG)
 
 [^24]: Turnbull, *History of Singapore, 1819–2005,* 196–97.
+
+[^25]: Lee Geok Boi, *The Syonan Years: Singapore Under Japanese Rule 1942–1945* (Singapore: National Archives of Singapore and Epigram, 2005), 163 (From National Library, Singapore, Call no. RSING q940.535957 LEE-[WAR]); Joshua Chia Yeong Jia, “Grow More Food Campaign,” in *Singapore Infopedia*. National Library Board Singapore. Article published 2016.
+
+[^26]: Turnbull, *History of Singapore*, 1819–2005, 221; “Japanese in Malaysia Surrender at Singapore,” *Straits Times*, 13 September 1945, 1. (From NewspaperSG)
+
+[^27]: “Guerrilla Leaders Decorated by Supremo,” Straits Times, 7 January 1946, 3. (From NewspaperSG); Shereen Tay, “Communist Party of Malaya,” in *Singapore Infopedia*. National Library Board Singapore. Article published 30 March 2018.
+
+[^28]: “2 Malays Shot: Cars Burnt,” *Singapore Standard*, 11 December 1950, 9; “Police Open Fire on Rioting Mob,” *Malayan Tribune*, 11 December 1950, 1. (From NewspaperSG)
+
+[^29]: “Maria Hertogh Riots,” in *Singapore Infopedia*. National Library Board Singapore. Article published 28 September 2014.
+
+[^30]: “Padang Rally: Big Security Alert,” *Straits Times*, 25 August 1963, 3. (From NewspaperSG) 
+
+[^31]: “Padang Rally.”
+
+[^32]: R. Chandran, F. Rozario, R. Pestana and Lim Beng Tee, “Lee Foils Bid to Spark Off Trouble at Rally,” *Straits Times*, 26 August 1963, 3. (From NewspaperSG)
+
+[^33]: Lee Kuan Yew, “Victory Rally at the Padang,” speech, 3 June 1959, transcript. (From National Archives of Singapore, Document no. lky19590603)
+
+[^34]: “Singapore Rejoices,” *Straits Times*, 4 December 1959, 1. (From NewspaperSG) 
+
+[^35]: “A Memorable Week Ends,” *Straits Times*, 10 December 1959, 1; “Lee: We’ll Breed New Strain of Culture,” *Straits Times*, 3 August 1959, 4. (From NewspaperSG)
+
+[^36]: “Lee: We Are Free!,” *Straits Times*, 1 September 1963, 1. (From NewspaperSG)
+
+[^37]: “Lee’s Proud Moment,” *Straits Times*, 17 September 1963, 4; “Singapore Celebrates its Proudest Moment,” *Straits Times*, 17 September 1964, 15. (From NewspaperSG) 
+
+[^38]: Chew Hui Min, “National Day Parade 1966: 10 Things About the Inaugural Parade,” *Straits Times*, 5 March 2015, https://www.straitstimes.com/singapore/national-day-parade-1966-10-things-about-the-inaugural-parade; “Day and Night of Joy and Fun in Singapore,” *Straits Times*, 10 August 1966, 1; “Ministers and MPs Seen in Uniform by Public for the First Time,” *Straits Times*, 10 August 1966, 6. (From NewspaperSG)
+
+[^39]: Jackie Sam and Judith Yong, “The Rugged Society’s Day...,” *Straits Times*, 10 August 1968, 1. (From NewspaperSG) 
+
+[^40]: “About Us,” Singapore Cricket Club, accessed 15 February 2022, https://www.sccrugbysevens.com/. 
+
+[^41]: “Singapore – Marina Bay,” Formula One World Championship Limited, accessed 15 February 2022, https://www.formula1.com/en/information.singapore-marina-baystreetcircuit.7LXNQUCHTyR5yMQPlIk7Lv.html; “Do You Remember… F1’s First Ever Night Race,” Formula One World Championship Limited, 14 September 2015, https://www.formula1.com/en/latest/features/2015/9/do-you-remember----f1s-first-ever-night-race.html.
+
