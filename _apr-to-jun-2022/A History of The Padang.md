@@ -146,4 +146,8 @@ Given its age, historical significance and global prominence, it is timely that 
 
 [^21]: Constance Mary Turnbull, *A History of Singapore, 1819–2005* (Singapore: NUS Press, 2009), 199. (From National Library, Singapore, Call no. RSING 959.57 TUR)
 
-[^22]: Turnbull, *History of Singapore*, 1819–2005, 205; “Tentyo-Setu Celebrations,” *Syonan Shimbun*, 30 April 1942, 5. 
+[^22]: Turnbull, *History of Singapore*, 1819–2005, 205; “Tentyo-Setu Celebrations,” *Syonan Shimbun*, 30 April 1942, 5. (From NewspaperSG). [Note: Odate Shigeo was Mayor from March 1942 to July 1943. He was replaced by Naito Kanichi who held the office until the end of the Japanese Occupation.]
+
+[^23]: Turnbull, *History of Singapore*, 1819–2005, 217–18; “With ‘Freedom or Death’ for Motto, Men Ready to Die for Indian Independence,” *Syonan Shimbun*, 9 July 1943, 1. (From NewspaperSG)
+
+[^24]: Turnbull, *History of Singapore, 1819–2005,* 196–97.
