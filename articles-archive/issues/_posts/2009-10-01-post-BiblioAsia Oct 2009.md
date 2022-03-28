@@ -42,7 +42,7 @@ Associate Librarian *Juffri bin Supa’at* highlights some of the characteristic
 Executive Director of the National Book Development Council of Singapore *R Ramachandran* gives a thoughtful and detailed review of *Paper Boat* by Rajat Das. [(PDF)](/files/pdf/vol-5/issue-3/v5-issue3_PaperBoat.pdf)
 
 **National Library Singapore Celebrates Customer Appreciation Day** <br>
-[(PDF)](/files/pdf/vol-5/issue-3/v5-issue3_CustomerAppreciation.pdf)
+Deputy Director *Low Kwee Fah* tells us about the celebrations at this year’s Customer Appreciate Day.[(PDF)](/files/pdf/vol-5/issue-3/v5-issue3_CustomerAppreciation.pdf)
 
 **Lee Kong Chian Research Fellow: Dr Mahani Binti Awang** <br>
-[(PDF)](/files/pdf/vol-5/issue-3/v5-issue3_MahaniAwang.pdf)
+Meet new Lee Kong Chian Research Fellow *Dr Mahani Binti Awang*. [(PDF)](/files/pdf/vol-5/issue-3/v5-issue3_MahaniAwang.pdf)
