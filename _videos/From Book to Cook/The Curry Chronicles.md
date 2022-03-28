@@ -19,7 +19,7 @@ Chef Devagi made Mrs Kinsey’s “rundang” recipe from *The Mem's Own Cookery
 
 
 Check out how 
-<a style="text-decoration: none;" href="https://devagisanmugam.com/2022/01/devagis-beef-rendang/" target="_blank"> Chef Devagi</a> made small but critical tweaks to Mrs Kinsey’s recipe that made it vastly more “rendang-like”.
+<a style="text-decoration: none;" href="https://devagisanmugam.com/2022/01/devagis-beef-rendang/" target="_blank"> Chef Devagi</a> made small but critical tweaks to Mrs Kinsey’s recipe that made it vastly more like the rendang we know today.
 
 ![](/images/Videos:%20From%20Book%20to%20Cook/Rundang-Mems%20Own%20Cookery%20Book.png)
 <div style="background-color: white;">Recipe of “rundang”, from W. E. Kinsey, <i>The Mem's Own Cookery Book</i>, 3rd edn (Singapore: Kelly & Walsh, 1929).</div>
