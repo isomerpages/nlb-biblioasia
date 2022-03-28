@@ -98,7 +98,7 @@ Given its age, historical significance and global prominence, it is timely that 
 <div style="background-color: white;">
 <br/>
 <img src="/images/Vol%2018%20Issue%201/Authors/Barbara_Quek.png" style="width: 100px; height: 100px;"/>
-	<b>Barbara Quek</b> is a Senior Librarian with the National Library, Singapore. She is in the team that oversees the statutory functions of the National Library Board in the compliance of Legal Deposit in Singapore. Her work involves developing the National Library’s collections through gifts and exchange as well as providing content and reference services.</div>
+	<b>Dr Kevin Y.L. Tan</b> is Adjunct Professor at the Faculty of Law, National University of Singapore, and Visiting Professor at the S. Rajaratnam School of International Studies, Nanyang Technological University. He specialises in constitutional and administrative law, Singapore legal history and international human rights. He has written and edited over 50 books on the law, history and politics of Singapore.</div>
 
 	
 	
