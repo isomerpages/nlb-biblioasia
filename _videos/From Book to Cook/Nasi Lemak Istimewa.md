@@ -9,7 +9,7 @@ third_nav_title: From Book to Cook
 
 #### **Episode summary** ####
 In this episode, we make an unusual version of nasi lemak using a recipe from 1953. The recipe comes from a cookbook by Siti Radhiah, an early female Malay cookbook author. Is it really *nasi lemak* if it doesn’t use pandan? Join librarian and food researcher Toffa Abdul Wahed as we find out!
-![](/images/Videos:%20From%20Book%20to%20Cook/nasi%20lemak.png)
+ ![](/images/Videos:%20From%20Book%20to%20Cook/siti%20radhiah_nasi%20lemak%20with%20opor%20ayam%20and%20sambal%20goreng.png)
 <div style="background-color: white;">Toffa made Siti Radhiah's recipes of <i>nasi lemak berkukus dengan lauk-pauknya</i> (steamed <i>nasi lemak</i> and its accompaniments).</div>
 
 
@@ -43,9 +43,6 @@ Its accompaniments are thinly sliced cucumber, fried anchovies, and chicken eggs
 
 Ground coriander seeds, salt and white pepper together. Then add garlic, candlenuts, galangal, ginger and red onions. Grind them until fine. Sauté all of the spices with a bit of coconut oil. Then add bay leaves, lemongrass and chicken that has been cleaned and chopped up, and stir. When most of the liquid has dried up, add coconut milk. When the gravy is thick and the chicken is tender, remove from heat.
 
-![](/images/Videos:%20From%20Book%20to%20Cook/opor.png)
-
-
 <b>*Sambal goreng*</b> 
 <br>½ *kati* (~303 g) meat 
 <br>4 tbsp. sliced red onions
@@ -61,7 +58,8 @@ Ground coriander seeds, salt and white pepper together. Then add garlic, candlen
 
 Clean the meat well, cut it into small pieces, and fry them. Sauté red onions, garlic, ginger and lemongrass in cooking oil. Then add the thinly sliced dried chillies and stir. Add the fried meat and cut tofu, followed by shrimp paste, and a bit of salt, sugar and tamarind juice. If you like, add some *pati santan* (undiluted coconut milk). Stir until dry, and remove from heat. *Sambal goreng* is also made with tempeh and thinly sliced long beans.
 
-![](/images/Videos:%20From%20Book%20to%20Cook/sambal%20goreng.png)
+ ![](/images/Videos:%20From%20Book%20to%20Cook/siti%20radhiah_sambal%20goreng%20with%20beef%20and%20tofu.png)
+ <div style="background-color: white;"><i>Sambal goreng</i> has many variations and can include prawns, vegetables, potatoes and offal. Siti Radhiah's version has beef and tofu.</div>
 
 
 #### **Related Articles**
