@@ -14,11 +14,13 @@ In 1967, the Singapore government launched the Eat More Wheat campaign to reduce
 
 
 #### **Recipe**
-This recipe calls for evaporated milk in the noodle dough, an unusual ingredient. Some measurements in the recipe were in ounces and *tahil*, as this cookbook was published in 1969, before units of measurements were standardised with the introduction of the metrication system in 1971. ![](/images/Videos:%20From%20Book%20to%20Cook/Milk%20Noodle%20Soup%20pg%2018-19.jpg)
+This recipe calls for evaporated milk in the noodle dough, an unusual ingredient. Some measurements in the recipe are in ounces and *tahil*, as this cookbook was published in 1969, before units of measurements were standardised with the introduction of the metrication system in 1971. ![](/images/Videos:%20From%20Book%20to%20Cook/Milk%20Noodle%20Soup%20pg%2018-19.jpg)
 <div style="background-color: white;">Recipe of milk noodle soup, from <i>"The Proof Is in the Eating" Recipe Book</i> (Singapore: RTS Enterprises, 1969).</div>
 
-In the video, Christopher used a *murukku* press to make the noodles.
+Christopher used a *murukku* press to make the noodles, after experimenting with various equipment, including a sieve as recommended by the recipe, and a *chendol* press.
 ![](/images/Videos:%20From%20Book%20to%20Cook/eat%20more%20wheat%20campaign%20milk%20noodles%20murukku%20press.png)
+<div style="background-color: white;">An innovative method to make noodles with the <i>murukku press</i>.</div>
+
 
 #### **Related Articles**
 <a style="text-decoration: none;" href="/vol-16/issue-1/apr-jun-2020/metric"> Milestones to the Metric System</a>
