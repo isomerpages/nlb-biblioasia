@@ -157,11 +157,11 @@ Given its age, historical significance and global prominence, it is timely that 
 
 [^26]: Turnbull, [*History of Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13206047), 1819–2005, 221; “[Japanese in Malaysia Surrender at Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19450913-1.2.2),” *Straits Times*, 13 September 1945, 1. (From NewspaperSG)
 
-[^27]: “Guerrilla Leaders Decorated by Supremo,” Straits Times, 7 January 1946, 3. (From NewspaperSG); Shereen Tay, “Communist Party of Malaya,” in *Singapore Infopedia*. National Library Board Singapore. Article published 30 March 2018.
+[^27]: “[Guerrilla Leaders Decorated by Supremo](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19460107-1.2.19),” Straits Times, 7 January 1946, 3. (From NewspaperSG); Shereen Tay, “[Communist Party of Malaya](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2018-03-28_141257.html),” in *Singapore Infopedia*. National Library Board Singapore. Article published 30 March 2018.
 
-[^28]: “2 Malays Shot: Cars Burnt,” *Singapore Standard*, 11 December 1950, 9; “Police Open Fire on Rioting Mob,” *Malayan Tribune*, 11 December 1950, 1. (From NewspaperSG)
+[^28]: “[2 Malays Shot: Cars Burnt](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19501211-1.2.110.2),” *Singapore Standard*, 11 December 1950, 9; “[Police Open Fire on Rioting Mob](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19501211-1.2.149.2),” *Malayan Tribune*, 11 December 1950, 1. (From NewspaperSG)
 
-[^29]: “Maria Hertogh Riots,” in *Singapore Infopedia*. National Library Board Singapore. Article published 28 September 2014.
+[^29]: “[Maria Hertogh Riots](https://eresources.nlb.gov.sg/infopedia/articles/SIP_83_2005-02-02.html),” in *Singapore Infopedia*. National Library Board Singapore. Article published 28 September 2014.
 
 [^30]: “Padang Rally: Big Security Alert,” *Straits Times*, 25 August 1963, 3. (From NewspaperSG) 
 
