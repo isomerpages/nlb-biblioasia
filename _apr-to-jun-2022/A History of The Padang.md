@@ -163,11 +163,11 @@ Given its age, historical significance and global prominence, it is timely that 
 
 [^29]: “[Maria Hertogh Riots](https://eresources.nlb.gov.sg/infopedia/articles/SIP_83_2005-02-02.html),” in *Singapore Infopedia*. National Library Board Singapore. Article published 28 September 2014.
 
-[^30]: “Padang Rally: Big Security Alert,” *Straits Times*, 25 August 1963, 3. (From NewspaperSG) 
+[^30]: “[Padang Rally: Big Security Alert](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19630825-1.2.27),” *Straits Times*, 25 August 1963, 3. (From NewspaperSG) 
 
-[^31]: “Padang Rally.”
+[^31]: “[Padang Rally](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19630825-1.2.27).”
 
-[^32]: R. Chandran, F. Rozario, R. Pestana and Lim Beng Tee, “Lee Foils Bid to Spark Off Trouble at Rally,” *Straits Times*, 26 August 1963, 3. (From NewspaperSG)
+[^32]: R. Chandran, F. Rozario, R. Pestana and Lim Beng Tee, “[Lee Foils Bid to Spark Off Trouble at Rally](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19630826-1.2.6),” *Straits Times*, 26 August 1963, 3. (From NewspaperSG)
 
 [^33]: Lee Kuan Yew, “Victory Rally at the Padang,” speech, 3 June 1959, transcript. (From National Archives of Singapore, Document no. lky19590603)
 
