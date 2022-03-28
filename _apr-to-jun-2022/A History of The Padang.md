@@ -29,7 +29,7 @@ For the first 10 years after Raffles’ arrival, the Plain was simply a swathe o
 
 From January 1841, the Esplanade, the name it was then known by, became the regular venue for New Year’s Day celebrations. Off the coast, a regatta was staged, and on land, a variety of events were held. These included grease-pole climbing competitions, pony races, foot races, soccer matches and dance performances. 
 
-In his famous oil painting, The Esplanade from Scandal Point, John Turnbull Thomson – Singapore’s first Government Surveyor – recorded an evocative scene of how it would have looked like around 1851. (Thomson had, in fact, depicted a similar scene in his earlier painting simply titled The Esplanade 1847.)
+In his famous oil painting, *The Esplanade from Scandal Point*, John Turnbull Thomson – Singapore’s first Government Surveyor – recorded an evocative scene of how it would have looked like around 1851. (Thomson had, in fact, depicted a similar scene in his earlier painting simply titled *The Esplanade 1847*.)
 
 By the late 1840s, the Esplanade was a busy place. Indeed, it grew so crowded that in 1845, the Municipal Committee, fearing for the safety of users, especially young children, decided to enclose it with bollards and chains to protect the “green sward” from “the incursions of pony-racing drunken sailors”.[10]
 
