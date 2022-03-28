@@ -102,6 +102,9 @@ Two weeks later, on Malaysia Day, Prime Minister Lee spoke at the Padang again i
 
 When Singapore celebrated its first anniversary as an independent state with a parade on 9 August 1966, it was only natural that it be held at the Padang. Over 23,000 Singaporeans took part in the parade which began at 9 am (parades were held in the evening from 1973 onwards). Six contingents of the People’s Defence Force were on parade, and four government ministers marched as officer cadets in that contingent.[38] It was a simple but momentous parade that instilled great pride in the new nation. Two years later, in 1968, it became “a gigantic display of the rugged society” as an hour-long downpour pelted the parade formations and spectators relentlessly.[39]
 
+![](/images/Vol%2018%20Issue%201/The%20Padang/padang8.png)
+<div style="background-color: white;"> National Day Parade, 1968. No one flinched in a spontaneous display of grit and resilience in the midst of a raging thunderstorm. <i>Yusof Ishak Collection, courtesy of National Archives of Singapore.</i></div>
+
 As an independent state, Singapore continued to use the Padang as a major parade ground and gathering space to galvanise the people, instil pride in them and rally them to a cause. It comes as no surprise that it was the sole site for the annual National Day Parade (NDP) for the next 10 years. It was only in 1975 that decentralised parades were held, but the main parade returned to the Padang every few years. 
 
 Other than the NDP, the Padang continues to be the venue for sporting events at local, regional and international levels. For many years, the finals of the inter-school rugby competition were held at the Padang, which is also home to the Singapore Cricket Club International Rugby 7s.[40]
