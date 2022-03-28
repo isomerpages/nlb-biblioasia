@@ -137,13 +137,13 @@ Given its age, historical significance and global prominence, it is timely that 
 
 [^16]: “[Municipal Commission](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk19000517-1.2.95),” *Singapore Free Press*, 17 May 1900, 10; “[A Desirable Acquisition](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk19000525-1.2.6),” Singapore Free Press, 25 May 1900, 317. (From NewspaperSG)
 
-[^17]: “Europe Hotel’s Future,” *Singapore Free Press*, 21 July 1932, 8; “Facilitation of Justice,” *Morning Tribune*, 2 April 1937, 24. (From NewspaperSG)
+[^17]: “[Europe Hotel’s Future](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19320721-1.2.32),” *Singapore Free Press*, 21 July 1932, 8; “[Facilitation of Justice](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/morningtribune19370402-1.2.102),” *Morning Tribune*, 2 April 1937, 24. (From NewspaperSG)
 
-[^18]: “Jubilee Celebration, Singapore,” *Straits Times Weekly*, 29 June 1887, 5; “The Jubilee,” *Straits Times Weekly*, 6 July 1887, 7. (From NewspaperSG)
+[^18]: “[Jubilee Celebration, Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18870629-1.2.28),” *Straits Times Weekly*, 29 June 1887, 5; “[The Jubilee](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18870706-1.2.32),” *Straits Times Weekly*, 6 July 1887, 7. (From NewspaperSG)
 
-[^19]: “The Jubilee.”
+[^19]: “[The Jubilee](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18870706-1.2.32).”
 
-[^20]: “Centenary of Singapore,” *Straits Times*, 7 February 1919, 27. (From NewspaperSG)
+[^20]: “[Centenary of Singapore](https://safe.menlosecurity.com/http:/eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19190207-1.2.45),” *Straits Times*, 7 February 1919, 27. (From NewspaperSG)
 
 [^21]: Constance Mary Turnbull, *A History of Singapore, 1819–2005* (Singapore: NUS Press, 2009), 199. (From National Library, Singapore, Call no. RSING 959.57 TUR)
 
