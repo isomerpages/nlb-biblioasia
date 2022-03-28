@@ -117,3 +117,33 @@ Given its age, historical significance and global prominence, it is timely that 
 [^6]: “Our Esplanade,” *Singapore Free Press and Mercantile Advertiser*, 23 August 1900, 3; “Editorial,” Straits Times, 12 August 1903, 4. (From NewspaperSG)
 
 [^7]: This famous etching was published in Sophia Raffles, *Memoir of the Life and Public Services of Sir Thomas Stamford Raffles, F.R.S. &c. Particularly in the Government of Java, 1811–1816, and of Bencoolen and Its Dependencies 1817–1824; with Details of the Commerce and Resources of the Eastern Archipelago, and Selections from His Correspondence* (London: John Murray, 1830), 525. (From BookSG)
+
+[^8]: For a depiction from the shoreline, see the painting titled *Singapore, From the Esplanade* by Captain Charles Ramsay Drinkwater Bethune published in James Augustus St John, *Views in the Eastern Archipelago: Borneo, Sarawak, Labuan, &c. &c. &c. *(London: McLean, 1847), 65. (Not available in NLB holdings)
+
+[*9]: Buckley, *Anecdotal History of Old Times in Singapore*, 30. 
+
+[^10]: “Untitled,” *Straits Times*, 20 December 1848, 2. (From NewspaperSG)
+
+[^11]: Roland St John Braddell, “The Good Old Days” in Walter Makepeace, Gilbert E. Brooke & Roland St John Braddell, eds., *One Hundred Years of Singapore*, vol. 2 (London: John Murray, 1921), 317. (From National Library, Singapore, Call no. RCLOS 959.51 ONE)
+
+[^12]: Braddell, “Good Old Days,” 321. 
+
+[^13]: “Recreation Club,” *Eastern Daily Mail and Straits Morning Advertiser*, 4 September 1905, 3; “Singapore Recreation Club: New Pavilion Opened,” *Straits Times*, 4 September 1905, 5. (From NewspaperSG)
+
+[^14]: Lai Chee Kien, “The Padang: Centrepiece of Colonial Design,” *BiblioAsia* 12, no. 3 (Oct–Dec 2016): 40–4.
+
+[^15]: Vernon Cornelius and Joanna H.S. Tan, “Former Supreme Court Building,” in *Singapore Infopedia*. National Library Board Singapore. Article published 2011.
+
+[^16]: “Municipal Commission,” *Singapore Free Press*, 17 May 1900, 10; “A Desirable Acquisition,” Singapore Free Press, 25 May 1900, 317. (From NewspaperSG)
+
+[^17]: “Europe Hotel’s Future,” *Singapore Free Press*, 21 July 1932, 8; “Facilitation of Justice,” *Morning Tribune*, 2 April 1937, 24. (From NewspaperSG)
+
+[^18]: “Jubilee Celebration, Singapore,” *Straits Times Weekly*, 29 June 1887, 5; “The Jubilee,” *Straits Times Weekly*, 6 July 1887, 7. (From NewspaperSG)
+
+[^19]: “The Jubilee.”
+
+[^20]: “Centenary of Singapore,” *Straits Times*, 7 February 1919, 27. (From NewspaperSG)
+
+[^21]: Constance Mary Turnbull, *A History of Singapore, 1819–2005* (Singapore: NUS Press, 2009), 199. (From National Library, Singapore, Call no. RSING 959.57 TUR)
+
+[^22]: Turnbull, *History of Singapore*, 1819–2005, 205; “Tentyo-Setu Celebrations,” *Syonan Shimbun*, 30 April 1942, 5. 
