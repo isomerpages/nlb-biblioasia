@@ -31,16 +31,16 @@ Senior Librarian *Ang Seow Leng* provides insight into Tan Yeok Seong and his do
 Senior Library *Vicky Gao* highlights books and resources available at the Lee Kong Chian Reference Library’s Chinese Collection on Chinese leader Deng Xiao Ping and his 1978 visit to Singapore.[(PDF)](/files/pdf/vol-5/issue-2/v5-issue2_Chinese.pdf)
 
 **Book Review – Singapore English Literature** <br>
-Cheng U Wen Lena reviews Singapore Literature in English: An Annotated Bibliography, a publication compiled and edited by Koh Tai Ann.[(PDF)](/files/pdf/vol-5/issue-2/v5-issue2_EnglishLiterature.pdf)
+*Cheng U Wen Lena* reviews *Singapore Literature in English: An Annotated Bibliography*, a publication compiled and edited by Koh Tai Ann.[(PDF)](/files/pdf/vol-5/issue-2/v5-issue2_EnglishLiterature.pdf)
 
 **Early Travels and Voyages in Southeast Asia: Showcase Exhibition** <br>
-[(PDF)](/files/pdf/vol-5/issue-2/v5-issue2_TravelsVoyages.pdf)
+Associate Librarian *Ong Eng Chuan* tells us what to expect at the exhibition *Early Travels and Voyages in Southeast Asia*, which features treasures from the National Library’s Rare Materials Collection.[(PDF)](/files/pdf/vol-5/issue-2/v5-issue2_TravelsVoyages.pdf)
 
 **Heritage Road Show IV Commemorates 50 Years of Singapore’s Self-governance** <br>
-[(PDF)](/files/pdf/vol-5/issue-2/V5-issue2_HeritageRoad.pdf)
+*Nurulhuda binte Subahan* shares what we can expect from this year’s Heritage Road Show, based on the recollections and memories of the ordinary Singaporean. [(PDF)](/files/pdf/vol-5/issue-2/V5-issue2_HeritageRoad.pdf)
 
 **Legal Deposit Showcase Heightens Public Awareness** <br>
-[(PDF)](/files/pdf/vol-5/issue-2/v5-issue2_LegalDeposit.pdf)
+Senior Librarian *Sharmini Chellapandi* shares about the showcase held to create more awareness of Legal Deposit. [(PDF)](/files/pdf/vol-5/issue-2/v5-issue2_LegalDeposit.pdf)
 
 **14th General Conference of the Congress of Southeast Asian Librarians (CONSAL): Towards Dynamic Libraries and Information Services in Southeast Asian Countries** <br>
-[(PDF)](/files/pdf/vol-5/issue-2/v5-issue2_DynamicLibraries.pdf)
+Research Associates *Akshata Patkar* and *Sri Asrina Tanuri* give us a snapshot of what was shared at the 14th General Conference of the Congress of Southeast Asian Librarians. [(PDF)](/files/pdf/vol-5/issue-2/v5-issue2_DynamicLibraries.pdf)
