@@ -81,12 +81,14 @@ The Gomez eatery eventually closed, but with the opening of Muthu’s Curry in 1
 
 Another example of a hybrid Indian dish is *mee goreng*, which is yellow wheat noodles fried with chillies, potato cubes, bean sprouts, tomato ketchup and spices. It may have been adapted from Chinese fried noodles, *char kway teow*, to suit the Indian palate. The Tamil-Muslim Chulia community originally from Madras (present-day Chennai) popularised the dish, and this is why it is associated with the Indian-Muslim community in Singapore.[^16]
 
-Indian *rojak* is another “fusion” food unique to Singapore (in Malaysia it is referred to as *pasembor*). Apparently, the Tamil-Muslims who came from Thakkali in Tamil Nadu were inspired by *mee siam* gravy and decided to adapt it by using mashed sweet potatoes as a thickener. This spicy and sweet gravy is served as a dipping sauce for deep-fried chunks of tofu, potatoes, tempeh, hard-boiled eggs and flour fritters. *Sup kambing*, or mutton soup, is another Indian-Muslim fusion dish that takes its cue from Chinese cuisine. Soup is almost never served in Indian house-holds, but in this hybrid dish, chunks of mutton is slow-cooked in a robust, peppery soup and served with cubes of crusty French loaf.
+Indian *rojak* is another “fusion” food unique to Singapore (in Malaysia it is referred to as *pasembor*). Apparently, the Tamil-Muslims who came from Thakkali in Tamil Nadu were inspired by *mee siam* gravy and decided to adapt it by using mashed sweet potatoes as a thickener. This spicy and sweet gravy is served as a dipping sauce for deep-fried chunks of tofu, potatoes, tempeh, hard-boiled eggs and flour fritters. 
+
+*Sup kambing*, or mutton soup, is another Indian-Muslim fusion dish that takes its cue from Chinese cuisine. Soup is almost never served in Indian households, but in this hybrid dish, chunks of mutton is slow-cooked in a robust, peppery soup and served with cubes of crusty French loaf.
 
 Indian food is one of the world’s oldest cuisines with a long and rich tradition. With the spread of the Indian diaspora to Singapore, Indian cuisine here has evolved, picking up Southeast Asian ingredients and nuances in flavour. Authentic Indian restaurants abound in Singapore, but of more interest to culinary historians is the impact of Indian food on the local food scene and the interesting amalgamation of Indian and regional flavours that result in uniquely Singaporean dishes. In this sense, food can be seen as a physical manifestation of Singapore’s multicultural society, where the influence of one cuisine upon another results in something quite extraordinary.[^17]
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
-	<b>Curry, Curry Leaves and Curry Powder</b>
+	<b>CURRY, CURRY LEAVES AND CURRY POWDER</b>
 <br><br>
 <img style="width: 650px; height: 400px;" src="/images/vol-9-issue-3/Spicy%20Nation/s2.jpg">
 <div style="background-color: white;">An assortment of spices that make up curry powder. <i>Hildgrim, via Flickr.</i></div>
