@@ -90,8 +90,7 @@ Indian food is one of the world’s oldest cuisines with a long and rich traditi
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
 	<b>CURRY, CURRY LEAVES AND CURRY POWDER</b>
 <br><br>
-<img style="width: 650px; height: 400px;" src="/images/vol-9-issue-3/Spicy%20Nation/s2.jpg">
-<div style="background-color: white;">An assortment of spices that make up curry powder. <i>Hildgrim, via Flickr.</i></div>
+<img style="width: 650px; height: 400px;" src="/images/vol-9-issue-3/Spicy%20Nation/s2.jpg">An assortment of spices that make up curry powder. <i>Hildgrim, via Flickr.</i>
 <br><br>
 Native to India and Sri Lanka, the curry leaf is an important herb in South Indian cooking. This small, fragrant and dark green leaf has a distinctive peppery flavour that adds robustness to any dish. Curry leaves are chopped or used whole and added to hot oil for tempering, and used as garnishes in salads, curries, marinades and soups to improve the taste. As observed by Wendy Hutton in Singapore Food, the Indians say there is “no substitute for these small, dark green leaves from the karuvapillai tree.” The use of curry leaves is even mentioned in early Tamil literature dating back to the 1st to 4th century CE.
 <br><br>
