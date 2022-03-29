@@ -33,16 +33,16 @@ Another popular dish in North India is *tandoori* chicken, traditionally cooked 
 
 Punjab, also known as the breadbox of India, is famous for its assortment of leavened and unleavened bread, such as *naan*, *chapati* bread, and *tandoori rotis*. Interestingly, it was the Moghuls from Persia who introduced *naan* (“bread” in Persian) to northern India.
 
-#### Fiery South Indian food
+#### **Fiery South Indian food**
 
 The time-honoured food traditions of South India continue till this day and it is not unusual to see South Indians sitting cross-legged on a floor mat eating off a stainless steel plate (*thali*) or a fresh banana leaf. South Indian dishes are often spicier than their North Indian counterparts, and often include coconut (used to make chutneys and curries) and rice, which is a staple food in the south. South Indian dishes do not use as much ghee (clarified butter) and yoghurt as North Indian ones. Many spices, such as fenugreek, dried red chillies, mustard seeds and peppercorn, used in South Indian cooking lend the cuisine its fiery reputation. Common South Indian dishes include *dosa* or *thosai* (crispy savoury pancakes), *idli* (steamed rice cakes), *sambhar* (lentil curry) and *vadai* (fritters).
  
-#### Indian sweets
+#### **Indian Sweets**
+
+Whether in the north or south, sweets, most of which are highly calorific and contain lashings of sugar and ghee, are traditionally served after meals. *Payasam* (in Tamil) or *kheer* (in Hindi), made of rice or wheat vermicelli, is commonly eaten during festive occasions and weddings. The payasam served at Ambalappuzha Temple (see text box) in Kerala is especially famous among Hindu devotees.[^7] Other traditional Indian sweets include *gulab jamun*, *mysore pak*, *halwa* and *laddoo*. *Gulab jamun* are little balls of milk powder and plain flour deep fried and drenched in sugary syrup, and usually served at North Indian weddings. *Mysore pak* — made of ghee, gram flour and sugar — hails from Mysore, in the southern state of Karnataka. It is often referred to as a royal sweet as it was concocted in the kitchen of Mysore Palace for the king. There are several variations of *halwa* with either semolina, wheat flour, mung bean or carrot as its base while *laddoo* are bright orange ball-shaped confections offered as a *prasad* (gift) to guests at weddings and religious occasions.
 
 <img style="width: 350px; height: 450px;" src="/images/vol-9-issue-3/Spicy%20Nation/s3.jpg">
 <div style="background-color: white;"><i>Gulab jamun</i> is a popular sweet dessert. <i>Image via iStock.</i></div>
-
-Whether in the north or south, sweets, most of which are highly calorific and contain lashings of sugar and ghee, are traditionally served after meals. *Payasam* (in Tamil) or *kheer* (in Hindi), made of rice or wheat vermicelli, is commonly eaten during festive occasions and weddings. The payasam served at Ambalappuzha Temple (see text box) in Kerala is especially famous among Hindu devotees.[^7] Other traditional Indian sweets include *gulab jamun*, *mysore pak*, *halwa* and *laddoo*. *Gulab jamun* are little balls of milk powder and plain flour deep fried and drenched in sugary syrup, and usually served at North Indian weddings. *Mysore pak* — made of ghee, gram flour and sugar — hails from Mysore, in the southern state of Karnataka. It is often referred to as a royal sweet as it was concocted in the kitchen of Mysore Palace for the king. There are several variations of *halwa* with either semolina, wheat flour, mung bean or carrot as its base while *laddoo* are bright orange ball-shaped confections offered as a *prasad* (gift) to guests at weddings and religious occasions.
 
 #### The origins of vegetarianism
 
