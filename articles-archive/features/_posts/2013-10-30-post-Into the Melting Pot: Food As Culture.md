@@ -28,7 +28,7 @@ The performatory ritual of ushering in wealth is only symbolical; more important
 
 #### **Food As a Form of Culture** 
 
-The department of anthropology at Oregon State University defines culture as "learned patterns of behaviour and thought that help a group adapt to its surroundings".[^2] Culinary culture is central to diasporic identification, with the focus on the place of food in society, more specifically in the enduring habits, rituals and daily practices that are collectively used to create and sustain a shared sense of cultural identity.
+The Department of Anthropology at Oregon State University defines culture as "learned patterns of behaviour and thought that help a group adapt to its surroundings".[^2] Culinary culture is central to diasporic identification, with the focus on the place of food in society, more specifically in the enduring habits, rituals and daily practices that are collectively used to create and sustain a shared sense of cultural identity.
 
 To this end, restaurateur, chef and F&B consultant, David Yip, hopes to reinvigorate cultural identity across the Chinese dialect groups in Singapore with his epicurean club Jumping Tables, a sporadic and informal culinary gathering that features respected chefs whipping up time-honoured recipes the traditional way. Yip invites a number of chefs – from humble eateries to established restaurants – to cook at these gatherings.
 
