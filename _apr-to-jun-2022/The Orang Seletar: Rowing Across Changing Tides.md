@@ -33,6 +33,9 @@ Today, there are nine Orang Seletar settlements in Johor Bahru with a combined p
 
 The minibus stopped at the roadside by the Merlion Park. As we were taking photos with the Merlion overlooking the Singapore River, our guests took out their handwoven *tajak* (headdress) to wear. We strolled by the river, eventually arriving at the statue of Stamford Raffles at Empress Place. 
 
+![](/images/Vol%2018%20Issue%201/Orang%20Seletar/Merlion.png)
+<div style="background-color: white;">  Posing for the obligatory Merlion photo at the Merlion Park, 2019. Some of the Orang Seletar are wearing their <i>tajak</i> (headdress). <i>Photo courtesy of Jefree bin Salim. </i></div>
+
 ![](/images/Vol%2018%20Issue%201/Orang%20Seletar/Girls%20in%20traditional%20wear.png)
 <div style="background-color: white;"> Orang Seletar girls in traditional wear, which include a handwoven <i>tajak</i> (headdress), 2019. Nowadays, the traditional attire is worn for performances during special occasions such as weddings and designated special days like the International Day of the World’s Indigenous Peoples. <i>Photo courtesy of Jefree bin Salim.</i></div>
 
@@ -53,9 +56,6 @@ The Orang Seletar were also involved in other ambitious development projects in 
 #### **Migration to Johor Bahru**
 
 The minibus pulled up at the entrance of Lower Seletar Reservoir Park. Kah Mei and I brought our guests to the bank of the reservoir, which was neatly lined with grey stones. To our right was a shallow, empty pool with fountain spouts, enclosed by terraced steps – likely a popular spot for young families on weekends. On our left was an expansive golf course. 
-
-![](/images/Vol%2018%20Issue%201/Orang%20Seletar/Merlion.png)
-<div style="background-color: white;">  Posing for the obligatory Merlion photo at the Merlion Park, 2019. Some of the Orang Seletar are wearing their <i>tajak</i> (headdress). <i>Photo courtesy of Jefree bin Salim. </i></div>
 
 We made our way to the boardwalk leading out to the reservoir. While walking, I could hear our guests talking about the fish in the water beneath us. Several informational panels on the boardwalk prompted us to stop. These panels provided an overview of the history of the area. The first panel paid homage to the communities who used to frequent the place, including the Orang Seletar. 
 
