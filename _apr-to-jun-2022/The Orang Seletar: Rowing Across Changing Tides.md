@@ -33,7 +33,7 @@ Today, there are nine Orang Seletar settlements in Johor Bahru with a combined p
 
 The minibus stopped at the roadside by the Merlion Park. As we were taking photos with the Merlion overlooking the Singapore River, our guests took out their handwoven *tajak* (headdress) to wear. We strolled by the river, eventually arriving at the statue of Stamford Raffles at Empress Place. 
 
-![](/images/Vol%2018%20Issue%201/Orang%20Seletar/Merlion.png)
+![](/images/Vol%2018%20Issue%201/Orang%20Seletar/merlionedit.png)
 <div style="background-color: white;">  Posing for the obligatory Merlion photo at the Merlion Park, 2019. Some of the Orang Seletar are wearing their <i>tajak</i> (headdress). <i>Photo courtesy of Jefree bin Salim. </i></div>
 
 ![](/images/Vol%2018%20Issue%201/Orang%20Seletar/Girls%20in%20traditional%20wear.png)
