@@ -8,14 +8,14 @@ description: ""
 #### From fish head curry to Indian rojak, Indian food in Singapore has evolved over time, drawing influences from the various local cultures, and finding its place in the hearts of Singaporeans.
 
 <img style="width: 650px; height: 400px;" src="/images/vol-9-issue-3/Spicy%20Nation/s1.jpg">
-<div style="background-color: white;">Indian <i>Rojak</i>. Indian cuisine is a hot favourite of Singaporeans.</div>
+<div style="background-color: white;">Indian <i>rojak</i> is a hot favourite of Singaporeans. <i>Eleanor Foong, ImipolexG, weesen via Flickr.</i></div>
 
 “The discovery of a new dish does more for the happiness of man than the discovery of a star.”
 <div style="text-align: right">— Jean Anthelme Brillat-Savarin</div>
 
 Indian cuisine is one of the most diverse in the world. India’s rich culinary heritage is closely linked with its ancient culture, traditions and mosaic of religious beliefs. Each region in India, despite using almost the same basic spices and herbs, employs a range of cooking techniques to produce unique and tantalising dishes found nowhere else in the world.
 
-#### A spice for every need
+#### **A Spice for Every Need**
 
 Spices are the heart and soul of Indian cuisine; the use of spices has been an ancient tradition “recorded in Sanskrit texts 3,000 years ago.”[^1] The secret of Indian cuisine lies in the artful combination of spices, finding the right balance of each spice and tempering them skilfully in order to give each dish its distinct full-bodied flavour and aroma.
 
