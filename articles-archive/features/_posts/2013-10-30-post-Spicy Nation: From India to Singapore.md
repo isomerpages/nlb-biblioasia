@@ -110,7 +110,7 @@ According to Hindu legend, Lord Krishna transformed into an old sage one day and
 <i>Roti prata</i> is a crisp and flaky flatbread that is often eaten with a Hyderabadi-style mutton rib curry cooked with lentils called <i>dalcha</i>. Over time, Singapore has evolved into a <i>prata</i> paradise with many innovative incarnations of <i>prata</i> available in Indian-Muslim stalls as well as restaurants. <i>Prata</i> shops like Thasevi Food in Jalan Kayu and The Roti Prata House in Upper Thomson among others offer numerous varieties, from egg <i>prata</i> and chicken floss <i>prata</i> to combination flavours like cheese and mushroom, cheese and pineapple, cheese and chicken and even ice cream. There is also a <i>prata</i> buffet available at Clay Oven restaurant in Dempsey Road. The humble <i>roti prata</i> is even listed at number 45 on the World’s 50 Most Delicious Foods readers’ poll compiled by CNN Go in 2011.[^20] 
 </span>
 
-**Malarvele ilangovan** is a Senior Librarian at the Resource Discovery and Management Division of the National Library Board. She has written three children’s books. Her re¬search article, “Library provision to the Tamil community in Singapore” (co-authored with Dr Susan Higgins), was published in LIBRES in 2003.
+**Malarvele ilangovan** is a Senior Librarian at the Resource Discovery and Management Division of the National Library Board. She has written three children’s books. Her research article, “Library Provision to the Tamil Community in Singapore” (co-authored with Dr Susan Higgins), was published in LIBRES in 2003.
 
 <a href="https://biblioasia.nlb.gov.sg/vol-9/issue-3/oct-dec-2013/"><center>Back to Issue</center></a>
 
@@ -154,7 +154,7 @@ Panickar, G. (2013, July 19). Prata paradise. *Tabla*, p. 14. Retrieved from Tab
 
 Sanmugam, D., & Shanmugam, K. (2011). [*Indian heritage cooking*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13992386). Singapore: Marshall Cavendish Cuisine. (Call no.: RSING 641.595957 DEV)
 
-Siddique, S., & Shotum, N. (1990). [Singapore’s little India: Past, present, and future](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5688592). Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 305.89141105957 SID)
+Siddique, S., & Shotum, N. (1990). [*Singapore’s little India: Past, present, and future*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5688592). Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 305.89141105957 SID)
 
 Sur, C. (2003). *Continental Cuisine for the Indian palate*. New Delhi: Lustre Press/Roli; Lancaster: Gazelle. (Not available in NLB holdings)
 
@@ -164,7 +164,7 @@ Tay, L. (2012). [*Only the best!: The ieat, ishoot, ipost guide to Singapore’s
 
 Tay, L. (2012, March 5). *Islamic Restaurant: The granddaddy of Briyanis!* Retrieved from ieatishootipost website.
 
-*‘The Straits Times’ annual 1974* (p. 86). Retrieved from Roots website. 
+*The Straits Times’ annual 1974* (p. 86). Retrieved from Roots website. 
 
 Wickramasingher, P., & Selva Rajah, C. (2002). *The food of India*. London: Murdoch Books. (Not available in NLB holdings)
 
@@ -181,8 +181,8 @@ Wong, D., & Wibisono, D. (2001). [*The food of Singapore: Authentic recipes from
 [^8]:Brinder, 2004, p. 13.
 [^9]:Wickramasingher & Selva Rajah, 2002, p. 17.
 [^10]:*Ananda Bhavan Vegetarian*. (2018). Retrieved from Anandabhavan.com website.
-[^11]:*‘The Straits Times’ annual 1974* (p. 86). Retrieved from Root.sg website. 
-[^12]:*‘The Straits Times’ annual 1974*, pp. 88–89. 
+[^11]:*The Straits Times’ annual 1974* (p. 86). Retrieved from Root.sg website. 
+[^12]:*The Straits Times’ annual 1974*, pp. 88–89. 
 [^13]:National Heritage Board. (2021, October 18). *Fish head curry*. Retrieved from Roots website. 
 [^14]:National Heritage Board, 18 Oct 2021. 
 [^15]:Tay, L. (2012, March 5). *Islamic Restaurant: The granddaddy of Briyanis!* Retrieved from ieatishootipost website.
