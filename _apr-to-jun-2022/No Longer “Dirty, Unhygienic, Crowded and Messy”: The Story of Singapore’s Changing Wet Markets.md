@@ -6,8 +6,8 @@ description: ""
 ---
 #### Wet markets have existed in Singapore since 1825. **Zoe Yeo** looks at how these markets have changed over time.
 
-![](/images/Vol%2018%20Issue%201/Wet%20Market/edit%20market4.png)
-<div style="background-color: white;">The bustling morning market in Chinatown’s Pagoda Street, c. 1970. In the early 1980s, stallholders were moved into what is now called Chinatown Complex, referred to colloquially as Chinatown Market. <i>Courtesy of National Archives of Singapore.</i></div>
+![](/images/Vol%2018%20Issue%201/Wet%20Market/editedmarket4.png)
+<div style="background-color: white;">The bustling morning market in Chinatown’s Pagoda Street, c. 1970. In the early 1980s, stallholders were moved into what is now called Chinatown Complex, referred to colloquially as Chinatown Market. <i>Courtesy of Kinokuniya Book Stores of Singapore Pte. Ltd.</i></div>
 
 To most people in Singapore, the wet market is so much a part of the landscape that it is barely worth noticing. However, the term is not in common use around the world. It was only in early 2020, at the start of the Covid-19 pandemic, that the term “wet markets” was thrust into the international limelight. The first diagnosed cases were linked to the former Huanan Seafood Wholesale Market (now closed) in Wuhan, China, in late 2019. The coronavirus was classified as a zoonotic disease,[^1] which raises speculation that the virus had jumped from wild animals sold at that market to humans. 
 
