@@ -13,7 +13,7 @@ Because of a rice shortage during the Japanese Occupation, people ate sweet pota
 ![](/images/Videos:%20From%20Book%20to%20Cook/ww2%20tapioca%20sweet%20potato%20noodles.png)<div style="background-color: white;">Lee Geok Boi’s homemade tapioca and sweet potato noodles with clams.</div>
 
 #### **Recipes**
-Geok Boi's recipes are inspired by tapioca noodles, which were sold and distributed as rations during the Japanese Occupation, and memories of her father's tapioca dessert. Tapioca, as well as sweet potato, replaced rice as a staple during the war, because it was an easy crop to cultivate and took only three months to mature.
+Geok Boi's recipes are inspired by tapioca noodles sold and distributed as rations during the Japanese Occupation, and memories of her father's tapioca dessert. Tapioca, as well as sweet potato, replaced rice as a staple during the war, because it was an easy crop to cultivate and took only three months to mature.
 
 <b>Tapioca noodles</b>
 <br>Makes about 500 g of noodles, serves 4
