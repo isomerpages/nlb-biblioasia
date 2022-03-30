@@ -4,7 +4,7 @@ permalink: /videos/curry-chronicles
 description: ""
 third_nav_title: From Book to Cook
 ---
-#### Video coming your way on  7 April ####
+#### Chef Devagi Sanmugam ...  Watch out for it on 7 April. ####
 
 ![](/images/Videos:%20From%20Book%20to%20Cook/devagi%20makes%20mrs%20kinseys%20rendang%202.png)
 <div style="background-color: white;">Chef Devagi Sanmugam squeezes the grated coconut by hand to get coconut milk, while Paddy grinds the spices on the grinding stone.</div>
