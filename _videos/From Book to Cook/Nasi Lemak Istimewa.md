@@ -59,7 +59,7 @@ Ground coriander seeds, salt and white pepper together. Then add garlic, candlen
 Clean the meat well, cut it into small pieces, and fry them. Sauté red onions, garlic, ginger and lemongrass in cooking oil. Then add the thinly sliced dried chillies and stir. Add the fried meat and cut tofu, followed by shrimp paste, and a bit of salt, sugar and tamarind juice. If you like, add some *pati santan* (undiluted coconut milk). Stir until dry, and remove from heat. *Sambal goreng* is also made with tempeh and thinly sliced long beans.
 
  ![](/images/Videos:%20From%20Book%20to%20Cook/siti%20radhiah_sambal%20goreng%20with%20beef%20and%20tofu.png)
- <div style="background-color: white;"><i>Sambal goreng</i> has many variations and can include prawns, vegetables, potatoes and offal. Siti Radhiah's version has beef and tofu.</div>
+ <div style="background-color: white;"><i>Sambal goreng</i> has many variations and can include prawns, vegetables, potatoes and offal. Siti Radhiah's version contains beef and tofu.</div>
 
 
 #### **Related Articles**
