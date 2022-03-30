@@ -30,8 +30,8 @@ True to Siti Radhiah's spirit of spreading knowledge, Toffa has translated the r
  
 Its accompaniments are thinly sliced cucumber, fried anchovies, and chicken eggs or duck eggs made into omelette. *Kacang putih* is soaked first and then fried. Slice red onions and chillies thinly, and fry them. *Nasi lemak* can also go with *opor ayam* (chicken cooked in coconut milk) and *sambal goreng*.
 
-<b>Toffa's notes </b>
-<br><u>Extracting the coconut milk </u>
+<u>Toffa's notes </u>
+<br>Extracting the coconut milk 
 1. Massage the grated coconut with water before squeezing. You can use a coconut bag or with your hands over a strainer/sift.
 2. First extraction (thick milk): add 300 ml of warm water to the grated coconut.
 <br>The extraction will yield  more than 300ml, as the coconut already has liquid in it. After squeezing , set aside 150 ml for the *nasi lemak*. The rest will go into the <i>opor ayam</i>.
@@ -41,7 +41,7 @@ Its accompaniments are thinly sliced cucumber, fried anchovies, and chicken eggs
 <br>The extraction is for the *nasi lemak*.
 4. Do not discard the coconut yet. You might need more coconut milk later.
  
-<u>Making <i>nasi lemak berkukus</i></u>
+<br>Making <i>nasi lemak berkukus</i>
 1. Heat the steamer.
 2. Place the rice into the steaming tray/container.
 3. Add thin coconut milk from the second and third squeezes.
@@ -52,8 +52,6 @@ Its accompaniments are thinly sliced cucumber, fried anchovies, and chicken eggs
 8. At each step, taste the rice to check for doneness, and gently stir the rice, so that it cooks evenly.
 9. If the rice still feels a bit uncooked, stir and then continue cooking for another 10 minutes.
 10. Once that is done, turn off the heat and allow rice to rest in the steamer for at least 10 minutes. Then fluff the rice with a fork or spoon. Caution: Steam is very hot! Do not get burned by it. Use a long ladle to stir your rice or wear a mitten.
-
-
 
 <b>*Opor ayam*</b>
 <br>1 chicken
@@ -69,7 +67,11 @@ Its accompaniments are thinly sliced cucumber, fried anchovies, and chicken eggs
 <br>3 bay leaves
 <br>some lemongrass
 
-Ground coriander seeds, salt and white pepper together. Then add garlic, candlenuts, galangal, ginger and red onions. Grind them until fine. Sauté all of the spices with a bit of coconut oil. Then add bay leaves, lemongrass and chicken that has been cleaned and chopped up, and stir. When most of the liquid has dried up, add coconut milk. When the gravy is thick and the chicken is tender, remove from heat.
+<u>Siti Radhiah's instructions</u>
+<br> Ground coriander seeds, salt and white pepper together. Then add garlic, candlenuts, galangal, ginger and red onions. Grind them until fine. Sauté all of the spices with a bit of coconut oil. Then add bay leaves, lemongrass and chicken that has been cleaned and chopped up, and stir. When most of the liquid has dried up, add coconut milk. When the gravy is thick and the chicken is tender, remove from heat.
+
+<u>Toffa's notes </u>
+
 
 <b>*Sambal goreng*</b> 
 <br>½ *kati* (~303 g) meat 
@@ -84,7 +86,12 @@ Ground coriander seeds, salt and white pepper together. Then add garlic, candlen
 <br>salt 
 <br>a bit of tamarind
 
+<u>Siti Radhiah's instructions</u>
+<br>
 Clean the meat well, cut it into small pieces, and fry them. Sauté red onions, garlic, ginger and lemongrass in cooking oil. Then add the thinly sliced dried chillies and stir. Add the fried meat and cut tofu, followed by shrimp paste, and a bit of salt, sugar and tamarind juice. If you like, add some *pati santan* (undiluted coconut milk). Stir until dry, and remove from heat. *Sambal goreng* is also made with tempeh and thinly sliced long beans.
+
+<u>Toffa's notes </u>
+
 
  ![](/images/Videos:%20From%20Book%20to%20Cook/siti%20radhiah_sambal%20goreng%20with%20beef%20and%20tofu.png)
  <div style="background-color: white;"><i>Sambal goreng</i> has many variations and can include prawns, vegetables, potatoes and offal. Siti Radhiah's version contains beef and tofu.</div>
