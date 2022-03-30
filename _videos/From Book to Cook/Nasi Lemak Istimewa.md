@@ -26,7 +26,7 @@ True to Siti Radhiah's spirit of spreading knowledge, Toffa has translated the r
 <br>salt *(Toffa's recommendation: 3 tspn. salt)*
 
 <u>Siti Radhiah's instructions</u>
-<br>Cook rice with thin coconut milk in a steamer. Then remove it and pour in salted thick coconut milk and stir. Steam again until cooked. If you like it fragrant, add a few bay leaves or lemongrass. *(Toffa used 2 bay leaves for 300g of rice in the video. Pandan or lemongrass can also be used.)*
+<br>Cook rice with thin coconut milk in a steamer. Then remove it and pour in salted thick coconut milk and stir. Steam again until cooked. If you like it fragrant, add a few bay leaves or lemongrass.
  
 Its accompaniments are thinly sliced cucumber, fried anchovies, and chicken eggs or duck eggs made into omelette. *Kacang putih* is soaked first and then fried. Slice red onions and chillies thinly, and fry them. *Nasi lemak* can also go with *opor ayam* (chicken cooked in coconut milk) and *sambal goreng*.
 
@@ -45,7 +45,7 @@ Its accompaniments are thinly sliced cucumber, fried anchovies, and chicken eggs
 1. Heat the steamer.
 2. Place the rice into the steaming tray/container.
 3. Add thin coconut milk from the second and third squeezes.
-4. Add bay leaves. Remove a bit of the stalk to release aroma, so that it is better infused with the rice.
+4. Add bay leaves, pandan or lemongrass. Remove a bit of the stalk to release aroma, so that it is better infused with the rice. Use 2 bay leaves for 300g of rice in the video. 
 5. Steam for 15 minutes.
 6. After 15 minutes, if there is still a lot of coconut milk, stir the rice mixture and steam for another 15 minutes.
 7. When most of the coconut milk has been absorbed, gently stir the rice and add the thick coconut milk (150 ml). Salt the coconut milk. Steam for another 15 minutes.
