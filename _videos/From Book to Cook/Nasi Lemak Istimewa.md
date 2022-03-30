@@ -15,7 +15,7 @@ In this episode, we make an unusual version of nasi lemak using a recipe from 19
 
 
 #### **Recipes**
-Toffa made Siti Radhiah's recipes of *nasi lemak berkukus dengan lauk-pauknya* (steamed *nasi lemak* and its accompaniments), which were originally published in Jawi, in her third cookbook in 1953. Malay publications were predominantly published in Jawi until the late 1950s. In 1961, Siti Radhiah's second cookbook, *Hidangan Wanita Sekarang*, was published in roman Malay to reach a wider audience. 
+Toffa made Siti Radhiah's recipes of *nasi lemak berkukus dengan lauk-pauknya* (steamed *nasi lemak* and its accompaniments), which were originally published in Jawi, in her third cookbook in 1953. Malay publications were predominantly published in Jawi until the late 1950s. In 1961, Siti Radhiah's second cookbook, *Hidangan Wanita Sekarang*, was published in romanised Malay to reach a wider audience. 
 
 True to Siti Radhiah's spirit of spreading knowledge, Toffa has translated the recipes into English. Recipes of that time tend to be brief and leave out measurements. Toffa has added her detailed notes below.
 
@@ -34,14 +34,13 @@ Its accompaniments are thinly sliced cucumber, fried anchovies, and chicken eggs
 
 <u>Toffa's notes </u>
 <br>Extracting the coconut milk (for 300 g of rice)
-1. Massage the grated coconut with water before squeezing. Use a coconut bag or squeeze it over a strainer or sieve.
-2. First extraction (thick milk): add 300 ml of warm water to the grated coconut.
-<br>The extraction will yield  more than 300ml, as the coconut has moisture in it. After squeezing , set aside 150 ml for the *nasi lemak*. The rest will go into the <i>opor ayam</i>.
-2. Second extraction (thin milk): add 300 ml of warm water to the grated coconut.
-<br>Set aside 150 ml for the *nasi lemak*. The rest will go into the <i>opor ayam</i>.
+1.  First extraction (thick milk): add 300 ml of warm water to the grated coconut.
+ <br>Massage the grated coconut with water before squeezing. Use a coconut bag or squeeze it over a strainer or sieve. The extraction will yield  more than 300 ml, as the coconut has moisture in it. After squeezing , set aside 150 ml for the *nasi lemak*. The rest will go into the <i>opor ayam</i>.
+2.  Second extraction (thin milk): add 300 ml of warm water to the grated coconut.
+ <br>Set aside 150 ml for the *nasi lemak*. The rest will go into the <i>opor ayam</i>.
 3.Third extraction (thin milk): add 300 ml of warm water to the grated coconut.
-<br>The extraction is for the *nasi lemak*.
-4. Do not discard the coconut, in case more coconut milk is needed later.
+ <br>The extraction is for the *nasi lemak*.
+ Do not discard the coconut, in case more coconut milk is needed later.
  
 <br>Making <i>nasi lemak berkukus</i> (using 300 g of rice)
 1. Heat the steamer.
