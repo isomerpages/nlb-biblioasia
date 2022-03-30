@@ -30,9 +30,19 @@ True to Siti Radhiah's spirit of spreading knowledge, Toffa has translated the r
  
 Its accompaniments are thinly sliced cucumber, fried anchovies, and chicken eggs or duck eggs made into omelette. *Kacang putih* is soaked first and then fried. Slice red onions and chillies thinly, and fry them. *Nasi lemak* can also go with *opor ayam* (chicken cooked in coconut milk) and *sambal goreng*.
 
+<b>Toffa's notes </b>
+<br><u>Extracting the coconut milk </u>
+<br>Remember to massage the grated coconut with water before squeezing. You can use a coconut bag or with your hands over a strainer/sift.
 
+* First extraction (thick milk): add 300 ml of warm water to the grated coconut
+<br>The extraction will yield  more than 300ml, as the coconut already has liquid in it. After squeezing , set aside 150 ml for the *nasi lemak*. The rest will go into the <i>opor ayam</i>.
+* Second extraction (thin milk): add 300 ml of warm water to the grated coconut
+<br>Set aside 150 ml for the *nasi lemak*. The rest will go into the <i>opor ayam</i>.
+* Third extraction (thin milk):add 300 ml of warm water to the grated coconut
+<br>All for the *nasi lemak*.
+<br>Do not discard the coconut yet. You might need more coconut milk later.
  
- 
+<u>Making <i>nasi lemak berkukus</i></u>
 
 <b>*Opor ayam*</b>
 <br>1 chicken
