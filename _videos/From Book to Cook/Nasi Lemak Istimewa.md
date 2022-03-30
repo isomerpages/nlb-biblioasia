@@ -61,11 +61,11 @@ Its accompaniments are thinly sliced cucumber, fried anchovies, and chicken eggs
 <br>3 cloves garlic
 <br>10 red onions
 <br>10 candlenuts
-<br>a thumb-sized piece of ginger
-<br>a bit of galangal
+<br>a thumb-sized piece of ginger 
+<br>a bit of galangal (Toffa: ½ thumb of galangal)
 <br>1 coconut
 <br>3 bay leaves
-<br>some lemongrass
+<br>some lemongrass (Toffa: 2 stalks of lemongrass)
 
 <u>Siti Radhiah's instructions</u>
 <br> Ground coriander seeds, salt and white pepper together. Then add garlic, candlenuts, galangal, ginger and red onions. Grind them until fine. Sauté all of the spices with a bit of coconut oil. Then add bay leaves, lemongrass and chicken that has been cleaned and chopped up, and stir. When most of the liquid has dried up, add coconut milk. When the gravy is thick and the chicken is tender, remove from heat.
