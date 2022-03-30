@@ -9,6 +9,7 @@ third_nav_title: From Book to Cook
 
 #### **Episode summary** ####
 In this episode, we make an unusual version of nasi lemak using a recipe from 1953. The recipe comes from a cookbook by Siti Radhiah, an early female Malay cookbook author. Is it really *nasi lemak* if it doesn’t use pandan? Join librarian and food researcher Toffa Abdul Wahed as we find out!
+
  ![](/images/Videos:%20From%20Book%20to%20Cook/siti%20radhiah_nasi%20lemak%20with%20opor%20ayam%20and%20sambal%20goreng.png)
 <div style="background-color: white;">Toffa made Siti Radhiah's recipes of <i>nasi lemak berkukus dengan lauk-pauknya</i> (steamed <i>nasi lemak</i> and its accompaniments).</div>
 
@@ -17,13 +18,14 @@ In this episode, we make an unusual version of nasi lemak using a recipe from 19
 Toffa made Siti Radhiah's recipes of *nasi lemak berkukus dengan lauk-pauknya* (steamed *nasi lemak* and its accompaniments), which were originally published in Jawi, in her third cookbook in 1953. Malay publications were predominantly published in Jawi until the late 1950s. In 1961, Siti Radhiah's second cookbook, *Hidangan Wanita Sekarang*, was published in roman Malay to reach a wider audience. 
 
 True to Siti Radhiah's spirit of spreading knowledge, Toffa has translated the recipes into English. Recipes of that time tend to be brief and leave out measurements. Toffa has added her detailed notes below.
+
 ![](/images/Videos:%20From%20Book%20to%20Cook/nasi%20lemak%20recipe.png)
 <div style="background-color: white;">Recipe of <i>nasi lemak berkukus</i> or steamed nasi lemak, from Siti Radhiah, <i>Memilih Selera</i> [Choosing tastes] (Singapore: Harmy, 1953).</div>
 
 <b>*Nasi lemak berkukus*</b>
 <br>2 *kati* (~1210 g) Thai rice
 <br>2 coconuts
-<br>salt *(Toffa's recommendation: 3 tspn. salt)*
+<br>salt *(Toffa's recommendation: 3 tsp. salt)*
 
 <u>Siti Radhiah's instructions</u>
 <br>Cook rice with thin coconut milk in a steamer. Then remove it and pour in salted thick coconut milk and stir. Steam again until cooked. If you like it fragrant, add a few bay leaves or lemongrass.
