@@ -72,7 +72,6 @@ Its accompaniments are thinly sliced cucumber, fried anchovies, and chicken eggs
 
 <u>Toffa's notes </u>
 <br>The *opor ayam* can be cooked  while the rice is being steamed.
-
 1. Pound, grind or blend coriander seeds and white peppercorns. Then add garlic, candlenuts, galangal, ginger and shallots. With a blender, use coriander powder and white pepper powder instead of the seeds and corns, as they might be too small for the blender blades. Pound, grind or blend until you get a fine paste.
 5. Heat the coconut oil in a pot at low-medium heat. Do not use high heat, as coconut oil has a low smoking point.
 6. Add the <i>rempah</i> or spice paste. Sauté until it becomes fragrant and the paste is no longer raw. Do not burn or overcook it. 
@@ -108,7 +107,7 @@ Clean the meat well, cut it into small pieces, and fry them. Sauté red onions, 
 4. Fry shallots, garlic, ginger and lemongrass until fragrant, the shallots are cooked or turn translucent, and the garlic turn slightly golden.
 5. Add the red chillies and fry briefly until they wilt or slightly soften.
 6. Add the beef and tofu.
-7. In a small bowl, add <i>belacan</i> and tamarind paste. Add water to dissolve the <i>belacan</i> and mix in the tamarind paste.
+7. In a small bowl, add <i>belacan</i> (fermented shrimp paste) and tamarind paste. Add water to dissolve the <i>belacan</i> and mix in the tamarind paste.
 8. Pour mixture into the pan. Ensure enough liquid to  coat the beef and tofu. This allows for the <i>belacan</i> and tamarind mixture to be absorbed by the beef and tofu. If it is too dry, it will be harder for the beef and tofu to absorb the seasoning. Extra water can always be cooked down.
 9. Add salt and sugar to taste while there is still liquid in the pan. Note: Not too much salt since the <i>belacan</i> is already salty.
 10. The final dish should have little to no gravy.
