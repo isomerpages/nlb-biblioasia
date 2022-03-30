@@ -42,6 +42,18 @@ Its accompaniments are thinly sliced cucumber, fried anchovies, and chicken eggs
 4. Do not discard the coconut yet. You might need more coconut milk later.
  
 <u>Making <i>nasi lemak berkukus</i></u>
+1. Heat the steamer.
+2. Place the rice into the steaming tray/container.
+3. Add thin coconut milk from the second and third squeezes.
+4. Add bay leaves. Remove a bit of the stalk to release aroma, so that it is better infused with the rice.
+5. Steam for 15 minutes.
+6. After 15 minutes, if there is still a lot of coconut milk, stir the rice mixture and steam for another 15 minutes.
+7. When most of the coconut milk has been absorbed, gently stir the rice and add the thick coconut milk (150 ml). Salt the coconut milk. Steam for another 15 minutes.
+8. At each step, taste the rice to check for doneness, and gently stir the rice, so that it cooks evenly.
+9. If the rice still feels a bit uncooked, stir and then continue cooking for another 10 minutes.
+10. Once that is done, turn off the heat and allow rice to rest in the steamer for at least 10 minutes. Then fluff the rice with a fork or spoon. Caution: Steam is very hot! Do not get burned by it. Use a long ladle to stir your rice or wear a mitten.
+
+
 
 <b>*Opor ayam*</b>
 <br>1 chicken
