@@ -5,13 +5,15 @@ description: ""
 third_nav_title: From Book to Cook
 ---
 #### Video coming your way on 21 April ####
+![](/images/Videos:%20From%20Book%20to%20Cook/siti%20radhiah_steamed%20nasi%20lemak.png)
+<div style="background-color: white;">Toffa makes traditional steamed <i>nasi lemak</i> from a 1953 recipe by Siti Radhiah, an early female Malay cookbook author.</div>
 
 
 #### **Episode summary** ####
 In this episode, we make an unusual version of nasi lemak using a recipe from 1953. The recipe comes from a cookbook by Siti Radhiah, an early female Malay cookbook author. Is it really *nasi lemak* if it doesn’t use pandan? Join librarian and food researcher Toffa Abdul Wahed as we find out!
 
  ![](/images/Videos:%20From%20Book%20to%20Cook/siti%20radhiah_nasi%20lemak%20with%20opor%20ayam%20and%20sambal%20goreng.png)
-<div style="background-color: white;">Toffa made Siti Radhiah's recipes of <i>nasi lemak berkukus dengan lauk-pauknya</i> (steamed <i>nasi lemak</i> and its accompaniments).</div>
+<div style="background-color: white;">Siti Radhiah's recipe comes with recipes of accompanying dishes, such as of <i>opor ayam</i> and <i>sambal goreng</i>.</div>
 
 
 #### **Recipes**
