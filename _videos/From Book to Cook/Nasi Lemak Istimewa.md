@@ -14,18 +14,25 @@ In this episode, we make an unusual version of nasi lemak using a recipe from 19
 
 
 #### **Recipes**
-Toffa made Siti Radhiah's recipes of *nasi lemak berkukus dengan lauk-pauknya* (steamed *nasi lemak* and its accompaniments), which were originally published in Jawi, in her third cookbook in 1953. Malay publications were predominantly published in Jawi until the late 1950s. In 1961, Siti Radhiah's second cookbook, *Hidangan Wanita Sekarang*, was published in roman Malay to reach a wider audience. True to Siti Radhiah's spirit of spreading knowledge, Toffa has translated the recipes into English.
+Toffa made Siti Radhiah's recipes of *nasi lemak berkukus dengan lauk-pauknya* (steamed *nasi lemak* and its accompaniments), which were originally published in Jawi, in her third cookbook in 1953. Malay publications were predominantly published in Jawi until the late 1950s. In 1961, Siti Radhiah's second cookbook, *Hidangan Wanita Sekarang*, was published in roman Malay to reach a wider audience. 
+
+True to Siti Radhiah's spirit of spreading knowledge, Toffa has translated the recipes into English. Recipes of that time tend to be less detailed, and Toffa has added her notes below.
 ![](/images/Videos:%20From%20Book%20to%20Cook/nasi%20lemak%20recipe.png)
 <div style="background-color: white;">Recipe of <i>nasi lemak berkukus</i> or steamed nasi lemak, from Siti Radhiah, <i>Memilih Selera</i> [Choosing tastes] (Singapore: Harmy, 1953).</div>
 
 <b>*Nasi lemak berkukus*</b>
 <br>2 *kati* (~1210 g) Thai rice
 <br>2 coconuts
-<br>salt
+<br>salt *(Toffa's recommendation: 3 tspn. salt)*
 
-Cook rice with thin coconut milk in a steamer. Then remove it and pour in salted thick coconut milk and stir. Steam again until cooked. If you like it fragrant, add a few bay leaves or lemongrass.
+<u>Siti Radhiah's instructions</u>
+<br>Cook rice with thin coconut milk in a steamer. Then remove it and pour in salted thick coconut milk and stir. Steam again until cooked. If you like it fragrant, add a few bay leaves or lemongrass. *(Toffa used 2 bay leaves for 300g of rice in the video. Pandan or lemongrass can also be used.)*
  
 Its accompaniments are thinly sliced cucumber, fried anchovies, and chicken eggs or duck eggs made into omelette. *Kacang putih* is soaked first and then fried. Slice red onions and chillies thinly, and fry them. *Nasi lemak* can also go with *opor ayam* (chicken cooked in coconut milk) and *sambal goreng*.
+
+
+ 
+ 
 
 <b>*Opor ayam*</b>
 <br>1 chicken
