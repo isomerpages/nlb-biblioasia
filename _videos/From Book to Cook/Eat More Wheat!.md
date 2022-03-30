@@ -16,6 +16,9 @@ In 1967, the Singapore government launched the Eat More Wheat campaign to reduce
 
 #### **Recipe**
 This recipe by Mrs Choa was submitted to an Eat More Wheat cooking contest organised by Radio TV Singapore in the late 1960s. The recipe shows the total cost of the ingredients (S$1.32), because according to the contest criteria, the cost could not exceed S$3 for four servings. 
+
+The recipe has measurements in ounces and *tahil*, as the units of measurements in Singapore were not standardised then. In 1971, two years after the recipe book was published, the metric sytem was adopted, and the use of imperial (e.g. ounces, gallons)and local (e.g. *kati*, *tahil*) measurements was dropped.
+
 ![](/images/Videos:%20From%20Book%20to%20Cook/Milk%20Noodle%20Soup%20pg%2018-19.jpg)
 <div style="background-color: white;"> Recipe of milk noodle soup, from <i>"The Proof Is in the Eating" Recipe Book</i> (Singapore: RTS Enterprises, 1969).</div>
 
