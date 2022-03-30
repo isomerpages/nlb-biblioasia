@@ -66,7 +66,7 @@ Its accompaniments are thinly sliced cucumber, fried anchovies, and chicken eggs
 <br>1 coconut
 <br>3 bay leaves
 <br>some lemongrass (Toffa: 2 stalks of lemongrass)
-<br>Toffa recommends adding 10 shallots
+<br>Toffa: 10 shallots, thinly sliced
 
 <u>Siti Radhiah's instructions</u>
 <br> Ground coriander seeds, salt and white pepper together. Then add garlic, candlenuts, galangal, ginger and red onions. Grind them until fine. Sauté all of the spices with a bit of coconut oil. Then add bay leaves, lemongrass and chicken that has been cleaned and chopped up, and stir. When most of the liquid has dried up, add coconut milk. When the gravy is thick and the chicken is tender, remove from heat.
@@ -88,9 +88,9 @@ Its accompaniments are thinly sliced cucumber, fried anchovies, and chicken eggs
 <br>½ *kati* (~303 g) meat 
 <br>4 tbsp. sliced red onions
 <br>4 slices ginger
-<br>a bit of sliced lemongrass
+<br>a bit of sliced lemongrass (Toffa: 1 stalk of lemongrass)
 <br>4 cloves garlic, sliced
-<br>½ tsp. shrimp paste
+<br>½ tsp. <i>belacan</i> (fermented shrimp paste) 
 <br>a bit of granulated sugar
 <br>15 red chillies, thinly sliced (dried chillies can also be used)
 <br>4 tofu, sliced
@@ -108,7 +108,7 @@ Clean the meat well, cut it into small pieces, and fry them. Sauté red onions, 
 4. Fry shallots, garlic, ginger and lemongrass until fragrant, the shallots are cooked or turn translucent, and the garlic turn slightly golden.
 5. Add the red chillies and fry briefly until they wilt or slightly soften.
 6. Add the beef and tofu.
-7. In a small bowl, add <i>belacan</i> (fermented shrimp paste) and tamarind paste. Add water to dissolve the <i>belacan</i> and mix in the tamarind paste.
+7. In a small bowl, add <i>belacan</i> and tamarind paste. Add water to dissolve the <i>belacan</i> and mix in the tamarind paste.
 8. Pour mixture into the pan. Ensure enough liquid to  coat the beef and tofu. This allows for the <i>belacan</i> and tamarind mixture to be absorbed by the beef and tofu. If it is too dry, it will be harder for the beef and tofu to absorb the seasoning. Extra water can always be cooked down.
 9. Add salt and sugar to taste while there is still liquid in the pan. Note: Not too much salt since the <i>belacan</i> is already salty.
 10. The final dish should have little to no gravy.
