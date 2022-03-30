@@ -80,6 +80,12 @@ Its accompaniments are thinly sliced cucumber, fried anchovies, and chicken eggs
 5. Heat the coconut oil in a pot at low-medium heat. Do not use high heat, as coconut oil has a low smoking point.
 6. Add the <i>rempah</i> or spice paste. Sauté until it becomes fragrant and the paste is no longer raw. Do not burn or overcook it. 
 7. Add bay leaves and lemongrass. Break the lemongrass with the pestle or a hard object before adding it in.
+8. Add the chicken and fry it for a while in the spices.
+9.  Add the thick and thin coconut milk that has been set aside for the <i>opor ayam</i>.
+10. Salt to taste.
+11. Cover the pot. Stir occasionally and continue cooking at low-medium heat.
+12. Once the chicken is cooked, remove the lid and continue cooking to reduce and thicken the gravy.
+13. You’re done! The thickness of the sauce is up to your own liking. Salt to taste.
 
 <b>*Sambal goreng*</b> 
 <br>½ *kati* (~303 g) meat 
