@@ -32,15 +32,14 @@ Its accompaniments are thinly sliced cucumber, fried anchovies, and chicken eggs
 
 <b>Toffa's notes </b>
 <br><u>Extracting the coconut milk </u>
-<br>Remember to massage the grated coconut with water before squeezing. You can use a coconut bag or with your hands over a strainer/sift.
-
-* First extraction (thick milk): add 300 ml of warm water to the grated coconut
+1. Massage the grated coconut with water before squeezing. You can use a coconut bag or with your hands over a strainer/sift.
+2. First extraction (thick milk): add 300 ml of warm water to the grated coconut.
 <br>The extraction will yield  more than 300ml, as the coconut already has liquid in it. After squeezing , set aside 150 ml for the *nasi lemak*. The rest will go into the <i>opor ayam</i>.
-* Second extraction (thin milk): add 300 ml of warm water to the grated coconut
+2. Second extraction (thin milk): add 300 ml of warm water to the grated coconut.
 <br>Set aside 150 ml for the *nasi lemak*. The rest will go into the <i>opor ayam</i>.
-* Third extraction (thin milk):add 300 ml of warm water to the grated coconut
-<br>All for the *nasi lemak*.
-<br>Do not discard the coconut yet. You might need more coconut milk later.
+3.Third extraction (thin milk): add 300 ml of warm water to the grated coconut.
+<br>The extraction is for the *nasi lemak*.
+4. Do not discard the coconut yet. You might need more coconut milk later.
  
 <u>Making <i>nasi lemak berkukus</i></u>
 
