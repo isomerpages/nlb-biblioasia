@@ -66,6 +66,7 @@ Its accompaniments are thinly sliced cucumber, fried anchovies, and chicken eggs
 <br>1 coconut
 <br>3 bay leaves
 <br>some lemongrass (Toffa: 2 stalks of lemongrass)
+<br>Toffa recommends adding 10 shallots
 
 <u>Siti Radhiah's instructions</u>
 <br> Ground coriander seeds, salt and white pepper together. Then add garlic, candlenuts, galangal, ginger and red onions. Grind them until fine. Sauté all of the spices with a bit of coconut oil. Then add bay leaves, lemongrass and chicken that has been cleaned and chopped up, and stir. When most of the liquid has dried up, add coconut milk. When the gravy is thick and the chicken is tender, remove from heat.
