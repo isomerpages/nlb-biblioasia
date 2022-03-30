@@ -5,7 +5,7 @@ description: ""
 third_nav_title: From Book to Cook
 ---
 #### Video coming your way on 14 April ####
-
+![](/images/Videos:%20From%20Book%20to%20Cook/geok%20boi%20making%20tapioca%20noodles.png)
 
 #### **Episode summary** ####
 Because of a rice shortage during the Japanese Occupation, people ate sweet potato and tapioca instead. Writer and cookbook author Lee Geok Boi shows us what the human imagination is capable of by taking these humble root vegetables and turning them into two delicious dishes, using only ingredients that were available in Japanese-occupied Singapore.
