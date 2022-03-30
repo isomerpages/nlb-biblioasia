@@ -45,7 +45,7 @@ Its accompaniments are thinly sliced cucumber, fried anchovies, and chicken eggs
 1. Heat the steamer.
 2. Place the rice into the steaming tray/container.
 3. Add thin coconut milk from the second and third squeezes.
-4. Add bay leaves, pandan or lemongrass. Remove a bit of the stalk to release aroma, so that it is better infused with the rice. Use 2 bay leaves for 300g of rice in the video. 
+4. Add bay leaves, pandan or lemongrass. Remove a bit of the stalk to release aroma, so that it is better infused with the rice. In the video, two bay leaves for 300 g of rice were used.
 5. Steam for 15 minutes.
 6. After 15 minutes, if there is still a lot of coconut milk, stir the rice mixture and steam for another 15 minutes.
 7. When most of the coconut milk has been absorbed, gently stir the rice and add the thick coconut milk (150 ml). Salt the coconut milk. Steam for another 15 minutes.
