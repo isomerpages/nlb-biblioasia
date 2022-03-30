@@ -20,7 +20,7 @@ This recipe by Mrs Choa was submitted to an Eat More Wheat cooking contest organ
 The recipe has measurements in ounces and *tahil*, as the units of measurements in Singapore were not standardised then. In 1971, two years after the recipe book was published, the metric sytem was adopted, and the use of imperial (e.g. ounces, gallons) and local (e.g. *kati*, *tahil*) measurements was dropped.
 
 ![](/images/Videos:%20From%20Book%20to%20Cook/Milk%20Noodle%20Soup%20pg%2018-19.jpg)
-<div style="background-color: white;"> Recipe of milk noodle soup, from <i>"The Proof Is in the Eating" Recipe Book</i> (Singapore: RTS Enterprises, 1969).</div>
+<div style="background-color: white;"> Recipe of milk noodle soup showing the total cost of ingredients and different systems of measurements. From <i>"The Proof Is in the Eating" Recipe Book</i> (Singapore: RTS Enterprises, 1969).</div>
 
 Christopher used a *murukku* press to make the noodles, after experimenting with various equipment, including a sieve as recommended by the recipe, and a *chendol* press.
 ![](/images/Videos:%20From%20Book%20to%20Cook/eat%20more%20wheat%20campaign%20milk%20noodles%20murukku%20press.png)
