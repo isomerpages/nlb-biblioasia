@@ -16,7 +16,7 @@ In this episode, we make an unusual version of nasi lemak using a recipe from 19
 #### **Recipes**
 Toffa made Siti Radhiah's recipes of *nasi lemak berkukus dengan lauk-pauknya* (steamed *nasi lemak* and its accompaniments), which were originally published in Jawi, in her third cookbook in 1953. Malay publications were predominantly published in Jawi until the late 1950s. In 1961, Siti Radhiah's second cookbook, *Hidangan Wanita Sekarang*, was published in roman Malay to reach a wider audience. 
 
-True to Siti Radhiah's spirit of spreading knowledge, Toffa has translated the recipes into English. Recipes of that time tend to be less detailed, and Toffa has added her notes below.
+True to Siti Radhiah's spirit of spreading knowledge, Toffa has translated the recipes into English. Recipes of that time tend to be brief, and Toffa has added her detailed notes below.
 ![](/images/Videos:%20From%20Book%20to%20Cook/nasi%20lemak%20recipe.png)
 <div style="background-color: white;">Recipe of <i>nasi lemak berkukus</i> or steamed nasi lemak, from Siti Radhiah, <i>Memilih Selera</i> [Choosing tastes] (Singapore: Harmy, 1953).</div>
 
