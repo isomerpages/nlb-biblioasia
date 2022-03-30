@@ -114,7 +114,7 @@ Clean the meat well, cut it into small pieces, and fry them. Sauté red onions, 
 7. In a small bowl, add belacan and tamarind paste. Add water to dissolve the belacan and mix in the tamarind paste.
 8. Pour mixture into the pan. Ensure enough liquid to nicely coat the beef and tofu. This allows for the belacan and tamarind mixture to be absorbed by the beef and tofu. If it is too dry, it will be harder for the beef and tofu to absorb the seasoning. It is okay if you add too much water; you can always cook it down.
 9. Add salt and sugar to taste while there is still liquid in the pan. Note: Not too much salt since the belacan is already salty.
-10. The final dish should have little or no gravy.
+10. The final dish should have little to no gravy.
 
 
  ![](/images/Videos:%20From%20Book%20to%20Cook/siti%20radhiah_sambal%20goreng%20with%20beef%20and%20tofu.png)
