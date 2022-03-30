@@ -121,6 +121,10 @@ Clean the meat well, cut it into small pieces, and fry them. Sauté red onions, 
 <a style="text-decoration: none;" href="/vol-17/issue-4/jan-to-mar-2022/siti-radhiah-cookbooks ">Siti Radhiah’s Cookbooks for the Modern Malay Woman</a>
 <br>A number of cookbooks written in the 1940s and 1950s helped expand the traditional Malay culinary repertoire, as Toffa Abdul Wahed tells us.
 
+<a style="text-decoration: none;" href="/vol-13/issue-3/oct-dec-2017/early-malay-printing
+">Early Malay Printing in Singapore</a>
+<br>Mazelan Anuar tracks the rise and decline of Malay printing and publishing in 19th-century Singapore, and profiles two of the most prolific printers of that period.
+
 <a style="text-decoration: none;" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1739_2010-12-13.html">Nasi Lemak</a>
 <br>Nasi lemak refers to rice cooked in coconut milk. Modern-day variations on the dish now offer an extensive array of other side dishes.
 
