@@ -32,20 +32,20 @@ Its accompaniments are thinly sliced cucumber, fried anchovies, and chicken eggs
 
 <u>Toffa's notes </u>
 <br>Extracting the coconut milk 
-1. Massage the grated coconut with water before squeezing. You can use a coconut bag or with your hands over a strainer/sift.
+1. Massage the grated coconut with water before squeezing. Use a coconut bag or squeeze it over a strainer or sieve.
 2. First extraction (thick milk): add 300 ml of warm water to the grated coconut.
-<br>The extraction will yield  more than 300ml, as the coconut already has liquid in it. After squeezing , set aside 150 ml for the *nasi lemak*. The rest will go into the <i>opor ayam</i>.
+<br>The extraction will yield  more than 300ml, as the coconut has moisture in it. After squeezing , set aside 150 ml for the *nasi lemak*. The rest will go into the <i>opor ayam</i>.
 2. Second extraction (thin milk): add 300 ml of warm water to the grated coconut.
 <br>Set aside 150 ml for the *nasi lemak*. The rest will go into the <i>opor ayam</i>.
 3.Third extraction (thin milk): add 300 ml of warm water to the grated coconut.
 <br>The extraction is for the *nasi lemak*.
-4. Do not discard the coconut yet. You might need more coconut milk later.
+4. Do not discard the coconut, in case more coconut milk is needed later.
  
 <br>Making <i>nasi lemak berkukus</i>
 1. Heat the steamer.
-2. Place the rice into the steaming tray/container.
-3. Add thin coconut milk from the second and third squeezes.
-4. Add bay leaves, pandan or lemongrass. Remove a bit of the stalk to release aroma, so that it is better infused with the rice. In the video, two bay leaves for 300 g of rice were used.
+2. Place the rice into the steaming tray.
+3. Add the thin coconut milk from the second and third squeezes.
+4. Add bay leaves, pandan or lemongrass. Remove a bit of the stalk to release aroma, so that it is better infused with the rice.
 5. Steam for 15 minutes.
 6. After 15 minutes, if there is still a lot of coconut milk, stir the rice mixture and steam for another 15 minutes.
 7. When most of the coconut milk has been absorbed, gently stir the rice and add the thick coconut milk (150 ml). Salt the coconut milk. Steam for another 15 minutes.
@@ -73,7 +73,7 @@ Its accompaniments are thinly sliced cucumber, fried anchovies, and chicken eggs
 <u>Toffa's notes </u>
 <br>The *opor ayam* can be cooked  while the rice is being steamed.
 
-1. Pound, grind or blend coriander seeds and white peppercorns. Then add garlic, candlenuts, galangal, ginger and shallots. If you use a blender, use coriander powder and white pepper powder instead of the seeds and corns, as they might be too small for the blender blades. Pound, grind or blend until you get a fine paste.
+1. Pound, grind or blend coriander seeds and white peppercorns. Then add garlic, candlenuts, galangal, ginger and shallots. With a blender, use coriander powder and white pepper powder instead of the seeds and corns, as they might be too small for the blender blades. Pound, grind or blend until you get a fine paste.
 5. Heat the coconut oil in a pot at low-medium heat. Do not use high heat, as coconut oil has a low smoking point.
 6. Add the <i>rempah</i> or spice paste. Sauté until it becomes fragrant and the paste is no longer raw. Do not burn or overcook it. 
 7. Add bay leaves and lemongrass. Break the lemongrass with the pestle or a hard object before adding it in.
@@ -105,11 +105,11 @@ Clean the meat well, cut it into small pieces, and fry them. Sauté red onions, 
 1. Fry the beef and remove from pan. (Maybe  use a non-stick pan.)
 2. Fry the tofu and remove from pan.
 3. Remove some  oil from the pan. Leave enough oil to cook the rest of the dish and assemble all the ingredients.
-4. Fry shallots, garlic, ginger and lemongrass until fragrant, the shallots cooked or translucent, and the garlic slightly golden.
+4. Fry shallots, garlic, ginger and lemongrass until fragrant, the shallots are cooked or turn translucent, and the garlic turn slightly golden.
 5. Add the red chillies and fry briefly until they wilt or slightly soften.
 6. Add the beef and tofu.
 7. In a small bowl, add <i>belacan</i> and tamarind paste. Add water to dissolve the <i>belacan</i> and mix in the tamarind paste.
-8. Pour mixture into the pan. Ensure enough liquid to nicely coat the beef and tofu. This allows for the <i>belacan</i> and tamarind mixture to be absorbed by the beef and tofu. If it is too dry, it will be harder for the beef and tofu to absorb the seasoning. Extra water can always be cooked down.
+8. Pour mixture into the pan. Ensure enough liquid to  coat the beef and tofu. This allows for the <i>belacan</i> and tamarind mixture to be absorbed by the beef and tofu. If it is too dry, it will be harder for the beef and tofu to absorb the seasoning. Extra water can always be cooked down.
 9. Add salt and sugar to taste while there is still liquid in the pan. Note: Not too much salt since the <i>belacan</i> is already salty.
 10. The final dish should have little to no gravy.
 
