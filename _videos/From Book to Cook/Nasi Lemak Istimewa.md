@@ -71,7 +71,15 @@ Its accompaniments are thinly sliced cucumber, fried anchovies, and chicken eggs
 <br> Ground coriander seeds, salt and white pepper together. Then add garlic, candlenuts, galangal, ginger and red onions. Grind them until fine. Sauté all of the spices with a bit of coconut oil. Then add bay leaves, lemongrass and chicken that has been cleaned and chopped up, and stir. When most of the liquid has dried up, add coconut milk. When the gravy is thick and the chicken is tender, remove from heat.
 
 <u>Toffa's notes </u>
+<br>The *opor ayam* can be cooked along while the rice is being steamed.
 
+1. Pound, grind or blend coriander seeds and white peppercorns.
+2. Then add garlic, candlenuts, galangal, ginger and shallots.  
+3. If you use a blender, use coriander powder and white pepper powder instead of the seeds and corns, as they might be too small for the blender blades.
+4. Pound, grind or blend until you get a fine paste.
+5. Heat the coconut oil in a pot at low-medium heat. Do not use high heat, as coconut oil has a low smoking point.
+6. Add the <i>rempah</i> or spice paste. Sauté until it becomes fragrant and the paste is no longer raw. Do not burn or overcook it. 
+7. Add bay leaves and lemongrass. Break the lemongrass with the pestle or a hard object before adding it in.
 
 <b>*Sambal goreng*</b> 
 <br>½ *kati* (~303 g) meat 
