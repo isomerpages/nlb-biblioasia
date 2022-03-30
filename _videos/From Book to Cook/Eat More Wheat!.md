@@ -16,7 +16,7 @@ In 1967, the Singapore government launched the Eat More Wheat campaign to reduce
 
 
 #### **Recipe**
-This recipe by Mrs Choa was submitted to an Eat More Wheat cooking contest organised by Radio TV Singapore in the late 1960s. According to the contest criteria, the ingredient cost could not exceed S$3 for four servings, and the ingredients for this recipe cost S$1.32.
+This recipe by Mrs Choa was submitted to an Eat More Wheat cooking contest organised by Radio TV Singapore in the late 1960s. According to the contest criteria, the ingredients could not cost more than S$3 for a dish to serve four. For this recipe, the ingredients came up to S$1.32.
 
 The recipe has measurements in ounces and *tahil*, as the units of measurements in Singapore were not standardised then. In 1971, two years after the recipe book was published, the metric sytem was adopted, and the use of imperial (e.g. ounces, gallons) and local (e.g. *kati*, *tahil*) measurements was dropped.
 
