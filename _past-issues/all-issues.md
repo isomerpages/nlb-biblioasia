@@ -12,7 +12,7 @@ Note: When accessing older issues, you may be directed to an archived version.
 |                                                              |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | ![BiblioAsia 17-1 cover](/images/covers/ba17-1.jpg)[Apr–Jun 2021](/vol-17/issue-1/apr-jun-2021/)<br>[Apr–Jun 2021 (PDF)](/files/pdf/BiblioAsia Apr-Jun 2021.pdf) | ![BiblioAsia 17-1 cover](/images/covers/ba17-2b.jpg)[Jul–Sep 2021](/vol-17/issue-2/jul-sep-2021/)<br>[Jul–Sep 2021 (PDF)](/files/pdf/BiblioAsia%20JUL-SEP2021.pdf)   |
-| ![BiblioAsia 17-3 cover](/images/covers/ba%2017-3e.jpg)[Oct–Dec 2021](/vol-17/issue-3/oct-dec-2021/)<br>[Oct–Dec 2021 (PDF)](/files/pdf/BiblioAsia%20Oct-Dec%202021v2.pdf) | ![BiblioAsia 17-4 cover](/images/covers/ba17-4v3.jpg)[Jan–Mar 2022](/vol-17/issue-4/jan-mar-2022/)<br>[Jan–Mar 2022 (PDF)](/files/pdf/BiblioAsia_Jan-Mar%202022v3.pdf) | 
+| ![BiblioAsia 17-3 cover](/images/covers/ba%2017-3e.jpg)[Oct–Dec 2021](/vol-17/issue-3/oct-dec-2021/)<br>[Oct–Dec 2021 (PDF)](/files/pdf/BiblioAsia%20Oct-Dec%202021v2.pdf) | ![BiblioAsia 17-4 cover](/images/covers/ba17-4v3.jpg)[Jan–Mar 2022](/vol-17/issue-4/jan-mar-2022/)<br>[Jan–Mar 2022 (PDF)](/files/pdf/BiblioAsia%20Jan-Mar%202022v4.pdf) | 
 
 
 #### Volume 16
