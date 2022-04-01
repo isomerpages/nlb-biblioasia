@@ -4,8 +4,8 @@ permalink: /videos/not-spaghetti-bolognese
 description: ""
 third_nav_title: From Book to Cook
 ---
-#### Video coming your way on 5 May #### 
-![](/images/Videos:%20From%20Book%20to%20Cook/spaghetti%20ketchup%20measuring%20technique.png)
+#### In the 1987 home economics syllabus, 14-year-old girls were taught how to breastfeed and bathe a baby. How has the syllabus changed over the years? Join food writer Sheere Ng on 5 May to find out!
+ ![](/images/Videos:%20From%20Book%20to%20Cook/spaghetti%20ketchup%20measuring%20technique.png)
 <div style="background-color: white;">Sheere shows Paddy how to measure spaghetti without using the weighing scale.</div>
 
 #### **Episode summary** ####
