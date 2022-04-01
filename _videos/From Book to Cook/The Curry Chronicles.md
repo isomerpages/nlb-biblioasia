@@ -4,7 +4,7 @@ permalink: /videos/curry-chronicles
 description: ""
 third_nav_title: From Book to Cook
 ---
-#### What would a 100-year-old rendang recipe taste like? Catch the first episode of our new cooking series on 7 April and find out!
+#### What would a 100-year-old rendang recipe taste like? Join chef Devagi Sanmugam in the first episode of our new cooking series on 7 April to find out!
 
 ![](/images/Videos:%20From%20Book%20to%20Cook/devagi%20makes%20mrs%20kinseys%20rendang%202.png)
 <div style="background-color: white;">Chef Devagi Sanmugam squeezes the grated coconut by hand to get coconut milk, while Paddy grinds the spices on the grinding stone.</div>
