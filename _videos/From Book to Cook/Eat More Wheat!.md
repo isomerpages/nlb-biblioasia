@@ -4,7 +4,7 @@ permalink: /videos/eat-more-wheat-campaign
 description: ""
 third_nav_title: From Book to Cook
 ---
-#### Video coming your way on 28 April #### 
+#### Immature shrimp? Gourmet powder? Cookbook author Christopher Tan overcomes  vague instructions and unusual ingredients to produce delicious handmade noodles in this episode. Coming your way on 28 April.
 
 ![](/images/Videos:%20From%20Book%20to%20Cook/Christoper%20Tan%20with%20Paddy.png)
 <div style="background-color: white;">Cookbook author and culinary instructor Christopher Tan makes the batter for handmade noodles.</div>
