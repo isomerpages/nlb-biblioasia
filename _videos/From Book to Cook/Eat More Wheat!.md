@@ -34,6 +34,8 @@ Christopher used a *murukku* press to make the noodles, after experimenting with
 <a style="text-decoration: none;" href="/vol-16/issue-1/apr-jun-2020/metric"> Milestones to the Metric System</a>
 <br>Prior to the 1970s, Singapore used three different systems of weights and measures. Shereen Tay traces how we transitioned to the metric system.
 
+<a style="text-decoration: none;" href="/vol-16/issue-4/jan-mar-2021/kueh-lapis">Love Is a Many-Layered Thing</a>
+<br>What lies in this vale of tiers? Christopher Tan delves into lapis legit, the cake as famous for its exacting recipe as for the unparalleled flavour of its buttery layers.
 
 #### **Related Books**
 RTS Enterprises, *["The Proof Is in the Eating" Recipe Book](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4402029)* (Singapore: RTS Enterprises, 1969).
