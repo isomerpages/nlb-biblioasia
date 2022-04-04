@@ -6,7 +6,7 @@ third_nav_title: From Book to Cook
 ---
 #### Is it heresy to make nasi lemak with bay leaves instead of pandan? Join librarian Toffa Abdul Wahed on 21 April to find out!  
 ![](/images/Videos:%20From%20Book%20to%20Cook/siti%20radhiah_steamed%20nasi%20lemak.png)
-<div style="background-color: white;">Toffa makes traditional steamed <i>nasi lemak</i> from a 1953 recipe by Siti Radhiah, an early female Malay cookbook author.</div>
+<div style="background-color: white;">Librarian and food researcher Toffa Abdul Wahed makes traditional steamed <i>nasi lemak</i> from a 1953 recipe by Siti Radhiah, an early female Malay cookbook author.</div>
 
 
 #### **Episode summary** ####
