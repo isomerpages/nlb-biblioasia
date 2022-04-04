@@ -14,7 +14,7 @@ In this episode, we make an unusual version of nasi lemak using a recipe from 19
 
 
  ![](/images/Videos:%20From%20Book%20to%20Cook/siti%20radhiah_nasi%20lemak%20with%20opor%20ayam%20and%20sambal%20goreng.png)
-<div style="background-color: white;">Siti Radhiah's recipe comes with recipes of accompanying dishes, such as of <i>opor ayam</i> and <i>sambal goreng</i>.</div>
+<div style="background-color: white;">Siti Radhiah's <i>nasi lemak</i> recipe comes with accompanying dishes, such as <i>opor ayam</i> and <i>sambal goreng</i>.</div>
 
 
 #### **Recipes**
