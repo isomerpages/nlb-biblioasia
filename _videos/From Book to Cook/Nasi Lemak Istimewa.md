@@ -102,9 +102,9 @@ Its accompaniments are thinly sliced cucumber, fried anchovies, and chicken eggs
 Clean the meat well, cut it into small pieces, and fry them. Sauté red onions, garlic, ginger and lemongrass in cooking oil. Then add the thinly sliced dried chillies and stir. Add the fried meat and cut tofu, followed by shrimp paste, and a bit of salt, sugar and tamarind juice. If you like, add some *pati santan* (undiluted coconut milk). Stir until dry, and remove from heat. *Sambal goreng* is also made with tempeh and thinly sliced long beans.
 
 <u>Toffa's notes </u>
-1. Fry the beef and remove from pan. (Maybe  use a non-stick pan.)
+1. Fry the beef and remove from pan, preferably a non-stick pan.
 2. Fry the tofu and remove from pan.
-3. Remove some  oil from the pan. Leave enough oil to cook the rest of the dish and assemble all the ingredients.
+3. Remove some oil from the pan. Leave enough oil to cook the rest of the dish and assemble all the ingredients.
 4. Fry shallots, garlic, ginger and lemongrass until fragrant, the shallots are cooked or turn translucent, and the garlic turn slightly golden.
 5. Add the red chillies and fry briefly until they wilt or slightly soften.
 6. Add the beef and tofu.
