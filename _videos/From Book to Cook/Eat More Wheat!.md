@@ -6,8 +6,8 @@ third_nav_title: From Book to Cook
 ---
 #### Immature shrimp? Gourmet powder? Cookbook author Christopher Tan overcomes  vague instructions and unusual ingredients to produce delicious handmade noodles in this episode. Coming your way on 28 April.
 
-![](/images/Videos:%20From%20Book%20to%20Cook/Christoper%20Tan%20with%20Paddy.png)
-<div style="background-color: white;">Cookbook author and culinary instructor Christopher Tan makes the batter for handmade noodles.</div>
+![traditional Asian thermometer ](/images/Videos:%20From%20Book%20to%20Cook/Christoper%20Tan%20with%20Paddy1.png)
+<div style="background-color: white;">Cookbook author and culinary instructor Christopher Tan uses the traditional Asian thermometer to gauge heat from the pan.</div>
 
 #### **Episode summary** ####
 In 1967, the Singapore government launched the Eat More Wheat campaign to reduce the import of rice, because it was expensive compared to wheat. Award-winning cookbook author and culinary instructor Christopher Tan tells us about the campaign and makes a unique milk noodle soup dish from a 1969 cookbook, which was published in conjunction with the campaign.
