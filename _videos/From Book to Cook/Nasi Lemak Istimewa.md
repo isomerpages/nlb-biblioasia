@@ -133,7 +133,7 @@ Clean the meat well, cut it into small pieces, and fry them. Sauté red onions, 
 <a style="text-decoration: none;" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1739_2010-12-13.html">Nasi Lemak</a>
 <br>Nasi lemak refers to rice cooked in coconut milk. Modern-day variations on the dish now offer an extensive array of other side dishes.
 
-<a style="text-decoration: none;" href="https://medium.com/the-national-library-blog/sharing-knowledge-about-cookery-a074113ed89a">Sharing Knowledge About Cookery</a>
+<a style="text-decoration: none;" href="https://medium.com/the-national-library-blog/sharing-knowledge-about-cookery-a074113ed89a">Sharing Knowledge about Cookery</a>
 <br>Today, cookbooks regularly top bestsellers’ lists and make great presents for friends and loved ones. But what were cookbooks like half a century ago? Associate Librarian Toffa takes a (tasty) trip down memory lane to find out.
 
 
