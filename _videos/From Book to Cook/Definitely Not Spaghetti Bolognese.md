@@ -6,7 +6,7 @@ third_nav_title: From Book to Cook
 ---
 #### In the 1987 home economics syllabus, 14-year-old girls were taught how to breastfeed and bathe a baby. How has the syllabus changed over the years? Join food writer Sheere Ng on 5 May to find out, as she makes a simple pasta dish taught in her home economics class!
  ![](/images/Videos:%20From%20Book%20to%20Cook/spaghetti%20ketchup%20measuring%20technique.png)
-<div style="background-color: white;">Sheere shows Paddy how to measure spaghetti without using the weighing scale.</div>
+<div style="background-color: white;">Food writer Sheere Ng shows Paddy how to measure spaghetti without using the weighing scale.</div>
 
 #### **Episode summary** ####
 Home economics was taught in Singapore schools to train teenage girls to be good homemakers. The changing syllabus for this subject over the different decades tells a story of the “ideal” Singaporean woman and gender roles. Food writer and researcher Sheere Ng explores home economics while making a unique pasta dish, one that she was taught in her home economics class. (Hint: It involves a sauce that normally goes with fries!)
