@@ -4,7 +4,7 @@ permalink: /videos/tapioca-tales
 description: ""
 third_nav_title: From Book to Cook
 ---
-#### Can wartime food be delicious? Find out as cookbook author Lee Geok Boi whips up two dishes. Coming on 14 April 2022.
+#### Can wartime food be delicious? Find out as cookbook author Lee Geok Boi whips up two dishes using only wartime ingredients. Coming on 14 April 2022.
 
 ![](/images/Videos:%20From%20Book%20to%20Cook/geok%20boi%20making%20tapioca%20noodles.png)
 <div style="background-color: white;">Lee Geok Boi makes tapioca noodles from tapioca starch and mashed tapioca.</div>
