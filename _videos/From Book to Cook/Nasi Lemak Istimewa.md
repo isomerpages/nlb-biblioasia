@@ -28,7 +28,7 @@ True to Siti Radhiah's spirit of spreading knowledge, Toffa has translated the r
 <b>*Nasi lemak berkukus*</b>
 <br>2 *kati* (~1210 g) Thai rice
 <br>2 coconuts
-<br>salt *(Toffa's recommendation: 3 tsp. salt)*
+<br>salt (In the video, Toffa used ¾ tsp. of salt for 300 g of rice.)
 
 <u>Siti Radhiah's instructions</u>
 <br>Cook rice with thin coconut milk in a steamer. Then remove it and pour in salted thick coconut milk and stir. Steam again until cooked. If you like it fragrant, add a few bay leaves or lemongrass.
