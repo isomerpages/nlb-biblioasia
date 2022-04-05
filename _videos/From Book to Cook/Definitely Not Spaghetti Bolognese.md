@@ -16,7 +16,7 @@ Home economics was taught in Singapore schools to train teenage girls to be good
 
 
 #### **Recipe**
-Instead of using lean meat and tomato paste as called for in the 1997 recipe, Sheere was taught to use hot dogs and tomato ketchup instead. In fact, home economics textbooks of the 1990s taught students how to use convenience foods with fresh food to make nutritious home-cooked meals. The recipes in those textbooks were simpler, a reflection of the trend that more families were eating out than cooking.  
+Instead of using lean meat and tomato paste as called for in the 1997 recipe, Sheere was taught to use hot dogs and tomato ketchup instead. In fact, home economics textbooks of the 1990s taught students how to use convenience food with fresh food to make nutritious home-cooked meals. The recipes in those textbooks were simpler, a reflection of the trend that more families were eating out than cooking.  
 
 ![](/images/Videos:%20From%20Book%20to%20Cook/home%20econs%20recipe.jpg)
 <div style="background-color: white;">Recipe of spaghetti Bolognese, from Ethel Chong Su-Hsin et al., <i>Home Economics Today 2E</i> (Singapore: Pan Pacific Book for Curriculum Development Institute of Singapore, 1997).</div>
