@@ -32,7 +32,7 @@ True to Siti Radhiah's spirit of spreading knowledge, Toffa has translated the r
 <u>Siti Radhiah's instructions</u>
 <br>Cook rice with thin coconut milk in a steamer. Then remove it and pour in salted thick coconut milk and stir. Steam again until cooked. If you like it fragrant, add a few bay leaves or lemongrass.
  
-Its accompaniments are thinly sliced cucumber, fried anchovies, and chicken eggs or duck eggs made into omelette. *Kacang putih* is soaked first and then fried. Slice red onions and chillies thinly, and fry them. *Nasi lemak* can also go with *opor ayam* (chicken cooked in coconut milk) and *sambal goreng*.
+Its accompaniments are thinly sliced cucumber, fried anchovies, and omelettes made from chicken eggs or duck eggs. *Kacang putih* is soaked first and then fried. Slice red onions and chillies thinly, and fry them. *Nasi lemak* can also go with *opor ayam* (chicken cooked in coconut milk) and *sambal goreng*.
 
 <u>Toffa's notes </u>
 <br>Extracting the coconut milk (for 300 g of rice)
