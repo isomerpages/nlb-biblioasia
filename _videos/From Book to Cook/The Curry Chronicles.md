@@ -31,7 +31,7 @@ Check out how
 
 
 #### **Related Articles**
-<a style="text-decoration: none;" href="/vol-11/issue-4/jan-mar-2016/mems-own-cookery-book "> A Colonial Cookbook</a>
+<a style="text-decoration: none;" href="/vol-11/issue-4/jan-mar-2016/mems-cookery-book-william-edward-kinsey"> A Colonial Cookbook</a>
 <br>The first edition of *The Mem’s Own Cookery Book*, issued in 1920, sold out within a few months; the second edition, published in 1922, was so popular that a third was published in 1929.
 
 <a style="text-decoration: none;" href="/vol-12/issue-2/jul-sep-2016/dontmesswiththecook"> Mem, Don’t Mess with the Cook</a>
