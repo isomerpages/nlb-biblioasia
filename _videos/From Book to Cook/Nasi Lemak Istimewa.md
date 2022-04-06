@@ -126,7 +126,7 @@ Clean the meat well, cut it into small pieces, and fry them. Sauté red onions, 
 <br>Mazelan Anuar tracks the rise and decline of Malay printing and publishing in 19th-century Singapore, and profiles two of the most prolific printers of that period.
 
 <a style="text-decoration: none;" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1739_2010-12-13.html">Nasi Lemak</a>
-<br>*Nasi lemak*  is a dish made from rice cooked in coconut milk. Aromatics such as pandan leaves, lemongrass, ginger, garlic and fenugreek, can be added to it.
+<br>*Nasi lemak*  is a dish made from rice cooked in coconut milk. Aromatics, such as pandan leaves, lemongrass, ginger, garlic and fenugreek, can be added to it.
 
 <a style="text-decoration: none;" href="https://medium.com/the-national-library-blog/sharing-knowledge-about-cookery-a074113ed89a">Sharing Knowledge about Cookery</a>
 <br>Today, cookbooks regularly top bestsellers’ lists and make great presents for friends and loved ones. But what were cookbooks like half a century ago? Associate Librarian Toffa takes a (tasty) trip down memory lane to find out.
