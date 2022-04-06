@@ -66,7 +66,6 @@ Geok Boi's recipes are inspired by tapioca noodles sold and distributed as ratio
 <a style="text-decoration: none;" href="/vol-12/issue-4/jan-mar-2017/surviving-jpnese-occu">Surviving the Japanese Occupation: War and Its Legacies</a>
 <br>A revamped exhibition space opens at the old Ford Factory in Bukit Timah, marking the 75th anniversary of the fall of Singapore. Fiona Tan details its major highlights.
 
-
 <a style="text-decoration: none;" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1223_2008-12-05.html ">Grow More Food Campaign</a>
 <br>The Grow More Food Campaign was started during the Japanese Occupation to place a check on inflation and prepare for an eventual blockade from enemy forces. 
  
