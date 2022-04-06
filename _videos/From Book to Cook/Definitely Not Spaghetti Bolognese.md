@@ -29,7 +29,7 @@ Instead of using lean meat and tomato paste as called for in the 1997 recipe, Sh
 <br>The role of women in Singapore’s nation-building efforts in the post-Independence years is sometimes overlooked. Janice Loo examines the impact that women have had on the nation’s development.
 
 #### **Related Books**
-Ethel Chong Su-Hsin et al., *[Home Economics Today 2E](https://eservice.nlb.gov.sg/itemholding.aspx?bid=8888488)* (Singapore: Pan Pacific Book for Curriculum Development Institute of Singapore, 1997).
+Ethel Chong Su-Hsin et al., *[Home Economics Today 2E](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8888488)* (Singapore: Pan Pacific Book for Curriculum Development Institute of Singapore, 1997).
 
 Linda Lim, *[Women in the Singapore Economy](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4080228)* (Singapore: Chopmen, 1982).
 
