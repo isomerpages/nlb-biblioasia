@@ -50,5 +50,5 @@ Devagi Sanmugam, *[Indian Heritage Cooking](https://eservice.nlb.gov.sg/item_hol
 
 Elizabeth M. Collingham, *[Curry: A Tale of Cooks and Conquerors](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12728802)* (Oxford: Oxford University Press, 2006).
 
-Krishnendu Ray and Tulasi Srinivas, *[Curried Cultures: Globalization, Food, and South Asia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200125930v)*
+Krishnendu Ray and Tulasi Srinivas, *[Curried Cultures: Globalization, Food, and South Asia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200125930)*
 (Berkeley: University of California Press, 2012).
