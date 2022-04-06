@@ -50,7 +50,7 @@ Its accompaniments are thinly sliced cucumber, fried anchovies, and omelettes ma
 7. When most of the coconut milk has been absorbed, gently stir the rice and add the thick coconut milk (150 ml). Salt the coconut milk. Steam for another 15 minutes.
 8. At each step, taste the rice to check for doneness, and gently stir the rice, so that it cooks evenly.
 9. If the rice is not completely cooked, stir and continue steaming for another 10 minutes.
-10. When the rice is cooked, turn off the heat and allow the rice to rest in the steamer for at least 10 minutes. Then fluff the rice with a fork or spoon. Caution: Steam is very hot! Do not get burned by it. Use a long ladle to stir the rice, or wear a mitten.
+10. When the rice is cooked, turn off the heat and allow the rice to rest in the steamer for at least 10 minutes. Then fluff the rice with a fork or spoon. Caution: Steam is very hot! Do not get burned by it. Use a long ladle to stir the rice, or wear an oven mitten.
 
 <b>*Opor ayam*</b>
 <br>1 chicken
