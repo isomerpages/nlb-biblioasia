@@ -36,7 +36,7 @@ Check out how
 <a style="text-decoration: none;" href="/vol-9/issue-3/oct-dec-2013/beeton-women-cookbooks-housewives"> “Mrs Beeton” in Malaya: Women, Cookbooks and the Makings of the Housewife</a>
 <br>Cookbooks offer interesting insights into the oft-overlooked domestic space of British Malaya, shedding light on how women saw themselves and how feminine ideals from the West were propagated in the colonial era.
 
-<a style="text-decoration: none;" href="/vol-10/issue-2/jul-sep-2014/taste-of-sg-past "> Of Belacan and Curry Puffs: A Taste of Singapore’s Past</a>
+<a style="text-decoration: none;" href="/vol-10/issue-2/jul-sep-2014/taste-of-sg-past"> Of Belacan and Curry Puffs: A Taste of Singapore’s Past</a>
 <br>Bonny Tan pores through the rich archives of Malayan newspapers and shows how disparate communities have come together to create a food culture that is truly emblematic of Singapore’s multicultural character.
 
 <a style="text-decoration: none;" href="/vol-14/issue-4/jan-mar-2019/life-lson-chetty-m-k/"> Life Lessons in a Chetty Melaka Kitchen</a>
