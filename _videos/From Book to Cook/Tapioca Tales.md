@@ -75,6 +75,9 @@ Geok Boi's recipes are inspired by tapioca noodles sold and distributed as ratio
 <a style="text-decoration: none;" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1221_2006-12-29.html">Endau Settlement</a>
 <br>Endau Settlement was a 300,000-acre agricultural settlement set up at Endau, in the Malayan state of Johor during the Japanese Occupation for Chinese settlers. It was considered the most successful self-sufficiency scheme initiated by the Japanese authorities to ease the food supply problem in Singapore.
 
+<a style="text-decoration: none;" href="/vol-13/issue-1/apr-jun-2017/voices-that-remain">Voices That Remain: Oral History Accounts of the Japanese Occupation</a>
+<br>Oral history accounts of the Japanese Occupation take on added poignancy, says Mark Wong, as we mark the 75th anniversary of the Fall of Singapore.
+
 <a style="text-decoration: none;" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_823_2004-12-13.html">Former Ford Factory </a>
 <br>The Former Ford Factory, located at 351 Upper Bukit Timah Road, was the site where British forces officially surrendered Singapore to the Japanese on 15 February 1942 during World War II. In 2004, the site was handed over to the National Archives of Singapore (NAS).
 
