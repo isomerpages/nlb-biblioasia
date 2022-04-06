@@ -4,13 +4,13 @@ permalink: /videos/curry-chronicles
 description: ""
 third_nav_title: From Book to Cook
 ---
-#### What would a 100-year-old rendang recipe taste like? Join chef Devagi Sanmugam in the first episode of our new cooking series on 7 April to find out!
+#### What would a 100-year-old rendang recipe taste like? Join chef Devagi Sanmugam in the first episode of our new cooking series on 7 April to find out.
 
 ![](/images/Videos:%20From%20Book%20to%20Cook/devagi%20makes%20mrs%20kinseys%20rendang%202.png)
 <div style="background-color: white;">Chef Devagi Sanmugam extracts coconut milk from grated coconut, while Paddy grinds the spices on the <i>batu giling</i> (grinding stone).</div>
 
 #### **Episode Summary** ####
-Curry powder is now commonly sold in pre-mixed packets, but in the past, people used to bring their spices to spice mills to have them ground, before mixing them at home. Well-known chef, cookbook author and culinary consultant Devagi Sanmugam talks about what life was like back then. She also whips up a quick beef rendang using a recipe from 1920, cooked with curry powder and eaten with spaghetti!
+Curry powder is now commonly sold in pre-mixed packets, but in the past, people used to bring their spices to spice mills to have them ground, before mixing them at home. Well-known chef, cookbook author and culinary consultant Devagi Sanmugam talks about what life was like back then. She also whips up a quick beef rendang using a recipe from 1920, cooked with curry powder and eaten with spaghetti.
 
 ![](/images/Videos:%20From%20Book%20to%20Cook/rendang%20mems%20own%20cookery%20book.png)
 <div style="background-color: white;">A “rundang” dish for breakfast with bread or as an appetiser before dinner, as recommended in the cookbook.</div>
