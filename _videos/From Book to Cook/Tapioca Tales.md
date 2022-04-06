@@ -82,9 +82,9 @@ Geok Boi's recipes are inspired by tapioca noodles sold and distributed as ratio
 <br>The Former Ford Factory, located at 351 Upper Bukit Timah Road, was the site where British forces officially surrendered Singapore to the Japanese on 15 February 1942 during World War II. In 2004, the site was handed over to the National Archives of Singapore (NAS).
 
 #### **Related Books**
-Lee Geok Boi, *[Syonan: Singapore under the Japanese 1942–1945](https://eservice.nlb.gov.sg/itemholding.aspx?bid=202733922)* (Singapore: Singapore Heritage Society and Landmark Books, 2017).
+Lee Geok Boi, *[Syonan: Singapore under the Japanese 1942–1945](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202733922)* (Singapore: Singapore Heritage Society and Landmark Books, 2017).
 
-Lee Geok Boi, *[The Syonan Years: Singapore under Japanese Rule 1942–1945](https://eservice.nlb.gov.sg/itemholding.aspx?bid=12661517)* (Singapore: National Archives of Singapore and Epigram, 2005).
+Lee Geok Boi, *[The Syonan Years: Singapore under Japanese Rule 1942–1945](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12661517)* (Singapore: National Archives of Singapore and Epigram, 2005).
 
 Lee Geok Boi,*[ Syonan Singapore under the Japanese 1942–1945 ](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205625748)* (Singapore: Singapore Heritage Society, 1992).
  
