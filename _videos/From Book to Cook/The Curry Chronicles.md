@@ -26,10 +26,6 @@ Check out how
 <div style="background-color: white;">Recipe of “rundang”, from W. E. Kinsey, <i>The Mem's Own Cookery Book</i>, 3rd edn (Singapore: Kelly & Walsh, 1929).</div>
 
 
-
-
-
-
 #### **Related Articles**
 <a style="text-decoration: none;" href="/vol-11/issue-4/jan-mar-2016/mems-cookery-book-william-edward-kinsey"> A Colonial Cookbook</a>
 <br>The first edition of *The Mem’s Own Cookery Book*, issued in 1920, sold out within a few months; the second edition, published in 1922, was so popular that a third was published in 1929.
