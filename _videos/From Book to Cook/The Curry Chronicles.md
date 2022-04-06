@@ -44,7 +44,7 @@ Check out how
 
 
 #### **Related Books**
-W. E. Kinsey, [The Mem's Own Cookery Book](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5232525) (Singapore: Kelly & Walsh, 1929).
+W. E. Kinsey, [*The Mem's Own Cookery Book*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5232525) (Singapore: Kelly & Walsh, 1929).
 
 Devagi Sanmugam, *[Indian Heritage Cooking](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13992386)* (Singapore: Marshall Cavendish Cuisine, 2011).
 
