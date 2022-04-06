@@ -92,7 +92,7 @@ Its accompaniments are thinly sliced cucumber, fried anchovies, and omelettes ma
 <br>½ tsp. <i>belacan</i> (fermented shrimp paste) 
 <br>a bit of granulated sugar
 <br>15 red chillies, thinly sliced. Dried chillies can also be used. (Toffa: Deseed a few of the chillies, depending on how spicy you want the dish to be.)
-<br>4 tofu, sliced
+<br>4 firm tofu, sliced
 <br>salt 
 <br>a bit of tamarind
 
