@@ -37,6 +37,9 @@ Check out how
 <a style="text-decoration: none;" href="/vol-12/issue-2/jul-sep-2016/dontmesswiththecook"> Mem, Don’t Mess with the Cook</a>
 <br>European families in colonial Singapore had a retinue of servants – cook, chauffeur, nanny, gardener and houseboy – but this did not guarantee a life of ease, as Janice Loo tells us.
 
+<a style="text-decoration: none;" href="/vol-9/issue-3/oct-dec-2013/beeton-women-cookbooks-housewives"> “Mrs Beeton” in Malaya: Women, Cookbooks and the Makings of the Housewife</a>
+<br>Cookbooks offer interesting insights into the oft-overlooked domestic space of British Malaya, shedding light on how women saw themselves and how feminine ideals from the West were propagated in the colonial era.
+
 <a style="text-decoration: none;" href="/vol-10/issue-2/jul-sep-2014/taste-of-sg-past "> Of Belacan and Curry Puffs: A Taste of Singapore’s Past</a>
 <br>Bonny Tan pores through the rich archives of Malayan newspapers and shows how disparate communities have come together to create a food culture that is truly emblematic of Singapore’s multicultural character.
 
