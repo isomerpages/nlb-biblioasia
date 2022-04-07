@@ -17,6 +17,17 @@ sections:
       button: Read the current issue
       url: /vol-17/issue-4/jan-mar-2022/
   - infopic:
+      title: The Curry Chronicles
+      subtitle: From Book to Cook
+      description: What would a 100-year-old rendang recipe taste like? Join chef
+        Devagi Sanmugam in the first episode of our new cooking series to find
+        out.
+      button: Watch the video
+      url: /videos/curry-chronicles
+      image: "/images/Videos: From Book to Cook/devagi makes mrs kinseys rendang
+        2.png"
+      alt: Curry rendang devagi sanmugam
+  - infopic:
       title: Cartography and the Rise of Colonial Empires in Asia
       subtitle: HIGHLIGHTS
       description: Chia Jie Lin highlights interesting cartographic efforts from the
