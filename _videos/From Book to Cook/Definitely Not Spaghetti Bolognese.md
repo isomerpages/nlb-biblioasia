@@ -3,6 +3,7 @@ title: Definitely Not Spaghetti Bolognese
 permalink: /videos/not-spaghetti-bolognese
 description: ""
 third_nav_title: From Book to Cook
+image: /images/Videos:%20From%20Book%20to%20Cook/spaghetti%20ketchup%20measuring%20technique.png
 ---
 #### In the 1987 home economics syllabus, 14-year-old girls were taught how to breastfeed and bathe a baby. How has the syllabus changed over the years? Join food writer Sheere Ng on 5 May to find out, as she makes a simple pasta dish taught in her home economics class.
  ![](/images/Videos:%20From%20Book%20to%20Cook/spaghetti%20ketchup%20measuring%20technique.png)
