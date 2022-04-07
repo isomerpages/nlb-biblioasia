@@ -11,23 +11,26 @@ description: ""
 
 **Director's Column** <br>
 
-**A – Z Guide to the National Library**<br> [(PDF)](/files/pdf/vol-1/issue-1/v1-Issue1_A-Z%20Guide.pdf)
+**A – Z Guide to the National Library**<br>This bumper guide will tell you what to look out for in the new National Library Building.
+ [(PDF)](/files/pdf/vol-1/issue-1/v1-Issue1_A-Z%20Guide.pdf)
 
-**Library's New Home**<br> [(PDF)](/files/pdf/vol-1/issue-1/v1-Issue1_Library%20New%20Home.pdf)
+**Library's New Home**<br> The new National Library on Victoria Street is five times bigger than the old one on Stamford Road. It houses a comprehensive range of collections, facilities and services. [(PDF)](/files/pdf/vol-1/issue-1/v1-Issue1_Library%20New%20Home.pdf)
 
-**Continuities and Changes: Singapore as a Port-city Over 700 Years**<br> [(PDF)](/files/pdf/vol-1/issue-1/v1-Issue1_ContinuitiesChanges.pdf)
+**Continuities and Changes: Singapore as a Port-city Over 700 Years**<br>Strategically situated at the southern tip of the Malay Peninsula, Singapore’s history as a port city stretches back to the 13th century. [(PDF)](/files/pdf/vol-1/issue-1/v1-Issue1_ContinuitiesChanges.pdf)
 
-**Gems in the Library: The Rare Materials Collections at the Lee Kong Chian Reference Library**<br> [(PDF)](/files/pdf/vol-1/issue-1/v1-Issue1_Gems.pdf)
+**Gems in the Library: The Rare Materials Collections at the Lee Kong Chian Reference Library**<br>The Rare Materials Collection reflects Singapore’s literary and social heritage, and contains valuable historical research materials on Singapore and Southeast Asia.  [(PDF)](/files/pdf/vol-1/issue-1/v1-Issue1_Gems.pdf)
 
-**李光前参考图书馆的中文馆藏与服务**<br> [(PDF)](/files/pdf/vol-1/issue-1/v1-Issue1_Chinese.pdf)
+**李光前参考图书馆的中文馆藏与服务**<br>An overview of the Chinese collections and services at the Lee Kong Chian Reference Library.  [(PDF)](/files/pdf/vol-1/issue-1/v1-Issue1_Chinese.pdf)
 
-**The Library Online**<br> [(PDF)](/files/pdf/vol-1/issue-1/v1-Issue1_Library%20Online.pdf)
+**The Library Online**<br>Launch of the revamped National Library Board’s Digital Library. [(PDF)](/files/pdf/vol-1/issue-1/v1-Issue1_Library%20Online.pdf)
 
-**Programmes@the Library** <br> [(PDF)](/files/pdf/vol-1/issue-1/v1-Issue1_Programmes%20.pdf)
+**Programmes@the Library** <br>A showcase of programmes at the National Library Building.  [(PDF)](/files/pdf/vol-1/issue-1/v1-Issue1_Programmes%20.pdf)
 
-**Audiovisual Services**<br> [(PDF)](/files/pdf/vol-1/issue-1/v1-issue1_AudiovisualServices.pdf)
+**Audiovisual Services at the Lee Kong Chian Reference Library**<br> Materials in the Audiovisual Collection are available for browsing on Level 11 of the Lee Kong Chian Reference Library. Audiovisual materials include videotapes, compact discs, VCDs, DVDs, laserdiscs, audiocassettes, slides and long players records (LPs).[(PDF)](/files/pdf/vol-1/issue-1/v1-issue1_AudiovisualServices.pdf)
 
-**Just Ask Services**<br> [(PDF)](/files/pdf/vol-1/issue-1/v1-issue1_JustAskServices.pdf)
+**Just Ask Services**<br>Just Ask aims to educate, cultivate and encourage library patrons to ask any questions they may have and to inculcate in them a questioning mind and culture. [(PDF)](/files/pdf/vol-1/issue-1/v1-issue1_JustAskServices.pdf)
 
 **Publishing and Research Services**<br>
+The Publishing & Research Services division of the National Library Board provides professional
+research services to meet the needs of the industry and the community.
 [(PDF)](/files/pdf/vol-1/issue-1/v1-issue1_PublishingandResearch.pdf)

@@ -10,7 +10,7 @@ layout: post
 
 [<b>Punkahs Everywhere</b>](/vol-10/issue-3/oct-dec-2014/isabella-bird-travel-singapore)<br>One of the great travel writers of the 19th century, Isabella Bird was 47 when she visited Singapore. She had just spent several months exploring Japan and was about to embark on a journey through the Malay Peninsula. In between, she made a brief stop in Singapore and wrote about it in a letter to her sister in Edinburgh.[(PDF)](/files/pdf/vol-10/issue-3/v10-issue3_Punkahs.pdf)
 
-[<b>Exploring My Own Backyard</b>](/vol-10/issue-3/oct-dec-2014/explore-own-backyard)<br>Travel writer <i>Desiree Koh</i> shares her wanderlust and love for Southeast Asia and remembers the places that have impacted her life and the way she sees the world.[(PDF)](/files/pdf/vol-10/issue-3/v10-issue3_Backyard.pdf)
+[<b>Exploring My Own Backyard</b>](/vol-10/issue-3/oct-dec-2014/desiree-koh-travel-southeast-asia-memories)<br>Travel writer <i>Desiree Koh</i> shares her wanderlust and love for Southeast Asia and remembers the places that have impacted her life and the way she sees the world.[(PDF)](/files/pdf/vol-10/issue-3/v10-issue3_Backyard.pdf)
 
 [<b>Raffles Hotel & the Romance of Travel</b>](/vol-10/issue-3/oct-dec-2014/raffles-hotel-singapore-history)<br><i>Gretchen Liu</i> traces the history of this grand hotel, from its heyday of glitz and glamour to near ruin and its subsequent reincarnation into the heritage icon it is today.[(PDF)](/files/pdf/vol-10/issue-3/v10-issue3_RafflesHotel.pdf)
 
@@ -26,8 +26,8 @@ layout: post
 
 [<b>Aw Boon Haw and His Tiger Balm Newspaper Advertisements 1916–1954</b>](/vol-10/issue-3/oct-dec-2014/aw-boon-haw-tiger-balm-ads)<br>Lee Kong Chian Research Fellow <i>Sin Yee Theng</i> examines how Aw Boon Haw advertised Tiger Balm products in Singapore newspapers and attributes Tiger Balm’s success to his unique storytelling skills.[(PDF)](/files/pdf/vol-10/issue-3/v10-issue3_AwBoonHaw.pdf)
 
-[<b>Lee Kip Lin: Kampung Boy Conservateur</b>](/vol-10/issue-3/oct-dec-2014/lee-kip-lin)<br>Bonny Tan takes a look into the life of the late Lee Kip Lin, a man who wore many hats as student, educator and mentor, but perhaps best remembered for his passion for conserving Singapore’s pre-war architecture in his writings and teaching.[(PDF)](/files/pdf/vol-10/issue-3/v10-issue3_LeeKipLin.pdf)
+[<b>Lee Kip Lin: Kampung Boy Conservateur</b>](/vol-10/issue-3/oct-dec-2014/lee-kip-lin)<br><i>Bonny Tan</i> takes a look into the life of the late Lee Kip Lin, a man who wore many hats – as student, educator and mentor – but who is perhaps best remembered for his passion for conserving Singapore’s pre-war architecture in his writings and teaching.[(PDF)](/files/pdf/vol-10/issue-3/v10-issue3_LeeKipLin.pdf)
 
-[<b>Designed for Use: library@orchard Makes a Comeback</b>](/vol-10/issue-3/oct-dec-2014/singapore-orchard-library)<br>Featuring wall-to-ceiling bookshelves, collaborative spaces and innovative services, Sufyan Alimon and Eunice Ang share more about what the newly reopened and revamped library@orchard has to offer.[(PDF)](/files/pdf/vol-10/issue-3/v10-issue3_LibraryOrchard.pdf)
+[<b>Designed for Use: library@orchard Makes a Comeback</b>](/vol-10/issue-3/oct-dec-2014/singapore-orchard-library)<br>Featuring wall-to-ceiling bookshelves, collaborative spaces and innovative services, <i>Sufyan Alimon</i> and <i>Eunice Ang</i> share more about what the newly reopened and revamped library@orchard has to offer.[(PDF)](/files/pdf/vol-10/issue-3/v10-issue3_LibraryOrchard.pdf)
 
 [<b>In Vogue: Singapore Fashion Trends from 1960s to 1990s</b>](/vol-10/issue-3/oct-dec-2014/singapore-fashion-trends-1960s-1990s)<br>From traditional dress to mini-skirts, pantsuits and bell-bottoms, <i>Jessie Yak</i> and <i>Sundari Balasubramaniam</i> highlight Singapore’s style trends of the 1960s to 1990s through fashion magazines.[(PDF)](/files/pdf/vol-10/issue-3/v10-issue3_InVogue.pdf)

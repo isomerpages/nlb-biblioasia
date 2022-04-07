@@ -6,15 +6,14 @@ image: /images/vol-10-issue-3/sgfashion/hw_nov_1967.jpg
 layout: post
 description: ""
 ---
-
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-10-issue-3/sgfashion/hw_nov_1967.jpg">
-Fashion spread from Her World November 1967 p.40. <i>All rights reserved. Singapore Press Holdings, 2014.</i></div>
+	Fashion spread from <i>Her World</i> November 1967 p.40. <i>All rights reserved. Singapore Press Holdings, 2014.</i></div>
 
 In May 2014, the Asian Fashion Exchange was held, celebrating the best of Asian fashion and designers and doubling as a platform for young emerging talent to showcase their collections. To tie in with the event, the National Library held a week-long retrospective on the fashion trends of past decades with a display of books and women’s magazines.
 
-The evolution of fashion and clothing in Singapore has been shaped by climatic, economic, political, social and cultural influences. As Singapore transformed from a fishing village into a developed nation, the clothing we wore also took shape accordingly. In the early 1900s right until the 1950s people – immigrants as well as the indigenous Malays – mostly wore traditional ethnic attire such as the Malay <i>baju kurong</i>, Indian <i>sari</i>, Peranakan or Indonesian <i>sarong kebaya</i> and Chinese <i>cheongsam</i>. Western attire among women was fairly uncommon, save for expatriates and the handful of locals who were educated abroad. 
+The evolution of fashion and clothing in Singapore has been shaped by climatic, economic, political, social and cultural influences. As Singapore transformed from a fishing village into a developed nation, the clothing we wore also took shape accordingly. In the early 1900s right until the 1950s, people – immigrants as well as the indigenous Malays – mostly wore traditional ethnic attire such as the Malay <i>baju kurong</i>, Indian <i>sari</i>, Peranakan or Indonesian <i>sarong kebaya</i> and Chinese <i>cheongsam</i>. Western attire among women was fairly uncommon, save for expatriates and the handful of locals who were educated abroad. 
 
 Then came the advent of television in 1963. Fashion in the 1960s became heavily influenced by the media, with styles influenced by movies and celebrities such as the Beatles. In the 1970s, dance film <i>Saturday Night Fever</i> starring John Travolta single-handedly popularised disco dressing. In the 1980s and 90s, work and career advancement became priorities, and fashion focused on power dressing. People also became interested in sports and fitness, and apparel was designed to suit their lifestyles. Traditional costumes were still valued but took a backseat and were mainly worn during festive occasions. 
 
@@ -112,9 +111,11 @@ In the 1990s, clothes were a reflection of the lifestyle of the wearer. <i>Her W
 <br/>
 <img src="/images/vol-10-issue-3/sgfashion/casual_friday.jpg" style="width:70%;">
 Casual Fridays saw workers trade in their business attire for more casual wear. <i>Her World</i> December 1990, p.32. <i>All rights reserved, Singapore Press Holdings, 2014.</i></div>
-
+<br/>
+<img style="width:100px;height:100px;margin-bottom:-30px; border-radius:100%; box-shadow: 1px 2px 0px #424242;" src="/images/vol-10-issue-3/sgfashion/jessie_yak.jpg">
 <p style="font-size:15px;"><b>Jessie Yak</b> is a Librarian with the National Library of Singapore. She manages the library’s fashion and Chinese arts collections. She is a graduate of Beijing University and the University of Cambridge.</p>
-
+<br/>
+<img style="width:100px;height:100px;margin-bottom:-30px; border-radius:100%; box-shadow: 1px 2px 0px #424242;" src="/images/vol-10-issue-3/sgfashion/Sundari_Balasubramaniam.jpg">
 <p style="font-size:15px;"><b>Sundari Balasubramaniam</b> is a Librarian with the National Library of Singapore. Her responsibilities include managing and developing content as well as providing reference and research services. She also manages the library’s Tamil collection.</p>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-10/issue-3/oct-dec-2014/"><center>Back to Issue</center></a>

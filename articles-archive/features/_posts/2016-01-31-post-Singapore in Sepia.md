@@ -52,6 +52,8 @@ G. R. Lambert & Co. faced tough times as advances in photographic technology all
 
 – Written by Timothy Pwee
 
+<a href="/vol-11/issue-4/jan-mar-2016/"><center>Back to Issue</center></a>
+
 #### **NOTES**
 [^1]:Toh, J. (2009). [*Singapore through 19th century photographs*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13217339) (p. 14). Singapore: Editions Didier Millet. Call no.: RSING 959.5703 TOH-[HIS]
 [^2]:Falconer, J. (1987). [*A vision of the past: A history of early photography in Singapore and Malaya: The photographs of G. R. Lambert & Co., 1880–1910*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4368234) (p. 16). Singapore: Times Editions. Call no.: RSING 779.995957 FAL

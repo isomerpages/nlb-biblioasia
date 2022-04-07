@@ -215,7 +215,7 @@ Pao Kun felt very frustrated that the board was not unanimously supporting him. 
 
 [^6]: Lee Weng Choy, “The Substation: Artistic Practice and Cultural Policy,” in [*The State and the Arts in Singapore: Policies and Institutions*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203201759), ed. Terence Chong (New Jersey: World Scientific, 2019), 204, 210. (From National Library, Singapore, Call no. RSING 700.959570904 STA)
 
-[^7]: “The Substation Plans Host of Activities to Raise Funds,” *Straits Times*, 16 May 1990, 26. (From NewspaperSG).
+[^7]: “[The Substation Plans Host of Activities to Raise Funds](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900516-1.2.34.18),” *Straits Times*, 16 May 1990, 26. (From NewspaperSG).
 
 [^8]: Kok Heng Leun, “The Place of The Substation: A Space and a Place for a Beginning,”  in [*25 Years of The Substation: Reflections on Singapore’s First Independent Art Centre*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202144908), ed. Audrey Wong (Singapore: The Substation and Ethos Books, 2015), 38–45. (From National Library Singapore, Call no. RSING 700.95957 TWE)
 

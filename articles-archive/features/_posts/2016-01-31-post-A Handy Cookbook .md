@@ -55,6 +55,8 @@ titled *Eastern Exotica* (1978), which is a selection of recipes taken from *My 
 
 – Written by Irene Lim
 
+<a href="/vol-11/issue-4/jan-mar-2016/"><center>Back to Issue</center></a>
+
 #### **NOTES**
 [^1]:Handy, E. (2012). [*My favourite recipes*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14669446) (p. 9). Singapore: Landmark Books. Call no.: RSING 641.595 HAN; [The school that Sophia built](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19870715-1.2.65.3.aspx). (1987, July 15). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
 [^2]:[Welfare women get awards for service](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19570721-1.2.70.aspx). (1957, July 21). *The Straits Times*, p. 8. Retrieved from NewspaperSG.

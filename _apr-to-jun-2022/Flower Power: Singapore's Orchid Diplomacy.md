@@ -3,7 +3,7 @@ title: "Flower Power: Singapore's Orchid Diplomacy"
 permalink: /apr-to-jun-2022/vol-18/issue-1/singapore-orchid-diplomacy
 description: ""
 ---
-#### Singapore’s diplomatic efforts may take several forms, including naming hybrid orchids after foreign dignitaries. **Rebecca Tan** tells us more.
+#### Singapore’s diplomatic efforts may take several forms, including naming orchid hybrids after foreign dignitaries. **Rebecca Tan** tells us more.
 
 ![](/images/Vol%2018%20Issue%201/Orchid%20Diplomacy/Sealara%20Nelson%20Mandela%20(credit%20NParks).png)
 <div style="background-color: white;"> The <i>Paravanda</i> Nelson Mandela, named after the former president of South Africa, bears flowers that have a bright greenish-yellow hue with a reddish tinge, resembling the colours of the South African flag. <i>Courtesy of the National Parks Board.</i></div>

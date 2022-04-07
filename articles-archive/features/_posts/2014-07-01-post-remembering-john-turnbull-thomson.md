@@ -5,10 +5,12 @@ permalink: /vol-10/issue-2/jul-sep-2014/john-turnbull-thomson
 image: /images/vol-10-issue-2/thomson/thomson_map.jpg
 layout: post
 ---
+#### <i>Timothy Pwee</i> introduces the life, times and works of John Turnbull Thomson, engineer, painter, Government Surveyor and Superintendent of Public Works of Singapore.
+
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-2/thomson/thomson_map.jpg" style="width:90%;">
-John Turnbull Thomson’s 1846 <i>Plan of Singapore Town and Adjoining Districts From Actual Survey</i> donated to the National Library by Koh Seow Chuan.</div>
+<img src="/images/vol-10-issue-2/thomson/john_turnbull_thomson.jpg">
+Portrait of John Turnbull Thomson when he was 26 years old. Used with permission from the Hall-Jones family.</div>
 
 One naturally tends to gravitate towards political and economic figures when thinking about Singapore’s pioneers. Yet the physical environment of Singapore has been indelibly shaped by another class of men: the engineers.
 
@@ -17,6 +19,16 @@ In Stamford Raffles’ day, engineering was a trade learnt through apprenticeshi
 Thomson’s Singapore story was researched and told by a New Zealand relative in <i>An Early Surveyor in Singapore</i> (1979). Author John Hall-Jones filled the book with Thomson’s watercolour paintings and ink drawings depicting many scenes of life in early Singapore. In 1983, the second volume, <i>The Thomson Paintings</i>, was published in colour.
 
 Thomson also wrote two books, <i>Some Glimpses into Life in the Far East</i> (1864) and <i>Sequel to Some Glimpses into Life in the Far East</i> (1865). Written as a series of short vignettes, Thomson’s interesting stories of early colonial Singapore are filled with witty and wry observations about bureaucratic tangles and bold deeds. He also spent time translating parts of Munshi Abdullah’s autobiography as <i>Translations from Hakayit Abdulla</i> (1874). While the original editions have been preserved in the National Library’s rare collection, microfilm copies, reprints and digitised ebooks are available for public use.
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-2/thomson/noted_surveyor.jpg" style="width:70%;">
+John Turnbull Thomson was a noted surveyor, architect and painter. Some of his works were featured in <i>An Early Surveyor in Singapore</i> as well as <i>The Thomson Paintings</i> by his great grandson, John Hall-Jones. <i>Glimpses into Life in Malayan Lands</i> was published in 1984 and is an Oxford University Press reprint of Thomson’s 1864 <i>Glimpses into Life in the Far East</i>. All these books are available for either loan or reference at the National Library and its branches.</div>
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/vol-10-issue-2/thomson/thomson_map.jpg" style="width:90%;">
+John Turnbull Thomson’s 1846 <i>Plan of Singapore Town and Adjoining Districts From Actual Survey</i> donated to the National Library by Koh Seow Chuan.</div>
 
 Some surviving <i>mukim</i> (district) property maps by Thomson can be found in the National Archives. However, his most well-known map must be the 1846 <i>Plan of Singapore Town</i> (copies can be viewed at the National Library’s Lee Kong Chian Reference Library on the 11th floor).
 
@@ -30,18 +42,8 @@ Much remains to be researched about Thomson and the works mentioned in this arti
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/vol-10-issue-2/thomson/noted_surveyor.jpg" style="width:70%;">
-John Turnbull Thomson was a noted surveyor, architect and painter. Some of his works were featured in <i>An Early Surveyor in Singapore</i> as well as <i>The Thomson Paintings</i> by his great grandson, John Hall-Jones. <i>Glimpses into Life in Malayan Lands</i> was published in 1984 and is an Oxford University Press reprint of Thomson’s 1864 <i>Glimpses into Life in the Far East</i>. All these books are available for either loan or reference at the National Library and its branches.</div>
-
-<div style="background-color: white;">
-<br/>
 <img src="/images/vol-10-issue-2/thomson/view_of_sg_from_government_hill.jpg" style="width:70%;">
 “View of Singapore from Government Hill, 1846” by John Turnbull Thomson. In this scene, then Governor of the Straits Settlements, Lt-Col William J. Butterworth, depicted in the foreground with his family, has just presented the ceremonial state sword to Daing Ibrahim, the Temenggong of Johor on 31 August 1846 for the latter’s efforts in helping to curb piracy in the area. Thomson painted the scene from the verandah of Government House, the residence built for Stamford Raffles in 1822 on Government Hill (present-day Fort Canning). <i>Courtesy of National Museum of Singapore, National Heritage Board.</i></div>
-
-<div style="background-color: white;">
-<br/>
-<img src="/images/vol-10-issue-2/thomson/john_turnbull_thomson.jpg">
-Portrait of John Turnbull Thomson when he was 26 years old. Used with permission from the Hall-Jones family.</div>
 
 <div style="background-color: white;">
 <br/>

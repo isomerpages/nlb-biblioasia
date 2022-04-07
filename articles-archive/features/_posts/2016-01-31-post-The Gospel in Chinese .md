@@ -56,6 +56,8 @@ Bible.[^9] Gützlaff died in Hong Kong in 1851.
 
 – Written by Ong Eng Chuan
 
+<a href="/vol-11/issue-4/jan-mar-2016/"><center>Back to Issue</center></a>
+
 #### **NOTES**
 [^1]:Newbold, T. J. (1839). [*Political and statistical account of the British settlements in the Straits of Malacca, viz. Pinang, Malacca, and Singapore: With a history of the Malayan states on the peninsula of Malacca*](https://eresources.nlb.gov.sg/printheritage/detail/8123f6c8-67a1-48c6-97a6-3357c3bc5966.aspx) (Vol.1, p. 284).  London: J. Murray. Microfilm: NL 5141
 [^2]:Fairbank, J. K., & Goldman, M. (2006). [*China: A new history*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12764991) (p. 195, 222). Cambridge, Mass: Belknap Press of Harvard University Press. Call no.: R 951 FAI 

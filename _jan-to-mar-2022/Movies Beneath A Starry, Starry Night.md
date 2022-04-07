@@ -6,7 +6,6 @@ description: The Jurong Drive-in was Singapore’s one and only drive-in cinema.
   Sharon Teng tracks its rise and subsequent decline.
 image: /images/vol-17-issue-4/movies-beneath/Jurong_Drive-in_bg.png
 ---
-
 #### The Jurong Drive-in was Singapore’s one and only drive-in cinema. In its heyday in the 1970s, it was packed bumper to bumper with vehicles. **Sharon Teng** tracks its rise and subsequent decline.
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/movies-beneath/Jurong_Drive-in_bg.png)
@@ -42,7 +41,7 @@ Vendors went around selling ice-cream and cold drinks which were snapped up, whi
 On the opening night, 880 cars filled the 900-car capacity site. The film screened for the charity premiere was *Doctor in Trouble*, a British comedy set on a luxury cruise liner bound for the Mediterranean, with proceeds going to the Jurong Town Creche. Admission tickets were priced at $30 and $50 (for a reserved lot) per car for a maximum of five passengers, including the driver. An estimated $20,000 was collected that night.[^7]
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/movies-beneath/Opening.png)
-<div style="background-color: white;">A cinema official assisting Minister for Culture Jek Yeun Thong in setting up the car speaker. He was the guest-of-honour at the official opening , 14 July 1971. <i> Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.
+<div style="background-color: white;">A cinema official assisting Minister for Culture Jek Yeun Thong in setting up the car speaker. He was the guest-of-honour at the official opening, 14 July 1971. <i> Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.
 </i></div>
 
 The cinema screened mainly first-run English language movies from the United States and Britain as well as Mandarin kungfu and action-packed films from Hong Kong, with two screenings each night and an additional midnight screening on Saturdays. Tickets cost $2 for adults and $1 for children below 12 (admission prices were later raised in 1978 to $2.50 for adults and $1.50 for children).[^8]
@@ -94,7 +93,7 @@ In his oral history interview, former Jurong Drive-in employee Ronald Goh said: 
 
 From the late 1970s, Cathay tried several methods to draw audiences in, such as distributing free gifts to children attending Walt Disney films at the drive-in, screening first-run English films and offering cheaper tickets than those sold at other cinemas. Unfortunately, Cathay was unsuccessful in reversing the trend.[^27]
 
-As early as 1980, Cathay was already considering shuttering the drive-in but decided to let it continue operating until the lease of the land (from the Jurong Town Corporation) on which it stood expired in 1985. On 10 December 1981, the *Straits Times* reported that “[at]t the peak of [Jurong Drive-in’s] popularity in the early 1970s, it was fully packed every night, especially when it screened films of the late *kung-fu* star Bruce Lee. But once the novelty of Singapore’s only drive-in cinema wore off, nothing has been able to bring back the crowds. Today, only 100 cars are seen there on an average night, though weekends fare better”. A spokesman for Cathay Organisation said: “We have tried almost everything and have almost given up hope. The novelty of the drive-in seems to have faded.”[^28]
+As early as 1980, Cathay was already considering shuttering the drive-in but decided to let it continue operating until the lease of the land (from the Jurong Town Corporation) on which it stood expired in 1985. On 10 December 1981, the *Straits Times* reported that “[at] the peak of [Jurong Drive-in’s] popularity in the early 1970s, it was fully packed every night, especially when it screened films of the late *kung-fu* star Bruce Lee. But once the novelty of Singapore’s only drive-in cinema wore off, nothing has been able to bring back the crowds. Today, only 100 cars are seen there on an average night, though weekends fare better”. A spokesman for Cathay Organisation said: “We have tried almost everything and have almost given up hope. The novelty of the drive-in seems to have faded.”[^28]
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/movies-beneath/Unhappy_One.png)
 <div style="background-color: white;"> By the early 1980s, the novelty of the Jurong Drive-in Cinema had worn off, and nothing the operator did – such as free gifts, first-run shows and cheap tickets – could bring back the crowds.<i> Image reproduced from The Straits Times, 10 December 1981, 11. (From NewspaperSG). </i></div>
@@ -191,7 +190,7 @@ As these examples demonstrate, there is still a market for the occasional drive-
 
 [^26]: [Ronald Goh Wee Huat](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/055bcb28-1163-11e3-83d5-0050568939ad), interview.
 
-[^27]: “[Jurong Drive-in’s Lot is an Unhappy One](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19811210-1.2.57).” *Straits Times*, 10 December 1981, 11. (From NewpaperSG)
+[^27]: “[Jurong Drive-in’s Lot is an Unhappy One](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19811210-1.2.57).”
 
 [^28]: “[Jurong Drive-in’s Lot is an Unhappy One.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19811210-1.2.57)”
 
@@ -201,7 +200,7 @@ As these examples demonstrate, there is still a market for the occasional drive-
 
 [^31]: Uhde and Uhde, [*Latent Images*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=13186916), 198; “[It’s Curtains for Jurong Drive-in Tomorrow.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850929.2.24.1.aspx)”
 
-[^32]: “[Jurong Plans Cinema to Pull Crowds Back](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper19890930-1.2.3.3),” *New Paper*, 30 September 1989, 2. (From NewspaperSG); “Back Then When Jurong’s Drive-in Cinema Was All the Rage,” Remember Singapore, 15 September 2020, https://remembersingapore.org/2020/09/15/jurong-drive-in-cinema-history/.
+[^32]: “[Jurong Plans Cinema to Pull Crowds Back](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper19890930-1.2.3.3),” *New Paper*, 30 September 1989, 2. (From NewspaperSG); “Back Then When Jurong’s Drive-in Cinema Was All the Rage.” 
 
 [^33]: “[Movie Bonuses at Fringe Fest](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19960501.2.64.6.1),” *Straits Times*, 1 May 1996, 7. (From NewspaperSG)
 

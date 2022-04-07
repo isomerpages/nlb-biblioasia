@@ -75,6 +75,8 @@ Professor at the National University of Singapore, Chairman of the East Asian In
 
 – Written by Gracie Lee
 
+<a href="/vol-11/issue-4/jan-mar-2016/"><center>Back to Issue</center></a>
+
 #### **NOTES**
 [^1]:Yeo, R. (Interviewer). (2008, February 26). *An interview with Wang Gungwu (in the mid 1980s)*. Retrieved from S/PORES website.
 [^2]:Holden, P. (2002). Interrogating diaspora: Wang Gungwu’s Pulse. *ARIEL: A Review of International English Literature, 33* (3–4), 114. Retrieved from Synergies Canada website;  Tan, T. S. (1950, May 13). [A book of poems comes from a Malayan’s pen](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19500513-1.2.64.19.aspx). *The Singapore Free Press*, p. 3. Retrieved from NewspaperSG.

@@ -5,7 +5,6 @@ date: 2016-01-31
 layout: post
 description: ""
 ---
-
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
 	<b>Title:</b> <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5042730"><i>The Straits Times Almanack, Calendar and Directory </i></a><br>
 	<b>Editor and compiler:</b> Robert Carr Woods (1816-75)<br>
@@ -52,6 +51,8 @@ Over the years, the directory has been published under various names: *The Strai
 National Library Board, Singapore.</i></div>
 
 – Written by Lee Meiyu
+
+<a href="/vol-11/issue-4/jan-mar-2016/"><center>Back to Issue</center></a>
 
 #### **NOTES**
 [^1]:Turnbull, C. M. (1995). [*Dateline: 150 years of the Straits Times*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7471414) (pp. 10, 15). Singapore: Times Editions for Singapore Press Holdings.  Call no.: RSING 079.5957 TUR

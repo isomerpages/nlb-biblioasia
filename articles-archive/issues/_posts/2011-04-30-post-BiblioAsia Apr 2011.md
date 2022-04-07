@@ -9,20 +9,28 @@ description: ""
 
 **Director’s Column**
 
-**Drying Fish in Singapore Art: Making Sense of the Nanyang Style** <br>[(PDF)](/files/pdf/vol-7/issue-1/v7-issue1_DryingFish.pdf)
+**Drying Fish in Singapore Art: Making Sense of the Nanyang Style** <br>
+The act of drying fish appears in many works of the Nanyang style. National Art Gallery’s *Yeo Wei Wei* explores this recurring motif suggests how it can help our understanding of “Nanyang”.[(PDF)](/files/pdf/vol-7/issue-1/v7-issue1_DryingFish.pdf)
 
-**Popular Music in 1960s Singapore** <br>[(PDF)](/files/pdf/vol-7/issue-1/v7-issue1_PopularMusic.pdf)
+**Popular Music in 1960s Singapore** <br>
+Research Associate *Joanna Tan* traces the growth of English popular music in 1960s Singapore and the formation of local bands. She outlines the impact of nation building on the music scene, and its eventual decline by the early 1970s.[(PDF)](/files/pdf/vol-7/issue-1/v7-issue1_PopularMusic.pdf)
 
-**Undiscovered Spaces: An Interview With Boo Junfeng** <br>[(PDF)](/files/pdf/vol-7/issue-1/v7-issue1_UndiscoveredSpaces.pdf)
+**Undiscovered Spaces: An Interview With Boo Junfeng** <br>
+Research Associate *Jennifer Lew* interviews *Sandcastles* director Boo Junfeng about history, the National Library and the research process behind the making of *Sandcastle*.[(PDF)](/files/pdf/vol-7/issue-1/v7-issue1_UndiscoveredSpaces.pdf)
 
-**The Growth of Imagination in Singapore Children's Literature in English (1965–2005)** <br>[(PDF)](/files/pdf/vol-7/issue-1/v7-issue1_ChildrenLiterature.pdf)
+**The Growth of Imagination in Singapore Children's Literature in English (1965–2005)** <br>
+Lee Kong Chian Research Fellow *Noel Chia Kok Hwee*’s traces the trajectory and importance of imaginative Singapore Children’s Literature in English. [(PDF)](/files/pdf/vol-7/issue-1/v7-issue1_ChildrenLiterature.pdf)
 
-**Penerbitan Buku Melayu Singapura 2001–2010** <br>[(PDF)](/files/pdf/vol-7/issue-1/v7-issue1_BukuMelayu.pdf)
+**Penerbitan Buku Melayu Singapura 2001–2010** <br>
+Librarian *Mazelan bin Anuar* looks at the downward trend of the Malay book publishing industry in Singapore and suggests ways to revive it.[(PDF)](/files/pdf/vol-7/issue-1/v7-issue1_BukuMelayu.pdf)
 
-**Women’s Perspectives on Malaya: Emily Innes on the Malay States** <br>[(PDF)](/files/pdf/vol-7/issue-1/v7-issue1_EmilyInnes.pdf)
+**Women’s Perspectives on Malaya: Emily Innes on the Malay States** <br>Senior Library *Bonny Tan* spotlights Emily Innes’ *The Chersonese with the Gilding Off* (1883), a work that stands apart from that of her female compatriots because she wrote as the wife of a minor British official at a time when few colonial wives had their insights published. [(PDF)](/files/pdf/vol-7/issue-1/v7-issue1_EmilyInnes.pdf)
 
-**Crossing Borders, Connecting Ideas: The 3rd Taiwan-Singapore-Thailand Workshop on Library and Information Research**<br>[(PDF)](/files/pdf/vol-7/issue-1/v7-issue1_CrossingBorders.pdf)
+**Crossing Borders, Connecting Ideas: The 3rd Taiwan-Singapore-Thailand Workshop on Library and Information Research**<br>
+Research Associate *Yee Yeong Chong* presents what was shared at the 3rd Taiwan-Singapore-Thailand Workshop on Library and Information Research. [(PDF)](/files/pdf/vol-7/issue-1/v7-issue1_CrossingBorders.pdf)
 
-**National Engineers Day 2011: NLB and IES Renew Partnership** <br>[(PDF)](/files/pdf/vol-7/issue-1/v7-issue1_NLBIESPartnership.pdf)
+**National Engineers Day 2011: NLB and IES Renew Partnership** <br>
+On 24 March 2011, the National Library Board and The Institution of Engineers, Singapore signed a Memorandum of Understanding signalling their dedication to working together to promote knowledge and learning in the field of engineering, and to enhance of the engineering collection at the National Library.[(PDF)](/files/pdf/vol-7/issue-1/v7-issue1_NLBIESPartnership.pdf)
 
-**Striking the Right Notes: Tune into Singapore's Musical Heritage on MusicSG** <br>[(PDF)](/files/pdf/vol-7/issue-1/v7-issue1_MusicalHeritage.pdf)
+**Striking the Right Notes: Tune into Singapore's Musical Heritage on MusicSG** <br>
+Librarian *Michelle Heng* tells us what we can expect from MusicSG, the nation’s first digital archive for music that allows researchers or interested individuals to access historical and contemporary music-related Singapore works, such as recordings, scores, articles, lyrics and album covers. [(PDF)](/files/pdf/vol-7/issue-1/v7-issue1_MusicalHeritage.pdf)

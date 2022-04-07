@@ -5,8 +5,6 @@ date: 2016-01-31
 layout: post
 description: ""
 ---
-
-
 #### The National Library Board wins hearts (and minds) around the world with its SG50 Gift of Books initiative. **Amelia Tan** has the details.
 
 <img src="/images/vol-11-issue-4/a-gift-of-books/g.JPG">
@@ -61,3 +59,5 @@ and Curation, The British Library; Dr Yaacob Ibrahim, Minister for Communication
 <img src="/images/vol-11-issue-4/a-gift-of-books/d.JPG">
 <div style="background-color: white;">Vanu Gopala Menon, 
 Singapore’s High Commissioner to Malaysia and Hajah Nafisah Ahmad, Director General of the National Library of Malaysia. <i>All rights reserved, Ministry of Foreign Affairs, Singapore.</i></div>
+
+<a href="/vol-11/issue-4/jan-mar-2016/"><center>Back to Issue</center></a>

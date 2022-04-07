@@ -81,6 +81,8 @@ In July 1951, Braddell left Singapore but returned to Kuala Lumpur two years lat
 
 – Written by Gracie Lee
 
+<a href="/vol-11/issue-4/jan-mar-2016/"><center>Back to Issue</center></a>
+
 #### **NOTES**
 [^1]:Braddell, R. (1982). [*The lights of Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=3013500) (pp. 3–4, 14, 17, 19, 22–23). Kuala Lumpur: Oxford University Press. Call no.: RSING 959.57 BRA-[HIS].
 [^2]:The Wanderer. (1934, July 29). [Mainly about Malayans](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19340729-1.2.19.aspx). *The Straits Times*, p. 2. Retrieved from NewspaperSG.

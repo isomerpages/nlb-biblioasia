@@ -11,6 +11,9 @@ description: ""
 
 **[The Rare Materials Collection](/vol-11/issue-4/jan-mar-2016/rare-materials)**<br> [(PDF)](/files/pdf/vol-11/issue-4/v11-issue4_RareMaterials.pdf)
 
+**[Stories from the Stacks](/vol-11/issue-4/jan-mar-2016/stories-stacks-exhibition)**<br>
+The National Library’s newest exhibition, “From the Stacks”, presents highlights of its Rare Materials Collection. *Chung Sang Hong* explains why you should not miss this event. [(PDF)](/files/pdf/vol-11/issue-4/v11-issue4_StoriesFromTheStacks.pdf)
+
 **[A Tribute Fit for a Prince](/vol-11/issue-4/jan-mar-2016/alfred-duke-edinburgh)**<br>
 *Address to Alfred, Duke of Edinburgh by the Singapore Chinese Merchants on the Occasion of His Visit to Singapore in 1869* [(PDF)](/files/pdf/vol-11/issue-4/v11-issue4_TributePrince.pdf)
 
@@ -98,7 +101,7 @@ description: ""
 **[The First English and Malay Dictionary](/vol-11/issue-4/jan-mar-2016/first-english-malay-dictionary-thomas-bowrey)**<br>
 *A Dictionary: English and Malayo, Malayo and English* [(PDF)](/files/pdf/vol-11/issue-4/v11-issue4_EnglishMalayDictionary.pdf)
 
-**[Of Spells and Magic](/vol-11/issue-4/jan-mar-2016/malay-magic-walterwilliam-skeat)**<br>
+**[Of Spells and Magic](/vol-11/issue-4/jan-mar-2016/malay-magic-walter-william-skeat)**<br>
 *Malay Magic: Being an Introduction to the Folklore and Popular Religion of the Malay Peninsula* [(PDF)](/files/pdf/vol-11/issue-4/v11-issue4_SpellsMagic.pdf)
 
 **[Hear Ye Hear Ye](/vol-11/issue-4/jan-mar-2016/straits-government-gazette)**<br>
@@ -160,9 +163,6 @@ description: ""
 
 **[The First Newspaper](/vol-11/issue-4/jan-mar-2016/singapore-chronicle-first-newspaper)**<br>
 *Singapore Chronicle and Commercial Register* [(PDF)](/files/pdf/vol-11/issue-4/v11-issue4_FirstNewspaper.pdf)
-
-**[Stories from the Stacks](/vol-11/issue-4/jan-mar-2016/stories-stacks-exhibition)**<br>
-The National Library’s newest exhibition, “From the Stacks”, presents highlights of its Rare Materials Collection. *Chung Sang Hong* explains why you should not miss this event. [(PDF)](/files/pdf/vol-11/issue-4/v11-issue4_StoriesFromTheStacks.pdf)
 
 **[A Gift of Books](/vol-11/issue-4/jan-mar-2016/gift-of-books-SG50)**<br>
 The National Library Board wins hearts (and minds) around the world with its SG50 Gift of Books initiative. *Amelia Tan* has the details. [(PDF)](/files/pdf/vol-11/issue-4/v11-issue4_GiftBooks.pdf)

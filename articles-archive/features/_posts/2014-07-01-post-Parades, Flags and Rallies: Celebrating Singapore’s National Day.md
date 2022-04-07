@@ -74,7 +74,7 @@ Former Prime Minister Lee Kuan Yew addressing the 3,500-strong audience during t
 
 Goh Chok Tong’s and Lee Hsien Loong’s rally speeches were more open, consultative and gentle compared to Lee Kuan Yew’s. In fact, Goh regularly used humorous colloquial dialect expressions to lighten up his speeches.[^40] For example, while commenting on the pragmatism of some graduates in choosing to become hawkers in a tough job market, Goh said in his 2003 rally:
 
-“This is good. We must be practical – as practical as Teochew fishermen. They would say: <i>“Kah tak hoi, chew liak her. Hoi zao, her liu, aiyah, bor her hay ah hor”</i> (Catch crabs with your feet and fish with your hands. But if the crabs run away and the fish slip through your hands, prawns will do just fine). Some graduates have also taken to roasting <i>gao luk</i> or chestnuts, for a living. Others are running their own porridge stall. I commend their attitude. They did not sit around and moan and groan. They went out and made a living for themselves. To Singaporeans who say this is a loss of face, I offer this Hokkien advice: <i>“Lao quee buay xi, bo quee jia eh xi ”</i> (Loss of face will not kill you, you will only die if you lose your breath).”[^41]
+“This is good. We must be practical – as practical as Teochew fishermen. They would say: <i>'Kah tak hoi, chew liak her. Hoi zao, her liu, aiyah, bor her hay ah hor'</i> (Catch crabs with your feet and fish with your hands. But if the crabs run away and the fish slip through your hands, prawns will do just fine). Some graduates have also taken to roasting <i>gao luk</i> or chestnuts, for a living. Others are running their own porridge stall. I commend their attitude. They did not sit around and moan and groan. They went out and made a living for themselves. To Singaporeans who say this is a loss of face, I offer this Hokkien advice: <i>'Lao quee buay xi, bo quee jia eh xi '</i> (Loss of face will not kill you, you will only die if you lose your breath).”[^41]
 
 Current prime minister, Lee Hsien Loong, makes a distinct effort to name ordinary Singaporeans as role models in his speeches.[^42] For example, in the 2013 rally, he shared the story of Dr Yeo Sze Ling who overcame her visual disability to become a research scientist at A*STAR. He said:
 
@@ -137,7 +137,7 @@ Leong, W.T.L. (2001, December). Consuming the nation: National Day Parades in Si
 
 Pearson, H.F. (1954). *[Stories of early Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4087398)*. London: University of London Press. (Call no.: RCLOS 959.51 PEA)
 
-Peet, G.L. (2009). [Rickshaw reporter](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13164104). Singapore: Marshall Cavendish Editions. (Call no.: RSING 070.92 PEE)
+Peet, G.L. (2009). *[Rickshaw reporter](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13164104)*. Singapore: Marshall Cavendish Editions. (Call no.: RSING 070.92 PEE)
 
 [Rain…rain…rain](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19600604-1.2.2). (1960, June 4). <i>The Straits Times</i>, p. 1. Retrieved from NewspaperSG.
 

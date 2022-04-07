@@ -67,7 +67,8 @@ The answer to this question will determine Singapore’s future. If it is a natu
 
 If it is an artificial development, we will remain in a state of continuous fragility. As Singapore continues its mighty metamorphosis, we have to hope and pray that our ethnic harmony is a result of natural development.
 
-This article was first printed in <i>The Straits Times</i> on 8 June, 2013. <i>The Straits Times</i> © Singapore Press Holdings Pte Ltd. Reprinted with permission.
+<div><i>This article was first printed in The Straits Times on 8 June, 2013. The Straits Times © Singapore Press Holdings Pte Ltd. Reprinted with permission.</i></div>
+<br/>
 
 <img style="width:100px;height:100px;margin-bottom:-30px; border-radius:100%; box-shadow: 1px 2px 0px #424242;" src="/images/vol-10-issue-2/singaporean/kishore.png">
 <p style="font-size:15px;"><b>Kishore Mahbubani</b> was with the Singapore Foreign Service for 33 years (1971–2004) and was Permanent Secretary at the Foreign Ministry from 1993 to 1998. Currently, he is the Dean and Professor in the Practice of Public Policy at the Lee Kuan Yew School of Public Policy of the National University of Singapore. His latest book, <i>The Great Convergence: Asia, the West, and the Logic of One World</i>, was selected by the <i>Financial Times</i> as one of the best books of 2013 and long listed for the 2014 Lionel Gelber Prize. Most recently, he was selected by <i>Prospect</i> magazine as one of the top 50 world thinkers for 2014.</p>

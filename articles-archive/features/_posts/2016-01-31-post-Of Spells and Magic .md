@@ -63,6 +63,8 @@ Hicks.
 
 – Written by Lee Meiyu
 
+<a href="/vol-11/issue-4/jan-mar-2016/"><center>Back to Issue</center></a>
+
 #### **NOTES**
 [^1]:Gullick, J. M. (2005). Introduction. In W. W. Skeat, [*Malay Magic: Being an introduction to the folklore and popular religion of the Malay Peninsula*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12666706) (p. A5). Kuala Lumpur: Academe Art & Printing Services. Call no.: RSEA 398.4 SKE.
 [^2]:[Gullick](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12666706), 2005, p. A5.

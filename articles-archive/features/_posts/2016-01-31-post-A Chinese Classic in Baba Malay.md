@@ -62,6 +62,8 @@ Chan was known by the pen-name Batu Gantong (literally “Hanging Rock”), whic
 
 – Written by Mazelan Anuar
 
+<a href="/vol-11/issue-4/jan-mar-2016/"><center>Back to Issue</center></a>
+
 #### **NOTES**
 [^1]:The term Peranakan generally refers to people of mixed Chinese and Malay/Indonesian heritage. Peranakan males are known as *babas* while the females are known as *nonyas* (or *nyonyas*). See National Library Board. (August 26, 2013). [*Peranakan (Straits Chinese) community*](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-08-30_181745.html) written by Koh, Jaime. Retrieved from Singapore Infopedia.
 [^2]:National Library Board. (2008). [*Chan Kim Boon*](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1337_2008-10-07.html) written by Tan, Bonny. Retrieved from Singapore Infopedia.

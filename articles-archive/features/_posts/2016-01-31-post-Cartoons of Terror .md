@@ -56,6 +56,8 @@ Liu Kang enlisted the help of Zheng Zhenen to write the captions in English.[^10
 
 – Written by Timothy Pwee
 
+<a href="/vol-11/issue-4/jan-mar-2016/"><center>Back to Issue</center></a>
+
 #### **NOTES**
 [^1]:Frei, H. P. (2004). [*Guns of February: Ordinary Japanese soldiers’ views of the Malayan campaign and the fall of Singapore, 1941–42*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11919202) (p. 148). Singapore: Singapore University Press. Call no.: RSING 940.5425 FRE-[WAR]; Koh, E. (2013). [*Diaspora at war: The Chinese of Singapore between empire and nation, 1937–1945*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200135133). Leiden: Brill. Call no.: RSING 305.89510595709044 KOH.
 [^2]:Cheah, B. K. (2000). Memory as history and moral judgement: Oral and written accounts of the Japanese Occupation of Malaya. In P. H. Lim & D. Wong (Eds.), [*War and memory in Malaysia and Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9570099) (pp. 23–41). Singapore: Institute of Southeast Asian Studies. Call no.: RSING 959.503 WAR

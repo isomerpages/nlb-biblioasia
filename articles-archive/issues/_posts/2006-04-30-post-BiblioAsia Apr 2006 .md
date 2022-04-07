@@ -9,16 +9,22 @@ description: ""
 
 **Director's Column**
 
-**Singapore Art, <i>Nanyang</i> Style**<br> [(PDF)](/files/pdf/vol-2/issue-1/v2-issue1_NanyangStyle.pdf)
+**Singapore Art, Nanyang Style**<br>The Nanyang style of painting was practised by migrant Chinese painters in Singapore in the 1950s. It combines elements from the Western Schools of Paris with Chinese painting traditions, styles and techniques. [(PDF)](/files/pdf/vol-2/issue-1/v2-issue1_NanyangStyle.pdf)
 
-**Old Man Yip: Photography Master in Slippers**<br> [(PDF)](/files/pdf/vol-2/issue-1/v2-issue1_OldManYip.pdf)
+**Old Man Yip: Photography Master in Slippers**<br> Yip Cheong Fun was one Singapore’s most eminent photographers. His ability to capture,
+“the decisive moment” made him unique among the photographers of his generation.
+[(PDF)](/files/pdf/vol-2/issue-1/v2-issue1_OldManYip.pdf)
 
-**The Motor Millions – Towards Our Own Car: Six Years to Assembling Cars in the Peninsula 1963–1968**<br> [(PDF)](/files/pdf/vol-2/issue-1/v2-issue1_MotorMillions.pdf)
+**The Motor Millions – Towards Our Own Car: Six Years to Assembling Cars in the Peninsula 1963–1968**<br>Tracs Malaysia’s attempt to establish a local automotive assembly industry during the
+exciting years of industrialisation from 1963 to 1968.
+ [(PDF)](/files/pdf/vol-2/issue-1/v2-issue1_MotorMillions.pdf)
 
-**陈育崧先生与椰阴馆馆藏**<br> [(PDF)](/files/pdf/vol-2/issue-1/v2-issue1_Chinese.pdf)
+**陈育崧先生与椰阴馆馆藏**<br>In 1964, Tan Yeok Seong donated his Ya Yin Kwan Collection (10,000 volumes) on the influence of the Chinese in Southeast Asia and the culture of China and the South Seas to the National Library of Singapore. [(PDF)](/files/pdf/vol-2/issue-1/v2-issue1_Chinese.pdf)
 
-**Politics: Science or Art? The Political Science Collection at the Lee Kong Chian Reference Library**<br> [(PDF)](/files/pdf/vol-2/issue-1/v2-issue1_PoliticalScience.pdf)
+**Politics: Science or Art? The Political Science Collection at the Lee Kong Chian Reference Library**<br>The Political Science Collection is a starting ground for the concerned citizen to learn about the basic concepts in politics, and if need be, delve into certain topics in greater depth. The collection offers a complete spectrum covering the major areas in political science. [(PDF)](/files/pdf/vol-2/issue-1/v2-issue1_PoliticalScience.pdf)
 
- **News** [(PDF)](/files/pdf/vol-2/issue-1/v2-issue1_News.pdf)
+ **News** <br>The launch of the National Library’s Distinguished Readers initiative; Queen Elizabeth II’s visit to the National Library; the memorandum of understanding signed between the National Library Board and Nanyang Technological University to jointly publish an online journal on library
+and information science practices and management for Singapore; and visit by members of the Urban Libraries Council. 
+[(PDF)](/files/pdf/vol-2/issue-1/v2-issue1_News.pdf)
 
-**Microfilm Collection and Services in the Lee Kong Chian Reference Library**<br>  [(PDF)](/files/pdf/vol-2/issue-1/v2-issue1_Microfilm.pdf)
+**Microfilm Collection and Services in the Lee Kong Chian Reference Library**<br> Microfilming the National Library’s collections began in the 1950s to preserve and archive Singapore’s documentary heritage. The collection includes newspapers; rare and out-of-print books; periodicals and directories; government publications; and dissertations. [(PDF)](/files/pdf/vol-2/issue-1/v2-issue1_Microfilm.pdf)

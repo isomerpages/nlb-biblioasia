@@ -56,6 +56,8 @@ Much of Bowrey’s private life was unknown until the discovery of his personal 
 
 –	Written by Nor-Afidah Abdul Rahman
 
+<a href="/vol-11/issue-4/jan-mar-2016/"><center>Back to Issue</center></a>
+
 #### **NOTES**
 [^1]:Bowrey, T. (1927). [*The papers of Thomas Bowrey, 1669–1713*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4411906) (p. 38). R. C. Temple. (Ed.). London: Hakluyt Press. Call no.: RCLOS 910.8 HAK-[RFL]
 [^2]:Bowrey, T. (1701). Preface. In [*A dictionary, English and Malayo, Malayo and English*](http://eresources.nlb.gov.sg/printheritage/detail/20d7b813-2055-40a0-8688-fca31227c28f.aspx). (pp. 4–6).  London: Printed by Sam Bridge. Retrieved from BookSG.

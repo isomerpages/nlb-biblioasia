@@ -54,6 +54,8 @@ Song became the first Malayan Chinese and the second Asian in Malaya – apart f
 
 – Written by Irene Lim
 
+<a href="/vol-11/issue-4/jan-mar-2016/"><center>Back to Issue</center></a>
+
 #### **NOTES**
 [^1]:[The Chinese in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19240110-1.2.65) (1924, January 10). *The Singapore Free Press and Mercantile Advertiser*, p. 12. Retrieved from NewspaperSG.
 [^2]:Song, O. S. (1967). [*One hundred years’ history of the Chinese in Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4590335). Singapore: University Malaya Press. Call no.: RCLOS 959.57 SON; Song, O. S. (1975). [*One hundred years’ history of the Chinese in Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4157838). San Francisco: Chinese Materials Centre. Call no.: RCLOS 959.57 SON; Song, O. S. (1984). [*One hundred years’ history of the Chinese in Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082287). Singapore: Oxford University Press. Call no.: RSING 959.57 SON-[HIS].

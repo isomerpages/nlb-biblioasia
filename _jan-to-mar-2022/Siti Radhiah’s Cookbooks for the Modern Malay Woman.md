@@ -4,7 +4,6 @@ permalink: /vol-17/issue-4/jan-to-mar-2022/siti-radhiah-cookbooks
 description: ""
 image: /images/vol-17-issue-4/cookbook/cookbook.png
 ---
-
 #### A number of cookbooks written in the 1940s and 1950s helped expand the traditional Malay culinary repertoire, as **Toffa Abdul Wahed** tells us.  
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/cookbook/cookbook.png)
@@ -87,7 +86,7 @@ This cookbook contains, for instance, several recipes that are of Dutch origin o
  *Hidangan Kuih Moden* also has many recipes for cakes with names such as “doll cake”, “butterfly cake”, “zig zag”, “double heart” and “magic cake”. An interesting recipe is for *Kek Hari Raya* (Hari Raya Cake), which is basically a butter cake with fondant poured and spread over it and then decorated with royal icing. But this has failed to become a Hari Raya staple. 
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/cookbook/cakes.png)
-<div style="background-color: white;"> These are two of the cakes featured in <i>Hidangan Kuih Moden</i> (<i>Modern Kuih Dishes</i>). They are the Double Heart (top) and <i>Kek Dam</i> (Checkers Cake) (bottom). <i>Images reproduced from Siti Radhiah Mohamed Saleh, Hidangan Kuih Moden (Singapore: Geliga, 1957), 30, 44. (From National Library, Singapore, via PublicationSG).</i></div>
+<div style="background-color: white;"> These are two of the cakes featured in <i>Hidangan Kuih Moden</i> (<i>Modern Kuih Dishes</i>). They are the Double Heart (left) and <i>Kek Dam</i> (Checkers Cake) (right). <i>Images reproduced from Siti Radhiah Mohamed Saleh, Hidangan Kuih Moden (Singapore: Geliga, 1957), 30, 44. (From National Library, Singapore, via PublicationSG).</i></div>
 
 Modern *kuih* was, however, not without its critics. In 1946, a *Comrade* correspondent using the pseudonym Orang Pelayaran (Sailor) lamented: “It is inevitable that in a cosmopolitan city like Singapore the Malays here have lost the art of making good old-fashioned Malay cakes and have taken to [W]estern cakes.” Comparing the situation in Singapore with that in Malaya, he wrote: “But in the Union, the art is not lost, though taste[s] may have changed.”[^29]
 
@@ -138,7 +137,7 @@ In the later stage of her life, Siti Radhiah, true to her spirit of helping and 
 
 [^2]: According to Christopher Tan, food writer and author of *The Way of Kueh* (2019), the word *kueh* or *kuih* refers to a diverse variety of sweet and savoury foods and snacks. *Kuih* is the formal spelling used in Malay today. I have used this spelling to replace all instances of *kueh* mentioned in the materials consulted for this essay, including Siti Radhiah’s cookbooks. See Christopher Tan, “[*The Way of Kueh: Savouring & Saving Singapore's Heritage Desserts*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203962932),” (Singapore: National Heritage Board, 2019), 2. (From National Library, Singapore, Call no. RSING 641.595957 TAN)
 
-[^3]: Harun Aminurrashid, whose real name was Harun bin Muhamad Amin, was born in 1907 in Telok Kurau, Singapore. His other pen names include Har, Gustam Negara, Atma Jiwa and Si Ketuit. Besides writing textbooks and novels, Harun Aminurrashid was also the author of several publications, including *Warta Jenaka, Warta Ahad, Hiburan* and *Warta Malaya*. For a list of his works, see Abdul Ghani Hamid, [*Sebuah Catatan Ringkas Harun, Seorang Penulis*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7274038) (Singapore: Jawatankuasa Bulan Bahasa, 1994). (From National Library, Singapore, Call no. RSING 899.2305 ABD)
+[^3]: Harun Aminurrashid, whose real name was Harun bin Muhamad Amin, was born in 1907 in Telok Kurau, Singapore. His other pen names include Har, Gustam Negara, Atma Jiwa and Si Ketuit. Besides writing textbooks and novels, Harun Aminurrashid was also the author of several publications, including *Warta Jenaka, Warta Ahad, Hiburan* and *Warta Malaya*. For a list of his works, see Abdul Ghani Hamid, [*Sebuah Catatan Ringkas Harun, Seorang Penulis*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7274038) (Singapore: Jawatankuasa Bulan Bahasa, 1994). (From National Library, Singapore, Call no. Malay RSING 899.2305 ABD)
 
 [^4]: Sundusia Rosdi, “[Harun Aminurrashid](https://biblioasia.nlb.gov.sg/files/pdf/BiblioAsia%20Jul%202007.pdf),” [*BiblioAsia*](https://biblioasia.nlb.gov.sg/all-issues/) 3, no. 2 (2007): 5. For more information about his time as a student and later a teacher at Sultan Idris Training College, see Abdullah Hussain, [*Harun Aminurrashid: Pembangkit Semangat Kebangsaan*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12815413) (Kuala Lumpur: Dewan Bahasa dan Pustaka, 2006), 20–39. (From National Library, Singapore, Call no. R 899.283 ABD)
 
@@ -172,11 +171,11 @@ In the later stage of her life, Siti Radhiah, true to her spirit of helping and 
 
 [^18]: Alicia Izharuddin, “The New Malay Woman,” 57.
 
-[^19]: NLB has the 1962 edition. See Harun Aminurrashid, [*Melur Kuala Lumpur*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4183840) (Singapore: Royal Press, 1962). (From National Library, Singapore, Call no. RCLOS 899.2305 HAR).
+[^19]: NLB has the 1962 edition. See Harun Aminurrashid, [*Melur Kuala Lumpur*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4183840) (Singapore: Royal Press, 1962). (From National Library, Singapore, Call no. Malay RCLOS 899.2305 HAR).
 
 [^20]: Rahmah Daud, “Wanita Dengan Rumah Tangga,” in [*Hiboran 10 Tahun 1946–1956*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12611108), ed. Harun Aminurrashid (Singapore: Abdullah Ali, 1956), 81. (From National Library, Singapore, Call no. Malay RCLOS 059.9928 H)
 
-[^21]: “Soal Kuih-muih Melayu,” [*Fesyen*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12611145) (4 July 1954): 4. (From National Library, Singapore, Call no. RCLOS 391.005 F)
+[^21]: “Soal Kuih-muih Melayu,” [*Fesyen*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12611145) (4 July 1954): 4. (From National Library, Singapore, Call no. Malay RCLOS 391.005 F)
 
 [^22]: “[*Hygiene Among Malay Mothers*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19490111-1.2.69),” *Straits Times*, 11 January 1949, 5. (From NewspaperSG)
 
@@ -206,10 +205,10 @@ In the later stage of her life, Siti Radhiah, true to her spirit of helping and 
 
 [^35]: “[Halaman 5 Iklan Ruangan 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19611205-1.2.62.1).”
 
-[^36]: “[Halaman 10 Iklan Ruangan 4](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19691101-1.2.96.4),” *Berita Harian*, 1 November 1969, (From NewspaperSG).
+[^36]: “[Halaman 10 Iklan Ruangan 4](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19691101-1.2.96.4),” *Berita Harian*, 1 November 1969, 10. (From NewspaperSG).
 
 [^37]: Siti Haida Harun, [*Aneka Selera: Kuih-kuih dan Lauk-pauk Pilihan Selera*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200066618) (Singapore: Malaysia Press, 1965). (From National Library, Singapore, via PublicationSG)
 
 [^38]: Siti Haida Harun, [*Aneka Selera*](https://eresources.nlb.gov.sg/printheritage/detail/4dfb78b1-b21b-48af-901b-ebc0fefbe87e.aspx), [n.p.]. [Note: English translation by author.]
 
-[^39]: “[Anumerta Kenang Jasa Harun](/https:/eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19950717-1.2.11.3),” *Berita Harian*, 17 July 1995, 3. (From NewspaperSG)
+[^39]: “[Anumerta Kenang Jasa Harun](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19950717-1.2.11.3),” *Berita Harian*, 17 July 1995, 3. (From NewspaperSG)

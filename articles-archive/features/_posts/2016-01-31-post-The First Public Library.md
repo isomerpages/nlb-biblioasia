@@ -70,6 +70,8 @@ National Library Board.[^13]
 
 – Written by Lim Tin Seng
 
+<a href="/vol-11/issue-4/jan-mar-2016/"><center>Back to Issue</center></a>
+
 #### **NOTES**
 [^1]:Seet, K. K. (1983). [*A place for the people*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082325) (pp. 5–8). Singapore: Times Books International. Call no.: RSING 027.55957 SEE-[LIB]
 [^2]:Singapore Library. (1847). [*The second report of the Singapore Library 1846*](https://eresources.nlb.gov.sg/printheritage/detail/3c12fae7-bfb5-4524-ab57-892031e43abc.aspx) (pp. 4-5).  Singapore: Singapore Library. Microfilm: NL 5040

@@ -56,7 +56,7 @@ Tigran, ever the merchant, proudly, and often, advertised this fact: “First Cl
 
 In the minds of many, Raffles Hotel was now inexorably linked with Singapore as the great “Crossroads of the East”. As one traveller remarked in 1912, “Singapore is the only city which everyone encircling the globe is forced to visit, at least for a day.” The ritual of arrival was often described in early travel books, the first impression of lush coconut groves, mangrove swamps and coastal villages giving way to praise for the expanse of handsome buildings – Singapore’s own Bund – lining the shore as the town came into view. The large steamers operated by international companies moored at the expanded Tanjong Pagar Wharves, two miles from town. Smaller steamers handling regional routes discharged passengers in the open roadstead where they were ferried to Johnston’s Pier, later replaced by Clifford Pier. 
 
-Raffles’ management strived to stay ahead of the competition. Refinements large and small were ongoing. A telephone system and elevator were installed around 1907. Other innovations included a dark room for amateur photographers, cinema evenings, roller skating parties in the Dining Room and lawn tennis in the gardens. The private <i>jinrikisha</i> (two-wheeled carriages pulled by human labour) were replaced by a motor garage with a fleet of passenger cars for hire. 
+Raffles’ management strived to stay ahead of the competition. Refinements large and small were ongoing. A telephone system and elevator were installed around 1907. Other innovations included a dark room for amateur photographers, cinema evenings, roller skating parties in the Dining Room and lawn tennis in the gardens. The private jinrikisha (two-wheeled carriages pulled by human labour) were replaced by a motor garage with a fleet of passenger cars for hire. 
 
 Behind the scenes, the kitchens were frequently upgraded with the latest in culinary technology. Raffles even had its own slaughterhouse, located away from the hotel, and, briefly, a dairy farm. Travellers noticed: “Raffles is one of the oldest and yet one of the most modern hotels in Singapore, for every effort is made to keep pace in all directions in the matter of building fixtures, appliances,” praised a writer in 1917.
 
@@ -121,9 +121,9 @@ Unfortunately, they could never hope to purchase the other two parcels because t
 <br><br>
 The lease signed in 1887 was renewed periodically. Significantly, the hotel was able to secure a generous 70-year lease on good terms from the Alsagoff estate effective from 1 January 1926. Thus, when the new company of Raffles Hotel Limited was formed in 1933, the remainder of this long lease was its most important asset. 
 <br><br>
-It must be noted that Syed Mohamed was an outstanding landlord. He funded most of the early building projects and it is his name that appears on most of the original Raffles Hotel building plans that survive in the National Archives, Singapore.
-<br><br>
-This article was adapted from the book <i>Raffles Hotel</i> by Gretchen Liu, Editions Didier Millet, Singapore, 2006.</span>
+It must be noted that Syed Mohamed was an outstanding landlord. He funded most of the early building projects and it is his name that appears on most of the original Raffles Hotel building plans that survive in the National Archives, Singapore.</span>
+<div style="background-color: white;">
+<i>This article was adapted from the book</i> Raffles Hotel <i>by Gretchen Liu, Editions Didier Millet, Singapore, 2006.</i></div>
 
 <p style="font-size:15px;"><b>Gretchen Liu</b> is a former journalist and book editor as well as the author of several illustrated books, including <i>Pastel Portraits: Singapore’s Architectural Heritage</i> and <i>Singapore: A Pictorial History</i>. As the former curator of the Raffles Hotel Collection, she oversaw all of the heritage projects during the hotel’s 1989–1992 restoration and for some years after that.</p>
 

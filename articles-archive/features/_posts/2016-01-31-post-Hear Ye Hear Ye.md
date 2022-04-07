@@ -59,6 +59,8 @@ the newly minted *Colony of Singapore Government Gazette*.[^13] When Singapore a
 
 – Written by Genine Loo
 
+<a href="/vol-11/issue-4/jan-mar-2016/"><center>Back to Issue</center></a>
+
 #### **NOTES**
 [^1]:Parliament of Singapore. (2011). *Parliamentary glossary – G*. Retrieved from Parliament of Singapore website.
 [^2]:National University of Singapore. (2015, July 14). *Singapore primary sources: Executive government (1867–1965)*. Retrieved from NUS Library website.

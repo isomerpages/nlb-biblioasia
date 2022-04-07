@@ -138,7 +138,7 @@ Beyond planting more trees, the OneMillionTrees Movement is about, as Minister f
 
 [^12]: “[Keep Eye on World Scene Too, Says Lee](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19711213-1.2.96.aspx),” _Straits Times_, 13 December 1971, 16. (From NewspaperSG)
 
-[^13]: Timothy Auger, [_Living in a Garden: The Greening of Singapore_](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200132926) (Singapore: Editions Didier Millet, 2013), 27. (From National Library, Singapore, Call no. RSING 363.68095957 AUG
+[^13]: Timothy Auger, [_Living in a Garden: The Greening of Singapore_](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200132926) (Singapore: Editions Didier Millet, 2013), 27. (From National Library, Singapore, Call no. RSING 363.68095957 AUG)
 
 [^14]: Evangeline Gamboa, “[PM Planted It 11 Years Ago…](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19831106-1.2.41.aspx),” _Straits Times_, 6 November 1983, 12; “[Lee to ‘Spade In’ Tree Planting Day](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19751109-1.2.24),” _Straits Times_, 9 November 1975, 5; “[Mr Lee Sets Example on Tree Planting Day](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19771107-1.2.75),” _Straits Times_, 7 November 1977, 15; “[PM Launches Tree Planting Day](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19781106-1.2.9),” _Straits Times_, 6 November 1978, 1; “[People and VIPs Dig in on Tree Planting Day](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19791105-1.2.45),” _Straits Times_, 5 November 1979, 10. (From NewspaperSG)
 
@@ -162,7 +162,7 @@ Beyond planting more trees, the OneMillionTrees Movement is about, as Minister f
 
 [^24]: Lim Yan Liang, “[Recycling, Energy-Saving to Figure in Green Plan](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20141102-1.2.7.4),” _Straits Times_, 2 November 2014, 4. (From NewspaperSG)
 
-[^25]: Lee Hsien Loong, “Good to Meet Up with My Fellow AMK Grassroots Advisors. Let Us All Continue in Our Efforts to Make Singapore a City in Nature!,” 1 November 2020, Facebook, https://www.facebook.com/leehsienloong/photos/a.3773908769338468/
+[^25]: Lee Hsien Loong, “Good to Meet Up with My Fellow AMK Grassroots Advisors. Let Us All Continue in Our Efforts to Make Singapore a City in Nature!,” 1 November 2020, Facebook, https://www.facebook.com/leehsienloong.
 
 [^26]: Justin Ong, “PM Lee Plants Same Type of Tree on Annual Tree Planting Day as Father Did in 1963,” _The Straits Times_, 20 November 2021, https://www.straitstimes.com/singapore/community/pm-lee-plants-symbolic-cherry-blossom-like-tree-as-ang-mo-kio-steps-up-green
 

@@ -50,6 +50,8 @@ a midshipman and stopped over in Singapore in 1842 while en route to China to fi
 
 – Written by Lee Meiyu
 
+<a href="/vol-11/issue-4/jan-mar-2016/"><center>Back to Issue</center></a>
+
 #### **NOTES**
 [^1]:Fortier, D. H. (1974, September). Review. *American Anthropologist, 76* (3), 611. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
 [^2]:Fortier, Sep 1974, p. 611; Blythe, W. (1971). Introduction. In J. D. Vaughan. (1971), [*The manners and customs of the Chinese of the Straits Settlements*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4250059). Singapore: Oxford University Press. Call no.: RSING 390.0951 VAU-[CUS].  

@@ -6,13 +6,12 @@ image: /images/vol-10-issue-3/tigerbalm/Aw_Boon_Haw.jpg
 layout: post
 description: ""
 ---
-
 <div style="background-color: white;">
 <br/>
 <img src="/images/vol-10-issue-3/tigerbalm/Aw_Boon_Haw.jpg">
 资料来源：傅无闷主编《星洲日报二周年纪念刊》（新加坡：星洲日报社,1931)</div>
 
-This article on Aw Boon Haw explores how he advertised Tiger Balm products in Singapore newspapers and their impact on the consumer. Aw Boon Haw is perhaps bestknown for establishing the Chinese cure-all ointment, Tiger Balm. He was also responsible for the construction of Haw Par Villa. The period covered by the research is from 1916–1954. This article recounts how Aw Boon Haw shaped the image of his legendary products through storytelling and promises of health and wellness to the consumer. The article concludes that Aw’s success was mainly due to his unique storytelling skills.
+Responsible for the construction of Haw Par Villa, Aw Boon Haw was perhaps best-known for establishing the Chinese cure-all ointment, Tiger Balm. Covering the period of 1916 to 1954, this article explores how Aw advertised Tiger Balm products in Singapore newspapers and their impact on consumers. It also recounts how Aw shaped the image of his legendary products through storytelling and promises of health and wellness, attributing his success to his unique storytelling skills.
 
 #### **一、导言**
 
@@ -131,7 +130,7 @@ Source: <i>The Straits Times</i>, 13 August 1946, p.3. <i>All rights reserved, S
 
 透过分析胡文虎刊登在新加坡报纸的药品广告，不仅可以看见他在这方面的过人之处，同时这些二战前后的报纸广告内容也反映了新加坡的大众文化、日常生活、社会与经济的发展和变迁。本研究只是个开端，希望在未来有更多有识之士继续利用报纸广告，对早期新加坡和东南亚的社会史、商业史、文化史、思想史展开更广泛和深入的研究。
 
-<p style="font-size:15px;"><b>Sin Yee Theng</b> (沈仪婷) was a Lee Kong Chian Research Fellow in 2011. Her PhD dissertation, <i>A Study of Aw Boon Haw and his Entrepreneurship: A Perspective of Cultural History</i> (《谱写虎标传奇：胡文虎及其创业 文化史》), was jointly published by NUS Department of Chinese Studies, Singapore Char Yong (Dabu) Association and Global Publishing in 2013.</p>
+<p style="font-size:15px;"><b>Sin Yee Theng</b> (沈仪婷) was a Lee Kong Chian Research Fellow in 2011. Her PhD dissertation, <i>A Study of Aw Boon Haw and His Entrepreneurship: A Perspective of Cultural History</i> (《谱写虎标传奇：胡文虎及其创业 文化史》), was jointly published by NUS Department of Chinese Studies, Singapore Char Yong (Dabu) Association and Global Publishing in 2013.</p>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-10/issue-3/oct-dec-2014/"><center>Back to Issue</center></a>
 
