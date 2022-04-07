@@ -1,8 +1,9 @@
 ---
 title: Tapioca Tales
 permalink: /videos/tapioca-tales
-description: ""
+description: "Can wartime food be delicious? Find out as cookbook author Lee Geok Boi whips up two dishes using only wartime ingredients. Coming on 14 April."
 third_nav_title: From Book to Cook
+image: /images/Videos:%20From%20Book%20to%20Cook/geok%20boi%20making%20tapioca%20noodles.png
 ---
 #### Can wartime food be delicious? Find out as cookbook author Lee Geok Boi whips up two dishes using only wartime ingredients. Coming on 14 April.
 

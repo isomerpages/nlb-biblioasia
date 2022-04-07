@@ -3,6 +3,7 @@ title: Eat More Wheat!
 permalink: /videos/eat-more-wheat-campaign
 description: ""
 third_nav_title: From Book to Cook
+image: /images/Videos:%20From%20Book%20to%20Cook/Christoper%20Tan%20with%20Paddy1.png
 ---
 #### Immature shrimp? Gourmet powder? Cookbook author Christopher Tan overcomes  vague instructions and unusual ingredients to produce delicious handmade noodles in this episode. Coming your way on 28 April.
 

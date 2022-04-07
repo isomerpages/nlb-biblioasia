@@ -3,6 +3,8 @@ title: The Curry Chronicles
 permalink: /videos/curry-chronicles
 description: ""
 third_nav_title: From Book to Cook
+image: /images/Videos:%20From%20Book%20to%20Cook/devagi%20makes%20mrs%20kinseys%20rendang%202.png
+
 ---
 #### What would a 100-year-old rendang recipe taste like? Join chef Devagi Sanmugam in the first episode of our new cooking series on 7 April to find out.
 
