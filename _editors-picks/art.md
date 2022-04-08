@@ -25,7 +25,7 @@ permalink: /editors-picks/art
 <img src="/images/Vol-17-issue-1/malayan-fruits/ananas.jpg">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-20/raffles" target="_blank"> Stamford Raffles and the Two French Naturalists</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/raffles" target="_blank"> Stamford Raffles and the Two French Naturalists</a>
 <p>Danièle Weiler uncovers the work of two young French naturalists – Alfred Duvaucel and Pierre Médard Diard – who worked with Stamford Raffles between 1818 and 1820.</p>
 <hr>
  

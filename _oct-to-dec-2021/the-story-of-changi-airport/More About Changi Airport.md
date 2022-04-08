@@ -6,12 +6,6 @@ description: Built at a cost of $1.5 billion, Changi Airport was the largest
   public project in Singapore when it was completed in 1981. Learn more about
   Changi Airport through these photos from the National Archives of Singapore.
 ---
-
-
-
-
-
-
 #### Built at a cost of $1.5 billion, Changi Airport was the largest public project in Singapore when it was completed in 1981. Learn more about Changi Airport through these photos from the National Archives of Singapore.
 
 Changi Airport became operational on 1 July  1981 but about six weeks before that,  it was opened to an eager public who flocked to see what the new airport looked like inside. Tours were fully booked and by mid-June, the airport had received more than 250,000 visitors, about a tenth of Singapore’s population.[^1] Clearly Changi Airport had captured the imagination of the public.  
@@ -79,22 +73,7 @@ The design of the iconic 78-metre tall control tower came from a competition hel
 
 The video below shows the radome (the dome-like structure on top of the control tower) and the radar equipment inside it being replaced in 2015.
 
-<style>
-.video-container {
-    position: relative;
-    padding-bottom: 56.25%; /* 16:9 */
-    height: 0;
-}
-.video-container iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-}
-</style>
-<div class="video-container">
-    <iframe width="800" height="auto" src="https://www.youtube.com/embed/Bjng3mcRUYY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   </div>
+<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src="https://www.youtube.com/embed/Bjng3mcRUYY" frameborder='0' allowfullscreen></iframe></div>
 <i>Courtesy of Civil Aviation Authority of Singapore</i>
 
 #### **Further Resources from the National Library and National Archives of Singapore**

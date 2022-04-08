@@ -16,7 +16,7 @@ permalink: /editors-picks/food
 <img style="width:600px;" src="/images/vol-16-issue-4/kuehlapis/TwoBatterCake.jpg">
 <hr>
  
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-2/jul-sep-2014/taste-of-sg-past" target="_blank">Of Belacan and Curry Puffs: A Taste of Singapore’s Past</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-2/jul-sep-2014/belachan-curry-puff-singapore-food-heritage" target="_blank">Of Belacan and Curry Puffs: A Taste of Singapore’s Past</a>
 <p>Bonny Tan pores through the rich archives of Malayan newspapers and shows how disparate communities have come together to create a food culture that is truly emblematic of Singapore’s multicultural character.</p> 
 <hr>
 
