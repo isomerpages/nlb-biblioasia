@@ -19,6 +19,26 @@ The midwives were, of course, just as overwhelmed. “Last time the old KK in La
 
 #### **Fifth General Hospital**
 
+While largely seen as a maternity hospital today, KK had its origins as Singapore’s 5th General Hospital. It began operations in 1860 with the transfer of patients from other hospitals. The hospital was divided into a section catering to the Europeans known as Seamen’s Hospital and another for locals known as Police Hospital.7 It offered gynaecology and childbirth services from as early as the 1860s.8
+
+The hospital was located at the site bounded by Serangoon, Selegie, Bukit Timah and Rochor roads. By at least the turn of the 20th century, it had become known variously as General Hospital Kandang Kerbau or Kandang Kerbau Hospital. The term kandang kerbau means “buffalo pen” in Malay, and it is believed the hospital was so named as bullock carts belonging to the colonial transport department were parked nearby. The Chinese referred to the hospital as Tek Kah Hospital. Tek kah, or zhu jiao in Mandarin, literally means “under the bamboo trees” in Hokkien as the hospital lay beneath a hillock dotted with bamboo plants.9 
+
+#### **Specialisation in Maternal Health**
+
+Migrants to Singapore in the 19th century were largely male. However, as more female migrants began arriving in Singapore in the first few decades of the 20th century, birth rates rapidly increased and naturally so did demand for maternity-related medical services.10 
+
+The Free Maternity Hospital on Victoria Street became overwhelmed and patients had to be turned away. With more patients than beds, KK Hospital was renovated, expanded and converted into the Free Maternity Hospital comprising three one-storey buildings. When KK Hospital officially opened as a maternity hospital on 1 October 1924, the Free Maternity Hospital on Victoria Street moved to KK Hospital.11
+
+Later, when this new maternity hospital proved unable to meet demand, one of the buildings was torn down and a three-storey block with 120 beds was erected in 1934. However, the number of births continued increasing so rapidly that another new block was built, increasing the number of beds to 180 when it opened in July 1940. There were 6,184 births that year – all pro bono. Paying patients and gynaecological cases were treated at the General Hospital on Outram Road.12
+
+In the pre-war years, KK Hospital was a well-regarded hospital. J.S. English, Professor of Midwifery and Gynaecology at the King Edward VII College of Medicine (1922–48) and Director of the hospital (1924–42), remarked in 1948 that “before the war… it was then one of the finest in the world… twice as large as any such hospital in England. People from all over the world who visited the Hospital were deeply impressed by the facilities and equipment we had then”.13 
+
+#### **Post-war Baby Boom**
+
+During the Japanese Occupation of Singapore (1942–45), KK Hospital was renamed Chuo Byoin (Central Hospital) and functioned as a general hospital serving both locals and Japanese civilians. Deliveries at the hospital dipped below 2,000 each year during that period. When the Occupation ended, the hospital resumed its pre-war role of caring for women’s health. With the consolidation of all gynaecological and obstetric services at KK Hospital, it became the only maternity hospital in Singapore.14 
+In the immediate post-war years, population growth in Singapore accelerated and one of the contributing factors was the high fertility rate.15 In 1948 alone, KK Hospital saw 10,000 births, almost twice the number before the war, earning the description “busiest baby factory in the British Empire”. The hospital continued to handle slightly fewer than 1,000 deliveries per month until 1950 when the monthly figure rose above 1,000 babies, resulting in overcrowded labour wards.16
+To address the bed shortage, the hospital made plans in 1951 for a new extension with “outpatient clinics and  
+
 
 <div style="background-color: white;">
 <br>
