@@ -20,7 +20,7 @@ permalink: /editors-picks/nature
 <p>Manmade climate change is usually seen as a modern phenomenon. In fact, rising temperatures as a result of rampant deforestation were already evident in Singapore two centuries ago, says Chia Jie Lin.</p> 
 <hr> 
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/rain" target="_blank"> Cloudy With A Slight Chance of Rain: Singapore's Meteorological Service</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/rain" target="_blank"> Cloudy with a Slight Chance of Rain: Singapore's Meteorological Service</a>
 <p>The Met Service was officially set up in 1929, but people have been recording weather data here for the last 200 years. Lim Tin Seng has the details.</p> 
 <img style="width:100%;" src="/images/Vol-16-issue-2/rain/YangDiPertuan.jpg"> 
 <hr> 
