@@ -22,5 +22,5 @@ The midwives were, of course, just as overwhelmed. “Last time the old KK in La
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Vol%2018%20Issue%201/Authors/Barbara_Quek.png" style="width: 100px; height: 100px;"/>
+<img src="/images/Vol%2018%20Issue%201/Authors/Joanna_Tan.png" style="width: 100px; height: 100px;"/>
 	<b>Joanna Tan</b> is a Senior Librarian with the National Library, Singapore, and works with the Singapore and Southeast Asia Collection. Her responsibilities include collection management and content development as well as providing reference and research services.</div>
