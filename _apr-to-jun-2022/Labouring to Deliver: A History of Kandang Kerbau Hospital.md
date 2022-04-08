@@ -198,6 +198,6 @@ KK Hospital continues to strive for excellence and innovation in women’s and c
 
 [^38]: “[Sheares: They Call Him the Father of Obstetrics and Gynaecology in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19760428-1.2.68.2)”; Tan and Tay, [*The History of Obstetrics and Gynaecology in Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11905621), 416.
 
-[^39]: Cheong, [*KK Women’s and Children’s Hospital*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13054527), 130; Tan and Tay, *The History of Obstetrics and Gynaecology in Singapore*, 568.
+[^39]: Cheong, [*KK Women’s and Children’s Hospital*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13054527), 130; Tan and Tay, [*The History of Obstetrics and Gynaecology in Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11905621), 568.
 
 [^40]: SingHealth Group, “Milestones and Achievements”; Arlina Arshad, “[Old KK Hospital Now a Historic Site](https://safe.menlosecurity.com/http:/eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20030324-1.2.26.7.8.aspx).”
