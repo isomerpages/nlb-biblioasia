@@ -173,7 +173,7 @@ Given its age, historical significance and global prominence, it is timely that 
 
 [^25]: Lee Geok Boi, [*The Syonan Years: Singapore Under Japanese Rule 1942–1945* ](https://safe.menlosecurity.com/http:/eservice.nlb.gov.sg/item_holding.aspx?bid=12661517)(Singapore: National Archives of Singapore and Epigram, 2005), 163 (From National Library, Singapore, Call no. RSING q940.535957 LEE-[WAR]); Joshua Chia Yeong Jia, “[Grow More Food Campaign](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1223_2008-12-05.html),” in *Singapore Infopedia*. National Library Board Singapore. Article published 2016.
 
-[^26]: Turnbull, [*History of Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13206047), 1819–2005, 221; “[Japanese in Malaysia Surrender at Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19450913-1.2.2),” *Straits Times*, 13 September 1945, 1. (From NewspaperSG)
+[^26]: Turnbull, [*History of Singapore, 1819–2005*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13206047), 221; “[Japanese in Malaysia Surrender at Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19450913-1.2.2),” *Straits Times*, 13 September 1945, 1. (From NewspaperSG)
 
 [^27]: “[Guerrilla Leaders Decorated by Supremo](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19460107-1.2.19),” Straits Times, 7 January 1946, 3. (From NewspaperSG); Shereen Tay, “[Communist Party of Malaya](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2018-03-28_141257.html),” in *Singapore Infopedia*. National Library Board Singapore. Article published 30 March 2018.
 
