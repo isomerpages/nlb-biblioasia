@@ -67,42 +67,42 @@ The midwives were, of course, just as overwhelmed. “Last time the old KK in La
 
 [^20]: “[Nicoll Backs Home Births Policy](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19531007-1.2.122),” *Straits Times*, 7 October 1953, 7. (From NewspaperSG)
 
-[^21]: Tan and Tay, [The History of Obstetrics and Gynaecology in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11905621), 64
+[^21]: Tan and Tay, [*The History of Obstetrics and Gynaecology in Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11905621), 64
 
-[^22]: Cheong, [KK Women’s and Children’s Hospital](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13054527), 52.
+[^22]: Cheong, [*KK Women’s and Children’s Hospital*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13054527), 52.
 
-[^23]: Tan and Tay, [The History of Obstetrics and Gynaecology in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11905621), 64.
+[^23]: Tan and Tay, [*The History of Obstetrics and Gynaecology in Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11905621), 64.
 
-[^24]: “[Home Midwifery Plan to Ease Crowding](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19580928-1.2.27),” Straits Times, 28 September 1958, 4. (From NewpaperSG)
+[^24]: “[Home Midwifery Plan to Ease Crowding](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19580928-1.2.27),” *Straits Times*, 28 September 1958, 4. (From NewpaperSG)
 
-[^25]: Tan and Tay, [The History of Obstetrics and Gynaecology in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11905621), 492; Arlina Arshad, “Old KK Hospital Now a Historic Site.” 
+[^25]: Tan and Tay, [*The History of Obstetrics and Gynaecology in Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11905621), 492; Arlina Arshad, “Old KK Hospital Now a Historic Site.” 
 
-[^26]: “Births and Fertility, Annual”; [Family Planning in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=354661) (Singapore: Govt. Printer, 1966), 3. (From National Library, Singapore, Call no. RSING 363.96095957 FAM) 
+[^26]: “Births and Fertility, Annual”; [*Family Planning in Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=354661) (Singapore: Govt. Printer, 1966), 3. (From National Library, Singapore, Call no. RSING 363.96095957 FAM) 
 
-[^27]: Kandang Kerbau Hospital (Singapore), [Kandang Kerbau Hospital 1924–1990](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5569395), 25.
+[^27]: Kandang Kerbau Hospital (Singapore), [*Kandang Kerbau Hospital 1924–1990*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5569395), 25.
 
-[^28]: “[Thousands of Babies Work of Maternity Hospital](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19410715-1.2.73),” Straits Times, 15 July 1941, 10. (From NewspaperSG)
+[^28]: “[Thousands of Babies Work of Maternity Hospital](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19410715-1.2.73),” *Straits Times*, 15 July 1941, 10. (From NewspaperSG)
 
-[^29]: Wong Kim Hoh, “[Helping Babes into the World](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20101113-1.2.123.7),” Straits Times, 13 November 2010, 8. (From NewspaperSG); Tan and Tay, [The History of Obstetrics and Gynaecology in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11905621), 472.
+[^29]: Wong Kim Hoh, “[Helping Babes into the World](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20101113-1.2.123.7),” *Straits Times*, 13 November 2010, 8. (From NewspaperSG); Tan and Tay, [*The History of Obstetrics and Gynaecology in Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11905621), 472.
 
-[^30]: J.H.H. Sheares, “Benjamin Henry Sheares, MD, MS, FRCOG: President, Republic of Singapore 1971–1981; Obstetrician and Gynaecologist 1931–1981. A Biography, 12th August 1907–12th May 1981,” Annals 34, no. 6 (2005): 25C–41C, Academy of Medicine, Singapore, http://www.annals.edu.sg/pdf/34VolNo6200506/V34N6p25C.pdf.
+[^30]: J.H.H. Sheares, “Benjamin Henry Sheares, MD, MS, FRCOG: President, Republic of Singapore 1971–1981; Obstetrician and Gynaecologist 1931–1981. A Biography, 12th August 1907–12th May 1981,” *Annals* 34, no. 6 (2005): 25C–41C, Academy of Medicine, Singapore, http://www.annals.edu.sg/pdf/34VolNo6200506/V34N6p25C.pdf.
 
-[^31]: Tan and Tay, [The History of Obstetrics and Gynaecology in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11905621), 418.
+[^31]: Tan and Tay, [*The History of Obstetrics and Gynaecology in Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11905621), 418.
 
-[^32]: Kandang Kerbau Hospital (Singapore), [Kandang Kerbau Hospital 1924–1990](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5569395), 18; Tan and Tay, [The History of Obstetrics and Gynaecology in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11905621), 418.
+[^32]: Kandang Kerbau Hospital (Singapore), [*Kandang Kerbau Hospital 1924–1990*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5569395), 18; Tan and Tay, [*The History of Obstetrics and Gynaecology in Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11905621), 418.
 
-[^33]: Tan and Tay, [The History of Obstetrics and Gynaecology in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11905621), 493.
+[^33]: Tan and Tay, [*The History of Obstetrics and Gynaecology in Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11905621), 493.
 
-[^34]: SingHealth Group, “Milestones and Achievements”; Ministry of Health (Singapore), Report of the Ministry of Health (Singapore: Ministry of Health, 1962), 163, Internet Archive, https://archive.org/details/b31415714/page/152/mode/2up.
+[^34]: SingHealth Group, “Milestones and Achievements”; Ministry of Health (Singapore), *Report of the Ministry of Health (Singapore: Ministry of Health*, 1962), 163, Internet Archive, https://archive.org/details/b31415714/page/152/mode/2up.
 
-[^35]: [Ratnam, S S (Prof.) @ Shanmugaratnam s/o Sittampalam](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/87318307-115e-11e3-83d5-0050568939ad), oral history interview by Soh Eng Khim, 19 September 1997, MP3 audio, Reel/Disc 7 of 13. (From National Archives of Singapore, Accession no. 001936); Kandang Kerbau Hospital (Singapore), [Kandang Kerbau Hospital 1924–1990](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5569395), 18.
+[^35]: [Ratnam, S S (Prof.) @ Shanmugaratnam s/o Sittampalam](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/87318307-115e-11e3-83d5-0050568939ad), oral history interview by Soh Eng Khim, 19 September 1997, MP3 audio, Reel/Disc 7 of 13. (From National Archives of Singapore, Accession no. 001936); Kandang Kerbau Hospital (Singapore), [*Kandang Kerbau Hospital 1924–1990*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5569395), 18.
 
-[^36]: “[Sheares: They Call Him the Father of Obstetrics and Gynaecology in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19760428-1.2.68.2),” New Nation, 28 April 1976, 10–11. (From NewspaperSG); Cheong, KK Women’s and Children’s Hospital, 66.
+[^36]: “[Sheares: They Call Him the Father of Obstetrics and Gynaecology in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19760428-1.2.68.2),” *New Nation*, 28 April 1976, 10–11. (From NewspaperSG); Cheong, *KK Women’s and Children’s Hospital*, 66.
 
-[^37]: Cheong, [KK Women’s and Children’s Hospital](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13054527), 38.
+[^37]: Cheong, [*KK Women’s and Children’s Hospital*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13054527), 38.
 
-[^38]: “[Sheares: They Call Him the Father of Obstetrics and Gynaecology in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19760428-1.2.68.2)”; Tan and Tay, [The History of Obstetrics and Gynaecology in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11905621), 416.
+[^38]: “[Sheares: They Call Him the Father of Obstetrics and Gynaecology in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19760428-1.2.68.2)”; Tan and Tay, [*The History of Obstetrics and Gynaecology in Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11905621), 416.
 
-[^39]: Cheong, [KK Women’s and Children’s Hospital](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13054527), 130; Tan and Tay, The History of Obstetrics and Gynaecology in Singapore, 568.
+[^39]: Cheong, [*KK Women’s and Children’s Hospital*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13054527), 130; Tan and Tay, *The History of Obstetrics and Gynaecology in Singapore*, 568.
 
 [^40]: SingHealth Group, “Milestones and Achievements”; Arlina Arshad, “[Old KK Hospital Now a Historic Site](https://safe.menlosecurity.com/http:/eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20030324-1.2.26.7.8.aspx).”
