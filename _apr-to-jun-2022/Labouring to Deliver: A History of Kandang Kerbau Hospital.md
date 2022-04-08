@@ -9,6 +9,7 @@ description: ""
 <div style="background-color: white;"> Newborn babies at the nursery of Kandang Kerbau Hospital, 1986. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 Singapore’s total fertility rate is a concern among policymakers today. In 2020, Singapore’s total fertility rate was just 1.1 births per woman, well below the replacement rate of 2.1. 
+
 The situation was very different five decades ago though. In the 1960s, Singapore’s total fertility rate was a staggering 5.76.[^1] The old Kandang Kerbau (KK) Hospital was so busy that it was nicknamed the “Birthquake” Hospital. Between the 1950s and early 1970s, more than 1.2 million babies were born there.[^2] 
 
 In fact, in 1966 alone, 39,835 babies were born in the hospital. This earned the hospital a mention in the *Guinness Book of Records* for having the largest number of births in a single maternity facility – a record it held for a number of years. The publication described the hospital as the “largest maternity hospital in the world… with 316 beds and an annual ‘birthquake’ of over 26,000 babies”.[^3]
@@ -21,7 +22,7 @@ The midwives were, of course, just as overwhelmed. “Last time the old KK in La
 
 While largely seen as a maternity hospital today, KK had its origins as Singapore’s 5th General Hospital. It began operations in 1860 with the transfer of patients from other hospitals. The hospital was divided into a section catering to the Europeans known as Seamen’s Hospital and another for locals known as Police Hospital.[^7] It offered gynaecology and childbirth services from as early as the 1860s.[^8]
 
-The hospital was located at the site bounded by Serangoon, Selegie, Bukit Timah and Rochor roads. By at least the turn of the 20th century, it had become known variously as General Hospital Kandang Kerbau or Kandang Kerbau Hospital. The term kandang kerbau means “buffalo pen” in Malay, and it is believed the hospital was so named as bullock carts belonging to the colonial transport department were parked nearby. The Chinese referred to the hospital as Tek Kah Hospital. Tek kah, or zhu jiao in Mandarin, literally means “under the bamboo trees” in Hokkien as the hospital lay beneath a hillock dotted with bamboo plants.[^9] 
+The hospital was located at the site bounded by Serangoon, Selegie, Bukit Timah and Rochor roads. By at least the turn of the 20th century, it had become known variously as General Hospital Kandang Kerbau or Kandang Kerbau Hospital. The term *kandang kerbau* means “buffalo pen” in Malay, and it is believed the hospital was so named as bullock carts belonging to the colonial transport department were parked nearby. The Chinese referred to the hospital as Tek Kah Hospital. *Tek kah*, or *zhu jiao* in Mandarin, literally means “under the bamboo trees” in Hokkien as the hospital lay beneath a hillock dotted with bamboo plants.[^9] 
 
 #### **Specialisation in Maternal Health**
 
@@ -41,7 +42,7 @@ In the immediate post-war years, population growth in Singapore accelerated and 
 
 To address the bed shortage, the hospital made plans in 1951 for a new extension with “outpatient clinics and  ancillary departments”, renovations to the existing wings and the addition of buildings to eventually increase bed capacity to 590, up from 240.[^17]
 
-Construction of the new extension began in 1953, but births continued to climb sharply with a new baby born every 10 minutes. As described in a 1953 Straits Times article: “[T]he Kandang Kerbau… last year dealt with over 17,000 maternity cases, and a total of over 20,000 admissions in its 240 beds. For what the record is worth, Singapore can claim to have the busiest and most overcrowded maternity hospital in the world today. London’s famous Queen Charlotte’s maternity hospital deals with 3,000 births a year. At Kandang Kerbau five times as many babies are born, nearly a third of the total born in the Colony.”[^18] 
+Construction of the new extension began in 1953, but births continued to climb sharply with a new baby born every 10 minutes. As described in a 1953 *Straits Times* article: “[T]he Kandang Kerbau… last year dealt with over 17,000 maternity cases, and a total of over 20,000 admissions in its 240 beds. For what the record is worth, Singapore can claim to have the busiest and most overcrowded maternity hospital in the world today. London’s famous Queen Charlotte’s maternity hospital deals with 3,000 births a year. At Kandang Kerbau five times as many babies are born, nearly a third of the total born in the Colony.”[^18] 
 
 A number of measures were introduced in the 1950s to ease the hospital’s burden. In 1950, the length of hospital stay for each patient was reduced from 10–12 days to three days. Midwives from the hospital’s Domiciliary Aftercare Service, introduced in 1954, visited mothers who had been discharged 24 hours after confinement, and their babies, at home. They would report any abnormality to the hospital for follow-up action.[^19] 
 
