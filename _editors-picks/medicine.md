@@ -25,6 +25,6 @@ permalink: /editors-picks/medicine
 <p>In the 1820s, some “nurses” in Singapore were actually chained convicts. Pattarin Kusolpalin chronicles the history of nursing from 1819 until Independence.</p> 
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-9/issue-4/jan-march-2014/sg-man-in-china" target="_blank">Singapore Men of Science and Medicine in China (1911–1949)</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-9/issue-4/jan-march-2014/overseas-chinese" target="_blank">Singapore Men of Science and Medicine in China (1911–1949)</a>
 <p>Wayne Soon sheds light on the enduring and underrated legacy of Overseas Chinese doctors such as Lim Boon Keng and Robert Lim on China’s medical institutions.</p> 
 <hr>
