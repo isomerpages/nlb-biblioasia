@@ -142,7 +142,7 @@ KK Hospital continues to strive for excellence and innovation in women’s and c
 
 [^10]: Saw Swee Hock, “Population Trends in Singapore, 1819–1967,” *Journal of Southeast Asian History* 10, no. 1 (1969): 36–49. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website); Tan and Tay, [*The History of Obstetrics and Gynaecology in Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11905621), 6.
 
-[^11]: Colin Cheong, [*KK Women’s and Children’s Hospital: 150 Years of Caring 1858–2008*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13054527) (Singapore: KK Women’s and Children’s Hospital, 2008), 25. (From National Library, Singapore, Call no. RSING 362.19820095957 KK); Medical Department (Singapore), *Annual Report of the Medical Department (Singapore: Medical Department*, 1947), 37, Internet Archive, https://archive.org/details/b31414989/page/36/mode/2up. 
+[^11]: Colin Cheong, [*KK Women’s and Children’s Hospital: 150 Years of Caring 1858–2008*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13054527) (Singapore: KK Women’s and Children’s Hospital, 2008), 25. (From National Library, Singapore, Call no. RSING 362.19820095957 KK); Medical Department (Singapore), *Annual Report of the Medical Department* (Singapore: Medical Department, 1947), 37, Internet Archive, https://archive.org/details/b31414989/page/36/mode/2up. 
 
 [^12]: Benjamin Henry Sheares, “[Speech by President Sheares at the Kandang Kerbau Hospital Recreation Club Dinner and Ball on Saturday: 23rd November 1974 at the Hyatt Hotel at 8 p.m](https://www.nas.gov.sg/archivesonline/speeches/record-details/7d3c1cab-115d-11e3-83d5-0050568939ad),” 23 November 1974, transcript (From National Archives of Singapore, Document no. PressR19741123)
 
