@@ -170,7 +170,7 @@ KK Hospital continues to strive for excellence and innovation in women’s and c
 
 [^24]: “[Home Midwifery Plan to Ease Crowding](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19580928-1.2.27),” *Straits Times*, 28 September 1958, 4. (From NewpaperSG)
 
-[^25]: Tan and Tay, [*The History of Obstetrics and Gynaecology in Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11905621), 492; Arlina Arshad, “Old KK Hospital Now a Historic Site.” 
+[^25]: Tan and Tay, [*The History of Obstetrics and Gynaecology in Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11905621), 492; Arlina Arshad, “[Old KK Hospital Now a Historic Site](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20030324-1.2.26.7.8).” 
 
 [^26]: “Births and Fertility, Annual”; [*Family Planning in Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=354661) (Singapore: Govt. Printer, 1966), 3. (From National Library, Singapore, Call no. RSING 363.96095957 FAM) 
 
