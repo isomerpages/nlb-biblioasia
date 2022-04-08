@@ -139,7 +139,7 @@ Given its age, historical significance and global prominence, it is timely that 
 
 [^8]: For a depiction from the shoreline, see the painting titled *Singapore, From the Esplanade* by Captain Charles Ramsay Drinkwater Bethune published in James Augustus St John, *Views in the Eastern Archipelago: Borneo, Sarawak, Labuan, &c. &c. &c. *(London: McLean, 1847), 65. (Not available in NLB holdings)
 
-[*9]: Buckley, [*Anecdotal History of Old Times in Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082239), 30. 
+[^9]: Buckley, [*Anecdotal History of Old Times in Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082239), 30. 
 
 [^10]: “[Untitled](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18481220-1.2.7),” *Straits Times*, 20 December 1848, 2. (From NewspaperSG)
 
