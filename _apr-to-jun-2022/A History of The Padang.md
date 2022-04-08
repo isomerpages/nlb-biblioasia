@@ -153,7 +153,7 @@ Given its age, historical significance and global prominence, it is timely that 
 
 [^15]: Vernon Cornelius and Joanna H.S. Tan, “[Former Supreme Court Building](https://eresources.nlb.gov.sg/infopedia/articles/SIP_774_2005-01-10.html),” in *Singapore Infopedia*. National Library Board Singapore. Article published 2011.
 
-[^16]: “[Municipal Commission](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk19000517-1.2.95),” *Singapore Free Press*, 17 May 1900, 10; “[A Desirable Acquisition](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk19000525-1.2.6),” Singapore Free Press, 25 May 1900, 317. (From NewspaperSG)
+[^16]: “[Municipal Commission](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk19000517-1.2.95),” *Singapore Free Press*, 17 May 1900, 10; “[A Desirable Acquisition](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk19000525-1.2.6),” *Singapore Free Press*, 25 May 1900, 317. (From NewspaperSG)
 
 [^17]: “[Europe Hotel’s Future](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19320721-1.2.32),” *Singapore Free Press*, 21 July 1932, 8; “[Facilitation of Justice](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/morningtribune19370402-1.2.102),” *Morning Tribune*, 2 April 1937, 24. (From NewspaperSG)
 
@@ -165,7 +165,7 @@ Given its age, historical significance and global prominence, it is timely that 
 
 [^21]: Constance Mary Turnbull, [*A History of Singapore, 1819–2005*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13206047) (Singapore: NUS Press, 2009), 199. (From National Library, Singapore, Call no. RSING 959.57 TUR)
 
-[^22]: Turnbull, [*History of Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13206047), 1819–2005, 205; “[Tentyo-Setu Celebrations](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/syonantimes19420430-1.2.31),” *Syonan Shimbun*, 30 April 1942, 5. (From NewspaperSG). [Note: Odate Shigeo was Mayor from March 1942 to July 1943. He was replaced by Naito Kanichi who held the office until the end of the Japanese Occupation.]
+[^22]: Turnbull, [*History of Singapore, 1819–2005*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13206047), 205; “[Tentyo-Setu Celebrations](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/syonantimes19420430-1.2.31),” *Syonan Shimbun*, 30 April 1942, 5. (From NewspaperSG). [Note: Odate Shigeo was Mayor from March 1942 to July 1943. He was replaced by Naito Kanichi who held the office until the end of the Japanese Occupation.]
 
 [^23]: Turnbull, [*History of Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13206047), 1819–2005, 217–18; “[With ‘Freedom or Death’ for Motto, Men Ready to Die for Indian Independence](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/syonantimes19430709-1.2.2.3),” *Syonan Shimbun*, 9 July 1943, 1. (From NewspaperSG)
 
