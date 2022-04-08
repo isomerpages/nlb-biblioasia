@@ -167,7 +167,7 @@ Given its age, historical significance and global prominence, it is timely that 
 
 [^22]: Turnbull, [*History of Singapore, 1819–2005*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13206047), 205; “[Tentyo-Setu Celebrations](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/syonantimes19420430-1.2.31),” *Syonan Shimbun*, 30 April 1942, 5. (From NewspaperSG). [Note: Odate Shigeo was Mayor from March 1942 to July 1943. He was replaced by Naito Kanichi who held the office until the end of the Japanese Occupation.]
 
-[^23]: Turnbull, [*History of Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13206047), 1819–2005, 217–18; “[With ‘Freedom or Death’ for Motto, Men Ready to Die for Indian Independence](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/syonantimes19430709-1.2.2.3),” *Syonan Shimbun*, 9 July 1943, 1. (From NewspaperSG)
+[^23]: Turnbull, [*History of Singapore, 1819–2005*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13206047), 217–18; “[With ‘Freedom or Death’ for Motto, Men Ready to Die for Indian Independence](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/syonantimes19430709-1.2.2.3),” *Syonan Shimbun*, 9 July 1943, 1. (From NewspaperSG)
 
 [^24]: Turnbull, [*History of Singapore, 1819–2005*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13206047), 196–97.
 
