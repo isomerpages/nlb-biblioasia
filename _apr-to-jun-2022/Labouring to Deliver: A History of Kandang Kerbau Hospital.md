@@ -91,7 +91,10 @@ One of the first few doctors who received his training entirely in Singapore was
 
 #### **Medical Breakthroughs**
 
-Doctors at KK Hospital also contributed to medical research. In the 1950s, as Professor of Obstetrics and Gynaecology of the University of Malaya’s Department of Obstetrics and Gynaecology at KK Hospital, Sheares invented a procedure known internationally as “Sheares Vaginoplasty” or “Sheares Operation” that created an artificial vagina for girls born without one. 
+Doctors at KK Hospital also contributed to medical research. In the 1950s, as Professor of Obstetrics and Gynaecology of the University of Malaya’s Department of Obstetrics and Gynaecology at KK Hospital, Sheares invented a procedure known internationally as “Sheares Vaginoplasty” or “Sheares Operation” that created an artificial vagina for girls born without one.
+
+![](/images/Vol%2018%20Issue%201/KKH%20Hospital/19980006966%20IMG0109.png)
+<div style="background-color: white;">S.S. Ratnam (left) and Benjamin Henry Sheares (right) at a banquet hosted by the Obstetrical and Gynaecological Society of Singapore (OGSS) at the Hilton Hotel, 1971. Ratnam was then the president of the OGSS, while Sheares was the president of Singapore. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 “This new procedure was the result of my work in the early post-war years when quite a few women came to me with undeveloped vaginas and I carried out the operation as it was practised then but felt it was not right. I thought it out and developed my own procedure,” said Sheares. His procedure was described as “safer, more efficient and having better results than the traditional method”. A woman who underwent this procedure successfully delivered a seven-pound (3.2 kg) baby naturally in 1954 and subsequently a second child as well.[^36]
 
