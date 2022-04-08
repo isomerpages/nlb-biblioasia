@@ -9,7 +9,7 @@ description: ""
 <div style="background-color: white;"> Newborn babies at the nursery of Kandang Kerbau Hospital, 1986. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 Singapore’s total fertility rate is a concern among policymakers today. In 2020, Singapore’s total fertility rate was just 1.1 births per woman, well below the replacement rate of 2.1. 
-The situation was very different five decades ago though. In the 1960s, Singapore’s total fertility rate was a staggering 5.76.1 The old Kandang Kerbau (KK) Hospital was so busy that it was nicknamed the “Birthquake” Hospital. Between the 1950s and early 1970s, more than 1.2 million babies were born there.[^2] 
+The situation was very different five decades ago though. In the 1960s, Singapore’s total fertility rate was a staggering 5.76.[^1] The old Kandang Kerbau (KK) Hospital was so busy that it was nicknamed the “Birthquake” Hospital. Between the 1950s and early 1970s, more than 1.2 million babies were born there.[^2] 
 
 In fact, in 1966 alone, 39,835 babies were born in the hospital. This earned the hospital a mention in the Guinness Book of Records for having the largest number of births in a single maternity facility – a record it held for a number of years. The publication described the hospital as the “largest maternity hospital in the world… with 316 beds and an annual ‘birthquake’ of over 26,000 babies”.3
 
@@ -24,3 +24,7 @@ The midwives were, of course, just as overwhelmed. “Last time the old KK in La
 <br>
 <img src="/images/Vol%2018%20Issue%201/Authors/Joanna_Tan.png" style="width: 100px; height: 100px;"/>
 	<b>Joanna Tan</b> is a Senior Librarian with the National Library, Singapore, and works with the Singapore and Southeast Asia Collection. Her responsibilities include collection management and content development as well as providing reference and research services.</div>
+	
+#### **NOTES**
+
+[^1]: “Births and Fertility, Annual,” data.gov.sg, last updated 18 July 2020, https://data.gov.sg/dataset/births-and-fertility-annual; Chew Hui Min, “Singapore’s Total Fertility Rate Falls to Historic Low in 2020,” Channel NewsAsia, 26 February 2021, https://www.channelnewsasia.com/singapore/singapore-total-fertility-rate-tfr-falls-historic-low-2020-baby-376711; “Population Trends Overview,” National Population and Talent Division, last updated 14 January 2022, https://www.population.gov.sg/our-population/population-trends/overview.
