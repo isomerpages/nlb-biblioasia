@@ -133,7 +133,7 @@ Given its age, historical significance and global prominence, it is timely that 
 
 [^5]: Charles Burton Buckley, [*An Anecdotal History of Old Times in Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082239) (Singapore: Oxford University Press, 1984), 286. (From National Library, Singapore, Call no. RSING 959.57 BUC)
 
-[^6]: “[Our Esplanade](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19000823-1.2.24),” *Singapore Free Press and Mercantile Advertiser*, 23 August 1900, 3; “[Editorial](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19030812-1.2.9),” Straits Times, 12 August 1903, 4. (From NewspaperSG)
+[^6]: “[Our Esplanade](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19000823-1.2.24),” *Singapore Free Press and Mercantile Advertiser*, 23 August 1900, 3; “[Editorial](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19030812-1.2.9),” *Straits Times*, 12 August 1903, 4. (From NewspaperSG)
 
 [^7]: This famous etching was published in Sophia Raffles, [*Memoir of the Life and Public Services of Sir Thomas Stamford Raffles, F.R.S. &c. Particularly in the Government of Java, 1811–1816, and of Bencoolen and Its Dependencies 1817–1824; with Details of the Commerce and Resources of the Eastern Archipelago, and Selections from His Correspondence*](https://eresources.nlb.gov.sg/printheritage/detail/6dd159de-811f-4012-9b43-01676a9c49a7.aspx) (London: John Murray, 1830), 525. (From BookSG)
 
