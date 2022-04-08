@@ -188,7 +188,7 @@ KK Hospital continues to strive for excellence and innovation in women’s and c
 
 [^33]: Tan and Tay, [*The History of Obstetrics and Gynaecology in Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11905621), 493.
 
-[^34]: SingHealth Group, “Milestones and Achievements”; Ministry of Health (Singapore), *Report of the Ministry of Health (Singapore: Ministry of Health*, 1962), 163, Internet Archive, https://archive.org/details/b31415714/page/152/mode/2up.
+[^34]: SingHealth Group, “Milestones and Achievements”; Ministry of Health (Singapore), *Report of the Ministry of Health* (Singapore: Ministry of Health, 1962), 163, Internet Archive, https://archive.org/details/b31415714/page/152/mode/2up.
 
 [^35]: [Ratnam, S S (Prof.) @ Shanmugaratnam s/o Sittampalam](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/87318307-115e-11e3-83d5-0050568939ad), oral history interview by Soh Eng Khim, 19 September 1997, MP3 audio, Reel/Disc 7 of 13. (From National Archives of Singapore, Accession no. 001936); Kandang Kerbau Hospital (Singapore), [*Kandang Kerbau Hospital 1924–1990*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5569395), 18.
 
