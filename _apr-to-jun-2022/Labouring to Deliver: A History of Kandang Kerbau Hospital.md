@@ -46,6 +46,9 @@ During the Japanese Occupation of Singapore (1942–45), KK Hospital was renamed
 
 In the immediate post-war years, population growth in Singapore accelerated and one of the contributing factors was the high fertility rate.[^15] In 1948 alone, KK Hospital saw 10,000 births, almost twice the number before the war, earning the description “busiest baby factory in the British Empire”. The hospital continued to handle slightly fewer than 1,000 deliveries per month until 1950 when the monthly figure rose above 1,000 babies, resulting in overcrowded labour wards.[^16]
 
+![](/images/Vol%2018%20Issue%201/KKH%20Hospital/19980000808%20IMG0015.png)
+<div style="background-color: white;">  Kandang Kerbau Hospital, 1950. By then, the hospital was unable to accommodate the many babies delivered there so an extension plan was drawn up in 1951 to provide more beds, outpatient clinics and space for ancillary departments. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
 To address the bed shortage, the hospital made plans in 1951 for a new extension with “outpatient clinics and  ancillary departments”, renovations to the existing wings and the addition of buildings to eventually increase bed capacity to 590, up from 240.[^17]
 
 Construction of the new extension began in 1953, but births continued to climb sharply with a new baby born every 10 minutes. As described in a 1953 *Straits Times* article: “[T]he Kandang Kerbau… last year dealt with over 17,000 maternity cases, and a total of over 20,000 admissions in its 240 beds. For what the record is worth, Singapore can claim to have the busiest and most overcrowded maternity hospital in the world today. London’s famous Queen Charlotte’s maternity hospital deals with 3,000 births a year. At Kandang Kerbau five times as many babies are born, nearly a third of the total born in the Colony.”[^18] 
