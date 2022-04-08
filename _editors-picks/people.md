@@ -15,7 +15,7 @@ permalink: /editors-picks/people
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/raffles" target="_blank"> Stamford Raffles and the Two French Naturalists</a>
 <p>Danièle Weiler uncovers the work of two young French naturalists – Alfred Duvaucel and Pierre Médard Diard – who worked with Stamford Raffles between 1818 and 1820.</p> 
 <hr> 
-
+ 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/doggett" target="_blank"> Marjorie Doggett: Photographer of Singapore </a>
 <p>Edward Stokes reflects on Characters of Light by Marjorie Doggett, first published in 1957, and on his own recent book, Marjorie Doggett’s Singapore, which portrays her life and work here.</p> 
 <img style="width:600px;" src="/images/Vol-16-issue-1/marjorie/Majorie-title.png"> 
