@@ -16,4 +16,6 @@ In fact, in 1966 alone, 39,835 babies were born in the hospital. This earned the
 
 Dr Tow Siang Hwa, who was the University Head of Obstetrics and Gynaecology in the 1960s, recalled that the hospital had to “make use of all the space available” as there were insufficient beds. He said: “Some women even had to give birth under a bed where another woman was giving birth. To cope with the serious shortage of medical facilities, women who gave birth were sent home hours later if they stopped bleeding and showed no signs of complications. Nurses then visited the mother’s home until the baby’s umbilical cord dropped.”4
 
-The midwives were, of course, just as overwhelmed. “Last time the old KK in Labour Ward, especially night shift, is very tough,” recalled Mary Hee Sock Yin who started working at KK Hospital in 1961. “And then you keep on delivering… the
+The midwives were, of course, just as overwhelmed. “Last time the old KK in Labour Ward, especially night shift, is very tough,” recalled Mary Hee Sock Yin who started working at KK Hospital in 1961. “And then you keep on delivering… the patients, delivered until onto the floor. You have to put a green mat on the floor, to deliver the baby.”5 Fellow midwife Pong Siok Ing said that some deliveries were done with “patients lying on rubber macintoshes or on transport trolleys”. She said that the “babies kept coming so fast that there was no time for us to sterilise the rubber gloves in between. We had to use our bare hands.”6
+
+#### **Fifth General Hospital**
