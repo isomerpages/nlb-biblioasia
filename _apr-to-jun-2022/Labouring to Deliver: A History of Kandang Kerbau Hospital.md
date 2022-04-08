@@ -110,6 +110,9 @@ Ratnam was very proud of Singapore’s contributions to the field of obstetrics 
 
 In 1997, KK Hospital moved into its new building at 100 Bukit Timah Road and was renamed KK Women’s and Children’s Hospital, offering more facilities and better services to meet changing health demands. Paediatric medical services were also introduced.
 
+![](/images/Vol%2018%20Issue%201/KKH%20Hospital/19980001364%20IMG0020.png)
+<div style="background-color: white;">Transfer of premature and neonatal babies from Kandang Kerbau Hospital to the new KK Women’s and Children’s Hospital on the last day of operations at the old hospital, 1997. <i>Kandang Kerbau Women’s and Children’s Hospital Collection, courtesy of National Archives of Singapore.</i></div>
+
 KK Hospital continues to strive for excellence and innovation in women’s and children’s health services. The old Kandang Kerbau Hospital, where millions of children were born, has been designated a historic site by the National Heritage Board.[^40]
 
 <div style="background-color: white;">
