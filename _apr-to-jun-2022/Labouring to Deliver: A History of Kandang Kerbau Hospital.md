@@ -152,7 +152,7 @@ KK Hospital continues to strive for excellence and innovation in women’s and c
 
 [^15]: Saw, “Population Trends in Singapore, 1819–1967,” 40.
 
-[^16]: Cheong, *KK Women’s and Children’s Hospital*, 33, 46.
+[^16]: Cheong, [*KK Women’s and Children’s Hospital*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13054527), 33, 46.
 
 [^17]: Cheong, [*KK Women’s and Children’s Hospital*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13054527), 50; Medical Department (Singapore), *Annual Report of the Medical Department* (Singapore: Medical Department, 1951),164, Internet Archive, https://archive.org/details/b31415027/page/166/mode/2up.
 
