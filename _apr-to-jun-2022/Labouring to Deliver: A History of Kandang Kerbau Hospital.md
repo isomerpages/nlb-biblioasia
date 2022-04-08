@@ -18,3 +18,9 @@ Dr Tow Siang Hwa, who was the University Head of Obstetrics and Gynaecology in t
 The midwives were, of course, just as overwhelmed. “Last time the old KK in Labour Ward, especially night shift, is very tough,” recalled Mary Hee Sock Yin who started working at KK Hospital in 1961. “And then you keep on delivering… the patients, delivered until onto the floor. You have to put a green mat on the floor, to deliver the baby.”5 Fellow midwife Pong Siok Ing said that some deliveries were done with “patients lying on rubber macintoshes or on transport trolleys”. She said that the “babies kept coming so fast that there was no time for us to sterilise the rubber gloves in between. We had to use our bare hands.”6
 
 #### **Fifth General Hospital**
+
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol%2018%20Issue%201/Authors/Barbara_Quek.png" style="width: 100px; height: 100px;"/>
+	<b>Joanna Tan</b> is a Senior Librarian with the National Library, Singapore, and works with the Singapore and Southeast Asia Collection. Her responsibilities include collection management and content development as well as providing reference and research services.</div>
