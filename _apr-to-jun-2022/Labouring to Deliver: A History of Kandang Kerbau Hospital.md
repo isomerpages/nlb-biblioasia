@@ -31,6 +31,9 @@ The hospital was located at the site bounded by Serangoon, Selegie, Bukit Timah 
 
 Migrants to Singapore in the 19th century were largely male. However, as more female migrants began arriving in Singapore in the first few decades of the 20th century, birth rates rapidly increased and naturally so did demand for maternity-related medical services.[^10] 
 
+![](/images/Vol%2018%20Issue%201/KKH%20Hospital/19980000808%20IMG0013.png)
+<div style="background-color: white;">  A maternity ward in the Kandang Kerbau Hospital, 1950. The hospital was handling between 2,000 and 3,000 deliveries per month during the post-war baby boom years so as many beds as possible were squeezed into the open ward. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
 The Free Maternity Hospital on Victoria Street became overwhelmed and patients had to be turned away. With more patients than beds, KK Hospital was renovated, expanded and converted into the Free Maternity Hospital comprising three one-storey buildings. When KK Hospital officially opened as a maternity hospital on 1 October 1924, the Free Maternity Hospital on Victoria Street moved to KK Hospital.[^11]
 
 Later, when this new maternity hospital proved unable to meet demand, one of the buildings was torn down and a three-storey block with 120 beds was erected in 1934. However, the number of births continued increasing so rapidly that another new block was built, increasing the number of beds to 180 when it opened in July 1940. There were 6,184 births that year – all pro bono. Paying patients and gynaecological cases were treated at the General Hospital on Outram Road.[^12]
