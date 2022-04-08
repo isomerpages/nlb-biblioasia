@@ -5,9 +5,8 @@ description: ""
 ---
 #### The old Kandang Kerbau Hospital was once known as the busiest maternity hospital in the world. **Joanna Tan** delivers the story behind a hallowed Singapore institution.
 
-![](/images/Vol%2018%20Issue%201/Tan%20Cheng%20Kee/cover.png)
-<div style="background-color: white;"> The Alhambra (left) and Marlborough (right) theatres on Beach Road, 1947. Both theatres were demolished in the 1970s to make way for the Shaw Towers complex. <i>Tan Kok Kheng Collection, courtesy of National Archives of Singapore.
-</i></div>
+![](/images/Vol%2018%20Issue%201/KKH%20Hospital/19980001245%20IMG0083.png)
+<div style="background-color: white;"> Newborn babies at the nursery of Kandang Kerbau Hospital, 1986. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 Singapore’s total fertility rate is a concern among policymakers today. In 2020, Singapore’s total fertility rate was just 1.1 births per woman, well below the replacement rate of 2.1. 
 The situation was very different five decades ago though. In the 1960s, Singapore’s total fertility rate was a staggering 5.76.1 The old Kandang Kerbau (KK) Hospital was so busy that it was nicknamed the “Birthquake” Hospital. Between the 1950s and early 1970s, more than 1.2 million babies were born there.[^2] 
