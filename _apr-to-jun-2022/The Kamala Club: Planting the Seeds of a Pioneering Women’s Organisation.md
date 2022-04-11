@@ -3,7 +3,6 @@ title: "The Kamala Club: Planting the Seeds of a Pioneering Women’s Organisati
 permalink: /apr-to-jun-2022/kamala-club
 description: ""
 ---
-
 #### **Vandana Aggarwal**  traces the origins of a venerable association for Indian women and the role it played in their lives.
 
 ![](/images/The%20Kamala%20Club/02-Members-with-Mrs-Indira-Gandhi-at-the-Club-premisis-in-Balestier.png)
@@ -87,5 +86,15 @@ The Kamala Club was officially declared open on 21 May 1951 and since then, the 
 
 #### **NOTES**
 
-[^1]: (https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19310603-1.2.110,) Singapore Free Press and Mercantile Advertiser, 3 June 1931, 12.
-(From NewspaperSG)
+[^1]:https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19310603-1.2.110,) Singapore Free Press andMercantile Advertiser, 3 June 1931, 12. (From NewspaperSG)
+
+[^2]:At the time, Indian women were referred to by their husband’s name. MrsEdward Vethanayagam Davies moved to Singapore after her marriage in 1925. She was an educator, social worker and advocate of women’s rights. Apart from the Lotus Club, she was also a founding member of the Inner Wheel Club of Singapore and was closely involved in the establishment of the Singapore Council of Women where she served in its executive council.   Mrs Davies was posthumously inducted into the Singapore Women's Hall of Fame in 2014. 
+
+[^3]: Not to be confused with Mrs Ellice Handy, MrsJohn Truman Navaratnam Handy was a socially active Ceylonese lady of Tamil descent.
+
+[^4]:https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19301115-1.2.81 ,”Malaya Tribune, 15 November 1930, 14. (From NewspaperSG)
+
+[^5]:“https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19310724-1.2.87,” Malaya Tribune, 24 July 1931, 13. (From NewspaperSG)
+
+[^6]: https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19310724-1.2.87
+
