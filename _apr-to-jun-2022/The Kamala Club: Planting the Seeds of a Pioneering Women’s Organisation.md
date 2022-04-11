@@ -5,7 +5,7 @@ description: ""
 ---
 #### **Vandana Aggarwal**  traces the origins of a venerable association for Indian women and the role it played in their lives.
 
-![](/images/Vol%2018%20Issue%201/The%20Padang/padang12.png)
+![](/images/The%20Kamala%20Club/02-Members-with-Mrs-Indira-Gandhi-at-the-Club-premisis-in-Balestier.png)
 <div style="background-color: white;"> Indira Gandhi, daughter of then Prime Minister of India Jawaharlal Nehru, addressing members of the Lotus Club and the Ladies’ Union in June 1950. Source: <i>The Straits Times © SPH Media Limited. Reprinted with permission.</i></div>
 
 For over six decades, one organisation has been playing an important role in bringing women from the Indian subcontinent together in Singapore: the pioneering Kamala Club. Through social gatherings, festive celebrations and enrichment classes, this club gave South Asian women the chance to meet, socialise and learn in a secular setting. While festive events and enrichment classes have slowed down because of the Covid-19 pandemic, the Kamala Club (<i>kamala means</i> “lotus” in Hindi) continues to serve its members through an online community with over 1,200 followers, highlighting cultural events, organising guided tours to places like the Indian Heritage Centre and even online yoga sessions for women.
@@ -34,6 +34,9 @@ Naturally, the setting up of two similar clubs raised some eyebrows. In a letter
 In the early years, the rivalry between the two clubs was keen. The Lotus Club celebrated its first anniversary in February 1932 by inviting Lady Clementi, wife of then Governor and Commander in Chief of the Straits Settlements Cecil Clementi to a reception and designated her “godmother” of the club.[^16] Not to be outdone, the Ladies’ Union also invited Lady Clementi to its first anniversary garden party in 1932. She was subsequently made the club’s patroness.[^17]
 
 In a bid to play peacemaker, Lady Clementi proposed at the end of 1933 that the “Lotus Club and the Ladies’ Union be amalgamated, but at the meeting between the presidents and secretaries of the two institutions, the representatives of the Lotus Club said the proposal would not be approved by their club”.[^18]
+
+![](/images/The%20Kamala%20Club/Women%20in%20front%20of%20club%20house.png)
+<div style="background-color: white;"> Members of the Kamala Club at the old clubhouse in Balestier, 1950s.<i>Image reproduced from Vandana Aggarwal, Voice of Indian Women: The Kamala Club Singapore (Singapore: The Kamala Club, 2018), 53. (Available via PublicationSG)</i></div>
 
 The two clubs continued to consolidate their respective positions in society. While the Lotus Club used the facilities at the YWCA for its activities, the Ladies’ Union managed to secure “a piece of land on the Balestier plain, which ha[d] been levelled and enclosed by zinc sheets” in 1932. As the land was big enough to construct a clubhouse with tennis and badminton courts, the Ladies’ Union initiated a building fund for a new clubhouse.[^19] So as not to lose out, the Lotus Club also hoped to have “its own home” and started a building fund in 1934.[^20]
 
