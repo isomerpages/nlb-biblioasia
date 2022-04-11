@@ -86,24 +86,34 @@ The Kamala Club was officially declared open on 21 May 1951 and since then, the 
 
 #### **NOTES**
 
-[^1]:https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19310603-1.2.110,) Singapore Free Press andMercantile Advertiser, 3 June 1931, 12. (From NewspaperSG)
+[^1]:https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19310603-1.2.110,) <i>Singapore Free Press and Mercantile Advertiser</i>, 3 June 1931, 12. (From NewspaperSG)
 
 [^2]:At the time, Indian women were referred to by their husband’s name. MrsEdward Vethanayagam Davies moved to Singapore after her marriage in 1925. She was an educator, social worker and advocate of women’s rights. Apart from the Lotus Club, she was also a founding member of the Inner Wheel Club of Singapore and was closely involved in the establishment of the Singapore Council of Women where she served in its executive council.   Mrs Davies was posthumously inducted into the Singapore Women's Hall of Fame in 2014. 
 
 [^3]: Not to be confused with Mrs Ellice Handy, MrsJohn Truman Navaratnam Handy was a socially active Ceylonese lady of Tamil descent.
 
-[^4]:https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19301115-1.2.81 ,”Malaya Tribune, 15 November 1930, 14. (From NewspaperSG)
+[^4]:https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19301115-1.2.81 ,”<i>Malaya Tribune</i>, 15 November 1930, 14. (From NewspaperSG)
 
-[^5]:“https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19310724-1.2.87,” Malaya Tribune, 24 July 1931, 13. (From NewspaperSG)
+[^5]:“https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19310724-1.2.87,” <i>Malaya Tribune</i>, 24 July 1931, 13. (From NewspaperSG)
 
 [^6]:("https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19310724-1.2.87")
 
-[^7]:"http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19310730-1.2.69,” Malaya Tribune, 30 July 1931, 9. (FromNewspaperSG)[Mirza Mohammed Ali Namazie was a Persian businessman who commissioned and financed the Capitol Theatre.RajabaliJumabhoy was a prominent businessman and one of the founders of the Indian Association; he was also a member of the Legislative Assembly.] 
+[^7]:"http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19310730-1.2.69,” <i>Malaya Tribune</i>, 30 July 1931, 9. (FromNewspaperSG)[Mirza Mohammed Ali Namazie was a Persian businessman who commissioned and financed the Capitol Theatre.RajabaliJumabhoy was a prominent businessman and one of the founders of the Indian Association; he was also a member of the Legislative Assembly.] 
 
 [^8]:"http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19320306-1.2.58,” Straits Times, 6 March 1932, 10. (From NewspaperSG) 
 
-[^9]:"http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19320203-1.2.25,” Malaya Tribune, 3 February 1932, 7. (From NewspaperSG)
+[^9]:"http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19320203-1.2.25,” <i>Malaya Tribune</i>, 3 February 1932, 7. (From NewspaperSG)
 
 [^10]:MrsKizhakkeMukkapuzha Raman Menon, originally from Kerala, played an active part in club activities even after the clubs had merged and became the Kamala Club. Her husband K.M.R. Menon was a mathematics teacher at Raffles Institution.
 
-[^11]:
+[^11]: Mrs K.M.R. Menon, “https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19310418-1.2.9” <i>Malaya Tribune</i>, 18 April 1931, 3. (From NewspaperSG)
+
+[^12]: MrsBridget Catherine Beatrice ChelvanathanHandy was a Sri Lankan and moved to Malaya at a young age. She had travelled extensively and was an advocate of women’s rights. Her husband, Dr J.M. Handy, was one of the first medical men to come from Jaffna, Sri Lanka, at the invitation of the British government in Singapore. He obtained his medical degree from Britain. 
+
+[^13]:“https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19310603-1.2.110,”<i>Singapore Free Press and Mercantile Advertiser</i>, 3 June 1931, 12. (From NewspaperSG)
+
+[^14]:https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/e1c7a592-115d-11e3-83d5-0050568939ad, oral history interview by Tan Beng Luan, 17 December 1981, transcript and MP3 audio, Reel/Disc 8 of 11. (From National Archives of Singapore, Accession no. 000110)
+
+[^15]:R.R. Samy, “https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19310718-1.2.3,”<i>Malaya Tribune</i>, 18 July 1931, 2. (From NewspaperSG)
+
+[^16]:
