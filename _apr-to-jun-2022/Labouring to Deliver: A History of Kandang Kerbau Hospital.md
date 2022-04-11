@@ -72,15 +72,15 @@ The baby boom continued unabated until the effects of the national family planni
 
 In addition to providing maternity services, KK Hospital also provided final year medical students with intensive training that included a three-month stay on the hospital’s premises.[^28] Among those who underwent training at the hospital was the second president of Singapore, Dr Benjamin Henry Sheares (he served from 1971 until his death in 1981).[^29] 
 
-![](/images/Vol%2018%20Issue%201/KKH%20Hospital/19980001349%20IMG0008.png)
-<div style="background-color: white;"> Undergoing training at the Kandang Kerbau Hospital, 1958. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
-
 Sheares succeeded J.S. English as Acting Professor of Midwifery and Gynaecology at the King Edward VII College of Medicine when the latter retired in 1948. (In 1951, Sheares was appointed Professor of Obstetrics and Gynaecology at the University of Malaya; the first local to assume this post.)[^30] Like English, Sheares sought to improve maternal mortality and still-birth rates. Among his proposals were the implementation of a post-graduate course in obstetrics and gynaecology at the King Edward VII College of Medicine, with the doctors receiving their training at KK Hospital.[^31] He also raised the standard of midwives, who now needed to have at least a primary English education and two years of training in a teaching hospital.[^32]
 
 ![](/images/Vol%2018%20Issue%201/KKH%20Hospital/19980001349%20IMG0014.png)
 <div style="background-color: white;"> Learning how to handle newborn babies at the Kandang Kerbau Hospital, 1958. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 Salmon, who had teaching duties at the hospital, said that the hospital in the 1960s provided good training for the staff: “As the ‘C’ Class (heavily subsidised) beds catering for the lower social classes were always fully occupied, the young doctors, medical students and nurses/pupil midwives had more practical experience compared with the present time.”[^33] 
+
+![](/images/Vol%2018%20Issue%201/KKH%20Hospital/19980001349%20IMG0008.png)
+<div style="background-color: white;"> Undergoing training at the Kandang Kerbau Hospital, 1958. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 When KK Hospital was reorganised in 1962 comprising a University Training Unit and two Clinical Training Units, it was recognised and accredited by the Royal College of Obstetricians and Gynaecologists (RCOG) in London as a post-graduate training centre for aspiring gynaecologists.[^34] This was a significant achievement as it meant that specialty training could be done locally instead of in the United Kingdom.
 
