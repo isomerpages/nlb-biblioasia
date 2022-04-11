@@ -15,7 +15,7 @@ While the Kamala Club was established in the 1950s, its roots actually go furthe
 
 These clubs, which began as social clubs, were important vehicles for the advancement of Indian women in Singapore. At the time, the traditional Indian woman’s role was home-bound, and some women were even customarily shielded from the gaze of men whom they were not related to. The clubs also gave women who came from different parts of the Indian subcontinent a chance to connect with other women of their community. At the same time, it allowed these women to meet with women of different backgrounds, castes and creeds. From educating women on childcare, health and hygiene, and providing a venue for relaxation, these clubs also carried out fundraising for charitable causes, organised educational talks and provided a platform for women to hone their leadership skills.
 
-The idea for an organisation for Indian women to meet regularly had been mooted by the famous Indian poet, philosopher and writer Rabindranath Tagore during a visit to Singapore in 1927.[^1] (While an Indian Association existed at the time, it mainly catered to men.)
+The idea for an organisation for Indian women to meet regularly had been mooted by the famous Indian poet, philosopher and writer Rabindranath Tagore during a visit to Singapore in 1927.[[1]( “https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19310603-1.2.110,”Singapore Free Press andMercantile Advertiser, 3 June 1931, 12. (From NewspaperSG))^1] (While an Indian Association existed at the time, it mainly catered to men.)
 
 In November 1930, Mrs Edward Vethanayagam Davies (also known as Checha Davies)[^2] and Mrs John Truman Navaratnam Handy[^3] invited women from various Indian and Ceylonese groups in the community to a reception at the YWCA and explained to them the rationale behind setting up an association just for them.[^4]
 
@@ -62,3 +62,10 @@ The new club was named Kamala Club, ostensibly at the wish of Nehru, after his l
 The Kamala Club was officially declared open on 21 May 1951 and since then, the club has helped countless Indian women develop warm friendships with other like-minded women.[^38] Its members continue to work together to make a difference. Like the lotus flower it is named after, the Kamala Club has blossomed and remains relevant today.
 
 #### **NOTES**
+[^1]:  “https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19310603-1.2.110,” Singapore Free Press
+and Mercantile Advertiser, 3 June 1931, 12.
+(From NewspaperSG)
+
+[^2]: At the time, Indian women were referred to by their husband’s name. MrsEdward Vethanayagam Davies moved to Singapore after her marriage in 1925. She was an educator, social worker and advocate of women’s rights. Apart from the Lotus Club, she was also a founding member of the Inner Wheel Club of Singapore and was closely involved in the establishment of the Singapore Council of Women where she served in its executive council.   Mrs Davies was posthumously inducted into the Singapore Women's Hall of Fame in 2014.
+
+[^3]:
