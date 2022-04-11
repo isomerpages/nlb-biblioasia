@@ -116,4 +116,6 @@ The Kamala Club was officially declared open on 21 May 1951 and since then, the 
 
 [^15]:R.R. Samy, “https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19310718-1.2.3,”<i>Malaya Tribune</i>, 18 July 1931, 2. (From NewspaperSG)
 
-[^16]:
+[^16]:“https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19320203-1.2.25,” <i>Malaya Tribune</i>, 3 February 1932, 7. (From NewspaperSG)
+
+[^17]:
