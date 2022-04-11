@@ -12,10 +12,10 @@ Singapore’s total fertility rate is a concern among policymakers today. In 202
 
 The situation was very different five decades ago though. In the 1960s, Singapore’s total fertility rate was a staggering 5.76.[^1] The old Kandang Kerbau (KK) Hospital was so busy that it was nicknamed the “Birthquake” Hospital. Between the 1950s and early 1970s, more than 1.2 million babies were born there.[^2] 
 
+In fact, in 1966 alone, 39,835 babies were born in the hospital. This earned the hospital a mention in the *Guinness Book of Records* for having the largest number of births in a single maternity facility – a record it held for a number of years. The publication described the hospital as the “largest maternity hospital in the world… with 316 beds and an annual ‘birthquake’ of over 26,000 babies”.[^3]
+
 ![](/images/Vol%2018%20Issue%201/KKH%20Hospital/edit19980001245%20IMG0086%20(baby).png)
 <div style="background-color: white;"> A newborn at the Kandang Kerbau Hospital, 1986. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
-
-In fact, in 1966 alone, 39,835 babies were born in the hospital. This earned the hospital a mention in the *Guinness Book of Records* for having the largest number of births in a single maternity facility – a record it held for a number of years. The publication described the hospital as the “largest maternity hospital in the world… with 316 beds and an annual ‘birthquake’ of over 26,000 babies”.[^3]
 
 Dr Tow Siang Hwa, who was the University Head of Obstetrics and Gynaecology in the 1960s, recalled that the hospital had to “make use of all the space available” as there were insufficient beds. He said: “Some women even had to give birth under a bed where another woman was giving birth. To cope with the serious shortage of medical facilities, women who gave birth were sent home hours later if they stopped bleeding and showed no signs of complications. Nurses then visited the mother’s home until the baby’s umbilical cord dropped.”[^4]
 
