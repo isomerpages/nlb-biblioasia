@@ -61,4 +61,9 @@ The new club was named Kamala Club, ostensibly at the wish of Nehru, after his l
 
 The Kamala Club was officially declared open on 21 May 1951 and since then, the club has helped countless Indian women develop warm friendships with other like-minded women.[^38] Its members continue to work together to make a difference. Like the lotus flower it is named after, the Kamala Club has blossomed and remains relevant today.
 
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol%2018%20Issue%201/Authors/Kevin_Tan.png" style="width: 100px; height: 100px;"/>
+	<b>Dr Kevin Y.L. Tan</b> is Adjunct Professor at the Faculty of Law, National University of Singapore, and Visiting Professor at the S. Rajaratnam School of International Studies, Nanyang Technological University. He specialises in constitutional and administrative law, Singapore legal history and international human rights. He has written and edited over 50 books on the law, history and politics of Singapore.</div>
+
 #### **NOTES**
