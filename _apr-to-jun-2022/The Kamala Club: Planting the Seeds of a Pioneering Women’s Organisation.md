@@ -59,4 +59,6 @@ Gandhi’s talk at the joint meeting was a precursor to the eventual merger of t
 
 The new club was named Kamala Club, ostensibly at the wish of Nehru, after his late wife Kamala.36 But according to Ambassador-at-Large Gopinath Pillai – whose mother was present at the meeting to merge the two clubs – Nehru had not made any suggestions regarding this. Citing Nehru, however, made the new name more palatable to members.37
 
-The Kamala Club was officially declared open on 21 May 1951 and since then, the club has helped countless Indian women develop warm friendships with other like-minded women.38 Its members continue to work together to make a difference. Like the lotus flower it is named after, the Kamala Club has blossomed and remains relevant today. 
+The Kamala Club was officially declared open on 21 May 1951 and since then, the club has helped countless Indian women develop warm friendships with other like-minded women.38 Its members continue to work together to make a difference. Like the lotus flower it is named after, the Kamala Club has blossomed and remains relevant today.
+
+#### **NOTES**
