@@ -81,8 +81,9 @@ The Kamala Club was officially declared open on 21 May 1951 and since then, the 
 
 <div style="background-color: white;">
 <br/>
-<img src="![](/images/The%20Kamala%20Club/Vandana%20Aggarwal.jpg)"/>
-	<b>Dr Kevin Y.L. Tan</b> is Adjunct Professor at the Faculty of Law, National University of Singapore, and Visiting Professor at the S. Rajaratnam School of International Studies, Nanyang Technological University. He specialises in constitutional and administrative law, Singapore legal history and international human rights. He has written and edited over 50 books on the law, history and politics of Singapore.</div>
+<img
+src="/![](/images/The%20Kamala%20Club/Vandana%20Aggarwal.jpg)"/>
+ <b>Vandana Aggarwal</b>is a teacher and a freelance journalist. An active citizen archivist for the National Archives of Singapore, she is the author of Voice of Indian Women: The Kamala Club Singapore (2018). She enjoys reading and researching about history.</div>
 
 #### **NOTES**
 
