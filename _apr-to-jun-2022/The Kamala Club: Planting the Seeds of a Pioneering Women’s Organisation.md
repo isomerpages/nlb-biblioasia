@@ -96,4 +96,14 @@ The Kamala Club was officially declared open on 21 May 1951 and since then, the 
 
 [^5]:“https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19310724-1.2.87,” Malaya Tribune, 24 July 1931, 13. (From NewspaperSG)
 
-[^6]:https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19310724-1.2.87Malaya()(From NewspaperSG)
+[^6]:("https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19310724-1.2.87")
+
+[^7]:"http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19310730-1.2.69,” Malaya Tribune, 30 July 1931, 9. (FromNewspaperSG)[Mirza Mohammed Ali Namazie was a Persian businessman who commissioned and financed the Capitol Theatre.RajabaliJumabhoy was a prominent businessman and one of the founders of the Indian Association; he was also a member of the Legislative Assembly.] 
+
+[^8]:"http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19320306-1.2.58,” Straits Times, 6 March 1932, 10. (From NewspaperSG) 
+
+[^9]:"http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19320203-1.2.25,” Malaya Tribune, 3 February 1932, 7. (From NewspaperSG)
+
+[^10]:MrsKizhakkeMukkapuzha Raman Menon, originally from Kerala, played an active part in club activities even after the clubs had merged and became the Kamala Club. Her husband K.M.R. Menon was a mathematics teacher at Raffles Institution.
+
+[^11]:
