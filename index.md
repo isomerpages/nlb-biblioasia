@@ -12,7 +12,7 @@ sections:
       background: /images/vol-17-issue-4/Hero%20Banner.jpg
       key_highlights:
         - title: ""
-          description: "\t Orchids, wet markets and babies. Find out more in this issue!"
+          description: Orchids, wet markets and babies. Find out more in this issue!
           url: /vol-17/issue-4/jan-mar-2022/
       button: Read the current issue
       url: /vol-17/issue-4/jan-mar-2022/
