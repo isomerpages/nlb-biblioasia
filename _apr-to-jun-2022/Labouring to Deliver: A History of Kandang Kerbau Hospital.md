@@ -86,8 +86,6 @@ When KK Hospital was reorganised in 1962 comprising a University Training Unit a
 
 One of the first few doctors who received his training entirely in Singapore was Professor S.S. Ratnam (Shanmugaratnam s/o Sittampalam), who later headed the Department of Obstetrics and Gynaecoloy at KK Hospital and then at the National University of Singapore. Ratnam recalled that he and his fellow doctors were initially afraid of failing the Member of the Royal College of Obstetricians and Gynaecologists (MRCOG) examinations in the UK, but most passed the examinations on their first attempt.[^35]
 
-![](/images/Vol%2018%20Issue%201/KKH%20Hospital/edit19980001434%20IMG0104.png)
-<div style="background-color: white;">Professor S.S. Ratnam and his team receiving the Guinness Stout Effort Award for their work on in-vitro fertilisation, 1983. Ratnam is pictured here carrying Asia’s first “test-tube baby”, Samuel Lee Jian Wei, who was delivered by Ratnam and his team at the Kandang Kerbau Hospital on 19 May 1983. Samuel’s mother is standing beside Ratnam, while his father is behind her. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **Medical Breakthroughs**
 
@@ -103,6 +101,9 @@ Sheares was also credited for being the first to perform caesarean sections usin
 “Under the old professor very few caesarean sections were carried out and they were all done by the classical method and not the modern lower segment method,” Sheares recalled. “I had to continue doing what I knew was not right. I tried to keep up with the times by reading journals but could not do what I wanted at all. Those were frustrating and heartbreaking years because I knew I was killing babies unnecessarily when they could have easily been saved by the lower segment caesarean section.” For his contributions, Sheares is known as the “father of obstetrics and gynaecology in Singapore”.[^38]
 
 Another surgeon from KK Hospital who left his mark was Professor S.S. Ratnam. On 19 May 1983, Ratnam and his team delivered Asia’s first “test-tube baby”, a baby conceived through in-vitro fertilisation, at KK Hospital. Three years later, he and his team of doctors also helped to deliver the first baby in Asia born from gamete intrafallopian transfer (GIFT), which involves a direct transfer of the sperm and egg into the fallopian tube.
+
+![](/images/Vol%2018%20Issue%201/KKH%20Hospital/edit19980001434%20IMG0104.png)
+<div style="background-color: white;">Professor S.S. Ratnam and his team receiving the Guinness Stout Effort Award for their work on in-vitro fertilisation, 1983. Ratnam is pictured here carrying Asia’s first “test-tube baby”, Samuel Lee Jian Wei, who was delivered by Ratnam and his team at the Kandang Kerbau Hospital on 19 May 1983. Samuel’s mother is standing beside Ratnam, while his father is behind her. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 Ratnam was very proud of Singapore’s contributions to the field of obstetrics and gynaecology. He said: “We had a number of firsts… the first in Asia IVF baby… the first GIFT baby born in Asia… the first in the world to be successful with micro-injection of sperms direct into the egg… We have made contributions not only to ourselves here, but to the world... Doesn’t matter from which unit or institution the work comes from, but in Singapore.”[^39]
 
