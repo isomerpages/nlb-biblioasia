@@ -12,7 +12,7 @@ Singapore’s total fertility rate is a concern among policymakers today. In 202
 
 The situation was very different five decades ago though. In the 1960s, Singapore’s total fertility rate was a staggering 5.76.[^1] The old Kandang Kerbau (KK) Hospital was so busy that it was nicknamed the “Birthquake” Hospital. Between the 1950s and early 1970s, more than 1.2 million babies were born there.[^2] 
 
-![](/images/Vol%2018%20Issue%201/KKH%20Hospital/19980001245%20IMG0086%20(baby).png)
+![](/images/Vol%2018%20Issue%201/KKH%20Hospital/edit19980001245%20IMG0086%20(baby).png)
 <div style="background-color: white;"> A newborn at the Kandang Kerbau Hospital, 1986. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 In fact, in 1966 alone, 39,835 babies were born in the hospital. This earned the hospital a mention in the *Guinness Book of Records* for having the largest number of births in a single maternity facility – a record it held for a number of years. The publication described the hospital as the “largest maternity hospital in the world… with 316 beds and an annual ‘birthquake’ of over 26,000 babies”.[^3]
@@ -86,7 +86,7 @@ When KK Hospital was reorganised in 1962 comprising a University Training Unit a
 
 One of the first few doctors who received his training entirely in Singapore was Professor S.S. Ratnam (Shanmugaratnam s/o Sittampalam), who later headed the Department of Obstetrics and Gynaecoloy at KK Hospital and then at the National University of Singapore. Ratnam recalled that he and his fellow doctors were initially afraid of failing the Member of the Royal College of Obstetricians and Gynaecologists (MRCOG) examinations in the UK, but most passed the examinations on their first attempt.[^35]
 
-![](/images/Vol%2018%20Issue%201/KKH%20Hospital/19980001434%20IMG0104.png)
+![](/images/Vol%2018%20Issue%201/KKH%20Hospital/edit19980001434%20IMG0104.png)
 <div style="background-color: white;">Professor S.S. Ratnam and his team receiving the Guinness Stout Effort Award for their work on in-vitro fertilisation, 1983. Ratnam is pictured here carrying Asia’s first “test-tube baby”, Samuel Lee Jian Wei, who was delivered by Ratnam and his team at the Kandang Kerbau Hospital on 19 May 1983. Samuel’s mother is standing beside Ratnam, while his father is behind her. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **Medical Breakthroughs**
