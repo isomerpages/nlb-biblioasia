@@ -27,12 +27,12 @@ While largely seen as a maternity hospital today, KK had its origins as Singapor
 
 The hospital was located at the site bounded by Serangoon, Selegie, Bukit Timah and Rochor roads. By at least the turn of the 20th century, it had become known variously as General Hospital Kandang Kerbau or Kandang Kerbau Hospital. The term *kandang kerbau* means “buffalo pen” in Malay, and it is believed the hospital was so named as bullock carts belonging to the colonial transport department were parked nearby. The Chinese referred to the hospital as Tek Kah Hospital. *Tek kah*, or *zhu jiao* in Mandarin, literally means “under the bamboo trees” in Hokkien as the hospital lay beneath a hillock dotted with bamboo plants.[^9] 
 
+![](/images/Vol%2018%20Issue%201/KKH%20Hospital/19980000808%20IMG0015.png)
+<div style="background-color: white;">  Kandang Kerbau Hospital, 1950. By then, the hospital was unable to accommodate the many babies delivered there so an extension plan was drawn up in 1951 to provide more beds, outpatient clinics and space for ancillary departments. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
 #### **Specialisation in Maternal Health**
 
 Migrants to Singapore in the 19th century were largely male. However, as more female migrants began arriving in Singapore in the first few decades of the 20th century, birth rates rapidly increased and naturally so did demand for maternity-related medical services.[^10] 
-
-![](/images/Vol%2018%20Issue%201/KKH%20Hospital/19980000808%20IMG0013.png)
-<div style="background-color: white;">  A maternity ward in the Kandang Kerbau Hospital, 1950. The hospital was handling between 2,000 and 3,000 deliveries per month during the post-war baby boom years so as many beds as possible were squeezed into the open ward. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 The Free Maternity Hospital on Victoria Street became overwhelmed and patients had to be turned away. With more patients than beds, KK Hospital was renovated, expanded and converted into the Free Maternity Hospital comprising three one-storey buildings. When KK Hospital officially opened as a maternity hospital on 1 October 1924, the Free Maternity Hospital on Victoria Street moved to KK Hospital.[^11]
 
@@ -46,8 +46,8 @@ During the Japanese Occupation of Singapore (1942–45), KK Hospital was renamed
 
 In the immediate post-war years, population growth in Singapore accelerated and one of the contributing factors was the high fertility rate.[^15] In 1948 alone, KK Hospital saw 10,000 births, almost twice the number before the war, earning the description “busiest baby factory in the British Empire”. The hospital continued to handle slightly fewer than 1,000 deliveries per month until 1950 when the monthly figure rose above 1,000 babies, resulting in overcrowded labour wards.[^16]
 
-![](/images/Vol%2018%20Issue%201/KKH%20Hospital/19980000808%20IMG0015.png)
-<div style="background-color: white;">  Kandang Kerbau Hospital, 1950. By then, the hospital was unable to accommodate the many babies delivered there so an extension plan was drawn up in 1951 to provide more beds, outpatient clinics and space for ancillary departments. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+![](/images/Vol%2018%20Issue%201/KKH%20Hospital/19980000808%20IMG0013.png)
+<div style="background-color: white;">  A maternity ward in the Kandang Kerbau Hospital, 1950. The hospital was handling between 2,000 and 3,000 deliveries per month during the post-war baby boom years so as many beds as possible were squeezed into the open ward. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 To address the bed shortage, the hospital made plans in 1951 for a new extension with “outpatient clinics and  ancillary departments”, renovations to the existing wings and the addition of buildings to eventually increase bed capacity to 590, up from 240.[^17]
 
