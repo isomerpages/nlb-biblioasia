@@ -6,8 +6,11 @@ description: ""
 #### **Vandana Aggarwal**  traces the origins of a venerable association for Indian women and the role it played in their lives.
 
 ![](/images/The%20Kamala%20Club/02-Members-with-Mrs-Indira-Gandhi-at-the-Club-premisis-in-Balestier.png)
-<div style="background-color: white;"> Committee members of the Lotus Club discussing a fundraising gala for the University of Malaya Fund, 1949.<i> Image reproduced from the Straits Times, 27 July 1949, 7. (From NewspaperSG).
+<div style="background-color: white;">Committee members of the Lotus Club discussing a fundraising gala for the University of Malaya Fund, 1949.<i> Image reproduced from the Straits Times, 27 July 1949, 7. (From NewspaperSG).
 </i></div>
+
+![](/images/The%20Kamala%20Club/straitstimes_19351110_0004.png)
+<div style="background-color: white;">Members of the Ladies’ Union on the stage of Victoria Theatre after their variety performance in aid of the Jubilee Fund, 1935. This would have been unheard of 50 years ago as many women would still be practising purdah, the custom of female seclusion.<i>Image reproduced from the Straits Times, 10 November 1935, 4.</i></div>
 
 For over six decades, one organisation has been playing an important role in bringing women from the Indian subcontinent together in Singapore: the pioneering Kamala Club. Through social gatherings, festive celebrations and enrichment classes, this club gave South Asian women the chance to meet, socialise and learn in a secular setting. While festive events and enrichment classes have slowed down because of the Covid-19 pandemic, the Kamala Club (<i>kamala means</i> “lotus” in Hindi) continues to serve its members through an online community with over 1,200 followers, highlighting cultural events, organising guided tours to places like the Indian Heritage Centre and even online yoga sessions for women.
 
