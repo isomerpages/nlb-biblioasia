@@ -124,8 +124,32 @@ The Kamala Club was officially declared open on 21 May 1951 and since then, the 
 
 [^19]: "https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19330408-1.2.38"
 
-[^20]:
+[^20]:https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19341213-1.2.148,” <i>Malaya Tribune</i>, 13 December 1934, 16. (From NewspaperSG)
 
-[^21]:
+[^21]:https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/e1c7a592-115d-11e3-83d5-0050568939ad, oral history interview by Tan Beng Luan, 24 February 1982, transcript and MP3 audio, Reel/Disc 9 of 11. (From National Archives of Singapore, Accession no. 000110)
 
-[^22]:
+[^22]: Britannica, The Editors of Encyclopaedia, “purdah,” <i>Encyclopedia Britannica</i>, 9 May 2008, https://www.britannica.com/topic/purdah.
+
+[^23]:“https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19350513-1.2.95,” <i>Straits Times</i>, 13 May 1935, 12. (From NewspaperSG)
+
+[^24]:“https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19350513-1.2.95,” <i>Straits Times</i>, 28 August 1933, 12. (From NewspaperSG)
+
+[^25]:“http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19340208-1.2.20,” <i>Singapore Free Press and Mercantile Advertiser</i>, 8 February 1934, 3. (From NewspaperSG
+
+[^26]:“http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19350629-1.2.80,” <i>Straits Times</i>, 29 June 1935, 15. (From NewsppaerSG)
+
+[^27]:“http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19351007-1.2.133,” <i>Malaya Tribune</i>, 7 October 1935, 18. (From NewspaperSG)
+
+[^28]:“https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19351026-1.2.114.4,” <i>Straits Times</i>, 26 October 1935, 17. (From NewspaperSG)
+
+[^29]:“'http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19370529-1.2.62," <i>Singapore Free Press and Mercantile Advertiser</i>,29 May 1937, p. 6. (From NewspaperSG)
+
+[^30]:“http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19480122-1.2.3,” <i>Straits Times</i>, 22 January 1948, 1. (From NewspaperSG)
+
+[^31]:“http://eresources.nlb.gov.sg/newspapers/Digitised/Article/indiandailymail19500407-1.2.69,” <i>Indian Daily Mail</i>, 7 April 1950, 4. (From NewspaperSG)
+
+[^32]:https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19540610-1.2.6,” <i>Straits Times</i>, 10 June 1954, 1. (From NewspaperSG)
+
+[^33]:“http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19500619-1.2.50” <i>Straits Times</i>, 19 June 1950, 5. (From NewspaperSG)
+
+[^34]:“http://eresources.nlb.gov.sg/newspapers/Digitised/Article/indiandailymail19501020-1.2.41,” <i>Indian Daily Mail</i>, 20 October 1950, 4. (From NewspaperSG)
