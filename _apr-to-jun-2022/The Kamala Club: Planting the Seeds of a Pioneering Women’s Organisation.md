@@ -51,5 +51,12 @@ The clubs also organised educational talks that ran the gamut of subjects from c
 
 Some women took Nehru’s advice to heart, especially in the post-war years. In 1948, Mrs Malathi Pillai of the Ladies’ Union and secretary of the Singapore Regional Indian Congress became the first woman to contest the Singapore Legislative Council election.30 Two years later, Mrs Mary Lobo of the Lotus Club was appointed a Justice of the Peace.31 In 1954, Mrs Lakshmi Naidu was awarded the Singapore Certificate of Honour for her voluntary work during and after the Japanese occupation.32 These Indian women, unlike their predecessors who led cloistered lives, were defining a new public role for themselves, and it is likely that their activities in the Ladies’ Union and the Lotus Club helped them prepare for a larger stage.
 
-#### **A Colonial Playground**
+#### **Amalgamation of the Clubs**
 
+The Lotus Club and the Ladies’ Union were dormant during the Japanese Occupation (1942–45) but when peace returned, the clubs once again resumed their social, cultural and fundraising activities. One of the highlights of the post-war era occurred in June 1950 when Nehru, by then the prime minister of newly independent India, visited Singapore again. During his visit, his daughter Indira Gandhi addressed a joint meeting of the two clubs and, citing her mother as an example, spoke about the important role of women in society. Nehru himself graced the occasion and addressed the women briefly.33
+
+Gandhi’s talk at the joint meeting was a precursor to the eventual merger of the Ladies’ Union and the Lotus Club, which was decided on 17 October 1950.34 The motives were practical ones. “The harsh reality was that both the clubs were struggling with low membership, as many of the women had moved back to India after the war. The founding members were older, and to survive, the clubs had to merge into one unit.”35
+
+The new club was named Kamala Club, ostensibly at the wish of Nehru, after his late wife Kamala.36 But according to Ambassador-at-Large Gopinath Pillai – whose mother was present at the meeting to merge the two clubs – Nehru had not made any suggestions regarding this. Citing Nehru, however, made the new name more palatable to members.37
+
+The Kamala Club was officially declared open on 21 May 1951 and since then, the club has helped countless Indian women develop warm friendships with other like-minded women.38 Its members continue to work together to make a difference. Like the lotus flower it is named after, the Kamala Club has blossomed and remains relevant today. 
