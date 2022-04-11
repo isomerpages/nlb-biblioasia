@@ -6,7 +6,8 @@ description: ""
 #### **Vandana Aggarwal**  traces the origins of a venerable association for Indian women and the role it played in their lives.
 
 ![](/images/The%20Kamala%20Club/02-Members-with-Mrs-Indira-Gandhi-at-the-Club-premisis-in-Balestier.png)
-<div style="background-color: white;"> Indira Gandhi, daughter of then Prime Minister of India Jawaharlal Nehru, addressing members of the Lotus Club and the Ladies’ Union in June 1950. Source: <i>The Straits Times © SPH Media Limited. Reprinted with permission.</i></div>
+<div style="background-color: white;"> Committee members of the Lotus Club discussing a fundraising gala for the University of Malaya Fund, 1949.<i> Image reproduced from the Straits Times, 27 July 1949, 7. (From NewspaperSG).
+</i></div>
 
 For over six decades, one organisation has been playing an important role in bringing women from the Indian subcontinent together in Singapore: the pioneering Kamala Club. Through social gatherings, festive celebrations and enrichment classes, this club gave South Asian women the chance to meet, socialise and learn in a secular setting. While festive events and enrichment classes have slowed down because of the Covid-19 pandemic, the Kamala Club (<i>kamala means</i> “lotus” in Hindi) continues to serve its members through an online community with over 1,200 followers, highlighting cultural events, organising guided tours to places like the Indian Heritage Centre and even online yoga sessions for women.
 
@@ -47,6 +48,9 @@ Rivalry notwithstanding, the Lotus Club and the Ladies’ Union played an import
 Events organised by these two clubs also created opportunities for women who practised purdah to take tentative steps outside the home. Purdah is a religious and social practice of female seclusion. Among other things, it involves physical segregation from men unrelated to them through the use of walls, screens and curtains. In May 1935, to celebrate the Silver Jubilee of King George V’s accession to the throne, the Lotus Club organised a dinner where male guests were invited for the first time to the club’s event. Because several women still practised purdah, special planning was required.[^22] The dinner was hailed as an attack on “the citadel of orthodoxy and social customs which impose isolation on Asiatic ladies”.[^23]
 
 Beyond social events like dinners and outings, the women became involved in charity work, and organised bazaars and funfairs to raise funds. In September 1933, proceeds from a charity sale held by the Ladies’ Union went to the Child Welfare Society and Leper Asylum.[^24] Similarly, the Lotus Club organised a fete in October that year that managed to raise $800. Half was put aside for the building fund and the other half used to help unemployed Indians in the community.[^25] In June 1935, the Lotus Club, together with the Indian Association, organised a charity concert at the Victoria Theatre in aid of the Quetta Relief Fund for an earthquake that devastated Quetta, in today’s Pakistan, in May of that year.[^26]
+
+![](/images/The%20Kamala%20Club/Lotus%20Club%20Members.png)
+<div style="background-color: white;"> Members of the Kamala Club at the old clubhouse in Balestier, 1950s.<i>Image reproduced from Vandana Aggarwal, Voice of Indian Women: The Kamala Club Singapore (Singapore: The Kamala Club, 2018), 53. (Available via PublicationSG)</i></div>
 
 These women’s organisations also provided opportunities for cultural activities. In 1932, members of the Lotus Club came together to form an orchestra. The orchestra performed at the charity concert presented by the Lotus Club in aid of the Jubilee Fund in October 1935. The concert also included plays and dance performances by other club members.[^27] The Ladies’ Union organised its own variety show for the Jubilee Fund. Members performed songs in Telegu, Hindustani, Tamil and Hindi; presented dances; and put up sketches and plays. The women even took on the male roles in the plays.[^28]
 
