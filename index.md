@@ -34,7 +34,7 @@ sections:
         naming orchid hybrids after foreign dignitaries. Rebecca Tan tells us
         more.
       button: Read more
-      url: /vol-17/issue-4/jan-to-mar-2022/asia-maps-cartography
+      url: /apr-to-jun-2022/vol-18/issue-1/singapore-orchid-diplomacy
       image: /images/Vol 18 Issue 1/Highlight2.png
       alt: cartography
   - infopic:
@@ -51,7 +51,7 @@ sections:
       title: The Story of Singapore’s Changing Wet Markets
       subtitle: highlights
       button: Read more
-      url: /vol-17/issue-4/jan-to-mar-2022/early-years-substation
+      url: /apr-to-jun-2022/vol-18/issue-1/story-singapore-changing-wet-markets
       image: /images/Vol 18 Issue 1/Highlight3.png
       description: Wet markets have existed in Singapore since 1825, Zoe Yeo looks at
         how these markets have changed over time.
