@@ -23,7 +23,7 @@ resistant to folding. *Alex Teoh* has the details.
 <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-mar-2022/diardduvaucel">French Impressions: 19th-century Natural History Drawings of Singapore and Southeast Asia
 </a><br>Illustrations commissioned by two French naturalists between 1818 and 1820 provide fascinating insights into the region's flora and fauna. 
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/pulau-lingga">Mother Island: Finding Singapore's Past in Pulau Lingga</a><br>*Faris Joraimi* visits Pulau Lingga in search of forgotten links. 
+<a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/pulau-lingga">A History of the Padang</a><br>A 4.3-hectare patch of green stands in front of the former City Hall building. *Kevin Tan* tells us why it is so special.
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/early-years-substation">In Their Own Words: The Early Years of The Substation</a><br>People involved in The Substation's genesis and early years tell *Clarissa Oon*  what it was like in the beginning. 
 
