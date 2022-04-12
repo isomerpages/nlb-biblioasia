@@ -20,12 +20,7 @@ resistant to folding. *Alex Teoh* has the details.
 <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/jurong-drive-in-cinema">The Orang Seletar: Rowing Across Changing Tides
 </a><br>Singapore was once a home to the seafaring Orang Seletar who now reside in Johor Bahru. *Ilya Katrinnada* takes them on a tour around Singapore. 
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-mar-2022/diardduvaucel">French Impressions: 19th-century Natural History Drawings of Singapore and Southeast Asia
-</a><br>Illustrations commissioned by two French naturalists between 1818 and 1820 provide fascinating insights into the region's flora and fauna. 
-
 <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/pulau-lingga">A History of the Padang</a><br>A 4.3-hectare patch of green stands in front of the former City Hall building. *Kevin Tan* tells us why it is so special.
-
-<a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/early-years-substation">In Their Own Words: The Early Years of The Substation</a><br>People involved in The Substation's genesis and early years tell *Clarissa Oon*  what it was like in the beginning. 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/wong-din-haan">The Kamala Club: Planting the Seeds of a Pioneering Women’s Organisation</a><br>*Vandana Aggarwal* traces the origins of a venerable association for Indian women and the role it played in their lives.
 
@@ -34,3 +29,7 @@ resistant to folding. *Alex Teoh* has the details.
 <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/siti-radhiah-cookbooks">Labouring to Deliver: A History of Kandang Kerbau Hospital</a><br>The old Kandang Kerbau Hospital was once known as the busiest maternity hospital in the world. *Joanna Tan* delivers the story behind a hallowed Singapore institution.
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/tree-planting-day">Cinema Pioneer Tan Cheng Kee</a><br>*Barbara Quek* looks at the man behind the former Alhambra and Marlborough theatres, which were once landmarks on Beach Road.
+
+<a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/tree-planting-day">We Are What We Eat: The Evolution of Chinese Food in Singapore</a><br>Chinese food in Singapore is a product of the country’s history and geography, reveals *Low Sze Wee*.
+
+<a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/tree-planting-day">Living in Harmony: The History of Opera Estate</a><br>Opera Estate was once a coconut and rubber plantation. *Asrina Tanuri* traces its history.
