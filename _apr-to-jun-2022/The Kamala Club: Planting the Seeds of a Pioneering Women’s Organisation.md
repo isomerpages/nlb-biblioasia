@@ -92,7 +92,7 @@ The Kamala Club was officially declared open on 21 May 1951 and since then, the 
 
 [^2]:At the time, Indian women were referred to by their husband’s name. Mrs Edward Vethanayagam Davies moved to Singapore after her marriage in 1925. She was an educator, social worker and advocate of women’s rights. Apart from the Lotus Club, she was also a founding member of the Inner Wheel Club of Singapore and was closely involved in the establishment of the Singapore Council of Women where she served in its executive council.   Mrs Davies was posthumously inducted into the Singapore Women's Hall of Fame in 2014. 
 
-[^3]: Not to be confused with Mrs Ellice Handy, MrsJohn Truman Navaratnam Handy was a socially active Ceylonese lady of Tamil descent.
+[^3]: Not to be confused with Mrs Ellice Handy, Mrs John Truman Navaratnam Handy was a socially active Ceylonese lady of Tamil descent.
 
 [^4]: [Singapore Y.W.C.A.](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19301115-1.2.81),”<i>Malaya Tribune</i>, 15 November 1930, 14. (From NewspaperSG)
 
@@ -100,7 +100,7 @@ The Kamala Club was officially declared open on 21 May 1951 and since then, the 
 
 [^6]: “[Work of Y.W.C.A. in Singapore](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19310724-1.2.87).”
 
-[^7]: “[Indian and Chinese Women](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19310730-1.2.69),” <i>Malaya Tribune</i>, 30 July 1931, 9. (FromNewspaperSG) [Mirza Mohammed Ali Namazie was a Persian businessman who commissioned and financed the Capitol Theatre. RajabaliJumabhoy was a prominent businessman and one of the founders of the Indian Association; he was also a member of the Legislative Assembly.] 
+[^7]: “[Indian and Chinese Women](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19310730-1.2.69),” <i>Malaya Tribune</i>, 30 July 1931, 9. (FromNewspaperSG) [Mirza Mohammed Ali Namazie was a Persian businessman who commissioned and financed the Capitol Theatre. Rajabali Jumabhoy was a prominent businessman and one of the founders of the Indian Association; he was also a member of the Legislative Assembly.] 
 
 [^8]: [Indian Ladies’ Club](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19320306-1.2.58),” <i>Straits Times</i>, 6 March 1932, 10. (From NewspaperSG) 
 
