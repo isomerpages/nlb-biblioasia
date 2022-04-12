@@ -5,7 +5,6 @@ description: ""
 image: /images/Vol 18 Issue 1/Kamala
   Club/02-Members-with-Mrs-Indira-Gandhi-at-the-Club-premisis-in-Balestier.png
 ---
-
 #### **Vandana Aggarwal**  traces the origins of a venerable association for Indian women and the role it played in their lives.
 
 ![](/images/Vol%2018%20Issue%201/Kamala%20Club/02-Members-with-Mrs-Indira-Gandhi-at-the-Club-premisis-in-Balestier.png)
