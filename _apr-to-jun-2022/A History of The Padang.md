@@ -58,14 +58,14 @@ The highlight of the day’s events on 27 June was the unveiling of Raffles’ s
 
 After the British surrendered to the Japanese on 15 February 1942, the Padang became the site for the display of Japanese imperial power.[^21] The Municipal Building was commandeered by the Syonan Tokubetsu-si (Municipal Administration) as the headquarters of the civil administration. During the Japanese Occupation, the Padang continued to serve as a parade and ceremonial ground. 
 
-![](/images/Vol%2018%20Issue%201/The%20Padang/image010.png)
-<div style="background-color: white;"> Admiral Lord Louis Mountbatten, Supreme Allied Commander Southeast Asia, addressing the crowd on the steps of the Municipal Building ahead of the Japanese Surrender Ceremony on 12 September 1945. <i>Kenneth Chia Collection, courtesy of National Archives of Singapore.</i></div>
-
 The official programme for the Tentyo-Setu (Emperor’s birthday) published on 28 April 1942 reported that “schoolboys will march to the Municipal Building; and that at 11 am, Mayor Shigeo Odate will appear on the balcony of the building to shout three ‘Banzais’ and make a speech”.[^22] In a public display of comity with Indian nationalism, Japanese Prime Minister Tojo Hideki and Indian National Army (INA) leader Subhas Chandra Bose reviewed a parade mounted by INA troops on 6 July 1943 in front of 25,000 spectators.[^23]
 
 Beyond ceremonial events, the Japanese took a practical attitude towards the Padang. On 17 February 1942, shortly after the fall of Singapore, they used it as an assembly ground to hold and interrogate the European population – civilians and prisoners-of-war – before marching them off to internment camps in Changi and Katong.[^24] In 1944, the Padang was turned into a plot for planting tapioca as part of the Grow More Food Campaign which proved ultimately futile.[^25]
 
 After the British reimposed its authority on Singapore, it celebrated the end of the war with a grand surrender ceremony at the Municipal Building and a military parade at the Padang in September 1945. On 12 September 1945, before the surrender ceremony, Admiral Lord Louis Mountbatten, Supreme Allied Commander Southeast Asia, inspected the parade, “stopping here and there to talk to a British marine, a Dogra, a Punjabi, a British soldier and a French soldier”.[^26]
+
+![](/images/Vol%2018%20Issue%201/The%20Padang/image010.png)
+<div style="background-color: white;"> Admiral Lord Louis Mountbatten, Supreme Allied Commander Southeast Asia, addressing the crowd on the steps of the Municipal Building ahead of the Japanese Surrender Ceremony on 12 September 1945. <i>Kenneth Chia Collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **Of Contestation and Confrontation**
 
