@@ -5,7 +5,7 @@ description: ""
 ---
 #### **Vandana Aggarwal**  traces the origins of a venerable association for Indian women and the role it played in their lives.
 
-![](/images/The%20Kamala%20Club/02-Members-with-Mrs-Indira-Gandhi-at-the-Club-premisis-in-Balestier.png)
+![](/images/Vol%2018%20Issue%201/Kamala%20Club/02-Members-with-Mrs-Indira-Gandhi-at-the-Club-premisis-in-Balestier.png)
 <div style="background-color: white;">Committee members of the Lotus Club discussing a fundraising gala for the University of Malaya Fund, 1949.<i> Image reproduced from the Straits Times, 27 July 1949, 7. (From NewspaperSG).
 </i></div>
 
@@ -36,7 +36,7 @@ In the early years, the rivalry between the two clubs was keen. The Lotus Club c
 
 In a bid to play peacemaker, Lady Clementi proposed at the end of 1933 that the “Lotus Club and the Ladies’ Union be amalgamated, but at the meeting between the presidents and secretaries of the two institutions, the representatives of the Lotus Club said the proposal would not be approved by their club”.[^18]
 
-![](/images/The%20Kamala%20Club/Women%20in%20front%20of%20club%20house.png)
+![](/images/Vol%2018%20Issue%201/Kamala%20Club/Women%20in%20front%20of%20club%20house.png)
 <div style="background-color: white;"> Members of the Kamala Club at the old clubhouse in Balestier, 1950s. <i>Image reproduced from Vandana Aggarwal, Voice of Indian Women: The Kamala Club Singapore (Singapore: The Kamala Club, 2018), 53. (Available via PublicationSG).</i></div>
 
 The two clubs continued to consolidate their respective positions in society. While the Lotus Club used the facilities at the YWCA for its activities, the Ladies’ Union managed to secure “a piece of land on the Balestier plain, which ha[d] been levelled and enclosed by zinc sheets” in 1932. As the land was big enough to construct a clubhouse with tennis and badminton courts, the Ladies’ Union initiated a building fund for a new clubhouse.[^19] So as not to lose out, the Lotus Club also hoped to have “its own home” and started a building fund in 1934.[^20]
@@ -49,21 +49,21 @@ Events organised by these two clubs also created opportunities for women who pra
 
 Beyond social events like dinners and outings, the women became involved in charity work, and organised bazaars and funfairs to raise funds. In September 1933, proceeds from a charity sale held by the Ladies’ Union went to the Child Welfare Society and Leper Asylum.[^24] Similarly, the Lotus Club organised a fete in October that year that managed to raise $800. Half was put aside for the building fund and the other half used to help unemployed Indians in the community.[^25] In June 1935, the Lotus Club, together with the Indian Association, organised a charity concert at the Victoria Theatre in aid of the Quetta Relief Fund for an earthquake that devastated Quetta, in today’s Pakistan, in May of that year.[^26]
 
-![](/images/The%20Kamala%20Club/Lotus%20Club%20Members.png)
+![](/images/Vol%2018%20Issue%201/Kamala%20Club/Lotus%20Club%20Members.png)
 <div style="background-color: white;">Committee members of the Lotus Club discussing a fundraising gala for the University of Malaya Fund, 1949. <i>Image reproduced from the Straits Times, 27 July 1949, 7. (From NewspaperSG).
 </i></div>
 
-![](/images/The%20Kamala%20Club/straitstimes_19351110_0004.png)
+![](/images/Vol%2018%20Issue%201/Kamala%20Club/straitstimes_19351110_0004.png)
 <div style="background-color: white;">Members of the Ladies’ Union on the stage of Victoria Theatre after their variety performance in aid of the Jubilee Fund, 1935. This would have been unheard of 50 years ago as many women would still be practising purdah, the custom of female seclusion. <i>Image reproduced from the Straits Times, 10 November 1935, 4. (From NewspaperSG).</i></div>
 
 These women’s organisations also provided opportunities for cultural activities. In 1932, members of the Lotus Club came together to form an orchestra. The orchestra performed at the charity concert presented by the Lotus Club in aid of the Jubilee Fund in October 1935. The concert also included plays and dance performances by other club members.[^27] The Ladies’ Union organised its own variety show for the Jubilee Fund. Members performed songs in Telegu, Hindustani, Tamil and Hindi; presented dances; and put up sketches and plays. The women even took on the male roles in the plays.[^28]
 
 The clubs also organised educational talks that ran the gamut of subjects from childcare to the role of women at home and in society. Among the speakers was freedom fighter and future Prime Minister of India Jawaharlal Nehru, who visited Singapore in 1937. In his talk, he urged the members of the Ladies’ Union to be independent. “We want women with self-reliance, character and beauty, but we do not want dolls to play with,” he said. “A country is judged by the standard of its womenfolk. If they are backward and illiterate then their country is no good, no matter what their menfolk may be.”[^29]
 
-![](/images/The%20Kamala%20Club/Indira%20Gandhi.png)
+![](/images/Vol%2018%20Issue%201/Kamala%20Club/Indira%20Gandhi.png)
 <div style="background-color: white;">  When then Prime Minister of India Jawaharlal Nehru visited Singapore in June 1950, his daughter Indira Gandhi addressed a joint meeting of the Lotus Club and the Ladies’ Union, and spoke about the important role of women in society. <i>Image reproduced from “Women Met Mrs Gandhi,” Straits Times, 19 June 1950, 5. (From NewspaperSG).</i></div>
 
-![](/images/The%20Kamala%20Club/The%20lotus%20club%20and%20Lady%20union_Kamala%20Club%20pp36.png)
+![](/images/Vol%2018%20Issue%201/Kamala%20Club/The%20lotus%20club%20and%20Lady%20union_Kamala%20Club%20pp36.png)
 <div style="background-color: white;">The Lotus Club and the Ladies’ Union merged to form the Kamala Club in 1950, with Mrs Kizhakke Mukkapuzha Raman Menon (pictured) as its first president. The club was officially declared open on 21 May 1951.<i> Image reproduced from “Two S’pore Women’s Clubs Amalgamate,” Singapore Standard, 21 May 1951, 2. (From NewspaperSG).</i></div>
 
 Some women took Nehru’s advice to heart, especially in the post-war years. In 1948, Mrs Malathi Pillai of the Ladies’ Union and secretary of the Singapore Regional Indian Congress became the first woman to contest the Singapore Legislative Council election.[^30] Two years later, Mrs Mary Lobo of the Lotus Club was appointed a Justice of the Peace.[^31] In 1954, Mrs Lakshmi Naidu was awarded the Singapore Certificate of Honour for her voluntary work during and after the Japanese occupation.[^32] These Indian women, unlike their predecessors who led cloistered lives, were defining a new public role for themselves, and it is likely that their activities in the Ladies’ Union and the Lotus Club helped them prepare for a larger stage.
@@ -72,7 +72,7 @@ Some women took Nehru’s advice to heart, especially in the post-war years. In 
 
 The Lotus Club and the Ladies’ Union were dormant during the Japanese Occupation (1942–45) but when peace returned, the clubs once again resumed their social, cultural and fundraising activities. One of the highlights of the post-war era occurred in June 1950 when Nehru, by then the prime minister of newly independent India, visited Singapore again. During his visit, his daughter Indira Gandhi addressed a joint meeting of the two clubs and, citing her mother as an example, spoke about the important role of women in society. Nehru himself graced the occasion and addressed the women briefly.[^33]
 
-![](/images/The%20Kamala%20Club/Vijaya%20Lakshmi%20Pandit.png)
+![](/images/Vol%2018%20Issue%201/Kamala%20Club/Vijaya%20Lakshmi%20Pandit.png)
 <div style="background-color: white;">Then President of the United Nations General Assembly Vijaya Lakshmi Pandit addressing members of the Kamala Club, 1954. She was the first woman appointed to the post. She was also a sister of Prime Minister of India Jawaharlal Nehru. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 Gandhi’s talk at the joint meeting was a precursor to the eventual merger of the Ladies’ Union and the Lotus Club, which was decided on 17 October 1950.[^34] The motives were practical ones. “The harsh reality was that both the clubs were struggling with low membership, as many of the women had moved back to India after the war. The founding members were older, and to survive, the clubs had to merge into one unit.”[^35]
@@ -83,7 +83,7 @@ The Kamala Club was officially declared open on 21 May 1951 and since then, the 
 
 <div style="background-color: white;"> 
 <br>
-<img src="/images/The%20Kamala%20Club/Vandana_Aggarwal.png" style="width: 100px; height: 100px;" />
+<img src="/images/Vol%2018%20Issue%201/Kamala%20Club/Vandana_Aggarwal.png" style="width: 100px; height: 100px;" />
  <b>Vandana Aggarwal</b> is a teacher and a freelance journalist. An active citizen archivist for the National Archives of Singapore, she is the author of Voice of Indian Women: The Kamala Club <i>Singapore</i> (2018). She enjoys reading and researching about history.</div>
 
 #### **NOTES**
