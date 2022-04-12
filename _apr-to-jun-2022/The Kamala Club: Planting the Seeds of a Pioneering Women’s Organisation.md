@@ -106,11 +106,11 @@ The Kamala Club was officially declared open on 21 May 1951 and since then, the 
 
 [^9]:“[Indian Women’s Social](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19320203-1.2.25),”<i>Malaya Tribune</i>, 3 February 1932, 7. (From NewspaperSG)
 
-[^10]:MrsKizhakkeMukkapuzha Raman Menon, originally from Kerala, played an active part in club activities even after the clubs had merged and became the Kamala Club. Her husband K.M.R. Menon was a mathematics teacher at Raffles Institution.
+[^10]:Mrs Kizhakke Mukkapuzha Raman Menon, originally from Kerala, played an active part in club activities even after the clubs had merged and became the Kamala Club. Her husband K.M.R. Menon was a mathematics teacher at Raffles Institution.
 
 [^11]: Mrs K.M.R. Menon, “[Emancipation!](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19310418-1.2.9)” <i>Malaya Tribune</i>, 18 April 1931, 3. (From NewspaperSG)
 
-[^12]: MrsBridget Catherine Beatrice ChelvanathanHandy was a Sri Lankan and moved to Malaya at a young age. She had travelled extensively and was an advocate of women’s rights. Her husband, Dr J.M. Handy, was one of the first medical men to come from Jaffna, Sri Lanka, at the invitation of the British government in Singapore. He obtained his medical degree from Britain. 
+[^12]: Mrs Bridget Catherine Beatrice Chelvanathan Handy was a Sri Lankan and moved to Malaya at a young age. She had travelled extensively and was an advocate of women’s rights. Her husband, Dr J.M. Handy, was one of the first medical men to come from Jaffna, Sri Lanka, at the invitation of the British government in Singapore. He obtained his medical degree from Britain. 
 
 [^13]:“[Indian and Ceylonese Ladies](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19310603-1.2.110),”<i>Singapore Free Press and Mercantile Advertiser</i>, 3 June 1931, 12. (From NewspaperSG)
 
