@@ -28,13 +28,14 @@ sections:
         2.png"
       alt: Curry rendang devagi sanmugam
   - infopic:
-      title: Cartography and the Rise of Colonial Empires in Asia
+      title: Printed on Rubber Latex Paper
       subtitle: HIGHLIGHTS
-      description: Chia Jie Lin highlights interesting cartographic efforts from the
-        National Library’s latest exhibition on Asian maps.
+      description: An innovation patented in 1920 produced paper that was more
+        durable, had greater tensile strength and was resistant to folding. Alex
+        Teoh has the details.
       button: Read more
       url: /vol-17/issue-4/jan-to-mar-2022/asia-maps-cartography
-      image: /images/vol-17-issue-4/C-Highlight.jpg
+      image: /images/Vol 18 Issue 1/Highlight1_edit.png
       alt: cartography
   - infopic:
       title: The Final Hours of the Empress of Asia
