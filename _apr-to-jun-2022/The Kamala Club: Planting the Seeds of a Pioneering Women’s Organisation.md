@@ -136,11 +136,11 @@ The Kamala Club was officially declared open on 21 May 1951 and since then, the 
 
 [^24]:“[For Charity](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19330828-1.2.85),” <i>Straits Times</i>, 28 August 1933, 12. (From NewspaperSG)
 
-[^25]:“[Lotus Club](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19340208-1.2.20),” <i>Singapore Free Press and Mercantile Advertiser</i>, 8 February 1934, 3. (From NewspaperSG
+[^25]:“[Lotus Club](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19340208-1.2.20),” <i>Singapore Free Press and Mercantile Advertiser</i>, 8 February 1934, 3. (From NewspaperSG)
 
 [^26]:“[Amateur Talent at Victoria Theatre](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19350629-1.2.80),” <i>Straits Times</i>, 29 June 1935, 15. (From NewsppaerSG)
 
-[^27]:“J[ubilee Fund](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19351007-1.2.133),” <i>Malaya Tribune</i>, 7 October 1935, 18. (From NewspaperSG)
+[^27]:“[Jubilee Fund](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19351007-1.2.133),” <i>Malaya Tribune</i>, 7 October 1935, 18. (From NewspaperSG)
 
 [^28]:“[Variety Show for Jubilee Fund](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19351026-1.2.114.4),” <i>Straits Times</i>, 26 October 1935, 17. (From NewspaperSG)
 
