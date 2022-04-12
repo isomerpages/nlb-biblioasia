@@ -124,7 +124,7 @@ The Kamala Club was officially declared open on 21 May 1951 and since then, the 
 
 [^18]: “[The Ladies Union](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19340310-1.2.94),” <i>Malaya Tribune</i>, 10 March 1934, 13. (From NewspaperSG)
 
-[^19]: "[Ladies’ Union](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19330408-1.2.38)"
+[^19]: "[Ladies’ Union](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19330408-1.2.38)."
 
 [^20]:[The Lotus Club](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19341213-1.2.148),” <i>Malaya Tribune</i>, 13 December 1934, 16. (From NewspaperSG)
 
