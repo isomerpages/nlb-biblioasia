@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: ""
           description: Orchids, wet markets and babies. Find out more in this issue!
-          url: /vol-17/issue-4/jan-mar-2022/
+          url: /vol-18/issue-1/apr-jun-2022/
       button: Read the current issue
       url: /vol-18/issue-1/apr-jun-2022/
   - infopic:
