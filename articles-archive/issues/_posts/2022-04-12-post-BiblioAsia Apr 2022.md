@@ -14,8 +14,8 @@ A new type of paper produced in the 1920s did not take off despite attempts to p
 <a style="text-decoration: none; font-weight: bold;" href="/apr-to-jun-2022/vol-18/issue-1/rubber-latex-paper">Printed on Rubber Latex Paper</a><br>An innovation patented in 1920 produced paper that was more durable, had greater tensile strength and was
 resistant to folding. *Alex Teoh* has the details.
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/empress-asia">The Final Hours of the Empress of Asia
-</a><br>*Dan Black* recounts the final hours of this troopshipas she sank near Sultan Shoal Lighthouse off Tuas in February 1942. 
+<a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/empress-asia">Flower Power: Singapore’s Orchid Diplomacy
+</a><br>Singapore names orchid hybrids after foreign dignitaries and important guests to the Singapore Botanic Gardens. *Rebecca Tan* tells us more.
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/jurong-drive-in-cinema">Movies Beneath a Starry, Starry Night
 </a><br>In the 1970s, Jurong Drive-in Cinema drew in the crowds, at least while the novelty lasted. *Sharon Teng* reminisces its glory days. 
