@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/vol-17-issue-4/Hero%20Banner.jpg
+      background: /images/Vol 18 Issue 1/Herobanner.png
       key_highlights:
         - title: ""
           description: Orchids, wet markets and babies. Find out more in this issue!
