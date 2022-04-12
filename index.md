@@ -52,9 +52,8 @@ sections:
       subtitle: highlights
       button: Read more
       url: /vol-17/issue-4/jan-to-mar-2022/early-years-substation
-      image: /images/vol-17-issue-4/substation/substation.png
-      description: The development of the arts in Singapore is unimaginable without
-        this arts centre. Key individuals from its early history tell Clarissa
-        Oon how it got started.
+      image: /images/Vol 18 Issue 1/Highlight3.png
+      description: Wet markets have existed in Singapore since 1825, Zoe Yeo looks at
+        how these markets have changed over time.
       alt: substation
 ---
