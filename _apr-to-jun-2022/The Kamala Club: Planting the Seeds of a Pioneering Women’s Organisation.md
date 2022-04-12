@@ -97,9 +97,9 @@ src="=![](/images/The%20Kamala%20Club/Vandana%20Aggarwal.jpg)" style="width: 100
 
 [^4]: [Singapore Y.W.C.A.](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19301115-1.2.81),”<i>Malaya Tribune</i>, 15 November 1930, 14. (From NewspaperSG)
 
-[^5]:“https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19310724-1.2.87,” <i>Malaya Tribune</i>, 24 July 1931, 13. (From NewspaperSG)
+[^5]: “[Work of Y.W.C.A. in Singapore](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19310724-1.2.87),” <i>Malaya Tribune</i>, 24 July 1931, 13. (From NewspaperSG)
 
-[^6]:("https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19310724-1.2.87")
+[^6]: “[Work of Y.W.C.A. in Singapore](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19310724-1.2.87).”
 
 [^7]:"http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19310730-1.2.69,” <i>Malaya Tribune</i>, 30 July 1931, 9. (FromNewspaperSG)[Mirza Mohammed Ali Namazie was a Persian businessman who commissioned and financed the Capitol Theatre.RajabaliJumabhoy was a prominent businessman and one of the founders of the Indian Association; he was also a member of the Legislative Assembly.] 
 
