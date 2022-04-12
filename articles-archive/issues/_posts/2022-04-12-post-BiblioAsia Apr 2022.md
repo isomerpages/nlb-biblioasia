@@ -7,7 +7,7 @@ description: ""
 ---
 A new type of paper produced in the 1920s did not take off despite attempts to promote it. In this cover story, read about rubber latex paper, which was more durable, had greater tensile strength and was resistant to folding.
 
-<img src="/images/vol-17-issue-4/cover-vol17-issue4.jpg">
+<img src="/images/Vol%2018%20Issue%201/cover.png">
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/director-note">Director's Note</a>
 
