@@ -17,8 +17,8 @@ resistant to folding. *Alex Teoh* has the details.
 <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/empress-asia">Flower Power: Singapore’s Orchid Diplomacy
 </a><br>Singapore names orchid hybrids after foreign dignitaries and important guests to the Singapore Botanic Gardens. *Rebecca Tan* tells us more.
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/jurong-drive-in-cinema">Movies Beneath a Starry, Starry Night
-</a><br>In the 1970s, Jurong Drive-in Cinema drew in the crowds, at least while the novelty lasted. *Sharon Teng* reminisces its glory days. 
+<a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/jurong-drive-in-cinema">The Orang Seletar: Rowing Across Changing Tides
+</a><br>Singapore was once a home to the seafaring Orang Seletar who now reside in Johor Bahru. *Ilya Katrinnada* takes them on a tour around Singapore. 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-mar-2022/diardduvaucel">French Impressions: 19th-century Natural History Drawings of Singapore and Southeast Asia
 </a><br>Illustrations commissioned by two French naturalists between 1818 and 1820 provide fascinating insights into the region's flora and fauna. 
