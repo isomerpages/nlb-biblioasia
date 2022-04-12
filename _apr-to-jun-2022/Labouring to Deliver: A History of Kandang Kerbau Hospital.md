@@ -56,7 +56,7 @@ Construction of the new extension began in 1953, but births continued to climb s
 A number of measures were introduced in the 1950s to ease the hospital’s burden. In 1950, the length of hospital stay for each patient was reduced from 10–12 days to three days. Midwives from the hospital’s Domiciliary Aftercare Service, introduced in 1954, visited mothers who had been discharged 24 hours after confinement, and their babies, at home. They would report any abnormality to the hospital for follow-up action.[^19] 
 
 ![](/images/Vol%2018%20Issue%201/KKH%20Hospital/19980001317%20IMG0025.png)
-<div style="background-color: white;"> A midwife conducting a home visit to provide post-natal care, 1957. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;"> A midwife conducting a home visit to provide postnatal care, 1957. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 In October 1953, then Governor of Singapore John Nicoll endorsed the idea of home births.[^20] Under this policy, women with a normal prenatal examination could give birth at home if their home environment was conducive, and the Domiciliary Delivery Service was introduced in 1955 for this purpose.[^21] Women who had received prenatal care at the hospital were offered the choice of home delivery. Staff then visited the women’s home to assess its suitability for home birthing.[^22]
 
