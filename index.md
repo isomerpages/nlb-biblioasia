@@ -30,9 +30,9 @@ sections:
   - infopic:
       title: "Flower Power: Singapore’s Orchid Diplomacy"
       subtitle: HIGHLIGHTS
-      description: An innovation patented in 1920 produced paper that was more
-        durable, had greater tensile strength and was resistant to folding. Alex
-        Teoh has the details.
+      description: Singapore’s diplomatic efforts may take several forms, including
+        naming orchid hybrids after foreign dignitaries. Rebecca Tan tells us
+        more.
       button: Read more
       url: /vol-17/issue-4/jan-to-mar-2022/asia-maps-cartography
       image: /images/Vol 18 Issue 1/Highlight2.png
