@@ -84,7 +84,7 @@ The Kamala Club was officially declared open on 21 May 1951 and since then, the 
 <div style="background-color: white;">
 <br/>
 <img
-src="=![](/images/The%20Kamala%20Club/Vandana%20Aggarwal.jpg)" style="width: 100px; height: 100px;"/>
+src=![](/images/The%20Kamala%20Club/Vandana%20Aggarwal.jpg) style="width: 100px; height: 100px;"/>
  <b>Vandana Aggarwal</b> is a teacher and a freelance journalist. An active citizen archivist for the National Archives of Singapore, she is the author of Voice of Indian Women: The Kamala Club <i>Singapore</i> (2018). She enjoys reading and researching about history.</div>
 
 #### **NOTES**
