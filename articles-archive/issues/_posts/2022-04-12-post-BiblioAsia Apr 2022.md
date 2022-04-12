@@ -31,6 +31,6 @@ resistant to folding. *Alex Teoh* has the details.
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/towkays-houses">No Longer “Dirty, Unhygienic, Crowded and Messy”: The Story of Singapore’s Changing Wet Markets</a><br>First established in Singapore in 1825, *Zoe Yeo* looks at how wet markets have evolved over time.
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/siti-radhiah-cookbooks">Siti Radhiah’s Cookbooks for the Modern Malay Woman</a><br>*Toffa Abdul Wahed* pores through Siti Radhiah's cookbooks published in the 1940s and 50s to uncover their contributions to traditional Malay gastronomy and identity. 
+<a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/siti-radhiah-cookbooks">Labouring to Deliver: A History of Kandang Kerbau Hospital</a><br>The old Kandang Kerbau Hospital was once known as the busiest maternity hospital in the world. *Joanna Tan* delivers the story behind a hallowed Singapore institution.
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/tree-planting-day">The Blossoming of Tree Planting Day</a><br>Tree Planting Day began with the first rain tree sapling planted by acting Prime Minister Goh Keng Swee in November 1971. *Lim Tin Seng* traces the roots of this annual event.
+<a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/tree-planting-day">Cinema Pioneer Tan Cheng Kee</a><br>*Barbara Quek* looks at the man behind the former Alhambra and Marlborough theatres, which were once landmarks on Beach Road.
