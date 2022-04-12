@@ -90,7 +90,7 @@ The Kamala Club was officially declared open on 21 May 1951 and since then, the 
 
 [^1]: [Indian And Ceylonese Ladies](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19310603-1.2.110), <i>Singapore Free Press and Mercantile Advertiser</i>, 3 June 1931, 12. (From NewspaperSG)
 
-[^2]:At the time, Indian women were referred to by their husband’s name. MrsEdward Vethanayagam Davies moved to Singapore after her marriage in 1925. She was an educator, social worker and advocate of women’s rights. Apart from the Lotus Club, she was also a founding member of the Inner Wheel Club of Singapore and was closely involved in the establishment of the Singapore Council of Women where she served in its executive council.   Mrs Davies was posthumously inducted into the Singapore Women's Hall of Fame in 2014. 
+[^2]:At the time, Indian women were referred to by their husband’s name. Mrs Edward Vethanayagam Davies moved to Singapore after her marriage in 1925. She was an educator, social worker and advocate of women’s rights. Apart from the Lotus Club, she was also a founding member of the Inner Wheel Club of Singapore and was closely involved in the establishment of the Singapore Council of Women where she served in its executive council.   Mrs Davies was posthumously inducted into the Singapore Women's Hall of Fame in 2014. 
 
 [^3]: Not to be confused with Mrs Ellice Handy, MrsJohn Truman Navaratnam Handy was a socially active Ceylonese lady of Tamil descent.
 
