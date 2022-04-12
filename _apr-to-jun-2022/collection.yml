@@ -2,6 +2,7 @@ collections:
   apr-to-jun-2022:
     output: true
     order:
+      - Director's Note.md
       - Printed on Rubber Latex Paper.md
       - "Flower Power: Singapore's Orchid Diplomacy.md"
       - "The Orang Seletar: Rowing Across Changing Tides.md"
