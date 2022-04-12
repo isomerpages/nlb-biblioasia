@@ -135,32 +135,32 @@ src="=![](/images/The%20Kamala%20Club/Vandana%20Aggarwal.jpg)" style="width: 100
 
 [^23]:“[Lotus Club](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19350513-1.2.95),” <i>Straits Times</i>, 13 May 1935, 12. (From NewspaperSG)
 
-[^24]:“https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19350513-1.2.95,” <i>Straits Times</i>, 28 August 1933, 12. (From NewspaperSG)
+[^24]:“[For Charity](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19330828-1.2.85),” <i>Straits Times</i>, 28 August 1933, 12. (From NewspaperSG)
 
-[^25]:“http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19340208-1.2.20,” <i>Singapore Free Press and Mercantile Advertiser</i>, 8 February 1934, 3. (From NewspaperSG
+[^25]:“[Lotus Club](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19340208-1.2.20),” <i>Singapore Free Press and Mercantile Advertiser</i>, 8 February 1934, 3. (From NewspaperSG
 
-[^26]:“http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19350629-1.2.80,” <i>Straits Times</i>, 29 June 1935, 15. (From NewsppaerSG)
+[^26]:“[Amateur Talent at Victoria Theatre](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19350629-1.2.80),” <i>Straits Times</i>, 29 June 1935, 15. (From NewsppaerSG)
 
-[^27]:“http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19351007-1.2.133,” <i>Malaya Tribune</i>, 7 October 1935, 18. (From NewspaperSG)
+[^27]:“J[ubilee Fund](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19351007-1.2.133),” <i>Malaya Tribune</i>, 7 October 1935, 18. (From NewspaperSG)
 
-[^28]:“https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19351026-1.2.114.4,” <i>Straits Times</i>, 26 October 1935, 17. (From NewspaperSG)
+[^28]:“[Variety Show for Jubilee Fund](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19351026-1.2.114.4),” <i>Straits Times</i>, 26 October 1935, 17. (From NewspaperSG)
 
-[^29]:“'http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19370529-1.2.62," <i>Singapore Free Press and Mercantile Advertiser</i>,29 May 1937, p. 6. (From NewspaperSG)
+[^29]:“['A Country is Judged by Its Women Folk’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19370529-1.2.62)," <i>Singapore Free Press and Mercantile Advertiser</i>,29 May 1937, p. 6. (From NewspaperSG)
 
-[^30]:“http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19480122-1.2.3,” <i>Straits Times</i>, 22 January 1948, 1. (From NewspaperSG)
+[^30]:“[Indian Quit Congress for Polls](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19480122-1.2.3),” <i>Straits Times</i>, 22 January 1948, 1. (From NewspaperSG)
 
-[^31]:“http://eresources.nlb.gov.sg/newspapers/Digitised/Article/indiandailymail19500407-1.2.69,” <i>Indian Daily Mail</i>, 7 April 1950, 4. (From NewspaperSG)
+[^31]:“[Mrs. Mary Lobo Appointed J.P.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/indiandailymail19500407-1.2.69),” <i>Indian Daily Mail</i>, 7 April 1950, 4. (From NewspaperSG)
 
-[^32]:https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19540610-1.2.6,” <i>Straits Times</i>, 10 June 1954, 1. (From NewspaperSG)
+[^32]:[Singapore](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19540610-1.2.6),” <i>Straits Times</i>, 10 June 1954, 1. (From NewspaperSG)
 
-[^33]:“http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19500619-1.2.50” <i>Straits Times</i>, 19 June 1950, 5. (From NewspaperSG)
+[^33]:“[Women Met Mrs Gandhi](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19500619-1.2.50)” <i>Straits Times</i>, 19 June 1950, 5. (From NewspaperSG)
 
-[^34]:“http://eresources.nlb.gov.sg/newspapers/Digitised/Article/indiandailymail19501020-1.2.41,” <i>Indian Daily Mail</i>, 20 October 1950, 4. (From NewspaperSG)
+[^34]:“[Kamala Club Formed](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/indiandailymail19501020-1.2.41),” <i>Indian Daily Mail</i>, 20 October 1950, 4. (From NewspaperSG)
 
-[^35]:  Vandana Aggarwal, https://eservice.nlb.gov.sg/item_holding.aspx?bid=204115041 (Singapore: The Kamala Club, 2018), 29. (Available via PublicationSG) 
+[^35]:  Vandana Aggarwal, <i>[Voice of Indian Women: The Kamala Club Singapore]</i>(https://eservice.nlb.gov.sg/item_holding.aspx?bid=204115041) (Singapore: The Kamala Club, 2018), 29. (Available via PublicationSG) 
 
-[^36]:“https://eresources.nlb.gov.sg/newspapers/Digitised/Article/indiandailymail19500619-1.2.4,” Indian Daily Mail, 19 June 1950, 1. (From NewspaperSG)
+[^36]:“[Singapore Women Entertain Mrs Indira Gandhi](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/indiandailymail19500619-1.2.4),” Indian Daily Mail, 19 June 1950, 1. (From NewspaperSG)
 
-[^37]:Aggarwal, https://eservice.nlb.gov.sg/item_holding.aspx?bid=204115041, 30
+[^37]:Aggarwal, <i>[Voice of Indian Women](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204115041)</i>, 30
 
-[^38]:“http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19510521-1.2.24,”Singapore Standard, 21 May 1951, 2. (From NewspaperSG)
+[^38]:“[Two S'pore Women's Clubs Amalgamate](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19510521-1.2.24),” Singapore Standard, 21 May 1951, 2. (From NewspaperSG)
