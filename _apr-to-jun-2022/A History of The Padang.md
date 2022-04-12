@@ -52,14 +52,14 @@ Hotel de l’Europe was demolished in 1900 and rebuilt as Grand Hotel de l’Eur
 
 The Padang’s formal appearance was aided by its enlargement in 1859, its encirclement by Connaught Drive and St Andrew’s Road, and its framing by the Singapore Cricket Club on one end and the Singapore Recreation Club on the other. However, it was not until the late 1930s – with the completion of the Municipal Building in 1929 and the Supreme Court in 1939 – that the Padang and its surrounds became a symbol of British colonial power. This transformation took half a century.
 
-![](/images/Vol%2018%20Issue%201/The%20Padang/image010.png)
-<div style="background-color: white;"> Admiral Lord Louis Mountbatten, Supreme Allied Commander Southeast Asia, addressing the crowd on the steps of the Municipal Building ahead of the Japanese Surrender Ceremony on 12 September 1945. <i>Kenneth Chia Collection, courtesy of National Archives of Singapore.</i></div>
-
 In the years leading up 1939, the Padang bore witness to many events and installations that reinforced its significance as a civic centre and symbol of colonial authority. Probably the most significant was the celebration of the Golden Jubilee of Queen Victoria’s reign on 27 and 28 June 1887, which included a carefully planned and precisely executed military pageantry followed by sporting events, religious services, processions, and culminating in a grand ball at Government House (now Istana) on 28 June.[^18]
 
 The highlight of the day’s events on 27 June was the unveiling of Raffles’ statue by then Governor of the Straits Settlements Frederick Weld to serve as “a permanent memorial of the Jubilee”. Located at the “centre of the sea side” of the Esplanade,[^19] the eight-foot-tall (2.4 m) bronze statue was cast by famed British sculptor-cum-poet Thomas Woolner who had “carte blanche” for its construction. (Frequently, and somewhat ingloriously, hit by stray footballs during matches, the statue was eventually moved from the Esplanade to Empress Place on 6 February 1919 as part of Singapore’s centenary celebrations.[^20]) 
 
 After the British surrendered to the Japanese on 15 February 1942, the Padang became the site for the display of Japanese imperial power.[^21] The Municipal Building was commandeered by the Syonan Tokubetsu-si (Municipal Administration) as the headquarters of the civil administration. During the Japanese Occupation, the Padang continued to serve as a parade and ceremonial ground. 
+
+![](/images/Vol%2018%20Issue%201/The%20Padang/image010.png)
+<div style="background-color: white;"> Admiral Lord Louis Mountbatten, Supreme Allied Commander Southeast Asia, addressing the crowd on the steps of the Municipal Building ahead of the Japanese Surrender Ceremony on 12 September 1945. <i>Kenneth Chia Collection, courtesy of National Archives of Singapore.</i></div>
 
 The official programme for the Tentyo-Setu (Emperor’s birthday) published on 28 April 1942 reported that “schoolboys will march to the Municipal Building; and that at 11 am, Mayor Shigeo Odate will appear on the balcony of the building to shout three ‘Banzais’ and make a speech”.[^22] In a public display of comity with Indian nationalism, Japanese Prime Minister Tojo Hideki and Indian National Army (INA) leader Subhas Chandra Bose reviewed a parade mounted by INA troops on 6 July 1943 in front of 25,000 spectators.[^23]
 
