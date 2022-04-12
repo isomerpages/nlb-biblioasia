@@ -29,7 +29,7 @@ resistant to folding. *Alex Teoh* has the details.
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/wong-din-haan">The Kamala Club: Planting the Seeds of a Pioneering Women’s Organisation</a><br>*Vandana Aggarwal* traces the origins of a venerable association for Indian women and the role it played in their lives.
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/towkays-houses">Towkays at Home</a><br>Mandalay Villa, House of Jade and House of Teo Hoo Lye were owned by prominent members of the Singapore community in the early 20th century. *Yap Jo Lin* takes us on a whirlwind tour.
+<a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/towkays-houses">No Longer “Dirty, Unhygienic, Crowded and Messy”: The Story of Singapore’s Changing Wet Markets</a><br>First established in Singapore in 1825, *Zoe Yeo* looks at how wet markets have evolved over time.
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/siti-radhiah-cookbooks">Siti Radhiah’s Cookbooks for the Modern Malay Woman</a><br>*Toffa Abdul Wahed* pores through Siti Radhiah's cookbooks published in the 1940s and 50s to uncover their contributions to traditional Malay gastronomy and identity. 
 
