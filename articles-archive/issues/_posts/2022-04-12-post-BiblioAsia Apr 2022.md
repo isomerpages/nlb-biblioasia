@@ -30,6 +30,6 @@ resistant to folding. *Alex Teoh* has the details.
 
 <a style="text-decoration: none; font-weight: bold;" href="/apr-to-jun-2022/vol-18/issue-1/cinema-pioneer-tan-cheng-kee">Cinema Pioneer Tan Cheng Kee</a><br>*Barbara Quek* looks at the man behind the former Alhambra and Marlborough theatres, which were once landmarks on Beach Road.
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/tree-planting-day">We Are What We Eat: The Evolution of Chinese Food in Singapore</a><br>Chinese food in Singapore is a product of the country’s history and geography, reveals *Low Sze Wee*.
+<a style="text-decoration: none; font-weight: bold;" href="/apr-to-jun-2022/vol-18/issue-1/evolution-chinese-food-singapore">We Are What We Eat: The Evolution of Chinese Food in Singapore</a><br>Chinese food in Singapore is a product of the country’s history and geography, reveals *Low Sze Wee*.
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/tree-planting-day">Living in Harmony: The History of Opera Estate</a><br>Opera Estate was once a coconut and rubber plantation. *Asrina Tanuri* traces its history.
