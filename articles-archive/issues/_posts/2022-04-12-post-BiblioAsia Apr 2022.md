@@ -20,7 +20,7 @@ resistant to folding. *Alex Teoh* has the details.
 <a style="text-decoration: none; font-weight: bold;" href="/apr-to-jun-2022/vol-18/issue-1/orang-seletar-changing-tides">The Orang Seletar: Rowing Across Changing Tides
 </a><br>Singapore was once a home to the seafaring Orang Seletar who now reside in Johor Bahru. *Ilya Katrinnada* takes them on a tour around Singapore. 
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/pulau-lingga">A History of the Padang</a><br>A 4.3-hectare patch of green stands in front of the former City Hall building. *Kevin Tan* tells us why it is so special.
+<a style="text-decoration: none; font-weight: bold;" href="/apr-to-jun-2022/vol-18/issue-1/history-padang">A History of the Padang</a><br>A 4.3-hectare patch of green stands in front of the former City Hall building. *Kevin Tan* tells us why it is so special.
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/wong-din-haan">The Kamala Club: Planting the Seeds of a Pioneering Women’s Organisation</a><br>*Vandana Aggarwal* traces the origins of a venerable association for Indian women and the role it played in their lives.
 
