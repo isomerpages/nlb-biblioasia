@@ -125,15 +125,15 @@ src="=![](/images/The%20Kamala%20Club/Vandana%20Aggarwal.jpg)" style="width: 100
 
 [^18]: “[The Ladies Union](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19340310-1.2.94),” <i>Malaya Tribune</i>, 10 March 1934, 13. (From NewspaperSG)
 
-[^19]: "https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19330408-1.2.38"
+[^19]: "[Ladies’ Union](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19330408-1.2.38)"
 
-[^20]:https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19341213-1.2.148,” <i>Malaya Tribune</i>, 13 December 1934, 16. (From NewspaperSG)
+[^20]:[The Lotus Club](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19341213-1.2.148),” <i>Malaya Tribune</i>, 13 December 1934, 16. (From NewspaperSG)
 
-[^21]:https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/e1c7a592-115d-11e3-83d5-0050568939ad, oral history interview by Tan Beng Luan, 24 February 1982, transcript and MP3 audio, Reel/Disc 9 of 11. (From National Archives of Singapore, Accession no. 000110)
+[^21]:[Mrs Lakshmi Naidu](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/e1c7a592-115d-11e3-83d5-0050568939ad), oral history interview by Tan Beng Luan, 24 February 1982, transcript and MP3 audio, Reel/Disc 9 of 11. (From National Archives of Singapore, Accession no. 000110)
 
 [^22]: Britannica, The Editors of Encyclopaedia, “purdah,” <i>Encyclopedia Britannica</i>, 9 May 2008, https://www.britannica.com/topic/purdah.
 
-[^23]:“https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19350513-1.2.95,” <i>Straits Times</i>, 13 May 1935, 12. (From NewspaperSG)
+[^23]:“[Lotus Club](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19350513-1.2.95),” <i>Straits Times</i>, 13 May 1935, 12. (From NewspaperSG)
 
 [^24]:“https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19350513-1.2.95,” <i>Straits Times</i>, 28 August 1933, 12. (From NewspaperSG)
 
