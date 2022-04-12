@@ -81,10 +81,10 @@ The new club was named Kamala Club, ostensibly at the wish of Nehru, after his l
 
 The Kamala Club was officially declared open on 21 May 1951 and since then, the club has helped countless Indian women develop warm friendships with other like-minded women.[^38] Its members continue to work together to make a difference. Like the lotus flower it is named after, the Kamala Club has blossomed and remains relevant today.
 
-<div style="background-color: white;">
-<br/>
-<img
-src=![](/images/The%20Kamala%20Club/Vandana%20Aggarwal.jpg) style="width: 100px; height: 100px;"/>
+<div style="background-color: white;"> 
+<br>
+<img src="/images/The%20Kamala%20Club/VandanaAggarwal.jpg"
+style="width: 100px; height: 100px;" />
  <b>Vandana Aggarwal</b> is a teacher and a freelance journalist. An active citizen archivist for the National Archives of Singapore, she is the author of Voice of Indian Women: The Kamala Club <i>Singapore</i> (2018). She enjoys reading and researching about history.</div>
 
 #### **NOTES**
