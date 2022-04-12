@@ -28,14 +28,14 @@ sections:
         2.png"
       alt: Curry rendang devagi sanmugam
   - infopic:
-      title: Printed on Rubber Latex Paper
+      title: "Flower Power: Singapore’s Orchid Diplomacy"
       subtitle: HIGHLIGHTS
       description: An innovation patented in 1920 produced paper that was more
         durable, had greater tensile strength and was resistant to folding. Alex
         Teoh has the details.
       button: Read more
       url: /vol-17/issue-4/jan-to-mar-2022/asia-maps-cartography
-      image: /images/Vol 18 Issue 1/Highlight1_edit.png
+      image: /images/Vol 18 Issue 1/Highlight2.png
       alt: cartography
   - infopic:
       title: The Final Hours of the Empress of Asia
