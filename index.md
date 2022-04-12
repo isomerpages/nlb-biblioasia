@@ -48,7 +48,7 @@ sections:
         days.
       alt: the Asia
   - infopic:
-      title: "In Their Own Words: The Early Years of The Substation"
+      title: The Story of Singapore’s Changing Wet Markets
       subtitle: highlights
       button: Read more
       url: /vol-17/issue-4/jan-to-mar-2022/early-years-substation
