@@ -162,4 +162,4 @@ The Kamala Club was officially declared open on 21 May 1951 and since then, the 
 
 [^37]:Aggarwal, <i>[Voice of Indian Women](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204115041)</i>, 30
 
-[^38]:“[Two S'pore Women's Clubs Amalgamate](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19510521-1.2.24),” Singapore Standard, 21 May 1951, 2. (From NewspaperSG)
+[^38]:“[Two S'pore Women's Clubs Amalgamate](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19510521-1.2.24),” <i>Singapore Standard</i>, 21 May 1951, 2. (From NewspaperSG)
