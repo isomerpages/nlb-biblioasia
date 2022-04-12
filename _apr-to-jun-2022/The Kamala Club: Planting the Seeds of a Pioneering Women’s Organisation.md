@@ -152,11 +152,11 @@ The Kamala Club was officially declared open on 21 May 1951 and since then, the 
 
 [^32]:[Singapore](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19540610-1.2.6),” <i>Straits Times</i>, 10 June 1954, 1. (From NewspaperSG)
 
-[^33]:“[Women Met Mrs Gandhi](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19500619-1.2.50)”, <i>Straits Times</i>, 19 June 1950, 5. (From NewspaperSG)
+[^33]:“[Women Met Mrs Gandhi](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19500619-1.2.50),” <i>Straits Times</i>, 19 June 1950, 5. (From NewspaperSG)
 
 [^34]:“[Kamala Club Formed](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/indiandailymail19501020-1.2.41),” <i>Indian Daily Mail</i>, 20 October 1950, 4. (From NewspaperSG)
 
-[^35]:[Vandana Aggarwal, <i>[Voice of Indian Women: The Kamala Club Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204115041)</i> (Singapore: The Kamala Club, 2018), 29. (Available via PublicationSG) 
+[^35]:Vandana Aggarwal, <i>[Voice of Indian Women: The Kamala Club Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204115041)</i> (Singapore: The Kamala Club, 2018), 29. (Available via PublicationSG) 
 
 [^36]:“[Singapore Women Entertain Mrs Indira Gandhi](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/indiandailymail19500619-1.2.4),” <i>Indian Daily Mail</i>, 19 June 1950, 1. (From NewspaperSG)
 
