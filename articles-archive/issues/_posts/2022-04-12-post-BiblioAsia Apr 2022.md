@@ -5,7 +5,7 @@ date: 2022-04-12
 layout: post
 description: ""
 ---
-Since time immemorial, maps have been used as tools to explore the world and conquer new territories. This issue’s cover story showcases a number of Asian maps from the National Library’s latest exhibition.
+A new type of paper produced in the 1920s did not take off despite attempts to promote it. In this cover story, read about rubber latex paper, which was more durable, had greater tensile strength and was resistant to folding.
 
 <img src="/images/vol-17-issue-4/cover-vol17-issue4.jpg">
 
