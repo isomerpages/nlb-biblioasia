@@ -28,6 +28,16 @@ sections:
         2.png"
       alt: Curry rendang devagi sanmugam
   - infopic:
+      title: Printed on Rubber Latex Paper
+      subtitle: highlights
+      button: Read more
+      url: /apr-to-jun-2022/vol-18/issue-1/rubber-latex-paper
+      image: /images/Vol 18 Issue 1/Highlight1_edit.png
+      description: An innovation patented in 1920 produced paper that was more
+        durable, had greater tensile strength and was resistant to folding. Alex
+        Teoh has the details.
+      alt: the Asia
+  - infopic:
       title: "Flower Power: Singapore’s Orchid Diplomacy"
       subtitle: HIGHLIGHTS
       description: Singapore’s diplomatic efforts may take several forms, including
@@ -37,16 +47,6 @@ sections:
       url: /apr-to-jun-2022/vol-18/issue-1/singapore-orchid-diplomacy
       image: /images/Vol 18 Issue 1/Highlight2.png
       alt: cartography
-  - infopic:
-      title: The Final Hours of the Empress of Asia
-      subtitle: highlights
-      button: Read more
-      url: /vol-17/issue-4/jan-to-mar-2022/empress-asia
-      image: /images/vol-17-issue-4/empress-of-asia/1_Smoke_CP.jpg
-      description: The Empress of Asia sank off Tuas in February 1942 while carrying
-        troops to fight off the Japanese invasion. Dan Black recounts her last
-        days.
-      alt: the Asia
   - infopic:
       title: The Story of Singapore’s Changing Wet Markets
       subtitle: highlights
