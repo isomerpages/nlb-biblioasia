@@ -112,7 +112,7 @@ The Kamala Club was officially declared open on 21 May 1951 and since then, the 
 
 [^12]: Mrs Bridget Catherine Beatrice Chelvanathan Handy was a Sri Lankan and moved to Malaya at a young age. She had travelled extensively and was an advocate of women’s rights. Her husband, Dr J.M. Handy, was one of the first medical men to come from Jaffna, Sri Lanka, at the invitation of the British government in Singapore. He obtained his medical degree from Britain. 
 
-[^13]:“[Indian and Ceylonese Ladies](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19310603-1.2.110),”<i>Singapore Free Press and Mercantile Advertiser</i>, 3 June 1931, 12. (From NewspaperSG)
+[^13]:“[Indian and Ceylonese Ladies](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19310603-1.2.110),”
 
 [^14]:[Mrs Lakshmi Naidu](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/e1c7a592-115d-11e3-83d5-0050568939ad), oral history interview by Tan Beng Luan, 17 December 1981, transcript and MP3 audio, Reel/Disc 8 of 11. (From National Archives of Singapore, Accession no. 000110)
 
