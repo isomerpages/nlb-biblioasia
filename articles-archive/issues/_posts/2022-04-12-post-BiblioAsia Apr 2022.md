@@ -9,11 +9,10 @@ A new type of paper produced in the 1920s did not take off despite attempts to p
 
 <img src="/images/vol-17-issue-4/cover-vol17-issue4.jpg">
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/director-note">Director's Note</a>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/director-note">Director's Note</a>
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/asia-maps-cartography">Cartography and the Rise of Colonial Empires in Asia</a><br>An innovation patented in 1920 produced paper that
-was more durable, had greater tensile strength and was
-resistant to folding. <i>Alex Teoh</i> has the details.
+<a style="text-decoration: none; font-weight: bold;" href="/apr-to-jun-2022/vol-18/issue-1/rubber-latex-paper">Printed on Rubber Latex Paper</a><br>An innovation patented in 1920 produced paper that was more durable, had greater tensile strength and was
+resistant to folding. <b>Alex Teoh</b> has the details.
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/empress-asia">The Final Hours of the Empress of Asia
 </a><br>*Dan Black* recounts the final hours of this troopshipas she sank near Sultan Shoal Lighthouse off Tuas in February 1942. 
