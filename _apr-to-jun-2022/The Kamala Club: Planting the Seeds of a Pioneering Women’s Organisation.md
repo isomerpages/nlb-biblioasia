@@ -109,21 +109,21 @@ src="=![](/images/The%20Kamala%20Club/Vandana%20Aggarwal.jpg)" style="width: 100
 
 [^10]:MrsKizhakkeMukkapuzha Raman Menon, originally from Kerala, played an active part in club activities even after the clubs had merged and became the Kamala Club. Her husband K.M.R. Menon was a mathematics teacher at Raffles Institution.
 
-[^11]: Mrs K.M.R. Menon, “https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19310418-1.2.9” <i>Malaya Tribune</i>, 18 April 1931, 3. (From NewspaperSG)
+[^11]: Mrs K.M.R. Menon, “[Emancipation!](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19310418-1.2.9)” <i>Malaya Tribune</i>, 18 April 1931, 3. (From NewspaperSG)
 
 [^12]: MrsBridget Catherine Beatrice ChelvanathanHandy was a Sri Lankan and moved to Malaya at a young age. She had travelled extensively and was an advocate of women’s rights. Her husband, Dr J.M. Handy, was one of the first medical men to come from Jaffna, Sri Lanka, at the invitation of the British government in Singapore. He obtained his medical degree from Britain. 
 
-[^13]:“https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19310603-1.2.110,”<i>Singapore Free Press and Mercantile Advertiser</i>, 3 June 1931, 12. (From NewspaperSG)
+[^13]:“[Indian and Ceylonese Ladies](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19310603-1.2.110),”<i>Singapore Free Press and Mercantile Advertiser</i>, 3 June 1931, 12. (From NewspaperSG)
 
-[^14]:https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/e1c7a592-115d-11e3-83d5-0050568939ad, oral history interview by Tan Beng Luan, 17 December 1981, transcript and MP3 audio, Reel/Disc 8 of 11. (From National Archives of Singapore, Accession no. 000110)
+[^14]:[Mrs Lakshmi Naidu](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/e1c7a592-115d-11e3-83d5-0050568939ad), oral history interview by Tan Beng Luan, 17 December 1981, transcript and MP3 audio, Reel/Disc 8 of 11. (From National Archives of Singapore, Accession no. 000110)
 
-[^15]:R.R. Samy, “https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19310718-1.2.3,”<i>Malaya Tribune</i>, 18 July 1931, 2. (From NewspaperSG)
+[^15]:R.R. Samy, “[Woman’s Corner](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19310718-1.2.3),”<i>Malaya Tribune</i>, 18 July 1931, 2. (From NewspaperSG)
 
-[^16]:“https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19320203-1.2.25,” <i>Malaya Tribune</i>, 3 February 1932, 7. (From NewspaperSG)
+[^16]:“[Indian Women’s Social](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19320203-1.2.25),” <i>Malaya Tribune</i>, 3 February 1932, 7. (From NewspaperSG)
 
-[^17]:“https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19330408-1.2.38,” <i>Malaya Tribune</i>, 8 April 1933, 9. (From NewspaperSG)
+[^17]:“[Ladies’ Union](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19330408-1.2.38),” <i>Malaya Tribune</i>, 8 April 1933, 9. (From NewspaperSG)
 
-[^18]: “https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19340310-1.2.94,” <i>Malaya Tribune</i>, 10 March 1934, 13. (From NewspaperSG)
+[^18]: “[The Ladies Union](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19340310-1.2.94),” <i>Malaya Tribune</i>, 10 March 1934, 13. (From NewspaperSG)
 
 [^19]: "https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19330408-1.2.38"
 
