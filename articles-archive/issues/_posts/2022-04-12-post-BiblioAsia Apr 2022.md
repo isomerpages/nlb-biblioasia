@@ -9,7 +9,7 @@ A new type of paper produced in the 1920s did not take off despite attempts to p
 
 <img src="/images/Vol%2018%20Issue%201/cover.png">
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/director-note">Director's Note</a>
+<a style="text-decoration: none; font-weight: bold;" href="/apr-to-jun-2022/vol-18/issue-1/directors-note">Director's Note</a>
 
 <a style="text-decoration: none; font-weight: bold;" href="/apr-to-jun-2022/vol-18/issue-1/rubber-latex-paper">Printed on Rubber Latex Paper</a><br>An innovation patented in 1920 produced paper that was more durable, had greater tensile strength and was
 resistant to folding. *Alex Teoh* has the details.
