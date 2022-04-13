@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Art .md
-      - culture.md
+      - Culture.md
       - Film.md
       - food.md
       - governance.md
