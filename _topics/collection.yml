@@ -2,7 +2,7 @@ collections:
   topics:
     output: true
     order:
-      - art.md
+      - Art .md
       - culture.md
       - Film.md
       - food.md
