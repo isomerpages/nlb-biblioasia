@@ -23,3 +23,10 @@ The Chinatown of yesteryear was a thriving hotbed of crime and secret societies.
 The Singapore Police Force has made great strides – along with several changes in uniform – since its inception in 1819. Ang Seow Leng traces its history.
 <img style="width:100%;" src="/images/Vol-11-issue-3/blue/SikhsfromPunjab.jpg"> 
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/medium"> The Chinese Spirit-Medium: Ancient Rituals and Practices in a Modern World</a>
+Margaret Chan examines the fascinating world of tangki worship and explains the symbolism behind its elaborate rituals.
+
+<img style="width:100%;" src="/images/Vol-16-issue-2/medium/ChapGoMae.jpg"> 
+<hr>
+ 
