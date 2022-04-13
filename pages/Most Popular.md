@@ -29,4 +29,8 @@ Margaret Chan examines the fascinating world of tangki worship and explains the 
 
 <img style="width:100%;" src="/images/Vol-16-issue-2/medium/ChapGoMae.jpg"> 
 <hr>
- 
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-3/oct-dec-2021/stjosephchurch"> Making the Invisible Visible: Restoring the Statues of St Joseph’s Church on Victoria Street</a>
+Alvin Tan documents the painstaking process behind the restoration of the statues in St Joseph’s Church.
+
+<img style="width:100%;" src="/images/vol-17-issue-3/st-joseph/St%20Joseph2.jpg">
