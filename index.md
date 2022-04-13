@@ -29,7 +29,7 @@ sections:
       alt: Curry rendang devagi sanmugam
   - infopic:
       title: Printed on Rubber Latex Paper
-      subtitle: highlights
+      subtitle: Culture
       button: Read more
       url: /apr-to-jun-2022/vol-18/issue-1/rubber-latex-paper
       image: /images/Vol 18 Issue 1/Highlight1_edit.png
@@ -39,7 +39,7 @@ sections:
       alt: the Asia
   - infopic:
       title: "Flower Power: Singapore’s Orchid Diplomacy"
-      subtitle: HIGHLIGHTS
+      subtitle: nature
       description: Singapore’s diplomatic efforts may take several forms, including
         naming orchid hybrids after foreign dignitaries. Rebecca Tan tells us
         more.
@@ -49,7 +49,7 @@ sections:
       alt: cartography
   - infopic:
       title: The Story of Singapore’s Changing Wet Markets
-      subtitle: highlights
+      subtitle: places
       button: Read more
       url: /apr-to-jun-2022/vol-18/issue-1/story-singapore-changing-wet-markets
       image: /images/Vol 18 Issue 1/Highlight3.png
