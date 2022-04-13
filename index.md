@@ -9,13 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/vol-17-issue-4/Hero%20Banner.jpg
+      background: /images/Vol 18 Issue 1/Herobanner.png
       key_highlights:
         - title: ""
-          description: From shipwrecks to cookbooks, this issue is a must-read!
-          url: /vol-17/issue-4/jan-mar-2022/
+          description: Orchids, wet markets and babies. Find out more in this issue!
+          url: /vol-18/issue-1/apr-jun-2022/
       button: Read the current issue
-      url: /vol-17/issue-4/jan-mar-2022/
+      url: /vol-18/issue-1/apr-jun-2022/
   - infopic:
       title: The Curry Chronicles
       subtitle: From Book to Cook
@@ -28,32 +28,32 @@ sections:
         2.png"
       alt: Curry rendang devagi sanmugam
   - infopic:
-      title: Cartography and the Rise of Colonial Empires in Asia
-      subtitle: HIGHLIGHTS
-      description: Chia Jie Lin highlights interesting cartographic efforts from the
-        National Library’s latest exhibition on Asian maps.
+      title: Printed on Rubber Latex Paper
+      subtitle: Culture
       button: Read more
-      url: /vol-17/issue-4/jan-to-mar-2022/asia-maps-cartography
-      image: /images/vol-17-issue-4/C-Highlight.jpg
-      alt: cartography
-  - infopic:
-      title: The Final Hours of the Empress of Asia
-      subtitle: highlights
-      button: Read more
-      url: /vol-17/issue-4/jan-to-mar-2022/empress-asia
-      image: /images/vol-17-issue-4/empress-of-asia/1_Smoke_CP.jpg
-      description: The Empress of Asia sank off Tuas in February 1942 while carrying
-        troops to fight off the Japanese invasion. Dan Black recounts her last
-        days.
+      url: /apr-to-jun-2022/vol-18/issue-1/rubber-latex-paper
+      image: /images/Vol 18 Issue 1/Highlight1_edit.png
+      description: An innovation patented in 1920 produced paper that was more
+        durable, had greater tensile strength and was resistant to folding. Alex
+        Teoh has the details.
       alt: the Asia
   - infopic:
-      title: "In Their Own Words: The Early Years of The Substation"
-      subtitle: highlights
+      title: "Flower Power: Singapore’s Orchid Diplomacy"
+      subtitle: nature
+      description: Singapore’s diplomatic efforts may take several forms, including
+        naming orchid hybrids after foreign dignitaries. Rebecca Tan tells us
+        more.
       button: Read more
-      url: /vol-17/issue-4/jan-to-mar-2022/early-years-substation
-      image: /images/vol-17-issue-4/substation/substation.png
-      description: The development of the arts in Singapore is unimaginable without
-        this arts centre. Key individuals from its early history tell Clarissa
-        Oon how it got started.
+      url: /apr-to-jun-2022/vol-18/issue-1/singapore-orchid-diplomacy
+      image: /images/Vol 18 Issue 1/Highlight2.png
+      alt: cartography
+  - infopic:
+      title: The Story of Singapore’s Changing Wet Markets
+      subtitle: places
+      button: Read more
+      url: /apr-to-jun-2022/vol-18/issue-1/story-singapore-changing-wet-markets
+      image: /images/Vol 18 Issue 1/Highlight3.png
+      description: Wet markets have existed in Singapore since 1825, Zoe Yeo looks at
+        how these markets have changed over time.
       alt: substation
 ---

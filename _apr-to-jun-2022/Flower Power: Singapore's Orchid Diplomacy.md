@@ -2,7 +2,10 @@
 title: "Flower Power: Singapore's Orchid Diplomacy"
 permalink: /apr-to-jun-2022/vol-18/issue-1/singapore-orchid-diplomacy
 description: ""
+image: /images/Vol 18 Issue 1/Orchid Diplomacy/Sealara Nelson Mandela (credit
+  NParks).png
 ---
+
 #### Singapore’s diplomatic efforts may take several forms, including naming orchid hybrids after foreign dignitaries. **Rebecca Tan** tells us more.
 
 ![](/images/Vol%2018%20Issue%201/Orchid%20Diplomacy/Sealara%20Nelson%20Mandela%20(credit%20NParks).png)

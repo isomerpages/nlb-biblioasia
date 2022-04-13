@@ -2,7 +2,9 @@
 title: "We Are What We Eat: The Evolution of Chinese Food in Singapore"
 permalink: /apr-to-jun-2022/vol-18/issue-1/evolution-chinese-food-singapore
 description: ""
+image: /images/Vol 18 Issue 1/Chinese Food/chicken rice.png
 ---
+
 #### Chinese food in Singapore is a product of the country’s history and geography, reveals **Low Sze Wee**.
 
 ![](/images/Vol%2018%20Issue%201/Chinese%20Food/chicken%20rice.png)

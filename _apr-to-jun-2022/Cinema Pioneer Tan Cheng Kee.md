@@ -2,7 +2,9 @@
 title: Cinema Pioneer Tan Cheng Kee
 permalink: /apr-to-jun-2022/vol-18/issue-1/cinema-pioneer-tan-cheng-kee
 description: ""
+image: /images/Vol 18 Issue 1/Tan Cheng Kee/cover.png
 ---
+
 #### The Alhambra and Marlborough theatres were famous landmarks in pre-war Singapore. **Barbara Quek** looks at these cinemas, and the man behind the curtain.
 
 ![](/images/Vol%2018%20Issue%201/Tan%20Cheng%20Kee/cover.png)
