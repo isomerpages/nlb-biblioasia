@@ -1,5 +1,5 @@
 collections:
-  editors-picks:
+  topics:
     output: true
     order:
       - art.md
