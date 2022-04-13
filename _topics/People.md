@@ -1,7 +1,9 @@
 ---
 title: People
-permalink: /editors-picks/people
+permalink: /topics/people
+description: ""
 ---
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-4/jan-mar-2021/kunnuck" target="_blank">The Extraordinary Life of Kunnuck Mistree</a>
 <p>Indian convicts contributed much to the early infrastructural development of Singapore but their voices have rarely been heard. Vandana Aggarwal uncovers the story of one convict who made good.</p> 
 <div style="background-image:url('https://biblioasia.nlb.gov.sg/images/Vol-16-issue-4/Kunnuck/TheExtraordinaryLifeOfKunnuck.jpg'); width:100%; height:270px; background-position:center;">&nbsp;</div>

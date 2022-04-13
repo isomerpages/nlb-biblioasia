@@ -1,7 +1,9 @@
 ---
 title: "Nature and the Environment "
-permalink: /editors-picks/nature
+permalink: /topics/nature
+description: ""
 ---
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-1/apr-jun-2021/agriculture" target="_blank"> From Gambier to Pepper: Plantation Agriculture in Singapore</a>
 <p>Timothy Pwee takes us on a tour through pepper, gambier, nutmeg, pineapple and rubber plantations that were once common in 19th-century Singapore.</p> 
 <img style="width:100%;" src="/images/Vol-17-issue-1/agriculture/gambierpepper.jpg">  

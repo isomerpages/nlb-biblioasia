@@ -1,16 +1,16 @@
 collections:
-  editors-picks:
+  topics:
     output: true
     order:
-      - art.md
-      - culture.md
-      - Film.md
-      - food.md
-      - governance.md
-      - literature.md
-      - medicine.md
-      - nature-and-the-environment.md
-      - people.md
+      - Art .md
+      - Culture.md
+      - Film and Photography.md
+      - Food.md
+      - Governance.md
+      - Literature.md
+      - Medicine.md
+      - Nature and the Environment .md
+      - People.md
       - Places and Buildings/.keep
       - Places and Buildings/Architecture.md
       - Places and Buildings/Housing.md

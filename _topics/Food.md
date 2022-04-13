@@ -1,7 +1,9 @@
 ---
 title: Food
-permalink: /editors-picks/food
+permalink: /topics/food
+description: ""
 ---
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-3/oct-dec-2021/theroleofforaging" target="_blank">The Role of Foraging in Malay Cuisine</a>
 <p>Foraging for food in the hills, the forests and the coastline has been carried out by the Malays for centuries, as Khir Johari tells us.</p> 
 <img src="/images/vol-17-issue-3/malay-cuisine/Facing%20Page.jpg">

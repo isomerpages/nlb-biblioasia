@@ -1,9 +1,10 @@
 ---
 title: Worship
-permalink: /editors-picks/Places-and-Buildings/worship
+permalink: /topics/Places-and-Buildings/worship
 description: ""
 third_nav_title: Places and Buildings
 ---
+
 #### <a target="_blank" href="/vol-12/issue-3/oct-dec-2016/building-faith" style="text-decoration: none; font-weight: bold;"> Building Faith: Wartime Churches in Syonan-to</a>
 <p>Christian POWs interned during the Japanese Occupation found ingenious ways to worship. Gracie Lee looks at a book documenting these makeshift churches in war-torn Singapore.</p> 
 <img src="/images/Vol-12-issue-3/building-faith/05-building_faith.jpg">

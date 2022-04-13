@@ -1,7 +1,9 @@
 ---
 title: Governance
-permalink: /editors-picks/governance
+permalink: /topics/governance
+description: ""
 ---
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/opium-revenue" target="_blank"> The Sticky Problem of Opium Revenue</a>
 <p>At one point, half of Singapore’s annual revenue came from taxing opium. Diana S. Kim looks at how the colonial government managed to break its addiction to easy money.</p> 
 <img style="width:100%;" src="/images/Vol-16-issue-3/opium-revenue/opiumrevenue-purple.jpg">
