@@ -4,8 +4,8 @@ permalink: /editors-picks
 description: ""
 ---
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-4/jan-mar-2016/gospel-chinese-karl-friedrich-august-gutzlaff" target="_blank"> The Gospel in Chinese</a>
- <p>Advertising art began playing a bigger role in the economy after several talented graphic artists moved from China to Singapore from the 1920s onwards. Lee Chor Lin highlights their works. </p>
- 
+The Perfect Man’s Model (全人矩矱) is a Chinese gospel written by Karl Friedrich August Gützlaff, a German Protestant missionary fluent in Chinese. Printed in 1836, the book is the earliest extant Chinese publication printed in Singapore in the National Library’s collection.
+
 <img style="width:100%;" src="/images/vol-11-issue-4/the-gospel-in-chinese/C4.JPG"> 
 <hr>
 
