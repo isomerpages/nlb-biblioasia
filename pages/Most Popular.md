@@ -34,3 +34,11 @@ Margaret Chan examines the fascinating world of tangki worship and explains the 
 Alvin Tan documents the painstaking process behind the restoration of the statues in St Joseph’s Church.
 
 <img style="width:100%;" src="/images/vol-17-issue-3/st-joseph/St%20Joseph2.jpg">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-3/oct-dec-2021/theroleofforaging"> The Role of Foraging in Malay Cuisine</a>
+Foraging for food in the hills, the forests and the coastline has been carried out by the Malays for centuries, as Khir Johari tells us.
+
+<img style="width:100%;" src="/images/vol-17-issue-3/malay-cuisine/Facing%20Page.jpg"> 
+<hr>
+
