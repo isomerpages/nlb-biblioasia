@@ -1,9 +1,9 @@
 ---
 layout: homepage
 title: NLB BiblioAsia
-description: "Produced by the National Library of Singapore, BiblioAsia is a
-  quarterly publication that features the history, culture and heritage of
-  Singapore within the larger Asian context. "
+description: "Produced by the National Library of Singapore, BiblioAsia features
+  the history, culture and heritage of Singapore within the larger Asian
+  context. "
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
@@ -84,3 +84,4 @@ sections:
         2.png"
       alt: Curry rendang devagi sanmugam
 ---
+
