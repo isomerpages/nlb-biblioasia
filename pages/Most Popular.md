@@ -53,10 +53,9 @@ As Singapore’s Changi Airport marks its 40th anniversary in 2021, Rebecca Tan 
 The history of vaccination in Singapore goes back to the days of William Farquhar. Ong Eng Chuan provides an overview of vaccination efforts to prevent epidemics from breaking out here.
 
 <img style="width:100%;" src="/images/vol-17-issue-2/vaccination/Vaccination%20-%20Main2.jpg"> 
-
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-2/jul-sep-2021/murals" target="_blank"> The Forgotten Murals of Paya Lebar Airport</a>
- <p>Three large murals used to grace the walls of Paya Lebar Airport. Dahlia Shamsuddin has the inside story of how they came to be.</p> 
+Three large murals used to grace the walls of Paya Lebar Airport. Dahlia Shamsuddin has the inside story of how they came to be.
  <img style="width:100%;" src="/images/vol-17-issue-2/murals/Mural_Main2.jpg"> 
 <hr>
