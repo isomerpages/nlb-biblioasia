@@ -4,6 +4,7 @@ permalink: /vol-11/issue-4/jan-mar-2016/stories-stacks-exhibition
 date: 2016-01-30
 layout: post
 description: ""
+image: /images/vol-11-issue-4/Stories%20stack%20exhibition/a3.png
 ---
 #### The National Library’s newest exhibition, “From the Stacks”, presents highlights of its Rare Materials Collection. **Chung Sang Hong** explains why you should not miss this event.
 
