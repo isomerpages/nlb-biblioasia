@@ -37,16 +37,14 @@ sections:
       image: /images/Vol 18 Issue 1/Highlight2.png
       alt: cartography
   - infopic:
-      title: The Curry Chronicles
-      subtitle: From Book to Cook
-      description: What would a 100-year-old rendang recipe taste like? Join chef
-        Devagi Sanmugam in the first episode of our new cooking series to find
-        out.
+      title: Tapioca Tales
+      subtitle: from Book to Cook
+      description: "Can wartime food be delicious? Find out as cookbook author Lee
+        Geok Boi whips up two dishes using only wartime ingredients. "
       button: Watch the video
-      url: /videos/curry-chronicles
-      image: "/images/Videos: From Book to Cook/devagi makes mrs kinseys rendang
-        2.png"
-      alt: Curry rendang devagi sanmugam
+      url: /videos/tapioca-tales
+      image: "/images/Videos: From Book to Cook/geok boi making tapioca noodles.png"
+      alt: Image alt text
   - infopic:
       title: The Story of Singapore’s Changing Wet Markets
       subtitle: places
@@ -75,12 +73,14 @@ sections:
       image: /images/Vol 18 Issue 1/Orang Seletar/orang_seletar_cover.png
       alt: Image alt text
   - infopic:
-      title: Tapioca Tales
-      subtitle: from Book to Cook
-      description: "Can wartime food be delicious? Find out as cookbook author Lee
-        Geok Boi whips up two dishes using only wartime ingredients. "
+      title: The Curry Chronicles
+      subtitle: From Book to Cook
+      description: What would a 100-year-old rendang recipe taste like? Join chef
+        Devagi Sanmugam in the first episode of our new cooking series to find
+        out.
       button: Watch the video
-      url: /videos/tapioca-tales
-      image: "/images/Videos: From Book to Cook/geok boi making tapioca noodles.png"
-      alt: Image alt text
+      url: /videos/curry-chronicles
+      image: "/images/Videos: From Book to Cook/devagi makes mrs kinseys rendang
+        2.png"
+      alt: Curry rendang devagi sanmugam
 ---
