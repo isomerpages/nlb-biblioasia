@@ -65,4 +65,13 @@ sections:
       url: /vol-18/issue-1/apr-to-jun-2022/history-kandang-kerbau-hospital
       image: /images/Vol 18 Issue 1/KKH Hospital/19980001245 IMG0083.png
       alt: Image alt text
+  - infopic:
+      title: "The Orang Seletar: Rowing Across Changing Tides"
+      subtitle: People
+      description: Singapore was once a home to the seafaring Orang Seletar who now
+        reside in Johor Bahru.
+      button: Read more
+      url: /vol-18/issue-1/apr-to-jun-2022/orang-seletar-changing-tides
+      image: /images/Vol 18 Issue 1/Orang Seletar/orang_seletar_cover.png
+      alt: Image alt text
 ---
