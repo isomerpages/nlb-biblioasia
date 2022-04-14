@@ -48,3 +48,10 @@ As Singapore’s Changi Airport marks its 40th anniversary in 2021, Rebecca Tan 
 <img style="width:100%;" src="/images/vol-17-issue-3/changi-airport-photo-essay/steps.jpg"> 
 
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-2/jul-sep-2021/vaccinating-nation"> Vaccinating a Nation</a>
+The history of vaccination in Singapore goes back to the days of William Farquhar. Ong Eng Chuan provides an overview of vaccination efforts to prevent epidemics from breaking out here.
+
+<img style="width:100%;" src="/images/vol-17-issue-2/vaccination/Vaccination%20-%20Main2.jpg"> 
+
+<hr>
