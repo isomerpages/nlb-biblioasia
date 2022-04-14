@@ -3,7 +3,6 @@ title: Editor's Picks
 permalink: /editors-picks
 description: ""
 ---
-
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-3/oct-dec-2016/building-faith" >Building Faith: Wartime Churches in Syonan-to</a>
 Christian POWs interned during the Japanese Occupation found ingenious ways to worship. Gracie Lee looks at a book documenting these makeshift churches in war-torn Singapore.
 
