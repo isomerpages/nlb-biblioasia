@@ -46,7 +46,6 @@ Foraging for food in the hills, the forests and the coastline has been carried o
 As Singapore’s Changi Airport marks its 40th anniversary in 2021, Rebecca Tan uncovers fascinating facts behind the decision to build the airport and how it eventually took shape.
 
 <img style="width:100%;" src="/images/vol-17-issue-3/changi-airport-photo-essay/steps.jpg"> 
-
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-2/jul-sep-2021/vaccinating-nation"> Vaccinating a Nation</a>
