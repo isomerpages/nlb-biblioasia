@@ -4,6 +4,7 @@ permalink: /vol-11/issue-4/jan-mar-2016/handbook-singapore-george-murray-reith
 date: 2016-01-22
 layout: post
 description: ""
+image: /images/vol-11-issue-4/a-bona-fide-history-book/01_bonafide.jpg
 ---
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;">
 <b>Title:</b> <i><a href="https://eresources.nlb.gov.sg/printheritage/detail/2cf2ccde-1931-4e93-b265-a46254084820.aspx">Handbook to Singapore, with Map and a Plan of the Botanical Gardens</a></i><br>

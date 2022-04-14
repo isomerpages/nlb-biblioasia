@@ -4,6 +4,7 @@ permalink: /vol-11/issue-4/jan-mar-2016/chop-suey-liu-kang
 date: 2016-01-31
 layout: post
 description: ""
+image: /images/vol-11-issue-4/cartoons-of-terror/T1.JPG
 ---
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
 	<b>Title:</b> <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4980043"><i>Chop Suey</i></a> <a href="https://eresources.nlb.gov.sg/printheritage/detail/0c883264-36e9-491d-bcbe-83a3ca7ee7bb.aspx">(杂碎画集)</a><br>

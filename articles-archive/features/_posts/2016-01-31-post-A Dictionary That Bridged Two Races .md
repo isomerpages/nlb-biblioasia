@@ -4,6 +4,7 @@ permalink: /vol-11/issue-4/jan-mar-2016/hua-yi-tong-yu-chinese-malay-dictionary
 date: 2016-01-31
 layout: post
 description: ""
+image: /images/vol-11-issue-4/dictionary-bridged-2-races/D1.JPG
 ---
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
 	<b>Title:</b> <a href="https://eresources.nlb.gov.sg/printheritage/detail/3b07f148-8b6f-492f-b2fa-7c1c3dc1f188.aspx"><i>Hua yi tong yu</i> (华夷通语)</a><br>

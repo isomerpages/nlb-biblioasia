@@ -4,6 +4,7 @@ date: 2016-01-22
 permalink: /vol-11/issue-4/jan-mar-2016/sejarah-malayu-malay-annals
 layout: post
 description: ""
+image: /images/vol-11-issue-4/legend-of-malay-kings/03a_malaykings.jpg
 ---
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;">
 <b>Title:</b> <i><a href="https://eresources.nlb.gov.sg/printheritage/detail/403dde58-c3c4-4a53-ba21-f11e813f434f.aspx">Malay Annals (Sejarah Melayu)</a></i>

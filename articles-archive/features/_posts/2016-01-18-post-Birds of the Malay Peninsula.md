@@ -4,6 +4,7 @@ date: 2016-01-18
 permalink: /vol-11/issue-4/jan-mar-2016/birds-malay-peninsula
 layout: post
 description: ""
+image: /images/vol-11-issue-4/birds-of-the-malay-peninsula/01_birds.jpg
 ---
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;">
 <b>Title:</b> <i><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5028847">The Birds of the Malay Peninsula: A General Account of the Birds Inhabiting the Region from the Isthmus of Kra to Singapore with the Adjacent Islands</a></i>

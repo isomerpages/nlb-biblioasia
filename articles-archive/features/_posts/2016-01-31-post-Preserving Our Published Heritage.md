@@ -4,6 +4,7 @@ permalink: /vol-11/issue-4/jan-mar-2016/preservation-published-heritage-national
 date: 2016-01-31
 layout: post
 description: ""
+image: /images/vol-11-issue-4/published-heritage/i.JPG
 ---
 #### The nation’s published heritage is preserved by the National Library for posterity. **Ivy Lee** reveals the aim of the Legal Deposit and shares highlights from the collection.
 

@@ -4,6 +4,7 @@ permalink: /vol-11/issue-4/jan-mar-2016/haji-malayan-nursery-rhymes
 date: 2016-01-31
 layout: post
 description: ""
+image: /images/vol-11-issue-4/english-nursery-rhymes/M2.JPG
 ---
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
 	<b>Title:</b> <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=5233416"><i>Haji’s Book of Malayan Nursery Rhymes</i></a><br>

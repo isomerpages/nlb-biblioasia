@@ -4,6 +4,7 @@ permalink: /vol-11/issue-4/jan-mar-2016/christian-sermon-malay-claudius-henry-th
 date: 2016-01-31
 layout: post
 description: ""
+image: /images/vol-11-issue-4/a-christian-sermon-in-malay/M1.JPG
 ---
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
 	<b>Title:</b> <a href="https://eresources.nlb.gov.sg/printheritage/detail/b3254e5b-902c-46d6-b1a0-f2c5badc25cf.aspx"><i>The Substance of Our Saviour’s Sermon on the Mount Contained in the 5th, 6th &c. 7th Chapters of the Gospel According to St. Matthew</i></a><br>

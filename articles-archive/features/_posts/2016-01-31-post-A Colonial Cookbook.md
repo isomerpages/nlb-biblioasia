@@ -4,6 +4,7 @@ permalink: /vol-11/issue-4/jan-mar-2016/mems-cookery-book-william-edward-kinsey
 date: 2016-01-31
 layout: post
 description: ""
+image: /images/vol-11-issue-4/a-colonial-cookbook/01_cookbook.jpg
 ---
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;">
 <b>Title:</b> <i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=5232525">The “Mem’s” Own Cookery Book: 420 Tried and Economical Recipes for Malaya</a></i><br>
