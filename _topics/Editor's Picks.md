@@ -14,3 +14,9 @@ The foundation stone for the Causeway was laid 100 years ago on 24 April 1920. B
  
 <img style="width:100%;" src="/images/vol-11-issue-4/the-gospel-in-chinese/C4.JPG"> 
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-3/oct-dec-2016/building-faith" target="_blank">Building Faith: Wartime Churches in Syonan-to</a>
+Christian POWs interned during the Japanese Occupation found ingenious ways to worship. Gracie Lee looks at a book documenting these makeshift churches in war-torn Singapore.
+
+<img style="width:100%;" src="/images/Vol-12-issue-3/building-faith/01-building_faith.jpg"> 
+<hr>
