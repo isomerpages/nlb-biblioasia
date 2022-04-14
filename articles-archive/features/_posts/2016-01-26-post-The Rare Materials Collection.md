@@ -4,6 +4,7 @@ permalink: /vol-11/issue-4/jan-mar-2016/rare-materials
 date: 2016-01-26
 layout: post
 description: ""
+image: /images/vol-11-issue-4/the-rare-materials-collection/02_rarematerials.jpg
 ---
 #### Few people are aware that one of the main functions of the National Library is the collection and preservation of rare materials on Singapore’s history. **Ong Eng Chuan** tells you more.
 
