@@ -6,14 +6,14 @@ description: BiblioAsia features the history, culture and heritage of Singapore
   Singapore.
 image: /images/isomer-logo.svg
 permalink: /
-notification: Check out the new <a href="/editors-picks">editor's picks</a>.
+notification: ""
 sections:
   - hero:
       background: /images/Vol 18 Issue 1/Herobanner.png
       key_highlights:
         - title: ""
-          description: Orchids, wet markets and babies. Find out more in this issue!
-          url: /vol-18/issue-1/apr-jun-2022/
+          description: Check out the new editor's picks
+          url: /editors-picks
       button: Read the current issue
       url: /vol-18/issue-1/apr-jun-2022/
   - infopic:
