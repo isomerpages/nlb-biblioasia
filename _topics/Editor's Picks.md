@@ -38,4 +38,3 @@ The Empress of Asia sank off Tuas in February 1942 while carrying troops to figh
 
 <img style="width:100%;" src="/images/vol-17-issue-4/empress-of-asia/1_Smoke.jpg"> 
 <hr>
-
