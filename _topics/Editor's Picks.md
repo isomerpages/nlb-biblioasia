@@ -28,12 +28,6 @@ The foundation stone for the Causeway was laid 100 years ago on 24 April 1920. B
 <img style="width:100%;" src="/images/Vol-16-issue-2/causeway/Causeway.jpg"> 
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-4/jan-mar-2017/the-sook-ching" >The Sook Ching</a>
-February 15 marks the 75th anniversary of the fall of Singapore. Goh Sin Tub recounts the horrors that many Chinese suffered at the hands of the Japanese in this short story.
-
-<img style="width:100%;" src="/images/Vol-12-issue-4/the-sook-ching/1-sook-ching.jpg"> 
-<hr>
-
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/empress-asia" >The Final Hours of the Empress of Asia</a>
 The Empress of Asia sank off Tuas in February 1942 while carrying troops to fight off the Japanese invasion. Dan Black recounts its final days.
 
