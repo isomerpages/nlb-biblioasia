@@ -56,4 +56,13 @@ sections:
       description: Wet markets have existed in Singapore since 1825, Zoe Yeo looks at
         how these markets have changed over time.
       alt: substation
+  - infopic:
+      title: "Labouring to Deliver: A History of Kandang Kerbau Hospital"
+      subtitle: Places
+      description: The old Kandang Kerbau Hospital was once known as the busiest
+        maternity hospital in the world.
+      button: Read more
+      url: /vol-18/issue-1/apr-to-jun-2022/history-kandang-kerbau-hospital
+      image: /images/Vol 18 Issue 1/KKH Hospital/19980001245 IMG0083.png
+      alt: Image alt text
 ---
