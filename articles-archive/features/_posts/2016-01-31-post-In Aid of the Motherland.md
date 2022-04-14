@@ -4,6 +4,7 @@ permalink: /vol-11/issue-4/jan-mar-2016/tong-seok-association-charity-shantung-r
 date: 2016-01-31
 layout: post
 description: ""
+image: /images/vol-11-issue-4/in-aid-of-the-motherland/02_motherland.jpg
 ---
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;">
 <b>Title:</b>  <i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=84506050">Singapore Tong Seok Dramatic Association Charity Performance for the Shantung Relief Fund (星洲通俗白话剧团演 剧筹赈山东惨灾会特刊)</a></i><br>
