@@ -4,10 +4,13 @@ links:
     url: /editors-picks
   - title: Most Popular
     url: /most-popular
-  - title: Latest Print Edition
+  - title: Print Issue
     url: /vol-18/issue-1/apr-jun-2022/
-  - title: All Issues
-    url: /all-issues/
+    sublinks:
+      - title: Latest
+        url: /vol-18/issue-1/apr-jun-2022/
+      - title: All Issues
+        url: /all-issues/
   - title: Videos
     url: /videos/from-book-to-cook
   - title: Subscribe
