@@ -6,7 +6,7 @@ description: BiblioAsia features the history, culture and heritage of Singapore
   Singapore.
 image: /images/isomer-logo.svg
 permalink: /
-notification: Check out the new <a href="/editors-picks" target="_blank">editor's picks</a>.
+notification: Check out the new <a href="/editors-picks">editor's picks</a>.
 sections:
   - hero:
       background: /images/Vol 18 Issue 1/Herobanner.png
