@@ -1,8 +1,9 @@
 ---
 title: Director's Note
-permalink: /apr-to-jun-2022/vol-18/issue-1/directors-note
+permalink: /vol-18/issue-1/apr-to-jun-2022/directors-note
 description: ""
 ---
+
 Having worked as a librarian for over 15 years, I have a special place in my heart for books
 and, by extension, paper. Paper is an ideal material for conveying knowledge widely: it is
 cheap, relatively easy to make and holds ink well. But that doesn’t mean it can’t be improved.

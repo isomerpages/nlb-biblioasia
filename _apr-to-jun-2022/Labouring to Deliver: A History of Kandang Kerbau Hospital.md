@@ -6,6 +6,7 @@ image: /images/Vol 18 Issue 1/KKH Hospital/19980001245 IMG0083.png
 ---
 
 
+
 #### The old Kandang Kerbau Hospital was once known as the busiest maternity hospital in the world. **Joanna Tan** delivers the story behind a hallowed Singapore institution.
 
 ![](/images/Vol%2018%20Issue%201/KKH%20Hospital/19980001245%20IMG0083.png)

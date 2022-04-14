@@ -1,9 +1,10 @@
 ---
 title: Printed on Rubber Latex Paper
-permalink: /apr-to-jun-2022/vol-18/issue-1/rubber-latex-paper
+permalink: /vol-18/issue-1/apr-to-jun-2022/rubber-latex-paper
 description: ""
 image: /images/Vol 18 Issue 1/Rubber Latex Paper/covers_editted.png
 ---
+
 
 #### An innovation patented in 1920 produced paper that was more durable, had greater tensile strength and was resistant to folding, as **Alex Teoh** tells us.
 

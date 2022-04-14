@@ -1,9 +1,10 @@
 ---
 title: "Living in Harmony: The History of Opera Estate"
-permalink: /apr-to-jun-2022/vol-18/issue-1/history-opera-estate
+permalink: /vol-18/issue-1/apr-to-jun-2022/history-opera-estate
 description: ""
 image: /images/Vol 18 Issue 1/Opera Estate/Jalan Bintang Tiga (2020) (orig).png
 ---
+
 
 #### **Asrina Tanuri** traces the development of Opera Estate from its early beginnings as coconut and rubber plantations to a private residential estate.
 
