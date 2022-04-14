@@ -4,6 +4,7 @@ permalink: /vol-11/issue-4/jan-mar-2016/malay-magic-walter-william-skeat
 date: 2016-01-31
 layout: post
 description: ""
+image: /images/vol-11-issue-4/of-spells-and-magic/M3.JPG
 ---
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
 	<b>Title:</b> <a href="https://eresources.nlb.gov.sg/printheritage/detail/5aaeccbf-d44a-4b4b-a6ef-c6dd1f78458e.aspx"><i>Malay Magic: Being an Introduction to the Folklore and Popular Religion of the Malay Peninsula</i></a><br>
