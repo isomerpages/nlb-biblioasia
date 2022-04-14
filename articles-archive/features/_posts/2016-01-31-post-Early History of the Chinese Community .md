@@ -4,6 +4,7 @@ permalink: /vol-11/issue-4/jan-mar-2016/one-hundred-years-history-chinese-singap
 date: 2016-01-31
 layout: post
 description: ""
+image: /images/vol-11-issue-4/history-of-chinese-community/P1.JPG
 ---
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
 	<b>Title:</b> <a href="https://eresources.nlb.gov.sg/printheritage/detail/f8082431-1c7b-460e-b59c-bbc5793035a3.aspx"><i>One Hundred Years’ History of the Chinese in Singapore: Being a Chronological Record of the Contribution by the Chinese Community to the 
