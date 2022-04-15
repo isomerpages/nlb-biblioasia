@@ -3,7 +3,7 @@ title: test
 permalink: /testinging
 description: ""
 ---
-<a href="/vol-17/issue-2/jul-sep-2021/murals"> <img style="float: left; width:99%;margin-right: 1%; margin-bottom: 0.5em" src="/images/vol-17-issue-2/murals/Mural_Main2.jpg"> </a>
+<a href="/vol-17/issue-2/jul-sep-2021/murals" class="hovertext" title="Three large murals used to grace the walls of Paya Lebar Airport, depicting scenes from Singapore and Malaysia. Dahlia Shamsuddin has the inside story of how they came to be."> <img style="float: left; width:99%;margin-right: 1%; margin-bottom: 0.5em" src="/images/vol-17-issue-2/murals/Mural_Main2.jpg"> </a>
 
 <p style="clear: both;">
 	
@@ -14,4 +14,3 @@ description: ""
 <a href="/vol-16/issue-2/jul-sep-2020/raffles">	<img src="/images/Vol-16-issue-2/raffles/stork.jpg" style="float: left; width:32.3%; height: 250px; object-fit: cover; margin-right: 1%; margin-bottom: 0.5em"> </a>
 	
 <p style="clear: both;">
- 
