@@ -16,5 +16,3 @@ description: ""
 <img src="/images/Vol-16-issue-4/Kunnuck/TheExtraordinaryLifeOfKunnuck.jpg" style="float: left; width: 28.2%; margin-right: 1%; margin-bottom: 0.5em;"></a>
 
 <p style="clear: both;">
-
- 
