@@ -11,3 +11,5 @@ description: ""
 <a href="/vol-12/issue-3/oct-dec-2016/the-tiger-within">	<img src="/images/Vol-12-issue-3/the-tiger-within/01-tiger-within.jpg" style="float: left; width:32.3%; height: 250px; object-fit: cover; margin-right: 1%; margin-bottom: 0.5em"> </a>
 	
 <a href="/vol-12/issue-3/oct-dec-2016/the-tiger-within">	<img src="/images/Vol-12-issue-3/the-tiger-within/01-tiger-within.jpg" style="float: left; width:32.3%; height: 250px; object-fit: cover; margin-right: 1%; margin-bottom: 0.5em"> </a>
+	
+<p style="clear: both;">
