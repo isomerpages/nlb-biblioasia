@@ -17,7 +17,7 @@ description: ""
  <style>
 .container {position: relative; text-align: center; color: black;}
 .centered {position: absolute;
-  top: 90%;
+  top: 120%;
   left: 50%;
   transform: translate(-50%, -50%);}</style>
  
