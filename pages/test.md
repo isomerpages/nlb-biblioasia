@@ -3,15 +3,15 @@ title: test
 permalink: /testinging
 description: ""
 ---
-<img src="/images/vol-17-issue-2/birdpark/JurongBirdPark_Main.jpg" style="width:100%; height: 280px; object-fit: cover"> 
+		 
+<a href="https://biblioasia.nlb.gov.sg/">		 
+<img src="/images/vol-17-issue-2/birdpark/JurongBirdPark_Main.jpg" style="width:300px; height: 300px; object-fit: cover"> </a><a href="https://biblioasia.nlb.gov.sg/">		 
+	
+<img src="/images/Vol-16-issue-4/Kunnuck/TheExtraordinaryLifeOfKunnuck.jpg" style="width:300px; height: 300px; object-fit: cover"> </a>
 
+<a href="https://biblioasia.nlb.gov.sg/">		 
+<img src="/images/vol-17-issue-2/birdpark/JurongBirdPark_Main.jpg" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"></a>
 
+<a href="https://biblioasia.nlb.gov.sg/">		
+<img src="/images/Vol-16-issue-4/Kunnuck/TheExtraordinaryLifeOfKunnuck.jpg" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"></a>
 
-
-
-<div style="background-image:url('https://biblioasia.nlb.gov.sg/images/Vol-16-issue-4/Kunnuck/TheExtraordinaryLifeOfKunnuck.jpg'); width:100%; height:270px; background-position:center;">&nbsp;</div>
-
-<a href="https://biblioasia.nlb.gov.sg/">
-         <img alt="Qries" src="/images/Vol-16-issue-4/Kunnuck/TheExtraordinaryLifeOfKunnuck.jpg"
-         width=50" height="50">
-      </a>
