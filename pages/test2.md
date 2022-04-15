@@ -5,7 +5,7 @@ description: ""
 ---
 <style>
 .container {position: relative; text-align: center; color: black;}
-.centered {position: absolute;  top: 80%;  left: 50%; </style>
+.centered {position: absolute; top: 40%;  left: 50%; </style>
  
 
 <div class="container">
