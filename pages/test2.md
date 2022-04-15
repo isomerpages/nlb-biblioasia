@@ -3,52 +3,36 @@ title: test2
 permalink: /testinging2
 description: ""
 ---
-<div class="container">
- <a href="/vol-17/issue-2/jul-sep-2021/murals"><img src="/images/vol-17-issue-2/murals/Mural_Main2.jpg" style="float: left; width:100%;margin-right: 1%; margin-bottom: 0.5em"> </a>
-  <div class="centered">The Forgotten Murals of Paya Lebar Airport</div>
-
-<hr>
- 
-
 <style>
-* {
-  box-sizing: border-box;
-}
-
+* {box-sizing: border-box;}
 body {
   font-family: Arial;
-  font-size: 17px;
-}
+  font-size: 15px;}
 
 .container {
   position: relative;
   max-width: 800px;
-  margin: 0 auto;
-}
-
-.container img {vertical-align: middle;}
+  margin: 0 auto;}
 
 .container .content {
   position: absolute;
   bottom: 0;
-  background: rgb(0, 0, 0); /* Fallback color */
-  background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+  background: rgb(0, 0, 0);  
+  background: rgba(0, 0, 0, 0.5);  
   color: #f1f1f1;
   width: 100%;
-  padding: 20px;
+  padding: 15px;
 }
 </style>
-
-
+</head>
+<body>
 
  
 <div class="container">
- <a href="/vol-17/issue-2/jul-sep-2021/murals"><img src="/images/vol-17-issue-2/murals/Mural_Main2.jpg" style="float: left; width:100%;margin-right: 1%; margin-bottom: 0.5em"> </a>
-  <div class="content">
-    <h1>The Forgotten Murals of Paya Lebar Airport
-</h1>
-    <p>Three large murals used to grace the walls of Paya Lebar Airport, depicting scenes from Singapore and Malaysia. Dahlia Shamsuddin has the inside story of how they came to be.
-</p>
+  <img src="https://biblioasia.nlb.gov.sg/images/vol-17-issue-2/murals/Mural_Main2.jpg" style="width:100%;">
+<div class="content">
+<b>The Forgotten Murals of Paya Lebar Airport</b><br>
+Three large murals used to grace the walls of Paya Lebar Airport, depicting scenes from Singapore and Malaysia. Dahlia Shamsuddin has the inside story of how they came to be.
   </div>
 </div>
- </div>
+ 
