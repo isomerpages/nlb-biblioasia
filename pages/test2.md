@@ -10,8 +10,7 @@ description: ""
 
 <div class="container">
  <a href="/vol-17/issue-2/jul-sep-2021/murals"><img style="float: left; width:100%;margin-right: 1%; margin-bottom: 0.5em" src="/images/vol-17-issue-2/murals/Mural_Main2.jpg"> </a>
-  <div class="centered">Murals</div>
-</div>
+  <div class="centered">The Forgotten Murals of Paya Lebar Airport</div>
 
 
 <a href="/vol-17/issue-2/jul-sep-2021/murals"> <img style="float: left; width:99%;margin-right: 1%; margin-bottom: 0.5em" src="/images/vol-17-issue-2/murals/Mural_Main2.jpg"> </a>
