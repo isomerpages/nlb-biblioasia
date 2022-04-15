@@ -4,7 +4,7 @@ permalink: /testinging2
 description: ""
 ---
 <html lang="en">
-<head>
+ 
 <meta charset="utf-8">
 <style>
     .box{
@@ -21,7 +21,7 @@ description: ""
         width: 60%; /* Set the width of the positioned div */
     }
 </style>
-</head> 
+ 
 <body>
 
 <div class="box">
