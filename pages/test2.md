@@ -15,20 +15,14 @@ description: ""
 <p style="clear: both;">
 	
  <style>
-.container {
-  position: relative;
-  text-align: center;
-  color: black;}
-
- 
-.centered {
-  position: absolute;
+.container {position: relative; text-align: center; color: black;}
+.centered {position: absolute;
   top: 90%;
   left: 50%;
   transform: translate(-50%, -50%);}</style>
  
 
 <div class="container">
- <img style="float: left; width:99%;margin-right: 1%; margin-bottom: 0.5em" src="/images/vol-17-issue-2/murals/Mural_Main2.jpg">
+ <a href="/vol-17/issue-2/jul-sep-2021/murals"><img style="float: left; width:99%;margin-right: 1%; margin-bottom: 0.5em" src="/images/vol-17-issue-2/murals/Mural_Main2.jpg"> </a>
   <div class="centered">Murals</div>
 </div>
