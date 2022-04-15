@@ -15,4 +15,4 @@ description: ""
 <p style="clear: both;">
 
 <a href="/vol-17/issue-2/jul-sep-2021/murals"> 
-<p style="float: left; font-size: 12pt; text-align: center; width: 100%; margin-right: 1%; margin-bottom: 0.5em;"><img style="float: left; width:99%;margin-right: 1%; margin-bottom: 0.5em" src="/images/vol-17-issue-2/murals/Mural_Main2.jpg"></a>The Forgotten Murals of Paya Lebar Airport</p>
+<p style="float: left; font-size: 12pt; text-align: left; width: 100%; margin-right: 1%; margin-bottom: 0.2em;"><img style="float: left; width:99%;margin-right: 1%; margin-bottom: 0.5em" src="/images/vol-17-issue-2/murals/Mural_Main2.jpg"></a><b>The Forgotten Murals of Paya Lebar Airport</b></p>
