@@ -13,3 +13,6 @@ description: ""
 <a href="/vol-16/issue-2/jul-sep-2020/raffles">	<img src="/images/Vol-16-issue-2/raffles/stork.jpg" style="float: left; width:32.3%; height: 250px; object-fit: cover; margin-right: 1%; margin-bottom: 0.5em"> </a>
 	
 <p style="clear: both;">
+
+<a href="/vol-17/issue-2/jul-sep-2021/murals"> 
+<p style="float: left; font-size: 12pt; text-align: center; width: 100%; margin-right: 1%; margin-bottom: 0.5em;"><img style="float: left; width:99%;margin-right: 1%; margin-bottom: 0.5em" src="/images/vol-17-issue-2/murals/Mural_Main2.jpg"></a>The Forgotten Murals of Paya Lebar Airport</p>
