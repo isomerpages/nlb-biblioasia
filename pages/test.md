@@ -3,7 +3,8 @@ title: test
 permalink: /testinging
 description: ""
 ---
-<a href="/vol-17/issue-2/jul-sep-2021/murals" class="hovertext" title="Three large murals used to grace the walls of Paya Lebar Airport, depicting scenes from Singapore and Malaysia. Dahlia Shamsuddin has the inside story of how they came to be."> <img style="float: left; width:99%;margin-right: 1%; margin-bottom: 0.5em" src="/images/vol-17-issue-2/murals/Mural_Main2.jpg"> </a>
+<p style="float: left; font-size: 12pt; text-align: left; margin-right: 1%; margin-bottom: 0.5em;"> 
+<a href="/vol-17/issue-2/jul-sep-2021/murals" class="hovertext" title="Three large murals used to grace the walls of Paya Lebar Airport, depicting scenes from Singapore and Malaysia. Dahlia Shamsuddin has the inside story of how they came to be."> <img style="float: left; width:100%;margin-right: 1%; margin-bottom: 0.7em" src="/images/vol-17-issue-2/murals/Mural_Main2.jpg"> </a>The Forgotten Murals of Paya Lebar Airport</p>
 
 <p style="clear: both;">
 	
