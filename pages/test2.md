@@ -23,7 +23,7 @@ description: ""
  
 .centered {
   position: absolute;
-  top: 10%;
+  top: 90%;
   left: 50%;
   transform: translate(-50%, -50%);}</style>
  
@@ -32,5 +32,3 @@ description: ""
  <img style="float: left; width:99%;margin-right: 1%; margin-bottom: 0.5em" src="/images/vol-17-issue-2/murals/Mural_Main2.jpg">
   <div class="centered">Murals</div>
 </div>
- 
- 
