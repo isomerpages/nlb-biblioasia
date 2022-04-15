@@ -9,8 +9,7 @@ description: ""
 <style>
     .box{
         position: relative;
-        display: inline-block; /* Make the width of box same as image */
-    }
+        display: inline-block; /* Make the width of box same as image */    }
     .box .text{
         position: absolute;
         z-index: 999;
@@ -31,4 +30,3 @@ description: ""
 	
 </body>
 </html>
- 
