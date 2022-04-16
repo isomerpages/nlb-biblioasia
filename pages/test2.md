@@ -8,7 +8,6 @@ description: ""
 <p><a title="A little-known collection from 1818 to 1820 commissioned under the watch of two French naturalists sheds light on the early study of the region’s flora and fauna.
 " href="/vol-17/issue-4/jan-mar-2022/diardduvaucel" class="hovertext" > <img src="/images/vol-17-issue-4/diard-duvaucel/DiardDuvaucel2.jpg" style="float: left; width:30%; height: 260px; object-fit: cover; margin-right: 1%; margin-bottom: 0.5em"> </a></p> 
 
-<p><a title="A little-known collection from 1818 to 1820 commissioned under the watch of two French naturalists sheds light on the early study of the region’s flora and fauna.
-" href="/vol-17/issue-4/jan-mar-2022/diardduvaucel" class="hovertext" > <img src="/images/vol-17-issue-4/diard-duvaucel/DiardDuvaucel2.jpg" style="float: left; width:260px; height: 260px; object-fit: cover; margin-right: 1%; margin-bottom: 0.5em"> </a></p> 
+<p><a title="Chapters on Asia features selected papers written by scholars who have been awarded the National Library's Lee Kong Chian Research Fellowship. This 2020 edition features the following papers." href="/vol-17/issue-4/jan-mar-2022/diardduvaucel" class="hovertext" > <img src="/images/publications/COA2020%20cover.jpg" style="float: left; width:30%; object-fit: cover; margin-right: 1%; margin-bottom: 0.5em"> </a></p> 
 	
 <a href="/vol-16/issue-2/jul-sep-2020/raffles">	<img src="/images/Vol-16-issue-2/raffles/stork.jpg" style="float: left; width:32.3%; height: 250px; object-fit: cover; margin-right: 1%; margin-bottom: 0.5em"> </a>
