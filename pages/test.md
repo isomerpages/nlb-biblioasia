@@ -3,7 +3,7 @@ title: test
 permalink: /testinging
 description: ""
 ---
-<div class="container"> 
+<div class="box"> 
 <a href="/vol-17/issue-2/jul-sep-2021/murals" class="hovertext" title="Three large murals used to grace the walls of Paya Lebar Airport, depicting scenes from Singapore and Malaysia. Dahlia Shamsuddin has the inside story of how they came to be."><img style="float: left; width:99%;margin-right: 1%; margin-bottom: 0.5em" src="/images/vol-17-issue-2/murals/Mural_Main2.jpg"></a> 
 		  <div class="text-block">
     <h4>The Forgotten Murals</h4>
@@ -27,8 +27,7 @@ description: ""
 <style>
     .box{
         position: relative;
-        display: inline-block; /* Make the width of box same as image */
-    }
+        display: inline-block; }
     .box .text{
         position: absolute;
         z-index: 999;
@@ -36,19 +35,18 @@ description: ""
         left: 0;
         right: 0;        
         text-align: left;
-        top: 81.4%; /* Adjust this value to move the positioned div up and down */
+        top: 81.4%; 
         background: rgba(0, 0, 0, 0.6);
         font-family: Arial,sans-serif;
         color: #fff;
-        width: 100%; /* Set the width of the positioned div */
+        width: 100%; 
     }
 </style>
  
 
-    <div class="box">
-    	<img alt="Flying Kites" src="/examples/images/kites.jpg">
-        <div class="text">
-            <h1>Flying Kites</h1>
+<div class="box"> 
+<a href="/vol-17/issue-2/jul-sep-2021/murals" class="hovertext" title="Three large murals used to grace the walls of Paya Lebar Airport, depicting scenes from Singapore and Malaysia. Dahlia Shamsuddin has the inside story of how they came to be."><img style="float: left; width:99%;margin-right: 1%; margin-bottom: 0.5em" src="/images/vol-17-issue-2/murals/Mural_Main2.jpg"></a> 
+		  <div class="text">
+            <h4>Flying Kites</h4>
         </div>
     </div>
-
