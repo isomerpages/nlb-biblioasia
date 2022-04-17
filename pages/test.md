@@ -17,7 +17,7 @@ description: ""
 <p style="clear: both;">
 	
 <a href="/vol-17/issue-2/jul-sep-2021/murals" class="hovertext" title="Three large murals used to grace the walls of Paya Lebar Airport, depicting scenes from Singapore and Malaysia. Dahlia Shamsuddin has the inside story of how they came to be."><img style="float: left; width:100%;margin-right: 1%; margin-bottom: 0.5em" src="/images/vol-17-issue-2/murals/Mural_Main2.jpg"></a> 
-<div style="position: absolute; top: 785px;padding-left: 5px; padding-bottom:2px; padding-right:-5px; background-color: transparent; font-weight: bold; color: #fff; background: rgb(0, 0, 0); background: rgba(0, 0, 0, 0.7);">
+<div style="position: absolute; top: 785px;padding-left: 5px; padding-bottom:2px; background-color: transparent; font-weight: bold; color: #fff; background: rgb(0, 0, 0); background: rgba(0, 0, 0, 0.7);">
 <div style="padding-top:2px">
 
 <div style="float:left"><h5 style="color:#fff"> The Forgotten Murals of Paya Lebar Airport</h5></div>
