@@ -13,7 +13,7 @@ description: ""
         left: 0;
         right:0px;        
         text-align: left;
-        top: 80%; 
+        top: 90%; 
         background: rgba(0, 0, 0, 0.6);
         color: #fff;
         width: 60%; }</style>
