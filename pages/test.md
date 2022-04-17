@@ -34,7 +34,7 @@ description: ""
         left: 0;
         right: -5px;        
         text-align: left;
-        top: 81.4%; 
+        top: 85%; 
         background: rgba(0, 0, 0, 0.6);
         font-family: Arial,sans-serif;
         color: #fff;
