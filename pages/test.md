@@ -16,7 +16,7 @@ description: ""
         top: 80%; 
         background: rgba(0, 0, 0, 0.6);
         color: #fff;
-        width: 100%; }</style>
+        width: 60%; }</style>
 
 <div class="box"> 
 <a href="/vol-17/issue-2/jul-sep-2021/murals" class="hovertext" title="Three large murals used to grace the walls of Paya Lebar Airport, depicting scenes from Singapore and Malaysia. Dahlia Shamsuddin has the inside story of how they came to be."><img style="float: left; width:100%;margin-right: 1%; margin-bottom: 0.5em" src="/images/vol-17-issue-2/murals/Mural_Main2.jpg"></a> 
