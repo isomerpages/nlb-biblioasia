@@ -25,8 +25,7 @@ description: ""
 
 
 <style>
-    .box{
-        position: relative;
+    .box{position: relative;
         display: inline-block; }
     .box .text{
         position: absolute;
@@ -45,7 +44,5 @@ description: ""
 
 <div class="box"> 
 <a href="/vol-17/issue-2/jul-sep-2021/murals" class="hovertext" title="Three large murals used to grace the walls of Paya Lebar Airport, depicting scenes from Singapore and Malaysia. Dahlia Shamsuddin has the inside story of how they came to be."><img style="float: left; width:99%;margin-right: 1%; margin-bottom: 0.5em" src="/images/vol-17-issue-2/murals/Mural_Main2.jpg"></a> 
-		  <div class="text">
-            <p><b>Flying Kites</b></p>
-        </div>
+		  <div class="text">  <p><b>The Forgotten Murals</b></p> </div>
     </div>
