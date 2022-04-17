@@ -19,13 +19,13 @@ description: ""
         width: 100%; }</style>
 
 <div class="box"> 
-<a href="/vol-17/issue-2/jul-sep-2021/murals" class="hovertext" title="Three large murals used to grace the walls of Paya Lebar Airport, depicting scenes from Singapore and Malaysia. Dahlia Shamsuddin has the inside story of how they came to be."><img style="float: left; width:100%;height: 200px; margin-right: 1%; margin-bottom: 0.5em" src="/images/vol-17-issue-2/murals/Mural_Main2.jpg"></a> 
+<a href="/vol-17/issue-2/jul-sep-2021/murals" class="hovertext" title="Three large murals used to grace the walls of Paya Lebar Airport, depicting scenes from Singapore and Malaysia. Dahlia Shamsuddin has the inside story of how they came to be."><img style="float: left; width:100%; margin-right: 1%; margin-bottom: 0.5em" src="/images/vol-17-issue-2/murals/Mural_Main2.jpg"></a> 
 <div class="text">  <p><b>The Forgotten Murals of Paya Lebar Airport
 </b></p> </div>
 </div>
 		
 <div class="box"> 	
-<a href="/vol-17/issue-1/apr-jun-2021/malayan-fruits" class="hovertext" title="Who commissioned the Dumbarton Oaks collection of 70 drawings on local fruits? Faris Joraimi attempts to unravel the mystery of its origins, which could predate Raffles’ arrival."> <img src="/images/Vol-17-issue-1/malayan-fruits/ananas.jpg" style="float: left; width:100%; height: 200px; object-fit: cover; margin-right: 1%; margin-bottom: 0.5em"> </a>
+<a href="/vol-17/issue-1/apr-jun-2021/malayan-fruits" class="hovertext" title="Who commissioned the Dumbarton Oaks collection of 70 drawings on local fruits? Faris Joraimi attempts to unravel the mystery of its origins, which could predate Raffles’ arrival."> <img src="/images/Vol-17-issue-1/malayan-fruits/ananas.jpg" style="float: left; width:100%; object-fit: cover; margin-right: 1%; margin-bottom: 0.5em"> </a>
 <div class="text">  
 <p><b>A Banquet of Malayan Fruits: Botanical Art in the Melaka Straits</b></p> </div>
 </div>
