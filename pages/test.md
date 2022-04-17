@@ -31,10 +31,9 @@ description: ""
 <p><b>A Banquet of Malayan Fruits: Botanical Art in the Melaka Straits</b></p> </div>
 </div>
 
-<a href="/vol-12/issue-3/oct-dec-2016/the-tiger-within">	<img src="/images/Vol-12-issue-3/the-tiger-within/01-tiger-within.jpg" style="float: left; width:30%; height: 250px; object-fit: cover; margin-right: 1%; margin-bottom: 0.5em"> </a>
-<div class="text">  
-<p><b>The Tiger Within</b></p> </div>
+<a href="/vol-12/issue-3/oct-dec-2016/the-tiger-within">	<img src="/images/Vol-12-issue-3/the-tiger-within/01-tiger-within.jpg" style="float: left; width:66%; height: 250px; object-fit: cover; margin-right: 1%; margin-bottom: 0.5em"> </a>
+
 	
-<a href="/vol-16/issue-2/jul-sep-2020/raffles">	<img src="/images/Vol-16-issue-2/raffles/stork.jpg" style="float: left; width:30%; height: 250px; object-fit: cover; margin-right: 1%; margin-bottom: 0.5em"> </a>
+<a href="/vol-16/issue-2/jul-sep-2020/raffles">	<img src="/images/Vol-16-issue-2/raffles/stork.jpg" style="float: left; width:32%; height: 250px; object-fit: cover; margin-right: 1%; margin-bottom: 0.5em"> </a>
 	
 <p style="clear: both;"></p>
