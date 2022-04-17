@@ -32,9 +32,9 @@ description: ""
 
 
 <style>
-    .container{position: relative;
+    .box1{position: relative;
         display: inline-block; }
-    .container .textbox{
+    .box1 .text{
         position: absolute;
         z-index: 999;
         margin: 0 auto;
@@ -46,8 +46,8 @@ description: ""
         color: #fff;
         width: 32%; }</style>
 
-<div class="container">
-<a href="/vol-12/issue-3/oct-dec-2016/the-tiger-within">	<img src="/images/Vol-12-issue-3/the-tiger-within/01-tiger-within.jpg" style="float: left; width:32%; height: 250px; object-fit: cover; margin-right: 1%; margin-bottom: 0.5em"> </a></div>
+<div class="box1">
+<a href="/vol-12/issue-3/oct-dec-2016/the-tiger-within">	<img src="/images/Vol-12-issue-3/the-tiger-within/01-tiger-within.jpg" style="float: left; width:250px; height: 250px; object-fit: cover; margin-right: 1%; margin-bottom: 0.5em"> </a></div>
 
 	
 <a href="/vol-16/issue-2/jul-sep-2020/raffles">	<img src="/images/Vol-16-issue-2/raffles/stork.jpg" style="float: left; width:32%; height: 250px; object-fit: cover; margin-right: 1%; margin-bottom: 0.5em"> </a>
