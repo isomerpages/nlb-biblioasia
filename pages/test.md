@@ -13,7 +13,7 @@ description: ""
         left: 0;
         right:0px;        
         text-align: left;
-        top: 80%; 
+        top: 82%; 
         background: rgba(0, 0, 0, 0.6);
         color: #fff;
         width: 100%; }</style>
@@ -24,11 +24,27 @@ description: ""
 </b></p> </div>
 </div>
 		
-	
 <p style="clear: both;">
-	
+<style>
+    .box1{position: relative;
+        display: inline-block; }
+    .box1 .text{
+        position: absolute;
+        z-index: 999;
+        margin: 0 auto;
+        left: 0;
+        right:0px;        
+        text-align: left;
+        top: 80%; 
+        background: rgba(0, 0, 0, 0.6);
+        color: #fff;
+        width: 30%; }</style>
+<div class="box1"> 	
 <a href="/vol-17/issue-1/apr-jun-2021/malayan-fruits" class="hovertext" title="Who commissioned the Dumbarton Oaks collection of 70 drawings on local fruits? Faris Joraimi attempts to unravel the mystery of its origins, which could predate Raffles’ arrival.
 "> <img src="/images/Vol-17-issue-1/malayan-fruits/ananas.jpg" style="float: left; width:30%; height: 250px; object-fit: cover; margin-right: 1%; margin-bottom: 0.5em"> </a>
+<div class="text">  
+<p><b>A Banquet of Malayan Fruits: Botanical Art in the Melaka Straits</b></p> </div>
+</div>
 
 <a href="/vol-12/issue-3/oct-dec-2016/the-tiger-within">	<img src="/images/Vol-12-issue-3/the-tiger-within/01-tiger-within.jpg" style="float: left; width:30%; height: 250px; object-fit: cover; margin-right: 1%; margin-bottom: 0.5em"> </a>
 	
