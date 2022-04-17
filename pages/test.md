@@ -24,23 +24,8 @@ description: ""
 </div>
 
 
-<style>
-    .box1{position: relative;
-        display: inline-block; }
-    .box .text{
-        position: absolute;
-        z-index: 999;
-        margin: 0 auto;
-        left: 0;
-        right:0px;        
-        text-align: left;
-        top: 0%; 
-        background: rgba(0, 0, 0, 0.6);
-        color: #fff;
-        width: 100%; }</style>
-
-<div class="box1"> 	
-<a href="/vol-17/issue-1/apr-jun-2021/malayan-fruits" class="hovertext" title="Who commissioned the Dumbarton Oaks collection of 70 drawings on local fruits? Faris Joraimi attempts to unravel the mystery of its origins, which could predate Raffles’ arrival."> <img src="/images/Vol-17-issue-1/malayan-fruits/ananas.jpg" style="float: left; height:250px; object-fit: cover; margin-bottom: 0.5em"> </a>
+<div class="box"> 	
+<a href="/vol-17/issue-1/apr-jun-2021/malayan-fruits" class="hovertext" title="Who commissioned the Dumbarton Oaks collection of 70 drawings on local fruits? Faris Joraimi attempts to unravel the mystery of its origins, which could predate Raffles’ arrival."> <img src="/images/Vol-17-issue-1/malayan-fruits/ananas.jpg" style="float: left; width:100%; height:250px; object-fit: cover; margin-bottom: 0.5em"> </a>
 <div class="text">  
 <p><b>A Banquet of Malayan Fruits: Botanical Art in the Melaka Straits</b></p> </div>
 </div>
