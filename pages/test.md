@@ -25,8 +25,7 @@ description: ""
 </div>
 		
 <div class="box"> 	
-<a href="/vol-17/issue-1/apr-jun-2021/malayan-fruits" class="hovertext" title="Who commissioned the Dumbarton Oaks collection of 70 drawings on local fruits? Faris Joraimi attempts to unravel the mystery of its origins, which could predate Raffles’ arrival.
-"> <img src="/images/Vol-17-issue-1/malayan-fruits/ananas.jpg" style="float: left; width:100%; height: 250px; object-fit: cover; margin-right: 1%; margin-bottom: 0.5em"> </a>
+<a href="/vol-17/issue-1/apr-jun-2021/malayan-fruits" class="hovertext" title="Who commissioned the Dumbarton Oaks collection of 70 drawings on local fruits? Faris Joraimi attempts to unravel the mystery of its origins, which could predate Raffles’ arrival."> <img src="/images/Vol-17-issue-1/malayan-fruits/ananas.jpg" style="float: left; width:100%; height: 250px; object-fit: cover; margin-right: 1%; margin-bottom: 0.5em"> </a>
 <div class="text">  
 <p><b>A Banquet of Malayan Fruits: Botanical Art in the Melaka Straits</b></p> </div>
 </div>
