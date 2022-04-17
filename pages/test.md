@@ -44,13 +44,13 @@ description: ""
         top: 0%; 
         background: rgba(0, 0, 0, 0.6);
         color: #fff;
-        width: 250px; }</style>
+        width: 260px; }</style>
 
 <div class="box1">
-<a href="/vol-12/issue-3/oct-dec-2016/the-tiger-within">	<img src="/images/Vol-12-issue-3/the-tiger-within/01-tiger-within.jpg" style="float: left; width:250px; height: 250px; object-fit: cover; margin-right: 1%; margin-bottom: 0.5em"> </a></div>
+<a href="/vol-12/issue-3/oct-dec-2016/the-tiger-within">	<img src="/images/Vol-12-issue-3/the-tiger-within/01-tiger-within.jpg" style="float: left; width:260px; height: 250px; object-fit: cover; margin-right: 1%; margin-bottom: 0.5em"> </a></div>
 <div class="text">  <p><b>The Tiger Within</b></p> </div>
 </div>
 	
-<a href="/vol-16/issue-2/jul-sep-2020/raffles">	<img src="/images/Vol-16-issue-2/raffles/stork.jpg" style="float: left; width:250px; height: 250px; object-fit: cover; margin-right: 1%; margin-bottom: 0.5em"> </a>
+<a href="/vol-16/issue-2/jul-sep-2020/raffles">	<img src="/images/Vol-16-issue-2/raffles/stork.jpg" style="float: left; width:250px; height: 260px; object-fit: cover; margin-right: 1%; margin-bottom: 0.5em"> </a>
 	
 <p style="clear: both;"></p>
