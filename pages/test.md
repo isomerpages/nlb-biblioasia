@@ -33,4 +33,4 @@ description: ""
 	
 <a href="/vol-16/issue-2/jul-sep-2020/raffles">	<img src="/images/Vol-16-issue-2/raffles/stork.jpg" style="float: left; width:30%; height: 250px; object-fit: cover; margin-right: 1%; margin-bottom: 0.5em"> </a>
 	
-</p><p style="clear: both;"></p></div>
+</p><p style="clear: both;"></p> 
