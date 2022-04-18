@@ -20,7 +20,7 @@ description: ""
 
 <div class="box"> 
 <a href="/vol-17/issue-2/jul-sep-2021/murals" class="hovertext" title="Three large murals used to grace the walls of Paya Lebar Airport, depicting scenes from Singapore and Malaysia. Dahlia Shamsuddin has the inside story of how they came to be."><img style="float: left; width:100%; margin-bottom: 0.5em" src="/images/vol-17-issue-2/murals/Mural_Main2.jpg"></a> 
-<div class="text">  <p><b>The Forgotten Murals of Paya Lebar Airport</p> </div>
+<div class="text">  <p><b>The Forgotten Murals of Paya Lebar Airport</b></p> </div>
 </div>
 
 <div class="box"> 	
