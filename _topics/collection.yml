@@ -2,7 +2,6 @@ collections:
   topics:
     output: true
     order:
-      - Maps.md
       - Editor's Picks.md
       - Art .md
       - Culture.md
@@ -10,6 +9,7 @@ collections:
       - Food.md
       - Governance.md
       - Literature.md
+      - Maps.md
       - Medicine.md
       - Nature and the Environment .md
       - People.md
