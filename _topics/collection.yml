@@ -2,6 +2,7 @@ collections:
   topics:
     output: true
     order:
+      - Wars.md
       - Women.md
       - Editor's Picks.md
       - Art .md
