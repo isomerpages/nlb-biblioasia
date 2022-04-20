@@ -81,7 +81,7 @@ Dignitaries may also enjoy other aspects of the Botanic Gardens during their vis
 ![](/images/Vol%2018%20Issue%201/Orchid%20Diplomacy/Xi%20Jinping-Peng%20Liyuan.png)
 <div style="background-color: white;">The <i>Papilionanda</i> Xi Jinping-Peng Liyuan is named in honour of the Chinese President and his wife. <i>Photo by and courtesy of Jimmy Yap.</i></div>
 
-<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #f58257;text-align:center"> Want more of what you’re reading? Get BiblioAsia’s latest stories delivered to your inbox. Subscribe <a href=https://form.gov.sg/#!/616799db4d9b61001398f79b>here</a>. </div>
+ <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #f58257;text-align:center"> Want more of what you’re reading? Get BiblioAsia’s latest stories delivered to your inbox. Subscribe <a href="https://form.gov.sg/#!/616799db4d9b61001398f79b">here</a>. </div>
 
 
 #### **Non-VIP Orchids**
