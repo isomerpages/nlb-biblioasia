@@ -46,14 +46,13 @@ The Marlborough was also upgraded. In April 1930, the *Malaya Tribune* reported 
 
 Tan’s management of the Alhambra came to an end when he leased out the cinema to the Shaw Brothers – which operated 60 cinemas and four amusement parks in Malaya at the time. This took effect from 1 April 1938, about a year before his death at the age of 64.
 
+ <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #f58257;text-align:center"> Want more of what you’re reading? Get BiblioAsia’s latest stories delivered to your inbox. Subscribe <a href="https://form.gov.sg/#!/616799db4d9b61001398f79b">here</a>. </div>
+ 
 The *Straits Times* reported: “As the first step toward bringing the theatre back to its former status, an air-conditioning plant is being installed to make the Alhambra the first cinema in Malaya to possess such equipment. Shaw Brothers will take over control of the cinema as from April 1. During May, the building will be closed for a fortnight to enable extensive renovation and changes to be effected in interior and exterior decorations.”[^18]
 
 The cinema opened as the New Alhambra in July 1938, and a special feature of the air-conditioning was the specially designed rotary filter that ensured clean air in the cinema hall. Other improvements include a bar, a new box office, improved seating, a new stage and the latest architectural tubular lighting. Shaw Brothers operated the cinema until the fall of Singapore in February 1942.[^19]
 
 During the Japanese Occupation of Singapore (1942–45), the Japanese military appropriated the Alhambra and screened Japanese propaganda films.[^20]
-
- <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #f58257;text-align:center"> Want more of what you’re reading? Get BiblioAsia’s latest stories delivered to your inbox. Subscribe <a href="https://form.gov.sg/#!/616799db4d9b61001398f79b">here</a>. </div>
-
 
 #### **Tan Cheng Kee’s Notebooks**
 
