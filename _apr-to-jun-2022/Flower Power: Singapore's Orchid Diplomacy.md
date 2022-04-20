@@ -5,8 +5,6 @@ description: ""
 image: /images/Vol 18 Issue 1/Orchid Diplomacy/Sealara Nelson Mandela (credit
   NParks).png
 ---
-
-
 #### Singapore’s diplomatic efforts may take several forms, including naming orchid hybrids after foreign dignitaries. **Rebecca Tan** tells us more.
 
 ![](/images/Vol%2018%20Issue%201/Orchid%20Diplomacy/Sealara%20Nelson%20Mandela%20(credit%20NParks).png)
@@ -80,9 +78,11 @@ her are (from left) Permanent Secretary to the Ministry of National Development 
 Dignitaries may also enjoy other aspects of the Botanic Gardens during their visit. In November 2015, after the *Papilionanda* Xi Jinping-Peng Liyuan (*Vanda* Kulwadee Fragrance × *Papilionanthe* Miss Joaquim) was named in honour of the Chinese President and his wife, the couple enjoyed a four-course lunch at the Corner House restaurant in the Botanic Gardens. They were hosted by Prime Minister Lee Hsien Loong and his wife Ho Ching. The orchid has pink petals with fine red spots, an orangey-red prominent lip with dark red markings, and an orangey-yellow centre.[^28]
 
 
-
 ![](/images/Vol%2018%20Issue%201/Orchid%20Diplomacy/Xi%20Jinping-Peng%20Liyuan.png)
 <div style="background-color: white;">The <i>Papilionanda</i> Xi Jinping-Peng Liyuan is named in honour of the Chinese President and his wife. <i>Photo by and courtesy of Jimmy Yap.</i></div>
+
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #f58257;text-align:center"> Want more of what you’re reading? Get BiblioAsia’s latest stories delivered to your inbox. Subscribe <a href=https://form.gov.sg/#!/616799db4d9b61001398f79b>here</a>. </div>
+
 
 #### **Non-VIP Orchids**
 
