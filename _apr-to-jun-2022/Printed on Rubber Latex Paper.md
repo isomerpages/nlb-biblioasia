@@ -4,8 +4,6 @@ permalink: /vol-18/issue-1/apr-to-jun-2022/rubber-latex-paper
 description: ""
 image: /images/Vol 18 Issue 1/Rubber Latex Paper/covers_editted.png
 ---
-
-
 #### An innovation patented in 1920 produced paper that was more durable, had greater tensile strength and was resistant to folding, as **Alex Teoh** tells us.
 
 ![](/images/Vol%2018%20Issue%201/Rubber%20Latex%20Paper/covers_editted.png)
@@ -49,6 +47,9 @@ A *Singapore Free Press* report summarised the problem: “In the first place, e
 ![](/images/Vol%2018%20Issue%201/Rubber%20Latex%20Paper/edit_pamphlet.png)
 <div style="background-color: white;">An advertisement of the Malay States Information Agency in 1928.<i> Image reproduced from Federated Malay States Railways: Pamphlet of Information for Travellers 1928: Tours in the Malay Peninsula (Kuala Lumpur: Federated Malay States Railways, 1928), 87. (From National Library, Singapore, Call no. RRARE 959.51 FED; Microfilm no. NL28657).
 </i></div>
+
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #f58257;text-align:center"> Like what you're reading? <a href=https://form.gov.sg/#!/616799db4d9b61001398f79b>Subscribe</a> to BiblioAsia's online newsletter for the latest stories.</div>
+
 
 #### **Commercial Latex Paper**
 
