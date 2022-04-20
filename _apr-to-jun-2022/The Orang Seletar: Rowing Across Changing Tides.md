@@ -4,8 +4,6 @@ permalink: /vol-18/issue-1/apr-to-jun-2022/orang-seletar-changing-tides
 description: ""
 image: /images/Vol 18 Issue 1/Orang Seletar/orang_seletar_cover.png
 ---
-
-
 #### Singapore was once a home to the seafaring Orang Seletar who now reside in Johor Bahru. **Ilya Katrinnada** takes them on a tour around Singapore visiting Merlion Park, Sembawang Park and Lower Seletar Reservoir Park.
 
 ![](/images/Vol%2018%20Issue%201/Orang%20Seletar/orang_seletar_cover.png)
@@ -47,6 +45,8 @@ When Raffles first set foot on Singapore in January 1819, the Orang Seletar made
 While the Orang Seletar refer to themselves as Kon Seletar or simply Kon, our interviewees said that it was the Malays who had given them the name “Orang Seletar”. Cultural geographer David Sopher suggests that the name *Seletar* is a Malay version of the Dutch term *selatter* which in turn was adapted from the Portuguese *selat*.[^9] Meaning “straits”, *selat* was adopted by writers in the 16th century to collectively refer to the different subgroups of sea nomads in the Melaka Strait. Hence, the presence of sea nomads in and around Singapore has been recorded as early as the 1500s.
 
 The Orang Seletar have their own version of how the name Singapura came about. Several interviewees told us that their ancestors were hunting for wild boar on the island when they spotted a strange animal that looked like a lion. When Sang Nila Utama arrived in the 13th century, he had asked the Orang Seletar what the name of the island was. They replied “Singa Pulau” from which “Singapura” was derived. 
+
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #f58257;text-align:center"> Like what you're reading? <a href=https://form.gov.sg/#!/616799db4d9b61001398f79b>Subscribe</a> to BiblioAsia's online newsletter for the latest stories.</div>
 
 #### **Singapore’s Pioneer Generation**
 
