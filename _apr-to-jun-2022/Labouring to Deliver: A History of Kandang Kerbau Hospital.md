@@ -4,9 +4,6 @@ permalink: /vol-18/issue-1/apr-to-jun-2022/history-kandang-kerbau-hospital
 description: ""
 image: /images/Vol 18 Issue 1/KKH Hospital/19980001245 IMG0083.png
 ---
-
-
-
 #### The old Kandang Kerbau Hospital was once known as the busiest maternity hospital in the world. **Joanna Tan** delivers the story behind a hallowed Singapore institution.
 
 ![](/images/Vol%2018%20Issue%201/KKH%20Hospital/19980001245%20IMG0083.png)
@@ -39,6 +36,9 @@ The hospital was located at the site bounded by Serangoon, Selegie, Bukit Timah 
 Migrants to Singapore in the 19th century were largely male. However, as more female migrants began arriving in Singapore in the first few decades of the 20th century, birth rates rapidly increased and naturally so did demand for maternity-related medical services.[^10] 
 
 The Free Maternity Hospital on Victoria Street became overwhelmed and patients had to be turned away. With more patients than beds, KK Hospital was renovated, expanded and converted into the Free Maternity Hospital comprising three one-storey buildings. When KK Hospital officially opened as a maternity hospital on 1 October 1924, the Free Maternity Hospital on Victoria Street moved to KK Hospital.[^11]
+
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #f58257;text-align:center"> Like what you're reading? <a href="https://form.gov.sg/#!/616799db4d9b61001398f79b">Subscribe</a> to BiblioAsia's online newsletter for the latest stories.</div>
+
 
 Later, when this new maternity hospital proved unable to meet demand, one of the buildings was torn down and a three-storey block with 120 beds was erected in 1934. However, the number of births continued increasing so rapidly that another new block was built, increasing the number of beds to 180 when it opened in July 1940. There were 6,184 births that year – all pro bono. Paying patients and gynaecological cases were treated at the General Hospital on Outram Road.[^12]
 
