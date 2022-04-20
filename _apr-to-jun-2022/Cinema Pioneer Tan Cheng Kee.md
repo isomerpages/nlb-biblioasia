@@ -4,8 +4,6 @@ permalink: /vol-18/issue-1/apr-to-jun-2022/cinema-pioneer-tan-cheng-kee
 description: ""
 image: /images/Vol 18 Issue 1/Tan Cheng Kee/cover.png
 ---
-
-
 #### The Alhambra and Marlborough theatres were famous landmarks in pre-war Singapore. **Barbara Quek** looks at these cinemas, and the man behind the curtain.
 
 ![](/images/Vol%2018%20Issue%201/Tan%20Cheng%20Kee/cover.png)
@@ -53,6 +51,9 @@ The *Straits Times* reported: “As the first step toward bringing the theatre b
 The cinema opened as the New Alhambra in July 1938, and a special feature of the air-conditioning was the specially designed rotary filter that ensured clean air in the cinema hall. Other improvements include a bar, a new box office, improved seating, a new stage and the latest architectural tubular lighting. Shaw Brothers operated the cinema until the fall of Singapore in February 1942.[^19]
 
 During the Japanese Occupation of Singapore (1942–45), the Japanese military appropriated the Alhambra and screened Japanese propaganda films.[^20]
+
+ <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #f58257;text-align:center"> Want more of what you’re reading? Get BiblioAsia’s latest stories delivered to your inbox. Subscribe <a href="https://form.gov.sg/#!/616799db4d9b61001398f79b">here</a>. </div>
+
 
 #### **Tan Cheng Kee’s Notebooks**
 
