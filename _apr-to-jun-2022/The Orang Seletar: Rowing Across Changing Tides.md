@@ -46,7 +46,7 @@ While the Orang Seletar refer to themselves as Kon Seletar or simply Kon, our in
 
 The Orang Seletar have their own version of how the name Singapura came about. Several interviewees told us that their ancestors were hunting for wild boar on the island when they spotted a strange animal that looked like a lion. When Sang Nila Utama arrived in the 13th century, he had asked the Orang Seletar what the name of the island was. They replied “Singa Pulau” from which “Singapura” was derived. 
 
-<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #f58257;text-align:center"> Like what you're reading? <a href=https://form.gov.sg/#!/616799db4d9b61001398f79b>Subscribe</a> to BiblioAsia's online newsletter for the latest stories.</div>
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #f58257;text-align:center"> Like what you're reading? <a href="https://form.gov.sg/#!/616799db4d9b61001398f79b">Subscribe</a> to BiblioAsia's online newsletter for the latest stories.</div>
 
 #### **Singapore’s Pioneer Generation**
 
