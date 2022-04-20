@@ -38,6 +38,8 @@ Yam Tin Wing, senior researcher of orchid breeding at the Singapore Botanic Gard
 
 Orchid hybrids take anywhere between two and six years to flower from the day the parents are crossed. For example, the *Aranda* Lee Kuan Yew (*Arachnis hookeriana* × *Vanda* Golden Moon), named after Singapore’s founding prime minister when he passed away in 2015, took four years to bloom after its parents were crossed.[^12]
 
+ <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #f58257;text-align:center"> Want more of what you’re reading? Get BiblioAsia’s latest stories delivered to your inbox. Subscribe <a href="https://form.gov.sg/#!/616799db4d9b61001398f79b">here</a>. </div>
+ 
 To ensure there are always orchid hybrids (“Very Important Plants”) available for naming after VIPs, the Botanic Gardens stores hundreds of hybrids that have bloomed but remain unnamed.[^13] According to a *Straits Times* report in 1984, some orchids “may bloom in obscurity for as much as a decade before getting a name – as they flower at a time when no celebrity is visiting. But a lucky few are christened in their first bloom”.[^14]
 
 To conserve the VIP orchid collections, these orchids are sent to the Gardens’ Micropropagation Laboratory for mass propagation, and subsequently to the National Orchid Garden’s nursery to be nurtured till they flower. These flowering plants are then used for displays and further propagation when stocks are low.[^15]
@@ -80,9 +82,6 @@ Dignitaries may also enjoy other aspects of the Botanic Gardens during their vis
 
 ![](/images/Vol%2018%20Issue%201/Orchid%20Diplomacy/Xi%20Jinping-Peng%20Liyuan.png)
 <div style="background-color: white;">The <i>Papilionanda</i> Xi Jinping-Peng Liyuan is named in honour of the Chinese President and his wife. <i>Photo by and courtesy of Jimmy Yap.</i></div>
-
- <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #f58257;text-align:center"> Want more of what you’re reading? Get BiblioAsia’s latest stories delivered to your inbox. Subscribe <a href="https://form.gov.sg/#!/616799db4d9b61001398f79b">here</a>. </div>
-
 
 #### **Non-VIP Orchids**
 
