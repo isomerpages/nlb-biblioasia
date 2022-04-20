@@ -4,8 +4,6 @@ permalink: /vol-18/issue-1/apr-to-jun-2022/history-opera-estate
 description: ""
 image: /images/Vol 18 Issue 1/Opera Estate/Jalan Bintang Tiga (2020) (orig).png
 ---
-
-
 #### **Asrina Tanuri** traces the development of Opera Estate from its early beginnings as coconut and rubber plantations to a private residential estate.
 
 ![](/images/Vol%2018%20Issue%201/Opera%20Estate/Jalan%20Bintang%20Tiga%20(2020)%20(orig).png)
@@ -65,6 +63,9 @@ Residents had to rely on pirate taxis instead, who charged unreasonably high far
 Opera Estate also used to be prone to flooding. The floods mainly occurred in the areas bound by New Changi Road, Fidelio Street and Dido Street, as well as Carmen Street, Carmen Terrace and Lakme Terrace. 
 
 In October 1973, a heavy morning downpour caused massive floods that submerged more than a hundred houses under three to four feet (1 to 1.2 m) of water. The *Straits Times* reported that “housewives, who had anticipated flooding because it had occurred on four previous occasions during the rainy spell this month rushed back from markets and telephoned their husbands to return and help in evacuating furniture and goods”. The Chua family on Aida Street was badly hit as their rock garden, which was worth thousands of dollars, was damaged. Their pet dog also drowned in the flooding.[^19] 
+
+
+ <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #f58257;text-align:center"> Want more of what you’re reading? Get BiblioAsia’s latest stories delivered to your inbox. Subscribe <a href="https://form.gov.sg/#!/616799db4d9b61001398f79b">here</a>. </div>
 
 Floods continued to plague residents well into the 1990s. Each time heavy rainfall was forecasted, residents would move their belongings to higher ground. After the floodwater receded, residents had to spend hours clearing the debris and cleaning their homes, salvaging what could be saved and discarding the rest.
 
