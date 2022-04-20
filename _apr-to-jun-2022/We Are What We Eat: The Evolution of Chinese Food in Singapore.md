@@ -4,8 +4,6 @@ permalink: /vol-18/issue-1/apr-to-jun-2022/evolution-chinese-food-singapore
 description: ""
 image: /images/Vol 18 Issue 1/Chinese Food/chicken rice.png
 ---
-
-
 #### Chinese food in Singapore is a product of the country’s history and geography, reveals **Low Sze Wee**.
 
 ![](/images/Vol%2018%20Issue%201/Chinese%20Food/chicken%20rice.png)
@@ -49,6 +47,8 @@ The local version of *popiah* illustrates this. A spring roll containing ingredi
 In addition to local ingredients, the cosmopolitan nature of a port city like Singapore also played a part in shaping local Chinese food. *Laksa*, for example, is now a common dish found in many restaurants and hawker centres. The dish is essentially a Chinese noodle soup cooked with a blend of Malay spices, fish stock and coconut milk. *Tau pok* and cockles were later added to the original dish. Regional touches are the inclusion of *belacan*, lemongrass and dried chilli.
 
 This popular dish is today most associated with the Peranakan Chinese, descendants of early Chinese traders who had settled down in Southeast Asia and married local women.
+
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #f58257;text-align:center"> Like what you're reading? <a href="https://form.gov.sg/#!/616799db4d9b61001398f79b">Subscribe</a> to BiblioAsia's online newsletter for the latest stories.</div>
 
 Through their familiarity with Malay cooking techniques and Southeast Asian ingredients, the Peranakan Chinese are also known for their localised version of the Chinese rice dumpling (*bak chang* in Hokkien and *zongzi* in Mandarin; glutinous rice stuffed with meat and wrapped in bamboo leaves).[^4]
  
