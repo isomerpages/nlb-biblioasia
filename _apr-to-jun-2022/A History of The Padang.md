@@ -4,8 +4,6 @@ permalink: /vol-18/issue-1/apr-to-jun-2022/history-padang
 description: ""
 image: /images/Vol 18 Issue 1/The Padang/padang12.png
 ---
-
-
 #### **Kevin Tan** looks at what makes the 4.3-hectare patch of green in front of the former City Hall building so special.
 
 ![](/images/Vol%2018%20Issue%201/The%20Padang/padang12.png)
@@ -52,6 +50,9 @@ Raffles had instructed that the north bank of the Singapore River be reserved fo
 The first move in transforming the Padang into a centrepiece of British power was the Municipal Commission’s (formerly the Municipal Committee) acquisition of part of the Hotel de l’Europe site nearer the junction of Coleman Street in 1899 for its new Municipal Building.[^16] Due to World War I and other delays, the new Municipal Building (renamed City Hall in 1951) was completed only in 1929. 
 
 Hotel de l’Europe was demolished in 1900 and rebuilt as Grand Hotel de l’Europe, which was completed in 1905. In 1932, the once-great hotel went bankrupt and the government acquired the site two years later to construct the Supreme Court to replace the old Court House (The Arts House today), which had been built in 1827 as a residence for Scottish merchant John Argyle Maxwell and renovated many times over.[^17]
+
+ <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #f58257;text-align:center"> Want more of what you’re reading? Get BiblioAsia’s latest stories delivered to your inbox. Subscribe <a href="https://form.gov.sg/#!/616799db4d9b61001398f79b">here</a>. </div>
+
 
 The Padang’s formal appearance was aided by its enlargement in 1859, its encirclement by Connaught Drive and St Andrew’s Road, and its framing by the Singapore Cricket Club on one end and the Singapore Recreation Club on the other. However, it was not until the late 1930s – with the completion of the Municipal Building in 1929 and the Supreme Court in 1939 – that the Padang and its surrounds became a symbol of British colonial power. This transformation took half a century.
 

@@ -1,13 +1,14 @@
 ---
 title: Nasi Lemak Istimewa
 permalink: /videos/nasi-lemak
-description: "Is it heresy to make nasi lemak with bay leaves instead of pandan? Join librarian Toffa Abdul Wahed on 21 April to find out. "
+description: "Is it heresy to make nasi lemak with bay leaves instead of pandan?
+  Join librarian Toffa Abdul Wahed on 21 April to find out. "
 third_nav_title: From Book to Cook
 image: /images/Videos:%20From%20Book%20to%20Cook/siti%20radhiah_steamed%20nasi%20lemak.png
 ---
-#### Is it heresy to make *nasi lemak* with bay leaves instead of pandan? Join librarian Toffa Abdul Wahed on 21 April to find out. 
-![](/images/Videos:%20From%20Book%20to%20Cook/siti%20radhiah_steamed%20nasi%20lemak.png)
-<div style="background-color: white;">Librarian and food researcher Toffa Abdul Wahed makes traditional steamed <i>nasi lemak</i> from a 1953 recipe by Siti Radhiah, an early female Malay cookbook author.</div>
+#### Is it heresy to make *nasi lemak* with bay leaves instead of pandan? Join librarian Toffa Abdul Wahed to find out. 
+
+<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src="https://www.youtube.com/embed/SJ4Qoe6bniI" frameborder='0' allowfullscreen></iframe></div>
 
 
 #### **Episode summary** ####

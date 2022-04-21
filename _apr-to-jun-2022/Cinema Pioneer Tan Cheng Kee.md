@@ -4,8 +4,6 @@ permalink: /vol-18/issue-1/apr-to-jun-2022/cinema-pioneer-tan-cheng-kee
 description: ""
 image: /images/Vol 18 Issue 1/Tan Cheng Kee/cover.png
 ---
-
-
 #### The Alhambra and Marlborough theatres were famous landmarks in pre-war Singapore. **Barbara Quek** looks at these cinemas, and the man behind the curtain.
 
 ![](/images/Vol%2018%20Issue%201/Tan%20Cheng%20Kee/cover.png)
@@ -48,6 +46,8 @@ The Marlborough was also upgraded. In April 1930, the *Malaya Tribune* reported 
 
 Tan’s management of the Alhambra came to an end when he leased out the cinema to the Shaw Brothers – which operated 60 cinemas and four amusement parks in Malaya at the time. This took effect from 1 April 1938, about a year before his death at the age of 64.
 
+ <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #f58257;text-align:center"> Want more of what you’re reading? Get BiblioAsia’s latest stories delivered to your inbox. Subscribe <a href="https://form.gov.sg/#!/616799db4d9b61001398f79b">here</a>. </div>
+ 
 The *Straits Times* reported: “As the first step toward bringing the theatre back to its former status, an air-conditioning plant is being installed to make the Alhambra the first cinema in Malaya to possess such equipment. Shaw Brothers will take over control of the cinema as from April 1. During May, the building will be closed for a fortnight to enable extensive renovation and changes to be effected in interior and exterior decorations.”[^18]
 
 The cinema opened as the New Alhambra in July 1938, and a special feature of the air-conditioning was the specially designed rotary filter that ensured clean air in the cinema hall. Other improvements include a bar, a new box office, improved seating, a new stage and the latest architectural tubular lighting. Shaw Brothers operated the cinema until the fall of Singapore in February 1942.[^19]

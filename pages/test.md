@@ -3,34 +3,28 @@ title: test
 permalink: /testinging
 description: ""
 ---
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-mar-2022/diardduvaucel" target="_blank">French Impressions: 19th Century Natural History Drawings of Singapore and Southeast Asia</a> 
-<p>A little-known collection from 1818 to 1820 commissioned under the watch of two French naturalists sheds light on the early study of the region’s flora and fauna.</p> 
-<img style="width:100%;" src="/images/vol-17-issue-4/diard-duvaucel/DiardDuvaucel2.jpg" style="width:80%">
-<hr>
+<style>
+    .box{position: relative;
+        display: inline-block; }
+    .box .text{
+        position: absolute;
+        z-index: 999;
+        margin: 0 auto;
+        left: 0;
+        right:0px;        
+        text-align: left;
+        top: 0%; 
+        background: rgba(0, 0, 0, 0.6);
+        color: #fff;
+        width: 100%; }</style>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-4/jan-mar-2021/stacks" target="_blank">Stories From the Stacks</a>
-<p>A book of football rules in Jawi, a colonial-era compilation of Tamil names and the 19th-century version of a 600-year-old Chinese map showing Temasek are among the items showcased in <i>Stories from the Stacks</i>, published by the National Library, Singapore. 
-<img src="/images/Vol-16-issue-4/stacks/StoriesfromtheStacks.png">
-<hr>
-<br>
+<div class="box"> 
+<a href="/vol-17/issue-2/jul-sep-2021/murals" class="hovertext" title="Three large murals used to grace the walls of Paya Lebar Airport, depicting scenes from Singapore and Malaysia. Dahlia Shamsuddin has the inside story of how they came to be."><img style="float: left; width:100%; margin-bottom: 0.5em" src="/images/vol-17-issue-2/murals/Mural_Main2.jpg"></a> 
+<div class="text">  <p><b>The Forgotten Murals of Paya Lebar Airport</b></p> </div>
+</div>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/history-through-postcards" target="_blank">History Through Postcards</a> 
-<p>One postcard may not say much, but a collection of postcards can speak volumes. Stephanie Pee tells us what <i>Postcard Impressions of Early 20th-century Singapore</i> has to say.</p> 
-<img src="/images/Vol-16-issue-1%2FPostcards/Lim_Shao_Bin_mockup.png" style="width:60%"> 
-<hr>
-
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/king" target="_blank">The King’s Chinese: The Life of Sir Song Ong Siang</a> 
-<p>Song Ong Siang was the first local-born barrister and the first person in Malaya to receive a knighthood. Kevin Y.L. Tan recounts the extraordinary life of this Peranakan luminary.</p> 
-<img src="/images/Vol-16-issue-1%2Fking/One-hundred-book-mockup.png"> 
-<hr>
-
-
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-3/oct-dec-2019/singapore-before1867/" target="_blank">On Paper: Singapore Before 1867</a> 
-<p>Paintings by John Turnbull Thomson, poems in Jawi script, an early 19th-century map of Asia and a Russian traveller’s tale of Singapore are some of the paper artefacts featured in the National Library’s exhibition, “On Paper: Singapore Before 1867”.</p> 
-<img src="/images/Vol-15-issue-3%2Fon-paper-singapore-before-1867/OnPaper11.JPG" style="width:70%"> 
-<hr>
-
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-1/apr-jun-2016/george-hicks" target="_blank">The George Hicks Collection</a> 
-<p>Donated to the National Library of Singapore in 2009 and 2013, the George Hicks collection comprises nearly 7,000 items on China, Japan and Southeast Asia. This book on the collection provides an overview of the life and career of George Hicks, including his contributions and a list of his edited and authored works.</p> 
-<img src=" /images/Vol-12-issue-1%2Fgeorge-hicks-collection/03_georgehicks.bmp" style="width:50%">
-<hr>
+<div class="box"> 	
+<a href="/vol-17/issue-1/apr-jun-2021/malayan-fruits" class="hovertext" title="Who commissioned the Dumbarton Oaks collection of 70 drawings on local fruits? Faris Joraimi attempts to unravel the mystery of its origins, which could predate Raffles’ arrival."> <img src="/images/Vol-17-issue-1/malayan-fruits/ananas.jpg" style="float: left; width:100%;  margin-bottom: 0.5em"> </a>
+<div class="text">  
+<p><b>A Banquet of Malayan Fruits: Botanical Art in the Melaka Straits</b></p> </div>
+</div>

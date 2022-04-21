@@ -5,11 +5,6 @@ permalink: /vol-18/issue-1/apr-to-jun-2022/singapore-changing-wet-markets
 description: ""
 image: /images/Vol 18 Issue 1/Wet Market/19980005879 IMG0002.png
 ---
-
-
-
-
-
 #### Wet markets have existed in Singapore since 1825. **Zoe Yeo** looks at how these markets have changed over time.
 
 ![](/images/Vol%2018%20Issue%201/Wet%20Market/editedmarket4.png)
@@ -67,6 +62,9 @@ Rochor Market, built in 1872, was a popular landmark in the Sungei Road district
 
 ![](/images/Vol%2018%20Issue%201/Wet%20Market/rochor.png)
 <div style="background-color: white;">Rochor Market, 1930s. An open-air carpark sits on the site today. <i>Lim Kheng Chye Collection, courtesy of National Archives of Singapore.</i></div>
+
+ <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #f58257;text-align:center"> Want more of what you’re reading? Get BiblioAsia’s latest stories delivered to your inbox. Subscribe <a href="https://form.gov.sg/#!/616799db4d9b61001398f79b">here</a>. </div>
+
 
 #### ***Orchard Road Market***
 

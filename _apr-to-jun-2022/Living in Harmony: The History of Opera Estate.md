@@ -4,8 +4,6 @@ permalink: /vol-18/issue-1/apr-to-jun-2022/history-opera-estate
 description: ""
 image: /images/Vol 18 Issue 1/Opera Estate/Jalan Bintang Tiga (2020) (orig).png
 ---
-
-
 #### **Asrina Tanuri** traces the development of Opera Estate from its early beginnings as coconut and rubber plantations to a private residential estate.
 
 ![](/images/Vol%2018%20Issue%201/Opera%20Estate/Jalan%20Bintang%20Tiga%20(2020)%20(orig).png)
