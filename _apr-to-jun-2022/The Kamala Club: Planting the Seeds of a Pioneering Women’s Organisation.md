@@ -71,7 +71,7 @@ Some women took Nehru’s advice to heart, especially in the post-war years. In 
 
 The Lotus Club and the Ladies’ Union were dormant during the Japanese Occupation (1942–45) but when peace returned, the clubs once again resumed their social, cultural and fundraising activities. One of the highlights of the post-war era occurred in June 1950 when Nehru, by then the prime minister of newly independent India, visited Singapore again. During his visit, his daughter Indira Gandhi addressed a joint meeting of the two clubs and, citing her mother as an example, spoke about the important role of women in society. Nehru himself graced the occasion and addressed the women briefly.[^33]
 	
-![](/images/Vol%2018%20Issue%201/Kamala%20Club/Indira%20Gandhi.png)
+![](/images/Vol%2018%20Issue%201/Kamala%20Club/Indira%20Gandhi_01.png)
 <div style="background-color: white;">  When then Prime Minister of India Jawaharlal Nehru visited Singapore in June 1950, his daughter Indira Gandhi addressed a joint meeting of the Lotus Club and the Ladies’ Union, and spoke about the important role of women in society. <i>Image reproduced from “Women Met Mrs Gandhi,” Straits Times, 19 June 1950, 5. (From NewspaperSG).</i></div>
 
 
