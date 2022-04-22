@@ -115,7 +115,7 @@ The Kamala Club was officially declared open on 21 May 1951 and since then, the 
 
 [^11]: Mrs K.M.R. Menon, “[Emancipation!](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19310418-1.2.9)” <i>Malaya Tribune</i>, 18 April 1931, 3. (From NewspaperSG)
 
-[^12]: Mrs Bridget Catherine Beatrice Chelvanathan Handy was a Sri Lankan and moved to Malaya at a young age. She had travelled extensively and was an advocate of women’s rights. Her husband, Dr J.M. Handy, was one of the first medical men to come from Jaffna, Sri Lanka, at the invitation of the British government in Singapore. He obtained his medical degree from Britain. 
+[^12]: Mrs Bridget Catherine Beatrice Chelvanathan Handy was a Sri Lankan and moved to Malaya at a young age. She had travelled extensively and was an advocate of women’s rights. Her husband, Dr J.M. Handy, was one of the first medical men to come from Jaffna, Sri Lanka, at the invitation of the British government in Singapore.
 
 [^13]:“[Indian and Ceylonese Ladies](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19310603-1.2.110),”
 
