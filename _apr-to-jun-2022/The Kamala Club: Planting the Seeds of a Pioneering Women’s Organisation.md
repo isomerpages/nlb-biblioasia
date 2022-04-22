@@ -65,10 +65,6 @@ These women’s organisations also provided opportunities for cultural activitie
 
 The clubs also organised educational talks that ran the gamut of subjects from childcare to the role of women at home and in society. Among the speakers was freedom fighter and future Prime Minister of India Jawaharlal Nehru, who visited Singapore in 1937. In his talk, he urged the members of the Ladies’ Union to be independent. “We want women with self-reliance, character and beauty, but we do not want dolls to play with,” he said. “A country is judged by the standard of its womenfolk. If they are backward and illiterate then their country is no good, no matter what their menfolk may be.”[^29]
 
-
-![](/images/Vol%2018%20Issue%201/Kamala%20Club/The%20lotus%20club%20and%20Lady%20union_Kamala%20Club%20pp36.png)
-<div style="background-color: white;">The Lotus Club and the Ladies’ Union merged to form the Kamala Club in 1950, with Mrs Kizhakke Mukkapuzha Raman Menon (pictured) as its first president. The club was officially declared open on 21 May 1951.<i> Image reproduced from “Two S’pore Women’s Clubs Amalgamate,” Singapore Standard, 21 May 1951, 2. (From NewspaperSG).</i></div>
-
 Some women took Nehru’s advice to heart, especially in the post-war years. In 1948, Mrs Malathi Pillai of the Ladies’ Union and secretary of the Singapore Regional Indian Congress became the first woman to contest the Singapore Legislative Council election.[^30] Two years later, Mrs Mary Lobo of the Lotus Club was appointed a Justice of the Peace.[^31] In 1954, Mrs Lakshmi Naidu was awarded the Singapore Certificate of Honour for her voluntary work during and after the Japanese occupation.[^32] These Indian women, unlike their predecessors who led cloistered lives, were defining a new public role for themselves, and it is likely that their activities in the Ladies’ Union and the Lotus Club helped them prepare for a larger stage.
 
 #### **Amalgamation of the Clubs**
@@ -78,14 +74,18 @@ The Lotus Club and the Ladies’ Union were dormant during the Japanese Occupati
 ![](/images/Vol%2018%20Issue%201/Kamala%20Club/Indira%20Gandhi.png)
 <div style="background-color: white;">  When then Prime Minister of India Jawaharlal Nehru visited Singapore in June 1950, his daughter Indira Gandhi addressed a joint meeting of the Lotus Club and the Ladies’ Union, and spoke about the important role of women in society. <i>Image reproduced from “Women Met Mrs Gandhi,” Straits Times, 19 June 1950, 5. (From NewspaperSG).</i></div>
 
-![](/images/Vol%2018%20Issue%201/Kamala%20Club/Vijaya%20Lakshmi%20Pandit.png)
-<div style="background-color: white;">Then President of the United Nations General Assembly Vijaya Lakshmi Pandit addressing members of the Kamala Club, 1954. She was the first woman appointed to the post. She was also a sister of Prime Minister of India Jawaharlal Nehru. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 Gandhi’s talk at the joint meeting was a precursor to the eventual merger of the Ladies’ Union and the Lotus Club, which was decided on 17 October 1950.[^34] The motives were practical ones. “The harsh reality was that both the clubs were struggling with low membership, as many of the women had moved back to India after the war. The founding members were older, and to survive, the clubs had to merge into one unit.”[^35]
+	
+![](/images/Vol%2018%20Issue%201/Kamala%20Club/The%20lotus%20club%20and%20Lady%20union_Kamala%20Club%20pp36.png)
+<div style="background-color: white;">The Lotus Club and the Ladies’ Union merged to form the Kamala Club in 1950, with Mrs Kizhakke Mukkapuzha Raman Menon (pictured) as its first president. The club was officially declared open on 21 May 1951.<i> Image reproduced from “Two S’pore Women’s Clubs Amalgamate,” Singapore Standard, 21 May 1951, 2. (From NewspaperSG).</i></div>
 
 The new club was named Kamala Club, ostensibly at the wish of Nehru, after his late wife Kamala.[^36] But according to Ambassador-at-Large Gopinath Pillai – whose mother was present at the meeting to merge the two clubs – Nehru had not made any suggestions regarding this. Citing Nehru, however, made the new name more palatable to members.[^37]
 
 The Kamala Club was officially declared open on 21 May 1951 and since then, the club has helped countless Indian women develop warm friendships with other like-minded women.[^38] Its members continue to work together to make a difference. Like the lotus flower it is named after, the Kamala Club has blossomed and remains relevant today.
+	
+![](/images/Vol%2018%20Issue%201/Kamala%20Club/Vijaya%20Lakshmi%20Pandit.png)
+<div style="background-color: white;">Then President of the United Nations General Assembly Vijaya Lakshmi Pandit addressing members of the Kamala Club, 1954. She was the first woman appointed to the post. She was also a sister of Prime Minister of India Jawaharlal Nehru. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 <div style="background-color: white;"> 
 <br>
