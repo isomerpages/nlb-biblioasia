@@ -99,7 +99,7 @@ The Kamala Club was officially declared open on 21 May 1951 and since then, the 
 
 [^3]: Not to be confused with Mrs Ellice Handy, Mrs John Truman Navaratnam Handy was a socially active Ceylonese lady of Tamil descent.
 
-[^4]: [Singapore Y.W.C.A.](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19301115-1.2.81),”<i>Malaya Tribune</i>, 15 November 1930, 14. (From NewspaperSG)
+[^4]: "[Singapore Y.W.C.A.](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19301115-1.2.81),”<i>Malaya Tribune</i>, 15 November 1930, 14. (From NewspaperSG)
 
 [^5]: “[Work of Y.W.C.A. in Singapore](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19310724-1.2.87),” <i>Malaya Tribune</i>, 24 July 1931, 13. (From NewspaperSG)
 
@@ -107,7 +107,7 @@ The Kamala Club was officially declared open on 21 May 1951 and since then, the 
 
 [^7]: “[Indian and Chinese Women](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19310730-1.2.69),” <i>Malaya Tribune</i>, 30 July 1931, 9. (FromNewspaperSG) [Mirza Mohammed Ali Namazie was a Persian businessman who commissioned and financed the Capitol Theatre. Rajabali Jumabhoy was a prominent businessman and one of the founders of the Indian Association; he was also a member of the Legislative Assembly.] 
 
-[^8]: [Indian Ladies’ Club](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19320306-1.2.58),” <i>Straits Times</i>, 6 March 1932, 10. (From NewspaperSG) 
+[^8]: "[Indian Ladies’ Club](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19320306-1.2.58),” <i>Straits Times</i>, 6 March 1932, 10. (From NewspaperSG) 
 
 [^9]:“[Indian Women’s Social](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19320203-1.2.25),”<i>Malaya Tribune</i>, 3 February 1932, 7. (From NewspaperSG)
 
