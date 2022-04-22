@@ -155,7 +155,7 @@ The Kamala Club was officially declared open on 21 May 1951 and since then, the 
 
 [^31]:“[Mrs. Mary Lobo Appointed J.P.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/indiandailymail19500407-1.2.69),” <i>Indian Daily Mail</i>, 7 April 1950, 4. (From NewspaperSG)
 
-[^32]:[Singapore](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19540610-1.2.6),” <i>Straits Times</i>, 10 June 1954, 1. (From NewspaperSG)
+[^32]: "[Singapore](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19540610-1.2.6),” <i>Straits Times</i>, 10 June 1954, 1. (From NewspaperSG)
 
 [^33]:“[Women Met Mrs Gandhi](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19500619-1.2.50),” <i>Straits Times</i>, 19 June 1950, 5. (From NewspaperSG)
 
