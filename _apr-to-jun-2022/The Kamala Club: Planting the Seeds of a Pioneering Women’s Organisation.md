@@ -8,8 +8,7 @@ image: /images/Vol 18 Issue 1/Kamala
 #### **Vandana Aggarwal**  traces the origins of a venerable association for Indian women and the role it played in their lives.
 
 ![](/images/Vol%2018%20Issue%201/Kamala%20Club/02-Members-with-Mrs-Indira-Gandhi-at-the-Club-premisis-in-Balestier.png)
-<div style="background-color: white;">Indira Gandhi, daughter of then Prime Minister of India Jawaharlal Nehru, addressing members of the Lotus Club and the Ladies’ Union in June 1950. <i>Source: The Straits Times © SPH Media Limited. Reprinted with permission.<i><i> Image reproduced from the Straits Times, 27 July 1949, 7. (From NewspaperSG).
-</i></div>
+<div style="background-color: white;"> Indira Gandhi, daughter of then Prime Minister of India Jawaharlal Nehru, addressing members of the Lotus Club and the Ladies’ Union in June 1950. Source: The Straits Times © SPH Media Limited. Reprinted with permission.<i> Image reproduced from the Straits Times, 27 July 1949, 7. (From NewspaperSG). </i></div>
 
 For over six decades, one organisation has been playing an important role in bringing women from the Indian subcontinent together in Singapore: the pioneering Kamala Club. Through social gatherings, festive celebrations and enrichment classes, this club gave South Asian women the chance to meet, socialise and learn in a secular setting. While festive events and enrichment classes have slowed down because of the Covid-19 pandemic, the Kamala Club (<i>kamala</i> means “lotus” in Hindi) continues to serve its members through an online community with over 1,200 followers, highlighting cultural events, organising guided tours to places like the Indian Heritage Centre and even online yoga sessions for women.
 
