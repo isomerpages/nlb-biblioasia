@@ -47,3 +47,7 @@ description: ""
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-1/apr-jun-2014/first-women-poets"> First Words: Women Poets from Singapore</a>
 <p>Poems written by Singapore’s women writers in the 1950s to 1970s depict both their personal and national struggles. Gracie Lee highlights these poets and the literary works that captured the sentiment of the times.</p>
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-4/jan-mar-2020/women-w-commodities/"> When Women Were Commodities</a>
+<p>Brothels in colonial Singapore, with its large male migrant population, did a roaring trade. Adeline Foo examines the lives of the unfortunate girls and women who were sold into prostitution.</p>
+<hr>
