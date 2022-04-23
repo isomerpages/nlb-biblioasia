@@ -2,7 +2,7 @@
 title: The Map That Opened Up Southeast Asia
 date: 2016-01-22
 permalink: /vol-11/issue-4/jan-mar-2016/map-south-east-asia-exacta-accurata-linschoten
-image: /images/vol-11-issue-4/map-that-opened-southeast-asia/01_mapthatopenedsea.jpg
+image: /images/vol-11-issue-4/map-that-opened-southeast-asia/02a_mapthatopenedsea.jpg
 layout: post
 description: ""
 ---
