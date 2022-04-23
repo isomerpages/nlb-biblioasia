@@ -38,3 +38,8 @@ description: ""
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-3/oct-dec-2021/moderngirl"> The Modern Girls of Pre-war Singapore</a>
 <p>Andrea Kee explores how the enigmatic Modern Girl asserted her new-found identity, femininity and independence in interwar Singapore.</p>
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/kamala-club"> The Kamala Club: Planting the Seeds of a Pioneering Women’s Organisation</a>
+<p>Vandana Aggarwal traces the origins of a venerable association for Indian women and the role it played in their lives.</p> 
+<img src="/images/Vol%2018%20Issue%201/Kamala%20Club/02-Members-with-Mrs-Indira-Gandhi-at-the-Club-premisis-in-Balestier.png">
+<hr>
