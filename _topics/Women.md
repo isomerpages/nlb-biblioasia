@@ -56,3 +56,9 @@ description: ""
 <p>From cooking, cleaning and becoming a good mother to outsourcing housework as careers for women took off. Sheere Ng charts how home economics lessons have evolved over the years.</p> 
 <img src="/images/Vol-13-issue-4/ideal-singaporean-female/01_idealsgfemale.png">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-4/jan-mar-2018/women-on-a-mission"> Women on a Mission</a>
+<p>Female missionaries in colonial Singapore have made their mark in areas such as education, welfare and health services. Jaime Koh looks at some of these intrepid trailblazers.</p> 
+<img src="/images/Vol-13-issue-4/women-on-a-mission/01_womenmission.jpg">
+<hr>
+
