@@ -17,3 +17,7 @@ description: ""
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/borobudur">The Borobudur, Mysterious Gold Plates and Singing Maps</a>
 <p>Unsolved historical puzzles from Southeast Asia are key elements of the recently published thriller The Java Enigma by debut novelist Erni Salleh.</p>
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-4/jan-mar-2016/contrafactur-battle-dutch-portuguese-de-bry">A Battle Captured in a Map</a>
+<p>For a tiny island known more for its skyscrapers than its sea-faring adventures, Singapore has a surprisingly bloody history. And while most of this history has been lost over time, one record that tells of a particularly ferocious battle between the Dutch and Portuguese armadas in the early 17th century is found in the National Library.</p>
+<hr>
