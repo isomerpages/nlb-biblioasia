@@ -62,3 +62,6 @@ description: ""
 <img src="/images/Vol-13-issue-4/women-on-a-mission/01_womenmission.jpg">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-3/oct-dec-2016/softhands-steelyheart"> Soft Hands But Steely Hearts: Women and Their Art</a>
+<p>A coterie of women sculptors in Singapore has successfully redefined this once male-dominated art form. Nadia Arianna Bte Ramli tells you more.</p>
+<hr>
