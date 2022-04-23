@@ -74,3 +74,9 @@ description: ""
 <p>Sara Siew examines the link between visual art and the written word through the fascinating story of Singaporean artist Georgette Chen.</p> 
 <img src="/images/Vol-15-issue-2/artist-extraordinaire/Artist1.JPG">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-9/issue-3/oct-dec-2013/beeton-women-cookbooks-housewives">“Mrs Beeton” in Malaya: Women, Cookbooks and the Makings of the Housewife
+</a>
+<p>Cookbooks offer interesting insights into the oft-overlooked domestic space of British Malaya, shedding light on how women saw themselves and how feminine ideals from the West were propagated in the colonial era.
+</p>
+<hr>
