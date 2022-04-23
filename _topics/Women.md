@@ -35,3 +35,6 @@ description: ""
 <img src="/images/Vol-14-issue-3/blazing-a-trail/BlazingTrail1.JPG">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-3/oct-dec-2021/moderngirl"> The Modern Girls of Pre-war Singapore</a>
+<p>Andrea Kee explores how the enigmatic Modern Girl asserted her new-found identity, femininity and independence in interwar Singapore.</p>
+<hr>
