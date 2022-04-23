@@ -2,6 +2,7 @@ collections:
   topics:
     output: true
     order:
+      - Maps.md
       - Editor's Picks.md
       - Art .md
       - Culture.md
