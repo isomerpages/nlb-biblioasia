@@ -22,7 +22,7 @@ Danish missionary Claudius Henry Thomsen produced some of the earliest Malay-lan
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-2/jul-sep-2018/stuff-of-dreams-sg/">The Stuff of Dreams: Singapore’s Early Print Ads</a>
 Before the advent of the internet, print advertisements reigned supreme. These primary documents provide important clues to the social history of the period as Chung Sang Hong tells us.
 
-<img src="/images/Vol-14-issue-2/the-stuff-of-dreams/Dreamsa.JPG">
+<img src="/images/Vol-14-issue-2/the-stuff-of-dreams/Dreamsa.JPG" style="width:50%">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-3/oct-dec-2017/early-malay-printing">Early Malay Printing in Singapore</a>
