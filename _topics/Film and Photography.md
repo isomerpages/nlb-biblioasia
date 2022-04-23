@@ -81,6 +81,7 @@ Photographs can capture subtext that is sometimes more evocative than the intend
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-3/oct-dec-2019/photography-in-sg/">Daguerreotypes to Dry plates: Photography in 19th-century Singapore</a>
 The oldest known photographs of Singapore were taken by Europeans in the early 1840s. Janice Loo charts the rise of commercial photography in the former British colony.
+
+<img src="/images/Vol-15-issue-3/daguerreotypes-to-dry-plates/Daguerreotypes1.JPG">
+
 <hr>
-
-
