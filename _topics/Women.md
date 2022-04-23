@@ -20,4 +20,8 @@ description: ""
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-4/jan-mar-2020/s-t-c-sea/">Snakes, Tigers and Cannibals: Ida Pfeiffer’s Travels in Southeast Asia</a>
 <p>Travelling alone across Southeast Asia in the 19th century, Ida Pfeiffer encountered human heads put out to dry and faced off angry cannibals. John van Wyhe recounts the adventures of this remarkable woman.</p> 
 <hr>
- 
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-2/jul-sep-2014/nation-building-women-singapore"> A Quiet Revolution: Women and Work in Industrialising Singapore</a>
+<p>The role of women in Singapore’s nation-building efforts in the post-Independence years is sometimes overlooked. Janice Loo examines the impact that women have had on the nation’s development.</p> 
+<img src="/images/vol-10-issue-2/women/tancho_corporation.jpg">
+<hr>
