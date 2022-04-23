@@ -56,3 +56,9 @@ Photography in Singapore has a long history dating back to 1843. The earliest ph
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/doggett">Marjorie Doggett: Photographer of Singapore</a>
 Edward Stokes reflects on Characters of Light by Marjorie Doggett, first published in 1957, and on his own recent book, Marjorie Doggett’s Singapore, which portrays her life and work here.
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-2/jul-sep-2019/wong-ken-foo">From the Archives: The Work of Photographer KF Wong</a>
+K. F. Wong shot to international fame with his images of Borneo, though not without controversy. Zhuang Wubin examines Wong’s work and sees beyond their historical value.
+
+<img src="/images/Vol-15-issue-2/from-the-archives/Archives1.JPG">
+<hr>
