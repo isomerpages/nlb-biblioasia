@@ -21,3 +21,8 @@ description: ""
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-4/jan-mar-2016/contrafactur-battle-dutch-portuguese-de-bry">A Battle Captured in a Map</a>
 <p>For a tiny island known more for its skyscrapers than its sea-faring adventures, Singapore has a surprisingly bloody history. And while most of this history has been lost over time, one record that tells of a particularly ferocious battle between the Dutch and Portuguese armadas in the early 17th century is found in the National Library.</p>
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-4/jan-march-2015/map-collection">Lay of the Land: The National Archives of Singapore’s Map Collection</a>
+<p>From Singapore’s days as a colony to modern times, maps have been an integral part of the nation’s development. Kevin Khoo highlights the National Archives of Singapore’s 10,000-strong map collection.</p> 
+<img src="/images/vol-10-issue-4/layoftheland/backgrounds_resss.jpg">
+<hr>
