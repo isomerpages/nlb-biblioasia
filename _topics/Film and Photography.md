@@ -89,5 +89,3 @@ The oldest known photographs of Singapore were taken by Europeans in the early 1
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-3/oct-dec-2021/prewarphotography">Exhibiting Photography In Pre-war Singapore</a>
 The founding of two camera clubs in 1921 created more opportunities to exhibit photographs in Malaya. Zhuang Wubin revisits three significant photo exhibitions in pre-war Singapore and examines their implications.
 <hr>
-
-
