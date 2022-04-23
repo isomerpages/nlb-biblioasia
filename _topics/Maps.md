@@ -30,3 +30,7 @@ description: ""
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-4/jan-mar-2016/contrafactur-battle-dutch-portuguese-de-bry">A Battle Captured in a Map</a>
 <p>This 1606 engraved map by the de Bry family is one of the earliest in the National Library’s Rare Materials Collection that shows a distinct coastline of Singapore. </p>
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-4/jan-mar-2016/india-tercera-nuova-tavola">When Singapore Was Cinca Pula</a>
+<p>India Tercera Nuova Tavola is one of the first early modern maps of Southeast Asia. It is also the National Library’s oldest map that makes reference to a C. Cinca Pula, which scholars believe refers to either the town of Singapore, one of several straits on which Singapore sits, or the southern tip of the Malay Peninsula. </p>
+<hr>
