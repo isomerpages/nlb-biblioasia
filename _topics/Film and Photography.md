@@ -69,4 +69,8 @@ Photographs are an important means to understand Singapore’s history and herit
 <img src="/images/Vol-16-issue-2/picturessg/ThianHockKeng.jpg">
 <hr>
 
- 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-1/apr-jun-2018/portrait-lee-bro-std/">Portraits from the Lee Brothers Studio</a>
+Gretchen Liu casts the spotlight on the Lee Brothers Studio Collection. Comprising some 2,500 images, this is the largest single collection of photographic portraits in the National Archives of Singapore.
+<hr>
+
+
