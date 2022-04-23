@@ -28,3 +28,8 @@ The resettlement of Eurasian and Chinese Catholics in the jungles of Malaysia du
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-1/apr-jun-2017/voices-that-remain">Voices That Remain: Oral History Accounts of the Japanese Occupation</a>
 Oral history accounts of the Japanese Occupation take on added poignancy, says Mark Wong, as we mark the 75th anniversary of the Fall of Singapore.
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-4/jan-mar-2020/viet-war-through-sg/">The Vietnam War Through Singaporean Eyes</a>
+Four journalists from Singapore covered the Vietnam War for the international news media. Only one survived. Shirlene Noordin has the story.
+ 
+<hr>
