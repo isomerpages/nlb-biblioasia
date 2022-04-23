@@ -13,3 +13,7 @@ description: ""
 <p>Hidden temples and food haunts are just some of the things found in two psychedelic maps published in the 1980s. Bonny Tan explores the origins of these one-of-a-kind maps.</p> 
 <img src="/images/vol-10-issue-4/thesecretmap/combined_sm.jpg">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/borobudur">The Borobudur, Mysterious Gold Plates and Singing Maps</a>
+<p>Unsolved historical puzzles from Southeast Asia are key elements of the recently published thriller The Java Enigma by debut novelist Erni Salleh.</p>
+<hr>
