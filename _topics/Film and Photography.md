@@ -73,4 +73,8 @@ Photographs are an important means to understand Singapore’s history and herit
 Gretchen Liu casts the spotlight on the Lee Brothers Studio Collection. Comprising some 2,500 images, this is the largest single collection of photographic portraits in the National Archives of Singapore.
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-1/apr-jun-2019/the-way-we-were">The Way We Were: The MITA Collection 1949–1969</a>
+Photographs can capture subtext that is sometimes more evocative than the intended subject, as Gretchen Liu discovered when she explored the early work of the Photo Unit.
 
+<img src="/images/Vol-15-issue-1/the-way-we-were/02c_waywewere.jpg">
+<hr>
