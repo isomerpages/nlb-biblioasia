@@ -29,3 +29,9 @@ description: ""
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-3/oct-dec-2018/an-ode-to-two-women/"> An Ode to Two Women</a>
 <p>Acclaimed poet and playwright Robert Yeo pays tribute to his daughter and a noted author in chapter two of his work-in-progress sequel to his memoir Routes.</p> 
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-3/oct-dec-2018/blazing-a-trail/"> Blazing a Trail: The Fight for Women’s Rights in Singapore</a>
+<p>The Singapore Council of Women was the city’s first female civil rights group that took bold steps to champion laws affecting women. Phyllis Chew documents its hard-won victories.</p> 
+<img src="/images/Vol-14-issue-3/blazing-a-trail/BlazingTrail1.JPG">
+<hr>
+
