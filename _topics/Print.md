@@ -45,5 +45,3 @@ In the second of two essays on the history of printing in mainland Southeast Asi
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-2/jul-sep-2021/early-printing">Early Printing in the Philippines</a>
 Continuing with the series on printing in Southeast Asia, Gracie Lee explores the early history of printing and printed works in the Philippines.
 <hr>
-
-
