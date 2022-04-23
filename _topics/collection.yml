@@ -2,7 +2,6 @@ collections:
   topics:
     output: true
     order:
-      - Women.md
       - Editor's Picks.md
       - Art .md
       - Culture.md
@@ -20,3 +19,4 @@ collections:
       - Places and Buildings/Worship.md
       - Places and Buildings/More Places and Buildings.md
       - Theatre.md
+      - Women.md
