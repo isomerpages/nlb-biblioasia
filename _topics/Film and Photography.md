@@ -78,3 +78,9 @@ Photographs can capture subtext that is sometimes more evocative than the intend
 
 <img src="/images/Vol-15-issue-1/the-way-we-were/02c_waywewere.jpg">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-3/oct-dec-2019/photography-in-sg/">Daguerreotypes to Dry plates: Photography in 19th-century Singapore</a>
+The oldest known photographs of Singapore were taken by Europeans in the early 1840s. Janice Loo charts the rise of commercial photography in the former British colony.
+<hr>
+
+
