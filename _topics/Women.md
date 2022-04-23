@@ -65,3 +65,7 @@ description: ""
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-3/oct-dec-2016/softhands-steelyheart"> Soft Hands But Steely Hearts: Women and Their Art</a>
 <p>A coterie of women sculptors in Singapore has successfully redefined this once male-dominated art form. Nadia Arianna Bte Ramli tells you more.</p>
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/siti-radhiah-cookbooks"> Siti Radhiah’s Cookbooks for the Modern Malay Woman</a>
+<p>A number of cookbooks written in the 1940s and 1950s helped expand the traditional Malay culinary repertoire, as Toffa Abdul Wahed tells us.</p>
+<hr>
