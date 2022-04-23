@@ -51,3 +51,8 @@ description: ""
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-4/jan-mar-2020/women-w-commodities/"> When Women Were Commodities</a>
 <p>Brothels in colonial Singapore, with its large male migrant population, did a roaring trade. Adeline Foo examines the lives of the unfortunate girls and women who were sold into prostitution.</p>
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-4/jan-mar-2018/ideal-sgporean-female"> Recipes for the Ideal Singaporean Female</a>
+<p>From cooking, cleaning and becoming a good mother to outsourcing housework as careers for women took off. Sheere Ng charts how home economics lessons have evolved over the years.</p> 
+<img src="/images/Vol-13-issue-4/ideal-singaporean-female/01_idealsgfemale.png">
+<hr>
