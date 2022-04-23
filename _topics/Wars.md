@@ -25,6 +25,15 @@ A revamped exhibition space opens at the old Ford Factory in Bukit Timah, markin
 The resettlement of Eurasian and Chinese Catholics in the jungles of Malaysia during World War II has been largely forgotten. Fiona Hodgkins chronicles its painful history.
 <hr> 
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-3/oct-dec-2018/honour-of-war-heroes/">In Honour of War Heroes: The Legacy of Colin St Clair Oakes</a>
+Who was the architect behind Singapore’s Kranji War Cemetery and other similar memorials in South and Southeast Asia? Athanasios Tsakonas has the story.
+
+<img src="/images/Vol-14-issue-3/in-honour-of-war-heroes/Honour1.JPG">
+<hr>
+
+ 
+
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-1/apr-jun-2017/voices-that-remain">Voices That Remain: Oral History Accounts of the Japanese Occupation</a>
 Oral history accounts of the Japanese Occupation take on added poignancy, says Mark Wong, as we mark the 75th anniversary of the Fall of Singapore.
 <hr>
