@@ -47,9 +47,16 @@ Four journalists from Singapore covered the Vietnam War for the international ne
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-4/jan-mar-2016/chop-suey-liu-kang">Cartoons of Terror</a>
 The horrors of the Japanese Occupation (1942–45) in Singapore can be read in any number of history books. But few are likely to be as visceral as a series of cartoon books published after World War II in 1946. Titled Chop Suey, the four volumes of illustrations by the artist Liu Kang offer a rare insight into how people in Singapore were persecuted and tortured by the Japanese during the Occupation years.
+
+<img src="/images/vol-11-issue-4/cartoons-of-terror/T3.JPG">
 <hr>
+
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-1/apr-jun-2019/unresolved-past">The Unresolved Past: Reflections on War and Memory</a>
 Why recall traumatic memories of war when it is painful for both perpetrators and victims? Kwok Kian Woon considers the stakes in remembering and understanding war experiences in times of relative peace.
 
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-4/jan-mar-2016/photographs-singapore-war-crimes-trial">A War Crimes Trial Snapshot</a>
+A 1946 photograph from the opening of the War Crimes Trials held in Singapore is a grim reminder of the atrocities committed by the Japanese during the Japanese Occupation of Singapore (1942–45) – a dark period in Singapore’s history.
 <hr>
