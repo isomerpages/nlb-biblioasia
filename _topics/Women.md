@@ -80,3 +80,7 @@ description: ""
 <p>Cookbooks offer interesting insights into the oft-overlooked domestic space of British Malaya, shedding light on how women saw themselves and how feminine ideals from the West were propagated in the colonial era.
 </p>
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/doggett">Marjorie Doggett: Photographer of Singapore</a>
+<p>Edward Stokes reflects on Characters of Light by Marjorie Doggett, first published in 1957, and on his own recent book, Marjorie Doggett’s Singapore, which portrays her life and work here.</p>
+<hr>
