@@ -7,7 +7,6 @@ description: ""
 Desperate times call for desperate measures. Lee Geok Boi trawls the oral history collection of the National Archives to document how people coped with the precious little food they had during the war.
 
 <img src="/images/Vol-15-issue-1/wartime-victuals/01_wartime.jpg">
-
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-1/apr-jun-2018/scret-war-expmt-insg/"> Secret War Experiments in Singapore</a>
@@ -35,10 +34,16 @@ Who was the architect behind Singapore’s Kranji War Cemetery and other similar
 Oral history accounts of the Japanese Occupation take on added poignancy, says Mark Wong, as we mark the 75th anniversary of the Fall of Singapore.
 <hr>
 
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/witness-to-history">Witness to History</a>
+Major-General Feng Yee was China’s representative at the Japanese surrender ceremony held in Singapore in September 1945. Seow Peck Ngiam provides highlights of his military life and contributions.
+
+<img src="/images/Vol-16-issue-1/History/History-title2.jpg">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-4/jan-mar-2020/viet-war-through-sg/">The Vietnam War Through Singaporean Eyes</a>
 Four journalists from Singapore covered the Vietnam War for the international news media. Only one survived. Shirlene Noordin has the story.
- 
-<hr>
+ <hr>
 
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-1/apr-jun-2019/unresolved-past">The Unresolved Past: Reflections on War and Memory</a>
