@@ -2,9 +2,6 @@ collections:
   topics:
     output: true
     order:
-      - People/.keep
-      - People/People.md
-      - People/Women.md
       - Editor's Picks.md
       - Art .md
       - Culture.md
@@ -21,6 +18,9 @@ collections:
       - Places and Buildings/Leisure.md
       - Places and Buildings/Worship.md
       - Places and Buildings/More Places and Buildings.md
+      - People/.keep
+      - People/People.md
+      - People/Women.md
       - Print.md
       - Theatre.md
       - Wars.md
