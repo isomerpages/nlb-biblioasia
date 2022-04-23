@@ -2,9 +2,9 @@ collections:
   topics:
     output: true
     order:
-      - People/Women.md
-      - People/People.md
       - People/.keep
+      - People/People.md
+      - People/Women.md
       - Editor's Picks.md
       - Art .md
       - Culture.md
