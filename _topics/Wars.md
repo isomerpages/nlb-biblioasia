@@ -31,9 +31,6 @@ Who was the architect behind Singapore’s Kranji War Cemetery and other similar
 <img src="/images/Vol-14-issue-3/in-honour-of-war-heroes/Honour1.JPG">
 <hr>
 
- 
-
-
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-1/apr-jun-2017/voices-that-remain">Voices That Remain: Oral History Accounts of the Japanese Occupation</a>
 Oral history accounts of the Japanese Occupation take on added poignancy, says Mark Wong, as we mark the 75th anniversary of the Fall of Singapore.
 <hr>
@@ -41,4 +38,10 @@ Oral history accounts of the Japanese Occupation take on added poignancy, says M
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-4/jan-mar-2020/viet-war-through-sg/">The Vietnam War Through Singaporean Eyes</a>
 Four journalists from Singapore covered the Vietnam War for the international news media. Only one survived. Shirlene Noordin has the story.
  
+<hr>
+
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-1/apr-jun-2019/unresolved-past">The Unresolved Past: Reflections on War and Memory</a>
+Why recall traumatic memories of war when it is painful for both perpetrators and victims? Kwok Kian Woon considers the stakes in remembering and understanding war experiences in times of relative peace.
+
 <hr>
