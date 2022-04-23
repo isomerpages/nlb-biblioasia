@@ -18,6 +18,11 @@ description: ""
 <p>Unsolved historical puzzles from Southeast Asia are key elements of the recently published thriller The Java Enigma by debut novelist Erni Salleh.</p>
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-4/jan-mar-2016/map-south-east-asia-exacta-accurata-linschoten"> The Map That Opened Up Southeast Asia</a>
+<p>The National Library has two different versions of the Exacta & Accurata map, both dated 1596: a black and-white copy donated by the philanthropist and architect Koh Seow Chuan, and this hand-coloured version in the David Parry Southeast Asian Map Collection.</p> 
+<img src="/images/vol-11-issue-4/map-that-opened-southeast-asia/01_mapthatopenedsea.jpg">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-4/jan-march-2015/map-collection">Lay of the Land: The National Archives of Singapore’s Map Collection</a>
 <p>From Singapore’s days as a colony to modern times, maps have been an integral part of the nation’s development. Kevin Khoo highlights the National Archives of Singapore’s 10,000-strong map collection.</p> 
 <img src="/images/vol-10-issue-4/layoftheland/backgrounds_resss.jpg">
