@@ -31,6 +31,11 @@ description: ""
 <p>India Tercera Nuova Tavola is one of the first early modern maps of Southeast Asia. It is also the National Library’s oldest map that makes reference to a C. Cinca Pula, which scholars believe refers to either the town of Singapore, one of several straits on which Singapore sits, or the southern tip of the Malay Peninsula. </p>
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-4/jan-march-2015/rare-map"> The National Library's Rare Maps Collection</a>
+<p>The National Library has a collection of rare maps dating back to the 15th century. Makeswary Periasamy shares the significance and history of these maps and their makers.</p> 
+<img src="/images/vol-10-issue-4/raremap/wall_map.jpg">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-4/jan-mar-2016/portuguese-map-sincapura-janssen">A Portuguese Map of Sincapura</a>
 <p>The title page of Malaca, l’Inde Méridionale et le Cathay has a floral border and bears the distinct red vertical stamp of the Syonan Library (Syonan Tosyokan) – the name the National Library was known as during the Japanese Occupation.</p>
 <hr>
