@@ -26,3 +26,7 @@ description: ""
 <p>From Singapore’s days as a colony to modern times, maps have been an integral part of the nation’s development. Kevin Khoo highlights the National Archives of Singapore’s 10,000-strong map collection.</p> 
 <img src="/images/vol-10-issue-4/layoftheland/backgrounds_resss.jpg">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-4/jan-mar-2016/contrafactur-battle-dutch-portuguese-de-bry">A Battle Captured in a Map</a>
+<p>This 1606 engraved map by the de Bry family is one of the earliest in the National Library’s Rare Materials Collection that shows a distinct coastline of Singapore. </p>
+<hr>
