@@ -9,9 +9,9 @@ description: ""
 <img src="/images/vol-17-issue-4/cartography/1-Map.jpg" style="width:100%; height: 280px; object-fit: cover"> 
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-4/jan-march-2015/secretmap">The Secret Maps of Singapore</a>
-<p>Hidden temples and food haunts are just some of the things found in two psychedelic maps published in the 1980s. Bonny Tan explores the origins of these one-of-a-kind maps.</p> 
-<img src="/images/vol-10-issue-4/thesecretmap/combined_sm.jpg">
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-4/jan-march-2015/map-as-statement"> Maps as Statements of Power and Domination</a>
+<p>Drawing from his personal collection of maps amassed over three decades, Dr Farish A. Noor invites us to truly read maps and look beyond their geographical boundaries.</p> 
+<img src="/images/vol-10-issue-4/statementsofpoweranddomination/batik.jpg">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/borobudur">The Borobudur, Mysterious Gold Plates and Singing Maps</a>
@@ -25,6 +25,11 @@ description: ""
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-4/jan-mar-2016/contrafactur-battle-dutch-portuguese-de-bry">A Battle Captured in a Map</a>
 <p>This 1606 engraved map by the de Bry family is one of the earliest in the National Library’s Rare Materials Collection that shows a distinct coastline of Singapore. </p>
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-4/jan-march-2015/secretmap">The Secret Maps of Singapore</a>
+<p>Hidden temples and food haunts are just some of the things found in two psychedelic maps published in the 1980s. Bonny Tan explores the origins of these one-of-a-kind maps.</p> 
+<img src="/images/vol-10-issue-4/thesecretmap/combined_sm.jpg">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-4/jan-mar-2016/india-tercera-nuova-tavola">When Singapore Was Cinca Pula</a>
@@ -44,5 +49,3 @@ description: ""
 <p>Kwa Chong Guan dissects the history of maps and tells us how Singapore was perceived and located in early modern European maps of the region.</p> 
 <img src="/images/vol-11-issue-1/searchingforsg/Cantino_Chart.jpg">
 <hr>
-
- 
