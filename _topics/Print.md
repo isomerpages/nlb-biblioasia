@@ -25,3 +25,10 @@ Mazelan Anuar tracks the rise and decline of Malay printing and publishing in 19
 <img src="/images/Vol-13-issue-3/early-malay-printing-in-sg/01_malayprinting.png">
 <hr>
 
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-4/jan-mar-2020/printing-in-indochi/">Early Printing In Indochina</a>
+In the first of two essays on the history of printing in mainland Southeast Asia, Gracie Lee examines the impact of the printing press in Vietnam, Cambodia and Laos.
+
+<hr>
+
+
