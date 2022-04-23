@@ -20,7 +20,7 @@ description: ""
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-4/jan-mar-2016/map-south-east-asia-exacta-accurata-linschoten"> The Map That Opened Up Southeast Asia</a>
 <p>The National Library has two different versions of the Exacta & Accurata map, both dated 1596: a black and-white copy donated by the philanthropist and architect Koh Seow Chuan, and this hand-coloured version in the David Parry Southeast Asian Map Collection.</p> 
-<img src="/images/vol-11-issue-4/map-that-opened-southeast-asia/01_mapthatopenedsea.jpg">
+<img src="/images/vol-11-issue-4/map-that-opened-southeast-asia/02a_mapthatopenedsea.jpg">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-4/jan-march-2015/map-collection">Lay of the Land: The National Archives of Singapore’s Map Collection</a>
