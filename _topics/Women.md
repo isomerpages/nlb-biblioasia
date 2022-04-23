@@ -43,3 +43,7 @@ description: ""
 <p>Vandana Aggarwal traces the origins of a venerable association for Indian women and the role it played in their lives.</p> 
 <img src="/images/Vol%2018%20Issue%201/Kamala%20Club/02-Members-with-Mrs-Indira-Gandhi-at-the-Club-premisis-in-Balestier.png">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-1/apr-jun-2014/first-women-poets"> First Words: Women Poets from Singapore</a>
+<p>Poems written by Singapore’s women writers in the 1950s to 1970s depict both their personal and national struggles. Gracie Lee highlights these poets and the literary works that captured the sentiment of the times.</p>
+<hr>
