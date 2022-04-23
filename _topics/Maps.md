@@ -39,3 +39,10 @@ description: ""
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-4/jan-mar-2016/portuguese-map-sincapura-janssen">A Portuguese Map of Sincapura</a>
 <p>The title page of Malaca, l’Inde Méridionale et le Cathay has a floral border and bears the distinct red vertical stamp of the Syonan Library (Syonan Tosyokan) – the name the National Library was known as during the Japanese Occupation.</p>
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-1/apr-jun-2015/search-sg-old-map"> Searching for Singapore in Old Maps and Sea Charts</a>
+<p>Kwa Chong Guan dissects the history of maps and tells us how Singapore was perceived and located in early modern European maps of the region.</p> 
+<img src="/images/vol-11-issue-1/searchingforsg/Cantino_Chart.jpg">
+<hr>
+
+ 
