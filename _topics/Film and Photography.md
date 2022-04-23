@@ -62,3 +62,11 @@ K. F. Wong shot to international fame with his images of Borneo, though not with
 
 <img src="/images/Vol-15-issue-2/from-the-archives/Archives1.JPG">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/picturessg">Picturing Singapore: A Visual History</a>
+Photographs are an important means to understand Singapore’s history and heritage. Janice Loo shares highlights from the National Library’s PictureSG Collection.
+
+<img src="/images/Vol-16-issue-2/picturessg/ThianHockKeng.jpg">
+<hr>
+
+ 
