@@ -25,3 +25,7 @@ description: ""
 <p>The role of women in Singapore’s nation-building efforts in the post-Independence years is sometimes overlooked. Janice Loo examines the impact that women have had on the nation’s development.</p> 
 <img src="/images/vol-10-issue-2/women/tancho_corporation.jpg">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-3/oct-dec-2018/an-ode-to-two-women/"> An Ode to Two Women</a>
+<p>Acclaimed poet and playwright Robert Yeo pays tribute to his daughter and a noted author in chapter two of his work-in-progress sequel to his memoir Routes.</p> 
+<hr>
