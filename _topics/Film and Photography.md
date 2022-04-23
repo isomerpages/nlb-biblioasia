@@ -46,3 +46,9 @@ description: ""
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-1/apr-jun-2017/chaplininsingapore"> Chaplin in Singapore</a>
 <p>One of history’s greatest comic actors, Charlie Chaplin, stops over in Singapore in 1932 and makes a return visit in 1936. Raphaël Millet traces these journeys.</p> 
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="//vol-11/issue-4/jan-mar-2016/fotoalbum-singapur-gustave-richard-lambert">Singapore in Sepia</a>
+Photography in Singapore has a long history dating back to 1843. The earliest photographs, or daguerrotypes, captured images on metal plates. Then, in 1851, the glass plate collodion process was introduced, which allowed photographs to be easily reproduced on albumen paper. This new technology was a breakthrough as it allowed photography to take off commercially.
+
+<img src="/images/vol-11-issue-4/singapore-in-sepia/S1.JPG">
+<hr>
