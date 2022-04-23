@@ -22,6 +22,8 @@ A revamped exhibition space opens at the old Ford Factory in Bukit Timah, markin
  
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-2/jul-sep-2016/bahau">Bahau: A Utopia That Went Awry</a>
 The resettlement of Eurasian and Chinese Catholics in the jungles of Malaysia during World War II has been largely forgotten. Fiona Hodgkins chronicles its painful history.
+
+<img src="/images/Vol-12-issue-2/bahau/01-bahau.jpg">
 <hr> 
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-3/oct-dec-2018/honour-of-war-heroes/">In Honour of War Heroes: The Legacy of Colin St Clair Oakes</a>
