@@ -20,7 +20,7 @@ This docudrama is inspired by actual events detailed in senior librarian Ronnie 
 <br>Ronnie Tan pieces together the fascinating story of Lee Meng, the Malayan Communist Party female agent who headed its courier network for a brief period in 1952.
 
 <a style="text-decoration: none;" href="/vol-14/issue-4/jan-mar-2019/iron-spearhead-hitmn/">Iron Spearhead: The Story of a Communist Hitman</a>
-Ronnie Tan and Goh Yu Mei recount the story of a ruthless Malayan Communist Party cadre whose cold-blooded murders caused a sensation in Singapore in the 1950s.
+<br>Ronnie Tan and Goh Yu Mei recount the story of a ruthless Malayan Communist Party cadre whose cold-blooded murders caused a sensation in Singapore in the 1950s.
 
 <a style="text-decoration: none;" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2018-03-28_141257.html">Communist Party of Malaya</a>
 <br>The Communist Party of Malaya, also known as the Malayan Communist Party, was a political party active in Singapore, the Federation of Malaya and later Malaysia. It was founded in 1930 and dissolved in 1989.
@@ -29,12 +29,12 @@ Ronnie Tan and Goh Yu Mei recount the story of a ruthless Malayan Communist Part
 <br>The Malayan Emergency began in June 1948 after three British plantation managers near Sungei Siput in Perak were killed by insurgents of the Malayan Communist Party (MCP). The MCP had aimed to overthrow the colonial government and establish a Communist People’s Democratic Republic of Malaya. The Malayan Emergency ended only in 1960. 
 
 #### Related Books
-Noel Barber, *[The War of the Running Dogs: How Malaya Defeated the Communist Guerrillas, 1948–60](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=839401)* (London: Collins, 1971). 
+Noel Barber, *[The War of the Running Dogs: How Malaya Defeated the Communist Guerrillas, 1948–60](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=839401)* (London: Collins, 1971). 
 
-Chin Peng, *[My Side of History](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12106841)* (Singapore: Media Masters, 2003). 
+Chin Peng, *[My Side of History](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12106841)* (Singapore: Media Masters, 2003). 
 
-Peter Clague, *[Iron Spearhead: The True Story of a Communist Killer Squad in Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13055676)* (Singapore: Heinemann Educational Books [Asia] Ltd, 1980). 
+Peter Clague, *[Iron Spearhead: The True Story of a Communist Killer Squad in Singapore](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13055676)* (Singapore: Heinemann Educational Books [Asia] Ltd, 1980). 
 
-Leon Comber, *[Malaya’s Secret Police 1945–60: The Role of the Special Branch in the Malayan Emergency](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13055676)* (Singapore: Institute of Southeast Asian Studies; Australia: Monash Asia Institute, 2008). 
+Leon Comber, *[Malaya’s Secret Police 1945–60: The Role of the Special Branch in the Malayan Emergency](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13055676)* (Singapore: Institute of Southeast Asian Studies; Australia: Monash Asia Institute, 2008). 
 
-Anthony Short, *[In Pursuit of Mountain Rats: The Communist Insurrection in Malaya](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10102439)* (Singapore: Cultured Lotus, 2000). 
+Anthony Short, *[In Pursuit of Mountain Rats: The Communist Insurrection in Malaya](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10102439)* (Singapore: Cultured Lotus, 2000).
