@@ -14,8 +14,7 @@ Kunnuck Mistree came to Singapore in 1825 as a mere convict. Over time, he gaine
 This documentary is based on [Vandana’s article](/vol-16/issue-4/jan-mar-2021/kunnuck) of the same title that was published in the January–March 2021 issue of BiblioAsia.
 
 #### Related Articles
-[The Extraordinary Life of Kunnuck Mistree
-](/vol-16/issue-4/jan-mar-2021/kunnuck)
+<a style="text-decoration: none;" href="/vol-16/issue-4/jan-mar-2021/kunnuck">The Extraordinary Life of Kunnuck Mistree</a>
 <br>Indian convicts contributed much to the early infrastructural development of Singapore but their voices have rarely been heard. Vandana Aggarwal uncovers the story of one convict who made good.
 
 [Convict Labour in Colonial Singapore
