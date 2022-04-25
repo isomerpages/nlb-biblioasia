@@ -17,20 +17,20 @@ This documentary examines the tragic life of the mysterious poet Francis P. Ng, 
 This moving documentary is based on two essays: “[On the Trail of Francis P. Ng](/vol-10/issue-4/jan-march-2015/on-the-trail)” (*BiblioAsia*, January–March 2015) and “[Ties that Bind: The Story of Two Brother Poets](/vol-12/issue-4/jan-mar-2017/ties-that-bind)” (*BiblioAsia*, January–March 2017). 
 
 #### Related Articles
-On the Trail of Francis P. Ng
-In her effort to republish one of our unknown literary treasures, Dr Eriko Ogihara-Schuck tracks down the elusive Francis P. Ng, author of possibly the first notable work of poetry in English by a Singapore writer.
+<a style="text-decoration: none;" href="/vol-11/issue-4/jan-mar-2016/mems-cookery-book-william-edward-kinsey">On the Trail of Francis P. Ng</a>
+<br>In her effort to republish one of our unknown literary treasures, Dr Eriko Ogihara-Schuck tracks down the elusive Francis P. Ng, author of possibly the first notable work of poetry in English by a Singapore writer.
 
-Ties that Bind: The Story of Two Brother Poets 
-An American Studies scholar unravels a decades-old mystery surrounding a bone fragment and uncovers a brotherly bond from beyond the grave. Michelle Heng has the story.
+<a style="text-decoration: none;" href="/vol-12/issue-4/jan-mar-2017/ties-that-bind">Ties that Bind: The Story of Two Brother Poets</a> 
+<br>An American Studies scholar unravels a decades-old mystery surrounding a bone fragment and uncovers a brotherly bond from beyond the grave. Michelle Heng has the story.
 
-The Nature of Poetry: An Odyssey Across Times
-Michelle Heng takes us on a journey to see how poets writing in English have charted the changing contours of Singapore and Malaya over the course of the 20th century.
+<a style="text-decoration: none;" href="/vol-17/issue-1/apr-jun-2021/poetry">The Nature of Poetry: An Odyssey Across Times</a>
+<br>Michelle Heng takes us on a journey to see how poets writing in English have charted the changing contours of Singapore and Malaya over the course of the 20th century.
 
-The Pulse of Malayan Literature
-Pulse by Wang Gungwu is notable for being the first published collection of English verse by a local poet and is said to have heralded the start of a Singaporean/Malayan style of poetry. 
+<a style="text-decoration: none;" href="/vol-11/issue-4/jan-mar-2016/pulse-malayan-literature-wang-gung-wu">The Pulse of Malayan Literature</a>
+<br>*Pulse* by Wang Gungwu is notable for being the first published collection of English verse by a local poet and is said to have heralded the start of a Singaporean/Malayan style of poetry. 
 
-First Words: Women Poets from Singapore
-Poems written by Singapore’s women writers in the 1950s to 1970s depict both their personal and national struggles. Gracie Lee highlights these poets and the literary works that captured the sentiment of the times.
+<a style="text-decoration: none;" href="/vol-10/issue-1/apr-jun-2014/first-women-poets">First Words: Women Poets from Singapore</a>
+<br>Poems written by Singapore’s women writers in the 1950s to 1970s depict both their personal and national struggles. Gracie Lee highlights these poets and the literary works that captured the sentiment of the times.
 
 #### Related Books
 Francis P. Ng, F.M.S.R.: A Poem (London: Author H Stockwell, 1937). 
