@@ -6,11 +6,22 @@ description: A cat-and-mouse hunt between two women that will determine the fate
 third_nav_title: Stories from BiblioAsia
 image: "/images/Videos: BA Stories/heartsandminds.jpg"
 ---
-
 #### Premiers on 2 June 2022
 
 ![Hearts and Minds Shu Ann](/images/Videos:%20BA%20Stories/heartsandminds.jpg)
 
 This docudrama involves a tense showdown between Inspector Irene Lee (played by award-winning actress Jo Tan) of the Malayan Special Branch, and Lee Meng (played by Oon Shu An), the suspected head courier of the Malayan Communist Party. Does the steely Inspector Lee unearth the truth from the wily Lee Meng? The bravura performances by two talented actors will keep you riveted in your seats. 
 
-This docudrama is inspired by actual events detailed in senior librarian Ronnie Tan’s essay, “[Hunting Down the Malayan Mata Hari](/vol-14/issue-1/apr-jun-2018/malayan-mata-hari/)”, which was published in the April–June 2018 issue of BiblioAsia. 
+This docudrama is inspired by actual events detailed in senior librarian Ronnie Tan’s essay, “[Hunting Down the Malayan Mata Hari](/vol-14/issue-1/apr-jun-2018/malayan-mata-hari/)”, which was published in the April–June 2018 issue of BiblioAsia.
+
+#### Related Articles
+
+
+#### Related Books
+Adeline Foo, *[Lancing Girls of a Happy World](http://eservice.nlb.gov.sg/itemholdings.aspx?bid=202976503)* (Singapore: Ethos Books, 2017). 
+
+Kua Kia Soong, *[The Chinese Schools of Malaysia: A Protean Saga](http://eservice.nlb.gov.sg/itemholdings.aspx?bid=13224576)* (Selangor Darul Ehsan, Malaysia: Malaysian Centre for Ethnic Centre, New Era College, 2008). 
+
+Cecil Rajendra, *[No Bed of Roses: The Rose Chan Story](http://eservice.nlb.gov.sg/itemholdings.aspx?bid=14715876)* (Singapore: Marshall Cavendish, 2013).
+
+James F. Warren, *[Ah Ku and Karayuki-san: Prostitution in Singapore, 1870–1940](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827062)* (Singapore: NUS Press, 2003).
