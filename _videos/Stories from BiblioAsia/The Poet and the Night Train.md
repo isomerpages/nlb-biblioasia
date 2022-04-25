@@ -17,7 +17,7 @@ This documentary examines the tragic life of the mysterious poet Francis P. Ng, 
 This moving documentary is based on two essays: “[On the Trail of Francis P. Ng](/vol-10/issue-4/jan-march-2015/on-the-trail)” (*BiblioAsia*, Jan–Mar 2015) and “[Ties that Bind: The Story of Two Brother Poets](/vol-12/issue-4/jan-mar-2017/ties-that-bind)” (*BiblioAsia*, Jan–Mar 2017). 
 
 #### Related Articles
-<a style="text-decoration: none;" href="/vol-11/issue-4/jan-mar-2016/mems-cookery-book-william-edward-kinsey">On the Trail of Francis P. Ng</a>
+<a style="text-decoration: none;" href="/vol-10/issue-4/jan-march-2015/on-the-trail">On the Trail of Francis P. Ng</a>
 <br>In her effort to republish one of our unknown literary treasures, Dr Eriko Ogihara-Schuck tracks down the elusive Francis P. Ng, author of possibly the first notable work of poetry in English by a Singapore writer.
 
 <a style="text-decoration: none;" href="/vol-12/issue-4/jan-mar-2017/ties-that-bind">Ties that Bind: The Story of Two Brother Poets</a> 
