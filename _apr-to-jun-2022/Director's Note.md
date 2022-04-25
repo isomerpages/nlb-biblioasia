@@ -3,7 +3,6 @@ title: Director's Note
 permalink: /vol-18/issue-1/apr-to-jun-2022/directors-note
 description: ""
 ---
-
 Having worked as a librarian for over 15 years, I have a special place in my heart for books
 and, by extension, paper. Paper is an ideal material for conveying knowledge widely: it is
 cheap, relatively easy to make and holds ink well. But that doesn’t mean it can’t be improved.
@@ -11,7 +10,7 @@ cheap, relatively easy to make and holds ink well. But that doesn’t mean it ca
 Back in the 1920s, someone came up with the idea of adding a little liquid latex into the
 paper-making process to get paper that is stronger, more flexible and more water-resistant.
 It was a good idea, at least on paper (pun intended). However, for various reasons, the
-product never caught fire. Read our cover story by [Alex Teoh](/apr-to-jun-2022/vol-18/issue-1/rubber-latex-paper) to find out why rubber latex
+product never caught fire. Read our cover story by [Alex Teoh](/vol-18/issue-1/apr-to-jun-2022/rubber-latex-paper) to find out why rubber latex
 paper never took off.
 
 Around the time when this unique paper was making waves, the Orang Seletar were
