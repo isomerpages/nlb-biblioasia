@@ -29,10 +29,12 @@ Ronnie Tan and Goh Yu Mei recount the story of a ruthless Malayan Communist Part
 <br>The Malayan Emergency began in June 1948 after three British plantation managers near Sungei Siput in Perak were killed by insurgents of the Malayan Communist Party (MCP). The MCP had aimed to overthrow the colonial government and establish a Communist People’s Democratic Republic of Malaya. The Malayan Emergency ended only in 1960. 
 
 #### Related Books
-Adeline Foo, *[Lancing Girls of a Happy World](http://eservice.nlb.gov.sg/itemholdings.aspx?bid=202976503)* (Singapore: Ethos Books, 2017). 
+Noel Barber, *[The War of the Running Dogs: How Malaya Defeated the Communist Guerrillas, 1948–60](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=839401)* (London: Collins, 1971). 
 
-Kua Kia Soong, *[The Chinese Schools of Malaysia: A Protean Saga](http://eservice.nlb.gov.sg/itemholdings.aspx?bid=13224576)* (Selangor Darul Ehsan, Malaysia: Malaysian Centre for Ethnic Centre, New Era College, 2008). 
+Chin Peng, *[My Side of History](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12106841)* (Singapore: Media Masters, 2003). 
 
-Cecil Rajendra, *[No Bed of Roses: The Rose Chan Story](http://eservice.nlb.gov.sg/itemholdings.aspx?bid=14715876)* (Singapore: Marshall Cavendish, 2013).
+Peter Clague, *[Iron Spearhead: The True Story of a Communist Killer Squad in Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13055676)* (Singapore: Heinemann Educational Books [Asia] Ltd, 1980). 
 
-James F. Warren, *[Ah Ku and Karayuki-san: Prostitution in Singapore, 1870–1940](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827062)* (Singapore: NUS Press, 2003).
+Leon Comber, *[Malaya’s Secret Police 1945–60: The Role of the Special Branch in the Malayan Emergency](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13055676)* (Singapore: Institute of Southeast Asian Studies; Australia: Monash Asia Institute, 2008). 
+
+Anthony Short, *[In Pursuit of Mountain Rats: The Communist Insurrection in Malaya](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10102439)* (Singapore: Cultured Lotus, 2000). 
