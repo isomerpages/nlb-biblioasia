@@ -6,8 +6,7 @@ description: Rose Chan was one of Singapore’s most famous cabaret dancers. Wha
 image: "/images/Videos: BA Stories/into the night.jpg"
 third_nav_title: Stories from BiblioAsia
 ---
-
-#### Rose Chan was one of Singapore’s most famous cabaret dancers. What happened to her? Premiers on 6 May 2022.
+#### Rose Chan was one of Singapore’s most famous cabaret dancers. What happened to her? Premiers on 26 May 2022.
 
 ![Rose Chan](/images/Videos:%20BA%20Stories/into%20the%20night.jpg)
 
