@@ -37,6 +37,8 @@ Anoma Pieris, *[Hidden Hands and Divided landscapes: A Penal History of Singapor
 Rajesh Rai, *[Indians in Singapore, 1819–1945: Diaspora in the Colonial Port City](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200972195)* (New Delhi: Oxford University Press, 2014).
 
 #### Resources from the Archives
+[Bengal to the Resident](https://www.nas.gov.sg/archivesonline/private_records/record-details/6d29b654-a817-11e3-927b-0050568939ad), November 1824–February 1825, Raffles Library and Museum. (From National Archives of Singapore microfilm no. NL060)
+
 [Government of Bengal to the Governor of Straits Settlements](https://www.nas.gov.sg/citizenarchivist/Documents/Transcribe?itemId=46281&collectionId=174), February 1825–November 1825, National Archives of Singapore, Citizen Archivist Project (media no. M004_0233).
 
-[Bengal to the Resident](https://www.nas.gov.sg/archivesonline/private_records/record-details/6d29b654-a817-11e3-927b-0050568939ad), November 1824–February 1825, Raffles Library and Museum. (From National Archives of Singapore microfilm no. NL060)
+[Resident Councillor of Singapore](http://www.nas.gov.sg/citizenarchivist/documents/transcribe?itemid=22061&collectionid=102), 1827–1840, National Archives of Singapore, Citizen Archivist Project (media no. Q002_00750).
