@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Editor's Picks.md
-      - Art .md
+      - Arts.md
       - Culture.md
       - Film and Photography.md
       - Food.md
