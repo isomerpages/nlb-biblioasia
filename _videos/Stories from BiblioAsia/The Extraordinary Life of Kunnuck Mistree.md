@@ -30,8 +30,8 @@ This documentary is based on[ Vandana’s article](/vol-16/issue-4/jan-mar-2021/
 #### Related Books
 Clare Anderson, *[Subaltern Lives: Biographies of Colonialism in the Indian Ocean World, 1790–1920](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201166721)* (Cambridge: Cambridge University Press, 2012). 
 
-J.F.A. McNair and W.D. Bayliss, Prisoners Their Own Warders: A Record of the Convict Prison at Singapore in the Straits Settlements, Established 1825, Discontinued 1873, Together with a Cursory History of the Convict Establishments at Bencoolen, Penang and Malacca from the Year 1797 (Westminster: A. Constable, 1899).
+J.F.A. McNair and W.D. Bayliss, *[Prisoners Their Own Warders: A Record of the Convict Prison at Singapore in the Straits Settlements, Established 1825, Discontinued 1873, Together with a Cursory History of the Convict Establishments at Bencoolen, Penang and Malacca from the Year 1797](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4320815)* (Westminster: A. Constable, 1899).
 
-Anoma Pieris, Hidden Hands and Divided landscapes: A Penal History of Singapore’s Plural Society (Honolulu: University of Hawaii Press, 2009). 
+Anoma Pieris, *[Hidden Hands and Divided landscapes: A Penal History of Singapore’s Plural Society](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13167960)* (Honolulu: University of Hawaii Press, 2009). 
 
-Rajesh Rai, Indians in Singapore, 1819–1945: Diaspora in the Colonial Port City (New Delhi: Oxford University Press, 2014).
+Rajesh Rai, *[Indians in Singapore, 1819–1945: Diaspora in the Colonial Port City](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200972195)* (New Delhi: Oxford University Press, 2014).
