@@ -2,11 +2,11 @@ collections:
   topics:
     output: true
     order:
-      - Arts/Theatre.md
+      - Arts/.keep
+      - Arts/Arts.md
       - Arts/Literature.md
       - Arts/Film and Photography.md
-      - Arts/Arts.md
-      - Arts/.keep
+      - Arts/Theatre.md
       - Editor's Picks.md
       - Culture.md
       - Food.md
