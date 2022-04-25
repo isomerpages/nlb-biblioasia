@@ -27,7 +27,7 @@ The result would be a modern appendage to his modernist marvel – a concrete ma
 
 <div style="background-color: white;"><br><img style="width:460px" src="/images/Vol-12-issue-3/saving-pearl-bank-apartments/01a-savingpearlbank.jpg">Tan Cheng Siong, the original architect of Pearl Bank, has come up with a conservation plan that entails demolishing part of the existing five-storey carpark and building a new block of 150 apartments. <i>Courtesy of Archurban Architects Planners.</i></div>
 
-<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba;text-align:center"> Like what you're reading? <a href=https://form.gov.sg/#!/616799db4d9b61001398f79b>Subscribe</a> to <i>BiblioAsia</i>'s online newsletter for the latest stories.</div>
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba;text-align:center"> Like what you're reading? <a href="https://form.gov.sg/#!/616799db4d9b61001398f79b">Subscribe</a> to <i>BiblioAsia</i>'s online newsletter for the latest stories.</div>
 
 #### **Rise of an Architectural Icon**
 
