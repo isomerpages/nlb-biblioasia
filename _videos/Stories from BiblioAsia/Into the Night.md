@@ -35,10 +35,10 @@ Theme parks in Singapore had their heyday from the 1920s to 50s. Lim Tin Seng ch
 
 
 #### Related Books
-Adeline Foo, *[Lancing Girls of a Happy World](http://eservice.nlb.gov.sg/itemholdings.aspx?bid=202976503)* (Singapore: Ethos Books, 2017). 
+Adeline Foo, *[Lancing Girls of a Happy World](https://eservice.nlb.gov.sg/itemholdings.aspx?bid=202976503)* (Singapore: Ethos Books, 2017). 
 
-Kua Kia Soong, *[The Chinese Schools of Malaysia: A Protean Saga](http://eservice.nlb.gov.sg/itemholdings.aspx?bid=13224576)* (Selangor Darul Ehsan, Malaysia: Malaysian Centre for Ethnic Centre, New Era College, 2008). 
+Kua Kia Soong, *[The Chinese Schools of Malaysia: A Protean Saga](https://eservice.nlb.gov.sg/itemholdings.aspx?bid=13224576)* (Selangor Darul Ehsan, Malaysia: Malaysian Centre for Ethnic Centre, New Era College, 2008). 
 
-Cecil Rajendra, *[No Bed of Roses: The Rose Chan Story](http://eservice.nlb.gov.sg/itemholdings.aspx?bid=14715876)* (Singapore: Marshall Cavendish, 2013).
+Cecil Rajendra, *[No Bed of Roses: The Rose Chan Story](https://eservice.nlb.gov.sg/itemholdings.aspx?bid=14715876)* (Singapore: Marshall Cavendish, 2013).
 
-James F. Warren, *[Ah Ku and Karayuki-san: Prostitution in Singapore, 1870–1940](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827062)* (Singapore: NUS Press, 2003).
+James F. Warren, *[Ah Ku and Karayuki-san: Prostitution in Singapore, 1870–1940](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827062)* (Singapore: NUS Press, 2003).
