@@ -16,24 +16,17 @@ This docudrama is inspired by actual events detailed in senior librarian Ronnie 
 
 #### Related Articles
 
-<a style="text-decoration: none;" href="/vol-12/issue-4/jan-mar-2017/beneath-glitz-glamour">Beneath the Glitz and Glamour: The Untold Story of the "Lancing Girls"</a>
-<br>These cabaret girls were better known for their risqué stage shows, but some also donated generously to charity. Adeline Foo uncovers these women with hearts of gold.
+<a style="text-decoration: none;" href="/vol-14/issue-1/apr-jun-2018/malayan-mata-hari/">Hunting Down the Malayan Mata Hari </a>
+<br>Ronnie Tan pieces together the fascinating story of Lee Meng, the Malayan Communist Party female agent who headed its courier network for a brief period in 1952.
 
-<a style="text-decoration: none;" href="/vol-12/issue-1/apr-jun-2016/old-world-amusement">Old-world Amusement Parks</a>
-Theme parks in Singapore had their heyday from the 1920s to 50s. Lim Tin Seng charts their glory days and subsequent decline.
+<a style="text-decoration: none;" href="/vol-14/issue-4/jan-mar-2019/iron-spearhead-hitmn/">Iron Spearhead: The Story of a Communist Hitman</a>
+Ronnie Tan and Goh Yu Mei recount the story of a ruthless Malayan Communist Party cadre whose cold-blooded murders caused a sensation in Singapore in the 1950s.
 
-<a style="text-decoration: none;" href="/vol-15/issue-4/jan-mar-2020/women-w-commodities/">When Women Were Commodities</a>
-<br>Brothels in colonial Singapore, with its large male migrant population, did a roaring trade. Adeline Foo examines the lives of the unfortunate girls and women who were sold into prostitution.
+<a style="text-decoration: none;" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2018-03-28_141257.html">Communist Party of Malaya</a>
+<br>The Communist Party of Malaya, also known as the Malayan Communist Party, was a political party active in Singapore, the Federation of Malaya and later Malaysia. It was founded in 1930 and dissolved in 1989.
 
-<a style="text-decoration: none;" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1044_2006-06-01.html">Gay World (Happy World)</a>
-<br>Gay World was one of three amusement parks built in Singapore before World War II and around which Singapore’s nightlife revolved from the 1920s to the 60s. It featured a variety of entertainment including cabaret, operas, movies, gaming, sport matches, stunts and shopping. 
-
-<a style="text-decoration: none;" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1046_2006-06-09.html">Great World Amusement Park</a>
-<br>Great World Amusement Park was one of the three “Worlds” that lighted up Singapore’s nightlife in the 1950s and 60s. Although it closed in 1964, cinemas, cabaret and restaurants continued operations at the park until 1978.
-
-<a style="text-decoration: none;" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_990_2006-06-09.html">New World Park</a>
-<br>Opened in 1923, New World Park, an amusement park, was a popular nighttime haunt in Singapore from the 1920s to the 60s. In its heyday, New World had open-air cinemas, cabarets, opera halls, shops and restaurants.
-
+<a style="text-decoration: none;" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2019-06-12_145539.html">Malayan Emergency</a>
+<br>The Malayan Emergency began in June 1948 after three British plantation managers near Sungei Siput in Perak were killed by insurgents of the Malayan Communist Party (MCP). The MCP had aimed to overthrow the colonial government and establish a Communist People’s Democratic Republic of Malaya. The Malayan Emergency ended only in 1960. 
 
 #### Related Books
 Adeline Foo, *[Lancing Girls of a Happy World](http://eservice.nlb.gov.sg/itemholdings.aspx?bid=202976503)* (Singapore: Ethos Books, 2017). 
