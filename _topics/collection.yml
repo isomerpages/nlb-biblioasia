@@ -2,20 +2,26 @@ collections:
   topics:
     output: true
     order:
+      - Arts/.keep
+      - Arts/Arts.md
+      - Arts/Literature.md
+      - Arts/Film and Photography.md
+      - Arts/Theatre.md
       - Editor's Picks.md
-      - Art .md
       - Culture.md
-      - Film and Photography.md
       - Food.md
       - Governance.md
-      - Literature.md
+      - Maps.md
       - Medicine.md
       - Nature and the Environment .md
-      - People.md
       - Places and Buildings/.keep
       - Places and Buildings/Architecture.md
       - Places and Buildings/Housing.md
       - Places and Buildings/Leisure.md
       - Places and Buildings/Worship.md
       - Places and Buildings/More Places and Buildings.md
-      - Theatre.md
+      - People/.keep
+      - People/People.md
+      - People/Women.md
+      - Print.md
+      - Wars.md

@@ -2,7 +2,9 @@
 title: Film and Photography
 permalink: /topics/film-photography
 description: ""
+third_nav_title: Arts
 ---
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-1/apr-jun-2015/ga-malay-cinema"> The Golden Age of Malay Cinema: 1947–1972 </a>
 <p> Few people are aware that Singapore was once the hub for Malay filmmaking in Southeast Asia. Nor Afidah Bte Abd Rahman and Michelle Heng recount its fabled history.</p> 
  <img src="/images/vol-11-issue-1/malaycinema/bg3_re.jpg">
@@ -45,4 +47,47 @@ description: ""
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-1/apr-jun-2017/chaplininsingapore"> Chaplin in Singapore</a>
 <p>One of history’s greatest comic actors, Charlie Chaplin, stops over in Singapore in 1932 and makes a return visit in 1936. Raphaël Millet traces these journeys.</p> 
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-4/jan-mar-2016/fotoalbum-singapur-gustave-richard-lambert">Singapore in Sepia</a>
+Photography in Singapore has a long history dating back to 1843. The earliest photographs, or daguerrotypes, captured images on metal plates. Then, in 1851, the glass plate collodion process was introduced, which allowed photographs to be easily reproduced on albumen paper. This new technology was a breakthrough as it allowed photography to take off commercially.
+
+<img src="/images/vol-11-issue-4/singapore-in-sepia/S1.JPG">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/doggett">Marjorie Doggett: Photographer of Singapore</a>
+Edward Stokes reflects on Characters of Light by Marjorie Doggett, first published in 1957, and on his own recent book, Marjorie Doggett’s Singapore, which portrays her life and work here.
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-2/jul-sep-2019/wong-ken-foo">From the Archives: The Work of Photographer KF Wong</a>
+K. F. Wong shot to international fame with his images of Borneo, though not without controversy. Zhuang Wubin examines Wong’s work and sees beyond their historical value.
+
+<img src="/images/Vol-15-issue-2/from-the-archives/Archives1.JPG">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/picturessg">Picturing Singapore: A Visual History</a>
+Photographs are an important means to understand Singapore’s history and heritage. Janice Loo shares highlights from the National Library’s PictureSG Collection.
+
+<img src="/images/Vol-16-issue-2/picturessg/ThianHockKeng.jpg">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-1/apr-jun-2018/portrait-lee-bro-std/">Portraits from the Lee Brothers Studio</a>
+Gretchen Liu casts the spotlight on the Lee Brothers Studio Collection. Comprising some 2,500 images, this is the largest single collection of photographic portraits in the National Archives of Singapore.
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-1/apr-jun-2019/the-way-we-were">The Way We Were: The MITA Collection 1949–1969</a>
+Photographs can capture subtext that is sometimes more evocative than the intended subject, as Gretchen Liu discovered when she explored the early work of the Photo Unit.
+
+<img src="/images/Vol-15-issue-1/the-way-we-were/02c_waywewere.jpg">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-3/oct-dec-2019/photography-in-sg/">Daguerreotypes to Dry plates: Photography in 19th-century Singapore</a>
+The oldest known photographs of Singapore were taken by Europeans in the early 1840s. Janice Loo charts the rise of commercial photography in the former British colony.
+
+<img src="/images/Vol-15-issue-3/daguerreotypes-to-dry-plates/Daguerreotypes1.JPG">
+
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-3/oct-dec-2021/prewarphotography">Exhibiting Photography In Pre-war Singapore</a>
+The founding of two camera clubs in 1921 created more opportunities to exhibit photographs in Malaya. Zhuang Wubin revisits three significant photo exhibitions in pre-war Singapore and examines their implications.
 <hr>

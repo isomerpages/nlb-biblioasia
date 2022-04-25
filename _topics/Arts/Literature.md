@@ -2,7 +2,9 @@
 title: Literature
 permalink: /topics/literature
 description: ""
+third_nav_title: Arts
 ---
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-4/jan-mar-2017/ties-that-bind">Ties that Bind: The Story of Two Brother Poets</a>
 <p>An American Studies scholar unravels a decades-old mystery surrounding a bone fragment and uncovers a brotherly bond from beyond the grave. Michelle Heng has the story.</p> 
 <img style="width:100%;" 

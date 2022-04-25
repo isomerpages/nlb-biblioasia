@@ -1,8 +1,12 @@
 ---
-title: "Art "
+title: Art
 permalink: /topics/art
 description: ""
+third_nav_title: Art
 ---
+
+
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-2/jul-sep-2021/murals"> The Forgotten Murals of Paya Lebar Airport</a>
  <p>Three large murals used to grace the walls of Paya Lebar Airport. Dahlia Shamsuddin has the inside story of how they came to be.</p> 
  <img style="width:100%;" src="/images/vol-17-issue-2/murals/Mural_Main2.jpg"> 
