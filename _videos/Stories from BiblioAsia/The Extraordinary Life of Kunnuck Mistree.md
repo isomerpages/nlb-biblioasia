@@ -26,3 +26,12 @@ This documentary is based on[ Vandana’s article](/vol-16/issue-4/jan-mar-2021/
 
 [Indian Convicts’ Contributions to Early Singapore (1825–1873)
 ](https://eresources.nlb.gov.sg/infopedia/articles/SIP_39_2005-02-02.html)<br>From 1825, Singapore began receiving Indian convicts from British India to serve out their sentences as well as assist with the labour shortage and development requirements in the colony. The transportation of convict labour to Singapore ceased in 1873. The convicts were either sent to other colonies, given freedom to settle in Singapore or repatriated.
+
+#### Related Books
+Clare Anderson, *[Subaltern Lives: Biographies of Colonialism in the Indian Ocean World, 1790–1920](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201166721)* (Cambridge: Cambridge University Press, 2012). 
+
+J.F.A. McNair and W.D. Bayliss, Prisoners Their Own Warders: A Record of the Convict Prison at Singapore in the Straits Settlements, Established 1825, Discontinued 1873, Together with a Cursory History of the Convict Establishments at Bencoolen, Penang and Malacca from the Year 1797 (Westminster: A. Constable, 1899).
+
+Anoma Pieris, Hidden Hands and Divided landscapes: A Penal History of Singapore’s Plural Society (Honolulu: University of Hawaii Press, 2009). 
+
+Rajesh Rai, Indians in Singapore, 1819–1945: Diaspora in the Colonial Port City (New Delhi: Oxford University Press, 2014).
