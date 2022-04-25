@@ -39,5 +39,5 @@ All in all, another issue with plenty to chew on. Bon appétit!
 <div style="background-color: white;">
 <br>
 <img src="/images/vol-17-issue-3/Director.png" style="width: 100px; height: 100px;" />
-<center><b>Ms Alicia Yeo</b><br>Acting Director<br>National Library</center>
+<center><b>Ms Alicia Yeo</b><br>Director<br>National Library</center>
 </div>
