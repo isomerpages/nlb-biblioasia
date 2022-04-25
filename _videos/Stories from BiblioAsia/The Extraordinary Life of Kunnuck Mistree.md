@@ -5,11 +5,24 @@ description: Unearthing the identify of an Indian pioneer from Singapore’s pas
 image: "/images/Videos: BA Stories/extraordinary life of kunnuck mistree.png"
 third_nav_title: Stories from BiblioAsia
 ---
-
 #### Unearthing the identify of an Indian pioneer from Singapore’s past. Premiers on 12 May.
 
 ![Unearthing the identify of an Indian pioneer from Singapore’s past](/images/Videos:%20BA%20Stories/extraordinary%20life%20of%20kunnuck%20mistree.png)
 
 Kunnuck Mistree came to Singapore in 1825 as a mere convict. Over time, he gained his freedom, raised a family, became a “native doctor”, received a pardon and eventually died a wealthy man. As a result of painstaking original research by educator and writer Vandana Aggarwal, we now have an insight into the life of one of the earliest people from India who came to Singapore. 
 
-This documentary is based on[ Vandana’s article](/vol-16/issue-4/jan-mar-2021/kunnuck) of the same title that was published in the January–March 2021 issue of BiblioAsia. 
+This documentary is based on[ Vandana’s article](/vol-16/issue-4/jan-mar-2021/kunnuck) of the same title that was published in the January–March 2021 issue of BiblioAsia.
+
+#### Related Articles
+[The Extraordinary Life of Kunnuck Mistree
+](/vol-16/issue-4/jan-mar-2021/kunnuck)
+<br>Indian convicts contributed much to the early infrastructural development of Singapore but their voices have rarely been heard. Vandana Aggarwal uncovers the story of one convict who made good.
+
+[Convict Labour in Colonial Singapore
+](/vol-11/issue-3/oct-dec-2015/convict)<br>Singapore was once a penal colony for convicts shipped in from overseas. Bonny Tan documents how their humble service raised some of its famous buildings.
+
+[Bras Basah Convict Jail
+](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2015-04-20_160625.html)<br>The convict jail at Bras Basah was established in response to the increasing number of convicts who were transported to Singapore from other places such as India and Hong Kong when Singapore was a penal colony in the early 19th century.
+
+[Indian Convicts’ Contributions to Early Singapore (1825–1873)
+](https://eresources.nlb.gov.sg/infopedia/articles/SIP_39_2005-02-02.html)<br>From 1825, Singapore began receiving Indian convicts from British India to serve out their sentences as well as assist with the labour shortage and development requirements in the colony. The transportation of convict labour to Singapore ceased in 1873. The convicts were either sent to other colonies, given freedom to settle in Singapore or repatriated. 
