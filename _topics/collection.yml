@@ -2,6 +2,7 @@ collections:
   topics:
     output: true
     order:
+      - Arts/Literature.md
       - Arts/Film and Photography.md
       - Arts/Arts.md
       - Arts/.keep
