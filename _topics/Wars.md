@@ -1,6 +1,6 @@
 ---
-title: Wars
-permalink: /topics/wars
+title: War
+permalink: /topics/war
 description: ""
 ---
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-1/apr-jun-2019/wartime-victuals">Wartime Victuals</a>
