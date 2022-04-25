@@ -39,6 +39,6 @@ Eriko Ogihara-Schuck and Anne Teo, eds., *[Finding Francis: A Poetic Adventure](
 
 Angelia Poon, Philip Holden and Shirley Geok-lin Lim, eds., *[Writing Singapore: An Historical Anthology of Singapore Literature](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13180645)* (Singapore: NUS Press; National Arts Council Singapore, 2009)
 
-Teo Kah Leng, *[I Found a Bone and Other Poems](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202554510)*(Singapore: Ethos Books, 2016). 
+Teo Kah Leng, *[I Found a Bone and Other Poems](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202554510)* (Singapore: Ethos Books, 2016). 
 
-University of Malaya, *[The Register of Graduates](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4413300)*(Singapore: University of Malaya, 1963).
+University of Malaya, *[The Register of Graduates](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4413300)* (Singapore: University of Malaya, 1963).
