@@ -2,6 +2,7 @@ collections:
   topics:
     output: true
     order:
+      - Arts/Arts.md
       - Arts/.keep
       - Editor's Picks.md
       - Culture.md
