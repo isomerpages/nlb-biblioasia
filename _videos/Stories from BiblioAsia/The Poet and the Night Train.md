@@ -33,12 +33,11 @@ This moving documentary is based on two essays: “[On the Trail of Francis P. N
 <br>Poems written by Singapore’s women writers in the 1950s to 1970s depict both their personal and national struggles. Gracie Lee highlights these poets and the literary works that captured the sentiment of the times.
 
 #### Related Books
-Francis P. Ng, F.M.S.R.: A Poem (London: Author H Stockwell, 1937). 
+Francis P. Ng,*[ F.M.S.R.: A Poem](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5334024)* (London: Author H Stockwell, 1937). 
 
-Eriko Ogihara-Schuck and Anne Teo, eds., Finding Francis: A Poetic Adventure 
-(Singapore: Ethos Books, 2015).
+Eriko Ogihara-Schuck and Anne Teo, eds., *[Finding Francis: A Poetic Adventure](http://eservice.nlb.gov.sg/itemholdings.aspx?bid=201951092)* (Singapore: Ethos Books, 2015).
 
-Angelia Poon, Philip Holden and Shirley Geok-lin Lim, eds., Writing Singapore: An Historical Anthology of Singapore Literature (Singapore: NUS Press; National Arts Council Singapore, 2009)
+Angelia Poon, Philip Holden and Shirley Geok-Lin Lim, eds., *[Writing Singapore: An Historical Anthology of Singapore Literature](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13180645)* (Singapore: NUS Press; National Arts Council Singapore, 2009)
 
 Teo Kah Leng, I Found a Bone and Other Poems (Singapore: Ethos Books, 2016). 
 
