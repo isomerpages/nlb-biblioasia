@@ -35,3 +35,5 @@ J.F.A. McNair and W.D. Bayliss, *[Prisoners Their Own Warders: A Record of the C
 Anoma Pieris, *[Hidden Hands and Divided landscapes: A Penal History of Singapore’s Plural Society](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13167960)* (Honolulu: University of Hawaii Press, 2009). 
 
 Rajesh Rai, *[Indians in Singapore, 1819–1945: Diaspora in the Colonial Port City](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200972195)* (New Delhi: Oxford University Press, 2014).
+
+#### Resources from the Archives
