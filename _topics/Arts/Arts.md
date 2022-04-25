@@ -2,7 +2,7 @@
 title: Art
 permalink: /topics/art
 description: ""
-third_nav_title: Art
+third_nav_title: Arts
 ---
 
 
