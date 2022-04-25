@@ -5,7 +5,7 @@ description: Unearthing the identify of an Indian pioneer from Singapore’s pas
 image: "/images/Videos: BA Stories/extraordinary life of kunnuck mistree.png"
 third_nav_title: Stories from BiblioAsia
 ---
-#### How did an ex-convict become a philanthropist?  Learn about an Indian pioneer from the 19th century. Premiers on 12 May.
+#### How did an ex-convict become a philanthropist?  Find out on 12 May.
 
 ![Unearthing the identify of an Indian pioneer from Singapore’s past](/images/Videos:%20BA%20Stories/extraordinary%20life%20of%20kunnuck%20mistree.png)
 
