@@ -9,6 +9,8 @@ third_nav_title: Stories from BiblioAsia
 
 ![Rose Chan](/images/Videos:%20BA%20Stories/into%20the%20night.jpg)
 
+Rose Chan was the best known of the women who worked in the cabarets in Singapore in the 1940s and 50s. In this documentary, her ex-boyfriend reveals what she was like as a person, while the daughter of a former cabaret girl talks about growing up in that milieu. 
+This documentary is based on the essay “[Beneath the Glitz and Glamour: The Untold Story of the ‘Lancing Girls](/vol-12/issue-4/jan-mar-2017/beneath-glitz-glamour)’”. It was written by award-winning author Adeline Foo and published in the Jan–Mar 2017 issue of BiblioAsia. 
 
 #### Related Articles
 <a style="text-decoration: none;" href="/vol-12/issue-4/jan-mar-2017/beneath-glitz-glamour">Beneath the Glitz and Glamour: The Untold Story of the "Lancing Girls"</a>
