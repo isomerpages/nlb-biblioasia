@@ -4,7 +4,6 @@ permalink: /topics/women
 description: ""
 third_nav_title: People
 ---
-
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-1/apr-jun-2018/warrior-women-rani/">Warrior Women: The Rani of Jhansi Regiment</a>
 <p>A band of extraordinary women rose above oppression and poverty in Malayan plantations to overthrow the British in colonial India. Meira Chand has the story.</p> 
 <img src="/images/Vol-14-issue-1/warrior-women/Warrior1.JPG">
@@ -74,6 +73,7 @@ third_nav_title: People
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-2/jul-sep-2019/georgette-chen"> Georgette Chen: Artist Extraordinaire</a>
 <p>Sara Siew examines the link between visual art and the written word through the fascinating story of Singaporean artist Georgette Chen.</p> 
+
 <img src="/images/Vol-15-issue-2/artist-extraordinaire/Artist1.JPG">
 <hr>
 
@@ -82,6 +82,8 @@ third_nav_title: People
 </p>
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/doggett">Marjorie Doggett: Photographer of Singapore</a>
-<p>Edward Stokes reflects on Characters of Light by Marjorie Doggett, first published in 1957, and on his own recent book, Marjorie Doggett’s Singapore, which portrays her life and work here.</p>
-<hr>
+ 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/doggett"> Marjorie Doggett: Photographer of Singapore </a>
+<p>Edward Stokes reflects on Characters of Light by Marjorie Doggett, first published in 1957, and on his own recent book, Marjorie Doggett’s Singapore, which portrays her life and work here.</p> 
+<img style="width:600px;" src="/images/Vol-16-issue-1/marjorie/Majorie-title.png"> 
+<hr> 
