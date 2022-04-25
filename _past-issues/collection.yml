@@ -2,5 +2,4 @@ collections:
   past-issues:
     output: true
     order:
-      - Test Page.md
       - all-issues.md
