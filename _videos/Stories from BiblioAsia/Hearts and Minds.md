@@ -6,7 +6,7 @@ description: A cat-and-mouse hunt between two women that will determine the fate
 third_nav_title: Stories from BiblioAsia
 image: "/images/Videos: BA Stories/heartsandminds.jpg"
 ---
-#### Premiers on 2 June 2022
+#### A cat-and-mouse hunt between two women that will determine the fate of communism in Malaya. Premiers on 2 June 2022
 
 ![Hearts and Minds Shu Ann](/images/Videos:%20BA%20Stories/heartsandminds.jpg)
 
