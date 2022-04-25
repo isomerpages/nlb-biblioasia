@@ -7,7 +7,6 @@ description: "The name Francis P. Ng is not familiar to many Singaporeans. Who
 image: "/images/Videos: BA Stories/poet night train.jpg"
 third_nav_title: Stories from BiblioAsia
 ---
-
 #### Singapore’s own T.S. Eliot was lost to memory for 85 years. This is the story of his rediscovery. Premiers on 19 May 2022. 
 
  ![The poet and the night train](/images/Videos:%20BA%20Stories/poet%20night%20train.jpg)
@@ -15,7 +14,7 @@ third_nav_title: Stories from BiblioAsia
 
 This documentary examines the tragic life of the mysterious poet Francis P. Ng, who wrote Singapore’s first book-length poem, [F.M.S.R.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5334024), and then disappeared during World War II. Researcher Eriko Ogihara-Schuck recounts the almost miraculous way she was able to confirm his fate and to connect with a living relative of his – a niece. Singaporean poets Alvin Pang and Robert Yeo also weigh in on the significance of Francis P. Ng’s work. 
 
-This moving documentary is based on two essays: “[On the Trail of Francis P. Ng](/vol-10/issue-4/jan-march-2015/on-the-trail)” (*BiblioAsia*, January–March 2015) and “[Ties that Bind: The Story of Two Brother Poets](/vol-12/issue-4/jan-mar-2017/ties-that-bind)” (*BiblioAsia*, January–March 2017). 
+This moving documentary is based on two essays: “[On the Trail of Francis P. Ng](/vol-10/issue-4/jan-march-2015/on-the-trail)” (*BiblioAsia*, Jan–Mar 2015) and “[Ties that Bind: The Story of Two Brother Poets](/vol-12/issue-4/jan-mar-2017/ties-that-bind)” (*BiblioAsia*, Jan–Mar 2017). 
 
 #### Related Articles
 <a style="text-decoration: none;" href="/vol-11/issue-4/jan-mar-2016/mems-cookery-book-william-edward-kinsey">On the Trail of Francis P. Ng</a>
