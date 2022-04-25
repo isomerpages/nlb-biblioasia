@@ -12,8 +12,9 @@ third_nav_title: Stories from BiblioAsia
  ![The poet and the night train](/images/Videos:%20BA%20Stories/poet%20night%20train.jpg)
 
 
-This documentary examines the tragic life of the mysterious poet Francis P. Ng, who wrote Singapore’s first book-length poem, F.M.S.R., and then disappeared during World War II. Researcher Eriko Ogihara-Schuck recounts the almost miraculous way she was able to confirm his fate and to connect with a living relative of his – a niece. Singaporean poets Alvin Pang and Robert Yeo also weigh in on the significance of Francis P. Ng’s work. 
-This moving documentary is based on two essays: “On the Trail of Francis P. Ng” (BiblioAsia, Jan-Mar 2015) and “Ties that Bind: The Story of Two Brother Poets” (BiblioAsia, Jan-Mar 2017). 
+This documentary examines the tragic life of the mysterious poet Francis P. Ng, who wrote Singapore’s first book-length poem, [F.M.S.R.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5334024), and then disappeared during World War II. Researcher Eriko Ogihara-Schuck recounts the almost miraculous way she was able to confirm his fate and to connect with a living relative of his – a niece. Singaporean poets Alvin Pang and Robert Yeo also weigh in on the significance of Francis P. Ng’s work. 
+
+This moving documentary is based on two essays: “[On the Trail of Francis P. Ng](/vol-10/issue-4/jan-march-2015/on-the-trail)” (*BiblioAsia*, January–March 2015) and “[Ties that Bind: The Story of Two Brother Poets](/vol-12/issue-4/jan-mar-2017/ties-that-bind)” (*BiblioAsia*, January–March 2017). 
 
 #### Related Articles
 On the Trail of Francis P. Ng
@@ -41,4 +42,4 @@ Angelia Poon, Philip Holden and Shirley Geok-lin Lim, eds., Writing Singapore: A
 
 Teo Kah Leng, I Found a Bone and Other Poems (Singapore: Ethos Books, 2016). 
 
-University of Malaya, The Register of Graduates (Singapore: University of Malaya, 1963). 
+University of Malaya, The Register of Graduates (Singapore: University of Malaya, 1963).
