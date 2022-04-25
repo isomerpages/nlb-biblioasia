@@ -19,7 +19,7 @@ This documentary is based on the essay “[Beneath the Glitz and Glamour: The Un
 <br>These cabaret girls were better known for their risqué stage shows, but some also donated generously to charity. Adeline Foo uncovers these women with hearts of gold.
 
 <a style="text-decoration: none;" href="/vol-12/issue-1/apr-jun-2016/old-world-amusement">Old-world Amusement Parks</a>
-Theme parks in Singapore had their heyday from the 1920s to 50s. Lim Tin Seng charts their glory days and subsequent decline.
+<br>Theme parks in Singapore had their heyday from the 1920s to 50s. Lim Tin Seng charts their glory days and subsequent decline.
 
 <a style="text-decoration: none;" href="/vol-15/issue-4/jan-mar-2020/women-w-commodities/">When Women Were Commodities</a>
 <br>Brothels in colonial Singapore, with its large male migrant population, did a roaring trade. Adeline Foo examines the lives of the unfortunate girls and women who were sold into prostitution.
