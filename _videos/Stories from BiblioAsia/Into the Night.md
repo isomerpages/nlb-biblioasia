@@ -39,6 +39,6 @@ Adeline Foo, *[Lancing Girls of a Happy World](https://eservice.nlb.gov.sg/item_
 
 Kua Kia Soong, *[The Chinese Schools of Malaysia: A Protean Saga](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13224576)* (Selangor Darul Ehsan, Malaysia: Malaysian Centre for Ethnic Centre, New Era College, 2008). 
 
-Cecil Rajendra, *[No Bed of Roses: The Rose Chan Story](https://eservice.nlb.gov.sg/itemholdings.aspx?bid=14715876)* (Singapore: Marshall Cavendish, 2013).
+Cecil Rajendra, *[No Bed of Roses: The Rose Chan Story](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14715876)* (Singapore: Marshall Cavendish, 2013).
 
-James F. Warren, *[Ah Ku and Karayuki-san: Prostitution in Singapore, 1870–1940](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827062)* (Singapore: NUS Press, 2003).
+James F. Warren, *[Ah Ku and Karayuki-san: Prostitution in Singapore, 1870–1940](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11827062)* (Singapore: NUS Press, 2003).
