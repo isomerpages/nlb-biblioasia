@@ -7,6 +7,14 @@ collection_name: past-issues
 Note: When accessing older issues, you may be directed to an archived version.
 
 
+#### Volume 18
+
+|                                                              |                                                              |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| ![BiblioAsia 18-1 cover](/images/covers/ba18-1v2.jpg)[Apr–Jun 2022](/vol-18/issue-1/apr-jun-2022/)<br>[Apr–Jun 2022](/files/pdf/BiblioAsia_Apr-Jun%202022%20(below%205MB).pdf) |![placeholder](/images/covers/placeholdercover-v2.jpg) |
+| | |
+
+
 #### Volume 17
 
 |                                                              |                                                              |
