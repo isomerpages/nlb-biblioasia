@@ -35,9 +35,9 @@ This documentary is based on the essay “[Beneath the Glitz and Glamour: The Un
 
 
 #### Related Books
-Adeline Foo, *[Lancing Girls of a Happy World](https://eservice.nlb.gov.sg/itemholdings.aspx?bid=202976503)* (Singapore: Ethos Books, 2017). 
+Adeline Foo, *[Lancing Girls of a Happy World](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202976503)* (Singapore: Ethos Books, 2017). 
 
-Kua Kia Soong, *[The Chinese Schools of Malaysia: A Protean Saga](https://eservice.nlb.gov.sg/itemholdings.aspx?bid=13224576)* (Selangor Darul Ehsan, Malaysia: Malaysian Centre for Ethnic Centre, New Era College, 2008). 
+Kua Kia Soong, *[The Chinese Schools of Malaysia: A Protean Saga](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13224576)* (Selangor Darul Ehsan, Malaysia: Malaysian Centre for Ethnic Centre, New Era College, 2008). 
 
 Cecil Rajendra, *[No Bed of Roses: The Rose Chan Story](https://eservice.nlb.gov.sg/itemholdings.aspx?bid=14715876)* (Singapore: Marshall Cavendish, 2013).
 
