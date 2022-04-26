@@ -36,7 +36,7 @@ According to Chia, the story had been related to him by a village elder he addre
 
 So, how much of the German girl story holds up to scrutiny? And what can it tell us about the history of Pulau Ubin?
 
-<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba;text-align:center"> Want more of what you’re reading? Get <i>BiblioAsia</i>’s latest stories delivered to your inbox. Subscribe <a href=https://form.gov.sg/#!/616799db4d9b61001398f79b> here</a>.</div>
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba;text-align:center"> Want more of what you’re reading? Get <i>BiblioAsia</i>’s latest stories delivered to your inbox. Subscribe <a href="https://form.gov.sg/#!/616799db4d9b61001398f79b"> here</a>.</div>
 
 #### **Of Coffee Plantations and Mysterious Germans** 
 

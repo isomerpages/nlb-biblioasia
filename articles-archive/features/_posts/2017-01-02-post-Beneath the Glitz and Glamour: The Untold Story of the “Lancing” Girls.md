@@ -33,7 +33,7 @@ On 27 August 1953, *The Singapore Free Press* newspaper reported that the prince
 
 Rose Chan wasn’t the only “charity queen” from the cabaret world. There were two other women from the Happy World cabaret who worked tirelessly to start a free school for children. These women became the founders of the Happy School in Geylang.
 
-<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba;text-align:center"> Want more of what you’re reading? Get <i>BiblioAsia</i>’s latest stories delivered to your inbox. Subscribe <a href=https://form.gov.sg/#!/616799db4d9b61001398f79b> here</a>.</div>
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba;text-align:center"> Want more of what you’re reading? Get <i>BiblioAsia</i>’s latest stories delivered to your inbox. Subscribe <a href="https://form.gov.sg/#!/616799db4d9b61001398f79b"> here</a>.</div>
 
 
 #### **A Happy School for Children**

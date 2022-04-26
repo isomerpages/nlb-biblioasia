@@ -52,7 +52,7 @@ In the early days, when Changi was still being considered, Pek Hock Thiam, direc
 
 The final decision to build the new airport at Changi came quickly. “Although [the] cost of relocating the airport to Changi was high, some $1.5 billion”, Lee believed that this would be the better option in the long term. When Lee was in Washington in April 1975, Goh Keng Swee, as acting prime minister, sent him an urgent message to say that a quick decision had to be made if Changi Airport was to be built by 1981.[^8] Lee cabled back and told Goh to proceed. 
 
-<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba;text-align:center"> Like what you're reading? <a href=https://form.gov.sg/#!/616799db4d9b61001398f79b>Subscribe</a> to <i>BiblioAsia</i>'s online newsletter for the latest stories.</div>
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba;text-align:center"> Like what you're reading? <a href="https://form.gov.sg/#!/616799db4d9b61001398f79b">Subscribe</a> to <i>BiblioAsia</i>'s online newsletter for the latest stories.</div>
 
 #### **Building Changi**
 
