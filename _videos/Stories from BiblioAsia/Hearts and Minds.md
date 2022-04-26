@@ -31,10 +31,10 @@ This docudrama is inspired by actual events detailed in senior librarian Ronnie 
 #### Related Books
 Noel Barber, *[The War of the Running Dogs: How Malaya Defeated the Communist Guerrillas, 1948–60](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=839401)* (London: Collins, 1971). 
 
-Chin Peng, *[My Side of History](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12106841)* (Singapore: Media Masters, 2003). 
+Chin Peng, *[My Side of History](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12106841)* (Singapore: Media Masters, 2003). 
 
-Peter Clague, *[Iron Spearhead: The True Story of a Communist Killer Squad in Singapore](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13055676)* (Singapore: Heinemann Educational Books [Asia] Ltd, 1980). 
+Peter Clague, *[Iron Spearhead: The True Story of a Communist Killer Squad in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082295)* (Singapore: Heinemann Educational Books [Asia] Ltd, 1980). 
 
-Leon Comber, *[Malaya’s Secret Police 1945–60: The Role of the Special Branch in the Malayan Emergency](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13055676)* (Singapore: Institute of Southeast Asian Studies; Australia: Monash Asia Institute, 2008). 
+Leon Comber, *[Malaya’s Secret Police 1945–60: The Role of the Special Branch in the Malayan Emergency](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13055676)* (Singapore: Institute of Southeast Asian Studies; Australia: Monash Asia Institute, 2008). 
 
-Anthony Short, *[In Pursuit of Mountain Rats: The Communist Insurrection in Malaya](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10102439)* (Singapore: Cultured Lotus, 2000).
+Anthony Short, *[In Pursuit of Mountain Rats: The Communist Insurrection in Malaya](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10102439)* (Singapore: Cultured Lotus, 2000).
