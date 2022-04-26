@@ -15,7 +15,7 @@ This documentary is based on [Vandana’s article](/vol-16/issue-4/jan-mar-2021/
 
 #### Related Articles
 <a style="text-decoration: none;" href="/vol-16/issue-4/jan-mar-2021/kunnuck">The Extraordinary Life of Kunnuck Mistree</a>
-<br>Indian convicts contributed much to the early infrastructural development of Singapore but their voices have rarely been heard. Vandana Aggarwal uncovers the story of one convict who made good.
+<br>Indian convicts contributed much to the early infrastructural development of Singapore, but their voices have rarely been heard. Vandana Aggarwal uncovers the story of one convict who made good.
 
 <a style="text-decoration: none;" href="/vol-11/issue-3/oct-dec-2015/convict">Convict Labour in Colonial Singapore</a>
 <br>Singapore was once a penal colony for convicts shipped in from overseas. Bonny Tan documents how their humble service raised some of its famous buildings.
@@ -24,7 +24,7 @@ This documentary is based on [Vandana’s article](/vol-16/issue-4/jan-mar-2021/
 <br>The convict jail at Bras Basah was established in response to the increasing number of convicts who were transported to Singapore from other places such as India and Hong Kong when Singapore was a penal colony in the early 19th century.
 
 <a style="text-decoration: none;" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_39_2005-02-02.html">Indian Convicts’ Contributions to Early Singapore (1825–1873)</a>
-<br>From 1825, Singapore began receiving Indian convicts from British India to serve out their sentences as well as assist with the labour shortage and development requirements in the colony. The transportation of convict labour to Singapore ceased in 1873. The convicts were either sent to other colonies, given freedom to settle in Singapore or repatriated.
+<br>From 1825, Singapore began receiving Indian convicts from British India to serve out their sentences as well as assist with the labour shortage and development requirements in the colony. The transportation of convict labour to Singapore ceased in 1873. The convicts were either sent to other colonies, given freedom to settle in Singapore, or repatriated.
 
 #### Related Books
 Clare Anderson, *[Subaltern Lives: Biographies of Colonialism in the Indian Ocean World, 1790–1920](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201166721)* (Cambridge: Cambridge University Press, 2012). 
