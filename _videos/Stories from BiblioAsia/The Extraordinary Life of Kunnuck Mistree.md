@@ -7,7 +7,7 @@ third_nav_title: Stories from BiblioAsia
 ---
 #### How did a 19th-century convict become a wealthy philanthropist? Find out on 12 May 2022.
 
-![Unearthing the identify of an Indian pioneer from Singapore’s past](/images/Videos:%20BA%20Stories/extraordinary%20life%20of%20kunnuck%20mistree.png)
+![](/images/Videos:%20BA%20Stories/kunnuckmistree.jpg)
 
 Kunnuck Mistree arrived in Singapore in 1825 as a convict. Over time, he gained his freedom, raised a family, became a “native doctor”, received a pardon and eventually died a wealthy man. As a result of painstaking research by educator and writer Vandana Aggarwal, we now have an insight into the life of one of the earliest people from India who came to Singapore. 
 
