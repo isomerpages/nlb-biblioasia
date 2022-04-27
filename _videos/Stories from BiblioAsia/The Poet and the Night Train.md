@@ -7,7 +7,7 @@ description: "The name Francis P. Ng is not familiar to many Singaporeans. Who
 image: "/images/Videos: BA Stories/poet night train.jpg"
 third_nav_title: Stories from BiblioAsia
 ---
-#### Singapore’s own T. S. Eliot was lost to memory for 85 years. This is the story of his rediscovery. Premiers on 19 May 2022. 
+#### Singapore’s own T. S. Eliot was lost to memory for 85 years. This is the story of his rediscovery. Premieres on 19 May 2022. 
 
  ![The poet and the night train](/images/Videos:%20BA%20Stories/poet%20night%20train.jpg)
 
