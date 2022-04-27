@@ -6,7 +6,7 @@ description: A cat-and-mouse hunt between two women that will determine the fate
 third_nav_title: Stories from BiblioAsia
 image: "/images/Videos: BA Stories/heartsandminds.jpg"
 ---
-#### A police inspector. A suspected communist. Who will prevail? Find out on 2 June 2022.
+#### A police inspector. A suspected communist. A battle of wits. Who will prevail? Find out on 2 June 2022. 
 
 ![Hearts and Minds Shu Ann](/images/Videos:%20BA%20Stories/heartsandminds.jpg)
 
