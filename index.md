@@ -13,7 +13,7 @@ sections:
       button: Printed on rubber latex paper
       url: /vol-18/issue-1/apr-to-jun-2022/rubber-latex-paper
   - infopic:
-      title: A Singapore-Made Qur'an
+      title: A Qu'ran Made in Singapore
       subtitle: editor's picks
       button: Read more
       url: /vol-11/issue-4/jan-mar-2016/singapore-lithographed-quran
