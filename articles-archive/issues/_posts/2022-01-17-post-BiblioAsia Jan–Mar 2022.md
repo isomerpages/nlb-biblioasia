@@ -7,7 +7,7 @@ description: ""
 ---
 Since time immemorial, maps have been used as tools to explore the world and conquer new territories. This issue’s cover story showcases a number of Asian maps from the National Library’s latest exhibition.
 
-<img src="/images/vol-17-issue-4/cover-vol17-issue4.jpg">
+<img src="/images/vol-17-issue-4/cover-vol17-issue4-rev.jpg">
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/director-note">Director's Note</a>
 
