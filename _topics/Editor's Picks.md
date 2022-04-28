@@ -3,13 +3,19 @@ title: Editor's Picks
 permalink: /editors-picks
 description: ""
 ---
-
-
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-3/oct-dec-2016/building-faith" >A Singapore Made Qur'an</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-4/jan-mar-2016/singapore-lithographed-quran" >A Singapore Made Qur'an</a>
 This edition of the Qur’an in the National Library is one of the earliest extant copies to have been printed at Kampong Gelam in Singapore. The date of its publication, “13th Rajab in the (Islamic) year 1286” corresponds to 19 October 1869.
 
 <img style="width:100%;" src="/images/vol-11-issue-4/a-singapore-made-quran/quran-homepage.jpg"> 
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-2/jul-sep-2018/malay-seafarer-in-lp/" >Malay Seafarers in Liverpool
+</a>
+Tim Bunnell speaks to former Malay sailors who reside in the English city and learns how they manage to sustain their identity in a city so removed from home.
+
+<img style="width:100%;" src="/images/vol-11-issue-4/a-singapore-made-quran/quran-homepage.jpg"> 
+<hr>
+
 
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-3/oct-dec-2016/building-faith" >Building Faith: Wartime Churches in Syonan-to</a>
