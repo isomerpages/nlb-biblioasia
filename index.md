@@ -14,7 +14,7 @@ sections:
       url: /vol-18/issue-1/apr-to-jun-2022/rubber-latex-paper
   - infopic:
       title: A Singapore Made Qur'an
-      subtitle: Culture
+      subtitle: editor's picks
       button: Read more
       url: /vol-11/issue-4/jan-mar-2016/singapore-lithographed-quran
       image: /images/vol-11-issue-4/a-singapore-made-quran/quran-homepage.jpg
