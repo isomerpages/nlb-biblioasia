@@ -6,13 +6,13 @@ description: Rose Chan was one of Singapore’s most famous cabaret dancers. Wha
 image: "/images/Videos: BA Stories/into the night.jpg"
 third_nav_title: Stories from BiblioAsia
 ---
-#### Rose Chan was one of Singapore’s most famous cabaret dancers. What happened to her? Premiers on 26 May 2022.
+#### Cabaret dancers like Rose Chan were famous. But what were their lives really like? Premieres on 26 May 2022.
 
 ![Rose Chan](/images/Videos:%20BA%20Stories/into%20the%20night.jpg)
 
 Rose Chan was the best known of the women who worked in the cabarets in Singapore in the 1940s and 50s. In this documentary, her ex-boyfriend reveals what she was like as a person, while the daughter of a former cabaret girl talks about growing up in that milieu. 
 
-This documentary is based on the essay “[Beneath the Glitz and Glamour: The Untold Story of the ‘Lancing Girls](/vol-12/issue-4/jan-mar-2017/beneath-glitz-glamour)’”. It was written by award-winning author Adeline Foo and published in the Jan–Mar 2017 issue of BiblioAsia. 
+This documentary is based on the essay “[Beneath the Glitz and Glamour: The Untold Story of the ‘Lancing Girls](/vol-12/issue-4/jan-mar-2017/beneath-glitz-glamour)’”. It was written by award-winning author Adeline Foo and published in the Jan–Mar 2017 issue of *BiblioAsia*. 
 
 #### Related Articles
 <a style="text-decoration: none;" href="/vol-12/issue-4/jan-mar-2017/beneath-glitz-glamour">Beneath the Glitz and Glamour: The Untold Story of the "Lancing Girls"</a>
@@ -35,10 +35,10 @@ This documentary is based on the essay “[Beneath the Glitz and Glamour: The Un
 
 
 #### Related Books
-Adeline Foo, *[Lancing Girls of a Happy World](https://eservice.nlb.gov.sg/itemholdings.aspx?bid=202976503)* (Singapore: Ethos Books, 2017). 
+Adeline Foo, *[Lancing Girls of a Happy World](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202976503)* (Singapore: Ethos Books, 2017). 
 
-Kua Kia Soong, *[The Chinese Schools of Malaysia: A Protean Saga](https://eservice.nlb.gov.sg/itemholdings.aspx?bid=13224576)* (Selangor Darul Ehsan, Malaysia: Malaysian Centre for Ethnic Centre, New Era College, 2008). 
+Kua Kia Soong, *[The Chinese Schools of Malaysia: A Protean Saga](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13224576)* (Selangor Darul Ehsan, Malaysia: Malaysian Centre for Ethnic Centre, New Era College, 2008). 
 
-Cecil Rajendra, *[No Bed of Roses: The Rose Chan Story](https://eservice.nlb.gov.sg/itemholdings.aspx?bid=14715876)* (Singapore: Marshall Cavendish, 2013).
+Cecil Rajendra, *[No Bed of Roses: The Rose Chan Story](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14715876)* (Singapore: Marshall Cavendish, 2013).
 
-James F. Warren, *[Ah Ku and Karayuki-san: Prostitution in Singapore, 1870–1940](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827062)* (Singapore: NUS Press, 2003).
+James F. Warren, *[Ah Ku and Karayuki-san: Prostitution in Singapore, 1870–1940](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11827062)* (Singapore: NUS Press, 2003).

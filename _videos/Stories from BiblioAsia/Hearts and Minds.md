@@ -6,13 +6,13 @@ description: A cat-and-mouse hunt between two women that will determine the fate
 third_nav_title: Stories from BiblioAsia
 image: "/images/Videos: BA Stories/heartsandminds.jpg"
 ---
-#### A cat-and-mouse hunt between two women determines the fate of communism in Malaya. Who will prevail? Find out on 2 June 2022.
+#### A police inspector. A suspected communist. Who will prevail in the battle of wits? Find out on 2 June 2022.
 
 ![Hearts and Minds Shu Ann](/images/Videos:%20BA%20Stories/heartsandminds.jpg)
 
-This docudrama involves a tense showdown between Inspector Irene Lee (played by award-winning actress Jo Tan) of the Malayan Special Branch, and Lee Meng (played by Oon Shu An), the suspected head courier of the Malayan Communist Party. Does the steely Inspector Lee unearth the truth from the wily Lee Meng? The bravura performances by two talented actors will keep you riveted in your seats. 
+This docudrama involves a tense showdown between Inspector Irene Lee (played by award-winning actress Jo Tan) of the Malayan Special Branch, and Lee Meng (played by Oon Shu An, above), the suspected head courier of the Malayan Communist Party. Does the steely Inspector Lee unearth the truth from the wily Lee Meng? The bravura performances by two talented actors will keep you riveted in your seats. 
 
-This docudrama is inspired by actual events detailed in senior librarian Ronnie Tan’s essay, “[Hunting Down the Malayan Mata Hari](/vol-14/issue-1/apr-jun-2018/malayan-mata-hari/)”, which was published in the April–June 2018 issue of BiblioAsia.
+This docudrama is inspired by actual events detailed in senior librarian Ronnie Tan’s essay, “[Hunting Down the Malayan Mata Hari](/vol-14/issue-1/apr-jun-2018/malayan-mata-hari/)”, which was published in the April–June 2018 issue of *BiblioAsia*.
 
 #### Related Articles
 
@@ -31,10 +31,10 @@ This docudrama is inspired by actual events detailed in senior librarian Ronnie 
 #### Related Books
 Noel Barber, *[The War of the Running Dogs: How Malaya Defeated the Communist Guerrillas, 1948–60](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=839401)* (London: Collins, 1971). 
 
-Chin Peng, *[My Side of History](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12106841)* (Singapore: Media Masters, 2003). 
+Chin Peng, *[My Side of History](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12106841)* (Singapore: Media Masters, 2003). 
 
-Peter Clague, *[Iron Spearhead: The True Story of a Communist Killer Squad in Singapore](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13055676)* (Singapore: Heinemann Educational Books [Asia] Ltd, 1980). 
+Peter Clague, *[Iron Spearhead: The True Story of a Communist Killer Squad in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082295)* (Singapore: Heinemann Educational Books [Asia] Ltd, 1980). 
 
-Leon Comber, *[Malaya’s Secret Police 1945–60: The Role of the Special Branch in the Malayan Emergency](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13055676)* (Singapore: Institute of Southeast Asian Studies; Australia: Monash Asia Institute, 2008). 
+Leon Comber, *[Malaya’s Secret Police 1945–60: The Role of the Special Branch in the Malayan Emergency](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13055676)* (Singapore: Institute of Southeast Asian Studies; Australia: Monash Asia Institute, 2008). 
 
-Anthony Short, *[In Pursuit of Mountain Rats: The Communist Insurrection in Malaya](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10102439)* (Singapore: Cultured Lotus, 2000).
+Anthony Short, *[In Pursuit of Mountain Rats: The Communist Insurrection in Malaya](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10102439)* (Singapore: Cultured Lotus, 2000).
