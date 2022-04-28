@@ -38,7 +38,7 @@ sections:
       description: Immature shrimp? Gourmet powder? Cookbook author Christopher Tan
         overcomes vague instructions and unusual ingredients to produce
         delicious handmade noodles.
-      button: Button Text
+      button: watch the video
       url: /videos/eat-more-wheat-campaign
       image: "/images/Videos: From Book to Cook/Christoper Tan with Paddy.png"
       alt: Image alt text
