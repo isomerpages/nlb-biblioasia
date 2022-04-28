@@ -10,22 +10,18 @@ notification: ""
 sections:
   - hero:
       background: /images/Vol 18 Issue 1/Herobanner.png
-      key_highlights:
-        - title: ""
-          description: Check out the new editor's picks
-          url: /editors-picks
-      button: Read the current issue
-      url: /vol-18/issue-1/apr-jun-2022/
+      button: Printed on rubber latex paper
+      url: /vol-18/issue-1/apr-to-jun-2022/rubber-latex-paper
   - infopic:
-      title: Printed on Rubber Latex Paper
+      title: A Singapore Made Qur'an
       subtitle: Culture
       button: Read more
-      url: /vol-18/issue-1/apr-to-jun-2022/rubber-latex-paper
-      image: /images/Vol 18 Issue 1/Highlight1_edit.png
-      description: An innovation patented in 1920 produced paper that was more
-        durable, had greater tensile strength and was resistant to folding. Alex
-        Teoh has the details.
-      alt: the Asia
+      url: /vol-11/issue-4/jan-mar-2016/singapore-lithographed-quran
+      image: /images/vol-11-issue-4/a-singapore-made-quran/quran-homepage.jpg
+      description: This edition of the Qur’an in the National Library is one of the
+        earliest extant copies to have been printed at Kampong Gelam in
+        Singapore.
+      alt: Qur'an
   - infopic:
       title: "Flower Power: Singapore’s Orchid Diplomacy"
       subtitle: nature
@@ -72,15 +68,4 @@ sections:
       url: /vol-18/issue-1/apr-to-jun-2022/orang-seletar-changing-tides
       image: /images/Vol 18 Issue 1/Orang Seletar/orang_seletar_cover.png
       alt: Image alt text
-  - infopic:
-      title: The Curry Chronicles
-      subtitle: From Book to Cook
-      description: What would a 100-year-old rendang recipe taste like? Join chef
-        Devagi Sanmugam in the first episode of our new cooking series to find
-        out.
-      button: Watch the video
-      url: /videos/curry-chronicles
-      image: "/images/Videos: From Book to Cook/devagi makes mrs kinseys rendang
-        2.png"
-      alt: Curry rendang devagi sanmugam
 ---
