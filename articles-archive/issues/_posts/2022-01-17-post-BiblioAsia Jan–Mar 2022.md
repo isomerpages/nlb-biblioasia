@@ -11,10 +11,10 @@ Since time immemorial, maps have been used as tools to explore the world and con
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/director-note">Director's Note</a>
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/asia-maps-cartography">Cartography and the Rise of Colonial Empires in Asia</a><br>A new exhibition on Asian maps opens at the National Library Building. *Chia Jie Lin* shares highlights from the exhibition. [(PDF)](/files/pdf/vol-17/issue-4/v17-issue4_Cartography.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/asia-maps-cartography">Cartography and the Rise of Colonial Empires in Asia</a><br>A new exhibition on Asian maps opens at the National Library Building. *Chia Jie Lin* shares highlights from the exhibition. [(PDF)](/files/pdf/vol-17/issue_4/v17-issue4_Cartography.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/empress-asia">The Final Hours of the Empress of Asia
-</a><br>*Dan Black* recounts the final hours of this troopshipas she sank near Sultan Shoal Lighthouse off Tuas in February 1942. [(PDF)](/files/pdf/vol-17/issue-4/v17-issue4_EmpressofAsia.pdf) 
+</a><br>*Dan Black* recounts the final hours of this troopshipas she sank near Sultan Shoal Lighthouse off Tuas in February 1942. [(PDF)](/files/pdf/vol-17/issue_4/v17-issue4_EmpressofAsia.pdf) 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/jurong-drive-in-cinema">Movies Beneath a Starry, Starry Night
 </a><br>In the 1970s, Jurong Drive-in Cinema drew in the crowds, at least while the novelty lasted. *Sharon Teng* reminisces its glory days. [(PDF)](/files/pdf/vol-17/issue-4/v17-issue4_JurongDriveIn.pdf) 
