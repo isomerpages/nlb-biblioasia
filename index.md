@@ -33,13 +33,14 @@ sections:
       image: /images/Vol 18 Issue 1/Highlight2.png
       alt: cartography
   - infopic:
-      title: Tapioca Tales
-      subtitle: from Book to Cook
-      description: "Can wartime food be delicious? Find out as cookbook author Lee
-        Geok Boi whips up two dishes using only wartime ingredients. "
-      button: Watch the video
-      url: /videos/tapioca-tales
-      image: "/images/Videos: From Book to Cook/geok boi making tapioca noodles.png"
+      title: Eat More Wheat!
+      subtitle: From Book to Cook
+      description: Immature shrimp? Gourmet powder? Cookbook author Christopher Tan
+        overcomes vague instructions and unusual ingredients to produce
+        delicious handmade noodles.
+      button: Button Text
+      url: /videos/eat-more-wheat-campaign
+      image: "/images/Videos: From Book to Cook/Christoper Tan with Paddy.png"
       alt: Image alt text
   - infopic:
       title: The Story of Singapore’s Changing Wet Markets
@@ -58,6 +59,15 @@ sections:
       button: Read more
       url: /vol-18/issue-1/apr-to-jun-2022/history-kandang-kerbau-hospital
       image: /images/Vol 18 Issue 1/KKH Hospital/19980001245 IMG0083.png
+      alt: Image alt text
+  - infopic:
+      title: Nasi Lemak Istimewa
+      subtitle: from Book to Cook
+      description: Is it heresy to make nasi lemak with bay leaves instead of pandan?
+        Join librarian Toffa Abdul Wahed to find out.
+      button: Watch the video
+      url: /videos/nasi-lemak
+      image: "/images/Videos: From Book to Cook/Nasi lemak traditional tools.png"
       alt: Image alt text
   - infopic:
       title: "The Orang Seletar: Rowing Across Changing Tides"
