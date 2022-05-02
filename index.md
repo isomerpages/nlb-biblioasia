@@ -16,7 +16,7 @@ sections:
       title: Recipes for the Ideal Singaporean Female
       subtitle: editor's pick
       description: From cooking, cleaning and becoming a good mother to outsourcing
-        housework as careers for women took off. How have home economics lessons
+        housework as women's careers took off. How have home economics lessons
         evolved?
       button: read more
       url: /vol-13/issue-4/jan-mar-2018/ideal-sgporean-female
