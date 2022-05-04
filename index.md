@@ -14,7 +14,7 @@ sections:
       url: /vol-18/issue-1/apr-to-jun-2022/rubber-latex-paper
   - infopic:
       title: Recipes for the Ideal Singaporean Female
-      subtitle: editor's pick
+      subtitle: mother's day
       description: From cooking, cleaning and becoming a good mother to outsourcing
         housework as women's careers took off. How have home economics lessons
         evolved?
@@ -24,7 +24,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: A Qur’an Made in Singapore
-      subtitle: editor's pick
+      subtitle: hari raya
       button: Read more
       url: /vol-11/issue-4/jan-mar-2016/singapore-lithographed-quran
       image: /images/vol-11-issue-4/a-singapore-made-quran/quran-homepage.jpg
