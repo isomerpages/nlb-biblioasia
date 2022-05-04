@@ -5,7 +5,7 @@ description: ""
 third_nav_title: From Book to Cook
 image: /images/Videos:%20From%20Book%20to%20Cook/spaghetti%20ketchup%20measuring%20technique.png
 ---
-#### In the 1987 home economics syllabus, 14-year-old girls were taught how to breastfeed and bathe a baby. How has the syllabus changed over the years? Join food writer Sheere Ng on 5 May to find out, as she makes a simple pasta dish taught in her home economics class.
+#### In the 1987 home economics syllabus, 14-year-old girls were taught how to breastfeed and bathe a baby. How has the syllabus changed over the years? Join food writer Sheere Ng to find out, as she makes a simple pasta dish taught in her home economics class.
 
 <style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src="https://www.youtube.com/embed/w_d1IQKeguM" frameborder='0' allowfullscreen></iframe></div>
 
