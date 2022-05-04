@@ -13,8 +13,18 @@ sections:
       button: Printed on rubber latex paper
       url: /vol-18/issue-1/apr-to-jun-2022/rubber-latex-paper
   - infopic:
+      title: Recipes for the Ideal Singaporean Female
+      subtitle: mother's day
+      description: From cooking, cleaning and becoming a good mother to outsourcing
+        housework as women's careers took off. How have home economics lessons
+        evolved?
+      button: read more
+      url: /vol-13/issue-4/jan-mar-2018/ideal-sgporean-female
+      image: /images/Vol-13-issue-4/ideal-singaporean-female/01_idealsgfemale.png
+      alt: Image alt text
+  - infopic:
       title: A Qur’an Made in Singapore
-      subtitle: editor's picks
+      subtitle: hari raya
       button: Read more
       url: /vol-11/issue-4/jan-mar-2016/singapore-lithographed-quran
       image: /images/vol-11-issue-4/a-singapore-made-quran/quran-homepage.jpg
