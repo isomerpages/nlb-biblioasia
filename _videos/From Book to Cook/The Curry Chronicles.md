@@ -50,3 +50,4 @@ Elizabeth M. Collingham, *[Curry: A Tale of Cooks and Conquerors](https://eservi
 
 Krishnendu Ray and Tulasi Srinivas, *[Curried Cultures: Globalization, Food, and South Asia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200125930)*
 (Berkeley: University of California Press, 2012).
+

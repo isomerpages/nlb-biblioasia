@@ -33,15 +33,35 @@ sections:
         Singapore.
       alt: Qur'an
   - infopic:
-      title: "Flower Power: Singapore’s Orchid Diplomacy"
-      subtitle: nature
-      description: Singapore’s diplomatic efforts may take several forms, including
-        naming orchid hybrids after foreign dignitaries. Rebecca Tan tells us
-        more.
+      title: Definitely Not Spaghetti Bolognese
+      subtitle: from Book to Cook
+      description: In the 1987 home economics syllabus, 14-year-old girls were taught
+        how to breastfeed and bathe a baby. How has the syllabus changed over
+        the years?
+      button: watch the video
+      url: /videos/not-spaghetti-bolognese
+      image: "/images/Videos: From Book to Cook/spaghetti ketchup measuring
+        technique.png"
+      alt: Image alt text
+  - infopic:
+      title: Cinema Pioneer Tan Cheng Kee
+      subtitle: People
+      description: The Alhambra and Marlborough theatres were famous landmarks in
+        pre-war Singapore. Barbara Quek looks at these cinemas, and the man
+        behind the curtain.
       button: Read more
-      url: /vol-18/issue-1/apr-to-jun-2022/singapore-orchid-diplomacy
-      image: /images/Vol 18 Issue 1/Highlight2.png
-      alt: cartography
+      url: /vol-18/issue-1/apr-to-jun-2022/cinema-pioneer-tan-cheng-kee
+      image: /images/Vol 18 Issue 1/Tan Cheng Kee/cover.png
+      alt: Image alt text
+  - infopic:
+      title: "Labouring to Deliver: A History of Kandang Kerbau Hospital"
+      subtitle: Places
+      description: The old Kandang Kerbau Hospital was once known as the busiest
+        maternity hospital in the world.
+      button: Read more
+      url: /vol-18/issue-1/apr-to-jun-2022/history-kandang-kerbau-hospital
+      image: /images/Vol 18 Issue 1/KKH Hospital/19980001245 IMG0083.png
+      alt: Image alt text
   - infopic:
       title: Eat More Wheat!
       subtitle: From Book to Cook
@@ -62,30 +82,13 @@ sections:
         how these markets have changed over time.
       alt: substation
   - infopic:
-      title: "Labouring to Deliver: A History of Kandang Kerbau Hospital"
-      subtitle: Places
-      description: The old Kandang Kerbau Hospital was once known as the busiest
-        maternity hospital in the world.
+      title: "Flower Power: Singapore’s Orchid Diplomacy"
+      subtitle: nature
+      description: Singapore’s diplomatic efforts may take several forms, including
+        naming orchid hybrids after foreign dignitaries. Rebecca Tan tells us
+        more.
       button: Read more
-      url: /vol-18/issue-1/apr-to-jun-2022/history-kandang-kerbau-hospital
-      image: /images/Vol 18 Issue 1/KKH Hospital/19980001245 IMG0083.png
-      alt: Image alt text
-  - infopic:
-      title: Nasi Lemak Istimewa
-      subtitle: from Book to Cook
-      description: Is it heresy to make nasi lemak with bay leaves instead of pandan?
-        Join librarian Toffa Abdul Wahed to find out.
-      button: Watch the video
-      url: /videos/nasi-lemak
-      image: "/images/Videos: From Book to Cook/Nasi lemak traditional tools.png"
-      alt: Image alt text
-  - infopic:
-      title: "The Orang Seletar: Rowing Across Changing Tides"
-      subtitle: People
-      description: Singapore was once a home to the seafaring Orang Seletar who now
-        reside in Johor Bahru.
-      button: Read more
-      url: /vol-18/issue-1/apr-to-jun-2022/orang-seletar-changing-tides
-      image: /images/Vol 18 Issue 1/Orang Seletar/orang_seletar_cover.png
-      alt: Image alt text
+      url: /vol-18/issue-1/apr-to-jun-2022/singapore-orchid-diplomacy
+      image: /images/Vol 18 Issue 1/Highlight2.png
+      alt: cartography
 ---
