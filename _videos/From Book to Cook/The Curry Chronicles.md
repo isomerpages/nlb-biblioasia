@@ -51,5 +51,3 @@ Elizabeth M. Collingham, *[Curry: A Tale of Cooks and Conquerors](https://eservi
 Krishnendu Ray and Tulasi Srinivas, *[Curried Cultures: Globalization, Food, and South Asia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200125930)*
 (Berkeley: University of California Press, 2012).
 
-#### **Blog Post**
-Paddy Ong, "[A Very Hungry Librarian Spills the Beans on Hosting “From Book to Cook](https://medium.com/the-national-library-blog/a-very-hungry-librarian-spills-the-beans-on-hosting-from-book-to-cook-44cfdba091ef),” National Library Singapore (blog), Medium, 5 May 2022.
