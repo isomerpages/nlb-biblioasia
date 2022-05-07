@@ -58,7 +58,7 @@ sections:
       subtitle: Places
       description: The old Kandang Kerbau Hospital was once known as the busiest
         maternity hospital in the world.
-      button: Read more
+      button: A hallowed maternity hospital
       url: /vol-18/issue-1/apr-to-jun-2022/history-kandang-kerbau-hospital
       image: /images/Vol 18 Issue 1/KKH Hospital/19980001245 IMG0083.png
       alt: Image alt text
