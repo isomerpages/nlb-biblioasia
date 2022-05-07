@@ -49,7 +49,7 @@ sections:
       description: The Alhambra and Marlborough theatres were famous landmarks in
         pre-war Singapore. Barbara Quek looks at these cinemas, and the man
         behind the curtain.
-      button: Read more
+      button: Tan and his theatre empire
       url: /vol-18/issue-1/apr-to-jun-2022/cinema-pioneer-tan-cheng-kee
       image: /images/Vol 18 Issue 1/Tan Cheng Kee/cover.png
       alt: Image alt text
