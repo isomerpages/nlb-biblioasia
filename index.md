@@ -18,7 +18,7 @@ sections:
       description: From cooking, cleaning and becoming a good mother to outsourcing
         housework as women's careers took off. How have home economics lessons
         evolved?
-      button: read more
+      button: home economics then and now
       url: /vol-13/issue-4/jan-mar-2018/ideal-sgporean-female
       image: /images/Vol-13-issue-4/ideal-singaporean-female/01_idealsgfemale.png
       alt: Image alt text
