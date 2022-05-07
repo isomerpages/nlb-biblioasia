@@ -64,7 +64,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: Eat More Wheat!
-      subtitle: From Book to Cook
+      subtitle: "video: From Book to Cook"
       description: Immature shrimp? Gourmet powder? Cookbook author Christopher Tan
         overcomes vague instructions and unusual ingredients to produce
         delicious handmade noodles.
