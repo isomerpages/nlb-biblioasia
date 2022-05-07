@@ -25,7 +25,7 @@ sections:
   - infopic:
       title: A Qur’an Made in Singapore
       subtitle: hari raya
-      button: Read more
+      button: "More on the 1869 Qur’an "
       url: /vol-11/issue-4/jan-mar-2016/singapore-lithographed-quran
       image: /images/vol-11-issue-4/a-singapore-made-quran/quran-homepage.jpg
       description: This edition of the Qur’an in the National Library is one of the
