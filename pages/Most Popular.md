@@ -10,6 +10,13 @@ Photography in Singapore has a long history dating back to 1843. One name domina
 
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-2/jul-sep-2015/mohamed-eunos">Mohamed Eunos Abdullah: The Father of Malay Journalism</a>
+Have you ever wondered about the origin of the name Eunos while travelling in the Mass Rapid Transit (MRT) train between Kembangan and Paya Lebar stations along the East West line? The name comes from the pioneer, Mohamed Eunos Abdullah. Mazelan Anuar traces his legacy.
+
+<img style="width:80%;" src="/images/vol-11-issue-2/malayjournalism/Mohamed_Eunos_Abdullah.jpg">
+
+<hr>
+
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/plague"> The Plague Fighter: Dr Wu Lien-Teh and His Work</a>
 The Penang-born doctor helped eradicate the deadly Manchurian pneumonic plague of 1910 and pushed for the use of face masks to prevent its spread. Kevin Y.L. Tan documents his life and work.
