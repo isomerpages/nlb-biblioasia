@@ -17,6 +17,12 @@ Have you ever wondered about the origin of the name Eunos while travelling in th
 
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-4/jan-mar-2016/singapore-chinese-revolution-nanyang-republic">Singapore’s Role in the Chinese Revolution</a>
+Titled *Nanyang and the Founding of the Republic* (南洋与创立民国), the publication – with 57 sections and close to 50,000 Chinese characters – contains first-hand accounts and primary materials on the involvement of the overseas Chinese in the 1911 Chinese Revolution, as well as Singapore’s role in Sun’s campaign to end more than 2,000 years of imperial rule in China.
+
+<img style="width:100%;" src="/images/vol-11-issue-4/sg-role-in-chinese-revolution/R1.JPG">
+
+<hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/plague"> The Plague Fighter: Dr Wu Lien-Teh and His Work</a>
 The Penang-born doctor helped eradicate the deadly Manchurian pneumonic plague of 1910 and pushed for the use of face masks to prevent its spread. Kevin Y.L. Tan documents his life and work.
