@@ -3,6 +3,13 @@ title: Most Popular
 permalink: /most-popular
 description: Most Popular articles
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/images/vol-11-issue-4/singapore-in-sepia/S1.JPG"> Singapore in Sepia</a>
+The Penang-born doctor helped eradicate the deadly Manchurian pneumonic plague of 1910 and pushed for the use of face masks to prevent its spread. Kevin Y.L. Tan documents his life and work.
+
+<img style="width:100%;" src="/images/Vol-16-issue-2/plague/DrWuLienTeh.jpg"> 
+<hr>
+
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/plague"> The Plague Fighter: Dr Wu Lien-Teh and His Work</a>
 The Penang-born doctor helped eradicate the deadly Manchurian pneumonic plague of 1910 and pushed for the use of face masks to prevent its spread. Kevin Y.L. Tan documents his life and work.
 
