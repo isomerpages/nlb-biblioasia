@@ -50,7 +50,7 @@ Four journalists from Singapore covered the Vietnam War for the international ne
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-4/jan-mar-2016/chop-suey-liu-kang">Cartoons of Terror</a>
 The horrors of the Japanese Occupation (1942–45) in Singapore can be read in any number of history books. But few are likely to be as visceral as a series of cartoon books published after World War II in 1946. Titled Chop Suey, the four volumes of illustrations by the artist Liu Kang offer a rare insight into how people in Singapore were persecuted and tortured by the Japanese during the Occupation years.
 
-<img src="/images/vol-11-issue-4/cartoons-of-terror/T3.JPG">
+<img src="/images/vol-11-issue-4/cartoons-of-terror/T3.JPG" style="width:70%">
 <hr>
 
 
