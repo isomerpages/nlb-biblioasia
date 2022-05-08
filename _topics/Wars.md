@@ -15,7 +15,6 @@ The story of the Imperial Japanese Army farming bubonic plague-bearing fleas as 
 <img src="/images/Vol-14-issue-1/secret-war-experiments-in-sg/Secret1.JPG">
 <hr>
 
-
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-4/jan-mar-2017/surviving-jpnese-occu">Surviving the Japanese Occupation: War and Its Legacies</a>
 A revamped exhibition space opens at the old Ford Factory in Bukit Timah, marking the 75th anniversary of the fall of Singapore. Fiona Tan details its major highlights.
  <hr>
@@ -56,7 +55,6 @@ The horrors of the Japanese Occupation (1942–45) in Singapore can be read in a
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-1/apr-jun-2019/unresolved-past">The Unresolved Past: Reflections on War and Memory</a>
 Why recall traumatic memories of war when it is painful for both perpetrators and victims? Kwok Kian Woon considers the stakes in remembering and understanding war experiences in times of relative peace.
-
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-4/jan-mar-2016/photographs-singapore-war-crimes-trial">A War Crimes Trial Snapshot</a>
