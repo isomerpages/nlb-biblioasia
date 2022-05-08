@@ -4,7 +4,7 @@ permalink: /most-popular
 description: Most Popular articles
 ---
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-4/jan-mar-2016/fotoalbum-singapur-gustave-richard-lambert"> Singapore in Sepia</a>
-Photography in Singapore has a long history dating back to 1843. One name dominated the Singapore photography scene: G. R. Lambert & Co. How Gustave Richard Lambert came to Singapore and whether he was related to the Lambert Brothers who made carriages, furniture and tombstones is unknown.
+Photography in Singapore has a long history dating back to 1843. One name dominated the Singapore photography scene: G. R. Lambert & Co. How Gustave Richard Lambert came to Singapore and whether he was related to the Lambert Brothers who made carriages, furniture and tombstones are unknown.
 
 <img style="width:100%;" src="/images/vol-11-issue-4/singapore-in-sepia/S1.JPG">
 <hr>
