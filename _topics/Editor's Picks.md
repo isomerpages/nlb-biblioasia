@@ -3,7 +3,6 @@ title: Editor's Picks
 permalink: /editors-picks
 description: ""
 ---
-Hari Raya
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-4/jan-mar-2016/singapore-lithographed-quran" >A Qu'ran Made in Singapore</a>
 This edition of the Qur’an in the National Library is one of the earliest extant copies to have been printed at Kampong Gelam in Singapore. The date of its publication “13th Rajab in the (Islamic) year 1286” corresponds to 19 October 1869.
 
