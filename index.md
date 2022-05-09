@@ -58,10 +58,10 @@ sections:
       subtitle: Places
       description: The old Kandang Kerbau Hospital was once known as the busiest
         maternity hospital in the world.
-      button: read more
+      button: More on the KK hospital
       url: /vol-18/issue-1/apr-to-jun-2022/history-kandang-kerbau-hospital
       image: /images/Vol 18 Issue 1/KKH Hospital/19980001245 IMG0083.png
-      alt: Image alt text
+      alt: Kandang Kerbau Hospital
   - infopic:
       title: Eat More Wheat!
       subtitle: "video: From Book to Cook"
@@ -71,7 +71,7 @@ sections:
       button: watch the video
       url: /videos/eat-more-wheat-campaign
       image: "/images/Videos: From Book to Cook/Christoper Tan with Paddy.png"
-      alt: Image alt text
+      alt: eat more wheat
   - infopic:
       title: The Story of Singapore’s Changing Wet Markets
       subtitle: places
