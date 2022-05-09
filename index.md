@@ -9,9 +9,9 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Vol 18 Issue 1/Herobanner.png
-      button: Printed on rubber latex paper
-      url: /vol-18/issue-1/apr-to-jun-2022/rubber-latex-paper
+      background: /images/Vol 18 Issue 1/Orang Seletar/orang seletar hero.jpg
+      button: "The Orang Seletar: Rowing Across Changing Tides"
+      url: /vol-18/issue-1/apr-to-jun-2022/orang-seletar-changing-tides
   - infopic:
       title: Recipes for the Ideal Singaporean Female
       subtitle: mother's day
