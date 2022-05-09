@@ -85,8 +85,7 @@ sections:
       title: "Flower Power: Singapore’s Orchid Diplomacy"
       subtitle: nature
       description: Singapore’s diplomatic efforts may take several forms, including
-        naming orchid hybrids after foreign dignitaries. Rebecca Tan tells us
-        more.
+        naming orchid hybrids after foreign dignitaries.
       button: Orchids for vips and more
       url: /vol-18/issue-1/apr-to-jun-2022/singapore-orchid-diplomacy
       image: /images/Vol 18 Issue 1/Highlight2.png
