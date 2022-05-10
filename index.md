@@ -10,9 +10,8 @@ notification: ""
 sections:
   - hero:
       background: /images/Vol 18 Issue 1/Orang Seletar/orang seletar hero.jpg
-      button: The History of a nomadic sea people
+      button: "The Orang Seletar: History of a nomadic sea people"
       url: /vol-18/issue-1/apr-to-jun-2022/orang-seletar-changing-tides
-      title: The Orang Seletar
       subtitle: " "
   - infopic:
       title: Recipes for the Ideal Singaporean Female
