@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Vol 18 Issue 1/The Padang/padang hero.jpg
+      background: /images/Vol 18 Issue 1/The Padang/the padang hero.jpg
       button: A History of The Padang
       url: /vol-18/issue-1/apr-to-jun-2022/history-padang
   - infopic:
