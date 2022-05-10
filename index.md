@@ -9,10 +9,9 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Vol 18 Issue 1/Orang Seletar/orang seletar hero.jpg
-      button: " The Orang Seletar"
-      url: /vol-18/issue-1/apr-to-jun-2022/orang-seletar-changing-tides
-      subtitle: " History of a Nomadic Sea People"
+      background: /images/Vol 18 Issue 1/The Padang/padang hero.jpg
+      button: A History of The Padang
+      url: /vol-18/issue-1/apr-to-jun-2022/history-padang
   - infopic:
       title: Recipes for the Ideal Singaporean Female
       subtitle: mother's day
