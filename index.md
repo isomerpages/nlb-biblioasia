@@ -99,4 +99,12 @@ sections:
       url: /vol-18/issue-1/apr-to-jun-2022/singapore-orchid-diplomacy
       image: /images/Vol 18 Issue 1/Highlight2.png
       alt: Orchid Diplomacy
+  - infopic:
+      title: The Extraordinary Life of Kunnuck Mistree
+      subtitle: "video: Stories from BiblioAsia"
+      description: "How did a 19th-century convict become a wealthy philanthropist? "
+      button: " Life of Kunnuck Mistree"
+      url: /videos/kunnuck-mistree
+      image: "/images/Videos: BA Stories/kunnuckmistree.jpg"
+      alt: " Kunnuck Mistree"
 ---
