@@ -54,6 +54,15 @@ sections:
       image: /images/Vol 18 Issue 1/Tan Cheng Kee/cover.png
       alt: Image alt text
   - infopic:
+      title: Natural History Drawings of Singapore and Southeast Asia
+      subtitle: Biological Diversity
+      description: A little-known collection from 1818 to 1820 sheds light on the
+        early study of the region’s flora and fauna.
+      button: "the Diard and Duvaucel collection "
+      url: /vol-17/issue-4/jan-mar-2022/diardduvaucel
+      image: /images/vol-17-issue-4/diard-duvaucel/monkey BA cover.jpg
+      alt: Natural History Drawings
+  - infopic:
       title: "Labouring to Deliver: A History of Kandang Kerbau Hospital"
       subtitle: Places
       description: The old Kandang Kerbau Hospital was once known as the busiest
