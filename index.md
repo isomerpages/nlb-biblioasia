@@ -95,7 +95,7 @@ sections:
       button: wet markets now and then
       url: /vol-18/issue-1/apr-to-jun-2022/singapore-changing-wet-markets
       image: /images/Vol 18 Issue 1/Highlight3.png
-      description: Wet markets have existed in Singapore since 1825, Zoe Yeo looks at
+      description: Wet markets have existed in Singapore since 1825. Zoe Yeo looks at
         how these markets have changed over time.
       alt: wet markets
   - infopic:
