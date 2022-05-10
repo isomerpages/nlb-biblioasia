@@ -13,6 +13,15 @@ sections:
       button: A History of The Padang
       url: /vol-18/issue-1/apr-to-jun-2022/history-padang
   - infopic:
+      title: Natural History Drawings of Singapore and Southeast Asia
+      subtitle: Biological Diversity
+      description: A little-known collection from 1818 to 1820 sheds light on the
+        early study of the region’s flora and fauna.
+      button: "the Diard and Duvaucel collection "
+      url: /vol-17/issue-4/jan-mar-2022/diardduvaucel
+      image: /images/vol-17-issue-4/diard-duvaucel/monkey BA cover.jpg
+      alt: Natural History Drawings
+  - infopic:
       title: Recipes for the Ideal Singaporean Female
       subtitle: mother's day
       description: From cooking, cleaning and becoming a good mother to outsourcing
@@ -53,15 +62,6 @@ sections:
       url: /vol-18/issue-1/apr-to-jun-2022/cinema-pioneer-tan-cheng-kee
       image: /images/Vol 18 Issue 1/Tan Cheng Kee/cover.png
       alt: Image alt text
-  - infopic:
-      title: Natural History Drawings of Singapore and Southeast Asia
-      subtitle: Biological Diversity
-      description: A little-known collection from 1818 to 1820 sheds light on the
-        early study of the region’s flora and fauna.
-      button: "the Diard and Duvaucel collection "
-      url: /vol-17/issue-4/jan-mar-2022/diardduvaucel
-      image: /images/vol-17-issue-4/diard-duvaucel/monkey BA cover.jpg
-      alt: Natural History Drawings
   - infopic:
       title: "Labouring to Deliver: A History of Kandang Kerbau Hospital"
       subtitle: Places
