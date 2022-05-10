@@ -14,7 +14,7 @@ sections:
       url: /vol-18/issue-1/apr-to-jun-2022/history-padang
   - infopic:
       title: Natural History Drawings of Singapore and Southeast Asia
-      subtitle: Biological Diversity
+      subtitle: "‎Biodiversity Day "
       description: A little-known collection from 1818 to 1820 sheds light on the
         early study of the region’s flora and fauna.
       button: "the Diard and Duvaucel collection "
