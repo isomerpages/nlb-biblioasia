@@ -21,14 +21,14 @@ sections:
       image: "/images/Videos: BA Stories/kunnuckmistree.jpg"
       alt: " Kunnuck Mistree"
   - infopic:
-      title: Natural History Drawings of Singapore and Southeast Asia
+      title: Nature Conservation in Singapore
       subtitle: "‎Biodiversity Day "
-      description: A little-known collection from 1818 to 1820 sheds light on the
-        early study of the region’s flora and fauna.
-      button: "the Diard and Duvaucel collection "
-      url: /vol-17/issue-4/jan-mar-2022/diardduvaucel
-      image: /images/vol-17-issue-4/diard-duvaucel/monkey BA cover.jpg
-      alt: Natural History Drawings
+      description: "Balancing biodiversity conservation with urban development is a
+        hot-button issue in land-scarce Singapore. "
+      button: IS Singapore a City in Nature?
+      url: /vol-17/issue-1/apr-jun-2021/nature
+      image: /images/Vol-17-issue-1/nature/pangolin.jpg
+      alt: Nature Conservation Singapore
   - infopic:
       title: Recipes for the Ideal Singaporean Female
       subtitle: mother's day
