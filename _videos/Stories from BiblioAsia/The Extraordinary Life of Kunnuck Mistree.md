@@ -5,7 +5,7 @@ description: Unearthing the identify of an Indian pioneer from Singapore’s pas
 image: "/images/Videos: BA Stories/extraordinary life of kunnuck mistree.png"
 third_nav_title: Stories from BiblioAsia
 ---
-#### How did a 19th-century convict become a wealthy philanthropist? Find out on 12 May 2022.
+#### How did a 19th-century convict become a wealthy philanthropist?
 
 <style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src="https://www.youtube.com/embed/iiaiyKOK-Yw" frameborder='0' allowfullscreen></iframe></div>
 
