@@ -91,7 +91,7 @@ While most wet markets in Singapore were alike, there was one that was unique: C
 ![](/images/Vol%2018%20Issue%201/Wet%20Market/Chinatown%20Wildlife%20Stall.png)
 <div style="background-color: white;">Back in the day, Chinatown Market was infamous for the sale of meat from animals such as snakes, crocodiles, monkeys, dogs, cats, rabbits and bats. The meat was cooked and likely served in street stalls like this one, 1930s. <i>Lee Kip Lin Collection, courtesy of National Archives of Singapore.</i></div>
 
-It is believed that these animals were smuggled from outlying islands such as Pulau Ubin and neighbouring countries like Malaysia and Indonesia. The meat from these animals were sought after for their “healing properties”.[^28]
+It is believed that these animals were smuggled from outlying islands such as Pulau Ubin and neighbouring countries like Malaysia and Indonesia. The meats from these animals were sought after for their “healing properties”.[^28]
 
 Chinatown Market had originally consisted of stalls concentrated along Trengganu Street, Sago Street and Banda Street, with a few spilling onto Temple Street and Pagoda Street. A 1974 *New Nation* article noted that a stall at the junction of Smith and Trengganu streets was selling almost everything from rabbits, guinea pigs and turtles to anteaters, pythons, crocodiles and monitor lizards.[^29] 
 

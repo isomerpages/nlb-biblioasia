@@ -120,7 +120,7 @@ The author is grateful that what had started out as an independent passion proje
 <div style="background-color: white;">
 <br/>
 <img src="/images/Vol%2018%20Issue%201/Authors/Ilya.png" style="width: 100px; height: 100px;"/>
-	<b>Ilya Katrinnada</b> is an educator and writer with a keen interest in the intersections of creativity, community and education. Having graduated with a major in anthropology, she currently works as a special education teacher.</div>
+	<b>Ilya Katrinnada</b> is an educator and writer with a keen interest in the intersections of creativity, community and education. Having graduated with a major in anthropology, she currently works as a special education teacher. She has also written about how the Orang Seletar live with nature in the Founder’s Memorial journal *+65*, which is published by the National Heritage Board.</div>
 
 	
 	

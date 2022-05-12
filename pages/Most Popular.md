@@ -3,6 +3,31 @@ title: Most Popular
 permalink: /most-popular
 description: Most Popular articles
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-4/jan-mar-2016/fotoalbum-singapur-gustave-richard-lambert"> Singapore in Sepia</a>
+Photography in Singapore has a long history dating back to 1843. One name dominated the Singapore photography scene: G. R. Lambert & Co. How Gustave Richard Lambert came to Singapore and whether he was related to the Lambert Brothers who made carriages, furniture and tombstones are unknown.
+
+<img style="width:100%;" src="/images/vol-11-issue-4/singapore-in-sepia/S1.JPG">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-2/jul-sep-2015/mohamed-eunos">Mohamed Eunos Abdullah: The Father of Malay Journalism</a>
+Jalan Eunos, Eunos Avenue, Eunos Crescent, Eunos Link, Eunos Road and Eunos Terrace are all named after the prominent Malay pioneer, Mohamed Eunos bin Abdullah. Mazelan Anuar traces his legacy.
+
+<img style="width:80%;" src="/images/vol-11-issue-2/malayjournalism/Mohamed_Eunos_Abdullah.jpg">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-4/jan-mar-2016/singapore-chinese-revolution-nanyang-republic">Singapore’s Role in the Chinese Revolution</a>
+Titled *Nanyang and the Founding of the Republic* (南洋与创立民国), the publication – with 57 sections and close to 50,000 Chinese characters – contains first-hand accounts and primary materials on the involvement of the overseas Chinese in the 1911 Chinese Revolution, as well as Singapore’s role in Sun’s campaign to end more than 2,000 years of imperial rule in China.
+
+<img style="width:100%;" src="/images/vol-11-issue-4/sg-role-in-chinese-revolution/R1.JPG">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-9/issue-4/jan-march-2014/sg-anglican-archives">A Colonial Heritage: Collections of the Anglican Diocese of Singapore</a>
+The development of the Anglican church in Singapore was closely intertwined with that of the colonial government, which initially supported the chaplains and priests as government employees and subsidised the construction of Anglican churches on the island. Bonny Tan explores the rich collections of the Anglican Diocese of Singapore, which holds materials such as birth and death records, publications and other documents.
+
+<img style="width:100%;" src="/images/vol-9-issue-4/colonial/IMG_2166-edit.jpg">
+<hr>
+
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/plague"> The Plague Fighter: Dr Wu Lien-Teh and His Work</a>
 The Penang-born doctor helped eradicate the deadly Manchurian pneumonic plague of 1910 and pushed for the use of face masks to prevent its spread. Kevin Y.L. Tan documents his life and work.
 
