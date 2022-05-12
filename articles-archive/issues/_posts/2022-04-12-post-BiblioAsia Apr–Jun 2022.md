@@ -5,7 +5,6 @@ date: 2022-04-12
 layout: post
 description: ""
 ---
-
 A new type of paper produced in the 1920s did not take off despite attempts to promote it. In this cover story, read about rubber latex paper, which was more durable, had greater tensile strength and was resistant to folding.
 
 <img src="/images/Vol%2018%20Issue%201/cover.png">
@@ -25,7 +24,7 @@ resistant to folding. *Alex Teoh* has the details.
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/kamala-club">The Kamala Club: Planting the Seeds of a Pioneering Women’s Organisation</a><br>*Vandana Aggarwal* traces the origins of a venerable association for Indian women and the role it played in their lives.
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/singapore-changing-wet-markets">No Longer “Dirty, Unhygienic, Crowded and Messy”: The Story of Singapore’s Changing Wet Markets</a><br>First established in Singapore in 1825, *Zoe Yeo* looks at how wet markets have evolved over time.
+<a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/singapore-changing-wet-markets">No Longer “Dirty, Unhygienic, Crowded and Messy”: The Story of Singapore’s Changing Wet Markets</a><br>The earliest wet markets in Singapore date back to at least 1825. *Zoe Yeo* tells us how they have changed since.
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/history-kandang-kerbau-hospital">Labouring to Deliver: A History of Kandang Kerbau Hospital</a><br>The old Kandang Kerbau Hospital was once known as the busiest maternity hospital in the world. *Joanna Tan* delivers the story behind a hallowed Singapore institution.
 
