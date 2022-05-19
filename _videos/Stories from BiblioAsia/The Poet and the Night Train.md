@@ -7,10 +7,9 @@ description: "The name Francis P. Ng is not familiar to many Singaporeans. Who
 image: "/images/Videos: BA Stories/poet night train.jpg"
 third_nav_title: Stories from BiblioAsia
 ---
-#### He writes Singapore's first book-length poem, then vanishes from history. Discover how the mystery of the missing poet was solved. Premieres on 19 May 2022.
+#### He writes Singapore's first book-length poem, then vanishes from history. Discover how the mystery of the missing poet was solved.  
 
- ![The poet and the night train](/images/Videos:%20BA%20Stories/poet%20night%20train.jpg)
-
+<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src="https://www.youtube.com/embed/BbLdM7bwxgM" frameborder='0' allowfullscreen></iframe></div>
 
 This documentary examines the tragic life of the mysterious poet Francis P. Ng, who wrote Singapore’s first book-length poem, [F.M.S.R.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5334024), and then disappeared during World War II. Researcher Eriko Ogihara-Schuck recounts the almost miraculous way she was able to confirm his fate and to connect with a living relative of his – a niece. Singaporean poets Alvin Pang and Robert Yeo also weigh in on the significance of Francis P. Ng’s work. 
 
