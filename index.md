@@ -13,13 +13,13 @@ sections:
       button: A History of The Padang
       url: /vol-18/issue-1/apr-to-jun-2022/history-padang
   - infopic:
-      title: The Extraordinary Life of Kunnuck Mistree
-      subtitle: "video: Stories from BiblioAsia"
-      description: "How did a 19th-century convict become a wealthy philanthropist? "
-      button: "a prison-to-riches story "
-      url: /videos/kunnuck-mistree
-      image: "/images/Videos: BA Stories/kunnuckmistree.jpg"
-      alt: " Kunnuck Mistree"
+      title: The Poet and the Night Train
+      subtitle: "Video: Stories from BiblioAsia"
+      description: " Discover how the mystery of the missing poet was solved."
+      button: Singapore's early poet
+      url: /videos/poet-francis-p-ng-night-train
+      image: "/images/Videos: BA Stories/poet night train.jpg"
+      alt: Francis P. Ng
   - infopic:
       title: Nature Conservation in Singapore
       subtitle: "‎Biodiversity Day "
@@ -29,6 +29,14 @@ sections:
       url: /vol-17/issue-1/apr-jun-2021/nature
       image: /images/Vol-17-issue-1/nature/pangolin.jpg
       alt: Nature Conservation Singapore
+  - infopic:
+      title: The Extraordinary Life of Kunnuck Mistree
+      subtitle: "video: Stories from BiblioAsia"
+      description: "How did a 19th-century convict become a wealthy philanthropist? "
+      button: "a prison-to-riches story "
+      url: /videos/kunnuck-mistree
+      image: "/images/Videos: BA Stories/kunnuckmistree.jpg"
+      alt: " Kunnuck Mistree"
   - infopic:
       title: Recipes for the Ideal Singaporean Female
       subtitle: mother's day
