@@ -11,8 +11,6 @@ Learn about Singapore through the stories of people who lived.
 
 Have a taste of history through old recipe books. 
 
-Travel back in time to learn about the games and schools in the old days. 
+Travel back in time to learn about the games and schools in a bygone age. 
 
-
-Discover untold stories of Singapore in these original video series: *[From Book to Cook](/videos/from-book-to-cook)*, *[Stories from BiblioAsia](/videos/stories-from-biblioasia/)* and [*The Time Travelling Trio*](https://go.gov.sg/nlb-timetravellingtrio). 
-
+Discover untold stories of Singapore in these original video series: *[From Book to Cook](/videos/from-book-to-cook)*, *[Stories from BiblioAsia](/videos/stories-from-biblioasia/)* and [*The Time Travelling Trio*](https://go.gov.sg/nlb-timetravellingtrio).
