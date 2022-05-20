@@ -15,8 +15,9 @@ sections:
   - infopic:
       title: The Poet and the Night Train
       subtitle: "Video: Stories from BiblioAsia"
-      description: " Discover how the mystery of the missing poet was solved."
-      button: Singapore's early poet
+      description: "He writes Singapore’s first book-length poem, then vanishes from
+        history. Discover how the mystery of the missing poet was solved. "
+      button: Singapore's forgotten poet
       url: /videos/poet-francis-p-ng-night-train
       image: "/images/Videos: BA Stories/poet night train.jpg"
       alt: Francis P. Ng
