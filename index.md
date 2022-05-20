@@ -19,7 +19,7 @@ sections:
         history. Discover how the mystery of the missing poet was solved. "
       button: Singapore's forgotten poet
       url: /videos/poet-francis-p-ng-night-train
-      image: "/images/Videos: BA Stories/poet night train.jpg"
+      image: "/images/Videos: BA Stories/Francis P NG forgotten poet.jpg"
       alt: Francis P. Ng
   - infopic:
       title: Nature Conservation in Singapore
