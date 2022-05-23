@@ -20,6 +20,8 @@ When American Studies scholar, Dr Eriko Ogihara-Schuck, embarked on the proverbi
 
 Ultimately, this would set in motion a chain of events that would turn the dregs of a family’s painful war-torn past into a serendipitous “reunion” of two talented brother-poets[^2] and the publication of two unique collections of poetic works.
 
+<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src="https://www.youtube.com/embed/BbLdM7bwxgM" frameborder='0' allowfullscreen></iframe></div>
+
 ##### **The Search Begins**
 
 Dr Ogihara-Schuck, a Japanese national who teaches American Studies and Japanese at Technische Universität Dortmund in Germany where she resides with her German husband, first chanced upon *F.M.S.R.*[^3] when she answered a call in December 2012 for academic papers by the late Professor Tatsushi Narita, a specialist on the works of the Anglo-American modernist poet T.S. Eliot.[^4]

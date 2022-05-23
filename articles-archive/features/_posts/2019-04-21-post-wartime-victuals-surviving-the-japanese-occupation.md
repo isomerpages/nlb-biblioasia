@@ -113,6 +113,8 @@ At the end of the Occupation there were some Endau settlers who chose to remain 
 
 #### **Wartime Victuals**
 
+<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src="https://www.youtube.com/embed/R8XTJi9NK4E" frameborder='0' allowfullscreen></iframe></div>
+
 With rice supplies drying up, tapioca, sweet potato and *ragi* (a type of millet) became the default staples in occupied Singapore. Tapioca and sweet potato were fairly easy to grow, especially tapioca, but it wasn’t pleasant to eat on its own. Tapioca that was made into noodles became rubbery when cooked. Bread was made with non-wheat flours, which yielded a tough loaf that sometimes had to be fried to make it remotely edible.
 
 Chu Shuen Choo described *ragi* as “black stuff like sago. And we used to cook it like sago. Put scraped coconut on top of it and make it sweet, and eat it like a sort of cake to substitute rice. Otherwise we would be so hungry the whole day”.[^21] Cooking oil was scarce, so people had to make do with palm oil. Chu’s family would make their own coconut oil by boiling down coconut milk, and used their palm oil rations for lighting oil lamps instead.

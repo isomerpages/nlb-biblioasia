@@ -4,28 +4,11 @@ permalink: /vol-16/issue-4/jan-mar-2021/kunnuck
 date: 2021-01-01T00:00:00.000Z
 breadcrumb: The Extraordinary Life of Kunnuck Mistree
 third_nav_title: The Extraordinary Life of Kunnuck Mistree
-
 ---
-
-<style>
-table { 
-	background-color: #d6dae9;
-	}
-.infobox { 
-  padding: 20px;
-  margin: 20px;
-  background: #d6dae9;
-}
-</style>
-
-
 #### Indian convicts contributed much to the early infrastructural development of Singapore but their voices have rarely been heard. **Vandana Aggarwal** uncovers the story of one convict who made good.
 
-<div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-4/kunnuck/TheExtraordinaryLifeOfKunnuck.jpg">
-A general monthly muster of convicts at the Bras Basah convict jail, Singapore, 1860–99. <i>The National Archives of the UK, ref. CO 1069/484 (29)</i>.
-</div>
+<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src="https://www.youtube.com/embed/iiaiyKOK-Yw" frameborder='0' allowfullscreen></iframe></div>
+
 
 It is no exaggeration to say that Singapore was built on the backs of Indian convicts. These men –  and they were mainly but not exclusively men –  laid roads, cleared forests and were involved in the construction of buildings like Sri Mariamman Temple, St Andrew’s Church (now Cathedral), Horsburgh Lighthouse and Government House (today’s Istana). In addition to manual labour, some also worked as hospital attendants, gardeners and domestic servants.
 
@@ -34,6 +17,9 @@ The first batch of 80 Indian convicts arrived in Singapore from Bencoolen (now B
 Kunnuck Mistree was 38 years old when he arrived in Singapore in 1825. Once here, he was able to turn his life around: he eventually set up a business, got married and had children. His death, some four decades after stepping on these shores, even merited a mention in the local newspaper. (Different documents use different spellings of his name, including Konnuckram Mittre and Kanak Mittery.[^2] Kunnuck Mistree, the version chosen for this essay, was how his name was spelt in an official appeal filed by his legal counsel in 1857.[^3])
 
 #### **From Calcutta to Bencoolen**
+
+<img src="/images/Vol-16-issue-4/kunnuck/TheExtraordinaryLifeOfKunnuck.jpg">
+A general monthly muster of convicts at the Bras Basah convict jail, Singapore, 1860–99. <i>The National Archives of the UK, ref. CO 1069/484 (29)</i>.
 
 Nothing is known of Mistree’s early life and neither do we have an image of him. What we know of him dates back to 1818 when he was convicted of larceny – a category which includes housebreaking, burglary and dacoity (gang robbery)  –  in Calcutta (now Kolkata) and was shipped to Bencoolen in Sumatra:
 
@@ -277,4 +263,4 @@ I first came across Kunnuck Mistree’s name in 2015 while transcribing the Stra
 
 [^47]: *[The Singapore Free Press](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18650727-1.2.3)*, 27 Jul 1865, p. 2. 
 
-[^48]: Anderson, C. (2003, August 1). The execution of Rughobursing: The political economy of convict transportation and penal labour in early colonial Mauritius. *Studies in History, 19* (2), 185–197, p. 5. Retrieved from SAGE Journals; Anderson, C. (n.d.). *Asia and Mauritius: Penal transportation in East India co.*, 1787–1863. Retrieved from convictvoyages.org; [McNair & Bayliss](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4320815), 1899, p. 12. 
+[^48]: Anderson, C. (2003, August 1). The execution of Rughobursing: The political economy of convict transportation and penal labour in early colonial Mauritius. *Studies in History, 19* (2), 185–197, p. 5. Retrieved from SAGE Journals; Anderson, C. (n.d.). *Asia and Mauritius: Penal transportation in East India co.*, 1787–1863. Retrieved from convictvoyages.org; [McNair & Bayliss](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4320815), 1899, p. 12.
