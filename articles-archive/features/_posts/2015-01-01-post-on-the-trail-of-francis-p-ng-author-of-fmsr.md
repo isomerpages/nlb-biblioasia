@@ -7,11 +7,7 @@ layout: post
 ---
 #### In her effort to republish one of our unknown literary treasures, **Dr Eriko Ogihara-Schuck** tracks down the elusive Francis P. Ng, author of possibly the first notable work of poetry in English by a Singapore writer.
 
-<div style="background-color: white;">
-<br/>
-<img style="width:70%" src="/images/vol-10-issue-4/francispng/FMSR_train_re.jpg">
-An “S” Class Express engine of the Federated Malay States Railways (FMSR), which was a rail operator that serviced British Malaya in the first half of the 20th century. The poem <i>F.M.S.R.</i> (published in 1937) describes a train journey from Singapore to Kuala Lumpur. <i>Lee Kip Lin Collection, courtesy of National Archives of Singapore. </i>
-</div>
+<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src="https://www.youtube.com/embed/BbLdM7bwxgM" frameborder='0' allowfullscreen></iframe></div>
 
 In August 2014, I found myself in Singapore, the country where I came of age as a teenager. Twenty years had passed since I left Singapore to enter college in Japan and then higher degree studies in the United States and Germany. Initially, it felt as if nothing had changed since I left the city. The night sky was still the same over the East Coast, twinkling here and there with the strobe lights of airplanes heading towards Changi Airport. On terra firma, the songs and sounds of the National Day festivities quickly re-absorbed me into this country, exactly the same way they did when I first arrived as a 12-year-old girl in the summer of 1988.
 
@@ -21,6 +17,8 @@ I had come back to Singapore to trace the footsteps of Francis P. Ng, a forgotte
 
 
 #### **T.S. Eliot and the Singapore Connection** 
+<img style="width:70%" src="/images/vol-10-issue-4/francispng/FMSR_train_re.jpg">
+An “S” Class Express engine of the Federated Malay States Railways (FMSR), which was a rail operator that serviced British Malaya in the first half of the 20th century. The poem <i>F.M.S.R.</i> (published in 1937) describes a train journey from Singapore to Kuala Lumpur. <i>Lee Kip Lin Collection, courtesy of National Archives of Singapore. </i>
 
 <i>F.M.S.R. </i> first came to my attention when I was preparing for a conference presentation on the poet T.S. Eliot (1888–1965), who was born in the United States and emigrated to Britain in 1914 at age 25. Eliot is well known for his modernist masterpiece <i>The Waste Land</i> (1922). Beginning with the unconventional phrase. “April is the cruellest month”, the poem caused a sensation in the world of Western poetry by introducing new styles of writing and perception. After teaching Eliot in an undergraduate American Studies course in Germany for many years, I wanted to make a scholarly contribution to the study of this poet by exploring the extent of his literary influence in Asia. 
 
