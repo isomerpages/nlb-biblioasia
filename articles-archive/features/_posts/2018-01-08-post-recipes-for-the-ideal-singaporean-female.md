@@ -7,7 +7,8 @@ layout: post
 ---
 #### From cooking, cleaning and becoming a good mother to outsourcing housework as careers for women took off. **Sheere Ng** charts how home economics lessons have evolved over the years.
 
-<div style="background-color: white;"><br><img src="/images/Vol-13-issue-4/ideal-singaporean-female/01_idealsgfemale.png">A sewing class in progress at one of the convent schools, c.1950s. <i>Diana Koh Collection, courtesy of National Archives of Singapore.</i></div>
+<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src="https://www.youtube.com/embed/w_d1IQKeguM" frameborder='0' allowfullscreen></iframe></div>
+
 
 Someone once asked me, “What did you learn to cook at home economics classes?”
 
@@ -28,6 +29,8 @@ In “studying” home economics a second time around as research for this essay
 Home economics began in the United States in the late 19th century as domestic science. It was part of a larger movement to modernise the American diet through scientific cookery. The early champions of domestic science could be categorised into two camps: those who wanted to give women access to careers that had traditionally been dominated by men, and those who wanted to upgrade women’s status within its traditional realm by recasting domestic work as rational and efficient, and based on science and technology.[^1] Singapore clearly belonged in the latter category.
 
 Domestic science, as it was referred to here before 1970, was first taught in English and mission girls’ schools in colonial Singapore. Students learnt practical domestic tasks such as laundry and needlework as well as European and Asian cookery. There was no standardised textbook, as Marie Ethel Bong, a former Katong Convent student remembered. Instead, the girls learnt the general principles of cookery from a foreign cookbook, and then copied the recipes from a blackboard before watching the nuns demonstrate them.[^2]
+
+<div style="background-color: white;"><br><img src="/images/Vol-13-issue-4/ideal-singaporean-female/01_idealsgfemale.png">A sewing class in progress at one of the convent schools, c.1950s. <i>Diana Koh Collection, courtesy of National Archives of Singapore.</i></div>
 
 Although many of the girls came from well-to-do families with servants, schools still insisted that their female students pick up domestic skills. “Even if you had servants at home, they felt that you should know how to do it yourself before you could instruct your *amah* in those days,” recalled Bong, who later became the principal of Katong Convent.[^3]
 
