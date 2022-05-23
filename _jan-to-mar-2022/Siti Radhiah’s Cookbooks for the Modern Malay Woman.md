@@ -104,7 +104,9 @@ Some of the dishes found in the cookbook, like *sate* and *tahu goreng* (fried t
 
 Siti Radhiah may have included recipes from Indonesia and Brunei because she viewed these dishes as part of the *wider* Malay cuisine. She embraced the cuisines of various groups which not only made up other parts of the Nusantara (Malay world) but had settled in Singapore for many decades as well.
 
-It is interesting to note that the cover of *Memilih Selera* features a Western woman about to carve what looks like a turkey even though the cookbook features only a handful of Western-style recipes, none of which is for a roasted fowl. It was not uncommon for publications at the time, such as popular postwar magazines like *Asmara, Aneka Warna* and *Fesyen*, to portray images of Western women, especially Hollywood celebrities, as these appealed to younger readers and the masses in general.[^32]  
+It is interesting to note that the cover of *Memilih Selera* features a Western woman about to carve what looks like a turkey even though the cookbook features only a handful of Western-style recipes, none of which is for a roasted fowl. It was not uncommon for publications at the time, such as popular postwar magazines like *Asmara, Aneka Warna* and *Fesyen*, to portray images of Western women, especially Hollywood celebrities, as these appealed to younger readers and the masses in general.[^32] 
+
+<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src="https://www.youtube.com/embed/SJ4Qoe6bniI" frameborder='0' allowfullscreen></iframe></div>
 
 #### **A Guide for Life**
 
