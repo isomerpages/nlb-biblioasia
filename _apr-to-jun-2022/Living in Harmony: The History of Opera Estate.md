@@ -187,7 +187,7 @@ Jalan Bintang Tiga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
 
 [^20]: Celine Tan, “[Family Stays Awake If It Rains At Night](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/weekendeast19961004-1.2.3.1),” *WEEKENDEast*, 4 October 1996, 2. (From NewspaperSG)
 
-[^21]: Mrs Irene Chee, interview, 6 January 2022. 
+[^21]: Mdm Irene Loh, interview, 6 January 2022. 
 
 [^22]: Tracy Lee, “[Opera Estate Plan to Ease Floods](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19960929-1.2.40.3),” *Straits Times*, 29 September 1996, 29. (From NewspaperSG)
 
@@ -203,7 +203,7 @@ Jalan Bintang Tiga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
 
 [^28]: James Suresh, “[A Neighbourly Connection](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20140305-1.2.53),” *Today*, 5 March 2015, 45. (From NewspaperSG)
 
-[^29]: Mrs Irene Chee, interview, 6 January 2022.
+[^29]: Mdm Irene Loh, interview, 6 January 2022.
 
 [^30]: “Singapore Names its First Friendly Street.” 
 
