@@ -185,7 +185,7 @@ The National Library of Singapore holds a small collection of personal documents
 
 [^29]: Silver, *Krait*, 97–98; Heng Wong, “Double Tenth Incident,” in *Singapore Infopedia*. National Library Board Singapore. Article published March 2021. 
 
-[^30]: Lynette Ramsay Silver, The Heroes of Rimau (Singapore: Cultured Lotus, 2001), 111. (From National Library, Singapore, call no. RSING 940.5426 SIL-[WAR]) 
+[^30]: Lynette Ramsay Silver, *The Heroes of Rimau* (Singapore: Cultured Lotus, 2001), 111. (From National Library, Singapore, call no. RSING 940.5426 SIL-[WAR]) 
 
 [^31]: Bose, Kranji, 82; Silver, Heroes of Rimau, 108–09, 111–12, 117–20, 133–34.
 
