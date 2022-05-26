@@ -127,13 +127,13 @@ The National Library of Singapore holds a small collection of personal documents
 	
 #### **NOTES**
 
-[^1]: Justin Corfield and Robin Corfield, The Fall of Singapore: 90 Days: November 1941–February 1942 (Singapore: Talisman Publishing, 2012), 116–25. (From National Library, Singapore, call no. RSING 940.5425957 COR-[WAR])
+[^1]: Justin Corfield and Robin Corfield, *The Fall of Singapore: 90 Days: November 1941–February 1942* (Singapore: Talisman Publishing, 2012), 116–25. (From National Library, Singapore, call no. RSING 940.5425957 COR-[WAR])
 
 [^2]: “Corporal Raymond Lee Kim Teck,” Commonwealth War Graves Commission, accessed 31 Mar 2022, https://www.cwgc.org/find-records/find-war-dead/casualty-details/2228809/raymond-lee-kim-teck/.
 
-[^3]: Romen Bose, Kranji: The Commonwealth War Cemetery and the Politics of the Dead (Singapore: Marshall Cavendish Editions, 2006), 21. (From National Library, Singapore, call no. RSING 940.54655957 BOS-[WAR])
+[^3]: Romen Bose, *Kranji: The Commonwealth War Cemetery and the Politics of the Dead* (Singapore: Marshall Cavendish Editions, 2006), 21. (From National Library, Singapore, call no. RSING 940.54655957 BOS-[WAR])
 
-[^4]: Hamzah Muzaini and Brenda S. A. Yeoh, Contested Memoryscapes: The Politics of Second World War Commemoration in Singapore (London; New York: Routledge, Taylor & Francis Group, 2016), 98. (From National Library, call no. RSING 940.546095957 MUZ-WAR])
+[^4]: Hamzah Muzaini and Brenda S. A. Yeoh, *Contested Memoryscapes: The Politics of Second World War Commemoration in Singapore* (London; New York: Routledge, Taylor & Francis Group, 2016), 98. (From National Library, call no. RSING 940.546095957 MUZ-WAR])
 
 [^5]: Bose, Kranji, 21.
 
