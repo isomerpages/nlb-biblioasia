@@ -120,7 +120,7 @@ The National Library of Singapore holds a small collection of personal documents
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol%2018%20Issue%201/Authors/Asrina_Tanuri.png" style="width: 100px; height: 100px;"/>
+<img src="/images/Vol%2018%20Issue%202/Authors/Janice_Loo.png" style="width: 100px; height: 100px;"/>
 	<b>Janice Loo</b> is a Librarian with the National Library, Singapore. Her responsibilities include collection management and content development as well as research and reference assistance on topics relating to Singapore and Southeast Asia.</div>
 
 	
