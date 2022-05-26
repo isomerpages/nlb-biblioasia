@@ -102,8 +102,7 @@ The National Library of Singapore holds a small collection of personal documents
 
 [^1]: Justin Corfield and Robin Corfield, The Fall of Singapore: 90 Days: November 1941–February 1942 (Singapore: Talisman Publishing, 2012), 116–25. (From National Library, Singapore, call no. RSING 940.5425957 COR-[WAR])
 
-[^2]: “Corporal Raymond Lee Kim Teck,” Commonwealth War Graves Commission, accessed 31 Mar 2022, 
-https://www.cwgc.org/find-records/find-war-dead/casualty-details/2228809/raymond-lee-kim-teck/.
+[^2]: “Corporal Raymond Lee Kim Teck,” Commonwealth War Graves Commission, accessed 31 Mar 2022, https://www.cwgc.org/find-records/find-war-dead/casualty-details/2228809/raymond-lee-kim-teck/.
 
 [^3]: Romen Bose, Kranji: The Commonwealth War Cemetery and the Politics of the Dead (Singapore: Marshall Cavendish Editions, 2006), 21. (From National Library, Singapore, call no. RSING 940.54655957 BOS-[WAR])
 
@@ -135,8 +134,7 @@ https://www.cwgc.org/find-records/find-war-dead/casualty-details/2228809/raymond
 
 [^17]: Dol Ramli, “History of the Malay Regiment 1933–1942,” 239.
 
-[^18]: “Captain Harry Rodway Rix,” Commonwealth War Graves Commission, accessed 8 April 2022, 
-https://www.cwgc.org/find-records/find-war-dead/casualty-details/2821290/harry-rodway-rix/.
+[^18]: “Captain Harry Rodway Rix,” Commonwealth War Graves Commission, accessed 8 April 2022, https://www.cwgc.org/find-records/find-war-dead/casualty-details/2821290/harry-rodway-rix/.
 
 [^19]: Mubin Sheppard, The Malay Regiment 1933–1947 (Kuala Lumpur: Department of Public Relations, 1947), 18. (From National Library, Singapore, call no. RCLOS 355.31 SHE-[JSB])
 
@@ -154,8 +152,7 @@ https://www.cwgc.org/find-records/find-war-dead/casualty-details/2821290/harry-r
 
 [^26]: Silver, Krait, 49, 77. Silver, Krait, 81–83, 89–91. 
 
-[^27]: Bose, Kranji, 79–81; Petar Djokovic, “Krait and Operation JAYWICK,” Royal Australian Navy, accessed 8 April 2022, 
-https://www.navy.gov.au/history/feature-histories/krait-and-operation-jaywick.
+[^27]: Bose, Kranji, 79–81; Petar Djokovic, “Krait and Operation JAYWICK,” Royal Australian Navy, accessed 8 April 2022, https://www.navy.gov.au/history/feature-histories/krait-and-operation-jaywick.
 
 [^28]: Silver, Krait, 89, 95–97. 
 
