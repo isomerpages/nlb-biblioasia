@@ -135,9 +135,9 @@ The National Library of Singapore holds a small collection of personal documents
 
 [^4]: Hamzah Muzaini and Brenda S. A. Yeoh, *Contested Memoryscapes: The Politics of Second World War Commemoration in Singapore* (London; New York: Routledge, Taylor & Francis Group, 2016), 98. (From National Library, call no. RSING 940.546095957 MUZ-WAR])
 
-[^5]: Bose, Kranji, 21.
+[^5]: Bose, *Kranji*, 21.
 
-[^6]: Bose, Kranji, 33.
+[^6]: Bose, *Kranji*, 33.
 
 [^7]: “Kranji War Cemetery,” Commonwealth War Graves Commission, accessed 8 April 2022, https://www.cwgc.org/visit-us/find-cemeteries-memorials/cemetery-details/2004200/kranji-war-cemetery/; Athanasios Tsakonas, “In Honour of War Heroes: The Legacy of Colin St Clair Oakes,” BiblioAsia 14, no. 3 (Oct–Dec 2018).
 
