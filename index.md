@@ -13,6 +13,15 @@ sections:
       button: A History of The Padang
       url: /vol-18/issue-1/apr-to-jun-2022/history-padang
   - infopic:
+      title: Into the Night
+      subtitle: "Video: stories from biblioasia"
+      description: "Cabaret dancers like Rose Chan were famous. But what were their
+        lives really like? "
+      button: Beneath the Glitz and Glamour
+      url: /videos/into-the-night
+      image: "/images/Videos: BA Stories/into the night.jpg"
+      alt: Cabaret dancers
+  - infopic:
       title: The Story of Singapore’s Changing Wet Markets
       subtitle: places
       button: wet markets now and then
@@ -106,13 +115,4 @@ sections:
       url: /vol-18/issue-1/apr-to-jun-2022/singapore-orchid-diplomacy
       image: /images/Vol 18 Issue 1/Highlight2.png
       alt: Orchid Diplomacy
-  - infopic:
-      title: Into the Night
-      subtitle: "Video: stories from biblioasia"
-      description: "Cabaret dancers like Rose Chan were famous. But what were their
-        lives really like? "
-      button: Beneath the Glitz and Glamour
-      url: /videos/into-the-night
-      image: "/images/Videos: BA Stories/into the night.jpg"
-      alt: Cabaret dancers
 ---
