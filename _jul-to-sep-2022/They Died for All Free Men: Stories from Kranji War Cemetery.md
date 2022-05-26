@@ -173,21 +173,21 @@ The National Library of Singapore holds a small collection of personal documents
 
 [^23]: Dol Ramli, “History of the Malay Regiment 1933–1942,” 242; “Second Lieutenant Adnan Bin Saidi,” Commonwealth War Graves Commission, accessed 8 April 2022, https://www.cwgc.org/find-records/find-war-dead/casualty-details/2529445/adnan-bin-saidi/.
 
-[^24]: Lynette Ramsay Silver, *Krait: The Fishing Boat That Went to War* (Singapore: Cultured Lotus, 2001), 97, 195. (From National Library, Singapore, call no. RSING 940.545994 SIL-[WAR]) 
+[^24]: Lynette Ramsay Silver, [*Krait: The Fishing Boat That Went to War*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10287275) (Singapore: Cultured Lotus, 2001), 97, 195. (From National Library, Singapore, call no. RSING 940.545994 SIL-[WAR]) 
 
-[^25]: Silver, *Krait*, 165. 
+[^25]: Silver, [*Krait*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10287275), 165. 
 
-[^26]: Silver, *Krait*, 49, 77. Silver, *Krait*, 81–83, 89–91. 
+[^26]: Silver, [*Krait*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10287275), 49, 77. Silver, *Krait*, 81–83, 89–91. 
 
-[^27]: Bose, *Kranji*, 79–81; Petar Djokovic, “Krait and Operation JAYWICK,” Royal Australian Navy, accessed 8 April 2022, https://www.navy.gov.au/history/feature-histories/krait-and-operation-jaywick.
+[^27]: Bose, [*Kranji*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12666092), 79–81; Petar Djokovic, “Krait and Operation JAYWICK,” Royal Australian Navy, accessed 8 April 2022, https://www.navy.gov.au/history/feature-histories/krait-and-operation-jaywick.
 
-[^28]: Silver, *Krait*, 89, 95–97. 
+[^28]: Silver, [*Krait*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10287275), 89, 95–97. 
 
-[^29]: Silver, *Krait*, 97–98; Heng Wong, “Double Tenth Incident,” in *Singapore Infopedia*. National Library Board Singapore. Article published March 2021. 
+[^29]: Silver, [*Krait*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10287275), 97–98; Heng Wong, “[Double Tenth Incident](https://eresources.nlb.gov.sg/infopedia/articles/SIP_111_2005-01-06.html),” in *Singapore Infopedia*. National Library Board Singapore. Article published March 2021. 
 
-[^30]: Lynette Ramsay Silver, *The Heroes of Rimau* (Singapore: Cultured Lotus, 2001), 111. (From National Library, Singapore, call no. RSING 940.5426 SIL-[WAR]) 
+[^30]: Lynette Ramsay Silver, [*The Heroes of Rimau*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10287278) (Singapore: Cultured Lotus, 2001), 111. (From National Library, Singapore, call no. RSING 940.5426 SIL-[WAR]) 
 
-[^31]: Bose, *Kranji*, 82; Silver, Heroes of Rimau, 108–09, 111–12, 117–20, 133–34.
+[^31]: Bose, [*Kranji*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12666092), 82; Silver, [Heroes of Rimau](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10287278), 108–09, 111–12, 117–20, 133–34.
 
 [^32]: Silver, *Heroes of Rimau*, 142–46, 283; Bose, *Kranji*, 82–83.
 
