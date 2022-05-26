@@ -139,9 +139,9 @@ The National Library of Singapore holds a small collection of personal documents
 
 [^6]: Bose, *Kranji*, 33.
 
-[^7]: “Kranji War Cemetery,” Commonwealth War Graves Commission, accessed 8 April 2022, https://www.cwgc.org/visit-us/find-cemeteries-memorials/cemetery-details/2004200/kranji-war-cemetery/; Athanasios Tsakonas, “In Honour of War Heroes: The Legacy of Colin St Clair Oakes,” BiblioAsia 14, no. 3 (Oct–Dec 2018).
+[^7]: “Kranji War Cemetery,” Commonwealth War Graves Commission, accessed 8 April 2022, https://www.cwgc.org/visit-us/find-cemeteries-memorials/cemetery-details/2004200/kranji-war-cemetery/; Athanasios Tsakonas, “In Honour of War Heroes: The Legacy of Colin St Clair Oakes,” *BiblioAsia* 14, no. 3 (Oct–Dec 2018).
 
-[^8]: Edwin Gibson and G. Kingsley Ward, Courage Remembered: The Story Behind the Construction and Maintenance of the Commonwealth’s Military Cemeteries and Memorials of the Wars of 1914–1918 and 1939–1945 (London: Her Majesty’s Stationery Office, 1989), 66. (From National Library, Singapore, call no. RSING 355.1609 GIB)
+[^8]: Edwin Gibson and G. Kingsley Ward, *Courage Remembered: The Story Behind the Construction and Maintenance of the Commonwealth’s Military Cemeteries and Memorials of the Wars of 1914–1918 and 1939–1945* (London: Her Majesty’s Stationery Office, 1989), 66. (From National Library, Singapore, call no. RSING 355.1609 GIB)
 
 [^9]: Gibson and Ward, Courage Remembered, 66.
 
