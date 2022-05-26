@@ -104,6 +104,10 @@ She was 81-year-old Madam Cheng Seang Ho, nicknamed the Passionaria of Malaya (a
 
 Today, memorial services are held twice annually. One service is held on the Sunday closest to Remembrance Day on 11 November, while the other is held on ANZAC (Australian and New Zealand Army Corps) Day on 25 April in honour of Australian and New Zealand soldiers.[^41] 
 
+![](/images/Vol%2018%20Issue%202/Kranji%20War%20Memorial/Memorial.png)
+<div style="background-color: white;"> The inscription on the Singapore Memorial reads “They Died for All Free Men”, 2022. <i>Photo by and courtesy of Janice Loo.
+ </i></div>
+
 What began as a site of imperial memory has also evolved to take on new meaning as Singaporeans visit the cemetery as part of national education and historical tours. Interpreted through the lens of nation-building, the cemetery holds lessons on the importance of self-reliance and self-determination, as it commemorates locals who had contributed to the defence of Singapore during World War II and as the war marked the turning point towards decolonisation.[^42]
 
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"><b>A SERGEANT IN THE LIBRARY </b><br><br>
