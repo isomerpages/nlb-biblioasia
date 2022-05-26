@@ -167,7 +167,7 @@ The National Library of Singapore holds a small collection of personal documents
 
 [^20]: “Second Lieutenant Geoffrey Francis Dixon Stephen,” Commonwealth War Graves Commission, accessed 8 April 2022, https://www.cwgc.org/find-records/find-war-dead/casualty-details/2072314/geoffrey-francis-dixon-stephen/.
 
-[^21]: “Death Before Dishonour,” *Straits Times*, 8 December 1991. (From NewspaperSG)
+[^21]: “[Death Before Dishonour](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19911208-1.2.56.2.3),” *Straits Times*, 8 December 1991. (From NewspaperSG)
 
 [^22]: Dol Ramli, “History of the Malay Regiment 1933–1942,” 239.
 
