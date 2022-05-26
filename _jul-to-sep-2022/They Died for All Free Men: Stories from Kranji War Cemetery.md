@@ -156,18 +156,32 @@ https://www.cwgc.org/find-records/find-war-dead/casualty-details/2821290/harry-r
 
 [^27]: Bose, Kranji, 79–81; Petar Djokovic, “Krait and Operation JAYWICK,” Royal Australian Navy, accessed 8 April 2022, 
 https://www.navy.gov.au/history/feature-histories/krait-and-operation-jaywick.
-Silver, Krait, 89, 95–97. 
-Silver, Krait, 97–98; Heng Wong, “Double Tenth Incident,” in Singapore Infopedia. National Library Board Singapore. Article published March 2021. 
-Lynette Ramsay Silver, The Heroes of Rimau (Singapore: Cultured Lotus, 2001), 111. (From National Library, Singapore, call no. RSING 940.5426 SIL-[WAR]) 
-Bose, Kranji, 82; Silver, Heroes of Rimau, 108–09, 111–12, 117–20, 133–34.
-Silver, Heroes of Rimau, 142–46, 283; Bose, Kranji, 82–83.
-Bose, Kranji, 83; Silver, Heroes of Rimau, 154–55.
-Silver, Heroes of Rimau, 213–16.
-Silver, Heroes of Rimau, 248; Bose, Kranji, 87–88.
-Terry Pillay, “A Living Tribute to Heroes Who Have No Graves,” Sunday Tribune, 3 March 1957. (From NewspaperSG)
-Hamzah Muzaini and Yeoh, Contested Memoryscapes, 98–99.
-Nan Hall, “Thoughts of the Past Move 81-Year-Old War Heroine to Tears,” Straits Times, 3 March 1957; “Tragic Memories in a Garden of Peace,” Straits Times, 3 March 1957; “A Moving Dedication at New Shrine,” Singapore Free Press, 2 March 1957. (From NewspaperSG)
-“A Heroine Is Rewarded,” Straits Times, 25 July 1948. (From NewspaperSG)
+
+[^28]: Silver, Krait, 89, 95–97. 
+
+[^29]: Silver, Krait, 97–98; Heng Wong, “Double Tenth Incident,” in Singapore Infopedia. National Library Board Singapore. Article published March 2021. 
+
+[^30]: Lynette Ramsay Silver, The Heroes of Rimau (Singapore: Cultured Lotus, 2001), 111. (From National Library, Singapore, call no. RSING 940.5426 SIL-[WAR]) 
+
+[^31]: Bose, Kranji, 82; Silver, Heroes of Rimau, 108–09, 111–12, 117–20, 133–34.
+
+[^32]: Silver, Heroes of Rimau, 142–46, 283; Bose, Kranji, 82–83.
+
+[^33]: Bose, Kranji, 83; Silver, Heroes of Rimau, 154–55.
+
+[^34]: Silver, Heroes of Rimau, 213–16.
+
+[^35]: Silver, Heroes of Rimau, 248; Bose, Kranji, 87–88.
+
+[^36]: Terry Pillay, “A Living Tribute to Heroes Who Have No Graves,” Sunday Tribune, 3 March 1957. (From NewspaperSG)
+
+[^37]: Hamzah Muzaini and Yeoh, Contested Memoryscapes, 98–99.
+
+[^38]: Nan Hall, “Thoughts of the Past Move 81-Year-Old War Heroine to Tears,” Straits Times, 3 March 1957; “Tragic Memories in a Garden of Peace,” Straits Times, 3 March 1957; “A Moving Dedication at New Shrine,” Singapore Free Press, 2 March 1957. (From NewspaperSG)
+
+[^39]: “A Heroine Is Rewarded,” Straits Times, 25 July 1948. (From NewspaperSG)
 “Private Sim Chin Foo,” Commonwealth War Graves Commission, accessed 8 April 2022, https://www.cwgc.org/find-records/find-war-dead/casualty-details/2537430/sim-chin-foo/.
-Hamzah Muzaini and Yeoh, Contested Memoryscapes, 94.
-Hamzah Muzaini and Yeoh, Contested Memoryscapes, 94, 101–05.
+
+[^40]: Hamzah Muzaini and Yeoh, Contested Memoryscapes, 94.
+
+[^41]: Hamzah Muzaini and Yeoh, Contested Memoryscapes, 94, 101–05.
