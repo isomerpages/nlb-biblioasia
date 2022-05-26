@@ -180,8 +180,9 @@ https://www.navy.gov.au/history/feature-histories/krait-and-operation-jaywick.
 [^38]: Nan Hall, “Thoughts of the Past Move 81-Year-Old War Heroine to Tears,” Straits Times, 3 March 1957; “Tragic Memories in a Garden of Peace,” Straits Times, 3 March 1957; “A Moving Dedication at New Shrine,” Singapore Free Press, 2 March 1957. (From NewspaperSG)
 
 [^39]: “A Heroine Is Rewarded,” Straits Times, 25 July 1948. (From NewspaperSG)
-“Private Sim Chin Foo,” Commonwealth War Graves Commission, accessed 8 April 2022, https://www.cwgc.org/find-records/find-war-dead/casualty-details/2537430/sim-chin-foo/.
 
-[^40]: Hamzah Muzaini and Yeoh, Contested Memoryscapes, 94.
+[^40]: “Private Sim Chin Foo,” Commonwealth War Graves Commission, accessed 8 April 2022, https://www.cwgc.org/find-records/find-war-dead/casualty-details/2537430/sim-chin-foo/.
 
-[^41]: Hamzah Muzaini and Yeoh, Contested Memoryscapes, 94, 101–05.
+[^41]: Hamzah Muzaini and Yeoh, Contested Memoryscapes, 94.
+
+[^42]: Hamzah Muzaini and Yeoh, Contested Memoryscapes, 94, 101–05.
