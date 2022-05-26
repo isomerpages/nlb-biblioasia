@@ -207,6 +207,6 @@ The National Library of Singapore holds a small collection of personal documents
 
 [^40]: “Private Sim Chin Foo,” Commonwealth War Graves Commission, accessed 8 April 2022, https://www.cwgc.org/find-records/find-war-dead/casualty-details/2537430/sim-chin-foo/.
 
-[^41]: Hamzah Muzaini and Yeoh,* Contested Memoryscapes*, 94.
+[^41]: Hamzah Muzaini and Yeoh, [*Contested Memoryscapes*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202606087), 94.
 
-[^42]: Hamzah Muzaini and Yeoh, *Contested Memoryscapes*, 94, 101–05.
+[^42]: Hamzah Muzaini and Yeoh, [*Contested Memoryscapes*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202606087), 94, 101–05.
