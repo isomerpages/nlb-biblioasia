@@ -22,7 +22,7 @@ Located in the northwestern part of Singapore, the Kranji area became a military
 
 Kranji was a key battle site during the Japanese invasion. With the loss of Malaya, the retreating Allied units were redeployed in a new defence perimeter around Singapore. The 8th Australian Division, comprising the 22nd and 27th Brigades, was stationed to defend the northwestern coastline that became the initial battleground from 8 to 10 February 1942. Overstretched and outnumbered, the Australian troops bore the brunt of the initial Japanese assault. Of the 2,690 burials and inscriptions of missing Australian personnel at the cemetery, 519 have their date of death recorded as between 8 and 10 February 1942, suggesting that they fell in action during the opening battles. The location of the cemetery is thus significant considering that Kranji was where the war began and ended for many.[^4]
 
-![]()
+![](/images/Vol%2018%20Issue%202/Kranji%20War%20Memorial/map.png)
 <div style="background-color: white;"> Detail from a 1942 map of Singapore showing positions of the 22nd and 27th Brigades of the 8th Australian Division. <i>Image from Alamy Stock Photo.
  </i></div>
  
