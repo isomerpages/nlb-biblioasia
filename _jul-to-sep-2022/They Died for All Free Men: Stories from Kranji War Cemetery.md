@@ -100,4 +100,74 @@ The National Library of Singapore holds a small collection of personal documents
 	
 #### **NOTES**
 
-[^1]: Joan Bieder, ed., [*The Jews of Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12944221) (Singapore: Suntree Media, 2007), 29, 80–81. (From National Library, Singapore, Call no. RSING 959.57004924 BIE); Lisa Ginsburgh, “Worlds Apart in Singapore: A Jewish Family Story,” *Asian Jewish Life*, no. 15 (October 2014), https://asianjewishlife.org/pages/articles/AJL_Issue_15_Oct2014/AJL_Issue15_CoverStory_Worlds_Apart_in_Singapore.html; “[Death of Mr. A. Frankel](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19280528-1.2.21),” *Malaya Tribune*, 28 May 1928, 7. (From NewspaperSG) 
+[^1]: Justin Corfield and Robin Corfield, The Fall of Singapore: 90 Days: November 1941–February 1942 (Singapore: Talisman Publishing, 2012), 116–25. (From National Library, Singapore, call no. RSING 940.5425957 COR-[WAR])
+
+[^2]: “Corporal Raymond Lee Kim Teck,” Commonwealth War Graves Commission, accessed 31 Mar 2022, 
+https://www.cwgc.org/find-records/find-war-dead/casualty-details/2228809/raymond-lee-kim-teck/.
+
+[^3]: Romen Bose, Kranji: The Commonwealth War Cemetery and the Politics of the Dead (Singapore: Marshall Cavendish Editions, 2006), 21. (From National Library, Singapore, call no. RSING 940.54655957 BOS-[WAR])
+
+[^4]: Hamzah Muzaini and Brenda S. A. Yeoh, Contested Memoryscapes: The Politics of Second World War Commemoration in Singapore (London; New York: Routledge, Taylor & Francis Group, 2016), 98. (From National Library, call no. RSING 940.546095957 MUZ-WAR])
+
+[^5]: Bose, Kranji, 21.
+
+[^6]: Bose, Kranji, 33.
+
+[^7]: “Kranji War Cemetery,” Commonwealth War Graves Commission, accessed 8 April 2022, https://www.cwgc.org/visit-us/find-cemeteries-memorials/cemetery-details/2004200/kranji-war-cemetery/; Athanasios Tsakonas, “In Honour of War Heroes: The Legacy of Colin St Clair Oakes,” BiblioAsia 14, no. 3 (Oct–Dec 2018).
+
+[^8]: Edwin Gibson and G. Kingsley Ward, Courage Remembered: The Story Behind the Construction and Maintenance of the Commonwealth’s Military Cemeteries and Memorials of the Wars of 1914–1918 and 1939–1945 (London: Her Majesty’s Stationery Office, 1989), 66. (From National Library, Singapore, call no. RSING 355.1609 GIB)
+
+[^9]: Gibson and Ward, Courage Remembered, 66.
+
+[^10]: Wan Meng Hao, “More than Meets the Eye: Remembering the War Dead in Singapore,”  in Spaces of the Dead: A Case from the Living, ed. Kevin Tan (Singapore: Ethos Books, 2011), 239. (From National Library, Singapore, call no. RSING 363.75095957 SPA)  
+
+[^11]: Athanasios Tsakonas, In Honour of War Heroes: Colin St Clair Oakes and the Design of the Kranji War Memorial (Singapore: Marshall Cavendish Editions, 2020), 178. (From National Library, Singapore, call no. RSING 725.94095957 TSA)
+
+[^12]: “Kranji War Cemetery.”
+
+[^13]: “Kranji War Cemetery.”
+
+[^14]: Nor-Afidah A Rahman, Nureza Ahmad and Alec Soong, “Battle of Opium Hill,” in Singapore Infopedia. National Library Board Singapore. Article published March 2021. 
+
+[^15]: Dol Ramli, “History of the Malay Regiment 1933–1942,” Journal of the Malaysian Branch of the Royal Asiatic Society 38, no. 1 (207) (1965): 236. (From JSTOR via NLB’s eResources website)
+
+[^16]: Dol Ramli, “History of the Malay Regiment 1933–1942,” 238.
+
+[^17]: Dol Ramli, “History of the Malay Regiment 1933–1942,” 239.
+
+[^18]: “Captain Harry Rodway Rix,” Commonwealth War Graves Commission, accessed 8 April 2022, 
+https://www.cwgc.org/find-records/find-war-dead/casualty-details/2821290/harry-rodway-rix/.
+
+[^19]: Mubin Sheppard, The Malay Regiment 1933–1947 (Kuala Lumpur: Department of Public Relations, 1947), 18. (From National Library, Singapore, call no. RCLOS 355.31 SHE-[JSB])
+
+[^20]: “Second Lieutenant Geoffrey Francis Dixon Stephen,” Commonwealth War Graves Commission, accessed 8 April 2022, https://www.cwgc.org/find-records/find-war-dead/casualty-details/2072314/geoffrey-francis-dixon-stephen/.
+
+[^21]: “Death Before Dishonour,” Straits Times, 8 December 1991. (From NewspaperSG)
+
+[^22]: Dol Ramli, “History of the Malay Regiment 1933–1942,” 239.
+
+[^23]: Dol Ramli, “History of the Malay Regiment 1933–1942,” 242; “Second Lieutenant Adnan Bin Saidi,” Commonwealth War Graves Commission, accessed 8 April 2022, https://www.cwgc.org/find-records/find-war-dead/casualty-details/2529445/adnan-bin-saidi/.
+
+[^24]: Lynette Ramsay Silver, Krait: The Fishing Boat That Went to War (Singapore: Cultured Lotus, 2001), 97, 195. (From National Library, Singapore, call no. RSING 940.545994 SIL-[WAR]) 
+
+[^25]: Silver, Krait, 165. 
+
+[^26]: Silver, Krait, 49, 77. Silver, Krait, 81–83, 89–91. 
+
+[^27]: Bose, Kranji, 79–81; Petar Djokovic, “Krait and Operation JAYWICK,” Royal Australian Navy, accessed 8 April 2022, 
+https://www.navy.gov.au/history/feature-histories/krait-and-operation-jaywick.
+Silver, Krait, 89, 95–97. 
+Silver, Krait, 97–98; Heng Wong, “Double Tenth Incident,” in Singapore Infopedia. National Library Board Singapore. Article published March 2021. 
+Lynette Ramsay Silver, The Heroes of Rimau (Singapore: Cultured Lotus, 2001), 111. (From National Library, Singapore, call no. RSING 940.5426 SIL-[WAR]) 
+Bose, Kranji, 82; Silver, Heroes of Rimau, 108–09, 111–12, 117–20, 133–34.
+Silver, Heroes of Rimau, 142–46, 283; Bose, Kranji, 82–83.
+Bose, Kranji, 83; Silver, Heroes of Rimau, 154–55.
+Silver, Heroes of Rimau, 213–16.
+Silver, Heroes of Rimau, 248; Bose, Kranji, 87–88.
+Terry Pillay, “A Living Tribute to Heroes Who Have No Graves,” Sunday Tribune, 3 March 1957. (From NewspaperSG)
+Hamzah Muzaini and Yeoh, Contested Memoryscapes, 98–99.
+Nan Hall, “Thoughts of the Past Move 81-Year-Old War Heroine to Tears,” Straits Times, 3 March 1957; “Tragic Memories in a Garden of Peace,” Straits Times, 3 March 1957; “A Moving Dedication at New Shrine,” Singapore Free Press, 2 March 1957. (From NewspaperSG)
+“A Heroine Is Rewarded,” Straits Times, 25 July 1948. (From NewspaperSG)
+“Private Sim Chin Foo,” Commonwealth War Graves Commission, accessed 8 April 2022, https://www.cwgc.org/find-records/find-war-dead/casualty-details/2537430/sim-chin-foo/.
+Hamzah Muzaini and Yeoh, Contested Memoryscapes, 94.
+Hamzah Muzaini and Yeoh, Contested Memoryscapes, 94, 101–05.
