@@ -16,10 +16,6 @@ That air raid claimed 61 lives and injured 133. Among those who died was Corpora
 
 Located in the northwestern part of Singapore, the Kranji area became a military base in the 1930s and was a munitions depot before being converted into battalion headquarters for Australian troops after the Allied withdrawal from Singapore on 31 January 1942.[^3]
 
-![](/images/Vol%2018%20Issue%202/Kranji%20War%20Memorial/map.png)
-<div style="background-color: white;"> An aerial view of Kranji War Cemetery and the Singapore Memorial. <i>Photo by and courtesy of Weixiang Schrödinger Lim.
- </i></div>
-
 Kranji was a key battle site during the Japanese invasion. With the loss of Malaya, the retreating Allied units were redeployed in a new defence perimeter around Singapore. The 8th Australian Division, comprising the 22nd and 27th Brigades, was stationed to defend the northwestern coastline that became the initial battleground from 8 to 10 February 1942. Overstretched and outnumbered, the Australian troops bore the brunt of the initial Japanese assault. Of the 2,690 burials and inscriptions of missing Australian personnel at the cemetery, 519 have their date of death recorded as between 8 and 10 February 1942, suggesting that they fell in action during the opening battles. The location of the cemetery is thus significant considering that Kranji was where the war began and ended for many.[^4]
 
 ![](/images/Vol%2018%20Issue%202/Kranji%20War%20Memorial/map.png)
@@ -41,6 +37,10 @@ Beyond the graves, on the hill’s highest point, stands the Singapore Memorial 
 Four other commemorative panels stand around the Singapore Memorial. Located on the eastern terrace is the Singapore Civil Hospital Grave Memorial, which lists the names of 107 Commonwealth servicemen whose remains lie buried along with those of 300 civilians in a mass grave at the Singapore General Hospital. Situated behind the Singapore Memorial is the Singapore Cremation Memorial, which remembers some 800 casualties, mostly Indian soldiers, whose remains were cremated in accordance with their religious beliefs.[^12]
 
 The panel at the western end of the Singapore Memorial, known as the Singapore (Unmaintainable Graves) Memorial, is dedicated to more than 250 casualties who had died in campaigns in Singapore and Malaya, but whose known graves in civil cemeteries could not be assured maintenance by the CWGC and which could not be transferred to Kranji due to religious reasons.[^13] Nearby, the Chinese Memorial in Plot 44 marks a collective grave for 69 Chinese servicemen who were killed by the Japanese in February 1942.
+
+![](/images/Vol%2018%20Issue%202/Kranji%20War%20Memorial/Kranji%20Aerial%20Image_Weixiang_cropped_high%20res.png)
+<div style="background-color: white;"> An aerial view of Kranji War Cemetery and the Singapore Memorial. <i>Photo by and courtesy of Weixiang Schrödinger Lim.
+ </i></div>
 
 #### Soldiers of the Last Stand
 
