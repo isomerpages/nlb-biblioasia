@@ -8,7 +8,7 @@ third_nav_title: Stories from BiblioAsia
 ---
 #### Cabaret dancers like Rose Chan were famous. But what were their lives really like? Premieres on 26 May 2022.
 
-![Rose Chan](/images/Videos:%20BA%20Stories/into%20the%20night.jpg)
+<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src="https://www.youtube.com/embed/8xVBCOvj0sE" frameborder='0' allowfullscreen></iframe></div>
 
 Rose Chan was the best known of the women who worked in the cabarets in Singapore in the 1940s and 50s. In this documentary, her ex-boyfriend reveals what she was like as a person, while the daughter of a former cabaret girl talks about growing up in that milieu. 
 
