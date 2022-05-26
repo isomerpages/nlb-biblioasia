@@ -175,9 +175,9 @@ The National Library of Singapore holds a small collection of personal documents
 
 [^24]: Lynette Ramsay Silver, *Krait: The Fishing Boat That Went to War* (Singapore: Cultured Lotus, 2001), 97, 195. (From National Library, Singapore, call no. RSING 940.545994 SIL-[WAR]) 
 
-[^25]: Silver, Krait, 165. 
+[^25]: Silver, *Krait*, 165. 
 
-[^26]: Silver, Krait, 49, 77. Silver, Krait, 81–83, 89–91. 
+[^26]: Silver, *Krait*, 49, 77. Silver, *Krait*, 81–83, 89–91. 
 
 [^27]: Bose, Kranji, 79–81; Petar Djokovic, “Krait and Operation JAYWICK,” Royal Australian Navy, accessed 8 April 2022, https://www.navy.gov.au/history/feature-histories/krait-and-operation-jaywick.
 
