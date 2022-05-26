@@ -143,19 +143,19 @@ The National Library of Singapore holds a small collection of personal documents
 
 [^8]: Edwin Gibson and G. Kingsley Ward, *Courage Remembered: The Story Behind the Construction and Maintenance of the Commonwealth’s Military Cemeteries and Memorials of the Wars of 1914–1918 and 1939–1945* (London: Her Majesty’s Stationery Office, 1989), 66. (From National Library, Singapore, call no. RSING 355.1609 GIB)
 
-[^9]: Gibson and Ward, Courage Remembered, 66.
+[^9]: Gibson and Ward, *Courage Remembered*, 66.
 
-[^10]: Wan Meng Hao, “More than Meets the Eye: Remembering the War Dead in Singapore,”  in Spaces of the Dead: A Case from the Living, ed. Kevin Tan (Singapore: Ethos Books, 2011), 239. (From National Library, Singapore, call no. RSING 363.75095957 SPA)  
+[^10]: Wan Meng Hao, “More than Meets the Eye: Remembering the War Dead in Singapore,”  in *Spaces of the Dead: A Case from the Living*, ed. Kevin Tan (Singapore: Ethos Books, 2011), 239. (From National Library, Singapore, call no. RSING 363.75095957 SPA)  
 
-[^11]: Athanasios Tsakonas, In Honour of War Heroes: Colin St Clair Oakes and the Design of the Kranji War Memorial (Singapore: Marshall Cavendish Editions, 2020), 178. (From National Library, Singapore, call no. RSING 725.94095957 TSA)
+[^11]: Athanasios Tsakonas,* In Honour of War Heroes: Colin St Clair Oakes and the Design of the Kranji War Memorial* (Singapore: Marshall Cavendish Editions, 2020), 178. (From National Library, Singapore, call no. RSING 725.94095957 TSA)
 
 [^12]: “Kranji War Cemetery.”
 
 [^13]: “Kranji War Cemetery.”
 
-[^14]: Nor-Afidah A Rahman, Nureza Ahmad and Alec Soong, “Battle of Opium Hill,” in Singapore Infopedia. National Library Board Singapore. Article published March 2021. 
+[^14]: Nor-Afidah A Rahman, Nureza Ahmad and Alec Soong, “Battle of Opium Hill,” in *Singapore Infopedia*. National Library Board Singapore. Article published March 2021. 
 
-[^15]: Dol Ramli, “History of the Malay Regiment 1933–1942,” Journal of the Malaysian Branch of the Royal Asiatic Society 38, no. 1 (207) (1965): 236. (From JSTOR via NLB’s eResources website)
+[^15]: Dol Ramli, “History of the Malay Regiment 1933–1942,” *Journal of the Malaysian Branch of the Royal Asiatic Society* 38, no. 1 (207) (1965): 236. (From JSTOR via NLB’s eResources website)
 
 [^16]: Dol Ramli, “History of the Malay Regiment 1933–1942,” 238.
 
@@ -163,7 +163,7 @@ The National Library of Singapore holds a small collection of personal documents
 
 [^18]: “Captain Harry Rodway Rix,” Commonwealth War Graves Commission, accessed 8 April 2022, https://www.cwgc.org/find-records/find-war-dead/casualty-details/2821290/harry-rodway-rix/.
 
-[^19]: Mubin Sheppard, The Malay Regiment 1933–1947 (Kuala Lumpur: Department of Public Relations, 1947), 18. (From National Library, Singapore, call no. RCLOS 355.31 SHE-[JSB])
+[^19]: Mubin Sheppard, *The Malay Regiment 1933–1947* (Kuala Lumpur: Department of Public Relations, 1947), 18. (From National Library, Singapore, call no. RCLOS 355.31 SHE-[JSB])
 
 [^20]: “Second Lieutenant Geoffrey Francis Dixon Stephen,” Commonwealth War Graves Commission, accessed 8 April 2022, https://www.cwgc.org/find-records/find-war-dead/casualty-details/2072314/geoffrey-francis-dixon-stephen/.
 
