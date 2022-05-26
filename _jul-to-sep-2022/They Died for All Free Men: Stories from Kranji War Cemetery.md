@@ -16,6 +16,10 @@ That air raid claimed 61 lives and injured 133. Among those who died was Corpora
 
 Located in the northwestern part of Singapore, the Kranji area became a military base in the 1930s and was a munitions depot before being converted into battalion headquarters for Australian troops after the Allied withdrawal from Singapore on 31 January 1942.[^3]
 
+![](/images/Vol%2018%20Issue%202/Kranji%20War%20Memorial/Kranji%20Aerial%20Image_Weixiang_cropped_high%20res.png)
+<div style="background-color: white;"> An aerial view of Kranji War Cemetery and the Singapore Memorial. <i>Photo by and courtesy of Weixiang Schrödinger Lim.
+ </i></div>
+
 Kranji was a key battle site during the Japanese invasion. With the loss of Malaya, the retreating Allied units were redeployed in a new defence perimeter around Singapore. The 8th Australian Division, comprising the 22nd and 27th Brigades, was stationed to defend the northwestern coastline that became the initial battleground from 8 to 10 February 1942. Overstretched and outnumbered, the Australian troops bore the brunt of the initial Japanese assault. Of the 2,690 burials and inscriptions of missing Australian personnel at the cemetery, 519 have their date of death recorded as between 8 and 10 February 1942, suggesting that they fell in action during the opening battles. The location of the cemetery is thus significant considering that Kranji was where the war began and ended for many.[^4]
 
 Situated on a low hill overlooking the Strait of Johor, the cemetery started out as a small graveyard attached to a prisoner-of-war (POW) camp and makeshift hospital during the Japanese Occupation.[^5]
