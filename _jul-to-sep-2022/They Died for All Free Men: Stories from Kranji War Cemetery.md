@@ -90,6 +90,10 @@ The other 10 Rimau commandos were captured and incarcerated at Outram Road Priso
 
 Apart from the group of 10 men and Lyon (plot 27, row A, headstone 14), another two are buried in separate graves (plot 23, row D, headstone 19; and plot 32, row E, headstone 2) in Kranji, while four have their names etched on the Singapore Memorial (Columns 117 and 118). The remaining six lie in unmarked graves in the Riau Islands.[^35]
 
+![](/images/Vol%2018%20Issue%202/Kranji%20War%20Memorial/Tombstones.png)
+<div style="background-color: white;"> From left: The headstones of Corporal Raymond Lee Kim Teck of the Singapore Volunteer Corps, Lieutenant Colonel Ivan Lyon of the Gordon Highlanders and an unidentified sailor from the Royal Navy. <i>Photos by and courtesy of Janice Loo.
+ </i></div>
+
 #### Lest We Forget
 
 On 2 March 1957, before some 3,000 guests which included veterans and families of the war dead, then Governor of Singapore Robert Black unveiled the dedication tablet on the Singapore Memorial, which bears the phrase “They Died For All Free Men”. Timed to drumrolls, the draped flags on the memorial’s columns pulled away, revealing the engraved names of more than 24,000 missing personnel. In his speech, Black said: “That simple sentence [“They died for all free men”] tells us why this multitude of men and women of differing faiths and races, but united in the service of their King, were faithful unto death.”[^36] Black’s words hark to the origins of Kranji War Cemetery as an imperial site honouring those who had made the ultimate sacrifice in the name of the then British Empire.[^37]
