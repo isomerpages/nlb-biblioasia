@@ -187,7 +187,7 @@ The National Library of Singapore holds a small collection of personal documents
 
 [^30]: Lynette Ramsay Silver, [*The Heroes of Rimau*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10287278) (Singapore: Cultured Lotus, 2001), 111. (From National Library, Singapore, call no. RSING 940.5426 SIL-[WAR]) 
 
-[^31]: Bose, [*Kranji*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12666092), 82; Silver, [Heroes of Rimau](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10287278), 108–09, 111–12, 117–20, 133–34.
+[^31]: Bose, [*Kranji*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12666092), 82; Silver, [*Heroes of Rimau*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10287278), 108–09, 111–12, 117–20, 133–34.
 
 [^32]: Silver, *Heroes of Rimau*, 142–46, 283; Bose, *Kranji*, 82–83.
 
