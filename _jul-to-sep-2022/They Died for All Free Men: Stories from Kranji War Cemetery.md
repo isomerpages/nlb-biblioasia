@@ -127,23 +127,23 @@ The National Library of Singapore holds a small collection of personal documents
 	
 #### **NOTES**
 
-[^1]: Justin Corfield and Robin Corfield, *The Fall of Singapore: 90 Days: November 1941–February 1942* (Singapore: Talisman Publishing, 2012), 116–25. (From National Library, Singapore, call no. RSING 940.5425957 COR-[WAR])
+[^1]: Justin Corfield and Robin Corfield, [*The Fall of Singapore: 90 Days: November 1941–February 1942* ](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14296288)(Singapore: Talisman Publishing, 2012), 116–25. (From National Library, Singapore, call no. RSING 940.5425957 COR-[WAR])
 
 [^2]: “Corporal Raymond Lee Kim Teck,” Commonwealth War Graves Commission, accessed 31 Mar 2022, https://www.cwgc.org/find-records/find-war-dead/casualty-details/2228809/raymond-lee-kim-teck/.
 
-[^3]: Romen Bose, *Kranji: The Commonwealth War Cemetery and the Politics of the Dead* (Singapore: Marshall Cavendish Editions, 2006), 21. (From National Library, Singapore, call no. RSING 940.54655957 BOS-[WAR])
+[^3]: Romen Bose, [*Kranji: The Commonwealth War Cemetery and the Politics of the Dead* ](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12666092)(Singapore: Marshall Cavendish Editions, 2006), 21. (From National Library, Singapore, call no. RSING 940.54655957 BOS-[WAR])
 
-[^4]: Hamzah Muzaini and Brenda S. A. Yeoh, *Contested Memoryscapes: The Politics of Second World War Commemoration in Singapore* (London; New York: Routledge, Taylor & Francis Group, 2016), 98. (From National Library, call no. RSING 940.546095957 MUZ-WAR])
+[^4]: Hamzah Muzaini and Brenda S. A. Yeoh, [*Contested Memoryscapes: The Politics of Second World War Commemoration in Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202606087) (London; New York: Routledge, Taylor & Francis Group, 2016), 98. (From National Library, call no. RSING 940.546095957 MUZ-WAR])
 
-[^5]: Bose, *Kranji*, 21.
+[^5]: Bose, [*Kranji*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12666092), 21.
 
-[^6]: Bose, *Kranji*, 33.
+[^6]: Bose, [*Kranji*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12666092), 33.
 
-[^7]: “Kranji War Cemetery,” Commonwealth War Graves Commission, accessed 8 April 2022, https://www.cwgc.org/visit-us/find-cemeteries-memorials/cemetery-details/2004200/kranji-war-cemetery/; Athanasios Tsakonas, “In Honour of War Heroes: The Legacy of Colin St Clair Oakes,” *BiblioAsia* 14, no. 3 (Oct–Dec 2018).
+[^7]: “Kranji War Cemetery,” Commonwealth War Graves Commission, accessed 8 April 2022, https://www.cwgc.org/visit-us/find-cemeteries-memorials/cemetery-details/2004200/kranji-war-cemetery/; Athanasios Tsakonas, “[In Honour of War Heroes: The Legacy of Colin St Clair Oakes](https://biblioasia.nlb.gov.sg/vol-14/issue-3/oct-dec-2018/honour-of-war-heroes/),” *BiblioAsia* 14, no. 3 (Oct–Dec 2018).
 
-[^8]: Edwin Gibson and G. Kingsley Ward, *Courage Remembered: The Story Behind the Construction and Maintenance of the Commonwealth’s Military Cemeteries and Memorials of the Wars of 1914–1918 and 1939–1945* (London: Her Majesty’s Stationery Office, 1989), 66. (From National Library, Singapore, call no. RSING 355.1609 GIB)
+[^8]: Edwin Gibson and G. Kingsley Ward, [*Courage Remembered: The Story Behind the Construction and Maintenance of the Commonwealth’s Military Cemeteries and Memorials of the Wars of 1914–1918 and 1939–1945*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5228549) (London: Her Majesty’s Stationery Office, 1989), 66. (From National Library, Singapore, call no. RSING 355.1609 GIB)
 
-[^9]: Gibson and Ward, *Courage Remembered*, 66.
+[^9]: Gibson and Ward, [*Courage Remembered*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5228549), 66.
 
 [^10]: Wan Meng Hao, “More than Meets the Eye: Remembering the War Dead in Singapore,”  in *Spaces of the Dead: A Case from the Living*, ed. Kevin Tan (Singapore: Ethos Books, 2011), 239. (From National Library, Singapore, call no. RSING 363.75095957 SPA)  
 
