@@ -50,7 +50,21 @@ Second Lieutenant Adnan Saidi of C Company, who was himself badly hurt, exhorted
 
 In total, the Malay Regiment lost 159 lives (six British officers, seven Malay officers and 146 other ranks) during the battle at Pasir Panjang. Adnan and 26 other Malay soldiers who died during that battle, and whose bodies were never recovered, are commemorated on Columns 385 to 390 of the Singapore Memorial.[^23]
 
+#### The Commandos of Jaywick	 and Rimau
 
- 
+Among those buried in Kranji is Lieutenant Colonel Ivan Lyon of the Gordon Highlanders (a line infantry regiment of the British Army that existed from 1881 to 1994). In September 1943, Lyon, described as a “cool-headed, icy-calm and professional soldier”, led a team of 14 Australian and British commandos from Allied Z Special Unit in Operation Jaywick, a bold mission to sabotage Japanese ships in Singapore’s Keppel Harbour.[^24]
 
+On 2 September, the commandos departed Exmouth Harbour, Western Australia, in a captured Japanese fishing vessel, the Kofuku Maru. It had been repurposed and renamed Krait, after the small but deadly snake found in tropical Asia. Disguised as local fishermen, the men ditched their uniforms for sarongs and painted their bodies brown.[^25]
+
+Around two weeks later, on 18 September, Lyon and five operatives disembarked at Pulau Panjang in the Riau Islands. On 24 September, Lyon and his men set up on Pulau Subar, an uninhabited islet that served as an ideal observation post.[^26]
+
+Two nights later, the raiding party slipped undetected into Keppel Harbour and attached limpet mines (a type of naval mine attached to a target by magnets) to several Japanese ships.[^27] The charges went off on the morning of 27 September, reportedly sinking or severely damaging seven Japanese transport vessels, which amounted to some 37,000 tonnes of shipping. All 14 commandos managed to return safe and sound to Australia on 19 October 1942, 48 days after their journey began.[^28]
+
+Convinced that the attack was masterminded by internees at Changi Prison, the Kempeitai (Japanese military police) mounted a raid on the prison cells on 10 October 1943, leading to the arrest and torture of 57 innocents, 15 of whom died. This became known as the Double Tenth Incident.[29]
+
+Another raid – the ill-fated Operation Rimau – was planned the following year. The codename was inspired by the tattoo of a Malayan tiger (harimau is “tiger” in Malay) that Lyon had on his chest.[^30] This time, a larger team of 23 Z Special Unit commandos led by Lyon were dropped off via submarine in the Riau Islands. There, they seized a local fishing boat, the Mustika, and sailed it towards Singapore. The original plan was for the men to use motorised submersible canoes, known as “Sleeping Beauties”, to plant limpet mines on Japanese ships in Keppel Harbour once again.[^31]
+
+However, disaster struck as a Japanese patrol boat spotted and challenged the Mustika just an hour before the raid was to commence on the afternoon of 10 October 1944. As a result, Lyon aborted the raid and ordered the destruction of the Mustika and the “Sleeping Beauties”. Unwilling to give up just yet, he and six others pressed on with the mission using folboats (collapsible canoes) instead. It is believed that the raiding party destroyed three Japanese ships on 11 October before scattering.[^32]
+
+The Japanese caught up with the commandos and in the clashes that ensued, 13 men, including 29-year-old Lyon, were killed in action or succumbed to injuries while in captivity. Lyon died on 16 October from an enemy grenade during a shootout on Pulau Soreh, an islet in the Riau Islands. He and two other commandos had fought off nearly a hundred Japanese soldiers for over four hours until their positions were discovered.[^33]
 
