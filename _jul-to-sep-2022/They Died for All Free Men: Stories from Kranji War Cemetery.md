@@ -167,13 +167,13 @@ The National Library of Singapore holds a small collection of personal documents
 
 [^20]: “Second Lieutenant Geoffrey Francis Dixon Stephen,” Commonwealth War Graves Commission, accessed 8 April 2022, https://www.cwgc.org/find-records/find-war-dead/casualty-details/2072314/geoffrey-francis-dixon-stephen/.
 
-[^21]: “Death Before Dishonour,” Straits Times, 8 December 1991. (From NewspaperSG)
+[^21]: “Death Before Dishonour,” *Straits Times*, 8 December 1991. (From NewspaperSG)
 
 [^22]: Dol Ramli, “History of the Malay Regiment 1933–1942,” 239.
 
 [^23]: Dol Ramli, “History of the Malay Regiment 1933–1942,” 242; “Second Lieutenant Adnan Bin Saidi,” Commonwealth War Graves Commission, accessed 8 April 2022, https://www.cwgc.org/find-records/find-war-dead/casualty-details/2529445/adnan-bin-saidi/.
 
-[^24]: Lynette Ramsay Silver, Krait: The Fishing Boat That Went to War (Singapore: Cultured Lotus, 2001), 97, 195. (From National Library, Singapore, call no. RSING 940.545994 SIL-[WAR]) 
+[^24]: Lynette Ramsay Silver, *Krait: The Fishing Boat That Went to War* (Singapore: Cultured Lotus, 2001), 97, 195. (From National Library, Singapore, call no. RSING 940.545994 SIL-[WAR]) 
 
 [^25]: Silver, Krait, 165. 
 
