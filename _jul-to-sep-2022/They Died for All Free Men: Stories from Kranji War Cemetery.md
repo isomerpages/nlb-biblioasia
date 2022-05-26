@@ -197,13 +197,13 @@ The National Library of Singapore holds a small collection of personal documents
 
 [^35]: Silver, [*Heroes of Rimau*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10287278), 248; Bose, [*Kranji*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12666092), 87–88.
 
-[^36]: Terry Pillay, “A Living Tribute to Heroes Who Have No Graves,” *Sunday Tribune*, 3 March 1957. (From NewspaperSG)
+[^36]: Terry Pillay, “[A Living Tribute to Heroes Who Have No Graves](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/sundaystandard19570303-1.2.5),” *Sunday Tribune*, 3 March 1957. (From NewspaperSG)
 
-[^37]: Hamzah Muzaini and Yeoh, *Contested Memoryscapes*, 98–99.
+[^37]: Hamzah Muzaini and Yeoh, [*Contested Memoryscapes*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202606087), 98–99.
 
-[^38]: Nan Hall, “Thoughts of the Past Move 81-Year-Old War Heroine to Tears,” *Straits Times*, 3 March 1957; “Tragic Memories in a Garden of Peace,” *Straits Times*, 3 March 1957; “A Moving Dedication at New Shrine,” *Singapore Free Press*, 2 March 1957. (From NewspaperSG)
+[^38]: Nan Hall, “[Thoughts of the Past Move 81-Year-Old War Heroine to Tears](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19570303-1.2.6),” *Straits Times*, 3 March 1957; “[Tragic Memories in a Garden of Peace,” *Straits Times*, 3 March 1957; “A Moving Dedication at New Shrine](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19570303-1.2.2),” *Singapore Free Press*, 2 March 1957. (From NewspaperSG)
 
-[^39]: “A Heroine Is Rewarded,” *Straits Times*, 25 July 1948. (From NewspaperSG)
+[^39]: “[A Heroine Is Rewarded](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19480725-1.2.58),” *Straits Times*, 25 July 1948. (From NewspaperSG)
 
 [^40]: “Private Sim Chin Foo,” Commonwealth War Graves Commission, accessed 8 April 2022, https://www.cwgc.org/find-records/find-war-dead/casualty-details/2537430/sim-chin-foo/.
 
