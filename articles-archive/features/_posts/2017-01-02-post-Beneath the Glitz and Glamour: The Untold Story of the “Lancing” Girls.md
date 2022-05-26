@@ -10,7 +10,9 @@ description: These cabaret girls were better known for their risqué stage shows
 ---
 #### These cabaret girls were better known for their risqué stage shows, but some also donated generously to charity. **Adeline Foo** uncovers these women with hearts of gold.
 
-<div style="background-color: white;"><img style="width:550px" src="/images/Vol-12-issue-4/glitz-and-glamour/2-beneath_glitz_glamour.png"><br>A photo of five dance hostesses taken inside a cabaret in the 1930s. The women are dressed in figure-hugging cheongsams with daring side slits that showed off their legs. They were an obvious attraction for men with their artfully applied makeup and coiffured hair-dos. <i>Courtesy of Mr and Mrs Lee Kip Lee.</i></div>
+<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src="https://www.youtube.com/embed/8xVBCOvj0sE" frameborder='0' allowfullscreen></iframe></div>
+
+
 
 Who were the so-called “lancing” girls of yesteryear?[^1] They were the glamorous dance hostesses from the cabarets of the “Big Three” worlds of entertainment in Singapore – New World, Great World and Happy World (later renamed Gay World) – who made a living from “lancing”, a local mispronunciation of “dancing”.
 
@@ -86,12 +88,13 @@ A one-hour job that included a haircut, shampoo, shave and ear cleaning cost $2.
 The limited jobs for women in the 1950s included seamstresses, sales assistants, tour guides, cabaret singers and restaurant waitresses. Many also took to working privately as domestic servants and washerwomen. If a girl was educated, there were more options available to her, such as an office secretary or a private tutor. But many of these jobs didn’t pay as well as that of a cabaret girl. So if a woman was good looking and money was a motivation, dancing in the cabarets provided a means to quick and easy money. A cabaret girl could earn anything between $200 and $1,000 a month. In comparison, a senior clerk working in the government back in 1952 would only earn $280 a month.[^16]  Clearly, some women chose to work in the cabaret as dancing girls because it paid well and few employment opportunities were open to them.
 
 #### **The Glitz and Glamour of "Lancing" Girls**
+<div style="background-color: white;"><img style="width:550px" src="/images/Vol-12-issue-4/glitz-and-glamour/2-beneath_glitz_glamour.png"><br>A photo of five dance hostesses taken inside a cabaret in the 1930s. The women are dressed in figure-hugging cheongsams with daring side slits that showed off their legs. They were an obvious attraction for men with their artfully applied makeup and coiffured hair-dos. <i>Courtesy of Mr and Mrs Lee Kip Lee.</i></div>
 
 Looking good and well-groomed was part and parcel of the job of a “lancing” girl. Advertisements and pictures from newspapers published during the heyday of these cabarets provide a peek into the fashion sense of the show girls.
 
-<div style="background-color: white;"><img style="width:500px" src="/images/Vol-12-issue-4/glitz-and-glamour/5-beneath_glitz_glamour.jpg">A New World Cabaret advertisement in the 28 September 1940 edition of <i>The Straits Times</i> announcing the arrival of cabaret girl Poh Seow Chan from Hong Kong’s leading cabaret, Dance Palace. <i>The Straits Times, 28 September 1940, p. 2.</i></div>
-
 The cabaret girls were probably influenced by fashion trends gleaned from entertainment magazines. Like most women in Singapore, they would naturally look towards Shanghai and Hong Kong for inspiration, as these cities were acknowledged as leading fashion capitals of the time.
+
+<div style="background-color: white;"><img style="width:500px" src="/images/Vol-12-issue-4/glitz-and-glamour/5-beneath_glitz_glamour.jpg">A New World Cabaret advertisement in the 28 September 1940 edition of <i>The Straits Times</i> announcing the arrival of cabaret girl Poh Seow Chan from Hong Kong’s leading cabaret, Dance Palace. <i>The Straits Times, 28 September 1940, p. 2.</i></div>
 
 What did Chinese women wear in the 1920s? The *samfoo* (or *samfu*) was the preferred casual attire, comprising a cotton short-sleeved blouse with a Mandarin collar and frog-buttons, and a matching pair of trousers in the same material. By the 1930s, however, wealthy Chinese women in the upper social classes had turned to the *cheongsam* (which means “long dress” in Cantonese), also known as *qipao* in Mandarin, as their preferred dress.
 

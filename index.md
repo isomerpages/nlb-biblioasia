@@ -13,6 +13,24 @@ sections:
       button: A History of The Padang
       url: /vol-18/issue-1/apr-to-jun-2022/history-padang
   - infopic:
+      title: Into the Night
+      subtitle: "Video: stories from biblioasia"
+      description: "Cabaret dancers like Rose Chan were famous. But what were their
+        lives really like? "
+      button: Beneath the Glitz and Glamour
+      url: /videos/into-the-night
+      image: "/images/Videos: BA Stories/into the night.jpg"
+      alt: Cabaret dancers
+  - infopic:
+      title: The Story of Singapore’s Changing Wet Markets
+      subtitle: places
+      button: wet markets now and then
+      url: /vol-18/issue-1/apr-to-jun-2022/singapore-changing-wet-markets
+      image: /images/Vol 18 Issue 1/Highlight3.png
+      description: Wet markets have existed in Singapore since 1825. Zoe Yeo looks at
+        how these markets have changed over time.
+      alt: wet markets
+  - infopic:
       title: The Poet and the Night Train
       subtitle: "Video: Stories from BiblioAsia"
       description: "He writes Singapore’s first book-length poem, then vanishes from
@@ -88,25 +106,6 @@ sections:
       url: /vol-18/issue-1/apr-to-jun-2022/history-kandang-kerbau-hospital
       image: /images/Vol 18 Issue 1/KKH Hospital/19980001245 IMG0083.png
       alt: Kandang Kerbau Hospital
-  - infopic:
-      title: Eat More Wheat!
-      subtitle: "video: From Book to Cook"
-      description: Immature shrimp? Gourmet powder? Cookbook author Christopher Tan
-        overcomes vague instructions and unusual ingredients to produce
-        delicious handmade noodles.
-      button: the Eat More Wheat campaign
-      url: /videos/eat-more-wheat-campaign
-      image: "/images/Videos: From Book to Cook/Christoper Tan with Paddy.png"
-      alt: eat more wheat
-  - infopic:
-      title: The Story of Singapore’s Changing Wet Markets
-      subtitle: places
-      button: wet markets now and then
-      url: /vol-18/issue-1/apr-to-jun-2022/singapore-changing-wet-markets
-      image: /images/Vol 18 Issue 1/Highlight3.png
-      description: Wet markets have existed in Singapore since 1825. Zoe Yeo looks at
-        how these markets have changed over time.
-      alt: wet markets
   - infopic:
       title: "Flower Power: Singapore’s Orchid Diplomacy"
       subtitle: nature
