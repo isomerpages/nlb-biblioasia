@@ -189,13 +189,13 @@ The National Library of Singapore holds a small collection of personal documents
 
 [^31]: Bose, [*Kranji*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12666092), 82; Silver, [*Heroes of Rimau*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10287278), 108–09, 111–12, 117–20, 133–34.
 
-[^32]: Silver, *Heroes of Rimau*, 142–46, 283; Bose, *Kranji*, 82–83.
+[^32]: Silver, [*Heroes of Rimau*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10287278), 142–46, 283; Bose, *Kranji*, 82–83.
 
-[^33]: Bose, *Kranji*, 83; Silver, *Heroes of Rimau*, 154–55.
+[^33]: Bose, [*Kranji*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12666092), 83; Silver, [*Heroes of Rimau*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10287278), 154–55.
 
-[^34]: Silver, *Heroes of Rimau*, 213–16.
+[^34]: Silver, [*Heroes of Rimau*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10287278), 213–16.
 
-[^35]: Silver, *Heroes of Rimau*, 248; Bose, *Kranji*, 87–88.
+[^35]: Silver, [*Heroes of Rimau*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10287278), 248; Bose, [*Kranji*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12666092), 87–88.
 
 [^36]: Terry Pillay, “A Living Tribute to Heroes Who Have No Graves,” *Sunday Tribune*, 3 March 1957. (From NewspaperSG)
 
