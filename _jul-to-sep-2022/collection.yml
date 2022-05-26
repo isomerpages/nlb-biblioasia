@@ -1,4 +1,5 @@
 collections:
   jul-to-sep-2022:
     output: true
-    order: []
+    order:
+      - "They Died for All Free Men: Stories from Kranji War Cemetery.md"
