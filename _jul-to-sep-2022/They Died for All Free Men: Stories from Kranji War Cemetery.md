@@ -61,6 +61,9 @@ Second Lieutenant Adnan Saidi of C Company, who was himself badly hurt, exhorted
 
 In total, the Malay Regiment lost 159 lives (six British officers, seven Malay officers and 146 other ranks) during the battle at Pasir Panjang. Adnan and 26 other Malay soldiers who died during that battle, and whose bodies were never recovered, are commemorated on Columns 385 to 390 of the Singapore Memorial.[^23]
 
+![](/images/Vol%2018%20Issue%202/Kranji%20War%20Memorial/Adnan%20Saidi%20and%20other%20Malay%20Regiment%20war%20dead%20inscribed%20on%20Col%20385.png)
+<div style="background-color: white;"> Second Lieutenant Adnan Saidi and 26 other Malay soldiers from the Malay Regiment, whose bodies were never recovered, are commemorated on Columns 385 to 390 of the Singapore Memorial, 2022. <i>Photo by and courtesy of Janice Loo. </i></div>
+
 #### The Commandos of Jaywick	 and Rimau
 
 Among those buried in Kranji is Lieutenant Colonel Ivan Lyon of the Gordon Highlanders (a line infantry regiment of the British Army that existed from 1881 to 1994). In September 1943, Lyon, described as a “cool-headed, icy-calm and professional soldier”, led a team of 14 Australian and British commandos from Allied Z Special Unit in Operation Jaywick, a bold mission to sabotage Japanese ships in Singapore’s Keppel Harbour.[^24]
