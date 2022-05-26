@@ -90,3 +90,14 @@ The National Library of Singapore holds a small collection of personal documents
 <br><br>“Sergeant Gordon Laing,” Commonwealth War Graves Commission, accessed 8 April 2022, https://www.cwgc.org/find-records/find-war-dead/casualty-details/2136317/gordon-laing/.
 <br><br>“2/18th Australian Infantry Battalion,” Australian War Memorial, accessed 8 April 2022, https://www.awm.gov.au/collection/U56061.<br>
 </div>
+
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol%2018%20Issue%201/Authors/Asrina_Tanuri.png" style="width: 100px; height: 100px;"/>
+	<b>Janice Loo</b> is a Librarian with the National Library, Singapore. Her responsibilities include collection management and content development as well as research and reference assistance on topics relating to Singapore and Southeast Asia.</div>
+
+	
+	
+#### **NOTES**
+
+[^1]: Joan Bieder, ed., [*The Jews of Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12944221) (Singapore: Suntree Media, 2007), 29, 80–81. (From National Library, Singapore, Call no. RSING 959.57004924 BIE); Lisa Ginsburgh, “Worlds Apart in Singapore: A Jewish Family Story,” *Asian Jewish Life*, no. 15 (October 2014), https://asianjewishlife.org/pages/articles/AJL_Issue_15_Oct2014/AJL_Issue15_CoverStory_Worlds_Apart_in_Singapore.html; “[Death of Mr. A. Frankel](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19280528-1.2.21),” *Malaya Tribune*, 28 May 1928, 7. (From NewspaperSG) 
