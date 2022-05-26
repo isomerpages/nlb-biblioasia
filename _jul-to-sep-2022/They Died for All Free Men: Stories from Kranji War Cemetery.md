@@ -197,11 +197,11 @@ The National Library of Singapore holds a small collection of personal documents
 
 [^35]: Silver, *Heroes of Rimau*, 248; Bose, *Kranji*, 87–88.
 
-[^36]: Terry Pillay, “A Living Tribute to Heroes Who Have No Graves,” Sunday Tribune, 3 March 1957. (From NewspaperSG)
+[^36]: Terry Pillay, “A Living Tribute to Heroes Who Have No Graves,” *Sunday Tribune*, 3 March 1957. (From NewspaperSG)
 
-[^37]: Hamzah Muzaini and Yeoh, Contested Memoryscapes, 98–99.
+[^37]: Hamzah Muzaini and Yeoh, *Contested Memoryscapes*, 98–99.
 
-[^38]: Nan Hall, “Thoughts of the Past Move 81-Year-Old War Heroine to Tears,” Straits Times, 3 March 1957; “Tragic Memories in a Garden of Peace,” Straits Times, 3 March 1957; “A Moving Dedication at New Shrine,” Singapore Free Press, 2 March 1957. (From NewspaperSG)
+[^38]: Nan Hall, “Thoughts of the Past Move 81-Year-Old War Heroine to Tears,” *Straits Times*, 3 March 1957; “Tragic Memories in a Garden of Peace,” *Straits Times*, 3 March 1957; “A Moving Dedication at New Shrine,” *Singapore Free Press*, 2 March 1957. (From NewspaperSG)
 
 [^39]: “A Heroine Is Rewarded,” Straits Times, 25 July 1948. (From NewspaperSG)
 
