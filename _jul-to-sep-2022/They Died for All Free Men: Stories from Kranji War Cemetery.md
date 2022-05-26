@@ -68,3 +68,5 @@ However, disaster struck as a Japanese patrol boat spotted and challenged the Mu
 
 The Japanese caught up with the commandos and in the clashes that ensued, 13 men, including 29-year-old Lyon, were killed in action or succumbed to injuries while in captivity. Lyon died on 16 October from an enemy grenade during a shootout on Pulau Soreh, an islet in the Riau Islands. He and two other commandos had fought off nearly a hundred Japanese soldiers for over four hours until their positions were discovered.[^33]
 
+The other 10 Rimau commandos were captured and incarcerated at Outram Road Prison in Singapore, tried for espionage, and sentenced to death by beheading on 7 July 1945.[^34] Their remains rest in a collective grave in Kranji (plot 28, row A, headstones 1–10). 
+
