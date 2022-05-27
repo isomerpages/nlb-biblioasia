@@ -88,6 +88,8 @@ The emergence of the Hainanese-owned Daguerre Studio marked the gradual loosenin
 
 #### **Heading to War**
 
+As Japan stepped up its aggression in China, the Chinese communities in Singapore and Malaya responded with a series of boycotts against Japanese businesses. In June 1938, a Chinese couple who had patronised a Japanese photo studio at Kuala Lipis, Pahang, was nearly attacked by those who heard the news.[^40] In Singapore, Lim Ming Joon contributed to the anti-Japanese movement by photographing the fundraising efforts and the rallies organised by the Chinese community.[^41]
+
 
 
 #### **NOTES**
