@@ -127,7 +127,7 @@ https://eprints.soas.ac.uk/id/eprint/26662.
 
 [^15]: David Ng Shin Chong, oral history interview by Ang Siew Ghim, 11 June 1986, transcript and MP3 audio, Reel/Disc 13 of 13, 28:50, National Archives of Singapore (accession no. 000670), 136.
 
-[^16]: For a history of Lee Brothers Studio, see Gretchen Liu, “Portraits from the Lee Brothers Studio,” BiblioAsia 14, no. 1 (April–June 2018). [Note: In 1994, more than 2,500 excess or uncollected prints from Lee Brothers were donated to the National Archives of Singapore by Lee Hin Ming, the eldest son of Lee Poh Yan.]
+[^16]: For a history of Lee Brothers Studio, see Gretchen Liu, “Portraits from the Lee Brothers Studio,” *BiblioAsia* 14, no. 1 (April–June 2018). [Note: In 1994, more than 2,500 excess or uncollected prints from Lee Brothers were donated to the National Archives of Singapore by Lee Hin Ming, the eldest son of Lee Poh Yan.]
 
 [^17]: Ang, “Constructing Singapore Art History,” 240–41.
 
@@ -145,7 +145,7 @@ https://eprints.soas.ac.uk/id/eprint/26662.
 
 [^24]: David Ng Shin Chong, oral history interview by Ang Siew Ghim, 27 May 1986, transcript and MP3 audio, Reel/Disc 4 of 13, 29:26, National Archives of Singapore (accession no. 000670), 37–38.
 
-[^25]: 韩山元 [Han Tan Juan], 如何为三千人拍照 [“How to Take a Photograph for Three Thousand People”], 联合晚报 [Lianhe Wanbao], 18 August 1986, 8. (From NewspaperSG)
+[^25]: 韩山元 [Han Tan Juan], 如何为三千人拍照 [“How to Take a Photograph for Three Thousand People”], 联合晚报 [*Lianhe Wanbao*], 18 August 1986, 8. (From NewspaperSG)
 
 [^26]: Lim Ming Joon, oral history interview by Tan Beng Luan, 23 September 1983, transcript and MP3 audio, Reel/Disc 2 of 7, 28:07, National Archives of Singapore (accession no. 000334), 24–28; Lim Ming Joon, interview, 23 Sep 1983, Reel/Disc 3 of 7, 30–31.
 
@@ -153,7 +153,7 @@ https://eprints.soas.ac.uk/id/eprint/26662.
 
 [^28]: Lim Ming Joon, oral history interview by Tan Beng Luan, 30 September 1983, transcript and MP3 audio, Reel/Disc 1 of 7, 27:54, National Archives of Singapore (accession no. 000333), 5.
 
-[^29]: Song Chin Sing, ed., Passage of Time: Singapore Bookstore Stories 1881–2016 (Singapore: Chou Sing Chu Foundation, 2016), 162–65. (From National Library, Singapore, call no. RSING 070.5095957 CHO)
+[^29]: Song Chin Sing, ed., *Passage of Time: Singapore Bookstore Stories 1881–2016* (Singapore: Chou Sing Chu Foundation, 2016), 162–65. (From National Library, Singapore, call no. RSING 070.5095957 CHO)
 
 [^30]: Lim Ming Joon, interview, 23 Sep 1983, Reel/Disc 3 of 7, 35. 
 
