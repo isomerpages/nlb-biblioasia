@@ -76,6 +76,10 @@ Lim started taking in Hainanese apprentices, introduced by his relatives and fri
 
 In the early days, the overwhelming majority of Daguerre’s customers were Hainanese[^35], although there were also some Malay, Indian and British patrons. 
 
+The Chinese customers were mainly from the working class who liked to take pictures to send home to China. They would usually come in their Sunday best. If they were unprepared, Lim would lend them suits and neckties. The studio also prepared spectacles without lenses for customers who wanted to look more serious in their portraits. Lim and his customers were clearly mindful of the impression that these photos would have on loved ones in China. At the very least, the customers would not want to give the impression that they could not even afford nice clothes, having made the difficult decision to come to Singapore.[^36]
+
+Lim also took on wedding shoots. Before the war, the trend, at least for the Hainanese, was to host a banquet for family and friends at one of the many coffeeshops near the studio. Lim would take group pictures of the couple and the guests.[^37] Over time, Daguerre became well known for taking large group photos. These were often requested by schools, associations, guilds and unions, usually for the purpose of investiture, commemoration or graduation. 
+
 
 
 #### **NOTES**
