@@ -165,7 +165,7 @@ https://eprints.soas.ac.uk/id/eprint/26662.
 
 [^34]: Lim Ming Joon, oral history interview by Tan Beng Luan, 11 November 1983, transcript and MP3 audio, Reel/Disc 7 of 7, 26:58, National Archives of Singapore (accession no. 000334), 82–84.
 
-[^35]: 莫美颜 [Mok Mei Ngan], 海南人最早的照相馆 [“The First Photo Studio of the Hainanese”], 联合早报 [Lianhe Zaobao], 15 February 1998, 42. (From NewspaperSG)
+[^35]: 莫美颜 [Mok Mei Ngan], 海南人最早的照相馆 [“The First Photo Studio of the Hainanese”], 联合早报 [*Lianhe Zaobao*], 15 February 1998, 42. (From NewspaperSG)
 
 [^36]: Lim Ming Joon, interview, 23 Sep 1983, Reel/Disc 3 of 7, 36–38, 40-41.
 
