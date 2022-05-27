@@ -98,7 +98,7 @@ By the end of 1941, the famous Nakajima & Co. in Singapore was forced to close d
 
 [^1]: Regina Hong, Ling Xi Min and Naoko Shimazu, [*Postcard Impressions of Early 20th-century Singapore: Perspectives from the Japanese Community*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204353382) (Singapore: National Library Board, 2020), 115. (From National Library, Singapore, call no. RSING 959.57 HON-[HIS])
 
-[^2]: Mitsuharu Tsukuda, 馬來に於ける邦人活動の現況 (Marai ni okeru hōjin katsudō no genkyō) [Current Status of the Activities of the Japanese in Malaya] (Singapore: Nan'yō oyobi Nihonjinsha,1917), 37–48. (From Book SG; accession no. B29262852C). [Note: I would like to thank Mizuka Kimura and Miho Odaka for verifying my understanding of this source. This publication is part of the Lim Shao Bin Collection in the National Library, Singapore.]
+[^2]: Mitsuharu Tsukuda, 馬來に於ける邦人活動の現況 (*Marai ni okeru hōjin katsudō no genkyō*) [Current Status of the Activities of the Japanese in Malaya] (Singapore: Nan'yō oyobi Nihonjinsha,1917), 37–48. (From Book SG; accession no. B29262852C). [Note: I would like to thank Mizuka Kimura and Miho Odaka for verifying my understanding of this source. This publication is part of the Lim Shao Bin Collection in the National Library, Singapore.]
 
 [^3]: Rudy William Mosbergen, oral history interview by Pitt Kuan Wah, 19 September 2005, transcript and MP3 audio, Reel/Disc 1 of 7, 28:25, National Archives of Singapore (accession no. 002983), 3.
 
