@@ -80,7 +80,9 @@ The Chinese customers were mainly from the working class who liked to take pictu
 
 Lim also took on wedding shoots. Before the war, the trend, at least for the Hainanese, was to host a banquet for family and friends at one of the many coffeeshops near the studio. Lim would take group pictures of the couple and the guests.[^37] Over time, Daguerre became well known for taking large group photos. These were often requested by schools, associations, guilds and unions, usually for the purpose of investiture, commemoration or graduation. 
 
+Lim began honing his expertise before the war, when camera technology made it challenging to photograph large groups of people. The biggest group that Lim had worked with occurred after the war when he was invited to photograph members of the Malaysian Chinese Association at a national meeting in Seremban, Malaya. Lim spent nearly one hour trying to position some 3,300 people.[^38]
 
+Lim was still working and taking pictures at large gatherings in the 1980s. In a 1983 interview with the Straits Times he said: “There are fewer group pictures of hundreds of people these days. But there are enough jobs in the studio and outdoors to keep me busy. Some of my old-time clients include ministers and members of Parliament. They are surprised to see me still turning up at community centres and other functions for group pictures.”[^39]
 
 #### **NOTES**
 
