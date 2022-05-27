@@ -104,12 +104,12 @@ By the end of 1941, the famous Nakajima & Co. in Singapore was forced to close d
 
 [^4]: Rudy William Mosbergen, interview, 19 Sep 2005, Reel/Disc 1 of 7, 2, 6. 
 
-[^5]: “Japanese Go Out of Business,” Malaya Tribune, 6 December 1941, 3. (From NewspaperSG); Daphne Ang Ming Li, "Constructing Singapore Art History: Portraiture and the Development of Painting and Photography in Colonial Singapore (1819–1959)" (PhD thesis, London, SOAS, University of London, 2017), 316, 393, 
+[^5]: “Japanese Go Out of Business,” *Malaya Tribune*, 6 December 1941, 3. (From NewspaperSG); Daphne Ang Ming Li, "Constructing Singapore Art History: Portraiture and the Development of Painting and Photography in Colonial Singapore (1819–1959)" (PhD thesis, London, SOAS, University of London, 2017), 316, 393, 
 https://eprints.soas.ac.uk/id/eprint/26662.
 
-[^6]: “Page 13 Advertisements Column 1,” Straits Times, 21 February 1923, 13. (From NewspaperSG) 
+[^6]: “Page 13 Advertisements Column 1,” *Straits Times*, 21 February 1923, 13. (From NewspaperSG) 
 
-[^7]: For a brief introduction on the involvement of studio and amateur photographers in the Malaya Borneo Exhibition, see Zhuang Wubin, “Exhibiting Photography in Pre-war Singapore,” BiblioAsia 17, no. 3 (October–December 2021). 
+[^7]: For a brief introduction on the involvement of studio and amateur photographers in the Malaya Borneo Exhibition, see Zhuang Wubin, “Exhibiting Photography in Pre-war Singapore,” *BiblioAsia* 17, no. 3 (October–December 2021). 
 
 [^8]: “Page 16 Advertisements Column 1,” Straits Times, 24 November 1923, 16; “Page 5 Advertisements Column 3,” Malaya Tribune, 30 November 1923, 5. (From NewspaperSG)
 
