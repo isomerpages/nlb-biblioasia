@@ -97,3 +97,59 @@ By the end of 1941, the famous Nakajima & Co. in Singapore was forced to close d
 #### **NOTES**
 
 [^1]: Regina Hong, Ling Xi Min and Naoko Shimazu, [*Postcard Impressions of Early 20th-century Singapore: Perspectives from the Japanese Community*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204353382) (Singapore: National Library Board, 2020), 115. (From National Library, Singapore, call no. RSING 959.57 HON-[HIS])
+
+[^2]: Mitsuharu Tsukuda, 馬來に於ける邦人活動の現況 (Marai ni okeru hōjin katsudō no genkyō) [Current Status of the Activities of the Japanese in Malaya] (Singapore: Nan'yō oyobi Nihonjinsha,1917), 37–48. (From Book SG; accession no. B29262852C). [Note: I would like to thank Mizuka Kimura and Miho Odaka for verifying my understanding of this source. This publication is part of the Lim Shao Bin Collection in the National Library, Singapore.]
+
+[^3]: Rudy William Mosbergen, oral history interview by Pitt Kuan Wah, 19 September 2005, transcript and MP3 audio, Reel/Disc 1 of 7, 28:25, National Archives of Singapore (accession no. 002983), 3.
+
+[^4]: Rudy William Mosbergen, interview, 19 Sep 2005, Reel/Disc 1 of 7, 2, 6. 
+
+[^5]: “Japanese Go Out of Business,” Malaya Tribune, 6 December 1941, 3. (From NewspaperSG); Daphne Ang Ming Li, "Constructing Singapore Art History: Portraiture and the Development of Painting and Photography in Colonial Singapore (1819–1959)" (PhD thesis, London, SOAS, University of London, 2017), 316, 393, 
+https://eprints.soas.ac.uk/id/eprint/26662.
+
+[^6]: “Page 13 Advertisements Column 1,” Straits Times, 21 February 1923, 13. (From NewspaperSG) 
+
+[^7]: For a brief introduction on the involvement of studio and amateur photographers in the Malaya Borneo Exhibition, see Zhuang Wubin, “Exhibiting Photography in Pre-war Singapore,” BiblioAsia 17, no. 3 (October–December 2021). 
+
+[^8]: “Page 16 Advertisements Column 1,” Straits Times, 24 November 1923, 16; “Page 5 Advertisements Column 3,” Malaya Tribune, 30 November 1923, 5. (From NewspaperSG)
+
+[^9]: “Souvenir of Singapore,” Singapore Free Press and Mercantile Advertiser, 1 November 1932, 15; “A Christmas Shopping Guide,” Straits Times, 8 December 1935, 11; “A Christmas Shopping Guide,” Straits Times, 5 December 1937, 17. (From NewspaperSG)
+
+[^10]: 童子达 [Tong Zida], 新加坡各业调查 [Survey of Singapore’s Different Industries] (Singapore: The Chinese Industrial and Commercial Continuation School, 1928), 119. (From National Library, Singapore, call no. RRARE 650.58 TTT; microfilm no. NL9586)
+
+[^11]: 李香南 [Li Xiangnan], 照相馆业广东人称雄 [“Cantonese Dominate the Photo Studio Business”], 联合早报 [Lianhe Zaobao], 22 March 1998, 46; 秦长春 [Qin Changchun], 	新加坡照相业史话 [“A History of the Photographic Trade in Singapore”], 星洲日報 [Sin Chew Jit Poh], 7 July 1977, 16. (From NewspaperSG)
+
+[^12]: For a detailed biography of K.F. Wong, see Zhuang Wubin, “From the Archives: The Work of Photographer K.F. Wong,” BiblioAsia 15, no. 2 (July–September 2019). 
+
+[^13]: 房汉佳 [Fong Hon Kah] and 林韶华 [Lim Shau Hua], 		世界著名摄影家黄杰夫 [World Famous Photographer K.F. Wong] (福州:海潮摄影艺术出版社, 1995), 25. (Not available in NLB’s holdings)
+
+[^14]: Zhuang, “From the Archives: The Work of Photographer K.F. Wong.”
+David Ng Shin Chong, oral history interview by Ang Siew Ghim, 11 June 1986, transcript and MP3 audio, Reel/Disc 13 of 13, 28:50, National Archives of Singapore (accession no. 000670), 136.
+For a history of Lee Brothers Studio, see Gretchen Liu, “Portraits from the Lee Brothers Studio,” BiblioAsia 14, no. 1 (April–June 2018). [Note: In 1994, more than 2,500 excess or uncollected prints from Lee Brothers were donated to the National Archives of Singapore by Lee Hin Ming, the eldest son of Lee Poh Yan.]
+Ang, “Constructing Singapore Art History,” 240–41.
+Kiang Ai Kim (Mrs) @ Lee Peck Wan, oral history interview by Jesley Chua Chee Huan, 12 October 1995, MP3 audio, Reel/Disc 1 of 22, 30:10, National Archives of Singapore (accession no. 001698).
+It would be premature to discount, at this point, the possibility that Lee King Yan and Lee Poh Yan could also speak Malay. 
+Lee Hin Meng, oral history interview by Irene Quah, 17 May 1994, MP3 audio, Reel/Disc 1 of 3, 29:51, National Archives of Singapore (accession no. 001487).
+Lee Hin Meng, interview, 17 May 1984, Reel/Disc 1 of 3.  
+Wong Kum Fatt, oral history interview by Yao Souchou, 6 October 1984, transcript and MP3 audio, Reel/Disc 1 of 6, 27:56, National Archives of Singapore (accession no. 000474), 7.
+Elaine Chiew Peck Leng, “Self-Fashioning towards Modernity: Early Chinese Studio Photography of Chinese Women” (unpublished manuscript, 2021), PDF file. This manuscript is prepared for the fulfilment of the Singapore Chinese Cultural Centre grant. 
+David Ng Shin Chong, oral history interview by Ang Siew Ghim, 27 May 1986, transcript and MP3 audio, Reel/Disc 4 of 13, 29:26, National Archives of Singapore (accession no. 000670), 37–38.
+韩山元 [Han Tan Juan], 如何为三千人拍照 [“How to Take a Photograph for Three Thousand People”], 联合晚报 [Lianhe Wanbao], 18 August 1986, 8. (From NewspaperSG)
+Lim Ming Joon, oral history interview by Tan Beng Luan, 23 September 1983, transcript and MP3 audio, Reel/Disc 2 of 7, 28:07, National Archives of Singapore (accession no. 000334), 24–28; Lim Ming Joon, interview, 23 Sep 1983, Reel/Disc 3 of 7, 30–31.
+Lim Ming Joon, interview, 23 Sep 1983, Reel/Disc 3 of 7, 34.
+Lim Ming Joon, oral history interview by Tan Beng Luan, 30 September 1983, transcript and MP3 audio, Reel/Disc 1 of 7, 27:54, National Archives of Singapore (accession no. 000333), 5.
+Song Chin Sing, ed., Passage of Time: Singapore Bookstore Stories 1881–2016 (Singapore: Chou Sing Chu Foundation, 2016), 162–65. (From National Library, Singapore, call no. RSING 070.5095957 CHO)
+Lim Ming Joon, interview, 23 Sep 1983, Reel/Disc 3 of 7, 35. 
+Lim Ming Joon, interview 23 Sep 1983, Reel/Disc 4 of 7, 44.
+Lim Ming Joon, oral history interview by Tan Beng Luan, 14 October 1983, transcript and MP3 audio, Reel/Disc 4 of 7, 27:38, National Archives of Singapore (accession no. 000333), 49.
+Lim Seng @ Lim Tow Tuan, oral history interview by Tan Beng Luan, 28 December 1983, transcript and MP3 audio, Reel/Disc 2 of 8, 27:53, National Archives of Singapore (accession no. 000089), 12–15.
+Lim Ming Joon, oral history interview by Tan Beng Luan, 11 November 1983, transcript and MP3 audio, Reel/Disc 7 of 7, 26:58, National Archives of Singapore (accession no. 000334), 82–84.
+莫美颜 [Mok Mei Ngan], 海南人最早的照相馆 [“The First Photo Studio of the Hainanese”], 联合早报 [Lianhe Zaobao], 15 February 1998, 42. (From NewspaperSG)
+Lim Ming Joon, interview, 23 Sep 1983, Reel/Disc 3 of 7, 36–38, 40-41.
+Lim Ming Joon, interview, 23 Sep 1983, Reel/Disc 3 of 7, 36.
+Wang 王振春 [Wang Zhenchun], 话说密驼路 [Speaking of Middle Road] (Singapore: Xinhua Cultural Enterprises, 2021), 103. (From National Library, Singapore, call no. Chinese RSING 959.57 WZC-[HIS]); Han, 如何为三千人拍照.  
+Teo Han Wue, “Lim’s in a World of His Own,” Straits Times, 20 June 1983, Section Three, 1. (From NewspaperSG)
+到敌人照相馆拍照 立卑一对男女几遭痛惩 		[“A Couple at Lipis was Almost Severely Punished for Having Their Portrait Taken at the Enemy’s Photo Studio”], 	南洋商报 [Nanyang Siang Pau], 26 June 1938, 10. (From NewspaperSG)
+Lim Ming Joon, interview, 30 Sep 1983, Reel/Disc 1 of 7, 9.
+Lim Ming Joon, interview, 30 Sep 1983, Reel/Disc 1 of 7, 5.
+“Japanese Go Out of Business.”
