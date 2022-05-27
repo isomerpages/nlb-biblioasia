@@ -177,7 +177,7 @@ The National Library of Singapore holds a small collection of personal documents
 
 [^25]: Silver, [*Krait*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10287275), 165. 
 
-[^26]: Silver, [*Krait*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10287275), 49, 77. Silver, [*Krait*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10287275), 81–83, 89–91. 
+[^26]: Silver, [*Krait*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10287275), 81–83, 89–91. 
 
 [^27]: Bose, [*Kranji*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12666092), 79–81; Petar Djokovic, “Krait and Operation JAYWICK,” Royal Australian Navy, accessed 8 April 2022, https://www.navy.gov.au/history/feature-histories/krait-and-operation-jaywick.
 
