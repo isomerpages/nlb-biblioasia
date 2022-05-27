@@ -44,6 +44,8 @@ One of the most famous Cantonese photo studios in Singapore was the Lee Brothers
 
 Lee Shui Loon (1864–1935), also known as Lee Yin Fun, was the most senior member of the family to sink roots locally, prompting art historian Daphne Ang to call him the “godfather of photography in Singapore”.[^17] He established Yong Fong, which was active as early as 1908, along South Bridge Road, just across from Mosque Street.[^18]
 
+Lee Shui Loon’s nephews, Lee King Yan and Lee Poh Yan, who set up Lee Brothers, were effectively bilingual, speaking Cantonese at home and using English, if necessary, at work.[^19] Their command of English enabled them to serve a different class of clientele by setting up shop on Hill Street, in the business district in around 1908.[^20] Soon after, Lee Brothers became “one of the most expensive studios in Singapore”.[^21]
+
 
 
 
