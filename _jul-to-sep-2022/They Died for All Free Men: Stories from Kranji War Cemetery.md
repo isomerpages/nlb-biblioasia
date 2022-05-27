@@ -69,7 +69,7 @@ In total, the Malay Regiment lost 159 lives (six British officers, seven Malay o
 Among those buried in Kranji is Lieutenant Colonel Ivan Lyon of the Gordon Highlanders (a line infantry regiment of the British Army that existed from 1881 to 1994). In September 1943, Lyon, described as a “cool-headed, icy-calm and professional soldier”, led a team of 14 Australian and British commandos from Allied Z Special Unit in Operation Jaywick, a bold mission to sabotage Japanese ships in Singapore’s Keppel Harbour.[^24]
 
 ![](/images/Vol%2018%20Issue%202/Kranji%20War%20Memorial/P00986_001--2-.png)
-<div style="background-color: white;"> Australian and British commandos from Allied Z Special Unit on board the *Krait* en route to Singapore to sabotage Japanese shipping at Keppel Harbour, 1943. Ivan Lyon is in the back row, third from the left. <i>Australian War Commission, accession no. P00986.001.
+<div style="background-color: white;"> Australian and British commandos from Allied Z Special Unit on board the <i>Krait</i> en route to Singapore to sabotage Japanese shipping at Keppel Harbour, 1943. Ivan Lyon is in the back row, third from the left. <i>Australian War Commission, accession no. P00986.001.
  </i></div>
 
 On 2 September, the commandos departed Exmouth Harbour, Western Australia, in a captured Japanese fishing vessel, the *Kofuku Maru*. It had been repurposed and renamed *Krait*, after the small but deadly snake found in tropical Asia. Disguised as local fishermen, the men ditched their uniforms for sarongs and painted their bodies brown.[^25]
