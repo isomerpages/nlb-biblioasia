@@ -54,7 +54,7 @@ Despite the studio’s proximity to the Hokkien community, it was frequented mos
 
 It is unlikely that these divisions were strictly observed in practice, especially among non-Cantonese customers at the lower end of the economic spectrum. If people needed to have their formal portraits taken, they would inevitably have to patronise the Cantonese studios, unlike more affluent customers who enjoyed the luxury of choice. 
 
-Some aspiring non-Cantonese photographers managed to enter the trade despite the barriers of dialect and family.[^23] David Ng Shin Chong, the Hakka photographer mentioned previously, started out as an apprentice at Natural Studio on North Bridge Road. The studio was owned by a Cantonese-Teochew couple. Since it was located within the Hainanese enclave, they had a lot of Hainanese customers although people from other dialect groups also patronised the studio.[^24] By 1939, Ng had joined the 
+Some aspiring non-Cantonese photographers managed to enter the trade despite the barriers of dialect and family.[^23] David Ng Shin Chong, the Hakka photographer mentioned previously, started out as an apprentice at Natural Studio on North Bridge Road. The studio was owned by a Cantonese-Teochew couple. Since it was located within the Hainanese enclave, they had a lot of Hainanese customers although people from other dialect groups also patronised the studio.[^24] By 1939, Ng had joined the Cantonese-owned Fee Fee Photographic Store, which traded in photographic supplies and provided developing and printing services.
 
 
 #### **NOTES**
