@@ -113,11 +113,11 @@ https://eprints.soas.ac.uk/id/eprint/26662.
 
 [^8]: “Page 16 Advertisements Column 1,” *Straits Times*, 24 November 1923, 16; “Page 5 Advertisements Column 3,” Malaya Tribune, 30 November 1923, 5. (From NewspaperSG)
 
-[^9]: “Souvenir of Singapore,” *Singapore Free Press and Mercantile Advertiser*, 1 November 1932, 15; “A Christmas Shopping Guide,” Straits Times, 8 December 1935, 11; “A Christmas Shopping Guide,” Straits Times, 5 December 1937, 17. (From NewspaperSG)
+[^9]: “Souvenir of Singapore,” *Singapore Free Press and Mercantile Advertiser*, 1 November 1932, 15; “A Christmas Shopping Guide,” *Straits Times*, 8 December 1935, 11; “A Christmas Shopping Guide,” *Straits Times*, 5 December 1937, 17. (From NewspaperSG)
 
-[^10]: 童子达 [Tong Zida], 新加坡各业调查 [Survey of Singapore’s Different Industries] (Singapore: The Chinese Industrial and Commercial Continuation School, 1928), 119. (From National Library, Singapore, call no. RRARE 650.58 TTT; microfilm no. NL9586)
+[^10]: 童子达 [Tong Zida], 新加坡各业调查 [*Survey of Singapore’s Different Industries*] (Singapore: The Chinese Industrial and Commercial Continuation School, 1928), 119. (From National Library, Singapore, call no. RRARE 650.58 TTT; microfilm no. NL9586)
 
-[^11]: 李香南 [Li Xiangnan], 照相馆业广东人称雄 [“Cantonese Dominate the Photo Studio Business”], 联合早报 [Lianhe Zaobao], 22 March 1998, 46; 秦长春 [Qin Changchun], 	新加坡照相业史话 [“A History of the Photographic Trade in Singapore”], 星洲日報 [Sin Chew Jit Poh], 7 July 1977, 16. (From NewspaperSG)
+[^11]: 李香南 [Li Xiangnan], 照相馆业广东人称雄 [“Cantonese Dominate the Photo Studio Business”], 联合早报 [*Lianhe Zaobao*], 22 March 1998, 46; 秦长春 [Qin Changchun], 	新加坡照相业史话 [“A History of the Photographic Trade in Singapore”], 星洲日報 [Sin Chew Jit Poh], 7 July 1977, 16. (From NewspaperSG)
 
 [^12]: For a detailed biography of K.F. Wong, see Zhuang Wubin, “From the Archives: The Work of Photographer K.F. Wong,” BiblioAsia 15, no. 2 (July–September 2019). 
 
