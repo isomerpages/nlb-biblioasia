@@ -12,7 +12,7 @@ It was shortly after 4 am on 8 December 1941 when 17 Japanese naval bombers took
 
 That air raid claimed 61 lives and injured 133. Among those who died was Corporal Raymond Lee Kim Teck of the Straits Settlements Volunteer Force. His remains (plot 36, row E, headstone 12) rest among the graves of other Commonwealth casualties from the war on the tranquil grounds of the Kranji War Cemetery.[^2]
 
-#### Kranji and the Battle for Singapore
+#### **Kranji and the Battle for Singapore**
 
 Located in the northwestern part of Singapore, the Kranji area became a military base in the 1930s and was a munitions depot before being converted into battalion headquarters for Australian troops after the Allied withdrawal from Singapore on 31 January 1942.[^3]
 
@@ -42,7 +42,7 @@ The panel at the western end of the Singapore Memorial, known as the Singapore (
 <div style="background-color: white;"> An aerial view of Kranji War Cemetery and the Singapore Memorial. <i>Photo by and courtesy of Weixiang Schrödinger Lim.
  </i></div>
 
-#### Soldiers of the Last Stand
+#### **Soldiers of the Last Stand**
 
 A total of 264 soldiers from the Malay Regiment are honoured at the Kranji War Cemetery. During the Battle of Singapore, the Malay Regiment – comprising some 1,400 men in two battalions – were part of the 1st Malaya Brigade tasked to defend Pasir Panjang on the southwestern part of the island.[^14]
 
@@ -64,7 +64,7 @@ In total, the Malay Regiment lost 159 lives (six British officers, seven Malay o
 ![](/images/Vol%2018%20Issue%202/Kranji%20War%20Memorial/Adnan%20Saidi%20and%20other%20Malay%20Regiment%20war%20dead%20inscribed%20on%20Col%20385.png)
 <div style="background-color: white;"> Second Lieutenant Adnan Saidi and 26 other Malay soldiers from the Malay Regiment, whose bodies were never recovered, are commemorated on Columns 385 to 390 of the Singapore Memorial, 2022. <i>Photo by and courtesy of Janice Loo. </i></div>
 
-#### The Commandos of Jaywick	 and Rimau
+#### **The Commandos of Jaywick	 and Rimau**
 
 Among those buried in Kranji is Lieutenant Colonel Ivan Lyon of the Gordon Highlanders (a line infantry regiment of the British Army that existed from 1881 to 1994). In September 1943, Lyon, described as a “cool-headed, icy-calm and professional soldier”, led a team of 14 Australian and British commandos from Allied Z Special Unit in Operation Jaywick, a bold mission to sabotage Japanese ships in Singapore’s Keppel Harbour.[^24]
 
@@ -94,7 +94,7 @@ Apart from the group of 10 men and Lyon (plot 27, row A, headstone 14), another 
 <div style="background-color: white;"> From left: The headstones of Corporal Raymond Lee Kim Teck of the Singapore Volunteer Corps, Lieutenant Colonel Ivan Lyon of the Gordon Highlanders and an unidentified sailor from the Royal Navy. <i>Photos by and courtesy of Janice Loo.
  </i></div>
 
-#### Lest We Forget
+#### **Lest We Forget**
 
 On 2 March 1957, before some 3,000 guests which included veterans and families of the war dead, then Governor of Singapore Robert Black unveiled the dedication tablet on the Singapore Memorial, which bears the phrase “They Died For All Free Men”. Timed to drumrolls, the draped flags on the memorial’s columns pulled away, revealing the engraved names of more than 24,000 missing personnel. In his speech, Black said: “That simple sentence [“They died for all free men”] tells us why this multitude of men and women of differing faiths and races, but united in the service of their King, were faithful unto death.”[^36] Black’s words hark to the origins of Kranji War Cemetery as an imperial site honouring those who had made the ultimate sacrifice in the name of the then British Empire.[^37]
 
