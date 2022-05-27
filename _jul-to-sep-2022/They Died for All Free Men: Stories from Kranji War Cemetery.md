@@ -78,7 +78,7 @@ Around two weeks later, on 18 September, Lyon and five operatives disembarked at
 
 Two nights later, the raiding party slipped undetected into Keppel Harbour and attached limpet mines (a type of naval mine attached to a target by magnets) to several Japanese ships.[^27] The charges went off on the morning of 27 September, reportedly sinking or severely damaging seven Japanese transport vessels, which amounted to some 37,000 tonnes of shipping. All 14 commandos managed to return safe and sound to Australia on 19 October 1942, 48 days after their journey began.[^28]
 
-Convinced that the attack was masterminded by internees at Changi Prison, the Kempeitai (Japanese military police) mounted a raid on the prison cells on 10 October 1943, leading to the arrest and torture of 57 innocents, 15 of whom died. This became known as the Double Tenth Incident.[29]
+Convinced that the attack was masterminded by internees at Changi Prison, the Kempeitai (Japanese military police) mounted a raid on the prison cells on 10 October 1943, leading to the arrest and torture of 57 innocents, 15 of whom died. This became known as the Double Tenth Incident.[^29]
 
 Another raid – the ill-fated Operation Rimau – was planned the following year. The codename was inspired by the tattoo of a Malayan tiger (*harimau* is “tiger” in Malay) that Lyon had on his chest.[^30] This time, a larger team of 23 Z Special Unit commandos led by Lyon were dropped off via submarine in the Riau Islands. There, they seized a local fishing boat, the *Mustika*, and sailed it towards Singapore. The original plan was for the men to use motorised submersible canoes, known as “Sleeping Beauties”, to plant limpet mines on Japanese ships in Keppel Harbour once again.[^31]
 
