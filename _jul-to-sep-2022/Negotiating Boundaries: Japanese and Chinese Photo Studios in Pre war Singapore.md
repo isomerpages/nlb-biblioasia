@@ -177,6 +177,8 @@ https://eprints.soas.ac.uk/id/eprint/26662.
 
 [^40]: 到敌人照相馆拍照 立卑一对男女几遭痛惩 		[“A Couple at Lipis was Almost Severely Punished for Having Their Portrait Taken at the Enemy’s Photo Studio”], 	南洋商报 [Nanyang Siang Pau], 26 June 1938, 10. (From NewspaperSG)
 
-Lim Ming Joon, interview, 30 Sep 1983, Reel/Disc 1 of 7, 9.
-Lim Ming Joon, interview, 30 Sep 1983, Reel/Disc 1 of 7, 5.
-“Japanese Go Out of Business.”
+[^41]: Lim Ming Joon, interview, 30 Sep 1983, Reel/Disc 1 of 7, 9.
+
+[^42]: Lim Ming Joon, interview, 30 Sep 1983, Reel/Disc 1 of 7, 5.
+
+[^43]: “Japanese Go Out of Business.”
