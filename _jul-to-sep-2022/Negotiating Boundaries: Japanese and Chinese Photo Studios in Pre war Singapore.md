@@ -146,25 +146,32 @@ https://eprints.soas.ac.uk/id/eprint/26662.
 [^24]: David Ng Shin Chong, oral history interview by Ang Siew Ghim, 27 May 1986, transcript and MP3 audio, Reel/Disc 4 of 13, 29:26, National Archives of Singapore (accession no. 000670), 37–38.
 
 [^25]: 韩山元 [Han Tan Juan], 如何为三千人拍照 [“How to Take a Photograph for Three Thousand People”], 联合晚报 [Lianhe Wanbao], 18 August 1986, 8. (From NewspaperSG)
-Lim Ming Joon, oral history interview by Tan Beng Luan, 23 September 1983, transcript and MP3 audio, Reel/Disc 2 of 7, 28:07, National Archives of Singapore (accession no. 000334), 24–28; Lim Ming Joon, interview, 23 Sep 1983, Reel/Disc 3 of 7, 30–31.
 
-[^26]: Lim Ming Joon, interview, 23 Sep 1983, Reel/Disc 3 of 7, 34.
+[^26]: Lim Ming Joon, oral history interview by Tan Beng Luan, 23 September 1983, transcript and MP3 audio, Reel/Disc 2 of 7, 28:07, National Archives of Singapore (accession no. 000334), 24–28; Lim Ming Joon, interview, 23 Sep 1983, Reel/Disc 3 of 7, 30–31.
 
-[^27]: Lim Ming Joon, oral history interview by Tan Beng Luan, 30 September 1983, transcript and MP3 audio, Reel/Disc 1 of 7, 27:54, National Archives of Singapore (accession no. 000333), 5.
+[^27]: Lim Ming Joon, interview, 23 Sep 1983, Reel/Disc 3 of 7, 34.
 
-[^28]: Song Chin Sing, ed., Passage of Time: Singapore Bookstore Stories 1881–2016 (Singapore: Chou Sing Chu Foundation, 2016), 162–65. (From National Library, Singapore, call no. RSING 070.5095957 CHO)
+[^28]: Lim Ming Joon, oral history interview by Tan Beng Luan, 30 September 1983, transcript and MP3 audio, Reel/Disc 1 of 7, 27:54, National Archives of Singapore (accession no. 000333), 5.
 
-[^29]: Lim Ming Joon, interview, 23 Sep 1983, Reel/Disc 3 of 7, 35. 
+[^29]: Song Chin Sing, ed., Passage of Time: Singapore Bookstore Stories 1881–2016 (Singapore: Chou Sing Chu Foundation, 2016), 162–65. (From National Library, Singapore, call no. RSING 070.5095957 CHO)
 
-[^30]: Lim Ming Joon, interview 23 Sep 1983, Reel/Disc 4 of 7, 44.
+[^30]: Lim Ming Joon, interview, 23 Sep 1983, Reel/Disc 3 of 7, 35. 
 
-[^31]: Lim Ming Joon, oral history interview by Tan Beng Luan, 14 October 1983, transcript and MP3 audio, Reel/Disc 4 of 7, 27:38, National Archives of Singapore (accession no. 000333), 49.
-Lim Seng @ Lim Tow Tuan, oral history interview by Tan Beng Luan, 28 December 1983, transcript and MP3 audio, Reel/Disc 2 of 8, 27:53, National Archives of Singapore (accession no. 000089), 12–15.
-Lim Ming Joon, oral history interview by Tan Beng Luan, 11 November 1983, transcript and MP3 audio, Reel/Disc 7 of 7, 26:58, National Archives of Singapore (accession no. 000334), 82–84.
-莫美颜 [Mok Mei Ngan], 海南人最早的照相馆 [“The First Photo Studio of the Hainanese”], 联合早报 [Lianhe Zaobao], 15 February 1998, 42. (From NewspaperSG)
-Lim Ming Joon, interview, 23 Sep 1983, Reel/Disc 3 of 7, 36–38, 40-41.
-Lim Ming Joon, interview, 23 Sep 1983, Reel/Disc 3 of 7, 36.
-Wang 王振春 [Wang Zhenchun], 话说密驼路 [Speaking of Middle Road] (Singapore: Xinhua Cultural Enterprises, 2021), 103. (From National Library, Singapore, call no. Chinese RSING 959.57 WZC-[HIS]); Han, 如何为三千人拍照.  
+[^31]: Lim Ming Joon, interview 23 Sep 1983, Reel/Disc 4 of 7, 44.
+
+[^32]: Lim Ming Joon, oral history interview by Tan Beng Luan, 14 October 1983, transcript and MP3 audio, Reel/Disc 4 of 7, 27:38, National Archives of Singapore (accession no. 000333), 49.
+
+[^33]: Lim Seng @ Lim Tow Tuan, oral history interview by Tan Beng Luan, 28 December 1983, transcript and MP3 audio, Reel/Disc 2 of 8, 27:53, National Archives of Singapore (accession no. 000089), 12–15.
+
+[^34]: Lim Ming Joon, oral history interview by Tan Beng Luan, 11 November 1983, transcript and MP3 audio, Reel/Disc 7 of 7, 26:58, National Archives of Singapore (accession no. 000334), 82–84.
+
+[^35]: 莫美颜 [Mok Mei Ngan], 海南人最早的照相馆 [“The First Photo Studio of the Hainanese”], 联合早报 [Lianhe Zaobao], 15 February 1998, 42. (From NewspaperSG)
+
+[^36]: Lim Ming Joon, interview, 23 Sep 1983, Reel/Disc 3 of 7, 36–38, 40-41.
+
+[^37]: Lim Ming Joon, interview, 23 Sep 1983, Reel/Disc 3 of 7, 36.
+
+[^38]: Wang 王振春 [Wang Zhenchun], 话说密驼路 [Speaking of Middle Road] (Singapore: Xinhua Cultural Enterprises, 2021), 103. (From National Library, Singapore, call no. Chinese RSING 959.57 WZC-[HIS]); Han, 如何为三千人拍照.  
 Teo Han Wue, “Lim’s in a World of His Own,” Straits Times, 20 June 1983, Section Three, 1. (From NewspaperSG)
 到敌人照相馆拍照 立卑一对男女几遭痛惩 		[“A Couple at Lipis was Almost Severely Punished for Having Their Portrait Taken at the Enemy’s Photo Studio”], 	南洋商报 [Nanyang Siang Pau], 26 June 1938, 10. (From NewspaperSG)
 Lim Ming Joon, interview, 30 Sep 1983, Reel/Disc 1 of 7, 9.
