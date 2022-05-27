@@ -22,7 +22,7 @@ Growing up on Queen Street, Mosbergen was neighbours with some of them, but did 
 
 In the decades prior to World War II, nearly every town in Malaya had at least one Japanese studio. In Singapore, Nakajima & Co., established by S. Nakajima, was the most famous Japanese-owned studio then and was active at least since the start of the 1920s. The *Malaya Tribune* described it as “the best of the photographic establishments in Singapore”.[^5]
 
-Headquartered in Kuala Lumpur, an advertisement in the Straits Times in 1923 indicated that the studio had opened a branch on Orchard Road in Singapore. It offered the services of “developing, printing, enlarging for amateurs”, and provided outdoor photography for prospective clients. Besides the sale of photographic supplies such as film and glass plates, Nakajima & Co. also offered postcards and views of Malaya.[^6]
+Headquartered in Kuala Lumpur, an advertisement in the *Straits Times* in 1923 indicated that the studio had opened a branch on Orchard Road in Singapore. It offered the services of “developing, printing, enlarging for amateurs”, and provided outdoor photography for prospective clients. Besides the sale of photographic supplies such as film and glass plates, Nakajima & Co. also offered postcards and views of Malaya.[^6]
 
 Nakajima’s photographs had earlier appeared in the souvenir guide of the Malaya Borneo Exhibition, the colonial spectacle held in Singapore in 1922.[^7] His contributions include, among others, a photograph of the Orang Asli, or aborigines, of the Malay Peninsula using their blowpipes and an image of locals weaving sarong. 
 
