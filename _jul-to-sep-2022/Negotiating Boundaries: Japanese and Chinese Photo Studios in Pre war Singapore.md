@@ -21,4 +21,4 @@ Growing up on Queen Street, Mosbergen was neighbours with some of them, but did 
 
 #### **NOTES**
 
-[^1]: Regina Hong, Ling Xi Min and Naoko Shimazu, [Postcard Impressions of Early 20th-century Singapore: Perspectives from the Japanese Community](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204353382) (Singapore: National Library Board, 2020), 115. (From National Library, Singapore, call no. RSING 959.57 HON-[HIS])
+[^1]: Regina Hong, Ling Xi Min and Naoko Shimazu, [*Postcard Impressions of Early 20th-century Singapore: Perspectives from the Japanese Community*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204353382) (Singapore: National Library Board, 2020), 115. (From National Library, Singapore, call no. RSING 959.57 HON-[HIS])
