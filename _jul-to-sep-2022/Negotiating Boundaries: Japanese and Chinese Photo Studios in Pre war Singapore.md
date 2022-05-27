@@ -12,3 +12,13 @@ description: ""
 In the 19th century, British and European firms such as Sachtler & Co. and G.R. Lambert & Co. dominated the photography business in Singapore and Malaya. But by the onset of the 20th century, Chinese and Japanese practitioners had made their presence felt in the trade.  At the time, there were visible and invisible lines segregating the colonial society according to social class, race, ethnicity and dialect group. These dividing lines, in turn, affected those who worked in the photographic trade or patronised the photo studios, requiring them to negotiate these boundaries according to evolving situations.  
 
 #### **Mapping Japanese Studios**
+
+According to a 1910 census by the Japanese government, there were 1,215 Japanese residents in Singapore. The community operated three photographic businesses that involved seven men and six women.[^1] A 1917 publication, 馬來に於ける邦人活動の現況 (Marai ni okeru hōjin katsudō no genkyō; Current Status of the Activities of the Japanese in Malaya), included a listing of Japanese businesses in Malaya, with eight separate entries relating to the photographic trade in Singapore. Four were photo studios while two other entries each listed an individual photographer, one with the “specialisation of going out to photograph”. It is possible that both photographers also maintained a photo studio each. The remaining two entries were traders of photographic supplies and equipment.[^2]
+
+Many of these Japanese businesses were located within the vicinity of what founding principal of Raffles Junior college, Rudolf (Rudy) William Mosbergen, had called “Little Japan” in Singapore, using it to highlight the Japanese presence along Middle Road, Queen Street, Prinsep Street and Selegie Road.[^3]
+
+Growing up on Queen Street, Mosbergen was neighbours with some of them, but did not mingle much. “There was no relationship because first, I didn’t speak Japanese. And they were very insular people – they didn’t mix very much with us,” he said. Mosbergen also recalled several photo studios along Middle Road and North Bridge Road, including some very good Japanese ones. He still owned a photo taken by one such studio. 
+
+#### **NOTES**
+
+[^1]: Justin Corfield and Robin Corfield, [*The Fall of Singapore: 90 Days: November 1941–February 1942* ](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14296288)(Singapore: Talisman Publishing, 2012), 116–25. (From National Library, Singapore, call no. RSING 940.5425957 COR-[WAR])
