@@ -125,19 +125,31 @@ https://eprints.soas.ac.uk/id/eprint/26662.
 
 [^14]: Zhuang, “From the Archives: The Work of Photographer K.F. Wong.”
 David Ng Shin Chong, oral history interview by Ang Siew Ghim, 11 June 1986, transcript and MP3 audio, Reel/Disc 13 of 13, 28:50, National Archives of Singapore (accession no. 000670), 136.
-For a history of Lee Brothers Studio, see Gretchen Liu, “Portraits from the Lee Brothers Studio,” BiblioAsia 14, no. 1 (April–June 2018). [Note: In 1994, more than 2,500 excess or uncollected prints from Lee Brothers were donated to the National Archives of Singapore by Lee Hin Ming, the eldest son of Lee Poh Yan.]
-Ang, “Constructing Singapore Art History,” 240–41.
-Kiang Ai Kim (Mrs) @ Lee Peck Wan, oral history interview by Jesley Chua Chee Huan, 12 October 1995, MP3 audio, Reel/Disc 1 of 22, 30:10, National Archives of Singapore (accession no. 001698).
-It would be premature to discount, at this point, the possibility that Lee King Yan and Lee Poh Yan could also speak Malay. 
-Lee Hin Meng, oral history interview by Irene Quah, 17 May 1994, MP3 audio, Reel/Disc 1 of 3, 29:51, National Archives of Singapore (accession no. 001487).
-Lee Hin Meng, interview, 17 May 1984, Reel/Disc 1 of 3.  
-Wong Kum Fatt, oral history interview by Yao Souchou, 6 October 1984, transcript and MP3 audio, Reel/Disc 1 of 6, 27:56, National Archives of Singapore (accession no. 000474), 7.
-Elaine Chiew Peck Leng, “Self-Fashioning towards Modernity: Early Chinese Studio Photography of Chinese Women” (unpublished manuscript, 2021), PDF file. This manuscript is prepared for the fulfilment of the Singapore Chinese Cultural Centre grant. 
-David Ng Shin Chong, oral history interview by Ang Siew Ghim, 27 May 1986, transcript and MP3 audio, Reel/Disc 4 of 13, 29:26, National Archives of Singapore (accession no. 000670), 37–38.
-韩山元 [Han Tan Juan], 如何为三千人拍照 [“How to Take a Photograph for Three Thousand People”], 联合晚报 [Lianhe Wanbao], 18 August 1986, 8. (From NewspaperSG)
+
+[^15]: For a history of Lee Brothers Studio, see Gretchen Liu, “Portraits from the Lee Brothers Studio,” BiblioAsia 14, no. 1 (April–June 2018). [Note: In 1994, more than 2,500 excess or uncollected prints from Lee Brothers were donated to the National Archives of Singapore by Lee Hin Ming, the eldest son of Lee Poh Yan.]
+
+[^16]: Ang, “Constructing Singapore Art History,” 240–41.
+
+[^17]: Kiang Ai Kim (Mrs) @ Lee Peck Wan, oral history interview by Jesley Chua Chee Huan, 12 October 1995, MP3 audio, Reel/Disc 1 of 22, 30:10, National Archives of Singapore (accession no. 001698).
+
+[^18]: It would be premature to discount, at this point, the possibility that Lee King Yan and Lee Poh Yan could also speak Malay. 
+
+[^19]: Lee Hin Meng, oral history interview by Irene Quah, 17 May 1994, MP3 audio, Reel/Disc 1 of 3, 29:51, National Archives of Singapore (accession no. 001487).
+
+[^20]: Lee Hin Meng, interview, 17 May 1984, Reel/Disc 1 of 3.  
+
+[^21]: Wong Kum Fatt, oral history interview by Yao Souchou, 6 October 1984, transcript and MP3 audio, Reel/Disc 1 of 6, 27:56, National Archives of Singapore (accession no. 000474), 7.
+
+[^22]: Elaine Chiew Peck Leng, “Self-Fashioning towards Modernity: Early Chinese Studio Photography of Chinese Women” (unpublished manuscript, 2021), PDF file. This manuscript is prepared for the fulfilment of the Singapore Chinese Cultural Centre grant. 
+
+[^23]: David Ng Shin Chong, oral history interview by Ang Siew Ghim, 27 May 1986, transcript and MP3 audio, Reel/Disc 4 of 13, 29:26, National Archives of Singapore (accession no. 000670), 37–38.
+
+[^24]: 韩山元 [Han Tan Juan], 如何为三千人拍照 [“How to Take a Photograph for Three Thousand People”], 联合晚报 [Lianhe Wanbao], 18 August 1986, 8. (From NewspaperSG)
 Lim Ming Joon, oral history interview by Tan Beng Luan, 23 September 1983, transcript and MP3 audio, Reel/Disc 2 of 7, 28:07, National Archives of Singapore (accession no. 000334), 24–28; Lim Ming Joon, interview, 23 Sep 1983, Reel/Disc 3 of 7, 30–31.
-Lim Ming Joon, interview, 23 Sep 1983, Reel/Disc 3 of 7, 34.
-Lim Ming Joon, oral history interview by Tan Beng Luan, 30 September 1983, transcript and MP3 audio, Reel/Disc 1 of 7, 27:54, National Archives of Singapore (accession no. 000333), 5.
+
+[^25]: Lim Ming Joon, interview, 23 Sep 1983, Reel/Disc 3 of 7, 34.
+
+[^126]: Lim Ming Joon, oral history interview by Tan Beng Luan, 30 September 1983, transcript and MP3 audio, Reel/Disc 1 of 7, 27:54, National Archives of Singapore (accession no. 000333), 5.
 Song Chin Sing, ed., Passage of Time: Singapore Bookstore Stories 1881–2016 (Singapore: Chou Sing Chu Foundation, 2016), 162–65. (From National Library, Singapore, call no. RSING 070.5095957 CHO)
 Lim Ming Joon, interview, 23 Sep 1983, Reel/Disc 3 of 7, 35. 
 Lim Ming Joon, interview 23 Sep 1983, Reel/Disc 4 of 7, 44.
