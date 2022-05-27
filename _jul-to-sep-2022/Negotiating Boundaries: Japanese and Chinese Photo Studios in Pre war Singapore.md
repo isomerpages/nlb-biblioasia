@@ -38,6 +38,12 @@ In the first half of the 20th century, the Chinese photographic trade was domina
 
 In 1935, a young and motivated Wong Ken Foo (more popularly known as K.F. Wong; 1916–98), who was born in Sibu, Sarawak, arrived in Singapore.[^12] He had set his eyes on Brilliant Studio on South Bridge Road and offered to work as an apprentice for three years without pay. His offer was rejected, ostensibly because Wong was of Henghua descent while the studio was owned by a prominent Cantonese.[^13] (Wong subsequently became famous for his photographs of the indigenous Dayak peoples of Sarawak.[^14])
 
+David Ng Shin Chong (b. 1919, Singapore), a Hakka photographer who began his apprenticeship in the photographic trade in 1938, noted that “[t]he situation in the past was different. Everyone [photo studio owners] was more selfish, secretive”.[^15]
+
+One of the most famous Cantonese photo studios in Singapore was the Lee Brothers Studio, established by Lee King Yan (1877–1957) and Lee Poh Yan (1884–1960). The brothers were part of the extended Lee family, who was originally from the Nanhai district in Guangdong province. Much has been written about the chain of photo studios that the family had opened in Singapore, Malaya and Java. In Singapore, the family was responsible for establishing Yong Fong, Lee Brothers and Eastern Studio, among others.[^16]
+
+Lee Shui Loon (1864–1935), also known as Lee Yin Fun, was the most senior member of the family to sink roots locally, prompting art historian Daphne Ang to call him the “godfather of photography in Singapore”.[^17] He established Yong Fong, which was active as early as 1908, along South Bridge Road, just across from Mosque Street.[^18]
+
 
 
 
