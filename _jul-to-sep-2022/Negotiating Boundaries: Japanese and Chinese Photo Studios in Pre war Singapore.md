@@ -64,6 +64,17 @@ Lim worked as a cook for almost a decade before becoming a photographer. One of 
 
 Lim could communicate with the Japanese photographer because both of them spoke Malay.[^27] Later on, when Lim expressed his intention to open his own studio, the Japanese even helped him design and install the lights for free. (It was not possible to buy readymade lights at the time.[^28])
 
+Lim’s photo studio tapped into the broader Hainanese network of cultural ties, kinship and business interests to facilitate its existence and survival. It was initially sited within the premises of China Book Company on North Bridge Road, which was owned by four Hainanese brothers from the Foo family.[^29] The bookstore was located in the area where the majority of the Hainanese lived, worked and congregated, overlapping Little Japan. Middle Road, for instance, was colloquially known to the Chinese as “Hainan first street”.
+
+ Business picked up quickly and in less than a year, Daguerre Studio moved to a third-floor unit along Middle Road. One day, an aged Japanese photographer turned up at the studio. Apparently, he used to rent the same unit to run his studio and was curious to find out who had taken over the space. Over time, the two men became good friends.  
+ 
+Although he had largely retired from the profession, the Japanese photographer still had a contract with the Police Depot off Thomson Road. Hence, whenever he needed to replenish his glass plate negatives, he would buy these from Daguerre. Later, when he realised that the Japanese invasion was imminent, he gave the police contract to Lim and tried to leave Singapore. However, he was arrested by the British authorities and exiled to India.[^30]
+
+Daguerre Studio was opened from 8 am to 9 pm daily. Lim was the main photographer and he had four people working with him, including a darkroom specialist and a re-toucher.[^31] They were all Hainanese and related to one another in terms of family or clan.[^32]
+
+Lim started taking in Hainanese apprentices, introduced by his relatives and friends. His nephew Lim Tow Tuan (b. 1916 in Hainan) arrived in Singapore in 1941 to work as an unpaid apprentice.[^33] According to Lim Ming Joon, his former employees and apprentices subsequently went on to open eight photo studios in Singapore, Johor Bahru, Brunei and North Borneo.[^34]
+
+
 
 #### **NOTES**
 
