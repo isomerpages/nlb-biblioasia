@@ -113,7 +113,7 @@ https://eprints.soas.ac.uk/id/eprint/26662.
 
 [^8]: “Page 16 Advertisements Column 1,” *Straits Times*, 24 November 1923, 16; “Page 5 Advertisements Column 3,” Malaya Tribune, 30 November 1923, 5. (From NewspaperSG)
 
-[^9]: “Souvenir of Singapore,” Singapore Free Press and Mercantile Advertiser, 1 November 1932, 15; “A Christmas Shopping Guide,” Straits Times, 8 December 1935, 11; “A Christmas Shopping Guide,” Straits Times, 5 December 1937, 17. (From NewspaperSG)
+[^9]: “Souvenir of Singapore,” *Singapore Free Press and Mercantile Advertiser*, 1 November 1932, 15; “A Christmas Shopping Guide,” Straits Times, 8 December 1935, 11; “A Christmas Shopping Guide,” Straits Times, 5 December 1937, 17. (From NewspaperSG)
 
 [^10]: 童子达 [Tong Zida], 新加坡各业调查 [Survey of Singapore’s Different Industries] (Singapore: The Chinese Industrial and Commercial Continuation School, 1928), 119. (From National Library, Singapore, call no. RRARE 650.58 TTT; microfilm no. NL9586)
 
