@@ -62,6 +62,7 @@ Daguerre Studio was the first Hainanese-owned studio to open in Singapore during
 
 Lim worked as a cook for almost a decade before becoming a photographer. One of his employers, an Armenian, had given him his first camera and for the next few years, Lim taught himself photography through reading and practice, using his savings to upgrade his equipment. By the time Lim thought of opening a studio, he had already bought a second-hand camera for $80 from Eastern Studio (established by Lee King Yan in 1922) and taken some wedding photos for his friends. At the time, there was a Japanese photographer who owned a studio in Katong. Lim wanted to be his apprentice, but the owner required him to pay a monthly fee of $15. The fee was too steep, and Lim attempted to bargain with him. The owner then asked to see his camera, prints and negatives. After inspecting his work, the owner was suitably impressed and allowed Lim to be his apprentice for free. For the next three to four months, Lim would go to the studio from around 1 pm to 3 pm each day while juggling his work as a cook.[^26]
 
+Lim could communicate with the Japanese photographer because both of them spoke Malay.[^27] Later on, when Lim expressed his intention to open his own studio, the Japanese even helped him design and install the lights for free. (It was not possible to buy readymade lights at the time.[^28])
 
 
 #### **NOTES**
