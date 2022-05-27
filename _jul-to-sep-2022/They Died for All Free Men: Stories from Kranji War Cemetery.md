@@ -155,7 +155,7 @@ The National Library of Singapore holds a small collection of personal documents
 
 [^14]: Nor-Afidah A Rahman, Nureza Ahmad and Alec Soong, “[Battle of Opium Hill](https://eresources.nlb.gov.sg/infopedia/articles/SIP_457_2005-01-04.html),” in *Singapore Infopedia*. National Library Board Singapore. Article published March 2021. 
 
-[^15]: Dol Ramli, “History of the Malay Regiment 1933–1942,” *Journal of the Malaysian Branch of the Royal Asiatic Society* 38, no. 1 (207) (1965): 236. (From JSTOR via NLB’s eResources website)
+[^15]: Dol Ramli, “History of the Malay Regiment 1933–1942,” *Journal of the Malaysian Branch of the Royal Asiatic Society* 38, no. 1 (207) (1965): 236. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website)
 
 [^16]: Dol Ramli, “History of the Malay Regiment 1933–1942,” 238.
 
