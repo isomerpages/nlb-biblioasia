@@ -32,7 +32,7 @@ Nakajima & Co. was often commissioned to take photographs of social functions an
 
 #### **Chinese Studios and the 	Cantonese Dominance**
 
-According to a Chinese-language directory, 新加坡各业调查 [Survey of Singapore’s Different Industries], published in 1928, there were 18 Chinese-owned photo studios in Singapore at the time. There were also four Chinese companies in 1922 dealing in photographic supplies and materials.[^10]
+According to a Chinese-language directory, 新加坡各业调查 [*Survey of Singapore’s Different Industries*], published in 1928, there were 18 Chinese-owned photo studios in Singapore at the time. There were also four Chinese companies in 1922 dealing in photographic supplies and materials.[^10]
 
 In the first half of the 20th century, the Chinese photographic trade was dominated mainly by the Cantonese.[^11] Like other Chinese businesses, the proprietors of photo studios tended to hire relatives as well as people from the same dialect group. The owners would zealously guard photographic knowhow and would not readily divulge their trade secrets to outsiders.
 
@@ -82,7 +82,7 @@ Lim also took on wedding shoots. Before the war, the trend, at least for the Hai
 
 Lim began honing his expertise before the war, when camera technology made it challenging to photograph large groups of people. The biggest group that Lim had worked with occurred after the war when he was invited to photograph members of the Malaysian Chinese Association at a national meeting in Seremban, Malaya. Lim spent nearly one hour trying to position some 3,300 people.[^38]
 
-Lim was still working and taking pictures at large gatherings in the 1980s. In a 1983 interview with the Straits Times he said: “There are fewer group pictures of hundreds of people these days. But there are enough jobs in the studio and outdoors to keep me busy. Some of my old-time clients include ministers and members of Parliament. They are surprised to see me still turning up at community centres and other functions for group pictures.”[^39]
+Lim was still working and taking pictures at large gatherings in the 1980s. In a 1983 interview with the *Straits Times* he said: “There are fewer group pictures of hundreds of people these days. But there are enough jobs in the studio and outdoors to keep me busy. Some of my old-time clients include ministers and members of Parliament. They are surprised to see me still turning up at community centres and other functions for group pictures.”[^39]
 
 The emergence of the Hainanese-owned Daguerre Studio marked the gradual loosening of Cantonese dominance in the photographic trade of Singapore. Its establishment was made possible, partly through the help of Japanese photographers. Soon, more Hainanese photo studios began opening. One reason for the survival and longevity of Chinese photo studios was the myriad of Chinese associations and institutions in Singapore and Malaya, which provided a constant source of work and revenue for these studios.
 
