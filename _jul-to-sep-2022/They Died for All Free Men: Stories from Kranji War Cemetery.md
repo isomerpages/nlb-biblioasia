@@ -189,7 +189,7 @@ The National Library of Singapore holds a small collection of personal documents
 
 [^31]: Bose, [*Kranji*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12666092), 82; Silver, [*Heroes of Rimau*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10287278), 108–09, 111–12, 117–20, 133–34.
 
-[^32]: Silver, [*Heroes of Rimau*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10287278), 142–46, 283; Bose, *Kranji*, 82–83.
+[^32]: Silver, [*Heroes of Rimau*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10287278), 142–46, 283; Bose, [*Kranji*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12666092), 82–83.
 
 [^33]: Bose, [*Kranji*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12666092), 83; Silver, [*Heroes of Rimau*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10287278), 154–55.
 
