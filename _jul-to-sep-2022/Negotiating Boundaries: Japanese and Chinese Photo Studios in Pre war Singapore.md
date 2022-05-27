@@ -92,7 +92,7 @@ As Japan stepped up its aggression in China, the Chinese communities in Singapor
 
 One day, the Japanese photographer who first helped Lim enter the trade came to see him. He knew it was time to leave Singapore but as he still had quite a lot of photographic equipment left, he hoped to sell these to Lim. Even though Lim considered the Japanese man his friend, he declined the offer. Lim knew that if the purchase was subsequently discovered, he would suffer the fate of having his ears cut off. In the end, Lim found a Peranakan (Straits Chinese) buyer for his old friend.[^42]
 
-
+By the end of 1941, the famous Nakajima & Co. in Singapore was forced to close down. The Malaya Tribune lamented its closure and commented that the “incident” (Japanese invasion) in China had “gradually weaned clients away from Japanese photographers”.[^43] On 8 December 1941, two days after the article was published, the first bombs fell on Singapore.
 
 #### **NOTES**
 
