@@ -18,7 +18,28 @@ According to a 1910 census by the Japanese government, there were 1,215 Japanese
 
 Many of these Japanese businesses were located within the vicinity of what founding principal of Raffles Junior college, Rudolf (Rudy) William Mosbergen, had called “Little Japan” in Singapore, using it to highlight the Japanese presence along Middle Road, Queen Street, Prinsep Street and Selegie Road.[^3]
 
-Growing up on Queen Street, Mosbergen was neighbours with some of them, but did not mingle much. “There was no relationship because first, I didn’t speak Japanese. And they were very insular people – they didn’t mix very much with us,” he said. Mosbergen also recalled several photo studios along Middle Road and North Bridge Road, including some very good Japanese ones. He still owned a photo taken by one such studio. 
+Growing up on Queen Street, Mosbergen was neighbours with some of them, but did not mingle much. “There was no relationship because first, I didn’t speak Japanese. And they were very insular people – they didn’t mix very much with us,” he said. Mosbergen also recalled several photo studios along Middle Road and North Bridge Road, including some very good Japanese ones. He still owned a photo taken by one such studio.[^4]
+
+In the decades prior to World War II, nearly every town in Malaya had at least one Japanese studio. In Singapore, Nakajima & Co., established by S. Nakajima, was the most famous Japanese-owned studio then and was active at least since the start of the 1920s. The Malaya Tribune described it as “the best of the photographic establishments in Singapore”.[^5]
+
+Headquartered in Kuala Lumpur, an advertisement in the Straits Times in 1923 indicated that the studio had opened a branch on Orchard Road in Singapore. It offered the services of “developing, printing, enlarging for amateurs”, and provided outdoor photography for prospective clients. Besides the sale of photographic supplies such as film and glass plates, Nakajima & Co. also offered postcards and views of Malaya.[^6]
+
+Nakajima’s photographs had earlier appeared in the souvenir guide of the Malaya Borneo Exhibition, the colonial spectacle held in Singapore in 1922.[^7] His contributions include, among others, a photograph of the Orang Asli, or aborigines, of the Malay Peninsula using their blowpipes and an image of locals weaving sarong. 
+
+Nakajima’s photographs added an exotic touch to the souvenir guide. Perhaps unintentionally, these photographs visualised the logic of colonial exploitation, which necessitated the organisation of the colonial fair in the first place. It is also possible that Nakajima’s involvement in the fair facilitated his entry into Singapore. The studio was already well embedded within the colonial society in the 1920s. By the end of 1923, it had moved to a choice location: a unit at Raffles Hotel, fronting Bras Basah Road.[^8]
+
+Nakajima & Co. was often commissioned to take photographs of social functions and weddings, usually of the European community in Singapore. Many of these photographs were also published in the English newspapers of the time. Prior to the specialisation of press photography, photo studios were an important source of photographs for the press. Throughout the 1930s, the studio was also frequently mentioned in the press during the Christmas festive season as the go-to place for photographic gifts.[^9]
+
+#### **Chinese Studios and the 	Cantonese Dominance**
+
+According to a Chinese-language directory, 新加坡各业调查 [Survey of Singapore’s Different Industries], published in 1928, there were 18 Chinese-owned photo studios in Singapore at the time. There were also four Chinese companies in 1922 dealing in photographic supplies and materials.[^10]
+
+In the first half of the 20th century, the Chinese photographic trade was dominated mainly by the Cantonese.[^11] Like other Chinese businesses, the proprietors of photo studios tended to hire relatives as well as people from the same dialect group. The owners would zealously guard photographic knowhow and would not readily divulge their trade secrets to outsiders.
+
+In 1935, a young and motivated Wong Ken Foo (more popularly known as K.F. Wong; 1916–98), who was born in Sibu, Sarawak, arrived in Singapore.[^12] He had set his eyes on Brilliant Studio on South Bridge Road and offered to work as an apprentice for three years without pay. His offer was rejected, ostensibly because Wong was of Henghua descent while the studio was owned by a prominent Cantonese.[^13] (Wong subsequently became famous for his photographs of the indigenous Dayak peoples of Sarawak.[^14])
+
+
+
 
 #### **NOTES**
 
