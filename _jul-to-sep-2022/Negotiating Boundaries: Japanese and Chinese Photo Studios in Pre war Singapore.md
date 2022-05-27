@@ -21,4 +21,4 @@ Growing up on Queen Street, Mosbergen was neighbours with some of them, but did 
 
 #### **NOTES**
 
-[^1]: Justin Corfield and Robin Corfield, [*The Fall of Singapore: 90 Days: November 1941–February 1942* ](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14296288)(Singapore: Talisman Publishing, 2012), 116–25. (From National Library, Singapore, call no. RSING 940.5425957 COR-[WAR])
+[^1]: Regina Hong, Ling Xi Min and Naoko Shimazu, Postcard Impressions of Early 20th-century Singapore: Perspectives from the Japanese Community (Singapore: National Library Board, 2020), 115. (From National Library, Singapore, call no. RSING 959.57 HON-[HIS])
