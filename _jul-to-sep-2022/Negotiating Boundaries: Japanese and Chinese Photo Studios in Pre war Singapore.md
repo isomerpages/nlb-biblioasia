@@ -9,4 +9,6 @@ description: ""
 ![](/images/Vol%2018%20Issue%202/Kranji%20War%20Memorial/Rows%20of%20headstones.png)
 <div style="background-color: white;">The Kranji War Cemetery with the Singapore Memorial in the background, 2022. <i>Photo by and courtesy of Janice Loo. </i></div>
 
-It was shortly after 4 am on 8 December 1941 when 17 Japanese naval bombers took off from Saigon (now known as Ho Chi Minh City) to attack the airfields at Tengah and Seletar in Singapore.[^1]
+In the 19th century, British and European firms such as Sachtler & Co. and G.R. Lambert & Co. dominated the photography business in Singapore and Malaya. But by the onset of the 20th century, Chinese and Japanese practitioners had made their presence felt in the trade.  At the time, there were visible and invisible lines segregating the colonial society according to social class, race, ethnicity and dialect group. These dividing lines, in turn, affected those who worked in the photographic trade or patronised the photo studios, requiring them to negotiate these boundaries according to evolving situations.  
+
+#### **Mapping Japanese Studios**
