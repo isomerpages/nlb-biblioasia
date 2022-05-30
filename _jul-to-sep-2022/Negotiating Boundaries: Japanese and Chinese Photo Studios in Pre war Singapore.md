@@ -68,6 +68,10 @@ Former bank manager Wong Kum Fatt (b. 1925, Singapore) grew up in his adopted un
 
 Despite the studio’s proximity to the Hokkien community, it was frequented mostly by Indian and Cantonese customers. Said Wong in his oral history interview in 1984: “Usually Hokkien they will not come and patronise a Cantonese shop at that period… At that time the Cantonese they will only go to the Cantonese shop, eat... Cantonese food.”[^22]
 
+![](/images/Vol%2018%20Issue%202/Chinese%20Japanese%20Photo%20Studios/19980005526%20IMG0080.png)
+<div style="background-color: white;">Portrait of an Indian child, 1910–30. <i>Lee Brothers Studio Collection, courtesy of National Archives of Singapore.</i>
+</div>
+
 It is unlikely that these divisions were strictly observed in practice, especially among non-Cantonese customers at the lower end of the economic spectrum. If people needed to have their formal portraits taken, they would inevitably have to patronise the Cantonese studios, unlike more affluent customers who enjoyed the luxury of choice. 
 
 ![](/images/Vol%2018%20Issue%202/Chinese%20Japanese%20Photo%20Studios/19980002133%20-%20IMG0020.png)
