@@ -151,7 +151,7 @@ https://eprints.soas.ac.uk/id/eprint/26662.
 
 [^24]: [David Ng Shin Chong](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/f/f95e4eaf-115d-11e3-83d5-0050568939ad-OHC000670_004/web/html5), oral history interview by Ang Siew Ghim, 27 May 1986, transcript and MP3 audio, Reel/Disc 4 of 13, 29:26, National Archives of Singapore (accession no. 000670), 37–38.
 
-[^25]: 韩山元 [Han Tan Juan], 如何为三千人拍照 [“How to Take a Photograph for Three Thousand People”], 联合晚报 [*Lianhe Wanbao*], 18 August 1986, 8. (From NewspaperSG)
+[^25]: 韩山元 [Han Tan Juan], [如何为三千人拍照](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19860818-1.2.21.1.1) [“How to Take a Photograph for Three Thousand People”], 联合晚报 [*Lianhe Wanbao*], 18 August 1986, 8. (From NewspaperSG)
 
 [^26]: Lim Ming Joon, oral history interview by Tan Beng Luan, 23 September 1983, transcript and MP3 audio, Reel/Disc 2 of 7, 28:07, National Archives of Singapore (accession no. 000334), 24–28; Lim Ming Joon, interview, 23 Sep 1983, Reel/Disc 3 of 7, 30–31.
 
