@@ -91,6 +91,10 @@ Lim could communicate with the Japanese photographer because both of them spoke 
 Lim’s photo studio tapped into the broader Hainanese network of cultural ties, kinship and business interests to facilitate its existence and survival. It was initially sited within the premises of China Book Company on North Bridge Road, which was owned by four Hainanese brothers from the Foo family.[^29] The bookstore was located in the area where the majority of the Hainanese lived, worked and congregated, overlapping Little Japan. Middle Road, for instance, was colloquially known to the Chinese as “Hainan first street”.
 
  Business picked up quickly and in less than a year, Daguerre Studio moved to a third-floor unit along Middle Road. One day, an aged Japanese photographer turned up at the studio. Apparently, he used to rent the same unit to run his studio and was curious to find out who had taken over the space. Over time, the two men became good friends.  
+
+![](/images/Vol%2018%20Issue%202/Chinese%20Japanese%20Photo%20Studios/Group%20photo%20Daguerre.png)
+<div style="background-color: white;">The graduating cohort of secondary four students from Catholic High School, taken in 1963 by Daguerre Studio. The studio’s name is embossed on the bottom right corner. <i>Photo courtesy of Chong Wing Hong.</i>
+</div>
  
 Although he had largely retired from the profession, the Japanese photographer still had a contract with the Police Depot off Thomson Road. Hence, whenever he needed to replenish his glass plate negatives, he would buy these from Daguerre. Later, when he realised that the Japanese invasion was imminent, he gave the police contract to Lim and tried to leave Singapore. However, he was arrested by the British authorities and exiled to India.[^30]
 
