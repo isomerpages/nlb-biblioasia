@@ -46,6 +46,10 @@ David Ng Shin Chong (b. 1919, Singapore), a Hakka photographer who began his app
 
 One of the most famous Cantonese photo studios in Singapore was the Lee Brothers Studio, established by Lee King Yan (1877–1957) and Lee Poh Yan (1884–1960). The brothers were part of the extended Lee family, who was originally from the Nanhai district in Guangdong province. Much has been written about the chain of photo studios that the family had opened in Singapore, Malaya and Java. In Singapore, the family was responsible for establishing Yong Fong, Lee Brothers and Eastern Studio, among others.[^16]
 
+![](/images/Vol%2018%20Issue%202/Chinese%20Japanese%20Photo%20Studios/19980002145%20-%20IMG0004.png)
+<div style="background-color: white;">Lee Poh Yan and Lee King Yan (standing third and fourth from the left respectively) with their family members, 1905–10. <i>Marjorie Lau Collection, courtesy of National Archives of Singapore </i>
+</div>
+
 Lee Shui Loon (1864–1935), also known as Lee Yin Fun, was the most senior member of the family to sink roots locally, prompting art historian Daphne Ang to call him the “godfather of photography in Singapore”.[^17] He established Yong Fong, which was active as early as 1908, along South Bridge Road, just across from Mosque Street.[^18]
 
 Lee Shui Loon’s nephews, Lee King Yan and Lee Poh Yan, who set up Lee Brothers, were effectively bilingual, speaking Cantonese at home and using English, if necessary, at work.[^19] Their command of English enabled them to serve a different class of clientele by setting up shop on Hill Street, in the business district in around 1908.[^20] Soon after, Lee Brothers became “one of the most expensive studios in Singapore”.[^21]
