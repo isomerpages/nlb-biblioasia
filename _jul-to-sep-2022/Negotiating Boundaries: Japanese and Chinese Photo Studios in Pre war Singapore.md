@@ -177,7 +177,7 @@ https://eprints.soas.ac.uk/id/eprint/26662.
 
 [^37]: [Lim Ming Joon](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e2c8dfba-115d-11e3-83d5-0050568939ad-OHC000334_003/web/html5/index.html), interview, 23 Sep 1983, Reel/Disc 3 of 7, 36.
 
-[^38]: Wang 王振春 [Wang Zhenchun], 话说密驼路 [*Speaking of Middle Road*] (Singapore: Xinhua Cultural Enterprises, 2021), 103. (From National Library, Singapore, call no. Chinese RSING 959.57 WZC-[HIS]); Han, 如何为三千人拍照.  
+[^38]: Wang 王振春 [Wang Zhenchun], [话说密驼路](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205402192) [*Speaking of Middle Road*] (Singapore: Xinhua Cultural Enterprises, 2021), 103. (From National Library, Singapore, call no. Chinese RSING 959.57 WZC-[HIS]); Han, 如何为三千人拍照.  
 
 [^39]: Teo Han Wue, “Lim’s in a World of His Own,” *Straits Times*, 20 June 1983, Section Three, 1. (From NewspaperSG)
 
