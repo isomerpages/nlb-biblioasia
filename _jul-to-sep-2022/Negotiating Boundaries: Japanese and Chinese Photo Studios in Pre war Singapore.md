@@ -70,6 +70,10 @@ Despite the studio’s proximity to the Hokkien community, it was frequented mos
 
 It is unlikely that these divisions were strictly observed in practice, especially among non-Cantonese customers at the lower end of the economic spectrum. If people needed to have their formal portraits taken, they would inevitably have to patronise the Cantonese studios, unlike more affluent customers who enjoyed the luxury of choice. 
 
+![](/images/Vol%2018%20Issue%202/Chinese%20Japanese%20Photo%20Studios/19980002133%20-%20IMG0020.png)
+<div style="background-color: white;">Photo of a Eurasian family, 1910–25. <i>Lee Brothers Studio Collection, courtesy of National Archives of Singapore</i>
+</div>
+
 Some aspiring non-Cantonese photographers managed to enter the trade despite the barriers of dialect and family.[^23] David Ng Shin Chong, the Hakka photographer mentioned previously, started out as an apprentice at Natural Studio on North Bridge Road. The studio was owned by a Cantonese-Teochew couple. Since it was located within the Hainanese enclave, they had a lot of Hainanese customers although people from other dialect groups also patronised the studio.[^24] By 1939, Ng had joined the Cantonese-owned Fee Fee Photographic Store, which traded in photographic supplies and provided developing and printing services.
 
 #### **A Hainanese Lineage**
