@@ -195,11 +195,11 @@ The National Library of Singapore holds a small collection of personal documents
 
 [^34]: Silver, [*Heroes of Rimau*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=10287278), 213–16.
 
-[^35]: Silver, [*Heroes of Rimau*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10287278), 248; Bose, [*Kranji*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12666092), 87–88.
+[^35]: Silver, [*Heroes of Rimau*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=10287278), 248; Bose, [*Kranji*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12666092), 87–88.
 
 [^36]: Terry Pillay, “[A Living Tribute to Heroes Who Have No Graves](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/sundaystandard19570303-1.2.5),” *Sunday Tribune*, 3 March 1957. (From NewspaperSG)
 
-[^37]: Hamzah Muzaini and Yeoh, [*Contested Memoryscapes*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202606087), 98–99.
+[^37]: Hamzah Muzaini and Yeoh, [*Contested Memoryscapes*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202606087), 98–99.
 
 [^38]: Nan Hall, “[Thoughts of the Past Move 81-Year-Old War Heroine to Tears](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19570303-1.2.6),” *Straits Times*, 3 March 1957; “[Tragic Memories in a Garden of Peace](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19570303-1.2.2),” *Straits Times*, 3 March 1957; “[A Moving Dedication at New Shrine](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19570302-1.2.12),” *Singapore Free Press*, 2 March 1957. (From NewspaperSG)
 
@@ -207,6 +207,6 @@ The National Library of Singapore holds a small collection of personal documents
 
 [^40]: “Private Sim Chin Foo,” Commonwealth War Graves Commission, accessed 8 April 2022, https://www.cwgc.org/find-records/find-war-dead/casualty-details/2537430/sim-chin-foo/.
 
-[^41]: Hamzah Muzaini and Yeoh, [*Contested Memoryscapes*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202606087), 94.
+[^41]: Hamzah Muzaini and Yeoh, [*Contested Memoryscapes*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202606087), 94.
 
-[^42]: Hamzah Muzaini and Yeoh, [*Contested Memoryscapes*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202606087), 94, 101–05.
+[^42]: Hamzah Muzaini and Yeoh, [*Contested Memoryscapes*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202606087), 94, 101–05.
