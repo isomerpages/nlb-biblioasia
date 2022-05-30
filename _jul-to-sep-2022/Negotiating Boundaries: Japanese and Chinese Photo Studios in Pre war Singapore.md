@@ -113,7 +113,7 @@ By the end of 1941, the famous Nakajima & Co. in Singapore was forced to close d
 [^5]: “[Japanese Go Out of Business](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19411206-1.2.30),” *Malaya Tribune*, 6 December 1941, 3. (From NewspaperSG); Daphne Ang Ming Li, "Constructing Singapore Art History: Portraiture and the Development of Painting and Photography in Colonial Singapore (1819–1959)" (PhD thesis, London, SOAS, University of London, 2017), 316, 393, 
 https://eprints.soas.ac.uk/id/eprint/26662.
 
-[^6]: “Page 13 Advertisements Column 1,” *Straits Times*, 21 February 1923, 13. (From NewspaperSG) 
+[^6]: “[Page 13 Advertisements Column 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19230221-1.2.108.1),” *Straits Times*, 21 February 1923, 13. (From NewspaperSG) 
 
 [^7]: For a brief introduction on the involvement of studio and amateur photographers in the Malaya Borneo Exhibition, see Zhuang Wubin, “Exhibiting Photography in Pre-war Singapore,” *BiblioAsia* 17, no. 3 (October–December 2021). 
 
