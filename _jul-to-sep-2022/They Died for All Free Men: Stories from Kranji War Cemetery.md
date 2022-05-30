@@ -185,11 +185,11 @@ The National Library of Singapore holds a small collection of personal documents
 
 [^29]: Silver, [*Krait*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=10287275), 97–98; Heng Wong, “[Double Tenth Incident](https://eresources.nlb.gov.sg/infopedia/articles/SIP_111_2005-01-06.html),” in *Singapore Infopedia*. National Library Board Singapore. Article published March 2021. 
 
-[^30]: Lynette Ramsay Silver, [*The Heroes of Rimau*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10287278) (Singapore: Cultured Lotus, 2001), 111. (From National Library, Singapore, call no. RSING 940.5426 SIL-[WAR]) 
+[^30]: Lynette Ramsay Silver, [*The Heroes of Rimau*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=10287278) (Singapore: Cultured Lotus, 2001), 111. (From National Library, Singapore, call no. RSING 940.5426 SIL-[WAR]) 
 
-[^31]: Bose, [*Kranji*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12666092), 82; Silver, [*Heroes of Rimau*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10287278), 108–09, 111–12, 117–20, 133–34.
+[^31]: Bose, [*Kranji*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12666092), 82; Silver, [*Heroes of Rimau*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=10287278), 108–09, 111–12, 117–20, 133–34.
 
-[^32]: Silver, [*Heroes of Rimau*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10287278), 142–46, 283; Bose, [*Kranji*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12666092), 82–83.
+[^32]: Silver, [*Heroes of Rimau*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=10287278), 142–46, 283; Bose, [*Kranji*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12666092), 82–83.
 
 [^33]: Bose, [*Kranji*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12666092), 83; Silver, [*Heroes of Rimau*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10287278), 154–55.
 
