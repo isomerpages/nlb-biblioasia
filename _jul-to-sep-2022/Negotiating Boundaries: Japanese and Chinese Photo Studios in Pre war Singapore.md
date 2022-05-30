@@ -185,6 +185,6 @@ https://eprints.soas.ac.uk/id/eprint/26662.
 
 [^41]: [Lim Ming Joon](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/4/4428bb12-115f-11e3-83d5-0050568939ad-OHC000333_001/web/html5/index.html), interview, 30 Sep 1983, Reel/Disc 1 of 7, 9.
 
-[^42]: Lim Ming Joon, interview, 30 Sep 1983, Reel/Disc 1 of 7, 5.
+[^42]: [Lim Ming Joon](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/4/4428bb12-115f-11e3-83d5-0050568939ad-OHC000333_001/web/html5/index.html), interview, 30 Sep 1983, Reel/Disc 1 of 7, 5.
 
-[^43]: “Japanese Go Out of Business.”
+[^43]: “[Japanese Go Out of Business](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19411206-1.2.30).”
