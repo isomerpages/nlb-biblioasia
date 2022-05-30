@@ -143,7 +143,7 @@ https://eprints.soas.ac.uk/id/eprint/26662.
 
 [^20]: [Lee Hin Meng](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/3754c339-115f-11e3-83d5-0050568939ad), oral history interview by Irene Quah, 17 May 1994, MP3 audio, Reel/Disc 1 of 3, 29:51, National Archives of Singapore (accession no. 001487).
 
-[^21]: Lee Hin Meng, interview, 17 May 1984, Reel/Disc 1 of 3.  
+[^21]: [Lee Hin Meng](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/3754c339-115f-11e3-83d5-0050568939ad), interview, 17 May 1984, Reel/Disc 1 of 3.  
 
 [^22]: Wong Kum Fatt, oral history interview by Yao Souchou, 6 October 1984, transcript and MP3 audio, Reel/Disc 1 of 6, 27:56, National Archives of Singapore (accession no. 000474), 7.
 
