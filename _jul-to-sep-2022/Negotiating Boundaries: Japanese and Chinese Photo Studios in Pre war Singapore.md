@@ -20,6 +20,10 @@ Many of these Japanese businesses were located within the vicinity of what found
 
 Growing up on Queen Street, Mosbergen was neighbours with some of them, but did not mingle much. “There was no relationship because first, I didn’t speak Japanese. And they were very insular people – they didn’t mix very much with us,” he said. Mosbergen also recalled several photo studios along Middle Road and North Bridge Road, including some very good Japanese ones. He still owned a photo taken by one such studio.[^4]
 
+![](/images/Vol%2018%20Issue%202/Chinese%20Japanese%20Photo%20Studios/19980002860%20-%20IMG0091.png)
+<div style="background-color: white;">Daguerre Studio on Middle Road is partially obscured by a truck. The photo was taken by visiting American photojournalist Harrison Forman in around 1941, before the onset of World War II in Singapore. Gift of Sandra Carlyle Forman, 1987. <i>Image retrieved from University of Wisconsin-Milwaukee Libraries website.</i>
+</div>
+
 In the decades prior to World War II, nearly every town in Malaya had at least one Japanese studio. In Singapore, Nakajima & Co., established by S. Nakajima, was the most famous Japanese-owned studio then and was active at least since the start of the 1920s. The *Malaya Tribune* described it as “the best of the photographic establishments in Singapore”.[^5]
 
 Headquartered in Kuala Lumpur, an advertisement in the *Straits Times* in 1923 indicated that the studio had opened a branch on Orchard Road in Singapore. It offered the services of “developing, printing, enlarging for amateurs”, and provided outdoor photography for prospective clients. Besides the sale of photographic supplies such as film and glass plates, Nakajima & Co. also offered postcards and views of Malaya.[^6]
