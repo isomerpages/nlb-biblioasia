@@ -133,7 +133,7 @@ https://eprints.soas.ac.uk/id/eprint/26662.
 
 [^15]: [David Ng Shin Chong](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/f/f6118535-115d-11e3-83d5-0050568939ad-OHC000670_013/web/html5), oral history interview by Ang Siew Ghim, 11 June 1986, transcript and MP3 audio, Reel/Disc 13 of 13, 28:50, National Archives of Singapore (accession no. 000670), 136.
 
-[^16]: For a history of Lee Brothers Studio, see Gretchen Liu, “Portraits from the Lee Brothers Studio,” *BiblioAsia* 14, no. 1 (April–June 2018). [Note: In 1994, more than 2,500 excess or uncollected prints from Lee Brothers were donated to the National Archives of Singapore by Lee Hin Ming, the eldest son of Lee Poh Yan.]
+[^16]: For a history of Lee Brothers Studio, see Gretchen Liu, “[Portraits from the Lee Brothers Studio](https://biblioasia.nlb.gov.sg/vol-14/issue-1/apr-jun-2018/portrait-lee-bro-std/),” *BiblioAsia* 14, no. 1 (April–June 2018). [Note: In 1994, more than 2,500 excess or uncollected prints from Lee Brothers were donated to the National Archives of Singapore by Lee Hin Ming, the eldest son of Lee Poh Yan.]
 
 [^17]: Ang, “Constructing Singapore Art History,” 240–41.
 
