@@ -179,7 +179,7 @@ https://eprints.soas.ac.uk/id/eprint/26662.
 
 [^38]: Wang 王振春 [Wang Zhenchun], [话说密驼路](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205402192) [*Speaking of Middle Road*] (Singapore: Xinhua Cultural Enterprises, 2021), 103. (From National Library, Singapore, call no. Chinese RSING 959.57 WZC-[HIS]); Han, [如何为三千人拍照](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19860818-1.2.21.1.1).  
 
-[^39]: Teo Han Wue, “Lim’s in a World of His Own,” *Straits Times*, 20 June 1983, Section Three, 1. (From NewspaperSG)
+[^39]: Teo Han Wue, “[Lim’s in a World of His Own](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19830620-1.2.135.2),” *Straits Times*, 20 June 1983, Section Three, 1. (From NewspaperSG)
 
 [^40]: 到敌人照相馆拍照 立卑一对男女几遭痛惩 		[“A Couple at Lipis was Almost Severely Punished for Having Their Portrait Taken at the Enemy’s Photo Studio”], 	南洋商报 [*Nanyang Siang Pau*], 26 June 1938, 10. (From NewspaperSG)
 
