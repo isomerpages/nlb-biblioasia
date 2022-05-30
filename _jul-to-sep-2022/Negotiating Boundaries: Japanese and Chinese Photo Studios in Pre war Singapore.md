@@ -137,7 +137,7 @@ https://eprints.soas.ac.uk/id/eprint/26662.
 
 [^17]: Ang, “Constructing Singapore Art History,” 240–41.
 
-[^18]: Kiang Ai Kim (Mrs) @ Lee Peck Wan, oral history interview by Jesley Chua Chee Huan, 12 October 1995, MP3 audio, Reel/Disc 1 of 22, 30:10, National Archives of Singapore (accession no. 001698).
+[^18]: [Kiang Ai Kim (Mrs) @ Lee Peck Wan](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/3bffbe14-115e-11e3-83d5-0050568939ad), oral history interview by Jesley Chua Chee Huan, 12 October 1995, MP3 audio, Reel/Disc 1 of 22, 30:10, National Archives of Singapore (accession no. 001698).
 
 [^19]: It would be premature to discount, at this point, the possibility that Lee King Yan and Lee Poh Yan could also speak Malay. 
 
