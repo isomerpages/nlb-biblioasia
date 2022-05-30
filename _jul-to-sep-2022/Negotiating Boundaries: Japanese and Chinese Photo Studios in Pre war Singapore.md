@@ -167,7 +167,7 @@ https://eprints.soas.ac.uk/id/eprint/26662.
 
 [^32]: [Lim Ming Joon](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e23cede5-115d-11e3-83d5-0050568939ad-OHC000333_004/web/html5/index.html), oral history interview by Tan Beng Luan, 14 October 1983, transcript and MP3 audio, Reel/Disc 4 of 7, 27:38, National Archives of Singapore (accession no. 000333), 49.
 
-[^33]: Lim Seng @ Lim Tow Tuan, oral history interview by Tan Beng Luan, 28 December 1983, transcript and MP3 audio, Reel/Disc 2 of 8, 27:53, National Archives of Singapore (accession no. 000089), 12–15.
+[^33]: [Lim Seng @ Lim Tow Tuan](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/2/27a25577-115f-11e3-83d5-0050568939ad-OHC000089_002/web/html5/index.html), oral history interview by Tan Beng Luan, 28 December 1983, transcript and MP3 audio, Reel/Disc 2 of 8, 27:53, National Archives of Singapore (accession no. 000089), 12–15.
 
 [^34]: Lim Ming Joon, oral history interview by Tan Beng Luan, 11 November 1983, transcript and MP3 audio, Reel/Disc 7 of 7, 26:58, National Archives of Singapore (accession no. 000334), 82–84.
 
