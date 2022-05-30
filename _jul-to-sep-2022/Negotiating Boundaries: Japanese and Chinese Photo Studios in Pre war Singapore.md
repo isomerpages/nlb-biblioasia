@@ -110,7 +110,7 @@ By the end of 1941, the famous Nakajima & Co. in Singapore was forced to close d
 
 [^4]: [Rudy William Mosbergen](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/0/03e78fcc-115f-11e3-83d5-0050568939ad-OHC002983_001/web/html5/index.html), interview, 19 Sep 2005, Reel/Disc 1 of 7, 2, 6. 
 
-[^5]: “Japanese Go Out of Business,” *Malaya Tribune*, 6 December 1941, 3. (From NewspaperSG); Daphne Ang Ming Li, "Constructing Singapore Art History: Portraiture and the Development of Painting and Photography in Colonial Singapore (1819–1959)" (PhD thesis, London, SOAS, University of London, 2017), 316, 393, 
+[^5]: “[Japanese Go Out of Business](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19411206-1.2.30),” *Malaya Tribune*, 6 December 1941, 3. (From NewspaperSG); Daphne Ang Ming Li, "Constructing Singapore Art History: Portraiture and the Development of Painting and Photography in Colonial Singapore (1819–1959)" (PhD thesis, London, SOAS, University of London, 2017), 316, 393, 
 https://eprints.soas.ac.uk/id/eprint/26662.
 
 [^6]: “Page 13 Advertisements Column 1,” *Straits Times*, 21 February 1923, 13. (From NewspaperSG) 
