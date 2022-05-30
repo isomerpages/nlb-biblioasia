@@ -28,6 +28,10 @@ Nakajima’s photographs had earlier appeared in the souvenir guide of the Malay
 
 Nakajima’s photographs added an exotic touch to the souvenir guide. Perhaps unintentionally, these photographs visualised the logic of colonial exploitation, which necessitated the organisation of the colonial fair in the first place. It is also possible that Nakajima’s involvement in the fair facilitated his entry into Singapore. The studio was already well embedded within the colonial society in the 1920s. By the end of 1923, it had moved to a choice location: a unit at Raffles Hotel, fronting Bras Basah Road.[^8]
 
+![](/images/Vol%2018%20Issue%202/Chinese%20Japanese%20Photo%20Studios/B26059592E_0001-300dpi.png)
+<div style="background-color: white;">Members of the dance orchestra of the United Chinese Musical Association. This photo by Nakajima & Co commemorates their participation at the charity dance event at Great World Cabaret on 9 December 1934. <i>All rights reserved, Roberto Pregarz. From PictureSG, National Library, Singapore. </i>
+</div>
+
 Nakajima & Co. was often commissioned to take photographs of social functions and weddings, usually of the European community in Singapore. Many of these photographs were also published in the English newspapers of the time. Prior to the specialisation of press photography, photo studios were an important source of photographs for the press. Throughout the 1930s, the studio was also frequently mentioned in the press during the Christmas festive season as the go-to place for photographic gifts.[^9]
 
 #### **Chinese Studios and the 	Cantonese Dominance**
