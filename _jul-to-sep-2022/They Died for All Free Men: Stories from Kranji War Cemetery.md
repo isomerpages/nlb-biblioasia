@@ -173,7 +173,7 @@ The National Library of Singapore holds a small collection of personal documents
 
 [^23]: Dol Ramli, “History of the Malay Regiment 1933–1942,” 242; “Second Lieutenant Adnan Bin Saidi,” Commonwealth War Graves Commission, accessed 8 April 2022, https://www.cwgc.org/find-records/find-war-dead/casualty-details/2529445/adnan-bin-saidi/.
 
-[^24]: Lynette Ramsay Silver, [*Krait: The Fishing Boat That Went to War*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10287275) (Singapore: Cultured Lotus, 2001), 97, 195. (From National Library, Singapore, call no. RSING 940.545994 SIL-[WAR]) 
+[^24]: Lynette Ramsay Silver, [*Krait: The Fishing Boat That Went to War*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=10287275) (Singapore: Cultured Lotus, 2001), 97, 195. (From National Library, Singapore, call no. RSING 940.545994 SIL-[WAR]) 
 
 [^25]: Silver, [*Krait*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10287275), 165. 
 
