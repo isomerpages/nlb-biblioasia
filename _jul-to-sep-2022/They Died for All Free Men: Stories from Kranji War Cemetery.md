@@ -175,15 +175,15 @@ The National Library of Singapore holds a small collection of personal documents
 
 [^24]: Lynette Ramsay Silver, [*Krait: The Fishing Boat That Went to War*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=10287275) (Singapore: Cultured Lotus, 2001), 97, 195. (From National Library, Singapore, call no. RSING 940.545994 SIL-[WAR]) 
 
-[^25]: Silver, [*Krait*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10287275), 165. 
+[^25]: Silver, [*Krait*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=10287275), 165. 
 
-[^26]: Silver, [*Krait*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10287275), 81–83, 89–91. 
+[^26]: Silver, [*Krait*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=10287275), 81–83, 89–91. 
 
-[^27]: Bose, [*Kranji*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12666092), 79–81; Petar Djokovic, “Krait and Operation JAYWICK,” Royal Australian Navy, accessed 8 April 2022, https://www.navy.gov.au/history/feature-histories/krait-and-operation-jaywick.
+[^27]: Bose, [*Kranji*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12666092), 79–81; Petar Djokovic, “Krait and Operation JAYWICK,” Royal Australian Navy, accessed 8 April 2022, https://www.navy.gov.au/history/feature-histories/krait-and-operation-jaywick.
 
-[^28]: Silver, [*Krait*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10287275), 89, 95–97. 
+[^28]: Silver, [*Krait*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=10287275), 89, 95–97. 
 
-[^29]: Silver, [*Krait*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10287275), 97–98; Heng Wong, “[Double Tenth Incident](https://eresources.nlb.gov.sg/infopedia/articles/SIP_111_2005-01-06.html),” in *Singapore Infopedia*. National Library Board Singapore. Article published March 2021. 
+[^29]: Silver, [*Krait*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=10287275), 97–98; Heng Wong, “[Double Tenth Incident](https://eresources.nlb.gov.sg/infopedia/articles/SIP_111_2005-01-06.html),” in *Singapore Infopedia*. National Library Board Singapore. Article published March 2021. 
 
 [^30]: Lynette Ramsay Silver, [*The Heroes of Rimau*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10287278) (Singapore: Cultured Lotus, 2001), 111. (From National Library, Singapore, call no. RSING 940.5426 SIL-[WAR]) 
 
