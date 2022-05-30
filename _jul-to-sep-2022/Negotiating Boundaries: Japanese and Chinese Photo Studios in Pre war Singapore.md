@@ -94,6 +94,12 @@ One day, the Japanese photographer who first helped Lim enter the trade came to 
 
 By the end of 1941, the famous Nakajima & Co. in Singapore was forced to close down. The *Malaya Tribune* lamented its closure and commented that the “incident” (Japanese invasion) in China had “gradually weaned clients away from Japanese photographers”.[^43] On 8 December 1941, two days after the article was published, the first bombs fell on Singapore.
 
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol%2018%20Issue%202/Authors/Janice_Loo.png" style="width: 100px; height: 100px;"/>
+	<b>Zhuang Wubin</b> is a writer, curator and artist. He has a PhD from the University of Westminster (London) and was a Lee Kong Chian Research Fellow (2017–18). Wubin is interested in photography’s entanglements with modernity, colonialism, nationalism, the Cold War and “Chineseness”.</div>
+
+
 #### **NOTES**
 
 [^1]: Regina Hong, Ling Xi Min and Naoko Shimazu, [*Postcard Impressions of Early 20th-century Singapore: Perspectives from the Japanese Community*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204353382) (Singapore: National Library Board, 2020), 115. (From National Library, Singapore, call no. RSING 959.57 HON-[HIS])
