@@ -115,7 +115,7 @@ https://eprints.soas.ac.uk/id/eprint/26662.
 
 [^6]: “[Page 13 Advertisements Column 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19230221-1.2.108.1),” *Straits Times*, 21 February 1923, 13. (From NewspaperSG) 
 
-[^7]: For a brief introduction on the involvement of studio and amateur photographers in the Malaya Borneo Exhibition, see Zhuang Wubin, “Exhibiting Photography in Pre-war Singapore,” *BiblioAsia* 17, no. 3 (October–December 2021). 
+[^7]: For a brief introduction on the involvement of studio and amateur photographers in the Malaya Borneo Exhibition, see Zhuang Wubin, “[Exhibiting Photography in Pre-war Singapore](https://biblioasia.nlb.gov.sg/vol-17/issue-3/oct-dec-2021/prewarphotography),” *BiblioAsia* 17, no. 3 (October–December 2021). 
 
 [^8]: “Page 16 Advertisements Column 1,” *Straits Times*, 24 November 1923, 16; “Page 5 Advertisements Column 3,” Malaya Tribune, 30 November 1923, 5. (From NewspaperSG)
 
