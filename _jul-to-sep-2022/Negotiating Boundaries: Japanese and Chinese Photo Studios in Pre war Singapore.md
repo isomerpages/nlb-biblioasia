@@ -125,7 +125,7 @@ https://eprints.soas.ac.uk/id/eprint/26662.
 
 [^11]: 李香南 [Li Xiangnan], [照相馆业广东人称雄](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb19980322-1.2.66.2) [“Cantonese Dominate the Photo Studio Business”], 联合早报 [*Lianhe Zaobao*], 22 March 1998, 46; 秦长春 [Qin Changchun], 	[新加坡照相业史话](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/scjp19770707-1.2.58.1) [“A History of the Photographic Trade in Singapore”], 星洲日報 [*Sin Chew Jit Poh*], 7 July 1977, 16. (From NewspaperSG)
 
-[^12]: For a detailed biography of K.F. Wong, see Zhuang Wubin, “From the Archives: The Work of Photographer K.F. Wong,” *BiblioAsia* 15, no. 2 (July–September 2019). 
+[^12]: For a detailed biography of K.F. Wong, see Zhuang Wubin, “[From the Archives: The Work of Photographer K.F. Wong](https://biblioasia.nlb.gov.sg/vol-15/issue-2/jul-sep-2019/wong-ken-foo),” *BiblioAsia* 15, no. 2 (July–September 2019). 
 
 [^13]: 房汉佳 [Fong Hon Kah] and 林韶华 [Lim Shau Hua], 		世界著名摄影家黄杰夫 [*World Famous Photographer K.F. Wong*] (福州:海潮摄影艺术出版社, 1995), 25. (Not available in NLB’s holdings)
 
