@@ -163,7 +163,7 @@ The National Library of Singapore holds a small collection of personal documents
 
 [^18]: “Captain Harry Rodway Rix,” Commonwealth War Graves Commission, accessed 8 April 2022, https://www.cwgc.org/find-records/find-war-dead/casualty-details/2821290/harry-rodway-rix/.
 
-[^19]: Mubin Sheppard, [*The Malay Regiment 1933–1947*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5012927) (Kuala Lumpur: Department of Public Relations, 1947), 18. (From National Library, Singapore, call no. RCLOS 355.31 SHE-[JSB])
+[^19]: Mubin Sheppard, [*The Malay Regiment 1933–1947*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=5012927) (Kuala Lumpur: Department of Public Relations, 1947), 18. (From National Library, Singapore, call no. RCLOS 355.31 SHE-[JSB])
 
 [^20]: “Second Lieutenant Geoffrey Francis Dixon Stephen,” Commonwealth War Graves Commission, accessed 8 April 2022, https://www.cwgc.org/find-records/find-war-dead/casualty-details/2072314/geoffrey-francis-dixon-stephen/.
 
