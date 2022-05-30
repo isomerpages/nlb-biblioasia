@@ -58,6 +58,10 @@ Lee Shui Loon (1864–1935), also known as Lee Yin Fun, was the most senior memb
 
 Lee Shui Loon’s nephews, Lee King Yan and Lee Poh Yan, who set up Lee Brothers, were effectively bilingual, speaking Cantonese at home and using English, if necessary, at work.[^19] Their command of English enabled them to serve a different class of clientele by setting up shop on Hill Street, in the business district in around 1908.[^20] Soon after, Lee Brothers became “one of the most expensive studios in Singapore”.[^21]
 
+![](/images/Vol%2018%20Issue%202/Chinese%20Japanese%20Photo%20Studios/19990002486%20-%20IMG0011.png)
+<div style="background-color: white;">Portrait of a Chinese boy taken at Yong Fong Studio, which was founded by Lee Shui Loon on South Bridge Road. <i>The Peranakan Association Collection, courtesy of National Archives of Singapore </i>
+</div>
+
 Beyond the network of photo studios that the Lee family had established, there were other Cantonese-owned studios catering to clients across the economic spectrum. However, the division among dialect groups seemed to discourage certain Chinese customers from patronising Cantonese studios. 
 
 Former bank manager Wong Kum Fatt (b. 1925, Singapore) grew up in his adopted uncle’s photo studio off South Bridge Road and Spring Street. The studio was located on the Cantonese side of the Chinese quarter, with the Hokkiens generally occupying the area across South Bridge Road, towards Telok Ayer Street. 
