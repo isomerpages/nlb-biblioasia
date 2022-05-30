@@ -173,7 +173,7 @@ https://eprints.soas.ac.uk/id/eprint/26662.
 
 [^35]: 莫美颜 [Mok Mei Ngan], [海南人最早的照相馆](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb19980215-1.2.61.1) [“The First Photo Studio of the Hainanese”], 联合早报 [*Lianhe Zaobao*], 15 February 1998, 42. (From NewspaperSG)
 
-[^36]: Lim Ming Joon, interview, 23 Sep 1983, Reel/Disc 3 of 7, 36–38, 40-41.
+[^36]: [Lim Ming Joon](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e2c8dfba-115d-11e3-83d5-0050568939ad-OHC000334_003/web/html5/index.html), interview, 23 Sep 1983, Reel/Disc 3 of 7, 36–38, 40-41.
 
 [^37]: Lim Ming Joon, interview, 23 Sep 1983, Reel/Disc 3 of 7, 36.
 
