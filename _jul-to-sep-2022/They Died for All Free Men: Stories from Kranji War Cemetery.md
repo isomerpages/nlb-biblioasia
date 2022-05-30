@@ -143,9 +143,9 @@ The National Library of Singapore holds a small collection of personal documents
 
 [^8]: Edwin Gibson and G. Kingsley Ward, [*Courage Remembered: The Story Behind the Construction and Maintenance of the Commonwealth’s Military Cemeteries and Memorials of the Wars of 1914–1918 and 1939–1945*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=5228549) (London: Her Majesty’s Stationery Office, 1989), 66. (From National Library, Singapore, call no. RSING 355.1609 GIB)
 
-[^9]: Gibson and Ward, [*Courage Remembered*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5228549), 66.
+[^9]: Gibson and Ward, [*Courage Remembered*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=5228549), 66.
 
-[^10]: Wan Meng Hao, “More than Meets the Eye: Remembering the War Dead in Singapore,”  in [*Spaces of the Dead: A Case from the Living*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13950617), ed. Kevin Tan (Singapore: Ethos Books, 2011), 239. (From National Library, Singapore, call no. RSING 363.75095957 SPA)  
+[^10]: Wan Meng Hao, “More than Meets the Eye: Remembering the War Dead in Singapore,”  in [*Spaces of the Dead: A Case from the Living*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13950617), ed. Kevin Tan (Singapore: Ethos Books, 2011), 239. (From National Library, Singapore, call no. RSING 363.75095957 SPA)  
 
 [^11]: Athanasios Tsakonas, [*In Honour of War Heroes: Colin St Clair Oakes and the Design of the Kranji War Memorial*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204468661) (Singapore: Marshall Cavendish Editions, 2020), 178. (From National Library, Singapore, call no. RSING 725.94095957 TSA)
 
