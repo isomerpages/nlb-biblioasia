@@ -141,7 +141,7 @@ The National Library of Singapore holds a small collection of personal documents
 
 [^7]: “Kranji War Cemetery,” Commonwealth War Graves Commission, accessed 8 April 2022, https://www.cwgc.org/visit-us/find-cemeteries-memorials/cemetery-details/2004200/kranji-war-cemetery/; Athanasios Tsakonas, “[In Honour of War Heroes: The Legacy of Colin St Clair Oakes](https://biblioasia.nlb.gov.sg/vol-14/issue-3/oct-dec-2018/honour-of-war-heroes/),” *BiblioAsia* 14, no. 3 (Oct–Dec 2018).
 
-[^8]: Edwin Gibson and G. Kingsley Ward, [*Courage Remembered: The Story Behind the Construction and Maintenance of the Commonwealth’s Military Cemeteries and Memorials of the Wars of 1914–1918 and 1939–1945*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5228549) (London: Her Majesty’s Stationery Office, 1989), 66. (From National Library, Singapore, call no. RSING 355.1609 GIB)
+[^8]: Edwin Gibson and G. Kingsley Ward, [*Courage Remembered: The Story Behind the Construction and Maintenance of the Commonwealth’s Military Cemeteries and Memorials of the Wars of 1914–1918 and 1939–1945*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=5228549) (London: Her Majesty’s Stationery Office, 1989), 66. (From National Library, Singapore, call no. RSING 355.1609 GIB)
 
 [^9]: Gibson and Ward, [*Courage Remembered*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5228549), 66.
 
