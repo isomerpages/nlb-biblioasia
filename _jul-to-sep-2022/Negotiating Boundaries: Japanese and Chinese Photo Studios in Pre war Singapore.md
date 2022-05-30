@@ -181,7 +181,7 @@ https://eprints.soas.ac.uk/id/eprint/26662.
 
 [^39]: Teo Han Wue, “[Lim’s in a World of His Own](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19830620-1.2.135.2),” *Straits Times*, 20 June 1983, Section Three, 1. (From NewspaperSG)
 
-[^40]: 到敌人照相馆拍照 立卑一对男女几遭痛惩 		[“A Couple at Lipis was Almost Severely Punished for Having Their Portrait Taken at the Enemy’s Photo Studio”], 	南洋商报 [*Nanyang Siang Pau*], 26 June 1938, 10. (From NewspaperSG)
+[^40]: [到敌人照相馆拍照 立卑一对男女几遭痛惩](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19380626-1.2.69) 		[“A Couple at Lipis was Almost Severely Punished for Having Their Portrait Taken at the Enemy’s Photo Studio”], 	南洋商报 [*Nanyang Siang Pau*], 26 June 1938, 10. (From NewspaperSG)
 
 [^41]: Lim Ming Joon, interview, 30 Sep 1983, Reel/Disc 1 of 7, 9.
 
