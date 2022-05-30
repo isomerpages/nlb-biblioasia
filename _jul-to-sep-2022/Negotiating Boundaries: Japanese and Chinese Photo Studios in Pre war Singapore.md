@@ -157,7 +157,7 @@ https://eprints.soas.ac.uk/id/eprint/26662.
 
 [^27]: [Lim Ming Joon](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e2c8dfba-115d-11e3-83d5-0050568939ad-OHC000334_003/web/html5/index.html), interview, 23 Sep 1983, Reel/Disc 3 of 7, 34.
 
-[^28]: Lim Ming Joon, oral history interview by Tan Beng Luan, 30 September 1983, transcript and MP3 audio, Reel/Disc 1 of 7, 27:54, National Archives of Singapore (accession no. 000333), 5.
+[^28]: [Lim Ming Joon](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/4/4428bb12-115f-11e3-83d5-0050568939ad-OHC000333_001/web/html5/index.html), oral history interview by Tan Beng Luan, 30 September 1983, transcript and MP3 audio, Reel/Disc 1 of 7, 27:54, National Archives of Singapore (accession no. 000333), 5.
 
 [^29]: Song Chin Sing, ed., *Passage of Time: Singapore Bookstore Stories 1881–2016* (Singapore: Chou Sing Chu Foundation, 2016), 162–65. (From National Library, Singapore, call no. RSING 070.5095957 CHO)
 
