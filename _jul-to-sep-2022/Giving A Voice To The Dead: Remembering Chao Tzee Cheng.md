@@ -23,7 +23,8 @@ Chao returned to Singapore in 1969 where he established the first dedicated fore
 Before Chao, there were no professionally trained forensic pathologists in Singapore. In an oral history interview, he recalled that Coroner’s cases used to be handled by ordinary pathologists with no specialised training. As a result, standards varied from person to person. Upon his return to Singapore, Chao revamped the entire system. Under his watch, forensic pathologists began visiting crime scenes as a matter of course. Prior to that, pathologists would simply examine dead bodies in the mortuary. “One by one, you just carry on the work, finish the post-mortem and give a report and that’s all. But I thought there is much more than that,” he said.[^4]
 
 #### **Solving Unnatural and Violent Deaths**
-Chao’s work as a forensic pathologist involved conducting autopsies in cases of sudden, unnatural or violent deaths, using his forensic skills to reconstruct the cause of death and give the dead a voice. 
+Chao’s work as a forensic pathologist involved conducting autopsies in cases of sudden, unnatural or violent deaths, using his forensic skills to reconstruct the cause of death and give the dead a voice.
+
 In a piece penned for the Law Gazette after Chao’s death in 2000, Clinical Professor Chee Yam Cheng, Master of the Academy of Medicine, Singapore, wrote that Chao had “the knowledge of a medical doctor, the sharp eyes and instinct of Sherlock Holmes, and the oratorical skills and confidence of a lawyer in court”.[^5]
 
 “[S]ometimes, in murder cases, the accused always gives you a story that is advantageous to themselves,” Chao had said, “but you got to prove that they are wrong… by… what we called the ‘silent’ witnesses… all the trace evidence that is on the scene, the injuries that the deceased person, the victim has and so on… we got to build up from all these evidence to prove that the story is not correct. And we have done that many, many times.”[^6]
@@ -284,5 +285,3 @@ By the end of 1941, the famous Nakajima & Co. in Singapore was forced to close d
 <br/>
 <img src="/images/Vol%2018%20Issue%202/Authors/ZhuangWubin.png" style="width: 100px; height: 100px;"/>
 	<b>Zhuang Wubin</b> is a writer, curator and artist. He has a PhD from the University of Westminster (London) and was a Lee Kong Chian Research Fellow (2017–18). Wubin is interested in photography’s entanglements with modernity, colonialism, nationalism, the Cold War and “Chineseness”.</div>
-
-
