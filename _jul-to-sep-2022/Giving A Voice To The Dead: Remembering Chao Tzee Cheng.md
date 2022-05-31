@@ -8,7 +8,7 @@ description: ""
 <div style="background-color: white;">Daguerre Studio on Middle Road is partially obscured by a truck. The photo was taken by visiting American photojournalist Harrison Forman in around 1941, before the onset of World War II in Singapore. Gift of Sandra Carlyle Forman, 1987. <i>Image retrieved from University of Wisconsin-Milwaukee Libraries website.</i>
 </div>
 
-![](/images/Vol%2018%20Issue%202/Giving%20A%20Voice%20To%20The%20Dead/Giving%20A%20Voice%20To%20The%20Dead%20-%20Image%201.png)<div style="background-color: white;">Prof Chao Tzee Cheng attending the inquiry into the explosion and fire on board Greek oil tanker <i>S.T. Spyros</i>, 1978. <i>Source: The Straits Times © SPH Media Limited. Reprinted with permission</i>.</div>
+![](/images/Vol%2018%20Issue%202/Giving%20A%20Voice%20To%20The%20Dead/Giving%20A%20Voice%20To%20The%20Dead%20-%20Image%201.png)<div style="background-color: white;">Prof Chao Tzee Cheng attending the inquiry into the explosion and fire on board Greek oil tanker <i>S.T. Spyros</i>, 1978. <i>Source: The Straits Times © SPH Media Limited. Reprinted with permission.</i></div>
 
 Most people shy away from facing the aftermath of violent deaths. Fortunately for Singapore, however, the late Professor Chao Tzee Cheng was not like most people. Over the course of a career spanning more than 30 years, he would help ensure that justice was served.[^1]
 
