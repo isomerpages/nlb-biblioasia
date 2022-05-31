@@ -60,6 +60,8 @@ He began to sort the dead into groups, based on how they died. Some had severe b
 #### **Advocating Safety**
 Because of his work, safety was an issue close to Chao’s heart, and he often emphasised the importance of accident prevention. As Deputy Chairman of the Home Safety Committee of the National Safety First Council (NSFC), Chao actively advocated for safety through studies, videos and campaigns in Singapore, particularly those concerning home accidents.[^21]
 
+![](/images/Vol%2018%20Issue%202/Giving%20A%20Voice%20To%20The%20Dead/Giving%20A%20Voice%20To%20The%20Dead%20-%20Image%204.png)
+
 “It grieves me to know there is more than one case of people getting burnt or scalded every day and 40 per cent of these cases involve people below the age of 11,” he said in a 1986 interview when his book, How to Prevent Home Accidents, was launched.[^22]
 
 Chao also devoted time to other safety initiatives. He was a member of the Toy Safety Authority of Singapore[^23] and helped form the Venom and Toxin Research Group in 1985.[^24] In the 1980s, he supported an awareness drive on the dangers of lightning.[^25]
