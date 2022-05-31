@@ -54,7 +54,9 @@ Chao was often invited by other countries to consult in difficult cases. These i
 #### **Investigating Mass Disasters**
 Along with criminal cases, Chao was also reputed for his forensic prowess in investigating some of the worst disasters in the modern history of Singapore. These include the explosion on board Greek oil tanker *S.T. Spyros* in 1978, the Sentosa Cable Car tragedy in 1983, the collapse of Hotel New World in 1986, the explosion at Ginza Plaza in 1992 and the crash of SilkAir Flight 185 in 1997.[^17]
 
-![](/images/Vol%2018%20Issue%202/Giving%20A%20Voice%20To%20The%20Dead/Giving%20A%20Voice%20To%20The%20Dead%20-%20Image%203.png)<div style="background-color: white;">An explosion occurred on board Greek oil tanker *S.T. Spyros* on 12 October 1978. Prof Chao Tzee Cheng was instrumental in bringing to light how the accident had happened. *Image reproduced from Paul Wee, et al., “48 Die in Ship Blast Horror,” Straits Times 13 October 1978, 1. (From NewspaperSG)*.</div>
+![](/images/Vol%2018%20Issue%202/Giving%20A%20Voice%20To%20The%20Dead/Giving%20A%20Voice%20To%20The%20Dead%20-%20Image%203.png)
+<div style="background-color: white;">An explosion occurred on board Greek oil tanker <i>S.T. Spyros</i> on 12 October 1978. Prof Chao Tzee Cheng was instrumental in bringing to light how the accident had happened. <i>Image reproduced from Paul Wee, et al., “48 Die in Ship Blast Horror,” Straits Times 13 October 1978, 1. (From NewspaperSG).</i>
+</div>
 
 In a time before DNA analysis was possible, Chao and his forensics team often worked round the clock to identify the large number of dead bodies, which were often ravaged beyond recognition.
 
