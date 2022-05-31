@@ -5,10 +5,6 @@ description: ""
 ---
 #### As a forensic pathologist, Chao Tzee Cheng helped bring murderers to justice. By **Goh Lee Kim**
 
-![](/images/Vol%2018%20Issue%202/Chinese%20Japanese%20Photo%20Studios/agsphoto_17551_full.png)
-<div style="background-color: white;">Daguerre Studio on Middle Road is partially obscured by a truck. The photo was taken by visiting American photojournalist Harrison Forman in around 1941, before the onset of World War II in Singapore. Gift of Sandra Carlyle Forman, 1987. <i>Image retrieved from University of Wisconsin-Milwaukee Libraries website.</i>
-</div>
-
 ![](/images/Vol%2018%20Issue%202/Giving%20A%20Voice%20To%20The%20Dead/Giving%20A%20Voice%20To%20The%20Dead%20-%20Image%201.png)
 <div style="background-color: white;">Prof Chao Tzee Cheng attending the inquiry into the explosion and fire on board Greek oil tanker <i>S.T. Spyros</i>, 1978. <i>Source: The Straits Times © SPH Media Limited. Reprinted with permission.</i>
 </div>
@@ -90,7 +86,7 @@ In 1999, Chao co-authored *Murder Is My Business: Medical Investigations into Cr
 
 Chao reached the pinnacle of his career when he was appointed head of the Institute of Science and Forensic Medicine.[^34] Even after his retirement in 1997, Chao continued to serve tirelessly as the institute’s Special Forensic Advisor until his sudden demise due to heart disease while visiting his sister in New York in February 2000.[^35] Such were Chao’s accomplishments and reputation that after his death, accolades and tributes poured in far and wide from friends, colleagues and those who knew him.[^36]
 
-![](/images/Vol%2018%20Issue%202/Giving%20A%20Voice%20To%20The%20Dead/Giving%20A%20Voice%20To%20The%20Dead%20-%20Image%205.png)<div style="background-color: white;">Prof Chao Tzee Cheng passed away in New York in February 2000. *Image reproduced from Karen Wong, “Top Forensic Pathologist Chao Dies in New York,” Straits Times, 23 February 2000, 3. (From NewspaperSG)*.</div>
+![](/images/Vol%2018%20Issue%202/Giving%20A%20Voice%20To%20The%20Dead/Giving%20A%20Voice%20To%20The%20Dead%20-%20Image%205.png)<div style="background-color: white;">Prof Chao Tzee Cheng passed away in New York in February 2000. <i>Image reproduced from Karen Wong, “Top Forensic Pathologist Chao Dies in New York,” Straits Times, 23 February 2000, 3. (From NewspaperSG).</i></div>
 
 In his eulogy, Chao’s nephew Dr Wong Chiang Yin, who was also the Honorary Secretary (37th to 40th Councils) of the Singapore Medical Association, noted: “[T]he job does not make a man great; it is the substance of the man that fills and defines the post. For all intents and purposes, [Prof Chao] was forensic medicine of Singapore.”[^37]
 
