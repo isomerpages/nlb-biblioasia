@@ -44,7 +44,7 @@ One of Chao’s most best-known cases concerned Filipino domestic helper Flor Co
 Chao was often invited by other countries to consult in difficult cases. These included the Ipoh *loh shee fun* (rice noodles) food poisoning incident in 1998 in which noodles contaminated with aflatoxin claimed 14 lives.[^15] He also helped with the 1984 inquiry into the death of Ponniah Rajaratnam, a retired Singaporean Deputy Commissioner of Police and former Director of the Corrupt Practices Investigation Bureau. Rajaratnam was then heading Brunei’s Anti-Corruption Bureau, and it was alleged that he had been kidnapped and strangled while in Brunei. However, Chao determined that Rajaratnam died of drowning and no foul play was suspected.[^16]
 
 #### **Investigating Mass Disasters**
-Along with criminal cases, Chao was also reputed for his forensic prowess in investigating some of the worst disasters in the modern history of Singapore. These include the explosion on board Greek oil tanker S.T. Spyros in 1978, the Sentosa Cable Car tragedy in 1983, the collapse of Hotel New World in 1986, the explosion at Ginza Plaza in 1992 and the crash of SilkAir Flight 185 in 1997.[^17]
+Along with criminal cases, Chao was also reputed for his forensic prowess in investigating some of the worst disasters in the modern history of Singapore. These include the explosion on board Greek oil tanker *S.T. Spyros* in 1978, the Sentosa Cable Car tragedy in 1983, the collapse of Hotel New World in 1986, the explosion at Ginza Plaza in 1992 and the crash of SilkAir Flight 185 in 1997.[^17]
 
 ![](/images/Vol%2018%20Issue%202/Giving%20A%20Voice%20To%20The%20Dead/Giving%20A%20Voice%20To%20The%20Dead%20-%20Image%203.png)<div style="background-color: white;">An explosion occurred on board Greek oil tanker S.T. Spyros on 12 October 1978. Prof Chao Tzee Cheng was instrumental in bringing to light how the accident had happened. Image reproduced from Paul Wee, et al., “48 Die in Ship Blast Horror,” Straits Times 13 October 1978, 1. (From NewspaperSG).</div>
 
@@ -52,16 +52,16 @@ In a time before DNA analysis was possible, Chao and his forensics team often wo
 
 Senwan Jamal, Senior Medical Technologist at the Department of Pathology, Singapore General Hospital, recalled his experience working with Chao on the Hotel New World disaster: “[T]he bodies from Hotel New World came in a trickle because of the demanding rescue work. In the end, it was not 100 bodies, but about 33. Even then I remember our supervisor Prof Chao Tzee Cheng’s quick thinking. It was in the 1980s and we were using film cameras. With so many bodies, we needed to be fast and could not wait for the photos to be developed, so he told us to buy two Polaroid cameras from Chinatown, using his own money, so that we could photograph the bodies right away.”[^18]
 
-The Spyros incident on 12 October 1978 was described as the “worst peace-time disaster in Singapore”, killing 76 people and injuring 69 others.[^19] Chao was instrumental in bringing to light how the explosion had occurred.
+The *Spyros* incident on 12 October 1978 was described as the “worst peace-time disaster in Singapore”, killing 76 people and injuring 69 others.[^19] Chao was instrumental in bringing to light how the explosion had occurred.
 
-He began to sort the dead into groups, based on how they died. Some had severe burns, while others had less severe burns or died from carbon monoxide poisoning. “So from then, I plotted the position on the plan [of the Spyros] and found that actually you can trace the path of fire. [T]hose in the direct path of fire would be burned very severely, those outside would be less… we went to the scene and found out [that] the origin of the fire was from the fuel tank,” explained Chao.[^20]
+He began to sort the dead into groups, based on how they died. Some had severe burns, while others had less severe burns or died from carbon monoxide poisoning. “So from then, I plotted the position on the plan [of the *Spyros*] and found that actually you can trace the path of fire. [T]hose in the direct path of fire would be burned very severely, those outside would be less… we went to the scene and found out [that] the origin of the fire was from the fuel tank,” explained Chao.[^20]
 
 #### **Advocating Safety**
 Because of his work, safety was an issue close to Chao’s heart, and he often emphasised the importance of accident prevention. As Deputy Chairman of the Home Safety Committee of the National Safety First Council (NSFC), Chao actively advocated for safety through studies, videos and campaigns in Singapore, particularly those concerning home accidents.[^21]
 
 ![](/images/Vol%2018%20Issue%202/Giving%20A%20Voice%20To%20The%20Dead/Giving%20A%20Voice%20To%20The%20Dead%20-%20Image%204.png)<div style="background-color: white;">Prof Chao Tzee Cheng receiving an award from then Prime Minister Goh Chok Tong at the 30th Singapore-Malaysia Congress of Medicine in 1996. The award was in appreciation for his contributions as the former Master of the Academy of Medicine, Singapore. Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</div>
 
-“It grieves me to know there is more than one case of people getting burnt or scalded every day and 40 per cent of these cases involve people below the age of 11,” he said in a 1986 interview when his book, How to Prevent Home Accidents, was launched.[^22]
+“It grieves me to know there is more than one case of people getting burnt or scalded every day and 40 per cent of these cases involve people below the age of 11,” he said in a 1986 interview when his book, *How to Prevent Home Accidents*, was launched.[^22]
 
 Chao also devoted time to other safety initiatives. He was a member of the Toy Safety Authority of Singapore[^23] and helped form the Venom and Toxin Research Group in 1985.[^24] In the 1980s, he supported an awareness drive on the dangers of lightning.[^25]
 
@@ -76,7 +76,7 @@ While Chao’s work was undoubtedly morbid, he did not let that define him. Chao
 
 Chao was also a connoisseur of good food and drink, especially fine whisky and XO brandy, hence his other nickname, “Fat Chao”, among his friends.[^31] Even after having visited the mortuary or a crime scene, he could still eat without feeling queasy. He even admitted to taking his meals in the mortuary. “Well of course you have to! For instance, when Spyros happened, we had 76 bodies all at once! You can’t go home!”[^32]
 
-In 1999, Chao co-authored Murder Is My Business: Medical Investigations into Crime – a book based on his better-known cases – with journalist Audrey Perera.[^33]
+In 1999, Chao co-authored *Murder Is My Business: Medical Investigations into Crime* – a book based on his better-known cases – with journalist Audrey Perera.[^33]
 
 Chao reached the pinnacle of his career when he was appointed head of the Institute of Science and Forensic Medicine.[^34] Even after his retirement in 1997, Chao continued to serve tirelessly as the institute’s Special Forensic Advisor until his sudden demise due to heart disease while visiting his sister in New York in February 2000.[^35] Such were Chao’s accomplishments and reputation that after his death, accolades and tributes poured in far and wide from friends, colleagues and those who knew him.[^36]
 
