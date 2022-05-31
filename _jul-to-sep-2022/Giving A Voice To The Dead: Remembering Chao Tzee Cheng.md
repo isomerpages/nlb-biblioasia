@@ -74,7 +74,8 @@ Chao reached the pinnacle of his career when he was appointed head of the Instit
 In his eulogy, Chao’s nephew Dr Wong Chiang Yin, who was also the Honorary Secretary (37th to 40th Councils) of the Singapore Medical Association, noted: “[T]he job does not make a man great; it is the substance of the man that fills and defines the post. For all intents and purposes, [Prof Chao] was forensic medicine of Singapore.”
 
 #### **Notes**
-Sng Ewe Hui Jimmy, The Science of Medical Detection: 100 Years of Pathology, 1903–2003 (Singapore: Department of Pathology, Singapore General Hospital, 2003), 52, 85. (From National Library, Singapore, call no. RSING q616.0095957 SNG)
+[^42]: [Lim Ming Joon](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/4/4428bb12-115f-11e3-83d5-0050568939ad-OHC000333_001/web/html5/index.html), interview, 30 Sep 1983, Reel/Disc 1 of 7, 5.
+[^1]: Sng Ewe Hui Jimmy, [The Science of Medical Detection: 100 Years of Pathology, 1903–2003](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12280384) (Singapore: Department of Pathology, Singapore General Hospital, 2003), 52, 85. (From National Library, Singapore, call no. RSING q616.0095957 SNG)
 Chao Tzee Cheng, oral history interview by Lee Liang Chian, 14 October 1995, transcript and MP3 audio, Reel/Disc 1 of 7, National Archives of Singapore (accession no. 001573), 1–5. 
 Chao Tzee Cheng, oral history interview, 14 Oct 1995, Reel/Disc 1 of 7, 8–10.  
 Chao Tzee Cheng, interview, 14 Oct 1995, Reel/Disc 1 of 7, 13–14.  
