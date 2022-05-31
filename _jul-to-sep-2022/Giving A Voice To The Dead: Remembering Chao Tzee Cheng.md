@@ -73,13 +73,15 @@ Chao’s report on road traffic deaths between 1969 and 1973 also prompted the N
 #### **Honouring and Remembering**
 In addition to his regular work as a forensic pathologist, Chao also taught generations of medical professionals as well as helmed local and international medical associations. He was president of the Indo-Pacific Association of Law, Medicine and Science between 1983 and 1992, and he proposed the establishment of Singapore’s Medico-Legal Society in 1972.[^28] Awards he received include the Public Administration Meritorious Service Medal in 1995 for the Flor Contemplacion case and the Singapore Medical Association Honorary Membership, its highest honour, in 1998.[^29]
 
-![](/images/Vol%2018%20Issue%202/Giving%20A%20Voice%20To%20The%20Dead/Giving%20A%20Voice%20To%20The%20Dead%20-%20Image%204.png)
+
 
 While Chao’s work was undoubtedly morbid, he did not let that define him. Chao was a charismatic man known for his wit, joviality and larger-than-life personality, and one who enjoyed various interests and hobbies. His love for singing had bagged him numerous trophies in competitions, such that he was even called the “Pavarotti of the Medical Alumni Karaoke” because he could sing in Italian.[^30]
 
 Chao was also a connoisseur of good food and drink, especially fine whisky and XO brandy, hence his other nickname, “Fat Chao”, among his friends.[^31] Even after having visited the mortuary or a crime scene, he could still eat without feeling queasy. He even admitted to taking his meals in the mortuary. “Well of course you have to! For instance, when Spyros happened, we had 76 bodies all at once! You can’t go home!”[^32]
 
 In 1999, Chao co-authored Murder Is My Business: Medical Investigations into Crime – a book based on his better-known cases – with journalist Audrey Perera.[^33]
+
+![](/images/Vol%2018%20Issue%202/Giving%20A%20Voice%20To%20The%20Dead/Giving%20A%20Voice%20To%20The%20Dead%20-%20Image%205.png)
 
 Chao reached the pinnacle of his career when he was appointed head of the Institute of Science and Forensic Medicine.[^34] Even after his retirement in 1997, Chao continued to serve tirelessly as the institute’s Special Forensic Advisor until his sudden demise due to heart disease while visiting his sister in New York in February 2000.[^35] Such were Chao’s accomplishments and reputation that after his death, accolades and tributes poured in far and wide from friends, colleagues and those who knew him.[^36]
 
