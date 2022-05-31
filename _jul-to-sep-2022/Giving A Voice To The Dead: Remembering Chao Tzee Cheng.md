@@ -78,42 +78,78 @@ Chao reached the pinnacle of his career when he was appointed head of the Instit
 In his eulogy, Chao’s nephew Dr Wong Chiang Yin, who was also the Honorary Secretary (37th to 40th Councils) of the Singapore Medical Association, noted: “[T]he job does not make a man great; it is the substance of the man that fills and defines the post. For all intents and purposes, [Prof Chao] was forensic medicine of Singapore.”[^37]
 
 #### **Notes**
+
 [^1]: Sng Ewe Hui Jimmy, [The Science of Medical Detection: 100 Years of Pathology, 1903–2003](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12280384) (Singapore: Department of Pathology, Singapore General Hospital, 2003), 52, 85. (From National Library, Singapore, call no. RSING q616.0095957 SNG)
+
 [^2]:[Chao Tzee Cheng](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/c/c14b64ac-115f-11e3-83d5-0050568939ad-OHC001573_001/web/html5/index.html), oral history interview by Lee Liang Chian, 14 October 1995, transcript and MP3 audio, Reel/Disc 1 of 7, National Archives of Singapore (accession no. 001573), 1–5.
+
 [^3]:[Chao Tzee Cheng](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/c/c14b64ac-115f-11e3-83d5-0050568939ad-OHC001573_001/web/html5/index.html), oral history interview, 14 Oct 1995, Reel/Disc 1 of 7, 8–10.
+
 [^4]:[Chao Tzee Cheng](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/c/c14b64ac-115f-11e3-83d5-0050568939ad-OHC001573_001/web/html5/index.html), interview, 14 Oct 1995, Reel/Disc 1 of 7, 13–14.
+
 [^5]:Gregory Vijayendran, “Dead Men do Tell Tales,” Law Gazette: An Official Publication of the Law Society of Singapore, June 2000, https://v1.lawgazette.com.sg/2000-6/focus2.htm.
+
 [^6]:[Chao Tzee Cheng](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/c/c14b64ac-115f-11e3-83d5-0050568939ad-OHC001573_001/web/html5/index.html), interview, 14 Oct 1995, Reel/Disc 2 of 7, 27.
+
 [^7]:Chao Tzee Cheng and Audrey Perera, [Murder Is My Business: Medical Investigations into Crime](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=9857807) (Singapore: Landmark Books, 1999), 17–26. (From National Library, Singapore, call no. RSING 364.152095957 CHA); T.F. Hwang, “[Fiancee Murder Trial: Defence Surprised](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19700321-1.2.31),” Straits Times, 21 March 1970, 4; “[The Case of the ‘Butterfly’ Death](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper20000305-1.2.6.5),” New Paper, 5 March 2000, 9. (From NewspaperSG)
+
 [^8]:Chao and Perera, [Murder Is My Business](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=9857807), 94–106; “[Injuries Made a Doctor Suspect Foul Play](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720718-1.2.95),” Straits Times, 18 July 1972, 17. (From NewspaperSG)
+
 [^9]:Chao and Perera, [Murder Is My Business](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=9857807), 44–53; Sit Yin Fong, “[Two Get Death for Killing Mum, Kids](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19850410-2.2.2),” Singapore Monitor, 10 April 1985, 1. (From NewspaperSG)
+
 [^10]:Tan Ooi Boon, [Body Parts: A British Serial Killer in Singapore](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=7669196) (Singapore: Times Book International, 1996), 14–15, 147–150. (From National Library, Singapore, call no. RSING 364.1523095957 TAN); Chao and Perera, [Murder Is My Business](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=9857807), 132–146.
+
 [^11]:Ernest Luis, “[Doctor Who Learned From the Dead](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper20000305-1.2.6.4),” New Paper, 5 March 2000, 9. (From NewspaperSG)
+
 [^12]:“[Man Escapes Death After Murder Charge Is Reduced](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19921016-1.2.34.14),” Straits Times, 16 October 1992, 31. (From NewspaperSG)
+
 [^13]:[Flor Contemplacion: Facts of the Case](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=7470355) (Singapore: Ministry of Information and the Arts, 1995), 14–15. (From National Library, Singapore, call no. RSING 364.1523095957 FLO); “[Singapore Medical Experts Dispute Manila Findings](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19950401-1.2.29.5),” Straits Times, 1 April 1995, 20; Zuraidah Ibrahim, “[Singapore Pathologists ‘100 Per Cent Correct’](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19950715-1.2.2),” Straits Times, 15 July 1995, 1. (From NewspaperSG)
+
 [^14]:[Flor Contemplacion](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7470355), 14–15; “[Singapore Medical Experts Dispute Manila Findings](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19950401-1.2.29.5)”; Zuraidah Ibrahim, “[Singapore Pathologists ‘100 Per Cent Correct’](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19950715-1.2.2).”
+
 [^15]:Yaw Yen Chong, “[S'pore Experts in Ipoh to Help Probe Poison Deaths](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19881026-1.2.65),” Straits Times, 26 October 1988, 40; Yaw Yan Chong, “[Poisoning of Liver the Cause](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19881028-1.2.27.7),” Straits Times, 28 October 1988, 17; “[Aflatoxin Likely Cause of Seven Deaths in Perak](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19890531-1.2.26.7),” Straits Times, 31 May 1989, 16. (From NewspaperSG)
+
 [^16]:Elena Chong, “['Alive When He Entered the Water'](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19840912-1.2.24.8),” Straits Times, 12 September 1984, 12; Elena Chong, “[Coroner: No Foul Play in Ex-CPIB Man's Death](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19840923-1.2.4),” Straits Times, 23 September 1984, 1. (From NewspaperSG)
 [^17]:“[Eight of Nine Who Died Could Have Been Saved](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19740206-1.2.66),” Straits Times, 6 February 1974, 8. (From NewspaperSG); Chee Yam Cheng, “Citation of 1998 SMA Honorary Membership, Prof Chao Tzee Cheng,” SMA News 30, no. 5 (1998), https://www.sma.org.sg/sma_news/3005/news/3005n7.htm; Committee of Inquiry, [Report on the Explosion at Ginza Plaza](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6441681) (Singapore: Subordinate Courts, 1993), 1, 164. (From National Library, Singapore, call no. RSING 363.11969095957 SIN); Karamjit Kaur, “[Three Passengers Identified from Ring, Hair and Fingerprint](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19980106-1.2.38.5),” Straits Times, 6 January 1998, 29. (From NewspaperSG)
+
 [^18]:Ministry of Health Singapore, Caring for Our People: 50 Years of Healthcare in Singapore (Singapore: MOH Holdings Pte Ltd, 2015), 116–117, https://www.mohh.com.sg/Documents/book/caring-for-our-people-50-years-of-healthcare-in-singapore.pdf.
-[^19]:“[Spyros Last Major Tanker Blast CID Investigated](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper19900316-1.2.7.2),” New Paper, 16 March 1990, 4. (From NewspaperSG) 
+
+[^19]:“[Spyros Last Major Tanker Blast CID Investigated](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper19900316-1.2.7.2),” New Paper, 16 March 1990, 4. (From NewspaperSG)
+
 [^20]:[Chao Tzee Cheng](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/3/32753d24-115e-11e3-83d5-0050568939ad-OHC001573_006/web/html5/index.html), interview, 14 Nov 1995, Reel/Disc 6 of 7, 88.
+
 [^21]:“[Beware the Killers in Your Home](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19750830-1.2.27.1),” New Nation, 30 August 1975, 18/19. (From NewspaperSG); National Safety First Council of Singapore, [10th Anniversary Souvenir Magazine, 1966–1976](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4980773) (Singapore: The Council, 1976), 87–100. (From National Library, Singapore, call no. RCLOS 614.80605957 NAT)
+
 [^22]:Yeo Kim Seng, “[Prof Chao: ‘My Heart Bleeds...’](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19860726-1.2.69.5.1),” Straits Times, 26 July 1986, 2. (From NewspaperSG); Chao Tzee Cheng, [How to Prevent Home Accidents](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4080039) (Singapore: Federal Publications, 1986), 1–3. (From National Library, Singapore, call no. RSING 614.853 CHA)
+
 [^23]:“[‘Magic Egg’ Could Spell Danger If Swallowed](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19840217-2.2.6.12),” Singapore Monitor, 17 February 1984, 6. (From NewspaperSG); Chan Chee Seng, “[Speech by Mr Chan Chee Seng, Senior Parliamentary Secretary (Trade and Industry), and Member of Parliament for Jalan Besar, at the Official Inauguration of the Toy Safety Authority of Singapore (TSAS) at Shangri-La Hotel on 24 March ’82 at 12.00 Noon](https://www.nas.gov.sg/archivesonline/speeches/record-details/707cc55a-115d-11e3-83d5-0050568939ad),” transcript. (From National Archives of Singapore, document no. ccs19820324s)
+
 [^24]:Chua Chin Chye, “[What to Do When Bitten](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19860815-1.2.38.30),” Straits Times, 15 August 1986, 25; “[The Pong Pong and Other Forbidden Fruit](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19861117-1.2.27.25),” Straits Times, 17 November 1986, 15. (From NewspaperSG)
+
 [^25]:T.C. Chao, J.E. Pakiam and J. Chia, “A Study of Lightning Deaths in Singapore,” Singapore Medical Journal 22, no. 3 (1981), 150–157, http://smj.sma.org.sg/2203/2203smj10.pdf; “[Stay Safe When It Rains](http://eresources.nlb.gov.sg/newspapers/Digitised/Page/straitstimes19821121-1.1.38),” Straits Times, 21 November 1982, 6; David Miller, “[Greater Chance of Being Struck by Lightning in S'pore](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19930802-1.2.31.13),” Straits Times, 2 August 1993, 24. (From NewspaperSG)
+
 [^26]:“[PUB's Safety Ruling on Gas Heaters](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19751201-1.2.92),” Straits Times, 1 December 1975, 15. (From NewspaperSG); Chao Tzee Cheng, “Forensic Medicine in Singapore,” The American Journal of Forensic Medicine and Pathology 9, no. 2 (1988), 179–181, https://journals.lww.com/amjforensicmedicine/Citation/1988/06000/Forensic_Medicine_in_Singapore.19.aspx; Seah Han Cheow and Chao Tzee Cheng, “Carbon Monoxide Poisoning in Singapore,” Singapore Medical Journal 16, no. 3 (1975), 174–176, http://smj.sma.org.sg/1603/1603smj3.pdf.
+
 [^27]:Leslie Fong, “[Move to Curb Drunken Driving](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19741108-1.2.6),” Straits Times, 8 November 1974, 1; “[Drinking and Driving: The Real Danger](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19750811-1.2.60),” Straits Times, 11 August 1975, 11; “[Drunken Driving Arrests: Now Blood Test Is Obligatory](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19760326-1.2.47.1),” Straits Times, 26 March 1976, 9. (From NewspaperSG)
+
 [^28]:[Chao Tzee Cheng](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/c/c14b64ac-115f-11e3-83d5-0050568939ad-OHC001573_001/web/html5/index.html), 14 Oct 1995, Reel/Disc 1 of 7; Christina Cheang, “[Move to Form a Society for Lawyers, Doctors](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720519-1.2.112),” Straits Times, 19 May 1972, 19. (From NewspaperSG)
+
 [^29]:Chee, “Citation of 1998 SMA Honorary Membership, Prof Chao Tzee Cheng.”
+
 [^30]:Lingam Ponnampalam, “[Joker, Eater, Singer…](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper20000223-1.2.14.1),” New Paper, 23 February 2000, 8. (From NewspaperSG)
+
 [^31]:Ponnampalam, “[Joker, Eater, Singer…](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper20000223-1.2.14.1)”
+
 [^32]:Carol Leong, “[Dead Line](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19901012-1.2.68.6.8),” Straits Times, 12 October 1990, 9. (From NewspaperSG)
+
 [^33]:Ponnampalam, “[Joker, Eater, Singer…](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper20000223-1.2.14.1)”
+
 [^34]:“[Forensic Science Gears Up for Future](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900121-1.2.25.9),” Straits Times, 21 January 1990, 20; “[Inside the World-class Forensic Institute](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19950824-1.2.67.2.1),” Straits Times, 24 August 1995, 2. (From NewspaperSG)
+
 [^35]:Leong, “[Mister Autopsy Lives on in ‘Chaozy Bears’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20000410-1.2.54.8).”
+
 [^36]:Karen Wong, “[Top Forensic Pathologist Chao Dies in New York](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20000223-1.2.6.4),” Straits Times, 23 February 2000, 3; Ponnampalam, “[Joker, Eater, Singer…](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper20000223-1.2.14.1)”
+
 [^37]:Wong Chiang Yin, “In Memoriam: Prof Chao Tzee Cheng (1934–2000),” SMA News 32, no. 2 (2000), https://www.sma.org.sg/sma_news/3202/eulogy.pdf.
 
 
