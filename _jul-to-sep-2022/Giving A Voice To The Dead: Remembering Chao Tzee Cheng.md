@@ -48,7 +48,7 @@ Chao was often invited by other countries to consult in difficult cases. These i
 #### **Investigating Mass Disasters**
 Along with criminal cases, Chao was also reputed for his forensic prowess in investigating some of the worst disasters in the modern history of Singapore. These include the explosion on board Greek oil tanker S.T. Spyros in 1978, the Sentosa Cable Car tragedy in 1983, the collapse of Hotel New World in 1986, the explosion at Ginza Plaza in 1992 and the crash of SilkAir Flight 185 in 1997.[^17]
 
-![](/images/Vol%2018%20Issue%202/Giving%20A%20Voice%20To%20The%20Dead/Giving%20A%20Voice%20To%20The%20Dead%20-%20Image%203.png)
+![](/images/Vol%2018%20Issue%202/Giving%20A%20Voice%20To%20The%20Dead/Giving%20A%20Voice%20To%20The%20Dead%20-%20Image%203.png)<div style="background-color: white;">An explosion occurred on board Greek oil tanker S.T. Spyros on 12 October 1978. Prof Chao Tzee Cheng was instrumental in bringing to light how the accident had happened. Image reproduced from Paul Wee, et al., “48 Die in Ship Blast Horror,” Straits Times 13 October 1978, 1. (From NewspaperSG).</div>
 
 In a time before DNA analysis was possible, Chao and his forensics team often worked round the clock to identify the large number of dead bodies, which were often ravaged beyond recognition.
 
@@ -84,7 +84,7 @@ In 1999, Chao co-authored Murder Is My Business: Medical Investigations into Cri
 
 Chao reached the pinnacle of his career when he was appointed head of the Institute of Science and Forensic Medicine.[^34] Even after his retirement in 1997, Chao continued to serve tirelessly as the institute’s Special Forensic Advisor until his sudden demise due to heart disease while visiting his sister in New York in February 2000.[^35] Such were Chao’s accomplishments and reputation that after his death, accolades and tributes poured in far and wide from friends, colleagues and those who knew him.[^36]
 
-![](/images/Vol%2018%20Issue%202/Giving%20A%20Voice%20To%20The%20Dead/Giving%20A%20Voice%20To%20The%20Dead%20-%20Image%205.png)
+![](/images/Vol%2018%20Issue%202/Giving%20A%20Voice%20To%20The%20Dead/Giving%20A%20Voice%20To%20The%20Dead%20-%20Image%205.png)<div style="background-color: white;">Prof Chao Tzee Cheng receiving an award from then Prime Minister Goh Chok Tong at the 30th Singapore-Malaysia Congress of Medicine in 1996. The award was in appreciation for his contributions as the former Master of the Academy of Medicine, Singapore. Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</div>
 
 In his eulogy, Chao’s nephew Dr Wong Chiang Yin, who was also the Honorary Secretary (37th to 40th Councils) of the Singapore Medical Association, noted: “[T]he job does not make a man great; it is the substance of the man that fills and defines the post. For all intents and purposes, [Prof Chao] was forensic medicine of Singapore.”[^37]
 
