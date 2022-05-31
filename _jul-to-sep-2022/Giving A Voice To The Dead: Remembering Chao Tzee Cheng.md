@@ -81,9 +81,9 @@ Chao was also a connoisseur of good food and drink, especially fine whisky and X
 
 In 1999, Chao co-authored Murder Is My Business: Medical Investigations into Crime – a book based on his better-known cases – with journalist Audrey Perera.[^33]
 
-![](/images/Vol%2018%20Issue%202/Giving%20A%20Voice%20To%20The%20Dead/Giving%20A%20Voice%20To%20The%20Dead%20-%20Image%205.png)
-
 Chao reached the pinnacle of his career when he was appointed head of the Institute of Science and Forensic Medicine.[^34] Even after his retirement in 1997, Chao continued to serve tirelessly as the institute’s Special Forensic Advisor until his sudden demise due to heart disease while visiting his sister in New York in February 2000.[^35] Such were Chao’s accomplishments and reputation that after his death, accolades and tributes poured in far and wide from friends, colleagues and those who knew him.[^36]
+
+![](/images/Vol%2018%20Issue%202/Giving%20A%20Voice%20To%20The%20Dead/Giving%20A%20Voice%20To%20The%20Dead%20-%20Image%205.png)
 
 In his eulogy, Chao’s nephew Dr Wong Chiang Yin, who was also the Honorary Secretary (37th to 40th Councils) of the Singapore Medical Association, noted: “[T]he job does not make a man great; it is the substance of the man that fills and defines the post. For all intents and purposes, [Prof Chao] was forensic medicine of Singapore.”[^37]
 
