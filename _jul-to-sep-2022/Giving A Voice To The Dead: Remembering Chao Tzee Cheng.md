@@ -13,7 +13,7 @@ Most people shy away from facing the aftermath of violent deaths. Fortunately fo
 
 During that time, Chao played a pivotal role in raising the standards of forensic medicine, both in Singapore and the region. Along the way, he worked on some of the most high-profile crimes and mass disasters in Singapore.
 
-Blazing the Trail in Forensic Pathology
+#### **Blazing the Trail in Forensic Pathology**
 Chao became a forensic pathologist by accident, literally. After completing his medical degree at Hong Kong University in 1961, he returned to Singapore where he had initially aimed to specialise in surgery. However, while on honeymoon in Johor, the car that he and his wife were travelling in plunged into a ravine. The accident put him in a week-long coma and also weakened his right hand. This dashed his hopes of becoming a surgeon. Undaunted, Chao trained himself to use his left hand and set his sights on pathology instead.
 
 In 1966, Chao left for Hammersmith Hospital in London to obtain a diploma in clinical pathology under a one-year Colombo Plan Scholarship. His boss back in Singapore suggested that he specialise in forensic pathology and as a result, Chao’s scholarship was extended by another year and a half so that he could obtain his diplomas in forensic pathology and medical jurisprudence.
@@ -22,7 +22,7 @@ Chao returned to Singapore in 1969 where he established the first dedicated fore
 
 Before Chao, there were no professionally trained forensic pathologists in Singapore. In an oral history interview, he recalled that Coroner’s cases used to be handled by ordinary pathologists with no specialised training. As a result, standards varied from person to person. Upon his return to Singapore, Chao revamped the entire system. Under his watch, forensic pathologists began visiting crime scenes as a matter of course. Prior to that, pathologists would simply examine dead bodies in the mortuary. “One by one, you just carry on the work, finish the post-mortem and give a report and that’s all. But I thought there is much more than that,” he said.
 
-Solving Unnatural and Violent Deaths
+#### **Solving Unnatural and Violent Deaths**
 Chao’s work as a forensic pathologist involved conducting autopsies in cases of sudden, unnatural or violent deaths, using his forensic skills to reconstruct the cause of death and give the dead a voice. 
 In a piece penned for the Law Gazette after Chao’s death in 2000, Clinical Professor Chee Yam Cheng, Master of the Academy of Medicine, Singapore, wrote that Chao had “the knowledge of a medical doctor, the sharp eyes and instinct of Sherlock Holmes, and the oratorical skills and confidence of a lawyer in court”.
 
@@ -40,7 +40,7 @@ One of Chao’s most best-known cases concerned Filipino domestic helper Flor Co
 
 Chao was often invited by other countries to consult in difficult cases. These included the Ipoh loh shee fun (rice noodles) food poisoning incident in 1998 in which noodles contaminated with aflatoxin claimed 14 lives. He also helped with the 1984 inquiry into the death of Ponniah Rajaratnam, a retired Singaporean Deputy Commissioner of Police and former Director of the Corrupt Practices Investigation Bureau. Rajaratnam was then heading Brunei’s Anti-Corruption Bureau, and it was alleged that he had been kidnapped and strangled while in Brunei. However, Chao determined that Rajaratnam died of drowning and no foul play was suspected.
 
-Investigating Mass Disasters
+#### **Investigating Mass Disasters**
 Along with criminal cases, Chao was also reputed for his forensic prowess in investigating some of the worst disasters in the modern history of Singapore. These include the explosion on board Greek oil tanker S.T. Spyros in 1978, the Sentosa Cable Car tragedy in 1983, the collapse of Hotel New World in 1986, the explosion at Ginza Plaza in 1992 and the crash of SilkAir Flight 185 in 1997.
 
 In a time before DNA analysis was possible, Chao and his forensics team often worked round the clock to identify the large number of dead bodies, which were often ravaged beyond recognition.
@@ -51,7 +51,7 @@ The Spyros incident on 12 October 1978 was described as the “worst peace-time 
 
 He began to sort the dead into groups, based on how they died. Some had severe burns, while others had less severe burns or died from carbon monoxide poisoning. “So from then, I plotted the position on the plan [of the Spyros] and found that actually you can trace the path of fire. [T]hose in the direct path of fire would be burned very severely, those outside would be less… we went to the scene and found out [that] the origin of the fire was from the fuel tank,” explained Chao.
 
-Advocating Safety
+#### **Advocating Safety**
 Because of his work, safety was an issue close to Chao’s heart, and he often emphasised the importance of accident prevention. As Deputy Chairman of the Home Safety Committee of the National Safety First Council (NSFC), Chao actively advocated for safety through studies, videos and campaigns in Singapore, particularly those concerning home accidents.
 
 “It grieves me to know there is more than one case of people getting burnt or scalded every day and 40 per cent of these cases involve people below the age of 11,” he said in a 1986 interview when his book, How to Prevent Home Accidents, was launched.
@@ -62,7 +62,7 @@ Chao also helped to usher in new regulations to save lives. In the course of his
 
 Chao’s report on road traffic deaths between 1969 and 1973 also prompted the NSFC to recommend a compulsory medical test for suspected drunk drivers in 1974, which consequently led to the Road Traffic (Amendment) Bill of 1976.
 
-Honouring and Remembering 
+#### **Honouring and Remembering**
 In addition to his regular work as a forensic pathologist, Chao also taught generations of medical professionals as well as helmed local and international medical associations. He was president of the Indo-Pacific Association of Law, Medicine and Science between 1983 and 1992, and he proposed the establishment of Singapore’s Medico-Legal Society in 1972. Awards he received include the Public Administration Meritorious Service Medal in 1995 for the Flor Contemplacion case and the Singapore Medical Association Honorary Membership, its highest honour, in 1998. 
 While Chao’s work was undoubtedly morbid, he did not let that define him. Chao was a charismatic man known for his wit, joviality and larger-than-life personality, and one who enjoyed various interests and hobbies. His love for singing had bagged him numerous trophies in competitions, such that he was even called the “Pavarotti of the Medical Alumni Karaoke” because he could sing in Italian.
 
@@ -73,7 +73,7 @@ Chao reached the pinnacle of his career when he was appointed head of the Instit
 
 In his eulogy, Chao’s nephew Dr Wong Chiang Yin, who was also the Honorary Secretary (37th to 40th Councils) of the Singapore Medical Association, noted: “[T]he job does not make a man great; it is the substance of the man that fills and defines the post. For all intents and purposes, [Prof Chao] was forensic medicine of Singapore.”
 
-Notes
+#### **Notes**
 Sng Ewe Hui Jimmy, The Science of Medical Detection: 100 Years of Pathology, 1903–2003 (Singapore: Department of Pathology, Singapore General Hospital, 2003), 52, 85. (From National Library, Singapore, call no. RSING q616.0095957 SNG)
 Chao Tzee Cheng, oral history interview by Lee Liang Chian, 14 October 1995, transcript and MP3 audio, Reel/Disc 1 of 7, National Archives of Singapore (accession no. 001573), 1–5. 
 Chao Tzee Cheng, oral history interview, 14 Oct 1995, Reel/Disc 1 of 7, 8–10.  
