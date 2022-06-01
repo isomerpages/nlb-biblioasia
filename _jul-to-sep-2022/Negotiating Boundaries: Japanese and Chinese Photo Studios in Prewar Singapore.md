@@ -138,7 +138,7 @@ By the end of 1941, the famous Nakajima & Co. in Singapore was forced to close d
 <div style="background-color: white;">
 <br/>
 <img src="/images/Vol%2018%20Issue%202/Authors/ZhuangWubin.png" style="width: 100px; height: 100px;"/>
-	<b>Zhuang Wubin</b> is a writer, curator and artist. He has a PhD from the University of Westminster (London) and was a Lee Kong Chian Research Fellow (2017–18). Wubin is interested in photography’s entanglements with modernity, colonialism, nationalism, the Cold War and “Chineseness”.</div>
+	<b>Zhuang Wubin</b> is a writer, curator and artist. He has a PhD from the University of Westminster (London) and was a Lee Kong Chian Research Fellow (2017–18) at the National Library, Singapore. Wubin is interested in photography’s entanglements with modernity, colonialism, nationalism, the Cold War and “Chineseness”.</div>
 
 
 #### **NOTES**
