@@ -100,11 +100,11 @@ Although he had largely retired from the profession, the Japanese photographer s
 
 Daguerre Studio was opened from 8 am to 9 pm daily. Lim was the main photographer and he had four people working with him, including a darkroom specialist and a retoucher.[^31] They were all Hainanese and related to one another in terms of family or clan.[^32]
 
-Lim started taking in Hainanese apprentices, introduced by his relatives and friends. His nephew Lim Tow Tuan (b. 1916 in Hainan) arrived in Singapore in 1941 to work as an unpaid apprentice.[^33] According to Lim Ming Joon, his former employees and apprentices subsequently went on to open eight photo studios in Singapore, Johor Bahru, Brunei and North Borneo.[^34]
-
 ![](/images/Vol%2018%20Issue%202/Chinese%20Japanese%20Photo%20Studios/edited_worktable.png)
 <div style="background-color: white;">A retoucher at his work table, 1900–30. <i>Lee Brothers Studio Collection, courtesy of National Archives of Singapore.</i>
 </div>
+
+Lim started taking in Hainanese apprentices, introduced by his relatives and friends. His nephew Lim Tow Tuan (b. 1916 in Hainan) arrived in Singapore in 1941 to work as an unpaid apprentice.[^33] According to Lim Ming Joon, his former employees and apprentices subsequently went on to open eight photo studios in Singapore, Johor Bahru, Brunei and North Borneo.[^34]
 
 In the early days, the overwhelming majority of Daguerre’s customers were Hainanese[^35], although there were also some Malay, Indian and British patrons. 
 
