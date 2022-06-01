@@ -20,7 +20,7 @@ Many of these Japanese businesses were located within the vicinity of what found
 
 Growing up on Queen Street, Mosbergen was neighbours with some of them, but did not mingle much. “There was no relationship because first, I didn’t speak Japanese. And they were very insular people – they didn’t mix very much with us,” he said. Mosbergen also recalled several photo studios along Middle Road and North Bridge Road, including some very good Japanese ones. He still owned a photo taken by one such studio.[^4]
 
-![](/images/Vol%2018%20Issue%202/Chinese%20Japanese%20Photo%20Studios/19980002860%20-%20IMG0091.png)
+![](/images/Vol%2018%20Issue%202/Chinese%20Japanese%20Photo%20Studios/19980_Edit.png)
 <div style="background-color: white;">Lee Brothers Studio at 58-4 Hill Street, 1910s. <i>Lee Brothers Studio Collection, courtesy of National Archives of Singapore.</i>
 </div>
 
