@@ -95,10 +95,6 @@ Lim could communicate with the Japanese photographer because both of them spoke 
 Lim’s photo studio tapped into the broader Hainanese network of cultural ties, kinship and business interests to facilitate its existence and survival. It was initially sited within the premises of China Book Company on North Bridge Road, which was owned by four Hainanese brothers from the Foo family.[^29] The bookstore was located in the area where the majority of the Hainanese lived, worked and congregated, overlapping Little Japan. Middle Road, for instance, was colloquially known to the Chinese as “Hainan first street”.
 
  Business picked up quickly and in less than a year, Daguerre Studio moved to a third-floor unit along Middle Road. One day, an aged Japanese photographer turned up at the studio. Apparently, he used to rent the same unit to run his studio and was curious to find out who had taken over the space. Over time, the two men became good friends.  
-
-![](/images/Vol%2018%20Issue%202/Chinese%20Japanese%20Photo%20Studios/Group%20photo%20Daguerre.png)
-<div style="background-color: white;">The graduating cohort of secondary four students from Catholic High School, taken in 1963 by Daguerre Studio. The studio’s name is embossed on the bottom right corner. <i>Photo courtesy of Chong Wing Hong.</i>
-</div>
  
 Although he had largely retired from the profession, the Japanese photographer still had a contract with the Police Depot off Thomson Road. Hence, whenever he needed to replenish his glass plate negatives, he would buy these from Daguerre. Later, when he realised that the Japanese invasion was imminent, he gave the police contract to Lim and tried to leave Singapore. However, he was arrested by the British authorities and exiled to India.[^30]
 
@@ -115,6 +111,10 @@ In the early days, the overwhelming majority of Daguerre’s customers were Hain
 The Chinese customers were mainly from the working class who liked to take pictures to send home to China. They would usually come in their Sunday best. If they were unprepared, Lim would lend them suits and neckties. The studio also prepared spectacles without lenses for customers who wanted to look more serious in their portraits. Lim and his customers were clearly mindful of the impression that these photos would have on loved ones in China. At the very least, the customers would not want to give the impression that they could not even afford nice clothes, having made the difficult decision to come to Singapore.[^36]
 
 Lim also took on wedding shoots. Before the war, the trend, at least for the Hainanese, was to host a banquet for family and friends at one of the many coffeeshops near the studio. Lim would take group pictures of the couple and the guests.[^37] Over time, Daguerre became well known for taking large group photos. These were often requested by schools, associations, guilds and unions, usually for the purpose of investiture, commemoration or graduation. 
+
+![](/images/Vol%2018%20Issue%202/Chinese%20Japanese%20Photo%20Studios/Group%20photo%20Daguerre.png)
+<div style="background-color: white;">The graduating cohort of secondary four students from Catholic High School, taken in 1963 by Daguerre Studio. The studio’s name is embossed on the bottom right corner. <i>Photo courtesy of Chong Wing Hong.</i>
+</div>
 
 Lim began honing his expertise before the war, when camera technology made it challenging to photograph large groups of people. The biggest group that Lim had worked with occurred after the war when he was invited to photograph members of the Malaysian Chinese Association at a national meeting in Seremban, Malaya. Lim spent nearly one hour trying to position some 3,300 people.[^38]
 
