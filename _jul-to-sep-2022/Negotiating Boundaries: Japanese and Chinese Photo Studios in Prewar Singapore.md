@@ -161,7 +161,7 @@ By the end of 1941, the famous Nakajima & Co. in Singapore was forced to close d
 
 [^9]: “[Souvenir of Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19321101-1.2.101),” *Singapore Free Press and Mercantile Advertiser*, 1 November 1932, 15; “[A Christmas Shopping Guide](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19351208-1.2.66),” *Straits Times*, 8 December 1935, 11; “[A Christmas Shopping Guide](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19371205-1.2.101),” *Straits Times*, 5 December 1937, 17. (From NewspaperSG)
 
-[^10]: 童子达 [Tong Zida], [新加坡各业调查](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84528775) [*Survey of Singapore’s Different Industries*] (Singapore: The Chinese Industrial and Commercial Continuation School, 1928), 119. (From National Library, Singapore, call no. RRARE 650.58 TTT; microfilm no. NL9586)
+[^10]: 童子达 [Tong Zida], [新加坡各业调查](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=84528775) [*Survey of Singapore’s Different Industries*] (Singapore: The Chinese Industrial and Commercial Continuation School, 1928), 119. (From National Library, Singapore, call no. RRARE 650.58 TTT; microfilm no. NL9586)
 
 [^11]: 李香南 [Li Xiangnan], [照相馆业广东人称雄](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb19980322-1.2.66.2) [“Cantonese Dominate the Photo Studio Business”], 联合早报 [*Lianhe Zaobao*], 22 March 1998, 46; 秦长春 [Qin Changchun], 	[新加坡照相业史话](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/scjp19770707-1.2.58.1) [“A History of the Photographic Trade in Singapore”], 星洲日報 [*Sin Chew Jit Poh*], 7 July 1977, 16. (From NewspaperSG)
 
