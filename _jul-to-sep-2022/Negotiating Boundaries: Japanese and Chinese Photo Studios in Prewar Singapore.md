@@ -143,7 +143,7 @@ By the end of 1941, the famous Nakajima & Co. in Singapore was forced to close d
 
 #### **NOTES**
 
-[^1]: Regina Hong, Ling Xi Min and Naoko Shimazu, [*Postcard Impressions of Early 20th-century Singapore: Perspectives from the Japanese Community*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204353382) (Singapore: National Library Board, 2020), 115. (From National Library, Singapore, call no. RSING 959.57 HON-[HIS])
+[^1]: Regina Hong, Ling Xi Min and Naoko Shimazu, [*Postcard Impressions of Early 20th-century Singapore: Perspectives from the Japanese Community*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204353382) (Singapore: National Library Board, 2020), 115. (From National Library, Singapore, call no. RSING 959.57 HON-[HIS])
 
 [^2]: Mitsuharu Tsukuda, [馬來に於ける邦人活動の現況](https://eresources.nlb.gov.sg/printheritage/detail/95c78961-3249-4f29-869e-72afa0339bbf.aspx) (*Marai ni okeru hōjin katsudō no genkyō*) [*Current Status of the Activities of the Japanese in Malaya*] (Singapore: Nan'yō oyobi Nihonjinsha,1917), 37–48. (From Book SG; accession no. B29262852C). [Note: I would like to thank Mizuka Kimura and Miho Odaka for verifying my understanding of this source. This publication is part of the Lim Shao Bin Collection in the National Library, Singapore.]
 
