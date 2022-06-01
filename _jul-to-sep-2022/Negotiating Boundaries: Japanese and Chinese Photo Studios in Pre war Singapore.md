@@ -51,19 +51,19 @@ David Ng Shin Chong (b. 1919, Singapore), a Hakka photographer who began his app
 One of the most famous Cantonese photo studios in Singapore was the Lee Brothers Studio, established by Lee King Yan (1877–1957) and Lee Poh Yan (1884–1960). The brothers were part of the extended Lee family, who was originally from the Nanhai district in Guangdong province. Much has been written about the chain of photo studios that the family had opened in Singapore, Malaya and Java. In Singapore, the family was responsible for establishing Yong Fong, Lee Brothers and Eastern Studio, among others.[^16]
 
 ![](/images/Vol%2018%20Issue%202/Chinese%20Japanese%20Photo%20Studios/19980002145%20-%20IMG0004.png)
-<div style="background-color: white;">Lee Poh Yan and Lee King Yan (standing third and fourth from the left respectively) with their family members, 1905–10. <i>Marjorie Lau Collection, courtesy of National Archives of Singapore </i>
+<div style="background-color: white;">Lee Poh Yan and Lee King Yan (standing third and fourth from the left respectively) with their family members, 1905–10. <i>Marjorie Lau Collection, courtesy of National Archives of Singapore. </i>
 </div>
 
 Lee Shui Loon (1864–1935), also known as Lee Yin Fun, was the most senior member of the family to sink roots locally, prompting art historian Daphne Ang to call him the “godfather of photography in Singapore”.[^17] He established Yong Fong, which was active as early as 1908, along South Bridge Road, just across from Mosque Street.[^18]
 
 ![](/images/Vol%2018%20Issue%202/Chinese%20Japanese%20Photo%20Studios/19980005773%20-%20IMG0026.png)
-<div style="background-color: white;">Photo of a Malay family, c.1920–45. <i>Lee Brothers Studio Collection, courtesy of National Archives of Singapore </i>
+<div style="background-color: white;">Photo of a Malay family, c.1920–45. <i>Lee Brothers Studio Collection, courtesy of National Archives of Singapore. </i>
 </div>
 
 Lee Shui Loon’s nephews, Lee King Yan and Lee Poh Yan, who set up Lee Brothers, were effectively bilingual, speaking Cantonese at home and using English, if necessary, at work.[^19] Their command of English enabled them to serve a different class of clientele by setting up shop on Hill Street, in the business district in around 1908.[^20] Soon after, Lee Brothers became “one of the most expensive studios in Singapore”.[^21]
 
 ![](/images/Vol%2018%20Issue%202/Chinese%20Japanese%20Photo%20Studios/19990002486%20-%20IMG0011.png)
-<div style="background-color: white;">Portrait of a Chinese boy taken at Yong Fong Studio, which was founded by Lee Shui Loon on South Bridge Road. <i>The Peranakan Association Collection, courtesy of National Archives of Singapore </i>
+<div style="background-color: white;">Portrait of a Chinese boy taken at Yong Fong Studio, which was founded by Lee Shui Loon on South Bridge Road. <i>The Peranakan Association Collection, courtesy of National Archives of Singapore. </i>
 </div>
 
 Beyond the network of photo studios that the Lee family had established, there were other Cantonese-owned studios catering to clients across the economic spectrum. However, the division among dialect groups seemed to discourage certain Chinese customers from patronising Cantonese studios. 
@@ -79,7 +79,7 @@ Despite the studio’s proximity to the Hokkien community, it was frequented mos
 It is unlikely that these divisions were strictly observed in practice, especially among non-Cantonese customers at the lower end of the economic spectrum. If people needed to have their formal portraits taken, they would inevitably have to patronise the Cantonese studios, unlike more affluent customers who enjoyed the luxury of choice. 
 
 ![](/images/Vol%2018%20Issue%202/Chinese%20Japanese%20Photo%20Studios/19980002133%20-%20IMG0020.png)
-<div style="background-color: white;">Photo of a Eurasian family, 1910–25. <i>Lee Brothers Studio Collection, courtesy of National Archives of Singapore</i>
+<div style="background-color: white;">Photo of a Eurasian family, 1910–25. <i>Lee Brothers Studio Collection, courtesy of National Archives of Singapore.</i>
 </div>
 
 Some aspiring non-Cantonese photographers managed to enter the trade despite the barriers of dialect and family.[^23] David Ng Shin Chong, the Hakka photographer mentioned previously, started out as an apprentice at Natural Studio on North Bridge Road. The studio was owned by a Cantonese-Teochew couple. Since it was located within the Hainanese enclave, they had a lot of Hainanese customers although people from other dialect groups also patronised the studio.[^24] By 1939, Ng had joined the Cantonese-owned Fee Fee Photographic Store, which traded in photographic supplies and provided developing and printing services.
