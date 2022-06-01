@@ -102,7 +102,7 @@ Lim’s photo studio tapped into the broader Hainanese network of cultural ties,
  
 Although he had largely retired from the profession, the Japanese photographer still had a contract with the Police Depot off Thomson Road. Hence, whenever he needed to replenish his glass plate negatives, he would buy these from Daguerre. Later, when he realised that the Japanese invasion was imminent, he gave the police contract to Lim and tried to leave Singapore. However, he was arrested by the British authorities and exiled to India.[^30]
 
-Daguerre Studio was opened from 8 am to 9 pm daily. Lim was the main photographer and he had four people working with him, including a darkroom specialist and a re-toucher.[^31] They were all Hainanese and related to one another in terms of family or clan.[^32]
+Daguerre Studio was opened from 8 am to 9 pm daily. Lim was the main photographer and he had four people working with him, including a darkroom specialist and a retoucher.[^31] They were all Hainanese and related to one another in terms of family or clan.[^32]
 
 Lim started taking in Hainanese apprentices, introduced by his relatives and friends. His nephew Lim Tow Tuan (b. 1916 in Hainan) arrived in Singapore in 1941 to work as an unpaid apprentice.[^33] According to Lim Ming Joon, his former employees and apprentices subsequently went on to open eight photo studios in Singapore, Johor Bahru, Brunei and North Borneo.[^34]
 
