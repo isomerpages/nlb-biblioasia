@@ -120,10 +120,9 @@ Lim began honing his expertise before the war, when camera technology made it ch
 
 Lim was still working and taking pictures at large gatherings in the 1980s. In a 1983 interview with the *Straits Times* he said: “There are fewer group pictures of hundreds of people these days. But there are enough jobs in the studio and outdoors to keep me busy. Some of my old-time clients include ministers and members of Parliament. They are surprised to see me still turning up at community centres and other functions for group pictures.”[^39]
 
-![](/images/Vol%2018%20Issue%202/Chinese%20Japanese%20Photo%20Studios/Screenshot.png)
+![](/images/Vol%2018%20Issue%202/Chinese%20Japanese%20Photo%20Studios/weekendeast_edit.png)
 <div style="background-color: white;">Lim Ming Joon of Daguerre Studio. <i>Image reproduced from To Chee Eng, “Ming Joon Is Still Clicking Away at 85,” Weekend East, 19 June 1987, 3. (From NewspaperSG).</i>
 </div>
-
 
 The emergence of the Hainanese-owned Daguerre Studio marked the gradual loosening of Cantonese dominance in the photographic trade of Singapore. Its establishment was made possible, partly through the help of Japanese photographers. Soon, more Hainanese photo studios began opening. One reason for the survival and longevity of Chinese photo studios was the myriad of Chinese associations and institutions in Singapore and Malaya, which provided a constant source of work and revenue for these studios.
 
