@@ -91,16 +91,11 @@ Chao reached the pinnacle of his career when he was appointed head of the Instit
 <div style="background-color: white;">Prof Chao Tzee Cheng passed away in New York in February 2000. <i>Image reproduced from Karen Wong, “Top Forensic Pathologist Chao Dies in New York,” Straits Times, 23 February 2000, 3. (From NewspaperSG).</i></div>
 
 In his eulogy, Chao’s nephew Dr Wong Chiang Yin, who was also the Honorary Secretary (37th to 40th Councils) of the Singapore Medical Association, noted: “[T]he job does not make a man great; it is the substance of the man that fills and defines the post. For all intents and purposes, [Prof Chao] was forensic medicine of Singapore.”[^37]
-
-<div style="background-color: white;">
-<br/>
-<img src="/images/Vol%2018%20Issue%202/Authors/ZhuangWubin.png" style="width: 100px; height: 100px;"/>
-	<b>Zhuang Wubin</b> is a writer, curator and artist. He has a PhD from the University of Westminster (London) and was a Lee Kong Chian Research Fellow (2017–18). Wubin is interested in photography’s entanglements with modernity, colonialism, nationalism, the Cold War and “Chineseness”.</div>
 	
 <div style="background-color: white;">
 <br/>
 <img src="/images/Vol%2018%20Issue%202/Authors/Goh%20Lee%20Kim.png" style="width: 100px; height: 100px;"/>
-	<b>Zhuang Wubin</b>Goh Lee Kim is a Librarian with the National Library, Singapore. She is part of the team that curates and promotes access to the library’s digital collections.</div>
+	<b>Goh Lee Kim</b> is a Librarian with the National Library, Singapore. She is part of the team that curates and promotes access to the library’s digital collections.</div>
 
 #### **Notes**
 
