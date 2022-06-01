@@ -92,6 +92,11 @@ Chao reached the pinnacle of his career when he was appointed head of the Instit
 
 In his eulogy, Chao’s nephew Dr Wong Chiang Yin, who was also the Honorary Secretary (37th to 40th Councils) of the Singapore Medical Association, noted: “[T]he job does not make a man great; it is the substance of the man that fills and defines the post. For all intents and purposes, [Prof Chao] was forensic medicine of Singapore.”[^37]
 
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol%2018%20Issue%202/Authors/ZhuangWubin.png" style="width: 100px; height: 100px;"/>
+	<b>Zhuang Wubin</b> is a writer, curator and artist. He has a PhD from the University of Westminster (London) and was a Lee Kong Chian Research Fellow (2017–18). Wubin is interested in photography’s entanglements with modernity, colonialism, nationalism, the Cold War and “Chineseness”.</div>
+
 #### **Notes**
 
 [^1]: Sng Ewe Hui Jimmy, [*The Science of Medical Detection: 100 Years of Pathology, 1903–2003*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12280384) (Singapore: Department of Pathology, Singapore General Hospital, 2003), 52, 85. (From National Library, Singapore, call no. RSING q616.0095957 SNG)
