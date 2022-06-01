@@ -157,7 +157,7 @@ By the end of 1941, the famous Nakajima & Co. in Singapore was forced to close d
 
 [^7]: For a brief introduction on the involvement of studio and amateur photographers in the Malaya Borneo Exhibition, see Zhuang Wubin, “[Exhibiting Photography in Pre-war Singapore](https://biblioasia.nlb.gov.sg/vol-17/issue-3/oct-dec-2021/prewarphotography),” *BiblioAsia* 17, no. 3 (October–December 2021). 
 
-[^8]: “[Page 16 Advertisements Column 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19231124-1.2.102.1),” *Straits Times*, 24 November 1923, 16; “[Page 5 Advertisements Column 3](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19231130-1.2.27.3),” Malaya Tribune, 30 November 1923, 5. (From NewspaperSG)
+[^8]: “[Page 16 Advertisements Column 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19231124-1.2.102.1),” *Straits Times*, 24 November 1923, 16; “[Page 5 Advertisements Column 3](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19231130-1.2.27.3),” *Malaya Tribune*, 30 November 1923, 5. (From NewspaperSG)
 
 [^9]: “[Souvenir of Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19321101-1.2.101),” *Singapore Free Press and Mercantile Advertiser*, 1 November 1932, 15; “[A Christmas Shopping Guide](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19351208-1.2.66),” *Straits Times*, 8 December 1935, 11; “[A Christmas Shopping Guide](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19371205-1.2.101),” *Straits Times*, 5 December 1937, 17. (From NewspaperSG)
 
