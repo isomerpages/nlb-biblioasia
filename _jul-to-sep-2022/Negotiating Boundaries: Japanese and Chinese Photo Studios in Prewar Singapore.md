@@ -106,7 +106,7 @@ Daguerre Studio was opened from 8 am to 9 pm daily. Lim was the main photographe
 
 Lim started taking in Hainanese apprentices, introduced by his relatives and friends. His nephew Lim Tow Tuan (b. 1916 in Hainan) arrived in Singapore in 1941 to work as an unpaid apprentice.[^33] According to Lim Ming Joon, his former employees and apprentices subsequently went on to open eight photo studios in Singapore, Johor Bahru, Brunei and North Borneo.[^34]
 
-In the early days, the overwhelming majority of Daguerre’s customers were Hainanese[^35], although there were also some Malay, Indian and British patrons. 
+In the early days, the overwhelming majority of Daguerre’s customers were Hainanese,[^35] although there were also some Malay, Indian and British patrons. 
 
 The Chinese customers were mainly from the working class who liked to take pictures to send home to China. They would usually come in their Sunday best. If they were unprepared, Lim would lend them suits and neckties. The studio also prepared spectacles without lenses for customers who wanted to look more serious in their portraits. Lim and his customers were clearly mindful of the impression that these photos would have on loved ones in China. At the very least, the customers would not want to give the impression that they could not even afford nice clothes, having made the difficult decision to come to Singapore.[^36]
 
