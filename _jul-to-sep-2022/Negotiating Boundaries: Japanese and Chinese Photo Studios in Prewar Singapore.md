@@ -50,7 +50,7 @@ One of the most famous Cantonese photo studios in Singapore was the Lee Brothers
 <div style="background-color: white;">Lee Brothers Studio at 58-4 Hill Street, 1910s. <i>Lee Brothers Studio Collection, courtesy of National Archives of Singapore.</i>
 </div>
 
-![](/images/Vol%2018%20Issue%202/Chinese%20Japanese%20Photo%20Studios/19980002145%20-%20IMG0004.png)
+![](/images/Vol%2018%20Issue%202/Chinese%20Japanese%20Photo%20Studios/199800edit.png)
 <div style="background-color: white;">Lee Poh Yan and Lee King Yan (standing third and fourth from the left respectively) with their family members, 1905–10. <i>Marjorie Lau Collection, courtesy of National Archives of Singapore. </i>
 </div>
 
