@@ -78,7 +78,7 @@ Despite the studio’s proximity to the Hokkien community, it was frequented mos
 
 It is unlikely that these divisions were strictly observed in practice, especially among non-Cantonese customers at the lower end of the economic spectrum. If people needed to have their formal portraits taken, they would inevitably have to patronise the Cantonese studios, unlike more affluent customers who enjoyed the luxury of choice. 
 
-![](/images/Vol%2018%20Issue%202/Chinese%20Japanese%20Photo%20Studios/19980002133%20-%20IMG0020.png)
+![](/images/Vol%2018%20Issue%202/Chinese%20Japanese%20Photo%20Studios/199800021edit0.png)
 <div style="background-color: white;">Photo of a Eurasian family, 1910–25. <i>Lee Brothers Studio Collection, courtesy of National Archives of Singapore.</i>
 </div>
 
