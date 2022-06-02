@@ -13,14 +13,15 @@ sections:
       button: A History of The Padang
       url: /vol-18/issue-1/apr-to-jun-2022/history-padang
   - infopic:
-      title: Into the Night
-      subtitle: "Video: stories from biblioasia"
-      description: "Cabaret dancers like Rose Chan were famous. But what were their
-        lives really like? "
-      button: Beneath the Glitz and Glamour
-      url: /videos/into-the-night
-      image: "/images/Videos: BA Stories/into the night.jpg"
-      alt: Cabaret dancers
+      title: Hearts and Minds
+      subtitle: "video: Stories from BiblioAsia"
+      description: A Malayan Special Branch police inspector (played by Jo Tan)
+        interrogates a suspected communist (played by Oon Shu An). Who will
+        prevail in the battle of wits?
+      button: "watch the showdown "
+      url: /videos/hearts-minds
+      image: "/images/Videos: BA Stories/heartsandminds.jpg"
+      alt: Image alt text
   - infopic:
       title: The Story of Singapore’s Changing Wet Markets
       subtitle: places
@@ -31,14 +32,14 @@ sections:
         how these markets have changed over time.
       alt: wet markets
   - infopic:
-      title: The Poet and the Night Train
-      subtitle: "Video: Stories from BiblioAsia"
-      description: "He writes Singapore’s first book-length poem, then vanishes from
-        history. Discover how the mystery of the missing poet was solved. "
-      button: Singapore's forgotten poet
-      url: /videos/poet-francis-p-ng-night-train
-      image: "/images/Videos: BA Stories/Francis P NG forgotten poet.jpg"
-      alt: Francis P. Ng
+      title: Into the Night
+      subtitle: "Video: stories from biblioasia"
+      description: "Cabaret dancers like Rose Chan were famous. But what were their
+        lives really like? "
+      button: Beneath the Glitz and Glamour
+      url: /videos/into-the-night
+      image: "/images/Videos: BA Stories/into the night.jpg"
+      alt: Cabaret dancers
   - infopic:
       title: Nature Conservation in Singapore
       subtitle: "‎Biodiversity Day "
@@ -49,13 +50,14 @@ sections:
       image: /images/Vol-17-issue-1/nature/pangolin.jpg
       alt: Nature Conservation Singapore
   - infopic:
-      title: The Extraordinary Life of Kunnuck Mistree
-      subtitle: "video: Stories from BiblioAsia"
-      description: "How did a 19th-century convict become a wealthy philanthropist? "
-      button: "a prison-to-riches story "
-      url: /videos/kunnuck-mistree
-      image: "/images/Videos: BA Stories/kunnuckmistree.jpg"
-      alt: " Kunnuck Mistree"
+      title: The Poet and the Night Train
+      subtitle: "Video: Stories from BiblioAsia"
+      description: "He writes Singapore’s first book-length poem, then vanishes from
+        history. Discover how the mystery of the missing poet was solved. "
+      button: Singapore's forgotten poet
+      url: /videos/poet-francis-p-ng-night-train
+      image: "/images/Videos: BA Stories/Francis P NG forgotten poet.jpg"
+      alt: Francis P. Ng
   - infopic:
       title: Recipes for the Ideal Singaporean Female
       subtitle: mother's day
@@ -67,6 +69,14 @@ sections:
       image: /images/Vol-13-issue-4/ideal-singaporean-female/01_idealsgfemale.png
       alt: Image alt text
   - infopic:
+      title: The Extraordinary Life of Kunnuck Mistree
+      subtitle: "video: Stories from BiblioAsia"
+      description: "How did a 19th-century convict become a wealthy philanthropist? "
+      button: "a prison-to-riches story "
+      url: /videos/kunnuck-mistree
+      image: "/images/Videos: BA Stories/kunnuckmistree.jpg"
+      alt: " Kunnuck Mistree"
+  - infopic:
       title: A Qur’an Made in Singapore
       subtitle: hari raya
       button: "More on the 1869 Qur’an "
@@ -76,16 +86,6 @@ sections:
         earliest extant copies to have been printed at Kampong Gelam in
         Singapore.
       alt: Qur'an
-  - infopic:
-      title: Hearts and Minds
-      subtitle: "video: Stories from BiblioAsia"
-      description: A Malayan Special Branch police inspector (played by Jo Tan)
-        interrogates a suspected communist (played by Oon Shu An). Who will
-        prevail in the battle of wits?
-      button: "watch the showdown "
-      url: /videos/hearts-minds
-      image: "/images/Videos: BA Stories/heartsandminds.jpg"
-      alt: Image alt text
   - infopic:
       title: Cinema Pioneer Tan Cheng Kee
       subtitle: People
