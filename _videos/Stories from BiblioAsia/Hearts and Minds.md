@@ -6,9 +6,9 @@ description: A cat-and-mouse hunt between two women that will determine the fate
 third_nav_title: Stories from BiblioAsia
 image: "/images/Videos: BA Stories/heartsandminds.jpg"
 ---
-#### A police inspector. A suspected communist. Who will prevail in the battle of wits? Find out on 2 June 2022.
+#### A police inspector. A suspected communist. Who will prevail in the battle of wits? 
 
-![Hearts and Minds Shu Ann](/images/Videos:%20BA%20Stories/heartsandminds.jpg)
+<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src="https://www.youtube.com/embed/EnB0gs2fwUA" frameborder='0' allowfullscreen></iframe></div>
 
 This docudrama involves a tense showdown between Inspector Irene Lee (played by award-winning actress Jo Tan) of the Malayan Special Branch, and Lee Meng (played by Oon Shu An, above), the suspected head courier of the Malayan Communist Party. Does the steely Inspector Lee unearth the truth from the wily Lee Meng? The bravura performances by two talented actors will keep you riveted in your seats. 
 
