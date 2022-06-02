@@ -56,7 +56,7 @@ One of the most famous Cantonese photo studios in Singapore was the Lee Brothers
 
 Lee Shui Loon (1864–1935), also known as Lee Yin Fun, was the most senior member of the family to sink roots locally, prompting art historian Daphne Ang to call him the “godfather of photography in Singapore”.[^17] He established Yong Fong, which was active as early as 1908, along South Bridge Road, just across from Mosque Street.[^18]
 
-![](/images/Vol%2018%20Issue%202/Chinese%20Japanese%20Photo%20Studios/19980005773%20-%20IMG0026.png)
+![](/images/Vol%2018%20Issue%202/Chinese%20Japanese%20Photo%20Studios/Chinese%20Boy.png)
 <div style="background-color: white;">Photo of a Malay family, c.1920–45. <i>Lee Brothers Studio Collection, courtesy of National Archives of Singapore. </i>
 </div>
 
@@ -100,7 +100,7 @@ Although he had largely retired from the profession, the Japanese photographer s
 
 Daguerre Studio was opened from 8 am to 9 pm daily. Lim was the main photographer and he had four people working with him, including a darkroom specialist and a retoucher.[^31] They were all Hainanese and related to one another in terms of family or clan.[^32]
 
-![](/images/Vol%2018%20Issue%202/Chinese%20Japanese%20Photo%20Studios/edited_worktable.png)
+![](/images/Vol%2018%20Issue%202/Chinese%20Japanese%20Photo%20Studios/Behindthescene.png)
 <div style="background-color: white;">A retoucher at his work table, 1900–30. <i>Lee Brothers Studio Collection, courtesy of National Archives of Singapore.</i>
 </div>
 
