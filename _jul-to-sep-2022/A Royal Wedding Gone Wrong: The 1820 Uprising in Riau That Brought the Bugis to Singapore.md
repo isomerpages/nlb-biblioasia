@@ -4,8 +4,7 @@ title: "A Royal Wedding Gone Wrong: The 1820 Uprising in Riau That Brought the
 permalink: /vol-18/issue-2/jul-sep-2022/wedding-bugis-uprising-singapore-riau
 description: ""
 ---
-
-#### Photo studios such Yong Fong, Lee Brothers and Daguerre had to negotiate the politics of race, class and clan. By **Zhuang Wubin**
+####A Royal Wedding Gone Wrong: The 1820 Uprising in Riau That Brought the Bugis to Singapore. Celebrations during a royal wedding in Tanjung Pinang in 1819 led to a terrible misunderstanding that would change the course of history in Riau and Singapore. By **Benjamin J.Q. Khoo**
 
 ![](/images/Vol%2018%20Issue%202/Chinese%20Japanese%20Photo%20Studios/agsphoto_17551_full.png)
 <div style="background-color: white;">Daguerre Studio on Middle Road is partially obscured by a truck. The photo was taken by visiting American photojournalist Harrison Forman in around 1941, before the onset of World War II in Singapore. <i>From the American Geographical Society Library, University of Wisconsin-Milwaukee Libraries..</i>
