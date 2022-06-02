@@ -23,3 +23,11 @@ Before Sennett Estate came into being, the area was principally known for the Al
 Alkaff Lake Gardens quickly became a popular evening and weekend resort for families, couples and office workers.[^4] Featuring artificial hills and a man-made lake, visitors could go boating on the lake, fishing and picnic under shady trees.[^5] The idyllic spot also offered tea houses that could be rented, interspersed among quaint Japanese bridges and manicured shrubbery.
 
 In 1935, Chinese merchant Tan Aik Kee of Nanyang Amusement Co. took over the management of the park and introduced Chinese elements. Chinese-style boathouses reminiscent of dwellings along the Pearl River in Guangzhou were constructed along with Chinese pavilions as well as the introduction of Chinese white and pink lotus flowers.[^6] A cinema and a cabaret were even in the works. However, the park fell into disuse by the late 1930s.
+
+#### **The War**
+
+At the onset of World War II, the park was requisitioned by the British military in December 1941 and closed to the public. The Singapore Volunteer Field Ambulance Corps then took over the area and made it their headquarters, where they were stationed for a few weeks. The park was initially spared from Japanese bombings and a former sergeant from the volunteer corps believed that this was because there was a “huge red cross set up on the grass, which was visible even from the air”. However, after the volunteer corps moved out, the park was bombed and shelled.
+
+The park continued to be off limits during the Japanese Occupation. An armed guard was stationed at the park during those years and even the owner, Syed Shaik Abdul Rahman Alkaff, was prohibited from entering. After the war, the park lay derelict and was overgrown with grass and weeds. As the Alkaffs decided to return to their core business of trading, much of their property, including the park, was sold after the war.
+
+At the end of the tumultuous decade, Alkaff Lake Gardens and the adjacent plots of land were purchased by Sennett Realty in July 1950 with plans to develop a new housing estate there. It was the end of an era and the beginning of a new one.
