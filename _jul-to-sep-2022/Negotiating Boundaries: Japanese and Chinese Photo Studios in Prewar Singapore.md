@@ -166,7 +166,7 @@ By the end of 1941, the famous Nakajima & Co. in Singapore was forced to close d
 
 [^12]: For a detailed biography of K.F. Wong, see Zhuang Wubin, “[From the Archives: The Work of Photographer K.F. Wong](https://biblioasia.nlb.gov.sg/vol-15/issue-2/jul-sep-2019/wong-ken-foo),” *BiblioAsia* 15, no. 2 (July–September 2019). 
 
-[^13]: 房汉佳 [Fong Hon Kah] and 林韶华 [Lim Shau Hua], 		世界著名摄影家黄杰夫 [*World Famous Photographer K.F. Wong*] (福州:海潮摄影艺术出版社, 1995), 25. (Not available in NLB’s holdings)
+[^13]: 房汉佳 [Fong Hon Kah] and 林韶华 [Lim Shau Hua], 		世界著名摄影家黄杰夫 [*World Famous Photographer K.F. Wong*] (福州:海潮摄影艺术出版社, 1995), 25.
 
 [^14]: Zhuang, “[From the Archives: The Work of Photographer K.F. Wong](https://biblioasia.nlb.gov.sg/vol-15/issue-2/jul-sep-2019/wong-ken-foo).”
 
