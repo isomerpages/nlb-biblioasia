@@ -1,28 +1,24 @@
 ---
-title: "Negotiating Boundaries: Japanese and Chinese Photo Studios in Pre war
+title: "Negotiating Boundaries: Japanese and Chinese Photo Studios in Prewar
   Singapore"
-permalink: /vol-18/issue-2/jul-sep-2022/japanese-chinese-photo-studio
+permalink: /vol-18/issue-2/jul-sep-2022/japanese-chinese-photo-studios
 description: ""
 ---
 #### Photo studios such Yong Fong, Lee Brothers and Daguerre had to negotiate the politics of race, class and clan. By **Zhuang Wubin**
 
 ![](/images/Vol%2018%20Issue%202/Chinese%20Japanese%20Photo%20Studios/agsphoto_17551_full.png)
-<div style="background-color: white;">Daguerre Studio on Middle Road is partially obscured by a truck. The photo was taken by visiting American photojournalist Harrison Forman in around 1941, before the onset of World War II in Singapore. Gift of Sandra Carlyle Forman, 1987. <i>Image retrieved from University of Wisconsin-Milwaukee Libraries website.</i>
+<div style="background-color: white;">Daguerre Studio on Middle Road is partially obscured by a truck. The photo was taken by visiting American photojournalist Harrison Forman in around 1941, before the onset of World War II in Singapore. <i>From the American Geographical Society Library, University of Wisconsin-Milwaukee Libraries..</i>
 </div>
 
 In the 19th century, British and European firms such as Sachtler & Co. and G.R. Lambert & Co. dominated the photography business in Singapore and Malaya. But by the onset of the 20th century, Chinese and Japanese practitioners had made their presence felt in the trade.  At the time, there were visible and invisible lines segregating the colonial society according to social class, race, ethnicity and dialect group. These dividing lines, in turn, affected those who worked in the photographic trade or patronised the photo studios, requiring them to negotiate these boundaries according to evolving situations.  
 
 #### **Mapping Japanese Studios**
 
-According to a 1910 census by the Japanese government, there were 1,215 Japanese residents in Singapore. The community operated three photographic businesses that involved seven men and six women.[^1] A 1917 publication, 馬來に於ける邦人活動の現況 (*Marai ni okeru hōjin katsudō no genkyō*; Current Status of the Activities of the Japanese in Malaya), included a listing of Japanese businesses in Malaya, with eight separate entries relating to the photographic trade in Singapore. Four were photo studios while two other entries each listed an individual photographer, one with the “specialisation of going out to photograph”. It is possible that both photographers also maintained a photo studio each. The remaining two entries were traders of photographic supplies and equipment.[^2]
+According to a 1910 census by the Japanese government, there were 1,215 Japanese residents in Singapore. The community operated three photographic businesses that involved seven men and six women.[^1] A 1917 publication, 馬來に於ける邦人活動の現況 (*Marai ni okeru hōjin katsudō no genkyō; Current Status of the Activities of the Japanese in Malaya*), included a listing of Japanese businesses in Malaya, with eight separate entries relating to the photographic trade in Singapore. Four were photo studios while two other entries each listed an individual photographer, one with the “specialisation of going out to photograph”. It is possible that both photographers also maintained a photo studio each. The remaining two entries were traders of photographic supplies and equipment.[^2]
 
 Many of these Japanese businesses were located within the vicinity of what founding principal of Raffles Junior college, Rudolf (Rudy) William Mosbergen, had called “Little Japan” in Singapore, using it to highlight the Japanese presence along Middle Road, Queen Street, Prinsep Street and Selegie Road.[^3]
 
 Growing up on Queen Street, Mosbergen was neighbours with some of them, but did not mingle much. “There was no relationship because first, I didn’t speak Japanese. And they were very insular people – they didn’t mix very much with us,” he said. Mosbergen also recalled several photo studios along Middle Road and North Bridge Road, including some very good Japanese ones. He still owned a photo taken by one such studio.[^4]
-
-![](/images/Vol%2018%20Issue%202/Chinese%20Japanese%20Photo%20Studios/19980002860%20-%20IMG0091.png)
-<div style="background-color: white;">Daguerre Studio on Middle Road is partially obscured by a truck. The photo was taken by visiting American photojournalist Harrison Forman in around 1941, before the onset of World War II in Singapore. Gift of Sandra Carlyle Forman, 1987. <i>Image retrieved from University of Wisconsin-Milwaukee Libraries website.</i>
-</div>
 
 In the decades prior to World War II, nearly every town in Malaya had at least one Japanese studio. In Singapore, Nakajima & Co., established by S. Nakajima, was the most famous Japanese-owned studio then and was active at least since the start of the 1920s. The *Malaya Tribune* described it as “the best of the photographic establishments in Singapore”.[^5]
 
@@ -33,7 +29,7 @@ Nakajima’s photographs had earlier appeared in the souvenir guide of the Malay
 Nakajima’s photographs added an exotic touch to the souvenir guide. Perhaps unintentionally, these photographs visualised the logic of colonial exploitation, which necessitated the organisation of the colonial fair in the first place. It is also possible that Nakajima’s involvement in the fair facilitated his entry into Singapore. The studio was already well embedded within the colonial society in the 1920s. By the end of 1923, it had moved to a choice location: a unit at Raffles Hotel, fronting Bras Basah Road.[^8]
 
 ![](/images/Vol%2018%20Issue%202/Chinese%20Japanese%20Photo%20Studios/B26059592E_0001-300dpi.png)
-<div style="background-color: white;">Members of the dance orchestra of the United Chinese Musical Association. This photo by Nakajima & Co commemorates their participation at the charity dance event at Great World Cabaret on 9 December 1934. <i>All rights reserved, Roberto Pregarz. From PictureSG, National Library, Singapore. </i>
+<div style="background-color: white;">Members of the dance orchestra of the United Chinese Musical Association. This photo by Nakajima & Co. commemorates their participation at the charity dance event at Great World Cabaret on 9 December 1934. <i>All rights reserved, Roberto Pregarz. From PictureSG, National Library, Singapore. </i>
 </div>
 
 Nakajima & Co. was often commissioned to take photographs of social functions and weddings, usually of the European community in Singapore. Many of these photographs were also published in the English newspapers of the time. Prior to the specialisation of press photography, photo studios were an important source of photographs for the press. Throughout the 1930s, the studio was also frequently mentioned in the press during the Christmas festive season as the go-to place for photographic gifts.[^9]
@@ -50,20 +46,24 @@ David Ng Shin Chong (b. 1919, Singapore), a Hakka photographer who began his app
 
 One of the most famous Cantonese photo studios in Singapore was the Lee Brothers Studio, established by Lee King Yan (1877–1957) and Lee Poh Yan (1884–1960). The brothers were part of the extended Lee family, who was originally from the Nanhai district in Guangdong province. Much has been written about the chain of photo studios that the family had opened in Singapore, Malaya and Java. In Singapore, the family was responsible for establishing Yong Fong, Lee Brothers and Eastern Studio, among others.[^16]
 
-![](/images/Vol%2018%20Issue%202/Chinese%20Japanese%20Photo%20Studios/19980002145%20-%20IMG0004.png)
-<div style="background-color: white;">Lee Poh Yan and Lee King Yan (standing third and fourth from the left respectively) with their family members, 1905–10. <i>Marjorie Lau Collection, courtesy of National Archives of Singapore </i>
+![](/images/Vol%2018%20Issue%202/Chinese%20Japanese%20Photo%20Studios/19980_Edit.png)
+<div style="background-color: white;">Lee Brothers Studio at 58-4 Hill Street, 1910s. <i>Lee Brothers Studio Collection, courtesy of National Archives of Singapore.</i>
+</div>
+
+![](/images/Vol%2018%20Issue%202/Chinese%20Japanese%20Photo%20Studios/199800edit.png)
+<div style="background-color: white;">Lee Poh Yan and Lee King Yan (standing third and fourth from the left respectively) with their family members, 1905–10. <i>Marjorie Lau Collection, courtesy of National Archives of Singapore. </i>
 </div>
 
 Lee Shui Loon (1864–1935), also known as Lee Yin Fun, was the most senior member of the family to sink roots locally, prompting art historian Daphne Ang to call him the “godfather of photography in Singapore”.[^17] He established Yong Fong, which was active as early as 1908, along South Bridge Road, just across from Mosque Street.[^18]
 
 ![](/images/Vol%2018%20Issue%202/Chinese%20Japanese%20Photo%20Studios/19980005773%20-%20IMG0026.png)
-<div style="background-color: white;">Photo of a Malay family, c.1920–45. <i>Lee Brothers Studio Collection, courtesy of National Archives of Singapore </i>
+<div style="background-color: white;">Photo of a Malay family, c.1920–45. <i>Lee Brothers Studio Collection, courtesy of National Archives of Singapore. </i>
 </div>
 
 Lee Shui Loon’s nephews, Lee King Yan and Lee Poh Yan, who set up Lee Brothers, were effectively bilingual, speaking Cantonese at home and using English, if necessary, at work.[^19] Their command of English enabled them to serve a different class of clientele by setting up shop on Hill Street, in the business district in around 1908.[^20] Soon after, Lee Brothers became “one of the most expensive studios in Singapore”.[^21]
 
-![](/images/Vol%2018%20Issue%202/Chinese%20Japanese%20Photo%20Studios/19990002486%20-%20IMG0011.png)
-<div style="background-color: white;">Portrait of a Chinese boy taken at Yong Fong Studio, which was founded by Lee Shui Loon on South Bridge Road. <i>The Peranakan Association Collection, courtesy of National Archives of Singapore </i>
+![](/images/Vol%2018%20Issue%202/Chinese%20Japanese%20Photo%20Studios/Chinese%20Boy.png)
+<div style="background-color: white;">Portrait of a Chinese boy taken at Yong Fong Studio, which was founded by Lee Shui Loon on South Bridge Road. <i>The Peranakan Association Collection, courtesy of National Archives of Singapore. </i>
 </div>
 
 Beyond the network of photo studios that the Lee family had established, there were other Cantonese-owned studios catering to clients across the economic spectrum. However, the division among dialect groups seemed to discourage certain Chinese customers from patronising Cantonese studios. 
@@ -78,8 +78,8 @@ Despite the studio’s proximity to the Hokkien community, it was frequented mos
 
 It is unlikely that these divisions were strictly observed in practice, especially among non-Cantonese customers at the lower end of the economic spectrum. If people needed to have their formal portraits taken, they would inevitably have to patronise the Cantonese studios, unlike more affluent customers who enjoyed the luxury of choice. 
 
-![](/images/Vol%2018%20Issue%202/Chinese%20Japanese%20Photo%20Studios/19980002133%20-%20IMG0020.png)
-<div style="background-color: white;">Photo of a Eurasian family, 1910–25. <i>Lee Brothers Studio Collection, courtesy of National Archives of Singapore</i>
+![](/images/Vol%2018%20Issue%202/Chinese%20Japanese%20Photo%20Studios/199800021edit0.png)
+<div style="background-color: white;">Photo of a Eurasian family, 1910–25. <i>Lee Brothers Studio Collection, courtesy of National Archives of Singapore.</i>
 </div>
 
 Some aspiring non-Cantonese photographers managed to enter the trade despite the barriers of dialect and family.[^23] David Ng Shin Chong, the Hakka photographer mentioned previously, started out as an apprentice at Natural Studio on North Bridge Road. The studio was owned by a Cantonese-Teochew couple. Since it was located within the Hainanese enclave, they had a lot of Hainanese customers although people from other dialect groups also patronised the studio.[^24] By 1939, Ng had joined the Cantonese-owned Fee Fee Photographic Store, which traded in photographic supplies and provided developing and printing services.
@@ -95,35 +95,34 @@ Lim could communicate with the Japanese photographer because both of them spoke 
 Lim’s photo studio tapped into the broader Hainanese network of cultural ties, kinship and business interests to facilitate its existence and survival. It was initially sited within the premises of China Book Company on North Bridge Road, which was owned by four Hainanese brothers from the Foo family.[^29] The bookstore was located in the area where the majority of the Hainanese lived, worked and congregated, overlapping Little Japan. Middle Road, for instance, was colloquially known to the Chinese as “Hainan first street”.
 
  Business picked up quickly and in less than a year, Daguerre Studio moved to a third-floor unit along Middle Road. One day, an aged Japanese photographer turned up at the studio. Apparently, he used to rent the same unit to run his studio and was curious to find out who had taken over the space. Over time, the two men became good friends.  
-
-![](/images/Vol%2018%20Issue%202/Chinese%20Japanese%20Photo%20Studios/Group%20photo%20Daguerre.png)
-<div style="background-color: white;">The graduating cohort of secondary four students from Catholic High School, taken in 1963 by Daguerre Studio. The studio’s name is embossed on the bottom right corner. <i>Photo courtesy of Chong Wing Hong.</i>
-</div>
  
 Although he had largely retired from the profession, the Japanese photographer still had a contract with the Police Depot off Thomson Road. Hence, whenever he needed to replenish his glass plate negatives, he would buy these from Daguerre. Later, when he realised that the Japanese invasion was imminent, he gave the police contract to Lim and tried to leave Singapore. However, he was arrested by the British authorities and exiled to India.[^30]
 
-Daguerre Studio was opened from 8 am to 9 pm daily. Lim was the main photographer and he had four people working with him, including a darkroom specialist and a re-toucher.[^31] They were all Hainanese and related to one another in terms of family or clan.[^32]
+Daguerre Studio was opened from 8 am to 9 pm daily. Lim was the main photographer and he had four people working with him, including a darkroom specialist and a retoucher.[^31] They were all Hainanese and related to one another in terms of family or clan.[^32]
 
-Lim started taking in Hainanese apprentices, introduced by his relatives and friends. His nephew Lim Tow Tuan (b. 1916 in Hainan) arrived in Singapore in 1941 to work as an unpaid apprentice.[^33] According to Lim Ming Joon, his former employees and apprentices subsequently went on to open eight photo studios in Singapore, Johor Bahru, Brunei and North Borneo.[^34]
-
-![](/images/Vol%2018%20Issue%202/Chinese%20Japanese%20Photo%20Studios/edited_worktable.png)
+![](/images/Vol%2018%20Issue%202/Chinese%20Japanese%20Photo%20Studios/Behindthescene.png)
 <div style="background-color: white;">A retoucher at his work table, 1900–30. <i>Lee Brothers Studio Collection, courtesy of National Archives of Singapore.</i>
 </div>
 
-In the early days, the overwhelming majority of Daguerre’s customers were Hainanese[^35], although there were also some Malay, Indian and British patrons. 
+Lim started taking in Hainanese apprentices, introduced by his relatives and friends. His nephew Lim Tow Tuan (b. 1916 in Hainan) arrived in Singapore in 1941 to work as an unpaid apprentice.[^33] According to Lim Ming Joon, his former employees and apprentices subsequently went on to open eight photo studios in Singapore, Johor Bahru, Brunei and North Borneo.[^34]
+
+In the early days, the overwhelming majority of Daguerre’s customers were Hainanese,[^35] although there were also some Malay, Indian and British patrons. 
 
 The Chinese customers were mainly from the working class who liked to take pictures to send home to China. They would usually come in their Sunday best. If they were unprepared, Lim would lend them suits and neckties. The studio also prepared spectacles without lenses for customers who wanted to look more serious in their portraits. Lim and his customers were clearly mindful of the impression that these photos would have on loved ones in China. At the very least, the customers would not want to give the impression that they could not even afford nice clothes, having made the difficult decision to come to Singapore.[^36]
 
 Lim also took on wedding shoots. Before the war, the trend, at least for the Hainanese, was to host a banquet for family and friends at one of the many coffeeshops near the studio. Lim would take group pictures of the couple and the guests.[^37] Over time, Daguerre became well known for taking large group photos. These were often requested by schools, associations, guilds and unions, usually for the purpose of investiture, commemoration or graduation. 
 
+![](/images/Vol%2018%20Issue%202/Chinese%20Japanese%20Photo%20Studios/Group%20photo%20Daguerre.png)
+<div style="background-color: white;">The graduating cohort of secondary four students from Catholic High School, taken in 1963 by Daguerre Studio. The studio’s name is embossed on the bottom right corner. <i>Photo courtesy of Chong Wing Hong.</i>
+</div>
+
 Lim began honing his expertise before the war, when camera technology made it challenging to photograph large groups of people. The biggest group that Lim had worked with occurred after the war when he was invited to photograph members of the Malaysian Chinese Association at a national meeting in Seremban, Malaya. Lim spent nearly one hour trying to position some 3,300 people.[^38]
 
 Lim was still working and taking pictures at large gatherings in the 1980s. In a 1983 interview with the *Straits Times* he said: “There are fewer group pictures of hundreds of people these days. But there are enough jobs in the studio and outdoors to keep me busy. Some of my old-time clients include ministers and members of Parliament. They are surprised to see me still turning up at community centres and other functions for group pictures.”[^39]
 
-![](/images/Vol%2018%20Issue%202/Chinese%20Japanese%20Photo%20Studios/Screenshot.png)
+![](/images/Vol%2018%20Issue%202/Chinese%20Japanese%20Photo%20Studios/weekendeast_edit.png)
 <div style="background-color: white;">Lim Ming Joon of Daguerre Studio. <i>Image reproduced from To Chee Eng, “Ming Joon Is Still Clicking Away at 85,” Weekend East, 19 June 1987, 3. (From NewspaperSG).</i>
 </div>
-
 
 The emergence of the Hainanese-owned Daguerre Studio marked the gradual loosening of Cantonese dominance in the photographic trade of Singapore. Its establishment was made possible, partly through the help of Japanese photographers. Soon, more Hainanese photo studios began opening. One reason for the survival and longevity of Chinese photo studios was the myriad of Chinese associations and institutions in Singapore and Malaya, which provided a constant source of work and revenue for these studios.
 
@@ -138,12 +137,12 @@ By the end of 1941, the famous Nakajima & Co. in Singapore was forced to close d
 <div style="background-color: white;">
 <br/>
 <img src="/images/Vol%2018%20Issue%202/Authors/ZhuangWubin.png" style="width: 100px; height: 100px;"/>
-	<b>Zhuang Wubin</b> is a writer, curator and artist. He has a PhD from the University of Westminster (London) and was a Lee Kong Chian Research Fellow (2017–18). Wubin is interested in photography’s entanglements with modernity, colonialism, nationalism, the Cold War and “Chineseness”.</div>
+	<b>Zhuang Wubin</b> is a writer, curator and artist. He has a PhD from the University of Westminster (London) and was a Lee Kong Chian Research Fellow (2017–18) at the National Library, Singapore. Wubin is interested in photography’s entanglements with modernity, colonialism, nationalism, the Cold War and “Chineseness”.</div>
 
 
 #### **NOTES**
 
-[^1]: Regina Hong, Ling Xi Min and Naoko Shimazu, [*Postcard Impressions of Early 20th-century Singapore: Perspectives from the Japanese Community*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204353382) (Singapore: National Library Board, 2020), 115. (From National Library, Singapore, call no. RSING 959.57 HON-[HIS])
+[^1]: Regina Hong, Ling Xi Min and Naoko Shimazu, [*Postcard Impressions of Early 20th-century Singapore: Perspectives from the Japanese Community*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204353382) (Singapore: National Library Board, 2020), 115. (From National Library, Singapore, call no. RSING 959.57 HON-[HIS])
 
 [^2]: Mitsuharu Tsukuda, [馬來に於ける邦人活動の現況](https://eresources.nlb.gov.sg/printheritage/detail/95c78961-3249-4f29-869e-72afa0339bbf.aspx) (*Marai ni okeru hōjin katsudō no genkyō*) [*Current Status of the Activities of the Japanese in Malaya*] (Singapore: Nan'yō oyobi Nihonjinsha,1917), 37–48. (From Book SG; accession no. B29262852C). [Note: I would like to thank Mizuka Kimura and Miho Odaka for verifying my understanding of this source. This publication is part of the Lim Shao Bin Collection in the National Library, Singapore.]
 
@@ -157,11 +156,11 @@ By the end of 1941, the famous Nakajima & Co. in Singapore was forced to close d
 
 [^7]: For a brief introduction on the involvement of studio and amateur photographers in the Malaya Borneo Exhibition, see Zhuang Wubin, “[Exhibiting Photography in Pre-war Singapore](https://biblioasia.nlb.gov.sg/vol-17/issue-3/oct-dec-2021/prewarphotography),” *BiblioAsia* 17, no. 3 (October–December 2021). 
 
-[^8]: “[Page 16 Advertisements Column 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19231124-1.2.102.1),” *Straits Times*, 24 November 1923, 16; “[Page 5 Advertisements Column 3](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19231130-1.2.27.3),” Malaya Tribune, 30 November 1923, 5. (From NewspaperSG)
+[^8]: “[Page 16 Advertisements Column 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19231124-1.2.102.1),” *Straits Times*, 24 November 1923, 16; “[Page 5 Advertisements Column 3](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19231130-1.2.27.3),” *Malaya Tribune*, 30 November 1923, 5. (From NewspaperSG)
 
 [^9]: “[Souvenir of Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19321101-1.2.101),” *Singapore Free Press and Mercantile Advertiser*, 1 November 1932, 15; “[A Christmas Shopping Guide](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19351208-1.2.66),” *Straits Times*, 8 December 1935, 11; “[A Christmas Shopping Guide](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19371205-1.2.101),” *Straits Times*, 5 December 1937, 17. (From NewspaperSG)
 
-[^10]: 童子达 [Tong Zida], [新加坡各业调查](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84528775) [*Survey of Singapore’s Different Industries*] (Singapore: The Chinese Industrial and Commercial Continuation School, 1928), 119. (From National Library, Singapore, call no. RRARE 650.58 TTT; microfilm no. NL9586)
+[^10]: 童子达 [Tong Zida], [新加坡各业调查](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=84528775) [*Survey of Singapore’s Different Industries*] (Singapore: The Chinese Industrial and Commercial Continuation School, 1928), 119. (From National Library, Singapore, call no. RRARE 650.58 TTT; microfilm no. NL9586)
 
 [^11]: 李香南 [Li Xiangnan], [照相馆业广东人称雄](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb19980322-1.2.66.2) [“Cantonese Dominate the Photo Studio Business”], 联合早报 [*Lianhe Zaobao*], 22 March 1998, 46; 秦长春 [Qin Changchun], 	[新加坡照相业史话](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/scjp19770707-1.2.58.1) [“A History of the Photographic Trade in Singapore”], 星洲日報 [*Sin Chew Jit Poh*], 7 July 1977, 16. (From NewspaperSG)
 
@@ -199,7 +198,7 @@ By the end of 1941, the famous Nakajima & Co. in Singapore was forced to close d
 
 [^28]: [Lim Ming Joon](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/4/4428bb12-115f-11e3-83d5-0050568939ad-OHC000333_001/web/html5/index.html), oral history interview by Tan Beng Luan, 30 September 1983, transcript and MP3 audio, Reel/Disc 1 of 7, 27:54, National Archives of Singapore (accession no. 000333), 5.
 
-[^29]: Song Chin Sing, ed., [*Passage of Time: Singapore Bookstore Stories 1881–2016*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202743110) (Singapore: Chou Sing Chu Foundation, 2016), 162–65. (From National Library, Singapore, call no. RSING 070.5095957 CHO)
+[^29]: Song Chin Sing, ed., [*Passage of Time: Singapore Bookstore Stories 1881–2016*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202743110) (Singapore: Chou Sing Chu Foundation, 2016), 162–65. (From National Library, Singapore, call no. RSING 070.5095957 CHO)
 
 [^30]: [Lim Ming Joon](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e2c8dfba-115d-11e3-83d5-0050568939ad-OHC000334_003/web/html5/index.html), interview, 23 Sep 1983, Reel/Disc 3 of 7, 35. 
 
@@ -217,7 +216,7 @@ By the end of 1941, the famous Nakajima & Co. in Singapore was forced to close d
 
 [^37]: [Lim Ming Joon](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e2c8dfba-115d-11e3-83d5-0050568939ad-OHC000334_003/web/html5/index.html), interview, 23 Sep 1983, Reel/Disc 3 of 7, 36.
 
-[^38]: Wang 王振春 [Wang Zhenchun], [话说密驼路](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205402192) [*Speaking of Middle Road*] (Singapore: Xinhua Cultural Enterprises, 2021), 103. (From National Library, Singapore, call no. Chinese RSING 959.57 WZC-[HIS]); Han, [如何为三千人拍照](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19860818-1.2.21.1.1).  
+[^38]: Wang 王振春 [Wang Zhenchun], [话说密驼路](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205402192) [*Speaking of Middle Road*] (Singapore: Xinhua Cultural Enterprises, 2021), 103. (From National Library, Singapore, call no. Chinese RSING 959.57 WZC-[HIS]); Han, [如何为三千人拍照](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19860818-1.2.21.1.1).  
 
 [^39]: Teo Han Wue, “[Lim’s in a World of His Own](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19830620-1.2.135.2),” *Straits Times*, 20 June 1983, Section Three, 1. (From NewspaperSG)
 

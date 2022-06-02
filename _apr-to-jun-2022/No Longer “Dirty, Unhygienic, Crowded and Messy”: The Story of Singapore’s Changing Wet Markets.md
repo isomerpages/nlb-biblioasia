@@ -3,8 +3,9 @@ title: "No Longer “Dirty, Unhygienic, Crowded and Messy”: The Story of
   Singapore’s Changing Wet Markets"
 permalink: /vol-18/issue-1/apr-to-jun-2022/singapore-changing-wet-markets
 description: ""
-image: /images/Vol 18 Issue 1/Wet Market/19980005879 IMG0002.png
+image: /images/Vol 18 Issue 1/Wet Market/8ed6060f-1162-11e3-83d5-0050568939ad.png
 ---
+
 #### Wet markets have existed in Singapore since 1825. **Zoe Yeo** looks at how these markets have changed over time.
 
 ![](/images/Vol%2018%20Issue%201/Wet%20Market/editedmarket4.png)

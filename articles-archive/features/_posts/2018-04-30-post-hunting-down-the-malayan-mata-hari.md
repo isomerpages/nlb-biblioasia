@@ -5,11 +5,11 @@ permalink: /vol-14/issue-1/apr-jun-2018/malayan-mata-hari/
 image: /images/Vol-14-issue-1/hunting-down-the-malayan/Hunt1.jpg
 layout: post
 ---
-
 #### **Ronnie Tan** pieces together the fascinating story of Lee Meng, the Malayan Communist Party female agent who headed its courier network for a brief period in 1952.
 
-<img style="width: 300px; height: 400px;" src="/images/Vol-14-issue-1/hunting-down-the-malayan/Hunt1.jpg">
-<div style="background-color: white;">Lee Meng, head courier of the Malayan Communist Party, being escorted to the Ipoh court complex for her retrial 10 days after she was found innocent during her first trial on 27 August 1952. <i>Image source: Chin, P. (2003). My Side of History (p. 343). Singapore: Media Masters Pte Ltd. (Call no.: R SING 959.5104092 CHI).</i></div>
+
+<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src="https://www.youtube.com/embed/EnB0gs2fwUA" frameborder='0' allowfullscreen></iframe></div>
+<div style="background-color: white;"><i>Hearts and Minds</i>, a docudrama of the tense showdown between Detective-Inspector Irene Lee and suspected communist Lee Meng, played by Jo Tan and Oon Shu An respectively.</div>
 
 On 16 June 1948, three European planters were brutally murdered by communist guerillas in the Sungei Siput area in Perak state, in what was then known as Malaya.[^1] Two days later, Britain declared a state of Emergency in Malaya, with Singapore following suit on 24 June 1948. The battle for control of Malaya and Singapore between the British and the Malayan Communist Party (MCP; also known as the Communist Party of Malaya) had begun, and it would not end until 31 July 1960.
 
@@ -25,6 +25,10 @@ To carry out its nefarious activities, the MCP’s Central Committee needed to c
 As it turned out, communications – or the lack of, rather − was the MCP’s Achilles heel. To cite an example, communications between local branches of the Min Yuen (Mass People’s Movement) in Pahang, comprising MCP sympathisers, was so bad that one branch was not aware of the other’s activities even when the physical distance was small. Chin Peng, Secretary-General of the MCP then, himself admitted that the Sungei Siput killings “were the work of local cadres acting without an order from the Central Committee – even without its knowledge”.[^5]
 
 Chin Peng needed someone who was street smart and capable of managing its communications courier system in north and central Malaya, and decided that the best person for the job as MCP’s “head courier” was a young lady named Lee Ten Tai (alias Lee Meng). Lee was leader of the Kepayang Gang[^6] which operated in Ipoh, the state capital of Perak.
+
+<img style="width: 300px; height: 400px;" src="/images/Vol-14-issue-1/hunting-down-the-malayan/Hunt1.jpg">
+<div style="background-color: white;">Lee Meng, head courier of the Malayan Communist Party, being escorted to the Ipoh court complex for her retrial 10 days after she was found innocent during her first trial on 27 August 1952. <i>Image source: Chin, P. (2003). My Side of History (p. 343). Singapore: Media Masters Pte Ltd. (Call no.: R SING 959.5104092 CHI).</i></div>
+
 
 #### **Lee Meng: Malayan Mata Hari**
 
