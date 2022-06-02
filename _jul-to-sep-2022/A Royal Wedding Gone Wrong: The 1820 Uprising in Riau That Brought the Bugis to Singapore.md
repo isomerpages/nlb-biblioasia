@@ -42,6 +42,10 @@ Regardless of the trigger, the violence happened in a flash. The glints of the d
 
 News of Raja Ronggik’s death spread like wildfire. The next day, the Dutch sought to reassure the incensed Arung Belawa that it was only a misunderstanding. However, his fury could not be quenched. Not only did he get his men to secretly shoot at Dutch patrols, he also sent spies and behaved very belligerently.[^10]
 
+![](/images/Vol%2018%20Issue%202/A%20Royal%20Wedding%20Gone%20Wrong/A%20Royal%20Wedding%20Gone%20Wrong%20-%20Image%203.png)
+<div style="background-color: white;"> Two Bougis (or Bugis) men of Bokyes, an island off the coast of Makassar. <i>Image reproduced from Awnsham Churchill, A Collection of Voyages and Travels, Some Now First Printed from Original Manuscripts, Others Now First Published in English (London: J. Walthoe, 1732). (From National Library, Singapore, call no. RRARE 910.8 CHU).</i>
+</div>
+
 Between the last days of 1819 and the first of the new year, almost two weeks of uneasy silence ensued. The suspense finally broke on 14 January 1820 when 400 Bugis launched a surprise attack on the house of the Dutch income-collector, Johan Hendrik Walbeehm. Why this site was chosen is unclear, but there were already hints of simmering discontent with the new taxes imposed by the Dutch.
 
 The Bugis then took over the remaining Dutch fortifications on the beach and propped them up with their own defences. At the same time, they besieged Königsdorffer’s garrison which had suffered from years of neglect and was in a sorry condition. To bolster its strength, Königsdorffer had added a firm palisade fence with a cannon, but this was insufficient to repel the Bugis assault. The Bugis had also planned well; half the  Dutch regiment had returned to Melaka for the change of guards, and the garrison thus had less manpower. With knowledge of the lay of the land, the Bugis chose an advantageous position, dug up the ground and built breastworks encircling the Dutch fort, all the while maintaining their assaults with cannon fire and cutting off Dutch access to supplies in preparation for a siege.[^11]
@@ -57,6 +61,10 @@ In the tumult, Königsdorffer, who had bravely defended the small garrison while
 #### **The Flight to Singapore**
 
 Immediately after the collapse of this uprising, the Bugis escaped in their boats and fled across the Straits for safety in the settlement of Singapore. This took place the following day, on 30 January. Bugis men, women and children emptied themselves from their houses and escaped via Riau Terusan, between Senggarang and Bintan, towards the island of Singapore.[^17]
+
+![](/images/Vol%2018%20Issue%202/A%20Royal%20Wedding%20Gone%20Wrong/A%20Royal%20Wedding%20Gone%20Wrong%20-%20Image%204.png)
+<div style="background-color: white;">  A Bugis nautical chart of the Malay Archipelago, 1816–20. <i>Image retrieved from Utrecht University Library, the Netherlands.</i>
+</div>
 
 William Farquhar, Resident of Singapore at the time, counted almost 500 of them, arriving in a fleet of ships, leaving behind a Bugis kampong smouldering in ash. Farquhar was very pleased to offer them refuge, settling them along the Rochor River, which eventually became Kampong Bugis.[^18] Their arrival shifted the lucrative Bugis trade westwards, away from Dutch Riau and towards British Singapore. This proved a turning point in Singapore’s fortune. Besides the material gain, the British obtained added satisfaction in witnessing the troubles of the Dutch, whom they viewed as a rival.
 
@@ -83,6 +91,10 @@ Finally, in all this, the Dutch did not lose sight of practical military concern
 #### **Epilogue**
 
 Although Arung Belawa seemed to have settled quite comfortably in Singapore, he spent his time harassing Dutch ships, sporadically attacking gambier plantations in Riau and generally proving to be a nuisance.
+
+![](/images/Vol%2018%20Issue%202/A%20Royal%20Wedding%20Gone%20Wrong/A%20Royal%20Wedding%20Gone%20Wrong%20-%20Image%205.png)
+<div style="background-color: white;"> Detail from a Southeast Asia map (1782–1828). <i>Image reproduced from Jan Meinhard Pluvier, Historical Atlas of South-East Asia (Leiden: Brill, 1995), 31. (From National Library, Singapore, call no. RSING 911.59 PLU).</i>
+</div>
 
 In 1824, the Dutch finally succeeded in convincing Arung Belawa to return to Tanjung Pinang. Walbeehm, the Dutch income-collector, who somehow managed to escape with his life during the surprise Bugis attack in 1820, was credited with this persuasion, but much more enticing was the high monthly salary that the Dutch government promised to pay Arung Belawa – a pension sum of 500 florins.[^29]
 
