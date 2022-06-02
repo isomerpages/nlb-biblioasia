@@ -142,66 +142,66 @@ By the end of 1941, the famous Nakajima & Co. in Singapore was forced to close d
 
 #### **NOTES**
 
-[^1]: Elisa Netscher, De Nederlanders in Djohor en Siak, 1602 tot 1865 (Batavia: Bruining and Wijt, 1870), 257.
+[^1]: Elisa Netscher, *De Nederlanders in Djohor en Siak, 1602 tot 1865* (Batavia: Bruining and Wijt, 1870), 257.
 
-[^2]: Arnold Willem Pieter Verkerk Pistorius, Een Bezoek aan Singapore en Djohor: Eene Voordracht (s’-Gravenhage: Martinus Nijhoff, 1875), 9. (Not available in NLB’s holdings); C.M. Turnbull, [A History of Modern Singapore, 1819–2005](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13206047) (Singapore: NUS Press, 2009), 28–29. (From National Library, Singapore, call no. RSING 959.57 TUR-[HIS])
+[^2]: Arnold Willem Pieter Verkerk Pistorius, *Een Bezoek aan Singapore en Djohor: Eene Voordracht* (s’-Gravenhage: Martinus Nijhoff, 1875), 9. (Not available in NLB’s holdings); C.M. Turnbull, [*A History of Modern Singapore, 1819–2005*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13206047) (Singapore: NUS Press, 2009), 28–29. (From National Library, Singapore, call no. RSING 959.57 TUR-[HIS])
 
-[^3]: Netscher, De Nederlanders in Djohor en Siak, 258.
+[^3]: Netscher, *De Nederlanders in Djohor en Siak*, 258.
 
-[^4]: Turnbull, [History of Modern Singapore](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13206047), 30.
+[^4]: Turnbull, [*History of Modern Singapore*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13206047), 30.
 
 [^5]: Arung Belawa was a Bugis from the royal house of Sidenreng in Celebes (Sulawesi).
 
-[^6]: Raja Ali Haji ibn Ahmad, [The Precious Gift (Tuhfat al-Nafis)](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4128748), trans. Virginia Matheson and Barbara Watson Andaya (Kuala Lumpur: Oxford University Press, 1982), 229–30. (From National Library, Singapore, call no. RSING 959.5142 ALI)
+[^6]: Raja Ali Haji ibn Ahmad, [*The Precious Gift (Tuhfat al-Nafis)*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4128748), trans. Virginia Matheson and Barbara Watson Andaya (Kuala Lumpur: Oxford University Press, 1982), 229–30. (From National Library, Singapore, call no. RSING 959.5142 ALI)
 
-[^7]: Raja Ali Haji ibn Ahmad, [Precious Gift](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4128748), 229–30.
+[^7]: Raja Ali Haji ibn Ahmad, [*Precious Gift*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4128748), 229–30.
 
-[^8]: P.H. Van der Kemp, “De Commissiën van den Schout-Bij-Nacht C.J. Wolterbeek Naar Malakka En Riouw in Juli-December 1818 En Februari-April 1820” Bijdragen tot de Taal-, Land- en Volkenkunde van Nederlandsch-Indië 51, no. 1 (1900): 49–50. (From JSTOR via NLB’s eResources website)
+[^8]: P.H. Van der Kemp, “De Commissiën van den Schout-Bij-Nacht C.J. Wolterbeek Naar Malakka En Riouw in Juli-December 1818 En Februari-April 1820” *Bijdragen tot de Taal-, Land- en Volkenkunde van Nederlandsch-Indië* 51, no. 1 (1900): 49–50. (From JSTOR via NLB’s eResources website)
 
-[^9]: Willem Adriaan van Rees, [Toontje Poland: Voorafgegaan door Eenige Indische Typen](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202718305), vol. 1. (Arnhem: D.A. Thieme, 1867), 242. (From National Library, Singapore, call no. RRARE 959.8 REE-JSB], accession no. B29032467K)
+[^9]: Willem Adriaan van Rees, [*Toontje Poland: Voorafgegaan door Eenige Indische Typen*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202718305), vol. 1. (Arnhem: D.A. Thieme, 1867), 242. (From National Library, Singapore, call no. RRARE 959.8 REE-JSB], accession no. B29032467K)
 
-[^10]: Netscher, De Nederlanders in Djohor en Siak, 259–60; Van der Kemp, “De Commissiën van den Schout-Bij-Nacht C.J. Wolterbeek,” 50.
+[^10]: Netscher, *De Nederlanders in Djohor en Siak*, 259–60; Van der Kemp, “De Commissiën van den Schout-Bij-Nacht C.J. Wolterbeek,” 50.
 
-[^11]: Netscher, De Nederlanders in Djohor en Siak, 260; Raja Ali Haji Ahmad, [Precious Gift](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4128748), 230.
+[^11]: Netscher, *De Nederlanders in Djohor en Siak*, 260; Raja Ali Haji Ahmad, [*Precious Gift*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4128748), 230.
 
 [^12]: Said Mohamad Tongko Zien, “Rapport van Tongko Said, afgezant van den Sulthan van Lingga en zijne Hoogheid den onderkoning van Riouw” (unpublished manuscript, 1824), 15.
 
 [^13]: Said Mohamad Tongko Zien, “Rapport van Tongko Said, afgezant van den Sulthan van Lingga en zijne Hoogheid den onderkoning van Riouw,” 15–18.
 
-[^14]: Raja Ali Haji Ahmad, [Precious Gift](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4128748), 230.
+[^14]: Raja Ali Haji Ahmad, [*Precious Gift*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4128748), 230.
 
 [^15]: Van der Kemp, “De Commissiën van den Schout-Bij-Nacht C.J. Wolterbeek,” 61–62.
 
-[^16]: Netscher, De Nederlanders in Djohor en Siak, 261.
+[^16]: Netscher, *De Nederlanders in Djohor en Siak*, 261.
 
 [^17]: Van der Kemp, “De Commissiën van den Schout-Bij-Nacht C.J. Wolterbeek,” 62.
 
-[^18]: Turnbull, [History of Modern Singapore](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13206047), 33–34.
+[^18]: Turnbull, [*History of Modern Singapore*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13206047), 33–34.
 
-[^19]: Sophia Raffles, [Memoirs of the Life and Public Service of Sir Thomas Stamford Raffles](https://eresources.nlb.gov.sg/printheritage/detail/6dd159de-811f-4012-9b43-01676a9c49a7.aspx) (London: John Murray, 1830), 444, 446. (From BookSG)
+[^19]: Sophia Raffles, [*Memoirs of the Life and Public Service of Sir Thomas Stamford Raffles*](https://eresources.nlb.gov.sg/printheritage/detail/6dd159de-811f-4012-9b43-01676a9c49a7.aspx) (London: John Murray, 1830), 444, 446. (From BookSG)
 
 [^20]: Van der Kemp, “De Commissiën van den Schout-Bij-Nacht C.J. Wolterbeek,” 62–63.
 
-[^21]: Gazeta de Lisbon, 153–313 (Terça-feira, 19 de Setembro, 1820) (Lisbon: Na Officina de Antonio Correa Lemos, 1820), 244.
+[^21]: *Gazeta de Lisbon*, 153–313 (Terça-feira, 19 de Setembro, 1820) (Lisbon: Na Officina de Antonio Correa Lemos, 1820), 244.
 
 [^22]: Van der Kemp, “De Commissiën van den Schout-Bij-Nacht C.J. Wolterbeek,” 65.
 
-[^23]: Wolter Robert van Hoëvell, “[Waarom Heeft Rio Als Vrijhaven Niet Met Singapoera Kunnen Mededingen?](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13103413)” in Tijdschrift Voor Nederlandsch-Indië 14 (1852): 415. (From National Library, Singapore, call no. RRARE 382.71095981 HOE)
+[^23]: Wolter Robert van Hoëvell, “[Waarom Heeft Rio Als Vrijhaven Niet Met Singapoera Kunnen Mededingen?](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13103413)” in *Tijdschrift Voor Nederlandsch-Indië* 14 (1852): 415. (From National Library, Singapore, call no. RRARE 382.71095981 HOE)
 
-[^24]: Hubert Gerard Nahuys van Burgst, [Brieven Over Bencoolen, Padang, het Rijk van Menangkabau, Rhiouw, Sincapoera, en Poelo-Pinang](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4469817) (Breda: F.B. Hollingérus Pijpers, 1826), 234. (From National Library, Singapore, call no. RRARE 915.9804 NAH-[JSB]; accession no. B29268406D)
+[^24]: Hubert Gerard Nahuys van Burgst, [*Brieven Over Bencoolen, Padang, het Rijk van Menangkabau, Rhiouw, Sincapoera, en Poelo-Pinang*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4469817) (Breda: F.B. Hollingérus Pijpers, 1826), 234. (From National Library, Singapore, call no. RRARE 915.9804 NAH-[JSB]; accession no. B29268406D)
 
-[^25]: Nahuys van Burgst, Brieven Over Bencoolen, 233.
+[^25]: Nahuys van Burgst, *Brieven Over Bencoolen*, 233.
 
-[^26]: Van der Kemp, “De Commissiën van den Schout-Bij-Nacht,” 49, 58–59; A.R Falck, [Ambts-Brieven van A.R. Falck, 1802–1842](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202718299) ('s Gravenhage: Van Stockum, 1878), 133. (From National Library, Singapore, call no. RRARE 909.81 FAL; accession no. B29032462F)
+[^26]: Van der Kemp, “De Commissiën van den Schout-Bij-Nacht,” 49, 58–59; A.R Falck, [*Ambts-Brieven van A.R. Falck, 1802–1842*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202718299) ('s Gravenhage: Van Stockum, 1878), 133. (From National Library, Singapore, call no. RRARE 909.81 FAL; accession no. B29032462F)
 
-[^27]: George François de Bruyn-Kops, “Sketch of the Riau-Lingga Archipelago”, [Journal of the Indian Archipelago and Eastern Asia](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=5007604) 9 (1855): 97. (From National Library, Singapore, call no. RRARE 950.05 JOU; microfilm no. NL25797)
+[^27]: George François de Bruyn-Kops, “Sketch of the Riau-Lingga Archipelago”, [*Journal of the Indian Archipelago and Eastern Asia*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=5007604) 9 (1855): 97. (From National Library, Singapore, call no. RRARE 950.05 JOU; microfilm no. NL25797)
 
-[^28]: Steven Adriaan Buddingh, Neêrlands Oost-Indië, vol. 3 (Amsterdam: Wed. J.C. van Kesteren en Zoon, 1867), 15.
+[^28]: Steven Adriaan Buddingh, *Neêrlands Oost-Indië*, vol. 3 (Amsterdam: Wed. J.C. van Kesteren en Zoon, 1867), 15.
 
-[^29]: Netscher, De Nederlanders in Djohor en Siak, 261; Ota Atsushi, “The Business of Violence: Piracy around Riau, Lingga, and Singapore, 1820–40”, in [Elusive Pirates, Pervasive Smugglers: Violence and Clandestine Trade in the Greater China Seas](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13695661), ed. Robert J. Antony (Hong Kong: Hong Kong University Press, 2010), 133. (From National Library, Singapore, call no. RSING 364.1336091646 ELU)
+[^29]: Netscher, *De Nederlanders in Djohor en Siak*, 261; Ota Atsushi, “The Business of Violence: Piracy around Riau, Lingga, and Singapore, 1820–40”, in [*Elusive Pirates, Pervasive Smugglers: Violence and Clandestine Trade in the Greater China Seas*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13695661), ed. Robert J. Antony (Hong Kong: Hong Kong University Press, 2010), 133. (From National Library, Singapore, call no. RSING 364.1336091646 ELU)
 
-[^30]: Engelbertus de Waal, Onze Indische Financien: Nieuwe Reeks Aanteekeningen, vol.7 (‘s-Gravenhage: Martinus Nijhoff, 1884), 14.
+[^30]: Engelbertus de Waal, *Onze Indische Financien: Nieuwe Reeks Aanteekeningen*, vol.7 (‘s-Gravenhage: Martinus Nijhoff, 1884), 14.
 
-[^31]: Netscher, De Nederlanders in Djohor en Siak, 262.
+[^31]: Netscher, *De Nederlanders in Djohor en Siak*, 262.
 
-[^32]: Dianne Lewis, “British Policy in the Straits of Malacca to 1819 and the Collapse of the Traditional Malay State Structure”, in [Empires, Imperialism and Southeast Asia: Essays in Honour of Nicolas Tarling](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=8894404), ed. Brook Barrington (Clayton, Victoria: Monash Asia Institute, 1997), 32. (From National Library, Singapore, call no. RSING 325.54 EMP)
+[^32]: Dianne Lewis, “British Policy in the Straits of Malacca to 1819 and the Collapse of the Traditional Malay State Structure”, in [*Empires, Imperialism and Southeast Asia: Essays in Honour of Nicolas Tarling*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=8894404), ed. Brook Barrington (Clayton, Victoria: Monash Asia Institute, 1997), 32. (From National Library, Singapore, call no. RSING 325.54 EMP)
