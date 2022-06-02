@@ -2,6 +2,7 @@ collections:
   jul-to-sep-2022:
     output: true
     order:
+      - A Royal Wedding Gone Wrong.md
       - "Giving A Voice To The Dead: Remembering Chao Tzee Cheng.md"
       - "Negotiating Boundaries: Japanese and Chinese Photo Studios in Prewar
         Singapore.md"
