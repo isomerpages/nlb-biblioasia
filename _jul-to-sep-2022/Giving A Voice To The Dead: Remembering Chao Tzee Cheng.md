@@ -3,7 +3,6 @@ title: "Giving A Voice To The Dead: Remembering Chao Tzee Cheng"
 permalink: /vol-18/issue-2/jul-sep-2022/chao-tzee-cheng-forensic-pathologist
 description: ""
 ---
-
 #### As a forensic pathologist, Chao Tzee Cheng helped bring murderers to justice. By **Goh Lee Kim**
 
 ![](/images/Vol%2018%20Issue%202/Giving%20A%20Voice%20To%20The%20Dead/Giving%20A%20Voice%20To%20The%20Dead%20-%20Image%201.png)
