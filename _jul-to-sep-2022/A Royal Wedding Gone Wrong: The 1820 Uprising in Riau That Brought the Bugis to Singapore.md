@@ -110,6 +110,11 @@ The story after 1824 needs no further retelling. The Anglo-Dutch Treaty, inked b
 
 Riau – the successor to the Malay ports of old – and the Dutch residents who came after Königsdorffer were witness to its gradual peripheralisation, while its neighbour Singapore became one of the major trading nodes of the world.[^32] All this was set in motion by a misunderstanding across the Straits, arising from shots fired into the dark.
 
+<div style="background-color: white;">
+<br/>
+<img src="/images/Vol%2018%20Issue%202/Authors/ZhuangWubin.png" style="width: 100px; height: 100px;"/>
+	<b>Benjamin J.Q. Khoo</b> is a Research Officer at ISEAS-Yusof Ishak Institute and a 2020/21 Lee Kong Chian Research Fellow at the National Library, Singapore. Studying the histories of the early modern world, his research focuses on networks of knowledge and diplomatic encounters in Asia.</div>
+
 #### **NOTES**
 
 [^1]: Elisa Netscher, *De Nederlanders in Djohor en Siak, 1602 tot 1865* (Batavia: Bruining and Wijt, 1870), 257.
