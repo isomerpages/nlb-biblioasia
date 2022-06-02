@@ -77,15 +77,14 @@ sections:
         Singapore.
       alt: Qur'an
   - infopic:
-      title: Definitely Not Spaghetti Bolognese
-      subtitle: "video: from Book to Cook"
-      description: In the 1980s, 14-year-old girls were taught how to breastfeed. Food
-        writer Sheere Ng explores home economics, while making a pasta dish she
-        was taught in class.
-      button: Making sauce-picious pasta
-      url: /videos/not-spaghetti-bolognese
-      image: "/images/Videos: From Book to Cook/spaghetti ketchup measuring
-        technique.png"
+      title: Hearts and Minds
+      subtitle: "video: Stories from BiblioAsia"
+      description: A Malayan Special Branch police inspector (played by Jo Tan)
+        interrogates a suspected communist (played by Oon Shu An). Who will
+        prevail in the battle of wits?
+      button: "watch the showdown "
+      url: /videos/hearts-minds
+      image: "/images/Videos: BA Stories/heartsandminds.jpg"
       alt: Image alt text
   - infopic:
       title: Cinema Pioneer Tan Cheng Kee
