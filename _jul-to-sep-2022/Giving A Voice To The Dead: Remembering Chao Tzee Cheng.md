@@ -3,8 +3,6 @@ title: "Giving A Voice To The Dead: Remembering Chao Tzee Cheng"
 permalink: /vol-18/issue-2/jul-sep-2022/chao-tzee-cheng-forensic-pathologist
 description: ""
 ---
-
-
 #### As a forensic pathologist, Chao Tzee Cheng helped bring murderers to justice. By **Goh Lee Kim**
 
 ![](/images/Vol%2018%20Issue%202/Giving%20A%20Voice%20To%20The%20Dead/Giving%20A%20Voice%20To%20The%20Dead%20-%20Image%201.png)
@@ -173,4 +171,4 @@ In his eulogy, Chao’s nephew Dr Wong Chiang Yin, who was also the Honorary Sec
 
 [^36]: Karen Wong, “[Top Forensic Pathologist Chao Dies in New York](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20000223-1.2.6.4),” *Straits Times*, 23 February 2000, 3; Ponnampalam, “[Joker, Eater, Singer…](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper20000223-1.2.14.1)”
 
-[^37]: Wong Chiang Yin, “In Memoriam: Prof Chao Tzee Cheng (1934–2000),” *SMA* News 32, no. 2 (2000), https://www.sma.org.sg/sma_news/3202/eulogy.pdf.
+[^37]: Wong Chiang Yin, “In Memoriam: Prof Chao Tzee Cheng (1934–2000),” *SMA News* 32, no. 2 (2000), https://www.sma.org.sg/sma_news/3202/eulogy.pdf.
