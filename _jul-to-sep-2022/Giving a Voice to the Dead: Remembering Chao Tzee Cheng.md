@@ -3,7 +3,6 @@ title: "Giving a Voice to the Dead: Remembering Chao Tzee Cheng"
 permalink: /vol-18/issue-2/jul-sep-2022/chao-tzee-cheng-forensic-pathologist
 description: ""
 ---
-
 #### As a forensic pathologist, Chao Tzee Cheng helped bring murderers to justice. By **Goh Lee Kim**
 
 ![](/images/Vol%2018%20Issue%202/Giving%20A%20Voice%20To%20The%20Dead/Giving%20A%20Voice%20To%20The%20Dead%20-%20Image%201.png)
@@ -18,7 +17,7 @@ During that time, Chao played a pivotal role in raising the standards of forensi
 Chao became a forensic pathologist by accident, literally. After completing his medical degree at Hong Kong University in 1961, he returned to Singapore where he had initially aimed to specialise in surgery.[^2] However, while on honeymoon in Johor, the car that he and his wife were travelling in plunged into a ravine. The accident put him in a week-long coma and also weakened his right hand. This dashed his hopes of becoming a surgeon.[^3] Undaunted, Chao trained himself to use his left hand and set his sights on pathology instead.
 
 ![](/images/Vol%2018%20Issue%202/Giving%20A%20Voice%20To%20The%20Dead/Giving%20A%20Voice%20To%20The%20Dead%20-%20Image%202.png)
-<div style="background-color: white;">A 15-year-old Chao Tzee Cheng (right), with his friend Wong Sin Eng in Punggol, 1949. <i>Wong Sin Eng Collection, courtesy of National Archives of Singapore.</i>
+<div style="background-color: white;">A 15-year-old Chao Tzee Cheng (right) with his friend Wong Sin Eng in Punggol, 1949. <i>Wong Sin Eng Collection, courtesy of National Archives of Singapore.</i>
 </div>
 
 In 1966, Chao left for Hammersmith Hospital in London to obtain a diploma in clinical pathology under a one-year Colombo Plan Scholarship. His boss back in Singapore suggested that he specialise in forensic pathology and as a result, Chao’s scholarship was extended by another year and a half so that he could obtain his diplomas in forensic pathology and medical jurisprudence.
