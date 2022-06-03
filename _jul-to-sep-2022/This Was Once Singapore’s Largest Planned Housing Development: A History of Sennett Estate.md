@@ -219,7 +219,7 @@ Today, Sennett Estate is dwarfed by tall condominium developments and the highly
 
 [^38]: “[Police Find Kidnap House](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19641208-1.2.7),” *Straits Times*, 8 December 1964, 1. (From NewspaperSG)
 
-[^39]: Maria Almenoar, “Sheng Siong Kidnapping: Singapore Was a Hotbed of Abductions in the 1950s and 1960s,” Straits Times, 10 January 2014, https://www.straitstimes.com/singapore/sheng-siong-kidnapping-singapore-was-a-hotbed-of-abductions-in-the-1950s-and-1960s.
+[^39]: Maria Almenoar, “Sheng Siong Kidnapping: Singapore Was a Hotbed of Abductions in the 1950s and 1960s,” *Straits Times*, 10 January 2014, https://www.straitstimes.com/singapore/sheng-siong-kidnapping-singapore-was-a-hotbed-of-abductions-in-the-1950s-and-1960s.
 
 [^40]: Mushahid Ali, “Konfrontasi: Why Singapore was in Forefront of Indonesian Attacks,” RSIS Commentary, no. 062, 23 March 2015, https://www.rsis.edu.sg/rsis-publication/rsis/co15062-konfrontasi-why-singapore-was-in-forefront-of-indonesian-attacks/.
 
