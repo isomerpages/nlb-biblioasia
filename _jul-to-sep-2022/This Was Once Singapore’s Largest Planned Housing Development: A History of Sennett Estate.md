@@ -143,15 +143,15 @@ Today, Sennett Estate is dwarfed by tall condominium developments and the highly
 
 #### **NOTES**
 
-[^1]: “[Biggest Housing Estate Planned](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19500716-1.2.25),” Straits Times, 16 July 1950, 3. (From NewspaperSG)
+[^1]: “[Biggest Housing Estate Planned](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19500716-1.2.25),” *Straits Times*, 16 July 1950, 3. (From NewspaperSG)
 
-[^2]: Dhoraisingam S. Samuel, [Singapore’s Heritage: Through Places of Historical Interest](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13695618) (Singapore: Dhoraisingam S. Samuel, 2010), 19. (From National Library, Singapore, call no. RSING 959.57 SAM-[HIS])
+[^2]: Dhoraisingam S. Samuel, [*Singapore’s Heritage: Through Places of Historical Interest*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13695618) (Singapore: Dhoraisingam S. Samuel, 2010), 19. (From National Library, Singapore, call no. RSING 959.57 SAM-[HIS])
 
-[^3]: Roy Ferroa, “[S’pore’s Forgotten Park](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19480420-1.2.23),” Singapore Free Press, 20 April 1948, 2. (From NewspaerSG)
+[^3]: Roy Ferroa, “[S’pore’s Forgotten Park](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19480420-1.2.23),” *Singapore Free Press*, 20 April 1948, 2. (From NewspaerSG)
 
-[^4]: “[Alkaff Gardens Becoming a Popular Park](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/sundaytribune19360223-1.2.71),” Sunday Tribune, 23 February 1936, 17. (From NewspaperSG)
+[^4]: “[Alkaff Gardens Becoming a Popular Park](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/sundaytribune19360223-1.2.71),” *Sunday Tribune*, 23 February 1936, 17. (From NewspaperSG)
 
-[^5]: Ray K. Tyers, [Ray Tyers’ Singapore: Then & Now](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6442235), revised and updated by Siow Jin Hua (Singapore: Landmark Books, 1993), 199. (From National Library, Singapore, call no. RSING 959.57 TYE-[HIS])
+[^5]: Ray K. Tyers, [*Ray Tyers’ Singapore: Then & Now](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6442235), revised and updated by Siow Jin Hua* (Singapore: Landmark Books, 1993), 199. (From National Library, Singapore, call no. RSING 959.57 TYE-[HIS])
 
 [^6]: “[Alkaff Gardens Becoming a Popular Park](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/sundaytribune19360223-1.2.71)”; “[Brighter Alkaff Gardens](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19350917-1.2.78),” Straits Times, 17 September 1935, 12. (From NewspaperSG)
 
