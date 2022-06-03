@@ -66,6 +66,10 @@ Meanwhile, representatives from the Sennett housing estate and the Public Works 
 
 After much debate, a compromise was reached. The roads within the estate were named after flora and fauna, such as Butterfly Avenue, Cedar Avenue and Lichi Avenue, as well as after the businessmen involved in the project. These include Pheng Geck Avenue, after City Councillor Yap Pheng Geck; Kwong Avenue, after A.C.T. Kwong, director and manager of Sennett Realty; and Wan Tho Avenue, after Loke Wan Tho, film magnate and founder of Cathay Organisation. The first section of the estate was built in 1951, with the remaining three phases completed over the following years.[^21]
 
+![](/images/Vol%2018%20Issue%202/A%20History%20of%20Sennett%20Estate/A%20History%20of%20Sennett%20Estate%20-%20Image%208.png)
+<div style="background-color: white;">Kwong Avenue is named after A.C.T. Kwong, director and manager of Sennett Realty, while Puay Hee Avenue is named after Tan Puay Hee, a board member of Sennett Realty and Malayan Realty. Photo by and courtesy of Winnie Tan. 
+</div>
+
 #### **The Early Days**
 
 One long-time resident of the area is 68-year-old Julie Kwong, daughter of the late A.C.T. Kwong, who was also once the Chinese general consul in Ipoh. To this day, the retired lawyer and current school administrator lives on the same road that bears her last name.
