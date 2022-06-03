@@ -42,7 +42,7 @@ Regardless of the trigger, the violence happened in a flash. The glints of the d
 
 News of Raja Ronggik’s death spread like wildfire. The next day, the Dutch sought to reassure the incensed Arung Belawa that it was only a misunderstanding. However, his fury could not be quenched. Not only did he get his men to secretly shoot at Dutch patrols, he also sent spies and behaved very belligerently.[^10]
 
-![](/images/Vol%2018%20Issue%202/A%20Royal%20Wedding%20Gone%20Wrong/A%20Royal%20Wedding%20Gone%20Wrong%20-%20Image%207.png)
+![](/images/Vol%2018%20Issue%202/A%20Royal%20Wedding%20Gone%20Wrong/A%20Royal%20Wedding%20Gone%20Wrong%20-%20Image%203.png)
 <div style="background-color: white;"> Two Bougis (or Bugis) men of Bokyes, an island off the coast of Makassar. <i>Image reproduced from Awnsham Churchill, A Collection of Voyages and Travels, Some Now First Printed from Original Manuscripts, Others Now First Published in English (London: J. Walthoe, 1732). (From National Library, Singapore, call no. RRARE 910.8 CHU).</i>
 </div>
 
