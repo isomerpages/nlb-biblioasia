@@ -20,17 +20,17 @@ Before Sennett Estate came into being, the area was principally known for the Al
 
 “Eighteen years ago, the idea of converting the site into a park occurred to me,” he said in a 1948 newspaper interview. “A building contractor suggested that we should decorate the site with Japanese tea-houses, side-walks lined with granite chips, Japanese arches and bridges,” he said. Alkaff then hired a Japanese landscape expert to develop what has been described as Singapore’s very first Japanese-style garden across 10 acres (40.5 sq m) of land, which opened to the public in 1929.[^3]
 
-Alkaff Lake Gardens quickly became a popular evening and weekend resort for families, couples and office workers.[^4] Featuring artificial hills and a man-made lake, visitors could go boating on the lake, fishing and picnic under shady trees.[^5] The idyllic spot also offered tea houses that could be rented, interspersed among quaint Japanese bridges and manicured shrubbery.
-
 ![](/images/Vol%2018%20Issue%202/A%20History%20of%20Sennett%20Estate/A%20History%20of%20Sennett%20Estate%20-%20Image%202.png)
 <div style="background-color: white;">Alkaff Lake Gardens had a man-made lake, bridges, tea houses and pavilions, 1935. John Lim Collection, courtesy of National Archives of Singapore.
 </div>
 
-In 1935, Chinese merchant Tan Aik Kee of Nanyang Amusement Co. took over the management of the park and introduced Chinese elements. Chinese-style boathouses reminiscent of dwellings along the Pearl River in Guangzhou were constructed along with Chinese pavilions as well as the introduction of Chinese white and pink lotus flowers.[^6] A cinema and a cabaret were even in the works. However, the park fell into disuse by the late 1930s.
+Alkaff Lake Gardens quickly became a popular evening and weekend resort for families, couples and office workers.[^4] Featuring artificial hills and a man-made lake, visitors could go boating on the lake, fishing and picnic under shady trees.[^5] The idyllic spot also offered tea houses that could be rented, interspersed among quaint Japanese bridges and manicured shrubbery.
 
 ![](/images/Vol%2018%20Issue%202/A%20History%20of%20Sennett%20Estate/A%20History%20of%20Sennett%20Estate%20-%20Image%203.png)
 <div style="background-color: white;">Boating at Alkaff Lake Gardens, 1950s. Singapore Federation of Chinese Clan Associations Collection, courtesy of National Archives of Singapore.
 </div>
+
+In 1935, Chinese merchant Tan Aik Kee of Nanyang Amusement Co. took over the management of the park and introduced Chinese elements. Chinese-style boathouses reminiscent of dwellings along the Pearl River in Guangzhou were constructed along with Chinese pavilions as well as the introduction of Chinese white and pink lotus flowers.[^6] A cinema and a cabaret were even in the works. However, the park fell into disuse by the late 1930s.
 
 #### **The War**
 
