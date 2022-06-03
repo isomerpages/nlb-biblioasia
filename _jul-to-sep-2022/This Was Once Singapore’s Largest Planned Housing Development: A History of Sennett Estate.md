@@ -98,6 +98,10 @@ Kwong Avenue School subsequently merged with Sennett Estate Primary to form Senn
 
 Apart from schools, Sennett Estate also has several places of worship. Alkaff Upper Serangoon Mosque is located at 66 Pheng Geck Avenue while Calvary Baptist Church is at 48 Wan Tho Avenue. In addition, Sri Siva Durga Temple is located nearby at 8 Potong Pasir Avenue 2.
 
+![](/images/Vol%2018%20Issue%202/A%20History%20of%20Sennett%20Estate/A%20History%20of%20Sennett%20Estate%20-%20Image%206.png)
+<div style="background-color: white;">There are places of worship in Sennett Estate such as Alkaff Upper Serangoon Mosque on Pheng Geck Avenue (left) and Calvary Baptist Church on Wan Tho Avenue (right). Photos by and courtesy of Winnie Tan.
+</div>
+
 Sennett Estate’s most notable neighbour though was Bidadari Cemetery. The cemetery opened in 1908 and served the Christian, Muslim, Hindu and Sinhalese communities until its closure 1972. The proximity to a major cemetery did not seem to have deterred homebuyers. “People were more afraid of bumping into cobras,” Julie said. Since Mount Vernon Camp, which houses the training and residential facilities of the Gurkha Contingent in Singapore, is located near the cemetery, she added that the estate’s residents always felt safe near the burial grounds.[^36]
 
 #### **Dangerous Liaisons**
