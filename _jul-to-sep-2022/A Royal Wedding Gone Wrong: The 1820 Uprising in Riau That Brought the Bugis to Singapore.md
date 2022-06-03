@@ -96,7 +96,7 @@ Finally, in all this, the Dutch did not lose sight of practical military concern
 
 Although Arung Belawa seemed to have settled quite comfortably in Singapore, he spent his time harassing Dutch ships, sporadically attacking gambier plantations in Riau and generally proving to be a nuisance.
 
-![](/images/Vol%2018%20Issue%202/A%20Royal%20Wedding%20Gone%20Wrong/A%20Royal%20Wedding%20Gone%20Wrong%20-%20Image%205.png)
+![](/images/Vol%2018%20Issue%202/A%20Royal%20Wedding%20Gone%20Wrong/A%20Royal%20Wedding%20Gone%20Wrong%20-%20Image%207.png)
 <div style="background-color: white;"> Detail from a Southeast Asia map (1782–1828). <i>Image reproduced from Jan Meinhard Pluvier, Historical Atlas of South-East Asia (Leiden: Brill, 1995), 31. (From National Library, Singapore, call no. RSING 911.59 PLU).</i>
 </div>
 
