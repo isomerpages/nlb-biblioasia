@@ -221,7 +221,7 @@ Today, Sennett Estate is dwarfed by tall condominium developments and the highly
 
 [^39]: Maria Almenoar, “Sheng Siong Kidnapping: Singapore Was a Hotbed of Abductions in the 1950s and 1960s,” *Straits Times*, 10 January 2014, https://www.straitstimes.com/singapore/sheng-siong-kidnapping-singapore-was-a-hotbed-of-abductions-in-the-1950s-and-1960s.
 
-[^40]: Mushahid Ali, “Konfrontasi: Why Singapore was in Forefront of Indonesian Attacks,” RSIS Commentary, no. 062, 23 March 2015, https://www.rsis.edu.sg/rsis-publication/rsis/co15062-konfrontasi-why-singapore-was-in-forefront-of-indonesian-attacks/.
+[^40]: Mushahid Ali, “Konfrontasi: Why Singapore was in Forefront of Indonesian Attacks,” *RSIS Commentary*, no. 062, 23 March 2015, https://www.rsis.edu.sg/rsis-publication/rsis/co15062-konfrontasi-why-singapore-was-in-forefront-of-indonesian-attacks/.
 
 [^41]: Mohamed Effendy Abdul Hamid and Kartini Saparudin, “[MacDonald House Bomb Explosion](https://eresources.nlb.gov.sg/infopedia/articles/SIP_62_2004-12-17.html),” in Singapore Infopedia. National Library Board Singapore. Article published 7 August 2014.
 
