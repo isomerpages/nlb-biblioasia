@@ -136,6 +136,10 @@ Today, Sennett Estate is dwarfed by tall condominium developments and the highly
 
 “The chwee kueh lady would wheel  [her cart] down the streets, her steamer in front, and the laksa man would walk by with ceramic bowls and a huge pot,” she said. “They would be on our street and we’d buy from them. They have calls that still ring in my ears today.”[^48]
 
+
+Winnie Tan is an Associate Librarian with the National Library, Singapore. She is part of the Arts and General Reference team and works on content development, collection management, and research and reference services.
+
+
 [^1]: “[Biggest Housing Estate Planned](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19500716-1.2.25),” Straits Times, 16 July 1950, 3. (From NewspaperSG)
 
 [^2]: Dhoraisingam S. Samuel, [Singapore’s Heritage: Through Places of Historical Interest](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13695618) (Singapore: Dhoraisingam S. Samuel, 2010), 19. (From National Library, Singapore, call no. RSING 959.57 SAM-[HIS])
