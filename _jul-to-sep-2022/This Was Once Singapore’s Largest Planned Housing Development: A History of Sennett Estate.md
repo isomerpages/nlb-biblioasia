@@ -132,7 +132,7 @@ While the old Alkaff Lake Gardens is no more, the Housing and Development Board 
 
 The new Alkaff Lake – envisioned to be around the size of two football fields and hold 30 million litres of water – will also be the country’s first artificial lake to double as a flood control feature.[^46] (At the time of publishing, there has still been no word on when the lake and park will be ready.)
 
-Today, Sennett Estate is dwarfed by tall condominium developments and the highly popular Bidadari housing estate. However, within Sennett Estate itself, little appears to have changed. Looking back, Julie agrees that on the surface, the estate is still very similar to what it used to look like a half century ago. However, the rhythm of life in the area is no longer the same, she said, lamenting the loss of street hawkers and the Friday night pasar malam.[^47]
+Today, Sennett Estate is dwarfed by tall condominium developments and the highly popular Bidadari housing estate. However, within Sennett Estate itself, little appears to have changed. Looking back, Julie agrees that on the surface, the estate is still very similar to what it used to look like a half century ago. However, the rhythm of life in the area is no longer the same, she said, lamenting the loss of street hawkers and the Friday night *pasar malam*.[^47]
 
 “The chwee kueh lady would wheel  [her cart] down the streets, her steamer in front, and the laksa man would walk by with ceramic bowls and a huge pot,” she said. “They would be on our street and we’d buy from them. They have calls that still ring in my ears today.”[^48]
 
