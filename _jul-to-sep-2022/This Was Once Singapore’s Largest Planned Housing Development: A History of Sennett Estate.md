@@ -153,67 +153,67 @@ Today, Sennett Estate is dwarfed by tall condominium developments and the highly
 
 [^5]: Ray K. Tyers, [*Ray Tyers’ Singapore: Then & Now](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6442235), revised and updated by Siow Jin Hua* (Singapore: Landmark Books, 1993), 199. (From National Library, Singapore, call no. RSING 959.57 TYE-[HIS])
 
-[^6]: “[Alkaff Gardens Becoming a Popular Park](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/sundaytribune19360223-1.2.71)”; “[Brighter Alkaff Gardens](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19350917-1.2.78),” Straits Times, 17 September 1935, 12. (From NewspaperSG)
+[^6]: “[Alkaff Gardens Becoming a Popular Park](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/sundaytribune19360223-1.2.71)”; “[Brighter Alkaff Gardens](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19350917-1.2.78),” *Straits Times*, 17 September 1935, 12. (From NewspaperSG)
 
 [^7]: Ferroa, “[S’pore’s Forgotten Park](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19480420-1.2.23).”
 
-[^8]: Ferroa, “[S’pore’s Forgotten Park](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19480420-1.2.23)”; Tyers, [Ray Tyers’ Singapore](http://eservice.nlb.gov.sg/item_holding.aspx?bid=6442235), 199.
+[^8]: Ferroa, “[S’pore’s Forgotten Park](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19480420-1.2.23)”; Tyers, [*Ray Tyers’ Singapore*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=6442235), 199.
 
 [^9]: “[Biggest Housing Estate Planned](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19500716-1.2.25).”
 
-[^10]: C.M. Turnbull, [A History of Modern Singapore 1819–2005](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204080111) (Singapore: NUS Press, 2020), 382. (From National Library, Singapore, call no. RSING 959.57 TUR-[HIS])
+[^10]: C.M. Turnbull, [*A History of Modern Singapore 1819–2005*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204080111) (Singapore: NUS Press, 2020), 382. (From National Library, Singapore, call no. RSING 959.57 TUR-[HIS])
 
 [^11]: “[Biggest Housing Estate Planned](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19500716-1.2.25).”
 
 [^12]: “[Biggest Housing Estate Planned](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19500716-1.2.25).”
 
-[^13]: “[Biggest Housing Estate Planned](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19500716-1.2.25)”; “[400 Houses to Go Up in Alkaff Area](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19501229-1.2.84),” Singapore Free Press, 29 December 1950. (From NewspaperSG)
+[^13]: “[Biggest Housing Estate Planned](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19500716-1.2.25)”; “[400 Houses to Go Up in Alkaff Area](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19501229-1.2.84),” *Singapore Free Press*, 29 December 1950. (From NewspaperSG)
 
-[^14]: “[Garden Lake To Be Filled Up](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19500718-1.2.114),” Straits Times, 18 July 1950, 7. (From NewspaperSG)
+[^14]: “[Garden Lake To Be Filled Up](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19500718-1.2.114),” *Straits Times*, 18 July 1950, 7. (From NewspaperSG)
 
-[^15]: Speramus Meliora, “[A Serangoon Park](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19500721-1.2.89.1),” Straits Times, 21 July 1950, 6. (From NewspaperSG)
+[^15]: Speramus Meliora, “[A Serangoon Park](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19500721-1.2.89.1),” *Straits Times*, 21 July 1950, 6. (From NewspaperSG)
 
-[^16]: Pieces of Eight, “[Alkaff Gardens](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19500727-1.2.3.3),” Straits Budget, 27 July 1950, 2. (From NewspaperSG)
+[^16]: Pieces of Eight, “[Alkaff Gardens](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19500727-1.2.3.3),” *Straits Budget*, 27 July 1950, 2. (From NewspaperSG)
 
-[^17]: “[Wants Alkaff Gardens Preserved](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19500729-1.2.198),” Singapore Standard, 29 July 1950, 12. (From NewspaperSG)
+[^17]: “[Wants Alkaff Gardens Preserved](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19500729-1.2.198),” *Singapore Standard*, 29 July 1950, 12. (From NewspaperSG)
 
-[^18]: “[It's Really a Hole](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19500822-1.2.68),” Singapore Free Press, 22 August 1950, 5. (From NewspaperSG)
+[^18]: “[It's Really a Hole](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19500822-1.2.68),” *Singapore Free Press*, 22 August 1950, 5. (From NewspaperSG)
 
-[^19]: “[Thousand Apply to Buy Houses](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19500822-1.2.60),” Singapore Free Press, 22 August 1950, 5; “[First Come First Served Allocation System](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/sundaystandard19510218-1.2.25),” Sunday Standard, 18 February 1951, 2. (From NewspaperSG)
+[^19]: “[Thousand Apply to Buy Houses](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19500822-1.2.60),” *Singapore Free Press*, 22 August 1950, 5; “[First Come First Served Allocation System](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/sundaystandard19510218-1.2.25),” *Sunday Standard*, 18 February 1951, 2. (From NewspaperSG)
 
-[^20]: “[Name Roads After Malayan Trees, MCs Tell Housing Estate Owners](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19510623-1.2.47.37),” Singapore Free Press, 23 June 1951, 5. (From NewspaperSG)
+[^20]: “[Name Roads After Malayan Trees, MCs Tell Housing Estate Owners](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19510623-1.2.47.37),” *Singapore Free Press*, 23 June 1951, 5. (From NewspaperSG)
 
-[^21]: “[‘Personal’ Names for New Roads](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19510927-1.2.118),” Straits Times, 27 September 1951, 7; “[Sennett’s Aim Is 1000 Houses](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/sundaystandard19510819-1.2.31),” Straits Times, 19 August 1951, 3. (From NewspaperSG)
+[^21]: “[‘Personal’ Names for New Roads](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19510927-1.2.118),” *Straits Times*, 27 September 1951, 7; “[Sennett’s Aim Is 1000 Houses](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/sundaystandard19510819-1.2.31),” *Straits Times*, 19 August 1951, 3. (From NewspaperSG)
 
 [^22]: Julie Kwong, interview, 5 May 2022.
 
 [^23]: Julie Kwong, interview, 25 November 2021.
 
-[^24]: “[Floods! Call for Action](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19540727-1.2.57),” Singapore Free Press, 27 July 1954, 7. (From NewspaperSG)
+[^24]: “[Floods! Call for Action](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19540727-1.2.57),” *Singapore Free Press*, 27 July 1954, 7. (From NewspaperSG)
 
-[^25]: “[Tempers Go Up With the Flood in Estate](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19541212-1.2.41),” Straits Times, 12 December 1954, 5. (From NewspaperSG)
+[^25]: “[Tempers Go Up With the Flood in Estate](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19541212-1.2.41),” *Straits Times*, 12 December 1954, 5. (From NewspaperSG)
 
 [^26]: “Drainage Works at Potong Pasir,” National Heritage Board, last updated 2 April 2021, https://www.roots.gov.sg/Collection-Landing/listing/1117739.
 
 [^27]: “[Homes Are Flooded Every Time It Rains](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19530814-1.2.50).”
 
-[^28]: “[Flood Drains for Sennett Estate](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19640828-1.2.108),” Straits Times, 28 August 1964, 13. (From NewspaperSG)
+[^28]: “[Flood Drains for Sennett Estate](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19640828-1.2.108),” *Straits Times*, 28 August 1964, 13. (From NewspaperSG)
 
-[^29]: Nature Lover, “[Vanishing Parkland at Alkaff ‘Gardens’](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19640523-1.2.101.5),” Straits Times, 23 May 1964, 17; Au Yee Pun, “[When Trees Must Make Way for New Schools](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19640606-1.2.67.42.1),” Straits Times, 6 June 1964, 15. (From Newspaper SG); Gary Maurice Dwor-Frecaut, “[Alkaff Lake Gardens](https://eresources.nlb.gov.sg/infopedia/articles/SIP_604_2005-01-24.html),” in Singapore Infopedia. National Library Board Singapore. Article published 2010.
+[^29]: Nature Lover, “[Vanishing Parkland at Alkaff ‘Gardens’](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19640523-1.2.101.5),” *Straits Times*, 23 May 1964, 17; Au Yee Pun, “[When Trees Must Make Way for New Schools](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19640606-1.2.67.42.1),” *Straits Times*, 6 June 1964, 15. (From Newspaper SG); Gary Maurice Dwor-Frecaut, “[Alkaff Lake Gardens](https://eresources.nlb.gov.sg/infopedia/articles/SIP_604_2005-01-24.html),” in *Singapore Infopedia*. National Library Board Singapore. Article published 2010.
 
 [^30]: Julie Kwong, interview, 25 November 2021.
 
-[^31]: Sandra Davie, “[Some Schools in Older Housing Estates to Close](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19901217-1.2.35.8),” Straits Times, 17 December 1990, 23. (From NewspaperSG)
+[^31]: Sandra Davie, “[Some Schools in Older Housing Estates to Close](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19901217-1.2.35.8),” *Straits Times*, 17 December 1990, 23. (From NewspaperSG)
 
-[^32]: “[Cedar Girls to Relive Memories Before Old School Is Torn Down](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19891031-1.2.28.7),” Straits Times, 31 October 1989, 17. (From NewspaperSG)
+[^32]: “[Cedar Girls to Relive Memories Before Old School Is Torn Down](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19891031-1.2.28.7),” *Straits Times*, 31 October 1989, 17. (From NewspaperSG)
 
-[^33]: “[Cedar Girls to Lose Its Track and Field](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19940906-1.2.31.21),” Straits Times, 6 September 1994, 25. (From NewspaperSG)
+[^33]: “[Cedar Girls to Lose Its Track and Field](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19940906-1.2.31.21),” *Straits Times*, 6 September 1994, 25. (From NewspaperSG)
 
-[^34]: Annabel Leow, “School Mergers 2019: Merry-go-round of Mergers for Some Affected Primary Schools,” Straits Times, 20 April 2017, https://www.straitstimes.com/singapore/education/merry-go-round-of-mergers-for-some-affected-primary-schools.
+[^34]: Annabel Leow, “School Mergers 2019: Merry-go-round of Mergers for Some Affected Primary Schools,” *Straits Times*, 20 April 2017, https://www.straitstimes.com/singapore/education/merry-go-round-of-mergers-for-some-affected-primary-schools.
 
 [^35]: “Relocation to Temporary Office from Tuesday, 7 September 2021,” The Boys’ Brigade in Singapore, accessed 25 April 2022, https://www.bb.org.sg/contact-us/address-n-map.
 
-[^36]: Alex Chow, “[Bidadari Cemetery](https://eresources.nlb.gov.sg/infopedia/articles/SIP_840_2004-12-20.html),” in Singapore Infopedia. National Library Board Singapore. Article published 15 July 2015; Julie Kwong, interview, 25 November 2021.
+[^36]: Alex Chow, “[Bidadari Cemetery](https://eresources.nlb.gov.sg/infopedia/articles/SIP_840_2004-12-20.html),” in *Singapore Infopedia*. National Library Board Singapore. Article published 15 July 2015; Julie Kwong, interview, 25 November 2021.
 
 [^37]: Lim Beng Tee and Jackie Sam, “[Dato Tells How He Was Kidnapped, Held and Freed After 14 Days](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19641130-1.2.97),” Straits Times, 30 November 1964, 13. (From NewspaperSG)
 
