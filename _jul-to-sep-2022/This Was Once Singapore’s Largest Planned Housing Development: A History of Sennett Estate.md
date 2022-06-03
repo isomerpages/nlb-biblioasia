@@ -78,7 +78,7 @@ According to Julie, her father had been the director and manager of Sennett Real
 
 Having lived in the estate for more than 60 years, Julie recalls how flooding used to be a major problem. As a child in the 1950s, she remembers that when it flooded, she and her siblings “sat atop furniture, made paper boats and floated them” in their living room. “It was fun.”[^23]
 
-The adults, undoubtedly, found the situation less amusing. “The floods here are getting worse every time it rains,” said resident R. Manikam to the Singapore Free Press in 1954. “It looks like we are being left to either sink or swim in them.” Another resident, F.S. Krempl, added: “We have to remove shoes and roll up trousers to get to the main road. Sometimes we think how nice it would be to have a motor boat service here.”[^24]
+The adults, undoubtedly, found the situation less amusing. “The floods here are getting worse every time it rains,” said resident R. Manikam to the *Singapore Free Press* in 1954. “It looks like we are being left to either sink or swim in them.” Another resident, F.S. Krempl, added: “We have to remove shoes and roll up trousers to get to the main road. Sometimes we think how nice it would be to have a motor boat service here.”[^24]
 
 In 1954 alone, residents counted 32 floods, during which water would seep through the walls and floors, rendering the bathrooms and flush systems unusable. “Nuisance from flooding, flies and mosquitoes is getting intolerable,” they said.[^25] The residents repeatedly petitioned the City Council to fix the problem.
 
