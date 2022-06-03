@@ -7,8 +7,8 @@ description: ""
 #### Sennett Estate is a unique milestone in the history of housing development in Singapore and its quiet streets have had its fair share of excitement over the years. By **Winnie Tan**
 
 ![](/images/Vol%2018%20Issue%202/A%20History%20of%20Sennett%20Estate/A%20History%20of%20Sennett%20Estate%20-%20Image%201.png)
-"<div style=""background-color: white;"">Semi-detached houses along Pheng Geck Avenue and Wan Tho Avenue, 2022. Photo by and courtesy of Winnie Tan.
-</div>"
+<div style="background-color: white;">Semi-detached houses along Pheng Geck Avenue and Wan Tho Avenue, 2022. Photo by and courtesy of Winnie Tan.
+</div>
 
 At first glance, there is little to suggest that Sennett Estate, a housing development in Potong Pasir just off MacPherson Road, is particularly noteworthy. It looks like any typical suburb, with its quiet streets lined with houses that were originally built in the 1950s. However, this unassuming estate represents an interesting milestone in the history of home development in Singapore.
 
@@ -43,6 +43,9 @@ The estate would comprise shophouses, bungalows, semi-detached houses and terrac
 Sennett told the Sunday Times that the company would “endeavour to bring down the price of private houses to meet the pocket of the middle-class man”. “The financial arrangements for people buying housing on the hire-purchase system would have to be worked out with the building society, but the usual terms for borrowing $10,000 was to pay it back at the rate of $85 a month over 15 years,” he said. All the houses in the estate would be equipped with modern sanitation, water, electricity and gas. The initial proposal for the estate also included a clinic, market, cinema and kindergarten.[^13]
 
 Around the same time, it was announced that Alkaff Lake Gardens would be “filled up with earth and the hillocks levelled to be converted into children’s playgrounds and open spaces”.[^14] Although the park was deemed “a ghost of its pre-war self” by the Straits Times at this point, its closure was still met with howls of protest from the public, who lamented the dearth of open spaces in Singapore.
+
+![](/images/Vol%2018%20Issue%202/A%20History%20of%20Sennett%20Estate/A%20History%20of%20Sennett%20Estate%20-%20Image%202.png)
+
 
 In July 1950, a Straits Times reader wrote to the paper to express his “indignant distress and alarm” at the impending fate of Alkaff Gardens. “If this is thought a noble service to the community, towards relieving the present housing shortage, then the impression is certainly highly mistaken.”[^15] Another reader wrote to the Straits Budget, asking rhetorically: “Is Singapore so well stocked with public parks and open spaces that we can afford to see this God-given man-made beauty spot of our city obliterated?”[^16] The Singapore Progressive Party issued a statement saying that Alkaff Gardens should be “preserved as a public park” and called upon the “‘relevant public authority’ to take necessary steps for this purpose”.[^17]
 
