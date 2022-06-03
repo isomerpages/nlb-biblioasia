@@ -134,7 +134,7 @@ The new Alkaff Lake – envisioned to be around the size of two football fields 
 
 Today, Sennett Estate is dwarfed by tall condominium developments and the highly popular Bidadari housing estate. However, within Sennett Estate itself, little appears to have changed. Looking back, Julie agrees that on the surface, the estate is still very similar to what it used to look like a half century ago. However, the rhythm of life in the area is no longer the same, she said, lamenting the loss of street hawkers and the Friday night *pasar malam*.[^47]
 
-“The chwee kueh lady would wheel  [her cart] down the streets, her steamer in front, and the laksa man would walk by with ceramic bowls and a huge pot,” she said. “They would be on our street and we’d buy from them. They have calls that still ring in my ears today.”[^48]
+“The *chwee kueh* lady would wheel  [her cart] down the streets, her steamer in front, and the laksa man would walk by with ceramic bowls and a huge pot,” she said. “They would be on our street and we’d buy from them. They have calls that still ring in my ears today.”[^48]
 
 <div style="background-color: white;">
 <br/>
