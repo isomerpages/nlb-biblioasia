@@ -112,7 +112,7 @@ Riau – the successor to the Malay ports of old – and the Dutch residents who
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol%2018%20Issue%202/Authors/BenjaminJQKhoo.png" style="width: 100px; height: 100px;"/>
+<img src="/images/Vol%2018%20Issue%202/Authors/Benjamin%20J%20Q%20Khoo.png" style="width: 100px; height: 100px;"/>
 	<b>Benjamin J.Q. Khoo</b> is a Research Officer at ISEAS-Yusof Ishak Institute and a 2020/21 Lee Kong Chian Research Fellow at the National Library, Singapore. Studying the histories of the early modern world, his research focuses on networks of knowledge and diplomatic encounters in Asia.</div>
 
 #### **NOTES**
