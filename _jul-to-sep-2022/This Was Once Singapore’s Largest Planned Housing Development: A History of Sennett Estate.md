@@ -28,6 +28,10 @@ Alkaff Lake Gardens quickly became a popular evening and weekend resort for fami
 
 In 1935, Chinese merchant Tan Aik Kee of Nanyang Amusement Co. took over the management of the park and introduced Chinese elements. Chinese-style boathouses reminiscent of dwellings along the Pearl River in Guangzhou were constructed along with Chinese pavilions as well as the introduction of Chinese white and pink lotus flowers.[^6] A cinema and a cabaret were even in the works. However, the park fell into disuse by the late 1930s.
 
+![](/images/Vol%2018%20Issue%202/A%20History%20of%20Sennett%20Estate/A%20History%20of%20Sennett%20Estate%20-%20Image%203.png)
+<div style="background-color: white;">Boating at Alkaff Lake Gardens, 1950s. Singapore Federation of Chinese Clan Associations Collection, courtesy of National Archives of Singapore.
+</div>
+
 #### **The War**
 
 At the onset of World War II, the park was requisitioned by the British military in December 1941 and closed to the public. The Singapore Volunteer Field Ambulance Corps then took over the area and made it their headquarters, where they were stationed for a few weeks. The park was initially spared from Japanese bombings and a former sergeant from the volunteer corps believed that this was because there was a “huge red cross set up on the grass, which was visible even from the air”. However, after the volunteer corps moved out, the park was bombed and shelled.[^7]
@@ -61,10 +65,6 @@ Within a month of the estate’s debut announcement in August 1950, more than 1,
 Meanwhile, representatives from the Sennett housing estate and the Public Works Committee discussed potential names for the estate’s 24 roads. The names of the directors of Sennett Realty were initially suggested for the roads to honour the businessmen’s “courage and enterprise” in this first-of-its-kind development. However, the committee rejected these names, on the grounds that these private roads would eventually be taken over and maintained as public roads by the Municipality so the names should be approved by the municipal commissioners.[^20]
 
 After much debate, a compromise was reached. The roads within the estate were named after flora and fauna, such as Butterfly Avenue, Cedar Avenue and Lichi Avenue, as well as after the businessmen involved in the project. These include Pheng Geck Avenue, after City Councillor Yap Pheng Geck; Kwong Avenue, after A.C.T. Kwong, director and manager of Sennett Realty; and Wan Tho Avenue, after Loke Wan Tho, film magnate and founder of Cathay Organisation. The first section of the estate was built in 1951, with the remaining three phases completed over the following years.[^21]
-
-![](/images/Vol%2018%20Issue%202/A%20History%20of%20Sennett%20Estate/A%20History%20of%20Sennett%20Estate%20-%20Image%203.png)
-<div style="background-color: white;">Boating at Alkaff Lake Gardens, 1950s. Singapore Federation of Chinese Clan Associations Collection, courtesy of National Archives of Singapore.
-</div>
 
 #### **The Early Days**
 
