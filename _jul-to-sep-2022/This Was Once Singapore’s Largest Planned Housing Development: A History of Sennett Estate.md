@@ -40,10 +40,6 @@ The park continued to be off limits during the Japanese Occupation. An armed gua
 
 At the end of the tumultuous decade, Alkaff Lake Gardens and the adjacent plots of land were purchased by Sennett Realty in July 1950 with plans to develop a new housing estate there.[^9] It was the end of an era and the beginning of a new one.
 
-![](/images/Vol%2018%20Issue%202/A%20History%20of%20Sennett%20Estate/A%20History%20of%20Sennett%20Estate%20-%20Image%205.png)
-<div style="background-color: white;">An advertisement listing Sennett Estate’s proposed amenities such as shops, a market, a school, a cinema and even medical and dental clinics. Image reproduced from the Straits Times, 7 October 1951, 15. (From NewspaperSG).
-</div>
-
 #### **Planning the Biggest Housing Estate**
 
 After the war, Singapore’s population increased exponentially, causing a severe housing shortage. In 1947, a study by the Singapore Housing Committee revealed that the colony’s population had increased from 560,000 in 1931 to 941,000 that year, with most families crammed into one room or even just a cubicle. The committee found that barely one-third of the urban population was housed satisfactorily.[^10]
@@ -53,6 +49,10 @@ In July 1950, the Sunday Times reported the plans for the new Sennett Estate, th
 The estate would comprise shophouses, bungalows, semi-detached houses and terrace houses, according to C.W.A. Sennett, the managing director of Sennett Realty. “When the plots of land were earmarked, prospective buyers could either buy the land itself and build their own house, according to their own specifications, or have a house built for them by the Sennett Realty Co,” he said.[^12] Sennett himself was closely associated with land development in Singapore, having been the former Commissioner for Lands and then Chairman of the Singapore Housing Committee
 
 Sennett told the Sunday Times that the company would “endeavour to bring down the price of private houses to meet the pocket of the middle-class man”. “The financial arrangements for people buying housing on the hire-purchase system would have to be worked out with the building society, but the usual terms for borrowing $10,000 was to pay it back at the rate of $85 a month over 15 years,” he said. All the houses in the estate would be equipped with modern sanitation, water, electricity and gas. The initial proposal for the estate also included a clinic, market, cinema and kindergarten.[^13]
+
+![](/images/Vol%2018%20Issue%202/A%20History%20of%20Sennett%20Estate/A%20History%20of%20Sennett%20Estate%20-%20Image%205.png)
+<div style="background-color: white;">An advertisement listing Sennett Estate’s proposed amenities such as shops, a market, a school, a cinema and even medical and dental clinics. Image reproduced from the Straits Times, 7 October 1951, 15. (From NewspaperSG).
+</div>
 
 Around the same time, it was announced that Alkaff Lake Gardens would be “filled up with earth and the hillocks levelled to be converted into children’s playgrounds and open spaces”.[^14] Although the park was deemed “a ghost of its pre-war self” by the Straits Times at this point, its closure was still met with howls of protest from the public, who lamented the dearth of open spaces in Singapore.
 
