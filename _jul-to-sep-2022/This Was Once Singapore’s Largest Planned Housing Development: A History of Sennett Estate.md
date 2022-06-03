@@ -7,7 +7,7 @@ description: ""
 #### Sennett Estate is a unique milestone in the history of housing development in Singapore and its quiet streets have had its fair share of excitement over the years. By **Winnie Tan**
 
 ![](/images/Vol%2018%20Issue%202/A%20History%20of%20Sennett%20Estate/A%20History%20of%20Sennett%20Estate%20-%20Image%201.png)
-<div style="background-color: white;">Semi-detached houses along Pheng Geck Avenue and Wan Tho Avenue, 2022. Photo by and courtesy of Winnie Tan.
+<div style="background-color: white;">Semi-detached houses along Pheng Geck Avenue and Wan Tho Avenue, 2022. <i>Photo by and courtesy of Winnie Tan.</i>
 </div>
 
 At first glance, there is little to suggest that Sennett Estate, a housing development in Potong Pasir just off MacPherson Road, is particularly noteworthy. It looks like any typical suburb, with its quiet streets lined with houses that were originally built in the 1950s. However, this unassuming estate represents an interesting milestone in the history of home development in Singapore.
@@ -21,13 +21,13 @@ Before Sennett Estate came into being, the area was principally known for the Al
 “Eighteen years ago, the idea of converting the site into a park occurred to me,” he said in a 1948 newspaper interview. “A building contractor suggested that we should decorate the site with Japanese tea-houses, side-walks lined with granite chips, Japanese arches and bridges,” he said. Alkaff then hired a Japanese landscape expert to develop what has been described as Singapore’s very first Japanese-style garden across 10 acres (40.5 sq m) of land, which opened to the public in 1929.[^3]
 
 ![](/images/Vol%2018%20Issue%202/A%20History%20of%20Sennett%20Estate/A%20History%20of%20Sennett%20Estate%20-%20Image%202.png)
-<div style="background-color: white;">Alkaff Lake Gardens had a man-made lake, bridges, tea houses and pavilions, 1935. John Lim Collection, courtesy of National Archives of Singapore.
+<div style="background-color: white;">Alkaff Lake Gardens had a man-made lake, bridges, tea houses and pavilions, 1935. <i>John Lim Collection, courtesy of National Archives of Singapore.</i>
 </div>
 
 Alkaff Lake Gardens quickly became a popular evening and weekend resort for families, couples and office workers.[^4] Featuring artificial hills and a man-made lake, visitors could go boating on the lake, fishing and picnic under shady trees.[^5] The idyllic spot also offered tea houses that could be rented, interspersed among quaint Japanese bridges and manicured shrubbery.
 
 ![](/images/Vol%2018%20Issue%202/A%20History%20of%20Sennett%20Estate/A%20History%20of%20Sennett%20Estate%20-%20Image%203.png)
-<div style="background-color: white;">Boating at Alkaff Lake Gardens, 1950s. Singapore Federation of Chinese Clan Associations Collection, courtesy of National Archives of Singapore.
+<div style="background-color: white;">Boating at Alkaff Lake Gardens, 1950s. <i>Singapore Federation of Chinese Clan Associations Collection, courtesy of National Archives of Singapore.</i>
 </div>
 
 In 1935, Chinese merchant Tan Aik Kee of Nanyang Amusement Co. took over the management of the park and introduced Chinese elements. Chinese-style boathouses reminiscent of dwellings along the Pearl River in Guangzhou were constructed along with Chinese pavilions as well as the introduction of Chinese white and pink lotus flowers.[^6] A cinema and a cabaret were even in the works. However, the park fell into disuse by the late 1930s.
@@ -67,7 +67,7 @@ Meanwhile, representatives from the Sennett housing estate and the Public Works 
 After much debate, a compromise was reached. The roads within the estate were named after flora and fauna, such as Butterfly Avenue, Cedar Avenue and Lichi Avenue, as well as after the businessmen involved in the project. These include Pheng Geck Avenue, after City Councillor Yap Pheng Geck; Kwong Avenue, after A.C.T. Kwong, director and manager of Sennett Realty; and Wan Tho Avenue, after Loke Wan Tho, film magnate and founder of Cathay Organisation. The first section of the estate was built in 1951, with the remaining three phases completed over the following years.[^21]
 
 ![](/images/Vol%2018%20Issue%202/A%20History%20of%20Sennett%20Estate/A%20History%20of%20Sennett%20Estate%20-%20Image%209.png)
-<div style="background-color: white;">Kwong Avenue is named after A.C.T. Kwong, director and manager of Sennett Realty, while Puay Hee Avenue is named after Tan Puay Hee, a board member of Sennett Realty and Malayan Realty. Photo by and courtesy of Winnie Tan. 
+<div style="background-color: white;">Kwong Avenue is named after A.C.T. Kwong, director and manager of Sennett Realty, while Puay Hee Avenue is named after Tan Puay Hee, a board member of Sennett Realty and Malayan Realty. <i>Photo by and courtesy of Winnie Tan. </i>
 </div>
 
 #### **The Early Days**
@@ -103,7 +103,7 @@ Kwong Avenue School subsequently merged with Sennett Estate Primary to form Senn
 Apart from schools, Sennett Estate also has several places of worship. Alkaff Upper Serangoon Mosque is located at 66 Pheng Geck Avenue while Calvary Baptist Church is at 48 Wan Tho Avenue. In addition, Sri Siva Durga Temple is located nearby at 8 Potong Pasir Avenue 2.
 
 ![](/images/Vol%2018%20Issue%202/A%20History%20of%20Sennett%20Estate/A%20History%20of%20Sennett%20Estate%20-%20Image%206.png)
-<div style="background-color: white;">There are places of worship in Sennett Estate such as Alkaff Upper Serangoon Mosque on Pheng Geck Avenue (left) and Calvary Baptist Church on Wan Tho Avenue (right). Photos by and courtesy of Winnie Tan.
+<div style="background-color: white;">There are places of worship in Sennett Estate such as Alkaff Upper Serangoon Mosque on Pheng Geck Avenue (left) and Calvary Baptist Church on Wan Tho Avenue (right). <i>Photos by and courtesy of Winnie Tan.</i>
 </div>
 
 Sennett Estate’s most notable neighbour though was Bidadari Cemetery. The cemetery opened in 1908 and served the Christian, Muslim, Hindu and Sinhalese communities until its closure 1972. The proximity to a major cemetery did not seem to have deterred homebuyers. “People were more afraid of bumping into cobras,” Julie said. Since Mount Vernon Camp, which houses the training and residential facilities of the Gurkha Contingent in Singapore, is located near the cemetery, she added that the estate’s residents always felt safe near the burial grounds.[^36]
