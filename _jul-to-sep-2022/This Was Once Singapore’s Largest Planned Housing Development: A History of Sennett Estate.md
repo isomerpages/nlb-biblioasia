@@ -223,17 +223,17 @@ Today, Sennett Estate is dwarfed by tall condominium developments and the highly
 
 [^40]: Mushahid Ali, “Konfrontasi: Why Singapore was in Forefront of Indonesian Attacks,” *RSIS Commentary*, no. 062, 23 March 2015, https://www.rsis.edu.sg/rsis-publication/rsis/co15062-konfrontasi-why-singapore-was-in-forefront-of-indonesian-attacks/.
 
-[^41]: Mohamed Effendy Abdul Hamid and Kartini Saparudin, “[MacDonald House Bomb Explosion](https://eresources.nlb.gov.sg/infopedia/articles/SIP_62_2004-12-17.html),” in Singapore Infopedia. National Library Board Singapore. Article published 7 August 2014.
+[^41]: Mohamed Effendy Abdul Hamid and Kartini Saparudin, “[MacDonald House Bomb Explosion](https://eresources.nlb.gov.sg/infopedia/articles/SIP_62_2004-12-17.html),” in *Singapore Infopedia*. National Library Board Singapore. Article published 7 August 2014.
 
-[^42]: “[Two on Bombing Charge](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19640512-1.2.21),” Straits Times, 12 May 1964, 4. (From NewspaperSG)
+[^42]: “[Two on Bombing Charge](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19640512-1.2.21),” *Straits Times*, 12 May 1964, 4. (From NewspaperSG)
 
 [^43]: Julie Kwong, interview, 25 November 2021.
 
-[^44]: “New Alkaff Lake for Bidadari Estate,” Today, 29 August 2013, https://www.todayonline.com/singapore/new-alkaff-lake-bidadari-estate.
+[^44]: “New Alkaff Lake for Bidadari Estate,” *Today*, 29 August 2013, https://www.todayonline.com/singapore/new-alkaff-lake-bidadari-estate.
 
 [^45]: “Bidadari Park,” Housing & Development Board, last updated 18 November 2021, https://www.hdb.gov.sg/cs/infoweb/about-us/hdbs-refreshed-roadmap-designing-for-life/live-well/bidadari-park.
 
-[^46]: Christopher Tan, “Bidadari to Have Flood Prevention Lake,” Straits Times, 14 March 2020, https://www.straitstimes.com/singapore/environment/bidadari-to-have-flood-prevention-lake.
+[^46]: Christopher Tan, “Bidadari to Have Flood Prevention Lake,” *Straits Times*, 14 March 2020, https://www.straitstimes.com/singapore/environment/bidadari-to-have-flood-prevention-lake.
 
 [^47]: Julie Kwong, interview, 5 May 2022.
 
