@@ -215,7 +215,7 @@ Today, Sennett Estate is dwarfed by tall condominium developments and the highly
 
 [^36]: Alex Chow, “[Bidadari Cemetery](https://eresources.nlb.gov.sg/infopedia/articles/SIP_840_2004-12-20.html),” in *Singapore Infopedia*. National Library Board Singapore. Article published 15 July 2015; Julie Kwong, interview, 25 November 2021.
 
-[^37]: Lim Beng Tee and Jackie Sam, “[Dato Tells How He Was Kidnapped, Held and Freed After 14 Days](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19641130-1.2.97),” Straits Times, 30 November 1964, 13. (From NewspaperSG)
+[^37]: Lim Beng Tee and Jackie Sam, “[Dato Tells How He Was Kidnapped, Held and Freed After 14 Days](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19641130-1.2.97),” *Straits Times*, 30 November 1964, 13. (From NewspaperSG)
 
 [^38]: “[Police Find Kidnap House](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19641208-1.2.7),” Straits Times, 8 December 1964, 1. (From NewspaperSG)
 
