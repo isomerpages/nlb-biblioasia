@@ -112,7 +112,7 @@ Sennett Estate’s most notable neighbour though was Bidadari Cemetery. The ceme
 
 While Sennett Estate and Singapore are relatively crime-free today, this was not the case in the 1960s. Crimes involving firearms were common and kidnapping was a regular occurrence. No place was safe, not even quiet neighbourhoods like Sennett Estate.
 
-In November 1964, rubber magnate Ng Quee Lam was visiting a friend living on Kee Choe Avenue one night when a group of four men pulled him out of his car. “Two of them came for me – one from each side of the car. A third man had already stuck a revolver against my driver’s chest,” Ng told the Straits Times. As this happened in the early evening, Ng had hoped that there would be people around to come to his rescue, but unfortunately no help came.[^37]
+In November 1964, rubber magnate Ng Quee Lam was visiting a friend living on Kee Choe Avenue one night when a group of four men pulled him out of his car. “Two of them came for me – one from each side of the car. A third man had already stuck a revolver against my driver’s chest,” Ng told the *Straits Times*. As this happened in the early evening, Ng had hoped that there would be people around to come to his rescue, but unfortunately no help came.[^37]
 
 Ng was only freed two weeks later, and the bungalow where he was held captive was on Sommerville Road, off Upper Serangoon Road, just a mere seven minutes’ drive from the estate.[^38] To deter abductions and secret society activities, the Singapore government enacted the Kidnapping Act and revised kidnapping charges in 1961, raising the maximum penalty from 10 years to death or life imprisonment.[^39]
 
