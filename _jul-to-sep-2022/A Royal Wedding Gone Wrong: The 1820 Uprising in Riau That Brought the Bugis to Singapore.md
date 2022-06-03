@@ -165,7 +165,7 @@ Riau – the successor to the Malay ports of old – and the Dutch residents who
 
 [^24]: Hubert Gerard Nahuys van Burgst, [*Brieven Over Bencoolen, Padang, het Rijk van Menangkabau, Rhiouw, Sincapoera, en Poelo-Pinang*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4469817) (Breda: F.B. Hollingérus Pijpers, 1826), 234. (From National Library, Singapore, call no. RRARE 915.9804 NAH-[JSB]; accession no. B29268406D)
 
-[^25]: Nahuys van Burgst, *Brieven Over Bencoolen*, 233.
+[^25]: Nahuys van Burgst, [*Brieven Over Bencoolen*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4469817), 233.
 
 [^26]: Van der Kemp, “De Commissiën van den Schout-Bij-Nacht,” 49, 58–59; A.R Falck, [*Ambts-Brieven van A.R. Falck, 1802–1842*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202718299) ('s Gravenhage: Van Stockum, 1878), 133. (From National Library, Singapore, call no. RRARE 909.81 FAL; accession no. B29032462F)
 
