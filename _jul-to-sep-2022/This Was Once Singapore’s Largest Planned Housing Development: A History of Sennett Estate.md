@@ -6,9 +6,6 @@ description: ""
 ---
 #### Sennett Estate is a unique milestone in the history of housing development in Singapore and its quiet streets have had its fair share of excitement over the years. By **Winnie Tan**
 
-<div style="background-color: white;">Daguerre Studio on Middle Road is partially obscured by a truck. The photo was taken by visiting American photojournalist Harrison Forman in around 1941, before the onset of World War II in Singapore. <i>From the American Geographical Society Library, University of Wisconsin-Milwaukee Libraries.</i>
-</div>
-
 At first glance, there is little to suggest that Sennett Estate, a housing development in Potong Pasir just off MacPherson Road, is particularly noteworthy. It looks like any typical suburb, with its quiet streets lined with houses that were originally built in the 1950s. However, this unassuming estate represents an interesting milestone in the history of home development in Singapore.
 
 Developed in response to the post-war housing crunch, Sennett Estate was once dubbed the biggest planned housing estate in Singapore.[^1] And within the 170 acres that make up this quiet estate are stories that link the place to Singapore’s larger history: to a time when wealthy Arab families owned large tracts of land and also to a period in crime-infested Singapore when kidnapping was a common occurrence. It is even, somewhat improbably, tied to the Konfrontasi.
