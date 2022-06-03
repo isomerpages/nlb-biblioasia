@@ -138,7 +138,7 @@ Today, Sennett Estate is dwarfed by tall condominium developments and the highly
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol%2018%20Issue%202/Authors/ZhuangWubin.png" style="width: 100px; height: 100px;"/>
+<img src="/images/Vol%2018%20Issue%202/Authors/Winnie%20Tan.png" style="width: 100px; height: 100px;"/>
 	<b>Winnie Tan</b> is an Associate Librarian with the National Library, Singapore. She is part of the Arts and General Reference team and works on content development, collection management, and research and reference services.</div>
 
 #### **NOTES**
