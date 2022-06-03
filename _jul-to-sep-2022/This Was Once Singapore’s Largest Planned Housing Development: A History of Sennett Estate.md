@@ -217,7 +217,7 @@ Today, Sennett Estate is dwarfed by tall condominium developments and the highly
 
 [^37]: Lim Beng Tee and Jackie Sam, “[Dato Tells How He Was Kidnapped, Held and Freed After 14 Days](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19641130-1.2.97),” *Straits Times*, 30 November 1964, 13. (From NewspaperSG)
 
-[^38]: “[Police Find Kidnap House](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19641208-1.2.7),” Straits Times, 8 December 1964, 1. (From NewspaperSG)
+[^38]: “[Police Find Kidnap House](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19641208-1.2.7),” *Straits Times*, 8 December 1964, 1. (From NewspaperSG)
 
 [^39]: Maria Almenoar, “Sheng Siong Kidnapping: Singapore Was a Hotbed of Abductions in the 1950s and 1960s,” Straits Times, 10 January 2014, https://www.straitstimes.com/singapore/sheng-siong-kidnapping-singapore-was-a-hotbed-of-abductions-in-the-1950s-and-1960s.
 
