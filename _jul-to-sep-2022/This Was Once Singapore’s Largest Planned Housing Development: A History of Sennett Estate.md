@@ -45,7 +45,8 @@ Sennett told the Sunday Times that the company would “endeavour to bring down 
 Around the same time, it was announced that Alkaff Lake Gardens would be “filled up with earth and the hillocks levelled to be converted into children’s playgrounds and open spaces”.[^14] Although the park was deemed “a ghost of its pre-war self” by the Straits Times at this point, its closure was still met with howls of protest from the public, who lamented the dearth of open spaces in Singapore.
 
 ![](/images/Vol%2018%20Issue%202/A%20History%20of%20Sennett%20Estate/A%20History%20of%20Sennett%20Estate%20-%20Image%202.png)
-
+<div style="background-color: white;">Alkaff Lake Gardens had a man-made lake, bridges, tea houses and pavilions, 1935. John Lim Collection, courtesy of National Archives of Singapore.
+</div>
 
 In July 1950, a Straits Times reader wrote to the paper to express his “indignant distress and alarm” at the impending fate of Alkaff Gardens. “If this is thought a noble service to the community, towards relieving the present housing shortage, then the impression is certainly highly mistaken.”[^15] Another reader wrote to the Straits Budget, asking rhetorically: “Is Singapore so well stocked with public parks and open spaces that we can afford to see this God-given man-made beauty spot of our city obliterated?”[^16] The Singapore Progressive Party issued a statement saying that Alkaff Gardens should be “preserved as a public park” and called upon the “‘relevant public authority’ to take necessary steps for this purpose”.[^17]
 
@@ -56,6 +57,10 @@ Within a month of the estate’s debut announcement in August 1950, more than 1,
 Meanwhile, representatives from the Sennett housing estate and the Public Works Committee discussed potential names for the estate’s 24 roads. The names of the directors of Sennett Realty were initially suggested for the roads to honour the businessmen’s “courage and enterprise” in this first-of-its-kind development. However, the committee rejected these names, on the grounds that these private roads would eventually be taken over and maintained as public roads by the Municipality so the names should be approved by the municipal commissioners.[^20]
 
 After much debate, a compromise was reached. The roads within the estate were named after flora and fauna, such as Butterfly Avenue, Cedar Avenue and Lichi Avenue, as well as after the businessmen involved in the project. These include Pheng Geck Avenue, after City Councillor Yap Pheng Geck; Kwong Avenue, after A.C.T. Kwong, director and manager of Sennett Realty; and Wan Tho Avenue, after Loke Wan Tho, film magnate and founder of Cathay Organisation. The first section of the estate was built in 1951, with the remaining three phases completed over the following years.[^21]
+
+![](/images/Vol%2018%20Issue%202/A%20History%20of%20Sennett%20Estate/A%20History%20of%20Sennett%20Estate%20-%20Image%203.png)
+<div style="background-color: white;">Boating at Alkaff Lake Gardens, 1950s. Singapore Federation of Chinese Clan Associations Collection, courtesy of National Archives of Singapore.
+</div>
 
 #### **The Early Days**
 
