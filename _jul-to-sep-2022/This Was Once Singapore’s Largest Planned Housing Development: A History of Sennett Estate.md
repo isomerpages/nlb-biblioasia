@@ -22,6 +22,10 @@ Before Sennett Estate came into being, the area was principally known for the Al
 
 Alkaff Lake Gardens quickly became a popular evening and weekend resort for families, couples and office workers.[^4] Featuring artificial hills and a man-made lake, visitors could go boating on the lake, fishing and picnic under shady trees.[^5] The idyllic spot also offered tea houses that could be rented, interspersed among quaint Japanese bridges and manicured shrubbery.
 
+![](/images/Vol%2018%20Issue%202/A%20History%20of%20Sennett%20Estate/A%20History%20of%20Sennett%20Estate%20-%20Image%202.png)
+<div style="background-color: white;">Alkaff Lake Gardens had a man-made lake, bridges, tea houses and pavilions, 1935. John Lim Collection, courtesy of National Archives of Singapore.
+</div>
+
 In 1935, Chinese merchant Tan Aik Kee of Nanyang Amusement Co. took over the management of the park and introduced Chinese elements. Chinese-style boathouses reminiscent of dwellings along the Pearl River in Guangzhou were constructed along with Chinese pavilions as well as the introduction of Chinese white and pink lotus flowers.[^6] A cinema and a cabaret were even in the works. However, the park fell into disuse by the late 1930s.
 
 #### **The War**
@@ -47,10 +51,6 @@ The estate would comprise shophouses, bungalows, semi-detached houses and terrac
 Sennett told the Sunday Times that the company would “endeavour to bring down the price of private houses to meet the pocket of the middle-class man”. “The financial arrangements for people buying housing on the hire-purchase system would have to be worked out with the building society, but the usual terms for borrowing $10,000 was to pay it back at the rate of $85 a month over 15 years,” he said. All the houses in the estate would be equipped with modern sanitation, water, electricity and gas. The initial proposal for the estate also included a clinic, market, cinema and kindergarten.[^13]
 
 Around the same time, it was announced that Alkaff Lake Gardens would be “filled up with earth and the hillocks levelled to be converted into children’s playgrounds and open spaces”.[^14] Although the park was deemed “a ghost of its pre-war self” by the Straits Times at this point, its closure was still met with howls of protest from the public, who lamented the dearth of open spaces in Singapore.
-
-![](/images/Vol%2018%20Issue%202/A%20History%20of%20Sennett%20Estate/A%20History%20of%20Sennett%20Estate%20-%20Image%202.png)
-<div style="background-color: white;">Alkaff Lake Gardens had a man-made lake, bridges, tea houses and pavilions, 1935. John Lim Collection, courtesy of National Archives of Singapore.
-</div>
 
 In July 1950, a Straits Times reader wrote to the paper to express his “indignant distress and alarm” at the impending fate of Alkaff Gardens. “If this is thought a noble service to the community, towards relieving the present housing shortage, then the impression is certainly highly mistaken.”[^15] Another reader wrote to the Straits Budget, asking rhetorically: “Is Singapore so well stocked with public parks and open spaces that we can afford to see this God-given man-made beauty spot of our city obliterated?”[^16] The Singapore Progressive Party issued a statement saying that Alkaff Gardens should be “preserved as a public park” and called upon the “‘relevant public authority’ to take necessary steps for this purpose”.[^17]
 
