@@ -51,7 +51,7 @@ The estate would comprise shophouses, bungalows, semi-detached houses and terrac
 Sennett told the Sunday Times that the company would “endeavour to bring down the price of private houses to meet the pocket of the middle-class man”. “The financial arrangements for people buying housing on the hire-purchase system would have to be worked out with the building society, but the usual terms for borrowing $10,000 was to pay it back at the rate of $85 a month over 15 years,” he said. All the houses in the estate would be equipped with modern sanitation, water, electricity and gas. The initial proposal for the estate also included a clinic, market, cinema and kindergarten.[^13]
 
 ![](/images/Vol%2018%20Issue%202/A%20History%20of%20Sennett%20Estate/A%20History%20of%20Sennett%20Estate%20-%20Image%205.png)
-<div style="background-color: white;">An advertisement listing Sennett Estate’s proposed amenities such as shops, a market, a school, a cinema and even medical and dental clinics. Image reproduced from the Straits Times, 7 October 1951, 15. (From NewspaperSG).
+<div style="background-color: white;">An advertisement listing Sennett Estate’s proposed amenities such as shops, a market, a school, a cinema and even medical and dental clinics. <i>Image reproduced from the Straits Times, 7 October 1951, 15. (From NewspaperSG).</i>
 </div>
 
 Around the same time, it was announced that Alkaff Lake Gardens would be “filled up with earth and the hillocks levelled to be converted into children’s playgrounds and open spaces”.[^14] Although the park was deemed “a ghost of its pre-war self” by the Straits Times at this point, its closure was still met with howls of protest from the public, who lamented the dearth of open spaces in Singapore.
