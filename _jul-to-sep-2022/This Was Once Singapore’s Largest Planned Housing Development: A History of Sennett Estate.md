@@ -32,6 +32,10 @@ The park continued to be off limits during the Japanese Occupation. An armed gua
 
 At the end of the tumultuous decade, Alkaff Lake Gardens and the adjacent plots of land were purchased by Sennett Realty in July 1950 with plans to develop a new housing estate there.[^9] It was the end of an era and the beginning of a new one.
 
+![](/images/Vol%2018%20Issue%202/A%20History%20of%20Sennett%20Estate/A%20History%20of%20Sennett%20Estate%20-%20Image%205.png)
+<div style="background-color: white;">An advertisement listing Sennett Estate’s proposed amenities such as shops, a market, a school, a cinema and even medical and dental clinics. Image reproduced from the Straits Times, 7 October 1951, 15. (From NewspaperSG).
+</div>
+
 #### **Planning the Biggest Housing Estate**
 
 After the war, Singapore’s population increased exponentially, causing a severe housing shortage. In 1947, a study by the Singapore Housing Committee revealed that the colony’s population had increased from 560,000 in 1931 to 941,000 that year, with most families crammed into one room or even just a cubicle. The committee found that barely one-third of the urban population was housed satisfactorily.[^10]
