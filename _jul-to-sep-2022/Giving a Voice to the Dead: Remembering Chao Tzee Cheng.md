@@ -167,7 +167,7 @@ In his eulogy, Chao’s nephew Dr Wong Chiang Yin, who was also the Honorary Sec
 
 [^34]: “[Forensic Science Gears Up for Future](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900121-1.2.25.9),” *Straits Times*, 21 January 1990, 20; “[Inside the World-class Forensic Institute](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19950824-1.2.67.2.1),” *Straits Times*, 24 August 1995, 2. (From NewspaperSG)
 
-[^35]: Pauline Leong, “[Mister Autopsy Lives on in ‘Chaozy Bears’](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20000410-1.2.54.8),” Straits Times, 10 April 2000, 48. (From NewspaperSG)
+[^35]: Pauline Leong, “[Mister Autopsy Lives on in ‘Chaozy Bears’](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20000410-1.2.54.8),” *Straits Times*, 10 April 2000, 48. (From NewspaperSG)
 
 [^36]: Karen Wong, “[Top Forensic Pathologist Chao Dies in New York](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20000223-1.2.6.4),” *Straits Times*, 23 February 2000, 3; Ponnampalam, “[Joker, Eater, Singer…](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper20000223-1.2.14.1)”
 
