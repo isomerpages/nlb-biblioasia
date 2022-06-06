@@ -119,7 +119,7 @@ Riau – the successor to the Malay ports of old – and the Dutch residents who
 
 [^1]: Elisa Netscher, *De Nederlanders in Djohor en Siak, 1602 tot 1865* (Batavia: Bruining and Wijt, 1870), 257.
 
-[^2]: Arnold Willem Pieter Verkerk Pistorius, *Een Bezoek aan Singapore en Djohor: Eene Voordracht* (s’-Gravenhage: Martinus Nijhoff, 1875), 9. (Not available in NLB’s holdings); C.M. Turnbull, [*A History of Modern Singapore, 1819–2005*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13206047) (Singapore: NUS Press, 2009), 28–29. (From National Library, Singapore, call no. RSING 959.57 TUR-[HIS])
+[^2]: Arnold Willem Pieter Verkerk Pistorius, *Een Bezoek aan Singapore en Djohor: Eene Voordracht* (s’-Gravenhage: Martinus Nijhoff, 1875), 9; C.M. Turnbull, [*A History of Modern Singapore, 1819–2005*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13206047) (Singapore: NUS Press, 2009), 28–29. (From National Library, Singapore, call no. RSING 959.57 TUR-[HIS])
 
 [^3]: Netscher, *De Nederlanders in Djohor en Siak*, 258.
 
