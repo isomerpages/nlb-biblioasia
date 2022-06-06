@@ -131,7 +131,7 @@ Riau – the successor to the Malay ports of old – and the Dutch residents who
 
 [^7]: Raja Ali Haji ibn Ahmad, [*Precious Gift*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4128748), 229–30.
 
-[^8]: P.H. Van der Kemp, “De Commissiën van den Schout-Bij-Nacht C.J. Wolterbeek Naar Malakka En Riouw in Juli-December 1818 En Februari-April 1820” *Bijdragen tot de Taal-, Land- en Volkenkunde van Nederlandsch-Indië* 51, no. 1 (1900): 49–50. (From JSTOR via NLB’s eResources website)
+[^8]: P.H. Van der Kemp, “De Commissiën van den Schout-Bij-Nacht C.J. Wolterbeek Naar Malakka En Riouw in Juli-December 1818 En Februari-April 1820” *Bijdragen tot de Taal-, Land- en Volkenkunde van Nederlandsch-Indië* 51, no. 1 (1900): 49–50. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website)
 
 [^9]: Willem Adriaan van Rees, [*Toontje Poland: Voorafgegaan door Eenige Indische Typen*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202718305), vol. 1. (Arnhem: D.A. Thieme, 1867), 242. (From National Library, Singapore, call no. RRARE 959.8 REE-JSB], accession no. B29032467K)
 
