@@ -120,7 +120,7 @@ The 1960s was also the period of the Confrontation or Konfrontasi. Indonesia’s
 
 However, prior to the MacDonald House attack, 29 bombs had already been indiscriminately set off throughout the island. On 9 December 1963, one of those bombs was planted under a car in the back lane of Jalan Wangi in Sennett Estate. The blast killed two Indian shopkeepers operating a five-footway cigarette and sundries stall.[^42]
 
-![](/images/Vol%2018%20Issue%202/A%20History%20of%20Sennett%20Estate/A%20History%20of%20Sennett%20Estate%20-%20Image%204.png)
+![](/images/Vol%2018%20Issue%202/A%20History%20of%20Sennett%20Estate/A%20History%20of%20Sennett%20Estate%20-%20Image%2010.png)
 <div style="background-color: white;">The car in Sennett Estate was rendered a twisted heap of metal after the bomb planted beneath it exploded on 9 December 1963. <i>Source: The Straits Times © SPH Media Limited. Reprinted with permission.</i>
 </div>
 
