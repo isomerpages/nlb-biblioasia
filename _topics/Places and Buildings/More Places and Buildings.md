@@ -4,6 +4,16 @@ permalink: /topics/Places-and-Buildings/more
 description: ""
 third_nav_title: Places and Buildings
 ---
+#### <a href="/vol-18/issue-1/apr-to-jun-2022/history-padang" style="text-decoration: none; font-weight: bold;">A History of The Padang</a> 
+Kevin Tan looks at what makes the 4.3-hectare patch of green in front of the former City Hall building so special.
+<img src="/images/Vol%2018%20Issue%201/The%20Padang/padang12.png">
+<hr>
+
+#### <a href="/vol-18/issue-1/apr-to-jun-2022/history-kandang-kerbau-hospital" style="text-decoration: none; font-weight: bold;">Labouring to Deliver: A History of Kandang Kerbau Hospital</a> 
+The old Kandang Kerbau Hospital was once known as the busiest maternity hospital in the world. Joanna Tan delivers the story behind a hallowed Singapore institution.
+<img src="/images/Vol%2018%20Issue%201/KKH%20Hospital/19980001245%20IMG0083.png">
+<hr>
+
 #### <a href="/vol-12/issue-3/oct-dec-2016/the-padang" style="text-decoration: none; font-weight: bold;">The Padang: Centrepiece of Colonial Design</a> 
 <p>This expanse of green fringed by grand colonial edifices in the city centre is a statement of British might, as Lai Chee Kien tells us.</p> 
 <img src="/images/Vol-12-issue-3/the-padang/03-The-Padang.jpg">
