@@ -4,6 +4,12 @@ permalink: /topics/Places-and-Buildings/more
 description: ""
 third_nav_title: Places and Buildings
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/kranji-war-cemetery">They Died for All Free Men: Stories from Kranji War Cemetery</a>
+Remembering those who died while fighting the Japanese during World War II. 
+
+<img src="/images/Vol%2018%20Issue%202/Kranji%20War%20Memorial/Rows%20of%20headstones.png">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/singapore-changing-wet-markets">No Longer “Dirty, Unhygienic, Crowded and Messy”: The Story of Singapore’s Changing Wet Markets</a>
 Wet markets have existed in Singapore since 1825. Zoe Yeo looks at how these markets have changed over time.
 
