@@ -4,6 +4,12 @@ permalink: /topics/Places-and-Buildings/more
 description: ""
 third_nav_title: Places and Buildings
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/singapore-changing-wet-markets">No Longer “Dirty, Unhygienic, Crowded and Messy”: The Story of Singapore’s Changing Wet Markets</a>
+Wet markets have existed in Singapore since 1825. Zoe Yeo looks at how these markets have changed over time.
+
+<img src="/images/Vol%2018%20Issue%201/Wet%20Market/Live%20Poultry.png">
+<hr>
+
 #### <a href="/vol-18/issue-1/apr-to-jun-2022/history-padang" style="text-decoration: none; font-weight: bold;">A History of The Padang</a> 
 Kevin Tan looks at what makes the 4.3-hectare patch of green in front of the former City Hall building so special.
 <img src="/images/Vol%2018%20Issue%201/The%20Padang/padang12.png">
