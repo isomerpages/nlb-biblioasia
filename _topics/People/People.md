@@ -26,7 +26,7 @@ Indian convicts contributed much to the early infrastructural development of Sin
 
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-1/apr-jun-2021/ishak-ahmad"> Ishak Ahmad and the Story of Malayan Waters </a>
-<p>As a senior officer in the Fisheries Department, Ishak Ahmad was instrumental in spurring the growth of the Malayan fishing industry. Anthony Medrano sheds light on his contributions.</p> 
+As a senior officer in the Fisheries Department, Ishak Ahmad was instrumental in spurring the growth of the Malayan fishing industry. Anthony Medrano sheds light on his contributions. 
 <hr> 
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/raffles"> Stamford Raffles and the Two French Naturalists</a>
