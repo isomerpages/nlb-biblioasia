@@ -3,12 +3,6 @@ title: Culture
 permalink: /topics/culture
 description: ""
 ---
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/rubber-latex-paper">Printed on Rubber Latex Paper</a>
-An innovation patented in 1920 produced paper that was more durable, had greater tensile strength and was resistant to folding, as Alex Teoh tells us.
-
-<img src="/images/Vol%2018%20Issue%201/Rubber%20Latex%20Paper/covers_editted.png">
-<hr>
-
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-4/jan-mar-2017/beneath-glitz-glamour">Beneath the Glitz and Glamour: The Untold Story of the “Lancing” Girls</a>
 <p>These cabaret girls were better known for their risqué stage shows, but some also donated generously to charity. Adeline Foo uncovers these women with hearts of gold.</p> 
 <div style="background-image:url('https://biblioasia.nlb.gov.sg/images/Vol-12-issue-4/glitz-and-glamour/2-beneath_glitz_glamour.png'); width:100%; height:450px; background-position:top;">&nbsp;</div>
