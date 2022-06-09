@@ -114,4 +114,13 @@ sections:
       url: /vol-18/issue-1/apr-to-jun-2022/singapore-orchid-diplomacy
       image: /images/Vol 18 Issue 1/Highlight2.png
       alt: Orchid Diplomacy
+  - infopic:
+      title: They Died for All Free Men
+      subtitle: war
+      description: The Kranji War Cemetery and Singapore Memorial are a solemn tribute
+        to those who died defending Singapore. 
+      button: Kranji War Cemetery
+      url: /vol-18/issue-2/jul-sep-2022/kranji-war-cemetery
+      image: /images/Vol 18 Issue 2/Kranji War Memorial/Rows of headstones.png
+      alt: Image alt text
 ---
