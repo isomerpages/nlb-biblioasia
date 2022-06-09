@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Vol 18 Issue 1/Orang Seletar/orang seletar hero.jpg
+      background: /images/Vol 18 Issue 1/Orang Seletar/orang seletar hero (1).jpg
       button: "The Orang Seletar: Rowing Across Changing Tides"
       url: /vol-18/issue-1/apr-to-jun-2022/orang-seletar-changing-tides
   - infopic:
@@ -20,6 +20,26 @@ sections:
       button: Kranji War Cemetery
       url: /vol-18/issue-2/jul-sep-2022/kranji-war-cemetery
       image: /images/Vol 18 Issue 2/Kranji War Memorial/Rows of headstones.png
+      alt: Image alt text
+  - infopic:
+      title: Japanese and Chinese Photo Studios in Prewar Singapore
+      subtitle: Photography
+      description: Chinese and Japanese studios had to negotiate the politics of race,
+        class and clan in the early 20th century.
+      button: Negotiating Boundaries
+      url: /vol-18/issue-2/jul-sep-2022/japanese-chinese-photo-studios
+      image: /images/Vol 18 Issue 2/Chinese Japanese Photo
+        Studios/agsphoto_17551_full.png
+      alt: " "
+  - infopic:
+      title: "Giving a Voice to the Dead: Remembering Chao Tzee Cheng"
+      subtitle: people
+      description: "As a forensic pathologist, Chao Tzee Cheng helped bring murderers
+        to justice. "
+      button: the Forensic Trail Blazer
+      url: /vol-18/issue-2/jul-sep-2022/chao-tzee-cheng-forensic-pathologist
+      image: /images/Vol 18 Issue 2/Giving A Voice To The Dead/Giving A Voice To The
+        Dead - Image 4.png
       alt: Image alt text
   - infopic:
       title: Hearts and Minds
@@ -123,4 +143,13 @@ sections:
       url: /vol-18/issue-1/apr-to-jun-2022/singapore-orchid-diplomacy
       image: /images/Vol 18 Issue 1/Highlight2.png
       alt: Orchid Diplomacy
+  - infopic:
+      title: A Royal Wedding Gone Wrong
+      subtitle: war
+      description: "Celebrations during a royal wedding in Tanjung Pinang in 1819 led
+        to a terrible misunderstanding that would change the course of history
+        in Riau and Singapore. "
+      button: The 1820 Uprising in Riau
+      url: /vol-18/issue-2/jul-sep-2022/wedding-bugis-uprising-singapore-riau
+      alt: Image alt text
 ---
