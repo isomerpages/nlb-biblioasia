@@ -32,6 +32,27 @@ sections:
         Studios/agsphoto_17551_full.png
       alt: " "
   - infopic:
+      title: A Royal Wedding Gone Wrong
+      subtitle: war
+      description: "Celebrations during a royal wedding in Tanjung Pinang in 1819 led
+        to a terrible misunderstanding that would change the course of history
+        in Riau and Singapore. "
+      button: The 1820 Uprising in Riau
+      url: /vol-18/issue-2/jul-sep-2022/wedding-bugis-uprising-singapore-riau
+      alt: Image alt text
+      image: /images/Vol 18 Issue 2/A Royal Wedding Gone Wrong/A Royal Wedding Gone
+        Wrong - Image 9.png
+  - infopic:
+      title: A History of Sennett Estate
+      subtitle: Places
+      description: It was once Singapore’s largest planned housing development and saw
+        action during Konfrontasi in the 1960s period.
+      button: Sennett Estate
+      url: /vol-18/issue-2/jul-sep-2022/history-sennett-estate
+      image: /images/Vol 18 Issue 2/A History of Sennett Estate/A History of Sennett
+        Estate - Image 2.png
+      alt: Image alt text
+  - infopic:
       title: "Giving a Voice to the Dead: Remembering Chao Tzee Cheng"
       subtitle: people
       description: "As a forensic pathologist, Chao Tzee Cheng helped bring murderers
@@ -143,13 +164,4 @@ sections:
       url: /vol-18/issue-1/apr-to-jun-2022/singapore-orchid-diplomacy
       image: /images/Vol 18 Issue 1/Highlight2.png
       alt: Orchid Diplomacy
-  - infopic:
-      title: A Royal Wedding Gone Wrong
-      subtitle: war
-      description: "Celebrations during a royal wedding in Tanjung Pinang in 1819 led
-        to a terrible misunderstanding that would change the course of history
-        in Riau and Singapore. "
-      button: The 1820 Uprising in Riau
-      url: /vol-18/issue-2/jul-sep-2022/wedding-bugis-uprising-singapore-riau
-      alt: Image alt text
 ---
