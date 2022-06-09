@@ -40,16 +40,24 @@ description: ""
 </div>
 	
 ![](/images/Vol%2018%20Issue%202/从国家图书馆文献窥看日本占领时期的新加坡华社/从国家图书馆文献窥看日本占领时期的新加坡华社%20-%20Image%204.png)
-<div style="background-color: white;"><b>新加坡晋江会馆珍藏:会馆资料文件</b>
+<div style="background-color: white;"><div style="background-color: white;"> <b>新加坡晋江会馆珍藏:会馆资料文件</b>
 	<br>
 	<b>(Chin Kang Huay Kuan Collection: Ephemera of Chin Kang Huay Kuan)</b>
 	<br><br>
 	<b>索书号: Lee Kong Chian Reference Library level 11, RCLOS 369.25957 CHI</b>
-</div>
-	
-这份资料文件中包含了这张户口调查票。日本军政府派发给良好家庭的“安居证”，后来由户口调查票所取代。人民之后可根据调查票上所记录的家庭成员人数获得相关的粮食配给卡。[^4]
-  
-新加坡晋江会馆珍藏，新加坡国家图书馆。
+	<br><br>
+	这份资料文件中包含了这张户口调查票。日本军政府派发给良好家庭的“安居证”，后来由户口调查票所取代。人民之后可根据调查票上所记录的家庭成员人数获得相关的粮食配给卡。[^4]
+	<br><br>
+	新加坡晋江会馆珍藏，新加坡国家图书馆。
+	</div>
+
+![](/images/Vol%2018%20Issue%202/从国家图书馆文献窥看日本占领时期的新加坡华社/从国家图书馆文献窥看日本占领时期的新加坡华社%20-%20Image%203.png)<div style="background-color: white;"><div style="background-color: white;"> <b>新加坡福建会馆珍藏: 天福宫二战期间产业登记, 1942–1948</b>
+	<br><br>
+	<b>索书号: Lee Kong Chian Reference Library level 11, RRARE 369.25957 XJP-\[HHK\]</b>
+	<br><br> 这份1942–48年天福宫屋税和地租登记簿让人们看到当时所使用的货币；1945年8月是个分水岭，之前的日据时期采用日本军政府的“香蕉钱”，日军投降之后则恢复使用英殖民地货币。
+	<br><br>
+	新加坡福建会馆珍藏，新加坡国家图书馆。
+	</div>
 
 在华社团体及各界人士的捐赠文献中，有一部分是日据时期的个人文件和出版物。这些都是在当时日军军政统治下产生的文献，是时代的印证，也是反映日据时期日常生活的档案文件。
 
