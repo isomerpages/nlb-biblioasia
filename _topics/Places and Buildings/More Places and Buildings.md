@@ -18,8 +18,7 @@ Wet markets have existed in Singapore since 1825. Zoe Yeo looks at how these mar
 
 #### <a href="/vol-18/issue-1/apr-to-jun-2022/history-padang" style="text-decoration: none; font-weight: bold;">A History of The Padang</a> 
 Kevin Tan looks at what makes the 4.3-hectare patch of green in front of the former City Hall building so special.
- 
-<hr>
+ <hr>
 
 #### <a href="/vol-18/issue-1/apr-to-jun-2022/history-kandang-kerbau-hospital" style="text-decoration: none; font-weight: bold;">Labouring to Deliver: A History of Kandang Kerbau Hospital</a> 
 The old Kandang Kerbau Hospital was once known as the busiest maternity hospital in the world. Joanna Tan delivers the story behind a hallowed Singapore institution.
@@ -27,7 +26,7 @@ The old Kandang Kerbau Hospital was once known as the busiest maternity hospital
 <hr>
 
 #### <a href="/vol-12/issue-3/oct-dec-2016/the-padang" style="text-decoration: none; font-weight: bold;">The Padang: Centrepiece of Colonial Design</a> 
-<p>This expanse of green fringed by grand colonial edifices in the city centre is a statement of British might, as Lai Chee Kien tells us.</p> 
+This expanse of green fringed by grand colonial edifices in the city centre is a statement of British might, as Lai Chee Kien tells us.
 <img src="/images/Vol-12-issue-3/the-padang/03-The-Padang.jpg">
 <hr>
 
