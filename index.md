@@ -24,8 +24,8 @@ sections:
   - infopic:
       title: Japanese and Chinese Photo Studios in Prewar Singapore
       subtitle: Photography
-      description: Chinese and Japanese studios had to negotiate the politics of race,
-        class and clan in the early 20th century.
+      description: Chinese and Japanese  photography studios had to negotiate the
+        politics of race, class and clan in the early 20th century.
       button: Negotiating Boundaries
       url: /vol-18/issue-2/jul-sep-2022/japanese-chinese-photo-studios
       image: /images/Vol 18 Issue 2/Chinese Japanese Photo
@@ -46,7 +46,7 @@ sections:
       title: A History of Sennett Estate
       subtitle: Places
       description: It was once Singapore’s largest planned housing development and saw
-        action during Konfrontasi in the 1960s period.
+        action during Konfrontasi in the 1960s.
       button: Sennett Estate
       url: /vol-18/issue-2/jul-sep-2022/history-sennett-estate
       image: /images/Vol 18 Issue 2/A History of Sennett Estate/A History of Sennett
