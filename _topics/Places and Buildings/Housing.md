@@ -6,6 +6,7 @@ third_nav_title: Places and Buildings
 ---
 #### <a href="/vol-18/issue-1/apr-to-jun-2022/history-opera-estate" style="text-decoration: none; font-weight: bold;">Living in Harmony: The History of Opera Estate</a> 
 Asrina Tanuri traces the development of Opera Estate from its early beginnings as coconut and rubber plantations to a private residential estate.
+<img src="/images/Vol%2018%20Issue%201/Opera%20Estate/01%20-%20Opera%20Estate%20sign.png">
 <hr>
 
 #### <a href="/vol-12/issue-3/oct-dec-2016/publichouse-pvtlives" style="text-decoration: none; font-weight: bold;"> Public Housing, Private Lives</a> 
