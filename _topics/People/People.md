@@ -4,6 +4,11 @@ permalink: /topics/people
 description: ""
 third_nav_title: People
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/chao-tzee-cheng-forensic-pathologist">Giving a Voice to the Dead: Remembering Chao Tzee Cheng</a>
+As a forensic pathologist, Chao Tzee Cheng helped bring murderers to justice. 
+
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/orang-seletar-changing-tides">The Orang Seletar: Rowing Across Changing Tides</a>
 Singapore was once a home to the seafaring Orang Seletar who now reside in Johor Bahru. Ilya Katrinnada takes them on a tour around Singapore visiting Merlion Park, Sembawang Park and Lower Seletar Reservoir Park.
 
