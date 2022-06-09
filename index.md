@@ -9,9 +9,9 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Vol 18 Issue 1/The Padang/the padang hero.jpg
-      button: A History of The Padang
-      url: /vol-18/issue-1/apr-to-jun-2022/history-padang
+      background: /images/Vol 18 Issue 1/Orang Seletar/orang seletar hero.jpg
+      button: The Orang Seletar
+      url: /vol-18/issue-1/apr-to-jun-2022/orang-seletar-changing-tides
   - infopic:
       title: Hearts and Minds
       subtitle: "video: Stories from BiblioAsia"
