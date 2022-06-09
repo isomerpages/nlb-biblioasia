@@ -4,6 +4,13 @@ permalink: /topics/people
 description: ""
 third_nav_title: People
 ---
+
+
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/cinema-pioneer-tan-cheng-kee">Cinema Pioneer Tan Cheng Kee</a>
+The Alhambra and Marlborough theatres were famous landmarks in pre-war Singapore. Barbara Quek looks at these cinemas, and the man behind the curtain.
+<hr> 
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-4/jan-mar-2021/kunnuck">The Extraordinary Life of Kunnuck Mistree</a>
 <p>Indian convicts contributed much to the early infrastructural development of Singapore but their voices have rarely been heard. Vandana Aggarwal uncovers the story of one convict who made good.</p> 
 
