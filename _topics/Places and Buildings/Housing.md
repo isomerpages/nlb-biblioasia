@@ -4,6 +4,18 @@ permalink: /topics/Places-and-Buildings/housing
 description: ""
 third_nav_title: Places and Buildings
 ---
+
+
+
+#### <a href="/vol-18/issue-1/apr-to-jun-2022/history-kandang-kerbau-hospital" style="text-decoration: none; font-weight: bold;">Labouring to Deliver: A History of Kandang Kerbau Hospital</a> 
+The old Kandang Kerbau Hospital was once known as the busiest maternity hospital in the world. Joanna Tan delivers the story behind a hallowed Singapore institution.
+<img src="/images/Vol%2018%20Issue%201/KKH%20Hospital/19980001245%20IMG0083.png">
+<hr>
+
+#### <a href="/vol-18/issue-1/apr-to-jun-2022/history-opera-estate" style="text-decoration: none; font-weight: bold;">Living in Harmony: The History of Opera Estate</a> 
+Asrina Tanuri traces the development of Opera Estate from its early beginnings as coconut and rubber plantations to a private residential estate.
+<hr>
+
 #### <a href="/vol-12/issue-3/oct-dec-2016/publichouse-pvtlives" style="text-decoration: none; font-weight: bold;"> Public Housing, Private Lives</a> 
 <p>Incredibly, people living in some of the first one-room flats had to share their toilets and kitchens with strangers. Yu-Mei Balasingamchow tells you how far public housing has come since 1960.</p> 
 <img src="/images/Vol-12-issue-3/public-housing-private-lives/02-publichousing-privatelives.jpg">
