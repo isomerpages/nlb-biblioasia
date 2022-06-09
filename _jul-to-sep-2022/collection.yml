@@ -2,6 +2,7 @@ collections:
   jul-to-sep-2022:
     output: true
     order:
+      - Example Title.md
       - "This Was Once Singapore’s Largest Planned Housing Development: A
         History of Sennett Estate.md"
       - "A Royal Wedding Gone Wrong: The 1820 Uprising in Riau That Brought the
