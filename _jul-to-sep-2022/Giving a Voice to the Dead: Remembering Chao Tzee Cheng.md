@@ -5,8 +5,6 @@ description: As a forensic pathologist, Chao Tzee Cheng helped bring murderers t
 image: /images/Vol 18 Issue 2/Giving A Voice To The Dead/Giving A Voice To The
   Dead - Image 4.png
 ---
-
-
 #### As a forensic pathologist, Chao Tzee Cheng helped bring murderers to justice. By **Goh Lee Kim**
 
 ![](/images/Vol%2018%20Issue%202/Giving%20A%20Voice%20To%20The%20Dead/Giving%20A%20Voice%20To%20The%20Dead%20-%20Image%201.png)
@@ -44,6 +42,9 @@ While it appeared to be a classic case of drowning, Chao determined the cause of
 Chao subsequently worked on some challenging cases, such as that of K. Rajendran in 1972. Rajendran had been assaulted and his body laid across railway tracks to make his death look like a suicide or accident.[^8] In 1985, Chao’s testimony also helped convict Michael Tan and his accomplice in the murder of Tan’s landlady and her two children. Tan claimed to have stabbed her by accident, but this account was disproven in court by Chao.[^9] In 1995, he was also involved in the high-profile case of Briton John Martin Scripps, a skilled butcher, who was convicted of murdering and dismembering South African tourist Gerard George Lowe.[^10]
 
 The late criminal lawyer Subhas Anandan recalled that Chao once saved a man from the gallows even though Chao was testifying for the prosecution. “Only once, in all these years, did he ever agree with my arguments, and I got a murder charge reduced,” said the veteran lawyer who had known Chao since 1971. “[E]very time I heard he was going to be called up for my cases, I would go, ‘Alamak! Not this fella again!’”[^11]
+
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #f58257;text-align:center"> Like what you're reading? <a href="https://form.gov.sg/#!/616799db4d9b61001398f79b">Subscribe</a> to BiblioAsia's online newsletter for the latest stories.</div>
+
 
 Anandan was likely referring to the trial of Karnan Arumugam for the death of brothel caretaker Lim Kar Teck in 1992. Arumugam’s murder charge was reduced to wrongful confinement and causing grievous hurt after the judge agreed with Chao that Lim’s suffocation due to gagging was “fortuitous” as gagging was “seldom intentionally homicidal” and not necessarily fatal.[^12]
 
