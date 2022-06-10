@@ -3,8 +3,13 @@ title: Food
 permalink: /topics/food
 description: ""
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/evolution-chinese-food-singapore">We Are What We Eat: The Evolution of Chinese Food in Singapore</a>
+Chinese food in Singapore is a product of the country’s history and geography, reveals Low Sze Wee.
+<img src="/images/Vol%2018%20Issue%201/Chinese%20Food/ytf.png">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-3/oct-dec-2021/theroleofforaging">The Role of Foraging in Malay Cuisine</a>
-<p>Foraging for food in the hills, the forests and the coastline has been carried out by the Malays for centuries, as Khir Johari tells us.</p> 
+Foraging for food in the hills, the forests and the coastline has been carried out by the Malays for centuries, as Khir Johari tells us. 
 <img src="/images/vol-17-issue-3/malay-cuisine/Facing%20Page.jpg">
 <hr>
 

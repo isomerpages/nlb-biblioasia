@@ -4,6 +4,11 @@ permalink: /topics/film-photography
 description: ""
 third_nav_title: Arts
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/japanese-chinese-photo-studios">Negotiating Boundaries: Japanese and Chinese Photo Studios in Prewar Singapore</a>
+Photo studios such Yong Fong, Lee Brothers and Daguerre had to negotiate the politics of race, class and clan. 
+
+<img src="/images/Vol%2018%20Issue%202/Chinese%20Japanese%20Photo%20Studios/agsphoto_17551_full.png"> 
+<hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-1/apr-jun-2015/ga-malay-cinema"> The Golden Age of Malay Cinema: 1947–1972 </a>
 <p> Few people are aware that Singapore was once the hub for Malay filmmaking in Southeast Asia. Nor Afidah Bte Abd Rahman and Michelle Heng recount its fabled history.</p> 

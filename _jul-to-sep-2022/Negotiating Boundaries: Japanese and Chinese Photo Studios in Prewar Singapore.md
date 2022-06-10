@@ -2,12 +2,16 @@
 title: "Negotiating Boundaries: Japanese and Chinese Photo Studios in Prewar
   Singapore"
 permalink: /vol-18/issue-2/jul-sep-2022/japanese-chinese-photo-studios
-description: ""
+description: "Photo studios such Yong Fong, Lee Brothers and Daguerre had to
+  negotiate the politics of race, class and clan. "
+image: /images/Vol 18 Issue 2/Chinese Japanese Photo Studios/agsphoto_17551_full.png
 ---
+
+
 #### Photo studios such Yong Fong, Lee Brothers and Daguerre had to negotiate the politics of race, class and clan. By **Zhuang Wubin**
 
 ![](/images/Vol%2018%20Issue%202/Chinese%20Japanese%20Photo%20Studios/agsphoto_17551_full.png)
-<div style="background-color: white;">Daguerre Studio on Middle Road is partially obscured by a truck. The photo was taken by visiting American photojournalist Harrison Forman in around 1941, before the onset of World War II in Singapore. <i>From the American Geographical Society Library, University of Wisconsin-Milwaukee Libraries..</i>
+<div style="background-color: white;">Daguerre Studio on Middle Road is partially obscured by a truck. The photo was taken by visiting American photojournalist Harrison Forman in around 1941, before the onset of World War II in Singapore. <i>From the American Geographical Society Library, University of Wisconsin-Milwaukee Libraries.</i>
 </div>
 
 In the 19th century, British and European firms such as Sachtler & Co. and G.R. Lambert & Co. dominated the photography business in Singapore and Malaya. But by the onset of the 20th century, Chinese and Japanese practitioners had made their presence felt in the trade.  At the time, there were visible and invisible lines segregating the colonial society according to social class, race, ethnicity and dialect group. These dividing lines, in turn, affected those who worked in the photographic trade or patronised the photo studios, requiring them to negotiate these boundaries according to evolving situations.  
@@ -166,7 +170,7 @@ By the end of 1941, the famous Nakajima & Co. in Singapore was forced to close d
 
 [^12]: For a detailed biography of K.F. Wong, see Zhuang Wubin, “[From the Archives: The Work of Photographer K.F. Wong](https://biblioasia.nlb.gov.sg/vol-15/issue-2/jul-sep-2019/wong-ken-foo),” *BiblioAsia* 15, no. 2 (July–September 2019). 
 
-[^13]: 房汉佳 [Fong Hon Kah] and 林韶华 [Lim Shau Hua], 		世界著名摄影家黄杰夫 [*World Famous Photographer K.F. Wong*] (福州:海潮摄影艺术出版社, 1995), 25. (Not available in NLB’s holdings)
+[^13]: 房汉佳 [Fong Hon Kah] and 林韶华 [Lim Shau Hua], 		世界著名摄影家黄杰夫 [*World Famous Photographer K.F. Wong*] (福州:海潮摄影艺术出版社, 1995), 25.
 
 [^14]: Zhuang, “[From the Archives: The Work of Photographer K.F. Wong](https://biblioasia.nlb.gov.sg/vol-15/issue-2/jul-sep-2019/wong-ken-foo).”
 

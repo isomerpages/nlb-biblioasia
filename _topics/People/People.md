@@ -4,15 +4,29 @@ permalink: /topics/people
 description: ""
 third_nav_title: People
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/chao-tzee-cheng-forensic-pathologist">Giving a Voice to the Dead: Remembering Chao Tzee Cheng</a>
+As a forensic pathologist, Chao Tzee Cheng helped bring murderers to justice. 
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/orang-seletar-changing-tides">The Orang Seletar: Rowing Across Changing Tides</a>
+Singapore was once a home to the seafaring Orang Seletar who now reside in Johor Bahru. Ilya Katrinnada takes them on a tour around Singapore visiting Merlion Park, Sembawang Park and Lower Seletar Reservoir Park.
+
+<img src="/images/Vol%2018%20Issue%201/Orang%20Seletar/orang_seletar_cover.png">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/cinema-pioneer-tan-cheng-kee">Cinema Pioneer Tan Cheng Kee</a>
+The Alhambra and Marlborough theatres were famous landmarks in pre-war Singapore. Barbara Quek looks at these cinemas, and the man behind the curtain.
+<hr> 
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-4/jan-mar-2021/kunnuck">The Extraordinary Life of Kunnuck Mistree</a>
-<p>Indian convicts contributed much to the early infrastructural development of Singapore but their voices have rarely been heard. Vandana Aggarwal uncovers the story of one convict who made good.</p> 
+Indian convicts contributed much to the early infrastructural development of Singapore but their voices have rarely been heard. Vandana Aggarwal uncovers the story of one convict who made good.
 
 <div style="background-image:url('https://biblioasia.nlb.gov.sg/images/Vol-16-issue-4/Kunnuck/TheExtraordinaryLifeOfKunnuck.jpg'); width:100%; height:270px; background-position:center;">&nbsp;</div>
 <hr> 
 
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-1/apr-jun-2021/ishak-ahmad"> Ishak Ahmad and the Story of Malayan Waters </a>
-<p>As a senior officer in the Fisheries Department, Ishak Ahmad was instrumental in spurring the growth of the Malayan fishing industry. Anthony Medrano sheds light on his contributions.</p> 
+As a senior officer in the Fisheries Department, Ishak Ahmad was instrumental in spurring the growth of the Malayan fishing industry. Anthony Medrano sheds light on his contributions. 
 <hr> 
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/raffles"> Stamford Raffles and the Two French Naturalists</a>

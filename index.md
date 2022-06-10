@@ -9,9 +9,59 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Vol 18 Issue 1/The Padang/the padang hero.jpg
-      button: A History of The Padang
-      url: /vol-18/issue-1/apr-to-jun-2022/history-padang
+      background: /images/Vol 18 Issue 1/Orang Seletar/orang seletar hero (1).jpg
+      button: The Orang Seletar
+      url: /vol-18/issue-1/apr-to-jun-2022/orang-seletar-changing-tides
+  - infopic:
+      title: They Died for All Free Men
+      subtitle: war
+      description: The Kranji War Cemetery and Singapore Memorial are a solemn tribute
+        to those who died defending Singapore. 
+      button: Kranji War Cemetery
+      url: /vol-18/issue-2/jul-sep-2022/kranji-war-cemetery
+      image: /images/Vol 18 Issue 2/Kranji War Memorial/Rows of headstones.png
+      alt: Image alt text
+  - infopic:
+      title: Japanese and Chinese Photo Studios in Prewar Singapore
+      subtitle: Photography
+      description: Chinese and Japanese  photography studios had to negotiate the
+        politics of race, class and clan in the early 20th century.
+      button: Negotiating Boundaries
+      url: /vol-18/issue-2/jul-sep-2022/japanese-chinese-photo-studios
+      image: /images/Vol 18 Issue 2/Chinese Japanese Photo
+        Studios/agsphoto_17551_full.png
+      alt: " "
+  - infopic:
+      title: A Royal Wedding Gone Wrong
+      subtitle: war
+      description: "Celebrations during a royal wedding in Tanjung Pinang in 1819 led
+        to a terrible misunderstanding that would change the course of history
+        in Riau and Singapore. "
+      button: The 1820 Uprising in Riau
+      url: /vol-18/issue-2/jul-sep-2022/wedding-bugis-uprising-singapore-riau
+      alt: Image alt text
+      image: /images/Vol 18 Issue 2/A Royal Wedding Gone Wrong/A Royal Wedding Gone
+        Wrong - Image 9.png
+  - infopic:
+      title: A History of Sennett Estate
+      subtitle: Places
+      description: It was once Singapore’s largest planned housing development and saw
+        action during Konfrontasi in the 1960s.
+      button: Sennett Estate
+      url: /vol-18/issue-2/jul-sep-2022/history-sennett-estate
+      image: /images/Vol 18 Issue 2/A History of Sennett Estate/A History of Sennett
+        Estate - Image 2.png
+      alt: Image alt text
+  - infopic:
+      title: "Giving a Voice to the Dead: Remembering Chao Tzee Cheng"
+      subtitle: people
+      description: "As a forensic pathologist, Chao Tzee Cheng helped bring murderers
+        to justice. "
+      button: the Forensic Trail Blazer
+      url: /vol-18/issue-2/jul-sep-2022/chao-tzee-cheng-forensic-pathologist
+      image: /images/Vol 18 Issue 2/Giving A Voice To The Dead/Giving A Voice To The
+        Dead - Image 4.png
+      alt: Image alt text
   - infopic:
       title: Hearts and Minds
       subtitle: "video: Stories from BiblioAsia"

@@ -1,7 +1,9 @@
 ---
-title: "Giving A Voice To The Dead: Remembering Chao Tzee Cheng"
-permalink: /vol-18/issue-2/jul-sep-2022/giving-a-voice-to-the-dead
-description: ""
+title: "Giving a Voice to the Dead: Remembering Chao Tzee Cheng"
+permalink: /vol-18/issue-2/jul-sep-2022/chao-tzee-cheng-forensic-pathologist
+description: As a forensic pathologist, Chao Tzee Cheng helped bring murderers to justice.
+image: /images/Vol 18 Issue 2/Giving A Voice To The Dead/Giving A Voice To The
+  Dead - Image 4.png
 ---
 #### As a forensic pathologist, Chao Tzee Cheng helped bring murderers to justice. By **Goh Lee Kim**
 
@@ -17,7 +19,7 @@ During that time, Chao played a pivotal role in raising the standards of forensi
 Chao became a forensic pathologist by accident, literally. After completing his medical degree at Hong Kong University in 1961, he returned to Singapore where he had initially aimed to specialise in surgery.[^2] However, while on honeymoon in Johor, the car that he and his wife were travelling in plunged into a ravine. The accident put him in a week-long coma and also weakened his right hand. This dashed his hopes of becoming a surgeon.[^3] Undaunted, Chao trained himself to use his left hand and set his sights on pathology instead.
 
 ![](/images/Vol%2018%20Issue%202/Giving%20A%20Voice%20To%20The%20Dead/Giving%20A%20Voice%20To%20The%20Dead%20-%20Image%202.png)
-<div style="background-color: white;">A 15-year-old Chao Tzee Cheng (right), with his friend Wong Sin Eng in Punggol, 1949. <i>Wong Sin Eng Collection, courtesy of National Archives of Singapore.</i>
+<div style="background-color: white;">A 15-year-old Chao Tzee Cheng (right) with his friend Wong Sin Eng in Punggol, 1949. <i>Wong Sin Eng Collection, courtesy of National Archives of Singapore.</i>
 </div>
 
 In 1966, Chao left for Hammersmith Hospital in London to obtain a diploma in clinical pathology under a one-year Colombo Plan Scholarship. His boss back in Singapore suggested that he specialise in forensic pathology and as a result, Chao’s scholarship was extended by another year and a half so that he could obtain his diplomas in forensic pathology and medical jurisprudence.
@@ -40,6 +42,9 @@ While it appeared to be a classic case of drowning, Chao determined the cause of
 Chao subsequently worked on some challenging cases, such as that of K. Rajendran in 1972. Rajendran had been assaulted and his body laid across railway tracks to make his death look like a suicide or accident.[^8] In 1985, Chao’s testimony also helped convict Michael Tan and his accomplice in the murder of Tan’s landlady and her two children. Tan claimed to have stabbed her by accident, but this account was disproven in court by Chao.[^9] In 1995, he was also involved in the high-profile case of Briton John Martin Scripps, a skilled butcher, who was convicted of murdering and dismembering South African tourist Gerard George Lowe.[^10]
 
 The late criminal lawyer Subhas Anandan recalled that Chao once saved a man from the gallows even though Chao was testifying for the prosecution. “Only once, in all these years, did he ever agree with my arguments, and I got a murder charge reduced,” said the veteran lawyer who had known Chao since 1971. “[E]very time I heard he was going to be called up for my cases, I would go, ‘Alamak! Not this fella again!’”[^11]
+
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #f58257;text-align:center"> Like what you're reading? <a href="https://form.gov.sg/#!/616799db4d9b61001398f79b">Subscribe</a> to BiblioAsia's online newsletter for the latest stories.</div>
+
 
 Anandan was likely referring to the trial of Karnan Arumugam for the death of brothel caretaker Lim Kar Teck in 1992. Arumugam’s murder charge was reduced to wrongful confinement and causing grievous hurt after the judge agreed with Chao that Lim’s suffocation due to gagging was “fortuitous” as gagging was “seldom intentionally homicidal” and not necessarily fatal.[^12]
 
@@ -133,7 +138,7 @@ In his eulogy, Chao’s nephew Dr Wong Chiang Yin, who was also the Honorary Sec
 
 [^17]: “[Eight of Nine Who Died Could Have Been Saved](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19740206-1.2.66),” *Straits Times*, 6 February 1974, 8. (From NewspaperSG); Chee Yam Cheng, “Citation of 1998 SMA Honorary Membership, Prof Chao Tzee Cheng,” SMA News 30, no. 5 (1998), https://www.sma.org.sg/sma_news/3005/news/3005n7.htm; Committee of Inquiry, [*Report on the Explosion at Ginza Plaza*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6441681) (Singapore: Subordinate Courts, 1993), 1, 164. (From National Library, Singapore, call no. RSING 363.11969095957 SIN); Karamjit Kaur, “[Three Passengers Identified from Ring, Hair and Fingerprint](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19980106-1.2.38.5),” *Straits Times*, 6 January 1998, 29. (From NewspaperSG)
 
-[^18]: Ministry of Health Singapore, *Caring for Our People: 50 Years of Healthcare in Singapore* (Singapore: MOH Holdings Pte Ltd, 2015), 116–117, https://www.mohh.com.sg/Documents/book/caring-for-our-people-50-years-of-healthcare-in-singapore.pdf.
+[^18]: Ministry of Health Singapore, *Caring for Our People: 50 Years of Healthcare in Singapore* (Singapore: MOH Holdings Pte Ltd, 2015), 116–17, https://www.mohh.com.sg/Documents/book/caring-for-our-people-50-years-of-healthcare-in-singapore.pdf.
 
 [^19]: “[Spyros Last Major Tanker Blast CID Investigated](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper19900316-1.2.7.2),” *New Paper*, 16 March 1990, 4. (From NewspaperSG)
 
@@ -147,9 +152,9 @@ In his eulogy, Chao’s nephew Dr Wong Chiang Yin, who was also the Honorary Sec
 
 [^24]: Chua Chin Chye, “[What to Do When Bitten](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19860815-1.2.38.30),” *Straits Times*, 15 August 1986, 25; “[The Pong Pong and Other Forbidden Fruit](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19861117-1.2.27.25),” *Straits Times*, 17 November 1986, 15. (From NewspaperSG)
 
-[^25]: T.C. Chao, J.E. Pakiam and J. Chia, “A Study of Lightning Deaths in Singapore,” *Singapore Medical Journal* 22, no. 3 (1981), 150–157, http://smj.sma.org.sg/2203/2203smj10.pdf; “[Stay Safe When It Rains](http://eresources.nlb.gov.sg/newspapers/Digitised/Page/straitstimes19821121-1.1.38),” *Straits Times*, 21 November 1982, 6; David Miller, “[Greater Chance of Being Struck by Lightning in S'pore](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19930802-1.2.31.13),” *Straits Times*, 2 August 1993, 24. (From NewspaperSG)
+[^25]: T.C. Chao, J.E. Pakiam and J. Chia, “A Study of Lightning Deaths in Singapore,” *Singapore Medical Journal* 22, no. 3 (1981): 150–57, http://smj.sma.org.sg/2203/2203smj10.pdf; “[Stay Safe When It Rains](http://eresources.nlb.gov.sg/newspapers/Digitised/Page/straitstimes19821121-1.1.38),” *Straits Times*, 21 November 1982, 6; David Miller, “[Greater Chance of Being Struck by Lightning in S'pore](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19930802-1.2.31.13),” *Straits Times*, 2 August 1993, 24. (From NewspaperSG)
 
-[^26]: “[PUB's Safety Ruling on Gas Heaters](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19751201-1.2.92),” *Straits Times*, 1 December 1975, 15. (From NewspaperSG); Chao Tzee Cheng, “Forensic Medicine in Singapore,” *The American Journal of Forensic Medicine and Pathology* 9, no. 2 (1988), 179–181, https://journals.lww.com/amjforensicmedicine/Citation/1988/06000/Forensic_Medicine_in_Singapore.19.aspx; Seah Han Cheow and Chao Tzee Cheng, “Carbon Monoxide Poisoning in Singapore,” *Singapore Medical Journal* 16, no. 3 (1975), 174–176, http://smj.sma.org.sg/1603/1603smj3.pdf.
+[^26]: “[PUB's Safety Ruling on Gas Heaters](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19751201-1.2.92),” *Straits Times*, 1 December 1975, 15. (From NewspaperSG); Chao Tzee Cheng, “Forensic Medicine in Singapore,” *The American Journal of Forensic Medicine and Pathology* 9, no. 2 (1988): 179–81, https://journals.lww.com/amjforensicmedicine/Citation/1988/06000/Forensic_Medicine_in_Singapore.19.aspx; Seah Han Cheow and Chao Tzee Cheng, “Carbon Monoxide Poisoning in Singapore,” *Singapore Medical Journal* 16, no. 3 (1975): 174–76, http://smj.sma.org.sg/1603/1603smj3.pdf.
 
 [^27]: Leslie Fong, “[Move to Curb Drunken Driving](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19741108-1.2.6),” *Straits Times*, 8 November 1974, 1; “[Drinking and Driving: The Real Danger](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19750811-1.2.60),” *Straits Times*, 11 August 1975, 11; “[Drunken Driving Arrests: Now Blood Test Is Obligatory](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19760326-1.2.47.1),” *Straits Times*, 26 March 1976, 9. (From NewspaperSG)
 
@@ -167,8 +172,8 @@ In his eulogy, Chao’s nephew Dr Wong Chiang Yin, who was also the Honorary Sec
 
 [^34]: “[Forensic Science Gears Up for Future](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900121-1.2.25.9),” *Straits Times*, 21 January 1990, 20; “[Inside the World-class Forensic Institute](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19950824-1.2.67.2.1),” *Straits Times*, 24 August 1995, 2. (From NewspaperSG)
 
-[^35]: Leong, “[Mister Autopsy Lives on in ‘Chaozy Bears’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20000410-1.2.54.8).”
+[^35]: Pauline Leong, “[Mister Autopsy Lives on in ‘Chaozy Bears’](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20000410-1.2.54.8),” *Straits Times*, 10 April 2000, 48. (From NewspaperSG)
 
 [^36]: Karen Wong, “[Top Forensic Pathologist Chao Dies in New York](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20000223-1.2.6.4),” *Straits Times*, 23 February 2000, 3; Ponnampalam, “[Joker, Eater, Singer…](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper20000223-1.2.14.1)”
 
-[^37]: Wong Chiang Yin, “In Memoriam: Prof Chao Tzee Cheng (1934–2000),” *SMA* News 32, no. 2 (2000), https://www.sma.org.sg/sma_news/3202/eulogy.pdf.
+[^37]: Wong Chiang Yin, “In Memoriam: Prof Chao Tzee Cheng (1934–2000),” *SMA News* 32, no. 2 (2000), https://www.sma.org.sg/sma_news/3202/eulogy.pdf.

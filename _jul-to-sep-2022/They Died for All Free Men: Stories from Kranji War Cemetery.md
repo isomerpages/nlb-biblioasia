@@ -1,7 +1,8 @@
 ---
 title: "They Died for All Free Men: Stories from Kranji War Cemetery"
 permalink: /vol-18/issue-2/jul-sep-2022/kranji-war-cemetery
-description: ""
+description: "Remembering those who died while fighting the Japanese during World War II. "
+image: /images/Vol 18 Issue 2/Kranji War Memorial/Rows of headstones.png
 ---
 #### Remembering those who died while fighting the Japanese during World War II. By **Janice Loo**
 
@@ -33,6 +34,8 @@ Within the cemetery, the rows of white headstones are set on a gentle, green slo
 Organised in a square formation of 100 headstones (five rows of 20 headstones), the cemetery is laid out like a military parade, with the war dead forming a battalion that continues to march on.[^10]
 
 Beyond the graves, on the hill’s highest point, stands the Singapore Memorial – also designed by Oakes. This structure features 12 stone-clad columns bearing the inscribed names of over 24,000 missing personnel with no known graves. The columns are surmounted by a flat, wing-shaped roof. A 22-metre-tall pylon, which resembles the tail unit of an aeroplane, rises from the centre and is capped by a star.[^11]
+
+ <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #f58257;text-align:center"> Want more of what you’re reading? Get BiblioAsia’s latest stories delivered to your inbox. Subscribe <a href="https://form.gov.sg/#!/616799db4d9b61001398f79b">here</a>. </div>
 
 Four other commemorative panels stand around the Singapore Memorial. Located on the eastern terrace is the Singapore Civil Hospital Grave Memorial, which lists the names of 107 Commonwealth servicemen whose remains lie buried along with those of 300 civilians in a mass grave at the Singapore General Hospital. Situated behind the Singapore Memorial is the Singapore Cremation Memorial, which remembers some 800 casualties, mostly Indian soldiers, whose remains were cremated in accordance with their religious beliefs.[^12]
 
