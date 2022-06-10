@@ -10,7 +10,7 @@ notification: ""
 sections:
   - hero:
       background: /images/Vol 18 Issue 1/Orang Seletar/orang seletar hero (1).jpg
-      button: "The Orang Seletar: Rowing Across Changing Tides"
+      button: The Orang Seletar
       url: /vol-18/issue-1/apr-to-jun-2022/orang-seletar-changing-tides
   - infopic:
       title: They Died for All Free Men
