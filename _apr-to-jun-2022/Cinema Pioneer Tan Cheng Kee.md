@@ -125,7 +125,7 @@ Tan’s notebooks and will, as well as the receipt book for the rental of the Ma
 
 [^13]: “[Page 4 Advertisements Column 2](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19251002-1.2.7.2),” *Malaya Tribune*, 2 October 1925, 4; “[Page 6 Advertisements Column 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19251201-1.2.10.1),” *Straits Times*, 1 December 1925, 6. (From NewspaperSG)
 
-[^14]: Susanna Kulatissa, “[... Not Forgotten](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850721-1.2.49.10.7),” *Straits Times*, 21 July 1985, 10; “[Orchard Gateway Opens After Delay](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20140419-1.2.90.1),” *Straits Times*, 19 April 2014. (From NewspaperSG)
+[^14]: Susanna Kulatissa, “[... Not Forgotten](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850721-1.2.49.10.7),” *Straits Times*, 21 July 1985, 10; “[Orchard Gateway Opens After Delay](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20140419-1.2.90.1),” *Straits Times*, 19 April 2014, 2. (From NewspaperSG)
 
 [^15]: “[Picture Shows](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19180226-1.2.58),” *Singapore Free Press and Mercantile Advertiser*, 26 February 1918, 10. (From NewspaperSG)
 
@@ -151,7 +151,7 @@ Tan’s notebooks and will, as well as the receipt book for the rental of the Ma
 
 [^26]: “[Legal Tussle Over Sites of 2 Theatres.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19470510-1.2.62)”
 
-[^27]: “[Alhambra to Reopen in October](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19470917-1.2.57),” *Singapore Free Press*, 17 September 1947, 5. (From NewspaperSG)
+[^27]: “[Alhambra to Reopen in October](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19470917-1.2.57),” *Singapore Free Press*, 17 Septe
 
 [^28]: “[Alhambra to be Renovated](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19510113-1.2.103),” *Straits Times*, 13 January 1951, 5; “[Face Lift for S’pore Cinema](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19510114-1.2.80.2),” *Straits Times*, 14 January 1951, 11. (From NewspaperSG)
 
