@@ -157,7 +157,7 @@ Jalan Bintang Tiga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
 
 [^5]: [Chua Chye Chua](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/02ed9572-1161-11e3-83d5-0050568939ad), interview.
 
-[^6]: “[Credit Foncier Starts New Building Project](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19560103-1.2.108),” *Singapore Standard*, 3 January 1956, 8. (From NewspaperSG)
+[^6]: “[Credit Foncier Starts New Building Project](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19560103-1.2.108),” *Singapore Standard*, 3 January 1956, 9. (From NewspaperSG)
 
 [^7]: “[Page 7 Advertisements Column 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19561027-1.2.62.1),” *The Straits Times*, 27 October 1956, 7. (From NewspaperSG)
 
