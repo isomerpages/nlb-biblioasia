@@ -119,7 +119,7 @@ The Kamala Club was officially declared open on 21 May 1951 and since then, the 
 
 [^13]:“[Indian and Ceylonese Ladies](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19310603-1.2.110),”
 
-[^14]:[Mrs Lakshmi Naidu](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/e1c7a592-115d-11e3-83d5-0050568939ad), oral history interview by Tan Beng Luan, 17 December 1981, transcript and MP3 audio, Reel/Disc 8 of 11. (From National Archives of Singapore, Accession no. 000110)
+[^14]:[Mrs Lakshmi Naidu](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/2/2bab1e8a-115f-11e3-83d5-0050568939ad-OHC000110_008/web/html5/index.html), oral history interview by Tan Beng Luan, 17 December 1981, transcript and MP3 audio, Reel/Disc 8 of 11. (From National Archives of Singapore, Accession no. 000110)
 
 [^15]:R.R. Samy, “[Woman’s Corner](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19310718-1.2.3),”<i>Malaya Tribune</i>, 18 July 1931, 2. (From NewspaperSG)
 
@@ -133,7 +133,7 @@ The Kamala Club was officially declared open on 21 May 1951 and since then, the 
 
 [^20]:[The Lotus Club](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19341213-1.2.148),” <i>Malaya Tribune</i>, 13 December 1934, 16. (From NewspaperSG)
 
-[^21]:[Mrs Lakshmi Naidu](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/e1c7a592-115d-11e3-83d5-0050568939ad), oral history interview by Tan Beng Luan, 24 February 1982, transcript and MP3 audio, Reel/Disc 9 of 11. (From National Archives of Singapore, Accession no. 000110)
+[^21]:[Mrs Lakshmi Naidu](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/e1c7a592-115d-11e3-83d5-0050568939ad)        <!-- /\* Font Definitions \*/ @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536869121 1107305727 33554432 0 415 0;} @font-face {font-family:Calibri; panose-1:2 15 5 2 2 2 4 3 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-469750017 -1073732485 9 0 511 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin:0cm; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-fareast-font-family:Calibri; mso-fareast-theme-font:minor-latin;} a:link, span.MsoHyperlink {mso-style-priority:99; color:blue; text-decoration:underline; text-underline:single;} a:visited, span.MsoHyperlinkFollowed {mso-style-noshow:yes; mso-style-priority:99; color:#954F72; mso-themecolor:followedhyperlink; text-decoration:underline; text-underline:single;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-size:10.0pt; mso-ansi-font-size:10.0pt; mso-bidi-font-size:10.0pt;} @page WordSection1 {size:612.0pt 792.0pt; margin:72.0pt 72.0pt 72.0pt 72.0pt; mso-header-margin:36.0pt; mso-footer-margin:36.0pt; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} --> (https://www.nas.gov.sg/archivesonline/Flipviewer/publish/f/f20c2067-115d-11e3-83d5-0050568939ad-OHC000110_009/web/html5/index.html), oral history interview by Tan Beng Luan, 24 February 1982, transcript and MP3 audio, Reel/Disc 9 of 11. (From National Archives of Singapore, Accession no. 000110)
 
 [^22]: Britannica, The Editors of Encyclopaedia, “purdah,” <i>Encyclopedia Britannica</i>, 9 May 2008, https://www.britannica.com/topic/purdah.
 
