@@ -130,9 +130,9 @@ While some might hanker after an orchid named after a favourite celebrity, these
 
 [^2]: National Parks Board, email, 10 December 2021; Lin Suling, “Commentary: Prince Charles’ Orchid and the Art of Diplomatic Gift-giving,” *Channel NewsAsia*, 3 November 2017, https://www.channelnewsasia.com/commentary/commentary-prince-charles-orchid-and-art-diplomatic-gift-giving-987426. 
 
-[^3]: Lin Suling, “Commentary: Prince Charles’ Orchid and the Art of Diplomatic Gift-giving.”
+[^3]: Lin, “Commentary: Prince Charles’ Orchid and the Art of Diplomatic Gift-giving.”
 
-[^4]: Nigel Taylor, “[Orchids Are Named After Celebrities Too](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20130427-1.2.122.11.4),” *Straits Times*, 27 April 2013, 10. (From NewspaperSG); Natasha Ann Zachariah, “[Growing VIP Orchids](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20151024-1.2.106.1.2),” *Straits Times*, 24 October 2015, 4–5. (From NewspaperSG)
+[^4]: Nigel Taylor, “[Orchids Are Named After Celebrities Too](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20130427-1.2.122.11.4),” *Straits Times*, 27 April 2013, 10; Natasha Ann Zachariah, “[Growing VIP Orchids](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20151024-1.2.106.1.2),” *Straits Times*, 24 October 2015, 4–5. (From NewspaperSG)
 
 [^5]: National Parks Board, email, 10 December 2021.
 
