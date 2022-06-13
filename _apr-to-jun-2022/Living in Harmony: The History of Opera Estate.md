@@ -201,7 +201,7 @@ Jalan Bintang Tiga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
 
 [^27]: [Mr Kiasu and His Kampung Spirit](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/tabla20151016-1.2.2),” *Tabla*, 16 October 2015, 1. (From NewspaperSG); “Singapore Names its First Friendly Street,” Singapore Kindness Movement, 17 August 2019, https://www.kindness.sg/news/singapore-names-its-first-friendly-street/; Marilyn Peh, “For the Past 20 Years, This Tight-knit Group of Neighbours Have Kept a Special Street Party Tradition Alive,” *The Pride*, 2 September 2019, https://pride.kindness.sg/20-years-neighbours-jalan-bintang-tiga-james-suresh-street-party/.
 
-[^28]: James Suresh, “[A Neighbourly Connection](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20140305-1.2.53),” *Today*, 5 March 2015, 45. (From NewspaperSG)
+[^28]: James Suresh, “[A Neighbourly Connection](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20140305-1.2.53),” *Today*, 5 March 2014, 45. (From NewspaperSG)
 
 [^29]: Mdm Irene Loh, interview, 6 January 2022.
 
