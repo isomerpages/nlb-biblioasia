@@ -143,13 +143,13 @@ The Kamala Club was officially declared open on 21 May 1951 and since then, the 
 
 [^25]:“[Lotus Club](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19340208-1.2.20),” <i>Singapore Free Press and Mercantile Advertiser</i>, 8 February 1934, 3. (From NewspaperSG)
 
-[^26]:“[Amateur Talent at Victoria Theatre](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19350629-1.2.80),” <i>Straits Times</i>, 29 June 1935, 15. (From NewsppaerSG)
+[^26]:“[Amateur Talent at Victoria Theatre](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19350629-1.2.80),” <i>Straits Times</i>, 29 June 1935, 13. (From NewsppaerSG)
 
 [^27]:“[Jubilee Fund](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19351007-1.2.133),” <i>Malaya Tribune</i>, 7 October 1935, 18. (From NewspaperSG)
 
 [^28]:“[Variety Show for Jubilee Fund](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19351026-1.2.114.4),” <i>Straits Times</i>, 26 October 1935, 17. (From NewspaperSG)
 
-[^29]:“['A Country is Judged by Its Women Folk’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19370529-1.2.62)," <i>Singapore Free Press and Mercantile Advertiser</i>, 29 May 1937, p. 6. (From NewspaperSG)
+[^29]:“['A Country is Judged by Its Women Folk’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19370529-1.2.62)," <i>Singapore Free Press and Mercantile Advertiser</i>, 29 May 1937, 6. (From NewspaperSG)
 
 [^30]:“[Indian Quit Congress for Polls](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19480122-1.2.3),” <i>Straits Times</i>, 22 January 1948, 1. (From NewspaperSG)
 
