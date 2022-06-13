@@ -5,7 +5,6 @@ permalink: /vol-18/issue-1/apr-to-jun-2022/singapore-changing-wet-markets
 description: ""
 image: /images/Vol 18 Issue 1/Wet Market/8ed6060f-1162-11e3-83d5-0050568939ad.png
 ---
-
 #### Wet markets have existed in Singapore since 1825. **Zoe Yeo** looks at how these markets have changed over time.
 
 ![](/images/Vol%2018%20Issue%201/Wet%20Market/editedmarket4.png)
@@ -187,7 +186,7 @@ It remains to be seen what will happen to the wet market in the future. Will it 
 
 [^19]: Ratnala Thulaja Naidu, “[Sungei Road](https://eresources.nlb.gov.sg/infopedia/articles/SIP_588_2004-12-23.html),” in *Singapore Infopedia*. National Library Board Singapore. Article published 2017.
 
-[^20]: Stephen Sim, “[Singapore Streets Have Nicknames](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19490929-1.2.92.1),” *Straits Times*, 29 September 1949, 8; Jackie Sam, “[Orchard Road in Retrospect](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19841021-1.2.47.2),” *Singapore Monitor*, 21 October 1884, 1. (From NewspaperSG)
+[^20]: Stephen Sim, “[Singapore Streets Have Nicknames](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19490929-1.2.92.1),” *Straits Times*, 29 September 1949, 8; Jackie Sam, “[Orchard Road in Retrospect](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19841021-1.2.47.2),” *Singapore Monitor*, 21 October 1984, 1. (From NewspaperSG)
 
 [^21]: “[Don’t Aid the Black Market](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19470519-1.2.27.2),” *Singapore Free Press*, 19 May 1947, 4; “[Price Chief Flays Orchard Road Market ‘Ring’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19480605-1.2.2)”, *Malaya Tribune*, 5 June 1948, 1; “[2 Reasons for High Food Prices](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19510330-1.2.23),” *Singapore Standard*, 30 March 1951, 2. (From NewspaperSG)
 
@@ -209,7 +208,7 @@ It remains to be seen what will happen to the wet market in the future. Will it 
 
 [^30]: Serendipity, “[Inscrutably Oriental](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19741103-1.2.37).”
 
-[^31]: “[You Could Eat Bats & Lizards Here in the Past](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper20041016-1.2.12.3),” *New Paper*, 14 January 2004, 9. (From NewspaperSG)
+[^31]: “[You Could Eat Bats & Lizards Here in the Past](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper20041016-1.2.12.3),” *New Paper*, 16 October 2004, 9. (From NewspaperSG)
 
 [^32]: “[Wet Market Slaughtering To Be Phased Out by ’92](Wet Market Slaughtering To Be Phased Out by ’92),” *Straits Times*, 6 July 1990, 3; Tan Ban Huat, “[Call for Study on Slaughter of Chickens at One Place](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820112-1.2.42),” *Straits Times*, 12 January 1982, 10. (From NewspaperSG)
 
