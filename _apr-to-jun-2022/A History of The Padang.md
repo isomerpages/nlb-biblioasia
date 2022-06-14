@@ -161,7 +161,7 @@ Given its age, historical significance and global prominence, it is timely that 
 
 [^17]: “[Europe Hotel’s Future](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19320721-1.2.32),” *Singapore Free Press*, 21 July 1932, 8; “[Facilitation of Justice](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/morningtribune19370402-1.2.102),” *Morning Tribune*, 2 April 1937, 24. (From NewspaperSG)
 
-[^18]: “[Jubilee Celebration, Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18870629-1.2.28),” *Straits Times Weekly*, 29 June 1887, 5; “[The Jubilee](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18870706-1.2.32),” *Straits Times Weekly*, 6 July 1887, 7. (From NewspaperSG)
+[^18]: “[Jubilee Celebration, Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18870629-1.2.28),” *Straits Times Weekly*, 29 June 1887, 7; “[The Jubilee](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18870706-1.2.32),” *Straits Times Weekly*, 6 July 1887, 7. (From NewspaperSG)
 
 [^19]: “[The Jubilee](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18870706-1.2.32).”
 

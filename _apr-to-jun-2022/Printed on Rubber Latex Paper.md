@@ -91,7 +91,7 @@ However, after the 1930s, mentions of rubber latex paper dried up in the Malayan
 
 [^4]: “[Rubber and Paper](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19220724-1.2.77),” *Straits Times*, 24 July 1922, 9. (From NewspaperSG)
 
-[^5]: “[Latex in Paper-making](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk19221005-1.2.96),” *Singapore Free Press and Mercantile Advertiser*, 5 October 1922, 7; “[The Kaye Process](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19221011-1.2.79),” *Straits Times*, 11 October 1922, 12. (From NewspaperSG)
+[^5]: “[Latex in Paper-making](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk19221005-1.2.96),” *Singapore Free Press and Mercantile Advertiser*, 5 October 1922, 13; “[The Kaye Process](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19221011-1.2.79),” *Straits Times*, 11 October 1922, 12. (From NewspaperSG)
 
 [^6]: “[Rubber for Paper Making](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19220422-1.2.3),” *Straits Times*, 22 April 1922, 2. (From NewspaperSG); “[Latex in Paper-making](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk19221005-1.2.96)”; “[The Kaye Process](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19221011-1.2.79).”
 
@@ -113,13 +113,13 @@ However, after the 1930s, mentions of rubber latex paper dried up in the Malayan
 
 [^15]: “[Latex Paper](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19230113-1.2.77),” *Malaya Tribune*, 13 January 1923, 10. (From NewspaperSG)
 
-[^16]: “[Latex Paper in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19230324-1.2.41),” *Singapore Free Press and Mercantile Advertiser*, 24 March 1923, 1; “[Page 1 Advertisements Column 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19230324-1.2.4.1),” *Singapore Free Press and Mercantile Advertiser*, 24 March 1923, 1. (From NewspaperSG)
+[^16]: “[Latex Paper in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19230324-1.2.41),” *Singapore Free Press and Mercantile Advertiser*, 24 March 1923, 10; “[Page 1 Advertisements Column 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19230324-1.2.4.1),” *Singapore Free Press and Mercantile Advertiser*, 24 March 1923, 1. (From NewspaperSG)
 
 [^17]: “[Page 8 Advertisements Column 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19290617-1.2.37.1),” *Singapore Free Press and Mercantile Advertiser*, 17 June 1929, 8. (From NewspaperSG)
 
 [^18]: “[Page 6 Advertisements Column 1](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19230619-1.2.35.1),” *Malaya Tribune*, 19 June 1923, 6. (From NewspaperSG)
 
-[^19]:  “[Page 2 Advertisements Column 2](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19251109-1.2.4.2),” *Straits Times*, 9 November 1925, p. 2; “[Page 2 Advertisements Column 2](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19271107-1.2.6.2),” *Straits Times*, 7 November 1927, 2; “[Page 2 Advertisements Column 2](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19251202-1.2.5.2),” *Straits Times*, 2 December 1925, 2. (From NewspaperSG)
+[^19]:  “[Page 2 Advertisements Column 2](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19251109-1.2.4.2),” *Straits Times*, 9 November 1925, 2; “[Page 2 Advertisements Column 2](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19271107-1.2.6.2),” *Straits Times*, 7 November 1927, 2; “[Page 2 Advertisements Column 2](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19251202-1.2.5.2),” *Straits Times*, 2 December 1925, 2. (From NewspaperSG)
 
 [^20]: “[Page 6 Advertisements Column 1](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19230619-1.2.35.1).”
 

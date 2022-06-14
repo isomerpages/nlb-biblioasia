@@ -60,7 +60,7 @@ Not much has been written about Tan Cheng Kee, especially compared to the Shaw b
 
 Tan believed in the importance of hard work and downplayed the role of luck. In his notebook, he wrote that “luck does not hold forever” and so a man is the “architect of his own fortune by means of his ability”. He also strongly believed that “idleness is the handmaid of the devil”.
 
-At the same time, Tan also believed in turning to the divine for assistance. He wrote: “I feel that every step in my plan has been guided with Divine help and I hope this will continue until the end of all things” and “I ask daily for Divine help and I have succeeded beyond my dreams.” 
+At the same time, Tan also believed in turning to the divine for assistance. He wrote: “I feel that every step in my plan has been guided with Divine help and I hope this will continue until the end of all things” and “I ask daily for Divine help and I have succeeded beyond my dreams”. 
 
 In his notebooks, Tan devoted many pages to the importance of writing a will, pertaining to family and business. He first made his will in 1935 and appointed Estate and Trust Agencies in 1937 as the executor and trustee of his will.[^22] In his will, Tan ensured that his immediate and close family members had life interests in the properties that they resided in. He also bequeathed money to his uncle, cousin, clerk and cook.
 
@@ -109,7 +109,7 @@ Tan’s notebooks and will, as well as the receipt book for the rental of the Ma
 
 [^5]: “[The Grand Cinematograph](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19070914-1.2.80),” *Singapore Free Press and Mercantile Advertiser*, 14 September 1907, 12; “[Page 2 Advertisements Column 3](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19071016-1.2.9.3),” *Singapore Free Press and Mercantile Advertiser*, 16 October 1907, 2. (From NewspaperSG)
 
-[^6]: “[Mountain-air Climate in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19380727-1.2.150.23)”; “[Thirty Years of Film Entertainment](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19320102-1.2.133.49)”; “[Page 8 Advertisements Column 5](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19090709-1.2.98.5),” *Straits Times*, 9 July 1909, 8. (From NewspaperSG)
+[^6]: "[Thirty Years of Film Entertainment](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19320102-1.2.133.49)"; “[Mountain-air Climate in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19380727-1.2.150.23),” *Singapore Free Press and Mercantile Advertiser*, 27 July 1938, 4; “[Page 8 Advertisements Column 5](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19090709-1.2.98.5),” *Straits Times*, 9 July 1909, 8. (From NewspaperSG)
 
 [^7]: “[Still Another Theatre for Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19140212-1.2.17),” *Malaya Tribune*, 12 February 1914, 5. (From NewspaperSG)
 
@@ -125,7 +125,7 @@ Tan’s notebooks and will, as well as the receipt book for the rental of the Ma
 
 [^13]: “[Page 4 Advertisements Column 2](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19251002-1.2.7.2),” *Malaya Tribune*, 2 October 1925, 4; “[Page 6 Advertisements Column 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19251201-1.2.10.1),” *Straits Times*, 1 December 1925, 6. (From NewspaperSG)
 
-[^14]: Susanna Kulatissa, “[... Not Forgotten](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850721-1.2.49.10.7),” *Straits Times*, 21 July 1985, 10; “[Orchard Gateway Opens After Delay](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20140419-1.2.90.1),” *Straits Times*, 19 April 2014. (From NewspaperSG)
+[^14]: Susanna Kulatissa, “[... Not Forgotten](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850721-1.2.49.10.7),” *Straits Times*, 21 July 1985, 10; “[Orchard Gateway Opens After Delay](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20140419-1.2.90.1),” *Straits Times*, 19 April 2014, 2. (From NewspaperSG)
 
 [^15]: “[Picture Shows](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19180226-1.2.58),” *Singapore Free Press and Mercantile Advertiser*, 26 February 1918, 10. (From NewspaperSG)
 
@@ -151,7 +151,7 @@ Tan’s notebooks and will, as well as the receipt book for the rental of the Ma
 
 [^26]: “[Legal Tussle Over Sites of 2 Theatres.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19470510-1.2.62)”
 
-[^27]: “[Alhambra to Reopen in October](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19470917-1.2.57),” *Singapore Free Press*, 17 September 1947, 5. (From NewspaperSG)
+[^27]: “[Alhambra to Reopen in October](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19470917-1.2.57).”
 
 [^28]: “[Alhambra to be Renovated](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19510113-1.2.103),” *Straits Times*, 13 January 1951, 5; “[Face Lift for S’pore Cinema](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19510114-1.2.80.2),” *Straits Times*, 14 January 1951, 11. (From NewspaperSG)
 

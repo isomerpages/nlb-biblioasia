@@ -130,9 +130,9 @@ While some might hanker after an orchid named after a favourite celebrity, these
 
 [^2]: National Parks Board, email, 10 December 2021; Lin Suling, “Commentary: Prince Charles’ Orchid and the Art of Diplomatic Gift-giving,” *Channel NewsAsia*, 3 November 2017, https://www.channelnewsasia.com/commentary/commentary-prince-charles-orchid-and-art-diplomatic-gift-giving-987426. 
 
-[^3]: Lin Suling, “Commentary: Prince Charles’ Orchid and the Art of Diplomatic Gift-giving.”
+[^3]: Lin, “Commentary: Prince Charles’ Orchid and the Art of Diplomatic Gift-giving.”
 
-[^4]: Nigel Taylor, “[Orchids Are Named After Celebrities Too](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20130427-1.2.122.11.4),” *Straits Times*, 27 April 2013, 10. (From NewspaperSG); Natasha Ann Zachariah, “[Growing VIP Orchids](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20151024-1.2.106.1.2),” *Straits Times*, 24 October 2015, 4–5. (From NewspaperSG)
+[^4]: Nigel Taylor, “[Orchids Are Named After Celebrities Too](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20130427-1.2.122.11.4),” *Straits Times*, 27 April 2013, 10; Natasha Ann Zachariah, “[Growing VIP Orchids](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20151024-1.2.106.1.2),” *Straits Times*, 24 October 2015, 4–5. (From NewspaperSG)
 
 [^5]: National Parks Board, email, 10 December 2021.
 
@@ -186,7 +186,7 @@ While some might hanker after an orchid named after a favourite celebrity, these
 
 [^30]: “Joseph Schooling, Yip Pin Xiu Have Orchids Named after Them,” *Today*, 7 August 2017, https://www.todayonline.com/singapore/orchid-named-after-joseph-schooling-yip-pin-xiu.
 
-[^31]: Yam Tin Wing, *[Orchids of the Singapore Botanic Gardens](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12909904)* (Singapore: Singapore Botanic Gardens), 148. (From National Library, Singapore, Call no. RSING 584.4095957 YAM); Chen, “[He Grows Orchid Hybrids for VIPs](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper20091122-1.2.3.7)”; Tay Suan Chiang, “[Orchid’s Name is for Life](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20100515-1.2.112.10.5),” *Straits Times*, 15 May 2010, 11; “[We Grow Our VIPs](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20090809-1.2.106.12),” *Straits Times*, 9 August 2009, 109. (From NewspaperSG); Lin Suling, “Commentary: Prince Charles’ Orchid and the Art of Diplomatic Gift-giving,” *Channel NewsAsia*, 3 November 2017, https://www.channelnewsasia.com/commentary/commentary-prince-charles-orchid-and-art-diplomatic-gift-giving-987426; “10 Celebrity Orchids Who Are Named After Famous People,” *The Singapore Women’s Weekly*, 15 November 2016, https://www.womensweekly.com.sg/gallery/entertainment/10-celebrity-orchids-named-famous-people/.
+[^31]: Yam Tin Wing, *[Orchids of the Singapore Botanic Gardens](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12909904)* (Singapore: Singapore Botanic Gardens), 148. (From National Library, Singapore, Call no. RSING 584.4095957 YAM); Chen, “[He Grows Orchid Hybrids for VIPs](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper20091122-1.2.3.7)”; Tay Suan Chiang, “[Orchid’s Name is for Life](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20100515-1.2.112.10.5),” *Straits Times*, 15 May 2010, 11; “[We Grow Our VIPs](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20090809-1.2.106.12)”; Lin, “Commentary: Prince Charles’ Orchid and the Art of Diplomatic Gift-giving”; “10 Celebrity Orchids Who Are Named After Famous People,” *The Singapore Women’s Weekly*, 15 November 2016, https://www.womensweekly.com.sg/gallery/entertainment/10-celebrity-orchids-named-famous-people/.
 
 [^32]: Angeline Song, “[Secret Asean Lady Orchid](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper19920123-1.2.13.6),” *New Paper*, 23 January 1992, 10. (From NewspaperSG)
 

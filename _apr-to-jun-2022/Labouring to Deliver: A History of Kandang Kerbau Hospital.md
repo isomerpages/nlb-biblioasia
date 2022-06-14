@@ -159,7 +159,7 @@ KK Hospital continues to strive for excellence and innovation in women’s and c
 
 [^16]: Cheong, [*KK Women’s and Children’s Hospital*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13054527), 33, 46.
 
-[^17]: Cheong, [*KK Women’s and Children’s Hospital*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13054527), 50; Medical Department (Singapore), *Annual Report of the Medical Department* (Singapore: Medical Department, 1951),164, Internet Archive, https://archive.org/details/b31415027/page/166/mode/2up.
+[^17]: Cheong, [*KK Women’s and Children’s Hospital*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13054527), 50; Medical Department (Singapore), *Annual Report of the Medical Department* (Singapore: Medical Department, 1951), 164, Internet Archive, https://archive.org/details/b31415027/page/166/mode/2up.
 
 [^18]: “[Ten Minute Babies](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19531008-1.2.108.1),” *Straits Times*, 8 October 1953, 6. (From NewspaperSG)
 
