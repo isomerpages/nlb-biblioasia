@@ -62,7 +62,7 @@ The food at Fut Sai Kai often received good reviews. Writing for the New Nation 
 
 The restaurant operated for 64 years before closing in 2017. Its closure was important enough to have warranted a news story in the Straits Times. According to the article, the owner of the restaurant had died earlier that year and the family decided to close the restaurant as there was no one to take over the cooking.[^23]
 
-#### **Spreading Vegetarianism**
+#### **Spreading Vegetarianism 	Through Temples**
 
 Restaurants were not the only way that these women promoted vegetarianism. At Choa Chu Kang’s 12-milestone (十二英里) lies the temple Hai Inn See (海印寺), which was established in 1928. Its second abbess, a vegetarian nun named Yang Qincai (杨芹菜), [^24]was well known for her vegetarian soon kueh. Like many temples, Hai Inn See grew vegetables and fruits on its grounds. In the 1950s, Yang Qincai discovered that bamboo plants grew well, and since the main ingredient for the kueh is bamboo shoots, she led the effort to make it regularly.[^25]
 
