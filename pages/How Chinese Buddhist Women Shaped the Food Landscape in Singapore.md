@@ -32,7 +32,7 @@ The women had the support of people like Venerable Cihang (慈航法师), a prom
 Located at 25 Tanjong Pagar Road, Loke Woh Yuen was well known among the Chinese Buddhist community because its food was of restaurant standard and the menu was varied. Set in a single-fronted shophouse, the restaurant was described as “bright and breezy” and was notable for its “clean yet not clinical look”.[^3]
 
 ![](/images/Vol%2018%20Issue%201/Chinese%20Buddhist%20Women/Chinese%20Buddhist%20Women%20-%20Image%203.png)
-<div style="background-color: white;">(From left) 双雄豪杰 (Stuffed Hot Chillies with Crunchy Gluten) and 金玉满堂 (Coconut Soup with Four Snacks). Images reproduced from Shi Chin Yam, Top 100 Vegetarian Delights (Singapore: Man Fut Tong Old People’s Home, 1998), 79, 88. (From National Library, Singapore, call no. RSING 641.5636 SHI).</div>
+<div style="background-color: white;">(From left) 双雄豪杰 (Stuffed Hot Chillies with Crunchy Gluten) and 金玉满堂 (Coconut Soup with Four Snacks). <i>Images reproduced from Shi Chin Yam, Top 100 Vegetarian Delights (Singapore: Man Fut Tong Old People’s Home, 1998), 79, 88. (From National Library, Singapore, call no. RSING 641.5636 SHI).</i></div>
 
 For people who wanted plant-based alternatives to meat dishes, the restaurant offered dishes such as vegetarian shark’s fin made from maize, and fish fillet made from sugar cane flowers.[^4] Vegetarian *mee siam* and curry were available on weekends.[^5]
 
