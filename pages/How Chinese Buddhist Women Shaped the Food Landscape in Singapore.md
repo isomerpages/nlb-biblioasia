@@ -131,7 +131,7 @@ Method<br>
 <div style="background-color: white;">
 <br/>
 <img src="/images/Vol%2018%20Issue%201/Authors/Kelvin_Tan.png" style="width: 100px; height: 100px;"/>
-	<b>Alex Teoh</b> is a paper and book conservator, providing collection care for rare manuscripts, collectible prints, antique maps and antiquarian books. He is interested in the local material culture of the written text in Southeast Asia.</div>
+	<b>Kelvin Tan</b> graduated with a Bachelor of Arts in history from the National University of Singapore. He was a research assistant for the project “Mapping Female Religious Heritage in Singapore: Chinese Temples as Sites of Regional Socio-cultural Linkage” funded by the National Heritage Board. </div>
 
 	
 #### **NOTES**
