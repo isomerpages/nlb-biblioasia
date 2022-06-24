@@ -112,8 +112,7 @@ Method
 5. Prepare the dough skin: On a large plate, combine wheat starch, tapioca flour, salt and sugar.
 6. Add in boiling water and stir the mixture constantly with a wooden ladle till well combined.
 7. Mix in oil before using hands to knead the dough till smooth.
-8. Divide the dough into smaller balls of equal portions. Flatten each ball of dough into a round disc to wrap a portion of the filling. Grease a steaming plate with oil before placing the soon kueh on it. Once the water starts to boil in the steamer, steam the soon kueh for about 10 minutes. After steaming, lightly brush the soon kueh with oil.
-</span>
+8. Divide the dough into smaller balls of equal portions. Flatten each ball of dough into a round disc to wrap a portion of the filling. Grease a steaming plate with oil before placing the soon kueh on it. Once the water starts to boil in the steamer, steam the soon kueh for about 10 minutes. After steaming, lightly brush the soon kueh with oil.</span>
 	
 <div style="background-color: white;">
 <br/>
