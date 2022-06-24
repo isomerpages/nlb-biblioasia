@@ -98,9 +98,9 @@ In many ways, women like Jian Daxian, Yang Muzhen, Yang Qincai and Venerable Ho 
 <img src="/images/Vol%2018%20Issue%201/Chinese%20Buddhist%20Women/Chinese%20Buddhist%20Women%20-%20Image%208.png">
 The vegetarian soon kueh of Hai Inn See and an undated portrait of Abbess Yang Qincai. Images reproduced from 海印古寺90周年特輯 [Haiingu Temple 90th Anniversary Special] (Singapore: Hai Inn Temple, 2018), 143, 144.
 <br><br>
-HAI INN SEE’S SOON KUEH RECIPE
+<b>HAI INN SEE’S SOON KUEH RECIPE</b>
 <br><br>
-Filling<br>
+<b>Filling</b><br>
 500 g dried mushrooms, soaked<br>
 1 kg bamboo shoot<br>
 1 kg turnip<br>
@@ -110,7 +110,7 @@ Filling<br>
 1 tablespoon salt<br>
 1 tablespoon pepper<br>
 A dash of sesame oil<br><br>
-Dough skin<br>
+<b>Dough skin</b><br>
 600 g wheat starch<br>
 300 g tapioca flour<br>
 Half tablespoon salt<br>
@@ -118,7 +118,7 @@ Half tablespoon sugar<br>
 1200 ml boiling water<br>
 4 tablespoons oil
 <br><br>
-Method<br>
+<b>Method</b><br>
 1. Prepare the filling: Shred mushrooms, bamboo shoots, turnips, firm beancurd and sweetened beancurd sticks.<br>
 2. Heat oil in a wok and fry mushrooms till fragrant.<br>
 3. Add in bamboo shoots and turnips. Fry to mix well. Add in salt and pepper to taste.<br>
@@ -126,7 +126,10 @@ Method<br>
 5. Prepare the dough skin: On a large plate, combine wheat starch, tapioca flour, salt and sugar.<br>
 6. Add in boiling water and stir the mixture constantly with a wooden ladle till well combined.<br>
 7. Mix in oil before using hands to knead the dough till smooth.
-8. Divide the dough into smaller balls of equal portions. Flatten each ball of dough into a round disc to wrap a portion of the filling. Grease a steaming plate with oil before placing the soon kueh on it. Once the water starts to boil in the steamer, steam the soon kueh for about 10 minutes. After steaming, lightly brush the soon kueh with oil.</div>
+8. Divide the dough into smaller balls of equal portions. Flatten each ball of dough into a round disc to wrap a portion of the filling. Grease a steaming plate with oil before placing the soon kueh on it. Once the water starts to boil in the steamer, steam the soon kueh for about 10 minutes. After steaming, lightly brush the soon kueh with oil.
+<br><br>
+Soon kueh recipe reproduced from 海印古寺90周年特輯 [Haiingu Temple 90th Anniversary Special], Singapore: Hai Inn Temple, 2018, p. 145.
+</div>
 	
 <div style="background-color: white;">
 <br/>
