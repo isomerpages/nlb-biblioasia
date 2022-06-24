@@ -31,6 +31,9 @@ The women had the support of people like Venerable Cihang (慈航法师), a prom
 
 Located at 25 Tanjong Pagar Road, Loke Woh Yuen was well known among the Chinese Buddhist community because its food was of restaurant standard and the menu was varied. Set in a single-fronted shophouse, the restaurant was described as “bright and breezy” and was notable for its “clean yet not clinical look”.[^3]
 
+![](/images/Vol%2018%20Issue%201/Chinese%20Buddhist%20Women/Chinese%20Buddhist%20Women%20-%20Image%203.png)
+<div style="background-color: white;">双雄豪杰 (Stuffed Hot Chillies with Crunchy Gluten) and 金玉满堂 (Coconut Soup with Four Snacks). Images reproduced from Shi Chin Yam, Top 100 Vegetarian Delights (Singapore: Man Fut Tong Old People’s Home, 1998), 79, 88. (From National Library, Singapore, call no. RSING 641.5636 SHI).</div>
+
 For people who wanted plant-based alternatives to meat dishes, the restaurant offered dishes such as vegetarian shark’s fin made from maize, and fish fillet made from sugar cane flowers.[^4] Vegetarian mee siam and curry were available on weekends.[^5]
 
 Loke Woh Yuen was entirely staffed by women, from the waiters to the cashiers and the cook. The restaurant operated for over six decades before the shutters came down for the last time in 2010.
@@ -63,9 +66,6 @@ Located on Kitchener Road, Fut Sai Kai was aimed at a more price conscious clien
 Ko was known to wake up early in the morning to buy the freshest ingredients from the market, and she also personally served customers at the restaurant. It operated from 11 am to 9 pm daily, and was packed on the 1st and 15th days of the lunar month as well as during major Chinese festivals.[^20]
 
 Like Loke Woh Yuen, the restaurant was also popular among non-Chinese and non-Buddhists. Tourist buses were occasionally spotted nearby as well. According to Ko, her restaurant was frequented by Christians on Fridays, and by Hindus looking for vegetarian food after temple worship.[^21]
-
-![](/images/Vol%2018%20Issue%201/Chinese%20Buddhist%20Women/Chinese%20Buddhist%20Women%20-%20Image%203.png)
-<div style="background-color: white;">双雄豪杰 (Stuffed Hot Chillies with Crunchy Gluten) and 金玉满堂 (Coconut Soup with Four Snacks). Images reproduced from Shi Chin Yam, Top 100 Vegetarian Delights (Singapore: Man Fut Tong Old People’s Home, 1998), 79, 88. (From National Library, Singapore, call no. RSING 641.5636 SHI).</div>
 
 The food at Fut Sai Kai often received good reviews. Writing for the New Nation in 1972, Wendy Hutton was all praise for the corn soup. “I found the rather nutty, cereal flavour most enjoyable, and filled my soup bowl several times,” she said. For her, the highlight of the meal were the sugar cane flowers. “We all speculated as to whether we were eating genuine flowers, but since I’ve eaten such things as banana flower and candied violets in the past, I imagine the sugar cane flowers were authentic. A rather soft, fleshy morsel was buried inside a thick ball of butter and deep fried. Eaten with a sweet sauce, it was marvellous,” she added.[^22]
 
