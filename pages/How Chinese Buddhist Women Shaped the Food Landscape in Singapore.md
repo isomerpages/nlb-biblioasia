@@ -82,6 +82,7 @@ In many ways, women like Jian Daxian, Yang Muzhen, Yang Qincai and Venerable Ho 
 
 Research for this essay was funded by the National Heritage Board’s Heritage Research Grant under the project titled “Mapping Female Religious Heritage in Singapore: Chinese Temples as Sites of Regional Socio-cultural Linkage” (A-0003245-00-00). The author wishes to thank the principal investigator of the project Dr Show Ying Ruo from the Asia Research Institute, National University of Singapore, for her guidance and comments on an early draft of this essay.
 
+<span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba; display:block; font-size:1rem; line-height:1.5rem;">
 HAI INN SEE’S SOON KUEH RECIPE
 
 Filling
@@ -112,7 +113,8 @@ Method
 6. Add in boiling water and stir the mixture constantly with a wooden ladle till well combined.
 7. Mix in oil before using hands to knead the dough till smooth.
 8. Divide the dough into smaller balls of equal portions. Flatten each ball of dough into a round disc to wrap a portion of the filling. Grease a steaming plate with oil before placing the soon kueh on it. Once the water starts to boil in the steamer, steam the soon kueh for about 10 minutes. After steaming, lightly brush the soon kueh with oil.
-
+</span>
+	
 <div style="background-color: white;">
 <br/>
 <img src="/images/Vol%2018%20Issue%201/Authors/Alex_Teoh.png" style="width: 100px; height: 100px;"/>
