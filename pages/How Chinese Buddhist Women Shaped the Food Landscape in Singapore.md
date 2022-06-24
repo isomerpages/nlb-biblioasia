@@ -5,8 +5,8 @@ description: ""
 ---
 #### Women who practised a particular form of Buddhism set up popular vegetarian restaurants in the 1940s and 50s that met the needs of local Buddhists and also helped promote vegetarianism. By **Kelvin Tan**
 
-![](/images/Vol%2018%20Issue%201/Rubber%20Latex%20Paper/covers_editted.png)
-<div style="background-color: white;">Titles published by the Malay States Information Agency/Malayan Information Agency and printed on rubber latex paper. (Left to right) <i> Images reproduced from Eric MacFadyen, Rubber Planting in Malaya (London: Malay States Information Agency, 1924). (Not available in NLB holdings); Sport and Motoring in Malaya (London: Malay States Information Agency, 1924). (Not available in  NLB holdings); British Malaya: General Description of the Country and Life Therein (London: Malayan Information Agency, 1929). (Not available in NLB holdings)</i></div>
+![](/images/Vol%2018%20Issue%201/Chinese%20Buddhist%20Women/Chinese%20Buddhist%20Women%20-%20Image%201.png)
+<div style="background-color: white;">Venerable Ho Yuen Hoe, abbess of Lin Chee Cheng Sia temple. Image reproduced from Shi Chin Yam, Top 100 Vegetarian Delights (Singapore: Man Fut Tong Old People’s Home, 1998). (From National Library, Singapore, call no. RSING 641.5636 SHI).</div>
 
 Impossible meatballs, oat-milk lattes and tempeh burgers. Whether it is from a desire to reduce their carbon footprint, improve their health or to avoid killing animals, more and more people around the world have started exploring a meat-free lifestyle.
 
@@ -31,6 +31,9 @@ Located at 25 Tanjong Pagar Road, Loke Woh Yuen was well known among the Chinese
 For people who wanted plant-based alternatives to meat dishes, the restaurant offered dishes such as vegetarian shark’s fin made from maize, and fish fillet made from sugar cane flowers.[^4] Vegetarian mee siam and curry were available on weekends.[^5]
 
 Loke Woh Yuen was entirely staffed by women, from the waiters to the cashiers and the cook. The restaurant operated for over six decades before the shutters came down for the last time in 2010.
+
+![](/images/Vol%2018%20Issue%201/Chinese%20Buddhist%20Women/Chinese%20Buddhist%20Women%20-%20Image%202.png)
+<div style="background-color: white;">Fut Sai Kai Vegetarian Restaurant (extreme right) was one of the pioneers in Chinese vegetarian food in Singapore. Pictured on the right is the founder Ko Tian-gu. Image reproduced from 善华 [Shan Hua], 本与佛教有深厚渊源而今随时代的进步 有益健康素食渐在我国流行 [“Singapore and Buddhism Have Strong Ties and Evolve with the Times. Healthy Vegetarian Food Is Becoming Popular in Singapore”], 新明日报 [Shinmin Daily News], 11 August 1980, 5. (From NewspaperSG).</div>
 
 The food served at Loke Woh Yuen was known to be tasty. Writing for the Singapore Monitor, Violet Oon wrote about her experience eating a 10-course vegetarian banquet priced at $150. For those new to Chinese vegetarian food, Oon recommended the dish of loh mei or “mixed meats”, as it “truly represents the spirit of eating vegetarian style”. She also liked the mixed cold items with its “artful simulation of mock oysters”.
 
