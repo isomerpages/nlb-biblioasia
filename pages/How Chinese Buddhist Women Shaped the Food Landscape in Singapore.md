@@ -128,7 +128,7 @@ Half tablespoon sugar<br>
 7. Mix in oil before using hands to knead the dough till smooth.
 8. Divide the dough into smaller balls of equal portions. Flatten each ball of dough into a round disc to wrap a portion of the filling. Grease a steaming plate with oil before placing the <i>soon kueh</i> on it. Once the water starts to boil in the steamer, steam the <i>soon kueh</i> for about 10 minutes. After steaming, lightly brush the <i>soon kueh</i> with oil.
 <br><br>
-<i>Soon kueh</i> recipe reproduced from 海印古寺90周年特輯 [Haiingu Temple 90th Anniversary Special], Singapore: Hai Inn Temple, 2018, p. 145.
+<i>Soon kueh</i> recipe reproduced from 海印古寺90周年特輯 [<i>Haiingu Temple 90th Anniversary Special</i>], Singapore: Hai Inn Temple, 2018, p. 145.
 </div>
 	
 <div style="background-color: white;">
