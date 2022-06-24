@@ -89,8 +89,7 @@ In many ways, women like Jian Daxian, Yang Muzhen, Yang Qincai and Venerable Ho 
 Research for this essay was funded by the National Heritage Board’s Heritage Research Grant under the project titled “Mapping Female Religious Heritage in Singapore: Chinese Temples as Sites of Regional Socio-cultural Linkage” (A-0003245-00-00). The author wishes to thank the principal investigator of the project Dr Show Ying Ruo from the Asia Research Institute, National University of Singapore, for her guidance and comments on an early draft of this essay.
 
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba; display:block; font-size:1rem; line-height:1.5rem;">
-HAI INN SEE’S SOON KUEH RECIPE
-<br><br>
+HAI INN SEE’S SOON KUEH RECIPE<br><br>
 Filling<br>
 500 g dried mushrooms, soaked<br>
 1 kg bamboo shoot<br>
@@ -100,16 +99,14 @@ Filling<br>
 2 tablespoons oil<br>
 1 tablespoon salt<br>
 1 tablespoon pepper<br>
-A dash of sesame oil
-<br><br>
+A dash of sesame oil<br><br>
 Dough skin<br>
 600 g wheat starch<br>
 300 g tapioca flour<br>
 Half tablespoon salt<br>
 Half tablespoon sugar<br>
 1200 ml boiling water<br>
-4 tablespoons oil
-<br><br>
+4 tablespoons oil<br><br>
 Method<br>
 1. Prepare the filling: Shred mushrooms, bamboo shoots, turnips, firm beancurd and sweetened beancurd sticks.<br>
 2. Heat oil in a wok and fry mushrooms till fragrant.<br>
