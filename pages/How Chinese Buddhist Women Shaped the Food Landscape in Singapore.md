@@ -32,7 +32,7 @@ For people who wanted plant-based alternatives to meat dishes, the restaurant of
 
 Loke Woh Yuen was entirely staffed by women, from the waiters to the cashiers and the cook. The restaurant operated for over six decades before the shutters came down for the last time in 2010.
 
-![](/images/Vol%2018%20Issue%201/Chinese%20Buddhist%20Women/Chinese%20Buddhist%20Women%20-%20Image%202.png)
+![](/images/Vol%2018%20Issue%201/Chinese%20Buddhist%20Women/Chinese%20Buddhist%20Women%20-%20Image%207.png)
 <div style="background-color: white;">Fut Sai Kai Vegetarian Restaurant (extreme right) was one of the pioneers in Chinese vegetarian food in Singapore. Pictured on the right is the founder Ko Tian-gu. Image reproduced from 善华 [Shan Hua], 本与佛教有深厚渊源而今随时代的进步 有益健康素食渐在我国流行 [“Singapore and Buddhism Have Strong Ties and Evolve with the Times. Healthy Vegetarian Food Is Becoming Popular in Singapore”], 新明日报 [Shinmin Daily News], 11 August 1980, 5. (From NewspaperSG).</div>
 
 The food served at Loke Woh Yuen was known to be tasty. Writing for the Singapore Monitor, Violet Oon wrote about her experience eating a 10-course vegetarian banquet priced at $150. For those new to Chinese vegetarian food, Oon recommended the dish of loh mei or “mixed meats”, as it “truly represents the spirit of eating vegetarian style”. She also liked the mixed cold items with its “artful simulation of mock oysters”.
