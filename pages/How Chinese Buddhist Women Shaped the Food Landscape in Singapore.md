@@ -95,7 +95,9 @@ In many ways, women like Jian Daxian, Yang Muzhen, Yang Qincai and Venerable Ho 
 Research for this essay was funded by the National Heritage Board’s Heritage Research Grant under the project titled “Mapping Female Religious Heritage in Singapore: Chinese Temples as Sites of Regional Socio-cultural Linkage” (A-0003245-00-00). The author wishes to thank the principal investigator of the project Dr Show Ying Ruo from the Asia Research Institute, National University of Singapore, for her guidance and comments on an early draft of this essay.
 
 <div style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba; display:block; font-size:1rem; line-height:1.5rem;">
-<img src="/images/Vol%2018%20Issue%201/Chinese%20Buddhist%20Women/Chinese%20Buddhist%20Women%20-%20Image%206.png">
+<img src="/images/Vol%2018%20Issue%201/Chinese%20Buddhist%20Women/Chinese%20Buddhist%20Women%20-%20Image%208.png">
+The vegetarian soon kueh of Hai Inn See and an undated portrait of Abbess Yang Qincai. Images reproduced from 海印古寺90周年特輯 [Haiingu Temple 90th Anniversary Special] (Singapore: Hai Inn Temple, 2018), 143, 144.
+<br><br>
 HAI INN SEE’S SOON KUEH RECIPE
 <br><br>
 Filling<br>
