@@ -80,6 +80,38 @@ During Jian’s time at Tse Tho Aum, the temple developed a reputation for its t
 
 In many ways, women like Jian Daxian, Yang Muzhen, Yang Qincai and Venerable Ho Yuen Hoe were ahead of their time. Today, the vegetarian is spoiled for choice in Singapore. Apart from the mainstay of Indian and Chinese vegetarian restaurants, there are vegetarian eateries offering Indonesian, Peranakan, Korean, Japanese and Vietnamese cuisine. Most food courts, coffeeshops and hawker centres will also have at least one vegetarian food stall. Loke Woh Yuen, Fut Sai Kai and Bodhi Lin may have faded
 
+Research for this essay was funded by the National Heritage Board’s Heritage Research Grant under the project titled “Mapping Female Religious Heritage in Singapore: Chinese Temples as Sites of Regional Socio-cultural Linkage” (A-0003245-00-00). The author wishes to thank the principal investigator of the project Dr Show Ying Ruo from the Asia Research Institute, National University of Singapore, for her guidance and comments on an early draft of this essay.
+
+HAI INN SEE’S SOON KUEH RECIPE
+
+Filling
+500 g dried mushrooms, soaked
+1 kg bamboo shoot
+1 kg turnip
+2 pieces firm beancurd
+100 g sweetened beancurd sticks
+2 tablespoons oil
+1 tablespoon salt
+1 tablespoon pepper
+A dash of sesame oil
+
+Dough skin
+600 g wheat starch
+300 g tapioca flour
+Half tablespoon salt
+Half tablespoon sugar
+1200 ml boiling water
+4 tablespoons oil
+
+Method
+1. Prepare the filling: Shred mushrooms, bamboo shoots, turnips, firm beancurd and sweetened beancurd sticks.
+2. Heat oil in a wok and fry mushrooms till fragrant.
+3. Add in bamboo shoots and turnips. Fry to mix well. Add in salt and pepper to taste.
+4. Finally, mix in firm beancurd and sweetened beancurd sticks. Just before dishing the mixture out from the wok, drizzle a dash of sesame oil over the mixture. Set the mixture aside on a large plate to cool.
+5. Prepare the dough skin: On a large plate, combine wheat starch, tapioca flour, salt and sugar.
+6. Add in boiling water and stir the mixture constantly with a wooden ladle till well combined.
+7. Mix in oil before using hands to knead the dough till smooth.
+8. Divide the dough into smaller balls of equal portions. Flatten each ball of dough into a round disc to wrap a portion of the filling. Grease a steaming plate with oil before placing the soon kueh on it. Once the water starts to boil in the steamer, steam the soon kueh for about 10 minutes. After steaming, lightly brush the soon kueh with oil.
 
 <div style="background-color: white;">
 <br/>
