@@ -6,7 +6,7 @@ description: ""
 #### Women who practised a particular form of Buddhism set up popular vegetarian restaurants in the 1940s and 50s that met the needs of local Buddhists and also helped promote vegetarianism. By **Kelvin Tan**
 
 ![](/images/Vol%2018%20Issue%201/Chinese%20Buddhist%20Women/Chinese%20Buddhist%20Women%20-%20Image%201.png)
-<div style="background-color: white;">Venerable Ho Yuen Hoe, abbess of Lin Chee Cheng Sia temple. Image reproduced from Shi Chin Yam, Top 100 Vegetarian Delights (Singapore: Man Fut Tong Old People’s Home, 1998). (From National Library, Singapore, call no. RSING 641.5636 SHI).</div>
+<div style="background-color: white;">Venerable Ho Yuen Hoe, abbess of Lin Chee Cheng Sia temple. <i>Image reproduced from Shi Chin Yam, Top 100 Vegetarian Delights (Singapore: Man Fut Tong Old People’s Home, 1998). (From National Library, Singapore, call no. RSING 641.5636 SHI).</i></div>
 
 Impossible meatballs, oat-milk lattes and tempeh burgers. Whether it is from a desire to reduce their carbon footprint, improve their health or to avoid killing animals, more and more people around the world have started exploring a meat-free lifestyle.
 
@@ -70,7 +70,7 @@ Like Loke Woh Yuen, the restaurant was also popular among non-Chinese and non-Bu
 The food at Fut Sai Kai often received good reviews. Writing for the *New Nation* in 1972, Wendy Hutton was all praise for the corn soup. “I found the rather nutty, cereal flavour most enjoyable, and filled my soup bowl several times,” she said. For her, the highlight of the meal were the sugar cane flowers. “We all speculated as to whether we were eating genuine flowers, but since I’ve eaten such things as banana flower and candied violets in the past, I imagine the sugar cane flowers were authentic. A rather soft, fleshy morsel was buried inside a thick ball of butter and deep fried. Eaten with a sweet sauce, it was marvellous,” she added.[^22]
 
 ![](/images/Vol%2018%20Issue%201/Chinese%20Buddhist%20Women/Chinese%20Buddhist%20Women%20-%20Image%205.png)
-<div style="background-color: white;">Vegetarian food blogger Luke Otter first broke the news of the closure of Fut Sai Kai Vegetarian Restaurant on 25 August 2017. Image reproduced from “Zen Fut Sai Kai, One of Singapore’s Oldest Chinese Vegetarian Restaurants, Closes After 64 Years,” Straits Times, 4 September 2017.</div>
+<div style="background-color: white;">Vegetarian food blogger Luke Otter first broke the news of the closure of Fut Sai Kai Vegetarian Restaurant on 25 August 2017. <i>Image reproduced from “Zen Fut Sai Kai, One of Singapore’s Oldest Chinese Vegetarian Restaurants, Closes After 64 Years,” Straits Times, 4 September 2017.</i></div>
 
 The restaurant operated for 64 years before closing in 2017. Its closure was important enough to have warranted a news story in the *Straits Times*. According to the article, the owner of the restaurant had died earlier that year and the family decided to close the restaurant as there was no one to take over the cooking.[^23]
 
