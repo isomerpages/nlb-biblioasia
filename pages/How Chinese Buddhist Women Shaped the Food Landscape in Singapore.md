@@ -57,7 +57,7 @@ For the event, Taoyuan Fut Tong prepared the food, while staff from Bodhi Lin se
 Bodhi Lin celebrated its 18th anniversary in 1972 and in a newspaper article of the period, the restaurant was described as one of the most famous vegetarian restaurants in Singapore.[^15] In particular, it was known for its vegetarian mooncakes, which were so famous that it even attracted customers from Malaysia.[^16] Bodhi Lin subsequently shuttered, but when this happened requires additional research.
 
 ![](/images/Vol%2018%20Issue%201/Chinese%20Buddhist%20Women/Chinese%20Buddhist%20Women%20-%20Image%207.png)
-<div style="background-color: white;">Fut Sai Kai Vegetarian Restaurant (extreme right) was one of the pioneers in Chinese vegetarian food in Singapore. Pictured on the right is the founder Ko Tian-gu. Image reproduced from 善华 [Shan Hua], 本与佛教有深厚渊源而今随时代的进步 有益健康素食渐在我国流行 [“Singapore and Buddhism Have Strong Ties and Evolve with the Times. Healthy Vegetarian Food Is Becoming Popular in Singapore”], 新明日报 [Shinmin Daily News], 11 August 1980, 5. (From NewspaperSG).</div>
+<div style="background-color: white;">Fut Sai Kai Vegetarian Restaurant (extreme right) was one of the pioneers in Chinese vegetarian food in Singapore. Pictured on the right is the founder Ko Tian-gu. <i>Image reproduced from 善华 [Shan Hua], 本与佛教有深厚渊源而今随时代的进步 有益健康素食渐在我国流行 [“Singapore and Buddhism Have Strong Ties and Evolve with the Times. Healthy Vegetarian Food Is Becoming Popular in Singapore”], 新明日报 [Shinmin Daily News], 11 August 1980, 5. (From NewspaperSG).</i></div>
 
 The third establishment set up by these women was Fut Sai Kai Vegetarian Restaurant. Set in an “unpretentious shophouse but with much more character than the average coffeeshop”,[^17] the restaurant was founded in 1953 by Ko Tian-gu (高添姑) and run by several vegetarian nuns.
 
@@ -96,7 +96,7 @@ In many ways, women like Jian Daxian, Yang Muzhen, Yang Qincai and Venerable Ho 
 
 <div style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba; display:block; font-size:1rem; line-height:1.5rem;">
 <img src="/images/Vol%2018%20Issue%201/Chinese%20Buddhist%20Women/Chinese%20Buddhist%20Women%20-%20Image%208.png">
-The vegetarian soon kueh of Hai Inn See and an undated portrait of Abbess Yang Qincai. Images reproduced from 海印古寺90周年特輯 [Haiingu Temple 90th Anniversary Special] (Singapore: Hai Inn Temple, 2018), 143, 144.
+The vegetarian <i>soon kueh</i> of Hai Inn See and an undated portrait of Abbess Yang Qincai. <i>Images reproduced from 海印古寺90周年特輯 [Haiingu Temple 90th Anniversary Special] (Singapore: Hai Inn Temple, 2018), 143, 144.</i>
 <br><br>
 <b>HAI INN SEE’S SOON KUEH RECIPE</b>
 <br><br>
@@ -126,9 +126,9 @@ Half tablespoon sugar<br>
 5. Prepare the dough skin: On a large plate, combine wheat starch, tapioca flour, salt and sugar.<br>
 6. Add in boiling water and stir the mixture constantly with a wooden ladle till well combined.<br>
 7. Mix in oil before using hands to knead the dough till smooth.
-8. Divide the dough into smaller balls of equal portions. Flatten each ball of dough into a round disc to wrap a portion of the filling. Grease a steaming plate with oil before placing the soon kueh on it. Once the water starts to boil in the steamer, steam the soon kueh for about 10 minutes. After steaming, lightly brush the soon kueh with oil.
+8. Divide the dough into smaller balls of equal portions. Flatten each ball of dough into a round disc to wrap a portion of the filling. Grease a steaming plate with oil before placing the <i>soon kueh</i> on it. Once the water starts to boil in the steamer, steam the <i>soon kueh</i> for about 10 minutes. After steaming, lightly brush the <i>soon kueh</i> with oil.
 <br><br>
-Soon kueh recipe reproduced from 海印古寺90周年特輯 [Haiingu Temple 90th Anniversary Special], Singapore: Hai Inn Temple, 2018, p. 145.
+<i>Soon kueh</i> recipe reproduced from 海印古寺90周年特輯 [Haiingu Temple 90th Anniversary Special], Singapore: Hai Inn Temple, 2018, p. 145.
 </div>
 	
 <div style="background-color: white;">
