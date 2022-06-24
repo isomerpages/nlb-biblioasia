@@ -84,33 +84,33 @@ Research for this essay was funded by the National Heritage Board’s Heritage R
 
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba; display:block; font-size:1rem; line-height:1.5rem;">
 HAI INN SEE’S SOON KUEH RECIPE
-
-Filling
-500 g dried mushrooms, soaked
-1 kg bamboo shoot
-1 kg turnip
-2 pieces firm beancurd
-100 g sweetened beancurd sticks
-2 tablespoons oil
-1 tablespoon salt
-1 tablespoon pepper
+<br><br>
+Filling<br>
+500 g dried mushrooms, soaked<br>
+1 kg bamboo shoot<br>
+1 kg turnip<br>
+2 pieces firm beancurd<br>
+100 g sweetened beancurd sticks<br>
+2 tablespoons oil<br>
+1 tablespoon salt<br>
+1 tablespoon pepper<br>
 A dash of sesame oil
-
-Dough skin
-600 g wheat starch
-300 g tapioca flour
-Half tablespoon salt
-Half tablespoon sugar
-1200 ml boiling water
+<br><br>
+Dough skin<br>
+600 g wheat starch<br>
+300 g tapioca flour<br>
+Half tablespoon salt<br>
+Half tablespoon sugar<br>
+1200 ml boiling water<br>
 4 tablespoons oil
-
-Method
-1. Prepare the filling: Shred mushrooms, bamboo shoots, turnips, firm beancurd and sweetened beancurd sticks.
-2. Heat oil in a wok and fry mushrooms till fragrant.
-3. Add in bamboo shoots and turnips. Fry to mix well. Add in salt and pepper to taste.
-4. Finally, mix in firm beancurd and sweetened beancurd sticks. Just before dishing the mixture out from the wok, drizzle a dash of sesame oil over the mixture. Set the mixture aside on a large plate to cool.
-5. Prepare the dough skin: On a large plate, combine wheat starch, tapioca flour, salt and sugar.
-6. Add in boiling water and stir the mixture constantly with a wooden ladle till well combined.
+<br><br>
+Method<br>
+1. Prepare the filling: Shred mushrooms, bamboo shoots, turnips, firm beancurd and sweetened beancurd sticks.<br>
+2. Heat oil in a wok and fry mushrooms till fragrant.<br>
+3. Add in bamboo shoots and turnips. Fry to mix well. Add in salt and pepper to taste.<br>
+4. Finally, mix in firm beancurd and sweetened beancurd sticks. Just before dishing the mixture out from the wok, drizzle a dash of sesame oil over the mixture. Set the mixture aside on a large plate to cool.<br>
+5. Prepare the dough skin: On a large plate, combine wheat starch, tapioca flour, salt and sugar.<br>
+6. Add in boiling water and stir the mixture constantly with a wooden ladle till well combined.<br>
 7. Mix in oil before using hands to knead the dough till smooth.
 8. Divide the dough into smaller balls of equal portions. Flatten each ball of dough into a round disc to wrap a portion of the filling. Grease a steaming plate with oil before placing the soon kueh on it. Once the water starts to boil in the steamer, steam the soon kueh for about 10 minutes. After steaming, lightly brush the soon kueh with oil.</span>
 	
