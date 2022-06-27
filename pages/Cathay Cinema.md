@@ -7,6 +7,9 @@ description: ""
  
 The 16-storey Cathay Building was the first skyscraper and was once the tallest building in Singapore, at 70 m. Located at the foot of Mount Sophia in the Dhoby Ghaut area, the building used to house the Cathay Hotel, Cathay Restaurant and Cathay cinema, which was one of Singapore’s oldest cinemas.[^1]
 ![Cathay Building 1941](/images/Cathay/Cathay-1941.jpg)
+<div style="background-color: white;">Venerable Ho Yuen Hoe, abbess of Lin Chee Cheng Sia temple. <i>Image reproduced from Shi Chin Yam, Top 100 Vegetarian Delights (Singapore: Man Fut Tong Old People’s Home, 1998). (From National Library, Singapore, call no. RSING 641.5636 SHI).</i></div>
+
+
 
 The 1,321-seat cinema opened on 3 October 1939, while the Cathay Restaurant opened in 1940 and the apartment block in 1941. [^2]
 
