@@ -34,6 +34,9 @@ The daytime programme of Radio Syonan usually has Japanese lessons and songs for
 #### Headquarters for SACSEA
 After the war, the Cathay Building became the headquarters for Admiral Louis Mountbatten, Supreme Allied Commander of Southeast Asia (SACSEA), from November 1945 to November 1946. The colonial government occupied six floors of the building. To commemorate the setting up of the SACSEA headquarters, Mountbatten presented a brass plaque to Mrs Loke Yew and Mr Loke Wan Tho, owners of Cathay Building.[^7]
 
+![](/images/Cathay/plague-loke-yew-loke-wan-tho.jpg)
+<div style="background-color: white;">Left to right: Brass plaque with the logo of SACSEA (Singapore Broadcasting Corporation Collection, courtesy of National Archives of Singapore); Mrs Loke Yew (Sir Percy McNeice Collection, courtesy of National Archives of Singapore); Mr Loke Wan Tho (Sir Percy McNeice Collection, courtesy of National Archives of Singapore).</div>
+
 #### Civilian Use of the Building
 The cinema reopened in September 1945, but it was only in February 1949 that the colonial government vacated the building and Cathay Organisation regained full control. On 9 January 1954, Cathay Hotel started operations until 30 December 1970. After that, the space was converted into offices. [^8]  
 
