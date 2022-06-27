@@ -50,15 +50,16 @@ From the 1960s to 1990s, the building underwent various redevelopments, such as 
 
 In 1999, Cathay Organisation put up a S$100-million plan to redevelop Cathay Building. Before the plan was approved by the Urban Redevelopment Authority, the Preservation of Monuments Board (now known as the Preservation of Sites and Monuments) identified Cathay Building as a possible landmark for preservation because of its history, especially during WWII.[^10] The cinemas in Cathay Building closed on 30 June 2000. 
 
-By then, the National Heritage Board had erected a WWII plaque outside the building. [^11] 
-On 10 February 2003, Cathay Building was gazetted as a national monument.
-The art deco facade of the building was preserved, with its geometric forms and curved, stepped walls, and with the name displayed vertically. 
+By then, the National Heritage Board had erected a WWII plaque outside the building.[^11] 
+
+#### National Monument
+On 10 February 2003, Cathay Building was gazetted as a national monument. The art deco facade of the building was preserved, with its geometric forms and curved, stepped walls, and with the name displayed vertically. 
 
 The rest of the building was redeveloped, and the original brown-tiled façade was incorporated into modern glass architecture.[^12].
 
  In 2006, The Cathay reopened with as a shopping mall and an eight-hall multiplex –  including Picturehouse, which had first opened in 1990 to feature art films.[^13]
 
-The Cathay Cinema ceased operations on 27 June 2022. The last movie to be screened was Top Gun: Maverick [^14]
+The Cathay Cinema ceased operations on 27 June 2022. The last movie to be screened was *Top Gun: Maverick*.[^14]
 
 
 #### **NOTES**
