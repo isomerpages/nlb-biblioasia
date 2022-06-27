@@ -3,13 +3,13 @@ title: Cathay Cinema
 permalink: /cathay-cinema-oldest
 description: ""
 ---
-### A Cinema in a National Monument
- 
-The 16-storey Cathay Building was the first skyscraper and was once the tallest building in Singapore, at 70 m. Located at the foot of Mount Sophia in the Dhoby Ghaut area, the building used to house the Cathay Hotel, Cathay Restaurant and Cathay cinema, which was one of Singapore’s oldest cinemas.[^1]
+#### The First Skyscraper in Singapore
+The 16-storey Cathay Building was once the tallest building in Singapore, at 70 m. Located at the foot of Mount Sophia in the Dhoby Ghaut area, the building used to house the Cathay Hotel, Cathay Restaurant and Cathay cinema, which was one of Singapore’s oldest cinemas.[^1]
 ![Cathay Building 1941](/images/Cathay/Cathay-1941.jpg)
 <div style="background-color: white;">Cathay Building, 1941. From PictureSG. Original work © Chung Shui Ken; digital copy © National Library Board Singapore 2008.</div>
 
 
+![Cathay Building 1941](/images/vol-11-issue-1/moviememorabilia/cathay.jpg)
 
 The 1,321-seat cinema opened on 3 October 1939, while the Cathay Restaurant opened in 1940 and the apartment block in 1941. [^2]
 
