@@ -63,3 +63,4 @@ The Cathay Cinema ceased operations on 27 June 2022. The last movie to be screen
 
 
 #### **NOTES**
+[^1] Kelvin Tong, “[Akan Datang: Cathay’s New Home](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20000404.2.82.5.1.aspx),” _Straits Times_, 4 April 2000, 4; “[Cathay Building and YMCA Orchard Had a Grim Past](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19950731.2.30.8.aspx),” _Straits Times_, 31 July 1995, 20; “[I Built Highest, He Says](https://safe.menlosecurity.com/https:/eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19531231-1.2.144),” _Straits Times_, 31 December 1953, 7 (From NewspaperSG); David Brazil, [_Street Smart: Singapore_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=5796453) (Singapore: Times Books International, 1991), 128. (Call no. RSING 959.57 BRA-\[HIS\])
