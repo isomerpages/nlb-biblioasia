@@ -8,9 +8,9 @@ The 16-storey Cathay Building was once the tallest building in Singapore, at 70 
 ![Cathay Building 1941](/images/Cathay/Cathay-1941.jpg)
 <div style="background-color: white;">Cathay Building, 1941. From PictureSG. Original work © Chung Shui Ken; digital copy © National Library Board Singapore 2008.</div>
 
+<img src="/images/vol-11-issue-1/moviememorabilia/cathay.jpg" width="50%" >
 
-![Cathay Building 1941](/images/vol-11-issue-1/moviememorabilia/cathay.jpg)
-
+ 
 The 1,321-seat cinema opened on 3 October 1939, while the Cathay Restaurant opened in 1940 and the apartment block in 1941. [^2]
 
 The theatre was opulent, with black marble pillars, green-tiled floors, silver curtains, and gold ceilings. On either side of the screen was the shell-shaped acoustic plaster design.[^3] 
