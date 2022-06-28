@@ -141,7 +141,7 @@ Half tablespoon sugar<br>
 
 [^1]: Show Ying Ruo, “Virtuous Women on the Move: Minnan Vegetarian Women (Caigu) and Chinese Buddhism in Twentieth-century Singapore,” 華人宗教研究 [*Studies in Chinese Religions*] 17 (2021): 138, 167–68, https://www.academia.edu/46956207/Virtuous_Women_on_the_Move_Minnan_Vegetarian_Women_caigu_and_Chinese_Buddhism_in_Twentieth_Century_Singapore.
 
-[^2]: 许源泰 [Xu Yuantai], [沿革与模式: 新加坡道教和佛教传播研究](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=200143459) [*History and Model: Research on the Spread of Taoism and Buddhism in Singapore*] (Singapore: 新加坡国立大学中文系, 2013). (From National Library, Singapore, call no. RSING 294.3095957 XYT)
+[^2]: 许源泰 [Xu Yuantai], [沿革与模式: 新加坡道教和佛教传播研究](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=200143459) [*Evolution and Model: The Propagation of Taoism and Buddhism in Singapore*] (Singapore: 新加坡国立大学中文系, 2013). (From National Library, Singapore, call no. RSING 294.3095957 XYT)
 
 [^3]: Violet Oon, “[Vegetarian Food for All](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19840826-1.2.43.2),” *Singapore Monitor*, 26 August 1984, 1. (From NewspaperSG)
 
