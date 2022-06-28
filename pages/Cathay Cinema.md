@@ -19,7 +19,7 @@ The 1,321-seat cinema opened on 3 October 1939, while the Cathay Restaurant open
 The theatre was opulent, with black marble pillars, green-tiled floors, silver curtains, and gold ceilings. On either side of the screen was the shell-shaped acoustic plaster design.[^3] 
 
 #### Opening Film
-Cathay was the first cinema with air-conditioning in Singapore. Its opening film was Four Feathers, a British adventure movie about the war in Sudan that was previously banned in Singapore on racial grounds.[^4] 
+The opening film was *Four Feathers*, a British adventure movie about the war in Sudan that was previously banned in Singapore on racial grounds.[^4] 
 
 <img src="/images/Cathay/1939-four-feathers.jpg" style="width:60%" >
 <div style="background-color: white;">Advertisement of the opening film of the “air-cooled luxury” of Cathay cinema.Image reproduced from <i>Malaya Tribune</i>, 26 September 1939, 3.</div>
