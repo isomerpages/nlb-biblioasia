@@ -3,7 +3,6 @@ title: How Chinese Buddhist Women Shaped the Food Landscape in Singapore
 permalink: /vol-18/issue-1/apr-to-jun-2022/buddhist-women-vegetarian-food-singapore
 description: ""
 ---
-
 #### Women who practised a particular form of Buddhism set up popular vegetarian restaurants in the 1940s and 50s that met the needs of local Buddhists and also helped promote vegetarianism. By **Kelvin Tan**
 
 ![](/images/Vol%2018%20Issue%201/Chinese%20Buddhist%20Women/Chinese%20Buddhist%20Women%20-%20Image%201.png)
@@ -23,7 +22,7 @@ These women, in general, were opposed to animal slaughter and believed that a ve
 
 In the late 1940s and 1950s, there were at least three Chinese vegetarian restaurants in Singapore founded and managed by these Chinese Buddhist women: Loke Woh Yuen Vegetarian Restaurant (六和园素食馆), Fut Sai Kai Vegetarian Restaurant (佛世界素食社) and Bodhi Lin Vegetarian Restaurant (菩提林素食馆).
 
-![](/images/Vol%2018%20Issue%201/Chinese%20Buddhist%20Women/Chinese%20Buddhist%20Women%20-%20Image%204.png)
+![](/images/Vol%2018%20Issue%201/Chinese%20Buddhist%20Women/Chinese%20Buddhist%20Women%20-%20Image%2010.png)
 <div style="background-color: white;">(Top photo) Loke Woh Yuen in 1991 with its current owners. Pictured here are (from left) Venerable Xingjing (性静法师), Venerable Zhishun (智顺法师) and Seck Seng Cheng (贤贞法师), disciples of the original founders. (Bottom photo) A vegetarian meal gathering of the original founders of Loke Woh Yuen in 1984. Seated at the table are Venerable Dajian (达坚法师; 3rd from left), Venerable Huicheng (慧成法师; 4th from left) and chief cook Mdm Wong Sin Fung (黄风仙; 1st from right), all of whom worked closely with Jian Daxian and had passed on by the time the newspaper report was published in 1991. Image reproduced from 区如柏 [Ou Rubo], 素菜馆“老大”接搬迁令 六和园临别依依 [“The ‘Master’ of Vegetarian Restaurants Receives Relocation Orders, Loke Woh Yuen Bids a Reluctant Farewell”], 联合早报 [Lianhe Zaobao], 6 October 1991, 42. (From NewspaperSG).</div>
 
 Loke Woh Yuen was established in 1946 by a close group of five women, including Jian Daxian (简达贤居士), later known as Venerable Huiping (慧平法师). (She later founded the Tse Tho Aum Temple [自度庵] in Changi, which has since moved to Sin Ming Drive).
