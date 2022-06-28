@@ -58,6 +58,9 @@ In 1999, Cathay Organisation put up a S$100-million plan to redevelop Cathay Bui
 
 By then, the National Heritage Board had erected a WWII plaque outside the building.[^11] 
 
+ ![cathay world war 2 plaque](/images/Cathay/cathay%20world%20war%202%20plaque.jpg)
+ <div style="background-color: white;">WWII plaque outside Cathay cinema, 1995–99. Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</div>
+ 
 #### National Monument
 On 10 February 2003, Cathay Building was gazetted as a national monument. The art deco facade of the building was preserved, with its geometric forms and curved, stepped walls, and with the name displayed vertically. 
 
