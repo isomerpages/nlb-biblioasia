@@ -43,6 +43,9 @@ After the war, the Cathay Building became the headquarters for Admiral Louis Mou
 #### Civilian Use of the Building
 The cinema reopened in September 1945, but it was only in February 1949 that the colonial government vacated the building and Cathay Organisation regained full control. On 9 January 1954, Cathay Hotel started operations until 30 December 1970. After that, the space was converted into offices. [^8]  
 
+![loke 1948 cathay](/images/Cathay/cathay-1948.jpg)
+<div style="background-color: white;">Image reproduced from “Loke Demands Release of Cathay,”<i>Straits Times</i>, 11 January 1948, 3. </div>
+
 #### Redevelopment
 From the 1960s to 1990s, the building underwent various redevelopments, such as the expansion of the cinema from a single-screen to a multiplex in 1992.[^9]
 
