@@ -4,7 +4,7 @@ permalink: /cathay-cinema-2022
 description: ""
 image: /images/Cathay/Cathay-1941.jpg
 ---
-#### One of the oldest cinemas in Singapore, the Cathay Cineplex at Handy Road  shut down in June 2022, because of financial reasons. It was part of the Cathay Building, a national monument. Here's a look at the Cathay Building and cinema over the years. By **Soh Gek Han**
+#### One of the oldest cinemas in Singapore, the Cathay Cineplex at Handy Road  shut down in June 2022, because of financial reasons. It was part of Cathay Building, a national monument built in the 1930s. Here's a look at the Cathay Building and cinema over the years.  
 
 
 #### The First Skyscraper in Singapore
