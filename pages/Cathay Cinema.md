@@ -26,7 +26,7 @@ The opening film was *Four Feathers*, a British adventure movie about the war in
 In 1941, Cathay Building was rented to the colonial government and the Malayan Broadcasting Corporation.
 
 <img src="/images/Cathay/Cathay-1941.jpg">
-<div style="background-color: white;">Cathay Building, 1941. From PictureSG. Original work © Chung Shui Ken; digital copy © National Library Board Singapore 2008.</div>
+<div style="background-color: white;">Cathay Building, 1941. <i>Chung Shui Ken Collection, PictureSG, National Library, Singapore</i></div>
 
 
 After Singapore fell to the Japanese in 1942, the building became home to the Japanese broadcasting and propaganda Departments. The broadcasting department began transmissions of Radio Syonan from Cathay building in March 1942. The programme was printed in the newspaper Syonan Shimbun.[^5]
