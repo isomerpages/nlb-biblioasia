@@ -51,28 +51,28 @@ The cinema reopened in September 1945, but it was only in February 1949 that the
 #### Redevelopment
 From the 1960s to 1990s, the building underwent various redevelopments, such as the expansion of the cinema from a single-screen to a multiplex in 1992.[^9]
 
-<img src="/images/Cathay/Cathay-1965.jpg" style="width:80%" >
-<div style="background-color: white;">Cathay Building, 1965. From PictureSG. All rights reserved. David Barker, 1965.</div>
-
-
-In 1999, Cathay Organisation put up a S$100-million plan to redevelop Cathay Building. Before the plan was approved by the Urban Redevelopment Authority, the Preservation of Monuments Board (now known as the Preservation of Sites and Monuments) identified Cathay Building as a possible landmark for preservation because of its history, especially during WWII.[^10] The cinemas in Cathay Building closed on 30 June 2000. 
+<img src="/images/Cathay/Cathay-1965.jpg" >
+<div style="background-color: white;">Cathay Building, 1965. <i>David Barker Collection, PictureSG, National Library, Singapore</i>.</div>
 
 In commemoration of the 50th anniversary of the end of WWII in 1995, the National Heritage Board erected a WWII plaque outside the building.[^11] 
 
  ![cathay world war 2 plaque](/images/Cathay/cathay%20world%20war%202%20plaque.jpg)
- <div style="background-color: white;">WWII plaque outside Cathay cinema, 1995–99. Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</div>
+ <div style="background-color: white;">WWII plaque outside Cathay cinema, 1995–99. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</i>.</div>
+ 
  
 #### National Monument
+ In 1999, Cathay Organisation put up a S$100-million plan to redevelop Cathay Building. Before the plan was approved by the Urban Redevelopment Authority, the Preservation of Monuments Board (now known as the Preservation of Sites and Monuments) identified Cathay Building as a possible landmark for preservation because of its history, especially during WWII.[^10] The cinemas in Cathay Building closed on 30 June 2000. 
+ 
 On 10 February 2003, Cathay Building was gazetted as a national monument. 
 
 <img src="/images/Cathay/cathay-national-monument.jpg" style="width:70%" >
-<div style="background-color: white;">A marker of history. Photo by and courtesy of Soh Gek Han.</div>
+<div style="background-color: white;">A marker of history. <i>Photo by and courtesy of Soh Gek Han</i>.</div>
 
 
 The art deco facade of the building was preserved, with its geometric forms and curved, stepped walls, and with the name displayed vertically. The rest of the building was redeveloped, and the original brown-tiled façade was incorporated into modern glass architecture.[^12].
 
 ![cathay 2006 facade](/images/Cathay/cathay%202006%20facade.jpg) 
-<div style="background-color: white;">Cathay Building, 2022. Photo by and courtesy of Soh Gek Han.</div>
+<div style="background-color: white;">Cathay Building, 2022. <i>Photo by and courtesy of Soh Gek Han</i>.</div>
 
  In 2006, The Cathay reopened with as a shopping mall and an eight-hall multiplex –  including Picturehouse, which had first opened in 1990 to feature art films.[^13]
 
