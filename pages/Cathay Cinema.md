@@ -8,7 +8,7 @@ image: /images/Cathay/Cathay-1941.jpg
 The 16-storey Cathay Building was once the tallest building in Singapore, at 70 m. Located at the foot of Mount Sophia in the Dhoby Ghaut area, the building used to house the Cathay Hotel, Cathay Restaurant and Cathay cinema, which was one of Singapore’s oldest cinemas.[^1]
 
 <img src="/images/Cathay/1937%20construction%20cathay.jpg">
-<div style="background-color: white;">Cathay Building under construction, 1937. <i>Image reproduced from Lim Kay Tong, Cathay: 55 Years of Cinema (Singapore: Landmark Books, 1991). (From National Library, Singapore, RSING 791.43095957) LIM</i> </div>
+<div style="background-color: white;">Cathay Building under construction, 1937. <i>Image reproduced from Lim Kay Tong, Cathay: 55 Years of Cinema (Singapore: Landmark Books, 1991). (From National Library, Singapore, RSING 791.43095957 LIM)</i> </div>
 
 #### Grand Opening in 1939
 The 1,321-seat cinema opened on 3 October 1939, while the Cathay Restaurant opened in 1940 and the apartment block in 1941. [^2] The theatre was opulent, with black marble pillars, green-tiled floors, silver curtains, and gold ceilings.[^3] 
