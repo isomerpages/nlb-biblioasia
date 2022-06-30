@@ -86,11 +86,11 @@ The Cathay Cinema ceased operations on 27 June 2022. The last movie to be screen
 
 [^3]: Lim Kay Tong, [*Cathay: 55 Years of Cinema*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6095688) (Singapore: Landmark Books, 1991), 15, 98 (From National Library, Singapore, Call no. RSING 791.43095957 LIM)
 
-[^4]: Lim Kay Tong, _Cathay: 55 Years of Cinema_ (Singapore: Landmark Books, 1991), 15, 98 (Call no. RSING 791.43095957 LIM); “[Cathay Cinema Opens Doors Tonight](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19391003-1.2.55),” _Singapore Free Press and Mercantile Advertiser_, 3 October 1939, 5; “['Four Feathers' Released](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19390730-1.2.123),” _Straits Times_, 30 July 1939, 13. (From NewspaperSG)
+[^4]:  Lim, [_Cathay_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6095688), 15, 98 (Call no. RSING 791.43095957 LIM); “[Cathay Cinema Opens Doors Tonight](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19391003-1.2.55),” _Singapore Free Press and Mercantile Advertiser_, 3 October 1939, 5; “['Four Feathers' Released](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19390730-1.2.123),” _Straits Times_, 30 July 1939, 13. (From NewspaperSG)
 
 [^5]: Tommy Koh et al.,* Singapore: The Encyclopedia* (Singapore : Editions Didier Millet and National Heritage Board, 2006), 37. (From National Library, Singapore, Call no. 959.57003 SIN)
 
-[^6]: Koh, * Singapore: The Encyclopedia*, 37; Lim, [_Cathay_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6095688), 100–102
+[^6]: Koh, *Singapore: The Encyclopedia*, 37; Lim, [_Cathay_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6095688), 100–102
 
 [^7]: “[Syonan Broadcasting Station](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/syonantimes19420628-1.2.38.4),” _Syonan Shimbun_, 28 June 1942, 3; “[Syonan Broadcasting Station](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/syonantimes19420726-1.2.5.3),” _Syonan Shimbun_, 26 July 1942, 2. (From NewspaperSG)
 
