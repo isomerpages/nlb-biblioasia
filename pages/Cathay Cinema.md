@@ -4,6 +4,8 @@ permalink: /cathay-cinema-2022
 description: ""
 image: /images/Cathay/Cathay-1941.jpg
 ---
+
+
 #### The First Skyscraper in Singapore
 The 16-storey Cathay Building was once the tallest building in Singapore, at 70 m. Located at the foot of Mount Sophia in the Dhoby Ghaut area, the building used to house the Cathay Hotel, Cathay Restaurant and Cathay cinema, which was one of Singapore’s oldest cinemas.[^1]
 
@@ -62,7 +64,6 @@ In commemoration of the 50th anniversary of the end of WWII in 1995, the Nationa
  
 #### National Monument
  In 1999, Cathay Organisation put up a S$100-million plan to redevelop Cathay Building. Before the plan was approved by the Urban Redevelopment Authority, the Preservation of Monuments Board (now known as the Preservation of Sites and Monuments) identified Cathay Building as a possible landmark for preservation because of its history, especially during WWII.[^12] The cinemas in Cathay Building closed on 30 June 2000. 
- 
 On 10 February 2003, Cathay Building was gazetted as a national monument. 
 
 <img src="/images/Cathay/cathay-national-monument.jpg" style="width:70%" >
