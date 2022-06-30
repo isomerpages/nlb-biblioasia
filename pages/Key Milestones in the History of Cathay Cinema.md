@@ -77,7 +77,9 @@ In line with its status as a national monument, the art deco facade of the build
 
  In 2006, The Cathay reopened with as a shopping mall and an eight-hall multiplex –  including Picturehouse, which had first opened in 1990 to feature art films.[^14]
 
-Cathay Cineplex’s last day of operations was 26 June 2022. The last show to be screened was *Top Gun: Maverick*at 9pm. The space used by the cineplex will be occupied by a pop-up run by The Projector from August and will be named Projector X:Picturehouse. It will be used for films and live performances.[^15]
+In 2017, entertainment company mm2 Asia acquired all of Cathay’s cinema operations, including Cathay Cineplex, in a $230 million deal. Cathay Organisation only sold off its cinema business and continued to hold the Cathay building and the Cathay Cineleisure Orchard mall.[^15]
+
+Cathay Cineplex’s last day of operations was 26 June 2022. The last show to be screened was *Top Gun: Maverick*at 9pm. The space used by the cineplex will be occupied by a pop-up run by The Projector from August and will be named Projector X:Picturehouse. It will be used for films and live performances.[^16]
 
 
 #### **NOTES**
@@ -109,4 +111,6 @@ Cathay Cineplex’s last day of operations was 26 June 2022. The last show to be
 
 [^14]: Ong Sor Fern, “The Cathay Reopens,” Straits Times, 25 March 2006, 2; Wong Kim Hoh, “When a Passionista Gets Dream Job, Sparks Fly,” Straits Times, 26 March 2006, 33. (From Newslink via NLB [eResources](https://eresources.nlb.gov.sg/) website)
 
-[^15]: Shannon Ling, “The Cathay Cineplex in Handy Road, One of Singapore’s Oldest Cinemas, to Close after June 26,” _Straits Times_, 17 June 2022; Melissa Lin, “Cinema with a Grim and Glamorous Past,” _Straits Times_, 5 November 2017 (From Newslink via NLB [eResources](https://eresources.nlb.gov.sg/) website); Ang Hwee Min, “[A Subdued Final Day as The Cathay Cineplex Draws the Curtain on Operations](https://www.channelnewsasia.com/singapore/cathay-cineplex-last-day-operations-moviegoers-final-screenings-2771741),” Channel NewsAsia, 26 June 2022.
+[^15]: Annabeth Low, "mm2 Asia Expands Footprint with S$230m Cathay Cinema Deal,"* Business Times* 3 November 2017, 8. (From Newslink via NLB [eResources](https://eresources.nlb.gov.sg/) website)
+
+[^16]: Shannon Ling, “The Cathay Cineplex in Handy Road, One of Singapore’s Oldest Cinemas, to Close after June 26,” _Straits Times_, 17 June 2022; Melissa Lin, “Cinema with a Grim and Glamorous Past,” _Straits Times_, 5 November 2017 (From Newslink via NLB [eResources](https://eresources.nlb.gov.sg/) website); Ang Hwee Min, “[A Subdued Final Day as The Cathay Cineplex Draws the Curtain on Operations](https://www.channelnewsasia.com/singapore/cathay-cineplex-last-day-operations-moviegoers-final-screenings-2771741),” Channel NewsAsia, 26 June 2022.
