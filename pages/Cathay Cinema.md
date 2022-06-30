@@ -29,9 +29,9 @@ In 1941, Cathay Building was rented to the colonial government and the Malayan B
 <div style="background-color: white;">Cathay Building, 1941. <i>Chung Shui Ken Collection, PictureSG, National Library, Singapore</i></div>
 
 
-After Singapore fell to the Japanese in 1942, the building became home to the Japanese broadcasting and propaganda departments. The broadcasting department began transmissions of Radio Syonan from Cathay building in March 1942. The programme was printed in the newspaper Syonan Shimbun.[^5]
+After Singapore fell to the Japanese in 1942, the building became home to the Japanese broadcasting and propaganda departments. The broadcasting department began transmissions of Radio Syonan from Cathay building in March 1942.[^5]
 
-The daytime programme of Radio Syonan usually has Japanese lessons and songs for schools, while the evening programme included a segment for Japanese soldiers, as well as news and entertainment in Japanese, Hindustani, Malay, Tamil, Cantonese, Hokkien and English.[^6]
+The daytime programme of Radio Syonan usually had Japanese lessons and songs for schools, while the evening programme included a segment for Japanese soldiers, as well as news and entertainment in Japanese, Hindustani, Malay, Tamil, Cantonese, Hokkien and English.[^6]
 
 <img src="/images/Cathay/1942-syonan%20radio.jpg" style="width:50%" >
 <div style="background-color: white;">“Radio news”. Programme of Syonan Broadcasting Station. Images reproduced from <i>Syonan Shimbun</i>, 28 June 1942,3;<i>Syonan Shimbun</i>, 26 July 1942, 2. (From NewspaperSG) </div>
