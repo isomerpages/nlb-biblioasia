@@ -60,11 +60,11 @@ From the 1960s to 1990s, the building underwent various redevelopments, such as 
 In commemoration of the 50th anniversary of the end of WWII in 1995, the National Heritage Board erected a WWII plaque outside the building.[^11] 
 
  ![cathay world war 2 plaque](/images/Cathay/cathay%20world%20war%202%20plaque.jpg)
- <div style="background-color: white;">WWII plaque outside Cathay cinema, 1995–99. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</i>.</div>
+<div style="background-color: white;">WWII plaque outside Cathay cinema, 1995–99. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</i>.</div>
  
  
 #### National Monument
- In 1999, Cathay Organisation put up a S$100-million plan to redevelop Cathay Building. Before the plan was approved by the Urban Redevelopment Authority, the Preservation of Monuments Board (now known as the Preservation of Sites and Monuments) identified Cathay Building as a possible landmark for preservation because of its history, especially during WWII.[^12] The cinemas in Cathay Building closed on 30 June 2000. 
+ In 1999, Cathay Organisation put up a S$100 million plan to redevelop Cathay Building. Before the plan was approved by the Urban Redevelopment Authority, the Preservation of Monuments Board (now known as the Preservation of Sites and Monuments) identified Cathay Building as a possible landmark for preservation because of its history, especially during WWII.[^12] The cinemas in Cathay Building closed on 30 June 2000. 
 On 10 February 2003, Cathay Building was gazetted as a national monument. 
 
 <img src="/images/Cathay/cathay-national-monument.jpg" style="width:70%" >
