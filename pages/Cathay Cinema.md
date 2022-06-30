@@ -4,6 +4,7 @@ permalink: /cathay-cinema-2022
 description: ""
 image: /images/Cathay/Cathay-1941.jpg
 ---
+#### Women who practised a particular form of Buddhism set up popular vegetarian restaurants in the 1940s and 50s that met the needs of local Buddhists and also helped promote vegetarianism. By **Kelvin Tan**
 
 
 #### The First Skyscraper in Singapore
