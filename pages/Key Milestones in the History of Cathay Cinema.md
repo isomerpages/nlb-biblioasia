@@ -4,10 +4,7 @@ permalink: /history-cathay-cinema-2022
 description: ""
 image: /images/Cathay/Cathay-1941.jpg
 ---
-
-
-#### One of the oldest cinemas in Singapore, the Cathay Cineplex at Handy Road  shut down in June 2022, because of financial reasons. It was part of Cathay Building, a national monument built in the 1930s. Here's a look at the Cathay Building and cinema over the years.  
-
+#### The closing of the Cathay Cineplex in June 2022 marks the end of an era. Here’s a look at the Cathay Building and cinema over the years.
 
 #### The First Skyscraper in Singapore
 The 16-storey Cathay Building was once the tallest building in Singapore, at 70 m. Located at the foot of Mount Sophia in the Dhoby Ghaut area, the building used to house the Cathay Hotel, Cathay Restaurant and Cathay cinema, which was one of Singapore’s oldest cinemas.[^1]
