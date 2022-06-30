@@ -7,23 +7,27 @@ image: /images/Cathay/Cathay-1941.jpg
 #### The First Skyscraper in Singapore
 The 16-storey Cathay Building was once the tallest building in Singapore, at 70 m. Located at the foot of Mount Sophia in the Dhoby Ghaut area, the building used to house the Cathay Hotel, Cathay Restaurant and Cathay cinema, which was one of Singapore’s oldest cinemas.[^1]
 
-<img src="/images/Cathay/Cathay-1941.jpg">
-<div style="background-color: white;">Cathay Building, 1941. From PictureSG. Original work © Chung Shui Ken; digital copy © National Library Board Singapore 2008.</div>
+<img src="/images/Cathay/1937%20construction%20cathay.jpg">
+<div style="background-color: white;">Cathay Building under construction, 1937. <i>Image reproduced from Lim Kay Tong, Cathay: 55 Years of Cinema (Singapore: Landmark Books, 1991). (From National Library, Singapore, RSING 791.43095957) LIM</i> </div>
 
 #### Grand Opening in 1939
 The 1,321-seat cinema opened on 3 October 1939, while the Cathay Restaurant opened in 1940 and the apartment block in 1941. [^2] The theatre was opulent, with black marble pillars, green-tiled floors, silver curtains, and gold ceilings. On either side of the screen was the shell-shaped acoustic plaster design.[^3] 
 
 <img src="/images/vol-11-issue-1/moviememorabilia/cathay.jpg" style="width:50%" >
-<div style="background-color: white;">Cathay Cinema opening souvenir, 1939. Courtesy of Wong Han Min.</div>
+<div style="background-color: white;">Cathay Cinema opening souvenir, 1939. <i>Courtesy of Wong Han Min</i>.</div>
 
 #### Opening Film
 The opening film was *Four Feathers*, a British adventure movie about the war in Sudan that was previously banned in Singapore on racial grounds.[^4] 
 
 <img src="/images/Cathay/1939-four-feathers.jpg" style="width:60%" >
-<div style="background-color: white;">Advertisement of the opening film of the “air-cooled luxury” of Cathay cinema.Image reproduced from <i>Malaya Tribune</i>, 26 September 1939, 3.</div>
+<div style="background-color: white;">Advertisement of the opening film of the “air-cooled luxury” of Cathay cinema.<i>Image reproduced from Malaya Tribune, 26 September 1939, 3</i>.</div>
 
 #### World War II
 In 1941, Cathay Building was rented to the colonial government and the Malayan Broadcasting Corporation.
+
+<img src="/images/Cathay/Cathay-1941.jpg">
+<div style="background-color: white;">Cathay Building, 1941. From PictureSG. Original work © Chung Shui Ken; digital copy © National Library Board Singapore 2008.</div>
+
 
 After Singapore fell to the Japanese in 1942, the building became home to the Japanese broadcasting and propaganda Departments. The broadcasting department began transmissions of Radio Syonan from Cathay building in March 1942. The programme was printed in the newspaper Syonan Shimbun.[^5]
 
