@@ -23,13 +23,13 @@ The opening film was *Four Feathers*, a British adventure movie about the war in
 <div style="background-color: white;">Advertisement of the opening film of the “air-cooled luxury” of Cathay cinema.<i> Image reproduced from Malaya Tribune, 26 September 1939, 3</i>.</div>
 
 #### World War II
-In 1941, Cathay Building was rented to the colonial government and the Malayan Broadcasting Corporation. The latter continued to broadcast updates of the war during the Japanese invasion, and the cinema screened its last movie before the British surrender on 15 February 1942.[^5]
+In 1941, Cathay Building was rented to the colonial government and the Malayan Broadcasting Corporation. The latter continued to broadcast updates of the war during the Japanese invasion, and the cinema screened its last movie before the British surrender on 15 February 1942. The building was used a temporary Red Cross casaulty station.[^5]
 
 <img src="/images/Cathay/Cathay-1941.jpg">
 <div style="background-color: white;">Cathay Building, 1941. <i>Chung Shui Ken Collection, PictureSG, National Library, Singapore</i></div>
 
 
-After Singapore fell to the Japanese in 1942, the building became home to the Japanese broadcasting and propaganda departments. The broadcasting department began transmissions of Radio Syonan from Cathay building in March 1942.[^6]
+After Singapore fell to the Japanese in 1942, the building was renamed Dai Toa Gekjio (Greater Eastern Asian Theatre) and became home to the Japanese broadcasting and propaganda departments. The broadcasting department began transmissions of Radio Syonan from Cathay building in March 1942.[^6]
 
 The daytime programme of Radio Syonan usually had Japanese lessons and songs for schools, while the evening programme included a segment for Japanese soldiers, as well as news and entertainment in Japanese, Hindustani, Malay, Tamil, Cantonese, Hokkien and English.[^7]
 
@@ -88,9 +88,9 @@ The Cathay Cinema ceased operations on 27 June 2022. The last movie to be screen
 
 [^4]: Lim Kay Tong, _Cathay: 55 Years of Cinema_ (Singapore: Landmark Books, 1991), 15, 98 (Call no. RSING 791.43095957 LIM); “[Cathay Cinema Opens Doors Tonight](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19391003-1.2.55),” _Singapore Free Press and Mercantile Advertiser_, 3 October 1939, 5; “['Four Feathers' Released](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19390730-1.2.123),” _Straits Times_, 30 July 1939, 13. (From NewspaperSG)
 
-[^5]: Tommy Koh et al., Singapore: The Encyclopedia (Singapore : Editions Didier Millet and National Heritage Board, 2006), 37. (From National Library, Singapore, Call no. 959.57003 SIN)
+[^5]: Tommy Koh et al.,* Singapore: The Encyclopedia* (Singapore : Editions Didier Millet and National Heritage Board, 2006), 37. (From National Library, Singapore, Call no. 959.57003 SIN)
 
-[^6]: Lim Kay Tong, [_Cathay: 55 Years of Cinema_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6095688) (Singapore: Landmark Books, 1991), 100–102
+[^6]: Koh, * Singapore: The Encyclopedia*, 37; Lim, [_Cathay_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6095688), 100–102
 
 [^7]: “[Syonan Broadcasting Station](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/syonantimes19420628-1.2.38.4),” _Syonan Shimbun_, 28 June 1942, 3; “[Syonan Broadcasting Station](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/syonantimes19420726-1.2.5.3),” _Syonan Shimbun_, 26 July 1942, 2. (From NewspaperSG)
 
