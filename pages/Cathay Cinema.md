@@ -71,7 +71,7 @@ On 10 February 2003, Cathay Building was gazetted as a national monument.
 <div style="background-color: white;">A marker of history. <i>Photo by and courtesy of Soh Gek Han</i>.</div>
 
 
-The art deco facade of the building was preserved, with its geometric forms and curved, stepped walls, and with the name displayed vertically. The rest of the building was redeveloped, and the original brown-tiled façade was incorporated into modern glass architecture.[^13].
+In line with its status as a national monument, the art deco facade of the building was preserved, with its geometric forms and curved, stepped walls, and with the name displayed vertically. The rest of the building was redeveloped, and the original brown-tiled façade was incorporated into modern glass architecture.[^13].
 
 ![cathay 2006 facade](/images/Cathay/cathay%202006%20facade.jpg) 
 <div style="background-color: white;">Cathay Building, 2022. <i>Photo by and courtesy of Soh Gek Han</i>.</div>
