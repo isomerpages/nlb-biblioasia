@@ -34,13 +34,13 @@ After Singapore fell to the Japanese in 1942, the building became home to the Ja
 The daytime programme of Radio Syonan usually had Japanese lessons and songs for schools, while the evening programme included a segment for Japanese soldiers, as well as news and entertainment in Japanese, Hindustani, Malay, Tamil, Cantonese, Hokkien and English.[^6]
 
 <img src="/images/Cathay/1942-syonan%20radio.jpg" style="width:50%" >
-<div style="background-color: white;">“Radio news”. Programme of Syonan Broadcasting Station. Images reproduced from <i>Syonan Shimbun</i>, 28 June 1942,3;<i>Syonan Shimbun</i>, 26 July 1942, 2. (From NewspaperSG) </div>
+<div style="background-color: white;">“Radio news”. Programme of Syonan Broadcasting Station. <i>Images reproduced from Syonan Shimbun, 28 June 1942,3;<i>Syonan Shimbun</i>, 26 July 1942, 2</i>. (From NewspaperSG) </div>
 
 #### Headquarters for SACSEA
 After the war, the Cathay Building became the headquarters for Admiral Louis Mountbatten, Supreme Allied Commander of Southeast Asia (SACSEA), from November 1945 to November 1946. The colonial government occupied six floors of the building. To commemorate the setting up of the SACSEA headquarters, Mountbatten presented a brass plaque to Mrs Loke Yew and Mr Loke Wan Tho, owners of Cathay Building.[^7]
 
 ![](/images/Cathay/plague-loke-yew-loke-wan-tho.jpg)
-<div style="background-color: white;">Left to right: Brass plaque with the logo of SACSEA (Singapore Broadcasting Corporation Collection, courtesy of National Archives of Singapore); Mrs Loke Yew (Sir Percy McNeice Collection, courtesy of National Archives of Singapore); Mr Loke Wan Tho (Sir Percy McNeice Collection, courtesy of National Archives of Singapore).</div>
+<div style="background-color: white;">Left to right: Brass plaque with the logo of SACSEA (<i>Singapore Broadcasting Corporation Collection, courtesy of National Archives of Singapore</i>); Mrs Loke Yew (<i>Sir Percy McNeice Collection, courtesy of National Archives of Singapore</i>); Mr Loke Wan Tho (<i>Sir Percy McNeice Collection, courtesy of National Archives of Singapore</i>).</div>
 
 #### Civilian Use of the Building
 The cinema reopened in September 1945, but it was only in February 1949 that the colonial government vacated the building and Cathay Organisation regained full control. On 9 January 1954, Cathay Hotel started operations until 30 December 1970. After that, the space was converted into offices. [^8]  
