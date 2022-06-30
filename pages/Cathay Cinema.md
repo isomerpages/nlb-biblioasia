@@ -23,7 +23,7 @@ The opening film was *Four Feathers*, a British adventure movie about the war in
 <div style="background-color: white;">Advertisement of the opening film of the “air-cooled luxury” of Cathay cinema.<i> Image reproduced from Malaya Tribune, 26 September 1939, 3</i>.</div>
 
 #### World War II
-In 1941, Cathay Building was rented to the colonial government and the Malayan Broadcasting Corporation. The latter continued to broadcast updates of the war during the Japanese invasion, and the cinema screened its last movie before the British surrender on 15 February 1942. The building was used a temporary Red Cross casaulty station.[^5]
+In 1941, Cathay Building was rented to the colonial government and the Malayan Broadcasting Corporation. The latter continued to broadcast updates of the war during the Japanese invasion, and the cinema screened its last movie before the British surrender on 15 February 1942. The building was also used a temporary Red Cross casaulty station.[^5]
 
 <img src="/images/Cathay/Cathay-1941.jpg">
 <div style="background-color: white;">Cathay Building, 1941. <i>Chung Shui Ken Collection, PictureSG, National Library, Singapore</i></div>
