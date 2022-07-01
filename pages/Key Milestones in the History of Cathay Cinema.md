@@ -37,7 +37,7 @@ In 1941, Cathay Building was rented to the colonial government and the Malayan B
 <div style="background-color: white;">Cathay Building, 1941. <i>Chung Shui Ken Collection, PictureSG, National Library, Singapore</i></div>
 
 
-After Singapore fell to the Japanese in 1942, the building was renamed Dai Toa Gekjio (Greater Eastern Asian Theatre) and became home to the Japanese broadcasting and propaganda departments. Transmissions of Radio Syonan from Cathay building began in March 1942.[^6]
+After Singapore fell to the Japanese in 1942, the building was renamed Dai Toa Gekjio (Greater Eastern Asian Theatre) and became home to the Japanese broadcasting and propaganda departments. Transmissions of Radio Syonan from Cathay Building began in March 1942.[^6]
 
 The daytime radio programme usually had Japanese lessons and songs for schools, while the evening programme included a segment for Japanese soldiers, as well as news and entertainment in Japanese, Hindustani, Malay, Tamil, Cantonese, Hokkien and English.[^7]
 
