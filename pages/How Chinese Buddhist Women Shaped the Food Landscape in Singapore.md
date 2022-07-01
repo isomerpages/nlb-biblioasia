@@ -73,7 +73,7 @@ The restaurant operated for 64 years before closing in 2017. Its closure was imp
 
 #### **Spreading Vegetarianism 	Through Temples**
 
-Restaurants were not the only way that these women promoted vegetarianism. At Choa Chu Kang’s 12-milestone (十二英里) lies the temple Hai Inn See (海印寺), which was established in 1928. Its second abbess, a vegetarian nun named Yang Qincai (杨芹菜), [^24]was well known for her vegetarian *soon kueh*. Like many temples, Hai Inn See grew vegetables and fruits on its grounds. In the 1950s, Yang Qincai discovered that bamboo plants grew well, and since the main ingredient for the *kueh* is bamboo shoots, she led the effort to make it regularly.[^25]
+Restaurants were not the only way that these women promoted vegetarianism. At Choa Chu Kang’s 12-milestone (十二英里) lies the temple Hai Inn See (海印寺), which was established in 1928. Its second abbess, a vegetarian nun named Yang Qincai (杨芹菜),[^24] was well known for her vegetarian *soon kueh*. Like many temples, Hai Inn See grew vegetables and fruits on its grounds. In the 1950s, Yang Qincai discovered that bamboo plants grew well, and since the main ingredient for the *kueh* is bamboo shoots, she led the effort to make it regularly.[^25]
 
 As the fame of her *soon kueh* spread, the temple was invited to sell it in a nearby coffeeshop. At 5 cents a piece, it quickly became an essential breakfast item for residents. The *kueh* was sold from the 1960s right up till Yang’s death in 1975, and till today, customers have fond memories of her *soon kueh*. (The recipe of this *kueh* was published in the temple’s 90th anniversary commemorative book in 2018.[^26])
 
