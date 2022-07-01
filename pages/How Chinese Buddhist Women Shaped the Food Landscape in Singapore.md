@@ -31,9 +31,6 @@ The women had the support of people like Venerable Cihang (慈航法师), a prom
 
 Located at 25 Tanjong Pagar Road, Loke Woh Yuen was well known among the Chinese Buddhist community because its food was of restaurant standard and the menu was varied. Set in a single-fronted shophouse, the restaurant was described as “bright and breezy” and was notable for its “clean yet not clinical look”.[^3]
 
-![](/images/Vol%2018%20Issue%202/Chinese%20Buddhist%20Women/Chinese%20Buddhist%20Women%20-%20Image%203.png)
-<div style="background-color: white;">(From left) 双雄豪杰 (Stuffed Hot Chillies with Crunchy Gluten) and 金玉满堂 (Coconut Soup with Four Snacks). <i>Images reproduced from Shi Chin Yam, Top 100 Vegetarian Delights (Singapore: Man Fut Tong Old People’s Home, 1998), 79, 88. (From National Library, Singapore, call no. RSING 641.5636 SHI).</i></div>
-
 For people who wanted plant-based alternatives to meat dishes, the restaurant offered dishes such as vegetarian shark’s fin made from maize, and fish fillet made from sugar cane flowers.[^4] Vegetarian *mee siam* and curry were available on weekends.[^5]
 
 Loke Woh Yuen was entirely staffed by women, from the waiters to the cashiers and the cook. The restaurant operated for over six decades before the shutters came down for the last time in 2010.
@@ -56,10 +53,10 @@ For the event, Taoyuan Fut Tong prepared the food, while staff from Bodhi Lin se
 
 Bodhi Lin celebrated its 18th anniversary in 1972 and in a newspaper article of the period, the restaurant was described as one of the most famous vegetarian restaurants in Singapore.[^15] In particular, it was known for its vegetarian mooncakes, which were so famous that it even attracted customers from Malaysia.[^16] Bodhi Lin subsequently shuttered, but when this happened requires additional research.
 
+The third establishment set up by these women was Fut Sai Kai Vegetarian Restaurant. Set in an “unpretentious shophouse but with much more character than the average coffeeshop”,[^17] the restaurant was founded in 1953 by Ko Tian-gu (高添姑) and run by several vegetarian nuns.
+
 ![](/images/Vol%2018%20Issue%202/Chinese%20Buddhist%20Women/Chinese%20Buddhist%20Women%20-%20Image%204.png)
 <div style="background-color: white;">Fut Sai Kai Vegetarian Restaurant (extreme right) was one of the pioneers in Chinese vegetarian food in Singapore. Pictured on the right is the founder Ko Tian-gu. <i>Image reproduced from 善华 [Shan Hua], 本与佛教有深厚渊源而今随时代的进步 有益健康素食渐在我国流行 [“Singapore and Buddhism Have Strong Ties and Evolve with the Times. Healthy Vegetarian Food Is Becoming Popular in Singapore”], 新明日报 [Shinmin Daily News], 11 August 1980, 5. (From NewspaperSG).</i></div>
-
-The third establishment set up by these women was Fut Sai Kai Vegetarian Restaurant. Set in an “unpretentious shophouse but with much more character than the average coffeeshop”,[^17] the restaurant was founded in 1953 by Ko Tian-gu (高添姑) and run by several vegetarian nuns.
 
 Located on Kitchener Road, Fut Sai Kai was aimed at a more price conscious clientele, unlike the pricier Loke Woh Yuen. Dim sum was priced at 3 cents per plate, while noodles and dishes were between 6 cents and $1.50 respectively, similar to the prices of street food.[^18] Fut Sai Kai was one of the first restaurants to employ Cantonese chefs from Hong Kong. It also advertised in the Chinese press.[^19]
 
@@ -83,6 +80,9 @@ As the fame of her *soon kueh* spread, the temple was invited to sell it in a ne
 Venerable Ho Yuen Hoe (何润好), the abbess of the Lin Chee Cheng Sia (莲池精舍) temple in Kovan, was another woman who used vegetarian food for fundraising. To raise funds for Man Fut Tong (万佛堂), her temple’s new nursing home that opened in 1969, she sold vegetarian food to devotees attending dharma assemblies at the Khor Meng San Phor Kark See Monastery (光明山普觉禅寺). On average, Venerable Ho raised about $50 each day though on a good day, she could raise $80.[^27]
 
 When she wanted to expand the home, Venerable Ho came up with the idea of compiling her recipes into a book. Published in 1998, the book *Top 100 Vegetarian Delights* helped raise over $100,000 to fund the expansion. Apart from fundraising, she also wanted to use the book to promote the health benefits of vegetarianism, drawing from her belief in “renewed vitality and concentration” as means of healthy ageing.[^28]
+
+![](/images/Vol%2018%20Issue%202/Chinese%20Buddhist%20Women/Chinese%20Buddhist%20Women%20-%20Image%203.png)
+<div style="background-color: white;">(From left) 双雄豪杰 (Stuffed Hot Chillies with Crunchy Gluten) and 金玉满堂 (Coconut Soup with Four Snacks). <i>Images reproduced from Shi Chin Yam, Top 100 Vegetarian Delights (Singapore: Man Fut Tong Old People’s Home, 1998), 79, 88. (From National Library, Singapore, call no. RSING 641.5636 SHI).</i></div>
 
 Venerable Ho also started giving cooking classes at Lin Chee Cheng Sia in 1987 for the growing number of devotees eager to learn vegetarian cooking from her. A long-time believer that “vegetarian food and regular exercise deliver longevity”, she hoped to share “her secrets” to “as many people as possible” while preserving her recipes.[^29]
 
