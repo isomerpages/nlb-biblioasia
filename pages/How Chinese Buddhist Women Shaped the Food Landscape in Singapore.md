@@ -92,11 +92,9 @@ During Jian’s time at Tse Tho Aum, the temple developed a reputation for its t
 
 In many ways, women like Jian Daxian, Yang Muzhen, Yang Qincai and Venerable Ho Yuen Hoe were ahead of their time. Today, the vegetarian is spoiled for choice in Singapore. Apart from the mainstay of Indian and Chinese vegetarian restaurants, there are vegetarian eateries offering Indonesian, Peranakan, Korean, Japanese and Vietnamese cuisine. Most food courts, coffeeshops and hawker centres will also have at least one vegetarian food stall. Loke Woh Yuen, Fut Sai Kai and Bodhi Lin may have faded away, but their spirit lives on.
 
-<div style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba; display:block; font-size:1rem; line-height:1.5rem;">
+<div style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba; display:block; font-size:1rem; line-height:1.5rem;"><b>HAI INN SEE’S SOON KUEH RECIPE</b>
 <img src="/images/Vol%2018%20Issue%202/Chinese%20Buddhist%20Women/Chinese%20Buddhist%20Women%20-%20Image%206.png">
 The vegetarian <i>soon kueh</i> of Hai Inn See and an undated portrait of Abbess Yang Qincai. <i>Images reproduced from 海印古寺90周年特輯 [Haiingu Temple 90th Anniversary Special] (Singapore: Hai Inn Temple, 2018), 143, 144.</i>
-<br><br>
-<b>HAI INN SEE’S SOON KUEH RECIPE</b>
 <br><br>
 <b>Filling</b><br>
 500 g dried mushrooms, soaked<br>
