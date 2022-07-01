@@ -125,7 +125,7 @@ Half tablespoon sugar<br>
 4. Finally, mix in firm beancurd and sweetened beancurd sticks. Just before dishing the mixture out from the wok, drizzle a dash of sesame oil over the mixture. Set the mixture aside on a large plate to cool.<br>
 5. Prepare the dough skin: On a large plate, combine wheat starch, tapioca flour, salt and sugar.<br>
 6. Add in boiling water and stir the mixture constantly with a wooden ladle till well combined.<br>
-7. Mix in oil before using hands to knead the dough till smooth.
+7. Mix in oil before using hands to knead the dough till smooth.<br>
 8. Divide the dough into smaller balls of equal portions. Flatten each ball of dough into a round disc to wrap a portion of the filling. Grease a steaming plate with oil before placing the <i>soon kueh</i> on it. Once the water starts to boil in the steamer, steam the <i>soon kueh</i> for about 10 minutes. After steaming, lightly brush the <i>soon kueh</i> with oil.
 <br><br>
 <i>Soon kueh</i> recipe reproduced from 海印古寺90周年特輯 [<i>Haiingu Temple 90th Anniversary Special</i>], Singapore: Hai Inn Temple, 2018, p. 145.
