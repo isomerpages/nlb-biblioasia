@@ -22,7 +22,7 @@ The 1,321-seat cinema opened on 3 October 1939, while the Cathay Restaurant open
 The theatre was opulent, with black marble pillars, green-tiled floors, silver curtains, and gold ceilings. On either side of the screen was acoustic plaster in the shape of shells. [^3] 
 
 ![](/images/Cathay/cathay-interior.jpg)
-<div style="background-color: white;">Cathay Building under construction, 1937. <i>Image reproduced from Lim Kay Tong, Cathay: 55 Years of Cinema (Singapore: Landmark Books, 1991). (From National Library, Singapore, RSING 791.43095957 LIM)</i> </div>
+<div style="background-color: white;">Interior of the theatre. <i>Image reproduced from Lim Kay Tong, Cathay: 55 Years of Cinema (Singapore: Landmark Books, 1991). (From National Library, Singapore, RSING 791.43095957 LIM)</i> </div>
 
 #### Opening Film
 The opening film was *Four Feathers*, a British adventure movie about the war in Sudan that was previously banned in Singapore on racial grounds.[^4] 
@@ -56,6 +56,9 @@ The cinema reopened in September 1945, but it was only in February 1949 that the
 ![loke 1948 cathay](/images/Cathay/cathay-1948.jpg)
 <div style="background-color: white;"><i>Image reproduced from “Loke Demands Release of Cathay,” Straits Times, 11 January 1948, 3</i>. </div>
 
+
+ ![](/images/Cathay/cathay-night-102.jpg)
+<div style="background-color: white;">Night shot of Cathay cinema at the premiere of South Pacific, c. 1958. <i>Image reproduced from Lim Kay Tong, Cathay: 55 Years of Cinema (Singapore: Landmark Books, 1991). (From National Library, Singapore, RSING 791.43095957 LIM)</i> </div>
 
 
 #### Redevelopment
