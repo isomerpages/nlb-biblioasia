@@ -6,9 +6,6 @@ image: /images/vol-17-issue-3/st-joseph/St%20Joseph2.jpg
 description: Alvin Tan documents the painstaking process behind the restoration
   of the statues in St Joseph’s Church.
 ---
-
-
-
 #### **Alvin Tan** documents the painstaking process behind the restoration of the statues in St Joseph’s Church.
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-3/st-joseph/FACING%20PAGE.jpg)
@@ -151,6 +148,7 @@ As the restoration of St Joseph’s Church approaches completion in late 2021, a
 
 Reverend Father Joe Lopez Carpio, the current rector, is pleased with the outcome of Machado’s hard work: “The statue restoration has been executed professionally alongside the building restoration. The statues no longer have any cracks or other physical damage. Their original colours have been restored, together with their facial expressions, which make them come alive. We are now working to perfect the illumination for the statues so that their restored beauty can be seen by every visitor to the church.”[^13] In short, to encounter the invisible that has been made visible.[^14]
 
+Postscript: The church was reopened on its 110th anniversary on 30 June 2022 .[^15] 
 
 <div style="background-color: white;">
 <br/>
@@ -186,3 +184,5 @@ Reverend Father Joe Lopez Carpio, the current rector, is pleased with the outcom
 [^13]: Reverend Father Joe Lopez Carpio, email, 30 July 2021.
 
 [^14]: St John of Damascus wrote: “For the invisible things of God since the creation of the world are made visible through images.” See “Medieval Sourcebook: John of Damascus, in Defense of Icons c. 730,” Fordham University, accessed 18 August 2021, https://sourcebooks.fordham.edu/source/johndam-icons.asp.
+
+[^15]: Ng Keng Gene, "[Restored St Joseph's Church in Victoria Street Reopens on its 110th Anniversary](https://www.straitstimes.com/singapore/community/restored-st-josephs-church-in-victoria-st-reopens-on-its-110th-anniversary)," *Straits Times*, 1 July 2022. 

@@ -2,8 +2,9 @@
 title: A History of The Padang
 permalink: /vol-18/issue-1/apr-to-jun-2022/history-padang
 description: ""
-image: /images/Vol 18 Issue 1/The Padang/padang12.png
+image: /images/Vol 18 Issue 1/The Padang/padang8.png
 ---
+
 #### **Kevin Tan** looks at what makes the 4.3-hectare patch of green in front of the former City Hall building so special.
 
 ![](/images/Vol%2018%20Issue%201/The%20Padang/padang12.png)
