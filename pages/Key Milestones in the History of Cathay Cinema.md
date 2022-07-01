@@ -61,7 +61,7 @@ By 1954, Cathay Building was no longer the tallest in the land, but it remained 
 
 
 #### Redevelopment
-From the 1960s to 1990s, the building underwent various redevelopments, such as the expansion of the cinema from a single-screen to a multiplex in 1992.[^12]
+From the 1960s to 1990s, the building underwent various redevelopments, such as the expansion of the cinema from a single-screen to a multiplex in 1991.[^12]
 
 <img src="/images/Cathay/Cathay-1965.jpg" >
 <div style="background-color: white;">Cathay Building, 1965. <i>David Barker Collection, PictureSG, National Library, Singapore</i>.</div>
@@ -72,7 +72,7 @@ In commemoration of the 50th anniversary of the end of WWII in 1995, the Nationa
 <div style="background-color: white;">WWII plaque outside Cathay cinema, 1995–99. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</i>.</div>
  
  
-#### National Monument
+#### A National Monument
  In 1999, Cathay Organisation put up a S$100 million plan to redevelop Cathay Building. Before the plan was approved by the Urban Redevelopment Authority, the Preservation of Monuments Board (now known as the Preservation of Sites and Monuments) identified Cathay Building as a possible landmark for preservation because of its history, especially during WWII.[^14] The cinemas in Cathay Building closed on 30 June 2000. 
 On 10 February 2003, Cathay Building was gazetted as a national monument. 
 
@@ -115,7 +115,7 @@ Cathay Cineplex’s last day of operations was 26 June 2022. The last show to be
 
 [^11]: Vernon Cornelius-Takahama and Ong Eng Chuan, “[Cathay Building](https://eresources.nlb.gov.sg/infopedia/articles/SIP_532_2004-12-17.html),” Singapore Infopedia, last updated September 2020; "[Yes, You Can't Miss the Cathay](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19590213-1.2.104.20)," *Singapore Free Press*, 13 February 1959, 9. (From NewspaperSG)
 
-[^12]: Cornelius-Takahama and Ong, “[Cathay Building](https://eresources.nlb.gov.sg/infopedia/articles/SIP_532_2004-12-17.html)”; Michelle Ho, “Last Movie Show at the Old Cathay,” *Straits Times*, 1 July 2000, 3. (From Newslink via NLB [eResources](https://eresources.nlb.gov.sg/) website)
+[^12]: Cornelius-Takahama and Ong, “[Cathay Building](https://eresources.nlb.gov.sg/infopedia/articles/SIP_532_2004-12-17.html)”; Lim, [_Cathay_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6095688), 111.
 
 [^13]: “World War II Plaque (Outside Cathay Cinema),” Ministry of Information and the Arts Collection, 1995–1999. (National Archives of Singapore media image no. 19990001374 – 0040)
 
