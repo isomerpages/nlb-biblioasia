@@ -22,8 +22,8 @@ These women, in general, were opposed to animal slaughter and believed that a ve
 
 In the late 1940s and 1950s, there were at least three Chinese vegetarian restaurants in Singapore founded and managed by these Chinese Buddhist women: Loke Woh Yuen Vegetarian Restaurant (六和园素食馆), Fut Sai Kai Vegetarian Restaurant (佛世界素食社) and Bodhi Lin Vegetarian Restaurant (菩提林素食馆).
 
-![](/images/Vol%2018%20Issue%201/Chinese%20Buddhist%20Women/Chinese%20Buddhist%20Women%20-%20Image%204.png)
-<div style="background-color: white;">(Top photo) Loke Woh Yuen in 1991 with its current owners. Pictured here are (from left) Venerable Xingjing (性静法师), Venerable Zhishun (智顺法师) and Seck Seng Cheng (贤贞法师), disciples of the original founders. (Bottom photo) A vegetarian meal gathering of the original founders of Loke Woh Yuen in 1984. Seated at the table are Venerable Dajian (达坚法师; 3rd from left), Venerable Huicheng (慧成法师; 4th from left) and chief cook Mdm Wong Sin Fung (黄风仙; 1st from right), all of whom worked closely with Jian Daxian and had passed on by the time the newspaper report was published in 1991. <i>Image reproduced from 区如柏 [Ou Rubo], 素菜馆“老大”接搬迁令 六和园临别依依 [“The ‘Master’ of Vegetarian Restaurants Receives Relocation Orders, Loke Woh Yuen Bids a Reluctant Farewell”], 联合早报 [Lianhe Zaobao], 6 October 1991, 42. (From NewspaperSG).</i></div>
+![](/images/Vol%2018%20Issue%201/Chinese%20Buddhist%20Women/Chinese%20Buddhist%20Women%20-%20Image%2010.png)
+<div style="background-color: white;">(Top photo) Loke Woh Yuen in 1991 with its current owners. Pictured here are (from left) Venerable Xingjing (性静法师), Venerable Zhishun (智顺法师) and Seck Seng Cheng (贤贞法师), disciples of the original founders.<br><br>(Bottom photo) A vegetarian meal gathering of the original founders of Loke Woh Yuen in 1984. Seated at the table are Venerable Dajian (达坚法师; 3rd from left), Venerable Huicheng (慧成法师; 4th from left) and chief cook Mdm Wong Sin Fung (黄风仙; 1st from right), all of whom worked closely with Jian Daxian and had passed on by the time the newspaper report was published in 1991. <i>Image reproduced from 区如柏 [Ou Rubo], 素菜馆“老大”接搬迁令 六和园临别依依 [“The ‘Master’ of Vegetarian Restaurants Receives Relocation Orders, Loke Woh Yuen Bids a Reluctant Farewell”], 联合早报 [Lianhe Zaobao], 6 October 1991, 42. (From NewspaperSG).</i></div>
 
 Loke Woh Yuen was established in 1946 by a close group of five women, including Jian Daxian (简达贤居士), later known as Venerable Huiping (慧平法师). (She later founded the Tse Tho Aum Temple [自度庵] in Changi, which has since moved to Sin Ming Drive).
 
@@ -56,7 +56,7 @@ For the event, Taoyuan Fut Tong prepared the food, while staff from Bodhi Lin se
 
 Bodhi Lin celebrated its 18th anniversary in 1972 and in a newspaper article of the period, the restaurant was described as one of the most famous vegetarian restaurants in Singapore.[^15] In particular, it was known for its vegetarian mooncakes, which were so famous that it even attracted customers from Malaysia.[^16] Bodhi Lin subsequently shuttered, but when this happened requires additional research.
 
-![](/images/Vol%2018%20Issue%201/Chinese%20Buddhist%20Women/Chinese%20Buddhist%20Women%20-%20Image%207.png)
+![](/images/Vol%2018%20Issue%201/Chinese%20Buddhist%20Women/Chinese%20Buddhist%20Women%20-%20Image%209.png)
 <div style="background-color: white;">Fut Sai Kai Vegetarian Restaurant (extreme right) was one of the pioneers in Chinese vegetarian food in Singapore. Pictured on the right is the founder Ko Tian-gu. <i>Image reproduced from 善华 [Shan Hua], 本与佛教有深厚渊源而今随时代的进步 有益健康素食渐在我国流行 [“Singapore and Buddhism Have Strong Ties and Evolve with the Times. Healthy Vegetarian Food Is Becoming Popular in Singapore”], 新明日报 [Shinmin Daily News], 11 August 1980, 5. (From NewspaperSG).</i></div>
 
 The third establishment set up by these women was Fut Sai Kai Vegetarian Restaurant. Set in an “unpretentious shophouse but with much more character than the average coffeeshop”,[^17] the restaurant was founded in 1953 by Ko Tian-gu (高添姑) and run by several vegetarian nuns.
@@ -90,7 +90,7 @@ But Venerable Ho was not the first woman to have her vegetarian cookbook publish
 
 During Jian’s time at Tse Tho Aum, the temple developed a reputation for its tasty food. In February 1984, the *Lianhe Wanbao* (联合晚报) newspaper wrote that the dishes prepared by Jian during the Lunar New Year, including the vegetarian *yu sheng*, were “all but superior” to the Manchu imperial feast.[^31] She also taught vegetarian cooking classes.
 
-In many ways, women like Jian Daxian, Yang Muzhen, Yang Qincai and Venerable Ho Yuen Hoe were ahead of their time. Today, the vegetarian is spoiled for choice in Singapore. Apart from the mainstay of Indian and Chinese vegetarian restaurants, there are vegetarian eateries offering Indonesian, Peranakan, Korean, Japanese and Vietnamese cuisine. Most food courts, coffeeshops and hawker centres will also have at least one vegetarian food stall. Loke Woh Yuen, Fut Sai Kai and Bodhi Lin may have faded
+In many ways, women like Jian Daxian, Yang Muzhen, Yang Qincai and Venerable Ho Yuen Hoe were ahead of their time. Today, the vegetarian is spoiled for choice in Singapore. Apart from the mainstay of Indian and Chinese vegetarian restaurants, there are vegetarian eateries offering Indonesian, Peranakan, Korean, Japanese and Vietnamese cuisine. Most food courts, coffeeshops and hawker centres will also have at least one vegetarian food stall. Loke Woh Yuen, Fut Sai Kai and Bodhi Lin may have faded away, but their spirit lives on.
 
 <div style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba; display:block; font-size:1rem; line-height:1.5rem;">Research for this essay was funded by the National Heritage Board’s Heritage Research Grant under the project titled “Mapping Female Religious Heritage in Singapore: Chinese Temples as Sites of Regional Socio-cultural Linkage” (A-0003245-00-00). The author wishes to thank the principal investigator of the project Dr Show Ying Ruo from the Asia Research Institute, National University of Singapore, for her guidance and comments on an early draft of this essay.</div>
 
@@ -125,7 +125,7 @@ Half tablespoon sugar<br>
 4. Finally, mix in firm beancurd and sweetened beancurd sticks. Just before dishing the mixture out from the wok, drizzle a dash of sesame oil over the mixture. Set the mixture aside on a large plate to cool.<br>
 5. Prepare the dough skin: On a large plate, combine wheat starch, tapioca flour, salt and sugar.<br>
 6. Add in boiling water and stir the mixture constantly with a wooden ladle till well combined.<br>
-7. Mix in oil before using hands to knead the dough till smooth.
+7. Mix in oil before using hands to knead the dough till smooth.<br>
 8. Divide the dough into smaller balls of equal portions. Flatten each ball of dough into a round disc to wrap a portion of the filling. Grease a steaming plate with oil before placing the <i>soon kueh</i> on it. Once the water starts to boil in the steamer, steam the <i>soon kueh</i> for about 10 minutes. After steaming, lightly brush the <i>soon kueh</i> with oil.
 <br><br>
 <i>Soon kueh</i> recipe reproduced from 海印古寺90周年特輯 [<i>Haiingu Temple 90th Anniversary Special</i>], Singapore: Hai Inn Temple, 2018, p. 145.
@@ -141,7 +141,7 @@ Half tablespoon sugar<br>
 
 [^1]: Show Ying Ruo, “Virtuous Women on the Move: Minnan Vegetarian Women (Caigu) and Chinese Buddhism in Twentieth-century Singapore,” 華人宗教研究 [*Studies in Chinese Religions*] 17 (2021): 138, 167–68, https://www.academia.edu/46956207/Virtuous_Women_on_the_Move_Minnan_Vegetarian_Women_caigu_and_Chinese_Buddhism_in_Twentieth_Century_Singapore.
 
-[^2]: 许源泰 [Xu Yuantai], [沿革与模式: 新加坡道教和佛教传播研究](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=200143459) [*History and Model: Research on the Spread of Taoism and Buddhism in Singapore*] (Singapore: 新加坡国立大学中文系, 2013). (From National Library, Singapore, call no. RSING 294.3095957 XYT)
+[^2]: 许源泰 [Xu Yuantai], [沿革与模式: 新加坡道教和佛教传播研究](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=200143459) [*Evolution and Model: The Propagation of Taoism and Buddhism in Singapore*] (Singapore: 新加坡国立大学中文系, 2013). (From National Library, Singapore, call no. RSING 294.3095957 XYT)
 
 [^3]: Violet Oon, “[Vegetarian Food for All](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19840826-1.2.43.2),” *Singapore Monitor*, 26 August 1984, 1. (From NewspaperSG)
 
@@ -151,7 +151,7 @@ Half tablespoon sugar<br>
 
 [^6]: Oon, “[Vegetarian Food for All](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19840826-1.2.43.2).”
 
-[^7]: 区如柏 [Ou Rubo], 素菜馆“老大”接搬迁令 六和园临别依依 [“The ‘Master’ of Vegetarian Restaurants Receives Relocation Orders, Loke Woh Yuen Bids a Reluctant Farewell”], 联合早报 [*Lianhe Zaobao*], 6 October 1991, 42. (From NewspaperSG)
+[^7]: 区如柏 [Ou Rubo], [素菜馆“老大”接搬迁令 六和园临别依依](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb19911006-1.2.62.4) [“The ‘Master’ of Vegetarian Restaurants Receives Relocation Orders, Loke Woh Yuen Bids a Reluctant Farewell”], 联合早报 [*Lianhe Zaobao*], 6 October 1991, 42. (From NewspaperSG)
 
 [^8]: [菩提林素食館 昨日經開幕](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/scjp19540130-1.2.42.9) [“Bodhi Lin Vegetarian Restaurant Opened Yesterday”], 星洲日報 [*Sin Chew Jit Poh*], 30 January 1954, 6. (From NewspaperSG)
 
@@ -199,4 +199,4 @@ Half tablespoon sugar<br>
 
 [^30]: 许源泰 [Hue Guan Thye], [狮城佛光: 新加坡佛教发展百年史](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205584233) [*The Buddha Lights of Lion City: The Hundred-year Development of Buddhism in Singapore*] (Hong Kong: 香港中文大学人间佛教研究中心, 2020), 222–23. (From National Library, Singapore, call no. Chinese RSING 294.3095957 HGT)
 
-[^31]: 李若莲与蔡成才 [*Li Ruolian and Cai Chengcai*], [自度庵的素菜](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19840222-1.2.21.1.1) [“Vegetarian Dishes of Tse Tho Aum”], 联合晚报 [Lianhe Wanbao], 22 February 1984, 5. (From NewspaperSG)
+[^31]: 李若莲与蔡成才 [*Li Ruolian and Cai Chengcai*], [自度庵的素菜](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19840222-1.2.21.1.1) [“Vegetarian Dishes of Tse Tho Aum”], 联合晚报 [*Lianhe Wanbao*], 22 February 1984, 5. (From NewspaperSG)
