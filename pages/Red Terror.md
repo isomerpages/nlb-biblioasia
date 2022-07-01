@@ -8,128 +8,45 @@ description: ""
 ![](/images/Vol%2018%20Issue%202/Chinese%20Buddhist%20Women/Chinese%20Buddhist%20Women%20-%20Image%201.png)
 <div style="background-color: white;">Venerable Ho Yuen Hoe, abbess of Lin Chee Cheng Sia temple. <i>Image reproduced from Shi Chin Yam, Top 100 Vegetarian Delights (Singapore: Man Fut Tong Old People’s Home, 1998). (From National Library, Singapore, call no. RSING 641.5636 SHI).</i></div>
 
-Impossible meatballs, oat-milk lattes and tempeh burgers. Whether it is from a desire to reduce their carbon footprint, improve their health or to avoid killing animals, more and more people around the world have started exploring a meat-free lifestyle.
-
-Singapore is not immune to this trend either, as can be seen by the numerous plant-based restaurants that have sprung up recently. Vegetarian restaurants, however, are not a new phenomenon. One of the oldest vegetarian restaurants in Singapore is believed to be Ananda Bhavan, which serves Indian vegetarian food and opened its doors in 1924.
-
-Chinese vegetarian restaurants, on the other hand, are of a more recent vintage. They date back to the 1940s, and a significant number were established by Chinese Buddhist women.
-
-These women hailed from southeastern China and migrated to Singapore in the late 19th and early 20th centuries. They observed a strict vegetarian diet and spent much of their time in temples. This piece focuses on three types of Buddhist women in particular: ordained nuns, lay women (*jushi*; 居士), and vegetarian nuns or *zhaigu* (齋姑).[^1]  Most of these women belonged to a tradition of Mahayana Buddhism, with some practicising a syncretic form that combined Daoism and Confucianism.
-
-These women, in general, were opposed to animal slaughter and believed that a vegetarian diet would keep diseases and ailments at bay. They exercised Buddhist philanthropy alongside their faith. Through the food they produced in restaurants and temples, these women promoted their ideals to the community and contributed to Singapore’s diverse culinary landscape.
-
-#### **The First Female Restaurateurs**
-
-In the late 1940s and 1950s, there were at least three Chinese vegetarian restaurants in Singapore founded and managed by these Chinese Buddhist women: Loke Woh Yuen Vegetarian Restaurant (六和园素食馆), Fut Sai Kai Vegetarian Restaurant (佛世界素食社) and Bodhi Lin Vegetarian Restaurant (菩提林素食馆).
-
-![](/images/Vol%2018%20Issue%202/Chinese%20Buddhist%20Women/Chinese%20Buddhist%20Women%20-%20Image%202.png)
-<div style="background-color: white;">(Top photo) Loke Woh Yuen in 1991 with its current owners. Pictured here are (from left) Venerable Xingjing (性静法师), Venerable Zhishun (智顺法师) and Seck Seng Cheng (贤贞法师), disciples of the original founders. (Bottom photo) A vegetarian meal gathering of the original founders of Loke Woh Yuen in 1984. Seated at the table are Venerable Dajian (达坚法师; 3rd from left), Venerable Huicheng (慧成法师; 4th from left) and chief cook Mdm Wong Sin Fung (黄风仙; 1st from right), all of whom worked closely with Jian Daxian and had passed on by the time the newspaper report was published in 1991. <i>Image reproduced from 区如柏 [Ou Rubo], 素菜馆“老大”接搬迁令 六和园临别依依 [“The ‘Master’ of Vegetarian Restaurants Receives Relocation Orders, Loke Woh Yuen Bids a Reluctant Farewell”], 联合早报 [Lianhe Zaobao], 6 October 1991, 42. (From NewspaperSG).</i></div>
-
-Loke Woh Yuen was established in 1946 by a close group of five women, including Jian Daxian (简达贤居士), later known as Venerable Huiping (慧平法师). (She later founded the Tse Tho Aum Temple [自度庵] in Changi, which has since moved to Sin Ming Drive).
-
-The women had the support of people like Venerable Cihang (慈航法师), a prominent monk from Fujian province who was also behind the first vegetarian restaurant in Penang, Phoe Thay Yuen (菩提苑素食馆), which opened in 1932.[^2]
-
-Located at 25 Tanjong Pagar Road, Loke Woh Yuen was well known among the Chinese Buddhist community because its food was of restaurant standard and the menu was varied. Set in a single-fronted shophouse, the restaurant was described as “bright and breezy” and was notable for its “clean yet not clinical look”.[^3]
-
-![](/images/Vol%2018%20Issue%202/Chinese%20Buddhist%20Women/Chinese%20Buddhist%20Women%20-%20Image%203.png)
-<div style="background-color: white;">(From left) 双雄豪杰 (Stuffed Hot Chillies with Crunchy Gluten) and 金玉满堂 (Coconut Soup with Four Snacks). <i>Images reproduced from Shi Chin Yam, Top 100 Vegetarian Delights (Singapore: Man Fut Tong Old People’s Home, 1998), 79, 88. (From National Library, Singapore, call no. RSING 641.5636 SHI).</i></div>
-
-For people who wanted plant-based alternatives to meat dishes, the restaurant offered dishes such as vegetarian shark’s fin made from maize, and fish fillet made from sugar cane flowers.[^4] Vegetarian *mee siam* and curry were available on weekends.[^5]
-
-Loke Woh Yuen was entirely staffed by women, from the waiters to the cashiers and the cook. The restaurant operated for over six decades before the shutters came down for the last time in 2010.
-
-The food served at Loke Woh Yuen was known to be tasty. Writing for the *Singapore Monitor*, Violet Oon wrote about her experience eating a 10-course vegetarian banquet priced at $150. For those new to Chinese vegetarian food, Oon recommended the dish of *loh mei* or “mixed meats”, as it “truly represents the spirit of eating vegetarian style”. She also liked the mixed cold items with its “artful simulation of mock oysters”.
-
-She wrote: “Some people may object to this simulation of non-vegetarian food flavours but I welcome it as it takes the boredom out of eating vegetables.” Overall, she said, the “richness of flavours achieved without the aid of meats or seafoods and the visual impact that was created impressed me”.[^6]
-
-The restaurant was popular with many people. In addition to Chinese Buddhists, tourists would walk over from Chinatown to eat at Loke Woh Yuen. It also attracted Indian customers as well. For a long time, the restaurant was so packed that it had to set up dining tents that stretched to the main road.[^7]
-
-One of the earliest trustees of Loke Woh Yuen was Qiu Yulan (邱玉兰居士),[^8] who later became one of the founders of the Bodhi Lin Vegetarian Restaurant. Bodhi Lin was set up in January 1954 and helmed by Yang Muzhen (杨慕贞居士), who was known for her “unflagging affection” for charitable and educational causes.[^9]
-
-Yang was the abbess of Taoyuan Fut Tong (桃园佛堂), a temple that used to be in Tanjong Pagar but has since closed down. She was also a disciple of Venerable Cihang. With her savings, Yang bought an entire shophouse at 114 Neil Road to start Bodhi Lin restaurant.
-
-One of her first acts was to organise a fundraiser for Nanyang University. She worked with the Singapore Buddhist Federation as well as prominent business people and religious leaders for the 10-day event in January 1954. The event welcomed diners for lunch and dinner, with each table priced at $100.[^10] It managed to raise $11,170, a hefty sum for a small restaurant. Yang’s act was hailed by the Chinese press as a breakthrough move for Chinese women (“此举，施为妇女界破天荒擁”).[^11]
-
-In March 1958, Yang organised a similar fundraiser to build wards for Kwong Wai Shiu Free Hospital (广惠肇方便留医院), where she was a trustee.[^12] Banquet tables were priced at $50 and $100 for dining at Bodhi Lin, and these were quickly snapped up. The three-day event ended up raising $9,880.
-
-For the event, Taoyuan Fut Tong prepared the food, while staff from Bodhi Lin served the dishes.[^13] Qiu sponsored the Chinese tea, while the other vegetarian restaurant, Loke Woh Yuen, provided the dish “vegetarian pheasant” (斋雉).[^14]
-
-Bodhi Lin celebrated its 18th anniversary in 1972 and in a newspaper article of the period, the restaurant was described as one of the most famous vegetarian restaurants in Singapore.[^15] In particular, it was known for its vegetarian mooncakes, which were so famous that it even attracted customers from Malaysia.[^16] Bodhi Lin subsequently shuttered, but when this happened requires additional research.
-
-![](/images/Vol%2018%20Issue%202/Chinese%20Buddhist%20Women/Chinese%20Buddhist%20Women%20-%20Image%204.png)
-<div style="background-color: white;">Fut Sai Kai Vegetarian Restaurant (extreme right) was one of the pioneers in Chinese vegetarian food in Singapore. Pictured on the right is the founder Ko Tian-gu. <i>Image reproduced from 善华 [Shan Hua], 本与佛教有深厚渊源而今随时代的进步 有益健康素食渐在我国流行 [“Singapore and Buddhism Have Strong Ties and Evolve with the Times. Healthy Vegetarian Food Is Becoming Popular in Singapore”], 新明日报 [Shinmin Daily News], 11 August 1980, 5. (From NewspaperSG).</i></div>
-
-The third establishment set up by these women was Fut Sai Kai Vegetarian Restaurant. Set in an “unpretentious shophouse but with much more character than the average coffeeshop”,[^17] the restaurant was founded in 1953 by Ko Tian-gu (高添姑) and run by several vegetarian nuns.
-
-Located on Kitchener Road, Fut Sai Kai was aimed at a more price conscious clientele, unlike the pricier Loke Woh Yuen. Dim sum was priced at 3 cents per plate, while noodles and dishes were between 6 cents and $1.50 respectively, similar to the prices of street food.[^18] Fut Sai Kai was one of the first restaurants to employ Cantonese chefs from Hong Kong. It also advertised in the Chinese press.[^19]
-
-Ko was known to wake up early in the morning to buy the freshest ingredients from the market, and she also personally served customers at the restaurant. It operated from 11 am to 9 pm daily, and was packed on the 1st and 15th days of the lunar month as well as during major Chinese festivals.[^20]
-
-Like Loke Woh Yuen, the restaurant was also popular among non-Chinese and non-Buddhists. Tourist buses were occasionally spotted nearby as well. According to Ko, her restaurant was frequented by Christians on Fridays, and by Hindus looking for vegetarian food after temple worship.[^21]
-
-The food at Fut Sai Kai often received good reviews. Writing for the *New Nation* in 1972, Wendy Hutton was all praise for the corn soup. “I found the rather nutty, cereal flavour most enjoyable, and filled my soup bowl several times,” she said. For her, the highlight of the meal were the sugar cane flowers. “We all speculated as to whether we were eating genuine flowers, but since I’ve eaten such things as banana flower and candied violets in the past, I imagine the sugar cane flowers were authentic. A rather soft, fleshy morsel was buried inside a thick ball of butter and deep fried. Eaten with a sweet sauce, it was marvellous,” she added.[^22]
-
-![](/images/Vol%2018%20Issue%202/Chinese%20Buddhist%20Women/Chinese%20Buddhist%20Women%20-%20Image%205.png)
-<div style="background-color: white;">Vegetarian food blogger Luke Otter first broke the news of the closure of Fut Sai Kai Vegetarian Restaurant on 25 August 2017. <i>Image reproduced from “Zen Fut Sai Kai, One of Singapore’s Oldest Chinese Vegetarian Restaurants, Closes After 64 Years,” Straits Times, 4 September 2017.</i></div>
-
-The restaurant operated for 64 years before closing in 2017. Its closure was important enough to have warranted a news story in the *Straits Times*. According to the article, the owner of the restaurant had died earlier that year and the family decided to close the restaurant as there was no one to take over the cooking.[^23]
-
-#### **Spreading Vegetarianism 	Through Temples**
-
-Restaurants were not the only way that these women promoted vegetarianism. At Choa Chu Kang’s 12-milestone (十二英里) lies the temple Hai Inn See (海印寺), which was established in 1928. Its second abbess, a vegetarian nun named Yang Qincai (杨芹菜), [^24]was well known for her vegetarian *soon kueh*. Like many temples, Hai Inn See grew vegetables and fruits on its grounds. In the 1950s, Yang Qincai discovered that bamboo plants grew well, and since the main ingredient for the *kueh* is bamboo shoots, she led the effort to make it regularly.[^25]
-
-As the fame of her *soon kueh* spread, the temple was invited to sell it in a nearby coffeeshop. At 5 cents a piece, it quickly became an essential breakfast item for residents. The *kueh* was sold from the 1960s right up till Yang’s death in 1975, and till today, customers have fond memories of her *soon kueh*. (The recipe of this *kueh* was published in the temple’s 90th anniversary commemorative book in 2018.[^26])
-
-Venerable Ho Yuen Hoe (何润好), the abbess of the Lin Chee Cheng Sia (莲池精舍) temple in Kovan, was another woman who used vegetarian food for fundraising. To raise funds for Man Fut Tong (万佛堂), her temple’s new nursing home that opened in 1969, she sold vegetarian food to devotees attending dharma assemblies at the Khor Meng San Phor Kark See Monastery (光明山普觉禅寺). On average, Venerable Ho raised about $50 each day though on a good day, she could raise $80.[^27]
-
-When she wanted to expand the home, Venerable Ho came up with the idea of compiling her recipes into a book. Published in 1998, the book *Top 100 Vegetarian Delights* helped raise over $100,000 to fund the expansion. Apart from fundraising, she also wanted to use the book to promote the health benefits of vegetarianism, drawing from her belief in “renewed vitality and concentration” as means of healthy ageing.[^28]
-
-Venerable Ho also started giving cooking classes at Lin Chee Cheng Sia in 1987 for the growing number of devotees eager to learn vegetarian cooking from her. A long-time believer that “vegetarian food and regular exercise deliver longevity”, she hoped to share “her secrets” to “as many people as possible” while preserving her recipes.[^29]
-
-But Venerable Ho was not the first woman to have her vegetarian cookbook published. Jian Daxian, one of the founders of Loke Woh Yuen, and who later founded Tse Tho Aum, wrote a vegetarian cookbook in Chinese titled 素菜食谱 (*Vegetarian Dishes*) in 1974. The book was widely circulated in Singapore and Hong Kong, and proceeds from the sale were donated to the educational fund of the Singapore Girls’ Buddhist Institute.[^30]
-
-During Jian’s time at Tse Tho Aum, the temple developed a reputation for its tasty food. In February 1984, the *Lianhe Wanbao* (联合晚报) newspaper wrote that the dishes prepared by Jian during the Lunar New Year, including the vegetarian *yu sheng*, were “all but superior” to the Manchu imperial feast.[^31] She also taught vegetarian cooking classes.
-
-In many ways, women like Jian Daxian, Yang Muzhen, Yang Qincai and Venerable Ho Yuen Hoe were ahead of their time. Today, the vegetarian is spoiled for choice in Singapore. Apart from the mainstay of Indian and Chinese vegetarian restaurants, there are vegetarian eateries offering Indonesian, Peranakan, Korean, Japanese and Vietnamese cuisine. Most food courts, coffeeshops and hawker centres will also have at least one vegetarian food stall. Loke Woh Yuen, Fut Sai Kai and Bodhi Lin may have faded away, but their spirit lives on.
-
-<div style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba; display:block; font-size:1rem; line-height:1.5rem;">Research for this essay was funded by the National Heritage Board’s Heritage Research Grant under the project titled “Mapping Female Religious Heritage in Singapore: Chinese Temples as Sites of Regional Socio-cultural Linkage” (A-0003245-00-00). The author wishes to thank the principal investigator of the project Dr Show Ying Ruo from the Asia Research Institute, National University of Singapore, for her guidance and comments on an early draft of this essay.</div>
-
-<div style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba; display:block; font-size:1rem; line-height:1.5rem;">
-<img src="/images/Vol%2018%20Issue%202/Chinese%20Buddhist%20Women/Chinese%20Buddhist%20Women%20-%20Image%206.png">
-The vegetarian <i>soon kueh</i> of Hai Inn See and an undated portrait of Abbess Yang Qincai. <i>Images reproduced from 海印古寺90周年特輯 [Haiingu Temple 90th Anniversary Special] (Singapore: Hai Inn Temple, 2018), 143, 144.</i>
-<br><br>
-<b>HAI INN SEE’S SOON KUEH RECIPE</b>
-<br><br>
-<b>Filling</b><br>
-500 g dried mushrooms, soaked<br>
-1 kg bamboo shoot<br>
-1 kg turnip<br>
-2 pieces firm beancurd<br>
-100 g sweetened beancurd sticks<br>
-2 tablespoons oil<br>
-1 tablespoon salt<br>
-1 tablespoon pepper<br>
-A dash of sesame oil<br><br>
-<b>Dough skin</b><br>
-600 g wheat starch<br>
-300 g tapioca flour<br>
-Half tablespoon salt<br>
-Half tablespoon sugar<br>
-1200 ml boiling water<br>
-4 tablespoons oil
-<br><br>
-<b>Method</b><br>
-1. Prepare the filling: Shred mushrooms, bamboo shoots, turnips, firm beancurd and sweetened beancurd sticks.<br>
-2. Heat oil in a wok and fry mushrooms till fragrant.<br>
-3. Add in bamboo shoots and turnips. Fry to mix well. Add in salt and pepper to taste.<br>
-4. Finally, mix in firm beancurd and sweetened beancurd sticks. Just before dishing the mixture out from the wok, drizzle a dash of sesame oil over the mixture. Set the mixture aside on a large plate to cool.<br>
-5. Prepare the dough skin: On a large plate, combine wheat starch, tapioca flour, salt and sugar.<br>
-6. Add in boiling water and stir the mixture constantly with a wooden ladle till well combined.<br>
-7. Mix in oil before using hands to knead the dough till smooth.<br>
-8. Divide the dough into smaller balls of equal portions. Flatten each ball of dough into a round disc to wrap a portion of the filling. Grease a steaming plate with oil before placing the <i>soon kueh</i> on it. Once the water starts to boil in the steamer, steam the <i>soon kueh</i> for about 10 minutes. After steaming, lightly brush the <i>soon kueh</i> with oil.
-<br><br>
-<i>Soon kueh</i> recipe reproduced from 海印古寺90周年特輯 [<i>Haiingu Temple 90th Anniversary Special</i>], Singapore: Hai Inn Temple, 2018, p. 145.
-</div>
+Strange, red flags fluttered in the midday breeze. At a playground near 10½ Mile Changi Road, that was the only sign that something was amiss that Thursday afternoon on 23 April 1970. Intrigued by the unfamiliar sight, a 9-year-old boy and a 7-year-old girl wandered over to investigate. In doing so, the children unwittingly triggered a booby-trap bomb planted near the red flags, setting off an explosion that was heard by residents almost a kilometre away. The children were rushed to the nearby Changi Hospital. Hours later, the little girl died. 
+That same evening, two homemade bombs, packed into red cylinders, were discovered on Haji Lane. Five days later, another explosive was discovered on an overhead bridge near Chinese High School. The Bomb Disposal Unit later detonated the explosive at a vacant site near National Junior College. More red flags – bearing the hammer-and-sickle emblems – were recovered by the police along with the bombs. These were the banners and symbols of the Communist Party of Malaya (CPM, also known as the Malayan Communist Party). 
+In Singapore’s history, communists often feature as dangerous antagonists of the 1950s and 1960s. However, what many have forgotten is that acts of violence continued into the 1970s. In fact, April 1970 marked the start of renewed communist violence on the island. Newspaper articles, photographs, and government press releases from the 1970s tell of foiled assassinations, terrorist attacks and clandestine information wars. 
+A Broader Picture: 	Communists in Context 
+This resurgence of communist activity was not spontaneous. The April 1970 bombing in Changi was linked to the CPM’s revival of its armed struggle in Malaysia in June 1968. This revival can be traced to broader regional and international situations at the time, such as the ongoing Vietnam War and Chinese support for the CPM. 
+The Malayan Emergency, a struggle between the CPM and Malayan, British and British Commonwealth forces, officially ended in July 1960. By then, the CPM had been using non-violent, “united front” tactics for some six years (from 1954 onwards). Its main combat units had withdrawn to the Thai-Malayan border, where most were subsequently demobilised. In Singapore, the Special Branch had successfully uprooted the CPM’s “underground network throughout the island” by the early 1960s. Although party cadres had fled to the Riau Islands prior to these security operations, the CPM’s diminished presence did not mean that it had been eradicated.  
+Key leaders like Chin Peng, CPM’s secretary-general, fled to Beijing where they were given support and sanctuary by the Chinese Communist Party (CCP). Chinese leaders urged CPM leaders to renew their armed struggle as the CCP predicted that a wave of violent revolutions would soon sweep across Southeast Asia. Lending further credence to this view was the ongoing Vietnam War between communist and anti-communist (largely American) forces, which only ended in 1975. When Cambodia, South Vietnam and Laos fell to the communists in 1975, Chin Peng asserted that “the tide was turning inexorably in the communist world’s favour, particularly as far as South East Asia was concerned”. 
+With moral and material support from the CCP, the CPM revived its uprising in Malaysia. In June 1968, the CPM issued an official directive for cadres to “hold high the great red banner of armed struggle and valiantly march forward!” The document ordered CPM members to overthrow the Malaysia and Singapore governments “by taking up the gun and carrying out the people’s war”. Eight years after the end of the first Malayan Emergency, CPM forces launched an ambush near the town of Kroh in the northern state of Perak killing 17 Malaysian security personnel and injuring 18. Communist operatives began to infiltrate the states of Peninsular Malaysia from south Thailand (where they had fled to after the Malayan Emergency). 
+Regarding Peninsular Malaysia and Singapore as one political entity, the CPM sought to establish Singapore as a base to support their insurgency in Malaysia, procuring equipment, funds and support from the city-state. With these plans in mind, the renewed communist insurrection soon crossed into Singapore. 
+More Bombings and Banners
+In addition to the fatal bombing in April 1970, 22 cases of arson and 11 bomb incidents were traced to the CPM between 1969 and 1983. In 1971, as a vivid reminder of its power and reach in Singapore, CPM operatives again planted communist banners, flags and dummy bombs across the island. 
+In 1974, after a major split within the CPM itself, rival factions intensified their attacks in Singapore to prove their revolutionary zeal. In June, a homemade bomb attached to three communist flags exploded on an overhead bridge outside People’s Park Complex. Throughout the year, Singaporeans were subjected to a succession of dummy bombs, banners, pamphlets and flags inscribed with communist symbols and slogans. 
+Perhaps the most sensational incident of this period was the Still Road bombing, also known as the Katong bombing. Around mid-December 1974, Nanyang Shoe Factory managing director Soh Keng Chin received a letter wrapped around a live bullet. Written in Chinese, the threatening note condemned Soh’s exploitation of workers at his Johor Baru factory, which had been shut down in July 1973, and warned him to “be careful”.
+In the early hours of 20 December 1974, three CPM operatives set out to kill Soh. They drove a blue Austin car carrying four bombs, intending to detonate them at Soh’s bungalow in Katong. However, while waiting at a traffic junction near Still Road at 5.20 am, one of the volatile explosives in the car suddenly exploded.       
+The explosion sent glass and metal shards over a 100-metre radius. Witnesses saw “tongues of flames flickering from the mess that was the Austin”, while the morning air was “pungent with the smell of gunpowder”. 
+The vehicle’s driver, Gay Beng Guan, 37, was hurled out of the car by the force of the blast. He was found “writhing and groaning in agony from the burns and injuries all over. Blood oozed from… the opening where his left arm had been torn off”. He died about two weeks later in Outram Hospital. Lim Chin Huat, 23, the front-seat passenger, was “smeared with blood, his abdomen ripped open and his arms severed by the blast”. He died at the scene. The third man, Tan Teck Meng, who had been seated at the rear of the car, escaped with severe burns, but he was later caught and detained by police. 
+That same morning, police found three more bombs strung across the North Bridge Road office of Nanyang Manufacturing (an affliate company of Nanyang Shoe Factory). The bombs were hung alongside banners that read “The Righteous Struggle of Johor Baru Nanyang Shoe Factory Workers Must Win” and for all to “Most rigorously condemn the persecution of workers by the reactionary management”. 
+The horrific deaths of the communist agents – described, photographed and published in vivid detail in newspapers – were perhaps the most sobering demonstration of the bloodshed the CPM was prepared to inflict. Yet these explosions were only the most visible manifestations of the CPM’s operations in Singapore. 
+Throughout the 1970s, the police and the Internal Security Department (ISD, which succeeded the Singapore Special Branch) uncovered numerous CPM plots to infiltrate local organisations, attack key installations and assassinate government leaders. Although such schemes were fortunately prevented, they illustrate the sheer scale of carnage communist forces were planning to wreak. 
+Arms, Ammunition and Assassination Plots
+Security operations in 1974 uncovered communist banners, flags and simulated booby-traps, along with large troves of arms, ammunition and explosives, which included “42 bullets, one hand grenade, six grenade casings, 16 detonators, one compass, eight gelignite sticks, [and] three crude bombs”. Plans to establish a local assassination squad were also discovered, along with electrical diagrams of the homes of key government officials and buildings, drawn up by a CPM member who was an electrical subcontractor. 
+These chilling assassination plots mirrored the CPM’s ongoing surgical strikes on key police leaders in Malaysia. On 4 June 1974, Malaysia’s Inspector-General of Police, Tan Sri Abdul Rahman Hashim, was killed by a CPM assassination squad. About 16 months later, in November 1975, Tan Sri Koo Chong Kong, the Chief Police Officer of Perak, was shot and killed in broad daylight in Ipoh, Perak. These same assassins later plotted to kill Singapore Police Commissioner Tan Teck Kim in 1976, but were arrested before they could execute their plan. Although Singapore’s security forces were able to narrowly foil such plots, the danger of CPM-fomented terror persisted. 
+In July 1975, a captured CPM agent led Singapore police officers to a cache of “189 hand grenades, 210 detonators, a .38 revolver, a .25 Colt automatic pistol, 75 rounds of ammunition and several communist books and documents.” Later that month, another 109 hand grenades were found in two earthen jars, buried in the grounds of another operative’s house. In numerous press releases, the Ministry of Home Affairs detailed the extensive involvement of captured agents with CPM cell leaders, which went as far back as the 1950s.   
+Another ISD sweep captured four more communist cells in 1977, which comprised local construction workers and even a reservist SAF officer. One of these CPM units was a construction company involved in the building of drains in Tuas Village and Newton Road. These projects had raised $46,000 for the CPM. That same year, a full-time national service police inspector was arrested for providing “confidential information”, such as the car registration plate numbers and names of key ISD personnel. 
+Taken together, such discoveries indicate that the CPM had planned catastrophic terrorist attacks on the island, so as to “oppose the reactionary rule” of Singapore’s government and to “unyieldingly take the road of armed struggle”. 
+Yet CPM members alone could not “liberate… Malaya including Singapore”. To succeed, its agents needed to recruit people to their revolutionary cause. As communist banners and bombs mushroomed across the island, a parallel struggle for the hearts and minds of regular Singaporeans was also underway, one which played out in underground networks and across Singapore’s airwaves. 
+Information War: Underground 	and Over the Airwaves
+CPM operatives quietly sought out sympathisers through informal channels, cultivating disillusioned, well-meaning residents who wanted to build a more equal and just society. Under the guise of conducting Chinese tuition or discussing Chinese culture, CPM operatives slowly indoctrinated potential recruits with communist literature. These underground networks led by CPM elements enabled the party to not only gradually amass classified intelligence, funds and equipment for their cause, but to also develop local satellite organisations, often led by indoctrinated “revolutionary youths”.
+Concurrently, the CPM waged an information offensive over Singapore’s airwaves.  In November 1969, using powerful broadcasting equipment supplied by the CCP, the Voice of Malayan Revolution (VMR) began radio broadcasts from a mountainous region in South China, seeking to disseminate the “the revolutionary truth and news of our army’s victories and of the people’s struggle” to all listeners within range. 
+Listeners in Singapore could tune in to VMR broadcasts twice daily on AM radio. On 29 July 1970, Singapore Telecoms began jamming these long-range transmissions, but with limited success. VMR broadcasts continued until June 1981 when the station was shut down on the CCP’s orders. Despite the VMR’s closure, the CPM continued radio broadcasts from a new radio station called Suara Demokrasi (Voice of Democracy) from a new mobile transmitter on the Thai-Malaysian border until the signing of the 1989 Haadyai Peace Agreement. 
+CPM Leader Chin Peng claimed that many communist sympathisers and cadres throughout Malaysia and Singapore “tuned in eagerly” to the radio broadcasts. However, Eu Chooi Yip, a senior CPM cadre and who was also director of VMR’s Chinese programming section, disagreed. In an oral history interview in 1992, Eu described many of VMR’s programmes as simply a rehash of existing news reports from local newspapers with the addition of communist rhetoric. Eu recounted how cadres on the ground were in fact “not really willing to listen” to the programme, likening the broadcasts to serving “leftover rice” (“他们说连他们自己也不大愿意听, 打开电台听一下… 就不听了… 和炒冷饭一样”). 
+Adding to the challenge was that VMR had to compete for attention from the likes of the highly popular Rediffusion radio service. By 1975, Rediffusion boasted a Chinese adult listenership of about 229,000. VMR’s austere, often repetitive, revolutionary pronouncements offered no substantive rejoinder to Rediffusion’s dazzling programming. 
+The growing access to television in Singapore further blunted VMR’s allure. A 1979 government survey revealed that nine out of 10 households owned a television and about one-fifth owned colour television sets, a statistic that also reflected the growing prosperity of Singaporeans. VMR’s propaganda had to compete with programmes such as the first live, colour telecast of the World Cup football final in 1974 between the Netherlands and West Germany.  
+The CPM’s information offensive did succeed in enticing some Singaporeans, even people in authority. In 1979, two prison wardens at the Moon Crescent Detention Centre confessed to smuggling cassette recorders into the compound for inmates to tape VMR broadcasts and to passing VMR transcripts between detainees. 
+Another View of the 1970s
+Today, whether in local textbooks, museum exhibitions or personal accounts, the 1970s are primarily remembered as a period of economic growth in Singapore’s history. On the surface, it appears as an uncomplicated, transitional decade: between the chaos of the 1960s and self-confidence of the 1980s.
+However, newspaper articles, government reports, oral histories and scholarly studies reveal that the 1970s were far more volatile and uncertain than more conventional historical accounts let on. The April 1970 Changi bombing heralded the start of renewed communist violence and subversion in Singapore. Although the police and ISD successfully foiled most of these plans, the regular discoveries of these assassination plots, arms caches and cell groups point to a sustained, systematic CPM presence in Singapore, even after the chaotic upheavals of the 1960s. 
+The vigilance of local security forces resulted in a significant drop in bombings and arson attacks in the 1980s. The government, however, remained alert to subversive efforts by CPM agents, aware that the “communists work with a long term view, gradually infiltrating political parties, unions, the armed forces and other major bodies”. 
+The communist threat, though diminished, persisted until 2 December 1989 when the CPM signed the Haadyai Peace Agreements at the Lee Gardens Hotel in the southern Thai city of Haadyai. Over 1,100 CPM guerrillas agreed to lay down their arms in an “honourable settlement” that brought the 41-year conflict to a formal close.    
 	
 <div style="background-color: white;">
 <br/>
