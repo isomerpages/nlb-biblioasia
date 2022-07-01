@@ -56,7 +56,7 @@ For the event, Taoyuan Fut Tong prepared the food, while staff from Bodhi Lin se
 
 Bodhi Lin celebrated its 18th anniversary in 1972 and in a newspaper article of the period, the restaurant was described as one of the most famous vegetarian restaurants in Singapore.[^15] In particular, it was known for its vegetarian mooncakes, which were so famous that it even attracted customers from Malaysia.[^16] Bodhi Lin subsequently shuttered, but when this happened requires additional research.
 
-![](/images/Vol%2018%20Issue%201/Chinese%20Buddhist%20Women/Chinese%20Buddhist%20Women%20-%20Image%209.png)
+![](/images/Vol%2018%20Issue%202/Chinese%20Buddhist%20Women/Chinese%20Buddhist%20Women%20-%20Image%204.png)
 <div style="background-color: white;">Fut Sai Kai Vegetarian Restaurant (extreme right) was one of the pioneers in Chinese vegetarian food in Singapore. Pictured on the right is the founder Ko Tian-gu. <i>Image reproduced from 善华 [Shan Hua], 本与佛教有深厚渊源而今随时代的进步 有益健康素食渐在我国流行 [“Singapore and Buddhism Have Strong Ties and Evolve with the Times. Healthy Vegetarian Food Is Becoming Popular in Singapore”], 新明日报 [Shinmin Daily News], 11 August 1980, 5. (From NewspaperSG).</i></div>
 
 The third establishment set up by these women was Fut Sai Kai Vegetarian Restaurant. Set in an “unpretentious shophouse but with much more character than the average coffeeshop”,[^17] the restaurant was founded in 1953 by Ko Tian-gu (高添姑) and run by several vegetarian nuns.
