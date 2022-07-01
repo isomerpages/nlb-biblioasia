@@ -83,7 +83,7 @@ The cinemas in Cathay Building closed on 30 June 2000. In line with its status a
 ![cathay 2006 facade](/images/Cathay/cathay%202006%20facade.jpg) 
 <div style="background-color: white;">Cathay Building, 2022. <i>Photo by and courtesy of Soh Gek Han</i>.</div>
 
-In 2006, The Cathay reopened with as a shopping mall and an eight-hall multiplex –  including Picturehouse, which had first opened in 1990 to feature art films.[^17]
+In 2006, The Cathay reopened with a shopping mall and an eight-hall multiplex –  including Picturehouse, which had first opened in 1990 to feature art films.[^17]
 
 In 2017, entertainment company mm2 Asia acquired all of Cathay’s cinema operations, including Cathay Cineplex, in a $230 million deal. Cathay Organisation sold off only its cinema business and continued to own the Cathay Building and Cathay Cineleisure Orchard mall.[^18]
 
