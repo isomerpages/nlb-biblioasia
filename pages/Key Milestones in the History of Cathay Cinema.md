@@ -50,8 +50,8 @@ After the war, the Cathay Building became the headquarters for Admiral Louis Mou
 ![](/images/Cathay/plague-loke-yew-loke-wan-tho.jpg)
 <div style="background-color: white;">Left to right: Brass plaque with the logo of SACSEA (<i>Singapore Broadcasting Corporation Collection, courtesy of National Archives of Singapore</i>); Mrs Loke Yew (<i>Sir Percy McNeice Collection, courtesy of National Archives of Singapore</i>); Mr Loke Wan Tho (<i>Sir Percy McNeice Collection, courtesy of National Archives of Singapore</i>).</div>
 
-#### Civilian Use of the Building
-The cinema reopened in September 1945, but it was only in February 1949 that the  government vacated the building and Cathay Organisation regained full control. On 9 January 1954, Cathay Hotel started operations until 30 December 1970. After that, the space was converted into offices. [^9]  
+#### Cathay Organisation Regains Control
+The cinema and restaurant reopened in September 1945 and May 1948 respectively, but it was only in February 1949 that the  government vacated the building and Cathay Organisation regained full control. On 9 January 1954, Cathay Hotel started operations until 30 December 1970. The hotel space was converted into offices.[^9]  
 
 ![loke 1948 cathay](/images/Cathay/cathay-1948.jpg) <div style="background-color: white;"><i>Image reproduced from “Loke Demands Release of Cathay,” Straits Times, 11 January 1948, 3</i>. </div>
 
@@ -108,9 +108,9 @@ Cathay Cineplex’s last day of operations was 26 June 2022. The last show to be
 
 [^8]: Lim, [_Cathay_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6095688), 104; “[Govt. to Vacate Cathay Building](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19490128-1.2.35),” *Malaya Tribune*, 28 January 1949, 3. (From NewspaperSG)
 
-[^9]: Brazil, [Street Smart](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=5796453), 128–29; “[Liquidate The Cathay Restaurant Opens May 1](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/morningtribune19480417-1.2.22), _Morning Tribune_, 17 April 1948, 2; “[Govt. to Vacate Cathay Building](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19490128-1.2.35)”; “Studios Turn into a Plush Hotel,” Singapore Standard, 9 January 1954, 2 (From NewspaperSG); Vernon Cornelius-Takahama and Ong Eng Chuan, “[Cathay Building](https://eresources.nlb.gov.sg/infopedia/articles/SIP_532_2004-12-17.html),” Singapore Infopedia, last updated September 2020.
+[^9]: “[Liquidate The Cathay Restaurant Opens May 1](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/morningtribune19480417-1.2.22), _Morning Tribune_, 17 April 1948, 2; “[Govt. to Vacate Cathay Building](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19490128-1.2.35)”; “Studios Turn into a Plush Hotel,” Singapore Standard, 9 January 1954, 2 (From NewspaperSG); Lim, [_Cathay_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6095688), 107–108, 110.
 
-[^10]: Cornelius-Takahama and Ong, “Cathay Building”; Michelle Ho, “Last Movie Show at the Old Cathay,” Straits Times, 1 July 2000, 3. (From Newslink via NLB [eResources](https://eresources.nlb.gov.sg/) website)
+[^10]: Vernon Cornelius-Takahama and Ong Eng Chuan, “[Cathay Building](https://eresources.nlb.gov.sg/infopedia/articles/SIP_532_2004-12-17.html),” Singapore Infopedia, last updated September 2020; Michelle Ho, “Last Movie Show at the Old Cathay,” Straits Times, 1 July 2000, 3. (From Newslink via NLB [eResources](https://eresources.nlb.gov.sg/) website)
 
 [^11]: “World War II Plaque (Outside Cathay Cinema),” Ministry of Information and the Arts Collection, 1995–1999. (National Archives of Singapore media image no. 19990001374 – 0040)
 
