@@ -133,7 +133,7 @@ Half tablespoon sugar<br>
 	
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol%2018%20Issue%201/Authors/Kelvin_Tan.png" style="width: 100px; height: 100px;"/>
+<img src="/images/Vol%2018%20Issue%202/Authors/Kelvin_Tan.png" style="width: 100px; height: 100px;"/>
 	<b>Kelvin Tan</b> graduated with a Bachelor of Arts in history from the National University of Singapore. He was a research assistant for the project “Mapping Female Religious Heritage in Singapore: Chinese Temples as Sites of Regional Socio-cultural Linkage” funded by the National Heritage Board. </div>
 
 	
