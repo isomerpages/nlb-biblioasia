@@ -3,8 +3,8 @@ title: Red Terror
 permalink: /red-terror
 description: ""
 ---
-#### The Forgotten Story of CPM Violence and Subversion 
-in Newly Independent Singapore. By **Kelvin Tan**
+#### The 1970s are often remembered as a time of rapid economic transformation and progress for
+Singapore, but this period also saw communist bombings, assassination plots and covert information wars. By **Choo Ruizhi**
 
 ![](/images/Vol%2018%20Issue%202/Chinese%20Buddhist%20Women/Chinese%20Buddhist%20Women%20-%20Image%201.png)
 <div style="background-color: white;">Venerable Ho Yuen Hoe, abbess of Lin Chee Cheng Sia temple. <i>Image reproduced from Shi Chin Yam, Top 100 Vegetarian Delights (Singapore: Man Fut Tong Old People’s Home, 1998). (From National Library, Singapore, call no. RSING 641.5636 SHI).</i></div>
