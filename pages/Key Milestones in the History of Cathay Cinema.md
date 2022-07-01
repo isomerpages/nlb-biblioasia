@@ -73,22 +73,22 @@ In commemoration of the 50th anniversary of the end of WWII in 1995, the Nationa
  
  
 #### A National Monument
- In 1999, Cathay Organisation submitted a S$100 million plan to redevelop Cathay Building. Before the plan was approved by the Urban Redevelopment Authority, the Preservation of Monuments Board (now known as the Preservation of Sites and Monuments) identified Cathay Building as a possible landmark for preservation because of its history, especially during WWII.[^14] The cinemas in Cathay Building closed on 30 June 2000. On 10 February 2003, Cathay Building was gazetted as a national monument. 
+ In 2000, Cathay Organisation had plans to redevelop Cathay Building for $100 million.[^14]  Before the plan was approved by the Urban Redevelopment Authority, the Preservation of Monuments Board (now known as the Preservation of Sites and Monuments) identified Cathay Building as a possible landmark for preservation because of its history, especially during WWII. The cinemas in Cathay Building closed on 30 June 2000.[^15] On 10 February 2003, Cathay Building was gazetted as a national monument. 
 
 <img src="/images/Cathay/cathay-national-monument.jpg" style="width:70%" >
 <div style="background-color: white;">A marker of history. <i>Photo by and courtesy of Soh Gek Han</i>.</div>
 
 
-In line with its status as a national monument, the art deco facade of the building was preserved, with its geometric forms and curved, stepped walls, and with the name displayed vertically. The rest of the building was redeveloped, and the original brown-tiled façade was incorporated into modern glass architecture.[^15].
+In line with its status as a national monument, the art deco facade of the building was preserved, with its geometric forms and curved, stepped walls, and with the name displayed vertically. The rest of the building was redeveloped, and the original brown-tiled façade was incorporated into modern glass architecture.[^16].
 
 ![cathay 2006 facade](/images/Cathay/cathay%202006%20facade.jpg) 
 <div style="background-color: white;">Cathay Building, 2022. <i>Photo by and courtesy of Soh Gek Han</i>.</div>
 
-In 2006, The Cathay reopened with as a shopping mall and an eight-hall multiplex –  including Picturehouse, which had first opened in 1990 to feature art films.[^16]
+In 2006, The Cathay reopened with as a shopping mall and an eight-hall multiplex –  including Picturehouse, which had first opened in 1990 to feature art films.[^17]
 
-In 2017, entertainment company mm2 Asia acquired all of Cathay’s cinema operations, including Cathay Cineplex, in a $230 million deal. Cathay Organisation only sold off its cinema business and continued to hold the Cathay building and the Cathay Cineleisure Orchard mall.[^17]
+In 2017, entertainment company mm2 Asia acquired all of Cathay’s cinema operations, including Cathay Cineplex, in a $230 million deal. Cathay Organisation only sold off its cinema business and continued to hold the Cathay building and the Cathay Cineleisure Orchard mall.[^18]
 
-Cathay Cineplex’s last day of operations was 26 June 2022. The last show to be screened was *Top Gun: Maverick*at 9pm. The space used by the cineplex will be occupied by a pop-up run by The Projector from August and will be named Projector X:Picturehouse. It will be used for films and live performances.[^18]
+Cathay Cineplex’s last day of operations was 26 June 2022. The last show to be screened was *Top Gun: Maverick*at 9pm. The space used by the cineplex will be occupied by a pop-up run by The Projector from August and will be named Projector X:Picturehouse. It will be used for films and live performances.[^19]
 
 
 #### **NOTES**
@@ -118,12 +118,14 @@ Cathay Cineplex’s last day of operations was 26 June 2022. The last show to be
 
 [^13]: “World War II Plaque (Outside Cathay Cinema),” Ministry of Information and the Arts Collection, 1995–1999. (National Archives of Singapore media image no. 19990001374 – 0040)
 
-[^14]: Leong Weng Kam, “[Landmark Building May Yet Be Saved](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20000406.2.40.1.aspx),” _Straits Times,_ 6 April 2000, 31. (From NewspaperSG)
+[^14] Chris Loh, "[Cathay Building Is to Be Redeveloped for $100m](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes20000219-1.2.9.1)," *Business Times*, 19 February 2000, 2. (From NewspaperSG)
 
-[^15]: The Preservation of Monuments Order 2003, Sp.S 60/2003, [_Government Gazette. Subsidiary Legislation Supplement_](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4396424), 10 February 2003, 370 (From National Library, Singapore, Call no. RSING 348.5957 SGGSLS); “Cathay’s Contemporaries,” _Business Times_, 21 April 2000, EL1–EL2 (From Newslink via NLB [eResources](https://eresources.nlb.gov.sg/) website); “[Former Cathay Building (Now The Cathay)](https://www.roots.gov.sg/places/places-landing/Places/national-monuments/former-cathay-building-now-the-cathay)” Roots, last updated 5 May 2022.
+[^15]: Leong Weng Kam, “[Landmark Building May Yet Be Saved](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20000406.2.40.1.aspx),” _Straits Times,_ 6 April 2000, 31. (From NewspaperSG)
 
-[^16]: Ong Sor Fern, “The Cathay Reopens,” Straits Times, 25 March 2006, 2; Wong Kim Hoh, “When a Passionista Gets Dream Job, Sparks Fly,” Straits Times, 26 March 2006, 33. (From Newslink via NLB [eResources](https://eresources.nlb.gov.sg/) website)
+[^16]: The Preservation of Monuments Order 2003, Sp.S 60/2003, [_Government Gazette. Subsidiary Legislation Supplement_](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4396424), 10 February 2003, 370 (From National Library, Singapore, Call no. RSING 348.5957 SGGSLS); “Cathay’s Contemporaries,” _Business Times_, 21 April 2000, EL1–EL2 (From Newslink via NLB [eResources](https://eresources.nlb.gov.sg/) website); “[Former Cathay Building (Now The Cathay)](https://www.roots.gov.sg/places/places-landing/Places/national-monuments/former-cathay-building-now-the-cathay)” Roots, last updated 5 May 2022.
 
-[^17]: Annabeth Low, "mm2 Asia Expands Footprint with S$230m Cathay Cinema Deal,"* Business Times* 3 November 2017, 8; John Lui, "Sudden Exits," *Straits Times*, 23 December 2017, A10. (From Newslink via NLB [eResources](https://eresources.nlb.gov.sg/) website)
+[^17]: Ong Sor Fern, “The Cathay Reopens,” Straits Times, 25 March 2006, 2; Wong Kim Hoh, “When a Passionista Gets Dream Job, Sparks Fly,” Straits Times, 26 March 2006, 33. (From Newslink via NLB [eResources](https://eresources.nlb.gov.sg/) website)
 
-[^18]: Shannon Ling, “The Cathay Cineplex in Handy Road, One of Singapore’s Oldest Cinemas, to Close after June 26,” _Straits Times_, 17 June 2022; Melissa Lin, “Cinema with a Grim and Glamorous Past,” _Straits Times_, 5 November 2017 (From Newslink via NLB [eResources](https://eresources.nlb.gov.sg/) website); Ang Hwee Min, “[A Subdued Final Day as The Cathay Cineplex Draws the Curtain on Operations](https://www.channelnewsasia.com/singapore/cathay-cineplex-last-day-operations-moviegoers-final-screenings-2771741),” Channel NewsAsia, 26 June 2022.
+[^18]: Annabeth Low, "mm2 Asia Expands Footprint with S$230m Cathay Cinema Deal,"* Business Times* 3 November 2017, 8; John Lui, "Sudden Exits," *Straits Times*, 23 December 2017, A10. (From Newslink via NLB [eResources](https://eresources.nlb.gov.sg/) website)
+
+[^19]: Shannon Ling, “The Cathay Cineplex in Handy Road, One of Singapore’s Oldest Cinemas, to Close after June 26,” _Straits Times_, 17 June 2022; Melissa Lin, “Cinema with a Grim and Glamorous Past,” _Straits Times_, 5 November 2017 (From Newslink via NLB [eResources](https://eresources.nlb.gov.sg/) website); Ang Hwee Min, “[A Subdued Final Day as The Cathay Cineplex Draws the Curtain on Operations](https://www.channelnewsasia.com/singapore/cathay-cineplex-last-day-operations-moviegoers-final-screenings-2771741),” Channel NewsAsia, 26 June 2022.
