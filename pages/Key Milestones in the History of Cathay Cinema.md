@@ -39,7 +39,7 @@ In 1941, Cathay Building was rented to the colonial government and the Malayan B
 
 After Singapore fell to the Japanese in 1942, the building was renamed Dai Toa Gekjio (Greater Eastern Asian Theatre) and became home to the Japanese broadcasting and propaganda departments. Transmissions of Radio Syonan from Cathay Building began in March 1942.[^6]
 
-The daytime radio programme usually had Japanese lessons and songs for schools, while the evening programme included a segment for Japanese soldiers, as well as news and entertainment in Japanese, Hindustani, Malay, Tamil, Cantonese, Hokkien and English.[^7]
+The daytime radio programme usually had Japanese lessons and songs for students, while the evening programme included a segment for Japanese soldiers, as well as news and entertainment in Japanese, Hindustani, Malay, Tamil, Cantonese, Hokkien and English.[^7]
 
 <img src="/images/Cathay/1942-syonan%20radio.jpg" style="width:50%" >
 <div style="background-color: white;">“Radio news”. Programme of Syonan Broadcasting Station. <i>Images reproduced from Syonan Shimbun, 28 June 1942,3;<i>Syonan Shimbun</i>, 26 July 1942, 2</i>. (From NewspaperSG) </div>
