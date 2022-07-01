@@ -4,10 +4,10 @@ permalink: /history-cathay-cinema-2022
 description: ""
 image: /images/Cathay/Cathay-1941.jpg
 ---
-#### The closing of the Cathay Cineplex in June 2022 marks the end of an era. Here’s a look at the Cathay Building and cinema over the years.
+#### Cathay cinema at Handy road was one of Singapore's oldest cinemas. Its closing in June 2022 marks the end of an era. Here’s a look at the Cathay Building and cinema over the years.
 
 #### The First Skyscraper in Singapore
-The 16-storey Cathay Building was once the tallest building in Singapore, at 70 m. Located at the foot of Mount Sophia in the Dhoby Ghaut area, the building used to house the Cathay Hotel, Cathay Restaurant and Cathay cinema, which was one of Singapore’s oldest cinemas.[^1]
+The 16-storey Cathay Building was once the tallest building in Singapore, at 70 m. Located at the foot of Mount Sophia in the Dhoby Ghaut area, the building used to house the Cathay Hotel, Cathay Restaurant and Cathay cinema.[^1]
 
 <img src="/images/Cathay/1937%20construction%20cathay.jpg">
 <div style="background-color: white;">Cathay Building under construction, 1937. <i>Image reproduced from Lim Kay Tong, Cathay: 55 Years of Cinema (Singapore: Landmark Books, 1991). (From National Library, Singapore, RSING 791.43095957 LIM)</i> </div>
@@ -96,9 +96,9 @@ Cathay Cineplex’s last day of operations was 26 June 2022. The last show to be
 
 [^2]: “[Americans Celebrate Washington Day](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19400222-1.2.56),” _Straits Times_, 22 February 1940, 10; “[Jap Bombs Could Not Shake Its Spirit](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19490925-1.2.96),” _Malaya Tribune_, 25 September 1949, 11. (From NewspaperSG)
 
-[^3]: Lim Kay Tong, [*Cathay: 55 Years of Cinema*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6095688) (Singapore: Landmark Books, 1991), 15, 98 (From National Library, Singapore, Call no. RSING 791.43095957 LIM)
+[^3]: Lim Kay Tong, [*Cathay: 55 Years of Cinema*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6095688) (Singapore: Landmark Books, 1991), 98 (From National Library, Singapore, Call no. RSING 791.43095957 LIM); "[Inside Singapore's Newest Cinema Opens On Tuesday](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19391001-1.2.173)," *Straits Times*, 1 October 1939, 20. (From NewspaperSG)
 
-[^4]:  Lim, [_Cathay_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6095688), 15, 98; “[Cathay Cinema Opens Doors Tonight](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19391003-1.2.55),” _Singapore Free Press and Mercantile Advertiser_, 3 October 1939, 5; “['Four Feathers' Released](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19390730-1.2.123),” _Straits Times_, 30 July 1939, 13. (From NewspaperSG)
+[^4]:  Lim, [_Cathay_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6095688), 98; “[Cathay Cinema Opens Doors Tonight](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19391003-1.2.55),” _Singapore Free Press and Mercantile Advertiser_, 3 October 1939, 5; “['Four Feathers' Released](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19390730-1.2.123),” _Straits Times_, 30 July 1939, 13. (From NewspaperSG)
 
 [^5]: Tommy Koh et al.,* Singapore: The Encyclopedia* (Singapore : Editions Didier Millet and National Heritage Board, 2006), 37. (From National Library, Singapore, Call no. RSING 959.57003 SIN)
 
