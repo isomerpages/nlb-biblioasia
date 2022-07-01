@@ -78,7 +78,7 @@ In commemoration of the 50th anniversary of the end of WWII in 1995, the Nationa
 <img src="/images/Cathay/cathay-national-monument.jpg" style="width:70%" >
 <div style="background-color: white;">A marker of history on Cathay Building. <i>Photo by and courtesy of Soh Gek Han</i>.</div>
 
-The cinemas in Cathay Building closed on 30 June 2000. In line with its status as a national monument, the art deco facade of the building was preserved, with its geometric forms and curved, stepped walls, and with the name displayed vertically. The rest of the building was redeveloped, and the original brown-tiled façade was incorporated into modern glass architecture.[^16].
+The cinemas in Cathay Building closed on 30 June 2000. In line with its status as a national monument, the art deco facade of the building was preserved, with its geometric forms and curved, stepped walls, and with the name displayed vertically. The rest of the building was redeveloped, and the original brown-tiled façade was incorporated into modern glass architecture.[^16]
 
 ![cathay 2006 facade](/images/Cathay/cathay%202006%20facade.jpg) 
 <div style="background-color: white;">Cathay Building, 2022. <i>Photo by and courtesy of Soh Gek Han</i>.</div>
