@@ -51,7 +51,7 @@ After the war, the Cathay Building became the headquarters for Admiral Louis Mou
 <div style="background-color: white;">Left to right: Brass plaque with the logo of SACSEA (<i>Singapore Broadcasting Corporation Collection, courtesy of National Archives of Singapore</i>); Mrs Loke Yew (<i>Sir Percy McNeice Collection, courtesy of National Archives of Singapore</i>); Mr Loke Wan Tho (<i>Sir Percy McNeice Collection, courtesy of National Archives of Singapore</i>).</div>
 
 #### Cathay Organisation Regains Control
-The cinema and restaurant reopened in September 1945 and May 1948 respectively, but it was only in February 1949 that the  government vacated the building and Cathay Organisation regained full control. On 9 January 1954, Cathay Hotel started operations until 30 December 1970. The hotel space was converted into offices.[^9]  
+The cinema and restaurant reopened in September 1945 and May 1948 respectively, but it was only in February 1949 that the  government vacated the building and Cathay Organisation regained full control. On 9 January 1954, Cathay Hotel started operations until 30 December 1970. From 1970 to  hotel space was converted into offices.[^9]  
 
 ![loke 1948 cathay](/images/Cathay/cathay-1948.jpg) <div style="background-color: white;"><i>Image reproduced from “Loke Demands Release of Cathay,” Straits Times, 11 January 1948, 3</i>. </div>
 
