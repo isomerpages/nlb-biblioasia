@@ -92,8 +92,6 @@ During Jian’s time at Tse Tho Aum, the temple developed a reputation for its t
 
 In many ways, women like Jian Daxian, Yang Muzhen, Yang Qincai and Venerable Ho Yuen Hoe were ahead of their time. Today, the vegetarian is spoiled for choice in Singapore. Apart from the mainstay of Indian and Chinese vegetarian restaurants, there are vegetarian eateries offering Indonesian, Peranakan, Korean, Japanese and Vietnamese cuisine. Most food courts, coffeeshops and hawker centres will also have at least one vegetarian food stall. Loke Woh Yuen, Fut Sai Kai and Bodhi Lin may have faded away, but their spirit lives on.
 
-<div style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba; display:block; font-size:1rem; line-height:1.5rem;">Research for this essay was funded by the National Heritage Board’s Heritage Research Grant under the project titled “Mapping Female Religious Heritage in Singapore: Chinese Temples as Sites of Regional Socio-cultural Linkage” (A-0003245-00-00). The author wishes to thank the principal investigator of the project Dr Show Ying Ruo from the Asia Research Institute, National University of Singapore, for her guidance and comments on an early draft of this essay.</div>
-
 <div style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba; display:block; font-size:1rem; line-height:1.5rem;">
 <img src="/images/Vol%2018%20Issue%202/Chinese%20Buddhist%20Women/Chinese%20Buddhist%20Women%20-%20Image%206.png">
 The vegetarian <i>soon kueh</i> of Hai Inn See and an undated portrait of Abbess Yang Qincai. <i>Images reproduced from 海印古寺90周年特輯 [Haiingu Temple 90th Anniversary Special] (Singapore: Hai Inn Temple, 2018), 143, 144.</i>
@@ -130,6 +128,8 @@ Half tablespoon sugar<br>
 <br><br>
 <i>Soon kueh</i> recipe reproduced from 海印古寺90周年特輯 [<i>Haiingu Temple 90th Anniversary Special</i>], Singapore: Hai Inn Temple, 2018, p. 145.
 </div>
+	
+<div style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba; display:block; font-size:1rem; line-height:1.5rem;">Research for this essay was funded by the National Heritage Board’s Heritage Research Grant under the project titled “Mapping Female Religious Heritage in Singapore: Chinese Temples as Sites of Regional Socio-cultural Linkage” (A-0003245-00-00). The author wishes to thank the principal investigator of the project Dr Show Ying Ruo from the Asia Research Institute, National University of Singapore, for her guidance and comments on an early draft of this essay.</div>
 	
 <div style="background-color: white;">
 <br/>
