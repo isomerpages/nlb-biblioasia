@@ -139,64 +139,84 @@ Half tablespoon sugar<br>
 	
 #### **NOTES**
 
-[^1]: Show Ying Ruo, “Virtuous Women on the Move: Minnan Vegetarian Women (Caigu) and Chinese Buddhism in Twentieth-century Singapore,” 華人宗教研究 [*Studies in Chinese Religions*] 17 (2021): 138, 167–68, https://www.academia.edu/46956207/Virtuous_Women_on_the_Move_Minnan_Vegetarian_Women_caigu_and_Chinese_Buddhism_in_Twentieth_Century_Singapore.
+[^1]: “[Bomb Victim Dies](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19700425-1.2.7),” Straits Times, 25 April 1970, 1; “[Flag Bombs Go Off in S’pore Too](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19700424-1.2.3),” Straits Times, 24 April 1970, 1; John Tan, “[Underground Network’s Deadly Record](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19831130-1.2.70.2),” Straits Times, 30 November 1983, 22. (From NewspaperSG)
 
-[^2]: 许源泰 [Xu Yuantai], [沿革与模式: 新加坡道教和佛教传播研究](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=200143459) [*Evolution and Model: The Propagation of Taoism and Buddhism in Singapore*] (Singapore: 新加坡国立大学中文系, 2013). (From National Library, Singapore, call no. RSING 294.3095957 XYT)
+[^2]: “[Bomb Found on Bridge](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19700430-1.2.8),” Straits Times, 30 April 1970, 1. (From NewspaperSG)
 
-[^3]: Violet Oon, “[Vegetarian Food for All](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19840826-1.2.43.2),” *Singapore Monitor*, 26 August 1984, 1. (From NewspaperSG)
+[^3]: Chua Sian Chin, “Communism – A Real Threat”, in [Socialism That Works... the Singapore Way](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4082556), ed. C.V. Devan Nair (Singapore: Federal Publications, 1976), 12. (From National Library, Singapore, call no. RSING 335.0095957 SOC)
 
-[^4]: 洪錦棠 [Hong Jintang], [星洲唯一素食舘六和園是佛教徒開辦是婦女界所營業](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19480623-1.2.34.4) [“Singapore’s Only Vegetarian Restaurant Loke Woh Yuen Was Opened by Buddhists and Managed by Women”], 南洋商报 [*Nanyang Siang Pau*], 23 June 1948, 6. (From NewspaperSG)
+[^4]: Lee Ting Hui, [The Open United Front: The Communist Struggle in Singapore, 1954–1966](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=8093741) (Singapore: South Seas Society, 1996), 6. (From National Library, Singapore, call no. RSING 959.5703 LEE)
 
-[^5]: Oon, “[Vegetarian Food for All](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19840826-1.2.43.2).”
+[^5]: Ong Weichong, “Securing the Population from Insurgency and Subversion in the Second Emergency (1968–1981)” (PhD thesis, University of Exeter, 2010), 59.
 
-[^6]: Oon, “[Vegetarian Food for All](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19840826-1.2.43.2).”
+[^6]: Chin Peng, Ian Ward and Norma O. Miraflor, [My Side of History](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12106841) (Singapore: Media Masters, 2003), 439. (From National Library, Singapore, call no. RSING 959.5104092 CHI)
 
-[^7]: 区如柏 [Ou Rubo], [素菜馆“老大”接搬迁令 六和园临别依依](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb19911006-1.2.62.4) [“The ‘Master’ of Vegetarian Restaurants Receives Relocation Orders, Loke Woh Yuen Bids a Reluctant Farewell”], 联合早报 [*Lianhe Zaobao*], 6 October 1991, 42. (From NewspaperSG)
+[^7]: Fong Chong Pik, [Fong Chong Pik: The Memoirs of a Malayan Communist Revolutionary](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13063844) (Petaling Jaya: Strategic Information and Research Development Centre, 2008), 172. (From National Library, Singapore, call no. RSING 959.5704092 FAN-[HIS])
 
-[^8]: [菩提林素食館 昨日經開幕](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/scjp19540130-1.2.42.9) [“Bodhi Lin Vegetarian Restaurant Opened Yesterday”], 星洲日報 [*Sin Chew Jit Poh*], 30 January 1954, 6. (From NewspaperSG)
+[^8]: Chin, Ward and Miraflor, [My Side of History](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12106841), 428–30.
 
-[^9]: [菩提林素食舘 十八週年紀念 本週五設素菜 招待各界嘉賓](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/shinmin19720118-1.2.47) [“In Commemoration of Its 18th Anniversary, Bodhi Lin Vegetarian Restaurant Runs a Vegetarian Banquet This Friday to Serve Guests”], 新明日报 [*Shinmin Daily News*], 18 January 1972, 4. (From NewspaperSG)
+[^9]: Chin, Ward and Miraflor, [My Side of History](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12106841), 453.
 
-[^10]: [菩提林素食館訂二月廿日起義賣十天全部收入捐助南大基金預料售券所得可達一萬元](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19540118-1.2.33.13) [“Bodhi Lin Vegetarian Restaurant Organises a 10-day Charity Drive from the 29th, All Proceeds Go to Nanyang University and Are Expected to Reach $10,000”], 南洋商报 [*Nanyang Siang Pau*], 18 January 1954, 5. (From NewspaperSG)
+[^10]: Aloysius Chin, [The Communist Party of Malaya: The Inside Story](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=7221955) (Kuala Lumpur: Vinpress, 1995), 164. (From National Library, Singapore, call no. RSING 959.51 CHI); Chua, “[Communism](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4082556),” 12–13; Bilveer Singh, [Quest for Political Power](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=201018823) (Singapore: Marshall Cavendish International Asia Pte Ltd, 2015), 165. (From National Library, Singapore, call no. RSING 335.4095957 SIN)
 
-[^11]: [菩提林為南大義賣 獲義款一萬餘元 黃奕歡代表南大贈旗](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/scjp19540303-1.2.29.14) [“Bodhi Lin Raises Over $10,000 in a Charity Drive for Nanyang University, Huang Yihuan of Nanyang University Presents Flag”], 星洲日報 [*Sin Chew Jit Poh*], 3 March 1954, 5. (From NewspaperSG)
+[^11]: “[For Ops across Causeway… Reds Want Singapore as Base, IGP Warns](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19781013-1.2.62),” Straits Times, 13 October 1978, 13. (From NewspaperSG)
 
-[^12]: [義賣齋筵爲廣惠肇醫院募籌建病樓基金](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19580410-1.2.30.16) [“Vegetarian Charity Drive Raises Funds for Kwong Wai Shiu Hospital to Build Wards”], 南洋商报 [*Nanyang Siang Pau*], 10 April 1958, 7. (From NewspaperSG)
+[^12]: Tan, “[Underground Network’s Deadly Record](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19831130-1.2.70.2)”; “[Bomb Hoax, Pro-Red Banners Keep Police Busy](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710103-1.2.9),” Straits Times, 3 January 1971, 1. (From NewspaperSG)
 
-[^13]: [楊慕貞居士慷慨發起定期義賣齋筵二百席全部收入充廣惠肇醫院慈善經費桃園佛堂報効齋料菩提林負責義賣](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19580203-1.2.27.12) [“Yang Muzhen Jushi Kindly Organises Periodic Vegetarian Charity Drive, All Proceeds from a 200-table Banquet Go to Kwong Wai Shiu Free Hospital, Bodhi Lin Manages Its Costs”], 南洋商报 [*Nanyang Siang Pau*], 3 February 1958, 7. (From NewspaperSG)
+[^13]: Leslie Fong and Paul Wee, “[Booby-trap Escape](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19740621-1.2.2),” Straits Times, 21 June 1974, 1; “[Red Banners Seized at Bridges](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19741105-1.2.2),” Straits Times, 5 November 1974, 1. (From NewspaperSG)
 
-[^14]: [桃園佛堂楊慕貞女居士 近舉行齋券義賣 爲廣惠肇留醫院籌款](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/scjp19580304-1.2.31.12) [“Taoyuan Fut Tong’s Yang Muzhen Jushi Recently Organised a Charity Drive to Raise Funds for Kwong Wai Shiu Hospital”], 星洲日報 [*Shin Chew Jit Poh*], 4 March 1958, 7. (From NewspaperSG)
+[^14]: Bharathi Menon, “[Bullet Warning from Bombers](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19741224-1.2.2),” New Nation, 24 December 1974, 1; “[The Katong Bomb Incident](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20111020-1.2.7.1),” Today, 20 October 2011, 2. (From NewspaperSG)
 
-[^15]: [菩提林素食舘 十八週年紀念 本週五設素菜 招待各界嘉賓](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/shinmin19720118-1.2.47).
+[^15]: “[24-hour Police Vigil for Articles with Red Slogans](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19741228-1.2.40),” Straits Times, 28 December 1974, 7. (From NewspaperSG)
 
-[^16]: [菩提林素菜舘巧製純齋月餅](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19650930-1.2.10.10) [“Vegetarian Mooncakes Made by Bodhi Lin Vegetarian Restaurant”], 南洋商报 [*Nanyang Siang Pau*], 30 September 1965, 6. (From NewspaperSG)
+[^16]: Paul Wee, “[Riddle of Bomber No 3](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19741222-1.2.2),” Straits Times, 22 December 1974, 1; Paul Wee, “[Hunt for Bomber No 3](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19741221-1.2.2),” Straits Times, 21 December 1974, 1. (From NewspaperSG)
 
-[^17]: See Foon, “[Vegetarian Food at Its Best](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19730707-1.2.44),” *New Nation*, 7 July 1973, 11. (From NewspaperSG)
+[^17]: Wee, “[Hunt for Bomber No 3](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19741221-1.2.2)”; “[Katong Blast Bomber Dies](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19750104-1.2.41),” Straits Times, 4 January 1975, 8; Lai Yew Kong, “[Bombers’ Link with Reds](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19741223-1.2.2),” Straits Times, 23 December 1974, 1. (From NewspaperSG)
 
-[^18]: [佛世界 今日開業](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/scjp19530331-1.2.34.19) [“Fut Sai Kai Opens Today”], 星洲日報 [*Sin Chew Jit Poh*], 31 March 1953, 6. (From NewspaperSG)
+[^18]: Wee, “[Hunt for Bomber No 3](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19741221-1.2.2)”; Lai, “[Bombers’ Link with Reds](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19741223-1.2.2)”; “[Vital Clues in the Bombers’ Warning Notes...](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19741227-1.2.6.1),” New Nation, 27 December 1974, 2; Leslie Fong, “‘[Red Doc’ Is Back in Prison](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19760605-1.2.3),” Straits Times, 5 June 1976, 1; “[Implications of the Bomb Blast](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19741223-1.2.22.1),” New Nation, 23 December 1974, 10. (From NewspaperSG); Teo Chee Hean, “Parliamentary Speech on the Internal Security Act”, press release, 19 October 2011, https://www.mynewsdesk.com/sg/ministry-of-home-affairs/pressreleases/parliamentary-speech-on-the-internal-security-act-speech-by-mr-teo-chee-hean-deputy-prime-minister-coordinating-minister-for-national-security-695944.
 
-[^19]: [第6页 广告 专栏 2](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19530331-1.2.26.2) [“Page 6 Advertisements Column 2”], 南洋商报 [*Nanyang Siang Pau*], 31 March 1953, 6. (From NewspaperSG)
+[^19]: P.M. Raman, “[30 Detained in Security Raids](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19740622-1.2.2),” Straits Times, 22 June 1974, 1. (From NewspaperSG)
 
-[^20]: 善华 [Shan Hua], [本与佛敎有深厚渊源而今随时代的进步 有益健康素食渐在我国流行](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/shinmin19800811-1.2.9.15) [“Singapore and Buddhism Have Strong Ties and Evolve with the Times. Healthy Vegetarian Food Is Becoming Popular in Singapore”], 新明日报 [*Shinmin Daily News*], 11 August 1980, 5. (From NewspaperSG)
+[^20]: Tan, “[Underground Network’s Deadly Record](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19831130-1.2.70.2)”; “[Communist Threat](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19751006-1.2.87.2),” Straits Times, 6 October 1975, 14. (From NewspaperSG)
 
-[^21]: Shan, [本与佛敎有深厚渊源而今随时代的进步 有益健康素食渐在我国流行](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/shinmin19800811-1.2.9.15).
+[^21]: Chin, [Communist Party of Malaya](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=7221955), 164, 236–38.
 
-[^22]: Wendy Hutton, “[Chicken’s Head? No, It Was Bean-Curd](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19720128-1.2.68.3),” *New Nation*, 28 January 1972, 11. (From NewspaperSG)
+[^22]: Ahmad Osman, “[Police Seize 298 Hand Grenades](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19750805-1.2.7),” Straits Times, 5 August 1975, 1. (From NewspaperSG)
 
-[^23]: “Zen Fut Sai Kai, One of Singapore's Oldest Chinese Vegetarian Restaurants, Closes after 64 Years,” *Straits Times*, 4 September 2017, https://www.straitstimes.com/lifestyle/food/zen-fut-sai-kai-one-of-singapores-oldest-chinese-vegetarian-restaurants-closes-after.
+[^23]: Chua, “[Communism](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4082556),” 17.
 
-[^24]: Yang Qincai (杨芹菜, 1904–75) came to Singapore from Quemoy (Kinmen), China, in 1924 and apprenticed under Hai Inn See’s founder Yinxiu-gu. When she took over the temple’s reins in 1955, Yang grew an assortment of vegetables and fruits, including peanuts and bamboo plants, in its backyard so that the temple could be self-sufficient.
+[^24]: See, for instance, Osman, “[Police Seize 298 Hand Grenades](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19750805-1.2.7)”; “[Freed: Woman Who Was Plen’s Courier](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720623-1.2.45),” Straits Times, 23 June 1972, 6; “[Ex-detainee: I Was Trained to Use Guns and Grenades](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19800521-1.2.52),” Straits Times, 21 May 1980, 9. (From NewspaperSG)
 
-[^25]: 海印古寺90周年特輯 [*Haiingu Temple 90th Anniversary Special*] (Singapore: Hai Inn Temple, 2018), 121.
+[^25]: “[39 Arrested in ISD Swoops](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19771016-1.2.2),” Straits Times, 16 October 1977, 1. (From NewspaperSG)
 
-[^26]: 海印古寺90周年特輯,145.
+[^26]: Singh, [Quest for Political Power](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=201018823), 168; “[Former Officer: I Leaked Secrets to Reds](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19781013-1.2.54),” Straits Times, 13 October 1978, 12. (From NewspaperSG)
 
-[^27]: 陈爱玲 [Chen Ailing], [57岁出家 61岁创安老院 88老尼有个心愿 要开第二间安老院](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/shinmin19960930-1.2.13.16) [“Ordained at 57, Opened a Nursing Home at 61, an 88-year-old Nun Has a Wish to Open a Second Nursing Home”], 新明日报 [*Shinmin Daily News*], 30 September 1996, 5. (From NewspaperSG)
+[^27]: “[Voice of Malayan Revolution Broadcast, 1 May 1980” in Voice of Malayan Revolution: The CPM Radio War Against Singapore and Malaysia, 1969–1981](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13694176), ed. Wang Gungwu and Ong Weichong (Singapore: RSIS, 2009), 218. (From National Library, Singapore, call no. RSING 322.4209595 VOI)
 
-[^28]: Shi Chin Yam, [*Top 100 Vegetarian Delights*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=8991558) (Singapore: Man Fut Tong Old People’s Home, 1998), preface. (From National Library, Singapore, call no. RSING 641.5636 SHI)
+[^28]: Raman, “[30 Detained in Security Raids](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19740622-1.2.2).”
 
-[^29]: Uma Rajan and G. Uma Devi, [*A Life for Others*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12833802) (Singapore: Man Fut Tong Nursing Home, 2007), 23. (From National Library, Singapore, call no. RSING 361.95957 RAJ)
+[^29]: “[Former Officer](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19781013-1.2.54)”; “[Detainee Admits: I Was a Leader of Revolutionary Group](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19771120-1.2.35),” Straits Times, 20 November 1977, 7. (From NewspaperSG)
 
-[^30]: 许源泰 [Hue Guan Thye], [狮城佛光: 新加坡佛教发展百年史](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205584233) [*The Buddha Lights of Lion City: The Hundred-year Development of Buddhism in Singapore*] (Hong Kong: 香港中文大学人间佛教研究中心, 2020), 222–23. (From National Library, Singapore, call no. Chinese RSING 294.3095957 HGT)
+[^30]: “Fifty Years of the CPM (Part VI), 28 June 1981” in [Voice of Malayan Revolution: The CPM Radio War Against Singapore and Malaysia, 1969–1981](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13694176), ed. Wang Gungwu and Ong Weichong (Singapore: RSIS, 2009), 87. (From National Library, Singapore, call no. RSING 322.4209595 VOI)
 
-[^31]: 李若莲与蔡成才 [*Li Ruolian and Cai Chengcai*], [自度庵的素菜](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19840222-1.2.21.1.1) [“Vegetarian Dishes of Tse Tho Aum”], 联合晚报 [*Lianhe Wanbao*], 22 February 1984, 5. (From NewspaperSG)
+[^31]: Original source figures given as 9590 kc/s and 7305 kc/s in the 31- and 41-metre bands. “Internal Security Department (Singapore) Files: The Voice of the Malayan Revolution, 26 May 1971” cited in Ong Weichong, [Malaysia’s Defeat of Armed Communism](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=201072903) (New York: Routledge, 2015), 51. (From National Library, Singapore, call no. RSEA 322.4209595 VOI)
+
+[^32]: Chin, Ward and Miraflor, [My Side of History](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12106841), 460.
+
+[^33]: Chin, Ward and Miraflor, [My Side of History](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12106841), 450.
+
+[^34]: [Eu Chooi Yip (余柱业)](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/2/21c329bd-115e-11e3-83d5-0050568939ad-OHC001359_019/web/html5/index.html), oral history interview by 林孝胜, 25 September 1992, transcript and MP3 audio, Reel 19 of 23, 30:32, National Archives of Singapore (accession no. 001359).
+
+[^35]: Eddie C.Y. Kuo, “Multilingualism and Mass Media Communications in Singapore”, Asian Survey 18, no. 10 (October 1978): 1067–83. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website)
+
+[^36]: For more examples of the VMR’s broadcasts, see [Voice of Malayan Revolution: The CPM Radio War Against Singapore and Malaysia, 1969–1981](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13694176), ed. Wang Gungwu and Ong Weichong (Singapore: RSIS, 2009). (From National Library, Singapore, call no. RSING 322.4209595 VOI)
+
+[^37]: “[S’poreans and Their Rising Affluence](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19791030-1.2.10),” Straits Times, 30 October 1979, 1; “[Soccer ‘Live’ Colour Telecast was ‘Superb’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19740709-1.2.34),” Straits Times, 9 July 1974, 5. (From NewspaperSG)
+
+[^38]: Sit Meng Chue, “[Two Who Were Won Over by Pro-Red Detainees](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19790602-1.2.27),” Straits Times, 2 June 1979, 7. (From NewspaperSG)
+
+[^39]: Leon Comber, [Malaya’s Secret Police, 1945–60: The Role of the Special Branch in the Malayan Emergency](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13055676) (Singapore, ISEAS Publishing, 2008), 6. (From National Library, Singapore, call no. RSING 363.283095951 COM)
+
+[^40]: “[The Red Threat Is Very Real](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19840128-1.2.24.1),” Singapore Monitor, 28 January 1984, 17. (From NewspaperSG)
+
+[^41]: Tan Lian Choo, “[Accord is An Honourable Settlement, Says Chin Peng](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19891203-1.2.25.1.2),” Straits Times, 3 December 1989, 16. (From NewspaperSG)
