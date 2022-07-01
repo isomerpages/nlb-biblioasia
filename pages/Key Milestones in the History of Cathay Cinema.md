@@ -78,15 +78,14 @@ In commemoration of the 50th anniversary of the end of WWII in 1995, the Nationa
 <img src="/images/Cathay/cathay-national-monument.jpg" style="width:70%" >
 <div style="background-color: white;">A marker of history on Cathay Building. <i>Photo by and courtesy of Soh Gek Han</i>.</div>
 
-
-In line with its status as a national monument, the art deco facade of the building was preserved, with its geometric forms and curved, stepped walls, and with the name displayed vertically. The rest of the building was redeveloped, and the original brown-tiled façade was incorporated into modern glass architecture.[^16].
+The cinemas in Cathay Building closed on 30 June 2000. In line with its status as a national monument, the art deco facade of the building was preserved, with its geometric forms and curved, stepped walls, and with the name displayed vertically. The rest of the building was redeveloped, and the original brown-tiled façade was incorporated into modern glass architecture.[^16].
 
 ![cathay 2006 facade](/images/Cathay/cathay%202006%20facade.jpg) 
 <div style="background-color: white;">Cathay Building, 2022. <i>Photo by and courtesy of Soh Gek Han</i>.</div>
 
 In 2006, The Cathay reopened with as a shopping mall and an eight-hall multiplex –  including Picturehouse, which had first opened in 1990 to feature art films.[^17]
 
-In 2017, entertainment company mm2 Asia acquired all of Cathay’s cinema operations, including Cathay Cineplex, in a $230 million deal. Cathay Organisation only sold off its cinema business and continued to hold the Cathay building and the Cathay Cineleisure Orchard mall.[^18]
+In 2017, entertainment company mm2 Asia acquired all of Cathay’s cinema operations, including Cathay Cineplex, in a $230 million deal. Cathay Organisation sold off only its cinema business and continued to own the Cathay Building and Cathay Cineleisure Orchard mall.[^18]
 
 Cathay Cineplex’s last day of operations was 26 June 2022. The last show to be screened was *Top Gun: Maverick*at 9pm. The space used by the cineplex will be occupied by a pop-up run by The Projector from August and will be named Projector X:Picturehouse. It will be used for films and live performances.[^19]
 
