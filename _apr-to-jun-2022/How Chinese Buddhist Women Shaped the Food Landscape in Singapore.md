@@ -151,7 +151,7 @@ Half tablespoon sugar<br>
 
 [^6]: Oon, “[Vegetarian Food for All](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19840826-1.2.43.2).”
 
-[^7]: 区如柏 [Ou Rubo], 素菜馆“老大”接搬迁令 六和园临别依依 [“The ‘Master’ of Vegetarian Restaurants Receives Relocation Orders, Loke Woh Yuen Bids a Reluctant Farewell”], 联合早报 [*Lianhe Zaobao*], 6 October 1991, 42. (From NewspaperSG)
+[^7]: 区如柏 [Ou Rubo], [素菜馆“老大”接搬迁令 六和园临别依依](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb19911006-1.2.62.4) [“The ‘Master’ of Vegetarian Restaurants Receives Relocation Orders, Loke Woh Yuen Bids a Reluctant Farewell”], 联合早报 [*Lianhe Zaobao*], 6 October 1991, 42. (From NewspaperSG)
 
 [^8]: [菩提林素食館 昨日經開幕](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/scjp19540130-1.2.42.9) [“Bodhi Lin Vegetarian Restaurant Opened Yesterday”], 星洲日報 [*Sin Chew Jit Poh*], 30 January 1954, 6. (From NewspaperSG)
 
@@ -199,4 +199,4 @@ Half tablespoon sugar<br>
 
 [^30]: 许源泰 [Hue Guan Thye], [狮城佛光: 新加坡佛教发展百年史](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205584233) [*The Buddha Lights of Lion City: The Hundred-year Development of Buddhism in Singapore*] (Hong Kong: 香港中文大学人间佛教研究中心, 2020), 222–23. (From National Library, Singapore, call no. Chinese RSING 294.3095957 HGT)
 
-[^31]: 李若莲与蔡成才 [*Li Ruolian and Cai Chengcai*], [自度庵的素菜](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19840222-1.2.21.1.1) [“Vegetarian Dishes of Tse Tho Aum”], 联合晚报 [Lianhe Wanbao], 22 February 1984, 5. (From NewspaperSG)
+[^31]: 李若莲与蔡成才 [*Li Ruolian and Cai Chengcai*], [自度庵的素菜](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19840222-1.2.21.1.1) [“Vegetarian Dishes of Tse Tho Aum”], 联合晚报 [*Lianhe Wanbao*], 22 February 1984, 5. (From NewspaperSG)
