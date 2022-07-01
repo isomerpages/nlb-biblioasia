@@ -5,7 +5,7 @@ description: ""
 ---
 #### Women who practised a particular form of Buddhism set up popular vegetarian restaurants in the 1940s and 50s that met the needs of local Buddhists and also helped promote vegetarianism. By **Kelvin Tan**
 
-![](/images/Vol%2018%20Issue%201/Chinese%20Buddhist%20Women/Chinese%20Buddhist%20Women%20-%20Image%201.png)
+![](/images/Vol%2018%20Issue%202/Chinese%20Buddhist%20Women/Chinese%20Buddhist%20Women%20-%20Image%201.png)
 <div style="background-color: white;">Venerable Ho Yuen Hoe, abbess of Lin Chee Cheng Sia temple. <i>Image reproduced from Shi Chin Yam, Top 100 Vegetarian Delights (Singapore: Man Fut Tong Old People’s Home, 1998). (From National Library, Singapore, call no. RSING 641.5636 SHI).</i></div>
 
 Impossible meatballs, oat-milk lattes and tempeh burgers. Whether it is from a desire to reduce their carbon footprint, improve their health or to avoid killing animals, more and more people around the world have started exploring a meat-free lifestyle.
