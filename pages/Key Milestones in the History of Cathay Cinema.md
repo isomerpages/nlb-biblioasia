@@ -73,8 +73,7 @@ In commemoration of the 50th anniversary of the end of WWII in 1995, the Nationa
  
  
 #### A National Monument
- In 1999, Cathay Organisation put up a S$100 million plan to redevelop Cathay Building. Before the plan was approved by the Urban Redevelopment Authority, the Preservation of Monuments Board (now known as the Preservation of Sites and Monuments) identified Cathay Building as a possible landmark for preservation because of its history, especially during WWII.[^14] The cinemas in Cathay Building closed on 30 June 2000. 
-On 10 February 2003, Cathay Building was gazetted as a national monument. 
+ In 1999, Cathay Organisation submitted a S$100 million plan to redevelop Cathay Building. Before the plan was approved by the Urban Redevelopment Authority, the Preservation of Monuments Board (now known as the Preservation of Sites and Monuments) identified Cathay Building as a possible landmark for preservation because of its history, especially during WWII.[^14] The cinemas in Cathay Building closed on 30 June 2000. On 10 February 2003, Cathay Building was gazetted as a national monument. 
 
 <img src="/images/Cathay/cathay-national-monument.jpg" style="width:70%" >
 <div style="background-color: white;">A marker of history. <i>Photo by and courtesy of Soh Gek Han</i>.</div>
