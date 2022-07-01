@@ -53,9 +53,7 @@ After the war, the Cathay Building became the headquarters for Admiral Louis Mou
 #### Civilian Use of the Building
 The cinema reopened in September 1945, but it was only in February 1949 that the colonial government vacated the building and Cathay Organisation regained full control. On 9 January 1954, Cathay Hotel started operations until 30 December 1970. After that, the space was converted into offices. [^9]  
 
-![loke 1948 cathay](/images/Cathay/cathay-1948.jpg)
-<div style="background-color: white;"><i>Image reproduced from “Loke Demands Release of Cathay,” Straits Times, 11 January 1948, 3</i>. </div>
-
+![loke 1948 cathay](/images/Cathay/cathay-1948.jpg) <div style="background-color: white;"><i>Image reproduced from “Loke Demands Release of Cathay,” Straits Times, 11 January 1948, 3</i>. </div>
 
  ![](/images/Cathay/cathay-night-102.jpg)
 <div style="background-color: white;">Night shot of Cathay cinema at the premiere of South Pacific, c. 1958. <i>Image reproduced from Lim Kay Tong, Cathay: 55 Years of Cinema (Singapore: Landmark Books, 1991). (From National Library, Singapore, RSING 791.43095957 LIM)</i> </div>
@@ -108,7 +106,7 @@ Cathay Cineplex’s last day of operations was 26 June 2022. The last show to be
 
 [^7]: “[Syonan Broadcasting Station](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/syonantimes19420628-1.2.38.4),” _Syonan Shimbun_, 28 June 1942, 3; “[Syonan Broadcasting Station](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/syonantimes19420726-1.2.5.3),” _Syonan Shimbun_, 26 July 1942, 2. (From NewspaperSG)
 
-[^8]: Brazil, [_Street Smart_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=5796453), 128–29; Lim, [_Cathay_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6095688), 104; “[Govt. to Vacate Cathay Building](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19490128-1.2.35),” Malaya Tribune, 28 January 1949, 3. (From NewspaperSG)
+[^8]: Lim, [_Cathay_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6095688), 98, 100, 104; “[Govt. to Vacate Cathay Building](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19490128-1.2.35),” Malaya Tribune, 28 January 1949, 3. (From NewspaperSG)
 
 [^9]: Brazil, [Street Smart](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=5796453), 128–29; “[Liquidate The Cathay Restaurant Opens May 1](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/morningtribune19480417-1.2.22), _Morning Tribune_, 17 April 1948, 2; “[Govt. to Vacate Cathay Building](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19490128-1.2.35)”; “Studios Turn into a Plush Hotel,” Singapore Standard, 9 January 1954, 2 (From NewspaperSG); Vernon Cornelius-Takahama and Ong Eng Chuan, “[Cathay Building](https://eresources.nlb.gov.sg/infopedia/articles/SIP_532_2004-12-17.html),” Singapore Infopedia, last updated September 2020.
 
