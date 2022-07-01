@@ -73,10 +73,10 @@ In commemoration of the 50th anniversary of the end of WWII in 1995, the Nationa
  
  
 #### A National Monument
- In 2000, Cathay Organisation had plans to redevelop Cathay Building for $100 million.[^14]  Before the plan was approved by the Urban Redevelopment Authority, the Preservation of Monuments Board (now known as the Preservation of Sites and Monuments) identified Cathay Building as a possible landmark for preservation because of its history, especially during WWII. The cinemas in Cathay Building closed on 30 June 2000.[^15] On 10 February 2003, Cathay Building was gazetted as a national monument. 
+ In 2000, Cathay Organisation had plans to redevelop Cathay Building for $100 million.[^14]  Before the plan was approved by the Urban Redevelopment Authority, the then Preservation of Monuments Board identified Cathay Building as a possible landmark for preservation because of its history, especially during WWII.[^15] On 10 February 2003, Cathay Building was gazetted as a national monument. 
 
 <img src="/images/Cathay/cathay-national-monument.jpg" style="width:70%" >
-<div style="background-color: white;">A marker of history. <i>Photo by and courtesy of Soh Gek Han</i>.</div>
+<div style="background-color: white;">A marker of history on Cathay Building. <i>Photo by and courtesy of Soh Gek Han</i>.</div>
 
 
 In line with its status as a national monument, the art deco facade of the building was preserved, with its geometric forms and curved, stepped walls, and with the name displayed vertically. The rest of the building was redeveloped, and the original brown-tiled façade was incorporated into modern glass architecture.[^16].
