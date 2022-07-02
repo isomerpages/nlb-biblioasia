@@ -13,14 +13,16 @@ The 16-storey Cathay Building was once the tallest building in Singapore, at 70 
 <div style="background-color: white;">Cathay Building under construction, 1937. <i>Image reproduced from Lim Kay Tong, Cathay: 55 Years of Cinema (Singapore: Landmark Books, 1991). (From National Library, Singapore, RSING 791.43095957 LIM)</i> </div>
 
 #### Grand Opening in 1939
-The 1,321-seat cinema opened on 3 October 1939 with *Four Feathers*, a British adventure movie about the war in Sudan that was previously banned in Singapore on racial grounds.[^2] The Cathay Restaurant subsequently opened in 1940, and the apartment block in 1941. [^3] 
+The 1,321-seat cinema opened on 3 October 1939 with *Four Feathers*, a British adventure movie about the war in Sudan that was previously banned in Singapore on racial grounds.[^2] 
 
 ![](/images/Cathay/cathay%20opening%201939.jpg)<div style="background-color: white;">Left to right: Cathay Cinema opening souvenir, 1939 (<i>Courtesy of Wong Han Min</i>); advertisement of the opening film of the “air-cooled luxury” of Cathay cinema (<i>Image reproduced from Malaya Tribune, 26 September 1939, 3</i>).</div>
 
-The theatre was opulent, with black marble pillars, green-tiled floors, silver curtains, and gold ceilings. On either side of the screen was acoustic plaster in the shape of shells. [^4] 
+The theatre was opulent, with black marble pillars, green-tiled floors, silver curtains, and gold ceilings. On either side of the screen was acoustic plaster in the shape of shells. [^3] 
 
 ![](/images/Cathay/cathay-interior.jpg)
 <div style="background-color: white;">Interior of the theatre. <i>Image reproduced from Lim Kay Tong, Cathay: 55 Years of Cinema (Singapore: Landmark Books, 1991). (From National Library, Singapore, RSING 791.43095957 LIM)</i> </div>
+
+The Cathay Restaurant subsequently opened in 1940, and the apartment block in 1941. [^4] 
 
 #### World War II
 In 1941, Cathay Building was rented to the colonial government and the Malayan Broadcasting Corporation. The latter continued to broadcast updates of the war during the Japanese invasion, and the cinema screened its last movie before the British surrender on 15 February 1942. The building was also used a temporary Red Cross casaulty station.[^5]
@@ -87,9 +89,9 @@ Cathay Cineplex had its last day of operations on 26 June 2022, screening its fi
 
 [^2]: “[Cathay Cinema Opens Doors Tonight](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19391003-1.2.55),” _Singapore Free Press and Mercantile Advertiser_, 3 October 1939, 5; “['Four Feathers' Released](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19390730-1.2.123),” _Straits Times_, 30 July 1939, 13. (From NewspaperSG)
 
-[^3]: “[Americans Celebrate Washington Day](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19400222-1.2.56),” _Straits Times_, 22 February 1940, 10; “[Jap Bombs Could Not Shake Its Spirit](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19490925-1.2.96),” _Malaya Tribune_, 25 September 1949, 11. (From NewspaperSG)
+[^3]: Lim Kay Tong, [*Cathay: 55 Years of Cinema*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6095688) (Singapore: Landmark Books, 1991), 98 (From National Library, Singapore, Call no. RSING 791.43095957 LIM); "[Inside Singapore's Newest Cinema Opens On Tuesday](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19391001-1.2.173)," *Straits Times*, 1 October 1939, 20. (From NewspaperSG)
 
-[^4]: Lim Kay Tong, [*Cathay: 55 Years of Cinema*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6095688) (Singapore: Landmark Books, 1991), 98 (From National Library, Singapore, Call no. RSING 791.43095957 LIM); "[Inside Singapore's Newest Cinema Opens On Tuesday](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19391001-1.2.173)," *Straits Times*, 1 October 1939, 20. (From NewspaperSG)
+[^4]: “[Americans Celebrate Washington Day](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19400222-1.2.56),” _Straits Times_, 22 February 1940, 10; “[Jap Bombs Could Not Shake Its Spirit](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19490925-1.2.96),” _Malaya Tribune_, 25 September 1949, 11. (From NewspaperSG)
 
 [^5]: Tommy Koh et al.,*[Singapore: The Encyclopedia](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12768833)* (Singapore: Editions Didier Millet and National Heritage Board, 2006), 37. (From National Library, Singapore, Call no. RSING 959.57003 SIN)
 
