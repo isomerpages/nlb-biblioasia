@@ -60,11 +60,8 @@ By 1955, Cathay Building was no longer the tallest in the land, but it remained 
  ![](/images/Cathay/cathay-night-102.jpg)
 <div style="background-color: white;">Night shot of Cathay cinema at the premiere of South Pacific, with the hotel in the background, c. 1958. <i>Image reproduced from Lim Kay Tong, Cathay: 55 Years of Cinema (Singapore: Landmark Books, 1991). (From National Library, Singapore, RSING 791.43095957 LIM)</i> </div>
 
-
- It closed on 30 December 1970. From 1970 to 1974, the  hotel space was converted into office premises.
-
 #### Redevelopment
-From the 1960s to 1990s, the building underwent various redevelopments, such as the expansion of the cinema from a single-screen to a multiplex in 1991.[^12]
+From the 1960s to 1990s, the building underwent various redevelopments. The hotel space was turned into office premises, and the hotel closed on 30 December 1970. The cinema was expanded from a single-screen to a multiplex in 1991.[^12] 
 
 <img src="/images/Cathay/Cathay-1965.jpg" >
 <div style="background-color: white;">Cathay Building, 1965. <i>David Barker Collection, PictureSG, National Library, Singapore</i>.</div>
@@ -116,7 +113,7 @@ Cathay Cineplex’s last day of operations was 26 June 2022. The last show to be
 
 [^11]: "[Tallest Skyscraper Opens](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19551212-1.2.96)," *Singapore Standard*, 12 December 1955, 9; "[Yes, You Can't Miss the Cathay](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19590213-1.2.104.20)," *Singapore Free Press*, 13 February 1959, 9. (From NewspaperSG)
 
-[^12]: Vernon Cornelius-Takahama and Ong Eng Chuan, “[Cathay Building](https://eresources.nlb.gov.sg/infopedia/articles/SIP_532_2004-12-17.html),” Singapore Infopedia, last updated September 2020;  Lim, [_Cathay_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6095688), 111.
+[^12]: Vernon Cornelius-Takahama and Ong Eng Chuan, “[Cathay Building](https://eresources.nlb.gov.sg/infopedia/articles/SIP_532_2004-12-17.html),” Singapore Infopedia, last updated September 2020;  Lim, [_Cathay_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6095688), 110–11.
 
 [^13]: “World War II Plaque (Outside Cathay Cinema),” Ministry of Information and the Arts Collection, 1995–1999. (National Archives of Singapore media image no. 19990001374 – 0040)
 
