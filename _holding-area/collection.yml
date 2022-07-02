@@ -1,4 +1,5 @@
 collections:
   holding-area:
     output: true
-    order: []
+    order:
+      - How Chinese Buddhist Women Shaped the Food Landscape in Singapore.md
