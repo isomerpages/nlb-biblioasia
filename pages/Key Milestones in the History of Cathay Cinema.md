@@ -51,7 +51,7 @@ After the war, the Cathay Building became the headquarters for Admiral Louis Mou
 <div style="background-color: white;">Left to right: Brass plaque with the logo of SACSEA (<i>Singapore Broadcasting Corporation Collection, courtesy of National Archives of Singapore</i>); Mrs Loke Yew (<i>Sir Percy McNeice Collection, courtesy of National Archives of Singapore</i>); Mr Loke Wan Tho (<i>Sir Percy McNeice Collection, courtesy of National Archives of Singapore</i>).</div>
 
 #### Cathay Organisation Regains Control
-The cinema and restaurant reopened in September 1945 and May 1948 respectively, but it was only in February 1949 that the  government vacated the building and Cathay Organisation regained full control.[^9] On 9 January 1954, Cathay Hotel began operations.[^10]  
+The cinema and restaurant reopened in September 1945 and May 1948 respectively, but it was only in February 1949 that the  government vacated the building and Cathay Organisation regained full control.[^9] Cathay Hotel began operations on 9 January 1954.[^10]  
 
 ![loke 1948 cathay](/images/Cathay/cathay-1948.jpg) 
 <div style="background-color: white;"><i>Image reproduced from “Loke Demands Release of Cathay,” Straits Times, 11 January 1948, 3</i>. </div>
@@ -73,7 +73,7 @@ In commemoration of the 50th anniversary of the end of WWII in 1995, the Nationa
  
  
 #### A National Monument
-In 2000, Cathay Organisation had plans to redevelop Cathay Building for $100 million.[^14] Before the plan was approved by the Urban Redevelopment Authority, the then Preservation of Monuments Board identified Cathay Building as a possible landmark for preservation because of its history, especially during WWII.[^15] On 10 February 2003, Cathay Building was gazetted as a national monument. 
+In 2000, Cathay Organisation had plans to redevelop Cathay Building for $100 million.[^14] Before the plan was approved by the Urban Redevelopment Authority, the then Preservation of Monuments Board identified Cathay Building as a possible landmark for preservation because of its history, especially during WWII.[^15] Cathay Building was gazetted as a national monument on 10 February 2003. 
 
 <img src="/images/Cathay/cathay-national-monument.jpg" style="width:70%" >
 <div style="background-color: white;">A marker of history on Cathay Building. <i>Photo by and courtesy of Soh Gek Han</i>.</div>
@@ -85,7 +85,7 @@ The cinemas in Cathay Building closed on 30 June 2000 for redevelopment. In line
 
 In 2006, The Cathay reopened with a shopping mall and an eight-hall multiplex –  including Picturehouse, which had first opened in 1990 to feature art films.[^17]
 
-In 2017, entertainment company mm2 Asia acquired all of Cathay’s cinema operations, including Cathay Cineplex, in a $230 million deal. Cathay Organisation sold off only its cinema business and continued to own the Cathay Building and Cathay Cineleisure Orchard mall.[^18]
+Cathay Organisation sold its cinema business to entertainment company mm2 Asia in a $230 million deal in 2017, but continued to own the Cathay Building and Cathay Cineleisure Orchard mall.[^18]
 
 Cathay Cineplex’s last day of operations was 26 June 2022. The last show to be screened was *Top Gun: Maverick* at 9pm. The space used by the cineplex will be occupied by a pop-up run by The Projector from August and will be named Projector X:Picturehouse. It will be used for films and live performances.[^19]
 
