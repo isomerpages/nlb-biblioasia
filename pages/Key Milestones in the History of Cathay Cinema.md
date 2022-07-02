@@ -7,7 +7,7 @@ image: /images/Cathay/Cathay-1941.jpg
 #### Cathay cinema at Handy road was one of Singapore's oldest cinemas. Its closing in June 2022 marks the end of an era. Here’s a look at the Cathay Building and cinema over the years.
 
 #### The First Skyscraper in Singapore
-The 16-storey Cathay Building was once the tallest building in Singapore, at 70 m. Located at the foot of Mount Sophia in the Dhoby Ghaut area, the building used to house the Cathay Hotel, Cathay Restaurant and Cathay cinema.[^1]
+The 16-storey Cathay Building at the foot of Mount Sophia was once the tallest building in Singapore, at about 87 m from the street level to the top.[^1] The cinema block with Cathay Restaurant was at the front of the building, and the apartment block, which later became Cathay Hotel, was at the rear.
 
 <img src="/images/Cathay/1937%20construction%20cathay.jpg">
 <div style="background-color: white;">Cathay Building under construction, 1937. <i>Image reproduced from Lim Kay Tong, Cathay: 55 Years of Cinema (Singapore: Landmark Books, 1991). (From National Library, Singapore, RSING 791.43095957 LIM)</i> </div>
@@ -86,7 +86,7 @@ Cathay Cineplex had its last day of operations on 26 June 2022, screening its fi
 
 
 #### **NOTES**
-[^1]: Kelvin Tong, “[Akan Datang: Cathay’s New Home](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20000404.2.82.5.1.aspx),” *Straits Times*, 4 April 2000, 4; “[Cathay Building and YMCA Orchard Had a Grim Past](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19950731.2.30.8.aspx),” *Straits Times*, 31 July 1995, 20; “[I Built Highest, He Says](https://safe.menlosecurity.com/https:/eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19531231-1.2.144),” _Straits Times_, 31 December 1953, 7. (From NewspaperSG)
+[^1]: Kelvin Tong, “[Akan Datang: Cathay’s New Home](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20000404.2.82.5.1.aspx),” *Straits Times*, 4 April 2000, 4; “[Cathay Building and YMCA Orchard Had a Grim Past](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19950731.2.30.8.aspx),” *Straits Times*, 31 July 1995, 20; “[I Built Highest, He Says](https:/eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19531231-1.2.144),” _Straits Times_, 31 December 1953, 7. (From NewspaperSG)
 
 [^2]: “[Cathay Cinema Opens Doors Tonight](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19391003-1.2.55),” _Singapore Free Press and Mercantile Advertiser_, 3 October 1939, 5; “['Four Feathers' Released](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19390730-1.2.123),” _Straits Times_, 30 July 1939, 13. (From NewspaperSG)
 
