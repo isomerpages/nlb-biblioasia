@@ -15,7 +15,8 @@ The 16-storey Cathay Building was once the tallest building in Singapore, at 70 
 #### Grand Opening in 1939
 The 1,321-seat cinema opened on 3 October 1939 with *Four Feathers*, a British adventure movie about the war in Sudan that was previously banned in Singapore on racial grounds.[^2] 
 
-![](/images/Cathay/cathay%20opening%201939.jpg)<div style="background-color: white;">Left to right: Cathay Cinema opening souvenir, 1939 (<i>Courtesy of Wong Han Min</i>); advertisement of the opening film of the “air-cooled luxury” of Cathay cinema (<i>Image reproduced from Malaya Tribune, 26 September 1939, 3</i>).</div>
+![](/images/Cathay/cathay%20opening%201939.jpg)
+<div style="background-color: white;">Left to right: Cathay Cinema opening souvenir, 1939 (<i>Courtesy of Wong Han Min</i>); advertisement of the opening film of the “air-cooled luxury” of Cathay cinema (<i>Image reproduced from Malaya Tribune, 26 September 1939, 3</i>).</div>
 
 The theatre was opulent, with black marble pillars, green-tiled floors, silver curtains, and gold ceilings. On either side of the screen was acoustic plaster in the shape of shells. [^3] 
 
