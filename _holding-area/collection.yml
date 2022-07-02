@@ -2,4 +2,6 @@ collections:
   holding-area:
     output: true
     order:
+      - "Red Terror: The Forgotten Story of CPM Violence and Subversion in Newly
+        Independent Singapore.md"
       - How Chinese Buddhist Women Shaped the Food Landscape in Singapore.md
