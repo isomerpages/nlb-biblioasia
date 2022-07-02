@@ -117,7 +117,7 @@ Cathay Cineplex’s last day of operations was 26 June 2022. The last show to be
 
 [^13]: “World War II Plaque (Outside Cathay Cinema),” Ministry of Information and the Arts Collection, 1995–1999. (National Archives of Singapore media image no. 19990001374 – 0040)
 
-[^14] Chris Loh, "[Cathay Building Is to Be Redeveloped for $100m](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes20000219-1.2.9.1)," *Business Times*, 19 February 2000, 2. (From NewspaperSG)
+[^14]: Chris Loh, "[Cathay Building Is to Be Redeveloped for $100m](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes20000219-1.2.9.1)," *Business Times*, 19 February 2000, 2. (From NewspaperSG)
 
 [^15]: Leong Weng Kam, “[Landmark Building May Yet Be Saved](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20000406.2.40.1.aspx),” _Straits Times,_ 6 April 2000, 31. (From NewspaperSG)
 
