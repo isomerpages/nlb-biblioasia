@@ -51,14 +51,17 @@ After the war, the Cathay Building became the headquarters for Admiral Louis Mou
 <div style="background-color: white;">Left to right: Brass plaque with the logo of SACSEA (<i>Singapore Broadcasting Corporation Collection, courtesy of National Archives of Singapore</i>); Mrs Loke Yew (<i>Sir Percy McNeice Collection, courtesy of National Archives of Singapore</i>); Mr Loke Wan Tho (<i>Sir Percy McNeice Collection, courtesy of National Archives of Singapore</i>).</div>
 
 #### Cathay Organisation Regains Control
-The cinema and restaurant reopened in September 1945 and May 1948 respectively, but it was only in February 1949 that the  government vacated the building and Cathay Organisation regained full control.[^9] On 9 January 1954, Cathay Hotel started operations until 30 December 1970. From 1970 to 1974, the  hotel space was converted into office premises.[^10]  
+The cinema and restaurant reopened in September 1945 and May 1948 respectively, but it was only in February 1949 that the  government vacated the building and Cathay Organisation regained full control.[^9] On 9 January 1954, Cathay Hotel began operations.[^10]  
 
-![loke 1948 cathay](/images/Cathay/cathay-1948.jpg) <div style="background-color: white;"><i>Image reproduced from “Loke Demands Release of Cathay,” Straits Times, 11 January 1948, 3</i>. </div>
+![loke 1948 cathay](/images/Cathay/cathay-1948.jpg) 
+<div style="background-color: white;"><i>Image reproduced from “Loke Demands Release of Cathay,” Straits Times, 11 January 1948, 3</i>. </div>
 
-By 1954, Cathay Building was no longer the tallest in the land, but it remained a landmark in the city centre.[^11]  
+By 1955, Cathay Building was no longer the tallest in the land, but it remained a landmark in the city centre.[^11]  
  ![](/images/Cathay/cathay-night-102.jpg)
-<div style="background-color: white;">Night shot of Cathay cinema at the premiere of South Pacific, c. 1958. <i>Image reproduced from Lim Kay Tong, Cathay: 55 Years of Cinema (Singapore: Landmark Books, 1991). (From National Library, Singapore, RSING 791.43095957 LIM)</i> </div>
+<div style="background-color: white;">Night shot of Cathay cinema at the premiere of South Pacific, with the hotel in the background, c. 1958. <i>Image reproduced from Lim Kay Tong, Cathay: 55 Years of Cinema (Singapore: Landmark Books, 1991). (From National Library, Singapore, RSING 791.43095957 LIM)</i> </div>
 
+
+ It closed on 30 December 1970. From 1970 to 1974, the  hotel space was converted into office premises.
 
 #### Redevelopment
 From the 1960s to 1990s, the building underwent various redevelopments, such as the expansion of the cinema from a single-screen to a multiplex in 1991.[^12]
@@ -111,9 +114,9 @@ Cathay Cineplex’s last day of operations was 26 June 2022. The last show to be
 
 [^10]: “[Studios Turn into a Plush Hotel](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19540109-1.2.34),” *Singapore Standard*, 9 January 1954, 2 (From NewspaperSG); Lim, [_Cathay_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6095688), 110.
 
-[^11]: Vernon Cornelius-Takahama and Ong Eng Chuan, “[Cathay Building](https://eresources.nlb.gov.sg/infopedia/articles/SIP_532_2004-12-17.html),” Singapore Infopedia, last updated September 2020; "[Yes, You Can't Miss the Cathay](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19590213-1.2.104.20)," *Singapore Free Press*, 13 February 1959, 9. (From NewspaperSG)
+[^11]: "[Tallest Skyscraper Opens](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19551212-1.2.96)," *Singapore Standard*, 12 December 1955, 9; "[Yes, You Can't Miss the Cathay](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19590213-1.2.104.20)," *Singapore Free Press*, 13 February 1959, 9. (From NewspaperSG)
 
-[^12]: Cornelius-Takahama and Ong, “[Cathay Building](https://eresources.nlb.gov.sg/infopedia/articles/SIP_532_2004-12-17.html)”; Lim, [_Cathay_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6095688), 111.
+[^12]: Vernon Cornelius-Takahama and Ong Eng Chuan, “[Cathay Building](https://eresources.nlb.gov.sg/infopedia/articles/SIP_532_2004-12-17.html),” Singapore Infopedia, last updated September 2020;  Lim, [_Cathay_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6095688), 111.
 
 [^13]: “World War II Plaque (Outside Cathay Cinema),” Ministry of Information and the Arts Collection, 1995–1999. (National Archives of Singapore media image no. 19990001374 – 0040)
 
