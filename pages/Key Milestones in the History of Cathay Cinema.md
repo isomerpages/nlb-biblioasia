@@ -82,7 +82,7 @@ The Cathay reopened in 2006 with a shopping mall and an eight-hall multiplex –
 
 In 2017, Cathay Organisation sold its cinema business to entertainment company mm2 Asia for $230 million, and continued to own the Cathay Building and Cathay Cineleisure Orchard mall.[^18]
 
-Cathay Cineplex had its last day of operations on 26 June 2022, screening its final show *Top Gun: Maverick* at 9pm. The space used by the cineplex will be occupied by a pop-up run by The Projector from August. Named Projector X:Picturehouse, the new cinema will show films and live performances.[^19]
+Cathay Cineplex’s last day of operations was 26 June 2022, when it screened its final show, *Top Gun: Maverick*, at 9pm. The space used by the cineplex will be occupied by a pop-up run by The Projector from August. Named Projector X:Picturehouse, the new cinema will show films and live performances.[^19]
 
 
 #### **NOTES**
