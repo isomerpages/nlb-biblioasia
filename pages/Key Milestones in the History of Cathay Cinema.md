@@ -7,7 +7,7 @@ image: /images/Cathay/Cathay-1941.jpg
 #### Cathay cinema at Handy road was one of Singapore's oldest cinemas. Its closing in June 2022 marks the end of an era. Here’s a look at the Cathay Building and cinema over the years.
 
 #### The First Skyscraper in Singapore
-The 16-storey Cathay Building at the foot of Mount Sophia was once the tallest building in Singapore, at about 87 m (from the street level to the top).[^1] The front block of the building housed the Cathay cinema and Cathay Restaurant, and the apartment block, later Cathay Hotel, was at the rear.
+The 16-storey Cathay Building at the foot of Mount Sophia was once the tallest building in Singapore, at about 87 m (from the street level to the top).[^1] The front block of the building housed the Cathay cinema and Cathay Restaurant, and at the rear was the apartment block, which later became Cathay Hotel.
 
 <img src="/images/Cathay/1937%20construction%20cathay.jpg">
 <div style="background-color: white;">Cathay Building under construction, 1937. <i>Image reproduced from Lim Kay Tong, Cathay: 55 Years of Cinema (Singapore: Landmark Books, 1991). (From National Library, Singapore, RSING 791.43095957 LIM)</i> </div>
