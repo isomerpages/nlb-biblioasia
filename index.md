@@ -10,7 +10,7 @@ notification: ""
 sections:
   - hero:
       background: /images/Cathay/cathay hero.jpg
-      button: Cathay Cinema
+      button: The Historic Cathay Cinema
       url: /history-cathay-cinema-2022
   - infopic:
       title: They Died for All Free Men
