@@ -65,7 +65,7 @@ These chilling assassination plots mirrored the CPM’s ongoing surgical strikes
 In July 1975, a captured CPM agent led Singapore police officers to a cache of “189 hand grenades, 210 detonators, a .38 revolver, a .25 Colt automatic pistol, 75 rounds of ammunition and several communist books and documents.”[^22] Later that month, another 109 hand grenades were found in two earthen jars, buried in the grounds of another operative’s house.[^23] In numerous press releases, the Ministry of Home Affairs detailed the extensive involvement of captured agents with CPM cell leaders, which went as far back as the 1950s.[^24]
 
 ![](/images/Vol%2018%20Issue%202/Red%20terror/Red%20terror%20-%20Image%205.png)
-<div style="background-color: white;">The communist khaki shirt belonging to a member of the Communist Party of Malaya, 1950s. Collection of the National Museum of Singapore, National Heritage Board.</div>
+<div style="background-color: white;">The communist khaki shirt belonging to a member of the Communist Party of Malaya, 1950s. <i>Collection of the National Museum of Singapore, National Heritage Board.</i></div>
 
 Another ISD sweep captured four more communist cells in 1977, which comprised local construction workers and even a reservist SAF officer. One of these CPM units was a construction company involved in the building of drains in Tuas Village and Newton Road. These projects had raised $46,000 for the CPM.[^25] That same year, a full-time national service police inspector was arrested for providing “confidential information”, such as the car registration plate numbers and names of key ISD personnel.[^26]
 
