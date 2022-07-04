@@ -7,7 +7,7 @@ description: ""
 #### The 1970s are often remembered as a time of rapid economic transformation and progress for Singapore, but this period also saw communist bombings, assassination plots and covert information wars. By **Choo Ruizhi**
 
 ![](/images/Vol%2018%20Issue%202/Red%20terror/Red%20terror%20-%20Image%201.png)
-<div style="background-color: white;">Venerable Ho Yuen Hoe, abbess of Lin Chee Cheng Sia temple. <i>Image reproduced from Shi Chin Yam, Top 100 Vegetarian Delights (Singapore: Man Fut Tong Old People’s Home, 1998). (From National Library, Singapore, call no. RSING 641.5636 SHI).</i></div>
+<div style="background-color: white;">The communist peaked cap belonging to a member of the Communist Party of Malaya, 1950s. Collection of the National Museum of Singapore, National Heritage Board.</div>
 
 Strange, red flags fluttered in the midday breeze. At a playground near 10½ Mile Changi Road, that was the only sign that something was amiss that Thursday afternoon on 23 April 1970. Intrigued by the unfamiliar sight, a 9-year-old boy and a 7-year-old girl wandered over to investigate. In doing so, the children unwittingly triggered a booby-trap bomb planted near the red flags, setting off an explosion that was heard by residents almost a kilometre away. The children were rushed to the nearby Changi Hospital. Hours later, the little girl died.[^1]
 
