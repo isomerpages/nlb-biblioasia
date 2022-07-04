@@ -83,7 +83,7 @@ Other than an underground road network for vehicles, there are also underpasses 
 Following the release of the Development Guide Plan for the new Downtown Core in 1996 that proposed turning underpasses into pedestrian malls, the first of such malls, CityLink Mall, was completed in 2000. Stretching some 350 m, the mall offers about 65,000 sq ft (6,039 sq m) of retail space, and links City Hall MRT Station and Raffles City to Marina Centre, Suntec City and the Esplanade. With its high ceilings, wide walkways and strategically placed skylights to allow natural light to stream in, these design elements strive to achieve an aboveground effect so “it doesn’t feel like an underground mall at all”. In 2010, a second underground pedestrian mall, the 179,000-square-foot (16,630 sq m) Marina Bay Link Mall, was built. It links One Raffles Quay with the Marina Bay area.
 
 ![](/images/Vol%2018%20Issue%202/Subterranean%20Singapore/Subterranean%20Singapore%20-%20Image%208.png)
-<div style="background-color: white;">The 158-metre Raffles City Tower in the background shows how deep Singapore has been tunnelling underground.</div>
+<div style="background-color: white;">CityLink Mall connects City Hall MRT Station and Raffles City with Marina Centre, Suntec City and the Esplanade, 2022. Photo by and courtesy of Jimmy Yap.</div>
 
 #### **Going Even Deeper**
 
