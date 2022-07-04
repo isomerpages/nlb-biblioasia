@@ -2,6 +2,7 @@ collections:
   holding-area:
     output: true
     order:
+      - Example Title.md
       - Test 3.md
       - "Red Terror: The Forgotten Story of CPM Violence and Subversion in Newly
         Independent Singapore.md"
