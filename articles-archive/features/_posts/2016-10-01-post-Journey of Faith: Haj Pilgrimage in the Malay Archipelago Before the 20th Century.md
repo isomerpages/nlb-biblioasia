@@ -80,7 +80,8 @@ More substantial factual accounts about Haj pilgrimage in the Malay Archipelago 
 
 His Haj account stopped shortly before his death in Jeddah. There is also information that points to an even earlier Haj pilgrimage, made by Sayyid Muhammad bin Zainal al ldrus, a Trengganu ulama (religious leader) who is known as the father of Trengganu's literature. Sayyid Muhammad went to Mecca around 1815 at the age of 20 and spent several years there pursuing his studies. Yet another account in the 19th century relates the story of Muhammad Yusof bin Ahmad better known as Tok Kenali Kelantan who went to Mecca in 1886 at the age of 18. An account of his life is found in <i>Sejarah hidup To' Kenali </i> (The Life of To' Kenali). Two of these intellectuals, Munshi Abdullah and Tok Kenali, described a Haj journey that departs from the pompousfleet- of-ship and entourage-full sailing found in Hikayat Hang Tuah and even Sultan Mansur's Haj preparations. They wrote of hardships and gave readers a more realistic version of Haj, as if to warn them of its mental and physical exertions.[^4]  Munshi Abdullah drew up a will before he left, accepting the fact that he might not survive the Haj. 
 
-<img src="/images/vol-2-issue-3/Journey%20of%20faith/Tok%20Kenali%20Book.jpg">
+<img src="/images/vol-2-issue-3/Journey%20of%20faith/Tok%20Kenali.jpg" >
+<div style="background-color: white;">Left to right: Book cover of <i>Sejarah hidup To' Kenali</i>; Tok Kenali, a 19th century pilgrim from Kelantan. <i>All rights reserved, Pustaka Aman, 1967</i>.</div>
 
 In the actualised accounts, we learn of the many stops Haj pilgrims had to make. The pilgrims also waited for ships, which in turn waited for the right winds to depart. In the days of sailing ships, the Indian Ocean and the lands along its coast lay in wait for the "trade wind". The phrase "trade wind" is ancient and is derived from an old use of the word "trade" to mean a fixed track. In navigation, it refers to any wind that follows a predictable course. As such winds are instrumental to merchant ships making long ocean voyages, the term evolved to mean in the 18th century as winds that favour trade. In the Indian Ocean, the monsoons are the famous trade winds. They are particularly beneficial to long-distance merchants because they change direction at different seasons of the year. The northeast monsoon blows from October to March and the southwest monsoon from April to September. As the change in the monsoon winds take months, traders and pilgrims alike had to stay in the various ports of call for the right wind to carry them to their next stop. 
 
@@ -96,21 +97,25 @@ Then at around nine o'clock on Sunday night, the seventh day of the month, the N
 
 Abdullah started his voyage to Mecca from Singapore in 1854 on the ship <i>Sabi/ al-is/am</i> owned by Syeikh Abdul Karim. Abdullah made 22 stops before reaching Mecca, in between experiencing four sea storms. 
 
-<img src>
+<img src="/images/vol-2-issue-3/Journey%20of%20faith/Route%20to_Mecca_Map.jpg">
+<div style="background-color: white;">Abdullah's route to Mecca. <i>All rights reserved, Pustaka Melaya, 1960</i>.</div>
 
 One of the fiercest storm occurred when Abdullah's ship tried to cross <i>Kep Gamri</i> (Cape Comorin lies at the tip of South India and is infamous for its dangerous waves). As he hung on to his dear life, the thought of death not far from Abdullah's mind: 
 
 Oh God! Oh God! Oh God! I can't even begin to describe how horrendous it was and how tremendous the waves were, only God would know how it felt, it was as if I had wanted to crawl back into my mother's womb in fright! ... All the goods, chests, sleeping-mats and pillows were flung about. Water spewed into the hold and drenched everything completely. Everyone was lost in their thoughts, thinking nothing else but that death was close at hand. .. !n the ship's hold, the noises made by people vomiting and urinating were indescribable as the sailors kept on hosing down the place ... Everyone held fast to the ropes. The sails tore and the ropes broke many times ... This continued for two days and three nights, and with God's pity and help the winds then lessened.[^6]
 
-<img src>
-Abdullah onboard his
-pilgrim ship
+<img src="/images/vol-2-issue-3/Journey%20of%20faith/abdullah%20on%20ship.jpg">
+<div style="background-color: white;">Abdullah onboard his
+pilgrim ship.</div>
 
 Abdullah also had a chance to board a passenger ship that was transporting Indian pilgrims from Calcutta. The ship was crowded and unbearable: 
 
 By the grace of God, a ship called Atiah Rahman arrived from Calcutta ... carried some Bengalis who were making the Haj, totalling one hundred and fifty men, women and children. We went to the ship to secure a passage to Jeddah. The fare for this ship was quite expensive as all the other ships had already sailed away; each person was charged eight Ringgit... God only knew the circumstances aboard the ship and how the crowded mass of people made it so miserable for us who tried to eat, sit or sleep on board (God Willing, all these trials and tribulations will gain us meritorious blessings, for we endured this in the Path of the Righteous). [^7]
 
 It is interesting to see the continuity of such conditions onboard pilgrim ships from Abdullah's time right up to the late 19th– 20th century when steamships ruled the waves. Even with room for more pilgrims on board steamships, serious overcrowding and hygiene problems still haunted Haj pilgrims. Deaths on pilgrim ships en route Mecca were common; during Abdullah's voyage, more than 20 suffered from chicken pox and two or three died. Once pilgrims reached the Holy Land, the situation on land was no less chaotic, as according to Abdullah it resembled a "war zone". Pilgrims' belongings were piled in haphazard heaps, some smashed, some lost or switched. The taxation of pilgrims' packages was another source of misery. The tax collector used his discretion, not understood by the pilgrims, to determine which items should be taxed and which should not. No one dared to protest, not even when their packages were ripped apart or ransacked. Abdullah's writing chests were not spared and his ink splashed across all his writing papers because too many hands dipped into his chests at the same time.[^8] The "war zone" scene continued into the late 19th–20th century, and one can only imagine the scale of pandemonium at Port Jeddah since pilgrims' arrival in Jeddah in the steamship era had grown by leaps and bounds. 
+
+<img src="/images/vol-2-issue-3/Journey%20of%20faith/heaps%20Jeddah.jpg">
+<div style="background-color: white;">Pilgrims' packages in heaps in Jeddah. <i>All rights reserved, Percetakan Yayasan Islam Terengganu, 1960</i>.</div>
 
 According to Raimy Che-Ross in his translation of Abdullah's voyage to Mecca, Abdullah did not get to perform his Haj rituals for he died shortly after reaching Mecca in May 1854. The joy of reaching the Holy Land overwhelmed him that he had forgotten about the hardships he endured during his approximately 100 days' journey from Singapore. As his heart soared, he composed a poem which were the last words to flow from his pen:
 
@@ -127,13 +132,15 @@ According to Raimy Che-Ross in his translation of Abdullah's voyage to Mecca, Ab
 The incomplete journal of Abdullah's journey was safely returned to his family in Singapore through one of his companions.
 
 #### Haj and Arab Shipping in Singapore
-
 The rise of Hadhrami shipping in the Malay Archipelago in the mid-19th century boded well for pilgrims in this region. Hadhrami Arab shippers hailed from Yemen and competed successfully with the Europeans and Chinese in trade and shipping in the Indian Ocean. The Alsagoffs, a prominent Arab family in Singapore, established the firm Alsagoff & Co. in 1848 to conduct trade within the islands of the Archipelago using their own vessels. 
 
-<img>
+<img src="/images/vol-2-issue-3/Journey%20of%20faith/steamships.jpg">
+<div style="background-color: white;">Pilgrims on a steamship. <i>Image from Hajjah Amaina Collection, National Archives of Singapore</i>.</div>
 
 In the 1850s, Sayyid Ahmad Alsagoff extended the realm of his family business by starting a profitable business of transporting pilgrims between Southeast Asia and Jeddah. Using Singapore as the base, the Alsagoffs' position in the pilgrim trade was tremendously strengthened by the Dutch's restriction on the flow of pilgrims from Indonesia. Pilgrims from the Netherlands Indies during the first half of the 19th century numbered a few hundreds only as the Dutch imposed a tax on prospective pilgrims. This is to discourage the return of religious fanatics who, the Dutch feared, would be groomed while performing the Haj and deepening Islamic knowledge in Mecca. Singapore, thus, became the hub of an expanding pilgrim trade from Southeast Asia partly because of this restriction, as many would bypass it by beginning their Haj from Singapore. This tax was removed in 1852. 
-<img>
+
+<img src="/images/vol-2-issue-3/Journey%20of%20faith/Pilgrims%20posessions.jpg">
+<div style="background-color: white;">The pilgrims with their belongings waiting to leave for Mecca. <i>Image courtesy of Ministry of Communications and the Arts</i>.</div>
 
 When steamship arrived in the late half of the 19th century, the Arab shipping merchants capitalised on the speed and capacity of these vessels. By 1871, the Alsagoff-owned Singapore Steamship Company had ferried pilgrims to Jeddah by steamers steered by a European captain and a Chinese hand. Another Arab shipping merchant who ran steamer services for pilgrims was Syed Mohsen AI-Joofree. Towards the end of the 19th century, he was locked in fierce competition with two Dutch steamers for pilgrims. But his business flopped some time before his death in 1894. 
 
