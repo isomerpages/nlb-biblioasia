@@ -135,11 +135,11 @@ The communist threat, though diminished, persisted until 2 December 1989 when th
 
 [^13]: Leslie Fong and Paul Wee, “[Booby-trap Escape](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19740621-1.2.2),” *Straits Times*, 21 June 1974, 1; “[Red Banners Seized at Bridges](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19741105-1.2.2),” *Straits Times*, 5 November 1974, 1. (From NewspaperSG)
 
-[^14]: Bharathi Menon, “[Bullet Warning from Bombers](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19741224-1.2.2),” *New Nation*, 24 December 1974, 1; “[The Katong Bomb Incident](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20111020-1.2.7.1),” Today, 20 October 2011, 2. (From NewspaperSG)
+[^14]: Bharathi Menon, “[Bullet Warning from Bombers](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19741224-1.2.2),” *New Nation*, 24 December 1974, 1; “[The Katong Bomb Incident](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20111020-1.2.7.1),” *Today*, 20 October 2011, 2. (From NewspaperSG)
 
-[^15]: “[24-hour Police Vigil for Articles with Red Slogans](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19741228-1.2.40),” Straits Times, 28 December 1974, 7. (From NewspaperSG)
+[^15]: “[24-hour Police Vigil for Articles with Red Slogans](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19741228-1.2.40),” *Straits Times*, 28 December 1974, 7. (From NewspaperSG)
 
-[^16]: Paul Wee, “[Riddle of Bomber No 3](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19741222-1.2.2),” Straits Times, 22 December 1974, 1; Paul Wee, “[Hunt for Bomber No 3](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19741221-1.2.2),” Straits Times, 21 December 1974, 1. (From NewspaperSG)
+[^16]: Paul Wee, “[Riddle of Bomber No 3](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19741222-1.2.2),” *Straits Times*, 22 December 1974, 1; Paul Wee, “[Hunt for Bomber No 3](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19741221-1.2.2),” *Straits Times*, 21 December 1974, 1. (From NewspaperSG)
 
 [^17]: Wee, “[Hunt for Bomber No 3](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19741221-1.2.2)”; “[Katong Blast Bomber Dies](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19750104-1.2.41),” Straits Times, 4 January 1975, 8; Lai Yew Kong, “[Bombers’ Link with Reds](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19741223-1.2.2),” Straits Times, 23 December 1974, 1. (From NewspaperSG)
 
