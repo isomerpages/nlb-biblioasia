@@ -4,7 +4,6 @@ title: "Red Terror: The Forgotten Story of CPM Violence and Subversion in Newly
 permalink: /red-terror
 description: ""
 ---
-
 #### The 1970s are often remembered as a time of rapid economic transformation and progress for Singapore, but this period also saw communist bombings, assassination plots and covert information wars. By **Choo Ruizhi**
 
 ![](/images/Vol%2018%20Issue%202/Chinese%20Buddhist%20Women/Chinese%20Buddhist%20Women%20-%20Image%201.png)
