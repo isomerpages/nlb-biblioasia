@@ -55,6 +55,9 @@ Authenticity aside, the Haj journey in Hikayat Hang Tuah is useful for its insig
 <br>b. From Aceh to Pulau Dewa - 10 days 
 <br>c. From Pulau Dewa to Bab Mokha (Mocha is in Yemen. The journey from Pulau Dewa to Jeddah took two months). 
 
+<img src="/images/vol-2-issue-3/Journey of faith/hikayat_ HT.jpg" style="width:70%">
+<div style="background-color: white;">Hikayat Hang Tuah. <i>All rights reserved, Malaya Publishing House</i>.</div>
+
 According to Hikayat Hang Tuah, Hang Tuah's pilgrimage was coincidental for his ultimate quest was the quasi-mythical empire of Rome and his imperial mission was to establish ties with the King of Rome and purchase weaponry. On his way to Rome, Hang Tuah called at Mecca just at the time when the Haj season was about to begin, and so he joined the pilgrims there for Haj. This is unlike other Islamic kingdoms in Indonesia whose kings consciously planned missions to Mecca with the desire to be conferred the title "Sultan" by the Great Sheriff (Syarif Besar). Their actions could be prompted by the belief that only the Great Sheriff, with his control over the holy cities of Mecca and Medina, had the spiritual authority to bestow supernatural aura and power on Islamic kingdoms, although there was no such tradition in Mecca. In 1630s, competition between the King of Banten and the King of Mataram led each of the kingdoms to send holy missions to Mecca. The mission from Banten returned in 1626 while that from Mataram arrived home in 1641.
 
 The King of Makassar also sought the title of Sultan from the Sheriff of Mecca. It is more than likely that the individuals in these missions, following Hang Tuah's example, would take the opportunity of their presence in Mecca to perform Haj.   
