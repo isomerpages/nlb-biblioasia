@@ -91,4 +91,16 @@ By the grace of God, a ship called Atiah Rahman arrived from Calcutta ... carrie
 
 It is interesting to see the continuity of such conditions onboard pilgrim ships from Abdullah's time right up to the late 19th– 20th century when steamships ruled the waves. Even with room for more pilgrims on board steamships, serious overcrowding and hygiene problems still haunted Haj pilgrims. Deaths on pilgrim ships en route Mecca were common; during Abdullah's voyage, more than 20 suffered from chicken pox and two or three died. Once pilgrims reached the Holy Land, the situation on land was no less chaotic, as according to Abdullah it resembled a "war zone". Pilgrims' belongings were piled in haphazard heaps, some smashed, some lost or switched. The taxation of pilgrims' packages was another source of misery. The tax collector used his discretion, not understood by the pilgrims, to determine which items should be taxed and which should not. No one dared to protest, not even when their packages were ripped apart or ransacked. Abdullah's writing chests were not spared and his ink splashed across all his writing papers because too many hands dipped into his chests at the same time.[^8] The "war zone" scene continued into the late 19th–20th century, and one can only imagine the scale of pandemonium at Port Jeddah since pilgrims' arrival in Jeddah in the steamship era had grown by leaps and bounds. 
 
-According to Raimy Che-Ross in his translation of Abdullah's voyage to Mecca, Abdullah did not get to perform his Haj rituals for he died shortly after reaching Mecca in May 1854. The joy of reaching the Holy Land overwhelmed him that he had forgotten about the hardships he endured during his approximately 100 days' journey from Singapore. As his heart soared, he composed a poem which were the last words to flow from his pen:   
+According to Raimy Che-Ross in his translation of Abdullah's voyage to Mecca, Abdullah did not get to perform his Haj rituals for he died shortly after reaching Mecca in May 1854. The joy of reaching the Holy Land overwhelmed him that he had forgotten about the hardships he endured during his approximately 100 days' journey from Singapore. As his heart soared, he composed a poem which were the last words to flow from his pen:
+
+<br>As I entered into this exalted city
+<br>I became oblivious to all the pleasures and joys of this world
+<br>It was as if I had acquired Heaven and all that it holds
+<br>I uttered a thousand prayers of thanks to the
+<br>Most Exalted God
+<br>Thus I have forgotten all the hardships and
+<br>torments along my journey
+<br>For I have yearned and dreamed after the Baitullah
+<br>for many months.[^9]
+
+The incomplete journal of Abdullah's journey was safely returned to his family in Singapore through one of his companions. 
