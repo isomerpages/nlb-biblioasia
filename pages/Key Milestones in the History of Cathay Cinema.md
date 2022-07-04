@@ -18,7 +18,7 @@ The 1,321-seat cinema opened on 3 October 1939 with *Four Feathers*, a British a
 ![](/images/Cathay/cathay%20opening%201939.jpg)
 <div style="background-color: white;">Left to right: Cathay Cinema opening souvenir, 1939 (<i>Courtesy of Wong Han Min</i>); advertisement of the opening film of the “air-cooled luxury” of Cathay cinema (<i>Image reproduced from Malaya Tribune, 26 September 1939, 3</i>).</div>
 
-The theatre was opulent, with black marble pillars, green-tiled floors, silver curtains, and gold ceilings. On either side of the screen was acoustic plaster in the shape of shells. [^3] 
+The theatre was opulent, with black marble pillars, green-tiled floors, silver curtains and gold ceilings. On either side of the screen was acoustic plaster in the shape of shells. [^3] 
 
 ![](/images/Cathay/cathay-interior.jpg)
 <div style="background-color: white;">Interior of the theatre. <i>Image reproduced from Lim Kay Tong, Cathay: 55 Years of Cinema (Singapore: Landmark Books, 1991). (From National Library, Singapore, RSING 791.43095957 LIM)</i> </div>
@@ -26,7 +26,7 @@ The theatre was opulent, with black marble pillars, green-tiled floors, silver c
 The Cathay Restaurant subsequently opened in 1940, and the apartment block in 1941. [^4] 
 
 #### World War II
-In 1941, Cathay Building was rented to the colonial government and the Malayan Broadcasting Corporation. The latter continued to broadcast updates of the war during the Japanese invasion, and the cinema screened its last movie before the British surrender on 15 February 1942. The building was also used a temporary Red Cross casaulty station.[^5]
+In 1941, Cathay Building was rented to the colonial government and the Malayan Broadcasting Corporation. The latter continued to broadcast updates of the war during the Japanese invasion, and the cinema was used as a shelter in the last days before the Japanese Occupation.[^5]
 
 <img src="/images/Cathay/Cathay-1941.jpg">
 <div style="background-color: white;">Cathay Building, 1941. <i>Chung Shui Ken Collection, PictureSG, National Library, Singapore</i></div>
@@ -94,7 +94,7 @@ Cathay Cineplex’s last day of operations was 26 June 2022, when it screened 
 
 [^4]: “[Americans Celebrate Washington Day](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19400222-1.2.56),” _Straits Times_, 22 February 1940, 10; “[Jap Bombs Could Not Shake Its Spirit](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19490925-1.2.96),” _Malaya Tribune_, 25 September 1949, 11. (From NewspaperSG)
 
-[^5]: Tommy Koh et al.,*[Singapore: The Encyclopedia](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12768833)* (Singapore: Editions Didier Millet and National Heritage Board, 2006), 37. (From National Library, Singapore, Call no. RSING 959.57003 SIN)
+[^5]: Tommy Koh et al., *[Singapore: The Encyclopedia](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12768833)* (Singapore: Editions Didier Millet and National Heritage Board, 2006), 37. (From National Library, Singapore, Call no. RSING 959.57003 SIN)
 
 [^6]: Koh, *[Singapore: The Encyclopedia](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12768833)*, 37; Lim, [_Cathay_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6095688), 100–102.
 
