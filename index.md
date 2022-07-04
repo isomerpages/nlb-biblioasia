@@ -9,9 +9,9 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Vol 18 Issue 1/Orang Seletar/orang seletar hero (1).jpg
-      button: The Orang Seletar
-      url: /vol-18/issue-1/apr-to-jun-2022/orang-seletar-changing-tides
+      background: /images/Cathay/cathay hero.jpg
+      button: Cathay Cinema
+      url: /history-cathay-cinema-2022
   - infopic:
       title: They Died for All Free Men
       subtitle: war
