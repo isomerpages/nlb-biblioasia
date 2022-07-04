@@ -46,6 +46,9 @@ The vehicle’s driver, Gay Beng Guan, 37, was hurled out of the car by the forc
 
 That same morning, police found three more bombs strung across the North Bridge Road office of Nanyang Manufacturing (an affliate company of Nanyang Shoe Factory). The bombs were hung alongside banners that read “The Righteous Struggle of Johor Baru Nanyang Shoe Factory Workers Must Win” and for all to “Most rigorously condemn the persecution of workers by the reactionary management”.[^18]
 
+![](/images/Vol%2018%20Issue%202/Red%20terror/Red%20terror%20-%20Image%203.png)
+<div style="background-color: white;">Home-made bombs and banners were planted outside the office of the North Bridge Road office of Nanyang Manufacturing Company on 20 December 1974. The banners were in support of the workers of Nanyang Shoe Factory in Johor Bahru. Courtesy of Ministry of Home Affairs.</div>
+
 The horrific deaths of the communist agents – described, photographed and published in vivid detail in newspapers – were perhaps the most sobering demonstration of the bloodshed the CPM was prepared to inflict. Yet these explosions were only the most visible manifestations of the CPM’s operations in Singapore.
 
 Throughout the 1970s, the police and the Internal Security Department (ISD, which succeeded the Singapore Special Branch) uncovered numerous CPM plots to infiltrate local organisations, attack key installations and assassinate government leaders. Although such schemes were fortunately prevented, they illustrate the sheer scale of carnage communist forces were planning to wreak.
