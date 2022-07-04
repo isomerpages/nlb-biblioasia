@@ -9,12 +9,16 @@ description: ""
 ####
 
 
-<img src="images/vol-2-issue-3/Journey of faith/Kaabar BW.jpg">
+<img src="/images/vol-2-issue-3/Journey of faith/Kaabar BW.jpg">
 <div style="background-color: white;">The <i>Kaabar</i> (House of God) </div>
 
 Making the journey to Mecca to fulfil the obligation of the Haj is a long and cherished ambition for most Muslims. In heeding the call of the *Ka'bah* (House of God) in Mecca, where all Muslims turned to in their prayers, the Haj is not for the faint-hearted or the ill prepared. In Haj, the pursuit of spiritual upliftment transcends worldly wants and often requires stoicism in the face of hardships. Travelling in strange Arab lands and in close company of multitudes of strangers, hardships are never few. As an obligation. in fact, the Haj is not demanded on those who cannot canvass the strength and earnings to leave their routines and family dependants behind in order to complete the intense Haj rituals.
 
 For far-flung devotees such as Muslims in Southeast Asia, just traversing parts of the globe to reach Mecca was once a severe test to their mettle. Today, because of advance transportation, flights from anywhere in the world has diminished the distance to Mecca, making the trip to the Holy Land bearable. Surviving the journey to Mecca is almost a certainty and forms the least of the pilgrims' worries. A return passage to their homeland at the end of the Haj is also guaranteed, as most pilgrims would have booked a two-way ticket. This was not the practice in the old days as it was the custom for pilgrims to book a one-way ticket to Jeddah. They booked their ticket home from Jeddah only after they had completed their Haj. In the pre-flight days, many pilgrims, often due the treachery of their _motowwaf_ (local pilgrim guides), found themselves with no money for their return passage. In one instance, in 1897, the British Consul in Jeddah had to assist 106 pilgrims to make it back to home. There were others however who were not so lucky. They became victims to shipping agents' manipulation to secure cheap labour. Just before the turn of the 20th century, in what was to become a big scandal in Singapore, the colonial government in Singapore uncovered a syndicate, which cunningly offered destitute pilgrims an advance on their return fares in exchange for the pilgrims' agreement to work in the shipping agent's plantations. The debt-bondage arrangement that ensued lead to the recruitment of many plantation coolies from the rank of these destitute pilgrims. They were unable to free themselves even after they have reached the maximum period of their tenure. 
+
+<img src="/images/vol-2-issue-3/Journey of faith/Kaabah Pic.jpg" style="width:50%">
+<div style="background-color: white;">Close-up of the <i>Kaabar. All rights reserved, Yayasan Dahwah Islamia Malaysia, 1986</i>.</div>
+
 
 For pilgrims in Singapore, Malaysia and Indonesia (and for the most part of the world), hassle-free journeys only came about in the 1970s when flights became regular and affordable. Prior to that, Malay pilgrims travelled to Mecca mainly by sea on sailing ships and later steamers. It would take months to reach the port at Jeddah where the vessels would congregate and spill their contents.
 
@@ -23,6 +27,11 @@ During the first 13 centuries of Islam, to embark for Haj was like attempting to
 <br>a. The sprinkled archipelagos of the East Indies 
 <br>b. The great inverted triangle of the Indian subcontinent 
 <br>c. The coast of East Africa and the horn of Africa  
+
+
+<img src="images/vol-2-issue-3/Journey of faith/haj-maps.jpg">
+<div style="background-color: white;">Left to right: Haj landmarks in the Red Sea; Singapore in relation to the Indian Ocean. <i>All rights reserved, Pustaka Melayu, 1960</i>.</div>
+
 
 The next wave, slower than the first, trotted by foot or on horse/camel caravans, bringing pilgrims from the Middle East and North Africa. Even slower is the last wave, which trudged across Central Africa. Pilgrims on all these waves braved hardships; the adventurous overland folks had to conquer harsh terrains, fought off raids by moving tribes or found themselves just plain lost. For their sea-faring counterparts, the spectre of diseases loomed or they risked their boats and hence live being overturned by ruthless waves. 
 
