@@ -15,7 +15,7 @@ That same evening, two homemade bombs, packed into red cylinders, were discovere
 
 In Singapore’s history, communists often feature as dangerous antagonists of the 1950s and 1960s. However, what many have forgotten is that acts of violence continued into the 1970s. In fact, April 1970 marked the start of renewed communist violence on the island. Newspaper articles, photographs, and government press releases from the 1970s tell of foiled assassinations, terrorist attacks and clandestine information wars.
 
-A Broader Picture: 	Communists in Context
+#### **A Broader Picture: 	Communists in Context**
 
 This resurgence of communist activity was not spontaneous. The April 1970 bombing in Changi was linked to the CPM’s revival of its armed struggle in Malaysia in June 1968. This revival can be traced to broader regional and international situations at the time, such as the ongoing Vietnam War and Chinese support for the CPM.
 
